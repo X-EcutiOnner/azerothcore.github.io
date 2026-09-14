@@ -1,8 +1,8 @@
 var a21405 =
 [
-    [ "CheckProc", "da/de1/a21405.html#ac955cc78dd3206816906dd06b3e006f6", null ],
-    [ "HandleProc", "da/de1/a21405.html#a966d23cc5714fe35d80b2964dddda536", null ],
-    [ "PrepareAuraScript", "da/de1/a21405.html#a5c8464dcf2f8b62a624f38dec2f4a0a5", null ],
-    [ "Register", "da/de1/a21405.html#a3e7479f97e4105f2c12536d9c66284aa", null ],
-    [ "Validate", "da/de1/a21405.html#a5d8e764dafd26548af8588593bf27990", null ]
+    [ "FilterTargets", "da/de1/a21405.html#a6f3d275e5ff06a6fc37f143d6394bf45", null ],
+    [ "HandleScript", "da/de1/a21405.html#aa97e0b2f4a8e33d412501f6625ab1504", null ],
+    [ "PrepareSpellScript", "da/de1/a21405.html#a0db5183ec1aa7f490202ac41cd00b153", null ],
+    [ "Register", "da/de1/a21405.html#acd4b270dbe27be417892e0a4183ffa0d", null ],
+    [ "Validate", "da/de1/a21405.html#abb3ca41a50087763d731d1f911065e14", null ]
 ];

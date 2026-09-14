@@ -1,15 +1,11 @@
 var a11817 =
 [
-    [ "BaseSocketMgr", "dd/d59/a11817.html#a6f9671b94ae64c0c3482e085cb2a252f", null ],
-    [ "WorldSocketMgr", "dd/d59/a11817.html#a8e46ddcf7ba33a66c7226150400cc08b", null ],
-    [ "CreateThreads", "dd/d59/a11817.html#a04e98fcb25c09ff85e9536cf43fd4e6e", null ],
-    [ "GetApplicationSendBufferSize", "dd/d59/a11817.html#a8deeaffd7d25bacd8bfa15d29dff6aeb", null ],
-    [ "Instance", "dd/d59/a11817.html#aaa32a527707cb66916b1499a2e283250", null ],
-    [ "OnSocketAccept", "dd/d59/a11817.html#add84a09a7111cca079a11289c7ef672d", null ],
-    [ "OnSocketOpen", "dd/d59/a11817.html#a916e6d479b7281c26fc7820a2ed0255d", null ],
-    [ "StartWorldNetwork", "dd/d59/a11817.html#acaf85b16b490bfda8532b49456a38b71", null ],
-    [ "StopNetwork", "dd/d59/a11817.html#aede126ecfe75f2917aaf730330ea3b82", null ],
-    [ "_socketApplicationSendBufferSize", "dd/d59/a11817.html#a7a5ca8c2c9165d3cb1f46adbdfe917b0", null ],
-    [ "_socketSystemSendBufferSize", "dd/d59/a11817.html#a043da77b04a29c4c5fe81698ae279985", null ],
-    [ "_tcpNoDelay", "dd/d59/a11817.html#a6f440c4cde2deaa72cbc5dbd348a00b6", null ]
+    [ "Player", "dd/d59/a11817.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
+    [ "WorldSession", "dd/d59/a11817.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
+    [ "Face", "dd/d59/a11817.html#a6334464eea38be514f3faa7538b39a5a", null ],
+    [ "FacialHair", "dd/d59/a11817.html#a44643270b211d275eb94283842791407", null ],
+    [ "Gender", "dd/d59/a11817.html#a14321ea3595debe2836eceab8a82f944", null ],
+    [ "HairColor", "dd/d59/a11817.html#aeaa7ce4ecea7f42def63049424a2dd6b", null ],
+    [ "HairStyle", "dd/d59/a11817.html#ade5b2dff213547ab4d707070f8979085", null ],
+    [ "Skin", "dd/d59/a11817.html#a2876110e687e7248e8c64fcb3a3a80db", null ]
 ];

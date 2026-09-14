@@ -1,16 +1,16 @@
 var a29697 =
 [
-    [ "ProcTestScenario", "d7/d13/a29697.html#aba69369df56d3d631a9a62bcde791537", null ],
-    [ "AdvanceTime", "d7/d13/a29697.html#a3b6e8c7f5207be98b7696b478559b24a", null ],
-    [ "GetActor", "d7/d13/a29697.html#a52dcbfa52c49f54ce29cb73253746f70", null ],
-    [ "GetActor", "d7/d13/a29697.html#a7b2084c740b51289f6e2f7ec74dacf17", null ],
-    [ "GetAura", "d7/d13/a29697.html#aa5e30fdf4a8b4912a48ce12aa7763624", null ],
-    [ "GetNow", "d7/d13/a29697.html#a014a9082421c022c2fac91070f8f062e", null ],
-    [ "SimulateProc", "d7/d13/a29697.html#af3f83abbfbd4a902689b232853fdbcfb", null ],
-    [ "WithActorLevel", "d7/d13/a29697.html#ad0ca3530818d3091ab420bd76aab8dcb", null ],
-    [ "WithAura", "d7/d13/a29697.html#a6c6dc6438b7503dcda2a89f1e53bc324", null ],
-    [ "WithWeaponSpeed", "d7/d13/a29697.html#a05d00a17b60c3fd94e85c75d896ca2bb", null ],
-    [ "_actor", "d7/d13/a29697.html#a8928fbb771f94e66af2a24c6c2a3351d", null ],
-    [ "_aura", "d7/d13/a29697.html#a81e71f6e78e8c715899c85dcb9423589", null ],
-    [ "_now", "d7/d13/a29697.html#ae20c57ecb893219e52fe055d1662e527", null ]
+    [ "AuraApplicationStub", "d7/d13/a29697.html#afaa194023ae92143078166c9a142a41d", null ],
+    [ "~AuraApplicationStub", "d7/d13/a29697.html#ada36445f6f090c6652e0567a5333bb53", null ],
+    [ "GetEffectMask", "d7/d13/a29697.html#ad74cccf28b56c1fe88988df229319dae", null ],
+    [ "GetSlot", "d7/d13/a29697.html#a30f0ddd6c6bbc974958a33ecee39135e", null ],
+    [ "HasEffect", "d7/d13/a29697.html#ad4040b722b12e54aa630abfa78cdaabd", null ],
+    [ "IsPositive", "d7/d13/a29697.html#a1bf6810ab9723ce50ddf46789d2a5045", null ],
+    [ "SetEffect", "d7/d13/a29697.html#a97383d45b0a015579a0f315474ecfcc5", null ],
+    [ "SetEffectMask", "d7/d13/a29697.html#a1fab3395f580b30fa7b2257cbcacd26a", null ],
+    [ "SetPositive", "d7/d13/a29697.html#a653fb81ddfa4c7ad855d9f1fefe172f4", null ],
+    [ "SetSlot", "d7/d13/a29697.html#a824a2ec07e911fdb02054eff2091f2ea", null ],
+    [ "_effectMask", "d7/d13/a29697.html#a9027c5f622263c32b6f7bc4a11883ddc", null ],
+    [ "_isPositive", "d7/d13/a29697.html#afc3220aa9f0403a987ad07cec1c42ced", null ],
+    [ "_slot", "d7/d13/a29697.html#aa4afd58cae5bcfd203d61a1044d72d57", null ]
 ];

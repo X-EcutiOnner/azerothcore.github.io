@@ -1,7 +1,5 @@
 var a08193 =
 [
-    [ "StoreTo", "d9/d8d/a08193.html#a1f368b832f95ce4acc6ed47ad4ca2e8d", null ],
-    [ "StoreTo", "d9/d8d/a08193.html#a3d9382dd50447477f9f04bc0f055e55c", null ],
-    [ "StoreTo", "d9/d8d/a08193.html#a071922c9c431637de3cb2d6b52def7bd", null ],
-    [ "StoreTo", "d9/d8d/a08193.html#a45556cc3ac64a6692ef08d6d93d48a4d", null ]
+    [ "IsColorValid", "d9/d8d/a08193.html#a4e2a1ab20d086987429174f41887bc45", null ],
+    [ "IsTextValid", "d9/d8d/a08193.html#a4704555f7e926f8facce237de6772a3d", null ]
 ];

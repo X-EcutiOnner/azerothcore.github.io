@@ -1,7 +1,17 @@
 var a13389 =
 [
-    [ "PeriodicTick", "d3/d00/a13389.html#a267d6df2c08039581fd1c008ffc14b8c", null ],
-    [ "PrepareAuraScript", "d3/d00/a13389.html#ab75f10a475a4302897cbb90a3adb5b03", null ],
-    [ "Register", "d3/d00/a13389.html#a2681d44b149e9f1d797df4147e20e686", null ],
-    [ "Validate", "d3/d00/a13389.html#a9a5f11a3024a14911b478cdf59a7abb9", null ]
+    [ "boss_dorothee", "d3/d00/a13389.html#a8bd5b4753c2d8f8aced0c036912f10f1", null ],
+    [ "DoAction", "d3/d00/a13389.html#a1b9cf1e58d68d249249a8b0d082b725a", null ],
+    [ "EnterEvadeMode", "d3/d00/a13389.html#a6dfc4109370d4e932e7376a443bd64ad", null ],
+    [ "JustDied", "d3/d00/a13389.html#a289dfa1f257ca25acba9487908e6223c", null ],
+    [ "JustEngagedWith", "d3/d00/a13389.html#aa35dafeb9faf8eeea55caa0eeb669db3", null ],
+    [ "JustReachedHome", "d3/d00/a13389.html#a762209d2bf78cc21c48a426732f2354e", null ],
+    [ "Reset", "d3/d00/a13389.html#ae3f123a6a9223b7928295812326b0cb4", null ],
+    [ "SummonedCreatureDies", "d3/d00/a13389.html#a0e76c828a1c7c49741963b6e98003a66", null ],
+    [ "SummonTito", "d3/d00/a13389.html#a5c04074aab40ecaeeb84b33205b40144", null ],
+    [ "UpdateAI", "d3/d00/a13389.html#a30fbcc5e7ca4ed74b9d2895b94a9a19e", null ],
+    [ "_scheduler", "d3/d00/a13389.html#a840bcbad78ff881ef3a803ffa23d3c6e", null ],
+    [ "_startIntro", "d3/d00/a13389.html#a20e6555e2117a62fce3af7f7fb7167cc", null ],
+    [ "instance", "d3/d00/a13389.html#ac6a6f1c9074697f761e4e09550cfea71", null ],
+    [ "titoDied", "d3/d00/a13389.html#a258cc9ce32f314e723d5345ac18336bf", null ]
 ];

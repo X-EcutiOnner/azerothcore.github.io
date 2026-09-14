@@ -1,8 +1,8 @@
 var a17353 =
 [
-    [ "npc_phantom_hallucination", "d6/d69/a17353.html#a55dc1bf20a0714bbe3bd2bf98978c127", null ],
-    [ "EnterEvadeMode", "d6/d69/a17353.html#a0e45cbe40a3118d17f403c48c91f630e", null ],
-    [ "JustDied", "d6/d69/a17353.html#a14c91f9f3a1f654fed3fc11685d41da7", null ],
-    [ "UpdateAI", "d6/d69/a17353.html#af03cb9c2f062e14e6333c8c889d3c8df", null ],
-    [ "numOfUpd", "d6/d69/a17353.html#a2cc47caafdc22de25f820a78f632ee4b", null ]
+    [ "npc_fos_leaderAI", "d6/d69/a17353.html#ae6a80f77558e0f5a62efc3b5ef1f61d6", null ],
+    [ "DoAction", "d6/d69/a17353.html#a1fd8cea6f8a6d8f76ba3c484b15c4054", null ],
+    [ "Reset", "d6/d69/a17353.html#a33364da3af4681de9f9e21b9dcf7f16c", null ],
+    [ "UpdateAI", "d6/d69/a17353.html#ac6f2aedc40e415ac0f7e8c212d4deae5", null ],
+    [ "events", "d6/d69/a17353.html#ac02a0c34096086e7baf1dc004811f4c1", null ]
 ];

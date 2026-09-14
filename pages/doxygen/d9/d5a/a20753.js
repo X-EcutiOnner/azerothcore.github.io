@@ -1,9 +1,9 @@
 var a20753 =
 [
-    [ "npc_expedition_trapper", "d9/d5a/a20753.html#ac924a9b9e23624de1460b0cdfe8c8a1b", null ],
-    [ "DoAction", "d9/d5a/a20753.html#a094ecbf1a719223d50c7d070989aa782", null ],
-    [ "MovementInform", "d9/d5a/a20753.html#ae2a0c15b4a7d59f4222e818d0fcf303b", null ],
-    [ "SetData", "d9/d5a/a20753.html#a11241b1513209a9964569ab29eb5dc64", null ],
-    [ "UpdateAI", "d9/d5a/a20753.html#a16a39f855263ebde21ddb03d4fe60460", null ],
-    [ "_idx", "d9/d5a/a20753.html#ae24ec016a0f29f7bcb41935e1991f9fa", null ]
+    [ "OnApply", "d9/d5a/a20753.html#aaf6e89fc5d101b1622666a6fe15f20e7", null ],
+    [ "OnRemove", "d9/d5a/a20753.html#a9bfdefb3e212cca086dec752687e2b93", null ],
+    [ "OnRemoveSelf", "d9/d5a/a20753.html#a3076446d6761263fdb7f973f01be3cf2", null ],
+    [ "PrepareAuraScript", "d9/d5a/a20753.html#a685d6c0ffcc258f9d6857242cb28f6a8", null ],
+    [ "Register", "d9/d5a/a20753.html#a1369972dfbf969cb39efa88075fc13df", null ],
+    [ "Validate", "d9/d5a/a20753.html#ada8c858f70beb71765fd0f796209677b", null ]
 ];

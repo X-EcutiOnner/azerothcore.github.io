@@ -1,7 +1,7 @@
 var a23693 =
 [
-    [ "HandleDummyApply", "d1/d02/a23693.html#a8a982bbbda94a2cf981c845161f05bdc", null ],
-    [ "HandleDummyRemove", "d1/d02/a23693.html#a5d68d9e15600119deca7179ffe00acda", null ],
-    [ "PrepareAuraScript", "d1/d02/a23693.html#a34d09e48b69d32dae6c127fa0837be4b", null ],
-    [ "Register", "d1/d02/a23693.html#a094004ccf6b4cae4d27bca639b76b899", null ]
+    [ "boss_the_maker", "d1/d02/a23693.html#a478c48f225e8fdf14cde5b1f144cb6c4", null ],
+    [ "JustDied", "d1/d02/a23693.html#a564abd0a8f52c8c58a305f9c47d8475c", null ],
+    [ "JustEngagedWith", "d1/d02/a23693.html#a6b0a4442dbabde69ca9352017ee23675", null ],
+    [ "KilledUnit", "d1/d02/a23693.html#a40643ca00fe7d7029a291335e47c722a", null ]
 ];

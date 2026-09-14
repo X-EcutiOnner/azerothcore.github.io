@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: AsyncTask&lt; T &gt; Class Template Reference</title>
+<title>AzerothCore: AuraScript::EffectUpdatePeriodicHandler Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,103 +105,96 @@ $(document).ready(function(){initNavTree('d0/dcf/a12153.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-types">Public Types</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../d2/dd3/a12150.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">AsyncTask&lt; T &gt; Class Template Reference</div></div>
+  <div class="headertitle"><div class="title">AuraScript::EffectUpdatePeriodicHandler Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">AsyncTask.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">SpellScript.h</a>&quot;</code></p>
+<div class="dynheader">
+Inheritance diagram for AuraScript::EffectUpdatePeriodicHandler:</div>
+<div class="dyncontent">
+ <div class="center">
+  <img src="../../d0/dcf/a12153.png" usemap="#AuraScript::EffectUpdatePeriodicHandler_map" alt=""/>
+  <map id="AuraScript::EffectUpdatePeriodicHandler_map" name="AuraScript::EffectUpdatePeriodicHandler_map">
+<area href="../../d2/db2/a12145.html" alt="AuraScript::EffectBase" shape="rect" coords="126,56,369,80"/>
+<area href="../../df/d41/a12089.html" alt="_SpellScript::EffectAuraNameCheck" shape="rect" coords="0,0,243,24"/>
+<area href="../../d8/d2e/a12081.html" alt="_SpellScript::EffectHook" shape="rect" coords="253,0,496,24"/>
+  </map>
+</div></div>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
-Public Types</h2></td></tr>
-<tr class="memitem:a2addfa1b63edc880ca54fc46e0a6d94b"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dcf/a12153.html#a2addfa1b63edc880ca54fc46e0a6d94b">AsyncFunction</a> = std::function&lt; T()&gt;</td></tr>
-<tr class="separator:a2addfa1b63edc880ca54fc46e0a6d94b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab2d6148aad6c533ac787ebef69250357"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dcf/a12153.html#ab2d6148aad6c533ac787ebef69250357">CallbackFunction</a> = std::function&lt; void(T)&gt;</td></tr>
-<tr class="separator:ab2d6148aad6c533ac787ebef69250357"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:ad6f8ee54d3e1b0736e34362cd30f1365"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dcf/a12153.html#ad6f8ee54d3e1b0736e34362cd30f1365">AsyncTask</a> (<a class="el" href="../../d0/dcf/a12153.html#a2addfa1b63edc880ca54fc46e0a6d94b">AsyncFunction</a> <a class="el" href="../../d0/dcf/a12153.html#a835a7b06185916adfb632d27ef73c9ce">asyncFunc</a>, <a class="el" href="../../d0/dcf/a12153.html#ab2d6148aad6c533ac787ebef69250357">CallbackFunction</a> <a class="el" href="../../d0/dcf/a12153.html#a9eb4e4b1eddea03bc0197758d34f9325">callbackFunc</a>)</td></tr>
-<tr class="separator:ad6f8ee54d3e1b0736e34362cd30f1365"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a553b3c1b778f9dadea8b764f210b8d8c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dcf/a12153.html#a553b3c1b778f9dadea8b764f210b8d8c">~AsyncTask</a> ()</td></tr>
-<tr class="separator:a553b3c1b778f9dadea8b764f210b8d8c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aecfe1b8d9ab2be59f564939dde44cfb9"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dcf/a12153.html#aecfe1b8d9ab2be59f564939dde44cfb9">InvokeIfReady</a> ()</td></tr>
-<tr class="separator:aecfe1b8d9ab2be59f564939dde44cfb9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1cdc60ddffaa431d19c992c0e389b85d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dcf/a12153.html#a1cdc60ddffaa431d19c992c0e389b85d">ExecuteAsync</a> ()</td></tr>
-<tr class="separator:a1cdc60ddffaa431d19c992c0e389b85d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6b18a259aa84c847bcc064c5243eb590"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dcf/a12153.html#a6b18a259aa84c847bcc064c5243eb590">EffectUpdatePeriodicHandler</a> (AuraEffectUpdatePeriodicFnType _pEffectHandlerScript, <a class="el" href="../../d8/dca/a04670.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> _effIndex, <a class="el" href="../../d8/dca/a04670.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> _effName)</td></tr>
+<tr class="separator:a6b18a259aa84c847bcc064c5243eb590"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a38802863e7859453cbbe58ad91018c67"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dcf/a12153.html#a38802863e7859453cbbe58ad91018c67">Call</a> (<a class="el" href="../../dd/d08/a12133.html">AuraScript</a> *auraScript, <a class="el" href="../../dc/d4d/a11881.html">AuraEffect</a> *aurEff)</td></tr>
+<tr class="separator:a38802863e7859453cbbe58ad91018c67"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_methods_a12145"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a12145')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d2/db2/a12145.html">AuraScript::EffectBase</a></td></tr>
+<tr class="memitem:ab02f9f344e2f32ad59b35993d5c8f819 inherit pub_methods_a12145"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/db2/a12145.html#ab02f9f344e2f32ad59b35993d5c8f819">EffectBase</a> (<a class="el" href="../../d8/dca/a04670.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> _effIndex, <a class="el" href="../../d8/dca/a04670.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> _effName)</td></tr>
+<tr class="separator:ab02f9f344e2f32ad59b35993d5c8f819 inherit pub_methods_a12145"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab6f5b2a7ec1183206110eac9a21a7de5 inherit pub_methods_a12145"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/db2/a12145.html#ab6f5b2a7ec1183206110eac9a21a7de5">ToString</a> ()</td></tr>
+<tr class="separator:ab6f5b2a7ec1183206110eac9a21a7de5 inherit pub_methods_a12145"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8c300ca68c3ff6f74b230835c566fd60 inherit pub_methods_a12145"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/db2/a12145.html#a8c300ca68c3ff6f74b230835c566fd60">CheckEffect</a> (<a class="el" href="../../df/d89/a12013.html">SpellInfo</a> const *spellInfo, <a class="el" href="../../d8/dca/a04670.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> <a class="el" href="../../d8/d2e/a12081.html#ab5eb48ef7ac903938f92db0e856e0295">effIndex</a>) override</td></tr>
+<tr class="separator:a8c300ca68c3ff6f74b230835c566fd60 inherit pub_methods_a12145"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_methods_a12089"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a12089')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../df/d41/a12089.html">_SpellScript::EffectAuraNameCheck</a></td></tr>
+<tr class="memitem:a4b10ec0fcb3ffd841cf790574875017d inherit pub_methods_a12089"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d41/a12089.html#a4b10ec0fcb3ffd841cf790574875017d">EffectAuraNameCheck</a> (<a class="el" href="../../d8/dca/a04670.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> _effAurName)</td></tr>
+<tr class="separator:a4b10ec0fcb3ffd841cf790574875017d inherit pub_methods_a12089"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7fff405a99c65d3e846463ca29a8ddfd inherit pub_methods_a12089"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d41/a12089.html#a7fff405a99c65d3e846463ca29a8ddfd">Check</a> (<a class="el" href="../../df/d89/a12013.html">SpellInfo</a> const *spellInfo, <a class="el" href="../../d8/dca/a04670.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> effIndex)</td></tr>
+<tr class="separator:a7fff405a99c65d3e846463ca29a8ddfd inherit pub_methods_a12089"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a602fc1ddafe663e2e5ddceaeaec8b118 inherit pub_methods_a12089"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d41/a12089.html#a602fc1ddafe663e2e5ddceaeaec8b118">ToString</a> ()</td></tr>
+<tr class="separator:a602fc1ddafe663e2e5ddceaeaec8b118 inherit pub_methods_a12089"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_methods_a12081"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a12081')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d8/d2e/a12081.html">_SpellScript::EffectHook</a></td></tr>
+<tr class="memitem:a4a197e061d918dfba2bc486f3393b00d inherit pub_methods_a12081"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d2e/a12081.html#a4a197e061d918dfba2bc486f3393b00d">EffectHook</a> (<a class="el" href="../../d8/dca/a04670.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> _effIndex)</td></tr>
+<tr class="separator:a4a197e061d918dfba2bc486f3393b00d inherit pub_methods_a12081"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa234f63b530764d12064acbe3f5c9299 inherit pub_methods_a12081"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d2e/a12081.html#aa234f63b530764d12064acbe3f5c9299">~EffectHook</a> ()</td></tr>
+<tr class="separator:aa234f63b530764d12064acbe3f5c9299 inherit pub_methods_a12081"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a31faa86590e22f5ab3ca518f4df02840 inherit pub_methods_a12081"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/dca/a04670.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d2e/a12081.html#a31faa86590e22f5ab3ca518f4df02840">GetAffectedEffectsMask</a> (<a class="el" href="../../df/d89/a12013.html">SpellInfo</a> const *spellInfo)</td></tr>
+<tr class="separator:a31faa86590e22f5ab3ca518f4df02840 inherit pub_methods_a12081"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a697041ffa562bb6fff792beb159c7af2 inherit pub_methods_a12081"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d2e/a12081.html#a697041ffa562bb6fff792beb159c7af2">IsEffectAffected</a> (<a class="el" href="../../df/d89/a12013.html">SpellInfo</a> const *spellInfo, <a class="el" href="../../d8/dca/a04670.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> <a class="el" href="../../d8/d2e/a12081.html#ab5eb48ef7ac903938f92db0e856e0295">effIndex</a>)</td></tr>
+<tr class="separator:a697041ffa562bb6fff792beb159c7af2 inherit pub_methods_a12081"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae8823c5d649d182f572818bf3db72902 inherit pub_methods_a12081"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d2e/a12081.html#ae8823c5d649d182f572818bf3db72902">CheckEffect</a> (<a class="el" href="../../df/d89/a12013.html">SpellInfo</a> const *spellInfo, <a class="el" href="../../d8/dca/a04670.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> <a class="el" href="../../d8/d2e/a12081.html#ab5eb48ef7ac903938f92db0e856e0295">effIndex</a>)=0</td></tr>
+<tr class="separator:ae8823c5d649d182f572818bf3db72902 inherit pub_methods_a12081"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab818ed274cfd66ecc565b8535b751517 inherit pub_methods_a12081"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d2e/a12081.html#ab818ed274cfd66ecc565b8535b751517">EffIndexToString</a> ()</td></tr>
+<tr class="separator:ab818ed274cfd66ecc565b8535b751517 inherit pub_methods_a12081"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:a835a7b06185916adfb632d27ef73c9ce"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/dcf/a12153.html#a2addfa1b63edc880ca54fc46e0a6d94b">AsyncFunction</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dcf/a12153.html#a835a7b06185916adfb632d27ef73c9ce">asyncFunc</a></td></tr>
-<tr class="separator:a835a7b06185916adfb632d27ef73c9ce"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9eb4e4b1eddea03bc0197758d34f9325"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/dcf/a12153.html#ab2d6148aad6c533ac787ebef69250357">CallbackFunction</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dcf/a12153.html#a9eb4e4b1eddea03bc0197758d34f9325">callbackFunc</a></td></tr>
-<tr class="separator:a9eb4e4b1eddea03bc0197758d34f9325"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a81e22f584cc7d48594751038ac113ab2"><td class="memItemLeft" align="right" valign="top">std::shared_future&lt; T &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dcf/a12153.html#a81e22f584cc7d48594751038ac113ab2">asyncTask</a></td></tr>
-<tr class="separator:a81e22f584cc7d48594751038ac113ab2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af4b96cd278382c34dbaaa3782df8371b"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dcf/a12153.html#af4b96cd278382c34dbaaa3782df8371b">isReady</a></td></tr>
-<tr class="separator:af4b96cd278382c34dbaaa3782df8371b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0e51245e089fcd9532d5789056ab944c"><td class="memItemLeft" align="right" valign="top">AuraEffectUpdatePeriodicFnType&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dcf/a12153.html#a0e51245e089fcd9532d5789056ab944c">pEffectHandlerScript</a></td></tr>
+<tr class="separator:a0e51245e089fcd9532d5789056ab944c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="inherited" name="inherited"></a>
+Additional Inherited Members</h2></td></tr>
+<tr class="inherit_header pro_attribs_a12081"><td colspan="2" onclick="javascript:toggleInherit('pro_attribs_a12081')"><img src="../../closed.png" alt="-"/>&#160;Protected Attributes inherited from <a class="el" href="../../d8/d2e/a12081.html">_SpellScript::EffectHook</a></td></tr>
+<tr class="memitem:ab5eb48ef7ac903938f92db0e856e0295 inherit pro_attribs_a12081"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/dca/a04670.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d2e/a12081.html#ab5eb48ef7ac903938f92db0e856e0295">effIndex</a></td></tr>
+<tr class="separator:ab5eb48ef7ac903938f92db0e856e0295 inherit pro_attribs_a12081"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><div class="compoundTemplParams">template&lt;typename T&gt;<br />
-class AsyncTask&lt; T &gt;</div></div><h2 class="groupheader">Member Typedef Documentation</h2>
-<a id="a2addfa1b63edc880ca54fc46e0a6d94b" name="a2addfa1b63edc880ca54fc46e0a6d94b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2addfa1b63edc880ca54fc46e0a6d94b">&#9670;&#160;</a></span>AsyncFunction</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a6b18a259aa84c847bcc064c5243eb590" name="a6b18a259aa84c847bcc064c5243eb590"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6b18a259aa84c847bcc064c5243eb590">&#9670;&#160;</a></span>EffectUpdatePeriodicHandler()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
       <table class="memname">
         <tr>
-          <td class="memname">using <a class="el" href="../../d0/dcf/a12153.html">AsyncTask</a>&lt; T &gt;::AsyncFunction =  std::function&lt;T()&gt;</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ab2d6148aad6c533ac787ebef69250357" name="ab2d6148aad6c533ac787ebef69250357"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab2d6148aad6c533ac787ebef69250357">&#9670;&#160;</a></span>CallbackFunction</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-      <table class="memname">
-        <tr>
-          <td class="memname">using <a class="el" href="../../d0/dcf/a12153.html">AsyncTask</a>&lt; T &gt;::CallbackFunction =  std::function&lt;void(T)&gt;</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="ad6f8ee54d3e1b0736e34362cd30f1365" name="ad6f8ee54d3e1b0736e34362cd30f1365"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad6f8ee54d3e1b0736e34362cd30f1365">&#9670;&#160;</a></span>AsyncTask()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/dcf/a12153.html">AsyncTask</a>&lt; T &gt;<a class="el" href="../../d0/dcf/a12153.html">::AsyncTask</a> </td>
+          <td class="memname">AuraScript::EffectUpdatePeriodicHandler::EffectUpdatePeriodicHandler </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/dcf/a12153.html#a2addfa1b63edc880ca54fc46e0a6d94b">AsyncFunction</a>&#160;</td>
-          <td class="paramname"><em>asyncFunc</em>, </td>
+          <td class="paramtype">AuraEffectUpdatePeriodicFnType&#160;</td>
+          <td class="paramname"><em>_pEffectHandlerScript</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d0/dcf/a12153.html#ab2d6148aad6c533ac787ebef69250357">CallbackFunction</a>&#160;</td>
-          <td class="paramname"><em>callbackFunc</em>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d8/dca/a04670.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
+          <td class="paramname"><em>_effIndex</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d8/dca/a04670.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td>
+          <td class="paramname"><em>_effName</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -209,170 +202,62 @@ template&lt;typename T &gt; </div>
           <td></td><td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   35</span>        : <a class="code hl_variable" href="../../d0/dcf/a12153.html#a835a7b06185916adfb632d27ef73c9ce">asyncFunc</a>(std::move(<a class="code hl_variable" href="../../d0/dcf/a12153.html#a835a7b06185916adfb632d27ef73c9ce">asyncFunc</a>)), <a class="code hl_variable" href="../../d0/dcf/a12153.html#a9eb4e4b1eddea03bc0197758d34f9325">callbackFunc</a>(std::move(<a class="code hl_variable" href="../../d0/dcf/a12153.html#a9eb4e4b1eddea03bc0197758d34f9325">callbackFunc</a>)), <a class="code hl_variable" href="../../d0/dcf/a12153.html#af4b96cd278382c34dbaaa3782df8371b">isReady</a>(<span class="keyword">false</span>)</div>
-<div class="line"><span class="lineno">   36</span>    {</div>
-<div class="line"><span class="lineno">   37</span>    }</div>
-<div class="ttc" id="aa12153_html_a835a7b06185916adfb632d27ef73c9ce"><div class="ttname"><a href="../../d0/dcf/a12153.html#a835a7b06185916adfb632d27ef73c9ce">AsyncTask::asyncFunc</a></div><div class="ttdeci">AsyncFunction asyncFunc</div><div class="ttdef"><b>Definition:</b> AsyncTask.h:87</div></div>
-<div class="ttc" id="aa12153_html_a9eb4e4b1eddea03bc0197758d34f9325"><div class="ttname"><a href="../../d0/dcf/a12153.html#a9eb4e4b1eddea03bc0197758d34f9325">AsyncTask::callbackFunc</a></div><div class="ttdeci">CallbackFunction callbackFunc</div><div class="ttdef"><b>Definition:</b> AsyncTask.h:88</div></div>
-<div class="ttc" id="aa12153_html_af4b96cd278382c34dbaaa3782df8371b"><div class="ttname"><a href="../../d0/dcf/a12153.html#af4b96cd278382c34dbaaa3782df8371b">AsyncTask::isReady</a></div><div class="ttdeci">bool isReady</div><div class="ttdef"><b>Definition:</b> AsyncTask.h:90</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  819</span>    : <a class="code hl_class" href="../../d2/db2/a12145.html">AuraScript::EffectBase</a>(_effIndex, _effName)</div>
+<div class="line"><span class="lineno">  820</span>{</div>
+<div class="line"><span class="lineno">  821</span>    <a class="code hl_variable" href="../../d0/dcf/a12153.html#a0e51245e089fcd9532d5789056ab944c">pEffectHandlerScript</a> = _pEffectHandlerScript;</div>
+<div class="line"><span class="lineno">  822</span>}</div>
+<div class="ttc" id="aa12145_html"><div class="ttname"><a href="../../d2/db2/a12145.html">AuraScript::EffectBase</a></div><div class="ttdef"><b>Definition:</b> SpellScript.h:559</div></div>
+<div class="ttc" id="aa12153_html_a0e51245e089fcd9532d5789056ab944c"><div class="ttname"><a href="../../d0/dcf/a12153.html#a0e51245e089fcd9532d5789056ab944c">AuraScript::EffectUpdatePeriodicHandler::pEffectHandlerScript</a></div><div class="ttdeci">AuraEffectUpdatePeriodicFnType pEffectHandlerScript</div><div class="ttdef"><b>Definition:</b> SpellScript.h:579</div></div>
 </div><!-- fragment -->
-</div>
-</div>
-<a id="a553b3c1b778f9dadea8b764f210b8d8c" name="a553b3c1b778f9dadea8b764f210b8d8c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a553b3c1b778f9dadea8b764f210b8d8c">&#9670;&#160;</a></span>~AsyncTask()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/dcf/a12153.html">AsyncTask</a>&lt; T &gt;::~<a class="el" href="../../d0/dcf/a12153.html">AsyncTask</a> </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   40</span>    {</div>
-<div class="line"><span class="lineno">   41</span>        <span class="comment">// Ensure that the asynchronous task has completed before destruction</span></div>
-<div class="line"><span class="lineno">   42</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d0/dcf/a12153.html#a81e22f584cc7d48594751038ac113ab2">asyncTask</a>.valid() &amp;&amp; <a class="code hl_variable" href="../../d0/dcf/a12153.html#a81e22f584cc7d48594751038ac113ab2">asyncTask</a>.wait_for(std::chrono::seconds(0)) != std::future_status::ready)</div>
-<div class="line"><span class="lineno">   43</span>        {</div>
-<div class="line"><span class="lineno">   44</span>            <a class="code hl_variable" href="../../d0/dcf/a12153.html#a81e22f584cc7d48594751038ac113ab2">asyncTask</a>.wait(); <span class="comment">// Wait for the task to complete</span></div>
-<div class="line"><span class="lineno">   45</span>        }</div>
-<div class="line"><span class="lineno">   46</span>    }</div>
-<div class="ttc" id="aa12153_html_a81e22f584cc7d48594751038ac113ab2"><div class="ttname"><a href="../../d0/dcf/a12153.html#a81e22f584cc7d48594751038ac113ab2">AsyncTask::asyncTask</a></div><div class="ttdeci">std::shared_future&lt; T &gt; asyncTask</div><div class="ttdef"><b>Definition:</b> AsyncTask.h:89</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00089">AsyncTask&lt; T &gt;::asyncTask</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00579">pEffectHandlerScript</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a1cdc60ddffaa431d19c992c0e389b85d" name="a1cdc60ddffaa431d19c992c0e389b85d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1cdc60ddffaa431d19c992c0e389b85d">&#9670;&#160;</a></span>ExecuteAsync()</h2>
+<a id="a38802863e7859453cbbe58ad91018c67" name="a38802863e7859453cbbe58ad91018c67"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a38802863e7859453cbbe58ad91018c67">&#9670;&#160;</a></span>Call()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void <a class="el" href="../../d0/dcf/a12153.html">AsyncTask</a>&lt; T &gt;::ExecuteAsync </td>
+          <td class="memname">void AuraScript::EffectUpdatePeriodicHandler::Call </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td class="paramtype"><a class="el" href="../../dd/d08/a12133.html">AuraScript</a> *&#160;</td>
+          <td class="paramname"><em>auraScript</em>, </td>
         </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   76</span>    {</div>
-<div class="line"><span class="lineno">   77</span>        <span class="comment">// Capture the function by value so a moved AsyncTask does not leave</span></div>
-<div class="line"><span class="lineno">   78</span>        <span class="comment">// the in-flight async holding a dangling this pointer.</span></div>
-<div class="line"><span class="lineno">   79</span>        <a class="code hl_typedef" href="../../d0/dcf/a12153.html#a2addfa1b63edc880ca54fc46e0a6d94b">AsyncFunction</a> fn = <a class="code hl_variable" href="../../d0/dcf/a12153.html#a835a7b06185916adfb632d27ef73c9ce">asyncFunc</a>;</div>
-<div class="line"><span class="lineno">   80</span>        <a class="code hl_variable" href="../../d0/dcf/a12153.html#a81e22f584cc7d48594751038ac113ab2">asyncTask</a> = std::async(std::launch::async, [fn = std::move(fn)]() <span class="keyword">mutable</span></div>
-<div class="line"><span class="lineno">   81</span>        {</div>
-<div class="line"><span class="lineno">   82</span>            <span class="keywordflow">return</span> fn();</div>
-<div class="line"><span class="lineno">   83</span>        });</div>
-<div class="line"><span class="lineno">   84</span>    }</div>
-<div class="ttc" id="aa12153_html_a2addfa1b63edc880ca54fc46e0a6d94b"><div class="ttname"><a href="../../d0/dcf/a12153.html#a2addfa1b63edc880ca54fc46e0a6d94b">AsyncTask::AsyncFunction</a></div><div class="ttdeci">std::function&lt; T()&gt; AsyncFunction</div><div class="ttdef"><b>Definition:</b> AsyncTask.h:31</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00087">AsyncTask&lt; T &gt;::asyncFunc</a>, and <a class="el" href="../../#l00089">AsyncTask&lt; T &gt;::asyncTask</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00260">ToCloud9Sidecar::OnMapsReassigned()</a>.</p>
-
-</div>
-</div>
-<a id="aecfe1b8d9ab2be59f564939dde44cfb9" name="aecfe1b8d9ab2be59f564939dde44cfb9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aecfe1b8d9ab2be59f564939dde44cfb9">&#9670;&#160;</a></span>InvokeIfReady()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
         <tr>
-          <td class="memname">bool <a class="el" href="../../d0/dcf/a12153.html">AsyncTask</a>&lt; T &gt;::InvokeIfReady </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype"><a class="el" href="../../dc/d4d/a11881.html">AuraEffect</a> *&#160;</td>
+          <td class="paramname"><em>aurEff</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   49</span>    {</div>
-<div class="line"><span class="lineno">   50</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d0/dcf/a12153.html#af4b96cd278382c34dbaaa3782df8371b">isReady</a>)</div>
-<div class="line"><span class="lineno">   51</span>        {</div>
-<div class="line"><span class="lineno">   52</span>            <span class="comment">// Check if the asynchronous task is ready</span></div>
-<div class="line"><span class="lineno">   53</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d0/dcf/a12153.html#a81e22f584cc7d48594751038ac113ab2">asyncTask</a>.valid() &amp;&amp; <a class="code hl_variable" href="../../d0/dcf/a12153.html#a81e22f584cc7d48594751038ac113ab2">asyncTask</a>.wait_for(std::chrono::seconds(0)) == std::future_status::ready)</div>
-<div class="line"><span class="lineno">   54</span>            {</div>
-<div class="line"><span class="lineno">   55</span>                <span class="comment">// get() rethrows anything the async function threw. Swallowing it</span></div>
-<div class="line"><span class="lineno">   56</span>                <span class="comment">// would wedge the cluster handoff (the completion callback signals</span></div>
-<div class="line"><span class="lineno">   57</span>                <span class="comment">// map readiness to the registry), so fail fast with context and let</span></div>
-<div class="line"><span class="lineno">   58</span>                <span class="comment">// the registry&#39;s crash recovery rebalance this node.</span></div>
-<div class="line"><span class="lineno">   59</span>                <span class="keywordflow">try</span></div>
-<div class="line"><span class="lineno">   60</span>                {</div>
-<div class="line"><span class="lineno">   61</span>                    <a class="code hl_variable" href="../../d0/dcf/a12153.html#a9eb4e4b1eddea03bc0197758d34f9325">callbackFunc</a>(<a class="code hl_variable" href="../../d0/dcf/a12153.html#a81e22f584cc7d48594751038ac113ab2">asyncTask</a>.get());</div>
-<div class="line"><span class="lineno">   62</span>                }</div>
-<div class="line"><span class="lineno">   63</span>                <span class="keywordflow">catch</span> (std::exception <span class="keyword">const</span>&amp; e)</div>
-<div class="line"><span class="lineno">   64</span>                {</div>
-<div class="line"><span class="lineno">   65</span>                    <a class="code hl_define" href="../../d8/d02/a04889.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;server.tc9&quot;</span>, <span class="stringliteral">&quot;AsyncTask failed: {}&quot;</span>, e.what());</div>
-<div class="line"><span class="lineno">   66</span>                    <a class="code hl_define" href="../../d2/d3f/a05069.html#a5376571bbf4cdc9782683635f366f89a">ABORT</a>(<span class="stringliteral">&quot;AsyncTask failed: {}&quot;</span>, e.what());</div>
-<div class="line"><span class="lineno">   67</span>                }</div>
-<div class="line"><span class="lineno">   68</span>                <a class="code hl_variable" href="../../d0/dcf/a12153.html#af4b96cd278382c34dbaaa3782df8371b">isReady</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">   69</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">   70</span>            }</div>
-<div class="line"><span class="lineno">   71</span>        }</div>
-<div class="line"><span class="lineno">   72</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   73</span>    }</div>
-<div class="ttc" id="aa04889_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d8/d02/a04889.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:145</div></div>
-<div class="ttc" id="aa05069_html_a5376571bbf4cdc9782683635f366f89a"><div class="ttname"><a href="../../d2/d3f/a05069.html#a5376571bbf4cdc9782683635f366f89a">ABORT</a></div><div class="ttdeci">#define ABORT</div><div class="ttdef"><b>Definition:</b> Errors.h:76</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  825</span>{</div>
+<div class="line"><span class="lineno">  826</span>    (auraScript-&gt;*<a class="code hl_variable" href="../../d0/dcf/a12153.html#a0e51245e089fcd9532d5789056ab944c">pEffectHandlerScript</a>)(aurEff);</div>
+<div class="line"><span class="lineno">  827</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00076">ABORT</a>, <a class="el" href="../../#l00089">AsyncTask&lt; T &gt;::asyncTask</a>, <a class="el" href="../../#l00088">AsyncTask&lt; T &gt;::callbackFunc</a>, <a class="el" href="../../#l00090">AsyncTask&lt; T &gt;::isReady</a>, and <a class="el" href="../../#l00145">LOG_ERROR</a>.</p>
-
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a835a7b06185916adfb632d27ef73c9ce" name="a835a7b06185916adfb632d27ef73c9ce"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a835a7b06185916adfb632d27ef73c9ce">&#9670;&#160;</a></span>asyncFunc</h2>
+<a id="a0e51245e089fcd9532d5789056ab944c" name="a0e51245e089fcd9532d5789056ab944c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0e51245e089fcd9532d5789056ab944c">&#9670;&#160;</a></span>pEffectHandlerScript</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/dcf/a12153.html#a2addfa1b63edc880ca54fc46e0a6d94b">AsyncFunction</a> <a class="el" href="../../d0/dcf/a12153.html">AsyncTask</a>&lt; T &gt;::asyncFunc</td>
+          <td class="memname">AuraEffectUpdatePeriodicFnType AuraScript::EffectUpdatePeriodicHandler::pEffectHandlerScript</td>
         </tr>
       </table>
   </td>
@@ -382,85 +267,7 @@ template&lt;typename T &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00075">AsyncTask&lt; T &gt;::ExecuteAsync()</a>.</p>
-
-</div>
-</div>
-<a id="a81e22f584cc7d48594751038ac113ab2" name="a81e22f584cc7d48594751038ac113ab2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a81e22f584cc7d48594751038ac113ab2">&#9670;&#160;</a></span>asyncTask</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::shared_future&lt;T&gt; <a class="el" href="../../d0/dcf/a12153.html">AsyncTask</a>&lt; T &gt;::asyncTask</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00075">AsyncTask&lt; T &gt;::ExecuteAsync()</a>, <a class="el" href="../../#l00048">AsyncTask&lt; T &gt;::InvokeIfReady()</a>, and <a class="el" href="../../#l00039">AsyncTask&lt; T &gt;::~AsyncTask()</a>.</p>
-
-</div>
-</div>
-<a id="a9eb4e4b1eddea03bc0197758d34f9325" name="a9eb4e4b1eddea03bc0197758d34f9325"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9eb4e4b1eddea03bc0197758d34f9325">&#9670;&#160;</a></span>callbackFunc</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/dcf/a12153.html#ab2d6148aad6c533ac787ebef69250357">CallbackFunction</a> <a class="el" href="../../d0/dcf/a12153.html">AsyncTask</a>&lt; T &gt;::callbackFunc</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00048">AsyncTask&lt; T &gt;::InvokeIfReady()</a>.</p>
-
-</div>
-</div>
-<a id="af4b96cd278382c34dbaaa3782df8371b" name="af4b96cd278382c34dbaaa3782df8371b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af4b96cd278382c34dbaaa3782df8371b">&#9670;&#160;</a></span>isReady</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool <a class="el" href="../../d0/dcf/a12153.html">AsyncTask</a>&lt; T &gt;::isReady</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00048">AsyncTask&lt; T &gt;::InvokeIfReady()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00818">EffectUpdatePeriodicHandler()</a>.</p>
 
 </div>
 </div>
@@ -469,8 +276,8 @@ template&lt;typename T &gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d0/dcf/a12153.html">AsyncTask</a></li>
-    <li class="footer">Generated on Mon Sep 7 2026 23:04:20 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dd/d08/a12133.html">AuraScript</a></li><li class="navelem"><a class="el" href="../../d0/dcf/a12153.html">EffectUpdatePeriodicHandler</a></li>
+    <li class="footer">Generated on Mon Sep 14 2026 23:33:29 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

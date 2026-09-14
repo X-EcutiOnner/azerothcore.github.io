@@ -1,10 +1,10 @@
 var a24701 =
 [
-    [ "HandleEffectRemove", "d1/dea/a24701.html#a3b43cfcbbfa8fdbf170c76dd12b72074", null ],
-    [ "HandleImprovedBloodPresence", "d1/dea/a24701.html#a020c0ae1f74856ae070ab2104232a079", null ],
-    [ "HandleImprovedFrostPresence", "d1/dea/a24701.html#a262bfd40ee2f2d8ed793f999f660ba28", null ],
-    [ "HandleImprovedUnholyPresence", "d1/dea/a24701.html#a5da86bb3686327787da5f46fc756f0a0", null ],
-    [ "PrepareAuraScript", "d1/dea/a24701.html#a96453bb078359e46665e0eaa2a6cf6d1", null ],
-    [ "Register", "d1/dea/a24701.html#a6534d2b5bca9a50830d20b08bfc1b84e", null ],
-    [ "Validate", "d1/dea/a24701.html#afc23187a3a6dd48f2ad84ef354e36f3a", null ]
+    [ "Absorb", "d1/dea/a24701.html#a99db0d1254ddcfa9e7afb241e73b3235", null ],
+    [ "CalculateAmount", "d1/dea/a24701.html#a279a025cac490ee3647f47584b59179f", null ],
+    [ "Load", "d1/dea/a24701.html#a3fededdbfca9d12e6dbd097620e104be", null ],
+    [ "PrepareAuraScript", "d1/dea/a24701.html#a818875a8073491eab2508182bd941e25", null ],
+    [ "Register", "d1/dea/a24701.html#a2419bff95bad81a0f63c4988f14eb3f9", null ],
+    [ "Validate", "d1/dea/a24701.html#a60eb14be1b3108b7b896a27eab35569b", null ],
+    [ "absorbPct", "d1/dea/a24701.html#ac51bad58076a6dfa520fd3e9ea0c76b5", null ]
 ];

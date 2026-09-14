@@ -1,12 +1,10 @@
 var a23661 =
 [
-    [ "boss_watchkeeper_gargolmar", "dc/df8/a23661.html#acb4212c6f852f50f3edfa3880806a9d2", null ],
-    [ "JustDied", "dc/df8/a23661.html#a39be5796b39bea913105fc48dda0d186", null ],
-    [ "JustEngagedWith", "dc/df8/a23661.html#a9e3194d02d0d3b66ef38118aa32ae684", null ],
-    [ "KilledUnit", "dc/df8/a23661.html#a22736c2680f41cfd3443a76cd4de9352", null ],
-    [ "MoveInLineOfSight", "dc/df8/a23661.html#adec9837fdb2595ce57acffb279a7d011", null ],
-    [ "Reset", "dc/df8/a23661.html#a356b7fe9071b073b74b21913e35e7408", null ],
-    [ "UpdateAI", "dc/df8/a23661.html#a1453d26ccbd3e78f46cb33f054d57759", null ],
-    [ "_hasSpoken", "dc/df8/a23661.html#a3cd89b2567668b52d96b02af7eb85db8", null ],
-    [ "_taunted", "dc/df8/a23661.html#ab5623501bf92e119806ba4e2ccd0cd7a", null ]
+    [ "boss_blindeye_the_seer", "dc/df8/a23661.html#a8b95c6f0a822adf018c5aefe59ecef5b", null ],
+    [ "JustDied", "dc/df8/a23661.html#ad70a72b18587da82d26bde8f10d63700", null ],
+    [ "JustEngagedWith", "dc/df8/a23661.html#a0cf082eefe75eac19cc09d2f714d5ff1", null ],
+    [ "Reset", "dc/df8/a23661.html#aabbda75266615f64ce88ce092e68bfa4", null ],
+    [ "UpdateAI", "dc/df8/a23661.html#a8ff8ae03cc528b9a2c71cfc2c7ff3f88", null ],
+    [ "_scheduler", "dc/df8/a23661.html#a0c5ec6cf114a289e22d890c61d4bdc93", null ],
+    [ "instance", "dc/df8/a23661.html#a74462f26d66da3ca370825858060b1c2", null ]
 ];

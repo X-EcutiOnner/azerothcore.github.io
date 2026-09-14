@@ -1,6 +1,7 @@
 var a28273 =
 [
-    [ "go_bear_trapAI", "d3/db9/a28277.html", "d3/db9/a28277" ],
-    [ "go_bear_trap", "df/d4f/a28273.html#a6301aa23009ac2599fc37b81bb3a0750", null ],
-    [ "GetAI", "df/d4f/a28273.html#afb882fd4cc2e4379bb8d5afff210a679", null ]
+    [ "FilterTargets", "df/d4f/a28273.html#a5ee420ce696d23d836ff6e9e1def6405", null ],
+    [ "HandleEffect", "df/d4f/a28273.html#a064fdac9158e35f290b51ecf9bf537b1", null ],
+    [ "PrepareSpellScript", "df/d4f/a28273.html#a53b5772c87574beb5b295c26fe983b76", null ],
+    [ "Register", "df/d4f/a28273.html#a5e93d0d708d2304d9166c47ad285ada5", null ]
 ];

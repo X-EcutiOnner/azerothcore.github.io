@@ -1,7 +1,5 @@
 var a06281 =
 [
-    [ "UpdateException", "d3/dd4/a06281.html#ace39ae1801ac7dcd055bcdce2411866e", null ],
-    [ "~UpdateException", "d3/dd4/a06281.html#a38e016e210bf287d2adc21811497c95c", null ],
-    [ "what", "d3/dd4/a06281.html#ab7bc552819bf9620dd670fb5a627b2dd", null ],
-    [ "_msg", "d3/dd4/a06281.html#a7b4ba1e0d2829249afb2922f385016b3", null ]
+    [ "element", "d3/dd4/a06281.html#ae5400b2932fe1a8c514c38fb6bab392f", null ],
+    [ "type", "d3/dd4/a06281.html#afb3f8dc82da740b1aaae165cb6a5b218", null ]
 ];

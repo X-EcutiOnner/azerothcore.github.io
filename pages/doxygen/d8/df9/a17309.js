@@ -1,10 +1,7 @@
 var a17309 =
 [
-    [ "HandleAfterEffectAbsorb", "d8/df9/a17309.html#a4af67c41afd7843a5cfe2b2e2e9e8055", null ],
-    [ "Load", "d8/df9/a17309.html#abab656d4ba7e14bf1ffdb1d40c395b5d", null ],
-    [ "PrepareAuraScript", "d8/df9/a17309.html#a0856d66c801715f16cd251ddf9b25a59", null ],
-    [ "Register", "d8/df9/a17309.html#a69d8dfebb981b51592770b7b5807bc80", null ],
-    [ "Validate", "d8/df9/a17309.html#a55ec42ce316978220103a3a39f3939a3", null ],
-    [ "amount", "d8/df9/a17309.html#aaf34ee04ae619a3ac108a8fd1c9dac99", null ],
-    [ "fired", "d8/df9/a17309.html#a6a7afa99044644608b16e83328bfd5fa", null ]
+    [ "HandleEffectRemove", "d8/df9/a17309.html#aa6a118f956cbdc5ad1ce0109c3a0e8e3", null ],
+    [ "Load", "d8/df9/a17309.html#a71a31b421f192662c14bd6bf3d5eed9f", null ],
+    [ "PrepareAuraScript", "d8/df9/a17309.html#a97411ddf89a10a962ba74d294eb653e7", null ],
+    [ "Register", "d8/df9/a17309.html#a1207c9b2ba2e110c3f6c1309f5329d2a", null ]
 ];

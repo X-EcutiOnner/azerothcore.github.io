@@ -1,6 +1,7 @@
 var a21653 =
 [
-    [ "npc_valiance_keep_cannoneerAI", "d0/d76/a21657.html", "d0/d76/a21657" ],
-    [ "npc_valiance_keep_cannoneer", "dc/df9/a21653.html#a11f6060a7c6cd7be60001f5c259c94d3", null ],
-    [ "GetAI", "dc/df9/a21653.html#a8bfc1505dedee28d1517ba6a7738ffd5", null ]
+    [ "npc_violet_hold_defense_system", "dc/df9/a21653.html#abb5eb275e803201aad3010ad77aa4b41", null ],
+    [ "Reset", "dc/df9/a21653.html#a77925ae6097f7a52d446ee20bbb3de62", null ],
+    [ "UpdateAI", "dc/df9/a21653.html#ab39bc3da2d7ce33be1e27cd48fc16e89", null ],
+    [ "_tickCount", "dc/df9/a21653.html#a4a7504069b05480428278fd09d5e59ba", null ]
 ];

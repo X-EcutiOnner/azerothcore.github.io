@@ -1,7 +1,6 @@
 var a17189 =
 [
-    [ "HandleScriptEffect", "de/df3/a17189.html#a51064b3a11f453724ae0879c80eaf8df", null ],
-    [ "PrepareSpellScript", "de/df3/a17189.html#aac26002ff107e609fb7258306b430f1b", null ],
-    [ "Register", "de/df3/a17189.html#a0efef7644706940e3929ce99cd162c91", null ],
-    [ "Validate", "de/df3/a17189.html#a7110d4136337d44aa0300ec82e5a6511", null ]
+    [ "npc_concentrated_ballAI", "d6/d36/a17193.html", "d6/d36/a17193" ],
+    [ "npc_concentrated_ball", "de/df3/a17189.html#a1f3a873baf61157e704bcb7e524b1d46", null ],
+    [ "GetAI", "de/df3/a17189.html#add43f8cb27a699ba732d62fedd9d2f02", null ]
 ];

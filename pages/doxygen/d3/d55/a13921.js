@@ -1,7 +1,7 @@
 var a13921 =
 [
-    [ "HandleAfterCast", "d3/d55/a13921.html#a251ddadd9d26039da542c402e4ee254f", null ],
-    [ "PrepareSpellScript", "d3/d55/a13921.html#a91114aeb4f917ec5138a0c7b20688174", null ],
-    [ "Register", "d3/d55/a13921.html#a42960206e2444d8e6fb8fdc4d80a534b", null ],
-    [ "Validate", "d3/d55/a13921.html#ad4012436a41537fc5ae854c0c48f09b1", null ]
+    [ "FilterTargets", "d3/d55/a13921.html#ae945b657d0fbee4d5ee5d6e7d15ef39b", null ],
+    [ "HandleHit", "d3/d55/a13921.html#a7e28d5d89f1e622f308e1a1bf7d5dae9", null ],
+    [ "PrepareSpellScript", "d3/d55/a13921.html#a905e1f979284a368463ad4829891b6ee", null ],
+    [ "Register", "d3/d55/a13921.html#a6b0d2fc316bef6af20199b15795b00b4", null ]
 ];

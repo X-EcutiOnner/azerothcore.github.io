@@ -1,8 +1,7 @@
 var a24917 =
 [
-    [ "AfterApply", "d6/de6/a24917.html#a9c2591beacd941893338109719c03e3f", null ],
-    [ "AfterRemove", "d6/de6/a24917.html#a0be2a66b615dd926de7073392a8e5062", null ],
-    [ "PrepareAuraScript", "d6/de6/a24917.html#a4763d0c69c12611244f68ba5a5b1ccce", null ],
-    [ "Register", "d6/de6/a24917.html#a36fb81d0bf4cf92773db60a70de52dda", null ],
-    [ "Validate", "d6/de6/a24917.html#a86b51ec85105b0396972f0c3d7b770c1", null ]
+    [ "HandleScriptEffect", "d6/de6/a24917.html#a3a33f0ec477ff3b4b19fc98760a2dae7", null ],
+    [ "PrepareSpellScript", "d6/de6/a24917.html#ae29c4f69a34e71011192df12509e2935", null ],
+    [ "Register", "d6/de6/a24917.html#ae37da44bde25f6bdb5b4a382ab66b7be", null ],
+    [ "Validate", "d6/de6/a24917.html#af9056c179b8089cf0b304b3ce61ea92f", null ]
 ];

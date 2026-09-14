@@ -1,6 +1,6 @@
 var a11705 =
 [
-    [ "ClientOpcodeHandler", "d3/d82/a05088.html#ga975b7c1e941b9ad11164cc5b0cf3f557", null ],
-    [ "Call", "d3/d82/a05088.html#gae6c5104e6c75c2e88a3d8dfcf9e63678", null ],
-    [ "ProcessingPlace", "d3/d82/a05088.html#gaccb7f451536a1a56ba072a82202e5a53", null ]
+    [ "QuestConfirmAcceptClient", "d4/da8/a11705.html#ac45767c9cf0e197e185a8936598fc9ea", null ],
+    [ "Read", "d4/da8/a11705.html#a483980152418879fd1a55db2fa4bf68a", null ],
+    [ "QuestId", "d4/da8/a11705.html#a25b4b779fdf9e642b2fe13faf03d50b1", null ]
 ];

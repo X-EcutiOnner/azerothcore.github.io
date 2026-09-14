@@ -1,7 +1,8 @@
 var a24561 =
 [
-    [ "HandleEffectApply", "da/d78/a24561.html#a9923e38a2b5999d932d85be17a50ac83", null ],
-    [ "HandleEffectRemove", "da/d78/a24561.html#a4c1f611b4fd0cf33f654d59e783db32a", null ],
-    [ "PrepareAuraScript", "da/d78/a24561.html#a105df22901477c34757e62a0305006d4", null ],
-    [ "Register", "da/d78/a24561.html#a16f2daff28dc07f2cac8d53f4813909f", null ]
+    [ "npc_pet_darting_hatchling", "da/d78/a24561.html#a7ae5973061068396bf382dc21e88cd44", null ],
+    [ "SpellHit", "da/d78/a24561.html#a29ea5438bab7e606175c02165a607f9b", null ],
+    [ "UpdateAI", "da/d78/a24561.html#a23196d05aebe5fa4a65455c55368820a", null ],
+    [ "checkTimer", "da/d78/a24561.html#a3539276158abb5fd183ed1aa03a8ead8", null ],
+    [ "goFast", "da/d78/a24561.html#aaf80b40200f2b8eb2861c69b1dbd2dde", null ]
 ];

@@ -1,9 +1,11 @@
 var a11185 =
 [
-    [ "GuildBankUpdateTab", "d2/dd9/a11185.html#a2950da8bfc40df57a3f5a66eee47a7ef", null ],
-    [ "Read", "d2/dd9/a11185.html#ac261ff0102489efb4d69bd866ffc9283", null ],
-    [ "Banker", "d2/dd9/a11185.html#a7ab950cee095221f9114224a624d46db", null ],
-    [ "BankTab", "d2/dd9/a11185.html#a66284a4d9cb40b025ef265d443e6e62f", null ],
-    [ "Icon", "d2/dd9/a11185.html#a75a219a9e2ab677a41920f39a1613a1b", null ],
-    [ "Name", "d2/dd9/a11185.html#a44261fbc379b3137548922faf4b5cbda", null ]
+    [ "GuildSetRankPermissions", "d2/dd9/a11185.html#a8b3fd3e4da77c6fb70db28721ec46714", null ],
+    [ "Read", "d2/dd9/a11185.html#a534550862a3c634697e8277f31ad4c25", null ],
+    [ "Flags", "d2/dd9/a11185.html#adea48131efa7c05b84c4de596933bfbe", null ],
+    [ "RankID", "d2/dd9/a11185.html#a0c4a8b29918d69580c749e3b48485515", null ],
+    [ "RankName", "d2/dd9/a11185.html#a24dde2aa8dd0ae1b9e8b37317334e0d4", null ],
+    [ "TabFlags", "d2/dd9/a11185.html#af19e6fd8ddfe980f8c1f1110e9332bad", null ],
+    [ "TabWithdrawItemLimit", "d2/dd9/a11185.html#a9f5ddb30858ae9eca7fcd2ad9fa8ea0c", null ],
+    [ "WithdrawGoldLimit", "d2/dd9/a11185.html#a1c02002facce05010028ac8dcae7fa3f", null ]
 ];

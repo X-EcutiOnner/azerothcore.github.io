@@ -1,8 +1,8 @@
 var a09921 =
 [
-    [ "LocalizedPacketDo", "de/dfb/a09921.html#a9b7700f2a4958b91a67375ec9a40072c", null ],
-    [ "~LocalizedPacketDo", "de/dfb/a09921.html#a4296260b2011e1f7c300987073863ca9", null ],
-    [ "operator()", "de/dfb/a09921.html#a43449bdf0302e426b8cb4341326196b1", null ],
-    [ "i_builder", "de/dfb/a09921.html#a2c794905898feb502bfc5d3760f962b8", null ],
-    [ "i_data_cache", "de/dfb/a09921.html#a2bbff655e1a5268981c48e3ee028b104", null ]
+    [ "MostHPMissingGroupInRange", "de/dfb/a09921.html#ab7cd80daa30d8a39289c704cc0a2064f", null ],
+    [ "operator()", "de/dfb/a09921.html#ad1b4a4894dd652237a7a789ef5619f4b", null ],
+    [ "i_hp", "de/dfb/a09921.html#ae61cafc52cb6d33cd78422c41bd3bb08", null ],
+    [ "i_obj", "de/dfb/a09921.html#ae0d85f9738301b40c3e950b02ee20026", null ],
+    [ "i_range", "de/dfb/a09921.html#a712e9b1ff341ccde4a6d6962ba6002a4", null ]
 ];

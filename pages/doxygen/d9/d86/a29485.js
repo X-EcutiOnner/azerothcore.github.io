@@ -1,7 +1,5 @@
 var a29485 =
 [
-    [ "from", "d9/d86/a29485.html#a8e87b02059c2c1e4b1dd2760c99cb004", null ],
-    [ "ID", "d9/d86/a29485.html#a4375feed48ce5ac7291dced992c9bbf4", null ],
-    [ "price", "d9/d86/a29485.html#a44fc4c13d3426fcbc7b1108e513973de", null ],
-    [ "to", "d9/d86/a29485.html#a6b24cdac137b2b8d9472b5d1aca4178f", null ]
+    [ "CastTime", "d9/d86/a29485.html#af0bf895b1a5d61974cb63230b786c55e", null ],
+    [ "ID", "d9/d86/a29485.html#a41b1059fc4059bd198925861a9414497", null ]
 ];

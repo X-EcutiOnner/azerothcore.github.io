@@ -1,11 +1,9 @@
 var a15189 =
 [
-    [ "boss_kazrogal", "d9/d75/a15189.html#a2b3cc0e99c478c55f907898fbec2b8b2", null ],
-    [ "DoAction", "d9/d75/a15189.html#a7721debceeefaeb69e71855b8e8742f8", null ],
-    [ "GetMarkRepeatTimer", "d9/d75/a15189.html#a0b54f8c935d09367d7e6b7dbf6c4ce61", null ],
-    [ "JustDied", "d9/d75/a15189.html#abc839abddfbb5fb1e1dd3a67e0b661cb", null ],
-    [ "JustEngagedWith", "d9/d75/a15189.html#a2c0aafd271b2500d32f5add7e75cd990", null ],
-    [ "KilledUnit", "d9/d75/a15189.html#ab1439114a84d85947106d979f38d12fa", null ],
-    [ "Reset", "d9/d75/a15189.html#acb9f4ee5d97b43082bf6fc0c424685ab", null ],
-    [ "_markCounter", "d9/d75/a15189.html#a54ef8b88bf62e260e19a964d1926ef4a", null ]
+    [ "boss_azuregosAI", "d9/d75/a15189.html#a839ab1e096d30062d64c1c515a7462a4", null ],
+    [ "JustDied", "d9/d75/a15189.html#aea4d204173b7882d2d9acf8204410947", null ],
+    [ "JustEngagedWith", "d9/d75/a15189.html#ac17c09d4de27e3b3a299bb8288ef79f8", null ],
+    [ "KilledUnit", "d9/d75/a15189.html#aeefc791e17d2a687f8beae809c44d123", null ],
+    [ "Reset", "d9/d75/a15189.html#a3f9584a7cf4e27f57eec2c5babb7aff1", null ],
+    [ "UpdateAI", "d9/d75/a15189.html#aafdfce2d21d5890ead413a2d9fe1b65d", null ]
 ];

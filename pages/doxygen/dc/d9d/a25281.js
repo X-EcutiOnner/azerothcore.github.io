@@ -1,8 +1,6 @@
 var a25281 =
 [
-    [ "HandleScript", "dc/d9d/a25281.html#a2376d12f379f75f5decfdc133c18403e", null ],
-    [ "Load", "dc/d9d/a25281.html#aa70bfd2e614f9bf68ad2972990f0f7f5", null ],
-    [ "PrepareSpellScript", "dc/d9d/a25281.html#ae4ce8cf3670a85bbaedbfcdc6cacd5b1", null ],
-    [ "Register", "dc/d9d/a25281.html#a0b32bf9d565d7d6f606150f70fc244a0", null ],
-    [ "Validate", "dc/d9d/a25281.html#a1aee8ca0cc33f949371fa5cbb4745ccd", null ]
+    [ "HandleEffectPeriodicUpdate", "dc/d9d/a25281.html#a554353fede78b89bf488230254d7892b", null ],
+    [ "PrepareAuraScript", "dc/d9d/a25281.html#adf20aaafff83bae614ff3c614a08a54b", null ],
+    [ "Register", "dc/d9d/a25281.html#a6ee55cc41f7b69fc12bb3dc6c7fcbaf5", null ]
 ];

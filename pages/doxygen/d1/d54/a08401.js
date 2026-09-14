@@ -1,9 +1,7 @@
 var a08401 =
 [
-    [ "LFGGroupScript", "d1/d54/a08401.html#adb7730ba67910121a255a6da535d2fc2", null ],
-    [ "OnAddMember", "d1/d54/a08401.html#a43c29f1c4b0f78b203a8798e34e9bc4c", null ],
-    [ "OnChangeLeader", "d1/d54/a08401.html#a3616c537eb39fe130c8fb24d93a0ead9", null ],
-    [ "OnDisband", "d1/d54/a08401.html#a7d8d28f1919e407ed93474d970733d86", null ],
-    [ "OnInviteMember", "d1/d54/a08401.html#a25add922fa708babe08c3bdaaa0c0d92", null ],
-    [ "OnRemoveMember", "d1/d54/a08401.html#a1385adec817221a83653a6fa03e57858", null ]
+    [ "LfgReward", "d1/d54/a08401.html#afe2ea037fa24064c2bf04cfc6303d903", null ],
+    [ "firstQuest", "d1/d54/a08401.html#a28162b1e43a5309ab01ca99b45d29799", null ],
+    [ "maxLevel", "d1/d54/a08401.html#aae6e46155dc790ed7c63f5f0b8e08395", null ],
+    [ "otherQuest", "d1/d54/a08401.html#a96de83c64efc3009d7d5cd04a61e71b2", null ]
 ];

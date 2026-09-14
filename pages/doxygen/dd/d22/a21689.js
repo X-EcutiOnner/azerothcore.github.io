@@ -1,6 +1,10 @@
 var a21689 =
 [
-    [ "PrepareSpellScript", "dd/d22/a21689.html#a072a5228690b929af3b65d771bf5f485", null ],
-    [ "Register", "dd/d22/a21689.html#a87235eb9494edd94221f0380e815aa6b", null ],
-    [ "SetDest", "dd/d22/a21689.html#abe2c48bf2d276871f3e4146d1358ea4c", null ]
+    [ "npc_lurgglbrAI", "dd/d22/a21689.html#a9239b85c65f9b405335d432f355637d5", null ],
+    [ "Reset", "dd/d22/a21689.html#a13b8bd8e7d85c93b0ee88c6e9f6d09ca", null ],
+    [ "UpdateAI", "dd/d22/a21689.html#aee019df9abe7ca3bf36a6de2321bedec", null ],
+    [ "WaypointReached", "dd/d22/a21689.html#a09ac2f2f21eefedd0052f727546bafb5", null ],
+    [ "WaypointReached", "dd/d22/a21689.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "IntroPhase", "dd/d22/a21689.html#a57e2c42cccf91765365e0b046446637a", null ],
+    [ "IntroTimer", "dd/d22/a21689.html#ada9762806ae0132e37197e6fb1279866", null ]
 ];

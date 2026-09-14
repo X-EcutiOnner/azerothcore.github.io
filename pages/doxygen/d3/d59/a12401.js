@@ -1,15 +1,20 @@
 var a12401 =
 [
-    [ "arena_commandscript", "d3/d59/a12401.html#ad433113f5a3cf7f2cb43ff4fd3f0d49d", null ],
-    [ "GetCommands", "d3/d59/a12401.html#a3a5e95fca957fd1898d6a7acea98931e", null ],
-    [ "HandleArenaCaptainCommand", "d3/d59/a12401.html#a7b7123c837bbecb1a4d3d2e8aa934d4c", null ],
-    [ "HandleArenaCreateCommand", "d3/d59/a12401.html#a10eab39042cb718d839fbdf7236b1a31", null ],
-    [ "HandleArenaDisbandCommand", "d3/d59/a12401.html#a012626d4c101a63d9a70c530c9e98354", null ],
-    [ "HandleArenaInfoCommand", "d3/d59/a12401.html#a90fc70aae7b3e0fec179a0a1a7482c11", null ],
-    [ "HandleArenaLookupCommand", "d3/d59/a12401.html#a7356c0a45dcf32809a32fe6053b94de0", null ],
-    [ "HandleArenaRenameCommand", "d3/d59/a12401.html#a4095683ee7b5a2236dac8aa36a607d7c", null ],
-    [ "HandleArenaSeasonDeleteTeamsCommand", "d3/d59/a12401.html#a956b4450813331d5bc43c46409c4a095", null ],
-    [ "HandleArenaSeasonRewardCommand", "d3/d59/a12401.html#a8b83f4ae0544e33d4bafe674b416f176", null ],
-    [ "HandleArenaSeasonSetStateCommand", "d3/d59/a12401.html#a8d6c1eeaebab28859f0bdef70b50a3bb", null ],
-    [ "HandleArenaSeasonStartCommand", "d3/d59/a12401.html#a58ea37f547986c084c04064bddc32cfb", null ]
+    [ "Weather", "d0/d47/a05104.html#gab528c044ef69c717d477eee8eac299b0", null ],
+    [ "~Weather", "d0/d47/a05104.html#ga8db480edb9459ebf73a1363c6fea0b27", null ],
+    [ "GetScriptId", "d0/d47/a05104.html#ga07ff1c03b6fb225388d418496c18d3be", null ],
+    [ "GetWeatherState", "d0/d47/a05104.html#gaed38cecb6af95222638b2177fa48757c", null ],
+    [ "GetZone", "d0/d47/a05104.html#ga5cf53e440c7da53eb6524ea1d658b0e6", null ],
+    [ "ReGenerate", "d0/d47/a05104.html#gaea61d86d9a64dd5dbc8ea843aad97eb6", null ],
+    [ "SendFineWeatherUpdateToPlayer", "d0/d47/a05104.html#gac976d0c6f66bd6ab52932a289e0f9551", null ],
+    [ "SendWeatherUpdateToPlayer", "d0/d47/a05104.html#gaf9ff2442cc875af4b6ca4bec7f41c965", null ],
+    [ "SetWeather", "d0/d47/a05104.html#ga32e650a32fc1e01bdb6fbfd960fd022f", null ],
+    [ "Update", "d0/d47/a05104.html#gaf7a3484daa8221287a4c325fb3a8080c", null ],
+    [ "UpdateWeather", "d0/d47/a05104.html#gad4885daeab81309a42c2c1fdebcf33ad", null ],
+    [ "m_grade", "d0/d47/a05104.html#ga5638d204d5986f64eed9d343d086895e", null ],
+    [ "m_map", "d0/d47/a05104.html#ga3495c619f0ddde94913cbaea0a6354fa", null ],
+    [ "m_timer", "d0/d47/a05104.html#gadba1100bafe6db8a242bdad35663e909", null ],
+    [ "m_type", "d0/d47/a05104.html#ga19d9ed53043ba2b9eb3bdc27921501eb", null ],
+    [ "m_weatherChances", "d0/d47/a05104.html#gaeb74bbd4568c726a2443318aea6313d0", null ],
+    [ "m_zone", "d0/d47/a05104.html#ga1fd12588331e8f86399378b7bb12317b", null ]
 ];

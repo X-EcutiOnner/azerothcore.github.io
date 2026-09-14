@@ -1,8 +1,9 @@
 var a24509 =
 [
-    [ "CheckProc", "d0/d2d/a24509.html#a746a3e24e07ef9a6ddecef80621768f0", null ],
-    [ "HandleProc", "d0/d2d/a24509.html#aa0c2bbb60940982e14ae98799fb220a6", null ],
-    [ "PrepareAuraScript", "d0/d2d/a24509.html#a0d9decd8a0901b7ab35de6af120baf34", null ],
-    [ "Register", "d0/d2d/a24509.html#aae146676b2ca0f29b1712b774b7f9148", null ],
-    [ "Validate", "d0/d2d/a24509.html#a7725ff69907bb8328c5f7dffaf941478", null ]
+    [ "npc_pet_gen_soul_trader_beacon", "d0/d2d/a24509.html#a58ef19b8c08aee764bdd55e480d9d750", null ],
+    [ "GetOwner", "d0/d2d/a24509.html#a72bfd4cf6c734d1f1070a1560131667d", null ],
+    [ "SpellHit", "d0/d2d/a24509.html#a0bed2e8e8dac9c1bc7763a3ad27acd22", null ],
+    [ "UpdateAI", "d0/d2d/a24509.html#a18c06958e6b3d4306a6fdb5f9924d7ff", null ],
+    [ "events", "d0/d2d/a24509.html#ae0a6d4850a0a0da4bd04227b11bae9e4", null ],
+    [ "ownerGUID", "d0/d2d/a24509.html#a3a42e83216c0111a740a0c89e57c6f62", null ]
 ];

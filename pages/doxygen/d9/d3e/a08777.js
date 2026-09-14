@@ -1,5 +1,6 @@
 var a08777 =
 [
-    [ "InventoryType", "d9/d3e/a08777.html#a5d2733f6b8e3fda906f18fb45330d437", null ],
-    [ "name", "d9/d3e/a08777.html#a67245cff18aad700717b7b7af9f07458", null ]
+    [ "invisibilityType", "d9/d3e/a08777.html#ac1e874a76fecd4d3eb061722713f6634", null ],
+    [ "InvisibilityValue", "d9/d3e/a08777.html#a8e1741fca7c49f0618a3999e69ae5c81", null ],
+    [ "ParentRotation", "d9/d3e/a08777.html#a5ae35d326afcb1b80847761c0376deaf", null ]
 ];

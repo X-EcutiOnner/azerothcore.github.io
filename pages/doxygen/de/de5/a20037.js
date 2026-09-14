@@ -1,12 +1,12 @@
 var a20037 =
 [
-    [ "boss_sjonnirAI", "de/de5/a20037.html#a53127766553d1bee4d7331e6f4fcda05", null ],
-    [ "ActivatePipe", "de/de5/a20037.html#aa3a3e765284cd29cef1d54a9390c3986", null ],
-    [ "DoAction", "de/de5/a20037.html#afb2f73908bc17c763a8028af4b499481", null ],
-    [ "JustDied", "de/de5/a20037.html#aac572b45c50d0e9c0e7fb3a036053859", null ],
-    [ "JustEngagedWith", "de/de5/a20037.html#aade776baf55155bb3814129ddc2f9632", null ],
-    [ "KilledUnit", "de/de5/a20037.html#ac79740a8c5e4263f2917647c74e995aa", null ],
-    [ "Reset", "de/de5/a20037.html#a8a5f0c22eb6c1d3501c2abdabfc5a77c", null ],
-    [ "ScheduleTasks", "de/de5/a20037.html#a5c3c31c5be424795e4e96291c910c73c", null ],
-    [ "SlugeCount", "de/de5/a20037.html#ad1e05c8b4dbba7a73a368dc07ad94aaf", null ]
+    [ "boss_loken", "de/de5/a20037.html#a50ba322cf0adb3030444bf8fde4dba0c", null ],
+    [ "JustDied", "de/de5/a20037.html#a6bf8e999ebb5581dd1bd03ed6b96a1dc", null ],
+    [ "JustEngagedWith", "de/de5/a20037.html#aca09a816f57dea1c7c132258a6d0e5ba", null ],
+    [ "KilledUnit", "de/de5/a20037.html#a85ae3094927f7484216b44582f9a2bf6", null ],
+    [ "MoveInLineOfSight", "de/de5/a20037.html#ac9f3115629e5595d06c213d3e04afa68", null ],
+    [ "OnAuraRemove", "de/de5/a20037.html#adc35dee5a25820bd080b4d610d6cfc37", null ],
+    [ "Reset", "de/de5/a20037.html#abe6a1192eb9e4d5afa65dcc01b4472ec", null ],
+    [ "ScheduleTasks", "de/de5/a20037.html#a600e211be40226679212a7078b26f3ed", null ],
+    [ "_introDone", "de/de5/a20037.html#a348b7ef60fb815fb160e7f348b8f7af4", null ]
 ];

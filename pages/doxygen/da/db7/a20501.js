@@ -1,6 +1,7 @@
 var a20501 =
 [
-    [ "FilterTargets", "da/db7/a20501.html#a4f77f654ef8bb589fbb81e8cb1ec6ce6", null ],
-    [ "PrepareSpellScript", "da/db7/a20501.html#a52c6b32ab01a68b258d4fe89730ec32b", null ],
-    [ "Register", "da/db7/a20501.html#a2e9ee7705a950d6a500ac472ff783b3a", null ]
+    [ "HandleAfterEffectApply", "da/db7/a20501.html#a672526de2c71dcae79bacef88f34dc26", null ],
+    [ "PrepareAuraScript", "da/db7/a20501.html#a1da221b63cb7fcd0dbb580e8cf0003ce", null ],
+    [ "Register", "da/db7/a20501.html#a9ba7c109fe96881dd47ba47366890e2b", null ],
+    [ "Validate", "da/db7/a20501.html#ab5833f6218760a7d9829b5d453436302", null ]
 ];

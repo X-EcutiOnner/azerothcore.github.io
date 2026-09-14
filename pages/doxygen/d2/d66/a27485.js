@@ -1,6 +1,6 @@
 var a27485 =
 [
-    [ "HandleAfterCast", "d2/d66/a27485.html#aacd4954973c8157ca65958b9ec08155b", null ],
-    [ "PrepareSpellScript", "d2/d66/a27485.html#a45629d348275833930bc5180e9a347f9", null ],
-    [ "Register", "d2/d66/a27485.html#a9c43529cea77a4be86048616ebc64b2c", null ]
+    [ "HandleRemove", "d2/d66/a27485.html#a92eb5e02c8b165caa877d368a456e5b2", null ],
+    [ "PrepareAuraScript", "d2/d66/a27485.html#a132193c0c13a2f89b9b29391d524023a", null ],
+    [ "Register", "d2/d66/a27485.html#a246294a7b9a128a9ec464562846332fc", null ]
 ];

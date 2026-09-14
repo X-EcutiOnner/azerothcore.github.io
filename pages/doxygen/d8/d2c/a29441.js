@@ -1,8 +1,5 @@
 var a29441 =
 [
-    [ "NoRuneCost", "d8/d2c/a29441.html#a599b2089d52bf4a009c5fbac3b0d3279", null ],
-    [ "NoRunicPowerGain", "d8/d2c/a29441.html#a97da075ecd116ef27fd4265bb8380667", null ],
-    [ "ID", "d8/d2c/a29441.html#aed245962cf1830cfa66e369b22a7ba6f", null ],
-    [ "RuneCost", "d8/d2c/a29441.html#a18c2e6daaaefe1c8be4a83c55a3670ff", null ],
-    [ "runePowerGain", "d8/d2c/a29441.html#ac5f9c69d83ff9cf230124b9dad10008b", null ]
+    [ "Exp", "d8/d2c/a29441.html#aa34490babd6ccdc45857947db3f36d60", null ],
+    [ "id", "d8/d2c/a29441.html#abe177efe7ea9d1d1ae8e7d09655c7193", null ]
 ];

@@ -1,6 +1,8 @@
 var a16441 =
 [
-    [ "FilterTargets", "d3/ddf/a16441.html#aff3223d9b3df91f9261aa2f45373f846", null ],
-    [ "PrepareSpellScript", "d3/ddf/a16441.html#a3ca9ba182a313fb741b15df63408a90e", null ],
-    [ "Register", "d3/ddf/a16441.html#af333c3c72251a2d1c0ee4effdbc0b155", null ]
+    [ "instance_ahnkahet_InstanceScript", "d3/ddf/a16441.html#aa9a72f2f757d0b3065a6e4e25b14e86d", null ],
+    [ "IsAllSpheresActivated", "d3/ddf/a16441.html#a048a2b16ae9917c7edc9bf7023986ac3", null ],
+    [ "OnGameObjectCreate", "d3/ddf/a16441.html#ad00fdc90a61e1c927323daa2149f8466", null ],
+    [ "SetData", "d3/ddf/a16441.html#a8986038a2f25b16b9ab8ba4d41b5221a", null ],
+    [ "taldaramPlatform_GUID", "d3/ddf/a16441.html#a840ce69595c384be321c1167513d151e", null ]
 ];

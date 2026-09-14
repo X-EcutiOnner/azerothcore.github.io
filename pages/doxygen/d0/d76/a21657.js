@@ -1,7 +1,8 @@
 var a21657 =
 [
-    [ "npc_valiance_keep_cannoneerAI", "d0/d76/a21657.html#a0769e975c5c7ff1cfbfa6089e3e55e3f", null ],
-    [ "Reset", "d0/d76/a21657.html#a65718076e65b68cae0a54ff4112fdb4b", null ],
-    [ "UpdateAI", "d0/d76/a21657.html#a75f16f2b028ca341db6e08536be06bfa", null ],
-    [ "uiTimer", "d0/d76/a21657.html#a0cf5f0413b1cded835252a38e272f835", null ]
+    [ "HandleEffectRemove", "d0/d76/a21657.html#aa2b05befb775244423264f6b5e2387c1", null ],
+    [ "Load", "d0/d76/a21657.html#a02ea4c29f2c7e15a5039b93d7a0d3c5e", null ],
+    [ "PrepareAuraScript", "d0/d76/a21657.html#a632e81cc39bdcd0f5adcc684231d1171", null ],
+    [ "Register", "d0/d76/a21657.html#aba5483b1d35c1b58841fad2b1086f07c", null ],
+    [ "Validate", "d0/d76/a21657.html#ada90e1f06ced8f4e353fe2bda3d31637", null ]
 ];

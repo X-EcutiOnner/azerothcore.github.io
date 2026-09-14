@@ -1,6 +1,6 @@
 var a18501 =
 [
-    [ "FilterTargets", "dc/d2c/a18501.html#aa7e731de9e5ab1078b8ff7022393c9a7", null ],
-    [ "PrepareSpellScript", "dc/d2c/a18501.html#ae92968db6e5a1384f89e6aff9ab2d1f3", null ],
-    [ "Register", "dc/d2c/a18501.html#ae6ab0b56688bfc07262cc83e84102ccb", null ]
+    [ "CheckTarget", "dc/d2c/a18501.html#afce64ba75f8370cab6b8f1e561b10587", null ],
+    [ "PrepareSpellScript", "dc/d2c/a18501.html#a6b6eaf3e761f2c173c2e72f46b25595a", null ],
+    [ "Register", "dc/d2c/a18501.html#a6964ca668f02a8b5b1c3015503a41eef", null ]
 ];

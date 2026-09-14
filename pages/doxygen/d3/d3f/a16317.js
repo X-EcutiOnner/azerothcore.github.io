@@ -1,6 +1,6 @@
 var a16317 =
 [
-    [ "HandleApply", "d3/d3f/a16317.html#aee4d5908035d06be2f1469a50db02e26", null ],
-    [ "PrepareAuraScript", "d3/d3f/a16317.html#ac8349deb2e9c8861194e80132bd72fc5", null ],
-    [ "Register", "d3/d3f/a16317.html#ac83962bef84b68cef6d7937769730598", null ]
+    [ "creatureID", "d3/d3f/a16317.html#a44a9f5e58bfa58e2e2325e116e988f07", null ],
+    [ "pos", "d3/d3f/a16317.html#a9705a858cc2c3867e104514d3a0a1866", null ],
+    [ "waveID", "d3/d3f/a16317.html#a09b48f7f6da7e203ed50a8abc7f24e56", null ]
 ];

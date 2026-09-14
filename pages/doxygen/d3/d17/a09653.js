@@ -1,9 +1,9 @@
 var a09653 =
 [
-    [ "GameObjectLastSearcher", "d3/d17/a09653.html#a9f478f784f46fa502910f621f10238f2", null ],
-    [ "Visit", "d3/d17/a09653.html#a2ba394a2da9f72c7621567092c175f0b", null ],
-    [ "Visit", "d3/d17/a09653.html#a4298bd100890e61a34e827f96d70e752", null ],
-    [ "i_check", "d3/d17/a09653.html#a06f8a6b33e26cdc17508198a9ee08f87", null ],
-    [ "i_object", "d3/d17/a09653.html#a4573ba382a79a34f6c006b7c175f84f1", null ],
-    [ "i_phaseMask", "d3/d17/a09653.html#a7130ecacc379e9f41779a8e0f422b32c", null ]
+    [ "VisibleChangesNotifier", "d3/d17/a09653.html#aacb0239ed44c9705eeeebf5ab198f7e0", null ],
+    [ "Visit", "d3/d17/a09653.html#abfc60c91aaa823cb99cdfc17a287e23e", null ],
+    [ "Visit", "d3/d17/a09653.html#aaf1dab341f34f75e56da63370af0ecd3", null ],
+    [ "Visit", "d3/d17/a09653.html#a103a8ef30ce4c0753913b6ecb6cf4e92", null ],
+    [ "Visit", "d3/d17/a09653.html#a6e856249a08d0a90b9d19f2449f30fba", null ],
+    [ "i_object", "d3/d17/a09653.html#a496b982d081957cfc288f29b99b8739d", null ]
 ];

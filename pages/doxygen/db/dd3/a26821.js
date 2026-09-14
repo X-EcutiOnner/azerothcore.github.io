@@ -1,8 +1,9 @@
 var a26821 =
 [
-    [ "CheckProc", "db/dd3/a26821.html#a14978c8908b7a928459c2f6ef9adfac2", null ],
-    [ "HandleProc", "db/dd3/a26821.html#ac888d49403a03aaf9a37432c3c119241", null ],
-    [ "PrepareAuraScript", "db/dd3/a26821.html#ab63e1f31dbc34dd2f44a6771631a2330", null ],
-    [ "Register", "db/dd3/a26821.html#ad88268da8fae421f76a5e644aae6b296", null ],
-    [ "Validate", "db/dd3/a26821.html#a0cdb80ee885922a9a38c0e2bea4d33af", null ]
+    [ "Load", "db/dd3/a26821.html#ae8329a18e94b3830e19bcbcbdf055dd2", null ],
+    [ "PrepareSpellScript", "db/dd3/a26821.html#a7a082f577937bf9f794bfb21bbc416f1", null ],
+    [ "Register", "db/dd3/a26821.html#a7b8f209bff9c2f1dff96f3d90c66cad4", null ],
+    [ "TriggerHeal", "db/dd3/a26821.html#acad9295c5c6b46bd969a4fb528a8ec25", null ],
+    [ "Validate", "db/dd3/a26821.html#a5f53a97e97f7959c51e1b5947f7c4418", null ],
+    [ "healPct", "db/dd3/a26821.html#a33b4d26c34903e45b7274e369f096ce1", null ]
 ];

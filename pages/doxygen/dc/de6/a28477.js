@@ -1,10 +1,8 @@
 var a28477 =
 [
-    [ "npc_prof_blacksmith", "dc/de6/a28477.html#af9bd62c4c2514d79daf467e4d6d7a92e", null ],
-    [ "HasWeaponSub", "dc/de6/a28477.html#a7ee47d061de5e2f482406469b4eaac3b", null ],
-    [ "OnGossipHello", "dc/de6/a28477.html#a9a432c1ec33578949110c877fc6a686d", null ],
-    [ "OnGossipSelect", "dc/de6/a28477.html#ab1edaf3dc0a8dddf064368d26930a2af", null ],
-    [ "SendActionMenu", "dc/de6/a28477.html#af2ac8f9bfa212c34be3e45cc358dd773", null ],
-    [ "SendConfirmLearn", "dc/de6/a28477.html#acbec7fe3eebf7eaed09e5755c6775eaa", null ],
-    [ "SendConfirmUnlearn", "dc/de6/a28477.html#a851dc241d944bc888a00df85bff17e3a", null ]
+    [ "go_bellsAI", "dc/de6/a28477.html#a6f22847c66a3b5faded35da799359846", null ],
+    [ "UpdateAI", "dc/de6/a28477.html#ab466f67665577f22bfe6cdb94d0a008b", null ],
+    [ "_events", "dc/de6/a28477.html#a46c66442078cee28a76fc412746ca026", null ],
+    [ "_soundId", "dc/de6/a28477.html#ab2491e9d27266ea69a5a9163e8c1b35b", null ],
+    [ "once", "dc/de6/a28477.html#abf6ca2fc64f5764936a6d0179d40c2fa", null ]
 ];

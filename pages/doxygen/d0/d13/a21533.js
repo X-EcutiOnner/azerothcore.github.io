@@ -1,6 +1,8 @@
 var a21533 =
 [
-    [ "instance_violet_hold_InstanceMapScript", "d9/dd8/a21537.html", "d9/dd8/a21537" ],
-    [ "instance_violet_hold", "d0/d13/a21533.html#ae66f018196cd90683506c3cc3d8c5d7a", null ],
-    [ "GetInstanceScript", "d0/d13/a21533.html#ab459840bcb0c8bcc58d20e658be0f63a", null ]
+    [ "npc_frozen_orbAI", "d0/d13/a21533.html#aa7456d1d876690e3723ee0a36866348b", null ],
+    [ "JustEngagedWith", "d0/d13/a21533.html#afd9686dbb8503d7f756b670269aed33d", null ],
+    [ "Reset", "d0/d13/a21533.html#a376dc1fcef9752e235008c4ba66e2463", null ],
+    [ "UpdateAI", "d0/d13/a21533.html#a37d7cf81197fe4344c8b847753997e93", null ],
+    [ "switchTimer", "d0/d13/a21533.html#afc63a3cf6b814df81a35b53278d722c9", null ]
 ];

@@ -1,6 +1,6 @@
 var a11665 =
 [
-    [ "TotemDestroyed", "d4/dc3/a11665.html#a3bcaa030b2c15d54617564cf0f5e4c36", null ],
-    [ "Read", "d4/dc3/a11665.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2", null ],
-    [ "Slot", "d4/dc3/a11665.html#a41eebde65aa696c2dec812da0aeab633", null ]
+    [ "QuestGiverQuestInvalid", "d4/dc3/a11665.html#a7220ac375523d524f905042722522bfb", null ],
+    [ "Write", "d4/dc3/a11665.html#aed56e88c0fc568d524913c0863a45622", null ],
+    [ "FailureReason", "d4/dc3/a11665.html#a7c2cc4153399abfbaa4b2b2811d2fde2", null ]
 ];

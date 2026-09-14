@@ -1,7 +1,8 @@
 var a26977 =
 [
-    [ "HandleHeal", "df/ddd/a26977.html#a22e3dd3ac57c7cb95162ee56ab43bc93", null ],
-    [ "PrepareSpellScript", "df/ddd/a26977.html#a9de9260bc1e2582138c58a708e5d899c", null ],
-    [ "Register", "df/ddd/a26977.html#ab613ce86521f1381b79f6f9f3eaea3cc", null ],
-    [ "Validate", "df/ddd/a26977.html#aa300822cf5455404482124a6853fb314", null ]
+    [ "CheckProc", "df/ddd/a26977.html#acfdb90639eb05a5ec252c20c9f302fed", null ],
+    [ "HandleProc", "df/ddd/a26977.html#aa2e48771627700ee12153b13a094cea8", null ],
+    [ "PrepareAuraScript", "df/ddd/a26977.html#a0fec47a0918ecfe3517c63190b27e91c", null ],
+    [ "Register", "df/ddd/a26977.html#a88b06e814ade33fad51c8036d963f654", null ],
+    [ "Validate", "df/ddd/a26977.html#ae9911ba6c95cfc6c345743b0f970062b", null ]
 ];

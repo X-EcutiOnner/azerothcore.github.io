@@ -1,6 +1,5 @@
 var a12909 =
 [
-    [ "FilterTargets", "d1/dec/a12909.html#ac630fb5f068e4d26adb078b118994c45", null ],
-    [ "PrepareSpellScript", "d1/dec/a12909.html#a5f4986bfad79573e65d56ff276c49914", null ],
-    [ "Register", "d1/dec/a12909.html#aa1f5838d43871fd7908ea3b914666000", null ]
+    [ "at_trigger_the_beast_movement", "d1/dec/a12909.html#a9534f4b71deab4a2a9a94a36e2946fc7", null ],
+    [ "OnTrigger", "d1/dec/a12909.html#a333d685d765497a950fde35067d876a1", null ]
 ];

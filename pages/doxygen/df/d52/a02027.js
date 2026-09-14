@@ -1,4 +1,4 @@
 var a02027 =
 [
-    [ "WorldPacket", "d9/d53/a11731.html", "d9/d53/a11731" ]
+    [ "GetSummonerOrOwnerGUID", "df/d52/a02027.html#ade20791b8d3ae460c15299f2e976071d", null ]
 ];

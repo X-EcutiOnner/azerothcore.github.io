@@ -1,6 +1,8 @@
 var a16553 =
 [
-    [ "npc_xerestraszaAI", "d4/d81/a16557.html", "d4/d81/a16557" ],
-    [ "npc_xerestrasza", "d9/d86/a16553.html#a49023756b5dab130e4ffd7e62fa80ce4", null ],
-    [ "GetAI", "d9/d86/a16553.html#a5e0ede0054969d4787db56781dc55846", null ]
+    [ "boss_sartharion_vesperon", "d9/d86/a16553.html#a3ce6d2036faa108cb97ebf75bdb6ad33", null ],
+    [ "ClearInstance", "d9/d86/a16553.html#a0c45127e9eb2be20765f92e1161e2e5a", null ],
+    [ "ExecuteEvent", "d9/d86/a16553.html#aefc42452e75c476aef39ba0df3a03d70", null ],
+    [ "Reset", "d9/d86/a16553.html#a948bfddea4eb3c0fe471d8f501a88d6c", null ],
+    [ "SummonedCreatureDies", "d9/d86/a16553.html#a9df29b4c71c93da8cf7ae9f81b870345", null ]
 ];

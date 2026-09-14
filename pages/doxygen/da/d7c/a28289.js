@@ -1,6 +1,9 @@
 var a28289 =
 [
-    [ "go_brewfest_musicAI", "dd/dd5/a28293.html", "dd/dd5/a28293" ],
-    [ "go_brewfest_music", "da/d7c/a28289.html#a787963a5ee591933d62fdb52911f9a77", null ],
-    [ "GetAI", "da/d7c/a28289.html#a50f36a6d0a72e7188dbe1bdaa09f1888", null ]
+    [ "ChatLogScript", "da/d7c/a28289.html#ade8c407083cf094f0767412e7b6d7730", null ],
+    [ "OnPlayerCanUseChat", "da/d7c/a28289.html#a4291524fdb6bbe7b92ebb3a35fb942c4", null ],
+    [ "OnPlayerCanUseChat", "da/d7c/a28289.html#ae7ca6f582695b3aabfd7255beb3e8d07", null ],
+    [ "OnPlayerCanUseChat", "da/d7c/a28289.html#a64e3f0cc978eef23590ae97bb0b1320a", null ],
+    [ "OnPlayerCanUseChat", "da/d7c/a28289.html#af891f7acb0a562c394db0a1763cc6ccd", null ],
+    [ "OnPlayerCanUseChat", "da/d7c/a28289.html#a9b69a5da200d9fe1275d2c7dd3576e87", null ]
 ];

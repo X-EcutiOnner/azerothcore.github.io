@@ -1,5 +1,7 @@
 var a01442 =
 [
-    [ "GetWeatherData", "d0/de2/a01442.html#gaeca3a72d5a44b5beb019b99cf0b30aff", null ],
-    [ "LoadWeatherData", "d0/de2/a01442.html#ga6c7d8a9fc5dfce0880220f4b5b8cd623", null ]
+    [ "canCreateExtraItems", "d0/de2/a01442.html#a49687e255d65fa15dac5e6a428c5739d", null ],
+    [ "CanCreatePerfectItem", "d0/de2/a01442.html#a818c557864790091814604b6d2175e52", null ],
+    [ "LoadSkillExtraItemTable", "d0/de2/a01442.html#a3244d04018405bafe21acc8bc96cc743", null ],
+    [ "LoadSkillPerfectItemTable", "d0/de2/a01442.html#a121df170a82be5ab5b05999a6be27b69", null ]
 ];

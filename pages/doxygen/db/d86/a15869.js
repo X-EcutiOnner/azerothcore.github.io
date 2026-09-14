@@ -1,6 +1,6 @@
 var a15869 =
 [
-    [ "npc_death_ravagerAI", "dd/db8/a15873.html", "dd/db8/a15873" ],
-    [ "npc_death_ravager", "db/d86/a15869.html#a6aa04a28ce5aa0e467e638c8ffe11657", null ],
-    [ "GetAI", "db/d86/a15869.html#a284d0b8ccf902d3f03ddfc6750fe0f1c", null ]
+    [ "HandleDummy", "db/d86/a15869.html#a09b21b3e5357c49d85ef01d9a5d4694f", null ],
+    [ "PrepareSpellScript", "db/d86/a15869.html#ac221d3d128265d78acc72d41ebf0fd8a", null ],
+    [ "Register", "db/d86/a15869.html#a67be525bc07ef7091d9b8148c1a01fb9", null ]
 ];

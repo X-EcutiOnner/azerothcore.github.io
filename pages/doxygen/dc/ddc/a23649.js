@@ -1,14 +1,10 @@
 var a23649 =
 [
-    [ "boss_vazruden", "dc/ddc/a23649.html#a9908d6082a09d55dd0d8bb801784a151", null ],
-    [ "DamageTaken", "dc/ddc/a23649.html#a44b1e4d43bbf0d7faec7f4ee277db811", null ],
-    [ "EnterEvadeMode", "dc/ddc/a23649.html#aba006e8e9aefe522ea5c36c638bb5c3b", null ],
-    [ "JustDied", "dc/ddc/a23649.html#a525025b41b53a577bdff1eb818191ed7", null ],
-    [ "JustEngagedWith", "dc/ddc/a23649.html#a5dbbe80fcfe191ac5ae03f943496ad02", null ],
-    [ "KilledUnit", "dc/ddc/a23649.html#a8f430a0d7edb0285156c6bf68ba0aa07", null ],
-    [ "Reset", "dc/ddc/a23649.html#a11b5091dafe2f0de9afd81de7b6fde90", null ],
-    [ "UpdateAI", "dc/ddc/a23649.html#aebaf147a1a2e723cb0cb8e46f3d01e68", null ],
-    [ "_hasSpoken", "dc/ddc/a23649.html#af5b9aa9c7a343486b4dc05819e8d3ccf", null ],
-    [ "_nazanCalled", "dc/ddc/a23649.html#a44d53934c743e9beb539681719997852", null ],
-    [ "_scheduler", "dc/ddc/a23649.html#a60382206e378c2f2c493d1ee25c4ff8c", null ]
+    [ "boss_high_king_maulgar", "dc/ddc/a23649.html#a8a835570bd4ff5361b2025b2aaeec91f", null ],
+    [ "DoAction", "dc/ddc/a23649.html#a210e9c3d42e9201b9fbee0d7776cbcc5", null ],
+    [ "JustDied", "dc/ddc/a23649.html#ad235febd755745313b72394c633c3723", null ],
+    [ "JustEngagedWith", "dc/ddc/a23649.html#a6ad48aba60a01df62c1ae62e6480a14d", null ],
+    [ "KilledUnit", "dc/ddc/a23649.html#a2059016597039929103c053d6524ebf7", null ],
+    [ "Reset", "dc/ddc/a23649.html#adf1bf1c8c75fc9bbed871af157c6663c", null ],
+    [ "UpdateAI", "dc/ddc/a23649.html#ae540909dbbb3cf93e37503cd755c3001", null ]
 ];

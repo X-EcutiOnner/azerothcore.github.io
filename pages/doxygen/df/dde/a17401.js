@@ -1,8 +1,11 @@
 var a17401 =
 [
-    [ "npc_hor_lumbering_abomination", "df/dde/a17401.html#a08ae4bc9025a4bfbe91d39d256e34060", null ],
-    [ "JustDied", "df/dde/a17401.html#ae8fca8b5f86fe5cba1b4de2aaac6cf61", null ],
-    [ "JustEngagedWith", "df/dde/a17401.html#a5380771abba095749e1e0b30fe070a73", null ],
-    [ "Reset", "df/dde/a17401.html#afd56b698fac5f7f13e718d645608213f", null ],
-    [ "UpdateAI", "df/dde/a17401.html#a79e99c86f54a4fc7cbcf98e2a08e62ed", null ]
+    [ "npc_ghostly_priest", "df/dde/a17401.html#a154f4a7f9cd3c4088eada04c44f66f2b", null ],
+    [ "AttackStart", "df/dde/a17401.html#acbc2eb708773500136deebb8542d36aa", null ],
+    [ "DoAction", "df/dde/a17401.html#a0687e1c766c89b8b90cb620a4a2bef6d", null ],
+    [ "EnterEvadeMode", "df/dde/a17401.html#ac944330e3834bd4c65e30c595752746c", null ],
+    [ "JustDied", "df/dde/a17401.html#ae7ef06904aa2039d3552a2a62b846042", null ],
+    [ "JustEngagedWith", "df/dde/a17401.html#ada930b20b8f3b07f2da7bfa44025ed32", null ],
+    [ "Reset", "df/dde/a17401.html#a3bb7596f2a15c76eeb8f2b79fab8ddf1", null ],
+    [ "UpdateAI", "df/dde/a17401.html#a3722469ea1445f7dbaf834853a9ed654", null ]
 ];

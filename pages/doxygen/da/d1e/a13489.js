@@ -1,6 +1,12 @@
 var a13489 =
 [
-    [ "instance_magisters_terrace_InstanceMapScript", "d6/d4e/a13493.html", "d6/d4e/a13493" ],
-    [ "instance_magisters_terrace", "da/d1e/a13489.html#a81e23ce04c4d765193d2d2763ef78987", null ],
-    [ "GetInstanceScript", "da/d1e/a13489.html#a465cbaebb13535cdb7f6a2108e026fc5", null ]
+    [ "boss_felblood_kaelthas", "da/d1e/a13489.html#a85abfb330ccc1fed5b9dc851d780f386", null ],
+    [ "DamageTaken", "da/d1e/a13489.html#ae29fb38a2f7dcf778b4443bc56f10e84", null ],
+    [ "DoAction", "da/d1e/a13489.html#a984dcde8d78adbce00e307eb3c4d32b8", null ],
+    [ "GravityLapseSequence", "da/d1e/a13489.html#aae902304d9e7ef27bdb9bde8cdf85605", null ],
+    [ "JustDied", "da/d1e/a13489.html#affea155d0eb2b4dda1b9dc8847fc2444", null ],
+    [ "JustEngagedWith", "da/d1e/a13489.html#a1d8806d7813d11aa61e043e420852218", null ],
+    [ "LapseAction", "da/d1e/a13489.html#ae1ac5b5da2a548f5b1dc1bdffb303b25", null ],
+    [ "Reset", "da/d1e/a13489.html#abde9a26abd8eef0b8cd25cbd6522d899", null ],
+    [ "_gravityLapseCounter", "da/d1e/a13489.html#ab4e884a341fa25a555c160f6978861fc", null ]
 ];

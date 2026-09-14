@@ -1,7 +1,7 @@
 var a26381 =
 [
-    [ "HandleScript", "db/d6e/a26381.html#a1f5993561f68ab1f540fcc18fe309b7c", null ],
-    [ "PrepareSpellScript", "db/d6e/a26381.html#a91a04a3baa074b228371c6220e67f3f8", null ],
-    [ "Register", "db/d6e/a26381.html#a4f5cf691ed45724ef113e121f146c9d0", null ],
-    [ "Validate", "db/d6e/a26381.html#ae618fdfd0aa5f77e841c6992f7bc9d80", null ]
+    [ "CheckCast", "db/d6e/a26381.html#a02134ecbc1b1e0c8b6047ec13ef7e701", null ],
+    [ "HandleEffect", "db/d6e/a26381.html#a9f1be51fb58cde38cd643c6d1a5a6c15", null ],
+    [ "PrepareSpellScript", "db/d6e/a26381.html#aa63cb903e7c6037a6c08381334ccc126", null ],
+    [ "Register", "db/d6e/a26381.html#a670a8dbdadd988fe3220cc01b71114aa", null ]
 ];

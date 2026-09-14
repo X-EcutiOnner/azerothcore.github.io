@@ -1,18 +1,14 @@
 var a28821 =
 [
-    [ "DBCStorageBase", "d5/deb/a28821.html#ad688053187f77a4a016274f7e46a76a3", null ],
-    [ "~DBCStorageBase", "d5/deb/a28821.html#a39d4e4f05a50b952c2f952a452beb010", null ],
-    [ "GetFieldCount", "d5/deb/a28821.html#a867375a50bcf7ec8c40b6ff7305a5e81", null ],
-    [ "GetFormat", "d5/deb/a28821.html#ab333cdbf4cb7c6f527045902256fdf2f", null ],
-    [ "Load", "d5/deb/a28821.html#a779bd666cbdc6587eab6a81e51e894d8", null ],
-    [ "Load", "d5/deb/a28821.html#a14dfcde7f1c9c63a293638009b6ce16b", null ],
-    [ "LoadFromDB", "d5/deb/a28821.html#abea56cf48880a3ae02d322b6283032b4", null ],
-    [ "LoadFromDB", "d5/deb/a28821.html#a7156af21138d19a978b9551a2ca24708", null ],
-    [ "LoadStringsFrom", "d5/deb/a28821.html#a912b4793ddc3e3ff3bc9279693373b79", null ],
-    [ "LoadStringsFrom", "d5/deb/a28821.html#a0e3e3be24e2404fad11c322190e0e337", null ],
-    [ "_dataTable", "d5/deb/a28821.html#ab13a1018e69345a3665f50d696bc7236", null ],
-    [ "_fieldCount", "d5/deb/a28821.html#aa9bebefe18610016bef2c7d087d20abe", null ],
-    [ "_fileFormat", "d5/deb/a28821.html#a3ac1c70817c9b7a351ea0e0d2e602351", null ],
-    [ "_indexTableSize", "d5/deb/a28821.html#aa17bb429de3b9df9bb6ffcbc9bf9010b", null ],
-    [ "_stringPool", "d5/deb/a28821.html#a8d571b107344a2dbde0b2cbcfa3c9b52", null ]
+    [ "FlameshockerCheck", "d7/d9d/a28825.html", "d7/d9d/a28825" ],
+    [ "npc_pallid_horror", "d5/deb/a28821.html#ae43fa737cdc303d68f34ac2fbb356814", null ],
+    [ "CorpseRemoved", "d5/deb/a28821.html#a700af3062528a6c41f7f0985f1820b36", null ],
+    [ "InitializeAI", "d5/deb/a28821.html#a2711bdb05ad74a4d0425b4f61dcddab4", null ],
+    [ "JustDied", "d5/deb/a28821.html#a6145be6ed4a56ec8f8e923187ceea47c", null ],
+    [ "JustSummoned", "d5/deb/a28821.html#a801e04d47de8d86dcfbfa552de54cd0f", null ],
+    [ "ScheduleTasks", "d5/deb/a28821.html#aa9e851cb55238bb4cf6c1e7a9d309c20", null ],
+    [ "SummonFlameshockers", "d5/deb/a28821.html#afc2625ef0ddae00fd14d3dbf7952b0cf", null ],
+    [ "UpdateAI", "d5/deb/a28821.html#a701b52b2977017c692368a5d363dd6bd", null ],
+    [ "UpdateWeather", "d5/deb/a28821.html#ac9c5b8d4274e443f4c74b2b40aa5830f", null ],
+    [ "_summons", "d5/deb/a28821.html#a0948ef0c5971a8b6ffee2269d8bca3a6", null ]
 ];

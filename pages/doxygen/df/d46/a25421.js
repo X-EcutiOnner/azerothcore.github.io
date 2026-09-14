@@ -1,7 +1,6 @@
 var a25421 =
 [
-    [ "HandleEffectApply", "df/d46/a25421.html#abf780eeca61aef7e44617aa0ed2ff8b8", null ],
-    [ "OnRemove", "df/d46/a25421.html#af2cfa66cd7dbc7c671efa06c497cc03e", null ],
-    [ "PrepareAuraScript", "df/d46/a25421.html#ab6c5d1fd94c763126ef77f9efd4a7116", null ],
-    [ "Register", "df/d46/a25421.html#a473189971d0a03e7305b7b9e41dc5207", null ]
+    [ "HandleDummy", "df/d46/a25421.html#a63bc85e32a1478d03b381c61a33d0dff", null ],
+    [ "PrepareSpellScript", "df/d46/a25421.html#adae41617f38a71ccec183f419d677cfd", null ],
+    [ "Register", "df/d46/a25421.html#a820e8b506de36a24411ae4a1c5930417", null ]
 ];

@@ -1,5 +1,4 @@
 var a08109 =
 [
-    [ "value_type", "df/d07/a08109.html#ab102122dc913801a43be2fc6e4d5b2b4", null ],
-    [ "TryConsume", "df/d07/a08109.html#a4916376e89113eea20071f4f584c6a75", null ]
+    [ "value", "df/d07/a08109.html#aa6558e36917995af6b37ec607751aefd", null ]
 ];

@@ -1,6 +1,6 @@
 var a13965 =
 [
-    [ "HandleSendEvent", "d7/df5/a13965.html#a1be975f4440b823c34cc3e790fcff608", null ],
-    [ "PrepareSpellScript", "d7/df5/a13965.html#a91ac4a392fcf5b6e833fb3f5103d8e06", null ],
-    [ "Register", "d7/df5/a13965.html#a217fb7cb47b08999d49ec04b345b77fe", null ]
+    [ "ChangeSummonPos", "d7/df5/a13965.html#ae24a7c8279a92f1018748a0e930736ac", null ],
+    [ "PrepareSpellScript", "d7/df5/a13965.html#a7b6cd9464f27676f0c74224ef1b1a9cc", null ],
+    [ "Register", "d7/df5/a13965.html#a03a1a1e5501452eacaceadd9725f2287", null ]
 ];

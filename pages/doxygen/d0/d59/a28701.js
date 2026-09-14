@@ -1,5 +1,7 @@
 var a28701 =
 [
-    [ "npc_controller", "d0/d59/a28701.html#a3c75fb509d5cf4b4d417c97b409615b1", null ],
-    [ "OnCharmed", "d0/d59/a28701.html#a69628677de225d76a8c89b4626e0f32b", null ]
+    [ "npc_steam_tonkAI", "d0/d59/a28701.html#a64bc74af412304d50526e5c93e01a333", null ],
+    [ "JustEngagedWith", "d0/d59/a28701.html#a95b023adf0a2e62788e0d5646b17b319", null ],
+    [ "OnPossess", "d0/d59/a28701.html#a954208c1a9826ae84a7402f59e1d7055", null ],
+    [ "Reset", "d0/d59/a28701.html#a5c76625843b30302b2af0a4ae8b85bd2", null ]
 ];

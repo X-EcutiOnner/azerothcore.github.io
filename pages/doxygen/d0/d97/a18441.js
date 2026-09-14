@@ -1,7 +1,6 @@
 var a18441 =
 [
-    [ "HandleCast", "d0/d97/a18441.html#aaa3262bc782e342825d4caba2954e95d", null ],
-    [ "PrepareSpellScript", "d0/d97/a18441.html#ae4d1f05b978e2a46d7dc3410def73978", null ],
-    [ "Register", "d0/d97/a18441.html#ac59fb77c6a52d7a603dbb27e933a6814", null ],
-    [ "Validate", "d0/d97/a18441.html#a6ca80316fe7bcbb4ebda095d633bb1bc", null ]
+    [ "ExtraEffect", "d0/d97/a18441.html#a10dfb36a835589208482e1c8833d8f46", null ],
+    [ "PrepareSpellScript", "d0/d97/a18441.html#a972ff2bdc7d3660820e05326600be6f6", null ],
+    [ "Register", "d0/d97/a18441.html#ae337e67a220b72b44878d02be33e3888", null ]
 ];

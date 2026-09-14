@@ -1,7 +1,9 @@
 var a23389 =
 [
-    [ "go_ahune_ice_spear", "dd/dfd/a23389.html#a22922e47b819bc60e331cffbc7c353b3", null ],
-    [ "Reset", "dd/dfd/a23389.html#abd11525a84d3ab06a39d1eb7e7c09fbc", null ],
-    [ "UpdateAI", "dd/dfd/a23389.html#ae498fc1f71906af2f20e95dea4df4a2b", null ],
-    [ "_scheduler", "dd/dfd/a23389.html#a7e1dab03b33b0114cc0a40fc02e2306e", null ]
+    [ "boss_morogrim_tidewalker", "dd/dfd/a23389.html#a138a200da298f64697e2e47fb8004ccb", null ],
+    [ "JustDied", "dd/dfd/a23389.html#a139d87e7cffe03183538eb493e063195", null ],
+    [ "JustEngagedWith", "dd/dfd/a23389.html#a3244672aeb994673e1f46708699bcc2c", null ],
+    [ "JustSummoned", "dd/dfd/a23389.html#a2b669007520094948138c95468b77f9f", null ],
+    [ "KilledUnit", "dd/dfd/a23389.html#a2db94919e6d6f3d4eda4addc4248976e", null ],
+    [ "Reset", "dd/dfd/a23389.html#a78ed1d1f8c55407497a4fb679587975d", null ]
 ];

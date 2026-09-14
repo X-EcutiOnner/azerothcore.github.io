@@ -1,7 +1,6 @@
 var a20133 =
 [
-    [ "HandleDummyEffect", "dd/dda/a20133.html#ae95c1ce60db79c360e9c1431f27705cb", null ],
-    [ "PrepareSpellScript", "dd/dda/a20133.html#a84a4f52928873e58b1fc49e783c5083a", null ],
-    [ "Register", "dd/dda/a20133.html#a90c00bcb1768d696addab407425e406a", null ],
-    [ "SelectTarget", "dd/dda/a20133.html#a2e7a7c05a30ae1e0c5aa14dc2af19345", null ]
+    [ "HandleApplyTouch", "dd/dda/a20133.html#a0c46c506f78f46f17c0de6caae774316", null ],
+    [ "PrepareSpellScript", "dd/dda/a20133.html#a2f32b735a8a72a6ef52744d3ce8ada8b", null ],
+    [ "Register", "dd/dda/a20133.html#a70382055564e4ead8b5da0d6bd20c67f", null ]
 ];

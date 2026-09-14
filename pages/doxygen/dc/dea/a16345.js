@@ -1,8 +1,6 @@
 var a16345 =
 [
-    [ "HandleScriptEffect", "dc/dea/a16345.html#af3e18fa5befc7124f2a3dbcd36259e6b", null ],
-    [ "Load", "dc/dea/a16345.html#ab293f8b536957558fa8886e1f4a23e74", null ],
-    [ "PrepareSpellScript", "dc/dea/a16345.html#ae4a1abf2e39c6806d804dea9ce5808ef", null ],
-    [ "Register", "dc/dea/a16345.html#a9fb54f0662982dec90c2e6f8568421ed", null ],
-    [ "Validate", "dc/dea/a16345.html#a2bee81d684c4739bb6247bfbdb74a21b", null ]
+    [ "go_troll_cageAI", "d5/de3/a16349.html", "d5/de3/a16349" ],
+    [ "go_troll_cage", "dc/dea/a16345.html#ac571df719edabd9e9ecf5c8bb0e153c2", null ],
+    [ "GetAI", "dc/dea/a16345.html#a807f526225dc9a6b27ac64a7f4a3d9b8", null ]
 ];

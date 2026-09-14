@@ -1,12 +1,8 @@
 var a09301 =
 [
-    [ "IsTeamAward1", "dc/d7d/a09301.html#a25f928a8f8c3a19b1aa9a5c41b0ba612", null ],
-    [ "IsTeamAward2", "dc/d7d/a09301.html#a053bd7825d0464ac322b449f3d243722", null ],
-    [ "RepFaction1", "dc/d7d/a09301.html#a4e75bb4149f8bb0b83a5aacba47800dd", null ],
-    [ "RepFaction2", "dc/d7d/a09301.html#a5934590811c666d06b68216428574d8a", null ],
-    [ "ReputationMaxCap1", "dc/d7d/a09301.html#a292b78f629723c3993a796eb256dd9b8", null ],
-    [ "ReputationMaxCap2", "dc/d7d/a09301.html#ac90d17e82d6c8a763d3ea868250b44a7", null ],
-    [ "RepValue1", "dc/d7d/a09301.html#a4c5f965e028c45d6ad4d5875f76b2458", null ],
-    [ "RepValue2", "dc/d7d/a09301.html#a74f46afc59593d7ae71ab65aa9e1f1c2", null ],
-    [ "TeamDependent", "dc/d7d/a09301.html#a66e60a90f166e5fc12ea4dbe615c998f", null ]
+    [ "Entry", "dc/d7d/a09301.html#ac9fa29db15e06513805124a56cd073e8", null ],
+    [ "ExtendedCost", "dc/d7d/a09301.html#ac826dc078ef456ed93bf23175bce243d", null ],
+    [ "Incrtime", "dc/d7d/a09301.html#a95ce707d0a2b00e65c2cd4c5ddda1ea5", null ],
+    [ "Item", "dc/d7d/a09301.html#aa500da847d94a9b70cb3a26b782059b3", null ],
+    [ "MaxCount", "dc/d7d/a09301.html#a04534ff42e5889995b5203a3257bc864", null ]
 ];

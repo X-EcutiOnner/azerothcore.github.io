@@ -1,8 +1,7 @@
 var a16529 =
 [
-    [ "RestoreFight", "d6/d2f/a16529.html#a0149cccce8c3120b1e988e9a7c96f75c", null ],
-    [ "RestoreFight", "d6/d2f/a16529.html#a0149cccce8c3120b1e988e9a7c96f75c", null ],
-    [ "Execute", "d6/d2f/a16529.html#a019eb3c08dc8c3b97fc27b989ec8ab77", null ],
-    [ "Execute", "d6/d2f/a16529.html#a019eb3c08dc8c3b97fc27b989ec8ab77", null ],
-    [ "_owner", "d6/d2f/a16529.html#ae35c9b4547fcd7e8ea0f4b6ee4c637a0", null ]
+    [ "OnRemove", "d6/d2f/a16529.html#afb0821bc8774e634eefdd87efe6af945", null ],
+    [ "PrepareAuraScript", "d6/d2f/a16529.html#a54b1de501bdf3193cdb89125bc1ceb0e", null ],
+    [ "Register", "d6/d2f/a16529.html#a985ad6d7eca06fbaf869e591136f46a3", null ],
+    [ "Validate", "d6/d2f/a16529.html#aa794b76c4d9590b867dda57f02724d95", null ]
 ];

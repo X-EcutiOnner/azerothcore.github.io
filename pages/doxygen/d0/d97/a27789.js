@@ -1,9 +1,7 @@
 var a27789 =
 [
-    [ "CheckCast", "d0/d97/a27789.html#a846862b62f5750801cd804133f290d5d", null ],
-    [ "HandleDummy", "d0/d97/a27789.html#aa56609d3c75a69fb62e302622fd11c3c", null ],
-    [ "Load", "d0/d97/a27789.html#acec7437ba80e4ae491020448a36e4559", null ],
-    [ "PrepareSpellScript", "d0/d97/a27789.html#ab5e281028c009a4b317111de9a0a17e3", null ],
-    [ "Register", "d0/d97/a27789.html#a865fa526f2131703a668e113ba0d7849", null ],
-    [ "Validate", "d0/d97/a27789.html#a6c6dee3de2c54536765cfdd97f4fd0c0", null ]
+    [ "HandleAuraApply", "d0/d97/a27789.html#afb8eb7fcc0797c3e19a9bfc5eebb5fb2", null ],
+    [ "HandleAuraRemove", "d0/d97/a27789.html#a9029865b5e06c4a9aa7f155f371c9125", null ],
+    [ "PrepareAuraScript", "d0/d97/a27789.html#a5c7d7c0b8880128121d66d39094f1965", null ],
+    [ "Register", "d0/d97/a27789.html#ae15d5175671c60a55e4a77848bc9fe1b", null ]
 ];

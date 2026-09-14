@@ -1,9 +1,6 @@
 var a12705 =
 [
-    [ "npc_phalanx", "d1/d47/a12705.html#a03c79151dcdc13fef4ce83957addd44a", null ],
-    [ "Reset", "d1/d47/a12705.html#a9297d5fb869eb9a65ef9143a56347a53", null ],
-    [ "UpdateAI", "d1/d47/a12705.html#aad01cc9d5ac167c21547e8b0b2bda4a7", null ],
-    [ "_fireballVolleyTimer", "d1/d47/a12705.html#a54ad76cd7e8d3be058ad3d5153e5b144", null ],
-    [ "_mightyBlowTimer", "d1/d47/a12705.html#ad59e6e32b53dbf797bc62e116ae2a12d", null ],
-    [ "_thunderClapTimer", "d1/d47/a12705.html#a3b0c33207bf5090abeb9860585c222b4", null ]
+    [ "npc_av_marshal_or_warmasterAI", "d8/de0/a12709.html", "d8/de0/a12709" ],
+    [ "npc_av_marshal_or_warmaster", "d1/d47/a12705.html#a7ffc93248d66d50d5d75d1fcf1f907ee", null ],
+    [ "GetAI", "d1/d47/a12705.html#a295eee4baef6a53cf291fdf155cfdf4a", null ]
 ];

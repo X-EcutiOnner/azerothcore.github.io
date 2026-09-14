@@ -1,6 +1,6 @@
 var a28265 =
 [
-    [ "go_heatAI", "d4/d0a/a28269.html", "d4/d0a/a28269" ],
-    [ "go_heat", "d1/d85/a28265.html#a6c3d6919652159e4fd265b6d63f59c16", null ],
-    [ "GetAI", "d1/d85/a28265.html#a9f19009a78c7abd349d2e2e7bf98c1a0", null ]
+    [ "boss_taerarAI", "d4/d0a/a28269.html", "d4/d0a/a28269" ],
+    [ "boss_taerar", "d1/d85/a28265.html#a100c1b80a50faf93088db870faa21b58", null ],
+    [ "GetAI", "d1/d85/a28265.html#ae6615da6ee14c4f7cb3087b4ee5d6246", null ]
 ];

@@ -1,8 +1,13 @@
 var a05777 =
 [
-    [ "GeneralLock", "d6/d08/a05777.html#ad0fac66b181e166108c871274bce7a93", null ],
-    [ "~GeneralLock", "d6/d08/a05777.html#a455c73434c26cac8bf9761900d648589", null ],
-    [ "GeneralLock", "d6/d08/a05777.html#a61e310a8f98eb22f31ed378992bbb0c0", null ],
-    [ "operator=", "d6/d08/a05777.html#a1ebc4e65340c1e6d46fd7e4c7f5d6e3d", null ],
-    [ "i_mutex", "d6/d08/a05777.html#a80b98e278d3afb1867ff5f159eda5055", null ]
+    [ "MPSCQueueIntrusive", "d6/d08/a05777.html#a8e05361abed759932c49b0fc71ed09c1", null ],
+    [ "~MPSCQueueIntrusive", "d6/d08/a05777.html#a8155857825ceb1b7154ea82a63dbce08", null ],
+    [ "MPSCQueueIntrusive", "d6/d08/a05777.html#afaee06af7734e53ce50674e4ef7277b2", null ],
+    [ "Dequeue", "d6/d08/a05777.html#a798e36f41ef34c226690f76e9dc03fd6", null ],
+    [ "Enqueue", "d6/d08/a05777.html#a233004b906cfa66cdd285233105dddf7", null ],
+    [ "operator=", "d6/d08/a05777.html#a93cdd07d00b7dff8a7da5bf4846b26c7", null ],
+    [ "_dummy", "d6/d08/a05777.html#ad4d3a9cebe46fc524e474b7854a20b03", null ],
+    [ "_dummyPtr", "d6/d08/a05777.html#a115e9affe6159ae8aa08c6fc358e400c", null ],
+    [ "_head", "d6/d08/a05777.html#a7fb32fbb507e82f9e8a6c1691e281fcd", null ],
+    [ "_tail", "d6/d08/a05777.html#ac7e333db415e6301a02052c53779d1d4", null ]
 ];

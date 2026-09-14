@@ -1,6 +1,6 @@
 var a12121 =
 [
-    [ "EffectManaShieldHandler", "dc/dda/a12121.html#a234fb0f6749072f9cc6310f80b3b9583", null ],
-    [ "Call", "dc/dda/a12121.html#a30ac72ee0a22ac3e71bcb2eeda903dbc", null ],
-    [ "pEffectHandlerScript", "dc/dda/a12121.html#a1aec2af2a69a90b8038d612d9ebddc2b", null ]
+    [ "ObjectAreaTargetSelectHandler", "dc/dda/a12121.html#a89b86436bb1de38223165e7ef60f2b61", null ],
+    [ "Call", "dc/dda/a12121.html#a11d2070610d178006231bac274d1f311", null ],
+    [ "pObjectAreaTargetSelectHandlerScript", "dc/dda/a12121.html#a118ca963c6319802806913762c4d1fec", null ]
 ];

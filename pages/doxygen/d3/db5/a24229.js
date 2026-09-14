@@ -1,7 +1,7 @@
 var a24229 =
 [
-    [ "HandleEffectApply", "d3/db5/a24229.html#a362b5b818ab0029956fd22bd10b4b9ac", null ],
-    [ "HandleEffectRemove", "d3/db5/a24229.html#a96769390468dc132df62b5a0ec3a2da4", null ],
-    [ "PrepareAuraScript", "d3/db5/a24229.html#a7bad0d577281829e60c0fb577d6a7d6e", null ],
-    [ "Register", "d3/db5/a24229.html#a95905ec163c42463314a5f5bb023b4d6", null ]
+    [ "npc_creditmarker_visit_with_ancestorsAI", "d3/db5/a24229.html#a483e8fb0d73561e34a1078fdde1a1b5b", null ],
+    [ "JustEngagedWith", "d3/db5/a24229.html#a4038d707731f64f588e307c22c859902", null ],
+    [ "MoveInLineOfSight", "d3/db5/a24229.html#a40d92122cd4f879f52ff78a4f172c3b8", null ],
+    [ "Reset", "d3/db5/a24229.html#a29132346f117ba785039057619edb9e7", null ]
 ];

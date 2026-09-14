@@ -1,10 +1,6 @@
 var a17169 =
 [
-    [ "boss_dredAI", "d3/df9/a17169.html#a4ad04fe31990a37fd6d3a23329350248", null ],
-    [ "GetData", "d3/df9/a17169.html#a7a93506d77eaf40c6f7be9e433f211e1", null ],
-    [ "JustEngagedWith", "d3/df9/a17169.html#ae6e1181dcdea763460ca72148abfcb3f", null ],
-    [ "Reset", "d3/df9/a17169.html#a5fe153ab58b1feedce5afa6b10a0d3de", null ],
-    [ "ScheduleTasks", "d3/df9/a17169.html#aaea229cebd3d82b01c4577e58a06de2d", null ],
-    [ "SetData", "d3/df9/a17169.html#a884f48aabc26b054dcd303a91cb88301", null ],
-    [ "_raptorCount", "d3/df9/a17169.html#a95aa63c18d7e1f2dec2491ac4649a378", null ]
+    [ "boss_eydisAI", "d2/d0a/a17173.html", "d2/d0a/a17173" ],
+    [ "boss_eydis", "d3/df9/a17169.html#aa555f80882499bc4627e622fbb48b2a4", null ],
+    [ "GetAI", "d3/df9/a17169.html#ad49a673431c479fa2f5d9b6da42bbf55", null ]
 ];

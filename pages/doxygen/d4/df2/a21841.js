@@ -1,6 +1,6 @@
 var a21841 =
 [
-    [ "CheckCast", "d4/df2/a21841.html#a9c7e08a8a9b1c1b44ae290818826d43a", null ],
-    [ "PrepareSpellScript", "d4/df2/a21841.html#abff433d61c798d17882292b6b0956a58", null ],
-    [ "Register", "d4/df2/a21841.html#a1034967a4bf633f160cc40ae6e0fc567", null ]
+    [ "npc_dalaran_warriorAI", "d7/d16/a21845.html", "d7/d16/a21845" ],
+    [ "npc_dalaran_warrior", "d4/df2/a21841.html#a13d44b85173232ddedcc35184d50549c", null ],
+    [ "GetAI", "d4/df2/a21841.html#a1e84676d2a76bac728a1f23f5f9fc25e", null ]
 ];

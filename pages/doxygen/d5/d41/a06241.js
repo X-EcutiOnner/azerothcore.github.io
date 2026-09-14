@@ -1,14 +1,17 @@
 var a06241 =
 [
-    [ "difference_type", "d5/d41/a06241.html#aa5abd2b7fa1dc64ac1eb085521b27d6f", null ],
-    [ "iterator_category", "d5/d41/a06241.html#acaafbe30e2be9953852968b633d8237f", null ],
-    [ "pointer", "d5/d41/a06241.html#a33215a042f7b7ddb243e8434a4c26346", null ],
-    [ "reference", "d5/d41/a06241.html#a5618bd9b42f553be7feaf26fac8fe3ba", null ],
-    [ "value_type", "d5/d41/a06241.html#aa4866b181d8cd3264394657a2dac99a8", null ],
-    [ "ResultIterator", "d5/d41/a06241.html#a0a7d6ac1eee62492330353b15edb4fd0", null ],
-    [ "operator!=", "d5/d41/a06241.html#ad836e2cc7742bdb3b77dc8f6c19c4ad9", null ],
-    [ "operator*", "d5/d41/a06241.html#a4c7ba1d0e7251aeab6b255bf1c78defd", null ],
-    [ "operator++", "d5/d41/a06241.html#ae66f3f0e1fd5af21ff0854826fb37075", null ],
-    [ "operator->", "d5/d41/a06241.html#a0b6cee284fea4a4023cc688614432b69", null ],
-    [ "_ptr", "d5/d41/a06241.html#a0be3611fcc2a6eb680a6f4aaba57068e", null ]
+    [ "QueryCallbackData", "d5/d41/a06241.html#a43aa5b63c21480a9a02e5b1705f5e46a", null ],
+    [ "QueryCallbackData", "d5/d41/a06241.html#af3d8b55a1a392e1f471bcf7ce16d8f45", null ],
+    [ "QueryCallbackData", "d5/d41/a06241.html#a81f06a2940c72077d0f8bbe0d6292c5e", null ],
+    [ "~QueryCallbackData", "d5/d41/a06241.html#a7a748ec0f04555caf696be1792701134", null ],
+    [ "QueryCallbackData", "d5/d41/a06241.html#aea307606758c54a99e020421acaa5697", null ],
+    [ "operator=", "d5/d41/a06241.html#a135161ac21cd4f11f2178acc8316afea", null ],
+    [ "operator=", "d5/d41/a06241.html#a5b4baade8dd78ab3dc00e1003f679fb3", null ],
+    [ "ConstructActiveMember", "d5/d41/a06241.html#a63276ee687270e668e7c51876ced5fb1", null ],
+    [ "DestroyActiveMember", "d5/d41/a06241.html#aac0ba6a0017441eb25c4b294fde99186", null ],
+    [ "MoveFrom", "d5/d41/a06241.html#a4ef783bc4f06f2cbaec3f4b6ca2c49aa", null ],
+    [ "QueryCallback", "d5/d41/a06241.html#a3bf0675bb0e337d06f1e7ef31d7622fe", null ],
+    [ "_isPrepared", "d5/d41/a06241.html#ad4e5dcd8f5648dfa36116b9944813ec6", null ],
+    [ "_prepared", "d5/d41/a06241.html#ab87a39965f1ca9d48d6e5a88fde51976", null ],
+    [ "_string", "d5/d41/a06241.html#a384db60c65e7823fdbc0ff430ac8dfe1", null ]
 ];

@@ -1,15 +1,18 @@
 var a20477 =
 [
-    [ "npc_ulduar_hodir_druid", "d4/d2a/a20477.html#aac822cf4203af0e0173004ccc33abc21", null ],
-    [ "AttackStart", "d4/d2a/a20477.html#a67884f16c32f849bc68d68256c19d21a", null ],
-    [ "CanAIAttack", "d4/d2a/a20477.html#a81b0f60596e63ec618a9a9e1d8bc6c9d", null ],
-    [ "DoAction", "d4/d2a/a20477.html#a54f6d2cccc7668f337c0617459db5522", null ],
-    [ "EnterEvadeMode", "d4/d2a/a20477.html#a22a10571e9cfe69200fd4a8fd383e500", null ],
-    [ "JustDied", "d4/d2a/a20477.html#a6cfefe7ccb156a658e8e2dad603b3fce", null ],
-    [ "MoveInLineOfSight", "d4/d2a/a20477.html#aa2e3e904c5f7fee4236a9395b95ef3e9", null ],
-    [ "ScheduleAbilities", "d4/d2a/a20477.html#ac8bee382634e20a49178be8b224eca2d", null ],
-    [ "SpellHit", "d4/d2a/a20477.html#a1053d484f30df43fba465981cd3cfa38", null ],
-    [ "UpdateAI", "d4/d2a/a20477.html#abcd580306a3abb5663bbac33f68115eb", null ],
-    [ "_instance", "d4/d2a/a20477.html#add7048881ec8b0dd2c09e34813c7c353", null ],
-    [ "events", "d4/d2a/a20477.html#a323184c52fcbc3e18eb74c96db716327", null ]
+    [ "boss_vezax", "d4/d2a/a20477.html#a8e9210793b5b00d81bf5f1a3eb214f29", null ],
+    [ "DoAction", "d4/d2a/a20477.html#ac7c14cfbae5d031615e7f62ded2045c1", null ],
+    [ "GetData", "d4/d2a/a20477.html#addfa8398f2a1c21b7ed44547fa6e2899", null ],
+    [ "JustDied", "d4/d2a/a20477.html#a1ce855485a7edaace620956cb620ed39", null ],
+    [ "JustEngagedWith", "d4/d2a/a20477.html#ac22557ea0f60a04d51f016cc09d99417", null ],
+    [ "JustReachedHome", "d4/d2a/a20477.html#ad57dabcfafbd2a10b1dbb39751600bb9", null ],
+    [ "KilledUnit", "d4/d2a/a20477.html#ab339f12be1e9da262f6243cfe22908c2", null ],
+    [ "MoveInLineOfSight", "d4/d2a/a20477.html#a79c3312d27ef44cf3aa2fb4b94e0ee0a", null ],
+    [ "Reset", "d4/d2a/a20477.html#a44ceea000e547d0e56994e9075a09a52", null ],
+    [ "SpellHitTarget", "d4/d2a/a20477.html#ab9288041d27b2cf2bf352085ba13ace1", null ],
+    [ "UpdateAI", "d4/d2a/a20477.html#a88331ae2f7cc9625aaf36836abf244f0", null ],
+    [ "bAchievShadowdodger", "d4/d2a/a20477.html#a7462985f6bd9daeec15d639fc076bbf9", null ],
+    [ "berserk", "d4/d2a/a20477.html#adc5e49598b2a9c463a91da0d50dbe3dc", null ],
+    [ "hardmodeAvailable", "d4/d2a/a20477.html#ae43a0164f3ac1876b6e6cd5f6f241ffb", null ],
+    [ "vaporsCount", "d4/d2a/a20477.html#a6f7205d1c455cc3344025e28d4eb8ed6", null ]
 ];

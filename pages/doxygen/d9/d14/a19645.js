@@ -1,10 +1,13 @@
 var a19645 =
 [
-    [ "boss_razuvious_minionAI", "d9/d14/a19645.html#a6f9fc7dad68f35846ee76d4bff564407", null ],
-    [ "DoAction", "d9/d14/a19645.html#a93cfa3f706ffadd94ad4dbe0585eebf1", null ],
-    [ "JustEngagedWith", "d9/d14/a19645.html#ada2e7a5ac1f129572a0689afce49d310", null ],
-    [ "KilledUnit", "d9/d14/a19645.html#ab1a6f582098c9d1218551af0aae1815d", null ],
-    [ "Reset", "d9/d14/a19645.html#a170de8517a03a0e78b1e67652869fd9a", null ],
-    [ "ScheduleAttackDummy", "d9/d14/a19645.html#abed82c71605d7c57bf29cedc21fc6b24", null ],
-    [ "UpdateAI", "d9/d14/a19645.html#ad56fca0ae00fba6e575baefd72c7a8d0", null ]
+    [ "boss_loathebAI", "d9/d14/a19645.html#a60256114947b0e9c01f5308108485935", null ],
+    [ "IsInRoom", "d9/d14/a19645.html#a617d45ab3bde4184aa31c1b2c70c1a6f", null ],
+    [ "JustDied", "d9/d14/a19645.html#acf24e563d4876fb9f899a4250b19b6f5", null ],
+    [ "JustEngagedWith", "d9/d14/a19645.html#a1abcf157e05eeb634f8e857a2de35538", null ],
+    [ "JustSummoned", "d9/d14/a19645.html#a8a28f9fe6c087c230103d1139ddb73dc", null ],
+    [ "KilledUnit", "d9/d14/a19645.html#a4dac78bba24069050dd9df729dd58b45", null ],
+    [ "Reset", "d9/d14/a19645.html#a709a4c2fe45fd757ecae6afa402e4728", null ],
+    [ "SummonedCreatureDies", "d9/d14/a19645.html#aeddc6bd981a13ec133e5481b36668b0e", null ],
+    [ "UpdateAI", "d9/d14/a19645.html#ab009008f892493b822e5ea5491c58525", null ],
+    [ "doomCounter", "d9/d14/a19645.html#aed5c631ede2eea27451a74ae21221325", null ]
 ];

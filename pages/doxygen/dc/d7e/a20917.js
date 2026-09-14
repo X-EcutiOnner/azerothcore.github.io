@@ -1,7 +1,9 @@
 var a20917 =
 [
-    [ "npc_xt_void_zone", "dc/d7e/a20917.html#ac392b70098ff8a486d1eb42c4dcd1551", null ],
-    [ "Reset", "dc/d7e/a20917.html#a72b02a51f71370f83b58d3fdb32dccd2", null ],
-    [ "UpdateAI", "dc/d7e/a20917.html#a7b49046e49cdf6b94ed6368197daeace", null ],
-    [ "_scheduler", "dc/d7e/a20917.html#acfd9e9a23c88e74ad96a14f8fb560612", null ]
+    [ "boss_thorim_gauntlet_npcs", "dc/d7e/a20917.html#a72ed22f7536d488f886fb42ab3fc84bb", null ],
+    [ "JustEngagedWith", "dc/d7e/a20917.html#af10a444bada5743c837a9979726c79c9", null ],
+    [ "Reset", "dc/d7e/a20917.html#a22fcffcc05f155524cadade389ec3607", null ],
+    [ "UpdateAI", "dc/d7e/a20917.html#a86cec45bbbb8e904200ee0bcc6e44822", null ],
+    [ "_isCaster", "dc/d7e/a20917.html#a1562e3ba5a7559f6eba9c3a0240a1e20", null ],
+    [ "events", "dc/d7e/a20917.html#aec35e2b91841c386f083681673e15598", null ]
 ];

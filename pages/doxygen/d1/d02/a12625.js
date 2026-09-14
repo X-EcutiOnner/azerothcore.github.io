@@ -1,14 +1,10 @@
 var a12625 =
 [
-    [ "tele_commandscript", "d1/d02/a12625.html#a13d522c3480c5b82071d5f77bd41f942", null ],
-    [ "DoNameTeleport", "d1/d02/a12625.html#aeab9bf62f33fd1d55055ba2ae7925f82", null ],
-    [ "GetCommands", "d1/d02/a12625.html#a296b26e39d5d575ebe68728ff1b49f68", null ],
-    [ "HandleTeleAddCommand", "d1/d02/a12625.html#a8d429a38c01a19f8c89c87937ef24248", null ],
-    [ "HandleTeleCommand", "d1/d02/a12625.html#ac7d7dbb28f3a908fa5116ffb9ca6f7fa", null ],
-    [ "HandleTeleDelCommand", "d1/d02/a12625.html#ad3d85b0057797de2aceeb620cf62efc0", null ],
-    [ "HandleTeleGroupCommand", "d1/d02/a12625.html#af83e529b482654851a7a1ee77beb107e", null ],
-    [ "HandleTeleNameCommand", "d1/d02/a12625.html#a70fcde1c7c5a9e5297035862adca55c4", null ],
-    [ "HandleTeleNameNpcIdCommand", "d1/d02/a12625.html#a52852b7f3d7a6bbf68164e6918b9a141", null ],
-    [ "HandleTeleNameNpcNameCommand", "d1/d02/a12625.html#a2f68bad0f1af5d40fcefb8c394472b65", null ],
-    [ "HandleTeleNameNpcSpawnIdCommand", "d1/d02/a12625.html#a7a45fa39afa6bae2359a68b11a504bc5", null ]
+    [ "pool_commandscript", "d1/d02/a12625.html#a41308abbe25e1e50325923f62f2fa3af", null ],
+    [ "GetCommands", "d1/d02/a12625.html#a973b565473bd8f9ef5cfd61740d114b4", null ],
+    [ "GetPoolSpawns", "d1/d02/a12625.html#ac3fa702ac995b4a2767e5235747ae222", null ],
+    [ "HandlePoolInfoCommand", "d1/d02/a12625.html#aac45a4a6c51a92aa03acde1789e1a039", null ],
+    [ "HandlePoolLookupCommand", "d1/d02/a12625.html#a377a405a1dae394c6f17579c0f2751eb", null ],
+    [ "ListPoolMembers", "d1/d02/a12625.html#a63f8bf7dc197ed163cf87f9423c8f4d9", null ],
+    [ "StatusTag", "d1/d02/a12625.html#ad72421c1425d9a8cd4809b372d2c1e5b", null ]
 ];

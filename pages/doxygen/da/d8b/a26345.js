@@ -1,7 +1,6 @@
 var a26345 =
 [
-    [ "HandleProc", "da/d8b/a26345.html#a0a0dad1c639499963a61d18fe78af1c1", null ],
-    [ "PrepareAuraScript", "da/d8b/a26345.html#aa5e12d556fef142f96c8f03dda4a4c80", null ],
-    [ "Register", "da/d8b/a26345.html#ac8790ac907c6aa798575e2460c272f17", null ],
-    [ "Validate", "da/d8b/a26345.html#a4020daf9d601eb53fe84f9cdbcf96626", null ]
+    [ "HandleEffect", "da/d8b/a26345.html#a41b46d8918b59a1617f383b3eedfe343", null ],
+    [ "PrepareSpellScript", "da/d8b/a26345.html#acfc69e6323292e6c64fbe8d2e10efcdc", null ],
+    [ "Register", "da/d8b/a26345.html#a78f1476ed28eb1e80356dbf3d32918f5", null ]
 ];

@@ -1,12 +1,12 @@
 var a14037 =
 [
-    [ "npc_sentinel_infiltrator", "d8/dc2/a14037.html#a40ce6808a4d0622eb88a669485335020", null ],
-    [ "Initialize", "d8/dc2/a14037.html#acc94269a3ede4c897f457a270e9a9c12", null ],
-    [ "JustEngagedWith", "d8/dc2/a14037.html#a2c9927468b92d00b60efac851eacfef1", null ],
-    [ "MovementInform", "d8/dc2/a14037.html#a57aef1c4ce7a491408c2c6b19d4d4cf2", null ],
-    [ "Reset", "d8/dc2/a14037.html#a0f26dbe23efdf572f81723dff1d3eeaf", null ],
-    [ "UpdateAI", "d8/dc2/a14037.html#ac676246948689c891c0f9cca7f8bc8b6", null ],
-    [ "_events", "d8/dc2/a14037.html#a296d6c70b6c439319cc69a9d39005e62", null ],
-    [ "_fleedForAssistance", "d8/dc2/a14037.html#a948c9d2081b33e18aa927fb18598c8ad", null ],
-    [ "_path", "d8/dc2/a14037.html#a32d531478df327ccb0bb85e262420813", null ]
+    [ "boss_twilight_corrupter", "d8/dc2/a14037.html#afe140d6231d9ad8543e17c4a8a8230c0", null ],
+    [ "InitializeAI", "d8/dc2/a14037.html#afe06461e9f3e1549da6631d2f89406c4", null ],
+    [ "JustEngagedWith", "d8/dc2/a14037.html#a84803153e7e7d5d7efe0106139214b1f", null ],
+    [ "KilledUnit", "d8/dc2/a14037.html#aa18d2fc90e1ccd322ec9d3128ba206d2", null ],
+    [ "MoveInLineOfSight", "d8/dc2/a14037.html#a637cdd43f2f9a4f773b4b8e8f3c88730", null ],
+    [ "Reset", "d8/dc2/a14037.html#a27720f58056206c09bce41ae50018a83", null ],
+    [ "UpdateAI", "d8/dc2/a14037.html#a580fbaa55a5c0193c1ef2c6b281d8d9e", null ],
+    [ "_introSpoken", "d8/dc2/a14037.html#a1924750c9d41ed588a29aace3c40742d", null ],
+    [ "_scheduler", "d8/dc2/a14037.html#a6c49eee2be24199418096cc48c50d384", null ]
 ];

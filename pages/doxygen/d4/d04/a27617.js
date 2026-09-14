@@ -1,7 +1,6 @@
 var a27617 =
 [
-    [ "HandleScriptEffect", "d4/d04/a27617.html#a5bbcb05b82e0953c82f2a0d96bd79eab", null ],
-    [ "PrepareSpellScript", "d4/d04/a27617.html#a7462fbeab2254046e12a262418ec0d2c", null ],
-    [ "Register", "d4/d04/a27617.html#ac14625182eb0289d8536ac322500ab45", null ],
-    [ "Validate", "d4/d04/a27617.html#a190b802f3b09655886e5bbb9980375af", null ]
+    [ "FilterTargets", "d4/d04/a27617.html#af7035627c3d6dd3fd8381ee258391a0b", null ],
+    [ "PrepareSpellScript", "d4/d04/a27617.html#a3211fda7263bc513d14a8f2fd1507ef8", null ],
+    [ "Register", "d4/d04/a27617.html#abe63ec69fe15fd8924fb63235489e088", null ]
 ];

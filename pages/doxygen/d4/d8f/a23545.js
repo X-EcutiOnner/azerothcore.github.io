@@ -1,7 +1,6 @@
 var a23545 =
 [
-    [ "OnApply", "d4/d8f/a23545.html#a6189a5ea90b1951b21a7e9ef36700ed9", null ],
-    [ "PeriodicTick", "d4/d8f/a23545.html#a1c79b1016361eabb5cef57a893bccfcf", null ],
-    [ "PrepareAuraScript", "d4/d8f/a23545.html#acfa6b5217a0e0e2654b7fa9c4092abd5", null ],
-    [ "Register", "d4/d8f/a23545.html#adddddd0689f4686a40b1db142b5d6ce2", null ]
+    [ "instance_steam_vault_InstanceMapScript", "d3/dbe/a23549.html", "d3/dbe/a23549" ],
+    [ "instance_steam_vault", "d4/d8f/a23545.html#aa3417083841ccb50c8a2f29ba343e115", null ],
+    [ "GetInstanceScript", "d4/d8f/a23545.html#a3a2edb84cc7067d3c8fa2151b4763c5a", null ]
 ];

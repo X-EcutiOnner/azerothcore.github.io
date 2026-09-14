@@ -1,9 +1,10 @@
 var a21665 =
 [
-    [ "npc_warmage_coldarraAI", "da/d83/a21665.html#a9a8c2afff61ad8457aab8a9c23a4b755", null ],
-    [ "AttackStart", "da/d83/a21665.html#a41277824ae3f6bd9a099894b6dfc7537", null ],
-    [ "JustEngagedWith", "da/d83/a21665.html#a23a8999e34142201c6ceadc64a3df6c2", null ],
-    [ "Reset", "da/d83/a21665.html#adf5094ba2bee34ec793124e798d5af8f", null ],
-    [ "UpdateAI", "da/d83/a21665.html#a14b221265cc38b4061c52b687274a398", null ],
-    [ "m_uiTimer", "da/d83/a21665.html#a338ad26d40d395dfc6ed7e8fedcc6d60", null ]
+    [ "npc_sinkhole_kill_creditAI", "da/d83/a21665.html#af2050289be6bc1c47d1ad40fc4bfa313", null ],
+    [ "Reset", "da/d83/a21665.html#a677990d64d2963ff995d9d8522c5aa81", null ],
+    [ "SpellHit", "da/d83/a21665.html#a95eaf518fb18b67820d6195cd525b017", null ],
+    [ "UpdateAI", "da/d83/a21665.html#a75611004a543bece9d3f51914547f2fe", null ],
+    [ "casterGuid", "da/d83/a21665.html#a147921788b07f5e776e03aaf15049cf0", null ],
+    [ "phase", "da/d83/a21665.html#aa45455a8d540d6f942c948cf56d11f05", null ],
+    [ "phaseTimer", "da/d83/a21665.html#aa268004c1eedf086ae8345e0ba10e2ca", null ]
 ];

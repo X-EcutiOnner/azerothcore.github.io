@@ -1,6 +1,8 @@
 var a10745 =
 [
-    [ "BattlegroundMapScript", "dd/df3/a10745.html#aa976810defac9b6838553f8d28ea9366", null ],
-    [ "checkValidity", "dd/df3/a10745.html#a90584770132eb71cffc6e25a674750ad", null ],
-    [ "isAfterLoadScript", "dd/df3/a10745.html#a0148a79556f82c990fe0fc494d03c7ab", null ]
+    [ "AllCommandScript", "dd/df3/a10745.html#ac301ea1e97fe959f23dbc72582746a24", null ],
+    [ "IsDatabaseBound", "dd/df3/a10745.html#a89430678d5c88c562f1b0ac2b294fea4", null ],
+    [ "OnBeforeIsInvokerVisible", "dd/df3/a10745.html#a6f85dc271c1b61244978aa4474e708b0", null ],
+    [ "OnHandleDevCommand", "dd/df3/a10745.html#aba983f0e052ece230617573f04a35c92", null ],
+    [ "OnTryExecuteCommand", "dd/df3/a10745.html#a3a116836453073e77bbd8ab974f36f47", null ]
 ];

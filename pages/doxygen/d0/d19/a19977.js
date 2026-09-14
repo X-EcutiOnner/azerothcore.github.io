@@ -1,7 +1,7 @@
 var a19977 =
 [
-    [ "OnRemove", "d0/d19/a19977.html#adf6b3d56199ad5a4545ce3874d1223db", null ],
-    [ "PrepareAuraScript", "d0/d19/a19977.html#a2d278e60b34870110dab188896109e24", null ],
-    [ "Register", "d0/d19/a19977.html#ac15847527cc4d162b3b34b8ca8628864", null ],
-    [ "Validate", "d0/d19/a19977.html#ac573e5bd171c97af1905b4a57a45e1f4", null ]
+    [ "CalcDamage", "d0/d19/a19977.html#abb2bf75cc347597b17ed5e4ccd213132", null ],
+    [ "PrepareSpellScript", "d0/d19/a19977.html#a705a6f0c9b10dc8e7e2e6c091a3ff89c", null ],
+    [ "Register", "d0/d19/a19977.html#a2c2b391b223ab92b6d644b739419a1d3", null ],
+    [ "Validate", "d0/d19/a19977.html#a773c608119a84cc3f02e7b4d786f2741", null ]
 ];

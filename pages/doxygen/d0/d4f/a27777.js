@@ -1,6 +1,7 @@
 var a27777 =
 [
-    [ "FilterTargets", "d0/d4f/a27777.html#a2bcc808d5869442e4c2e78be2d2a16af", null ],
-    [ "PrepareSpellScript", "d0/d4f/a27777.html#a51d7035477ba4e3994ef3161edc4cc69", null ],
-    [ "Register", "d0/d4f/a27777.html#adcc2ed25659208d0eeaec6d9673df3c6", null ]
+    [ "HandleProc", "d0/d4f/a27777.html#a929cf5d75df313a5e119eeb03735640c", null ],
+    [ "PrepareAuraScript", "d0/d4f/a27777.html#aaeacbee6f798f25e467381aa56228355", null ],
+    [ "Register", "d0/d4f/a27777.html#a111fa9ebfc9d9e8f0907635a4ce73bbb", null ],
+    [ "Validate", "d0/d4f/a27777.html#a428e6d1f5e172390986ae8fd85570e21", null ]
 ];

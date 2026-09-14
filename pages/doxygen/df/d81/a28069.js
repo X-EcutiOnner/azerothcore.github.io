@@ -1,5 +1,6 @@
 var a28069 =
 [
-    [ "achievement_sickly_gazelle", "df/d81/a28069.html#abb613cb222c727923c4c5ce843db3a5f", null ],
-    [ "OnCheck", "df/d81/a28069.html#a5a4fcd30c92c10a9c0fb8fc1372f3857", null ]
+    [ "HandleOnHit", "df/d81/a28069.html#a32a6f464057fbfb3bbffe0e10d1d4141", null ],
+    [ "PrepareSpellScript", "df/d81/a28069.html#adfa4da76e8c2486fbcc2b3bea0f50005", null ],
+    [ "Register", "df/d81/a28069.html#a1742dc0c039f7f981cae8114ff9ae59a", null ]
 ];

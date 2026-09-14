@@ -1,7 +1,11 @@
 var a18389 =
 [
-    [ "HandleProc", "da/d1b/a18389.html#a6d63b76821dbbd025bec1e8d48c8e9c9", null ],
-    [ "PrepareAuraScript", "da/d1b/a18389.html#a5eace3a973165eb82ae95b8052bb9476", null ],
-    [ "Register", "da/d1b/a18389.html#aa5b01193a7b6e58935c261c80e6a0d9a", null ],
-    [ "Validate", "da/d1b/a18389.html#ad2a7488006b16840e02b450cc9150289", null ]
+    [ "Load", "da/d1b/a18389.html#a0dab3a666abd6d8c1486a6e71ce98c20", null ],
+    [ "PrepareSpellScript", "da/d1b/a18389.html#a8338cc31a3c494c1cb24d015a11fbd64", null ],
+    [ "Register", "da/d1b/a18389.html#a9adbad7cc2185b22fb16135e78114548", null ],
+    [ "SelectTarget", "da/d1b/a18389.html#a296ec09cec9661123ea5c86f3f262f32", null ],
+    [ "SetTarget", "da/d1b/a18389.html#a15373dc2a0767e011faf504f6377e24d", null ],
+    [ "StartAttack", "da/d1b/a18389.html#a17b20a391d70ae487774d52ed0e5dbd7", null ],
+    [ "Validate", "da/d1b/a18389.html#a7619f7ec6dc0ce14293414729731ed00", null ],
+    [ "_target", "da/d1b/a18389.html#abe6d3ad0f06b2370f1a5985878d6af3d", null ]
 ];

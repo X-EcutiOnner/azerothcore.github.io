@@ -1,6 +1,6 @@
 var a15169 =
 [
-    [ "HandleHit", "db/df1/a15169.html#aec32d6b45bdcfe3a6a32c2fb7558edd1", null ],
-    [ "PrepareSpellScript", "db/df1/a15169.html#a31fdc4d630a4a6647d2a9b1100aecdad", null ],
-    [ "Register", "db/df1/a15169.html#a64a861b5c25df5780390aa55899393d7", null ]
+    [ "HandleScriptEffect", "db/df1/a15169.html#a3d22cc828a2aa59d45e5d648161926fd", null ],
+    [ "PrepareSpellScript", "db/df1/a15169.html#a0ecf5662d9cc1296ebdac82233f1fe7c", null ],
+    [ "Register", "db/df1/a15169.html#aee5d9189b6df318b57e919511a185a99", null ]
 ];

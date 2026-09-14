@@ -1,12 +1,9 @@
 var a22221 =
 [
-    [ "npc_tournament_training_dummyAI", "db/d6e/a22221.html#ab84a35b5145c74f16dfbbe020dd9a73b", null ],
-    [ "DamageTaken", "db/d6e/a22221.html#a98c18794124922e6946a82a324410837", null ],
-    [ "EnterEvadeMode", "db/d6e/a22221.html#a3f31d705284b0fad2f00c9210ff06646", null ],
-    [ "MoveInLineOfSight", "db/d6e/a22221.html#a7a05c8682767f5a2d847e99eeed8e00f", null ],
-    [ "Reset", "db/d6e/a22221.html#a7339ffe52dc789f9480afca7141a169e", null ],
-    [ "SpellHit", "db/d6e/a22221.html#a5cd56075333fb59ddd8d4a48dc2eecdf", null ],
-    [ "UpdateAI", "db/d6e/a22221.html#a8bba917f0e0d67cd7a0121ab71d5a419", null ],
-    [ "events", "db/d6e/a22221.html#a77fa2ef2f15208ab8b284c71e0227fc4", null ],
-    [ "isVulnerable", "db/d6e/a22221.html#a4a4d3029a329e6eb253bc57c5f7b2a98", null ]
+    [ "npc_lord_areteAI", "db/d6e/a22221.html#aebdbf8f4c2fe6948c78315e6b404119b", null ],
+    [ "InitializeAI", "db/d6e/a22221.html#a22d0c3e2445bff2d742b28bd99f37394", null ],
+    [ "UpdateAI", "db/d6e/a22221.html#a5cba8d4429ae191dd5b90ca5a4fe2866", null ],
+    [ "_landgrenGUID", "db/d6e/a22221.html#ac0e3753096dfe779024acc8400791171", null ],
+    [ "_landgrenSoulGUID", "db/d6e/a22221.html#aaa28c67691610136f0b418b30892f3cd", null ],
+    [ "events", "db/d6e/a22221.html#ae4ec90b30320cf0aeaec4415c4125605", null ]
 ];

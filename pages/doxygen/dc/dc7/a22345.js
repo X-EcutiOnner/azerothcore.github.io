@@ -1,7 +1,6 @@
 var a22345 =
 [
-    [ "HandleDummy", "dc/dc7/a22345.html#a68c638c6e056cbadb101ddd025909f54", null ],
-    [ "PrepareSpellScript", "dc/dc7/a22345.html#a5a857bace5232d259145a0a095f70eec", null ],
-    [ "Register", "dc/dc7/a22345.html#af9c657e1fac6ee630af0bea337fbff62", null ],
-    [ "Validate", "dc/dc7/a22345.html#a21e9eaf2eea4b46986b8e8b911bd0508", null ]
+    [ "npc_bushwhackerAI", "dc/dc7/a22345.html#a0cf480b75aa45a9f3572c4a65df2daee", null ],
+    [ "InitializeAI", "dc/dc7/a22345.html#a18db5870e62378ff49472f7a5881861c", null ],
+    [ "UpdateAI", "dc/dc7/a22345.html#aadc3384626d728942897fe93750f0c02", null ]
 ];

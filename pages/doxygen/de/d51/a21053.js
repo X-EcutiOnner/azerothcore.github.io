@@ -1,7 +1,8 @@
 var a21053 =
 [
-    [ "OnRemove", "de/d51/a21053.html#ad3f482f9fff9798cc6e7a06183344742", null ],
-    [ "PrepareAuraScript", "de/d51/a21053.html#ab830a7a6c5ed432f8718071345c99b57", null ],
-    [ "Register", "de/d51/a21053.html#ac83a8d085d02feec64b6012cacb60dce", null ],
-    [ "Validate", "de/d51/a21053.html#a69a3e0a6c06e3c4085bf0ad25e40edf9", null ]
+    [ "boss_yoggsaron_guardian_of_ys", "de/d51/a21053.html#ad66fab16b309b62895578d46e8a2e730", null ],
+    [ "JustDied", "de/d51/a21053.html#a12ce3fef2fba8d92945249cf8920a0b4", null ],
+    [ "Reset", "de/d51/a21053.html#ac803a9da5223db459b9ec48435e59c30", null ],
+    [ "UpdateAI", "de/d51/a21053.html#a573576eaff2cbd4f779675e19ad53dea", null ],
+    [ "_spellTimer", "de/d51/a21053.html#a5922d21c4606ab9a41e20948dc926cea", null ]
 ];

@@ -1,6 +1,6 @@
 var a21905 =
 [
-    [ "npc_q24545_vegard_dummyAI", "da/d71/a21909.html", "da/d71/a21909" ],
-    [ "npc_q24545_vegard_dummy", "d6/d97/a21905.html#a12363e26a720ae33b6cde0f44aec3adf", null ],
-    [ "GetAI", "d6/d97/a21905.html#a201d1dec206887c26e33f795a0fd0887", null ]
+    [ "CheckCast", "d6/d97/a21905.html#a9c7e08a8a9b1c1b44ae290818826d43a", null ],
+    [ "PrepareSpellScript", "d6/d97/a21905.html#abff433d61c798d17882292b6b0956a58", null ],
+    [ "Register", "d6/d97/a21905.html#a1034967a4bf633f160cc40ae6e0fc567", null ]
 ];

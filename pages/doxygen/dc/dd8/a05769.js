@@ -1,8 +1,12 @@
 var a05769 =
 [
-    [ "~Runnable", "dc/dd8/a05769.html#add1dc9a377ee89c32cc40c42907e5bd8", null ],
-    [ "decReference", "dc/dd8/a05769.html#a69bf63c7f684de6e278de0468ed8fa06", null ],
-    [ "incReference", "dc/dd8/a05769.html#a062323e141fa33ae094adbef16caf3d6", null ],
-    [ "run", "dc/dd8/a05769.html#ad92d9c0459fbcc59d2b0d8fe2ed620c9", null ],
-    [ "m_refs", "dc/dd8/a05769.html#ae047c0949843835f0b240484df01b7f8", null ]
+    [ "Node", "da/d6e/a05773.html", "da/d6e/a05773" ],
+    [ "MPSCQueueNonIntrusive", "dc/dd8/a05769.html#a962c10fff5c86b00cc2e847ae758b9ce", null ],
+    [ "~MPSCQueueNonIntrusive", "dc/dd8/a05769.html#a599e2093215f70dc4f2f7db08965d816", null ],
+    [ "MPSCQueueNonIntrusive", "dc/dd8/a05769.html#a2d543ed2b5d1ab7f23ad82ee156e42ea", null ],
+    [ "Dequeue", "dc/dd8/a05769.html#abadcc4a4ff97f4fa132978fbd0f37e1d", null ],
+    [ "Enqueue", "dc/dd8/a05769.html#a63d8a4e4c085467d33d56fd3adf0f751", null ],
+    [ "operator=", "dc/dd8/a05769.html#a75063e89049903fb5305d67ea1a02034", null ],
+    [ "_head", "dc/dd8/a05769.html#a2fb1ef015f7b9a790ba1af73dc80ba35", null ],
+    [ "_tail", "dc/dd8/a05769.html#a8a568d842fc8da8e39b325b459cdb44d", null ]
 ];

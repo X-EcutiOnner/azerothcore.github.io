@@ -1,10 +1,8 @@
 var a24969 =
 [
-    [ "CheckProc", "db/d64/a24969.html#a1afbc5f8e86e0382be43c947e88306b3", null ],
-    [ "HandleProc", "db/d64/a24969.html#a9fbfe3fba6283362bab181fcd15611b3", null ],
-    [ "PrepareAuraScript", "db/d64/a24969.html#aa060ed89bc5e3c80d6402c8e79baa597", null ],
-    [ "Register", "db/d64/a24969.html#a43cc9387ce5b1665147dcfecb1476c22", null ],
-    [ "Validate", "db/d64/a24969.html#ad167a260f9a3d1f71a5a11b0bab6161c", null ],
-    [ "_lunarProcCooldownEnd", "db/d64/a24969.html#a9fd6d9c34dba5cb302010df4d5c560c2", null ],
-    [ "_solarProcCooldownEnd", "db/d64/a24969.html#a6f50d14abee53eb06f50edbcc78628c4", null ]
+    [ "AfterApply", "db/d64/a24969.html#a4d2941ebb326d603ac08f428f811c29b", null ],
+    [ "AfterRemove", "db/d64/a24969.html#ac1e50413041edbecd5cc4189a1121cb5", null ],
+    [ "PrepareAuraScript", "db/d64/a24969.html#afa99d3e45e4a54c41b59ec317ffdd9b9", null ],
+    [ "Register", "db/d64/a24969.html#a78e30a950b9fc08dff5072028816b8b4", null ],
+    [ "Validate", "db/d64/a24969.html#ac3502abb9d6ef213ffd2413eba7916b2", null ]
 ];

@@ -1,12 +1,10 @@
 var a28545 =
 [
-    [ "npc_elder_clearwaterAI", "d9/d8e/a28545.html#a4de89cf4a18918d577be4ac5cc55ba5a", null ],
-    [ "DoAction", "d9/d8e/a28545.html#ac46b0f66be3074f73f5a69cffee6d354", null ],
-    [ "GetData", "d9/d8e/a28545.html#a077c02bf06b16439225a5cf8d83babf2", null ],
-    [ "UpdateAI", "d9/d8e/a28545.html#afbec3c78d34ce4d11a11b56064f343f3", null ],
-    [ "events", "d9/d8e/a28545.html#a267fec22dc3d7272cae74267d0567618", null ],
-    [ "finished", "d9/d8e/a28545.html#af51d6abb8fc8b59d068156a4859a377e", null ],
-    [ "finishWarning", "d9/d8e/a28545.html#a83a2b8e6ceed45d4e6b834e13a4a4cdc", null ],
-    [ "preWarning", "d9/d8e/a28545.html#a64abe15565c7e97a3a0ef195d436fedc", null ],
-    [ "startWarning", "d9/d8e/a28545.html#a01545211dec4338ac44304ebc7f18a97", null ]
+    [ "npc_prof_blacksmith", "d9/d8e/a28545.html#af9bd62c4c2514d79daf467e4d6d7a92e", null ],
+    [ "HasWeaponSub", "d9/d8e/a28545.html#a7ee47d061de5e2f482406469b4eaac3b", null ],
+    [ "OnGossipHello", "d9/d8e/a28545.html#a9a432c1ec33578949110c877fc6a686d", null ],
+    [ "OnGossipSelect", "d9/d8e/a28545.html#ab1edaf3dc0a8dddf064368d26930a2af", null ],
+    [ "SendActionMenu", "d9/d8e/a28545.html#af2ac8f9bfa212c34be3e45cc358dd773", null ],
+    [ "SendConfirmLearn", "d9/d8e/a28545.html#acbec7fe3eebf7eaed09e5755c6775eaa", null ],
+    [ "SendConfirmUnlearn", "d9/d8e/a28545.html#a851dc241d944bc888a00df85bff17e3a", null ]
 ];

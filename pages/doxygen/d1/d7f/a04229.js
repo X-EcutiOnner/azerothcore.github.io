@@ -1,43 +1,43 @@
 var a04229 =
 [
-    [ "npc_ranger_lilatha", "d6/d50/a14029.html", "d6/d50/a14029" ],
-    [ "npc_sentinel_leader", "d9/d88/a14033.html", "d9/d88/a14033" ],
-    [ "npc_sentinel_infiltrator", "d8/dc2/a14037.html", "d8/dc2/a14037" ],
-    [ "RangerLilatha", "d1/d7f/a04229.html#a74dc890829d87be230ff5350c12e090a", [
-      [ "SAY_START", "d1/d7f/a04229.html#a74dc890829d87be230ff5350c12e090aa2eae21cbf7d110ee89a9798ef6f00239", null ],
-      [ "SAY_PROGRESS1", "d1/d7f/a04229.html#a74dc890829d87be230ff5350c12e090aa1a7ff39fa30eb8719e4a1d4d8eea41bd", null ],
-      [ "SAY_PROGRESS2", "d1/d7f/a04229.html#a74dc890829d87be230ff5350c12e090aa6b66c233baa6dd334abb1b7798066894", null ],
-      [ "SAY_PROGRESS3", "d1/d7f/a04229.html#a74dc890829d87be230ff5350c12e090aa541cce8e829316638c92542a766209b6", null ],
-      [ "SAY_END1", "d1/d7f/a04229.html#a74dc890829d87be230ff5350c12e090aa944891a3d2f715c9e1c8f47d65f16eca", null ],
-      [ "SAY_END2", "d1/d7f/a04229.html#a74dc890829d87be230ff5350c12e090aaa0efc3eab3d2447cc17568f7ceed8cba", null ],
-      [ "SAY_CAPTAIN_ANSWER", "d1/d7f/a04229.html#a74dc890829d87be230ff5350c12e090aaf92ec5f68682db4db5c776edd0e207c0", null ],
-      [ "QUEST_ESCAPE_FROM_THE_CATACOMBS", "d1/d7f/a04229.html#a74dc890829d87be230ff5350c12e090aaf838b4afb069e6a501691db32ccd1e16", null ],
-      [ "GO_CAGE", "d1/d7f/a04229.html#a74dc890829d87be230ff5350c12e090aab8d35951eed2c9e47bed2aa4da3fab8b", null ],
-      [ "NPC_CAPTAIN_HELIOS", "d1/d7f/a04229.html#a74dc890829d87be230ff5350c12e090aaf9140f9834cba6679a2dd4d3dccc02a8", null ],
-      [ "NPC_MUMMIFIED_HEADHUNTER", "d1/d7f/a04229.html#a74dc890829d87be230ff5350c12e090aa981d62936965028299a53927f91db057", null ],
-      [ "NPC_SHADOWPINE_ORACLE", "d1/d7f/a04229.html#a74dc890829d87be230ff5350c12e090aa84adb37d4c2fc9348d6fc31abfd0306a", null ]
+    [ "DataHeader", "d1/d7f/a04229.html#a042491ef36459046f3866e90f15aae0d", null ],
+    [ "MTScriptName", "d1/d7f/a04229.html#a772413d8818d681e2261c99f58e1268c", null ],
+    [ "RegisterMagistersTerraceCreatureAI", "d1/d7f/a04229.html#a679c3c5e0520ffcbc6ca0827cddafeb0", null ],
+    [ "CreatureTexts", "d1/d7f/a04229.html#a98b0f0ed8e23c5a3936ff695705d37e9", [
+      [ "SAY_KALECGOS_SPAWN", "d1/d7f/a04229.html#a98b0f0ed8e23c5a3936ff695705d37e9afb263d1cd011b49bf7cda725281fa940", null ]
     ] ],
-    [ "SentinelInfiltrator", "d1/d7f/a04229.html#a0b373714eadff6852c9ed5560abd70e5", [
-      [ "EMOTE_FLEE", "d1/d7f/a04229.html#a0b373714eadff6852c9ed5560abd70e5a9d88a2f0a0929d045f07a5386f6a4431", null ],
-      [ "EVENT_TALK2", "d1/d7f/a04229.html#a0b373714eadff6852c9ed5560abd70e5a5fbd3336be08db01eeeefc355f4fa541", null ],
-      [ "EVENT_QUESTION2", "d1/d7f/a04229.html#a0b373714eadff6852c9ed5560abd70e5a16f3686cedbbcd372b458f36b8fef69d", null ],
-      [ "EVENT_EXCLAMATION", "d1/d7f/a04229.html#a0b373714eadff6852c9ed5560abd70e5a235ba44e8ac06bf6c5da1072784d2736", null ],
-      [ "EVENT_SALUTE", "d1/d7f/a04229.html#a0b373714eadff6852c9ed5560abd70e5a20c28745aea8562e2f30166e0ceec0ea", null ],
-      [ "EVENT_GOUGE2", "d1/d7f/a04229.html#a0b373714eadff6852c9ed5560abd70e5a9c0323353380c86a1dd4583ba40430da", null ],
-      [ "EVENT_BACKSTAB2", "d1/d7f/a04229.html#a0b373714eadff6852c9ed5560abd70e5aaf1d9b7bb592c2a5e42e3e0f3e2671cc", null ],
-      [ "NPC_SENTINEL_INFILTRATOR", "d1/d7f/a04229.html#a0b373714eadff6852c9ed5560abd70e5a7cb437b950b46596afc196f0864a74fe", null ],
-      [ "PATH_ONE", "d1/d7f/a04229.html#a0b373714eadff6852c9ed5560abd70e5a9dabcd3a092570c71edfb732f847d854", null ],
-      [ "PATH_TWO", "d1/d7f/a04229.html#a0b373714eadff6852c9ed5560abd70e5a5c1049e5a354a320e8c4ead179675760", null ],
-      [ "SPELL_GOUGE", "d1/d7f/a04229.html#a0b373714eadff6852c9ed5560abd70e5ad29cb58b32c3fccaec3fde84e2355de6", null ]
+    [ "InstanceEventIds", "d1/d7f/a04229.html#ab51342a4a8f5976e51b0074f9a5746f8", [
+      [ "EVENT_SPAWN_KALECGOS", "d1/d7f/a04229.html#ab51342a4a8f5976e51b0074f9a5746f8a2e000620a7210a65a43ee87d48b5d283", null ]
     ] ],
-    [ "SentinelLeader", "d1/d7f/a04229.html#acb58e7629bec88c770da1efed549d96c", [
-      [ "EVENT_QUESTION", "d1/d7f/a04229.html#acb58e7629bec88c770da1efed549d96cae7206febd87cb3058c3f99ed717131a7", null ],
-      [ "EVENT_TALK", "d1/d7f/a04229.html#acb58e7629bec88c770da1efed549d96cad8d5fcaf7b3bfdd91e6337d222c1620f", null ],
-      [ "EVENT_SINISTER_STRIKE", "d1/d7f/a04229.html#acb58e7629bec88c770da1efed549d96ca23b5677e1eb390f2bbe16d2b30a05498", null ],
-      [ "EVENT_BACKSTAB", "d1/d7f/a04229.html#acb58e7629bec88c770da1efed549d96ca1c1d8055d31bb2fb8238437b243852ca", null ],
-      [ "NPC_SENTINEL_SPY", "d1/d7f/a04229.html#acb58e7629bec88c770da1efed549d96cae75b24a241dff855e6dc0e3d51e0c9e9", null ],
-      [ "SPELL_SINISTER_STRIKE", "d1/d7f/a04229.html#acb58e7629bec88c770da1efed549d96ca3217132d497cc70e674432067fd431a7", null ],
-      [ "SPELL_BACKSTAB", "d1/d7f/a04229.html#acb58e7629bec88c770da1efed549d96ca4ff7524487add866a452db82c2791b68", null ]
+    [ "MovementData", "d1/d7f/a04229.html#aed5999eedcf185b65654ded53dc601d3", [
+      [ "PATH_KALECGOS_FLIGHT", "d1/d7f/a04229.html#aed5999eedcf185b65654ded53dc601d3a6b4587e5a1bc789ca7ac972cd1e54222", null ]
     ] ],
-    [ "AddSC_ghostlands", "d1/d7f/a04229.html#a1093517f6bb08d3a1c9e52cf36b6a054", null ]
+    [ "MTCreatures", "d1/d7f/a04229.html#a402e3e622f03a1eed719db587960e18b", [
+      [ "NPC_DELRISSA", "d1/d7f/a04229.html#a402e3e622f03a1eed719db587960e18ba5d0ab26a56a5212e4bbd0d2bd26b7127", null ],
+      [ "NPC_FEL_CRYSTAL", "d1/d7f/a04229.html#a402e3e622f03a1eed719db587960e18bad5c5384a148b47a2c59d671014db6d35", null ],
+      [ "NPC_KAEL_THAS", "d1/d7f/a04229.html#a402e3e622f03a1eed719db587960e18ba1cc740bbad14c06e879fe922c561957c", null ],
+      [ "NPC_PHOENIX", "d1/d7f/a04229.html#a402e3e622f03a1eed719db587960e18ba93173f126c0dd252197a841ed9321048", null ],
+      [ "NPC_PHOENIX_EGG", "d1/d7f/a04229.html#a402e3e622f03a1eed719db587960e18ba37c8f15ed65139715f18d3d09d17a970", null ],
+      [ "NPC_KALECGOS", "d1/d7f/a04229.html#a402e3e622f03a1eed719db587960e18ba7434f1d158db88e1befb3cf56e801613", null ]
+    ] ],
+    [ "MTData", "d1/d7f/a04229.html#abdc560adf84eb5994b289f952995d059", [
+      [ "DATA_SELIN_FIREHEART", "d1/d7f/a04229.html#abdc560adf84eb5994b289f952995d059afd8c24b35ae0b3270c6446ed912864b8", null ],
+      [ "DATA_VEXALLUS", "d1/d7f/a04229.html#abdc560adf84eb5994b289f952995d059a7d511ceaf5f4b75dc6bf642fd4c002c3", null ],
+      [ "DATA_DELRISSA", "d1/d7f/a04229.html#abdc560adf84eb5994b289f952995d059af977a73eff024af1676aeb0fe6503c2f", null ],
+      [ "DATA_KAELTHAS", "d1/d7f/a04229.html#abdc560adf84eb5994b289f952995d059a9459cb9bb83f7a23115debb607cb25a3", null ],
+      [ "MAX_ENCOUNTER", "d1/d7f/a04229.html#abdc560adf84eb5994b289f952995d059a7913656ef56deb3793c0c5f3d999d80d", null ],
+      [ "DATA_KALECGOS", "d1/d7f/a04229.html#abdc560adf84eb5994b289f952995d059a053405afb85048224c161919aebd795d", null ],
+      [ "DATA_ESCAPE_ORB", "d1/d7f/a04229.html#abdc560adf84eb5994b289f952995d059a6c76e50a19d944f081dbe8c87034974f", null ],
+      [ "DATA_KAEL_INTRO", "d1/d7f/a04229.html#abdc560adf84eb5994b289f952995d059ad20d84b9105a6e9e87a44161e54c1d15", null ],
+      [ "MAX_PERSISTENT_DATA", "d1/d7f/a04229.html#abdc560adf84eb5994b289f952995d059ade8daf2d97d89b7bc637c9b5550e0449", null ]
+    ] ],
+    [ "MTGameObjects", "d1/d7f/a04229.html#a2b0621589774d4cc3afba085bc39867d", [
+      [ "GO_VEXALLUS_DOOR", "d1/d7f/a04229.html#a2b0621589774d4cc3afba085bc39867da660139f819500a248283735c336cf4e7", null ],
+      [ "GO_SELIN_DOOR", "d1/d7f/a04229.html#a2b0621589774d4cc3afba085bc39867da7ccc42cdb5402db90adb2298e29d4e64", null ],
+      [ "GO_SELIN_ENCOUNTER_DOOR", "d1/d7f/a04229.html#a2b0621589774d4cc3afba085bc39867da8b457fe7255a77748f94f13974791086", null ],
+      [ "GO_DELRISSA_DOOR", "d1/d7f/a04229.html#a2b0621589774d4cc3afba085bc39867da2ec22f0e669bef8a7bde879208fa8f6a", null ],
+      [ "GO_KAEL_DOOR", "d1/d7f/a04229.html#a2b0621589774d4cc3afba085bc39867dacafc1a0b7422ea5365367a4c964fee25", null ],
+      [ "GO_ESCAPE_ORB", "d1/d7f/a04229.html#a2b0621589774d4cc3afba085bc39867daf0d8c802b02ba5d48c9d4126534812fd", null ]
+    ] ],
+    [ "GetMagistersTerraceAI", "d1/d7f/a04229.html#ace003ea34649a460da4afbd65b38c987", null ]
 ];

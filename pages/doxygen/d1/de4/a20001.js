@@ -1,8 +1,8 @@
 var a20001 =
 [
-    [ "instance_halls_of_lightning_InstanceMapScript", "d1/de4/a20001.html#a9c82cd25354abaf7707c1dabd62c9fe3", null ],
-    [ "CheckAchievementCriteriaMeet", "d1/de4/a20001.html#ad6db51b0ae7de338264d07a61daf21cc", null ],
-    [ "SetData", "d1/de4/a20001.html#a26bd9da74d0d29e50b61df62b205f5e6", null ],
-    [ "_bjarngrimAchievement", "d1/de4/a20001.html#aba06463eb70c68716f571951395c6e2a", null ],
-    [ "_volkhanAchievement", "d1/de4/a20001.html#a52db8081961566ef2002424f00b60189", null ]
+    [ "HandleOnEffectApply", "d1/de4/a20001.html#ac852d761940494f78b50ba3b060057a2", null ],
+    [ "HandleOnEffectRemove", "d1/de4/a20001.html#a6764750586be8b57d52a2dba87d89e76", null ],
+    [ "PrepareAuraScript", "d1/de4/a20001.html#acc93a6d463501a23b73bd1ac1f99854e", null ],
+    [ "Register", "d1/de4/a20001.html#a2cb77175d7341752bdd8733cfcfe8ed3", null ],
+    [ "Validate", "d1/de4/a20001.html#a4de69fb4aa8e1506581ed01c42dc8f76", null ]
 ];

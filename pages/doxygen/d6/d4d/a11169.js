@@ -1,6 +1,6 @@
 var a11169 =
 [
-    [ "GuildOfficerRemoveMember", "d6/d4d/a11169.html#acd0f767ff61006c7b3c78f3dbb6da558", null ],
-    [ "Read", "d6/d4d/a11169.html#aa0c3cd629b73cb079cc3cf90bf6f8067", null ],
-    [ "Removee", "d6/d4d/a11169.html#a18ece7d865fa1b5da005c7c03397b4e2", null ]
+    [ "GuildEventLogQueryResults", "d6/d4d/a11169.html#af12c732cd5c81792c6f0cb5cacc096f9", null ],
+    [ "Write", "d6/d4d/a11169.html#aa24738cdd040a883782b50189abdf240", null ],
+    [ "Entry", "d6/d4d/a11169.html#a227ab5555fccf5c8c78ca10fa229d3d4", null ]
 ];

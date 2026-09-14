@@ -1,5 +1,5 @@
 var a02399 =
 [
-    [ "HandleLearnSpellCommand", "da/d11/a02399.html#acbe37f872cbc981a27671ebdf10904de", null ],
-    [ "HandleUnlearnSpellCommand", "da/d11/a02399.html#ad36f90f90b3d9aaf782f7efc859f7e7a", null ]
+    [ "titles_commandscript", "df/df4/a12689.html", "df/df4/a12689" ],
+    [ "AddSC_titles_commandscript", "da/d11/a02399.html#abd13948cbed6e10bdbf797847a0f6839", null ]
 ];

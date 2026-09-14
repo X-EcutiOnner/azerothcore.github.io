@@ -1,6 +1,6 @@
 var a12097 =
 [
-    [ "EffectUpdatePeriodicHandler", "d7/dae/a12097.html#a6b18a259aa84c847bcc064c5243eb590", null ],
-    [ "Call", "d7/dae/a12097.html#a38802863e7859453cbbe58ad91018c67", null ],
-    [ "pEffectHandlerScript", "d7/dae/a12097.html#a0e51245e089fcd9532d5789056ab944c", null ]
+    [ "CastHandler", "d7/dae/a12097.html#aad22cf4791a20b9cb6704712ec3d9339", null ],
+    [ "Call", "d7/dae/a12097.html#afdbd455bd010bd93e84c334fe3987bf1", null ],
+    [ "pCastHandlerScript", "d7/dae/a12097.html#a091c494c18bc81968a386bc5f2565905", null ]
 ];

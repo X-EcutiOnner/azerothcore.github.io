@@ -1,7 +1,25 @@
 var a06033 =
 [
-    [ "cmd", "db/d16/a06033.html#a91e8e56c304147b88db250259ff0a87c", null ],
-    [ "error", "db/d16/a06033.html#a0872e20a5adcd52a94036bdc6eddc6e6", null ],
-    [ "M2", "db/d16/a06033.html#a9bb7dca6b62d35ecae97197c4c9693b7", null ],
-    [ "unk2", "db/d16/a06033.html#a47d83719b502236fdad41e2d07b535a0", null ]
+    [ "flag96", "db/d16/a06033.html#a489bcb41948c71aaee236389ffe54a42", null ],
+    [ "flag96", "db/d16/a06033.html#a723294a32e26db22e98041192a8c57e6", null ],
+    [ "flag96", "db/d16/a06033.html#a29ce17d3901e06cbc1c76393016078f9", null ],
+    [ "HasFlag", "db/d16/a06033.html#a2c9141d8a8ecb0d83097a3a3a53de579", null ],
+    [ "IsEqual", "db/d16/a06033.html#a4423feea3f91d51a14f2d10da5c5b4c3", null ],
+    [ "operator bool", "db/d16/a06033.html#a40e750e2388884ee7990c65611c0cd24", null ],
+    [ "operator!", "db/d16/a06033.html#ac460f571a26d61462c2cda4b3388752c", null ],
+    [ "operator!=", "db/d16/a06033.html#a22edbe398da7be1d2b161bbf16206d92", null ],
+    [ "operator&", "db/d16/a06033.html#a8a64335d82e361162fdade6288b7ae1f", null ],
+    [ "operator&=", "db/d16/a06033.html#a150b74daf2add767d194b3fdc93f8330", null ],
+    [ "operator<", "db/d16/a06033.html#ac335aaf38f9dcd9afdde58b7412c5082", null ],
+    [ "operator=", "db/d16/a06033.html#a45349b70206ea9db7c3fdc5527b0aa72", null ],
+    [ "operator==", "db/d16/a06033.html#a70a14c8509096c0e2fdb54643addbdbf", null ],
+    [ "operator[]", "db/d16/a06033.html#ad9b2afb9b2de6cd8a8779d1646efd2ab", null ],
+    [ "operator[]", "db/d16/a06033.html#a0bea67076b611eadc8fa12403d647238", null ],
+    [ "operator^", "db/d16/a06033.html#a37890c5a65a8183d804949df939fd5a1", null ],
+    [ "operator^=", "db/d16/a06033.html#afed5a26552cc3d614fe7caec06d74170", null ],
+    [ "operator|", "db/d16/a06033.html#ad7dd7bba12e955d0ec70e2df24d23ef9", null ],
+    [ "operator|=", "db/d16/a06033.html#a6cbe6b24389cb3a9bbbf976bebdbca35", null ],
+    [ "operator~", "db/d16/a06033.html#a2e3422a147488c96576591e87033b67b", null ],
+    [ "Set", "db/d16/a06033.html#ac7fcf4d74fa4d6b580e3b204c97964dd", null ],
+    [ "part", "db/d16/a06033.html#a8ba92013e7c9863ed1f23fcf2c677268", null ]
 ];

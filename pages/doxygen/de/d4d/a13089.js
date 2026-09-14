@@ -1,6 +1,8 @@
 var a13089 =
 [
-    [ "HandleHit", "de/d4d/a13089.html#a5245f935c0cafd14e492214a51d85ad3", null ],
-    [ "PrepareSpellScript", "de/d4d/a13089.html#a074b9e23de0a9b24776c7e361791c6ff", null ],
-    [ "Register", "de/d4d/a13089.html#a12f7db2345ce0d19a18791a2e63e7450", null ]
+    [ "boss_garr", "de/d4d/a13089.html#a12ac023b48fc20055cec9e7e8dbfa8a7", null ],
+    [ "JustEngagedWith", "de/d4d/a13089.html#abab82d2e00b373ea1f0e444de23f4987", null ],
+    [ "Reset", "de/d4d/a13089.html#a64bcae059cfa97def7e52a42d404a016", null ],
+    [ "UpdateAI", "de/d4d/a13089.html#a2a412224072b47de6780ea7b8d543743", null ],
+    [ "massEruptionTimer", "de/d4d/a13089.html#a6c428a4c92e4dcbe2fc2b97b5f377560", null ]
 ];

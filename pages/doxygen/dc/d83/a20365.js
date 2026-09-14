@@ -1,12 +1,7 @@
 var a20365 =
 [
-    [ "boss_freya_elder_stonebark", "dc/d83/a20365.html#ad379afe772ff29d689bc763786d28793", null ],
-    [ "DamageTaken", "dc/d83/a20365.html#a1a6b9897ffff95b29de351d02411f216", null ],
-    [ "JustDied", "dc/d83/a20365.html#a32df2ec9d4e24c6a8f7fddefc4b5e61f", null ],
-    [ "JustEngagedWith", "dc/d83/a20365.html#a363a639d65fb746cca3410427f8a1e10", null ],
-    [ "KilledUnit", "dc/d83/a20365.html#ae10b5a8a477107432cbcc93c4da9c3ec", null ],
-    [ "Reset", "dc/d83/a20365.html#ac1edb11c975123a59bc4099acdefcd0f", null ],
-    [ "UpdateAI", "dc/d83/a20365.html#a913cd147d5a88189e183d817357946e3", null ],
-    [ "_chargesCount", "dc/d83/a20365.html#adc75d1735bc32fad8cad2abf4d8712fa", null ],
-    [ "events", "dc/d83/a20365.html#a5d88a59b9c98981c3f7f049701fc76e3", null ]
+    [ "FilterTargets", "dc/d83/a20365.html#a3d864f0428b7e53774d06069037ca5b2", null ],
+    [ "HandleScript", "dc/d83/a20365.html#aef8bfe18b42bcc9ad70378c0d78354e7", null ],
+    [ "PrepareSpellScript", "dc/d83/a20365.html#aafbd4751a01b4ce62dc94eee2e47f64f", null ],
+    [ "Register", "dc/d83/a20365.html#afabe09f8d9a9a10855d6469e8a3db30f", null ]
 ];

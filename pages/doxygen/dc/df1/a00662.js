@@ -1,4 +1,4 @@
 var a00662 =
 [
-    [ "ItemScript", "da/db9/a10821.html", "da/db9/a10821" ]
+    [ "ScriptRegistry< AccountScript >", "dc/df1/a00662.html#a737db11e5096ba1c596f469d64c2cc97", null ]
 ];

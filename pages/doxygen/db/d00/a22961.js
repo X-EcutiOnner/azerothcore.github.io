@@ -1,7 +1,8 @@
 var a22961 =
 [
-    [ "PrepareAuraScript", "db/d00/a22961.html#afb2e94c1e67b12b7350d83241b3f2864", null ],
-    [ "Register", "db/d00/a22961.html#a0a5ac432eca09206ac032317e8aa8cfc", null ],
-    [ "Update", "db/d00/a22961.html#aa0da369c2047df144c4a9af37a2ea13c", null ],
-    [ "Validate", "db/d00/a22961.html#a70248cfa468dfb3a97ea7f8b6848bc5f", null ]
+    [ "HandleScriptEffect", "db/d00/a22961.html#a8e5b81581fff787f691521d03fed66fc", null ],
+    [ "Load", "db/d00/a22961.html#a8a74f3c6776f2613a6b2c63387d962e2", null ],
+    [ "PrepareSpellScript", "db/d00/a22961.html#a5dfe415b9c990e83b9e6c1ee06a33692", null ],
+    [ "Register", "db/d00/a22961.html#a5839b0e282fb2848c328cfaaca2c752f", null ],
+    [ "Validate", "db/d00/a22961.html#a8c1ee55a1122c62056250b3fa09357a8", null ]
 ];

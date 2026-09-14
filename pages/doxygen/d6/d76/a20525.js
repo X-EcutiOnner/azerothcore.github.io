@@ -1,7 +1,7 @@
 var a20525 =
 [
-    [ "HandleEffectPeriodic", "d6/d76/a20525.html#ae22cd3b6f7cf515e80dd1125349dd152", null ],
-    [ "PrepareAuraScript", "d6/d76/a20525.html#a4cc9b379480c50e1116e3dab03afeaad", null ],
-    [ "Register", "d6/d76/a20525.html#ac82d5a47f5eca266eed99ab65f9eb5bf", null ],
-    [ "Validate", "d6/d76/a20525.html#a2bb4fe398e6b225dd14bdb51e3f01522", null ]
+    [ "npc_ulduar_icicle", "d6/d76/a20525.html#ac5f024031a70b4ca04ecc0a96fcbdcae", null ],
+    [ "UpdateAI", "d6/d76/a20525.html#a0a46c8ee0c4bb8932406fe8170a54310", null ],
+    [ "timer1", "d6/d76/a20525.html#ae277d302131abd17cef018872b12da06", null ],
+    [ "timer2", "d6/d76/a20525.html#a9a098b0a31fcbc029fc7ae6823ea99a4", null ]
 ];

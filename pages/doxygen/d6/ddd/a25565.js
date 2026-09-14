@@ -1,6 +1,7 @@
 var a25565 =
 [
-    [ "HandleDamageCalc", "d6/ddd/a25565.html#a1d0c86e476e4ef75f4e8f2ff27fdd395", null ],
-    [ "PrepareSpellScript", "d6/ddd/a25565.html#a4271f026fd9cddeb109761e9b864c381", null ],
-    [ "Register", "d6/ddd/a25565.html#a03bb4cf19328efa783600273663b609a", null ]
+    [ "PrepareAuraScript", "d6/ddd/a25565.html#afeac0a8393b7d7bf787fca59988d0e14", null ],
+    [ "Register", "d6/ddd/a25565.html#a7cbcf46dbdddea12fd6ce04bcbcea097", null ],
+    [ "TriggerFoodBuff", "d6/ddd/a25565.html#a5d125413491dd377d61b8e30c4979fdd", null ],
+    [ "Validate", "d6/ddd/a25565.html#a6b69d7358eb8cfe6a8f9efd47882eb80", null ]
 ];

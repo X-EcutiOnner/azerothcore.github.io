@@ -1,6 +1,6 @@
 var a24773 =
 [
-    [ "HandleEffectCalcSpellMod", "d7/d3f/a24773.html#afbeb38535f9330cb1e74345f0c3a833a", null ],
-    [ "PrepareAuraScript", "d7/d3f/a24773.html#a911a292f535abda7b56d837a05c66d0d", null ],
-    [ "Register", "d7/d3f/a24773.html#a46493bf3521a0427a63596734d592c61", null ]
+    [ "RaiseDeadCheck", "d7/d3f/a24773.html#abc6439e5b457f2f6e832f504167a392d", null ],
+    [ "operator()", "d7/d3f/a24773.html#a9647e6afd21e7397f05349e66bea4326", null ],
+    [ "_caster", "d7/d3f/a24773.html#a7b1647934c5e64de65d38b9fba2d343a", null ]
 ];

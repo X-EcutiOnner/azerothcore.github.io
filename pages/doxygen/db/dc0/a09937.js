@@ -1,8 +1,7 @@
 var a09937 =
 [
-    [ "flags", "db/dc0/a09937.html#a7ecce103d428ed7f91aa12fa5547561c", null ],
-    [ "group", "db/dc0/a09937.html#a0902606d44c8baa1a20b5b2cdd9b4787", null ],
-    [ "guid", "db/dc0/a09937.html#a97a20b4ccf1978165a5f5c7ff4ffb2b4", null ],
-    [ "name", "db/dc0/a09937.html#ab0719bb9805048b58a3e4c75e09d1ee7", null ],
-    [ "roles", "db/dc0/a09937.html#a2109aae0b3ebf74b065b97cc929c2954", null ]
+    [ "AllWorldObjectsInRange", "db/dc0/a09937.html#a63f46d510df0fa3153d4b3325676a468", null ],
+    [ "operator()", "db/dc0/a09937.html#a2cf23c24df93b5f7f29163b32e965a94", null ],
+    [ "m_fRange", "db/dc0/a09937.html#a6afe3ef05369dce8ee205db219f97846", null ],
+    [ "m_pObject", "db/dc0/a09937.html#ae7dde7b946d8affb79cb2d4c58eedbed", null ]
 ];

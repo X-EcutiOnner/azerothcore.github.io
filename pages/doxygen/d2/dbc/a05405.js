@@ -1,15 +1,15 @@
 var a05405 =
 [
-    [ "GetBounds", "d2/dbc/a05405.html#a74182e3f2b6cd6eb1ec9a09a76749537", null ],
-    [ "operator==", "d2/dbc/a05405.html#aa32a53f51fd441bb19c4e3f6a269f33e", null ],
-    [ "readFromFile", "d2/dbc/a05405.html#a35d7880eb3e295ed3148ca05a2f4520e", null ],
-    [ "writeToFile", "d2/dbc/a05405.html#af7ab85f7ab03ed4c9eadde9bba1a1857", null ],
-    [ "adtId", "d2/dbc/a05405.html#a4ebcfe8326eff028e722c9972a16200b", null ],
-    [ "flags", "d2/dbc/a05405.html#acfc7a76db09013abfad8e42aaae59f52", null ],
-    [ "iBound", "d2/dbc/a05405.html#ae1dac1aa360c4d49b61a0cd8af92399c", null ],
-    [ "ID", "d2/dbc/a05405.html#ab2fdb441870d6ac7ddc05640ec1d0598", null ],
-    [ "iPos", "d2/dbc/a05405.html#abb5966f87710bc6a1f5da766c99b3e12", null ],
-    [ "iRot", "d2/dbc/a05405.html#a6d0b4f6bde1a20b246e4b22cc43e25af", null ],
-    [ "iScale", "d2/dbc/a05405.html#aad355d0fb09ff0360ed19610bef92d8e", null ],
-    [ "name", "d2/dbc/a05405.html#a66e19a4a28f8fc0c537f1315d9bddcfb", null ]
+    [ "TileAssembler", "d2/dbc/a05405.html#a3adc1db46b998c140bb4ad0573153974", null ],
+    [ "~TileAssembler", "d2/dbc/a05405.html#a4e020e9814223203177a822a052ddfe4", null ],
+    [ "calculateTransformedBound", "d2/dbc/a05405.html#ab3ed8e882c59d777d8c5312449b86753", null ],
+    [ "convertRawFile", "d2/dbc/a05405.html#a41d989f750b6885e6f5308b71fb7ad51", null ],
+    [ "convertWorld2", "d2/dbc/a05405.html#adabcb9cefdd3fcab94c5471948dbe0b0", null ],
+    [ "exportGameobjectModels", "d2/dbc/a05405.html#a3ed04f54c64010a0ad702b2da4161e3b", null ],
+    [ "readMapSpawns", "d2/dbc/a05405.html#a55392fc72758db7b4ea5fea85d7934ee", null ],
+    [ "iDestDir", "d2/dbc/a05405.html#ad444a6005a59975ed0ca78f180dcba7d", null ],
+    [ "iSrcDir", "d2/dbc/a05405.html#a8a2bf7e978b49407f3b4b2086c7497c4", null ],
+    [ "iUniqueNameIds", "d2/dbc/a05405.html#a15bb91fa77c238c1204f8f3f56e676a7", null ],
+    [ "mapData", "d2/dbc/a05405.html#a7190f8b7bf8b00367a113679a94fc5e7", null ],
+    [ "spawnedModelFiles", "d2/dbc/a05405.html#ab339dfc2062edfb47e77b042e5cf058f", null ]
 ];

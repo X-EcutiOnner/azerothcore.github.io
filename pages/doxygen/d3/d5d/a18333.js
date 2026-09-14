@@ -1,11 +1,6 @@
 var a18333 =
 [
-    [ "Load", "d3/d5d/a18333.html#a0dab3a666abd6d8c1486a6e71ce98c20", null ],
-    [ "PrepareSpellScript", "d3/d5d/a18333.html#a8338cc31a3c494c1cb24d015a11fbd64", null ],
-    [ "Register", "d3/d5d/a18333.html#a9adbad7cc2185b22fb16135e78114548", null ],
-    [ "SelectTarget", "d3/d5d/a18333.html#a296ec09cec9661123ea5c86f3f262f32", null ],
-    [ "SetTarget", "d3/d5d/a18333.html#a15373dc2a0767e011faf504f6377e24d", null ],
-    [ "StartAttack", "d3/d5d/a18333.html#a17b20a391d70ae487774d52ed0e5dbd7", null ],
-    [ "Validate", "d3/d5d/a18333.html#a7619f7ec6dc0ce14293414729731ed00", null ],
-    [ "_target", "d3/d5d/a18333.html#abe6d3ad0f06b2370f1a5985878d6af3d", null ]
+    [ "boss_professor_putricideAI", "db/d75/a18337.html", "db/d75/a18337" ],
+    [ "boss_professor_putricide", "d3/d5d/a18333.html#a80776dad5c0205aa6a98752f43e85e32", null ],
+    [ "GetAI", "d3/d5d/a18333.html#a7c84089d24bb0c77a5203884254e0925", null ]
 ];

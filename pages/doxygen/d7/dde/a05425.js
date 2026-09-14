@@ -1,7 +1,12 @@
 var a05425 =
 [
-    [ "WModelRayCallBack", "d7/dde/a05425.html#ac19908f21c5b0ab0b2ee756a14c0f9bc", null ],
-    [ "operator()", "d7/dde/a05425.html#a72cdf8414d32846375122393b9911861", null ],
-    [ "hit", "d7/dde/a05425.html#a014e322fc087c2f07617361e0bc585e3", null ],
-    [ "models", "d7/dde/a05425.html#aaad14391ed1379dc3c367e6e522b1150", null ]
+    [ "ModelInstance", "d7/dde/a05425.html#a7a4efa321915b77801e9fc87924df572", null ],
+    [ "ModelInstance", "d7/dde/a05425.html#a0f2a5f321c1e54cbe8b3686c3e6801d4", null ],
+    [ "GetLiquidLevel", "d7/dde/a05425.html#a7d938e37825b61d9206c0e98d1352b5f", null ],
+    [ "GetLocationInfo", "d7/dde/a05425.html#a182d5cff23de7e6392fa10e2d353fcae", null ],
+    [ "getWorldModel", "d7/dde/a05425.html#a464922875649215b0b60aafc1ff70c3c", null ],
+    [ "intersectRay", "d7/dde/a05425.html#aac45a2d4becd7cac072da2f85b346eee", null ],
+    [ "iInvRot", "d7/dde/a05425.html#a9ac1d8dbfc566a2b5e508cae92ef4019", null ],
+    [ "iInvScale", "d7/dde/a05425.html#adc23d9c9a79ac7cfdb1f90b96485b089", null ],
+    [ "iModel", "d7/dde/a05425.html#a1826bd594e558180a18d1c3cf188c801", null ]
 ];

@@ -1,7 +1,6 @@
 var a25129 =
 [
-    [ "CheckProc", "dc/d7a/a25129.html#ab376febda606dba5e9f7f5639f867859", null ],
-    [ "HandleProc", "dc/d7a/a25129.html#aa8dac7f0a238f6f131553cbc7a142594", null ],
-    [ "PrepareAuraScript", "dc/d7a/a25129.html#a7693a86824050ff5615996d0d03d0292", null ],
-    [ "Register", "dc/d7a/a25129.html#a458745913288889f687bb19a147cb0fb", null ]
+    [ "CalculateAmount", "dc/d7a/a25129.html#af913c896771e238ef62898f67af61cc4", null ],
+    [ "PrepareAuraScript", "dc/d7a/a25129.html#a4be139ae22c20468be1930195097d98a", null ],
+    [ "Register", "dc/d7a/a25129.html#a90d6446ed05f9dfedb43d689e8de0614", null ]
 ];

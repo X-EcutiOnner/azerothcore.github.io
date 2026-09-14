@@ -1,6 +1,4 @@
 var a23929 =
 [
-    [ "HandlePeriodic", "d5/ded/a23929.html#aec3f36e2c5fedddd84478b9e3a59e6f4", null ],
-    [ "PrepareAuraScript", "d5/ded/a23929.html#a2b809a60626119f6bcf595bd3581c2be", null ],
-    [ "Register", "d5/ded/a23929.html#a299f84e9c12406c79a56999a13de5c1c", null ]
+    [ "instance_the_botanica_InstanceMapScript", "d5/ded/a23929.html#a86c5e55fe8f7e40d041abbcdb2d23797", null ]
 ];

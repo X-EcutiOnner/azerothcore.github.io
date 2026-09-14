@@ -1,12 +1,10 @@
 var a13981 =
 [
-    [ "boss_twilight_corrupter", "da/d74/a13981.html#afe140d6231d9ad8543e17c4a8a8230c0", null ],
-    [ "InitializeAI", "da/d74/a13981.html#afe06461e9f3e1549da6631d2f89406c4", null ],
-    [ "JustEngagedWith", "da/d74/a13981.html#a84803153e7e7d5d7efe0106139214b1f", null ],
-    [ "KilledUnit", "da/d74/a13981.html#aa18d2fc90e1ccd322ec9d3128ba206d2", null ],
-    [ "MoveInLineOfSight", "da/d74/a13981.html#a637cdd43f2f9a4f773b4b8e8f3c88730", null ],
-    [ "Reset", "da/d74/a13981.html#a27720f58056206c09bce41ae50018a83", null ],
-    [ "UpdateAI", "da/d74/a13981.html#a580fbaa55a5c0193c1ef2c6b281d8d9e", null ],
-    [ "_introSpoken", "da/d74/a13981.html#a1924750c9d41ed588a29aace3c40742d", null ],
-    [ "_scheduler", "da/d74/a13981.html#a6c49eee2be24199418096cc48c50d384", null ]
+    [ "npc_sunblade_scout", "da/d74/a13981.html#ab8ecb0d2fb7dfd482b2cba4ed11ababc", null ],
+    [ "JustEngagedWith", "da/d74/a13981.html#ab57b63a624458a9fa598062e61c5fa0e", null ],
+    [ "Reset", "da/d74/a13981.html#a8c7f442118fced8a2efac3b9fe0035f5", null ],
+    [ "ScheduleCombat", "da/d74/a13981.html#ae4ca796fa8fd4aae6ac8f184638b3f97", null ],
+    [ "ScheduleOOC", "da/d74/a13981.html#ae06c1d7b43cc170f3a3b5f4835822d57", null ],
+    [ "UpdateAI", "da/d74/a13981.html#aca75482085b72070487c24feefa23fd6", null ],
+    [ "_protectorGUID", "da/d74/a13981.html#a753f7fbbea33f7fc49f5d6e733a8f833", null ]
 ];

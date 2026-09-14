@@ -1,5 +1,7 @@
 var a28361 =
 [
-    [ "go_scourge_cage", "de/d32/a28361.html#a76dfa458a52c950fbc0a86412e1ad490", null ],
-    [ "OnGossipHello", "de/d32/a28361.html#ab4e97cd290342d623d212cc7cec227d5", null ]
+    [ "go_brewfest_musicAI", "de/d32/a28361.html#a832bd6353b3c466c197b8c90b5bee8a8", null ],
+    [ "UpdateAI", "de/d32/a28361.html#a47ea5bbcd9d01b9eaf839bc779809aec", null ],
+    [ "_currentMusicEvent", "de/d32/a28361.html#ad26a0309bdd4eafce4dfa310db929357", null ],
+    [ "_events", "de/d32/a28361.html#ae741239bbebae9f93ad2d04c7487c32f", null ]
 ];

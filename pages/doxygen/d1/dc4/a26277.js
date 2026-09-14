@@ -1,6 +1,7 @@
 var a26277 =
 [
-    [ "HandleEffect", "d1/dc4/a26277.html#a41b46d8918b59a1617f383b3eedfe343", null ],
-    [ "PrepareSpellScript", "d1/dc4/a26277.html#acfc69e6323292e6c64fbe8d2e10efcdc", null ],
-    [ "Register", "d1/dc4/a26277.html#a78f1476ed28eb1e80356dbf3d32918f5", null ]
+    [ "HandleHeal", "d1/dc4/a26277.html#ae24fd6305b5d17c2fbb6f03238b385c6", null ],
+    [ "Load", "d1/dc4/a26277.html#a4dd5016439e8798083fe3d4fa5458731", null ],
+    [ "PrepareSpellScript", "d1/dc4/a26277.html#a248ae6d2c8f8d6c014a0164105773836", null ],
+    [ "Register", "d1/dc4/a26277.html#af2e80d64787ad31e33d0d3c239f62c81", null ]
 ];

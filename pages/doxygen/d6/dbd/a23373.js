@@ -1,10 +1,14 @@
 var a23373 =
 [
-    [ "npc_frozen_core", "d6/dbd/a23373.html#af00f67392d96aa1ab8ccdab5b168fc04", null ],
-    [ "DoAction", "d6/dbd/a23373.html#a7b2c684f0c4e88720fb0d921815026ab", null ],
-    [ "Initialize", "d6/dbd/a23373.html#a7e5824e31f600d10c3177e00ae443c7f", null ],
-    [ "JustDied", "d6/dbd/a23373.html#a476e086b0379e0cef3a44d250b020d6a", null ],
-    [ "UpdateAI", "d6/dbd/a23373.html#af09168b57b79d14d9a7ef6861e85cc1a", null ],
-    [ "_events", "d6/dbd/a23373.html#a3a5efec3279644ef713722e1556a3c84", null ],
-    [ "_instance", "d6/dbd/a23373.html#a80fa517cc7dffd4bf15f3393d1f4af14", null ]
+    [ "boss_the_lurker_below", "d6/dbd/a23373.html#ac76c71b6a47e1a936256d9c5901c27ab", null ],
+    [ "AttackStart", "d6/dbd/a23373.html#af0f6fbe31dbcd6df4e8f1b57730e093b", null ],
+    [ "DamageTaken", "d6/dbd/a23373.html#ae7c05744013753b29072ec1b5d9f2570", null ],
+    [ "DoAction", "d6/dbd/a23373.html#a30e07055aa632066a75ad48f3e8109e2", null ],
+    [ "EnterEvadeMode", "d6/dbd/a23373.html#a522164e819db5062225f7d5704cdaa36", null ],
+    [ "JustEngagedWith", "d6/dbd/a23373.html#aa31e26b77e0c2403a338f781bf14c94b", null ],
+    [ "Reset", "d6/dbd/a23373.html#ae592707182d64689e6578813b3617ee3", null ],
+    [ "SchedulerPhaseOne", "d6/dbd/a23373.html#a42dd2ed36209e7be61788d054e2754b5", null ],
+    [ "SchedulerPhaseTwo", "d6/dbd/a23373.html#aa910c20d3ee26d6d2e71818008eb3b5c", null ],
+    [ "SummonedCreatureDies", "d6/dbd/a23373.html#a5ec68a1bc5b22e03fe485448257ad7df", null ],
+    [ "UpdateAI", "d6/dbd/a23373.html#a92d854cb21b272bd09674c724b1aa862", null ]
 ];

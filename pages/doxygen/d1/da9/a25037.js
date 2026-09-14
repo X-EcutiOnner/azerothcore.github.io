@@ -1,10 +1,10 @@
 var a25037 =
 [
-    [ "CalcAmount", "d1/da9/a25037.html#a182d563b0527e35ea641116a6a808aa8", null ],
-    [ "CalcPeriodic", "d1/da9/a25037.html#a542da5e81c75d56ad33152d54b5cac3a", null ],
-    [ "Load", "d1/da9/a25037.html#a45b2d3dee0d5e514d2351c3f3679e3d3", null ],
-    [ "PrepareAuraScript", "d1/da9/a25037.html#ac320eec2b8a3a7cc3820a49007710520", null ],
-    [ "Register", "d1/da9/a25037.html#a37181afac00639716ae2ce10d82ecb23", null ],
-    [ "UpdatePeriodic", "d1/da9/a25037.html#af4f971e2d5c2d2f4b1ced0e64e8c1871", null ],
-    [ "Validate", "d1/da9/a25037.html#a3a6c68e8918612745cfb35df84bf7d14", null ]
+    [ "CheckProc", "d1/da9/a25037.html#a1afbc5f8e86e0382be43c947e88306b3", null ],
+    [ "HandleProc", "d1/da9/a25037.html#a9fbfe3fba6283362bab181fcd15611b3", null ],
+    [ "PrepareAuraScript", "d1/da9/a25037.html#aa060ed89bc5e3c80d6402c8e79baa597", null ],
+    [ "Register", "d1/da9/a25037.html#a43cc9387ce5b1665147dcfecb1476c22", null ],
+    [ "Validate", "d1/da9/a25037.html#ad167a260f9a3d1f71a5a11b0bab6161c", null ],
+    [ "_lunarProcCooldownEnd", "d1/da9/a25037.html#a9fd6d9c34dba5cb302010df4d5c560c2", null ],
+    [ "_solarProcCooldownEnd", "d1/da9/a25037.html#a6f50d14abee53eb06f50edbcc78628c4", null ]
 ];

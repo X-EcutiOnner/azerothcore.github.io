@@ -1,11 +1,10 @@
 var a06237 =
 [
-    [ "SQLQueryHolderCallback", "d0/d93/a06237.html#afc2cb6a483d17ae115e947bc88fe592b", null ],
-    [ "SQLQueryHolderCallback", "d0/d93/a06237.html#a7fddb08e9e10cdb8a437de3ee53494db", null ],
-    [ "AfterComplete", "d0/d93/a06237.html#a40f0a73f4b92bc0f7ad8659f748c7c17", null ],
-    [ "InvokeIfReady", "d0/d93/a06237.html#a7e540699d496834c0a36782fb7da03f1", null ],
-    [ "operator=", "d0/d93/a06237.html#a031861856be6b3e5f18718f3c6129f9c", null ],
-    [ "m_callback", "d0/d93/a06237.html#aa055fe02b0158a9098e6eccdc32e9ff4", null ],
-    [ "m_future", "d0/d93/a06237.html#a7dc3e5e72d47135660a29a0418e17c44", null ],
-    [ "m_holder", "d0/d93/a06237.html#a09b018fb4d8e0e67249b1117c657ecc2", null ]
+    [ "PreparedStatementTask", "d0/d93/a06237.html#a332f6ddad1ee338da3fa4bd2461a9c29", null ],
+    [ "~PreparedStatementTask", "d0/d93/a06237.html#a4ca96ab46d5015b2c673164652146886", null ],
+    [ "Execute", "d0/d93/a06237.html#ad4058410f5eba4f0f935696d38ba85ab", null ],
+    [ "GetFuture", "d0/d93/a06237.html#a07031e5cff28553e33d98140847b9e0d", null ],
+    [ "m_has_result", "d0/d93/a06237.html#a7c2841b7638c42caa4e8c1116110f8a3", null ],
+    [ "m_result", "d0/d93/a06237.html#a841a7aefd9ea58a76cead1da65a786b2", null ],
+    [ "m_stmt", "d0/d93/a06237.html#aba9082a717729915a4e4d640220a49d2", null ]
 ];

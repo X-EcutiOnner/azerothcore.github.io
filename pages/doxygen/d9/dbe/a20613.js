@@ -1,6 +1,5 @@
 var a20613 =
 [
-    [ "OnRemoveStun", "d9/dbe/a20613.html#a67aeca34d32c43ff647dc2dbe83cbb7f", null ],
-    [ "PrepareAuraScript", "d9/dbe/a20613.html#a0be1d9a7dcba0bff75d59aed926efe55", null ],
-    [ "Register", "d9/dbe/a20613.html#a3166cfcd2acdcd4460217503d4008367", null ]
+    [ "achievement_i_have_the_coolest_friends", "d9/dbe/a20613.html#a87fd2d5702fe33ee8b09042c66897636", null ],
+    [ "OnCheck", "d9/dbe/a20613.html#aa77aa6129967601ede2f3fc44b2ee1aa", null ]
 ];

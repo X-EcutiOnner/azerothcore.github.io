@@ -1,7 +1,7 @@
 var a21117 =
 [
-    [ "HandleScriptEffect", "de/dce/a21117.html#a173ee086127655cdfcca507fd5b15b2e", null ],
-    [ "PrepareSpellScript", "de/dce/a21117.html#a005d47b18a820c35ec596b5539db94eb", null ],
-    [ "Register", "de/dce/a21117.html#a20a0d554e80707c1517422cb747f38e8", null ],
-    [ "Validate", "de/dce/a21117.html#a5ca44686e26def56adc2b98d88145235", null ]
+    [ "OnRemove", "de/dce/a21117.html#ad3f482f9fff9798cc6e7a06183344742", null ],
+    [ "PrepareAuraScript", "de/dce/a21117.html#ab830a7a6c5ed432f8718071345c99b57", null ],
+    [ "Register", "de/dce/a21117.html#ac83a8d085d02feec64b6012cacb60dce", null ],
+    [ "Validate", "de/dce/a21117.html#a69a3e0a6c06e3c4085bf0ad25e40edf9", null ]
 ];

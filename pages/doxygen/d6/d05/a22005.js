@@ -1,6 +1,6 @@
 var a22005 =
 [
-    [ "CheckRequirement", "d6/d05/a22005.html#ad58d71b5c2bc10d9ffbfe472bd5b1a32", null ],
-    [ "PrepareSpellScript", "d6/d05/a22005.html#ae621e95feb69b54f9aef5d77577a15ae", null ],
-    [ "Register", "d6/d05/a22005.html#ab0b03fd2d1a0ed6720acc45221a582f6", null ]
+    [ "npc_torturer_lecraftAI", "da/da7/a22009.html", "da/da7/a22009" ],
+    [ "npc_torturer_lecraft", "d6/d05/a22005.html#a789f8bdafe96d5cb01225b940a80c651", null ],
+    [ "GetAI", "d6/d05/a22005.html#abdc8b33cd820c5cd14c999e7407897fe", null ]
 ];

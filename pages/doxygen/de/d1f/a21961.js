@@ -1,7 +1,6 @@
 var a21961 =
 [
-    [ "HandleScriptEffect", "de/d1f/a21961.html#a8df8d5addea956e80ad0a30ff8f73050", null ],
-    [ "PrepareSpellScript", "de/d1f/a21961.html#adf6593e47a5766c40e7e3859fce00f81", null ],
-    [ "Register", "de/d1f/a21961.html#a6e3bbfb11816f72ae85efb4defb23ad7", null ],
-    [ "Validate", "de/d1f/a21961.html#afdabca016ed5eae85a0bdb3fd9d695ec", null ]
+    [ "GhoulTargetCheck", "de/d1f/a21961.html#acd743b2b1407c5171fbf410a02ff07bf", null ],
+    [ "operator()", "de/d1f/a21961.html#a6722cfe5a1ceecccf2c07924b2975f46", null ],
+    [ "_alive", "de/d1f/a21961.html#ab44092ca1cd6d7c17d7c63e0a8333453", null ]
 ];

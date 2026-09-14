@@ -1,7 +1,7 @@
 var a19005 =
 [
-    [ "HandleForceCast", "d1/d4a/a19005.html#accc757e0a23103242865f0ce3085f9d9", null ],
-    [ "Load", "d1/d4a/a19005.html#a7206571378a0196a8648659628bdeece", null ],
-    [ "PrepareSpellScript", "d1/d4a/a19005.html#a8bb6db3eaebab00d3166b24ad1e41158", null ],
-    [ "Register", "d1/d4a/a19005.html#ace665321732f59f13b2ef831c71c2f18", null ]
+    [ "npc_blazing_skeletonAI", "d1/d4a/a19005.html#ad4f997a7a4cc0fa96594da35434fd921", null ],
+    [ "Reset", "d1/d4a/a19005.html#a3bbc4cf7b6dbe11d6768a0fb0626e84a", null ],
+    [ "UpdateAI", "d1/d4a/a19005.html#a0010c4befd13ec6beada0de1607f3f7a", null ],
+    [ "_events", "d1/d4a/a19005.html#aab1b04989d5e3fc289f00bc121df193d", null ]
 ];

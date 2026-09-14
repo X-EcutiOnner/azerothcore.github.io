@@ -1,5 +1,5 @@
 var a28433 =
 [
-    [ "item_only_for_flight", "da/db5/a28433.html#a8f905266dc8f24cf35598a37e7018ff7", null ],
-    [ "OnUse", "da/db5/a28433.html#a88cdf17a85630aef703f93143ba41d4d", null ]
+    [ "go_arcane_prison", "da/db5/a28433.html#ad73ac33d843027de0e516de8f90c45a0", null ],
+    [ "OnGossipHello", "da/db5/a28433.html#a0f9d414ce1f3f3e734cb79a554f7523e", null ]
 ];

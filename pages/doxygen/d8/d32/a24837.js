@@ -1,6 +1,7 @@
 var a24837 =
 [
-    [ "CheckCast", "d8/d32/a24837.html#a583e19667a83ada4cd793fbf391f9e93", null ],
-    [ "PrepareSpellScript", "d8/d32/a24837.html#ac6adda0dbe544cf2457060647c01de0f", null ],
-    [ "Register", "d8/d32/a24837.html#a50d1284f1113bfdd0b39690efabe6b9b", null ]
+    [ "CheckProc", "d8/d32/a24837.html#a841b1a19cafcbf3b3bf82867cbb23384", null ],
+    [ "HandleProc", "d8/d32/a24837.html#a1d2e356b47d793bf9193b03f635ce579", null ],
+    [ "PrepareAuraScript", "d8/d32/a24837.html#addfa11cf74409b4bb369c2bbf583c13c", null ],
+    [ "Register", "d8/d32/a24837.html#a180fbfc09087cb2cd919734c447fef10", null ]
 ];

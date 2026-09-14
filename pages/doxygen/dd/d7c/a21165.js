@@ -1,6 +1,6 @@
 var a21165 =
 [
-    [ "entry", "dd/d7c/a21165.html#aa9907022aea07d150223562376672353", null ],
-    [ "guid", "dd/d7c/a21165.html#af6bd3717f5e809607edd72ed4c9200ef", null ],
-    [ "index", "dd/d7c/a21165.html#a004f733fe69f93716e2280977be5dfb8", null ]
+    [ "ModSanityStacks", "dd/d7c/a21165.html#a38b8425689f91b91e23096d658b462cf", null ],
+    [ "PrepareSpellScript", "dd/d7c/a21165.html#a43362033f7422a0b9918ddd3b7e480cc", null ],
+    [ "Register", "dd/d7c/a21165.html#a6d5e27f728ee3980d33d417fb437c9c6", null ]
 ];

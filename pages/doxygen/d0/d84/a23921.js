@@ -1,5 +1,7 @@
 var a23921 =
 [
-    [ "npc_telonicus", "d0/d84/a23921.html#af8ba6be2d39463725bbbaf7770319a93", null ],
-    [ "ScheduleEvents", "d0/d84/a23921.html#a49501a607aeb901aa99e94d9dd0e161b", null ]
+    [ "boss_warp_splinter", "d0/d84/a23921.html#a1d0e8720baaadd1f6f4f6026597c9f63", null ],
+    [ "JustDied", "d0/d84/a23921.html#a7e7850cf545e57f9fcd8d1aff42f8eb3", null ],
+    [ "JustEngagedWith", "d0/d84/a23921.html#afc05b2f366e518d5e9ea3fbbfcba05cc", null ],
+    [ "KilledUnit", "d0/d84/a23921.html#a0e974eb2bfae50383040fe9c7ccf74c1", null ]
 ];

@@ -1,8 +1,14 @@
 var a13401 =
 [
-    [ "npc_barnesAI", "d1/d4d/a13405.html", "d1/d4d/a13405" ],
-    [ "npc_barnes", "dd/ddd/a13401.html#aacdc737a94397a90b48b635293fe9c80", null ],
-    [ "GetAI", "dd/ddd/a13401.html#a4e349ede566d9be90b82e7ebd9d71de3", null ],
-    [ "OnGossipHello", "dd/ddd/a13401.html#a47cafa3628d2ca99582140f2a72ff8db", null ],
-    [ "OnGossipSelect", "dd/ddd/a13401.html#aa04d577e318f16f581f82761b6014eb5", null ]
+    [ "boss_strawman", "dd/ddd/a13401.html#a1789cdafc2ce03e156ac686e6859e25f", null ],
+    [ "DoAction", "dd/ddd/a13401.html#a57f9519f87bc8e7446632a49f56a02ca", null ],
+    [ "EnterEvadeMode", "dd/ddd/a13401.html#a67fd9b85406512cef4f3ae581461f0c4", null ],
+    [ "JustDied", "dd/ddd/a13401.html#ab175b0104d316b8929e32d9eb939780f", null ],
+    [ "JustEngagedWith", "dd/ddd/a13401.html#a40657516c4f1b049dd0514a50e299a10", null ],
+    [ "JustReachedHome", "dd/ddd/a13401.html#a4235b2de2540199f9570cbadb7326871", null ],
+    [ "KilledUnit", "dd/ddd/a13401.html#a06b92dbb6907ace60df7e10893be7af0", null ],
+    [ "SpellHit", "dd/ddd/a13401.html#a5bf558765b59a7950bd55ece14c07a4f", null ],
+    [ "UpdateAI", "dd/ddd/a13401.html#adcb7db7cb3f938b492a28c3540251ea9", null ],
+    [ "_scheduler", "dd/ddd/a13401.html#a409539c771b373c165bdbccac8a59e7f", null ],
+    [ "instance", "dd/ddd/a13401.html#a157a6faacf83432b8227173f6b14a7d3", null ]
 ];

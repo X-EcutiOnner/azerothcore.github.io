@@ -1,7 +1,7 @@
 var a21333 =
 [
-    [ "FilterTargets", "d6/d9b/a21333.html#aacfc70299b20cfef5b2feac954779f1c", null ],
-    [ "HandleDamageCalc", "d6/d9b/a21333.html#ad95c61a3977d7fa1c47902fb0a0d3843", null ],
-    [ "PrepareSpellScript", "d6/d9b/a21333.html#a008a69c532a7bdaec9fd30c88bb7af90", null ],
-    [ "Register", "d6/d9b/a21333.html#aa1da58fb771b35b76dcf367b9caf66d2", null ]
+    [ "HandleOnEffectRemove", "d6/d9b/a21333.html#acccd790c53f567f93e64afa7b7d1fe6f", null ],
+    [ "PrepareAuraScript", "d6/d9b/a21333.html#a72e6468602d40eb479a80c611d60eb2e", null ],
+    [ "Register", "d6/d9b/a21333.html#a213b50ebb7ce248a36dd78167d1190bb", null ],
+    [ "Validate", "d6/d9b/a21333.html#a8f3ec40c0c2e38dc32db30ce36129684", null ]
 ];

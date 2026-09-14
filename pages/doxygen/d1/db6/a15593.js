@@ -1,6 +1,7 @@
 var a15593 =
 [
-    [ "instance_ruins_of_ahnqiraj_InstanceMapScript", "de/d79/a15597.html", "de/d79/a15597" ],
-    [ "instance_ruins_of_ahnqiraj", "d1/db6/a15593.html#adeacb1c68e4b12995a335d1bedde075a", null ],
-    [ "GetInstanceScript", "d1/db6/a15593.html#a6a661e961c2599498de0ccd41c0763b4", null ]
+    [ "boss_kurinnaxx", "d1/db6/a15593.html#aa8b471e6239080b2a5f70e50e07a9621", null ],
+    [ "InitializeAI", "d1/db6/a15593.html#a0e249007d5bf29eb0cff307045ef9eb3", null ],
+    [ "JustDied", "d1/db6/a15593.html#adb749c8737888a099ad7a3d58292a612", null ],
+    [ "JustEngagedWith", "d1/db6/a15593.html#a451cd7ee80b0428a199c33012562bdb3", null ]
 ];

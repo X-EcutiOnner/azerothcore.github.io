@@ -1,6 +1,6 @@
 var a16749 =
 [
-    [ "npc_argent_soldierAI", "d5/d11/a16753.html", "d5/d11/a16753" ],
-    [ "npc_argent_soldier", "de/dd8/a16749.html#aa308b4cf1df6edf0666d06e0ddab0797", null ],
-    [ "GetAI", "de/dd8/a16749.html#adfeed3d533104b9617dfbb06925a3d44", null ]
+    [ "npc_living_infernoAI", "de/dd8/a16749.html#ab33eeac6aab8e18778fc7d4ffe5038f1", null ],
+    [ "IsSummonedBy", "de/dd8/a16749.html#a4b6986a392aee0741ba47651e809c76c", null ],
+    [ "JustDied", "de/dd8/a16749.html#a60b2e31d24e182e97d604d91223e2dc8", null ]
 ];

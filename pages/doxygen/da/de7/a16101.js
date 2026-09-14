@@ -1,5 +1,7 @@
 var a16101 =
 [
-    [ "go_crystalline_tear", "da/de7/a16101.html#a9e19c6538ecd1a758f2639171321d965", null ],
-    [ "OnQuestAccept", "da/de7/a16101.html#a4efd6b2b8ca37462ba3a26d05f01ec2d", null ]
+    [ "npc_giant_spotlightAI", "da/de7/a16101.html#ae0f6686aaeacafce193e0d4590cf8c09", null ],
+    [ "Reset", "da/de7/a16101.html#a79f6703107eed52a3aeae30393507c0f", null ],
+    [ "UpdateAI", "da/de7/a16101.html#a8567f936dd15933300497d5abe80a272", null ],
+    [ "events", "da/de7/a16101.html#a20d1087e59daae9189d78f04ea2b2d05", null ]
 ];

@@ -1,7 +1,7 @@
 var a24821 =
 [
-    [ "CalculateAmount", "dc/dae/a24821.html#af51a8e22ddfe0648f08a4190d730fbda", null ],
-    [ "CheckProc", "dc/dae/a24821.html#a2f80dcd9e5922af55dee096c95079062", null ],
-    [ "PrepareAuraScript", "dc/dae/a24821.html#af54ef254d0897140255960146507e986", null ],
-    [ "Register", "dc/dae/a24821.html#ad6e4bd4390f6f88494984af792a11b90", null ]
+    [ "HandleProc", "dc/dae/a24821.html#a8503eadfd6d636659e66bda9bfd36d00", null ],
+    [ "PrepareAuraScript", "dc/dae/a24821.html#a9571ec1951d45eaf4e1a2e1e7851aaa6", null ],
+    [ "Register", "dc/dae/a24821.html#a73879765519b238791577db82561b548", null ],
+    [ "Validate", "dc/dae/a24821.html#abcdd9441cfc3922b70e3a4f1ece01efd", null ]
 ];

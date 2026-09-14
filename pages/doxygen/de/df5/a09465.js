@@ -1,6 +1,4 @@
 var a09465 =
 [
-    [ "lang_id", "de/df5/a09465.html#a1fa900a467834103ac595a8a96dd28c0", null ],
-    [ "skill_id", "de/df5/a09465.html#a37ffc91876a998fe354ca1b7dffc512a", null ],
-    [ "spell_id", "de/df5/a09465.html#ac0acb5dfb8af32b382b3b51db4daa0f0", null ]
+    [ "Content", "de/df5/a09465.html#a1987f2c29c82d8a140bfa8cadcae53d7", null ]
 ];

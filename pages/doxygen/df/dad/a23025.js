@@ -1,6 +1,8 @@
 var a23025 =
 [
-    [ "HandleEffectRemove", "df/dad/a23025.html#ae9baf688d8ac42c4ccbbf13f3b79e831", null ],
-    [ "PrepareAuraScript", "df/dad/a23025.html#a2e2668f0b5bf369ec859627e0bd8d980", null ],
-    [ "Register", "df/dad/a23025.html#acd7e22159d262a9888c744eecb978c09", null ]
+    [ "boss_mother_shahraz", "df/dad/a23025.html#adba94363f74975301472d79f24894df8", null ],
+    [ "JustDied", "df/dad/a23025.html#ab69d81acde4e6e2a3f6adb032090b958", null ],
+    [ "JustEngagedWith", "df/dad/a23025.html#a021c702e7eff266308fee8a4220a6ec7", null ],
+    [ "KilledUnit", "df/dad/a23025.html#a81ed314ae9737c0989b62c27c9ce4cc9", null ],
+    [ "Reset", "df/dad/a23025.html#ab9e4162ac92e786b84b6497c37251386", null ]
 ];

@@ -1,8 +1,10 @@
 var a19945 =
 [
-    [ "HandleOnEffectApply", "d9/d1a/a19945.html#ac852d761940494f78b50ba3b060057a2", null ],
-    [ "HandleOnEffectRemove", "d9/d1a/a19945.html#a6764750586be8b57d52a2dba87d89e76", null ],
-    [ "PrepareAuraScript", "d9/d1a/a19945.html#acc93a6d463501a23b73bd1ac1f99854e", null ],
-    [ "Register", "d9/d1a/a19945.html#a2cb77175d7341752bdd8733cfcfe8ed3", null ],
-    [ "Validate", "d9/d1a/a19945.html#a4de69fb4aa8e1506581ed01c42dc8f76", null ]
+    [ "npc_oculus_drakegiverAI", "d9/df2/a19949.html", "d9/df2/a19949" ],
+    [ "npc_oculus_drakegiver", "d9/d1a/a19945.html#add34aba22fb2ca16f6f055dd77a2994b", null ],
+    [ "GetAI", "d9/d1a/a19945.html#aa26a2b82c5e4076ce704d5884895d903", null ],
+    [ "OnGossipHello", "d9/d1a/a19945.html#ac00d09d2d81121d562e3303704229c18", null ],
+    [ "OnGossipSelect", "d9/d1a/a19945.html#ad0fc46e306080ccfe9988d416ef71e77", null ],
+    [ "RemoveEssence", "d9/d1a/a19945.html#a70513d873111c590ca4e33cb446a4438", null ],
+    [ "StoreEssence", "d9/d1a/a19945.html#ac8bbe890722aa924a7f0dee161d342c4", null ]
 ];

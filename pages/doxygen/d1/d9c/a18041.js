@@ -1,6 +1,14 @@
 var a18041 =
 [
-    [ "npc_gunship_boarding_add_realAI", "d1/d9c/a18041.html#a829c3690ab0d5ad3f0a888cb6701692a", null ],
-    [ "UpdateAI", "d1/d9c/a18041.html#a33ac355c8f61907574a0736a24cbee82", null ],
-    [ "_events", "d1/d9c/a18041.html#acaea46d9523fa9fe59415b0b0834a2ba", null ]
+    [ "npc_gunshipAI", "d1/d9c/a18041.html#a75444497ffd6b7365827eea57fd946f9", null ],
+    [ "DamageTaken", "d1/d9c/a18041.html#a9c1825ec51aaecedd1035ae9a1ded6a0", null ],
+    [ "GetData", "d1/d9c/a18041.html#a0142bec2427c1256431e55d3f74b8948", null ],
+    [ "JustDied", "d1/d9c/a18041.html#aa19c815ad64f81fb5240c5e0667bccc9", null ],
+    [ "SetGUID", "d1/d9c/a18041.html#a7f336843c54de072cf58bc87ff08b068", null ],
+    [ "UpdateAI", "d1/d9c/a18041.html#a8bab1a755c2262e9f36f295781d30909", null ],
+    [ "_died", "d1/d9c/a18041.html#af4480427460748bccae214737469ddb7", null ],
+    [ "_instance", "d1/d9c/a18041.html#a21f9c24e80145db0c6847c81261d0e8d", null ],
+    [ "_shipVisits", "d1/d9c/a18041.html#a6f9730b746e195a99dc11357fd0387ba", null ],
+    [ "_summonedFirstMage", "d1/d9c/a18041.html#a721cc96cc76a27574a1a4eb1996b100e", null ],
+    [ "_teamIdInInstance", "d1/d9c/a18041.html#a195ff7ab2c2e96ab0bcd0a96c1e21512", null ]
 ];

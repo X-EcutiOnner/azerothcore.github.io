@@ -1,9 +1,7 @@
 var a28253 =
 [
-    [ "go_tadpole_cageAI", "d7/d9d/a28253.html#a87dc192a13cecf834d49cd04451224cd", null ],
-    [ "GossipHello", "d7/d9d/a28253.html#a5c59db4b4d21b9e7de9bbb8835f31f2a", null ],
-    [ "OnStateChanged", "d7/d9d/a28253.html#aa545ba4659b288c1ce1f5c2332d5e61f", null ],
-    [ "SummonTadpoles", "d7/d9d/a28253.html#ab4903827c78b1b042cc17aef661a0b4f", null ],
-    [ "UpdateAI", "d7/d9d/a28253.html#af6d4f5c3fe822815f58665a0207e3c32", null ],
-    [ "requireSummon", "d7/d9d/a28253.html#a9884081855fc45776a6b12b9a68890e4", null ]
+    [ "npc_spirit_shadeAI", "d7/d9d/a28253.html#a8b7bf7c7cc541a47be79aad76a9bbcbc", null ],
+    [ "IsSummonedBy", "d7/d9d/a28253.html#a3a7fcb4af8e3b27e06b4665e8a864b38", null ],
+    [ "MovementInform", "d7/d9d/a28253.html#ab001fdc09efe9f8c03ad1b7610124e6d", null ],
+    [ "_summonerGuid", "d7/d9d/a28253.html#aa7c6abb848ab37f407a3553d04d0ad81", null ]
 ];

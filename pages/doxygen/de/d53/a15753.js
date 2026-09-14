@@ -1,5 +1,8 @@
 var a15753 =
 [
-    [ "npc_toxic_slime", "de/d53/a15753.html#a4c3a03916280342ec9aec07049de161f", null ],
-    [ "InitializeAI", "de/d53/a15753.html#ae69f228040aaa5bc4df40a652f551992", null ]
+    [ "npc_ouro_spawner", "de/d53/a15753.html#acb18739e5a1734312ffdda35321e5f34", null ],
+    [ "JustSummoned", "de/d53/a15753.html#a722dada5bf97c730462a0de2b082d5ff", null ],
+    [ "MoveInLineOfSight", "de/d53/a15753.html#a83c0972db4435ccf1af069574e4056f4", null ],
+    [ "Reset", "de/d53/a15753.html#ac1591f1c172bfdda25b020e00cd0835e", null ],
+    [ "hasSummoned", "de/d53/a15753.html#a6ac376861c1206cc1551d9fa86c0fc97", null ]
 ];

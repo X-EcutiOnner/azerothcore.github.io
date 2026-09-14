@@ -1,7 +1,7 @@
 var a23901 =
 [
-    [ "OnApply", "db/d62/a23901.html#abab02b8307b762d070ba12358f59916d", null ],
-    [ "OnRemove", "db/d62/a23901.html#a5ac45a5cfa17689d241c44241216ff38", null ],
-    [ "PrepareAuraScript", "db/d62/a23901.html#a54f128745c3c35d7e52e9de7bb69a39a", null ],
-    [ "Register", "db/d62/a23901.html#ae130b3cddbe0d9ce21d888e21472d64b", null ]
+    [ "HandleCast", "db/d62/a23901.html#a0084e7f81fcd032c1e04b8f86d821993", null ],
+    [ "PrepareSpellScript", "db/d62/a23901.html#acfd6b86e5afed08fd9cf43f64e948149", null ],
+    [ "Register", "db/d62/a23901.html#a6ae0573ea69573df64cd57ba84f99918", null ],
+    [ "Validate", "db/d62/a23901.html#ab5794ca5c0863ce40194ed40e156279a", null ]
 ];

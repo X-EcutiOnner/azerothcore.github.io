@@ -1,7 +1,6 @@
 var a06325 =
 [
-    [ "arg1", "dd/dee/a06325.html#aa2018e5823bcf013847605847231e3c2", null ],
-    [ "arg2", "dd/dee/a06325.html#a4c8721b050e72556a901be1a4a49c2b6", null ],
-    [ "arg3", "dd/dee/a06325.html#acadf2c3d1d60f8f49fde62b9172980e5", null ],
-    [ "updateType", "dd/dee/a06325.html#a84cace2469c54d57b33abe5ca93588ca", null ]
+    [ "Create", "dd/dee/a06325.html#a2d3e38cdbdb9bdece3814297c36e6be9", null ],
+    [ "Populate", "dd/dee/a06325.html#a21a3910e779a54d953de6b1c44e40442", null ],
+    [ "Update", "dd/dee/a06325.html#a45ecac66b2bae03db4b6688b0c08ab62", null ]
 ];

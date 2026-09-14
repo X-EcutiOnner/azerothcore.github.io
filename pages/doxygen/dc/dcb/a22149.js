@@ -1,6 +1,8 @@
 var a22149 =
 [
-    [ "npc_lord_areteAI", "d2/d04/a22153.html", "d2/d04/a22153" ],
-    [ "npc_lord_arete", "dc/dcb/a22149.html#a929e3f3346bf4dbaee127463eaf4ffcc", null ],
-    [ "GetAI", "dc/dcb/a22149.html#a212d003e9acb5f141197b5c4d10163a4", null ]
+    [ "CheckCast", "dc/dcb/a22149.html#a49e425fa95e5107f38aa16e546674b7d", null ],
+    [ "HandleScript", "dc/dcb/a22149.html#a38e8d469e10470b448c0947c6bdbe4bb", null ],
+    [ "PrepareSpellScript", "dc/dcb/a22149.html#a9e7a1239e165131b70c437793b5371d0", null ],
+    [ "Register", "dc/dcb/a22149.html#a3d80b43080e0d81cbb45ed665efcda2a", null ],
+    [ "Validate", "dc/dcb/a22149.html#aa3153a940a762a7ee09e7c62b6b61053", null ]
 ];

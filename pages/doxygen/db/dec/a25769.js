@@ -1,6 +1,11 @@
 var a25769 =
 [
-    [ "HandleStackDrop", "db/dec/a25769.html#a9a1409c505aff1fd1021aea683c1aa8e", null ],
-    [ "PrepareAuraScript", "db/dec/a25769.html#afdb5f1df2e88976bb62efd0f8859e3da", null ],
-    [ "Register", "db/dec/a25769.html#ae67ab53e9c82a054e21a1242b5f50b4b", null ]
+    [ "CalcPeriodic", "db/dec/a25769.html#ab5feede17fa79c9d02fa459586eaca41", null ],
+    [ "CalculateAPAmount", "db/dec/a25769.html#af2b1da799f1b3c0373dc6782dabbf89c", null ],
+    [ "CalculateResistanceAmount", "db/dec/a25769.html#a51828f07b0e099c5931161f7aeebaab7", null ],
+    [ "CalculateSPAmount", "db/dec/a25769.html#a255ed8f5158e715313e44b13f30b099f", null ],
+    [ "CalculateStatAmount", "db/dec/a25769.html#ade1b7256d19b526a7f4b1520f6b2f663", null ],
+    [ "HandlePeriodic", "db/dec/a25769.html#a136c8cedca7630543b8937e77571ead1", null ],
+    [ "PrepareAuraScript", "db/dec/a25769.html#a638a2544d9216bec90c433100c0663a0", null ],
+    [ "Register", "db/dec/a25769.html#a55605257006d8218250932357f325bb8", null ]
 ];

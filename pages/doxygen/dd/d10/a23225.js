@@ -1,6 +1,7 @@
 var a23225 =
 [
-    [ "OnPeriodic", "dd/d10/a23225.html#a769d30c78e4feaa9cc0c581af5264c02", null ],
-    [ "PrepareAuraScript", "dd/d10/a23225.html#a076e4b548de5cad64b7d81ddd8c5194f", null ],
-    [ "Register", "dd/d10/a23225.html#af1c2b7baf0ff7164cafab8f1a53bbb18", null ]
+    [ "PrepareAuraScript", "dd/d10/a23225.html#a30ec063aa1ddbc3a32066e1f868bf742", null ],
+    [ "Register", "dd/d10/a23225.html#a1e62c60bfc2b72811950b627ce1202c3", null ],
+    [ "Update", "dd/d10/a23225.html#a3f98767367564734c9877d1870aac31b", null ],
+    [ "Validate", "dd/d10/a23225.html#a450460769e0e54e06f1b64b3c63ba0de", null ]
 ];

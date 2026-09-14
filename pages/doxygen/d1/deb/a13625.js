@@ -1,8 +1,11 @@
 var a13625 =
 [
-    [ "CalcPeriodic", "d1/deb/a13625.html#a9aaca3bb1d762c9bddf3b91205f48d00", null ],
-    [ "HandleDummyTick", "d1/deb/a13625.html#acd3616df94f888ad5fb1c5b0607f6f25", null ],
-    [ "HandleUpdatePeriodic", "d1/deb/a13625.html#a70ef86fd58eec1422bac6b61a4123842", null ],
-    [ "PrepareAuraScript", "d1/deb/a13625.html#a9a97a6ab249728dbad4d3603640a7963", null ],
-    [ "Register", "d1/deb/a13625.html#ab6b223ed68a521ea9a3cbc2a6e21ac49", null ]
+    [ "npc_scholomance_occultistAI", "d1/deb/a13625.html#af78103d07aef427130d26b4aed5e5ae3", null ],
+    [ "JustEngagedWith", "d1/deb/a13625.html#a03f0f6d015065c5afcf025dc44dc6aa8", null ],
+    [ "JustReachedHome", "d1/deb/a13625.html#ac4bb0aa4009191a36dd4cebb45fd2ad5", null ],
+    [ "SelectUnitCasting", "d1/deb/a13625.html#adde187b89a74a57aac823e4eb19bfeed", null ],
+    [ "UpdateAI", "d1/deb/a13625.html#ab02edf780adb553b2314045d8effa277", null ],
+    [ "events", "d1/deb/a13625.html#a1ee55a572462a1e832a5b89c8906bd87", null ],
+    [ "instance", "d1/deb/a13625.html#a195fe4d681580c17086a5390fd4f82ba", null ],
+    [ "originalDisplayId", "d1/deb/a13625.html#a4dcc895fef36cd1e9ca8cf38bdc2f6c4", null ]
 ];

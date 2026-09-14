@@ -1,6 +1,8 @@
 var a24045 =
 [
-    [ "npc_deaths_fel_cannonAI", "db/de2/a24049.html", "db/de2/a24049" ],
-    [ "npc_deaths_fel_cannon", "d4/d16/a24045.html#a87ecaca75061928600b5114d3913dd26", null ],
-    [ "GetAI", "d4/d16/a24045.html#a4cf91cd1f28637f359e06bccd30e0338", null ]
+    [ "boss_void_reaver", "d4/d16/a24045.html#aa6373ef5b27255eca4d85345ae5fa729", null ],
+    [ "JustDied", "d4/d16/a24045.html#a49e6f52b11177bdac07adff92c2675f5", null ],
+    [ "JustEngagedWith", "d4/d16/a24045.html#a9260d05e11f4dec6fc25432a0524706b", null ],
+    [ "KilledUnit", "d4/d16/a24045.html#adc234fc43308771a42d99049876cad1b", null ],
+    [ "Reset", "d4/d16/a24045.html#a02c36ea960de24991f879943991a93c6", null ]
 ];

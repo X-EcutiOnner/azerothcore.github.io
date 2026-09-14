@@ -1,6 +1,8 @@
 var a21137 =
 [
-    [ "OnRemove", "d3/dcc/a21137.html#a3cac25c6136b5dce491b24b7fb0ed33a", null ],
-    [ "PrepareAuraScript", "d3/dcc/a21137.html#a2afc759693aa4dfbd0ac33b1b770e995", null ],
-    [ "Register", "d3/dcc/a21137.html#a8fbcf904caf526f37d4a7984791d9fd0", null ]
+    [ "FilterTargets", "d3/dcc/a21137.html#a3d92ca79a15efaff3c4dd28f0c7ede2c", null ],
+    [ "HandleDummyEffect", "d3/dcc/a21137.html#afbf3aab6724d12426ab0197fb9459562", null ],
+    [ "PrepareSpellScript", "d3/dcc/a21137.html#a7ec441904bc100c6b15ee219617489ff", null ],
+    [ "Register", "d3/dcc/a21137.html#a2796cc02d7c029f3f99264162a19e1d2", null ],
+    [ "Validate", "d3/dcc/a21137.html#a85388adbc15d449e687f9f463cce3833", null ]
 ];

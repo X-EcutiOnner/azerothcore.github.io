@@ -1,9 +1,26 @@
 var a10925 =
 [
-    [ "fX", "d5/d93/a10925.html#a53aeb6e82eea1dc4a4e5d8e99dfd3fc5", null ],
-    [ "fY", "d5/d93/a10925.html#a9b158e247014eec0d35e465ab9469ac7", null ],
-    [ "fZ", "d5/d93/a10925.html#a2e02f9738393aeb8cd62ac26dda8fc10", null ],
-    [ "uiCreatureEntry", "d5/d93/a10925.html#ac31436c40bd0bf375635e2ea604fbf61", null ],
-    [ "uiPointId", "d5/d93/a10925.html#acb4d9697a24d5c29deacdefe8eb0e267", null ],
-    [ "uiWaitTime", "d5/d93/a10925.html#a305620aad71152c1139a88dea05a1887", null ]
+    [ "UnitScript", "d5/d93/a10925.html#a08bf5c84f5d4044a7b64406fb79071dd", null ],
+    [ "CanSetPhaseMask", "d5/d93/a10925.html#a95d2e7dd7074494fdd4f530f9684c1bf", null ],
+    [ "DealDamage", "d5/d93/a10925.html#a4b161e889eee3572a41c33a144d12cdf", null ],
+    [ "IfNormalReaction", "d5/d93/a10925.html#a355d024283b4ce02a2fdcf551c75c3b2", null ],
+    [ "IsCustomBuildValuesUpdate", "d5/d93/a10925.html#a1859b5ca0970c3a358a4ba0207f281de", null ],
+    [ "ModifyHealReceived", "d5/d93/a10925.html#ac2f40d7ca52538ae874f60a7acbf443b", null ],
+    [ "ModifyMeleeDamage", "d5/d93/a10925.html#acde1701dd3d6207da2e76d7d1753f9c7", null ],
+    [ "ModifyPeriodicDamageAurasTick", "d5/d93/a10925.html#ae0703adbc70a14443c0370de77e95190", null ],
+    [ "ModifySpellDamageTaken", "d5/d93/a10925.html#a375db3302ef33bcc5c874b0b53bbc345", null ],
+    [ "OnAuraApply", "d5/d93/a10925.html#a334ac1a9d8e29aa064d3625d59c7a167", null ],
+    [ "OnAuraRemove", "d5/d93/a10925.html#a2ed2cf6d9725ae342adfada023538a28", null ],
+    [ "OnBeforeRollMeleeOutcomeAgainst", "d5/d93/a10925.html#a627a99cd078d2cbd52519874f0bd0aff", null ],
+    [ "OnDamage", "d5/d93/a10925.html#a5541573db45b4404ae0b613251ad1a13", null ],
+    [ "OnDisplayIdChange", "d5/d93/a10925.html#a43cd3dd2e6cd311b1045b8f5d7d6ac83", null ],
+    [ "OnHeal", "d5/d93/a10925.html#adcdc8430e14bccfe399a7e1a3edd2b69", null ],
+    [ "OnPatchValuesUpdate", "d5/d93/a10925.html#a0a751a8fb5c99375b667214915822e96", null ],
+    [ "OnUnitDeath", "d5/d93/a10925.html#a7bb5f4ea3ae8edb55df455648863d93f", null ],
+    [ "OnUnitEnterCombat", "d5/d93/a10925.html#a8d04617af120a1e23ad57a45440744bb", null ],
+    [ "OnUnitEnterEvadeMode", "d5/d93/a10925.html#a9df6f81297f53007f1227778466e912f", null ],
+    [ "OnUnitExitCombat", "d5/d93/a10925.html#a2137be3b52311693b6feda345cb3c7f7", null ],
+    [ "OnUnitSetShapeshiftForm", "d5/d93/a10925.html#acacf12c000646710abf931429a0852c0", null ],
+    [ "OnUnitUpdate", "d5/d93/a10925.html#a36e7ba9d74892f59d0a36b76e78f4f80", null ],
+    [ "ShouldTrackValuesUpdatePosByIndex", "d5/d93/a10925.html#a7b74be81d24bc7265d5566d67d044aad", null ]
 ];

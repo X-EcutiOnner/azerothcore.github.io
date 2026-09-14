@@ -1,8 +1,7 @@
 var a13897 =
 [
-    [ "HandleApply", "d2/d36/a13897.html#a717e3428afd59fa3a5e9916887d88273", null ],
-    [ "HandleRemove", "d2/d36/a13897.html#ae389028340dc25ee0260ed3e9f1d5ceb", null ],
-    [ "PrepareAuraScript", "d2/d36/a13897.html#a58e6bae0c4c203c704cfa6cfdd6d560f", null ],
-    [ "Register", "d2/d36/a13897.html#ac2ba66696c791d47c7c485aec6028f0b", null ],
-    [ "Validate", "d2/d36/a13897.html#a393a46618a4e1928b8149e04b4823726", null ]
+    [ "HandleSchoolDamage", "d2/d36/a13897.html#a4fee3e37f347d1dcfa84c1dc0454c9fa", null ],
+    [ "PrepareSpellScript", "d2/d36/a13897.html#a8063f3d669e07dc0768607feb9a2f763", null ],
+    [ "Register", "d2/d36/a13897.html#a83aad24c7111d1f68196fcb9765dcd97", null ],
+    [ "Validate", "d2/d36/a13897.html#af90ae09274b0082bd8bd674ca43596f6", null ]
 ];

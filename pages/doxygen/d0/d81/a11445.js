@@ -1,6 +1,7 @@
 var a11445 =
 [
-    [ "UITime", "d0/d81/a11445.html#a24311ce7df9e9a0f40a3c5473cef34b3", null ],
-    [ "Write", "d0/d81/a11445.html#ab24cdd76abd5914c3a30ee42c7681855", null ],
-    [ "Time", "d0/d81/a11445.html#ac4ad6c7c425167e90fd2497f7ebaec4c", null ]
+    [ "PlayMusic", "d0/d81/a11445.html#afee4b7ae9ac5f4f2b7365d3d00e7b581", null ],
+    [ "PlayMusic", "d0/d81/a11445.html#ad3d833f70de5937365c2351aa5206bbf", null ],
+    [ "Write", "d0/d81/a11445.html#ad01a67d76fe9dff269eac9108a27c75a", null ],
+    [ "SoundKitID", "d0/d81/a11445.html#ad2342dd0c1461283c595af29c3bc9fe6", null ]
 ];

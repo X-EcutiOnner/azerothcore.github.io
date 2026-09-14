@@ -1,8 +1,9 @@
 var a09829 =
 [
-    [ "AnyAssistCreatureInRangeCheck", "da/dd8/a09829.html#a2e9cbff4e627fe8ccf67997123afe0a6", null ],
-    [ "operator()", "da/dd8/a09829.html#a314a4800047f7e661cd011010b3f148e", null ],
-    [ "i_enemy", "da/dd8/a09829.html#a37318ae783e6cf4a658063aab149e8a3", null ],
-    [ "i_funit", "da/dd8/a09829.html#add1071091d1696c3f537483810dcb6f1", null ],
-    [ "i_range", "da/dd8/a09829.html#a4bcf67be5bae4649d82586349d30be04", null ]
+    [ "AnyFriendlyUnitInObjectRangeCheck", "da/dd8/a09829.html#a4ed3a469f35cb7b64ad5f144281b7910", null ],
+    [ "operator()", "da/dd8/a09829.html#a6e1026191fd4b1b45696a60f45b1b7b8", null ],
+    [ "i_funit", "da/dd8/a09829.html#a9ebd1a1d9716dfda55509396947c1a83", null ],
+    [ "i_obj", "da/dd8/a09829.html#adacade7450b0af19540ea705e1bd438b", null ],
+    [ "i_playerOnly", "da/dd8/a09829.html#a6b0d852333ee74a20281ce7de5a45b98", null ],
+    [ "i_range", "da/dd8/a09829.html#a2af638499152888a698b0fc1570e46ed", null ]
 ];

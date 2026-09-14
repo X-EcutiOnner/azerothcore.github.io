@@ -1,17 +1,13 @@
 var a22645 =
 [
-    [ "OutdoorPvPSI", "d2/d2f/a22645.html#a89bf2d913b7d68ee921ef4b9aeea61e1", null ],
-    [ "FillInitialWorldStates", "d2/d2f/a22645.html#a7392eed60ec3307bdea4ed35cd859077", null ],
-    [ "HandleAreaTrigger", "d2/d2f/a22645.html#a7c6d70d7a611752456c55d13420ff840", null ],
-    [ "HandleCustomSpell", "d2/d2f/a22645.html#a10853a2f5766b6fc75044a20b281a198", null ],
-    [ "HandleDropFlag", "d2/d2f/a22645.html#a9238a5007253d84d66192bd340d8311a", null ],
-    [ "HandlePlayerEnterZone", "d2/d2f/a22645.html#ad2cabd461406a61e40411850b3d31c0c", null ],
-    [ "HandlePlayerLeaveZone", "d2/d2f/a22645.html#aa06088b1d80072577e6fc7653a214512", null ],
-    [ "SendRemoveWorldStates", "d2/d2f/a22645.html#aae7deda0662b28f6fc0e16115a65304b", null ],
-    [ "SetupOutdoorPvP", "d2/d2f/a22645.html#a401da5bef2350c4eb21b249b4f8b3e40", null ],
-    [ "Update", "d2/d2f/a22645.html#a56bda08a795a4b0cd1c52ec448920fac", null ],
-    [ "UpdateWorldState", "d2/d2f/a22645.html#a81f4362ece83f37f14471926e9a85fb3", null ],
-    [ "m_Gathered_A", "d2/d2f/a22645.html#ab532337ab7e66e1489221e3189e48bac", null ],
-    [ "m_Gathered_H", "d2/d2f/a22645.html#abcd36fe918edbbea387573bd5fab89e7", null ],
-    [ "m_LastController", "d2/d2f/a22645.html#a05c33cec2d0c1a9fe31cb3d9ba3f3c1c", null ]
+    [ "OPvPCapturePointEP_EWT", "d2/d2f/a22645.html#a3740f069c46f9d3f0e11d97663bc0104", null ],
+    [ "ChangeState", "d2/d2f/a22645.html#ac00c50b89e1218f87506778096a9d7cd", null ],
+    [ "FillInitialWorldStates", "d2/d2f/a22645.html#a7ce76f4fc8169c42f65267daf987a3b6", null ],
+    [ "HandlePlayerEnter", "d2/d2f/a22645.html#aed78ccf9ad517b4a94431e3355cba1dd", null ],
+    [ "HandlePlayerLeave", "d2/d2f/a22645.html#a2638b24dca375420778845963e307db3", null ],
+    [ "SendChangePhase", "d2/d2f/a22645.html#a6d45df918aea00e9cb85a8940cb5c1c9", null ],
+    [ "SummonSupportUnitAtNorthpassTower", "d2/d2f/a22645.html#ad70a8cc485072cd9af892290584062d8", null ],
+    [ "UpdateTowerState", "d2/d2f/a22645.html#ac0bcdfb9f2aeabc78b72c3cce674c479", null ],
+    [ "m_TowerState", "d2/d2f/a22645.html#aa30e9cc01476eb20b188c7a13a405c3a", null ],
+    [ "m_UnitsSummonedSideId", "d2/d2f/a22645.html#a0319f0d51624df44419976e7abd1b813", null ]
 ];

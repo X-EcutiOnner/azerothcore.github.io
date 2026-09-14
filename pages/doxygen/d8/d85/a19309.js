@@ -1,8 +1,7 @@
 var a19309 =
 [
-    [ "Class", "d8/d85/a19309.html#a095390e9023609f5836c4481ed79e1af", null ],
-    [ "cooldown_ms", "d8/d85/a19309.html#acfcb10f019ebaf4d2130bcdbc059c7e7", null ],
-    [ "id", "d8/d85/a19309.html#ae9fdf89271339b93f306c4aa0871f844", null ],
-    [ "range", "d8/d85/a19309.html#aad126da206abceb6a66dcda1cbd3b28b", null ],
-    [ "targetType", "d8/d85/a19309.html#ae5fc8cb423536f631591d3b72bfd06dd", null ]
+    [ "HandleEffectPeriodic", "d8/d85/a19309.html#a208c4d59e20cd802cf2f4643fa0d6253", null ],
+    [ "PrepareAuraScript", "d8/d85/a19309.html#af1d284c4686f739b02b350a6c0a166c2", null ],
+    [ "Register", "d8/d85/a19309.html#a006a97823ac07346771ec4ab61bd0763", null ],
+    [ "Validate", "d8/d85/a19309.html#ae1f5555dcadb48ba59bf9571073f4a99", null ]
 ];

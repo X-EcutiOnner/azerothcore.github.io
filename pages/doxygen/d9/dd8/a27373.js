@@ -1,10 +1,9 @@
 var a27373 =
 [
-    [ "Absorb", "d9/dd8/a27373.html#aedee311aa77597674b3665eaf74e98c8", null ],
-    [ "CalculateAmount", "d9/dd8/a27373.html#a5fdabb367ab86589d733d1da906446ab", null ],
-    [ "Load", "d9/dd8/a27373.html#a7418b17f23b9eeacceb0970df3cb1d99", null ],
-    [ "PrepareAuraScript", "d9/dd8/a27373.html#a1de52fae7a5ed3eeeb46be11eb2eac21", null ],
-    [ "Register", "d9/dd8/a27373.html#abfc540163e9eb34cbf8a48d39bede840", null ],
-    [ "Validate", "d9/dd8/a27373.html#a6cca564b6d13063ce7cd72ed8b6adf67", null ],
-    [ "absorbChance", "d9/dd8/a27373.html#a293be81af42d810126eda35b1d27e3bc", null ]
+    [ "HandleKnockBack", "d9/dd8/a27373.html#acaa8f445874270f34ea5b42a506671db", null ],
+    [ "HandleScript", "d9/dd8/a27373.html#a29e47298601cb55c5442a3fa59bb3646", null ],
+    [ "Load", "d9/dd8/a27373.html#a45700aba665b601b2c860af5a869d1af", null ],
+    [ "PrepareSpellScript", "d9/dd8/a27373.html#aad1c175a2611152278d847ac59f93090", null ],
+    [ "Register", "d9/dd8/a27373.html#ad790d435f422fabd128e601fb2dff103", null ],
+    [ "Validate", "d9/dd8/a27373.html#a889a129ddc3ea6fcd7f440fc7c163e08", null ]
 ];

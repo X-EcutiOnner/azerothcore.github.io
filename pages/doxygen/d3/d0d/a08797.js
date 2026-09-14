@@ -1,9 +1,7 @@
 var a08797 =
 [
-    [ "Reset", "d3/d0d/a08797.html#a9c210ff536b49481f71bc6c3f60ee864", null ],
-    [ "guid", "d3/d0d/a08797.html#ac115013e34f67bc1444fef4fc96c843e", null ],
-    [ "pos", "d3/d0d/a08797.html#adff317cbf0c2d159d8ffddf52b4751b3", null ],
-    [ "seat", "d3/d0d/a08797.html#ad57bea2ae3beb6a086a116989b0d528f", null ],
-    [ "time", "d3/d0d/a08797.html#acec3991f0d19fd9f72e9837eef516057", null ],
-    [ "time2", "d3/d0d/a08797.html#a426c651d2f359847b033a4d7f278a191", null ]
+    [ "EnchStoreItem", "d3/d0d/a08797.html#a89019e156774c5b978251479264e5463", null ],
+    [ "EnchStoreItem", "d3/d0d/a08797.html#aca83bb20eb6153faeaf599b07b97e357", null ],
+    [ "chance", "d3/d0d/a08797.html#a2d3d0cd28c79402b3625694d4676ed8b", null ],
+    [ "ench", "d3/d0d/a08797.html#ac2346b6c6c5c09bb63676d72c798d848", null ]
 ];

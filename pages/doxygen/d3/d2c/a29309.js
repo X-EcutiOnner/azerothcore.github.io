@@ -1,7 +1,4 @@
 var a29309 =
 [
-    [ "AllocationPct", "d3/d2c/a29309.html#a45d752dfd00a75f69d919a88573ba4fc", null ],
-    [ "Enchantment", "d3/d2c/a29309.html#a45e694082c1dbdeef5229561f617d584", null ],
-    [ "ID", "d3/d2c/a29309.html#a66d78860d81c497765b5e68b5fd2ae18", null ],
-    [ "Name", "d3/d2c/a29309.html#a3ee4d8152817e10b873de5ec36ba062b", null ]
+    [ "ratio", "d3/d2c/a29309.html#abd6f48f1ad2826ae1c3c782337bac618", null ]
 ];

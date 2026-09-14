@@ -1,6 +1,8 @@
 var a12745 =
 [
-    [ "boss_hedrum", "dd/d5d/a12745.html#adf610c943b7644aa2805934f54571492", null ],
-    [ "JustEngagedWith", "dd/d5d/a12745.html#a18dd15e991417b68569b5a0e93499c0f", null ],
-    [ "UpdateAI", "dd/d5d/a12745.html#a4af57f4f6d8bdaf1017788f343b5439d", null ]
+    [ "brd_ironhand_guardian", "dd/d5d/a12745.html#a635a59a53948b6e252a15384d784a969", null ],
+    [ "SetData", "dd/d5d/a12745.html#a7677681c4d39ed73f4143caa66a1a5de", null ],
+    [ "UpdateAI", "dd/d5d/a12745.html#a8840ead9b577888ec2ac15d68ddffe71", null ],
+    [ "_flamesEnabled", "dd/d5d/a12745.html#a1b162039fc21a7eddddd22ed9c97e9cb", null ],
+    [ "events", "dd/d5d/a12745.html#a01047164b0728cb6d08a7f41cf092a58", null ]
 ];

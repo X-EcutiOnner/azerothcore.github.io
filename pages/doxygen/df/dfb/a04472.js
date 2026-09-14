@@ -1,12 +1,23 @@
 var a04472 =
 [
-    [ "SpellProcSpellTypeMaskTest", "d9/d73/a30073.html", "d9/d73/a30073" ],
-    [ "TEST_F", "df/dfb/a04472.html#a0e299f1164a6c1e0f315da2c5551e58a", null ],
-    [ "TEST_F", "df/dfb/a04472.html#ae1ae997d3f0f1ba7825ae4b2e5436d44", null ],
-    [ "TEST_F", "df/dfb/a04472.html#a7a5da3689f4cd8516f8998a3eb8516f1", null ],
-    [ "TEST_F", "df/dfb/a04472.html#a0b4b6b9b08a21068764a01b658ede70d", null ],
-    [ "TEST_F", "df/dfb/a04472.html#abd75b3776c8e55bbc898c408aad3f34d", null ],
-    [ "TEST_F", "df/dfb/a04472.html#ab03489d280d80145880f52bc0a09c584", null ],
-    [ "TEST_F", "df/dfb/a04472.html#a6ae8c3849f8042eeff0379c4ea6d2adc", null ],
-    [ "TEST_F", "df/dfb/a04472.html#a790970fbe1cfb4df4e5ba38abf4c9bae", null ]
+    [ "SpellProcPipelineTest", "d7/d00/a30129.html", "d7/d00/a30129" ],
+    [ "TEST_F", "df/dfb/a04472.html#a84713952083e2b524a32cefc480858ee", null ],
+    [ "TEST_F", "df/dfb/a04472.html#a1e85b9df4ec0b3f7d770137f7b1184ec", null ],
+    [ "TEST_F", "df/dfb/a04472.html#aa109507c0c4b2235951bbd288277f13c", null ],
+    [ "TEST_F", "df/dfb/a04472.html#a485ca0c9676a25a6fd8b861c804696d7", null ],
+    [ "TEST_F", "df/dfb/a04472.html#aa5e23f21d78acf55b11a3edfe0017068", null ],
+    [ "TEST_F", "df/dfb/a04472.html#a9b3f0e79a13fd923e704d971188beabf", null ],
+    [ "TEST_F", "df/dfb/a04472.html#abc9d5b5417f7a9db72bc69a6dee8991c", null ],
+    [ "TEST_F", "df/dfb/a04472.html#ad9d5ae60773ca5e0adec858f943d6219", null ],
+    [ "TEST_F", "df/dfb/a04472.html#af1b16c6116add0a4321bbeea7a241688", null ],
+    [ "TEST_F", "df/dfb/a04472.html#a19a74f2d1aaf27d22fa48f02d6b2d5f9", null ],
+    [ "TEST_F", "df/dfb/a04472.html#a35e27540c06c06c8f59ef51bb1a9d42e", null ],
+    [ "TEST_F", "df/dfb/a04472.html#a96cc3a634c4f6bcce6debcc6e36f4d25", null ],
+    [ "TEST_F", "df/dfb/a04472.html#a5cf9d910c9243364707c2f1dedd0582d", null ],
+    [ "TEST_F", "df/dfb/a04472.html#ad2fb2ff6f41f7e7771cb74d49a945a2f", null ],
+    [ "TEST_F", "df/dfb/a04472.html#a7bda89f7f74cbe336b48303ff1b672b1", null ],
+    [ "TEST_F", "df/dfb/a04472.html#a121e660142edeb8b8867984871635142", null ],
+    [ "TEST_F", "df/dfb/a04472.html#a4aea6e742bac43dda127936d36b603a8", null ],
+    [ "TEST_F", "df/dfb/a04472.html#aee6d5257c9330329d3161f0da69ff4b7", null ],
+    [ "TEST_F", "df/dfb/a04472.html#abe1d49b795fc6def60b42b113cec4b6f", null ]
 ];

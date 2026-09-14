@@ -1,6 +1,10 @@
 var a20049 =
 [
-    [ "boss_sjonnir_iron_sludgeAI", "df/d53/a20053.html", "df/d53/a20053" ],
-    [ "boss_sjonnir_iron_sludge", "d8/de9/a20049.html#ae1c523266aab3e8e2c337dede7390c7b", null ],
-    [ "GetAI", "d8/de9/a20049.html#a2d077bfeac6479d83240ee00ca5aa0e0", null ]
+    [ "npc_molten_golem", "d8/de9/a20049.html#a38350948396b7df97837780531f79515", null ],
+    [ "DamageTaken", "d8/de9/a20049.html#aa3521246b0c2bed18b5466879ec1d107", null ],
+    [ "DoAction", "d8/de9/a20049.html#a1936beed47707f2f0e560d7d3b3440ba", null ],
+    [ "Reset", "d8/de9/a20049.html#a24e23d0959bcda5be05786381a35ac77", null ],
+    [ "UpdateAI", "d8/de9/a20049.html#ac62f71bc6b3fa8ab6c1a5fc73915d64e", null ],
+    [ "events", "d8/de9/a20049.html#a2a552e27aca0e188a4d5ae46f639cbef", null ],
+    [ "m_pInstance", "d8/de9/a20049.html#af46ccffa6a7fcf3cbee893eba6435159", null ]
 ];

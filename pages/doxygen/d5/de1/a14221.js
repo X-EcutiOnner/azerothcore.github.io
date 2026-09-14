@@ -1,8 +1,8 @@
 var a14221 =
 [
-    [ "HandleHit", "d5/de1/a14221.html#a6a2811ee701a254e2857ae5923ec9f5f", null ],
-    [ "PrepareSpellScript", "d5/de1/a14221.html#a53f170244b390f7035e131fb5c79cb3f", null ],
-    [ "Register", "d5/de1/a14221.html#a248124b837cf71f7d422154db4581747", null ],
-    [ "Validate", "d5/de1/a14221.html#a3061dcd7b831a13b1d270732d0ee8a7e", null ],
-    [ "_emote", "d5/de1/a14221.html#a43e28dbdfcd034a2a08f6d57171462ee", null ]
+    [ "npc_dkc1_gothik", "d5/de1/a14221.html#ac55410228faf60379873234d7322c488", null ],
+    [ "DoAction", "d5/de1/a14221.html#aba7e9c3326400012162402d3ead2837f", null ],
+    [ "MoveInLineOfSight", "d5/de1/a14221.html#aa409a5ecaa71388131a2be4c62d2cf85", null ],
+    [ "UpdateAI", "d5/de1/a14221.html#a7fbe2d52d179bcc8113407054befae00", null ],
+    [ "spoken", "d5/de1/a14221.html#a4ed4b960104211c61067b1e66752eb74", null ]
 ];

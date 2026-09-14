@@ -1,10 +1,7 @@
 var a05813 =
 [
-    [ "AsyncCallbackProcessor", "de/d05/a05813.html#aee6f273ab86fad749de85cd12ea32a98", null ],
-    [ "~AsyncCallbackProcessor", "de/d05/a05813.html#a0a1b8fb7112485c9461387b6effcd56b", null ],
-    [ "AsyncCallbackProcessor", "de/d05/a05813.html#af575ef04d5b2440ad3a787348e5baf9a", null ],
-    [ "AddCallback", "de/d05/a05813.html#a47ef165fe4c31f46998f69e8e16625f1", null ],
-    [ "operator=", "de/d05/a05813.html#ae95508c8bd67d6246279f37cbe6ca8d3", null ],
-    [ "ProcessReadyCallbacks", "de/d05/a05813.html#a4fce127f587a9da913a9e9061ba538e7", null ],
-    [ "_callbacks", "de/d05/a05813.html#a372d9496b9a1b3e3f718cefe50164209", null ]
+    [ "Lock", "d0/d64/a05817.html", "d0/d64/a05817" ],
+    [ "ClassLevelLockable", "de/d05/a05813.html#a507181347374b55f335a9e872293c6e0", null ],
+    [ "Lock", "de/d05/a05813.html#a5bf7608e05250fb524a1229bcf83ece3", null ],
+    [ "si_mtx", "de/d05/a05813.html#a2bcba35930178d1cd094ed1c34320997", null ]
 ];

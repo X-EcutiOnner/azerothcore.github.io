@@ -1,6 +1,8 @@
 var a23629 =
 [
-    [ "instance_blood_furnace_InstanceMapScript", "d0/d8c/a23633.html", "d0/d8c/a23633" ],
-    [ "instance_blood_furnace", "d2/d86/a23629.html#a925a045fa518e72c1eff02fe3c66202b", null ],
-    [ "GetInstanceScript", "d2/d86/a23629.html#a885ba94e1777dfd6586daca304622d3d", null ]
+    [ "ApplyStun", "d2/d86/a23629.html#a5a5b921dc45418485919e599e80f8ca8", null ],
+    [ "HandleScriptEffect", "d2/d86/a23629.html#a32619710179250a6a0b408856a888153", null ],
+    [ "PrepareSpellScript", "d2/d86/a23629.html#afb61d7dcc8ad52da4dcad3d7593f08ad", null ],
+    [ "Register", "d2/d86/a23629.html#aa753fd45caa1b515911d8fdf6fa78754", null ],
+    [ "Validate", "d2/d86/a23629.html#a66d91a87078c663903cd836344eec867", null ]
 ];

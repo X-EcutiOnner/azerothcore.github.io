@@ -1,5 +1,6 @@
 var a18217 =
 [
-    [ "at_lady_deathwhisper_entrance", "d6/db5/a18217.html#a3c16844f4ff97fd0699edb1d1aca2f60", null ],
-    [ "OnTrigger", "d6/db5/a18217.html#a769c838c94a88af5492057909d88f3de", null ]
+    [ "CheckProc", "d6/db5/a18217.html#a86e62fa26606a77284c80583e7b35d27", null ],
+    [ "PrepareAuraScript", "d6/db5/a18217.html#a2c10a09e9e5015eb4f3c66d5086dbe1a", null ],
+    [ "Register", "d6/db5/a18217.html#a6214f78c5c7eb3f60371fa12530d5991", null ]
 ];

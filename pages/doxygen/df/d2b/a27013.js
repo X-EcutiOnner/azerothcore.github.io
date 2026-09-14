@@ -1,9 +1,10 @@
 var a27013 =
 [
-    [ "CheckProcDummy", "df/d2b/a27013.html#ae4e6d0683039ca5e8ff1877248048b3b", null ],
-    [ "CheckProcTriggerSpell", "df/d2b/a27013.html#affbff48ab9421bda51b3a5781188546d", null ],
-    [ "HandleProcDummy", "df/d2b/a27013.html#a0113a45bd4c28d1769df7b675de697ed", null ],
-    [ "PrepareAuraScript", "df/d2b/a27013.html#af7d9ac7e014bbda32275bb584f5e2660", null ],
-    [ "Register", "df/d2b/a27013.html#aa575597dab0670e768e20a3a06c6dc0a", null ],
-    [ "Validate", "df/d2b/a27013.html#a63844728796945e892985720296d0c07", null ]
+    [ "CalculateAmount", "df/d2b/a27013.html#a5d4549ac73b46382c1beddbb65257ad0", null ],
+    [ "CheckDropCharge", "df/d2b/a27013.html#a69bcdbce43cee47873a2ba54ff03d928", null ],
+    [ "HandleUpdateSpellclick", "df/d2b/a27013.html#a89956d7f3a6404d5b60e46034867c82c", null ],
+    [ "InitializeAmount", "df/d2b/a27013.html#a4b0656e78d748d974d6d77a43cfa7910", null ],
+    [ "PrepareAuraScript", "df/d2b/a27013.html#a7cbdc79c63306a8fcfcc06180998a290", null ],
+    [ "Register", "df/d2b/a27013.html#a2252719e6ea995b85b7b0c5ecb6a26d3", null ],
+    [ "_remainingAmount", "df/d2b/a27013.html#aa9a60ff01b89cb7c800d068e92c00ce3", null ]
 ];

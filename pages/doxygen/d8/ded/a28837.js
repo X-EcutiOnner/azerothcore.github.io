@@ -1,5 +1,6 @@
 var a28837 =
 [
-    [ "ID", "d8/ded/a28837.html#a4a79da5825cf01d38d6ab9d98e033964", null ],
-    [ "parentCategory", "d8/ded/a28837.html#a705e301dff461a8d7aefdc6fb29d39cc", null ]
+    [ "CheckCast", "d8/ded/a28837.html#a477dc7a1b91ec0d9c45f249b7b3971ab", null ],
+    [ "PrepareSpellScript", "d8/ded/a28837.html#aa3c18907c79309a8924a98bce41e27f1", null ],
+    [ "Register", "d8/ded/a28837.html#a6eac0b63b0b566b5cba5def85748ace3", null ]
 ];

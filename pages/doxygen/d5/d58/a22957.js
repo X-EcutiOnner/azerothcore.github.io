@@ -1,8 +1,7 @@
 var a22957 =
 [
-    [ "boss_mother_shahraz", "d5/d58/a22957.html#adba94363f74975301472d79f24894df8", null ],
-    [ "JustDied", "d5/d58/a22957.html#ab69d81acde4e6e2a3f6adb032090b958", null ],
-    [ "JustEngagedWith", "d5/d58/a22957.html#a021c702e7eff266308fee8a4220a6ec7", null ],
-    [ "KilledUnit", "d5/d58/a22957.html#a81ed314ae9737c0989b62c27c9ce4cc9", null ],
-    [ "Reset", "d5/d58/a22957.html#ab9e4162ac92e786b84b6497c37251386", null ]
+    [ "HandleDummy", "d5/d58/a22957.html#adb4e8218eb498d430ececfa357bc1d8a", null ],
+    [ "PrepareSpellScript", "d5/d58/a22957.html#a85f582794bf8ca2c80add8d9fe35f9f5", null ],
+    [ "Register", "d5/d58/a22957.html#af5926d8570de13e66aa1870184620b94", null ],
+    [ "Validate", "d5/d58/a22957.html#aa2839c6dba3d0c6ecfeb19f5ff3a39d2", null ]
 ];

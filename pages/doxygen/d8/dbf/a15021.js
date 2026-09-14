@@ -1,5 +1,8 @@
 var a15021 =
 [
-    [ "PrepareSpellScript", "d8/dbf/a15021.html#aa5593d0da0fe9cb1cb22cb2ccab18e05", null ],
-    [ "Register", "d8/dbf/a15021.html#a99f7d0be5668d5b005400140fc9865a4", null ]
+    [ "npc_love_in_air_snivel_real", "d8/dbf/a15021.html#a9f5b36d35ced9eb27375ca13fcfbc55d", null ],
+    [ "Talk", "d8/dbf/a15021.html#a0b5cc8dd6bdf7c4fbd7b7aa2ba02b028", null ],
+    [ "UpdateAI", "d8/dbf/a15021.html#a22ed25da8fe3441ef0e4183390983f40", null ],
+    [ "actionCounter", "d8/dbf/a15021.html#ab1685b1ee34c81c689af3c3466b185f0", null ],
+    [ "actionTimer", "d8/dbf/a15021.html#a3bbee1ff355581772b337268775b8fbc", null ]
 ];

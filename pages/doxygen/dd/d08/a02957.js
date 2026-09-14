@@ -1,6 +1,6 @@
 var a02957 =
 [
-    [ "fireworkShowGameobjectShattrath", "dd/d08/a02957.html#a2a4be2c9e5e5d0d215bc1bf7e3ea592c", null ],
-    [ "fireworkShowScheduleShattrath", "dd/d08/a02957.html#ad36558abe06e5db19b60204279c4606e", null ],
-    [ "fireworkShowShattrath", "dd/d08/a02957.html#a5fcd036e2fe28c58f38d59d0ade0e4ed", null ]
+    [ "go_firework_show", "d6/dc5/a14917.html", "d6/dc5/a14917" ],
+    [ "AddSC_event_firework_show_scripts", "dd/d08/a02957.html#af7a6296c13b6615a14e0823fe7e5b577", null ],
+    [ "FireworkShowStore", "dd/d08/a02957.html#a7e7f0c2a7b605ff7a9a4fb3302ed279e", null ]
 ];

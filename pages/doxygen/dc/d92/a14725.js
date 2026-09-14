@@ -1,6 +1,6 @@
 var a14725 =
 [
-    [ "HandleEffectRemove", "dc/d92/a14725.html#a8d5d43ae12fb6d65029008eadd56973a", null ],
-    [ "PrepareAuraScript", "dc/d92/a14725.html#abe527a7a4fda32c833f4762e82e2bd3d", null ],
-    [ "Register", "dc/d92/a14725.html#aa436788f638fedacb217ca508da5f426", null ]
+    [ "boss_wushoolayAI", "de/d9f/a14729.html", "de/d9f/a14729" ],
+    [ "boss_wushoolay", "dc/d92/a14725.html#a68359ee086bb4e86c3c16c4a03e54893", null ],
+    [ "GetAI", "dc/d92/a14725.html#a70b476358956fd05d6effb75517e2b3d", null ]
 ];

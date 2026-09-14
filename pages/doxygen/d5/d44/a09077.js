@@ -1,24 +1,10 @@
 var a09077 =
 [
-    [ "Totem", "d5/d44/a09077.html#a556c9121978cad2d780ef0c1ba63c28a", null ],
-    [ "~Totem", "d5/d44/a09077.html#a7c7376e438a14b5561049f82650c62c5", null ],
-    [ "GetSpell", "d5/d44/a09077.html#a1454ef318166d69bee1eddcaec73604a", null ],
-    [ "GetTotemDuration", "d5/d44/a09077.html#a588f187bbf8aa0e16b45974610ec593b", null ],
-    [ "GetTotemType", "d5/d44/a09077.html#aa1c94dfcaee2deaef2786e2f4f63b837", null ],
-    [ "InitStats", "d5/d44/a09077.html#a4661c91b5123862fc44e7a290cf70d1f", null ],
-    [ "InitSummon", "d5/d44/a09077.html#aaf87ce98ed8bfc42072228c9e39bfdf6", null ],
-    [ "IsImmunedToSpellEffect", "d5/d44/a09077.html#a195c04199c99dadea710d96a3d91b01c", null ],
-    [ "SetTotemDuration", "d5/d44/a09077.html#aced4f5c6ff70852083c23fb32cd50a7f", null ],
-    [ "UnSummon", "d5/d44/a09077.html#ab127e1cc25ef8878b9a44cb0eb080523", null ],
-    [ "Update", "d5/d44/a09077.html#aa44d1386a44ade821cc6dfe5caee9b90", null ],
-    [ "UpdateAllStats", "d5/d44/a09077.html#a515d54b852bbedf597f9f69cb7c0982b", null ],
-    [ "UpdateArmor", "d5/d44/a09077.html#a0b587243be09d58f5693570933680bff", null ],
-    [ "UpdateAttackPowerAndDamage", "d5/d44/a09077.html#a8a18cacf85203a6918dcdbe19fcde850", null ],
-    [ "UpdateDamagePhysical", "d5/d44/a09077.html#afbef34893575beb29356634a140bce62", null ],
-    [ "UpdateMaxHealth", "d5/d44/a09077.html#a01f507b7699f92e90b5601280408ba76", null ],
-    [ "UpdateMaxPower", "d5/d44/a09077.html#af0a51bf3565114ba84fd8fcad93170ad", null ],
-    [ "UpdateResistances", "d5/d44/a09077.html#aa65b8427a4cd938312ac4d9d4ab54f69", null ],
-    [ "UpdateStats", "d5/d44/a09077.html#a9c417b6be9a58cda23250067f6cadbcc", null ],
-    [ "m_duration", "d5/d44/a09077.html#a0bff976b49617405869ac7f2416e0ca1", null ],
-    [ "m_type", "d5/d44/a09077.html#a7e31af10f1ff0e854941e3a44254d139", null ]
+    [ "TradeStatusInfo", "d5/d44/a09077.html#ae0dff14036e00d3c62c181fcc306faf2", null ],
+    [ "IsTargetResult", "d5/d44/a09077.html#a10427d72e5bafd643648638a1fe7e854", null ],
+    [ "ItemLimitedByLimitCategory", "d5/d44/a09077.html#ad6b7e2f6d974b06388d1f30f82d207e8", null ],
+    [ "Result", "d5/d44/a09077.html#ac90552353a0fb8ff175fec99bf573981", null ],
+    [ "Slot", "d5/d44/a09077.html#a3fcb84e08ecdfccaef6bc396c8c4eb2a", null ],
+    [ "Status", "d5/d44/a09077.html#a265172d89cdc4c6fc4df20ad5df45c64", null ],
+    [ "TraderGuid", "d5/d44/a09077.html#afc3926b9ff7dda3eb3505b225b74409d", null ]
 ];

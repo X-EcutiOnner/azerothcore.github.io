@@ -1,7 +1,6 @@
 var a19017 =
 [
-    [ "FrostwingVrykulSearcher", "db/df9/a19017.html#a10aa54184b42a0538dc4f325204399e9", null ],
-    [ "operator()", "db/df9/a19017.html#afbf32ce600cee12930fefcf9b5e87f16", null ],
-    [ "_range", "db/df9/a19017.html#a04b2913aae7fbf6547a960d0876d4d02", null ],
-    [ "_source", "db/df9/a19017.html#af5d3c93f41698e71c867336d0453d40a", null ]
+    [ "npc_blistering_zombieAI", "de/de5/a19021.html", "de/de5/a19021" ],
+    [ "npc_blistering_zombie", "db/df9/a19017.html#aade4afec51e5ee77df8a39cff83e1f44", null ],
+    [ "GetAI", "db/df9/a19017.html#a08ef7c13b1755ac665507cd8397a2f93", null ]
 ];

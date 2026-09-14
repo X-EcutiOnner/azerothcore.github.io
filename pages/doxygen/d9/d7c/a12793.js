@@ -1,8 +1,7 @@
 var a12793 =
 [
-    [ "CheckProc", "d9/d7c/a12793.html#a08e84f2b2ff25ed7e260e61251f9cdb9", null ],
-    [ "HandleProc", "d9/d7c/a12793.html#afd3d4786f739566056b69390553d9c71", null ],
-    [ "PrepareAuraScript", "d9/d7c/a12793.html#a3ba84d4fd311a91efa685980ffec8d77", null ],
-    [ "Register", "d9/d7c/a12793.html#aa36a2e10a6fd67fa74d08e20dc806744", null ],
-    [ "Validate", "d9/d7c/a12793.html#aeff8b89300bb5d3589a46a4f66cfd77d", null ]
+    [ "boss_gorosh_the_dervish", "d9/d7c/a12793.html#a49b79326e3eae3f42be4955f30982ffe", null ],
+    [ "JustEngagedWith", "d9/d7c/a12793.html#ad3b7ab3db30d16549cd85c471bbb190b", null ],
+    [ "UpdateAI", "d9/d7c/a12793.html#adf24561c335f1023f44f76709e66bc83", null ],
+    [ "nextWhirlwindTime", "d9/d7c/a12793.html#a61b57a2db3d097a0da74a502fb272339", null ]
 ];

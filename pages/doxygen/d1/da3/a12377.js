@@ -1,9 +1,12 @@
 var a12377 =
 [
-    [ "map", "d1/da3/a12377.html#a274c6d61203c24b3c680055244e1f590", null ],
-    [ "mouth", "d1/da3/a12377.html#aa785f3badb9c898d24efdf6d42fb8a7f", null ],
-    [ "mouthGuid", "d1/da3/a12377.html#a2245c14e379c83bdd47165e829de2e41", null ],
-    [ "necropolisCount", "d1/da3/a12377.html#aec44e315616920ba8224be8c4831f5e9", null ],
-    [ "remainingNecropoli", "d1/da3/a12377.html#a3c18c61fcd44c32f9e0009479db85399", null ],
-    [ "zoneId", "d1/da3/a12377.html#a98e1490705f74627cf9e5483857f3f25", null ]
+    [ "WardenMac", "d1/da3/a12377.html#a576c0cf7a819e95c97cc0ac4e5962d6d", null ],
+    [ "~WardenMac", "d1/da3/a12377.html#a5f3832580c73a0af34fa83669a92ceab", null ],
+    [ "GetModuleForClient", "d1/da3/a12377.html#a7a31b72ea7362c70f0fc9ff6e316d80b", null ],
+    [ "HandleData", "d1/da3/a12377.html#a024be47d39641cb0e7654b0e0999e444", null ],
+    [ "HandleHashResult", "d1/da3/a12377.html#a7feb3f82b2e0efd8427d6d8bcabaf17c", null ],
+    [ "Init", "d1/da3/a12377.html#ae329d60e41b9f5af2a2c7e4983936eac", null ],
+    [ "InitializeModule", "d1/da3/a12377.html#a4fceef34e83db1a357d9eadce35efdef", null ],
+    [ "RequestChecks", "d1/da3/a12377.html#a2437a3a5650305b05fc22d312d0006da", null ],
+    [ "RequestHash", "d1/da3/a12377.html#af031f18554c5a96b4eb39371a92b9c51", null ]
 ];

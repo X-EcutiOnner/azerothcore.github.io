@@ -1,13 +1,8 @@
 var a23749 =
 [
-    [ "boss_warbringer_omrogg", "de/d70/a23749.html#a20f790595640cd41d636ad43c8837cda", null ],
-    [ "HandleHeadTalk", "de/d70/a23749.html#aaa324c065f6c2bbf75688f5910be09d1", null ],
-    [ "JustDied", "de/d70/a23749.html#a8a2abaceda580ac2ed4f1c736281828f", null ],
-    [ "JustEngagedWith", "de/d70/a23749.html#ae1710f22f8a72f661498c4fbc6d108a5", null ],
-    [ "KilledUnit", "de/d70/a23749.html#add6b54c4744be120b6b5fd53912ce1fd", null ],
-    [ "ScheduleBurningPhase", "de/d70/a23749.html#afd20a8bd1f6f083e0725d962ec747e26", null ],
-    [ "ScheduleNonBurningPhase", "de/d70/a23749.html#a176217a0767e8153d07996461ac68f60", null ],
-    [ "SetData", "de/d70/a23749.html#a4d1154d64c999316f9ae02ab76cbc870", null ],
-    [ "UpdateAI", "de/d70/a23749.html#a90369760ed0e52f1ffc6d3e7c4e39ec2", null ],
-    [ "_headTalk", "de/d70/a23749.html#ae657addceb26f4d02d734fa0790a1ae2", null ]
+    [ "npc_target_trigger", "de/d70/a23749.html#a238058ba80130c6239b7267db3247196", null ],
+    [ "Reset", "de/d70/a23749.html#ad23d465bfd78ede0a1556f2ce1742349", null ],
+    [ "UpdateAI", "de/d70/a23749.html#ab5f482e209d2d8aa5c27666d3e1934f3", null ],
+    [ "_cast", "de/d70/a23749.html#a4ec89ca960323f7ad135d5a425a82416", null ],
+    [ "_scheduler", "de/d70/a23749.html#a9b418b09e25c8f96692b4e2626339c96", null ]
 ];

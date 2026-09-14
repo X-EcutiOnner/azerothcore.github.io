@@ -1,9 +1,6 @@
 var a24133 =
 [
-    [ "npc_fel_guard_houndAI", "d3/d1c/a24133.html#af8b3a9b56e4bdf8d8b654ecccd096651", null ],
-    [ "MovementInform", "d3/d1c/a24133.html#a127a0d7b61fde64c0ced52192f438f12", null ],
-    [ "Reset", "d3/d1c/a24133.html#ab979c3602897b1148ffd5d4a81941197", null ],
-    [ "UpdateAI", "d3/d1c/a24133.html#a97a59eec672d7dfe36264d34b922d0c8", null ],
-    [ "checkTimer", "d3/d1c/a24133.html#ad22bb6efafb4396cd0137c1384240029", null ],
-    [ "helboarGUID", "d3/d1c/a24133.html#aadcf9b51dbcaa1e62b6619b89d865814", null ]
+    [ "npc_daranelleAI", "de/d44/a24137.html", "de/d44/a24137" ],
+    [ "npc_daranelle", "d3/d1c/a24133.html#a0a6e26b95d6d97821bc9e0c00b205704", null ],
+    [ "GetAI", "d3/d1c/a24133.html#ad2ba5e4dfded886acaf2f9821e15738d", null ]
 ];

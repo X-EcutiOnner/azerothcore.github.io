@@ -1,4 +1,6 @@
 var a09161 =
 [
-    [ "name", "dd/d3c/a09161.html#acda589ff9e0fdb0a813707736191d049", null ]
+    [ "spellIdImmunityPredicate", "dd/d3c/a09161.html#a04893e34d418a0649d51dfa82b559d9c", null ],
+    [ "operator()", "dd/d3c/a09161.html#ae97afff7a6b3ea5dca917d3dbb9ef818", null ],
+    [ "_type", "dd/d3c/a09161.html#a125dfe727d668b5b9820adf1f7f0e0a8", null ]
 ];

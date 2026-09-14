@@ -1,7 +1,7 @@
 var a21721 =
 [
-    [ "npc_warmage_violetstand", "dd/d70/a21721.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
-    [ "Reset", "dd/d70/a21721.html#a99015610597f43f184cc686c9fab2fa9", null ],
-    [ "UpdateAI", "dd/d70/a21721.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
-    [ "targetGUID", "dd/d70/a21721.html#a46560aa7aa90778967a79c931a81721b", null ]
+    [ "npc_valiance_keep_cannoneerAI", "dd/d70/a21721.html#a0769e975c5c7ff1cfbfa6089e3e55e3f", null ],
+    [ "Reset", "dd/d70/a21721.html#a65718076e65b68cae0a54ff4112fdb4b", null ],
+    [ "UpdateAI", "dd/d70/a21721.html#a75f16f2b028ca341db6e08536be06bfa", null ],
+    [ "uiTimer", "dd/d70/a21721.html#a0cf5f0413b1cded835252a38e272f835", null ]
 ];

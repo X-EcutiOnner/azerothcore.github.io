@@ -1,8 +1,7 @@
 var a13597 =
 [
-    [ "FilterTargets", "d6/deb/a13597.html#a4c7627dc20c4dafcee4d6faf97d3914e", null ],
-    [ "HandleScript", "d6/deb/a13597.html#aecb62c147905d0a4fe60086b8028df0b", null ],
-    [ "PrepareSpellScript", "d6/deb/a13597.html#a84ed93d5235781d9d53a47fff39d3ad2", null ],
-    [ "Register", "d6/deb/a13597.html#a2832f131d99608923ade8070e17da86d", null ],
-    [ "Validate", "d6/deb/a13597.html#a1a510f9cf49df69c5904cb79c8cdc860", null ]
+    [ "HandleScript", "d6/deb/a13597.html#a6ce169d6c1b106195f787b52ea433311", null ],
+    [ "PrepareSpellScript", "d6/deb/a13597.html#a4f71583df2193274365944e6d228247c", null ],
+    [ "Register", "d6/deb/a13597.html#aad8978dc0505d1fb80e2416f5525cbc7", null ],
+    [ "Validate", "d6/deb/a13597.html#a51025308f88001f1f66d7f68f174f325", null ]
 ];

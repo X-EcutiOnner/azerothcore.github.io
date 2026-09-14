@@ -1,7 +1,6 @@
 var a19613 =
 [
-    [ "OnPeriodic", "d6/d76/a19613.html#ae685e9d36b85af8a7e33cefbd439a2f4", null ],
-    [ "PrepareAuraScript", "d6/d76/a19613.html#a1362103840db4b3c40ef7d6b0aa5226c", null ],
-    [ "Register", "d6/d76/a19613.html#a39b03ebd7f6233f373f52e34f18dad10", null ],
-    [ "Validate", "d6/d76/a19613.html#a54cfed486827216817adb740efa6646e", null ]
+    [ "boss_kelthuzadAI", "d8/d0e/a19617.html", "d8/d0e/a19617" ],
+    [ "boss_kelthuzad", "d6/d76/a19613.html#a52b0988d0ee9e41c8a7911f2d2460442", null ],
+    [ "GetAI", "d6/d76/a19613.html#acf19b29d6c1eb0052baa7ff491f6a050", null ]
 ];

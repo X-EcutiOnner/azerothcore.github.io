@@ -1,6 +1,6 @@
 var a18841 =
 [
-    [ "npc_icc_lk_checktargetAI", "d0/dea/a18845.html", "d0/dea/a18845" ],
-    [ "npc_icc_lk_checktarget", "da/dae/a18841.html#a3a2cc943e731e472694dcb13417090da", null ],
-    [ "GetAI", "da/dae/a18841.html#a2cd9a5c7fec791ba8786cf1bb5b7c8bd", null ]
+    [ "ModDestHeight", "da/dae/a18841.html#aafab48e58a2eb18c286f71fa907e9bc8", null ],
+    [ "PrepareSpellScript", "da/dae/a18841.html#a3c84b7044f448a5596e18f72e7b2f11a", null ],
+    [ "Register", "da/dae/a18841.html#ad3900c969dfb05a61ebc750eb3425bc0", null ]
 ];

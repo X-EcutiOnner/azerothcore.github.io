@@ -1,10 +1,9 @@
 var a09029 =
 [
-    [ "TradeStatusInfo", "dc/d58/a09029.html#ae0dff14036e00d3c62c181fcc306faf2", null ],
-    [ "IsTargetResult", "dc/d58/a09029.html#a10427d72e5bafd643648638a1fe7e854", null ],
-    [ "ItemLimitedByLimitCategory", "dc/d58/a09029.html#ad6b7e2f6d974b06388d1f30f82d207e8", null ],
-    [ "Result", "dc/d58/a09029.html#ac90552353a0fb8ff175fec99bf573981", null ],
-    [ "Slot", "dc/d58/a09029.html#a3fcb84e08ecdfccaef6bc396c8c4eb2a", null ],
-    [ "Status", "dc/d58/a09029.html#a265172d89cdc4c6fc4df20ad5df45c64", null ],
-    [ "TraderGuid", "dc/d58/a09029.html#afc3926b9ff7dda3eb3505b225b74409d", null ]
+    [ "areaFlag", "dc/d58/a09029.html#ac6244004ed093c1a3d83749cbc20bfe9", null ],
+    [ "areaID", "dc/d58/a09029.html#a455a890a1d82d31873873ac497cb83b7", null ],
+    [ "x1", "dc/d58/a09029.html#a7624a89c7eac16955dbebb47f0c721d6", null ],
+    [ "x2", "dc/d58/a09029.html#aebdb021c0b9c40d624d5115b24616a12", null ],
+    [ "y1", "dc/d58/a09029.html#a04a84fe41ba2bc9996eb0bd70248222a", null ],
+    [ "y2", "dc/d58/a09029.html#a84f612cf6d1905e948c7c9a6cb870e31", null ]
 ];

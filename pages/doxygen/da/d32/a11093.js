@@ -1,5 +1,6 @@
 var a11093 =
 [
-    [ "AcceptGuildInvite", "da/d32/a11093.html#a4453fc550871082f6295d9229eef265a", null ],
-    [ "Read", "da/d32/a11093.html#a3d39b917ca2650f645ccce12cdc1a1e0", null ]
+    [ "QueryGuildInfo", "da/d32/a11093.html#a34b129b3c9fef61aa4211a9bc2783aef", null ],
+    [ "Read", "da/d32/a11093.html#a0396a58ca114706f7de91f51c5ab949d", null ],
+    [ "GuildId", "da/d32/a11093.html#ad221eecdb16233251306fff3d9801f38", null ]
 ];

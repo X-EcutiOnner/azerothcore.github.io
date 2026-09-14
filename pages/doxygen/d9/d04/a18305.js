@@ -1,6 +1,7 @@
 var a18305 =
 [
-    [ "npc_putricide_mutated_abomination", "d9/d04/a18305.html#ae8aa90f98296c10cbbb54570304892ca", null ],
-    [ "AttackStart", "d9/d04/a18305.html#a4ab01c14094f37de91591ff3a81e5c23", null ],
-    [ "UpdateAI", "d9/d04/a18305.html#a84e6eed6db698c6dfa0a2e73c30c1505", null ]
+    [ "HandleSpikes", "d9/d04/a18305.html#a012d61aacf79b9b1f5b4b5c5c81b5ed4", null ],
+    [ "PrepareSpellScript", "d9/d04/a18305.html#a6ffb6454eb4c58a1b66356814c13b659", null ],
+    [ "Register", "d9/d04/a18305.html#a893345cf191d084a0f97a8464b7d381a", null ],
+    [ "Validate", "d9/d04/a18305.html#aa6545760706d8695aefd4064c3c71c6b", null ]
 ];

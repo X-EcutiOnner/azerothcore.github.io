@@ -1,14 +1,8 @@
 var a21773 =
 [
-    [ "npc_dalaran_mageAI", "d3/dd4/a21773.html#ae896a065d2975c5f4d0a125261796215", null ],
-    [ "Initialize", "d3/dd4/a21773.html#a8ede1e1e4599f288f5a8c20c40c11236", null ],
-    [ "JustEngagedWith", "d3/dd4/a21773.html#a05e9c672ab73029c70fa3d2605b6174d", null ],
-    [ "Reset", "d3/dd4/a21773.html#adee723525f46e5476e135e3043f5feb9", null ],
-    [ "UpdateAI", "d3/dd4/a21773.html#ab3d5812e38c1fcc1c01af3fdbd27a61e", null ],
-    [ "blink_timer", "d3/dd4/a21773.html#ae888e0e5d3302e0a47b6e3d41f166c67", null ],
-    [ "blizzard_timer", "d3/dd4/a21773.html#a5da62a7ee9abf7a94c2543076d6479a6", null ],
-    [ "CoC_Timer", "d3/dd4/a21773.html#a8a86c02e2c3759ec1f64087943d37b26", null ],
-    [ "frostfire_timer", "d3/dd4/a21773.html#ab91070d41571e0070a7c92bf0694f4cc", null ],
-    [ "frostnova_timer", "d3/dd4/a21773.html#a77e9a7686cece7ee97236ce6386f82bf", null ],
-    [ "restoremana_timer", "d3/dd4/a21773.html#a33da20a649faa6ee7e61db79846ac4a7", null ]
+    [ "npc_dusk", "d3/dd4/a21773.html#ab142eb266e64af625a8a38d3234ded72", null ],
+    [ "MovementInform", "d3/dd4/a21773.html#a49cade56e631668c946edb6753172c87", null ],
+    [ "PassengerBoarded", "d3/dd4/a21773.html#aaff19f52995db17f4dab953e2e928c68", null ],
+    [ "WaypointReached", "d3/dd4/a21773.html#ac8f70426313aa6834285905e94f1d0d9", null ],
+    [ "_ejected", "d3/dd4/a21773.html#a4f749f98c178a32b211bbd38b9447607", null ]
 ];

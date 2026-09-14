@@ -1,6 +1,6 @@
 var a27769 =
 [
-    [ "HandleScriptEffect", "df/de9/a27769.html#a3f8988017d088d08df08ba8b696b552b", null ],
-    [ "PrepareSpellScript", "df/de9/a27769.html#a56f5c59c7dc8d4f8117dc64d5a5a3a0b", null ],
-    [ "Register", "df/de9/a27769.html#a4ebc3c83dd77134af2ee81a46b121d19", null ]
+    [ "PeriodicTick", "df/de9/a27769.html#a14e79a7bb4a5b11ddc74ab366e79a907", null ],
+    [ "PrepareAuraScript", "df/de9/a27769.html#a0448cdf379053396f8649946e52ce690", null ],
+    [ "Register", "df/de9/a27769.html#a2dab21ddb3c33341d560643d27042402", null ]
 ];

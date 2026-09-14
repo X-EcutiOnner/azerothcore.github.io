@@ -1,6 +1,11 @@
 var a20721 =
 [
-    [ "HandlePeriodic", "d2/de5/a20721.html#ab3f6a58bcea3fc75ccbac99cd911e7f8", null ],
-    [ "PrepareAuraScript", "d2/de5/a20721.html#a09d6fccb19df088780c5baa0ef656da7", null ],
-    [ "Register", "d2/de5/a20721.html#abbf60dac3d36d0833e6509aac83f2b49", null ]
+    [ "npc_ulduar_proximity_mine", "d2/de5/a20721.html#a4d8a6ab45b259e42d33d5114d1f7e947", null ],
+    [ "AttackStart", "d2/de5/a20721.html#ae88f3a9cb40aebb469849799e7b7c7c0", null ],
+    [ "CanAIAttack", "d2/de5/a20721.html#a18311072271a18b279c5bf21f7da2482", null ],
+    [ "MoveInLineOfSight", "d2/de5/a20721.html#a6a406f8098dac7038173f51e9f85a79b", null ],
+    [ "UpdateAI", "d2/de5/a20721.html#ad014e0aa8125ef13cfea039acfe0c76f", null ],
+    [ "_exploded", "d2/de5/a20721.html#ad1cd15a93a35f4034c0d690e8d1713ea", null ],
+    [ "_timer", "d2/de5/a20721.html#afe009de55826305826105bd29458d0eb", null ],
+    [ "_timer2", "d2/de5/a20721.html#a08afb215eeaa5e0ec4d9543bc474d392", null ]
 ];

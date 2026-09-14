@@ -1,7 +1,6 @@
 var a19117 =
 [
-    [ "npc_impaling_spearAI", "d0/d0d/a19117.html#ae8fbc36a15324b210a24a0e98357adc3", null ],
-    [ "Reset", "d0/d0d/a19117.html#a43fa8bf8f22f0635261decd8b15ed6f5", null ],
-    [ "UpdateAI", "d0/d0d/a19117.html#acb187a58b0ba256b4e003655ac36db34", null ],
-    [ "_vehicleCheckTimer", "d0/d0d/a19117.html#a264874b9f6f0609792d4b3a325e54f59", null ]
+    [ "boss_sister_svalnaAI", "d3/d93/a19121.html", "d3/d93/a19121" ],
+    [ "boss_sister_svalna", "d0/d0d/a19117.html#a233a9606db61f6ab945350e98a0929ff", null ],
+    [ "GetAI", "d0/d0d/a19117.html#a5eb89badd75104dfe1dc3e03d372adc0", null ]
 ];

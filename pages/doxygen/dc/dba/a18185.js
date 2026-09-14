@@ -1,6 +1,7 @@
 var a18185 =
 [
-    [ "npc_cult_adherentAI", "dd/d36/a18189.html", "dd/d36/a18189" ],
-    [ "npc_cult_adherent", "dc/dba/a18185.html#a74496518cf30674044a4a8a166e4c345", null ],
-    [ "GetAI", "dc/dba/a18185.html#a2bfe464c738c983b9539f9216cabd63a", null ]
+    [ "FilterTargets", "dc/dba/a18185.html#a77afd0b56c9bddd74999d5df30457b7f", null ],
+    [ "HandleDummy", "dc/dba/a18185.html#a04166e4e5a4ba082755433555855cb30", null ],
+    [ "PrepareSpellScript", "dc/dba/a18185.html#aaefa58014db12fb76e3416ae807c69e8", null ],
+    [ "Register", "dc/dba/a18185.html#a497ee30669d45341023abe549c91ddaf", null ]
 ];

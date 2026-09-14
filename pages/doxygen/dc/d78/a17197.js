@@ -1,7 +1,7 @@
 var a17197 =
 [
-    [ "HandleScript", "dc/d78/a17197.html#a927cc2ab0e5bba58a2b49e3e4e52ebaa", null ],
-    [ "PrepareSpellScript", "dc/d78/a17197.html#a71b28156c628aacbc6cb481038c0e76c", null ],
-    [ "Register", "dc/d78/a17197.html#a6f036bb2d42f248e0c252158a5ecedf1", null ],
-    [ "Validate", "dc/d78/a17197.html#a7c8a5a7c47bd7a9624028f92b1d9cf9c", null ]
+    [ "HandleAfterEffectAbsorb", "dc/d78/a17197.html#a6999f9cade8d00da15073c1e1b37d07b", null ],
+    [ "PrepareAuraScript", "dc/d78/a17197.html#a2374af6552e5aca9dd01681d5ad06a83", null ],
+    [ "Register", "dc/d78/a17197.html#a7478b0448cafc10d2b2498d2fdbd5afc", null ],
+    [ "Validate", "dc/d78/a17197.html#a52154be21f31d69e7e9b10e57f8eeb05", null ]
 ];

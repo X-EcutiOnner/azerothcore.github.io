@@ -1,6 +1,8 @@
 var a25597 =
 [
-    [ "HandleScript", "dd/d3d/a25597.html#a5a30dc1dad5b51af02043bd85c486a68", null ],
-    [ "PrepareSpellScript", "dd/d3d/a25597.html#a16c358062cee300e4c54f046a6c1accf", null ],
-    [ "Register", "dd/d3d/a25597.html#a1f53f1345c418f82c6d140cf6cf80b3c", null ]
+    [ "HandleApply", "dd/d3d/a25597.html#af20f30fe2bfc7a370b166a6200b44ca9", null ],
+    [ "OnPeriodic", "dd/d3d/a25597.html#a6b3223ef23854f22b9a3baba0d42cb11", null ],
+    [ "PrepareAuraScript", "dd/d3d/a25597.html#a344d1a92623865876174c0e88ce8ab4b", null ],
+    [ "Register", "dd/d3d/a25597.html#a352ff0e85eee6e51e9f2eea5cdd9108c", null ],
+    [ "Validate", "dd/d3d/a25597.html#ac4fd8fdde53f947082b23852ce149ea9", null ]
 ];

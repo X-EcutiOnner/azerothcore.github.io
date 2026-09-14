@@ -1,8 +1,10 @@
 var a09561 =
 [
-    [ "V8Type", "d7/dd2/a09561.html#ad1b1f07eef9dda43d6ba20d37087e1df", null ],
-    [ "V9Type", "d7/dd2/a09561.html#ac514014328ca676e610cef54710d2430", null ],
-    [ "gridIntHeightMultiplier", "d7/dd2/a09561.html#a6255362ae498172495394e1f0fad44ca", null ],
-    [ "v8", "d7/dd2/a09561.html#a3201a1f3e7307af860396ca26a78dbf9", null ],
-    [ "v9", "d7/dd2/a09561.html#ad31af604d44f964e9c502f36b6717c77", null ]
+    [ "GridObjectLoader", "d7/dd2/a09561.html#a57cd46fee6f747221761aa3114c40ba6", null ],
+    [ "AddObjectHelper", "d7/dd2/a09561.html#a4e857363f544e91918b22df7fb6b1fe8", null ],
+    [ "LoadAllCellsInGrid", "d7/dd2/a09561.html#a2f4aac240f93354a4a1cd22a7144fb91", null ],
+    [ "LoadCreatures", "d7/dd2/a09561.html#a000e7ba83cc08e6c5b34a9bff222a809", null ],
+    [ "LoadGameObjects", "d7/dd2/a09561.html#ad577dbb6544e806d25b496796651ba5b", null ],
+    [ "_grid", "d7/dd2/a09561.html#abe551354634514fa3998eccb10fcbefe", null ],
+    [ "_map", "d7/dd2/a09561.html#a1d3ca2b103b23a95fb208ee64fe4037b", null ]
 ];

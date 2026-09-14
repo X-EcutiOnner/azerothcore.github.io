@@ -1,6 +1,8 @@
 var a13909 =
 [
-    [ "ChangeSummonPos", "da/dd0/a13909.html#ae24a7c8279a92f1018748a0e930736ac", null ],
-    [ "PrepareSpellScript", "da/dd0/a13909.html#a7b6cd9464f27676f0c74224ef1b1a9cc", null ],
-    [ "Register", "da/dd0/a13909.html#a03a1a1e5501452eacaceadd9725f2287", null ]
+    [ "HandleApply", "da/dd0/a13909.html#a2c64240e8675fc76598600ae2632570f", null ],
+    [ "HandleRemove", "da/dd0/a13909.html#a2a6e32bbc9b722ad7e872c6a26daa6bb", null ],
+    [ "PrepareAuraScript", "da/dd0/a13909.html#a6ff74fbaf3a6ef84024d55528fd6f8e2", null ],
+    [ "Register", "da/dd0/a13909.html#aebfb4b20a9b0ebefff652a0ae1727994", null ],
+    [ "Validate", "da/dd0/a13909.html#abdad49fe5e0a72799847fdfcfe22eec0", null ]
 ];

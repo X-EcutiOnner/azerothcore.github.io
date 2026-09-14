@@ -1,8 +1,6 @@
 var a27541 =
 [
-    [ "Apply", "df/d2f/a27541.html#ac3145df90b6b179fece1c76da114e395", null ],
-    [ "HandleEffectPeriodic", "df/d2f/a27541.html#a480dd240981f91666e25ea2f1f73e4d7", null ],
-    [ "PrepareAuraScript", "df/d2f/a27541.html#aa911ba0b5a13a933bf50a072799a040f", null ],
-    [ "Register", "df/d2f/a27541.html#ae0dff9b5002d3d3361d794a75645057f", null ],
-    [ "Validate", "df/d2f/a27541.html#ad81184b508474a89fbafc63594ef0ab1", null ]
+    [ "FilterTargets", "df/d2f/a27541.html#a34ca370993295225a779ee6537295112", null ],
+    [ "PrepareSpellScript", "df/d2f/a27541.html#a523cf0c9aa9b3cf81c0cadd39252dd0f", null ],
+    [ "Register", "df/d2f/a27541.html#a0c23c8b0fe938fd7556663880f40b9ef", null ]
 ];

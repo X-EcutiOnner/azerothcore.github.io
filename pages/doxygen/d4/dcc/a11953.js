@@ -1,5 +1,7 @@
 var a11953 =
 [
-    [ "ImplicitTargetType", "d4/dcc/a11953.html#adc4268d74a3f0b47902e16eea2fc854a", null ],
-    [ "UsedTargetObjectType", "d4/dcc/a11953.html#a7bbc11d4a7a68f9441d393c7b48f5231", null ]
+    [ "WorldObjectSpellNearbyTargetCheck", "d4/dcc/a11953.html#a221449b52f64ad03527f69a95f5b8b0f", null ],
+    [ "operator()", "d4/dcc/a11953.html#a731ee07d028a5ee63ecd14321c83664d", null ],
+    [ "_position", "d4/dcc/a11953.html#a7b19899dd015a73bd1ae4c71fa9ae79d", null ],
+    [ "_range", "d4/dcc/a11953.html#abfec0df490876b2b83dcdee4da75a77f", null ]
 ];

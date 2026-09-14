@@ -1,8 +1,5 @@
 var a05024 =
 [
-    [ "GetDefaultDatabaseInfo", "d7/d17/a05024.html#a5560c170776773a1a20d93060003e89d", null ],
-    [ "CHARACTER_DATABASE_INFO_DEFAULT", "d7/d17/a05024.html#a6854faf653c8b94d9e1b611db3269d1a", null ],
-    [ "EMPTY_DATABASE_INFO", "d7/d17/a05024.html#aa2920a017ca93e102f17b0ca20885c5b", null ],
-    [ "LOGIN_DATABASE_INFO_DEFAULT", "d7/d17/a05024.html#aa5457f479ebc812232cc3f0d67fabde1", null ],
-    [ "WORLD_DATABASE_INFO_DEFAULT", "d7/d17/a05024.html#ad2151db3d84513bc271cf642ad76bb80", null ]
+    [ "DataMap", "d7/d3b/a05841.html", "d7/d3b/a05841" ],
+    [ "DataMap::Base", "dd/d98/a05845.html", "dd/d98/a05845" ]
 ];

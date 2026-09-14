@@ -1,14 +1,9 @@
 var a09537 =
 [
-    [ "areaMapOffset", "d3/df3/a09537.html#a70f82337112bb8cbff0b3344666885a1", null ],
-    [ "areaMapSize", "d3/df3/a09537.html#adfbbb622974b7942f47dd16d2300246f", null ],
-    [ "buildMagic", "d3/df3/a09537.html#a82d0f500f9e84cf6c8bf917a98f92115", null ],
-    [ "heightMapOffset", "d3/df3/a09537.html#a7623bee6b8cf7d6e39b8716aa72f8514", null ],
-    [ "heightMapSize", "d3/df3/a09537.html#a71c9cd42801697a927543e3acd4c3daf", null ],
-    [ "holesOffset", "d3/df3/a09537.html#a876d70dcd6ccec9ad09de77718c02150", null ],
-    [ "holesSize", "d3/df3/a09537.html#a3c3cc1895a47dc69265f4b58166c3f6b", null ],
-    [ "liquidMapOffset", "d3/df3/a09537.html#ac62deafcc7b435caf4a0f6aafd3d85be", null ],
-    [ "liquidMapSize", "d3/df3/a09537.html#a5aa18af3a8e029e8842ddf72fc5d5267", null ],
-    [ "mapMagic", "d3/df3/a09537.html#a2691fbc981b2ed5e1d748cd9c0859548", null ],
-    [ "versionMagic", "d3/df3/a09537.html#abe722f653ba057fbba84401acbaffbfa", null ]
+    [ "CellArea", "d3/df3/a09537.html#ace8ca84753b4ec8681415386fb135053", null ],
+    [ "CellArea", "d3/df3/a09537.html#a547aa2c544abb8de2c6defdd6ec77fa3", null ],
+    [ "operator!", "d3/df3/a09537.html#a386d4a562c27155012daedc361541e3b", null ],
+    [ "ResizeBorders", "d3/df3/a09537.html#aebb8a0eb3210fa09d647d89ce8a0c7b8", null ],
+    [ "high_bound", "d3/df3/a09537.html#a0c90f0474902deaafc4a64faaf6e8071", null ],
+    [ "low_bound", "d3/df3/a09537.html#a374fe9802c798e6ece359a8025b6e1df", null ]
 ];

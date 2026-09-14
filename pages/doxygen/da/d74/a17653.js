@@ -1,6 +1,6 @@
 var a17653 =
 [
-    [ "HandlePeriodic", "da/d74/a17653.html#a27ad5fef0695f006c2f8795ac0fbce53", null ],
-    [ "PrepareAuraScript", "da/d74/a17653.html#a29b00511d9a215fd0e00702e7a2dca0c", null ],
-    [ "Register", "da/d74/a17653.html#a9753daf5cdc812e9027c1153b450686d", null ]
+    [ "boss_drakkari_elementalAI", "da/d38/a17657.html", "da/d38/a17657" ],
+    [ "boss_drakkari_elemental", "da/d74/a17653.html#a143dd5d52ea7bb3c3c1d96da45af81ee", null ],
+    [ "GetAI", "da/d74/a17653.html#aab2f9c71ddb77164bd644d18b9e88313", null ]
 ];

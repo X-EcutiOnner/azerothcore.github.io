@@ -1,11 +1,6 @@
 var a24405 =
 [
-    [ "npc_isla_starmaneAI", "db/da5/a24405.html#a0cb655d324ddde173dcfdee069c0f694", null ],
-    [ "JustDied", "db/da5/a24405.html#ac7132ac84a64bccbcf8895cbc4a86f9c", null ],
-    [ "JustEngagedWith", "db/da5/a24405.html#ab40287c6bfc67b09bf7336ea53116cab", null ],
-    [ "JustRespawned", "db/da5/a24405.html#a69b395a9b9504737109870c5e8db74c8", null ],
-    [ "UpdateEscortAI", "db/da5/a24405.html#af4b8c80e7443bb671be253238b124910", null ],
-    [ "WaypointReached", "db/da5/a24405.html#a5d00583afa4e811e4f3cb8400787a990", null ],
-    [ "WaypointReached", "db/da5/a24405.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "events", "db/da5/a24405.html#a53cfabbe7cf85ceb19286d67bb23f2ec", null ]
+    [ "CheckRequirement", "db/da5/a24405.html#aa53bdc1b4b57150dbebce61ac87d2b88", null ],
+    [ "PrepareSpellScript", "db/da5/a24405.html#a8e3d6659174d4c920e65f85afb9308b1", null ],
+    [ "Register", "db/da5/a24405.html#aa4f62292b32347179a5534e4bc0417f8", null ]
 ];

@@ -1,8 +1,7 @@
 var a29501 =
 [
-    [ "TimeSeg", "dd/d56/a29501.html#ab94639ba8e26b215ebd31163967574d3", null ],
-    [ "TransportEntry", "dd/d56/a29501.html#a859d25b3c11839ad7e37facd40dc79df", null ],
-    [ "X", "dd/d56/a29501.html#a8fbd166503396e33a4ad77448bf307ea", null ],
-    [ "Y", "dd/d56/a29501.html#a67c279b26cebd8e5c81c36576b145af6", null ],
-    [ "Z", "dd/d56/a29501.html#a680689c57479a2cc1ec72ab97204d3e7", null ]
+    [ "ID", "dd/d56/a29501.html#aa5db020808990dc98fc143e4a5e0d2b2", null ],
+    [ "RadiusMax", "dd/d56/a29501.html#ab82c1acb9309b17104958182d80b01d1", null ],
+    [ "RadiusMin", "dd/d56/a29501.html#acaee7da373b94a262e01d4bd3bea4f08", null ],
+    [ "RadiusPerLevel", "dd/d56/a29501.html#a74bb59afb808af45ceff6367468fca1e", null ]
 ];

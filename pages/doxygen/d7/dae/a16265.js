@@ -1,6 +1,9 @@
 var a16265 =
 [
-    [ "instance_zulfarrak_InstanceMapScript", "de/df2/a16269.html", "de/df2/a16269" ],
-    [ "instance_zulfarrak", "d7/dae/a16265.html#a7c8594fe278dc9f6c3ab6f291cf9bad2", null ],
-    [ "GetInstanceScript", "d7/dae/a16265.html#a5f092341e49848c9d321452be2193d56", null ]
+    [ "npc_pluckyAI", "d7/dae/a16265.html#a490198dfcf06b04f7ee9a6a5354dec7e", null ],
+    [ "ReceiveEmote", "d7/dae/a16265.html#a4a4a09d6a462011154a8d871562dcaf5", null ],
+    [ "Reset", "d7/dae/a16265.html#a1a6c4a479bbbfced1ad17f2604bdba32", null ],
+    [ "UpdateAI", "d7/dae/a16265.html#a4775a736e3568940c1b92e0cdae4de4b", null ],
+    [ "NormFaction", "d7/dae/a16265.html#afd9c6fccf4c30b4fbc62bfa951665949", null ],
+    [ "ResetTimer", "d7/dae/a16265.html#ac9808c21666cd17b0603e7e67a61d015", null ]
 ];

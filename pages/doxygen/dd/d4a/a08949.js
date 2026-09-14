@@ -1,6 +1,6 @@
 var a08949 =
 [
-    [ "PlayerClassLevelInfo", "dd/d4a/a08949.html#a60153094e3179bfc6c028d2b76775805", null ],
-    [ "basehealth", "dd/d4a/a08949.html#a034ae3d2b5b14ce454710ca8f92ffee0", null ],
-    [ "basemana", "dd/d4a/a08949.html#a939a8d8739a553c919d84e399ce17d22", null ]
+    [ "active", "dd/d4a/a08949.html#a9460571d6fc219ab8c475aab34fc9494", null ],
+    [ "state", "dd/d4a/a08949.html#a0600418cb460fdaf8093bfa609e796c8", null ],
+    [ "type", "dd/d4a/a08949.html#a4c4a7d0f299ae4e2ceb146a741057032", null ]
 ];

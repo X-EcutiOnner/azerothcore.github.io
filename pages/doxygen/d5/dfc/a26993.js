@@ -1,7 +1,6 @@
 var a26993 =
 [
-    [ "HandleApplyEffect", "d5/dfc/a26993.html#af95120b26a165196e0310956c245f36f", null ],
-    [ "HandleRemoveEffect", "d5/dfc/a26993.html#a59e7d23c969b03aa75ef1da3bf42f6e9", null ],
-    [ "PrepareAuraScript", "d5/dfc/a26993.html#ae19e002407db1466f0655db3d14fe0d7", null ],
-    [ "Register", "d5/dfc/a26993.html#ae776a5e913fcf1553b7e2a00374a1ee6", null ]
+    [ "FilterTargets", "d5/dfc/a26993.html#a81212064e51b7dfd148a1b18b69aafe0", null ],
+    [ "PrepareSpellScript", "d5/dfc/a26993.html#a10d26377442d7a5d0c2986a65fcb57d6", null ],
+    [ "Register", "d5/dfc/a26993.html#a4db02c58be57a797c26b07656d1b5409", null ]
 ];

@@ -1,6 +1,6 @@
 var a19025 =
 [
-    [ "CaptainSurviveTalk", "dc/db3/a19025.html#a43a1b1da17ed41ae765aabc47c858f80", null ],
-    [ "Execute", "dc/db3/a19025.html#a871cf08e8c7fced2971cae8abbc20454", null ],
-    [ "_owner", "dc/db3/a19025.html#ac8de506afb4688560ea637918d07b01e", null ]
+    [ "npc_gluttonous_abominationAI", "d4/d20/a19029.html", "d4/d20/a19029" ],
+    [ "npc_gluttonous_abomination", "dc/db3/a19025.html#a895d1afcfc62bcaac6cc0d20465f1e7a", null ],
+    [ "GetAI", "dc/db3/a19025.html#aedbd808da5e8ea0e2111e78be9d846ce", null ]
 ];

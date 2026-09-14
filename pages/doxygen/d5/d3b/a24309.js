@@ -1,5 +1,6 @@
 var a24309 =
 [
-    [ "go_crystal_prison", "d5/d3b/a24309.html#a0faca8b76f9650ee5cc7825b90463365", null ],
-    [ "OnQuestAccept", "d5/d3b/a24309.html#ad19d8bdf8361d5d7fca2917a6bf0977a", null ]
+    [ "npc_infernal_attackerAI", "d4/d21/a24313.html", "d4/d21/a24313" ],
+    [ "npc_infernal_attacker", "d5/d3b/a24309.html#ac6fbfcf8fc918b48d6b9416a71cfe3fa", null ],
+    [ "GetAI", "d5/d3b/a24309.html#ad1d9186c186de36efbe102a07fe89de4", null ]
 ];

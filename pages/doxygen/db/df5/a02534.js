@@ -1,5 +1,11 @@
 var a02534 =
 [
-    [ "OutdoorPvP_zangarmarsh", "d2/d2b/a22665.html", "d2/d2b/a22665" ],
+    [ "AddOutdoorPvPScripts", "db/df5/a02534.html#a489bdfb4854732e561b6b13b70f67a0f", null ],
+    [ "AddSC_outdoorpvp_ep", "db/df5/a02534.html#ac97adfc1efbcf82840cffa915a55fecb", null ],
+    [ "AddSC_outdoorpvp_gh", "db/df5/a02534.html#a04eaa29ec2e34f71e4f7addacc0405c0", null ],
+    [ "AddSC_outdoorpvp_hp", "db/df5/a02534.html#a69303ad6f661d8c009ee493dc4fd486c", null ],
+    [ "AddSC_outdoorpvp_na", "db/df5/a02534.html#a03015585e7619177355fefd05f85e1c7", null ],
+    [ "AddSC_outdoorpvp_si", "db/df5/a02534.html#a6dfd2849f525333510ae4febbbc3ae1f", null ],
+    [ "AddSC_outdoorpvp_tf", "db/df5/a02534.html#a6df553c8dd6e9b81e83110e7beab3646", null ],
     [ "AddSC_outdoorpvp_zm", "db/df5/a02534.html#a3077d08865fa83f84cf956c392a9091c", null ]
 ];

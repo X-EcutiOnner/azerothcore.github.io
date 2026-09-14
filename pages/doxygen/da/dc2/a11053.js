@@ -1,7 +1,5 @@
 var a11053 =
 [
-    [ "QueryGuildInfoResponse", "da/dc2/a11053.html#ae1f7b9f33e36821477a19439a3d4065d", null ],
-    [ "Write", "da/dc2/a11053.html#abda9452eba38e76c460f910eb3aad5fa", null ],
-    [ "GuildId", "da/dc2/a11053.html#a04eec0531238fa55a91afa11c394fbce", null ],
-    [ "Info", "da/dc2/a11053.html#a749e992a19264b259f62d403b4925abe", null ]
+    [ "LogoutCancelAck", "da/dc2/a11053.html#a2c261c1cdd4c29658c5160e8fe44ac58", null ],
+    [ "Write", "da/dc2/a11053.html#a12f9e56c2ee59f5a084e8aef3fdfad97", null ]
 ];

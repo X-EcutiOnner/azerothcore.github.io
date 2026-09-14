@@ -1,7 +1,9 @@
 var a18129 =
 [
-    [ "FilterTargets", "d5/d11/a18129.html#a77afd0b56c9bddd74999d5df30457b7f", null ],
-    [ "HandleDummy", "d5/d11/a18129.html#a04166e4e5a4ba082755433555855cb30", null ],
-    [ "PrepareSpellScript", "d5/d11/a18129.html#aaefa58014db12fb76e3416ae807c69e8", null ],
-    [ "Register", "d5/d11/a18129.html#a497ee30669d45341023abe549c91ddaf", null ]
+    [ "CheckAreaTarget", "d5/d11/a18129.html#afd45699e853a5b57f3e9ae7bc4165bfb", null ],
+    [ "HandleApply", "d5/d11/a18129.html#a9ce86d32957af07313af379b4176d0b3", null ],
+    [ "HandleRemove", "d5/d11/a18129.html#a04f449a062b20e6f9ebc35857a051ed3", null ],
+    [ "Load", "d5/d11/a18129.html#aa10821981f3e80262850e5c46449d5d0", null ],
+    [ "PrepareAuraScript", "d5/d11/a18129.html#ac98e9c47a7cb177c0624cda37d1836e2", null ],
+    [ "Register", "d5/d11/a18129.html#ab5b7bc1cc347ea368a9f2753b4c020a7", null ]
 ];

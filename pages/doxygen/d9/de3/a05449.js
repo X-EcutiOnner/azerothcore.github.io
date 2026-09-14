@@ -1,6 +1,8 @@
 var a05449 =
 [
-    [ "NodeArray", "d9/de3/a05449.html#ad14de28828d5dd9c425e47a261125423", null ],
-    [ "AddNode", "d9/de3/a05449.html#a370b6e8633c2c739ff68c0399e315a7e", null ],
-    [ "_nodes", "d9/de3/a05449.html#a581a71d15d245efc585297c218313134", null ]
+    [ "MeshTriangle", "d9/de3/a05449.html#af99ecf0b02af73e6727095df1dce8422", null ],
+    [ "MeshTriangle", "d9/de3/a05449.html#a36109fc79a9ca9c6bf19959fd1493e60", null ],
+    [ "idx0", "d9/de3/a05449.html#aed1048a2b6745215a7b8f70dec378371", null ],
+    [ "idx1", "d9/de3/a05449.html#a560bb163f63ff7202aade4d115f31664", null ],
+    [ "idx2", "d9/de3/a05449.html#ac939c5e66526c67c067288b9d6484cac", null ]
 ];

@@ -1,5 +1,6 @@
 var a23181 =
 [
-    [ "PrepareSpellScript", "d2/d17/a23181.html#a0482d714ce0b4cfd81b2fc7fa8c87f0d", null ],
-    [ "Register", "d2/d17/a23181.html#a7aa83bfd512ee0ff839f61bafe6dd27b", null ]
+    [ "HandleDummy", "d2/d17/a23181.html#a85cbe85873c5f04c8fb94ad52e94afda", null ],
+    [ "PrepareSpellScript", "d2/d17/a23181.html#ae483ea2ecc541f52f37456f6e9d4b380", null ],
+    [ "Register", "d2/d17/a23181.html#a972574075c86c32593982add71dc893f", null ]
 ];

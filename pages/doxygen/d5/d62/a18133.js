@@ -1,7 +1,6 @@
 var a18133 =
 [
-    [ "HandleDummy", "d5/d62/a18133.html#a6e5d70c35420384305d7faf991072b38", null ],
-    [ "PrepareSpellScript", "d5/d62/a18133.html#a64f912555853aab5693692b22eba52c4", null ],
-    [ "Register", "d5/d62/a18133.html#a797ec701f2e3f2949680eb935a9c5c3f", null ],
-    [ "Validate", "d5/d62/a18133.html#afda7fd86e2fc2c40870904065ffcfe50", null ]
+    [ "PrepareSpellScript", "d5/d62/a18133.html#a47df21229183b628c1d82bf34cbbe396", null ],
+    [ "Register", "d5/d62/a18133.html#a3cc4a1180f66cd9fe19020c1e5f2fccb", null ],
+    [ "RelocateTransportOffset", "d5/d62/a18133.html#acab29d77b4806f5d59ddc5dc3493c8ae", null ]
 ];

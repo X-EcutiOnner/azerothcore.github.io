@@ -1,11 +1,8 @@
 var a22805 =
 [
-    [ "boss_gurtogg_bloodboil", "df/da1/a22805.html#af6abec4e4db5ce939e4c9593656d16fb", null ],
-    [ "CanAIAttack", "df/da1/a22805.html#a60e6439bab689eb88a18612b6b46c713", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "df/da1/a22805.html#a42db4d9fab6edfc392e1886c7d2770cb", null ],
-    [ "JustDied", "df/da1/a22805.html#a10456695efc6ea0b8eace24b94c37cc3", null ],
-    [ "JustEngagedWith", "df/da1/a22805.html#a0847173efbae252c2fbbaf1be17097cb", null ],
-    [ "JustSummoned", "df/da1/a22805.html#ae718666a1da0e93cb0965c42c40b51df", null ],
-    [ "KilledUnit", "df/da1/a22805.html#ab2b8131fc06f0ff6dd9e3ac7799e72db", null ],
-    [ "Reset", "df/da1/a22805.html#add25677d422b8bddcb753465451f0584", null ]
+    [ "npc_anzu_spirit", "df/da1/a22805.html#adb1b66d6bf6ec1991465f85a504397d5", null ],
+    [ "IsSummonedBy", "df/da1/a22805.html#a26f0928593f75d242c8bbcc541f7b59b", null ],
+    [ "Reset", "df/da1/a22805.html#acef3f7093f93b6c227d145523cdc487a", null ],
+    [ "UpdateAI", "df/da1/a22805.html#a9866d91ffc04548a96cfcdc3a5c7496a", null ],
+    [ "_scheduler", "df/da1/a22805.html#ad14937df9ddddabcf96e2d1104ca153c", null ]
 ];

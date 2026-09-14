@@ -1,7 +1,6 @@
 var a24369 =
 [
-    [ "HandleEffectRemove", "df/d68/a24369.html#a317c238b165ad331beb447ea5d0de7e1", null ],
-    [ "PrepareAuraScript", "df/d68/a24369.html#a7481f017a1382eb75e0101cb49fb4fcf", null ],
-    [ "Register", "df/d68/a24369.html#a13fdde1557249328306a57e159d821a7", null ],
-    [ "Validate", "df/d68/a24369.html#a58a383bd4e3062a5c5b1df97192b4b7e", null ]
+    [ "npc_illidari_spawnAI", "db/d5a/a24373.html", "db/d5a/a24373" ],
+    [ "npc_illidari_spawn", "df/d68/a24369.html#ac8dbb30fe7f40d29a3434c8a888ace60", null ],
+    [ "GetAI", "df/d68/a24369.html#a7198f506b0d4fd55d22fc72a90f42a09", null ]
 ];

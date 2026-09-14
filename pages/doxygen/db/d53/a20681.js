@@ -1,9 +1,6 @@
 var a20681 =
 [
-    [ "npc_ulduar_bot_summon_trigger", "db/d53/a20681.html#a16d36c154b6851c0081cc05f838b0fed", null ],
-    [ "DoAction", "db/d53/a20681.html#a776782a85892d2d674773573be25bfa0", null ],
-    [ "Reset", "db/d53/a20681.html#a4ec8487028b188347cf0c9a080076fe6", null ],
-    [ "UpdateAI", "db/d53/a20681.html#a788d3eaba382e3af897678f6709a0242", null ],
-    [ "_option", "db/d53/a20681.html#a39c909b67fcdc81542470b6e96256fd5", null ],
-    [ "_timer", "db/d53/a20681.html#a2530742a19275efe92eeded4dce67567", null ]
+    [ "HandleInstaKill", "db/d53/a20681.html#a593786eb89bf77e05dad4b502ffc1925", null ],
+    [ "PrepareSpellScript", "db/d53/a20681.html#aa89401a4c6b1c85e4242bda45933b0ad", null ],
+    [ "Register", "db/d53/a20681.html#a46f2c2658e6b55f091bf8894f06a787c", null ]
 ];

@@ -1,8 +1,6 @@
 var a16805 =
 [
-    [ "npc_toc5_player_vehicleAI", "d2/d6f/a16805.html#afa00a6254b482aae5397be04860ac8ba", null ],
-    [ "BeforeSpellClick", "d2/d6f/a16805.html#aac7db7f40b47a9c098c98bacb7569faf", null ],
-    [ "OnCharmed", "d2/d6f/a16805.html#ace805882a25a9d075d811714e607fa2b", null ],
-    [ "PassengerBoarded", "d2/d6f/a16805.html#aca35804df751185193ff5865255d3687", null ],
-    [ "Reset", "d2/d6f/a16805.html#a5439b98d544124836d2cf9762f764cea", null ]
+    [ "npc_argent_soldierAI", "d1/dfb/a16809.html", "d1/dfb/a16809" ],
+    [ "npc_argent_soldier", "d2/d6f/a16805.html#aa308b4cf1df6edf0666d06e0ddab0797", null ],
+    [ "GetAI", "d2/d6f/a16805.html#adfeed3d533104b9617dfbb06925a3d44", null ]
 ];

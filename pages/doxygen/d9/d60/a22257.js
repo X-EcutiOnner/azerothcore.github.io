@@ -1,6 +1,6 @@
 var a22257 =
 [
-    [ "npc_mcmanus", "d9/d60/a22257.html#a4e9da3fa22b74f51f72c58cbf22dc683", null ],
-    [ "OnGossipHello", "d9/d60/a22257.html#acb8f8b9c10387c0bb45b7d68f7f9821f", null ],
-    [ "OnGossipSelect", "d9/d60/a22257.html#a5e8c37ebcfa737ee3066ab8df3e453f8", null ]
+    [ "HandleDummy", "d9/d60/a22257.html#a05a38c1b8e3b674f3c6e79c59c7caddd", null ],
+    [ "PrepareSpellScript", "d9/d60/a22257.html#a0bfebaf099ef573b51bec0a511ceeb39", null ],
+    [ "Register", "d9/d60/a22257.html#a9c71b084ce6b86ccaeb9a94d1f8de2b1", null ]
 ];

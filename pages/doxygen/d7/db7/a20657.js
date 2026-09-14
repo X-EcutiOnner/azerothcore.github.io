@@ -1,11 +1,14 @@
 var a20657 =
 [
-    [ "npc_ulduar_proximity_mine", "d7/db7/a20657.html#a4d8a6ab45b259e42d33d5114d1f7e947", null ],
-    [ "AttackStart", "d7/db7/a20657.html#ae88f3a9cb40aebb469849799e7b7c7c0", null ],
-    [ "CanAIAttack", "d7/db7/a20657.html#a18311072271a18b279c5bf21f7da2482", null ],
-    [ "MoveInLineOfSight", "d7/db7/a20657.html#a6a406f8098dac7038173f51e9f85a79b", null ],
-    [ "UpdateAI", "d7/db7/a20657.html#ad014e0aa8125ef13cfea039acfe0c76f", null ],
-    [ "_exploded", "d7/db7/a20657.html#ad1cd15a93a35f4034c0d690e8d1713ea", null ],
-    [ "_timer", "d7/db7/a20657.html#afe009de55826305826105bd29458d0eb", null ],
-    [ "_timer2", "d7/db7/a20657.html#a08afb215eeaa5e0ec4d9543bc474d392", null ]
+    [ "boss_kologarn_arms", "d7/db7/a20657.html#a938ba2bc623d8bfea80e76743adadd6b", null ],
+    [ "AttackStart", "d7/db7/a20657.html#aa900d84701962847fe8c50ca42a9e395", null ],
+    [ "DamageTaken", "d7/db7/a20657.html#ab9dfb82063b299c4b983ea48e78a17be", null ],
+    [ "EnterEvadeMode", "d7/db7/a20657.html#abb2cf784779f808ab5d5340047ce95e4", null ],
+    [ "JustDied", "d7/db7/a20657.html#a165f77b79a3e601fe2269f20362df3ca", null ],
+    [ "MoveInLineOfSight", "d7/db7/a20657.html#a515d1d1eb959a03adca5e2c79da9082b", null ],
+    [ "PassengerBoarded", "d7/db7/a20657.html#aa0c14ab6b8b0081c1e8c43de1883ae59", null ],
+    [ "Reset", "d7/db7/a20657.html#a1d164aa9234edb81ed6d4e0713d16a91", null ],
+    [ "UpdateAI", "d7/db7/a20657.html#a013d5b17e93486679f625872331c94f6", null ],
+    [ "_combatStarted", "d7/db7/a20657.html#a8b4f90719ef93e7f8d8e435e090d566a", null ],
+    [ "_damageDone", "d7/db7/a20657.html#a0e196cc2602f325f4639d9e854f013b9", null ]
 ];

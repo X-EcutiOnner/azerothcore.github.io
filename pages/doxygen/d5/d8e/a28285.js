@@ -1,6 +1,8 @@
 var a28285 =
 [
-    [ "go_l70_etc_musicAI", "d5/d8e/a28285.html#a1709414fc40d48ac7c13eb8251dfbb26", null ],
-    [ "UpdateAI", "d5/d8e/a28285.html#a182a5a9bbe53ced25740de9a4a368469", null ],
-    [ "_events", "d5/d8e/a28285.html#aa0cda672b4491b3cfc75214038aa2132", null ]
+    [ "FilterTargets", "d5/d8e/a28285.html#a53c6d73f3588e50c2be7ce68595a704c", null ],
+    [ "HandleEffect", "d5/d8e/a28285.html#a2edac19abf8aa765ada369e00cd7ea69", null ],
+    [ "PrepareSpellScript", "d5/d8e/a28285.html#ae1e1ff5456cb7c558ff4fe415de6a691", null ],
+    [ "Register", "d5/d8e/a28285.html#acb4d6abeb0e293728ae3dd0d248e0844", null ],
+    [ "Validate", "d5/d8e/a28285.html#aabc063155fad404ffd044c9f79b88051", null ]
 ];

@@ -1,5 +1,7 @@
 var a10101 =
 [
-    [ "MinionInfo", "d1/d8d/a10101.html#a537dd49ffb504aeab8b2b1734d5f44d7", null ],
-    [ "bossInfo", "d1/d8d/a10101.html#a04750e14ecb53ce6e3fac35844a713cd", null ]
+    [ "BindRow", "d4/d2e/a10109.html", "d4/d2e/a10109" ],
+    [ "InstanceRow", "d1/dd8/a10105.html", "d1/dd8/a10105" ],
+    [ "binds", "d1/d8d/a10101.html#a919bd3014a6ed66fe249a1726abdd625", null ],
+    [ "instances", "d1/d8d/a10101.html#a61ada11aeaf8d4c9f6b7355674d2a9ef", null ]
 ];

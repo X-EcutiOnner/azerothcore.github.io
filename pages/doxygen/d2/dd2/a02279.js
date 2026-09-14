@@ -1,5 +1,5 @@
 var a02279 =
 [
-    [ "worldstate_commandscript", "d2/d76/a12637.html", "d2/d76/a12637" ],
-    [ "AddSC_worldstate_commandscript", "d2/dd2/a02279.html#a2ff66ad19f50180b9878cf95696fd09b", null ]
+    [ "wp_commandscript", "d8/d33/a12697.html", "d8/d33/a12697" ],
+    [ "AddSC_wp_commandscript", "d2/dd2/a02279.html#afc6bb2ca7e993730a57350142f7e6fd5", null ]
 ];

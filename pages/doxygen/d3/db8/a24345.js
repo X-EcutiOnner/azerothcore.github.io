@@ -1,6 +1,7 @@
 var a24345 =
 [
-    [ "npc_kservantAI", "d1/d84/a24349.html", "d1/d84/a24349" ],
-    [ "npc_kservant", "d3/db8/a24345.html#af04c8a87516e41f7d35071664034af9d", null ],
-    [ "GetAI", "d3/db8/a24345.html#a3ae7327ec2ead5a2d3ffb043f18ccc09", null ]
+    [ "o", "d3/db8/a24345.html#a3785e9b55ea3a7140086ce1f86232109", null ],
+    [ "x", "d3/db8/a24345.html#ac81cc1119b7ac8ac70ee635f2e3d4bb7", null ],
+    [ "y", "d3/db8/a24345.html#a10fbad67977d8dd3911eb629c1797684", null ],
+    [ "z", "d3/db8/a24345.html#a69fc2438e52f6c0de3af13900ff38166", null ]
 ];

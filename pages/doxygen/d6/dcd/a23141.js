@@ -1,8 +1,6 @@
 var a23141 =
 [
-    [ "CalcPeriodic", "d6/dcd/a23141.html#aad87c25b9b3255a4871bec39d9787299", null ],
-    [ "PrepareAuraScript", "d6/dcd/a23141.html#a7494c41e41ffc55811c57208f80c7eb6", null ],
-    [ "Register", "d6/dcd/a23141.html#acce25abc58a29dfe5a5287a8b00242ae", null ],
-    [ "Update", "d6/dcd/a23141.html#a4e2a5a2d666419ccbb0ca71670332b8c", null ],
-    [ "Validate", "d6/dcd/a23141.html#ae4f7bfb1cd95666acada217173876352", null ]
+    [ "npc_supremus_punch_invisible_stalker", "d6/dcd/a23141.html#add7d0e711ef02a16ef58d90cfc8ee733", null ],
+    [ "IsSummonedBy", "d6/dcd/a23141.html#a2220bc31f2ef91a154a9a4eae38aa14b", null ],
+    [ "UpdateAI", "d6/dcd/a23141.html#a90ecfe4257ef77a6d6a200a2f017c51a", null ]
 ];

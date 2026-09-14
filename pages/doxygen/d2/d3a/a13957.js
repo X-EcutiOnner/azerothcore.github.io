@@ -1,6 +1,7 @@
 var a13957 =
 [
-    [ "HandleSendEvent", "d2/d3a/a13957.html#af62c176d53589228d5e0077c9fc268a3", null ],
-    [ "PrepareSpellScript", "d2/d3a/a13957.html#acea8e256f267dd496e5f573e982dba5f", null ],
-    [ "Register", "d2/d3a/a13957.html#a0827e177a8268994bb4e63f07993a354", null ]
+    [ "HandlePull", "d2/d3a/a13957.html#a5a43bb53d3c534054498f8366d617e5a", null ],
+    [ "PrepareSpellScript", "d2/d3a/a13957.html#aec00f82a35c8154e7d4c1f47c52d486f", null ],
+    [ "RaycastToObstacle", "d2/d3a/a13957.html#ad6dfdf70e9ffd43510c4791f804ce340", null ],
+    [ "Register", "d2/d3a/a13957.html#a6da76afd5feaa0d60be70ff8469d78bc", null ]
 ];

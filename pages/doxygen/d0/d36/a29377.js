@@ -1,5 +1,7 @@
 var a29377 =
 [
-    [ "id", "d0/d36/a29377.html#a4667f55651f20c85f5b3da9384bac078", null ],
-    [ "QuestRewFactionValue", "d0/d36/a29377.html#a9a42feddeef8e054cd52b72cfc812867", null ]
+    [ "AllocationPct", "d0/d36/a29377.html#a45d752dfd00a75f69d919a88573ba4fc", null ],
+    [ "Enchantment", "d0/d36/a29377.html#a45e694082c1dbdeef5229561f617d584", null ],
+    [ "ID", "d0/d36/a29377.html#a66d78860d81c497765b5e68b5fd2ae18", null ],
+    [ "Name", "d0/d36/a29377.html#a3ee4d8152817e10b873de5ec36ba062b", null ]
 ];

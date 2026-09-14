@@ -1,7 +1,7 @@
 var a12985 =
 [
-    [ "HandleDummy", "d9/d00/a12985.html#a21c5eb1511cb4035f795ff1d22797e34", null ],
-    [ "PrepareSpellScript", "d9/d00/a12985.html#a5308de47023b89e4ff8680158a502ac0", null ],
-    [ "Register", "d9/d00/a12985.html#a5f148d259b1102b1046e6a3ac096fea8", null ],
-    [ "Validate", "d9/d00/a12985.html#a75f89d90b9e68288e54e1e0bd3b2ce98", null ]
+    [ "boss_ebonroc", "d9/d00/a12985.html#a74725561727d5bf0dd266f50d377c9c8", null ],
+    [ "JustEngagedWith", "d9/d00/a12985.html#a84250d1bc0986130404433c80162ecac", null ],
+    [ "MovementInform", "d9/d00/a12985.html#afa0e5ad6e2eb3d8df539266623dbffb4", null ],
+    [ "UpdateAI", "d9/d00/a12985.html#a8d7b9b681ae8c1e4102cb90456611732", null ]
 ];

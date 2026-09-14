@@ -1,5 +1,5 @@
 var a29361 =
 [
-    [ "Id", "df/db4/a29361.html#a44532f8af054ae5224f5e816c3c9a8a7", null ],
-    [ "PowerType", "df/db4/a29361.html#ab6c17a5a3ba9f2f3a8fac125104703c4", null ]
+    [ "ID", "df/db4/a29361.html#a65acb5af9a688346cbb7dc144710c768", null ],
+    [ "inventoryIcon", "df/db4/a29361.html#a26b43ee179bd546c6e956dd797fc0842", null ]
 ];

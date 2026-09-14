@@ -1,10 +1,7 @@
 var a20373 =
 [
-    [ "boss_freya_elder_ironbranch", "d3/dbc/a20373.html#ae488bddfe330ca5e0bab0c37c001c217", null ],
-    [ "JustDied", "d3/dbc/a20373.html#a0e76b663697086ddaeb804f6fe9ce9cf", null ],
-    [ "JustEngagedWith", "d3/dbc/a20373.html#a34d87135b8dac114a8783941dba69559", null ],
-    [ "KilledUnit", "d3/dbc/a20373.html#a20b5a622ac233d1280169f54942c894f", null ],
-    [ "Reset", "d3/dbc/a20373.html#ad2c65b696a63a63b3443fe1c436bbac1", null ],
-    [ "UpdateAI", "d3/dbc/a20373.html#a00dade8af24a2240187fb4e52138c0d1", null ],
-    [ "events", "d3/dbc/a20373.html#a8693a800da6890004f3ae82fd9898480", null ]
+    [ "OnPeriodic", "d3/dbc/a20373.html#a1dff4c7e181c86a9c6ac7df5304214c8", null ],
+    [ "PrepareAuraScript", "d3/dbc/a20373.html#a93b006b762bd757c606ed44da5178134", null ],
+    [ "Register", "d3/dbc/a20373.html#ac528c63dedbf16f1f88c3d6ffdb9ef69", null ],
+    [ "Validate", "d3/dbc/a20373.html#a2ee1dbb056430b9db5e9e3ead05014a5", null ]
 ];

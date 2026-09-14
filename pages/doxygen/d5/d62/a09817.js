@@ -1,9 +1,8 @@
 var a09817 =
 [
-    [ "NearestHostileUnitCheck", "d5/d62/a09817.html#aa1d706a1eb1de6168b568e70008e2d3b", null ],
-    [ "NearestHostileUnitCheck", "d5/d62/a09817.html#a2fe620370289850eb0362823de2072d1", null ],
-    [ "operator()", "d5/d62/a09817.html#a04c85a77d660bbc74279d1062dabc375", null ],
-    [ "i_playerOnly", "d5/d62/a09817.html#a64c5fce466521a6d6d78eeda0708d65e", null ],
-    [ "m_range", "d5/d62/a09817.html#a801d56a180e196943cfc2cefb6c5dda5", null ],
-    [ "me", "d5/d62/a09817.html#a67cef25e6f725ea42f0377df34d48495", null ]
+    [ "AnyUnfriendlyNoTotemUnitInObjectRangeCheck", "d5/d62/a09817.html#ac4378cfa8fedb3453c0e810d497cb99c", null ],
+    [ "operator()", "d5/d62/a09817.html#ad9e3486316cf297ba79a588c60b4ce15", null ],
+    [ "i_funit", "d5/d62/a09817.html#ace766830b26d8aae3ec673d2102a9969", null ],
+    [ "i_obj", "d5/d62/a09817.html#ae12f4176e49438cfa248345cfe7c9947", null ],
+    [ "i_range", "d5/d62/a09817.html#a8335ef8fd7376e7c920dfbca2318d646", null ]
 ];

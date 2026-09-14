@@ -1,5 +1,10 @@
 var a17657 =
 [
-    [ "achievement_less_rabi", "da/d38/a17657.html#aee43dd7623f7fecc20a0acb15f342a99", null ],
-    [ "OnCheck", "da/d38/a17657.html#a16b200bf93fa2571c8b31359ad7ca151", null ]
+    [ "boss_drakkari_elementalAI", "da/d38/a17657.html#aad8f28b7e45a7897cb758dff90aa46d8", null ],
+    [ "DoAction", "da/d38/a17657.html#afc16e2da1f40ec0c0257e3bedc04c8a7", null ],
+    [ "JustDied", "da/d38/a17657.html#aec2878e51a12749914e3a30c0ddea900", null ],
+    [ "JustEngagedWith", "da/d38/a17657.html#a75cbf6a164ab4337f86b600541c563f2", null ],
+    [ "Reset", "da/d38/a17657.html#a3a0cd44c30eacac26bcfd1bbe2a18086", null ],
+    [ "UpdateAI", "da/d38/a17657.html#adb9ad99bc784a76da238ed2ee694d4f2", null ],
+    [ "events", "da/d38/a17657.html#abd9bef8fd2bd10a520d9569351bd925b", null ]
 ];

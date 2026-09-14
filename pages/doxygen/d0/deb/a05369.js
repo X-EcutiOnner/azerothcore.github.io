@@ -1,11 +1,8 @@
 var a05369 =
 [
-    [ "material", "d0/deb/a05369.html#a29addcb613bc63a100633e612d1dc2d2", null ],
-    [ "pos_x", "d0/deb/a05369.html#a02e9d8789336d77e34bffa19adbab394", null ],
-    [ "pos_y", "d0/deb/a05369.html#ac3162ce321a1f21e4e6fe35041e49a6a", null ],
-    [ "pos_z", "d0/deb/a05369.html#a6e2a2d5d9151d5c6d70fd0d47e6c18e3", null ],
-    [ "xtiles", "d0/deb/a05369.html#a94789843c68d705184e6332ac46bd69d", null ],
-    [ "xverts", "d0/deb/a05369.html#a0548c3fdb216c115a7d3843e4fbc6de3", null ],
-    [ "ytiles", "d0/deb/a05369.html#ac50224cdce231460c78c3e0f077b555d", null ],
-    [ "yverts", "d0/deb/a05369.html#aa9ecb62b53af527b3bd855b8e93ba604", null ]
+    [ "LocationInfo", "d0/deb/a05369.html#ae2e70dc65cd3b0379600a67dce7de6ba", null ],
+    [ "ground_Z", "d0/deb/a05369.html#a0ffbfcfc677809dda6250855d9594ca5", null ],
+    [ "hitInstance", "d0/deb/a05369.html#ab59b10bde437cca895b69c2035174b6d", null ],
+    [ "hitModel", "d0/deb/a05369.html#a17eef5c7a0ebf9b9963740a10fca459f", null ],
+    [ "rootId", "d0/deb/a05369.html#aae82d7d8518db5e131d6a327927c75a2", null ]
 ];

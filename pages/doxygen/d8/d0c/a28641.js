@@ -1,7 +1,10 @@
 var a28641 =
 [
-    [ "npc_wormholeAI", "d8/d0c/a28641.html#a75c28ce9bcbb5ef6fb4213d000d5596a", null ],
-    [ "GetData", "d8/d0c/a28641.html#ad4c9f2265f126c7f2b5538bab6b75cb3", null ],
-    [ "InitializeAI", "d8/d0c/a28641.html#aa0a903014ec7243036604ffcc67e0a36", null ],
-    [ "_showUnderground", "d8/d0c/a28641.html#a6a2fbf623b8fc55cfd48a12e2c515134", null ]
+    [ "npc_air_force_botsAI", "d8/d0c/a28641.html#a062eb272826d52ffd9b72054f970b761", null ],
+    [ "GetSummonedGuard", "d8/d0c/a28641.html#ac4f39049ba15caf314939f12b82ccd05", null ],
+    [ "MoveInLineOfSight", "d8/d0c/a28641.html#a474231c0ce93b4db0789bcc8f6767c19", null ],
+    [ "Reset", "d8/d0c/a28641.html#a016911d354f3b00e2db3e4f3722cda7f", null ],
+    [ "SummonGuard", "d8/d0c/a28641.html#a8da57471dfa875f55f52c3d2b068a0f3", null ],
+    [ "SpawnAssoc", "d8/d0c/a28641.html#a6f2f7ffd24dd32780c441fd6ce29dfbf", null ],
+    [ "SpawnedGUID", "d8/d0c/a28641.html#a3c8ae595a3b4a436c2f94aa84cb9ee56", null ]
 ];

@@ -1,11 +1,7 @@
 var a26801 =
 [
-    [ "CheckCast", "dc/d13/a26801.html#a49676a65c99a9a2d99ad78fee54d2302", null ],
-    [ "HandleMaxHealthHeal", "dc/d13/a26801.html#a019833641487ac07cb2c8740d5686a41", null ],
-    [ "HandleScript", "dc/d13/a26801.html#a35b9d69b8147ef06527b8533ef376e72", null ],
-    [ "Load", "dc/d13/a26801.html#a25c373762375f207e6c3ba0a18d4a6e7", null ],
-    [ "PrepareSpellScript", "dc/d13/a26801.html#a31d3339531f75dfa0ca3a339d34d3012", null ],
-    [ "Register", "dc/d13/a26801.html#afd716f555ac73287bd268c6124b15b1c", null ],
-    [ "Validate", "dc/d13/a26801.html#a0938262e1f45821b9fbef42f5c96cc56", null ],
-    [ "_manaAmount", "dc/d13/a26801.html#add7d1cdf3abca0ada57cd719ad22602a", null ]
+    [ "PeriodicTick", "dc/d13/a26801.html#a4fcdb073b4140311f31c5965ea7d1316", null ],
+    [ "PrepareAuraScript", "dc/d13/a26801.html#ad332660b3b30ecb7b5c949c702574879", null ],
+    [ "Register", "dc/d13/a26801.html#ad752eaecf8b0b3efcc7f61d88fb447d9", null ],
+    [ "Validate", "dc/d13/a26801.html#a426b39c9733464c5d69d707d4e931f64", null ]
 ];

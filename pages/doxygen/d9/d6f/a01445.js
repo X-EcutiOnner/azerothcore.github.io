@@ -1,21 +1,11 @@
 var a01445 =
 [
-    [ "Totem", "db/d84/a09071.html", "db/d84/a09071" ],
-    [ "EARTHBIND_TOTEM_ENTRY", "d9/d6f/a01445.html#a6cae59b1369b7371cefb92be8fc73fa5", null ],
-    [ "SENTRY_TOTEM_ENTRY", "d9/d6f/a01445.html#a2bd46e1df17fdee45cd35896306092fb", null ],
-    [ "TotemImmunitySpells", "d9/d6f/a01445.html#a526213bf692d4f8d189a61617f4a59c9", [
-      [ "SPELL_CYCLONE", "d9/d6f/a01445.html#a526213bf692d4f8d189a61617f4a59c9ab0dea4de61535b7690ae66cfa6440f58", null ],
-      [ "SPELL_STONECLAW", "d9/d6f/a01445.html#a526213bf692d4f8d189a61617f4a59c9ad0896fc7fa22551f57cc65fd56ee8649", null ],
-      [ "SPELL_BIND_SIGHT", "d9/d6f/a01445.html#a526213bf692d4f8d189a61617f4a59c9a1f48e779f72284c7b1140c6be1a5a81a", null ],
-      [ "SPELL_INTERVENE", "d9/d6f/a01445.html#a526213bf692d4f8d189a61617f4a59c9ac663f276cbe6aa86a2ae46813fc14b8c", null ]
-    ] ],
-    [ "TotemSpellIds", "d9/d6f/a01445.html#a7092ec93c941969cd2cdd2291c6de0be", [
-      [ "SentryTotemSpell", "d9/d6f/a01445.html#a7092ec93c941969cd2cdd2291c6de0bea2ff316c1216f8b3e5f60a3700214c8c3", null ],
-      [ "FireTotemSpell", "d9/d6f/a01445.html#a7092ec93c941969cd2cdd2291c6de0bea52ad0e17d0d0699c294f9434023aeea7", null ]
-    ] ],
-    [ "TotemType", "d9/d6f/a01445.html#a65151889ab4b03cf02268cc7a7ff0ba3", [
-      [ "TOTEM_PASSIVE", "d9/d6f/a01445.html#a65151889ab4b03cf02268cc7a7ff0ba3a63f155f3367aa262aae567b57c623069", null ],
-      [ "TOTEM_ACTIVE", "d9/d6f/a01445.html#a65151889ab4b03cf02268cc7a7ff0ba3a3c3ecb49d653993abf86f289019e27b0", null ],
-      [ "TOTEM_STATUE", "d9/d6f/a01445.html#a65151889ab4b03cf02268cc7a7ff0ba3ab0fbf32f7d371a34f276dfdf6552e300", null ]
-    ] ]
+    [ "SkillDiscoveryEntry", "d8/d81/a11869.html", "d8/d81/a11869" ],
+    [ "SkillDiscoveryList", "d9/d6f/a01445.html#a0c80a6b86b3b7bd5e9c238efa802919b", null ],
+    [ "SkillDiscoveryMap", "d9/d6f/a01445.html#ab7ec6a8662e4edd3167deb3c917d2eab", null ],
+    [ "GetExplicitDiscoverySpell", "d9/d6f/a01445.html#a7cdb9e342efe04c1ba8caf202b7b0d96", null ],
+    [ "GetSkillDiscoverySpell", "d9/d6f/a01445.html#ab50472e4f1f892eb77ce660ef00d808a", null ],
+    [ "HasDiscoveredAllSpells", "d9/d6f/a01445.html#abdf3c2fcf65212466dfb54053e35024c", null ],
+    [ "LoadSkillDiscoveryTable", "d9/d6f/a01445.html#addd95f0a239a27ed32cd943aa1052019", null ],
+    [ "SkillDiscoveryStore", "d9/d6f/a01445.html#a1d624484e07efeeabc8a73a10c75ca4d", null ]
 ];

@@ -1,6 +1,7 @@
 var a23425 =
 [
-    [ "HandleScript", "d9/de3/a23425.html#a9451ed26358c77ab4d35781fd8fb4b55", null ],
-    [ "PrepareSpellScript", "d9/de3/a23425.html#ad24e7fa45f35f2cd6071328c60cb2732", null ],
-    [ "Register", "d9/de3/a23425.html#a1bd01e1103d4959a5b3116e178a16a8f", null ]
+    [ "HandleEffectRemove", "d9/de3/a23425.html#abfd43cd8e9df873e6c0867779bad13c1", null ],
+    [ "HandlePeriodic", "d9/de3/a23425.html#a5137e24394fa14129c44d92c79eef117", null ],
+    [ "PrepareAuraScript", "d9/de3/a23425.html#ac1f10b9e9d9883c25e28ae313242d41e", null ],
+    [ "Register", "d9/de3/a23425.html#a69108d90f7c3fa95adfc29c14bd8c9fe", null ]
 ];

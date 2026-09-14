@@ -1,9 +1,22 @@
 var a15381 =
 [
-    [ "boss_temporus", "d9/d9d/a15381.html#ab9f1495b18fe2c0ee33e9c238483ce0d", null ],
-    [ "JustDied", "d9/d9d/a15381.html#a9186e51d240aff2ffaab99e3b423ded9", null ],
-    [ "JustEngagedWith", "d9/d9d/a15381.html#abe7f18497c1c8b31693980e98b1d1859", null ],
-    [ "KilledUnit", "d9/d9d/a15381.html#a89c2a229b56b3a7dcb9e5a495ac6dbd7", null ],
-    [ "MoveInLineOfSight", "d9/d9d/a15381.html#a18a0279036324498a9daf8c7d0296ffc", null ],
-    [ "OwnTalk", "d9/d9d/a15381.html#a99356589a048debbc308b8431259da5c", null ]
+    [ "npc_cos_stratholme_citizienAI", "d9/d9d/a15381.html#a591aaf16ef5befada12378acfbef9465", null ],
+    [ "DoAction", "d9/d9d/a15381.html#af9d6fa1dfa83a75194797e99ee80ae0e", null ],
+    [ "InfectMe", "d9/d9d/a15381.html#a9517132eeaf1a0ffd5cb8b5879ed5d5b", null ],
+    [ "MoveInLineOfSight", "d9/d9d/a15381.html#ab7a8f6423e12ca0ea9bcb085594013a2", null ],
+    [ "Reset", "d9/d9d/a15381.html#a0dbb5f295aa9061fa3457c9590ea9b10", null ],
+    [ "SpellHit", "d9/d9d/a15381.html#aa8b9a05d3c7d89aa054af919672a69ec", null ],
+    [ "UpdateAI", "d9/d9d/a15381.html#a81a1382493091a99cae1c2bb580a7f32", null ],
+    [ "allowTimer", "d9/d9d/a15381.html#ae92384763b3cfe4a4bc4180d1c404456", null ],
+    [ "ambientTalkTimer", "d9/d9d/a15381.html#aaa8eef94d1707207d241010d066d02fc", null ],
+    [ "changeTimer", "d9/d9d/a15381.html#aa757ab2eef813dceaaad65d84681099b", null ],
+    [ "emoteTimer", "d9/d9d/a15381.html#a6d0d8325a190f50e0c64eaccbc59ad3e", null ],
+    [ "isBrandonCrowd", "d9/d9d/a15381.html#a7ded1c196b311e5b61686ba9f22efd20", null ],
+    [ "isPatriciaCrowd", "d9/d9d/a15381.html#a22a78166929dbed5ea37ecf8f9010533", null ],
+    [ "isStephanieCrowd", "d9/d9d/a15381.html#a211859fa8f83c08d6150f9fb5730e409", null ],
+    [ "locked", "d9/d9d/a15381.html#aa644050a5fc0b3cd04573e8b3def87ee", null ],
+    [ "pInstance", "d9/d9d/a15381.html#aadae06c487a7755114f856a835d48c7e", null ],
+    [ "stephanieDialoguePhase", "d9/d9d/a15381.html#a5cadb975125ec915dcc1899d159c2aa3", null ],
+    [ "stephanieDialogueTimer", "d9/d9d/a15381.html#a61fa61e81acfc543353312914a99d841", null ],
+    [ "talkTimer", "d9/d9d/a15381.html#a903c8eca8c2bfe695770c3c5736662c5", null ]
 ];

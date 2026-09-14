@@ -1,7 +1,9 @@
 var a29381 =
 [
-    [ "EpicPropertiesPoints", "db/dda/a29381.html#a35dc60a15091357e03032226621340f7", null ],
-    [ "itemLevel", "db/dda/a29381.html#a35506e3235c2c24230058dc2fb9abc4f", null ],
-    [ "RarePropertiesPoints", "db/dda/a29381.html#a9359171635ef3e9a0029820fad286368", null ],
-    [ "UncommonPropertiesPoints", "db/dda/a29381.html#a74acb6861a84d5d193038eaa5ac9b12f", null ]
+    [ "itemId", "db/dda/a29381.html#ae125712e5569c9699b4748b6a15fbc12", null ],
+    [ "items_to_triggerspell", "db/dda/a29381.html#a8496a2f3fa3e230def04b996fc585760", null ],
+    [ "name", "db/dda/a29381.html#a9b62f843833d524f200782d44151503d", null ],
+    [ "required_skill_id", "db/dda/a29381.html#ab3058ac725fb8f105b9359d5a5147942", null ],
+    [ "required_skill_value", "db/dda/a29381.html#a58d0997a73cf48061545edbc0201f544", null ],
+    [ "spells", "db/dda/a29381.html#a8aac032992efe1bfbba0e49693562c7f", null ]
 ];

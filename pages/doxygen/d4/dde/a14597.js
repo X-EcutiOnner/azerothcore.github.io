@@ -1,6 +1,6 @@
 var a14597 =
 [
-    [ "npc_ohganAI", "da/df6/a14601.html", "da/df6/a14601" ],
-    [ "npc_ohgan", "d4/dde/a14597.html#ae391f2b36c68952ca5eaf773c29cbcad", null ],
-    [ "GetAI", "d4/dde/a14597.html#a129dc2fcd449850403e0dcb99725da90", null ]
+    [ "HandleOnHit", "d4/dde/a14597.html#a1f133ab9e85f80c225276bf744da6898", null ],
+    [ "PrepareSpellScript", "d4/dde/a14597.html#ae554f8be36eabc6d23f823e6d153be2b", null ],
+    [ "Register", "d4/dde/a14597.html#a1063358ed71ded8454f35f43442354ab", null ]
 ];

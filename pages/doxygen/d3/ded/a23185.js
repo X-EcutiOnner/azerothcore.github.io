@@ -1,6 +1,6 @@
 var a23185 =
 [
-    [ "boss_doomlordkazzakAI", "da/d6c/a23189.html", "da/d6c/a23189" ],
-    [ "boss_doomlord_kazzak", "d3/ded/a23185.html#ae4e4844d584ba71ebd3d8a341ba91462", null ],
-    [ "GetAI", "d3/ded/a23185.html#a460a32ce37aae852b48f1990406da9a4", null ]
+    [ "HandleSchoolDamage", "d3/ded/a23185.html#ab105ff1efd0fe20585ac3dc6c60f81a2", null ],
+    [ "PrepareSpellScript", "d3/ded/a23185.html#a0296aa3d00d0d12e213d95b8520c50dc", null ],
+    [ "Register", "d3/ded/a23185.html#a4cd7135ff9e4ef605635f1eccc01ba65", null ]
 ];

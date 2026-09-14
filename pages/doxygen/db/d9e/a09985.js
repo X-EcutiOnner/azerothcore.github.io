@@ -1,25 +1,8 @@
 var a09985 =
 [
-    [ "RankInfo", "db/d9e/a09985.html#a4b97f6372e87ab4061748cc58bd00096", null ],
-    [ "RankInfo", "db/d9e/a09985.html#a02c7283862334b5133f5971cee5da927", null ],
-    [ "RankInfo", "db/d9e/a09985.html#aaacf8ce1bfa6429cb5980d74f076cbd3", null ],
-    [ "CreateMissingTabsIfNeeded", "db/d9e/a09985.html#a17e8ee39681804bac73a2c699b470c37", null ],
-    [ "GetBankMoneyPerDay", "db/d9e/a09985.html#adb568b8ad70d0b42d834af5e2bf528d2", null ],
-    [ "GetBankTabRights", "db/d9e/a09985.html#a5be65cec8e2e82c027ef4062ea63c1f1", null ],
-    [ "GetBankTabSlotsPerDay", "db/d9e/a09985.html#a7cc652b0170a7f786a5a0263b4251d2d", null ],
-    [ "GetId", "db/d9e/a09985.html#a1a99822f0c886d59ac57b6eb73ff2b42", null ],
-    [ "GetName", "db/d9e/a09985.html#a3cfcabc23d610dd6130333edcd482485", null ],
-    [ "GetRights", "db/d9e/a09985.html#a59565228481689cdc073e7120a6de9f3", null ],
-    [ "LoadFromDB", "db/d9e/a09985.html#ae9f8001f2546582256b7d916d4f2b1d6", null ],
-    [ "SaveToDB", "db/d9e/a09985.html#a9fb87796b8e18ed9dd2fee53844c243f", null ],
-    [ "SetBankMoneyPerDay", "db/d9e/a09985.html#a1c553e020fe7d79564ddfc3aa74bbfae", null ],
-    [ "SetBankTabSlotsAndRights", "db/d9e/a09985.html#a9f1c622c8af7a8f7f9af027eb01b9dc6", null ],
-    [ "SetName", "db/d9e/a09985.html#a30e276b031dc1e279cfbf38aa1c9b851", null ],
-    [ "SetRights", "db/d9e/a09985.html#a8b46f3a8f91cd3a187e00d37a6ddd419", null ],
-    [ "m_bankMoneyPerDay", "db/d9e/a09985.html#a715985e1b8e8e2aa2d0b48877ae37e8f", null ],
-    [ "m_bankTabRightsAndSlots", "db/d9e/a09985.html#aeb209d1e53f55b5b48bcd00979014eb8", null ],
-    [ "m_guildId", "db/d9e/a09985.html#a86f162bdf86255f89666e20f44d114a0", null ],
-    [ "m_name", "db/d9e/a09985.html#a96281f4a307ca7657a3ba9f04c9331c3", null ],
-    [ "m_rankId", "db/d9e/a09985.html#ad7ff7ee31212be87b5cb580edef3cc16", null ],
-    [ "m_rights", "db/d9e/a09985.html#a058febd98eb3d116acbe1bc0d04a983c", null ]
+    [ "flags", "db/d9e/a09985.html#a7ecce103d428ed7f91aa12fa5547561c", null ],
+    [ "group", "db/d9e/a09985.html#a0902606d44c8baa1a20b5b2cdd9b4787", null ],
+    [ "guid", "db/d9e/a09985.html#a97a20b4ccf1978165a5f5c7ff4ffb2b4", null ],
+    [ "name", "db/d9e/a09985.html#ab0719bb9805048b58a3e4c75e09d1ee7", null ],
+    [ "roles", "db/d9e/a09985.html#a2109aae0b3ebf74b065b97cc929c2954", null ]
 ];

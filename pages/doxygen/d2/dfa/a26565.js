@@ -1,5 +1,7 @@
 var a26565 =
 [
-    [ "Trigger", "d2/dfa/a26565.html#aa16aba75a066e83cb56660a0e29e7453", null ],
-    [ "Validate", "d2/dfa/a26565.html#a6c38df91dbe0cf277d1d50a40edd4589", null ]
+    [ "HandleProc", "d2/dfa/a26565.html#a88510ad234c654bbe3316f6557742f77", null ],
+    [ "PrepareAuraScript", "d2/dfa/a26565.html#adff2a6b6161cc6fa6a49bd55c088394c", null ],
+    [ "Register", "d2/dfa/a26565.html#aeaae510592ba20f76e322701a9c30c17", null ],
+    [ "Validate", "d2/dfa/a26565.html#a1d9dc752bd385ff99ee4c39094c68d8a", null ]
 ];

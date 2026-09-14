@@ -1,10 +1,12 @@
 var a19889 =
 [
-    [ "npc_oculus_drakegiverAI", "db/dd0/a19893.html", "db/dd0/a19893" ],
-    [ "npc_oculus_drakegiver", "d7/d5d/a19889.html#add34aba22fb2ca16f6f055dd77a2994b", null ],
-    [ "GetAI", "d7/d5d/a19889.html#aa26a2b82c5e4076ce704d5884895d903", null ],
-    [ "OnGossipHello", "d7/d5d/a19889.html#ac00d09d2d81121d562e3303704229c18", null ],
-    [ "OnGossipSelect", "d7/d5d/a19889.html#ad0fc46e306080ccfe9988d416ef71e77", null ],
-    [ "RemoveEssence", "d7/d5d/a19889.html#a70513d873111c590ca4e33cb446a4438", null ],
-    [ "StoreEssence", "d7/d5d/a19889.html#ac8bbe890722aa924a7f0dee161d342c4", null ]
+    [ "instance_nexus_InstanceMapScript", "d7/d5d/a19889.html#a6803f233d730f33e5af7dc9d8ecd9775", null ],
+    [ "Initialize", "d7/d5d/a19889.html#a2c6c42e73de2a155c04f80e37aa5d442", null ],
+    [ "KillAllFrayers", "d7/d5d/a19889.html#a7c696467deba7a2f15d5175e3427bd20", null ],
+    [ "OnCreatureCreate", "d7/d5d/a19889.html#a04806dc42aa0b171fa99eb1d8492ff61", null ],
+    [ "OnGameObjectCreate", "d7/d5d/a19889.html#a85c3ac915970d68a192414ca4ff8ad1f", null ],
+    [ "OnGameObjectRemove", "d7/d5d/a19889.html#ac148c67823484eee38ab6646dfb68530", null ],
+    [ "SetBossState", "d7/d5d/a19889.html#a11ac1fbc7c699084e7da5e4bf0595651", null ],
+    [ "SetData", "d7/d5d/a19889.html#a351052b1d3ea4ddb5d36ce69818c7e67", null ],
+    [ "_frayerGUIDs", "d7/d5d/a19889.html#ab85b5379b6c177dc1d61ccd14106a325", null ]
 ];

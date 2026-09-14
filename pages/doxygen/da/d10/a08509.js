@@ -1,5 +1,18 @@
 var a08509 =
 [
-    [ "QuestIcon", "da/d10/a08509.html#ad8bbfe08780eaa68a8205e2634d211b8", null ],
-    [ "QuestId", "da/d10/a08509.html#a522a4fcb28daec3e1a620b6f02c3d8fe", null ]
+    [ "CreatureData", "da/d10/a08509.html#a0d796f16134182d2c66d60e950ec570c", null ],
+    [ "curhealth", "da/d10/a08509.html#a8d792fe1be63517b89beeb7dc16bc59e", null ],
+    [ "curmana", "da/d10/a08509.html#a9282b4137e892574d3326273c19b7333", null ],
+    [ "currentwaypoint", "da/d10/a08509.html#ac58e514339c9c60ce78876a7c1ef50f1", null ],
+    [ "displayid", "da/d10/a08509.html#a51bd5a47d052accca3944095253d0d7a", null ],
+    [ "dynamicflags", "da/d10/a08509.html#a25d7752e9510c8019469b8a09ce1b059", null ],
+    [ "equipmentId", "da/d10/a08509.html#ac2d910ad95ea363dbe0a685d5db6cc79", null ],
+    [ "id", "da/d10/a08509.html#a2e2c3a5008f3d5aba0b6903586d3f83e", null ],
+    [ "id2", "da/d10/a08509.html#a7632a7510b2a868b926a6ea21bf07e7f", null ],
+    [ "id3", "da/d10/a08509.html#a934d70093ff85a859a80f672c96888b2", null ],
+    [ "movementType", "da/d10/a08509.html#a5574b3c7c3976325c72f2d49a91d1ef3", null ],
+    [ "npcflag", "da/d10/a08509.html#a3de7f5eeb02d6c90c2ef4da7752ea87e", null ],
+    [ "spawntimesecs", "da/d10/a08509.html#a1f0910de3138ea16397173c9821acf35", null ],
+    [ "unit_flags", "da/d10/a08509.html#a6dc0af68922ece07d5a0d86e361ce51e", null ],
+    [ "wander_distance", "da/d10/a08509.html#a05ac0d5358ba012c40155efee608772e", null ]
 ];

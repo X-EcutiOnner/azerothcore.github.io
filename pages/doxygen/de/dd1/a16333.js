@@ -1,5 +1,6 @@
 var a16333 =
 [
-    [ "achievement_respect_your_elders", "de/dd1/a16333.html#a2fd66ada0ff7482c00b2cb417a12e88e", null ],
-    [ "OnCheck", "de/dd1/a16333.html#a770922be3ab19848f7a8f43a82d78b88", null ]
+    [ "HandleOpenLock", "de/dd1/a16333.html#a32bfb203e9ecfbcfa75f6c3e7a17fade", null ],
+    [ "PrepareSpellScript", "de/dd1/a16333.html#a646a42455b6a46c9f7cbb4b0229122cd", null ],
+    [ "Register", "de/dd1/a16333.html#a5dcac6f609ec93074ec3ce195101f592", null ]
 ];

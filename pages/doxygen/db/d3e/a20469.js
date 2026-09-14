@@ -1,5 +1,6 @@
 var a20469 =
 [
-    [ "npc_ulduar_toasty_fire", "db/d3e/a20469.html#ad63c424b2ee9ff8013bc776acb7dbba7", null ],
-    [ "DoAction", "db/d3e/a20469.html#a514ed4231da0ad9e7d1ee2ea03106cb5", null ]
+    [ "FilterTargets", "db/d3e/a20469.html#a3ebface91881b903886ea9a10041da70", null ],
+    [ "PrepareSpellScript", "db/d3e/a20469.html#a50d5f046f75c431f9323e225ed795ea3", null ],
+    [ "Register", "db/d3e/a20469.html#aa037424d0f72823d0651f84c6d2c7449", null ]
 ];

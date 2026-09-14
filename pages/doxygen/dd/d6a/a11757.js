@@ -1,6 +1,4 @@
 var a11757 =
 [
-    [ "WorldSessionFilter", "dd/d6a/a11757.html#aba91eb2dfd56201534743b2d458fa111", null ],
-    [ "~WorldSessionFilter", "dd/d6a/a11757.html#a5de22e3a331e0ab17fe60f34c5b9b3fa", null ],
-    [ "Process", "dd/d6a/a11757.html#a0f0acf4ed9e61bf8aeb77ee7fb310660", null ]
+    [ "ServerOpcodeHandler", "d8/d5e/a05103.html#ga15d54f5e037e138c90bd0c9bf9628ac9", null ]
 ];

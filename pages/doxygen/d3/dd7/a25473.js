@@ -1,6 +1,7 @@
 var a25473 =
 [
-    [ "PrepareSpellScript", "d3/dd7/a25473.html#abb178100d4e5fa4032118f86aa34127d", null ],
-    [ "Register", "d3/dd7/a25473.html#a50e902cc281b909259097a8bed5651f2", null ],
-    [ "RemoveVehicleAuras", "d3/dd7/a25473.html#a4ec803f3164d6e38ddf10f4a0ca392e0", null ]
+    [ "PrepareSpellScript", "d3/dd7/a25473.html#aad8061898087fbf5eb6527cbaa70927d", null ],
+    [ "RecalculateDamage", "d3/dd7/a25473.html#a6f03ccb77ce43c4e36996ae344780ee3", null ],
+    [ "Register", "d3/dd7/a25473.html#abc7e406244a1a5ea9d7c3d8feb10b8ae", null ],
+    [ "_damagePct", "d3/dd7/a25473.html#a3ab5f5ec279f30dda50fa3ca3f5e6715", null ]
 ];

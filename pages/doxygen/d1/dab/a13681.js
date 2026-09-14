@@ -1,9 +1,8 @@
 var a13681 =
 [
-    [ "boss_brutallus", "d1/dab/a13681.html#a501c898505eb4265edee1546bc54713e", null ],
-    [ "AttackStart", "d1/dab/a13681.html#a05edf7010f4e7364399bc81582502219", null ],
-    [ "JustDied", "d1/dab/a13681.html#a48ae6589613f2ac90a499b9b6ae07d01", null ],
-    [ "JustEngagedWith", "d1/dab/a13681.html#a04ff0c07c578c3b92cf45d1ed27fb883", null ],
-    [ "KilledUnit", "d1/dab/a13681.html#a608607d83680da85f91324ce0035804b", null ],
-    [ "Reset", "d1/dab/a13681.html#a20ad64739072e39e7ff3132c6f637af7", null ]
+    [ "CalcPeriodic", "d1/dab/a13681.html#a9aaca3bb1d762c9bddf3b91205f48d00", null ],
+    [ "HandleDummyTick", "d1/dab/a13681.html#acd3616df94f888ad5fb1c5b0607f6f25", null ],
+    [ "HandleUpdatePeriodic", "d1/dab/a13681.html#a70ef86fd58eec1422bac6b61a4123842", null ],
+    [ "PrepareAuraScript", "d1/dab/a13681.html#a9a97a6ab249728dbad4d3603640a7963", null ],
+    [ "Register", "d1/dab/a13681.html#ab6b223ed68a521ea9a3cbc2a6e21ac49", null ]
 ];

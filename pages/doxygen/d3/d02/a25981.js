@@ -1,6 +1,7 @@
 var a25981 =
 [
-    [ "HandleSummon", "d3/d02/a25981.html#ad1ee0eb347454d50216610a266226d68", null ],
-    [ "PrepareSpellScript", "d3/d02/a25981.html#a15a545ee3ec4a926f1330ce0ad975d3e", null ],
-    [ "Register", "d3/d02/a25981.html#aa145041af68291f107c3ff11ce15b85e", null ]
+    [ "CalculateDamageAmount", "d3/d02/a25981.html#a2f608e8391e61434ef1b164c023854fe", null ],
+    [ "CalculateManaLeechAmount", "d3/d02/a25981.html#a8a4946d1718d8045a72c92355ff38ecb", null ],
+    [ "PrepareAuraScript", "d3/d02/a25981.html#a63d24d3ca4b2de1aa7f67376ded7bc59", null ],
+    [ "Register", "d3/d02/a25981.html#aa6e74e89930fd3cc564c3cba86e3687e", null ]
 ];

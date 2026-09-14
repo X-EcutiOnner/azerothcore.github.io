@@ -1,6 +1,7 @@
 var a20505 =
 [
-    [ "FilterTargets", "d2/dd5/a20505.html#a16c036791c9dc94490d0504d6e530bad", null ],
-    [ "PrepareSpellScript", "d2/dd5/a20505.html#a0c1a162a3dfb2b508f9efaebe478ca74", null ],
-    [ "Register", "d2/dd5/a20505.html#a061c3091e981f09d20016c4f523f3c17", null ]
+    [ "HandleAfterHit", "d2/dd5/a20505.html#a75953cbb3a288fd373e602ed07d84441", null ],
+    [ "PrepareSpellScript", "d2/dd5/a20505.html#a55c604f072fd0bbdcb886635fb53eaa8", null ],
+    [ "Register", "d2/dd5/a20505.html#af963f0dcdf2a1bc040a597c06983f0a7", null ],
+    [ "Validate", "d2/dd5/a20505.html#aea2b951dd2353800958f654df58d8fd8", null ]
 ];

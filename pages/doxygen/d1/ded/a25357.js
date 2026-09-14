@@ -1,6 +1,6 @@
 var a25357 =
 [
-    [ "HandleDummy", "d1/ded/a25357.html#a0bcbef8a2d5978498556a217ac618fed", null ],
-    [ "PrepareSpellScript", "d1/ded/a25357.html#a5901c22f3a10fdbd21d934f5cb8cd76d", null ],
-    [ "Register", "d1/ded/a25357.html#a2c6d9c273a3d281dacefc20970912166", null ]
+    [ "PrepareSpellScript", "d1/ded/a25357.html#a47d6dbe250410458fe54421158545efb", null ],
+    [ "Register", "d1/ded/a25357.html#ae2334b3fcfa916eb4b9ae1ca85a9687e", null ],
+    [ "SetDest", "d1/ded/a25357.html#aa037240eae1a1dd2c2670fed7dcc4e8c", null ]
 ];

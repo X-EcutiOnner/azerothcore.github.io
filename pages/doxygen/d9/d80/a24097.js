@@ -1,7 +1,6 @@
 var a24097 =
 [
-    [ "HandleEffect", "d9/d80/a24097.html#acb353dbdd050bfc6aa4b4b5f6433dc03", null ],
-    [ "PrepareSpellScript", "d9/d80/a24097.html#ad95bc33917e1aa968eedc636f6e3ddcb", null ],
-    [ "Register", "d9/d80/a24097.html#ac2b2bd2581a638553167d5c8099a70cd", null ],
-    [ "Validate", "d9/d80/a24097.html#a7702b0e876ab5ccd750d1072ee70ed69", null ]
+    [ "instance_mechanar_InstanceMapScript", "dd/d52/a24101.html", "dd/d52/a24101" ],
+    [ "instance_mechanar", "d9/d80/a24097.html#ab31a66a0eb8b9ac6f79af479528ff4fd", null ],
+    [ "GetInstanceScript", "d9/d80/a24097.html#ae8e9810a9bfd6b0ec256dd6a288392ed", null ]
 ];

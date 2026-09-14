@@ -1,6 +1,4 @@
 var a10825 =
 [
-    [ "LootScript", "d5/d11/a10825.html#acb6898fdb67e5bdcf0de945da5ec667d", null ],
-    [ "IsDatabaseBound", "d5/d11/a10825.html#ad60b605eac89be48efd339127e9cb9cd", null ],
-    [ "OnLootMoney", "d5/d11/a10825.html#a56a57baead49f6815a9979b181a55375", null ]
+    [ "DynamicObjectScript", "d5/d11/a10825.html#aef90c6acd4e392c12a0d5350f6aa1679", null ]
 ];

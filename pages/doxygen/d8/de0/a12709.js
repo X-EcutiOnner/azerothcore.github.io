@@ -1,13 +1,12 @@
 var a12709 =
 [
-    [ "npc_rocknot", "d8/de0/a12709.html#a890eaac55162130b05c7d2dba26cc872", null ],
-    [ "DoGo", "d8/de0/a12709.html#a242e871de8e19462fcab6fb9eae1039e", null ],
-    [ "Reset", "d8/de0/a12709.html#afaa1977f370fe699c75ebb83c0d291dd", null ],
-    [ "sQuestReward", "d8/de0/a12709.html#a633123eb64bd6d46ace12fd0e1853aef", null ],
-    [ "UpdateAI", "d8/de0/a12709.html#a15755c98f937784f538d547b15c2d192", null ],
-    [ "WaypointReached", "d8/de0/a12709.html#a3711cae23b14dcce2ac1938aaeb9b961", null ],
-    [ "WaypointReached", "d8/de0/a12709.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "_breakDoorTimer", "d8/de0/a12709.html#a44955a4ef0e730f72848e582892380b5", null ],
-    [ "_breakKegTimer", "d8/de0/a12709.html#ad6e48e6f81521b89da9f528e079c1c90", null ],
-    [ "instance", "d8/de0/a12709.html#a71e6532128131a10aae575d1bac023d0", null ]
+    [ "npc_av_marshal_or_warmasterAI", "d8/de0/a12709.html#af3620678992778edbb859622e057893a", null ],
+    [ "AttackStart", "d8/de0/a12709.html#aed39eaed8648ce78349c49ee33918b93", null ],
+    [ "EnterEvadeMode", "d8/de0/a12709.html#a4ac6045b3f3dfd6e3f9e0ea757f4d2c6", null ],
+    [ "JustRespawned", "d8/de0/a12709.html#a460c6912063587214ba0f2e01878d827", null ],
+    [ "Reset", "d8/de0/a12709.html#a56d99bcf5038c372399f16a07a2e5d31", null ],
+    [ "UpdateAI", "d8/de0/a12709.html#a7bf1631810c8446bc157f8ff220199b7", null ],
+    [ "_attacked", "d8/de0/a12709.html#a56d7211a3565c19b499f7de2eda6c862", null ],
+    [ "_hasAura", "d8/de0/a12709.html#a1c0049100cde1c62daf80779d1135156", null ],
+    [ "events", "d8/de0/a12709.html#a49b8e01897cd5347bbd06cac254163f4", null ]
 ];

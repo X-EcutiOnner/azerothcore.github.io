@@ -1,7 +1,8 @@
 var a26409 =
 [
-    [ "HandlePeriodicDummy", "da/d6b/a26409.html#ac8ca6a69b47cb2316b93e1953e233f8f", null ],
-    [ "PrepareAuraScript", "da/d6b/a26409.html#a1c85329bcafd6c327d1862feabc1eed0", null ],
-    [ "Register", "da/d6b/a26409.html#a0c43d96bf2e59fd67790f327cf14d71e", null ],
-    [ "Validate", "da/d6b/a26409.html#a7c3f4223a709e3cbb7d4a5b4b6a9e1c5", null ]
+    [ "HandleProc", "da/d6b/a26409.html#a2d5eff84e8df9c34fd4be6a98c2f5eb0", null ],
+    [ "OnRemove", "da/d6b/a26409.html#aec98f9b3b6fb458becb215d2c0e62149", null ],
+    [ "PrepareAuraScript", "da/d6b/a26409.html#af498da6d5732c51cf7b3e95633341107", null ],
+    [ "Register", "da/d6b/a26409.html#a846a3dd6335fc2830e51fff2e5d82ee2", null ],
+    [ "Validate", "da/d6b/a26409.html#a49218a89f9915a14b3a98f073d382f91", null ]
 ];

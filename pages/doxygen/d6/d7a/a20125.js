@@ -1,6 +1,6 @@
 var a20125 =
 [
-    [ "HandlePeriodic", "d6/d7a/a20125.html#a0a77c0b232e24e5cb8b3392ac8adbd3a", null ],
-    [ "PrepareAuraScript", "d6/d7a/a20125.html#a7c6b6839da4a93f656800c9ae174c832", null ],
-    [ "Register", "d6/d7a/a20125.html#ae28e67baa12488e248efd46ef5a7cb11", null ]
+    [ "HandleScript", "d6/d7a/a20125.html#a992dbad02eab01824d870bdd3fca93d0", null ],
+    [ "PrepareSpellScript", "d6/d7a/a20125.html#a0e6b4d1f59896a255929556baa943bdb", null ],
+    [ "Register", "d6/d7a/a20125.html#a6bd2b3f20ee88fbba18ea6da6e8a23ab", null ]
 ];

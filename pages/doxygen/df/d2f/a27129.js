@@ -1,6 +1,6 @@
 var a27129 =
 [
-    [ "HandleScript", "df/d2f/a27129.html#ae81570045d4984ee5682a0333b1b142d", null ],
-    [ "PrepareSpellScript", "df/d2f/a27129.html#acb074781e07961998362349a7616fc4e", null ],
-    [ "Register", "df/d2f/a27129.html#aaf41593da5ebb1118ccb10a5d4d32b26", null ]
+    [ "HandleDummyEffect", "df/d2f/a27129.html#a6340c91d8419755386cb3e138cb3c171", null ],
+    [ "PrepareSpellScript", "df/d2f/a27129.html#a67d08252c8b8deee312f17affb557df8", null ],
+    [ "Register", "df/d2f/a27129.html#a262bb06ac1d6a55e886d1226ad7bb583", null ]
 ];

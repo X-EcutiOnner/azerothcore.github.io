@@ -1,6 +1,6 @@
 var a16733 =
 [
-    [ "boss_paletressAI", "d6/d8f/a16737.html", "d6/d8f/a16737" ],
-    [ "boss_paletress", "da/d46/a16733.html#a04cbd31e71cc349b8c1058780ee6f673", null ],
-    [ "GetAI", "da/d46/a16733.html#a2c20ff397d115cf0e8a1801184e5a3f9", null ]
+    [ "OnSummon", "da/d46/a16733.html#ae2766d12fb686356b46126848f356c5a", null ],
+    [ "PrepareSpellScript", "da/d46/a16733.html#a6b9af3b70d2ce07fe8aee5292367a982", null ],
+    [ "Register", "da/d46/a16733.html#a717394bfbea621ae637f9e87efddda62", null ]
 ];

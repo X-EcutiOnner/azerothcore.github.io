@@ -1,7 +1,12 @@
 var a19573 =
 [
-    [ "FilterTargets", "de/db1/a19573.html#af92aec0df6c962a10ccbebb366081cfd", null ],
-    [ "PrepareSpellScript", "de/db1/a19573.html#ad7ccb2b2024887ec0a9802454a8bfaec", null ],
-    [ "Register", "de/db1/a19573.html#af59416debfc7685bec92541a00e1dafe", null ],
-    [ "Validate", "de/db1/a19573.html#abbe7ae557fb510457504f72adfa0aedc", null ]
+    [ "npc_gothik_triggerAI", "de/db1/a19573.html#ae45c6de238755eb069e0c182943da58c", null ],
+    [ "DamageTaken", "de/db1/a19573.html#ada8e501edfadbb55162532f081a4b48b", null ],
+    [ "EnterEvadeMode", "de/db1/a19573.html#aae212c3aecdf82f509ed0bf841f16e59", null ],
+    [ "JustEngagedWith", "de/db1/a19573.html#ab5403383f1fcd539cacf975dffbe2817", null ],
+    [ "JustSummoned", "de/db1/a19573.html#a35be0135b77a3e62ac8d421910cf0674", null ],
+    [ "SelectRandomSkullPile", "de/db1/a19573.html#aeafc63047c9059afdf668b8c22d2937f", null ],
+    [ "SpellHit", "de/db1/a19573.html#a18a8135ab0395991afc4896950783ae5", null ],
+    [ "SummonedCreatureDespawn", "de/db1/a19573.html#ad7ed092509dd41fddd44a4024c011364", null ],
+    [ "UpdateAI", "de/db1/a19573.html#a388a20d6d720f5f44a67073fc40e98b6", null ]
 ];

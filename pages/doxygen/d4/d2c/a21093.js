@@ -1,8 +1,6 @@
 var a21093 =
 [
-    [ "FilterTargets", "d4/d2c/a21093.html#a45d300e8cb6fbc499345b3bb2fb0d34f", null ],
-    [ "HandleDummyEffect", "d4/d2c/a21093.html#ab1f662fa107d176386067ffc6467d90f", null ],
-    [ "PrepareSpellScript", "d4/d2c/a21093.html#a069cc54bf009830ad781c790b4fcedad", null ],
-    [ "Register", "d4/d2c/a21093.html#ac91532151b689bde35d7120b1e9aec5b", null ],
-    [ "Validate", "d4/d2c/a21093.html#ad225dcdb1325a855f1909a8c66ca577b", null ]
+    [ "boss_yoggsaron_influence_tentacle", "d4/d2c/a21093.html#ac5908d64a4749303a08d352d470995dd", null ],
+    [ "DamageTaken", "d4/d2c/a21093.html#a0e76ab78b378ba4262dfb603e7634dfb", null ],
+    [ "JustDied", "d4/d2c/a21093.html#a9fac83d89c8c5810b2b5a25d0228c741", null ]
 ];

@@ -1,7 +1,7 @@
 var a09777 =
 [
-    [ "AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck", "d5/dc1/a09777.html#a038f512c564e4ae18571ac1836897edb", null ],
-    [ "operator()", "d5/dc1/a09777.html#a3bc09bf6fc4481c67190f57dc4198f6e", null ],
-    [ "i_funit", "d5/dc1/a09777.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6", null ],
-    [ "i_range", "d5/dc1/a09777.html#a953943e53e25b6887bfab8cc1c19620a", null ]
+    [ "GameObjectFocusCheck", "d5/dc1/a09777.html#a4e85da5aa745128d8103c8214ae32af5", null ],
+    [ "operator()", "d5/dc1/a09777.html#af5c0b63b8bfe112c9a8a43d7e49e1f7b", null ],
+    [ "i_caster", "d5/dc1/a09777.html#a2cc23e9fbd7beee5314b72036cba9ebf", null ],
+    [ "i_focusId", "d5/dc1/a09777.html#ace009546c2dcc6dac5de98b3c34152a5", null ]
 ];

@@ -1,8 +1,6 @@
 var a22877 =
 [
-    [ "Load", "db/d71/a22877.html#a4ff26763f05b07d882cd8d209464910e", null ],
-    [ "OnPeriodic", "db/d71/a22877.html#a3e3bb503a6b5f90741a4df668851accf", null ],
-    [ "PrepareAuraScript", "db/d71/a22877.html#a4126d35669859963f10ed1425a054298", null ],
-    [ "Register", "db/d71/a22877.html#adb6a44892d80aeaaf4c15c71a47f422e", null ],
-    [ "Validate", "db/d71/a22877.html#a22d6c338ea1f2af9be0eb02aceba42bd", null ]
+    [ "FilterTargets", "db/d71/a22877.html#abd3fafc2120b7069790dd9822cd62adc", null ],
+    [ "PrepareSpellScript", "db/d71/a22877.html#aebc0441481a2c458fc904175df931a9e", null ],
+    [ "Register", "db/d71/a22877.html#af1173988538ad44c27ea2ed9d49fe06d", null ]
 ];

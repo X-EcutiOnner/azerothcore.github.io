@@ -1,6 +1,6 @@
 var a13913 =
 [
-    [ "instance_sunwell_plateau_InstanceMapScript", "db/dbb/a13917.html", "db/dbb/a13917" ],
-    [ "instance_sunwell_plateau", "df/d92/a13913.html#a31d2245a9237c8dc4480b9d26ff3557c", null ],
-    [ "GetInstanceScript", "df/d92/a13913.html#a5960785a845c87e2e1730cfd865b44b4", null ]
+    [ "HandlePeriodic", "df/d92/a13913.html#ae090fc1fc8eab18cf6f744d9385fb713", null ],
+    [ "PrepareAuraScript", "df/d92/a13913.html#a2722b97e12e9371745d7f38504d9efdf", null ],
+    [ "Register", "df/d92/a13913.html#acb892b1e0281da08af07b2dd2a04ca03", null ]
 ];

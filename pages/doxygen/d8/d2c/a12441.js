@@ -1,13 +1,15 @@
 var a12441 =
 [
-    [ "cheat_commandscript", "d8/d2c/a12441.html#a7449cfba3578956a09b67e569e7e6083", null ],
-    [ "GetCommands", "d8/d2c/a12441.html#a7cc6ca0c216a4ff497b60dc7622623fd", null ],
-    [ "HandleCasttimeCheatCommand", "d8/d2c/a12441.html#a119ad06c5b8be235853bb13c7cff724b", null ],
-    [ "HandleCheatStatusCommand", "d8/d2c/a12441.html#acdf487c7a96d1757d3254e3f17e728cb", null ],
-    [ "HandleCoolDownCheatCommand", "d8/d2c/a12441.html#ab31a1cfe2567b0f597c689f44ab9fd6d", null ],
-    [ "HandleExploreCheatCommand", "d8/d2c/a12441.html#a25ea712f2fb249e49f5f0b8244f743c5", null ],
-    [ "HandleGodModeCheatCommand", "d8/d2c/a12441.html#ac398dbacf025830dc871bc77938d47d6", null ],
-    [ "HandlePowerCheatCommand", "d8/d2c/a12441.html#ae406c5d444b10ba65b79f8ff9d949c24", null ],
-    [ "HandleTaxiCheatCommand", "d8/d2c/a12441.html#ab9bd840c9622d173e710058eeb763388", null ],
-    [ "HandleWaterWalkCheatCommand", "d8/d2c/a12441.html#a9162d89c049f14f29bc5ba257964df34", null ]
+    [ "SunsReachReclamationData", "d8/d2c/a12441.html#a840eb2024ae39f2f60f819e884db80b3", null ],
+    [ "GetData", "d8/d2c/a12441.html#ae7ef124f28f2bc8230b4234652734994", null ],
+    [ "GetPhasePercentage", "d8/d2c/a12441.html#a215cec505dd74695704ae7961161e195", null ],
+    [ "GetSubPhasePercentage", "d8/d2c/a12441.html#aaee292336c57d967842d63f55e69bf0f", null ],
+    [ "GetSunwellGatePercentage", "d8/d2c/a12441.html#a9b5de26596e174f9a94e019fcb998f9e", null ],
+    [ "m_gate", "d8/d2c/a12441.html#a35755bcf3f67cfb2ebc77dcb36fa4dfb", null ],
+    [ "m_gateCounters", "d8/d2c/a12441.html#a76b38d6f571386c1d818752e12a66f66", null ],
+    [ "m_phase", "d8/d2c/a12441.html#a67711cd7d43f481161b8f98690d67fe3", null ],
+    [ "m_subphaseMask", "d8/d2c/a12441.html#a0a94a3b69ac5ccfcfae35af007ed375c", null ],
+    [ "m_sunsReachReclamationCounters", "d8/d2c/a12441.html#a14253084085c114aa2cfeefdebb0257d", null ],
+    [ "m_sunsReachReclamationMutex", "d8/d2c/a12441.html#a0ef2835b702469482926ec4942d0f786", null ],
+    [ "m_sunsReachReclamationPlayers", "d8/d2c/a12441.html#a72780ba8e17ccf5513d104eb228b3411", null ]
 ];

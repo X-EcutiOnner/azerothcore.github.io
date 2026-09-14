@@ -1,6 +1,7 @@
 var a24217 =
 [
-    [ "HandleEffectRemove", "d1/dc3/a24217.html#a2e73fd55dd7e6e658bc6c6623b650732", null ],
-    [ "PrepareAuraScript", "d1/dc3/a24217.html#a9aabae3a6c57be9b17394d4a39fe24ec", null ],
-    [ "Register", "d1/dc3/a24217.html#ac02217c103db141d75377e233e1e4242", null ]
+    [ "npc_maghar_captiveAI", "de/d91/a24221.html", "de/d91/a24221" ],
+    [ "npc_maghar_captive", "d1/dc3/a24217.html#a59e177f33306ed0bb3de9f640d3685e4", null ],
+    [ "GetAI", "d1/dc3/a24217.html#a7f1528549b55edfb5286db4afe6ce50e", null ],
+    [ "OnQuestAccept", "d1/dc3/a24217.html#a0cd3a423866b9b5449f8efc729b69c27", null ]
 ];

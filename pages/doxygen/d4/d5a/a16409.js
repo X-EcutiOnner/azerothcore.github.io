@@ -1,19 +1,12 @@
 var a16409 =
 [
-    [ "boss_hadronox", "d4/d5a/a16409.html#a5f99247a1eb3ca11741c656db9f91864", null ],
-    [ "DamageTaken", "d4/d5a/a16409.html#a4c74557d814776061fe6df4c234885f1", null ],
-    [ "DoAction", "d4/d5a/a16409.html#a822059f4efa5e311bf3f79698ed3aa6e", null ],
-    [ "GetData", "d4/d5a/a16409.html#a9666b5af984f15afd52b9a81a12fd334", null ],
-    [ "IsInCombatWithPlayer", "d4/d5a/a16409.html#a00d15de04d2f63c71b762d8c05161295", null ],
-    [ "JustEngagedWith", "d4/d5a/a16409.html#a0ecc876405753200c1c2fe575635ffb0", null ],
-    [ "JustSummoned", "d4/d5a/a16409.html#a3a5680abcef0529dcfca6c27f42f8f61", null ],
-    [ "KilledUnit", "d4/d5a/a16409.html#a721fabc47cb7416879e73e143898ddef", null ],
-    [ "MovementInform", "d4/d5a/a16409.html#a5e7c5226b0fb26a3c2d75726d5323af6", null ],
-    [ "Reset", "d4/d5a/a16409.html#a0d73acbe4061d48c2c5deb4203d0c9fb", null ],
-    [ "SummonCrusherPack", "d4/d5a/a16409.html#ab58a7949dd4797849cf98152e541b9a9", null ],
-    [ "SummonedCreatureEvade", "d4/d5a/a16409.html#a23fb17d6eb7a03e7efe0bffb28adee0c", null ],
-    [ "UpdateAI", "d4/d5a/a16409.html#aef361a41c7a3db94c00b594dd82ffabd", null ],
-    [ "_crushersLeft", "d4/d5a/a16409.html#a386cafa7de8fcaf6ac5d823af01fc443", null ],
-    [ "_doorsWebbed", "d4/d5a/a16409.html#a1515f5161e04e97734c538d7dede2902", null ],
-    [ "_lastPlayerCombatState", "d4/d5a/a16409.html#a0cd1b2eae097b327e845e5a3038c6342", null ]
+    [ "npc_twilight_volunteer", "d4/d5a/a16409.html#a3062041fcabf972e0a3d4753363c37b3", null ],
+    [ "AttackStart", "d4/d5a/a16409.html#abc2e12fb7be5b1a7dabc4c2211e7de13", null ],
+    [ "DoAction", "d4/d5a/a16409.html#ae95bcb02ee4f0ead76e249de0cba2d88", null ],
+    [ "EnterEvadeMode", "d4/d5a/a16409.html#abd88e6fe0565babb92ccae17df0421d6", null ],
+    [ "MovementInform", "d4/d5a/a16409.html#a4f27ae97ccf2c349a6352a0f5ba1681a", null ],
+    [ "UpdateAI", "d4/d5a/a16409.html#a93288a45982b172c201e2442a4c91114", null ],
+    [ "events", "d4/d5a/a16409.html#ad8cc52c1462d7adbfbe566c55c0ed244", null ],
+    [ "isSacraficeTarget", "d4/d5a/a16409.html#a8350dba2c41754a2e5d15c94731ef27d", null ],
+    [ "pInstance", "d4/d5a/a16409.html#ad58453e078520fa23238a96115e5f38f", null ]
 ];

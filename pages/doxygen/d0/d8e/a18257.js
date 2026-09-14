@@ -1,6 +1,6 @@
 var a18257 =
 [
-    [ "PrepareSpellScript", "d0/d8e/a18257.html#a9041ce6139de9a48621d6898ddcca673", null ],
-    [ "RecalculateDamage", "d0/d8e/a18257.html#abfb7c002577a59864fb2aa069b713c0a", null ],
-    [ "Register", "d0/d8e/a18257.html#a4308449e8cbe7ed59598a837024141cb", null ]
+    [ "npc_darnavanAI", "d2/d4d/a18261.html", "d2/d4d/a18261" ],
+    [ "npc_darnavan", "d0/d8e/a18257.html#ac358ca123155165395fa5f7ec02c9dab", null ],
+    [ "GetAI", "d0/d8e/a18257.html#a9eeb6e5fba1e6d671af1f23f443c509a", null ]
 ];

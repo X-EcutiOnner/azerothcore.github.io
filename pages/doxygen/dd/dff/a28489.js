@@ -1,10 +1,10 @@
 var a28489 =
 [
-    [ "go_evil_book_for_dummies", "dd/dff/a28489.html#a69f599910bce0070c6b1af547c459b72", null ],
-    [ "HasLeatherSpecialty", "dd/dff/a28489.html#a3d755fa8777f33a318ffa6f004aecbed", null ],
-    [ "OnGossipHello", "dd/dff/a28489.html#aeb29351e2faf135298419488eb16cc7e", null ],
-    [ "OnGossipSelect", "dd/dff/a28489.html#ac4bc1c682b75c436a4d3fff118a20ca4", null ],
-    [ "SendActionMenu", "dd/dff/a28489.html#a0aa21b4619ea5cc8229eb56e09d3233d", null ],
-    [ "SendConfirmLearn", "dd/dff/a28489.html#a11a605c576a3c81b5ed96d413ec20f57", null ],
-    [ "SendConfirmUnlearn", "dd/dff/a28489.html#af9c10b0423327d8644020e8f5e26a603", null ]
+    [ "guard_shattrath_scryerAI", "dd/dff/a28489.html#a97accbf467ca1190f8a05512b3857164", null ],
+    [ "Reset", "dd/dff/a28489.html#adfcd8bce42148d303fe6ec9b615ffdb1", null ],
+    [ "UpdateAI", "dd/dff/a28489.html#ad759cca08b0093522e190ddc038e2c73", null ],
+    [ "banishTimer", "dd/dff/a28489.html#aa9aa3c2e7e69df5899c84ebde1e357bd", null ],
+    [ "canTeleport", "dd/dff/a28489.html#a84188b40b44deae5714466bb23bf2f0d", null ],
+    [ "exileTimer", "dd/dff/a28489.html#a97fbc3f54c23049fd91ad432cd560698", null ],
+    [ "playerGUID", "dd/dff/a28489.html#adb40d8bbc97a6a1fa0f4e303db470db2", null ]
 ];

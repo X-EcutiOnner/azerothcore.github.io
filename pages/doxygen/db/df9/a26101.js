@@ -1,7 +1,8 @@
 var a26101 =
 [
-    [ "HandleScript", "db/df9/a26101.html#a7c7f92d21898322c501f582a524f4052", null ],
-    [ "Load", "db/df9/a26101.html#a600eb87e8bbedd3504e3d259f89e3785", null ],
-    [ "PrepareSpellScript", "db/df9/a26101.html#a8ae826705bd1a1f1da3160be73926d7b", null ],
-    [ "Register", "db/df9/a26101.html#abda715e38cf19fa7276ec4f4a12d3b63", null ]
+    [ "HandleProc", "db/df9/a26101.html#ad92c7804b26bd29d135e55c8adad9093", null ],
+    [ "OnRemove", "db/df9/a26101.html#afa8e065ed835243f3ebb95c10792adf8", null ],
+    [ "PrepareAuraScript", "db/df9/a26101.html#a5e986f77b23fd0402089ea36f0360c79", null ],
+    [ "Register", "db/df9/a26101.html#a29d66b9790e3f7dfffb5dc398f26f9fb", null ],
+    [ "Validate", "db/df9/a26101.html#a51f81afec6ff0918530208d9de9dae24", null ]
 ];

@@ -1,8 +1,10 @@
 var a13109 =
 [
-    [ "FilterTargets", "d6/d9b/a13109.html#ac47cfe2bf2782202ac69ea7a91290c2f", null ],
-    [ "HandleScript", "d6/d9b/a13109.html#a47dcb727b8e467044602b2a3d54ec1de", null ],
-    [ "PrepareSpellScript", "d6/d9b/a13109.html#a2319460465cefa69b1b81ce50b1d7b85", null ],
-    [ "Register", "d6/d9b/a13109.html#a72b3bbddf931fee1a12700c867b47f3d", null ],
-    [ "Validate", "d6/d9b/a13109.html#a66d0a1ab1a3dae5242a7396a750e73ad", null ]
+    [ "boss_golemagg", "d6/d9b/a13109.html#ac7a23be0a51bd73b5c5b8215ba31412e", null ],
+    [ "DamageTaken", "d6/d9b/a13109.html#acf0917a65764074ebb11d51cb537c2f5", null ],
+    [ "Reset", "d6/d9b/a13109.html#ac663539bac3bcd858dfbfba6095172dd", null ],
+    [ "UpdateAI", "d6/d9b/a13109.html#aa68a9ff1858591b65ad650c18954bdea", null ],
+    [ "earthquakeTimer", "d6/d9b/a13109.html#ad581b8e54e08342041886b180c139db0", null ],
+    [ "enraged", "d6/d9b/a13109.html#a27a5041fcf93a3da6fe2130af24de386", null ],
+    [ "pyroblastTimer", "d6/d9b/a13109.html#aae54e1e74dd44329af4f66bf26b2e277", null ]
 ];

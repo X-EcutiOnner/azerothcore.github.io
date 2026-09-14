@@ -1,5 +1,6 @@
 var a14133 =
 [
-    [ "npc_tyrion", "d6/d38/a14133.html#a85b1abd4910729c17099174def6507b1", null ],
-    [ "OnQuestAccept", "d6/d38/a14133.html#af8388a07e52a8c5708434a70d0d28cbb", null ]
+    [ "CheckProc", "d6/d38/a14133.html#af6d00234388ceb5d1c9acd8775c66788", null ],
+    [ "PrepareAuraScript", "d6/d38/a14133.html#abdbb7406693a59372fe6783fbe4fb0f1", null ],
+    [ "Register", "d6/d38/a14133.html#acad1e829a317d15e73549047ece67eda", null ]
 ];

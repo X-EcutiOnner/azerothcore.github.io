@@ -1,10 +1,11 @@
 var a25581 =
 [
-    [ "CalcPeriodic", "dd/d6d/a25581.html#a4c5793639ad7715b0dc52a803546e7cf", null ],
-    [ "CalculateSpiritAmount", "dd/d6d/a25581.html#a5749d91e27de05f67110178f57c214e4", null ],
-    [ "HandleEffectApply", "dd/d6d/a25581.html#a0de0ba95c09c87054d63974943750805", null ],
-    [ "HandlePeriodic", "dd/d6d/a25581.html#a2ff4241cf4535a6cb8361b9f54d7a23c", null ],
-    [ "PrepareAuraScript", "dd/d6d/a25581.html#aaa2c2fea4310cdba1739f02afa48a318", null ],
-    [ "Register", "dd/d6d/a25581.html#ae9df15062a8bd776e9a5a4a5a53fac8f", null ],
-    [ "amount", "dd/d6d/a25581.html#af07c7c4a2f6a4d59bee8d44b46be5552", null ]
+    [ "spell_gen_apply_aura_after_expiration", "dd/d6d/a25581.html#a391e5089eb034618c5e3edde26685a00", null ],
+    [ "AfterRemove", "dd/d6d/a25581.html#afea2221ceeebf90cf352084d8aacf7c9", null ],
+    [ "PrepareAuraScript", "dd/d6d/a25581.html#a494123635eda4c43d92a08c9c8cd5627", null ],
+    [ "Register", "dd/d6d/a25581.html#a3189ba65a1d9adf252d9f0dfb70abd16", null ],
+    [ "Validate", "dd/d6d/a25581.html#ad405128104d8a6528e8db96281ad0f0b", null ],
+    [ "_aura", "dd/d6d/a25581.html#a8a79aef777e1397b031149c54ae9d81d", null ],
+    [ "_effect", "dd/d6d/a25581.html#aa276a986ba9b67964ddeec56d6455cf9", null ],
+    [ "_spellId", "dd/d6d/a25581.html#a330f1311911ba9f3ebd704c7f9a09246", null ]
 ];

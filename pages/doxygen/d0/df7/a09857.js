@@ -1,8 +1,8 @@
 var a09857 =
 [
-    [ "AllGameObjectsWithEntryInRange", "d0/df7/a09857.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56", null ],
-    [ "operator()", "d0/df7/a09857.html#a342aa18d98413620fce4c676fcf75305", null ],
-    [ "m_fRange", "d0/df7/a09857.html#a7cce16670c95c19f3eb68e5914160513", null ],
-    [ "m_pObject", "d0/df7/a09857.html#a5c898c20992999f11204aab6479d71f6", null ],
-    [ "m_uiEntry", "d0/df7/a09857.html#a64ff0c14c71e218b8f9a8888b1017fec", null ]
+    [ "CallOfHelpCreatureInRangeDo", "d0/df7/a09857.html#a6ff932341f415b659d486e63cbeb5fe4", null ],
+    [ "operator()", "d0/df7/a09857.html#a06eb5dd0f8969c20ca1234e01ae15377", null ],
+    [ "i_enemy", "d0/df7/a09857.html#a8e2e259c0159fd9418777787e4c68ccd", null ],
+    [ "i_funit", "d0/df7/a09857.html#aff1768cd844e4e23821cf78f9d360e06", null ],
+    [ "i_range", "d0/df7/a09857.html#ab0544cf93f94766701b72dbb6b3b55c1", null ]
 ];

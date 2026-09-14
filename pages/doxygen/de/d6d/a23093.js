@@ -1,7 +1,6 @@
 var a23093 =
 [
-    [ "CalculateAmount", "de/d6d/a23093.html#af0db71393c0b4a7bd5f4e11bd0212d06", null ],
-    [ "PrepareAuraScript", "de/d6d/a23093.html#a5af876b76d9239808ac72c5b6177cdcb", null ],
-    [ "Register", "de/d6d/a23093.html#a6d0d47536e6ef74a88c97019843d478c", null ],
-    [ "Update", "de/d6d/a23093.html#afd2ed6f36d1596a2de753f04c5563c5f", null ]
+    [ "HandleEffectRemove", "de/d6d/a23093.html#ae9baf688d8ac42c4ccbbf13f3b79e831", null ],
+    [ "PrepareAuraScript", "de/d6d/a23093.html#a2e2668f0b5bf369ec859627e0bd8d980", null ],
+    [ "Register", "de/d6d/a23093.html#acd7e22159d262a9888c744eecb978c09", null ]
 ];

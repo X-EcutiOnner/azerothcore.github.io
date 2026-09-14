@@ -1,7 +1,7 @@
 var a28621 =
 [
-    [ "npc_guardianAI", "dc/d1c/a28621.html#acc5d29a79e57fc023369c0dcd4b0d2a3", null ],
-    [ "JustEngagedWith", "dc/d1c/a28621.html#a50257f80245bc59437e53083badcb056", null ],
-    [ "Reset", "dc/d1c/a28621.html#a217df9bae079f56ffd70d27958fb2756", null ],
-    [ "UpdateAI", "dc/d1c/a28621.html#ab42c39f088ef819a5ffb5f9f4ba2c3a3", null ]
+    [ "npc_riggle_bassbaitAI", "dc/d1c/a28621.html#ad7a1a7a6f4c4ebb7ab93878ebb3a9a5b", null ],
+    [ "CheckTournamentState", "dc/d1c/a28621.html#aa7b4393b93be92fbb595648cede832be", null ],
+    [ "UpdateAI", "dc/d1c/a28621.html#ad0fca96e2c770ef179d98dcdd9aaca6e", null ],
+    [ "m_uiTimer", "dc/d1c/a28621.html#aec45a971a5b7aa574e905e9a2338fe90", null ]
 ];

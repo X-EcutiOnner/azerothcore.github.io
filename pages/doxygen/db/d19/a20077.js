@@ -1,6 +1,6 @@
 var a20077 =
 [
-    [ "HandleApplyTouch", "db/d19/a20077.html#a0c46c506f78f46f17c0de6caae774316", null ],
-    [ "PrepareSpellScript", "db/d19/a20077.html#a2f32b735a8a72a6ef52744d3ce8ada8b", null ],
-    [ "Register", "db/d19/a20077.html#a70382055564e4ead8b5da0d6bd20c67f", null ]
+    [ "CalculateDamage", "db/d19/a20077.html#a3b9afc712f9091273e9abc5079a90eb8", null ],
+    [ "PrepareSpellScript", "db/d19/a20077.html#a59e56fb107cca4952c5e94ed371f73dd", null ],
+    [ "Register", "db/d19/a20077.html#a02851f0b94687512a8e016bfb9b826e3", null ]
 ];

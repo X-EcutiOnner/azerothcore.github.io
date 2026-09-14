@@ -1,7 +1,12 @@
 var a16117 =
 [
-    [ "npc_kaya_flathoofAI", "de/de6/a16121.html", "de/de6/a16121" ],
-    [ "npc_kaya_flathoof", "d2/ddb/a16117.html#a588f88b1c00927a4ad6b7cd25fc1b065", null ],
-    [ "GetAI", "d2/ddb/a16117.html#ad7cce0c1a30abe5bc0bffa777c40c79a", null ],
-    [ "OnQuestAccept", "d2/ddb/a16117.html#acdb20ecb1ffee4417c9b39f3aebb0591", null ]
+    [ "npc_thrall_warchiefAI", "d2/ddb/a16117.html#ada9c79c1591a8bd28c66329dc7c5d3dc", null ],
+    [ "DoAction", "d2/ddb/a16117.html#a511da19703e30f6e82e59c5223bf2770", null ],
+    [ "JustDied", "d2/ddb/a16117.html#a5e6da0a5f5190d7959faff60851e679a", null ],
+    [ "JustEngagedWith", "d2/ddb/a16117.html#a994a9030e2d8c5afaa66c21897e54f82", null ],
+    [ "Reset", "d2/ddb/a16117.html#a920a29258228c9c2e7e0791d38b648e1", null ],
+    [ "sGossipSelect", "d2/ddb/a16117.html#aaad63a0de8acfc17355b7a35de4cc164", null ],
+    [ "UpdateAI", "d2/ddb/a16117.html#a537ed9f2d0a638d01e877d9ca1e7fdf0", null ],
+    [ "ChainLightningTimer", "d2/ddb/a16117.html#ab30df9277fc84f098e0bdd70a2ab3795", null ],
+    [ "ShockTimer", "d2/ddb/a16117.html#aa8609f8824f68ce7259465284c01dd35", null ]
 ];

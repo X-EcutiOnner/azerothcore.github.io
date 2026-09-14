@@ -1,8 +1,8 @@
 var a23609 =
 [
-    [ "boss_broggok", "d2/da2/a23609.html#ae20c04793116d3e8eab62d2ee27010df", null ],
-    [ "DoAction", "d2/da2/a23609.html#af5de5a1747c502f72af015c09d050354", null ],
-    [ "JustEngagedWith", "d2/da2/a23609.html#a084e3c37a0218d47c8e39b196fc6746a", null ],
-    [ "JustSummoned", "d2/da2/a23609.html#a0bf2d75f7889542a9e48689b8d080a1e", null ],
-    [ "Reset", "d2/da2/a23609.html#af11b4dc2aee8064a1eaad334d93e6de0", null ]
+    [ "npc_underbat", "d2/da2/a23609.html#a710a010d3425b7171ee45d8465fd6b2b", null ],
+    [ "JustEngagedWith", "d2/da2/a23609.html#ae137b6b763b3df6096c3bfd4dd7ee676", null ],
+    [ "Reset", "d2/da2/a23609.html#aae771ad526e8f72a90fe70ebbd91b472", null ],
+    [ "UpdateAI", "d2/da2/a23609.html#ab3a9b97543aee3fdf22c17e94f768c0e", null ],
+    [ "_scheduler", "d2/da2/a23609.html#a7644a73c2a5bcbbe0a3db5c782169752", null ]
 ];

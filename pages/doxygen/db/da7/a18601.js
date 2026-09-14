@@ -1,6 +1,6 @@
 var a18601 =
 [
-    [ "PeriodicTick", "db/da7/a18601.html#af47c7ea07ee3dbe824b1c294024d0c29", null ],
-    [ "PrepareAuraScript", "db/da7/a18601.html#aa2649c760e362cc7aa22cd770b15f7df", null ],
-    [ "Register", "db/da7/a18601.html#ad4290158ee9af93df11d1a46a5bd26a2", null ]
+    [ "FilterTargets", "db/da7/a18601.html#ad5a004ddfdc888c38e95c3a0b49ca73e", null ],
+    [ "PrepareSpellScript", "db/da7/a18601.html#a24466e7a04722cc7559b086f89d2edc8", null ],
+    [ "Register", "db/da7/a18601.html#a9ecea534f3dffdedf7d23b3b2461509d", null ]
 ];

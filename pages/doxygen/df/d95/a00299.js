@@ -1,10 +1,7 @@
 var a00299 =
 [
-    [ "UpdateException", "d3/dd4/a06281.html", "d3/dd4/a06281" ],
-    [ "DBUpdaterUtil", "d7/d3e/a06285.html", "d7/d3e/a06285" ],
-    [ "DBUpdater< T >", "d5/d89/a06289.html", "d5/d89/a06289" ],
-    [ "BaseLocation", "df/d95/a00299.html#a0c382fe144b0dc101a8b2b9d4ef51010", [
-      [ "LOCATION_REPOSITORY", "df/d95/a00299.html#a0c382fe144b0dc101a8b2b9d4ef51010a7c7f50c7daf1a5f1773676cc90cc9550", null ],
-      [ "LOCATION_DOWNLOAD", "df/d95/a00299.html#a0c382fe144b0dc101a8b2b9d4ef51010a02f1af050478ebf9488ea00a47c7e11c", null ]
-    ] ]
+    [ "FieldTypeToString", "df/d95/a00299.html#a9b1d39b7abfe176191c0ed27188ed310", null ],
+    [ "InitializeDatabaseFieldMetadata", "df/d95/a00299.html#a5e0e57902060d1fcd32688acb949b98e", null ],
+    [ "MysqlTypeToFieldType", "df/d95/a00299.html#a1a26932646b97d033efdf53078561a90", null ],
+    [ "SizeForType", "df/d95/a00299.html#ae077e892df09ce687a0a50be949ad69f", null ]
 ];

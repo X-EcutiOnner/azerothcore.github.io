@@ -1,7 +1,8 @@
 var a05188 =
 [
-    [ "GmVisibleCommandTest", "d7/d50/a29905.html", "d7/d50/a29905" ],
-    [ "TestVisibilityScript", "db/d64/a29901.html", "db/d64/a29901" ],
-    [ "TEST_F", "d6/d8c/a05188.html#ab69ef1935950dc8de0cefd60510d681d", null ],
-    [ "TEST_F", "d6/d8c/a05188.html#af70d9dbfad6d1852aa5b7ea680a70928", null ]
+    [ "CorpseMapPositionQuery", "d7/ddf/a11641.html", "d7/ddf/a11641" ],
+    [ "NameQuery", "d0/ddc/a11625.html", "d0/ddc/a11625" ],
+    [ "NameQueryResponse", "d3/d20/a11629.html", "d3/d20/a11629" ],
+    [ "TimeQuery", "d7/d9e/a11633.html", "d7/d9e/a11633" ],
+    [ "TimeQueryResponse", "db/d17/a11637.html", "db/d17/a11637" ]
 ];

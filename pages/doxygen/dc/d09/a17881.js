@@ -1,8 +1,9 @@
 var a17881 =
 [
-    [ "npc_saurfang_eventAI", "dc/d09/a17881.html#a8436a87576c92ecc0b45106683d20e93", null ],
-    [ "DoAction", "dc/d09/a17881.html#a45201c4a5b94fad948efe1d08e63e262", null ],
-    [ "SetData", "dc/d09/a17881.html#a7f012a54ebce5307940eb7957f028d52", null ],
-    [ "SpellHit", "dc/d09/a17881.html#a2ed920f949c4d8dbc6d6ff5b9149e749", null ],
-    [ "_index", "dc/d09/a17881.html#a793d72078bd68b34fcdb7cd6587295dd", null ]
+    [ "FilterTargets", "dc/d09/a17881.html#a7b490400378893a19cdaf52af25f3a51", null ],
+    [ "HandleScript", "dc/d09/a17881.html#acee46fb0af45364478a92db59fcc3f24", null ],
+    [ "Load", "dc/d09/a17881.html#a46a43b9a8dec2f61aee3dccad4178a78", null ],
+    [ "PrepareSpellScript", "dc/d09/a17881.html#abb8fac43566f92b19e644edc38ab5d73", null ],
+    [ "Register", "dc/d09/a17881.html#a1add221102b7067ffc130969f5172eae", null ],
+    [ "Validate", "dc/d09/a17881.html#a4d2b60161f5aed31132f0fc554aab7b6", null ]
 ];

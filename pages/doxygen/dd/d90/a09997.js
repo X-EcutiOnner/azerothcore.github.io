@@ -1,10 +1,5 @@
 var a09997 =
 [
-    [ "PlayerMoveItemData", "dd/d90/a09997.html#a2f707719b409975ddd3023d2239403d6", null ],
-    [ "CanStore", "dd/d90/a09997.html#a00680db86d45ad8e8652218fce05139d", null ],
-    [ "InitItem", "dd/d90/a09997.html#a34298fd6ac20ab0e02c6350dcc5a4d33", null ],
-    [ "IsBank", "dd/d90/a09997.html#ae4d45104dccf78581b4228a31fe192ad", null ],
-    [ "LogBankEvent", "dd/d90/a09997.html#a36516c5ca1aaa13afa9e61831a175068", null ],
-    [ "RemoveItem", "dd/d90/a09997.html#a482460f04b20349e909bac36f893a35a", null ],
-    [ "StoreItem", "dd/d90/a09997.html#a017e3bd414548e66f980587e81e598e5", null ]
+    [ "getFirst", "dd/d90/a09997.html#ab6524f9fba08d034c78a38ab1045ace9", null ],
+    [ "getFirst", "dd/d90/a09997.html#a74a687ba16e352c3fa5eafd1cfdd7b0e", null ]
 ];

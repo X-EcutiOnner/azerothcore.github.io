@@ -1,6 +1,5 @@
 var a13245 =
 [
-    [ "FilterTargets", "db/df1/a13245.html#adae7a812a222a60f9c89cac4ea327011", null ],
-    [ "PrepareSpellScript", "db/df1/a13245.html#a9576a48a3aa761c103f72586cd93970c", null ],
-    [ "Register", "db/df1/a13245.html#aaadad68c322eac268ea7a45f9c369c59", null ]
+    [ "npc_chess_move_trigger", "db/df1/a13245.html#a6c0c37677db45ee11ebe158893d99632", null ],
+    [ "DamageTaken", "db/df1/a13245.html#af413c7af2254c1cc06462b2a62ac88db", null ]
 ];

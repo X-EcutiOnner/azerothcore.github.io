@@ -1,7 +1,11 @@
 var a17417 =
 [
-    [ "UtherBatteredHiltEvent", "da/dc5/a17417.html#a7bb34b75a3e371260a231aea72f75b40", null ],
-    [ "Execute", "da/dc5/a17417.html#ad2eb37877155b6dbc9916338e30d0306", null ],
-    [ "_eventId", "da/dc5/a17417.html#a5045e057b2c5d468aa579751d2c799b8", null ],
-    [ "_owner", "da/dc5/a17417.html#a588974708f4a48f5a7b097a63a0c0899", null ]
+    [ "npc_spectral_footman", "da/dc5/a17417.html#ab12174cbf246178b52c074024453015e", null ],
+    [ "AttackStart", "da/dc5/a17417.html#a0fe7529c47d56f67b15023bc432f0498", null ],
+    [ "DoAction", "da/dc5/a17417.html#a9a81be4f5c159e64ba0f8926ea095f81", null ],
+    [ "EnterEvadeMode", "da/dc5/a17417.html#afc51e0562045028af7161ea66e7be9f0", null ],
+    [ "JustDied", "da/dc5/a17417.html#ae4292ffa4b9e142b41e58d31338b97b5", null ],
+    [ "JustEngagedWith", "da/dc5/a17417.html#a9d8d723b403035660b78c332d5813d3f", null ],
+    [ "Reset", "da/dc5/a17417.html#a1c3612a7d9ac3076392c5c22e4e0a73e", null ],
+    [ "UpdateAI", "da/dc5/a17417.html#af76de9237937199dfa715a445b0060c3", null ]
 ];

@@ -1,13 +1,9 @@
 var a20777 =
 [
-    [ "npc_razorscale_dark_rune_guardian", "d6/d34/a20777.html#a539b905da508869adcc7bad601490c9f", null ],
-    [ "CanAIAttack", "d6/d34/a20777.html#a096058710ee0d02583c4402081da9f18", null ],
-    [ "GetData", "d6/d34/a20777.html#ac1bb7e2ac921fa542ec414a204117f98", null ],
-    [ "JustEngagedWith", "d6/d34/a20777.html#ac7fb0480f94e0e8ca0061947ec7fdebb", null ],
-    [ "Reset", "d6/d34/a20777.html#afd7fcb578ea65c7a060215257bcc5589", null ],
-    [ "SetData", "d6/d34/a20777.html#a7adbb5b9fa95e7ab73ac5acf81ffefdc", null ],
-    [ "UpdateAI", "d6/d34/a20777.html#ab4ab3b501994c55ce6c2a7b01b8ca70b", null ],
-    [ "_events", "d6/d34/a20777.html#a6faba05e56bdbd4453ee44f9de7dca2d", null ],
-    [ "_instance", "d6/d34/a20777.html#aa392619b8e14ec4092e78cfdfe367858", null ],
-    [ "_killed", "d6/d34/a20777.html#af9dafde2780d5be7a6e22025299dc013", null ]
+    [ "npc_ulduar_emergency_fire_bot", "d6/d34/a20777.html#ae6e7e18bae098db633de891ab52ca0d3", null ],
+    [ "AttackStart", "d6/d34/a20777.html#ab319353cab89d6f1bcb9be7f8e273600", null ],
+    [ "MoveInLineOfSight", "d6/d34/a20777.html#a1d217847b4aa4d199bc7060820b2d0fb", null ],
+    [ "MovementInform", "d6/d34/a20777.html#a6f7306e3da54511ddbef772044f76950", null ],
+    [ "UpdateAI", "d6/d34/a20777.html#a653df31873aca5acb86020cc1e14f4a0", null ],
+    [ "_events", "d6/d34/a20777.html#a99f051bd7a1136375103005f0615c4f2", null ]
 ];

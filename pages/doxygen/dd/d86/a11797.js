@@ -1,14 +1,8 @@
 var a11797 =
 [
-    [ "Account", "dd/d86/a11797.html#acb9382abe66dd43176fb7af1f3020388", null ],
-    [ "AddonInfo", "dd/d86/a11797.html#ad39c1b9e73d5bbbe45114e3358126d73", null ],
-    [ "BattlegroupID", "dd/d86/a11797.html#aa09cd28d82e9d96d96a1ccefc4a313ca", null ],
-    [ "Build", "dd/d86/a11797.html#ae4a83f8e8c81c1d797512245392fd582", null ],
-    [ "Digest", "dd/d86/a11797.html#a6b795f38fb996534f502e1fa5de9e48e", null ],
-    [ "DosResponse", "dd/d86/a11797.html#afe2b4146ef592a7067ddaeac449b0644", null ],
-    [ "LocalChallenge", "dd/d86/a11797.html#a5c8c57127a0b1cd3cfa63503018c8ae3", null ],
-    [ "LoginServerID", "dd/d86/a11797.html#a155f8107ac5a637501a169cfaf43c4b9", null ],
-    [ "LoginServerType", "dd/d86/a11797.html#aea79adfcdb6acd5b6bf34fc9175cca3c", null ],
-    [ "RealmID", "dd/d86/a11797.html#a944915bd95665075fdf4b6fa01de9a9f", null ],
-    [ "RegionID", "dd/d86/a11797.html#a4052be051b41e931747b1956dc145d64", null ]
+    [ "PacketFilter", "dd/d86/a11797.html#accfa43359c62d2e9d6c38086c77374bd", null ],
+    [ "~PacketFilter", "dd/d86/a11797.html#a669531cfd9c06d5cf525986069117687", null ],
+    [ "Process", "dd/d86/a11797.html#a03679e3c241a535757608c63ca933ac9", null ],
+    [ "ProcessUnsafe", "dd/d86/a11797.html#a3e2bdc6d15cfd5cac1b9c130937599e3", null ],
+    [ "m_pSession", "dd/d86/a11797.html#ad3723289ea93f1095cf82584268335d9", null ]
 ];

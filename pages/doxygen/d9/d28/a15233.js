@@ -1,11 +1,8 @@
 var a15233 =
 [
-    [ "npc_hyjal_ground_trash", "d9/d28/a15233.html#a06b590bf9ef983b1ef2b94058144fc7d", null ],
-    [ "AttackStart", "d9/d28/a15233.html#a0ab86d651644dcc579585176c2b5c07e", null ],
-    [ "DoAction", "d9/d28/a15233.html#aa92481bcf993c4eda5ef271145200d77", null ],
-    [ "GetNearbyFriendlyTrashCreature", "d9/d28/a15233.html#ad94fe6d4dca64fa8eec183481f82bb39", null ],
-    [ "JustEngagedWith", "d9/d28/a15233.html#a576b909d65ae862af5dcc6500d2ff7e1", null ],
-    [ "PathEndReached", "d9/d28/a15233.html#a035610284a56e690200f978b0fd496ab", null ],
-    [ "Reset", "d9/d28/a15233.html#aa38b45f63841c049a2add0a9832268ef", null ],
-    [ "UpdateAI", "d9/d28/a15233.html#a91b3ee049bf199271618afd3ad0c5f77", null ]
+    [ "boss_azgalor", "d9/d28/a15233.html#ac794e0eacc2d543fa62e4b521089f080", null ],
+    [ "DoAction", "d9/d28/a15233.html#a43d7afa9da1375f431df871e2a1dfff2", null ],
+    [ "JustDied", "d9/d28/a15233.html#a49cc8abf458f82ad7d46c9c1563f0e98", null ],
+    [ "JustEngagedWith", "d9/d28/a15233.html#a4b067c3bccbd5f9c96c50d009250d3d0", null ],
+    [ "KilledUnit", "d9/d28/a15233.html#a04df1058e89ccc6e7ef2d1dff38d47e7", null ]
 ];

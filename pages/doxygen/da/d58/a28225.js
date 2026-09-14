@@ -1,5 +1,6 @@
 var a28225 =
 [
-    [ "go_seer_of_zebhalak", "da/d58/a28225.html#a423f16e878d67f7dc6ec3860afabacf4", null ],
-    [ "OnGossipHello", "da/d58/a28225.html#a84009789ce8e8d0d7c42996fde161135", null ]
+    [ "npc_dream_fogAI", "da/dd4/a28229.html", "da/dd4/a28229" ],
+    [ "npc_dream_fog", "da/d58/a28225.html#ae50306be88f15c9dfc4d0f12c63c68e6", null ],
+    [ "GetAI", "da/d58/a28225.html#a48c45fec086e3a50462deed44734ba38", null ]
 ];

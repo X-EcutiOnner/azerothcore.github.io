@@ -1,5 +1,9 @@
 var a00539 =
 [
-    [ "GetIdleMovementGenerator", "d3/d87/a00539.html#ab03e344726a074f17f8c63d10b67fcc1", null ],
-    [ "isStatic", "d3/d87/a00539.html#a05fec3371a9aee5a6448115a645a505d", null ]
+    [ "RandomMovementGenerator< T >", "d0/d23/a10533.html", "d0/d23/a10533" ],
+    [ "MAX_PATH_LENGHT_FACTOR", "d3/d87/a00539.html#a6e563601030e3152f7023ecd4fa3f3c7", null ],
+    [ "MIN_WANDER_DISTANCE_AIR", "d3/d87/a00539.html#a81b46c6e5a328cf46ead22b160a8a576", null ],
+    [ "MIN_WANDER_DISTANCE_GROUND", "d3/d87/a00539.html#a85e56933db548199999e1edb8e96836d", null ],
+    [ "RANDOM_LINKS_COUNT", "d3/d87/a00539.html#af447061c654f18b25537973f2739dad3", null ],
+    [ "RANDOM_POINTS_NUMBER", "d3/d87/a00539.html#ac0f6eaac315a81192c2307dcbac20f70", null ]
 ];

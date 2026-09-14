@@ -1,8 +1,6 @@
 var a16649 =
 [
-    [ "Load", "d4/d7b/a16649.html#a55dc086667f0fe23e513608e951276ed", null ],
-    [ "Phase", "d4/d7b/a16649.html#af66a6bff13803e54b6ed1447d1285ad4", null ],
-    [ "PrepareSpellScript", "d4/d7b/a16649.html#ae2c7cbd68ccf893144e38581a6f86f04", null ],
-    [ "Register", "d4/d7b/a16649.html#a8ab7e05e98771abcf9bed9995875b71d", null ],
-    [ "Validate", "d4/d7b/a16649.html#a87192df547adaf3cb060155d9cf4da79", null ]
+    [ "boss_twilight_halionAI", "dd/df4/a16653.html", "dd/df4/a16653" ],
+    [ "boss_twilight_halion", "d4/d7b/a16649.html#a23ea0a61acb2cf3fd83aece3ac7d218e", null ],
+    [ "GetAI", "d4/d7b/a16649.html#a56842d74b16cbd5636649cbc643c50d8", null ]
 ];

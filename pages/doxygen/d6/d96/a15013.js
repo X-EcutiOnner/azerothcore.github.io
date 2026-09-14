@@ -1,5 +1,7 @@
 var a15013 =
 [
-    [ "PrepareSpellScript", "d6/d96/a15013.html#af219083d127afe24b2541a95bfd449ff", null ],
-    [ "Register", "d6/d96/a15013.html#a03f7ac8d5968970f769191c7df7f5899", null ]
+    [ "npc_love_in_air_supply_sentry", "d6/d96/a15013.html#ab2742c3be0ed661a509b9eb32326bee5", null ],
+    [ "MoveInLineOfSight", "d6/d96/a15013.html#a9df110324c74277e07183c7db231bbda", null ],
+    [ "UpdateAI", "d6/d96/a15013.html#aaa658222954f96d45b75daf83555f6f8", null ],
+    [ "lock", "d6/d96/a15013.html#a59bf67b114014542538165c21aa109a6", null ]
 ];

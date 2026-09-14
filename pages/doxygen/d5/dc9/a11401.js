@@ -1,8 +1,9 @@
 var a11401 =
 [
-    [ "PlayObjectSound", "d5/dc9/a11401.html#ab322044d36abddeb2fafbf99261bb70b", null ],
-    [ "PlayObjectSound", "d5/dc9/a11401.html#a2c4d15099e991a9c2ddc5295536aa28e", null ],
-    [ "Write", "d5/dc9/a11401.html#a1162715dd557a9f7b7c25a0331bc3b74", null ],
-    [ "SoundKitID", "d5/dc9/a11401.html#a5e794706b8793d164a1189e9a6918735", null ],
-    [ "SourceObjectGUID", "d5/dc9/a11401.html#a82b226eba66e569c1f377f529e511361", null ]
+    [ "EnchantmentLog", "d5/dc9/a11401.html#a4427184d166b18e984dc301a6786aac3", null ],
+    [ "Write", "d5/dc9/a11401.html#a17752d3e862c1915f8479058a4be1eb7", null ],
+    [ "Caster", "d5/dc9/a11401.html#ae35a0c689357cf4b5a031f40314a7045", null ],
+    [ "EnchantId", "d5/dc9/a11401.html#a72a85b9f0d40c9406d64a9bf0b06581e", null ],
+    [ "ItemId", "d5/dc9/a11401.html#ad393d5f227bb81738582572bd2601650", null ],
+    [ "Target", "d5/dc9/a11401.html#a9ef981f750bee2101c1f886fa2514913", null ]
 ];

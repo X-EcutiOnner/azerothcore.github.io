@@ -1,5 +1,6 @@
 var a08101 =
 [
-    [ "value_type", "d8/dda/a08101.html#a72f92e01d1f385cf8d6ba7c31faa77e2", null ],
-    [ "TryConsume", "d8/dda/a08101.html#a7320475f165952ef8ebf69407b533248", null ]
+    [ "operator bool", "d8/dda/a08101.html#a02878c282dfcfd2b9f4eddf99a805fa3", null ],
+    [ "tail", "d8/dda/a08101.html#a0bd839d0c7a8b7ce84612c80f3ca84e7", null ],
+    [ "token", "d8/dda/a08101.html#a55e214db8a01ac3c427874d03f1bda54", null ]
 ];

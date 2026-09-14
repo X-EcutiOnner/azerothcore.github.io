@@ -1,6 +1,6 @@
 var a20193 =
 [
-    [ "achievement_assembly_of_iron", "d6/d68/a20193.html#ae90d193b039d88ce38108b6617b5b8e9", null ],
-    [ "OnCheck", "d6/d68/a20193.html#ae66b3e708b38bfe685f9d28c14c2d3f5", null ],
-    [ "_targetEntry", "d6/d68/a20193.html#a20e8938ff30b18737fb96cf0277b5680", null ]
+    [ "PrepareSpellScript", "d6/d68/a20193.html#af7426e99a49f8618fc38242ded7132f1", null ],
+    [ "RecalculateDamage", "d6/d68/a20193.html#a94e70b20f2139f668227dccb623c1af6", null ],
+    [ "Register", "d6/d68/a20193.html#acd911f78780e052d88f5f47574092d62", null ]
 ];

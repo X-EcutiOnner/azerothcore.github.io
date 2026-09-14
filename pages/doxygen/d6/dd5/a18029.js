@@ -1,6 +1,7 @@
 var a18029 =
 [
-    [ "npc_gunship_boarding_leaderAI", "d8/d61/a18033.html", "d8/d61/a18033" ],
-    [ "npc_gunship_boarding_leader", "d6/dd5/a18029.html#a8390eadab34a89643252f573588b140a", null ],
-    [ "GetAI", "d6/dd5/a18029.html#ae422c8a1de8fb909a89d2ad2f516e3b4", null ]
+    [ "DelayedMovementEvent", "d6/dd5/a18029.html#a21241cde30f66ae42edb311542f7405c", null ],
+    [ "Execute", "d6/dd5/a18029.html#a8287761226ee671905151891779b6efb", null ],
+    [ "_dest", "d6/dd5/a18029.html#a9a0cd9830509ffdecd98ac8231350d58", null ],
+    [ "_owner", "d6/dd5/a18029.html#a046942728282a997068de447271f3cbe", null ]
 ];

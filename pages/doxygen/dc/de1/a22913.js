@@ -1,10 +1,7 @@
 var a22913 =
 [
-    [ "boss_gathios_the_shatterer", "dc/de1/a22913.html#a34708f52c610e567c5acf62962e90d4e", null ],
-    [ "JustEngagedWith", "dc/de1/a22913.html#a98ad625cf2ac9b1d8d9b41001ba4fb34", null ],
-    [ "SelectCouncilMember", "dc/de1/a22913.html#a3d33c1a29b7ba2feb22ea9d3941b39ed", null ],
-    [ "UpdateAI", "dc/de1/a22913.html#a1541f1efd3978a4c91b80e411aec6442", null ],
-    [ "_toggleAura", "dc/de1/a22913.html#aa983e2d9018a9e53ee29840781f47c33", null ],
-    [ "_toggleBlessing", "dc/de1/a22913.html#a52e9b7d3b1af46d3ecb6ca9432ee3957", null ],
-    [ "_toggleSeal", "dc/de1/a22913.html#ad7e6f9e03968e2abac570d0c7a5de9e2", null ]
+    [ "HandleScriptEffect", "dc/de1/a22913.html#a6ec6e79849c618d009eae3551e16ff0a", null ],
+    [ "PrepareSpellScript", "dc/de1/a22913.html#a4f00eca7c78a785780be4379c1a56a6b", null ],
+    [ "Register", "dc/de1/a22913.html#adb676b9d6f36c30efbb8286b1e5edf6d", null ],
+    [ "Validate", "dc/de1/a22913.html#a9ce122d497e72e3a46b1857d722af48d", null ]
 ];

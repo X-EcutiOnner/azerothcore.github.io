@@ -1,9 +1,12 @@
 var a29873 =
 [
-    [ "SetUp", "d9/d55/a29873.html#a5ee46555116eca62d3e8320dd5a5fbbb", null ],
-    [ "TearDown", "d9/d55/a29873.html#a2a331c0ef77503c08c37e226a4e0a33b", null ],
-    [ "_distributor", "d9/d55/a29873.html#a6c043c7543dec59e640b379aec1ad0d0", null ],
-    [ "_mockRewarder", "d9/d55/a29873.html#ad466c2751d8e9739db56f9f82d15deff", null ],
-    [ "_previousWorld", "d9/d55/a29873.html#aef822a2309df5d13af31ea5a5da74df7", null ],
-    [ "_worldMock", "d9/d55/a29873.html#a00b242d182fd7eacc93efc9d4f3e914f", null ]
+    [ "SetUp", "d9/d55/a29873.html#a67c12a7a60e9c4a17ddddd7f2825b029", null ],
+    [ "TearDown", "d9/d55/a29873.html#aaf740c51d0319f7116097a94fa55b8be", null ],
+    [ "PERM_BAN", "d9/d55/a29873.html#a865f9650e6ce11f3feb66ee87969d402", null ],
+    [ "PERM_KICK", "d9/d55/a29873.html#a5ac4c3503b0daa3280b097858380e8b5", null ],
+    [ "PERM_MUTE", "d9/d55/a29873.html#a467f6ed1f2c9296bc6d630a13860c09b", null ],
+    [ "PERM_SHUTDOWN", "d9/d55/a29873.html#a1b891d364bcc7786a9a3f3f8c2dbccf4", null ],
+    [ "rbacData", "d9/d55/a29873.html#ace7a8836853498b4785b85eca7c71e96", null ],
+    [ "ROLE_ADMIN", "d9/d55/a29873.html#a2f66e37c22a953a8f9c8cd831a7e6b93", null ],
+    [ "ROLE_MOD", "d9/d55/a29873.html#ac9e1278f18b05d1ed0be1f277813c939", null ]
 ];

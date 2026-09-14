@@ -1,7 +1,7 @@
 var a26389 =
 [
-    [ "AfterRemove", "df/d5c/a26389.html#a554e2ab9dfd9d157eee13b7a5c33cf2e", null ],
-    [ "PrepareAuraScript", "df/d5c/a26389.html#a13f11ec412f18d805282b3810aff5e90", null ],
-    [ "Register", "df/d5c/a26389.html#ac9a6a96da8387d3c51fece7f0a968779", null ],
-    [ "Validate", "df/d5c/a26389.html#a2863c81b02f0b08430d9e713e7b644f7", null ]
+    [ "OnApply", "df/d5c/a26389.html#aa86d7b45f028773b8666c06d3a0e60b4", null ],
+    [ "OnRemove", "df/d5c/a26389.html#a0fdd3c926bb1b2846579102e64e8e18c", null ],
+    [ "PrepareAuraScript", "df/d5c/a26389.html#aa93b45e31c33caf3ea51a26846566b34", null ],
+    [ "Register", "df/d5c/a26389.html#a56d819c88a4e70a89cef5183e3c5b728", null ]
 ];

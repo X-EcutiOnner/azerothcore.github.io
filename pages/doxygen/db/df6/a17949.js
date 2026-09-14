@@ -1,5 +1,6 @@
 var a17949 =
 [
-    [ "achievement_flu_shot_shortage", "db/df6/a17949.html#af448c773bcdf31cec7ae9d7c85e9e595", null ],
-    [ "OnCheck", "db/df6/a17949.html#a3195af1d4504ffc200c99bef84eaaa5a", null ]
+    [ "ModAuraValue", "db/df6/a17949.html#a359453c6253beb6f729209c6d3d79af7", null ],
+    [ "PrepareSpellScript", "db/df6/a17949.html#a4f916abef69782be10cc6be9ba0124f5", null ],
+    [ "Register", "db/df6/a17949.html#a4a387df07c88144288c4327ce86b730a", null ]
 ];

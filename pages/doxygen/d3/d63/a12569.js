@@ -1,10 +1,14 @@
 var a12569 =
 [
-    [ "pool_commandscript", "d3/d63/a12569.html#a41308abbe25e1e50325923f62f2fa3af", null ],
-    [ "GetCommands", "d3/d63/a12569.html#a973b565473bd8f9ef5cfd61740d114b4", null ],
-    [ "GetPoolSpawns", "d3/d63/a12569.html#ac3fa702ac995b4a2767e5235747ae222", null ],
-    [ "HandlePoolInfoCommand", "d3/d63/a12569.html#aac45a4a6c51a92aa03acde1789e1a039", null ],
-    [ "HandlePoolLookupCommand", "d3/d63/a12569.html#a377a405a1dae394c6f17579c0f2751eb", null ],
-    [ "ListPoolMembers", "d3/d63/a12569.html#a63f8bf7dc197ed163cf87f9423c8f4d9", null ],
-    [ "StatusTag", "d3/d63/a12569.html#ad72421c1425d9a8cd4809b372d2c1e5b", null ]
+    [ "list_commandscript", "d3/d63/a12569.html#a5a85953a46afe08fe05a11fe69c934dc", null ],
+    [ "GetCommands", "d3/d63/a12569.html#a949c6e6f372afb50e1116b6414acdd7c", null ],
+    [ "HandleListAllAurasCommand", "d3/d63/a12569.html#a93f1fe9131b917c813058899efede2a5", null ],
+    [ "HandleListAurasByIdCommand", "d3/d63/a12569.html#a3c59e8b85175ef056b07f566c231c221", null ],
+    [ "HandleListAurasByNameCommand", "d3/d63/a12569.html#a78d6be53ddae80068e2d9c04ea494e24", null ],
+    [ "HandleListCreatureCommand", "d3/d63/a12569.html#a48388f1c839cec6597c74740ec49fa68", null ],
+    [ "HandleListItemCommand", "d3/d63/a12569.html#a7d0aadb081f25c3d533951bd9841f103", null ],
+    [ "HandleListObjectCommand", "d3/d63/a12569.html#ac8b32be8650c9e54388320d650c9761b", null ],
+    [ "HandleListRespawnsCommand", "d3/d63/a12569.html#a463e9471442ef3fa465d3d223876a2db", null ],
+    [ "ListAurasCommand", "d3/d63/a12569.html#a98c9f6fb42e8030d76f234cdb02a72fb", null ],
+    [ "ShouldListAura", "d3/d63/a12569.html#afc42154ec5e978b366780fb600b17e8d", null ]
 ];

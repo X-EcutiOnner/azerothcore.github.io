@@ -1,7 +1,8 @@
 var a26845 =
 [
-    [ "HandleProc", "d3/d85/a26845.html#ab743366a1ee3e2a77ecafde5a06439d0", null ],
-    [ "PrepareAuraScript", "d3/d85/a26845.html#afcf7c0209a22464b7cf72f2b4fa74eaf", null ],
-    [ "Register", "d3/d85/a26845.html#a1898ee4e5e69f7b00b242340e53c131f", null ],
-    [ "Validate", "d3/d85/a26845.html#a84495f575255d3359490021254edb31b", null ]
+    [ "Load", "d3/d85/a26845.html#a7662d85a5469c20edf6d2eefca820db3", null ],
+    [ "PrepareAuraScript", "d3/d85/a26845.html#a252bd975a7639eab4e151249db974b7c", null ],
+    [ "Register", "d3/d85/a26845.html#a51723a22f1062f44e8eb6848e1398595", null ],
+    [ "Split", "d3/d85/a26845.html#a08e982eae6030fdc679663bfd38bca47", null ],
+    [ "remainingAmount", "d3/d85/a26845.html#afaab88988769ddc720deb44f06de3d7d", null ]
 ];

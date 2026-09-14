@@ -1,5 +1,5 @@
 var a30073 =
 [
-    [ "CalculateSpellTypeMask", "d9/d73/a30073.html#ad4f136e69c7553ac32b1de047bf73c59", null ],
-    [ "SetUp", "d9/d73/a30073.html#a57be47f0c3962451b527ffe247dee814", null ]
+    [ "SetUp", "d9/d73/a30073.html#ae940d909b8f828dc9715954b469b6408", null ],
+    [ "_sim", "d9/d73/a30073.html#a5e053e184f84db65e68cd45de684cb61", null ]
 ];

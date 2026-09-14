@@ -1,8 +1,6 @@
 var a12717 =
 [
-    [ "npc_burning_spirit", "d9/d1d/a12717.html#acb0a685ea9aaddd23580ebeb4a0f1e45", null ],
-    [ "EnterEvadeMode", "d9/d1d/a12717.html#a162d280d1fc53de0655c99efce81c539", null ],
-    [ "IsSummonedBy", "d9/d1d/a12717.html#a3ef47ad5f1697f3a890469412e43c452", null ],
-    [ "MovementInform", "d9/d1d/a12717.html#a4c001de653aa8b096552247f5cbf1573", null ],
-    [ "_flamelasherGUID", "d9/d1d/a12717.html#aea694b777b8437b5909bd668279837b1", null ]
+    [ "boss_drektharAI", "d1/d8e/a12721.html", "d1/d8e/a12721" ],
+    [ "boss_drekthar", "d9/d1d/a12717.html#ac9296654b10191ac9d58219ba36f57b3", null ],
+    [ "GetAI", "d9/d1d/a12717.html#adeacbbc81ab675260c2cac1a6c76d3fe", null ]
 ];

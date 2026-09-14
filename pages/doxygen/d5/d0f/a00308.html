@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/database/Logging/AppenderDB.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/database/Updater/DBUpdater.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -104,23 +104,119 @@ $(document).ready(function(){initNavTree('d5/d0f/a00308.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">AppenderDB.cpp File Reference</div></div>
+  <div class="summary">
+<a href="#namespaces">Namespaces</a> &#124;
+<a href="#typedef-members">Typedefs</a> &#124;
+<a href="#func-members">Functions</a> &#124;
+<a href="#var-members">Variables</a>  </div>
+  <div class="headertitle"><div class="title">DBUpdater.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">AppenderDB.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">DBUpdater.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">BuiltInConfig.h</a>&quot;</code><br />
+<code>#include &quot;Config.h&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">DatabaseEnv.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">LogMessage.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">PreparedStatement.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">DatabaseLoader.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">DatabaseWorkerPoolAdapter.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Log.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">StartProcess.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">UpdateFetcher.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">QueryResult.h</a>&quot;</code><br />
+<code>#include &lt;filesystem&gt;</code><br />
+<code>#include &lt;fstream&gt;</code><br />
+<code>#include &lt;iostream&gt;</code><br />
 <code>#include &lt;vector&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:dd/dfc/a05141"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dfc/a05141.html">anonymous_namespace{DBUpdater.cpp}</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
+Typedefs</h2></td></tr>
+<tr class="memitem:a46d4fe7df18a42b31a3e2c1d50288507"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dfc/a05141.html#a46d4fe7df18a42b31a3e2c1d50288507">anonymous_namespace{DBUpdater.cpp}::Path</a> = std::filesystem::path</td></tr>
+<tr class="separator:a46d4fe7df18a42b31a3e2c1d50288507"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:a3d6c6331ddb1b77d420f04cdb0d47c17"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/dd5/a00215.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dfc/a05141.html#a3d6c6331ddb1b77d420f04cdb0d47c17">anonymous_namespace{DBUpdater.cpp}::Retrieve</a> (<a class="el" href="../../d9/d39/a06109.html">DatabaseUpdatePool</a> &amp;pool, std::string const &amp;query)</td></tr>
+<tr class="separator:a3d6c6331ddb1b77d420f04cdb0d47c17"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a60aa8fdb745a17f1b3c03e87caf89cd5"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dfc/a05141.html#a60aa8fdb745a17f1b3c03e87caf89cd5">anonymous_namespace{DBUpdater.cpp}::Apply</a> (<a class="el" href="../../d9/d39/a06109.html">DatabaseUpdatePool</a> &amp;pool, std::string const &amp;query)</td></tr>
+<tr class="separator:a60aa8fdb745a17f1b3c03e87caf89cd5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a38e70e24d58d7876f42d954d769852b2"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dfc/a05141.html#a38e70e24d58d7876f42d954d769852b2">anonymous_namespace{DBUpdater.cpp}::ApplyFile</a> (<a class="el" href="../../d9/d39/a06109.html">DatabaseUpdatePool</a> &amp;pool, Path const &amp;path)</td></tr>
+<tr class="separator:a38e70e24d58d7876f42d954d769852b2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1335aaca4f7fbac6a07960fa8d9c8e62"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dfc/a05141.html#a1335aaca4f7fbac6a07960fa8d9c8e62">anonymous_namespace{DBUpdater.cpp}::ApplyFile</a> (<a class="el" href="../../d9/d39/a06109.html">DatabaseUpdatePool</a> &amp;pool, std::string const &amp;host, std::string const &amp;user, std::string const &amp;password, std::string const &amp;port_or_socket, std::string const &amp;database, std::string const &amp;ssl, Path const &amp;path)</td></tr>
+<tr class="separator:a1335aaca4f7fbac6a07960fa8d9c8e62"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a23cdd10a64e2e376416e93949b5644ea"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dfc/a05141.html#a23cdd10a64e2e376416e93949b5644ea">anonymous_namespace{DBUpdater.cpp}::CreateDatabase</a> (<a class="el" href="../../d9/d39/a06109.html">DatabaseUpdatePool</a> &amp;pool)</td></tr>
+<tr class="separator:a23cdd10a64e2e376416e93949b5644ea"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abb1541bb142924d077074a145a6dc9d1"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dfc/a05141.html#abb1541bb142924d077074a145a6dc9d1">anonymous_namespace{DBUpdater.cpp}::UpdateDatabase</a> (<a class="el" href="../../d9/d39/a06109.html">DatabaseUpdatePool</a> &amp;pool, <a class="el" href="../../d4/d92/a06317.html">DBUpdaterInfo</a> const &amp;info, std::string_view modulesList)</td></tr>
+<tr class="separator:abb1541bb142924d077074a145a6dc9d1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad9151ad93918459d42b5b2e92f5240c4"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dfc/a05141.html#ad9151ad93918459d42b5b2e92f5240c4">anonymous_namespace{DBUpdater.cpp}::UpdateDatabase</a> (<a class="el" href="../../d9/d39/a06109.html">DatabaseUpdatePool</a> &amp;pool, <a class="el" href="../../d4/d92/a06317.html">DBUpdaterInfo</a> const &amp;info, std::vector&lt; std::string &gt; const *setDirectories)</td></tr>
+<tr class="separator:ad9151ad93918459d42b5b2e92f5240c4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a656a0a6d93f58d7d4cc2b1f99edb0c44"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dfc/a05141.html#a656a0a6d93f58d7d4cc2b1f99edb0c44">anonymous_namespace{DBUpdater.cpp}::PopulateDatabase</a> (<a class="el" href="../../d9/d39/a06109.html">DatabaseUpdatePool</a> &amp;pool, <a class="el" href="../../d4/d92/a06317.html">DBUpdaterInfo</a> const &amp;info)</td></tr>
+<tr class="separator:a656a0a6d93f58d7d4cc2b1f99edb0c44"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:a16a33693c8570aff221401b100547fb7"><td class="memItemLeft" align="right" valign="top">template class <a class="el" href="../../d8/dca/a04670.html#a4239bd747d930d5084e8f6e489980585">AC_DATABASE_API</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d0f/a00308.html#a16a33693c8570aff221401b100547fb7">DBUpdater&lt; LoginDatabaseConnection &gt;</a></td></tr>
+<tr class="separator:a16a33693c8570aff221401b100547fb7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ace05c45d1df6cb7f16487ef1aa8bc9f7"><td class="memItemLeft" align="right" valign="top">template class <a class="el" href="../../d8/dca/a04670.html#a4239bd747d930d5084e8f6e489980585">AC_DATABASE_API</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d0f/a00308.html#ace05c45d1df6cb7f16487ef1aa8bc9f7">DBUpdater&lt; WorldDatabaseConnection &gt;</a></td></tr>
+<tr class="separator:ace05c45d1df6cb7f16487ef1aa8bc9f7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a753e207671f7af3815a056247f2de3ce"><td class="memItemLeft" align="right" valign="top">template class <a class="el" href="../../d8/dca/a04670.html#a4239bd747d930d5084e8f6e489980585">AC_DATABASE_API</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d0f/a00308.html#a753e207671f7af3815a056247f2de3ce">DBUpdater&lt; CharacterDatabaseConnection &gt;</a></td></tr>
+<tr class="separator:a753e207671f7af3815a056247f2de3ce"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<h2 class="groupheader">Variable Documentation</h2>
+<a id="a753e207671f7af3815a056247f2de3ce" name="a753e207671f7af3815a056247f2de3ce"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a753e207671f7af3815a056247f2de3ce">&#9670;&#160;</a></span>DBUpdater&lt; CharacterDatabaseConnection &gt;</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">template class <a class="el" href="../../d8/dca/a04670.html#a4239bd747d930d5084e8f6e489980585">AC_DATABASE_API</a> <a class="el" href="../../dc/df2/a06321.html">DBUpdater</a>&lt; <a class="el" href="../../db/df7/a06137.html">CharacterDatabaseConnection</a> &gt;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a16a33693c8570aff221401b100547fb7" name="a16a33693c8570aff221401b100547fb7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a16a33693c8570aff221401b100547fb7">&#9670;&#160;</a></span>DBUpdater&lt; LoginDatabaseConnection &gt;</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">template class <a class="el" href="../../d8/dca/a04670.html#a4239bd747d930d5084e8f6e489980585">AC_DATABASE_API</a> <a class="el" href="../../dc/df2/a06321.html">DBUpdater</a>&lt; <a class="el" href="../../dd/d73/a06141.html">LoginDatabaseConnection</a> &gt;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ace05c45d1df6cb7f16487ef1aa8bc9f7" name="ace05c45d1df6cb7f16487ef1aa8bc9f7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ace05c45d1df6cb7f16487ef1aa8bc9f7">&#9670;&#160;</a></span>DBUpdater&lt; WorldDatabaseConnection &gt;</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">template class <a class="el" href="../../d8/dca/a04670.html#a4239bd747d930d5084e8f6e489980585">AC_DATABASE_API</a> <a class="el" href="../../dc/df2/a06321.html">DBUpdater</a>&lt; <a class="el" href="../../d5/d6e/a06145.html">WorldDatabaseConnection</a> &gt;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_3906e801b468713a6f5b1f193c7ea10d.html">database</a></li><li class="navelem"><a class="el" href="../../dir_0a6176fbf4a4e2963f993c806916a71c.html">Logging</a></li><li class="navelem"><a class="el" href="../../d5/d0f/a00308.html">AppenderDB.cpp</a></li>
-    <li class="footer">Generated on Mon Sep 7 2026 23:03:19 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_3906e801b468713a6f5b1f193c7ea10d.html">database</a></li><li class="navelem"><a class="el" href="../../dir_ac632e0cb7d565e729369f2b018d776c.html">Updater</a></li><li class="navelem"><a class="el" href="../../d5/d0f/a00308.html">DBUpdater.cpp</a></li>
+    <li class="footer">Generated on Mon Sep 14 2026 23:32:28 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

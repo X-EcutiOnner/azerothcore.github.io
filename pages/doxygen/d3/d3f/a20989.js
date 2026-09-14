@@ -1,8 +1,7 @@
 var a20989 =
 [
-    [ "boss_yoggsaron_guardian_of_ys", "d3/d3f/a20989.html#ad66fab16b309b62895578d46e8a2e730", null ],
-    [ "JustDied", "d3/d3f/a20989.html#a12ce3fef2fba8d92945249cf8920a0b4", null ],
-    [ "Reset", "d3/d3f/a20989.html#ac803a9da5223db459b9ec48435e59c30", null ],
-    [ "UpdateAI", "d3/d3f/a20989.html#a573576eaff2cbd4f779675e19ad53dea", null ],
-    [ "_spellTimer", "d3/d3f/a20989.html#a5922d21c4606ab9a41e20948dc926cea", null ]
+    [ "OnRemove", "d3/d3f/a20989.html#ae99b372d0894e0c7aafc44f2a3cfac4f", null ],
+    [ "PrepareAuraScript", "d3/d3f/a20989.html#ae99f88a63656d0b48ca4b85548cc736b", null ],
+    [ "Register", "d3/d3f/a20989.html#a27c5665b64c50df5d9c67d5136ab7567", null ],
+    [ "Validate", "d3/d3f/a20989.html#a3d351d7e9ac022ea1bd912843fe66891", null ]
 ];

@@ -1,5 +1,6 @@
 var a28801 =
 [
-    [ "npc_harrowmeiser", "d5/d21/a28801.html#a30a44ae739447e14ded0c0af6c73e76e", null ],
-    [ "OnGossipHello", "d5/d21/a28801.html#a3d4b6bc9a85315b0f31347068b3c5317", null ]
+    [ "npc_necropolis_relay", "d5/d21/a28801.html#a044958acd1449d664532aeea7d0cb2fd", null ],
+    [ "SpellHit", "d5/d21/a28801.html#a45fdef0f86f18b87b90d2b4f9c0df9cb", null ],
+    [ "SpellHitTarget", "d5/d21/a28801.html#a1968d3537de2bdb9d4786cc96d2c346c", null ]
 ];

@@ -1,22 +1,13 @@
 var a12209 =
 [
-    [ "CreatureTextMgr", "d5/d8c/a12209.html#a00cc7ebfdb0702de8af841dcbbddcc3b", null ],
-    [ "~CreatureTextMgr", "d5/d8c/a12209.html#a6f77e1f030bb16b585f9a75059a06f31", null ],
-    [ "GetLocalizedChatString", "d5/d8c/a12209.html#a169c53804fb5bf4ecd509ee90482ebf5", null ],
-    [ "GetRangeForChatType", "d5/d8c/a12209.html#aeddebd7d3fcf604ee4d11b77ff87fd53", null ],
-    [ "GetTextMap", "d5/d8c/a12209.html#a5237341864a3082126bed703d68312b2", null ],
-    [ "GetTextOptions", "d5/d8c/a12209.html#abf52920783a936f46500e158fcf0fd8c", null ],
-    [ "instance", "d5/d8c/a12209.html#a92acbdab30a8942859e01526144b9989", null ],
-    [ "LoadCreatureTextLocales", "d5/d8c/a12209.html#a826a3cd2e991c358a98fced5512297dd", null ],
-    [ "LoadCreatureTextOptions", "d5/d8c/a12209.html#a1159c9ba36268a33dbeb52a78dda72f2", null ],
-    [ "LoadCreatureTexts", "d5/d8c/a12209.html#a129039b5a7d2de067656cd6e47de43dd", null ],
-    [ "SendChat", "d5/d8c/a12209.html#a93c7fa546a0f41e7d59c6782aecee070", null ],
-    [ "SendChatPacket", "d5/d8c/a12209.html#a0b94720ae3ab22ba8bb961f26f47548b", null ],
-    [ "SendEmote", "d5/d8c/a12209.html#a8b9dc67f09242b5ade7405663ca52fda", null ],
-    [ "SendNonChatPacket", "d5/d8c/a12209.html#a2303c6343e233beb3f7a1ebda40e080e", null ],
-    [ "SendSound", "d5/d8c/a12209.html#aa36b6dd5010eea049973122bec4fceb1", null ],
-    [ "TextExist", "d5/d8c/a12209.html#aa92d99a93a387193a10eb7a30c59b86e", null ],
-    [ "mLocaleTextMap", "d5/d8c/a12209.html#a12ecf289ef6d78691b6ab23f3cdd9fd8", null ],
-    [ "mTextMap", "d5/d8c/a12209.html#ad25faab453d0f5d6270797eeeb5e2e40", null ],
-    [ "mTextOptionsMap", "d5/d8c/a12209.html#aef06823ec3f9b56e8ee25b28b453193f", null ]
+    [ "AsyncFunction", "d5/d8c/a12209.html#a2addfa1b63edc880ca54fc46e0a6d94b", null ],
+    [ "CallbackFunction", "d5/d8c/a12209.html#ab2d6148aad6c533ac787ebef69250357", null ],
+    [ "AsyncTask", "d5/d8c/a12209.html#ad6f8ee54d3e1b0736e34362cd30f1365", null ],
+    [ "~AsyncTask", "d5/d8c/a12209.html#a553b3c1b778f9dadea8b764f210b8d8c", null ],
+    [ "ExecuteAsync", "d5/d8c/a12209.html#a1cdc60ddffaa431d19c992c0e389b85d", null ],
+    [ "InvokeIfReady", "d5/d8c/a12209.html#aecfe1b8d9ab2be59f564939dde44cfb9", null ],
+    [ "asyncFunc", "d5/d8c/a12209.html#a835a7b06185916adfb632d27ef73c9ce", null ],
+    [ "asyncTask", "d5/d8c/a12209.html#a81e22f584cc7d48594751038ac113ab2", null ],
+    [ "callbackFunc", "d5/d8c/a12209.html#a9eb4e4b1eddea03bc0197758d34f9325", null ],
+    [ "isReady", "d5/d8c/a12209.html#af4b96cd278382c34dbaaa3782df8371b", null ]
 ];

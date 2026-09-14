@@ -1,7 +1,6 @@
 var a12149 =
 [
-    [ "ScriptStateStore", "da/d9b/a12149.html#a51baffee5c9dbf255591db8ea13ee516", null ],
-    [ "_auraApplication", "da/d9b/a12149.html#af5098bcedac048808e11bf2f82d705a7", null ],
-    [ "_currentScriptState", "da/d9b/a12149.html#adddf594d9468b16455da6e2aef683d44", null ],
-    [ "_defaultActionPrevented", "da/d9b/a12149.html#a63cf373d469af72bc96a3e72351e3256", null ]
+    [ "EffectPeriodicHandler", "da/d9b/a12149.html#aad44956783e9c044eb92065cc62e97f6", null ],
+    [ "Call", "da/d9b/a12149.html#a938e987363972fbd58e42f19880016d8", null ],
+    [ "pEffectHandlerScript", "da/d9b/a12149.html#a803108e6a515d2d210d8e79a9fb6ce18", null ]
 ];

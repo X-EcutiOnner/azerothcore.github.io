@@ -1,20 +1,12 @@
 var a23713 =
 [
-    [ "instance_magtheridons_lair_InstanceMapScript", "d7/df9/a23713.html#a06f7e0f178d45a92f16dc06b68645fba", null ],
-    [ "Initialize", "d7/df9/a23713.html#afa054fb11fe777019baa70f46bfd8212", null ],
-    [ "IsAnyChannelerAlive", "d7/df9/a23713.html#a6cfc7ec365ab5c5d8ec9d257bca59a48", null ],
-    [ "OnCreatureCreate", "d7/df9/a23713.html#aa05f08785d9d62db41e8d29ef55db0d8", null ],
-    [ "OnCreatureEvade", "d7/df9/a23713.html#a3a757de295ca8b11d3bdf5452a859489", null ],
-    [ "OnCreatureRemove", "d7/df9/a23713.html#a727d4d3bfc52391a088e86fef013617c", null ],
-    [ "OnGameObjectCreate", "d7/df9/a23713.html#a020584d79926d170c02655c5e2841127", null ],
-    [ "OnGameObjectRemove", "d7/df9/a23713.html#a9a6ac60b68e2a515e771696c5c88b93d", null ],
-    [ "OnUnitDeath", "d7/df9/a23713.html#a9c5e797960f924ddb60d0730ebd2463c", null ],
-    [ "SetBossState", "d7/df9/a23713.html#a160269f8d4cde5297d5f70a5f8eec2b2", null ],
-    [ "SetData", "d7/df9/a23713.html#a847abafb7b00e9b2cab73a90a16b959e", null ],
-    [ "_burningAbyssalsSet", "d7/df9/a23713.html#a9b616072e8775a10db1c10d0438eb19a", null ],
-    [ "_channelersSet", "d7/df9/a23713.html#a7921231ff7314d1370dffc63e1815e16", null ],
-    [ "_columnSet", "d7/df9/a23713.html#a2593bf88b0aba019a831b3ca6a8e15b9", null ],
-    [ "_cubesSet", "d7/df9/a23713.html#ad59566c515cbea3274d17e483f3b4ef1", null ],
-    [ "_magtheridonGUID", "d7/df9/a23713.html#a03e70ccaf8c23d2c775051320c6c4636", null ],
-    [ "_wardersSet", "d7/df9/a23713.html#a37b2621d50e8a8f0bee3f089dbce88f9", null ]
+    [ "boss_nazan", "d7/df9/a23713.html#a4390d3e181c4db46e364df3302612763", null ],
+    [ "AttackStart", "d7/df9/a23713.html#a7acea69f908e7a004c2a78c103528975", null ],
+    [ "DoAction", "d7/df9/a23713.html#abdb49e50dabda61c5d16b420ae69ae77", null ],
+    [ "EnterEvadeMode", "d7/df9/a23713.html#ab6338a7d240014e548b22044b788ce8f", null ],
+    [ "JustEngagedWith", "d7/df9/a23713.html#a4d44b759530f32207a46a608fb7d6209", null ],
+    [ "MovementInform", "d7/df9/a23713.html#ad35866322ff55263b1f8b105d2cad952", null ],
+    [ "Reset", "d7/df9/a23713.html#a5c10e932075130399a9127869f45ce1d", null ],
+    [ "UpdateAI", "d7/df9/a23713.html#a17942f19444ad324058d7b8c8a9aa9de", null ],
+    [ "_scheduler", "d7/df9/a23713.html#a8915d84ec4ffb8dade18041d5e910018", null ]
 ];

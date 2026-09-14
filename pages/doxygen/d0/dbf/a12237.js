@@ -1,7 +1,10 @@
 var a12237 =
 [
-    [ "PlayerGuid", "d0/dbf/a12237.html#a629a600c48376d04293c225390f747ff", null ],
-    [ "PrimaryKey", "d0/dbf/a12237.html#a7c1ef4d19fb49e5813868ff2ccfe12fc", null ],
-    [ "StoredType", "d0/dbf/a12237.html#a9bea7cf549813010b55c23417d65edc6", null ],
-    [ "TableName", "d0/dbf/a12237.html#a0f308af88812c110c490c94368bda482", null ]
+    [ "AcoreStringChatBuilder", "d0/dbf/a12237.html#a7e280083c80fd119d365649fd4578fc9", null ],
+    [ "operator()", "d0/dbf/a12237.html#a09a2a03dca2b8470cd1d1f7c8273868b", null ],
+    [ "_args", "d0/dbf/a12237.html#aa92a28b7d6a7dd59ea7da3a76c1fb4cc", null ],
+    [ "_msgType", "d0/dbf/a12237.html#adbabf871f33692b0ecddc8cc0fb75586", null ],
+    [ "_source", "d0/dbf/a12237.html#ac5222737ea1b95b6d75afc532838f8be", null ],
+    [ "_target", "d0/dbf/a12237.html#ab659b7c7bd6426a023cf8668322327b8", null ],
+    [ "_textId", "d0/dbf/a12237.html#a3d29de9c5d80c3df488aa01fa380a84a", null ]
 ];

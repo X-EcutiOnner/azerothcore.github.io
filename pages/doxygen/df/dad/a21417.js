@@ -1,7 +1,9 @@
 var a21417 =
 [
-    [ "HandleScript", "df/dad/a21417.html#a47b991c20c523d151893fefd9d487714", null ],
-    [ "PrepareSpellScript", "df/dad/a21417.html#ab2db47d0a2694c0734db600e810e190d", null ],
-    [ "Register", "df/dad/a21417.html#a3c2e7eb24506b43730f2e971fab81c75", null ],
-    [ "Validate", "df/dad/a21417.html#a89d601f6036fe38238767281f3427e54", null ]
+    [ "CastTheNextTwoSpells", "df/dad/a21417.html#a70a154ea5c19c36630e94c5214ee6722", null ],
+    [ "OnPeriodic", "df/dad/a21417.html#ac9b99d9328affec2787691f80e0cc9c3", null ],
+    [ "PrepareAuraScript", "df/dad/a21417.html#ac7450be0713ce98e7986d322a58289f6", null ],
+    [ "PushBackTheNextTwoSpells", "df/dad/a21417.html#a9e470116c80cf56b425e344d73e44533", null ],
+    [ "Register", "df/dad/a21417.html#ad948e7cb5a64ed5bd202c10b28285d9c", null ],
+    [ "_summonSpells", "df/dad/a21417.html#a578dbb8c828e3acf36b21a38628c94e1", null ]
 ];

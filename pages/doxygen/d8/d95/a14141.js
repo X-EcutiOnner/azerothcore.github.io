@@ -1,7 +1,13 @@
 var a14141 =
 [
-    [ "HandleScriptEffect", "d8/d95/a14141.html#a1b196f3817c16fac48392981b58c1a05", null ],
-    [ "PrepareSpellScript", "d8/d95/a14141.html#ad44566ff9a44057679e7ce8e1959776d", null ],
-    [ "Register", "d8/d95/a14141.html#aef3bfdaff9f0b5080d83805a1a962a79", null ],
-    [ "Validate", "d8/d95/a14141.html#a70a1f0d2666921ccbad62c1fd06fe4b6", null ]
+    [ "npc_corporal_keeshanAI", "d8/d95/a14141.html#aac5b72ede6e1496f80c4c2520e886efd", null ],
+    [ "Reset", "d8/d95/a14141.html#a311488932a3de9153490d41e3fae92fb", null ],
+    [ "sQuestAccept", "d8/d95/a14141.html#a52dd95c74b1457ad5b496b28fd183b06", null ],
+    [ "UpdateAI", "d8/d95/a14141.html#a973cf65978e531dc8bd7db20fc2809b6", null ],
+    [ "WaypointReached", "d8/d95/a14141.html#a3edc9ab54068e47f955116db70454f6c", null ],
+    [ "WaypointReached", "d8/d95/a14141.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "mockingBlowTimer", "d8/d95/a14141.html#a21cd1ca86864b8507d43e5a1c4c13e0c", null ],
+    [ "phase", "d8/d95/a14141.html#ae79dcfdb10738d673e8c1aebc6abdee6", null ],
+    [ "shieldBashTimer", "d8/d95/a14141.html#abb5eaa25a77dd3e6dfff7aaa0aa6c375", null ],
+    [ "timer", "d8/d95/a14141.html#a3107368f175aa7f4e8c405248ef917df", null ]
 ];

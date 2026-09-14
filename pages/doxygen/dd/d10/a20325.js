@@ -1,6 +1,9 @@
 var a20325 =
 [
-    [ "CheckAreaTarget", "dd/d10/a20325.html#ad1930e308f450cb84dba4f4b28b19f58", null ],
-    [ "PrepareAuraScript", "dd/d10/a20325.html#a921b2f67c417244310398bd93061d61c", null ],
-    [ "Register", "dd/d10/a20325.html#ab21972706bae9fdc3fc6859da2f3f63e", null ]
+    [ "npc_thorims_hammer", "dd/d10/a20325.html#ae22f7278bd68011dc8f593ac4ccfc5ff", null ],
+    [ "Reset", "dd/d10/a20325.html#a6b7a294849ffd4a75e7f9e0ce3c7314b", null ],
+    [ "UpdateAI", "dd/d10/a20325.html#a006414298b31eb0cfb964916298d66ce", null ],
+    [ "_beamTimer", "dd/d10/a20325.html#adcd5af2b86d1d8f119514f799c42444b", null ],
+    [ "_finishTime", "dd/d10/a20325.html#aa6366b2ba9158a8560ed7289b51e96fc", null ],
+    [ "_removeTimer", "dd/d10/a20325.html#a7b9a2435b0953c12e693c562193d45e0", null ]
 ];

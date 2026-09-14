@@ -1,10 +1,10 @@
 var a07777 =
 [
-    [ "OwnerId", "d2/d8a/a07777.html#ae6203d7a867838b279825925841a99df", null ],
-    [ "PrevOwnerId", "d2/d8a/a07777.html#a8357cc41fe125545d473c1f14c3ffa05", null ],
-    [ "PrevState", "d2/d8a/a07777.html#ab97cde6dcd3c3e91bb94bf39d104bf77", null ],
-    [ "State", "d2/d8a/a07777.html#a6e2b1f8c232c27ab24e3ca8bca8f6b03", null ],
-    [ "Timer", "d2/d8a/a07777.html#a945afa538fc0dd1a4be11f5b5ac74bcb", null ],
-    [ "TotalOwnerId", "d2/d8a/a07777.html#aec31f39eb98a3686ead3b1b99c7abfde", null ],
-    [ "Tower", "d2/d8a/a07777.html#a222db96ad937e31986c0c39a5a371dd7", null ]
+    [ "SelectionPool", "d2/d8a/a07777.html#a9ddcca26fb3f4c635d7bcbb045542885", null ],
+    [ "AddGroup", "d2/d8a/a07777.html#a87fe4747536355ad7affda76640a082e", null ],
+    [ "GetPlayerCount", "d2/d8a/a07777.html#af344a6e6bb42609887ee8a3022e9d8e5", null ],
+    [ "Init", "d2/d8a/a07777.html#a84c3fe684033e8744ce6d6bc50526ee7", null ],
+    [ "KickGroup", "d2/d8a/a07777.html#a74fb708546a8612ca52b24b8472b71ef", null ],
+    [ "PlayerCount", "d2/d8a/a07777.html#a0c08c47f68dbb45175efc524f4553e16", null ],
+    [ "SelectedGroups", "d2/d8a/a07777.html#a4387ef77c341f90758d6c64c4ef2c475", null ]
 ];

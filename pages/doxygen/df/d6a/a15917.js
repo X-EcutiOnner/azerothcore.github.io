@@ -1,11 +1,12 @@
 var a15917 =
 [
-    [ "npc_kerlonianAI", "df/d6a/a15917.html#a0f7a4566ca93a174c92fe10e904af480", null ],
-    [ "ClearSleeping", "df/d6a/a15917.html#aea2815d79da4fa006ea150f052255b9d", null ],
-    [ "MoveInLineOfSight", "df/d6a/a15917.html#a8b0a606510d278f26099a125d583377a", null ],
-    [ "Reset", "df/d6a/a15917.html#a20fac33bf3322ad0caf72ea883680b8d", null ],
-    [ "SetSleeping", "df/d6a/a15917.html#a0e1e6beaa98090d8bf8a17d28a9ee733", null ],
-    [ "SpellHit", "df/d6a/a15917.html#a1df028085cf1cb9e8152cdb70a3d28b1", null ],
-    [ "UpdateFollowerAI", "df/d6a/a15917.html#aa86dc8b3e934ff3297f7316de5420fe6", null ],
-    [ "FallAsleepTimer", "df/d6a/a15917.html#a8cfd8d869f8a313d041d89f8d0daa1bb", null ]
+    [ "npc_magwinAI", "df/d6a/a15917.html#ad4a352dd0c7c6f76e74f110b00ec9053", null ],
+    [ "JustEngagedWith", "df/d6a/a15917.html#aea2ab8bf79d6fcc3d2036d160274fab8", null ],
+    [ "Reset", "df/d6a/a15917.html#a883ef3cd1b097847de148ccb9bd3e903", null ],
+    [ "sQuestAccept", "df/d6a/a15917.html#aafef28bc7879e29d1fa79ec08f58da55", null ],
+    [ "UpdateEscortAI", "df/d6a/a15917.html#a34236331be8842a9e2a98036ea382e18", null ],
+    [ "WaypointReached", "df/d6a/a15917.html#a7278a3cff406af2ecb3d29c7bf90febc", null ],
+    [ "WaypointReached", "df/d6a/a15917.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_events", "df/d6a/a15917.html#a32dad2bde92efab7e0f0d16e809df665", null ],
+    [ "_player", "df/d6a/a15917.html#ac3d7059ee67abcafa0586f0bed5df9cc", null ]
 ];

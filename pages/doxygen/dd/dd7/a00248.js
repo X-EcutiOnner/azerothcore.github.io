@@ -1,6 +1,8 @@
 var a00248 =
 [
-    [ "CharacterDatabase", "dd/dd7/a00248.html#a7e7534bc66d79434bd280b77cb124eec", null ],
-    [ "LoginDatabase", "dd/dd7/a00248.html#a2cf25eafe7f2f73b61ccde11d55daf0c", null ],
-    [ "WorldDatabase", "dd/dd7/a00248.html#afa9a6509f9913c9c7dd3081523badd7c", null ]
+    [ "GetDefaultDatabaseInfo", "dd/dd7/a00248.html#a5560c170776773a1a20d93060003e89d", null ],
+    [ "CHARACTER_DATABASE_INFO_DEFAULT", "dd/dd7/a00248.html#a6854faf653c8b94d9e1b611db3269d1a", null ],
+    [ "EMPTY_DATABASE_INFO", "dd/dd7/a00248.html#aa2920a017ca93e102f17b0ca20885c5b", null ],
+    [ "LOGIN_DATABASE_INFO_DEFAULT", "dd/dd7/a00248.html#aa5457f479ebc812232cc3f0d67fabde1", null ],
+    [ "WORLD_DATABASE_INFO_DEFAULT", "dd/dd7/a00248.html#ad2151db3d84513bc271cf642ad76bb80", null ]
 ];

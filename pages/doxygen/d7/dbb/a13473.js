@@ -1,5 +1,5 @@
 var a13473 =
 [
-    [ "boss_apoko", "d7/dbb/a13473.html#a3ae4752839f47bbfce5f7df03c427cd2", null ],
-    [ "JustEngagedWith", "d7/dbb/a13473.html#a7ad52b258863bd818b3e5d1143de7629", null ]
+    [ "at_karazhan_side_entrance", "d7/dbb/a13473.html#abdaa7339a53941e2e89c4fcd439395fc", null ],
+    [ "_OnTrigger", "d7/dbb/a13473.html#a80d0018a9442ef7f0834dc329047e135", null ]
 ];

@@ -1,9 +1,7 @@
 var a26753 =
 [
-    [ "Load", "d8/de1/a26753.html#ae8329a18e94b3830e19bcbcbdf055dd2", null ],
-    [ "PrepareSpellScript", "d8/de1/a26753.html#a7a082f577937bf9f794bfb21bbc416f1", null ],
-    [ "Register", "d8/de1/a26753.html#a7b8f209bff9c2f1dff96f3d90c66cad4", null ],
-    [ "TriggerHeal", "d8/de1/a26753.html#acad9295c5c6b46bd969a4fb528a8ec25", null ],
-    [ "Validate", "d8/de1/a26753.html#a5f53a97e97f7959c51e1b5947f7c4418", null ],
-    [ "healPct", "d8/de1/a26753.html#a33b4d26c34903e45b7274e369f096ce1", null ]
+    [ "PrepareSpellScript", "d8/de1/a26753.html#ade3a3f956ae8be922bd1d2204919d360", null ],
+    [ "Register", "d8/de1/a26753.html#a71d397da4a4804cf6023806c15e8bedf", null ],
+    [ "TriggerHypothermia", "d8/de1/a26753.html#af40f92afae93778e477c50ddf18c8adc", null ],
+    [ "Validate", "d8/de1/a26753.html#a1f0cef532c2bd13d94e647722f85457a", null ]
 ];

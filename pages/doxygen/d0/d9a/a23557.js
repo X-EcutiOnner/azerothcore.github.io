@@ -1,5 +1,5 @@
 var a23557 =
 [
-    [ "npc_invisible_tractor_beam_source", "d0/d9a/a23557.html#a78f8adbc578ec005ae3f764e55895dc4", null ],
-    [ "IsSummonedBy", "d0/d9a/a23557.html#a4a47cd459013a783bb1cf47b6d670fce", null ]
+    [ "at_underbog_ghazan", "d0/d9a/a23557.html#aa6c74496bb30bf04e66ac3cd06110811", null ],
+    [ "_OnTrigger", "d0/d9a/a23557.html#a82d82a14a3d5c5125c331df126b9006a", null ]
 ];

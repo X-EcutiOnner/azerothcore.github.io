@@ -1,6 +1,7 @@
 var a23009 =
 [
-    [ "boss_essence_of_angerAI", "d7/de0/a23013.html", "d7/de0/a23013" ],
-    [ "boss_essence_of_anger", "dd/dcd/a23009.html#adf8151d1fbb4a258f174c4bdb8410cd6", null ],
-    [ "GetAI", "dd/dcd/a23009.html#a70a460f31b7f878e532b695ca822ab5d", null ]
+    [ "PrepareAuraScript", "dd/dcd/a23009.html#ae6879f1d8c27f19cf3e3ada0b34d568f", null ],
+    [ "ReflectDamage", "dd/dcd/a23009.html#acde2cbf4d196cba1fa2c02393c08fe9f", null ],
+    [ "Register", "dd/dcd/a23009.html#aa1f27d25209f14dd8bf711bc15cb9165", null ],
+    [ "Validate", "dd/dcd/a23009.html#aa730b912aadcde53f6cd94c2a8c99493", null ]
 ];

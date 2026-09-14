@@ -1,8 +1,10 @@
 var a14029 =
 [
-    [ "npc_ranger_lilatha", "d6/d50/a14029.html#abd13a89b41a289edefb9bc21588f8d29", null ],
-    [ "Reset", "d6/d50/a14029.html#a3e804e483b51961193ee1079caba40be", null ],
-    [ "sQuestAccept", "d6/d50/a14029.html#acc38d4feacb5e7fa5ce9658b10447c4d", null ],
-    [ "WaypointReached", "d6/d50/a14029.html#a193bd47c7d7c4fb3d832a59bf55e8412", null ],
+    [ "npc_professor_phizzlethorpeAI", "d6/d50/a14029.html#a92af4732575008c1a4f061cef0f23902", null ],
+    [ "JustEngagedWith", "d6/d50/a14029.html#a8864031e3c7a32cde57ca6efbf785d53", null ],
+    [ "JustSummoned", "d6/d50/a14029.html#af8e4e706925d8837cacdc0b5a6d1f10d", null ],
+    [ "sQuestAccept", "d6/d50/a14029.html#ad4a4bd9af581abe832933da69b18d76f", null ],
+    [ "UpdateAI", "d6/d50/a14029.html#a1c62cd07da5f0da91ef572bb00619d26", null ],
+    [ "WaypointReached", "d6/d50/a14029.html#a7be58c6ecc4e5ba23ec35cc1864f19e6", null ],
     [ "WaypointReached", "d6/d50/a14029.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

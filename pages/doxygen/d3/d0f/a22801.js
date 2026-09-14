@@ -1,7 +1,12 @@
 var a22801 =
 [
-    [ "HandleProc", "d3/d0f/a22801.html#a4d12ab1b286105fdad5eb2dd20131408", null ],
-    [ "PrepareAuraScript", "d3/d0f/a22801.html#a94b6499dc2e1fa95a50bd9c3c491e858", null ],
-    [ "Register", "d3/d0f/a22801.html#a6b764182501a1d192f90dc20bbd6549e", null ],
-    [ "Validate", "d3/d0f/a22801.html#ad89123425cca5bd02a18526a11595a1a", null ]
+    [ "boss_anzu", "d3/d0f/a22801.html#aef8c5c57afa95936d8c2809fa1257799", null ],
+    [ "JustEngagedWith", "d3/d0f/a22801.html#a2384a1ea128ad5a43d3b8fb36fe39aba", null ],
+    [ "Reset", "d3/d0f/a22801.html#a61c75d6d96aa5cfb41e87faa74ec2fa5", null ],
+    [ "SummonBroods", "d3/d0f/a22801.html#a7f3f8868a5648bdeccd03d08203e4cf1", null ],
+    [ "SummonedCreatureDies", "d3/d0f/a22801.html#a2e35df609db069c8d31afffabcfead34", null ],
+    [ "SummonSpirits", "d3/d0f/a22801.html#a23e03d1718fba49a3bd57609abb77c6a", null ],
+    [ "UpdateAI", "d3/d0f/a22801.html#a06373460d454bfaf8db793e591cc0abd", null ],
+    [ "AnzuSpiritPos", "d3/d0f/a22801.html#a64e42ce8856b9d10c7f24fefc0c1e0b2", null ],
+    [ "talkTimer", "d3/d0f/a22801.html#a2afae53534d9e777c90d09456f834b5d", null ]
 ];

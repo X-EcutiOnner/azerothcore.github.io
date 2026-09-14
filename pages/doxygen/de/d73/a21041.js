@@ -1,11 +1,6 @@
 var a21041 =
 [
-    [ "boss_yoggsaron_llane", "de/d73/a21041.html#a42e3d189cff0da5995401e4bc8dfffdd", null ],
-    [ "NextStep", "de/d73/a21041.html#ab8b6446fe7d424ad7d943af915cc4b8a", null ],
-    [ "Reset", "de/d73/a21041.html#a0df3a85717ab26ad1ac889d6fe4d8007", null ],
-    [ "Say", "de/d73/a21041.html#a0ae3106eac830ed9f14f17e5fa1d45ec", null ],
-    [ "UpdateAI", "de/d73/a21041.html#a58ec957cd59b944439fe514e728e2902", null ],
-    [ "_checkTimer", "de/d73/a21041.html#a3043382e2727bc78a74acaec28697045", null ],
-    [ "_running", "de/d73/a21041.html#ab7e1b1ed82f311b12f28f1622e6ad378", null ],
-    [ "_step", "de/d73/a21041.html#a91a71f85bab9e4d1234964ef534e51c2", null ]
+    [ "x", "de/d73/a21041.html#ae4223168378b602a0a96dbb424a22be4", null ],
+    [ "y", "de/d73/a21041.html#a30f361d8104e4de44541d75945105963", null ],
+    [ "z", "de/d73/a21041.html#ae68a79519c35302b89976ac29bb77e26", null ]
 ];

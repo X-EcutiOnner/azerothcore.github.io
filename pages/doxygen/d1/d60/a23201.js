@@ -1,11 +1,9 @@
 var a23201 =
 [
-    [ "boss_doomwalker", "d1/d60/a23201.html#a47811086ff98b1a09af5300af94b6c0e", null ],
-    [ "JustDied", "d1/d60/a23201.html#aeefc6b3fdff4375c421318484e0b18a6", null ],
-    [ "JustEngagedWith", "d1/d60/a23201.html#a01aa1cc0e5feaf9d2f49b54daaf7b13f", null ],
-    [ "KilledUnit", "d1/d60/a23201.html#a2335eb642940397f73ee2a8051624e8e", null ],
-    [ "MoveInLineOfSight", "d1/d60/a23201.html#ac0ffd491ac9a4923e3977e09e8ba310e", null ],
-    [ "Reset", "d1/d60/a23201.html#aba08b227d629c9f35e59f465e29c267b", null ],
-    [ "UpdateAI", "d1/d60/a23201.html#a3105c50e512c6f709985cece619b131f", null ],
-    [ "_inEnrage", "d1/d60/a23201.html#a0004e96e25d8f5ad9393e3cdb3a4ce70", null ]
+    [ "HandleEffectApply", "d1/d60/a23201.html#aca8ff864832d30e45bccfca12256560a", null ],
+    [ "HandleEffectRemove", "d1/d60/a23201.html#a2e16e86ce6e3231cf3fabc1d5bb1a6e7", null ],
+    [ "Load", "d1/d60/a23201.html#a3b9838f26673ce344ca40f9f487ef878", null ],
+    [ "PrepareAuraScript", "d1/d60/a23201.html#a79b93c86a01d31d08cba15436856b794", null ],
+    [ "Register", "d1/d60/a23201.html#aa6c04279944abd31c42bb5dc4319aaf2", null ],
+    [ "_turtleSet", "d1/d60/a23201.html#a308b9e032576ae058e9f2469dcc8ff23", null ]
 ];

@@ -1,5 +1,8 @@
 var a20349 =
 [
-    [ "achievement_flame_leviathan_shutout", "dd/d3d/a20349.html#a555e0d206b7f730665d301c7e03b23e6", null ],
-    [ "OnCheck", "dd/d3d/a20349.html#af548232f563fd387bc8ee25b696a2f99", null ]
+    [ "OnApply", "dd/d3d/a20349.html#a3f2ef4882bcd52e091a0bcfabfc352cd", null ],
+    [ "OnRemove", "dd/d3d/a20349.html#ab967233994aa3ff07b272f010b2c1545", null ],
+    [ "PrepareAuraScript", "dd/d3d/a20349.html#a788480ec4aaa57e643f55daca17c6ded", null ],
+    [ "Register", "dd/d3d/a20349.html#a63a3e30704b282a430dcdbb9073a66df", null ],
+    [ "Validate", "dd/d3d/a20349.html#a6ccb698445ce30c5224dcacc3dc8136b", null ]
 ];

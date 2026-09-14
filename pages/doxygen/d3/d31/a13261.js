@@ -1,7 +1,16 @@
 var a13261 =
 [
-    [ "FilterTargets", "d3/d31/a13261.html#ab00f1a67df39f01aa0ead3459c3c3183", null ],
-    [ "Load", "d3/d31/a13261.html#a5bb1cb64090e1ebb3f6f7bcd1fa1ec21", null ],
-    [ "PrepareSpellScript", "d3/d31/a13261.html#a17bebef0c4c59c3fd0ccfb28e103ee3e", null ],
-    [ "Register", "d3/d31/a13261.html#ae366530ddacf45a92eaa36be7e706a84", null ]
+    [ "boss_attumen", "d3/d31/a13261.html#a394925c2a44b0bfe8931ae88dd9868ae", null ],
+    [ "DamageTaken", "d3/d31/a13261.html#a0b426b760d9ace05211c3383e7628022", null ],
+    [ "EnterEvadeMode", "d3/d31/a13261.html#af00f91294c04d0fe932c922fd270c5dc", null ],
+    [ "Initialize", "d3/d31/a13261.html#ac89445e6a04c2d8cd04e53f4aea30c58", null ],
+    [ "IsSummonedBy", "d3/d31/a13261.html#a1fa6827c323cbda15e2a438bc376e74c", null ],
+    [ "JustDied", "d3/d31/a13261.html#a375a95d46f8db8a53ea6420dd557855e", null ],
+    [ "JustSummoned", "d3/d31/a13261.html#af91018e54244864ca4cd1b9d40c569df", null ],
+    [ "KilledUnit", "d3/d31/a13261.html#ad167a1ec5ff737ad77b0c492efc022f0", null ],
+    [ "Reset", "d3/d31/a13261.html#ab8815ed9b1068e748e43346725cd9281", null ],
+    [ "ScheduleTasks", "d3/d31/a13261.html#ae63d0a3c7ae4ad755f091f2d31342a57", null ],
+    [ "SpellHit", "d3/d31/a13261.html#a1181ae1d50d6c52483b0d90423997c90", null ],
+    [ "UpdateAI", "d3/d31/a13261.html#aac982f13b35e7c37b49a4e76ace5fccd", null ],
+    [ "_phase", "d3/d31/a13261.html#a8a668537dc5b7c01e6d9d91c67d6da72", null ]
 ];

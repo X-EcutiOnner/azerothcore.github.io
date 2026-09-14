@@ -1,4 +1,5 @@
 var a08897 =
 [
-    [ "PetLoadQueryHolder", "d6/d13/a08897.html#a8dee71a2e729d239b7b05bc172c09e3b", null ]
+    [ "ObjectGuidGenerator", "d6/d13/a08897.html#a1d917989d9bf681546d0e3e9b20593e0", null ],
+    [ "Generate", "d6/d13/a08897.html#ae863a6f3ad3b71ab0ca19c60e4f7d862", null ]
 ];

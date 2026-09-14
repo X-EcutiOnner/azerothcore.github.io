@@ -1,8 +1,9 @@
 var a22565 =
 [
-    [ "HandleApply", "d0/d50/a22565.html#ad8ee9a50314c900b1507e25eaa70ece7", null ],
-    [ "HandleRemove", "d0/d50/a22565.html#a06c7c65d973fcf348f5c929503902520", null ],
-    [ "PrepareAuraScript", "d0/d50/a22565.html#a48b20c0f1997acd0f9f0800bf4b63bd0", null ],
-    [ "Register", "d0/d50/a22565.html#a7018a16262b94a573405e1bdc9fbdd10", null ],
-    [ "Validate", "d0/d50/a22565.html#a8135c492638557eec71189282e7f78a2", null ]
+    [ "HandleFinish", "d0/d50/a22565.html#a4511ae5227c3e4e931b04f2ba0d4a62e", null ],
+    [ "Load", "d0/d50/a22565.html#a6b6f6b4ab8f345199d8d2189f07df7f2", null ],
+    [ "PrepareSpellScript", "d0/d50/a22565.html#a8326b3f9f78aab65225e81d274cc37df", null ],
+    [ "Register", "d0/d50/a22565.html#a749858f56e15a0bb6074d15ba166625d", null ],
+    [ "Validate", "d0/d50/a22565.html#a64005c52e7112c466f6206b7f6c847c0", null ],
+    [ "handled", "d0/d50/a22565.html#a7afe3007a016cb553f437544f8fd6f89", null ]
 ];

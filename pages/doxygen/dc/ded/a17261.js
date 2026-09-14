@@ -1,14 +1,6 @@
 var a17261 =
 [
-    [ "boss_bronjahm", "dc/ded/a17261.html#a44666a47b298efe48c4e86b8677d9845", null ],
-    [ "DamageTaken", "dc/ded/a17261.html#ab89333e2ee43ad384bdc71ac6f83c92e", null ],
-    [ "EnterEvadeMode", "dc/ded/a17261.html#a5d515921e780974e2a70937ada8b232d", null ],
-    [ "JustDied", "dc/ded/a17261.html#ad50a7aee4ebf9d0d5d9141b96e154996", null ],
-    [ "JustEngagedWith", "dc/ded/a17261.html#a767d4a601d7f912cd71823a51b31af1f", null ],
-    [ "JustReachedHome", "dc/ded/a17261.html#af2146b1ddb8cdc3e27d1cf573fe65df0", null ],
-    [ "JustSummoned", "dc/ded/a17261.html#a47c7a8a8413b139cf2d217d33f39aa3d", null ],
-    [ "KilledUnit", "dc/ded/a17261.html#aaaf64571ce6a542be93c6efe105278e8", null ],
-    [ "Reset", "dc/ded/a17261.html#a313bd4510e18ecb529b6358d28a3dc3f", null ],
-    [ "SpellHitTarget", "dc/ded/a17261.html#a3be47710012bd75a71574f7a4c69f678", null ],
-    [ "UpdateAI", "dc/ded/a17261.html#a6d60b720210a9f196b1c006b557e7d25", null ]
+    [ "boss_tharon_jaAI", "da/d42/a17265.html", "da/d42/a17265" ],
+    [ "boss_tharon_ja", "dc/ded/a17261.html#ac34f8f33ea75dc0107222d3720788f7a", null ],
+    [ "GetAI", "dc/ded/a17261.html#ab24612418cb66ed0c1e64fba5ebaa50f", null ]
 ];

@@ -1,4 +1,5 @@
 var a02129 =
 [
-    [ "ScriptRegistry< PlayerScript >", "db/d26/a02129.html#a9c8e85c6181ce386db051bb0a0e6a533", null ]
+    [ "AVAILABLE_MAPS_ALL_MAPS", "db/d26/a02129.html#a3ce088496ac6391921eb6558a8bfa534", null ],
+    [ "HandleMonitoringRequest", "db/d26/a02129.html#abdac64925d58546fe47fef3f63e42404", null ]
 ];

@@ -1,4 +1,4 @@
 var a00815 =
 [
-    [ "ScriptRegistry< PetScript >", "d8/d2d/a00815.html#a24e9b0a598349bf70ac6cf5aa4e30043", null ]
+    [ "ScriptRegistry< GameEventScript >", "d8/d2d/a00815.html#a4026f0cd70a2a24f741b1579c24ec594", null ]
 ];

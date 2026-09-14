@@ -1,5 +1,9 @@
 var a08765 =
 [
-    [ "Color", "d1/de9/a08765.html#ad6232c851b72ce04d2dcfa00596fc1df", null ],
-    [ "Content", "d1/de9/a08765.html#a5437849d9b7f229c4466e174d619d057", null ]
+    [ "artKits", "d1/de9/a08765.html#a7ae038f7051f3da177d3cdc95ef608d2", null ],
+    [ "entry", "d1/de9/a08765.html#ae1378dcb4327a4d000c3299a32f9d23f", null ],
+    [ "faction", "d1/de9/a08765.html#a77e0b2613b7a1cda1bd306f066e63a39", null ],
+    [ "flags", "d1/de9/a08765.html#a4120c9184b4cfab7afada48ccf8e713e", null ],
+    [ "maxgold", "d1/de9/a08765.html#ae80fd304ee4d02d5e0d13ec6136ec736", null ],
+    [ "mingold", "d1/de9/a08765.html#a3b1c3dd6f223bd93cda6e993a64b61d1", null ]
 ];

@@ -1,6 +1,10 @@
 var a09477 =
 [
-    [ "m_guid", "d6/ddd/a09477.html#afa8383c81a2d75f9ead2e8f3daa29086", null ],
-    [ "m_instance", "d6/ddd/a09477.html#a8bc0c5e1cf45073f054c5154c21b3d72", null ],
-    [ "m_state", "d6/ddd/a09477.html#a3ac18fb8f5d386e3245a2435e31e45e1", null ]
+    [ "creatureRate", "d6/ddd/a09477.html#aa9c27c19179b8a7bdfdc11d906cd1c06", null ],
+    [ "questDailyRate", "d6/ddd/a09477.html#a1798044bdf25ce774191b00e261add1e", null ],
+    [ "questMonthlyRate", "d6/ddd/a09477.html#a0db34ed7420bc376cfe64a0d12434fea", null ],
+    [ "questRate", "d6/ddd/a09477.html#a914118aa28b3736ff4e6c5b61d738834", null ],
+    [ "questRepeatableRate", "d6/ddd/a09477.html#a2b050d4cf6555e824d59a3ffc0558b21", null ],
+    [ "questWeeklyRate", "d6/ddd/a09477.html#a0fb31ebc33d0ce11f392be845907e043", null ],
+    [ "spellRate", "d6/ddd/a09477.html#a508485f1e6833c58a11706667a2c24fd", null ]
 ];

@@ -1,6 +1,11 @@
 var a23341 =
 [
-    [ "HandleEffectRemove", "d2/de7/a23341.html#ab4c215a735ead9959fd78972a6da72e4", null ],
-    [ "PrepareAuraScript", "d2/de7/a23341.html#a75be2f838d6773b619dfac80e32557b8", null ],
-    [ "Register", "d2/de7/a23341.html#a239068b4e4ad88b5be93a031043ad7ca", null ]
+    [ "boss_leotheras_the_blind", "d2/de7/a23341.html#a9229850f996812366a20508931965a87", null ],
+    [ "AttackStart", "d2/de7/a23341.html#a678ed3eba7d53976fd6efa9051d11124", null ],
+    [ "DemonTime", "d2/de7/a23341.html#af62091f4c045b1a85ef022fdc81b6d30", null ],
+    [ "DoAction", "d2/de7/a23341.html#a4f3fd791f12b3f176ce109237c516889", null ],
+    [ "ElfTime", "d2/de7/a23341.html#a52f101530de8883231faa7f5fe689691", null ],
+    [ "MoveToTargetIfOutOfRange", "d2/de7/a23341.html#a3481cfa1883988b8c1c3f65b9009860d", null ],
+    [ "Reset", "d2/de7/a23341.html#a5d4be42da1c7ae15c98b608f39ef82db", null ],
+    [ "UpdateAI", "d2/de7/a23341.html#a89deeb1888046d1f4756bcb6447d8f0d", null ]
 ];

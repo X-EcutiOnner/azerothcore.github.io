@@ -1,7 +1,7 @@
 var a14229 =
 [
-    [ "npc_lady_sylvanas_windrunnerAI", "d1/db6/a14233.html", "d1/db6/a14233" ],
-    [ "npc_lady_sylvanas_windrunner", "dd/dec/a14229.html#ab3da21f58b68003f50cf0c3d5ce22028", null ],
-    [ "GetAI", "dd/dec/a14229.html#abc382c04be0a8ed46299d1c4b2d008dc", null ],
-    [ "OnQuestReward", "dd/dec/a14229.html#aa3aedfe4c546842e64f5358a19614659", null ]
+    [ "HandleEffectApply", "dd/dec/a14229.html#a8d52c4ea09e1d58d2dc44ff73d71faf5", null ],
+    [ "PrepareAuraScript", "dd/dec/a14229.html#a9829789fe5544429454e29d228ce0daf", null ],
+    [ "Register", "dd/dec/a14229.html#a7f5a26d10f48d863477ec902e6f5ff1e", null ],
+    [ "Validate", "dd/dec/a14229.html#ae81a441757ab9f10c29a7b313b99cf5f", null ]
 ];

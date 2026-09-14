@@ -1,6 +1,4 @@
 var a20185 =
 [
-    [ "HandleInstaKill", "dc/d22/a20185.html#a9371a2cc86616fd04e47939d45f01cae", null ],
-    [ "PrepareSpellScript", "dc/d22/a20185.html#a38eed301f1db3ea7ac15b626e5927500", null ],
-    [ "Register", "dc/d22/a20185.html#a9aaf3e86a2c14ee79cc013b3978621ee", null ]
+    [ "operator()", "dc/d22/a20185.html#aae8aeaabdecc3d8ff68c8764b166741d", null ]
 ];

@@ -1,19 +1,16 @@
 var a10005 =
 [
-    [ "GuildContainer", "d3/d2f/a10005.html#aa9afb05ecb2eb6ee427503a4ea76f7ca", null ],
-    [ "GuildMgr", "d3/d2f/a10005.html#a0d4a44461eb4c54ddb6646dfd1c11a68", null ],
-    [ "~GuildMgr", "d3/d2f/a10005.html#ae90afb785961e122afc419a61dfb20c1", null ],
-    [ "AddGuild", "d3/d2f/a10005.html#a5b63dae4f2252c452c797b83477d2280", null ],
-    [ "GenerateGuildId", "d3/d2f/a10005.html#a8ad7c4fc3e292e6cecd4964ad22cd135", null ],
-    [ "GetGuildById", "d3/d2f/a10005.html#a04f4586ea6461c6f7165efba2bf666a1", null ],
-    [ "GetGuildByLeader", "d3/d2f/a10005.html#a5198534a243b70104ce17a7871fcfb27", null ],
-    [ "GetGuildByName", "d3/d2f/a10005.html#af9ff736e84a18d8dfce3826c9459df37", null ],
-    [ "GetGuildNameById", "d3/d2f/a10005.html#ad32af675831da389755da5f3e4e47361", null ],
-    [ "instance", "d3/d2f/a10005.html#aef69fd59528ec594c76ae390a4ba05bd", null ],
-    [ "LoadGuilds", "d3/d2f/a10005.html#ac1eb56686e276e11838e9150696b5045", null ],
-    [ "RemoveGuild", "d3/d2f/a10005.html#a51728f1c2780cdb105cb35947739cbd7", null ],
-    [ "ResetTimes", "d3/d2f/a10005.html#ad2670ee42ff5252a879ccc5cbb730833", null ],
-    [ "SetNextGuildId", "d3/d2f/a10005.html#ae1ae88575b7fcb37d4ee1d76f79c0c45", null ],
-    [ "GuildStore", "d3/d2f/a10005.html#a174158d11bf6102462a094ff4a8fa402", null ],
-    [ "NextGuildId", "d3/d2f/a10005.html#a75e150f66ebccfc05824a4f7b66a9210", null ]
+    [ "GuildBankRightsAndSlots", "d3/d2f/a10005.html#ae00a8b8f227d7afdcf08847e3787ee0d", null ],
+    [ "GuildBankRightsAndSlots", "d3/d2f/a10005.html#af5f0087090a7145a22baa1396822318b", null ],
+    [ "GuildBankRightsAndSlots", "d3/d2f/a10005.html#a4bdf40d99704211b9e80b554ebade54f", null ],
+    [ "GetRights", "d3/d2f/a10005.html#a19b76bebdb62434191189ba789c2810f", null ],
+    [ "GetSlots", "d3/d2f/a10005.html#a51780060b5699bed6b78cc9ba4e95371", null ],
+    [ "GetTabId", "d3/d2f/a10005.html#a6ba7c49480a1c5325d3702fb61d397cc", null ],
+    [ "SetGuildMasterValues", "d3/d2f/a10005.html#a1399f191b3b0a44dc1e76fc49adc1412", null ],
+    [ "SetRights", "d3/d2f/a10005.html#abf4e1f1556554e7f756dc566fbdd7f40", null ],
+    [ "SetSlots", "d3/d2f/a10005.html#a8ed33a4e1d2a957d61c5f7556533f225", null ],
+    [ "SetTabId", "d3/d2f/a10005.html#abe84f6bcdfd48d70b894470d025f3aae", null ],
+    [ "rights", "d3/d2f/a10005.html#a2a8f5acf21828bfa15d0b3dd6874b5cb", null ],
+    [ "slots", "d3/d2f/a10005.html#a5a327399d94704bc290199baa21ff8d7", null ],
+    [ "tabId", "d3/d2f/a10005.html#ab09825a02a7a21a4915595230d2a5839", null ]
 ];

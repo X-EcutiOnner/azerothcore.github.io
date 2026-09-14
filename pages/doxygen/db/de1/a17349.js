@@ -1,11 +1,8 @@
 var a17349 =
 [
-    [ "npc_phantom_mage", "db/de1/a17349.html#a96702110e1bd587aaa88a076773cac72", null ],
-    [ "AttackStart", "db/de1/a17349.html#a79170c6d6aa434d291e50cd2153ee25a", null ],
-    [ "DoAction", "db/de1/a17349.html#a8adf87e600eeab3678f369ab48b73927", null ],
-    [ "EnterEvadeMode", "db/de1/a17349.html#a270f664ad9545f672405d051d1a8932a", null ],
-    [ "JustDied", "db/de1/a17349.html#a9728d3deb8c8ef6ab82b76f79de20732", null ],
-    [ "JustEngagedWith", "db/de1/a17349.html#a4cd8e7ba55317eb6ed2e0a7fbbebc80a", null ],
-    [ "Reset", "db/de1/a17349.html#a3900181fe1328a3450e2e71bf30abbd7", null ],
-    [ "UpdateAI", "db/de1/a17349.html#a919416fd6b52060e271e79afaaf14085", null ]
+    [ "npc_fos_leaderAI", "d6/d69/a17353.html", "d6/d69/a17353" ],
+    [ "npc_fos_leader", "db/de1/a17349.html#a4223072bc180e990ff9e01bf772def5b", null ],
+    [ "GetAI", "db/de1/a17349.html#a6eca5c95aa3a8498790d8bf52f0741f8", null ],
+    [ "OnGossipHello", "db/de1/a17349.html#a3858054505d439902624378b9355f40d", null ],
+    [ "OnGossipSelect", "db/de1/a17349.html#a1b743c6f270a2bdbd09940a414a1b437", null ]
 ];

@@ -1,6 +1,6 @@
 var a22269 =
 [
-    [ "npc_vekjik", "d8/deb/a22269.html#a7439c6038237b77ba8623ae92d6cf708", null ],
-    [ "OnGossipHello", "d8/deb/a22269.html#acdbba5b4970049e72477eccf6672b0e8", null ],
-    [ "OnGossipSelect", "d8/deb/a22269.html#a0bcdcb6cd57264e664c449e261d3580b", null ]
+    [ "ChangeSummonPos", "d8/deb/a22269.html#aeb2cf0a5d2e563e4983ddd237a2b1001", null ],
+    [ "PrepareSpellScript", "d8/deb/a22269.html#a1654fec971696e613b5102b3ca5030f1", null ],
+    [ "Register", "d8/deb/a22269.html#ab1e7d44914952dfb7f7ccf2de4da286f", null ]
 ];

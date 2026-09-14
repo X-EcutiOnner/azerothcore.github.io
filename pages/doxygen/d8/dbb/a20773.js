@@ -1,10 +1,5 @@
 var a20773 =
 [
-    [ "npc_razorscale_dark_rune_watcher", "d8/dbb/a20773.html#aff56f4cadfeb72f6a96f8ac86b27a6a1", null ],
-    [ "CanAIAttack", "d8/dbb/a20773.html#a68ef8f2c7014850c5107cc22deff8658", null ],
-    [ "JustEngagedWith", "d8/dbb/a20773.html#a303994b6f5e2ae6e4d6f0e44d9eb60a9", null ],
-    [ "Reset", "d8/dbb/a20773.html#aaab4be32140991366f1a004622bf3b31", null ],
-    [ "UpdateAI", "d8/dbb/a20773.html#a8d1518f80cc6427d0334770a5aaf130a", null ],
-    [ "_events", "d8/dbb/a20773.html#a15fa73dea3b9b86a6d1b42f9d1296d6e", null ],
-    [ "_instance", "d8/dbb/a20773.html#ac08ba6b60827408aeb1b63a48a57fa9e", null ]
+    [ "npc_ulduar_flames_spread", "d8/dbb/a20773.html#aea2856e8ea84dfb447017a4d8b2ab088", null ],
+    [ "SpellHit", "d8/dbb/a20773.html#af8cad4be1736f377721b7a0a63cfafe7", null ]
 ];

@@ -1,7 +1,9 @@
 var a13581 =
 [
-    [ "npc_apothecary_genericAI", "da/d09/a13581.html#afb2b04b51e28d0795e7781effa68dffd", null ],
-    [ "DoAction", "da/d09/a13581.html#a59074beefbd3d80104b64f8ecc2ef8e0", null ],
-    [ "MovementInform", "da/d09/a13581.html#a63530bd7c3ebcd66521a268e11bf2f93", null ],
-    [ "_movePos", "da/d09/a13581.html#a53d10ab64df212b043cc21e054f6528c", null ]
+    [ "npc_risen_guardianAI", "da/d09/a13581.html#a50eb3de52205fc1bbc6936f0708c68a6", null ],
+    [ "IsSummonedBy", "da/d09/a13581.html#ad9f45b9007c1ff74d0f725fbf7f00abe", null ],
+    [ "KilledUnit", "da/d09/a13581.html#abc7afaa685a436b34ff76edcc6c25e54", null ],
+    [ "Gandling", "da/d09/a13581.html#a93013b905260aa51341b22d1627cc986", null ],
+    [ "instance", "da/d09/a13581.html#a96f1835989f646c708b8ef0cc9999e63", null ],
+    [ "room", "da/d09/a13581.html#a5862a184b6daa92da133cc6c360a993d", null ]
 ];

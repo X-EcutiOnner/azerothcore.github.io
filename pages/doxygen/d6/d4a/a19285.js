@@ -1,6 +1,5 @@
 var a19285 =
 [
-    [ "npc_icc_skybreaker_vicarAI", "d8/dca/a19289.html", "d8/dca/a19289" ],
-    [ "npc_icc_skybreaker_vicar", "d6/d4a/a19285.html#a40451cc6fba0cae59e47fa38e4fb79d3", null ],
-    [ "GetAI", "d6/d4a/a19285.html#a6884bb7e54b78abee0cc995c4fbb501d", null ]
+    [ "at_icc_saurfang_portal", "d6/d4a/a19285.html#a7f30058251c520634a0b7bad08380e5d", null ],
+    [ "OnTrigger", "d6/d4a/a19285.html#a8980fe0e67aa33335f0fdb947a294213", null ]
 ];

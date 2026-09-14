@@ -1,5 +1,6 @@
 var a28721 =
 [
-    [ "npc_necropolis", "dd/dd8/a28721.html#a6535d6dbdc5a6b3c715ca9ec470fb258", null ],
-    [ "SpellHit", "dd/dd8/a28721.html#ae068da7f6b1de5d06568b672d9f46f18", null ]
+    [ "npc_locksmith", "dd/dd8/a28721.html#af959a6395ebc33109405f18f262e4ecb", null ],
+    [ "OnGossipHello", "dd/dd8/a28721.html#aec977cf39f11a7bc2f13c2bde8e97351", null ],
+    [ "OnGossipSelect", "dd/dd8/a28721.html#a62ec02e226255ff1f81895391a6494b8", null ]
 ];

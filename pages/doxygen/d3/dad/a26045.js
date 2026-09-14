@@ -1,6 +1,6 @@
 var a26045 =
 [
-    [ "HandleEffectApply", "d3/dad/a26045.html#a9e8b226f3ebb33c47de584850643994f", null ],
-    [ "PrepareAuraScript", "d3/dad/a26045.html#a30b74d44bb81a04ea1cfe1b6d5f926c7", null ],
-    [ "Register", "d3/dad/a26045.html#a1d3d32c057877b5cf00f5970e583c25e", null ]
+    [ "HandleSummon", "d3/dad/a26045.html#aadfea4a2238754473a8abbc487fd7f7b", null ],
+    [ "PrepareSpellScript", "d3/dad/a26045.html#a4974a3687df394d51db322210ebb5ddb", null ],
+    [ "Register", "d3/dad/a26045.html#a89146ab41d1408c18ce2bff403ae8e4e", null ]
 ];

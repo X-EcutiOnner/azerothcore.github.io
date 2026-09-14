@@ -1,7 +1,8 @@
 var a17457 =
 [
-    [ "HandlePeriodicTick", "d8/d30/a17457.html#a61417176afec531ca2bf6e80eb72ac6a", null ],
-    [ "PrepareAuraScript", "d8/d30/a17457.html#ad5f954d5050bded2e6a5877cb9f81df5", null ],
-    [ "Register", "d8/d30/a17457.html#a4653ccb0d93d056adf3b14056865787c", null ],
-    [ "Validate", "d8/d30/a17457.html#a675b447cf1cf0e7d92c777ae31888a8c", null ]
+    [ "npc_hor_lumbering_abomination", "d8/d30/a17457.html#a08ae4bc9025a4bfbe91d39d256e34060", null ],
+    [ "JustDied", "d8/d30/a17457.html#ae8fca8b5f86fe5cba1b4de2aaac6cf61", null ],
+    [ "JustEngagedWith", "d8/d30/a17457.html#a5380771abba095749e1e0b30fe070a73", null ],
+    [ "Reset", "d8/d30/a17457.html#afd56b698fac5f7f13e718d645608213f", null ],
+    [ "UpdateAI", "d8/d30/a17457.html#a79e99c86f54a4fc7cbcf98e2a08e62ed", null ]
 ];

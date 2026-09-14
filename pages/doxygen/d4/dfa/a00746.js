@@ -1,4 +1,4 @@
 var a00746 =
 [
-    [ "ScriptRegistry< TicketScript >", "d4/dfa/a00746.html#a3455c8aecfa91396c5eb215ecbce5583", null ]
+    [ "ScriptRegistry< GlobalScript >", "d4/dfa/a00746.html#aab5e9d371cdc72eb5a60f210f00cdc34", null ]
 ];

@@ -1,8 +1,8 @@
 var a26133 =
 [
-    [ "CheckRequirement", "d5/dd6/a26133.html#a3ed8450641baeee915fc5a129f9c7434", null ],
-    [ "HandleScript", "d5/dd6/a26133.html#a92e3137bb92545876ca67028bcc86a4f", null ],
-    [ "Load", "d5/dd6/a26133.html#a56326701447b3a88d9022ca1f1c184a6", null ],
-    [ "PrepareSpellScript", "d5/dd6/a26133.html#a94d4155e98a4ac5764d8bfd705b05602", null ],
-    [ "Register", "d5/dd6/a26133.html#a9b440dd8bf21b70d068021d05832a3fc", null ]
+    [ "HandleDummy", "d5/dd6/a26133.html#ad303a5c1bbbab3766bd5e9ab753b2a01", null ],
+    [ "Load", "d5/dd6/a26133.html#a054d9083b24183f4427fc0cb4985ba62", null ],
+    [ "PrepareSpellScript", "d5/dd6/a26133.html#aa4904ed55b5e216e0af5e32508372d4e", null ],
+    [ "Register", "d5/dd6/a26133.html#a5679f34290f90dbcaf15f09eca0fb20f", null ],
+    [ "Validate", "d5/dd6/a26133.html#a0a01f5e290b91e58b4b0f8ba443eb7bf", null ]
 ];

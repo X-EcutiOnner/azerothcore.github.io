@@ -1,6 +1,5 @@
 var a28157 =
 [
-    [ "npc_dream_fogAI", "de/d40/a28161.html", "de/d40/a28161" ],
-    [ "npc_dream_fog", "d6/da0/a28157.html#ae50306be88f15c9dfc4d0f12c63c68e6", null ],
-    [ "GetAI", "d6/da0/a28157.html#a48c45fec086e3a50462deed44734ba38", null ]
+    [ "achievement_not_even_a_scratch", "d6/da0/a28157.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
+    [ "OnCheck", "d6/da0/a28157.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
 ];

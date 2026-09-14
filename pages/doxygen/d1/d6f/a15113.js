@@ -1,6 +1,9 @@
 var a15113 =
 [
-    [ "HandleScriptEffect", "d1/d6f/a15113.html#a3d22cc828a2aa59d45e5d648161926fd", null ],
-    [ "PrepareSpellScript", "d1/d6f/a15113.html#a0ecf5662d9cc1296ebdac82233f1fe7c", null ],
-    [ "Register", "d1/d6f/a15113.html#aee5d9189b6df318b57e919511a185a99", null ]
+    [ "HandlePeriodic", "d1/d6f/a15113.html#ae5f611f0643cdfc3d403cee89667b0f6", null ],
+    [ "Load", "d1/d6f/a15113.html#aa90cfb5fdb96e8670fa35dd3c16350c0", null ],
+    [ "PrepareAuraScript", "d1/d6f/a15113.html#afeb65196cbafc813bb02eb3907e59fc2", null ],
+    [ "Register", "d1/d6f/a15113.html#ac331de3219ae7da9e35e962011540bdf", null ],
+    [ "Validate", "d1/d6f/a15113.html#a7de36e3ee777b02ab6fc4671e4e9f5ab", null ],
+    [ "_buffGiven", "d1/d6f/a15113.html#aec2476ad5e046213b90af04ad91f0230", null ]
 ];

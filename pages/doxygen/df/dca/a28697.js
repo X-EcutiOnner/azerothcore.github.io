@@ -1,7 +1,6 @@
 var a28697 =
 [
-    [ "npc_crashin_thrashin_robot", "df/dca/a28697.html#ad21336d212498b1c9ef5d46979d147ab", null ],
-    [ "IsSummonedBy", "df/dca/a28697.html#a0652cd455791461f613ab4ebf77d2c3c", null ],
-    [ "UpdateAI", "df/dca/a28697.html#a1d21cd2075f3aeba2c7f1e735a33dfec", null ],
-    [ "_scheduler", "df/dca/a28697.html#a55778501d154d0a9e77f76054e926f85", null ]
+    [ "npc_steam_tonkAI", "d0/d59/a28701.html", "d0/d59/a28701" ],
+    [ "npc_steam_tonk", "df/dca/a28697.html#a19731e7f1bc6fe0220e8c28619ff7c50", null ],
+    [ "GetAI", "df/dca/a28697.html#a38e51485a3610a204a45677fce15c943", null ]
 ];

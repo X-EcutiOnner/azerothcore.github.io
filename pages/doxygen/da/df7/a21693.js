@@ -1,7 +1,10 @@
 var a21693 =
 [
-    [ "HandleProc", "da/df7/a21693.html#aeb5b70614b266bac0792906bf89a5b97", null ],
-    [ "PrepareAuraScript", "da/df7/a21693.html#aa523e91e5aadb09b66ef2c74e3cbce9f", null ],
-    [ "Register", "da/df7/a21693.html#a163e0099271f21362deeb1ba1f169f3f", null ],
-    [ "Validate", "da/df7/a21693.html#abdb889e4c6d19f756c143d7b36f82257", null ]
+    [ "npc_jenny", "da/df7/a21693.html#ab845ba4551900a03c5a995d348a1be55", null ],
+    [ "DamageTaken", "da/df7/a21693.html#a8700091c82bfff473f3d5563deb69e0b", null ],
+    [ "Initialize", "da/df7/a21693.html#aab8c540ebb90ebbaef961b1feb3013a3", null ],
+    [ "MoveInLineOfSight", "da/df7/a21693.html#acd0939cee3ecb9d961d09815d9c50f71", null ],
+    [ "UpdateFollowerAI", "da/df7/a21693.html#afbd142855602bcf7a8cd8e4cc4760cf0", null ],
+    [ "_events", "da/df7/a21693.html#aa98caf8b706551470c943b4b722a85ae", null ],
+    [ "_fezzix", "da/df7/a21693.html#ac2115c122c2eac2d5a36d1795d1e6bf0", null ]
 ];

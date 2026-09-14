@@ -1,4 +1,4 @@
 var a00923 =
 [
-    [ "lfg::LfgPlayerData", "d4/d54/a08381.html", "d4/d54/a08381" ]
+    [ "AddSC_LFGScripts", "df/de9/a00923.html#a9624b9328e26a9f420a4a3f07e253763", null ]
 ];

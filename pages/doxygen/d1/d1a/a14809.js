@@ -1,8 +1,9 @@
 var a14809 =
 [
-    [ "OnApply", "d1/d1a/a14809.html#a6f3f05316f025ef638672a82cc855136", null ],
-    [ "PeriodicTick", "d1/d1a/a14809.html#a051d292f9483e6b82d773fba3ab52460", null ],
-    [ "PrepareAuraScript", "d1/d1a/a14809.html#ab8face95be60d7c5ba3fe15f0d05de25", null ],
-    [ "Register", "d1/d1a/a14809.html#a0004de73250b8523db2b9ab714c8a246", null ],
-    [ "Validate", "d1/d1a/a14809.html#aae1809dd5bc8baa06ee079a6d2a8b940", null ]
+    [ "npc_brew_bubble", "d1/d1a/a14809.html#a188d1b68bb939d518e72e844e53e9a7d", null ],
+    [ "DoAction", "d1/d1a/a14809.html#a7223d3397b32cf2969ea628c06ac2f19", null ],
+    [ "MoveInLineOfSight", "d1/d1a/a14809.html#aea01d2c0f9ac883a8a8668164f16f932", null ],
+    [ "Reset", "d1/d1a/a14809.html#aa3ab8e07323b47751f72c5ebab24a1bb", null ],
+    [ "UpdateAI", "d1/d1a/a14809.html#a25018deaa206620f6e98ba722f689b8d", null ],
+    [ "timer", "d1/d1a/a14809.html#a4bee73add756ba4b3137818b2dacd27f", null ]
 ];

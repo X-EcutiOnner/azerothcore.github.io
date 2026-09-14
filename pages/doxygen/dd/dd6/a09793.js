@@ -1,7 +1,9 @@
 var a09793 =
 [
-    [ "AnyUnitInObjectRangeCheck", "dd/dd6/a09793.html#ab96cd47c1a4c585e52590b94cf8ff021", null ],
-    [ "operator()", "dd/dd6/a09793.html#a0906cdad65a5b11dc6a8829ace8f135b", null ],
-    [ "i_obj", "dd/dd6/a09793.html#a834214b260576a0fe01908a163428757", null ],
-    [ "i_range", "dd/dd6/a09793.html#acc546656dbe9a405023ba56b028c8420", null ]
+    [ "NearestGameObjectTypeInObjectRangeCheck", "dd/dd6/a09793.html#a46cde63433cf803205006ad775fe73b5", null ],
+    [ "NearestGameObjectTypeInObjectRangeCheck", "dd/dd6/a09793.html#a4bf0dee77fb4979a02eebdc610995640", null ],
+    [ "operator()", "dd/dd6/a09793.html#ac41947606f4344e19edb13aa58f0a5a7", null ],
+    [ "i_obj", "dd/dd6/a09793.html#aca71a09421fdf412489f7f54cf4bc379", null ],
+    [ "i_range", "dd/dd6/a09793.html#a37f212d5cb1ef2b8d55e19b749861a17", null ],
+    [ "i_type", "dd/dd6/a09793.html#a68965425169b93053eadad91403855e0", null ]
 ];

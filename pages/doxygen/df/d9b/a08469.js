@@ -1,10 +1,7 @@
 var a08469 =
 [
-    [ "auras", "df/d9b/a08469.html#a20695ff7997e1ebd6fe898a8b41aeddb", null ],
-    [ "bytes1", "df/d9b/a08469.html#ae337bd59e1e1eb7f4c9cdee4e8c6a7b9", null ],
-    [ "bytes2", "df/d9b/a08469.html#aedf06568867bbb5db5ca8017727dab9d", null ],
-    [ "emote", "df/d9b/a08469.html#a82f7be10807af7b25dd41c643be066fc", null ],
-    [ "mount", "df/d9b/a08469.html#a4d84276a45de1b62e507ac5c763dce3a", null ],
-    [ "path_id", "df/d9b/a08469.html#aa86bac734e0e652b6bb4ea273cf62571", null ],
-    [ "visibilityDistanceType", "df/d9b/a08469.html#ad3ae39b8c5be151e15ab6f1494943bc3", null ]
+    [ "ForcedDespawnDelayEvent", "df/d9b/a08469.html#ad3cf785f62ec0d7069493fee39227bc3", null ],
+    [ "Execute", "df/d9b/a08469.html#a735c709b269458911bd93da1902cbe25", null ],
+    [ "m_owner", "df/d9b/a08469.html#aa4fa09703f39ae8bbe0b7483a27d9cc3", null ],
+    [ "m_respawnTimer", "df/d9b/a08469.html#a5db78930a1fda07f2020b23158ebb93d", null ]
 ];

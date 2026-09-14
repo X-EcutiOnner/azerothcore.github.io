@@ -1,7 +1,14 @@
 var a15581 =
 [
-    [ "boss_rajaxx", "df/d78/a15581.html#afca05f7afabb4c0e181ce3757acb3bcb", null ],
-    [ "JustDied", "df/d78/a15581.html#a9231a20150ed6eae0cbc79c8386f7371", null ],
-    [ "JustEngagedWith", "df/d78/a15581.html#a8dad79921559359b6aa7149641925fe5", null ],
-    [ "UpdateAI", "df/d78/a15581.html#a9b949bea61ceb45ec1b3e452f218c227", null ]
+    [ "boss_buru", "df/d78/a15581.html#a586dfec9d3b0cb9497e616afb1c0b86d", null ],
+    [ "ChaseNewVictim", "df/d78/a15581.html#a177ec0ac9dcfbd9de51088bf50c5785c", null ],
+    [ "DamageTaken", "df/d78/a15581.html#a5ec0141994aac2b8e1fdce12b30c13b0", null ],
+    [ "EnterEvadeMode", "df/d78/a15581.html#aa534cca1e46299e8db917cc8aa5d5b51", null ],
+    [ "JustDied", "df/d78/a15581.html#a6d8f3265dca889bc49e747471da8597f", null ],
+    [ "JustEngagedWith", "df/d78/a15581.html#a61eeeb3eb1684943e94367a9318b3035", null ],
+    [ "KilledUnit", "df/d78/a15581.html#a7c780a29ea9f7b3d2f72eaa11bf7e19c", null ],
+    [ "ManipulateEggs", "df/d78/a15581.html#a4f8a92eab729c975443579560edb03a3", null ],
+    [ "SpellHit", "df/d78/a15581.html#ac3bc641c6bb67e585541c4e5d93dd7fa", null ],
+    [ "UpdateAI", "df/d78/a15581.html#af65d0026b2ea78edb6d48e3c48b6b37b", null ],
+    [ "_phase", "df/d78/a15581.html#aa395967af50f2a422bf1e81a087efc43", null ]
 ];

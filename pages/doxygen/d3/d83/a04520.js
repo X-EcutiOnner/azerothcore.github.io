@@ -1,15 +1,21 @@
 var a04520 =
 [
-    [ "SpellProcCooldownTest", "d0/daf/a30021.html", "d0/daf/a30021" ],
-    [ "TEST_F", "d3/d83/a04520.html#ac30c03da32748e0bf7f658b9eff19f67", null ],
-    [ "TEST_F", "d3/d83/a04520.html#a877730b0890fd65b53503d867be13db2", null ],
-    [ "TEST_F", "d3/d83/a04520.html#a46fee264bedefac5bf751dc80e5175ca", null ],
-    [ "TEST_F", "d3/d83/a04520.html#a370529a902674d7c3d85a958b68f014a", null ],
-    [ "TEST_F", "d3/d83/a04520.html#a63a215a846e19ee49b60cd43e3a95dbb", null ],
-    [ "TEST_F", "d3/d83/a04520.html#af3b499c25e76cc981b8b7c898e661285", null ],
-    [ "TEST_F", "d3/d83/a04520.html#aa2595c13ca0ad6ce6afda0196d0c86ae", null ],
-    [ "TEST_F", "d3/d83/a04520.html#afba7de9d87f646093469d0f6820b2217", null ],
-    [ "TEST_F", "d3/d83/a04520.html#a64a32de59b301ddb3b2a8827bacd43cf", null ],
-    [ "TEST_F", "d3/d83/a04520.html#a4828c96b86819a1f862c5c123463c3f6", null ],
-    [ "TEST_F", "d3/d83/a04520.html#a980784573aa4ae1d2fda4349c9290425", null ]
+    [ "BreakableCCProcTest", "d7/d38/a30017.html", "d7/d38/a30017" ],
+    [ "SimulateBreakableCCProc", "d3/d83/a04520.html#ac723edcfbab6d4088bc22bd3a55be336", null ],
+    [ "SimulateCCThreshold", "d3/d83/a04520.html#a8c2ee93c5431d5bc6be13a32bfd526a2", null ],
+    [ "TEST_F", "d3/d83/a04520.html#ae7e920d7876b221bdd6ac73543ecb53b", null ],
+    [ "TEST_F", "d3/d83/a04520.html#a01bd8816e2098e1802852feddf118482", null ],
+    [ "TEST_F", "d3/d83/a04520.html#a61bb6c4f9f2867f497b42f0b9fd4053f", null ],
+    [ "TEST_F", "d3/d83/a04520.html#ab03560d7309a71818aafdeb607550070", null ],
+    [ "TEST_F", "d3/d83/a04520.html#a68fc55f89209bea457e1ebdbe830e15d", null ],
+    [ "TEST_F", "d3/d83/a04520.html#a20319952febc7ae2e31db13106a826a8", null ],
+    [ "TEST_F", "d3/d83/a04520.html#aa2604417b06444df688bcff7df6f345f", null ],
+    [ "TEST_F", "d3/d83/a04520.html#a76e648098af8f92928aeab6fdbd02d1e", null ],
+    [ "TEST_F", "d3/d83/a04520.html#a0201573a92ca945b9f425808c05dcb0a", null ],
+    [ "TEST_F", "d3/d83/a04520.html#af7ca66f638134a30e578c5b8c145d417", null ],
+    [ "TEST_F", "d3/d83/a04520.html#a12317dac65dba28b3cf394dc60b18a73", null ],
+    [ "TEST_F", "d3/d83/a04520.html#abe06520620645e8c0ae5461381433db3", null ],
+    [ "TEST_F", "d3/d83/a04520.html#ac94f9cc094df0e4830e27f3725fc7451", null ],
+    [ "TEST_F", "d3/d83/a04520.html#a05ed1d314e3aaaeab664e930ab502995", null ],
+    [ "TEST_F", "d3/d83/a04520.html#a19ce81bb45caedcfb16a29ef96b13d7d", null ]
 ];

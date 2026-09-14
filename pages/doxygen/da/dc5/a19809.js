@@ -1,9 +1,8 @@
 var a19809 =
 [
-    [ "HandleApply", "da/dc5/a19809.html#a29679ed64fc288dc0e85beed2971d4be", null ],
-    [ "HandleRemove", "da/dc5/a19809.html#a1f1c3e0ea24174605a7be8fa02e30518", null ],
-    [ "Load", "da/dc5/a19809.html#a0b5d70a7a9bf27696295ccbbffd2a8b9", null ],
-    [ "PrepareAuraScript", "da/dc5/a19809.html#a2804f25643e59f3922291abcb055b641", null ],
-    [ "Register", "da/dc5/a19809.html#a711b5744770d0c9fb5aacb550f2384fa", null ],
-    [ "Validate", "da/dc5/a19809.html#aa239a693db5fa38ac260a37b25e0e6d9", null ]
+    [ "Load", "da/dc5/a19809.html#a7bb0a7c71fb3b9958226069ed6e3399b", null ],
+    [ "OnRemove", "da/dc5/a19809.html#a1d9a8a8b289f565712ab79e9857f6eb7", null ],
+    [ "PrepareAuraScript", "da/dc5/a19809.html#aae6c3a215b09fd2270976190600e2cc4", null ],
+    [ "Register", "da/dc5/a19809.html#aa2c970e4e5b84d79960023c79e95f9c3", null ],
+    [ "Validate", "da/dc5/a19809.html#ae4ac76269793280335d76a78e5dced91", null ]
 ];

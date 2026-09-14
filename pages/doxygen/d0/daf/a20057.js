@@ -1,6 +1,8 @@
 var a20057 =
 [
-    [ "boss_sjonnir_malformed_oozeAI", "d8/dd2/a20061.html", "d8/dd2/a20061" ],
-    [ "boss_sjonnir_malformed_ooze", "d0/daf/a20057.html#ad151bc07b032b6cceed046d1b25ecc08", null ],
-    [ "GetAI", "d0/daf/a20057.html#a22807bb07692511c5ec87073d98c2604", null ]
+    [ "instance_halls_of_lightning_InstanceMapScript", "d0/daf/a20057.html#a9c82cd25354abaf7707c1dabd62c9fe3", null ],
+    [ "CheckAchievementCriteriaMeet", "d0/daf/a20057.html#ad6db51b0ae7de338264d07a61daf21cc", null ],
+    [ "SetData", "d0/daf/a20057.html#a26bd9da74d0d29e50b61df62b205f5e6", null ],
+    [ "_bjarngrimAchievement", "d0/daf/a20057.html#aba06463eb70c68716f571951395c6e2a", null ],
+    [ "_volkhanAchievement", "d0/daf/a20057.html#a52db8081961566ef2002424f00b60189", null ]
 ];

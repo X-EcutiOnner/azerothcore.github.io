@@ -1,7 +1,10 @@
 var a11681 =
 [
-    [ "UpdateWorldState", "d1/d96/a11681.html#a1ccdf24be9a20c824b479af014f4fcb0", null ],
-    [ "Write", "d1/d96/a11681.html#a76a4c5d6a06ce8d86a2d3f04f68e838d", null ],
-    [ "Value", "d1/d96/a11681.html#a51fa2401d8af4c1c7848b423cb6f056f", null ],
-    [ "VariableID", "d1/d96/a11681.html#aa73278b324822f509f48e6edcdaed457", null ]
+    [ "QuestUpdateAddKill", "d1/d96/a11681.html#ac6e44b351690b0a24565a13cad87ec89", null ],
+    [ "Write", "d1/d96/a11681.html#a6f2392423f15178d7a07665a808e6e64", null ],
+    [ "CreatureEntry", "d1/d96/a11681.html#abc41116b77ad21277dbf88b7c904bfe7", null ],
+    [ "CurrentCount", "d1/d96/a11681.html#a6427713c318210153964d9ee29df155b", null ],
+    [ "ObjectiveGuid", "d1/d96/a11681.html#a00e241b298e0351d26c59ac59df3ad62", null ],
+    [ "QuestId", "d1/d96/a11681.html#a9f7eccb75e106acd2d8a1372aa85fd4f", null ],
+    [ "RequiredCount", "d1/d96/a11681.html#a0a1a4435755f778bb263ad65d305a5e9", null ]
 ];

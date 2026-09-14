@@ -1,14 +1,6 @@
 var a15525 =
 [
-    [ "boss_buru", "d5/df9/a15525.html#a586dfec9d3b0cb9497e616afb1c0b86d", null ],
-    [ "ChaseNewVictim", "d5/df9/a15525.html#a177ec0ac9dcfbd9de51088bf50c5785c", null ],
-    [ "DamageTaken", "d5/df9/a15525.html#a5ec0141994aac2b8e1fdce12b30c13b0", null ],
-    [ "EnterEvadeMode", "d5/df9/a15525.html#aa534cca1e46299e8db917cc8aa5d5b51", null ],
-    [ "JustDied", "d5/df9/a15525.html#a6d8f3265dca889bc49e747471da8597f", null ],
-    [ "JustEngagedWith", "d5/df9/a15525.html#a61eeeb3eb1684943e94367a9318b3035", null ],
-    [ "KilledUnit", "d5/df9/a15525.html#a7c780a29ea9f7b3d2f72eaa11bf7e19c", null ],
-    [ "ManipulateEggs", "d5/df9/a15525.html#a4f8a92eab729c975443579560edb03a3", null ],
-    [ "SpellHit", "d5/df9/a15525.html#ac3bc641c6bb67e585541c4e5d93dd7fa", null ],
-    [ "UpdateAI", "d5/df9/a15525.html#af65d0026b2ea78edb6d48e3c48b6b37b", null ],
-    [ "_phase", "d5/df9/a15525.html#aa395967af50f2a422bf1e81a087efc43", null ]
+    [ "npc_belnistraszAI", "d9/db2/a15529.html", "d9/db2/a15529" ],
+    [ "npc_belnistrasz", "d5/df9/a15525.html#a7aa0e9bfcfaf74febe67cbcb94c01ddb", null ],
+    [ "GetAI", "d5/df9/a15525.html#aac9d4389ec1c88be9afb6b9a828da511", null ]
 ];

@@ -1,9 +1,7 @@
 var a13317 =
 [
-    [ "go_blood_drenched_doorAI", "d4/d3c/a13317.html#af431fff2778278cbd3e27b3906201373", null ],
-    [ "GossipHello", "d4/d3c/a13317.html#aa3d9c4ee80d6fb42103a3f02abdd8d20", null ],
-    [ "UpdateAI", "d4/d3c/a13317.html#a644ac9ce05242714d1b87150852539f3", null ],
-    [ "events", "d4/d3c/a13317.html#a2c51ffa6a3992fe55c2e22cb783409c9", null ],
-    [ "mirkblood", "d4/d3c/a13317.html#a07e1b098c31efe45e2df4f85f71109e4", null ],
-    [ "opener", "d4/d3c/a13317.html#aa70272eb79e875ba7d7767a1bf82afe9", null ]
+    [ "FilterTargets", "d4/d3c/a13317.html#ab00f1a67df39f01aa0ead3459c3c3183", null ],
+    [ "Load", "d4/d3c/a13317.html#a5bb1cb64090e1ebb3f6f7bcd1fa1ec21", null ],
+    [ "PrepareSpellScript", "d4/d3c/a13317.html#a17bebef0c4c59c3fd0ccfb28e103ee3e", null ],
+    [ "Register", "d4/d3c/a13317.html#ae366530ddacf45a92eaa36be7e706a84", null ]
 ];

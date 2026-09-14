@@ -1,6 +1,7 @@
 var a20033 =
 [
-    [ "boss_sjonnirAI", "de/de5/a20037.html", "de/de5/a20037" ],
-    [ "boss_sjonnir", "d6/d14/a20033.html#a8bb9b10778a2dedcde3d4ced44bc13f1", null ],
-    [ "GetAI", "d6/d14/a20033.html#a0bb79667d9d80f0c49e30fa0547c6062", null ]
+    [ "OnRemove", "d6/d14/a20033.html#adf6b3d56199ad5a4545ce3874d1223db", null ],
+    [ "PrepareAuraScript", "d6/d14/a20033.html#a2d278e60b34870110dab188896109e24", null ],
+    [ "Register", "d6/d14/a20033.html#ac15847527cc4d162b3b34b8ca8628864", null ],
+    [ "Validate", "d6/d14/a20033.html#ac573e5bd171c97af1905b4a57a45e1f4", null ]
 ];

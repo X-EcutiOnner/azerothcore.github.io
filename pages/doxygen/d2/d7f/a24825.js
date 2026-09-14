@@ -1,7 +1,8 @@
 var a24825 =
 [
-    [ "OnRemove", "d2/d7f/a24825.html#aae9f02415a256ce01b81c3dd6fdafb33", null ],
-    [ "PrepareAuraScript", "d2/d7f/a24825.html#ad27880f797137cae09381e860727e2f7", null ],
-    [ "Register", "d2/d7f/a24825.html#a6c105609c1ee61a8f845018550b2e3ba", null ],
-    [ "Validate", "d2/d7f/a24825.html#ac1f03d22c5fdb1c07a0e0859e08bd561", null ]
+    [ "CheckProc", "d2/d7f/a24825.html#a1b2746e9013ecfbbc112d74a9229719f", null ],
+    [ "HandleProc", "d2/d7f/a24825.html#ad100e3d9794da0fac5802e9d059609a8", null ],
+    [ "PrepareAuraScript", "d2/d7f/a24825.html#a3867a6c8278dc85b3a429652a7b5e81c", null ],
+    [ "Register", "d2/d7f/a24825.html#ab38f961abbef4271df4ddce139d890df", null ],
+    [ "Validate", "d2/d7f/a24825.html#ac5020d66d7fca6246a4ccbbf5c681fee", null ]
 ];

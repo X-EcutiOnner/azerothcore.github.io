@@ -1,8 +1,6 @@
 var a27893 =
 [
-    [ "CheckProc", "d2/d69/a27893.html#ae202a117ff86eee618dfdf4600746de5", null ],
-    [ "HandleProc", "d2/d69/a27893.html#a28c409af8e7a8115ce86f2a51fff1afd", null ],
-    [ "PrepareAuraScript", "d2/d69/a27893.html#a334db12ee8ed29b34269a0ca3172d7b4", null ],
-    [ "Register", "d2/d69/a27893.html#a392724c604ce325415aaa3410e18a60c", null ],
-    [ "Validate", "d2/d69/a27893.html#af0b153ca9e28a3cdc06a30ff30b46f39", null ]
+    [ "CalculateAmount", "d2/d69/a27893.html#aa27de1a2fc517a4b796a10e780239880", null ],
+    [ "PrepareAuraScript", "d2/d69/a27893.html#a72e68ff46f2049809f3e3b2c1814bd87", null ],
+    [ "Register", "d2/d69/a27893.html#a5ee969ad0916a9337849c75c18f13c29", null ]
 ];

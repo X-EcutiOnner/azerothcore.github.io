@@ -1,7 +1,6 @@
 var a24909 =
 [
-    [ "FilterTargets", "de/df5/a24909.html#af6daf7022fc4cd18909056089c249c8a", null ],
-    [ "HandleDummy", "de/df5/a24909.html#ab8f8fec8c95f471a04d642fa0dcbe3e6", null ],
-    [ "PrepareSpellScript", "de/df5/a24909.html#a3ec1d43d3eb6ecca128ddda3c0f81efc", null ],
-    [ "Register", "de/df5/a24909.html#ae662a050ce4cac47b6bd0d0b0c5b1e16", null ]
+    [ "CalculateAmount", "de/df5/a24909.html#a8deb31d3b6244f4d8de6050c99b3192e", null ],
+    [ "PrepareAuraScript", "de/df5/a24909.html#a4090baaee0e4330d3776b5774c5c923a", null ],
+    [ "Register", "de/df5/a24909.html#a4db48f3a549a04caf746a9459b1c5640", null ]
 ];

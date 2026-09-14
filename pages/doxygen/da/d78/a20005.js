@@ -1,5 +1,8 @@
 var a20005 =
 [
-    [ "at_hol_hall_of_watchers", "da/d78/a20005.html#aeb6a3edb75d3592b2e3df32fa61829d0", null ],
-    [ "_OnTrigger", "da/d78/a20005.html#adc0ed221142741010c5607f9473ed2f1", null ]
+    [ "HandleEffectPeriodic", "da/d78/a20005.html#abb453e3d38677be7082f2cd4e43134cc", null ],
+    [ "HandleOnEffectApply", "da/d78/a20005.html#a3ec47d5d9fdbdcfe671e02c3b0f55980", null ],
+    [ "PrepareAuraScript", "da/d78/a20005.html#ac00c6d9b1cccb38b5d87b3139295614c", null ],
+    [ "Register", "da/d78/a20005.html#ae4de4f0f2f4dc4ac98706ddd898df7c5", null ],
+    [ "Validate", "da/d78/a20005.html#a09481646f8ec90b0135d93d83cc18929", null ]
 ];

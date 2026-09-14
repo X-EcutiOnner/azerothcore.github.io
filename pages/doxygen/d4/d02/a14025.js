@@ -1,6 +1,6 @@
 var a14025 =
 [
-    [ "npc_lor_themar_theron", "d4/d02/a14025.html#acf8b65675cc46949440a829fc1adf5fc", null ],
-    [ "JustDied", "d4/d02/a14025.html#ad2615cc062c8c1f4b01fc9e253fe34d4", null ],
-    [ "UpdateAI", "d4/d02/a14025.html#aa9eafbacdb75bfbf772c901ce96119c6", null ]
+    [ "npc_professor_phizzlethorpeAI", "d6/d50/a14029.html", "d6/d50/a14029" ],
+    [ "npc_professor_phizzlethorpe", "d4/d02/a14025.html#a8d32b4a107533c81033c617b0b97027d", null ],
+    [ "GetAI", "d4/d02/a14025.html#a5eb540d16b2dd123d553ea4ae24d8b53", null ]
 ];

@@ -1,9 +1,8 @@
 var a27525 =
 [
-    [ "HandleHeal", "d3/d31/a27525.html#ad2d854d275dc6f8b67b866d864b6febe", null ],
-    [ "Load", "d3/d31/a27525.html#a507a7a4ff11f8bf1157e034d086cd9ad", null ],
-    [ "PrepareSpellScript", "d3/d31/a27525.html#a91eb46af707897f228e5d1bbd199a833", null ],
-    [ "Register", "d3/d31/a27525.html#ae28f1b0c23511153eafc037cae067bc0", null ],
-    [ "firstHeal", "d3/d31/a27525.html#a405326e6e1cd82816aef1712fdf335a0", null ],
-    [ "riptide", "d3/d31/a27525.html#acaec32f6730bc2e04e613aa982d285bf", null ]
+    [ "CheckProc", "d3/d31/a27525.html#a6abcfe33cfddde117eb9d19bdf834c3f", null ],
+    [ "HandleProc", "d3/d31/a27525.html#a4ee92efd0a312f7b5b4e0e19184cd085", null ],
+    [ "PrepareAuraScript", "d3/d31/a27525.html#ac45288980b444c92daecc1392a2cd38c", null ],
+    [ "Register", "d3/d31/a27525.html#ac93280657ee8d64aced09b95dac270d4", null ],
+    [ "Validate", "d3/d31/a27525.html#ad7b22c7da5d72a392d342624c46b456b", null ]
 ];

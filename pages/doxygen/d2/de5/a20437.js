@@ -1,7 +1,7 @@
 var a20437 =
 [
-    [ "HandleAfterEffectApply", "d2/de5/a20437.html#a672526de2c71dcae79bacef88f34dc26", null ],
-    [ "PrepareAuraScript", "d2/de5/a20437.html#a1da221b63cb7fcd0dbb580e8cf0003ce", null ],
-    [ "Register", "d2/de5/a20437.html#a9ba7c109fe96881dd47ba47366890e2b", null ],
-    [ "Validate", "d2/de5/a20437.html#ab5833f6218760a7d9829b5d453436302", null ]
+    [ "boss_freya_iron_root", "d2/de5/a20437.html#af35a268c89c025d95c13ea8c87d6516e", null ],
+    [ "JustDied", "d2/de5/a20437.html#a3f3e00bb3ff7e23e912e0ae7bb98e67f", null ],
+    [ "OnDespawn", "d2/de5/a20437.html#abd0258796a696e6665ecd51b27cc0b1e", null ],
+    [ "ReleaseRootedPlayer", "d2/de5/a20437.html#a87fe9f9e32bcc44e8692fd317ab864db", null ]
 ];

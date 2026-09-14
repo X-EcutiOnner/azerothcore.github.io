@@ -1,6 +1,7 @@
 var a16429 =
 [
-    [ "npc_anub_ar_crusher_necromancer", "d9/dea/a16429.html#a469d30b357551c4ce77f040bea79e951", null ],
-    [ "DoEngagedWith", "d9/dea/a16429.html#ab83cd9a16b191547f9307b80d8c697f6", null ],
-    [ "DoEvent", "d9/dea/a16429.html#a67889b3a207ab26b7895e2f7996359b1", null ]
+    [ "HandleScript", "d9/dea/a16429.html#ae9939f2795b8ba428277c7d658af715c", null ],
+    [ "PrepareSpellScript", "d9/dea/a16429.html#aabe244008103ff317e3fc1e26b04115a", null ],
+    [ "Register", "d9/dea/a16429.html#a4f492bdd96ef190354f37c95217bb696", null ],
+    [ "Validate", "d9/dea/a16429.html#a4a3a5e83b66d0ae3f6f95bcead932f55", null ]
 ];

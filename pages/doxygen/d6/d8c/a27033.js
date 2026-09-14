@@ -1,7 +1,9 @@
 var a27033 =
 [
-    [ "HandleProc", "d6/d8c/a27033.html#af27f9408725ff9c7ec17e8ae352234a9", null ],
-    [ "PrepareAuraScript", "d6/d8c/a27033.html#a11c2e125d7a583966be3f8a64064a5ad", null ],
-    [ "Register", "d6/d8c/a27033.html#a283f05b3649e3c137679ab92386f7a84", null ],
-    [ "Validate", "d6/d8c/a27033.html#a4805c758dc85e065cdb9550a5856fe31", null ]
+    [ "CheckCast", "d6/d8c/a27033.html#ad6b60c449d57503508c9a94ca6e919f9", null ],
+    [ "HandleDummy", "d6/d8c/a27033.html#a7f79495525687fba6229f48935b2558a", null ],
+    [ "Load", "d6/d8c/a27033.html#a0c73457e44a3d64bdccee78d28893672", null ],
+    [ "PrepareSpellScript", "d6/d8c/a27033.html#a4826d7b257ee05bfe0d6db3d30a924e9", null ],
+    [ "Register", "d6/d8c/a27033.html#ab9f09394ab301350a2abaefde90632fe", null ],
+    [ "Validate", "d6/d8c/a27033.html#a9b9d5f862e9910f1a12780ff54b067ca", null ]
 ];

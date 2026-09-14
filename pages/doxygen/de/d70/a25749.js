@@ -1,9 +1,8 @@
 var a25749 =
 [
-    [ "CheckCast", "de/d70/a25749.html#a005565dd77de97b5aa04553a1d6a0185", null ],
-    [ "HandleScript", "de/d70/a25749.html#a7313a3d9840d7dc81e5a894e83cb6347", null ],
-    [ "Load", "de/d70/a25749.html#aadfc8a873c72e31d65001ce00518ca45", null ],
-    [ "PrepareSpellScript", "de/d70/a25749.html#a169b60644259855f0614271e4769f6b9", null ],
-    [ "Register", "de/d70/a25749.html#a9e7f8cbc7ec3de507069b69678005da3", null ],
-    [ "Validate", "de/d70/a25749.html#a9e69eb36c1a2640ff616ae5744c04f4f", null ]
+    [ "HandleEffectApply", "de/d70/a25749.html#a4af5930ce6445088070495765c78361c", null ],
+    [ "HandleEffectRemove", "de/d70/a25749.html#a6073ef880b4fa786b8f97567278904d8", null ],
+    [ "Load", "de/d70/a25749.html#a3e27cef303df9bc16e895ab65c7764b6", null ],
+    [ "PrepareAuraScript", "de/d70/a25749.html#a7b40247e633e734f7152352cd22599d9", null ],
+    [ "Register", "de/d70/a25749.html#a833b246d44bf09fda626eff0c11f6ee8", null ]
 ];

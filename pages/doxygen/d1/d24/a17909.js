@@ -1,5 +1,6 @@
 var a17909 =
 [
-    [ "achievement_ive_gone_and_made_a_mess", "d1/d24/a17909.html#a0e71ea3afae02176f81231e51155c038", null ],
-    [ "OnCheck", "d1/d24/a17909.html#a638cead986783523c7c35ecb9d885b11", null ]
+    [ "boss_deathbringer_saurfangAI", "d8/df4/a17913.html", "d8/df4/a17913" ],
+    [ "boss_deathbringer_saurfang", "d1/d24/a17909.html#ad19893be7dc3b4290d9b1ed3bb992e08", null ],
+    [ "GetAI", "d1/d24/a17909.html#a6bc1ef44b3ea9e860d62bf78cfa38c92", null ]
 ];

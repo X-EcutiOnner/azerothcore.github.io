@@ -1,5 +1,7 @@
 var a20553 =
 [
-    [ "achievement_staying_buffed_all_winter_10", "d8/d96/a20553.html#a40afd6db0bf6cff2b9b6163b7d4c31da", null ],
-    [ "OnCheck", "d8/d96/a20553.html#a67587b1659a8d026e73b42311148541a", null ]
+    [ "HandleEffectPeriodic", "d8/d96/a20553.html#acddafc5100d667e8fcc034815204f8ce", null ],
+    [ "PrepareAuraScript", "d8/d96/a20553.html#aeee4eeb0d55d084630bf850c0af165a9", null ],
+    [ "Register", "d8/d96/a20553.html#acc96d2a38e4da19e6cd6c72037a24202", null ],
+    [ "Validate", "d8/d96/a20553.html#acacf8df2d00899bed640c1be0d4287f2", null ]
 ];

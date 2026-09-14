@@ -1,7 +1,14 @@
 var a16293 =
 [
-    [ "go_troll_cageAI", "d9/dd4/a16293.html#ae742afdb7a37d64bb852b7ecd076d007", null ],
-    [ "GossipHello", "d9/dd4/a16293.html#a5c91cb491021b15ba70cc8ef5f07d037", null ],
-    [ "initBlyCrewMember", "d9/dd4/a16293.html#a6bfb77ec97367d8704885acfef801b74", null ],
-    [ "instance", "d9/dd4/a16293.html#ad5d736dd6cbe7a23d03f21004cae530d", null ]
+    [ "npc_ringoAI", "d9/dd4/a16293.html#a816dcad96afa6bec595f4b2dfe6fb11c", null ],
+    [ "ClearFaint", "d9/dd4/a16293.html#abd24108debcafafa601958824d44abbb", null ],
+    [ "MoveInLineOfSight", "d9/dd4/a16293.html#a6758ef2fe371338826dfc8582d6d03f0", null ],
+    [ "Reset", "d9/dd4/a16293.html#a5b2cf17642bd4a560abb54b8d42bcd25", null ],
+    [ "SetFaint", "d9/dd4/a16293.html#a09d3770aade34afe5a3a15e17cc64933", null ],
+    [ "SpellHit", "d9/dd4/a16293.html#ad30d1a9fb84cc777d48b1363cf571d72", null ],
+    [ "UpdateFollowerAI", "d9/dd4/a16293.html#a3b0effa8ec4d335a1d24d2238346b04a", null ],
+    [ "EndEventProgress", "d9/dd4/a16293.html#a4df563b83103bbd7e1f0d81a78f6401a", null ],
+    [ "EndEventTimer", "d9/dd4/a16293.html#a03f20114ca340c7c710bd77ee3c905ef", null ],
+    [ "FaintTimer", "d9/dd4/a16293.html#a37d12c7edf3100837c99e3fb572f4bf1", null ],
+    [ "SpraggleGUID", "d9/dd4/a16293.html#a3b58d34a1263355e7b11e22e0eef00a5", null ]
 ];

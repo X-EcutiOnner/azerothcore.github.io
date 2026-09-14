@@ -1,12 +1,7 @@
 var a28833 =
 [
-    [ "categoryId", "da/dc8/a28833.html#a1de0e4302757f18c08b90b40e059737b", null ],
-    [ "count", "da/dc8/a28833.html#a93aac150067979467f56d9919ff665a4", null ],
-    [ "flags", "da/dc8/a28833.html#a5c0dfb5b3c0711aff47d3d604ded2d1a", null ],
-    [ "ID", "da/dc8/a28833.html#a843fee247948d02f7aaf04144cb37ef5", null ],
-    [ "mapID", "da/dc8/a28833.html#ab3d41381808c8bdc163554f7c46f6bc6", null ],
-    [ "name", "da/dc8/a28833.html#a806cfeddc475994f1b421679bd9699e6", null ],
-    [ "points", "da/dc8/a28833.html#abc2b4cf9c6580c6bc99d5c47d7539374", null ],
-    [ "refAchievement", "da/dc8/a28833.html#a858661b2e3479fa3fc2e029ae0d8a145", null ],
-    [ "requiredFaction", "da/dc8/a28833.html#a722dbda5ed8d74f5a1e75bdec8841aa3", null ]
+    [ "HandleDummy", "da/dc8/a28833.html#ade9ff4db63fecf726776f6e4b36bb437", null ],
+    [ "PrepareSpellScript", "da/dc8/a28833.html#a0375b541f2a90e337fee61ced6d8f3ec", null ],
+    [ "Register", "da/dc8/a28833.html#a66c530b497e4952b457bbfa50a036c07", null ],
+    [ "Validate", "da/dc8/a28833.html#a968333dcfe0553ad73879f3042db5511", null ]
 ];

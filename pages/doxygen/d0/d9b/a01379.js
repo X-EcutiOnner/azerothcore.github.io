@@ -1,4 +1,4 @@
 var a01379 =
 [
-    [ "MapGridManager", "de/dae/a09597.html", "de/dae/a09597" ]
+    [ "GridRefMgr< OBJECT >", "dc/ddc/a09573.html", "dc/ddc/a09573" ]
 ];

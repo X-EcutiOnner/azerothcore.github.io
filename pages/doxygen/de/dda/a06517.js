@@ -1,6 +1,9 @@
 var a06517 =
 [
-    [ "TriggerAI", "de/dda/a06517.html#ad8cc7eae28b11af049db88e0d8ff149b", null ],
-    [ "IsSummonedBy", "de/dda/a06517.html#a0bcffd9eab068e35d71e3176c33359f1", null ],
-    [ "Permissible", "de/dda/a06517.html#aa979e7a4774b35bf83ed137543d517b1", null ]
+    [ "TurretAI", "de/dda/a06517.html#a0aaa1ee5eb1b2e83657ef24479d9a91e", null ],
+    [ "AttackStart", "de/dda/a06517.html#ab6eb7cf777595a4b196373123da19bea", null ],
+    [ "CanAIAttack", "de/dda/a06517.html#a47c1c38ddcc1f473104fb698fe338684", null ],
+    [ "Permissible", "de/dda/a06517.html#aac81fb574d70369fb006fb7ba22a0784", null ],
+    [ "UpdateAI", "de/dda/a06517.html#aa2d308443a31d8a06bbc63517695dfef", null ],
+    [ "m_minRange", "de/dda/a06517.html#a4cffbf9bcb29468dad6a6583c905b99a", null ]
 ];

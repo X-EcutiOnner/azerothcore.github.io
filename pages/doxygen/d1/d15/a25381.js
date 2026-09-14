@@ -1,6 +1,8 @@
 var a25381 =
 [
-    [ "HandleScriptEffect", "d1/d15/a25381.html#a422a77760004d6d6fac6bacdb1d436ff", null ],
-    [ "PrepareSpellScript", "d1/d15/a25381.html#a1d7e2beafb55464f928ea5904441d698", null ],
-    [ "Register", "d1/d15/a25381.html#aeaa8321255f377b85884df25a455554f", null ]
+    [ "AchievementCredit", "d1/d15/a25381.html#ab0ec836feb53875de355330e05367fe8", null ],
+    [ "Load", "d1/d15/a25381.html#ae48c67f363e399f076122cb6eee10ffb", null ],
+    [ "PrepareSpellScript", "d1/d15/a25381.html#af0bb22c618af5dca7f534bea32e7ee7f", null ],
+    [ "Register", "d1/d15/a25381.html#a793921687c96a39f7dd872b9721096ca", null ],
+    [ "Validate", "d1/d15/a25381.html#a5be222c322714ec62f8beaf69faab257", null ]
 ];

@@ -1,9 +1,10 @@
 var a07825 =
 [
-    [ "entry", "d5/d75/a07825.html#a4c6980a035279ca45e88a2ddc0beb0b5", null ],
-    [ "o", "d5/d75/a07825.html#a785703f50dcafda5888fb76af82a09da", null ],
-    [ "type", "d5/d75/a07825.html#aa21624a51b1fbfc474d0c64f4996cb9b", null ],
-    [ "x", "d5/d75/a07825.html#a55bd18cb9ea27748a07dd91f6783de23", null ],
-    [ "y", "d5/d75/a07825.html#a908fbf198d908963e77630b42deea147", null ],
-    [ "z", "d5/d75/a07825.html#a4a49f5cbb58764ea9c137fc010e898c6", null ]
+    [ "BattlegroundBE", "d5/d75/a07825.html#a4b29ebe897de3109b165607de957fae2", null ],
+    [ "FillInitialWorldStates", "d5/d75/a07825.html#a15f4e4a79c5a1ee594811aa1cd1786f7", null ],
+    [ "HandleAreaTrigger", "d5/d75/a07825.html#a6216e25edd0057b9599efc787045505e", null ],
+    [ "HandlePlayerUnderMap", "d5/d75/a07825.html#ab004984d4b882e72471b0b5a8fca9632", null ],
+    [ "SetupBattleground", "d5/d75/a07825.html#a2eed1be4672539674e092edb6a6a9627", null ],
+    [ "StartingEventCloseDoors", "d5/d75/a07825.html#a2379fda6296fcdbde68fad362e858621", null ],
+    [ "StartingEventOpenDoors", "d5/d75/a07825.html#a09be55b7b6a1559a657bdfbd672021f0", null ]
 ];

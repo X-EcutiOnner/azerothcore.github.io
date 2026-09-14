@@ -1,7 +1,6 @@
 var a13561 =
 [
-    [ "OnApply", "d6/df5/a13561.html#a278a1eb6d5f856a620f5a33de294b0ec", null ],
-    [ "OnRemove", "d6/df5/a13561.html#a8300f726a41882e3d3f54adc0e5bfb29", null ],
-    [ "PrepareAuraScript", "d6/df5/a13561.html#a46ba800f3a3512951b83e428bc5373b9", null ],
-    [ "Register", "d6/df5/a13561.html#a4a59d431c7d7607e614c4ec035e3acf7", null ]
+    [ "HandleDummy", "d6/df5/a13561.html#a30b184682d9d7e5cd992b033bf089589", null ],
+    [ "PrepareSpellScript", "d6/df5/a13561.html#a4499d38e1bb64a76ada4d47ae5aa72a9", null ],
+    [ "Register", "d6/df5/a13561.html#a8c30b2d7ad63280b3d0721c5ded43609", null ]
 ];

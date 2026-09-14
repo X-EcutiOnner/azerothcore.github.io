@@ -1,7 +1,6 @@
 var a24225 =
 [
-    [ "HandleScriptEffect", "d2/d51/a24225.html#ad018d907a85ee31d3194823a4c02a1a5", null ],
-    [ "PrepareSpellScript", "d2/d51/a24225.html#a50b6bc43eaeee0ec760c02ac1685454e", null ],
-    [ "Register", "d2/d51/a24225.html#a2096673a3f57cc224aeb7d3ce84526cb", null ],
-    [ "Validate", "d2/d51/a24225.html#a5209de3456c374010502a94f67ff4544", null ]
+    [ "npc_creditmarker_visit_with_ancestorsAI", "d3/db5/a24229.html", "d3/db5/a24229" ],
+    [ "npc_creditmarker_visit_with_ancestors", "d2/d51/a24225.html#a60f7abac7198d8504d944828dceb1ffa", null ],
+    [ "GetAI", "d2/d51/a24225.html#a06eb335a757c9f48fbfa64bfc326bb8e", null ]
 ];

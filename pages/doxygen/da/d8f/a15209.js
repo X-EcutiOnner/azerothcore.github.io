@@ -1,10 +1,7 @@
 var a15209 =
 [
-    [ "hyjalJainaAI", "da/d8f/a15209.html#aa7532b691e85fd9bd467e20db39c59da", null ],
-    [ "IsSummonedBy", "da/d8f/a15209.html#a5003e3a1ccb955b209c1ab91a49d217f", null ],
-    [ "JustDied", "da/d8f/a15209.html#a605687080e5149b3f08ce8349ba9b336", null ],
-    [ "JustEngagedWith", "da/d8f/a15209.html#a187efe775b1e2a35637638507e77352e", null ],
-    [ "PathEndReached", "da/d8f/a15209.html#a0f7dd1512694d284c1f83b3403c421e6", null ],
-    [ "Reset", "da/d8f/a15209.html#a585baff53f5d57ca0dc9002181e8d2bc", null ],
-    [ "UpdateAI", "da/d8f/a15209.html#ac86fb8a5a55654ff7697abd9162135c1", null ]
+    [ "HandleProc", "da/d8f/a15209.html#a6d1d8eb2ad0085df31d4f0e00c632fb2", null ],
+    [ "PrepareAuraScript", "da/d8f/a15209.html#a95e3495f3e696ee908c4b17cf6dee370", null ],
+    [ "Register", "da/d8f/a15209.html#a9beecfcf0f11b551bfdc840e10db2432", null ],
+    [ "Validate", "da/d8f/a15209.html#a18398f81a80f9a1f47958de3be7b9189", null ]
 ];

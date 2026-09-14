@@ -1,7 +1,6 @@
 var a25233 =
 [
-    [ "HandleProc", "dc/d9b/a25233.html#af768269d315e998fc2042794c3a03b58", null ],
-    [ "PrepareAuraScript", "dc/d9b/a25233.html#ae3da67d626ee11c57a85a3af99ff07a5", null ],
-    [ "Register", "dc/d9b/a25233.html#a2df1cff47861cbf3198e573c6031b54e", null ],
-    [ "Validate", "dc/d9b/a25233.html#a84f40eec148c55108085db5e7b05cb0e", null ]
+    [ "CheckProc", "dc/d9b/a25233.html#a21cda631d861161c370a44a2fd2fd2f7", null ],
+    [ "PrepareAuraScript", "dc/d9b/a25233.html#a861caa47c502c42fa84d9f9de74df024", null ],
+    [ "Register", "dc/d9b/a25233.html#ab4275de186b6841a1f424863cb6c128c", null ]
 ];

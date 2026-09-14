@@ -1,7 +1,6 @@
 var a23549 =
 [
-    [ "CalcPeriodic", "d3/dbe/a23549.html#aeae100fb3ab86b9064c3923472fbd45d", null ],
-    [ "PrepareAuraScript", "d3/dbe/a23549.html#a290913502dfe3dfb42b44a964468b97c", null ],
-    [ "Register", "d3/dbe/a23549.html#aea7a6e4bcbc97d19393d790a28a4483a", null ],
-    [ "Update", "d3/dbe/a23549.html#ab3bdb3a14c6d130d295553e635acb47c", null ]
+    [ "instance_steam_vault_InstanceMapScript", "d3/dbe/a23549.html#a1ca8d6b10fabe1a8b829dbf62b77ed51", null ],
+    [ "OnGameObjectCreate", "d3/dbe/a23549.html#ace71fc6f1d7bc4b49bc2a2507f481fc2", null ],
+    [ "SetBossState", "d3/dbe/a23549.html#ab1e344fbf169ee40f28741217f3dca14", null ]
 ];

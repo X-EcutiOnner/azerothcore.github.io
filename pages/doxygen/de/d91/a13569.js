@@ -1,11 +1,6 @@
 var a13569 =
 [
-    [ "npc_scholomance_occultistAI", "de/d91/a13569.html#af78103d07aef427130d26b4aed5e5ae3", null ],
-    [ "JustEngagedWith", "de/d91/a13569.html#a03f0f6d015065c5afcf025dc44dc6aa8", null ],
-    [ "JustReachedHome", "de/d91/a13569.html#ac4bb0aa4009191a36dd4cebb45fd2ad5", null ],
-    [ "SelectUnitCasting", "de/d91/a13569.html#adde187b89a74a57aac823e4eb19bfeed", null ],
-    [ "UpdateAI", "de/d91/a13569.html#ab02edf780adb553b2314045d8effa277", null ],
-    [ "events", "de/d91/a13569.html#a1ee55a572462a1e832a5b89c8906bd87", null ],
-    [ "instance", "de/d91/a13569.html#a195fe4d681580c17086a5390fd4f82ba", null ],
-    [ "originalDisplayId", "de/d91/a13569.html#a4dcc895fef36cd1e9ca8cf38bdc2f6c4", null ]
+    [ "boss_darkmaster_gandlingAI", "df/d7d/a13573.html", "df/d7d/a13573" ],
+    [ "boss_darkmaster_gandling", "de/d91/a13569.html#a6db73fa3c8324f6bfdcb1ae6a72ee39b", null ],
+    [ "GetAI", "de/d91/a13569.html#a21ea53862614303af31a517a53d1fbf6", null ]
 ];

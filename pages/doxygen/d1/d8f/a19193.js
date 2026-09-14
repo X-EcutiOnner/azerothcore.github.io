@@ -1,7 +1,15 @@
 var a19193 =
 [
-    [ "OnApply", "d1/d8f/a19193.html#a5f62c11ef96edbf6f2906bd5f41109d5", null ],
-    [ "OnRemove", "d1/d8f/a19193.html#a697a7c76f944b5df956a9de07746b7a9", null ],
-    [ "PrepareAuraScript", "d1/d8f/a19193.html#a338d0fa22368d01fe7523b7cc1acea4b", null ],
-    [ "Register", "d1/d8f/a19193.html#ab915b3ede10526b3e7ccbe33f2568fae", null ]
+    [ "npc_icc_orb_controller", "d1/d8f/a19193.html#af78f3356f39b112ce37a17c735d5c625", null ],
+    [ "DoAction", "d1/d8f/a19193.html#a2c8a835fd79c247852fb49f0e9aa6649", null ],
+    [ "Reset", "d1/d8f/a19193.html#a2018189abc547c96b5e6cfad32b0394d", null ],
+    [ "ScheduleVisualChannel", "d1/d8f/a19193.html#ae387fdfb241e9954b80f8a960184fd52", null ],
+    [ "SetGUID", "d1/d8f/a19193.html#a03291421296f26d1074dc8624e47ee5c", null ],
+    [ "SpellHit", "d1/d8f/a19193.html#a1b939a16c94e04f0c0d211c7525067bf", null ],
+    [ "UpdateAI", "d1/d8f/a19193.html#ace711f4d706596bbc6e7e5e2a71fe7b5", null ],
+    [ "UpdateValidGuids", "d1/d8f/a19193.html#a4e9c20a096c6c0b6eab6499360afa580", null ],
+    [ "_isInCombat", "d1/d8f/a19193.html#ad01a3b4fa5235ffe760da4bad32597b0", null ],
+    [ "_isLongRepeat", "d1/d8f/a19193.html#a991b496578a1a527bc5852dea3d0b8b0", null ],
+    [ "_minionGuids", "d1/d8f/a19193.html#a75c655bb0bb9af2cded799caa5d437fa", null ],
+    [ "_scheduler", "d1/d8f/a19193.html#aca716eb91bed808919ac5bd415b36397", null ]
 ];

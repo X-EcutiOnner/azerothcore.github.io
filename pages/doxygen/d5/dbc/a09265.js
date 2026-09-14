@@ -1,20 +1,11 @@
 var a09265 =
 [
-    [ "CalculateAutumnEquinox", "d5/dbc/a09265.html#a266780f29cf8969f74aa1e7ba56c71f6", null ],
-    [ "CalculateEasterSunday", "d5/dbc/a09265.html#a7877b9590552f951cebda62021634445", null ],
-    [ "CalculateHolidayDate", "d5/dbc/a09265.html#a210710c9e3c17b35c4c90a118d6fa8b5", null ],
-    [ "CalculateLunarNewYear", "d5/dbc/a09265.html#a341be2e060a41c0be7a70fdabe608c6b", null ],
-    [ "CalculateNewMoon", "d5/dbc/a09265.html#a6db890c706217c35c8579a0d14e240c4", null ],
-    [ "CalculateNthWeekday", "d5/dbc/a09265.html#a4e98186819af811251e80e69ae96c13b", null ],
-    [ "CalculateWeekdayOnOrAfter", "d5/dbc/a09265.html#af29aa127743e914f29ed413a13fca808", null ],
-    [ "CalculateWinterSolstice", "d5/dbc/a09265.html#aeeb30fa2ae99b92963b2c7309d0314e7", null ],
-    [ "DateToJulianDay", "d5/dbc/a09265.html#a8895f79fb06caa15c3bd4b7341dc769d", null ],
-    [ "FindLoopingStartTime", "d5/dbc/a09265.html#a9ef0af4dccb02a045dd0c9a15330c9f0", null ],
-    [ "FindStartTimeForStage", "d5/dbc/a09265.html#adb0b9bcaeaa1aab1a11f59e57a08653b", null ],
-    [ "GetDarkmoonFaireDates", "d5/dbc/a09265.html#a6e27a5ec3e65f21f17a9f2a61cc23022", null ],
-    [ "GetHolidayRules", "d5/dbc/a09265.html#ae3925d27fb35d153c03600b6a1802b54", null ],
-    [ "GetPackedHolidayDate", "d5/dbc/a09265.html#a787a8a7a5316fee2f488ba60e62ac6ea", null ],
-    [ "JulianDayToDate", "d5/dbc/a09265.html#a133ee41b0b50d9eed90cd185aeec24c1", null ],
-    [ "PackDate", "d5/dbc/a09265.html#a14e9aaaad7d51ffe047f66ad32739807", null ],
-    [ "UnpackDate", "d5/dbc/a09265.html#a9a1229709b2406953d4627e753a543b3", null ]
+    [ "VehicleSeatAddon", "d5/dbc/a09265.html#a307b278917998116156e41f9189a582c", null ],
+    [ "VehicleSeatAddon", "d5/dbc/a09265.html#adaec12df869a9ffc81174f5ef1f65606", null ],
+    [ "ExitParameter", "d5/dbc/a09265.html#afbb8de193522f1182efff50064e5f83d", null ],
+    [ "ExitParameterO", "d5/dbc/a09265.html#a06e385ea5cf0441721432925251a5a63", null ],
+    [ "ExitParameterX", "d5/dbc/a09265.html#a521d7a5eda620d0ced0b1309f3c96e17", null ],
+    [ "ExitParameterY", "d5/dbc/a09265.html#ad343c7149b12cffe3a3de48ad73685a2", null ],
+    [ "ExitParameterZ", "d5/dbc/a09265.html#add1ea5a9e605a49d0ddbcea0f804bd3b", null ],
+    [ "SeatOrientationOffset", "d5/dbc/a09265.html#a374c73b40f6e6dad103b172d1829a31d", null ]
 ];

@@ -1,7 +1,8 @@
 var a11969 =
 [
-    [ "ap_bonus", "d0/d39/a11969.html#a98410b8bb89434cd7e1747462f8039dc", null ],
-    [ "ap_dot_bonus", "d0/d39/a11969.html#a09caeec47b138d9eff3539795416a09a", null ],
-    [ "direct_damage", "d0/d39/a11969.html#abab1af227a6c8e592b8a9bd15589535d", null ],
-    [ "dot_damage", "d0/d39/a11969.html#a92491d8d1e61612d88c7c830d7912be5", null ]
+    [ "ReflectEvent", "d0/d39/a11969.html#a1669aec08a3a09143c57e4889c8fad08", null ],
+    [ "Execute", "d0/d39/a11969.html#a37fb766d70932e8a431dba363c603531", null ],
+    [ "_caster", "d0/d39/a11969.html#a67ec85597bb887e7b8cb31b818910d1a", null ],
+    [ "_spellInfo", "d0/d39/a11969.html#ae05fc2092226695fa22dd1e72d58bc7b", null ],
+    [ "_targetGUID", "d0/d39/a11969.html#aa9f8c7bf1e22c74f3d134df2cfc014b5", null ]
 ];

@@ -1,8 +1,8 @@
 var a09709 =
 [
-    [ "PlayerWorker", "db/d7b/a09709.html#ac7c16ec87b533b7b58b768cac116d7a2", null ],
-    [ "Visit", "db/d7b/a09709.html#a018b799be67c284d6ed5c7a368ef1985", null ],
-    [ "Visit", "db/d7b/a09709.html#a19c56b5bde9e57ea0152a89ac05e292b", null ],
-    [ "i_do", "db/d7b/a09709.html#ae09b42f770e895b1c283ea7ca7527b7a", null ],
-    [ "i_phaseMask", "db/d7b/a09709.html#aa23944bde7aa8e3a77f33b0a93f92c57", null ]
+    [ "GameObjectWorker", "db/d7b/a09709.html#a79dd3983b007d982bbb1f0b33c5c7a54", null ],
+    [ "Visit", "db/d7b/a09709.html#a754197d7a9aa3203cda964cbee81ae9a", null ],
+    [ "Visit", "db/d7b/a09709.html#a47a10a6790179eb5b78cbb66dd9d7b54", null ],
+    [ "_func", "db/d7b/a09709.html#abeaa251f909368e3ebeeff4dcefbda94", null ],
+    [ "_phaseMask", "db/d7b/a09709.html#accfe66385f5bbfb461d0493c22fde20e", null ]
 ];

@@ -1,10 +1,8 @@
 var a26897 =
 [
-    [ "spell_pal_improved_aura", "d4/d2a/a26897.html#a4bc4b78ce3aab5ba4b5e6a009910cf7c", null ],
-    [ "HandleEffectApply", "d4/d2a/a26897.html#a441952100c103ccdf84c58827669faac", null ],
-    [ "HandleEffectRemove", "d4/d2a/a26897.html#aad7c1d2b5722523e119ff7dbe27ceb30", null ],
-    [ "PrepareAuraScript", "d4/d2a/a26897.html#a4b35f298000b2a6cc530644018d4d7e4", null ],
-    [ "Register", "d4/d2a/a26897.html#a148b20ba206ba69d2dcd84abbf7d17af", null ],
-    [ "Validate", "d4/d2a/a26897.html#aa5450660ba559f31a815f4f2a4452fbc", null ],
-    [ "_spellId", "d4/d2a/a26897.html#a9b7b9b73a0e6cacc917aedebdf789901", null ]
+    [ "CheckProc", "d4/d2a/a26897.html#ad6222902fd6882322ba082981e151c45", null ],
+    [ "HandleProc", "d4/d2a/a26897.html#a4d90d29e4e11470076c759831836057d", null ],
+    [ "PrepareAuraScript", "d4/d2a/a26897.html#a5be2448ea5014c611dbaa262d49ff151", null ],
+    [ "Register", "d4/d2a/a26897.html#a4f78fb7ae8bef4e9dd2a29205bcec83e", null ],
+    [ "Validate", "d4/d2a/a26897.html#a9d0797992a6f3bfd5bd9f678c4465a4c", null ]
 ];

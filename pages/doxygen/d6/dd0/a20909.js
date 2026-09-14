@@ -1,10 +1,8 @@
 var a20909 =
 [
-    [ "npc_boombot", "d6/dd0/a20909.html#a6747aef56fd6710020c8aa5b4d96e0a1", null ],
-    [ "DamageTaken", "d6/dd0/a20909.html#a9f657c3f979b1f35f1cd5129474b33f1", null ],
-    [ "Reset", "d6/dd0/a20909.html#af47d7810bfe4f4ad7185ec7167cd49bf", null ],
-    [ "UpdateAI", "d6/dd0/a20909.html#a11b997bea629230932a1e01e89a556f2", null ],
-    [ "_boomed", "d6/dd0/a20909.html#a3e08d47064301a42e71fa33f9d58a5a3", null ],
-    [ "_instance", "d6/dd0/a20909.html#aeacd93855b35591fbfc54a8c1f622621", null ],
-    [ "_scheduler", "d6/dd0/a20909.html#af45ea755ec5c6a16b2b1fde7ef0e93f8", null ]
+    [ "boss_thorim_pillar", "d6/dd0/a20909.html#aec2fc6e420499c9ce991753b912bef1e", null ],
+    [ "Reset", "d6/dd0/a20909.html#aea862be4cb7e7456d7ddfbe4fef81181", null ],
+    [ "SpellHit", "d6/dd0/a20909.html#ae8b1877ac425c340410c7ca6a05d2d8a", null ],
+    [ "UpdateAI", "d6/dd0/a20909.html#a3d4b4c2ae9ab4d541510e2026d1500c0", null ],
+    [ "_resetTimer", "d6/dd0/a20909.html#ac9c8ef8622496593b5f91611d22120b3", null ]
 ];

@@ -1,8 +1,8 @@
 var a10233 =
 [
-    [ "BoundaryUnionBoundary", "dd/d74/a10233.html#a074536112fffc805dec44bd9cd602642", null ],
-    [ "~BoundaryUnionBoundary", "dd/d74/a10233.html#a96450fc020bfad7b9f1f7be64490ad46", null ],
-    [ "IsWithinBoundaryArea", "dd/d74/a10233.html#a8dc91861fa6641008236e5a83030e0d1", null ],
-    [ "_b1", "dd/d74/a10233.html#a40fcd847f38703dfe5174267fbfd81ee", null ],
-    [ "_b2", "dd/d74/a10233.html#ae70530673803bd2ee85bf722fe42718b", null ]
+    [ "ServerMailCondition", "dd/d74/a10233.html#a2ee7d2f3587159c95883fe32674cb586", null ],
+    [ "CheckCondition", "dd/d74/a10233.html#a3c223658629357f05d8879555717f624", null ],
+    [ "state", "dd/d74/a10233.html#a309f739872afaf644331335b27649561", null ],
+    [ "type", "dd/d74/a10233.html#a3b318e7743ca48fcf8ba849398a06968", null ],
+    [ "value", "dd/d74/a10233.html#af709199aed99633cc70d9118ee4fd4fc", null ]
 ];

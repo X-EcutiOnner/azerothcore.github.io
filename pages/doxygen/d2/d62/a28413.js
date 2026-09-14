@@ -1,5 +1,5 @@
 var a28413 =
 [
-    [ "go_duskwither_spire_power_source", "d2/d62/a28413.html#aab69de16e8b744af2671e2ed882ee94a", null ],
-    [ "OnGossipHello", "d2/d62/a28413.html#a2c7fd017e7985b99bff187119157a041", null ]
+    [ "go_tele_to_dalaran_crystal", "d2/d62/a28413.html#ab41268b7d568e8f189338f27cd90a62c", null ],
+    [ "OnGossipHello", "d2/d62/a28413.html#a7f754a29249653ca7848494310ef1a8d", null ]
 ];

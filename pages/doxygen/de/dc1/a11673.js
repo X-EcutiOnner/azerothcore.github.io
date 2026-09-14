@@ -1,10 +1,7 @@
 var a11673 =
 [
-    [ "WorldStateInfo", "d4/d06/a11677.html", "d4/d06/a11677" ],
-    [ "InitWorldStates", "de/dc1/a11673.html#a9b1f27c7a07df6629473a6e9d6aa45b5", null ],
-    [ "Write", "de/dc1/a11673.html#ad40588a16c7430a633c0537c82ea3a5b", null ],
-    [ "AreaID", "de/dc1/a11673.html#a98ac08c68b5c004fd352f38c7084531f", null ],
-    [ "MapID", "de/dc1/a11673.html#a657c3043204c6957e8438c3c3c7068f3", null ],
-    [ "Worldstates", "de/dc1/a11673.html#a29ffba2a130f0b93d61b2025255502fb", null ],
-    [ "ZoneID", "de/dc1/a11673.html#add07a226b1fe8ea752306b0e04d4ef71", null ]
+    [ "QuestPushResult", "de/dc1/a11673.html#a71a5435a0d9dbc648a83ec90ec99215f", null ],
+    [ "Write", "de/dc1/a11673.html#a90c79fdc1bf593e4d51f3d7a6e423eac", null ],
+    [ "PlayerGuid", "de/dc1/a11673.html#a449c6537a692edae94f173236d0d449e", null ],
+    [ "QuestShareMessage", "de/dc1/a11673.html#af80f4138f3689721f44059a9250246f0", null ]
 ];

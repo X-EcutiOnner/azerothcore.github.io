@@ -1,7 +1,20 @@
 var a13573 =
 [
-    [ "boss_apothecary_hummelAI", "d9/d68/a13577.html", "d9/d68/a13577" ],
-    [ "boss_apothecary_hummel", "df/d7d/a13573.html#af1672c0b7f67d9013e3769a7009c2ee9", null ],
-    [ "GetAI", "df/d7d/a13573.html#a87a01f4d6eaac7c5e1795133e8aa1ccd", null ],
-    [ "OnQuestReward", "df/d7d/a13573.html#ab66debe3672dcf0bce2bfb821093694b", null ]
+    [ "boss_darkmaster_gandlingAI", "df/d7d/a13573.html#a1fbd651c6f5ad3630ae450c6a523360c", null ],
+    [ "FindRoom", "df/d7d/a13573.html#a7ca1847b3223c82f7c190546809c49bc", null ],
+    [ "GetData", "df/d7d/a13573.html#a06e03e66d7a99a98ba915057c0082217", null ],
+    [ "JustDied", "df/d7d/a13573.html#afaac9e6939e0d873f576129546560fba", null ],
+    [ "JustEngagedWith", "df/d7d/a13573.html#aa71a73d3804187c6b89566ec3d1cd6ed", null ],
+    [ "JustSummoned", "df/d7d/a13573.html#a24e4031367eb59ad7a9ea352bd0b4ccd", null ],
+    [ "OpenAllGates", "df/d7d/a13573.html#ab28b7d97956c21515c9872d8f9122f18", null ],
+    [ "Reset", "df/d7d/a13573.html#a8244b7b91de9a0413193001f41288f7f", null ],
+    [ "SetData", "df/d7d/a13573.html#a1b7ed8e98d4a271dfd8df76738cc0072", null ],
+    [ "SetGate", "df/d7d/a13573.html#a32fbc731852f46fbdd36b36764dd2303", null ],
+    [ "SpawnMobsInRoom", "df/d7d/a13573.html#a68adf734efff345529dbb74bebe15798", null ],
+    [ "SpellHitTarget", "df/d7d/a13573.html#ae98715a31cd22febb1725977556a48aa", null ],
+    [ "SummonedCreatureDespawn", "df/d7d/a13573.html#aa0abb31ac1a05c4a99e4b8079410867a", null ],
+    [ "UpdateAI", "df/d7d/a13573.html#a2c525445ad39ddc47366f3f632014d89", null ],
+    [ "current_room", "df/d7d/a13573.html#a597f7ee62ee41ff6a1a12a6c9dd7cd93", null ],
+    [ "Guardians", "df/d7d/a13573.html#a3681da718192f0f961282fa4f655355e", null ],
+    [ "summons", "df/d7d/a13573.html#a745d411fc485892529cb4cc6f06ba3af", null ]
 ];

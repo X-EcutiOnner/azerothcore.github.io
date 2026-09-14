@@ -1,11 +1,8 @@
 var a17505 =
 [
-    [ "npc_pos_tyrannus_eventsAI", "d3/dd1/a17505.html#a51769d22a4cb448fae90d827e2494581", null ],
-    [ "MovementInform", "d3/dd1/a17505.html#ac0d1550855988fe6f562e8a0a6ada80f", null ],
-    [ "SetData", "d3/dd1/a17505.html#a8f8bbb06c50215c90cf11ddbc925ba5d", null ],
-    [ "UpdateAI", "d3/dd1/a17505.html#a6c4d82c46547bbb2f86dd7f9fa88c743", null ],
-    [ "deathbringerGUID", "d3/dd1/a17505.html#a21ea8c66374403d0eca83e4d24c80a7a", null ],
-    [ "events", "d3/dd1/a17505.html#a317d48c75a93ef5abaa3329ab10a1c8e", null ],
-    [ "killsLeft", "d3/dd1/a17505.html#ac81d85e0ceb0b571373f44475baa36df", null ],
-    [ "pInstance", "d3/dd1/a17505.html#a44460335986bcedf35dc295c242df6da", null ]
+    [ "boss_krickAI", "d3/dd1/a17505.html#ac085bae551fd4d9e48b05481a86cca9f", null ],
+    [ "DoAction", "d3/dd1/a17505.html#ace248881cb71c1e91f33ff93489b6f3f", null ],
+    [ "UpdateAI", "d3/dd1/a17505.html#aea8dd89c8e4de1bebd94a26ead852119", null ],
+    [ "events", "d3/dd1/a17505.html#a75349e2fc35832e7944fa4f772380baa", null ],
+    [ "pInstance", "d3/dd1/a17505.html#aecc2cdee32c4e4fa14ecaeca9b3eb65f", null ]
 ];

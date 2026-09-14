@@ -1,7 +1,8 @@
 var a21069 =
 [
-    [ "OnApply", "db/d4c/a21069.html#a7dd5b6217db77373dfba5958a2376ff1", null ],
-    [ "OnRemove", "db/d4c/a21069.html#a39510971a0e1dbd800efc37c2e09c74f", null ],
-    [ "PrepareAuraScript", "db/d4c/a21069.html#a35c1e8f81229565e5d333ec42aa2e92c", null ],
-    [ "Register", "db/d4c/a21069.html#a27fdfe00e5201b6472a282f4589a66cc", null ]
+    [ "boss_yoggsaron_death_ray", "db/d4c/a21069.html#a03a5a1845d217c2e59fc491f1f0a36a2", null ],
+    [ "IsSummonedBy", "db/d4c/a21069.html#a631bb4727b876c0ce782c1d3d206ae13", null ],
+    [ "UpdateAI", "db/d4c/a21069.html#a424f116aa76fa470cb393250e571c021", null ],
+    [ "_movementLegs", "db/d4c/a21069.html#ac548ed487090506768236ff1519d4938", null ],
+    [ "events", "db/d4c/a21069.html#af79f0ec03cc3eb6c803c4793842b0c71", null ]
 ];

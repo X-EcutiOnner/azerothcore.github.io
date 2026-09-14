@@ -1,9 +1,6 @@
 var a16521 =
 [
-    [ "instance_obsidian_sanctum_InstanceMapScript", "d6/df3/a16521.html#a17e64475b7433b3dc0d87028c11c9c7f", null ],
-    [ "CheckAchievementCriteriaMeet", "d6/df3/a16521.html#a62a5603b9063b4cbb773eb177aa2d0bc", null ],
-    [ "DoAction", "d6/df3/a16521.html#abc08b37f23721ff2ce7a6662605a66ab", null ],
-    [ "GetGuidData", "d6/df3/a16521.html#a01da8216f57e19b5bf8697700089118c", null ],
-    [ "m_uiPortalGUID", "d6/df3/a16521.html#a166db22fd409d0387085053852e5ad30", null ],
-    [ "portalCount", "d6/df3/a16521.html#ab7cec8a8a80713e436e4e4e80c5c1383", null ]
+    [ "instance_azjol_nerub_InstanceScript", "d6/df3/a16521.html#a886ed4c1485fdedcc176341210eee31a", null ],
+    [ "OnCreatureEvade", "d6/df3/a16521.html#af163238686bf22f11908f64ffb5cacca", null ],
+    [ "OnUnitDeath", "d6/df3/a16521.html#a45792f7c2d1a042d68907a0f475634d1", null ]
 ];

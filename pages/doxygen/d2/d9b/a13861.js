@@ -1,6 +1,6 @@
 var a13861 =
 [
-    [ "PrepareSpellScript", "d2/d9b/a13861.html#a6a9436d744865971e635f23c2b331688", null ],
-    [ "Register", "d2/d9b/a13861.html#a5f8a755040c9972e1bd6f68ceacf3dff", null ],
-    [ "SetDest", "d2/d9b/a13861.html#a2d43c0d5230f7be2d9a33e8527fd8c02", null ]
+    [ "CastArmageddon", "d2/d9b/a13861.html#a2e90929b63e6151252aa01a55dbd801f", null ],
+    [ "Execute", "d2/d9b/a13861.html#a4f0651a38eaf03a07bcd73d0f88dda16", null ],
+    [ "_caster", "d2/d9b/a13861.html#a1e70887099a7a47b7c26517d4363ad93", null ]
 ];

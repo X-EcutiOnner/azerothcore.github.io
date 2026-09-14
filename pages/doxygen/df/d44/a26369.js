@@ -1,7 +1,6 @@
 var a26369 =
 [
-    [ "HandleDummy", "df/d44/a26369.html#a14bf65690e857c6a16dfcd8e036abbbb", null ],
-    [ "PrepareSpellScript", "df/d44/a26369.html#a2ec497a2dfe2364ad9011aba8532e73c", null ],
-    [ "Register", "df/d44/a26369.html#afca09c1e1c5389db67d081d6e033f025", null ],
-    [ "Validate", "df/d44/a26369.html#af54f926b69002b2277dad34e1773e450", null ]
+    [ "OnPeriodic", "df/d44/a26369.html#a3368e8fad4a5ecd242056da38ad8f23a", null ],
+    [ "PrepareAuraScript", "df/d44/a26369.html#ad3d091510685ebc2d87aadb658cacf58", null ],
+    [ "Register", "df/d44/a26369.html#a9552ba0f4c18623b6b00ababa034942c", null ]
 ];

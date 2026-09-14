@@ -1,6 +1,7 @@
 var a18373 =
 [
-    [ "OnRemove", "d2/d39/a18373.html#a5b9f23b815b1c85ecf2e56c626ce5077", null ],
-    [ "PrepareAuraScript", "d2/d39/a18373.html#a9207d9f59026e1beb7c266ee3a1ef884", null ],
-    [ "Register", "d2/d39/a18373.html#ad9eb03a09fc13f6b2b30e9f6cc1990bc", null ]
+    [ "HandleTriggerSpell", "d2/d39/a18373.html#a7d7f1731c453e5d0b70e6093aeedea87", null ],
+    [ "PrepareAuraScript", "d2/d39/a18373.html#afff0c81696ddcb427ce105d510ef93b1", null ],
+    [ "Register", "d2/d39/a18373.html#aa50c6066115d7b60704eff48e77d10bd", null ],
+    [ "Validate", "d2/d39/a18373.html#a6ef56d3d18bab2f81c810160ecf3ae96", null ]
 ];

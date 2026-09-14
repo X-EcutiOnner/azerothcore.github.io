@@ -1,5 +1,6 @@
 var a16457 =
 [
-    [ "achievement_watch_him_die", "d4/d19/a16457.html#a0d885871eac61d859780e08c8518bb15", null ],
-    [ "OnCheck", "d4/d19/a16457.html#a6ca8851bdf8cae50084ca87c1958fb53", null ]
+    [ "HandleApplyAura", "d4/d19/a16457.html#aeddfd61eab5aa077ca07a924ec491285", null ],
+    [ "PrepareSpellScript", "d4/d19/a16457.html#ad53341842455d98722c03318dd80fb94", null ],
+    [ "Register", "d4/d19/a16457.html#a10cb03ba6175f48b0ccaf69ec90e8f50", null ]
 ];

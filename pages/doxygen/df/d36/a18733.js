@@ -1,6 +1,6 @@
 var a18733 =
 [
-    [ "npc_raging_spiritAI", "d0/d7b/a18737.html", "d0/d7b/a18737" ],
-    [ "npc_raging_spirit", "df/d36/a18733.html#ad1a580bd394adc8c58575b600c16f9db", null ],
-    [ "GetAI", "df/d36/a18733.html#ab572a667f6ddd0d4051fe424c8d9e21c", null ]
+    [ "HandleScript", "df/d36/a18733.html#a6f9b2c00cdc050ff25ec37f5b7610c71", null ],
+    [ "PrepareSpellScript", "df/d36/a18733.html#a5405e4547ec6cbc05acceb72d1b16530", null ],
+    [ "Register", "df/d36/a18733.html#a172490b953b958df354394e947b7cfd0", null ]
 ];

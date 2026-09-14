@@ -1,5 +1,7 @@
 var a20633 =
 [
-    [ "achievement_kologarn_rubble_and_roll", "df/dfb/a20633.html#ae36bbab8d82f10ad120a1e7564a13961", null ],
-    [ "OnCheck", "df/dfb/a20633.html#acb0f72ebdf1917a3331b3fc0f9aa4300", null ]
+    [ "HandleEffectPeriodic", "df/dfb/a20633.html#a8d2e75ee2869dc135fe83c782ec6e223", null ],
+    [ "PrepareAuraScript", "df/dfb/a20633.html#a0996c661dbc4e9a4bd35c1368247c7eb", null ],
+    [ "Register", "df/dfb/a20633.html#aed86a298340cc05fbe2a8a68396423bb", null ],
+    [ "Validate", "df/dfb/a20633.html#a1c3ecaebf11d1040fde4ce5cb80f315c", null ]
 ];

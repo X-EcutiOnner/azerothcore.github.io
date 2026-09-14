@@ -1,5 +1,9 @@
 var a09273 =
 [
-    [ "NextPage", "da/dd9/a09273.html#add4d8a2e79e4a6c1c1b7ad9b63dd07ef", null ],
-    [ "Text", "da/dd9/a09273.html#a9c13498341adce66590cb198b720f96f", null ]
+    [ "VehicleAccessory", "da/dd9/a09273.html#a70576b3cfa29bb6a31fdc61588b6d3c4", null ],
+    [ "AccessoryEntry", "da/dd9/a09273.html#a6e3cd6b20680974235c146d34b16295a", null ],
+    [ "IsMinion", "da/dd9/a09273.html#ace3fd27311370e4db4103f2c3ac70410", null ],
+    [ "SeatId", "da/dd9/a09273.html#a73b54fbbfe8e18f7129acc65dadec447", null ],
+    [ "SummonedType", "da/dd9/a09273.html#afc843c62c580c860471b0e49f5901363", null ],
+    [ "SummonTime", "da/dd9/a09273.html#a13a024b3ceacf38ce4907b079d732420", null ]
 ];

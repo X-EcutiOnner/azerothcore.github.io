@@ -1,6 +1,7 @@
 var a17689 =
 [
-    [ "ShockVortexExplodeEvent", "d2/d41/a17689.html#ad972aed372822e10a476d1592192f3ea", null ],
-    [ "Execute", "d2/d41/a17689.html#a601f777052b8a142db49e9b0ab1fa81a", null ],
-    [ "_owner", "d2/d41/a17689.html#a76b1887e486969fcd7a236a8eb7a9a2a", null ]
+    [ "HandleApplyAura", "d2/d41/a17689.html#ac71784d7d135df4828ddcf5c85c4301c", null ],
+    [ "PrepareSpellScript", "d2/d41/a17689.html#a097bf3b27e4b2d9ceddea07b9c0b8ce9", null ],
+    [ "Register", "d2/d41/a17689.html#a80638966202cb9e27d204ea621e379ef", null ],
+    [ "Validate", "d2/d41/a17689.html#aaa3505a74905b91f52e37b0ded0ba7fd", null ]
 ];

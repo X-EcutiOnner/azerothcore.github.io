@@ -1,6 +1,6 @@
 var a15841 =
 [
-    [ "npc_draenei_survivorAI", "d6/d3f/a15845.html", "d6/d3f/a15845" ],
-    [ "npc_draenei_survivor", "df/d45/a15841.html#a1dca668a7c3f868677a9bf306288430c", null ],
-    [ "GetAI", "df/d45/a15841.html#aa8dde30279bb898a4412491faca79267", null ]
+    [ "HandleDummy", "df/d45/a15841.html#ac06b2b8e07ebc51a281c70663796dcc3", null ],
+    [ "PrepareSpellScript", "df/d45/a15841.html#aa60cc00f33e329fe8d010c0e1c00989a", null ],
+    [ "Register", "df/d45/a15841.html#aee9d14b3f45cb43478f970e9e6e173fd", null ]
 ];

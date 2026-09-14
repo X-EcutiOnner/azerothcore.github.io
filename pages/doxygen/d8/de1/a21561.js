@@ -1,7 +1,10 @@
 var a21561 =
 [
-    [ "npc_azure_raider", "d8/de1/a21561.html#a841b0fb8a0ca5ca82f3183835281d0e7", null ],
-    [ "Reset", "d8/de1/a21561.html#a3579986a1769467cb17d3b15242e0551", null ],
-    [ "UpdateAI", "d8/de1/a21561.html#a7aa0c785e976167ef384d7c4dac3294f", null ],
-    [ "_events", "d8/de1/a21561.html#a8d25c785974cb8c50b55b547b982b06f", null ]
+    [ "npc_erekem_guard", "d8/de1/a21561.html#a4c3ea7c84fbc1c2b3239c0bcf9e734d5", null ],
+    [ "JustEngagedWith", "d8/de1/a21561.html#a05c81c2b1ec3bb48ae3003f8d825ffc0", null ],
+    [ "MoveInLineOfSight", "d8/de1/a21561.html#a31ea4b54a0adae7e3fee31d38af87c3e", null ],
+    [ "Reset", "d8/de1/a21561.html#aacdc16855938d9f133b751f91b5e9402", null ],
+    [ "UpdateAI", "d8/de1/a21561.html#ae57b5c4e61d9e9475c66b68797a51f09", null ],
+    [ "_events", "d8/de1/a21561.html#a13829cd26d18c42213be1f6640a2b979", null ],
+    [ "_instance", "d8/de1/a21561.html#af890899c6d5e0b67fa5b0336c5a31dfc", null ]
 ];

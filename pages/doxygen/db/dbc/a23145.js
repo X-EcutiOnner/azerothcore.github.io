@@ -1,6 +1,6 @@
 var a23145 =
 [
-    [ "HandleEffectRemove", "db/dbc/a23145.html#a99f96034b5976615c38e13e5e55c61b6", null ],
-    [ "PrepareAuraScript", "db/dbc/a23145.html#a0515a72abd37df13606876021659b995", null ],
-    [ "Register", "db/dbc/a23145.html#ad7c8338ae3f3e6680405652c3e5f7f06", null ]
+    [ "ShadowOfDeathSelector", "db/dbc/a23145.html#a1190094fbde74ccffd954fea742ab0ae", null ],
+    [ "operator()", "db/dbc/a23145.html#a3c91b315ce6d6c523d4bdb8a8206a3c8", null ],
+    [ "_tank", "db/dbc/a23145.html#adc238645eec306e00918dbab05549fc8", null ]
 ];

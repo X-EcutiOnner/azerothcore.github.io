@@ -1,6 +1,6 @@
 var a16853 =
 [
-    [ "npc_swarm_scarabAI", "d0/d14/a16857.html", "d0/d14/a16857" ],
-    [ "npc_swarm_scarab", "df/d1e/a16853.html#a1d0969526e57ca50c9a499c83f978fd2", null ],
-    [ "GetAI", "df/d1e/a16853.html#ae12fe8a7c6ee09fc16bd152f59c2d936", null ]
+    [ "HandleSpellHit", "df/d1e/a16853.html#a11b9bb078e5c38b8db8b3e3fcd5114d8", null ],
+    [ "PrepareSpellScript", "df/d1e/a16853.html#a75a2441ca6b4fb7928c4d14f44c08ba3", null ],
+    [ "Register", "df/d1e/a16853.html#a9322b834fadc89b4fbc19dbbc762f205", null ]
 ];

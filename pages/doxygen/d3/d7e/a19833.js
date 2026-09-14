@@ -1,12 +1,15 @@
 var a19833 =
 [
-    [ "instance_nexus_InstanceMapScript", "d3/d7e/a19833.html#a6803f233d730f33e5af7dc9d8ecd9775", null ],
-    [ "Initialize", "d3/d7e/a19833.html#a2c6c42e73de2a155c04f80e37aa5d442", null ],
-    [ "KillAllFrayers", "d3/d7e/a19833.html#a7c696467deba7a2f15d5175e3427bd20", null ],
-    [ "OnCreatureCreate", "d3/d7e/a19833.html#a04806dc42aa0b171fa99eb1d8492ff61", null ],
-    [ "OnGameObjectCreate", "d3/d7e/a19833.html#a85c3ac915970d68a192414ca4ff8ad1f", null ],
-    [ "OnGameObjectRemove", "d3/d7e/a19833.html#ac148c67823484eee38ab6646dfb68530", null ],
-    [ "SetBossState", "d3/d7e/a19833.html#a11ac1fbc7c699084e7da5e4bf0595651", null ],
-    [ "SetData", "d3/d7e/a19833.html#a351052b1d3ea4ddb5d36ce69818c7e67", null ],
-    [ "_frayerGUIDs", "d3/d7e/a19833.html#ab85b5379b6c177dc1d61ccd14106a325", null ]
+    [ "instance_eye_of_eternity", "d3/d7e/a19833.html#a8b8bccd4969d18cf0c56742c65150ef1", null ],
+    [ "CheckAchievementCriteriaMeet", "d3/d7e/a19833.html#ae2cbbc353f1dfcb24346fb707b15e19d", null ],
+    [ "GetGuidData", "d3/d7e/a19833.html#a9a8a000c1f3a4139e280c7b20711dbcc", null ],
+    [ "OnCreatureCreate", "d3/d7e/a19833.html#a72ede46385cd3f4d36e360ed67d5634f", null ],
+    [ "OnGameObjectCreate", "d3/d7e/a19833.html#a276b14a880ac762439213f85b17c5b8b", null ],
+    [ "OnPlayerEnter", "d3/d7e/a19833.html#a1f525d686ec2447a0aa9c2b9631b2e2f", null ],
+    [ "ProcessEvent", "d3/d7e/a19833.html#a1408e66a14a7af228d7dfa40d09133f7", null ],
+    [ "SetBossState", "d3/d7e/a19833.html#a1d4ea255b6f65abd63a69e04ec43ab90", null ],
+    [ "SetData", "d3/d7e/a19833.html#a361bf36921e723ff38005d43be1c900b", null ],
+    [ "VortexHandling", "d3/d7e/a19833.html#aa413a00eeba3fa864c104b6475b72d7c", null ],
+    [ "_pokeAchievementValid", "d3/d7e/a19833.html#ab2d2e6d8f1117cf91646dd2634dc6014", null ],
+    [ "_vortexTriggers", "d3/d7e/a19833.html#a21b0f26e2bf09d875b3708c594e652bc", null ]
 ];

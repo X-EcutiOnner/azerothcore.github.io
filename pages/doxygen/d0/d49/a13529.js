@@ -1,6 +1,5 @@
 var a13529 =
 [
-    [ "boss_kirtonos_the_heraldAI", "d1/df2/a13533.html", "d1/df2/a13533" ],
-    [ "boss_kirtonos_the_herald", "d0/d49/a13529.html#a0e81153a0da7910cda4c9b6d32544318", null ],
-    [ "GetAI", "d0/d49/a13529.html#aa5e0fe2386aae52fd53ff309282db652", null ]
+    [ "boss_apoko", "d0/d49/a13529.html#a3ae4752839f47bbfce5f7df03c427cd2", null ],
+    [ "JustEngagedWith", "d0/d49/a13529.html#a7ad52b258863bd818b3e5d1143de7629", null ]
 ];

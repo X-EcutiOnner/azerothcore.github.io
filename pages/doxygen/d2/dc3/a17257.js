@@ -1,7 +1,5 @@
 var a17257 =
 [
-    [ "HandleScriptEffect", "d2/dc3/a17257.html#a667e50b01f431dba025f692484f6e7ba", null ],
-    [ "PrepareSpellScript", "d2/dc3/a17257.html#a9a5ffd28102a519c06f3715d7f2b1039", null ],
-    [ "Register", "d2/dc3/a17257.html#a7ffa6eb498e9ec06d5cb4f81cff44389", null ],
-    [ "Validate", "d2/dc3/a17257.html#a0ab270193a95f9043afd40c9ffd2a46b", null ]
+    [ "achievement_oh_novos", "d2/dc3/a17257.html#a31ca1f458c384401af107cb8f709ef61", null ],
+    [ "OnCheck", "d2/dc3/a17257.html#a3b922d9ed709ed46edca794f5ccf858f", null ]
 ];

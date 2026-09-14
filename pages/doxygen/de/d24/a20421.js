@@ -1,8 +1,28 @@
 var a20421 =
 [
-    [ "npc_ulduar_saronite_animus", "de/d24/a20421.html#a991f2e68f4b0430c1ccdf470edb44082", null ],
-    [ "JustDied", "de/d24/a20421.html#a25c8d5d48558d3ce80cdef4545852bc6", null ],
-    [ "UpdateAI", "de/d24/a20421.html#afc7899752e25669b37ab04b50fb2d604", null ],
-    [ "_instance", "de/d24/a20421.html#a6f2bf52c82185365efe88941b7922504", null ],
-    [ "timer", "de/d24/a20421.html#acdc763ba9d1f35dafb87469e33a6b180", null ]
+    [ "boss_freya", "de/d24/a20421.html#a5379adaaa876662bcc6ffcd38cfc59bb", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "de/d24/a20421.html#a195b0021b1ac0274884fb2106ee8d85d", null ],
+    [ "DamageTaken", "de/d24/a20421.html#a8ba5d1999e8f4ae7fb240436771d6c39", null ],
+    [ "DoAction", "de/d24/a20421.html#a099f983a17e002990aaecbb0995bb3b0", null ],
+    [ "GetData", "de/d24/a20421.html#aa648b02fb1531fd434fce9ccf62332c0", null ],
+    [ "JustEngagedWith", "de/d24/a20421.html#a85a00b03079df9ce9b8fa035820c959b", null ],
+    [ "JustReachedHome", "de/d24/a20421.html#a577c8714fef829a57533c1cfbd400dc0", null ],
+    [ "KilledUnit", "de/d24/a20421.html#a378a92e671be526e4f30feeb3ecf25e7", null ],
+    [ "MovementInform", "de/d24/a20421.html#a80b5910abe85c2f1350c5f91aabd3fa4", null ],
+    [ "Reset", "de/d24/a20421.html#abadf6447f33116039e82065ce44f4322", null ],
+    [ "SpawnWave", "de/d24/a20421.html#af1f486e8725a2710b237fe233f7fe181", null ],
+    [ "SpellHit", "de/d24/a20421.html#a3d449abdf7cc8241bedbcfe8f9d37175", null ],
+    [ "SpellHitTarget", "de/d24/a20421.html#a22c4097731727de032fd6db3c9cef7cf", null ],
+    [ "UpdateAI", "de/d24/a20421.html#a1ea7d6b65ceaa7d1c485685df40682f9", null ],
+    [ "_aliveAddsCount", "de/d24/a20421.html#a2994fd85d4fc14c93b5dd3b6113fe80b", null ],
+    [ "_backToNature", "de/d24/a20421.html#ab29a12f6a5ff5fd6ce579ebfceb6323c", null ],
+    [ "_currentSetId", "de/d24/a20421.html#aca780e90cf50f2c08ca2faef14bbbe86", null ],
+    [ "_currentTrioDown", "de/d24/a20421.html#aaae6a69564a7de262bcb8b8c55fd1c7b", null ],
+    [ "_deforestation", "de/d24/a20421.html#a6c3e874ea83c564c93b6c7599e1174bd", null ],
+    [ "_elderGUID", "de/d24/a20421.html#aeb55232c11172bfddd1d65d6b45f9d64", null ],
+    [ "_lumberjacked", "de/d24/a20421.html#aa35101951b2d47848b69170ab36ae414", null ],
+    [ "_setPermutation", "de/d24/a20421.html#a987265a1775e47ac50e873c38cc1a753", null ],
+    [ "_spawnedAmount", "de/d24/a20421.html#aafbd2fcaccdc5890f513054d6840ed55", null ],
+    [ "_trioDown", "de/d24/a20421.html#afbf5fcebd50f968b1171c443818a3949", null ],
+    [ "_trioWaveEndSetId", "de/d24/a20421.html#ae7842858d4ae9a9d4eee44c9cd86a23e", null ]
 ];

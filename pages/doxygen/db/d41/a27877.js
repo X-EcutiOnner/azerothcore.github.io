@@ -1,7 +1,7 @@
 var a27877 =
 [
-    [ "HandleProc", "db/d41/a27877.html#a4294ab4682ea26f78eb4c90c59e86953", null ],
-    [ "PrepareAuraScript", "db/d41/a27877.html#ac5d22623791d195aa767d5a28e9639b7", null ],
-    [ "Register", "db/d41/a27877.html#a135abc0548ba189fcf6bd662d7ae8940", null ],
-    [ "Validate", "db/d41/a27877.html#ac10227e6423f61b0fd67803f01fd4a0e", null ]
+    [ "HandleRemove", "db/d41/a27877.html#a0f5a3e4d75dbb5c699ea1acbf89db318", null ],
+    [ "PrepareAuraScript", "db/d41/a27877.html#a9e153c86e29a17b0cc20c65c635aa070", null ],
+    [ "Register", "db/d41/a27877.html#a338ee9c0eddd309ce2a791160059bad6", null ],
+    [ "Validate", "db/d41/a27877.html#ae8272b65a070fc959af003f701567c3c", null ]
 ];

@@ -1,8 +1,8 @@
 var a19041 =
 [
-    [ "npc_rotting_frost_giantAI", "d6/dab/a19041.html#a7b412075e17a81bf50aba63f96c16e53", null ],
-    [ "JustDied", "d6/dab/a19041.html#a68b4e823de82fdfd31ccf765192e8768", null ],
-    [ "Reset", "d6/dab/a19041.html#ae96994e7c02a1fb8df8ef9fe80d7bc41", null ],
-    [ "UpdateAI", "d6/dab/a19041.html#a7bb99a6ff894c085bf3fb2e2708f3914", null ],
-    [ "_events", "d6/dab/a19041.html#ab061ea54c2b36f6f1c2ec7841202e684", null ]
+    [ "Load", "d6/dab/a19041.html#a3a5fa4814a7724db0ba7be5c5158798b", null ],
+    [ "PeriodicTick", "d6/dab/a19041.html#a4ff0ab22db0bbd4483ddb379de069c48", null ],
+    [ "PrepareAuraScript", "d6/dab/a19041.html#a029820fbfc34af4d0ccb825a9f9d2b0d", null ],
+    [ "Register", "d6/dab/a19041.html#a909819dde9d5154f3d2cf04b04fa33f7", null ],
+    [ "_instance", "d6/dab/a19041.html#aebebb858f2ae41f2260d6843b3da8052", null ]
 ];

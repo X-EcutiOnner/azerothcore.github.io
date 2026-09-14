@@ -1,12 +1,14 @@
 var a12481 =
 [
-    [ "group_commandscript", "dd/dfe/a12481.html#ad2890427cfe3649b2e0fe0896693372c", null ],
-    [ "GetCommands", "dd/dfe/a12481.html#a5e7e069c58ecc5baca4ef1118e6c143e", null ],
-    [ "HandleGroupDisbandCommand", "dd/dfe/a12481.html#a538539340a697e02453ddcfa669fb646", null ],
-    [ "HandleGroupInvitesCommand", "dd/dfe/a12481.html#a614878b840aee6bab067db81fa59a8c7", null ],
-    [ "HandleGroupJoinCommand", "dd/dfe/a12481.html#a382e8532c653464e90b45569e813ae37", null ],
-    [ "HandleGroupLeaderCommand", "dd/dfe/a12481.html#a899858a63add3c68e0e1446d29216c00", null ],
-    [ "HandleGroupListCommand", "dd/dfe/a12481.html#a1b841d1c4bc59b56f2d166767089b93f", null ],
-    [ "HandleGroupRemoveCommand", "dd/dfe/a12481.html#a2bbb27e0f221ce533f0b0e94e944f7fb", null ],
-    [ "HandleGroupReviveCommand", "dd/dfe/a12481.html#a13968d61ec037aacc8070bc675290f94", null ]
+    [ "cast_commandscript", "dd/dfe/a12481.html#a9c657d2c5404149a45a2db748d23fc2f", null ],
+    [ "CheckSpellCastResult", "dd/dfe/a12481.html#a244b2d11a07fdcbb72f3207ab1e46ea5", null ],
+    [ "CheckSpellExistsAndIsValid", "dd/dfe/a12481.html#a14da4e4674b065c8e8f3d1946a037bda", null ],
+    [ "GetCommands", "dd/dfe/a12481.html#ab0890c036a8d301b382fdd1b6371f671", null ],
+    [ "GetTriggerFlags", "dd/dfe/a12481.html#a26e6986c45a99e6a94d7ba2d9a810aa3", null ],
+    [ "HandleCastBackCommand", "dd/dfe/a12481.html#a964a40278f609a5c5a0bae651484c726", null ],
+    [ "HandleCastCommand", "dd/dfe/a12481.html#ac28430cc0623209b891bacbb4845509b", null ],
+    [ "HandleCastDestCommand", "dd/dfe/a12481.html#a156ca81fba7155205dae106aa4c221d6", null ],
+    [ "HandleCastDistCommand", "dd/dfe/a12481.html#aabbcac8e85c6a64a647d71bb22bebede", null ],
+    [ "HandleCastSelfCommand", "dd/dfe/a12481.html#a69e88bb174c2518584a9ae622e2850bf", null ],
+    [ "HandleCastTargetCommad", "dd/dfe/a12481.html#aa72bd317a3498ef07007c1a9e81e2796", null ]
 ];

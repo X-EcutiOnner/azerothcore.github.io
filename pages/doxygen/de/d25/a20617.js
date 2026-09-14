@@ -1,6 +1,5 @@
 var a20617 =
 [
-    [ "HandleInstaKill", "de/d25/a20617.html#a593786eb89bf77e05dad4b502ffc1925", null ],
-    [ "PrepareSpellScript", "de/d25/a20617.html#aa89401a4c6b1c85e4242bda45933b0ad", null ],
-    [ "Register", "de/d25/a20617.html#a46f2c2658e6b55f091bf8894f06a787c", null ]
+    [ "achievement_staying_buffed_all_winter_10", "de/d25/a20617.html#a40afd6db0bf6cff2b9b6163b7d4c31da", null ],
+    [ "OnCheck", "de/d25/a20617.html#a67587b1659a8d026e73b42311148541a", null ]
 ];

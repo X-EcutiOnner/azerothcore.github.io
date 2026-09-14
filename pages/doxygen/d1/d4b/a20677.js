@@ -1,7 +1,6 @@
 var a20677 =
 [
-    [ "PrepareSpellScript", "d1/d4b/a20677.html#afae92a0d4e41fc2fd00b1fd0b6b11a22", null ],
-    [ "PreventSummon", "d1/d4b/a20677.html#a57fcc7a0e078c344e50863ba1951f244", null ],
-    [ "Register", "d1/d4b/a20677.html#a3813bf7e198f5f3c146b4639fa83a067", null ],
-    [ "SetDest", "d1/d4b/a20677.html#a4d49ebdf1dab3b4952e4f4c7c50ca16b", null ]
+    [ "OnRemoveStun", "d1/d4b/a20677.html#a67aeca34d32c43ff647dc2dbe83cbb7f", null ],
+    [ "PrepareAuraScript", "d1/d4b/a20677.html#a0be1d9a7dcba0bff75d59aed926efe55", null ],
+    [ "Register", "d1/d4b/a20677.html#a3166cfcd2acdcd4460217503d4008367", null ]
 ];

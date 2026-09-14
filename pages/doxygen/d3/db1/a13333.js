@@ -1,17 +1,7 @@
 var a13333 =
 [
-    [ "boss_dorothee", "d3/db1/a13333.html#a8bd5b4753c2d8f8aced0c036912f10f1", null ],
-    [ "DoAction", "d3/db1/a13333.html#a1b9cf1e58d68d249249a8b0d082b725a", null ],
-    [ "EnterEvadeMode", "d3/db1/a13333.html#a6dfc4109370d4e932e7376a443bd64ad", null ],
-    [ "JustDied", "d3/db1/a13333.html#a289dfa1f257ca25acba9487908e6223c", null ],
-    [ "JustEngagedWith", "d3/db1/a13333.html#aa35dafeb9faf8eeea55caa0eeb669db3", null ],
-    [ "JustReachedHome", "d3/db1/a13333.html#a762209d2bf78cc21c48a426732f2354e", null ],
-    [ "Reset", "d3/db1/a13333.html#ae3f123a6a9223b7928295812326b0cb4", null ],
-    [ "SummonedCreatureDies", "d3/db1/a13333.html#a0e76c828a1c7c49741963b6e98003a66", null ],
-    [ "SummonTito", "d3/db1/a13333.html#a5c04074aab40ecaeeb84b33205b40144", null ],
-    [ "UpdateAI", "d3/db1/a13333.html#a30fbcc5e7ca4ed74b9d2895b94a9a19e", null ],
-    [ "_scheduler", "d3/db1/a13333.html#a840bcbad78ff881ef3a803ffa23d3c6e", null ],
-    [ "_startIntro", "d3/db1/a13333.html#a20e6555e2117a62fce3af7f7fb7167cc", null ],
-    [ "instance", "d3/db1/a13333.html#ac6a6f1c9074697f761e4e09550cfea71", null ],
-    [ "titoDied", "d3/db1/a13333.html#a258cc9ce32f314e723d5345ac18336bf", null ]
+    [ "OnRemove", "d3/db1/a13333.html#a3fdb54a848aa81a7f4e8c2bd772ca3e5", null ],
+    [ "PrepareAuraScript", "d3/db1/a13333.html#a92a12c16381c433a946eeb1fed8ab7a9", null ],
+    [ "Register", "d3/db1/a13333.html#af26ef4eae84aa3982287fde0b4f65dcd", null ],
+    [ "Validate", "d3/db1/a13333.html#aeabc1d487afdb30b80d9a5235c306df1", null ]
 ];

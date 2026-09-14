@@ -1,6 +1,5 @@
 var a17173 =
 [
-    [ "OnPeriodic", "d2/d0a/a17173.html#a6f2e191d76f894517aed395866b7e508", null ],
-    [ "PrepareAuraScript", "d2/d0a/a17173.html#a571ee1c735b6095408973bfe5f91bcf7", null ],
-    [ "Register", "d2/d0a/a17173.html#a6094dc303c034e49fb4e543874db080b", null ]
+    [ "boss_eydisAI", "d2/d0a/a17173.html#a0e97e184b2a2f610730cd3d455702955", null ],
+    [ "JustSummoned", "d2/d0a/a17173.html#aa5ae64cfe003a25859364a12cb871199", null ]
 ];

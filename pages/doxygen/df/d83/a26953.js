@@ -1,10 +1,11 @@
 var a26953 =
 [
-    [ "CheckProc", "df/d83/a26953.html#adce0da60782bcdadbb42ec1c73fddec1", null ],
-    [ "HandleProc", "df/d83/a26953.html#a82218c6f6319c60c26a7d4ec01b64bf9", null ],
-    [ "Load", "df/d83/a26953.html#ab9054a6d771022e4bf2b495c30ad8361", null ],
-    [ "PrepareAuraScript", "df/d83/a26953.html#ab8f483be4d01aa2460c90b043d7a441b", null ],
-    [ "Register", "df/d83/a26953.html#a4cb08499767ab58f0e525c382b662fbd", null ],
-    [ "Validate", "df/d83/a26953.html#aa6165f28706d49940dd1f62065631119", null ],
-    [ "_procTarget", "df/d83/a26953.html#a7b9426e18b454bf631992518c2bdbde0", null ]
+    [ "CheckProc", "df/d83/a26953.html#aeeb075a2dcaf57b328e4196959c40390", null ],
+    [ "HandleApplyDoT", "df/d83/a26953.html#a4f832f97ae2f777c659876e20b7515a5", null ],
+    [ "HandleSeal", "df/d83/a26953.html#aca82977aa1ee943bc557a76d09dba147", null ],
+    [ "Load", "df/d83/a26953.html#a16545533c0a45b6bde0da3fbeaed75ae", null ],
+    [ "PrepareAuraScript", "df/d83/a26953.html#a9d33b5c75d975f6e7f0accdf7eb10155", null ],
+    [ "Register", "df/d83/a26953.html#a3030a2b5bb530abe673ab2cfae8351ce", null ],
+    [ "Validate", "df/d83/a26953.html#ade8e79f41a0ec1904f33b2628eac966e", null ],
+    [ "_isVengeance", "df/d83/a26953.html#a194bdf6e15ecf61533d40c0990e392a4", null ]
 ];

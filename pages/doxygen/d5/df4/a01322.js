@@ -1,20 +1,33 @@
 var a01322 =
 [
-    [ "WardenCheck", "d5/d15/a12297.html", "d5/d15/a12297" ],
-    [ "WardenCheckResult", "d3/d99/a12301.html", "d3/d99/a12301" ],
-    [ "WardenCheckMgr", "dd/ded/a12305.html", "dd/ded/a12305" ],
-    [ "sWardenCheckMgr", "d5/df4/a01322.html#a367963ecc82479f8bea3aea9e235a85c", null ],
-    [ "WardenActions", "d5/df4/a01322.html#acd25f1c729cc9c78338c6bc117dcd5e1", [
-      [ "WARDEN_ACTION_LOG", "d5/df4/a01322.html#acd25f1c729cc9c78338c6bc117dcd5e1a886d1d7fc710f19b1f98a28dd6652d81", null ],
-      [ "WARDEN_ACTION_KICK", "d5/df4/a01322.html#acd25f1c729cc9c78338c6bc117dcd5e1a3e6856d34f7e97f6cafcce4a86315d13", null ],
-      [ "WARDEN_ACTION_BAN", "d5/df4/a01322.html#acd25f1c729cc9c78338c6bc117dcd5e1a420c50c42a2e76090d4a4ab690885ae0", null ]
+    [ "WardenModuleUse", "df/d55/a12333.html", "df/d55/a12333" ],
+    [ "WardenModuleTransfer", "de/dd5/a12337.html", "de/dd5/a12337" ],
+    [ "WardenHashRequest", "d7/deb/a12341.html", "d7/deb/a12341" ],
+    [ "ClientWardenModule", "d2/dee/a12345.html", "d2/dee/a12345" ],
+    [ "Warden", "d6/ddf/a12349.html", "d6/ddf/a12349" ],
+    [ "WardenCheckType", "d5/df4/a01322.html#a7598131f87414a66259189a0518ca6f2", [
+      [ "MEM_CHECK", "d5/df4/a01322.html#a7598131f87414a66259189a0518ca6f2aba449b452d425f871a9c01be028b5074", null ],
+      [ "PAGE_CHECK_A", "d5/df4/a01322.html#a7598131f87414a66259189a0518ca6f2a331b64b77a83e62b070746aab1ea995f", null ],
+      [ "PAGE_CHECK_B", "d5/df4/a01322.html#a7598131f87414a66259189a0518ca6f2a366d33d737ecb1b63b92e5c4fc13ed87", null ],
+      [ "MPQ_CHECK", "d5/df4/a01322.html#a7598131f87414a66259189a0518ca6f2ab22116b6a319b5c4ad88eaf90291090b", null ],
+      [ "LUA_EVAL_CHECK", "d5/df4/a01322.html#a7598131f87414a66259189a0518ca6f2a88364ba9c51997e2baa92428922caada", null ],
+      [ "DRIVER_CHECK", "d5/df4/a01322.html#a7598131f87414a66259189a0518ca6f2a2b63e52f1c3146183a59fffa98919c93", null ],
+      [ "TIMING_CHECK", "d5/df4/a01322.html#a7598131f87414a66259189a0518ca6f2ad11a9e323f324f0c3b2b439fec521018", null ],
+      [ "PROC_CHECK", "d5/df4/a01322.html#a7598131f87414a66259189a0518ca6f2a19186939917116389af429c3c658293d", null ],
+      [ "MODULE_CHECK", "d5/df4/a01322.html#a7598131f87414a66259189a0518ca6f2adc2e09d27e8f622121d11ba931c4ff77", null ]
     ] ],
-    [ "WardenCheckTypes", "d5/df4/a01322.html#ad353d1b1b229bf72b97440ac296da2f0", [
-      [ "WARDEN_CHECK_MEM_TYPE", "d5/df4/a01322.html#ad353d1b1b229bf72b97440ac296da2f0a3a995022793f145e1eb48b42d3aadfb3", null ],
-      [ "WARDEN_CHECK_LUA_TYPE", "d5/df4/a01322.html#ad353d1b1b229bf72b97440ac296da2f0a78405e80a7b4bf4186706d64389e96af", null ],
-      [ "WARDEN_CHECK_OTHER_TYPE", "d5/df4/a01322.html#ad353d1b1b229bf72b97440ac296da2f0ab3ea81385a6db9185a94c0715749ffe2", null ]
-    ] ],
-    [ "MAX_WARDEN_ACTION", "d5/df4/a01322.html#afa0b1cff6db4dd71ef500011182f2834", null ],
-    [ "MAX_WARDEN_CHECK_TYPES", "d5/df4/a01322.html#a80604a840828219101f07100a7a48dad", null ],
-    [ "WARDEN_MAX_LUA_CHECK_LENGTH", "d5/df4/a01322.html#a005df8388201fb598a4eedfeac422fbc", null ]
+    [ "WardenOpcodes", "d5/df4/a01322.html#a8d0de714c4a4cf7a125c6187a7d19e51", [
+      [ "WARDEN_CMSG_MODULE_MISSING", "d5/df4/a01322.html#a8d0de714c4a4cf7a125c6187a7d19e51a334622303a3ea504196a3807f5da22f4", null ],
+      [ "WARDEN_CMSG_MODULE_OK", "d5/df4/a01322.html#a8d0de714c4a4cf7a125c6187a7d19e51a7636fd5a47dd45d2bf69a4625d77939c", null ],
+      [ "WARDEN_CMSG_CHEAT_CHECKS_RESULT", "d5/df4/a01322.html#a8d0de714c4a4cf7a125c6187a7d19e51a713a20be2d2cf1fa7d46ee2b788bc6f5", null ],
+      [ "WARDEN_CMSG_MEM_CHECKS_RESULT", "d5/df4/a01322.html#a8d0de714c4a4cf7a125c6187a7d19e51adaac6c4f6f3ac87386438a5228ba617f", null ],
+      [ "WARDEN_CMSG_HASH_RESULT", "d5/df4/a01322.html#a8d0de714c4a4cf7a125c6187a7d19e51a51c0070c4347129060a6714ae0f483ed", null ],
+      [ "WARDEN_CMSG_MODULE_FAILED", "d5/df4/a01322.html#a8d0de714c4a4cf7a125c6187a7d19e51a5a2e35d214965eb7dccec345e261fadc", null ],
+      [ "WARDEN_SMSG_MODULE_USE", "d5/df4/a01322.html#a8d0de714c4a4cf7a125c6187a7d19e51ad8b63ed3f3ec8941563402a5eacf9d30", null ],
+      [ "WARDEN_SMSG_MODULE_CACHE", "d5/df4/a01322.html#a8d0de714c4a4cf7a125c6187a7d19e51aa12b4718a7515d81608ba46205625a11", null ],
+      [ "WARDEN_SMSG_CHEAT_CHECKS_REQUEST", "d5/df4/a01322.html#a8d0de714c4a4cf7a125c6187a7d19e51ae5eafc7b23b0d14c934e9eb48fa73709", null ],
+      [ "WARDEN_SMSG_MODULE_INITIALIZE", "d5/df4/a01322.html#a8d0de714c4a4cf7a125c6187a7d19e51aafdff6ee4abd8ad4511d527f09154da8", null ],
+      [ "WARDEN_SMSG_MEM_CHECKS_REQUEST", "d5/df4/a01322.html#a8d0de714c4a4cf7a125c6187a7d19e51a41d76534b91d6af9e1b3ca116c4eda82", null ],
+      [ "WARDEN_SMSG_HASH_REQUEST", "d5/df4/a01322.html#a8d0de714c4a4cf7a125c6187a7d19e51a69c3028f1b435c282c384008e49eb451", null ]
+    ] ]
 ];

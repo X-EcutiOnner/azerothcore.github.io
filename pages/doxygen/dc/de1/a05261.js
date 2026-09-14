@@ -1,9 +1,7 @@
 var a05261 =
 [
-    [ "MDLCallback", "dc/de1/a05261.html#a15e08f65291f990bd11de495b1e28d2f", null ],
-    [ "operator()", "dc/de1/a05261.html#a2d833b0b756430387afea647936a2e6b", null ],
-    [ "operator()", "dc/de1/a05261.html#a82fb959951da68976d4557acfd7fadba", null ],
-    [ "_callback", "dc/de1/a05261.html#a8eae05fc208dcc7f50147bf55c47764c", null ],
-    [ "objects", "dc/de1/a05261.html#aacc57507f0c5deb99b5c647b55039065", null ],
-    [ "objects_size", "dc/de1/a05261.html#a92fa352db4ba43afd590677d0ae1e5d9", null ]
+    [ "indices", "dc/de1/a05261.html#a23cadbd54502fb4edc68e052e5774664", null ],
+    [ "maxPrims", "dc/de1/a05261.html#a0c46f35977fe683a19e7cb1e580a814b", null ],
+    [ "numPrims", "dc/de1/a05261.html#a623b9ee05707ecdbaa816c797e358e86", null ],
+    [ "primBound", "dc/de1/a05261.html#a3304ad5d821f178941fd44da897213de", null ]
 ];

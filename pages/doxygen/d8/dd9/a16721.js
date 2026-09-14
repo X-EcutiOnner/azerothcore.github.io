@@ -1,7 +1,6 @@
 var a16721 =
 [
-    [ "CountAllies", "d8/dd9/a16721.html#a207c1fd89fd726054a881e342391d2a0", null ],
-    [ "PrepareSpellScript", "d8/dd9/a16721.html#ae1e230ad204a280a261ebe0f21c7f8a5", null ],
-    [ "Register", "d8/dd9/a16721.html#a47574795b2a262625c65ab23a4179684", null ],
-    [ "Validate", "d8/dd9/a16721.html#a0178e7c4f5509a4bb2c6ed3811fc9685", null ]
+    [ "HandlePeriodic", "d8/dd9/a16721.html#a7753587518171689f86f3f76269c1b8a", null ],
+    [ "PrepareAuraScript", "d8/dd9/a16721.html#aa73351e7200bee94b0068fb8dabfada5", null ],
+    [ "Register", "d8/dd9/a16721.html#ab126fe8d4387609e8834898c3b3a67ea", null ]
 ];

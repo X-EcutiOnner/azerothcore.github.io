@@ -1,6 +1,7 @@
 var a24137 =
 [
-    [ "go_beaconAI", "dc/dbd/a24141.html", "dc/dbd/a24141" ],
-    [ "go_beacon", "de/d44/a24137.html#ad4224cabdc7210d9a0a46fb1eed1a23b", null ],
-    [ "GetAI", "de/d44/a24137.html#abd168f0c1ac9a64cece280758f3120d4", null ]
+    [ "npc_daranelleAI", "de/d44/a24137.html#a49eeff6e0aea079a0375a92074227d12", null ],
+    [ "JustEngagedWith", "de/d44/a24137.html#aeff39dfd84986186057cdaf7632eed4f", null ],
+    [ "MoveInLineOfSight", "de/d44/a24137.html#a353e27c1485b88f0751a64260898d35b", null ],
+    [ "Reset", "de/d44/a24137.html#a33b2fbec775257e3ba0bebe37fb86349", null ]
 ];

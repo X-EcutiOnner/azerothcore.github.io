@@ -1,6 +1,8 @@
 var a21421 =
 [
-    [ "boss_emalonAI", "de/d78/a21425.html", "de/d78/a21425" ],
-    [ "boss_emalon", "d1/def/a21421.html#a2dd481292e02337bebd450f5c9821886", null ],
-    [ "GetAI", "d1/def/a21421.html#a345b0663ba89de5e37b87a436c48e446", null ]
+    [ "CountTargets", "d1/def/a21421.html#aaf8528038c6b3172d4810ed773f71644", null ],
+    [ "HandleDummy", "d1/def/a21421.html#ac5fa1dd078656f7ae182ec18eddacfe3", null ],
+    [ "PrepareSpellScript", "d1/def/a21421.html#a1f31273cb1826cd07196eacfbdc46673", null ],
+    [ "Register", "d1/def/a21421.html#adce6a5d920ac616dc0579fcd96c49288", null ],
+    [ "_targetCount", "d1/def/a21421.html#acfd8832cb9a197dddb034a003b318911", null ]
 ];

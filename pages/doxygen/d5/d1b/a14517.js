@@ -1,5 +1,7 @@
 var a14517 =
 [
-    [ "at_zulgurub_bridge_speech", "d5/d1b/a14517.html#a0ef9d44dc98ddee8fe5133862339808d", null ],
-    [ "_OnTrigger", "d5/d1b/a14517.html#a1a3dbb3cbfbeb50c653134b8bae773f0", null ]
+    [ "HandleEffect", "d5/d1b/a14517.html#a8cda8eff109af7441d6990a236a52b80", null ],
+    [ "PrepareSpellScript", "d5/d1b/a14517.html#acc2698ba702be211bef63cefa41005f4", null ],
+    [ "Register", "d5/d1b/a14517.html#a5d6dccbb44a5d95055755673ad70707f", null ],
+    [ "Validate", "d5/d1b/a14517.html#a0b106298aa550e4fe9e8a449ed7eaa51", null ]
 ];

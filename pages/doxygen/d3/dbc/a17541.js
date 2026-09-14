@@ -1,6 +1,6 @@
 var a17541 =
 [
-    [ "npc_pos_leader_secondAI", "df/de5/a17545.html", "df/de5/a17545" ],
-    [ "npc_pos_leader_second", "d3/dbc/a17541.html#ac4758674cc97eae0937264fa028e6da5", null ],
-    [ "GetAI", "d3/dbc/a17541.html#ac403cfc86247990d78c9cf4179df8b87", null ]
+    [ "npc_pos_deathwhisper_necrolyteAI", "df/de5/a17545.html", "df/de5/a17545" ],
+    [ "npc_pos_deathwhisper_necrolyte", "d3/dbc/a17541.html#a0dcdb5b1dfed44f74b04663758b531a0", null ],
+    [ "GetAI", "d3/dbc/a17541.html#ae765669f95f4f14b393b88bf7ecbbfd6", null ]
 ];

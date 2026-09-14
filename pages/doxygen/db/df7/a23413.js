@@ -1,8 +1,6 @@
 var a23413 =
 [
-    [ "FilterTargets", "db/df7/a23413.html#a8687ba9c22299e62e5911a3729fa4a0a", null ],
-    [ "HandleDummy", "db/df7/a23413.html#addb3580259be74126b7de36d1b0a8a97", null ],
-    [ "PrepareSpellScript", "db/df7/a23413.html#aba82de0886d03037de4564f9908b8c89", null ],
-    [ "Register", "db/df7/a23413.html#a1650962493d48f5553a9e2771e594f1f", null ],
-    [ "Validate", "db/df7/a23413.html#a0a29926e43bd5ff58ca7ad79df6f8cc1", null ]
+    [ "HandleEffectRemove", "db/df7/a23413.html#ac74d25501690970c607a146eec02ab24", null ],
+    [ "PrepareAuraScript", "db/df7/a23413.html#a858929800089fee1a06948bda1c8806f", null ],
+    [ "Register", "db/df7/a23413.html#a003e9c77e59008ea78b3f1e9977ab5d6", null ]
 ];

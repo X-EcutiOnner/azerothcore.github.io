@@ -1,12 +1,9 @@
 var a19465 =
 [
-    [ "boss_faerlinaAI", "d0/d3b/a19465.html#a3a97178599b9053c23a079ed1a2ed163", null ],
-    [ "JustDied", "d0/d3b/a19465.html#a7ac2e510568a9dad710beaad42db0544", null ],
-    [ "JustEngagedWith", "d0/d3b/a19465.html#a830dfa4fed62b4588ea8866174d3653a", null ],
-    [ "KilledUnit", "d0/d3b/a19465.html#a6f7a6e66abcf4f4dd685bbb805920900", null ],
-    [ "MoveInLineOfSight", "d0/d3b/a19465.html#aa5cd735c22d46e1b756f87f3952033a1", null ],
-    [ "Reset", "d0/d3b/a19465.html#acee81492b9b751df587a3a2cdd691ab3", null ],
-    [ "SpellHit", "d0/d3b/a19465.html#aa4fac163e31dcd9353238f993259d5ec", null ],
-    [ "SummonHelpers", "d0/d3b/a19465.html#af2fbf866f87d568ee6028f0931d3b74e", null ],
-    [ "_introDone", "d0/d3b/a19465.html#a9febd1d69c27140ddd2ac018181c67ec", null ]
+    [ "npc_isle_of_conquest_turretAI", "d0/d3b/a19465.html#a0a0f24af22e4c72e843970c0d5c1ff87", null ],
+    [ "JustDied", "d0/d3b/a19465.html#a88390da94298bea9c445bb422a806d23", null ],
+    [ "SpellHit", "d0/d3b/a19465.html#afc8b8a9be6b0908fcb83af57bef7a57a", null ],
+    [ "UpdateAI", "d0/d3b/a19465.html#a81c039a2a230b261967842161757b6f8", null ],
+    [ "events", "d0/d3b/a19465.html#aee0aa5a950b3743409fd3ae482bc94b8", null ],
+    [ "faction", "d0/d3b/a19465.html#aca941c070a97278c8ec27d7e6b4edede", null ]
 ];

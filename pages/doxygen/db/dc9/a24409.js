@@ -1,8 +1,15 @@
 var a24409 =
 [
-    [ "go_skull_pile", "db/dc9/a24409.html#a9cf8dfef432c4967c60f66e645585770", null ],
-    [ "OnGossipHello", "db/dc9/a24409.html#ac95d39ea03e78fee2a10603d8c7f8840", null ],
-    [ "OnGossipSelect", "db/dc9/a24409.html#afb8e8db2705355e975fa48c98e09f20b", null ],
-    [ "SendActionMenu", "db/dc9/a24409.html#a048dd224b46ead864958ad524d76167f", null ],
-    [ "_result", "db/dc9/a24409.html#af74fcd75404c0886128401d661067394", null ]
+    [ "dragonmaw_race_npc", "db/dc9/a24409.html#ad93bcd14a4fd05c9e8a1aee4dd53d4aa", null ],
+    [ "FailQuest", "db/dc9/a24409.html#a15a1223f9dc5d3979485a753687f169e", null ],
+    [ "FinishRace", "db/dc9/a24409.html#a2439f54aca4ff28c23d351245099a4fc", null ],
+    [ "MovementInform", "db/dc9/a24409.html#ad0b4ef357605a44a4188c29292303dcf", null ],
+    [ "PathEndReached", "db/dc9/a24409.html#a6b93a5fb6beb8e8b886f6bf8bb58d3d2", null ],
+    [ "Reset", "db/dc9/a24409.html#a0edde2bdb8d4d2204551ebc7a7c41fe9", null ],
+    [ "sQuestAccept", "db/dc9/a24409.html#a539fcaf1dc25a34531d032032c19182e", null ],
+    [ "StartRace", "db/dc9/a24409.html#ac7d20cb0f2a997d2306195da5c9004e8", null ],
+    [ "StartRaceAttacks", "db/dc9/a24409.html#a341528843b89a29711f60a1b932da616", null ],
+    [ "TakeOff", "db/dc9/a24409.html#a8b14aeb1e67059a159f42aad578ccbfb", null ],
+    [ "UpdateAI", "db/dc9/a24409.html#a5d84467b3fa0c3eefcf7054d0dde472c", null ],
+    [ "_playerGUID", "db/dc9/a24409.html#a8a172511afed700d5c0fa1d5de4cb379", null ]
 ];

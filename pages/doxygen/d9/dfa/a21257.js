@@ -1,10 +1,10 @@
 var a21257 =
 [
-    [ "npc_dragonflayer_forge_master", "d9/dfa/a21257.html#a642c0fb5a5010c48403b8c3dc8bc14eb", null ],
-    [ "JustDied", "d9/dfa/a21257.html#aa107e88bbc5b55a6ece5124c4081706e", null ],
-    [ "JustEngagedWith", "d9/dfa/a21257.html#a3dfb76bb5cb13624e0709f1b25414360", null ],
-    [ "Reset", "d9/dfa/a21257.html#af2c844c926b94456df796b4252e899c2", null ],
-    [ "dataId", "d9/dfa/a21257.html#a35962dcbbef32dbc7f63dfa33cffd4b4", null ],
-    [ "pInstance", "d9/dfa/a21257.html#a27b5988d777347832795581b0186c09f", null ],
-    [ "prevDataId", "d9/dfa/a21257.html#aa057cb5ae681b4b802031151ea1a3529", null ]
+    [ "npc_ulduar_snow_mound", "d9/dfa/a21257.html#a3f66ad92d616050bb67cb1a5e33ffa74", null ],
+    [ "MoveInLineOfSight", "d9/dfa/a21257.html#ae5a09062d87aa1c0d446310df2ddd621", null ],
+    [ "UpdateAI", "d9/dfa/a21257.html#a9d18fdaf83a2cfeea9b3ac6adbbd2687", null ],
+    [ "_activated", "d9/dfa/a21257.html#ac48f6985d857276e0e59c2a429f5b359", null ],
+    [ "_count", "d9/dfa/a21257.html#a1856c3bba24842f33720a83e1de40421", null ],
+    [ "_counter", "d9/dfa/a21257.html#aca94a744c23b7f9771c728997ba4b8f3", null ],
+    [ "_scheduler", "d9/dfa/a21257.html#aafe42af9ba1402cad91326eb1037e476", null ]
 ];

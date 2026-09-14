@@ -1,8 +1,13 @@
 var a11981 =
 [
-    [ "target_mapId", "d5/daf/a11981.html#a6dbbb558810388e0d051d84a0279a444", null ],
-    [ "target_Orientation", "d5/daf/a11981.html#a7e30264eff9ece771dfaa421ef987b2a", null ],
-    [ "target_X", "d5/daf/a11981.html#aa78b3d4cfb4277bcb1bf6a31ffc87546", null ],
-    [ "target_Y", "d5/daf/a11981.html#a6f432d8770adebf513346713b7890b5c", null ],
-    [ "target_Z", "d5/daf/a11981.html#a3af706b81f8fbef12277c518964f717a", null ]
+    [ "CastSpellTargetArg", "d5/daf/a11981.html#a54a5c35a6d6c38e55362731f90fd080f", null ],
+    [ "CastSpellTargetArg", "d5/daf/a11981.html#a53899a47ac7114d882b47ee8cd1218f7", null ],
+    [ "CastSpellTargetArg", "d5/daf/a11981.html#a18415e98021976a4983d995f2a5b61b0", null ],
+    [ "CastSpellTargetArg", "d5/daf/a11981.html#a4ddff57daeada6042582bc2de5f3a927", null ],
+    [ "CastSpellTargetArg", "d5/daf/a11981.html#aa7905671f11fe44be9dc86bc7a4d88cf", null ],
+    [ "CastSpellTargetArg", "d5/daf/a11981.html#aea9d2ecfb6fd0f84abe55a80b1994203", null ],
+    [ "CastSpellTargetArg", "d5/daf/a11981.html#aa0f1c23d0881b4d4aec61641eed34fbc", null ],
+    [ "~CastSpellTargetArg", "d5/daf/a11981.html#a996e20990119ca494ec8d6dc2b3cda0e", null ],
+    [ "operator=", "d5/daf/a11981.html#a3c34a7c703bfe8c70d0e081dec57ce16", null ],
+    [ "Targets", "d5/daf/a11981.html#a25bda508ba86ff03f8d4195067bf8760", null ]
 ];

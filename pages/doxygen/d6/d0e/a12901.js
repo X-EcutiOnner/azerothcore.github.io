@@ -1,7 +1,6 @@
 var a12901 =
 [
-    [ "boss_broodlord", "d6/d0e/a12901.html#a3194ef765e313daaa4a0e476ec3edafa", null ],
-    [ "JustDied", "d6/d0e/a12901.html#ac3f6f747fbe61e70562f14b9aa304765", null ],
-    [ "JustEngagedWith", "d6/d0e/a12901.html#acb7214857320945a646574b0130a9585", null ],
-    [ "UpdateAI", "d6/d0e/a12901.html#a5cdb166366938797de9d691096f0f155", null ]
+    [ "OrcDeathEvent", "d6/d0e/a12901.html#ae4088ee95c3c0de9ae524a82803b0ea2", null ],
+    [ "Execute", "d6/d0e/a12901.html#a293ec6667da669a27fe75965f919cd68", null ],
+    [ "_me", "d6/d0e/a12901.html#a56cdf23ed08cbb800ba6fe7fb5e284b7", null ]
 ];

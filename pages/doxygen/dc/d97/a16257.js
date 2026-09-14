@@ -1,5 +1,8 @@
 var a16257 =
 [
-    [ "go_elune_fire", "dc/d97/a16257.html#a84d1b8e5a10e57cf717e10e413cb6027", null ],
-    [ "OnGossipHello", "dc/d97/a16257.html#a31e3cad89090bb7d2933e8758dbb56c4", null ]
+    [ "npc_paoka_swiftmountainAI", "dc/d97/a16257.html#a92a229f76de3bc46ae14910439db0004", null ],
+    [ "DoSpawnWyvern", "dc/d97/a16257.html#a7997a3d398db82c205e3a8af77ac1684", null ],
+    [ "Reset", "dc/d97/a16257.html#acae0427957aba04a54e6001823bc7eb4", null ],
+    [ "WaypointReached", "dc/d97/a16257.html#a262781c90fe1b5a5af2c6f94e4cc52e2", null ],
+    [ "WaypointReached", "dc/d97/a16257.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

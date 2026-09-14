@@ -1,10 +1,10 @@
 var a14129 =
 [
-    [ "npc_tyrion_spybotAI", "d5/df6/a14129.html#aedad685279012266637d29069ead9063", null ],
-    [ "Reset", "d5/df6/a14129.html#a16f8f9fd368832aac7906c3fd8cb9698", null ],
-    [ "UpdateAI", "d5/df6/a14129.html#ad8fc713bb9673e74bfd11bc653c71587", null ],
-    [ "WaypointReached", "d5/df6/a14129.html#a819e987eeb8eb8d580a5ad22001a641d", null ],
-    [ "WaypointReached", "d5/df6/a14129.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "uiPhase", "d5/df6/a14129.html#af5dbb99fe18d96665efd04bd53294636", null ],
-    [ "uiTimer", "d5/df6/a14129.html#ab41fdff3612b29e7d0d94fb6aaa8c085", null ]
+    [ "npc_grand_magister_rommathAI", "d5/df6/a14129.html#a5e9404dd8bf4b513e05daac53c076314", null ],
+    [ "DoAction", "d5/df6/a14129.html#a138bc8cd6f1312d83fefdf5499a479b7", null ],
+    [ "MoveInLineOfSight", "d5/df6/a14129.html#ad35b64b37915484b133bcd185a832011", null ],
+    [ "UpdateAI", "d5/df6/a14129.html#ac687bd20f0ae66b21ce52c21561af417", null ],
+    [ "announced", "d5/df6/a14129.html#a4c9107ef5d4a85d7487ff4cf7bf6464a", null ],
+    [ "events", "d5/df6/a14129.html#a4c1b6616bc88a9ad5074670843315bc6", null ],
+    [ "playerGUID", "d5/df6/a14129.html#ad0ac0647feb998e837a44b0a688694e9", null ]
 ];

@@ -1,11 +1,8 @@
 var a23893 =
 [
-    [ "boss_high_astromancer_solarian", "db/dc9/a23893.html#a2db48cc179539f81b55188de08a7e180", null ],
-    [ "AttackStart", "db/dc9/a23893.html#acaf94134aef553447e766a5e431c8b83", null ],
-    [ "JustDied", "db/dc9/a23893.html#a510eb2e4f0770670d6767bc2545375b7", null ],
-    [ "JustEngagedWith", "db/dc9/a23893.html#a86cd2162187f1a81932000ca1cfb7f85", null ],
-    [ "JustSummoned", "db/dc9/a23893.html#ac5b209a45a5a3ea2a8421706d181a827", null ],
-    [ "KilledUnit", "db/dc9/a23893.html#a561a78193615575b7e43e0f21387f1b8", null ],
-    [ "Reset", "db/dc9/a23893.html#a58cbb2c8a6c30855a0f9f2275338c1b5", null ],
-    [ "UpdateAI", "db/dc9/a23893.html#a07a76c34a978c31212390cf10ed3e382", null ]
+    [ "boss_commander_sarannis", "db/dc9/a23893.html#ace0957feb37f864798008849be25f607", null ],
+    [ "JustDied", "db/dc9/a23893.html#a7796429f04c049549a4a02a1eb8d35fc", null ],
+    [ "JustEngagedWith", "db/dc9/a23893.html#ad4273db7c169c6cfa9917dd3b76c9c95", null ],
+    [ "KilledUnit", "db/dc9/a23893.html#a64e77321adc5eea9d3494a3e1030f9de", null ],
+    [ "ScheduleReinforcements", "db/dc9/a23893.html#a293f0b860a66396a30c6d255eef85309", null ]
 ];

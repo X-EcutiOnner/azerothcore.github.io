@@ -1,8 +1,8 @@
 var a27609 =
 [
-    [ "CheckProc", "dc/dad/a27609.html#a9fedf04ae5a49ad2f2b0c9f34f5813f6", null ],
-    [ "HandleProc", "dc/dad/a27609.html#ad41f37b773e528385151f8059974b821", null ],
-    [ "PrepareAuraScript", "dc/dad/a27609.html#acd65db816c8562108272e6849481f0ca", null ],
-    [ "Register", "dc/dad/a27609.html#a56d85b502b6660ab4ecccc92dd799720", null ],
-    [ "Validate", "dc/dad/a27609.html#aa722dde17ef9142578d50b19b8c4c8e5", null ]
+    [ "Apply", "dc/dad/a27609.html#ac3145df90b6b179fece1c76da114e395", null ],
+    [ "HandleEffectPeriodic", "dc/dad/a27609.html#a480dd240981f91666e25ea2f1f73e4d7", null ],
+    [ "PrepareAuraScript", "dc/dad/a27609.html#aa911ba0b5a13a933bf50a072799a040f", null ],
+    [ "Register", "dc/dad/a27609.html#ae0dff9b5002d3d3361d794a75645057f", null ],
+    [ "Validate", "dc/dad/a27609.html#ad81184b508474a89fbafc63594ef0ab1", null ]
 ];

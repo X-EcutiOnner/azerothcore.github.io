@@ -1,12 +1,5 @@
 var a20253 =
 [
-    [ "npc_freya_ward", "de/dfa/a20253.html#aeb5b3a3495622b05faf41d2ec0a82e3f", null ],
-    [ "DoAction", "de/dfa/a20253.html#ac52ff5e24ff5361808fce4d8d1574ada", null ],
-    [ "JustSummoned", "de/dfa/a20253.html#a71cd4c583a1f33168d12bbe473d0482e", null ],
-    [ "Reset", "de/dfa/a20253.html#a134ff84f2cfa3a00cdd6158da6641369", null ],
-    [ "SummonedCreatureDespawn", "de/dfa/a20253.html#a20fde559565c47f4451581e5d1a61e99", null ],
-    [ "UpdateAI", "de/dfa/a20253.html#a62122abe02ae9351617eb3af9e36e88e", null ],
-    [ "_castTimer", "de/dfa/a20253.html#afe313ebbc5c711183a9e623d8213ae64", null ],
-    [ "_summoned", "de/dfa/a20253.html#aecae1e0f3b84d97cef40023a36dd4254", null ],
-    [ "summons", "de/dfa/a20253.html#abf3d2443c9badc35097b6e5c818f1c88", null ]
+    [ "achievement_cant_do_that_while_stunned", "de/dfa/a20253.html#a4d474b36f61631688ea723d2e4033574", null ],
+    [ "OnCheck", "de/dfa/a20253.html#a0b108bdcab0bc412975e61247f226bf8", null ]
 ];

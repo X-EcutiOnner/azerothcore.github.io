@@ -1,7 +1,8 @@
 var a24541 =
 [
-    [ "CheckCast", "d5/d7c/a24541.html#a0e4e62a9b1763619170b6da8487e7ee1", null ],
-    [ "HandleDummy", "d5/d7c/a24541.html#ac7084a563e98760d58dfbcafdd7cde11", null ],
-    [ "PrepareSpellScript", "d5/d7c/a24541.html#a465da282630352a289d5daae7ccb1d01", null ],
-    [ "Register", "d5/d7c/a24541.html#ae668f0c45a74d56d1be5be29309c9f6d", null ]
+    [ "npc_pet_gen_wind_rider_cub", "d5/d7c/a24541.html#a17e1f3155b9a9864459e48d1cd11c6a6", null ],
+    [ "UpdateAI", "d5/d7c/a24541.html#a534d122522d553e106e6c7729d6c55db", null ],
+    [ "checkTimer", "d5/d7c/a24541.html#a39fcfc5f5d9a630180713512db778b32", null ],
+    [ "checkTimer2", "d5/d7c/a24541.html#aabeaf7a9b5b77df540e1111950860e98", null ],
+    [ "isFlying", "d5/d7c/a24541.html#a57124f8172bd15a5e6c708edff41dc2f", null ]
 ];

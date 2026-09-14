@@ -1,9 +1,8 @@
 var a22013 =
 [
-    [ "npc_venture_co_stragglerAI", "da/d55/a22013.html#abc3cc04b89b95fd45969ba5859bf810c", null ],
-    [ "Reset", "da/d55/a22013.html#acfeaad9db95d0b391a64cc65ca3a1cee", null ],
-    [ "SpellHit", "da/d55/a22013.html#ae1919454c270d10342079b60a727a306", null ],
-    [ "UpdateAI", "da/d55/a22013.html#a0846336d8d1333e2c2f50731a722c3b7", null ],
-    [ "_events", "da/d55/a22013.html#a9cd6e6b549e10900f35838f04e10e0f5", null ],
-    [ "_playerGUID", "da/d55/a22013.html#a649493944b143782d995b5bdda3714b4", null ]
+    [ "AfterApply", "da/d55/a22013.html#a57279552b867251e9d2ee6a4ff5d7914", null ],
+    [ "PeriodicTick", "da/d55/a22013.html#a2e86aa6efe6ab137926c1dfd1bd26a95", null ],
+    [ "PrepareAuraScript", "da/d55/a22013.html#a9e1b74bf2d28a367caefdc90c34743c8", null ],
+    [ "Register", "da/d55/a22013.html#a69eb0ca43a15d4995ad219459c2b39d6", null ],
+    [ "Validate", "da/d55/a22013.html#a946248656cb755f85dd93fd4d607c9a7", null ]
 ];

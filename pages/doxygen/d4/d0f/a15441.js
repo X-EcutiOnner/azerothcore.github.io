@@ -1,7 +1,6 @@
 var a15441 =
 [
-    [ "npc_onyxian_lair_guard", "d4/d0f/a15441.html#ae72d86cddafd8829fc9edd479a01ab1d", null ],
-    [ "JustEngagedWith", "d4/d0f/a15441.html#a7b1d3bc68684202f9b4b95f6dc078be0", null ],
-    [ "UpdateAI", "d4/d0f/a15441.html#ac8649636d5847813e49d2ada05f78645", null ],
-    [ "events", "d4/d0f/a15441.html#a99acb2010853fcf9f7ac6f08143d06ed", null ]
+    [ "instance_the_black_morass_InstanceMapScript", "d1/d77/a15445.html", "d1/d77/a15445" ],
+    [ "instance_the_black_morass", "d4/d0f/a15441.html#aa59c960a89dbd66a4c0ad2105792efb4", null ],
+    [ "GetInstanceScript", "d4/d0f/a15441.html#a44b01fc7ab23c8f4ecfa1e375a237463", null ]
 ];

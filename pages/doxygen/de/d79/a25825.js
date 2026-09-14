@@ -1,6 +1,9 @@
 var a25825 =
 [
-    [ "HandleFinish", "de/d79/a25825.html#a97cef2944f3fcc11aa6898bc8455ab21", null ],
-    [ "PrepareSpellScript", "de/d79/a25825.html#a62920503172dc58ac864a23e90a98dd9", null ],
-    [ "Register", "de/d79/a25825.html#ab40419508a1903869aa2b36a590301ba", null ]
+    [ "CheckProc", "de/d79/a25825.html#a05a15654fd3c6175b59ab18197fc3c77", null ],
+    [ "HandleProc", "de/d79/a25825.html#a5345da73b9c4c9fe4ae5d272e3574955", null ],
+    [ "OnRemove", "de/d79/a25825.html#a27b1b744d88b4c870c0baa0b8f88317f", null ],
+    [ "PrepareAuraScript", "de/d79/a25825.html#a2e13f63459342fb749594f7fbb517c80", null ],
+    [ "Register", "de/d79/a25825.html#a6fc9a3945a736ba4a62ad754090d8525", null ],
+    [ "Validate", "de/d79/a25825.html#a008ec43da50deb568ec453e992f89887", null ]
 ];

@@ -1,6 +1,7 @@
 var a16533 =
 [
-    [ "boss_baltharus_the_warbornAI", "d4/d46/a16537.html", "d4/d46/a16537" ],
-    [ "boss_baltharus_the_warborn", "d2/d88/a16533.html#aababb8862273d60f140dce675131783d", null ],
-    [ "GetAI", "d2/d88/a16533.html#afe7ecf8635c8c0a051047a801c2a8d54", null ]
+    [ "HandleScriptEffect", "d2/d88/a16533.html#a6f21f546303327f2d32f1dbc03dc21d9", null ],
+    [ "PrepareSpellScript", "d2/d88/a16533.html#a392c40d469c3c1e816d5dc364fde824c", null ],
+    [ "Register", "d2/d88/a16533.html#aa59c26b25ca0f440de36e450adf050a5", null ],
+    [ "Validate", "d2/d88/a16533.html#a370f83112d901f9565734b11d12858f4", null ]
 ];

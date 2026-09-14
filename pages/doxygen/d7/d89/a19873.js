@@ -1,6 +1,5 @@
 var a19873 =
 [
-    [ "boss_varosAI", "d9/d3e/a19877.html", "d9/d3e/a19877" ],
-    [ "boss_varos", "d7/d89/a19873.html#a4fdb9de9ee7a3a50ac0972fd6eb8d39c", null ],
-    [ "GetAI", "d7/d89/a19873.html#a36733c4eb6179e43d61a1c37480666ea", null ]
+    [ "achievement_split_personality", "d7/d89/a19873.html#aac29ae7c321306a663e55493987af45d", null ],
+    [ "OnCheck", "d7/d89/a19873.html#ab5379f3c1191eeb747cb6762fc42ce01", null ]
 ];

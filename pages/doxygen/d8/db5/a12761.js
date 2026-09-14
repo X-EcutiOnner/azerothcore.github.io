@@ -1,6 +1,9 @@
 var a12761 =
 [
-    [ "boss_high_priestess_thaurissan", "d8/db5/a12761.html#a72b25580dc84301be59d72df45a3ac87", null ],
-    [ "JustEngagedWith", "d8/db5/a12761.html#aa8ba467dd5633e96a20c634880710936", null ],
-    [ "UpdateAI", "d8/db5/a12761.html#a66612582a2362e4f07d7a2bda529af06", null ]
+    [ "npc_phalanx", "d8/db5/a12761.html#a03c79151dcdc13fef4ce83957addd44a", null ],
+    [ "Reset", "d8/db5/a12761.html#a9297d5fb869eb9a65ef9143a56347a53", null ],
+    [ "UpdateAI", "d8/db5/a12761.html#aad01cc9d5ac167c21547e8b0b2bda4a7", null ],
+    [ "_fireballVolleyTimer", "d8/db5/a12761.html#a54ad76cd7e8d3be058ad3d5153e5b144", null ],
+    [ "_mightyBlowTimer", "d8/db5/a12761.html#ad59e6e32b53dbf797bc62e116ae2a12d", null ],
+    [ "_thunderClapTimer", "d8/db5/a12761.html#a3b0c33207bf5090abeb9860585c222b4", null ]
 ];

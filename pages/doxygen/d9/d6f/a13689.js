@@ -1,6 +1,6 @@
 var a13689 =
 [
-    [ "HandleActivateObject", "d9/d6f/a13689.html#afd73a7f5ec26c9ecb0424ee09ce638fe", null ],
-    [ "PrepareSpellScript", "d9/d6f/a13689.html#ad55914fdc6771e09a508572d59ad30ed", null ],
-    [ "Register", "d9/d6f/a13689.html#a6a0fe507ca7a382122d55e04d3c021d9", null ]
+    [ "boss_baroness_anastariAI", "db/d4c/a13693.html", "db/d4c/a13693" ],
+    [ "boss_baroness_anastari", "d9/d6f/a13689.html#a60f04c10d9b942cacf74a1dc8364dbbe", null ],
+    [ "GetAI", "d9/d6f/a13689.html#a38073f80afbceb5535cc18ab524378a6", null ]
 ];

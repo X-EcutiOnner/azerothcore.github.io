@@ -1,8 +1,9 @@
 var a12489 =
 [
-    [ "honor_commandscript", "df/dcf/a12489.html#a7c1a6c172b970d1a35a4014d783dc783", null ],
-    [ "GetCommands", "df/dcf/a12489.html#a29a0068f9dd1e9b3f0adf80bddaadbbc", null ],
-    [ "HandleHonorAddCommand", "df/dcf/a12489.html#a03caa77b436e3d513e1325badf05df33", null ],
-    [ "HandleHonorAddKillCommand", "df/dcf/a12489.html#aec79f459796d821a032477827e16308a", null ],
-    [ "HandleHonorUpdateCommand", "df/dcf/a12489.html#a11831a3ea577f3f1e06fea3d0dbc0147", null ]
+    [ "accountId", "df/dcf/a12489.html#ad146b84be01ec07a5fee8184f0cc2da9", null ],
+    [ "accountName", "df/dcf/a12489.html#a4849bd1f43fd15eea1991948abdc576d", null ],
+    [ "deleteDate", "df/dcf/a12489.html#a65a101727094841d34e8775bb7504cba", null ],
+    [ "level", "df/dcf/a12489.html#a3eb08758389ea4d3e2329ffb7af9fff4", null ],
+    [ "lowGuid", "df/dcf/a12489.html#a11fd07e662184f750ac0a5e547a22437", null ],
+    [ "name", "df/dcf/a12489.html#a0e85dce38305e222c5654315ed68bfc1", null ]
 ];

@@ -1,7 +1,5 @@
 var a23521 =
 [
-    [ "HandleScript", "d3/db9/a23521.html#a8933535f9507b90b54032c17985cc3c6", null ],
-    [ "PrepareSpellScript", "d3/db9/a23521.html#acadb563eaeffac47b3f883f9d8c37994", null ],
-    [ "Register", "d3/db9/a23521.html#a797ae84dcb0fc13b0799934bde71809c", null ],
-    [ "Validate", "d3/db9/a23521.html#afba2983f5be230dd3b77b3b49fee8a38", null ]
+    [ "at_quagmirran_lair", "d3/db9/a23521.html#a1f8cb1f59e7a179d9e4a987f716ab26f", null ],
+    [ "OnTrigger", "d3/db9/a23521.html#aa0aab42516efaf842923b8a820942ac4", null ]
 ];

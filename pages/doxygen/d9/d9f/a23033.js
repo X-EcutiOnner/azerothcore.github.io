@@ -1,7 +1,6 @@
 var a23033 =
 [
-    [ "CalculateAmount", "d9/d9f/a23033.html#adad1c8a513ce8a1badbd40c291363de1", null ],
-    [ "PrepareAuraScript", "d9/d9f/a23033.html#ac1a896ac1a751c8bdaee186dffd8c251", null ],
-    [ "Register", "d9/d9f/a23033.html#ae839fd19933a6fa9e55ce37e0633073e", null ],
-    [ "Update", "d9/d9f/a23033.html#aeb5a347ccac3c5ce6faef7641b5fca1c", null ]
+    [ "PrepareAuraScript", "d9/d9f/a23033.html#ac52a5dccc708f9ee63f3c6c92fbf15c1", null ],
+    [ "Register", "d9/d9f/a23033.html#acc4afbe7f2b23b67e8f7e3fe1eeb03b5", null ],
+    [ "Update", "d9/d9f/a23033.html#aa9f5924b3f12c666c53ddc2b9b80aeea", null ]
 ];

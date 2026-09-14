@@ -1,8 +1,6 @@
 var a24457 =
 [
-    [ "npc_pet_gen_gnomish_flame_turret", "de/d39/a24457.html#a6e79c0ad6219d0beb23cfb086e6d3eaf", null ],
-    [ "AttackStart", "de/d39/a24457.html#a2aab464c099e8e5e760a9ae4f28ac33f", null ],
-    [ "Reset", "de/d39/a24457.html#a46fe5703a5859d5583e7df3a57b3910a", null ],
-    [ "UpdateAI", "de/d39/a24457.html#ae3db08323af4b82009ffd660b3e78474", null ],
-    [ "checkTimer", "de/d39/a24457.html#ac6705f4980ca561a5fd33c2917488439", null ]
+    [ "PrepareSpellScript", "de/d39/a24457.html#ac781a5ff389268d1f18867ff5585ca71", null ],
+    [ "Register", "de/d39/a24457.html#a5cb9e02774ea6c307e76183253ffb472", null ],
+    [ "SetDest", "de/d39/a24457.html#a5fec9885b1dd6cf80fb47af321fad98e", null ]
 ];

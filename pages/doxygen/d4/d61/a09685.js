@@ -1,8 +1,14 @@
 var a09685 =
 [
-    [ "CreatureListSearcher", "d4/d61/a09685.html#a7b16bf9b7a847a08fa6582b81b607e20", null ],
-    [ "Visit", "d4/d61/a09685.html#a48c084b8fbcbf7db7c051d1aa2aff523", null ],
-    [ "Visit", "d4/d61/a09685.html#a91fcbdcfb08964ebaacec8acae13476b", null ],
-    [ "i_check", "d4/d61/a09685.html#a985d622243d5c7c6c91eb01377b0f91b", null ],
-    [ "i_phaseMask", "d4/d61/a09685.html#a10e4e1fb5749d2b1065dd6a1245783d0", null ]
+    [ "WorldObjectLastSearcher", "d4/d61/a09685.html#af8baf5ff23a3167a963ade43faec09fc", null ],
+    [ "Visit", "d4/d61/a09685.html#ac011f150695eb1f3a83536175fd2a016", null ],
+    [ "Visit", "d4/d61/a09685.html#af5c5a533084c436e0d7de828e1ef82ad", null ],
+    [ "Visit", "d4/d61/a09685.html#a962a050f568dab037a9a48879eae0f86", null ],
+    [ "Visit", "d4/d61/a09685.html#a98967233e04c6223361897c02bc0edc5", null ],
+    [ "Visit", "d4/d61/a09685.html#a94d30e81eb509ff4fd3dac7c207c819b", null ],
+    [ "Visit", "d4/d61/a09685.html#a39a9d66014df641c0cb08f619f9d8434", null ],
+    [ "i_check", "d4/d61/a09685.html#a66afc21dd0fd740c2723516b8c33a319", null ],
+    [ "i_mapTypeMask", "d4/d61/a09685.html#a5689c8aa9120bc545c98ec0916d78d56", null ],
+    [ "i_object", "d4/d61/a09685.html#a765d65a90639b34a8cf9f42fdd6ae653", null ],
+    [ "i_phaseMask", "d4/d61/a09685.html#a966213d495a613f33aebaa8ebda7c380", null ]
 ];

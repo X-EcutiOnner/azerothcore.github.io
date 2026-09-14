@@ -1,7 +1,6 @@
 var a27809 =
 [
-    [ "HandleRemove", "df/de4/a27809.html#a0f5a3e4d75dbb5c699ea1acbf89db318", null ],
-    [ "PrepareAuraScript", "df/de4/a27809.html#a9e153c86e29a17b0cc20c65c635aa070", null ],
-    [ "Register", "df/de4/a27809.html#a338ee9c0eddd309ce2a791160059bad6", null ],
-    [ "Validate", "df/de4/a27809.html#ae8272b65a070fc959af003f701567c3c", null ]
+    [ "HandleAuraApply", "df/de4/a27809.html#a0c17d42095cac3d4cf304df1fc83acbf", null ],
+    [ "PrepareAuraScript", "df/de4/a27809.html#a6eedadacba366104fdca2791862be216", null ],
+    [ "Register", "df/de4/a27809.html#a5869dc6372d479d85da1118d0c9ec8e6", null ]
 ];

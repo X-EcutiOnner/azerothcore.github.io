@@ -1,7 +1,7 @@
 var a25901 =
 [
-    [ "HandleJump", "d8/d0c/a25901.html#ac70f6d53e85af1ee2591e761e21872db", null ],
-    [ "HandleScriptEffect", "d8/d0c/a25901.html#abdaa3c5356f84429cf6d2e053a3238ff", null ],
-    [ "PrepareSpellScript", "d8/d0c/a25901.html#a7daa7cef660e9f08b8e60c7788783c99", null ],
-    [ "Register", "d8/d0c/a25901.html#a0cbd40958551e0f38850a9fdcd6f0048", null ]
+    [ "HandleProc", "d8/d0c/a25901.html#a675a17a574539f2da85a5401afc18fec", null ],
+    [ "PrepareAuraScript", "d8/d0c/a25901.html#a9e5ea1da302356a41b4eff338956ab93", null ],
+    [ "Register", "d8/d0c/a25901.html#a2bade504b1ab2c2869ecaf8873864d19", null ],
+    [ "Validate", "d8/d0c/a25901.html#aec327c219229ae9d59cb491eef2d95d3", null ]
 ];

@@ -1,7 +1,9 @@
 var a27605 =
 [
-    [ "HandleDummy", "d5/dee/a27605.html#abd35c974f5ebec4c8845c05ab4f6d309", null ],
-    [ "PrepareSpellScript", "d5/dee/a27605.html#a99deca1c5c8631342be400cb863eefb2", null ],
-    [ "Register", "d5/dee/a27605.html#aa5ecc51b030fe7280e824ade641216d3", null ],
-    [ "Validate", "d5/dee/a27605.html#a731503d3769718695d109ad71160e67a", null ]
+    [ "CalculateAmount", "d5/dee/a27605.html#a55d778b049e26c28bfa9d2e08d7920a8", null ],
+    [ "CheckProc", "d5/dee/a27605.html#aa0144f9a0260a74010ced913dd8cadbd", null ],
+    [ "HandleProc", "d5/dee/a27605.html#a741570ba77f70d90b437198f63e565f3", null ],
+    [ "PrepareAuraScript", "d5/dee/a27605.html#af4e49e2362994f247c119c16c013e4b3", null ],
+    [ "Register", "d5/dee/a27605.html#a06a3c11618cbdf15427bbaa6ac8a4273", null ],
+    [ "Validate", "d5/dee/a27605.html#a939d6815bcaee9b9d2b062313aac912a", null ]
 ];

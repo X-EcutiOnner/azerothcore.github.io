@@ -1,6 +1,9 @@
 var a24941 =
 [
-    [ "HandleAfterCast", "dd/d22/a24941.html#a39572ebbeee6fe39bc4454088c622bcd", null ],
-    [ "PrepareSpellScript", "dd/d22/a24941.html#a602d7c920aa73a9c3c69222854093036", null ],
-    [ "Register", "dd/d22/a24941.html#addbbf508a0e1074c23ebd325dd62bbe9", null ]
+    [ "Absorb", "dd/d22/a24941.html#a5d4b54569b16175ae84d3c94a1a6fcff", null ],
+    [ "CalculateAmount", "dd/d22/a24941.html#a3800ed0d14eacf39a3930c1b5e139f85", null ],
+    [ "Load", "dd/d22/a24941.html#a79e3012cb5c78851809d9f4c4d6c4487", null ],
+    [ "PrepareAuraScript", "dd/d22/a24941.html#a1bdab939c229c466ce6b71a7e00dedf9", null ],
+    [ "Register", "dd/d22/a24941.html#a47bd5ef93255a2d926874d6d70861374", null ],
+    [ "absorbPct", "dd/d22/a24941.html#a0c067ba7bbfd5cde53f1323b5c2f47cb", null ]
 ];

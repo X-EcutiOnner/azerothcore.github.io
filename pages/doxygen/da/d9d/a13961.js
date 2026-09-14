@@ -1,8 +1,7 @@
 var a13961 =
 [
-    [ "HandleEffectApply", "da/d9d/a13961.html#afd47748c7db2e0a5b7da2e18dc7b53ec", null ],
-    [ "HandleEffectRemove", "da/d9d/a13961.html#a87a0061366829cbc6f856cc1f7ea1105", null ],
-    [ "Load", "da/d9d/a13961.html#a2e3b53977f188ed28d9deedbcbc03e6b", null ],
-    [ "PrepareAuraScript", "da/d9d/a13961.html#a99b97b2ed12d73e417af0b970c2a9645", null ],
-    [ "Register", "da/d9d/a13961.html#a6a90296c9903ce65913f3bba29dea176", null ]
+    [ "PeriodicTick", "da/d9d/a13961.html#acca46d585d06d461f735cddb6075b3b1", null ],
+    [ "PrepareAuraScript", "da/d9d/a13961.html#abd7382ab22efd3d82c4f00745255d024", null ],
+    [ "Register", "da/d9d/a13961.html#a7020dbe7c61f877d0ecd0d7542f6f270", null ],
+    [ "Validate", "da/d9d/a13961.html#acb31ba162452a30ff0c208829560f9fd", null ]
 ];

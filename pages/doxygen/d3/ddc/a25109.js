@@ -1,9 +1,10 @@
 var a25109 =
 [
-    [ "spell_gen_select_target_count", "d3/ddc/a25109.html#a65507c155a8746ff49c58c051b7868e4", null ],
-    [ "FilterTargets", "d3/ddc/a25109.html#a5de89be9ce321a0f4ac49853a700b502", null ],
-    [ "PrepareSpellScript", "d3/ddc/a25109.html#a42ddce15414dcdf495b572e0f75e9486", null ],
-    [ "Register", "d3/ddc/a25109.html#a94f86992275123e2e3989655cf077efd", null ],
-    [ "_count", "d3/ddc/a25109.html#acdf5daa848ae185b859c45a1271df68c", null ],
-    [ "_effTarget", "d3/ddc/a25109.html#a9c54508790062277c8275d2466e93fb3", null ]
+    [ "HandleEffectApply", "d3/ddc/a25109.html#ac977d07e0b054af33345538f10d80c56", null ],
+    [ "HandleEffectRemove", "d3/ddc/a25109.html#acd9c460acb60eae5db8874c246014147", null ],
+    [ "PrepareAuraScript", "d3/ddc/a25109.html#a1527c59b43a26db344e5a4d2900ea9b0", null ],
+    [ "Register", "d3/ddc/a25109.html#ab0de0c0459d3414f69a0dde7669b6f79", null ],
+    [ "_hasFlag", "d3/ddc/a25109.html#adb5058ba54ea53db9fdc9251a44619aa", null ],
+    [ "_itemId", "d3/ddc/a25109.html#a28c06ecd352466e0d1076d9eb4fa8e9b", null ],
+    [ "_modelId", "d3/ddc/a25109.html#ae77b9ae8a1092e0dc144e83db4c0758c", null ]
 ];

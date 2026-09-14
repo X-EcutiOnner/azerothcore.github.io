@@ -1,12 +1,23 @@
 var a05183 =
 [
-    [ "OmenOfClarityGlyphLockTest", "d1/d4e/a29842.html", "d1/d4e/a29842" ],
-    [ "TestOocPlayerScript", "dc/d91/a29838.html", "dc/d91/a29838" ],
-    [ "TEST_F", "d7/d48/a05183.html#aad251365da79c581dfd771c07e08a849", null ],
-    [ "TEST_F", "d7/d48/a05183.html#a4722da81a67d7591147f462b57ebd1e5", null ],
-    [ "TEST_F", "d7/d48/a05183.html#a4dbab8c4aad98a9d7a180aa0900d811e", null ],
-    [ "TEST_F", "d7/d48/a05183.html#aa1f3de6a8cef69842c080eca3d39fd62", null ],
-    [ "OOC_LOCKED_GLYPH_SLOT", "d7/d48/a05183.html#a5500fe8bc94c2f7444d0ece5685c4de6", null ],
-    [ "OOC_LOCKED_SLOT_BIT", "d7/d48/a05183.html#a8c8ee271438dfdfb1361e57c07c7b890", null ],
-    [ "s_testOocEnabled", "d7/d48/a05183.html#a0fd5f656624a7c48c5e042c0f1572004", null ]
+    [ "AutoEquipItem", "db/dbd/a11365.html", "db/dbd/a11365" ],
+    [ "AutoEquipItemSlot", "da/d90/a11357.html", "da/d90/a11357" ],
+    [ "AutoStoreBagItem", "d6/d22/a11397.html", "d6/d22/a11397" ],
+    [ "BuybackItem", "d2/d50/a11381.html", "d2/d50/a11381" ],
+    [ "BuyItem", "d2/dbf/a11389.html", "d2/dbf/a11389" ],
+    [ "BuyItemInSlot", "d9/dab/a11385.html", "d9/dab/a11385" ],
+    [ "CancelTempEnchantment", "d6/d2e/a11417.html", "d6/d2e/a11417" ],
+    [ "DestroyItem", "df/d07/a11369.html", "df/d07/a11369" ],
+    [ "EnchantmentLog", "d5/dc9/a11401.html", "d5/dc9/a11401" ],
+    [ "ItemEnchantTimeUpdate", "d6/d5e/a11405.html", "d6/d5e/a11405" ],
+    [ "ItemRefund", "dd/d54/a11425.html", "dd/d54/a11425" ],
+    [ "ItemRefundInfo", "d7/d62/a11421.html", "d7/d62/a11421" ],
+    [ "ListInventory", "d7/d3b/a11393.html", "d7/d3b/a11393" ],
+    [ "ReadItem", "d0/d5e/a11373.html", "d0/d5e/a11373" ],
+    [ "SellItem", "da/da4/a11377.html", "da/da4/a11377" ],
+    [ "SocketGems", "d2/d2d/a11413.html", "d2/d2d/a11413" ],
+    [ "SplitItem", "de/d3e/a11349.html", "de/d3e/a11349" ],
+    [ "SwapInventoryItem", "de/d77/a11353.html", "de/d77/a11353" ],
+    [ "SwapItem", "d3/d97/a11361.html", "d3/d97/a11361" ],
+    [ "WrapItem", "d0/da2/a11409.html", "d0/da2/a11409" ]
 ];

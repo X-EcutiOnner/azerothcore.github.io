@@ -1,8 +1,8 @@
 var a05345 =
 [
-    [ "LocationInfoCallback", "de/d6f/a05345.html#a81b8c00fcc0a1780445ffbdf85decfdf", null ],
-    [ "operator()", "de/d6f/a05345.html#abd524e5a87daa798258d7851c526cd88", null ],
-    [ "locInfo", "de/d6f/a05345.html#a9a8b8529a571b3652cd898b2888d8027", null ],
-    [ "prims", "de/d6f/a05345.html#a19c87ad1c9665c3ddfbfa89ccdee5c10", null ],
-    [ "result", "de/d6f/a05345.html#a1ada8b8a1742f02b2d1f28ee82903246", null ]
+    [ "ModelFileMap", "de/d6f/a05345.html#ae609ba50932b7bac6ac0c1c7d0800b5d", null ],
+    [ "AcquireModelInstance", "de/d6f/a05345.html#af6dc1b3c77f5eeff5ff4b9bc5c4024b0", null ],
+    [ "instance", "de/d6f/a05345.html#a6cae2913accf21c262dafa01c14b1795", null ],
+    [ "_loadedModels", "de/d6f/a05345.html#a406474470aaa0da5b752817cc5ea81ae", null ],
+    [ "_lock", "de/d6f/a05345.html#ab258d227875d9aad8f399fae3f57f0ab", null ]
 ];

@@ -1,11 +1,7 @@
 var a25513 =
 [
-    [ "spell_gen_apply_aura_after_expiration", "df/d0b/a25513.html#a391e5089eb034618c5e3edde26685a00", null ],
-    [ "AfterRemove", "df/d0b/a25513.html#afea2221ceeebf90cf352084d8aacf7c9", null ],
-    [ "PrepareAuraScript", "df/d0b/a25513.html#a494123635eda4c43d92a08c9c8cd5627", null ],
-    [ "Register", "df/d0b/a25513.html#a3189ba65a1d9adf252d9f0dfb70abd16", null ],
-    [ "Validate", "df/d0b/a25513.html#ad405128104d8a6528e8db96281ad0f0b", null ],
-    [ "_aura", "df/d0b/a25513.html#a8a79aef777e1397b031149c54ae9d81d", null ],
-    [ "_effect", "df/d0b/a25513.html#aa276a986ba9b67964ddeec56d6455cf9", null ],
-    [ "_spellId", "df/d0b/a25513.html#a330f1311911ba9f3ebd704c7f9a09246", null ]
+    [ "HandleScript", "df/d0b/a25513.html#a466db5b8dc15a196d67dfcbef3d810e1", null ],
+    [ "PrepareSpellScript", "df/d0b/a25513.html#a7909f23da8385abdabb62e5196d88d38", null ],
+    [ "Register", "df/d0b/a25513.html#aa45c1c80f137dd90b5f0e06e19f09da6", null ],
+    [ "Validate", "df/d0b/a25513.html#a04e81472bfefb794024e9c4cc0e4d70b", null ]
 ];

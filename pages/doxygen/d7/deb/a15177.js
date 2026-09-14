@@ -1,8 +1,6 @@
 var a15177 =
 [
-    [ "boss_azgalor", "d7/deb/a15177.html#ac794e0eacc2d543fa62e4b521089f080", null ],
-    [ "DoAction", "d7/deb/a15177.html#a43d7afa9da1375f431df871e2a1dfff2", null ],
-    [ "JustDied", "d7/deb/a15177.html#a49cc8abf458f82ad7d46c9c1563f0e98", null ],
-    [ "JustEngagedWith", "d7/deb/a15177.html#a4b067c3bccbd5f9c96c50d009250d3d0", null ],
-    [ "KilledUnit", "d7/deb/a15177.html#a04df1058e89ccc6e7ef2d1dff38d47e7", null ]
+    [ "instance_blackfathom_deeps_InstanceMapScript", "d1/d6d/a15181.html", "d1/d6d/a15181" ],
+    [ "instance_blackfathom_deeps", "d7/deb/a15177.html#a4600a7e6191582c1bee684989a970e0f", null ],
+    [ "GetInstanceScript", "d7/deb/a15177.html#a62cdab4f3118ab030b4ef55243690f73", null ]
 ];

@@ -1,7 +1,6 @@
 var a16657 =
 [
-    [ "OnApply", "d1/d15/a16657.html#ad072d243dd148e1b34aea29a2e5d175e", null ],
-    [ "PrepareAuraScript", "d1/d15/a16657.html#ae657ceca517aa3f725ba72c18ddbaf1c", null ],
-    [ "Register", "d1/d15/a16657.html#a4eab0bd70eb884f7736e90f9001d3cc7", null ],
-    [ "Validate", "d1/d15/a16657.html#a2c9e4d82bd25f439e01a05700563b122", null ]
+    [ "npc_halion_controllerAI", "d0/d46/a16661.html", "d0/d46/a16661" ],
+    [ "npc_halion_controller", "d1/d15/a16657.html#ac88ff15ce4d89d737eb6dd6b649e1218", null ],
+    [ "GetAI", "d1/d15/a16657.html#a3c5ea3f0597c070005744ea788a05383", null ]
 ];

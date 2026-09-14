@@ -1,10 +1,13 @@
 var a30297 =
 [
-    [ "Tile", "d1/d0c/a30297.html#aa68e7829d0a4109a5fca036afe725756", null ],
-    [ "~Tile", "d1/d0c/a30297.html#aa5be25df0d267368c90c8f790b218f7a", null ],
-    [ "chf", "d1/d0c/a30297.html#a9cd4f4be0393e1b40d1ea83dad189a35", null ],
-    [ "cset", "d1/d0c/a30297.html#a8263aa243c049daa70ed537f206c6a15", null ],
-    [ "dmesh", "d1/d0c/a30297.html#a23efb981de3dbc2ecdbe4dafdbaa8f58", null ],
-    [ "pmesh", "d1/d0c/a30297.html#a00dde7c2b62890f4d78697e669f2a810", null ],
-    [ "solid", "d1/d0c/a30297.html#a6c263578a352c75a21570a26439d6156", null ]
+    [ "MPQArchive", "d1/d0c/a30297.html#a01c755d82896f5eff33101151ee78fda", null ],
+    [ "~MPQArchive", "d1/d0c/a30297.html#a5bce22525ca16381fbb4729540a165e2", null ],
+    [ "MPQArchive", "d1/d0c/a30297.html#a01c755d82896f5eff33101151ee78fda", null ],
+    [ "~MPQArchive", "d1/d0c/a30297.html#a5bce22525ca16381fbb4729540a165e2", null ],
+    [ "close", "d1/d0c/a30297.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
+    [ "close", "d1/d0c/a30297.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
+    [ "GetFileListTo", "d1/d0c/a30297.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
+    [ "GetFileListTo", "d1/d0c/a30297.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
+    [ "isOpened", "d1/d0c/a30297.html#a2026335b9ede29197acfaac8513456d5", null ],
+    [ "mpq_a", "d1/d0c/a30297.html#a72b9fb96b1e3db6c7be652e426978b4a", null ]
 ];

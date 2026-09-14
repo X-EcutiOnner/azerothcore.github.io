@@ -1,6 +1,10 @@
 var a21097 =
 [
-    [ "OnRemove", "df/d5f/a21097.html#a0e2113cd165f9f6ce88ba6eea9034806", null ],
-    [ "PrepareAuraScript", "df/d5f/a21097.html#a5fb0837417b915676549370cc76c477d", null ],
-    [ "Register", "df/d5f/a21097.html#a7f1844fded6ad112cc99d33f52e0799c", null ]
+    [ "boss_yoggsaron_immortal_guardian", "df/d5f/a21097.html#a14839f96771d185718e88a4e371b31f6", null ],
+    [ "DamageTaken", "df/d5f/a21097.html#a9bf936d6a501e53ce98786f043562a71", null ],
+    [ "Reset", "df/d5f/a21097.html#a1173d401233670a45b31040b8e5d98cb", null ],
+    [ "SpellHit", "df/d5f/a21097.html#ae9fedb55d903edf6384cb9d0285cc528", null ],
+    [ "UpdateAI", "df/d5f/a21097.html#adaae7e2cd52951095cb82819d9874426", null ],
+    [ "_spellTimer", "df/d5f/a21097.html#a521b956c116a23523fdfceb95a42c1e2", null ],
+    [ "_visualTimer", "df/d5f/a21097.html#acb9f5de4ad41ce56f7c6d05a19783517", null ]
 ];

@@ -1,13 +1,8 @@
 var a28809 =
 [
-    [ "DBCDatabaseLoader", "de/de3/a28809.html#a2efbbd3799e5f72fecaeaf9365579482", null ],
-    [ "DBCDatabaseLoader", "de/de3/a28809.html#a7d93e6d37796f341edcf25062743c5b5", null ],
-    [ "CloneStringToPool", "de/de3/a28809.html#a68e5ae50c980aa81b051d0622575bb2d", null ],
-    [ "Load", "de/de3/a28809.html#a1b116dca8b01e0462a2e6c08245a49a3", null ],
-    [ "operator=", "de/de3/a28809.html#a46f7d5670840892f7a8714ce0b6cde13", null ],
-    [ "_dbcFormat", "de/de3/a28809.html#aa749118514d0b784ac6df295bd820d8e", null ],
-    [ "_recordSize", "de/de3/a28809.html#a6721538ebbcfe020fb195d44b3bdbd11", null ],
-    [ "_sqlIndexPos", "de/de3/a28809.html#ac1b5b191615d3e3121ea70965b0d495a", null ],
-    [ "_sqlTableName", "de/de3/a28809.html#ab6590071edf5311ccf484d48e4fd125e", null ],
-    [ "_stringPool", "de/de3/a28809.html#a52b5b86f0efb8ad0716bc0171a3aa740", null ]
+    [ "npc_minion_spawner", "de/de3/a28809.html#ab49641074ae46f21a3fdc1c2f71396ba", null ],
+    [ "CanSpawnRareMinion", "de/de3/a28809.html#a007376c8f66a3963651f81ddd14cbbfc", null ],
+    [ "JustSummoned", "de/de3/a28809.html#a1742c98edca62e3d80a32f33d6ed2f97", null ],
+    [ "Reset", "de/de3/a28809.html#a0b55c1648c37399ad99d340bdf20cb49", null ],
+    [ "UpdateAI", "de/de3/a28809.html#a24f93f1314bb73edb369e188eda83104", null ]
 ];

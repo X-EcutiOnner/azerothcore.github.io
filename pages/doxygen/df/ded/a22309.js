@@ -1,8 +1,6 @@
 var a22309 =
 [
-    [ "CheckCast", "df/ded/a22309.html#ab1584c391ac81b8338387acc6187001f", null ],
-    [ "HandleDummy", "df/ded/a22309.html#abe856e2c3b986eeac0c1a62aa301eb6d", null ],
-    [ "PrepareSpellScript", "df/ded/a22309.html#a08d9ffb7dcbe786071979166e0489336", null ],
-    [ "Register", "df/ded/a22309.html#a5f0bbd57f3cbc0d0de3d8830dd4e6f2b", null ],
-    [ "Validate", "df/ded/a22309.html#a82d931b4a15f6a60c27d932e8188ef78", null ]
+    [ "PrepareSpellScript", "df/ded/a22309.html#aa26d34552b04dca1db32390e769ff4dc", null ],
+    [ "RecalculateDamage", "df/ded/a22309.html#a1b3458fc865d320050fae1ffeb4c7b5d", null ],
+    [ "Register", "df/ded/a22309.html#a58d28dea272b1237cf60efb45d67765d", null ]
 ];

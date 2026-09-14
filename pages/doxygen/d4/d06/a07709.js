@@ -1,7 +1,6 @@
 var a07709 =
 [
-    [ "BattlegroundObjectInfo", "d4/d06/a07709.html#a848f2b15f47ceeb91c40e916d5659486", null ],
-    [ "object", "d4/d06/a07709.html#a6722b83d6969c1a34b4846f19865075a", null ],
-    [ "spellid", "d4/d06/a07709.html#ae0233a1078bc735e40855ea7608f5f11", null ],
-    [ "timer", "d4/d06/a07709.html#a7eaf1fbe40f3a7918965da8d5ac81a50", null ]
+    [ "ArenaTeamFilterByTypes", "d4/d06/a07709.html#ac28ee86767c48219dbe141620c87e129", null ],
+    [ "Filter", "d4/d06/a07709.html#a7c04437788359b40db1c0d4492d51497", null ],
+    [ "_validTypes", "d4/d06/a07709.html#aa3b5ce8932b00b092813af239d83b7d1", null ]
 ];

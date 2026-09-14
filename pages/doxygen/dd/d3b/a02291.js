@@ -1,6 +1,5 @@
 var a02291 =
 [
-    [ "character_commandscript", "d4/ded/a12429.html", "d4/ded/a12429" ],
-    [ "character_commandscript::DeletedInfo", "db/d6b/a12433.html", "db/d6b/a12433" ],
-    [ "AddSC_character_commandscript", "dd/d3b/a02291.html#a97f9cac12c34068d5e63b2ed28ddf9e2", null ]
+    [ "worldstate_commandscript", "db/d58/a12693.html", "db/d58/a12693" ],
+    [ "AddSC_worldstate_commandscript", "dd/d3b/a02291.html#a2ff66ad19f50180b9878cf95696fd09b", null ]
 ];

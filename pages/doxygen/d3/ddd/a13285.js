@@ -1,11 +1,6 @@
 var a13285 =
 [
-    [ "boss_tenris_mirkblood", "d3/ddd/a13285.html#ae626332a437983bbb0219bbe2d4b75dc", null ],
-    [ "DamageTaken", "d3/ddd/a13285.html#a0316d2d936f10928fe01d1d5a532e9e0", null ],
-    [ "EnterEvadeMode", "d3/ddd/a13285.html#a5da11ca73a280c08d1ab0ab4df66d836", null ],
-    [ "JustEngagedWith", "d3/ddd/a13285.html#ad95106bbe08589a5ca1d0f2f30aab0ec", null ],
-    [ "KilledUnit", "d3/ddd/a13285.html#ab0a5fedbd8714326a948163d7bcc0838", null ],
-    [ "Reset", "d3/ddd/a13285.html#a88d46f6e972525979687b315db90dc30", null ],
-    [ "SpellHit", "d3/ddd/a13285.html#a5d69e0cf2a394ac9eed94bb82ab35949", null ],
-    [ "_mirrorTarget", "d3/ddd/a13285.html#a1e9a1c361046b12fe0569fbdef4a7033", null ]
+    [ "HandleApply", "d3/ddd/a13285.html#ac9f6f1927c9f66682892c32d4a431cc4", null ],
+    [ "PrepareAuraScript", "d3/ddd/a13285.html#ae908ad87781553cc3bed05ea510a4447", null ],
+    [ "Register", "d3/ddd/a13285.html#a391dff720ed9d2d48aa69e48e69ba8df", null ]
 ];

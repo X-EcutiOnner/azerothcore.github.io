@@ -1,33 +1,25 @@
 var a03803 =
 [
-    [ "npc_belnistrasz", "de/d91/a15469.html", "de/d91/a15469" ],
-    [ "npc_belnistrasz::npc_belnistraszAI", "d6/d27/a15473.html", "d6/d27/a15473" ],
-    [ "npc_idol_room_spawner", "d9/dc7/a15477.html", "d9/dc7/a15477" ],
-    [ "npc_idol_room_spawner::npc_idol_room_spawnerAI", "d2/d01/a15481.html", "d2/d01/a15481" ],
-    [ "Belnistrasz", "da/d1a/a03803.html#ab761030cc73179b77506cee80e54afba", [
-      [ "EVENT_CHANNEL", "da/d1a/a03803.html#ab761030cc73179b77506cee80e54afbaa328cf2425c283ee53d5cb9d660a11034", null ],
-      [ "EVENT_IDOL_ROOM_SPAWNER", "da/d1a/a03803.html#ab761030cc73179b77506cee80e54afbaa1a8dd12063e47b2533422a696ec5fe63", null ],
-      [ "EVENT_PROGRESS", "da/d1a/a03803.html#ab761030cc73179b77506cee80e54afbaa9edbfcbbe26666eab8693f9b070f1635", null ],
-      [ "EVENT_COMPLETE", "da/d1a/a03803.html#ab761030cc73179b77506cee80e54afbaa277c4ceb154c858f20df1a3b2b9f23c0", null ],
-      [ "EVENT_FIREBALL", "da/d1a/a03803.html#ab761030cc73179b77506cee80e54afbaa2f41794aafc9d878c1d2e3aa735cbf44", null ],
-      [ "EVENT_FROST_NOVA", "da/d1a/a03803.html#ab761030cc73179b77506cee80e54afbaabdc6cc62f4c38145542e5be0485df2fc", null ],
-      [ "PATH_ESCORT", "da/d1a/a03803.html#ab761030cc73179b77506cee80e54afbaaad37e5267c61b3154576082cc5f0d943", null ],
-      [ "POINT_REACH_IDOL", "da/d1a/a03803.html#ab761030cc73179b77506cee80e54afbaac918f6177e0a19d346c351646dc8e53a", null ],
-      [ "QUEST_EXTINGUISHING_THE_IDOL", "da/d1a/a03803.html#ab761030cc73179b77506cee80e54afbaab86f59506288a17715a05dc6c3cc9c5e", null ],
-      [ "SAY_QUEST_ACCEPTED", "da/d1a/a03803.html#ab761030cc73179b77506cee80e54afbaaae4435ce02d8a471af2a02586524d6f5", null ],
-      [ "SAY_EVENT_START", "da/d1a/a03803.html#ab761030cc73179b77506cee80e54afbaa5b99398ffec3de91807ff5682f0a7478", null ],
-      [ "SAY_EVENT_THREE_MIN_LEFT", "da/d1a/a03803.html#ab761030cc73179b77506cee80e54afbaa1c27a8e990dc6e00c87e33609397f44a", null ],
-      [ "SAY_EVENT_TWO_MIN_LEFT", "da/d1a/a03803.html#ab761030cc73179b77506cee80e54afbaa083570db82270d8a62a772524057254f", null ],
-      [ "SAY_EVENT_ONE_MIN_LEFT", "da/d1a/a03803.html#ab761030cc73179b77506cee80e54afbaab32dce7b44868931f08d3604a802dd44", null ],
-      [ "SAY_EVENT_END", "da/d1a/a03803.html#ab761030cc73179b77506cee80e54afbaa5f86762aa27777e2322b2e11a3120364", null ],
-      [ "SAY_AGGRO", "da/d1a/a03803.html#ab761030cc73179b77506cee80e54afbaa47c752fff069f3e55065795eef2a9bfe", null ],
-      [ "SAY_WATCH_OUT", "da/d1a/a03803.html#ab761030cc73179b77506cee80e54afbaaab3d1089e4f3d2693a0a9c5cdc810405", null ],
-      [ "SPELL_ARCANE_INTELLECT", "da/d1a/a03803.html#ab761030cc73179b77506cee80e54afbaa7f0e5071bc08579a814ae1cb62cc37e4", null ],
-      [ "SPELL_FIREBALL", "da/d1a/a03803.html#ab761030cc73179b77506cee80e54afbaa846055c995374082714483a6b39bc963", null ],
-      [ "SPELL_FROST_NOVA", "da/d1a/a03803.html#ab761030cc73179b77506cee80e54afbaab913503b67c5b8f901cfc4f207bcba03", null ],
-      [ "SPELL_IDOL_SHUTDOWN_VISUAL", "da/d1a/a03803.html#ab761030cc73179b77506cee80e54afbaa947ac08dacf61227418026a59dcab75e", null ],
-      [ "SPELL_IDOM_ROOM_CAMERA_SHAKE", "da/d1a/a03803.html#ab761030cc73179b77506cee80e54afbaa767a89efdf4df9a9978449bdddd9be52", null ]
+    [ "npc_shenthul", "d6/d21/a16105.html", "d6/d21/a16105" ],
+    [ "npc_shenthul::npc_shenthulAI", "df/d33/a16109.html", "df/d33/a16109" ],
+    [ "npc_thrall_warchief", "da/d8e/a16113.html", "da/d8e/a16113" ],
+    [ "npc_thrall_warchief::npc_thrall_warchiefAI", "d2/ddb/a16117.html", "d2/ddb/a16117" ],
+    [ "Shenthul", "da/d1a/a03803.html#a032512bb2693fda342f4d77dba794fbe", [
+      [ "QUEST_SHATTERED_SALUTE", "da/d1a/a03803.html#a032512bb2693fda342f4d77dba794fbea38993f500c01e7bc0ae8dd3a83848ff0", null ]
     ] ],
-    [ "AddSC_razorfen_downs", "da/d1a/a03803.html#aa1cc9839b8806bd940e01edfee8b8cee", null ],
-    [ "PosSummonSpawner", "da/d1a/a03803.html#a72b7e5a7b680a19d8c3fe8378e61f1b9", null ]
+    [ "ThrallWarchief", "da/d1a/a03803.html#a1cdad3bda3b93500c342a64dce6d15d9", [
+      [ "SPELL_CHAIN_LIGHTNING", "da/d1a/a03803.html#a1cdad3bda3b93500c342a64dce6d15d9ac0997e72929070d8e30cc0f49cc4539d", null ],
+      [ "SPELL_SHOCK", "da/d1a/a03803.html#a1cdad3bda3b93500c342a64dce6d15d9a30aa4cac2f70a310466b3fb0f2d10eab", null ],
+      [ "QUEST_FOR_THE_HORDE", "da/d1a/a03803.html#a1cdad3bda3b93500c342a64dce6d15d9aed442141280385194a0a8b73d7e489af", null ],
+      [ "SPELL_WARCHIEF_BLESSING", "da/d1a/a03803.html#a1cdad3bda3b93500c342a64dce6d15d9a567e6044eaae260d8ab29c346613b225", null ],
+      [ "NPC_HERALD_OF_THRALL", "da/d1a/a03803.html#a1cdad3bda3b93500c342a64dce6d15d9a3533aba0519168d4cfb3446a1bbde5bc", null ],
+      [ "ACTION_START_TALKING", "da/d1a/a03803.html#a1cdad3bda3b93500c342a64dce6d15d9a322b9b49cd88bc70c039be2aa4e0c7fd", null ],
+      [ "SAY_THRALL_ON_QUEST_REWARD_0", "da/d1a/a03803.html#a1cdad3bda3b93500c342a64dce6d15d9a64ac3588375f611524513fd4d4293a1b", null ],
+      [ "SAY_THRALL_ON_QUEST_REWARD_1", "da/d1a/a03803.html#a1cdad3bda3b93500c342a64dce6d15d9a3a6a88801e0a276bd78e5299ffb76302", null ],
+      [ "GO_UNADORNED_SPIKE", "da/d1a/a03803.html#a1cdad3bda3b93500c342a64dce6d15d9a544ea295d906cebdf38aecb93e7ac153", null ],
+      [ "QUEST_WHAT_THE_WIND_CARRIES", "da/d1a/a03803.html#a1cdad3bda3b93500c342a64dce6d15d9a5bc18876e7da8ddfc493ea155bb75287", null ],
+      [ "QUEST_WARCHIEFS_BLESSING", "da/d1a/a03803.html#a1cdad3bda3b93500c342a64dce6d15d9ab698e2206a77782e1893a2230085a047", null ]
+    ] ],
+    [ "AddSC_orgrimmar", "da/d1a/a03803.html#aec4388ea6d2e4bbc1d279b3a4687c4c6", null ],
+    [ "heraldOfThrallPos", "da/d1a/a03803.html#a016aeee1d0eac9c78c522520663670f0", null ]
 ];

@@ -1,5 +1,6 @@
 var a29205 =
 [
-    [ "Id", "d6/db7/a29205.html#a2c41c957524b31ad9f7fa361ec0e9d01", null ],
-    [ "textid", "d6/db7/a29205.html#a7e50690fa335b759dba5ac265c9a0dd0", null ]
+    [ "ChannelID", "d6/db7/a29205.html#a51753c36711e100fd8dca1cd5b1e7e94", null ],
+    [ "flags", "d6/db7/a29205.html#aa77db644555e336ccbb8dd138c192425", null ],
+    [ "pattern", "d6/db7/a29205.html#ad8b550cf444d66eede00abcf2cefec22", null ]
 ];

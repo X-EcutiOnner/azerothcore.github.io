@@ -1,8 +1,9 @@
 var a05673 =
 [
-    [ "Decode", "d2/d92/a05673.html#aacf2a55e180aa5ee475ac76c6af4d47a", null ],
-    [ "Encode", "d2/d92/a05673.html#a51c8847dc9b75161f4d2d366324dc50f", null ],
-    [ "BITS_PER_CHAR", "d2/d92/a05673.html#a10f3736ee2ed8e79e1236798e2b1d2be", null ],
-    [ "DECODE_ERROR", "d2/d92/a05673.html#ace6b211be8a36043942f0a1aaee063b1", null ],
-    [ "PADDING", "d2/d92/a05673.html#af099d69cc636a7ad298ec9e38b2f20d2", null ]
+    [ "Count", "d2/d92/a05673.html#a05f606f459c905632d1452727bc93a0d", null ],
+    [ "GetElements", "d2/d92/a05673.html#a260f2bd14ae022a5810539ba87cec51e", null ],
+    [ "GetElements", "d2/d92/a05673.html#ab67e427fb3f82553e2253288e036d1ae", null ],
+    [ "Insert", "d2/d92/a05673.html#a791a9c0d1c878323960e529e0c7b66c8", null ],
+    [ "Remove", "d2/d92/a05673.html#abfb5e987b1c711d259896708887ca6d7", null ],
+    [ "i_elements", "d2/d92/a05673.html#a095f3a1caf74ca4e9e12ecca538a0cc4", null ]
 ];

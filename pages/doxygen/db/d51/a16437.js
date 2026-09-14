@@ -1,7 +1,6 @@
 var a16437 =
 [
-    [ "HandleEffectRemove", "db/d51/a16437.html#a45ed6d3f1c80dcef3ee6c59e744f13c6", null ],
-    [ "PrepareAuraScript", "db/d51/a16437.html#a34b88963dd81e6a8855daaedb9c238d4", null ],
-    [ "Register", "db/d51/a16437.html#a7c0533650e772713233ea45b0264cbff", null ],
-    [ "Validate", "db/d51/a16437.html#a7690603bd7b01ca6da2a73ac8ed36114", null ]
+    [ "instance_ahnkahet_InstanceScript", "d3/ddf/a16441.html", "d3/ddf/a16441" ],
+    [ "instance_ahnkahet", "db/d51/a16437.html#afbe11bc040019231878cf31cc357830b", null ],
+    [ "GetInstanceScript", "db/d51/a16437.html#a8847099c88f11de363c45e27998f10b7", null ]
 ];

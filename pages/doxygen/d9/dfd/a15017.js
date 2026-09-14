@@ -1,7 +1,9 @@
 var a15017 =
 [
-    [ "HandleEffectApply", "d9/dfd/a15017.html#a404f2134734e1d21201033b3f26e611e", null ],
-    [ "HandleEffectPeriodic", "d9/dfd/a15017.html#a8ce6799e01cf8b7849386fbdd2edddb8", null ],
-    [ "PrepareAuraScript", "d9/dfd/a15017.html#a1707f92d77a3ed7beefd499adc7f4a95", null ],
-    [ "Register", "d9/dfd/a15017.html#ad239472c15ca0c73b053d112f538ecff", null ]
+    [ "npc_love_in_air_snivel", "d9/dfd/a15017.html#ab04596fb96292f54cf2a10f662dc94a3", null ],
+    [ "AllowAction", "d9/dfd/a15017.html#af1097317f62bbb8f8456124001c73576", null ],
+    [ "MoveInLineOfSight", "d9/dfd/a15017.html#ae6537707109b95fad20e521d07867cdd", null ],
+    [ "Reset", "d9/dfd/a15017.html#a2385ea44d9f44735b193add4a0d0485b", null ],
+    [ "UpdateAI", "d9/dfd/a15017.html#a9e712994663e3442359d2f574ebc812c", null ],
+    [ "delay", "d9/dfd/a15017.html#a548db6245ef875ec47279246e437934c", null ]
 ];

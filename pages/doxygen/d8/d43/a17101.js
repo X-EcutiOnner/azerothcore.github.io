@@ -1,6 +1,9 @@
 var a17101 =
 [
-    [ "boss_icehowlAI", "d1/d8a/a17105.html", "d1/d8a/a17105" ],
-    [ "boss_icehowl", "d8/d43/a17101.html#ab3c9711fa6af17be9dc7331b42c408be", null ],
-    [ "GetAI", "d8/d43/a17101.html#ac77bf3b9d954b8c6be01d0209a80cc6a", null ]
+    [ "npc_fel_infernalAI", "d8/d43/a17101.html#a7f34b34facdfeea3fc3507ad3cf84dda", null ],
+    [ "EnterEvadeMode", "d8/d43/a17101.html#aedec8729b9be931a74fe00d1aa649848", null ],
+    [ "JustDied", "d8/d43/a17101.html#a599786069f98231eeb7f9ca809f8e671", null ],
+    [ "Reset", "d8/d43/a17101.html#a09f408c9250467228b91ef9f6c9544f4", null ],
+    [ "UpdateAI", "d8/d43/a17101.html#a45075fdaba6d7c04cb526420deb8a0ac", null ],
+    [ "events", "d8/d43/a17101.html#acf955037c246f7b5f12cc5338b300b63", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: FactoryCreatureScript&lt; AI, AIFactory &gt; Class Template Reference</title>
+<title>AzerothCore: AreaTriggerScript Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,98 +106,113 @@ $(document).ready(function(){initNavTree('d6/d77/a10769.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pro-methods">Protected Member Functions</a> &#124;
 <a href="../../dc/dc5/a10766.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">FactoryCreatureScript&lt; AI, AIFactory &gt; Class Template Reference</div></div>
+  <div class="headertitle"><div class="title">AreaTriggerScript Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">CreatureScript.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">AreaTriggerScript.h</a>&quot;</code></p>
 <div class="dynheader">
-Inheritance diagram for FactoryCreatureScript&lt; AI, AIFactory &gt;:</div>
+Inheritance diagram for AreaTriggerScript:</div>
 <div class="dyncontent">
  <div class="center">
-  <img src="../../d6/d77/a10769.png" usemap="#FactoryCreatureScript_3C_20AI_2C_20AIFactory_20_3E_map" alt=""/>
-  <map id="FactoryCreatureScript_3C_20AI_2C_20AIFactory_20_3E_map" name="FactoryCreatureScript_3C_20AI_2C_20AIFactory_20_3E_map">
-<area href="../../d9/d38/a10761.html" alt="CreatureScript" shape="rect" coords="125,56,365,80"/>
-<area href="../../d4/df5/a10913.html" alt="ScriptObject" shape="rect" coords="0,0,240,24"/>
-<area href="../../d8/daf/a10917.html" alt="UpdatableScript&lt; Creature &gt;" shape="rect" coords="250,0,490,24"/>
+  <img src="../../d6/d77/a10769.png" usemap="#AreaTriggerScript_map" alt=""/>
+  <map id="AreaTriggerScript_map" name="AreaTriggerScript_map">
+<area href="../../d0/d4f/a10961.html" alt="ScriptObject" shape="rect" coords="0,0,287,24"/>
+<area href="../../d8/d46/a28217.html" alt="AreaTrigger_at_area_52_entrance" shape="rect" coords="297,112,584,136"/>
+<area href="../../de/d25/a28213.html" alt="AreaTrigger_at_brewfest" shape="rect" coords="297,168,584,192"/>
+<area href="../../d8/dae/a21273.html" alt="AreaTrigger_at_celestial_planetarium_enterance" shape="rect" coords="297,224,584,248"/>
+<area href="../../d0/dbe/a28185.html" alt="AreaTrigger_at_coilfang_waterfall" shape="rect" coords="297,280,584,304"/>
+<area href="../../d5/d67/a28201.html" alt="AreaTrigger_at_last_rites" shape="rect" coords="297,336,584,360"/>
+<area href="../../dd/d8c/a28189.html" alt="AreaTrigger_at_legion_teleporter" shape="rect" coords="297,392,584,416"/>
+<area href="../../da/d41/a28205.html" alt="AreaTrigger_at_nats_landing" shape="rect" coords="297,448,584,472"/>
+<area href="../../d1/d19/a28197.html" alt="AreaTrigger_at_scent_larkorwi" shape="rect" coords="297,504,584,528"/>
+<area href="../../d1/ddf/a28209.html" alt="AreaTrigger_at_sentry_point" shape="rect" coords="297,560,584,584"/>
+<area href="../../dd/d1a/a28193.html" alt="AreaTrigger_at_stormwright_shelf" shape="rect" coords="297,616,584,640"/>
+<area href="../../df/d5f/a10773.html" alt="OnlyOnceAreaTriggerScript" shape="rect" coords="297,672,584,696"/>
+<area href="../../dd/da8/a06677.html" alt="SmartTrigger" shape="rect" coords="297,728,584,752"/>
+<area href="../../d8/d9d/a16065.html" alt="at_ancient_leaf" shape="rect" coords="297,784,584,808"/>
+<area href="../../db/d75/a16617.html" alt="at_baltharus_plateau" shape="rect" coords="297,840,584,864"/>
+<area href="../../d5/d6a/a15877.html" alt="at_battleguard_sartura" shape="rect" coords="297,896,584,920"/>
+<area href="../../d5/d6b/a12933.html" alt="at_blackrock_stadium" shape="rect" coords="297,952,584,976"/>
+<area href="../../d3/d9a/a14897.html" alt="at_bring_your_orphan_to" shape="rect" coords="297,1008,584,1032"/>
+<area href="../../da/dad/a24261.html" alt="at_commander_dawnforge" shape="rect" coords="297,1064,584,1088"/>
+<area href="../../d5/df8/a15733.html" alt="at_cthun_center" shape="rect" coords="297,1120,584,1144"/>
+<area href="../../d8/d47/a15729.html" alt="at_cthun_stomach_exit" shape="rect" coords="297,1176,584,1200"/>
+<area href="../../d5/ddf/a12929.html" alt="at_dragonspire_hall" shape="rect" coords="297,1232,584,1256"/>
+<area href="../../d6/d4a/a19437.html" alt="at_frozen_throne_teleport" shape="rect" coords="297,1288,584,1312"/>
+<area href="../../d3/d73/a17465.html" alt="at_hor_battered_hilt_start" shape="rect" coords="297,1344,584,1368"/>
+<area href="../../d1/d04/a17469.html" alt="at_hor_battered_hilt_throw" shape="rect" coords="297,1400,584,1424"/>
+<area href="../../d2/d9a/a17433.html" alt="at_hor_shadow_throne" shape="rect" coords="297,1456,584,1480"/>
+<area href="../../da/d14/a19417.html" alt="at_icc_gauntlet_event" shape="rect" coords="297,1512,584,1536"/>
+<area href="../../d1/d21/a19421.html" alt="at_icc_putricide_trap" shape="rect" coords="297,1568,584,1592"/>
+<area href="../../d6/d4a/a19285.html" alt="at_icc_saurfang_portal" shape="rect" coords="297,1624,584,1648"/>
+<area href="../../d8/dca/a19289.html" alt="at_icc_shutdown_traps" shape="rect" coords="297,1680,584,1704"/>
+<area href="../../d1/d8f/a19293.html" alt="at_icc_start_blood_quickening" shape="rect" coords="297,1736,584,1760"/>
+<area href="../../dd/db8/a19297.html" alt="at_icc_start_frostwing_gauntlet" shape="rect" coords="297,1792,584,1816"/>
+<area href="../../d2/d8e/a13337.html" alt="at_karazhan_atiesh_aran" shape="rect" coords="297,1848,584,1872"/>
+<area href="../../da/d2e/a13361.html" alt="at_karazhan_mirkblood_approach" shape="rect" coords="297,1904,584,1928"/>
+<area href="../../dd/dd0/a13365.html" alt="at_karazhan_mirkblood_entrance" shape="rect" coords="297,1960,584,1984"/>
+<area href="../../d8/db5/a18273.html" alt="at_lady_deathwhisper_entrance" shape="rect" coords="297,2016,584,2040"/>
+<area href="../../d5/d7d/a13725.html" alt="at_malfurion_stormrage" shape="rect" coords="297,2072,584,2096"/>
+<area href="../../da/d21/a19773.html" alt="at_naxxramas_hub_portal" shape="rect" coords="297,2128,584,2152"/>
+<area href="../../d8/d15/a13073.html" alt="at_orb_of_command" shape="rect" coords="297,2184,584,2208"/>
+<area href="../../d2/db5/a21941.html" alt="at_q24545_frostmourne_cavern" shape="rect" coords="297,2240,584,2264"/>
+<area href="../../d3/db9/a23521.html" alt="at_quagmirran_lair" shape="rect" coords="297,2296,584,2320"/>
+<area href="../../da/d97/a12753.html" alt="at_ring_of_law" shape="rect" coords="297,2352,584,2376"/>
+<area href="../../d9/d57/a12945.html" alt="at_scarshield_infiltrator" shape="rect" coords="297,2408,584,2432"/>
+<area href="../../df/d6d/a23845.html" alt="at_shattered_halls_execution" shape="rect" coords="297,2464,584,2488"/>
+<area href="../../d5/d36/a18633.html" alt="at_sindragosa_lair" shape="rect" coords="297,2520,584,2544"/>
+<area href="../../de/dca/a12913.html" alt="at_the_beast_room" shape="rect" coords="297,2576,584,2600"/>
+<area href="../../d1/dec/a12909.html" title="The beast room areatrigger, this one triggers boss pathing. (AT Id 2066)" alt="at_trigger_the_beast_movement" shape="rect" coords="297,2632,584,2656"/>
+<area href="../../dc/da3/a14041.html" alt="at_twilight_grove" shape="rect" coords="297,2688,584,2712"/>
+<area href="../../d6/dcb/a17629.html" alt="at_tyrannus_event_starter" shape="rect" coords="297,2744,584,2768"/>
+<area href="../../d0/d33/a12941.html" alt="near_scarshield_infiltrator" shape="rect" coords="297,2800,584,2824"/>
   </map>
 </div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a62cd4db9e8dd3dab606f1166fdf0ce44"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d77/a10769.html#a62cd4db9e8dd3dab606f1166fdf0ce44">FactoryCreatureScript</a> (char const *name)</td></tr>
-<tr class="separator:a62cd4db9e8dd3dab606f1166fdf0ce44"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0e491e4cda2b03456d798f6726dbde54"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/da1/a06569.html">CreatureAI</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d77/a10769.html#a0e491e4cda2b03456d798f6726dbde54">GetAI</a> (<a class="el" href="../../de/d5a/a08409.html">Creature</a> *me) const override</td></tr>
-<tr class="separator:a0e491e4cda2b03456d798f6726dbde54"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_methods_a10761"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a10761')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d9/d38/a10761.html">CreatureScript</a></td></tr>
-<tr class="memitem:af19c64d23391f8b835f79bc6cf315caa inherit pub_methods_a10761"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d38/a10761.html#af19c64d23391f8b835f79bc6cf315caa">IsDatabaseBound</a> () const override</td></tr>
-<tr class="separator:af19c64d23391f8b835f79bc6cf315caa inherit pub_methods_a10761"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6268b132444845302ada504f48629a4f inherit pub_methods_a10761"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d38/a10761.html#a6268b132444845302ada504f48629a4f">OnGossipHello</a> (<a class="el" href="../../d7/d26/a09037.html">Player</a> *, <a class="el" href="../../de/d5a/a08409.html">Creature</a> *)</td></tr>
-<tr class="separator:a6268b132444845302ada504f48629a4f inherit pub_methods_a10761"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a30f160576b4cb97d940ecf3468834667 inherit pub_methods_a10761"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d38/a10761.html#a30f160576b4cb97d940ecf3468834667">OnGossipSelect</a> (<a class="el" href="../../d7/d26/a09037.html">Player</a> *, <a class="el" href="../../de/d5a/a08409.html">Creature</a> *, <a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
-<tr class="separator:a30f160576b4cb97d940ecf3468834667 inherit pub_methods_a10761"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3cfb4f448a41e845897dfd9119a22fff inherit pub_methods_a10761"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d38/a10761.html#a3cfb4f448a41e845897dfd9119a22fff">OnGossipSelectCode</a> (<a class="el" href="../../d7/d26/a09037.html">Player</a> *, <a class="el" href="../../de/d5a/a08409.html">Creature</a> *, <a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, char const *)</td></tr>
-<tr class="separator:a3cfb4f448a41e845897dfd9119a22fff inherit pub_methods_a10761"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6b106a237886f49e523ae7b07e9c5979 inherit pub_methods_a10761"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d38/a10761.html#a6b106a237886f49e523ae7b07e9c5979">OnQuestAccept</a> (<a class="el" href="../../d7/d26/a09037.html">Player</a> *, <a class="el" href="../../de/d5a/a08409.html">Creature</a> *, <a class="el" href="../../d0/d50/a10661.html">Quest</a> const *)</td></tr>
-<tr class="separator:a6b106a237886f49e523ae7b07e9c5979 inherit pub_methods_a10761"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1e054fb61dd560aa7718d59127ad4b51 inherit pub_methods_a10761"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d38/a10761.html#a1e054fb61dd560aa7718d59127ad4b51">OnQuestSelect</a> (<a class="el" href="../../d7/d26/a09037.html">Player</a> *, <a class="el" href="../../de/d5a/a08409.html">Creature</a> *, <a class="el" href="../../d0/d50/a10661.html">Quest</a> const *)</td></tr>
-<tr class="separator:a1e054fb61dd560aa7718d59127ad4b51 inherit pub_methods_a10761"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4d39c9b2edbbbc2ae08b5cdcc95b4d7b inherit pub_methods_a10761"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d38/a10761.html#a4d39c9b2edbbbc2ae08b5cdcc95b4d7b">OnQuestComplete</a> (<a class="el" href="../../d7/d26/a09037.html">Player</a> *, <a class="el" href="../../de/d5a/a08409.html">Creature</a> *, <a class="el" href="../../d0/d50/a10661.html">Quest</a> const *)</td></tr>
-<tr class="separator:a4d39c9b2edbbbc2ae08b5cdcc95b4d7b inherit pub_methods_a10761"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aba2be0f342cb9811bd0ebee954d7d36e inherit pub_methods_a10761"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d38/a10761.html#aba2be0f342cb9811bd0ebee954d7d36e">OnQuestReward</a> (<a class="el" href="../../d7/d26/a09037.html">Player</a> *, <a class="el" href="../../de/d5a/a08409.html">Creature</a> *, <a class="el" href="../../d0/d50/a10661.html">Quest</a> const *, <a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
-<tr class="separator:aba2be0f342cb9811bd0ebee954d7d36e inherit pub_methods_a10761"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a41562245c4a44843363d6b0ce32ce48d inherit pub_methods_a10761"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d38/a10761.html#a41562245c4a44843363d6b0ce32ce48d">GetDialogStatus</a> (<a class="el" href="../../d7/d26/a09037.html">Player</a> *, <a class="el" href="../../de/d5a/a08409.html">Creature</a> *)</td></tr>
-<tr class="separator:a41562245c4a44843363d6b0ce32ce48d inherit pub_methods_a10761"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a24ba3529655943afdf6598450d14e6c2 inherit pub_methods_a10761"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="../../d7/da1/a06569.html">CreatureAI</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d38/a10761.html#a24ba3529655943afdf6598450d14e6c2">GetAI</a> (<a class="el" href="../../de/d5a/a08409.html">Creature</a> *) const</td></tr>
-<tr class="separator:a24ba3529655943afdf6598450d14e6c2 inherit pub_methods_a10761"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a316efb5c026588eb4bce8a0ce6b5cc0f inherit pub_methods_a10761"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d38/a10761.html#a316efb5c026588eb4bce8a0ce6b5cc0f">OnFfaPvpStateUpdate</a> (<a class="el" href="../../de/d5a/a08409.html">Creature</a> *, bool)</td></tr>
-<tr class="separator:a316efb5c026588eb4bce8a0ce6b5cc0f inherit pub_methods_a10761"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_methods_a10913"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a10913')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d4/df5/a10913.html">ScriptObject</a></td></tr>
-<tr class="memitem:a37da453729d5c8fbe2d06f905563f47c inherit pub_methods_a10913"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/df5/a10913.html#a37da453729d5c8fbe2d06f905563f47c">IsDatabaseBound</a> () const</td></tr>
-<tr class="separator:a37da453729d5c8fbe2d06f905563f47c inherit pub_methods_a10913"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2f66339b1cdf1fde795c61cd24c8b0a2 inherit pub_methods_a10913"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/df5/a10913.html#a2f66339b1cdf1fde795c61cd24c8b0a2">isAfterLoadScript</a> () const</td></tr>
-<tr class="separator:a2f66339b1cdf1fde795c61cd24c8b0a2 inherit pub_methods_a10913"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a585e75e34aed7aa32205daad85f8fe08 inherit pub_methods_a10913"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/df5/a10913.html#a585e75e34aed7aa32205daad85f8fe08">checkValidity</a> ()</td></tr>
-<tr class="separator:a585e75e34aed7aa32205daad85f8fe08 inherit pub_methods_a10913"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3f66eb7597f020167b7d75202d28b83a inherit pub_methods_a10913"><td class="memItemLeft" align="right" valign="top">std::string const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/df5/a10913.html#a3f66eb7597f020167b7d75202d28b83a">GetName</a> () const</td></tr>
-<tr class="separator:a3f66eb7597f020167b7d75202d28b83a inherit pub_methods_a10913"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a69ee35ec7d54226264efef558022c1c0 inherit pub_methods_a10913"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/df5/a10913.html#a69ee35ec7d54226264efef558022c1c0">GetTotalAvailableHooks</a> ()</td></tr>
-<tr class="separator:a69ee35ec7d54226264efef558022c1c0 inherit pub_methods_a10913"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_methods_a10917"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a10917')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d8/daf/a10917.html">UpdatableScript&lt; Creature &gt;</a></td></tr>
-<tr class="memitem:abf328325e08aa0d6adf36e6f70b02328 inherit pub_methods_a10917"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/daf/a10917.html#abf328325e08aa0d6adf36e6f70b02328">OnUpdate</a> (<a class="el" href="../../de/d5a/a08409.html">Creature</a> *, <a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
-<tr class="separator:abf328325e08aa0d6adf36e6f70b02328 inherit pub_methods_a10917"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac5234a2cd020cd8f90b6d19c28ad46ae"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d77/a10769.html#ac5234a2cd020cd8f90b6d19c28ad46ae">IsDatabaseBound</a> () const override</td></tr>
+<tr class="separator:ac5234a2cd020cd8f90b6d19c28ad46ae"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abb6cdada718e9fad7da98fbb667c6d53"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d77/a10769.html#abb6cdada718e9fad7da98fbb667c6d53">OnTrigger</a> (<a class="el" href="../../d9/dbe/a09085.html">Player</a> *, <a class="el" href="../../d4/d03/a09449.html">AreaTrigger</a> const *)</td></tr>
+<tr class="separator:abb6cdada718e9fad7da98fbb667c6d53"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_methods_a10961"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a10961')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d0/d4f/a10961.html">ScriptObject</a></td></tr>
+<tr class="memitem:a37da453729d5c8fbe2d06f905563f47c inherit pub_methods_a10961"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d4f/a10961.html#a37da453729d5c8fbe2d06f905563f47c">IsDatabaseBound</a> () const</td></tr>
+<tr class="separator:a37da453729d5c8fbe2d06f905563f47c inherit pub_methods_a10961"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2f66339b1cdf1fde795c61cd24c8b0a2 inherit pub_methods_a10961"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d4f/a10961.html#a2f66339b1cdf1fde795c61cd24c8b0a2">isAfterLoadScript</a> () const</td></tr>
+<tr class="separator:a2f66339b1cdf1fde795c61cd24c8b0a2 inherit pub_methods_a10961"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a585e75e34aed7aa32205daad85f8fe08 inherit pub_methods_a10961"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d4f/a10961.html#a585e75e34aed7aa32205daad85f8fe08">checkValidity</a> ()</td></tr>
+<tr class="separator:a585e75e34aed7aa32205daad85f8fe08 inherit pub_methods_a10961"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3f66eb7597f020167b7d75202d28b83a inherit pub_methods_a10961"><td class="memItemLeft" align="right" valign="top">std::string const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d4f/a10961.html#a3f66eb7597f020167b7d75202d28b83a">GetName</a> () const</td></tr>
+<tr class="separator:a3f66eb7597f020167b7d75202d28b83a inherit pub_methods_a10961"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a69ee35ec7d54226264efef558022c1c0 inherit pub_methods_a10961"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/dca/a04670.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d4f/a10961.html#a69ee35ec7d54226264efef558022c1c0">GetTotalAvailableHooks</a> ()</td></tr>
+<tr class="separator:a69ee35ec7d54226264efef558022c1c0 inherit pub_methods_a10961"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="inherited" name="inherited"></a>
-Additional Inherited Members</h2></td></tr>
-<tr class="inherit_header pro_methods_a10761"><td colspan="2" onclick="javascript:toggleInherit('pro_methods_a10761')"><img src="../../closed.png" alt="-"/>&#160;Protected Member Functions inherited from <a class="el" href="../../d9/d38/a10761.html">CreatureScript</a></td></tr>
-<tr class="memitem:ae3f271ebb0a1fc4dca17856ef9a891ea inherit pro_methods_a10761"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d38/a10761.html#ae3f271ebb0a1fc4dca17856ef9a891ea">CreatureScript</a> (char const *name)</td></tr>
-<tr class="separator:ae3f271ebb0a1fc4dca17856ef9a891ea inherit pro_methods_a10761"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pro_methods_a10913"><td colspan="2" onclick="javascript:toggleInherit('pro_methods_a10913')"><img src="../../closed.png" alt="-"/>&#160;Protected Member Functions inherited from <a class="el" href="../../d4/df5/a10913.html">ScriptObject</a></td></tr>
-<tr class="memitem:a494e983ccabd1d2311fe3afe0c2afbe5 inherit pro_methods_a10913"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/df5/a10913.html#a494e983ccabd1d2311fe3afe0c2afbe5">ScriptObject</a> (char const *name, <a class="el" href="../../d0/d5e/a04655.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> totalAvailableHooks=0)</td></tr>
-<tr class="separator:a494e983ccabd1d2311fe3afe0c2afbe5 inherit pro_methods_a10913"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a80c704c939f54eee6655d68509598c42 inherit pro_methods_a10913"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/df5/a10913.html#a80c704c939f54eee6655d68509598c42">~ScriptObject</a> ()=default</td></tr>
-<tr class="separator:a80c704c939f54eee6655d68509598c42 inherit pro_methods_a10913"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pro_methods_a10917"><td colspan="2" onclick="javascript:toggleInherit('pro_methods_a10917')"><img src="../../closed.png" alt="-"/>&#160;Protected Member Functions inherited from <a class="el" href="../../d8/daf/a10917.html">UpdatableScript&lt; Creature &gt;</a></td></tr>
-<tr class="memitem:a2d6cf85d1eb98438b5022804296eff11 inherit pro_methods_a10917"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/daf/a10917.html#a2d6cf85d1eb98438b5022804296eff11">UpdatableScript</a> ()=default</td></tr>
-<tr class="separator:a2d6cf85d1eb98438b5022804296eff11 inherit pro_methods_a10917"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-methods" name="pro-methods"></a>
+Protected Member Functions</h2></td></tr>
+<tr class="memitem:a8544003872aa5871ee4132e5155ed297"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d77/a10769.html#a8544003872aa5871ee4132e5155ed297">AreaTriggerScript</a> (char const *name)</td></tr>
+<tr class="separator:a8544003872aa5871ee4132e5155ed297"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pro_methods_a10961"><td colspan="2" onclick="javascript:toggleInherit('pro_methods_a10961')"><img src="../../closed.png" alt="-"/>&#160;Protected Member Functions inherited from <a class="el" href="../../d0/d4f/a10961.html">ScriptObject</a></td></tr>
+<tr class="memitem:a494e983ccabd1d2311fe3afe0c2afbe5 inherit pro_methods_a10961"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d4f/a10961.html#a494e983ccabd1d2311fe3afe0c2afbe5">ScriptObject</a> (char const *name, <a class="el" href="../../d8/dca/a04670.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> totalAvailableHooks=0)</td></tr>
+<tr class="separator:a494e983ccabd1d2311fe3afe0c2afbe5 inherit pro_methods_a10961"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a80c704c939f54eee6655d68509598c42 inherit pro_methods_a10961"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d4f/a10961.html#a80c704c939f54eee6655d68509598c42">~ScriptObject</a> ()=default</td></tr>
+<tr class="separator:a80c704c939f54eee6655d68509598c42 inherit pro_methods_a10961"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><div class="compoundTemplParams">template&lt;class AI, AI *(*)(<a class="el" href="../../de/d5a/a08409.html">Creature</a> *) AIFactory&gt;<br />
-class FactoryCreatureScript&lt; AI, AIFactory &gt;</div></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a62cd4db9e8dd3dab606f1166fdf0ce44" name="a62cd4db9e8dd3dab606f1166fdf0ce44"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a62cd4db9e8dd3dab606f1166fdf0ce44">&#9670;&#160;</a></span>FactoryCreatureScript()</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a8544003872aa5871ee4132e5155ed297" name="a8544003872aa5871ee4132e5155ed297"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8544003872aa5871ee4132e5155ed297">&#9670;&#160;</a></span>AreaTriggerScript()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class AI , AI *(*)(<a class="el" href="../../de/d5a/a08409.html">Creature</a> *) AIFactory&gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d6/d77/a10769.html">FactoryCreatureScript</a>&lt; AI, AIFactory &gt;<a class="el" href="../../d6/d77/a10769.html">::FactoryCreatureScript</a> </td>
+          <td class="memname">AreaTriggerScript::AreaTriggerScript </td>
           <td>(</td>
           <td class="paramtype">char const *&#160;</td>
           <td class="paramname"><em>name</em></td><td>)</td>
@@ -206,32 +221,35 @@ template&lt;class AI , AI *(*)(<a class="el" href="../../de/d5a/a08409.html">Cre
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   77</span>: <a class="code hl_class" href="../../d9/d38/a10761.html">CreatureScript</a>(name) { }</div>
-<div class="ttc" id="aa10761_html"><div class="ttname"><a href="../../d9/d38/a10761.html">CreatureScript</a></div><div class="ttdef"><b>Definition:</b> CreatureScript.h:25</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   44</span>    : <a class="code hl_class" href="../../d0/d4f/a10961.html">ScriptObject</a>(name)</div>
+<div class="line"><span class="lineno">   45</span>{</div>
+<div class="line"><span class="lineno">   46</span>    <a class="code hl_function" href="../../dc/d55/a10957.html#a4a25c0e3b90f6af4563baf0e7a1c0622">ScriptRegistry&lt;AreaTriggerScript&gt;::AddScript</a>(<span class="keyword">this</span>);</div>
+<div class="line"><span class="lineno">   47</span>}</div>
+<div class="ttc" id="aa10957_html_a4a25c0e3b90f6af4563baf0e7a1c0622"><div class="ttname"><a href="../../dc/d55/a10957.html#a4a25c0e3b90f6af4563baf0e7a1c0622">ScriptRegistry::AddScript</a></div><div class="ttdeci">static void AddScript(TScript *const script, std::vector&lt; uint16 &gt; enabledHooks={})</div><div class="ttdef"><b>Definition:</b> ScriptMgr.h:786</div></div>
+<div class="ttc" id="aa10961_html"><div class="ttname"><a href="../../d0/d4f/a10961.html">ScriptObject</a></div><div class="ttdef"><b>Definition:</b> ScriptObject.h:43</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00786">ScriptRegistry&lt; TScript &gt;::AddScript()</a>.</p>
+
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a0e491e4cda2b03456d798f6726dbde54" name="a0e491e4cda2b03456d798f6726dbde54"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0e491e4cda2b03456d798f6726dbde54">&#9670;&#160;</a></span>GetAI()</h2>
+<a id="ac5234a2cd020cd8f90b6d19c28ad46ae" name="ac5234a2cd020cd8f90b6d19c28ad46ae"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac5234a2cd020cd8f90b6d19c28ad46ae">&#9670;&#160;</a></span>IsDatabaseBound()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class AI , AI *(*)(<a class="el" href="../../de/d5a/a08409.html">Creature</a> *) AIFactory&gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d7/da1/a06569.html">CreatureAI</a> * <a class="el" href="../../d6/d77/a10769.html">FactoryCreatureScript</a>&lt; AI, AIFactory &gt;::GetAI </td>
+          <td class="memname">bool AreaTriggerScript::IsDatabaseBound </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../de/d5a/a08409.html">Creature</a> *&#160;</td>
-          <td class="paramname"><em>me</em></td><td>)</td>
+          <td class="paramname"></td><td>)</td>
           <td> const</td>
         </tr>
       </table>
@@ -242,8 +260,47 @@ template&lt;class AI , AI *(*)(<a class="el" href="../../de/d5a/a08409.html">Cre
 </table>
 </div><div class="memdoc">
 
-<p>Reimplemented from <a class="el" href="../../d9/d38/a10761.html#a24ba3529655943afdf6598450d14e6c2">CreatureScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   78</span>{ <span class="keywordflow">return</span> AIFactory(me); }</div>
+<p>Reimplemented from <a class="el" href="../../d0/d4f/a10961.html#a37da453729d5c8fbe2d06f905563f47c">ScriptObject</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">   29</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="abb6cdada718e9fad7da98fbb667c6d53" name="abb6cdada718e9fad7da98fbb667c6d53"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abb6cdada718e9fad7da98fbb667c6d53">&#9670;&#160;</a></span>OnTrigger()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual bool AreaTriggerScript::OnTrigger </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d9/dbe/a09085.html">Player</a> *&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d4/d03/a09449.html">AreaTrigger</a> const *&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Reimplemented in <a class="el" href="../../df/d5f/a10773.html#a4ac7e4963d36c8163a560dc8401b5f34">OnlyOnceAreaTriggerScript</a>, <a class="el" href="../../da/d97/a12753.html#a650536f556e248944921a09a110ef414">at_ring_of_law</a>, <a class="el" href="../../d1/dec/a12909.html#a333d685d765497a950fde35067d876a1">at_trigger_the_beast_movement</a>, <a class="el" href="../../de/dca/a12913.html#a366c5e35c4030f998404886f1526ae37">at_the_beast_room</a>, <a class="el" href="../../d5/ddf/a12929.html#a1a7bd95653e84b7fd436d71c162c087e">at_dragonspire_hall</a>, <a class="el" href="../../d5/d6b/a12933.html#a691b4614d6f28733f01a38d8420b823b">at_blackrock_stadium</a>, <a class="el" href="../../d0/d33/a12941.html#a59c0e7bcddabbbbecb32f38434899144">near_scarshield_infiltrator</a>, <a class="el" href="../../d9/d57/a12945.html#aa3af260809534e3184459dfb6f8f7cf0">at_scarshield_infiltrator</a>, <a class="el" href="../../d8/d15/a13073.html#a8d30d303c72d5eaf59222c890ab13ca3">at_orb_of_command</a>, <a class="el" href="../../d2/d8e/a13337.html#a5a6646c573b6e0bab0cbc288e594979e">at_karazhan_atiesh_aran</a>, <a class="el" href="../../da/d2e/a13361.html#aaece848faa4f1086ac0b16802a1e765e">at_karazhan_mirkblood_approach</a>, <a class="el" href="../../dd/dd0/a13365.html#ad99c85de36a369752fa61bab761a402e">at_karazhan_mirkblood_entrance</a>, <a class="el" href="../../d5/d7d/a13725.html#aaeae64b901ee7b0752425e35af9f4af6">at_malfurion_stormrage</a>, <a class="el" href="../../dc/da3/a14041.html#a3fd9a73bf917b34932438b06fe572623">at_twilight_grove</a>, <a class="el" href="../../d8/d47/a15729.html#ab56dca3fe200dc7822459a22912247bf">at_cthun_stomach_exit</a>, <a class="el" href="../../d5/df8/a15733.html#af744df9577e84ab64749076324e574c9">at_cthun_center</a>, <a class="el" href="../../d5/d6a/a15877.html#ae4313968b247a65c3a075b090cd3d5e9">at_battleguard_sartura</a>, <a class="el" href="../../d8/d9d/a16065.html#a6d3a2775216cb0c864dc21f5bb5dbc79">at_ancient_leaf</a>, <a class="el" href="../../db/d75/a16617.html#aea08e30eb57d5d84b78b8891c4a45afb">at_baltharus_plateau</a>, <a class="el" href="../../d2/d9a/a17433.html#a47deb4d6506e859d90fcf16d72e43d9c">at_hor_shadow_throne</a>, <a class="el" href="../../d3/d73/a17465.html#a5d2d0a05b17dafe7ebb5447cfd168f69">at_hor_battered_hilt_start</a>, <a class="el" href="../../d1/d04/a17469.html#a30c72b4dc7e48fc87374cbfc2cdf0f50">at_hor_battered_hilt_throw</a>, <a class="el" href="../../d6/dcb/a17629.html#adccf396220ef7de47e7afeca791de894">at_tyrannus_event_starter</a>, <a class="el" href="../../d8/db5/a18273.html#a769c838c94a88af5492057909d88f3de">at_lady_deathwhisper_entrance</a>, <a class="el" href="../../d5/d36/a18633.html#a07074bff20272042ed05be83dd818ee9">at_sindragosa_lair</a>, <a class="el" href="../../d6/d4a/a19285.html#a8980fe0e67aa33335f0fdb947a294213">at_icc_saurfang_portal</a>, <a class="el" href="../../d8/dca/a19289.html#abb31b3f6d0b159b625d731ac47127005">at_icc_shutdown_traps</a>, <a class="el" href="../../d1/d8f/a19293.html#a814670e127b1eace6068a553b23d00f7">at_icc_start_blood_quickening</a>, <a class="el" href="../../dd/db8/a19297.html#a7137166f281876f00d4e03c846875d85">at_icc_start_frostwing_gauntlet</a>, <a class="el" href="../../da/d14/a19417.html#a9329ec078db088b1c13144ac7ed7a13a">at_icc_gauntlet_event</a>, <a class="el" href="../../d1/d21/a19421.html#ad59c2f694c50fabf1946d2c7ae726413">at_icc_putricide_trap</a>, <a class="el" href="../../d6/d4a/a19437.html#ae1f9476b7f47320f545e702e9317bd03">at_frozen_throne_teleport</a>, <a class="el" href="../../da/d21/a19773.html#af967b0f61b3257c8b8d802d4ed3af1da">at_naxxramas_hub_portal</a>, <a class="el" href="../../d8/dae/a21273.html#aa7aa93e00170313de251af4e562c422c">AreaTrigger_at_celestial_planetarium_enterance</a>, <a class="el" href="../../d2/db5/a21941.html#a9016ef31fde1bbcaf57a17e64ea8d503">at_q24545_frostmourne_cavern</a>, <a class="el" href="../../d3/db9/a23521.html#aa0aab42516efaf842923b8a820942ac4">at_quagmirran_lair</a>, <a class="el" href="../../df/d6d/a23845.html#ad35f9736371b091dc0780e5bf0caf9f5">at_shattered_halls_execution</a>, <a class="el" href="../../da/dad/a24261.html#a240a2a8a3de913c840c0a14fa4427e7e">at_commander_dawnforge</a>, <a class="el" href="../../d0/dbe/a28185.html#aea1c4b45ae855d0cda81dbad102b8104">AreaTrigger_at_coilfang_waterfall</a>, <a class="el" href="../../dd/d8c/a28189.html#ae8239e5ad56d93627102dbd02989353d">AreaTrigger_at_legion_teleporter</a>, <a class="el" href="../../dd/d1a/a28193.html#ab635f9328b35f3570211cf6ffc60a4c6">AreaTrigger_at_stormwright_shelf</a>, <a class="el" href="../../d1/d19/a28197.html#aeeb339afa5a7dd4b028aea800026998e">AreaTrigger_at_scent_larkorwi</a>, <a class="el" href="../../da/d41/a28205.html#a67434f74300fa3463e679afb7d344467">AreaTrigger_at_nats_landing</a>, <a class="el" href="../../d1/ddf/a28209.html#ab59fb74f4f988c208359855d2e4d9918">AreaTrigger_at_sentry_point</a>, <a class="el" href="../../dd/da8/a06677.html#a713066a301e22e7744b3f82a1ca134ed">SmartTrigger</a>, <a class="el" href="../../d3/d9a/a14897.html#af5cb73f6ba0657eff8809711a5dba84c">at_bring_your_orphan_to</a>, <a class="el" href="../../d5/d67/a28201.html#a48f6e2041cda24812a165fa0fb62f1b6">AreaTrigger_at_last_rites</a>, <a class="el" href="../../de/d25/a28213.html#a17e4a8d671136466c7673789e4f69a84">AreaTrigger_at_brewfest</a>, and <a class="el" href="../../d8/d46/a28217.html#a1e537d133ee5e6ad1dbb0c732e23a128">AreaTrigger_at_area_52_entrance</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">   32</span>{ <span class="keywordflow">return</span> <span class="keyword">false</span>; }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -252,8 +309,8 @@ template&lt;class AI , AI *(*)(<a class="el" href="../../de/d5a/a08409.html">Cre
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d6/d77/a10769.html">FactoryCreatureScript</a></li>
-    <li class="footer">Generated on Mon Sep 7 2026 23:04:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d6/d77/a10769.html">AreaTriggerScript</a></li>
+    <li class="footer">Generated on Mon Sep 14 2026 23:33:27 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

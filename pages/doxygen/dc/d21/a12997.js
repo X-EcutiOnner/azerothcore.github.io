@@ -1,6 +1,7 @@
 var a12997 =
 [
-    [ "HandleOnHit", "dc/d21/a12997.html#a804097903354ab3a730f0fe3eb5ec863", null ],
-    [ "PrepareSpellScript", "dc/d21/a12997.html#aea221ad6fb1a30bec6fee0c3a67d01b0", null ],
-    [ "Register", "dc/d21/a12997.html#a53bed6f1af71fd309a04bc004d07be80", null ]
+    [ "ClassCallSelector", "dc/d21/a12997.html#a223895c97121b0727aac258c12c89e0b", null ],
+    [ "operator()", "dc/d21/a12997.html#ab0d2ab1d94d72c6a202ed0cb2900dd2e", null ],
+    [ "_me", "dc/d21/a12997.html#a5347a24609a21ae0a342682104b1dc14", null ],
+    [ "_targetClass", "dc/d21/a12997.html#a7ce861956ec8d216d2f8cba82c69ea50", null ]
 ];

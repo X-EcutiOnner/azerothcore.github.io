@@ -1,6 +1,7 @@
 var a21169 =
 [
-    [ "instance_ulduar_InstanceMapScript", "d5/df6/a21173.html", "d5/df6/a21173" ],
-    [ "instance_ulduar", "de/d76/a21169.html#a32c2a76d1cd20f2ad1ab441eafe1b682", null ],
-    [ "GetInstanceScript", "de/d76/a21169.html#ae263428f4229c75b22f990dabe6b3c06", null ]
+    [ "HandleEffectCalcPeriodic", "de/d76/a21169.html#af01eb94174952de52615734055b17c1a", null ],
+    [ "HandleEffectPeriodic", "de/d76/a21169.html#a87b4517a6ad8630027ab2c3534b9fb8c", null ],
+    [ "PrepareAuraScript", "de/d76/a21169.html#a95bd054accb5b72c4cfb12caccf0e004", null ],
+    [ "Register", "de/d76/a21169.html#a2d506669ddc4c84e9ae3eb1746eadce1", null ]
 ];

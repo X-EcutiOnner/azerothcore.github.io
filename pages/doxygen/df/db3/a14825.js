@@ -1,11 +1,10 @@
 var a14825 =
 [
-    [ "npc_high_oracle_soo_roo", "df/db3/a14825.html#a86f5f3c3869e9fa7afcfc9425dfdfdde", null ],
-    [ "MoveInLineOfSight", "df/db3/a14825.html#ae3b4da2d6b888cf6325bb93b3fdbde7f", null ],
-    [ "Reset", "df/db3/a14825.html#a89a60a83a46e0095045b2353e50483ed", null ],
-    [ "UpdateAI", "df/db3/a14825.html#ac22cfa519e478da643a51ae887f306fd", null ],
-    [ "orphanGUID", "df/db3/a14825.html#acd6636eb290a2fe4470b04d467ff7fa1", null ],
-    [ "phase", "df/db3/a14825.html#abeec923d25d21773f9d8f8ba1deb0148", null ],
-    [ "playerGUID", "df/db3/a14825.html#a329832491f86c6fcc9ccc4c98b19991e", null ],
-    [ "timer", "df/db3/a14825.html#aa5238d3ee361374681947de874391a1f", null ]
+    [ "npc_coren_direbrew_sisters", "df/db3/a14825.html#a415ea0ebd044236f5f4c4d6c28896e00", null ],
+    [ "GetGUID", "df/db3/a14825.html#a61863117e71ebfb7f1c4c83780ece7bc", null ],
+    [ "JustEngagedWith", "df/db3/a14825.html#a34e0b6af032240c152c463c221d99335", null ],
+    [ "SetGUID", "df/db3/a14825.html#a8b25691671f4a65e990e9f39c92214ae", null ],
+    [ "UpdateAI", "df/db3/a14825.html#a7434b08d12d3f0902d1944b75323560c", null ],
+    [ "_scheduler", "df/db3/a14825.html#a9d8ca85e7bbd3cc9c61c2bbb38b7d222", null ],
+    [ "_targetGUID", "df/db3/a14825.html#a801a6811124a7db3a31ec492ef954b20", null ]
 ];

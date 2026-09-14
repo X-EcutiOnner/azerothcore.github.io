@@ -1,36 +1,20 @@
 var a00947 =
 [
-    [ "BfCapturePoint", "db/dc8/a07569.html", "db/dc8/a07569" ],
-    [ "BfGraveyard", "df/d40/a07573.html", "df/d40/a07573" ],
-    [ "Battlefield", "d3/d43/a07577.html", "d3/d43/a07577" ],
-    [ "GraveyardVect", "d3/d29/a00947.html#a9d81160ef5262b2f7a9dc65170d7f3e5", null ],
-    [ "PlayerTimerMap", "d3/d29/a00947.html#afedbb171b4e4bd0bce549b015440ce95", null ],
-    [ "BattlefieldIDs", "d3/d29/a00947.html#aff53bf428d550c270744c9a188d4187f", [
-      [ "BATTLEFIELD_BATTLEID_WG", "d3/d29/a00947.html#aff53bf428d550c270744c9a188d4187fa38e75e8c40750cb29f0d478d19974010", null ]
-    ] ],
-    [ "BattlefieldObjectiveStates", "d3/d29/a00947.html#af6db5a1d93982b261639cd12634a2798", [
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL", "d3/d29/a00947.html#af6db5a1d93982b261639cd12634a2798afafb6299c9f30c2bd0d2caac21577178", null ],
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_ALLIANCE", "d3/d29/a00947.html#af6db5a1d93982b261639cd12634a2798ac05149e43f48e8fbe687c2cb48a88ac7", null ],
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_HORDE", "d3/d29/a00947.html#af6db5a1d93982b261639cd12634a2798a683078aa231d432a72923b9eff4d5a29", null ],
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL_ALLIANCE_CHALLENGE", "d3/d29/a00947.html#af6db5a1d93982b261639cd12634a2798a47f8021bf59a901b2a512d28cc044c7f", null ],
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL_HORDE_CHALLENGE", "d3/d29/a00947.html#af6db5a1d93982b261639cd12634a2798a28c520f0b5997a10c6e8c040d803a9d5", null ],
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_ALLIANCE_HORDE_CHALLENGE", "d3/d29/a00947.html#af6db5a1d93982b261639cd12634a2798a9c9e1d966e139a18ba54ee2c2fa0bc2b", null ],
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_HORDE_ALLIANCE_CHALLENGE", "d3/d29/a00947.html#af6db5a1d93982b261639cd12634a2798af7b31d0894d6b9bd950d9a48c86da7c4", null ]
-    ] ],
-    [ "BattlefieldSounds", "d3/d29/a00947.html#a7c3836172413cb3b2cdabeb20b99f1b4", [
-      [ "BF_HORDE_WINS", "d3/d29/a00947.html#a7c3836172413cb3b2cdabeb20b99f1b4af85d42c135f0c26853ba8465193e8f3a", null ],
-      [ "BF_ALLIANCE_WINS", "d3/d29/a00947.html#a7c3836172413cb3b2cdabeb20b99f1b4ae1455c543e0df55993ddfe9e73cdc138", null ],
-      [ "BF_START", "d3/d29/a00947.html#a7c3836172413cb3b2cdabeb20b99f1b4a586da22ef0e5767a451125b0ca064007", null ]
-    ] ],
-    [ "BattlefieldTimerGroups", "d3/d29/a00947.html#a77a99318a19e388592eb16534ef2005a", [
-      [ "BATTLEFIELD_TIMER_GROUP_RESURRECT", "d3/d29/a00947.html#a77a99318a19e388592eb16534ef2005aa2af7f1dd6b4f9748b1f6b523cb6ac117", null ],
-      [ "BATTLEFIELD_TIMER_GROUP_WAR", "d3/d29/a00947.html#a77a99318a19e388592eb16534ef2005aac21d9aa508e0c587d18daaf8fbdf7cf2", null ],
-      [ "BATTLEFIELD_TIMER_GROUP_SAVE", "d3/d29/a00947.html#a77a99318a19e388592eb16534ef2005aac940a59178a27dc5a2e77238ca2efd55", null ]
-    ] ],
-    [ "BattlefieldTypes", "d3/d29/a00947.html#a6f435417da35c7d1b51c95e516fc6b2d", [
-      [ "BATTLEFIELD_WG", "d3/d29/a00947.html#a6f435417da35c7d1b51c95e516fc6b2da1fc74ab91b471d0c59f02fea08cb2efd", null ],
-      [ "BATTLEFIELD_TB", "d3/d29/a00947.html#a6f435417da35c7d1b51c95e516fc6b2daf6a0681946ddb59a6623fb1d76f4f610", null ]
-    ] ],
-    [ "BATTLEFIELD_OBJECTIVE_UPDATE_INTERVAL", "d3/d29/a00947.html#a79df696836c3edc53ca1868aab7f6e76", null ],
-    [ "BattlefieldFactions", "d3/d29/a00947.html#af5e231859535c4e1e6bd27ee42753f63", null ]
+    [ "lfg::LfgQueueData", "d8/d5f/a08433.html", "d8/d5f/a08433" ],
+    [ "lfg::LfgWaitTime", "d6/d27/a08437.html", "d6/d27/a08437" ],
+    [ "lfg::LFGQueue", "da/d7a/a08441.html", "da/d7a/a08441" ],
+    [ "LfgCompatibleContainer", "d3/d29/a00947.html#a96438cca4cead6c1fc5d31ef643129e9", null ],
+    [ "LfgQueueDataContainer", "d3/d29/a00947.html#aa2afec59ce753c11c3d8fddf4fb33991", null ],
+    [ "LfgWaitTimesContainer", "d3/d29/a00947.html#a58714a43cbdc03f4008681528fb20447", null ],
+    [ "LfgCompatibility", "d3/d29/a00947.html#a33c5b3513de4cd3c5a525f31008618b6", [
+      [ "LFG_COMPATIBILITY_PENDING", "d3/d29/a00947.html#a33c5b3513de4cd3c5a525f31008618b6a9bd6f6c66c07537c541c6cf47da9311a", null ],
+      [ "LFG_INCOMPATIBLES_WRONG_GROUP_SIZE", "d3/d29/a00947.html#a33c5b3513de4cd3c5a525f31008618b6ab6f6918e09882dce7eb53394dc960123", null ],
+      [ "LFG_INCOMPATIBLES_TOO_MUCH_PLAYERS", "d3/d29/a00947.html#a33c5b3513de4cd3c5a525f31008618b6aab66f0e7b36ded30473ed953e96346a1", null ],
+      [ "LFG_INCOMPATIBLES_MULTIPLE_LFG_GROUPS", "d3/d29/a00947.html#a33c5b3513de4cd3c5a525f31008618b6a5c52733040385425e0b4fafbbe962c57", null ],
+      [ "LFG_INCOMPATIBLES_HAS_IGNORES", "d3/d29/a00947.html#a33c5b3513de4cd3c5a525f31008618b6a232b96c8bc336a74ef0d50fe5092b21b", null ],
+      [ "LFG_INCOMPATIBLES_NO_ROLES", "d3/d29/a00947.html#a33c5b3513de4cd3c5a525f31008618b6ad009d10da76a97578ce600e26e253a63", null ],
+      [ "LFG_INCOMPATIBLES_NO_DUNGEONS", "d3/d29/a00947.html#a33c5b3513de4cd3c5a525f31008618b6a6db8294000b56babf9050ec1fa80bd33", null ],
+      [ "LFG_COMPATIBLES_WITH_LESS_PLAYERS", "d3/d29/a00947.html#a33c5b3513de4cd3c5a525f31008618b6a226ddd4cf32244952984c339a149c93e", null ],
+      [ "LFG_COMPATIBLES_MATCH", "d3/d29/a00947.html#a33c5b3513de4cd3c5a525f31008618b6a9dc8d1185a27e48d0f6953fccaa49ba0", null ]
+    ] ]
 ];

@@ -1,8 +1,6 @@
 var a20465 =
 [
-    [ "npc_ulduar_flash_freeze", "d7/d42/a20465.html#a3ee1762e2e3a8a180cb38fad26b70002", null ],
-    [ "DamageTaken", "d7/d42/a20465.html#af381d671e1b64c6135ed6c76b1eef213", null ],
-    [ "UpdateAI", "d7/d42/a20465.html#a2e3d6fdf6366b71b6696e567da912c1d", null ],
-    [ "_instance", "d7/d42/a20465.html#ab02f8319a4f2aa0b6c9e5a0134de73fc", null ],
-    [ "timer", "d7/d42/a20465.html#a016272492e1843b09c7c8b40537a463a", null ]
+    [ "HandleScript", "d7/d42/a20465.html#a269167ff78ae3110193f7cfe4b4c0ef4", null ],
+    [ "PrepareSpellScript", "d7/d42/a20465.html#a79975a7f3e523c0feb87d3e084f98808", null ],
+    [ "Register", "d7/d42/a20465.html#aec017333dfc19701472dad3987538e69", null ]
 ];

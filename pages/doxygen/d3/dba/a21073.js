@@ -1,8 +1,9 @@
 var a21073 =
 [
-    [ "FilterTargets", "d3/dba/a21073.html#a3d92ca79a15efaff3c4dd28f0c7ede2c", null ],
-    [ "HandleDummyEffect", "d3/dba/a21073.html#afbf3aab6724d12426ab0197fb9459562", null ],
-    [ "PrepareSpellScript", "d3/dba/a21073.html#a7ec441904bc100c6b15ee219617489ff", null ],
-    [ "Register", "d3/dba/a21073.html#a2796cc02d7c029f3f99264162a19e1d2", null ],
-    [ "Validate", "d3/dba/a21073.html#a85388adbc15d449e687f9f463cce3833", null ]
+    [ "boss_yoggsaron_crusher_tentacle", "d3/dba/a21073.html#a1649412beffbc87ce046a591775b02b2", null ],
+    [ "DamageTaken", "d3/dba/a21073.html#aa38dbd7050000d3aab774a7b719912f4", null ],
+    [ "DoAction", "d3/dba/a21073.html#a92eae6475d5db1cb59e161c8e65b565f", null ],
+    [ "Reset", "d3/dba/a21073.html#aba082f8d2fa200eca9c52336df544221", null ],
+    [ "UpdateAI", "d3/dba/a21073.html#ae22a12401dc98534da1cb771468a58ce", null ],
+    [ "_diminishReady", "d3/dba/a21073.html#af8d417c56918cf59dfe3d8429c4cf239", null ]
 ];

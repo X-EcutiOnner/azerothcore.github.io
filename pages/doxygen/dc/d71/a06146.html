@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: MySQLType&lt; T &gt; Struct Template Reference</title>
+<title>AzerothCore: Member List</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -78,7 +78,7 @@ $(function() {
 </div>
 <script type="text/javascript">
 /* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
-$(document).ready(function(){initNavTree('dc/d71/a06146.html','../../'); initResizable(); });
+$(document).ready(function(){initNavTree('d9/d6f/a06149.html','../../'); initResizable(); });
 /* @license-end */
 </script>
 <div id="doc-content">
@@ -104,18 +104,43 @@ $(document).ready(function(){initNavTree('dc/d71/a06146.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">MySQLType&lt; T &gt; Struct Template Reference</div></div>
+  <div class="headertitle"><div class="title">ModuleDatabasePool Member List</div></div>
 </div><!--header-->
 <div class="contents">
-<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><div class="compoundTemplParams">template&lt;typename T&gt;<br />
-struct MySQLType&lt; T &gt;</div></div></div><!-- contents -->
+
+<p>This is the complete list of members for <a class="el" href="../../d9/d6f/a06149.html">ModuleDatabasePool</a>, including all inherited members.</p>
+<table class="directory">
+  <tr class="even"><td class="entry"><a class="el" href="../../d9/d6f/a06149.html#a82555d89b9d6199f0812d49c83c7ee6a">_connectionInfo</a></td><td class="entry"><a class="el" href="../../d9/d6f/a06149.html">ModuleDatabasePool</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d6f/a06149.html#ae5ae538b51fc2b38f16078c6d5f4b596">_connections</a></td><td class="entry"><a class="el" href="../../d9/d6f/a06149.html">ModuleDatabasePool</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d9/d6f/a06149.html#aa9bf3a39aaa558e8c2a4fd0261b2953f">_preparedStatementSize</a></td><td class="entry"><a class="el" href="../../d9/d6f/a06149.html">ModuleDatabasePool</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d6f/a06149.html#a51d965114abce5a18d063ac82b32af76">_synchThreads</a></td><td class="entry"><a class="el" href="../../d9/d6f/a06149.html">ModuleDatabasePool</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d9/d6f/a06149.html#ac47fd61a348375a51c8e070a8ea94a55">Close</a>()</td><td class="entry"><a class="el" href="../../d9/d6f/a06149.html">ModuleDatabasePool</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d6f/a06149.html#adc22762e968e149eb1e7d50e42be4124">CreateConnection</a>(MySQLConnectionInfo &amp;connInfo)=0</td><td class="entry"><a class="el" href="../../d9/d6f/a06149.html">ModuleDatabasePool</a></td><td class="entry"><span class="mlabel">protected</span><span class="mlabel">pure virtual</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d9/d6f/a06149.html#a08e7e387d0b0ab0413004e3941b7857d">DirectCommitTransaction</a>(std::shared_ptr&lt; TransactionBase &gt; transaction)</td><td class="entry"><a class="el" href="../../d9/d6f/a06149.html">ModuleDatabasePool</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d6f/a06149.html#a41794a51df70123abc407551dc8a6ef9">DirectExecute</a>(std::string_view sql) override</td><td class="entry"><a class="el" href="../../d9/d6f/a06149.html">ModuleDatabasePool</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d9/d6f/a06149.html#aa807cd32e5867e10e2d1b9a638aa0d2f">DirectExecute</a>(std::string_view sql, Args &amp;&amp;... args)</td><td class="entry"><a class="el" href="../../d9/d6f/a06149.html">ModuleDatabasePool</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d6f/a06149.html#acbd82376dc24d7f8d95610cd36b75d35">Execute</a>(std::string_view sql)</td><td class="entry"><a class="el" href="../../d9/d6f/a06149.html">ModuleDatabasePool</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d9/d6f/a06149.html#a01ea55a23a096053d0fe9735d210a806">Execute</a>(std::string_view sql, Args &amp;&amp;... args)</td><td class="entry"><a class="el" href="../../d9/d6f/a06149.html">ModuleDatabasePool</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d6f/a06149.html#a8af523a864c896ce603d78c8ad4efae1">Execute</a>(PreparedStatementBase *stmt)</td><td class="entry"><a class="el" href="../../d9/d6f/a06149.html">ModuleDatabasePool</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d9/d6f/a06149.html#af2e47f7001895efcf21b492ae617fa7a">GetConnectionInfo</a>() const override</td><td class="entry"><a class="el" href="../../d9/d6f/a06149.html">ModuleDatabasePool</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d6f/a06149.html#a23176a81d378561f8764e9bbc89c7590">GetFreeConnection</a>()</td><td class="entry"><a class="el" href="../../d9/d6f/a06149.html">ModuleDatabasePool</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d9/d6f/a06149.html#a116331c957129716f017efe2f2ccbe32">GetPreparedStatementParamCount</a>(uint32 index) const</td><td class="entry"><a class="el" href="../../d9/d6f/a06149.html">ModuleDatabasePool</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d6f/a06149.html#a4ec964d95a6ac6ea768f4928cc1cfb4d">KeepAlive</a>()</td><td class="entry"><a class="el" href="../../d9/d6f/a06149.html">ModuleDatabasePool</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d9/d6f/a06149.html#af8d18de072ca4201af4b4c1b48c415df">ModuleDatabasePool</a>()</td><td class="entry"><a class="el" href="../../d9/d6f/a06149.html">ModuleDatabasePool</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d6f/a06149.html#a6d9c5b8070d823098be7c16f2b7e1943">Open</a>()</td><td class="entry"><a class="el" href="../../d9/d6f/a06149.html">ModuleDatabasePool</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d9/d6f/a06149.html#acedcae17842e201c844e37f58a410a00">PrepareStatements</a>()</td><td class="entry"><a class="el" href="../../d9/d6f/a06149.html">ModuleDatabasePool</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d6f/a06149.html#a252303af9c35d25fd44f1859b734cfe7">Query</a>(std::string_view sql) override</td><td class="entry"><a class="el" href="../../d9/d6f/a06149.html">ModuleDatabasePool</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d9/d6f/a06149.html#a510e47bea4d2c0d29fdc22a54851d4d0">Query</a>(std::string_view sql, Args &amp;&amp;... args)</td><td class="entry"><a class="el" href="../../d9/d6f/a06149.html">ModuleDatabasePool</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d6f/a06149.html#a55b2ceed634b8426a41b3e884eabe886">Query</a>(PreparedStatementBase *stmt)</td><td class="entry"><a class="el" href="../../d9/d6f/a06149.html">ModuleDatabasePool</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d9/d6f/a06149.html#a7d43fbdfed2552b4a573bdb7c770586b">SetConnectionInfo</a>(std::string_view infoString, uint8 synchThreads)</td><td class="entry"><a class="el" href="../../d9/d6f/a06149.html">ModuleDatabasePool</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d39/a06109.html#ac0431838d5a43c5323356b4c93c21157">~DatabaseUpdatePool</a>()=default</td><td class="entry"><a class="el" href="../../d9/d39/a06109.html">DatabaseUpdatePool</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d9/d6f/a06149.html#a750bd8c6be7d1949c7d9e27ba658d946">~ModuleDatabasePool</a>()</td><td class="entry"><a class="el" href="../../d9/d6f/a06149.html">ModuleDatabasePool</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
+</table></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dc/d71/a06146.html">MySQLType</a></li>
-    <li class="footer">Generated on Mon Jul 27 2026 21:44:20 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Sep 14 2026 23:33:55 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

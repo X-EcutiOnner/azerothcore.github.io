@@ -1,6 +1,7 @@
 var a19105 =
 [
-    [ "npc_frostwing_vrykulAI", "d5/d1a/a19109.html", "d5/d1a/a19109" ],
-    [ "npc_frostwing_vrykul", "d6/d20/a19105.html#ab915aa094ddebd9201a1c626e6427409", null ],
-    [ "GetAI", "d6/d20/a19105.html#a11678e59b6db9a41c7b6a575339995fd", null ]
+    [ "npc_frost_freeze_trapAI", "d6/d20/a19105.html#a95c64fbbc97f55e4d0cd0b239939fdc6", null ],
+    [ "DoAction", "d6/d20/a19105.html#a8dbe0fc5c84f49363254562166c8c0a7", null ],
+    [ "UpdateAI", "d6/d20/a19105.html#ae8efccb090f38968f3c0ca51f022013b", null ],
+    [ "_events", "d6/d20/a19105.html#ae0abd3d7fcb51ac02f8d325efa93b2f2", null ]
 ];

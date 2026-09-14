@@ -1,8 +1,11 @@
 var a18997 =
 [
-    [ "FilterTargets", "db/d01/a18997.html#aed8b741160cbf50dde84cf059c8b52cb", null ],
-    [ "HandleForceCast", "db/d01/a18997.html#ae783cf255be823bf7c9125f288479e97", null ],
-    [ "Load", "db/d01/a18997.html#ac8f92e9284abc56d55ecf3aa73d350f8", null ],
-    [ "PrepareSpellScript", "db/d01/a18997.html#a68074978fe2c1b137c6ddfd7b9082bfc", null ],
-    [ "Register", "db/d01/a18997.html#a454a8909be4bb85f255ea696041ea447", null ]
+    [ "npc_valithria_cloudAI", "db/d01/a18997.html#a5b550d0154f302cecc509fbd868a53bb", null ],
+    [ "AttackStart", "db/d01/a18997.html#a5835d5ba19e1480016e585c1e49489c9", null ],
+    [ "EnterEvadeMode", "db/d01/a18997.html#a346fd998d41451d7d1e605afdb13b65c", null ],
+    [ "MoveInLineOfSight", "db/d01/a18997.html#a8d4c8d082f12b96b2b77447d0b942c2c", null ],
+    [ "Reset", "db/d01/a18997.html#abca34d7285ef23c062006df8f8ae6d53", null ],
+    [ "UpdateAI", "db/d01/a18997.html#a6908f5731915bf7d15bb4921c960aa30", null ],
+    [ "_events", "db/d01/a18997.html#afc5c9299d7f1f73c087a19dcfb19e096", null ],
+    [ "_instance", "db/d01/a18997.html#a20cc2bba9d1005cc93b55dfba8bfbcf3", null ]
 ];

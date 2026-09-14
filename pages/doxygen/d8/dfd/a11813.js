@@ -1,5 +1,6 @@
 var a11813 =
 [
-    [ "SocketAdded", "d8/dfd/a11813.html#a01090d6713f49dc026f77f8481b492cb", null ],
-    [ "SocketRemoved", "d8/dfd/a11813.html#a4a978f9304e4aeabfb9ce1998b8a27cc", null ]
+    [ "WorldSession", "d8/dfd/a11813.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
+    [ "Guid", "d8/dfd/a11813.html#a46a89b6904e59f39f4e1460a9bb45765", null ],
+    [ "Name", "d8/dfd/a11813.html#a4e747a555bde74f97a5fc78287e5e29d", null ]
 ];

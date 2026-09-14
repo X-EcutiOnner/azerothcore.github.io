@@ -1,6 +1,5 @@
 var a20621 =
 [
-    [ "FilterTargets", "d0/d56/a20621.html#ae8d940a89be9b63286911bd55dcd3844", null ],
-    [ "PrepareSpellScript", "d0/d56/a20621.html#a8f4b4d82e53c8f820b620896478681a9", null ],
-    [ "Register", "d0/d56/a20621.html#a744d5cb8de927410ab1bf72008fff8b3", null ]
+    [ "achievement_staying_buffed_all_winter_25", "d0/d56/a20621.html#a91f0ab3bada837cff6414350b98a27a3", null ],
+    [ "OnCheck", "d0/d56/a20621.html#a36591082184bc8466e124bad9a910545", null ]
 ];

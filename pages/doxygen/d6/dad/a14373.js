@@ -1,8 +1,6 @@
 var a14373 =
 [
-    [ "FilterTargets", "d6/dad/a14373.html#a43e45471ad3b8a0583aeb413d48a0f01", null ],
-    [ "OnHit", "d6/dad/a14373.html#ac25886536c353f09838188362fb8ae84", null ],
-    [ "PrepareSpellScript", "d6/dad/a14373.html#aab0e63163b8d84f20bbe0bcdc60c9a85", null ],
-    [ "Register", "d6/dad/a14373.html#afa419365236c09914f758846978e2cbb", null ],
-    [ "Validate", "d6/dad/a14373.html#ae62334ed5f46641def4a38ee178cd9d0", null ]
+    [ "npc_tapoke_slim_jahnAI", "dc/deb/a14377.html", "dc/deb/a14377" ],
+    [ "npc_tapoke_slim_jahn", "d6/dad/a14373.html#a61e36b57f8ba78c371d454efb1512579", null ],
+    [ "GetAI", "d6/dad/a14373.html#a397629742eace1b96dfd9d4a2e55cc32", null ]
 ];

@@ -1,16 +1,17 @@
 var a10001 =
 [
-    [ "BankMoveItemData", "d9/d84/a10001.html#a9edb987f4866e8bc473fe853597bebae", null ],
-    [ "_ReserveSpace", "d9/d84/a10001.html#a109e8d55108b005426110626815ba866", null ],
-    [ "_StoreItem", "d9/d84/a10001.html#aa11267f5d6202753310da567c0be0e57", null ],
-    [ "CanStore", "d9/d84/a10001.html#ade47c73460329ca1af752921173ca75e", null ],
-    [ "CanStoreItemInTab", "d9/d84/a10001.html#a5ca7975887e5583466d066c86b3a205f", null ],
-    [ "HasStoreRights", "d9/d84/a10001.html#acd684824cab9ccb4d8fd9cbb1f1782e1", null ],
-    [ "HasWithdrawRights", "d9/d84/a10001.html#ae9d8f497b4459c982ac73ee8b5742aad", null ],
-    [ "InitItem", "d9/d84/a10001.html#a69d6b28ccdda7790f821f5181da0db96", null ],
-    [ "IsBank", "d9/d84/a10001.html#a6f1787e15918092ba000ee8bd0852b09", null ],
-    [ "LogAction", "d9/d84/a10001.html#a4f23cdffba39ffa78c38851ff7aa7d0c", null ],
-    [ "LogBankEvent", "d9/d84/a10001.html#a054ca0f7eecfd404651c11b886d106bf", null ],
-    [ "RemoveItem", "d9/d84/a10001.html#abd15e25136ec2a00bcddbc0e81978a78", null ],
-    [ "StoreItem", "d9/d84/a10001.html#a9367b938768eefcaf5bb88e74dde9aa3", null ]
+    [ "EmblemInfo", "d9/d84/a10001.html#a8d053ab27856955bf6013ef4c61ed33f", null ],
+    [ "GetBackgroundColor", "d9/d84/a10001.html#a66da2cd78cee9e929ff0f2439caed0e5", null ],
+    [ "GetBorderColor", "d9/d84/a10001.html#ac5ea55d7fd129524630dd0d486b457a7", null ],
+    [ "GetBorderStyle", "d9/d84/a10001.html#a7a791a3f467e72a3e8e941e3179d7709", null ],
+    [ "GetColor", "d9/d84/a10001.html#a15108f3a2a93ebbc01111672dd238d63", null ],
+    [ "GetStyle", "d9/d84/a10001.html#a0e6d684542535d537bdeba4104b7a18d", null ],
+    [ "LoadFromDB", "d9/d84/a10001.html#a17de371e72a2b29a7f249dbe912636bc", null ],
+    [ "ReadPacket", "d9/d84/a10001.html#abd73ea3db00fa900d7b3a8eeffa8b1bf", null ],
+    [ "SaveToDB", "d9/d84/a10001.html#aea1326261d893ef3beff026402bf8272", null ],
+    [ "m_backgroundColor", "d9/d84/a10001.html#a0bc92e459910ab6aad3ac35c8b613a5f", null ],
+    [ "m_borderColor", "d9/d84/a10001.html#a5aff1dcb9db9bc1477f2f37ac5b2c6cf", null ],
+    [ "m_borderStyle", "d9/d84/a10001.html#aa3e49b5f76fdb4e2139aeccb79c19390", null ],
+    [ "m_color", "d9/d84/a10001.html#ace48f189e9a1ae685dfbe97f35f49ec5", null ],
+    [ "m_style", "d9/d84/a10001.html#a08191c3c9cc48bde61ef0de81be34c90", null ]
 ];

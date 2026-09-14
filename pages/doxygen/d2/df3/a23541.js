@@ -1,8 +1,5 @@
 var a23541 =
 [
-    [ "npc_underbat", "d2/df3/a23541.html#a710a010d3425b7171ee45d8465fd6b2b", null ],
-    [ "JustEngagedWith", "d2/df3/a23541.html#ae137b6b763b3df6096c3bfd4dd7ee676", null ],
-    [ "Reset", "d2/df3/a23541.html#aae771ad526e8f72a90fe70ebbd91b472", null ],
-    [ "UpdateAI", "d2/df3/a23541.html#ab3a9b97543aee3fdf22c17e94f768c0e", null ],
-    [ "_scheduler", "d2/df3/a23541.html#a7644a73c2a5bcbbe0a3db5c782169752", null ]
+    [ "go_main_chambers_access_panel", "d2/df3/a23541.html#a30c3c20be1892b5107ef53683d593b75", null ],
+    [ "OnGossipHello", "d2/df3/a23541.html#af4b3a4a0260de68dcfac7202e0a728ee", null ]
 ];

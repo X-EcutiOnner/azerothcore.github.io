@@ -1,6 +1,6 @@
 var a19985 =
 [
-    [ "CalculateDamage", "d9/d2d/a19985.html#ae38f8cfb44de2798d7a284c942617678", null ],
-    [ "PrepareSpellScript", "d9/d2d/a19985.html#a043955d56e0ae4c54d70e8fe6e417dd1", null ],
-    [ "Register", "d9/d2d/a19985.html#ab4b32d2db39c8d9079a83c89d63ccd93", null ]
+    [ "HandleDamageCalc", "d9/d2d/a19985.html#a71b88fbad5acbba47028dd1ff82b4836", null ],
+    [ "PrepareSpellScript", "d9/d2d/a19985.html#a754da297cd5801616e24bf2d802d0b38", null ],
+    [ "Register", "d9/d2d/a19985.html#a231f29ea69a354ddb2963cb4ef9a3f4e", null ]
 ];

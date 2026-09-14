@@ -1,8 +1,11 @@
 var a20905 =
 [
-    [ "npc_pummeller", "d6/dfe/a20905.html#a0c67bf3781fde8d4580aad093bf87291", null ],
-    [ "Reset", "d6/dfe/a20905.html#abdb3f0984c03780aee9dd55496fc7835", null ],
-    [ "UpdateAI", "d6/dfe/a20905.html#a9d61c35dc7f86314c6beb581539fd55d", null ],
-    [ "_instance", "d6/dfe/a20905.html#a12df7fb27b7bd54d0bf60c3e5faee037", null ],
-    [ "_scheduler", "d6/dfe/a20905.html#abc1ba4d0e95d33fe42af1014c2e8448f", null ]
+    [ "boss_thorim_sif_blizzard", "d6/dfe/a20905.html#a7d4054eb43079fe13e5a7a6c85b461ec", null ],
+    [ "AttackStart", "d6/dfe/a20905.html#ab41c744d8573b1f8ce5e82e798c9bd4f", null ],
+    [ "InitWaypoint", "d6/dfe/a20905.html#a55424c77633aaa62e12581a818736441", null ],
+    [ "JustEngagedWith", "d6/dfe/a20905.html#a019b50cc265dff0e92417482b85ccf64", null ],
+    [ "MoveInLineOfSight", "d6/dfe/a20905.html#a6e5333d6a87956d2052c2212a3dcb0fa", null ],
+    [ "Reset", "d6/dfe/a20905.html#a347fcc28a0bc660b9fa93fe7fc54eea0", null ],
+    [ "WaypointReached", "d6/dfe/a20905.html#af69dfd0ec232c7e45d13b117988ba924", null ],
+    [ "WaypointReached", "d6/dfe/a20905.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

@@ -1,5 +1,4 @@
 var a04946 =
 [
-    [ "Acore::AhoCorasick< CharT >", "d0/d43/a05805.html", "d0/d43/a05805" ],
-    [ "Acore::AhoCorasick< CharT >::Node", "d7/d4f/a05809.html", "d7/d4f/a05809" ]
+    [ "Optional", "d5/d41/a04946.html#aaf8f4d77efd311ec7818ab421294ef82", null ]
 ];

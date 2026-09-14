@@ -1,7 +1,8 @@
 var a09917 =
 [
-    [ "RaidCheck", "d8/db6/a09917.html#ad8c3717b9a645c7806c8c027a8d90ef5", null ],
-    [ "operator()", "d8/db6/a09917.html#a0c076b737e8e1eacb9aab0981ff66f51", null ],
-    [ "_compare", "d8/db6/a09917.html#a5fffdd5901fb03c5e9a9adfb58e3d759", null ],
-    [ "_equals", "d8/db6/a09917.html#a7d253c94403bd50012722a9a9b113c3a", null ]
+    [ "AllCreaturesMatchingOneEntryInRange", "d8/db6/a09917.html#a440899ae5e52fedea316b7caa550455e", null ],
+    [ "operator()", "d8/db6/a09917.html#a95c87356617b135cc3ab0aec74e9f9c9", null ],
+    [ "m_fRange", "d8/db6/a09917.html#ac3ca671167fe5dbc8f9798327a8a3fcf", null ],
+    [ "m_pObject", "d8/db6/a09917.html#a1a7b27a1b2f0d623829605e42bf98900", null ],
+    [ "m_uiEntries", "d8/db6/a09917.html#a8411b275c6aad74eac83147a6d06fb0b", null ]
 ];

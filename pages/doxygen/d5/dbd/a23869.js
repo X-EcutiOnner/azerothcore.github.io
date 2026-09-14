@@ -1,10 +1,9 @@
 var a23869 =
 [
-    [ "CheckProc", "d5/dbd/a23869.html#ac176c59497cc2196c19dc8a1b9f8056d", null ],
-    [ "Load", "d5/dbd/a23869.html#aad39e53d6b3fc673c115f79ca0bc9b68", null ],
-    [ "PrepareAuraScript", "d5/dbd/a23869.html#a990cab2c1d9fb544bf11c9fd4e5495ac", null ],
-    [ "Register", "d5/dbd/a23869.html#ae2cf612df18cf249bc4a90ce9332fc9b", null ],
-    [ "_lastForm", "d5/dbd/a23869.html#ad392a897546cb64e550dd8b0709ba0ab", null ],
-    [ "_lastSchool", "d5/dbd/a23869.html#afc2e3e388615ed5cf0f4dd672f26de85", null ],
-    [ "_swapTime", "d5/dbd/a23869.html#af832dc200e928df3849ab7d7f93cb412", null ]
+    [ "boss_dalliah_the_doomsayer", "d5/dbd/a23869.html#ad6edf9623942297b28bc7420ec0cc733", null ],
+    [ "InitializeAI", "d5/dbd/a23869.html#a85342ef80a64ce05f87cf7d90a8bfe79", null ],
+    [ "JustDied", "d5/dbd/a23869.html#a431edc9c25fb125d7d267073eb1c1423", null ],
+    [ "JustEngagedWith", "d5/dbd/a23869.html#a6d3d8d027ddb08417dd11f1606a1418f", null ],
+    [ "KilledUnit", "d5/dbd/a23869.html#af28bfc1166ad45bf7bc046f5906a8b11", null ],
+    [ "Reset", "d5/dbd/a23869.html#a5b4f186225a55afdf1de80b7126d10eb", null ]
 ];

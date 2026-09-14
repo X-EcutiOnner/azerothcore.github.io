@@ -1,7 +1,8 @@
 var a13989 =
 [
-    [ "npc_eris_hevenfireAI", "d0/d0e/a13993.html", "d0/d0e/a13993" ],
-    [ "npc_eris_hevenfire", "df/da7/a13989.html#a77f0836dc0b19114316b8b67839d8033", null ],
-    [ "GetAI", "df/da7/a13989.html#ad67a81ad20fac785c199c16fea8fe6f8", null ],
-    [ "OnQuestAccept", "df/da7/a13989.html#a1e0baec5706cfddd678b58eb9359997e", null ]
+    [ "npc_sunblade_arch_mage", "df/da7/a13989.html#a25cc45033c55f1099b50eab4b4f497ee", null ],
+    [ "JustEngagedWith", "df/da7/a13989.html#aadeae32d691229b7b7b531175b8a5018", null ],
+    [ "Reset", "df/da7/a13989.html#a0d0349ea507b1f8431014c55eef5ce0e", null ],
+    [ "UpdateAI", "df/da7/a13989.html#a3289fbad5f987a3d5d9986a31a1c442f", null ],
+    [ "scheduler", "df/da7/a13989.html#aa6680f06651316996868907b1d28126c", null ]
 ];

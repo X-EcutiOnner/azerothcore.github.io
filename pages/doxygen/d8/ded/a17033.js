@@ -1,6 +1,7 @@
 var a17033 =
 [
-    [ "boss_jaraxxusAI", "d3/daa/a17037.html", "d3/daa/a17037" ],
-    [ "boss_jaraxxus", "d8/ded/a17033.html#a82cf0601aa16893d88d9b669a6d1fc72", null ],
-    [ "GetAI", "d8/ded/a17033.html#a518f7af9f86ab995e5195175b5a34bc6", null ]
+    [ "npc_toc_warriorAI", "d8/ded/a17033.html#a6eee7e4fc83ed56a0f775b6892dc8dcb", null ],
+    [ "myCanCast", "d8/ded/a17033.html#ac815e13cbbe9a8833330e15213420c65", null ],
+    [ "UpdateAI", "d8/ded/a17033.html#aa787deda09d9bbf2c54d51e618eb2a82", null ],
+    [ "events", "d8/ded/a17033.html#ae8f9d3f5f2c9172442c7ba4a83275cc1", null ]
 ];

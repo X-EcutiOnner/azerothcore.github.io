@@ -1,21 +1,14 @@
 var a02477 =
 [
-    [ "AccountActionIpLogger", "dd/db7/a28105.html", "dd/db7/a28105" ],
-    [ "CharacterActionIpLogger", "de/df2/a28109.html", "de/df2/a28109" ],
-    [ "CharacterDeleteActionIpLogger", "dc/de8/a28113.html", "dc/de8/a28113" ],
-    [ "IPLoggingTypes", "d0/dc2/a02477.html#a3b67d8dbf539fa5519b3e33da9d0137b", [
-      [ "ACCOUNT_LOGIN", "d0/dc2/a02477.html#a3b67d8dbf539fa5519b3e33da9d0137ba8f9e397f01ecf6030118a21051f37eb8", null ],
-      [ "ACCOUNT_FAIL_LOGIN", "d0/dc2/a02477.html#a3b67d8dbf539fa5519b3e33da9d0137baf5dfdd830d71ca55c98a2a6bbc49895f", null ],
-      [ "ACCOUNT_CHANGE_PW", "d0/dc2/a02477.html#a3b67d8dbf539fa5519b3e33da9d0137ba38e1a216027e5110edeced016ff5c059", null ],
-      [ "ACCOUNT_CHANGE_PW_FAIL", "d0/dc2/a02477.html#a3b67d8dbf539fa5519b3e33da9d0137baa0990c000cd17b2abe8225b66cac6b53", null ],
-      [ "ACCOUNT_CHANGE_EMAIL", "d0/dc2/a02477.html#a3b67d8dbf539fa5519b3e33da9d0137baf435090459154eb1ba7b8c994842b06c", null ],
-      [ "ACCOUNT_CHANGE_EMAIL_FAIL", "d0/dc2/a02477.html#a3b67d8dbf539fa5519b3e33da9d0137ba4bd2be99e9a5252be0bbf26a71541e30", null ],
-      [ "CHARACTER_CREATE", "d0/dc2/a02477.html#a3b67d8dbf539fa5519b3e33da9d0137ba64dc5a829a5cecf5f19b805d05a32b85", null ],
-      [ "CHARACTER_LOGIN", "d0/dc2/a02477.html#a3b67d8dbf539fa5519b3e33da9d0137ba69b7162ca378f801be6e30e2e4b86363", null ],
-      [ "CHARACTER_LOGOUT", "d0/dc2/a02477.html#a3b67d8dbf539fa5519b3e33da9d0137ba742b5af30e35f2927eaa20bdf504b607", null ],
-      [ "CHARACTER_DELETE", "d0/dc2/a02477.html#a3b67d8dbf539fa5519b3e33da9d0137ba04c86cce0401c766b99edbef52a91162", null ],
-      [ "CHARACTER_FAILED_DELETE", "d0/dc2/a02477.html#a3b67d8dbf539fa5519b3e33da9d0137baf8aedeaf82227741e50fdf6be12a35e7", null ],
-      [ "UNKNOWN_ACTION", "d0/dc2/a02477.html#a3b67d8dbf539fa5519b3e33da9d0137bae16d79bf07a3994731f4ac1a6ece5ec8", null ]
-    ] ],
-    [ "AddSC_action_ip_logger", "d0/dc2/a02477.html#a530be5efb251d5ca58e97804e48ad953", null ]
+    [ "npc_artorius", "da/dc3/a28561.html", "da/dc3/a28561" ],
+    [ "npc_artorius::npc_artoriusAI", "d9/d01/a28565.html", "d9/d01/a28565" ],
+    [ "npc_precious", "d5/d5a/a28569.html", "d5/d5a/a28569" ],
+    [ "npc_precious::npc_preciousAI", "d4/d75/a28573.html", "d4/d75/a28573" ],
+    [ "npc_simone", "d4/d9b/a28577.html", "d4/d9b/a28577" ],
+    [ "npc_simone::npc_simoneAI", "db/da9/a28581.html", "db/da9/a28581" ],
+    [ "npc_nelson", "d8/dfa/a28585.html", "d8/dfa/a28585" ],
+    [ "npc_nelson::npc_nelsonAI", "d9/dc2/a28589.html", "d9/dc2/a28589" ],
+    [ "npc_franklin", "d8/df4/a28593.html", "d8/df4/a28593" ],
+    [ "npc_franklin::npc_franklinAI", "df/d78/a28597.html", "df/d78/a28597" ],
+    [ "AddSC_npc_stave_of_ancients", "d0/dc2/a02477.html#a81e200e5d045a2403cd76a0559a6fd8c", null ]
 ];

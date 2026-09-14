@@ -1,6 +1,5 @@
 var a09093 =
 [
-    [ "GlobalCooldown", "d8/d22/a09093.html#a5859ccec9d1fdf0a8f11f5ab77c135a9", null ],
-    [ "cast_time", "d8/d22/a09093.html#a7e2fe46367bad59669b0f2fd33736b30", null ],
-    [ "duration", "d8/d22/a09093.html#a7fbf3127e4a2cc93171934148275ae1d", null ]
+    [ "bgQueueTypeId", "d8/d22/a09093.html#a171a9be34883429a97f6f2e3035b5fca", null ],
+    [ "invitedToInstance", "d8/d22/a09093.html#a5efaf8479d7afb8c24e7f3389ad9c8cf", null ]
 ];

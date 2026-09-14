@@ -1,6 +1,7 @@
 var a16041 =
 [
-    [ "npc_giant_spotlightAI", "d6/db0/a16045.html", "d6/db0/a16045" ],
-    [ "npc_giant_spotlight", "d6/dc3/a16041.html#a9d1c47de758c74a89c751b675d5cc4c0", null ],
-    [ "GetAI", "d6/dc3/a16041.html#af002a3d0194c991c1f78c720de63cfea", null ]
+    [ "HandleDummy", "d6/dc3/a16041.html#a7657ffcc0b055b838408de4dd5f778f3", null ],
+    [ "PrepareSpellScript", "d6/dc3/a16041.html#ace2c23ec11d09cfb6f101a2dbd8b9d89", null ],
+    [ "Register", "d6/dc3/a16041.html#ae9be2e8124edf50b98824c584aaa32cf", null ],
+    [ "Validate", "d6/dc3/a16041.html#a041c84fd605abd36b8f774903a5200dc", null ]
 ];

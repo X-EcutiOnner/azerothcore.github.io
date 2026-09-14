@@ -1,7 +1,6 @@
 var a13885 =
 [
-    [ "npc_singularity", "da/da3/a13885.html#a4ed61ec65ed94d8d5e42ae7ff9ecd41d", null ],
-    [ "FindAndFollowTarget", "da/da3/a13885.html#a76c21129756dec05f6f2d88cebe948c5", null ],
-    [ "Reset", "da/da3/a13885.html#ae81c2e5865beb00df8683fa0fb6e7872", null ],
-    [ "UpdateAI", "da/da3/a13885.html#ad019d234ca9ee719612d59e5bb0b53ea", null ]
+    [ "HandlePeriodic", "da/da3/a13885.html#aec1ff41f0051a6c6dfbd11ea7741b1af", null ],
+    [ "PrepareAuraScript", "da/da3/a13885.html#a7ac99d626990f068a00f403847bfa6bc", null ],
+    [ "Register", "da/da3/a13885.html#ad3c0a2c270d1b8c31761674f89500b8a", null ]
 ];

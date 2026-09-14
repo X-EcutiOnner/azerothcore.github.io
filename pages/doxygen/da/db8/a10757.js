@@ -1,6 +1,10 @@
 var a10757 =
 [
-    [ "ConditionScript", "da/db8/a10757.html#aceb390c81ea5ba54a1ff0b8c21e69348", null ],
-    [ "IsDatabaseBound", "da/db8/a10757.html#ac4f8325e3fa1e11437056818a0267342", null ],
-    [ "OnConditionCheck", "da/db8/a10757.html#a2d8a4e71f20c290428c3a86cedfcaab7", null ]
+    [ "AllItemScript", "da/db8/a10757.html#a705a1e113fe6b22608a6b560e477334f", null ],
+    [ "CanItemExpire", "da/db8/a10757.html#aa2a9c691b4ba5d06f65555a7092fffc3", null ],
+    [ "CanItemQuestAccept", "da/db8/a10757.html#a545e2bc7436a064146025954eaf5ae92", null ],
+    [ "CanItemRemove", "da/db8/a10757.html#ad29a7f5d07d56127bc00846e1a7fb067", null ],
+    [ "CanItemUse", "da/db8/a10757.html#a89d237f426840658e4423fb9cc7428db", null ],
+    [ "OnItemGossipSelect", "da/db8/a10757.html#a7157f72c6d09988b60480d1671892cde", null ],
+    [ "OnItemGossipSelectCode", "da/db8/a10757.html#ae7409c8dff580bd85fbf82272324efea", null ]
 ];

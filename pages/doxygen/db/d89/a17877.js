@@ -1,6 +1,6 @@
 var a17877 =
 [
-    [ "npc_saurfang_eventAI", "dc/d09/a17881.html", "dc/d09/a17881" ],
-    [ "npc_saurfang_event", "db/d89/a17877.html#a3bfce5457466360458498833098d660c", null ],
-    [ "GetAI", "db/d89/a17877.html#a953842d2fa3380a8331faf3a42cb3177", null ]
+    [ "BloodboltHitCheck", "db/d89/a17877.html#a84873f1ec2c1e214e35d32954622e9af", null ],
+    [ "operator()", "db/d89/a17877.html#a1eddfd7bbea8def20dcc080413af6364", null ],
+    [ "_ai", "db/d89/a17877.html#a0a5d115c464b6e88bc1158cd858bcbec", null ]
 ];

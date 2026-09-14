@@ -1,7 +1,15 @@
 var a24221 =
 [
-    [ "CheckRequirement", "de/d91/a24221.html#a4ad521364c6156c0ecef818a23ce7aff", null ],
-    [ "PrepareSpellScript", "de/d91/a24221.html#a0d995c6ae6d1da0014c053a62b37a7b7", null ],
-    [ "Register", "de/d91/a24221.html#a25f275e84570f674071bfae03aeb0ddc", null ],
-    [ "Validate", "de/d91/a24221.html#adc648151e2c61a61a0dc5883d9fa4ae0", null ]
+    [ "npc_maghar_captiveAI", "de/d91/a24221.html#abab2cfe84f4bb83fea3b35202a957bb5", null ],
+    [ "JustDied", "de/d91/a24221.html#adbef78d8c908bfbce6ea506c55fb6922", null ],
+    [ "JustEngagedWith", "de/d91/a24221.html#a2a0ec4a496c7352ba88ceef99eb769e4", null ],
+    [ "JustSummoned", "de/d91/a24221.html#afe55f91acd8c47a758b8d08bd07d763f", null ],
+    [ "Reset", "de/d91/a24221.html#abebcdcb102f8d338ae0b792708940cd7", null ],
+    [ "SpellHitTarget", "de/d91/a24221.html#ab4f4deaae35fdbd602c9925f26e6d0e7", null ],
+    [ "UpdateAI", "de/d91/a24221.html#a295cbae9196e320fabbb4cfb9dc33150", null ],
+    [ "WaypointReached", "de/d91/a24221.html#abfbba8942df57e974ab24ad693c16e70", null ],
+    [ "WaypointReached", "de/d91/a24221.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "ChainLightningTimer", "de/d91/a24221.html#aa00a6978074f62d3d8ddead64d3240cf", null ],
+    [ "FrostShockTimer", "de/d91/a24221.html#a2e4a5ef509e7f7ec33b1e83c90d2c80f", null ],
+    [ "HealTimer", "de/d91/a24221.html#a31613adba706f3b5f948f2f7c4222038", null ]
 ];

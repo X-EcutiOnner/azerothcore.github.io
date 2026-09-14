@@ -1,6 +1,7 @@
 var a25969 =
 [
-    [ "PrepareSpellScript", "da/d8f/a25969.html#a3a77016a3a8314969ce41cc6483761ec", null ],
-    [ "Register", "da/d8f/a25969.html#ae1fa8b9e4a11c884d10b1f4cc0afd09e", null ],
-    [ "SetDest", "da/d8f/a25969.html#a724217c09faa57ec2e6dad034e8709ed", null ]
+    [ "HandleJump", "da/d8f/a25969.html#ac70f6d53e85af1ee2591e761e21872db", null ],
+    [ "HandleScriptEffect", "da/d8f/a25969.html#abdaa3c5356f84429cf6d2e053a3238ff", null ],
+    [ "PrepareSpellScript", "da/d8f/a25969.html#a7daa7cef660e9f08b8e60c7788783c99", null ],
+    [ "Register", "da/d8f/a25969.html#a0cbd40958551e0f38850a9fdcd6f0048", null ]
 ];

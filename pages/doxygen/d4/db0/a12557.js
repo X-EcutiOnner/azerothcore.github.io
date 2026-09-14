@@ -1,11 +1,10 @@
 var a12557 =
 [
-    [ "pet_commandscript", "d4/db0/a12557.html#a84595dcb908398e80deee0b0aa47e335", null ],
-    [ "GetCommands", "d4/db0/a12557.html#a01026a4936774d2225d10e0f6e27b08c", null ],
-    [ "HandlePetCreateCommand", "d4/db0/a12557.html#a993d06169aa0b0c4bbda38e124b6eea9", null ],
-    [ "HandlePetDeleteCommand", "d4/db0/a12557.html#a728201526e905b025aba5e6b030c288b", null ],
-    [ "HandlePetLearnCommand", "d4/db0/a12557.html#a59a2a6bd9af23fe3a775319216337bda", null ],
-    [ "HandlePetListCommand", "d4/db0/a12557.html#aeaa05b073553c0c0758ea99d982ce1cc", null ],
-    [ "HandlePetRenameCommand", "d4/db0/a12557.html#a556529bfe267eb618410b63065b7096c", null ],
-    [ "HandlePetUnlearnCommand", "d4/db0/a12557.html#ae6d785cdde773b107ba5e619b039f7b8", null ]
+    [ "item_commandscript", "d4/db0/a12557.html#a22f9cb46f2c3701fc5c9136c87c09435", null ],
+    [ "GetCommands", "d4/db0/a12557.html#aab60aa980ef0f86938cfcb51e7ee20a8", null ],
+    [ "HandleItemMoveCommand", "d4/db0/a12557.html#a6adae7cb08c0e69ac0a20c107f818a57", null ],
+    [ "HandleItemRefundCommand", "d4/db0/a12557.html#af914e33be05148062abd89c754d939c9", null ],
+    [ "HandleItemRestoreCommand", "d4/db0/a12557.html#a84c67a46c513c1aac2b9d2563d693929", null ],
+    [ "HandleItemRestoreListCommand", "d4/db0/a12557.html#a40181310f4187a71a6f5f5f600a8f468", null ],
+    [ "HasItemDeletionConfig", "d4/db0/a12557.html#a28d0b4083bf3352f80b6210f9ac00692", null ]
 ];

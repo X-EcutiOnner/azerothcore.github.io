@@ -1,6 +1,6 @@
 var a26205 =
 [
-    [ "CheckCast", "d7/d8f/a26205.html#a5e32bb12dd6a4feedf88b73e18dc57cc", null ],
-    [ "PrepareSpellScript", "d7/d8f/a26205.html#ae6b0bc8d2a443b805b44f49d79ccc949", null ],
-    [ "Register", "d7/d8f/a26205.html#a2ef6ded94a244c51ed71315b39e85636", null ]
+    [ "CheckSinkholes", "d7/d8f/a26205.html#a5c363144cde9e809d97730f54873fe85", null ],
+    [ "PrepareSpellScript", "d7/d8f/a26205.html#a0cd1fc05ee319b04299fcebe3a405bb4", null ],
+    [ "Register", "d7/d8f/a26205.html#a6694fbf58b776b74df0a54cd96141688", null ]
 ];

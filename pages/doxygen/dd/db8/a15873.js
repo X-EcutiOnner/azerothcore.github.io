@@ -1,8 +1,6 @@
 var a15873 =
 [
-    [ "npc_death_ravagerAI", "dd/db8/a15873.html#ad18242b078db0883029537562a41cc20", null ],
-    [ "Reset", "dd/db8/a15873.html#ac0fdbfe2f324785569fa742e0b244b83", null ],
-    [ "UpdateAI", "dd/db8/a15873.html#ac3dce7d79e67f20d7a8fe161da9d5279", null ],
-    [ "EnragingBiteTimer", "dd/db8/a15873.html#af33898ebd9bea6b1a58b673373de3c64", null ],
-    [ "RendTimer", "dd/db8/a15873.html#ad7ff02fe6e11a0fb0d8a3ae869ed5f6d", null ]
+    [ "HandleApply", "dd/db8/a15873.html#aefef61bc68c13b20e9b41a6f148a9599", null ],
+    [ "PrepareAuraScript", "dd/db8/a15873.html#aabe8dc8b99dc455dfcfaf58b64fa3f18", null ],
+    [ "Register", "dd/db8/a15873.html#ade5c710416516760cc69f77750aa2a1f", null ]
 ];

@@ -1,6 +1,6 @@
 var a19181 =
 [
-    [ "OnRemove", "d8/d3f/a19181.html#a748868eb89f1fb3ccfec5ea9f8603168", null ],
-    [ "PrepareAuraScript", "d8/d3f/a19181.html#a9033a0ef5963800d13b898f7c02ff7b2", null ],
-    [ "Register", "d8/d3f/a19181.html#a7ac0cff5f8f918e7a61bbc600419d3c3", null ]
+    [ "npc_arthas_teleport_visualAI", "da/dcf/a19185.html", "da/dcf/a19185" ],
+    [ "npc_arthas_teleport_visual", "d8/d3f/a19181.html#a62d2caed6b12355f6d7aeceabba2ddaf", null ],
+    [ "GetAI", "d8/d3f/a19181.html#a393d5ef960b9ee0cf8feeeeb5d81045d", null ]
 ];

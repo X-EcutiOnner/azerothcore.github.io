@@ -1,5 +1,5 @@
 var a10841 =
 [
-    [ "MovementHandlerScript", "de/d72/a10841.html#aec794d21148c9ed382d80b6c30a676cd", null ],
-    [ "OnPlayerMove", "de/d72/a10841.html#ac1604e58c8ecab26ce4159fb43a86a68", null ]
+    [ "GenericGameObjectScript", "de/d72/a10841.html#a7d1d46c8d325619637aef9b9dc5419f7", null ],
+    [ "GetAI", "de/d72/a10841.html#a7e3ba0f4a88489de522ae714d628c9ab", null ]
 ];

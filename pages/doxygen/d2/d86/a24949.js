@@ -1,10 +1,6 @@
 var a24949 =
 [
-    [ "Load", "d2/d86/a24949.html#a2c4e408e45995098b01a05815fffb34c", null ],
-    [ "OnApply", "d2/d86/a24949.html#acae1047046bb8f555d1798ca024a2650", null ],
-    [ "OnRemove", "d2/d86/a24949.html#aa01df2b86cf69508866f6e7d063c735a", null ],
-    [ "PrepareAuraScript", "d2/d86/a24949.html#a18103f56fd6f90f8c3aa53ff53b82492", null ],
-    [ "Register", "d2/d86/a24949.html#a02ef50b047ac0ac8932d37234ad4ae2f", null ],
-    [ "Validate", "d2/d86/a24949.html#ac89215007d26494b6eaa690b23d6bbd8", null ],
-    [ "_casterGUID", "d2/d86/a24949.html#a8047fb4309487c7a529047ec5148a2e3", null ]
+    [ "PrepareAuraScript", "d2/d86/a24949.html#a31bde31b6db4f71ce65c6e1a862df771", null ],
+    [ "Register", "d2/d86/a24949.html#aebe64c4760d13d8afaebcf4a4b1196fa", null ],
+    [ "UpdateAmount", "d2/d86/a24949.html#a621e73a09438f3f9cbaa232125df3b87", null ]
 ];

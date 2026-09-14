@@ -1,7 +1,6 @@
 var a25009 =
 [
-    [ "HandleProc", "de/de1/a25009.html#a1970f27ef7eda74a48fccbdf963be87a", null ],
-    [ "PrepareAuraScript", "de/de1/a25009.html#a435424c2bc9a2b491eb9535d5c13df60", null ],
-    [ "Register", "de/de1/a25009.html#a21c898e51a477c008f708254619d3fc6", null ],
-    [ "Validate", "de/de1/a25009.html#ad2607d8ce696536f32d0a6eb77af4664", null ]
+    [ "HandleAfterCast", "de/de1/a25009.html#a39572ebbeee6fe39bc4454088c622bcd", null ],
+    [ "PrepareSpellScript", "de/de1/a25009.html#a602d7c920aa73a9c3c69222854093036", null ],
+    [ "Register", "de/de1/a25009.html#addbbf508a0e1074c23ebd325dd62bbe9", null ]
 ];

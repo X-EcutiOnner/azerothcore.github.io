@@ -1,8 +1,5 @@
 var a25529 =
 [
-    [ "HandleApply", "d6/dab/a25529.html#af20f30fe2bfc7a370b166a6200b44ca9", null ],
-    [ "OnPeriodic", "d6/dab/a25529.html#a6b3223ef23854f22b9a3baba0d42cb11", null ],
-    [ "PrepareAuraScript", "d6/dab/a25529.html#a344d1a92623865876174c0e88ce8ab4b", null ],
-    [ "Register", "d6/dab/a25529.html#a352ff0e85eee6e51e9f2eea5cdd9108c", null ],
-    [ "Validate", "d6/dab/a25529.html#ac4fd8fdde53f947082b23852ce149ea9", null ]
+    [ "PrepareSpellScript", "d6/dab/a25529.html#ae49ad5a4ad43099c4510e1666ff6415b", null ],
+    [ "Register", "d6/dab/a25529.html#ad31fa6c2099d984389c3fb12e53a5bd8", null ]
 ];

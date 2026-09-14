@@ -1,6 +1,7 @@
 var a27621 =
 [
-    [ "HandleKnockBack", "d3/d83/a27621.html#abad9f9293260a3e99be98b43aabb321b", null ],
-    [ "PrepareSpellScript", "d3/d83/a27621.html#a65787b78165631898458264e6ee310f4", null ],
-    [ "Register", "d3/d83/a27621.html#ade4f3cb676f1cc92b0e75f85367dc3e0", null ]
+    [ "CheckProc", "d3/d83/a27621.html#a4efa486733390dea566e1169902db915", null ],
+    [ "PrepareAuraScript", "d3/d83/a27621.html#a241b65bdcb6aefa4e37b61c5007149f6", null ],
+    [ "Register", "d3/d83/a27621.html#a5c70bb3ff8d2c3d9a2ab8aad729917bb", null ],
+    [ "Validate", "d3/d83/a27621.html#a7c5d82eba0bba896294cffc94843414c", null ]
 ];

@@ -1,5 +1,6 @@
 var a15821 =
 [
-    [ "at_battleguard_sartura", "d3/d80/a15821.html#a9247cdebeb57d2ddbfa75f60da125d36", null ],
-    [ "OnTrigger", "d3/d80/a15821.html#ae4313968b247a65c3a075b090cd3d5e9", null ]
+    [ "instance_temple_of_ahnqiraj_InstanceMapScript", "d0/d19/a15825.html", "d0/d19/a15825" ],
+    [ "instance_temple_of_ahnqiraj", "d3/d80/a15821.html#a316c5e2cac59f2ee2520fba1b97407e3", null ],
+    [ "GetInstanceScript", "d3/d80/a15821.html#a9e3060d9f2188f410da8aa3e9526e79d", null ]
 ];

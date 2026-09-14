@@ -1,11 +1,7 @@
 var a10277 =
 [
-    [ "StaticVMapCollisionData", "da/d5c/a10277.html#a5955532316bc6409c104197b086d3e3b", null ],
-    [ "GetAreaAndLiquidData", "da/d5c/a10277.html#afcbfd82bc43ad5dbce5edc35608a0d38", null ],
-    [ "getHeight", "da/d5c/a10277.html#ad5b245ec62bf370a479c8fdb0eec1f40", null ],
-    [ "GetObjectHitPos", "da/d5c/a10277.html#aacf3e526a4e52c8515b3a8004e6b0a1a", null ],
-    [ "isInLineOfSight", "da/d5c/a10277.html#a79f47e4eafe0db4e449ec202ad3ef580", null ],
-    [ "MapCollisionData", "da/d5c/a10277.html#a472038a89678719bf8868ab0c75e394f", null ],
-    [ "_mapId", "da/d5c/a10277.html#a9ea6ece2bfd70cb74cbd4f6a9060e5eb", null ],
-    [ "_staticTree", "da/d5c/a10277.html#a4d73d970aa85dbbd9c70633addcdaf13", null ]
+    [ "ZRangeBoundary", "da/d5c/a10277.html#ab9c77783e059de4478625f7c97713c49", null ],
+    [ "IsWithinBoundaryArea", "da/d5c/a10277.html#af1410b3eeb9e7096b1cc53caa7edd68f", null ],
+    [ "_maxZ", "da/d5c/a10277.html#a7226d6a69b9fb922a2ac06300ab060d8", null ],
+    [ "_minZ", "da/d5c/a10277.html#aee142d5bc4cfae80584b84ae451da05c", null ]
 ];

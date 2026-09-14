@@ -1,8 +1,6 @@
 var a23461 =
 [
-    [ "boss_mekgineer_steamrigger", "d6/df3/a23461.html#a930dcbade7135d0c689bcc0718815547", null ],
-    [ "JustDied", "d6/df3/a23461.html#a79272c233bc0256cca62700fc7a01421", null ],
-    [ "JustEngagedWith", "d6/df3/a23461.html#aa75dea00ffd73b45ba5115ea1e48a006", null ],
-    [ "JustSummoned", "d6/df3/a23461.html#a7a55a9dffaf239e73962356eb0fa88ad", null ],
-    [ "KilledUnit", "d6/df3/a23461.html#a84374438458cb7e034f91d4b65cd22f1", null ]
+    [ "go_ahune_ice_stone", "d6/df3/a23461.html#ab7b665f01da80751ea97705c5113bde7", null ],
+    [ "GossipSelect", "d6/df3/a23461.html#aadb4db41ed84922c0a2d0463b8616876", null ],
+    [ "_instance", "d6/df3/a23461.html#a43651f471ac777b59fb8ba67b830cd35", null ]
 ];

@@ -1,6 +1,7 @@
 var a11657 =
 [
-    [ "QuestConfirmAcceptClient", "d7/d8b/a11657.html#ac45767c9cf0e197e185a8936598fc9ea", null ],
-    [ "Read", "d7/d8b/a11657.html#a483980152418879fd1a55db2fa4bf68a", null ],
-    [ "QuestId", "d7/d8b/a11657.html#a25b4b779fdf9e642b2fe13faf03d50b1", null ]
+    [ "QuestGiverQuestFailed", "d7/d8b/a11657.html#aec524e18a6a0fb666061bd08b17ff9cb", null ],
+    [ "Write", "d7/d8b/a11657.html#a97d19e4fe5ccc50afaf91d58321d31ec", null ],
+    [ "FailureReason", "d7/d8b/a11657.html#a5c4d887fd352e97c10a52bb095d8e33d", null ],
+    [ "QuestId", "d7/d8b/a11657.html#a1c09d090cd3b7fc73becca4f523141f6", null ]
 ];

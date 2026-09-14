@@ -1,6 +1,17 @@
 var a16469 =
 [
-    [ "HandleScriptEffect", "df/d81/a16469.html#aaa650972803d14e4d74be977430b04f6", null ],
-    [ "PrepareSpellScript", "df/d81/a16469.html#a1e166c53e2051f3fae1b085a76a08c3f", null ],
-    [ "Register", "df/d81/a16469.html#a3405c1b04f2e623662c7acaa6810278c", null ]
+    [ "npc_hadronox_crusherPackAI", "df/d81/a16469.html#a87d2baf69aecf42ad9b40ff993462e2c", null ],
+    [ "DoAction", "df/d81/a16469.html#a37b0af619fe374f809c0a41d340e5772", null ],
+    [ "DoEngagedWith", "df/d81/a16469.html#a4a6a7b835357fa63d3fc95b3676a5451", null ],
+    [ "DoEvent", "df/d81/a16469.html#a7ed620b7288a89f83150f49f0883f38b", null ],
+    [ "GetData", "df/d81/a16469.html#ae6a622e916a8e957eb3a4bf1b6563736", null ],
+    [ "JustEngagedWith", "df/d81/a16469.html#abc2842315c49bad32ea04b0d67e7d903", null ],
+    [ "MoveInLineOfSight", "df/d81/a16469.html#a1801b218fe0ad79b8e8710f2ffd177ad", null ],
+    [ "MovementInform", "df/d81/a16469.html#a810f890a7c57811e683f063f4c9fdcf4", null ],
+    [ "SetData", "df/d81/a16469.html#a99c1bcd23e068cba7e663fba2953b059", null ],
+    [ "UpdateAI", "df/d81/a16469.html#a0c84d3d559791416cdbc316cc3e8edfc", null ],
+    [ "_doFacing", "df/d81/a16469.html#a522540365169c2e73aa69914c350cbd0", null ],
+    [ "_instance", "df/d81/a16469.html#a050359a9f4a7556c6793337d7f654543", null ],
+    [ "_myPack", "df/d81/a16469.html#a4c297d590ec5e7e1efb079a61d34d437", null ],
+    [ "_positions", "df/d81/a16469.html#a811105fc340ac25bdc61ede98387e430", null ]
 ];

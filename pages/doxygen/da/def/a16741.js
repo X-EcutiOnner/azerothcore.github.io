@@ -1,6 +1,6 @@
 var a16741 =
 [
-    [ "npc_memoryAI", "dd/d7b/a16745.html", "dd/d7b/a16745" ],
-    [ "npc_memory", "da/def/a16741.html#acebf31813025d323f9486d6575a60483", null ],
-    [ "GetAI", "da/def/a16741.html#ad8e532d029217a06d11ae39810498976", null ]
+    [ "HandleHealPct", "da/def/a16741.html#ad13b3924815ac3da7902c8292a760943", null ],
+    [ "PrepareSpellScript", "da/def/a16741.html#aeea718bce7dd5aa4ac33bbd1a95a65c0", null ],
+    [ "Register", "da/def/a16741.html#a3016c31c072d6417bbe47c2891059718", null ]
 ];

@@ -1,6 +1,8 @@
 var a13805 =
 [
-    [ "CastArmageddon", "dd/dc4/a13805.html#a2e90929b63e6151252aa01a55dbd801f", null ],
-    [ "Execute", "dd/dc4/a13805.html#a4f0651a38eaf03a07bcd73d0f88dda16", null ],
-    [ "_caster", "dd/dc4/a13805.html#a1e70887099a7a47b7c26517d4363ad93", null ]
+    [ "npc_demonic_vapor", "dd/dc4/a13805.html#aee2e1b7372b8125b49e8466a2406ff00", null ],
+    [ "IsSummonedBy", "dd/dc4/a13805.html#ace56fe54dc6d3f597df0d1e28924082f", null ],
+    [ "Reset", "dd/dc4/a13805.html#a7d2b88ab26904cedaac34f03567806bc", null ],
+    [ "UpdateAI", "dd/dc4/a13805.html#a6637d2d5fc6615c2d76aa0d04c36a047", null ],
+    [ "_timer", "dd/dc4/a13805.html#ab067f5b9b9f37db4db9ab6e5295e5d52", null ]
 ];

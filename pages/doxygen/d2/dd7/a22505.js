@@ -1,6 +1,6 @@
 var a22505 =
 [
-    [ "CheckCast", "d2/dd7/a22505.html#afde7c1e90f2faa9c587490ce358a59b2", null ],
-    [ "PrepareSpellScript", "d2/dd7/a22505.html#a5139e3e9cb1c9079798cefc3cb04d387", null ],
-    [ "Register", "d2/dd7/a22505.html#a01225e48eaf2a6dfe13da245725b0a64", null ]
+    [ "HandleSummon", "d2/dd7/a22505.html#a98c5df8b6c561a5aa7d766b639f3c2c8", null ],
+    [ "PrepareSpellScript", "d2/dd7/a22505.html#ab5605e1d401d7a762fc8b5a530ecd640", null ],
+    [ "Register", "d2/dd7/a22505.html#a9c9a0fd43758a6441a086860e8276cc0", null ]
 ];

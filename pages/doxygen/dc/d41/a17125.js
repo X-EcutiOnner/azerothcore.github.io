@@ -1,5 +1,14 @@
 var a17125 =
 [
-    [ "boss_fjolaAI", "dc/d41/a17125.html#aa46fdff841d01f28ef50aa5363082f71", null ],
-    [ "JustSummoned", "dc/d41/a17125.html#a59a3f2453f923d4f19c63e88402d1a76", null ]
+    [ "npc_snobold_vassalAI", "dc/d41/a17125.html#a2ecc5e8289252b2936f36de9921294e0", null ],
+    [ "AttackStart", "dc/d41/a17125.html#a50afc82c80cede8dcf3240a116463411", null ],
+    [ "DoAction", "dc/d41/a17125.html#a8beac97ea5f7c797d2ae52e2f3c3be50", null ],
+    [ "JustDied", "dc/d41/a17125.html#aef408460584a17f15a84e8a6435c6348", null ],
+    [ "JustEngagedWith", "dc/d41/a17125.html#a60c1704617e99239d60d24d6b7513c1a", null ],
+    [ "MoveInLineOfSight", "dc/d41/a17125.html#aae75a4e69e27c1e4778a7f76caff04ba", null ],
+    [ "Reset", "dc/d41/a17125.html#af794f46b1a7af97b52683954b556c27d", null ],
+    [ "UpdateAI", "dc/d41/a17125.html#ac1d282da6f2d9133619a212a349c777f", null ],
+    [ "events", "dc/d41/a17125.html#adfb6df0ee8ab19b58de24da8d4e6d9df", null ],
+    [ "pInstance", "dc/d41/a17125.html#afc140e6f9fc1ec78914aecc5150345b0", null ],
+    [ "TargetGUID", "dc/d41/a17125.html#a0d36e4903448c5a03115df0dff3480c8", null ]
 ];

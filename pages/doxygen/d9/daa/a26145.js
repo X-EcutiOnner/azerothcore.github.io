@@ -1,7 +1,8 @@
 var a26145 =
 [
-    [ "Load", "d9/daa/a26145.html#a8be944ae201f4f8406948aff78f982d9", null ],
-    [ "OnDummyEffect", "d9/daa/a26145.html#adcb707400963e549a295e115d6f3583b", null ],
-    [ "PrepareSpellScript", "d9/daa/a26145.html#a5b2175a933df10d775bc3381f515aa96", null ],
-    [ "Register", "d9/daa/a26145.html#a6e41bf15401c540887dd321e4b2cc7d3", null ]
+    [ "CheckProc", "d9/daa/a26145.html#a2e83dd62bfcbe23e38b62e8299a52ee5", null ],
+    [ "HandleProc", "d9/daa/a26145.html#a1d45afc30c8dd6de0a01285778117033", null ],
+    [ "PrepareAuraScript", "d9/daa/a26145.html#ab468329029c4bc3c16475585b3451615", null ],
+    [ "Register", "d9/daa/a26145.html#a37700b8597a3945d30700c5e8b60404a", null ],
+    [ "Validate", "d9/daa/a26145.html#a30e57e0b04e16a4a232c6a18801fafa0", null ]
 ];

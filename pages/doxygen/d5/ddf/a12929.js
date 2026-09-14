@@ -1,7 +1,5 @@
 var a12929 =
 [
-    [ "boss_ebonroc", "d5/ddf/a12929.html#a74725561727d5bf0dd266f50d377c9c8", null ],
-    [ "JustEngagedWith", "d5/ddf/a12929.html#a84250d1bc0986130404433c80162ecac", null ],
-    [ "MovementInform", "d5/ddf/a12929.html#afa0e5ad6e2eb3d8df539266623dbffb4", null ],
-    [ "UpdateAI", "d5/ddf/a12929.html#a8d7b9b681ae8c1e4102cb90456611732", null ]
+    [ "at_dragonspire_hall", "d5/ddf/a12929.html#a6adb22f328a7324b2ecf70204ab26a6d", null ],
+    [ "OnTrigger", "d5/ddf/a12929.html#a1a7bd95653e84b7fd436d71c162c087e", null ]
 ];

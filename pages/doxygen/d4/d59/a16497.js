@@ -1,8 +1,6 @@
 var a16497 =
 [
-    [ "boss_sartharion_vesperon", "d4/d59/a16497.html#a3ce6d2036faa108cb97ebf75bdb6ad33", null ],
-    [ "ClearInstance", "d4/d59/a16497.html#a0c45127e9eb2be20765f92e1161e2e5a", null ],
-    [ "ExecuteEvent", "d4/d59/a16497.html#aefc42452e75c476aef39ba0df3a03d70", null ],
-    [ "Reset", "d4/d59/a16497.html#a948bfddea4eb3c0fe471d8f501a88d6c", null ],
-    [ "SummonedCreatureDies", "d4/d59/a16497.html#a9df29b4c71c93da8cf7ae9f81b870345", null ]
+    [ "FilterTargets", "d4/d59/a16497.html#aff3223d9b3df91f9261aa2f45373f846", null ],
+    [ "PrepareSpellScript", "d4/d59/a16497.html#a3ca9ba182a313fb741b15df63408a90e", null ],
+    [ "Register", "d4/d59/a16497.html#af333c3c72251a2d1c0ee4effdbc0b155", null ]
 ];

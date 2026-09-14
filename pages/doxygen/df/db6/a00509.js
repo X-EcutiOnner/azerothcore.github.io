@@ -1,5 +1,7 @@
 var a00509 =
 [
-    [ "ConfusedMovementGenerator< T >", "d1/d0d/a10421.html", "d1/d0d/a10421" ],
-    [ "MAX_CONF_WAYPOINTS", "df/db6/a00509.html#ad4f7a217e114623ec80b1743f39ed3ea", null ]
+    [ "SKIP_SPLINE_POINT_DISTANCE_SQ", "df/db6/a00509.html#a55b33fb4c6265551b0327903da9bff4c", null ],
+    [ "IsNodeIncludedInShortenedPath", "df/db6/a00509.html#a47a5affa854677472690918c4d16f998", null ],
+    [ "PositionToVector3", "df/db6/a00509.html#ac0d2ec1868bbb7a72904410f1efeaaca", null ],
+    [ "UpdateHomePosition", "df/db6/a00509.html#a2cfd2302ba925854b6edc6af49bcb40a", null ]
 ];

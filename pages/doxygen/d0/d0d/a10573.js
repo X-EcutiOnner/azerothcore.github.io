@@ -1,23 +1,6 @@
 var a10573 =
 [
-    [ "LengthArray", "d0/d0d/a10573.html#a20cf3df436c8fc337019cb8dbd4fc74f", null ],
-    [ "LengthType", "d0/d0d/a10573.html#a5bbffaf9ea67b7747d5c0749d38162fb", null ],
-    [ "Spline", "d0/d0d/a10573.html#a9aaaf0914627ffdad08de010920fd626", null ],
-    [ "clear", "d0/d0d/a10573.html#a091e42262c66dff880bfa787c74a0bcc", null ],
-    [ "computeIndex", "d0/d0d/a10573.html#a69a59bf415f83e6770694799e3c905b1", null ],
-    [ "computeIndexInBounds", "d0/d0d/a10573.html#aa344531c5931b35d759830991174c6a0", null ],
-    [ "computeIndexInBounds", "d0/d0d/a10573.html#a97b872ca05f947444945860e04bb2651", null ],
-    [ "evaluate_derivative", "d0/d0d/a10573.html#ad4b8334bf969be613fdf68043b602fb1", null ],
-    [ "evaluate_derivative", "d0/d0d/a10573.html#ae0801ccc74dc971248f743cfadc248a3", null ],
-    [ "evaluate_percent", "d0/d0d/a10573.html#ae05046412e2825316172dc8b1cdac870", null ],
-    [ "evaluate_percent", "d0/d0d/a10573.html#a249fa3aa29b3baa59a5afec0e14c7ef5", null ],
-    [ "init_cyclic_spline", "d0/d0d/a10573.html#a8986ec43a095199017245bc3cf00a8e0", null ],
-    [ "init_spline", "d0/d0d/a10573.html#a0aa38bde854589ea2b41b1751eaf5107", null ],
-    [ "initLengths", "d0/d0d/a10573.html#ad1cdf5235b5a2a64f32125bcf9048094", null ],
-    [ "initLengths", "d0/d0d/a10573.html#a708b60c2b21178db578520dfd98af6f7", null ],
-    [ "length", "d0/d0d/a10573.html#aab929569bba2417387acd22f0634504d", null ],
-    [ "length", "d0/d0d/a10573.html#a6791d5411365109dffcc699170f03291", null ],
-    [ "length", "d0/d0d/a10573.html#a73b3a47713e07a5d07959a2eb17be87e", null ],
-    [ "set_length", "d0/d0d/a10573.html#a7c5aba567e41d196c8bf0faf175ed43e", null ],
-    [ "lengths", "d0/d0d/a10573.html#a307a7a746de042f0cd21f48797768afb", null ]
+    [ "FallInitializer", "d0/d0d/a10573.html#a618345df62b821d286caadc7179b7d83", null ],
+    [ "operator()", "d0/d0d/a10573.html#a7a9b294b6820e229cd95f4fc9bde825b", null ],
+    [ "start_elevation", "d0/d0d/a10573.html#ab94604fb6eee50832001908c12044130", null ]
 ];

@@ -1,12 +1,8 @@
 var a12849 =
 [
-    [ "boss_the_beast", "da/db2/a12849.html#ab98bce804078b4184b1bf6e844db9c67", null ],
-    [ "FindNearbyOrcs", "da/db2/a12849.html#a46da3f960ea3c38791c23a3e282db9c7", null ],
-    [ "JustEngagedWith", "da/db2/a12849.html#a9740b134ce1b21c42c9082d9fdc97264", null ],
-    [ "Reset", "da/db2/a12849.html#a7a72f5aeb54fe6de6c71dfac2c906881", null ],
-    [ "SetData", "da/db2/a12849.html#a8ceb3a1c53c2c5385d4a779b2ac283da", null ],
-    [ "UpdateAI", "da/db2/a12849.html#ad7db422aefc711b437176b729c6ac151", null ],
-    [ "_beastReached", "da/db2/a12849.html#a7345b0091bcfd894ce8fdff9431254f6", null ],
-    [ "_nearbyOrcsGUIDs", "da/db2/a12849.html#a20b867be394f3c5d9bbf851ba724ca3a", null ],
-    [ "_orcYelled", "da/db2/a12849.html#a7079c59c50343f460e2aac2bcf19709c", null ]
+    [ "CheckProc", "da/db2/a12849.html#a08e84f2b2ff25ed7e260e61251f9cdb9", null ],
+    [ "HandleProc", "da/db2/a12849.html#afd3d4786f739566056b69390553d9c71", null ],
+    [ "PrepareAuraScript", "da/db2/a12849.html#a3ba84d4fd311a91efa685980ffec8d77", null ],
+    [ "Register", "da/db2/a12849.html#aa36a2e10a6fd67fa74d08e20dc806744", null ],
+    [ "Validate", "da/db2/a12849.html#aeff8b89300bb5d3589a46a4f66cfd77d", null ]
 ];

@@ -1,7 +1,7 @@
 var a23101 =
 [
-    [ "HandleEffectApply", "de/dc8/a23101.html#aff0dbed165d0e751db725f7eaaf76a11", null ],
-    [ "Load", "de/dc8/a23101.html#a1dfb5b2004041e7165cc9f5deb4b1e82", null ],
-    [ "PrepareAuraScript", "de/dc8/a23101.html#a3dbd01e52ed2a630f0c014f941fc1b5e", null ],
-    [ "Register", "de/dc8/a23101.html#a647f21e79e3fef72cf84439fc84e708f", null ]
+    [ "CalculateAmount", "de/dc8/a23101.html#adad1c8a513ce8a1badbd40c291363de1", null ],
+    [ "PrepareAuraScript", "de/dc8/a23101.html#ac1a896ac1a751c8bdaee186dffd8c251", null ],
+    [ "Register", "de/dc8/a23101.html#ae839fd19933a6fa9e55ce37e0633073e", null ],
+    [ "Update", "de/dc8/a23101.html#aeb5a347ccac3c5ce6faef7641b5fca1c", null ]
 ];

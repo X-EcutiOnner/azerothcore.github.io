@@ -1,6 +1,7 @@
 var a27157 =
 [
-    [ "HandleScriptEffect", "df/da3/a27157.html#a703b5a1725e05bfbfccc3b6ee5107d95", null ],
-    [ "PrepareSpellScript", "df/da3/a27157.html#ab2bb14aac4758dac46aae636ba09e50d", null ],
-    [ "Register", "df/da3/a27157.html#ae2fca7fde9af90dd7d461c2d046d9783", null ]
+    [ "HandleEffectRemove", "df/da3/a27157.html#a814687d3938e966f8721438e1a722f77", null ],
+    [ "PrepareAuraScript", "df/da3/a27157.html#a2144b0602501471a4001883ce9de6db3", null ],
+    [ "Register", "df/da3/a27157.html#a9d696dc7e58692216fa1cf6cc7c011a9", null ],
+    [ "AuraEffectHandleModes", "df/da3/a27157.html#ab291f6c6f269ec7004df39a043f49efd", null ]
 ];

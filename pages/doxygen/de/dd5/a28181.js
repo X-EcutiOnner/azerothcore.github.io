@@ -1,6 +1,7 @@
 var a28181 =
 [
-    [ "npc_spirit_shadeAI", "d0/dbe/a28185.html", "d0/dbe/a28185" ],
-    [ "npc_spirit_shade", "de/dd5/a28181.html#a891ede5651789274496d6426daf9937d", null ],
-    [ "GetAI", "de/dd5/a28181.html#a166f6a9abf7c0e33374c2f998c0524c3", null ]
+    [ "CharacterDeleteActionIpLogger", "de/dd5/a28181.html#a37481de65409cf375dcff45615463949", null ],
+    [ "DeleteIPLogAction", "de/dd5/a28181.html#a73a5ddacd8892d2300be313cfc12f534", null ],
+    [ "OnPlayerDelete", "de/dd5/a28181.html#adb16e45e425fa816b2572692349d0005", null ],
+    [ "OnPlayerFailedDelete", "de/dd5/a28181.html#a16bc6247d220c1b6c52808cb4a522c11", null ]
 ];

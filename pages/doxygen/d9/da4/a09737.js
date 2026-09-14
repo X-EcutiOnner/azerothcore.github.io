@@ -1,8 +1,8 @@
 var a09737 =
 [
-    [ "NearestGameObjectCheck", "d9/da4/a09737.html#aa8ede7ca83cc53cc5b4a8a057f6e8477", null ],
-    [ "NearestGameObjectCheck", "d9/da4/a09737.html#a366ef1710823d1e52eb2df650e60562f", null ],
-    [ "operator()", "d9/da4/a09737.html#a00df56adb5c6459c59b5ae4e0b85f0d3", null ],
-    [ "i_obj", "d9/da4/a09737.html#aeaec0e0f53cb870e1f0a93f8b05b74bc", null ],
-    [ "i_range", "d9/da4/a09737.html#a92fc9a7ac2995ad962173ae3a794e825", null ]
+    [ "CreatureWorker", "d9/da4/a09737.html#a4b4dc219d034565cd83748c5f1cab2a5", null ],
+    [ "Visit", "d9/da4/a09737.html#ae67044250380c521055f80c55de0bba5", null ],
+    [ "Visit", "d9/da4/a09737.html#aa9a450b147aafe46a49135f5c5be668e", null ],
+    [ "i_do", "d9/da4/a09737.html#ac22f86d9a41701e7527d4840da256f11", null ],
+    [ "i_phaseMask", "d9/da4/a09737.html#adf514c89c894cdf2b44fc75d14c4f5b0", null ]
 ];

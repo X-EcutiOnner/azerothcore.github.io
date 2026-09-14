@@ -1,7 +1,9 @@
 var a15213 =
 [
-    [ "hyjalThrallAI", "d5/d1e/a15217.html", "d5/d1e/a15217" ],
-    [ "npc_hyjal_thrall", "d6/da0/a15213.html#a232f085f208a47f7fae08128de1d06b8", null ],
-    [ "GetAI", "d6/da0/a15213.html#a699b5df19e4e84166348ecfba2dd0172", null ],
-    [ "OnGossipSelect", "d6/da0/a15213.html#af833f26d79d34655c010aa04f984a94a", null ]
+    [ "npc_ancient_wisp", "d6/da0/a15213.html#a70e45e500b3490a034b058ca2ec16d39", null ],
+    [ "DamageTaken", "d6/da0/a15213.html#ad7d96e6b54cdc23a5101338474125e71", null ],
+    [ "JustEngagedWith", "d6/da0/a15213.html#a755ed852b3149ada65c5750410776fc8", null ],
+    [ "Reset", "d6/da0/a15213.html#a1c33cc47d7f60b2b3eb60852f1c36820", null ],
+    [ "UpdateAI", "d6/da0/a15213.html#a51ca214de826d7126f32e49f6852bca3", null ],
+    [ "_instance", "d6/da0/a15213.html#a5e5e51944d49cc52bed4ff4953513f1f", null ]
 ];

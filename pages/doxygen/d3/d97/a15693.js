@@ -1,6 +1,5 @@
 var a15693 =
 [
-    [ "FilterTargets", "d3/d97/a15693.html#a15ebe9125f5f4a8f66241ee4da1ac83e", null ],
-    [ "PrepareSpellScript", "d3/d97/a15693.html#a32b0be74a9127f920e22aa03c910a005", null ],
-    [ "Register", "d3/d97/a15693.html#a80efa2858d4270c497e49a1fe6a7472e", null ]
+    [ "NotInStomachSelector", "d3/d97/a15693.html#a766a75e73261ac8bb76c90e8befd21ad", null ],
+    [ "operator()", "d3/d97/a15693.html#a189c90e585ecef8ffbcbe9227c588946", null ]
 ];

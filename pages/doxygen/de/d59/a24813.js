@@ -1,7 +1,7 @@
 var a24813 =
 [
-    [ "AfterApply", "de/d59/a24813.html#adae232af9445638b3d54e81d414483b7", null ],
-    [ "AfterRemove", "de/d59/a24813.html#abf458f1f1dd5abfbba88325cad044ab1", null ],
-    [ "PrepareAuraScript", "de/d59/a24813.html#a305c532aa0e8740e8c8a87a6ba0abcff", null ],
-    [ "Register", "de/d59/a24813.html#abff75ea597dcc017a359a5ef3ada4314", null ]
+    [ "HandleProc", "de/d59/a24813.html#a1c9c503e64b8e9060e7af700aabdf30b", null ],
+    [ "PrepareAuraScript", "de/d59/a24813.html#a9aa6b540ab7061d48290eb2a49113adf", null ],
+    [ "Register", "de/d59/a24813.html#a142a1a5d27b714935aa5e05619e06ae3", null ],
+    [ "Validate", "de/d59/a24813.html#a88cb3af37d3133f95355634c8bd98d61", null ]
 ];

@@ -1,6 +1,10 @@
 var a17225 =
 [
-    [ "boss_trollgoreAI", "d1/d9c/a17229.html", "d1/d9c/a17229" ],
-    [ "boss_trollgore", "df/dd6/a17225.html#a95102f1fae6c667e0780b8b388fc156b", null ],
-    [ "GetAI", "df/dd6/a17225.html#a6da1349da296a3dc3d29527a8e3c2b7d", null ]
+    [ "boss_dredAI", "df/dd6/a17225.html#a4ad04fe31990a37fd6d3a23329350248", null ],
+    [ "GetData", "df/dd6/a17225.html#a7a93506d77eaf40c6f7be9e433f211e1", null ],
+    [ "JustEngagedWith", "df/dd6/a17225.html#ae6e1181dcdea763460ca72148abfcb3f", null ],
+    [ "Reset", "df/dd6/a17225.html#a5fe153ab58b1feedce5afa6b10a0d3de", null ],
+    [ "ScheduleTasks", "df/dd6/a17225.html#aaea229cebd3d82b01c4577e58a06de2d", null ],
+    [ "SetData", "df/dd6/a17225.html#a884f48aabc26b054dcd303a91cb88301", null ],
+    [ "_raptorCount", "df/dd6/a17225.html#a95aa63c18d7e1f2dec2491ac4649a378", null ]
 ];

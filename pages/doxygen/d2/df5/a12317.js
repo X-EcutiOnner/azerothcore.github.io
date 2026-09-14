@@ -1,11 +1,13 @@
 var a12317 =
 [
-    [ "bf_commandscript", "d2/df5/a12317.html#a806ca440ae1b51fffefee9d298dab3df", null ],
-    [ "GetCommands", "d2/df5/a12317.html#a97f0192d7ccd3532cfceaebff9f242be", null ],
-    [ "HandleBattlefieldEnable", "d2/df5/a12317.html#a5d6fdbbdd77fc16aaac170d5af0ff924", null ],
-    [ "HandleBattlefieldEnd", "d2/df5/a12317.html#abe18a8f6f91de5a1984f09c711136919", null ],
-    [ "HandleBattlefieldQueue", "d2/df5/a12317.html#ab2e116060bb747e9ae9237c49b8cc2c9", null ],
-    [ "HandleBattlefieldStart", "d2/df5/a12317.html#a1cfd74a803277063fa5e03162956f341", null ],
-    [ "HandleBattlefieldSwitch", "d2/df5/a12317.html#ae942a3c7f13cc77b3cf36078d798e0fe", null ],
-    [ "HandleBattlefieldTimer", "d2/df5/a12317.html#a6c0d2587984f276bbc40af72017dc00a", null ]
+    [ "PlayerDumpWriter", "d2/df5/a12317.html#a060152c060b37c4bf1208a99edc4a840", null ],
+    [ "AppendTable", "d2/df5/a12317.html#a7f285fddf6d33dd1664b5af801f110e9", null ],
+    [ "GetDump", "d2/df5/a12317.html#a17457008e1262c0aed284469e55841c6", null ],
+    [ "PopulateGuids", "d2/df5/a12317.html#aab122c84eefe801ac23211ec5a41e888", null ],
+    [ "WriteDumpToFile", "d2/df5/a12317.html#a81612bfc0d161595f4de1a6133d5c46d", null ],
+    [ "WriteDumpToString", "d2/df5/a12317.html#a43d30815c9b3b2608e0fecad7bba7254", null ],
+    [ "_items", "d2/df5/a12317.html#a5da825b82a09809ded2ce2c88458cc26", null ],
+    [ "_itemSets", "d2/df5/a12317.html#a33ff3a269064d883eff84ec83c394e92", null ],
+    [ "_mails", "d2/df5/a12317.html#a2863e88ee13debe77e4b1d3d0960d18a", null ],
+    [ "_pets", "d2/df5/a12317.html#a33325b0514324020bba98364a7f59de5", null ]
 ];

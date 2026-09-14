@@ -1,6 +1,7 @@
 var a16709 =
 [
-    [ "HandleScript", "db/dfc/a16709.html#a647f39eb125537cd7545ab4115be1091", null ],
-    [ "PrepareSpellScript", "db/dfc/a16709.html#a55dec84643f9bd536c7c73b5909ab303", null ],
-    [ "Register", "db/dfc/a16709.html#a0077abbe11092b9636c3bb7b5c367946", null ]
+    [ "OnApply", "db/dfc/a16709.html#a2e4fa91ed7b3270a1addb8e5b3a85d74", null ],
+    [ "OnRemove", "db/dfc/a16709.html#a781994b0be4588f4df29399fc900ec69", null ],
+    [ "PrepareAuraScript", "db/dfc/a16709.html#aee648b80e7352edffb20fd60697e1d88", null ],
+    [ "Register", "db/dfc/a16709.html#a53c56711e31500f827123c08f44072cb", null ]
 ];

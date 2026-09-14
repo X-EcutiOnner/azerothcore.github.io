@@ -1,8 +1,6 @@
 var a27393 =
 [
-    [ "HandleDummy", "db/dfe/a27393.html#a308880cf9c61c76de0fdee05fff2b463", null ],
-    [ "Load", "db/dfe/a27393.html#acafb9d6ac4fde694dc44cbf13b7f97ad", null ],
-    [ "PrepareSpellScript", "db/dfe/a27393.html#a3a2672c39f36229c0dd6cdea0fad3299", null ],
-    [ "Register", "db/dfe/a27393.html#a1857b342ae34a57f079f45019645c688", null ],
-    [ "Validate", "db/dfe/a27393.html#a121c30045281eab5fee4f65d38d1dfc3", null ]
+    [ "HandleScript", "db/dfe/a27393.html#ad0885113f3bd8eea8ff3db30b55cc240", null ],
+    [ "PrepareSpellScript", "db/dfe/a27393.html#a8410b746f810eaeb7f71c3a7de607a84", null ],
+    [ "Register", "db/dfe/a27393.html#ab8f5c857ee42a6767d10277b52a7da01", null ]
 ];

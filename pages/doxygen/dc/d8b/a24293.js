@@ -1,6 +1,7 @@
 var a24293 =
 [
-    [ "npc_lord_illidan_stormrageAI", "d9/db6/a24297.html", "d9/db6/a24297" ],
-    [ "npc_lord_illidan_stormrage", "dc/d8b/a24293.html#ad2f213749e170ec4f9903396d132f5f3", null ],
-    [ "GetAI", "dc/d8b/a24293.html#a9aaedc4326b90621965dad522f4af897", null ]
+    [ "HandleScriptEffect", "dc/d8b/a24293.html#ad018d907a85ee31d3194823a4c02a1a5", null ],
+    [ "PrepareSpellScript", "dc/d8b/a24293.html#a50b6bc43eaeee0ec760c02ac1685454e", null ],
+    [ "Register", "dc/d8b/a24293.html#a2096673a3f57cc224aeb7d3ce84526cb", null ],
+    [ "Validate", "dc/d8b/a24293.html#a5209de3456c374010502a94f67ff4544", null ]
 ];

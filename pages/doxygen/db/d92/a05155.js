@@ -1,10 +1,26 @@
 var a05155 =
 [
-    [ "BladeEdgeArenaRope", "d9/db1/a10465.html", "d9/db1/a10465" ],
-    [ "GetClosestPointOnBladeEdgeArenaRope", "db/d92/a05155.html#ad6fb8ac315aae658ae30abe0ed4b0536", null ],
-    [ "IsOutsideExpandedXYBounds", "db/d92/a05155.html#a71f129f45def5530dd577d961f33ff75", null ],
-    [ "TrySnapToBladeEdgeArenaRope", "db/d92/a05155.html#a7545d55edb64810e769569909d3f22cc", null ],
-    [ "BLADE_EDGE_ROPE_SNAP_DIST", "db/d92/a05155.html#a4bd7d9d834123be5931eda51fb882654", null ],
-    [ "BLADE_EDGE_ROPE_SNAP_DIST2", "db/d92/a05155.html#aab9750e7a18e090ee53c16bb42eb1873", null ],
-    [ "BladeEdgeArenaRopes", "db/d92/a05155.html#a5bd7b066b349914a5d42899d3c1f7ce8", null ]
+    [ "achievement", "d3/d63/a08241.html", "d3/d63/a08241" ],
+    [ "base_tag", "db/d1b/a08237.html", "db/d1b/a08237" ],
+    [ "enchant", "da/da5/a08245.html", "da/da5/a08245" ],
+    [ "found", "de/d72/a08249.html", "de/d72/a08249" ],
+    [ "glyph", "da/d67/a08253.html", "da/d67/a08253" ],
+    [ "item", "d6/d6c/a08257.html", "d6/d6c/a08257" ],
+    [ "quest", "d0/da8/a08261.html", "d0/da8/a08261" ],
+    [ "spell", "df/dab/a08265.html", "df/dab/a08265" ],
+    [ "talent", "d7/d90/a08269.html", "d7/d90/a08269" ],
+    [ "trade", "d3/dd7/a08273.html", "d3/dd7/a08273" ],
+    [ "make_base_tag", "db/d92/a05155.html#a6ebb455ff3abbea4ad68bd1d7d05fd3a", null ],
+    [ "make_base_tag", "db/d92/a05155.html#a0803de4bbc9edad4f5bb2afc3c242dca", null ],
+    [ "make_base_tag", "db/d92/a05155.html#aa8156f2996632fd42a2e39b974426995", null ],
+    [ "make_base_tag", "db/d92/a05155.html#a321da5d63921d41c561a1460929ac730", null ],
+    [ "make_base_tag", "db/d92/a05155.html#afc9dbd840048c0031231bcdb7b2fcf04", null ],
+    [ "make_base_tag", "db/d92/a05155.html#a7083d48423b83ff39095030678b29877", null ],
+    [ "make_base_tag", "db/d92/a05155.html#aae3a6cd0fbf426755d93a387882ff767", null ],
+    [ "make_base_tag", "db/d92/a05155.html#aa0ca4a111a856da9091a377934f8de93", null ],
+    [ "make_base_tag", "db/d92/a05155.html#a9990339040b491e108594df755f03a6c", null ],
+    [ "make_base_tag", "db/d92/a05155.html#aa0200f5ae02cb0b03a9ab7097ca2a2ec", null ],
+    [ "make_base_tag", "db/d92/a05155.html#a32cfa3bc188d1b731f3e9e5dcc2de664", null ],
+    [ "make_base_tag", "db/d92/a05155.html#ae0c637d10c728f04dc2468c15c3f8dca", null ],
+    [ "make_base_tag", "db/d92/a05155.html#abe0a588f1c0e66d33c8bc7a7d0a04459", null ]
 ];

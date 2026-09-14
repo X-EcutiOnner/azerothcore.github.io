@@ -1,5 +1,8 @@
 var a19789 =
 [
-    [ "achievement_chaos_theory", "d6/db6/a19789.html#a3068009fa1fb400439a2c72f00296484", null ],
-    [ "OnCheck", "d6/db6/a19789.html#a68d9a577cb7e005d81f52077707e3555", null ]
+    [ "npc_scion_of_eternity", "d6/db6/a19789.html#ac1a9111bc835a3d2cffc43b840985763", null ],
+    [ "AttackStart", "d6/db6/a19789.html#a86b5e235096ad107217f36150c618d73", null ],
+    [ "JustDied", "d6/db6/a19789.html#aff0f8d0d57afb6ef3df7b259ec5860fa", null ],
+    [ "MoveInLineOfSight", "d6/db6/a19789.html#a25424c349fc39f7b42d36ac055f91ad9", null ],
+    [ "UpdateAI", "d6/db6/a19789.html#a49be60ccd03d75cf56931b870ddf086c", null ]
 ];

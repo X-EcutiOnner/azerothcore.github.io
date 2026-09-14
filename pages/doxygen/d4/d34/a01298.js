@@ -1,9 +1,7 @@
 var a01298 =
 [
-    [ "FlyByCameraCollection", "d4/d34/a01298.html#a058e5fb250bd785cecc9a6913132dfe4", null ],
-    [ "GetFlyByCameras", "d4/d34/a01298.html#af4a9ba9da1a2f4075cc36b95cce62f6f", null ],
-    [ "LoadM2Cameras", "d4/d34/a01298.html#a036ca5e535b8e25b87a67c20c2ad2d4c", null ],
-    [ "readCamera", "d4/d34/a01298.html#ad7c17022a3ffed42c9d4995f5f6bb7ac", null ],
-    [ "TranslateLocation", "d4/d34/a01298.html#a5274eb8fcc7646fe4fc3ea77ab6de2d9", null ],
-    [ "sFlyByCameraStore", "d4/d34/a01298.html#a4acfeb7e23e1d3a74b66a1c54084e7bc", null ]
+    [ "ArenaTeamMgr", "d0/d98/a07733.html", "d0/d98/a07733" ],
+    [ "sArenaTeamMgr", "d4/d34/a01298.html#a94afc7262fb2f00293dc80de8ba547df", null ],
+    [ "MAX_ARENA_TEAM_ID", "d4/d34/a01298.html#aa472ba6cfd587021965aece0e77797b7", null ],
+    [ "MAX_TEMP_ARENA_TEAM_ID", "d4/d34/a01298.html#ade4bc52db611f6481d3c8f5e6f346b4c", null ]
 ];

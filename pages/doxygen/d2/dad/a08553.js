@@ -1,10 +1,5 @@
 var a08553 =
 [
-    [ "IsCastable", "d2/dad/a08553.html#a677b21866e24d2c94de28d96db07aafd", null ],
-    [ "MoneyCost", "d2/dad/a08553.html#af20caa962ba1f5edb376b78b6b35b119", null ],
-    [ "ReqAbility", "d2/dad/a08553.html#a101686190208be6fb46a46768ca779f9", null ],
-    [ "ReqLevel", "d2/dad/a08553.html#a45e87439b1ae356ccb9ff381f58f942e", null ],
-    [ "ReqSkillLine", "d2/dad/a08553.html#a008ff0df36f2e19534a5fda97616f14f", null ],
-    [ "ReqSkillRank", "d2/dad/a08553.html#aa151d559cb276797a39dd203fd1b24c2", null ],
-    [ "SpellId", "d2/dad/a08553.html#ac289744925387c199fde756867bbfc57", null ]
+    [ "GossipActionMenuId", "d2/dad/a08553.html#a377beba97be2b81a0c2bbeb933f1927b", null ],
+    [ "GossipActionPoi", "d2/dad/a08553.html#afdaf27e370e3c84659fdc3784cafad29", null ]
 ];

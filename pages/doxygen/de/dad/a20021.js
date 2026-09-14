@@ -1,6 +1,9 @@
 var a20021 =
 [
-    [ "CalculateDamage", "de/dad/a20021.html#a3b9afc712f9091273e9abc5079a90eb8", null ],
-    [ "PrepareSpellScript", "de/dad/a20021.html#a59e56fb107cca4952c5e94ed371f73dd", null ],
-    [ "Register", "de/dad/a20021.html#a02851f0b94687512a8e016bfb9b826e3", null ]
+    [ "npc_stormforged_lieutenant", "de/dad/a20021.html#aef5101b1f28ccec1fc60ccb2981623b9", null ],
+    [ "JustEngagedWith", "de/dad/a20021.html#a262ac995279b1a936534c858e21122a9", null ],
+    [ "Reset", "de/dad/a20021.html#abc359564370152b28a002a801ba1ab3d", null ],
+    [ "UpdateAI", "de/dad/a20021.html#a4c207f0ef172585b97695b63e119d1bc", null ],
+    [ "BjarngrimGUID", "de/dad/a20021.html#ad56f4d2a06f3a3e5fc4d813b9036e0aa", null ],
+    [ "events", "de/dad/a20021.html#ae721c276ba7413974d25449ef2c5f1a9", null ]
 ];

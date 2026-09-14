@@ -1,6 +1,8 @@
 var a26265 =
 [
-    [ "CheckCast", "d9/df6/a26265.html#a14bd28450fb989b1deb1854e2118cb6b", null ],
-    [ "PrepareSpellScript", "d9/df6/a26265.html#a2a53af0cc911e1a68b365d692df1f0af", null ],
-    [ "Register", "d9/df6/a26265.html#a67c43c4dabfb72ca54c160228b4b21c0", null ]
+    [ "HandleDummy", "d9/df6/a26265.html#ae73e0d900e5b33f47bf2ba45d8ab26ce", null ],
+    [ "Load", "d9/df6/a26265.html#a5c0e5de94faca0c2841153f7a099d2eb", null ],
+    [ "PrepareSpellScript", "d9/df6/a26265.html#af89de259afbab436326a67b9eb7833ad", null ],
+    [ "Register", "d9/df6/a26265.html#a78ffb20ccc10c3c632934af862273716", null ],
+    [ "Validate", "d9/df6/a26265.html#ace6bdf4755f1d1c95011bb782cb2e59e", null ]
 ];

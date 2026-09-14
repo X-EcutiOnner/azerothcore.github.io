@@ -1,8 +1,7 @@
 var a20189 =
 [
-    [ "OnPeriodic", "d3/d13/a20189.html#a56d101b26b220994aeb035e5fbc1f26e", null ],
-    [ "OnRemove", "d3/d13/a20189.html#ac6d961793ddb6423540da9d97e016b82", null ],
-    [ "PrepareAuraScript", "d3/d13/a20189.html#a9384a764bf9c48d12e7f62af99897ce4", null ],
-    [ "Register", "d3/d13/a20189.html#a69f5474dacdf220ffebe18bd5cf8a32f", null ],
-    [ "Validate", "d3/d13/a20189.html#a11d985c5e17c8b3cb34096000fda66ac", null ]
+    [ "HandleDummyEffect", "d3/d13/a20189.html#ae95c1ce60db79c360e9c1431f27705cb", null ],
+    [ "PrepareSpellScript", "d3/d13/a20189.html#a84a4f52928873e58b1fc49e783c5083a", null ],
+    [ "Register", "d3/d13/a20189.html#a90c00bcb1768d696addab407425e406a", null ],
+    [ "SelectTarget", "d3/d13/a20189.html#a2e7a7c05a30ae1e0c5aa14dc2af19345", null ]
 ];

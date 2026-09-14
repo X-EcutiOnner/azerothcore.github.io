@@ -1,11 +1,6 @@
 var a21413 =
 [
-    [ "boss_archavonAI", "d0/d77/a21413.html#a101518193c0fb6bbd6892362a6f09b9c", null ],
-    [ "AttackStart", "d0/d77/a21413.html#ac9f82f61ee7fe945cb3fba23a69e704c", null ],
-    [ "JustDied", "d0/d77/a21413.html#a3974065a80dedf3e673452e7f6f8e449", null ],
-    [ "JustEngagedWith", "d0/d77/a21413.html#ace4a10f62eaa21ecd997ad1dbe15f3c8", null ],
-    [ "Reset", "d0/d77/a21413.html#a7d101626f39947dd54b574491a5e6d72", null ],
-    [ "UpdateAI", "d0/d77/a21413.html#a5abb4c2b4149172d2e7bf0d539237323", null ],
-    [ "events", "d0/d77/a21413.html#a8d7fef6dfcdc5be20f0531c34b09fc13", null ],
-    [ "pInstance", "d0/d77/a21413.html#ab51f09b76054d8bdb13f3c27396db87e", null ]
+    [ "CanBeAppliedOn", "d0/d77/a21413.html#ad92126f58e8ac8c83449725bc29fda8b", null ],
+    [ "PrepareAuraScript", "d0/d77/a21413.html#aaa7631a3d8a5476da6e051de90f34ee4", null ],
+    [ "Register", "d0/d77/a21413.html#a9a3e0c1a86cfc1b9747810cfca76f784", null ]
 ];

@@ -1,6 +1,6 @@
 var a19829 =
 [
-    [ "instance_nexus_InstanceMapScript", "d3/d7e/a19833.html", "d3/d7e/a19833" ],
-    [ "instance_nexus", "d1/d48/a19829.html#ad2d28baeef8323ae97f19ec9272c7e97", null ],
-    [ "GetInstanceScript", "d1/d48/a19829.html#a156210ba08caa0572c775dbd5851b250", null ]
+    [ "HandleScript", "d1/d48/a19829.html#aaa7bd24d0b1245e0c2b04c21fa4ef85c", null ],
+    [ "PrepareSpellScript", "d1/d48/a19829.html#ad1eae4d206e9e9e48230f60a2961fddb", null ],
+    [ "Register", "d1/d48/a19829.html#ae6685e7fd80373f2fc9a37cd4065f8b6", null ]
 ];

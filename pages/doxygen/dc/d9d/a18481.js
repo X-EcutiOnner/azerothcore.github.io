@@ -1,25 +1,6 @@
 var a18481 =
 [
-    [ "boss_sindragosaAI", "dc/d9d/a18481.html#ab02e42a863496b27a8f2b745085e30ea", null ],
-    [ "CanAIAttack", "dc/d9d/a18481.html#aea65b981e8b9461750a53fca3919c27f", null ],
-    [ "DamageTaken", "dc/d9d/a18481.html#ab4bc9869ad6074a1671b0b18f681a913", null ],
-    [ "DoAction", "dc/d9d/a18481.html#a93859d74931e5b810e3c48e492103919", null ],
-    [ "EnterEvadeMode", "dc/d9d/a18481.html#acb1e677b2347e0464df832e1d86cd3b5", null ],
-    [ "GetData", "dc/d9d/a18481.html#abbdaf0b2fe76e6f79126d15a1cecca2a", null ],
-    [ "JustDied", "dc/d9d/a18481.html#a0a41a38ba0577f9b4f10bd1143a1e615", null ],
-    [ "JustEngagedWith", "dc/d9d/a18481.html#af0151f1cb6776a3a180b4e24332c8489", null ],
-    [ "JustSummoned", "dc/d9d/a18481.html#ac3d9b66097202719781ede743fabc1ea", null ],
-    [ "KilledUnit", "dc/d9d/a18481.html#a27f5953a9cf68ec10a63622cf0f33d9b", null ],
-    [ "MoveInLineOfSight", "dc/d9d/a18481.html#a17d93e98d5c8f91e8009674a4117bd39", null ],
-    [ "MovementInform", "dc/d9d/a18481.html#abff1b505e9d2d6c826f814b2d43409af", null ],
-    [ "Reset", "dc/d9d/a18481.html#a5350ca3791fb777959de068933d121ba", null ],
-    [ "SpellHitTarget", "dc/d9d/a18481.html#ad2d10d5aeebea48809a61eee293ff9da", null ],
-    [ "SummonedCreatureDespawn", "dc/d9d/a18481.html#a5245dbb8a3065f2da4815be744dce357", null ],
-    [ "UpdateAI", "dc/d9d/a18481.html#a0e92f831d702eda65309787c651f221b", null ],
-    [ "_bombCount", "dc/d9d/a18481.html#a8ef89884c8d1b272d28dd7a6d2048964", null ],
-    [ "_isBelow20Pct", "dc/d9d/a18481.html#a87663e3f6d1c87c9def8eb1852adc029", null ],
-    [ "_isInAirPhase", "dc/d9d/a18481.html#addc25d8f87dd9fd627c0bde5944c037a", null ],
-    [ "_isLanding", "dc/d9d/a18481.html#a3de52bd0571eab9df13809ff5a4b891c", null ],
-    [ "_isThirdPhase", "dc/d9d/a18481.html#a741a811fd9832fb4275c51d2272d98f0", null ],
-    [ "_mysticBuffetStack", "dc/d9d/a18481.html#a9cfaa3b61da9a7aad88c2d2a537f0821", null ]
+    [ "ExtraRemoveEffect", "dc/d9d/a18481.html#a49b1087d66606ddeebe6918ad05d4b37", null ],
+    [ "PrepareAuraScript", "dc/d9d/a18481.html#a41992ed6c23275d3a910915755b682f9", null ],
+    [ "Register", "dc/d9d/a18481.html#ab956cb95473cf0c5fc9fb2af14fc945e", null ]
 ];

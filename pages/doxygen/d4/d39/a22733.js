@@ -1,12 +1,5 @@
 var a22733 =
 [
-    [ "boss_anzu", "d4/d39/a22733.html#aef8c5c57afa95936d8c2809fa1257799", null ],
-    [ "JustEngagedWith", "d4/d39/a22733.html#a2384a1ea128ad5a43d3b8fb36fe39aba", null ],
-    [ "Reset", "d4/d39/a22733.html#a61c75d6d96aa5cfb41e87faa74ec2fa5", null ],
-    [ "SummonBroods", "d4/d39/a22733.html#a7f3f8868a5648bdeccd03d08203e4cf1", null ],
-    [ "SummonedCreatureDies", "d4/d39/a22733.html#a2e35df609db069c8d31afffabcfead34", null ],
-    [ "SummonSpirits", "d4/d39/a22733.html#a23e03d1718fba49a3bd57609abb77c6a", null ],
-    [ "UpdateAI", "d4/d39/a22733.html#a06373460d454bfaf8db793e591cc0abd", null ],
-    [ "AnzuSpiritPos", "d4/d39/a22733.html#a64e42ce8856b9d10c7f24fefc0c1e0b2", null ],
-    [ "talkTimer", "d4/d39/a22733.html#a2afae53534d9e777c90d09456f834b5d", null ]
+    [ "OutdoorPvP_zangarmarsh", "d4/d39/a22733.html#ae287d5df21bf75efab6c651f4f3d875e", null ],
+    [ "GetOutdoorPvP", "d4/d39/a22733.html#a145ddfe383663ed3fb46960e39691f8f", null ]
 ];

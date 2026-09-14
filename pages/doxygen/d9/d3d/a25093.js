@@ -1,6 +1,6 @@
 var a25093 =
 [
-    [ "CalculateAmount", "d9/d3d/a25093.html#a9e54ae3e90ee8bf0fab966a497f761b3", null ],
-    [ "PrepareAuraScript", "d9/d3d/a25093.html#a51f9c0f92100c02e1fe7d127fecd902f", null ],
-    [ "Register", "d9/d3d/a25093.html#a5c89e7e53a7f41665ff25d57df8f7afb", null ]
+    [ "HandleHeal", "d9/d3d/a25093.html#a682a496d59201774de50951ffd2c7c0d", null ],
+    [ "PrepareSpellScript", "d9/d3d/a25093.html#a10dd1c0f67ff07f8e35ba0322c934899", null ],
+    [ "Register", "d9/d3d/a25093.html#abc29f509e703f3807241b63f728a69af", null ]
 ];

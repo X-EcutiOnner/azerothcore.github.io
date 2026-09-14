@@ -1,5 +1,5 @@
 var a05685 =
 [
-    [ "Decode", "d6/d6d/a05685.html#a9c18a834b227a8f60104100bd5c47df5", null ],
-    [ "Encode", "d6/d6d/a05685.html#a2b0f76655d4e56d8a7aa9a98de87f6cf", null ]
+    [ "Head", "d6/d6d/a05685.html#ac5c6d38e71241055f58984e88368494a", null ],
+    [ "Tail", "d6/d6d/a05685.html#a8b16ba737e930ebc023b8cea8231f678", null ]
 ];

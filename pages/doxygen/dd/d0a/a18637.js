@@ -1,6 +1,6 @@
 var a18637 =
 [
-    [ "LichKingDeathEvent", "dd/d0a/a18637.html#a9aa328b60358034355b1eed5caacb9f8", null ],
-    [ "Execute", "dd/d0a/a18637.html#a06b9a77d3c5efb228368a1e423a620ae", null ],
-    [ "_owner", "dd/d0a/a18637.html#a75ccb1b2bd5a8149aff85404b5e0ce21", null ]
+    [ "npc_sindragosa_trashAI", "d8/d95/a18641.html", "d8/d95/a18641" ],
+    [ "npc_sindragosa_trash", "dd/d0a/a18637.html#a9634ea10e767b4d6e293fc3fdd491702", null ],
+    [ "GetAI", "dd/d0a/a18637.html#ab1de715d98236a853a793d830bc601d7", null ]
 ];

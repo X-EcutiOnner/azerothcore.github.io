@@ -1,8 +1,4 @@
 var a00710 =
 [
-    [ "LootScript", "d5/d11/a10825.html", "d5/d11/a10825" ],
-    [ "LootHook", "d4/deb/a00710.html#a39ce94de1e8ce6b7055130ac7f40632b", [
-      [ "LOOTHOOK_ON_LOOT_MONEY", "d4/deb/a00710.html#a39ce94de1e8ce6b7055130ac7f40632ba71990fd8692b46e728ad526346d0f1f1", null ],
-      [ "LOOTHOOK_END", "d4/deb/a00710.html#a39ce94de1e8ce6b7055130ac7f40632bab03a0874b2fda00aeb19e4b5ab077fea", null ]
-    ] ]
+    [ "ScriptRegistry< MailScript >", "d4/deb/a00710.html#a2c63e917d984cb7f72bcae15da56850c", null ]
 ];

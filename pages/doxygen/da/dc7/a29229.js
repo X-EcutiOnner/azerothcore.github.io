@@ -1,6 +1,4 @@
 var a29229 =
 [
-    [ "Id", "da/dc7/a29229.html#a9f283a7c8339cc5b4fa67f3974ce8621", null ],
-    [ "SpellId", "da/dc7/a29229.html#ae8c119bacf706916f331d3f316fb1347", null ],
-    [ "TypeFlags", "da/dc7/a29229.html#aae92871758e9a738a888cacf0946f16b", null ]
+    [ "DisplayRaceID", "da/dc7/a29229.html#a5f3897281f18061c4508d752b2291552", null ]
 ];

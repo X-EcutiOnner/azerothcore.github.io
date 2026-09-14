@@ -1,7 +1,11 @@
 var a15937 =
 [
-    [ "npc_tharnarianAI", "dc/db6/a15941.html", "dc/db6/a15941" ],
-    [ "npc_tharnarian", "d6/d19/a15937.html#a39d9d9842a7a42c5381e38d10285aa15", null ],
-    [ "GetAI", "d6/d19/a15937.html#aaff8dad5d2bdb1571ed2e7a14c64899f", null ],
-    [ "OnQuestReward", "d6/d19/a15937.html#a88e82aa6c08fa85491c87d7a558efd9b", null ]
+    [ "npc_stillpine_capitiveAI", "d6/d19/a15937.html#a98560e7fc360dbfa3166805d9ab3feb4", null ],
+    [ "MovementInform", "d6/d19/a15937.html#a1e930b49da85a64aa87ba79b5fe72391", null ],
+    [ "Reset", "d6/d19/a15937.html#a9c884f892e64044057d477bdc0f89eed", null ],
+    [ "StartMoving", "d6/d19/a15937.html#a2552a79cf384cca1203afa7f241c1cb9", null ],
+    [ "UpdateAI", "d6/d19/a15937.html#a25dc06767382b5fee2a7098b58726fb2", null ],
+    [ "_events", "d6/d19/a15937.html#a93dd55d392836d8d085e34293344b700", null ],
+    [ "_movementComplete", "d6/d19/a15937.html#ae8e39ca782aee412e39d65a33d14014e", null ],
+    [ "_playerGUID", "d6/d19/a15937.html#a3fe9a4f01aebb602095d60eb606ce763", null ]
 ];

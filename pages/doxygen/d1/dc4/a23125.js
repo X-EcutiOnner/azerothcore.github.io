@@ -1,6 +1,7 @@
 var a23125 =
 [
-    [ "instance_black_temple_InstanceMapScript", "d5/d9f/a23129.html", "d5/d9f/a23129" ],
-    [ "instance_black_temple", "d1/dc4/a23125.html#a2efd6c7fff15c8fd03652ef9a65088eb", null ],
-    [ "GetInstanceScript", "d1/dc4/a23125.html#a947a1279eabde75d9884b1ef84b295a3", null ]
+    [ "npc_ashtongue_channeler", "d1/dc4/a23125.html#af7217d00f87e56e5cdb411fcad161b51", null ],
+    [ "Reset", "d1/dc4/a23125.html#ab935559c19b18f9c94dd36c85be5b3b2", null ],
+    [ "UpdateAI", "d1/dc4/a23125.html#af855dfa521404c4e6127a9bf12a75604", null ],
+    [ "scheduler", "d1/dc4/a23125.html#a4f58bbd2c44f7a3f9835fd55408ffaf4", null ]
 ];

@@ -1,7 +1,6 @@
 var a19913 =
 [
-    [ "Apply", "d3/db7/a19913.html#add8e95d38b0c437833c11cded72fe2a7", null ],
-    [ "PrepareAuraScript", "d3/db7/a19913.html#ad2112b571d97e537983b4d11207015e6", null ],
-    [ "Register", "d3/db7/a19913.html#accf85a0d8b2fad19bb0709013caa9f1b", null ],
-    [ "Validate", "d3/db7/a19913.html#a0b89b10ee22d02655ad08a348ab91ecd", null ]
+    [ "boss_eregosAI", "d5/db0/a19917.html", "d5/db0/a19917" ],
+    [ "boss_eregos", "d3/db7/a19913.html#a105820f29aa1391d77a56e024c4b5637", null ],
+    [ "GetAI", "d3/db7/a19913.html#aee43f0dfee70ab9618c560a27504cb02", null ]
 ];

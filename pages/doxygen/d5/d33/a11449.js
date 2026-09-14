@@ -1,12 +1,8 @@
 var a11449 =
 [
-    [ "Complain", "d5/d33/a11449.html#aa1cf8c3159d1334186b28c0abf0b5bec", null ],
-    [ "Read", "d5/d33/a11449.html#a5a5cc78c807ce5d1e455bedd283c0f4d", null ],
-    [ "ChannelId", "d5/d33/a11449.html#a134b3bc2c782494fff06b5d83a2b9f98", null ],
-    [ "Description", "d5/d33/a11449.html#a557676064707e2597a10e9b2efc9d09a", null ],
-    [ "MailIdOrMessageType", "d5/d33/a11449.html#a1dc57952838e5eccaefe64f381584f4f", null ],
-    [ "SecondsSinceMessage", "d5/d33/a11449.html#ac436590edc1d7de977edb9472100d9a2", null ],
-    [ "SpammerGuid", "d5/d33/a11449.html#a4a8b664b598624046b26953051a28718", null ],
-    [ "SpamType", "d5/d33/a11449.html#aece15ac467b310fc170844119978aa2a", null ],
-    [ "Unk1", "d5/d33/a11449.html#a7cc02360329a0b67c67fb5798d1e658d", null ]
+    [ "PlayObjectSound", "d5/d33/a11449.html#ab322044d36abddeb2fafbf99261bb70b", null ],
+    [ "PlayObjectSound", "d5/d33/a11449.html#a2c4d15099e991a9c2ddc5295536aa28e", null ],
+    [ "Write", "d5/d33/a11449.html#a1162715dd557a9f7b7c25a0331bc3b74", null ],
+    [ "SoundKitID", "d5/d33/a11449.html#a5e794706b8793d164a1189e9a6918735", null ],
+    [ "SourceObjectGUID", "d5/d33/a11449.html#a82b226eba66e569c1f377f529e511361", null ]
 ];

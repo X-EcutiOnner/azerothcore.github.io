@@ -1,7 +1,6 @@
 var a17061 =
 [
-    [ "FilterTargets", "df/dc3/a17061.html#a304da18e36ff67c34b80ab39583f8c96", null ],
-    [ "HandleScript", "df/dc3/a17061.html#adf99670bcf862288f513d2a26cbc256a", null ],
-    [ "PrepareSpellScript", "df/dc3/a17061.html#a976cb3c956d37fc9870494b0a6b8d9ee", null ],
-    [ "Register", "df/dc3/a17061.html#a4513de251b2f3d52fe44b7f7e715007c", null ]
+    [ "npc_toc_retro_paladinAI", "d6/d6b/a17065.html", "d6/d6b/a17065" ],
+    [ "npc_toc_retro_paladin", "df/dc3/a17061.html#abfb15148aefe186447cfdb3a2c8749c4", null ],
+    [ "GetAI", "df/dc3/a17061.html#a1213c99792aa4362275bc827aa2f037e", null ]
 ];

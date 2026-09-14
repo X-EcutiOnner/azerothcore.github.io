@@ -1,8 +1,7 @@
 var a13137 =
 [
-    [ "npc_lava_spawn", "d3/d95/a13137.html#aff97441b2cfbcd68e0788be022ee6236", null ],
-    [ "JustEngagedWith", "d3/d95/a13137.html#a3b93df8de3c0f8a50768b860cfa11b72", null ],
-    [ "Reset", "d3/d95/a13137.html#ab774d354991c90b1421e6783c0513e59", null ],
-    [ "UpdateAI", "d3/d95/a13137.html#a6a17c8c40b0110b688ff5faef5585185", null ],
-    [ "_scheduler", "d3/d95/a13137.html#ab7a6b2beec095f3f903ad4443813cfce", null ]
+    [ "HandleHit", "d3/d95/a13137.html#a87777dce0e2bf1deba600b3ae7ce6b9c", null ],
+    [ "Load", "d3/d95/a13137.html#ab61b4076aab18c0a6593c234209a2c1d", null ],
+    [ "PrepareSpellScript", "d3/d95/a13137.html#a9fb8d980381264a2ef645f2e620abd21", null ],
+    [ "Register", "d3/d95/a13137.html#a4998015873f0e0ca768c20b0f95fda90", null ]
 ];

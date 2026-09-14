@@ -1,5 +1,8 @@
 var a19365 =
 [
-    [ "at_icc_putricide_trap", "dd/dd2/a19365.html#a9d4183629deada9c22750b8a34e94583", null ],
-    [ "OnTrigger", "dd/dd2/a19365.html#ad59c2f694c50fabf1946d2c7ae726413", null ]
+    [ "Class", "dd/dd2/a19365.html#a095390e9023609f5836c4481ed79e1af", null ],
+    [ "cooldown_ms", "dd/dd2/a19365.html#acfcb10f019ebaf4d2130bcdbc059c7e7", null ],
+    [ "id", "dd/dd2/a19365.html#ae9fdf89271339b93f306c4aa0871f844", null ],
+    [ "range", "dd/dd2/a19365.html#aad126da206abceb6a66dcda1cbd3b28b", null ],
+    [ "targetType", "dd/dd2/a19365.html#ae5fc8cb423536f631591d3b72bfd06dd", null ]
 ];

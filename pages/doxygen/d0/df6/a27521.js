@@ -1,8 +1,6 @@
 var a27521 =
 [
-    [ "ApplyDebuff", "d0/df6/a27521.html#ac22ae27019de6bd951bb00262c6df9a3", null ],
-    [ "PrepareSpellScript", "d0/df6/a27521.html#aa37525d089348f58e3d871830caa3417", null ],
-    [ "Register", "d0/df6/a27521.html#ac37a48d9742ab6b07c5e6a8dd7f23bd9", null ],
-    [ "RemoveInvalidTargets", "d0/df6/a27521.html#a0451b75aa962065a01a5806992e01b16", null ],
-    [ "Validate", "d0/df6/a27521.html#ac69d777fdf7a2d3c527621dee256690c", null ]
+    [ "CheckProc", "d0/df6/a27521.html#a5e48b25b15b60aa284ca61e900e0f87e", null ],
+    [ "PrepareAuraScript", "d0/df6/a27521.html#a13ccd1c89767d0dcf041217466390759", null ],
+    [ "Register", "d0/df6/a27521.html#a4f29ca53813534b1af20e09281288e95", null ]
 ];

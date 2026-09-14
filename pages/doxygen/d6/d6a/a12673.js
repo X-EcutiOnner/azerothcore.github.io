@@ -1,14 +1,11 @@
 var a12673 =
 [
-    [ "boss_galvangarAI", "d6/d6a/a12673.html#a34a0cacc52749bd1146fcb779d006b3b", null ],
-    [ "JustEngagedWith", "d6/d6a/a12673.html#ac1898cea6887fcfa182aa8a7a535c462", null ],
-    [ "JustRespawned", "d6/d6a/a12673.html#a92139ad3720ba662f87c0b55ac77dbeb", null ],
-    [ "Reset", "d6/d6a/a12673.html#a96e1a262f368ab0f6885e955133b7ae8", null ],
-    [ "UpdateAI", "d6/d6a/a12673.html#a2e5c7511cce7dd0ff27e13cda9807928", null ],
-    [ "CleaveTimer", "d6/d6a/a12673.html#ae2f943d7e08b5ca508518cd19c675be9", null ],
-    [ "FrighteningShoutTimer", "d6/d6a/a12673.html#a6f62f62ffa1c06baa2649901f02d13dc", null ],
-    [ "MortalStrikeTimer", "d6/d6a/a12673.html#acbfa384508002ba9505d280c448f1f0e", null ],
-    [ "ResetTimer", "d6/d6a/a12673.html#aaeff7d8bffb2ddcef5591c2c9be22ae2", null ],
-    [ "Whirlwind1Timer", "d6/d6a/a12673.html#a1e1b3d242ad06e6b8b2e48fbc135b3c5", null ],
-    [ "Whirlwind2Timer", "d6/d6a/a12673.html#adb5a2609f1f065fe7a737b8da2d4aef4", null ]
+    [ "spectator_commandscript", "d6/d6a/a12673.html#a1bf79d739a6af02405bc268c9bb50c26", null ],
+    [ "GetCommands", "d6/d6a/a12673.html#a3451bcda07b51a33fd8368cf00ac190f", null ],
+    [ "HandleSpectatorCommand", "d6/d6a/a12673.html#aaf331e54c3c19b5d16d9d5f5c9d28721", null ],
+    [ "HandleSpectatorLeaveCommand", "d6/d6a/a12673.html#a15e661891f4e08c3efa0bd844c3954aa", null ],
+    [ "HandleSpectatorResetCommand", "d6/d6a/a12673.html#a23a1a3740609a6d0caa6e0f10c7e8653", null ],
+    [ "HandleSpectatorSpectateCommand", "d6/d6a/a12673.html#ad1f117a77c0154fc25e937dfe21870a2", null ],
+    [ "HandleSpectatorVersionCommand", "d6/d6a/a12673.html#aaf7c57603d263f7ab919f12d9680f058", null ],
+    [ "HandleSpectatorWatchCommand", "d6/d6a/a12673.html#a1ee822e332374b375962d1ae87adbc61", null ]
 ];

@@ -1,14 +1,8 @@
 var a20593 =
 [
-    [ "boss_kologarn_arms", "db/d14/a20593.html#a938ba2bc623d8bfea80e76743adadd6b", null ],
-    [ "AttackStart", "db/d14/a20593.html#aa900d84701962847fe8c50ca42a9e395", null ],
-    [ "DamageTaken", "db/d14/a20593.html#ab9dfb82063b299c4b983ea48e78a17be", null ],
-    [ "EnterEvadeMode", "db/d14/a20593.html#abb2cf784779f808ab5d5340047ce95e4", null ],
-    [ "JustDied", "db/d14/a20593.html#a165f77b79a3e601fe2269f20362df3ca", null ],
-    [ "MoveInLineOfSight", "db/d14/a20593.html#a515d1d1eb959a03adca5e2c79da9082b", null ],
-    [ "PassengerBoarded", "db/d14/a20593.html#aa0c14ab6b8b0081c1e8c43de1883ae59", null ],
-    [ "Reset", "db/d14/a20593.html#a1d164aa9234edb81ed6d4e0713d16a91", null ],
-    [ "UpdateAI", "db/d14/a20593.html#a013d5b17e93486679f625872331c94f6", null ],
-    [ "_combatStarted", "db/d14/a20593.html#a8b4f90719ef93e7f8d8e435e090d566a", null ],
-    [ "_damageDone", "db/d14/a20593.html#a0e196cc2602f325f4639d9e854f013b9", null ]
+    [ "HandleAfterEffectApply", "db/d14/a20593.html#ac8b5cddcf66c1f43c4ab0461354e97f1", null ],
+    [ "HandleProc", "db/d14/a20593.html#a2ee2121d3d55bf6067de985e8d999de2", null ],
+    [ "PrepareAuraScript", "db/d14/a20593.html#a439799df0d6ca43e6a81930e3e4b5334", null ],
+    [ "Register", "db/d14/a20593.html#adce13201dd11c6ba83883b12ad32d1f6", null ],
+    [ "Validate", "db/d14/a20593.html#a30733bf8ca4d619d6eafafa78df4c0f7", null ]
 ];

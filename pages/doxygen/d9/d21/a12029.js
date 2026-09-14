@@ -1,7 +1,4 @@
 var a12029 =
 [
-    [ "EffectNameCheck", "d9/d21/a12029.html#aa82307388bdda7864bb085a349b63f29", null ],
-    [ "Check", "d9/d21/a12029.html#a729d7f07669dedec50f009a87b8f32a4", null ],
-    [ "ToString", "d9/d21/a12029.html#a31e545b0ae22cad4be815ea9e3b44377", null ],
-    [ "effName", "d9/d21/a12029.html#a905224fb028ea0eab350773b7230f871", null ]
+    [ "operator()", "d9/d21/a12029.html#ac27052eb73a3723e8678c92aeeb2f499", null ]
 ];

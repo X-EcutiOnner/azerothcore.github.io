@@ -1,7 +1,6 @@
 var a22417 =
 [
-    [ "OnApply", "dc/d91/a22417.html#ad026db5f19c376d9a87f7a1554502809", null ],
-    [ "OnRemove", "dc/d91/a22417.html#a0264c6f6f41da3644a803265399f1d82", null ],
-    [ "PrepareAuraScript", "dc/d91/a22417.html#ab5d21484b078aee6eeff3738ef7c5a10", null ],
-    [ "Register", "dc/d91/a22417.html#ae9822fa0f191ac4eeca1061c22abf319", null ]
+    [ "npc_brunnhildar_prisonerAI", "d8/d5d/a22421.html", "d8/d5d/a22421" ],
+    [ "npc_brunnhildar_prisoner", "dc/d91/a22417.html#a4dd1b440366c0a5c4fa7c1dfab7607b5", null ],
+    [ "GetAI", "dc/d91/a22417.html#aa2a1787849c74a5163a39137c9d03d57", null ]
 ];

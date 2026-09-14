@@ -1,10 +1,7 @@
 var a13629 =
 [
-    [ "HandleDummyTick", "db/ded/a13629.html#a036291aee8b08212ecead4afce01adf4", null ],
-    [ "Load", "db/ded/a13629.html#aaecea41af42790dfe9aeba3c56480668", null ],
-    [ "OnApply", "db/ded/a13629.html#a37b425f877e7415b245c119c29521c4b", null ],
-    [ "PrepareAuraScript", "db/ded/a13629.html#ade7bfbc3400fb620956d1e8dff7d4a8a", null ],
-    [ "Register", "db/ded/a13629.html#a9b32995b6e324a6c779bbd742de6cce2", null ],
-    [ "Validate", "db/ded/a13629.html#a72595ee3cd995d7bed2bcf8c9f5199fb", null ],
-    [ "_forsakenSpell", "db/ded/a13629.html#ae2aee05482e4854120fc581ecec41f95", null ]
+    [ "boss_apothecary_hummelAI", "d6/dd3/a13633.html", "d6/dd3/a13633" ],
+    [ "boss_apothecary_hummel", "db/ded/a13629.html#af1672c0b7f67d9013e3769a7009c2ee9", null ],
+    [ "GetAI", "db/ded/a13629.html#a87a01f4d6eaac7c5e1795133e8aa1ccd", null ],
+    [ "OnQuestReward", "db/ded/a13629.html#ab66debe3672dcf0bce2bfb821093694b", null ]
 ];

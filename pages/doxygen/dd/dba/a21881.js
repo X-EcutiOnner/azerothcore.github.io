@@ -1,6 +1,6 @@
 var a21881 =
 [
-    [ "SACActivateEvent", "dd/dba/a21881.html#a7e5ba22c5500337f14ae067e2b404c5a", null ],
-    [ "Execute", "dd/dba/a21881.html#ad3e4092941e8cd8953fdc251e97c458a", null ],
-    [ "_owner", "dd/dba/a21881.html#ae930bd1f603ea296c5ccabd6fbd299f8", null ]
+    [ "npc_mindless_ghoulAI", "d3/d15/a21885.html", "d3/d15/a21885" ],
+    [ "npc_mindless_ghoul", "dd/dba/a21881.html#ac5bf71e719c0df04687f426a022fd65e", null ],
+    [ "GetAI", "dd/dba/a21881.html#ac5a087aa742827dc8eb0f3dc195920ec", null ]
 ];

@@ -1,8 +1,11 @@
 var a27817 =
 [
-    [ "Load", "dd/dca/a27817.html#af6c19828b80a6cc06e4c9c207e7c52b8", null ],
-    [ "OnRemove", "dd/dca/a27817.html#a097cf2a2abecda1e89f85bc4bd4ec029", null ],
-    [ "PrepareAuraScript", "dd/dca/a27817.html#a2161d27a90b3f87fd07f75723b6d9e13", null ],
-    [ "Register", "dd/dca/a27817.html#a932760326c822f1b47df1afdec6bb9cb", null ],
-    [ "Validate", "dd/dca/a27817.html#a69bcfedb7f566c572201aadc9e75df08", null ]
+    [ "CalcPeriodic", "dd/dca/a27817.html#aeb804ef41ec5600c18b5b1c9fcf37479", null ],
+    [ "CalculateAPAmount", "dd/dca/a27817.html#a55f649687813eb915c71ead6afb27276", null ],
+    [ "CalculateResistanceAmount", "dd/dca/a27817.html#a12a0f547198d150b0c51e481dd0ff6aa", null ],
+    [ "CalculateSPAmount", "dd/dca/a27817.html#a114c868f0dc31f3370588b1bd1f18894", null ],
+    [ "CalculateStatAmount", "dd/dca/a27817.html#ae7ba2e3eca6c93325ede8b100e32bd3c", null ],
+    [ "HandlePeriodic", "dd/dca/a27817.html#af5076795e8bf6abd45590a060f9e5b52", null ],
+    [ "PrepareAuraScript", "dd/dca/a27817.html#aa512873852c0eea9947472fcb60fbfc2", null ],
+    [ "Register", "dd/dca/a27817.html#a40ed4ca839b9783d9a8e9930f87a2eb8", null ]
 ];

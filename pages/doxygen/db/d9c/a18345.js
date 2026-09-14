@@ -1,8 +1,6 @@
 var a18345 =
 [
-    [ "FilterTargets", "db/d9c/a18345.html#a1b125c887db7d2030838d0ac8e38c4e3", null ],
-    [ "HandleScript", "db/d9c/a18345.html#a4c7be5a65b1fb7e8db62691f5ef6b38d", null ],
-    [ "PrepareSpellScript", "db/d9c/a18345.html#ae6b30b8da52141c385f985435cac99a1", null ],
-    [ "Register", "db/d9c/a18345.html#a17dc25670b0f21525a01f6e7aa7eb572", null ],
-    [ "Validate", "db/d9c/a18345.html#accff1f03fb7c0d56cb197bb18348635c", null ]
+    [ "npc_volatile_oozeAI", "d5/dff/a18349.html", "d5/dff/a18349" ],
+    [ "npc_volatile_ooze", "db/d9c/a18345.html#a22847e44812a0b13b92cfcca3a70204e", null ],
+    [ "GetAI", "db/d9c/a18345.html#a66b4918c14d90d5550ddc8dbe90c2e01", null ]
 ];

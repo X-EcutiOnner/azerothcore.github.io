@@ -1,8 +1,4 @@
 var a00839 =
 [
-    [ "MovementHandlerScript", "de/d72/a10841.html", "de/d72/a10841" ],
-    [ "MovementHook", "df/de8/a00839.html#a5763e953c65ba38409a14469a1fe2842", [
-      [ "MOVEMENTHOOK_ON_PLAYER_MOVE", "df/de8/a00839.html#a5763e953c65ba38409a14469a1fe2842a9fb1a9d074f81a435e688f4cd7d12326", null ],
-      [ "MOVEMENTHOOK_END", "df/de8/a00839.html#a5763e953c65ba38409a14469a1fe2842ae0cf6cfe134c99cc596bac2607905b9c", null ]
-    ] ]
+    [ "ScriptRegistry< PlayerScript >", "df/de8/a00839.html#a9c8e85c6181ce386db051bb0a0e6a533", null ]
 ];

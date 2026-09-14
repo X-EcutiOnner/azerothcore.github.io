@@ -1,6 +1,6 @@
 var a20401 =
 [
-    [ "achievement_freya_knock_on_wood", "d8/dab/a20401.html#ae28517e151cc9ec2b25ff57513f32d29", null ],
-    [ "OnCheck", "d8/dab/a20401.html#a07e5edf9d53d200506ab1b0d0b2eaa9e", null ],
-    [ "_elderCount", "d8/dab/a20401.html#a5a3cc4dedbc2cc6be825579cbb0a09b5", null ]
+    [ "CheckCast", "d8/dab/a20401.html#a866fd47d51b5fc4c07c3733739d07c02", null ],
+    [ "PrepareSpellScript", "d8/dab/a20401.html#a09cbe962ae1f18811db8c1d32b856c0d", null ],
+    [ "Register", "d8/dab/a20401.html#a240989af43e5ad6eb81d600a2f1d4769", null ]
 ];

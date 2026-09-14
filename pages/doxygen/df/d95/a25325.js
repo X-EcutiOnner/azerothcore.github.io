@@ -1,6 +1,6 @@
 var a25325 =
 [
-    [ "CheckRequirement", "df/d95/a25325.html#a8a1367ad6c51a74e7cefbc2440eab697", null ],
-    [ "PrepareSpellScript", "df/d95/a25325.html#a859ac50e6774471c232113e5c007f602", null ],
-    [ "Register", "df/d95/a25325.html#aceafb7d6cfa300011935026f4d7ac491", null ]
+    [ "HandleScript", "df/d95/a25325.html#a913c8c461f291ccaad2f48614c0146c6", null ],
+    [ "PrepareSpellScript", "df/d95/a25325.html#a18913a7455cf3f158136f2d3bb415779", null ],
+    [ "Register", "df/d95/a25325.html#ac24208b646e95d87fbb340d7779cb7c5", null ]
 ];

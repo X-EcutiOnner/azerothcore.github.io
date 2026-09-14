@@ -1,8 +1,8 @@
 var a23561 =
 [
-    [ "ApplyStun", "dd/d88/a23561.html#a5a5b921dc45418485919e599e80f8ca8", null ],
-    [ "HandleScriptEffect", "dd/d88/a23561.html#a32619710179250a6a0b408856a888153", null ],
-    [ "PrepareSpellScript", "dd/d88/a23561.html#afb61d7dcc8ad52da4dcad3d7593f08ad", null ],
-    [ "Register", "dd/d88/a23561.html#aa753fd45caa1b515911d8fdf6fa78754", null ],
-    [ "Validate", "dd/d88/a23561.html#a66d91a87078c663903cd836344eec867", null ]
+    [ "boss_hungarfen", "dd/d88/a23561.html#a009b8d34731d2310a53195024b434935", null ],
+    [ "JustEngagedWith", "dd/d88/a23561.html#a3612bb373ecdba4245587fd94257ba62", null ],
+    [ "Reset", "dd/d88/a23561.html#a4b310eff8af9a33c50ae8f2035ba76ad", null ],
+    [ "UpdateAI", "dd/d88/a23561.html#a1765bd54c04a3479e837b3d0e241300e", null ],
+    [ "_scheduler", "dd/d88/a23561.html#a702185681abb6cfc4add7078ff5bbb52", null ]
 ];

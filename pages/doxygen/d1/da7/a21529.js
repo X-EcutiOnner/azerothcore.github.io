@@ -1,11 +1,6 @@
 var a21529 =
 [
-    [ "npc_vh_void_sentry", "d1/da7/a21529.html#adeb66953fb7540aab5190b825ff98ec8", null ],
-    [ "DoAction", "d1/da7/a21529.html#a37ed72c221f23cd653694c10d536eec4", null ],
-    [ "JustDied", "d1/da7/a21529.html#aabf96934586d38d6f958c1571c0b3b56", null ],
-    [ "SummonedCreatureDespawn", "d1/da7/a21529.html#aa0ac1eb51911672653ec6fd48d2ef316", null ],
-    [ "UpdateAI", "d1/da7/a21529.html#a417af2ca21310ca105d7561e3ab21272", null ],
-    [ "_events", "d1/da7/a21529.html#a30899a2d4d8a82b26251911dc3b48008", null ],
-    [ "_instance", "d1/da7/a21529.html#a80dc77a2deaf0f922f3f096f40b253e1", null ],
-    [ "_summonedGuid", "d1/da7/a21529.html#a223e85ca87d89c51d0bc02e00d591aec", null ]
+    [ "npc_frozen_orbAI", "d0/d13/a21533.html", "d0/d13/a21533" ],
+    [ "npc_frozen_orb", "d1/da7/a21529.html#ac14966722e39b2b6b3a907756701ed98", null ],
+    [ "GetAI", "d1/da7/a21529.html#a2f9e1a2cb14ee9e5f24e02aa97697116", null ]
 ];

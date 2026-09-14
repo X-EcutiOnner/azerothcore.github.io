@@ -1,7 +1,5 @@
 var a20517 =
 [
-    [ "HandleEffectPeriodic", "dd/db1/a20517.html#af6c50396e9b47cd909184aea80244728", null ],
-    [ "PrepareAuraScript", "dd/db1/a20517.html#aeb41825334049c8e3a39b48cbf271477", null ],
-    [ "Register", "dd/db1/a20517.html#aaa44ceb54aa928c4436120f435bcdc4b", null ],
-    [ "Validate", "dd/db1/a20517.html#a0098e4949fc75b1a2464128f4df869aa", null ]
+    [ "id", "dd/db1/a20517.html#accc6fc59e13a0897ae168fae33ee4c7d", null ],
+    [ "pos", "dd/db1/a20517.html#aeca90e17f8b6f5b40f0f703ef9fe2b73", null ]
 ];

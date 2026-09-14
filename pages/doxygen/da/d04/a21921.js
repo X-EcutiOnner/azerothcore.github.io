@@ -1,6 +1,6 @@
 var a21921 =
 [
-    [ "npc_spiritual_insightAI", "dc/d8f/a21925.html", "dc/d8f/a21925" ],
-    [ "npc_spiritual_insight", "da/d04/a21921.html#afe7b9d5953462719407f03b33b8de564", null ],
-    [ "GetAI", "da/d04/a21921.html#ab2884e1160ccad9adb8e3ae69db55bc4", null ]
+    [ "HandleSendEvent", "da/d04/a21921.html#a8b8276833404f3f69c3b7f97d95b6982", null ],
+    [ "PrepareSpellScript", "da/d04/a21921.html#aa632d381ac415feaf226f55fc2cd8520", null ],
+    [ "Register", "da/d04/a21921.html#a72673f5054cf269cc8da511441f7bd66", null ]
 ];

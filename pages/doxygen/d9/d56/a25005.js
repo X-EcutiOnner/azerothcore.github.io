@@ -1,8 +1,9 @@
 var a25005 =
 [
-    [ "CheckProc", "d9/d56/a25005.html#afb2da9368612d8baa7dddcd8232b61c3", null ],
-    [ "HandleProc", "d9/d56/a25005.html#a43272dc56e174c36c258086685f41fbc", null ],
-    [ "PrepareAuraScript", "d9/d56/a25005.html#a3bd510824be1f2ab6864036224dceed9", null ],
-    [ "Register", "d9/d56/a25005.html#a1dbe1956639a63950d9788d55e69fc2d", null ],
-    [ "Validate", "d9/d56/a25005.html#a5f35a7963129eb22708c9e102550de82", null ]
+    [ "FilterTargets", "d9/d56/a25005.html#ae7a54b8e27f91091b479293cc62ee1f4", null ],
+    [ "PrepareSpellScript", "d9/d56/a25005.html#a215b412cfeae9f2763b1c5d3b8a4ca31", null ],
+    [ "Register", "d9/d56/a25005.html#ae790485f5b27fe34a0a26c3d6fc7ed41", null ],
+    [ "SetTargets", "d9/d56/a25005.html#ac77e95af9b08118e87e3329eab5515ea", null ],
+    [ "Validate", "d9/d56/a25005.html#a8e4b1ff1577f25334b50e25bffc021cc", null ],
+    [ "_targets", "d9/d56/a25005.html#acc66768f54c514552f0ab01274c24f17", null ]
 ];

@@ -1,9 +1,6 @@
 var a21065 =
 [
-    [ "HandleOnEffectApply", "d1/de2/a21065.html#a3e35c98bd5867bbb6c77b16d89ab74a9", null ],
-    [ "OnPeriodic", "d1/de2/a21065.html#a49ad44eba19416743bd26252d1b40d71", null ],
-    [ "PrepareAuraScript", "d1/de2/a21065.html#ae0c475babb67cebb245d6d85b50cd694", null ],
-    [ "Register", "d1/de2/a21065.html#af56875f1bb85d5524841a5bbb399d7d4", null ],
-    [ "Validate", "d1/de2/a21065.html#ab383a0a207aa78b7efcd400765ad0838", null ],
-    [ "_targetGUID", "d1/de2/a21065.html#a9e7c6087b1c7ce3c32be661da037f1e0", null ]
+    [ "boss_yoggsaron_death_orb", "d1/de2/a21065.html#a8e967885da35381db767d941a2174a82", null ],
+    [ "IsSummonedBy", "d1/de2/a21065.html#a86965a290bf5714fe5e81577ae80775a", null ],
+    [ "JustSummoned", "d1/de2/a21065.html#a916588e3cdd0520fe5c1947a797c0042", null ]
 ];

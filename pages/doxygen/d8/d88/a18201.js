@@ -1,6 +1,7 @@
 var a18201 =
 [
-    [ "npc_darnavanAI", "d9/da1/a18205.html", "d9/da1/a18205" ],
-    [ "npc_darnavan", "d8/d88/a18201.html#ac358ca123155165395fa5f7ec02c9dab", null ],
-    [ "GetAI", "d8/d88/a18201.html#a9eeb6e5fba1e6d671af1f23f443c509a", null ]
+    [ "DamageGunship", "d8/d88/a18201.html#a1dc0145cfff777b18b9241dfc0966f32", null ],
+    [ "PrepareSpellScript", "d8/d88/a18201.html#aa698d016ae58d665c081976f20ec0385", null ],
+    [ "Register", "d8/d88/a18201.html#ab8836babdea1fd963fdd53415db0a3ba", null ],
+    [ "Validate", "d8/d88/a18201.html#ae80cd93b2f01ddb83493f9f818fc0ea1", null ]
 ];

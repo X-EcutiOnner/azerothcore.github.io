@@ -1,11 +1,14 @@
 var a09117 =
 [
-    [ "AuraMunchingQueue", "de/dc6/a09117.html#abf9787bcfa9393619ffebe2ad7b5cd46", null ],
-    [ "Execute", "de/dc6/a09117.html#a8f025a0ea1db81fb283db563402d1c40", null ],
-    [ "_auraType", "de/dc6/a09117.html#add694e24c38d585784f236acf9118b76", null ],
-    [ "_aurEff", "de/dc6/a09117.html#a8ac00964608170d5375242c1b19c4be3", null ],
-    [ "_basePoints", "de/dc6/a09117.html#a9cf03046c9595e81bf119b7aacb1a81a", null ],
-    [ "_owner", "de/dc6/a09117.html#a472aaf46c2f167a10ce38267ace0b8bb", null ],
-    [ "_spellId", "de/dc6/a09117.html#a6674c43b906e45e2ad29100a7ff06f44", null ],
-    [ "_targetGUID", "de/dc6/a09117.html#a441b328296f0b7a75bdaee06d2cb94f1", null ]
+    [ "SocialMap", "de/dc6/a09117.html#a2b80fa18a6f1ed54fda7719867f45ebd", null ],
+    [ "SocialMgr", "de/dc6/a09117.html#a3cff8262ce10d2e8c8c38dc834230545", null ],
+    [ "~SocialMgr", "de/dc6/a09117.html#aef859e6c923a6ba4bb7ac0049f17463d", null ],
+    [ "BroadcastToFriendListers", "de/dc6/a09117.html#a55b35ea17ebfea4ff31710186b87865f", null ],
+    [ "GetFriendInfo", "de/dc6/a09117.html#a7d0c4638b6fde1bf614d90492160ee55", null ],
+    [ "instance", "de/dc6/a09117.html#a223f3d7811d8c360da7f467b70af808f", null ],
+    [ "LoadFromDB", "de/dc6/a09117.html#aab17f5c27494cfdf2b1c5d5038f446a0", null ],
+    [ "MakeFriendStatusPacket", "de/dc6/a09117.html#af30fe2f3223dc7ad9094e44393420d3a", null ],
+    [ "RemovePlayerSocial", "de/dc6/a09117.html#af537c83cc3d481dde68d0a60aa122289", null ],
+    [ "SendFriendStatus", "de/dc6/a09117.html#acf245ca689bd5c0efe4a791b9e0e3c5f", null ],
+    [ "m_socialMap", "de/dc6/a09117.html#a2f8a276598ad01d350aa245fcef82a7a", null ]
 ];

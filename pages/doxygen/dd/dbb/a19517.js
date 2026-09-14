@@ -1,12 +1,6 @@
 var a19517 =
 [
-    [ "npc_gothik_triggerAI", "dd/dbb/a19517.html#ae45c6de238755eb069e0c182943da58c", null ],
-    [ "DamageTaken", "dd/dbb/a19517.html#ada8e501edfadbb55162532f081a4b48b", null ],
-    [ "EnterEvadeMode", "dd/dbb/a19517.html#aae212c3aecdf82f509ed0bf841f16e59", null ],
-    [ "JustEngagedWith", "dd/dbb/a19517.html#ab5403383f1fcd539cacf975dffbe2817", null ],
-    [ "JustSummoned", "dd/dbb/a19517.html#a35be0135b77a3e62ac8d421910cf0674", null ],
-    [ "SelectRandomSkullPile", "dd/dbb/a19517.html#aeafc63047c9059afdf668b8c22d2937f", null ],
-    [ "SpellHit", "dd/dbb/a19517.html#a18a8135ab0395991afc4896950783ae5", null ],
-    [ "SummonedCreatureDespawn", "dd/dbb/a19517.html#ad7ed092509dd41fddd44a4024c011364", null ],
-    [ "UpdateAI", "dd/dbb/a19517.html#a388a20d6d720f5f44a67073fc40e98b6", null ]
+    [ "boss_faerlinaAI", "d0/d39/a19521.html", "d0/d39/a19521" ],
+    [ "boss_faerlina", "dd/dbb/a19517.html#a86543ac855287e3de2e3ffcde66fb1cb", null ],
+    [ "GetAI", "dd/dbb/a19517.html#aed8214323ff5b792d9bd6aae478e7848", null ]
 ];

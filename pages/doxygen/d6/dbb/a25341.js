@@ -1,8 +1,7 @@
 var a25341 =
 [
-    [ "OnApply", "d6/dbb/a25341.html#a9ea247d39fa51d9722c17e6ea83a0e55", null ],
-    [ "OnRemove", "d6/dbb/a25341.html#abd45d59ecd41274bd02c17fb066a521e", null ],
-    [ "PrepareAuraScript", "d6/dbb/a25341.html#af30811301599459bf2a99a68608a053f", null ],
-    [ "Register", "d6/dbb/a25341.html#a0eb56dc80c02932a0d7cf4cca7079c75", null ],
-    [ "Validate", "d6/dbb/a25341.html#a29c5049e4455737ff96596a18af118d0", null ]
+    [ "HandleEffectApply", "d6/dbb/a25341.html#a97a639459622c9e3e995057989cf9eda", null ],
+    [ "HandleEffectRemove", "d6/dbb/a25341.html#a7477bb78ffcc082c111bad4e93b9fd73", null ],
+    [ "PrepareAuraScript", "d6/dbb/a25341.html#aa3c4018e18eccd8f12e4607f4bc630ec", null ],
+    [ "Register", "d6/dbb/a25341.html#a40793c696a759db4920c4c34f5b9fa66", null ]
 ];

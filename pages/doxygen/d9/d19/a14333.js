@@ -1,12 +1,9 @@
 var a14333 =
 [
-    [ "npc_akilzon_eagle", "d9/d19/a14333.html#ad70a735ce3a06f9c92ddb8ef7e5fd595", null ],
-    [ "JustEngagedWith", "d9/d19/a14333.html#aa5c3d77a1086ad90397d47f081b25476", null ],
-    [ "MoveInLineOfSight", "d9/d19/a14333.html#adefd384b8a273ca52343d836a399f3cb", null ],
-    [ "MovementInform", "d9/d19/a14333.html#abf69be0c32356e65e6d451c33fb389f0", null ],
-    [ "Reset", "d9/d19/a14333.html#a8ae0b8115d402671f94aaf27ff83eade", null ],
-    [ "UpdateAI", "d9/d19/a14333.html#a59ef60c0d16eda1b4d78ef964b42211a", null ],
-    [ "arrived", "d9/d19/a14333.html#a918dae0b34b43e10f066d32d5ebe6fcf", null ],
-    [ "EagleSwoop_Timer", "d9/d19/a14333.html#a37a5861ef690729e2a8bfafddce168be", null ],
-    [ "TargetGUID", "d9/d19/a14333.html#a14d4f82f932569d24f6014ad39640619", null ]
+    [ "npc_thrall_bfuAI", "dd/d14/a14337.html", "dd/d14/a14337" ],
+    [ "npc_thrall_bfu", "d9/d19/a14333.html#a43eb37b9a0cf06be0e2cb6180730b09f", null ],
+    [ "GetAI", "d9/d19/a14333.html#a28b4030d189e4d967a1b16f3464c14ba", null ],
+    [ "OnGossipHello", "d9/d19/a14333.html#a71a7108464de9245879c8a1c08932e2a", null ],
+    [ "OnGossipSelect", "d9/d19/a14333.html#aea62ed8489bea23772a52ddefbf9c60e", null ],
+    [ "OnQuestReward", "d9/d19/a14333.html#aee56e54615e2696dcd0e7299e4f416b5", null ]
 ];

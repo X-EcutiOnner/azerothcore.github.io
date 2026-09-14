@@ -1,9 +1,8 @@
 var a09033 =
 [
-    [ "PendingSpellCastRequest", "d6/dc9/a09033.html#aa09e9b9fcaec6d10dff4916bec15ab04", null ],
-    [ "cancelInProgress", "d6/dc9/a09033.html#a726b6e423b23f8c12c65e07809462ad1", null ],
-    [ "category", "d6/dc9/a09033.html#a51a702f257b784dac4556397dd1c0be4", null ],
-    [ "isItem", "d6/dc9/a09033.html#a9e50a954b3da1f3b39894f1d3d7a932f", null ],
-    [ "requestPacket", "d6/dc9/a09033.html#a6ee868c6161e49dc8774ab357f313116", null ],
-    [ "spellId", "d6/dc9/a09033.html#a28f12287e339fd0c6cc9ea8c89c26113", null ]
+    [ "BaseRune", "d6/dc9/a09033.html#ad5a4b3afd246f5a4c071e3c4f350f132", null ],
+    [ "ConvertAura", "d6/dc9/a09033.html#a41c55cb4c1b3f69c6a424359f60e34e1", null ],
+    [ "Cooldown", "d6/dc9/a09033.html#a8eeb0f5208c29d43ab493a22f73eb0a6", null ],
+    [ "CurrentRune", "d6/dc9/a09033.html#a2cebb551231f0364a1751e5d1a37fcda", null ],
+    [ "GracePeriod", "d6/dc9/a09033.html#a3fa13f205dbaaca5bdcc7406f73b4e6a", null ]
 ];

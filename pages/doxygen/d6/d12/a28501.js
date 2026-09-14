@@ -1,6 +1,5 @@
 var a28501 =
 [
-    [ "npc_preciousAI", "dd/d25/a28505.html", "dd/d25/a28505" ],
-    [ "npc_precious", "d6/d12/a28501.html#a3c3ad9da13de64498cabc8e252e99ab2", null ],
-    [ "GetAI", "d6/d12/a28501.html#a754ad85c8b1942b400a47c28297bad62", null ]
+    [ "item_only_for_flight", "d6/d12/a28501.html#a8f905266dc8f24cf35598a37e7018ff7", null ],
+    [ "OnUse", "d6/d12/a28501.html#a88cdf17a85630aef703f93143ba41d4d", null ]
 ];

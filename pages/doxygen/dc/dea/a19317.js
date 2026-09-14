@@ -1,9 +1,7 @@
 var a19317 =
 [
-    [ "npc_icc_severed_essenceAI", "dc/dea/a19317.html#a76366c33ab9ec7aa291c0df657fbef68", null ],
-    [ "CanAIAttack", "dc/dea/a19317.html#a2cc2cfc967f9ad966d76571eb0eb630f", null ],
-    [ "DoAction", "dc/dea/a19317.html#a938af3a7de5b26432e1ad515a326a032", null ],
-    [ "UpdateAI", "dc/dea/a19317.html#a66e3324baa87ba109dd968a517ee82a5", null ],
-    [ "Class", "dc/dea/a19317.html#aa627713be3a2ac01336d158d96aaccc7", null ],
-    [ "events", "dc/dea/a19317.html#a1bab216925c4123d633d9613bb80365c", null ]
+    [ "HandleDummyLaunch", "dc/dea/a19317.html#a4991dab04ed9cb8cfd846588a8ef01bf", null ],
+    [ "PrepareSpellScript", "dc/dea/a19317.html#a8926bc8e228eaaa4a7d554643b50e48d", null ],
+    [ "Register", "dc/dea/a19317.html#add5dc6c0a3b618fba3d3a73b6c76235b", null ],
+    [ "Validate", "dc/dea/a19317.html#a577166695c1479e3730a70637bc18cf1", null ]
 ];

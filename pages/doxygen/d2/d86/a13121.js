@@ -1,6 +1,6 @@
 var a13121 =
 [
-    [ "bossId", "d2/d86/a13121.html#a898f2ce24d96fb7d6a118e9772344c43", null ],
-    [ "circleId", "d2/d86/a13121.html#aaa379e61fda2f7225ab4089757df5d24", null ],
-    [ "runeId", "d2/d86/a13121.html#aa7ac7e2d5729aa906e00ca9c2648581d", null ]
+    [ "boss_magmadar", "d2/d86/a13121.html#a1d7fe10f244e2975a858ee884a02ce57", null ],
+    [ "ExecuteEvent", "d2/d86/a13121.html#af846ccbb6fa4a63b7ea04474deeb7db5", null ],
+    [ "JustEngagedWith", "d2/d86/a13121.html#a4a38f37d0cbe892b7336694ef6008f2d", null ]
 ];

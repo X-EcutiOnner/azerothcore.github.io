@@ -1,12 +1,7 @@
 var a13773 =
 [
-    [ "boss_kalecgos", "d0/d50/a13773.html#a9a3eaee76ada967445cc0ed3d5ed21d2", null ],
-    [ "CanAIAttack", "d0/d50/a13773.html#aa810a7eae5a6b1102e2e96022eaf5085", null ],
-    [ "CheckInRoom", "d0/d50/a13773.html#a99cf385b11044c364b23fa8fc7e755ee", null ],
-    [ "ClearPlayerAuras", "d0/d50/a13773.html#a17ffb7ec1b591acb0e5c359cb73ed2f6", null ],
-    [ "DoAction", "d0/d50/a13773.html#aaccfa519a7290eb56990e43de4beea97", null ],
-    [ "JustEngagedWith", "d0/d50/a13773.html#ab4d440dd0b66002b840bc4b3d3a8f7ef", null ],
-    [ "KilledUnit", "d0/d50/a13773.html#a9844d54a8334ae5d20689593cd8a5e1a", null ],
-    [ "Reset", "d0/d50/a13773.html#ad30cbd6d6fe343b9eb44fb96b0779551", null ],
-    [ "_sathBanished", "d0/d50/a13773.html#a595eb66eb6f820efa29fcc5d631fe159", null ]
+    [ "CheckCast", "d0/d50/a13773.html#a6ac00101ced46cebd1dd6a32c89374d2", null ],
+    [ "PrepareSpellScript", "d0/d50/a13773.html#a07973000e8a4b0ff66d4f4d1fd9f327e", null ],
+    [ "Register", "d0/d50/a13773.html#a7deecb2b7dfc410af30d8b14d941f74a", null ],
+    [ "Validate", "d0/d50/a13773.html#a9208b9c010bb9cc379c195939351aa45", null ]
 ];

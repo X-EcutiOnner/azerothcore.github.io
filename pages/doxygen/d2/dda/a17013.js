@@ -1,6 +1,6 @@
 var a17013 =
 [
-    [ "npc_toc_pet_warlockAI", "d5/d12/a17017.html", "d5/d12/a17017" ],
-    [ "npc_toc_pet_warlock", "d2/dda/a17013.html#a4703f506d677d7e490c6813c6d9b060b", null ],
-    [ "GetAI", "d2/dda/a17013.html#aebcaff82726508a14028cb22a1ef944b", null ]
+    [ "npc_toc_hunterAI", "d5/d12/a17017.html", "d5/d12/a17017" ],
+    [ "npc_toc_hunter", "d2/dda/a17013.html#a73d4113df71626af7b8294e08373965e", null ],
+    [ "GetAI", "d2/dda/a17013.html#a8b9d2a8186aefb3e411bd20c006207d4", null ]
 ];

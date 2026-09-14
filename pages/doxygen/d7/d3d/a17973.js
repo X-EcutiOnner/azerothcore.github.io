@@ -1,7 +1,7 @@
 var a17973 =
 [
-    [ "DelayedMovementEvent", "d7/d3d/a17973.html#a21241cde30f66ae42edb311542f7405c", null ],
-    [ "Execute", "d7/d3d/a17973.html#a8287761226ee671905151891779b6efb", null ],
-    [ "_dest", "d7/d3d/a17973.html#a9a0cd9830509ffdecd98ac8231350d58", null ],
-    [ "_owner", "d7/d3d/a17973.html#a046942728282a997068de447271f3cbe", null ]
+    [ "npc_icc_blood_beastAI", "d7/d3d/a17973.html#af52eff9f66451444c5acba6930c1bff6", null ],
+    [ "DoAction", "d7/d3d/a17973.html#a5de6e46fd21fd073fde2f0aaa5dc947a", null ],
+    [ "UpdateAI", "d7/d3d/a17973.html#ac9da073c33dd33097f03ca35d36ea15e", null ],
+    [ "timer1", "d7/d3d/a17973.html#a1074059162f818088808795119f081be", null ]
 ];

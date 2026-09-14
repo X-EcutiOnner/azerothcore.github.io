@@ -1,13 +1,10 @@
 var a09329 =
 [
-    [ "QuestPOI", "d8/de3/a09329.html#af4ce75549d1fff2042e98683119214a6", null ],
-    [ "QuestPOI", "d8/de3/a09329.html#a4cf252fabc68cf11df5d44f192955a0b", null ],
-    [ "AreaId", "d8/de3/a09329.html#ad81f08fa2bc5fd0ccd81d0efc42ce804", null ],
-    [ "FloorId", "d8/de3/a09329.html#a1af6ed9fdb9ff429e18fb5d98a42ce45", null ],
-    [ "Id", "d8/de3/a09329.html#aace0de15249c756ba3cbd5763cbb3f98", null ],
-    [ "MapId", "d8/de3/a09329.html#a851f8e6e62373d2592173534754d757b", null ],
-    [ "ObjectiveIndex", "d8/de3/a09329.html#ad80f65110beacd44e667008387e6bb70", null ],
-    [ "points", "d8/de3/a09329.html#aeb505cb061a00ecaa2acc749e391f207", null ],
-    [ "Unk3", "d8/de3/a09329.html#a1f1d8fa843c856b54ec1ca85b08d78e1", null ],
-    [ "Unk4", "d8/de3/a09329.html#aa8089160bb8e93ea79df96b956050b70", null ]
+    [ "mapId", "d8/de3/a09329.html#a828d8b93918ea8ba695e0c5e597c855d", null ],
+    [ "name", "d8/de3/a09329.html#a9dd0dacb5825cf3afd117c22ac5ebf21", null ],
+    [ "orientation", "d8/de3/a09329.html#a49b4a83290dbe39ab0be79a8ae2f03a6", null ],
+    [ "position_x", "d8/de3/a09329.html#a65e7390a1dbb615a155c4f163b830e11", null ],
+    [ "position_y", "d8/de3/a09329.html#a3d3f398cd23566dce721fefeae7af33c", null ],
+    [ "position_z", "d8/de3/a09329.html#a9ff9a74b00016df6df7c27ebce8ff3fb", null ],
+    [ "wnameLow", "d8/de3/a09329.html#ac63cbb609eadc584fe61d33fb709c4d6", null ]
 ];

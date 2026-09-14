@@ -1,5 +1,6 @@
 var a28341 =
 [
-    [ "go_southfury_moonstone", "d6/d58/a28341.html#aed27e57e8232e156177c293ad0c0b4bb", null ],
-    [ "OnGossipHello", "d6/d58/a28341.html#a9d9708da940c1ee37f9eb4558ed97737", null ]
+    [ "go_bear_trapAI", "d8/d78/a28345.html", "d8/d78/a28345" ],
+    [ "go_bear_trap", "d6/d58/a28341.html#a6301aa23009ac2599fc37b81bb3a0750", null ],
+    [ "GetAI", "d6/d58/a28341.html#afb882fd4cc2e4379bb8d5afff210a679", null ]
 ];

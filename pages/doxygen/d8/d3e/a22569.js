@@ -1,6 +1,7 @@
 var a22569 =
 [
-    [ "FilterTargets", "d8/d3e/a22569.html#a4d81860c41daab44851da605d38b4753", null ],
-    [ "PrepareSpellScript", "d8/d3e/a22569.html#a99a7b95b1cf5835aeebe85f398f6e9a4", null ],
-    [ "Register", "d8/d3e/a22569.html#a80baaf9b470d7bd5e91dffb3f0442a57", null ]
+    [ "HandleScript", "d8/d3e/a22569.html#a1811115f1732912bdfaeeb8272db2304", null ],
+    [ "PrepareSpellScript", "d8/d3e/a22569.html#a50c24464dd88717bf78971d679715d7b", null ],
+    [ "Register", "d8/d3e/a22569.html#ab48b37db40865d60d7cda3260ec15ba8", null ],
+    [ "Validate", "d8/d3e/a22569.html#a0f0e4621965ea7ed7a108bca6d232ad0", null ]
 ];

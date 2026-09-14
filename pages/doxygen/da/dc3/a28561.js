@@ -1,6 +1,8 @@
 var a28561 =
 [
-    [ "npc_target_dummy", "da/dc3/a28561.html#a097033431f3bfa2e5e05ab1c76b0a4fa", null ],
-    [ "Reset", "da/dc3/a28561.html#a3fcccbe2c48bf5e076e8b016195e1469", null ],
-    [ "UpdateAI", "da/dc3/a28561.html#a32e9e139a54375b336c112deee3687cd", null ]
+    [ "npc_artoriusAI", "d9/d01/a28565.html", "d9/d01/a28565" ],
+    [ "npc_artorius", "da/dc3/a28561.html#a832831aa19ef3694eee5bbae4d1d39e1", null ],
+    [ "GetAI", "da/dc3/a28561.html#a2563f90fe1fd35c6bcf3f2296652981d", null ],
+    [ "OnGossipHello", "da/dc3/a28561.html#a2c91fcd777d0e0e7ab4927290ca04359", null ],
+    [ "OnGossipSelect", "da/dc3/a28561.html#ae0d8b09e4f7ad830cac9d82ef2d2fe57", null ]
 ];

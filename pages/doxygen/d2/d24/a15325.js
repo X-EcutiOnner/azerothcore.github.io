@@ -1,22 +1,6 @@
 var a15325 =
 [
-    [ "npc_cos_stratholme_citizienAI", "d2/d24/a15325.html#a591aaf16ef5befada12378acfbef9465", null ],
-    [ "DoAction", "d2/d24/a15325.html#af9d6fa1dfa83a75194797e99ee80ae0e", null ],
-    [ "InfectMe", "d2/d24/a15325.html#a9517132eeaf1a0ffd5cb8b5879ed5d5b", null ],
-    [ "MoveInLineOfSight", "d2/d24/a15325.html#ab7a8f6423e12ca0ea9bcb085594013a2", null ],
-    [ "Reset", "d2/d24/a15325.html#a0dbb5f295aa9061fa3457c9590ea9b10", null ],
-    [ "SpellHit", "d2/d24/a15325.html#aa8b9a05d3c7d89aa054af919672a69ec", null ],
-    [ "UpdateAI", "d2/d24/a15325.html#a81a1382493091a99cae1c2bb580a7f32", null ],
-    [ "allowTimer", "d2/d24/a15325.html#ae92384763b3cfe4a4bc4180d1c404456", null ],
-    [ "ambientTalkTimer", "d2/d24/a15325.html#aaa8eef94d1707207d241010d066d02fc", null ],
-    [ "changeTimer", "d2/d24/a15325.html#aa757ab2eef813dceaaad65d84681099b", null ],
-    [ "emoteTimer", "d2/d24/a15325.html#a6d0d8325a190f50e0c64eaccbc59ad3e", null ],
-    [ "isBrandonCrowd", "d2/d24/a15325.html#a7ded1c196b311e5b61686ba9f22efd20", null ],
-    [ "isPatriciaCrowd", "d2/d24/a15325.html#a22a78166929dbed5ea37ecf8f9010533", null ],
-    [ "isStephanieCrowd", "d2/d24/a15325.html#a211859fa8f83c08d6150f9fb5730e409", null ],
-    [ "locked", "d2/d24/a15325.html#aa644050a5fc0b3cd04573e8b3def87ee", null ],
-    [ "pInstance", "d2/d24/a15325.html#aadae06c487a7755114f856a835d48c7e", null ],
-    [ "stephanieDialoguePhase", "d2/d24/a15325.html#a5cadb975125ec915dcc1899d159c2aa3", null ],
-    [ "stephanieDialogueTimer", "d2/d24/a15325.html#a61fa61e81acfc543353312914a99d841", null ],
-    [ "talkTimer", "d2/d24/a15325.html#a903c8eca8c2bfe695770c3c5736662c5", null ]
+    [ "boss_mal_ganisAI", "d8/d27/a15329.html", "d8/d27/a15329" ],
+    [ "boss_mal_ganis", "d2/d24/a15325.html#a604becb65e766f4fb71d2ae168d1be4e", null ],
+    [ "GetAI", "d2/d24/a15325.html#aa747abd11310c3535ea2ea37e4aac28b", null ]
 ];

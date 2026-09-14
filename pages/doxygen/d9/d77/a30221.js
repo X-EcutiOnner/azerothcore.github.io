@@ -1,5 +1,5 @@
 var a30221 =
 [
-    [ "type", "d9/d77/a30221.html#af749459df7757d1bab17a54be813f6b6", null ],
-    [ "_type", "d9/d77/a30221.html#ab0344571616786baef4511c647a3abea", null ]
+    [ "Deep", "d9/d77/a30221.html#a9efcd2f19d9701713666f1ad2285d992", null ],
+    [ "Fishable", "d9/d77/a30221.html#a929299daf6bc46aa775b9b0fa055c9e2", null ]
 ];

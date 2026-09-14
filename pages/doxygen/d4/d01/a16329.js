@@ -1,7 +1,6 @@
 var a16329 =
 [
-    [ "HandleDummy", "d4/d01/a16329.html#a5d619c13c620fedeea803a0802fd9ee6", null ],
-    [ "PrepareSpellScript", "d4/d01/a16329.html#a04ed0daa21e66b842b8443b5e102ec1d", null ],
-    [ "Register", "d4/d01/a16329.html#a4359ad73b513a368509a066a039ddf53", null ],
-    [ "_targetCount", "d4/d01/a16329.html#a3ba108d63ef38af0a8730c1bf1aa69e9", null ]
+    [ "HandleSummon", "d4/d01/a16329.html#a730e0c865f8c0c12544be951a48fe9ff", null ],
+    [ "PrepareSpellScript", "d4/d01/a16329.html#a31271cd4668d3cbc4f4bdbeb693fe141", null ],
+    [ "Register", "d4/d01/a16329.html#ae388ee1b08891f021ab1308ec7ffebaa", null ]
 ];

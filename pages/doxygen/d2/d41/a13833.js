@@ -1,8 +1,7 @@
 var a13833 =
 [
-    [ "FilterTargets", "d2/d41/a13833.html#a3282eb4c27b4256705bba47f4934c9b8", null ],
-    [ "HandleScriptEffect", "d2/d41/a13833.html#a8622351d9984d2de69ccd67d37fd52b9", null ],
-    [ "PrepareSpellScript", "d2/d41/a13833.html#a6083e35b4289b8a960dd6b223e1d02b5", null ],
-    [ "Register", "d2/d41/a13833.html#a57b42bf7b94ef5b23092ed097ce016e8", null ],
-    [ "Validate", "d2/d41/a13833.html#a5493864b068de82015bc157f3d0899b3", null ]
+    [ "boss_kalec", "d2/d41/a13833.html#a9c36e31c750e93840f30f001cdaca0da", null ],
+    [ "JustDied", "d2/d41/a13833.html#a46f35b35c1d17abc2ffaf909c53a4039", null ],
+    [ "JustEngagedWith", "d2/d41/a13833.html#a4813ca02ed5ffc35add5279cc1ec277f", null ],
+    [ "UpdateAI", "d2/d41/a13833.html#ab55da7584fa7f545761a5bd547245747", null ]
 ];

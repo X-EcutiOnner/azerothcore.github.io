@@ -1,11 +1,6 @@
 var a23189 =
 [
-    [ "boss_doomlordkazzakAI", "da/d6c/a23189.html#a86a942b48bf1146fb3ab445dc386cab9", null ],
-    [ "JustDied", "da/d6c/a23189.html#a33d0bc150c3c2701f4c0c4d8f39fce29", null ],
-    [ "JustEngagedWith", "da/d6c/a23189.html#a8086a5f8f6edd94525b9aedd083b7b00", null ],
-    [ "JustRespawned", "da/d6c/a23189.html#a174912c149657f4d88446f4ac0631598", null ],
-    [ "KilledUnit", "da/d6c/a23189.html#adb91f475b0e8cb73821860c3c5cc226b", null ],
-    [ "Reset", "da/d6c/a23189.html#a51b19c8e7c5f85c41b3168165bb8b40b", null ],
-    [ "UpdateAI", "da/d6c/a23189.html#a28a0a8345fcd5411491409854acef729", null ],
-    [ "_inBerserk", "da/d6c/a23189.html#a996d17128aca96c00c8416957ebc24d0", null ]
+    [ "PrepareSpellScript", "da/d6c/a23189.html#a7e03b63174511ed4c3e78c99b781f8f2", null ],
+    [ "Register", "da/d6c/a23189.html#aaed4b5d67dbd06cb0a1adc91aa873247", null ],
+    [ "RemoveSpines", "da/d6c/a23189.html#a076b056328ba6181a6ec907f21258f9d", null ]
 ];

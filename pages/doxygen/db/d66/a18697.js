@@ -1,7 +1,6 @@
 var a18697 =
 [
-    [ "OnRemove", "db/d66/a18697.html#ac1a58d605156c03d05eb99605287e762", null ],
-    [ "PrepareAuraScript", "db/d66/a18697.html#a2db820022631647e942b5ec84e63717e", null ],
-    [ "Register", "db/d66/a18697.html#adfd213ccf8c5596fcd6dc69e53740376", null ],
-    [ "Validate", "db/d66/a18697.html#aa498d4669f67eba4b904b203daeb5a7d", null ]
+    [ "LichKingMovieEvent", "db/d66/a18697.html#a3e48e13dc5166c73a9f379045988f86a", null ],
+    [ "Execute", "db/d66/a18697.html#a22d6181fd2651d62dcb6cdbabe0561fe", null ],
+    [ "_owner", "db/d66/a18697.html#a7ed68f442a644d6bb7a036812351d89e", null ]
 ];

@@ -1,6 +1,7 @@
 var a12917 =
 [
-    [ "go_chromaggus_lever", "d2/d46/a12917.html#aa592f93028e323ed10102121d2d6b20e", null ],
-    [ "GossipHello", "d2/d46/a12917.html#abfb91ccfeb90152dc252f0110fb51715", null ],
-    [ "_instance", "d2/d46/a12917.html#a481373f4c49d76d3d0a41efcf2821f8f", null ]
+    [ "boss_urok_doomhowl", "d2/d46/a12917.html#af1ee215f3d8d6471587ef184bdb0d47c", null ],
+    [ "InitializeAI", "d2/d46/a12917.html#acb14f233eff038e0cc2ef0b44cac5357", null ],
+    [ "JustEngagedWith", "d2/d46/a12917.html#acf6c649e69b5e7104aa2ffca01fef6dc", null ],
+    [ "UpdateAI", "d2/d46/a12917.html#aff302dd58a2f0ef8d801b0b6813d3233", null ]
 ];

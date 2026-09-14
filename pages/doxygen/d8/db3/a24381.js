@@ -1,7 +1,6 @@
 var a24381 =
 [
-    [ "HandlePeriodic", "d8/db3/a24381.html#a56dd6ce5acad6c8a10eabfc3f35879fe", null ],
-    [ "PrepareAuraScript", "d8/db3/a24381.html#a58dc6668172d046cef3046649928c124", null ],
-    [ "Register", "d8/db3/a24381.html#a5700d7cc8b52ec0351e3d7bf851274b7", null ],
-    [ "Validate", "d8/db3/a24381.html#afa6d5fe15882f33ae1a1d137db9caf8c", null ]
+    [ "npc_enraged_spiritAI", "d2/d15/a24385.html", "d2/d15/a24385" ],
+    [ "npc_enraged_spirit", "d8/db3/a24381.html#a17d9e2e5fb8f2795fdeff26567bbf85f", null ],
+    [ "GetAI", "d8/db3/a24381.html#aa10d5f0147cf4064a49df735ac95575e", null ]
 ];

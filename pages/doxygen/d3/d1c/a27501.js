@@ -1,6 +1,6 @@
 var a27501 =
 [
-    [ "HandlePeriodic", "d3/d1c/a27501.html#af875d62dd47650c9f2e9c3a4508ed05b", null ],
-    [ "PrepareAuraScript", "d3/d1c/a27501.html#a2efdcd0902e9cb5c47e285492dd93789", null ],
-    [ "Register", "d3/d1c/a27501.html#ac90afe9f5d9d55faba2282a875469311", null ]
+    [ "HandleProc", "d3/d1c/a27501.html#a34fc7c89e962791d76c24c40bbdba827", null ],
+    [ "PrepareAuraScript", "d3/d1c/a27501.html#a3558a23d2d428ee4f0bec8ae6c1afba5", null ],
+    [ "Register", "d3/d1c/a27501.html#aab998e808ec9f53e87d92e71b3cc1c30", null ]
 ];

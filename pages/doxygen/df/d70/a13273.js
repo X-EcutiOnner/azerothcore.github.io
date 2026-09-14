@@ -1,9 +1,15 @@
 var a13273 =
 [
-    [ "FilterTargets", "df/d70/a13273.html#a88b91e40b330d39bd04a7873128fb858", null ],
-    [ "HandleFinish", "df/d70/a13273.html#a762ea4cc1cd0a50a65daf22cbbf4ce9c", null ],
-    [ "PrepareSpellScript", "df/d70/a13273.html#ab4ef82283e4d651d2e5304e49970efa8", null ],
-    [ "Register", "df/d70/a13273.html#ab2008e585589cbf313170064d37c4aa9", null ],
-    [ "Validate", "df/d70/a13273.html#af4963be6c544a1706a6dc30dcbf18309", null ],
-    [ "_targets", "df/d70/a13273.html#a2f75199a90e52cff770f46bce76d5149", null ]
+    [ "boss_moroes", "df/d70/a13273.html#ae477dcfd679dd7943ddd133bb0dd89df", null ],
+    [ "CheckGuestsInRoom", "df/d70/a13273.html#ad34daa424532003e8da616aed3df6c82", null ],
+    [ "GetRandomGuest", "df/d70/a13273.html#a73f4b3c1a3a46261cf62143f8359b55e", null ],
+    [ "InitializeGuests", "df/d70/a13273.html#a815ca169e0787c92c09a5803007355aa", null ],
+    [ "JustDied", "df/d70/a13273.html#a7d425d58b1e64ef174ff92e1263de544", null ],
+    [ "JustEngagedWith", "df/d70/a13273.html#aa0bf31d8298b4ec6ce205cefd0766194", null ],
+    [ "KilledUnit", "df/d70/a13273.html#a3d28056a0d26d426d84363fb0c4f7e4d", null ],
+    [ "Reset", "df/d70/a13273.html#a677f2b8375981d904183dd804f4b32b8", null ],
+    [ "UpdateAI", "df/d70/a13273.html#aa639032a49b3e9bd4209d17e0863db32", null ],
+    [ "_activeGuests", "df/d70/a13273.html#a651f53f476f205785d596ed9d52fdb89", null ],
+    [ "_events2", "df/d70/a13273.html#ae1c0474e0a940a803d82d3fe6d3ff37f", null ],
+    [ "_vanished", "df/d70/a13273.html#a60d99b80815a2b2626638d6410ce64a2", null ]
 ];

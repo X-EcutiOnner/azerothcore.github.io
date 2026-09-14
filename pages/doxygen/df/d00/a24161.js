@@ -1,7 +1,9 @@
 var a24161 =
 [
-    [ "npc_creditmarker_visit_with_ancestorsAI", "df/d00/a24161.html#a483e8fb0d73561e34a1078fdde1a1b5b", null ],
-    [ "JustEngagedWith", "df/d00/a24161.html#a4038d707731f64f588e307c22c859902", null ],
-    [ "MoveInLineOfSight", "df/d00/a24161.html#a40d92122cd4f879f52ff78a4f172c3b8", null ],
-    [ "Reset", "df/d00/a24161.html#a29132346f117ba785039057619edb9e7", null ]
+    [ "npc_oscillating_frequency_scanner_master_bunnyAI", "df/d00/a24161.html#a273d585416dc92d39d5ec3824c08504d", null ],
+    [ "IsSummonedBy", "df/d00/a24161.html#a5f002d36c492ed2caf2290f4a073a7d0", null ],
+    [ "Reset", "df/d00/a24161.html#a06fa50580efeab8d847a05f20956d175", null ],
+    [ "UpdateAI", "df/d00/a24161.html#a8261a259cfbee0d3610ee441406fafcd", null ],
+    [ "playerGuid", "df/d00/a24161.html#aab717dd49284c483759a6223dbd7e6ea", null ],
+    [ "timer", "df/d00/a24161.html#afba1b71178c563a3db906057cd20de45", null ]
 ];

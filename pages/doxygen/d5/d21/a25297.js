@@ -1,8 +1,7 @@
 var a25297 =
 [
-    [ "CheckRequirement", "d5/d21/a25297.html#ad967ae7e2affa312fa4adbca6e86dd7c", null ],
-    [ "HandleScript", "d5/d21/a25297.html#aa89b60b2d757ef1ceacebae38aa5d9d9", null ],
-    [ "Load", "d5/d21/a25297.html#a9dfb5501ad6324a25966af44f233b5fb", null ],
-    [ "PrepareSpellScript", "d5/d21/a25297.html#ace75db8a6e5628df6e2edba91cd2852f", null ],
-    [ "Register", "d5/d21/a25297.html#a89d053e0ee793017c74188aac32d99d5", null ]
+    [ "HandleScript", "d5/d21/a25297.html#a628fbc7ef23ce8f93d132f7bf518d4d8", null ],
+    [ "PrepareSpellScript", "d5/d21/a25297.html#a8e5aa0a33907c5216299734a928de2fd", null ],
+    [ "Register", "d5/d21/a25297.html#a9e25da03bbbea35f13420c14c6fab0d5", null ],
+    [ "Validate", "d5/d21/a25297.html#a30cc03ed0c19074dc1fde4951a061815", null ]
 ];

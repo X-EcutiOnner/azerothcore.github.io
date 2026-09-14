@@ -1,7 +1,10 @@
 var a23937 =
 [
-    [ "HandleEffect", "d0/d43/a23937.html#ac0fb38f62cc9a41eb70b2ca951f9d1dc", null ],
-    [ "PrepareSpellScript", "d0/d43/a23937.html#abbbffa0a53dc2a55df5e7b17a7f4d38f", null ],
-    [ "Register", "d0/d43/a23937.html#ac406946bb793125d49006e3a877c9638", null ],
-    [ "SelectTarget", "d0/d43/a23937.html#ac36f3d88a0ef8ccaee5bac17bffcaf49", null ]
+    [ "CheckProc", "d0/d43/a23937.html#ac176c59497cc2196c19dc8a1b9f8056d", null ],
+    [ "Load", "d0/d43/a23937.html#aad39e53d6b3fc673c115f79ca0bc9b68", null ],
+    [ "PrepareAuraScript", "d0/d43/a23937.html#a990cab2c1d9fb544bf11c9fd4e5495ac", null ],
+    [ "Register", "d0/d43/a23937.html#ae2cf612df18cf249bc4a90ce9332fc9b", null ],
+    [ "_lastForm", "d0/d43/a23937.html#ad392a897546cb64e550dd8b0709ba0ab", null ],
+    [ "_lastSchool", "d0/d43/a23937.html#afc2e3e388615ed5cf0f4dd672f26de85", null ],
+    [ "_swapTime", "d0/d43/a23937.html#af832dc200e928df3849ab7d7f93cb412", null ]
 ];

@@ -1,11 +1,13 @@
 var a14161 =
 [
-    [ "npc_scarlet_ghoul", "d1/d4c/a14161.html#aa256e50446b0511a0412442245be2e82", null ],
-    [ "InitializeAI", "d1/d4c/a14161.html#a5e98c4a1e9a31124dc6ca67c612db1c9", null ],
-    [ "MovementInform", "d1/d4c/a14161.html#a06f14ccde727b7c875f3be8243dec2a8", null ],
-    [ "OwnerAttackedBy", "d1/d4c/a14161.html#aacf81b86947124cea21fc6d2e906487f", null ],
-    [ "SetGUID", "d1/d4c/a14161.html#ab3840f1d6b1e63b4707d5139b63281cc", null ],
-    [ "UpdateAI", "d1/d4c/a14161.html#af8637b2a7644b917aa6ef10b31a1d1e0", null ],
-    [ "events", "d1/d4c/a14161.html#ad2b3d650e151a13159e119cb3fda88a4", null ],
-    [ "gothikGUID", "d1/d4c/a14161.html#a9275cf7efde4c77ce114448777f25f1e", null ]
+    [ "npc_ravenclaw_apparitionAI", "d1/d4c/a14161.html#a2a8a6cdb3d74e55cc3d6786ebcfb5328", null ],
+    [ "EmoteCrowd", "d1/d4c/a14161.html#a7a407c9b00bb24c4c3d057ec2a4b0fdc", null ],
+    [ "JustDied", "d1/d4c/a14161.html#a88f9d4e72273f8f835e809b27d5b52d8", null ],
+    [ "JustSummoned", "d1/d4c/a14161.html#a1ab2f2a6b0514d192a7962cf8315ee16", null ],
+    [ "SummonCrowd", "d1/d4c/a14161.html#af3f6ea6094b82e06ce7ef2d4432bd88a", null ],
+    [ "UpdateAI", "d1/d4c/a14161.html#ab3c6c27a31f12443efcad314cbfa1129", null ],
+    [ "events", "d1/d4c/a14161.html#a27522107b5e1f54909294f800f26663f", null ],
+    [ "HasEnded", "d1/d4c/a14161.html#a1b7a57b7204f51304ef05ee3d2265774", null ],
+    [ "summons", "d1/d4c/a14161.html#a85cde0a9d4903c89b29f68318730ab7f", null ],
+    [ "TalkRNG", "d1/d4c/a14161.html#a4b41f348e6756298d6a13b09fbf13fd0", null ]
 ];

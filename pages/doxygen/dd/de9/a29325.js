@@ -1,7 +1,4 @@
 var a29325 =
 [
-    [ "Id", "dd/de9/a29325.html#a94843a6f0cb39332f39a9630945f1fc8", null ],
-    [ "SoundBank", "dd/de9/a29325.html#a1dd2e40caf515186c831dc8cc82c095b", null ],
-    [ "SpellId", "dd/de9/a29325.html#aa010947f5fbec6867b005b25728e720b", null ],
-    [ "Type", "dd/de9/a29325.html#a7f610dd6a9944b4634bb981c0cb8e230", null ]
+    [ "ratio", "dd/de9/a29325.html#a4d2880eb4c15dca8148ee5aa21920e6d", null ]
 ];

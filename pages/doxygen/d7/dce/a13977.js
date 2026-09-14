@@ -1,7 +1,7 @@
 var a13977 =
 [
-    [ "HandleScriptEffect", "d7/dce/a13977.html#aa537704c2066df4f5b4c60a775026a83", null ],
-    [ "PrepareSpellScript", "d7/dce/a13977.html#ac500902c22102ebfc6dcf6f78f0dd8c1", null ],
-    [ "Register", "d7/dce/a13977.html#a1d9cfdc65bd5ae76376e709d0ac891c0", null ],
-    [ "Validate", "d7/dce/a13977.html#a9ef5a491b5a06c31cdb0249dc086e32f", null ]
+    [ "HandleAfterCast", "d7/dce/a13977.html#a251ddadd9d26039da542c402e4ee254f", null ],
+    [ "PrepareSpellScript", "d7/dce/a13977.html#a91114aeb4f917ec5138a0c7b20688174", null ],
+    [ "Register", "d7/dce/a13977.html#a42960206e2444d8e6fb8fdc4d80a534b", null ],
+    [ "Validate", "d7/dce/a13977.html#ad4012436a41537fc5ae854c0c48f09b1", null ]
 ];

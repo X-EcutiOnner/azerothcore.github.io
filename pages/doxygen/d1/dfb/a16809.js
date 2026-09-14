@@ -1,6 +1,16 @@
 var a16809 =
 [
-    [ "npc_toc5_grand_champion_minionAI", "d8/d14/a16813.html", "d8/d14/a16813" ],
-    [ "npc_toc5_grand_champion_minion", "d1/dfb/a16809.html#a5761757b3cbbbce8ada4770805eb8de5", null ],
-    [ "GetAI", "d1/dfb/a16809.html#a55acf397b94ba63b1db626dc1041b28e", null ]
+    [ "npc_argent_soldierAI", "d1/dfb/a16809.html#abbfbb5a1e116c6deb3db23f12ff8994f", null ],
+    [ "DamageTaken", "d1/dfb/a16809.html#afb48cc1c2e254c292c33eade74b6fad7", null ],
+    [ "JustDied", "d1/dfb/a16809.html#aedf4dcd909c1009fedfde593522454ec", null ],
+    [ "JustEngagedWith", "d1/dfb/a16809.html#a0aa59fdf0668d64f3b670c595579ba81", null ],
+    [ "Reset", "d1/dfb/a16809.html#a1a0c00c09c348f746730c9743d4b7b6b", null ],
+    [ "SetData", "d1/dfb/a16809.html#a20b62b48f5cf92106fcd1860d9e91956", null ],
+    [ "UpdateAI", "d1/dfb/a16809.html#aed2921c1f6bc0507bf9e6f02f224ab44", null ],
+    [ "WaypointReached", "d1/dfb/a16809.html#af70fb91477dbeaa7e6e409f3381f0770", null ],
+    [ "WaypointReached", "d1/dfb/a16809.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "bCheck", "d1/dfb/a16809.html#af570597c33add7ac5ebf3d01e8c9b2df", null ],
+    [ "events", "d1/dfb/a16809.html#ac458fc9a331dc7edfdc764215b1926e8", null ],
+    [ "pInstance", "d1/dfb/a16809.html#ac9951514f27f343ae96e856f484e7baf", null ],
+    [ "uiWaypoint", "d1/dfb/a16809.html#a87382571221c608017fd2d4cb99193dc", null ]
 ];

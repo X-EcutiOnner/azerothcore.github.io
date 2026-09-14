@@ -1,6 +1,7 @@
 var a24121 =
 [
-    [ "npc_wounded_blood_elfAI", "d6/d1a/a24125.html", "d6/d1a/a24125" ],
-    [ "npc_wounded_blood_elf", "d1/dfd/a24121.html#a40e79d1412f5f399869a4d2c6fbb4260", null ],
-    [ "GetAI", "d1/dfd/a24121.html#a39d4bd877bdf6596c65e3cb834f124aa", null ]
+    [ "OnPeriodic", "d1/dfd/a24121.html#a7ef787ac13b97aa225a5340f7bfcc4e3", null ],
+    [ "PrepareAuraScript", "d1/dfd/a24121.html#a6f7db06cc1ace68ee0076077773b1659", null ],
+    [ "Register", "d1/dfd/a24121.html#a559347bedad9fd8a0e6f4c5b14333c06", null ],
+    [ "Validate", "d1/dfd/a24121.html#aae1c2d5b8eb30341a67e261e69a4d294", null ]
 ];

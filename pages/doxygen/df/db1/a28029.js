@@ -1,7 +1,6 @@
 var a28029 =
 [
-    [ "HandleProc", "df/db1/a28029.html#a39a69b837c5844d345f5a311f5760bf6", null ],
-    [ "PrepareAuraScript", "df/db1/a28029.html#a673557238631dbca8954f516718f0eb2", null ],
-    [ "Register", "df/db1/a28029.html#aa9f71fd65dd63f66a7ff3c7757174e67", null ],
-    [ "Validate", "df/db1/a28029.html#aedf17c34772c0e2030388fc9b17aec38", null ]
+    [ "FilterTargets", "df/db1/a28029.html#a6224b3193474f569d09edaf29b40c2fb", null ],
+    [ "PrepareSpellScript", "df/db1/a28029.html#ad7478a1a70ebc52eda1c57dd4f143b67", null ],
+    [ "Register", "df/db1/a28029.html#a2fab1592d19331239b1ef63045389886", null ]
 ];

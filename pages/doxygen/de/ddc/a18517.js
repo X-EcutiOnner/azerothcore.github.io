@@ -1,6 +1,7 @@
 var a18517 =
 [
-    [ "HandleSpecial", "de/ddc/a18517.html#afa540e8c748ca3083667528e2449bc65", null ],
-    [ "PrepareSpellScript", "de/ddc/a18517.html#a9472211ffdaa33802099b22b2a721645", null ],
-    [ "Register", "de/ddc/a18517.html#ab868b10372ff2ef401d19b126acf00c6", null ]
+    [ "FrostwyrmLandEvent", "de/ddc/a18517.html#a6b6a467c474a5b03be40e4d9a86eddc8", null ],
+    [ "Execute", "de/ddc/a18517.html#a4da77796a223e6233ac6d908f7700623", null ],
+    [ "_dest", "de/ddc/a18517.html#a7f5b4c41c459b65e30dea66f7459a7e9", null ],
+    [ "_owner", "de/ddc/a18517.html#a6336050092606ebb27a180abff55dfa2", null ]
 ];

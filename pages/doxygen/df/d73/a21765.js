@@ -1,9 +1,7 @@
 var a21765 =
 [
-    [ "npc_minigob_manabonk", "df/d73/a21765.html#aade5e005b68b25ede4e653629390ceb9", null ],
-    [ "Reset", "df/d73/a21765.html#a18b3fcf1e2ada8f0178a0efd2e206a8e", null ],
-    [ "SelectTargetInDalaran", "df/d73/a21765.html#a74a14a6e1839d7b8cc81712d57666ec5", null ],
-    [ "SendMailToPlayer", "df/d73/a21765.html#a1973b7885c9fce15aab9843722bf112e", null ],
-    [ "UpdateAI", "df/d73/a21765.html#abca8214a8c13d9d9c5c03f659fef53a9", null ],
-    [ "playerGUID", "df/d73/a21765.html#ac8dccd333691f717fdbffe22126330d5", null ]
+    [ "HandleScriptEffect", "df/d73/a21765.html#adc89459d7b6c073b8a60e08a9e3281cf", null ],
+    [ "PrepareSpellScript", "df/d73/a21765.html#a8f15bf27d9e54c1ee6c84f99f1f83d48", null ],
+    [ "Register", "df/d73/a21765.html#a86ef787e1db46e578a10ca25ac84ba87", null ],
+    [ "Validate", "df/d73/a21765.html#abeb8baf7dabf2d3acea4df79535770d2", null ]
 ];

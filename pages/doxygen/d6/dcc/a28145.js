@@ -1,6 +1,5 @@
 var a28145 =
 [
-    [ "AreaTrigger_at_brewfest", "d6/dcc/a28145.html#ad7e2916aefc6efbfb9f747a75a4a14a3", null ],
-    [ "OnTrigger", "d6/dcc/a28145.html#a17e4a8d671136466c7673789e4f69a84", null ],
-    [ "_triggerTimes", "d6/dcc/a28145.html#ab763765427796ad17338bcc8d63cf891", null ]
+    [ "achievement_bg_av_perfection", "d6/dcc/a28145.html#a8a0ef996bdb1244026268922b301184c", null ],
+    [ "OnCheck", "d6/dcc/a28145.html#a17e700c17b5144b571f2aeed92a77749", null ]
 ];

@@ -1,6 +1,6 @@
 var a06493 =
 [
-    [ "NullGameObjectAI", "d9/df7/a06493.html#a54f6ae6e03fbe423d895ec306fe091db", null ],
-    [ "Permissible", "d9/df7/a06493.html#a850b58bfcc5e613f31fc95e556ed7f91", null ],
-    [ "UpdateAI", "d9/df7/a06493.html#a01b2b14306c75fafe58295a30e5d01e0", null ]
+    [ "SavedAddon", "d9/df7/a06493.html#a6252c2ac491d0ebd9e84556f26cfa8cd", null ],
+    [ "CRC", "d9/df7/a06493.html#a7d04d21a29aa589429aab0d95172ca95", null ],
+    [ "Name", "d9/df7/a06493.html#a075de88ce6e643cffb7c5bb55f7b1095", null ]
 ];

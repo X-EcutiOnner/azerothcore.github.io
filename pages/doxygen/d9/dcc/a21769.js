@@ -1,6 +1,7 @@
 var a21769 =
 [
-    [ "npc_dalaran_mageAI", "d3/dd4/a21773.html", "d3/dd4/a21773" ],
-    [ "npc_dalaran_mage", "d9/dcc/a21769.html#a764d637ab0c64e2a0cc0459269974d6d", null ],
-    [ "GetAI", "d9/dcc/a21769.html#ae2deef0546e2bf0df562e0a67b8b0b93", null ]
+    [ "HandleDummy", "d9/dcc/a21769.html#a476c55695b54e6f6756d9f795dbeeb07", null ],
+    [ "PrepareSpellScript", "d9/dcc/a21769.html#ae3af1398dec6d6f5faac8e026a6966df", null ],
+    [ "Register", "d9/dcc/a21769.html#a693522c8a05e2d86837bf16ef2a777b4", null ],
+    [ "Validate", "d9/dcc/a21769.html#ae1a2cdf4819859e11d6a70104c6d431a", null ]
 ];

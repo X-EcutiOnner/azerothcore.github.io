@@ -1,9 +1,14 @@
 var a20257 =
 [
-    [ "npc_hodirs_fury", "d7/df4/a20257.html#abda902842d76a0a5a17196a11654f5ab", null ],
-    [ "MovementInform", "d7/df4/a20257.html#a4d82007c5b70edad74b461948629b9fb", null ],
-    [ "Reset", "d7/df4/a20257.html#a8f50cc6b79ba7feab8ac2f83f82a598f", null ],
-    [ "UpdateAI", "d7/df4/a20257.html#a58a8b1664bb00b930cce86e856facb8b", null ],
-    [ "_switchTargetTimer", "d7/df4/a20257.html#a9736332e6f3d163f04aa12cbd6829670", null ],
-    [ "_timeToHit", "d7/df4/a20257.html#a611d171dc27bd78d298040eabfc00e5f", null ]
+    [ "boss_auriaya", "d7/df4/a20257.html#a2d946ada185a29bf00dc49d28089e64e", null ],
+    [ "DespawnFormationMembers", "d7/df4/a20257.html#a46dcb873d4101174687b4189d0494403", null ],
+    [ "DoAction", "d7/df4/a20257.html#aa58503020e3382e0c541047b233945a7", null ],
+    [ "ExecuteEvent", "d7/df4/a20257.html#ad8623f7f0dcda5532893c966cb216fc0", null ],
+    [ "GetData", "d7/df4/a20257.html#a44781b758392f8f519b9684617757620", null ],
+    [ "JustDied", "d7/df4/a20257.html#aa68d15f57a1ef545572f6d14a0541f4f", null ],
+    [ "JustEngagedWith", "d7/df4/a20257.html#ac80d7bbc334e20df9e85540556b8714e", null ],
+    [ "KilledUnit", "d7/df4/a20257.html#a6a3d2a4c2ae460da8db6b92b85bed45f", null ],
+    [ "Reset", "d7/df4/a20257.html#a4e2d1f982b2d5cb34ec8f77f869e8bad", null ],
+    [ "_feralDied", "d7/df4/a20257.html#a6e9a34f197964061752d7fd8283b1bf0", null ],
+    [ "_nineLives", "d7/df4/a20257.html#a26d80573eda1aa1005e1bc5453c182af", null ]
 ];

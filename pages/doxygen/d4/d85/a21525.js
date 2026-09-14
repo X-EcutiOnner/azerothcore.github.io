@@ -1,12 +1,13 @@
 var a21525 =
 [
-    [ "boss_zuramat", "d4/d85/a21525.html#af033b96498fb71059701caad1fed8f8a", null ],
-    [ "EnterEvadeMode", "d4/d85/a21525.html#a0d7ca9fe585e0dc87118c61ddc0dac84", null ],
-    [ "ExecuteEvent", "d4/d85/a21525.html#a350f06b88af5444a0d4086434ddbe6f4", null ],
-    [ "JustDied", "d4/d85/a21525.html#a1917921efc7a44c3cc3a799187c1718a", null ],
-    [ "JustEngagedWith", "d4/d85/a21525.html#a4c448c8b51795943a6e746479f3ad121", null ],
-    [ "JustSummoned", "d4/d85/a21525.html#a76c2de51333f57db6612effb92d07bd1", null ],
-    [ "KilledUnit", "d4/d85/a21525.html#ae3f00d76928cbd6adf7882f4cccc0518", null ],
-    [ "MoveInLineOfSight", "d4/d85/a21525.html#a6d46d73baf2c0b3c1706d9163564797f", null ],
-    [ "SummonedCreatureDespawn", "d4/d85/a21525.html#afc8869687e9a6050cfee2c674ef7e7f1", null ]
+    [ "boss_toravonAI", "d4/d85/a21525.html#a98474fcfbc56c7850ae054b7489eaa4f", null ],
+    [ "AttackStart", "d4/d85/a21525.html#ac4e2ed28ba7863630cd54c8f6c11455f", null ],
+    [ "JustDied", "d4/d85/a21525.html#ad501bb34a0014be0abc965aae5383e21", null ],
+    [ "JustEngagedWith", "d4/d85/a21525.html#af6a6cfd1ec54546c2e70ea60f871b564", null ],
+    [ "JustSummoned", "d4/d85/a21525.html#a431dafbcc3a6581d771e810a85a92a0b", null ],
+    [ "Reset", "d4/d85/a21525.html#a4af8eb8863e7ee1559bc156b7f28e8d8", null ],
+    [ "UpdateAI", "d4/d85/a21525.html#a97c16b1689cfdb7fa680381964cb272a", null ],
+    [ "events", "d4/d85/a21525.html#ae2a3b691f1580275228204ea8ccaf846", null ],
+    [ "pInstance", "d4/d85/a21525.html#a912bcccd309ccd1f043c5aae633e78fe", null ],
+    [ "summons", "d4/d85/a21525.html#a56ca98fa12190d6d9d459bc5e569ae04", null ]
 ];

@@ -1,18 +1,6 @@
 var a21501 =
 [
-    [ "boss_ichoron", "d8/dc8/a21501.html#abdcfe5b89cb1e2413de309a316e472f8", null ],
-    [ "DoAction", "d8/dc8/a21501.html#abe3d4e3f3c435f7cbe5b5b00c5dbb190", null ],
-    [ "DoExplodeCompleted", "d8/dc8/a21501.html#ae56fae748297a02404b984277a1dd25f", null ],
-    [ "EnterEvadeMode", "d8/dc8/a21501.html#a635d040533afa80e293ba9dbc141152a", null ],
-    [ "IchoronDoCastToAllHostilePlayers", "d8/dc8/a21501.html#aadcf249665816ada6c2efa7f30f743f0", null ],
-    [ "JustDied", "d8/dc8/a21501.html#ac85c574360da81216074b32dc9d40f74", null ],
-    [ "JustEngagedWith", "d8/dc8/a21501.html#ae5353b8cf2d14b169c6d65064d81d0e4", null ],
-    [ "JustSummoned", "d8/dc8/a21501.html#a45f9889887270ea51af6dcb1379408a9", null ],
-    [ "KilledUnit", "d8/dc8/a21501.html#a2bf779fb863f09654d51fdb37af6ed47", null ],
-    [ "MoveInLineOfSight", "d8/dc8/a21501.html#a4e323050c78bd1b95f691d0edc4fea3f", null ],
-    [ "Reset", "d8/dc8/a21501.html#aa3ea79b6cb639d659868e9ddd0e97df1", null ],
-    [ "SummonedCreatureDespawn", "d8/dc8/a21501.html#aaabedddd146e71e51db11772c635f8a2", null ],
-    [ "UpdateAI", "d8/dc8/a21501.html#a7f1902ff2071f4f1a6232d6970a0b6b0", null ],
-    [ "_isExploded", "d8/dc8/a21501.html#a23180ff62429fd94a08627f40ce5cbde", null ],
-    [ "_isFrenzy", "d8/dc8/a21501.html#a02f51f706c2183708ae29a990379e25a", null ]
+    [ "boss_koralonAI", "d5/d71/a21505.html", "d5/d71/a21505" ],
+    [ "boss_koralon", "d8/dc8/a21501.html#a43b9fb1224abeba44080fb02062451b0", null ],
+    [ "GetAI", "d8/dc8/a21501.html#a7afd462b2c43ee088c09fcb7ddcb141d", null ]
 ];

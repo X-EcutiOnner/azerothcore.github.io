@@ -1,74 +1,33 @@
 var a02561 =
 [
-    [ "npc_captain_saeed", "d7/dfa/a24177.html", "d7/dfa/a24177" ],
-    [ "npc_captain_saeed::npc_captain_saeedAI", "d3/dac/a24181.html", "d3/dac/a24181" ],
-    [ "npc_commander_dawnforge", "dd/da9/a24185.html", "dd/da9/a24185" ],
-    [ "npc_commander_dawnforge::npc_commander_dawnforgeAI", "d3/d9a/a24189.html", "d3/d9a/a24189" ],
-    [ "at_commander_dawnforge", "d7/d7a/a24193.html", "d7/d7a/a24193" ],
-    [ "npc_bessy", "df/df0/a24197.html", "df/df0/a24197" ],
-    [ "npc_bessy::npc_bessyAI", "db/d2b/a24201.html", "db/d2b/a24201" ],
-    [ "npc_maxx_a_million_escort", "df/d7d/a24205.html", "df/d7d/a24205" ],
-    [ "npc_maxx_a_million_escort::npc_maxx_a_million_escortAI", "d7/d3c/a24209.html", "d7/d3c/a24209" ],
-    [ "spell_q10190_battery_recharging_blaster", "d2/d4d/a24213.html", "d2/d4d/a24213" ],
-    [ "spell_q10190_battery_recharging_blaster_aura", "d1/dc3/a24217.html", "d1/dc3/a24217" ],
-    [ "spell_challenge_veraku", "de/d91/a24221.html", "de/d91/a24221" ],
-    [ "BessyData", "d1/d67/a02561.html#a2a01e5c4cbe1dd73ba234f4da412a800", [
-      [ "Q_ALMABTRIEB", "d1/d67/a02561.html#a2a01e5c4cbe1dd73ba234f4da412a800a03d22d23fb95f8127b016cf43730aa78", null ],
-      [ "N_THADELL", "d1/d67/a02561.html#a2a01e5c4cbe1dd73ba234f4da412a800a5cec3d466829633ff29e687afd873a5e", null ],
-      [ "SPAWN_FIRST", "d1/d67/a02561.html#a2a01e5c4cbe1dd73ba234f4da412a800a82b0ec040f620e6d838f64ddc943fda2", null ],
-      [ "SPAWN_SECOND", "d1/d67/a02561.html#a2a01e5c4cbe1dd73ba234f4da412a800a3a88a7d2035f3e6702cb8fbbc4bf4ff0", null ],
-      [ "SAY_BESSY_0", "d1/d67/a02561.html#a2a01e5c4cbe1dd73ba234f4da412a800a55f40e4f36c80f45773efa04eff81b8f", null ],
-      [ "SAY_BESSY_1", "d1/d67/a02561.html#a2a01e5c4cbe1dd73ba234f4da412a800adb84ff3325e5e417b4181ca493f156f7", null ],
-      [ "SAY_THADELL_1", "d1/d67/a02561.html#a2a01e5c4cbe1dd73ba234f4da412a800aca2132a9fb3f52ef6b935470b5f0712b", null ],
-      [ "SAY_THADELL_2", "d1/d67/a02561.html#a2a01e5c4cbe1dd73ba234f4da412a800a7ff88b44b35f30f4f524eed2587fd081", null ]
+    [ "npc_pet_pri_lightwell", "d1/d11/a24593.html", "d1/d11/a24593" ],
+    [ "PriestSpells", "d1/d67/a02561.html#a8aaecfe4214ff7bd567980dd904b110f", [
+      [ "SPELL_PRIEST_LIGHTWELL_CHARGES", "d1/d67/a02561.html#a8aaecfe4214ff7bd567980dd904b110faa3a53a7bde25a970e5c29b0f7f8984b2", null ],
+      [ "SPELL_PRIEST_DIVINE_AEGIS", "d8/db0/a03572.html#a8aaecfe4214ff7bd567980dd904b110fa4bd6adc8070fcaa774451c5cac40ded1", null ],
+      [ "SPELL_PRIEST_EMPOWERED_RENEW", "d8/db0/a03572.html#a8aaecfe4214ff7bd567980dd904b110fad78a13deca5dca1beb7e7304ae3e2014", null ],
+      [ "SPELL_PRIEST_GLYPH_OF_CIRCLE_OF_HEALING", "d8/db0/a03572.html#a8aaecfe4214ff7bd567980dd904b110faa6155b51d0796813e0d96b14449698d5", null ],
+      [ "SPELL_PRIEST_GLYPH_OF_LIGHTWELL", "d8/db0/a03572.html#a8aaecfe4214ff7bd567980dd904b110fa08ad85769dce5870b0201048c1537b8d", null ],
+      [ "SPELL_PRIEST_GLYPH_OF_PRAYER_OF_HEALING_HEAL", "d8/db0/a03572.html#a8aaecfe4214ff7bd567980dd904b110fadbaba8ea6d37743ef668662c895fcb4e", null ],
+      [ "SPELL_PRIEST_GUARDIAN_SPIRIT_HEAL", "d8/db0/a03572.html#a8aaecfe4214ff7bd567980dd904b110fa2e82dca38567004533ff9b39360424c4", null ],
+      [ "SPELL_PRIEST_ITEM_EFFICIENCY", "d8/db0/a03572.html#a8aaecfe4214ff7bd567980dd904b110fad0b9beecf2b1e0f1fadc6cf162bbd07d", null ],
+      [ "SPELL_PRIEST_LIGHTWELL_CHARGES", "d8/db0/a03572.html#a8aaecfe4214ff7bd567980dd904b110faa3a53a7bde25a970e5c29b0f7f8984b2", null ],
+      [ "SPELL_PRIEST_MANA_LEECH_PROC", "d8/db0/a03572.html#a8aaecfe4214ff7bd567980dd904b110fa4c5f8599ef6dfe01071d94bf15fdb366", null ],
+      [ "SPELL_PRIEST_PENANCE_R1", "d8/db0/a03572.html#a8aaecfe4214ff7bd567980dd904b110fa9ffd23299d870bb46db11bc57af21099", null ],
+      [ "SPELL_PRIEST_PENANCE_R1_DAMAGE", "d8/db0/a03572.html#a8aaecfe4214ff7bd567980dd904b110fa8768589bceb883d84b4e911a44d5267d", null ],
+      [ "SPELL_PRIEST_PENANCE_R1_HEAL", "d8/db0/a03572.html#a8aaecfe4214ff7bd567980dd904b110faf42f043dbb422920b04d0521f2103c68", null ],
+      [ "SPELL_PRIEST_REFLECTIVE_SHIELD_TRIGGERED", "d8/db0/a03572.html#a8aaecfe4214ff7bd567980dd904b110fa1fbf9f6af5e3402822cc04234cddaba4", null ],
+      [ "SPELL_PRIEST_REFLECTIVE_SHIELD_R1", "d8/db0/a03572.html#a8aaecfe4214ff7bd567980dd904b110fa22705e4341a9c87d475363cb0a9f78eb", null ],
+      [ "SPELL_PRIEST_SHADOW_WORD_DEATH", "d8/db0/a03572.html#a8aaecfe4214ff7bd567980dd904b110fad1d6a6bd6506f7e5a302ca1ad7256c4f", null ],
+      [ "SPELL_PRIEST_T9_HEALING_2P", "d8/db0/a03572.html#a8aaecfe4214ff7bd567980dd904b110faecf270b72f7ced3aab3ce3b2f24b8a87", null ],
+      [ "SPELL_PRIEST_VAMPIRIC_TOUCH_DISPEL", "d8/db0/a03572.html#a8aaecfe4214ff7bd567980dd904b110fa0ecf37a43c562bc7eae7041fc137ba03", null ],
+      [ "SPELL_PRIEST_T4_4P_FLEXIBILITY", "d8/db0/a03572.html#a8aaecfe4214ff7bd567980dd904b110faec0fc5ca32e9a185d596c0a931d65d9c", null ],
+      [ "SPELL_PRIEST_GLYPH_OF_SHADOWFIEND", "d8/db0/a03572.html#a8aaecfe4214ff7bd567980dd904b110faabcd07781394f6b318b9bf42c0938014", null ],
+      [ "SPELL_PRIEST_GLYPH_OF_SHADOWFIEND_MANA", "d8/db0/a03572.html#a8aaecfe4214ff7bd567980dd904b110fa24b5ecb3171baa6a2e1c79957bcd7fde", null ],
+      [ "SPELL_GENERIC_ARENA_DAMPENING", "d8/db0/a03572.html#a8aaecfe4214ff7bd567980dd904b110fa60a12ecf7b0c16a82500a97110ff35f0", null ],
+      [ "SPELL_GENERIC_BATTLEGROUND_DAMPENING", "d8/db0/a03572.html#a8aaecfe4214ff7bd567980dd904b110faf1c99f5067e5ef0ef1fb7f96bd317bf4", null ],
+      [ "SPELL_PRIEST_TWIN_DISCIPLINE_R1", "d8/db0/a03572.html#a8aaecfe4214ff7bd567980dd904b110fa58a40bf575a212bf832d151e37267690", null ],
+      [ "SPELL_PRIEST_SPIRITUAL_HEALING_R1", "d8/db0/a03572.html#a8aaecfe4214ff7bd567980dd904b110faeee484b733ad552750cbbd4bb82f11af", null ],
+      [ "SPELL_PRIEST_DIVINE_PROVIDENCE_R1", "d8/db0/a03572.html#a8aaecfe4214ff7bd567980dd904b110faead2486496bee0d1c950addeca1be8ae", null ]
     ] ],
-    [ "CommanderDawnforgeData", "d1/d67/a02561.html#a470431f2b6d3fc2e926e101095179ffa", [
-      [ "SAY_COMMANDER_DAWNFORGE_1", "d1/d67/a02561.html#a470431f2b6d3fc2e926e101095179ffaa17fadf17bb33086bd1377d8916931647", null ],
-      [ "SAY_COMMANDER_DAWNFORGE_2", "d1/d67/a02561.html#a470431f2b6d3fc2e926e101095179ffaa9fa936b5180626943e1c8512d7562ff1", null ],
-      [ "SAY_COMMANDER_DAWNFORGE_3", "d1/d67/a02561.html#a470431f2b6d3fc2e926e101095179ffaaaedeb1e7eed6dd79cc086b20225e9803", null ],
-      [ "SAY_COMMANDER_DAWNFORGE_4", "d1/d67/a02561.html#a470431f2b6d3fc2e926e101095179ffaab44bd21d08ff8288337afcc2ed4ae00b", null ],
-      [ "SAY_COMMANDER_DAWNFORGE_5", "d1/d67/a02561.html#a470431f2b6d3fc2e926e101095179ffaa5d558f989528b52d59ad9892c4b66c3e", null ],
-      [ "SAY_ARCANIST_ARDONIS_1", "d1/d67/a02561.html#a470431f2b6d3fc2e926e101095179ffaaa381d1952765fc56a39909cf764ce22d", null ],
-      [ "SAY_ARCANIST_ARDONIS_2", "d1/d67/a02561.html#a470431f2b6d3fc2e926e101095179ffaab385079103654d04c489c6754eaec7c2", null ],
-      [ "SAY_PATHALEON_CULATOR_IMAGE_1", "d1/d67/a02561.html#a470431f2b6d3fc2e926e101095179ffaaa6a8fe8429cb51c4a8856d384925d680", null ],
-      [ "SAY_PATHALEON_CULATOR_IMAGE_2", "d1/d67/a02561.html#a470431f2b6d3fc2e926e101095179ffaaa4c5d4186e9d4d702539ce810a8a4d50", null ],
-      [ "SAY_PATHALEON_CULATOR_IMAGE_2_1", "d1/d67/a02561.html#a470431f2b6d3fc2e926e101095179ffaaff354996e7c20a0a9d703fff96ddc29a", null ],
-      [ "SAY_PATHALEON_CULATOR_IMAGE_2_2", "d1/d67/a02561.html#a470431f2b6d3fc2e926e101095179ffaae2950dd48e66ada992e02314865d9ba2", null ],
-      [ "QUEST_INFO_GATHERING", "d1/d67/a02561.html#a470431f2b6d3fc2e926e101095179ffaa0ee8f5f004065795c5f8caf9e789dcab", null ],
-      [ "SPELL_SUNFURY_DISGUISE", "d1/d67/a02561.html#a470431f2b6d3fc2e926e101095179ffaaec35af0de8c856a359d85fff1c277290", null ]
-    ] ],
-    [ "MaxxAMillion", "d1/d67/a02561.html#a58daffec60949e9530b1008476648a78", [
-      [ "QUEST_MARK_V_IS_ALIVE", "d1/d67/a02561.html#a58daffec60949e9530b1008476648a78ae3a71a08dee1eda35944a2dbc1fb5355", null ],
-      [ "GO_DRAENEI_MACHINE", "d1/d67/a02561.html#a58daffec60949e9530b1008476648a78a548cc083448b82c48e13a90bd8c26b71", null ]
-    ] ],
-    [ "PhaseHunterData", "d1/d67/a02561.html#ac333c86fd13e6712ad127ce019744439", [
-      [ "NPC_PHASE_HUNTER_ENTRY", "d1/d67/a02561.html#ac333c86fd13e6712ad127ce019744439a09d6eaae37dca77a7d3e075aabecb9b1", null ],
-      [ "NPC_DRAINED_PHASE_HUNTER_ENTRY", "d1/d67/a02561.html#ac333c86fd13e6712ad127ce019744439a5e4744aa231e4fc00af57df04f110f21", null ]
-    ] ],
-    [ "saeed", "d1/d67/a02561.html#a94c12289aa5607c971cf8d9321c2bf57", [
-      [ "NPC_PROTECTORATE_AVENGER", "d1/d67/a02561.html#a94c12289aa5607c971cf8d9321c2bf57af8455f0d1b05327995666bdf25460f4c", null ],
-      [ "NPC_PROTECTORATE_DEFENDER", "d1/d67/a02561.html#a94c12289aa5607c971cf8d9321c2bf57adea2dcfdeb74be7b6dda3fa09fd5a5f4", null ],
-      [ "NPC_DIMENSIUS", "d1/d67/a02561.html#a94c12289aa5607c971cf8d9321c2bf57a1f5b194a7bc9adfdca465ed52f959eea", null ],
-      [ "EVENT_START_WALK", "d1/d67/a02561.html#a94c12289aa5607c971cf8d9321c2bf57a0604ae6fd60796af200de3f25402b10d", null ],
-      [ "EVENT_START_FIGHT1", "d1/d67/a02561.html#a94c12289aa5607c971cf8d9321c2bf57a65e239873a9924d3244c803db81a375c", null ],
-      [ "EVENT_START_FIGHT2", "d1/d67/a02561.html#a94c12289aa5607c971cf8d9321c2bf57ae1bc367e9c990b28427ea9b17ff2e2b5", null ],
-      [ "DATA_START_ENCOUNTER", "d1/d67/a02561.html#a94c12289aa5607c971cf8d9321c2bf57ad749d95194b0d33afe0fb38e1c3cc303", null ],
-      [ "DATA_START_FIGHT", "d1/d67/a02561.html#a94c12289aa5607c971cf8d9321c2bf57a14f033d696865e62368c34fac2b8526e", null ],
-      [ "SAY_SAEED_0", "d1/d67/a02561.html#a94c12289aa5607c971cf8d9321c2bf57a1448e283171b21f006fd9a71f564a2ad", null ],
-      [ "SAY_SAEED_1", "d1/d67/a02561.html#a94c12289aa5607c971cf8d9321c2bf57af52b0dfe76f04f87f8e2071d67c92c4d", null ],
-      [ "SAY_SAEED_2", "d1/d67/a02561.html#a94c12289aa5607c971cf8d9321c2bf57ad67928da538988f5c88e918c70658042", null ],
-      [ "SAY_SAEED_3", "d1/d67/a02561.html#a94c12289aa5607c971cf8d9321c2bf57ad02a0c5b499dbf349ef01e6996b5dce3", null ],
-      [ "SAY_DIMENSISIUS_1", "d1/d67/a02561.html#a94c12289aa5607c971cf8d9321c2bf57a710e4e7c0d11193180d86d645bbcc77a", null ],
-      [ "QUEST_DIMENSIUS_DEVOURING", "d1/d67/a02561.html#a94c12289aa5607c971cf8d9321c2bf57a0407bc0e2ffbef95681061e079eb4c4a", null ],
-      [ "SPELL_DIMENSIUS_TRANSFORM", "d1/d67/a02561.html#a94c12289aa5607c971cf8d9321c2bf57a8f4b5a0091270005149f693e996a2a92", null ],
-      [ "GOSSIP_MENU_SAEED", "d1/d67/a02561.html#a94c12289aa5607c971cf8d9321c2bf57a41bc4e4722aef08a2e0d78271c9190cb", null ],
-      [ "TEXT_NPC_SAEED_DEFAULT", "d1/d67/a02561.html#a94c12289aa5607c971cf8d9321c2bf57a455d4416943ca7584612605e23dc8143", null ],
-      [ "TEXT_NPC_SAEED_START_FIGHT", "d1/d67/a02561.html#a94c12289aa5607c971cf8d9321c2bf57a568e9fcaed7ee3e38c31bed4640cbb7b", null ]
-    ] ],
-    [ "Veraku", "d1/d67/a02561.html#af18063468550fc13e844aa9bdecb6ab7", [
-      [ "NPC_VERAKU", "d1/d67/a02561.html#af18063468550fc13e844aa9bdecb6ab7abd31c036b8a79a737cae978516c5f087", null ],
-      [ "SPELL_CHALLENGE_VERAKU", "d1/d67/a02561.html#af18063468550fc13e844aa9bdecb6ab7af8e60521d2a469bf01d03351ca50b206", null ]
-    ] ],
-    [ "AddSC_netherstorm", "d1/d67/a02561.html#af51d6fe8cee4df374fd97aee6f3b65ca", null ],
-    [ "CreatureEntry", "d1/d67/a02561.html#ae6818d26ba96279223aa6d108a586f2d", null ]
+    [ "AddSC_priest_pet_scripts", "d1/d67/a02561.html#ac0eaa77dc1cb9a092b318e3bc3f6d5b8", null ]
 ];

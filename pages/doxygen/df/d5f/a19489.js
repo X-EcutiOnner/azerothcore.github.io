@@ -1,7 +1,10 @@
 var a19489 =
 [
-    [ "HandleScriptEffect", "df/d5f/a19489.html#afa9d5c6fd0666a7fa1a6f4d5acabe782", null ],
-    [ "PrepareSpellScript", "df/d5f/a19489.html#a21a3175346c9b12c02205f2d33da3b86", null ],
-    [ "Register", "df/d5f/a19489.html#af5f279ad20e9153f201262eaa7615978", null ],
-    [ "Validate", "df/d5f/a19489.html#a635ff34619767f657778016e1eb901aa", null ]
+    [ "boss_isle_of_conquestAI", "df/d5f/a19489.html#a7880ea86e7a03f5b14875065a83a206a", null ],
+    [ "CheckRageBuff", "df/d5f/a19489.html#a6d60480e39fa89dbcc0facce9f0b69a3", null ],
+    [ "JustEngagedWith", "df/d5f/a19489.html#a878635ef0673325943e6026ad76c2b06", null ],
+    [ "Reset", "df/d5f/a19489.html#add59669e5f6c3c882ac008c720349573", null ],
+    [ "UpdateAI", "df/d5f/a19489.html#ab33aa7e735c5837428a4cf2b76e4275e", null ],
+    [ "events", "df/d5f/a19489.html#a38e308b66b0f35d3efe6916b03e4391c", null ],
+    [ "rage", "df/d5f/a19489.html#aa16ebdd6e2f486d3a6e4b58f4cb5e696", null ]
 ];

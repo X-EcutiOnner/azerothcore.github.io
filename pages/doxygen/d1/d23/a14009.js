@@ -1,11 +1,14 @@
 var a14009 =
 [
-    [ "npc_supervisor_raelen", "d1/d23/a14009.html#a2059d41f6df3a44406ab69a0dca501a4", null ],
-    [ "CallPeasent", "d1/d23/a14009.html#a0b8d661a86ec334adeb502d6936135ee", null ],
-    [ "Reset", "d1/d23/a14009.html#a656029c56da84d2d3cee7380d6032e3d", null ],
-    [ "SetData", "d1/d23/a14009.html#ab709a5a975c22556dfe71dce52a3ec2c", null ],
-    [ "UpdateAI", "d1/d23/a14009.html#a623a95d4f3ca483d1bf3dff5e06c1958", null ],
-    [ "_events", "d1/d23/a14009.html#a1ed36b07ff83a6a8a202f4a451d90190", null ],
-    [ "_PeasentId", "d1/d23/a14009.html#ae3e44b8f29f05c771137c5b9afd5da56", null ],
-    [ "peasentGUIDs", "d1/d23/a14009.html#a6e290a29c8205b22bd668f0516e8904a", null ]
+    [ "instance_uldaman_InstanceMapScript", "d1/d23/a14009.html#ab2607f229d1e34852c82139ddb597712", null ],
+    [ "GetData", "d1/d23/a14009.html#adef5f6d2dcaa50dbb615c4c134e7ecfb", null ],
+    [ "Initialize", "d1/d23/a14009.html#a2424bcb1aec0ffc6235a8e8b384f0ed1", null ],
+    [ "OnCreatureCreate", "d1/d23/a14009.html#a49b5562743910dc1b6b55efa8c44b6a0", null ],
+    [ "OnGameObjectCreate", "d1/d23/a14009.html#aacb9db5f66f1f9be0d993aacc3cf4348", null ],
+    [ "ReadSaveDataMore", "d1/d23/a14009.html#a8e0e03189463039dd31d883ad9c40e51", null ],
+    [ "SetData", "d1/d23/a14009.html#ab24fc2db74ef83f2b3be9603d4728385", null ],
+    [ "WriteSaveDataMore", "d1/d23/a14009.html#a3345c117f5e2ceca773843c3f51cb76f", null ],
+    [ "_encounters", "d1/d23/a14009.html#a6840bd04d25fd1f365e0c28c725cde97", null ],
+    [ "ancientVaultDoorGUID", "d1/d23/a14009.html#adf83ba0b0a1650462dbc3bc56182bed9", null ],
+    [ "archaedasTempleDoorGUID", "d1/d23/a14009.html#a6bad33c43ceaa23990544e4a8feefb34", null ]
 ];

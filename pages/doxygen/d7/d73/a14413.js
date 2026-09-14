@@ -1,22 +1,10 @@
 var a14413 =
 [
-    [ "instance_zulaman_InstanceMapScript", "d7/d73/a14413.html#a55a0c486845dc63865cf557271304c20", null ],
-    [ "CheckInstanceStatus", "d7/d73/a14413.html#a195e4175f943bfaf42ded378cde928e4", null ],
-    [ "DoAction", "d7/d73/a14413.html#ad5eed417fb2a38a1b02bc6275e9f229a", null ],
-    [ "GetData", "d7/d73/a14413.html#ad6c1123183e28dd91f78a993a79bf3e8", null ],
-    [ "Initialize", "d7/d73/a14413.html#a070925eb76b8af866819844411da1beb", null ],
-    [ "OnCreatureCreate", "d7/d73/a14413.html#a92d7ca86c2ecbad6a64a2bc7131b7260", null ],
-    [ "OnCreatureEvade", "d7/d73/a14413.html#a654947f2b1dce457f56327e7dff8ccf4", null ],
-    [ "OnGameObjectCreate", "d7/d73/a14413.html#a4545b6c8ff9e9908466ce105b484ef70", null ],
-    [ "OnPlayerEnter", "d7/d73/a14413.html#a1cf2834e928692c69fdfcf7ae8910745", null ],
-    [ "OnUnitDeath", "d7/d73/a14413.html#a5cb0702b7cad42f0760d360dfc3345f3", null ],
-    [ "ResetAkilzonGauntlet", "d7/d73/a14413.html#a1623080f2466aeca03f048decc34bdb5", null ],
-    [ "SetBossState", "d7/d73/a14413.html#a79b3f358115fecb63e1cfb45801fdffb", null ],
-    [ "SetData", "d7/d73/a14413.html#a7381d84943028f66b339168724b467b8", null ],
-    [ "StartAkilzonGauntlet", "d7/d73/a14413.html#a16b67dce6407db52ec7571c9bbc9f8c5", null ],
-    [ "SummonHostage", "d7/d73/a14413.html#a907b3f4a59cbd366f702daeffe05d607", null ],
-    [ "Update", "d7/d73/a14413.html#a826800c63083d2af31847118c8b05e57", null ],
-    [ "_akilzonGauntlet", "d7/d73/a14413.html#a57cf874e315f0f9686b684151c37e740", null ],
-    [ "AkilzonTrash", "d7/d73/a14413.html#a9f2fc91191dfaac5218f95fed71e2bcf", null ],
-    [ "RandVendor", "d7/d73/a14413.html#ae1e7cad436566533b7673438884e6210", null ]
+    [ "boss_alyson_antille", "d7/d73/a14413.html#a8b95891ced3f17f67470d1ec7b1a9a3e", null ],
+    [ "GetNearbyFriendlies", "d7/d73/a14413.html#ab99596d5c2eafac8c678378d509bf585", null ],
+    [ "JustEngagedWith", "d7/d73/a14413.html#a7a7d62c52a403ac1d8e5d275a74cad6e", null ],
+    [ "RandomReverseFriendlyList", "d7/d73/a14413.html#afef27de229ba2c3b8beb30809a313237", null ],
+    [ "Reset", "d7/d73/a14413.html#a40d901bde9f8419a1c73aa073f6fb334", null ],
+    [ "UpdateAI", "d7/d73/a14413.html#a15157be42d166a239ab658fc04292e44", null ],
+    [ "_friendlyList", "d7/d73/a14413.html#a0168c4a0f1e9862fe0d83ffac89aa634", null ]
 ];

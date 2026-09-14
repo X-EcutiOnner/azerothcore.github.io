@@ -1,6 +1,5 @@
 var a13509 =
 [
-    [ "HandleAfterHit", "d5/d60/a13509.html#a52864ee174e34f16827cbe863d152789", null ],
-    [ "PrepareSpellScript", "d5/d60/a13509.html#a0cbcdcae0c2e5736ce3f750fb1738d36", null ],
-    [ "Register", "d5/d60/a13509.html#a8efcb11b1dacbf2f7fb840d94fccecb4", null ]
+    [ "boss_ellris_duskhallow", "d5/d60/a13509.html#a85dc1f923c8211180cc5b250fb509ba7", null ],
+    [ "JustEngagedWith", "d5/d60/a13509.html#a5bb5bc51b62ad371bf086c6ced2eee89", null ]
 ];

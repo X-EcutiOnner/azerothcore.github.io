@@ -1,7 +1,7 @@
 var a22941 =
 [
-    [ "PrepareAuraScript", "de/dad/a22941.html#ae6879f1d8c27f19cf3e3ada0b34d568f", null ],
-    [ "ReflectDamage", "de/dad/a22941.html#acde2cbf4d196cba1fa2c02393c08fe9f", null ],
-    [ "Register", "de/dad/a22941.html#aa1f27d25209f14dd8bf711bc15cb9165", null ],
-    [ "Validate", "de/dad/a22941.html#aa730b912aadcde53f6cd94c2a8c99493", null ]
+    [ "HandleOnEffectApply", "de/dad/a22941.html#a01d6ca6f8ec21ad42445b5e581c0f79b", null ],
+    [ "HandleOnEffectRemove", "de/dad/a22941.html#a59952b33d7c4705a6bfe7f3443bbf005", null ],
+    [ "PrepareAuraScript", "de/dad/a22941.html#a45df29f911b1232e306e04a182648904", null ],
+    [ "Register", "de/dad/a22941.html#a71fbf189fc116eb7d14944ff4060a9a9", null ]
 ];

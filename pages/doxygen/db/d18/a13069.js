@@ -1,7 +1,7 @@
 var a13069 =
 [
-    [ "HandleDummy", "db/d18/a13069.html#acbf0fa3d73de0cec47928fc0dda0c724", null ],
-    [ "PrepareSpellScript", "db/d18/a13069.html#a76d395449ed9fb26914aa9ff0488f1be", null ],
-    [ "Register", "db/d18/a13069.html#a7d094ce258e3dc28cc30d5fb644d5a1e", null ],
-    [ "Validate", "db/d18/a13069.html#a24447c4367d8e8713ba7d05ea53681ee", null ]
+    [ "HandleEffectScriptEffect", "db/d18/a13069.html#a8157c4b213b3b4e260222976e283e2ae", null ],
+    [ "PrepareSpellScript", "db/d18/a13069.html#aa8a4fdd0dc5c06a836ac05cec0dccd75", null ],
+    [ "Register", "db/d18/a13069.html#aeda056b568b4956ba35b32a3f20c053e", null ],
+    [ "Validate", "db/d18/a13069.html#a29a7f51f01e1ccf71dcc53ad68f032ae", null ]
 ];

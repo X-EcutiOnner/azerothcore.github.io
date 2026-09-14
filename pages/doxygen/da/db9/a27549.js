@@ -1,6 +1,8 @@
 var a27549 =
 [
-    [ "FilterTargets", "da/db9/a27549.html#af7035627c3d6dd3fd8381ee258391a0b", null ],
-    [ "PrepareSpellScript", "da/db9/a27549.html#a3211fda7263bc513d14a8f2fd1507ef8", null ],
-    [ "Register", "da/db9/a27549.html#abe63ec69fe15fd8924fb63235489e088", null ]
+    [ "CheckProc", "da/db9/a27549.html#a2e564758a050827108955f73a08e72e7", null ],
+    [ "PrepareAuraScript", "da/db9/a27549.html#a5993871d8837b43580818fa94e1bccc2", null ],
+    [ "Register", "da/db9/a27549.html#a24faa9992523bc87df7f5ebccfb42233", null ],
+    [ "WasUsedByMutilate", "da/db9/a27549.html#af31c8d77307f3cf3acee06e0b159925e", null ],
+    [ "_usedByMutilate", "da/db9/a27549.html#a3f5cde7b3af5c3a6b75d76b742cae54b", null ]
 ];

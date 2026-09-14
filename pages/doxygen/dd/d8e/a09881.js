@@ -1,7 +1,9 @@
 var a09881 =
 [
-    [ "PlayerAtMinimumRangeAway", "dd/d8e/a09881.html#a12eb5ff486232f88c7303741ebd8e65e", null ],
-    [ "operator()", "dd/d8e/a09881.html#a1cfda97a0590e033f9b6043c8de2d0a0", null ],
-    [ "fRange", "dd/d8e/a09881.html#a0c58929de429694f24877525287f15a6", null ],
-    [ "unit", "dd/d8e/a09881.html#a4ea0f83c3287079cff40fac15272fa94", null ]
+    [ "NearestAssistCreatureInCreatureRangeCheck", "dd/d8e/a09881.html#ac9e380add6c9df4afc707007528c7434", null ],
+    [ "NearestAssistCreatureInCreatureRangeCheck", "dd/d8e/a09881.html#aa26e19df606a366147e1db4fd1aa6eac", null ],
+    [ "operator()", "dd/d8e/a09881.html#a9a085d16b30849537441f809052ac196", null ],
+    [ "i_enemy", "dd/d8e/a09881.html#a0ba09da942c48e523c278cff0e0a4139", null ],
+    [ "i_obj", "dd/d8e/a09881.html#a905ea6b07b97ed23de4f4cf9946642af", null ],
+    [ "i_range", "dd/d8e/a09881.html#ab82a4b97ebb2bef047ae85404b0e3da0", null ]
 ];

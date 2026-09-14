@@ -1,6 +1,6 @@
 var a30113 =
 [
-    [ "height", "d9/d42/a30113.html#a7638f586a055c48a46e36471543ff72f", null ],
-    [ "unk1", "d9/d42/a30113.html#a6c08b6fa33e12a9900218d0d0b8b78d5", null ],
-    [ "unk2", "d9/d42/a30113.html#a394a04f6e985824aa259a42b11b97136", null ]
+    [ "CreateArmorProcConfig", "d9/d42/a30113.html#aae16272567352cb8730edcba3908a08f", null ],
+    [ "CreateWeaponProcConfig", "d9/d42/a30113.html#adf86db9c66739b705bde4daf1fd0efd1", null ],
+    [ "SetUp", "d9/d42/a30113.html#aaf1d0e6aed255fca2ec0b37e75e9b231", null ]
 ];

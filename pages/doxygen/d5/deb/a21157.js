@@ -1,5 +1,8 @@
 var a21157 =
 [
-    [ "achievement_yogg_saron_kiss_and_make_up", "d5/deb/a21157.html#a9f2e5fe9de59a9b5a00c0e73e8f9b376", null ],
-    [ "OnCheck", "d5/deb/a21157.html#a8ce7df713b804d5bdd5f6f47d77fc1b8", null ]
+    [ "FilterTargets", "d5/deb/a21157.html#a45d300e8cb6fbc499345b3bb2fb0d34f", null ],
+    [ "HandleDummyEffect", "d5/deb/a21157.html#ab1f662fa107d176386067ffc6467d90f", null ],
+    [ "PrepareSpellScript", "d5/deb/a21157.html#a069cc54bf009830ad781c790b4fcedad", null ],
+    [ "Register", "d5/deb/a21157.html#ac91532151b689bde35d7120b1e9aec5b", null ],
+    [ "Validate", "d5/deb/a21157.html#ad225dcdb1325a855f1909a8c66ca577b", null ]
 ];

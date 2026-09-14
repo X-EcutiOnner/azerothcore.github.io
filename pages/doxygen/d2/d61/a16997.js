@@ -1,6 +1,6 @@
 var a16997 =
 [
-    [ "npc_toc_enh_shamanAI", "de/dce/a17001.html", "de/dce/a17001" ],
-    [ "npc_toc_enh_shaman", "d2/d61/a16997.html#ac328b63a988d2cd8640237b250c338a8", null ],
-    [ "GetAI", "d2/d61/a16997.html#a4501c9289a06750d8f153f89565b12f3", null ]
+    [ "npc_toc_warlockAI", "de/dce/a17001.html", "de/dce/a17001" ],
+    [ "npc_toc_warlock", "d2/d61/a16997.html#a75ac1d6f6835860fed8a9197fa1cf3c2", null ],
+    [ "GetAI", "d2/d61/a16997.html#ad3162c9414be83d53d9513c7aa6b75d7", null ]
 ];

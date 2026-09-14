@@ -1,10 +1,13 @@
 var a14657 =
 [
-    [ "npc_zealot_lorkhan", "da/d63/a14657.html#a7df2ab658c1fda0d130815581ffbae4e", null ],
-    [ "JustDied", "da/d63/a14657.html#abda06af9ccc78763e70ebf98f0a9dc03", null ],
-    [ "JustEngagedWith", "da/d63/a14657.html#a7cb7da94799fa1689a5f16ef33d4d874", null ],
-    [ "Reset", "da/d63/a14657.html#abecbd4a2ea2cf3281244933fe7484239", null ],
-    [ "UpdateAI", "da/d63/a14657.html#a68c35734f8886b2c241dcbc178899206", null ],
-    [ "_scheduler", "da/d63/a14657.html#a50ded84f7cdb698118b406c9cfab7e5c", null ],
-    [ "instance", "da/d63/a14657.html#aa677f42d562fa6dc90a4913eed3763c8", null ]
+    [ "npc_ohganAI", "da/d63/a14657.html#a43f7fa66ff39bca177d30fc1d0d78080", null ],
+    [ "JustDied", "da/d63/a14657.html#a89e506868e3191362545e34d21528b8f", null ],
+    [ "JustEngagedWith", "da/d63/a14657.html#a5b6171794c5b49e8ee439de7bdc51ba5", null ],
+    [ "KilledUnit", "da/d63/a14657.html#a4e202eef928e54bd52160705bba5cc35", null ],
+    [ "Reset", "da/d63/a14657.html#ac3e1bc9dc819138741eb3b4448051547", null ],
+    [ "SetGUID", "da/d63/a14657.html#a575531a144c46ae3084e56e452125f16", null ],
+    [ "UpdateAI", "da/d63/a14657.html#aea7c169bc2b7c52ff7d4d9a5dd7a6f0a", null ],
+    [ "_scheduler", "da/d63/a14657.html#a838f1354e24c47e1c52e4b50e2b93c85", null ],
+    [ "instance", "da/d63/a14657.html#aeb6f6bddf881edf818fdc31fc639d5d5", null ],
+    [ "reviveGUID", "da/d63/a14657.html#afc066ae0c6d370f6632408b08de3c3bb", null ]
 ];

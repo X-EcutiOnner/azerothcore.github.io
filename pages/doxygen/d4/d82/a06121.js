@@ -1,8 +1,8 @@
 var a06121 =
 [
-    [ "Statements", "d4/d82/a06121.html#adaf49f7cb45d90cb041f979b1821e4a1", null ],
-    [ "WorldDatabaseConnection", "d4/d82/a06121.html#a0c03387d2c019c86d1fe4933eca6aae5", null ],
-    [ "WorldDatabaseConnection", "d4/d82/a06121.html#a015f79a049d37f742232bc5ac10e9551", null ],
-    [ "~WorldDatabaseConnection", "d4/d82/a06121.html#a2feafa80fe8e838587d8f7b641c0ab09", null ],
-    [ "DoPrepareStatements", "d4/d82/a06121.html#a280aa4a4571581c5cef8f9967631b484", null ]
+    [ "DatabaseWorkerPoolAdapter", "d4/d82/a06121.html#afaf15e7b5a8305b7766452f68b0e5763", null ],
+    [ "DirectExecute", "d4/d82/a06121.html#a001df1f9dead46304cad902e1e7689d1", null ],
+    [ "GetConnectionInfo", "d4/d82/a06121.html#ab823ad038f84c114cb85764320a3f546", null ],
+    [ "Query", "d4/d82/a06121.html#abe05d7ef60e96d2a054c430af6913c3f", null ],
+    [ "_pool", "d4/d82/a06121.html#acffa90573e6f9d4889d62f4c9d57b28b", null ]
 ];

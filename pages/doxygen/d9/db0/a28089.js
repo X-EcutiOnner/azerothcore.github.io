@@ -1,5 +1,6 @@
 var a28089 =
 [
-    [ "achievement_not_even_a_scratch", "d9/db0/a28089.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
-    [ "OnCheck", "d9/db0/a28089.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
+    [ "HandleProc", "d9/db0/a28089.html#a72d56ccc2c6f0337fa68c2759d90c5d6", null ],
+    [ "PrepareAuraScript", "d9/db0/a28089.html#a49a96d3aa0220b4ec77fb1a384826614", null ],
+    [ "Register", "d9/db0/a28089.html#adf0852d1aad8097143df205a66a49f2f", null ]
 ];

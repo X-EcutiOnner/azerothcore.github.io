@@ -1,7 +1,9 @@
 var a25661 =
 [
-    [ "HandleProc", "d8/d48/a25661.html#a8a66eb1c15d8da265deed2c8a8a9cd50", null ],
-    [ "PrepareAuraScript", "d8/d48/a25661.html#aa2fd33ce33d6882292ba8ee588743fd3", null ],
-    [ "Register", "d8/d48/a25661.html#ab09dcc534ebda11da4a2234ee82233a2", null ],
-    [ "Validate", "d8/d48/a25661.html#a33c8ed96d3d4efd8841c10af7b7bf470", null ]
+    [ "spell_gen_translocate", "d8/d48/a25661.html#a56a3df0eba3e1521aa2898194c39e919", null ],
+    [ "HandleScript", "d8/d48/a25661.html#a67684fb76da60fdc13dbece055dae157", null ],
+    [ "PrepareSpellScript", "d8/d48/a25661.html#a6f0986e54ad410c2f42a7935645485ed", null ],
+    [ "Register", "d8/d48/a25661.html#abbbcd1fdefbbd1778667ee69d449d63b", null ],
+    [ "Validate", "d8/d48/a25661.html#a0ae40ad6153a98dcd98cdfebeb515faf", null ],
+    [ "_spellId", "d8/d48/a25661.html#a01e4c84404734b7da1bf5f31cb097e58", null ]
 ];

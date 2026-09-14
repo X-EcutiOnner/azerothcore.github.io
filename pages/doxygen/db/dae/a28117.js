@@ -1,5 +1,5 @@
 var a28117 =
 [
-    [ "AreaTrigger_at_coilfang_waterfall", "db/dae/a28117.html#aa2e9a01adad7e195860bbc6c55131024", null ],
-    [ "OnTrigger", "db/dae/a28117.html#aea1c4b45ae855d0cda81dbad102b8104", null ]
+    [ "achievement_bg_ic_resource_glut", "db/dae/a28117.html#ace247962dccee2601ceade593b0874d4", null ],
+    [ "OnCheck", "db/dae/a28117.html#a9910cf8b16b8c956df382161cc5f2c84", null ]
 ];

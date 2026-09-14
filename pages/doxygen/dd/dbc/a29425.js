@@ -1,5 +1,5 @@
 var a29425 =
 [
-    [ "ID", "dd/dbc/a29425.html#a0272b3c1130508a2681035c91ee416e6", null ],
-    [ "SpellID", "dd/dbc/a29425.html#a231d22a763ddcd9f1fbdab81521dcf67", null ]
+    [ "id", "dd/dbc/a29425.html#a22e48015dd880199e131089e35b1ce05", null ],
+    [ "spellId", "dd/dbc/a29425.html#a956d683b42f34eae3a1ea3f8882716fd", null ]
 ];

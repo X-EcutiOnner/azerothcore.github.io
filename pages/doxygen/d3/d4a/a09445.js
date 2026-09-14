@@ -1,6 +1,8 @@
 var a09445 =
 [
-    [ "EmoteDelay", "d3/d4a/a09445.html#a053adbedc95026b192360e13d32c9401", null ],
-    [ "EmoteType", "d3/d4a/a09445.html#aa5189cb250b3f46086ecd69dee23414b", null ],
-    [ "Greeting", "d3/d4a/a09445.html#a84aa5fced9b8989487d1468c4eccb976", null ]
+    [ "target_mapId", "d3/d4a/a09445.html#af6d7558707c026a6d64f2d7b65a344be", null ],
+    [ "target_Orientation", "d3/d4a/a09445.html#a5f6bf883e167b683e048ce9eeebb7cb0", null ],
+    [ "target_X", "d3/d4a/a09445.html#a3ef5faea7a6fd9b173ea35036b3390b2", null ],
+    [ "target_Y", "d3/d4a/a09445.html#a6660d360eaa47098506f246927130e32", null ],
+    [ "target_Z", "d3/d4a/a09445.html#a32fee5f497804089feb738be84548dc1", null ]
 ];

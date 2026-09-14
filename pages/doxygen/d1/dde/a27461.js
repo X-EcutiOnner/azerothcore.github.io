@@ -1,6 +1,8 @@
 var a27461 =
 [
-    [ "FilterTargets", "d1/dde/a27461.html#ac157503562ac3ef9ddba2c358595ecc5", null ],
-    [ "PrepareSpellScript", "d1/dde/a27461.html#af41d6353088c5565b0027265c9bd4d8b", null ],
-    [ "Register", "d1/dde/a27461.html#a95e386af9016e598e932177cb400fd8b", null ]
+    [ "HandleDummy", "d1/dde/a27461.html#a308880cf9c61c76de0fdee05fff2b463", null ],
+    [ "Load", "d1/dde/a27461.html#acafb9d6ac4fde694dc44cbf13b7f97ad", null ],
+    [ "PrepareSpellScript", "d1/dde/a27461.html#a3a2672c39f36229c0dd6cdea0fad3299", null ],
+    [ "Register", "d1/dde/a27461.html#a1857b342ae34a57f079f45019645c688", null ],
+    [ "Validate", "d1/dde/a27461.html#a121c30045281eab5fee4f65d38d1dfc3", null ]
 ];

@@ -1,15 +1,10 @@
 var a13217 =
 [
-    [ "boss_moroes", "dd/d4e/a13217.html#ae477dcfd679dd7943ddd133bb0dd89df", null ],
-    [ "CheckGuestsInRoom", "dd/d4e/a13217.html#ad34daa424532003e8da616aed3df6c82", null ],
-    [ "GetRandomGuest", "dd/d4e/a13217.html#a73f4b3c1a3a46261cf62143f8359b55e", null ],
-    [ "InitializeGuests", "dd/d4e/a13217.html#a815ca169e0787c92c09a5803007355aa", null ],
-    [ "JustDied", "dd/d4e/a13217.html#a7d425d58b1e64ef174ff92e1263de544", null ],
-    [ "JustEngagedWith", "dd/d4e/a13217.html#aa0bf31d8298b4ec6ce205cefd0766194", null ],
-    [ "KilledUnit", "dd/d4e/a13217.html#a3d28056a0d26d426d84363fb0c4f7e4d", null ],
-    [ "Reset", "dd/d4e/a13217.html#a677f2b8375981d904183dd804f4b32b8", null ],
-    [ "UpdateAI", "dd/d4e/a13217.html#aa639032a49b3e9bd4209d17e0863db32", null ],
-    [ "_activeGuests", "dd/d4e/a13217.html#a651f53f476f205785d596ed9d52fdb89", null ],
-    [ "_events2", "dd/d4e/a13217.html#ae1c0474e0a940a803d82d3fe6d3ff37f", null ],
-    [ "_vanished", "dd/d4e/a13217.html#a60d99b80815a2b2626638d6410ce64a2", null ]
+    [ "instance_gnomeregan_InstanceMapScript", "dd/d4e/a13217.html#a0080fdf557ad8159a8934dce5b39a535", null ],
+    [ "OnCreatureCreate", "dd/d4e/a13217.html#ac607601becc7fbf4ea9c64d87c93287c", null ],
+    [ "OnGameObjectCreate", "dd/d4e/a13217.html#a0c2f4d615394ef1d6e1b930ed6aff82f", null ],
+    [ "ReadSaveDataMore", "dd/d4e/a13217.html#a85d3db22430a4bac7e01dcfa1a1efb5b", null ],
+    [ "SetData", "dd/d4e/a13217.html#af800a1906c532f61f0299f8aa9359a66", null ],
+    [ "WriteSaveDataMore", "dd/d4e/a13217.html#a1b30829b3c782bb2c52e5da4fa388d5c", null ],
+    [ "_encounters", "dd/d4e/a13217.html#ae19a56e7fdcb2d0204d444cba11b7441", null ]
 ];

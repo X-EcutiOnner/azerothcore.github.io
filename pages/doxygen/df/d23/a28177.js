@@ -1,9 +1,8 @@
 var a28177 =
 [
-    [ "boss_lethonAI", "df/d23/a28177.html#ac5d53a746f5286776b2e510f1de86790", null ],
-    [ "DamageTaken", "df/d23/a28177.html#a8a67dc7f923bfd56948a16d917a5f70f", null ],
-    [ "JustEngagedWith", "df/d23/a28177.html#a1a3acb1e8cbceb16854aafcf51a0f99d", null ],
-    [ "Reset", "df/d23/a28177.html#a0e53d139f64d104557e157a91176a47a", null ],
-    [ "SpellHitTarget", "df/d23/a28177.html#aa478414144cb396fa67a9bdb46dcbb4c", null ],
-    [ "_stage", "df/d23/a28177.html#aa267296ee60efc7d39a20dc05afec081", null ]
+    [ "CharacterActionIpLogger", "df/d23/a28177.html#a39861f7348a79031a8215b435ba81059", null ],
+    [ "CharacterIPLogAction", "df/d23/a28177.html#abf461fe7e7d89057aeb122abbd27e30e", null ],
+    [ "OnPlayerCreate", "df/d23/a28177.html#a48844efac9d9af9c6415ad49d2473688", null ],
+    [ "OnPlayerLogin", "df/d23/a28177.html#a753ed387ea50eaf4c56846eab33cdfc0", null ],
+    [ "OnPlayerLogout", "df/d23/a28177.html#a3a4bcaf033e71e2dbeddc2ee6528494e", null ]
 ];

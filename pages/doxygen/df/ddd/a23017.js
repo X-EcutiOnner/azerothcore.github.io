@@ -1,8 +1,6 @@
 var a23017 =
 [
-    [ "HandleEffectApply", "df/ddd/a23017.html#a94993441ef94f84c85aa10c693cf34fe", null ],
-    [ "HandleEffectRemove", "df/ddd/a23017.html#a047a1dd4bab33d7d5b2631c0862ba4b0", null ],
-    [ "PrepareAuraScript", "df/ddd/a23017.html#a0ced86fc2e108e7bba9727d26eac3ff3", null ],
-    [ "Register", "df/ddd/a23017.html#a0dbd8b0bc1dfad8bda0e48ab57b4db3f", null ],
-    [ "Validate", "df/ddd/a23017.html#a964637541cd64e64b4e02c00d36abf2d", null ]
+    [ "HandleScriptEffect", "df/ddd/a23017.html#aeafb2893534c8e188bbb519b6c7a0113", null ],
+    [ "PrepareSpellScript", "df/ddd/a23017.html#a6caaa93244719d7fc8c3f28280a3c1c5", null ],
+    [ "Register", "df/ddd/a23017.html#a99e2243ca4372eab1a742f8979d61334", null ]
 ];

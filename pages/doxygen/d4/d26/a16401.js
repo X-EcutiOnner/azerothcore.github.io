@@ -1,6 +1,8 @@
 var a16401 =
 [
-    [ "HandleApplyAura", "d4/d26/a16401.html#aeddfd61eab5aa077ca07a924ec491285", null ],
-    [ "PrepareSpellScript", "d4/d26/a16401.html#ad53341842455d98722c03318dd80fb94", null ],
-    [ "Register", "d4/d26/a16401.html#a10cb03ba6175f48b0ccaf69ec90e8f50", null ]
+    [ "HandleScriptEffect", "d4/d26/a16401.html#af3e18fa5befc7124f2a3dbcd36259e6b", null ],
+    [ "Load", "d4/d26/a16401.html#ab293f8b536957558fa8886e1f4a23e74", null ],
+    [ "PrepareSpellScript", "d4/d26/a16401.html#ae4a1abf2e39c6806d804dea9ce5808ef", null ],
+    [ "Register", "d4/d26/a16401.html#a9fb54f0662982dec90c2e6f8568421ed", null ],
+    [ "Validate", "d4/d26/a16401.html#a2bee81d684c4739bb6247bfbdb74a21b", null ]
 ];

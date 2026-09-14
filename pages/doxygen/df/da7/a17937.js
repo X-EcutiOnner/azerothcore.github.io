@@ -1,7 +1,8 @@
 var a17937 =
 [
-    [ "ExtraEffect", "df/da7/a17937.html#a65b5bc8d053a69325f42a7f23ae4dbdc", null ],
-    [ "PrepareAuraScript", "df/da7/a17937.html#a53d6013e5ec473854e1537969cb31988", null ],
-    [ "Register", "df/da7/a17937.html#a85be360bb15482ff34b7f1d04d949b1d", null ],
-    [ "Validate", "df/da7/a17937.html#ab14e7410cf542d9f4043800a3b86c664", null ]
+    [ "npc_saurfang_eventAI", "df/da7/a17937.html#a8436a87576c92ecc0b45106683d20e93", null ],
+    [ "DoAction", "df/da7/a17937.html#a45201c4a5b94fad948efe1d08e63e262", null ],
+    [ "SetData", "df/da7/a17937.html#a7f012a54ebce5307940eb7957f028d52", null ],
+    [ "SpellHit", "df/da7/a17937.html#a2ed920f949c4d8dbc6d6ff5b9149e749", null ],
+    [ "_index", "df/da7/a17937.html#a793d72078bd68b34fcdb7cd6587295dd", null ]
 ];

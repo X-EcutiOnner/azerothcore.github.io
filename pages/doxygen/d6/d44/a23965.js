@@ -1,6 +1,6 @@
 var a23965 =
 [
-    [ "FilterTargets", "d6/d44/a23965.html#a0b0a4e033a1410a5b0def33cf87c853c", null ],
-    [ "PrepareSpellScript", "d6/d44/a23965.html#afa186c0b0728e3462f8984189613f9a7", null ],
-    [ "Register", "d6/d44/a23965.html#a14aafc65b554c0ada5684c46ae1f57c8", null ]
+    [ "AfterRemove", "d6/d44/a23965.html#a1794dcf8ebca0bd0c4fce5acb8b45de0", null ],
+    [ "PrepareAuraScript", "d6/d44/a23965.html#ad5871ce865820456177362c6b790778f", null ],
+    [ "Register", "d6/d44/a23965.html#a41e19fb2509051bbd2d9e43c59f16486", null ]
 ];

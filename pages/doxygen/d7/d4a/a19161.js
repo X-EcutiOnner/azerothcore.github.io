@@ -1,5 +1,6 @@
 var a19161 =
 [
-    [ "npc_darkfallen_advisor", "d7/d4a/a19161.html#a99b3fd829e0a9e62a78f5e750d1a5369", null ],
-    [ "ScheduleSpells", "d7/d4a/a19161.html#aab9175d674273b19071e595354bb195c", null ]
+    [ "npc_frostwing_vrykulAI", "d3/d1e/a19165.html", "d3/d1e/a19165" ],
+    [ "npc_frostwing_vrykul", "d7/d4a/a19161.html#ab915aa094ddebd9201a1c626e6427409", null ],
+    [ "GetAI", "d7/d4a/a19161.html#a11678e59b6db9a41c7b6a575339995fd", null ]
 ];

@@ -1,6 +1,6 @@
 var a16841 =
 [
-    [ "HideNpcEvent", "da/dc2/a16841.html#ab454295aab0f5d4586740140232e96eb", null ],
-    [ "Execute", "da/dc2/a16841.html#aecfbbbcac3fd98675913a6381c891a59", null ],
-    [ "_owner", "da/dc2/a16841.html#ac5481c94e180900f0a455dc1f1f9851c", null ]
+    [ "npc_black_knight_ghoulAI", "d5/d42/a16845.html", "d5/d42/a16845" ],
+    [ "npc_black_knight_ghoul", "da/dc2/a16841.html#a8e62b1070f0ed4e5b917fcaaeb2da8d0", null ],
+    [ "GetAI", "da/dc2/a16841.html#a52308f8d168e1ccea22de653813b7f6f", null ]
 ];

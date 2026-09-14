@@ -1,5 +1,5 @@
 var a02315 =
 [
-    [ "group_commandscript", "dd/dfe/a12481.html", "dd/dfe/a12481" ],
-    [ "AddSC_group_commandscript", "d7/d0c/a02315.html#ac4c9434ed910cd9636e0a8644a8e91e1", null ]
+    [ "ticket_commandscript", "d4/d65/a12685.html", "d4/d65/a12685" ],
+    [ "AddSC_ticket_commandscript", "d7/d0c/a02315.html#ad71463f4442d2e022a92404a4d9dec76", null ]
 ];

@@ -1,6 +1,7 @@
 var a14845 =
 [
-    [ "npc_cw_area_triggerAI", "d5/d02/a14849.html", "d5/d02/a14849" ],
-    [ "npc_cw_area_trigger", "d6/d47/a14845.html#a11af64ac4ab078566bf8f68a36781939", null ],
-    [ "GetAI", "d6/d47/a14845.html#a66c55b2984bab71be89ad7b6b96e3784", null ]
+    [ "HandleScriptEffect", "d6/d47/a14845.html#aaad3c8870d8ad748e3ac07287da32e84", null ],
+    [ "PrepareSpellScript", "d6/d47/a14845.html#a3d906994c11e52e89c842189be73ddfd", null ],
+    [ "Register", "d6/d47/a14845.html#a4cdab36e2265c696207a39e16549ab13", null ],
+    [ "Validate", "d6/d47/a14845.html#a8aaf57bd54d3b2beb48b4e29053c1125", null ]
 ];

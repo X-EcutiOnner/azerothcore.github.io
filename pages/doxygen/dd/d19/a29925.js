@@ -1,6 +1,5 @@
 var a29925 =
 [
-    [ "SetUp", "dd/d19/a29925.html#ac7db18817aa330aedefd1f688d53219b", null ],
-    [ "TearDown", "dd/d19/a29925.html#a0cb70a624f55509497866a1fac787800", null ],
-    [ "_previousWorld", "dd/d19/a29925.html#afec905a799e8fe7522a2fa6756fa41d9", null ]
+    [ "SetUp", "dd/d19/a29925.html#a01d047383a822846aac3ac06b5dfcae9", null ],
+    [ "TearDown", "dd/d19/a29925.html#a0e10e5904582fcf5d6377e463a7be2fd", null ]
 ];

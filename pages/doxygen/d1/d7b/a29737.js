@@ -1,10 +1,8 @@
 var a29737 =
 [
-    [ "AddToWorld", "d1/d7b/a29737.html#a3b5a3472d4a5ca1cff7dc0dbed0b04c7", null ],
-    [ "ForceInitValues", "d1/d7b/a29737.html#adb765e8464642610eeebf25c5fa17edd", null ],
-    [ "Player", "d1/d7b/a29737.html#ad56f27531abb9267f144b2b22d61a5bf", null ],
-    [ "RemoveFromWorld", "d1/d7b/a29737.html#aa69937d52e60e235f35a48e9d80d65ce", null ],
-    [ "SaveToDB", "d1/d7b/a29737.html#a21d71f7f913da0213b98cfe2e0d1b832", null ],
-    [ "SaveToDB", "d1/d7b/a29737.html#a74818d35eddf0c5ccea7693ba455cff2", null ],
-    [ "UpdateObjectVisibility", "d1/d7b/a29737.html#a35487432f2af544c20bc3c45f8ba1602", null ]
+    [ "auraHasCanProcFromProcs", "d1/d7b/a29737.html#af3e394eb5563aa4a76bd51d6c52f6db2", null ],
+    [ "isTriggered", "d1/d7b/a29737.html#aae527e9b8a2969ef67e9c4fbaf43c381", null ],
+    [ "procAuraSpellId", "d1/d7b/a29737.html#ae198c80e6c72eeb72da0abcde8a0f13a", null ],
+    [ "spellHasNotAProc", "d1/d7b/a29737.html#ab2f859d45c5a9a02301ecc117bf3e25e", null ],
+    [ "triggeredByAuraSpellId", "d1/d7b/a29737.html#ad62562e342e1d090e3f26f7c40a35795", null ]
 ];

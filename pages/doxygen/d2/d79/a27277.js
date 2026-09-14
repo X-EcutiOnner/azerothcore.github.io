@@ -1,6 +1,6 @@
 var a27277 =
 [
-    [ "HandleDummy", "d2/d79/a27277.html#a86ec9b4606ae92b070edd4ca863fe93e", null ],
-    [ "PrepareSpellScript", "d2/d79/a27277.html#a4411e4317053450a0ac5217d546952b2", null ],
-    [ "Register", "d2/d79/a27277.html#a9eea8631e0723555a9c328bdfc1e30b7", null ]
+    [ "HandleEffectApply", "d2/d79/a27277.html#a111ce5c9e70ed563bc7b9c2ec8e79b76", null ],
+    [ "PrepareAuraScript", "d2/d79/a27277.html#a707504eccf42af77f6e6e927d208bc8c", null ],
+    [ "Register", "d2/d79/a27277.html#a7aeaa28997bbe966274a738cf45323ed", null ]
 ];

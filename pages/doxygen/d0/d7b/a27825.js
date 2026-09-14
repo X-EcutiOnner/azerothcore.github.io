@@ -1,6 +1,6 @@
 var a27825 =
 [
-    [ "CalculateAmount", "d0/d7b/a27825.html#aa27de1a2fc517a4b796a10e780239880", null ],
-    [ "PrepareAuraScript", "d0/d7b/a27825.html#a72e68ff46f2049809f3e3b2c1814bd87", null ],
-    [ "Register", "d0/d7b/a27825.html#a5ee969ad0916a9337849c75c18f13c29", null ]
+    [ "HandleBanish", "d0/d7b/a27825.html#ab8dd3ab2fd7b9aff3556e6284c515474", null ],
+    [ "PrepareSpellScript", "d0/d7b/a27825.html#a56118e3ed7525cdf575531a4c2f2d93f", null ],
+    [ "Register", "d0/d7b/a27825.html#ad6c066c9d6a64a5d89d3c347600559a9", null ]
 ];

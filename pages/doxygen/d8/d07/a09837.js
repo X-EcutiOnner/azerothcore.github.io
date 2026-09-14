@@ -1,10 +1,9 @@
 var a09837 =
 [
-    [ "NearestCreatureEntryWithLiveStateInObjectRangeCheck", "d8/d07/a09837.html#aa9f15d071efe7ca7bb975489fec2afbd", null ],
-    [ "NearestCreatureEntryWithLiveStateInObjectRangeCheck", "d8/d07/a09837.html#a1e25384d08beeee84d83e401f5a5a565", null ],
-    [ "operator()", "d8/d07/a09837.html#abc2ab6f33a6a58a6e692cc32e8139839", null ],
-    [ "i_alive", "d8/d07/a09837.html#a7a01388f86d25fa0728d94c6e1a7f752", null ],
-    [ "i_entry", "d8/d07/a09837.html#ae2bf2c0a0f431f5de445fbee26b60a57", null ],
-    [ "i_obj", "d8/d07/a09837.html#aa0340c79c37f3494b01c52f034705aa4", null ],
-    [ "i_range", "d8/d07/a09837.html#a695af00612b17e0182ad76a5c3be2356", null ]
+    [ "AnyGroupedUnitInObjectRangeCheck", "d8/d07/a09837.html#a2c775f62eeabcb8af5306cbcedae322e", null ],
+    [ "operator()", "d8/d07/a09837.html#a3c316eacdd1c74c69d8297871f84d7b9", null ],
+    [ "_raid", "d8/d07/a09837.html#a6a9cffd02435913a5d7ee53cd1e8cc0b", null ],
+    [ "_range", "d8/d07/a09837.html#a01b4592ac61d58ff39e5bb2eb1a1b997", null ],
+    [ "_refUnit", "d8/d07/a09837.html#ad083243ef5487aa374b19e3c82b0457c", null ],
+    [ "_source", "d8/d07/a09837.html#a91de967d2376ea96b1fc0838094915cf", null ]
 ];

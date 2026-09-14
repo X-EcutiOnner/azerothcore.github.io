@@ -1,9 +1,8 @@
 var a11065 =
 [
-    [ "GuildInfoResponse", "db/d7f/a11065.html#a256cb81ad2e08050be99c9e1061c2009", null ],
-    [ "Write", "db/d7f/a11065.html#a3222d0018c9593400d3d01258b82371e", null ],
-    [ "CreateDate", "db/d7f/a11065.html#a1a0acf334d88751e94257ff76c9e3fd8", null ],
-    [ "GuildName", "db/d7f/a11065.html#ad8efc926197e955ed0cf8df6a74b41e8", null ],
-    [ "NumAccounts", "db/d7f/a11065.html#a21b42f1654aa10f7872d87635fea66ac", null ],
-    [ "NumMembers", "db/d7f/a11065.html#a7e748a70029e867ba8c90eaba85bf8c9", null ]
+    [ "PlayedTime", "db/d7f/a11065.html#abc477d90a27dc41a7c643448302464cf", null ],
+    [ "Write", "db/d7f/a11065.html#a147071f2545cd91213d6c92dab7438c7", null ],
+    [ "LevelTime", "db/d7f/a11065.html#a2bf832827f9497a59bbfac714799b4b5", null ],
+    [ "TotalTime", "db/d7f/a11065.html#ae762fe00339a8f4ca6f9e14bb8515251", null ],
+    [ "TriggerScriptEvent", "db/d7f/a11065.html#a434b33c61ba5e2d91f084cbfe425c964", null ]
 ];

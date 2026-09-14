@@ -1,6 +1,6 @@
 var a20041 =
 [
-    [ "boss_sjonnir_dwarfAI", "d4/dce/a20045.html", "d4/dce/a20045" ],
-    [ "boss_sjonnir_dwarf", "de/dd3/a20041.html#a3589ae3bef1bbfe0fc5381e341c0995b", null ],
-    [ "GetAI", "de/dd3/a20041.html#a945d8e753e1a54dc348848b9c2dd6cce", null ]
+    [ "CalculateDamage", "de/dd3/a20041.html#ae38f8cfb44de2798d7a284c942617678", null ],
+    [ "PrepareSpellScript", "de/dd3/a20041.html#a043955d56e0ae4c54d70e8fe6e417dd1", null ],
+    [ "Register", "de/dd3/a20041.html#ab4b32d2db39c8d9079a83c89d63ccd93", null ]
 ];

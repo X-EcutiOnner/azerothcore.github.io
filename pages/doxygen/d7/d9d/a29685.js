@@ -1,5 +1,13 @@
 var a29685 =
 [
-    [ "auraHasDisableProcAttr", "d7/d9d/a29685.html#aec81d4f80c7cb7749f860601c9e5aac8", null ],
-    [ "triggeringSpellIsProcDisabled", "d7/d9d/a29685.html#a38c3523c80d30ed10b8c3b5e19c083f6", null ]
+    [ "Context", "d7/d9d/a29685.html#a0dd9f22f9528a05b229828e4a2c97757", null ],
+    [ "CreateEventInfo", "d7/d9d/a29685.html#a81032fc22ce45902d34cf897606bd966", null ],
+    [ "CreateProcEntry", "d7/d9d/a29685.html#a26531bd3f3256075455b32b42a172f6a", null ],
+    [ "CreateSpellInfo", "d7/d9d/a29685.html#adee75944dc2e9a3fff7848d0ccfff527", null ],
+    [ "SetUp", "d7/d9d/a29685.html#a65b0d4a0beb4c2f986f71ff5732e0f3c", null ],
+    [ "TearDown", "d7/d9d/a29685.html#a782580d41f8233b93d51fe347601e730", null ],
+    [ "TestCanProc", "d7/d9d/a29685.html#a6827c531761877b01d44665a4eb90f61", null ],
+    [ "TestSpellFamilyMatch", "d7/d9d/a29685.html#a97d06c4fdf207051543fbf8c9207242e", null ],
+    [ "_context", "d7/d9d/a29685.html#a0b5925a6df47ba704bfc196cc89c4919", null ],
+    [ "_spellInfos", "d7/d9d/a29685.html#a30ebff666ac835168f1bf7d6aa771e0c", null ]
 ];

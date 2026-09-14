@@ -1,7 +1,5 @@
 var a10133 =
 [
-    [ "QuestItem", "dd/d9d/a10133.html#a1d6e1d5de83a397b17115dbeba2a58b3", null ],
-    [ "QuestItem", "dd/d9d/a10133.html#a51b978ee64ec979ebe097f3b3f4c3cd0", null ],
-    [ "index", "dd/d9d/a10133.html#a0e48289882a1eabb6c8ff30032193bd2", null ],
-    [ "is_looted", "dd/d9d/a10133.html#a48f2baabd2d5a07313dc38a27c6f4713", null ]
+    [ "bossId", "dd/d9d/a10133.html#ac7be12fc714b2760399185e96b01efe0", null ],
+    [ "entry", "dd/d9d/a10133.html#adae739bf9cf30d1a8ca5c5790dc61c01", null ]
 ];

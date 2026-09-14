@@ -1,6 +1,7 @@
 var a15073 =
 [
-    [ "HandleDummy", "df/dee/a15073.html#aa75140309e66c28590a64e10676356da", null ],
-    [ "PrepareSpellScript", "df/dee/a15073.html#a21c4872e16c18c2918dfbea366e61df3", null ],
-    [ "Register", "df/dee/a15073.html#a841c9277224cbae878946deb288b87a1", null ]
+    [ "HandleEffectApply", "df/dee/a15073.html#a404f2134734e1d21201033b3f26e611e", null ],
+    [ "HandleEffectPeriodic", "df/dee/a15073.html#a8ce6799e01cf8b7849386fbdd2edddb8", null ],
+    [ "PrepareAuraScript", "df/dee/a15073.html#a1707f92d77a3ed7beefd499adc7f4a95", null ],
+    [ "Register", "df/dee/a15073.html#ad239472c15ca0c73b053d112f538ecff", null ]
 ];

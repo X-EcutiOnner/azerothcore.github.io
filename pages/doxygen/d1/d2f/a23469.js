@@ -1,6 +1,7 @@
 var a23469 =
 [
-    [ "HandleAfterRemove", "d1/d2f/a23469.html#a74610b06095572aa2c898cd84e0fb229", null ],
-    [ "PrepareAuraScript", "d1/d2f/a23469.html#ac0d686490ff37810e0116dea4d0b6077", null ],
-    [ "Register", "d1/d2f/a23469.html#aad72f4aaa19f92f7a71241311f5d0582", null ]
+    [ "PeriodicTick", "d1/d2f/a23469.html#a789d2d4d2bc75e412abe80a33102fa06", null ],
+    [ "PrepareAuraScript", "d1/d2f/a23469.html#a49db8ade3bc3a3da9e043e8b9ad1759d", null ],
+    [ "Register", "d1/d2f/a23469.html#aec2d7f564107f5b294a5d5c3dd3f9b25", null ],
+    [ "Validate", "d1/d2f/a23469.html#a7c2309d3192b2a18d8035c8067849d6d", null ]
 ];

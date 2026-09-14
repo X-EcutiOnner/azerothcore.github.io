@@ -1,6 +1,9 @@
 var a20009 =
 [
-    [ "boss_krystallusAI", "d1/d58/a20013.html", "d1/d58/a20013" ],
-    [ "boss_krystallus", "d0/d7b/a20009.html#a1d7453c9d67594bfdbd650fea897666a", null ],
-    [ "GetAI", "d0/d7b/a20009.html#aba14bcfa00a5d997959abd94af647bf4", null ]
+    [ "HandleOnEffectApply", "d0/d7b/a20009.html#a6ab047004cc901331d747641f218cf6a", null ],
+    [ "HandleOnEffectRemove", "d0/d7b/a20009.html#a9f66217f4785c8240c4b074bbf04b96e", null ],
+    [ "PrepareAuraScript", "d0/d7b/a20009.html#aa94b30468b2c853c0d8b86658a43dee4", null ],
+    [ "Register", "d0/d7b/a20009.html#a83b0d414a6e97b434f82492fa01ac385", null ],
+    [ "Validate", "d0/d7b/a20009.html#a88af7f269f56e474434d51c7ac0eb0a0", null ],
+    [ "_drakeGUID", "d0/d7b/a20009.html#a2e0c7df73cc7246524f6d745ff1fbeb1", null ]
 ];

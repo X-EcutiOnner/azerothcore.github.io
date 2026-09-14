@@ -1,4 +1,5 @@
 var a02153 =
 [
-    [ "ScriptRegistry< ArenaTeamScript >", "df/de9/a02153.html#a5d2a56a9849b1ba119fd3224685406fe", null ]
+    [ "Acore::EmoteChatBuilder", "d3/dfc/a10065.html", "d3/dfc/a10065" ],
+    [ "isNasty", "df/de9/a02153.html#ae6092f307f09a5dcbbc5ed10c145032f", null ]
 ];

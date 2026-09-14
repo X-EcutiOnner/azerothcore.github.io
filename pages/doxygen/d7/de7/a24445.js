@@ -1,6 +1,7 @@
 var a24445 =
 [
-    [ "achievement", "d7/de7/a24445.html#abb6071e172abbcbc65020a0ad9554a03", null ],
-    [ "spell", "d7/de7/a24445.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
-    [ "text", "d7/de7/a24445.html#ab8c1bedac4bccf5c47eda591c9e5e9d1", null ]
+    [ "HandleSendEvent", "d7/de7/a24445.html#a8b32db78a3b4d5a01be230968fda3a8d", null ],
+    [ "PrepareSpellScript", "d7/de7/a24445.html#a0adf10b63735dbdf1cb3d49c73f7da1d", null ],
+    [ "Register", "d7/de7/a24445.html#ad6aedfed88d4a921122fdc7a8b501f0e", null ],
+    [ "Validate", "d7/de7/a24445.html#a9b72b16ac81c53aaa7936640e5149e6c", null ]
 ];

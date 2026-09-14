@@ -1,7 +1,6 @@
 var a23409 =
 [
-    [ "PeriodicTick", "df/dff/a23409.html#a94bee50f214d0a61fa81c4cca1b38fb2", null ],
-    [ "PrepareAuraScript", "df/dff/a23409.html#a2c34fbc5c12be43b1c054cf4b23542cb", null ],
-    [ "Register", "df/dff/a23409.html#ae1479b53d8c0575947a7ce7cae4747c4", null ],
-    [ "Validate", "df/dff/a23409.html#ade8d57db324f02734e1752f49976dc9d", null ]
+    [ "HandleEffectRemove", "df/dff/a23409.html#ab4c215a735ead9959fd78972a6da72e4", null ],
+    [ "PrepareAuraScript", "df/dff/a23409.html#a75be2f838d6773b619dfac80e32557b8", null ],
+    [ "Register", "df/dff/a23409.html#a239068b4e4ad88b5be93a031043ad7ca", null ]
 ];

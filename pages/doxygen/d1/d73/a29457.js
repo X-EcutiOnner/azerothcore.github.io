@@ -1,8 +1,18 @@
 var a29457 =
 [
-    [ "Color", "d1/d73/a29457.html#a670fb4e2a31958f81d46047f74d9916f", null ],
-    [ "Comparator", "d1/d73/a29457.html#ace0bdad11edd9db12e45d374da623793", null ],
-    [ "CompareColor", "d1/d73/a29457.html#a801e2221bbb1b6aab67a57381901cf08", null ],
-    [ "ID", "d1/d73/a29457.html#aae73769db40326d298bb1d04eef38871", null ],
-    [ "Value", "d1/d73/a29457.html#ac314a9a6b447d386e31a286811f66538", null ]
+    [ "getArmorMod", "d1/d73/a29457.html#a0e56e757faf660cabe0ba4316ee17f12", null ],
+    [ "getDPSMod", "d1/d73/a29457.html#aa0718862ebfeea92ad299e04c9c622c8", null ],
+    [ "getFeralBonus", "d1/d73/a29457.html#aa54c3d1add4a1b982c05138f876fd138", null ],
+    [ "getSpellBonus", "d1/d73/a29457.html#aba240e0c9f81ca7d5f17d3631410a7b3", null ],
+    [ "getssdMultiplier", "d1/d73/a29457.html#ab0fbc14e59c3a387b21d3f4a825d3b36", null ],
+    [ "IsTwoHand", "d1/d73/a29457.html#ac83356dba956bfb0aa0a0fb0d976b60e", null ],
+    [ "armorMod", "d1/d73/a29457.html#a742f8447dca5961fb39e50de8233fa86", null ],
+    [ "armorMod2", "d1/d73/a29457.html#a36dba32ea7febb8dab627fa992de878b", null ],
+    [ "dpsMod", "d1/d73/a29457.html#ace956cab0056bcf0e116ac0884ad3575", null ],
+    [ "Id", "d1/d73/a29457.html#aebc75b8f80cb210b6af081077bd88e85", null ],
+    [ "Level", "d1/d73/a29457.html#a5758f5152401efde26edf3110c0d11e2", null ],
+    [ "spellPower", "d1/d73/a29457.html#a03804cca02fd1146dffb762bcd1274f8", null ],
+    [ "ssdMultiplier", "d1/d73/a29457.html#a7559b9045268d8050372153c8c976946", null ],
+    [ "ssdMultiplier2", "d1/d73/a29457.html#a57cdfb5465ced673edeb8c35bd7a3535", null ],
+    [ "ssdMultiplier3", "d1/d73/a29457.html#ae78f00d5ed42704a4093b5df939498d7", null ]
 ];

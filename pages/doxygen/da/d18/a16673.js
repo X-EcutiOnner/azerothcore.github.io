@@ -1,6 +1,7 @@
 var a16673 =
 [
-    [ "PrepareSpellScript", "da/d18/a16673.html#a743f910c3854e2c4e726e97c55fa7038", null ],
-    [ "Register", "da/d18/a16673.html#a3b9b2ffa90f58a5da93fd369e11c6216", null ],
-    [ "RemoveNotBetween", "da/d18/a16673.html#aba462e5b8e9336a508d19606f98750b5", null ]
+    [ "HandleDummy", "da/d18/a16673.html#ad0782bfbd977954aac6170ee9111aef6", null ],
+    [ "PrepareSpellScript", "da/d18/a16673.html#ac456524856c4a3c4913423693a8fd50c", null ],
+    [ "Register", "da/d18/a16673.html#a82d88c5dac164eb9dee9883a91edd0df", null ],
+    [ "Validate", "da/d18/a16673.html#a2cf4ee02293cee5e383e99efe14e0008", null ]
 ];

@@ -1,21 +1,20 @@
 var a01904 =
 [
-    [ "Trainer::Spell", "d2/dad/a08553.html", "d2/dad/a08553" ],
-    [ "Trainer::Trainer", "d7/d7a/a08557.html", "d7/d7a/a08557" ],
-    [ "FailReason", "d4/d0d/a01904.html#ae4935022d4e3c686a8b51cd68a4f2b66", [
-      [ "Unavailable", "d4/d0d/a01904.html#ae4935022d4e3c686a8b51cd68a4f2b66a453e6aa38d87b28ccae545967c53004f", null ],
-      [ "NotEnoughMoney", "d4/d0d/a01904.html#ae4935022d4e3c686a8b51cd68a4f2b66a261cca2ac483068d987c38cfa8fd6094", null ],
-      [ "NotEnoughSkill", "d4/d0d/a01904.html#ae4935022d4e3c686a8b51cd68a4f2b66a5ba2f62395296316a2a2222477988264", null ]
-    ] ],
-    [ "SpellState", "d4/d0d/a01904.html#a34dc7b354e539f94e4c8a4cbd0711758", [
-      [ "Available", "d4/d0d/a01904.html#a34dc7b354e539f94e4c8a4cbd0711758a78945de8de090e90045d299651a68a9b", null ],
-      [ "Unavailable", "d4/d0d/a01904.html#a34dc7b354e539f94e4c8a4cbd0711758a453e6aa38d87b28ccae545967c53004f", null ],
-      [ "Known", "d4/d0d/a01904.html#a34dc7b354e539f94e4c8a4cbd0711758a2f5650e484fa195949ac6c8d11dca4fd", null ]
-    ] ],
-    [ "Type", "d4/d0d/a01904.html#a636cc62a0635fc1566fb574ebe9941a9", [
-      [ "Class", "d4/d0d/a01904.html#a636cc62a0635fc1566fb574ebe9941a9a9bd81329febf6efe22788e03ddeaf0af", null ],
-      [ "Mount", "d4/d0d/a01904.html#a636cc62a0635fc1566fb574ebe9941a9aeace16d66cdd93ad876c620db7456077", null ],
-      [ "Tradeskill", "d4/d0d/a01904.html#a636cc62a0635fc1566fb574ebe9941a9a7f36331b1b83871b2bd2773a286f54cd", null ],
-      [ "Pet", "d4/d0d/a01904.html#a636cc62a0635fc1566fb574ebe9941a9a7c986af4cf8f6e55a1f846dc498ce91d", null ]
+    [ "FormationInfo", "d8/d6d/a08537.html", "d8/d6d/a08537" ],
+    [ "FormationMgr", "da/da0/a08541.html", "da/da0/a08541" ],
+    [ "CreatureGroup", "de/d2b/a08545.html", "de/d2b/a08545" ],
+    [ "sFormationMgr", "d4/d0d/a01904.html#ae80a51404625cee821a8727ed7369352", null ],
+    [ "CreatureGroupInfoType", "d4/d0d/a01904.html#a2c3447bf21f430bff136da6811d93a61", null ],
+    [ "GroupAIFlags", "d4/d0d/a01904.html#a3754da8cc6b209da0180cd76de20869c", [
+      [ "GROUP_AI_FLAG_MEMBER_ASSIST_LEADER", "d4/d0d/a01904.html#a3754da8cc6b209da0180cd76de20869caa14252ac4ad9c188fc5d7ed9ca7656a2", null ],
+      [ "GROUP_AI_FLAG_LEADER_ASSIST_MEMBER", "d4/d0d/a01904.html#a3754da8cc6b209da0180cd76de20869ca28fae9fc8e2ffc5c42c7dd1812694f6e", null ],
+      [ "GROUP_AI_FLAG_EVADE_TOGETHER", "d4/d0d/a01904.html#a3754da8cc6b209da0180cd76de20869ca928d7601145d6d43e75dcd4016b5168a", null ],
+      [ "GROUP_AI_FLAG_RESPAWN_ON_EVADE", "d4/d0d/a01904.html#a3754da8cc6b209da0180cd76de20869cafd1b3cc36d34613f8cef22a23e0c6ee6", null ],
+      [ "GROUP_AI_FLAG_DONT_RESPAWN_LEADER_ON_EVADE", "d4/d0d/a01904.html#a3754da8cc6b209da0180cd76de20869cabcc8bb1d4fe9589142cc0d244ce05043", null ],
+      [ "GROUP_AI_FLAG_ACQUIRE_NEW_TARGET_ON_EVADE", "d4/d0d/a01904.html#a3754da8cc6b209da0180cd76de20869ca1a12d5efe0ba28476f98f73978bc912e", null ],
+      [ "GROUP_AI_FLAG_FOLLOW_LEADER", "d4/d0d/a01904.html#a3754da8cc6b209da0180cd76de20869caee689adab992a48549490c861e29da87", null ],
+      [ "GROUP_AI_FLAG_ASSIST_MASK", "d4/d0d/a01904.html#a3754da8cc6b209da0180cd76de20869ca9fb1dd5025383fe38dc24bd42572256c", null ],
+      [ "GROUP_AI_FLAG_EVADE_MASK", "d4/d0d/a01904.html#a3754da8cc6b209da0180cd76de20869ca2b086f30dfcafa5d5b17145232d26acd", null ],
+      [ "GROUP_AI_FLAG_SUPPORTED", "d4/d0d/a01904.html#a3754da8cc6b209da0180cd76de20869ca77e2c9b09a3c1f6ade309decc6d82c60", null ]
     ] ]
 ];

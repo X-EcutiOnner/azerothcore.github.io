@@ -1,8 +1,9 @@
 var a14177 =
 [
-    [ "HandleDummy", "d9/d69/a14177.html#a3533f1e0daea7bf0e0e2a5830380159a", null ],
-    [ "HandleScript", "d9/d69/a14177.html#a528ce741ebde0fb6b796431da800e439", null ],
-    [ "PrepareSpellScript", "d9/d69/a14177.html#aa64f2238cdf8bf733c7e99db5d076c81", null ],
-    [ "Register", "d9/d69/a14177.html#a8dea4b47777324b88c7e022f11741b25", null ],
-    [ "Validate", "d9/d69/a14177.html#a6f49345b2beea56b4eaad390a6062118", null ]
+    [ "npc_marzon_silent_bladeAI", "d9/d69/a14177.html#a9f29c3b56e26421dabc2c95b8cd0407e", null ],
+    [ "EnterEvadeMode", "d9/d69/a14177.html#a0b42596550d045f5ca0096ceee80c0ac", null ],
+    [ "JustEngagedWith", "d9/d69/a14177.html#a116b3458f342811e378713e6a67f76a6", null ],
+    [ "MovementInform", "d9/d69/a14177.html#a32201d45f0c19212becb6319a48366f8", null ],
+    [ "Reset", "d9/d69/a14177.html#a51c2b16c767ce2922564dc9e4048e089", null ],
+    [ "UpdateAI", "d9/d69/a14177.html#aa6686399b41d32429d530dcc2ec41185", null ]
 ];

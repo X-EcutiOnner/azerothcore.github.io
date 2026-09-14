@@ -1,7 +1,6 @@
 var a13893 =
 [
-    [ "OnPeriodic", "dc/db6/a13893.html#a25e7a59384f262a36c74696a1befa01d", null ],
-    [ "PrepareAuraScript", "dc/db6/a13893.html#a9b82fde3e38054b686f9b2a110cfaa1e", null ],
-    [ "Register", "dc/db6/a13893.html#a65e469ba04d8cd2aa23d934bf2915721", null ],
-    [ "Validate", "dc/db6/a13893.html#a6843deda5be8b684c06a86920714f255", null ]
+    [ "FilterTargets", "dc/db6/a13893.html#aa6c8db9ae3ffd14e0841c98633115a9b", null ],
+    [ "PrepareSpellScript", "dc/db6/a13893.html#a502f57c8567bc7ed15035d89ea26f4a6", null ],
+    [ "Register", "dc/db6/a13893.html#aa3f50e9c6d430d3a1bc83c382c08b189", null ]
 ];

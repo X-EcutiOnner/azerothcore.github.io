@@ -1,6 +1,6 @@
 var a22509 =
 [
-    [ "HandlePeriodicDummy", "d1/d41/a22509.html#a0096e0521c37a4f7f9ab1f2173a807d4", null ],
-    [ "PrepareAuraScript", "d1/d41/a22509.html#ad55ab81c39e8bf53d1e2066bbeefa712", null ],
-    [ "Register", "d1/d41/a22509.html#afeccfe29a0e0f192a4242217f9d4b7e5", null ]
+    [ "HandleEffectRemove", "d1/d41/a22509.html#a08c55501b95d4c92971fd5c95aaef1a7", null ],
+    [ "PrepareAuraScript", "d1/d41/a22509.html#aa0df1c7c112cf44fbe5a89894a1292b3", null ],
+    [ "Register", "d1/d41/a22509.html#a6f6ae6c012090337eb3f9ca4fd39749d", null ]
 ];

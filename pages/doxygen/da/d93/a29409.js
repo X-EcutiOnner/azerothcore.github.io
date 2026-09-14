@@ -1,4 +1,8 @@
 var a29409 =
 [
-    [ "Id", "da/d93/a29409.html#aebb809589854147a8a521263968ed6d9", null ]
+    [ "areaTriggerText", "da/d93/a29409.html#a32bb8c4a4defce661d108627e25b645a", null ],
+    [ "Difficulty", "da/d93/a29409.html#add8ed75cd6aaa3412e6222b869bb4113", null ],
+    [ "MapId", "da/d93/a29409.html#aa107ad302ec2aa3ce2289ba392e1c32e", null ],
+    [ "maxPlayers", "da/d93/a29409.html#a7ab33229ffee11a27861439053c79831", null ],
+    [ "resetTime", "da/d93/a29409.html#a891a741efb049b51996e1a6110efc52d", null ]
 ];

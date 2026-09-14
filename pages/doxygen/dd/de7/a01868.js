@@ -1,7 +1,4 @@
 var a01868 =
 [
-    [ "LoadPlayerSettings", "dd/de7/a01868.html#a070b072e62079e512137662a87d710f6", null ],
-    [ "ParseSettingsData", "dd/de7/a01868.html#aeaa79bb46d98ab2f4f5f3674d52f6745", null ],
-    [ "SerializeSettingsData", "dd/de7/a01868.html#a2e2d73056f0c30ed8b22419fed1c3d6a", null ],
-    [ "UpdateSetting", "dd/de7/a01868.html#ab725e991f09f03e0413ffe44fa807ead", null ]
+    [ "operator<<", "dd/de7/a01868.html#aa8a947319a6f00895a3c443f5cb258ad", null ]
 ];

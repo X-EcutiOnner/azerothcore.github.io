@@ -1,7 +1,11 @@
 var a26869 =
 [
-    [ "HandleProc", "db/de1/a26869.html#ac85ee0780894f16c8760ede0fa555bd8", null ],
-    [ "PrepareAuraScript", "db/de1/a26869.html#a6583928e441d418130df561962518deb", null ],
-    [ "Register", "db/de1/a26869.html#a9548fa0c523182c58e0dcc76b2db7f69", null ],
-    [ "Validate", "db/de1/a26869.html#a652e134d79d4e4a229b723c8d388cf5d", null ]
+    [ "CheckCast", "db/de1/a26869.html#a49676a65c99a9a2d99ad78fee54d2302", null ],
+    [ "HandleMaxHealthHeal", "db/de1/a26869.html#a019833641487ac07cb2c8740d5686a41", null ],
+    [ "HandleScript", "db/de1/a26869.html#a35b9d69b8147ef06527b8533ef376e72", null ],
+    [ "Load", "db/de1/a26869.html#a25c373762375f207e6c3ba0a18d4a6e7", null ],
+    [ "PrepareSpellScript", "db/de1/a26869.html#a31d3339531f75dfa0ca3a339d34d3012", null ],
+    [ "Register", "db/de1/a26869.html#afd716f555ac73287bd268c6124b15b1c", null ],
+    [ "Validate", "db/de1/a26869.html#a0938262e1f45821b9fbef42f5c96cc56", null ],
+    [ "_manaAmount", "db/de1/a26869.html#add7d1cdf3abca0ada57cd719ad22602a", null ]
 ];

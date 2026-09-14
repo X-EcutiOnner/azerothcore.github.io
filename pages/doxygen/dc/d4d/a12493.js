@@ -1,11 +1,8 @@
 var a12493 =
 [
-    [ "instance_commandscript", "dc/d4d/a12493.html#a4d0b308b35a1aa21c66c8bd406ffa82f", null ],
-    [ "GetCommands", "dc/d4d/a12493.html#a092d62969c835f6bf2a08ca3e05f04d5", null ],
-    [ "HandleInstanceGetBossStateCommand", "dc/d4d/a12493.html#a0530ca6481073d6bafd11596546140b0", null ],
-    [ "HandleInstanceListBindsCommand", "dc/d4d/a12493.html#abf42411f9c78ce59b21b34691e3d4233", null ],
-    [ "HandleInstanceSaveDataCommand", "dc/d4d/a12493.html#a4b494a8b1de470612436fbb9fa433416", null ],
-    [ "HandleInstanceSetBossStateCommand", "dc/d4d/a12493.html#aec65b5af811eae2cbcf17571e9d1473b", null ],
-    [ "HandleInstanceStatsCommand", "dc/d4d/a12493.html#a9547a0a88a3bcd7407c449f3f2f25f44", null ],
-    [ "HandleInstanceUnbindCommand", "dc/d4d/a12493.html#a7abbe257b10632f2acbdd838e1f073a9", null ]
+    [ "chatfilter_commandscript", "dc/d4d/a12493.html#a7b8b95f9b418496d0f9aa39af55410a3", null ],
+    [ "GetCommands", "dc/d4d/a12493.html#aa7553c0fc74103773edeaac9195e4414", null ],
+    [ "HandleChatFilterAddCommand", "dc/d4d/a12493.html#a8cbe0819f09b43a32e594a67010d63ee", null ],
+    [ "HandleChatFilterListCommand", "dc/d4d/a12493.html#ab59bd95ca2b9319fb175c0592074f9ff", null ],
+    [ "HandleChatFilterRemoveCommand", "dc/d4d/a12493.html#ad628fb21fc3bb06c6108c6c731793ad6", null ]
 ];

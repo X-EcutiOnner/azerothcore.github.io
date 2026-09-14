@@ -1,10 +1,14 @@
 var a28573 =
 [
-    [ "npc_air_force_botsAI", "d4/d75/a28573.html#a062eb272826d52ffd9b72054f970b761", null ],
-    [ "GetSummonedGuard", "d4/d75/a28573.html#ac4f39049ba15caf314939f12b82ccd05", null ],
-    [ "MoveInLineOfSight", "d4/d75/a28573.html#a474231c0ce93b4db0789bcc8f6767c19", null ],
-    [ "Reset", "d4/d75/a28573.html#a016911d354f3b00e2db3e4f3722cda7f", null ],
-    [ "SummonGuard", "d4/d75/a28573.html#a8da57471dfa875f55f52c3d2b068a0f3", null ],
-    [ "SpawnAssoc", "d4/d75/a28573.html#a6f2f7ffd24dd32780c441fd6ce29dfbf", null ],
-    [ "SpawnedGUID", "d4/d75/a28573.html#a3c8ae595a3b4a436c2f94aa84cb9ee56", null ]
+    [ "npc_preciousAI", "d4/d75/a28573.html#ade66f3aa2ff9ac85c99a9d31591fcabf", null ],
+    [ "FlagForDespawn", "d4/d75/a28573.html#a934a5147c1cc9937189011fb061657da", null ],
+    [ "GetData", "d4/d75/a28573.html#a91c93f8d58501b705809653639ec05d1", null ],
+    [ "InitializeAI", "d4/d75/a28573.html#aa15843c4029f2df2ee04d21b5157602a", null ],
+    [ "JustEngagedWith", "d4/d75/a28573.html#a58bc4149111605850f070a77ee776313", null ],
+    [ "JustReachedHome", "d4/d75/a28573.html#a31893e9441b24398554370a58ef8bd78", null ],
+    [ "Reset", "d4/d75/a28573.html#aa1c39ce0110827d35ae2d5ea794e1744", null ],
+    [ "SetData", "d4/d75/a28573.html#a2246203bca5b716852abd631320b790c", null ],
+    [ "UpdateAI", "d4/d75/a28573.html#a2f3428807957bd60fdbe6f694bb6d3ef", null ],
+    [ "events", "d4/d75/a28573.html#a69a20e759b1bcb631cef0bf1e4dd8a1b", null ],
+    [ "flaggedForDespawn", "d4/d75/a28573.html#a48e891f8afce9408ed38c51a0e2d4005", null ]
 ];

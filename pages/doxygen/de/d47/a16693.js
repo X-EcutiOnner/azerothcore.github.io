@@ -1,6 +1,10 @@
 var a16693 =
 [
-    [ "npc_living_infernoAI", "de/d47/a16693.html#ab33eeac6aab8e18778fc7d4ffe5038f1", null ],
-    [ "IsSummonedBy", "de/d47/a16693.html#a4b6986a392aee0741ba47651e809c76c", null ],
-    [ "JustDied", "de/d47/a16693.html#a60b2e31d24e182e97d604d91223e2dc8", null ]
+    [ "spell_halion_marks_aura", "de/d47/a16693.html#a3351eb9a4b497e1d92bd0021c0fa01f8", null ],
+    [ "BeforeDispel", "de/d47/a16693.html#a48fb48567091c8fd9d365ea3ff8730cc", null ],
+    [ "OnRemove", "de/d47/a16693.html#a1c9fefecd33db13e06f267c41e6b0375", null ],
+    [ "PrepareAuraScript", "de/d47/a16693.html#acd5285ea5c378b31526440d263c54770", null ],
+    [ "Register", "de/d47/a16693.html#ac84d4ab83e56314ff15ee363cafd2feb", null ],
+    [ "_removeSpellId", "de/d47/a16693.html#aeef9d928c6a8739337251e144558b169", null ],
+    [ "_summonSpellId", "de/d47/a16693.html#a01e8677e4f55dbb55cca1bf16dec48b2", null ]
 ];

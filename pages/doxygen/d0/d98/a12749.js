@@ -1,11 +1,5 @@
 var a12749 =
 [
-    [ "boss_high_interrogator_gerstahn", "d0/d98/a12749.html#afaff4a9b18a2dc433ad9cfc73cd2cc01", null ],
-    [ "JustEngagedWith", "d0/d98/a12749.html#ae8dae4df2f6c3b935382ae4ef473c55c", null ],
-    [ "Reset", "d0/d98/a12749.html#acfc4e4c44d2eca050b2bdb558729dd6f", null ],
-    [ "UpdateAI", "d0/d98/a12749.html#a5e13ecedeb376b86c91787d4f6b51db8", null ],
-    [ "_manaBurnTimer", "d0/d98/a12749.html#a0c3eb9b1aefb055f8c97d723c536d1ab", null ],
-    [ "_psychicScreamTimer", "d0/d98/a12749.html#a48508fa92aee209ea58257a1376ab7fb", null ],
-    [ "_shadowShieldTimer", "d0/d98/a12749.html#abc4c2027036e1d79b88b29883d59565e", null ],
-    [ "_shadowWordPainTimer", "d0/d98/a12749.html#aedd3fd6f34db795625835ac12c4c9bd8", null ]
+    [ "amount", "d0/d98/a12749.html#a35b1ecbfecae77f1cb7a0a52eafc5f7b", null ],
+    [ "entry", "d0/d98/a12749.html#ac3d4d211ebb927b1b9a376ee956e1b26", null ]
 ];

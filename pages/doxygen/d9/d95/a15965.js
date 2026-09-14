@@ -1,6 +1,10 @@
 var a15965 =
 [
-    [ "npc_tiger_matriarchAI", "da/da3/a15969.html", "da/da3/a15969" ],
-    [ "npc_tiger_matriarch", "d9/d95/a15965.html#a05a08bfa64c428213a4b534a982afb71", null ],
-    [ "GetAI", "d9/d95/a15965.html#a6d5664ca125a775c2d71f322f5a57655", null ]
+    [ "npc_murkdeepAI", "d9/d95/a15965.html#abe78235ecb94e4735a6f8eaad7fe6adc", null ],
+    [ "JustEngagedWith", "d9/d95/a15965.html#ad33de7cb0caffcd255db38204ecfbb1c", null ],
+    [ "Reset", "d9/d95/a15965.html#aa89316a0fe4f99630a4a129aed305e24", null ],
+    [ "UpdateAI", "d9/d95/a15965.html#aeca85a1324791d18ac825401fb8a31e8", null ],
+    [ "events", "d9/d95/a15965.html#ae3d344829aeba22ef0c5947863720390", null ],
+    [ "phase", "d9/d95/a15965.html#a74a3a16cb3f2993aea9c5d6736a6914e", null ],
+    [ "spawnTimer", "d9/d95/a15965.html#a6b139fb5cc0776103934f14be15c34d1", null ]
 ];

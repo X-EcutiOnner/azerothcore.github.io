@@ -1,7 +1,6 @@
 var a24361 =
 [
-    [ "HandleEffectRemove", "d3/db9/a24361.html#a63c0fede080591df9ebf8b3de2cd2fc3", null ],
-    [ "PrepareAuraScript", "d3/db9/a24361.html#a19ce53b5731b0789896612fa55f38849", null ],
-    [ "Register", "d3/db9/a24361.html#a7d60c5b18bbf77a18ab683a101782ada", null ],
-    [ "Validate", "d3/db9/a24361.html#ae3c3c1bce38882cd5de32295813b1a47", null ]
+    [ "npc_lord_illidan_stormrageAI", "dd/dd7/a24365.html", "dd/dd7/a24365" ],
+    [ "npc_lord_illidan_stormrage", "d3/db9/a24361.html#ad2f213749e170ec4f9903396d132f5f3", null ],
+    [ "GetAI", "d3/db9/a24361.html#a9aaedc4326b90621965dad522f4af897", null ]
 ];

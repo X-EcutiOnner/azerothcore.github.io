@@ -1,6 +1,8 @@
 var a20961 =
 [
-    [ "HandleScript", "df/dff/a20961.html#a679cf770e38e1fda66f8a64fff53f968", null ],
-    [ "PrepareSpellScript", "df/dff/a20961.html#a89fe5ca5efcc45278bdd9017cfeaaf3f", null ],
-    [ "Register", "df/dff/a20961.html#adc76a70e73cba42c0f9935b3b43d17cd", null ]
+    [ "npc_xt002_heart", "df/dff/a20961.html#aa4a3c9e4a66f1d6adab07282961685e9", null ],
+    [ "DoAction", "df/dff/a20961.html#a3150ab74ea50c9de6d937b3271e782de", null ],
+    [ "JustDied", "df/dff/a20961.html#a4f62cabc74ad43cf53f2257902982dff", null ],
+    [ "Reset", "df/dff/a20961.html#a0b60b84d9fc0abcb44d3f432420a7865", null ],
+    [ "_instance", "df/dff/a20961.html#a90edf95809c2d8a25b3f75526d2d3db7", null ]
 ];

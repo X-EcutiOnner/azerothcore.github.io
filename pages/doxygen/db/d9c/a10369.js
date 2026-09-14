@@ -1,8 +1,7 @@
 var a10369 =
 [
-    [ "GetAINotifyDelay", "db/d9c/a10369.html#a9efd4acfe2ff5e4dfe0cc9e8fe802cc6", null ],
-    [ "GetReqMoveDistSq", "db/d9c/a10369.html#a58687646bbf83723e8ad2925ee50452c", null ],
-    [ "GetVisibilityNotifyDelay", "db/d9c/a10369.html#ac402ec0cb86192ce264d7909e09da5ac", null ],
-    [ "Update", "db/d9c/a10369.html#aa95443d7050249a44cad2f16fa0026e5", null ],
-    [ "visibilitySettingsIndex", "db/d9c/a10369.html#a35ebd0fcbdec8a3287f714cbe9becbcc", null ]
+    [ "LFGUpdateRequest", "db/d9c/a10369.html#a85900fc44d5dfb5595fbe7dc3422dfaa", null ],
+    [ "call", "db/d9c/a10369.html#a15258001db5870a0f52bb0c72cba3587", null ],
+    [ "m_diff", "db/d9c/a10369.html#a27e818e5d985ac91be6eca14a1ebd73f", null ],
+    [ "m_updater", "db/d9c/a10369.html#a1bb4423241495aebab83ebc1acf66510", null ]
 ];

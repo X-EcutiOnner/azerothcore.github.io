@@ -1,8 +1,8 @@
 var a17017 =
 [
-    [ "npc_toc_pet_warlockAI", "d5/d12/a17017.html#a0f4128d5fd7a855f1fb2870465bc1ce7", null ],
-    [ "EnterEvadeMode", "d5/d12/a17017.html#a62219f63e82fc67f63db2cbd713647a0", null ],
-    [ "myCanCast", "d5/d12/a17017.html#a81607ebd90d8f511bb18b03ff497d9eb", null ],
-    [ "UpdateAI", "d5/d12/a17017.html#a05a150e01f519675ac7b69d3c2a97ed4", null ],
-    [ "events", "d5/d12/a17017.html#a8edadebd7e6660041233a24fb07173bf", null ]
+    [ "npc_toc_hunterAI", "d5/d12/a17017.html#a80f80231bfe5b71bf415da3202c2e6fb", null ],
+    [ "JustSummoned", "d5/d12/a17017.html#aa270248ad9e0c319234ff0741270b465", null ],
+    [ "myCanCast", "d5/d12/a17017.html#a4e599ae2ee4e892795889bd57dd29e27", null ],
+    [ "UpdateAI", "d5/d12/a17017.html#a81f384607ab7e8c4ed7385bdcddfd7a5", null ],
+    [ "events", "d5/d12/a17017.html#a0cf5ecd9d7b3c92e2da836983323f378", null ]
 ];

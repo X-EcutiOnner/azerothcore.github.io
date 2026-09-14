@@ -1,5 +1,5 @@
 var a02078 =
 [
-    [ "GetEnableModulesList", "d6/d5b/a02078.html#a2a2aa3aabfbef586b9a1e63fbae0e0f7", null ],
-    [ "SetEnableModulesList", "d6/d5b/a02078.html#ac16569c9333f642e54fa7a4ec6a948e3", null ]
+    [ "GetAISpellInfo", "d6/d5b/a02078.html#a1ed41ad074263f6c0c63f38b7f51414b", null ],
+    [ "IsValidCombatTarget", "d6/d5b/a02078.html#a981f03ba3b8c59eb1fa9d22df158ba19", null ]
 ];

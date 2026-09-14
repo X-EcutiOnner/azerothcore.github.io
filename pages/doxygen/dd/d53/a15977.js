@@ -1,11 +1,7 @@
 var a15977 =
 [
-    [ "npc_troll_volunteerAI", "dd/d53/a15977.html#a7eb0c508122616a6781c8b23210e4062", null ],
-    [ "GetMountId", "dd/d53/a15977.html#a5edc586ded0a1146bb1bd82ca14062cc", null ],
-    [ "InitializeAI", "dd/d53/a15977.html#a1c758c7601624e0620778e13e8ec60a0", null ],
-    [ "MovementInform", "dd/d53/a15977.html#aa1d34a4f3701354899ebdd9b38670b31", null ],
-    [ "Reset", "dd/d53/a15977.html#a31439533de41c2a459af2b4d3af76139", null ],
-    [ "SpellHit", "dd/d53/a15977.html#a0604cdade2ce4da23915ca1fc4a4f475", null ],
-    [ "_complete", "dd/d53/a15977.html#ac7e1cc5f0e4f675d6aad0f6e9b449c15", null ],
-    [ "_mountModel", "dd/d53/a15977.html#ae226345bd324b9c337dc96570117d82b", null ]
+    [ "npc_prospector_remtravelAI", "d1/dd9/a15981.html", "d1/dd9/a15981" ],
+    [ "npc_prospector_remtravel", "dd/d53/a15977.html#aa213161fc60e615682252125f6c58f7f", null ],
+    [ "GetAI", "dd/d53/a15977.html#aa8e1bb551036684b05c1b3bea4c66b1d", null ],
+    [ "OnQuestAccept", "dd/d53/a15977.html#a4bc2e5264a7a2184bf8d90b7d4045cc8", null ]
 ];

@@ -1,6 +1,8 @@
 var a03599 =
 [
-    [ "instance_maraudon", "d4/d38/a15425.html", "d4/d38/a15425" ],
-    [ "instance_maraudon::instance_maraudon_InstanceMapScript", "d3/da6/a15429.html", "d3/da6/a15429" ],
-    [ "AddSC_instance_maraudon", "d4/dd9/a03599.html#a6ab7baf162a5cf99b16fb0a26d7973cb", null ]
+    [ "spell_gordunni_trap", "dd/d1a/a16069.html", "dd/d1a/a16069" ],
+    [ "GordunniTrap", "d4/dd9/a03599.html#ae11511f5835ecdfec73fde1f9f29431c", [
+      [ "GO_GORDUNNI_DIRT_MOUND", "d4/dd9/a03599.html#ae11511f5835ecdfec73fde1f9f29431ca12df131fc84f6cc9bcf7d02eaf65e1ab", null ]
+    ] ],
+    [ "AddSC_feralas", "d4/dd9/a03599.html#a06e54e3edc2df068be660ac788b402e3", null ]
 ];

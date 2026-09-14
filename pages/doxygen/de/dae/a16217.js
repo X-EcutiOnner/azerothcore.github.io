@@ -1,6 +1,8 @@
 var a16217 =
 [
-    [ "npc_cairne_bloodhoofAI", "d9/dbc/a16221.html", "d9/dbc/a16221" ],
-    [ "npc_cairne_bloodhoof", "de/dae/a16217.html#a3519d94c5fcdc3d55e31c49c7773e56c", null ],
-    [ "GetAI", "de/dae/a16217.html#a1c34470c46ae9e98684de0e786be28b7", null ]
+    [ "npc_giltharesAI", "de/dae/a16217.html#af22e42b2180987febd964784b6d49b5e", null ],
+    [ "JustEngagedWith", "de/dae/a16217.html#ae9ba65652db3d2d32920d1a98594727a", null ],
+    [ "Reset", "de/dae/a16217.html#a34d57ef71b60fe71c749f790cecf70b2", null ],
+    [ "WaypointReached", "de/dae/a16217.html#a9308c73760e50e0f3d04031b508526d1", null ],
+    [ "WaypointReached", "de/dae/a16217.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

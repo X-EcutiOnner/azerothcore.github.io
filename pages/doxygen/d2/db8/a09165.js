@@ -1,8 +1,11 @@
 var a09165 =
 [
-    [ "AttackPosition", "d2/db8/a09165.html#a6681bcab6c497d2c7fc6e5585f422744", null ],
-    [ "operator=", "d2/db8/a09165.html#a019fe5d4c053c1d6980789b7f97f6e54", null ],
-    [ "operator==", "d2/db8/a09165.html#a320adced006c0f70456492c9e9dc99c2", null ],
-    [ "_pos", "d2/db8/a09165.html#a77783e0e6e83836ad6e5903535ad9370", null ],
-    [ "_taken", "d2/db8/a09165.html#a113512b8ab66c879fd85c43263c3b7f1", null ]
+    [ "AuraMunchingQueue", "d2/db8/a09165.html#abf9787bcfa9393619ffebe2ad7b5cd46", null ],
+    [ "Execute", "d2/db8/a09165.html#a8f025a0ea1db81fb283db563402d1c40", null ],
+    [ "_auraType", "d2/db8/a09165.html#add694e24c38d585784f236acf9118b76", null ],
+    [ "_aurEff", "d2/db8/a09165.html#a8ac00964608170d5375242c1b19c4be3", null ],
+    [ "_basePoints", "d2/db8/a09165.html#a9cf03046c9595e81bf119b7aacb1a81a", null ],
+    [ "_owner", "d2/db8/a09165.html#a472aaf46c2f167a10ce38267ace0b8bb", null ],
+    [ "_spellId", "d2/db8/a09165.html#a6674c43b906e45e2ad29100a7ff06f44", null ],
+    [ "_targetGUID", "d2/db8/a09165.html#a441b328296f0b7a75bdaee06d2cb94f1", null ]
 ];

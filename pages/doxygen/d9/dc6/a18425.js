@@ -1,6 +1,7 @@
 var a18425 =
 [
-    [ "ExtraRemoveEffect", "d9/dc6/a18425.html#a49b1087d66606ddeebe6918ad05d4b37", null ],
-    [ "PrepareAuraScript", "d9/dc6/a18425.html#a41992ed6c23275d3a910915755b682f9", null ],
-    [ "Register", "d9/dc6/a18425.html#ab956cb95473cf0c5fc9fb2af14fc945e", null ]
+    [ "HandleSummon", "d9/dc6/a18425.html#a8a96bd3a1b3cfaff09e05535eca927a9", null ],
+    [ "PrepareSpellScript", "d9/dc6/a18425.html#a0213cd8e5e79aba8ba80583ceda88b95", null ],
+    [ "Register", "d9/dc6/a18425.html#a01281869dc98a0af5027695391f1221f", null ],
+    [ "Validate", "d9/dc6/a18425.html#a26675411e5f86e6d31f62762a3fdcd70", null ]
 ];

@@ -1,12 +1,10 @@
 var a08517 =
 [
-    [ "QuestMenu", "d5/d81/a08517.html#a60ba5b35499c6a9ed510300d3300421e", null ],
-    [ "~QuestMenu", "d5/d81/a08517.html#a14df9b6699c327853121ae032704db8d", null ],
-    [ "AddMenuItem", "d5/d81/a08517.html#ac8735756bbf9f2fa799c505bd740e070", null ],
-    [ "ClearMenu", "d5/d81/a08517.html#ab3d3881aabe000694acab37a3774507e", null ],
-    [ "Empty", "d5/d81/a08517.html#a1a850cb70956f299ea91cb0d732ad202", null ],
-    [ "GetItem", "d5/d81/a08517.html#a08240a8d18dce0cb96db19f54c67dd2c", null ],
-    [ "GetMenuItemCount", "d5/d81/a08517.html#a2338a6fb88c32bfb66fe524a8ffaa0d7", null ],
-    [ "HasItem", "d5/d81/a08517.html#a7fe36e4a4acfc66a00f08034c470b5e3", null ],
-    [ "_questMenuItems", "d5/d81/a08517.html#a49279a3943009f2d1475d792c2c3d21a", null ]
+    [ "auras", "d5/d81/a08517.html#a20695ff7997e1ebd6fe898a8b41aeddb", null ],
+    [ "bytes1", "d5/d81/a08517.html#ae337bd59e1e1eb7f4c9cdee4e8c6a7b9", null ],
+    [ "bytes2", "d5/d81/a08517.html#aedf06568867bbb5db5ca8017727dab9d", null ],
+    [ "emote", "d5/d81/a08517.html#a82f7be10807af7b25dd41c643be066fc", null ],
+    [ "mount", "d5/d81/a08517.html#a4d84276a45de1b62e507ac5c763dce3a", null ],
+    [ "path_id", "d5/d81/a08517.html#aa86bac734e0e652b6bb4ea273cf62571", null ],
+    [ "visibilityDistanceType", "d5/d81/a08517.html#ad3ae39b8c5be151e15ab6f1494943bc3", null ]
 ];

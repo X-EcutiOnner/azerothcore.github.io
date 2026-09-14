@@ -1,6 +1,6 @@
 var a15817 =
 [
-    [ "HandleApply", "d6/d48/a15817.html#aefef61bc68c13b20e9b41a6f148a9599", null ],
-    [ "PrepareAuraScript", "d6/d48/a15817.html#aabe8dc8b99dc455dfcfaf58b64fa3f18", null ],
-    [ "Register", "d6/d48/a15817.html#ade5c710416516760cc69f77750aa2a1f", null ]
+    [ "HandleOnHit", "d6/d48/a15817.html#a65818c4421ea83869d36a116d1bc6d2c", null ],
+    [ "PrepareSpellScript", "d6/d48/a15817.html#a9e568a1608715973fc438ff5e4356714", null ],
+    [ "Register", "d6/d48/a15817.html#a752d697aada626440fdff2bd889f890f", null ]
 ];

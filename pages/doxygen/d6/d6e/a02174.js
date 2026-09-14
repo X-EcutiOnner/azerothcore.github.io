@@ -1,4 +1,6 @@
 var a02174 =
 [
-    [ "ScriptRegistry< GlobalScript >", "d6/d6e/a02174.html#aab5e9d371cdc72eb5a60f210f00cdc34", null ]
+    [ "clearAcceptTradeMode", "d6/d6e/a02174.html#ab516bffb39dfd3d3133b1d3a515c9fb1", null ],
+    [ "clearAcceptTradeMode", "d6/d6e/a02174.html#a7b5fc6374a945ebbe9b397c1e115e952", null ],
+    [ "setAcceptTradeMode", "d6/d6e/a02174.html#a63b255ea813e0ea4f109492ed7f0213c", null ]
 ];

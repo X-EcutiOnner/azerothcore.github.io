@@ -1,8 +1,6 @@
 var a18857 =
 [
-    [ "npc_lk_spirit_bombAI", "d6/d1f/a18857.html#a366fb54e68c0e603000183cd68daf6b7", null ],
-    [ "IsSummonedBy", "d6/d1f/a18857.html#a9b3de8c6e2006a19ee1289455163f52c", null ],
-    [ "MovementInform", "d6/d1f/a18857.html#a0e4aa94a199439962095c1d2026b2a5f", null ],
-    [ "UpdateAI", "d6/d1f/a18857.html#a61b4f7c3a1dd9b9b2850b05f2117e55a", null ],
-    [ "timer", "d6/d1f/a18857.html#aa0d370113b753127d4f0fd7bd3a3ba11", null ]
+    [ "npc_strangulate_vehicleAI", "da/de7/a18861.html", "da/de7/a18861" ],
+    [ "npc_strangulate_vehicle", "d6/d1f/a18857.html#a04532bc5902af45b1e9c76cf1cec9add", null ],
+    [ "GetAI", "d6/d1f/a18857.html#aa5813442234d7b18fc4e7ed44a0b30bc", null ]
 ];

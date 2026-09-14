@@ -1,12 +1,15 @@
 var a03920 =
 [
-    [ "boss_grizzle", "dc/d41/a12741.html", "dc/d41/a12741" ],
-    [ "Grizzle", "d7/d01/a03920.html#acfff5d4b983e4db1d5efb6bd5da7e7aa", [
-      [ "SPELL_GROUNDTREMOR", "d7/d01/a03920.html#acfff5d4b983e4db1d5efb6bd5da7e7aaa4426ae7fabf4ddb0d8355b0049b5a6bb", null ],
-      [ "SPELL_FRENZY", "d7/d01/a03920.html#acfff5d4b983e4db1d5efb6bd5da7e7aaab54f261ba282273bed875abe6642a293", null ],
-      [ "EMOTE_FRENZY_KILL", "d7/d01/a03920.html#acfff5d4b983e4db1d5efb6bd5da7e7aaaebdb26e3a90dde560c1c4f7fd5615f63", null ]
-    ] ],
-    [ "AddSC_boss_grizzle", "d7/d01/a03920.html#adb6c19fe584b9ecd11ab67084570a0be", null ],
-    [ "TIMER_FRENZY", "d7/d01/a03920.html#a57b77ddbaec70c1bfcf7f1ccbf0715a1", null ],
-    [ "TIMER_GROUNDTREMOR", "d7/d01/a03920.html#abc54daa3a30dab6dcbd53b460e55a15a", null ]
+    [ "instance_stratholme", "db/daa/a13705.html", "db/daa/a13705" ],
+    [ "instance_stratholme::instance_stratholme_InstanceMapScript", "d1/dc9/a13709.html", "d1/dc9/a13709" ],
+    [ "go_enchanted_scarlet_thread", "de/d4b/a13713.html", "de/d4b/a13713" ],
+    [ "AddSC_instance_stratholme", "d7/d01/a03920.html#add44fd9ad05267cc5db256b112db2585", null ],
+    [ "aGateTrap", "d7/d01/a03920.html#aa404f6799978911e2f0e4de3b4386c59", null ],
+    [ "AllScarletThreadLocations", "d7/d01/a03920.html#a055cb3e623dd7500b61e9e36afb72af7", null ],
+    [ "aPlaguedCritters", "d7/d01/a03920.html#a4108af811b2731f9784942b89f333054", null ],
+    [ "BarthilasPos", "d7/d01/a03920.html#a3c5bc53064d7ed19146d61fbe2f25502", null ],
+    [ "BlackGuardPos", "d7/d01/a03920.html#a8ed1ccc03c022b129aa9bb9464fedd0a", null ],
+    [ "MindlessUndeadPos", "d7/d01/a03920.html#a1a89feed6c582c3bf3e51bf3a1027081", null ],
+    [ "ScarletThreadSpawnCount", "d7/d01/a03920.html#ab43e7dbe9fa919ee1b3442d6be2762f6", null ],
+    [ "SlaughterPos", "d7/d01/a03920.html#aec64d79cbf450b10fd485f2e559e0472", null ]
 ];

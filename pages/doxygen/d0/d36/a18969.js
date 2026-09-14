@@ -1,6 +1,6 @@
 var a18969 =
 [
-    [ "npc_gluttonous_abominationAI", "d3/de6/a18973.html", "d3/de6/a18973" ],
-    [ "npc_gluttonous_abomination", "d0/d36/a18969.html#a895d1afcfc62bcaac6cc0d20465f1e7a", null ],
-    [ "GetAI", "d0/d36/a18969.html#aedbd808da5e8ea0e2111e78be9d846ce", null ]
+    [ "npc_the_lich_king_controllerAI", "d3/de6/a18973.html", "d3/de6/a18973" ],
+    [ "npc_the_lich_king_controller", "d0/d36/a18969.html#a32b14d699737497ba7c90d8ef17557d7", null ],
+    [ "GetAI", "d0/d36/a18969.html#ae9b6dacb0f4e8e6f12f187ab0dfd2165", null ]
 ];

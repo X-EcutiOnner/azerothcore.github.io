@@ -1,11 +1,7 @@
 var a19821 =
 [
-    [ "boss_ormorok", "dd/da6/a19821.html#aa4862339ed41d5c593a93ef605d85a39", null ],
-    [ "JustDied", "dd/da6/a19821.html#af84a958b2f16b082fe3b2e1dc70dd8fa", null ],
-    [ "JustEngagedWith", "dd/da6/a19821.html#a22ac203db7c3b445e653798743e48764", null ],
-    [ "JustSummoned", "dd/da6/a19821.html#acc149b49e6658454610a7871e3c82b5e", null ],
-    [ "KilledUnit", "dd/da6/a19821.html#a65a1512bad7c773a0aede6ba2cb9700e", null ],
-    [ "Reset", "dd/da6/a19821.html#a88a1c308790e45a6fa09f0d740116f4e", null ],
-    [ "UpdateAI", "dd/da6/a19821.html#a15f2e30fa1780aadba6673f6537fc16f", null ],
-    [ "_spikesCount", "dd/da6/a19821.html#a29cc8c3db5ba3d528ea873d66be619cd", null ]
+    [ "FilterTargets", "dd/da6/a19821.html#a6beccd163ab8442a1ed39c553716cb73", null ],
+    [ "Load", "dd/da6/a19821.html#a5df67c2dbd14a75435f68939240daae6", null ],
+    [ "PrepareSpellScript", "dd/da6/a19821.html#a5be9bf364ae2dece862ed1eee93f9294", null ],
+    [ "Register", "dd/da6/a19821.html#ac4cb1dd6dcc9f55a3e908961c5f0d88e", null ]
 ];

@@ -1,7 +1,14 @@
 var a10245 =
 [
-    [ "ownerGUID", "d6/d81/a10245.html#a3c89974ea78b732cbffb8a9d482d403b", null ],
-    [ "script", "d6/d81/a10245.html#ad995c862431acd9d45cc12c9d5c8b319", null ],
-    [ "sourceGUID", "d6/d81/a10245.html#acafb40cbd1e73152f9dbf390f1fc98f3", null ],
-    [ "targetGUID", "d6/d81/a10245.html#a1505a3b9a6de23dcd6b2847207a279ca", null ]
+    [ "ServerMailMgr", "d6/d81/a10245.html#aeec2235e9dd9b36b868634d850f02a5b", null ],
+    [ "~ServerMailMgr", "d6/d81/a10245.html#adba54af38e90ecae21e79835910ba195", null ],
+    [ "ConditionTypeUsesConditionState", "d6/d81/a10245.html#a2e7a8cdc7ebdb51204823fd30a0449b3", null ],
+    [ "GetAllServerMailStore", "d6/d81/a10245.html#acb4521f696c6f11c977dc9d8b76e0c16", null ],
+    [ "GetServerMailConditionType", "d6/d81/a10245.html#a57f8aea4b5bb15ff77b9ebd8e65e8092", null ],
+    [ "instance", "d6/d81/a10245.html#abc85cb07f717384fac09f4e2b0f59af1", null ],
+    [ "LoadMailServerTemplates", "d6/d81/a10245.html#a1a01dd7a8e5c45bc7c97203e4a04a768", null ],
+    [ "LoadMailServerTemplatesConditions", "d6/d81/a10245.html#a6bb75bdb34a25dd01fdc7e81b4e9b897", null ],
+    [ "LoadMailServerTemplatesItems", "d6/d81/a10245.html#a49aea924f27804d21fbe06e72e159df3", null ],
+    [ "SendServerMail", "d6/d81/a10245.html#a85c3556138304b75ad3dec0014e56def", null ],
+    [ "_serverMailStore", "d6/d81/a10245.html#a96ae3a78694ca97d112c5d92884f2415", null ]
 ];

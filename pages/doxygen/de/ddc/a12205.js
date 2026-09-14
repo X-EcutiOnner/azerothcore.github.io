@@ -1,6 +1,7 @@
 var a12205 =
 [
-    [ "cooldown", "de/ddc/a12205.html#affc13f6cd029447df6cb1db56df42147", null ],
-    [ "playerOnly", "de/ddc/a12205.html#a183ae9fd6863cbc9afe1f690c87f54e2", null ],
-    [ "triggerChance", "de/ddc/a12205.html#a3430fbb945b281cb5c2820130d4444a8", null ]
+    [ "ScriptStateStore", "de/ddc/a12205.html#a51baffee5c9dbf255591db8ea13ee516", null ],
+    [ "_auraApplication", "de/ddc/a12205.html#af5098bcedac048808e11bf2f82d705a7", null ],
+    [ "_currentScriptState", "de/ddc/a12205.html#adddf594d9468b16455da6e2aef683d44", null ],
+    [ "_defaultActionPrevented", "de/ddc/a12205.html#a63cf373d469af72bc96a3e72351e3256", null ]
 ];

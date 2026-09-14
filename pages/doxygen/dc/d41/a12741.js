@@ -1,7 +1,5 @@
 var a12741 =
 [
-    [ "boss_grizzle", "dc/d41/a12741.html#af5d864d2e06859a3c21506b8def424d0", null ],
-    [ "JustEngagedWith", "dc/d41/a12741.html#ad925b3a8190037e1768b1c5565656be7", null ],
-    [ "UpdateAI", "dc/d41/a12741.html#a72c28686adf331ed291585f830041041", null ],
-    [ "nextTremorTime", "dc/d41/a12741.html#a220d7e426d7bd2034cf2dc70d0a18f26", null ]
+    [ "go_shadowforge_brazier", "dc/d41/a12741.html#a35a7aa318b20bc2b0e3081be506e835e", null ],
+    [ "GossipHello", "dc/d41/a12741.html#a1bbe1da11b4a15bb2ced7df0ae614626", null ]
 ];

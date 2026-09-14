@@ -1,8 +1,6 @@
 var a17933 =
 [
-    [ "HandleHit", "d6/de3/a17933.html#ace9793d64d5378ef33bf30e8d0be8bd6", null ],
-    [ "HandleScript", "d6/de3/a17933.html#a5fe0b684473bd5dd1ff9b12432ff3de8", null ],
-    [ "Load", "d6/de3/a17933.html#ab1d81386ae3ccd332c01864d7f456017", null ],
-    [ "PrepareSpellScript", "d6/de3/a17933.html#ae3ef753ff4c99aa8bed20ce3369a7e0f", null ],
-    [ "Register", "d6/de3/a17933.html#a7edb44f70501c2e760d29c8f78a4e087", null ]
+    [ "npc_saurfang_eventAI", "df/da7/a17937.html", "df/da7/a17937" ],
+    [ "npc_saurfang_event", "d6/de3/a17933.html#a3bfce5457466360458498833098d660c", null ],
+    [ "GetAI", "d6/de3/a17933.html#a953842d2fa3380a8331faf3a42cb3177", null ]
 ];

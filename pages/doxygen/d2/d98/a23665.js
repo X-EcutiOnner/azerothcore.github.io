@@ -1,6 +1,11 @@
 var a23665 =
 [
-    [ "CheckProc", "d2/d98/a23665.html#add583b34b9052fbb37c43c558f0f8b96", null ],
-    [ "PrepareAuraScript", "d2/d98/a23665.html#a3d7ed0fa175daffcf11fc3ee04b189bf", null ],
-    [ "Register", "d2/d98/a23665.html#ab91f611f59e83d4f1b7c71b1595db667", null ]
+    [ "boss_krosh_firehand", "d2/d98/a23665.html#a1ef3618844f086de7875f26e7e6190f9", null ],
+    [ "AttackStart", "d2/d98/a23665.html#a74bd2c93ac45efcd163a904b9a52827b", null ],
+    [ "JustDied", "d2/d98/a23665.html#ad20c86b4a3d0cccddf91982c26f56c09", null ],
+    [ "JustEngagedWith", "d2/d98/a23665.html#ad6389c357fb6c09fdf4f3f3ef7095395", null ],
+    [ "Reset", "d2/d98/a23665.html#a989c4b762a7cdb228b245e91881d97a2", null ],
+    [ "UpdateAI", "d2/d98/a23665.html#a3d26a6f544e9d00514ca5b0ef7d4bf4f", null ],
+    [ "_scheduler", "d2/d98/a23665.html#a261ced01dc1305ab7c2d2f3322022fe5", null ],
+    [ "instance", "d2/d98/a23665.html#a876bb040d78cafa9aa22e818f60dce7f", null ]
 ];

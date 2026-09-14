@@ -1,7 +1,7 @@
 var a26653 =
 [
-    [ "HandleProc", "d9/d4b/a26653.html#ad97c3b5df293ed8afae3e662467088c2", null ],
-    [ "PrepareAuraScript", "d9/d4b/a26653.html#a691f14220a619e1915636417927aaa13", null ],
-    [ "Register", "d9/d4b/a26653.html#a4f3c644a91dab0641ef489fd2da171a2", null ],
-    [ "Validate", "d9/d4b/a26653.html#a6fee4af68a8d312bcb543e0c67932cc9", null ]
+    [ "CalculateAmount", "d9/d4b/a26653.html#a0934aa8eaf442314aa6050d85304c15b", null ],
+    [ "CalculateSpellAmount", "d9/d4b/a26653.html#a4ec8eb1000a32fe3909e0ce32f5a83cd", null ],
+    [ "PrepareAuraScript", "d9/d4b/a26653.html#a627c6a88ed6ce051b0d6a06d94288498", null ],
+    [ "Register", "d9/d4b/a26653.html#ae1b5265f817f1f4ec011d4e2607686eb", null ]
 ];

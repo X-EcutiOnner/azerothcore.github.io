@@ -1,5 +1,7 @@
 var a23473 =
 [
-    [ "go_main_chambers_access_panel", "d8/d94/a23473.html#a30c3c20be1892b5107ef53683d593b75", null ],
-    [ "OnGossipHello", "d8/d94/a23473.html#af4b3a4a0260de68dcfac7202e0a728ee", null ]
+    [ "PeriodicTick", "d8/d94/a23473.html#afb5cc6129423cb4f7c3da50977da01f2", null ],
+    [ "PrepareAuraScript", "d8/d94/a23473.html#aea6ca9c5d490f62ae737bfc07751da42", null ],
+    [ "Register", "d8/d94/a23473.html#ad0eb66e0bab8441e1bb3db42967df7ff", null ],
+    [ "Validate", "d8/d94/a23473.html#ae07f6e7de08ada74b4cb9ac890c70c35", null ]
 ];

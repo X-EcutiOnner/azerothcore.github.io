@@ -1,12 +1,8 @@
 var a24649 =
 [
-    [ "CheckTarget", "da/da7/a24649.html#a731aa2c0a2b67b8a15cab72ea2cb961a", null ],
-    [ "CheckTargets", "da/da7/a24649.html#a3b5bbef0c43a600387235822f3c6dbc7", null ],
-    [ "HandleCorpseExplosion", "da/da7/a24649.html#a201de2ee86d0cf954117df0e5343ee69", null ],
-    [ "HandleDamage", "da/da7/a24649.html#a810fc65eb5d7160366d63210bad9caea", null ],
-    [ "Load", "da/da7/a24649.html#a00b45e2f466de39c95251c2a38f6c3bd", null ],
-    [ "PrepareSpellScript", "da/da7/a24649.html#a4cae1673a840d8ec0d727b881a3616cf", null ],
-    [ "Register", "da/da7/a24649.html#a9e67ea51300569a0e163cb3e427b086e", null ],
-    [ "Validate", "da/da7/a24649.html#a93984e8b831cb4c37ec2726d44532d43", null ],
-    [ "_target", "da/da7/a24649.html#a5028b9d3166270b2b0557943e962eade", null ]
+    [ "CheckProc", "da/da7/a24649.html#a2a008e6d73c39d789aa176e9e5872544", null ],
+    [ "HandleProc", "da/da7/a24649.html#abd05fec42193d2de8f42e95d8c90d8ca", null ],
+    [ "PrepareAuraScript", "da/da7/a24649.html#a0c1452114b1f5698bf87024f66663546", null ],
+    [ "Register", "da/da7/a24649.html#a83bcce64d93f0eaf286bbfd17062832e", null ],
+    [ "Validate", "da/da7/a24649.html#ad160e59cf489a1d2fbaa11b1e919826a", null ]
 ];

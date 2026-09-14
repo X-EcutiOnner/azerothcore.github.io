@@ -1,15 +1,14 @@
 var a12681 =
 [
-    [ "boss_vanndarAI", "d0/d7a/a12681.html#ada061b4363340602fd1f4744433d9cf9", null ],
-    [ "AttackStart", "d0/d7a/a12681.html#a76ab9327e04b82b534a9b3ea59b377d1", null ],
-    [ "EnterEvadeMode", "d0/d7a/a12681.html#a9ba6e2620a25728bf30d4d813a82b781", null ],
-    [ "JustEngagedWith", "d0/d7a/a12681.html#abde00baf4099361b8c26e6e0cf6c1517", null ],
-    [ "Reset", "d0/d7a/a12681.html#a1c2fdf4351a43047f02bec1d46423cb8", null ],
-    [ "UpdateAI", "d0/d7a/a12681.html#ab410ed8d64cd91bd6c4b78b2ed678eab", null ],
-    [ "Attacked", "d0/d7a/a12681.html#ac5994c76a9d84cf303021a9298673d68", null ],
-    [ "AvatarTimer", "d0/d7a/a12681.html#a3bed38b10a87baf50e9c9a57229bd464", null ],
-    [ "ResetTimer", "d0/d7a/a12681.html#ae1c4e16cd9ad68e4700d68ed64baa8e2", null ],
-    [ "StormboltTimer", "d0/d7a/a12681.html#a71ef70c1b504be2b00be1a70e85bc18a", null ],
-    [ "ThunderclapTimer", "d0/d7a/a12681.html#a681a103b6cf937dad3fb15e5be358c26", null ],
-    [ "YellTimer", "d0/d7a/a12681.html#a2b8503aaae0fd5e8cd92bb9650ee6ee3", null ]
+    [ "tele_commandscript", "d0/d7a/a12681.html#a13d522c3480c5b82071d5f77bd41f942", null ],
+    [ "DoNameTeleport", "d0/d7a/a12681.html#aeab9bf62f33fd1d55055ba2ae7925f82", null ],
+    [ "GetCommands", "d0/d7a/a12681.html#a296b26e39d5d575ebe68728ff1b49f68", null ],
+    [ "HandleTeleAddCommand", "d0/d7a/a12681.html#a8d429a38c01a19f8c89c87937ef24248", null ],
+    [ "HandleTeleCommand", "d0/d7a/a12681.html#ac7d7dbb28f3a908fa5116ffb9ca6f7fa", null ],
+    [ "HandleTeleDelCommand", "d0/d7a/a12681.html#ad3d85b0057797de2aceeb620cf62efc0", null ],
+    [ "HandleTeleGroupCommand", "d0/d7a/a12681.html#af83e529b482654851a7a1ee77beb107e", null ],
+    [ "HandleTeleNameCommand", "d0/d7a/a12681.html#a70fcde1c7c5a9e5297035862adca55c4", null ],
+    [ "HandleTeleNameNpcIdCommand", "d0/d7a/a12681.html#a52852b7f3d7a6bbf68164e6918b9a141", null ],
+    [ "HandleTeleNameNpcNameCommand", "d0/d7a/a12681.html#a2f68bad0f1af5d40fcefb8c394472b65", null ],
+    [ "HandleTeleNameNpcSpawnIdCommand", "d0/d7a/a12681.html#a7a45fa39afa6bae2359a68b11a504bc5", null ]
 ];

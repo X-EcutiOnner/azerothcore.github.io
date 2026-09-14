@@ -1,9 +1,6 @@
 var a17825 =
 [
-    [ "FilterTargets", "d8/d16/a17825.html#a7b490400378893a19cdaf52af25f3a51", null ],
-    [ "HandleScript", "d8/d16/a17825.html#acee46fb0af45364478a92db59fcc3f24", null ],
-    [ "Load", "d8/d16/a17825.html#a46a43b9a8dec2f61aee3dccad4178a78", null ],
-    [ "PrepareSpellScript", "d8/d16/a17825.html#abb8fac43566f92b19e644edc38ab5d73", null ],
-    [ "Register", "d8/d16/a17825.html#a1add221102b7067ffc130969f5172eae", null ],
-    [ "Validate", "d8/d16/a17825.html#a4d2b60161f5aed31132f0fc554aab7b6", null ]
+    [ "HandleStackDrop", "d8/d16/a17825.html#a5c1064d764a6bfa4b3fde8bf57316e44", null ],
+    [ "PrepareAuraScript", "d8/d16/a17825.html#a294db521fc56c4fe5e50317fedd8a86d", null ],
+    [ "Register", "d8/d16/a17825.html#a45b1fd2c1896023d71a0916100376e57", null ]
 ];

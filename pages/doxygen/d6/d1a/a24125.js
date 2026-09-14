@@ -1,10 +1,6 @@
 var a24125 =
 [
-    [ "npc_wounded_blood_elfAI", "d6/d1a/a24125.html#a2dfcd5fa17b56c44f4056ecf4861af6e", null ],
-    [ "JustEngagedWith", "d6/d1a/a24125.html#aba950ba77ff71508263cc54b28c7725b", null ],
-    [ "JustSummoned", "d6/d1a/a24125.html#aa97f5294981c44b530efca1411458a97", null ],
-    [ "Reset", "d6/d1a/a24125.html#a8e6be35a3079998f3bab829f5d963c71", null ],
-    [ "sQuestAccept", "d6/d1a/a24125.html#a56c157928c24daae6edacd5a126ef171", null ],
-    [ "WaypointReached", "d6/d1a/a24125.html#a5affcb00e28a582f8926ab2226001cd0", null ],
-    [ "WaypointReached", "d6/d1a/a24125.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "npc_nether_drakeAI", "de/dc5/a24129.html", "de/dc5/a24129" ],
+    [ "npc_nether_drake", "d6/d1a/a24125.html#a253ec3c91857b899ea9e2c824870b760", null ],
+    [ "GetAI", "d6/d1a/a24125.html#a58d269e2c73cae07bb507162b742fe8f", null ]
 ];

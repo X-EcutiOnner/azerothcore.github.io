@@ -1,6 +1,6 @@
 var a16273 =
 [
-    [ "HandleSummon", "d7/df5/a16273.html#a730e0c865f8c0c12544be951a48fe9ff", null ],
-    [ "PrepareSpellScript", "d7/df5/a16273.html#a31271cd4668d3cbc4f4bdbeb693fe141", null ],
-    [ "Register", "d7/df5/a16273.html#ae388ee1b08891f021ab1308ec7ffebaa", null ]
+    [ "npc_cairne_bloodhoofAI", "d1/df0/a16277.html", "d1/df0/a16277" ],
+    [ "npc_cairne_bloodhoof", "d7/df5/a16273.html#a3519d94c5fcdc3d55e31c49c7773e56c", null ],
+    [ "GetAI", "d7/df5/a16273.html#a1c34470c46ae9e98684de0e786be28b7", null ]
 ];

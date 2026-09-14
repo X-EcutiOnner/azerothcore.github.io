@@ -1,6 +1,7 @@
 var a19533 =
 [
-    [ "boss_grobbulus_poison_cloudAI", "db/dda/a19537.html", "db/dda/a19537" ],
-    [ "boss_grobbulus_poison_cloud", "d4/d2e/a19533.html#a2bb8ebec0ae79f20602e551f654e0761", null ],
-    [ "GetAI", "d4/d2e/a19533.html#a34c68dd3e58b83c52f270eb1b194f2ed", null ]
+    [ "OnApply", "d4/d2e/a19533.html#a72a01dea703436b2a220a9976da60fa6", null ],
+    [ "PrepareAuraScript", "d4/d2e/a19533.html#adb17425258d4fb2c0c464236e15f32d7", null ],
+    [ "Register", "d4/d2e/a19533.html#af026c126029c68ed8b7c6c1886720e4c", null ],
+    [ "Validate", "d4/d2e/a19533.html#a5674396828adf4e80102ed2277f1e08a", null ]
 ];

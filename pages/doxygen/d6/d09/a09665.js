@@ -1,10 +1,10 @@
 var a09665 =
 [
-    [ "UnitSearcher", "d6/d09/a09665.html#a4c50b4594650d9f3f83a40ac02f1a954", null ],
-    [ "Visit", "d6/d09/a09665.html#a5e419d2cb0de5ae58373e521d3a84ac6", null ],
-    [ "Visit", "d6/d09/a09665.html#a4bf8a315ab9464bbc5b0c8cae5c27fed", null ],
-    [ "Visit", "d6/d09/a09665.html#ac65516ed337b509ff5c316fb29727854", null ],
-    [ "i_check", "d6/d09/a09665.html#a3618df5a6ae33e76b802eae9cac1e1bd", null ],
-    [ "i_object", "d6/d09/a09665.html#a3029760131a6f50883246afe2533c062", null ],
-    [ "i_phaseMask", "d6/d09/a09665.html#ab94911f3f275de6a9ce9f15f1169c81c", null ]
+    [ "AIRelocationNotifier", "d6/d09/a09665.html#a05c1f74272dff612eeda6c50d1c6fb43", null ],
+    [ "Visit", "d6/d09/a09665.html#a06dd774a24d4a1da36a2a862c0ad97df", null ],
+    [ "Visit", "d6/d09/a09665.html#a0ec9a2499d73516dd2d4a0319990924a", null ],
+    [ "Visit", "d6/d09/a09665.html#a3cbdb164a6239614ef6ade13ddb5d33c", null ],
+    [ "i_unit", "d6/d09/a09665.html#ab1dd814e4d94ed2989bb07012a24d40e", null ],
+    [ "includePlayers", "d6/d09/a09665.html#ac7985b8f0282180a063ccfba7583917e", null ],
+    [ "isCreature", "d6/d09/a09665.html#a199f4b91d00dd4db90855e5521d87a95", null ]
 ];

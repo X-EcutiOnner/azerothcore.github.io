@@ -1,6 +1,6 @@
 var a26393 =
 [
-    [ "PrepareSpellScript", "db/d8a/a26393.html#a8127429829afd4b82395a821a4bea19c", null ],
-    [ "Register", "db/d8a/a26393.html#a73717914aa23764fa16c8a2965798a6a", null ],
-    [ "SecondaryEffect", "db/d8a/a26393.html#a6150d8615c7f579aadd50e28aba0d569", null ]
+    [ "OnRemove", "db/d8a/a26393.html#a3803e6bbdb17e9a848376481581c993d", null ],
+    [ "PrepareAuraScript", "db/d8a/a26393.html#a6f1340b824af4604e310666e89d05b7a", null ],
+    [ "Register", "db/d8a/a26393.html#a3b361a478f1c035b706ac2e17499fb37", null ]
 ];

@@ -1,7 +1,6 @@
 var a22389 =
 [
-    [ "HandleOnEffectHit", "dc/d1b/a22389.html#a909ec44339061a114697cacee5fba5b2", null ],
-    [ "PrepareSpellScript", "dc/d1b/a22389.html#ac1bfb2b49cd335ca5961b984fadfffb8", null ],
-    [ "Register", "dc/d1b/a22389.html#aa241c97b4e895d07fe89d03edca29912", null ],
-    [ "Validate", "dc/d1b/a22389.html#aa84f4c29ca00789bb47661267549cda6", null ]
+    [ "HandleScriptEffect", "dc/d1b/a22389.html#a1dac2806b74471332aec0595118005a3", null ],
+    [ "PrepareSpellScript", "dc/d1b/a22389.html#adb1efd90b7ffa23887ca4aa3afb6d99e", null ],
+    [ "Register", "dc/d1b/a22389.html#a2ff0986c88dcbd9aac263f62b772c992", null ]
 ];

@@ -1,9 +1,6 @@
 var a23325 =
 [
-    [ "FilterTargets", "db/d5a/a23325.html#a9049c113d65b15a9a8e1143980a84b23", null ],
-    [ "HandleDummy", "db/d5a/a23325.html#a21fd59ba177fd7b04eb1fcafe869f33a", null ],
-    [ "Load", "db/d5a/a23325.html#a8cad82701e0147e14f826243175e1c32", null ],
-    [ "PrepareSpellScript", "db/d5a/a23325.html#aa05839a8dd785a2472e8e5f3a9fc58b0", null ],
-    [ "Register", "db/d5a/a23325.html#a0e7e246c322b89c3b6ee08797984f7e6", null ],
-    [ "_targetNumber", "db/d5a/a23325.html#a34f80edf782ade371e7a6fc908b47b4f", null ]
+    [ "HandleScriptEffect", "db/d5a/a23325.html#a62ed9bff154c5aab74e044f8f9982263", null ],
+    [ "PrepareSpellScript", "db/d5a/a23325.html#a0e87265cf22ef8b4e302b8e216123395", null ],
+    [ "Register", "db/d5a/a23325.html#a0d722447d91991462245e8b392d20e10", null ]
 ];

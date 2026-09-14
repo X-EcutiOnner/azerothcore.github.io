@@ -1,9 +1,6 @@
 var a15377 =
 [
-    [ "boss_chrono_lord_deja", "d2/dd4/a15377.html#a85f82d4bde99b7e1d05fba82177916e6", null ],
-    [ "JustDied", "d2/dd4/a15377.html#a68eb4941364f9fac121aa3d610d45f48", null ],
-    [ "JustEngagedWith", "d2/dd4/a15377.html#ab5324b2993f2fd1ec3290eb962ef6065", null ],
-    [ "KilledUnit", "d2/dd4/a15377.html#a02c279fb1cfccd38dc60ba7c610cf859", null ],
-    [ "MoveInLineOfSight", "d2/dd4/a15377.html#a535c0c157c60804188ad8c4413c277dd", null ],
-    [ "OwnTalk", "d2/dd4/a15377.html#acdef53bd447c30d87bd15af3bf4200bc", null ]
+    [ "npc_cos_stratholme_citizienAI", "d9/d9d/a15381.html", "d9/d9d/a15381" ],
+    [ "npc_cos_stratholme_citizien", "d2/dd4/a15377.html#a92f8d88ecfa9cc47d6799107e5de0107", null ],
+    [ "GetAI", "d2/dd4/a15377.html#a4f5f132b903241021a4e53dd60c0f43b", null ]
 ];

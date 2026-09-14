@@ -1,8 +1,18 @@
 var a10613 =
 [
-    [ "ownerGuid", "df/d4e/a10613.html#a7c66ffa9f54768a0e81f61e5bcdde014", null ],
-    [ "petitionGuid", "df/d4e/a10613.html#a1bbf412a221b76c4a20765d9a6612182", null ],
-    [ "petitionId", "df/d4e/a10613.html#afa16859ac671ff0410204ea30ebcf429", null ],
-    [ "petitionName", "df/d4e/a10613.html#a91c81356e9aa77641eaa881cd04af5af", null ],
-    [ "petitionType", "df/d4e/a10613.html#aeaf6c421d7545cf98d88b4e552dcff23", null ]
+    [ "MoveSplineInitArgs", "df/d4e/a10613.html#aa2b6c8940e7dc8bdd4ea6047a5ff1a68", null ],
+    [ "_checkPathBounds", "df/d4e/a10613.html#a984db18cdbd061605a9d486b061dc7c0", null ],
+    [ "Validate", "df/d4e/a10613.html#a17beca23a7a7eaa298debb5e9638daca", null ],
+    [ "facing", "df/d4e/a10613.html#a8800fca5b50ab5123e92b28e921ec8b0", null ],
+    [ "flags", "df/d4e/a10613.html#ac4271ed0434fc8e7f7a70e8869d81a0e", null ],
+    [ "HasVelocity", "df/d4e/a10613.html#acad05815ff039fe1fea3d7cf56afb4f2", null ],
+    [ "initialOrientation", "df/d4e/a10613.html#ab0b66cba791fc206be5b64310480cb88", null ],
+    [ "parabolic_amplitude", "df/d4e/a10613.html#a133d1d0172fde0564a58a004cb354ed0", null ],
+    [ "path", "df/d4e/a10613.html#a3857df1ab2d6dafef4a6d796e6593341", null ],
+    [ "path_Idx_offset", "df/d4e/a10613.html#a6b6aaf43685649798db46d7b409d3e32", null ],
+    [ "splineId", "df/d4e/a10613.html#ac8c84e828c23801a68524c9811f0336b", null ],
+    [ "time_perc", "df/d4e/a10613.html#afe51d24d71b71e87015eeb4851418503", null ],
+    [ "TransformForTransport", "df/d4e/a10613.html#ad9e8518e61b2f5f6ff8380518a6ad0cc", null ],
+    [ "velocity", "df/d4e/a10613.html#af042454593bfd4dc888c1700af437933", null ],
+    [ "walk", "df/d4e/a10613.html#aa58f23e75134e46a9ccbb2c563ecdc22", null ]
 ];

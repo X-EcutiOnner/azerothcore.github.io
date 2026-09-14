@@ -1,6 +1,5 @@
 var a15121 =
 [
-    [ "instance_blackfathom_deeps_InstanceMapScript", "df/da9/a15125.html", "df/da9/a15125" ],
-    [ "instance_blackfathom_deeps", "d2/d94/a15121.html#a4600a7e6191582c1bee684989a970e0f", null ],
-    [ "GetInstanceScript", "d2/d94/a15121.html#a62cdab4f3118ab030b4ef55243690f73", null ]
+    [ "npc_pilgrims_bounty_plate", "d2/d94/a15121.html#ac0217b8fb3a0fbf418ce2d3ca286f2eb", null ],
+    [ "SpellHit", "d2/d94/a15121.html#a7797b7a532336542ef37f0643df8dec0", null ]
 ];

@@ -1,6 +1,6 @@
 var a14749 =
 [
-    [ "HandleDummyEffect", "da/daf/a14749.html#a3860ad8a34e37601f7a4cef395f7ab2a", null ],
-    [ "PrepareSpellScript", "da/daf/a14749.html#a1c69fb2fd3fa623d62647fca738d27d6", null ],
-    [ "Register", "da/daf/a14749.html#ad1cbf7ed8f7d119bb56d06fb62358458", null ]
+    [ "npc_brewfest_keg_thrower", "da/daf/a14749.html#a29da1efd21fe6737684607e5b360ea84", null ],
+    [ "CanBeSeen", "da/daf/a14749.html#a36212d0f17c0070d3ef3cc25577ff7b9", null ],
+    [ "MoveInLineOfSight", "da/daf/a14749.html#a3938b0e63553e79302ba966c6cdcf9be", null ]
 ];

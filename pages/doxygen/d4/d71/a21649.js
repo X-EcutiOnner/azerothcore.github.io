@@ -1,8 +1,6 @@
 var a21649 =
 [
-    [ "npc_mootoo_the_youngerAI", "d4/d71/a21649.html#a70a5a502dab9a90a790a90eabc5c3acd", null ],
-    [ "JustDied", "d4/d71/a21649.html#a766612f646a6d22d3f0e6f93298e34bc", null ],
-    [ "Reset", "d4/d71/a21649.html#a04624b9b4d552d6b27308edc3ad44644", null ],
-    [ "WaypointReached", "d4/d71/a21649.html#ac758a992ed0d62a272930c84d617b348", null ],
-    [ "WaypointReached", "d4/d71/a21649.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "HandleEffectPeriodic", "d4/d71/a21649.html#affa7fb949d4b1a05813df0da17fef3bb", null ],
+    [ "PrepareAuraScript", "d4/d71/a21649.html#a79dbb866c06cd1c031cae2f1370146d5", null ],
+    [ "Register", "d4/d71/a21649.html#a1fb46036f0860440f3a9201e0d86cdc4", null ]
 ];

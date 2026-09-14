@@ -1,6 +1,6 @@
 var a18937 =
 [
-    [ "npc_valithria_cloudAI", "d1/d03/a18941.html", "d1/d03/a18941" ],
-    [ "npc_valithria_cloud", "d9/d41/a18937.html#a11d1bdc4c6e8210e2d0706f33d369dde", null ],
-    [ "GetAI", "d9/d41/a18937.html#afeff905cec1245dbac6fa59673aef015", null ]
+    [ "ManaVoidSelector", "d9/d41/a18937.html#aa57a0960e7ce90b8de23f01ae72a1fff", null ],
+    [ "operator()", "d9/d41/a18937.html#a464d63f2cf8cfe7d0c6bb5293e788a28", null ],
+    [ "_source", "d9/d41/a18937.html#ae45c999db51bc153bba7f2fdfb99f6ba", null ]
 ];

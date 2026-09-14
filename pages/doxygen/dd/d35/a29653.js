@@ -1,15 +1,20 @@
 var a29653 =
 [
-    [ "DamageInfoStubBuilder", "dd/d35/a29653.html#a282b4f92722f9cf12358a9f603df6902", null ],
-    [ "Build", "dd/d35/a29653.html#ad50ac35ca7a10f0eb20383fbde4a54dc", null ],
-    [ "WithAbsorb", "dd/d35/a29653.html#a3533bbda604c4ed6ac467f28ecb60fbe", null ],
-    [ "WithAttackType", "dd/d35/a29653.html#a4fd9332aa42002056d3f9191cd4435d7", null ],
-    [ "WithBlock", "dd/d35/a29653.html#a81381d471627ddd6e86678551ca4ab5b", null ],
-    [ "WithDamage", "dd/d35/a29653.html#abf9d30cde831f2094a181a312bcfe9df", null ],
-    [ "WithHitMask", "dd/d35/a29653.html#a161f5ea9ae33541dfcfd600fc5546b20", null ],
-    [ "WithOriginalDamage", "dd/d35/a29653.html#a3265aa4aa273cc9ededb6c9673f6c9e3", null ],
-    [ "WithResist", "dd/d35/a29653.html#a76827724d8b8d780dc5d136ca01e51e6", null ],
-    [ "WithSchoolMask", "dd/d35/a29653.html#ab540fcb56c4034daea104a1b844bdb3a", null ],
-    [ "WithSpellInfo", "dd/d35/a29653.html#a681fe7d0c7f3b4136ad4ba2a662e6393", null ],
-    [ "_stub", "dd/d35/a29653.html#abf06c6b638dcd9489fa0e3d755433514", null ]
+    [ "RealmMap", "dd/d35/a29653.html#a6031c19ec935fbe535f60a1014483dbd", null ],
+    [ "RealmList", "dd/d35/a29653.html#abe7dfad5160a08a5852cb1436a06eaa9", null ],
+    [ "~RealmList", "dd/d35/a29653.html#a64bea5f38384143cc960840a8e84ef00", null ],
+    [ "Close", "dd/d35/a29653.html#a14a4d9b5383da24bc1ad9754cdfa2183", null ],
+    [ "GetBuildInfo", "dd/d35/a29653.html#a0f7136cb280d2461b1ec0d080645c6e0", null ],
+    [ "GetRealm", "dd/d35/a29653.html#a3e25e63168bcff88d021294559ccf0c5", null ],
+    [ "GetRealms", "dd/d35/a29653.html#afc2cbe2a4ee4d9870821dbe8d96e8fa4", null ],
+    [ "Initialize", "dd/d35/a29653.html#a70954d518dc4559e0aca0388f13db411", null ],
+    [ "Instance", "dd/d35/a29653.html#aea053134fe293fbd4a8801b25fbb44ca", null ],
+    [ "LoadBuildInfo", "dd/d35/a29653.html#a1f8866e57557beb7d69037a63e34428d", null ],
+    [ "UpdateRealm", "dd/d35/a29653.html#ae15cf59b00e8e8e561f266d5dd3e11ae", null ],
+    [ "UpdateRealms", "dd/d35/a29653.html#a0b4559e5538a02ccf5247839005d602e", null ],
+    [ "_builds", "dd/d35/a29653.html#a7c38c3c8b4fe6554c66dbc5ada26a3e0", null ],
+    [ "_realms", "dd/d35/a29653.html#a41693a01cd88ea99b54dd9ca8fe6b445", null ],
+    [ "_resolver", "dd/d35/a29653.html#a1beee0fdd1a9e61f68db925f53d373a9", null ],
+    [ "_updateInterval", "dd/d35/a29653.html#ac07fe3cd4fc18169af4f63b207902e95", null ],
+    [ "_updateTimer", "dd/d35/a29653.html#a5619be8a2649680901cfd7a3608e984a", null ]
 ];

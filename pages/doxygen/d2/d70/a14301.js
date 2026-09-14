@@ -1,6 +1,7 @@
 var a14301 =
 [
-    [ "npc_andorhal_towerAI", "de/db3/a14305.html", "de/db3/a14305" ],
-    [ "npc_andorhal_tower", "d2/d70/a14301.html#abf63419b6c10af47f5e5df1a4e7320e7", null ],
-    [ "GetAI", "d2/d70/a14301.html#a51139c28da736d26bf27a061862d24ee", null ]
+    [ "o", "d2/d70/a14301.html#a455ab33d372dd2aeac9d591f3cce1013", null ],
+    [ "x", "d2/d70/a14301.html#a49ad07d6ecb902ae4818923a6414f3c1", null ],
+    [ "y", "d2/d70/a14301.html#a45ec9c234e9d909eb8fcc0db6e0d641e", null ],
+    [ "z", "d2/d70/a14301.html#abf42d988d416ebe409100c4b860d26db", null ]
 ];

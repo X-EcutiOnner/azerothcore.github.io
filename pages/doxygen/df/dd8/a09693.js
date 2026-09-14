@@ -1,9 +1,13 @@
 var a09693 =
 [
-    [ "PlayerSearcher", "df/dd8/a09693.html#a7247fcab3841996ed5d699696fb21557", null ],
-    [ "Visit", "df/dd8/a09693.html#ab2544b79869ba4de9772b1bff7c40704", null ],
-    [ "Visit", "df/dd8/a09693.html#abdb4dfeb80101e9e4bf0e46cab5a1f7b", null ],
-    [ "i_check", "df/dd8/a09693.html#a58c24b81eec33c9ba8fe8145ee3679b4", null ],
-    [ "i_object", "df/dd8/a09693.html#a70b071a2fccb4ff29fd614d1447e87ad", null ],
-    [ "i_phaseMask", "df/dd8/a09693.html#a6dd83612b7f0d00035a7efb8d970afc6", null ]
+    [ "WorldObjectWorker", "df/dd8/a09693.html#a15dd68579f1a92f015cfac8577db7422", null ],
+    [ "Visit", "df/dd8/a09693.html#ae264461e49602fd0b8a17e30ed554c64", null ],
+    [ "Visit", "df/dd8/a09693.html#a3021825347d132f1368a77d29a8318df", null ],
+    [ "Visit", "df/dd8/a09693.html#a7b7869c7d151e8abc924f517ecfdef82", null ],
+    [ "Visit", "df/dd8/a09693.html#a7de6ea339a8113d242dd099ca4d36927", null ],
+    [ "Visit", "df/dd8/a09693.html#a29196fa36ce32a0cec68d0d67372a400", null ],
+    [ "Visit", "df/dd8/a09693.html#a17097541c49264c15ebfe474f54aeca2", null ],
+    [ "i_do", "df/dd8/a09693.html#aa16ce8cce21d4590ef6612e14fb48919", null ],
+    [ "i_mapTypeMask", "df/dd8/a09693.html#a6f8e447b9693154f56ce010869acadb9", null ],
+    [ "i_phaseMask", "df/dd8/a09693.html#affa6245985c5d271900be12104ab6bb6", null ]
 ];

@@ -1,11 +1,6 @@
 var a23205 =
 [
-    [ "boss_fathomlord_karathress", "db/d7d/a23205.html#a05c483ea61011926c260b43f6c01cac3", null ],
-    [ "DoAction", "db/d7d/a23205.html#adc5685244341e353c6dac67b0191d877", null ],
-    [ "JustDied", "db/d7d/a23205.html#a4c356359be50b626a28fab4a803386f8", null ],
-    [ "JustEngagedWith", "db/d7d/a23205.html#ae221d994f2ebb0a298288233727ea1ba", null ],
-    [ "JustReachedHome", "db/d7d/a23205.html#a1e03da049ad75a464de5dd15ac5e6d88", null ],
-    [ "JustSummoned", "db/d7d/a23205.html#a3a692ef94d555e991a7cd34dee9812d9", null ],
-    [ "KilledUnit", "db/d7d/a23205.html#a02812a3cc7de22348058dedd107bb6d0", null ],
-    [ "Reset", "db/d7d/a23205.html#a52f76cb43a32c5f59cbc7476f0df8646", null ]
+    [ "HandleScriptEffect", "db/d7d/a23205.html#a0810dd4ad4d324c1a53e192fc99d1d35", null ],
+    [ "PrepareSpellScript", "db/d7d/a23205.html#a0ece61d7bed3e19ee6f6175a55c0733d", null ],
+    [ "Register", "db/d7d/a23205.html#a827cefe322562f0e8ea7cfa58b9a776b", null ]
 ];

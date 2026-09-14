@@ -1,7 +1,7 @@
 var a14397 =
 [
-    [ "OnPeriodic", "d8/d9c/a14397.html#aa541a8bc034517d1f5d034ac51bd8dac", null ],
-    [ "PrepareAuraScript", "d8/d9c/a14397.html#abc166e4dc33e7bffd1d53c2ef8272efa", null ],
-    [ "Register", "d8/d9c/a14397.html#a60313d4ba992b1dc81e7cdae942f1b3d", null ],
-    [ "Validate", "d8/d9c/a14397.html#a7ed214de6769314a45540e9afdb82949", null ]
+    [ "FilterTargets", "d8/d9c/a14397.html#aebe9055301495dd3a21736b9a2a35f31", null ],
+    [ "HandleDamageCalc", "d8/d9c/a14397.html#aa28bc0b1824d3d0825135fcd88057dfe", null ],
+    [ "PrepareSpellScript", "d8/d9c/a14397.html#a03b8e21e58988d9fc774205263c0817f", null ],
+    [ "Register", "d8/d9c/a14397.html#aeba1ceddd5b6fcd951e6ac789b50c5a5", null ]
 ];

@@ -1,14 +1,17 @@
 var a17737 =
 [
-    [ "npc_ball_of_flameAI", "d3/d36/a17737.html#a90314990bc6404bf2a4005bb94213926", null ],
-    [ "AttackStart", "d3/d36/a17737.html#a34d51c96005f620c0010948acb6c89ec", null ],
-    [ "DamageDealt", "d3/d36/a17737.html#ac2d36bc12bb86c329721a2af224d037f", null ],
-    [ "DoAction", "d3/d36/a17737.html#ac589db56562987de5bbed27a2bead49f", null ],
-    [ "MoveInLineOfSight", "d3/d36/a17737.html#a7bb96de89b9dc6b6f97443e9aec3ad61", null ],
-    [ "MovementInform", "d3/d36/a17737.html#ab18870c29224fc3fa5e7b76c1aa981f4", null ],
-    [ "SetGUID", "d3/d36/a17737.html#ab82ac6ffc7f946428c26f5bd6585f95c", null ],
-    [ "_chaseGUID", "d3/d36/a17737.html#a30dc40f8922f8f34d6ad7ec3053413e4", null ],
-    [ "_exploded", "d3/d36/a17737.html#a724de41f7b14755d704d5de335da380b", null ],
-    [ "_instance", "d3/d36/a17737.html#af5d8717572176409eca01ae214910c7f", null ],
-    [ "_started", "d3/d36/a17737.html#a508a5e3f0acafa98956bba6eb41f28fb", null ]
+    [ "instance_gundrak_InstanceMapScript", "d3/d36/a17737.html#aab01abeae0f8df7c74c65c689c3c9f30", null ],
+    [ "Initialize", "d3/d36/a17737.html#a680e2b0263e64f4f0b0a71f011199202", null ],
+    [ "OnGameObjectCreate", "d3/d36/a17737.html#a03ace9a6ac87deb8c9d1f358e67697d1", null ],
+    [ "OnGameObjectRemove", "d3/d36/a17737.html#a816e18bd1725e9deaa9e50521ddd3c05", null ],
+    [ "OnUnitDeath", "d3/d36/a17737.html#a2d17fee7344a23b9bf6c47ee10f1e436", null ],
+    [ "SetBossState", "d3/d36/a17737.html#a2b703178ee848ebb7ab750d7560a7b1e", null ],
+    [ "SetData", "d3/d36/a17737.html#a39611dead845510e26b16e8eb54114a2", null ],
+    [ "Update", "d3/d36/a17737.html#a50b5e4d1ff3baf4698483f47828ee492", null ],
+    [ "_activateTimer", "d3/d36/a17737.html#a4457a3506a587d7337042eb489b441dc", null ],
+    [ "_bridgeGUIDs", "d3/d36/a17737.html#a3ed3ada72ca634b0888f182a93c9e657", null ],
+    [ "_drakkariAltarGUID", "d3/d36/a17737.html#a8e34281d52ac3199b90e1971899db6b1", null ],
+    [ "_keysInCount", "d3/d36/a17737.html#a9b014cab41720868f61028ef201cadaa", null ],
+    [ "_moorabiAltarGUID", "d3/d36/a17737.html#a39875572cef853eb3d3f624366e3f93f", null ],
+    [ "_sladRanAltarGUID", "d3/d36/a17737.html#a93b651e93e28c63272a8d06d0c521aef", null ]
 ];

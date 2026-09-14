@@ -1,7 +1,6 @@
 var a14341 =
 [
-    [ "FilterTargets", "dd/d86/a14341.html#aebe9055301495dd3a21736b9a2a35f31", null ],
-    [ "HandleDamageCalc", "dd/d86/a14341.html#aa28bc0b1824d3d0825135fcd88057dfe", null ],
-    [ "PrepareSpellScript", "dd/d86/a14341.html#a03b8e21e58988d9fc774205263c0817f", null ],
-    [ "Register", "dd/d86/a14341.html#aeba1ceddd5b6fcd951e6ac789b50c5a5", null ]
+    [ "npc_lady_sylvanas_windrunner_bfuAI", "d4/da9/a14345.html", "d4/da9/a14345" ],
+    [ "npc_lady_sylvanas_windrunner_bfu", "dd/d86/a14341.html#a77e98bc345f7d27f145d4b29c4deb58e", null ],
+    [ "GetAI", "dd/d86/a14341.html#a94fdd0778818fcc6a8b818d38dde6f75", null ]
 ];

@@ -1,11 +1,8 @@
 var a24721 =
 [
-    [ "HandleAfterHit", "dd/dac/a24721.html#a3cfb75da66372934ba5aaa1c9ad6c6f3", null ],
-    [ "HandleDummy", "dd/dac/a24721.html#abb3f92850fa6fff94c682b990c361fe6", null ],
-    [ "Load", "dd/dac/a24721.html#ae5900d64c9b9b2de48c494458d4bed8b", null ],
-    [ "PrepareSpellScript", "dd/dac/a24721.html#adea0e24654cd87b3aee07ce2183b9517", null ],
-    [ "Register", "dd/dac/a24721.html#a3e155e336d6a5a6a4d44eae422ef7939", null ],
-    [ "Validate", "dd/dac/a24721.html#a28bb9111c8e5116a82d4e54b7eacb92b", null ],
-    [ "guid", "dd/dac/a24721.html#a6e177d68e1d39dcb27e6643d267328a5", null ],
-    [ "multiplier", "dd/dac/a24721.html#a04ed6aae0ea28a4f1b7c1ed5f4f73a0b", null ]
+    [ "CheckCast", "dd/dac/a24721.html#a94851a2b6a62138e28466317e9e88480", null ],
+    [ "HandleDummy", "dd/dac/a24721.html#a970684d219c99519512c437a8efd8d43", null ],
+    [ "PrepareSpellScript", "dd/dac/a24721.html#a39b726e6c5809a6f8100970e8b71fc71", null ],
+    [ "Register", "dd/dac/a24721.html#a7acf718f0a1109d384fd2b9dd23ca62c", null ],
+    [ "Validate", "dd/dac/a24721.html#a59cca008a97447e257bf24071301b366", null ]
 ];

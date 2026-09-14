@@ -1,4 +1,4 @@
 var a00842 =
 [
-    [ "CommandScript", "d1/d64/a10753.html", "d1/d64/a10753" ]
+    [ "ScriptRegistry< VehicleScript >", "d0/d11/a00842.html#af505a519aaa0d7e6070eb203075ff98d", null ]
 ];

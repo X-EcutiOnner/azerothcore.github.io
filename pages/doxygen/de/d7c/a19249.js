@@ -1,6 +1,7 @@
 var a19249 =
 [
-    [ "HandleScript", "de/d7c/a19249.html#a33f15ecf0c0ff013d03742cb2130f372", null ],
-    [ "PrepareSpellScript", "de/d7c/a19249.html#ab3a832cf53f4438db0d9e58b89c0ef7f", null ],
-    [ "Register", "de/d7c/a19249.html#ad0c6d34103244cded41481c745dafe58", null ]
+    [ "OnApply", "de/d7c/a19249.html#a5f62c11ef96edbf6f2906bd5f41109d5", null ],
+    [ "OnRemove", "de/d7c/a19249.html#a697a7c76f944b5df956a9de07746b7a9", null ],
+    [ "PrepareAuraScript", "de/d7c/a19249.html#a338d0fa22368d01fe7523b7cc1acea4b", null ],
+    [ "Register", "de/d7c/a19249.html#ab915b3ede10526b3e7ccbe33f2568fae", null ]
 ];

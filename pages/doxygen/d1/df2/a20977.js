@@ -1,6 +1,8 @@
 var a20977 =
 [
-    [ "x", "d1/df2/a20977.html#ae4223168378b602a0a96dbb424a22be4", null ],
-    [ "y", "d1/df2/a20977.html#a30f361d8104e4de44541d75945105963", null ],
-    [ "z", "d1/df2/a20977.html#ae68a79519c35302b89976ac29bb77e26", null ]
+    [ "npc_life_spark", "d1/df2/a20977.html#a76bbbdc610dbc433007930c7a45d03be", null ],
+    [ "JustEngagedWith", "d1/df2/a20977.html#af4111bf747f0d5c510f72f32d42f90e3", null ],
+    [ "Reset", "d1/df2/a20977.html#a3c5b0ee2fac3bc444cc3c58e70284b72", null ],
+    [ "UpdateAI", "d1/df2/a20977.html#a3dffda7a220e41302b928f55995d4dce", null ],
+    [ "_scheduler", "d1/df2/a20977.html#a7e77d71508031a75655db8aaa34d0f9d", null ]
 ];

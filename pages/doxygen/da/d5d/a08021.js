@@ -1,8 +1,6 @@
 var a08021 =
 [
-    [ "SearchMap", "da/d5d/a08021.html#a21bc680abec11928000923003bbad93f", null ],
-    [ "MakeSearchMap", "da/d5d/a08021.html#a8dc3337ff2ed1427fa9efdf35e458d7d", null ],
-    [ "Match", "da/d5d/a08021.html#a9f447ee626e80d616c304a4d07f25987", null ],
-    [ "TryConsume", "da/d5d/a08021.html#ac5bc3cde0205d8a1b200989cf6eb09cb", null ],
-    [ "_map", "da/d5d/a08021.html#a97e69e0044967ebb5369bfa0f46bd7bf", null ]
+    [ "value_type", "da/d5d/a08021.html#adbfeb8f2823f763fdae25b87fbbdcfbf", null ],
+    [ "operator()", "da/d5d/a08021.html#abeff0e73688ad4745201c5d817f7a442", null ],
+    [ "operator()", "da/d5d/a08021.html#a8ee9220d4226b4dd028f3f9c438f34ba", null ]
 ];

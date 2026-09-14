@@ -1,6 +1,6 @@
 var a12145 =
 [
-    [ "EffectProcHandler", "d2/db2/a12145.html#a613d5e85c3a7449e4f31719966dcdcc1", null ],
-    [ "Call", "d2/db2/a12145.html#ae03d27451f687319629b3c54c5a7eed5", null ],
-    [ "_EffectHandlerScript", "d2/db2/a12145.html#a8cb9ec4cfee59bc44063ac5cbf25844f", null ]
+    [ "EffectBase", "d2/db2/a12145.html#ab02f9f344e2f32ad59b35993d5c8f819", null ],
+    [ "CheckEffect", "d2/db2/a12145.html#a8c300ca68c3ff6f74b230835c566fd60", null ],
+    [ "ToString", "d2/db2/a12145.html#ab6f5b2a7ec1183206110eac9a21a7de5", null ]
 ];

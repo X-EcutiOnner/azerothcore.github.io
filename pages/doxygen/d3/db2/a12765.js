@@ -1,7 +1,13 @@
 var a12765 =
 [
-    [ "boss_okthor", "d3/db2/a12765.html#a10c5868b555e6f7edc11de179eccb151", null ],
-    [ "JustEngagedWith", "d3/db2/a12765.html#a40909de030f186531a8cfe1993b6aa40", null ],
-    [ "UpdateAI", "d3/db2/a12765.html#ab63a797da2b3f93da32b078b9731b1de", null ],
-    [ "_nextArcaneExplosionTime", "d3/db2/a12765.html#aa7c9edda4aee7ed257b3cb1334c4e899", null ]
+    [ "npc_rocknot", "d3/db2/a12765.html#a890eaac55162130b05c7d2dba26cc872", null ],
+    [ "DoGo", "d3/db2/a12765.html#a242e871de8e19462fcab6fb9eae1039e", null ],
+    [ "Reset", "d3/db2/a12765.html#afaa1977f370fe699c75ebb83c0d291dd", null ],
+    [ "sQuestReward", "d3/db2/a12765.html#a633123eb64bd6d46ace12fd0e1853aef", null ],
+    [ "UpdateAI", "d3/db2/a12765.html#a15755c98f937784f538d547b15c2d192", null ],
+    [ "WaypointReached", "d3/db2/a12765.html#a3711cae23b14dcce2ac1938aaeb9b961", null ],
+    [ "WaypointReached", "d3/db2/a12765.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_breakDoorTimer", "d3/db2/a12765.html#a44955a4ef0e730f72848e582892380b5", null ],
+    [ "_breakKegTimer", "d3/db2/a12765.html#ad6e48e6f81521b89da9f528e079c1c90", null ],
+    [ "instance", "d3/db2/a12765.html#a71e6532128131a10aae575d1bac023d0", null ]
 ];

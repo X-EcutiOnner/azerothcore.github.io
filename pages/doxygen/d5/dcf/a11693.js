@@ -1,6 +1,5 @@
 var a11693 =
 [
-    [ "WorldSession", "d5/dcf/a11693.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
-    [ "Guid", "d5/dcf/a11693.html#a46a89b6904e59f39f4e1460a9bb45765", null ],
-    [ "Name", "d5/dcf/a11693.html#a4e747a555bde74f97a5fc78287e5e29d", null ]
+    [ "QuestGiverQuestAutoLaunch", "d5/dcf/a11693.html#a802f7bba88a650bc577cfc1fa29cb016", null ],
+    [ "Read", "d5/dcf/a11693.html#a8e5d0c7821d7055fd7ad9f3f83589f57", null ]
 ];

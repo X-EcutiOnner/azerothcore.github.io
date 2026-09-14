@@ -1,8 +1,6 @@
 var a28745 =
 [
-    [ "npc_cultist_engineer", "dd/d69/a28745.html#a02675a96d20902d147b0370fa1715d81", null ],
-    [ "JustDied", "dd/d69/a28745.html#a4b4d561f827553998caa204e0e1b9e54", null ],
-    [ "Reset", "dd/d69/a28745.html#a6f84d224a959c06fbb7a48197dd4cbdd", null ],
-    [ "sGossipSelect", "dd/d69/a28745.html#ab26d124cbfdc4d649fef6058e9637845", null ],
-    [ "UpdateAI", "dd/d69/a28745.html#a47b1b08959b8cd02ba92fcf3a55e32d2", null ]
+    [ "npc_stable_masterAI", "d3/d0b/a28749.html", "d3/d0b/a28749" ],
+    [ "npc_stable_master", "dd/d69/a28745.html#ad327340f47e10bec7f077192227b0899", null ],
+    [ "GetAI", "dd/d69/a28745.html#a7e34e18d2dad465eb88b0388fa830490", null ]
 ];

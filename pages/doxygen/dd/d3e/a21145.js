@@ -1,5 +1,6 @@
 var a21145 =
 [
-    [ "achievement_yogg_saron_drive_me_crazy", "dd/d3e/a21145.html#a381d8fd2e7b4806181959a1b915f3a8c", null ],
-    [ "OnCheck", "dd/d3e/a21145.html#a029fdd68e0643b53971efbb1056f19d8", null ]
+    [ "FilterTargets", "dd/d3e/a21145.html#a7efa78a7991b7ca859c7d622f973265d", null ],
+    [ "PrepareSpellScript", "dd/d3e/a21145.html#a67da98b94fe491afa06b7a0cfa92982a", null ],
+    [ "Register", "dd/d3e/a21145.html#a4d2c901a32f526673e968aa5b7ca9117", null ]
 ];

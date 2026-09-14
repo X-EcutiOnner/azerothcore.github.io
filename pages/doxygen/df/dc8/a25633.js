@@ -1,5 +1,6 @@
 var a25633 =
 [
-    [ "PrepareSpellScript", "df/dc8/a25633.html#a800936a311c05236dbd0c9c2f0edd5d9", null ],
-    [ "Register", "df/dc8/a25633.html#ae176a1f643797b5367a593bbb2acc506", null ]
+    [ "HandleDamageCalc", "df/dc8/a25633.html#a1d0c86e476e4ef75f4e8f2ff27fdd395", null ],
+    [ "PrepareSpellScript", "df/dc8/a25633.html#a4271f026fd9cddeb109761e9b864c381", null ],
+    [ "Register", "df/dc8/a25633.html#a03bb4cf19328efa783600273663b609a", null ]
 ];

@@ -1,7 +1,7 @@
 var a27121 =
 [
-    [ "CheckTarget", "d9/deb/a27121.html#abaef73201d2e0bd1d6789309442019e0", null ],
-    [ "HandleScriptEffect", "d9/deb/a27121.html#a545196cd976bfabbd85ba48942012e1e", null ],
-    [ "PrepareSpellScript", "d9/deb/a27121.html#add5c1ecaa5a75af6e91a0df5d63bbc42", null ],
-    [ "Register", "d9/deb/a27121.html#a36563a197b7377660b7c3f9e85d478bd", null ]
+    [ "HandleProc", "d9/deb/a27121.html#ac65d59f4632194120b58b34561f2c812", null ],
+    [ "PrepareAuraScript", "d9/deb/a27121.html#ac9ab849c618fb1172dbde50876a4f5f3", null ],
+    [ "Register", "d9/deb/a27121.html#aea263594afe1d0e2fe3fac906dfb7e4e", null ],
+    [ "Validate", "d9/deb/a27121.html#afe98e7e6dfbe3bcdaaa353e608dc69d6", null ]
 ];

@@ -1,6 +1,6 @@
 var a27969 =
 [
-    [ "HandleScript", "d6/dcb/a27969.html#ab2bad52272a5cd7167a7601fdfa02b1d", null ],
-    [ "PrepareSpellScript", "d6/dcb/a27969.html#a60454f2c1ba8d1ea160350b5e02bf56d", null ],
-    [ "Register", "d6/dcb/a27969.html#a22b9877e2cd27c925ae7b351d3d6f41b", null ]
+    [ "HandleCast", "d6/dcb/a27969.html#ac6afa94be0da1f99b12afebe935bcb5d", null ],
+    [ "PrepareSpellScript", "d6/dcb/a27969.html#aa784c7af6fe38069fca4dcff9a09a22b", null ],
+    [ "Register", "d6/dcb/a27969.html#a81bc86c83ffc70602410912870e61700", null ]
 ];

@@ -1,9 +1,9 @@
 var a09629 =
 [
-    [ "InserterType", "d3/d0c/a09629.html#a8ea29aedfb1eaf2b3eac29bc61849319", null ],
-    [ "ContainerInserter", "d3/d0c/a09629.html#a44cd545e2965b309c48d40f4617bc38e", null ],
-    [ "Insert", "d3/d0c/a09629.html#af482d9f7940d548193fc56839bc2cb87", null ],
-    [ "InserterOf", "d3/d0c/a09629.html#a003318d4ec066ca45d79ec5b669cdb8c", null ],
-    [ "inserter", "d3/d0c/a09629.html#ac10b2769f02687260efd531af666fbb3", null ],
-    [ "ref", "d3/d0c/a09629.html#a60d4a9120523c28d8c408c981305535e", null ]
+    [ "LiquidData", "d3/d0c/a09629.html#ac2435178323f480d2dae449b49b39146", null ],
+    [ "DepthLevel", "d3/d0c/a09629.html#ad84c7763a6253db7ae6117ecc7144f1d", null ],
+    [ "Entry", "d3/d0c/a09629.html#abfed22cb0e920067c0f86a0083ef4ab6", null ],
+    [ "Flags", "d3/d0c/a09629.html#aa0903ec4233bcfa34494cea5068cd19c", null ],
+    [ "Level", "d3/d0c/a09629.html#a7c596e921e383bbdbdacbcd4307fe380", null ],
+    [ "Status", "d3/d0c/a09629.html#acb79cdfb4221f158ce9b29127591a8a9", null ]
 ];

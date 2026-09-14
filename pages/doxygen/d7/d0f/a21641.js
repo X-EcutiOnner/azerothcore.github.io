@@ -1,10 +1,8 @@
 var a21641 =
 [
-    [ "npc_imprisoned_beryl_sorcererAI", "d7/d0f/a21641.html#a0a8159a84689dbfd8c69ed523ce03817", null ],
-    [ "GotStinged", "d7/d0f/a21641.html#a0729c584c3b65e5f25f4445de378f0ea", null ],
-    [ "JustEngagedWith", "d7/d0f/a21641.html#a2f3e45b3f762ede62aa94a6ae3f2909f", null ],
-    [ "Reset", "d7/d0f/a21641.html#aedc82ee3bfa193a838d5af62533e19b4", null ],
-    [ "SpellHit", "d7/d0f/a21641.html#a2010b53b3a8ad1e0aa6ecb5a26c8b6c9", null ],
-    [ "UpdateAI", "d7/d0f/a21641.html#a21def23073eeec051c1c97a813e0ea84", null ],
-    [ "rebuff", "d7/d0f/a21641.html#ac83c25091fdd3c7876a88927b758261f", null ]
+    [ "npc_azure_sorceror", "d7/d0f/a21641.html#afd53ae322f8387b5e5fe55e28612ce2f", null ],
+    [ "Reset", "d7/d0f/a21641.html#af4bc0ff9b938302c399bff528dd06769", null ],
+    [ "UpdateAI", "d7/d0f/a21641.html#a36675e89aab24a92589a33f88fbec2bd", null ],
+    [ "_arcaneStreamOnCooldown", "d7/d0f/a21641.html#a462d57b8e8cd01a9ec1bd59a453f6ab5", null ],
+    [ "_events", "d7/d0f/a21641.html#a3bd018057b31c90afd19ac6943d44591", null ]
 ];

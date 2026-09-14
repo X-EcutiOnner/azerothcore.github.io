@@ -1,7 +1,6 @@
 var a23569 =
 [
-    [ "OnApply", "dc/dc3/a23569.html#a301e47da9be4b4a449701c59c19bc62b", null ],
-    [ "PrepareAuraScript", "dc/dc3/a23569.html#a623bf9442a4a2b046d1d89bc2523eb37", null ],
-    [ "Register", "dc/dc3/a23569.html#aaf38547f7fa233b03429734dbe374f13", null ],
-    [ "Validate", "dc/dc3/a23569.html#ac390e2e24d9a85635ced5eaa343b8e09", null ]
+    [ "HandlePeriodic", "dc/dc3/a23569.html#af6c30bb292a69d5eaaaf75c8a76111ea", null ],
+    [ "PrepareAuraScript", "dc/dc3/a23569.html#a75515896f3d94d227963a3c5258e2d0d", null ],
+    [ "Register", "dc/dc3/a23569.html#aeacb1ffc287cc7128366ee0484c2994b", null ]
 ];

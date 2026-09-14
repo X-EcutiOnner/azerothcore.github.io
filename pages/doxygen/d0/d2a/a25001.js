@@ -1,7 +1,7 @@
 var a25001 =
 [
-    [ "HandleProc", "d0/d2a/a25001.html#a8cdacf8f2562c0c35fafaa24ac9d18c2", null ],
-    [ "PrepareAuraScript", "d0/d2a/a25001.html#a9cc42ed6528e9e6dd253808c59286e02", null ],
-    [ "Register", "d0/d2a/a25001.html#a3d4b8bfcc77087533d9bb1b1d5f6f637", null ],
-    [ "Validate", "d0/d2a/a25001.html#abe19ae79c5bf1b0104cc3bc16570853a", null ]
+    [ "FilterTargets", "d0/d2a/a25001.html#a9abf4baaba572636dba3980e5ae777c5", null ],
+    [ "Load", "d0/d2a/a25001.html#a812e4e461c0ebed6f7c4cc36e88a3367", null ],
+    [ "PrepareSpellScript", "d0/d2a/a25001.html#a4e98fbf669c030263ed2e5759a5bd6e8", null ],
+    [ "Register", "d0/d2a/a25001.html#a2d72f5771d6563260a6e81122e4a2be5", null ]
 ];

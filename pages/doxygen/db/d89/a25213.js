@@ -1,6 +1,6 @@
 var a25213 =
 [
-    [ "HandleEffectPeriodicUpdate", "db/d89/a25213.html#a554353fede78b89bf488230254d7892b", null ],
-    [ "PrepareAuraScript", "db/d89/a25213.html#adf20aaafff83bae614ff3c614a08a54b", null ],
-    [ "Register", "db/d89/a25213.html#a6ee55cc41f7b69fc12bb3dc6c7fcbaf5", null ]
+    [ "PrepareAuraScript", "db/d89/a25213.html#a8a60db6939ba71ddcf723fb4e48b3146", null ],
+    [ "Register", "db/d89/a25213.html#a8ab913cf84f55428d2b0615172f3da3b", null ],
+    [ "AuraEffectHandleModes", "db/d89/a25213.html#aed1cfe63d82450b526e154678fb97ac4", null ]
 ];

@@ -1,6 +1,7 @@
 var a18485 =
 [
-    [ "npc_ice_tombAI", "d9/d0d/a18489.html", "d9/d0d/a18489" ],
-    [ "npc_ice_tomb", "d6/d76/a18485.html#a939c6083a77a6f4cb2a940ec9c1df55e", null ],
-    [ "GetAI", "d6/d76/a18485.html#ac99b7c9887e54a1764310bd3e079811a", null ]
+    [ "HandleScript", "d6/d76/a18485.html#a37b261d0df2829788d8290a9194913f5", null ],
+    [ "PrepareSpellScript", "d6/d76/a18485.html#a69386dbef57322393a38eec90662135f", null ],
+    [ "Register", "d6/d76/a18485.html#a5b85b01100d7f7c672c437e4bdfd7a7c", null ],
+    [ "Validate", "d6/d76/a18485.html#a63c446574c700a895d7fbc5bb2b81508", null ]
 ];

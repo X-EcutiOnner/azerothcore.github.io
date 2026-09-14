@@ -1,7 +1,6 @@
 var a28797 =
 [
-    [ "go_transport_westguard_zeppelin", "d8/d49/a28797.html#a032592597c9f192c7bed3346f16b86af", null ],
-    [ "EventInform", "d8/d49/a28797.html#aae1586c93b91c6bcaea9856f68501673", null ],
-    [ "UpdateAI", "d8/d49/a28797.html#ae82957101b74e49a1a754a259c89435f", null ],
-    [ "_scheduler", "d8/d49/a28797.html#ac62f5a3d0494a18bfee9e8cd02f03959", null ]
+    [ "npc_necropolis_proxy", "d8/d49/a28797.html#a73f92ee73673172989d48064e5984db0", null ],
+    [ "SpellHit", "d8/d49/a28797.html#a90d1ab55683a6409403e24291643cca5", null ],
+    [ "SpellHitTarget", "d8/d49/a28797.html#a79ee941ff32f8bbb1b93242f46a91c1a", null ]
 ];

@@ -1,8 +1,6 @@
 var a24281 =
 [
-    [ "CreatureId", "dc/dad/a24281.html#a127341c70f8785ceb556b1c11b23f477", null ],
-    [ "SpawnCount", "dc/dad/a24281.html#ad51fb68e41e04490f658a4c4f62612bd", null ],
-    [ "SpawnTimer", "dc/dad/a24281.html#aa57ff686c5fde12269e231333d8a8bef", null ],
-    [ "UsedSpawnPoint", "dc/dad/a24281.html#a2d5f42a6b1a309c8db74febcedf457eb", null ],
-    [ "YellTimer", "dc/dad/a24281.html#a6346259269af7f2936f959f87288dd69", null ]
+    [ "CheckCast", "dc/dad/a24281.html#ae13cc2d3da1c9911c88402d05679d447", null ],
+    [ "PrepareSpellScript", "dc/dad/a24281.html#afbed81273aa23d355c64579c71e9761d", null ],
+    [ "Register", "dc/dad/a24281.html#a7157d04dfc534aa3cb88e8dff169c676", null ]
 ];

@@ -1,15 +1,9 @@
 var a16577 =
 [
-    [ "npc_onyx_flamecallerAI", "dc/dd9/a16577.html#aa0633855e57f6681cfc68a8dfee9a733", null ],
-    [ "AddWaypoints", "dc/dd9/a16577.html#a308b99ee4d07ed1de0cabd94dafd5dd8", null ],
-    [ "EnterEvadeMode", "dc/dd9/a16577.html#ac29163e2e69cffbf21249eb3828b5b72", null ],
-    [ "IsSummonedBy", "dc/dd9/a16577.html#afc6c4faffd83b2fa4ddbb4ae78b622d9", null ],
-    [ "JustEngagedWith", "dc/dd9/a16577.html#a3cba2cd9a920816bee993ae2986639a0", null ],
-    [ "Reset", "dc/dd9/a16577.html#a756a44feb79eb56f443ee16995a2566d", null ],
-    [ "UpdateEscortAI", "dc/dd9/a16577.html#aab57193b332fdde2dd237a9cb15a06c1", null ],
-    [ "WaypointReached", "dc/dd9/a16577.html#a8b510bce47929e85741f5debd857de8d", null ],
-    [ "WaypointReached", "dc/dd9/a16577.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "_events", "dc/dd9/a16577.html#a9280b604135308078860c20667da9819", null ],
-    [ "_instance", "dc/dd9/a16577.html#a3fb01e6a8df3b8205f494f03faf8ace8", null ],
-    [ "_lavaGoutCount", "dc/dd9/a16577.html#a1f46c988316c1870f506a66f2390e79b", null ]
+    [ "instance_obsidian_sanctum_InstanceMapScript", "dc/dd9/a16577.html#a17e64475b7433b3dc0d87028c11c9c7f", null ],
+    [ "CheckAchievementCriteriaMeet", "dc/dd9/a16577.html#a62a5603b9063b4cbb773eb177aa2d0bc", null ],
+    [ "DoAction", "dc/dd9/a16577.html#abc08b37f23721ff2ce7a6662605a66ab", null ],
+    [ "GetGuidData", "dc/dd9/a16577.html#a01da8216f57e19b5bf8697700089118c", null ],
+    [ "m_uiPortalGUID", "dc/dd9/a16577.html#a166db22fd409d0387085053852e5ad30", null ],
+    [ "portalCount", "dc/dd9/a16577.html#ab7cec8a8a80713e436e4e4e80c5c1383", null ]
 ];

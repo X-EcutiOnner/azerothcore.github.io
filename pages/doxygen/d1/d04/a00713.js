@@ -1,4 +1,4 @@
 var a00713 =
 [
-    [ "ScriptRegistry< AllCreatureScript >", "d1/d04/a00713.html#a1fdf1f4f0e165d771b9e1e9064529256", null ]
+    [ "ScriptRegistry< BattlefieldScript >", "d1/d04/a00713.html#a66e07787094ffe5d2156ad0768c6dd4e", null ]
 ];

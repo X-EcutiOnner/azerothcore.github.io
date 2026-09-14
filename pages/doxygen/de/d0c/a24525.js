@@ -1,5 +1,8 @@
 var a24525 =
 [
-    [ "npc_pet_pri_lightwell", "de/d0c/a24525.html#aebeb192e66c7d5b4201cbaa81d46703c", null ],
-    [ "InitializeAI", "de/d0c/a24525.html#a5244bcfab27ccad603f80c6f2b2fcd3a", null ]
+    [ "npc_pet_gen_gnomish_flame_turret", "de/d0c/a24525.html#a6e79c0ad6219d0beb23cfb086e6d3eaf", null ],
+    [ "AttackStart", "de/d0c/a24525.html#a2aab464c099e8e5e760a9ae4f28ac33f", null ],
+    [ "Reset", "de/d0c/a24525.html#a46fe5703a5859d5583e7df3a57b3910a", null ],
+    [ "UpdateAI", "de/d0c/a24525.html#ae3db08323af4b82009ffd660b3e78474", null ],
+    [ "checkTimer", "de/d0c/a24525.html#ac6705f4980ca561a5fd33c2917488439", null ]
 ];

@@ -1,7 +1,7 @@
 var a14145 =
 [
-    [ "HandleScriptEffect", "d9/d29/a14145.html#a1cdba27f7311021407307bcd35235fed", null ],
-    [ "PrepareSpellScript", "d9/d29/a14145.html#a9c97b6702a02fe78e1f6e76d8a00c598", null ],
-    [ "Register", "d9/d29/a14145.html#a9794991aa1710ce37112888eeb572796", null ],
-    [ "Validate", "d9/d29/a14145.html#a1e7c77b45c1abf4aee5491f02d75b6d1", null ]
+    [ "npc_deathstalker_erlandAI", "da/dd9/a14149.html", "da/dd9/a14149" ],
+    [ "npc_deathstalker_erland", "d9/d29/a14145.html#ad49faf068e982f245f0d1e21f0700c40", null ],
+    [ "GetAI", "d9/d29/a14145.html#ab59235f212ddb985056cb8e32719b723", null ],
+    [ "OnQuestAccept", "d9/d29/a14145.html#a81b20bc8c7249a59d69ba63ab32a5f06", null ]
 ];

@@ -1,7 +1,8 @@
 var a24985 =
 [
-    [ "HandleProc", "d0/d2f/a24985.html#affff04bf12559312333c70672dc8407f", null ],
-    [ "PrepareAuraScript", "d0/d2f/a24985.html#aa604bb8cc1fd9d94ee494c7bc96c5a5b", null ],
-    [ "Register", "d0/d2f/a24985.html#ae2ee810101bd32c061c3e06dea99d7cb", null ],
-    [ "Validate", "d0/d2f/a24985.html#afc60c67af40f55b7a0017e5143bb52f7", null ]
+    [ "AfterApply", "d0/d2f/a24985.html#a9c2591beacd941893338109719c03e3f", null ],
+    [ "AfterRemove", "d0/d2f/a24985.html#a0be2a66b615dd926de7073392a8e5062", null ],
+    [ "PrepareAuraScript", "d0/d2f/a24985.html#a4763d0c69c12611244f68ba5a5b1ccce", null ],
+    [ "Register", "d0/d2f/a24985.html#a36fb81d0bf4cf92773db60a70de52dda", null ],
+    [ "Validate", "d0/d2f/a24985.html#a86b51ec85105b0396972f0c3d7b770c1", null ]
 ];

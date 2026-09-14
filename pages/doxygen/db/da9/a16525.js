@@ -1,7 +1,6 @@
 var a16525 =
 [
-    [ "DelayedTalk", "db/da9/a16525.html#a8a7ea9e6ddebd73996cfe8d9723276bc", null ],
-    [ "Execute", "db/da9/a16525.html#a88c1915e73bcbd8ec253a537c416caf7", null ],
-    [ "_owner", "db/da9/a16525.html#a9d13769bb3fbaed32919fc919da35006", null ],
-    [ "_talkId", "db/da9/a16525.html#a3f3a1688a36807c653a5d071dd2bb389", null ]
+    [ "HandleScriptEffect", "db/da9/a16525.html#aaa650972803d14e4d74be977430b04f6", null ],
+    [ "PrepareSpellScript", "db/da9/a16525.html#a1e166c53e2051f3fae1b085a76a08c3f", null ],
+    [ "Register", "db/da9/a16525.html#a3405c1b04f2e623662c7acaa6810278c", null ]
 ];

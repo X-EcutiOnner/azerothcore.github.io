@@ -1,9 +1,6 @@
 var a24117 =
 [
-    [ "npc_ancestral_wolfAI", "da/d0f/a24117.html#a59ccca7093575f4bcac57a4751d977d4", null ],
-    [ "MoveInLineOfSight", "da/d0f/a24117.html#aec5788f0be3c1dcb63b3e61b50ae39c1", null ],
-    [ "Reset", "da/d0f/a24117.html#a9778a1648ca0007f7daf4ee98308d8d2", null ],
-    [ "WaypointReached", "da/d0f/a24117.html#a2b553c29823e5ef888ee02a3ed413386", null ],
-    [ "WaypointReached", "da/d0f/a24117.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "ryga", "da/d0f/a24117.html#ac238214604720e298124b58c35d58e05", null ]
+    [ "npc_deaths_fel_cannonAI", "da/d0f/a24117.html#a29d298bd85c78e2fbf0a4019aa7fbce7", null ],
+    [ "Reset", "da/d0f/a24117.html#a4096d75a98dc8a1c95920710fb48d6ff", null ],
+    [ "UpdateAI", "da/d0f/a24117.html#a942a8b1153b4ae6fde3b474cc909daad", null ]
 ];

@@ -1,9 +1,7 @@
 var a27101 =
 [
-    [ "HandleAfterCast", "d7/d63/a27101.html#ac08e632064c407346649f525d030d335", null ],
-    [ "HandleDummy", "d7/d63/a27101.html#a9c1dadd5a3e2e039b50a414ac589ebf4", null ],
-    [ "Load", "d7/d63/a27101.html#a177525c755b036a79263c0fa6fa4082e", null ],
-    [ "PrepareSpellScript", "d7/d63/a27101.html#aed99b07a53068b19bddb4daff3449a52", null ],
-    [ "Register", "d7/d63/a27101.html#a946e56a325d83656d9b43af80d065e45", null ],
-    [ "_triggerSpellId", "d7/d63/a27101.html#a6697a22b684784853cb1999d41fcaaa7", null ]
+    [ "HandleProc", "d7/d63/a27101.html#af27f9408725ff9c7ec17e8ae352234a9", null ],
+    [ "PrepareAuraScript", "d7/d63/a27101.html#a11c2e125d7a583966be3f8a64064a5ad", null ],
+    [ "Register", "d7/d63/a27101.html#a283f05b3649e3c137679ab92386f7a84", null ],
+    [ "Validate", "d7/d63/a27101.html#a4805c758dc85e065cdb9550a5856fe31", null ]
 ];

@@ -1,8 +1,7 @@
 var a16161 =
 [
-    [ "npc_giltharesAI", "de/d41/a16161.html#af22e42b2180987febd964784b6d49b5e", null ],
-    [ "JustEngagedWith", "de/d41/a16161.html#ae9ba65652db3d2d32920d1a98594727a", null ],
-    [ "Reset", "de/d41/a16161.html#a34d57ef71b60fe71c749f790cecf70b2", null ],
-    [ "WaypointReached", "de/d41/a16161.html#a9308c73760e50e0f3d04031b508526d1", null ],
-    [ "WaypointReached", "de/d41/a16161.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "DelayedWindstoneSummonEvent", "de/d41/a16161.html#aa97daf8cf3479395ffd6558b6699436a", null ],
+    [ "Execute", "de/d41/a16161.html#aa413bc8709bc543b89ffb3df42185475", null ],
+    [ "_playerGUID", "de/d41/a16161.html#ad83bb6d87b569f59e99abcc16517745b", null ],
+    [ "_summon", "de/d41/a16161.html#af9804d276da5daebab3a37f2c75301ea", null ]
 ];

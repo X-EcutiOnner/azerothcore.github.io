@@ -1,8 +1,13 @@
 var a28741 =
 [
-    [ "npc_minion_spawner", "d2/d70/a28741.html#ab49641074ae46f21a3fdc1c2f71396ba", null ],
-    [ "CanSpawnRareMinion", "d2/d70/a28741.html#a007376c8f66a3963651f81ddd14cbbfc", null ],
-    [ "JustSummoned", "d2/d70/a28741.html#a1742c98edca62e3d80a32f33d6ed2f97", null ],
-    [ "Reset", "d2/d70/a28741.html#a0b55c1648c37399ad99d340bdf20cb49", null ],
-    [ "UpdateAI", "d2/d70/a28741.html#a24f93f1314bb73edb369e188eda83104", null ]
+    [ "npc_spring_rabbitAI", "d2/d70/a28741.html#a1211ab47dee4844b90a010c284c4f1a5", null ],
+    [ "DoAction", "d2/d70/a28741.html#a288ddb2f1ee0ab7113f1a1f34dc545c5", null ],
+    [ "JustEngagedWith", "d2/d70/a28741.html#a0c36f1dfc094007990f067544a940538", null ],
+    [ "Reset", "d2/d70/a28741.html#ac0f6b47044099016dd6453674b75b2c8", null ],
+    [ "UpdateAI", "d2/d70/a28741.html#af9da118068234755fa9219b84050d2a3", null ],
+    [ "bunnyTimer", "d2/d70/a28741.html#a99c2923194cf6a07bee8924abf98f470", null ],
+    [ "inLove", "d2/d70/a28741.html#aec8887aedf32fb4ebcc68c48f0ee0ea5", null ],
+    [ "jumpTimer", "d2/d70/a28741.html#a5c17e00187ac87b23482dfbabb89809b", null ],
+    [ "rabbitGUID", "d2/d70/a28741.html#af838b25c8442767aaef16e95022cb062", null ],
+    [ "searchTimer", "d2/d70/a28741.html#af1b82227dadf30c6c796e7b8c2abbe82", null ]
 ];

@@ -1,7 +1,9 @@
 var a17941 =
 [
-    [ "HandleScript", "de/dee/a17941.html#a101e5e995dd27dcc6b6a4b475eed0989", null ],
-    [ "PrepareSpellScript", "de/dee/a17941.html#a8f668b88a41585cabeace574b30b4f85", null ],
-    [ "Register", "de/dee/a17941.html#a8fae161a91fae297b99079bde218ced8", null ],
-    [ "Validate", "de/dee/a17941.html#a4d1a8c28eefff22afdbf15ab57a6a7fd", null ]
+    [ "CheckProc", "de/dee/a17941.html#a13426f7a45e9434f980b42f174b22da8", null ],
+    [ "HandlePeriodicTick", "de/dee/a17941.html#a6380b4d03e4c48cd1a1f89227a1ebae8", null ],
+    [ "HandleProc", "de/dee/a17941.html#abf744d64dae5835bff3877eeaa919af3", null ],
+    [ "PrepareAuraScript", "de/dee/a17941.html#a5836fb240ae612d36a9e80c88bebdc48", null ],
+    [ "Register", "de/dee/a17941.html#a1b72c10256365de71b8f9fadf5886338", null ],
+    [ "Validate", "de/dee/a17941.html#acc3a0e0ae60291646514c1ae6f41f421", null ]
 ];

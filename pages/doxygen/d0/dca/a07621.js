@@ -1,6 +1,7 @@
 var a07621 =
 [
-    [ "attackText", "d0/dca/a07621.html#a9c1319033a432ca0db51a9a1545aa7af", null ],
-    [ "takenText", "d0/dca/a07621.html#a55ccbd94fe08ecc99f5be97b96761f68", null ],
-    [ "worldstate", "d0/dca/a07621.html#a342ef087df4f9326952728c2192a3da3", null ]
+    [ "BfGraveyardWG", "d0/dca/a07621.html#a040af569e6633e4ed4c7513b55d034ac", null ],
+    [ "GetTextId", "d0/dca/a07621.html#a618b778d8bed11627150a88e2f4e349b", null ],
+    [ "SetTextId", "d0/dca/a07621.html#a367d525e84d8634f47fb6679c2ee3d42", null ],
+    [ "GossipTextId", "d0/dca/a07621.html#af197f40de908ed650229bbf033836778", null ]
 ];

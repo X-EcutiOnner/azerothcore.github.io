@@ -1,4 +1,8 @@
 var a29217 =
 [
-    [ "ID", "d8/db1/a29217.html#a7d31bf2a11559873fc410d4cb32c5f54", null ]
+    [ "ID", "d8/db1/a29217.html#a36958c346c8554d9ab1cfb73ac583818", null ],
+    [ "Model", "d8/db1/a29217.html#a8877a066a16c8c246a2d5a24a3661e56", null ],
+    [ "Origin", "d8/db1/a29217.html#a684c69add50ee545ee606ae456a93336", null ],
+    [ "OriginFacing", "d8/db1/a29217.html#a460723250353c7720cd87677991283cf", null ],
+    [ "SoundID", "d8/db1/a29217.html#aa56be05c7ab4015738e049d75ff365c6", null ]
 ];

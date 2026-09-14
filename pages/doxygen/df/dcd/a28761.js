@@ -1,7 +1,9 @@
 var a28761 =
 [
-    [ "HandleDummy", "df/dcd/a28761.html#ad57b334c7d985a3bda1cb19b81a77ee1", null ],
-    [ "PrepareSpellScript", "df/dcd/a28761.html#a550d6e90705745bdb5c4ee02ed1fce4b", null ],
-    [ "Register", "df/dcd/a28761.html#a3fda4d652c1264b3cfababdd98297c61", null ],
-    [ "Validate", "df/dcd/a28761.html#a2f12e71b9793be8e81011b0cd7583a39", null ]
+    [ "npc_arcanite_dragonling", "df/dcd/a28761.html#a9b7e4cefa312a16c90018d655ad94758", null ],
+    [ "CanAIAttack", "df/dcd/a28761.html#a374e127ef749dc72ec70137bcd13a0b9", null ],
+    [ "IsSummonedBy", "df/dcd/a28761.html#a921b35a91c4f21258efdb41fd87413db", null ],
+    [ "JustEngagedWith", "df/dcd/a28761.html#a65f6d779681861117f750b70154b3e0d", null ],
+    [ "Reset", "df/dcd/a28761.html#a4468d91430add821bf7a7ab11d8063da", null ],
+    [ "UpdateAI", "df/dcd/a28761.html#aebe430b9a3079a5ccbfd979a74e532f3", null ]
 ];

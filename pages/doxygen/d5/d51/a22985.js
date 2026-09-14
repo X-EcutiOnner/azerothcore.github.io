@@ -1,6 +1,11 @@
 var a22985 =
 [
-    [ "boss_reliquary_of_soulsAI", "d3/df4/a22989.html", "d3/df4/a22989" ],
-    [ "boss_reliquary_of_souls", "d5/d51/a22985.html#a0c73fc6221da0b19903e534932ca6406", null ],
-    [ "GetAI", "d5/d51/a22985.html#a55b717fe2b1bfdda84fec6c63852ae7c", null ]
+    [ "boss_high_nethermancer_zerevor", "d5/d51/a22985.html#a2d3ce1a6d972c0b58efe5aad31014c09", null ],
+    [ "AttackStart", "d5/d51/a22985.html#a270961bd3af6ce65eebc79130f4e3d47", null ],
+    [ "CastDampenMagicIfPossible", "d5/d51/a22985.html#ab0af23baf43d377935811c52a346c566", null ],
+    [ "JustEngagedWith", "d5/d51/a22985.html#a390f939ba01ee189fc55670eb4ff1a7e", null ],
+    [ "OnAuraRemove", "d5/d51/a22985.html#a7dd31808dbf00f77b59fce84249778fe", null ],
+    [ "Reset", "d5/d51/a22985.html#afd7a419de217b3d129f783ddc87780af", null ],
+    [ "UpdateAI", "d5/d51/a22985.html#ae1ec04a655525cbb2a6a3c7e382cf078", null ],
+    [ "_canCastDampenMagic", "d5/d51/a22985.html#a72c89454c2b0754690ae72fd7aacb0e8", null ]
 ];

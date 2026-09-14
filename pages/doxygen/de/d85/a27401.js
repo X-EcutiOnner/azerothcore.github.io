@@ -1,7 +1,6 @@
 var a27401 =
 [
-    [ "CalculateAmount", "de/d85/a27401.html#aefeab4e58c1b5c1be87f583256d366f5", null ],
-    [ "Load", "de/d85/a27401.html#ae2ef0eae77137c120ec61af8698677db", null ],
-    [ "PrepareAuraScript", "de/d85/a27401.html#acaecc78c031aa436f432fd7145478de4", null ],
-    [ "Register", "de/d85/a27401.html#afd27c8bc5fd1628b7e32bf464bfe3d48", null ]
+    [ "HandleScript", "de/d85/a27401.html#acde0ae837d0cd3af0f38481027200291", null ],
+    [ "PrepareSpellScript", "de/d85/a27401.html#ac1237e0af7f88f75ebc551af52fc301c", null ],
+    [ "Register", "de/d85/a27401.html#a2dc2628984358628afe7d9b62ced7794", null ]
 ];

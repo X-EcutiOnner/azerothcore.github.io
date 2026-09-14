@@ -1,6 +1,8 @@
 var a16261 =
 [
-    [ "creatureID", "d5/d79/a16261.html#a44a9f5e58bfa58e2e2325e116e988f07", null ],
-    [ "pos", "d5/d79/a16261.html#a9705a858cc2c3867e104514d3a0a1866", null ],
-    [ "waveID", "d5/d79/a16261.html#a09b48f7f6da7e203ed50a8abc7f24e56", null ]
+    [ "npc_pluckyAI", "d7/dae/a16265.html", "d7/dae/a16265" ],
+    [ "npc_plucky", "d5/d79/a16261.html#a86bb2992b8af5893987145117aaf3608", null ],
+    [ "GetAI", "d5/d79/a16261.html#a51e73f4e1f618aee5a000e31328efefc", null ],
+    [ "OnGossipHello", "d5/d79/a16261.html#a3443f3e8c2b3fcc96955ab2e55e7fd61", null ],
+    [ "OnGossipSelect", "d5/d79/a16261.html#a88fa465246b4c657b921ebdc96f7a112", null ]
 ];

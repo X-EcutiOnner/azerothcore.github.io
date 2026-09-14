@@ -1,10 +1,6 @@
 var a17209 =
 [
-    [ "boss_tharon_jaAI", "d0/da9/a17209.html#a03025fa529e932f23479ff19b0cd8238", null ],
-    [ "DoAction", "d0/da9/a17209.html#a655fd83c2d671847fea9ae393c132fb9", null ],
-    [ "JustDied", "d0/da9/a17209.html#a7928b5db061f1073e1decc2d40601195", null ],
-    [ "JustEngagedWith", "d0/da9/a17209.html#aab194a8f802eeb625d1a74960acbe154", null ],
-    [ "KilledUnit", "d0/da9/a17209.html#a41e929a3768768eb06bafdee3269fd24", null ],
-    [ "Reset", "d0/da9/a17209.html#a272e8565a9b00a27505b301d52814eee", null ],
-    [ "UpdateAI", "d0/da9/a17209.html#a6f482cabcb0bd56711878a5ea297b950", null ]
+    [ "instance_trial_of_the_crusader_InstanceMapScript", "d1/dd7/a17213.html", "d1/dd7/a17213" ],
+    [ "instance_trial_of_the_crusader", "d0/da9/a17209.html#a764d871d02e4ff53b7cc3a8637dcddf9", null ],
+    [ "GetInstanceScript", "d0/da9/a17209.html#a792034e9e5687bf5fa543175692bed66", null ]
 ];

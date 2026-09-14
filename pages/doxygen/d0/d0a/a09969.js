@@ -1,12 +1,8 @@
 var a09969 =
 [
-    [ "LogEntry", "d0/d0a/a09969.html#af61604a7dc0cc4da315a09fa5b207f37", null ],
-    [ "LogEntry", "d0/d0a/a09969.html#aba3f6f501c59e356166abe71082c421b", null ],
-    [ "~LogEntry", "d0/d0a/a09969.html#a3c66b8a7be1800c5a9e1dc15aab6d3e9", null ],
-    [ "GetGUID", "d0/d0a/a09969.html#a7af4eac577f8da07540f81e185b2ad49", null ],
-    [ "GetTimestamp", "d0/d0a/a09969.html#a643c92439463707671bb08b72bf3a447", null ],
-    [ "SaveToDB", "d0/d0a/a09969.html#a1c00aa88973423a1c112c2776a14e78f", null ],
-    [ "m_guid", "d0/d0a/a09969.html#a75754f42f8a202a9a319c86515a3f0dd", null ],
-    [ "m_guildId", "d0/d0a/a09969.html#a89e0192732a43dc44aff3730bc5ad445", null ],
-    [ "m_timestamp", "d0/d0a/a09969.html#ad19e7364e1beba61c9b7a4383b6d42c6", null ]
+    [ "LocalizedPacketDo", "d0/d0a/a09969.html#a9b7700f2a4958b91a67375ec9a40072c", null ],
+    [ "~LocalizedPacketDo", "d0/d0a/a09969.html#a4296260b2011e1f7c300987073863ca9", null ],
+    [ "operator()", "d0/d0a/a09969.html#a43449bdf0302e426b8cb4341326196b1", null ],
+    [ "i_builder", "d0/d0a/a09969.html#a2c794905898feb502bfc5d3760f962b8", null ],
+    [ "i_data_cache", "d0/d0a/a09969.html#a2bbff655e1a5268981c48e3ee028b104", null ]
 ];

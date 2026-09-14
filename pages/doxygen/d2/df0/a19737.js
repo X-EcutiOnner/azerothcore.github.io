@@ -1,11 +1,8 @@
 var a19737 =
 [
-    [ "npc_hover_disk", "d2/df0/a19737.html#af6f8ef0df4b64540f99adebdd709b00e", null ],
-    [ "AttackStart", "d2/df0/a19737.html#a3ea3d44f74f26115f0a29fad134fcfc8", null ],
-    [ "DoAction", "d2/df0/a19737.html#ae4141e5aed3cfdbf8d76ad55ce4463d9", null ],
-    [ "MoveInLineOfSight", "d2/df0/a19737.html#a0ad97e511bd01c269c04d2ccfe007f91", null ],
-    [ "MovementInform", "d2/df0/a19737.html#a9d1c7ac28f2c597864cf2c70ab0fb943", null ],
-    [ "PassengerBoarded", "d2/df0/a19737.html#ab7e712a9d5aec7c3112796316a7fe534", null ],
-    [ "UpdateAI", "d2/df0/a19737.html#add98702312084df553e24bcd4b632bb3", null ],
-    [ "events", "d2/df0/a19737.html#a073e1161eda3b714ad0d7ea96f865b6d", null ]
+    [ "HandleAfterCast", "d2/df0/a19737.html#ac816f81a668ac3018be8f5dc4698039b", null ],
+    [ "HandleDummy", "d2/df0/a19737.html#a3009faa525c22779a0b2534b96821cfd", null ],
+    [ "PrepareSpellScript", "d2/df0/a19737.html#aca38f23f080314ab73ec2494bf877716", null ],
+    [ "Register", "d2/df0/a19737.html#aa87e57dabec6e83029f4dd84913f22ca", null ],
+    [ "Validate", "d2/df0/a19737.html#af945e399992deb3aef5c81ad393ee50f", null ]
 ];

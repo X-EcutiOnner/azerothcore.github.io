@@ -1,11 +1,6 @@
 var a11337 =
 [
-    [ "BuyItemInSlot", "d3/ddf/a11337.html#a9a15be940d8eb216614dca5055be094a", null ],
-    [ "Read", "d3/ddf/a11337.html#a2608e83a41fb44c8469d2b9196702627", null ],
-    [ "BagGuid", "d3/ddf/a11337.html#abb9a1c7ac98c1cd848e4da8faf4e3925", null ],
-    [ "BagSlot", "d3/ddf/a11337.html#abdcb3b7e8a633b59d264ff1c860ec9c9", null ],
-    [ "Count", "d3/ddf/a11337.html#a3d057f2bdafb46887a97dbba8bb5aa04", null ],
-    [ "Item", "d3/ddf/a11337.html#a1fdfad3b4dd000c0f6d6d60f30bdd981", null ],
-    [ "Slot", "d3/ddf/a11337.html#aae1dba7644a82933a801f581551479bc", null ],
-    [ "VendorGuid", "d3/ddf/a11337.html#ac65b0fc2609531c8657c4d83cf50dbfe", null ]
+    [ "SetRaidDifficultyClient", "d3/ddf/a11337.html#afba49b9e3994eb461ac1b827d0c0fac7", null ],
+    [ "Read", "d3/ddf/a11337.html#a347a86f33f0c31a1c3279028d7dfc46c", null ],
+    [ "Mode", "d3/ddf/a11337.html#a445a55f5069f60a184b119c57cfedf9a", null ]
 ];

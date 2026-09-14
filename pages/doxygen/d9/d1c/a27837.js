@@ -1,6 +1,6 @@
 var a27837 =
 [
-    [ "PrepareAuraScript", "d9/d1c/a27837.html#a65fa925d99065d028e328a92f2a13805", null ],
-    [ "Register", "d9/d1c/a27837.html#a95dc732286adf4327f68e23015d58c21", null ],
-    [ "RemoveEffect", "d9/d1c/a27837.html#a3f474c143f64739187b6049cac5e4b38", null ]
+    [ "HandleScriptEffect", "d9/d1c/a27837.html#a3f8988017d088d08df08ba8b696b552b", null ],
+    [ "PrepareSpellScript", "d9/d1c/a27837.html#a56f5c59c7dc8d4f8117dc64d5a5a3a0b", null ],
+    [ "Register", "d9/d1c/a27837.html#a4ebc3c83dd77134af2ee81a46b121d19", null ]
 ];

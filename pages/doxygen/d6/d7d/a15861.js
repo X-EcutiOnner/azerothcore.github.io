@@ -1,12 +1,8 @@
 var a15861 =
 [
-    [ "npc_magwinAI", "d6/d7d/a15861.html#ad4a352dd0c7c6f76e74f110b00ec9053", null ],
-    [ "JustEngagedWith", "d6/d7d/a15861.html#aea2ab8bf79d6fcc3d2036d160274fab8", null ],
-    [ "Reset", "d6/d7d/a15861.html#a883ef3cd1b097847de148ccb9bd3e903", null ],
-    [ "sQuestAccept", "d6/d7d/a15861.html#aafef28bc7879e29d1fa79ec08f58da55", null ],
-    [ "UpdateEscortAI", "d6/d7d/a15861.html#a34236331be8842a9e2a98036ea382e18", null ],
-    [ "WaypointReached", "d6/d7d/a15861.html#a7278a3cff406af2ecb3d29c7bf90febc", null ],
-    [ "WaypointReached", "d6/d7d/a15861.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "_events", "d6/d7d/a15861.html#a32dad2bde92efab7e0f0d16e809df665", null ],
-    [ "_player", "d6/d7d/a15861.html#ac3d7059ee67abcafa0586f0bed5df9cc", null ]
+    [ "npc_obsidian_nullifier", "d6/d7d/a15861.html#a9dbb6d681e348057564750fcd7e8050a", null ],
+    [ "JustEngagedWith", "d6/d7d/a15861.html#ad3e30a214a9bcb6ea13d3a78716b5cb1", null ],
+    [ "Reset", "d6/d7d/a15861.html#a9897eab3b71dd0a6a2ea598951b095cd", null ],
+    [ "UpdateAI", "d6/d7d/a15861.html#a37cf1d335dd3735b262e82828c4f904a", null ],
+    [ "_targetGUIDs", "d6/d7d/a15861.html#aaf125742bf9d17ec0b605b78dee39c7c", null ]
 ];

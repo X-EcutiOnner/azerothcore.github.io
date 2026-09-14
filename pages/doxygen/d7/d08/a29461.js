@@ -1,5 +1,8 @@
 var a29461 =
 [
-    [ "HasMissile", "d7/d08/a29461.html#af8f9e79164ee3c7a617f63552bb23816", null ],
-    [ "MissileModel", "d7/d08/a29461.html#ae9ab544537448113f628c22ed8c91a27", null ]
+    [ "ClassMask", "d7/d08/a29461.html#a563ba1618ffefa5470696e37f65c70d4", null ],
+    [ "Flags", "d7/d08/a29461.html#af89c32a22f018557fe016e0784a82384", null ],
+    [ "RaceMask", "d7/d08/a29461.html#acff47bf5c075d669f95b0d229674f9bc", null ],
+    [ "SkillID", "d7/d08/a29461.html#ab9237a8776aa854e0f81cf228a247ef0", null ],
+    [ "SkillTierID", "d7/d08/a29461.html#ab6153043461b71336e12b00957499075", null ]
 ];

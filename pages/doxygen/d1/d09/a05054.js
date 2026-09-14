@@ -1,14 +1,11 @@
 var a05054 =
 [
-    [ "Acore::Runnable", "dc/dd8/a05769.html", "dc/dd8/a05769" ],
-    [ "Acore::Thread", "da/d6e/a05773.html", "da/d6e/a05773" ],
-    [ "Priority", "d1/d09/a05054.html#a98ce3c3a6bb5eee03a544054eae9f9f0", [
-      [ "Priority_Idle", "d1/d09/a05054.html#a98ce3c3a6bb5eee03a544054eae9f9f0a6540dbe098806722de7130f0cf978d24", null ],
-      [ "Priority_Lowest", "d1/d09/a05054.html#a98ce3c3a6bb5eee03a544054eae9f9f0a2c1092f67a3addf9410ac00e8a8f62b0", null ],
-      [ "Priority_Low", "d1/d09/a05054.html#a98ce3c3a6bb5eee03a544054eae9f9f0a726dc1791c20e19bbdb47763ffec6cc8", null ],
-      [ "Priority_Normal", "d1/d09/a05054.html#a98ce3c3a6bb5eee03a544054eae9f9f0a9724af5d135432316625274c94d9d53c", null ],
-      [ "Priority_High", "d1/d09/a05054.html#a98ce3c3a6bb5eee03a544054eae9f9f0ae26951cdc5145b7d4710a65f64fcc15d", null ],
-      [ "Priority_Highest", "d1/d09/a05054.html#a98ce3c3a6bb5eee03a544054eae9f9f0afe73cf9f67a66d8eeb50511bffc0349f", null ],
-      [ "Priority_Realtime", "d1/d09/a05054.html#a98ce3c3a6bb5eee03a544054eae9f9f0aea947a97dfe2d923de21531be29b1fe1", null ]
-    ] ]
+    [ "Acore::GeneralLock< MUTEX >", "db/d00/a05793.html", "db/d00/a05793" ],
+    [ "Acore::SingleThreaded< T >", "dc/da3/a05797.html", "dc/da3/a05797" ],
+    [ "Acore::SingleThreaded< T >::Lock", "d5/dc0/a05801.html", "d5/dc0/a05801" ],
+    [ "Acore::ObjectLevelLockable< T, MUTEX >", "d0/d43/a05805.html", "d0/d43/a05805" ],
+    [ "Acore::ObjectLevelLockable< T, MUTEX >::Lock", "d7/d4f/a05809.html", "d7/d4f/a05809" ],
+    [ "Acore::ClassLevelLockable< T, MUTEX >", "de/d05/a05813.html", "de/d05/a05813" ],
+    [ "Acore::ClassLevelLockable< T, MUTEX >::Lock", "d0/d64/a05817.html", "d0/d64/a05817" ],
+    [ "INSTANTIATE_CLASS_MUTEX", "d1/d09/a05054.html#a517f069300d9fa1587cf281664c72a75", null ]
 ];

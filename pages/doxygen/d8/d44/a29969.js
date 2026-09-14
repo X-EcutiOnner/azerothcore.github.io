@@ -1,6 +1,12 @@
 var a29969 =
 [
-    [ "SetUp", "d8/d44/a29969.html#a17bb069a079f64ba78b640f29fb23b44", null ],
-    [ "_durationEntry", "d8/d44/a29969.html#ae835f19ae350e48fd88e4cc776d286e4", null ],
-    [ "_frostboltInfo", "d8/d44/a29969.html#adeb95c76547a934f4801bb24932b34d1", null ]
+    [ "TestVisibilityScript", "d8/d44/a29969.html#af45bf0b44aa15f43caf35b37ffd0c73d", null ],
+    [ "EnsureRegistered", "d8/d44/a29969.html#a0d804be5b25476f6883b5fc9d4582f31", null ],
+    [ "OnPlayerSetServerSideVisibility", "d8/d44/a29969.html#a6b3701188303b644b28a52ec42bec846", null ],
+    [ "Reset", "d8/d44/a29969.html#a26ef73c940ccbf6fbcfce0b59900c887", null ],
+    [ "CallCount", "d8/d44/a29969.html#afc108ad7a9b6734a45e52bf8ecfaae9f", null ],
+    [ "Instance", "d8/d44/a29969.html#adcf0326aa1e32db109ec920857868138", null ],
+    [ "LastPlayer", "d8/d44/a29969.html#ae5ef9d343ed754282b99fd3b951659ff", null ],
+    [ "LastSecurity", "d8/d44/a29969.html#a788ffb301e1351e45248a6b8686aaa6b", null ],
+    [ "LastType", "d8/d44/a29969.html#aae555f8cabfcd443b0e078fa75bf5104", null ]
 ];

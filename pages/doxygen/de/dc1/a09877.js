@@ -1,8 +1,8 @@
 var a09877 =
 [
-    [ "AllDeadCreaturesInRange", "de/dc1/a09877.html#a31b4976c3ea6203b9a1e7f7970a97977", null ],
-    [ "operator()", "de/dc1/a09877.html#a3638a8d3c5791b590ec717e4f1ba9cef", null ],
-    [ "_obj", "de/dc1/a09877.html#a4ca7fcf9945e698a790d01d3fadae98e", null ],
-    [ "_range", "de/dc1/a09877.html#a431ada86a2b864d53773a85b05d8da4f", null ],
-    [ "_reqAlive", "de/dc1/a09877.html#aefd0d77b69b5df9b99c148e0254fda09", null ]
+    [ "AnyAssistCreatureInRangeCheck", "de/dc1/a09877.html#a2e9cbff4e627fe8ccf67997123afe0a6", null ],
+    [ "operator()", "de/dc1/a09877.html#a314a4800047f7e661cd011010b3f148e", null ],
+    [ "i_enemy", "de/dc1/a09877.html#a37318ae783e6cf4a658063aab149e8a3", null ],
+    [ "i_funit", "de/dc1/a09877.html#add1071091d1696c3f537483810dcb6f1", null ],
+    [ "i_range", "de/dc1/a09877.html#a4bcf67be5bae4649d82586349d30be04", null ]
 ];

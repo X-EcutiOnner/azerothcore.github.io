@@ -1,16 +1,7 @@
 var a24265 =
 [
-    [ "npc_dragonmaw_peonAI", "d7/d5a/a24265.html#a6f1255fead5357001ec85fdaa6980249", null ],
-    [ "CreditPlayer", "d7/d5a/a24265.html#a5cf28e156cab2e2066bb94bc99233a2b", null ],
-    [ "JustEngagedWith", "d7/d5a/a24265.html#abd5b37793aa2fb150c808b7dc7270763", null ],
-    [ "MovementInform", "d7/d5a/a24265.html#a0ee4038f90d54c75c48b2448dacb5724", null ],
-    [ "Reset", "d7/d5a/a24265.html#a9d876ec76b51f743c71e67749c21d939", null ],
-    [ "SpellHit", "d7/d5a/a24265.html#abe5162608ba0acd7360a630562ff5935", null ],
-    [ "UpdateAI", "d7/d5a/a24265.html#a98a045606d9e689ef25a5068b81b1ebf", null ],
-    [ "events", "d7/d5a/a24265.html#a7d6fb37d1953630aa79f8665eca0db61", null ],
-    [ "PlayerGUID", "d7/d5a/a24265.html#ad6838d98e34a32cbed42c77cdf096070", null ],
-    [ "Tapped", "d7/d5a/a24265.html#ae393f8d3cb47f38a4c4314a262826d03", null ],
-    [ "x", "d7/d5a/a24265.html#acebbfa8da88d8d683ba5ea6463f6b5f7", null ],
-    [ "y", "d7/d5a/a24265.html#ae5a1d416c712803ec0b80ae7ccf29e2d", null ],
-    [ "z", "d7/d5a/a24265.html#a7722420716c030b5abe7b760199df14d", null ]
+    [ "npc_bessyAI", "df/d58/a24269.html", "df/d58/a24269" ],
+    [ "npc_bessy", "d7/d5a/a24265.html#a08278c1524445054ca158433044a0824", null ],
+    [ "GetAI", "d7/d5a/a24265.html#af805bc5ee3de2fd6773158e51bf09d4a", null ],
+    [ "OnQuestAccept", "d7/d5a/a24265.html#a98b8e816195b81bab12cc9906df79807", null ]
 ];

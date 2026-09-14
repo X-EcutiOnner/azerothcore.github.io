@@ -1,6 +1,6 @@
 var a19697 =
 [
-    [ "DespawnTime", "d0/d47/a19697.html#ae14c357137f16666c74e5f7e3f77aed5", null ],
-    [ "End", "d0/d47/a19697.html#ac87ea314ccf946eb1fa35985e35c81fd", null ],
-    [ "Start", "d0/d47/a19697.html#a985271de503fa704a58abe3e64c3b268", null ]
+    [ "boss_razuvious_minionAI", "d3/dfa/a19701.html", "d3/dfa/a19701" ],
+    [ "boss_razuvious_minion", "d0/d47/a19697.html#ae23d51c9ebfe31f624a749578d27252c", null ],
+    [ "GetAI", "d0/d47/a19697.html#afab8dccbc0b098a1fa058ef8479ba865", null ]
 ];

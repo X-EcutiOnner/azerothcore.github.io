@@ -1,6 +1,7 @@
 var a24057 =
 [
-    [ "npc_nether_drakeAI", "d1/db9/a24061.html", "d1/db9/a24061" ],
-    [ "npc_nether_drake", "d3/dbe/a24057.html#a253ec3c91857b899ea9e2c824870b760", null ],
-    [ "GetAI", "d3/dbe/a24057.html#a58d269e2c73cae07bb507162b742fe8f", null ]
+    [ "boss_gatewatcher_gyrokill", "d3/dbe/a24057.html#a82335081dd79f7a0aa1dc0c26bd878fb", null ],
+    [ "JustDied", "d3/dbe/a24057.html#a4bbfb59c2a687ebb3e88bde9784af38e", null ],
+    [ "JustEngagedWith", "d3/dbe/a24057.html#a95d3ae80f87be9d972ecb056e0b85412", null ],
+    [ "KilledUnit", "d3/dbe/a24057.html#a274355d0303d9bf5761758f175826bd1", null ]
 ];

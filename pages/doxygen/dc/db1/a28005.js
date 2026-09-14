@@ -1,6 +1,7 @@
 var a28005 =
 [
-    [ "AfterCheckProc", "dc/db1/a28005.html#a947c7b94512fbfdd8b51cfa8044d2e6c", null ],
-    [ "PrepareAuraScript", "dc/db1/a28005.html#aa184faf59edbad97ec361e66169137b9", null ],
-    [ "Register", "dc/db1/a28005.html#a3df5a215670c7a1e07bc901e442bb11c", null ]
+    [ "OnProc", "dc/db1/a28005.html#a7ab183d734c543be2866c57f1e5cc508", null ],
+    [ "PrepareAuraScript", "dc/db1/a28005.html#a31118cda9f29318f4620caf38c09522a", null ],
+    [ "Register", "dc/db1/a28005.html#ac27f99aafa92ae85a247c6f25ece8c7b", null ],
+    [ "Validate", "dc/db1/a28005.html#aa193bddd2ba9efe70343c5501d737fa4", null ]
 ];

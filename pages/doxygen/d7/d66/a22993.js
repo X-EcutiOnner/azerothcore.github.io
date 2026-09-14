@@ -1,6 +1,7 @@
 var a22993 =
 [
-    [ "boss_essence_of_sufferingAI", "dc/d75/a22997.html", "dc/d75/a22997" ],
-    [ "boss_essence_of_suffering", "d7/d66/a22993.html#a1237f428657f0e9a0218695264358384", null ],
-    [ "GetAI", "d7/d66/a22993.html#adb54519bdf220cb3e30c81627c1ba11a", null ]
+    [ "boss_veras_darkshadow", "d7/d66/a22993.html#a7b33a5c8257954951ed19a2f8ce17b95", null ],
+    [ "JustEngagedWith", "d7/d66/a22993.html#a5eec3e70a7950073eced60d680ff6298", null ],
+    [ "JustSummoned", "d7/d66/a22993.html#afd6cb716cfdebccde99d71e1eb797d33", null ],
+    [ "UpdateAI", "d7/d66/a22993.html#a21f23998e3c3ecb79cbfa3c0d778f2d5", null ]
 ];

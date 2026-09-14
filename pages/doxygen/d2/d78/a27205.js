@@ -1,6 +1,5 @@
 var a27205 =
 [
-    [ "HandleDummy", "d2/d78/a27205.html#aee5967205738ebaef70e1105e8d91b2c", null ],
-    [ "PrepareSpellScript", "d2/d78/a27205.html#a1ef5914adfd2c951a68f50658852e095", null ],
-    [ "Register", "d2/d78/a27205.html#af42b6d5a5fbb5eb84773818594813afc", null ]
+    [ "PrepareSpellScript", "d2/d78/a27205.html#aa2d9d885e55c1685c2ce9cbc5b4d4279", null ],
+    [ "Register", "d2/d78/a27205.html#a721430db1738b255f114483bdddef5e2", null ]
 ];

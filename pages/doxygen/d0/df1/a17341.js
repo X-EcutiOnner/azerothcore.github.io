@@ -1,10 +1,15 @@
 var a17341 =
 [
-    [ "npc_hor_leaderAI", "d0/df1/a17341.html#a2072f9facbc476bb97f1a3ca9c24fcb7", null ],
-    [ "DoAction", "d0/df1/a17341.html#a610700732a6cc197a40106adef654a62", null ],
-    [ "Reset", "d0/df1/a17341.html#a40749d0294400e15bc28f6e728c6cb3c", null ],
-    [ "UpdateAI", "d0/df1/a17341.html#acb29a6ddb6d06616e79f7431b66f167a", null ],
-    [ "events", "d0/df1/a17341.html#a94128223bddd84b8a678e49f3189cb75", null ],
-    [ "instance", "d0/df1/a17341.html#aaf5ee73e8d3a52c51cbc64853843ed4e", null ],
-    [ "shortver", "d0/df1/a17341.html#a6e7b5d6f1b73bacb54d9aa1eb21fe6ee", null ]
+    [ "boss_devourer_of_souls", "d0/df1/a17341.html#a8d089de7236e18003bfd484e34f77ea3", null ],
+    [ "CanAIAttack", "d0/df1/a17341.html#a6e84fb1104ce99448f2aea819fc7748f", null ],
+    [ "EnterEvadeMode", "d0/df1/a17341.html#adce881b46c1a9de4f0eee8dd2cbadff1", null ],
+    [ "GetData", "d0/df1/a17341.html#a6df46af55679a009c7f6a30d1f1185f6", null ],
+    [ "JustDied", "d0/df1/a17341.html#a8d58c994b2a0428b723bd2528c312f72", null ],
+    [ "JustEngagedWith", "d0/df1/a17341.html#a25af638ab8e5c8348e5e910cfb52a1fd", null ],
+    [ "JustSummoned", "d0/df1/a17341.html#ac985b112bf87341b4c0b132502517bfb", null ],
+    [ "KilledUnit", "d0/df1/a17341.html#ae8ba70f003d792e499b095f2030b58b1", null ],
+    [ "Reset", "d0/df1/a17341.html#a57cc2f21324c38cdc9c87adf3b425ed4", null ],
+    [ "SpellHitTarget", "d0/df1/a17341.html#ad8215797d3bbd05efd93b04ae8b3cad2", null ],
+    [ "UpdateAI", "d0/df1/a17341.html#a47b6ff4e3edad4f1d5a4974a5a84696a", null ],
+    [ "AchievementCompleted", "d0/df1/a17341.html#a7f19641d3c3496e8cf4c86e736607441", null ]
 ];

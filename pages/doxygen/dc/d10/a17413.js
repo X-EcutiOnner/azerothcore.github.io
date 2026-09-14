@@ -1,5 +1,11 @@
 var a17413 =
 [
-    [ "at_hor_battered_hilt_throw", "dc/d10/a17413.html#a857812bd67ee2e62c5e450fae591cd9d", null ],
-    [ "OnTrigger", "dc/d10/a17413.html#a30c72b4dc7e48fc87374cbfc2cdf0f50", null ]
+    [ "npc_shadowy_mercenary", "dc/d10/a17413.html#ae4e26a15f7ee0ba768a5ad6c18c8bc40", null ],
+    [ "AttackStart", "dc/d10/a17413.html#a2851972b1fa6e3de4f79433e1308dd11", null ],
+    [ "DoAction", "dc/d10/a17413.html#afba6e6565c04fe0b325a1ecf9d65ae80", null ],
+    [ "EnterEvadeMode", "dc/d10/a17413.html#a71290c72bff2a91d7c5cc8d661f28bf9", null ],
+    [ "JustDied", "dc/d10/a17413.html#a88cde525eb5d8db9fb2ffc30f18ddf61", null ],
+    [ "JustEngagedWith", "dc/d10/a17413.html#aab9ac47fa72e7a7a6941aad190a18ebb", null ],
+    [ "Reset", "dc/d10/a17413.html#aeedf803d4d6747ef505c11bb035c2c05", null ],
+    [ "UpdateAI", "dc/d10/a17413.html#af36c113ac34b5e2db382c6d5f9d546e4", null ]
 ];

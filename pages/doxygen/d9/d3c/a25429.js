@@ -1,9 +1,6 @@
 var a25429 =
 [
-    [ "spell_gen_lifebloom", "d9/d3c/a25429.html#a5cb52a4dda841d9d31fd00a31ddc3350", null ],
-    [ "AfterRemove", "d9/d3c/a25429.html#aea962f603e56c1bd33fccaef0c89d917", null ],
-    [ "PrepareAuraScript", "d9/d3c/a25429.html#ac11134bdc3588795ce6e256c5b02055f", null ],
-    [ "Register", "d9/d3c/a25429.html#ab4a552402ee9f90834320d6fc668cff3", null ],
-    [ "Validate", "d9/d3c/a25429.html#a599634d92b92a5635b89733b7bb3c3c8", null ],
-    [ "_spellId", "d9/d3c/a25429.html#a196484d01d2dc07163e18fdca9f60ca9", null ]
+    [ "HandleEffectPeriodic", "d9/d3c/a25429.html#a248ba0e88498e36355491b2b89063e17", null ],
+    [ "PrepareAuraScript", "d9/d3c/a25429.html#ac9aed434fe7602ef846e9f052402620e", null ],
+    [ "Register", "d9/d3c/a25429.html#a039eec910c802276b9e979253141cdee", null ]
 ];

@@ -1,6 +1,8 @@
 var a28609 =
 [
-    [ "npc_garments_of_questsAI", "da/d92/a28613.html", "da/d92/a28613" ],
-    [ "npc_garments_of_quests", "d5/d82/a28609.html#a7e4ad68e0187c0a392ed93097b2bf0ce", null ],
-    [ "GetAI", "d5/d82/a28609.html#aa8ad1c654f00e054f9b424f61716eafd", null ]
+    [ "npc_elder_clearwaterAI", "da/d92/a28613.html", "da/d92/a28613" ],
+    [ "npc_elder_clearwater", "d5/d82/a28609.html#abeee1650938a71762bb0c148ea9834d1", null ],
+    [ "GetAI", "d5/d82/a28609.html#a4ae2f507f61ee7cfc0c3b6d7dbfb7f04", null ],
+    [ "OnGossipHello", "d5/d82/a28609.html#aae382c0a386b8bacd39c6e7a586519e4", null ],
+    [ "OnQuestReward", "d5/d82/a28609.html#a2d316a2d2c892cecc134cea46b5bf2a8", null ]
 ];

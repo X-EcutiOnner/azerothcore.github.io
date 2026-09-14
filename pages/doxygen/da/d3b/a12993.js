@@ -1,5 +1,6 @@
 var a12993 =
 [
-    [ "go_orb_of_domination", "da/d3b/a12993.html#ad1378efcf7a54adac256a44bbdfe4357", null ],
-    [ "GossipHello", "da/d3b/a12993.html#a95628cbeeb6b2af6a79546ff3661815e", null ]
+    [ "boss_flamegor", "da/d3b/a12993.html#a721c23d631d305c102117566f609f10a", null ],
+    [ "JustEngagedWith", "da/d3b/a12993.html#aebbcd35868c64d2a0b1f660720f84575", null ],
+    [ "UpdateAI", "da/d3b/a12993.html#a086f8bd08ba22fff7e399bf9588cbffd", null ]
 ];

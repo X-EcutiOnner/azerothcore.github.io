@@ -1,5 +1,5 @@
 var a14381 =
 [
-    [ "entry", "d2/db5/a14381.html#ad7431eb64907aed0a03205a37c65a735", null ],
-    [ "pos", "d2/db5/a14381.html#ab60283e91e81c141f3b31218aa4442a3", null ]
+    [ "npc_mikhail", "d2/db5/a14381.html#ab63d49e91b0d4b6ca0f00ff0992f5bad", null ],
+    [ "OnQuestAccept", "d2/db5/a14381.html#a94733a942550f64c741f47e56fd43778", null ]
 ];

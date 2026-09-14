@@ -1,6 +1,5 @@
 var a25181 =
 [
-    [ "HandleDummy", "d8/d4c/a25181.html#a80ab847f2528060b2e3e2e128cfc06af", null ],
-    [ "PrepareSpellScript", "d8/d4c/a25181.html#af310c2b28ed816b9fbe494f81c42043c", null ],
-    [ "Register", "d8/d4c/a25181.html#ae5e494ca801b35520bddb4a8a148efcd", null ]
+    [ "PrepareSpellScript", "d8/d4c/a25181.html#a2d0e411f3b4a9efed35ee34c7bf03252", null ],
+    [ "Register", "d8/d4c/a25181.html#a560ff22e718e8a975a2e2dc2340da917", null ]
 ];

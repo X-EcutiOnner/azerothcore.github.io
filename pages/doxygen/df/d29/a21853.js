@@ -1,6 +1,6 @@
 var a21853 =
 [
-    [ "npc_heated_battleAI", "df/d29/a21853.html#a2b73957d7890549f4b02488c5527fcef", null ],
-    [ "DamageTaken", "df/d29/a21853.html#a8422c157214195d7166ede35c9c05d19", null ],
-    [ "Reset", "df/d29/a21853.html#a11a4f3270ff260e30da89017dad38433", null ]
+    [ "npc_conversing_with_the_depths_triggerAI", "d1/d55/a21857.html", "d1/d55/a21857" ],
+    [ "npc_conversing_with_the_depths_trigger", "df/d29/a21853.html#a55ba213da86650d44ea1493b26fdb7f2", null ],
+    [ "GetAI", "df/d29/a21853.html#a61c337bfe1efb3589cf0df91d9082236", null ]
 ];

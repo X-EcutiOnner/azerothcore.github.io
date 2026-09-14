@@ -1,9 +1,6 @@
 var a21233 =
 [
-    [ "npc_vrykul_skeleton", "d0/dcd/a21233.html#afda2014efb0ce63ee41c46cf2ad6c130", null ],
-    [ "DamageTaken", "d0/dcd/a21233.html#a840244c4183987e4fda533edb2ddeff2", null ],
-    [ "Reset", "d0/dcd/a21233.html#af950342b2177c84c101485736855b998", null ],
-    [ "UpdateAI", "d0/dcd/a21233.html#a80cd072eef6b0bf03a9a6a2fe22e252a", null ],
-    [ "events", "d0/dcd/a21233.html#a897bb5b5519f6f507bca49c5c5de17f6", null ],
-    [ "pInstance", "d0/dcd/a21233.html#a834f0162540683c20f9fa0f9e32eee33", null ]
+    [ "instance_ulduar_InstanceMapScript", "d6/d58/a21237.html", "d6/d58/a21237" ],
+    [ "instance_ulduar", "d0/dcd/a21233.html#a32c2a76d1cd20f2ad1ab441eafe1b682", null ],
+    [ "GetInstanceScript", "d0/dcd/a21233.html#ae263428f4229c75b22f990dabe6b3c06", null ]
 ];

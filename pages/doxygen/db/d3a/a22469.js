@@ -1,7 +1,6 @@
 var a22469 =
 [
-    [ "npc_wg_quest_giver", "db/d3a/a22469.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
-    [ "GetDialogStatus", "db/d3a/a22469.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
-    [ "OnGossipHello", "db/d3a/a22469.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
-    [ "OnGossipSelect", "db/d3a/a22469.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
+    [ "HandleScript", "db/d3a/a22469.html#abe018ab20f948bf5ddb47a724dfb9553", null ],
+    [ "PrepareSpellScript", "db/d3a/a22469.html#af0f5206d98dbc9de355abbeb03709c05", null ],
+    [ "Register", "db/d3a/a22469.html#a53d9d7de4922ed6509b6036921640352", null ]
 ];

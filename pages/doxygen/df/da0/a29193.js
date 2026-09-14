@@ -1,5 +1,9 @@
 var a29193 =
 [
-    [ "Itemlvl", "df/da0/a29193.html#a39d9dcee397a1f5984184c769f9b8b17", null ],
-    [ "multiplier", "df/da0/a29193.html#a5c6c206a6185a546223de7501ff846f6", null ]
+    [ "HolidayWorldStateId", "df/da0/a29193.html#a3f70ffbb1abb5a96fe91c2eec3682c8b", null ],
+    [ "id", "df/da0/a29193.html#a52f7840f9247d2af63062dd280b37341", null ],
+    [ "mapid", "df/da0/a29193.html#a11e1326eeb24b436b10db53acc323c13", null ],
+    [ "maxGroupSize", "df/da0/a29193.html#adbdae47b424c3b61b76b48ea5798f52d", null ],
+    [ "name", "df/da0/a29193.html#a9a56ca930ff8425d4b77066e47a1e09f", null ],
+    [ "type", "df/da0/a29193.html#a647669b97599d7edf02b5a38dd1d5116", null ]
 ];

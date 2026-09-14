@@ -1,7 +1,9 @@
 var a22421 =
 [
-    [ "HandleDummy", "d8/d5d/a22421.html#acdf98990ad575fec751a541cac3bcffa", null ],
-    [ "PrepareSpellScript", "d8/d5d/a22421.html#a2b9c56df8d6b2d5dcf0ebf952f7a16fd", null ],
-    [ "Register", "d8/d5d/a22421.html#ac628b5ddf18bae3b18b2512f1a92149f", null ],
-    [ "Validate", "d8/d5d/a22421.html#a3f7a01fcf8ef7cb151e29406b2b682a9", null ]
+    [ "npc_brunnhildar_prisonerAI", "d8/d5d/a22421.html#ad650885c7f615f8b27ba20203c9fbb6f", null ],
+    [ "JustRespawned", "d8/d5d/a22421.html#a15843fcdc5d9eb34df7869b56a0b16ac", null ],
+    [ "Reset", "d8/d5d/a22421.html#ac9ba0806b9702cebe9171d9ba8962b0f", null ],
+    [ "SpellHit", "d8/d5d/a22421.html#af2835ec5b951e2f4bb176ebe6bb958fd", null ],
+    [ "UpdateAI", "d8/d5d/a22421.html#a0702d4cf577ac00688a7b93bfe656952", null ],
+    [ "freed", "d8/d5d/a22421.html#a46e03a19bac91a800154e3c873235800", null ]
 ];

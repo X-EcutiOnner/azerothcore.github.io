@@ -1,10 +1,6 @@
 var a29297 =
 [
-    [ "ID", "d4/da5/a29297.html#a906c42770a619884f08b67e2870bff93", null ],
-    [ "reqarenapoints", "d4/da5/a29297.html#a5d45007a832d6120e29c7821c07646de", null ],
-    [ "reqarenaslot", "d4/da5/a29297.html#ad1e4b8f94a743bac02bbadbc8d62ad0b", null ],
-    [ "reqhonorpoints", "d4/da5/a29297.html#aca509fb7e234bc54632ff988bf37e6ad", null ],
-    [ "reqitem", "d4/da5/a29297.html#a9cba8872c909260a55dcfdf7f4726899", null ],
-    [ "reqitemcount", "d4/da5/a29297.html#a615c5fe0966b5054303ebe1290adc9b6", null ],
-    [ "reqpersonalarenarating", "d4/da5/a29297.html#af4ff8d55234b03637e4b2fbd10778e97", null ]
+    [ "Id", "d4/da5/a29297.html#a9f283a7c8339cc5b4fa67f3974ce8621", null ],
+    [ "SpellId", "d4/da5/a29297.html#ae8c119bacf706916f331d3f316fb1347", null ],
+    [ "TypeFlags", "d4/da5/a29297.html#aae92871758e9a738a888cacf0946f16b", null ]
 ];

@@ -1,7 +1,15 @@
 var a21645 =
 [
-    [ "npc_mootoo_the_youngerAI", "d4/d71/a21649.html", "d4/d71/a21649" ],
-    [ "npc_mootoo_the_younger", "d8/d35/a21645.html#a91e10489ed6a98cfa764fd4de8448317", null ],
-    [ "GetAI", "d8/d35/a21645.html#ac49b3454afa4a3fbedd0887e3ff831b3", null ],
-    [ "OnQuestAccept", "d8/d35/a21645.html#a5fce360ef989f5b2fe42cd04361e33bc", null ]
+    [ "npc_azure_saboteur", "d8/d35/a21645.html#a051e99f11de367f810d9404a723173fd", null ],
+    [ "FinishPointReached", "d8/d35/a21645.html#a451777273b76e4651b1f4309e8477c9f", null ],
+    [ "InitializeAI", "d8/d35/a21645.html#acf28368986b940b571f493bd663e8e09", null ],
+    [ "MoveInLineOfSight", "d8/d35/a21645.html#a1a65d5100befd33a104a13eef0800ae7", null ],
+    [ "UpdateAI", "d8/d35/a21645.html#af5cf21e08a62b09793e99a92df1ef1b7", null ],
+    [ "WaypointReached", "d8/d35/a21645.html#a7c6f44f0dcdb0d5abc18e304383d3b96", null ],
+    [ "WaypointReached", "d8/d35/a21645.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_boss", "d8/d35/a21645.html#ab23d685ca979bba79a3d9a14117350f8", null ],
+    [ "_count", "d8/d35/a21645.html#aa431780ab6b90976494058a602377825", null ],
+    [ "_events", "d8/d35/a21645.html#a7ee513b49f09971f5fea099e8c9b7bc7", null ],
+    [ "_instance", "d8/d35/a21645.html#ab220c76d2fd72df36b5b92ee897d9d14", null ],
+    [ "_isOpening", "d8/d35/a21645.html#a59ecc6687f1d5d948c6988d14f577ffd", null ]
 ];

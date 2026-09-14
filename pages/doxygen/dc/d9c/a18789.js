@@ -1,9 +1,6 @@
 var a18789 =
 [
-    [ "HandleScript", "dc/d9c/a18789.html#adaab7b03edc6ff147e856dc0cdfc5ad0", null ],
-    [ "Load", "dc/d9c/a18789.html#aa2a5488ff4706a44350bd969d57a99e1", null ],
-    [ "PrepareSpellScript", "dc/d9c/a18789.html#a73931c9434114749b9db648665153083", null ],
-    [ "Register", "dc/d9c/a18789.html#a16b01725a1b2a105df365e0b178a4f0f", null ],
-    [ "SelectTarget", "dc/d9c/a18789.html#a95be527c43ceeb4801f4e494753c1b59", null ],
-    [ "_target", "dc/d9c/a18789.html#a2e97dd4fd1fd2ea2ba8bf3d335711de8", null ]
+    [ "npc_raging_spiritAI", "d9/d98/a18793.html", "d9/d98/a18793" ],
+    [ "npc_raging_spirit", "dc/d9c/a18789.html#ad1a580bd394adc8c58575b600c16f9db", null ],
+    [ "GetAI", "dc/d9c/a18789.html#ab572a667f6ddd0d4051fe424c8d9e21c", null ]
 ];

@@ -1,9 +1,7 @@
 var a12813 =
 [
-    [ "boss_overlord_wyrmthalak", "d3/d0d/a12813.html#a412ced7f6cbb2c02b174824b57132ab3", null ],
-    [ "JustDied", "d3/d0d/a12813.html#a66f2bda1b2352c42a15be505f6d610c6", null ],
-    [ "JustEngagedWith", "d3/d0d/a12813.html#a4673b2e6c3b7143ab088b699c7f41d8a", null ],
-    [ "Reset", "d3/d0d/a12813.html#a8c4bff3d35d4ddb5c6c8994cb4ee9d67", null ],
-    [ "UpdateAI", "d3/d0d/a12813.html#afcca6360598b40df4c35bff752eee3f4", null ],
-    [ "_summoned", "d3/d0d/a12813.html#a4ccbe2c20ef1303141005a79ec418705", null ]
+    [ "boss_moira_bronzebeard", "d3/d0d/a12813.html#aaab4b597fd97619c2a41e2a6425810de", null ],
+    [ "CastOnEmperorIfPossible", "d3/d0d/a12813.html#a413aab0c096319ea17d6c6a078b056ea", null ],
+    [ "JustEngagedWith", "d3/d0d/a12813.html#a6bf08072a59fe72ce4a3e27a9e289d3c", null ],
+    [ "UpdateAI", "d3/d0d/a12813.html#a8319c70b3391721164ac1a01d8f6be9c", null ]
 ];

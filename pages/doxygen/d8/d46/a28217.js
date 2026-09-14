@@ -1,8 +1,6 @@
 var a28217 =
 [
-    [ "FilterTargets", "d8/d46/a28217.html#a53c6d73f3588e50c2be7ce68595a704c", null ],
-    [ "HandleEffect", "d8/d46/a28217.html#a2edac19abf8aa765ada369e00cd7ea69", null ],
-    [ "PrepareSpellScript", "d8/d46/a28217.html#ae1e1ff5456cb7c558ff4fe415de6a691", null ],
-    [ "Register", "d8/d46/a28217.html#acb4d6abeb0e293728ae3dd0d248e0844", null ],
-    [ "Validate", "d8/d46/a28217.html#aabc063155fad404ffd044c9f79b88051", null ]
+    [ "AreaTrigger_at_area_52_entrance", "d8/d46/a28217.html#a5b7e21903bca1c04bad1394c6965d032", null ],
+    [ "OnTrigger", "d8/d46/a28217.html#a1e537d133ee5e6ad1dbb0c732e23a128", null ],
+    [ "_triggerTimes", "d8/d46/a28217.html#a6c3225f46ea71d06b81b25d5fb6e8f25", null ]
 ];

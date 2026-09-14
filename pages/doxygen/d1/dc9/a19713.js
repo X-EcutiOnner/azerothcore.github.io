@@ -1,7 +1,6 @@
 var a19713 =
 [
-    [ "npc_naxxramas_trigger", "d1/dc9/a19713.html#a62fd64468daf378fbe2e8f18b1f002f8", null ],
-    [ "Reset", "d1/dc9/a19713.html#a5bf85ab6027ca5101df32cda6df29b28", null ],
-    [ "UpdateAI", "d1/dc9/a19713.html#acd051dd7790aa37cd2375479433509cb", null ],
-    [ "_events", "d1/dc9/a19713.html#a1ab25fd0b40f373d30b0f60462dd276b", null ]
+    [ "FilterTargets", "d1/dc9/a19713.html#a4d5340e7b2e3326ff36b4d61d1faeaa9", null ],
+    [ "PrepareSpellScript", "d1/dc9/a19713.html#a452937a4e95b40366f915213ec475a84", null ],
+    [ "Register", "d1/dc9/a19713.html#a883e383928a9b0ad0aeccf7afee4f15e", null ]
 ];

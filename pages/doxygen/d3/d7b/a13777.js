@@ -1,7 +1,6 @@
 var a13777 =
 [
-    [ "boss_kalec", "d3/d7b/a13777.html#a9c36e31c750e93840f30f001cdaca0da", null ],
-    [ "JustDied", "d3/d7b/a13777.html#a46f35b35c1d17abc2ffaf909c53a4039", null ],
-    [ "JustEngagedWith", "d3/d7b/a13777.html#a4813ca02ed5ffc35add5279cc1ec277f", null ],
-    [ "UpdateAI", "d3/d7b/a13777.html#ab55da7584fa7f545761a5bd547245747", null ]
+    [ "FilterTargets", "d3/d7b/a13777.html#a78675c3421e0243de9e136b646c56be1", null ],
+    [ "PrepareSpellScript", "d3/d7b/a13777.html#a0fb177c467c2582e6b66ceae51780d6c", null ],
+    [ "Register", "d3/d7b/a13777.html#a39f8a11194fe19a14d25b30faaa6cf42", null ]
 ];

@@ -104,23 +104,30 @@ $(document).ready(function(){initNavTree('df/d7d/a05461.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">RegularGrid2D&lt; T, Node, NodeCreatorFunc, PositionFunc &gt;::Cell Member List</div></div>
+  <div class="headertitle"><div class="title">VMAP::WorldModel Member List</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>This is the complete list of members for <a class="el" href="../../df/d7d/a05461.html">RegularGrid2D&lt; T, Node, NodeCreatorFunc, PositionFunc &gt;::Cell</a>, including all inherited members.</p>
+<p>This is the complete list of members for <a class="el" href="../../df/d7d/a05461.html">VMAP::WorldModel</a>, including all inherited members.</p>
 <table class="directory">
-  <tr class="even"><td class="entry"><a class="el" href="../../df/d7d/a05461.html#a32a8b5ab15a28fb06672fcf62ac63d1e">ComputeCell</a>(float fx, float fy)</td><td class="entry"><a class="el" href="../../df/d7d/a05461.html">RegularGrid2D&lt; T, Node, NodeCreatorFunc, PositionFunc &gt;::Cell</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">static</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../df/d7d/a05461.html#afe64d87e738675f1c8cb0fa6d440029c">isValid</a>() const</td><td class="entry"><a class="el" href="../../df/d7d/a05461.html">RegularGrid2D&lt; T, Node, NodeCreatorFunc, PositionFunc &gt;::Cell</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../df/d7d/a05461.html#afd79442d37d0a98d85ba2c366350156a">operator==</a>(Cell const &amp;c2) const</td><td class="entry"><a class="el" href="../../df/d7d/a05461.html">RegularGrid2D&lt; T, Node, NodeCreatorFunc, PositionFunc &gt;::Cell</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../df/d7d/a05461.html#a8435f7d7b8f529dfe397ada59e3405a1">x</a></td><td class="entry"><a class="el" href="../../df/d7d/a05461.html">RegularGrid2D&lt; T, Node, NodeCreatorFunc, PositionFunc &gt;::Cell</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../df/d7d/a05461.html#af3d5ae020727d58286ef7725958063a9">y</a></td><td class="entry"><a class="el" href="../../df/d7d/a05461.html">RegularGrid2D&lt; T, Node, NodeCreatorFunc, PositionFunc &gt;::Cell</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../df/d7d/a05461.html#aea4d1e085733b0bbfbb389d7c4ac9bd1">Flags</a></td><td class="entry"><a class="el" href="../../df/d7d/a05461.html">VMAP::WorldModel</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../df/d7d/a05461.html#ae739dd33c5fcfdf4129ec0f9292eb885">GetGroupModels</a>(std::vector&lt; GroupModel &gt; &amp;outGroupModels)</td><td class="entry"><a class="el" href="../../df/d7d/a05461.html">VMAP::WorldModel</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../df/d7d/a05461.html#ac21283b75ba9cc5f1bdf3c12f4dd4856">GetLocationInfo</a>(G3D::Vector3 const &amp;p, G3D::Vector3 const &amp;down, float &amp;dist, GroupLocationInfo &amp;info) const</td><td class="entry"><a class="el" href="../../df/d7d/a05461.html">VMAP::WorldModel</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../df/d7d/a05461.html#ae44c57520cea5da5a5f082167e9f818d">groupModels</a></td><td class="entry"><a class="el" href="../../df/d7d/a05461.html">VMAP::WorldModel</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../df/d7d/a05461.html#a101692f46ae752cbde7b264b02e23168">groupTree</a></td><td class="entry"><a class="el" href="../../df/d7d/a05461.html">VMAP::WorldModel</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../df/d7d/a05461.html#acbbf59cbe5c6a9fcb0d31cc6b2b5f3b2">IntersectRay</a>(G3D::Ray const &amp;ray, float &amp;distance, bool stopAtFirstHit, ModelIgnoreFlags ignoreFlags) const</td><td class="entry"><a class="el" href="../../df/d7d/a05461.html">VMAP::WorldModel</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../df/d7d/a05461.html#af3daef8196713ae776e1f39f347f8074">readFile</a>(std::string const &amp;filename)</td><td class="entry"><a class="el" href="../../df/d7d/a05461.html">VMAP::WorldModel</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../df/d7d/a05461.html#a5a8745b313b1417e9dbb1d571fb173dd">RootWMOID</a></td><td class="entry"><a class="el" href="../../df/d7d/a05461.html">VMAP::WorldModel</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../df/d7d/a05461.html#aadf13de73aee68848ea6082418e625b0">setGroupModels</a>(std::vector&lt; GroupModel &gt; &amp;models)</td><td class="entry"><a class="el" href="../../df/d7d/a05461.html">VMAP::WorldModel</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../df/d7d/a05461.html#a5d6daa757304ceb69e578a6b9ae519d4">setRootWmoID</a>(uint32 id)</td><td class="entry"><a class="el" href="../../df/d7d/a05461.html">VMAP::WorldModel</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../df/d7d/a05461.html#a42116d73362e248de40a88f49d95a0f4">WorldModel</a>()</td><td class="entry"><a class="el" href="../../df/d7d/a05461.html">VMAP::WorldModel</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../df/d7d/a05461.html#ab1ea1da284c39d66a4c89e161f3272af">writeFile</a>(std::string const &amp;filename)</td><td class="entry"><a class="el" href="../../df/d7d/a05461.html">VMAP::WorldModel</a></td><td class="entry"></td></tr>
 </table></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon Sep 7 2026 23:05:15 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Sep 14 2026 23:34:57 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

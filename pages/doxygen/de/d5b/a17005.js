@@ -1,6 +1,6 @@
 var a17005 =
 [
-    [ "npc_toc_retro_paladinAI", "df/d33/a17009.html", "df/d33/a17009" ],
-    [ "npc_toc_retro_paladin", "de/d5b/a17005.html#abfb15148aefe186447cfdb3a2c8749c4", null ],
-    [ "GetAI", "de/d5b/a17005.html#a1213c99792aa4362275bc827aa2f037e", null ]
+    [ "npc_toc_mageAI", "df/d33/a17009.html", "df/d33/a17009" ],
+    [ "npc_toc_mage", "de/d5b/a17005.html#a8270875c1da3e2e96f767362ef90cdc6", null ],
+    [ "GetAI", "de/d5b/a17005.html#a64b5b8b3a5933a0264537f2187e81e15", null ]
 ];

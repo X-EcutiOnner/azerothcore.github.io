@@ -1,5 +1,8 @@
 var a19817 =
 [
-    [ "achievement_split_personality", "db/df7/a19817.html#aac29ae7c321306a663e55493987af45d", null ],
-    [ "OnCheck", "db/df7/a19817.html#ab5379f3c1191eeb747cb6762fc42ce01", null ]
+    [ "Load", "db/df7/a19817.html#af8ef90a44a5405e58dbb3003642c078b", null ],
+    [ "PrepareSpellScript", "db/df7/a19817.html#a40649371440d62e4ba8af1b077880d0b", null ],
+    [ "Register", "db/df7/a19817.html#ae2e6dbec0ace878477b6024e45d8dac0", null ],
+    [ "SendThreeTargets", "db/df7/a19817.html#ab16b83839ce9136da84691640020f846", null ],
+    [ "Validate", "db/df7/a19817.html#a27686bfd0d6029cc4667738b0af4bec4", null ]
 ];

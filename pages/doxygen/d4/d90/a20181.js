@@ -1,7 +1,6 @@
 var a20181 =
 [
-    [ "OnRemove", "d4/d90/a20181.html#a4d7ec990112b4ed602bcacf5a6de6722", null ],
-    [ "PrepareAuraScript", "d4/d90/a20181.html#a7cc9f0d6882b713c7b0a2585d6008437", null ],
-    [ "Register", "d4/d90/a20181.html#ad3a66fdfb2a159461bb3deeab6f71c13", null ],
-    [ "Validate", "d4/d90/a20181.html#a8bd121743d1153ae3fd8eb124e475d0f", null ]
+    [ "HandlePeriodic", "d4/d90/a20181.html#a0a77c0b232e24e5cb8b3392ac8adbd3a", null ],
+    [ "PrepareAuraScript", "d4/d90/a20181.html#a7c6b6839da4a93f656800c9ae174c832", null ],
+    [ "Register", "d4/d90/a20181.html#ae28e67baa12488e248efd46ef5a7cb11", null ]
 ];

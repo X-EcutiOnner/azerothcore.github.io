@@ -1,12 +1,9 @@
 var a29657 =
 [
-    [ "HealInfoStubBuilder", "dc/dad/a29657.html#a57945de96ad065451cadb47edba287c8", null ],
-    [ "Build", "dc/dad/a29657.html#a291565d223df00ce9d09c0315e803448", null ],
-    [ "WithAbsorb", "dc/dad/a29657.html#aa09160afe48114a7a3566be328f64658", null ],
-    [ "WithEffectiveHeal", "dc/dad/a29657.html#a34a359322b018cffc5f54ca999c11b11", null ],
-    [ "WithHeal", "dc/dad/a29657.html#a812e06b07eeb18c1d379409b77a80b89", null ],
-    [ "WithHitMask", "dc/dad/a29657.html#ab788ddcc209140ed3c10b02785471dcb", null ],
-    [ "WithOverheal", "dc/dad/a29657.html#a89c12c30725eb2bdc3889005a38d54eb", null ],
-    [ "WithSpellInfo", "dc/dad/a29657.html#a4dc784241fbe998437cceb953fb83e1f", null ],
-    [ "_stub", "dc/dad/a29657.html#ad0da544c651e387d8c6e9b272aa3db7b", null ]
+    [ "flags", "dc/dad/a29657.html#a064de2e88c563121bbb78549a7bab868", null ],
+    [ "_flags", "dc/dad/a29657.html#a16f1b30a57eb6703e8073ef55d988391", null ],
+    [ "bits", "dc/dad/a29657.html#a529f1856635132646457c57f3546f4ec", null ],
+    [ "configKey", "dc/dad/a29657.html#af14d118016b9e01612769c00f13aa2d6", null ],
+    [ "oldKey", "dc/dad/a29657.html#a29605b536523f6d022bbac0e12d1d8dc", null ],
+    [ "owner", "dc/dad/a29657.html#a24aaa1c473c3932c83dd49aad84f8361", null ]
 ];

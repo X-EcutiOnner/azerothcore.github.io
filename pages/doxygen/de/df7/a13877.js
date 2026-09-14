@@ -1,9 +1,6 @@
 var a13877 =
 [
-    [ "boss_entropius", "de/df7/a13877.html#a458deaa80c9694cd2608150bc5519c76", null ],
-    [ "EnterEvadeMode", "de/df7/a13877.html#a01889b192525af082471d092bff28c88", null ],
-    [ "JustDied", "de/df7/a13877.html#aed1313073a44bc15f87432a85e6c2d8e", null ],
-    [ "JustEngagedWith", "de/df7/a13877.html#afb07fc44fd14b9f78fbc97b2670b8b5e", null ],
-    [ "Reset", "de/df7/a13877.html#ad9da990a540703d38cb45dd2da72c179", null ],
-    [ "UpdateAI", "de/df7/a13877.html#ab7fbeb67059c48b5f1aff071990ece5e", null ]
+    [ "FixOrientation", "de/df7/a13877.html#ac4a9654d37a73f9d5ddc73ff90ce145b", null ],
+    [ "Execute", "de/df7/a13877.html#a7af72679731c9b86b9ae36d19d1621e5", null ],
+    [ "_owner", "de/df7/a13877.html#a5f12db3774bdeef25a300780c00db1fb", null ]
 ];

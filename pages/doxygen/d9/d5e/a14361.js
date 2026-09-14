@@ -1,7 +1,5 @@
 var a14361 =
 [
-    [ "HandleDispel", "d9/d5e/a14361.html#a415977576283972ce4a1050c70826d7c", null ],
-    [ "PrepareAuraScript", "d9/d5e/a14361.html#a95dfbfe631e8ec9213a32c6f52d3feb1", null ],
-    [ "Register", "d9/d5e/a14361.html#a1bbb71eeb2273c2ecd0eb774b68735dc", null ],
-    [ "Validate", "d9/d5e/a14361.html#ac496e7bef875ca46660217e74fc3bc74", null ]
+    [ "npc_andorhal_towerAI", "d9/d5e/a14361.html#ad2f8a14f2adfe1418a23de274493f85e", null ],
+    [ "MoveInLineOfSight", "d9/d5e/a14361.html#a1165ee0e066dcaeb300096e55758389b", null ]
 ];

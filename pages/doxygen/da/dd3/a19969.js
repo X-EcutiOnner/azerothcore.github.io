@@ -1,12 +1,7 @@
 var a19969 =
 [
-    [ "boss_ionar", "da/dd3/a19969.html#a323da67c3ff33d09d07cf0369600a473", null ],
-    [ "JustDied", "da/dd3/a19969.html#a8caea41ed747f86ae5d1437be1e95f8d", null ],
-    [ "JustEngagedWith", "da/dd3/a19969.html#a16abbb5ac05ef6c471ad051be25525a8", null ],
-    [ "KilledUnit", "da/dd3/a19969.html#ae6b1225147bc146066185d4d21c19f14", null ],
-    [ "Reset", "da/dd3/a19969.html#ac37b88ca61994d12f731e50b5ddbbb0f", null ],
-    [ "ScheduleEvents", "da/dd3/a19969.html#af74dda7ad9cd156036689694b3bb9986", null ],
-    [ "SpellHit", "da/dd3/a19969.html#a85c0ba28de5a684435246539d2106dcd", null ],
-    [ "Split", "da/dd3/a19969.html#a6ec30b8222b887ff51c8f41b8a9bdeef", null ],
-    [ "UpdateAI", "da/dd3/a19969.html#ad6fb218e743bad9fec357ea7d862744d", null ]
+    [ "Apply", "da/dd3/a19969.html#add8e95d38b0c437833c11cded72fe2a7", null ],
+    [ "PrepareAuraScript", "da/dd3/a19969.html#ad2112b571d97e537983b4d11207015e6", null ],
+    [ "Register", "da/dd3/a19969.html#accf85a0d8b2fad19bb0709013caa9f1b", null ],
+    [ "Validate", "da/dd3/a19969.html#a0b89b10ee22d02655ad08a348ab91ecd", null ]
 ];

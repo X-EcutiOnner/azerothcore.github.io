@@ -1,6 +1,6 @@
 var a25897 =
 [
-    [ "OnBaseRemove", "d1/dd6/a25897.html#aa6d10399bba721ff7a3651508fcdf449", null ],
-    [ "PrepareAuraScript", "d1/dd6/a25897.html#a34ad4890c7ce30427537e36980057e57", null ],
-    [ "Register", "d1/dd6/a25897.html#a713e694cad6f1cf533d45f5d633da36e", null ]
+    [ "CheckCast", "d1/dd6/a25897.html#a1fbbba8bdc9f775963a999aa00a5a256", null ],
+    [ "PrepareSpellScript", "d1/dd6/a25897.html#a481f9d36567607697c3ad5d9501bba48", null ],
+    [ "Register", "d1/dd6/a25897.html#afff66ccf4f6596475f4b58c529472f26", null ]
 ];

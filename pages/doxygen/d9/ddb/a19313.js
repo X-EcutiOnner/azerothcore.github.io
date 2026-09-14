@@ -1,6 +1,7 @@
 var a19313 =
 [
-    [ "npc_icc_severed_essenceAI", "dc/dea/a19317.html", "dc/dea/a19317" ],
-    [ "npc_icc_severed_essence", "d9/ddb/a19313.html#ace5b55755ef1dff3bd08a67fe2f64f94", null ],
-    [ "GetAI", "d9/ddb/a19313.html#a74b8dbb95f3dc31b514a2d7ac1f18190", null ]
+    [ "HandleEffectPeriodic", "d9/ddb/a19313.html#a57615f1d8b891ab5a5c01de1543235cb", null ],
+    [ "PrepareAuraScript", "d9/ddb/a19313.html#ae040da0db1147652266e1f373838df37", null ],
+    [ "Register", "d9/ddb/a19313.html#ab11b84522134ee4d13504df3c19f69b8", null ],
+    [ "Validate", "d9/ddb/a19313.html#af3c3c90256913ffe188c11a21fc2dcc8", null ]
 ];

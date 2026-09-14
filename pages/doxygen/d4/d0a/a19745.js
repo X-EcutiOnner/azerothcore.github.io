@@ -1,7 +1,8 @@
 var a19745 =
 [
-    [ "npc_eoe_wyrmrest_skytalon", "d4/d0a/a19745.html#a8a2c264c200336b9f49f2a86f6953ff6", null ],
-    [ "IsSummonedBy", "d4/d0a/a19745.html#a647ba18085c9522d8075c62ed9ce5b18", null ],
-    [ "JustDied", "d4/d0a/a19745.html#a65df31829e801154ee20d55ad1c15721", null ],
-    [ "PassengerBoarded", "d4/d0a/a19745.html#a350828bdc56029dcbfb863efef4d9d8e", null ]
+    [ "npc_teslaAI", "d4/d0a/a19745.html#a7281220648af1357b1377d6f7874d663", null ],
+    [ "DamageTaken", "d4/d0a/a19745.html#aa3ab570e86261bc3178e17109d76af12", null ],
+    [ "EnterEvadeMode", "d4/d0a/a19745.html#acc8115216989b34593a9435eeb051eda", null ],
+    [ "JustEngagedWith", "d4/d0a/a19745.html#add93f68bc96b3c93dc0a3271543711e6", null ],
+    [ "UpdateAI", "d4/d0a/a19745.html#a962745569b07e368067ee483d2379840", null ]
 ];

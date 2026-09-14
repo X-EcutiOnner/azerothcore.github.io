@@ -1,6 +1,7 @@
 var a25885 =
 [
-    [ "HandleDummyTick", "da/dc5/a25885.html#a000f8fd84e7292ac759b64a8a25d3ca2", null ],
-    [ "PrepareAuraScript", "da/dc5/a25885.html#a2848e44f1520cc32af916a8e6578c3ea", null ],
-    [ "Register", "da/dc5/a25885.html#a4a13827baeb7ed4f2681ab114d44eb37", null ]
+    [ "HandlePeriodic", "da/dc5/a25885.html#a990b88f97dbbcd68d0df8989414d08bc", null ],
+    [ "PrepareAuraScript", "da/dc5/a25885.html#a4c8214e2fc72ceacc5822bfdec6e8380", null ],
+    [ "Register", "da/dc5/a25885.html#ab2da1b1433184a0dd4c6dd93b798890c", null ],
+    [ "Validate", "da/dc5/a25885.html#a55720e74edaf5eedf074738846ba6dd8", null ]
 ];

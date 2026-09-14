@@ -1,7 +1,7 @@
 var a25637 =
 [
-    [ "HandleScript", "d5/d45/a25637.html#a4788a8ce7c88378c8b55d1fe60200b71", null ],
-    [ "PrepareSpellScript", "d5/d45/a25637.html#a3317bfc299c6c8c81ef6dfd75ff773f0", null ],
-    [ "Register", "d5/d45/a25637.html#a1a44bfb68010c34470ee72c9dcdfc3b4", null ],
-    [ "Validate", "d5/d45/a25637.html#ad242bd4bb5f9be8767b170fd2cc9c444", null ]
+    [ "OnRemove", "d5/d45/a25637.html#ab6371347f0dc4ffc8bab6c75ca1cdf59", null ],
+    [ "PrepareAuraScript", "d5/d45/a25637.html#ac2b1a2311f97ab427439b45fb0770063", null ],
+    [ "Register", "d5/d45/a25637.html#a39e4914aa01769e14f61e2369ad8eda5", null ],
+    [ "Validate", "d5/d45/a25637.html#a71e47e70fd18affe1bd563f68fcb2efe", null ]
 ];

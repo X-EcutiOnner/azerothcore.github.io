@@ -1,6 +1,6 @@
 var a22053 =
 [
-    [ "HandleScriptEffect", "dd/d2e/a22053.html#a0d6a2eda99d95b1ee3403d8c63415800", null ],
-    [ "PrepareSpellScript", "dd/d2e/a22053.html#a68920ab07d955763e8a627e6cb35638c", null ],
-    [ "Register", "dd/d2e/a22053.html#a918cf6968f6eec5a4025324bd7f78747", null ]
+    [ "npc_ravenous_worgAI", "de/da4/a22057.html", "de/da4/a22057" ],
+    [ "npc_ravenous_worg", "dd/d2e/a22053.html#ad7f8da1c82072367fe4a537620df9ac0", null ],
+    [ "GetAI", "dd/d2e/a22053.html#ac966ae31d3a86c9435b14d9f50a5f4cb", null ]
 ];

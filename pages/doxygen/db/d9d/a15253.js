@@ -1,6 +1,7 @@
 var a15253 =
 [
-    [ "boss_epochAI", "d8/d76/a15257.html", "d8/d76/a15257" ],
-    [ "boss_epoch", "db/d9d/a15253.html#a78b7d775bc3fc44496e41c58f2ed534d", null ],
-    [ "GetAI", "db/d9d/a15253.html#a2673a4fb8c70d62009dfdc6daf23aee2", null ]
+    [ "OnPeriodic", "db/d9d/a15253.html#a4ed63f32afe3831d7fb08333ff1d379f", null ],
+    [ "PrepareAuraScript", "db/d9d/a15253.html#a74be4e2b0f9c6254a87a7cfb8159fc9b", null ],
+    [ "Register", "db/d9d/a15253.html#aeb388d608830aeb3b30f707304403b41", null ],
+    [ "Validate", "db/d9d/a15253.html#af27768000c5c3232a1264f4f1f2bd7b3", null ]
 ];

@@ -1,6 +1,8 @@
 var a23261 =
 [
-    [ "HandleScriptEffect", "d4/de2/a23261.html#a766edc5924124c869b04ec82cd2bc693", null ],
-    [ "PrepareSpellScript", "d4/de2/a23261.html#a1eac10c673b8f43ae08f8bbdf949f82f", null ],
-    [ "Register", "d4/de2/a23261.html#a60d4e21bf31c997ef4105ad72c8b4e85", null ]
+    [ "CalculateAmount", "d4/de2/a23261.html#a13d44c0d5f9b0111ae3b0d3d089e3e13", null ],
+    [ "OnPeriodic", "d4/de2/a23261.html#ab4d3f69d50fa320886f454ddfe1076f4", null ],
+    [ "PrepareAuraScript", "d4/de2/a23261.html#a1278420b279449c1c6a53b1a7b53f539", null ],
+    [ "Register", "d4/de2/a23261.html#a4795011faa2f68b1068d37b81f8c1cf2", null ],
+    [ "Validate", "d4/de2/a23261.html#a601c2db3a8e47d48b956ed102cbca104", null ]
 ];

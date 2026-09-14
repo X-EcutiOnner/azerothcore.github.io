@@ -1,8 +1,10 @@
 var a13685 =
 [
-    [ "npc_madrigosa", "d5/d96/a13685.html#a7624e25e00c1e7505ba171d0be40beb3", null ],
-    [ "DoAction", "d5/d96/a13685.html#aaf481ec840e679a9633bd3ecdb4eb3df", null ],
-    [ "UpdateAI", "d5/d96/a13685.html#a3431d13ea4ebd97d3fc6e542f89e033d", null ],
-    [ "events", "d5/d96/a13685.html#a5859e4c8454371eb71740616d4763c0e", null ],
-    [ "instance", "d5/d96/a13685.html#a09525d3bb35d1da4246bd84bbadea304", null ]
+    [ "HandleDummyTick", "d5/d96/a13685.html#a036291aee8b08212ecead4afce01adf4", null ],
+    [ "Load", "d5/d96/a13685.html#aaecea41af42790dfe9aeba3c56480668", null ],
+    [ "OnApply", "d5/d96/a13685.html#a37b425f877e7415b245c119c29521c4b", null ],
+    [ "PrepareAuraScript", "d5/d96/a13685.html#ade7bfbc3400fb620956d1e8dff7d4a8a", null ],
+    [ "Register", "d5/d96/a13685.html#a9b32995b6e324a6c779bbd742de6cce2", null ],
+    [ "Validate", "d5/d96/a13685.html#a72595ee3cd995d7bed2bcf8c9f5199fb", null ],
+    [ "_forsakenSpell", "d5/d96/a13685.html#ae2aee05482e4854120fc581ecec41f95", null ]
 ];

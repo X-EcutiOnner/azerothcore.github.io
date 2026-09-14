@@ -1,15 +1,13 @@
 var a09509 =
 [
-    [ "CoordPair", "db/d71/a09509.html#a53b5f24cfdf13b246549a0c1543924c9", null ],
-    [ "CoordPair", "db/d71/a09509.html#aa3b39d5ce384201907e01f95b6866b6e", null ],
-    [ "dec_x", "db/d71/a09509.html#a69be5b72b710722120104f0c502fbb70", null ],
-    [ "dec_y", "db/d71/a09509.html#aefa33f8766212bb71e5fd19a318142cc", null ],
-    [ "GetId", "db/d71/a09509.html#ae4f7f304faf2c2363cffe2170b4c5c97", null ],
-    [ "inc_x", "db/d71/a09509.html#aa6a4942253e87ae57e2d69a2563ddef1", null ],
-    [ "inc_y", "db/d71/a09509.html#a120946c5a8c8b49bbdf9a1ee54ded9ec", null ],
-    [ "IsCoordValid", "db/d71/a09509.html#a082960c54e2077df370f891c0534b44f", null ],
-    [ "normalize", "db/d71/a09509.html#afac8086374bfc499e3a8d74d6afc58db", null ],
-    [ "operator=", "db/d71/a09509.html#a68bbf6afd1600e9dd0c31a9c7ff38077", null ],
-    [ "x_coord", "db/d71/a09509.html#a101dd71af6a2cba18140aea2e502ef8b", null ],
-    [ "y_coord", "db/d71/a09509.html#aacae12844cc0c0d70e26b137ad28f700", null ]
+    [ "QuestPOI", "db/d71/a09509.html#af4ce75549d1fff2042e98683119214a6", null ],
+    [ "QuestPOI", "db/d71/a09509.html#a4cf252fabc68cf11df5d44f192955a0b", null ],
+    [ "AreaId", "db/d71/a09509.html#ad81f08fa2bc5fd0ccd81d0efc42ce804", null ],
+    [ "FloorId", "db/d71/a09509.html#a1af6ed9fdb9ff429e18fb5d98a42ce45", null ],
+    [ "Id", "db/d71/a09509.html#aace0de15249c756ba3cbd5763cbb3f98", null ],
+    [ "MapId", "db/d71/a09509.html#a851f8e6e62373d2592173534754d757b", null ],
+    [ "ObjectiveIndex", "db/d71/a09509.html#ad80f65110beacd44e667008387e6bb70", null ],
+    [ "points", "db/d71/a09509.html#aeb505cb061a00ecaa2acc749e391f207", null ],
+    [ "Unk3", "db/d71/a09509.html#a1f1d8fa843c856b54ec1ca85b08d78e1", null ],
+    [ "Unk4", "db/d71/a09509.html#aa8089160bb8e93ea79df96b956050b70", null ]
 ];

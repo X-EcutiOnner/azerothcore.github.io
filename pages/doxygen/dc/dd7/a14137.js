@@ -1,7 +1,6 @@
 var a14137 =
 [
-    [ "npc_king_varian_wrynn", "dc/dd7/a14137.html#ab62609f2e468d1d173d9c9ea4c05d164", null ],
-    [ "JustDied", "dc/dd7/a14137.html#ae1b1aca3df1398a4f86f7b1deba5fd14", null ],
-    [ "OnQuestReward", "dc/dd7/a14137.html#a3f461d73130945e2287c5ea46b8bdce9", null ],
-    [ "UpdateAI", "dc/dd7/a14137.html#a37bdb5c5c286b2c34e55ef9e8e1aff77", null ]
+    [ "npc_corporal_keeshanAI", "d8/d95/a14141.html", "d8/d95/a14141" ],
+    [ "npc_corporal_keeshan", "dc/dd7/a14137.html#a0ca9459a7f283e040f14e0052762f587", null ],
+    [ "GetAI", "dc/dd7/a14137.html#a2cc19f28dea9ea8597648339a160d1bc", null ]
 ];

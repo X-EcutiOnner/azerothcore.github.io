@@ -1,7 +1,6 @@
 var a18249 =
 [
-    [ "HandleSpikes", "d8/df7/a18249.html#a012d61aacf79b9b1f5b4b5c5c81b5ed4", null ],
-    [ "PrepareSpellScript", "d8/df7/a18249.html#a6ffb6454eb4c58a1b66356814c13b659", null ],
-    [ "Register", "d8/df7/a18249.html#a893345cf191d084a0f97a8464b7d381a", null ],
-    [ "Validate", "d8/df7/a18249.html#aa6545760706d8695aefd4064c3c71c6b", null ]
+    [ "npc_vengeful_shadeAI", "d1/d96/a18253.html", "d1/d96/a18253" ],
+    [ "npc_vengeful_shade", "d8/df7/a18249.html#a99c535efd94fbd5bded8fd9555bb6eaf", null ],
+    [ "GetAI", "d8/df7/a18249.html#afa2c672015b43d83bd55050ed020f7e5", null ]
 ];

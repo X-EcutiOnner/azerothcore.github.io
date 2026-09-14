@@ -1,7 +1,9 @@
 var a22069 =
 [
-    [ "npc_plaguehound_trackerAI", "dc/d7b/a22069.html#a7530f500b42ad9bb38593193d3113da8", null ],
-    [ "Reset", "dc/d7b/a22069.html#a05c351ab3aca0cd18209405075bb0f47", null ],
-    [ "WaypointReached", "dc/d7b/a22069.html#a67c345f49572cde76d9109a1baff6788", null ],
-    [ "WaypointReached", "dc/d7b/a22069.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "npc_wounded_skirmisher", "dc/d7b/a22069.html#a30fe2d901df0cfd9b66f3dbd6a1e6aea", null ],
+    [ "Initialize", "dc/d7b/a22069.html#ae5fab920fcb16b57e0ed53a1177d319b", null ],
+    [ "JustEngagedWith", "dc/d7b/a22069.html#a80357b71a1eccdcdce8c8bea87de1b66", null ],
+    [ "Reset", "dc/d7b/a22069.html#acca266640c099718d2a0fd4f6a3c47ab", null ],
+    [ "SpellHit", "dc/d7b/a22069.html#a891e879af5da1f181c94e528c59a81f1", null ],
+    [ "UpdateAI", "dc/d7b/a22069.html#a52f8e7f8df05504cad4b4438c50814a4", null ]
 ];

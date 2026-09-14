@@ -1,8 +1,6 @@
 var a10237 =
 [
-    [ "BoundaryIntersectBoundary", "db/d22/a10237.html#ad92d938418434a1cb6a0eb68c88d281c", null ],
-    [ "~BoundaryIntersectBoundary", "db/d22/a10237.html#ad8bbf96e48d18ef87ac31dea8bcb023b", null ],
-    [ "IsWithinBoundaryArea", "db/d22/a10237.html#a09c8440d1ddb8264bff4065910b7e0a5", null ],
-    [ "_b1", "db/d22/a10237.html#ab0239437fa92e39d144bf3856eb347c7", null ],
-    [ "_b2", "db/d22/a10237.html#a41e100c17db99990981293399660824c", null ]
+    [ "ServerMailItems", "db/d22/a10237.html#a95cb2278da300c6b0385241f5a3950c1", null ],
+    [ "item", "db/d22/a10237.html#ae03738595a87a47e831bcbeea6f97d34", null ],
+    [ "itemCount", "db/d22/a10237.html#a4475d65dd5721d4af323ae93d15f4170", null ]
 ];

@@ -1,10 +1,9 @@
 var a27833 =
 [
-    [ "CheckProc", "db/d54/a27833.html#a257202ac9b80a67ce58d9e3491164d22", null ],
-    [ "HandleProc", "db/d54/a27833.html#aa3c74b25fbe63ac77e10260159adb8ca", null ],
-    [ "HandleTick", "db/d54/a27833.html#a5e436c530e5ef70bc4de4305676ed196", null ],
-    [ "PrepareAuraScript", "db/d54/a27833.html#aef7d1a2bbd59af36cc130f07e1204081", null ],
-    [ "Register", "db/d54/a27833.html#a11b0120ea8c8ccf1c96e5d1053d64895", null ],
-    [ "RemoveEffect", "db/d54/a27833.html#a333ad80d8478f59713ee049f935d7885", null ],
-    [ "Validate", "db/d54/a27833.html#aed3cb37f0230463978b210add84bd31d", null ]
+    [ "CheckCast", "db/d54/a27833.html#a441927e0d8d7304030440c19458eb34d", null ],
+    [ "HandleScriptEffect", "db/d54/a27833.html#a10e9691aa15869c82fba79072a314d7e", null ],
+    [ "PrepareSpellScript", "db/d54/a27833.html#a90b8ae945aeb85ad6e8a120501288979", null ],
+    [ "Register", "db/d54/a27833.html#aac95bd6f7409e1ae9d3f9cf0c7212990", null ],
+    [ "Validate", "db/d54/a27833.html#a00c67b65bcfdeaf56295da6a64689d58", null ],
+    [ "iTypes", "db/d54/a27833.html#ae852b9df34612c074eab23b025c86870", null ]
 ];

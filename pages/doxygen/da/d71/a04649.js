@@ -1,4 +1,5 @@
 var a04649 =
 [
-    [ "Acore::Crypto::Argon2", "d1/d13/a05505.html", "d1/d13/a05505" ]
+    [ "SessionKey", "da/d71/a04649.html#a7cbcb71452529a2addaab3b112dba4d7", null ],
+    [ "SESSION_KEY_LENGTH", "da/d71/a04649.html#accf22e06a217bb405f0ee6f240d2e263", null ]
 ];

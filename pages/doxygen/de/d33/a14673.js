@@ -1,6 +1,6 @@
 var a14673 =
 [
-    [ "boss_wushoolayAI", "de/d33/a14673.html#a2ea62154c0932e5cd34bd4b858829ffe", null ],
-    [ "JustEngagedWith", "de/d33/a14673.html#af519da543fff63a39a6fbe48f90f2f22", null ],
-    [ "UpdateAI", "de/d33/a14673.html#acfaacee2a97212eb15056c1552b9e06b", null ]
+    [ "LaunchHit", "de/d33/a14673.html#a715c86c4057fe8c60abf02d895ac3c5a", null ],
+    [ "PrepareSpellScript", "de/d33/a14673.html#a4ad316b68d84921255577aedabb5ad3f", null ],
+    [ "Register", "de/d33/a14673.html#a50fa3ede9bebb2b54c4ec10091017c07", null ]
 ];

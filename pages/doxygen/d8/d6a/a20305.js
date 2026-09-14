@@ -1,7 +1,5 @@
 var a20305 =
 [
-    [ "FilterTargets", "d8/d6a/a20305.html#a3d864f0428b7e53774d06069037ca5b2", null ],
-    [ "HandleScript", "d8/d6a/a20305.html#aef8bfe18b42bcc9ad70378c0d78354e7", null ],
-    [ "PrepareSpellScript", "d8/d6a/a20305.html#aafbd4751a01b4ce62dc94eee2e47f64f", null ],
-    [ "Register", "d8/d6a/a20305.html#afabe09f8d9a9a10855d6469e8a3db30f", null ]
+    [ "boss_flame_leviathan_overload_device", "d8/d6a/a20305.html#a6cd506d0615b1db9d42bf4d4858f6b05", null ],
+    [ "OnSpellClick", "d8/d6a/a20305.html#a3f313a637fd95e28db1265ae84f349a8", null ]
 ];

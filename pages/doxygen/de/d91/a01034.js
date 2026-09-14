@@ -1,6 +1,7 @@
 var a01034 =
 [
-    [ "WorldPackets::WorldState::InitWorldStates", "de/dc1/a11673.html", "de/dc1/a11673" ],
-    [ "WorldPackets::WorldState::InitWorldStates::WorldStateInfo", "d4/d06/a11677.html", "d4/d06/a11677" ],
-    [ "WorldPackets::WorldState::UpdateWorldState", "d1/d96/a11681.html", "d1/d96/a11681" ]
+    [ "WorldPackets::Calendar::GetEvent", "d1/d80/a11013.html", "d1/d80/a11013" ],
+    [ "WorldPackets::Calendar::GuildFilter", "da/d84/a11017.html", "da/d84/a11017" ],
+    [ "WorldPackets::Calendar::ArenaTeam", "df/d3b/a11021.html", "df/d3b/a11021" ],
+    [ "WorldPackets::Calendar::CalendarComplain", "d0/d60/a11025.html", "d0/d60/a11025" ]
 ];

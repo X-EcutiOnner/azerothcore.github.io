@@ -1,6 +1,6 @@
 var a18905 =
 [
-    [ "npc_green_dragon_combat_triggerAI", "d0/d13/a18909.html", "d0/d13/a18909" ],
-    [ "npc_green_dragon_combat_trigger", "db/dfb/a18905.html#acec675494f5e5e9609bf34b7f25cb569", null ],
-    [ "GetAI", "db/dfb/a18905.html#a945b7cd0084873c17d52b3c2cc3ede22", null ]
+    [ "HandleScript", "db/dfb/a18905.html#a910663e3fb2534c0e3aefcfd0adfe2fb", null ],
+    [ "PrepareSpellScript", "db/dfb/a18905.html#a2c6acef52962f606130d643cbd93104b", null ],
+    [ "Register", "db/dfb/a18905.html#a03ed4f257c313ba33361c16f313fdfcc", null ]
 ];

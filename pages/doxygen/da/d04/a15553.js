@@ -1,6 +1,7 @@
 var a15553 =
 [
-    [ "HandleScript", "da/d04/a15553.html#a7e6ec873a252106ba865bdef05f757f5", null ],
-    [ "PrepareSpellScript", "da/d04/a15553.html#a98e80c8726c350aca850b6c87c5861da", null ],
-    [ "Register", "da/d04/a15553.html#a994bb1f4670d16f6797b9e0df1d8c36c", null ]
+    [ "npc_hive_zara_larva", "da/d04/a15553.html#a50fb5738d7b0818689216fee0915a0de", null ],
+    [ "JustSummoned", "da/d04/a15553.html#a2a1d80f70ae265b1db50e3a7165fa099", null ],
+    [ "MovementInform", "da/d04/a15553.html#a6890c58106450d654062f548a80cb42f", null ],
+    [ "_instance", "da/d04/a15553.html#aa8333a25c0e184dd75db580b03ef9cb2", null ]
 ];

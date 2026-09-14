@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: WorldPackets::Calendar Namespace Reference</title>
+<title>AzerothCore: anonymous_namespace{Transport.cpp} Namespace Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,29 +105,93 @@ $(document).ready(function(){initNavTree('df/df0/a05160.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a>  </div>
-  <div class="headertitle"><div class="title">WorldPackets::Calendar Namespace Reference</div></div>
+<a href="#func-members">Functions</a> &#124;
+<a href="#var-members">Variables</a>  </div>
+  <div class="headertitle"><div class="title">anonymous_namespace{Transport.cpp} Namespace Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d18/a10973.html">ArenaTeam</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d8f/a10977.html">CalendarComplain</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d1f/a10965.html">GetEvent</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dd9/a10969.html">GuildFilter</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:a385e4650cdda06aa445485dc66ce13b0"><td class="memItemLeft" align="right" valign="top">std::chrono::system_clock::time_point&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df0/a05160.html#a385e4650cdda06aa445485dc66ce13b0">calculateNextDepartureTime</a> (int oneIterationInterval)</td></tr>
+<tr class="separator:a385e4650cdda06aa445485dc66ce13b0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:afe6429daa475f408bae10dd6f2525b01"><td class="memItemLeft" align="right" valign="top">std::time_t const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df0/a05160.html#afe6429daa475f408bae10dd6f2525b01">startTimestamp</a> = 1689139200</td></tr>
+<tr class="separator:afe6429daa475f408bae10dd6f2525b01"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaffdf4c6f140e5c339726ba9e134e6f9"><td class="memItemLeft" align="right" valign="top">std::chrono::system_clock::time_point const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df0/a05160.html#aaffdf4c6f140e5c339726ba9e134e6f9">transportStartDate</a> = std::chrono::system_clock::from_time_t(<a class="el" href="../../df/df0/a05160.html#afe6429daa475f408bae10dd6f2525b01">startTimestamp</a>)</td></tr>
+<tr class="separator:aaffdf4c6f140e5c339726ba9e134e6f9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="a385e4650cdda06aa445485dc66ce13b0" name="a385e4650cdda06aa445485dc66ce13b0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a385e4650cdda06aa445485dc66ce13b0">&#9670;&#160;</a></span>calculateNextDepartureTime()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::chrono::system_clock::time_point anonymous_namespace{Transport.cpp}::calculateNextDepartureTime </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>oneIterationInterval</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   44</span>    {</div>
+<div class="line"><span class="lineno">   45</span>        std::chrono::system_clock::time_point currentTime = std::chrono::system_clock::now();</div>
+<div class="line"><span class="lineno">   46</span>        std::chrono::milliseconds interval(oneIterationInterval);</div>
+<div class="line"><span class="lineno">   47</span>        std::chrono::milliseconds timeSinceStart = std::chrono::duration_cast&lt;std::chrono::milliseconds&gt;(currentTime - <a class="code hl_variable" href="../../df/df0/a05160.html#aaffdf4c6f140e5c339726ba9e134e6f9">transportStartDate</a>);</div>
+<div class="line"><span class="lineno">   48</span>        <a class="code hl_typedef" href="../../d8/dca/a04670.html#ad7a3bd3be7bd59e7fb6337fcbc956eb1">int64</a> intervalsPassed = timeSinceStart.count() / oneIterationInterval;</div>
+<div class="line"><span class="lineno">   49</span>        std::chrono::system_clock::time_point nextDeparture = <a class="code hl_variable" href="../../df/df0/a05160.html#aaffdf4c6f140e5c339726ba9e134e6f9">transportStartDate</a> + (interval * (intervalsPassed + 1));</div>
+<div class="line"><span class="lineno">   50</span>        <span class="keywordflow">return</span> nextDeparture;</div>
+<div class="line"><span class="lineno">   51</span>    }</div>
+<div class="ttc" id="aa04670_html_ad7a3bd3be7bd59e7fb6337fcbc956eb1"><div class="ttname"><a href="../../d8/dca/a04670.html#ad7a3bd3be7bd59e7fb6337fcbc956eb1">int64</a></div><div class="ttdeci">std::int64_t int64</div><div class="ttdef"><b>Definition:</b> Define.h:102</div></div>
+<div class="ttc" id="aa05160_html_aaffdf4c6f140e5c339726ba9e134e6f9"><div class="ttname"><a href="../../df/df0/a05160.html#aaffdf4c6f140e5c339726ba9e134e6f9">anonymous_namespace{Transport.cpp}::transportStartDate</a></div><div class="ttdeci">std::chrono::system_clock::time_point const transportStartDate</div><div class="ttdef"><b>Definition:</b> Transport.cpp:40</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00040">transportStartDate</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Variable Documentation</h2>
+<a id="afe6429daa475f408bae10dd6f2525b01" name="afe6429daa475f408bae10dd6f2525b01"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afe6429daa475f408bae10dd6f2525b01">&#9670;&#160;</a></span>startTimestamp</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::time_t const anonymous_namespace{Transport.cpp}::startTimestamp = 1689139200</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aaffdf4c6f140e5c339726ba9e134e6f9" name="aaffdf4c6f140e5c339726ba9e134e6f9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aaffdf4c6f140e5c339726ba9e134e6f9">&#9670;&#160;</a></span>transportStartDate</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::chrono::system_clock::time_point const anonymous_namespace{Transport.cpp}::transportStartDate = std::chrono::system_clock::from_time_t(<a class="el" href="../../df/df0/a05160.html#afe6429daa475f408bae10dd6f2525b01">startTimestamp</a>)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00043">calculateNextDepartureTime()</a>.</p>
+
+</div>
+</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d4/dc5/a05148.html">WorldPackets</a></li><li class="navelem"><a class="el" href="../../df/df0/a05160.html">Calendar</a></li>
-    <li class="footer">Generated on Mon Sep 7 2026 23:05:52 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../df/df0/a05160.html">anonymous_namespace{Transport.cpp}</a></li>
+    <li class="footer">Generated on Mon Sep 14 2026 23:34:56 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

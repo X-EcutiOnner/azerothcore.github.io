@@ -1,7 +1,6 @@
 var a11701 =
 [
-    [ "OpcodeHandler", "d3/d82/a05088.html#gad7dc8101b537abe699b18ae8de444a81", null ],
-    [ "~OpcodeHandler", "d3/d82/a05088.html#ga5400057a3d849035aedda259828a5af5", null ],
-    [ "Name", "d3/d82/a05088.html#ga0f1d1acde7c65e2b5c29357b232a7061", null ],
-    [ "Status", "d3/d82/a05088.html#gace7959058ad5b5e617c7b043f5c63b7c", null ]
+    [ "QuestLogRemoveQuest", "d6/d74/a11701.html#afeb3eec9774e69822f3b5f9bf7b5f905", null ],
+    [ "Read", "d6/d74/a11701.html#a22e2ff4a700f9db48518cf5a9aec18f6", null ],
+    [ "Slot", "d6/d74/a11701.html#ae1d6a81d589533b15c0358b4896afd91", null ]
 ];

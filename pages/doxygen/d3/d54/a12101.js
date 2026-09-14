@@ -1,6 +1,6 @@
 var a12101 =
 [
-    [ "EffectCalcAmountHandler", "d3/d54/a12101.html#a4fe66bbf0433e80b602683a278e3a709", null ],
-    [ "Call", "d3/d54/a12101.html#a4b5af2593dcb80930c6a45b7035767ca", null ],
-    [ "pEffectHandlerScript", "d3/d54/a12101.html#aa52c8c780dcc157e16d11f8222706f7a", null ]
+    [ "CheckCastHandler", "d3/d54/a12101.html#a8647582abeea09779e05d809cbdb0d06", null ],
+    [ "Call", "d3/d54/a12101.html#a805de70601b15de19639ca01c75ae7f7", null ],
+    [ "_checkCastHandlerScript", "d3/d54/a12101.html#af13f11d14772afbea06f0020df4bbe6c", null ]
 ];

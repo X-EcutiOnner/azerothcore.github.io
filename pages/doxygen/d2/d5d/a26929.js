@@ -1,7 +1,7 @@
 var a26929 =
 [
-    [ "HandleProc", "d2/d5d/a26929.html#a72463db57f87387aa3ff3175c45ca9df", null ],
-    [ "PrepareAuraScript", "d2/d5d/a26929.html#ae158b4b624b50ad984b2c5e9c16d7670", null ],
-    [ "Register", "d2/d5d/a26929.html#a2da64a27cfa5a68464f8f3a885e09751", null ],
-    [ "Validate", "d2/d5d/a26929.html#a798f51ee6333d3ebb2bbb617ea88ea2b", null ]
+    [ "OnProc", "d2/d5d/a26929.html#a00545522da76162e837a3f9ce1f38988", null ],
+    [ "PrepareAuraScript", "d2/d5d/a26929.html#ae11900dc2baee4882ffbc7fde71204e9", null ],
+    [ "Register", "d2/d5d/a26929.html#aa326bd80c927ee5ffb06b5676e8d5b40", null ],
+    [ "Validate", "d2/d5d/a26929.html#af5525b7097363c3357db853b46a26bd7", null ]
 ];

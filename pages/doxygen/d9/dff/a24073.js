@@ -1,6 +1,6 @@
 var a24073 =
 [
-    [ "npc_simon_bunnyAI", "d5/de8/a24077.html", "d5/de8/a24077" ],
-    [ "npc_simon_bunny", "d9/dff/a24073.html#afd3f3a24450bc8b748c0ff5b05b10da1", null ],
-    [ "GetAI", "d9/dff/a24073.html#ac0c97609916321a1599c0722803a050f", null ]
+    [ "HandleAfterRemove", "d9/dff/a24073.html#ac9756a8f206c114ff6443331ca266184", null ],
+    [ "PrepareAuraScript", "d9/dff/a24073.html#a2f67291e6e4291c9d01cdbcbe04a7db7", null ],
+    [ "Register", "d9/dff/a24073.html#ac36d76ad8a5ecb2e437dcb8f1248386d", null ]
 ];

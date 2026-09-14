@@ -1,12 +1,8 @@
 var a01025 =
 [
-    [ "TicketScript", "d0/d01/a10820.html", "d0/d01/a10820" ],
-    [ "TicketHook", "db/d23/a01025.html#af2de2d4afd6c8a1968e6e4b055620b72", [
-      [ "TICKETHOOK_ON_TICKET_CREATE", "db/d23/a01025.html#af2de2d4afd6c8a1968e6e4b055620b72a048895a23d18ef1c7901256655315a61", null ],
-      [ "TICKETHOOK_ON_TICKET_UPDATE_LAST_CHANGE", "db/d23/a01025.html#af2de2d4afd6c8a1968e6e4b055620b72a1777cc276841ae965f3636dc48161374", null ],
-      [ "TICKETHOOK_ON_TICKET_CLOSE", "db/d23/a01025.html#af2de2d4afd6c8a1968e6e4b055620b72ac65b75869b3e3fb1dec5db5eb5701f38", null ],
-      [ "TICKETHOOK_ON_TICKET_STATUS_UPDATE", "db/d23/a01025.html#af2de2d4afd6c8a1968e6e4b055620b72ad50ae60643438ce57485d63d8492a825", null ],
-      [ "TICKETHOOK_ON_TICKET_RESOLVE", "db/d23/a01025.html#af2de2d4afd6c8a1968e6e4b055620b72a77a1b9c3448bbffacadaaa5c542086df", null ],
-      [ "TICKETHOOK_END", "db/d23/a01025.html#af2de2d4afd6c8a1968e6e4b055620b72a12665f6e053ad59e5e6cb0ca56d92222", null ]
-    ] ]
+    [ "WorldPackets::Bank::AutoBankItem", "d3/dd7/a10993.html", "d3/dd7/a10993" ],
+    [ "WorldPackets::Bank::AutoStoreBankItem", "dc/d65/a10997.html", "dc/d65/a10997" ],
+    [ "WorldPackets::Bank::BuyBankSlot", "d6/db6/a11001.html", "d6/db6/a11001" ],
+    [ "WorldPackets::Bank::BuyBankSlotResult", "d8/d22/a11005.html", "d8/d22/a11005" ],
+    [ "WorldPackets::Bank::ShowBank", "d2/d1c/a11009.html", "d2/d1c/a11009" ]
 ];

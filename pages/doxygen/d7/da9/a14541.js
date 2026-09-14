@@ -1,6 +1,6 @@
 var a14541 =
 [
-    [ "HandleOnHit", "d7/da9/a14541.html#a1f133ab9e85f80c225276bf744da6898", null ],
-    [ "PrepareSpellScript", "d7/da9/a14541.html#ae554f8be36eabc6d23f823e6d153be2b", null ],
-    [ "Register", "d7/da9/a14541.html#a1063358ed71ded8454f35f43442354ab", null ]
+    [ "boss_gahzranka", "d7/da9/a14541.html#a82cc1a44a967f859039957e41f38dd77", null ],
+    [ "IsSummonedBy", "d7/da9/a14541.html#ad68be854f95c398dc5dd9e5b22f538a8", null ],
+    [ "JustEngagedWith", "d7/da9/a14541.html#ac1cc43194c00fda1729f8a068d4e8779", null ]
 ];

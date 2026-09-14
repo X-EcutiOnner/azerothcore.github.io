@@ -1,6 +1,6 @@
 var a17269 =
 [
-    [ "PrepareSpellScript", "d4/dcb/a17269.html#a5ed268ac2642b2df3c5eb1dc93a675fc", null ],
-    [ "RecalculateDamage", "d4/dcb/a17269.html#a3fae6ceaa67716004c664dd40a4679ed", null ],
-    [ "Register", "d4/dcb/a17269.html#a1a740e697fc84f5f035f2ec251872009", null ]
+    [ "OnPeriodic", "d4/dcb/a17269.html#ab71faf6fb2900e176aac245317113758", null ],
+    [ "PrepareAuraScript", "d4/dcb/a17269.html#a5b4bf1fe2987cdebedaa2e7d048742d6", null ],
+    [ "Register", "d4/dcb/a17269.html#a8b90810bfc5416cdfeac2f6a72c55d3e", null ]
 ];

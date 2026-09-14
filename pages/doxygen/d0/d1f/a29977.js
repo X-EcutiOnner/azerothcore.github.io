@@ -1,7 +1,10 @@
 var a29977 =
 [
-    [ "walkableClimb", "d0/d1f/a29977.html#af8d2e9bccb8f6bbb36065e686ea39626", null ],
-    [ "walkableHeight", "d0/d1f/a29977.html#a32f39a07562c47be0a311d7959678044", null ],
-    [ "walkableRadius", "d0/d1f/a29977.html#a6e708a591e7b5597e129a653e1379a1e", null ],
-    [ "walkableSlopeAngle", "d0/d1f/a29977.html#a9b880e84fa1d07e414e9a9a62a20969c", null ]
+    [ "FakeAura", "d0/d1f/a29977.html#a72674203b5aa768aaec46bc824c66ad8", null ],
+    [ "IsExpired", "d0/d1f/a29977.html#af55fe68d7548abe43fbbe391163dcbf4", null ],
+    [ "IsRemoved", "d0/d1f/a29977.html#ad4b4a547d5596ad39d46125ded1c0863", null ],
+    [ "expired", "d0/d1f/a29977.html#a9de4d15b90ea8e89a5a3dd95122f5ff9", null ],
+    [ "removed", "d0/d1f/a29977.html#a0ea41ca4e60c4c56228687ca6038695f", null ],
+    [ "spellId", "d0/d1f/a29977.html#ab08e902dae2b24d869c2befe1e9a74a2", null ],
+    [ "updated", "d0/d1f/a29977.html#aacbde7f93cb160ed272a4b3ddd18f1ee", null ]
 ];

@@ -1,9 +1,5 @@
 var a14569 =
 [
-    [ "npc_healing_ward", "d0/d47/a14569.html#a3d3c35f61502d3a83cb2581119e08903", null ],
-    [ "JustEngagedWith", "d0/d47/a14569.html#a5faf7c5633c44ec1fa70b60b2071b97b", null ],
-    [ "Reset", "d0/d47/a14569.html#a756d27a43d86c7ecde859df255c6bd62", null ],
-    [ "UpdateAI", "d0/d47/a14569.html#a8b8635af33ce814602206064e0815520", null ],
-    [ "_instance", "d0/d47/a14569.html#a65f227041ad4bdc7240637dd6cb680ec", null ],
-    [ "_scheduler", "d0/d47/a14569.html#a0c62fe945b491cab76175217a7d10c06", null ]
+    [ "at_zulgurub_entrance_speech", "d0/d47/a14569.html#afef11c6a7e97befd07072826fa13be55", null ],
+    [ "_OnTrigger", "d0/d47/a14569.html#a7f719eab3ca9fa7d5e7a26f721dc9f50", null ]
 ];

@@ -1,5 +1,6 @@
 var a21213 =
 [
-    [ "npc_salvaged_siege_engine", "d8/d0b/a21213.html#aa8cde891a19ebb1e53be2a81a2432442", null ],
-    [ "BeforeSpellClick", "d8/d0b/a21213.html#aed2500b2315b5e508ea3d06a2355d023", null ]
+    [ "achievement_yogg_saron_darkness", "d8/d0b/a21213.html#a536c7156305d47c41a062d3c1a1b16eb", null ],
+    [ "OnCheck", "d8/d0b/a21213.html#a809902fca87abaeb4334132763624ed6", null ],
+    [ "_keepersCount", "d8/d0b/a21213.html#a765ec4606bb489760ed1e15db10de1dc", null ]
 ];

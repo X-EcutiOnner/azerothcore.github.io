@@ -1,6 +1,6 @@
 var a18353 =
 [
-    [ "HandleScript", "dd/d0c/a18353.html#a54ecb69bf0c54c170b12c9a4b88b55fb", null ],
-    [ "PrepareSpellScript", "dd/d0c/a18353.html#a50560d754709e6b9ec6863142c1ffce3", null ],
-    [ "Register", "dd/d0c/a18353.html#ab29deadceb953d6fb5d997b21ee4bb1c", null ]
+    [ "npc_gas_cloudAI", "d8/dde/a18357.html", "d8/dde/a18357" ],
+    [ "npc_gas_cloud", "dd/d0c/a18353.html#a99c887cb8a5cc87bbfca026447368b8e", null ],
+    [ "GetAI", "dd/d0c/a18353.html#a1c76a148f9c1acec473f102b6a24e3bb", null ]
 ];

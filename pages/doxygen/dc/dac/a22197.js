@@ -1,10 +1,5 @@
 var a22197 =
 [
-    [ "npc_infra_green_bomber_genericAI", "dc/dac/a22197.html#aed712ea3625971e059e2ecd158227287", null ],
-    [ "DamageTaken", "dc/dac/a22197.html#a8f860368df96e430b441c8316db99c93", null ],
-    [ "GetSummoner", "dc/dac/a22197.html#aaf7b91ce2bbf65c3f6c4bd41f04682bc", null ],
-    [ "IsSummonedBy", "dc/dac/a22197.html#a79676717b7c6219ea74ebe5a580eab28", null ],
-    [ "SpreadFire", "dc/dac/a22197.html#a5727c839b7dd02ea64eccce3606688d1", null ],
-    [ "UpdateAI", "dc/dac/a22197.html#a252875777655e963965676a24c15e766", null ],
-    [ "events", "dc/dac/a22197.html#ae8795439197b9cbfb70bbf5a672b8019", null ]
+    [ "npc_black_knight_graveyardAI", "dc/dac/a22197.html#a908ccf6763240ba0c0ebdf2dec6e1b36", null ],
+    [ "MoveInLineOfSight", "dc/dac/a22197.html#aa5c80b5759656e3865d6721161f9f005", null ]
 ];

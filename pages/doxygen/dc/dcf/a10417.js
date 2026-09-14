@@ -1,5 +1,8 @@
 var a10417 =
 [
-    [ "IdleMovementFactory", "dc/dcf/a10417.html#af2bb5ef9fe67f3dda64d6ce44e825f52", null ],
-    [ "Create", "dc/dcf/a10417.html#a5e99eab3436482927bc83100f85581cd", null ]
+    [ "GetAINotifyDelay", "dc/dcf/a10417.html#a9efd4acfe2ff5e4dfe0cc9e8fe802cc6", null ],
+    [ "GetReqMoveDistSq", "dc/dcf/a10417.html#a58687646bbf83723e8ad2925ee50452c", null ],
+    [ "GetVisibilityNotifyDelay", "dc/dcf/a10417.html#ac402ec0cb86192ce264d7909e09da5ac", null ],
+    [ "Update", "dc/dcf/a10417.html#aa95443d7050249a44cad2f16fa0026e5", null ],
+    [ "visibilitySettingsIndex", "dc/dcf/a10417.html#a35ebd0fcbdec8a3287f714cbe9becbcc", null ]
 ];

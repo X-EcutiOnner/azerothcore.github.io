@@ -1,6 +1,5 @@
 var a20933 =
 [
-    [ "HandleScript", "d9/df5/a20933.html#a8ebd18095bd826d4bf843961e4e8dc81", null ],
-    [ "PrepareSpellScript", "d9/df5/a20933.html#a4fd05478a145157dbd8377532033ab95", null ],
-    [ "Register", "d9/df5/a20933.html#a9b30f89493d5b8c8d1097dde5d017a93", null ]
+    [ "go_thorim_lever", "d9/df5/a20933.html#a7641a89c3c369d26753a6e97dd435802", null ],
+    [ "OnGossipHello", "d9/df5/a20933.html#aa48cd4d5728bd2d012a91f51299827a0", null ]
 ];

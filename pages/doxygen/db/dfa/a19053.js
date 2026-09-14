@@ -1,6 +1,8 @@
 var a19053 =
 [
-    [ "npc_crok_scourgebaneAI", "db/dcd/a19057.html", "db/dcd/a19057" ],
-    [ "npc_crok_scourgebane", "db/dfa/a19053.html#a5f560e2c62aa618eadb5a11e2c9b90a3", null ],
-    [ "GetAI", "db/dfa/a19053.html#afa4fcbb9d7281fbee3f8bc0f318d2e6b", null ]
+    [ "FilterTargets", "db/dfa/a19053.html#aed8b741160cbf50dde84cf059c8b52cb", null ],
+    [ "HandleForceCast", "db/dfa/a19053.html#ae783cf255be823bf7c9125f288479e97", null ],
+    [ "Load", "db/dfa/a19053.html#ac8f92e9284abc56d55ecf3aa73d350f8", null ],
+    [ "PrepareSpellScript", "db/dfa/a19053.html#a68074978fe2c1b137c6ddfd7b9082bfc", null ],
+    [ "Register", "db/dfa/a19053.html#a454a8909be4bb85f255ea696041ea447", null ]
 ];

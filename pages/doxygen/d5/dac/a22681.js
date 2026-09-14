@@ -1,18 +1,10 @@
 var a22681 =
 [
-    [ "OutdoorPvPZM", "d5/dac/a22681.html#a8351867658985b66dd97f39e68c16b94", null ],
-    [ "FillInitialWorldStates", "d5/dac/a22681.html#a86a36c0f47027c8d5ac64090e308d98a", null ],
-    [ "GetAllianceTowersControlled", "d5/dac/a22681.html#a58320dcfca7519ab2a7160bb1f875a9b", null ],
-    [ "GetHordeTowersControlled", "d5/dac/a22681.html#a98bfdd944bc51f9ed30b74e1cf3217b5", null ],
-    [ "HandleKillImpl", "d5/dac/a22681.html#a6cd61b99305a2838261e36652fda42b1", null ],
-    [ "HandlePlayerEnterZone", "d5/dac/a22681.html#a8c0eb1c295f389273cf2b2c7b35c9538", null ],
-    [ "HandlePlayerLeaveZone", "d5/dac/a22681.html#a93105e3229db7798ad882fc7e538b250", null ],
-    [ "SendRemoveWorldStates", "d5/dac/a22681.html#aba24e6285ac45dd0594f557d5830ba7c", null ],
-    [ "SetAllianceTowersControlled", "d5/dac/a22681.html#ab7e230cfa2f06fa450ca40c381491c85", null ],
-    [ "SetHordeTowersControlled", "d5/dac/a22681.html#a27239875476bbce8ff18b30cdfe6815b", null ],
-    [ "SetupOutdoorPvP", "d5/dac/a22681.html#a7e71d2c2480da1a2d155981999201b99", null ],
-    [ "Update", "d5/dac/a22681.html#acd93bd13cf330ec86dde30ff9c6306de", null ],
-    [ "m_AllianceTowersControlled", "d5/dac/a22681.html#aff4124f54572e0812c39562fbc6390c3", null ],
-    [ "m_Graveyard", "d5/dac/a22681.html#a9842f1c5de04af4db3e0397839de7765", null ],
-    [ "m_HordeTowersControlled", "d5/dac/a22681.html#ad5609bc0c13d193d16560045aa4b0c71", null ]
+    [ "OPvPCapturePointHP", "d5/dac/a22681.html#a7f5fa3e3bd28924965cc08f41b5d6bd8", null ],
+    [ "ChangeState", "d5/dac/a22681.html#aa0dc544ad3d53255dbfdab7461efcaa1", null ],
+    [ "FillInitialWorldStates", "d5/dac/a22681.html#aa8d725422951485970d9106450fb6a38", null ],
+    [ "HandlePlayerEnter", "d5/dac/a22681.html#ad9738c621df084d5a3f0070c80403642", null ],
+    [ "HandlePlayerLeave", "d5/dac/a22681.html#a86e849e5387383a6c751e69350ffa07c", null ],
+    [ "SendChangePhase", "d5/dac/a22681.html#a42528a90eda9ec28dd00df3f0ec78a15", null ],
+    [ "m_TowerType", "d5/dac/a22681.html#a0191bec2d9492e21957ed9b4e0fed484", null ]
 ];

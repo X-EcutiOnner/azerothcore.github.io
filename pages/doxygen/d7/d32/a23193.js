@@ -1,8 +1,6 @@
 var a23193 =
 [
-    [ "CalculateAmount", "d7/d32/a23193.html#a13d44c0d5f9b0111ae3b0d3d089e3e13", null ],
-    [ "OnPeriodic", "d7/d32/a23193.html#ab4d3f69d50fa320886f454ddfe1076f4", null ],
-    [ "PrepareAuraScript", "d7/d32/a23193.html#a1278420b279449c1c6a53b1a7b53f539", null ],
-    [ "Register", "d7/d32/a23193.html#a4795011faa2f68b1068d37b81f8c1cf2", null ],
-    [ "Validate", "d7/d32/a23193.html#a601c2db3a8e47d48b956ed102cbca104", null ]
+    [ "instance_black_temple_InstanceMapScript", "d1/d70/a23197.html", "d1/d70/a23197" ],
+    [ "instance_black_temple", "d7/d32/a23193.html#a2efd6c7fff15c8fd03652ef9a65088eb", null ],
+    [ "GetInstanceScript", "d7/d32/a23193.html#a947a1279eabde75d9884b1ef84b295a3", null ]
 ];

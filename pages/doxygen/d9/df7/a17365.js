@@ -1,11 +1,10 @@
 var a17365 =
 [
-    [ "npc_tortured_rifleman", "d9/df7/a17365.html#a5ab42b048c14838b6992716f62200c57", null ],
-    [ "AttackStart", "d9/df7/a17365.html#a82f84e5b66d8cbcb25267e0eeb5ce65c", null ],
-    [ "DoAction", "d9/df7/a17365.html#aafd02b19ba0280db3eacc21b24d3ceaa", null ],
-    [ "EnterEvadeMode", "d9/df7/a17365.html#a1eddbbfa45174c05a24ad01f200983e3", null ],
-    [ "JustDied", "d9/df7/a17365.html#abb8349f4f1c19a60c7566f1801ae3087", null ],
-    [ "JustEngagedWith", "d9/df7/a17365.html#ab60cf1d4e6a58613a032b25b043aceea", null ],
-    [ "Reset", "d9/df7/a17365.html#a04210cb211db92a1be6de7bc28953953", null ],
-    [ "UpdateAI", "d9/df7/a17365.html#aa794584f9a842f9725f1f926b4099181", null ]
+    [ "HandleAfterEffectAbsorb", "d9/df7/a17365.html#a4af67c41afd7843a5cfe2b2e2e9e8055", null ],
+    [ "Load", "d9/df7/a17365.html#abab656d4ba7e14bf1ffdb1d40c395b5d", null ],
+    [ "PrepareAuraScript", "d9/df7/a17365.html#a0856d66c801715f16cd251ddf9b25a59", null ],
+    [ "Register", "d9/df7/a17365.html#a69d8dfebb981b51592770b7b5807bc80", null ],
+    [ "Validate", "d9/df7/a17365.html#a55ec42ce316978220103a3a39f3939a3", null ],
+    [ "amount", "d9/df7/a17365.html#aaf34ee04ae619a3ac108a8fd1c9dac99", null ],
+    [ "fired", "d9/df7/a17365.html#a6a7afa99044644608b16e83328bfd5fa", null ]
 ];

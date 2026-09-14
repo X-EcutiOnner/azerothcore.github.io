@@ -1,10 +1,6 @@
 var a23805 =
 [
-    [ "boss_harbinger_skyriss", "df/db2/a23805.html#a245179f74d61c2671b397e8f2473b599", null ],
-    [ "EnterEvadeMode", "df/db2/a23805.html#a873413da06569343225e6659f8277b2c", null ],
-    [ "JustDied", "df/db2/a23805.html#a2b5152ddeb53d382294bd0fe7455a21e", null ],
-    [ "JustEngagedWith", "df/db2/a23805.html#adb4cdec41f4b61f82efdb78fe995c313", null ],
-    [ "JustSummoned", "df/db2/a23805.html#a97d84139a3e970e22d7d422f2f825f12", null ],
-    [ "KilledUnit", "df/db2/a23805.html#a8f9e1bd87c80041e07b428ec300ceef8", null ],
-    [ "Reset", "df/db2/a23805.html#a045ec2371ad99c3465b8f089eb604e0a", null ]
+    [ "boss_porung", "df/db2/a23805.html#acef31010461bbf716ac9b13d950807ee", null ],
+    [ "JustDied", "df/db2/a23805.html#ac5c36f875692f49d1d0195694d85e5c1", null ],
+    [ "JustEngagedWith", "df/db2/a23805.html#a9d44f51e4710e01bdc7d345ff3bba9dc", null ]
 ];

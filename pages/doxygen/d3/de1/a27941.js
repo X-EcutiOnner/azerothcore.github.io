@@ -1,8 +1,10 @@
 var a27941 =
 [
-    [ "HandleEffect", "d3/de1/a27941.html#a1c1a06362742abcf83e1817c468de3d3", null ],
-    [ "PrepareSpellScript", "d3/de1/a27941.html#a0e2cce13a3b2c8b8e9ace8876def8b9c", null ],
-    [ "Register", "d3/de1/a27941.html#a56108b37bc69809ce80d424e2bcb3f55", null ],
-    [ "SendMiss", "d3/de1/a27941.html#afda727460aebc8fe97d5c18d0195ea2c", null ],
-    [ "Validate", "d3/de1/a27941.html#ab9533351a176f4e0d641a6e36a75d6b9", null ]
+    [ "CalculateBuffer", "d3/de1/a27941.html#a3fa1917fc77575531e485cd0228bcc00", null ],
+    [ "Detonate", "d3/de1/a27941.html#aa005ef9fba06c26dec9998153119c90f", null ],
+    [ "HandleProc", "d3/de1/a27941.html#a35edcf5f57dee1bbb63321cd67b200db", null ],
+    [ "OnRemove", "d3/de1/a27941.html#ae5ea7f0286f7e4c45611874b5ef79750", null ],
+    [ "PrepareAuraScript", "d3/de1/a27941.html#a325ad66cd69a15260e274562250c8e32", null ],
+    [ "Register", "d3/de1/a27941.html#a2d107c9db0b3b1859cb284b741a77ef8", null ],
+    [ "Validate", "d3/de1/a27941.html#ae7de3e43a47e6b35d0dead23ac51325e", null ]
 ];

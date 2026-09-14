@@ -1,8 +1,7 @@
 var a27933 =
 [
-    [ "HandleDummy", "d3/d2f/a27933.html#ad2eec86cff225cc0bd806e31596fb127", null ],
-    [ "PrepareSpellScript", "d3/d2f/a27933.html#a59a04dcfee911c70e13ea8d27b4a49c4", null ],
-    [ "Register", "d3/d2f/a27933.html#a6c72b4c813368774283ae94036a43ee2", null ],
-    [ "SendMiss", "d3/d2f/a27933.html#a7c6d300e60ed492c82d5c017d3e73ed1", null ],
-    [ "Validate", "d3/d2f/a27933.html#a9a5014de08f73ad5dad29354812030ac", null ]
+    [ "HandleProc", "d3/d2f/a27933.html#a9296b52700f070af311047166f6a913b", null ],
+    [ "PrepareAuraScript", "d3/d2f/a27933.html#a067cc24e65f79bab10b9d1258fad3460", null ],
+    [ "Register", "d3/d2f/a27933.html#affbd8840159048b6ea55ab98900d38c0", null ],
+    [ "Validate", "d3/d2f/a27933.html#a31af0dd20daa2892f7c0a6baf2bf4485", null ]
 ];

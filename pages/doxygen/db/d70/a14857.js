@@ -1,5 +1,7 @@
 var a14857 =
 [
-    [ "npc_grizzlemaw_cw_triggerAI", "db/d70/a14857.html#a40207493c75d8a63284e08f1f75d56c4", null ],
-    [ "MoveInLineOfSight", "db/d70/a14857.html#aef49ccdae1aff20fc469f0aa2663d8af", null ]
+    [ "PeriodicTick", "db/d70/a14857.html#ac8b584ffbb1a8787f70370d94586ed77", null ],
+    [ "PrepareAuraScript", "db/d70/a14857.html#a4e860850bbab0f14eb8a160bb5e6799e", null ],
+    [ "Register", "db/d70/a14857.html#a5def2685cedc4fb78c1a5c534c764ee9", null ],
+    [ "Validate", "db/d70/a14857.html#a68247c2afa553411fac34582e83635c9", null ]
 ];

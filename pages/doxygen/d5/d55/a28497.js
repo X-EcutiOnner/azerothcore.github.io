@@ -1,11 +1,10 @@
 var a28497 =
 [
-    [ "npc_artoriusAI", "d5/d55/a28497.html#a71056d1f537671a9f790ebbc1c2baf9c", null ],
-    [ "DamageTaken", "d5/d55/a28497.html#acaa6f32e1cfba98ec4dd06245a41d321", null ],
-    [ "DoAction", "d5/d55/a28497.html#abbfc9ee752d97f1694dbd739719843c2", null ],
-    [ "JustEngagedWith", "d5/d55/a28497.html#ab5760ad8dc87f7ccbea615ff2eb809c8", null ],
-    [ "Reset", "d5/d55/a28497.html#a862cc52a9251e2dfe486f1152dae9500", null ],
-    [ "SpellHit", "d5/d55/a28497.html#ac6ce7235c4399a5a8f2e771f5cd652ba", null ],
-    [ "UpdateAI", "d5/d55/a28497.html#afdd2821ce916b65ed33fe7ab75ef56a5", null ],
-    [ "events", "d5/d55/a28497.html#a6c8adf35504caf0cfea9a353833d4c4e", null ]
+    [ "guard_shattrath_aldorAI", "d5/d55/a28497.html#a88961dfe4100dfe207af693a1eed86ad", null ],
+    [ "Reset", "d5/d55/a28497.html#aef38e83e90c322bbef18b78e6339ef2e", null ],
+    [ "UpdateAI", "d5/d55/a28497.html#ac87ee12d4487971b68c70f06f63eb410", null ],
+    [ "banishTimer", "d5/d55/a28497.html#a8b6e4c2acb09c65f2dbebbd21df4f29e", null ],
+    [ "canTeleport", "d5/d55/a28497.html#af4d933b56431d2f2755d87fb05922458", null ],
+    [ "exileTimer", "d5/d55/a28497.html#a8d56205206f3e14184922f96873456ad", null ],
+    [ "playerGUID", "d5/d55/a28497.html#a16fe41ae30d54abaf12f68672b93dc32", null ]
 ];

@@ -1,8 +1,6 @@
 var a08993 =
 [
-    [ "EnchantDuration", "d7/d54/a08993.html#a1ce5f81deaa60494c247673c113632d8", null ],
-    [ "EnchantDuration", "d7/d54/a08993.html#a52448f2bb8b788193a69fe9a2d8729f3", null ],
-    [ "item", "d7/d54/a08993.html#ae803f6a9ce9cdb0dbb133bc85b6613ab", null ],
-    [ "leftduration", "d7/d54/a08993.html#a3f4edafbc9b09cb5ab660bc68af435f3", null ],
-    [ "slot", "d7/d54/a08993.html#a3de1a8d64aea4c5c1f984a74c6bb017d", null ]
+    [ "PlayerCreateInfoItem", "d7/d54/a08993.html#aba5495af3d4c463f7f65fa1851879d3b", null ],
+    [ "item_amount", "d7/d54/a08993.html#a2cc481d54ec0c8a58477803364f40b2a", null ],
+    [ "item_id", "d7/d54/a08993.html#a54e5593fe1a1e06b16963c96f1840a2a", null ]
 ];

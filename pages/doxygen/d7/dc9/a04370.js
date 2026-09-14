@@ -1,7 +1,5 @@
 var a04370 =
 [
-    [ "IsAcceptedClientBuild", "d7/dc9/a04370.html#a50a906b5a3fdca3508aee0997881a717", null ],
-    [ "IsPostBCAcceptedClientBuild", "d7/dc9/a04370.html#ad4f22daf9d88367d90d92416f470a28c", null ],
-    [ "IsPreBCAcceptedClientBuild", "d7/dc9/a04370.html#a96896fc9dad2c304f681a24776f6726b", null ],
-    [ "MAX_PRE_BC_CLIENT_BUILD", "d7/dc9/a04370.html#ac023f15b280fc65fdefefb77f2f7be7b", null ]
+    [ "AuthSocketMgr", "d7/db1/a06069.html", "d7/db1/a06069" ],
+    [ "sAuthSocketMgr", "d7/dc9/a04370.html#abd297ee25e8d77bf56f22d43561d9451", null ]
 ];

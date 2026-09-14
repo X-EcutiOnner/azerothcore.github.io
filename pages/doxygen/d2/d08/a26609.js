@@ -1,8 +1,8 @@
 var a26609 =
 [
-    [ "HandleDummy", "d2/d08/a26609.html#a04ff6beb930b65395ebc3df99bc53dfa", null ],
-    [ "PrepareSpellScript", "d2/d08/a26609.html#a73eabf1e68c966f31fe8d83c2fd925c1", null ],
-    [ "Register", "d2/d08/a26609.html#a6b03fbcf18612d9bb7361c3e4f022dc0", null ],
-    [ "Validate", "d2/d08/a26609.html#a9df13e3e8895854bc086fbfaccfb1b2c", null ],
-    [ "PolymorhForms", "d2/d08/a26609.html#a1443d2532a060514e697a8d5e0c21b20", null ]
+    [ "CheckProc", "d2/d08/a26609.html#a4f8e030154606e0781ebb89294019e0e", null ],
+    [ "HandleProc", "d2/d08/a26609.html#a3d3db432fb051785f51ece4052ec8907", null ],
+    [ "PrepareAuraScript", "d2/d08/a26609.html#aed40577ca9a1de3efc501606bcc9a8dd", null ],
+    [ "Register", "d2/d08/a26609.html#a8cfdc8d98946fca603971ad91035e21c", null ],
+    [ "Validate", "d2/d08/a26609.html#abfd3c0ad08ad287b38e8da437c18376c", null ]
 ];

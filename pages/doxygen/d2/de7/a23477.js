@@ -1,6 +1,7 @@
 var a23477 =
 [
-    [ "instance_steam_vault_InstanceMapScript", "dd/dfb/a23481.html", "dd/dfb/a23481" ],
-    [ "instance_steam_vault", "d2/de7/a23477.html#aa3417083841ccb50c8a2f29ba343e115", null ],
-    [ "GetInstanceScript", "d2/de7/a23477.html#a3a2edb84cc7067d3c8fa2151b4763c5a", null ]
+    [ "PeriodicTick", "d2/de7/a23477.html#a94bee50f214d0a61fa81c4cca1b38fb2", null ],
+    [ "PrepareAuraScript", "d2/de7/a23477.html#a2c34fbc5c12be43b1c054cf4b23542cb", null ],
+    [ "Register", "d2/de7/a23477.html#ae1479b53d8c0575947a7ce7cae4747c4", null ],
+    [ "Validate", "d2/de7/a23477.html#ade8d57db324f02734e1752f49976dc9d", null ]
 ];

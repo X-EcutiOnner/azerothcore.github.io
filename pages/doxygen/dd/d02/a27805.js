@@ -1,6 +1,6 @@
 var a27805 =
 [
-    [ "HandleAfterHit", "dd/d02/a27805.html#a177bcf10d6b8fa586ff0cac3834367f9", null ],
-    [ "PrepareSpellScript", "dd/d02/a27805.html#ac16ef2ff92440deab6c69f4824bdd619", null ],
-    [ "Register", "dd/d02/a27805.html#a46fe3d7ebd663d1cb27aa473a56e81eb", null ]
+    [ "CheckCast", "dd/d02/a27805.html#acdb69e605c4e3b5eb3e48f400957db28", null ],
+    [ "PrepareSpellScript", "dd/d02/a27805.html#a1fb9a924ddba358d6d67943c5b2ffa24", null ],
+    [ "Register", "dd/d02/a27805.html#a703b21a93ba41211ac6e6ee182eecb8b", null ]
 ];

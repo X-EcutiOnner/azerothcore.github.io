@@ -1,5 +1,5 @@
 var a02339 =
 [
-    [ "mmaps_commandscript", "da/d08/a12533.html", "da/d08/a12533" ],
-    [ "AddSC_mmaps_commandscript", "d2/da6/a02339.html#aa9672a1e32f85f31a4be02f505768ecd", null ]
+    [ "list_commandscript", "d3/d63/a12569.html", "d3/d63/a12569" ],
+    [ "AddSC_list_commandscript", "d2/da6/a02339.html#a81af00772e7a06ad952109222b1f53a3", null ]
 ];

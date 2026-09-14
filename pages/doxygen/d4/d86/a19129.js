@@ -1,8 +1,6 @@
 var a19129 =
 [
-    [ "npc_arthas_teleport_visualAI", "d4/d86/a19129.html#a9b9b2ba725cde9aec898244a9e50c394", null ],
-    [ "Reset", "d4/d86/a19129.html#a27155b8880a2a86b733bcd074e977b59", null ],
-    [ "UpdateAI", "d4/d86/a19129.html#a23c200f2c7b9f5d02bed7af37bc69c33", null ],
-    [ "_events", "d4/d86/a19129.html#a986f19145e46f5975f22a84a3e1b10ee", null ],
-    [ "_instance", "d4/d86/a19129.html#a25bc023e061a0845421a652b571a6e1e", null ]
+    [ "npc_captain_arnathAI", "d9/dba/a19133.html", "d9/dba/a19133" ],
+    [ "npc_captain_arnath", "d4/d86/a19129.html#ab96afce64a7714ea84bab932f80c9302", null ],
+    [ "GetAI", "d4/d86/a19129.html#a302ec007389e677011334d78f410207b", null ]
 ];

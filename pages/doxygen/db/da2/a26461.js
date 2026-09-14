@@ -1,7 +1,6 @@
 var a26461 =
 [
-    [ "HandleProc", "db/da2/a26461.html#ad96085df198965575061ab989195983a", null ],
-    [ "PrepareAuraScript", "db/da2/a26461.html#a61a84072d467596b8b2b2704ecbca03a", null ],
-    [ "Register", "db/da2/a26461.html#a357e5c8a332989f93276667da1adf9f6", null ],
-    [ "Validate", "db/da2/a26461.html#aa1d3ef35912daa094bd9527280d0064b", null ]
+    [ "PrepareSpellScript", "db/da2/a26461.html#a8127429829afd4b82395a821a4bea19c", null ],
+    [ "Register", "db/da2/a26461.html#a73717914aa23764fa16c8a2965798a6a", null ],
+    [ "SecondaryEffect", "db/da2/a26461.html#a6150d8615c7f579aadd50e28aba0d569", null ]
 ];

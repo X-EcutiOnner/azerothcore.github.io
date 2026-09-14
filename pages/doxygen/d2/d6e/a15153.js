@@ -1,7 +1,5 @@
 var a15153 =
 [
-    [ "HandleProc", "d2/d6e/a15153.html#a6d1d8eb2ad0085df31d4f0e00c632fb2", null ],
-    [ "PrepareAuraScript", "d2/d6e/a15153.html#a95e3495f3e696ee908c4b17cf6dee370", null ],
-    [ "Register", "d2/d6e/a15153.html#a9beecfcf0f11b551bfdc840e10db2432", null ],
-    [ "Validate", "d2/d6e/a15153.html#a18398f81a80f9a1f47958de3be7b9189", null ]
+    [ "achievement_pb_terokkar_turkey_time", "d2/d6e/a15153.html#a68e536379b04e060f44819c9831766c2", null ],
+    [ "OnCheck", "d2/d6e/a15153.html#a8e6b82b95974ec27fd578481a1a23ae0", null ]
 ];

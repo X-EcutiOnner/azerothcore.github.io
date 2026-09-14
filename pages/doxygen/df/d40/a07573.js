@@ -1,17 +1,12 @@
 var a07573 =
 [
-    [ "BfGraveyard", "df/d40/a07573.html#a47eb2f535fdce943de03d8daca7f0fd8", null ],
-    [ "~BfGraveyard", "df/d40/a07573.html#a18171fd6fbfe7529bb61fd444e762f36", null ],
-    [ "GetControlTeamId", "df/d40/a07573.html#ac417eb4b9ff8f7c6f19e2148eb81131c", null ],
-    [ "GetDistance", "df/d40/a07573.html#ae290db2a83278c27803d62267aebfb71", null ],
-    [ "GetGraveyardId", "df/d40/a07573.html#ac7944db0403c37282ca90550f8ca4118", null ],
-    [ "GetSpiritGuide", "df/d40/a07573.html#a30536791ab71cc2a0a73cdf0993ca2d3", null ],
-    [ "GiveControlTo", "df/d40/a07573.html#a9fe22d9ebbe1b652322b9a8e5f18ee91", null ],
-    [ "HasNpc", "df/d40/a07573.html#a5f02be27972ae3f9aa8213ddb8c8b8d2", null ],
-    [ "Initialize", "df/d40/a07573.html#a348c0a492efab96df8855f94969c7300", null ],
-    [ "SetSpirit", "df/d40/a07573.html#ab4385a55321e8cf90e91bd10a04f1ddf", null ],
-    [ "Bf", "df/d40/a07573.html#a30abf6abb0dc36c9376f6f405a0a9f4e", null ],
-    [ "ControlTeam", "df/d40/a07573.html#a4d97eae10ede29d7e617b237e2c3fe20", null ],
-    [ "GraveyardId", "df/d40/a07573.html#a06d1c713e7180a9b4c32882835122212", null ],
-    [ "SpiritGuide", "df/d40/a07573.html#a528a36fbd481cb5173d742ac125a2f62", null ]
+    [ "Type", "df/d40/a07573.html#a758c9729d907d872a5e5365539486408", [
+      [ "ADD", "df/d40/a07573.html#a758c9729d907d872a5e5365539486408a9eeb52badb613229884838847294b90d", null ],
+      [ "REMOVE", "df/d40/a07573.html#a758c9729d907d872a5e5365539486408a78baf367c4626442174307cdf41c6538", null ],
+      [ "UPDATE_BID", "df/d40/a07573.html#a758c9729d907d872a5e5365539486408af737406648230093b15420038f06e0a5", null ]
+    ] ],
+    [ "AuctionSearcherUpdate", "df/d40/a07573.html#acfc9c3749967b90c2b8633c40f1aa2bd", null ],
+    [ "~AuctionSearcherUpdate", "df/d40/a07573.html#a34cb7ede5d2108065a51a80396d6fc55", null ],
+    [ "listFaction", "df/d40/a07573.html#a3f61acebd3d594e3a23d682d2d5292bc", null ],
+    [ "updateType", "df/d40/a07573.html#af6ee8672029884bdbec327242ce5d5d2", null ]
 ];

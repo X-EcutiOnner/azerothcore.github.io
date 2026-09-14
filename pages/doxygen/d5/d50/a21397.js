@@ -1,6 +1,7 @@
 var a21397 =
 [
-    [ "instance_utgarde_pinnacle_InstanceMapScript", "dc/d6f/a21401.html", "dc/d6f/a21401" ],
-    [ "instance_utgarde_pinnacle", "d5/d50/a21397.html#a70c1528c9c1b0d830cc7af7debd5721b", null ],
-    [ "GetInstanceScript", "d5/d50/a21397.html#a41bd06d5f42b09193c5f1b2bbb2323ac", null ]
+    [ "FilterTargets", "d5/d50/a21397.html#aacfc70299b20cfef5b2feac954779f1c", null ],
+    [ "HandleDamageCalc", "d5/d50/a21397.html#ad95c61a3977d7fa1c47902fb0a0d3843", null ],
+    [ "PrepareSpellScript", "d5/d50/a21397.html#a008a69c532a7bdaec9fd30c88bb7af90", null ],
+    [ "Register", "d5/d50/a21397.html#aa1da58fb771b35b76dcf367b9caf66d2", null ]
 ];

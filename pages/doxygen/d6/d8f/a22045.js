@@ -1,6 +1,6 @@
 var a22045 =
 [
-    [ "HandleOnEffectRemove", "d6/d8f/a22045.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51", null ],
-    [ "PrepareAuraScript", "d6/d8f/a22045.html#af415e4d7ea0b4b881af94eb7ea0c3f4c", null ],
-    [ "Register", "d6/d8f/a22045.html#a242faa8822f9cdb7762d8ec3b6245b30", null ]
+    [ "npc_mrfloppyAI", "d5/d64/a22049.html", "d5/d64/a22049" ],
+    [ "npc_mrfloppy", "d6/d8f/a22045.html#a0515ca75aba9b7f6f5577b53e7520f6e", null ],
+    [ "GetAI", "d6/d8f/a22045.html#a88590566309f3fc155eb6dc26055a161", null ]
 ];

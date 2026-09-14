@@ -1,5 +1,7 @@
 var a23613 =
 [
-    [ "go_broggok_lever", "d3/dcd/a23613.html#af91c2e283c357d2f38c9932dcfb5c375", null ],
-    [ "OnGossipHello", "d3/dcd/a23613.html#af00fe1da1cfa40dc3ece286cef45090c", null ]
+    [ "OnApply", "d3/dcd/a23613.html#a6189a5ea90b1951b21a7e9ef36700ed9", null ],
+    [ "PeriodicTick", "d3/dcd/a23613.html#a1c79b1016361eabb5cef57a893bccfcf", null ],
+    [ "PrepareAuraScript", "d3/dcd/a23613.html#acfa6b5217a0e0e2654b7fa9c4092abd5", null ],
+    [ "Register", "d3/dcd/a23613.html#adddddd0689f4686a40b1db142b5d6ce2", null ]
 ];

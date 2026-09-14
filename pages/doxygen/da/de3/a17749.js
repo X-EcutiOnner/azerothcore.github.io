@@ -1,7 +1,6 @@
 var a17749 =
 [
-    [ "HandleDummyTick", "da/de3/a17749.html#ac0aba414bc0f9f947b7bba9bd41f47b8", null ],
-    [ "PrepareAuraScript", "da/de3/a17749.html#a0e61ac6aa03aaad08d91883e587f1c40", null ],
-    [ "Register", "da/de3/a17749.html#a626900d1d0c8a471f4d100b2c2883a52", null ],
-    [ "Validate", "da/de3/a17749.html#aa6ea31d8757b42bdea42d30b758a9c6d", null ]
+    [ "boss_prince_kelesethAI", "db/d25/a17753.html", "db/d25/a17753" ],
+    [ "boss_prince_keleseth_icc", "da/de3/a17749.html#a0df14bbfc96b1d6eff19633716cea9f9", null ],
+    [ "GetAI", "da/de3/a17749.html#ae5a03bbe1d85b9bc865026f05a99545e", null ]
 ];

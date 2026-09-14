@@ -1,7 +1,6 @@
 var a19921 =
 [
-    [ "CalcDamage", "df/dff/a19921.html#abb2bf75cc347597b17ed5e4ccd213132", null ],
-    [ "PrepareSpellScript", "df/dff/a19921.html#a705a6f0c9b10dc8e7e2e6c091a3ff89c", null ],
-    [ "Register", "df/dff/a19921.html#a2c2b391b223ab92b6d644b739419a1d3", null ],
-    [ "Validate", "df/dff/a19921.html#a773c608119a84cc3f02e7b4d786f2741", null ]
+    [ "boss_uromAI", "de/d9f/a19925.html", "de/d9f/a19925" ],
+    [ "boss_urom", "df/dff/a19921.html#ae85d0bb54d3bf6571bec9d35f31a3e25", null ],
+    [ "GetAI", "df/dff/a19921.html#ac381b851f3cc746fb323ff238892c537", null ]
 ];

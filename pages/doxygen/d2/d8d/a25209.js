@@ -1,6 +1,6 @@
 var a25209 =
 [
-    [ "CheckAreaTarget", "d2/d8d/a25209.html#a90761b0145ea9d4178e77eb5e15a8ba6", null ],
-    [ "PrepareAuraScript", "d2/d8d/a25209.html#afbc45652033397067a439b45afd2e90e", null ],
-    [ "Register", "d2/d8d/a25209.html#aa24679e1243470056f74249e1b26767d", null ]
+    [ "HandleScriptEffect", "d2/d8d/a25209.html#a1ace281bf2fd53722f8328a79369b5df", null ],
+    [ "PrepareSpellScript", "d2/d8d/a25209.html#ac9a0019091f291b1b3a770ec57bd83e8", null ],
+    [ "Register", "d2/d8d/a25209.html#a821a6b11a177bf7586ab666081ab222a", null ]
 ];

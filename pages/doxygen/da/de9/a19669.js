@@ -1,6 +1,7 @@
 var a19669 =
 [
-    [ "boss_thaddius_summonAI", "d7/d1f/a19673.html", "d7/d1f/a19673" ],
-    [ "boss_thaddius_summon", "da/de9/a19669.html#a0fd6c83b5ff6d62b1649f9a13de05c73", null ],
-    [ "GetAI", "da/de9/a19669.html#aaab5973012f9ac55e8b29cc90f5ec98e", null ]
+    [ "OnPeriodic", "da/de9/a19669.html#ae685e9d36b85af8a7e33cefbd439a2f4", null ],
+    [ "PrepareAuraScript", "da/de9/a19669.html#a1362103840db4b3c40ef7d6b0aa5226c", null ],
+    [ "Register", "da/de9/a19669.html#a39b03ebd7f6233f373f52e34f18dad10", null ],
+    [ "Validate", "da/de9/a19669.html#a54cfed486827216817adb740efa6646e", null ]
 ];

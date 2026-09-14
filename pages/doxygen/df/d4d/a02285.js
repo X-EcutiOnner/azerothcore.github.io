@@ -1,5 +1,6 @@
 var a02285 =
 [
-    [ "send_commandscript", "da/dde/a12609.html", "da/dde/a12609" ],
-    [ "AddSC_send_commandscript", "df/d4d/a02285.html#a9f3fee551f6ca7aa7dad83edb2dfe480", null ]
+    [ "RBACCommandData", "db/d6a/a12649.html", "db/d6a/a12649" ],
+    [ "rbac_commandscript", "d6/db7/a12653.html", "d6/db7/a12653" ],
+    [ "AddSC_rbac_commandscript", "df/d4d/a02285.html#ac877b170f7f12651a1d6c8252a8fc0ff", null ]
 ];

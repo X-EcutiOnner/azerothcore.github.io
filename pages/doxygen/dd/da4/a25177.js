@@ -1,6 +1,9 @@
 var a25177 =
 [
-    [ "HandleDummy", "dd/da4/a25177.html#a9f9c27bdfed0a457f7e851c8598f3625", null ],
-    [ "PrepareSpellScript", "dd/da4/a25177.html#ab666b72cd7cb0ef92ba6c417be5ac7cc", null ],
-    [ "Register", "dd/da4/a25177.html#a7b78161fda34b3dc3c844c392ce7e30e", null ]
+    [ "spell_gen_select_target_count", "dd/da4/a25177.html#a65507c155a8746ff49c58c051b7868e4", null ],
+    [ "FilterTargets", "dd/da4/a25177.html#a5de89be9ce321a0f4ac49853a700b502", null ],
+    [ "PrepareSpellScript", "dd/da4/a25177.html#a42ddce15414dcdf495b572e0f75e9486", null ],
+    [ "Register", "dd/da4/a25177.html#a94f86992275123e2e3989655cf077efd", null ],
+    [ "_count", "dd/da4/a25177.html#acdf5daa848ae185b859c45a1271df68c", null ],
+    [ "_effTarget", "dd/da4/a25177.html#a9c54508790062277c8275d2466e93fb3", null ]
 ];

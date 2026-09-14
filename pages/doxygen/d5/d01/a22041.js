@@ -1,8 +1,11 @@
 var a22041 =
 [
-    [ "HandleEffectApply", "d5/d01/a22041.html#a8ebf9488a7eed99c3651424754cc95c5", null ],
-    [ "HandleEffectPeriodic", "d5/d01/a22041.html#a183976530ebf604656db12e41449427e", null ],
-    [ "PrepareAuraScript", "d5/d01/a22041.html#a03faa2eda84ac74dcff9a7a6a4e57440", null ],
-    [ "Register", "d5/d01/a22041.html#a76be53d506933d4b3c758578b7c33d5f", null ],
-    [ "_posZ", "d5/d01/a22041.html#a488ded8ff40240fe8fbef1567eb091b9", null ]
+    [ "npc_emilyAI", "d5/d01/a22041.html#afd1e82e36c8850fbe118ab6abbdb73ce", null ],
+    [ "JustEngagedWith", "d5/d01/a22041.html#a498ddc6969d398fe7a44824f4f8c8893", null ],
+    [ "JustSummoned", "d5/d01/a22041.html#a4730c94b54d2ee5160011557704b35f2", null ],
+    [ "Reset", "d5/d01/a22041.html#a8f196a6e1b21bef162b7ba4d7aeae208", null ],
+    [ "WaypointReached", "d5/d01/a22041.html#a0a68676a6eac8fbe2b634098268eb516", null ],
+    [ "WaypointReached", "d5/d01/a22041.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_mrfloppyGUID", "d5/d01/a22041.html#a12a1fbe1ef4767698ab969e51e2f0e8e", null ],
+    [ "_RavenousworgGUID", "d5/d01/a22041.html#aa2a5e45366be9f89221453e00179e1a3", null ]
 ];

@@ -1,5 +1,6 @@
 var a29565 =
 [
-    [ "ByteBufferInvalidValueException", "d4/dfd/a29565.html#a6ee22161167faf11555c6e6b15422cd8", null ],
-    [ "~ByteBufferInvalidValueException", "d4/dfd/a29565.html#a30cc1225522916e05abf95e14805d7a3", null ]
+    [ "categoryMask", "d4/dfd/a29565.html#abd8816e5dda7bda455ccd6932647c4be", null ],
+    [ "categoryType", "d4/dfd/a29565.html#a954f9fca8d0d84d5aec66f4a3f642f96", null ],
+    [ "ID", "d4/dfd/a29565.html#a2e0f0cb7a05da77dee49bd7221c01d60", null ]
 ];

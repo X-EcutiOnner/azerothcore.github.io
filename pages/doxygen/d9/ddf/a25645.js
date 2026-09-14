@@ -1,7 +1,6 @@
 var a25645 =
 [
-    [ "HandleProc", "d9/ddf/a25645.html#a87508c28fead56ca60c947d78ff8bae2", null ],
-    [ "PrepareAuraScript", "d9/ddf/a25645.html#a514ba9c8222312bb213fcebb418d2499", null ],
-    [ "Register", "d9/ddf/a25645.html#aebe4db9304449686a544c8e4c4f26b81", null ],
-    [ "Validate", "d9/ddf/a25645.html#a9888b4bf71e8bb9e4b1c3caf74c48b31", null ]
+    [ "HandleScript", "d9/ddf/a25645.html#a3f63c080d2a74def0920cceaea18e1e2", null ],
+    [ "PrepareSpellScript", "d9/ddf/a25645.html#a438c4c1763688210384b24305aeebe52", null ],
+    [ "Register", "d9/ddf/a25645.html#a27b25fbbdd912505738728414b79380c", null ]
 ];

@@ -1,5 +1,8 @@
 var a23913 =
 [
-    [ "npc_lord_sanguinar", "d3/de9/a23913.html#aa5ec2023d72561fe9cf062a2ba5a5469", null ],
-    [ "ScheduleEvents", "d3/de9/a23913.html#af9231da98547875527a519c5884cbec0", null ]
+    [ "boss_laj", "d3/de9/a23913.html#a3c9323ab4b5530504588ea62aed2edff", null ],
+    [ "Reset", "d3/de9/a23913.html#ace690a0662376addaa40093f3f119c31", null ],
+    [ "ScheduleTasks", "d3/de9/a23913.html#a6bd0db1ed4c963cdceb681c84469b06c", null ],
+    [ "_lastTransform", "d3/de9/a23913.html#a097eacaaf77a09bec087530bad587b11", null ],
+    [ "_transformContainer", "d3/de9/a23913.html#a313e66ceeb4e359251dad65383e7f568", null ]
 ];

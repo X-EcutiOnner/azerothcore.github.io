@@ -1,8 +1,7 @@
 var a14197 =
 [
-    [ "CheckCast", "dd/d1d/a14197.html#add6229e3f0241ccedf446a5a37cf72ce", null ],
-    [ "HandleScriptEffect", "dd/d1d/a14197.html#a36bb2b95651889eaa0321a7a327e173f", null ],
-    [ "PrepareSpellScript", "dd/d1d/a14197.html#a053451bd9ae6f7d639d0a977be843bc0", null ],
-    [ "Register", "dd/d1d/a14197.html#a6d16f25c93eef3c17ae6b4a43d884279", null ],
-    [ "Validate", "dd/d1d/a14197.html#ab0ed12fadaea4c96c7f6e43b7b385653", null ]
+    [ "HandleScriptEffect", "dd/d1d/a14197.html#a1b196f3817c16fac48392981b58c1a05", null ],
+    [ "PrepareSpellScript", "dd/d1d/a14197.html#ad44566ff9a44057679e7ce8e1959776d", null ],
+    [ "Register", "dd/d1d/a14197.html#aef3bfdaff9f0b5080d83805a1a962a79", null ],
+    [ "Validate", "dd/d1d/a14197.html#a70a1f0d2666921ccbad62c1fd06fe4b6", null ]
 ];

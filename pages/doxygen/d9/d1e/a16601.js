@@ -1,6 +1,7 @@
 var a16601 =
 [
-    [ "npc_halion_controllerAI", "d7/d27/a16605.html", "d7/d27/a16605" ],
-    [ "npc_halion_controller", "d9/d1e/a16601.html#ac88ff15ce4d89d737eb6dd6b649e1218", null ],
-    [ "GetAI", "d9/d1e/a16601.html#a3c5ea3f0597c070005744ea788a05383", null ]
+    [ "npc_baltharus_the_warborn_cloneAI", "d9/d1e/a16601.html#aed531e61508d4d404827f47c6348a5e6", null ],
+    [ "JustEngagedWith", "d9/d1e/a16601.html#ad906b7602a34abcfaede92cba6f0a6d7", null ],
+    [ "UpdateAI", "d9/d1e/a16601.html#ab0c1cf041146a3e16a33986e3e824a2d", null ],
+    [ "_events", "d9/d1e/a16601.html#a6e2819f73f0fccd02b7188f0e6f1ffa9", null ]
 ];

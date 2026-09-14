@@ -1,7 +1,6 @@
 var a24585 =
 [
-    [ "CheckProc", "d4/d2c/a24585.html#abd74252153fc4fc9a4e561005ea58b3f", null ],
-    [ "HandleProc", "d4/d2c/a24585.html#a8ab07569658cf2fa02193691bcab14ac", null ],
-    [ "PrepareAuraScript", "d4/d2c/a24585.html#ae169eb2c0e194f8f34ee2a0d5fd973d3", null ],
-    [ "Register", "d4/d2c/a24585.html#a72d89db31c1fbd5c3b49b4c05a2d90f4", null ]
+    [ "DeathEvent", "d4/d2c/a24585.html#a2fb9a98c077d715c4648aede6597276e", null ],
+    [ "Execute", "d4/d2c/a24585.html#a497ac46ab1acf95816020fc6be8ce03a", null ],
+    [ "_owner", "d4/d2c/a24585.html#a099d0d5ae50126f00220b3ed90907617", null ]
 ];

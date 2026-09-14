@@ -1,9 +1,10 @@
 var a22353 =
 [
-    [ "npc_brunnhildar_prisonerAI", "da/dcf/a22353.html#ad650885c7f615f8b27ba20203c9fbb6f", null ],
-    [ "JustRespawned", "da/dcf/a22353.html#a15843fcdc5d9eb34df7869b56a0b16ac", null ],
-    [ "Reset", "da/dcf/a22353.html#ac9ba0806b9702cebe9171d9ba8962b0f", null ],
-    [ "SpellHit", "da/dcf/a22353.html#af2835ec5b951e2f4bb176ebe6bb958fd", null ],
-    [ "UpdateAI", "da/dcf/a22353.html#a0702d4cf577ac00688a7b93bfe656952", null ],
-    [ "freed", "da/dcf/a22353.html#a46e03a19bac91a800154e3c873235800", null ]
+    [ "npc_engineer_heliceAI", "da/dcf/a22353.html#ab9d82a7d2886a0cc4edbc2f4c4c81341", null ],
+    [ "JustDied", "da/dcf/a22353.html#aba224727b86a2bfc39a47b70b424ccef", null ],
+    [ "Reset", "da/dcf/a22353.html#ade3f7f526dd8973c155aafb939db3778", null ],
+    [ "UpdateAI", "da/dcf/a22353.html#a1c333511dd6e82cd22af111e12a701c4", null ],
+    [ "WaypointReached", "da/dcf/a22353.html#a065698e61f0b7769ad2f58614c02ad5b", null ],
+    [ "WaypointReached", "da/dcf/a22353.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "m_uiChatTimer", "da/dcf/a22353.html#aa305bc2b5711d0745650f80275204ea8", null ]
 ];

@@ -1,5 +1,7 @@
 var a25985 =
 [
-    [ "PrepareSpellScript", "d0/df5/a25985.html#a065d81d698c978bcdd234712807e9098", null ],
-    [ "Register", "d0/df5/a25985.html#a3efcd145189b27272495110c799cf14f", null ]
+    [ "HandleScriptEffect", "d0/df5/a25985.html#a3ad488a1b6115bb1ec8cfe6717d3b4cf", null ],
+    [ "Load", "d0/df5/a25985.html#af89783564da25769be15e22291717f6a", null ],
+    [ "PrepareSpellScript", "d0/df5/a25985.html#a1e7e4137712fcaa378d1ac7ff1b0a6c7", null ],
+    [ "Register", "d0/df5/a25985.html#addbe722d9f3727578f817789e3010bab", null ]
 ];

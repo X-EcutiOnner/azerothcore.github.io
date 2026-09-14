@@ -1,11 +1,16 @@
 var a24237 =
 [
-    [ "npc_invis_infernal_casterAI", "d2/db9/a24237.html#a1188ecc4752d5ab1c2f81602187282f2", null ],
-    [ "Reset", "d2/db9/a24237.html#a05a8d5fd4828d7b1edb3b29ff8a6e61c", null ],
-    [ "SetData", "d2/db9/a24237.html#aee88dc141757384f96da969fcdc20671", null ],
-    [ "SummonInfernal", "d2/db9/a24237.html#a78d53d09e5544b3fe8301da4415d297b", null ],
-    [ "UpdateAI", "d2/db9/a24237.html#a80be204b493768ceb5f5d99d1e81f1b1", null ],
-    [ "events", "d2/db9/a24237.html#aab7aca330ae36dd2de7761984dd2a0a3", null ],
-    [ "ground", "d2/db9/a24237.html#a4c943d67b25d7c9f4ac6f16d96bbbc4f", null ],
-    [ "infernalGUID", "d2/db9/a24237.html#a5619136f90c181ecf3e4389bc2fcdafc", null ]
+    [ "npc_kurenai_captiveAI", "d2/db9/a24237.html#ab8771e4c2cefe3d5dc3e07df2eeb7b96", null ],
+    [ "JustDied", "d2/db9/a24237.html#a0778846d7d67f5d29ed3f7ef02f912f4", null ],
+    [ "JustEngagedWith", "d2/db9/a24237.html#a9e36749629568d7917353bee51be08b8", null ],
+    [ "JustSummoned", "d2/db9/a24237.html#a19a5190b72f78ee698d5fa2df6ac9b4b", null ],
+    [ "Reset", "d2/db9/a24237.html#aea5af2579f9be13620f15b82b5cc8436", null ],
+    [ "SetGUID", "d2/db9/a24237.html#a5ae293f5444f08f7ea58b3b58f4a7279", null ],
+    [ "SpellHitTarget", "d2/db9/a24237.html#a1f0cb1afc62b1b29a71cc04a21c456f0", null ],
+    [ "UpdateEscortAI", "d2/db9/a24237.html#a3d0dfb0df190fe1b32cacb039e611dc3", null ],
+    [ "WaypointReached", "d2/db9/a24237.html#a584bfc3a62f9d856e6d918d8f8694b3e", null ],
+    [ "WaypointReached", "d2/db9/a24237.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "ChainLightningTimer", "d2/db9/a24237.html#a9aede5daebe0cf90ca2091a052c34282", null ],
+    [ "FrostShockTimer", "d2/db9/a24237.html#a224c2df273f8d032e4302958879ce4d5", null ],
+    [ "HealTimer", "d2/db9/a24237.html#a5a8d15bf6d2fd7a04818ba4535195922", null ]
 ];

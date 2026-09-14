@@ -1,5 +1,6 @@
 var a29373 =
 [
-    [ "Exp", "d0/de2/a29373.html#aa34490babd6ccdc45857947db3f36d60", null ],
-    [ "id", "d0/de2/a29373.html#abe177efe7ea9d1d1ae8e7d09655c7193", null ]
+    [ "Enchantment", "d0/de2/a29373.html#a480ab806214bb138d56dfd5e9e43936f", null ],
+    [ "ID", "d0/de2/a29373.html#acb673be771124b84dd3fdd5deb300de7", null ],
+    [ "Name", "d0/de2/a29373.html#a3ad3a1b693922ff8264d90232abb3e35", null ]
 ];

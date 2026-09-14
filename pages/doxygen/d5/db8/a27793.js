@@ -1,8 +1,6 @@
 var a27793 =
 [
-    [ "HandleDummyTick", "d5/db8/a27793.html#ad35d90e5cdd68f4c1d3172a0860274bd", null ],
-    [ "HandleRemove", "d5/db8/a27793.html#a92f2bb73ec58832eaada3c7140f7868d", null ],
-    [ "PrepareAuraScript", "d5/db8/a27793.html#a06e45d5f63ef1395b5949482e8393098", null ],
-    [ "Register", "d5/db8/a27793.html#abf1d49720ae43d4ed2fb1c2920387ace", null ],
-    [ "Validate", "d5/db8/a27793.html#a9a2da4d163a96526e14f5de76798a784", null ]
+    [ "HandleSchoolDMG", "d5/db8/a27793.html#a8f3ff0a48d5de4dcd33831400de0ba28", null ],
+    [ "PrepareSpellScript", "d5/db8/a27793.html#a42bb397aa53fb43ba1b1799a7f162d9b", null ],
+    [ "Register", "d5/db8/a27793.html#ac1271959fe8de3c11403b1e76acdbf15", null ]
 ];

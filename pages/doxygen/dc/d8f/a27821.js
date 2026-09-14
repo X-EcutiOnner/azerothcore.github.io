@@ -1,8 +1,10 @@
 var a27821 =
 [
-    [ "ApplyEffect", "dc/d8f/a27821.html#a0c303c58064236969e17d1f2df3e0556", null ],
-    [ "PrepareAuraScript", "dc/d8f/a27821.html#a716a483282946f840ac15d73c6e21a94", null ],
-    [ "Register", "dc/d8f/a27821.html#ad72816bc73bdb1cf578f3c4599ec1682", null ],
-    [ "RemoveEffect", "dc/d8f/a27821.html#a571b1b19f4d5b13e54288aa89ab1e9b6", null ],
-    [ "Validate", "dc/d8f/a27821.html#a99eb27ead6f5c8c8f569626600f2daf9", null ]
+    [ "CalculateAPAmount", "dc/d8f/a27821.html#ae76d10c68df1f149f83d4247122b47a7", null ],
+    [ "CalculateResistanceAmount", "dc/d8f/a27821.html#ab21a4b135dfd70963f75eff7bffbf476", null ],
+    [ "CalculateSPAmount", "dc/d8f/a27821.html#a421996ca946d5b04c264718e6dd63fa9", null ],
+    [ "CalculateStatAmount", "dc/d8f/a27821.html#ae695515c915f2452dccb71aeb018f3a3", null ],
+    [ "HandleEffectApply", "dc/d8f/a27821.html#a207864c73e485e0db0fe47bde97d87a2", null ],
+    [ "PrepareAuraScript", "dc/d8f/a27821.html#a4179be48195872410bda69cac3454812", null ],
+    [ "Register", "dc/d8f/a27821.html#a94b34a7e4c36bf1336b5611e82e2dd58", null ]
 ];

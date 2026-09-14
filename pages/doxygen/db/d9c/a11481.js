@@ -1,7 +1,7 @@
 var a11481 =
 [
-    [ "TrainerBuySucceeded", "db/d9c/a11481.html#ae00367a55429030c107fc8f6bb7db288", null ],
-    [ "Write", "db/d9c/a11481.html#a76c6af8b27ad75cb1f4944f8f44ba5d7", null ],
-    [ "SpellID", "db/d9c/a11481.html#acb2b774859531ccf04fe6ba1d013e85d", null ],
-    [ "TrainerGUID", "db/d9c/a11481.html#a4354c559764d2aa6b5d98bb51ee076fe", null ]
+    [ "StopMirrorTimer", "db/d9c/a11481.html#aabd646c82f3dcdff2eef2158c6724dff", null ],
+    [ "StopMirrorTimer", "db/d9c/a11481.html#a25f930852c7124cdfbf73687e62a26d1", null ],
+    [ "Write", "db/d9c/a11481.html#ae99dab4406316eac99a6e0e0146d879e", null ],
+    [ "Timer", "db/d9c/a11481.html#a5e5cf56b83aca514cff34c1a17f2d3b1", null ]
 ];

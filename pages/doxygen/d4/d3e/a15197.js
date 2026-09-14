@@ -1,7 +1,7 @@
 var a15197 =
 [
-    [ "OnPeriodic", "d4/d3e/a15197.html#a4ed63f32afe3831d7fb08333ff1d379f", null ],
-    [ "PrepareAuraScript", "d4/d3e/a15197.html#a74be4e2b0f9c6254a87a7cfb8159fc9b", null ],
-    [ "Register", "d4/d3e/a15197.html#aeb388d608830aeb3b30f707304403b41", null ],
-    [ "Validate", "d4/d3e/a15197.html#af27768000c5c3232a1264f4f1f2bd7b3", null ]
+    [ "HandleOnHit", "d4/d3e/a15197.html#a9f1d78b4a98bc76877903b79923c1634", null ],
+    [ "PrepareSpellScript", "d4/d3e/a15197.html#afb0a8a16850da30b0fbdb3d10a935f21", null ],
+    [ "Register", "d4/d3e/a15197.html#ab923488eb891e1f9b1f5cb8ed61f3865", null ],
+    [ "Validate", "d4/d3e/a15197.html#a57d85b1702e5c89d72972505121180ed", null ]
 ];

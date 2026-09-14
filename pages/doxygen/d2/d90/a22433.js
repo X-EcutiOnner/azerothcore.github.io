@@ -1,8 +1,8 @@
 var a22433 =
 [
-    [ "npc_oathbound_warder", "d2/d90/a22433.html#af4e56bd77dc1c12e795736f117a9b7f1", null ],
-    [ "AttackStart", "d2/d90/a22433.html#afa3e523d3c4b7659df3d06be11eea7e4", null ],
-    [ "InitializeAI", "d2/d90/a22433.html#a62c4c568ad615013afa46c7da84d057a", null ],
-    [ "JustEngagedWith", "d2/d90/a22433.html#af5c0cb0f8cd8bf5a77bf7460dc576a6f", null ],
-    [ "UpdateAI", "d2/d90/a22433.html#a2e97b16356a6aec04c7c0b1a2d872070", null ]
+    [ "npc_hyldsmeet_protodrake", "d2/d90/a22433.html#a409a5f5eace583ef874421819c975ed8", null ],
+    [ "PassengerBoarded", "d2/d90/a22433.html#a0067d3b394c967946e329ea25c2dc315", null ],
+    [ "UpdateAI", "d2/d90/a22433.html#a49ce0b6b324b968b1b2902c1db037a53", null ],
+    [ "_accessoryInstalled", "d2/d90/a22433.html#af9a5984f66eb3a1a26e8c1640bcf7597", null ],
+    [ "_accessoryRespawnTimer", "d2/d90/a22433.html#a724645a3d05ba26d99a8bc1668d1dc3a", null ]
 ];

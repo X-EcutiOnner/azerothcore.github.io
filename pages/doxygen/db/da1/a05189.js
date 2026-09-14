@@ -1,36 +1,20 @@
 var a05189 =
 [
-    [ "EffectApplyResult", "df/d4c/a29983.html", "df/d4c/a29983" ],
-    [ "EffectDesc", "d0/de8/a29975.html", "d0/de8/a29975" ],
-    [ "SpellDesc", "d8/dfc/a29979.html", "d8/dfc/a29979" ],
-    [ "AuraType", "db/da1/a05189.html#ab3c8788e4514711f326743e17cf18f33", [
-      [ "AURA_NONE", "db/da1/a05189.html#ab3c8788e4514711f326743e17cf18f33a6d4b017b9d6a47c80166fe40a50f7c0c", null ],
-      [ "AURA_MOD_DECREASE_SPEED", "db/da1/a05189.html#ab3c8788e4514711f326743e17cf18f33a1bb3542c472e476df1856aac0f5ccf48", null ],
-      [ "AURA_PERIODIC_DAMAGE", "db/da1/a05189.html#ab3c8788e4514711f326743e17cf18f33a6a2e2898c74255e2be848f8d851cd61b", null ],
-      [ "AURA_TRANSFORM", "db/da1/a05189.html#ab3c8788e4514711f326743e17cf18f33a856d9e6ed0a25dd7d099adeed0e46680", null ],
-      [ "AURA_MOD_STUN", "db/da1/a05189.html#ab3c8788e4514711f326743e17cf18f33a42c1557fe57b7d46ec7aaf73f8767ace", null ]
-    ] ],
-    [ "EffectType", "db/da1/a05189.html#ad4f0bfb68d839af88604b04ff47ee09b", [
-      [ "EFFECT_NONE", "db/da1/a05189.html#ad4f0bfb68d839af88604b04ff47ee09ba24edc96a60f35387b2a916bbd47597b9", null ],
-      [ "EFFECT_SCHOOL_DAMAGE", "db/da1/a05189.html#ad4f0bfb68d839af88604b04ff47ee09ba8c7f6ace4b718c242badbdd606f2f326", null ],
-      [ "EFFECT_HEALTH_LEECH", "db/da1/a05189.html#ad4f0bfb68d839af88604b04ff47ee09badf7d20f7f73744f8801a9e3722859857", null ],
-      [ "EFFECT_POWER_DRAIN", "db/da1/a05189.html#ad4f0bfb68d839af88604b04ff47ee09ba7f780b287e075a337dec7f1eff2f7fe6", null ],
-      [ "EFFECT_POWER_BURN", "db/da1/a05189.html#ad4f0bfb68d839af88604b04ff47ee09baa3b002d33deb9b0c599313ec88fbacbe", null ],
-      [ "EFFECT_NORMALIZED_WEAPON_DMG", "db/da1/a05189.html#ad4f0bfb68d839af88604b04ff47ee09bad0131549c4802cb811d2fabffcb09a86", null ],
-      [ "EFFECT_WEAPON_PERCENT_DAMAGE", "db/da1/a05189.html#ad4f0bfb68d839af88604b04ff47ee09ba789f2fcff65ef9724496bdd61374c413", null ],
-      [ "EFFECT_APPLY_AURA", "db/da1/a05189.html#ad4f0bfb68d839af88604b04ff47ee09ba841daad67e5ce4267a3b709cb925597a", null ],
-      [ "EFFECT_DUMMY", "db/da1/a05189.html#ad4f0bfb68d839af88604b04ff47ee09ba3beec166914f7490f010caa66eca7140", null ]
-    ] ],
-    [ "ApplyEffectsWithMovementImmunity", "db/da1/a05189.html#a3f6167aede97490fe6c435b6e981ee31", null ],
-    [ "ComputeSpellHitResult", "db/da1/a05189.html#a687cb216770a0868d03198480599bde5", null ],
-    [ "HasOnlyDamageEffects", "db/da1/a05189.html#ac2464881723f07e073fd8ad85dbbaa61", null ],
-    [ "IsBlockedBySchoolImmunity", "db/da1/a05189.html#aa9048e95a3ceb76f45272b1240af4a2c", null ],
-    [ "IsDamageEffect", "db/da1/a05189.html#a751e7c7dd00eb27194700629d22d50c6", null ],
-    [ "IsEffectBlockedByStunImmunity", "db/da1/a05189.html#accf0cc423cf1c4e9bf5ac0b660caed24", null ],
-    [ "IsFullyImmunedByStunImmunity", "db/da1/a05189.html#aaa953489abf2a825aea7d2aef9f904a3", null ],
-    [ "IsStunSpell", "db/da1/a05189.html#a95ec40b4341833086e531ed73dba7147", null ],
-    [ "MakeCycloneLikeSpell", "db/da1/a05189.html#a6db007c75130da75c1510de68536e7fd", null ],
-    [ "MakeDamageOnlySpell", "db/da1/a05189.html#ac9b0d1a51efd792514de07f8af0268cd", null ],
-    [ "MakeFrostboltLikeSpell", "db/da1/a05189.html#a4ae8bc0e855177e9fb9212a0b24fa2c0", null ],
-    [ "MakeSlowOnlySpell", "db/da1/a05189.html#ae0dcf3406441c72889d7703c788095a6", null ]
+    [ "PushQuestToParty", "d1/dec/a11709.html", "d1/dec/a11709" ],
+    [ "QuestConfirmAccept", "d4/de0/a11669.html", "d4/de0/a11669" ],
+    [ "QuestConfirmAcceptClient", "d4/da8/a11705.html", "d4/da8/a11705" ],
+    [ "QuestGiverQuestAutoLaunch", "d5/dcf/a11693.html", "d5/dcf/a11693" ],
+    [ "QuestGiverQuestComplete", "db/d5a/a11653.html", "db/d5a/a11653" ],
+    [ "QuestGiverQuestFailed", "d7/d8b/a11657.html", "d7/d8b/a11657" ],
+    [ "QuestGiverQuestInvalid", "d4/dc3/a11665.html", "d4/dc3/a11665" ],
+    [ "QuestLogFull", "d7/d4a/a11645.html", "d7/d4a/a11645" ],
+    [ "QuestLogRemoveQuest", "d6/d74/a11701.html", "d6/d74/a11701" ],
+    [ "QuestLogSwapQuest", "d3/db2/a11697.html", "d3/db2/a11697" ],
+    [ "QuestPushResult", "de/dc1/a11673.html", "de/dc1/a11673" ],
+    [ "QuestPushResultClient", "d0/dac/a11689.html", "d0/dac/a11689" ],
+    [ "QuestUpdateAddItem", "d4/d06/a11677.html", "d4/d06/a11677" ],
+    [ "QuestUpdateAddKill", "d1/d96/a11681.html", "d1/d96/a11681" ],
+    [ "QuestUpdateAddPvPKill", "d8/d1e/a11685.html", "d8/d1e/a11685" ],
+    [ "QuestUpdateComplete", "d7/da4/a11649.html", "d7/da4/a11649" ],
+    [ "QuestUpdateFailedTimer", "d1/d11/a11661.html", "d1/d11/a11661" ]
 ];

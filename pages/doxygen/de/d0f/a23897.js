@@ -1,6 +1,7 @@
 var a23897 =
 [
-    [ "AfterRemove", "de/d0f/a23897.html#a1794dcf8ebca0bd0c4fce5acb8b45de0", null ],
-    [ "PrepareAuraScript", "de/d0f/a23897.html#ad5871ce865820456177362c6b790778f", null ],
-    [ "Register", "de/d0f/a23897.html#a41e19fb2509051bbd2d9e43c59f16486", null ]
+    [ "AfterApply", "de/d0f/a23897.html#a0ba88b8ed8cfd0afa1de500a7a8d74b5", null ],
+    [ "PrepareAuraScript", "de/d0f/a23897.html#aa98346e5f5b23fe016148426a19a719f", null ],
+    [ "Register", "de/d0f/a23897.html#ac0edcddf6c38b933c868dbe0535f143a", null ],
+    [ "Validate", "de/d0f/a23897.html#a616d1758aa257140f4941fe12ef21e87", null ]
 ];

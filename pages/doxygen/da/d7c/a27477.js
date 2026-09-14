@@ -1,6 +1,10 @@
 var a27477 =
 [
-    [ "CheckProc", "da/d7c/a27477.html#ae8f06d0b6738c92a2e4a45fe0ca81cb9", null ],
-    [ "PrepareAuraScript", "da/d7c/a27477.html#aafd3eba8af1edb89ded08b056f9b497c", null ],
-    [ "Register", "da/d7c/a27477.html#aeb1d84b45afc05b8b9ca5cea2a50f5a4", null ]
+    [ "HandleProc", "da/d7c/a27477.html#af7ed59bccd5a9db04e37753e813377b6", null ],
+    [ "OnRemove", "da/d7c/a27477.html#a7dbe609ad8ced19cfa2b5625ed2a3923", null ],
+    [ "PrepareAuraScript", "da/d7c/a27477.html#a2280ebe1a928d0962c7f67e22405db18", null ],
+    [ "Register", "da/d7c/a27477.html#a1e53dfab9d98846d404ea7f57555c941", null ],
+    [ "SetRedirectTarget", "da/d7c/a27477.html#a6ed3efbadf6936d9c2f81ab1b97595ab", null ],
+    [ "Validate", "da/d7c/a27477.html#ad371bd41e4653c0a8b729321dbc830a1", null ],
+    [ "_redirectTarget", "da/d7c/a27477.html#a9baf177530d3096f06e8f37220cfb0fa", null ]
 ];

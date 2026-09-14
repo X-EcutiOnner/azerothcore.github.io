@@ -1,4 +1,6 @@
 var a00530 =
 [
-    [ "DEBUG_WRITE", "da/d7e/a00530.html#a4ebf72895c1d62f0bc7d45804db4bc91", null ]
+    [ "MAX_QUIET_DISTANCE", "da/d7e/a00530.html#a9738c927d0a0b9da431824ab69a5988a", null ],
+    [ "MIN_PATH_LENGTH", "da/d7e/a00530.html#aa1f2b73706ddb69d07dbdc87257f010f", null ],
+    [ "MIN_QUIET_DISTANCE", "da/d7e/a00530.html#ad1ba65a06a9ac4ab2293efde8be35403", null ]
 ];

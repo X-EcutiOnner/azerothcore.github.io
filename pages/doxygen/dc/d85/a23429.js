@@ -1,7 +1,10 @@
 var a23429 =
 [
-    [ "HandleScriptEffect", "dc/d85/a23429.html#ace1bb0dd5a76aa75038060af16b2e09f", null ],
-    [ "PrepareSpellScript", "dc/d85/a23429.html#ab3f6d24643b75482d5f96779a5bdda11", null ],
-    [ "Register", "dc/d85/a23429.html#a14772c25b70078c0034b8de17de5b77a", null ],
-    [ "Validate", "dc/d85/a23429.html#a8318385367bf6c6b09e0978c461f5d59", null ]
+    [ "Spells", "dc/d85/a23429.html#a70ca1841fb1db54e6f76b96331e05cf1", [
+      [ "SPELL_GROW", "dc/d85/a23429.html#a70ca1841fb1db54e6f76b96331e05cf1a287a03bdb61355baf071dd8aa5802ccd", null ],
+      [ "SPELL_SPORE_CLOUD", "dc/d85/a23429.html#a70ca1841fb1db54e6f76b96331e05cf1afae99ec87dcd6bdf3631b9f273fecbd5", null ]
+    ] ],
+    [ "npc_rancid_mushroom", "dc/d85/a23429.html#a15896957b94de57de9eda5a199a05d4c", null ],
+    [ "InitializeAI", "dc/d85/a23429.html#afff169ff9d7a8411cf6d21f4f9be2545", null ],
+    [ "UpdateAI", "dc/d85/a23429.html#a13bfd343bdf54c829b3fcb0a775c0852", null ]
 ];

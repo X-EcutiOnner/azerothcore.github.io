@@ -1,7 +1,6 @@
 var a20569 =
 [
-    [ "HandleEffectPeriodic", "df/ddd/a20569.html#a8d2e75ee2869dc135fe83c782ec6e223", null ],
-    [ "PrepareAuraScript", "df/ddd/a20569.html#a0996c661dbc4e9a4bd35c1368247c7eb", null ],
-    [ "Register", "df/ddd/a20569.html#aed86a298340cc05fbe2a8a68396423bb", null ],
-    [ "Validate", "df/ddd/a20569.html#a1c3ecaebf11d1040fde4ce5cb80f315c", null ]
+    [ "FilterTargets", "df/ddd/a20569.html#a16c036791c9dc94490d0504d6e530bad", null ],
+    [ "PrepareSpellScript", "df/ddd/a20569.html#a0c1a162a3dfb2b508f9efaebe478ca74", null ],
+    [ "Register", "df/ddd/a20569.html#a061c3091e981f09d20016c4f523f3c17", null ]
 ];

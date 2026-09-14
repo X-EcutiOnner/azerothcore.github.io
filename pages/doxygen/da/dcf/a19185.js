@@ -1,9 +1,8 @@
 var a19185 =
 [
-    [ "FilterTargets", "da/dcf/a19185.html#a3acf306a9cae592d93a909ee0162777f", null ],
-    [ "HandleMirror", "da/dcf/a19185.html#aa37be5d7e140afe7ad9ef51b5d173b98", null ],
-    [ "PrepareSpellScript", "da/dcf/a19185.html#a5344b059a1e2543e0da03dfce3d36bf4", null ],
-    [ "Register", "da/dcf/a19185.html#a7e90d4e97a3e9a07edd6a482e8faa5c7", null ],
-    [ "Validate", "da/dcf/a19185.html#a0e3138957535ddfebe25aa44d917d942", null ],
-    [ "_targets", "da/dcf/a19185.html#a93afed08cf6714c896d2619e0fa0536f", null ]
+    [ "npc_arthas_teleport_visualAI", "da/dcf/a19185.html#a9b9b2ba725cde9aec898244a9e50c394", null ],
+    [ "Reset", "da/dcf/a19185.html#a27155b8880a2a86b733bcd074e977b59", null ],
+    [ "UpdateAI", "da/dcf/a19185.html#a23c200f2c7b9f5d02bed7af37bc69c33", null ],
+    [ "_events", "da/dcf/a19185.html#a986f19145e46f5975f22a84a3e1b10ee", null ],
+    [ "_instance", "da/dcf/a19185.html#a25bc023e061a0845421a652b571a6e1e", null ]
 ];

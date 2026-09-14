@@ -1,6 +1,7 @@
 var a24005 =
 [
-    [ "HandleAfterRemove", "db/dad/a24005.html#ac9756a8f206c114ff6443331ca266184", null ],
-    [ "PrepareAuraScript", "db/dad/a24005.html#a2f67291e6e4291c9d01cdbcbe04a7db7", null ],
-    [ "Register", "db/dad/a24005.html#ac36d76ad8a5ecb2e437dcb8f1248386d", null ]
+    [ "HandleEffect", "db/dad/a24005.html#ac0fb38f62cc9a41eb70b2ca951f9d1dc", null ],
+    [ "PrepareSpellScript", "db/dad/a24005.html#abbbffa0a53dc2a55df5e7b17a7f4d38f", null ],
+    [ "Register", "db/dad/a24005.html#ac406946bb793125d49006e3a877c9638", null ],
+    [ "SelectTarget", "db/dad/a24005.html#ac36f3d88a0ef8ccaee5bac17bffcaf49", null ]
 ];

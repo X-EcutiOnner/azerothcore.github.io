@@ -1,6 +1,7 @@
 var a21517 =
 [
-    [ "HandleEffectPeriodic", "d2/de9/a21517.html#a508ff9e362d586497839aa29ceae1227", null ],
-    [ "PrepareAuraScript", "d2/de9/a21517.html#a4e7d5317d28207136b1fd3477a51ae06", null ],
-    [ "Register", "d2/de9/a21517.html#a4b08cefe7d334635b70d389cc9df4901", null ]
+    [ "PrepareAuraScript", "d2/de9/a21517.html#adedc1cb8b42e9cd3c2e68415bca59c6b", null ],
+    [ "Register", "d2/de9/a21517.html#a7225d1f83921e4de06516c1db5a5038a", null ],
+    [ "TriggerFists", "d2/de9/a21517.html#af5d91d679f6bed5afc675b8a5fd90210", null ],
+    [ "Validate", "d2/de9/a21517.html#a977897c569245148eb94892bb42d4ca5", null ]
 ];

@@ -1,8 +1,6 @@
 var a22881 =
 [
-    [ "Load", "d5/d40/a22881.html#a038301fbb547469574efff88455be663", null ],
-    [ "OnPeriodic", "d5/d40/a22881.html#a8df384cc329cf20ddc5ac0d7bed0345f", null ],
-    [ "PrepareAuraScript", "d5/d40/a22881.html#a386df1300e6a99b02efd13ef4968e99a", null ],
-    [ "Register", "d5/d40/a22881.html#a1b7b9bff5b3d906fa491846a4d5c6743", null ],
-    [ "Validate", "d5/d40/a22881.html#ad64a3fc1a66b9e8914099e501992f2aa", null ]
+    [ "HandleScriptEffect", "d5/d40/a22881.html#a21740b341acce23e284a3d4ceea9b6e0", null ],
+    [ "PrepareSpellScript", "d5/d40/a22881.html#addcd30a673390ca8b76eab5ccb5f4245", null ],
+    [ "Register", "d5/d40/a22881.html#aad6959f74932db219e991efd3b3af44a", null ]
 ];

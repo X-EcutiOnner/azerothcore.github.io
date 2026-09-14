@@ -1,9 +1,10 @@
 var a22973 =
 [
-    [ "FilterTargets", "d4/dce/a22973.html#aa8f0401dd004e816b8071381289116fa", null ],
-    [ "HandleTeleportUnits", "d4/dce/a22973.html#a4333f10a29ef3e5643f637899a0ab5c5", null ],
-    [ "PrepareSpellScript", "d4/dce/a22973.html#a47898c213cdd125714c80d327bf42d8c", null ],
-    [ "Register", "d4/dce/a22973.html#a6036577cd7b4fbbc55e90e9ab067f13a", null ],
-    [ "SetDest", "d4/dce/a22973.html#a4cf75d96a0d1de62bc989826204b04c9", null ],
-    [ "Validate", "d4/dce/a22973.html#a814083360970284a325621f45e109b5b", null ]
+    [ "boss_illidari_council", "d4/dce/a22973.html#a078c36be39b377f6d1cdbf061d70270d", null ],
+    [ "AttackStart", "d4/dce/a22973.html#a260b15ec58164f17543aa044a89875a8", null ],
+    [ "DamageTaken", "d4/dce/a22973.html#af8e88c307efaba392cc2a1d2f3862078", null ],
+    [ "DoAction", "d4/dce/a22973.html#a6c3c57523ed2775ba553af1171b46463", null ],
+    [ "EnterEvadeMode", "d4/dce/a22973.html#a7dd21784b8f9a0eac17d56215c24028e", null ],
+    [ "MoveInLineOfSight", "d4/dce/a22973.html#a19ed88ab049e1323f529e0880af0a9dd", null ],
+    [ "UpdateAI", "d4/dce/a22973.html#a8b30df956aa4ce1727756f1d19e151be", null ]
 ];

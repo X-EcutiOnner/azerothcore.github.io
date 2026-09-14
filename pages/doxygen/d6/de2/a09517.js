@@ -1,5 +1,8 @@
 var a09517 =
 [
-    [ "Visit", "d6/de2/a09517.html#aa0f56809b23b117bde869576ddaa9dbd", null ],
-    [ "Visit", "d6/de2/a09517.html#afab06305b5b3568b93d07f80efd616ae", null ]
+    [ "DungeonEncounter", "d6/de2/a09517.html#a3e48a996a47ddcc1b18aaac339457f3d", null ],
+    [ "creditEntry", "d6/de2/a09517.html#a700a0792973678339f33ab85e7396918", null ],
+    [ "creditType", "d6/de2/a09517.html#a66a077e193f099bb7aef363dc75672d6", null ],
+    [ "dbcEntry", "d6/de2/a09517.html#a262bdd0ba443739456fc14bcad83ecda", null ],
+    [ "lastEncounterDungeon", "d6/de2/a09517.html#a67e29b891887e339dbb40515d082e781", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/common/Banner.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/test/server/game/Entities/RageWeaponSpeedHitFactorTest.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -104,21 +104,98 @@ $(document).ready(function(){initNavTree('d4/d61/a04577.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">Banner.cpp File Reference</div></div>
+  <div class="summary">
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle"><div class="title">RageWeaponSpeedHitFactorTest.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">Banner.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GitRevision.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">StringFormat.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">IntegrationTestFixture.h</a>&quot;</code><br />
+<code>#include &quot;gtest/gtest.h&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:aa443095c7d1ee6423c16313f9bdbcbf8"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d61/a04577.html#aa443095c7d1ee6423c16313f9bdbcbf8">TEST_F</a> (<a class="el" href="../../d3/d0a/a29729.html">IntegrationTestFixture</a>, HasteChangesIntervalNotRage)</td></tr>
+<tr class="separator:aa443095c7d1ee6423c16313f9bdbcbf8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="aa443095c7d1ee6423c16313f9bdbcbf8" name="aa443095c7d1ee6423c16313f9bdbcbf8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa443095c7d1ee6423c16313f9bdbcbf8">&#9670;&#160;</a></span>TEST_F()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d3/d0a/a29729.html">IntegrationTestFixture</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">HasteChangesIntervalNotRage&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   23</span>{</div>
+<div class="line"><span class="lineno">   24</span>    <a class="code hl_class" href="../../d7/d08/a29805.html">TestPlayer</a>* player = CreateTestPlayer(1, <span class="stringliteral">&quot;RageTest&quot;</span>, <a class="code hl_enumvalue" href="../../d6/d32/a05051.html#adaa1cabfe05f8df3c272bdcfd89cdac7a5d534fd54528d86d0f997fa130159df0">SEC_PLAYER</a>);</div>
+<div class="line"><span class="lineno">   25</span>    player-&gt;<a class="code hl_function" href="../../da/d94/a09217.html#ac2bd94b573bcf5e80cba886a8e2f540f">SetUInt32Value</a>(<a class="code hl_enumvalue" href="../../de/d0f/a01727.html#a0e42dc606678c9df7884e1aad621e881a49af271c782fa1b5d80c569f71f65d70">UNIT_FIELD_LEVEL</a>, 80);</div>
+<div class="line"><span class="lineno">   26</span>    player-&gt;<a class="code hl_function" href="../../da/d94/a09217.html#a665cb09340bb34d09800ac518f8b40b8">SetMaxPower</a>(<a class="code hl_enumvalue" href="../../d7/d3f/a00173.html#a17e15fab4b89f4840e745f31ca76a414a1b514bf3a42e9a5dc4271bd25b7dce7e">POWER_RAGE</a>, 10000);</div>
+<div class="line"><span class="lineno">   27</span>    player-&gt;<a class="code hl_function" href="../../da/d94/a09217.html#adeb215374587957e59c2551053895fa1">SetAttackTime</a>(<a class="code hl_enumvalue" href="../../d5/d12/a01799.html#a85524ab4e1fb005ed500bd190f79c352a5145c1138a6f21d47061e9015e07a3ae">BASE_ATTACK</a>, 2000);</div>
+<div class="line"><span class="lineno">   28</span> </div>
+<div class="line"><span class="lineno">   29</span>    <a class="code hl_typedef" href="../../d8/dca/a04670.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <span class="keyword">const</span> before = player-&gt;<a class="code hl_function" href="../../da/d94/a09217.html#ad7e475d80b9af430cc076d7c01f967e9">GetPower</a>(<a class="code hl_enumvalue" href="../../d7/d3f/a00173.html#a17e15fab4b89f4840e745f31ca76a414a1b514bf3a42e9a5dc4271bd25b7dce7e">POWER_RAGE</a>);</div>
+<div class="line"><span class="lineno">   30</span>    player-&gt;<a class="code hl_function" href="../../da/d94/a09217.html#a62cc22731d4d9af6f6f5bbf39d29356d">RewardRage</a>(1000, player-&gt;<a class="code hl_function" href="../../da/d94/a09217.html#a6006eef28382a59a63d9f0c0abd0292d">GetRageWeaponSpeedHitFactor</a>(<a class="code hl_enumvalue" href="../../d5/d12/a01799.html#a85524ab4e1fb005ed500bd190f79c352a5145c1138a6f21d47061e9015e07a3ae">BASE_ATTACK</a>), <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">   31</span>    <a class="code hl_typedef" href="../../d8/dca/a04670.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <span class="keyword">const</span> rageNoHaste = player-&gt;<a class="code hl_function" href="../../da/d94/a09217.html#ad7e475d80b9af430cc076d7c01f967e9">GetPower</a>(<a class="code hl_enumvalue" href="../../d7/d3f/a00173.html#a17e15fab4b89f4840e745f31ca76a414a1b514bf3a42e9a5dc4271bd25b7dce7e">POWER_RAGE</a>) - before;</div>
+<div class="line"><span class="lineno">   32</span>    EXPECT_GT(rageNoHaste, 0u); <span class="comment">// rage was granted</span></div>
+<div class="line"><span class="lineno">   33</span> </div>
+<div class="line"><span class="lineno">   34</span>    player-&gt;<a class="code hl_function" href="../../da/d94/a09217.html#a60d7ad5197284d3caaed380dfc740ff0">ApplyAttackTimePercentMod</a>(<a class="code hl_enumvalue" href="../../d5/d12/a01799.html#a85524ab4e1fb005ed500bd190f79c352a5145c1138a6f21d47061e9015e07a3ae">BASE_ATTACK</a>, 50.0f, <span class="keyword">true</span>); <span class="comment">// 50% haste</span></div>
+<div class="line"><span class="lineno">   35</span> </div>
+<div class="line"><span class="lineno">   36</span>    EXPECT_EQ(player-&gt;<a class="code hl_function" href="../../da/d94/a09217.html#a6006eef28382a59a63d9f0c0abd0292d">GetRageWeaponSpeedHitFactor</a>(<a class="code hl_enumvalue" href="../../d5/d12/a01799.html#a85524ab4e1fb005ed500bd190f79c352a5145c1138a6f21d47061e9015e07a3ae">BASE_ATTACK</a>), 7u); <span class="comment">// 2000/1000 * 3.5</span></div>
+<div class="line"><span class="lineno">   37</span> </div>
+<div class="line"><span class="lineno">   38</span>    <a class="code hl_typedef" href="../../d8/dca/a04670.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <span class="keyword">const</span> beforeHasted = player-&gt;<a class="code hl_function" href="../../da/d94/a09217.html#ad7e475d80b9af430cc076d7c01f967e9">GetPower</a>(<a class="code hl_enumvalue" href="../../d7/d3f/a00173.html#a17e15fab4b89f4840e745f31ca76a414a1b514bf3a42e9a5dc4271bd25b7dce7e">POWER_RAGE</a>);</div>
+<div class="line"><span class="lineno">   39</span>    player-&gt;<a class="code hl_function" href="../../da/d94/a09217.html#a62cc22731d4d9af6f6f5bbf39d29356d">RewardRage</a>(1000, player-&gt;<a class="code hl_function" href="../../da/d94/a09217.html#a6006eef28382a59a63d9f0c0abd0292d">GetRageWeaponSpeedHitFactor</a>(<a class="code hl_enumvalue" href="../../d5/d12/a01799.html#a85524ab4e1fb005ed500bd190f79c352a5145c1138a6f21d47061e9015e07a3ae">BASE_ATTACK</a>), <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">   40</span>    <a class="code hl_typedef" href="../../d8/dca/a04670.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <span class="keyword">const</span> rageHasted = player-&gt;<a class="code hl_function" href="../../da/d94/a09217.html#ad7e475d80b9af430cc076d7c01f967e9">GetPower</a>(<a class="code hl_enumvalue" href="../../d7/d3f/a00173.html#a17e15fab4b89f4840e745f31ca76a414a1b514bf3a42e9a5dc4271bd25b7dce7e">POWER_RAGE</a>) - beforeHasted;</div>
+<div class="line"><span class="lineno">   41</span> </div>
+<div class="line"><span class="lineno">   42</span>    EXPECT_EQ(rageHasted, rageNoHaste); <span class="comment">// per-swing rage unaffected by haste</span></div>
+<div class="line"><span class="lineno">   43</span> </div>
+<div class="line"><span class="lineno">   44</span>    player-&gt;<a class="code hl_function" href="../../da/d94/a09217.html#ae7f942c448b14628617639978bf6bd00">resetAttackTimer</a>(<a class="code hl_enumvalue" href="../../d5/d12/a01799.html#a85524ab4e1fb005ed500bd190f79c352a5145c1138a6f21d47061e9015e07a3ae">BASE_ATTACK</a>);</div>
+<div class="line"><span class="lineno">   45</span>    EXPECT_EQ(player-&gt;<a class="code hl_function" href="../../da/d94/a09217.html#ac8c48d671a9b11b7e51d96ec89cd6d3b">getAttackTimer</a>(<a class="code hl_enumvalue" href="../../d5/d12/a01799.html#a85524ab4e1fb005ed500bd190f79c352a5145c1138a6f21d47061e9015e07a3ae">BASE_ATTACK</a>), 1333); <span class="comment">// 2000 / 1.5 (50% haste)</span></div>
+<div class="line"><span class="lineno">   46</span>}</div>
+<div class="ttc" id="aa00173_html_a17e15fab4b89f4840e745f31ca76a414a1b514bf3a42e9a5dc4271bd25b7dce7e"><div class="ttname"><a href="../../d7/d3f/a00173.html#a17e15fab4b89f4840e745f31ca76a414a1b514bf3a42e9a5dc4271bd25b7dce7e">POWER_RAGE</a></div><div class="ttdeci">@ POWER_RAGE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:258</div></div>
+<div class="ttc" id="aa01727_html_a0e42dc606678c9df7884e1aad621e881a49af271c782fa1b5d80c569f71f65d70"><div class="ttname"><a href="../../de/d0f/a01727.html#a0e42dc606678c9df7884e1aad621e881a49af271c782fa1b5d80c569f71f65d70">UNIT_FIELD_LEVEL</a></div><div class="ttdeci">@ UNIT_FIELD_LEVEL</div><div class="ttdef"><b>Definition:</b> UpdateFields.h:114</div></div>
+<div class="ttc" id="aa01799_html_a85524ab4e1fb005ed500bd190f79c352a5145c1138a6f21d47061e9015e07a3ae"><div class="ttname"><a href="../../d5/d12/a01799.html#a85524ab4e1fb005ed500bd190f79c352a5145c1138a6f21d47061e9015e07a3ae">BASE_ATTACK</a></div><div class="ttdeci">@ BASE_ATTACK</div><div class="ttdef"><b>Definition:</b> Unit.h:216</div></div>
+<div class="ttc" id="aa04670_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d8/dca/a04670.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa05051_html_adaa1cabfe05f8df3c272bdcfd89cdac7a5d534fd54528d86d0f997fa130159df0"><div class="ttname"><a href="../../d6/d32/a05051.html#adaa1cabfe05f8df3c272bdcfd89cdac7a5d534fd54528d86d0f997fa130159df0">SEC_PLAYER</a></div><div class="ttdeci">@ SEC_PLAYER</div><div class="ttdef"><b>Definition:</b> Common.h:57</div></div>
+<div class="ttc" id="aa09217_html_a6006eef28382a59a63d9f0c0abd0292d"><div class="ttname"><a href="../../da/d94/a09217.html#a6006eef28382a59a63d9f0c0abd0292d">Unit::GetRageWeaponSpeedHitFactor</a></div><div class="ttdeci">uint32 GetRageWeaponSpeedHitFactor(WeaponAttackType att) const</div><div class="ttdef"><b>Definition:</b> Unit.h:921</div></div>
+<div class="ttc" id="aa09217_html_a60d7ad5197284d3caaed380dfc740ff0"><div class="ttname"><a href="../../da/d94/a09217.html#a60d7ad5197284d3caaed380dfc740ff0">Unit::ApplyAttackTimePercentMod</a></div><div class="ttdeci">void ApplyAttackTimePercentMod(WeaponAttackType att, float val, bool apply)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:13008</div></div>
+<div class="ttc" id="aa09217_html_a62cc22731d4d9af6f6f5bbf39d29356d"><div class="ttname"><a href="../../da/d94/a09217.html#a62cc22731d4d9af6f6f5bbf39d29356d">Unit::RewardRage</a></div><div class="ttdeci">void RewardRage(uint32 damage, uint32 weaponSpeedHitFactor, bool attacker)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:15612</div></div>
+<div class="ttc" id="aa09217_html_a665cb09340bb34d09800ac518f8b40b8"><div class="ttname"><a href="../../da/d94/a09217.html#a665cb09340bb34d09800ac518f8b40b8">Unit::SetMaxPower</a></div><div class="ttdeci">void SetMaxPower(Powers power, uint32 val)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:12033</div></div>
+<div class="ttc" id="aa09217_html_ac2bd94b573bcf5e80cba886a8e2f540f"><div class="ttname"><a href="../../da/d94/a09217.html#ac2bd94b573bcf5e80cba886a8e2f540f">Unit::SetUInt32Value</a></div><div class="ttdeci">void SetUInt32Value(uint16 index, uint32 value)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:16921</div></div>
+<div class="ttc" id="aa09217_html_ac8c48d671a9b11b7e51d96ec89cd6d3b"><div class="ttname"><a href="../../da/d94/a09217.html#ac8c48d671a9b11b7e51d96ec89cd6d3b">Unit::getAttackTimer</a></div><div class="ttdeci">int32 getAttackTimer(WeaponAttackType type) const</div><div class="ttdef"><b>Definition:</b> Unit.h:888</div></div>
+<div class="ttc" id="aa09217_html_ad7e475d80b9af430cc076d7c01f967e9"><div class="ttname"><a href="../../da/d94/a09217.html#ad7e475d80b9af430cc076d7c01f967e9">Unit::GetPower</a></div><div class="ttdeci">uint32 GetPower(Powers power) const</div><div class="ttdef"><b>Definition:</b> Unit.h:1141</div></div>
+<div class="ttc" id="aa09217_html_adeb215374587957e59c2551053895fa1"><div class="ttname"><a href="../../da/d94/a09217.html#adeb215374587957e59c2551053895fa1">Unit::SetAttackTime</a></div><div class="ttdeci">void SetAttackTime(WeaponAttackType att, uint32 val)</div><div class="ttdef"><b>Definition:</b> Unit.h:926</div></div>
+<div class="ttc" id="aa09217_html_ae7f942c448b14628617639978bf6bd00"><div class="ttname"><a href="../../da/d94/a09217.html#ae7f942c448b14628617639978bf6bd00">Unit::resetAttackTimer</a></div><div class="ttdeci">void resetAttackTimer(WeaponAttackType type=BASE_ATTACK)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:761</div></div>
+<div class="ttc" id="aa29805_html"><div class="ttname"><a href="../../d7/d08/a29805.html">TestPlayer</a></div><div class="ttdef"><b>Definition:</b> TestPlayer.h:24</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l13008">Unit::ApplyAttackTimePercentMod()</a>, <a class="el" href="../../#l00216">BASE_ATTACK</a>, <a class="el" href="../../#l00888">Unit::getAttackTimer()</a>, <a class="el" href="../../#l01141">Unit::GetPower()</a>, <a class="el" href="../../#l00921">Unit::GetRageWeaponSpeedHitFactor()</a>, <a class="el" href="../../#l00258">POWER_RAGE</a>, <a class="el" href="../../#l00761">Unit::resetAttackTimer()</a>, <a class="el" href="../../#l15612">Unit::RewardRage()</a>, <a class="el" href="../../#l00057">SEC_PLAYER</a>, <a class="el" href="../../#l00926">Unit::SetAttackTime()</a>, <a class="el" href="../../#l12033">Unit::SetMaxPower()</a>, <a class="el" href="../../#l16921">Unit::SetUInt32Value()</a>, and <a class="el" href="../../#l00114">UNIT_FIELD_LEVEL</a>.</p>
+
+</div>
+</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../d4/d61/a04577.html">Banner.cpp</a></li>
-    <li class="footer">Generated on Mon Sep 7 2026 23:03:19 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_aeb07b430c02e2e2c16696076a308f05.html">Entities</a></li><li class="navelem"><a class="el" href="../../d4/d61/a04577.html">RageWeaponSpeedHitFactorTest.cpp</a></li>
+    <li class="footer">Generated on Mon Sep 14 2026 23:33:23 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

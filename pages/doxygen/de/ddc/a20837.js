@@ -1,7 +1,10 @@
 var a20837 =
 [
-    [ "boss_thorim_trap", "de/ddc/a20837.html#a793ce64835292b63f81cbb7140b3c6f9", null ],
-    [ "Reset", "de/ddc/a20837.html#a841cd9769b0875d01c2e65dddce0d1ef", null ],
-    [ "UpdateAI", "de/ddc/a20837.html#abd5ae669c1b1ecaaa567eedb7feaad16", null ],
-    [ "_checkTimer", "de/ddc/a20837.html#acb5ba7af429c9c0bdb8bed7cd411c655", null ]
+    [ "npc_razorscale_dark_rune_watcher", "de/ddc/a20837.html#aff56f4cadfeb72f6a96f8ac86b27a6a1", null ],
+    [ "CanAIAttack", "de/ddc/a20837.html#a68ef8f2c7014850c5107cc22deff8658", null ],
+    [ "JustEngagedWith", "de/ddc/a20837.html#a303994b6f5e2ae6e4d6f0e44d9eb60a9", null ],
+    [ "Reset", "de/ddc/a20837.html#aaab4be32140991366f1a004622bf3b31", null ],
+    [ "UpdateAI", "de/ddc/a20837.html#a8d1518f80cc6427d0334770a5aaf130a", null ],
+    [ "_events", "de/ddc/a20837.html#a15fa73dea3b9b86a6d1b42f9d1296d6e", null ],
+    [ "_instance", "de/ddc/a20837.html#ac08ba6b60827408aeb1b63a48a57fa9e", null ]
 ];

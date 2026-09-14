@@ -1,7 +1,7 @@
 var a19253 =
 [
-    [ "HandleEffectPeriodic", "d4/df6/a19253.html#a208c4d59e20cd802cf2f4643fa0d6253", null ],
-    [ "PrepareAuraScript", "d4/df6/a19253.html#af1d284c4686f739b02b350a6c0a166c2", null ],
-    [ "Register", "d4/df6/a19253.html#a006a97823ac07346771ec4ab61bd0763", null ],
-    [ "Validate", "d4/df6/a19253.html#ae1f5555dcadb48ba59bf9571073f4a99", null ]
+    [ "HandleEvent", "d4/df6/a19253.html#a7aea0f5c4cd3765a8266e5478322910b", null ],
+    [ "PrepareSpellScript", "d4/df6/a19253.html#a2e59f7f9eb67790c59c2e94cf877b4f3", null ],
+    [ "Register", "d4/df6/a19253.html#a96c6a479141f765b9c0f96b5f148a428", null ],
+    [ "Validate", "d4/df6/a19253.html#aa86d2cea5cb41b1e0a86248d95b5bfdb", null ]
 ];

@@ -1,8 +1,7 @@
 var a15993 =
 [
-    [ "CheckRequirement", "dd/d72/a15993.html#ae2b5e9accd0df2cc99e976eaab2d3f35", null ],
-    [ "HandleDummy", "dd/d72/a15993.html#a6d2c75ad53f0e0f7be2df037f385d686", null ],
-    [ "PrepareSpellScript", "dd/d72/a15993.html#a5b0a5f957a7b996cbe6b219a9803069e", null ],
-    [ "Register", "dd/d72/a15993.html#a46f4aec6f7786d0abc8ded21ef16e6f6", null ],
-    [ "Validate", "dd/d72/a15993.html#ab3f8d94f3b8d44e668743cb821430a92", null ]
+    [ "npc_tharnarianAI", "dc/d24/a15997.html", "dc/d24/a15997" ],
+    [ "npc_tharnarian", "dd/d72/a15993.html#a39d9d9842a7a42c5381e38d10285aa15", null ],
+    [ "GetAI", "dd/d72/a15993.html#aaff8dad5d2bdb1571ed2e7a14c64899f", null ],
+    [ "OnQuestReward", "dd/d72/a15993.html#a88e82aa6c08fa85491c87d7a558efd9b", null ]
 ];

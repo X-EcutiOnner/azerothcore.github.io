@@ -1,5 +1,6 @@
 var a18293 =
 [
-    [ "npc_volatile_oozeAI", "df/d77/a18293.html#af042d4c22482aabcdad6fa867dfe093f", null ],
-    [ "CastMainSpell", "df/d77/a18293.html#a91890785174ecc60c9553a0aedf1961b", null ]
+    [ "npc_bone_spikeAI", "df/da6/a18297.html", "df/da6/a18297" ],
+    [ "npc_bone_spike", "df/d77/a18293.html#ac93d7a45eaeae8d7adf2a3b313825aed", null ],
+    [ "GetAI", "df/d77/a18293.html#a887a9156f550ca55047fa501e1709d95", null ]
 ];

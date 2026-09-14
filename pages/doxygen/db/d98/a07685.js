@@ -1,15 +1,15 @@
 var a07685 =
 [
-    [ "ModifyMatchmakerRating", "db/d98/a07685.html#aaa6de888c3f85ef8cbe9baa2f997aba1", null ],
-    [ "ModifyPersonalRating", "db/d98/a07685.html#a34401ea82507df97e540c698fa549b5f", null ],
-    [ "Class", "db/d98/a07685.html#a5f6519e8ad3281a09608f8740927fbd3", null ],
-    [ "Guid", "db/d98/a07685.html#ac0dc6765247a0f36b3d3ff527a678010", null ],
-    [ "MatchMakerRating", "db/d98/a07685.html#ac91a344c7aecb72d17841413f5d935da", null ],
-    [ "MaxMMR", "db/d98/a07685.html#afc86e111a1c699254c5ea761d0dda088", null ],
-    [ "Name", "db/d98/a07685.html#a7917e705d8c15bbe2731c32375c34d16", null ],
-    [ "PersonalRating", "db/d98/a07685.html#a03168b1bdc8e6dac30d3b63e692ce854", null ],
-    [ "SeasonGames", "db/d98/a07685.html#ae3724b7268c161d5553b8cc1fae2cf75", null ],
-    [ "SeasonWins", "db/d98/a07685.html#a7239187cef3a02839fe27577ad022ec9", null ],
-    [ "WeekGames", "db/d98/a07685.html#a97906127f7eb1babe2bf2ebcda7c0a88", null ],
-    [ "WeekWins", "db/d98/a07685.html#a5b9e5e02d59569080d34abd9b9728693", null ]
+    [ "ArenaSeasonRewardGroup", "db/d98/a07685.html#a128e78db84f099d91e21da77b2147e82", null ],
+    [ "operator==", "db/d98/a07685.html#ae7993cfbf1cb547c92d302394105f231", null ],
+    [ "achievementRewards", "db/d98/a07685.html#a1b89c847e86b29671f86dbbef1c9a1b6", null ],
+    [ "criteriaType", "db/d98/a07685.html#a16261356df6f5aed35bc3ec06ab49560", null ],
+    [ "goldReward", "db/d98/a07685.html#a582c7d51c2ab4bb5cf0e45b773dd20ee", null ],
+    [ "itemRewards", "db/d98/a07685.html#a24e7afcf5a95fba7f2cdc5914baac392", null ],
+    [ "maxCriteria", "db/d98/a07685.html#aa3cf9a0ad2ed2170542ec360e61682e2", null ],
+    [ "minCriteria", "db/d98/a07685.html#a07507bd59265508a463aa328f343afa0", null ],
+    [ "rewardMailBody", "db/d98/a07685.html#afa55d982d4f2ef5f2eccf48ed305b649", null ],
+    [ "rewardMailSubject", "db/d98/a07685.html#a0574cf3fc910f13413ea7eb1c0f08166", null ],
+    [ "rewardMailTemplateID", "db/d98/a07685.html#ade97a1ea3355cd19aaf65ab80a26e4bf", null ],
+    [ "season", "db/d98/a07685.html#a2e6a5d2ca970d3921142b497d351c50f", null ]
 ];

@@ -1,6 +1,7 @@
 var a21481 =
 [
-    [ "instance_vault_of_archavon_InstanceMapScript", "d7/d14/a21485.html", "d7/d14/a21485" ],
-    [ "instance_vault_of_archavon", "da/dbb/a21481.html#a0be8d95ff0f3b751e6f833689e436310", null ],
-    [ "GetInstanceScript", "da/dbb/a21481.html#abb955a8873a3a3021e164225dd1f857a", null ]
+    [ "HandleScript", "da/dbb/a21481.html#a47b991c20c523d151893fefd9d487714", null ],
+    [ "PrepareSpellScript", "da/dbb/a21481.html#ab2db47d0a2694c0734db600e810e190d", null ],
+    [ "Register", "da/dbb/a21481.html#a3c2e7eb24506b43730f2e971fab81c75", null ],
+    [ "Validate", "da/dbb/a21481.html#a89d601f6036fe38238767281f3427e54", null ]
 ];

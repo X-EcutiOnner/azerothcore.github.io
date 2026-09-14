@@ -1,10 +1,11 @@
 var a07905 =
 [
-    [ "ChannelRights", "de/d87/a07905.html#a7fbfd84470bf1b4bf564eec0315f6c8d", null ],
-    [ "ChannelRights", "de/d87/a07905.html#a7beaed8c82905e7c019c799153e862c4", null ],
-    [ "flags", "de/d87/a07905.html#ad7fdc943a5a97c3c812108243192f6ae", null ],
-    [ "joinMessage", "de/d87/a07905.html#af8797ef8c642f3a954b1581fb54ed545", null ],
-    [ "moderators", "de/d87/a07905.html#ac80f92b9e633bf309970179b32e29cee", null ],
-    [ "speakDelay", "de/d87/a07905.html#a9883582d36b8cc67ab5d649670441000", null ],
-    [ "speakMessage", "de/d87/a07905.html#a4b7dc06e8839da5a6d50b5d4dae76c1b", null ]
+    [ "BattlegroundWGScore", "de/d87/a07905.html#a43b7933c5e217376e5bb10e9b5bb208b", null ],
+    [ "BuildObjectivesBlock", "de/d87/a07905.html#a804e56dbd666336d961cce2b0e4d6452", null ],
+    [ "GetAttr1", "de/d87/a07905.html#aab49f39d88989b153f1eb979fbbfaeb3", null ],
+    [ "GetAttr2", "de/d87/a07905.html#a191e205e08ef15cc36dabedc32614fd2", null ],
+    [ "UpdateScore", "de/d87/a07905.html#aa560d7f5f13dd235d43a9e3571090055", null ],
+    [ "BattlegroundWS", "de/d87/a07905.html#a4285b67c5d8593dce759422a4eb78c77", null ],
+    [ "FlagCaptures", "de/d87/a07905.html#a23ff00f10d07c1a601e9e1d0eb05b1da", null ],
+    [ "FlagReturns", "de/d87/a07905.html#ab400c9fb692ff157eb4809f0536c05f7", null ]
 ];

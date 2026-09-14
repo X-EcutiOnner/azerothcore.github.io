@@ -1,4 +1,6 @@
 var a04643 =
 [
-    [ "Acore::Crypto::SRP6", "d8/dc9/a05513.html", "d8/dc9/a05513" ]
+    [ "SetupLibrariesForWindows", "da/de7/a04643.html#ab801d0877d7ea0652bb6f94fb17842e4", null ],
+    [ "DefaultProvider", "da/de7/a04643.html#ab217c6bb86b0f962ea820f3ffe079708", null ],
+    [ "LegacyProvider", "da/de7/a04643.html#a81b4206923925a193dca5c3acd946bc2", null ]
 ];

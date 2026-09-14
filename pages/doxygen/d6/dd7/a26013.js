@@ -1,6 +1,6 @@
 var a26013 =
 [
-    [ "CalculateAmount", "d6/dd7/a26013.html#ad80edf403addb2d907d0d3d778b6745f", null ],
-    [ "PrepareAuraScript", "d6/dd7/a26013.html#a96c2e2cdd259d96bb7aa12eb42856cf4", null ],
-    [ "Register", "d6/dd7/a26013.html#a538ab0fdebbafa3c96183f639fe8968b", null ]
+    [ "OnRemove", "d6/dd7/a26013.html#adcdc87bcfb9aee5eaa227ba66ad5f010", null ],
+    [ "PrepareAuraScript", "d6/dd7/a26013.html#a9b3985c6f2b1b88ab86ec38c8508fc16", null ],
+    [ "Register", "d6/dd7/a26013.html#a0bc1dae33d0a780623f4551b1dfb1fbf", null ]
 ];

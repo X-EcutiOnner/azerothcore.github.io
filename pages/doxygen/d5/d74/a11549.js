@@ -1,6 +1,4 @@
 var a11549 =
 [
-    [ "PetStopAttack", "d5/d74/a11549.html#a4a68127f3290d4f2e288600757dd3282", null ],
-    [ "Read", "d5/d74/a11549.html#a22dd8d9fcbadbec5ba046812f5cdac51", null ],
-    [ "PetGUID", "d5/d74/a11549.html#af7b95e5b976af2fa7bb4c61319f7eb97", null ]
+    [ "Validate", "d5/d74/a11549.html#a25f2d2033711c905ed702d844416c250", null ]
 ];

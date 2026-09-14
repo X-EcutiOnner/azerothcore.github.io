@@ -1,5 +1,7 @@
 var a21613 =
 [
-    [ "npc_nerubar_victim", "d5/d23/a21613.html#a218a0091d3dd5c237f49f7b2797c54d7", null ],
-    [ "JustDied", "d5/d23/a21613.html#a969b3f15d0017978e77d34131815c7e4", null ]
+    [ "npc_azure_invader", "d5/d23/a21613.html#a6b7fcdd4e5166a932e85fcc6ec57d086", null ],
+    [ "Reset", "d5/d23/a21613.html#a51d349d0254f2d5a67f27298952fbb06", null ],
+    [ "UpdateAI", "d5/d23/a21613.html#a6677b18604e15017d15f1d3b0386cfae", null ],
+    [ "_events", "d5/d23/a21613.html#ac178244e22f71a15d7af91946cf961ef", null ]
 ];

@@ -1,9 +1,13 @@
 var a12213 =
 [
-    [ "CreatureTextLocalizer", "d9/dfd/a12213.html#a799f1007b9977224d71da1451c3454e1", null ],
-    [ "~CreatureTextLocalizer", "d9/dfd/a12213.html#a1a03d45dfd3c6c5f6f4995d5efe238a5", null ],
-    [ "operator()", "d9/dfd/a12213.html#ab2c364aa9d45ca2267db2641b26821f7", null ],
-    [ "_builder", "d9/dfd/a12213.html#a1d8d97d3e423810d044a8155b182899d", null ],
-    [ "_msgType", "d9/dfd/a12213.html#adf9260955b0141e85ff47c66350244e2", null ],
-    [ "_packetCache", "d9/dfd/a12213.html#a660b352a1c1855f4b10a8aebef88133f", null ]
+    [ "ToCloud9GroupHooks", "d9/dfd/a12213.html#a56b706ee7923e004bc1097887d645793", null ],
+    [ "~ToCloud9GroupHooks", "d9/dfd/a12213.html#a05fc2da0da6f565a0bc4bc234a92046f", null ],
+    [ "OnGroupConvertedToRaid", "d9/dfd/a12213.html#a104b63c83abe82809e16bc86b9649011", null ],
+    [ "OnGroupCreated", "d9/dfd/a12213.html#a7fa6a2d72e6891d9ab41fc113c1a27dd", null ],
+    [ "OnGroupDisbanded", "d9/dfd/a12213.html#ae47dee5f18aea4827a1b320c3ba9f607", null ],
+    [ "OnGroupDungeonDifficultyChanged", "d9/dfd/a12213.html#a829c7d428363bf0720f0e27e84747b88", null ],
+    [ "OnGroupLootTypeChanged", "d9/dfd/a12213.html#adad70b61a54071c25a9e1950f4b656bf", null ],
+    [ "OnGroupMemberAdded", "d9/dfd/a12213.html#ad001911251ec8d9f280d5aa1ab291b7e", null ],
+    [ "OnGroupMemberRemoved", "d9/dfd/a12213.html#a0c63904979beb754131797a163000ec5", null ],
+    [ "OnGroupRaidDifficultyChanged", "d9/dfd/a12213.html#a0c066c39c344d750164735a4f549cf69", null ]
 ];

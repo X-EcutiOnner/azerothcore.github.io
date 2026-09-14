@@ -1,7 +1,9 @@
 var a25817 =
 [
-    [ "HandlePeriodic", "d1/d08/a25817.html#a990b88f97dbbcd68d0df8989414d08bc", null ],
-    [ "PrepareAuraScript", "d1/d08/a25817.html#a4c8214e2fc72ceacc5822bfdec6e8380", null ],
-    [ "Register", "d1/d08/a25817.html#ab2da1b1433184a0dd4c6dd93b798890c", null ],
-    [ "Validate", "d1/d08/a25817.html#a55720e74edaf5eedf074738846ba6dd8", null ]
+    [ "CheckCast", "d1/d08/a25817.html#a005565dd77de97b5aa04553a1d6a0185", null ],
+    [ "HandleScript", "d1/d08/a25817.html#a7313a3d9840d7dc81e5a894e83cb6347", null ],
+    [ "Load", "d1/d08/a25817.html#aadfc8a873c72e31d65001ce00518ca45", null ],
+    [ "PrepareSpellScript", "d1/d08/a25817.html#a169b60644259855f0614271e4769f6b9", null ],
+    [ "Register", "d1/d08/a25817.html#a9e7f8cbc7ec3de507069b69678005da3", null ],
+    [ "Validate", "d1/d08/a25817.html#a9e69eb36c1a2640ff616ae5744c04f4f", null ]
 ];

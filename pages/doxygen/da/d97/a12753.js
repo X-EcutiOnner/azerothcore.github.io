@@ -1,7 +1,5 @@
 var a12753 =
 [
-    [ "boss_magmus", "da/d97/a12753.html#aacd115473f44148837153a3a5842748c", null ],
-    [ "JustEngagedWith", "da/d97/a12753.html#a810cd11145957fe02f2099e9db7e59c8", null ],
-    [ "Reset", "da/d97/a12753.html#af12976d66c690add0d08968799946174", null ],
-    [ "UpdateAI", "da/d97/a12753.html#ab3e7dc0c1917a67ee9fe532239125b00", null ]
+    [ "at_ring_of_law", "da/d97/a12753.html#ad9bb44e898f90fb489b50cad0a711976", null ],
+    [ "OnTrigger", "da/d97/a12753.html#a650536f556e248944921a09a110ef414", null ]
 ];

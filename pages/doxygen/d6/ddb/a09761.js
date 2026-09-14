@@ -1,8 +1,9 @@
 var a09761 =
 [
-    [ "FriendlyMissingBuffInRange", "d6/ddb/a09761.html#a628fe94ce054a868977ef2a981bc5d6c", null ],
-    [ "operator()", "d6/ddb/a09761.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9", null ],
-    [ "i_obj", "d6/ddb/a09761.html#aba43edf48b2b0184b52143707c3531f4", null ],
-    [ "i_range", "d6/ddb/a09761.html#a54ba98f393a8bdf710f6bd65abee526c", null ],
-    [ "i_spell", "d6/ddb/a09761.html#a7f34521e8789a1e1dabb867ed82ff438", null ]
+    [ "PlayerDistWorker", "d6/ddb/a09761.html#a53c207607485724ba7c3aa5e9fd02b51", null ],
+    [ "Visit", "d6/ddb/a09761.html#a6cb5d9bdf26bc96a24e5660ca3b3758b", null ],
+    [ "Visit", "d6/ddb/a09761.html#a2658f12f90953f1057a9377b21824879", null ],
+    [ "i_dist", "d6/ddb/a09761.html#aad16511b6a9aaa3eb561f636475ffe97", null ],
+    [ "i_do", "d6/ddb/a09761.html#a0e1738a71d7feda9f607ee964ff1fff2", null ],
+    [ "i_searcher", "d6/ddb/a09761.html#a3a3bf9b1a4bd06c54c99ceb7ba39941f", null ]
 ];

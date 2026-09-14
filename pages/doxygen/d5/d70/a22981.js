@@ -1,7 +1,10 @@
 var a22981 =
 [
-    [ "SuckBackEvent", "d5/d70/a22981.html#a6525e2aefec2680fde20e27ebf962f4c", null ],
-    [ "Execute", "d5/d70/a22981.html#aae1664e6ef9d90ec8a0e12554b991bf0", null ],
-    [ "_action", "d5/d70/a22981.html#abc54669df2dba0238723a40ababe4c0a", null ],
-    [ "_owner", "d5/d70/a22981.html#a4d8bc09803f7786022c1836457ded488", null ]
+    [ "boss_gathios_the_shatterer", "d5/d70/a22981.html#a34708f52c610e567c5acf62962e90d4e", null ],
+    [ "JustEngagedWith", "d5/d70/a22981.html#a98ad625cf2ac9b1d8d9b41001ba4fb34", null ],
+    [ "SelectCouncilMember", "d5/d70/a22981.html#a3d33c1a29b7ba2feb22ea9d3941b39ed", null ],
+    [ "UpdateAI", "d5/d70/a22981.html#a1541f1efd3978a4c91b80e411aec6442", null ],
+    [ "_toggleAura", "d5/d70/a22981.html#aa983e2d9018a9e53ee29840781f47c33", null ],
+    [ "_toggleBlessing", "d5/d70/a22981.html#a52e9b7d3b1af46d3ecb6ca9432ee3957", null ],
+    [ "_toggleSeal", "d5/d70/a22981.html#ad7e6f9e03968e2abac570d0c7a5de9e2", null ]
 ];

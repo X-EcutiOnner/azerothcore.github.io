@@ -1,4 +1,7 @@
 var a00455 =
 [
-    [ "SelectSpeedType", "dd/d63/a00455.html#a1f10281929f445f6d8150dc510bf1f2f", null ]
+    [ "C_Evaluate", "dd/d63/a00455.html#aabdff88ae3660ba0f16a47216606d328", null ],
+    [ "C_Evaluate_Derivative", "dd/d63/a00455.html#a2ea2e41d8317c9c7693113ec6b472429", null ],
+    [ "s_Bezier3Coeffs", "dd/d63/a00455.html#a508e01047096fea2dbd9e0fedf6d75cb", null ],
+    [ "s_catmullRomCoeffs", "dd/d63/a00455.html#aff10e913762216c0735a8a3530ee25d2", null ]
 ];

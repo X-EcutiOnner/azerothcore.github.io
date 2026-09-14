@@ -1,9 +1,6 @@
 var a13197 =
 [
-    [ "boss_curator", "db/dc0/a13197.html#a41b65078d0822ba87f3e40fc7bb10a40", null ],
-    [ "JustDied", "db/dc0/a13197.html#a5617f51f51304682d48af11fdb0c6b8b", null ],
-    [ "JustEngagedWith", "db/dc0/a13197.html#a848f477a101956662389cab5ffcc0727", null ],
-    [ "JustSummoned", "db/dc0/a13197.html#ac779d275e03e6ba190617d215b217ce5", null ],
-    [ "KilledUnit", "db/dc0/a13197.html#a9bfb89a8747251e4a84eb2f94a547f0d", null ],
-    [ "Reset", "db/dc0/a13197.html#af6fbf3c3d77f9f052f11974f7b54feab", null ]
+    [ "boss_mr_smiteAI", "db/db0/a13201.html", "db/db0/a13201" ],
+    [ "boss_mr_smite", "db/dc0/a13197.html#a011d41112ef7376b71d2959f806be262", null ],
+    [ "GetAI", "db/dc0/a13197.html#a619ca0aede1eb33f992328048319c4f0", null ]
 ];

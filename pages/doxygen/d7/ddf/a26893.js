@@ -1,8 +1,7 @@
 var a26893 =
 [
-    [ "CheckCast", "d7/ddf/a26893.html#a5fc226206c08aa65459c144cd5f34c6c", null ],
-    [ "PrepareSpellScript", "d7/ddf/a26893.html#a1c0f324c7c2f2799990dcc116edd69cf", null ],
-    [ "Register", "d7/ddf/a26893.html#a35239e58eb76c0ffe74e0feee2250fa1", null ],
-    [ "TriggerDebuffs", "d7/ddf/a26893.html#a1579b28071e2194625f722a29ded39b8", null ],
-    [ "Validate", "d7/ddf/a26893.html#a767853d4b05e055cb32991bfe8c6516a", null ]
+    [ "HandleProc", "d7/ddf/a26893.html#a1964ad50011e459ca449d6ff9baec189", null ],
+    [ "PrepareAuraScript", "d7/ddf/a26893.html#a1362df471c29d59087b6dba6007ef7a1", null ],
+    [ "Register", "d7/ddf/a26893.html#a15d6a692e8e856c2108bdf810a8f6f50", null ],
+    [ "Validate", "d7/ddf/a26893.html#af3bce711681865628f2ee69f5e7d48a7", null ]
 ];

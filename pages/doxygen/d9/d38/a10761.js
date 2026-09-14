@@ -1,15 +1,11 @@
 var a10761 =
 [
-    [ "CreatureScript", "d9/d38/a10761.html#ae3f271ebb0a1fc4dca17856ef9a891ea", null ],
-    [ "GetAI", "d9/d38/a10761.html#a24ba3529655943afdf6598450d14e6c2", null ],
-    [ "GetDialogStatus", "d9/d38/a10761.html#a41562245c4a44843363d6b0ce32ce48d", null ],
-    [ "IsDatabaseBound", "d9/d38/a10761.html#af19c64d23391f8b835f79bc6cf315caa", null ],
-    [ "OnFfaPvpStateUpdate", "d9/d38/a10761.html#a316efb5c026588eb4bce8a0ce6b5cc0f", null ],
-    [ "OnGossipHello", "d9/d38/a10761.html#a6268b132444845302ada504f48629a4f", null ],
-    [ "OnGossipSelect", "d9/d38/a10761.html#a30f160576b4cb97d940ecf3468834667", null ],
-    [ "OnGossipSelectCode", "d9/d38/a10761.html#a3cfb4f448a41e845897dfd9119a22fff", null ],
-    [ "OnQuestAccept", "d9/d38/a10761.html#a6b106a237886f49e523ae7b07e9c5979", null ],
-    [ "OnQuestComplete", "d9/d38/a10761.html#a4d39c9b2edbbbc2ae08b5cdcc95b4d7b", null ],
-    [ "OnQuestReward", "d9/d38/a10761.html#aba2be0f342cb9811bd0ebee954d7d36e", null ],
-    [ "OnQuestSelect", "d9/d38/a10761.html#a1e054fb61dd560aa7718d59127ad4b51", null ]
+    [ "AllMapScript", "d9/d38/a10761.html#a84f63a79158f667f291070d0cbb553ea", null ],
+    [ "OnBeforeCreateInstanceScript", "d9/d38/a10761.html#a1a4b75a1845923bcf68481ecc0d6b77c", null ],
+    [ "OnCreateMap", "d9/d38/a10761.html#a56aa53bfb0a1cb7ad7cb677771739b46", null ],
+    [ "OnDestroyInstance", "d9/d38/a10761.html#a990130b4cd594c1cd04368aea300a49e", null ],
+    [ "OnDestroyMap", "d9/d38/a10761.html#a6bebd1e6e36b5714598439a6c6dfaad6", null ],
+    [ "OnMapUpdate", "d9/d38/a10761.html#a6edbb719d998c57caba09eef7ad559e0", null ],
+    [ "OnPlayerEnterAll", "d9/d38/a10761.html#a42e4af596effb07a00b353164f32cec9", null ],
+    [ "OnPlayerLeaveAll", "d9/d38/a10761.html#adcfd501bee055317bff2a63ef28c3eab", null ]
 ];

@@ -1,9 +1,12 @@
 var a09649 =
 [
-    [ "GameObjectSearcher", "df/d1d/a09649.html#a6625a6afd81bea2f9cdd10fad6d4a5a4", null ],
-    [ "Visit", "df/d1d/a09649.html#a16685c62e1e69fdc5df55b2b3920a579", null ],
-    [ "Visit", "df/d1d/a09649.html#a1105dd396e4fe8c366fc453b5a4bec02", null ],
-    [ "i_check", "df/d1d/a09649.html#a71152e100ea7c72eceb5cda470d5a2f3", null ],
-    [ "i_object", "df/d1d/a09649.html#ad1c14442e0f1b5d9ee43639077c75876", null ],
-    [ "i_phaseMask", "df/d1d/a09649.html#ac11e036da088f6e62556c42965530040", null ]
+    [ "VisibleNotifier", "df/d1d/a09649.html#ae449b96de3eff1759869438dd90f6513", null ],
+    [ "SendToSelf", "df/d1d/a09649.html#a95d1c60911cfed9e4f0e034afbf11482", null ],
+    [ "Visit", "df/d1d/a09649.html#a77d110af6b97c2a4d93ff53a8771273d", null ],
+    [ "Visit", "df/d1d/a09649.html#a8dafcbc64e004aea196aec47fb2bb175", null ],
+    [ "Visit", "df/d1d/a09649.html#a49da99cbbcf8f839d810d6ac6a2502e0", null ],
+    [ "i_data", "df/d1d/a09649.html#a6cfba0f042e117cfdb7bdf1f1168c0ce", null ],
+    [ "i_gobjOnly", "df/d1d/a09649.html#a019182fa8a629d796982f9cc565d9bc3", null ],
+    [ "i_player", "df/d1d/a09649.html#aaa324b9a9cffd59c7cbab0c08cf68395", null ],
+    [ "i_visibleNow", "df/d1d/a09649.html#a34d766816baaad7b1b3623360ec9abeb", null ]
 ];

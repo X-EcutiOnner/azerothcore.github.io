@@ -1,8 +1,6 @@
 var a19681 =
 [
-    [ "HandleAfterCast", "d8/d26/a19681.html#ac816f81a668ac3018be8f5dc4698039b", null ],
-    [ "HandleDummy", "d8/d26/a19681.html#a3009faa525c22779a0b2534b96821cfd", null ],
-    [ "PrepareSpellScript", "d8/d26/a19681.html#aca38f23f080314ab73ec2494bf877716", null ],
-    [ "Register", "d8/d26/a19681.html#aa87e57dabec6e83029f4dd84913f22ca", null ],
-    [ "Validate", "d8/d26/a19681.html#af945e399992deb3aef5c81ad393ee50f", null ]
+    [ "boss_patchwerkAI", "d3/d43/a19685.html", "d3/d43/a19685" ],
+    [ "boss_patchwerk", "d8/d26/a19681.html#a526983c4f5191a839ba4a017ac2d14e4", null ],
+    [ "GetAI", "d8/d26/a19681.html#a03f2dec61192405760958e26d998d67e", null ]
 ];

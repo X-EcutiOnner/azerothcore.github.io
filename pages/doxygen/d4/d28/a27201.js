@@ -1,7 +1,6 @@
 var a27201 =
 [
-    [ "HandleDummy", "d4/d28/a27201.html#ad2367c1fd551187b6f19f795abb15ea6", null ],
-    [ "PrepareSpellScript", "d4/d28/a27201.html#a125f7550ce826f74ac14902bc82d5021", null ],
-    [ "Register", "d4/d28/a27201.html#a35e9132e2414383caafbde699de6061d", null ],
-    [ "Validate", "d4/d28/a27201.html#a530489a10287a6dd281d518683b1a3f3", null ]
+    [ "CheckRequirement", "d4/d28/a27201.html#acaae3858de4d56028e3cb4581a57450c", null ],
+    [ "PrepareSpellScript", "d4/d28/a27201.html#aa1013bb1b09aae7b691b6325c8e7a405", null ],
+    [ "Register", "d4/d28/a27201.html#aa490168c69f9ba5c12db3171516dd8ac", null ]
 ];

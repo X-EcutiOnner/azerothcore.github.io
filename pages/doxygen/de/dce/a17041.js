@@ -1,6 +1,7 @@
 var a17041 =
 [
-    [ "npc_fel_infernalAI", "df/d37/a17045.html", "df/d37/a17045" ],
-    [ "npc_fel_infernal", "de/dce/a17041.html#a2d2ed8cf09c97d30b6c79dcdf9153ed9", null ],
-    [ "GetAI", "de/dce/a17041.html#a768201a7516c9972800c941cf2079a11", null ]
+    [ "npc_toc_dkAI", "de/dce/a17041.html#aa01bf528b10ed7bbdfe9b03694e51845", null ],
+    [ "myCanCast", "de/dce/a17041.html#a54dee5d9b0f17bad21e8c1e275f0b222", null ],
+    [ "UpdateAI", "de/dce/a17041.html#ab4f4b11e2b250fb24de6c069c5e38208", null ],
+    [ "events", "de/dce/a17041.html#a293d5fca2940432c4eea57c5de5a1fdc", null ]
 ];

@@ -1,6 +1,9 @@
 var a21825 =
 [
-    [ "npc_injured_7th_legion_soldierAI", "de/d33/a21829.html", "de/d33/a21829" ],
-    [ "npc_injured_7th_legion_soldier", "dc/db8/a21825.html#a9d3c647f485dbca5efeec8f784efba1b", null ],
-    [ "GetAI", "dc/db8/a21825.html#a0feca7aedcf3c07253d4d402266189cc", null ]
+    [ "npc_mageguard_dalaranAI", "dc/db8/a21825.html#adb9c8b0003c070114b63f3b8e538bceb", null ],
+    [ "AttackStart", "dc/db8/a21825.html#ac1e73ad92bd5db0d3b9fe23b36cd8dd7", null ],
+    [ "JustEngagedWith", "dc/db8/a21825.html#aac463689ae5a488ec2acb8a0310689d8", null ],
+    [ "MoveInLineOfSight", "dc/db8/a21825.html#aafb32462693e0efd9c80cf335f489754", null ],
+    [ "Reset", "dc/db8/a21825.html#aa6dde0732bac407a62403bb8f0f24c26", null ],
+    [ "UpdateAI", "dc/db8/a21825.html#a4d6ce701a4cc463a7e9c295c664d4440", null ]
 ];

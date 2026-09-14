@@ -1,6 +1,6 @@
 var a14081 =
 [
-    [ "npc_corporal_keeshanAI", "d1/d66/a14085.html", "d1/d66/a14085" ],
-    [ "npc_corporal_keeshan", "d4/dcb/a14081.html#a0ca9459a7f283e040f14e0052762f587", null ],
-    [ "GetAI", "d4/dcb/a14081.html#a2cc19f28dea9ea8597648339a160d1bc", null ]
+    [ "npc_lor_themar_theron", "d4/dcb/a14081.html#acf8b65675cc46949440a829fc1adf5fc", null ],
+    [ "JustDied", "d4/dcb/a14081.html#ad2615cc062c8c1f4b01fc9e253fe34d4", null ],
+    [ "UpdateAI", "d4/dcb/a14081.html#aa9eafbacdb75bfbf772c901ce96119c6", null ]
 ];

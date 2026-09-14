@@ -1,6 +1,11 @@
 var a28229 =
 [
-    [ "go_witherbark_totem_bundleAI", "d2/dfb/a28233.html", "d2/dfb/a28233" ],
-    [ "go_witherbark_totem_bundle", "da/dd4/a28229.html#affcdff7ec6894add0acec842028efd2e", null ],
-    [ "GetAI", "da/dd4/a28229.html#a5ac2b3b572d67fdcc587f242f3d50f97", null ]
+    [ "npc_dream_fogAI", "da/dd4/a28229.html#ac0606677b434b15dcbf17c9c4b2467a4", null ],
+    [ "GetRandomUnitFromDragonThreatList", "da/dd4/a28229.html#aa9ea076cdef0b1a0b21b18e42bf777c3", null ],
+    [ "Reset", "da/dd4/a28229.html#a595eeeae54d4bf323287fc408f706ac6", null ],
+    [ "ScheduleEvents", "da/dd4/a28229.html#a6025e98731e8eb3e4450eb6ea7747d5f", null ],
+    [ "SetGUID", "da/dd4/a28229.html#a3666423921a5405ea220ba098f3f91fe", null ],
+    [ "UpdateAI", "da/dd4/a28229.html#a881cbed8f1709071036b9f83cdbe1cad", null ],
+    [ "_dragonGUID", "da/dd4/a28229.html#a90deaf0fab9f0ed64c806c22c200ba08", null ],
+    [ "_targetGUID", "da/dd4/a28229.html#a44138ecd6ae6f07a624e26d82b0aa286", null ]
 ];

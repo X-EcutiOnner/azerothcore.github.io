@@ -1,7 +1,7 @@
 var a11457 =
 [
-    [ "PlayTimeWarning", "d8/d5d/a11457.html#a807f58276f79a3cd44276ae13bec996a", null ],
-    [ "Write", "d8/d5d/a11457.html#ac82f865e5d1bec61be8d1417fa1f864c", null ],
-    [ "Flag", "d8/d5d/a11457.html#aa6cfe76266f1ee83e72661ccd29223b7", null ],
-    [ "PlayTimeRemaining", "d8/d5d/a11457.html#a8b540e6721fa017284783e0d510aac2f", null ]
+    [ "MinimapPingClient", "d8/d5d/a11457.html#a23500c61c0653f39c8c8a96ab34d0bf0", null ],
+    [ "Read", "d8/d5d/a11457.html#a7ee57120fc5221ccf1e18d877d5bccff", null ],
+    [ "MapX", "d8/d5d/a11457.html#ad4ff3977c260035145d6acd00429d81e", null ],
+    [ "MapY", "d8/d5d/a11457.html#abd8640cb98238f339218c3b945885c97", null ]
 ];

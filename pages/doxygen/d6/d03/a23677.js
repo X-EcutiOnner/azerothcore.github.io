@@ -1,15 +1,8 @@
 var a23677 =
 [
-    [ "boss_magtheridon", "d6/d03/a23677.html#a3d718a101047cd90448577ee520adf5e", null ],
-    [ "DoAction", "d6/d03/a23677.html#a3015fd8503a0da84e7b78c551587f8a3", null ],
-    [ "JustDied", "d6/d03/a23677.html#adca91ab2fbfe88cc79b19aaa4bff74cf", null ],
-    [ "JustEngagedWith", "d6/d03/a23677.html#a93fb4d888ebd6273bca0a128c8303996", null ],
-    [ "KilledUnit", "d6/d03/a23677.html#a42aa45e199f76f567bc7a677f3d3aedf", null ],
-    [ "Reset", "d6/d03/a23677.html#a0999e13f434699bb14c2ef6d2467a043", null ],
-    [ "ScheduleCombatEvents", "d6/d03/a23677.html#ae9b2f0929c2309e6bd57cc1241452d61", null ],
-    [ "UpdateAI", "d6/d03/a23677.html#a656e9595b30d014c54cc456d7f81f657", null ],
-    [ "_castingQuake", "d6/d03/a23677.html#ad1c95705a7018b4eb62cbee6f20fb65a", null ],
-    [ "_currentPhase", "d6/d03/a23677.html#a2871d60efe88d3901bad9a4c5249fcfb", null ],
-    [ "_interruptScheduler", "d6/d03/a23677.html#aae56fde097d925bcf58be1d8e6bf50f4", null ],
-    [ "_magReleased", "d6/d03/a23677.html#a6dd4891771771acf5456a129113e864e", null ]
+    [ "boss_broggok", "d6/d03/a23677.html#ae20c04793116d3e8eab62d2ee27010df", null ],
+    [ "DoAction", "d6/d03/a23677.html#af5de5a1747c502f72af015c09d050354", null ],
+    [ "JustEngagedWith", "d6/d03/a23677.html#a084e3c37a0218d47c8e39b196fc6746a", null ],
+    [ "JustSummoned", "d6/d03/a23677.html#a0bf2d75f7889542a9e48689b8d080a1e", null ],
+    [ "Reset", "d6/d03/a23677.html#af11b4dc2aee8064a1eaad334d93e6de0", null ]
 ];

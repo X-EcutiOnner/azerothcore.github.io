@@ -1,8 +1,10 @@
 var a27437 =
 [
-    [ "AfterApply", "d2/d2c/a27437.html#a3299de0703ca1e14760e9f33b124ac44", null ],
-    [ "PeriodicTick", "d2/d2c/a27437.html#a34f2fd8d142083705101f8265297c20e", null ],
-    [ "PrepareAuraScript", "d2/d2c/a27437.html#a79c80876d5788a20a9f686548b70fd64", null ],
-    [ "Register", "d2/d2c/a27437.html#a58fc81f4c270a1a8a2ec07a374ced4fd", null ],
-    [ "Validate", "d2/d2c/a27437.html#a9ec4d4488bce0acfc725d8c04c81ec41", null ]
+    [ "CheckProc", "d2/d2c/a27437.html#a5971c42af47d1cc8045a130deb218a04", null ],
+    [ "HandleProc", "d2/d2c/a27437.html#a45aaf5afebc2fa533240fcf8233430ed", null ],
+    [ "Load", "d2/d2c/a27437.html#a7664b0f67c9e3b14841ed9e30447544d", null ],
+    [ "PrepareAuraScript", "d2/d2c/a27437.html#a291fcf1af497d1e83a31209cd01a360d", null ],
+    [ "Register", "d2/d2c/a27437.html#af16d0517ad07a454145da0b92c051740", null ],
+    [ "Validate", "d2/d2c/a27437.html#ac768a5f4738dee9ad7d885fa6136785e", null ],
+    [ "_procTargetGUID", "d2/d2c/a27437.html#a13976d069846f29d2f744f3f03502787", null ]
 ];

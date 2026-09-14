@@ -1,6 +1,8 @@
 var a25033 =
 [
-    [ "HandleScript", "d9/d49/a25033.html#a7bf5f9d28a916704bd1ece8acc64fe59", null ],
-    [ "PrepareSpellScript", "d9/d49/a25033.html#ab9193654a0534dc82c4c93a3158f3f7a", null ],
-    [ "Register", "d9/d49/a25033.html#a0f0360e8b2db795046c3b76e6db0a97e", null ]
+    [ "CheckProc", "d9/d49/a25033.html#ab960abbaa9d2728ff1c471e491844e2f", null ],
+    [ "HandleProc", "d9/d49/a25033.html#a23746c343ca01160b73822e3457514d5", null ],
+    [ "PrepareAuraScript", "d9/d49/a25033.html#a2ddb4cb53c7aabb8e1e09eb1036fafe0", null ],
+    [ "Register", "d9/d49/a25033.html#a78dbfa8833c8f8958e8e9a38cc9812a7", null ],
+    [ "Validate", "d9/d49/a25033.html#a715de16d0510d8b2cbd9e281c3e3274a", null ]
 ];

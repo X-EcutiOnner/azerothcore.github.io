@@ -1,20 +1,23 @@
 var a00695 =
 [
-    [ "WorldScript", "d0/de7/a10897.html", "d0/de7/a10897" ],
-    [ "WorldHook", "d5/d5b/a00695.html#a4d497fc434376a9edca1897eabc39493", [
-      [ "WORLDHOOK_ON_OPEN_STATE_CHANGE", "d5/d5b/a00695.html#a4d497fc434376a9edca1897eabc39493a1115383e9c9ccf62f08548733c8f5f1c", null ],
-      [ "WORLDHOOK_ON_AFTER_CONFIG_LOAD", "d5/d5b/a00695.html#a4d497fc434376a9edca1897eabc39493af6efa892b7f5bfd295f23a9b8afc6ad7", null ],
-      [ "WORLDHOOK_ON_LOAD_CUSTOM_DATABASE_TABLE", "d5/d5b/a00695.html#a4d497fc434376a9edca1897eabc39493ab212a383f870b580ecf69fd1df3f9213", null ],
-      [ "WORLDHOOK_ON_BEFORE_CONFIG_LOAD", "d5/d5b/a00695.html#a4d497fc434376a9edca1897eabc39493ac0d62a83ca416843503c5c9eac516901", null ],
-      [ "WORLDHOOK_ON_MOTD_CHANGE", "d5/d5b/a00695.html#a4d497fc434376a9edca1897eabc39493a7080a363df28c0ffb71d52ee18b85f8c", null ],
-      [ "WORLDHOOK_ON_SHUTDOWN_INITIATE", "d5/d5b/a00695.html#a4d497fc434376a9edca1897eabc39493ab554902e66fb497dbb3ac74151fe8bb7", null ],
-      [ "WORLDHOOK_ON_SHUTDOWN_CANCEL", "d5/d5b/a00695.html#a4d497fc434376a9edca1897eabc39493a86b7bcb6f946ccb6d6c444773054ecb6", null ],
-      [ "WORLDHOOK_ON_UPDATE", "d5/d5b/a00695.html#a4d497fc434376a9edca1897eabc39493a891997df42f33b397fe3c92cf68e3aca", null ],
-      [ "WORLDHOOK_ON_STARTUP", "d5/d5b/a00695.html#a4d497fc434376a9edca1897eabc39493abaa74ee704d5eb3634a515fe131e66fa", null ],
-      [ "WORLDHOOK_ON_SHUTDOWN", "d5/d5b/a00695.html#a4d497fc434376a9edca1897eabc39493a804c550dd48cb62983e43dfed1ba2176", null ],
-      [ "WORLDHOOK_ON_AFTER_UNLOAD_ALL_MAPS", "d5/d5b/a00695.html#a4d497fc434376a9edca1897eabc39493a02253717dde1cc98a2643eefd76f0d91", null ],
-      [ "WORLDHOOK_ON_BEFORE_FINALIZE_PLAYER_WORLD_SESSION", "d5/d5b/a00695.html#a4d497fc434376a9edca1897eabc39493a962dfc07ec34ca7510d8759c193ba56e", null ],
-      [ "WORLDHOOK_ON_BEFORE_WORLD_INITIALIZED", "d5/d5b/a00695.html#a4d497fc434376a9edca1897eabc39493a2e95fec6ec46709803e187fe3c60f427", null ],
-      [ "WORLDHOOK_END", "d5/d5b/a00695.html#a4d497fc434376a9edca1897eabc39493a1a7e32e7ba7aec9dc7b8edd43a903800", null ]
+    [ "AllSpellScript", "dd/d54/a10765.html", "dd/d54/a10765" ],
+    [ "SpellSC", "d5/d5b/a00695.html#a743e879dd1df387001a0db3b0bf31d0e", null ],
+    [ "AllSpellHook", "d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbc", [
+      [ "ALLSPELLHOOK_ON_CALC_MAX_DURATION", "d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbca003b0894329b4fa8a3e4ae168f133a97", null ],
+      [ "ALLSPELLHOOK_ON_SPELL_CHECK_CAST", "d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbca27dc31d1611037bc1a735d2721d14f24", null ],
+      [ "ALLSPELLHOOK_CAN_PREPARE", "d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbca9b56cdc7a082dbc19397db93d100a354", null ],
+      [ "ALLSPELLHOOK_CAN_SCALING_EVERYTHING", "d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbcab8e5a308ec8a0896e88c9214b27cc24a", null ],
+      [ "ALLSPELLHOOK_CAN_SELECT_SPEC_TALENT", "d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbcae96f89c2d5231319bcb6e7ee408ba770", null ],
+      [ "ALLSPELLHOOK_ON_SCALE_AURA_UNIT_ADD", "d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbca401d32a5b3e9077a4ba6d6616fde11b1", null ],
+      [ "ALLSPELLHOOK_ON_REMOVE_AURA_SCALE_TARGETS", "d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbca171eb504c992f47238f139ee97e3a44c", null ],
+      [ "ALLSPELLHOOK_ON_BEFORE_AURA_RANK_FOR_LEVEL", "d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbca94df2e8d5aa06ea451e4271dfbc4c808", null ],
+      [ "ALLSPELLHOOK_ON_DUMMY_EFFECT_GAMEOBJECT", "d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbcaa327077f9d0fac21f2a738ab97c1463f", null ],
+      [ "ALLSPELLHOOK_ON_DUMMY_EFFECT_CREATURE", "d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbca1ade505fcc41e631580a6e0e6256a034", null ],
+      [ "ALLSPELLHOOK_ON_DUMMY_EFFECT_ITEM", "d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbca3b9b961851d5db88a1c04f914440a7a1", null ],
+      [ "ALLSPELLHOOK_ON_CAST_CANCEL", "d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbca8609d846ffb50c947ba7ce276574eb1b", null ],
+      [ "ALLSPELLHOOK_ON_CAST", "d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbcad5907139bae1d7c4e54bbefc0ba2736e", null ],
+      [ "ALLSPELLHOOK_ON_PREPARE", "d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbca30ba5433856bdc6314c33882855a0058", null ],
+      [ "ALLSPELLHOOK_ON_IS_AURA_EXCLUSIVE_BY_SPECIFIC_WITH", "d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbca116a156ccd5421f6083e7c6bf4be1abb", null ],
+      [ "ALLSPELLHOOK_END", "d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbca2bbf250e329e80a9f113eadfe4aab98f", null ]
     ] ]
 ];

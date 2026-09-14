@@ -1,24 +1,11 @@
 var a12473 =
 [
-    [ "go_commandscript", "d6/db3/a12473.html#a03cfe4efbd8ed05680308c08b40c8f1b", null ],
-    [ "DoTeleport", "d6/db3/a12473.html#a7c89031f2df751d1699627c901abd80a", null ],
-    [ "DoTeleportToTransport", "d6/db3/a12473.html#ae4b8e2e948f1b55c481869fb112eb199", null ],
-    [ "GetCommands", "d6/db3/a12473.html#a672e84a91c30f7378adce918608a6a94", null ],
-    [ "GetCreatureData", "d6/db3/a12473.html#a4ddbfdfa0f8bc74b956dd881c55065c0", null ],
-    [ "GetCreatureDataList", "d6/db3/a12473.html#adbcec5db26748dbb65d0c84d08f2a9b8", null ],
-    [ "GetGameObjectData", "d6/db3/a12473.html#a4cc325ee1ecbb3dc9997d522fa15ebaa", null ],
-    [ "GetGameObjectDataList", "d6/db3/a12473.html#af6a6b312a78435ee01a923f91ad9752a", null ],
-    [ "HandleGoCreatureCIdCommand", "d6/db3/a12473.html#aa02ff2eb7b64dd5f35cf7c7227482234", null ],
-    [ "HandleGoCreatureNameCommand", "d6/db3/a12473.html#a8ba4cf43263d267e29efa76d6b92149d", null ],
-    [ "HandleGoCreatureSpawnIdCommand", "d6/db3/a12473.html#ab7fbdfbfdd9b1f94966044f4873e18a7", null ],
-    [ "HandleGoGameObjectGOIdCommand", "d6/db3/a12473.html#a178f15f26efaafc534e59a25de44ae6e", null ],
-    [ "HandleGoGameObjectSpawnIdCommand", "d6/db3/a12473.html#ae8ee37da2d5a4cbf5e6ee64a635b804b", null ],
-    [ "HandleGoGraveyardCommand", "d6/db3/a12473.html#a4138d8299e150a55ae38613cac8e4c8b", null ],
-    [ "HandleGoGridCommand", "d6/db3/a12473.html#a88a8a00453f822322720476dfe91e866", null ],
-    [ "HandleGoQuestCommand", "d6/db3/a12473.html#a4d48d4a889033f7eac9a8473fb6cf3aa", null ],
-    [ "HandleGoTaxinodeCommand", "d6/db3/a12473.html#a7ac0084020d81c574193668aad6e3d95", null ],
-    [ "HandleGoTicketCommand", "d6/db3/a12473.html#ab74a387cae5095d9ea26bf70158d6a14", null ],
-    [ "HandleGoTriggerCommand", "d6/db3/a12473.html#a98149f3632dbbce523926229ebd9c15a", null ],
-    [ "HandleGoXYZCommand", "d6/db3/a12473.html#a9aee7c1cbfe76d988ad28cd64840222b", null ],
-    [ "HandleGoZoneXYCommand", "d6/db3/a12473.html#ae01287fc270a629b5b81117e71ac4ee8", null ]
+    [ "bf_commandscript", "d6/db3/a12473.html#a806ca440ae1b51fffefee9d298dab3df", null ],
+    [ "GetCommands", "d6/db3/a12473.html#a97f0192d7ccd3532cfceaebff9f242be", null ],
+    [ "HandleBattlefieldEnable", "d6/db3/a12473.html#a5d6fdbbdd77fc16aaac170d5af0ff924", null ],
+    [ "HandleBattlefieldEnd", "d6/db3/a12473.html#abe18a8f6f91de5a1984f09c711136919", null ],
+    [ "HandleBattlefieldQueue", "d6/db3/a12473.html#ab2e116060bb747e9ae9237c49b8cc2c9", null ],
+    [ "HandleBattlefieldStart", "d6/db3/a12473.html#a1cfd74a803277063fa5e03162956f341", null ],
+    [ "HandleBattlefieldSwitch", "d6/db3/a12473.html#ae942a3c7f13cc77b3cf36078d798e0fe", null ],
+    [ "HandleBattlefieldTimer", "d6/db3/a12473.html#a6c0d2587984f276bbc40af72017dc00a", null ]
 ];

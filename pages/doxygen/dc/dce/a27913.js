@@ -1,7 +1,8 @@
 var a27913 =
 [
-    [ "FilterTargets", "dc/dce/a27913.html#aeebe9395cefab1b87196a7ef466aa2c8", null ],
-    [ "PrepareSpellScript", "dc/dce/a27913.html#a954f00317eab544dd57e657368aab7fb", null ],
-    [ "Register", "dc/dce/a27913.html#a1804684c8685372faf2e88e56b48f5be", null ],
-    [ "Validate", "dc/dce/a27913.html#ab08386023ed3b3c8e51178da8973ef1a", null ]
+    [ "ApplyEffect", "dc/dce/a27913.html#ad29ed182a00516e736bb8d1381f4ac84", null ],
+    [ "HandleEffectPeriodicUpdate", "dc/dce/a27913.html#ad5319328c018dbb3ddbd58bfc08589c4", null ],
+    [ "PrepareAuraScript", "dc/dce/a27913.html#a7673ff384e88fa76efa52ecb60b97d9b", null ],
+    [ "Register", "dc/dce/a27913.html#ade5af0ec82bc43d89919ceaaa31bce20", null ],
+    [ "_tick_amount", "dc/dce/a27913.html#a33d9f114efa50a2fdfe7a17852a474f7", null ]
 ];

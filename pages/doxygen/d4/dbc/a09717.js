@@ -1,10 +1,10 @@
 var a09717 =
 [
-    [ "AnyDeadUnitObjectInRangeCheck", "d4/dbc/a09717.html#ad51c7d9c256d8d769e7e5df2a618f233", null ],
-    [ "operator()", "d4/dbc/a09717.html#a71355418a935e1e4c4f5294c0e6a244f", null ],
-    [ "operator()", "d4/dbc/a09717.html#ae885f49537043421a92b44c201bec358", null ],
-    [ "operator()", "d4/dbc/a09717.html#a92b2dcfedf97677e84f46ee0e3affb91", null ],
-    [ "operator()", "d4/dbc/a09717.html#ae7a76a9bcc28c6e4705a2885b02be20d", null ],
-    [ "i_range", "d4/dbc/a09717.html#a1a95cfd469f27284e6ff35e9856bddcb", null ],
-    [ "i_searchObj", "d4/dbc/a09717.html#acf10f61f95961ff4b9fd4a8c162fa029", null ]
+    [ "UnitLastSearcher", "d4/dbc/a09717.html#a7924240df139cf0814282eaff8a898b6", null ],
+    [ "Visit", "d4/dbc/a09717.html#a95a5148e040daf44ed19e3118621a4ca", null ],
+    [ "Visit", "d4/dbc/a09717.html#ae9992afc09771d4f1e1517642075f17e", null ],
+    [ "Visit", "d4/dbc/a09717.html#aadfcfdd95a9f2b61cb9ff4c7db43a014", null ],
+    [ "i_check", "d4/dbc/a09717.html#a6cf23e7ed9198798da03e6ec3526ee97", null ],
+    [ "i_object", "d4/dbc/a09717.html#a7bd2407800c461de70b217a4b48f9921", null ],
+    [ "i_phaseMask", "d4/dbc/a09717.html#aee39e2b567813e1e7420de07b3fe9b08", null ]
 ];

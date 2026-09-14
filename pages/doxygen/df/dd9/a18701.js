@@ -1,11 +1,8 @@
 var a18701 =
 [
-    [ "AddMissingStack", "df/dd9/a18701.html#ae23dc772e58db8648a7ddbf5255bd917", null ],
-    [ "CheckAura", "df/dd9/a18701.html#a9d9e5620f61c92d35b08bec100b5a12a", null ],
-    [ "FilterTargets", "df/dd9/a18701.html#ab6c86c3680823329d5f3aad985aa316a", null ],
-    [ "Load", "df/dd9/a18701.html#a823e600ee1a350ab60ea69043e4fbef9", null ],
-    [ "PrepareSpellScript", "df/dd9/a18701.html#aff3b52df65504d7d4928b1ff69c1fa4b", null ],
-    [ "Register", "df/dd9/a18701.html#af0e6f1fc6687de1abcc1689116150088", null ],
-    [ "_hadInitialAura", "df/dd9/a18701.html#a1b553c0ad5fc4e86f02829b5284db709", null ],
-    [ "_hadJumpingAura", "df/dd9/a18701.html#ade3c2e5f78cbfbc34a3cbc8259e241db", null ]
+    [ "NecroticPlagueTargetCheck", "df/dd9/a18701.html#abf9c21cc0041e5981a91abce8fb0a58f", null ],
+    [ "operator()", "df/dd9/a18701.html#a801a176e367a9f4446fe080845477654", null ],
+    [ "_notAura1", "df/dd9/a18701.html#a4f52417f233e1ab06210726670f719f3", null ],
+    [ "_notAura2", "df/dd9/a18701.html#affa9b300cd7a7469b0bdf2a72d380dd6", null ],
+    [ "_sourceObj", "df/dd9/a18701.html#a7cf2e485e65f2396cfdbfe8e646e4d53", null ]
 ];

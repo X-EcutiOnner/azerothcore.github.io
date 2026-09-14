@@ -1,6 +1,6 @@
 var a26837 =
 [
-    [ "CheckCast", "db/d9c/a26837.html#a5f4979e1d164bee9e5a411e7d023810b", null ],
-    [ "PrepareSpellScript", "db/d9c/a26837.html#a33e86d770e926247c58c00143b55c418", null ],
-    [ "Register", "db/d9c/a26837.html#a453c7fa25baf458c9a319053ca726621", null ]
+    [ "FilterTargets", "db/d9c/a26837.html#a9ee58cd4e7a0fa59bfb6ef1270d51f21", null ],
+    [ "PrepareSpellScript", "db/d9c/a26837.html#a5992d94317d3da7400d5a9ab115e621e", null ],
+    [ "Register", "db/d9c/a26837.html#a125ce6c8dfdc6419b4409c72f74fcf85", null ]
 ];

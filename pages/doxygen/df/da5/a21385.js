@@ -1,13 +1,19 @@
 var a21385 =
 [
-    [ "MoveX", "df/da5/a21385.html#aaae6e8ea168850a934b887ec006d7d8b", null ],
-    [ "MoveY", "df/da5/a21385.html#a62cd7f778cea049a1a6a4c34d21545a7", null ],
-    [ "MoveZ", "df/da5/a21385.html#a80b842f55108fec58fe04cf02e8e0b35", null ],
-    [ "npc", "df/da5/a21385.html#a4bdccc14156f7e5822c9a8eefc29adaa", null ],
-    [ "say", "df/da5/a21385.html#adcd8647fc0ee9799e24173780209f2d9", null ],
-    [ "SpawnO", "df/da5/a21385.html#a3b6b89143c8a875cda01b000cea6a7c7", null ],
-    [ "SpawnX", "df/da5/a21385.html#af3ae27adaecafe9a09802bc202973d68", null ],
-    [ "SpawnY", "df/da5/a21385.html#a749e9c6edcc87f258f250344d652145c", null ],
-    [ "SpawnZ", "df/da5/a21385.html#a06a0f8e5a7d63204d57992dc9623f83b", null ],
-    [ "trigger", "df/da5/a21385.html#ad2291d89a874c79859b3140754594ed7", null ]
+    [ "boss_skadiAI", "df/da5/a21385.html#a4e9708950b0dda44bd70d77ee9f9de52", null ],
+    [ "DoAction", "df/da5/a21385.html#ac0513a8e187b3d68fd320b124930ac8b", null ],
+    [ "EnterEvadeMode", "df/da5/a21385.html#ab6cf2f709b4888b1b4e17c6022d7091f", null ],
+    [ "JustDied", "df/da5/a21385.html#af963eda18854869f3a73cb22f48b0230", null ],
+    [ "JustEngagedWith", "df/da5/a21385.html#a2853d557da48decede7baa4845f5573f", null ],
+    [ "JustSummoned", "df/da5/a21385.html#ac61c732b17b39bdbedf18742b8403c5d", null ],
+    [ "KilledUnit", "df/da5/a21385.html#af82c5edf85466d9dd5e1dee666231687", null ],
+    [ "Reset", "df/da5/a21385.html#a7d1287f7a3cc5703a7430a15e769cb2c", null ],
+    [ "SpawnFirstWave", "df/da5/a21385.html#af65d4bfff98b239f96e50c868b90e08a", null ],
+    [ "UpdateAI", "df/da5/a21385.html#a05690f147e2c2a584179c19b0a84a1b0", null ],
+    [ "_encounterStarted", "df/da5/a21385.html#a37c907c5136097497bcb30da4c70d121", null ],
+    [ "_events", "df/da5/a21385.html#af7fbc8d2c28052f43463897bcb846b25", null ],
+    [ "_firstWaveSummoned", "df/da5/a21385.html#a1af2048d0d48e8670cdb4957e191f172", null ],
+    [ "_instance", "df/da5/a21385.html#a34a422dcee2353a888deaac3bab983a4", null ],
+    [ "_phase", "df/da5/a21385.html#a64808a1b0cee00069a69c050eeb0240e", null ],
+    [ "_summons", "df/da5/a21385.html#ae02eac33cf9fa64a2d2e20b5e4d8a591", null ]
 ];

@@ -1,8 +1,7 @@
 var a11413 =
 [
-    [ "MinimapPing", "d2/d2d/a11413.html#a846074f55e6224bf322b96c7bfe9e008", null ],
-    [ "Write", "d2/d2d/a11413.html#a94eb49e309ce83b04ccaf8f7e3e8bde7", null ],
-    [ "MapX", "d2/d2d/a11413.html#ab747a36a7dfefb0692e8c6abb1d161e2", null ],
-    [ "MapY", "d2/d2d/a11413.html#a2f8504ddba41dd09f69763d66331373b", null ],
-    [ "SourceGuid", "d2/d2d/a11413.html#abf5d5980b360cbf9332460b01d5816f5", null ]
+    [ "SocketGems", "d2/d2d/a11413.html#a29700bfeaee0bbfec3700d48c3d37dfd", null ],
+    [ "Read", "d2/d2d/a11413.html#a0e3a56488604a59a8da0bb77a1b26681", null ],
+    [ "GemGuids", "d2/d2d/a11413.html#acd8001a74aa4e2b4b7614c20e4ddfd5a", null ],
+    [ "ItemGuid", "d2/d2d/a11413.html#a2be27cf0fdd4ed6e6b7a9618eebe8914", null ]
 ];

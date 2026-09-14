@@ -1,10 +1,8 @@
 var a16557 =
 [
-    [ "npc_xerestraszaAI", "d4/d81/a16557.html#a768ae45296e16b8fcada6359dfd6c7e5", null ],
-    [ "DoAction", "d4/d81/a16557.html#af696ecee315892b2bf0233113d2f89f9", null ],
-    [ "Reset", "d4/d81/a16557.html#a0eceae8fb9bf5071bc8d9cddf783507b", null ],
-    [ "UpdateAI", "d4/d81/a16557.html#a6389ab58f4b44c668590113ec75f2adf", null ],
-    [ "_events", "d4/d81/a16557.html#ae998fc6aaee14bc313ff38bb76d79e43", null ],
-    [ "_introDone", "d4/d81/a16557.html#a9d01014297290dafbb7ed25bffbe6fe6", null ],
-    [ "_isIntro", "d4/d81/a16557.html#a71ffbf3fedb77bd693beabb4ee52f57a", null ]
+    [ "npc_twilight_summon", "d4/d81/a16557.html#a34697edd1af94814862a50a038625f93", null ],
+    [ "DoAction", "d4/d81/a16557.html#a78ef5af35959e8bedbf7a23569a2f8bd", null ],
+    [ "Reset", "d4/d81/a16557.html#aa909fac05e93a78d3f70222fb82a6841", null ],
+    [ "UpdateAI", "d4/d81/a16557.html#afe47f7af23aa7ef5b59473579c649859", null ],
+    [ "fadeArmorTimer", "d4/d81/a16557.html#a998e2efd9e25915d32b953d684352511", null ]
 ];

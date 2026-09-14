@@ -1,9 +1,8 @@
 var a26793 =
 [
-    [ "spell_pal_judgement", "d4/d80/a26793.html#a497aed8c1d8c6a2af22e9e8daae96e14", null ],
-    [ "HandleScriptEffect", "d4/d80/a26793.html#add419a824dbebdc168d2b6dc49d07913", null ],
-    [ "PrepareSpellScript", "d4/d80/a26793.html#a2cffed69c16a1a6189048ed52af35152", null ],
-    [ "Register", "d4/d80/a26793.html#ad8e65beb41a1bb41a2dd307f3b1da839", null ],
-    [ "Validate", "d4/d80/a26793.html#a3971c195a279338253771675131b4802", null ],
-    [ "_spellId", "d4/d80/a26793.html#ad49ea02800078c672747f4fdbbab1d20", null ]
+    [ "HandleEffectApply", "d4/d80/a26793.html#a1182bd57a03ad093b53e3864bdff127c", null ],
+    [ "HandleEffectRemove", "d4/d80/a26793.html#a6374ece2a04c3d5bc81bb31cc5bc78e1", null ],
+    [ "PrepareAuraScript", "d4/d80/a26793.html#acbe4a19f4f2502fc1ae4e13a2c8906ab", null ],
+    [ "Register", "d4/d80/a26793.html#ac3a9249da3071736026d66a9551ca16d", null ],
+    [ "Validate", "d4/d80/a26793.html#a0ebac0cb6933ac4c562c3c91e06614dd", null ]
 ];

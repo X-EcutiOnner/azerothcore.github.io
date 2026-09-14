@@ -1,6 +1,6 @@
 var a19101 =
 [
-    [ "npc_captain_rupertAI", "d1/db2/a19101.html#ae91de64c440e71e612f34e37b90076d5", null ],
-    [ "Reset", "d1/db2/a19101.html#a8ebaca725aba2c3aed8856fb23228ae1", null ],
-    [ "UpdateAI", "d1/db2/a19101.html#a2edf4e51c9a5bde61a1875c067e963f2", null ]
+    [ "npc_frost_freeze_trapAI", "d6/d20/a19105.html", "d6/d20/a19105" ],
+    [ "npc_frost_freeze_trap", "d1/db2/a19101.html#ac58ed2598fd4250f220208a91343f9b8", null ],
+    [ "GetAI", "d1/db2/a19101.html#a88ed9aeb0403b3b625c858cd1e44a99f", null ]
 ];

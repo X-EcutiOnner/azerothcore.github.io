@@ -1,8 +1,6 @@
 var a19689 =
 [
-    [ "npc_teslaAI", "db/d4c/a19689.html#a7281220648af1357b1377d6f7874d663", null ],
-    [ "DamageTaken", "db/d4c/a19689.html#aa3ab570e86261bc3178e17109d76af12", null ],
-    [ "EnterEvadeMode", "db/d4c/a19689.html#acc8115216989b34593a9435eeb051eda", null ],
-    [ "JustEngagedWith", "db/d4c/a19689.html#add93f68bc96b3c93dc0a3271543711e6", null ],
-    [ "UpdateAI", "db/d4c/a19689.html#a962745569b07e368067ee483d2379840", null ]
+    [ "boss_razuviousAI", "d5/d09/a19693.html", "d5/d09/a19693" ],
+    [ "boss_razuvious", "db/d4c/a19689.html#ac1a2942f4a7957c671b075df7bf20215", null ],
+    [ "GetAI", "db/d4c/a19689.html#a350a7cf0c3e21e29c3c28155d63dcb87", null ]
 ];

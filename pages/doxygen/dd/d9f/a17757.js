@@ -1,6 +1,6 @@
 var a17757 =
 [
-    [ "HandleScript", "dd/d9f/a17757.html#ace45b0d9ce3815046e842d462fdcc9b6", null ],
-    [ "PrepareSpellScript", "dd/d9f/a17757.html#a0257968b3a4d9ef3241420bbc5abb63a", null ],
-    [ "Register", "dd/d9f/a17757.html#aed524436eacc6f1dddcc2f3cb6f502fc", null ]
+    [ "boss_prince_taldaramAI", "de/da3/a17761.html", "de/da3/a17761" ],
+    [ "boss_prince_taldaram_icc", "dd/d9f/a17757.html#abe14f754e1daf597aa2b7d401f337c8d", null ],
+    [ "GetAI", "dd/d9f/a17757.html#a2a8c89206ab72afc68260f41a246da3b", null ]
 ];

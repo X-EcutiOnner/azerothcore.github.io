@@ -1,19 +1,17 @@
 var a11785 =
 [
-    [ "PacketThrottlingMap", "de/dc8/a11785.html#aa41dd21032403490c49a400651c98855", null ],
-    [ "Policy", "de/dc8/a11785.html#abdee2870dbaa3341ecd6f682f87a63aa", [
-      [ "Process", "de/dc8/a11785.html#abdee2870dbaa3341ecd6f682f87a63aaab6ec7abeb6ae29cc35a4b47475e12afe", null ],
-      [ "Kick", "de/dc8/a11785.html#abdee2870dbaa3341ecd6f682f87a63aaa3e07960fcc45408894cf1402257bd9fd", null ],
-      [ "Ban", "de/dc8/a11785.html#abdee2870dbaa3341ecd6f682f87a63aaa5c664f50adcaaf94d8c8d01b4eb754e9", null ],
-      [ "Log", "de/dc8/a11785.html#abdee2870dbaa3341ecd6f682f87a63aaace0be71e33226e4c1db2bcea5959f16b", null ],
-      [ "BlockingThrottle", "de/dc8/a11785.html#abdee2870dbaa3341ecd6f682f87a63aaa1974493f69f8fbf2eb0a63a852d132bb", null ],
-      [ "DropPacket", "de/dc8/a11785.html#abdee2870dbaa3341ecd6f682f87a63aaa3bd03342168b3845d34fccaf6543c970", null ]
-    ] ],
-    [ "DosProtection", "de/dc8/a11785.html#a8e43f21b9c729db604c9afd90f68dc20", null ],
-    [ "DosProtection", "de/dc8/a11785.html#a8850d18ae254633f6bde5c85cbcef830", null ],
-    [ "EvaluateOpcode", "de/dc8/a11785.html#a575c7bcb895ad0a3d0456f0a99ee5ec7", null ],
-    [ "operator=", "de/dc8/a11785.html#a98394089b867ff6e8107b7975a67737d", null ],
-    [ "World", "de/dc8/a11785.html#a7b4bcdf992c21ae83363f25df05b1d25", null ],
-    [ "_PacketThrottlingMap", "de/dc8/a11785.html#ab74f0cf257d3db9076e3a8771de63eb3", null ],
-    [ "Session", "de/dc8/a11785.html#a3f3f5397fb30cdf14141480659b18208", null ]
+    [ "WorldPacket", "de/dc8/a11785.html#a6329945c46586b75f41f4f3b0410a046", null ],
+    [ "WorldPacket", "de/dc8/a11785.html#a121222c627cfce905891be1611705a1a", null ],
+    [ "WorldPacket", "de/dc8/a11785.html#af406fe2f357035990fd5eccf37f3fb93", null ],
+    [ "WorldPacket", "de/dc8/a11785.html#a2880e36e172096407778fcbbdfe917bc", null ],
+    [ "WorldPacket", "de/dc8/a11785.html#a251580581b403cc113aa743c0196ceea", null ],
+    [ "WorldPacket", "de/dc8/a11785.html#a224a2ad18da5d8dd7a7bcbb887870243", null ],
+    [ "GetOpcode", "de/dc8/a11785.html#a666547feae3b83bfbba424a541287239", null ],
+    [ "GetReceivedTime", "de/dc8/a11785.html#a467aa36509adcb07f51bc8af24137c3e", null ],
+    [ "Initialize", "de/dc8/a11785.html#a6b7d58fb0230383629fa888d3aa9dbd8", null ],
+    [ "operator=", "de/dc8/a11785.html#ad44064a3c2c73f6289a9db539b408f50", null ],
+    [ "operator=", "de/dc8/a11785.html#aa1196a05e7b338543b3b94188e59721f", null ],
+    [ "SetOpcode", "de/dc8/a11785.html#acb55a3f9540c39bf88300473c29605ed", null ],
+    [ "m_opcode", "de/dc8/a11785.html#a4ff77d8a27744f07bbab70cdc4a3ef91", null ],
+    [ "m_receivedTime", "de/dc8/a11785.html#abb78776ad3a0f19e5e3d226666612b49", null ]
 ];

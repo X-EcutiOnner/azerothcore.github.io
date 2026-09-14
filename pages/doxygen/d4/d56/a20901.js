@@ -1,8 +1,7 @@
 var a20901 =
 [
-    [ "npc_scrapbot", "d4/d56/a20901.html#a088bac1bf5cb91be8f18368c08c5414a", null ],
-    [ "Reset", "d4/d56/a20901.html#a2dca509a6e2b46674165e5559717f69c", null ],
-    [ "UpdateAI", "d4/d56/a20901.html#ade90c75baf598900adaa300cef28cb6a", null ],
-    [ "_instance", "d4/d56/a20901.html#afb8296b4d9105ee99abc534656289ae2", null ],
-    [ "_scheduler", "d4/d56/a20901.html#a4deb841588ea244e4290bb8ffb69b483", null ]
+    [ "boss_thorim_trap", "d4/d56/a20901.html#a793ce64835292b63f81cbb7140b3c6f9", null ],
+    [ "Reset", "d4/d56/a20901.html#a841cd9769b0875d01c2e65dddce0d1ef", null ],
+    [ "UpdateAI", "d4/d56/a20901.html#abd5ae669c1b1ecaaa567eedb7feaad16", null ],
+    [ "_checkTimer", "d4/d56/a20901.html#acb5ba7af429c9c0bdb8bed7cd411c655", null ]
 ];

@@ -1,9 +1,6 @@
 var a27305 =
 [
-    [ "HandleKnockBack", "d5/d89/a27305.html#acaa8f445874270f34ea5b42a506671db", null ],
-    [ "HandleScript", "d5/d89/a27305.html#a29e47298601cb55c5442a3fa59bb3646", null ],
-    [ "Load", "d5/d89/a27305.html#a45700aba665b601b2c860af5a869d1af", null ],
-    [ "PrepareSpellScript", "d5/d89/a27305.html#aad1c175a2611152278d847ac59f93090", null ],
-    [ "Register", "d5/d89/a27305.html#ad790d435f422fabd128e601fb2dff103", null ],
-    [ "Validate", "d5/d89/a27305.html#a889a129ddc3ea6fcd7f440fc7c163e08", null ]
+    [ "HandleDummy", "d5/d89/a27305.html#aa530b0e27c9b9ba1978a80fd4a47f68d", null ],
+    [ "PrepareSpellScript", "d5/d89/a27305.html#a22adac71d2693d17313e506f1d12532f", null ],
+    [ "Register", "d5/d89/a27305.html#a2680afcbe3d7e95404c614e2f0f93bf4", null ]
 ];

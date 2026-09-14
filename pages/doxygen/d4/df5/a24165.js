@@ -1,7 +1,7 @@
 var a24165 =
 [
-    [ "npc_kurenai_captiveAI", "d6/d7a/a24169.html", "d6/d7a/a24169" ],
-    [ "npc_kurenai_captive", "d4/df5/a24165.html#ae0e283bfc476f2d9e602158fa8720cdc", null ],
-    [ "GetAI", "d4/df5/a24165.html#ad6f9abf280ca7c3a1b16f7e4815fb979", null ],
-    [ "OnQuestAccept", "d4/df5/a24165.html#a5e87cd850d0fc6272d89dd3c7901af5f", null ]
+    [ "HandleEffect", "d4/df5/a24165.html#acb353dbdd050bfc6aa4b4b5f6433dc03", null ],
+    [ "PrepareSpellScript", "d4/df5/a24165.html#ad95bc33917e1aa968eedc636f6e3ddcb", null ],
+    [ "Register", "d4/df5/a24165.html#ac2b2bd2581a638553167d5c8099a70cd", null ],
+    [ "Validate", "d4/df5/a24165.html#a7702b0e876ab5ccd750d1072ee70ed69", null ]
 ];

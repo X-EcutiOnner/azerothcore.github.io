@@ -1,10 +1,13 @@
 var a28589 =
 [
-    [ "npc_dancing_flamesAI", "d9/dc2/a28589.html#a3d597b2ee826c86b5a8feb3aa144a459", null ],
-    [ "JustEngagedWith", "d9/dc2/a28589.html#ae0d71d4f9074c05ea76951ede6c7702a", null ],
-    [ "ReceiveEmote", "d9/dc2/a28589.html#a13aae489e8b03121c8fbae12e83bdfaa", null ],
-    [ "Reset", "d9/dc2/a28589.html#a53b49dadc70e3e134ca49cd239b569d6", null ],
-    [ "UpdateAI", "d9/dc2/a28589.html#a555f2ed0d762c5c183ec87580bae46b1", null ],
-    [ "Active", "d9/dc2/a28589.html#aa79036bed206327847bf5ad2e768e8f6", null ],
-    [ "CanIteract", "d9/dc2/a28589.html#a866bfc106fc33433b4eb13fabd9c39c6", null ]
+    [ "npc_nelsonAI", "d9/dc2/a28589.html#af6aada5c34048ce6bda6d5c1541e0bf3", null ],
+    [ "DoAction", "d9/dc2/a28589.html#a13ec2adee9d671f949139dbf94c75cc3", null ],
+    [ "JustEngagedWith", "d9/dc2/a28589.html#accb9aeb3b3f3fc2233598b7fef40c3ec", null ],
+    [ "JustSummoned", "d9/dc2/a28589.html#a31d622d73a2540e159720d4c8ddc7d00", null ],
+    [ "Reset", "d9/dc2/a28589.html#a05fcb98153f0a24f50004f465d8f3c72", null ],
+    [ "SpellHit", "d9/dc2/a28589.html#afab81d8a6077c755c186bb619944d78d", null ],
+    [ "SummonedCreatureDies", "d9/dc2/a28589.html#ab3753c9b6848c1567ac596a5f6b498a1", null ],
+    [ "UpdateAI", "d9/dc2/a28589.html#ac68749942f37de5f9105556fe7b904b7", null ],
+    [ "events", "d9/dc2/a28589.html#a25eb289b79de306bbdc0dd099b23a2a0", null ],
+    [ "shouldDespawn", "d9/dc2/a28589.html#a09a68f903854fcedd8a4b2ee4c2597e2", null ]
 ];

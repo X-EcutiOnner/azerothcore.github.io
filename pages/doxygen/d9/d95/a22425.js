@@ -1,7 +1,6 @@
 var a22425 =
 [
-    [ "HandleDummy", "d9/d95/a22425.html#aac2e8e5e00bf25846f36f920acf98dca", null ],
-    [ "PrepareAuraScript", "d9/d95/a22425.html#aefda37f79ba45361ad91bd79f4e8a486", null ],
-    [ "Register", "d9/d95/a22425.html#a446c71ed3f5fa2ce653148f9567fd199", null ],
-    [ "Validate", "d9/d95/a22425.html#a1a2a6547d994cdd8b375a45226b7c36f", null ]
+    [ "npc_freed_protodrakeAI", "d2/d5b/a22429.html", "d2/d5b/a22429" ],
+    [ "npc_freed_protodrake", "d9/d95/a22425.html#a56e33e186800efa3fb86ca6a614e3b0b", null ],
+    [ "GetAI", "d9/d95/a22425.html#a9680bf65cb97327396f58c297df1c8f5", null ]
 ];

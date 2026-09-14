@@ -1,7 +1,5 @@
 var a20609 =
 [
-    [ "FilterTargetsInitial", "d2/dee/a20609.html#a2477349cffb8da02936545ba0bd03d0f", null ],
-    [ "Load", "d2/dee/a20609.html#a4606d10a2699e3fb5290cefdc0876505", null ],
-    [ "PrepareSpellScript", "d2/dee/a20609.html#aa28f3565bddf70b98c945be7a7a37bad", null ],
-    [ "Register", "d2/dee/a20609.html#ae9bbe2d4ce5413f040b8b5f73f985822", null ]
+    [ "achievement_i_could_say_that_this_cache_was_rare", "d2/dee/a20609.html#a8ec1949d92f21fe57f967e510453da3e", null ],
+    [ "OnCheck", "d2/dee/a20609.html#af68ad314c9b7be57964ca9baa8015bc9", null ]
 ];

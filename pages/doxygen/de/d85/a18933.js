@@ -1,7 +1,5 @@
 var a18933 =
 [
-    [ "npc_valithria_portalAI", "de/d85/a18933.html#a18c1b9d2b149fbc34a17c9e87a8c70b6", null ],
-    [ "GetData", "de/d85/a18933.html#a598ba7930900aa211bb7e7dc12f366c0", null ],
-    [ "OnSpellClick", "de/d85/a18933.html#a457f2725e6580d7e6f3bb0445ba796a8", null ],
-    [ "_used", "de/d85/a18933.html#a92cc0c2aaa6add0c6c641719d6846bb3", null ]
+    [ "achievement_neck_deep_in_vile", "de/d85/a18933.html#af0e54c236e7637d8c1a8cf7dbed5a195", null ],
+    [ "OnCheck", "de/d85/a18933.html#a9861c008f302279a4ac5f4ddc14ca2d0", null ]
 ];

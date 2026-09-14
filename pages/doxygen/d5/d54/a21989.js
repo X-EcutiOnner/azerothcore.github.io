@@ -1,8 +1,6 @@
 var a21989 =
 [
-    [ "npc_ravenous_worgAI", "d5/d54/a21989.html#a5404516869e171c84b774f2a7b8be15d", null ],
-    [ "AttackStart", "d5/d54/a21989.html#a593d218d8cb083a7e37f81d3952c6d4c", null ],
-    [ "UpdateAI", "d5/d54/a21989.html#aeb64d5bde5ef9d8c2a62662bb72d3049", null ],
-    [ "_attack", "d5/d54/a21989.html#a3df5c98821ba33a40e25e7b050858b96", null ],
-    [ "_pacified", "d5/d54/a21989.html#a0da1f59a6fc9cdf39c9cced1eb52acba", null ]
+    [ "npc_spiritual_insightAI", "d5/d54/a21989.html#ab173cd8b623fcf8c36406155c91bc4db", null ],
+    [ "GetSpeachId", "d5/d54/a21989.html#ad2dd22651470f47e7a7ba6f687ba54e9", null ],
+    [ "IsSummonedBy", "d5/d54/a21989.html#ab6b39190d1195915ea0b4b191d864da6", null ]
 ];

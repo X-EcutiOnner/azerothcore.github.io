@@ -1,8 +1,6 @@
 var a12165 =
 [
-    [ "ToCloud9GuildHooks", "db/d41/a12165.html#af92ed08219fca9b8967779a936332bee", null ],
-    [ "~ToCloud9GuildHooks", "db/d41/a12165.html#a6352d89ded523200d4a60b91ff5c7fa4", null ],
-    [ "OnGuildMemberAdded", "db/d41/a12165.html#aea11728fdf49e5a6677051ab61d87180", null ],
-    [ "OnGuildMemberLeft", "db/d41/a12165.html#adada89524f817edcc5d2cfafb93ee6a1", null ],
-    [ "OnGuildMemberRemoved", "db/d41/a12165.html#a98d80a4bec269157bebfabbddfd60054", null ]
+    [ "EffectCalcSpellModHandler", "db/d41/a12165.html#abe81396a3f1c1b3b07c10cf0e191546c", null ],
+    [ "Call", "db/d41/a12165.html#a5ca2a9c329a7dbbb7e835849ca4479aa", null ],
+    [ "pEffectHandlerScript", "db/d41/a12165.html#a15c0b24641cb04f31bb3d651dae59448", null ]
 ];

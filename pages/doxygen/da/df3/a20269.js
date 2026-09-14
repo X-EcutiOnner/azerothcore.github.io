@@ -1,6 +1,12 @@
 var a20269 =
 [
-    [ "npc_pool_of_tar", "da/df3/a20269.html#a03de46dfa133992d094ab607a49b7236", null ],
-    [ "DamageTaken", "da/df3/a20269.html#ac72ad742cb16e27abf25fe0e88408315", null ],
-    [ "SpellHit", "da/df3/a20269.html#a61886862df88b41bf0c6959c9a564cea", null ]
+    [ "npc_auriaya_feral_defender", "da/df3/a20269.html#a84425204b0ad06789edb331ed8495774", null ],
+    [ "DamageTaken", "da/df3/a20269.html#aaebbf27345a546bf66e4ab7ed8eae556", null ],
+    [ "DoAction", "da/df3/a20269.html#aea39a90b4e66796c37dde02687a9b2ad", null ],
+    [ "JustDied", "da/df3/a20269.html#aa86cb08096ba0e43280f23d9acd0bfa1", null ],
+    [ "JustEngagedWith", "da/df3/a20269.html#a3d91f99b57ba4d72b526a13f671961ce", null ],
+    [ "JustSummoned", "da/df3/a20269.html#acea3175bcd4df4cf88dc9561c01bee64", null ],
+    [ "Reset", "da/df3/a20269.html#a02b09b7dfdd4036827bb474a57296491", null ],
+    [ "UpdateAI", "da/df3/a20269.html#a7b40afef6b58e7a41b2d00bccbdfe311", null ],
+    [ "_summons", "da/df3/a20269.html#a0b7960f590ba76068c377cf08291ce35", null ]
 ];

@@ -1,50 +1,72 @@
 var a03590 =
 [
-    [ "npc_gilthares", "d0/d48/a16157.html", "d0/d48/a16157" ],
-    [ "npc_gilthares::npc_giltharesAI", "de/d41/a16161.html", "de/d41/a16161" ],
-    [ "npc_taskmaster_fizzule", "d7/dd2/a16165.html", "d7/dd2/a16165" ],
-    [ "npc_taskmaster_fizzule::npc_taskmaster_fizzuleAI", "db/d30/a16169.html", "db/d30/a16169" ],
-    [ "npc_twiggy_flathead", "d1/db1/a16173.html", "d1/db1/a16173" ],
-    [ "npc_twiggy_flathead::npc_twiggy_flatheadAI", "df/d75/a16177.html", "df/d75/a16177" ],
-    [ "npc_wizzlecrank_shredder", "d5/d74/a16181.html", "d5/d74/a16181" ],
-    [ "npc_wizzlecrank_shredder::npc_wizzlecrank_shredderAI", "d7/d6e/a16185.html", "d7/d6e/a16185" ],
-    [ "Gilthares", "dd/de9/a03590.html#aa3e172c8a560dd0d92fb1d8f79b90716", [
-      [ "SAY_GIL_START", "dd/de9/a03590.html#aa3e172c8a560dd0d92fb1d8f79b90716a9cc558649c398869a908d76e46580a55", null ],
-      [ "SAY_GIL_AT_LAST", "dd/de9/a03590.html#aa3e172c8a560dd0d92fb1d8f79b90716a74625b1d5af887cffe07cc6889f66f94", null ],
-      [ "SAY_GIL_PROCEED", "dd/de9/a03590.html#aa3e172c8a560dd0d92fb1d8f79b90716a83573efbb4a65334a79436dadb172c25", null ],
-      [ "SAY_GIL_FREEBOOTERS", "dd/de9/a03590.html#aa3e172c8a560dd0d92fb1d8f79b90716add548aa464c97165ed4e9a07e2d26b76", null ],
-      [ "SAY_GIL_AGGRO", "dd/de9/a03590.html#aa3e172c8a560dd0d92fb1d8f79b90716a189c2478bea56968035dc5626a361ad9", null ],
-      [ "SAY_GIL_ALMOST", "dd/de9/a03590.html#aa3e172c8a560dd0d92fb1d8f79b90716af98466d2079315f8451fe5fd010cfd86", null ],
-      [ "SAY_GIL_SWEET", "dd/de9/a03590.html#aa3e172c8a560dd0d92fb1d8f79b90716a53a6c4cad1fc536662a170117dab1f9b", null ],
-      [ "SAY_GIL_FREED", "dd/de9/a03590.html#aa3e172c8a560dd0d92fb1d8f79b90716af0bf3f928b89fe85bfd73f9973f02046", null ],
-      [ "QUEST_FREE_FROM_HOLD", "dd/de9/a03590.html#aa3e172c8a560dd0d92fb1d8f79b90716a406ffd8f7c4e1a504188c50f2743b36a", null ]
+    [ "npc_murkdeep", "da/d5b/a15961.html", "da/d5b/a15961" ],
+    [ "npc_murkdeep::npc_murkdeepAI", "d9/d95/a15965.html", "d9/d95/a15965" ],
+    [ "npc_kerlonian", "da/da3/a15969.html", "da/da3/a15969" ],
+    [ "npc_kerlonian::npc_kerlonianAI", "d2/d8c/a15973.html", "d2/d8c/a15973" ],
+    [ "npc_prospector_remtravel", "dd/d53/a15977.html", "dd/d53/a15977" ],
+    [ "npc_prospector_remtravel::npc_prospector_remtravelAI", "d1/dd9/a15981.html", "d1/dd9/a15981" ],
+    [ "npc_rabid_thistle_bear", "dc/def/a15985.html", "dc/def/a15985" ],
+    [ "npc_rabid_thistle_bear::npc_rabid_thistle_bearAI", "d6/dfb/a15989.html", "d6/dfb/a15989" ],
+    [ "npc_tharnarian", "dd/d72/a15993.html", "dd/d72/a15993" ],
+    [ "npc_tharnarian::npc_tharnarianAI", "dc/d24/a15997.html", "dc/d24/a15997" ],
+    [ "eRabidThistleBear", "dd/de9/a03590.html#a41f52498613aa16c9300932cba880113", [
+      [ "EVENT_CHECK_FOLLOWING", "dd/de9/a03590.html#a41f52498613aa16c9300932cba880113afc9a5167ea507996052a95d856dfd773", null ],
+      [ "NPC_RABID_THISTLE_BEAR", "dd/de9/a03590.html#a41f52498613aa16c9300932cba880113abcc4c74b391ab174a8afb399448b9d29", null ],
+      [ "NPC_CAPTURED_RABID_THISTLE_BEAR", "dd/de9/a03590.html#a41f52498613aa16c9300932cba880113a82376446e39e8a31814c9a9bdbb072cd", null ],
+      [ "OBJECT_BEAR_TRAP", "dd/de9/a03590.html#a41f52498613aa16c9300932cba880113a582cc04fae035c7d569841f59fc2e7ec", null ],
+      [ "QUEST_PLAGUED_LANDS", "dd/de9/a03590.html#a41f52498613aa16c9300932cba880113a7e08bbd5183ab9db7b82183b0e522ced", null ],
+      [ "SPELL_BEAR_CAPTURED_IN_TRAP", "dd/de9/a03590.html#a41f52498613aa16c9300932cba880113aabd6de46cc001c141b9bb935b6d6e973", null ],
+      [ "SPELL_THARNARIUMS_HEAL", "dd/de9/a03590.html#a41f52498613aa16c9300932cba880113a985068da63d152b57387158a48c3fb60", null ]
     ] ],
-    [ "TaskmasterFizzule", "dd/de9/a03590.html#a75148097e6b48058f314d1f1d4fc4ed0", [
-      [ "FACTION_FRIENDLY_F", "dd/de9/a03590.html#a75148097e6b48058f314d1f1d4fc4ed0a31d50866a36abfe970a3514cb06962ea", null ],
-      [ "SPELL_FLARE", "dd/de9/a03590.html#a75148097e6b48058f314d1f1d4fc4ed0a8046626c29fcfd2e2491ac4f74af6eba", null ],
-      [ "SPELL_FOLLY", "dd/de9/a03590.html#a75148097e6b48058f314d1f1d4fc4ed0a736760d92e40d0f4387af0951d3ef13a", null ]
+    [ "eTharnarian", "dd/de9/a03590.html#a0ed292ffd1cc9307544572174ebb1c8d", [
+      [ "EVENT_POST_QUEST_ONE", "dd/de9/a03590.html#a0ed292ffd1cc9307544572174ebb1c8da8f0c38f6926a9d2ea4c92a385b85576e", null ],
+      [ "EVENT_POST_QUEST_TWO", "dd/de9/a03590.html#a0ed292ffd1cc9307544572174ebb1c8da8a18edfe68309d79d2422870dfeb24fa", null ],
+      [ "EVENT_POST_QUEST_THREE", "dd/de9/a03590.html#a0ed292ffd1cc9307544572174ebb1c8daa0a2f7760b9fc9df9d7b4255b3976abe", null ],
+      [ "ITEM_THARNARIUMS_HOPE", "dd/de9/a03590.html#a0ed292ffd1cc9307544572174ebb1c8dac5c8eb102b15e74d556b069cac6ddc25", null ],
+      [ "GUID_SCRIPT_INVOKER", "dd/de9/a03590.html#a0ed292ffd1cc9307544572174ebb1c8da3d14f447258cd817fac5103e8c4f74f0", null ],
+      [ "SAY_BE_CLEANSED", "dd/de9/a03590.html#a0ed292ffd1cc9307544572174ebb1c8daffaa4db0aeaf6f79c1138ddb1c41ba00", null ]
     ] ],
-    [ "TwiggyFlathead", "dd/de9/a03590.html#aa59efdc816049c3fc44f4f97e12a5658", [
-      [ "NPC_BIG_WILL", "dd/de9/a03590.html#aa59efdc816049c3fc44f4f97e12a5658a52b94fa0523183a46082d10748f5c26e", null ],
-      [ "NPC_AFFRAY_CHALLENGER", "dd/de9/a03590.html#aa59efdc816049c3fc44f4f97e12a5658aa3eb3b7d13bad2106f352684e916714e", null ],
-      [ "SAY_TWIGGY_FLATHEAD_BEGIN", "dd/de9/a03590.html#aa59efdc816049c3fc44f4f97e12a5658a28f41773e448294cb2b7bdb0e2196423", null ],
-      [ "SAY_TWIGGY_FLATHEAD_FRAY", "dd/de9/a03590.html#aa59efdc816049c3fc44f4f97e12a5658a1e039ea737b8aaa19f4293172019e7bd", null ],
-      [ "SAY_TWIGGY_FLATHEAD_DOWN", "dd/de9/a03590.html#aa59efdc816049c3fc44f4f97e12a5658a0a41b6c14d5e6d0fa171a6ce3571243b", null ],
-      [ "SAY_TWIGGY_FLATHEAD_OVER", "dd/de9/a03590.html#aa59efdc816049c3fc44f4f97e12a5658afcef9e183c118b65e0e78c8b503eabaa", null ]
+    [ "Kerlonian", "dd/de9/a03590.html#a3338171c123af20526d919ca7eaed39b", [
+      [ "SAY_KER_START", "dd/de9/a03590.html#a3338171c123af20526d919ca7eaed39babc3ac66a100caa89874b07646256039b", null ],
+      [ "EMOTE_KER_SLEEP", "dd/de9/a03590.html#a3338171c123af20526d919ca7eaed39baded26e804078d12b45f712b505fbf25e", null ],
+      [ "SAY_KER_SLEEP", "dd/de9/a03590.html#a3338171c123af20526d919ca7eaed39bab9c834eabdfaafbe7767d905507ca5ad", null ],
+      [ "SAY_KER_ALERT_1", "dd/de9/a03590.html#a3338171c123af20526d919ca7eaed39ba36911462093829fe884e4cb6a2e127af", null ],
+      [ "SAY_KER_END", "dd/de9/a03590.html#a3338171c123af20526d919ca7eaed39baf7e03539ce3753f881a9dd3e893b7ba3", null ],
+      [ "EMOTE_KER_AWAKEN", "dd/de9/a03590.html#a3338171c123af20526d919ca7eaed39bac2881d53a673452d7258ee2bef83a84f", null ],
+      [ "SPELL_SLEEP_VISUAL", "dd/de9/a03590.html#a3338171c123af20526d919ca7eaed39ba1f4283bc035f04b15b35f91f5bdbea9a", null ],
+      [ "SPELL_AWAKEN", "dd/de9/a03590.html#a3338171c123af20526d919ca7eaed39ba76e1fd225869c359917096a4030f4799", null ],
+      [ "SPELL_BEAR_FORM", "dd/de9/a03590.html#a3338171c123af20526d919ca7eaed39ba3061724d7785d585b14cfc45699157cf", null ],
+      [ "QUEST_SLEEPER_AWAKENED", "dd/de9/a03590.html#a3338171c123af20526d919ca7eaed39ba702550ccecae90a75919e9f9b665d436", null ],
+      [ "NPC_LILADRIS", "dd/de9/a03590.html#a3338171c123af20526d919ca7eaed39bab51082ac5d4aacd1d44e0406af8e5358", null ]
     ] ],
-    [ "Wizzlecrank", "dd/de9/a03590.html#ac43046d19bb8d15ff051d8b88111a24d", [
-      [ "SAY_MERCENARY", "dd/de9/a03590.html#ac43046d19bb8d15ff051d8b88111a24daf5cf9a9b244c85c38bd02b6148fe9217", null ],
-      [ "SAY_START", "dd/de9/a03590.html#ac43046d19bb8d15ff051d8b88111a24da2eae21cbf7d110ee89a9798ef6f00239", null ],
-      [ "SAY_STARTUP1", "dd/de9/a03590.html#ac43046d19bb8d15ff051d8b88111a24da38e6de67604407821fa452a13ee74da2", null ],
-      [ "SAY_STARTUP2", "dd/de9/a03590.html#ac43046d19bb8d15ff051d8b88111a24da23d6a197b8495317fae68ebc5426bfd7", null ],
-      [ "SAY_PROGRESS_1", "dd/de9/a03590.html#ac43046d19bb8d15ff051d8b88111a24dac7ef023ed2cd6e71dcfa4b57f34ffb21", null ],
-      [ "SAY_PROGRESS_2", "dd/de9/a03590.html#ac43046d19bb8d15ff051d8b88111a24da967473f354dae95832b5e82733f4cced", null ],
-      [ "SAY_PROGRESS_3", "dd/de9/a03590.html#ac43046d19bb8d15ff051d8b88111a24da25cbd1006b2e610756fbd3227fb87dcc", null ],
-      [ "SAY_END", "dd/de9/a03590.html#ac43046d19bb8d15ff051d8b88111a24da40884932ffbbf14d6c380b9022bcfe97", null ],
-      [ "QUEST_ESCAPE", "dd/de9/a03590.html#ac43046d19bb8d15ff051d8b88111a24dac283b4a9a83bbf1c8f03006b37d75208", null ],
-      [ "NPC_PILOT_WIZZ", "dd/de9/a03590.html#ac43046d19bb8d15ff051d8b88111a24dabea7d3cfb3795470ea680285a2de300b", null ],
-      [ "NPC_MERCENARY", "dd/de9/a03590.html#ac43046d19bb8d15ff051d8b88111a24da3fe4be631c0b988a493e3867b76fab3f", null ]
+    [ "murkdeep", "dd/de9/a03590.html#a28d336f7a4c4779d0ac960ac128faf22", [
+      [ "NPC_GREYMIST_HUNTER", "dd/de9/a03590.html#a28d336f7a4c4779d0ac960ac128faf22a7baf0aab301c57d676de1ce0f3a36839", null ],
+      [ "NPC_GREYMIST_WARRIOR", "dd/de9/a03590.html#a28d336f7a4c4779d0ac960ac128faf22ab68a89ef67b8c9488015e04f7631d449", null ],
+      [ "NPC_GREYMIST_COASTRUNNER", "dd/de9/a03590.html#a28d336f7a4c4779d0ac960ac128faf22a7ca2c4b7931eee3f66055780c5e0ebac", null ],
+      [ "SPELL_SUNDER_ARMOR", "dd/de9/a03590.html#a28d336f7a4c4779d0ac960ac128faf22a99eaf912c120c7fa6d85748ebf96aebb", null ],
+      [ "SPELL_NET", "dd/de9/a03590.html#a28d336f7a4c4779d0ac960ac128faf22ad629b7c9e5a74890e7d6a77a13a38bcf", null ],
+      [ "EVENT_SPELL_SUNDER_ARMOR", "dd/de9/a03590.html#a28d336f7a4c4779d0ac960ac128faf22acda9c7ee6bb48504f6800c78f59f881a", null ],
+      [ "EVENT_SPELL_NET", "dd/de9/a03590.html#a28d336f7a4c4779d0ac960ac128faf22a3390cb09d109972288a2c865f7ce297d", null ]
     ] ],
-    [ "AddSC_the_barrens", "dd/de9/a03590.html#a89bb85fa847a65b610f6b4d1f9f0214c", null ],
-    [ "AffrayChallengerLoc", "dd/de9/a03590.html#a0e553820217161ed24e533b560f8ab03", null ]
+    [ "Remtravel", "dd/de9/a03590.html#a4a231f21241510908fe1bab1745bec56", [
+      [ "SAY_REM_START", "dd/de9/a03590.html#a4a231f21241510908fe1bab1745bec56a62a229671a25cfaddf81e1a1cc12742d", null ],
+      [ "SAY_REM_AGGRO", "dd/de9/a03590.html#a4a231f21241510908fe1bab1745bec56aed18934bce8f8e8f07d934c5ade27be4", null ],
+      [ "SAY_REM_RAMP1_1", "dd/de9/a03590.html#a4a231f21241510908fe1bab1745bec56a563fab7afb0590de4521bbd73728998b", null ],
+      [ "SAY_REM_RAMP1_2", "dd/de9/a03590.html#a4a231f21241510908fe1bab1745bec56a4e8e2f5b39b89c40c050971d3767a745", null ],
+      [ "SAY_REM_BOOK", "dd/de9/a03590.html#a4a231f21241510908fe1bab1745bec56a965facd3db5184c90115e1a829b99cf0", null ],
+      [ "SAY_REM_TENT1_1", "dd/de9/a03590.html#a4a231f21241510908fe1bab1745bec56ad3345c1e7f8e714d0e9118c1c1ccdb79", null ],
+      [ "SAY_REM_TENT1_2", "dd/de9/a03590.html#a4a231f21241510908fe1bab1745bec56aa157db4b86b4d1de81e174d18934d2dc", null ],
+      [ "SAY_REM_MOSS", "dd/de9/a03590.html#a4a231f21241510908fe1bab1745bec56a538e937677e0f34b53fd87d21dede8bb", null ],
+      [ "EMOTE_REM_MOSS", "dd/de9/a03590.html#a4a231f21241510908fe1bab1745bec56a33b775990c585ad8d13c71081dc3b1c4", null ],
+      [ "SAY_REM_MOSS_PROGRESS", "dd/de9/a03590.html#a4a231f21241510908fe1bab1745bec56a1275f169479aee3e508a7c8cc63528ae", null ],
+      [ "SAY_REM_PROGRESS", "dd/de9/a03590.html#a4a231f21241510908fe1bab1745bec56afe4a0e889c848aa951c477b92846a808", null ],
+      [ "SAY_REM_REMEMBER", "dd/de9/a03590.html#a4a231f21241510908fe1bab1745bec56ac35ea1e7f866d747cbdee9f0d5bb6bac", null ],
+      [ "EMOTE_REM_END", "dd/de9/a03590.html#a4a231f21241510908fe1bab1745bec56a3d07e1988da097fde7e1fb3b569be5ef", null ],
+      [ "QUEST_ABSENT_MINDED_PT2", "dd/de9/a03590.html#a4a231f21241510908fe1bab1745bec56aef8f51392044131efa5c56c2e87b1185", null ],
+      [ "NPC_GRAVEL_SCOUT", "dd/de9/a03590.html#a4a231f21241510908fe1bab1745bec56aed815d857586fe880614e6b84a935d35", null ],
+      [ "NPC_GRAVEL_BONE", "dd/de9/a03590.html#a4a231f21241510908fe1bab1745bec56a720b19c0296bc27aa09d85fc7c020307", null ],
+      [ "NPC_GRAVEL_GEO", "dd/de9/a03590.html#a4a231f21241510908fe1bab1745bec56a33fbb8b046204271ed26d265cbf6c9d3", null ]
+    ] ],
+    [ "AddSC_darkshore", "dd/de9/a03590.html#aea2746bdf2fc046053c962d9025651d1", null ]
 ];

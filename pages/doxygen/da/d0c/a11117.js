@@ -1,5 +1,5 @@
 var a11117 =
 [
-    [ "GuildEventLogQuery", "da/d0c/a11117.html#af66d667a4b722745fa4f855870ef332c", null ],
-    [ "Read", "da/d0c/a11117.html#a48881f116070d5a7c03e7cace86656f6", null ]
+    [ "GuildGetRoster", "da/d0c/a11117.html#a9beccc6ee2416633c57d2da31fdc021a", null ],
+    [ "Read", "da/d0c/a11117.html#af795ad992ec1b55d741227bd2d4a62d1", null ]
 ];

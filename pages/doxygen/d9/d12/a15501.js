@@ -1,5 +1,6 @@
 var a15501 =
 [
-    [ "npc_hive_zara_swarmer", "d9/d12/a15501.html#a374fa63e210e0be8a074af9199126a9e", null ],
-    [ "PathEndReached", "d9/d12/a15501.html#a3b3510bd00853395b756e1d83d96a474", null ]
+    [ "instance_onyxias_lair_InstanceMapScript", "d4/d80/a15505.html", "d4/d80/a15505" ],
+    [ "instance_onyxias_lair", "d9/d12/a15501.html#a1be32e45cb8af86477d300efb6e545cc", null ],
+    [ "GetInstanceScript", "d9/d12/a15501.html#abbdc474ce17bca0cb55180661c5204a8", null ]
 ];

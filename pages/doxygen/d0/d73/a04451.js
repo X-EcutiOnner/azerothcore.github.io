@@ -1,14 +1,9 @@
 var a04451 =
 [
-    [ "ExtraAttackChainProcTest", "d8/d90/a29965.html", "d8/d90/a29965" ],
-    [ "TEST_F", "d0/d73/a04451.html#abc49b8d509a71311b8f4ab364e4da973", null ],
-    [ "TEST_F", "d0/d73/a04451.html#a42dbae4a1b1bebe552097cb6d7192996", null ],
-    [ "TEST_F", "d0/d73/a04451.html#a496682ab03245df2e7c1e539fe7a1b3c", null ],
-    [ "TEST_F", "d0/d73/a04451.html#ae45135f1555115aa04a957f7786ef8eb", null ],
-    [ "TEST_F", "d0/d73/a04451.html#a510139ca0dbe6b263f79cdf71e8f3104", null ],
-    [ "TEST_F", "d0/d73/a04451.html#aca644b360370337d76d0d1f955f4bf91", null ],
-    [ "TEST_F", "d0/d73/a04451.html#a9dbad8c1ef4a5f8cd46f58762938ef28", null ],
-    [ "TEST_F", "d0/d73/a04451.html#ae32b028257e04cd926bd3c20a6a63a02", null ],
-    [ "SPELL_HAND_OF_JUSTICE", "d0/d73/a04451.html#a82bc87ae06a613c804e98c7f1584cebd", null ],
-    [ "SPELL_RECKONING", "d0/d73/a04451.html#a3d5a3ceb207bb46f5ccfce1e6c3e3a48", null ]
+    [ "PeriodicAbsorbStealthProcTest", "d3/d8f/a30041.html", "d3/d8f/a30041" ],
+    [ "TEST_F", "d0/d73/a04451.html#a7b28cb80729f223f6772fd88f7441c0b", null ],
+    [ "TEST_F", "d0/d73/a04451.html#af38e03c4149e38394abfe3d5406f75f1", null ],
+    [ "TEST_F", "d0/d73/a04451.html#afd68d87fc4d1d7cc374fc6b9ff683a15", null ],
+    [ "TEST_F", "d0/d73/a04451.html#a92938638e5fd7cecefeef4d8793fc666", null ],
+    [ "TEST_F", "d0/d73/a04451.html#a21b7dc27da143cb66ebe44eb44b932cc", null ]
 ];

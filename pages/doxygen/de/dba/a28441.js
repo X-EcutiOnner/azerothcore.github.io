@@ -1,5 +1,5 @@
 var a28441 =
 [
-    [ "item_mysterious_egg", "de/dba/a28441.html#ac32e296dcb700f32f6d0296f2921e6c7", null ],
-    [ "OnExpire", "de/dba/a28441.html#a5ea72284626826b75819f89b3b91c540", null ]
+    [ "go_table_theka", "de/dba/a28441.html#a9e25a1c9313437b533e1d88a2db04a58", null ],
+    [ "OnGossipHello", "de/dba/a28441.html#ab04480f032ce074daacdc0dcfa37ee12", null ]
 ];

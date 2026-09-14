@@ -1,7 +1,9 @@
 var a22049 =
 [
-    [ "HandleScript", "d5/d64/a22049.html#a7fec959237546201ea94d5f87068e1c5", null ],
-    [ "PrepareSpellScript", "d5/d64/a22049.html#ae0c3eafc8b227078a2dcaccf1c0a278b", null ],
-    [ "Register", "d5/d64/a22049.html#a0aab07a4950f60a290491aa13103b332", null ],
-    [ "Validate", "d5/d64/a22049.html#a92d5493a43fca5c54ef89cb19ce00aa2", null ]
+    [ "npc_mrfloppyAI", "d5/d64/a22049.html#a2994e5658035bb2cfe6f3cdab4c507fc", null ],
+    [ "EnterEvadeMode", "d5/d64/a22049.html#af0f11f715cac553c772c0dca7e5e3a22", null ],
+    [ "JustEngagedWith", "d5/d64/a22049.html#a490bf07de00cc5c59b5f0024317d8125", null ],
+    [ "MoveInLineOfSight", "d5/d64/a22049.html#af0b376c5f10b6cb43f3bb63376012a0d", null ],
+    [ "Reset", "d5/d64/a22049.html#ac2dc6204b0579e1aaf7e670f0fcb4ec5", null ],
+    [ "UpdateAI", "d5/d64/a22049.html#afad6db1ccd903fd18192f832a10a32f4", null ]
 ];

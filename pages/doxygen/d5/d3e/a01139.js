@@ -1,6 +1,6 @@
 var a01139 =
 [
-    [ "ClientAuthSession", "dd/d86/a11797.html", "dd/d86/a11797" ],
-    [ "AccountInfo", "db/dc8/a06041.html", "db/dc8/a06041" ],
-    [ "compressBuff", "d5/d3e/a01139.html#a3ec87fe2f43cce4ee6bfb90744e72a0d", null ]
+    [ "AccountInfoQueryHolderPerRealm", "d3/d6c/a11789.html", "d3/d6c/a11789" ],
+    [ "REMOVE_VIOLATING_FLAGS", "d5/d3e/a01139.html#a9d7c4eaedbb2a06f275a5f59222bc747", null ],
+    [ "DefaultPlayerName", "d5/d3e/a01139.html#a586e06ca0d339349e13d81197056bb5f", null ]
 ];

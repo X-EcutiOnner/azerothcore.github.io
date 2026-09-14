@@ -1,7 +1,8 @@
 var a09613 =
 [
-    [ "CreatureRelocationNotifier", "d8/d14/a09613.html#aa144cd2c5b69351afd312084c0e97f0d", null ],
-    [ "Visit", "d8/d14/a09613.html#aa69e9bd551895ca3497d1bfbe5fa79ba", null ],
-    [ "Visit", "d8/d14/a09613.html#a8b346c55d80a8ed92afa2e1f591f5807", null ],
-    [ "i_creature", "d8/d14/a09613.html#a3116f6245816ba8fb9edb5995faa9927", null ]
+    [ "V8Type", "d8/d14/a09613.html#a004cbcd4de33cc555da6f6036d735dc0", null ],
+    [ "V9Type", "d8/d14/a09613.html#a3ec26bc3c9f2e579bf920bf169f3a223", null ],
+    [ "gridIntHeightMultiplier", "d8/d14/a09613.html#a626b7ad6821722d17bab6e21db618615", null ],
+    [ "v8", "d8/d14/a09613.html#a8b352fc11c1e705277f8d81b512e3103", null ],
+    [ "v9", "d8/d14/a09613.html#a37d2628b9fd45b5d5a12baa9eb6efc3c", null ]
 ];

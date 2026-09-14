@@ -1,6 +1,6 @@
 var a28233 =
 [
-    [ "go_witherbark_totem_bundleAI", "d2/dfb/a28233.html#a955625e2315008a2e36936d44f825060", null ],
-    [ "UpdateAI", "d2/dfb/a28233.html#af688bab2dc3d938951adb303e8b8d88b", null ],
-    [ "_timer", "d2/dfb/a28233.html#a509e6d8401380c326a0f565a6b903d7a", null ]
+    [ "boss_ysondreAI", "d2/d37/a28237.html", "d2/d37/a28237" ],
+    [ "boss_ysondre", "d2/dfb/a28233.html#ad12dbb728f4f0cdf2f4c0ba9cd2a167d", null ],
+    [ "GetAI", "d2/dfb/a28233.html#a0da215d7bc8ee86216887e682b9335c3", null ]
 ];

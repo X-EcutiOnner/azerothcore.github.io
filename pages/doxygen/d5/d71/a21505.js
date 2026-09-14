@@ -1,12 +1,12 @@
 var a21505 =
 [
-    [ "npc_ichor_globule", "d5/d71/a21505.html#a59443a6748d81ef27a030f8656697fc1", null ],
-    [ "AttackStart", "d5/d71/a21505.html#a1e52599fab1b7e33d958f9815f73c6eb", null ],
-    [ "JustDied", "d5/d71/a21505.html#af740ee64b1f8510b0bacba4bcfe6d418", null ],
-    [ "MoveInLineOfSight", "d5/d71/a21505.html#af14fada689a1a6a780ae44865d16e465", null ],
-    [ "Reset", "d5/d71/a21505.html#a78030360fcd39754744384cdba17fd9e", null ],
-    [ "SpellHit", "d5/d71/a21505.html#a3d1e68f4b809286d57355de7d4482ae6", null ],
-    [ "UpdateAI", "d5/d71/a21505.html#acccc54db59a18e78330011465e109439", null ],
-    [ "_events", "d5/d71/a21505.html#a221c58177666ea1eb4a6b831916297eb", null ],
-    [ "_instance", "d5/d71/a21505.html#a5d56f5468b146ab2f8905b807bb22edc", null ]
+    [ "boss_koralonAI", "d5/d71/a21505.html#a3f5bc42a141011e543d1215eac09dc74", null ],
+    [ "AttackStart", "d5/d71/a21505.html#aa84e6e9a302172e134163cd07ca57864", null ],
+    [ "JustDied", "d5/d71/a21505.html#a102c10792d9e7df61d920b5a43f58e51", null ],
+    [ "JustEngagedWith", "d5/d71/a21505.html#aa7503618dd09e0aebac44394595f4715", null ],
+    [ "Reset", "d5/d71/a21505.html#a0e57ee42e45e55b1a69ac7cb0f1d2666", null ],
+    [ "UpdateAI", "d5/d71/a21505.html#aa944aad2eb68adc917cba743d1e530c7", null ],
+    [ "events", "d5/d71/a21505.html#abc8b9a8759b0e3e95d66c16615f621f5", null ],
+    [ "pInstance", "d5/d71/a21505.html#a4bdea1a9d7e46d4ef71cd43ce969e59c", null ],
+    [ "rotateTimer", "d5/d71/a21505.html#ad4b766094f28e940b0b7971d6dadc277", null ]
 ];

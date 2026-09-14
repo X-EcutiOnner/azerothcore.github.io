@@ -1,7 +1,8 @@
 var a09177 =
 [
-    [ "HealthPctOrderPred", "d7/d41/a09177.html#a5c83c0ba35b9febbe6a62dae63995f97", null ],
-    [ "operator()", "d7/d41/a09177.html#a2c7f4043e5268b13bf0d9f46e9709a9b", null ],
-    [ "operator()", "d7/d41/a09177.html#a23f2dc594fd531d02cd6eae0faa7f6b7", null ],
-    [ "_ascending", "d7/d41/a09177.html#a4c34feefafc014b50ba2869a9bdb9959", null ]
+    [ "CleanDamage", "d7/d41/a09177.html#ad25ab816a679e323c07873efbc1c2f20", null ],
+    [ "absorbed_damage", "d7/d41/a09177.html#a7ba8e32e564b43915889a23ecb9d5297", null ],
+    [ "attackType", "d7/d41/a09177.html#ad9b56ae5faabe67a8fdec8cd5a7988b1", null ],
+    [ "hitOutCome", "d7/d41/a09177.html#a040977b1579b62695b4cbcf0c2ffeaa8", null ],
+    [ "mitigated_damage", "d7/d41/a09177.html#a6aeffc94560ac510c0b89e4384a2f41a", null ]
 ];

@@ -1,9 +1,6 @@
 var a20577 =
 [
-    [ "HandleEffectPeriodic", "d3/dd2/a20577.html#adc6e83abb52a21528c07a1d989818dcf", null ],
-    [ "OnApply", "d3/dd2/a20577.html#ad52977d3bfeca6d2a7127d91eb3d30ab", null ],
-    [ "OnRemove", "d3/dd2/a20577.html#a903e65cc8041f9bd289bb5c6f156fa22", null ],
-    [ "PrepareAuraScript", "d3/dd2/a20577.html#aa85f79f5337edca68b3cb87073eff0d4", null ],
-    [ "Register", "d3/dd2/a20577.html#a2b18c5db95842a6f8959bf9affd357b7", null ],
-    [ "Validate", "d3/dd2/a20577.html#ae88b8bd3e648030df48f6b80cedc4034", null ]
+    [ "FilterTargets", "d3/dd2/a20577.html#af15fc44e9bd5251aa70aaaa6657e0c29", null ],
+    [ "PrepareSpellScript", "d3/dd2/a20577.html#ae0ebd4c2ac0f91da5b2574ee7dac31ec", null ],
+    [ "Register", "d3/dd2/a20577.html#af6704b0789566b2b385ac573eaa50f06", null ]
 ];

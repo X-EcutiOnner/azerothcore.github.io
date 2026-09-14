@@ -1,6 +1,6 @@
 var a26709 =
 [
-    [ "HandleRemove", "d6/d0b/a26709.html#a491765056e8c4d97d9cdaaea9d11a0af", null ],
-    [ "PrepareAuraScript", "d6/d0b/a26709.html#abe5d45b960fda879f48e3e98db9ad4ac", null ],
-    [ "Register", "d6/d0b/a26709.html#ab00f3119d6c1bd1ad185374144f2987e", null ]
+    [ "HandleProc", "d6/d0b/a26709.html#a746a66c768e1987eb3752a41b19b822d", null ],
+    [ "PrepareAuraScript", "d6/d0b/a26709.html#a396023bc98b70b6357630e45a2278afc", null ],
+    [ "Register", "d6/d0b/a26709.html#a6af4e80cf3c88320a6157e986a4b719f", null ]
 ];

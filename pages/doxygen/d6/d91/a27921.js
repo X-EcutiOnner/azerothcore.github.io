@@ -1,7 +1,7 @@
 var a27921 =
 [
-    [ "HandleDummy", "d6/d91/a27921.html#a0eae8fe2faee05bad7a34e84dddd3317", null ],
-    [ "PrepareSpellScript", "d6/d91/a27921.html#a24634405a8d0ccdd22f4832815262446", null ],
-    [ "Register", "d6/d91/a27921.html#a3394b9b9e5899550251d553ac9f77f8a", null ],
-    [ "Validate", "d6/d91/a27921.html#ae56a900b3484fd6397d38c4ad8efe5c2", null ]
+    [ "HandleProc", "d6/d91/a27921.html#a79bcdad48c19c0db70960552f6b4e2d3", null ],
+    [ "PrepareAuraScript", "d6/d91/a27921.html#a760f228c118e9a89a3adc2767290f6f5", null ],
+    [ "Register", "d6/d91/a27921.html#ace2673bc17210f349e47586c0e626dc5", null ],
+    [ "Validate", "d6/d91/a27921.html#acdc499d8cae2de0edcfd2c19319e0175", null ]
 ];

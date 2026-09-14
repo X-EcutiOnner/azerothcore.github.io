@@ -1,19 +1,10 @@
 var a21321 =
 [
-    [ "boss_skadiAI", "d6/d16/a21321.html#a4e9708950b0dda44bd70d77ee9f9de52", null ],
-    [ "DoAction", "d6/d16/a21321.html#ac0513a8e187b3d68fd320b124930ac8b", null ],
-    [ "EnterEvadeMode", "d6/d16/a21321.html#ab6cf2f709b4888b1b4e17c6022d7091f", null ],
-    [ "JustDied", "d6/d16/a21321.html#af963eda18854869f3a73cb22f48b0230", null ],
-    [ "JustEngagedWith", "d6/d16/a21321.html#a2853d557da48decede7baa4845f5573f", null ],
-    [ "JustSummoned", "d6/d16/a21321.html#ac61c732b17b39bdbedf18742b8403c5d", null ],
-    [ "KilledUnit", "d6/d16/a21321.html#af82c5edf85466d9dd5e1dee666231687", null ],
-    [ "Reset", "d6/d16/a21321.html#a7d1287f7a3cc5703a7430a15e769cb2c", null ],
-    [ "SpawnFirstWave", "d6/d16/a21321.html#af65d4bfff98b239f96e50c868b90e08a", null ],
-    [ "UpdateAI", "d6/d16/a21321.html#a05690f147e2c2a584179c19b0a84a1b0", null ],
-    [ "_encounterStarted", "d6/d16/a21321.html#a37c907c5136097497bcb30da4c70d121", null ],
-    [ "_events", "d6/d16/a21321.html#af7fbc8d2c28052f43463897bcb846b25", null ],
-    [ "_firstWaveSummoned", "d6/d16/a21321.html#a1af2048d0d48e8670cdb4957e191f172", null ],
-    [ "_instance", "d6/d16/a21321.html#a34a422dcee2353a888deaac3bab983a4", null ],
-    [ "_phase", "d6/d16/a21321.html#a64808a1b0cee00069a69c050eeb0240e", null ],
-    [ "_summons", "d6/d16/a21321.html#ae02eac33cf9fa64a2d2e20b5e4d8a591", null ]
+    [ "npc_dragonflayer_forge_master", "d6/d16/a21321.html#a642c0fb5a5010c48403b8c3dc8bc14eb", null ],
+    [ "JustDied", "d6/d16/a21321.html#aa107e88bbc5b55a6ece5124c4081706e", null ],
+    [ "JustEngagedWith", "d6/d16/a21321.html#a3dfb76bb5cb13624e0709f1b25414360", null ],
+    [ "Reset", "d6/d16/a21321.html#af2c844c926b94456df796b4252e899c2", null ],
+    [ "dataId", "d6/d16/a21321.html#a35962dcbbef32dbc7f63dfa33cffd4b4", null ],
+    [ "pInstance", "d6/d16/a21321.html#a27b5988d777347832795581b0186c09f", null ],
+    [ "prevDataId", "d6/d16/a21321.html#aa057cb5ae681b4b802031151ea1a3529", null ]
 ];

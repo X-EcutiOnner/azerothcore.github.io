@@ -1,9 +1,23 @@
 var a15653 =
 [
-    [ "npc_claw_tentacle", "d0/d84/a15653.html#a10f1c68d5f49dd1614e7e939498db37b", null ],
-    [ "JustDied", "d0/d84/a15653.html#aa566b417d1b766668133dd1d6a58293f", null ],
-    [ "JustEngagedWith", "d0/d84/a15653.html#a9fbe9b30f973d3c8509ab4bbfcfe5bcc", null ],
-    [ "Reset", "d0/d84/a15653.html#aaf3a3380a33aadc2023d192dfa85cfb2", null ],
-    [ "UpdateAI", "d0/d84/a15653.html#ae7d521445680167add653717c7ae4c86", null ],
-    [ "_portalGUID", "d0/d84/a15653.html#ab979781a8f77267348595cfa17341bae", null ]
+    [ "instance_ruins_of_ahnqiraj_InstanceMapScript", "d0/d84/a15653.html#a1dfadd96c9cc420bb7c90ec8a2d0a1a2", null ],
+    [ "CallNextRajaxxLeader", "d0/d84/a15653.html#a12de9882d8e71f68e7b52e4b3972dca4", null ],
+    [ "GetData", "d0/d84/a15653.html#abe72d94186f5d5b9b97c82ac65f71fd6", null ],
+    [ "GetGuidData", "d0/d84/a15653.html#a8a2c4b3677d8da475d1e5ea035becf15", null ],
+    [ "OnCreatureCreate", "d0/d84/a15653.html#ac2b2bfb3ae426a82affbf363a49049ef", null ],
+    [ "OnCreatureEvade", "d0/d84/a15653.html#af59d38b0842a962b94efcbf9af8e56ca", null ],
+    [ "OnPlayerEnter", "d0/d84/a15653.html#aca8fbf17f8d583c1568a965bdf2b22f4", null ],
+    [ "OnUnitDeath", "d0/d84/a15653.html#afc601fed830c0d8fe63cbf7741ff1c55", null ],
+    [ "ResetRajaxxWaves", "d0/d84/a15653.html#a3a6aa2cc867de4842b10632ea761fb1e", null ],
+    [ "SetData", "d0/d84/a15653.html#a4a9acbb13d81d88674b62aa49ac8a2e3", null ],
+    [ "SetGuidData", "d0/d84/a15653.html#ac8f2440e439654e977d4a9a4b2b50b52", null ],
+    [ "_andorovGUID", "d0/d84/a15653.html#a52168c9369fe1e691378577ea700115c", null ],
+    [ "_buruGUID", "d0/d84/a15653.html#afbf08e65630819d5c60ecaa3d4d5bc42", null ],
+    [ "_buruPhase", "d0/d84/a15653.html#ab8192edc41599ce20cc66efaaba5479a", null ],
+    [ "_kurinnaxxGUID", "d0/d84/a15653.html#af1077bb8af7e756d9d548a4fe3fbd17b", null ],
+    [ "_moamGUID", "d0/d84/a15653.html#a1025fdcd1b84e5d2c4eaa79d918ecd78", null ],
+    [ "_ossirianGUID", "d0/d84/a15653.html#a254a550649a8f806f98d6eb90f593b54", null ],
+    [ "_paralyzedGUID", "d0/d84/a15653.html#abc537534538f78cabf6534371ab090e9", null ],
+    [ "_rajaxWaveCounter", "d0/d84/a15653.html#a010079e135c41de850419149ec2857f3", null ],
+    [ "_rajaxxGUID", "d0/d84/a15653.html#aa92f25482c7c6d2bf7944a080beb858c", null ]
 ];

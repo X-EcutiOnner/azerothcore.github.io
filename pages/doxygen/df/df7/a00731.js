@@ -1,4 +1,4 @@
 var a00731 =
 [
-    [ "ScriptRegistry< AchievementCriteriaScript >", "df/df7/a00731.html#a691565a1335cabfa534300dece8e65e8", null ]
+    [ "ScriptRegistry< AchievementScript >", "df/df7/a00731.html#ac6173262cca5c83f03287161a75446ab", null ]
 ];

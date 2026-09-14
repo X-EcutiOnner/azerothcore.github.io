@@ -1,5 +1,7 @@
 var a28829 =
 [
-    [ "ID", "df/daf/a28829.html#a4f030d8b8b87aff67e0d8319c6b53310", null ],
-    [ "price", "df/daf/a28829.html#a9b81ec4b4638763b738862d6c184e2a9", null ]
+    [ "HandleDummy", "df/daf/a28829.html#ad57b334c7d985a3bda1cb19b81a77ee1", null ],
+    [ "PrepareSpellScript", "df/daf/a28829.html#a550d6e90705745bdb5c4ee02ed1fce4b", null ],
+    [ "Register", "df/daf/a28829.html#a3fda4d652c1264b3cfababdd98297c61", null ],
+    [ "Validate", "df/daf/a28829.html#a2f12e71b9793be8e81011b0cd7583a39", null ]
 ];

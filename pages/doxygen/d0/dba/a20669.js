@@ -1,7 +1,6 @@
 var a20669 =
 [
-    [ "FilterTargets", "d0/dba/a20669.html#a4ea7a7ee257a74c7ae1da47b9a75f852", null ],
-    [ "HandleScript", "d0/dba/a20669.html#a3b5fa94cdc2da133ae0cfaab9f949a57", null ],
-    [ "PrepareSpellScript", "d0/dba/a20669.html#a9e29a54a0c4bbc32b5d9fffe6d34a41d", null ],
-    [ "Register", "d0/dba/a20669.html#a53f90eb4dc7cdeab5bee4ab1a21691ac", null ]
+    [ "boss_kologarn_pit_kill_bunny", "d0/dba/a20669.html#a0ecbc2ae8850d4cfb84f40d2a13f4976", null ],
+    [ "Reset", "d0/dba/a20669.html#afd7482896b66f040b8d57b9b6ac37059", null ],
+    [ "UpdateAI", "d0/dba/a20669.html#ad863666aec3db81f73165148ffc98033", null ]
 ];

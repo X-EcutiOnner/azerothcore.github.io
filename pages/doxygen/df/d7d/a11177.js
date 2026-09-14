@@ -1,7 +1,11 @@
 var a11177 =
 [
-    [ "GuildBankActivate", "df/d7d/a11177.html#a5b27541a26ada694d9635f6d6873ef20", null ],
-    [ "Read", "df/d7d/a11177.html#a8dbde75aaa3102024aa0ff3a8f3625da", null ],
-    [ "Banker", "df/d7d/a11177.html#a9b79075c6ee6a4f73ae18c6956eead7c", null ],
-    [ "FullUpdate", "df/d7d/a11177.html#a50b9a5333e2296e654c90fc6394bdbd3", null ]
+    [ "GuildRankTabPermissions", "d7/d8d/a11181.html", "d7/d8d/a11181" ],
+    [ "GuildPermissionsQueryResults", "df/d7d/a11177.html#aa643af51780fc550f3947936266d54f5", null ],
+    [ "Write", "df/d7d/a11177.html#a4a5937a8daab44b5000a5308ed0be06a", null ],
+    [ "Flags", "df/d7d/a11177.html#a368162426ab526adafc7ecb223fdf865", null ],
+    [ "NumTabs", "df/d7d/a11177.html#ab797ef0f0081c4520a6333afbe6cd5b4", null ],
+    [ "RankID", "df/d7d/a11177.html#a795ba45650991bd5c1aa03c17886d86b", null ],
+    [ "Tab", "df/d7d/a11177.html#ae54eeb1a76f5eeaf4a63bcb58bab3460", null ],
+    [ "WithdrawGoldLimit", "df/d7d/a11177.html#a9d175a8de69f15c3f8eadf237f68e84a", null ]
 ];

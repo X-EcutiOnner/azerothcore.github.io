@@ -1,10 +1,11 @@
 var a14877 =
 [
-    [ "boss_headless_horseman_pumpkin", "d8/de2/a14877.html#a62191ae523401ac57a947db96a245f7a", null ],
-    [ "AttackStart", "d8/de2/a14877.html#a2d7cb1bc5f25f87b1452d6c1267958c4", null ],
-    [ "MoveInLineOfSight", "d8/de2/a14877.html#a212f9803f66d297cd276ef842247776a", null ],
-    [ "Reset", "d8/de2/a14877.html#a9d5f6922a52146b61168f1c50b378294", null ],
-    [ "SpellHit", "d8/de2/a14877.html#a401db237c45efde3a30cdca6cb4f95c0", null ],
-    [ "UpdateAI", "d8/de2/a14877.html#aca53b8839bce5e180ba8583490d694c3", null ],
-    [ "timer", "d8/de2/a14877.html#a1f236cdfeec366f0d830e0fceafa6d25", null ]
+    [ "npc_the_biggest_tree", "d8/de2/a14877.html#a7366f46c4864fa0f1372c920b94c6e97", null ],
+    [ "MoveInLineOfSight", "d8/de2/a14877.html#a572c0b146d461b6a8504163452570954", null ],
+    [ "Reset", "d8/de2/a14877.html#a3fd4c5e522e8945925124426a8ff870b", null ],
+    [ "UpdateAI", "d8/de2/a14877.html#a3d1b33ab7cd28de5438f53a00657170a", null ],
+    [ "orphanGUID", "d8/de2/a14877.html#a36c170fb178a19256fd41fb2cbbb7830", null ],
+    [ "phase", "d8/de2/a14877.html#a7101fe10b15ce1779d3d131e597ef636", null ],
+    [ "playerGUID", "d8/de2/a14877.html#ab39af61d9ab7d9f7210f96b65971654d", null ],
+    [ "timer", "d8/de2/a14877.html#a7525783692c3bc9642f534296b71a5f5", null ]
 ];

@@ -1,11 +1,24 @@
 var a09125 =
 [
-    [ "DispelInfo", "df/d3b/a09125.html#ab6e88e6fc168d22a8b31754a9b1bf2e5", null ],
-    [ "GetDispeller", "df/d3b/a09125.html#a1c6f02de66ffa847c09d19922b02bc20", null ],
-    [ "GetDispellerSpellId", "df/d3b/a09125.html#a0d09f205ff9374fddc694a66ccf0c31d", null ],
-    [ "GetRemovedCharges", "df/d3b/a09125.html#a9c0bd34ebe7d0a0839b7bdee31ef3f3d", null ],
-    [ "SetRemovedCharges", "df/d3b/a09125.html#a3c249e2b70b9f4d8bb3bd9fed07a1bd7", null ],
-    [ "_chargesRemoved", "df/d3b/a09125.html#a5b6105f37470acb57bbda3e14ee664be", null ],
-    [ "_dispellerSpell", "df/d3b/a09125.html#a484e6d516c5de30413e97f2c4abb5515", null ],
-    [ "_dispellerUnit", "df/d3b/a09125.html#ab14d6e0df8bbb89ef0d3550724209040", null ]
+    [ "Totem", "df/d3b/a09125.html#a556c9121978cad2d780ef0c1ba63c28a", null ],
+    [ "~Totem", "df/d3b/a09125.html#a7c7376e438a14b5561049f82650c62c5", null ],
+    [ "GetSpell", "df/d3b/a09125.html#a1454ef318166d69bee1eddcaec73604a", null ],
+    [ "GetTotemDuration", "df/d3b/a09125.html#a588f187bbf8aa0e16b45974610ec593b", null ],
+    [ "GetTotemType", "df/d3b/a09125.html#aa1c94dfcaee2deaef2786e2f4f63b837", null ],
+    [ "InitStats", "df/d3b/a09125.html#a4661c91b5123862fc44e7a290cf70d1f", null ],
+    [ "InitSummon", "df/d3b/a09125.html#aaf87ce98ed8bfc42072228c9e39bfdf6", null ],
+    [ "IsImmunedToSpellEffect", "df/d3b/a09125.html#aaf9666b4de85af2665058bea8a56cca3", null ],
+    [ "SetTotemDuration", "df/d3b/a09125.html#aced4f5c6ff70852083c23fb32cd50a7f", null ],
+    [ "UnSummon", "df/d3b/a09125.html#ab127e1cc25ef8878b9a44cb0eb080523", null ],
+    [ "Update", "df/d3b/a09125.html#aa44d1386a44ade821cc6dfe5caee9b90", null ],
+    [ "UpdateAllStats", "df/d3b/a09125.html#a515d54b852bbedf597f9f69cb7c0982b", null ],
+    [ "UpdateArmor", "df/d3b/a09125.html#a0b587243be09d58f5693570933680bff", null ],
+    [ "UpdateAttackPowerAndDamage", "df/d3b/a09125.html#a8a18cacf85203a6918dcdbe19fcde850", null ],
+    [ "UpdateDamagePhysical", "df/d3b/a09125.html#afbef34893575beb29356634a140bce62", null ],
+    [ "UpdateMaxHealth", "df/d3b/a09125.html#a01f507b7699f92e90b5601280408ba76", null ],
+    [ "UpdateMaxPower", "df/d3b/a09125.html#af0a51bf3565114ba84fd8fcad93170ad", null ],
+    [ "UpdateResistances", "df/d3b/a09125.html#aa65b8427a4cd938312ac4d9d4ab54f69", null ],
+    [ "UpdateStats", "df/d3b/a09125.html#a9c417b6be9a58cda23250067f6cadbcc", null ],
+    [ "m_duration", "df/d3b/a09125.html#a0bff976b49617405869ac7f2416e0ca1", null ],
+    [ "m_type", "df/d3b/a09125.html#a7e31af10f1ff0e854941e3a44254d139", null ]
 ];

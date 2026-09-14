@@ -1,6 +1,6 @@
 var a16073 =
 [
-    [ "SpellId", "d6/d38/a16073.html#a2c430be201c1fd866ee96224f1803a20", null ],
-    [ "Timer1", "d6/d38/a16073.html#a9a35c148286e88f48b174be8b74fc5d0", null ],
-    [ "Timer2", "d6/d38/a16073.html#a108dee679b1f5d9fb8351f7b4b4f3a56", null ]
+    [ "npc_bunthen_plainswind", "d6/d38/a16073.html#ad9b789ad3e958dee4733b142813b6302", null ],
+    [ "OnGossipHello", "d6/d38/a16073.html#ae2fe8bfb957dd8ea84d2585293c3b6eb", null ],
+    [ "OnGossipSelect", "d6/d38/a16073.html#a117f28d513ac645b9d3d908d052d2146", null ]
 ];

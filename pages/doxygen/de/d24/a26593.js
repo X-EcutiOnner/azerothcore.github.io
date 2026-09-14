@@ -1,8 +1,9 @@
 var a26593 =
 [
-    [ "CheckProc", "de/d24/a26593.html#a801610a9f9fae5cb711850254b291268", null ],
-    [ "HandleProc", "de/d24/a26593.html#a3f6a53421c7c4b9346d98aa51c4ccd6d", null ],
-    [ "PrepareAuraScript", "de/d24/a26593.html#ad08915b0c7f35bef76ddd05a62add43c", null ],
-    [ "Register", "de/d24/a26593.html#a8626318b6f9b35a8b1c116062618b3c0", null ],
-    [ "Validate", "de/d24/a26593.html#a8a3abd528fda4aab149fb7f6e5eae00d", null ]
+    [ "HandleAfterCast", "de/d24/a26593.html#afd2fbc51ac1e99789994021af36688f3", null ],
+    [ "HandleTriggerSpell", "de/d24/a26593.html#ae140ab00101f081454b55e12a7c54440", null ],
+    [ "Load", "de/d24/a26593.html#a3dbb3541f0ec3f614d1f18fd92f9bc03", null ],
+    [ "PrepareSpellScript", "de/d24/a26593.html#a7fd1a83dd49cee4f52913a40caf3ef88", null ],
+    [ "Register", "de/d24/a26593.html#a3e9d0ff0bd71ea6d87fb9a7edcfa9a1c", null ],
+    [ "_triggerSpellId", "de/d24/a26593.html#a9a3efd5cf45d15cf8112a82d33dca731", null ]
 ];

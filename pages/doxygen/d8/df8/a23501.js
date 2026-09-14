@@ -1,6 +1,9 @@
 var a23501 =
 [
-    [ "HandlePeriodic", "d8/df8/a23501.html#af6c30bb292a69d5eaaaf75c8a76111ea", null ],
-    [ "PrepareAuraScript", "d8/df8/a23501.html#a75515896f3d94d227963a3c5258e2d0d", null ],
-    [ "Register", "d8/df8/a23501.html#aeacb1ffc287cc7128366ee0484c2994b", null ]
+    [ "boss_mennu_the_betrayer", "d8/df8/a23501.html#a3f881a89d1da70d066ce9a3fe0b29a3e", null ],
+    [ "JustDied", "d8/df8/a23501.html#acf87c54cc2a3ee5c8378ef40553ab51c", null ],
+    [ "JustEngagedWith", "d8/df8/a23501.html#a535b9af1677b8af50515818a18e88d27", null ],
+    [ "JustSummoned", "d8/df8/a23501.html#a59949872270890ef794a77029074210b", null ],
+    [ "KilledUnit", "d8/df8/a23501.html#a1a55fb7f1dacc5e514e71901d66bd35e", null ],
+    [ "Reset", "d8/df8/a23501.html#a6f0043e73a55cd1cccae22a806d702ea", null ]
 ];

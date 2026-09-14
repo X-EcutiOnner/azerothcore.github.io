@@ -1,7 +1,6 @@
 var a04418 =
 [
-    [ "anonymous_namespace{GmVisibleCommandTest.cpp}::TestVisibilityScript", "db/d64/a29901.html", "db/d64/a29901" ],
-    [ "anonymous_namespace{GmVisibleCommandTest.cpp}::GmVisibleCommandTest", "d7/d50/a29905.html", "d7/d50/a29905" ],
-    [ "TEST_F", "d3/d74/a04418.html#ab69ef1935950dc8de0cefd60510d681d", null ],
-    [ "TEST_F", "d3/d74/a04418.html#af70d9dbfad6d1852aa5b7ea680a70928", null ]
+    [ "IntegrationTestFixture", "d3/d0a/a29729.html", "d3/d0a/a29729" ],
+    [ "TEST_FACTION_HOSTILE_TO_ALL", "d3/d74/a04418.html#a2ba0fc21bd7fc2eb0be55b83f098c883", null ],
+    [ "TEST_FACTION_HOSTILE_TO_MONSTERS", "d3/d74/a04418.html#af72a10157e381ef81a175a8ac4844d73", null ]
 ];

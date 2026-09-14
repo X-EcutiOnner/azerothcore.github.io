@@ -1,6 +1,10 @@
 var a17425 =
 [
-    [ "boss_garfrostAI", "db/da8/a17429.html", "db/da8/a17429" ],
-    [ "boss_garfrost", "d0/d44/a17425.html#ac116491cf252ee476cedee55ea292827", null ],
-    [ "GetAI", "d0/d44/a17425.html#a8a67bb09249655a8706868bb26b5124d", null ]
+    [ "boss_frostsworn_general", "d0/d44/a17425.html#adae1b1d60e78a33b875ac08312a454cf", null ],
+    [ "EnterEvadeMode", "d0/d44/a17425.html#a20949ffa7c4a308fbcafbdec6602e623", null ],
+    [ "JustDied", "d0/d44/a17425.html#a14741cafce857fa819418ec3208c62fc", null ],
+    [ "JustEngagedWith", "d0/d44/a17425.html#aaeb45f61ee90fc231e893bc83a01e2ff", null ],
+    [ "Reset", "d0/d44/a17425.html#a1576562e5fe2247235b152029aa8edce", null ],
+    [ "UpdateAI", "d0/d44/a17425.html#ab1378c39cdfeccda862a4ccc093ffd97", null ],
+    [ "instance", "d0/d44/a17425.html#ab04347cee4d7542171d622cfde936cb1", null ]
 ];

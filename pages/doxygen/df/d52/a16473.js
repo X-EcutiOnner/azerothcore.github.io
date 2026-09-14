@@ -1,7 +1,9 @@
 var a16473 =
 [
-    [ "OnRemove", "df/d52/a16473.html#afb0821bc8774e634eefdd87efe6af945", null ],
-    [ "PrepareAuraScript", "df/d52/a16473.html#a54b1de501bdf3193cdb89125bc1ceb0e", null ],
-    [ "Register", "df/d52/a16473.html#a985ad6d7eca06fbaf869e591136f46a3", null ],
-    [ "Validate", "df/d52/a16473.html#aa794b76c4d9590b867dda57f02724d95", null ]
+    [ "npc_anub_ar_crusher", "df/d52/a16473.html#a0520d606e8f8fa6f2c1262e025ea2c1c", null ],
+    [ "DamageTaken", "df/d52/a16473.html#a4fa72bcf368ddc6e8bb4cd986fa50cd2", null ],
+    [ "DoEngagedWith", "df/d52/a16473.html#a70238afe4b9ae58b99067581db6734c8", null ],
+    [ "DoEvent", "df/d52/a16473.html#ac20630563a1869f56f538968cb8bb1ea", null ],
+    [ "JustDied", "df/d52/a16473.html#a66dc8cb3dc096dc0aa5b464879773df7", null ],
+    [ "_hadFrenzy", "df/d52/a16473.html#a0e3c9d35a654e82d5f845b820de2a9a1", null ]
 ];

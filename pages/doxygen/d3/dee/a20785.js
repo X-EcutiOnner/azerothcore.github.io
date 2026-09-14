@@ -1,7 +1,6 @@
 var a20785 =
 [
-    [ "go_razorscale_harpoonAI", "dc/de2/a20789.html", "dc/de2/a20789" ],
-    [ "go_razorscale_harpoon", "d3/dee/a20785.html#a68e5414333ca5ed4ec2de2da5f1756d4", null ],
-    [ "GetAI", "d3/dee/a20785.html#a89a25716733ed0f589ce50eab8466453", null ],
-    [ "OnGossipHello", "d3/dee/a20785.html#ac6ea67384010725c56daab8c4f58c7ff", null ]
+    [ "HandlePeriodic", "d3/dee/a20785.html#ab3f6a58bcea3fc75ccbac99cd911e7f8", null ],
+    [ "PrepareAuraScript", "d3/dee/a20785.html#a09d6fccb19df088780c5baa0ef656da7", null ],
+    [ "Register", "d3/dee/a20785.html#abbf60dac3d36d0833e6509aac83f2b49", null ]
 ];

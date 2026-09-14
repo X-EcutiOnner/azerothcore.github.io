@@ -1,8 +1,5 @@
 var a09013 =
 [
-    [ "checkLeaderOnly", "de/d68/a09013.html#ade8f2e22abe69a9a32085e4d901bc83b", null ],
-    [ "faction", "de/d68/a09013.html#a23c649e494795b27856b67225370a820", null ],
-    [ "id", "de/d68/a09013.html#a5d5b8f6fe0bfc5ae98c2fb10e3a18360", null ],
-    [ "note", "de/d68/a09013.html#a0e800dd8869fedbe71e5b14aa3c79d8a", null ],
-    [ "priority", "de/d68/a09013.html#a3a66018ae4e7a7e755962f1edae58d29", null ]
+    [ "Rank", "de/d68/a09013.html#a61797c7cb799308a7c20a954d287be17", null ],
+    [ "SkillId", "de/d68/a09013.html#a3f28221b1c8e91bf9f2fa6337e81c952", null ]
 ];

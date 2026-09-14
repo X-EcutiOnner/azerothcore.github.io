@@ -1,5 +1,4 @@
 var a29357 =
 [
-    [ "id", "d3/dbb/a29357.html#a22e48015dd880199e131089e35b1ce05", null ],
-    [ "spellId", "d3/dbb/a29357.html#a956d683b42f34eae3a1ea3f8882716fd", null ]
+    [ "ID", "d3/dbb/a29357.html#a11f792510d9749f99371234b15a45beb", null ]
 ];

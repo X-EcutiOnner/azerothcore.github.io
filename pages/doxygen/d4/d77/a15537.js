@@ -1,7 +1,5 @@
 var a15537 =
 [
-    [ "boss_kurinnaxx", "d4/d77/a15537.html#aa8b471e6239080b2a5f70e50e07a9621", null ],
-    [ "InitializeAI", "d4/d77/a15537.html#a0e249007d5bf29eb0cff307045ef9eb3", null ],
-    [ "JustDied", "d4/d77/a15537.html#adb749c8737888a099ad7a3d58292a612", null ],
-    [ "JustEngagedWith", "d4/d77/a15537.html#a451cd7ee80b0428a199c33012562bdb3", null ]
+    [ "npc_idol_room_spawnerAI", "d4/d77/a15537.html#a77c4aa88d213271166158c8e75d41a69", null ],
+    [ "SetData", "d4/d77/a15537.html#aa0626c837086b4a275f4d51d1659a242", null ]
 ];

@@ -1,6 +1,6 @@
 var a25185 =
 [
-    [ "OnPeriodic", "dd/d77/a25185.html#a5fdf44f34765d0386d5c5490620c944a", null ],
-    [ "PrepareAuraScript", "dd/d77/a25185.html#a3c3044795e183eef2c801781100b11c7", null ],
-    [ "Register", "dd/d77/a25185.html#a1221c3287c3fd7add356e84430508684", null ]
+    [ "CheckProc", "dd/d77/a25185.html#af742bdfd97c9202d50ed7aa1cf8e7d49", null ],
+    [ "PrepareAuraScript", "dd/d77/a25185.html#a255a58ad99059ba28ab09a94e7cc683a", null ],
+    [ "Register", "dd/d77/a25185.html#a4ec4dd2342a5b75c975dc6ffe0b02b79", null ]
 ];

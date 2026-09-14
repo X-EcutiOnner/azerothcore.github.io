@@ -1,7 +1,11 @@
 var a20309 =
 [
-    [ "HandleScript", "de/dfd/a20309.html#a84a4d92a5dff57f612d3e45db41010d3", null ],
-    [ "PrepareSpellScript", "de/dfd/a20309.html#adc3bb6bd763905857d84ccaf456b3a2f", null ],
-    [ "Register", "de/dfd/a20309.html#a04a5b3a4f768200d74f4641508633d35", null ],
-    [ "Validate", "de/dfd/a20309.html#a78074b5b64b1ee5dfaab812f6c72bb9b", null ]
+    [ "npc_freya_ward", "de/dfd/a20309.html#aeb5b3a3495622b05faf41d2ec0a82e3f", null ],
+    [ "DoAction", "de/dfd/a20309.html#ac52ff5e24ff5361808fce4d8d1574ada", null ],
+    [ "JustSummoned", "de/dfd/a20309.html#a71cd4c583a1f33168d12bbe473d0482e", null ],
+    [ "Reset", "de/dfd/a20309.html#a134ff84f2cfa3a00cdd6158da6641369", null ],
+    [ "SummonedCreatureDespawn", "de/dfd/a20309.html#a20fde559565c47f4451581e5d1a61e99", null ],
+    [ "UpdateAI", "de/dfd/a20309.html#a62122abe02ae9351617eb3af9e36e88e", null ],
+    [ "_castTimer", "de/dfd/a20309.html#afe313ebbc5c711183a9e623d8213ae64", null ],
+    [ "summons", "de/dfd/a20309.html#abf3d2443c9badc35097b6e5c818f1c88", null ]
 ];

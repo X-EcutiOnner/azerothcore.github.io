@@ -1,11 +1,7 @@
 var a24737 =
 [
-    [ "CalcPeriodic", "d3/d35/a24737.html#a8dfb6d67b57e4ff0bd15e49c36d4ec2d", null ],
-    [ "CalculateAPAmount", "d3/d35/a24737.html#ab23f26c3470f629f0a20f28faf272a68", null ],
-    [ "CalculateHealthAmount", "d3/d35/a24737.html#a4f827a906ac279e143ba8545545090ad", null ],
-    [ "CalculateSPAmount", "d3/d35/a24737.html#ae94493ffed217a218e21c05e002cec00", null ],
-    [ "HandleEffectApply", "d3/d35/a24737.html#acaa3bd6385b05101cad38d4f0738b9d8", null ],
-    [ "HandlePeriodic", "d3/d35/a24737.html#ac5a656d4fa474b1d0c82af7613bcac10", null ],
-    [ "PrepareAuraScript", "d3/d35/a24737.html#a5052689d815e0a0543693b39b7454deb", null ],
-    [ "Register", "d3/d35/a24737.html#a3226edbe6b24a827f2ef28ccfb815b7a", null ]
+    [ "HandleDummy", "d3/d35/a24737.html#a54f7f56a9122b623855eb9d11e34dfca", null ],
+    [ "PrepareSpellScript", "d3/d35/a24737.html#a2fe4b009fa3741c180e18730af5853e3", null ],
+    [ "Register", "d3/d35/a24737.html#a762c2320ab8d48e1284d81962a4b078f", null ],
+    [ "Validate", "d3/d35/a24737.html#a42fbc381d7ae89f1ac265fb15ebd864f", null ]
 ];

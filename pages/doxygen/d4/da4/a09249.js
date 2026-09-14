@@ -1,7 +1,6 @@
 var a09249 =
 [
-    [ "EquipementIdPrev", "d4/da4/a09249.html#a719c716f8914a200bfde4f5bb3275f26", null ],
-    [ "EquipmentId", "d4/da4/a09249.html#af7f6e5bbb8327e5abf4e17a8a164cc4d", null ],
-    [ "ModelId", "d4/da4/a09249.html#ade2b2413020be410428b9fee9aa284d6", null ],
-    [ "ModelIdPrev", "d4/da4/a09249.html#a9de7aa11788b22692738b72718193057", null ]
+    [ "BuildValuesCachedBuffer", "d4/da4/a09249.html#a87a3167ae060c8556700e4a137294053", null ],
+    [ "buffer", "d4/da4/a09249.html#add7150533a48434b0e606add9cff04d2", null ],
+    [ "posPointers", "d4/da4/a09249.html#affa098684782f15383a7df063b178cf1", null ]
 ];

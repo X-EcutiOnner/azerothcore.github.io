@@ -1,8 +1,6 @@
 var a25573 =
 [
-    [ "OnApply", "dd/d19/a25573.html#acf25199409ab6f991db15a784749aaf1", null ],
-    [ "OnRemove", "dd/d19/a25573.html#a700513c27a2ae22581bbc61c8c4b523a", null ],
-    [ "PrepareAuraScript", "dd/d19/a25573.html#ae6f93ab542d8f05a95745d7b10d1856a", null ],
-    [ "Register", "dd/d19/a25573.html#a9332cb72f66e83f648b4ed02c8c074eb", null ],
-    [ "Validate", "dd/d19/a25573.html#a09017d12ecf0ae0c3091cea17640782c", null ]
+    [ "HandleScriptEffect", "dd/d19/a25573.html#a78a131bdf6a1406604edd130c28d664b", null ],
+    [ "PrepareSpellScript", "dd/d19/a25573.html#a3b2d739227e57667a284ae4600ec1bb6", null ],
+    [ "Register", "dd/d19/a25573.html#a8a70913369aa733160366f37ff1c3470", null ]
 ];

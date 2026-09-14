@@ -1,7 +1,8 @@
 var a25813 =
 [
-    [ "HandleProc", "d1/d5e/a25813.html#a202ed9cca388b984f0dfebb64a512c47", null ],
-    [ "PrepareAuraScript", "d1/d5e/a25813.html#a133ff30c99bd6521d83e2de2361a5123", null ],
-    [ "Register", "d1/d5e/a25813.html#a6cab1853296da43b4a4cb39bedb20ffa", null ],
-    [ "Validate", "d1/d5e/a25813.html#a39b41d1560869ef9a1231fd39d0a652f", null ]
+    [ "HandlePeriodic", "d1/d5e/a25813.html#acba5d68c19e68361c088e50f9b831bff", null ],
+    [ "HandleUpdatePeriodic", "d1/d5e/a25813.html#af27c6dfccb12f1ba52d170da5d9228f9", null ],
+    [ "PrepareAuraScript", "d1/d5e/a25813.html#a8fa9d7c1f8e95c2e50bd2178f4f58c04", null ],
+    [ "Register", "d1/d5e/a25813.html#a2be03ae04a562b2c908fcdb0c052ca5f", null ],
+    [ "Validate", "d1/d5e/a25813.html#ab467c3b759ac1e276d6a4815d20f5ff0", null ]
 ];

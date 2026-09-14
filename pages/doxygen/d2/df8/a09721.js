@@ -1,10 +1,9 @@
 var a09721 =
 [
-    [ "AnyDeadUnitSpellTargetInRangeCheck", "d2/df8/a09721.html#a212c308a02716ff382e820e86e233ed3", null ],
-    [ "operator()", "d2/df8/a09721.html#af328df880d17a62e2dbed0ff4231fc39", null ],
-    [ "operator()", "d2/df8/a09721.html#adcc69b9ef03a68aa235e40449a80b701", null ],
-    [ "operator()", "d2/df8/a09721.html#a2f2483cf7078681cb3acf28560e61184", null ],
-    [ "operator()", "d2/df8/a09721.html#aba0bf4c320a684b68743a06e724a369e", null ],
-    [ "i_check", "d2/df8/a09721.html#aa2223ad31acf47a1608ded6b5cbc2f03", null ],
-    [ "i_spellInfo", "d2/df8/a09721.html#afeb889f6cee596b2c2229f86e0a8a3f1", null ]
+    [ "UnitListSearcher", "d2/df8/a09721.html#a24c0de32dc3baa927962626421a343ae", null ],
+    [ "Visit", "d2/df8/a09721.html#a83d86364ef2f9f9ed55b9bf9aa9bea0d", null ],
+    [ "Visit", "d2/df8/a09721.html#a92f9b0407e609b6c61f10d93aa49912f", null ],
+    [ "Visit", "d2/df8/a09721.html#a5fddd281a9f9cd10cf3948d4bf7b626f", null ],
+    [ "i_check", "d2/df8/a09721.html#a508a47e6261e7ae6e5669aee853ff99e", null ],
+    [ "i_phaseMask", "d2/df8/a09721.html#a43c863350bea423cf4a720c4c680fd4c", null ]
 ];

@@ -1,11 +1,6 @@
 var a15881 =
 [
-    [ "npc_stillpine_capitiveAI", "d2/dc0/a15881.html#a98560e7fc360dbfa3166805d9ab3feb4", null ],
-    [ "MovementInform", "d2/dc0/a15881.html#a1e930b49da85a64aa87ba79b5fe72391", null ],
-    [ "Reset", "d2/dc0/a15881.html#a9c884f892e64044057d477bdc0f89eed", null ],
-    [ "StartMoving", "d2/dc0/a15881.html#a2552a79cf384cca1203afa7f241c1cb9", null ],
-    [ "UpdateAI", "d2/dc0/a15881.html#a25dc06767382b5fee2a7098b58726fb2", null ],
-    [ "_events", "d2/dc0/a15881.html#a93dd55d392836d8d085e34293344b700", null ],
-    [ "_movementComplete", "d2/dc0/a15881.html#ae8e39ca782aee412e39d65a33d14014e", null ],
-    [ "_playerGUID", "d2/dc0/a15881.html#a3fe9a4f01aebb602095d60eb606ce763", null ]
+    [ "instance_wailing_caverns_InstanceMapScript", "d2/dbe/a15885.html", "d2/dbe/a15885" ],
+    [ "instance_wailing_caverns", "d2/dc0/a15881.html#a906f59c39f59237e9eedb479dfc7d825", null ],
+    [ "GetInstanceScript", "d2/dc0/a15881.html#a0f1020e86443d6902b3c4d8726f3e610", null ]
 ];

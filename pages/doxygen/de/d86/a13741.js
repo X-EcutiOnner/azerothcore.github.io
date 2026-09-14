@@ -1,7 +1,8 @@
 var a13741 =
 [
-    [ "CorruptTriggers", "de/d86/a13741.html#a225cafcce56db7d4aefd3fb75ed2533f", null ],
-    [ "Execute", "de/d86/a13741.html#a9929f3518f307e0b753782967f06c6c1", null ],
-    [ "_caster", "de/d86/a13741.html#a2b9e4c3d292b7e3deea57e1542b3ba12", null ],
-    [ "_currentLane", "de/d86/a13741.html#a53e4c60e29f59aa91e059d50e470a22a", null ]
+    [ "npc_madrigosa", "de/d86/a13741.html#a7624e25e00c1e7505ba171d0be40beb3", null ],
+    [ "DoAction", "de/d86/a13741.html#aaf481ec840e679a9633bd3ecdb4eb3df", null ],
+    [ "UpdateAI", "de/d86/a13741.html#a3431d13ea4ebd97d3fc6e542f89e033d", null ],
+    [ "events", "de/d86/a13741.html#a5859e4c8454371eb71740616d4763c0e", null ],
+    [ "instance", "de/d86/a13741.html#a09525d3bb35d1da4246bd84bbadea304", null ]
 ];

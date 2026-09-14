@@ -1,5 +1,7 @@
 var a22517 =
 [
-    [ "achievement_wg_didnt_stand_a_chance", "dc/d14/a22517.html#afb397c74f00d1f5c59a24ef74b0cd1cd", null ],
-    [ "OnCheck", "dc/d14/a22517.html#ae575bae454689e05c161e8480a13fa18", null ]
+    [ "npc_wg_demolisher_engineer", "dc/d14/a22517.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
+    [ "canBuild", "dc/d14/a22517.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
+    [ "OnGossipHello", "dc/d14/a22517.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
+    [ "OnGossipSelect", "dc/d14/a22517.html#a3ecf69f45918bef0cb51023327ac9693", null ]
 ];

@@ -1,6 +1,6 @@
 var a01757 =
 [
-    [ "PowerDisplayIds", "db/dc0/a01757.html#a2a1d6e73821add3e7e5b938d98a2da6c", [
-      [ "POWER_DISPLAY_PYRITE", "db/dc0/a01757.html#a2a1d6e73821add3e7e5b938d98a2da6cac3baae94e200736bc1956130583c20d8", null ]
-    ] ]
+    [ "GenerateEnchSuffixFactor", "db/dc0/a01757.html#a25026e783b088b45eebd4db8295b1b87", null ],
+    [ "GetItemEnchantMod", "db/dc0/a01757.html#a76d03c9ceb2d3ac35582eaea4624544f", null ],
+    [ "LoadRandomEnchantmentsTable", "db/dc0/a01757.html#a376fabf7bba54eaf928217f860f1c33b", null ]
 ];

@@ -1,4 +1,7 @@
 var a08001 =
 [
-    [ "TryConsume", "d5/d1a/a08001.html#a0fa36d8fd2dc6a74e2b2a15787a33969", null ]
+    [ "CommandPermissions", "d5/d1a/a08001.html#ad1242d9067778298c44501b5d5a962f8", null ],
+    [ "CommandPermissions", "d5/d1a/a08001.html#a47f284c63f10b6c3479624845b696aa6", null ],
+    [ "AllowConsole", "d5/d1a/a08001.html#a8b419033e8dff0307a22a32bc57a1dc8", null ],
+    [ "RequiredLevel", "d5/d1a/a08001.html#a4918f2c3b1913eb76d09d859479ebbae", null ]
 ];

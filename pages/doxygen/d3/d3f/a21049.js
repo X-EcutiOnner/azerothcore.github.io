@@ -1,11 +1,15 @@
 var a21049 =
 [
-    [ "boss_yoggsaron_voice", "d3/d3f/a21049.html#ae9baa030c275b7f80d084f4e5d44aed2", null ],
-    [ "DoAction", "d3/d3f/a21049.html#a094522e81d1d19de660b75fb06ea4224", null ],
-    [ "Reset", "d3/d3f/a21049.html#a05a59e5c1e05f40fed219a2927e8006d", null ],
-    [ "SpellHitTarget", "d3/d3f/a21049.html#aae3b82dbb871f0f297bdacf975958492", null ],
-    [ "UpdateAI", "d3/d3f/a21049.html#aa3570bf74b7caee5dcf844853a73d7e5", null ],
-    [ "_current", "d3/d3f/a21049.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b", null ],
-    [ "_targets", "d3/d3f/a21049.html#a52bf7b9b560f600b5b3647fefb3830bf", null ],
-    [ "events", "d3/d3f/a21049.html#abd4829f72aea74d3f9be6df3e40b08b5", null ]
+    [ "boss_yoggsaron_cloud", "d3/d3f/a21049.html#a4efbeab85d5770784f1474176a23fd74", null ],
+    [ "AttackStart", "d3/d3f/a21049.html#a280ad77f30f06c01ee16434794814767", null ],
+    [ "DoAction", "d3/d3f/a21049.html#ad7452d20420fc1fc30088e455a9cdfc3", null ],
+    [ "InitWaypoint", "d3/d3f/a21049.html#a390c25b21c29aafb616bd2c827352ffe", null ],
+    [ "JustSummoned", "d3/d3f/a21049.html#a2c321419548e8ce151d639c3fbd7b1b4", null ],
+    [ "MoveInLineOfSight", "d3/d3f/a21049.html#a798009bca30677a645529b1313cc89ae", null ],
+    [ "Reset", "d3/d3f/a21049.html#ad548ae65a05f600487a57899760ebab0", null ],
+    [ "UpdateEscortAI", "d3/d3f/a21049.html#aba8043fca75864e583da9c5167efce3b", null ],
+    [ "WaypointReached", "d3/d3f/a21049.html#aae9f3ac55a3008fcc88d78c907056827", null ],
+    [ "WaypointReached", "d3/d3f/a21049.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_checkTimer", "d3/d3f/a21049.html#aa6fda2f2b1d3405bd1aca66e37abbcd8", null ],
+    [ "_isSummoning", "d3/d3f/a21049.html#a339bf4c5ef6449d42aa3c36759a99aa4", null ]
 ];

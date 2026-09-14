@@ -1,12 +1,6 @@
 var a21521 =
 [
-    [ "boss_xevozz", "db/da4/a21521.html#aea402ffbe689ca65e29b30899862a8bc", null ],
-    [ "EnterEvadeMode", "db/da4/a21521.html#afe4aa509ca6d43bf3470d32efeeb17ba", null ],
-    [ "ExecuteEvent", "db/da4/a21521.html#af5b37fc643f2b22468a38655fce63d25", null ],
-    [ "JustDied", "db/da4/a21521.html#af36accd2adb29ebb72fe6a925c4e361e", null ],
-    [ "JustEngagedWith", "db/da4/a21521.html#ae5d74a07c5bf3e2c12e4ce8b34331f98", null ],
-    [ "JustSummoned", "db/da4/a21521.html#a17f1b1cacb7191b11053e75e0ff9b584", null ],
-    [ "KilledUnit", "db/da4/a21521.html#a9f50d1d57b0dc8f8844e90e8f2433726", null ],
-    [ "MoveInLineOfSight", "db/da4/a21521.html#a4afdf09e7b8ebf54bdd2546337960a1d", null ],
-    [ "SummonedCreatureDespawn", "db/da4/a21521.html#a1493a5acdfcca7d01446564db622239e", null ]
+    [ "boss_toravonAI", "d4/d85/a21525.html", "d4/d85/a21525" ],
+    [ "boss_toravon", "db/da4/a21521.html#abd30a86924bd7dd9474b5df16f3a8d8d", null ],
+    [ "GetAI", "db/da4/a21521.html#a6db140b1d232312300e20155830cb249", null ]
 ];

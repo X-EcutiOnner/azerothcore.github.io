@@ -1,8 +1,11 @@
 var a20929 =
 [
-    [ "OnPeriodic", "de/d0b/a20929.html#aa49d1186ca6f5cdd628728a8a30c06a0", null ],
-    [ "OnRemove", "de/d0b/a20929.html#ad3a81506d71ed3d6ddffce7d8f902eb4", null ],
-    [ "PrepareAuraScript", "de/d0b/a20929.html#a63b654cf540e331e4d2b4f4ece5c1fcc", null ],
-    [ "Register", "de/d0b/a20929.html#a004ba2e0e83a14bef3cae208a45f222b", null ],
-    [ "Validate", "de/d0b/a20929.html#aa56622a1e57c157260940023a6c70a35", null ]
+    [ "boss_thorim_arena_npcs", "de/d0b/a20929.html#a849567e412254aa8d0d7da33b6b1522f", null ],
+    [ "CanAIAttack", "de/d0b/a20929.html#aa4f90aadf8a9705fea03433195d41ad0", null ],
+    [ "JustEngagedWith", "de/d0b/a20929.html#a2f23cddcf5a0db42ba24730dfbe54976", null ],
+    [ "Reset", "de/d0b/a20929.html#a7b118ec6fa25c0f452419d1f5b4a698f", null ],
+    [ "SelectT", "de/d0b/a20929.html#a3fa38189c886a486aabb39a372834938", null ],
+    [ "UpdateAI", "de/d0b/a20929.html#a6a8489763ca223c749aa71c2da05b3cf", null ],
+    [ "_isCaster", "de/d0b/a20929.html#abfd184437df3983659a9ae21a13638fb", null ],
+    [ "events", "de/d0b/a20929.html#aad99dd6ca7d3595222ce42b5b859e462", null ]
 ];

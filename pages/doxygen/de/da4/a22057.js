@@ -1,6 +1,8 @@
 var a22057 =
 [
-    [ "npc_attracted_reef_bullAI", "d5/d7a/a22061.html", "d5/d7a/a22061" ],
-    [ "npc_attracted_reef_bull", "de/da4/a22057.html#acd0ade9e7ce5492c11be0b3f2696418e", null ],
-    [ "GetAI", "de/da4/a22057.html#af705e2768cd41c955af7f944c670ac85", null ]
+    [ "npc_ravenous_worgAI", "de/da4/a22057.html#a5404516869e171c84b774f2a7b8be15d", null ],
+    [ "AttackStart", "de/da4/a22057.html#a593d218d8cb083a7e37f81d3952c6d4c", null ],
+    [ "UpdateAI", "de/da4/a22057.html#aeb64d5bde5ef9d8c2a62662bb72d3049", null ],
+    [ "_attack", "de/da4/a22057.html#a3df5c98821ba33a40e25e7b050858b96", null ],
+    [ "_pacified", "de/da4/a22057.html#a0da1f59a6fc9cdf39c9cced1eb52acba", null ]
 ];

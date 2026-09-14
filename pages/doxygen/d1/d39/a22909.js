@@ -1,13 +1,9 @@
 var a22909 =
 [
-    [ "boss_illidari_council_memberAI", "d1/d39/a22909.html#ac32366dfad13cd37ced2428d041e25c9", null ],
-    [ "DamageTaken", "d1/d39/a22909.html#a1006bbdb6e39b6ceb52037e1b3cdb788", null ],
-    [ "DoAction", "d1/d39/a22909.html#a203310b84d71a24145b1c39e7faff182", null ],
-    [ "EnterEvadeMode", "d1/d39/a22909.html#a9bf2376cd75e0dc825de3839eda857eb", null ],
-    [ "JustDied", "d1/d39/a22909.html#a135c8e8f4113b1c9c05e5b26e61e639c", null ],
-    [ "JustEngagedWith", "d1/d39/a22909.html#a5c43bfb6e1781a83bfad36668ac724f2", null ],
-    [ "KilledUnit", "d1/d39/a22909.html#aa0cb7a373d521038e8e41e354f6bc3f7", null ],
-    [ "Reset", "d1/d39/a22909.html#a8e75d47f56d14d9b66d10b74c3479839", null ],
-    [ "events", "d1/d39/a22909.html#ad47a350f5ed066e04816e72961a80bd0", null ],
-    [ "instance", "d1/d39/a22909.html#adb11720cd0fd87a42b9a78490a70251e", null ]
+    [ "npc_flame_of_azzinoth", "d1/d39/a22909.html#acdeb046c2214bd449257ba1b932c8a5c", null ],
+    [ "IsSummonedBy", "d1/d39/a22909.html#a5254057af0371a08ea01fe91502c2a20", null ],
+    [ "JustEngagedWith", "d1/d39/a22909.html#a24eba1a6cdea4971573a6f4b2dd34fb3", null ],
+    [ "JustSummoned", "d1/d39/a22909.html#ad2e7085fcd985a08cc2e317485a8fff1", null ],
+    [ "UpdateAI", "d1/d39/a22909.html#a7a1c9b967e6a79721dea8cbca44cbb5b", null ],
+    [ "_bladeGUID", "d1/d39/a22909.html#ae797d929b0e9c8953a4c9efd392a21f3", null ]
 ];

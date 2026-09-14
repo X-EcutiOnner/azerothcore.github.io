@@ -1,5 +1,5 @@
 var a02306 =
 [
-    [ "spellinfo_commandscript", "d8/d93/a12621.html", "d8/d93/a12621" ],
-    [ "AddSC_spellinfo_commandscript", "d3/dc5/a02306.html#ab9e45d5e5eb40c48734ab273bdb3be64", null ]
+    [ "mail_commandscript", "d9/d69/a12577.html", "d9/d69/a12577" ],
+    [ "AddSC_mail_commandscript", "d3/dc5/a02306.html#a60390ceaf08c6b305bdc77fd27243938", null ]
 ];

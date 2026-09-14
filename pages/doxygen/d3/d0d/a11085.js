@@ -1,6 +1,6 @@
 var a11085 =
 [
-    [ "GuildUpdateMotdText", "d3/d0d/a11085.html#ab3b248450b0dcdde6b51e381e910b15d", null ],
-    [ "Read", "d3/d0d/a11085.html#a55cfd6f4797e61ca01ee7aa5c65d9a69", null ],
-    [ "MotdText", "d3/d0d/a11085.html#a5b2ee458a919be7f912d49cf984490ac", null ]
+    [ "SetSheathed", "d3/d0d/a11085.html#a0c6ff5057d2ee0c424c8539c0bf99857", null ],
+    [ "Read", "d3/d0d/a11085.html#ae2158689450e3a9207b6992ea5223106", null ],
+    [ "CurrentSheathState", "d3/d0d/a11085.html#a8363787ac7959f19234def2707ef0b32", null ]
 ];

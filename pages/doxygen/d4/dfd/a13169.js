@@ -1,8 +1,6 @@
 var a13169 =
 [
-    [ "npc_kernobeeAI", "d4/dfd/a13169.html#a9dfc478b7da1bf33463e3653aea3c4da", null ],
-    [ "SetGUID", "d4/dfd/a13169.html#ab704b138670279f6d731a6bb58ac6d10", null ],
-    [ "UpdateAI", "d4/dfd/a13169.html#ae99836a836234ad441d6ac97c60d7fc6", null ],
-    [ "checkTimer", "d4/dfd/a13169.html#ae4731b5dd7b92d6989b0960d88e1dc35", null ],
-    [ "playerGUID", "d4/dfd/a13169.html#aca1009b03ee24200f5dbad788ec5c5c8", null ]
+    [ "boss_sulfuron", "d4/dfd/a13169.html#a7ede84fab05e5cb008036be559c3c799", null ],
+    [ "ExecuteEvent", "d4/dfd/a13169.html#a5db50a398c704d8276566c1d74111d19", null ],
+    [ "JustEngagedWith", "d4/dfd/a13169.html#a320f58043ee525656a7c2fe94a2a4371", null ]
 ];

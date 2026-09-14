@@ -1,7 +1,7 @@
 var a21785 =
 [
-    [ "npc_cosmetic_toy_plane", "da/dd2/a21785.html#a71b7df4d5f78768d9e47f41ba78b93d2", null ],
-    [ "Reset", "da/dd2/a21785.html#aa66f2e16ce6c4e5dd7399b48bd5bc203", null ],
-    [ "UpdateAI", "da/dd2/a21785.html#a41d62b314510fbd6637d8eddbea16f96", null ],
-    [ "_movementArray", "da/dd2/a21785.html#a5a85278bc14a0e3158dc3fa8abcc8392", null ]
+    [ "npc_warmage_violetstand", "da/dd2/a21785.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
+    [ "Reset", "da/dd2/a21785.html#a99015610597f43f184cc686c9fab2fa9", null ],
+    [ "UpdateAI", "da/dd2/a21785.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
+    [ "targetGUID", "da/dd2/a21785.html#a46560aa7aa90778967a79c931a81721b", null ]
 ];

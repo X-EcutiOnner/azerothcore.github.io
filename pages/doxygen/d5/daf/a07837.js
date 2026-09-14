@@ -1,11 +1,9 @@
 var a07837 =
 [
-    [ "BattlegroundICScore", "d5/daf/a07837.html#a3b8798fdb479885fbe4b7cecb2f84f68", null ],
-    [ "BuildObjectivesBlock", "d5/daf/a07837.html#a4a10d0be9c318048feb4e76ffae9472c", null ],
-    [ "GetAttr1", "d5/daf/a07837.html#af6c42bbd1b8f3f94fe838ce5df610a80", null ],
-    [ "GetAttr2", "d5/daf/a07837.html#a758fa51038f232c7d65cd0168a4608c2", null ],
-    [ "UpdateScore", "d5/daf/a07837.html#a690ede108b8ce8dfa45a2b7457e53a3c", null ],
-    [ "BattlegroundIC", "d5/daf/a07837.html#a2d7503354e4bdce9f2a06d48b649da2f", null ],
-    [ "BasesAssaulted", "d5/daf/a07837.html#a5050b80f9d1855cb8b97830f9e80124f", null ],
-    [ "BasesDefended", "d5/daf/a07837.html#a70c2965b6b1e99239e0dcc1c03ccb552", null ]
+    [ "BattlegroundEYLosingPointStruct", "d5/daf/a07837.html#ae3f19e55206e1a8097fe173a8a37aa12", null ],
+    [ "DespawnObjectTypeAlliance", "d5/daf/a07837.html#a210828d05ea9948484631b7408a3bb4b", null ],
+    [ "DespawnObjectTypeHorde", "d5/daf/a07837.html#a335205cb71b7055db4c01a5e562001b6", null ],
+    [ "MessageIdAlliance", "d5/daf/a07837.html#afe89eccc8c21351edb4ce943d937e521", null ],
+    [ "MessageIdHorde", "d5/daf/a07837.html#a8295974ee1f663dd0d22bcc4f0e0fa92", null ],
+    [ "SpawnNeutralObjectType", "d5/daf/a07837.html#a57c1a6f485ea6617b5218da411cae38f", null ]
 ];

@@ -1,7 +1,6 @@
 var a15341 =
 [
-    [ "boss_epoch_hunter", "d9/dc1/a15341.html#a652d14ebfced39b8164687a713780600", null ],
-    [ "JustDied", "d9/dc1/a15341.html#a38d3cbed2ce8f810fd169e0004fd91dc", null ],
-    [ "JustEngagedWith", "d9/dc1/a15341.html#a2571f98f36d1271f3911617e0fdfba54", null ],
-    [ "KilledUnit", "d9/dc1/a15341.html#a61456e680e9108dd841e83d97536ef1b", null ]
+    [ "boss_salrammAI", "d5/d30/a15345.html", "d5/d30/a15345" ],
+    [ "boss_salramm", "d9/dc1/a15341.html#a62c629a03f0c7ca7f3bf14b5209342d1", null ],
+    [ "GetAI", "d9/dc1/a15341.html#ab6b400f0d329d4def074d012de47f53d", null ]
 ];

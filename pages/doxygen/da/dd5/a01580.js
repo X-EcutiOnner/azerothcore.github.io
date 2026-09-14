@@ -1,7 +1,7 @@
 var a01580 =
 [
-    [ "Acore::Impl::ChatCommands::FilteredCommandListIterator", "de/d98/a07941.html", "de/d98/a07941" ],
-    [ "ChatSubCommandMap", "da/dd5/a01580.html#a306b7e46fd4791f088a8919720238f3d", null ],
-    [ "LogCommandUsage", "da/dd5/a01580.html#a8dc2bbcf5b90559262a46829632f332e", null ],
-    [ "COMMAND_MAP", "da/dd5/a01580.html#a569e79432c3876f4ac0b961e8a783003", null ]
+    [ "CompareThreatLessThan", "d9/dd3/a08309.html", "d9/dd3/a08309" ],
+    [ "ThreatManager", "dd/da2/a08313.html", "dd/da2/a08313" ],
+    [ "ThreatManager::ThreatListIterator", "d8/d52/a08317.html", "d8/d52/a08317" ],
+    [ "ThreatReference", "d4/d15/a08321.html", "d4/d15/a08321" ]
 ];

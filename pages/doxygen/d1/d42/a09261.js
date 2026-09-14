@@ -1,9 +1,6 @@
 var a09261 =
 [
-    [ "day", "d1/d42/a09261.html#a50a70dfa2fdb407101edf051eeacbad6", null ],
-    [ "holidayId", "d1/d42/a09261.html#a2105d2c9d4b2867650f0a3b67b035416", null ],
-    [ "month", "d1/d42/a09261.html#a55e1cf64111db7eeeec72c594b76c56d", null ],
-    [ "offset", "d1/d42/a09261.html#aaa9bf14668239ea561aecc33104e245a", null ],
-    [ "type", "d1/d42/a09261.html#a25f2529332f23c93b37e5c918032eb3d", null ],
-    [ "weekday", "d1/d42/a09261.html#ac431dcdf2d64ae5e31d72971d208ef5b", null ]
+    [ "Reset", "d1/d42/a09261.html#acccf504073283011dc32b05a5a87b85a", null ],
+    [ "Guid", "d1/d42/a09261.html#a738a014abc8cb5df525642acc218576b", null ],
+    [ "IsUnselectable", "d1/d42/a09261.html#a037411c58c414d0c5a39915b7acd578d", null ]
 ];

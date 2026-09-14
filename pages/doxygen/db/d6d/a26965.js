@@ -1,9 +1,10 @@
 var a26965 =
 [
-    [ "CheckCast", "db/d6d/a26965.html#ad6b60c449d57503508c9a94ca6e919f9", null ],
-    [ "HandleDummy", "db/d6d/a26965.html#a7f79495525687fba6229f48935b2558a", null ],
-    [ "Load", "db/d6d/a26965.html#a0c73457e44a3d64bdccee78d28893672", null ],
-    [ "PrepareSpellScript", "db/d6d/a26965.html#a4826d7b257ee05bfe0d6db3d30a924e9", null ],
-    [ "Register", "db/d6d/a26965.html#ab9f09394ab301350a2abaefde90632fe", null ],
-    [ "Validate", "db/d6d/a26965.html#a9b9d5f862e9910f1a12780ff54b067ca", null ]
+    [ "spell_pal_improved_aura", "db/d6d/a26965.html#a4bc4b78ce3aab5ba4b5e6a009910cf7c", null ],
+    [ "HandleEffectApply", "db/d6d/a26965.html#a441952100c103ccdf84c58827669faac", null ],
+    [ "HandleEffectRemove", "db/d6d/a26965.html#aad7c1d2b5722523e119ff7dbe27ceb30", null ],
+    [ "PrepareAuraScript", "db/d6d/a26965.html#a4b35f298000b2a6cc530644018d4d7e4", null ],
+    [ "Register", "db/d6d/a26965.html#a148b20ba206ba69d2dcd84abbf7d17af", null ],
+    [ "Validate", "db/d6d/a26965.html#aa5450660ba559f31a815f4f2a4452fbc", null ],
+    [ "_spellId", "db/d6d/a26965.html#a9b7b9b73a0e6cacc917aedebdf789901", null ]
 ];

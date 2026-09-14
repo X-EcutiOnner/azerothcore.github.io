@@ -1,19 +1,14 @@
 var a29213 =
 [
-    [ "FactionRespondsToCallForHelp", "dd/df9/a29213.html#af0d102e7e7ae480b2c61cf121bcd012a", null ],
-    [ "IsContestedGuardFaction", "dd/df9/a29213.html#a52d5e1e5b01946a3d6d66158910e9f6d", null ],
-    [ "IsFriendlyTo", "dd/df9/a29213.html#ac70cef62b2ec646d593d8742a3c02f08", null ],
-    [ "IsHostileTo", "dd/df9/a29213.html#a1aadbf23c1c81a958665d96e5bf76093", null ],
-    [ "IsHostileToAlliancePlayers", "dd/df9/a29213.html#a4d3bfc9845c9d20f2e9e42f3247e1977", null ],
-    [ "IsHostileToHordePlayers", "dd/df9/a29213.html#a1734226996b76623df70f6fd0fe8a1c0", null ],
-    [ "IsHostileToPlayers", "dd/df9/a29213.html#a349650c7af717e3c67392a0b9d1970e1", null ],
-    [ "IsNeutralToAll", "dd/df9/a29213.html#a99cb471bcc9071a3c152266caa4579ae", null ],
-    [ "enemyFaction", "dd/df9/a29213.html#ae53f6799be5ae4bf7ab047fd97a4a969", null ],
-    [ "faction", "dd/df9/a29213.html#a2cb03ed38c15f6e6db7b556200282541", null ],
-    [ "factionFlags", "dd/df9/a29213.html#af20e4983d34c419b4a14c60d8049d9f4", null ],
-    [ "friendFaction", "dd/df9/a29213.html#a9c89b58067e28de89cedf2572b5e0e31", null ],
-    [ "friendlyMask", "dd/df9/a29213.html#a6842badfb5e7e0ad3a26d250426c64b6", null ],
-    [ "hostileMask", "dd/df9/a29213.html#ab395ab86c3e553ea4a9b1ae901c6e7cb", null ],
-    [ "ID", "dd/df9/a29213.html#a22657898486c71df39da27b968e405d5", null ],
-    [ "ourMask", "dd/df9/a29213.html#a822685376430441eeb85c24fd26473b0", null ]
+    [ "HasFlag", "dd/df9/a29213.html#a5d13e1af17cddf3acdbfc5387869e43f", null ],
+    [ "alliance", "dd/df9/a29213.html#a44c3824aef4f4724c189727f12801a5b", null ],
+    [ "CinematicSequence", "dd/df9/a29213.html#a33a01b1c26b21706d9898af246f2a0df", null ],
+    [ "expansion", "dd/df9/a29213.html#ab6547f8b08d4d1bf57a37f9574b71e43", null ],
+    [ "FactionID", "dd/df9/a29213.html#a5c66801f2f89aeb847699a2dd87486c7", null ],
+    [ "Flags", "dd/df9/a29213.html#a8c2d30fb87284806a93d4c1da4a6edb0", null ],
+    [ "model_f", "dd/df9/a29213.html#a4807227fd863e247b18d29db0ea8236a", null ],
+    [ "model_m", "dd/df9/a29213.html#a50b5409352d7fe3e6f5919d83c9a0eae", null ],
+    [ "name", "dd/df9/a29213.html#a4970323e45feb3f74b47420648371ab6", null ],
+    [ "RaceID", "dd/df9/a29213.html#a853f3262af3408cf2791e7cd08ec8d32", null ],
+    [ "TeamID", "dd/df9/a29213.html#addd21f5fbf6868e7cf2cd3c54c7172a1", null ]
 ];

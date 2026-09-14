@@ -1,14 +1,8 @@
 var a13441 =
 [
-    [ "boss_priestess_delrissa", "df/d01/a13441.html#afcbf1aa400ec44b709fd194daab91d3d", null ],
-    [ "CheckInRoom", "df/d01/a13441.html#afa963761e44412915a6d89f097f33b5d", null ],
-    [ "InitializeAI", "df/d01/a13441.html#ae5105868d704b6ca91b27dcfbeaef3a9", null ],
-    [ "JustDied", "df/d01/a13441.html#a82d8c198f38c2aa881386e739dea6a08", null ],
-    [ "JustEngagedWith", "df/d01/a13441.html#a40c9852f9a1ea24b61edf0f7c00193a6", null ],
-    [ "JustSummoned", "df/d01/a13441.html#ac0a2c4346c6222380d7bda9a274f78e0", null ],
-    [ "KilledUnit", "df/d01/a13441.html#af0b41306f53c42745cce39069f446704", null ],
-    [ "Reset", "df/d01/a13441.html#a60e39157aa3043284b2e1e032c0d9241", null ],
-    [ "SummonedCreatureDies", "df/d01/a13441.html#a14757692ab4af5c1b5b311f059be9091", null ],
-    [ "HelpersKilled", "df/d01/a13441.html#a26764cdd42721c9276ccecaa97fc9a6e", null ],
-    [ "PlayersKilled", "df/d01/a13441.html#a9bde16a69ed9e950ce0dfb91805280cc", null ]
+    [ "CalcPeriodic", "df/d01/a13441.html#a493609298c152df8216641ba2e5861cd", null ],
+    [ "PrepareAuraScript", "df/d01/a13441.html#a30c2bac7e939cf7de2141f6cdfa51619", null ],
+    [ "Register", "df/d01/a13441.html#a44002db5980dfc1db816cf61fd446491", null ],
+    [ "Update", "df/d01/a13441.html#a7a1fc11cf4183c7202a929c72035d8e7", null ],
+    [ "Validate", "df/d01/a13441.html#a060e189aaa4396681d42906b65c9196f", null ]
 ];

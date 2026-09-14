@@ -1,7 +1,6 @@
 var a11029 =
 [
-    [ "ChatServerMessage", "d3/d39/a11029.html#aa649857ceeba6b2f9e060f7d502cdb7a", null ],
-    [ "Write", "d3/d39/a11029.html#af8bad4d39693290674bda2e2ad8685bf", null ],
-    [ "MessageID", "d3/d39/a11029.html#afde854fc17313d214fa0f0cdc48ca9a9", null ],
-    [ "StringParam", "d3/d39/a11029.html#ac39a08d84c8f5934d0fe26e91809e60a", null ]
+    [ "ShowingCloak", "d3/d39/a11029.html#ac8fcfe92c148787a07b77d0b9ebb45cb", null ],
+    [ "Read", "d3/d39/a11029.html#ad72ae43efc070655aa078d9985369442", null ],
+    [ "ShowCloak", "d3/d39/a11029.html#aa9eda46557031d67b4a675bd998e5b7d", null ]
 ];

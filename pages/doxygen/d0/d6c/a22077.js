@@ -1,7 +1,6 @@
 var a22077 =
 [
-    [ "HandleScriptEffect", "d0/d6c/a22077.html#a7b0fca053f225beda41942d8fee86383", null ],
-    [ "PrepareSpellScript", "d0/d6c/a22077.html#a1312914fef2c12d8c88f7fe3d3bc0dd4", null ],
-    [ "Register", "d0/d6c/a22077.html#a43ca6b9d0d23d0bce2c1bb2fc6e7b76c", null ],
-    [ "Validate", "d0/d6c/a22077.html#a5ca06a91aa921b4cc90a960fcb4cdb67", null ]
+    [ "npc_venture_co_stragglerAI", "d2/d49/a22081.html", "d2/d49/a22081" ],
+    [ "npc_venture_co_straggler", "d0/d6c/a22077.html#a9d928b33dfcd3a6ccb7e1f7a1964762f", null ],
+    [ "GetAI", "d0/d6c/a22077.html#a5f95d20c67553ae8a27f00ebb92e3627", null ]
 ];

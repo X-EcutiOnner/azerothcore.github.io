@@ -1,5 +1,8 @@
 var a17409 =
 [
-    [ "at_hor_battered_hilt_start", "d2/de3/a17409.html#a1b9e6d892525cf28d71757f7861e1d1a", null ],
-    [ "OnTrigger", "d2/de3/a17409.html#a5d2d0a05b17dafe7ebb5447cfd168f69", null ]
+    [ "npc_phantom_hallucination", "d2/de3/a17409.html#a55dc1bf20a0714bbe3bd2bf98978c127", null ],
+    [ "EnterEvadeMode", "d2/de3/a17409.html#a0e45cbe40a3118d17f403c48c91f630e", null ],
+    [ "JustDied", "d2/de3/a17409.html#a14c91f9f3a1f654fed3fc11685d41da7", null ],
+    [ "UpdateAI", "d2/de3/a17409.html#af03cb9c2f062e14e6333c8c889d3c8df", null ],
+    [ "numOfUpd", "d2/de3/a17409.html#a2cc47caafdc22de25f820a78f632ee4b", null ]
 ];

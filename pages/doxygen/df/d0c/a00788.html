@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Scripting/ScriptDefines/AllBattlegroundScript.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Scripting/ScriptDefines/MiscScript.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,9 +106,8 @@ $(document).ready(function(){initNavTree('df/d0c/a00788.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#typedef-members">Typedefs</a> &#124;
 <a href="#enum-members">Enumerations</a>  </div>
-  <div class="headertitle"><div class="title">AllBattlegroundScript.h File Reference</div></div>
+  <div class="headertitle"><div class="title">MiscScript.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><code>#include &quot;<a class="el" href="../../">ObjectGuid.h</a>&quot;</code><br />
@@ -119,156 +118,126 @@ $(document).ready(function(){initNavTree('df/d0c/a00788.html','../../'); initRes
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/ddf/a10693.html">AllBattlegroundScript</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d55/a10881.html">MiscScript</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
-Typedefs</h2></td></tr>
-<tr class="memitem:ae9cb670a445a9cb3089a66cdcc822d0e"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d0c/a00788.html#ae9cb670a445a9cb3089a66cdcc822d0e">BGScript</a> = <a class="el" href="../../d6/ddf/a10693.html">AllBattlegroundScript</a></td></tr>
-<tr class="separator:ae9cb670a445a9cb3089a66cdcc822d0e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
 Enumerations</h2></td></tr>
-<tr class="memitem:a17a6e2af65c8cf024623d584c7f3a11f"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11f">AllBattlegroundHook</a> { <br />
-&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11fa6d4da13cd771a0027ee68bb5a41cbef2">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_START</a>
+<tr class="memitem:af37f873b1735a7e1f78da6f2f334c134"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134">MiscHook</a> { <br />
+&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134aced03c29bfe1b673cd653f80f983c9fb">MISCHOOK_ON_CONSTRUCT_OBJECT</a>
 , <br />
-&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11fa6249f560935453a3230622aff4d12aeb">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_END_REWARD</a>
+&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134a9733f4054c726297206f0d94936b198f">MISCHOOK_ON_DESTRUCT_OBJECT</a>
 , <br />
-&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11faa835decdfe3bd71e3f36d57ea58f0957">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_UPDATE</a>
+&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134ab44e63644ffca18d22fd8f100d741439">MISCHOOK_ON_CONSTRUCT_PLAYER</a>
 , <br />
-&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11fa3be3eca5302bcf69ac7f102837ac7de0">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_ADD_PLAYER</a>
+&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134a5cc41f8f78b3b4e4d2339ef9081298bf">MISCHOOK_ON_DESTRUCT_PLAYER</a>
 , <br />
-&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11fa20256e46bc7531203cb3129b8b2f1d6a">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_BEFORE_ADD_PLAYER</a>
+&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134a1ca06f199a58422ef7353799ca54ae72">MISCHOOK_ON_CONSTRUCT_GROUP</a>
 , <br />
-&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11fa1eb34bf20bb04e911b0fc231d34e9175">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_REMOVE_PLAYER_AT_LEAVE</a>
+&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134a3ce8336f58fbbc6e7eb236bbaea4e6da">MISCHOOK_ON_DESTRUCT_GROUP</a>
 , <br />
-&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11fa2f7e966409796169c03f2a540adc37d7">ALLBATTLEGROUNDHOOK_ON_QUEUE_UPDATE</a>
+&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134a56a3d6798447586097a2539a15cb4aa2">MISCHOOK_ON_CONSTRUCT_INSTANCE_SAVE</a>
 , <br />
-&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11faf57572cc73fbade9e6d25116230677d5">ALLBATTLEGROUNDHOOK_ON_QUEUE_UPDATE_VALIDITY</a>
+&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134ace5f04f0c222b965d512026b695922c5">MISCHOOK_ON_DESTRUCT_INSTANCE_SAVE</a>
 , <br />
-&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11fa939f6d860e7bd28952f4f8027c23b95f">ALLBATTLEGROUNDHOOK_ON_ADD_GROUP</a>
+&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134aadbe4a9d67dbca7b90292899c0ae8d4c">MISCHOOK_ON_ITEM_CREATE</a>
 , <br />
-&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11fa85e775dbed655cf407e7ebf1a64636f7">ALLBATTLEGROUNDHOOK_CAN_FILL_PLAYERS_TO_BG</a>
+&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134a5d3215bd4e18f89cb0a717a84829e17f">MISCHOOK_CAN_APPLY_SOULBOUND_FLAG</a>
 , <br />
-&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11fadbabd96f7abb5df470101fc9df9d9323">ALLBATTLEGROUNDHOOK_IS_CHECK_NORMAL_MATCH</a>
+&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134ae9bacf4ccf18f7e88d8aa9f83bdebded">MISCHOOK_CAN_ITEM_APPLY_EQUIP_SPELL</a>
 , <br />
-&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11faab250dae715543f6092538ecead24a53">ALLBATTLEGROUNDHOOK_CAN_SEND_MESSAGE_BG_QUEUE</a>
+&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134a584163956c233073e85f343585092a27">MISCHOOK_CAN_SEND_AUCTIONHELLO</a>
 , <br />
-&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11faa1d8bc700124dc104e154886f3af51c5">ALLBATTLEGROUNDHOOK_ON_BEFORE_SEND_JOIN_MESSAGE_ARENA_QUEUE</a>
+&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134ad8dcf71de9c5c4a16743e80d66ac70c0">MISCHOOK_VALIDATE_SPELL_AT_CAST_SPELL</a>
 , <br />
-&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11fa7ff5cea511eefb352f3c13df830a9cd8">ALLBATTLEGROUNDHOOK_ON_BEFORE_SEND_EXIT_MESSAGE_ARENA_QUEUE</a>
+&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134a0de17e7f67dd7280da04e7a2fc502433">MISCHOOK_VALIDATE_SPELL_AT_CAST_SPELL_RESULT</a>
 , <br />
-&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11fa9a98407eef4207a402bffde24660cc00">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_END</a>
+&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134ad88e01abe00726c718edd6c7903ec8ea">MISCHOOK_ON_AFTER_LOOT_TEMPLATE_PROCESS</a>
 , <br />
-&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11faf70d3c3e04932aa21b33d497d3f30953">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_DESTROY</a>
+&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134a26ed92ee73e91e93437535e17f9d1616">MISCHOOK_ON_PLAYER_SET_PHASE</a>
 , <br />
-&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11fa5cab42841def4696e241e31f655d4cd1">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_CREATE</a>
+&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134a29a966b43bc8252d88a8ecdeb4c9928f">MISCHOOK_ON_INSTANCE_SAVE</a>
 , <br />
-&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11fa6d29f964ce1202e866efd07fcf7bf49a">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_SETUP</a>
+&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134a9c2cb4ea6da418aff3e4f1cad36a6490">MISCHOOK_GET_DIALOG_STATUS</a>
 , <br />
-&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11fa6660e58efa109e694bdb78d120bd290a">ALLBATTLEGROUNDHOOK_CAN_ADD_GROUP_TO_MATCHING_POOL</a>
-, <br />
-&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11fad51adb5145190199738023e77119f7fb">ALLBATTLEGROUNDHOOK_GET_PLAYER_MATCHMAKING_RATING</a>
-, <br />
-&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11fa0e3bc87a05b030bbdb15eda213d5b6af">ALLBATTLEGROUNDHOOK_END</a>
+&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134ae8c3fca40135e387a84d7156f26a16c9">MISCHOOK_END</a>
 <br />
  }</td></tr>
-<tr class="separator:a17a6e2af65c8cf024623d584c7f3a11f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:af37f873b1735a7e1f78da6f2f334c134"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Typedef Documentation</h2>
-<a id="ae9cb670a445a9cb3089a66cdcc822d0e" name="ae9cb670a445a9cb3089a66cdcc822d0e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae9cb670a445a9cb3089a66cdcc822d0e">&#9670;&#160;</a></span>BGScript</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">using <a class="el" href="../../df/d0c/a00788.html#ae9cb670a445a9cb3089a66cdcc822d0e">BGScript</a> =  <a class="el" href="../../d6/ddf/a10693.html">AllBattlegroundScript</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
 <h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a17a6e2af65c8cf024623d584c7f3a11f" name="a17a6e2af65c8cf024623d584c7f3a11f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a17a6e2af65c8cf024623d584c7f3a11f">&#9670;&#160;</a></span>AllBattlegroundHook</h2>
+<a id="af37f873b1735a7e1f78da6f2f334c134" name="af37f873b1735a7e1f78da6f2f334c134"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af37f873b1735a7e1f78da6f2f334c134">&#9670;&#160;</a></span>MiscHook</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11f">AllBattlegroundHook</a></td>
+          <td class="memname">enum <a class="el" href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134">MiscHook</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a17a6e2af65c8cf024623d584c7f3a11fa6d4da13cd771a0027ee68bb5a41cbef2" name="a17a6e2af65c8cf024623d584c7f3a11fa6d4da13cd771a0027ee68bb5a41cbef2"></a>ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_START&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a17a6e2af65c8cf024623d584c7f3a11fa6249f560935453a3230622aff4d12aeb" name="a17a6e2af65c8cf024623d584c7f3a11fa6249f560935453a3230622aff4d12aeb"></a>ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_END_REWARD&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a17a6e2af65c8cf024623d584c7f3a11faa835decdfe3bd71e3f36d57ea58f0957" name="a17a6e2af65c8cf024623d584c7f3a11faa835decdfe3bd71e3f36d57ea58f0957"></a>ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_UPDATE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a17a6e2af65c8cf024623d584c7f3a11fa3be3eca5302bcf69ac7f102837ac7de0" name="a17a6e2af65c8cf024623d584c7f3a11fa3be3eca5302bcf69ac7f102837ac7de0"></a>ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_ADD_PLAYER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a17a6e2af65c8cf024623d584c7f3a11fa20256e46bc7531203cb3129b8b2f1d6a" name="a17a6e2af65c8cf024623d584c7f3a11fa20256e46bc7531203cb3129b8b2f1d6a"></a>ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_BEFORE_ADD_PLAYER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a17a6e2af65c8cf024623d584c7f3a11fa1eb34bf20bb04e911b0fc231d34e9175" name="a17a6e2af65c8cf024623d584c7f3a11fa1eb34bf20bb04e911b0fc231d34e9175"></a>ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_REMOVE_PLAYER_AT_LEAVE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a17a6e2af65c8cf024623d584c7f3a11fa2f7e966409796169c03f2a540adc37d7" name="a17a6e2af65c8cf024623d584c7f3a11fa2f7e966409796169c03f2a540adc37d7"></a>ALLBATTLEGROUNDHOOK_ON_QUEUE_UPDATE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a17a6e2af65c8cf024623d584c7f3a11faf57572cc73fbade9e6d25116230677d5" name="a17a6e2af65c8cf024623d584c7f3a11faf57572cc73fbade9e6d25116230677d5"></a>ALLBATTLEGROUNDHOOK_ON_QUEUE_UPDATE_VALIDITY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a17a6e2af65c8cf024623d584c7f3a11fa939f6d860e7bd28952f4f8027c23b95f" name="a17a6e2af65c8cf024623d584c7f3a11fa939f6d860e7bd28952f4f8027c23b95f"></a>ALLBATTLEGROUNDHOOK_ON_ADD_GROUP&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a17a6e2af65c8cf024623d584c7f3a11fa85e775dbed655cf407e7ebf1a64636f7" name="a17a6e2af65c8cf024623d584c7f3a11fa85e775dbed655cf407e7ebf1a64636f7"></a>ALLBATTLEGROUNDHOOK_CAN_FILL_PLAYERS_TO_BG&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a17a6e2af65c8cf024623d584c7f3a11fadbabd96f7abb5df470101fc9df9d9323" name="a17a6e2af65c8cf024623d584c7f3a11fadbabd96f7abb5df470101fc9df9d9323"></a>ALLBATTLEGROUNDHOOK_IS_CHECK_NORMAL_MATCH&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a17a6e2af65c8cf024623d584c7f3a11faab250dae715543f6092538ecead24a53" name="a17a6e2af65c8cf024623d584c7f3a11faab250dae715543f6092538ecead24a53"></a>ALLBATTLEGROUNDHOOK_CAN_SEND_MESSAGE_BG_QUEUE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a17a6e2af65c8cf024623d584c7f3a11faa1d8bc700124dc104e154886f3af51c5" name="a17a6e2af65c8cf024623d584c7f3a11faa1d8bc700124dc104e154886f3af51c5"></a>ALLBATTLEGROUNDHOOK_ON_BEFORE_SEND_JOIN_MESSAGE_ARENA_QUEUE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a17a6e2af65c8cf024623d584c7f3a11fa7ff5cea511eefb352f3c13df830a9cd8" name="a17a6e2af65c8cf024623d584c7f3a11fa7ff5cea511eefb352f3c13df830a9cd8"></a>ALLBATTLEGROUNDHOOK_ON_BEFORE_SEND_EXIT_MESSAGE_ARENA_QUEUE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a17a6e2af65c8cf024623d584c7f3a11fa9a98407eef4207a402bffde24660cc00" name="a17a6e2af65c8cf024623d584c7f3a11fa9a98407eef4207a402bffde24660cc00"></a>ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_END&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a17a6e2af65c8cf024623d584c7f3a11faf70d3c3e04932aa21b33d497d3f30953" name="a17a6e2af65c8cf024623d584c7f3a11faf70d3c3e04932aa21b33d497d3f30953"></a>ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_DESTROY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a17a6e2af65c8cf024623d584c7f3a11fa5cab42841def4696e241e31f655d4cd1" name="a17a6e2af65c8cf024623d584c7f3a11fa5cab42841def4696e241e31f655d4cd1"></a>ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_CREATE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a17a6e2af65c8cf024623d584c7f3a11fa6d29f964ce1202e866efd07fcf7bf49a" name="a17a6e2af65c8cf024623d584c7f3a11fa6d29f964ce1202e866efd07fcf7bf49a"></a>ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_SETUP&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a17a6e2af65c8cf024623d584c7f3a11fa6660e58efa109e694bdb78d120bd290a" name="a17a6e2af65c8cf024623d584c7f3a11fa6660e58efa109e694bdb78d120bd290a"></a>ALLBATTLEGROUNDHOOK_CAN_ADD_GROUP_TO_MATCHING_POOL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a17a6e2af65c8cf024623d584c7f3a11fad51adb5145190199738023e77119f7fb" name="a17a6e2af65c8cf024623d584c7f3a11fad51adb5145190199738023e77119f7fb"></a>ALLBATTLEGROUNDHOOK_GET_PLAYER_MATCHMAKING_RATING&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a17a6e2af65c8cf024623d584c7f3a11fa0e3bc87a05b030bbdb15eda213d5b6af" name="a17a6e2af65c8cf024623d584c7f3a11fa0e3bc87a05b030bbdb15eda213d5b6af"></a>ALLBATTLEGROUNDHOOK_END&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="af37f873b1735a7e1f78da6f2f334c134aced03c29bfe1b673cd653f80f983c9fb" name="af37f873b1735a7e1f78da6f2f334c134aced03c29bfe1b673cd653f80f983c9fb"></a>MISCHOOK_ON_CONSTRUCT_OBJECT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af37f873b1735a7e1f78da6f2f334c134a9733f4054c726297206f0d94936b198f" name="af37f873b1735a7e1f78da6f2f334c134a9733f4054c726297206f0d94936b198f"></a>MISCHOOK_ON_DESTRUCT_OBJECT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af37f873b1735a7e1f78da6f2f334c134ab44e63644ffca18d22fd8f100d741439" name="af37f873b1735a7e1f78da6f2f334c134ab44e63644ffca18d22fd8f100d741439"></a>MISCHOOK_ON_CONSTRUCT_PLAYER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af37f873b1735a7e1f78da6f2f334c134a5cc41f8f78b3b4e4d2339ef9081298bf" name="af37f873b1735a7e1f78da6f2f334c134a5cc41f8f78b3b4e4d2339ef9081298bf"></a>MISCHOOK_ON_DESTRUCT_PLAYER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af37f873b1735a7e1f78da6f2f334c134a1ca06f199a58422ef7353799ca54ae72" name="af37f873b1735a7e1f78da6f2f334c134a1ca06f199a58422ef7353799ca54ae72"></a>MISCHOOK_ON_CONSTRUCT_GROUP&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af37f873b1735a7e1f78da6f2f334c134a3ce8336f58fbbc6e7eb236bbaea4e6da" name="af37f873b1735a7e1f78da6f2f334c134a3ce8336f58fbbc6e7eb236bbaea4e6da"></a>MISCHOOK_ON_DESTRUCT_GROUP&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af37f873b1735a7e1f78da6f2f334c134a56a3d6798447586097a2539a15cb4aa2" name="af37f873b1735a7e1f78da6f2f334c134a56a3d6798447586097a2539a15cb4aa2"></a>MISCHOOK_ON_CONSTRUCT_INSTANCE_SAVE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af37f873b1735a7e1f78da6f2f334c134ace5f04f0c222b965d512026b695922c5" name="af37f873b1735a7e1f78da6f2f334c134ace5f04f0c222b965d512026b695922c5"></a>MISCHOOK_ON_DESTRUCT_INSTANCE_SAVE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af37f873b1735a7e1f78da6f2f334c134aadbe4a9d67dbca7b90292899c0ae8d4c" name="af37f873b1735a7e1f78da6f2f334c134aadbe4a9d67dbca7b90292899c0ae8d4c"></a>MISCHOOK_ON_ITEM_CREATE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af37f873b1735a7e1f78da6f2f334c134a5d3215bd4e18f89cb0a717a84829e17f" name="af37f873b1735a7e1f78da6f2f334c134a5d3215bd4e18f89cb0a717a84829e17f"></a>MISCHOOK_CAN_APPLY_SOULBOUND_FLAG&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af37f873b1735a7e1f78da6f2f334c134ae9bacf4ccf18f7e88d8aa9f83bdebded" name="af37f873b1735a7e1f78da6f2f334c134ae9bacf4ccf18f7e88d8aa9f83bdebded"></a>MISCHOOK_CAN_ITEM_APPLY_EQUIP_SPELL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af37f873b1735a7e1f78da6f2f334c134a584163956c233073e85f343585092a27" name="af37f873b1735a7e1f78da6f2f334c134a584163956c233073e85f343585092a27"></a>MISCHOOK_CAN_SEND_AUCTIONHELLO&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af37f873b1735a7e1f78da6f2f334c134ad8dcf71de9c5c4a16743e80d66ac70c0" name="af37f873b1735a7e1f78da6f2f334c134ad8dcf71de9c5c4a16743e80d66ac70c0"></a>MISCHOOK_VALIDATE_SPELL_AT_CAST_SPELL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af37f873b1735a7e1f78da6f2f334c134a0de17e7f67dd7280da04e7a2fc502433" name="af37f873b1735a7e1f78da6f2f334c134a0de17e7f67dd7280da04e7a2fc502433"></a>MISCHOOK_VALIDATE_SPELL_AT_CAST_SPELL_RESULT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af37f873b1735a7e1f78da6f2f334c134ad88e01abe00726c718edd6c7903ec8ea" name="af37f873b1735a7e1f78da6f2f334c134ad88e01abe00726c718edd6c7903ec8ea"></a>MISCHOOK_ON_AFTER_LOOT_TEMPLATE_PROCESS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af37f873b1735a7e1f78da6f2f334c134a26ed92ee73e91e93437535e17f9d1616" name="af37f873b1735a7e1f78da6f2f334c134a26ed92ee73e91e93437535e17f9d1616"></a>MISCHOOK_ON_PLAYER_SET_PHASE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af37f873b1735a7e1f78da6f2f334c134a29a966b43bc8252d88a8ecdeb4c9928f" name="af37f873b1735a7e1f78da6f2f334c134a29a966b43bc8252d88a8ecdeb4c9928f"></a>MISCHOOK_ON_INSTANCE_SAVE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af37f873b1735a7e1f78da6f2f334c134a9c2cb4ea6da418aff3e4f1cad36a6490" name="af37f873b1735a7e1f78da6f2f334c134a9c2cb4ea6da418aff3e4f1cad36a6490"></a>MISCHOOK_GET_DIALOG_STATUS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af37f873b1735a7e1f78da6f2f334c134ae8c3fca40135e387a84d7156f26a16c9" name="af37f873b1735a7e1f78da6f2f334c134ae8c3fca40135e387a84d7156f26a16c9"></a>MISCHOOK_END&#160;</td><td class="fielddoc"></td></tr>
 </table>
 <div class="fragment"><div class="line"><span class="lineno">   26</span>{</div>
-<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11fa6d4da13cd771a0027ee68bb5a41cbef2">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_START</a>,</div>
-<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11fa6249f560935453a3230622aff4d12aeb">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_END_REWARD</a>,</div>
-<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11faa835decdfe3bd71e3f36d57ea58f0957">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_UPDATE</a>,</div>
-<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11fa3be3eca5302bcf69ac7f102837ac7de0">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_ADD_PLAYER</a>,</div>
-<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11fa20256e46bc7531203cb3129b8b2f1d6a">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_BEFORE_ADD_PLAYER</a>,</div>
-<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11fa1eb34bf20bb04e911b0fc231d34e9175">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_REMOVE_PLAYER_AT_LEAVE</a>,</div>
-<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11fa2f7e966409796169c03f2a540adc37d7">ALLBATTLEGROUNDHOOK_ON_QUEUE_UPDATE</a>,</div>
-<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11faf57572cc73fbade9e6d25116230677d5">ALLBATTLEGROUNDHOOK_ON_QUEUE_UPDATE_VALIDITY</a>,</div>
-<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11fa939f6d860e7bd28952f4f8027c23b95f">ALLBATTLEGROUNDHOOK_ON_ADD_GROUP</a>,</div>
-<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11fa85e775dbed655cf407e7ebf1a64636f7">ALLBATTLEGROUNDHOOK_CAN_FILL_PLAYERS_TO_BG</a>,</div>
-<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11fadbabd96f7abb5df470101fc9df9d9323">ALLBATTLEGROUNDHOOK_IS_CHECK_NORMAL_MATCH</a>,</div>
-<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11faab250dae715543f6092538ecead24a53">ALLBATTLEGROUNDHOOK_CAN_SEND_MESSAGE_BG_QUEUE</a>,</div>
-<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11faa1d8bc700124dc104e154886f3af51c5">ALLBATTLEGROUNDHOOK_ON_BEFORE_SEND_JOIN_MESSAGE_ARENA_QUEUE</a>,</div>
-<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11fa7ff5cea511eefb352f3c13df830a9cd8">ALLBATTLEGROUNDHOOK_ON_BEFORE_SEND_EXIT_MESSAGE_ARENA_QUEUE</a>,</div>
-<div class="line"><span class="lineno">   41</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11fa9a98407eef4207a402bffde24660cc00">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_END</a>,</div>
-<div class="line"><span class="lineno">   42</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11faf70d3c3e04932aa21b33d497d3f30953">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_DESTROY</a>,</div>
-<div class="line"><span class="lineno">   43</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11fa5cab42841def4696e241e31f655d4cd1">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_CREATE</a>,</div>
-<div class="line"><span class="lineno">   44</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11fa6d29f964ce1202e866efd07fcf7bf49a">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_SETUP</a>,</div>
-<div class="line"><span class="lineno">   45</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11fa6660e58efa109e694bdb78d120bd290a">ALLBATTLEGROUNDHOOK_CAN_ADD_GROUP_TO_MATCHING_POOL</a>,</div>
-<div class="line"><span class="lineno">   46</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11fad51adb5145190199738023e77119f7fb">ALLBATTLEGROUNDHOOK_GET_PLAYER_MATCHMAKING_RATING</a>,</div>
-<div class="line"><span class="lineno">   47</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11fa0e3bc87a05b030bbdb15eda213d5b6af">ALLBATTLEGROUNDHOOK_END</a></div>
-<div class="line"><span class="lineno">   48</span>};</div>
-<div class="ttc" id="aa00788_html_a17a6e2af65c8cf024623d584c7f3a11fa0e3bc87a05b030bbdb15eda213d5b6af"><div class="ttname"><a href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11fa0e3bc87a05b030bbdb15eda213d5b6af">ALLBATTLEGROUNDHOOK_END</a></div><div class="ttdeci">@ ALLBATTLEGROUNDHOOK_END</div><div class="ttdef"><b>Definition:</b> AllBattlegroundScript.h:47</div></div>
-<div class="ttc" id="aa00788_html_a17a6e2af65c8cf024623d584c7f3a11fa1eb34bf20bb04e911b0fc231d34e9175"><div class="ttname"><a href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11fa1eb34bf20bb04e911b0fc231d34e9175">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_REMOVE_PLAYER_AT_LEAVE</a></div><div class="ttdeci">@ ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_REMOVE_PLAYER_AT_LEAVE</div><div class="ttdef"><b>Definition:</b> AllBattlegroundScript.h:32</div></div>
-<div class="ttc" id="aa00788_html_a17a6e2af65c8cf024623d584c7f3a11fa20256e46bc7531203cb3129b8b2f1d6a"><div class="ttname"><a href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11fa20256e46bc7531203cb3129b8b2f1d6a">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_BEFORE_ADD_PLAYER</a></div><div class="ttdeci">@ ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_BEFORE_ADD_PLAYER</div><div class="ttdef"><b>Definition:</b> AllBattlegroundScript.h:31</div></div>
-<div class="ttc" id="aa00788_html_a17a6e2af65c8cf024623d584c7f3a11fa2f7e966409796169c03f2a540adc37d7"><div class="ttname"><a href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11fa2f7e966409796169c03f2a540adc37d7">ALLBATTLEGROUNDHOOK_ON_QUEUE_UPDATE</a></div><div class="ttdeci">@ ALLBATTLEGROUNDHOOK_ON_QUEUE_UPDATE</div><div class="ttdef"><b>Definition:</b> AllBattlegroundScript.h:33</div></div>
-<div class="ttc" id="aa00788_html_a17a6e2af65c8cf024623d584c7f3a11fa3be3eca5302bcf69ac7f102837ac7de0"><div class="ttname"><a href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11fa3be3eca5302bcf69ac7f102837ac7de0">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_ADD_PLAYER</a></div><div class="ttdeci">@ ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_ADD_PLAYER</div><div class="ttdef"><b>Definition:</b> AllBattlegroundScript.h:30</div></div>
-<div class="ttc" id="aa00788_html_a17a6e2af65c8cf024623d584c7f3a11fa5cab42841def4696e241e31f655d4cd1"><div class="ttname"><a href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11fa5cab42841def4696e241e31f655d4cd1">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_CREATE</a></div><div class="ttdeci">@ ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_CREATE</div><div class="ttdef"><b>Definition:</b> AllBattlegroundScript.h:43</div></div>
-<div class="ttc" id="aa00788_html_a17a6e2af65c8cf024623d584c7f3a11fa6249f560935453a3230622aff4d12aeb"><div class="ttname"><a href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11fa6249f560935453a3230622aff4d12aeb">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_END_REWARD</a></div><div class="ttdeci">@ ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_END_REWARD</div><div class="ttdef"><b>Definition:</b> AllBattlegroundScript.h:28</div></div>
-<div class="ttc" id="aa00788_html_a17a6e2af65c8cf024623d584c7f3a11fa6660e58efa109e694bdb78d120bd290a"><div class="ttname"><a href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11fa6660e58efa109e694bdb78d120bd290a">ALLBATTLEGROUNDHOOK_CAN_ADD_GROUP_TO_MATCHING_POOL</a></div><div class="ttdeci">@ ALLBATTLEGROUNDHOOK_CAN_ADD_GROUP_TO_MATCHING_POOL</div><div class="ttdef"><b>Definition:</b> AllBattlegroundScript.h:45</div></div>
-<div class="ttc" id="aa00788_html_a17a6e2af65c8cf024623d584c7f3a11fa6d29f964ce1202e866efd07fcf7bf49a"><div class="ttname"><a href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11fa6d29f964ce1202e866efd07fcf7bf49a">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_SETUP</a></div><div class="ttdeci">@ ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_SETUP</div><div class="ttdef"><b>Definition:</b> AllBattlegroundScript.h:44</div></div>
-<div class="ttc" id="aa00788_html_a17a6e2af65c8cf024623d584c7f3a11fa6d4da13cd771a0027ee68bb5a41cbef2"><div class="ttname"><a href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11fa6d4da13cd771a0027ee68bb5a41cbef2">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_START</a></div><div class="ttdeci">@ ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_START</div><div class="ttdef"><b>Definition:</b> AllBattlegroundScript.h:27</div></div>
-<div class="ttc" id="aa00788_html_a17a6e2af65c8cf024623d584c7f3a11fa7ff5cea511eefb352f3c13df830a9cd8"><div class="ttname"><a href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11fa7ff5cea511eefb352f3c13df830a9cd8">ALLBATTLEGROUNDHOOK_ON_BEFORE_SEND_EXIT_MESSAGE_ARENA_QUEUE</a></div><div class="ttdeci">@ ALLBATTLEGROUNDHOOK_ON_BEFORE_SEND_EXIT_MESSAGE_ARENA_QUEUE</div><div class="ttdef"><b>Definition:</b> AllBattlegroundScript.h:40</div></div>
-<div class="ttc" id="aa00788_html_a17a6e2af65c8cf024623d584c7f3a11fa85e775dbed655cf407e7ebf1a64636f7"><div class="ttname"><a href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11fa85e775dbed655cf407e7ebf1a64636f7">ALLBATTLEGROUNDHOOK_CAN_FILL_PLAYERS_TO_BG</a></div><div class="ttdeci">@ ALLBATTLEGROUNDHOOK_CAN_FILL_PLAYERS_TO_BG</div><div class="ttdef"><b>Definition:</b> AllBattlegroundScript.h:36</div></div>
-<div class="ttc" id="aa00788_html_a17a6e2af65c8cf024623d584c7f3a11fa939f6d860e7bd28952f4f8027c23b95f"><div class="ttname"><a href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11fa939f6d860e7bd28952f4f8027c23b95f">ALLBATTLEGROUNDHOOK_ON_ADD_GROUP</a></div><div class="ttdeci">@ ALLBATTLEGROUNDHOOK_ON_ADD_GROUP</div><div class="ttdef"><b>Definition:</b> AllBattlegroundScript.h:35</div></div>
-<div class="ttc" id="aa00788_html_a17a6e2af65c8cf024623d584c7f3a11fa9a98407eef4207a402bffde24660cc00"><div class="ttname"><a href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11fa9a98407eef4207a402bffde24660cc00">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_END</a></div><div class="ttdeci">@ ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_END</div><div class="ttdef"><b>Definition:</b> AllBattlegroundScript.h:41</div></div>
-<div class="ttc" id="aa00788_html_a17a6e2af65c8cf024623d584c7f3a11faa1d8bc700124dc104e154886f3af51c5"><div class="ttname"><a href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11faa1d8bc700124dc104e154886f3af51c5">ALLBATTLEGROUNDHOOK_ON_BEFORE_SEND_JOIN_MESSAGE_ARENA_QUEUE</a></div><div class="ttdeci">@ ALLBATTLEGROUNDHOOK_ON_BEFORE_SEND_JOIN_MESSAGE_ARENA_QUEUE</div><div class="ttdef"><b>Definition:</b> AllBattlegroundScript.h:39</div></div>
-<div class="ttc" id="aa00788_html_a17a6e2af65c8cf024623d584c7f3a11faa835decdfe3bd71e3f36d57ea58f0957"><div class="ttname"><a href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11faa835decdfe3bd71e3f36d57ea58f0957">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_UPDATE</a></div><div class="ttdeci">@ ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_UPDATE</div><div class="ttdef"><b>Definition:</b> AllBattlegroundScript.h:29</div></div>
-<div class="ttc" id="aa00788_html_a17a6e2af65c8cf024623d584c7f3a11faab250dae715543f6092538ecead24a53"><div class="ttname"><a href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11faab250dae715543f6092538ecead24a53">ALLBATTLEGROUNDHOOK_CAN_SEND_MESSAGE_BG_QUEUE</a></div><div class="ttdeci">@ ALLBATTLEGROUNDHOOK_CAN_SEND_MESSAGE_BG_QUEUE</div><div class="ttdef"><b>Definition:</b> AllBattlegroundScript.h:38</div></div>
-<div class="ttc" id="aa00788_html_a17a6e2af65c8cf024623d584c7f3a11fad51adb5145190199738023e77119f7fb"><div class="ttname"><a href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11fad51adb5145190199738023e77119f7fb">ALLBATTLEGROUNDHOOK_GET_PLAYER_MATCHMAKING_RATING</a></div><div class="ttdeci">@ ALLBATTLEGROUNDHOOK_GET_PLAYER_MATCHMAKING_RATING</div><div class="ttdef"><b>Definition:</b> AllBattlegroundScript.h:46</div></div>
-<div class="ttc" id="aa00788_html_a17a6e2af65c8cf024623d584c7f3a11fadbabd96f7abb5df470101fc9df9d9323"><div class="ttname"><a href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11fadbabd96f7abb5df470101fc9df9d9323">ALLBATTLEGROUNDHOOK_IS_CHECK_NORMAL_MATCH</a></div><div class="ttdeci">@ ALLBATTLEGROUNDHOOK_IS_CHECK_NORMAL_MATCH</div><div class="ttdef"><b>Definition:</b> AllBattlegroundScript.h:37</div></div>
-<div class="ttc" id="aa00788_html_a17a6e2af65c8cf024623d584c7f3a11faf57572cc73fbade9e6d25116230677d5"><div class="ttname"><a href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11faf57572cc73fbade9e6d25116230677d5">ALLBATTLEGROUNDHOOK_ON_QUEUE_UPDATE_VALIDITY</a></div><div class="ttdeci">@ ALLBATTLEGROUNDHOOK_ON_QUEUE_UPDATE_VALIDITY</div><div class="ttdef"><b>Definition:</b> AllBattlegroundScript.h:34</div></div>
-<div class="ttc" id="aa00788_html_a17a6e2af65c8cf024623d584c7f3a11faf70d3c3e04932aa21b33d497d3f30953"><div class="ttname"><a href="../../df/d0c/a00788.html#a17a6e2af65c8cf024623d584c7f3a11faf70d3c3e04932aa21b33d497d3f30953">ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_DESTROY</a></div><div class="ttdeci">@ ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_DESTROY</div><div class="ttdef"><b>Definition:</b> AllBattlegroundScript.h:42</div></div>
+<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134aced03c29bfe1b673cd653f80f983c9fb">MISCHOOK_ON_CONSTRUCT_OBJECT</a>,</div>
+<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134a9733f4054c726297206f0d94936b198f">MISCHOOK_ON_DESTRUCT_OBJECT</a>,</div>
+<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134ab44e63644ffca18d22fd8f100d741439">MISCHOOK_ON_CONSTRUCT_PLAYER</a>,</div>
+<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134a5cc41f8f78b3b4e4d2339ef9081298bf">MISCHOOK_ON_DESTRUCT_PLAYER</a>,</div>
+<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134a1ca06f199a58422ef7353799ca54ae72">MISCHOOK_ON_CONSTRUCT_GROUP</a>,</div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134a3ce8336f58fbbc6e7eb236bbaea4e6da">MISCHOOK_ON_DESTRUCT_GROUP</a>,</div>
+<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134a56a3d6798447586097a2539a15cb4aa2">MISCHOOK_ON_CONSTRUCT_INSTANCE_SAVE</a>,</div>
+<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134ace5f04f0c222b965d512026b695922c5">MISCHOOK_ON_DESTRUCT_INSTANCE_SAVE</a>,</div>
+<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134aadbe4a9d67dbca7b90292899c0ae8d4c">MISCHOOK_ON_ITEM_CREATE</a>,</div>
+<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134a5d3215bd4e18f89cb0a717a84829e17f">MISCHOOK_CAN_APPLY_SOULBOUND_FLAG</a>,</div>
+<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134ae9bacf4ccf18f7e88d8aa9f83bdebded">MISCHOOK_CAN_ITEM_APPLY_EQUIP_SPELL</a>,</div>
+<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134a584163956c233073e85f343585092a27">MISCHOOK_CAN_SEND_AUCTIONHELLO</a>,</div>
+<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134ad8dcf71de9c5c4a16743e80d66ac70c0">MISCHOOK_VALIDATE_SPELL_AT_CAST_SPELL</a>,</div>
+<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134a0de17e7f67dd7280da04e7a2fc502433">MISCHOOK_VALIDATE_SPELL_AT_CAST_SPELL_RESULT</a>,</div>
+<div class="line"><span class="lineno">   41</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134ad88e01abe00726c718edd6c7903ec8ea">MISCHOOK_ON_AFTER_LOOT_TEMPLATE_PROCESS</a>,</div>
+<div class="line"><span class="lineno">   42</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134a26ed92ee73e91e93437535e17f9d1616">MISCHOOK_ON_PLAYER_SET_PHASE</a>,</div>
+<div class="line"><span class="lineno">   43</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134a29a966b43bc8252d88a8ecdeb4c9928f">MISCHOOK_ON_INSTANCE_SAVE</a>,</div>
+<div class="line"><span class="lineno">   44</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134a9c2cb4ea6da418aff3e4f1cad36a6490">MISCHOOK_GET_DIALOG_STATUS</a>,</div>
+<div class="line"><span class="lineno">   45</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134ae8c3fca40135e387a84d7156f26a16c9">MISCHOOK_END</a></div>
+<div class="line"><span class="lineno">   46</span>};</div>
+<div class="ttc" id="aa00788_html_af37f873b1735a7e1f78da6f2f334c134a0de17e7f67dd7280da04e7a2fc502433"><div class="ttname"><a href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134a0de17e7f67dd7280da04e7a2fc502433">MISCHOOK_VALIDATE_SPELL_AT_CAST_SPELL_RESULT</a></div><div class="ttdeci">@ MISCHOOK_VALIDATE_SPELL_AT_CAST_SPELL_RESULT</div><div class="ttdef"><b>Definition:</b> MiscScript.h:40</div></div>
+<div class="ttc" id="aa00788_html_af37f873b1735a7e1f78da6f2f334c134a1ca06f199a58422ef7353799ca54ae72"><div class="ttname"><a href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134a1ca06f199a58422ef7353799ca54ae72">MISCHOOK_ON_CONSTRUCT_GROUP</a></div><div class="ttdeci">@ MISCHOOK_ON_CONSTRUCT_GROUP</div><div class="ttdef"><b>Definition:</b> MiscScript.h:31</div></div>
+<div class="ttc" id="aa00788_html_af37f873b1735a7e1f78da6f2f334c134a26ed92ee73e91e93437535e17f9d1616"><div class="ttname"><a href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134a26ed92ee73e91e93437535e17f9d1616">MISCHOOK_ON_PLAYER_SET_PHASE</a></div><div class="ttdeci">@ MISCHOOK_ON_PLAYER_SET_PHASE</div><div class="ttdef"><b>Definition:</b> MiscScript.h:42</div></div>
+<div class="ttc" id="aa00788_html_af37f873b1735a7e1f78da6f2f334c134a29a966b43bc8252d88a8ecdeb4c9928f"><div class="ttname"><a href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134a29a966b43bc8252d88a8ecdeb4c9928f">MISCHOOK_ON_INSTANCE_SAVE</a></div><div class="ttdeci">@ MISCHOOK_ON_INSTANCE_SAVE</div><div class="ttdef"><b>Definition:</b> MiscScript.h:43</div></div>
+<div class="ttc" id="aa00788_html_af37f873b1735a7e1f78da6f2f334c134a3ce8336f58fbbc6e7eb236bbaea4e6da"><div class="ttname"><a href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134a3ce8336f58fbbc6e7eb236bbaea4e6da">MISCHOOK_ON_DESTRUCT_GROUP</a></div><div class="ttdeci">@ MISCHOOK_ON_DESTRUCT_GROUP</div><div class="ttdef"><b>Definition:</b> MiscScript.h:32</div></div>
+<div class="ttc" id="aa00788_html_af37f873b1735a7e1f78da6f2f334c134a56a3d6798447586097a2539a15cb4aa2"><div class="ttname"><a href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134a56a3d6798447586097a2539a15cb4aa2">MISCHOOK_ON_CONSTRUCT_INSTANCE_SAVE</a></div><div class="ttdeci">@ MISCHOOK_ON_CONSTRUCT_INSTANCE_SAVE</div><div class="ttdef"><b>Definition:</b> MiscScript.h:33</div></div>
+<div class="ttc" id="aa00788_html_af37f873b1735a7e1f78da6f2f334c134a584163956c233073e85f343585092a27"><div class="ttname"><a href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134a584163956c233073e85f343585092a27">MISCHOOK_CAN_SEND_AUCTIONHELLO</a></div><div class="ttdeci">@ MISCHOOK_CAN_SEND_AUCTIONHELLO</div><div class="ttdef"><b>Definition:</b> MiscScript.h:38</div></div>
+<div class="ttc" id="aa00788_html_af37f873b1735a7e1f78da6f2f334c134a5cc41f8f78b3b4e4d2339ef9081298bf"><div class="ttname"><a href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134a5cc41f8f78b3b4e4d2339ef9081298bf">MISCHOOK_ON_DESTRUCT_PLAYER</a></div><div class="ttdeci">@ MISCHOOK_ON_DESTRUCT_PLAYER</div><div class="ttdef"><b>Definition:</b> MiscScript.h:30</div></div>
+<div class="ttc" id="aa00788_html_af37f873b1735a7e1f78da6f2f334c134a5d3215bd4e18f89cb0a717a84829e17f"><div class="ttname"><a href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134a5d3215bd4e18f89cb0a717a84829e17f">MISCHOOK_CAN_APPLY_SOULBOUND_FLAG</a></div><div class="ttdeci">@ MISCHOOK_CAN_APPLY_SOULBOUND_FLAG</div><div class="ttdef"><b>Definition:</b> MiscScript.h:36</div></div>
+<div class="ttc" id="aa00788_html_af37f873b1735a7e1f78da6f2f334c134a9733f4054c726297206f0d94936b198f"><div class="ttname"><a href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134a9733f4054c726297206f0d94936b198f">MISCHOOK_ON_DESTRUCT_OBJECT</a></div><div class="ttdeci">@ MISCHOOK_ON_DESTRUCT_OBJECT</div><div class="ttdef"><b>Definition:</b> MiscScript.h:28</div></div>
+<div class="ttc" id="aa00788_html_af37f873b1735a7e1f78da6f2f334c134a9c2cb4ea6da418aff3e4f1cad36a6490"><div class="ttname"><a href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134a9c2cb4ea6da418aff3e4f1cad36a6490">MISCHOOK_GET_DIALOG_STATUS</a></div><div class="ttdeci">@ MISCHOOK_GET_DIALOG_STATUS</div><div class="ttdef"><b>Definition:</b> MiscScript.h:44</div></div>
+<div class="ttc" id="aa00788_html_af37f873b1735a7e1f78da6f2f334c134aadbe4a9d67dbca7b90292899c0ae8d4c"><div class="ttname"><a href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134aadbe4a9d67dbca7b90292899c0ae8d4c">MISCHOOK_ON_ITEM_CREATE</a></div><div class="ttdeci">@ MISCHOOK_ON_ITEM_CREATE</div><div class="ttdef"><b>Definition:</b> MiscScript.h:35</div></div>
+<div class="ttc" id="aa00788_html_af37f873b1735a7e1f78da6f2f334c134ab44e63644ffca18d22fd8f100d741439"><div class="ttname"><a href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134ab44e63644ffca18d22fd8f100d741439">MISCHOOK_ON_CONSTRUCT_PLAYER</a></div><div class="ttdeci">@ MISCHOOK_ON_CONSTRUCT_PLAYER</div><div class="ttdef"><b>Definition:</b> MiscScript.h:29</div></div>
+<div class="ttc" id="aa00788_html_af37f873b1735a7e1f78da6f2f334c134ace5f04f0c222b965d512026b695922c5"><div class="ttname"><a href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134ace5f04f0c222b965d512026b695922c5">MISCHOOK_ON_DESTRUCT_INSTANCE_SAVE</a></div><div class="ttdeci">@ MISCHOOK_ON_DESTRUCT_INSTANCE_SAVE</div><div class="ttdef"><b>Definition:</b> MiscScript.h:34</div></div>
+<div class="ttc" id="aa00788_html_af37f873b1735a7e1f78da6f2f334c134aced03c29bfe1b673cd653f80f983c9fb"><div class="ttname"><a href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134aced03c29bfe1b673cd653f80f983c9fb">MISCHOOK_ON_CONSTRUCT_OBJECT</a></div><div class="ttdeci">@ MISCHOOK_ON_CONSTRUCT_OBJECT</div><div class="ttdef"><b>Definition:</b> MiscScript.h:27</div></div>
+<div class="ttc" id="aa00788_html_af37f873b1735a7e1f78da6f2f334c134ad88e01abe00726c718edd6c7903ec8ea"><div class="ttname"><a href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134ad88e01abe00726c718edd6c7903ec8ea">MISCHOOK_ON_AFTER_LOOT_TEMPLATE_PROCESS</a></div><div class="ttdeci">@ MISCHOOK_ON_AFTER_LOOT_TEMPLATE_PROCESS</div><div class="ttdef"><b>Definition:</b> MiscScript.h:41</div></div>
+<div class="ttc" id="aa00788_html_af37f873b1735a7e1f78da6f2f334c134ad8dcf71de9c5c4a16743e80d66ac70c0"><div class="ttname"><a href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134ad8dcf71de9c5c4a16743e80d66ac70c0">MISCHOOK_VALIDATE_SPELL_AT_CAST_SPELL</a></div><div class="ttdeci">@ MISCHOOK_VALIDATE_SPELL_AT_CAST_SPELL</div><div class="ttdef"><b>Definition:</b> MiscScript.h:39</div></div>
+<div class="ttc" id="aa00788_html_af37f873b1735a7e1f78da6f2f334c134ae8c3fca40135e387a84d7156f26a16c9"><div class="ttname"><a href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134ae8c3fca40135e387a84d7156f26a16c9">MISCHOOK_END</a></div><div class="ttdeci">@ MISCHOOK_END</div><div class="ttdef"><b>Definition:</b> MiscScript.h:45</div></div>
+<div class="ttc" id="aa00788_html_af37f873b1735a7e1f78da6f2f334c134ae9bacf4ccf18f7e88d8aa9f83bdebded"><div class="ttname"><a href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134ae9bacf4ccf18f7e88d8aa9f83bdebded">MISCHOOK_CAN_ITEM_APPLY_EQUIP_SPELL</a></div><div class="ttdeci">@ MISCHOOK_CAN_ITEM_APPLY_EQUIP_SPELL</div><div class="ttdef"><b>Definition:</b> MiscScript.h:37</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -277,8 +246,8 @@ Enumerations</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_824c567499771b11a8d1959386aa27e6.html">Scripting</a></li><li class="navelem"><a class="el" href="../../dir_a0aac0519f50cbe40c54d5948ed285d0.html">ScriptDefines</a></li><li class="navelem"><a class="el" href="../../df/d0c/a00788.html">AllBattlegroundScript.h</a></li>
-    <li class="footer">Generated on Mon Sep 7 2026 23:03:21 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_824c567499771b11a8d1959386aa27e6.html">Scripting</a></li><li class="navelem"><a class="el" href="../../dir_a0aac0519f50cbe40c54d5948ed285d0.html">ScriptDefines</a></li><li class="navelem"><a class="el" href="../../df/d0c/a00788.html">MiscScript.h</a></li>
+    <li class="footer">Generated on Mon Sep 14 2026 23:32:30 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

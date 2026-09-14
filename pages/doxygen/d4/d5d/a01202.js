@@ -1,6 +1,19 @@
 var a01202 =
 [
-    [ "ToCloud9Sidecar", "d0/d9c/a12163.html", "d0/d9c/a12163" ],
-    [ "MAX_MAP_ID", "d4/d5d/a01202.html#a913ea4496407eed4f786059d99f61b95", null ],
-    [ "sToCloud9Sidecar", "d4/d5d/a01202.html#a269ff175e81e59511267ed3605cb45cb", null ]
+    [ "ArenaSeasonReward", "db/db9/a07681.html", "db/db9/a07681" ],
+    [ "ArenaSeasonRewardGroup", "db/d98/a07685.html", "db/d98/a07685" ],
+    [ "ArenaSeasonMgr", "d8/d5c/a07689.html", "d8/d5c/a07689" ],
+    [ "sArenaSeasonMgr", "d4/d5d/a01202.html#ac46c94dc4c6cf0de37233cdd42a97ccf", null ],
+    [ "ArenaSeasonRewardGroupCriteriaType", "d4/d5d/a01202.html#a983281e9aada2538d6bc53ae4dd4d266", [
+      [ "ARENA_SEASON_REWARD_CRITERIA_TYPE_PERCENT_VALUE", "d4/d5d/a01202.html#a983281e9aada2538d6bc53ae4dd4d266a39f434bc965a3f4fafe78ece7d3f6422", null ],
+      [ "ARENA_SEASON_REWARD_CRITERIA_TYPE_ABSOLUTE_VALUE", "d4/d5d/a01202.html#a983281e9aada2538d6bc53ae4dd4d266a80897ebd11175aa1dd3435611c86dd63", null ]
+    ] ],
+    [ "ArenaSeasonRewardType", "d4/d5d/a01202.html#a89a1f93759bb943ff9ef0e4991579265", [
+      [ "ARENA_SEASON_REWARD_TYPE_ITEM", "d4/d5d/a01202.html#a89a1f93759bb943ff9ef0e4991579265a124351d53a1d14813bc7af90043d8a32", null ],
+      [ "ARENA_SEASON_REWARD_TYPE_ACHIEVEMENT", "d4/d5d/a01202.html#a89a1f93759bb943ff9ef0e4991579265ad12571a956e334946d72aa118f464444", null ]
+    ] ],
+    [ "ArenaSeasonState", "d4/d5d/a01202.html#a64f8715fead51dc9727d105bce4d0e38", [
+      [ "ARENA_SEASON_STATE_DISABLED", "d4/d5d/a01202.html#a64f8715fead51dc9727d105bce4d0e38ac019cd8397ba38ebc1d327c337d48017", null ],
+      [ "ARENA_SEASON_STATE_IN_PROGRESS", "d4/d5d/a01202.html#a64f8715fead51dc9727d105bce4d0e38a455a35a5e6e89efd32818e52ca82f5f8", null ]
+    ] ]
 ];

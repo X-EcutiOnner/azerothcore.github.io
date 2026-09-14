@@ -1,8 +1,7 @@
 var a11945 =
 [
-    [ "DirectionType", "d1/d63/a11945.html#a8491033c0286895c2d4d3280cfd529f0", null ],
-    [ "ObjectType", "d1/d63/a11945.html#a20c29be1005aa52993d4ec0a13c36f4d", null ],
-    [ "ReferenceType", "d1/d63/a11945.html#a44e310a789c4c5a288f07c9254ad389a", null ],
-    [ "SelectionCategory", "d1/d63/a11945.html#a4a42ef329b6cfcfcd7fd4ce59e8f597c", null ],
-    [ "SelectionCheckType", "d1/d63/a11945.html#a35c8d221b47de13408a0256598fa9d63", null ]
+    [ "chance", "d1/d63/a11945.html#a3326edd1fa36b85b9ab7a84a6f6f9d1b", null ],
+    [ "triggeredByAura", "d1/d63/a11945.html#abb48d6093570ba9c5488f200544a1e83", null ],
+    [ "triggeredByEffIdx", "d1/d63/a11945.html#a82d752dedab39f417af225add6af1403", null ],
+    [ "triggeredSpell", "d1/d63/a11945.html#a02ac12119655f9ab82347d21cc68803a", null ]
 ];

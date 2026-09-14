@@ -1,7 +1,7 @@
 var a22037 =
 [
-    [ "HandleDummy", "de/d47/a22037.html#a98e8a4b7bbe947b00f1bc32632736d59", null ],
-    [ "PrepareSpellScript", "de/d47/a22037.html#a65b1ddf275eb5ee14ca32a1e25bf6e0e", null ],
-    [ "Register", "de/d47/a22037.html#acdfa4e1fc8e26a887e80521b1bea5150", null ],
-    [ "Validate", "de/d47/a22037.html#aeec15705a41ad2ac0e59d90086591d96", null ]
+    [ "npc_emilyAI", "d5/d01/a22041.html", "d5/d01/a22041" ],
+    [ "npc_emily", "de/d47/a22037.html#ab40f581fad087b3d32a7724fca97895d", null ],
+    [ "GetAI", "de/d47/a22037.html#a6317e4b9787c25ce119d08432cd1acf7", null ],
+    [ "OnQuestAccept", "de/d47/a22037.html#ad434e7bf2427b3575a8459021e792152", null ]
 ];

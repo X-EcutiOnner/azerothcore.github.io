@@ -1,8 +1,9 @@
 var a12689 =
 [
-    [ "brd_ironhand_guardian", "df/df4/a12689.html#a635a59a53948b6e252a15384d784a969", null ],
-    [ "SetData", "df/df4/a12689.html#a7677681c4d39ed73f4143caa66a1a5de", null ],
-    [ "UpdateAI", "df/df4/a12689.html#a8840ead9b577888ec2ac15d68ddffe71", null ],
-    [ "_flamesEnabled", "df/df4/a12689.html#a1b162039fc21a7eddddd22ed9c97e9cb", null ],
-    [ "events", "df/df4/a12689.html#a01047164b0728cb6d08a7f41cf092a58", null ]
+    [ "titles_commandscript", "df/df4/a12689.html#ac088fd907013150a0508b79c99f6c2f3", null ],
+    [ "GetCommands", "df/df4/a12689.html#af7d00111b3190f8bc9c46cedda3621d6", null ],
+    [ "HandleTitlesAddCommand", "df/df4/a12689.html#a2a44d6f83bc5617a25a53b18fbd35e32", null ],
+    [ "HandleTitlesCurrentCommand", "df/df4/a12689.html#a9a9b503e9ee65aa0d92cc7ff2e38a09d", null ],
+    [ "HandleTitlesRemoveCommand", "df/df4/a12689.html#a2001bcc2eddc5688d57154f9906218e4", null ],
+    [ "HandleTitlesSetMaskCommand", "df/df4/a12689.html#a9517b10295b856779cdd067234f640c8", null ]
 ];

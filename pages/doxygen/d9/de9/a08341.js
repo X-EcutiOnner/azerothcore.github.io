@@ -1,10 +1,16 @@
 var a08341 =
 [
-    [ "LfgUpdateData", "d9/de9/a08341.html#a01326fafaa2ce562b5710d1d7ca75330", null ],
-    [ "LfgUpdateData", "d9/de9/a08341.html#a656873ea6ef9b3f23791827617a000c6", null ],
-    [ "LfgUpdateData", "d9/de9/a08341.html#a248682a712dd43b8c4601830aae4ddec", null ],
-    [ "comment", "d9/de9/a08341.html#a398f1b9ce0737d833fe4566ecea20e31", null ],
-    [ "dungeons", "d9/de9/a08341.html#a0e9b49693248b438dbc508e230a870db", null ],
-    [ "state", "d9/de9/a08341.html#ad9c270e37acaa105b9e12ec73158c7e3", null ],
-    [ "updateType", "d9/de9/a08341.html#a146e43854f66bf57f703d7089a24481e", null ]
+    [ "DisableMap", "d9/de9/a08341.html#adf2cad99fa4b2b3ddbff05931928c1c5", null ],
+    [ "DisableTypeMap", "d9/de9/a08341.html#a70c68e93cdd77f5e54bae1b96c66da13", null ],
+    [ "DisableMgr", "d9/de9/a08341.html#afadb62b96ab43f983f8a8c3077cbe205", null ],
+    [ "~DisableMgr", "d9/de9/a08341.html#ae1483ae3fdeeb98cceb29905f7181b1a", null ],
+    [ "AddDisable", "d9/de9/a08341.html#a343955ca73dabce8e7b81bf2803992fc", null ],
+    [ "CheckQuestDisables", "d9/de9/a08341.html#a2f9fa5dadf6f2da5f01651d37d996377", null ],
+    [ "HandleDisableType", "d9/de9/a08341.html#a203bb85bc7ecb9be3cf09b5d093b90fa", null ],
+    [ "instance", "d9/de9/a08341.html#ac3787801d677b0ed6592476d648743db", null ],
+    [ "IsDisabledFor", "d9/de9/a08341.html#accac4f17d8411544e22ba2231b04f36f", null ],
+    [ "IsPathfindingEnabled", "d9/de9/a08341.html#a8dce4846886ded6ec2b882820abdc517", null ],
+    [ "IsVMAPDisabledFor", "d9/de9/a08341.html#a38b182e1836b2197303b2809006f5148", null ],
+    [ "LoadDisables", "d9/de9/a08341.html#adb464165caf6cd436499fa84969eeaf8", null ],
+    [ "m_DisableMap", "d9/de9/a08341.html#a7a299346248eb6dc692f9e56ae9efffd", null ]
 ];

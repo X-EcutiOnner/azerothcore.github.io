@@ -1,7 +1,8 @@
 var a28017 =
 [
-    [ "HandleProc", "da/d57/a28017.html#a41b42a2d219904cdaf2a714d97e500f7", null ],
-    [ "PrepareAuraScript", "da/d57/a28017.html#a95c26300614ecdab588ddcc256fc1fd6", null ],
-    [ "Register", "da/d57/a28017.html#afb32150ac10ad392b63f40db05433835", null ],
-    [ "Validate", "da/d57/a28017.html#ab012775206fb6011eff8fbed293319c8", null ]
+    [ "HandleDamage", "da/d57/a28017.html#a371d3112e619453b7c92933a145bf4d2", null ],
+    [ "HandleDummy", "da/d57/a28017.html#a051f68946f3c246b410bbaa2ac14e4b1", null ],
+    [ "PrepareSpellScript", "da/d57/a28017.html#a41d69ed3f8372c4e157aefbec6ad525c", null ],
+    [ "Register", "da/d57/a28017.html#aaa1e53f38a2ba835c12fa726c030ab08", null ],
+    [ "Validate", "da/d57/a28017.html#a180ab99bc257b841e0bbbfc0ddb83814", null ]
 ];

@@ -1,7 +1,5 @@
 var a19425 =
 [
-    [ "npc_ioc_gunship_captainAI", "dc/dbf/a19425.html#a23477a6f29b13308067c1f42ced1e9fe", null ],
-    [ "DoAction", "dc/dbf/a19425.html#a89fb251869d6bfbefbca1e2d3178178a", null ],
-    [ "UpdateAI", "dc/dbf/a19425.html#a222b304633143bba47d3edde67ea093b", null ],
-    [ "_events", "dc/dbf/a19425.html#aa8b7c262641a5f1f86c5ae39f8b62dca", null ]
+    [ "at_icc_spire_frostwyrm", "dc/dbf/a19425.html#ac3da2c0bc3e8b1c31832fcbb4e8ceae8", null ],
+    [ "_OnTrigger", "dc/dbf/a19425.html#a67e320fb8ada7cb2c87f5944395fa174", null ]
 ];

@@ -1,33 +1,69 @@
 var a02549 =
 [
-    [ "npc_pet_pri_lightwell", "de/d0c/a24525.html", "de/d0c/a24525" ],
-    [ "PriestSpells", "d0/df5/a02549.html#a8aaecfe4214ff7bd567980dd904b110f", [
-      [ "SPELL_PRIEST_LIGHTWELL_CHARGES", "d0/df5/a02549.html#a8aaecfe4214ff7bd567980dd904b110faa3a53a7bde25a970e5c29b0f7f8984b2", null ],
-      [ "SPELL_PRIEST_DIVINE_AEGIS", "d5/dda/a03560.html#a8aaecfe4214ff7bd567980dd904b110fa4bd6adc8070fcaa774451c5cac40ded1", null ],
-      [ "SPELL_PRIEST_EMPOWERED_RENEW", "d5/dda/a03560.html#a8aaecfe4214ff7bd567980dd904b110fad78a13deca5dca1beb7e7304ae3e2014", null ],
-      [ "SPELL_PRIEST_GLYPH_OF_CIRCLE_OF_HEALING", "d5/dda/a03560.html#a8aaecfe4214ff7bd567980dd904b110faa6155b51d0796813e0d96b14449698d5", null ],
-      [ "SPELL_PRIEST_GLYPH_OF_LIGHTWELL", "d5/dda/a03560.html#a8aaecfe4214ff7bd567980dd904b110fa08ad85769dce5870b0201048c1537b8d", null ],
-      [ "SPELL_PRIEST_GLYPH_OF_PRAYER_OF_HEALING_HEAL", "d5/dda/a03560.html#a8aaecfe4214ff7bd567980dd904b110fadbaba8ea6d37743ef668662c895fcb4e", null ],
-      [ "SPELL_PRIEST_GUARDIAN_SPIRIT_HEAL", "d5/dda/a03560.html#a8aaecfe4214ff7bd567980dd904b110fa2e82dca38567004533ff9b39360424c4", null ],
-      [ "SPELL_PRIEST_ITEM_EFFICIENCY", "d5/dda/a03560.html#a8aaecfe4214ff7bd567980dd904b110fad0b9beecf2b1e0f1fadc6cf162bbd07d", null ],
-      [ "SPELL_PRIEST_LIGHTWELL_CHARGES", "d5/dda/a03560.html#a8aaecfe4214ff7bd567980dd904b110faa3a53a7bde25a970e5c29b0f7f8984b2", null ],
-      [ "SPELL_PRIEST_MANA_LEECH_PROC", "d5/dda/a03560.html#a8aaecfe4214ff7bd567980dd904b110fa4c5f8599ef6dfe01071d94bf15fdb366", null ],
-      [ "SPELL_PRIEST_PENANCE_R1", "d5/dda/a03560.html#a8aaecfe4214ff7bd567980dd904b110fa9ffd23299d870bb46db11bc57af21099", null ],
-      [ "SPELL_PRIEST_PENANCE_R1_DAMAGE", "d5/dda/a03560.html#a8aaecfe4214ff7bd567980dd904b110fa8768589bceb883d84b4e911a44d5267d", null ],
-      [ "SPELL_PRIEST_PENANCE_R1_HEAL", "d5/dda/a03560.html#a8aaecfe4214ff7bd567980dd904b110faf42f043dbb422920b04d0521f2103c68", null ],
-      [ "SPELL_PRIEST_REFLECTIVE_SHIELD_TRIGGERED", "d5/dda/a03560.html#a8aaecfe4214ff7bd567980dd904b110fa1fbf9f6af5e3402822cc04234cddaba4", null ],
-      [ "SPELL_PRIEST_REFLECTIVE_SHIELD_R1", "d5/dda/a03560.html#a8aaecfe4214ff7bd567980dd904b110fa22705e4341a9c87d475363cb0a9f78eb", null ],
-      [ "SPELL_PRIEST_SHADOW_WORD_DEATH", "d5/dda/a03560.html#a8aaecfe4214ff7bd567980dd904b110fad1d6a6bd6506f7e5a302ca1ad7256c4f", null ],
-      [ "SPELL_PRIEST_T9_HEALING_2P", "d5/dda/a03560.html#a8aaecfe4214ff7bd567980dd904b110faecf270b72f7ced3aab3ce3b2f24b8a87", null ],
-      [ "SPELL_PRIEST_VAMPIRIC_TOUCH_DISPEL", "d5/dda/a03560.html#a8aaecfe4214ff7bd567980dd904b110fa0ecf37a43c562bc7eae7041fc137ba03", null ],
-      [ "SPELL_PRIEST_T4_4P_FLEXIBILITY", "d5/dda/a03560.html#a8aaecfe4214ff7bd567980dd904b110faec0fc5ca32e9a185d596c0a931d65d9c", null ],
-      [ "SPELL_PRIEST_GLYPH_OF_SHADOWFIEND", "d5/dda/a03560.html#a8aaecfe4214ff7bd567980dd904b110faabcd07781394f6b318b9bf42c0938014", null ],
-      [ "SPELL_PRIEST_GLYPH_OF_SHADOWFIEND_MANA", "d5/dda/a03560.html#a8aaecfe4214ff7bd567980dd904b110fa24b5ecb3171baa6a2e1c79957bcd7fde", null ],
-      [ "SPELL_GENERIC_ARENA_DAMPENING", "d5/dda/a03560.html#a8aaecfe4214ff7bd567980dd904b110fa60a12ecf7b0c16a82500a97110ff35f0", null ],
-      [ "SPELL_GENERIC_BATTLEGROUND_DAMPENING", "d5/dda/a03560.html#a8aaecfe4214ff7bd567980dd904b110faf1c99f5067e5ef0ef1fb7f96bd317bf4", null ],
-      [ "SPELL_PRIEST_TWIN_DISCIPLINE_R1", "d5/dda/a03560.html#a8aaecfe4214ff7bd567980dd904b110fa58a40bf575a212bf832d151e37267690", null ],
-      [ "SPELL_PRIEST_SPIRITUAL_HEALING_R1", "d5/dda/a03560.html#a8aaecfe4214ff7bd567980dd904b110faeee484b733ad552750cbbd4bb82f11af", null ],
-      [ "SPELL_PRIEST_DIVINE_PROVIDENCE_R1", "d5/dda/a03560.html#a8aaecfe4214ff7bd567980dd904b110faead2486496bee0d1c950addeca1be8ae", null ]
+    [ "HalaaIds", "de/d36/a22697.html", "de/d36/a22697" ],
+    [ "OPvPCapturePointNA", "d2/dfa/a22701.html", "d2/dfa/a22701" ],
+    [ "OutdoorPvPNA", "df/dd7/a22705.html", "df/dd7/a22705" ],
+    [ "HalaaNPCS", "d0/df5/a02549.html#a3951c5b11bab0eeb9b06c1e19b25c036", null ],
+    [ "ControlGOTypes", "d0/df5/a02549.html#a671e2c9be7783733226427ebd264eb19", [
+      [ "NA_ROOST_S", "d0/df5/a02549.html#a671e2c9be7783733226427ebd264eb19afa875929ebc8b1c2db3a195ee37095ad", null ],
+      [ "NA_ROOST_W", "d0/df5/a02549.html#a671e2c9be7783733226427ebd264eb19a237f904232faee9c60bf01b3e5d27623", null ],
+      [ "NA_ROOST_N", "d0/df5/a02549.html#a671e2c9be7783733226427ebd264eb19ad182fca04bd07e7f4b7a924bf476a520", null ],
+      [ "NA_ROOST_E", "d0/df5/a02549.html#a671e2c9be7783733226427ebd264eb19ac2360c16ea760d37dcec325a5165ec8c", null ],
+      [ "NA_BOMB_WAGON_S", "d0/df5/a02549.html#a671e2c9be7783733226427ebd264eb19a8fe4900cb979a36257cc3ee70cfcd56e", null ],
+      [ "NA_BOMB_WAGON_W", "d0/df5/a02549.html#a671e2c9be7783733226427ebd264eb19a7ff23be34578fcc2d55e1f088b3e00cb", null ],
+      [ "NA_BOMB_WAGON_N", "d0/df5/a02549.html#a671e2c9be7783733226427ebd264eb19a7b1be1932fafd2586d4706e8541b85b8", null ],
+      [ "NA_BOMB_WAGON_E", "d0/df5/a02549.html#a671e2c9be7783733226427ebd264eb19a2447af22ca220eab12dbc987125a6870", null ],
+      [ "NA_DESTROYED_ROOST_S", "d0/df5/a02549.html#a671e2c9be7783733226427ebd264eb19a6267ce0c271fd7e77fcebb63e09b4099", null ],
+      [ "NA_DESTROYED_ROOST_W", "d0/df5/a02549.html#a671e2c9be7783733226427ebd264eb19ab023c62e57c5d189c91a4babd13525cf", null ],
+      [ "NA_DESTROYED_ROOST_N", "d0/df5/a02549.html#a671e2c9be7783733226427ebd264eb19a9cbe15da02cd0024dbedf82b2c752f0f", null ],
+      [ "NA_DESTROYED_ROOST_E", "d0/df5/a02549.html#a671e2c9be7783733226427ebd264eb19a81fe1a37a84a9d647898f65913718e3e", null ],
+      [ "NA_CONTROL_GO_NUM", "d0/df5/a02549.html#a671e2c9be7783733226427ebd264eb19ac9ebedb94fb10e2eb33d411be0865bd7", null ]
     ] ],
-    [ "AddSC_priest_pet_scripts", "d0/df5/a02549.html#ac0eaa77dc1cb9a092b318e3bc3f6d5b8", null ]
+    [ "FlightSpellsNA", "d0/df5/a02549.html#a68fd902d513cc8e7bf37946f9d26a80b", [
+      [ "NA_SPELL_FLY_SOUTH", "d0/df5/a02549.html#a68fd902d513cc8e7bf37946f9d26a80ba86e4e8c951657bc667c88d574dcbdb8f", null ],
+      [ "NA_SPELL_FLY_WEST", "d0/df5/a02549.html#a68fd902d513cc8e7bf37946f9d26a80ba9a9deaeede3e488499190b425fd3bdc2", null ],
+      [ "NA_SPELL_FLY_NORTH", "d0/df5/a02549.html#a68fd902d513cc8e7bf37946f9d26a80bafd6b9390ea045f8cfa5feef209cb9be3", null ],
+      [ "NA_SPELL_FLY_EAST", "d0/df5/a02549.html#a68fd902d513cc8e7bf37946f9d26a80bab97171fab8df1e600228b3da1456452d", null ]
+    ] ],
+    [ "HalaaCreaturesSpawn", "d0/df5/a02549.html#a394f453184d3eefd51298b772b4c789a", [
+      [ "NA_HALAA_CREATURES", "d0/df5/a02549.html#a394f453184d3eefd51298b772b4c789aa40c5b092548e0e873f1dbe1ff48a0910", null ],
+      [ "NA_HALAA_CREATURE_TEAM_SPAWN", "d0/df5/a02549.html#a394f453184d3eefd51298b772b4c789aa79500d69d3c666a75f664fa63f63de94", null ],
+      [ "NA_HALAA_MAX_CREATURE_SPAWN", "d0/df5/a02549.html#a394f453184d3eefd51298b772b4c789aa3d72e7f62a2349039b0c269f0c469553", null ]
+    ] ],
+    [ "HalaaGuardsNA", "d0/df5/a02549.html#a4e91f98214fe304c148fea20beaa5fae", [
+      [ "NA_HALAANI_GUARD_A", "d0/df5/a02549.html#a4e91f98214fe304c148fea20beaa5faeaa2b1c68dc890890449426eb6d46ff6c0", null ],
+      [ "NA_HALAANI_GUARD_H", "d0/df5/a02549.html#a4e91f98214fe304c148fea20beaa5faea6486eb6f2da8e52df614e7728a1f4304", null ]
+    ] ],
+    [ "HalaaStates", "d0/df5/a02549.html#a2c40def86e302e716c09a15f01e5b809", [
+      [ "HALAA_N", "d0/df5/a02549.html#a2c40def86e302e716c09a15f01e5b809a255888833d6c2bfcb48d6300e3a00e76", null ],
+      [ "HALAA_N_A", "d0/df5/a02549.html#a2c40def86e302e716c09a15f01e5b809a5e75a8ea3c221ca8d430a5c3a059ffba", null ],
+      [ "HALAA_A", "d0/df5/a02549.html#a2c40def86e302e716c09a15f01e5b809a7e97d445255ae31253d61c6042240799", null ],
+      [ "HALAA_N_H", "d0/df5/a02549.html#a2c40def86e302e716c09a15f01e5b809a83d195b2954e67659ed1f1c246d2a889", null ],
+      [ "HALAA_H", "d0/df5/a02549.html#a2c40def86e302e716c09a15f01e5b809a7159ad16ee5d51946529c3cd325c6547", null ]
+    ] ],
+    [ "OutdoorPvPNASpells", "d0/df5/a02549.html#a933dca48e43f02c2e7846375e0e3a3e2", [
+      [ "NA_KILL_TOKEN_ALLIANCE", "d0/df5/a02549.html#a933dca48e43f02c2e7846375e0e3a3e2aae0070f813d277d5864226d25a571413", null ],
+      [ "NA_KILL_TOKEN_HORDE", "d0/df5/a02549.html#a933dca48e43f02c2e7846375e0e3a3e2aacbd3b5420e976421bab93b50cfa1f0c", null ],
+      [ "NA_CAPTURE_BUFF", "d0/df5/a02549.html#a933dca48e43f02c2e7846375e0e3a3e2a734083143cec178f24ecabb449f0637c", null ]
+    ] ],
+    [ "WyvernStates", "d0/df5/a02549.html#a408ccf9c409baffb9c6d03f2edde557c", [
+      [ "WYVERN_NEU_HORDE", "d0/df5/a02549.html#a408ccf9c409baffb9c6d03f2edde557ca9069d119becf81d131d0212caf8c6ab5", null ],
+      [ "WYVERN_NEU_ALLIANCE", "d0/df5/a02549.html#a408ccf9c409baffb9c6d03f2edde557ca98723680d7ec1dc91030d50df4603200", null ],
+      [ "WYVERN_HORDE", "d0/df5/a02549.html#a408ccf9c409baffb9c6d03f2edde557cafdcbf2305711075969d48e3a56c2a578", null ],
+      [ "WYVERN_ALLIANCE", "d0/df5/a02549.html#a408ccf9c409baffb9c6d03f2edde557cabc4cc5f16edf95d854b436d27ce77c8e", null ]
+    ] ],
+    [ "AllianceControlGOs", "d0/df5/a02549.html#a6da5d6b9a0ecd5b15ced61c27d1c8aa4", null ],
+    [ "FLIGHT_NODES_NUM", "d0/df5/a02549.html#a767a89853ad9fbcea5e94bae963b3168", null ],
+    [ "FlightPathEndNodes", "d0/df5/a02549.html#aa4cf9c47955c274ca0bdce61e98a3a5a", null ],
+    [ "FlightPathStartNodes", "d0/df5/a02549.html#ac9bda252b1c34c9a478d3251069384b8", null ],
+    [ "HordeControlGOs", "d0/df5/a02549.html#a2ca90cdca32c0c9a0fef5ece362bb3e6", null ],
+    [ "NA_BUFF_ZONE", "d0/df5/a02549.html#ae9287f13e383331fe53c5a514989ca99", null ],
+    [ "NA_CREDIT_MARKER", "d0/df5/a02549.html#a8c04516b1462a78d64563849fe3136a1", null ],
+    [ "NA_GUARD_CHECK_TIME", "d0/df5/a02549.html#a0f69597d7fce786cae5202cb06be06cf", null ],
+    [ "NA_GUARDS_MAX", "d0/df5/a02549.html#a3fba4585a3d42e96191aa62b6938472f", null ],
+    [ "NA_HALAA_BOMB", "d0/df5/a02549.html#a793a1d2d8d6683df19de9b728d2af1de", null ],
+    [ "NA_HALAA_GRAVEYARD", "d0/df5/a02549.html#a23eddcc072a261674acb3acb48f637cb", null ],
+    [ "NA_HALAA_GRAVEYARD_ZONE", "d0/df5/a02549.html#a74f493038b14c5e7e5a00c661339278e", null ],
+    [ "NA_RESPAWN_TIME", "d0/df5/a02549.html#a6fd5686dd6cf4251b3b33513928f44bd", null ],
+    [ "PatrolCreatureEntry", "d0/df5/a02549.html#aac17891901d073bcbdc4b9b919bb8f43", null ]
 ];

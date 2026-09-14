@@ -1,5 +1,6 @@
 var a20249 =
 [
-    [ "boss_flame_leviathan_overload_device", "d0/de7/a20249.html#a6cd506d0615b1db9d42bf4d4858f6b05", null ],
-    [ "OnSpellClick", "d0/de7/a20249.html#a3f313a637fd95e28db1265ae84f349a8", null ]
+    [ "achievement_assembly_of_iron", "d0/de7/a20249.html#ae90d193b039d88ce38108b6617b5b8e9", null ],
+    [ "OnCheck", "d0/de7/a20249.html#ae66b3e708b38bfe685f9d28c14c2d3f5", null ],
+    [ "_targetEntry", "d0/de7/a20249.html#a20e8938ff30b18737fb96cf0277b5680", null ]
 ];

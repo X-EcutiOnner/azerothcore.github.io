@@ -1,5 +1,9 @@
 var a20453 =
 [
-    [ "id", "da/db3/a20453.html#accc6fc59e13a0897ae168fae33ee4c7d", null ],
-    [ "pos", "da/db3/a20453.html#aeca90e17f8b6f5b40f0f703ef9fe2b73", null ]
+    [ "boss_freya_nature_bomb", "da/db3/a20453.html#a050672942ab467557d21a930ab22827c", null ],
+    [ "Reset", "da/db3/a20453.html#ad2a679ba554a44f28d1f09a10fc88ec9", null ],
+    [ "UpdateAI", "da/db3/a20453.html#aae8b388dfa69896dd82557c1a4dcd135", null ],
+    [ "_explodeTimer", "da/db3/a20453.html#a09292e899ad771d9b15d2bc21ccd5b8d", null ],
+    [ "_goGUID", "da/db3/a20453.html#a18e66d31a4bd243ec3f7d438beacad77", null ],
+    [ "Timer", "da/db3/a20453.html#affadb797817ddf512209d1d71097baf3", null ]
 ];

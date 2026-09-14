@@ -1,8 +1,6 @@
 var a23765 =
 [
-    [ "FilterTargets", "d9/de6/a23765.html#ae366594b668331a19f384ceb48654c0c", null ],
-    [ "HandleOnHit", "d9/de6/a23765.html#abe5665fde7f01fafdfb55c58d8edbcf1", null ],
-    [ "PrepareSpellScript", "d9/de6/a23765.html#a71aa4018d293391a73d3317c1e80951d", null ],
-    [ "Register", "d9/de6/a23765.html#a3da162fd2cafc2e1236db0c6d4f65440", null ],
-    [ "Validate", "d9/de6/a23765.html#a3747ad271dc659436ae7a8203b964554", null ]
+    [ "HandleHit", "d9/de6/a23765.html#ab948b958955c2413ad6e15dfa09fd3cd", null ],
+    [ "PrepareSpellScript", "d9/de6/a23765.html#a37ff09e6b82d69c85b5bd98e84968569", null ],
+    [ "Register", "d9/de6/a23765.html#acb1b681f587817614c2b3684585369db", null ]
 ];

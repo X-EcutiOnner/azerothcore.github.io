@@ -1,7 +1,7 @@
 var a23497 =
 [
-    [ "npc_underbog_mushroom", "d8/d2c/a23497.html#a2b77b2590d46c14c783d2df4a3699c44", null ],
-    [ "InitializeAI", "d8/d2c/a23497.html#a7c192010cc63715eaa3f38b1d1372936", null ],
-    [ "UpdateAI", "d8/d2c/a23497.html#a9a8ed51b12809152ebe78dda69944d77", null ],
-    [ "_scheduler", "d8/d2c/a23497.html#a407cdb1096e5212dd0a50ea4fa401112", null ]
+    [ "HandleScriptEffect", "d8/d2c/a23497.html#ace1bb0dd5a76aa75038060af16b2e09f", null ],
+    [ "PrepareSpellScript", "d8/d2c/a23497.html#ab3f6d24643b75482d5f96779a5bdda11", null ],
+    [ "Register", "d8/d2c/a23497.html#a14772c25b70078c0034b8de17de5b77a", null ],
+    [ "Validate", "d8/d2c/a23497.html#a8318385367bf6c6b09e0978c461f5d59", null ]
 ];

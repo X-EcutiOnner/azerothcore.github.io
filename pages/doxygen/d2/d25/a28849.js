@@ -1,6 +1,5 @@
 var a28849 =
 [
-    [ "ChannelID", "d2/d25/a28849.html#a51753c36711e100fd8dca1cd5b1e7e94", null ],
-    [ "flags", "d2/d25/a28849.html#aa77db644555e336ccbb8dd138c192425", null ],
-    [ "pattern", "d2/d25/a28849.html#ad8b550cf444d66eede00abcf2cefec22", null ]
+    [ "npc_sunwell_gate", "d2/d25/a28849.html#a70643c475fe4aa6f47e0a47222b1faad", null ],
+    [ "OnQuestReward", "d2/d25/a28849.html#a760f5bef0c1f45f21698b0dcdf2d2236", null ]
 ];

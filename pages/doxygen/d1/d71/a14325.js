@@ -1,5 +1,7 @@
 var a14325 =
 [
-    [ "npc_mikhail", "d1/d71/a14325.html#ab63d49e91b0d4b6ca0f00ff0992f5bad", null ],
-    [ "OnQuestAccept", "d1/d71/a14325.html#a94733a942550f64c741f47e56fd43778", null ]
+    [ "boss_blight_wormAI", "d1/d71/a14325.html#af267e395fbd539f871e498dc6745c610", null ],
+    [ "Reset", "d1/d71/a14325.html#a96e27eaba5c9e422981d78123ed9c83d", null ],
+    [ "UpdateAI", "d1/d71/a14325.html#ac8e4c5a7a251173a2afb369498c88a1d", null ],
+    [ "_events", "d1/d71/a14325.html#a65f7fd4f73c727eeb5988d7ec77b94ce", null ]
 ];

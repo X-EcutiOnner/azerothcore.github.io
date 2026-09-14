@@ -1,8 +1,6 @@
 var a19753 =
 [
-    [ "Load", "d1/d11/a19753.html#a7bb0a7c71fb3b9958226069ed6e3399b", null ],
-    [ "OnRemove", "d1/d11/a19753.html#a1d9a8a8b289f565712ab79e9857f6eb7", null ],
-    [ "PrepareAuraScript", "d1/d11/a19753.html#aae6c3a215b09fd2270976190600e2cc4", null ],
-    [ "Register", "d1/d11/a19753.html#aa2c970e4e5b84d79960023c79e95f9c3", null ],
-    [ "Validate", "d1/d11/a19753.html#ae4ac76269793280335d76a78e5dced91", null ]
+    [ "DespawnTime", "d1/d11/a19753.html#ae14c357137f16666c74e5f7e3f77aed5", null ],
+    [ "End", "d1/d11/a19753.html#ac87ea314ccf946eb1fa35985e35c81fd", null ],
+    [ "Start", "d1/d11/a19753.html#a985271de503fa704a58abe3e64c3b268", null ]
 ];

@@ -1,6 +1,6 @@
 var a26137 =
 [
-    [ "CheckSinkholes", "df/d9f/a26137.html#a5c363144cde9e809d97730f54873fe85", null ],
-    [ "PrepareSpellScript", "df/d9f/a26137.html#a0cd1fc05ee319b04299fcebe3a405bb4", null ],
-    [ "Register", "df/d9f/a26137.html#a6694fbf58b776b74df0a54cd96141688", null ]
+    [ "HandleScript", "df/d9f/a26137.html#ab923050ce4613538ee4837daba09dd33", null ],
+    [ "PrepareSpellScript", "df/d9f/a26137.html#a9fa37b95f9c3788764922f4414c383f5", null ],
+    [ "Register", "df/d9f/a26137.html#a4bacedda40b04934e7473f7a92f6a314", null ]
 ];

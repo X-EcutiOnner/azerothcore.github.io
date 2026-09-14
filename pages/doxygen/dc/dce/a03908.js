@@ -1,15 +1,14 @@
 var a03908 =
 [
-    [ "instance_stratholme", "d5/dea/a13649.html", "d5/dea/a13649" ],
-    [ "instance_stratholme::instance_stratholme_InstanceMapScript", "d8/db4/a13653.html", "d8/db4/a13653" ],
-    [ "go_enchanted_scarlet_thread", "dd/df7/a13657.html", "dd/df7/a13657" ],
-    [ "AddSC_instance_stratholme", "dc/dce/a03908.html#add44fd9ad05267cc5db256b112db2585", null ],
-    [ "aGateTrap", "dc/dce/a03908.html#aa404f6799978911e2f0e4de3b4386c59", null ],
-    [ "AllScarletThreadLocations", "dc/dce/a03908.html#a055cb3e623dd7500b61e9e36afb72af7", null ],
-    [ "aPlaguedCritters", "dc/dce/a03908.html#a4108af811b2731f9784942b89f333054", null ],
-    [ "BarthilasPos", "dc/dce/a03908.html#a3c5bc53064d7ed19146d61fbe2f25502", null ],
-    [ "BlackGuardPos", "dc/dce/a03908.html#a8ed1ccc03c022b129aa9bb9464fedd0a", null ],
-    [ "MindlessUndeadPos", "dc/dce/a03908.html#a1a89feed6c582c3bf3e51bf3a1027081", null ],
-    [ "ScarletThreadSpawnCount", "dc/dce/a03908.html#ab43e7dbe9fa919ee1b3442d6be2762f6", null ],
-    [ "SlaughterPos", "dc/dce/a03908.html#aec64d79cbf450b10fd485f2e559e0472", null ]
+    [ "npc_tapoke_slim_jahn", "d6/dad/a14373.html", "d6/dad/a14373" ],
+    [ "npc_tapoke_slim_jahn::npc_tapoke_slim_jahnAI", "dc/deb/a14377.html", "dc/deb/a14377" ],
+    [ "npc_mikhail", "d2/db5/a14381.html", "d2/db5/a14381" ],
+    [ "TapokeSlim", "dc/dce/a03908.html#ad5b3ef2d2393f509f0cbf4e70303fab9", [
+      [ "QUEST_MISSING_DIPLO_PT11", "dc/dce/a03908.html#ad5b3ef2d2393f509f0cbf4e70303fab9afdacf3720ad6627ab1c120619b4628a2", null ],
+      [ "SPELL_STEALTH", "dc/dce/a03908.html#ad5b3ef2d2393f509f0cbf4e70303fab9ab05b1ff486cc81800d4e40014eae5576", null ],
+      [ "SPELL_CALL_FRIENDS", "dc/dce/a03908.html#ad5b3ef2d2393f509f0cbf4e70303fab9a6cc72f5b401e64cbeb4986e9dc90c779", null ],
+      [ "NPC_SLIMS_FRIEND", "dc/dce/a03908.html#ad5b3ef2d2393f509f0cbf4e70303fab9afc7e4b6611738777f37002c70bb946c1", null ],
+      [ "NPC_TAPOKE_SLIM_JAHN", "dc/dce/a03908.html#ad5b3ef2d2393f509f0cbf4e70303fab9a2853dfe2482cee57da6a01e6bc030bda", null ]
+    ] ],
+    [ "AddSC_wetlands", "dc/dce/a03908.html#a96be3075a4a99658d93ffe3d69ba369a", null ]
 ];

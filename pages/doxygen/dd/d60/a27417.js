@@ -1,6 +1,6 @@
 var a27417 =
 [
-    [ "HandleRemove", "dd/d60/a27417.html#a92eb5e02c8b165caa877d368a456e5b2", null ],
-    [ "PrepareAuraScript", "dd/d60/a27417.html#a132193c0c13a2f89b9b29391d524023a", null ],
-    [ "Register", "dd/d60/a27417.html#a246294a7b9a128a9ec464562846332fc", null ]
+    [ "HandleScript", "dd/d60/a27417.html#a54c724bd8786c894ecaa584c164c2e53", null ],
+    [ "PrepareSpellScript", "dd/d60/a27417.html#a4505b9196609ae9339fe7e5948963663", null ],
+    [ "Register", "dd/d60/a27417.html#ae293d6a2a477f716f357516781246069", null ]
 ];

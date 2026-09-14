@@ -1,5 +1,8 @@
 var a14305 =
 [
-    [ "npc_andorhal_towerAI", "de/db3/a14305.html#ad2f8a14f2adfe1418a23de274493f85e", null ],
-    [ "MoveInLineOfSight", "de/db3/a14305.html#a1165ee0e066dcaeb300096e55758389b", null ]
+    [ "npc_varian_wrynnAI", "d8/dc6/a14309.html", "d8/dc6/a14309" ],
+    [ "npc_varian_wrynn", "de/db3/a14305.html#a1dd8e4664da693f3e4ecdd4581b96c87", null ],
+    [ "GetAI", "de/db3/a14305.html#aa5aa46f24a128e84ac2a837c012b2e02", null ],
+    [ "OnGossipHello", "de/db3/a14305.html#a95f6ff3f2a7db807b278d019e187ddec", null ],
+    [ "OnGossipSelect", "de/db3/a14305.html#a65d02bafebe9c5a45d707f8990d680a3", null ]
 ];

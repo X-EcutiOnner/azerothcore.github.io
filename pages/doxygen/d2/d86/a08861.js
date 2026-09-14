@@ -1,7 +1,11 @@
 var a08861 =
 [
-    [ "UsedPos", "d2/d86/a08861.html#aef230e392619ad4abc2da649d11b2394", null ],
-    [ "dist", "d2/d86/a08861.html#ae73cbe8b0cf3ce714f6654df3a8874de", null ],
-    [ "sign", "d2/d86/a08861.html#a2b5f97425309d56482a1f287b6d5be69", null ],
-    [ "size", "d2/d86/a08861.html#a4ad5a2df36ae9c1cd9130c5efd27af58", null ]
+    [ "MovableMapObject", "d2/d86/a08861.html#ad9f4cb74c55993cfdfc5895aefc33cfb", null ],
+    [ "GetCurrentCell", "d2/d86/a08861.html#a6d7d87cff5f00f3b370584675caf7870", null ],
+    [ "SetCurrentCell", "d2/d86/a08861.html#a4caa8c9e50452bff413dec06bf80b84c", null ],
+    [ "Map", "d2/d86/a08861.html#ad2f32e921244459f7cc6d50355429cc6", null ],
+    [ "ObjectGridLoader", "d2/d86/a08861.html#a9551c85ae0e43e4d212225c643da2262", null ],
+    [ "RandomMovementGenerator", "d2/d86/a08861.html#a260ebfc53c9406bc0356c553822d8ab2", null ],
+    [ "_currentCell", "d2/d86/a08861.html#a529db8859c0c9713bcc2f62459bbcc9f", null ],
+    [ "_moveState", "d2/d86/a08861.html#a6782d8e3dc7de58ef83a83cf0a355e43", null ]
 ];

@@ -1,7 +1,7 @@
 var a10861 =
 [
-    [ "SpellScriptLoader", "d2/d68/a10861.html#a3b6fe2ba310f95c438b7cf941865fe46", null ],
-    [ "GetAuraScript", "d2/d68/a10861.html#a9c60850e39ffe3d151a128b12777859d", null ],
-    [ "GetSpellScript", "d2/d68/a10861.html#a6f3a101a0517ba1440399809cf7f5b5b", null ],
-    [ "IsDatabaseBound", "d2/d68/a10861.html#ae60bf9957b950c7f5c9927f71510dc06", null ]
+    [ "InstanceMapScript", "d2/d68/a10861.html#a4efcd2ea9d4bd654b7454cd55541af14", null ],
+    [ "checkValidity", "d2/d68/a10861.html#a221dd91e2d2f761e66d990a6cae42306", null ],
+    [ "GetInstanceScript", "d2/d68/a10861.html#aa5a9acfc5a7c81a4953fe0e296f9bcc8", null ],
+    [ "IsDatabaseBound", "d2/d68/a10861.html#ab77651bb427813a7e119057c3dc53ca8", null ]
 ];

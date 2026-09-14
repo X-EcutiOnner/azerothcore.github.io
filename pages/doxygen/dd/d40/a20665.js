@@ -1,7 +1,7 @@
 var a20665 =
 [
-    [ "FilterTargets", "dd/d40/a20665.html#a16f739f70b052f71293846903aab8fdd", null ],
-    [ "HandleDummy", "dd/d40/a20665.html#a4290c0e73254fead6e0f1e4abf7d39f4", null ],
-    [ "PrepareSpellScript", "dd/d40/a20665.html#a430d44a79daa53fd492a0f9506bbbcc7", null ],
-    [ "Register", "dd/d40/a20665.html#af3a1324237de67b4fa507e626def7743", null ]
+    [ "FilterTargetsInitial", "dd/d40/a20665.html#a5632307d9a1a89d530a63e71c8abad1c", null ],
+    [ "Load", "dd/d40/a20665.html#a5467818535c6c7239e185d7c6c3bbd27", null ],
+    [ "PrepareSpellScript", "dd/d40/a20665.html#a4d1e588557fa3fa432d4015fda930877", null ],
+    [ "Register", "dd/d40/a20665.html#a0428375ddb89907e7f1728757d55d052", null ]
 ];

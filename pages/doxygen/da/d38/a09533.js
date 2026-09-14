@@ -1,5 +1,7 @@
 var a09533 =
 [
-    [ "asChar", "da/d38/a09533.html#a3c1546425a9287498d23753f51e27de2", null ],
-    [ "asUInt", "da/d38/a09533.html#a87b4e38a5c10dba382bd0761b70c2234", null ]
+    [ "GetAntiDosPolicyForOpcode", "da/d38/a09533.html#a9bbbc92f18c1c34c3359d0cad4299c2d", null ],
+    [ "instance", "da/d38/a09533.html#a859596f153aa470fa503f67092e26160", null ],
+    [ "LoadAntiDosOpcodePolicies", "da/d38/a09533.html#a9bd2c1a1ce11d9a50971d169a353e7f6", null ],
+    [ "_antiDosOpcodePolicies", "da/d38/a09533.html#acb7a5639f7ba378483e50aba8e93d68a", null ]
 ];

@@ -1,11 +1,8 @@
 var a29597 =
 [
-    [ "IsAvailable", "dc/d10/a29597.html#adfebd7a162ebae8396669de031c768a6", null ],
-    [ "operator bool", "dc/d10/a29597.html#ac25d4bb270c805b8ea2a6e0b4b6b2e74", null ],
-    [ "operator*", "dc/d10/a29597.html#a24733bf06b4a91abcf4945aa5303a275", null ],
-    [ "operator->", "dc/d10/a29597.html#ad0ddd6fe7451f2b968db3a7d7a93b342", null ],
-    [ "SecretMgr", "dc/d10/a29597.html#af098c138ad828545a3dfb1870ad4c2fb", null ],
-    [ "lock", "dc/d10/a29597.html#aff5ea87e5a7dbfdf5bd38400997f2c40", null ],
-    [ "state", "dc/d10/a29597.html#a8738c28fd3c71a08c8ef3fb02b4c455b", null ],
-    [ "value", "dc/d10/a29597.html#a16b48eb9b384f6ab8c6996b38f559825", null ]
+    [ "MapDifficulty", "dc/d10/a29597.html#abf514d1105541d5c5aaf52a91330a1e2", null ],
+    [ "MapDifficulty", "dc/d10/a29597.html#a227aec55b5b774076882ea34f70d5d88", null ],
+    [ "hasErrorMessage", "dc/d10/a29597.html#a8dd5436eaec4d0e67f8b41c8dd071148", null ],
+    [ "maxPlayers", "dc/d10/a29597.html#af82ad844bc4ac9585cb9df1963697e1b", null ],
+    [ "resetTime", "dc/d10/a29597.html#a7190131620b9eee0897ac7b4dd62949e", null ]
 ];

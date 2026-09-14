@@ -1,5 +1,5 @@
 var a22525 =
 [
-    [ "achievement_wg_within_our_grasp", "d3/d17/a22525.html#a9edbd15bc6989c6948e21391a683d22d", null ],
-    [ "OnCheck", "d3/d17/a22525.html#a10b659c4b52322536333e3d191796c27", null ]
+    [ "npc_wg_spirit_guideAI", "d3/d17/a22525.html#a576d15b6acedb07bfe1555bdd0ee8f12", null ],
+    [ "UpdateAI", "d3/d17/a22525.html#a32b28e8fe74db742d170bd754d11f4d7", null ]
 ];

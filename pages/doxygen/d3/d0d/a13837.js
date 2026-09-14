@@ -1,6 +1,12 @@
 var a13837 =
 [
-    [ "FilterTargets", "d3/d0d/a13837.html#aa6c8db9ae3ffd14e0841c98633115a9b", null ],
-    [ "PrepareSpellScript", "d3/d0d/a13837.html#a502f57c8567bc7ed15035d89ea26f4a6", null ],
-    [ "Register", "d3/d0d/a13837.html#aa3f50e9c6d430d3a1bc83c382c08b189", null ]
+    [ "boss_sathrovarr", "d3/d0d/a13837.html#a92bff830219f795d0aae4511f3d524bb", null ],
+    [ "CanAIAttack", "d3/d0d/a13837.html#a053dcf604aed91ac7c888d682653da54", null ],
+    [ "DoAction", "d3/d0d/a13837.html#ad0b549678e5b4eb7dfc1c1879885b45a", null ],
+    [ "JustDied", "d3/d0d/a13837.html#aa6683f0ccb70260e24f79d86ec4ae2d1", null ],
+    [ "JustEngagedWith", "d3/d0d/a13837.html#a1f3a74ac6f83673eed9b2a4276a5cf49", null ],
+    [ "KilledUnit", "d3/d0d/a13837.html#a17e2a5d253536c25cd04269b71a5c0ed", null ],
+    [ "Reset", "d3/d0d/a13837.html#a171c0e2c07ddf4c5271af8ed83f15257", null ],
+    [ "UpdateAI", "d3/d0d/a13837.html#a99c5c8801333f2eaf6b9fee287588093", null ],
+    [ "_instance", "d3/d0d/a13837.html#af7bfd6a65db102b5010f7b300e4acd27", null ]
 ];

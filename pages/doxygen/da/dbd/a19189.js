@@ -1,7 +1,8 @@
 var a19189 =
 [
-    [ "HandleScript", "da/dbd/a19189.html#ace11e192a27b2da98ff62c4eee7980ba", null ],
-    [ "PrepareSpellScript", "da/dbd/a19189.html#a8a6351b7f87101ac8328b6e76784978c", null ],
-    [ "Register", "da/dbd/a19189.html#ad57068b21218492078e2d2bfe76cc3c9", null ],
-    [ "Validate", "da/dbd/a19189.html#af6f1dd22aef0595315460c149d920dff", null ]
+    [ "ICCOrbControllerMinionSearch", "da/dbd/a19189.html#a4ad0fe75b994f2bf9cda7e52a2aa21cb", null ],
+    [ "operator()", "da/dbd/a19189.html#a4b7f4833f5dc780cc0c946b530bb9767", null ],
+    [ "_checkCasting", "da/dbd/a19189.html#a46624ac7610ccc72baa93d68bf89e070", null ],
+    [ "_owner", "da/dbd/a19189.html#a056aa0d3240c47c65138ec4469e39953", null ],
+    [ "_range", "da/dbd/a19189.html#a2a2d14d469f39d6af0e9110266b20b6c", null ]
 ];

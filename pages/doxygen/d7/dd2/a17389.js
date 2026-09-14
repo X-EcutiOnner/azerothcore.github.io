@@ -1,13 +1,7 @@
 var a17389 =
 [
-    [ "npc_hor_leader_secondAI", "d7/dd2/a17389.html#a54a5094dc533755efc249ebc96663b62", null ],
-    [ "DamageTaken", "d7/dd2/a17389.html#ae534779315b04b3dde495b13a1cb28e4", null ],
-    [ "DoAction", "d7/dd2/a17389.html#a4185259006017e85fade721796851dd0", null ],
-    [ "MovementInform", "d7/dd2/a17389.html#afe93165a3e96496b52a2be8de5022164", null ],
-    [ "MoveToNextStopPoint", "d7/dd2/a17389.html#a6d9f65386d6f40a5cf96b09ecaf54871", null ],
-    [ "Reset", "d7/dd2/a17389.html#ae5d125deab31e6425e94b4523d8251eb", null ],
-    [ "UpdateAI", "d7/dd2/a17389.html#ae991e18a6729a1b088c60060802c01c2", null ],
-    [ "currentStopPoint", "d7/dd2/a17389.html#ae4bf31530e701f9e0aa4f253452f9881", null ],
-    [ "events", "d7/dd2/a17389.html#a3510e246908f4e5b758e05ca06a29e47", null ],
-    [ "instance", "d7/dd2/a17389.html#a09cc193b1a718c06ef8349499e697f10", null ]
+    [ "OnRemove", "d7/dd2/a17389.html#a4b95717cb19116b81f3eec798089abad", null ],
+    [ "PrepareAuraScript", "d7/dd2/a17389.html#a581645fa151531aaf7b562a8739d5616", null ],
+    [ "Register", "d7/dd2/a17389.html#a01304c556d79001e290707551bee7622", null ],
+    [ "Validate", "d7/dd2/a17389.html#a96e4b9cae1f016bf87c9a09ceb6da561", null ]
 ];

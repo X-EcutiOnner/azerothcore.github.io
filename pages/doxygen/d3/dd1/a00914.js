@@ -1,6 +1,5 @@
 var a00914 =
 [
-    [ "ConcatenateDungeons", "d3/dd1/a00914.html#aeaebe53b818ad905c96d2cc56c18b7ca", null ],
-    [ "GetRolesString", "d3/dd1/a00914.html#adc336ffd636b51b0052448739671d46b", null ],
-    [ "GetStateString", "d3/dd1/a00914.html#a9d097d73fe8f096de2098ac74022b643", null ]
+    [ "achievIdByArenaSlot", "d3/dd1/a00914.html#a5264f22d916c9472e9a16ac52140f87c", null ],
+    [ "achievIdForDungeon", "d3/dd1/a00914.html#ac50d520adf892744d066d8c5187046b0", null ]
 ];

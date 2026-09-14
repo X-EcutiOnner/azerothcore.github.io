@@ -1,5 +1,6 @@
 var a22621 =
 [
-    [ "OutdoorPvP_nagrand", "d7/d7d/a22621.html#ac6e0f41eafb915604bd1b1d84e915f87", null ],
-    [ "GetOutdoorPvP", "d7/d7d/a22621.html#ae8ce0bf210e2be8229b9ac4d8615b058", null ]
+    [ "npc_crusade_recruitAI", "d2/deb/a22625.html", "d2/deb/a22625" ],
+    [ "npc_crusade_recruit", "d7/d7d/a22621.html#a6e130f153c506255ef5ece1baf006028", null ],
+    [ "GetAI", "d7/d7d/a22621.html#a412f0d153676758fda8c1f7f1e9dda44", null ]
 ];

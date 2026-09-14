@@ -1,6 +1,6 @@
 var a17781 =
 [
-    [ "OnAbsorb", "dd/d3d/a17781.html#aa6582457cd0502ca263433d04b40b64f", null ],
-    [ "PrepareAuraScript", "dd/d3d/a17781.html#a0b6916dd3f6172e59edf477f203c85b1", null ],
-    [ "Register", "dd/d3d/a17781.html#a945ec4037120992e8a2986e7fd2e2c96", null ]
+    [ "npc_dark_nucleusAI", "d9/d94/a17785.html", "d9/d94/a17785" ],
+    [ "npc_dark_nucleus", "dd/d3d/a17781.html#a14459f4f41ef568decbc952fdcd4ffd5", null ],
+    [ "GetAI", "dd/d3d/a17781.html#a1f59ae45c1a84a6faca5a8bb62fc16fc", null ]
 ];

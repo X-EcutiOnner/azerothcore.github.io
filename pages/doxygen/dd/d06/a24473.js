@@ -1,8 +1,11 @@
 var a24473 =
 [
-    [ "npc_pet_gen_wind_rider_cub", "dd/d06/a24473.html#a17e1f3155b9a9864459e48d1cd11c6a6", null ],
-    [ "UpdateAI", "dd/d06/a24473.html#a534d122522d553e106e6c7729d6c55db", null ],
-    [ "checkTimer", "dd/d06/a24473.html#a39fcfc5f5d9a630180713512db778b32", null ],
-    [ "checkTimer2", "dd/d06/a24473.html#aabeaf7a9b5b77df540e1111950860e98", null ],
-    [ "isFlying", "dd/d06/a24473.html#a57124f8172bd15a5e6c708edff41dc2f", null ]
+    [ "npc_isla_starmaneAI", "dd/d06/a24473.html#a0cb655d324ddde173dcfdee069c0f694", null ],
+    [ "JustDied", "dd/d06/a24473.html#ac7132ac84a64bccbcf8895cbc4a86f9c", null ],
+    [ "JustEngagedWith", "dd/d06/a24473.html#ab40287c6bfc67b09bf7336ea53116cab", null ],
+    [ "JustRespawned", "dd/d06/a24473.html#a69b395a9b9504737109870c5e8db74c8", null ],
+    [ "UpdateEscortAI", "dd/d06/a24473.html#af4b8c80e7443bb671be253238b124910", null ],
+    [ "WaypointReached", "dd/d06/a24473.html#a5d00583afa4e811e4f3cb8400787a990", null ],
+    [ "WaypointReached", "dd/d06/a24473.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "events", "dd/d06/a24473.html#a53cfabbe7cf85ceb19286d67bb23f2ec", null ]
 ];

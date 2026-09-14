@@ -1,18 +1,18 @@
 var a04499 =
 [
-    [ "WildGrowthTickScalingTest", "d6/d1a/a30105.html", null ],
-    [ "CalcAllTicks", "da/dec/a04499.html#a7d72b7a206fea0eaa814a190c35a0e29", null ],
-    [ "CalcPct", "da/dec/a04499.html#a95e4d56dd3e5ff9502c8bb2627784cd5", null ],
-    [ "CalcWildGrowthTickAmount", "da/dec/a04499.html#addfd88f5be5daae3a078cbade7aed80e", null ],
-    [ "TEST_F", "da/dec/a04499.html#a9d52bfcc939885d06058fd6bf5d53c2c", null ],
-    [ "TEST_F", "da/dec/a04499.html#aa504cc9a356860eb165f182559c176a5", null ],
-    [ "TEST_F", "da/dec/a04499.html#a782bf6635bb8ed38811c7267570bbc89", null ],
-    [ "TEST_F", "da/dec/a04499.html#a2aa08e1fb8bf70cf536d6b6bcd66ff1d", null ],
-    [ "TEST_F", "da/dec/a04499.html#ad88848d6f6a3aac255bc69c9fe088035", null ],
-    [ "TEST_F", "da/dec/a04499.html#a5baa77f7a4dcc6d8040eab8d54e78de4", null ],
-    [ "TEST_F", "da/dec/a04499.html#ad78da13617963af6adeadcec4d175082", null ],
-    [ "TEST_F", "da/dec/a04499.html#ade248bfbf5bb17e3ab46f8d2276b3ba8", null ],
-    [ "TEST_F", "da/dec/a04499.html#a476b6f58d0b66ce6fce645271bac47d7", null ],
-    [ "DEFAULT_REDUCTION", "da/dec/a04499.html#ae0cd8a076081c01395db37925ee7e3f5", null ],
-    [ "TOTAL_TICKS", "da/dec/a04499.html#a7748fbc7dddd525998e933e79311736a", null ]
+    [ "CascadeProcSuppressionTest", "d0/daf/a30021.html", "d0/daf/a30021" ],
+    [ "RealSpellTestCase", "d4/da1/a30025.html", "d4/da1/a30025" ],
+    [ "CascadeProcRealSpellTest", "db/db6/a30029.html", null ],
+    [ "INSTANTIATE_TEST_SUITE_P", "da/dec/a04499.html#a567300126c458aa8f2a67a6b61cfe64b", null ],
+    [ "TEST_F", "da/dec/a04499.html#a0fa51afabb656e204b564ca6fb0edc9c", null ],
+    [ "TEST_F", "da/dec/a04499.html#a111eadd5b4ba536e22a70ee1ac1a8010", null ],
+    [ "TEST_F", "da/dec/a04499.html#af2c476b9074527e551bb3e269ab0e14a", null ],
+    [ "TEST_F", "da/dec/a04499.html#a693bf0209a8095129fc2244a0684ad9f", null ],
+    [ "TEST_F", "da/dec/a04499.html#aa63b24064ef385ae513247b6228bc97d", null ],
+    [ "TEST_F", "da/dec/a04499.html#a1d712040cde4f4fc1498c86d1a8c1a2c", null ],
+    [ "TEST_F", "da/dec/a04499.html#ab78bd7e3715bc34e2a980043d6ac2cae", null ],
+    [ "TEST_F", "da/dec/a04499.html#ae7f0c3a70baa5f99f17ebd2079eec6d6", null ],
+    [ "TEST_F", "da/dec/a04499.html#acdeb87fc2a70920a25f69077f5b9f3bc", null ],
+    [ "TEST_F", "da/dec/a04499.html#a16cd6603e2c42c8fb68258736fe6daf1", null ],
+    [ "TEST_P", "da/dec/a04499.html#af27813ec1b49f5d720e19dabde2474bf", null ]
 ];

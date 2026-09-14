@@ -1,6 +1,6 @@
 var a29301 =
 [
-    [ "ID", "d7/d4a/a29301.html#a7d40e334785d96a2e57d28f87a59778a", null ],
-    [ "maxCount", "d7/d4a/a29301.html#a5edc6442e026b12dae654fa86440a11a", null ],
-    [ "mode", "d7/d4a/a29301.html#a76553ecf9f880a5e5967f818123742fd", null ]
+    [ "Id", "d7/d4a/a29301.html#a5d7f2d5a2890593554ea841deb38abb2", null ],
+    [ "Order", "d7/d4a/a29301.html#a16fca42d9a0a98e034a93984c4362b53", null ],
+    [ "TypeFlags", "d7/d4a/a29301.html#ac7246adc7c6c3217de8ac093983b7553", null ]
 ];

@@ -1,6 +1,7 @@
 var a10365 =
 [
-    [ "aiNotifyDelay", "d5/d30/a10365.html#af70453021c5ded85c73a4d5559dca2ea", null ],
-    [ "requiredMoveDistanceSq", "d5/d30/a10365.html#aaa4faa0170181e409940b5441eb2f586", null ],
-    [ "visibilityNotifyDelay", "d5/d30/a10365.html#ad566fd5eff102929247b75cf5092a60b", null ]
+    [ "MapPreloadRequest", "d5/d30/a10365.html#abb217a11f2b2ed7716cad33e0fd667e7", null ],
+    [ "call", "d5/d30/a10365.html#a688f4e2c5517c29c10c0810325211b50", null ],
+    [ "_mapId", "d5/d30/a10365.html#aa207469ff8369f9b5559b35404d16847", null ],
+    [ "_updater", "d5/d30/a10365.html#ae6d0d229c7cd04152fd54d03aa69306a", null ]
 ];

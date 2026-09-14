@@ -1,8 +1,8 @@
 var a26225 =
 [
-    [ "HandleDummy", "d3/d4a/a26225.html#a13b4ea32e03dec26d0cdaa9537abb3b0", null ],
-    [ "Load", "d3/d4a/a26225.html#a78506404ba25b054a9ab3f7176a5d4fc", null ],
-    [ "PrepareSpellScript", "d3/d4a/a26225.html#a070e83b84feb418f02327240daebede7", null ],
-    [ "Register", "d3/d4a/a26225.html#a0c2965e62feb26ca764636fcd3a1f885", null ],
-    [ "Validate", "d3/d4a/a26225.html#a48934cde38c6f3b18087267b616ff338", null ]
+    [ "HandleDummy", "d3/d4a/a26225.html#a5a628501371e7af224ce44594459b24d", null ],
+    [ "Load", "d3/d4a/a26225.html#aeeab8e1eadb83827b035e07887a59ad1", null ],
+    [ "PrepareSpellScript", "d3/d4a/a26225.html#a163c9510d29cc2fb454a9d8b437f0496", null ],
+    [ "Register", "d3/d4a/a26225.html#aa46a2b76153ffdbea565374899ab31a3", null ],
+    [ "Validate", "d3/d4a/a26225.html#a7a15b3f6aa7ca1458895b445c90509ee", null ]
 ];

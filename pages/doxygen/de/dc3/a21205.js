@@ -1,6 +1,7 @@
 var a21205 =
 [
-    [ "HandleEffectPeriodic", "de/dc3/a21205.html#a3dd6eaa3e5800b92e19c12e47b0ad132", null ],
-    [ "PrepareAuraScript", "de/dc3/a21205.html#a0b24e94cfce6b57d2dc8b36c3fe1c39f", null ],
-    [ "Register", "de/dc3/a21205.html#a4dd779cac93c2f847495dadc67c0beb2", null ]
+    [ "HandleProc", "de/dc3/a21205.html#a1b8782a4f22522cfe224073515abdf45", null ],
+    [ "PrepareAuraScript", "de/dc3/a21205.html#ab4a8a98564d561082243c0f7a2dda1bf", null ],
+    [ "Register", "de/dc3/a21205.html#a8e9b7613131ef7ea05b853df337faa4e", null ],
+    [ "Validate", "de/dc3/a21205.html#ab3a99392d06ba0bea8e3f4b345acb23d", null ]
 ];

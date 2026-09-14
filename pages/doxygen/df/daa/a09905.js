@@ -1,8 +1,8 @@
 var a09905 =
 [
-    [ "AllWorldObjectsInExactRange", "df/daa/a09905.html#a0281d22587b9b1bdbfbdd8dccc625186", null ],
-    [ "operator()", "df/daa/a09905.html#afe0bea69ddd5e275363361bf37284840", null ],
-    [ "_equals", "df/daa/a09905.html#aebb4cb9e84cf91cca235fe663dba8d60", null ],
-    [ "_object", "df/daa/a09905.html#a5fba0e3c7cde76bfe56f8e9e9716412b", null ],
-    [ "_range", "df/daa/a09905.html#ae40de8ce49bb429243e5059b6d14398f", null ]
+    [ "AllGameObjectsWithEntryInRange", "df/daa/a09905.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56", null ],
+    [ "operator()", "df/daa/a09905.html#a342aa18d98413620fce4c676fcf75305", null ],
+    [ "m_fRange", "df/daa/a09905.html#a7cce16670c95c19f3eb68e5914160513", null ],
+    [ "m_pObject", "df/daa/a09905.html#a5c898c20992999f11204aab6479d71f6", null ],
+    [ "m_uiEntry", "df/daa/a09905.html#a64ff0c14c71e218b8f9a8888b1017fec", null ]
 ];

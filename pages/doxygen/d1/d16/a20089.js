@@ -1,6 +1,6 @@
 var a20089 =
 [
-    [ "CosmicSmashDamageEvent", "d1/d16/a20089.html#a5c9606791b560d8be1825a9c73f2393e", null ],
-    [ "Execute", "d1/d16/a20089.html#a2d4b301e1b7e0852ec47280ad97871f2", null ],
-    [ "_caster", "d1/d16/a20089.html#ab7af2459d3962831812ee2362ee9de2b", null ]
+    [ "boss_sjonnirAI", "da/db7/a20093.html", "da/db7/a20093" ],
+    [ "boss_sjonnir", "d1/d16/a20089.html#a8bb9b10778a2dedcde3d4ced44bc13f1", null ],
+    [ "GetAI", "d1/d16/a20089.html#a0bb79667d9d80f0c49e30fa0547c6062", null ]
 ];

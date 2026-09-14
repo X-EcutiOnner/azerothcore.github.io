@@ -1,10 +1,7 @@
 var a24469 =
 [
-    [ "npc_pet_gen_imp_in_a_bottle", "d7/d94/a24469.html#aa32b7770c2719d77d46fcf6d22989284", null ],
-    [ "InitializeAI", "d7/d94/a24469.html#a9fde3fd30d48068a3ad1a19f65c61bf2", null ],
-    [ "UpdateAI", "d7/d94/a24469.html#a453ec855bb21a30cb72b540ff8f77035", null ],
-    [ "_data", "d7/d94/a24469.html#a982ec923536c2c33353a3673aa425b6a", null ],
-    [ "_hasParty", "d7/d94/a24469.html#a192d9e2ba340040cb6ba5c0f324ffb2d", null ],
-    [ "_ownerGUID", "d7/d94/a24469.html#a5452226bbe4f65a9bd7ce103a7648a2f", null ],
-    [ "_talkTimer", "d7/d94/a24469.html#a07eba859ad2d5db4f6d91734c04020cf", null ]
+    [ "npc_isla_starmaneAI", "dd/d06/a24473.html", "dd/d06/a24473" ],
+    [ "npc_isla_starmane", "d7/d94/a24469.html#af30b3658d8f19be0dc07cb35eeb04668", null ],
+    [ "GetAI", "d7/d94/a24469.html#a0ea2dbaab4115772f92849e06aa85575", null ],
+    [ "OnQuestAccept", "d7/d94/a24469.html#afeda3da3761e96e2901ea06c5a26fa3a", null ]
 ];

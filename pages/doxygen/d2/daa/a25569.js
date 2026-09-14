@@ -1,7 +1,6 @@
 var a25569 =
 [
-    [ "OnRemove", "d2/daa/a25569.html#ab6371347f0dc4ffc8bab6c75ca1cdf59", null ],
-    [ "PrepareAuraScript", "d2/daa/a25569.html#ac2b1a2311f97ab427439b45fb0770063", null ],
-    [ "Register", "d2/daa/a25569.html#a39e4914aa01769e14f61e2369ad8eda5", null ],
-    [ "Validate", "d2/daa/a25569.html#a71e47e70fd18affe1bd563f68fcb2efe", null ]
+    [ "CheckRequirement", "d2/daa/a25569.html#adb3212ff52b5ad9ae2ce824dd1cf018a", null ],
+    [ "PrepareSpellScript", "d2/daa/a25569.html#aebb88f5ea803a590a099e4e6427d8276", null ],
+    [ "Register", "d2/daa/a25569.html#a18406f867561f9baf5a4cee8ce8ea59a", null ]
 ];

@@ -1,16 +1,7 @@
 var a17441 =
 [
-    [ "boss_ickAI", "d6/de0/a17441.html#a72c90af745b63202edc36b84b3f4df12", null ],
-    [ "CanAIAttack", "d6/de0/a17441.html#afa3a7ef19f014ed9c46be4a3adc83aa3", null ],
-    [ "DamageTaken", "d6/de0/a17441.html#a96d39b533a96503d59c41c9e7cdd4ac4", null ],
-    [ "GetKrick", "d6/de0/a17441.html#a2d6192f314e76886204c7248d141260a", null ],
-    [ "JustDied", "d6/de0/a17441.html#afd7752ee19dcc6be0b28181bb4485146", null ],
-    [ "JustEngagedWith", "d6/de0/a17441.html#a27598604e65417225acd41d6f05cc717", null ],
-    [ "JustSummoned", "d6/de0/a17441.html#abf700d993e1cfaa0cc64d90903bfa842", null ],
-    [ "KilledUnit", "d6/de0/a17441.html#a618c4e704d9a90d8bf4fac2d22bda6b3", null ],
-    [ "Reset", "d6/de0/a17441.html#a9ba668208cda4dd33fd4eacb04476e2e", null ],
-    [ "SpellHitTarget", "d6/de0/a17441.html#a5d90395d45509f8aeb244f4a4743d07d", null ],
-    [ "UpdateAI", "d6/de0/a17441.html#a74bd63ac9558ecec52affaa7440360a1", null ],
-    [ "events", "d6/de0/a17441.html#aab514bb5f930d9eb545a279181632796", null ],
-    [ "pInstance", "d6/de0/a17441.html#a1ad5a6809ffe750a5538dc650a437b81", null ]
+    [ "npc_hor_leader_secondAI", "d3/d17/a17445.html", "d3/d17/a17445" ],
+    [ "npc_hor_leader_second", "d6/de0/a17441.html#a9fa1f38ab8a0b5d2207857b75e272ee0", null ],
+    [ "GetAI", "d6/de0/a17441.html#af5b97ecca35501a75658919d384a18f7", null ],
+    [ "OnGossipSelect", "d6/de0/a17441.html#a8355f7f2f8e7655c7ebc7145a847ab87", null ]
 ];

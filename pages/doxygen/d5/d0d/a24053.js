@@ -1,7 +1,9 @@
 var a24053 =
 [
-    [ "OnPeriodic", "d5/d0d/a24053.html#a7ef787ac13b97aa225a5340f7bfcc4e3", null ],
-    [ "PrepareAuraScript", "d5/d0d/a24053.html#a6f7db06cc1ace68ee0076077773b1659", null ],
-    [ "Register", "d5/d0d/a24053.html#a559347bedad9fd8a0e6f4c5b14333c06", null ],
-    [ "Validate", "d5/d0d/a24053.html#aae1c2d5b8eb30341a67e261e69a4d294", null ]
+    [ "instance_the_eye_InstanceMapScript", "d5/d0d/a24053.html#a0c2b90c0f155e279aece7cd36d9de6d7", null ],
+    [ "GetGuidData", "d5/d0d/a24053.html#a882432d126cc9e90322eaa16f5ef15c8", null ],
+    [ "OnGameObjectCreate", "d5/d0d/a24053.html#a56c6933c2c231c228ca147107fbfc930", null ],
+    [ "BridgeWindowGUID", "d5/d0d/a24053.html#a1fa987352d6c4c5f11d5415d4b886aaa", null ],
+    [ "KaelStateLeftGUID", "d5/d0d/a24053.html#ab2ca710f119fbfc1a7b57a88462d145b", null ],
+    [ "KaelStateRightGUID", "d5/d0d/a24053.html#a25ba703325800d2976eff860437f3d57", null ]
 ];

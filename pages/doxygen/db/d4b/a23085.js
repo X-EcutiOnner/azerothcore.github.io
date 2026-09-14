@@ -1,5 +1,8 @@
 var a23085 =
 [
-    [ "npc_vengeful_spirit", "db/d4b/a23085.html#a06bd2b08a7719ae35dd6ad844ce3b3bd", null ],
-    [ "OnCharmed", "db/d4b/a23085.html#a8aec87a3e6a7af96253035dbd9e813ad", null ]
+    [ "HandleEffectApply", "db/d4b/a23085.html#a94993441ef94f84c85aa10c693cf34fe", null ],
+    [ "HandleEffectRemove", "db/d4b/a23085.html#a047a1dd4bab33d7d5b2631c0862ba4b0", null ],
+    [ "PrepareAuraScript", "db/d4b/a23085.html#a0ced86fc2e108e7bba9727d26eac3ff3", null ],
+    [ "Register", "db/d4b/a23085.html#a0dbd8b0bc1dfad8bda0e48ab57b4db3f", null ],
+    [ "Validate", "db/d4b/a23085.html#a964637541cd64e64b4e02c00d36abf2d", null ]
 ];

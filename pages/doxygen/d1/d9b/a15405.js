@@ -1,5 +1,6 @@
 var a15405 =
 [
-    [ "npc_black_morass_summoned_add", "d1/d9b/a15405.html#ab1551fc3e746dc724ea433f7a3daa786", null ],
-    [ "EnterEvadeMode", "d1/d9b/a15405.html#a437e7b72b985713d22883f3e33f30942", null ]
+    [ "instance_old_hillsbrad_InstanceMapScript", "d9/d5d/a15409.html", "d9/d5d/a15409" ],
+    [ "instance_old_hillsbrad", "d1/d9b/a15405.html#a1ba2d39ae8f9209055de4b944cc535d8", null ],
+    [ "GetInstanceScript", "d1/d9b/a15405.html#a1929c38b1c745b2df1ccaf462113e220", null ]
 ];

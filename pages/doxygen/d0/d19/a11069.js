@@ -1,5 +1,7 @@
 var a11069 =
 [
-    [ "GuildGetRoster", "d0/d19/a11069.html#a9beccc6ee2416633c57d2da31fdc021a", null ],
-    [ "Read", "d0/d19/a11069.html#af795ad992ec1b55d741227bd2d4a62d1", null ]
+    [ "Emote", "d0/d19/a11069.html#acb1620d125ffb11fe43caf4ebf27d1be", null ],
+    [ "Write", "d0/d19/a11069.html#a3f5532f40b59f47423d2b4e3749da88e", null ],
+    [ "EmoteID", "d0/d19/a11069.html#a7f4d3ee4353b408f8c795e6fdc552e76", null ],
+    [ "Guid", "d0/d19/a11069.html#ab96a1c0933e90872f54eb0995098274a", null ]
 ];

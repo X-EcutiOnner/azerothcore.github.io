@@ -1,7 +1,7 @@
 var a18889 =
 [
-    [ "AuraRemoveEvent", "d3/de1/a18889.html#a094b9437c7cadb465738daf5684c9725", null ],
-    [ "Execute", "d3/de1/a18889.html#a14ac906a0fcff86f61983c570b0bd6ad", null ],
-    [ "_spellId", "d3/de1/a18889.html#a6fad41839e07e9545859be7c3afcfc36", null ],
-    [ "_trigger", "d3/de1/a18889.html#aad8c27befc102dae6823d5d74fed50b4", null ]
+    [ "HandleProc", "d3/de1/a18889.html#af06730a865009127c7d3e5423afd4d44", null ],
+    [ "PrepareAuraScript", "d3/de1/a18889.html#a71a81a19a0c543a4aa43d6bf002b7bb9", null ],
+    [ "Register", "d3/de1/a18889.html#a6c97b787ce00491a259c575d26189f8c", null ],
+    [ "Validate", "d3/de1/a18889.html#aed9c98e20d916359629e119d6dd2a94f", null ]
 ];

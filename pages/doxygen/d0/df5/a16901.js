@@ -1,6 +1,6 @@
 var a16901 =
 [
-    [ "npc_toc_druidAI", "d7/d1a/a16905.html", "d7/d1a/a16905" ],
-    [ "npc_toc_druid", "d0/df5/a16901.html#a07321d5ee164b8e47f652f9bad65216b", null ],
-    [ "GetAI", "d0/df5/a16901.html#a4f33e8f3649c0b398448cd01666cf92b", null ]
+    [ "boss_anubarak_trialAI", "d7/d1a/a16905.html", "d7/d1a/a16905" ],
+    [ "boss_anubarak_trial", "d0/df5/a16901.html#a5204e33a412608b53cc155a043356d58", null ],
+    [ "GetAI", "d0/df5/a16901.html#a9b8fe9ed3370434612cbd46e7649213d", null ]
 ];

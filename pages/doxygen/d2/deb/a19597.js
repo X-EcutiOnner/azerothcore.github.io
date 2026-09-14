@@ -1,6 +1,6 @@
 var a19597 =
 [
-    [ "boss_maexxnaAI", "d8/d31/a19601.html", "d8/d31/a19601" ],
-    [ "boss_maexxna", "d2/deb/a19597.html#ae47a789ac8abe50932b9e000c83b02b2", null ],
-    [ "GetAI", "d2/deb/a19597.html#ab438df4cb61625da35552ca7c867dc64", null ]
+    [ "FilterTargets", "d2/deb/a19597.html#a2df81e30554809a0d5b45d2f471bb71f", null ],
+    [ "PrepareSpellScript", "d2/deb/a19597.html#aa51d9c578b782fbe0e7e3cf13789b702", null ],
+    [ "Register", "d2/deb/a19597.html#a4c1eab348e54011f1a2f827fc251ca13", null ]
 ];

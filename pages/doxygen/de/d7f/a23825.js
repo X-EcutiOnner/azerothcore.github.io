@@ -1,8 +1,16 @@
 var a23825 =
 [
-    [ "boss_commander_sarannis", "de/d7f/a23825.html#ace0957feb37f864798008849be25f607", null ],
-    [ "JustDied", "de/d7f/a23825.html#a7796429f04c049549a4a02a1eb8d35fc", null ],
-    [ "JustEngagedWith", "de/d7f/a23825.html#ad4273db7c169c6cfa9917dd3b76c9c95", null ],
-    [ "KilledUnit", "de/d7f/a23825.html#a64e77321adc5eea9d3494a3e1030f9de", null ],
-    [ "ScheduleReinforcements", "de/d7f/a23825.html#a293f0b860a66396a30c6d255eef85309", null ]
+    [ "boss_warchief_kargath_bladefist", "de/d7f/a23825.html#a0957dbfd6c085575fa862f38c87b6b3d", null ],
+    [ "InitializeAI", "de/d7f/a23825.html#a86d9b5b1500960235e76ae71337a6c90", null ],
+    [ "IsInRoom", "de/d7f/a23825.html#af9d4bd9d94115a1040e1e4a4dbf8df83", null ],
+    [ "JustDied", "de/d7f/a23825.html#a436b90336c90f6662f3ce704a62f0d90", null ],
+    [ "JustEngagedWith", "de/d7f/a23825.html#ab3d7b0ebca4f8134e5c2f31422ff006b", null ],
+    [ "JustSummoned", "de/d7f/a23825.html#aaa69f064d7eb3a0d107c835c806fa1de", null ],
+    [ "KilledUnit", "de/d7f/a23825.html#a730bbd2f95a2919fba1a7300b4307b84", null ],
+    [ "MovementInform", "de/d7f/a23825.html#a716eab9bda2b697252dde90aa513d7df", null ],
+    [ "Reset", "de/d7f/a23825.html#a50fa7a5aed8d3f4916f0449c4fb075ac", null ],
+    [ "RespawnAssassins", "de/d7f/a23825.html#a1397317259589ea69f77f52f60852043", null ],
+    [ "SummonedCreatureDies", "de/d7f/a23825.html#a325da34f78d202708a58c1a543ecb8ca", null ],
+    [ "UpdateAI", "de/d7f/a23825.html#acd463cac8e2fa8289ecb5567709db678", null ],
+    [ "_danceCount", "de/d7f/a23825.html#af4a60caaef6388caff973295e3397a7d", null ]
 ];

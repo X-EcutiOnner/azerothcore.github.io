@@ -1,8 +1,13 @@
 var a21357 =
 [
-    [ "CountTargets", "db/d67/a21357.html#aaf8528038c6b3172d4810ed773f71644", null ],
-    [ "HandleDummy", "db/d67/a21357.html#ac5fa1dd078656f7ae182ec18eddacfe3", null ],
-    [ "PrepareSpellScript", "db/d67/a21357.html#a1f31273cb1826cd07196eacfbdc46673", null ],
-    [ "Register", "db/d67/a21357.html#adce6a5d920ac616dc0579fcd96c49288", null ],
-    [ "_targetCount", "db/d67/a21357.html#acfd8832cb9a197dddb034a003b318911", null ]
+    [ "npc_ferocious_rhinoAI", "db/d67/a21357.html#ad70d0aeba4b73330c5087bc84a533389", null ],
+    [ "DoAction", "db/d67/a21357.html#a10395930fed95fb7809a0b5ffe224c4d", null ],
+    [ "JustDied", "db/d67/a21357.html#a2b1af0402dc1b4940534d2e60d7ef33e", null ],
+    [ "JustEngagedWith", "db/d67/a21357.html#aab35078fe4518b6647f98e316d02898a", null ],
+    [ "JustReachedHome", "db/d67/a21357.html#ab8105d6c8c70037c208c83c13c35242d", null ],
+    [ "MoveInLineOfSight", "db/d67/a21357.html#a97e32d32a692f223b96746f3ef1086c5", null ],
+    [ "Reset", "db/d67/a21357.html#a6d317407c2de2f954b5dd2a6db137304", null ],
+    [ "UpdateAI", "db/d67/a21357.html#a09b80e739e4df6e751c9c2846f3fb999", null ],
+    [ "events", "db/d67/a21357.html#af23061de7d8566c7435c2c64c53dff89", null ],
+    [ "m_pInstance", "db/d67/a21357.html#a97e00db40792c559dd06327c9960abe4", null ]
 ];

@@ -1,8 +1,9 @@
 var a09865 =
 [
-    [ "AllCreaturesOfEntryInRange", "dd/d92/a09865.html#a02aca6b65bd5ea49d510bb8d901e1322", null ],
-    [ "operator()", "dd/d92/a09865.html#a99f472f33c0e5a6a76d6ffc08af2783b", null ],
-    [ "m_fRange", "dd/d92/a09865.html#a0cb7d140b51d52e0db5b8d9f70250ced", null ],
-    [ "m_pObject", "dd/d92/a09865.html#ade8cc66e1cd421550d2674e3ad960f48", null ],
-    [ "m_uiEntry", "dd/d92/a09865.html#abf653360d2ee482728fb137a37fe0512", null ]
+    [ "NearestHostileUnitCheck", "dd/d92/a09865.html#aa1d706a1eb1de6168b568e70008e2d3b", null ],
+    [ "NearestHostileUnitCheck", "dd/d92/a09865.html#a2fe620370289850eb0362823de2072d1", null ],
+    [ "operator()", "dd/d92/a09865.html#a04c85a77d660bbc74279d1062dabc375", null ],
+    [ "i_playerOnly", "dd/d92/a09865.html#a64c5fce466521a6d6d78eeda0708d65e", null ],
+    [ "m_range", "dd/d92/a09865.html#a801d56a180e196943cfc2cefb6c5dda5", null ],
+    [ "me", "dd/d92/a09865.html#a67cef25e6f725ea42f0377df34d48495", null ]
 ];

@@ -1,8 +1,6 @@
 var a23997 =
 [
-    [ "boss_mechano_lord_capacitus", "d7/df7/a23997.html#ab5867184d4e50a89a1afe25eb40e6bc3", null ],
-    [ "JustDied", "d7/df7/a23997.html#a596314e7aebcc9e2e7311b4e0850b817", null ],
-    [ "JustEngagedWith", "d7/df7/a23997.html#a4aa9ee50a942fe123acfdeee0350fa2d", null ],
-    [ "JustSummoned", "d7/df7/a23997.html#a9a0b2cac08002db63162f95b9476c251", null ],
-    [ "KilledUnit", "d7/df7/a23997.html#a6a408c654f91a44a40b3df52c0f2b093", null ]
+    [ "HandlePeriodic", "d7/df7/a23997.html#aec3f36e2c5fedddd84478b9e3a59e6f4", null ],
+    [ "PrepareAuraScript", "d7/df7/a23997.html#a2b809a60626119f6bcf595bd3581c2be", null ],
+    [ "Register", "d7/df7/a23997.html#a299f84e9c12406c79a56999a13de5c1c", null ]
 ];

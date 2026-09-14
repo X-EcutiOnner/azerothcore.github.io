@@ -1,7 +1,7 @@
 var a23813 =
 [
-    [ "boss_zereketh_the_unbound", "d9/db9/a23813.html#abb2fc5cbe7514142160818016fda1936", null ],
-    [ "JustDied", "d9/db9/a23813.html#ac5d96da9a33a536f2002cce11453ded3", null ],
-    [ "JustEngagedWith", "d9/db9/a23813.html#ad0305f3eeb578d6dcd2db835331eb10f", null ],
-    [ "KilledUnit", "d9/db9/a23813.html#a07d3a1264e6d78c2696990755fc7fe45", null ]
+    [ "FilterTargets", "d9/db9/a23813.html#a834163302ff10875227806d7d4945988", null ],
+    [ "HandleScriptEffect", "d9/db9/a23813.html#a5dd125da7dd46e2d81ab5e0f10bc00c3", null ],
+    [ "PrepareSpellScript", "d9/db9/a23813.html#a079e72d57550e03956088b4be1d11422", null ],
+    [ "Register", "d9/db9/a23813.html#abd4e0f268652652d3828ba8d350de849", null ]
 ];

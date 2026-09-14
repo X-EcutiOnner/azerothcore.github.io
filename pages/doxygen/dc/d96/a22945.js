@@ -1,6 +1,8 @@
 var a22945 =
 [
-    [ "HandleSharedRule", "dc/d96/a22945.html#a94b783490dafae872b65e0bbfed156b9", null ],
-    [ "PrepareSpellScript", "dc/d96/a22945.html#af59695af3afcc51a3c29fcc4053bbfee", null ],
-    [ "Register", "dc/d96/a22945.html#a31f2d90059e62da77a719a192d62328b", null ]
+    [ "Load", "dc/d96/a22945.html#a4ff26763f05b07d882cd8d209464910e", null ],
+    [ "OnPeriodic", "dc/d96/a22945.html#a3e3bb503a6b5f90741a4df668851accf", null ],
+    [ "PrepareAuraScript", "dc/d96/a22945.html#a4126d35669859963f10ed1425a054298", null ],
+    [ "Register", "dc/d96/a22945.html#adb6a44892d80aeaaf4c15c71a47f422e", null ],
+    [ "Validate", "dc/d96/a22945.html#a22d6c338ea1f2af9be0eb02aceba42bd", null ]
 ];

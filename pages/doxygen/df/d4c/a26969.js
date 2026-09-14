@@ -1,8 +1,9 @@
 var a26969 =
 [
-    [ "CalculateAmount", "df/d4c/a26969.html#aa1810db9a7b8fbc3572621ff35e0eeb1", null ],
-    [ "PrepareAuraScript", "df/d4c/a26969.html#ad40d44271840b8e2bd1dc22b6a04290e", null ],
-    [ "ReflectDamage", "df/d4c/a26969.html#ad8b5f9a7952fc33d7e1fee28e4872212", null ],
-    [ "Register", "df/d4c/a26969.html#a18b19ee8823e2d1747caeefaf457ad8d", null ],
-    [ "Validate", "df/d4c/a26969.html#af2936ba4a29fc8735a3cabe805c77355", null ]
+    [ "spell_pal_improved_aura_effect", "df/d4c/a26969.html#a8b413208ee8842e844e4129725e8c99e", null ],
+    [ "CheckAreaTarget", "df/d4c/a26969.html#a0e61a579344eb8e91d0dd58554fc6ecb", null ],
+    [ "PrepareAuraScript", "df/d4c/a26969.html#a1aa9d9c753032febf7cc86ce53ad2a99", null ],
+    [ "Register", "df/d4c/a26969.html#acd92f952c3aeede5c7131fb84aa6334d", null ],
+    [ "Validate", "df/d4c/a26969.html#a553e45e2963e915fb5a2e123160af83a", null ],
+    [ "_auraSpellId", "df/d4c/a26969.html#a960fabe394cdf4666b637a7d65b90645", null ]
 ];

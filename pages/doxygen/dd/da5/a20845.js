@@ -1,8 +1,10 @@
 var a20845 =
 [
-    [ "boss_thorim_pillar", "dd/da5/a20845.html#aec2fc6e420499c9ce991753b912bef1e", null ],
-    [ "Reset", "dd/da5/a20845.html#aea862be4cb7e7456d7ddfbe4fef81181", null ],
-    [ "SpellHit", "dd/da5/a20845.html#ae8b1877ac425c340410c7ca6a05d2d8a", null ],
-    [ "UpdateAI", "dd/da5/a20845.html#a3d4b4c2ae9ab4d541510e2026d1500c0", null ],
-    [ "_resetTimer", "dd/da5/a20845.html#ac9c8ef8622496593b5f91611d22120b3", null ]
+    [ "npc_razorscale_dark_rune_sentinel", "dd/da5/a20845.html#ab05b135a3c4cc45c132b3bb38127494c", null ],
+    [ "CanAIAttack", "dd/da5/a20845.html#a99f74f401c846f56f6adf70a755e5a84", null ],
+    [ "JustEngagedWith", "dd/da5/a20845.html#afdba7ecd994d92484a75444387bffaee", null ],
+    [ "Reset", "dd/da5/a20845.html#ad83e4b28dc7562a627f9d1330c3bb2fc", null ],
+    [ "UpdateAI", "dd/da5/a20845.html#a621e7a4804a74ce74717a9b0212ab8a3", null ],
+    [ "_events", "dd/da5/a20845.html#a5dc9139c7d2897b6f1a9e9d86a5f663a", null ],
+    [ "_instance", "dd/da5/a20845.html#a83f67be54dde276f3ed5efd867450756", null ]
 ];

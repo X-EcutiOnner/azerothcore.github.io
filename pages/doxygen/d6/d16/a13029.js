@@ -1,7 +1,8 @@
 var a13029 =
 [
-    [ "HandleAfterApply", "d6/d16/a13029.html#a8f55616f861cccf7126f7e1a7c88f3c1", null ],
-    [ "HandleAfterRemove", "d6/d16/a13029.html#a7970613f1668294f29f61c1f10a9ba37", null ],
-    [ "PrepareAuraScript", "d6/d16/a13029.html#aea2f52682e723f8dacfffa20cd0f41a5", null ],
-    [ "Register", "d6/d16/a13029.html#ae38b71adaff3b36f5d7b3007e84e620f", null ]
+    [ "FilterTargets", "d6/d16/a13029.html#a03acb7fb2734d9c8e8e623600bc16859", null ],
+    [ "FilterTargetsEff", "d6/d16/a13029.html#a8aeffd2a01c805246c33d22a59274c6f", null ],
+    [ "PrepareSpellScript", "d6/d16/a13029.html#ae00bc9956c9971d62d9185c72d3bd8b5", null ],
+    [ "Register", "d6/d16/a13029.html#aba646a238c3b4b7343f3eec8c6445eb5", null ],
+    [ "targetList", "d6/d16/a13029.html#a874dc7877ecfae332c9f826f01afce0f", null ]
 ];

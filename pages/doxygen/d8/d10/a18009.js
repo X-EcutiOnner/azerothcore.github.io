@@ -1,5 +1,6 @@
 var a18009 =
 [
-    [ "npc_zafod_boomboxAI", "d8/d10/a18009.html#a6540d8f5787ce1da211123721ef659f3", null ],
-    [ "sGossipSelect", "d8/d10/a18009.html#a6378748a168e4e668f696bd9c6dfbc31", null ]
+    [ "npc_stinky_iccAI", "d0/de3/a18013.html", "d0/de3/a18013" ],
+    [ "npc_stinky_icc", "d8/d10/a18009.html#a8f6a3687d4b330f532a0d892dbf429a0", null ],
+    [ "GetAI", "d8/d10/a18009.html#aaf6b7b1a7469d1e353617f63f11f7781", null ]
 ];

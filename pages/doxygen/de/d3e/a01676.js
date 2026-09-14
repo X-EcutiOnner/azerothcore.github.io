@@ -1,9 +1,10 @@
 var a01676 =
 [
-    [ "PetSpell", "d4/dbd/a08901.html", "d4/dbd/a08901" ],
-    [ "Pet", "d6/d2d/a08905.html", "d6/d2d/a08905" ],
-    [ "AutoSpellList", "de/d3e/a01676.html#a85baf40bd776b1c20b66ba7ad78e0356", null ],
-    [ "PetSpellMap", "de/d3e/a01676.html#a5b33058abef8c309621a9029df331c0e", null ],
-    [ "HAPPINESS_LEVEL_SIZE", "de/d3e/a01676.html#a892e58d225a828ccac38c7d241365e30", null ],
-    [ "PET_LOSE_HAPPINES_INTERVAL", "de/d3e/a01676.html#aa23de8f28ae915637ac3f4f6429b59fb", null ]
+    [ "SavedAddonsList", "de/d3e/a01676.html#afa468163a23ed58507a89e5724c06eac", null ],
+    [ "GetAddonInfo", "de/d3e/a01676.html#a6edf9a462d4afcaff40e69da1e75cca5", null ],
+    [ "GetBannedAddons", "de/d3e/a01676.html#ad7d0938e7463238a86e8c811e1a58800", null ],
+    [ "LoadFromDB", "de/d3e/a01676.html#aaa12f5b754e6b664dbfb2428478bee03", null ],
+    [ "SaveAddon", "de/d3e/a01676.html#a85021021149b7eb4d78cbe81e43d3d45", null ],
+    [ "m_bannedAddons", "de/d3e/a01676.html#a83195dfb437a3f713fa0ccd6c24477ed", null ],
+    [ "m_knownAddons", "de/d3e/a01676.html#a6cd3e278f71724491a7a3b8167eab60e", null ]
 ];

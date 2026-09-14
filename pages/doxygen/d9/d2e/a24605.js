@@ -1,6 +1,6 @@
 var a24605 =
 [
-    [ "HandleEffectApply", "d9/d2e/a24605.html#a4bc121ecc9357709ec2f1ea395d0b6b1", null ],
-    [ "PrepareAuraScript", "d9/d2e/a24605.html#ac7f16aed55aedba6da0672c3102a5fae", null ],
-    [ "Register", "d9/d2e/a24605.html#a83e15d7db1b9aa4ce4fbc8a359795091", null ]
+    [ "FilterTargets", "d9/d2e/a24605.html#adab73c94c659d7421c9c6887d956cd83", null ],
+    [ "PrepareSpellScript", "d9/d2e/a24605.html#a8cf5e4224f46b6f836d517f90fd135d4", null ],
+    [ "Register", "d9/d2e/a24605.html#a3aaf93f3746b36d5bfa4fc475aabe43b", null ]
 ];

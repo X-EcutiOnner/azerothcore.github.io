@@ -1,14 +1,12 @@
 var a28613 =
 [
-    [ "npc_garments_of_questsAI", "da/d92/a28613.html#a079f719ca488ed6fde2783b5db4f328b", null ],
-    [ "JustEngagedWith", "da/d92/a28613.html#aa14c07eaaa8d6381e8a821eab7a3d421", null ],
-    [ "Reset", "da/d92/a28613.html#aaaaa3e41deae0057bd659be5c579d226", null ],
-    [ "SpellHit", "da/d92/a28613.html#ad22195dba70ced744b319bc1ad83c083", null ],
-    [ "UpdateAI", "da/d92/a28613.html#aadf1a807ff49bd83eb21fc38fb2ed81c", null ],
-    [ "WaypointReached", "da/d92/a28613.html#a9bd63db7774e77ce4af6cfa952bcfa6d", null ],
-    [ "WaypointReached", "da/d92/a28613.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "CanRun", "da/d92/a28613.html#a93c41781e4cb037b56773bbbf36181b7", null ],
-    [ "CasterGUID", "da/d92/a28613.html#ad2656e6a080b6407b57a3a1afeed12a0", null ],
-    [ "IsHealed", "da/d92/a28613.html#a96db66704eabf028362d5f8b5c424712", null ],
-    [ "RunAwayTimer", "da/d92/a28613.html#ac0a898f8938ea9b3721cc7440fac2da0", null ]
+    [ "npc_elder_clearwaterAI", "da/d92/a28613.html#a4de89cf4a18918d577be4ac5cc55ba5a", null ],
+    [ "DoAction", "da/d92/a28613.html#ac46b0f66be3074f73f5a69cffee6d354", null ],
+    [ "GetData", "da/d92/a28613.html#a077c02bf06b16439225a5cf8d83babf2", null ],
+    [ "UpdateAI", "da/d92/a28613.html#afbec3c78d34ce4d11a11b56064f343f3", null ],
+    [ "events", "da/d92/a28613.html#a267fec22dc3d7272cae74267d0567618", null ],
+    [ "finished", "da/d92/a28613.html#af51d6abb8fc8b59d068156a4859a377e", null ],
+    [ "finishWarning", "da/d92/a28613.html#a83a2b8e6ceed45d4e6b834e13a4a4cdc", null ],
+    [ "preWarning", "da/d92/a28613.html#a64abe15565c7e97a3a0ef195d436fedc", null ],
+    [ "startWarning", "da/d92/a28613.html#a01545211dec4338ac44304ebc7f18a97", null ]
 ];

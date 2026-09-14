@@ -1,6 +1,6 @@
 var a16825 =
 [
-    [ "instance_trial_of_the_champion_InstanceMapScript", "d3/de4/a16829.html", "d3/de4/a16829" ],
-    [ "instance_trial_of_the_champion", "d0/d60/a16825.html#a7b97e3da119a7ad33a87c74647407bd8", null ],
-    [ "GetInstanceScript", "d0/d60/a16825.html#a9227119fc47f38cd82a1fc07c04b0c86", null ]
+    [ "boss_black_knightAI", "d3/de4/a16829.html", "d3/de4/a16829" ],
+    [ "boss_black_knight", "d0/d60/a16825.html#af55a307f282a68bc83e45c6de647ebf4", null ],
+    [ "GetAI", "d0/d60/a16825.html#a3f7ac72f69cebdab0a13c61c0b9b2ed2", null ]
 ];

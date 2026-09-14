@@ -1,4 +1,6 @@
 var a28757 =
 [
-    [ "operator()", "d8/d6d/a28757.html#a76ede7ef27a41a284821e690c88375c9", null ]
+    [ "npc_venomhide_hatchlingAI", "d8/d6d/a28757.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
+    [ "IsSummonedBy", "d8/d6d/a28757.html#a6e1b76f43217f1eb855b50d58a069518", null ],
+    [ "SpellHit", "d8/d6d/a28757.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
 ];

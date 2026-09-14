@@ -1,12 +1,6 @@
 var a15449 =
 [
-    [ "instance_onyxias_lair_InstanceMapScript", "d8/dd0/a15449.html#a15c6f3f16f9cfa1f9fc1b7a2c62bcc64", null ],
-    [ "CheckAchievementCriteriaMeet", "d8/dd0/a15449.html#a20761aa41e0f70836c4525f17faf064f", null ],
-    [ "Initialize", "d8/dd0/a15449.html#a5d109b5acfa2e21e3c50e35dcdf119dd", null ],
-    [ "OnGameObjectCreate", "d8/dd0/a15449.html#a1e99600992673d165382d99236e0c59f", null ],
-    [ "SetBossState", "d8/dd0/a15449.html#a2a28e42ec49fce2ef47288c1ad4b6e61", null ],
-    [ "SetData", "d8/dd0/a15449.html#ac5df2ecb9f88dbedbb1f59ad2bdc8b96", null ],
-    [ "bDeepBreath", "d8/dd0/a15449.html#a96211e4e0e033e16d4de57b6e40f2023", null ],
-    [ "ManyWhelpsCounter", "d8/dd0/a15449.html#aea148b562a4f2cd752ac73240f902993", null ],
-    [ "str_data", "d8/dd0/a15449.html#ad0b65a3cfccdf07d017757751f4e15fa", null ]
+    [ "NpcRunToHome", "d8/dd0/a15449.html#ac190e89b494554e391e6ebd878d7f8e8", null ],
+    [ "Execute", "d8/dd0/a15449.html#a0da766e3bae0d8d97a46ef82b3873cc0", null ],
+    [ "_owner", "d8/dd0/a15449.html#a7dd38171a6e55665fc28a74212313e51", null ]
 ];

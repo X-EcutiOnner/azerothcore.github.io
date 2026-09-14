@@ -1,6 +1,6 @@
 var a17981 =
 [
-    [ "npc_gunshipAI", "d7/dc5/a17985.html", "d7/dc5/a17985" ],
-    [ "npc_gunship", "d3/d81/a17981.html#a86b3ba622bd6e606cd21f7c7d8dddd1b", null ],
-    [ "GetAI", "d3/d81/a17981.html#adcd37802a2850f4ec8892f3495d5dc16", null ]
+    [ "boss_festergutAI", "d7/dc5/a17985.html", "d7/dc5/a17985" ],
+    [ "boss_festergut", "d3/d81/a17981.html#a07ac6be688118cc57e6fdc1d8e961953", null ],
+    [ "GetAI", "d3/d81/a17981.html#ab2624e1908bb376f1b195a88e4b9b146", null ]
 ];

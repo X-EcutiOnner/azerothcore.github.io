@@ -1,8 +1,6 @@
 var a20205 =
 [
-    [ "npc_auriaya_sanctum_sentry", "d5/d35/a20205.html#ae5ed159c476c8b4569de7e2730edf447", null ],
-    [ "JustDied", "d5/d35/a20205.html#a553aa98a00fd8999578d71911f231bb2", null ],
-    [ "JustEngagedWith", "d5/d35/a20205.html#a5475b653a9c1fa78f2fcab8abed00863", null ],
-    [ "Reset", "d5/d35/a20205.html#a540cb8f5c53c3648d49ec88efed8a43d", null ],
-    [ "UpdateAI", "d5/d35/a20205.html#a93ed6a0205a042ef1fc065fc6cfd94ee", null ]
+    [ "PrepareSpellScript", "d5/d35/a20205.html#af280f3880e2e567188ba8ca3e45c00c0", null ],
+    [ "RecalculateDamage", "d5/d35/a20205.html#a54c26d24f62c36108f9fceb7a0c53e37", null ],
+    [ "Register", "d5/d35/a20205.html#aac131aa2d2e5342cf0303b918a077b45", null ]
 ];

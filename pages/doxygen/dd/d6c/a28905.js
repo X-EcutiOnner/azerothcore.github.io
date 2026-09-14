@@ -1,5 +1,5 @@
 var a28905 =
 [
-    [ "Itemlvl", "dd/d6c/a28905.html#a39d9dcee397a1f5984184c769f9b8b17", null ],
-    [ "multiplier", "dd/d6c/a28905.html#a5c6c206a6185a546223de7501ff846f6", null ]
+    [ "ID", "dd/d6c/a28905.html#a4a79da5825cf01d38d6ab9d98e033964", null ],
+    [ "parentCategory", "dd/d6c/a28905.html#a705e301dff461a8d7aefdc6fb29d39cc", null ]
 ];

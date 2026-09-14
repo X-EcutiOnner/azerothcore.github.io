@@ -1,6 +1,6 @@
 var a26021 =
 [
-    [ "HandleScript", "d7/df9/a26021.html#a9309c0e435240bc656b3bfde2d923a9a", null ],
-    [ "PrepareSpellScript", "d7/df9/a26021.html#a74dc9d9a57ed410b3c0d690418bfb4eb", null ],
-    [ "Register", "d7/df9/a26021.html#a8769cbce815d1f1c457979743e10535c", null ]
+    [ "PrepareSpellScript", "d7/df9/a26021.html#a72e57e8a4bdb9a4fcd73e3519b6025ea", null ],
+    [ "Register", "d7/df9/a26021.html#aac4d3c8ecde3652c65c05abad5c8eaeb", null ],
+    [ "SelectTarget", "d7/df9/a26021.html#a3153b6c6814922cd7220e19b06f2a602", null ]
 ];

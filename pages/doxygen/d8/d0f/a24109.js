@@ -1,11 +1,14 @@
 var a24109 =
 [
-    [ "npc_aeranasAI", "d8/d0f/a24109.html#a2142cebc84e64919fa5c2ef630453282", null ],
-    [ "JustReachedHome", "d8/d0f/a24109.html#a0c48e1cebec95e6de0b7d02a22658c40", null ],
-    [ "Reset", "d8/d0f/a24109.html#a2c1bbe079c065745782adfa13b030515", null ],
-    [ "UpdateAI", "d8/d0f/a24109.html#ae192a3b38c0ec65cddfce3b95d15555a", null ],
-    [ "_defeated", "d8/d0f/a24109.html#a2c604dfa9deaaff7b71116b5b54c8771", null ],
-    [ "envelopingWinds_Timer", "d8/d0f/a24109.html#a566b5d648abe630efc191f9d6d4938a2", null ],
-    [ "faction_Timer", "d8/d0f/a24109.html#aac071887c100f91cc7ffc545ea6439d9", null ],
-    [ "shock_Timer", "d8/d0f/a24109.html#aba8ad016f0e470b07163fef07b603380", null ]
+    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "d8/d0f/a24109.html#a258f55153ad857fbf35545cfb87c3d3a", null ],
+    [ "Initialize", "d8/d0f/a24109.html#a187340b00067f2f65a7e48845a6edaba", null ],
+    [ "JustSummoned", "d8/d0f/a24109.html#a10a3b9b4a2763bac4c9fe5f680850052", null ],
+    [ "Reset", "d8/d0f/a24109.html#a92a6cbe0515752440284d18bae0adf66", null ],
+    [ "SpellHit", "d8/d0f/a24109.html#a517f7412208de83604d0d6806fbc0b34", null ],
+    [ "UpdateAI", "d8/d0f/a24109.html#ab4fb75f1b84c2722f936387a6942028b", null ],
+    [ "CannonGUID", "d8/d0f/a24109.html#a220e111467cfb6f02e996f012123e09b", null ],
+    [ "count", "d8/d0f/a24109.html#ac78f94033239dcf247be9a48d0535081", null ],
+    [ "events", "d8/d0f/a24109.html#acf362c9e3eb844db9f66cc8c969cd22e", null ],
+    [ "PartyTime", "d8/d0f/a24109.html#a1780c656fb539be6dcd74e271cea4c53", null ],
+    [ "PlayerGUID", "d8/d0f/a24109.html#a686314ffe4a588a1ba8722a6cab56fc7", null ]
 ];

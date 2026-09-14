@@ -1,6 +1,6 @@
 var a21889 =
 [
-    [ "npc_q24545_wretched_ghoulAI", "d4/d84/a21893.html", "d4/d84/a21893" ],
-    [ "npc_q24545_wretched_ghoul", "d2/ddd/a21889.html#a3842b5bd89c911d29d561307113fb032", null ],
-    [ "GetAI", "d2/ddd/a21889.html#ada973de0ff7295f0441cbd6b6aaca9ac", null ]
+    [ "npc_injured_7th_legion_soldierAI", "d4/d84/a21893.html", "d4/d84/a21893" ],
+    [ "npc_injured_7th_legion_soldier", "d2/ddd/a21889.html#a9d3c647f485dbca5efeec8f784efba1b", null ],
+    [ "GetAI", "d2/ddd/a21889.html#a0feca7aedcf3c07253d4d402266189cc", null ]
 ];

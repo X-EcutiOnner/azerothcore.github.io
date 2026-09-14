@@ -1,7 +1,6 @@
 var a27029 =
 [
-    [ "CheckProc", "db/d2a/a27029.html#adc34c24521c893499c72bc0fe8a946eb", null ],
-    [ "PrepareAuraScript", "db/d2a/a27029.html#a1e7cf41ceb818d7d234c1b998e7280be", null ],
-    [ "Register", "db/d2a/a27029.html#a60a2902196abf3239fe6b8f7defcd609", null ],
-    [ "Validate", "db/d2a/a27029.html#a13e108f88a07f0b46291cdc718022437", null ]
+    [ "HandleEffectScriptEffect", "db/d2a/a27029.html#a852a621f0b008dc1294dbeb9e9877a04", null ],
+    [ "PrepareSpellScript", "db/d2a/a27029.html#a8b0f656994289f260645a2ae60d9ee4b", null ],
+    [ "Register", "db/d2a/a27029.html#a1fa4dca7bae36c5e2acde0fe8b8cd801", null ]
 ];

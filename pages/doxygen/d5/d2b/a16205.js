@@ -1,8 +1,12 @@
 var a16205 =
 [
-    [ "npc_pluckyAI", "d0/daf/a16209.html", "d0/daf/a16209" ],
-    [ "npc_plucky", "d5/d2b/a16205.html#a86bb2992b8af5893987145117aaf3608", null ],
-    [ "GetAI", "d5/d2b/a16205.html#a51e73f4e1f618aee5a000e31328efefc", null ],
-    [ "OnGossipHello", "d5/d2b/a16205.html#a3443f3e8c2b3fcc96955ab2e55e7fd61", null ],
-    [ "OnGossipSelect", "d5/d2b/a16205.html#a88fa465246b4c657b921ebdc96f7a112", null ]
+    [ "npc_toogaAI", "d5/d2b/a16205.html#a4db363c7e787f5fbbd61b418cfa87367", null ],
+    [ "MoveInLineOfSight", "d5/d2b/a16205.html#aff15508b97bce5f5fad9cf9750e89ff1", null ],
+    [ "MovementInform", "d5/d2b/a16205.html#a9315e8ba2688903aaf5b871a7490a700", null ],
+    [ "Reset", "d5/d2b/a16205.html#acfedaf5cc989451a4259a65661685f66", null ],
+    [ "UpdateFollowerAI", "d5/d2b/a16205.html#a742791e714be1ff713ab87e7d515bd9e", null ],
+    [ "CheckSpeechTimer", "d5/d2b/a16205.html#a938852d834c5eb8ba4abceaf49e9a5da", null ],
+    [ "PhasePostEvent", "d5/d2b/a16205.html#a4996291afa64e35f3604b2a85ea03dda", null ],
+    [ "PostEventTimer", "d5/d2b/a16205.html#abea9fa4d2623dab4f14978a7f94b595f", null ],
+    [ "TortaGUID", "d5/d2b/a16205.html#a4531aa0e2c7fe7f3207e56fc2ed67c25", null ]
 ];

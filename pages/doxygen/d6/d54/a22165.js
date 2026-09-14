@@ -1,7 +1,7 @@
 var a22165 =
 [
-    [ "npc_tirions_gambit_tirionAI", "de/d3b/a22169.html", "de/d3b/a22169" ],
-    [ "npc_tirions_gambit_tirion", "d6/d54/a22165.html#ad52abd46ccdd3b4409671679434c193c", null ],
-    [ "GetAI", "d6/d54/a22165.html#a222c092c2e2136dbd7057a3f7ad7b5f4", null ],
-    [ "OnGossipSelect", "d6/d54/a22165.html#a5af904a3394de9b3eedb52009bd6b0a9", null ]
+    [ "HandleDummy", "d6/d54/a22165.html#a2b903398db78b07e6315a582c2f0a38d", null ],
+    [ "PrepareSpellScript", "d6/d54/a22165.html#ae86e65e975f464527f71f70ac8b14213", null ],
+    [ "Register", "d6/d54/a22165.html#a390c378d25b5892679b0253f50c2c145", null ],
+    [ "Validate", "d6/d54/a22165.html#a79170e1b6f472df2c0427e7009209228", null ]
 ];

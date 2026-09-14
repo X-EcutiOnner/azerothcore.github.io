@@ -1,7 +1,13 @@
 var a23877 =
 [
-    [ "CastQuill", "de/d43/a23877.html#a923234809186bcbdf02457f4be095519", null ],
-    [ "Execute", "de/d43/a23877.html#a26a971a575e4b9503cd1da73d43ebd1e", null ],
-    [ "_caster", "de/d43/a23877.html#af809b9279aff141ce4007c8d1fbcc331", null ],
-    [ "_spellId", "de/d43/a23877.html#ad6f7d8eaf69873b0ba57be4189c145cf", null ]
+    [ "boss_wrath_scryer_soccothrates", "de/d43/a23877.html#a771980c1022e7699c3eb02baccb68a93", null ],
+    [ "InitializeAI", "de/d43/a23877.html#ad29f9c200de2f25a74f548c918bb61ac", null ],
+    [ "JustDied", "de/d43/a23877.html#a4954041d6a9cbc754d9fcd1d4ab3d38b", null ],
+    [ "JustEngagedWith", "de/d43/a23877.html#a09302e6f5e1422232a3024dd24a38fd6", null ],
+    [ "KilledUnit", "de/d43/a23877.html#a9b9237e0c8ad1b759c2402de79b3d0bd", null ],
+    [ "MoveInLineOfSight", "de/d43/a23877.html#ab75e402ce24ca34c42f80116b8a0726d", null ],
+    [ "Reset", "de/d43/a23877.html#a85435a23d36f13e348112348a26e7d12", null ],
+    [ "UpdateAI", "de/d43/a23877.html#a41ad9124dec5432feb7ca823f0c8f87f", null ],
+    [ "events2", "de/d43/a23877.html#afd4e9a0ab16406a4a452cd89d13d1fe0", null ],
+    [ "preFight", "de/d43/a23877.html#a193889ee2815b93a1c9aeee394170fc4", null ]
 ];

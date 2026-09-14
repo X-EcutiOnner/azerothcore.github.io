@@ -1,6 +1,7 @@
 var a15849 =
 [
-    [ "npc_injured_draeneiAI", "d8/da0/a15853.html", "d8/da0/a15853" ],
-    [ "npc_injured_draenei", "d9/d00/a15849.html#a660c0f0c4ed41d70ad0a50cde25c1d14", null ],
-    [ "GetAI", "d9/d00/a15849.html#a753bd4a5bb1ddc9feb540a3bedc7d7bb", null ]
+    [ "npc_vekniss_stinger", "d9/d00/a15849.html#ad48098961715a924270cb8bbbe77e4b0", null ],
+    [ "JustEngagedWith", "d9/d00/a15849.html#ae7c758687c81cfb223066f0a9348eab8", null ],
+    [ "Reset", "d9/d00/a15849.html#a2a79f3775aad83410ff2670aa438e811", null ],
+    [ "UpdateAI", "d9/d00/a15849.html#a1ff479e8f45710f6aa36473933bb87e0", null ]
 ];

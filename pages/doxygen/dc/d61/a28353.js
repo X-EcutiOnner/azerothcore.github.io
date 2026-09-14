@@ -1,6 +1,6 @@
 var a28353 =
 [
-    [ "go_fel_crystalforge", "dc/d61/a28353.html#aa44708a617edd51651da49918ab776e5", null ],
-    [ "OnGossipHello", "dc/d61/a28353.html#aae9f4beff251efb7b29e1988ddd51eaf", null ],
-    [ "OnGossipSelect", "dc/d61/a28353.html#a97450cce5f547e28ea84fa6a6f8ab79e", null ]
+    [ "go_l70_etc_musicAI", "dc/d61/a28353.html#a1709414fc40d48ac7c13eb8251dfbb26", null ],
+    [ "UpdateAI", "dc/d61/a28353.html#a182a5a9bbe53ced25740de9a4a368469", null ],
+    [ "_events", "dc/d61/a28353.html#aa0cda672b4491b3cfc75214038aa2132", null ]
 ];

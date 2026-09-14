@@ -1,10 +1,13 @@
 var a23553 =
 [
-    [ "boss_gruul", "d7/d95/a23553.html#a9a14e75144c79d7ad4f65192edd385f9", null ],
-    [ "JustDied", "d7/d95/a23553.html#a92d9e524dfaa0e4a22daf9b7bc6ac10d", null ],
-    [ "JustEngagedWith", "d7/d95/a23553.html#afb0cc9bb5acad80cea8d3e572d45da94", null ],
-    [ "KilledUnit", "d7/d95/a23553.html#afec4bb1b631cab0b167afb7cc2578b7d", null ],
-    [ "Reset", "d7/d95/a23553.html#ace9cf892fc1cc345d6f82d6e9816e301", null ],
-    [ "UpdateAI", "d7/d95/a23553.html#a3503b84f4fb896d439ccd49a997e4087", null ],
-    [ "_caveInTimer", "d7/d95/a23553.html#a66766f93a5ff543bbb0c9b805aaf253c", null ]
+    [ "boss_ghazan", "d7/d95/a23553.html#ae730362fcf3606c67b6b85147de98fb6", null ],
+    [ "DoAction", "d7/d95/a23553.html#ac016d5e06ca4f8f0bf2fa13ce2cd89e2", null ],
+    [ "InitializeAI", "d7/d95/a23553.html#a6b8c975a109dc5eb8a3e3fba03fe806e", null ],
+    [ "JustEngagedWith", "d7/d95/a23553.html#ad4136f0f63d267284f36756793c0efa7", null ],
+    [ "JustReachedHome", "d7/d95/a23553.html#af9f2dd854036d5c8b9c6703499836199", null ],
+    [ "MovementInform", "d7/d95/a23553.html#add9b2e60fb2ffc8a3905f063a2f3d0ae", null ],
+    [ "Reset", "d7/d95/a23553.html#afc9522a26060643f2f9d25a8a98691b7", null ],
+    [ "UpdateAI", "d7/d95/a23553.html#a40a6dd5ed2954be7df4612a7552e1bc0", null ],
+    [ "_movedToPlatform", "d7/d95/a23553.html#aa6c0c391355ac0b698d67796efd63062", null ],
+    [ "_reachedPlatform", "d7/d95/a23553.html#af3476318b4721bd52facaf735eabb1f9", null ]
 ];

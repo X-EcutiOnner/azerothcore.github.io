@@ -1,14 +1,21 @@
 var a12513 =
 [
-    [ "list_commandscript", "d5/d17/a12513.html#a5a85953a46afe08fe05a11fe69c934dc", null ],
-    [ "GetCommands", "d5/d17/a12513.html#a949c6e6f372afb50e1116b6414acdd7c", null ],
-    [ "HandleListAllAurasCommand", "d5/d17/a12513.html#a93f1fe9131b917c813058899efede2a5", null ],
-    [ "HandleListAurasByIdCommand", "d5/d17/a12513.html#a3c59e8b85175ef056b07f566c231c221", null ],
-    [ "HandleListAurasByNameCommand", "d5/d17/a12513.html#a78d6be53ddae80068e2d9c04ea494e24", null ],
-    [ "HandleListCreatureCommand", "d5/d17/a12513.html#a48388f1c839cec6597c74740ec49fa68", null ],
-    [ "HandleListItemCommand", "d5/d17/a12513.html#a7d0aadb081f25c3d533951bd9841f103", null ],
-    [ "HandleListObjectCommand", "d5/d17/a12513.html#ac8b32be8650c9e54388320d650c9761b", null ],
-    [ "HandleListRespawnsCommand", "d5/d17/a12513.html#a463e9471442ef3fa465d3d223876a2db", null ],
-    [ "ListAurasCommand", "d5/d17/a12513.html#a98c9f6fb42e8030d76f234cdb02a72fb", null ],
-    [ "ShouldListAura", "d5/d17/a12513.html#afc42154ec5e978b366780fb600b17e8d", null ]
+    [ "disable_commandscript", "d5/d17/a12513.html#ae49c0e3ad4aa3147194478180837c07e", null ],
+    [ "GetCommands", "d5/d17/a12513.html#a5c0400ab0321c2d181f6288fd828c56a", null ],
+    [ "HandleAddDisableAchievementCriteriaCommand", "d5/d17/a12513.html#a52376d1885f74d00589acb3443860df9", null ],
+    [ "HandleAddDisableBattlegroundCommand", "d5/d17/a12513.html#a8a03b1d32ebf568222d28723c48f8f78", null ],
+    [ "HandleAddDisableMapCommand", "d5/d17/a12513.html#aea64728b1a70aab3813190c4d5df3859", null ],
+    [ "HandleAddDisableOutdoorPvPCommand", "d5/d17/a12513.html#a3c0250b78258394e78fd918dc43f90a2", null ],
+    [ "HandleAddDisableQuestCommand", "d5/d17/a12513.html#a94537f796e64c68df4600041e2cc0da4", null ],
+    [ "HandleAddDisables", "d5/d17/a12513.html#aaa2d58ba9e21e868ecbdbdfac0b6ebdf", null ],
+    [ "HandleAddDisableSpellCommand", "d5/d17/a12513.html#a23ddab0c714a5adea49d14ecde36391b", null ],
+    [ "HandleAddDisableVmapCommand", "d5/d17/a12513.html#aa1df5e4cbc89182eb9e31b4fa9a5325f", null ],
+    [ "HandleRemoveDisableAchievementCriteriaCommand", "d5/d17/a12513.html#ac5088383c36894c7bd753ee99086e508", null ],
+    [ "HandleRemoveDisableBattlegroundCommand", "d5/d17/a12513.html#a9b67a979abb6cde08b4926606a35bf93", null ],
+    [ "HandleRemoveDisableMapCommand", "d5/d17/a12513.html#ab0d61b762d728c1a35e20cda3c347c55", null ],
+    [ "HandleRemoveDisableOutdoorPvPCommand", "d5/d17/a12513.html#a0dfe1ac5224935dd42c6a30daf6cc099", null ],
+    [ "HandleRemoveDisableQuestCommand", "d5/d17/a12513.html#a60e20d885194bbff5da3e824e05a35b2", null ],
+    [ "HandleRemoveDisables", "d5/d17/a12513.html#a529428b7674ca3446a441bdf65fab756", null ],
+    [ "HandleRemoveDisableSpellCommand", "d5/d17/a12513.html#aaa457682d8621801d457eb734673d745", null ],
+    [ "HandleRemoveDisableVmapCommand", "d5/d17/a12513.html#aae06939a2fc52aedce54a75db4b3c218", null ]
 ];

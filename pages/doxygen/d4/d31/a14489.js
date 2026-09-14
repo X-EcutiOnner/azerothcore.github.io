@@ -1,8 +1,6 @@
 var a14489 =
 [
-    [ "FilterTargets", "d4/d31/a14489.html#a3405b21202d423c649e0b8d341b42d9c", null ],
-    [ "HandleWipeThreat", "d4/d31/a14489.html#a2bbcce83bffebc509e9ec54778e82639", null ],
-    [ "PrepareSpellScript", "d4/d31/a14489.html#a59948484b528cab69c695f08b39b886d", null ],
-    [ "Register", "d4/d31/a14489.html#ac4106a251bd3120e122955edbcdc8e2a", null ],
-    [ "_wipeThreat", "d4/d31/a14489.html#ab5293e50bd670c0d350f190f1c9892b3", null ]
+    [ "OnEffect", "d4/d31/a14489.html#ab87d53faac04ced3c11088e260782068", null ],
+    [ "PrepareSpellScript", "d4/d31/a14489.html#af618e8d84029dda5e48b699cbcf671be", null ],
+    [ "Register", "d4/d31/a14489.html#abcfe54b8901ec3c5e070b3c528ade26e", null ]
 ];

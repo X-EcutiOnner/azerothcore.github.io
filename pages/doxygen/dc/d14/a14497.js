@@ -1,6 +1,6 @@
 var a14497 =
 [
-    [ "boss_grilekAI", "d3/dcc/a14501.html", "d3/dcc/a14501" ],
-    [ "boss_grilek", "dc/d14/a14497.html#acffe0061db18c5725c8c290822c5fed7", null ],
-    [ "GetAI", "dc/d14/a14497.html#aa346fa8807069d8fc94bd4d81a014c76", null ]
+    [ "npc_eagle_trash_aggro_trigger", "dc/d14/a14497.html#a9d41e8abe764fd0f8cedd888418aafb2", null ],
+    [ "MoveInLineOfSight", "dc/d14/a14497.html#aa8892e7f2bec9f26320cd9749e648ebd", null ],
+    [ "_instance", "dc/d14/a14497.html#a39a222e1eb0a3378c8fcaf1da5629547", null ]
 ];

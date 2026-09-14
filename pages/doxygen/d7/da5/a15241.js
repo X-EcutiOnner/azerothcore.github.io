@@ -1,10 +1,6 @@
 var a15241 =
 [
-    [ "npc_hyjal_frost_wyrm", "d7/da5/a15241.html#a7cdc8ef87d5ccb88777fa823e199b9ce", null ],
-    [ "AttackStart", "d7/da5/a15241.html#abaaea3bcbb8806ed9d807742273eb06d", null ],
-    [ "DoAction", "d7/da5/a15241.html#adab2b42c582cee234aea37d187b66138", null ],
-    [ "JustEngagedWith", "d7/da5/a15241.html#a23dace13bb2811dea43b63f0b970a2ce", null ],
-    [ "PathEndReached", "d7/da5/a15241.html#a2ec3137dad743e4766ca402282d913c7", null ],
-    [ "Reset", "d7/da5/a15241.html#a550c20113f4ebe4015f9a8088888f99b", null ],
-    [ "UpdateAI", "d7/da5/a15241.html#a182c3b440f74a4ebe6dee64651bf701f", null ]
+    [ "OnRemove", "d7/da5/a15241.html#af9da33426d8ea4462f7d9957c4312019", null ],
+    [ "PrepareAuraScript", "d7/da5/a15241.html#a594f2b65fdbe30f3d52e608f9b7c9731", null ],
+    [ "Register", "d7/da5/a15241.html#a4b04c70fd9c55d20261d9d256ea0966f", null ]
 ];

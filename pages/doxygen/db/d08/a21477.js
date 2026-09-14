@@ -1,6 +1,11 @@
 var a21477 =
 [
-    [ "npc_frozen_orb_stalkerAI", "db/d08/a21477.html#afd8d187ecbf508d02824d1ff8f3cb5cf", null ],
-    [ "JustSummoned", "db/d08/a21477.html#a73d7d5e55d2a00c9aee6f595e2678b17", null ],
-    [ "Reset", "db/d08/a21477.html#a064ccb90afeb9b36d501850482c60bc4", null ]
+    [ "boss_archavonAI", "db/d08/a21477.html#a101518193c0fb6bbd6892362a6f09b9c", null ],
+    [ "AttackStart", "db/d08/a21477.html#ac9f82f61ee7fe945cb3fba23a69e704c", null ],
+    [ "JustDied", "db/d08/a21477.html#a3974065a80dedf3e673452e7f6f8e449", null ],
+    [ "JustEngagedWith", "db/d08/a21477.html#ace4a10f62eaa21ecd997ad1dbe15f3c8", null ],
+    [ "Reset", "db/d08/a21477.html#a7d101626f39947dd54b574491a5e6d72", null ],
+    [ "UpdateAI", "db/d08/a21477.html#a5abb4c2b4149172d2e7bf0d539237323", null ],
+    [ "events", "db/d08/a21477.html#a8d7fef6dfcdc5be20f0531c34b09fc13", null ],
+    [ "pInstance", "db/d08/a21477.html#ab51f09b76054d8bdb13f3c27396db87e", null ]
 ];

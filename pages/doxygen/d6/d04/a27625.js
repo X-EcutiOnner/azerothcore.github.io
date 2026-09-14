@@ -1,6 +1,8 @@
 var a27625 =
 [
-    [ "CheckProc", "d6/d04/a27625.html#a945c4617cba249ee76045ce032f12c3c", null ],
-    [ "PrepareAuraScript", "d6/d04/a27625.html#abdcb401acb80eb732dbf56bbbcf79801", null ],
-    [ "Register", "d6/d04/a27625.html#a912dd7ea10038103bb6d242bb7723830", null ]
+    [ "CheckFireTotem", "d6/d04/a27625.html#a9d6b4368f5c72b95c25415ea87575fce", null ],
+    [ "HandleDummy", "d6/d04/a27625.html#a179d07e7090cec396a7845754e545e8e", null ],
+    [ "PrepareSpellScript", "d6/d04/a27625.html#a8311cc106da26267e90acd98698cb737", null ],
+    [ "Register", "d6/d04/a27625.html#abae5a4961888e6ba2d876e450307e362", null ],
+    [ "Validate", "d6/d04/a27625.html#a2048b0e43dbe2df6e4dfc42d912a74a7", null ]
 ];

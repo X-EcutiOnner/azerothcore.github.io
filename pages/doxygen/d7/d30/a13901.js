@@ -1,7 +1,7 @@
 var a13901 =
 [
-    [ "HandlePull", "d7/d30/a13901.html#a5a43bb53d3c534054498f8366d617e5a", null ],
-    [ "PrepareSpellScript", "d7/d30/a13901.html#aec00f82a35c8154e7d4c1f47c52d486f", null ],
-    [ "RaycastToObstacle", "d7/d30/a13901.html#ad6dfdf70e9ffd43510c4791f804ce340", null ],
-    [ "Register", "d7/d30/a13901.html#a6da76afd5feaa0d60be70ff8469d78bc", null ]
+    [ "HandleRemove", "d7/d30/a13901.html#a4484cf33e423f23cad9559a6a16ed9b4", null ],
+    [ "PrepareAuraScript", "d7/d30/a13901.html#a6fa407996b59d98d0eeef877ee89784d", null ],
+    [ "Register", "d7/d30/a13901.html#a7dc81b47954ee8c10b99f389740de0be", null ],
+    [ "Validate", "d7/d30/a13901.html#afd94a159c0f429f2a63ffbd0a38d32e3", null ]
 ];

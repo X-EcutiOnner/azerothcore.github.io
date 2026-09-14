@@ -1,5 +1,6 @@
 var a14529 =
 [
-    [ "at_zulgurub_edge_of_madness_speech", "db/dfa/a14529.html#a7d4007716e3ed634ac7e3d3dba26e6f7", null ],
-    [ "_OnTrigger", "db/dfa/a14529.html#ab04b77d7521296cd271f763274d09841", null ]
+    [ "npc_zulian_prowlerAI", "dc/daa/a14533.html", "dc/daa/a14533" ],
+    [ "npc_zulian_prowler", "db/dfa/a14529.html#a27ae990985976d02bb221b6d669fa849", null ],
+    [ "GetAI", "db/dfa/a14529.html#a7e7d4f8164bbb728a1b83244c1e356f9", null ]
 ];

@@ -1,9 +1,9 @@
 var a11469 =
 [
-    [ "TrainerList", "d1/ddf/a11469.html#aebb173d4f46d00f383c4ed62e8b130a7", null ],
-    [ "Write", "d1/ddf/a11469.html#a4d44b3310c3733ae56ffce9a84eff8d1", null ],
-    [ "Greeting", "d1/ddf/a11469.html#ad88c53405b38f276815e0f013ce5261f", null ],
-    [ "Spells", "d1/ddf/a11469.html#a6b3a33adeeab2c09ac83e7e430312158", null ],
-    [ "TrainerGUID", "d1/ddf/a11469.html#ab5e93d6c38efd311c701401ec03f7958", null ],
-    [ "TrainerType", "d1/ddf/a11469.html#a56a96a12b526f0e0cf89a6472c6a206b", null ]
+    [ "RandomRoll", "d1/ddf/a11469.html#abc64acf498b3dc70b9afd23c399e3db8", null ],
+    [ "Write", "d1/ddf/a11469.html#aab5879874745603dd448a7f5084d60d4", null ],
+    [ "Max", "d1/ddf/a11469.html#a21460b09eddfbee6ba022f88b5f37cc7", null ],
+    [ "Min", "d1/ddf/a11469.html#aee5564c9fc17613b9f30fc8ce88944c6", null ],
+    [ "Result", "d1/ddf/a11469.html#a34fd2c1d018bb292836724671163ff07", null ],
+    [ "Roller", "d1/ddf/a11469.html#af02aa97826259885791d0f4afc0c1a84", null ]
 ];

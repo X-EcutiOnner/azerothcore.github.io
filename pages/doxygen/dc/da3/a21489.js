@@ -1,11 +1,17 @@
 var a21489 =
 [
-    [ "boss_cyanigosa", "dc/da3/a21489.html#af85a0c366de8785cd89d14f7990bfb54", null ],
-    [ "EnterEvadeMode", "dc/da3/a21489.html#aa3d989cb4c094713d6adb4305f8e6113", null ],
-    [ "ExecuteEvent", "dc/da3/a21489.html#a694dda590c17a03534f8744838ac3176", null ],
-    [ "JustDied", "dc/da3/a21489.html#ad70efce47f2f5d411fd42fd61ec51794", null ],
-    [ "JustEngagedWith", "dc/da3/a21489.html#a2432aa3610747c52f6ec3de1def55f18", null ],
-    [ "KilledUnit", "dc/da3/a21489.html#a1f2810d9f2a291576fa29a872b1f6470", null ],
-    [ "MoveInLineOfSight", "dc/da3/a21489.html#a55645a68448a8c83b85b05c7a29f0f6a", null ],
-    [ "SpellHitTarget", "dc/da3/a21489.html#a7b393188f0f8d192baab0eed48f0a5d3", null ]
+    [ "boss_emalonAI", "dc/da3/a21489.html#ac87b3ea34e9781f3843321ef874321fe", null ],
+    [ "AttackStart", "dc/da3/a21489.html#ab08f49aabe76b623496da2fc0198a6c1", null ],
+    [ "JustDied", "dc/da3/a21489.html#a79a05156b690140e955a6e850ac41e5b", null ],
+    [ "JustEngagedWith", "dc/da3/a21489.html#a9a3b4e6df73586125c0369aa2d3666df", null ],
+    [ "JustSummoned", "dc/da3/a21489.html#a895f302d336faa0c3f93854314d3b427", null ],
+    [ "Reset", "dc/da3/a21489.html#ae5d33f728077d5bbc3b7d74db8015f5d", null ],
+    [ "ResetSummons", "dc/da3/a21489.html#a7df4da85c40ba1c34063df9b2df5874b", null ],
+    [ "SpellHitTarget", "dc/da3/a21489.html#a2c60642848b73bc00d1a8244d4fb4733", null ],
+    [ "SummonedCreatureDespawnAll", "dc/da3/a21489.html#af3ba1614582c65e6e779bbdb35f74a71", null ],
+    [ "SummonedCreatureDies", "dc/da3/a21489.html#a25a18c4d110b407c5fcf09c14444e8b0", null ],
+    [ "UpdateAI", "dc/da3/a21489.html#a4701d5a77b6ae7ce3432c81b7b6d14cf", null ],
+    [ "events", "dc/da3/a21489.html#a78312371e28b4be3c072dc870370b577", null ],
+    [ "pInstance", "dc/da3/a21489.html#af4cc6489905f9702999cc23fd6a920c2", null ],
+    [ "summons", "dc/da3/a21489.html#a1b6ccd418114e57a0c843cc980a56243", null ]
 ];

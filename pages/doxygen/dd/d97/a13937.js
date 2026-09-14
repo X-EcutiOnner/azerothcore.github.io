@@ -1,6 +1,9 @@
 var a13937 =
 [
-    [ "OnApply", "dd/d97/a13937.html#a53fceaa5187f6dbc93f4d0d589086ca9", null ],
-    [ "PrepareAuraScript", "dd/d97/a13937.html#a236892b4fd6cf081a907becab6187069", null ],
-    [ "Register", "dd/d97/a13937.html#aa37819b82692df8a21cbbda8833ad492", null ]
+    [ "npc_dark_fiend", "dd/d97/a13937.html#a8c4ebf7ba2f991df7053d40108330609", null ],
+    [ "DamageTaken", "dd/d97/a13937.html#a39daa01688ec4ddadf9f1d185faa3f48", null ],
+    [ "Reset", "dd/d97/a13937.html#a5622d14f84ad8e47da773852f1778d56", null ],
+    [ "UpdateAI", "dd/d97/a13937.html#ab4a7cbc09f4b830039cf4c6f59b2b30e", null ],
+    [ "_lastVictimGUID", "dd/d97/a13937.html#abcccb35701f21d417e3c13709cc24281", null ],
+    [ "_spellCast", "dd/d97/a13937.html#a4cde5fbbeedfc7ed2907a2b797f6aafa", null ]
 ];

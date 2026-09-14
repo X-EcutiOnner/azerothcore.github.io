@@ -1,7 +1,6 @@
 var a23401 =
 [
-    [ "PeriodicTick", "d0/da2/a23401.html#a789d2d4d2bc75e412abe80a33102fa06", null ],
-    [ "PrepareAuraScript", "d0/da2/a23401.html#a49db8ade3bc3a3da9e043e8b9ad1759d", null ],
-    [ "Register", "d0/da2/a23401.html#aec2d7f564107f5b294a5d5c3dd3f9b25", null ],
-    [ "Validate", "d0/da2/a23401.html#a7c2309d3192b2a18d8035c8067849d6d", null ]
+    [ "instance_serpentshrine_cavern_InstanceMapScript", "dc/d19/a23405.html", "dc/d19/a23405" ],
+    [ "instance_serpent_shrine", "d0/da2/a23401.html#aac4fc7113307805138ba4ce4a9adff09", null ],
+    [ "GetInstanceScript", "d0/da2/a23401.html#aa81add2f4aeb8b2084bcc81c05b606c7", null ]
 ];

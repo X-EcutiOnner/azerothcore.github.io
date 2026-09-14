@@ -1,6 +1,5 @@
 var a27209 =
 [
-    [ "HandleEffectApply", "db/d34/a27209.html#a111ce5c9e70ed563bc7b9c2ec8e79b76", null ],
-    [ "PrepareAuraScript", "db/d34/a27209.html#a707504eccf42af77f6e6e927d208bc8c", null ],
-    [ "Register", "db/d34/a27209.html#a7aeaa28997bbe966274a738cf45323ed", null ]
+    [ "PrepareSpellScript", "db/d34/a27209.html#aee9595d4716fb2ea1bd9e2a66d26c39e", null ],
+    [ "Register", "db/d34/a27209.html#a6318da4bfeb63dee75a971106bdc2146", null ]
 ];

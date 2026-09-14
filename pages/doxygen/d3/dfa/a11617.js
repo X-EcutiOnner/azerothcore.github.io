@@ -1,6 +1,7 @@
 var a11617 =
 [
-    [ "QuestGiverQuestInvalid", "d3/dfa/a11617.html#a7220ac375523d524f905042722522bfb", null ],
-    [ "Write", "d3/dfa/a11617.html#aed56e88c0fc568d524913c0863a45622", null ],
-    [ "FailureReason", "d3/dfa/a11617.html#a7c2cc4153399abfbaa4b2b2811d2fde2", null ]
+    [ "PetActionSound", "d3/dfa/a11617.html#ae20a837d2b3f647d2a1d7c5e398b7b56", null ],
+    [ "Write", "d3/dfa/a11617.html#a8627631f2eb7d93cda52ce09a749fb0c", null ],
+    [ "Action", "d3/dfa/a11617.html#a25b3a4b44bcda9bec898aca1a88b90ed", null ],
+    [ "UnitGUID", "d3/dfa/a11617.html#a32b15c490da02bc5020653a9e9bfbd68", null ]
 ];

@@ -1,9 +1,6 @@
 var a26849 =
 [
-    [ "CheckProc", "db/d32/a26849.html#a1ea48d77c2bb5b26c12384e4e11411ff", null ],
-    [ "HandleProc", "db/d32/a26849.html#afe1282b6df7593066469f3ddf7ff8a33", null ],
-    [ "PrepareAuraScript", "db/d32/a26849.html#a9585ecde57ccfa26f59174732e3132fc", null ],
-    [ "Register", "db/d32/a26849.html#aff856108cd0b92c3a4eaeb4c354ee56f", null ],
-    [ "Validate", "db/d32/a26849.html#a65e88419d625dc6e8033b573ce7f18ee", null ],
-    [ "_triggeredSpellId", "db/d32/a26849.html#a560ade778e046213f60f48364ea3800c", null ]
+    [ "CheckTarget", "db/d32/a26849.html#af1dae4f351ccaa7bc9b2ea315f0752c5", null ],
+    [ "PrepareSpellScript", "db/d32/a26849.html#a8f4075c80c7dcaa16f71bc1b396d005f", null ],
+    [ "Register", "db/d32/a26849.html#af4a27df3090a45ebd5db29c58e9ea47f", null ]
 ];

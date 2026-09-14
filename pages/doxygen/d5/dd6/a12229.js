@@ -1,11 +1,12 @@
 var a12229 =
 [
-    [ "WorldUpdateTime", "d5/dd6/a12229.html#a97552c4ce99bd40919f199c17fe203ed", null ],
-    [ "LoadFromConfig", "d5/dd6/a12229.html#acb2b9d56504fc760e7df1c93621ab788", null ],
-    [ "RecordUpdateTime", "d5/dd6/a12229.html#a88d773c8029cebeab6b99444c25c8379", null ],
-    [ "RecordUpdateTimeDuration", "d5/dd6/a12229.html#a3ae299cfba6adcbb4e38af40313428fc", null ],
-    [ "SetRecordUpdateTimeInterval", "d5/dd6/a12229.html#ada81050229ccacc49d5b6a9f6101174c", null ],
-    [ "_lastRecordTime", "d5/dd6/a12229.html#a7bc68a1a700deb4bc4d19992edf3ffa7", null ],
-    [ "_recordUpdateTimeInverval", "d5/dd6/a12229.html#a5486477b0a604f0207336e423f42c2b1", null ],
-    [ "_recordUpdateTimeMin", "d5/dd6/a12229.html#a6b8a8d1b61f9ecec591165fa334972fc", null ]
+    [ "BroadcastTextBuilder", "d5/dd6/a12229.html#adafc60b68bed31fdd87f5c71244c96f2", null ],
+    [ "operator()", "d5/dd6/a12229.html#a16f9719278e00013c25902846fa1be5b", null ],
+    [ "operator()", "d5/dd6/a12229.html#ac87701626dddffb6b09bf504b97c4d55", null ],
+    [ "_achievementId", "d5/dd6/a12229.html#a82de25331657b17ce0de33f2b374abda", null ],
+    [ "_gender", "d5/dd6/a12229.html#a71032b0749dd75f552107503528e8166", null ],
+    [ "_msgType", "d5/dd6/a12229.html#a232325cefa217843da5cc6db7e5d80fe", null ],
+    [ "_source", "d5/dd6/a12229.html#ab73315225b3aa36a309f45596f7089f4", null ],
+    [ "_target", "d5/dd6/a12229.html#a958b154f3c82188e9684be0f0b7dae56", null ],
+    [ "_textId", "d5/dd6/a12229.html#a0bbe45b38a92967f145fb1d608d647b1", null ]
 ];

@@ -1,6 +1,7 @@
 var a17049 =
 [
-    [ "npc_mistress_of_painAI", "d4/d79/a17053.html", "d4/d79/a17053" ],
-    [ "npc_mistress_of_pain", "d5/d85/a17049.html#a0261ed835454725e0e5629c295be4330", null ],
-    [ "GetAI", "d5/d85/a17049.html#ae32e9b907e2e31556e72d7feb4e24e8a", null ]
+    [ "npc_toc_rogueAI", "d5/d85/a17049.html#a34027e7d10edbfba8e046f4785e37899", null ],
+    [ "myCanCast", "d5/d85/a17049.html#a85ed8e251dd8356e678536f1e3f3c93d", null ],
+    [ "UpdateAI", "d5/d85/a17049.html#a49b0655def227684f07bd60a3c1e0ce1", null ],
+    [ "events", "d5/d85/a17049.html#a1519bebb81b64d57b2b0b34a059b83f8", null ]
 ];

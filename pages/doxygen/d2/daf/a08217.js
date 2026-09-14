@@ -1,6 +1,11 @@
 var a08217 =
 [
-    [ "value_type", "d2/daf/a08217.html#ac481731c1965ea0420cd7820e1e89881", null ],
-    [ "StoreTo", "d2/daf/a08217.html#a36969f95d224ae4561d46a3ca7b20d26", null ],
-    [ "tag", "d2/daf/a08217.html#a24d00ca0725d6b4f236bccd7cf5ecbc7", null ]
+    [ "EnchantId", "d2/daf/a08217.html#ad68d4f09195ba9c2a74bc9187e1cc1dd", null ],
+    [ "GemEnchantId", "d2/daf/a08217.html#a680481a1dcc0a163cabeb02e426d89cd", null ],
+    [ "IsBuggedInspectLink", "d2/daf/a08217.html#a1db96c31b140774302c633e99bcea93f", null ],
+    [ "Item", "d2/daf/a08217.html#a89b08bf0a3fb31ef6c0f71919b05195e", null ],
+    [ "RandomProperty", "d2/daf/a08217.html#a07871677ea967da347a6debafa7c91e7", null ],
+    [ "RandomSuffix", "d2/daf/a08217.html#a39126c77bdd1d3d850a20cf02bb034ae", null ],
+    [ "RandomSuffixBaseAmount", "d2/daf/a08217.html#aa9a99d071ee623b0df6f456199e1262a", null ],
+    [ "RenderLevel", "d2/daf/a08217.html#acb1024455a3b847ea13390c05b79cd0c", null ]
 ];

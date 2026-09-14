@@ -1,12 +1,11 @@
 var a12641 =
 [
-    [ "wp_commandscript", "d5/db4/a12641.html#a152610b5faf3ee05bb830bbf820b7162", null ],
-    [ "GetCommands", "d5/db4/a12641.html#a55ecc8d67d7c240df1b177f755fc5850", null ],
-    [ "HandleWpAddCommand", "d5/db4/a12641.html#a345a8c5a2b449dc228433b2922caab0e", null ],
-    [ "HandleWpEventCommand", "d5/db4/a12641.html#a7b9355e52cb6870e7cdec7206f800832", null ],
-    [ "HandleWpLoadCommand", "d5/db4/a12641.html#a5849689f5cd186e8fc1f91ebd5f5a21a", null ],
-    [ "HandleWpModifyCommand", "d5/db4/a12641.html#a9a3e68e19f2324783bbe9ed9fe1c3ac6", null ],
-    [ "HandleWpReloadCommand", "d5/db4/a12641.html#ae7015c0f94ca5688210d890b636a586d", null ],
-    [ "HandleWpShowCommand", "d5/db4/a12641.html#a265f60ddec02a2f24b011ccdebefa89e", null ],
-    [ "HandleWpUnLoadCommand", "d5/db4/a12641.html#a4f0a252f625e49593ad6a03086a8c7ad", null ]
+    [ "pooltools_commandscript", "d5/db4/a12641.html#a3428978e91000cbe46dd2b84a30eee2d", null ],
+    [ "GetCommands", "d5/db4/a12641.html#aebd69a3ae0a0e0833f3eaeeb637d97e6", null ],
+    [ "HandlePoolAdd", "d5/db4/a12641.html#afb113b7673dbddf804f9384fbc400d67", null ],
+    [ "HandlePoolClear", "d5/db4/a12641.html#a4bde765f2949ae2db1601e8f5a103ed2", null ],
+    [ "HandlePoolDef", "d5/db4/a12641.html#a12edd3f4697bba8e03594ceed8c6c289", null ],
+    [ "HandlePoolEnd", "d5/db4/a12641.html#a039862a0ca89201187f4e06ce792cae8", null ],
+    [ "HandlePoolRemove", "d5/db4/a12641.html#a158f83f814cba8328dcb81f02525dcdb", null ],
+    [ "HandlePoolStart", "d5/db4/a12641.html#a13629c50653c80b949bdf80485e51d59", null ]
 ];

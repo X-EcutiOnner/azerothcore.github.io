@@ -1,6 +1,7 @@
 var a21249 =
 [
-    [ "instance_utgarde_keep_InstanceMapScript", "d5/d9b/a21253.html", "d5/d9b/a21253" ],
-    [ "instance_utgarde_keep", "d2/dc4/a21249.html#abe013e4f086f63722a6398b2b7928c80", null ],
-    [ "GetInstanceScript", "d2/dc4/a21249.html#a9a42e0dde1c7598eb2ef665f11e25e92", null ]
+    [ "HandleEffectPeriodic", "d2/dc4/a21249.html#a2b9426d0a2ce9251632acebb30d0e2b5", null ],
+    [ "PrepareAuraScript", "d2/dc4/a21249.html#a7dca0398e78278c78dd80e9e6ca874e1", null ],
+    [ "Register", "d2/dc4/a21249.html#a74052d7da1523b3c4010465510e5fe04", null ],
+    [ "Validate", "d2/dc4/a21249.html#a587a469c649877f80e8fe80062e8b5d4", null ]
 ];

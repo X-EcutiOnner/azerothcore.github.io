@@ -1,7 +1,7 @@
 var a26213 =
 [
-    [ "HandleEnergize", "d1/d9e/a26213.html#a283e713252166a863aa96530d6e7608b", null ],
-    [ "Load", "d1/d9e/a26213.html#a89847e0e9435a708c5722ff928f7033f", null ],
-    [ "PrepareSpellScript", "d1/d9e/a26213.html#a8847e05e6eeafd801fca5423d0689432", null ],
-    [ "Register", "d1/d9e/a26213.html#ae0778ffd8cf203e22510ee91b0394303", null ]
+    [ "Load", "d1/d9e/a26213.html#a8be944ae201f4f8406948aff78f982d9", null ],
+    [ "OnDummyEffect", "d1/d9e/a26213.html#adcb707400963e549a295e115d6f3583b", null ],
+    [ "PrepareSpellScript", "d1/d9e/a26213.html#a5b2175a933df10d775bc3381f515aa96", null ],
+    [ "Register", "d1/d9e/a26213.html#a6e41bf15401c540887dd321e4b2cc7d3", null ]
 ];

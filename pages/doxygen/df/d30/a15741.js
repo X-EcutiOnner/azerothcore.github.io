@@ -1,7 +1,10 @@
 var a15741 =
 [
-    [ "FilterTargets", "df/d30/a15741.html#a76e8285baf1d14d560ad764eeab86cd5", null ],
-    [ "HandleOnHit", "df/d30/a15741.html#a587db6fa1dc5788e0cc9ec5e486e9393", null ],
-    [ "PrepareSpellScript", "df/d30/a15741.html#ad7372e543391a23c003b4121e0dd8a09", null ],
-    [ "Register", "df/d30/a15741.html#a9749c72e2c7964cd4a2b2f9a77da69ec", null ]
+    [ "boss_huhuran", "df/d30/a15741.html#a64e0b20891992764c708cbb661c18196", null ],
+    [ "DamageTaken", "df/d30/a15741.html#adb47086f29b41f4168ad5d1b2728547d", null ],
+    [ "JustEngagedWith", "df/d30/a15741.html#a08f1d6550680d5bcf07332eade115730", null ],
+    [ "Reset", "df/d30/a15741.html#a45571aa6bd0c7915fb666cae1c5c4544", null ],
+    [ "UpdateAI", "df/d30/a15741.html#a23962e668f046b373f94ea6a2d75574a", null ],
+    [ "_berserk", "df/d30/a15741.html#a5f3f17d0b239f95ed4eb0bfac85c4463", null ],
+    [ "_hardEnrage", "df/d30/a15741.html#a5612bf8b1eedec159b316b28e6f4c915", null ]
 ];

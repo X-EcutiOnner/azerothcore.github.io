@@ -1,6 +1,8 @@
 var a14149 =
 [
-    [ "ModDestHeight", "da/dd9/a14149.html#ae5e63f8d6e9e3fa05a82cd5708b44527", null ],
-    [ "PrepareSpellScript", "da/dd9/a14149.html#a7447499330dc583210b7a172265dbb69", null ],
-    [ "Register", "da/dd9/a14149.html#a75e577bbe27b2742f6209b7d295dcafa", null ]
+    [ "npc_deathstalker_erlandAI", "da/dd9/a14149.html#aa3c6822db09bc40dc87d556f6b3cc880", null ],
+    [ "JustEngagedWith", "da/dd9/a14149.html#ae4789c26cbb00b4ac04d646617a48a40", null ],
+    [ "Reset", "da/dd9/a14149.html#a3def0a0dd57ed732242a09d6390ab1f0", null ],
+    [ "WaypointReached", "da/dd9/a14149.html#af200e269d3f4b51bb5cfd08e9bf7ecc5", null ],
+    [ "WaypointReached", "da/dd9/a14149.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

@@ -1,7 +1,7 @@
 var a19769 =
 [
-    [ "Load", "d6/dfb/a19769.html#a76c4a5c9b3bbed286a9d724c521944fd", null ],
-    [ "PrepareSpellScript", "d6/dfb/a19769.html#a10fd04468a4de402f2d2d1d4b003a5c9", null ],
-    [ "Register", "d6/dfb/a19769.html#a86259dfc100541aec0f9c7e744bbf24d", null ],
-    [ "SetDest", "d6/dfb/a19769.html#a231a75702f4a98f51d1be45510c5d05f", null ]
+    [ "npc_naxxramas_trigger", "d6/dfb/a19769.html#a62fd64468daf378fbe2e8f18b1f002f8", null ],
+    [ "Reset", "d6/dfb/a19769.html#a5bf85ab6027ca5101df32cda6df29b28", null ],
+    [ "UpdateAI", "d6/dfb/a19769.html#acd051dd7790aa37cd2375479433509cb", null ],
+    [ "_events", "d6/dfb/a19769.html#a1ab25fd0b40f373d30b0f60462dd276b", null ]
 ];

@@ -1,9 +1,8 @@
 var a20265 =
 [
-    [ "npc_thorims_hammer", "d7/d1f/a20265.html#ae22f7278bd68011dc8f593ac4ccfc5ff", null ],
-    [ "Reset", "d7/d1f/a20265.html#a6b7a294849ffd4a75e7f9e0ce3c7314b", null ],
-    [ "UpdateAI", "d7/d1f/a20265.html#a006414298b31eb0cfb964916298d66ce", null ],
-    [ "_beamTimer", "d7/d1f/a20265.html#adcd5af2b86d1d8f119514f799c42444b", null ],
-    [ "_finishTime", "d7/d1f/a20265.html#aa6366b2ba9158a8560ed7289b51e96fc", null ],
-    [ "_removeTimer", "d7/d1f/a20265.html#a7b9a2435b0953c12e693c562193d45e0", null ]
+    [ "CatsTargetSelector", "d7/d1f/a20265.html#a48068e5fb4d835303d1d0fbbc4a7e66e", null ],
+    [ "operator()", "d7/d1f/a20265.html#a86e65be219bb8f1fdbebba21ba16884a", null ],
+    [ "_maxDist", "d7/d1f/a20265.html#a569a1fc697a16c55ef0d087993461a01", null ],
+    [ "_me", "d7/d1f/a20265.html#a510937836db06bf70f2bd3737efa4369", null ],
+    [ "_minDist", "d7/d1f/a20265.html#a28f5ca413d51073294888cfc97c21b04", null ]
 ];

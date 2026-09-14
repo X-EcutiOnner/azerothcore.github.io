@@ -1,11 +1,9 @@
 var a17345 =
 [
-    [ "npc_ghostly_priest", "d2/d89/a17345.html#a154f4a7f9cd3c4088eada04c44f66f2b", null ],
-    [ "AttackStart", "d2/d89/a17345.html#acbc2eb708773500136deebb8542d36aa", null ],
-    [ "DoAction", "d2/d89/a17345.html#a0687e1c766c89b8b90cb620a4a2bef6d", null ],
-    [ "EnterEvadeMode", "d2/d89/a17345.html#ac944330e3834bd4c65e30c595752746c", null ],
-    [ "JustDied", "d2/d89/a17345.html#ae7ef06904aa2039d3552a2a62b846042", null ],
-    [ "JustEngagedWith", "d2/d89/a17345.html#ada930b20b8f3b07f2da7bfa44025ed32", null ],
-    [ "Reset", "d2/d89/a17345.html#a3bb7596f2a15c76eeb8f2b79fab8ddf1", null ],
-    [ "UpdateAI", "d2/d89/a17345.html#a3722469ea1445f7dbaf834853a9ed654", null ]
+    [ "HandlePeriodicTick", "d2/d89/a17345.html#a8d3713d113cbcfd610938544e52fe6ec", null ],
+    [ "Load", "d2/d89/a17345.html#a6f2cb6a9dd83a887314cdd9f7741acae", null ],
+    [ "PrepareAuraScript", "d2/d89/a17345.html#a0d00fd1bbc8dfce6cbc3234865bab42b", null ],
+    [ "Register", "d2/d89/a17345.html#a75dbd486e1ccb8c12bbf8001434ae66a", null ],
+    [ "Validate", "d2/d89/a17345.html#aae7b42d8e7fa2dc76d2584534877625c", null ],
+    [ "dir", "d2/d89/a17345.html#a7dd1959596e8ad1628498215249eb7a2", null ]
 ];

@@ -1,6 +1,6 @@
 var a24925 =
 [
-    [ "OnHit", "d5/d02/a24925.html#a56ecd2ea05f48b874b2890d7f15cc362", null ],
-    [ "PrepareSpellScript", "d5/d02/a24925.html#a0d74ce7c43f0cb7329ca990f1b0eecdf", null ],
-    [ "Register", "d5/d02/a24925.html#a7cd2cc858eeb7805a3efb72b081c284e", null ]
+    [ "CalculateAmount", "d5/d02/a24925.html#a66fd870eff0f2a225630e26047d36225", null ],
+    [ "PrepareAuraScript", "d5/d02/a24925.html#afde8a1734c57e01094077af3d3bdf757", null ],
+    [ "Register", "d5/d02/a24925.html#a8e5b9dd71dfccb224e92784725f2a8a9", null ]
 ];

@@ -1,9 +1,12 @@
 var a30393 =
 [
-    [ "MapTiles", "df/ddd/a30393.html#abc58d7154eab45ae26df27e2e82dac63", null ],
-    [ "MapTiles", "df/ddd/a30393.html#a406efc53593b5bceb0a491c0b7553350", null ],
-    [ "~MapTiles", "df/ddd/a30393.html#aec1baac21c06380ba71ff5e610152519", null ],
-    [ "operator==", "df/ddd/a30393.html#a4a6b1901d8a39a3d2cd50775c1e1a6b3", null ],
-    [ "m_mapId", "df/ddd/a30393.html#a2fc10edf226a6f4548c2175e1013c1b9", null ],
-    [ "m_tiles", "df/ddd/a30393.html#ab80305bb73234e35a528701d775954b5", null ]
+    [ "Bounds", "df/ddd/a30393.html#a1e982b341ac3859fad38b2efc81ab8ea", null ],
+    [ "DoodadSet", "df/ddd/a30393.html#abbf6e50e76b120be17215cfcf227a524", null ],
+    [ "Flags", "df/ddd/a30393.html#a06f5e96119239356eea45b9acdadf6e1", null ],
+    [ "Id", "df/ddd/a30393.html#a952442c180e8d3710af31272b54eb6ec", null ],
+    [ "NameSet", "df/ddd/a30393.html#a55df9aed38d8cf1503b21f5fd9d5e5d0", null ],
+    [ "Position", "df/ddd/a30393.html#a7e6463db89eaf53bc20832afb1842a5b", null ],
+    [ "Rotation", "df/ddd/a30393.html#a2c04715e800b9f375c287cced96643d1", null ],
+    [ "Scale", "df/ddd/a30393.html#a142716fecae07abc013c7f3bd053c0ea", null ],
+    [ "UniqueId", "df/ddd/a30393.html#a749e920740b9e91547fe1f87933d1c7d", null ]
 ];

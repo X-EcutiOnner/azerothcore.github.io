@@ -1,7 +1,5 @@
 var a17637 =
 [
-    [ "HandleScriptEffect", "d3/d00/a17637.html#a6469efa0e1fabaf1cb366f119a1158c1", null ],
-    [ "PrepareSpellScript", "d3/d00/a17637.html#aac410690d906867216b40a49d8f15318", null ],
-    [ "Register", "d3/d00/a17637.html#ae8c7acabe93fc33d13f0b8848415eabf", null ],
-    [ "Validate", "d3/d00/a17637.html#a88c3961d5757dd0c75be4acc7de6e45b", null ]
+    [ "entry", "d3/d00/a17637.html#a44c7a625896d6fddc15da39988e0b042", null ],
+    [ "pathId", "d3/d00/a17637.html#accd6af0ddfa248a972612d802a1e641e", null ]
 ];

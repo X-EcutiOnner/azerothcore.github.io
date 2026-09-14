@@ -1,4 +1,4 @@
 var a04652 =
 [
-    [ "SessionKeyGenerator< Hash >", "d5/de0/a05541.html", "d5/de0/a05541" ]
+    [ "AuthCrypt", "dc/d02/a05525.html", "dc/d02/a05525" ]
 ];

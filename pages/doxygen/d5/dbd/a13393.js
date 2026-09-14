@@ -1,7 +1,8 @@
 var a13393 =
 [
-    [ "HandleDummy", "d5/dbd/a13393.html#a02b89ff0a3ea53bb2740c7deb51279c2", null ],
-    [ "PrepareSpellScript", "d5/dbd/a13393.html#a55a794dbaf76a549bd11fbe2a2432609", null ],
-    [ "Register", "d5/dbd/a13393.html#a17784359e300e9d66c0c22bc5e7b6f6c", null ],
-    [ "Validate", "d5/dbd/a13393.html#af12eb55064f7f1f1063ec0ce2863bc57", null ]
+    [ "npc_tito", "d5/dbd/a13393.html#a0b3b1750e8b8840e50d27d22ebddb7c8", null ],
+    [ "JustEngagedWith", "d5/dbd/a13393.html#a71335c1474e8a29edf76addacb737fa9", null ],
+    [ "UpdateAI", "d5/dbd/a13393.html#ac357c29e68d8480d94349da844efd3ad", null ],
+    [ "_scheduler", "d5/dbd/a13393.html#a96c47ca2e66bb984dfd2cfefa6bde643", null ],
+    [ "instance", "d5/dbd/a13393.html#a9eecd226486e52d559ae1a30687bf0eb", null ]
 ];

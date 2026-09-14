@@ -1,7 +1,10 @@
 var a18549 =
 [
-    [ "PeriodicTick", "d9/dc1/a18549.html#a0c365bbb4ae9b77bb9e00a1eb41b96e4", null ],
-    [ "PrepareAuraScript", "d9/dc1/a18549.html#afcadfbdd84608e827b89c64bf03c8501", null ],
-    [ "Register", "d9/dc1/a18549.html#a0e8e8685ce8c1eea2b60e8bf6aeed782", null ],
-    [ "Validate", "d9/dc1/a18549.html#a879b657d94c1faf6225fe64f907cdf82", null ]
+    [ "CountTargets", "d9/dc1/a18549.html#a042c3f2ee73533b397a2d697d1da6563", null ],
+    [ "HandleDummy", "d9/dc1/a18549.html#ab314680d5349c0c3e449694b92ab7311", null ],
+    [ "Load", "d9/dc1/a18549.html#a534e9f5ee9aa29603cfc205c2c2d580f", null ],
+    [ "PrepareSpellScript", "d9/dc1/a18549.html#a8b831c01cd9fd997279f6a81170786de", null ],
+    [ "Register", "d9/dc1/a18549.html#ab0d87ba23eb252075cb0779b06813a31", null ],
+    [ "SelectDest", "d9/dc1/a18549.html#a6061486d0067af51c8ef079224ea63f1", null ],
+    [ "_targetCount", "d9/dc1/a18549.html#a58f839370a885c450e6742cbb3116784", null ]
 ];

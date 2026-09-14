@@ -1,10 +1,8 @@
 var a27733 =
 [
-    [ "CalcPeriodic", "d1/d08/a27733.html#abd23b7e24d9688dd4b9cbe70cdd45d75", null ],
-    [ "CalculateAmount", "d1/d08/a27733.html#a55aa6c6a23e4db0f407b86bcf95d3761", null ],
-    [ "HandleEffectCalcSpellMod", "d1/d08/a27733.html#a8c888218fde2176a3c3b5cb97fdce5de", null ],
-    [ "HandlePeriodic", "d1/d08/a27733.html#ae2c4de235fc727039a50f1b6ba729422", null ],
-    [ "Load", "d1/d08/a27733.html#a9e1a5a07db18f6ff238276f9e1c44321", null ],
-    [ "PrepareAuraScript", "d1/d08/a27733.html#a847c1db1bf92baeba47260ffbacbcdd9", null ],
-    [ "Register", "d1/d08/a27733.html#a9241ab85d616f4f17c52b3730c5434e1", null ]
+    [ "CheckProc", "d1/d08/a27733.html#addcb648b62f4503f090c248b8d97eb4e", null ],
+    [ "HandleProc", "d1/d08/a27733.html#ad37f40743c1435df6e89187e2677a3f8", null ],
+    [ "PrepareAuraScript", "d1/d08/a27733.html#ac1f447ca57dd6410d9c8686c7c2b7b2a", null ],
+    [ "Register", "d1/d08/a27733.html#a9b8c97a29af60ec4a72d2ea85f5c08c4", null ],
+    [ "Validate", "d1/d08/a27733.html#afec1afc80df1793d98371609e31b1401", null ]
 ];

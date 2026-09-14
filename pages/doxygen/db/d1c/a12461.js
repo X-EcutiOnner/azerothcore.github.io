@@ -1,9 +1,9 @@
 var a12461 =
 [
-    [ "event_commandscript", "db/d1c/a12461.html#a160db0ad8874b0834ef863043b1796ae", null ],
-    [ "GetCommands", "db/d1c/a12461.html#aac32a7f3d2d11dc73dfa3e9f8224560e", null ],
-    [ "HandleEventActiveListCommand", "db/d1c/a12461.html#a6752be35103bb585984083a449c85714", null ],
-    [ "HandleEventInfoCommand", "db/d1c/a12461.html#a1f0815bccd6cef61826ada4e349708d9", null ],
-    [ "HandleEventStartCommand", "db/d1c/a12461.html#ad46dbd8892db3548d889d4127461c8e3", null ],
-    [ "HandleEventStopCommand", "db/d1c/a12461.html#a1322b3206a1846dc0404a3fb5c74e025", null ]
+    [ "autobroadcast_commandscript", "db/d1c/a12461.html#a00946e483860809c8b1d92e773c8eeef", null ],
+    [ "GetCommands", "db/d1c/a12461.html#a01d7689785a4267ac4bd57bfc0d269e9", null ],
+    [ "HandleAutobroadcastAddCommand", "db/d1c/a12461.html#a4217bea8d83682acbdd64a225c839227", null ],
+    [ "HandleAutobroadcastListCommand", "db/d1c/a12461.html#a0e4a07fd036d66fc5639a8e29fd45392", null ],
+    [ "HandleAutobroadcastLocaleCommand", "db/d1c/a12461.html#aaebf528b045b05b038d2a3f8801d3c85", null ],
+    [ "HandleAutobroadcastRemoveCommand", "db/d1c/a12461.html#af6445843506ac2b4c2b5c158480aab8c", null ]
 ];

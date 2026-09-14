@@ -1,7 +1,6 @@
 var a15541 =
 [
-    [ "go_sand_trap", "db/d29/a15541.html#a58d45acac672cb05988ddca78185b469", null ],
-    [ "Reset", "db/d29/a15541.html#a7071a3e420e9137ca133b471bc217bf3", null ],
-    [ "UpdateAI", "db/d29/a15541.html#a2e4a5fec4d4c790233ca97e6a7732ac4", null ],
-    [ "_scheduler", "db/d29/a15541.html#af845c0efb3d8ebe53d3620970a84f1e4", null ]
+    [ "instance_razorfen_kraul_InstanceMapScript", "d0/d05/a15545.html", "d0/d05/a15545" ],
+    [ "instance_razorfen_kraul", "db/d29/a15541.html#aedd65b901c8131a7ac21e8576734f76f", null ],
+    [ "GetInstanceScript", "db/d29/a15541.html#a78e77010ebb055b9530733ca25533110", null ]
 ];

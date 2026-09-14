@@ -1,7 +1,8 @@
 var a10949 =
 [
-    [ "AutoStoreBankItem", "d6/d4d/a10949.html#a1cdb7e9c7da7e646af14ac4ac3b7e950", null ],
-    [ "Read", "d6/d4d/a10949.html#a2a482b716f537866a815085ead9cfd38", null ],
-    [ "Bag", "d6/d4d/a10949.html#a08d2992816ee94b6757c2811b54ed437", null ],
-    [ "Slot", "d6/d4d/a10949.html#aaf2cd8c1c3d67301cc40af78f138daa0", null ]
+    [ "type", "d6/d4d/a10949.html#a93b2e49d8b93d48c1fcf9ce460f965d6", null ],
+    [ "EnabledHooks", "d6/d4d/a10949.html#ac0ca0ab60e350e783c1297a657e32cdc", null ],
+    [ "HasEnabledHooks", "d6/d4d/a10949.html#a8cad14090933423a3bd83b87af723810", null ],
+    [ "LegacyDbValidationCandidate", "d6/d4d/a10949.html#a1c71456b199770112365ee54f0bd28ad", null ],
+    [ "PromotedAfterDbLoad", "d6/d4d/a10949.html#a1800cba1759f5cdee36e47e3aa4ab2e8", null ]
 ];

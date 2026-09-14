@@ -1,13 +1,21 @@
 var a01427 =
 [
-    [ "SkillPerfectItemEntry", "d2/d61/a11825.html", "d2/d61/a11825" ],
-    [ "SkillExtraItemEntry", "d3/d1a/a11829.html", "d3/d1a/a11829" ],
-    [ "SkillExtraItemMap", "db/d78/a01427.html#a9ba2d7d2e815aee57a701990b858db7b", null ],
-    [ "SkillPerfectItemMap", "db/d78/a01427.html#ad732be66d93ed6e8f498077f27e2766b", null ],
-    [ "canCreateExtraItems", "db/d78/a01427.html#a49687e255d65fa15dac5e6a428c5739d", null ],
-    [ "CanCreatePerfectItem", "db/d78/a01427.html#a818c557864790091814604b6d2175e52", null ],
-    [ "LoadSkillExtraItemTable", "db/d78/a01427.html#a3244d04018405bafe21acc8bc96cc743", null ],
-    [ "LoadSkillPerfectItemTable", "db/d78/a01427.html#a121df170a82be5ab5b05999a6be27b69", null ],
-    [ "SkillExtraItemStore", "db/d78/a01427.html#acc52416c05fbae29bcbfa9f0683485cd", null ],
-    [ "SkillPerfectItemStore", "db/d78/a01427.html#ac676f0acbf782fa2d31bd66b8eaa8260", null ]
+    [ "CleaningFlags", "db/d78/a01427.html#ad8ba5c50a4cd2d5193e35ccc83798c67", [
+      [ "CLEANING_FLAG_ACHIEVEMENT_PROGRESS", "db/d78/a01427.html#ad8ba5c50a4cd2d5193e35ccc83798c67afdcd00f9b75d683b143cbbe0ac22d748", null ],
+      [ "CLEANING_FLAG_SKILLS", "db/d78/a01427.html#ad8ba5c50a4cd2d5193e35ccc83798c67ac23b2648d4cf0fe8d9ff4cd96722a714", null ],
+      [ "CLEANING_FLAG_SPELLS", "db/d78/a01427.html#ad8ba5c50a4cd2d5193e35ccc83798c67a39fa10b14e68e92b74ab6697d0e1d564", null ],
+      [ "CLEANING_FLAG_TALENTS", "db/d78/a01427.html#ad8ba5c50a4cd2d5193e35ccc83798c67a06a3fa1596c0c32ec619b9b9cb1d1550", null ],
+      [ "CLEANING_FLAG_QUESTSTATUS", "db/d78/a01427.html#ad8ba5c50a4cd2d5193e35ccc83798c67ae0367424104049d29ca9dcf3d5b7273c", null ]
+    ] ],
+    [ "AchievementProgressCheck", "db/d78/a01427.html#afe5cf638b3ba626c9dc18258d4c528fa", null ],
+    [ "CheckUnique", "db/d78/a01427.html#a4bdf9f5cb65f0bc9c5227d484cd5446f", null ],
+    [ "CleanCharacterAchievementProgress", "db/d78/a01427.html#ae5939466cf9b4fbb63eb136baf62767f", null ],
+    [ "CleanCharacterQuestStatus", "db/d78/a01427.html#a9f512823f852120bf4c3ec78eb4bbeaa", null ],
+    [ "CleanCharacterSkills", "db/d78/a01427.html#ae8c5d4dc123b8a900254bcbc82c1ffbe", null ],
+    [ "CleanCharacterSpell", "db/d78/a01427.html#aca5826d283031348e5d6ae6eb75ad605", null ],
+    [ "CleanCharacterTalent", "db/d78/a01427.html#a344f61fb209b507b775a0bbfb1315fac", null ],
+    [ "CleanDatabase", "db/d78/a01427.html#a357c8a07f912c6efb55a13cc9bc089b9", null ],
+    [ "SkillCheck", "db/d78/a01427.html#a0f72cf24646d1ece0eb793890840992d", null ],
+    [ "SpellCheck", "db/d78/a01427.html#a02688f57778d28a7bcc4ca6cee2074ad", null ],
+    [ "TalentCheck", "db/d78/a01427.html#aac707369555aa95807c11b1578ae80d2", null ]
 ];

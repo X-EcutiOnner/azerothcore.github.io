@@ -1,8 +1,18 @@
 var a22749 =
 [
-    [ "FilterTargets", "d9/dd0/a22749.html#a9e0a72530a8dc764269e8df6d9d1ed3d", null ],
-    [ "HandleDummyHitTarget", "d9/dd0/a22749.html#ae892090a9bd48aa447224c9f96801d37", null ],
-    [ "PrepareSpellScript", "d9/dd0/a22749.html#af08ab4fcc3705b07e89ed222794e70e9", null ],
-    [ "Register", "d9/dd0/a22749.html#aeb1aad59b6b4767a63660c5fe0277392", null ],
-    [ "Validate", "d9/dd0/a22749.html#a5a87a7c18a55caf5288b8ca8bbd2f361", null ]
+    [ "OutdoorPvPZM", "d9/dd0/a22749.html#a8351867658985b66dd97f39e68c16b94", null ],
+    [ "FillInitialWorldStates", "d9/dd0/a22749.html#a86a36c0f47027c8d5ac64090e308d98a", null ],
+    [ "GetAllianceTowersControlled", "d9/dd0/a22749.html#a58320dcfca7519ab2a7160bb1f875a9b", null ],
+    [ "GetHordeTowersControlled", "d9/dd0/a22749.html#a98bfdd944bc51f9ed30b74e1cf3217b5", null ],
+    [ "HandleKillImpl", "d9/dd0/a22749.html#a6cd61b99305a2838261e36652fda42b1", null ],
+    [ "HandlePlayerEnterZone", "d9/dd0/a22749.html#a8c0eb1c295f389273cf2b2c7b35c9538", null ],
+    [ "HandlePlayerLeaveZone", "d9/dd0/a22749.html#a93105e3229db7798ad882fc7e538b250", null ],
+    [ "SendRemoveWorldStates", "d9/dd0/a22749.html#aba24e6285ac45dd0594f557d5830ba7c", null ],
+    [ "SetAllianceTowersControlled", "d9/dd0/a22749.html#ab7e230cfa2f06fa450ca40c381491c85", null ],
+    [ "SetHordeTowersControlled", "d9/dd0/a22749.html#a27239875476bbce8ff18b30cdfe6815b", null ],
+    [ "SetupOutdoorPvP", "d9/dd0/a22749.html#a7e71d2c2480da1a2d155981999201b99", null ],
+    [ "Update", "d9/dd0/a22749.html#acd93bd13cf330ec86dde30ff9c6306de", null ],
+    [ "m_AllianceTowersControlled", "d9/dd0/a22749.html#aff4124f54572e0812c39562fbc6390c3", null ],
+    [ "m_Graveyard", "d9/dd0/a22749.html#a9842f1c5de04af4db3e0397839de7765", null ],
+    [ "m_HordeTowersControlled", "d9/dd0/a22749.html#ad5609bc0c13d193d16560045aa4b0c71", null ]
 ];

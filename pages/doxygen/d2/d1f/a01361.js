@@ -1,6 +1,5 @@
 var a01361 =
 [
-    [ "ChatHandler", "df/d74/a07923.html", "df/d74/a07923" ],
-    [ "CliHandler", "d4/d6a/a07927.html", "d4/d6a/a07927" ],
-    [ "AddonChannelCommandHandler", "d0/d63/a07931.html", "d0/d63/a07931" ]
+    [ "holetab_h", "d2/d1f/a01361.html#a10e90ca95e60d3244de3e68d7882433b", null ],
+    [ "holetab_v", "d2/d1f/a01361.html#a54b408dce116992610ba9c141426d821", null ]
 ];

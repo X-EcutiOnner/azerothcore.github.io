@@ -1,8 +1,7 @@
 var a16969 =
 [
-    [ "npc_toc_boomkinAI", "de/d10/a16969.html#a12c586d57aa6dd3893889f103dbfee20", null ],
-    [ "JustSummoned", "de/d10/a16969.html#a0d049885773b7f1abd7e03f9200852f4", null ],
-    [ "myCanCast", "de/d10/a16969.html#a691a0250db77cc4def2bf67b25a1298c", null ],
-    [ "UpdateAI", "de/d10/a16969.html#a64b0451537c0d27bc01d1c1ec3b5b88d", null ],
-    [ "events", "de/d10/a16969.html#a0b367855092884b2ce30834e89fced87", null ]
+    [ "npc_toc_shamanAI", "de/d10/a16969.html#abd0b0e503c1bbc48aebb5923ec3f4291", null ],
+    [ "myCanCast", "de/d10/a16969.html#a993739662d2687c27219853669b8a485", null ],
+    [ "UpdateAI", "de/d10/a16969.html#a2ad17245685feb3f085ef9a669459c61", null ],
+    [ "events", "de/d10/a16969.html#ab573ab0ee616348ccdb28b71255ac35d", null ]
 ];

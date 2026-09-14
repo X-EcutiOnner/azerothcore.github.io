@@ -1,6 +1,9 @@
 var a10973 =
 [
-    [ "ArenaTeam", "dc/d18/a10973.html#ab199427a8f1a5c4063aef2aeb390714f", null ],
-    [ "Read", "dc/d18/a10973.html#a9953d33b35eca1b91ed1618609c6acea", null ],
-    [ "ArenaTeamId", "dc/d18/a10973.html#aecda79f3715bd7ff5a6e872800ef256d", null ]
+    [ "fX", "dc/d18/a10973.html#a53aeb6e82eea1dc4a4e5d8e99dfd3fc5", null ],
+    [ "fY", "dc/d18/a10973.html#a9b158e247014eec0d35e465ab9469ac7", null ],
+    [ "fZ", "dc/d18/a10973.html#a2e02f9738393aeb8cd62ac26dda8fc10", null ],
+    [ "uiCreatureEntry", "dc/d18/a10973.html#ac31436c40bd0bf375635e2ea604fbf61", null ],
+    [ "uiPointId", "dc/d18/a10973.html#acb4d9697a24d5c29deacdefe8eb0e267", null ],
+    [ "uiWaitTime", "dc/d18/a10973.html#a305620aad71152c1139a88dea05a1887", null ]
 ];

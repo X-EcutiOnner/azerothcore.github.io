@@ -1,7 +1,5 @@
 var a08805 =
 [
-    [ "AddToGrid", "db/d94/a08805.html#a178e3cc30d983d739e1f3f98d9eefbf0", null ],
-    [ "IsInGrid", "db/d94/a08805.html#a996724d21d62e478f50031faa7637cd5", null ],
-    [ "RemoveFromGrid", "db/d94/a08805.html#a29740a98fea7db66cdffd824940a2ec2", null ],
-    [ "_gridRef", "db/d94/a08805.html#aa44ba47734267ac07b733f218623f3c5", null ]
+    [ "ItemStatType", "db/d94/a08805.html#a8643f062d325b5048c839525db56af3e", null ],
+    [ "ItemStatValue", "db/d94/a08805.html#a5a5ee42445d9121f186c084dfbc31425", null ]
 ];

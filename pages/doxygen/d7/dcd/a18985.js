@@ -1,8 +1,6 @@
 var a18985 =
 [
-    [ "Load", "d7/dcd/a18985.html#a3a5fa4814a7724db0ba7be5c5158798b", null ],
-    [ "PeriodicTick", "d7/dcd/a18985.html#a4ff0ab22db0bbd4483ddb379de069c48", null ],
-    [ "PrepareAuraScript", "d7/dcd/a18985.html#a029820fbfc34af4d0ccb825a9f9d2b0d", null ],
-    [ "Register", "d7/dcd/a18985.html#a909819dde9d5154f3d2cf04b04fa33f7", null ],
-    [ "_instance", "d7/dcd/a18985.html#aebebb858f2ae41f2260d6843b3da8052", null ]
+    [ "npc_valithria_portalAI", "db/dbf/a18989.html", "db/dbf/a18989" ],
+    [ "npc_valithria_portal", "d7/dcd/a18985.html#a6014d7a57dfe5d21f63c03b3efcbdfc8", null ],
+    [ "GetAI", "d7/dcd/a18985.html#a9770ad0bc3732f2271876bbc84885dc0", null ]
 ];

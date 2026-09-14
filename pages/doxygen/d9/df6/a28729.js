@@ -1,6 +1,6 @@
 var a28729 =
 [
-    [ "npc_necropolis_proxy", "d9/df6/a28729.html#a73f92ee73673172989d48064e5984db0", null ],
-    [ "SpellHit", "d9/df6/a28729.html#a90d1ab55683a6409403e24291643cca5", null ],
-    [ "SpellHitTarget", "d9/df6/a28729.html#a79ee941ff32f8bbb1b93242f46a91c1a", null ]
+    [ "npc_fireworkAI", "df/d04/a28733.html", "df/d04/a28733" ],
+    [ "npc_firework", "d9/df6/a28729.html#a9efb6ed098e4eb3e24c30393cb5cb45d", null ],
+    [ "GetAI", "d9/df6/a28729.html#a9732f7b6eb8b3638bb6280ff7a71bcf7", null ]
 ];

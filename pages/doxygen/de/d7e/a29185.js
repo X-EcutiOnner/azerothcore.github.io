@@ -1,8 +1,5 @@
 var a29185 =
 [
-    [ "DamagedDisplayId", "de/d7e/a29185.html#a84d606d69c51f5e1fdecf9bc0f5705be", null ],
-    [ "DestroyedDisplayId", "de/d7e/a29185.html#afc891df0c9491a34f784e8f141434be5", null ],
-    [ "Id", "de/d7e/a29185.html#a65d7e0933cb53864413781cdeb56b6c2", null ],
-    [ "RebuildingDisplayId", "de/d7e/a29185.html#aa4e1e6be7b5b1d15872fb310c1c299af", null ],
-    [ "SmokeDisplayId", "de/d7e/a29185.html#a1a06c3e04bc2bb7d5bc29592d40b9239", null ]
+    [ "ID", "de/d7e/a29185.html#a4f030d8b8b87aff67e0d8319c6b53310", null ],
+    [ "price", "de/d7e/a29185.html#a9b81ec4b4638763b738862d6c184e2a9", null ]
 ];

@@ -1,5 +1,5 @@
 var a02318 =
 [
-    [ "pool_commandscript", "d3/d63/a12569.html", "d3/d63/a12569" ],
-    [ "AddSC_pool_commandscript", "db/dda/a02318.html#a933dbb3e5588f0735759e9409b716e55", null ]
+    [ "spellinfo_commandscript", "dd/dc6/a12677.html", "dd/dc6/a12677" ],
+    [ "AddSC_spellinfo_commandscript", "db/dda/a02318.html#ab9e45d5e5eb40c48734ab273bdb3be64", null ]
 ];

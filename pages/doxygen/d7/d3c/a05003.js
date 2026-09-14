@@ -1,10 +1,7 @@
 var a05003 =
 [
-    [ "Acore::has_type< T, std::tuple< Us... > >", "d3/daf/a05965.html", null ],
-    [ "Acore::is_tuple< typename >", "d5/d57/a05969.html", null ],
-    [ "Acore::is_tuple< std::tuple< Ts... > >", "d2/d3c/a05973.html", null ],
-    [ "new_from_tuple", "d7/d3c/a05003.html#aac12e702d41e9aa126f7d39f0f295252", null ],
-    [ "new_from_tuple", "d7/d3c/a05003.html#a028fc93107022ad23a763503c9b0bbdb", null ],
-    [ "has_type_v", "d7/d3c/a05003.html#aa4e7bc2a96e641dd1642a3c61cfc96b0", null ],
-    [ "is_tuple_v", "d7/d3c/a05003.html#a4104f84ad757b701a6ffbd51f5d10b9f", null ]
+    [ "Acore::AsyncProcessResult", "d8/d07/a05921.html", "d8/d07/a05921" ],
+    [ "SearchExecutableInPath", "d7/d3c/a05003.html#a9de098dac5e38f8c2cdbeb1d4d706881", null ],
+    [ "StartAsyncProcess", "d7/d3c/a05003.html#a021f51138f5726e712f00bdddf9be729", null ],
+    [ "StartProcess", "d7/d3c/a05003.html#acfaf2f89a55d299aa04c494719dfedc8", null ]
 ];

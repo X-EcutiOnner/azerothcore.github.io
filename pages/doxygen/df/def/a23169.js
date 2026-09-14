@@ -1,6 +1,7 @@
 var a23169 =
 [
-    [ "HandleProc", "df/def/a23169.html#a93dfb9e0dac89cb66f340c41dbc526bb", null ],
-    [ "PrepareAuraScript", "df/def/a23169.html#a94b244ef26355d53c874aec6d26f3a53", null ],
-    [ "Register", "df/def/a23169.html#a9499d88802213ceb877e19d1651324f2", null ]
+    [ "HandleEffectApply", "df/def/a23169.html#aff0dbed165d0e751db725f7eaaf76a11", null ],
+    [ "Load", "df/def/a23169.html#a1dfb5b2004041e7165cc9f5deb4b1e82", null ],
+    [ "PrepareAuraScript", "df/def/a23169.html#a3dbd01e52ed2a630f0c014f941fc1b5e", null ],
+    [ "Register", "df/def/a23169.html#a647f21e79e3fef72cf84439fc84e708f", null ]
 ];

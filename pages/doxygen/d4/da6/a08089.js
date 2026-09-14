@@ -1,4 +1,4 @@
 var a08089 =
 [
-    [ "ChatCommandResult", "d4/da6/a08089.html#a6150ebd46977676b2ddeebfb818e86a9", null ]
+    [ "TryConsume", "d4/da6/a08089.html#a6fe249c25aabf5f7eb70612982ac2b82", null ]
 ];

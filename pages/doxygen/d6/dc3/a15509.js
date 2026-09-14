@@ -1,7 +1,6 @@
 var a15509 =
 [
-    [ "HandleScript", "d6/dc3/a15509.html#ad1654a408e94012a0ac2ade09d61a63e", null ],
-    [ "PrepareSpellScript", "d6/dc3/a15509.html#a53e1a8632ca51beefe4fc97a3e471ad7", null ],
-    [ "Register", "d6/dc3/a15509.html#aff966352a2babe6e6daed91f02e1190a", null ],
-    [ "Validate", "d6/dc3/a15509.html#a6ffcf81642f31ee93f3ec213cdc8f92e", null ]
+    [ "instance_ragefire_chasm_InstanceMapScript", "d5/df0/a15513.html", "d5/df0/a15513" ],
+    [ "instance_ragefire_chasm", "d6/dc3/a15509.html#ab7f27d3e73b24d16dcf9b114f7dd4b36", null ],
+    [ "GetInstanceScript", "d6/dc3/a15509.html#a0568996a61ef91688b9f223cb3782e5a", null ]
 ];

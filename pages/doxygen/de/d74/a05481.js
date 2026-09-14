@@ -1,9 +1,7 @@
 var a05481 =
 [
-    [ "criticalOptionSeverity", "de/d74/a05481.html#adfaae562c345965b96fa5f7c92da161e", null ],
-    [ "defaultSeverity", "de/d74/a05481.html#a4d490930b6bbaa9c50570ff9808b1af9", null ],
-    [ "missingFileSeverity", "de/d74/a05481.html#a8cd5da53d2cd0b5d0533741a2dcf651c", null ],
-    [ "missingOptionSeverity", "de/d74/a05481.html#a3c64d5a1ac04533f27af53de8d688ec5", null ],
-    [ "unknownOptionSeverity", "de/d74/a05481.html#ad41070de3cb2c7fa2916654b9e2a693e", null ],
-    [ "valueErrorSeverity", "de/d74/a05481.html#a2c1a05a826289e1cc3f01a988718dda2", null ]
+    [ "operator()", "de/d74/a05481.html#ac07872b93851fa7a4e3ec643652b44cf", null ],
+    [ "closestEntity", "de/d74/a05481.html#ab377424b7edd0274f61967619700f841", null ],
+    [ "hitLocation", "de/d74/a05481.html#a00e778dd78dca96391d200e18dfc2c9d", null ],
+    [ "hitNormal", "de/d74/a05481.html#a57f40f48c26829f7da9e48efd839d773", null ]
 ];

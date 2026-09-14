@@ -1,8 +1,5 @@
 var a28465 =
 [
-    [ "trigger_periodicAI", "d3/d04/a28465.html#a696d62fed28de9c67827dad111cf320b", null ],
-    [ "UpdateAI", "d3/d04/a28465.html#aed31d60765eff7dd11790714e28e729e", null ],
-    [ "interval", "d3/d04/a28465.html#a6e9dd149ce11dcc1c2adf039c73e8023", null ],
-    [ "spell", "d3/d04/a28465.html#a618b707155edf6d9179bbedc0f0ecf1e", null ],
-    [ "timer", "d3/d04/a28465.html#ac434f6a60065ae3b1adcb11d58af4299", null ]
+    [ "go_massive_seaforium_charge", "d3/d04/a28465.html#adae43b764f237932923cd18207e4d23c", null ],
+    [ "OnGossipHello", "d3/d04/a28465.html#a187e28c773ad904f245d11d3f5b9d7e3", null ]
 ];

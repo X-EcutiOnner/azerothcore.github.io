@@ -1,18 +1,8 @@
 var a12505 =
 [
-    [ "learn_commandscript", "d2/d1c/a12505.html#a7ef51367ab7ab1c360390ff5552c0f51", null ],
-    [ "GetCommands", "d2/d1c/a12505.html#a8c8f73f3c1d5dbddd5a3d2e89ea326d8", null ],
-    [ "HandleLearnAllCraftsCommand", "d2/d1c/a12505.html#ae25064fa03d022277a368f52a17e5b70", null ],
-    [ "HandleLearnAllDefaultCommand", "d2/d1c/a12505.html#a985d2a10f01808c4bff2922b1530e911", null ],
-    [ "HandleLearnAllGMCommand", "d2/d1c/a12505.html#a88e28ec43968c5a8b0bfd1f190d89a98", null ],
-    [ "HandleLearnAllLangCommand", "d2/d1c/a12505.html#aaf4d779b47511db72727fe44fb1bbd2d", null ],
-    [ "HandleLearnAllMyClassCommand", "d2/d1c/a12505.html#a956716b7743dfc6de922b0badf40aeda", null ],
-    [ "HandleLearnAllMyPetTalentsCommand", "d2/d1c/a12505.html#a2a7cc02eb4417907b50d49bab39110cf", null ],
-    [ "HandleLearnAllMyQuestSpells", "d2/d1c/a12505.html#af7393dfd87f9742cfc7220896c4eeb1b", null ],
-    [ "HandleLearnAllMyTalentsCommand", "d2/d1c/a12505.html#aaa19e92798ac56355a95e625ead56556", null ],
-    [ "HandleLearnAllMyTrainerSpellsCommand", "d2/d1c/a12505.html#a1e08e9289a6dccde021f3712db106c64", null ],
-    [ "HandleLearnAllRecipesCommand", "d2/d1c/a12505.html#a44b538a1031ad69bec762f1a791cf11f", null ],
-    [ "HandleLearnCommand", "d2/d1c/a12505.html#ab59da6873596596ee84509cb0060e760", null ],
-    [ "HandleLearnSkillRecipesHelper", "d2/d1c/a12505.html#ae8bd0389415fdeb70d369b694b953619", null ],
-    [ "HandleUnLearnCommand", "d2/d1c/a12505.html#a2dc980af9662b3b1c783e3603732ca01", null ]
+    [ "CreatureCountWorker", "d2/d1c/a12505.html#ad01e947d97d03a10ea3a891d24cb05b7", null ],
+    [ "GetTopCreatureCount", "d2/d1c/a12505.html#a5d4d009b6685dd71703f96f9945a463e", null ],
+    [ "Visit", "d2/d1c/a12505.html#a786d95d42f7711235e60a4f54cc3b4be", null ],
+    [ "Visit", "d2/d1c/a12505.html#afa72c0c1f905f4277d650ad0cfef281d", null ],
+    [ "creatureIds", "d2/d1c/a12505.html#a3a6f946c40b1006164793dbaed2b3948", null ]
 ];

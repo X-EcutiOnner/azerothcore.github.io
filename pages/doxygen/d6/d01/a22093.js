@@ -1,7 +1,7 @@
 var a22093 =
 [
-    [ "HandleScript", "d6/d01/a22093.html#a359814a44d4fe58c9f6e7a31c75d7c49", null ],
-    [ "PrepareSpellScript", "d6/d01/a22093.html#a4c6c0903180f3f18d6d9e715efc9f391", null ],
-    [ "Register", "d6/d01/a22093.html#a713b82bc3d82a8324ce4dd090059f463", null ],
-    [ "Validate", "d6/d01/a22093.html#ac8e362d9f76350da106e128138737c5c", null ]
+    [ "HandleScript", "d6/d01/a22093.html#a95de3ae27cfd764380ab1648b49af38d", null ],
+    [ "Load", "d6/d01/a22093.html#a1aafe141985bc1e9c5b9467d4896d96b", null ],
+    [ "PrepareSpellScript", "d6/d01/a22093.html#a442138710213b9b120d8ce57b733205a", null ],
+    [ "Register", "d6/d01/a22093.html#af9d8f764a6a02737f8b559f067156df6", null ]
 ];

@@ -1,9 +1,13 @@
 var a09673 =
 [
-    [ "UnitListSearcher", "d4/d96/a09673.html#a24c0de32dc3baa927962626421a343ae", null ],
-    [ "Visit", "d4/d96/a09673.html#a83d86364ef2f9f9ed55b9bf9aa9bea0d", null ],
-    [ "Visit", "d4/d96/a09673.html#a92f9b0407e609b6c61f10d93aa49912f", null ],
-    [ "Visit", "d4/d96/a09673.html#a5fddd281a9f9cd10cf3948d4bf7b626f", null ],
-    [ "i_check", "d4/d96/a09673.html#a508a47e6261e7ae6e5669aee853ff99e", null ],
-    [ "i_phaseMask", "d4/d96/a09673.html#a43c863350bea423cf4a720c4c680fd4c", null ]
+    [ "MessageDistDelivererToHostile", "d4/d96/a09673.html#a4e1642660288eeb46867d4e19944cc78", null ],
+    [ "SendPacket", "d4/d96/a09673.html#aced79e7b19918408fa4d81667fbeb7f0", null ],
+    [ "Visit", "d4/d96/a09673.html#af9c5269b0266e9e28a70118e62d25e58", null ],
+    [ "Visit", "d4/d96/a09673.html#a224eeb339614d7a9f5e43d498b245958", null ],
+    [ "Visit", "d4/d96/a09673.html#a304c0be3c55bd2817abeaa1d53563a27", null ],
+    [ "Visit", "d4/d96/a09673.html#ae2a44055a4363eeff81a799b8a93d74d", null ],
+    [ "i_distSq", "d4/d96/a09673.html#a0fc7e00f191801869c3fd8eeae032af8", null ],
+    [ "i_message", "d4/d96/a09673.html#ae10ac98c489ec48ed49daf835e7a361d", null ],
+    [ "i_phaseMask", "d4/d96/a09673.html#a0a932cd193e847ee0cfddae0946e39d1", null ],
+    [ "i_source", "d4/d96/a09673.html#a174aade6dc85233e8481a452f800ec0e", null ]
 ];

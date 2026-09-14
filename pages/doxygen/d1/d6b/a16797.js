@@ -1,6 +1,6 @@
 var a16797 =
 [
-    [ "HandleSpellHit", "d1/d6b/a16797.html#a11b9bb078e5c38b8db8b3e3fcd5114d8", null ],
-    [ "PrepareSpellScript", "d1/d6b/a16797.html#a75a2441ca6b4fb7928c4d14f44c08ba3", null ],
-    [ "Register", "d1/d6b/a16797.html#a9322b834fadc89b4fbc19dbbc762f205", null ]
+    [ "npc_memoryAI", "d9/d83/a16801.html", "d9/d83/a16801" ],
+    [ "npc_memory", "d1/d6b/a16797.html#acebf31813025d323f9486d6575a60483", null ],
+    [ "GetAI", "d1/d6b/a16797.html#ad8e532d029217a06d11ae39810498976", null ]
 ];

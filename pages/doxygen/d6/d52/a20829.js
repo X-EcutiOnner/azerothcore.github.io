@@ -1,12 +1,9 @@
 var a20829 =
 [
-    [ "boss_thorim_sif", "d6/d52/a20829.html#a9762a5d386897bcd6d42b3c36d9fc18f", null ],
-    [ "AttackStart", "d6/d52/a20829.html#a3da2809c4e7aa0c051647be354ade759", null ],
-    [ "DoAction", "d6/d52/a20829.html#a61fec6c7b91d5f34339ebabd18b94e5d", null ],
-    [ "IsSummonedBy", "d6/d52/a20829.html#a126b546655d4438bf25d0870f5c550b8", null ],
-    [ "MoveInLineOfSight", "d6/d52/a20829.html#a5c1dfc697a84d4eb3ea6074514034343", null ],
-    [ "Reset", "d6/d52/a20829.html#a3f747b6da8db72fd61c50a24096834c2", null ],
-    [ "UpdateAI", "d6/d52/a20829.html#adbe7effa0bab5046f26f8d7df0f82a04", null ],
-    [ "_allowCast", "d6/d52/a20829.html#a6081345415b9ae3892d4f150a195908c", null ],
-    [ "events", "d6/d52/a20829.html#a5d64d273a6aefdd9359b71963271b4ee", null ]
+    [ "npc_razorscale_harpoon_fire_state", "d6/d52/a20829.html#a5bcb95382dc80bae1f4f05c306fb52bf", null ],
+    [ "DoAction", "d6/d52/a20829.html#aa7a12bae703c1a7d215dc0181f9ad532", null ],
+    [ "GetData", "d6/d52/a20829.html#ae552669fbd1a66a457cc30a2ed13c8fd", null ],
+    [ "Reset", "d6/d52/a20829.html#aad5f2d32fffaacec3485b0743f4267aa", null ],
+    [ "SpellHit", "d6/d52/a20829.html#a660573750d12c82394a9f911a3973e02", null ],
+    [ "_repairProgress", "d6/d52/a20829.html#af1c14d6762f9fc9f3a78f040a544bde4", null ]
 ];

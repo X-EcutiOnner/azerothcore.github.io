@@ -1,6 +1,9 @@
 var a18013 =
 [
-    [ "npc_igb_ship_crewAI", "d1/df2/a18017.html", "d1/df2/a18017" ],
-    [ "npc_igb_ship_crew", "d0/de3/a18013.html#a5f4380aba94766a6a75b97026998b881", null ],
-    [ "GetAI", "d0/de3/a18013.html#a48955817e21a01a726b50685b467c229", null ]
+    [ "npc_stinky_iccAI", "d0/de3/a18013.html#a545356eb2b77cfae7af3d470e95ea2d6", null ],
+    [ "JustDied", "d0/de3/a18013.html#a7fa392980e2d30c935b79377df8dc694", null ],
+    [ "JustEngagedWith", "d0/de3/a18013.html#afd1cd4fc387ff7cdad58c9db60841c7a", null ],
+    [ "Reset", "d0/de3/a18013.html#ac66e3398598576fdc889a7b56646eecf", null ],
+    [ "UpdateAI", "d0/de3/a18013.html#af6e04824ea1682c529e8579a306d34ca", null ],
+    [ "events", "d0/de3/a18013.html#a3ab7ae11b7f5ef5877febbd384014ce2", null ]
 ];

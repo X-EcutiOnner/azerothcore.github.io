@@ -1,6 +1,7 @@
 var a19505 =
 [
-    [ "npc_boss_gothik_minionAI", "db/d16/a19509.html", "db/d16/a19509" ],
-    [ "npc_boss_gothik_minion", "d7/d24/a19505.html#a6cabeae812639ac179133245d85a0e15", null ],
-    [ "GetAI", "d7/d24/a19505.html#a8abb1ec265f9eeb646a858bee06cfb92", null ]
+    [ "HandleTriggerSpell", "d7/d24/a19505.html#a0e75076c2aed1544c544b976ee9cfbcd", null ],
+    [ "PrepareAuraScript", "d7/d24/a19505.html#a6ce4c5c2b6797b38225ac3348aad5892", null ],
+    [ "Register", "d7/d24/a19505.html#af87272995f6eeb3bc53cf472f5c3e9d3", null ],
+    [ "Validate", "d7/d24/a19505.html#a813bad39641956fff697580f271416d2", null ]
 ];

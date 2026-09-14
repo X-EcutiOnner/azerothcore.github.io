@@ -1,4 +1,5 @@
 var a22629 =
 [
-    [ "idPatrol", "d7/dc8/a22629.html#a1fbc40a9798b89ae8b903b1f5a6a8e67", null ]
+    [ "go_scourge_enclosure", "d7/dc8/a22629.html#a3611232cb735f336087d4d3c90f66b8d", null ],
+    [ "OnGossipHello", "d7/dc8/a22629.html#af505dd0a5d9224cd7586878d1fbd3351", null ]
 ];

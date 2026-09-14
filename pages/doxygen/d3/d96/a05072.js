@@ -1,7 +1,4 @@
 var a05072 =
 [
-    [ "Crash", "d3/d96/a05072.html#a510bae7d9948cf497418ec913452009f", null ],
-    [ "GetDebugInfo", "d3/d96/a05072.html#a29601d3ea684d75bac9c331eb4866951", null ],
-    [ "MakeAbortMessage", "d3/d96/a05072.html#a52b8a43ee2424672ac8de45dcc283eda", null ],
-    [ "MakeMessage", "d3/d96/a05072.html#a31219fe016a9b170fc6ae111157ba552", null ]
+    [ "SetProcessPriority", "d3/d96/a05072.html#ab39209127ac54019d5252a95bc5c7aaf", null ]
 ];

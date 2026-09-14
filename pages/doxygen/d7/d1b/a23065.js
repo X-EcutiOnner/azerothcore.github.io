@@ -1,6 +1,11 @@
 var a23065 =
 [
-    [ "PrepareSpellScript", "d7/d1b/a23065.html#ad786920d6180b8e2829f3a56ec50c488", null ],
-    [ "Register", "d7/d1b/a23065.html#a857be9f0017e0013f3e30e1d026eaf5a", null ],
-    [ "SetDest", "d7/d1b/a23065.html#a0ea9f9513ad607f639b28d5f8162e629", null ]
+    [ "boss_essence_of_sufferingAI", "d7/d1b/a23065.html#a98de7f0b7d12d0981854129cbeab0d0d", null ],
+    [ "DamageTaken", "d7/d1b/a23065.html#a347ef26e4ecdc83ca80c9fd9a93bd97d", null ],
+    [ "DoAction", "d7/d1b/a23065.html#a08724d74523866969b12d13846eb4c1e", null ],
+    [ "JustEngagedWith", "d7/d1b/a23065.html#aa2fce36768ad6e23a955cd215ca759db", null ],
+    [ "KilledUnit", "d7/d1b/a23065.html#a3699b19f23cf15115ff8c92691a6d334", null ],
+    [ "MovementInform", "d7/d1b/a23065.html#a4ff66e57277bc3bc6e8d2fb8bc585cd7", null ],
+    [ "Reset", "d7/d1b/a23065.html#affa55b69784d8f881598189c361c986e", null ],
+    [ "UpdateAI", "d7/d1b/a23065.html#abb60432720b3720832ccc83d454a3808", null ]
 ];

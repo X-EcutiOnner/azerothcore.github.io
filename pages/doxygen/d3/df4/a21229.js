@@ -1,8 +1,6 @@
 var a21229 =
 [
-    [ "boss_keleseth", "d3/df4/a21229.html#ad2f0f020b0c92852dedadea5730e4e80", null ],
-    [ "AttackStart", "d3/df4/a21229.html#a731ebf8e9ff4f64582a8f9373ce08a39", null ],
-    [ "JustDied", "d3/df4/a21229.html#ad23ede5c869ab12dc1c2f6a783e9b539", null ],
-    [ "JustEngagedWith", "d3/df4/a21229.html#a8d5cba1dd481bdfaf93f6e2427880b2e", null ],
-    [ "KilledUnit", "d3/df4/a21229.html#a64d14f1b8f169128bbbc507730f4f1eb", null ]
+    [ "entry", "d3/df4/a21229.html#aa9907022aea07d150223562376672353", null ],
+    [ "guid", "d3/df4/a21229.html#af6bd3717f5e809607edd72ed4c9200ef", null ],
+    [ "index", "d3/df4/a21229.html#a004f733fe69f93716e2280977be5dfb8", null ]
 ];

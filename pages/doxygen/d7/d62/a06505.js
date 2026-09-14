@@ -1,14 +1,12 @@
 var a06505 =
 [
-    [ "PossessedAI", "d7/d62/a06505.html#a29bfe06f4f6f0398e3a0a385b179cdbe", null ],
-    [ "AttackStart", "d7/d62/a06505.html#a293a49d5cffd58dff103b0aacc558cde", null ],
-    [ "EnterEvadeMode", "d7/d62/a06505.html#ad99b9c297289b819157be56d8049320e", null ],
-    [ "JustDied", "d7/d62/a06505.html#aae94a4a6d6e67d05d18573845ecebfd7", null ],
-    [ "JustEnteredCombat", "d7/d62/a06505.html#a0e6c1036adcc5c27ddc8b3d1ab066659", null ],
-    [ "JustExitedCombat", "d7/d62/a06505.html#a3facfbb176dfcf2b4cba9d373f707eaa", null ],
-    [ "JustStartedThreateningMe", "d7/d62/a06505.html#a48c81735e921d8f0206e1f2b9ddb346e", null ],
-    [ "KilledUnit", "d7/d62/a06505.html#a8e6d316c08dd6fba53c8ed2edab9ea34", null ],
-    [ "MoveInLineOfSight", "d7/d62/a06505.html#a7d81135d9c23cb9b9ec48b441dd050e2", null ],
-    [ "Permissible", "d7/d62/a06505.html#aafc2d20dff60c6e5401eaa579844430d", null ],
-    [ "UpdateAI", "d7/d62/a06505.html#a3ce62a71e3f963f0b660bc987bf85051", null ]
+    [ "CombatAI", "d7/d62/a06505.html#a32e63efb85155ac3deeb818a9a1ba18a", null ],
+    [ "InitializeAI", "d7/d62/a06505.html#a70caf22165251220365d03873b3d3f17", null ],
+    [ "JustDied", "d7/d62/a06505.html#a9176b9b9c7a5e13fb05dae636c7ef2d4", null ],
+    [ "JustEngagedWith", "d7/d62/a06505.html#ab157082819d821cf0b0093f084111e16", null ],
+    [ "Permissible", "d7/d62/a06505.html#aaf52e2cbeb1ea9a816b5e8d914c03edb", null ],
+    [ "Reset", "d7/d62/a06505.html#a7a39daea9b9bd09572472ae0d8689edd", null ],
+    [ "UpdateAI", "d7/d62/a06505.html#af12583d15ccd183f6236c1889d539b9b", null ],
+    [ "events", "d7/d62/a06505.html#af59650830fa1abdf8eec179a12e328e7", null ],
+    [ "spells", "d7/d62/a06505.html#ae0ecfc744e4200bbf7ea36cdd84b13c0", null ]
 ];

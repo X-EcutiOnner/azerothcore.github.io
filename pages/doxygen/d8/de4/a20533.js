@@ -1,6 +1,5 @@
 var a20533 =
 [
-    [ "HandleAfterEffectApply", "d8/de4/a20533.html#af655bb31dc24a3cede08ca371f784913", null ],
-    [ "PrepareAuraScript", "d8/de4/a20533.html#a1824853d0b369deac0745fabe2df657c", null ],
-    [ "Register", "d8/de4/a20533.html#a33e7c6cab2c99789661e6bb2d6b9a593", null ]
+    [ "npc_ulduar_toasty_fire", "d8/de4/a20533.html#ad63c424b2ee9ff8013bc776acb7dbba7", null ],
+    [ "DoAction", "d8/de4/a20533.html#a514ed4231da0ad9e7d1ee2ea03106cb5", null ]
 ];

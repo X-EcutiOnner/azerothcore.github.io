@@ -1,5 +1,6 @@
 var a17305 =
 [
-    [ "npc_fos_leader_secondAI", "da/d13/a17305.html#a25df0b8760e9eb7d330779e10e3ac548", null ],
-    [ "MovementInform", "da/d13/a17305.html#a9cc0b500f1289dc8b764b3755468e639", null ]
+    [ "instance_drak_tharon_keep", "da/d13/a17305.html#ac3aca003330592eae06a1d843c0ae9ce", null ],
+    [ "OnGameObjectCreate", "da/d13/a17305.html#acf6da22dd55ac945360a6c40d2b55ccf", null ],
+    [ "OnGameObjectRemove", "da/d13/a17305.html#a0acbb86696d31eb2ef4bdd868ca03351", null ]
 ];

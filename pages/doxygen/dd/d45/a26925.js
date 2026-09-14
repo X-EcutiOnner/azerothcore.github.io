@@ -1,6 +1,8 @@
 var a26925 =
 [
-    [ "FilterTargets", "dd/d45/a26925.html#a81212064e51b7dfd148a1b18b69aafe0", null ],
-    [ "PrepareSpellScript", "dd/d45/a26925.html#a10d26377442d7a5d0c2986a65fcb57d6", null ],
-    [ "Register", "dd/d45/a26925.html#a4db02c58be57a797c26b07656d1b5409", null ]
+    [ "CheckProc", "dd/d45/a26925.html#adf8318a646fab2d5794e6207e14a05d5", null ],
+    [ "HandleProc", "dd/d45/a26925.html#a09d717ce8371e15c38093cb120f7b39a", null ],
+    [ "PrepareAuraScript", "dd/d45/a26925.html#a6df6c44fbb742caf264e81d2bf73f662", null ],
+    [ "Register", "dd/d45/a26925.html#ac7fc2bff25209f4ebbc9305734a7878b", null ],
+    [ "Validate", "dd/d45/a26925.html#ab0b647863fec0fd7880cdcc506caa148", null ]
 ];

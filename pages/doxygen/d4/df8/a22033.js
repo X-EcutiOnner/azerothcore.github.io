@@ -1,7 +1,7 @@
 var a22033 =
 [
-    [ "HandleDummy", "d4/df8/a22033.html#abb5726c8afa66a946eefc8767094ea9b", null ],
-    [ "PrepareSpellScript", "d4/df8/a22033.html#ab5d9f8125c75bbd8fbb2717516d3eddd", null ],
-    [ "Register", "d4/df8/a22033.html#a38efc59fcbb40469521419723a1dceb3", null ],
-    [ "Validate", "d4/df8/a22033.html#a93cf1b5dbc23bb25c4fe8aa24da0fd2e", null ]
+    [ "HandlePeriodic", "d4/df8/a22033.html#a39e103c4bd60ce54eb7ecbdb37013e04", null ],
+    [ "PrepareAuraScript", "d4/df8/a22033.html#ac198489764c878822e38a1ea225ab287", null ],
+    [ "Register", "d4/df8/a22033.html#a66933e6f4b5689b0b05de63aa7402354", null ],
+    [ "Validate", "d4/df8/a22033.html#a0db3843573837c53aeeaca69a6019d06", null ]
 ];

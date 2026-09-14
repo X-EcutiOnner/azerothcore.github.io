@@ -1,5 +1,5 @@
 var a20509 =
 [
-    [ "FlashFreezeCheck", "d9/d02/a20509.html#a47d07a686a7c74dc8914a98762b16fe3", null ],
-    [ "operator()", "d9/d02/a20509.html#a87475dc9e2f1b0eb508e9f56aa5c1e2f", null ]
+    [ "achievement_smell_saronite", "d9/d02/a20509.html#a42dce2aefa2561952dcf5289126035a8", null ],
+    [ "OnCheck", "d9/d02/a20509.html#a5180e3e53fa0f4d32d2a305d315bc8b3", null ]
 ];

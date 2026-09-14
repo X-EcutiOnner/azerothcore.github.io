@@ -1,8 +1,7 @@
 var a29393 =
 [
-    [ "ClassMask", "df/d1b/a29393.html#a563ba1618ffefa5470696e37f65c70d4", null ],
-    [ "Flags", "df/d1b/a29393.html#af89c32a22f018557fe016e0784a82384", null ],
-    [ "RaceMask", "df/d1b/a29393.html#acff47bf5c075d669f95b0d229674f9bc", null ],
-    [ "SkillID", "df/d1b/a29393.html#ab9237a8776aa854e0f81cf228a247ef0", null ],
-    [ "SkillTierID", "df/d1b/a29393.html#ab6153043461b71336e12b00957499075", null ]
+    [ "Id", "df/d1b/a29393.html#a94843a6f0cb39332f39a9630945f1fc8", null ],
+    [ "SoundBank", "df/d1b/a29393.html#a1dd2e40caf515186c831dc8cc82c095b", null ],
+    [ "SpellId", "df/d1b/a29393.html#aa010947f5fbec6867b005b25728e720b", null ],
+    [ "Type", "df/d1b/a29393.html#a7f610dd6a9944b4634bb981c0cb8e230", null ]
 ];

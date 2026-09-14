@@ -1,6 +1,8 @@
 var a18801 =
 [
-    [ "npc_strangulate_vehicleAI", "d0/d83/a18805.html", "d0/d83/a18805" ],
-    [ "npc_strangulate_vehicle", "d1/d74/a18801.html#a04532bc5902af45b1e9c76cf1cec9add", null ],
-    [ "GetAI", "d1/d74/a18801.html#aa5813442234d7b18fc4e7ed44a0b30bc", null ]
+    [ "ChangeDamageAndGrow", "d1/d74/a18801.html#a017ade08eca93f326d2e5115c4d88c33", null ],
+    [ "CorrectRange", "d1/d74/a18801.html#a9022b9efab89bc562428520b3551ff37", null ],
+    [ "PrepareSpellScript", "d1/d74/a18801.html#a3e1d1764add95728428cbf25f9b66dc4", null ],
+    [ "Register", "d1/d74/a18801.html#a998b810cdbecbca2bf65f18cee14d286", null ],
+    [ "Validate", "d1/d74/a18801.html#afe0910e903f6f8f466b272ce9ddc7a6b", null ]
 ];

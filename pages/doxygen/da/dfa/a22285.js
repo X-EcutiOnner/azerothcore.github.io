@@ -1,10 +1,6 @@
 var a22285 =
 [
-    [ "npc_engineer_heliceAI", "da/dfa/a22285.html#ab9d82a7d2886a0cc4edbc2f4c4c81341", null ],
-    [ "JustDied", "da/dfa/a22285.html#aba224727b86a2bfc39a47b70b424ccef", null ],
-    [ "Reset", "da/dfa/a22285.html#ade3f7f526dd8973c155aafb939db3778", null ],
-    [ "UpdateAI", "da/dfa/a22285.html#a1c333511dd6e82cd22af111e12a701c4", null ],
-    [ "WaypointReached", "da/dfa/a22285.html#a065698e61f0b7769ad2f58614c02ad5b", null ],
-    [ "WaypointReached", "da/dfa/a22285.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "m_uiChatTimer", "da/dfa/a22285.html#aa305bc2b5711d0745650f80275204ea8", null ]
+    [ "npc_tournament_training_dummyAI", "de/dc1/a22289.html", "de/dc1/a22289" ],
+    [ "npc_tournament_training_dummy", "da/dfa/a22285.html#ab5308cfddfef00da9692dddd21ce4a14", null ],
+    [ "GetAI", "da/dfa/a22285.html#a31257c155c3a49c69771156800cf6340", null ]
 ];

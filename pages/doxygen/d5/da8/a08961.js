@@ -1,8 +1,19 @@
 var a08961 =
 [
-    [ "PlayerCreateInfoAction", "d5/da8/a08961.html#a50d56595c71374e132dfe9f988144e75", null ],
-    [ "PlayerCreateInfoAction", "d5/da8/a08961.html#a1e1d33b18074031e408da10f44a9a9c4", null ],
-    [ "action", "d5/da8/a08961.html#a957d05ae25fd1ca801e097f03f9cc43e", null ],
-    [ "button", "d5/da8/a08961.html#ac0c4658cfb1fc01cbb55116dd6dbe899", null ],
-    [ "type", "d5/da8/a08961.html#a41e4a38f2c12f9e68b835fe17e56bc7e", null ]
+    [ "PetInfo", "d5/da8/a08961.html#a1bee56222719503aef508dd3f2ddd2f1", null ],
+    [ "ActionBar", "d5/da8/a08961.html#affe10e9845d23f597df23ed271d91039", null ],
+    [ "CreatedBySpellId", "d5/da8/a08961.html#a40d2f28579271de9b1533b5d412fecbb", null ],
+    [ "CreatureId", "d5/da8/a08961.html#a879009caeaa61fdef801db178599197e", null ],
+    [ "DisplayId", "d5/da8/a08961.html#ab7128ea7655961abfb3f8f074006bc7c", null ],
+    [ "Experience", "d5/da8/a08961.html#aee5536e251e20d8f4ee293f7f5eab2d3", null ],
+    [ "Happiness", "d5/da8/a08961.html#a39ee3606989e65fc284a6701482c2aa9", null ],
+    [ "Health", "d5/da8/a08961.html#a5e0835afbf2f396e8030236484984628", null ],
+    [ "LastSaveTime", "d5/da8/a08961.html#afafdbe4176d1bf26ab5022ab2d219ed6", null ],
+    [ "Level", "d5/da8/a08961.html#aabcf03700a0207df9086a6f7a354a7b9", null ],
+    [ "Mana", "d5/da8/a08961.html#a25a72a18fd6e38dea4db6ff8d3942423", null ],
+    [ "Name", "d5/da8/a08961.html#adb037d9f6d2606baa469c5c63385476a", null ],
+    [ "PetNumber", "d5/da8/a08961.html#af57645f36ae45c0045abe991419b797d", null ],
+    [ "ReactState", "d5/da8/a08961.html#ad7cd098ff265de389412626fad6d6d6f", null ],
+    [ "Type", "d5/da8/a08961.html#ae8fa5344688bb4bf34b806f9b67ef32c", null ],
+    [ "WasRenamed", "d5/da8/a08961.html#a98827cf01b6f610692fe4295582ead34", null ]
 ];

@@ -1,36 +1,37 @@
 var a03617 =
 [
-    [ "npc_bunthen_plainswind", "d7/dfc/a16017.html", "d7/dfc/a16017" ],
-    [ "npc_silva_filnaveth", "d9/d64/a16021.html", "d9/d64/a16021" ],
-    [ "npc_clintar_spirit", "df/d86/a16025.html", "df/d86/a16025" ],
-    [ "npc_clintar_spirit::npc_clintar_spiritAI", "d2/d39/a16029.html", "d2/d39/a16029" ],
-    [ "npc_omen", "da/d67/a16033.html", "da/d67/a16033" ],
-    [ "npc_omen::npc_omenAI", "d2/d64/a16037.html", "d2/d64/a16037" ],
-    [ "npc_giant_spotlight", "d6/dc3/a16041.html", "d6/dc3/a16041" ],
-    [ "npc_giant_spotlight::npc_giant_spotlightAI", "d6/db0/a16045.html", "d6/db0/a16045" ],
-    [ "Bunthen", "d4/d35/a03617.html#adbbeebdb932cdc68f2ad2b58d4c922fb", [
-      [ "QUEST_SEA_LION_HORDE", "d4/d35/a03617.html#adbbeebdb932cdc68f2ad2b58d4c922fba19a2ff94115fefe241626f3331ce747f", null ],
-      [ "QUEST_SEA_LION_ALLY", "d4/d35/a03617.html#adbbeebdb932cdc68f2ad2b58d4c922fba9333cbca83acf867219e50edeeb6ad5a", null ],
-      [ "TAXI_PATH_ID_ALLY", "d4/d35/a03617.html#adbbeebdb932cdc68f2ad2b58d4c922fba5f9b640f23c79dda3001d48c5d714b08", null ],
-      [ "TAXI_PATH_ID_HORDE", "d4/d35/a03617.html#adbbeebdb932cdc68f2ad2b58d4c922fbaa6f489a16374ddf85329d3ee985c460b", null ]
+    [ "npc_ame", "d0/d91/a16281.html", "d0/d91/a16281" ],
+    [ "npc_ame::npc_ameAI", "d7/dd3/a16285.html", "d7/dd3/a16285" ],
+    [ "npc_ringo", "d6/d56/a16289.html", "d6/d56/a16289" ],
+    [ "npc_ringo::npc_ringoAI", "d9/dd4/a16293.html", "d9/dd4/a16293" ],
+    [ "AmeData", "d4/d35/a03617.html#abbb0f5e31bd003a50e94cc712dbab7c0", [
+      [ "SAY_READY", "d4/d35/a03617.html#abbb0f5e31bd003a50e94cc712dbab7c0a82af2bd2787802be3ff2ee4588ea9be4", null ],
+      [ "SAY_AGGRO1", "d4/d35/a03617.html#abbb0f5e31bd003a50e94cc712dbab7c0a17fd4d94120185f67ee94a41652285a5", null ],
+      [ "SAY_SEARCH", "d4/d35/a03617.html#abbb0f5e31bd003a50e94cc712dbab7c0a843a1ad765b601ed599c443b66ae5d77", null ],
+      [ "SAY_AGGRO2", "d4/d35/a03617.html#abbb0f5e31bd003a50e94cc712dbab7c0af73eb45ca3cf512147f1d25e1254c224", null ],
+      [ "SAY_AGGRO3", "d4/d35/a03617.html#abbb0f5e31bd003a50e94cc712dbab7c0aa623912b4ba266583234ba5df070e02e", null ],
+      [ "SAY_FINISH", "d4/d35/a03617.html#abbb0f5e31bd003a50e94cc712dbab7c0a0e5b4f2c41b1953cea52b7f41d134838", null ],
+      [ "SPELL_DEMORALIZINGSHOUT", "d4/d35/a03617.html#abbb0f5e31bd003a50e94cc712dbab7c0a8477c04b326171f69326346981b724e1", null ],
+      [ "QUEST_CHASING_AME", "d4/d35/a03617.html#abbb0f5e31bd003a50e94cc712dbab7c0aa73d2307a32eceb7d713d314b325b827", null ],
+      [ "ENTRY_TARLORD", "d4/d35/a03617.html#abbb0f5e31bd003a50e94cc712dbab7c0ab6db2c46b771ac7d038f25d35308beec", null ],
+      [ "ENTRY_TARLORD1", "d4/d35/a03617.html#abbb0f5e31bd003a50e94cc712dbab7c0ae1f81eb98b3fa0fc40666dedb0ece35f", null ],
+      [ "ENTRY_STOMPER", "d4/d35/a03617.html#abbb0f5e31bd003a50e94cc712dbab7c0af0775f5d04bd4e00f048e939fed6e64a", null ]
     ] ],
-    [ "ClintarSpirit", "d4/d35/a03617.html#af06e96ced22feb1885564950e05417a2", [
-      [ "ASPECT_RAVEN", "d4/d35/a03617.html#af06e96ced22feb1885564950e05417a2a5aa355f8770a619dd97c43a1ed6c8e7f", null ],
-      [ "CLINTAR_SPIRIT_SAY_START", "d4/d35/a03617.html#af06e96ced22feb1885564950e05417a2a4003cbd90da80c6fb02ae957c7e3e60e", null ]
+    [ "Ringo", "d4/d35/a03617.html#a1eb7864fe2b6e6ec59692fb2f7c02592", [
+      [ "SAY_RIN_START", "d4/d35/a03617.html#a1eb7864fe2b6e6ec59692fb2f7c02592abd4cb0c4d5414164403e75fca667915b", null ],
+      [ "SAY_FAINT", "d4/d35/a03617.html#a1eb7864fe2b6e6ec59692fb2f7c02592a39f7b5e8a7fc4ed40e62cedfa93923bd", null ],
+      [ "SAY_WAKE", "d4/d35/a03617.html#a1eb7864fe2b6e6ec59692fb2f7c02592aadb6c63e08a18de76bcc95ca2e830a6e", null ],
+      [ "SAY_RIN_END_1", "d4/d35/a03617.html#a1eb7864fe2b6e6ec59692fb2f7c02592ae8753384ff9e53b533a5a1cebd16ce64", null ],
+      [ "SAY_SPR_END_2", "d4/d35/a03617.html#a1eb7864fe2b6e6ec59692fb2f7c02592a1a913192c37c18a19114eebee21e1a85", null ],
+      [ "SAY_RIN_END_3", "d4/d35/a03617.html#a1eb7864fe2b6e6ec59692fb2f7c02592ae29a03470647c5d13bcb1729160b1d8b", null ],
+      [ "EMOTE_RIN_END_4", "d4/d35/a03617.html#a1eb7864fe2b6e6ec59692fb2f7c02592aeeed58bd2d47e0450374129434bcf296", null ],
+      [ "EMOTE_RIN_END_5", "d4/d35/a03617.html#a1eb7864fe2b6e6ec59692fb2f7c02592ac0c11a39be96e25065c399ff7dd7c484", null ],
+      [ "SAY_RIN_END_6", "d4/d35/a03617.html#a1eb7864fe2b6e6ec59692fb2f7c02592a699867c1deab61d85853622b099cd728", null ],
+      [ "SAY_SPR_END_7", "d4/d35/a03617.html#a1eb7864fe2b6e6ec59692fb2f7c02592ac165214832e6be5740245dd6239ef2c9", null ],
+      [ "EMOTE_RIN_END_8", "d4/d35/a03617.html#a1eb7864fe2b6e6ec59692fb2f7c02592ac034860ad6513469b74ad5b7cc76edc7", null ],
+      [ "SPELL_REVIVE_RINGO", "d4/d35/a03617.html#a1eb7864fe2b6e6ec59692fb2f7c02592a9fc3d4c57ff3ca56f344b70df866e766", null ],
+      [ "QUEST_A_LITTLE_HELP", "d4/d35/a03617.html#a1eb7864fe2b6e6ec59692fb2f7c02592a6ab7d20ae4eca495ad164638b1e68b51", null ],
+      [ "NPC_SPRAGGLE", "d4/d35/a03617.html#a1eb7864fe2b6e6ec59692fb2f7c02592a4bc3afbb0cf9626825ffda0b610e2e64", null ]
     ] ],
-    [ "Omen", "d4/d35/a03617.html#a7fb152206db70a70437b235647a95793", [
-      [ "NPC_OMEN", "d4/d35/a03617.html#a7fb152206db70a70437b235647a95793a6d34405f4268188f4709fddd135879a1", null ],
-      [ "SPELL_OMEN_CLEAVE", "d4/d35/a03617.html#a7fb152206db70a70437b235647a95793a525d07772748bd50623894654941eebb", null ],
-      [ "SPELL_OMEN_STARFALL", "d4/d35/a03617.html#a7fb152206db70a70437b235647a95793a8a65e86a799ba7daf95b45212e2d0cac", null ],
-      [ "SPELL_OMEN_SUMMON_SPOTLIGHT", "d4/d35/a03617.html#a7fb152206db70a70437b235647a95793a09afe0a7256990b201fc144424201c79", null ],
-      [ "SPELL_ELUNE_CANDLE", "d4/d35/a03617.html#a7fb152206db70a70437b235647a95793a333999af862b8d1706a4b34ced3448e6", null ],
-      [ "GO_ELUNE_TRAP_1", "d4/d35/a03617.html#a7fb152206db70a70437b235647a95793a55d48a597022d003e1e18a7cb332c3e3", null ],
-      [ "GO_ELUNE_TRAP_2", "d4/d35/a03617.html#a7fb152206db70a70437b235647a95793a70bba7030d170525f9351e8643ed8e51", null ],
-      [ "EVENT_CAST_CLEAVE", "d4/d35/a03617.html#a7fb152206db70a70437b235647a95793a9b4959d7ea485f12c7d67e5bd7672383", null ],
-      [ "EVENT_CAST_STARFALL", "d4/d35/a03617.html#a7fb152206db70a70437b235647a95793a59097ac157a655e4c9371e19a53820fc", null ],
-      [ "EVENT_DESPAWN", "d4/d35/a03617.html#a7fb152206db70a70437b235647a95793a37c22b84c74c36e2af467a6bd1047f15", null ]
-    ] ],
-    [ "AddSC_moonglade", "d4/d35/a03617.html#a849e20dbd083abdfb7fb96857fb7d89f", null ],
-    [ "AspectRavenSummon", "d4/d35/a03617.html#a8b390a1d926d93da400a7e199a1da6b6", null ],
-    [ "Clintar_spirit_WP", "d4/d35/a03617.html#adcc622dc5710ac246cbdd4f072ad52fe", null ]
+    [ "AddSC_ungoro_crater", "d4/d35/a03617.html#a6e2c88161cee97e0e405ef83abcc653f", null ]
 ];

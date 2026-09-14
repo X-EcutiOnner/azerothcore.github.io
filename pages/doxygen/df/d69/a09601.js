@@ -1,12 +1,6 @@
 var a09601 =
 [
-    [ "VisibleNotifier", "df/d69/a09601.html#ae449b96de3eff1759869438dd90f6513", null ],
-    [ "SendToSelf", "df/d69/a09601.html#a95d1c60911cfed9e4f0e034afbf11482", null ],
-    [ "Visit", "df/d69/a09601.html#a77d110af6b97c2a4d93ff53a8771273d", null ],
-    [ "Visit", "df/d69/a09601.html#a8dafcbc64e004aea196aec47fb2bb175", null ],
-    [ "Visit", "df/d69/a09601.html#a49da99cbbcf8f839d810d6ac6a2502e0", null ],
-    [ "i_data", "df/d69/a09601.html#a6cfba0f042e117cfdb7bdf1f1168c0ce", null ],
-    [ "i_gobjOnly", "df/d69/a09601.html#a019182fa8a629d796982f9cc565d9bc3", null ],
-    [ "i_player", "df/d69/a09601.html#aaa324b9a9cffd59c7cbab0c08cf68395", null ],
-    [ "i_visibleNow", "df/d69/a09601.html#a34d766816baaad7b1b3623360ec9abeb", null ]
+    [ "AreaMapType", "df/d69/a09601.html#a0ea8ea1ddb694a7e57c816f6b7d33ec6", null ],
+    [ "areaMap", "df/d69/a09601.html#a21673b134ee6b5fb20bab06c3e1b2238", null ],
+    [ "gridArea", "df/d69/a09601.html#a37e8598e7a22dcb17637243fbeeecb0c", null ]
 ];

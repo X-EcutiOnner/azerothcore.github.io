@@ -1,13 +1,6 @@
 var a19589 =
 [
-    [ "boss_loathebAI", "d0/d2a/a19589.html#a60256114947b0e9c01f5308108485935", null ],
-    [ "IsInRoom", "d0/d2a/a19589.html#a617d45ab3bde4184aa31c1b2c70c1a6f", null ],
-    [ "JustDied", "d0/d2a/a19589.html#acf24e563d4876fb9f899a4250b19b6f5", null ],
-    [ "JustEngagedWith", "d0/d2a/a19589.html#a1abcf157e05eeb634f8e857a2de35538", null ],
-    [ "JustSummoned", "d0/d2a/a19589.html#a8a28f9fe6c087c230103d1139ddb73dc", null ],
-    [ "KilledUnit", "d0/d2a/a19589.html#a4dac78bba24069050dd9df729dd58b45", null ],
-    [ "Reset", "d0/d2a/a19589.html#a709a4c2fe45fd757ecae6afa402e4728", null ],
-    [ "SummonedCreatureDies", "d0/d2a/a19589.html#aeddc6bd981a13ec133e5481b36668b0e", null ],
-    [ "UpdateAI", "d0/d2a/a19589.html#ab009008f892493b822e5ea5491c58525", null ],
-    [ "doomCounter", "d0/d2a/a19589.html#aed5c631ede2eea27451a74ae21221325", null ]
+    [ "boss_grobbulus_poison_cloudAI", "d8/dc1/a19593.html", "d8/dc1/a19593" ],
+    [ "boss_grobbulus_poison_cloud", "d0/d2a/a19589.html#a2bb8ebec0ae79f20602e551f654e0761", null ],
+    [ "GetAI", "d0/d2a/a19589.html#a34c68dd3e58b83c52f270eb1b194f2ed", null ]
 ];

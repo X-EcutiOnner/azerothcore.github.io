@@ -1,6 +1,6 @@
 var a18505 =
 [
-    [ "CheckProc", "d2/d5c/a18505.html#ad701d353f03eb5a1ccca28a6530555db", null ],
-    [ "PrepareAuraScript", "d2/d5c/a18505.html#a51794aa0a42180d9a0f4e9f6d5febca4", null ],
-    [ "Register", "d2/d5c/a18505.html#a4f787e29064c15f4dad9047ff618982a", null ]
+    [ "DespawnSelf", "d2/d5c/a18505.html#a7009dd0e842898d03caa89e92447749d", null ],
+    [ "PrepareAuraScript", "d2/d5c/a18505.html#a00f0379b4e4fadf73bed7d483e406ac5", null ],
+    [ "Register", "d2/d5c/a18505.html#a8f21cb8ab1145fe32a78a682445cfc2d", null ]
 ];

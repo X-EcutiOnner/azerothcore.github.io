@@ -1,12 +1,17 @@
 var a22685 =
 [
-    [ "boss_exarch_maladaar", "d3/d95/a22685.html#a5dac68e3dc6fc37736bf85b84eadd417", null ],
-    [ "JustDied", "d3/d95/a22685.html#ab1179a19af8948d430559db4074c41ed", null ],
-    [ "JustEngagedWith", "d3/d95/a22685.html#a69427e7a0ca70253ad8035b5e6b1e01e", null ],
-    [ "JustSummoned", "d3/d95/a22685.html#a8f59e1b093af8c85da8c2fd38e01ca1b", null ],
-    [ "KilledUnit", "d3/d95/a22685.html#adf35cb8b039676500d4040baa08b0d48", null ],
-    [ "MoveInLineOfSight", "d3/d95/a22685.html#a14baacd30b9186c7492c981313421d5b", null ],
-    [ "Reset", "d3/d95/a22685.html#accb21d3c4a6856d2de9641cf84c42ce9", null ],
-    [ "UpdateAI", "d3/d95/a22685.html#a7646c4477135d3d3b8580432902babd4", null ],
-    [ "_talked", "d3/d95/a22685.html#a15c4f122529b9f52823ea407c43433c5", null ]
+    [ "OutdoorPvPHP", "d3/d95/a22685.html#a19118d7facc4a745e391491fb7d95421", null ],
+    [ "FillInitialWorldStates", "d3/d95/a22685.html#a4ecc55395f1f792075e07026e1ccd171", null ],
+    [ "GetAllianceTowersControlled", "d3/d95/a22685.html#ae6d3a1561b94d92539a5dd8b5ac56689", null ],
+    [ "GetHordeTowersControlled", "d3/d95/a22685.html#a9395b6966bcdd36b448ca1c403f17873", null ],
+    [ "HandleKillImpl", "d3/d95/a22685.html#aad7804f10c42f6643397d673ba4e9bee", null ],
+    [ "HandlePlayerEnterZone", "d3/d95/a22685.html#a117149e3db7fa02fdcfab05a6ff6de18", null ],
+    [ "HandlePlayerLeaveZone", "d3/d95/a22685.html#abf21499824ad64aa7a26a4b33090783e", null ],
+    [ "SendRemoveWorldStates", "d3/d95/a22685.html#ac94c44783b2141c751d5c16a24bce8d4", null ],
+    [ "SetAllianceTowersControlled", "d3/d95/a22685.html#a1f9bbc083ae0bb7c00a303909ab043f5", null ],
+    [ "SetHordeTowersControlled", "d3/d95/a22685.html#ae5de375e1ec88dc5ce0059490596a935", null ],
+    [ "SetupOutdoorPvP", "d3/d95/a22685.html#aee60f1d1da4d6eecd0e66cf975272979", null ],
+    [ "Update", "d3/d95/a22685.html#aeec44f41e6d6fe7c768bb738a3eafb47", null ],
+    [ "m_AllianceTowersControlled", "d3/d95/a22685.html#a90c41df874abfee0a4861cf923de9ab5", null ],
+    [ "m_HordeTowersControlled", "d3/d95/a22685.html#ada8244f57fe3a693d167689d3f921025", null ]
 ];

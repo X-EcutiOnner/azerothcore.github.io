@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: AuctionSorter Class Reference</title>
+<title>AzerothCore: AuctionSearcherRequest Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,33 +105,57 @@ $(document).ready(function(){initNavTree('d0/d8d/a07553.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
+<a href="#pub-types">Public Types</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../de/d8a/a07550.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">AuctionSorter Class Reference</div></div>
+  <div class="headertitle"><div class="title">AuctionSearcherRequest Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
 <p><code>#include &quot;<a class="el" href="../../">AuctionHouseSearcher.h</a>&quot;</code></p>
+<div class="dynheader">
+Inheritance diagram for AuctionSearcherRequest:</div>
+<div class="dyncontent">
+ <div class="center">
+  <img src="../../d0/d8d/a07553.png" usemap="#AuctionSearcherRequest_map" alt=""/>
+  <map id="AuctionSearcherRequest_map" name="AuctionSearcherRequest_map">
+<area href="../../df/df4/a07565.html" alt="AuctionSearchBidderListRequest" shape="rect" coords="0,56,197,80"/>
+<area href="../../de/dcd/a07557.html" alt="AuctionSearchListRequest" shape="rect" coords="207,56,404,80"/>
+<area href="../../d8/d58/a07561.html" alt="AuctionSearchOwnerListRequest" shape="rect" coords="414,56,611,80"/>
+  </map>
+</div></div>
 <table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
+Public Types</h2></td></tr>
+<tr class="memitem:abfb75b18c4a43f1818cd78212c668109"><td class="memItemLeft" align="right" valign="top">enum class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d8d/a07553.html#abfb75b18c4a43f1818cd78212c668109">Type</a> : uint8 { <br />
+&#160;&#160;<a class="el" href="../../d0/d8d/a07553.html#abfb75b18c4a43f1818cd78212c668109a298cb25408234de02baf2085803a464a">LIST</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d0/d8d/a07553.html#abfb75b18c4a43f1818cd78212c668109a425771069bf1ccc5efbffddcdd382f5e">OWNER_LIST</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d0/d8d/a07553.html#abfb75b18c4a43f1818cd78212c668109a3db79062131239cf3a1812bf18377fab">BIDDER_LIST</a>
+<br />
+ }</td></tr>
+<tr class="separator:abfb75b18c4a43f1818cd78212c668109"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a233a8eff7fbd76ecf5bd6e4469c6ba0b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d8d/a07553.html#a233a8eff7fbd76ecf5bd6e4469c6ba0b">AuctionSorter</a> (<a class="el" href="../../d5/d6c/a00977.html#afefbc3444cfffa5e2fe0ded42a20e407">AuctionSortOrderVector</a> const *sort, int loc_idx)</td></tr>
-<tr class="separator:a233a8eff7fbd76ecf5bd6e4469c6ba0b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7e8ef0ab50f9bfd1f84bf88647b26ea7"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d8d/a07553.html#a7e8ef0ab50f9bfd1f84bf88647b26ea7">operator()</a> (<a class="el" href="../../d7/d1e/a07501.html">SearchableAuctionEntry</a> const *auc1, <a class="el" href="../../d7/d1e/a07501.html">SearchableAuctionEntry</a> const *auc2) const</td></tr>
-<tr class="separator:a7e8ef0ab50f9bfd1f84bf88647b26ea7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afadcce053f82ae124263a501671f35e3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d8d/a07553.html#afadcce053f82ae124263a501671f35e3">AuctionSearcherRequest</a> (<a class="el" href="../../d0/d8d/a07553.html#abfb75b18c4a43f1818cd78212c668109">Type</a> const _requestType, <a class="el" href="../../d3/d7b/a00986.html#af4f47e9bbd0faf17478c06dd0660bb84">AuctionHouseFaction</a> _listFaction)</td></tr>
+<tr class="separator:afadcce053f82ae124263a501671f35e3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8122177f0ca9b5c2393e87998a15e950"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d8d/a07553.html#a8122177f0ca9b5c2393e87998a15e950">~AuctionSearcherRequest</a> ()=default</td></tr>
+<tr class="separator:a8122177f0ca9b5c2393e87998a15e950"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
-Private Attributes</h2></td></tr>
-<tr class="memitem:a9c777b91d8b80940daee0b32c4f11c37"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/d6c/a00977.html#afefbc3444cfffa5e2fe0ded42a20e407">AuctionSortOrderVector</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d8d/a07553.html#a9c777b91d8b80940daee0b32c4f11c37">_sort</a></td></tr>
-<tr class="separator:a9c777b91d8b80940daee0b32c4f11c37"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a11708aa660757db95c88d9dc7e9b9521"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d8d/a07553.html#a11708aa660757db95c88d9dc7e9b9521">_loc_idx</a></td></tr>
-<tr class="separator:a11708aa660757db95c88d9dc7e9b9521"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:ad7006f42aafadfa07024e1d2a278be3d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d8d/a07553.html#abfb75b18c4a43f1818cd78212c668109">Type</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d8d/a07553.html#ad7006f42aafadfa07024e1d2a278be3d">requestType</a></td></tr>
+<tr class="separator:ad7006f42aafadfa07024e1d2a278be3d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1847f75715da2de1098d0f767163f62d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d7b/a00986.html#af4f47e9bbd0faf17478c06dd0660bb84">AuctionHouseFaction</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d8d/a07553.html#a1847f75715da2de1098d0f767163f62d">listFaction</a></td></tr>
+<tr class="separator:a1847f75715da2de1098d0f767163f62d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a233a8eff7fbd76ecf5bd6e4469c6ba0b" name="a233a8eff7fbd76ecf5bd6e4469c6ba0b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a233a8eff7fbd76ecf5bd6e4469c6ba0b">&#9670;&#160;</a></span>AuctionSorter()</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Enumeration Documentation</h2>
+<a id="abfb75b18c4a43f1818cd78212c668109" name="abfb75b18c4a43f1818cd78212c668109"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abfb75b18c4a43f1818cd78212c668109">&#9670;&#160;</a></span>Type</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -140,16 +164,52 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">AuctionSorter::AuctionSorter </td>
+          <td class="memname">enum class <a class="el" href="../../d0/d8d/a07553.html#abfb75b18c4a43f1818cd78212c668109">AuctionSearcherRequest::Type</a> : <a class="el" href="../../d8/dca/a04670.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">strong</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="abfb75b18c4a43f1818cd78212c668109a298cb25408234de02baf2085803a464a" name="abfb75b18c4a43f1818cd78212c668109a298cb25408234de02baf2085803a464a"></a>LIST&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="abfb75b18c4a43f1818cd78212c668109a425771069bf1ccc5efbffddcdd382f5e" name="abfb75b18c4a43f1818cd78212c668109a425771069bf1ccc5efbffddcdd382f5e"></a>OWNER_LIST&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="abfb75b18c4a43f1818cd78212c668109a3db79062131239cf3a1812bf18377fab" name="abfb75b18c4a43f1818cd78212c668109a3db79062131239cf3a1812bf18377fab"></a>BIDDER_LIST&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">  142</span>    {</div>
+<div class="line"><span class="lineno">  143</span>        <a class="code hl_enumvalue" href="../../d0/d8d/a07553.html#abfb75b18c4a43f1818cd78212c668109a298cb25408234de02baf2085803a464a">LIST</a>,</div>
+<div class="line"><span class="lineno">  144</span>        <a class="code hl_enumvalue" href="../../d0/d8d/a07553.html#abfb75b18c4a43f1818cd78212c668109a425771069bf1ccc5efbffddcdd382f5e">OWNER_LIST</a>,</div>
+<div class="line"><span class="lineno">  145</span>        <a class="code hl_enumvalue" href="../../d0/d8d/a07553.html#abfb75b18c4a43f1818cd78212c668109a3db79062131239cf3a1812bf18377fab">BIDDER_LIST</a></div>
+<div class="line"><span class="lineno">  146</span>    };</div>
+<div class="ttc" id="aa07553_html_abfb75b18c4a43f1818cd78212c668109a298cb25408234de02baf2085803a464a"><div class="ttname"><a href="../../d0/d8d/a07553.html#abfb75b18c4a43f1818cd78212c668109a298cb25408234de02baf2085803a464a">AuctionSearcherRequest::Type::LIST</a></div><div class="ttdeci">@ LIST</div></div>
+<div class="ttc" id="aa07553_html_abfb75b18c4a43f1818cd78212c668109a3db79062131239cf3a1812bf18377fab"><div class="ttname"><a href="../../d0/d8d/a07553.html#abfb75b18c4a43f1818cd78212c668109a3db79062131239cf3a1812bf18377fab">AuctionSearcherRequest::Type::BIDDER_LIST</a></div><div class="ttdeci">@ BIDDER_LIST</div></div>
+<div class="ttc" id="aa07553_html_abfb75b18c4a43f1818cd78212c668109a425771069bf1ccc5efbffddcdd382f5e"><div class="ttname"><a href="../../d0/d8d/a07553.html#abfb75b18c4a43f1818cd78212c668109a425771069bf1ccc5efbffddcdd382f5e">AuctionSearcherRequest::Type::OWNER_LIST</a></div><div class="ttdeci">@ OWNER_LIST</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="afadcce053f82ae124263a501671f35e3" name="afadcce053f82ae124263a501671f35e3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afadcce053f82ae124263a501671f35e3">&#9670;&#160;</a></span>AuctionSearcherRequest()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">AuctionSearcherRequest::AuctionSearcherRequest </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d5/d6c/a00977.html#afefbc3444cfffa5e2fe0ded42a20e407">AuctionSortOrderVector</a> const *&#160;</td>
-          <td class="paramname"><em>sort</em>, </td>
+          <td class="paramtype"><a class="el" href="../../d0/d8d/a07553.html#abfb75b18c4a43f1818cd78212c668109">Type</a> const&#160;</td>
+          <td class="paramname"><em>_requestType</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>loc_idx</em>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d3/d7b/a00986.html#af4f47e9bbd0faf17478c06dd0660bb84">AuctionHouseFaction</a>&#160;</td>
+          <td class="paramname"><em>_listFaction</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -163,105 +223,67 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  235</span>: <a class="code hl_variable" href="../../d0/d8d/a07553.html#a9c777b91d8b80940daee0b32c4f11c37">_sort</a>(sort), <a class="code hl_variable" href="../../d0/d8d/a07553.html#a11708aa660757db95c88d9dc7e9b9521">_loc_idx</a>(loc_idx) {}</div>
-<div class="ttc" id="aa07553_html_a11708aa660757db95c88d9dc7e9b9521"><div class="ttname"><a href="../../d0/d8d/a07553.html#a11708aa660757db95c88d9dc7e9b9521">AuctionSorter::_loc_idx</a></div><div class="ttdeci">int _loc_idx</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.h:240</div></div>
-<div class="ttc" id="aa07553_html_a9c777b91d8b80940daee0b32c4f11c37"><div class="ttname"><a href="../../d0/d8d/a07553.html#a9c777b91d8b80940daee0b32c4f11c37">AuctionSorter::_sort</a></div><div class="ttdeci">AuctionSortOrderVector const  * _sort</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.h:239</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  148</span>: <a class="code hl_variable" href="../../d0/d8d/a07553.html#ad7006f42aafadfa07024e1d2a278be3d">requestType</a>(_requestType), <a class="code hl_variable" href="../../d0/d8d/a07553.html#a1847f75715da2de1098d0f767163f62d">listFaction</a>(_listFaction) { }</div>
+<div class="ttc" id="aa07553_html_a1847f75715da2de1098d0f767163f62d"><div class="ttname"><a href="../../d0/d8d/a07553.html#a1847f75715da2de1098d0f767163f62d">AuctionSearcherRequest::listFaction</a></div><div class="ttdeci">AuctionHouseFaction listFaction</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.h:152</div></div>
+<div class="ttc" id="aa07553_html_ad7006f42aafadfa07024e1d2a278be3d"><div class="ttname"><a href="../../d0/d8d/a07553.html#ad7006f42aafadfa07024e1d2a278be3d">AuctionSearcherRequest::requestType</a></div><div class="ttdeci">Type requestType</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.h:151</div></div>
 </div><!-- fragment -->
 </div>
 </div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a7e8ef0ab50f9bfd1f84bf88647b26ea7" name="a7e8ef0ab50f9bfd1f84bf88647b26ea7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7e8ef0ab50f9bfd1f84bf88647b26ea7">&#9670;&#160;</a></span>operator()()</h2>
+<a id="a8122177f0ca9b5c2393e87998a15e950" name="a8122177f0ca9b5c2393e87998a15e950"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8122177f0ca9b5c2393e87998a15e950">&#9670;&#160;</a></span>~AuctionSearcherRequest()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool AuctionSorter::operator() </td>
+          <td class="memname">virtual AuctionSearcherRequest::~AuctionSearcherRequest </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d7/d1e/a07501.html">SearchableAuctionEntry</a> const *&#160;</td>
-          <td class="paramname"><em>auc1</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d7/d1e/a07501.html">SearchableAuctionEntry</a> const *&#160;</td>
-          <td class="paramname"><em>auc2</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td> const</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">virtual</span><span class="mlabel">default</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  645</span>{</div>
-<div class="line"><span class="lineno">  646</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d0/d8d/a07553.html#a9c777b91d8b80940daee0b32c4f11c37">_sort</a>-&gt;empty())                      <span class="comment">// not sorted</span></div>
-<div class="line"><span class="lineno">  647</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  648</span> </div>
-<div class="line"><span class="lineno">  649</span>    <span class="keywordflow">for</span> (AuctionSortOrderVector::const_iterator itr = <a class="code hl_variable" href="../../d0/d8d/a07553.html#a9c777b91d8b80940daee0b32c4f11c37">_sort</a>-&gt;begin(); itr != <a class="code hl_variable" href="../../d0/d8d/a07553.html#a9c777b91d8b80940daee0b32c4f11c37">_sort</a>-&gt;end(); ++itr)</div>
-<div class="line"><span class="lineno">  650</span>    {</div>
-<div class="line"><span class="lineno">  651</span>        <span class="keywordtype">int</span> res = auc1-&gt;CompareAuctionEntry(itr-&gt;sortOrder, *auc2, <a class="code hl_variable" href="../../d0/d8d/a07553.html#a11708aa660757db95c88d9dc7e9b9521">_loc_idx</a>);</div>
-<div class="line"><span class="lineno">  652</span>        <span class="comment">// &quot;equal&quot; by used column</span></div>
-<div class="line"><span class="lineno">  653</span>        <span class="keywordflow">if</span> (res == 0)</div>
-<div class="line"><span class="lineno">  654</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  655</span>        <span class="comment">// less/greater and normal/reversed ordered</span></div>
-<div class="line"><span class="lineno">  656</span>        <span class="keywordflow">return</span> (res &lt; 0) == itr-&gt;isDesc;</div>
-<div class="line"><span class="lineno">  657</span>    }</div>
-<div class="line"><span class="lineno">  658</span> </div>
-<div class="line"><span class="lineno">  659</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;                                           <span class="comment">// &quot;equal&quot; by all sorts</span></div>
-<div class="line"><span class="lineno">  660</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00240">_loc_idx</a>, <a class="el" href="../../#l00239">_sort</a>, and <a class="el" href="../../#l00520">SearchableAuctionEntry::CompareAuctionEntry()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a11708aa660757db95c88d9dc7e9b9521" name="a11708aa660757db95c88d9dc7e9b9521"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a11708aa660757db95c88d9dc7e9b9521">&#9670;&#160;</a></span>_loc_idx</h2>
+<a id="a1847f75715da2de1098d0f767163f62d" name="a1847f75715da2de1098d0f767163f62d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1847f75715da2de1098d0f767163f62d">&#9670;&#160;</a></span>listFaction</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">int AuctionSorter::_loc_idx</td>
+          <td class="memname"><a class="el" href="../../d3/d7b/a00986.html#af4f47e9bbd0faf17478c06dd0660bb84">AuctionHouseFaction</a> AuctionSearcherRequest::listFaction</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00644">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00235">AuctionHouseWorkerThread::SearchBidderListRequest()</a>, <a class="el" href="../../#l00142">AuctionHouseWorkerThread::SearchListRequest()</a>, and <a class="el" href="../../#l00205">AuctionHouseWorkerThread::SearchOwnerListRequest()</a>.</p>
 
 </div>
 </div>
-<a id="a9c777b91d8b80940daee0b32c4f11c37" name="a9c777b91d8b80940daee0b32c4f11c37"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9c777b91d8b80940daee0b32c4f11c37">&#9670;&#160;</a></span>_sort</h2>
+<a id="ad7006f42aafadfa07024e1d2a278be3d" name="ad7006f42aafadfa07024e1d2a278be3d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad7006f42aafadfa07024e1d2a278be3d">&#9670;&#160;</a></span>requestType</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d5/d6c/a00977.html#afefbc3444cfffa5e2fe0ded42a20e407">AuctionSortOrderVector</a> const* AuctionSorter::_sort</td>
+          <td class="memname"><a class="el" href="../../d0/d8d/a07553.html#abfb75b18c4a43f1818cd78212c668109">Type</a> AuctionSearcherRequest::requestType</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00644">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00109">AuctionHouseWorkerThread::ProcessSearchRequests()</a>.</p>
 
 </div>
 </div>
@@ -270,8 +292,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d0/d8d/a07553.html">AuctionSorter</a></li>
-    <li class="footer">Generated on Mon Sep 7 2026 23:04:20 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d0/d8d/a07553.html">AuctionSearcherRequest</a></li>
+    <li class="footer">Generated on Mon Sep 14 2026 23:33:28 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

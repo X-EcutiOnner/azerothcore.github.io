@@ -1,6 +1,6 @@
 var a21661 =
 [
-    [ "npc_warmage_coldarraAI", "da/d83/a21665.html", "da/d83/a21665" ],
-    [ "npc_warmage_coldarra", "dc/d94/a21661.html#a358f8ab26991798ff076ac764cd7abe2", null ],
-    [ "GetAI", "dc/d94/a21661.html#aa29181e0ad61b44eff685267f3231382", null ]
+    [ "npc_sinkhole_kill_creditAI", "da/d83/a21665.html", "da/d83/a21665" ],
+    [ "npc_sinkhole_kill_credit", "dc/d94/a21661.html#a627d01aaaa3408986f2b4d171624e680", null ],
+    [ "GetAI", "dc/d94/a21661.html#a4d734432f132bea2c4525d049fbcfa67", null ]
 ];

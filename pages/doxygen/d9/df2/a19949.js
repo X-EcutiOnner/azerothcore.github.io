@@ -1,8 +1,10 @@
 var a19949 =
 [
-    [ "HandleEffectPeriodic", "d9/df2/a19949.html#abb453e3d38677be7082f2cd4e43134cc", null ],
-    [ "HandleOnEffectApply", "d9/df2/a19949.html#a3ec47d5d9fdbdcfe671e02c3b0f55980", null ],
-    [ "PrepareAuraScript", "d9/df2/a19949.html#ac00c6d9b1cccb38b5d87b3139295614c", null ],
-    [ "Register", "d9/df2/a19949.html#ae4de4f0f2f4dc4ac98706ddd898df7c5", null ],
-    [ "Validate", "d9/df2/a19949.html#a09481646f8ec90b0135d93d83cc18929", null ]
+    [ "npc_oculus_drakegiverAI", "d9/df2/a19949.html#a4bba380256a0ede70b8d90611249b444", null ],
+    [ "MovementInform", "d9/df2/a19949.html#adc86ecd4ed7b4b7b42968a0e09fa29a0", null ],
+    [ "UpdateAI", "d9/df2/a19949.html#a652a8c364687d51de62356964f6f33f9", null ],
+    [ "m_pInstance", "d9/df2/a19949.html#a04e43a623d16b4cf8d80552d649d90ca", null ],
+    [ "moved", "d9/df2/a19949.html#a069e202a84d99cd757862bd1a43b5562", null ],
+    [ "resetPosition", "d9/df2/a19949.html#a8ef6c480846d08d8a6225a7124320cbf", null ],
+    [ "timer", "d9/df2/a19949.html#a461b45ab959e71699cf1543ecbcbd91f", null ]
 ];

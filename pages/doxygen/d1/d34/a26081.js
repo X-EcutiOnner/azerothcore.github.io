@@ -1,7 +1,6 @@
 var a26081 =
 [
-    [ "HandleDummy", "d1/d34/a26081.html#ae1f9429b4e5b8965c65f246e03efbaf0", null ],
-    [ "PrepareSpellScript", "d1/d34/a26081.html#abde4e8528f1af9a595fb32741e397397", null ],
-    [ "Register", "d1/d34/a26081.html#a3f10fa7accb675d36560ef5bb6ccb84e", null ],
-    [ "Validate", "d1/d34/a26081.html#af1658e856195d22042de5beab1eec212", null ]
+    [ "CalculateAmount", "d1/d34/a26081.html#ad80edf403addb2d907d0d3d778b6745f", null ],
+    [ "PrepareAuraScript", "d1/d34/a26081.html#a96c2e2cdd259d96bb7aa12eb42856cf4", null ],
+    [ "Register", "d1/d34/a26081.html#a538ab0fdebbafa3c96183f639fe8968b", null ]
 ];

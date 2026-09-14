@@ -1,6 +1,7 @@
 var a17205 =
 [
-    [ "boss_tharon_jaAI", "d0/da9/a17209.html", "d0/da9/a17209" ],
-    [ "boss_tharon_ja", "d2/d8d/a17205.html#ac34f8f33ea75dc0107222d3720788f7a", null ],
-    [ "GetAI", "d2/d8d/a17205.html#ab24612418cb66ed0c1e64fba5ebaa50f", null ]
+    [ "HandleEffectPeriodic", "d2/d8d/a17205.html#ae8121dcb796f3ee496c24bbd46651f81", null ],
+    [ "PrepareAuraScript", "d2/d8d/a17205.html#af84222492b3209c97695895c4c991f4a", null ],
+    [ "Register", "d2/d8d/a17205.html#a4d1741913631bb649508ef238e25a6c8", null ],
+    [ "Validate", "d2/d8d/a17205.html#ac9b7fd3876620988cc74aa0a5202e599", null ]
 ];

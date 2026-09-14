@@ -1,7 +1,14 @@
 var a22601 =
 [
-    [ "OutdoorPvPGH", "d6/d90/a22601.html#a619492e0a1fdf75f37554a2f19268660", null ],
-    [ "HandleKill", "d6/d90/a22601.html#a78cf572faf727c302f9be496d91004e0", null ],
-    [ "SendRemoveWorldStates", "d6/d90/a22601.html#a92c7e489717072ddc34f707fbe462cb2", null ],
-    [ "SetupOutdoorPvP", "d6/d90/a22601.html#a3d62cb27cfa415c9ba7fe5c18384a75d", null ]
+    [ "npc_finklesteinAI", "d6/d90/a22601.html#a075481689af110f8c20cd5ca13258ba3", null ],
+    [ "ClearPlayerOnTask", "d6/d90/a22601.html#ad6ec9c020ba2f8eae9250a89fbe9490d", null ],
+    [ "GetTaskAura", "d6/d90/a22601.html#ae3a1b7fbdd9aba64e8f853f53d9c261c", null ],
+    [ "GetTaskCounter", "d6/d90/a22601.html#a240e8f556176b9571bd08407276402be", null ],
+    [ "GetTaskItemEntry", "d6/d90/a22601.html#a08a3005db6d192663a835b9ee192352b", null ],
+    [ "GetTaskItemName", "d6/d90/a22601.html#ae02bbd8282d928b21b54058816f7a90c", null ],
+    [ "IsPlayerOnTask", "d6/d90/a22601.html#ad815f0d79ab73d95e9fbf3a659aea2ce", null ],
+    [ "RightClickCauldron", "d6/d90/a22601.html#a71fea2fdf5079fbc1d8baa72e7e4ae82", null ],
+    [ "SelectRandomCode", "d6/d90/a22601.html#a16c9ddf6f2f858f4147a0188e0df7250", null ],
+    [ "StartNextTask", "d6/d90/a22601.html#a89c5c3a90fad1719bc4d2e2cb611e8c7", null ],
+    [ "questList", "d6/d90/a22601.html#a5c3a3237579721b94dd433841b83bb02", null ]
 ];

@@ -1,7 +1,7 @@
 var a27469 =
 [
-    [ "HandleProc", "d9/df1/a27469.html#adec7010a0de4ab9e8756d345c4adff14", null ],
-    [ "PrepareAuraScript", "d9/df1/a27469.html#a16986cb0bf0e46d44a640486580480aa", null ],
-    [ "Register", "d9/df1/a27469.html#a093cac6e19a12d01b7dba974b595502e", null ],
-    [ "Validate", "d9/df1/a27469.html#a558005f2d0ed6d42705a3e0ee940ffcc", null ]
+    [ "CalculateAmount", "d9/df1/a27469.html#aefeab4e58c1b5c1be87f583256d366f5", null ],
+    [ "Load", "d9/df1/a27469.html#ae2ef0eae77137c120ec61af8698677db", null ],
+    [ "PrepareAuraScript", "d9/df1/a27469.html#acaecc78c031aa436f432fd7145478de4", null ],
+    [ "Register", "d9/df1/a27469.html#afd27c8bc5fd1628b7e32bf464bfe3d48", null ]
 ];

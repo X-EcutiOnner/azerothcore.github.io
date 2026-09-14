@@ -1,8 +1,14 @@
 var a12049 =
 [
-    [ "EffectHandler", "db/d69/a12049.html#aebdff9758b3ec51a75220be43b0d7b44", null ],
-    [ "Call", "db/d69/a12049.html#a7696d64688fa8b10cd58220fdd5fa5ba", null ],
-    [ "CheckEffect", "db/d69/a12049.html#a8eeff14be65159b6f9a88b04abe14e8b", null ],
-    [ "ToString", "db/d69/a12049.html#a5b583dc87f0146f06c9a38a5db92f4fb", null ],
-    [ "pEffectHandlerScript", "db/d69/a12049.html#a88fbf00b2e35c462423ddeff55ac3dee", null ]
+    [ "IsFitToRequirements", "db/d69/a12049.html#af1585273701356a591bf9d9483e996a3", null ],
+    [ "areaId", "db/d69/a12049.html#af7e6f7b027388447a1f99e759975ca09", null ],
+    [ "auraSpell", "db/d69/a12049.html#adaf2f6f7c56701fe42a2674aca74fba0", null ],
+    [ "autocast", "db/d69/a12049.html#a38b42b82e4a588e102eb393cc907cd27", null ],
+    [ "gender", "db/d69/a12049.html#af4314cba9c91fd1e2c09905c17c67d22", null ],
+    [ "questEnd", "db/d69/a12049.html#a075cc2bc4d8c9663b2bdb2cf8ba77f5f", null ],
+    [ "questEndStatus", "db/d69/a12049.html#ac6c7ed326628642da138bb3835db9a1d", null ],
+    [ "questStart", "db/d69/a12049.html#afc99b14a3724fef7c5dd70e976a479a8", null ],
+    [ "questStartStatus", "db/d69/a12049.html#a7f4466dfd9ab56850a36d0d09ff84798", null ],
+    [ "raceMask", "db/d69/a12049.html#a402373ff841bd2aa47b4b36a581624cc", null ],
+    [ "spellId", "db/d69/a12049.html#a8a299d901e2c13cdc3c00d6cf0a856d3", null ]
 ];

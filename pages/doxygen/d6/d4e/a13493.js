@@ -1,5 +1,6 @@
 var a13493 =
 [
-    [ "instance_magisters_terrace_InstanceMapScript", "d6/d4e/a13493.html#ad083ab5aa00902987e18f4e9423a705a", null ],
-    [ "ProcessEvent", "d6/d4e/a13493.html#a8dbe1537ea00412a6fa366891204d645", null ]
+    [ "HandleAfterCast", "d6/d4e/a13493.html#a5ca38a2828359e4f373323d1d6cc91cf", null ],
+    [ "PrepareSpellScript", "d6/d4e/a13493.html#aa0956db2d03405a54893bc30516f5839", null ],
+    [ "Register", "d6/d4e/a13493.html#a45726adacf1d30b5488df54f57447c0c", null ]
 ];

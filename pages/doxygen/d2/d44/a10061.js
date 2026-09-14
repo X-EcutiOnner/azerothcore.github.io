@@ -1,7 +1,9 @@
 var a10061 =
 [
-    [ "extended", "d2/d44/a10061.html#a6cd2390616ebbc07b0fa55886d1e545d", null ],
-    [ "guidLow", "d2/d44/a10061.html#a6d6358cd25aaf909fb02e01b994a6a92", null ],
-    [ "instanceId", "d2/d44/a10061.html#a3f4f3f829d354ccc92491445d1efd1b2", null ],
-    [ "perm", "d2/d44/a10061.html#a73b641d14a2d5d9781f706ccc2865415", null ]
+    [ "LoginQueryHolder", "d2/d44/a10061.html#a0e1a9e1b505ba40d08daee432eaa40c1", null ],
+    [ "GetAccountId", "d2/d44/a10061.html#ac44ea5d53fa90dae955bfaa3f472ecea", null ],
+    [ "GetGuid", "d2/d44/a10061.html#a8cdce5befc3b7f8727eef78ab1f768a2", null ],
+    [ "Initialize", "d2/d44/a10061.html#ae21aca0c9ccc627e084b4a535b3f5774", null ],
+    [ "m_accountId", "d2/d44/a10061.html#abc8056182803af44a062fe6153fdd009", null ],
+    [ "m_guid", "d2/d44/a10061.html#ab4696408b2e649dcdaae0bc4330c0b9e", null ]
 ];

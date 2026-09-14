@@ -1,5 +1,8 @@
 var a14513 =
 [
-    [ "at_zulgurub_entrance_speech", "d2/d09/a14513.html#afef11c6a7e97befd07072826fa13be55", null ],
-    [ "_OnTrigger", "d2/d09/a14513.html#a7f719eab3ca9fa7d5e7a26f721dc9f50", null ]
+    [ "HandleScriptEffect", "d2/d09/a14513.html#af7f22d3b7ba136ec2af88656b9805168", null ],
+    [ "PrepareSpellScript", "d2/d09/a14513.html#aa7b7a3d099b95c9adeb3d9e2198ed8d3", null ],
+    [ "Register", "d2/d09/a14513.html#a6a6d95c6d33bc8d90a2022e1ce23c635", null ],
+    [ "Validate", "d2/d09/a14513.html#a94a5697e9d8a068fe6ae34b8aaf974fd", null ],
+    [ "spells", "d2/d09/a14513.html#a902fc17746af82a4c58fe599c9616ce2", null ]
 ];

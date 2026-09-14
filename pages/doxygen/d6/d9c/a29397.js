@@ -1,8 +1,7 @@
 var a29397 =
 [
-    [ "canLink", "d6/d9c/a29397.html#aff87dafee61faf5afdf6248f6f3c9a35", null ],
-    [ "categoryId", "d6/d9c/a29397.html#abf285e69e8e2a90626a157cb0c50d158", null ],
-    [ "id", "d6/d9c/a29397.html#a7740b26f1bde19a05b002c00eded25e3", null ],
-    [ "name", "d6/d9c/a29397.html#afb5e77ab4f6faa132ca62f7664dce116", null ],
-    [ "spellIcon", "d6/d9c/a29397.html#a3a20ea7c73a6739e89bd570d6f4d4b03", null ]
+    [ "ID", "d6/d9c/a29397.html#a3af48dd3f6b92ad7f5950d99ca6dd379", null ],
+    [ "Index", "d6/d9c/a29397.html#aa58e046529aae0d1d6201c08ec8107e2", null ],
+    [ "Skill", "d6/d9c/a29397.html#aed5e58cf605d3c28cd0d26015722be03", null ],
+    [ "Type", "d6/d9c/a29397.html#a39b0b548efd795c162926bddcdd301b5", null ]
 ];

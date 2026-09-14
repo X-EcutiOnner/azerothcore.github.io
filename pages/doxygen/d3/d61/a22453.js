@@ -1,8 +1,6 @@
 var a22453 =
 [
-    [ "npc_wg_spirit_guideAI", "d7/d17/a22457.html", "d7/d17/a22457" ],
-    [ "npc_wg_spirit_guide", "d3/d61/a22453.html#ad6ca047a51547203ee2c5f69efb6f2d3", null ],
-    [ "GetAI", "d3/d61/a22453.html#a769cdf4ac330b5dec71437d325aaf46a", null ],
-    [ "OnGossipHello", "d3/d61/a22453.html#a2d46078cb47f817239685d168f7f2e35", null ],
-    [ "OnGossipSelect", "d3/d61/a22453.html#aae050d38b9fa9c16d398d2733b1e5faf", null ]
+    [ "CheckCast", "d3/d61/a22453.html#a9244f2b0a03d408006ef4de0c680baeb", null ],
+    [ "PrepareSpellScript", "d3/d61/a22453.html#ab4025d8a4acee4723dcca972bce01f45", null ],
+    [ "Register", "d3/d61/a22453.html#a816afa9351039bd3006ad8e6aa641c3c", null ]
 ];

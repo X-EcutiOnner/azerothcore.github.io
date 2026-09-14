@@ -1,9 +1,6 @@
 var a15649 =
 [
-    [ "npc_eye_tentacle", "d4/d8d/a15649.html#a106deeb95d74597377d32e81695dc3c9", null ],
-    [ "JustDied", "d4/d8d/a15649.html#aac965d97034f4f623172297e4f82647e", null ],
-    [ "JustEngagedWith", "d4/d8d/a15649.html#a5f89f08634eeb79f0f9ac726cdf1841b", null ],
-    [ "Reset", "d4/d8d/a15649.html#a715439dfa31b4cf9df7ddd678d912108", null ],
-    [ "UpdateAI", "d4/d8d/a15649.html#a48f9067f27d61e609a014669c1daedb9", null ],
-    [ "_portalGUID", "d4/d8d/a15649.html#aeaa4ec0553480b9490d5e52820c2b77f", null ]
+    [ "instance_ruins_of_ahnqiraj_InstanceMapScript", "d0/d84/a15653.html", "d0/d84/a15653" ],
+    [ "instance_ruins_of_ahnqiraj", "d4/d8d/a15649.html#adeacb1c68e4b12995a335d1bedde075a", null ],
+    [ "GetInstanceScript", "d4/d8d/a15649.html#a6a661e961c2599498de0ccd41c0763b4", null ]
 ];

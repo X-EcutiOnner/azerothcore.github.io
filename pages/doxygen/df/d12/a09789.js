@@ -1,9 +1,10 @@
 var a09789 =
 [
-    [ "AnyGroupedUnitInObjectRangeCheck", "df/d12/a09789.html#a2c775f62eeabcb8af5306cbcedae322e", null ],
-    [ "operator()", "df/d12/a09789.html#a3c316eacdd1c74c69d8297871f84d7b9", null ],
-    [ "_raid", "df/d12/a09789.html#a6a9cffd02435913a5d7ee53cd1e8cc0b", null ],
-    [ "_range", "df/d12/a09789.html#a01b4592ac61d58ff39e5bb2eb1a1b997", null ],
-    [ "_refUnit", "df/d12/a09789.html#ad083243ef5487aa374b19e3c82b0457c", null ],
-    [ "_source", "df/d12/a09789.html#a91de967d2376ea96b1fc0838094915cf", null ]
+    [ "NearestGameObjectEntryInObjectRangeCheck", "df/d12/a09789.html#a7d57ae865868d4848caf088c4520b2a7", null ],
+    [ "NearestGameObjectEntryInObjectRangeCheck", "df/d12/a09789.html#a28d97af524c2bab39e1bd2e5508e434b", null ],
+    [ "operator()", "df/d12/a09789.html#ad0c6798e28784ed547102414f4c6a31f", null ],
+    [ "i_entry", "df/d12/a09789.html#a5d19a23e7da2e5e5ed417d0a9623ffbb", null ],
+    [ "i_obj", "df/d12/a09789.html#a104b8bece6ea78ba049dc592e54311be", null ],
+    [ "i_onlySpawned", "df/d12/a09789.html#a2a58a6bcff73142e21c082bf2c11eff2", null ],
+    [ "i_range", "df/d12/a09789.html#a94fc995a14f84060f3bfe5827f17b95e", null ]
 ];

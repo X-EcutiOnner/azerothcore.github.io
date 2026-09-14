@@ -1,5 +1,6 @@
 var a22113 =
 [
-    [ "go_sister_mercy", "d1/d6f/a22113.html#a3c29ef699afe163b9a505f472709a795", null ],
-    [ "EventInform", "d1/d6f/a22113.html#a5ad9020e2717ef93d97a742ec16b14e6", null ]
+    [ "HandleOnEffectRemove", "d1/d6f/a22113.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51", null ],
+    [ "PrepareAuraScript", "d1/d6f/a22113.html#af415e4d7ea0b4b881af94eb7ea0c3f4c", null ],
+    [ "Register", "d1/d6f/a22113.html#a242faa8822f9cdb7762d8ec3b6245b30", null ]
 ];

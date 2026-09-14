@@ -1,6 +1,6 @@
 var a25257 =
 [
-    [ "HandleScript", "d8/dbc/a25257.html#a913c8c461f291ccaad2f48614c0146c6", null ],
-    [ "PrepareSpellScript", "d8/dbc/a25257.html#a18913a7455cf3f158136f2d3bb415779", null ],
-    [ "Register", "d8/dbc/a25257.html#ac24208b646e95d87fbb340d7779cb7c5", null ]
+    [ "HandleScriptEffect", "d8/dbc/a25257.html#af8f2f4c4459204aa766a41dc4003581c", null ],
+    [ "PrepareSpellScript", "d8/dbc/a25257.html#a687f10fa34894cb497a2ce3369fd83ef", null ],
+    [ "Register", "d8/dbc/a25257.html#a034e52b435b6f4586084cb831e162c40", null ]
 ];

@@ -1,7 +1,8 @@
 var a23197 =
 [
-    [ "HandleProc", "d1/d70/a23197.html#a43892c85339867a65e992b7f17fdc61c", null ],
-    [ "PrepareAuraScript", "d1/d70/a23197.html#ab5728e2c3df5b887c26f2485575087ff", null ],
-    [ "Register", "d1/d70/a23197.html#aae9f80730de402ebbda918e0116e59a0", null ],
-    [ "Validate", "d1/d70/a23197.html#a8ef20577e375a5c7d3a66824f27bf937", null ]
+    [ "instance_black_temple_InstanceMapScript", "d1/d70/a23197.html#aa59f4d11ca1418bb3df3a7d5b11795b9", null ],
+    [ "OnCreatureCreate", "d1/d70/a23197.html#a814ac33238558b4e2a2ff57e6039d4fc", null ],
+    [ "OnGameObjectCreate", "d1/d70/a23197.html#a564a49814ceb3b3161a6476335ab653a", null ],
+    [ "SetBossState", "d1/d70/a23197.html#aadcbe48888eba0d0ed50eb9811ce40b0", null ],
+    [ "ashtongueGUIDs", "d1/d70/a23197.html#a85fa9c5231f13529a0741b0f92266c90", null ]
 ];

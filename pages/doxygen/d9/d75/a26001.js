@@ -1,7 +1,6 @@
 var a26001 =
 [
-    [ "OnRemove", "d9/d75/a26001.html#a1f4f852ef6d5b2313df20af540eee7da", null ],
-    [ "PrepareAuraScript", "d9/d75/a26001.html#a8abf8084dd8bb1ac74b3884380cda809", null ],
-    [ "Register", "d9/d75/a26001.html#a35a8adc4944fc2333488e72498f6d252", null ],
-    [ "Validate", "d9/d75/a26001.html#aa312f28f03cc0929eb9ea8ba526ebb54", null ]
+    [ "HandleDummy", "d9/d75/a26001.html#ade4c16273ebefaeefac3bfb51c61d19a", null ],
+    [ "PrepareSpellScript", "d9/d75/a26001.html#adfa89e065aa18b3e11998331c426151a", null ],
+    [ "Register", "d9/d75/a26001.html#ab37569c6b2362220cbce92eb184cc6db", null ]
 ];

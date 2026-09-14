@@ -1,8 +1,8 @@
 var a23673 =
 [
-    [ "instance_hellfire_ramparts_InstanceMapScript", "d7/dd7/a23673.html#aebc047b45cb4560a38df89db75f8efab", null ],
-    [ "Initialize", "d7/dd7/a23673.html#a115a36ec26e15e23be4d78250d86d814", null ],
-    [ "OnGameObjectCreate", "d7/dd7/a23673.html#a0639fcd867616d1f04aacde44020bb30", null ],
-    [ "SetBossState", "d7/dd7/a23673.html#a7a38526ca7b9a7c7c04231f8f8efd2f7", null ],
-    [ "felIronChestGUID", "d7/dd7/a23673.html#a7cfcac5dbe4562268679ddceaf8ec8ea", null ]
+    [ "instance_gruuls_lair_InstanceMapScript", "d7/dd7/a23673.html#a1ad656ccd4d41c756c4f525d079fd9b6", null ],
+    [ "GetData", "d7/dd7/a23673.html#a410630dbbe00acf0b69603cfc357d503", null ],
+    [ "SetBossState", "d7/dd7/a23673.html#a9f0752eb0ec1d9ca0681ddc5fc8d3752", null ],
+    [ "SetData", "d7/dd7/a23673.html#a4cbe09489797fa0076d976f9a717a2bd", null ],
+    [ "_addsKilled", "d7/dd7/a23673.html#a7a003811fcf620f3c2d11ff3498cb298", null ]
 ];

@@ -1,4 +1,6 @@
 var a11501 =
 [
-    [ "Validate", "de/dda/a11501.html#a25f2d2033711c905ed702d844416c250", null ]
+    [ "ComplainResult", "de/dda/a11501.html#a9c0f7cf8600887fdbc5283fa23f77857", null ],
+    [ "Write", "de/dda/a11501.html#a1b74c82acbfae8d62c7b1d6ef59caa1e", null ],
+    [ "Unk", "de/dda/a11501.html#a88445c8e01e64f89176dd6c1ebb1a986", null ]
 ];

@@ -1,8 +1,7 @@
 var a11621 =
 [
-    [ "QuestConfirmAccept", "d5/d5d/a11621.html#a96504f0bcddeb3f339552d95052595c9", null ],
-    [ "Write", "d5/d5d/a11621.html#add2f826fb7a8c9eed85e46a217dff0fc", null ],
-    [ "PlayerGuid", "d5/d5d/a11621.html#a591f77f3c6de30ac07e62a5bedded7d5", null ],
-    [ "QuestId", "d5/d5d/a11621.html#a4c857c0b173f5fd19f2a83123e8e0d44", null ],
-    [ "QuestTitle", "d5/d5d/a11621.html#abf35fe4b947f0b645010009388d80bcd", null ]
+    [ "PetDismissSound", "d5/d5d/a11621.html#a035aeb40e5de8b5d3d5d9703ad0f19c9", null ],
+    [ "Write", "d5/d5d/a11621.html#a06f3c97d815a3e8de55bcd2b3eecdb64", null ],
+    [ "ModelId", "d5/d5d/a11621.html#aba65e6547adde55978ce7b2abb779d51", null ],
+    [ "ModelPosition", "d5/d5d/a11621.html#a06e6bff9d70996ba890c31ea74363dad", null ]
 ];

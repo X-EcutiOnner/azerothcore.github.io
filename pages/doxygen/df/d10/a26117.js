@@ -1,8 +1,6 @@
 var a26117 =
 [
-    [ "OnRemove", "df/d10/a26117.html#a645e869079e711a87f1a957b42a35e98", null ],
-    [ "OnStackChange", "df/d10/a26117.html#adea8a4a7140e2f9fd4a44ef2a7b4d85b", null ],
-    [ "PrepareAuraScript", "df/d10/a26117.html#a5f9e9d07879705917e1cd261808f0a8f", null ],
-    [ "Register", "df/d10/a26117.html#ac86068a892255e38244c487a7456cd9f", null ],
-    [ "Validate", "df/d10/a26117.html#a74cb62725d939000a1c4ab32b4f4335f", null ]
+    [ "FilterTargets", "df/d10/a26117.html#abe299fbad07f800e90b1614ec661c185", null ],
+    [ "PrepareSpellScript", "df/d10/a26117.html#a53bae2b6575436705adff74caf9225b7", null ],
+    [ "Register", "df/d10/a26117.html#a35fd5a1c8ab2400940da2d9f8f3ce9c2", null ]
 ];

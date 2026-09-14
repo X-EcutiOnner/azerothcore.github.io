@@ -1,5 +1,6 @@
 var a17641 =
 [
-    [ "achievement_share_the_love", "d2/d78/a17641.html#a3eaa89eaa356b0e2f8b5c688439baf9c", null ],
-    [ "OnCheck", "d2/d78/a17641.html#a9d6b6d19611d1482111692de9f2b1cc8", null ]
+    [ "entry", "d2/d78/a17641.html#af2cf5df64adf9ac1575a8217b103e738", null ],
+    [ "x", "d2/d78/a17641.html#aad21475d521921ea30cc0ae5d260ce69", null ],
+    [ "y", "d2/d78/a17641.html#abd69e1c28ad36466c82807ea0ffb0fb7", null ]
 ];

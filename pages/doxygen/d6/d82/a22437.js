@@ -1,6 +1,9 @@
 var a22437 =
 [
-    [ "HandleSummon", "d6/d82/a22437.html#a98c5df8b6c561a5aa7d766b639f3c2c8", null ],
-    [ "PrepareSpellScript", "d6/d82/a22437.html#ab5605e1d401d7a762fc8b5a530ecd640", null ],
-    [ "Register", "d6/d82/a22437.html#a9c9a0fd43758a6441a086860e8276cc0", null ]
+    [ "HandlePeriodic", "d6/d82/a22437.html#a3d9ef90ec1ddebe2b2f3dd3a8b9eb25a", null ],
+    [ "Load", "d6/d82/a22437.html#af5ed9dda3b2a2fd208fdc32de414c28a", null ],
+    [ "PrepareAuraScript", "d6/d82/a22437.html#a1057e5262d413149a023bc904a3c3751", null ],
+    [ "Register", "d6/d82/a22437.html#a47b9665b84742fd8cbb4e422d667b2ac", null ],
+    [ "Validate", "d6/d82/a22437.html#a85d7ac258d50f690574ad7656256cd05", null ],
+    [ "_counter", "d6/d82/a22437.html#a855bb93d5d9c5d8a9d06cfbb16d8d814", null ]
 ];

@@ -1,10 +1,9 @@
 var a15433 =
 [
-    [ "CurrId", "da/d46/a15433.html#a13ab14a7f8ef49fcbfa72b3c383c902a", null ],
-    [ "DestId", "da/d46/a15433.html#ab29acec583ffa5055ff17c7216cab1b7", null ],
-    [ "O", "da/d46/a15433.html#a291850314eca39626b811cdf82eadaca", null ],
-    [ "SpellId", "da/d46/a15433.html#a98b5a11c4f105696d444222113de4607", null ],
-    [ "X", "da/d46/a15433.html#a90b233e77c593720f434d78cae72458e", null ],
-    [ "Y", "da/d46/a15433.html#a03176c6113b5fb3c873dc57e06c27d79", null ],
-    [ "Z", "da/d46/a15433.html#a921c5e8c4b44edb9466cb59e94ac5441", null ]
+    [ "boss_chrono_lord_deja", "da/d46/a15433.html#a85f82d4bde99b7e1d05fba82177916e6", null ],
+    [ "JustDied", "da/d46/a15433.html#a68eb4941364f9fac121aa3d610d45f48", null ],
+    [ "JustEngagedWith", "da/d46/a15433.html#ab5324b2993f2fd1ec3290eb962ef6065", null ],
+    [ "KilledUnit", "da/d46/a15433.html#a02c279fb1cfccd38dc60ba7c610cf859", null ],
+    [ "MoveInLineOfSight", "da/d46/a15433.html#a535c0c157c60804188ad8c4413c277dd", null ],
+    [ "OwnTalk", "da/d46/a15433.html#acdef53bd447c30d87bd15af3bf4200bc", null ]
 ];

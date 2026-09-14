@@ -1,5 +1,6 @@
 var a14521 =
 [
-    [ "at_zulgurub_temple_speech", "df/d94/a14521.html#ab727ad7cb7f0a0e8309bbab233766cde", null ],
-    [ "_OnTrigger", "df/d94/a14521.html#a6176a8a2391baf320186868a2e8671ac", null ]
+    [ "boss_arlokkAI", "d7/d0c/a14525.html", "d7/d0c/a14525" ],
+    [ "boss_arlokk", "df/d94/a14521.html#a55bb21239e05acff18d2fb147449800e", null ],
+    [ "GetAI", "df/d94/a14521.html#a58b8cc7a198784b48faaab1b069d397c", null ]
 ];

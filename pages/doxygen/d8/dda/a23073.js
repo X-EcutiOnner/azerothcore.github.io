@@ -1,6 +1,11 @@
 var a23073 =
 [
-    [ "npc_supremus_punch_invisible_stalker", "d8/dda/a23073.html#add7d0e711ef02a16ef58d90cfc8ee733", null ],
-    [ "IsSummonedBy", "d8/dda/a23073.html#a2220bc31f2ef91a154a9a4eae38aa14b", null ],
-    [ "UpdateAI", "d8/dda/a23073.html#a90ecfe4257ef77a6d6a200a2f017c51a", null ]
+    [ "boss_essence_of_desireAI", "d8/dda/a23073.html#a02f6dec07038297c15c264fb501b01ab", null ],
+    [ "DamageTaken", "d8/dda/a23073.html#abc2d334c185f519230e5ee4d1fc8ff39", null ],
+    [ "DoAction", "d8/dda/a23073.html#ad55459d8e75f34783c1516be05cbb97f", null ],
+    [ "JustEngagedWith", "d8/dda/a23073.html#a0976078399b2190cca25aa2ae5c3c201", null ],
+    [ "KilledUnit", "d8/dda/a23073.html#a07509843bd658e3fc0b02cb817da37e9", null ],
+    [ "MovementInform", "d8/dda/a23073.html#ad65068c5f56db269b4dc711745f96cfb", null ],
+    [ "Reset", "d8/dda/a23073.html#a5c785c728d201a1a4f8f1e01d7000166", null ],
+    [ "UpdateAI", "d8/dda/a23073.html#af348a1b996a8e7704ba55185ef79fe7d", null ]
 ];

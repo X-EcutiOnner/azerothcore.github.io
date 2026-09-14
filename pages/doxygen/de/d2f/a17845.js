@@ -1,6 +1,6 @@
 var a17845 =
 [
-    [ "HandleScript", "de/d2f/a17845.html#acd11d50f398857dc2a24bd2d63e52222", null ],
-    [ "PrepareSpellScript", "de/d2f/a17845.html#a3d218b009c195b6e0fab5152a95da8ad", null ],
-    [ "Register", "de/d2f/a17845.html#ad7f12515dc21ab6b19148370fd491629", null ]
+    [ "PrepareSpellScript", "de/d2f/a17845.html#a37899f12707930d038de38bae92c9aff", null ],
+    [ "Register", "de/d2f/a17845.html#a3677d2e7db842f899e6e2d2c8c9a3d42", null ],
+    [ "SelectDest", "de/d2f/a17845.html#a4caabf8afac621ef70bbbac1a2b5177e", null ]
 ];

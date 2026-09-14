@@ -1,12 +1,18 @@
 var a24257 =
 [
-    [ "npc_enslaved_netherwing_drake", "d0/d74/a24257.html#a9f848fa3c68b8a269f0b6016058ec364", null ],
-    [ "_GetPlayer", "d0/d74/a24257.html#af02a965e98f35134a3c40ed9cdfb723e", null ],
-    [ "JustDied", "d0/d74/a24257.html#acde70c9d8c675a9a9dd14695dc752184", null ],
-    [ "MovementInform", "d0/d74/a24257.html#afa030a380365daa33c156a0d6be6a6d9", null ],
-    [ "Reset", "d0/d74/a24257.html#aec02b19d27a09f16ef06adb694c2e65e", null ],
-    [ "SpellHit", "d0/d74/a24257.html#a195794e88870a0b1ca35473f5f0378a7", null ],
-    [ "UpdateAI", "d0/d74/a24257.html#aa7ac2dd17bdf4939d74fe5af85c649b9", null ],
-    [ "_playerGUID", "d0/d74/a24257.html#a2f9a6a6cbaa9cab0e6014f6fd1c54346", null ],
-    [ "_tapped", "d0/d74/a24257.html#a9cbafd9536ff7eca33b0b44295aaec92", null ]
+    [ "npc_commander_dawnforgeAI", "d0/d74/a24257.html#a70ff1a69374b62bf6aadf1bfabe8bdb3", null ],
+    [ "CanStartEvent", "d0/d74/a24257.html#afb3eb981fe7e7cdcd0caca8f7d7c14f9", null ],
+    [ "JustEngagedWith", "d0/d74/a24257.html#affa24c62af088b4b216aaa4789f6a40e", null ],
+    [ "JustSummoned", "d0/d74/a24257.html#a76bfbed03ad9f83b953da5f53aa45b73", null ],
+    [ "Reset", "d0/d74/a24257.html#af57a218b98606c273ee3eba5d661d5d1", null ],
+    [ "Turn_to_eachother", "d0/d74/a24257.html#a7442d526cc09f98a3cd53749e09fb6f0", null ],
+    [ "Turn_to_Pathaleons_Image", "d0/d74/a24257.html#a88cca74225a0099c85bb661c7f2ad382", null ],
+    [ "UpdateAI", "d0/d74/a24257.html#ae4ca305e3067cbdb2771d6a9e858f191", null ],
+    [ "ardonisGUID", "d0/d74/a24257.html#ad0f1b869b85c8a94e84be5714a191cab", null ],
+    [ "isEvent", "d0/d74/a24257.html#a93cf7cfcf3197543c3878278d99ff980", null ],
+    [ "pathaleonGUID", "d0/d74/a24257.html#a9b20a0ad46dc0be2fe1a65072eb3477a", null ],
+    [ "Phase", "d0/d74/a24257.html#a1a440773676ab7e2cd416eba70c90d74", null ],
+    [ "Phase_Timer", "d0/d74/a24257.html#a798cf4bf43df377f764dac07c13bc676", null ],
+    [ "PhaseSubphase", "d0/d74/a24257.html#ae8f5216936ce3a3b5aa9d5b773521523", null ],
+    [ "PlayerGUID", "d0/d74/a24257.html#ab6c0afdc952c048efeea9d665075c54f", null ]
 ];

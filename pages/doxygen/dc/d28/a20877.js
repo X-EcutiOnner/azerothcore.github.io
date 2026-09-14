@@ -1,6 +1,6 @@
 var a20877 =
 [
-    [ "PrepareSpellScript", "dc/d28/a20877.html#a3c8337cc17ec735fc97f5195a1e820b6", null ],
-    [ "Register", "dc/d28/a20877.html#ae0cc2794b1d2b8de442dbf30f7da8883", null ],
-    [ "SelectPillar", "dc/d28/a20877.html#a2eaa34f9f3b3d255fc5091fb5b48f60a", null ]
+    [ "FilterTargets", "dc/d28/a20877.html#aa7fcef13b5a4ba40092f2f95842349ff", null ],
+    [ "PrepareSpellScript", "dc/d28/a20877.html#a5b94fde8602f7f00342bd81dc9c8cc11", null ],
+    [ "Register", "dc/d28/a20877.html#a6d990937a5fd06a877b775f719ba5a9f", null ]
 ];

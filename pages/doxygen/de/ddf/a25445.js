@@ -1,7 +1,9 @@
 var a25445 =
 [
-    [ "HandleScript", "de/ddf/a25445.html#a466db5b8dc15a196d67dfcbef3d810e1", null ],
-    [ "PrepareSpellScript", "de/ddf/a25445.html#a7909f23da8385abdabb62e5196d88d38", null ],
-    [ "Register", "de/ddf/a25445.html#aa45c1c80f137dd90b5f0e06e19f09da6", null ],
-    [ "Validate", "de/ddf/a25445.html#a04e81472bfefb794024e9c4cc0e4d70b", null ]
+    [ "PrepareAuraScript", "de/ddf/a25445.html#aebfc1dfb1ff025b0ef4a8c0062a000f1", null ],
+    [ "RefreshVisualShields", "de/ddf/a25445.html#aeefbbdd391c347b350ec7738b9825f8c", null ],
+    [ "Register", "de/ddf/a25445.html#aacd9f12cddd0c698816916d9cdf5f0ea", null ],
+    [ "RemoveDummyFromDriver", "de/ddf/a25445.html#a399641ce72b74038a4517868267bd86a", null ],
+    [ "RemoveVisualShields", "de/ddf/a25445.html#aed4bb9ec815ac4e22b952a64c8bd3b51", null ],
+    [ "Validate", "de/ddf/a25445.html#ae5799f72b7fbce82799fd730f1525948", null ]
 ];

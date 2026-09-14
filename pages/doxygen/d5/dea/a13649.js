@@ -1,6 +1,7 @@
 var a13649 =
 [
-    [ "instance_stratholme_InstanceMapScript", "d8/db4/a13653.html", "d8/db4/a13653" ],
-    [ "instance_stratholme", "d5/dea/a13649.html#a42ac504b2790af8c37a44e87fbd9c6c1", null ],
-    [ "GetInstanceScript", "d5/dea/a13649.html#a3d3d2e773029dd1c4bc1a59a94c4e015", null ]
+    [ "HandleAfterCast", "d5/dea/a13649.html#afa662fbe1b777047259ac6212961f7a5", null ],
+    [ "HandleScript", "d5/dea/a13649.html#acd21d059ce10a64a3fe648d104d75ec1", null ],
+    [ "PrepareSpellScript", "d5/dea/a13649.html#aca33d0a7c792a6ac18deaaa945a28a26", null ],
+    [ "Register", "d5/dea/a13649.html#a4a898b0b096583af33f1f691a252b2ed", null ]
 ];

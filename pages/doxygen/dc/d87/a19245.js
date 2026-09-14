@@ -1,7 +1,7 @@
 var a19245 =
 [
-    [ "OnRemove", "dc/d87/a19245.html#ac71e6f5a9e3a7c96b4e4bd1a296d0d8d", null ],
-    [ "PrepareAuraScript", "dc/d87/a19245.html#acf654e563f47df9ad033d7080f47662b", null ],
-    [ "Register", "dc/d87/a19245.html#aad4497ba7cad48b9547e8696714d8c23", null ],
-    [ "Validate", "dc/d87/a19245.html#ae5e187cb481849343e777b0bf0ffdf24", null ]
+    [ "HandleScript", "dc/d87/a19245.html#ace11e192a27b2da98ff62c4eee7980ba", null ],
+    [ "PrepareSpellScript", "dc/d87/a19245.html#a8a6351b7f87101ac8328b6e76784978c", null ],
+    [ "Register", "dc/d87/a19245.html#ad57068b21218492078e2d2bfe76cc3c9", null ],
+    [ "Validate", "dc/d87/a19245.html#af6f1dd22aef0595315460c149d920dff", null ]
 ];

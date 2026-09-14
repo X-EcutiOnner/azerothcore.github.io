@@ -1,7 +1,6 @@
 var a23089 =
 [
-    [ "Absorb", "d6/d3b/a23089.html#a227cf7329d7dee564c3f8f9f67378ffe", null ],
-    [ "HandleEffectRemove", "d6/d3b/a23089.html#a3d4026e5208acb948c089a4bedba0de8", null ],
-    [ "PrepareAuraScript", "d6/d3b/a23089.html#af66dc1cba6aa7511c11a071ea9a381bb", null ],
-    [ "Register", "d6/d3b/a23089.html#a983cf678001efcbccc4b34a9ad919881", null ]
+    [ "FilterTargets", "d6/d3b/a23089.html#a04973145ed594b88afe2acc0cacb10c6", null ],
+    [ "PrepareSpellScript", "d6/d3b/a23089.html#a90c0513a6dba2f2e6619dd8c77544991", null ],
+    [ "Register", "d6/d3b/a23089.html#a7c8ca525cd6822d21551331ce37ce5dd", null ]
 ];

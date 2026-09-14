@@ -1,8 +1,6 @@
 var a15225 =
 [
-    [ "hyjalTyrandeAI", "d2/d66/a15225.html#ac2f5449b60cd137dbc1f6ddc8afe5309", null ],
-    [ "JustDied", "d2/d66/a15225.html#af5c7b843b8e1a7c0864b55853bc62097", null ],
-    [ "JustEngagedWith", "d2/d66/a15225.html#a158589b567d22c8f6e0be462bad8299d", null ],
-    [ "Reset", "d2/d66/a15225.html#a5ea52a1ee3730630d1efbdac4ad24c80", null ],
-    [ "UpdateAI", "d2/d66/a15225.html#a9e825f9d87df6227b73eb965488eff8a", null ]
+    [ "HandleHit", "d2/d66/a15225.html#aec32d6b45bdcfe3a6a32c2fb7558edd1", null ],
+    [ "PrepareSpellScript", "d2/d66/a15225.html#a31fdc4d630a4a6647d2a9b1100aecdad", null ],
+    [ "Register", "d2/d66/a15225.html#a64a861b5c25df5780390aa55899393d7", null ]
 ];

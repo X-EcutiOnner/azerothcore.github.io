@@ -1,8 +1,6 @@
 var a23493 =
 [
-    [ "boss_hungarfen", "db/d53/a23493.html#a009b8d34731d2310a53195024b434935", null ],
-    [ "JustEngagedWith", "db/d53/a23493.html#a3612bb373ecdba4245587fd94257ba62", null ],
-    [ "Reset", "db/d53/a23493.html#a4b310eff8af9a33c50ae8f2035ba76ad", null ],
-    [ "UpdateAI", "db/d53/a23493.html#a1765bd54c04a3479e837b3d0e241300e", null ],
-    [ "_scheduler", "db/d53/a23493.html#a702185681abb6cfc4add7078ff5bbb52", null ]
+    [ "HandleScript", "db/d53/a23493.html#a9451ed26358c77ab4d35781fd8fb4b55", null ],
+    [ "PrepareSpellScript", "db/d53/a23493.html#ad24e7fa45f35f2cd6071328c60cb2732", null ],
+    [ "Register", "db/d53/a23493.html#a1bd01e1103d4959a5b3116e178a16a8f", null ]
 ];

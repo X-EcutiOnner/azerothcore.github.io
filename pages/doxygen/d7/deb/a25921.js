@@ -1,6 +1,5 @@
 var a25921 =
 [
-    [ "HandleDummy", "d7/deb/a25921.html#a8b9510efa5af25ef698fc6eb49b19b69", null ],
-    [ "PrepareSpellScript", "d7/deb/a25921.html#a80b89fbd2506191b897dcf367ff11500", null ],
-    [ "Register", "d7/deb/a25921.html#a522730e5ba844728c0b3d6f423cd123a", null ]
+    [ "PrepareSpellScript", "d7/deb/a25921.html#a9137654c01f41c735f477b85e4ec6d73", null ],
+    [ "Register", "d7/deb/a25921.html#af1002e90bc0801c0759393d2d4af8778", null ]
 ];

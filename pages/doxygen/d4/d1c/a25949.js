@@ -1,6 +1,5 @@
 var a25949 =
 [
-    [ "HandleActivateObject", "d4/d1c/a25949.html#a0d14ca0b21716855a04a0a9267f3e019", null ],
-    [ "PrepareSpellScript", "d4/d1c/a25949.html#a684079434128bacd3d8b8b71c14dc56a", null ],
-    [ "Register", "d4/d1c/a25949.html#a266301f59c809c03d0ccfc48a2ace302", null ]
+    [ "PrepareSpellScript", "d4/d1c/a25949.html#adaaa520c889970d91f3f38c958efdad4", null ],
+    [ "Register", "d4/d1c/a25949.html#a80fe694c669aa86494bd73bfa7b8ffc8", null ]
 ];

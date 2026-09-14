@@ -1,6 +1,6 @@
 var a19649 =
 [
-    [ "boss_sapphironAI", "d8/d78/a19653.html", "d8/d78/a19653" ],
-    [ "boss_sapphiron", "d6/dd1/a19649.html#a87a70204dd727f92d035ad98e2ab9010", null ],
-    [ "GetAI", "d6/dd1/a19649.html#a31209287faa721bef341388ae4383b6c", null ]
+    [ "WebTargetSelector", "d6/dd1/a19649.html#a2f19cffab18fd6f2f5a1d296aa1db47d", null ],
+    [ "operator()", "d6/dd1/a19649.html#a289821eaae114ba384a9ee9b8c19325f", null ],
+    [ "_maexxna", "d6/dd1/a19649.html#ad21c9ac380f7b97aacc06f08f1c45974", null ]
 ];

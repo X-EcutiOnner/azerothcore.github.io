@@ -1,8 +1,6 @@
 var a27213 =
 [
-    [ "Load", "d7/d05/a27213.html#a510f81e77597ef55a87b4f77fa324b2b", null ],
-    [ "OnRemove", "d7/d05/a27213.html#a8b3a3678d1864e630173ab8eb4d504da", null ],
-    [ "PrepareAuraScript", "d7/d05/a27213.html#a1a98b0d8059d5ae47688c2c9bd0486bd", null ],
-    [ "Register", "d7/d05/a27213.html#ae7ed739883e30015e99b6ab5d6cb3f39", null ],
-    [ "Validate", "d7/d05/a27213.html#a3820e716d20809896c84c1ca781af4d1", null ]
+    [ "CheckProc", "d7/d05/a27213.html#aa9cf64a1965bd7924ce5a9c639d85fb3", null ],
+    [ "PrepareAuraScript", "d7/d05/a27213.html#a87d2959523a306f85c69aa5a7a5b3de5", null ],
+    [ "Register", "d7/d05/a27213.html#a9dee4c4568f36f82b82148cb847d50ca", null ]
 ];

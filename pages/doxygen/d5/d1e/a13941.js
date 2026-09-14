@@ -1,6 +1,7 @@
 var a13941 =
 [
-    [ "instance_the_stockade_InstanceMapScript", "d5/dfd/a13945.html", "d5/dfd/a13945" ],
-    [ "instance_the_stockade", "d5/d1e/a13941.html#a533049c10a72da4b94f9807017f28c0d", null ],
-    [ "GetInstanceScript", "d5/d1e/a13941.html#a7a5a4adcd71ae5d22e6729a2d11d68d3", null ]
+    [ "npc_singularity", "d5/d1e/a13941.html#a4ed61ec65ed94d8d5e42ae7ff9ecd41d", null ],
+    [ "FindAndFollowTarget", "d5/d1e/a13941.html#a76c21129756dec05f6f2d88cebe948c5", null ],
+    [ "Reset", "d5/d1e/a13941.html#ae81c2e5865beb00df8683fa0fb6e7872", null ],
+    [ "UpdateAI", "d5/d1e/a13941.html#ad019d234ca9ee719612d59e5bb0b53ea", null ]
 ];

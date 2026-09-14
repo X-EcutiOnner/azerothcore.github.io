@@ -1,22 +1,11 @@
 var a16285 =
 [
-    [ "npc_sergeant_blyAI", "d7/dd3/a16285.html#a216f8b75707e25698619786b87500461", null ],
-    [ "DoAction", "d7/dd3/a16285.html#a4fb20172c48257aafe284b3934a9c357", null ],
-    [ "EnterEvadeMode", "d7/dd3/a16285.html#a2844efbb2f213401f83ab042f974974a", null ],
-    [ "InitializeAI", "d7/dd3/a16285.html#ae3abcf75a666c5bd722ca060fca4a12c", null ],
-    [ "MovementInform", "d7/dd3/a16285.html#acf32d74b4f0454f01f7313df6b35c4d3", null ],
-    [ "Reset", "d7/dd3/a16285.html#a2991ad4ecd6b236d7002c3dddd540b00", null ],
-    [ "sGossipHello", "d7/dd3/a16285.html#a342c8b5bd49e8cfd94c41a58159e4f5c", null ],
-    [ "sGossipSelect", "d7/dd3/a16285.html#a9df8eeb695736b2a182c38a69840e99f", null ],
-    [ "switchFactionIfAlive", "d7/dd3/a16285.html#a89cbd29300ca07b3366a197a7549edab", null ],
-    [ "UpdateAI", "d7/dd3/a16285.html#afdcbd6c79fb31d888c5b903deb04ad9d", null ],
-    [ "ableToPortHome", "d7/dd3/a16285.html#aa223fcf402ed5d99ea88275b357f398c", null ],
-    [ "instance", "d7/dd3/a16285.html#acf42a824739dd69d64c3b1e3eff6a944", null ],
-    [ "PlayerGUID", "d7/dd3/a16285.html#a188e306a05afa5f25271d17b4385b623", null ],
-    [ "Porthome_Timer", "d7/dd3/a16285.html#aeb17b772324aa2d985606659a2aee895", null ],
-    [ "postGossipStep", "d7/dd3/a16285.html#aca6869f05555499b210c09889d3f6684", null ],
-    [ "Revenge_Timer", "d7/dd3/a16285.html#af6263dbfa9e4cbc6f7812a10894f3dd2", null ],
-    [ "ShieldBash_Timer", "d7/dd3/a16285.html#a5ed567ac16bef8f53a66a12fbaf4573e", null ],
-    [ "startedFight", "d7/dd3/a16285.html#a7a037981d3d2a37abf0d3995283ac218", null ],
-    [ "Text_Timer", "d7/dd3/a16285.html#a97edb216194b16d273fe6098fdaba51e", null ]
+    [ "npc_ameAI", "d7/dd3/a16285.html#ad3d0ee584859b2b0fb7c6c5dbf204ad6", null ],
+    [ "JustDied", "d7/dd3/a16285.html#a9b77f94f112477509c3163945ceb8201", null ],
+    [ "JustSummoned", "d7/dd3/a16285.html#ab09c72c4ea50313c23a53d3862aeddea", null ],
+    [ "Reset", "d7/dd3/a16285.html#a0bda0f95bd97b9e755a745a8ea41ba49", null ],
+    [ "UpdateAI", "d7/dd3/a16285.html#a0a073e4c216985607aa51099044ff6c5", null ],
+    [ "WaypointReached", "d7/dd3/a16285.html#a44b06a6a977d20b03ed663f1090ed43c", null ],
+    [ "WaypointReached", "d7/dd3/a16285.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "DemoralizingShoutTimer", "d7/dd3/a16285.html#ab5d1786735adea4bce1bba8adf42a877", null ]
 ];

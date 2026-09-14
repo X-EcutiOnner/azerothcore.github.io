@@ -1,6 +1,7 @@
 var a16381 =
 [
-    [ "instance_ahnkahet_InstanceScript", "db/d41/a16385.html", "db/d41/a16385" ],
-    [ "instance_ahnkahet", "d8/dce/a16381.html#afbe11bc040019231878cf31cc357830b", null ],
-    [ "GetInstanceScript", "d8/dce/a16381.html#a8847099c88f11de363c45e27998f10b7", null ]
+    [ "npc_ahnkahar_nerubian", "d8/dce/a16381.html#ae18cdf09bae50751e266e95caf165f8e", null ],
+    [ "Reset", "d8/dce/a16381.html#a387831015ec8e4bc65cff8c8550bb176", null ],
+    [ "UpdateAI", "d8/dce/a16381.html#a9a773127e4f94bcdf142718355eae0e8", null ],
+    [ "uiSprintTimer", "d8/dce/a16381.html#a27a6f57a6b145cc595896d1ad453064f", null ]
 ];

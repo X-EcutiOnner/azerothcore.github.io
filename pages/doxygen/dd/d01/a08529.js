@@ -1,7 +1,7 @@
 var a08529 =
 [
-    [ "entry", "dd/d01/a08529.html#ad0d74d6216c9b6cb6fbeda55fb002072", null ],
-    [ "pos", "dd/d01/a08529.html#af264c1262d9fcd204a2a536847a613b1", null ],
-    [ "respawnTime", "dd/d01/a08529.html#abeadd86c92a8c301626dde6943da1b9b", null ],
-    [ "rot", "dd/d01/a08529.html#a776668c1b71e0cf9f3e0f0619498ae72", null ]
+    [ "VendorItemCount", "dd/d01/a08529.html#abdf2d2900f75bb2b8d9727bab8fcbbc3", null ],
+    [ "count", "dd/d01/a08529.html#aff4c062138792ffb37dadb19b725c87c", null ],
+    [ "itemId", "dd/d01/a08529.html#a225158bbb56d6666ba4918155f08f993", null ],
+    [ "lastIncrementTime", "dd/d01/a08529.html#a0b88ba4ea590abbdc9234ff4a2a335fa", null ]
 ];

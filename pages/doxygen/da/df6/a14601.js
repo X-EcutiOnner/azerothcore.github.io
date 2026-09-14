@@ -1,13 +1,9 @@
 var a14601 =
 [
-    [ "npc_ohganAI", "da/df6/a14601.html#a43f7fa66ff39bca177d30fc1d0d78080", null ],
-    [ "JustDied", "da/df6/a14601.html#a89e506868e3191362545e34d21528b8f", null ],
-    [ "JustEngagedWith", "da/df6/a14601.html#a5b6171794c5b49e8ee439de7bdc51ba5", null ],
-    [ "KilledUnit", "da/df6/a14601.html#a4e202eef928e54bd52160705bba5cc35", null ],
-    [ "Reset", "da/df6/a14601.html#ac3e1bc9dc819138741eb3b4448051547", null ],
-    [ "SetGUID", "da/df6/a14601.html#a575531a144c46ae3084e56e452125f16", null ],
-    [ "UpdateAI", "da/df6/a14601.html#aea7c169bc2b7c52ff7d4d9a5dd7a6f0a", null ],
-    [ "_scheduler", "da/df6/a14601.html#a838f1354e24c47e1c52e4b50e2b93c85", null ],
-    [ "instance", "da/df6/a14601.html#aeb6f6bddf881edf818fdc31fc639d5d5", null ],
-    [ "reviveGUID", "da/df6/a14601.html#afc066ae0c6d370f6632408b08de3c3bb", null ]
+    [ "boss_hazzarah", "da/df6/a14601.html#a73ba49b91addc9c03e1692587fe66a52", null ],
+    [ "CanAIAttack", "da/df6/a14601.html#a9038a5b4276fda8a6865217a7c494eec", null ],
+    [ "JustEngagedWith", "da/df6/a14601.html#a18e382c03ff923bb851a9cd8e2541788", null ],
+    [ "JustSummoned", "da/df6/a14601.html#a1c3969fbc027f054598ec4123abd6fa4", null ],
+    [ "SummonedCreatureDies", "da/df6/a14601.html#aac0c990013edf1968d33aeb59d4f05b0", null ],
+    [ "UpdateAI", "da/df6/a14601.html#a61d92f1650a84ed9684d33879e54bd09", null ]
 ];

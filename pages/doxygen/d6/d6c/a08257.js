@@ -1,5 +1,6 @@
 var a08257 =
 [
-    [ "ThreatReferenceImpl", "d6/d6c/a08257.html#ae69492bf301cc65e2554ac6d46039086", null ],
-    [ "_handle", "d6/d6c/a08257.html#a500806ed499b69bcae1d9a05071dea2c", null ]
+    [ "value_type", "d6/d6c/a08257.html#a8ce1d08e5d320ef2c6301475fba4a7c2", null ],
+    [ "StoreTo", "d6/d6c/a08257.html#ac01b3840e65515853e26c16dd3caaf58", null ],
+    [ "tag", "d6/d6c/a08257.html#abd9c16378ed02e10a25cd45111e6fc69", null ]
 ];

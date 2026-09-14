@@ -1,5 +1,8 @@
 var a20965 =
 [
-    [ "achievement_nerf_engineering", "d7/db5/a20965.html#ad8e1eadd635c7a5025e545053b52904f", null ],
-    [ "OnCheck", "d7/db5/a20965.html#aefe01bfba3347be8a01bf5a398865cb6", null ]
+    [ "npc_scrapbot", "d7/db5/a20965.html#a088bac1bf5cb91be8f18368c08c5414a", null ],
+    [ "Reset", "d7/db5/a20965.html#a2dca509a6e2b46674165e5559717f69c", null ],
+    [ "UpdateAI", "d7/db5/a20965.html#ade90c75baf598900adaa300cef28cb6a", null ],
+    [ "_instance", "d7/db5/a20965.html#afb8296b4d9105ee99abc534656289ae2", null ],
+    [ "_scheduler", "d7/db5/a20965.html#a4deb841588ea244e4290bb8ffb69b483", null ]
 ];

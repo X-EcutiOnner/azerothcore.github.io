@@ -1,4 +1,6 @@
 var a21865 =
 [
-    [ "operator()", "de/dbf/a21865.html#a8176fb574f0eac852ed3528dcadac288", null ]
+    [ "npc_hourglass_of_eternityAI", "d9/d02/a21869.html", "d9/d02/a21869" ],
+    [ "npc_hourglass_of_eternity", "de/dbf/a21865.html#a40500ff582ead06bd646be86baad7d35", null ],
+    [ "GetAI", "de/dbf/a21865.html#a6cdec424e78e5c9decac73d091eec0ed", null ]
 ];

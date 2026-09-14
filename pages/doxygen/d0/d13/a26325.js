@@ -1,6 +1,6 @@
 var a26325 =
 [
-    [ "OnRemove", "d0/d13/a26325.html#a3803e6bbdb17e9a848376481581c993d", null ],
-    [ "PrepareAuraScript", "d0/d13/a26325.html#a6f1340b824af4604e310666e89d05b7a", null ],
-    [ "Register", "d0/d13/a26325.html#a3b361a478f1c035b706ac2e17499fb37", null ]
+    [ "CalculateDamage", "d0/d13/a26325.html#a05c6a249b32f41d8d33b40d07bd3c44d", null ],
+    [ "PrepareSpellScript", "d0/d13/a26325.html#ace682a64f3ca32e4f4151034ad936ea6", null ],
+    [ "Register", "d0/d13/a26325.html#a6dc3beb1f857c2c2a719bd882cc3568d", null ]
 ];

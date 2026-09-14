@@ -1,6 +1,7 @@
 var a20873 =
 [
-    [ "OnPeriodic", "d2/d21/a20873.html#a418b37f00a8a48d0a4362fd5381797bf", null ],
-    [ "PrepareAuraScript", "d2/d21/a20873.html#a60c0d5d67de6e3224cba34599acc3e69", null ],
-    [ "Register", "d2/d21/a20873.html#a92fb0160f7a16e6cb6b9c928b744f5e0", null ]
+    [ "HandleFused", "d2/d21/a20873.html#ab5ea77be32486664ff6c5ff7dc01f7dd", null ],
+    [ "PrepareAuraScript", "d2/d21/a20873.html#a438c63656d2a976883fa13232cc5dc6e", null ],
+    [ "Register", "d2/d21/a20873.html#a17300c74645f9298d8422535a61fe077", null ],
+    [ "Validate", "d2/d21/a20873.html#a55ca732a3d0e3a69f055fd915037a5f0", null ]
 ];

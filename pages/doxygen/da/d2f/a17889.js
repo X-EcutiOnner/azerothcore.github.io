@@ -1,7 +1,7 @@
 var a17889 =
 [
-    [ "HandleDummy", "da/d2f/a17889.html#a89c0706f21fe92fd443c3638181044ec", null ],
-    [ "PrepareSpellScript", "da/d2f/a17889.html#a957e29d2458fd90228ef9c53e997c642", null ],
-    [ "Register", "da/d2f/a17889.html#a250c95310503cd59d73e45a9b9372268", null ],
-    [ "Validate", "da/d2f/a17889.html#a1c67a262eb95def51661919a3bad3437", null ]
+    [ "OnProc", "da/d2f/a17889.html#a5b6e96abb900da33657cdbbd137138e3", null ],
+    [ "PrepareAuraScript", "da/d2f/a17889.html#a5502476536a923e77af67c4bbcf005e3", null ],
+    [ "Register", "da/d2f/a17889.html#aca08edf219504156d6157c95702bb815", null ],
+    [ "Validate", "da/d2f/a17889.html#a52b1231f37e8b3d810614365659a98b6", null ]
 ];

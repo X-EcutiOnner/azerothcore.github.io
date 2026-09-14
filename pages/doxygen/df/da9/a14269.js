@@ -1,7 +1,27 @@
 var a14269 =
 [
-    [ "boss_blight_wormAI", "df/da9/a14269.html#af267e395fbd539f871e498dc6745c610", null ],
-    [ "Reset", "df/da9/a14269.html#a96e27eaba5c9e422981d78123ed9c83d", null ],
-    [ "UpdateAI", "df/da9/a14269.html#ac8e4c5a7a251173a2afb369498c88a1d", null ],
-    [ "_events", "df/da9/a14269.html#a65f7fd4f73c727eeb5988d7ec77b94ce", null ]
+    [ "npc_highlord_darion_mograine", "df/da9/a14269.html#a4cb9fe5dfd71a43ef26e507d89447eff", null ],
+    [ "DoAction", "df/da9/a14269.html#a03dba6d9ce356bb83b3cc4b7b301c040", null ],
+    [ "FinishFight", "df/da9/a14269.html#a252c88447aea37a91556507c3decd99d", null ],
+    [ "GetData", "df/da9/a14269.html#ad82b05e51766c3a4c31c72c9f60596a1", null ],
+    [ "GetEntryFromSummons", "df/da9/a14269.html#a0eb1adec635b224a8e4f041606d46856", null ],
+    [ "JustDied", "df/da9/a14269.html#a707c15d931651ea85437c259a1a84971", null ],
+    [ "JustEngagedWith", "df/da9/a14269.html#aa07c3ee6c928cb383ce4904f81215e52", null ],
+    [ "JustRespawned", "df/da9/a14269.html#a918e690e583f56b614c40962e6f03584", null ],
+    [ "JustSummoned", "df/da9/a14269.html#ad1412213e4b7798b8d57e494d2804d6f", null ],
+    [ "MovementInform", "df/da9/a14269.html#a1b9fd81e5da9464338f31f5f8c90cdfa", null ],
+    [ "Reset", "df/da9/a14269.html#aaff5b7f078177efc4e4bf1f7201fd7a8", null ],
+    [ "SendInitialWorldStates", "df/da9/a14269.html#a646eff2f368a7dbd621f6a630b303436", null ],
+    [ "SendUpdateWorldState", "df/da9/a14269.html#a3be4356e7114fdcaf343d64ff101dbcf", null ],
+    [ "sGossipHello", "df/da9/a14269.html#aadce21a79e49b42c8bf950408f7055c7", null ],
+    [ "sGossipSelect", "df/da9/a14269.html#a9acef8952a1963862117f2f2442d5bc4", null ],
+    [ "SummonedCreatureDies", "df/da9/a14269.html#a97316e53810639305928a489e940a924", null ],
+    [ "UpdateAI", "df/da9/a14269.html#a7a19ac34b9968eeb5de9881ae8754d9b", null ],
+    [ "battleStarted", "df/da9/a14269.html#affef58a695b73f2e17b48da915125425", null ],
+    [ "defendersRemaining", "df/da9/a14269.html#ae0cbe16959c269a86a28aeda681048e9", null ],
+    [ "events", "df/da9/a14269.html#ac73f0fa5d4f25080e81f04832fff149e", null ],
+    [ "resetExecuted", "df/da9/a14269.html#abce72b1d643e2468f980e554eb5bbc78", null ],
+    [ "scourgeRemaining", "df/da9/a14269.html#a03ffe1ba56d04252ba86fb92c2a17cc3", null ],
+    [ "startTimeRemaining", "df/da9/a14269.html#aeb08e9ca11dd9aeedbc7079182c5a534", null ],
+    [ "summons", "df/da9/a14269.html#a7eb1df2352397d310c103021fb9cf6aa", null ]
 ];

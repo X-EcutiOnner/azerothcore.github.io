@@ -1,6 +1,6 @@
 var a15081 =
 [
-    [ "OnAuraRemove", "dd/dfe/a15081.html#ad16e8b64999771154360afad71454c07", null ],
-    [ "PrepareAuraScript", "dd/dfe/a15081.html#a70963be80861e10ecd093e40b77e7078", null ],
-    [ "Register", "dd/dfe/a15081.html#a7381cbea873fb57485e4539aa478d236", null ]
+    [ "HandleAfterEffectApply", "dd/dfe/a15081.html#a54b406a450bb2b56cd32ee152ea1414e", null ],
+    [ "PrepareAuraScript", "dd/dfe/a15081.html#a917379c33352721b5b76c1d9dac0c025", null ],
+    [ "Register", "dd/dfe/a15081.html#a846d79564d76d6000c2276045775d7da", null ]
 ];

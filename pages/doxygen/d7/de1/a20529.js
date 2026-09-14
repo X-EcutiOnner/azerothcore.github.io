@@ -1,8 +1,8 @@
 var a20529 =
 [
-    [ "HandleAfterEffectApply", "d7/de1/a20529.html#ac8b5cddcf66c1f43c4ab0461354e97f1", null ],
-    [ "HandleProc", "d7/de1/a20529.html#a2ee2121d3d55bf6067de985e8d999de2", null ],
-    [ "PrepareAuraScript", "d7/de1/a20529.html#a439799df0d6ca43e6a81930e3e4b5334", null ],
-    [ "Register", "d7/de1/a20529.html#adce13201dd11c6ba83883b12ad32d1f6", null ],
-    [ "Validate", "d7/de1/a20529.html#a30733bf8ca4d619d6eafafa78df4c0f7", null ]
+    [ "npc_ulduar_flash_freeze", "d7/de1/a20529.html#a3ee1762e2e3a8a180cb38fad26b70002", null ],
+    [ "DamageTaken", "d7/de1/a20529.html#af381d671e1b64c6135ed6c76b1eef213", null ],
+    [ "UpdateAI", "d7/de1/a20529.html#a2e3d6fdf6366b71b6696e567da912c1d", null ],
+    [ "_instance", "d7/de1/a20529.html#ab02f8319a4f2aa0b6c9e5a0134de73fc", null ],
+    [ "timer", "d7/de1/a20529.html#a016272492e1843b09c7c8b40537a463a", null ]
 ];

@@ -1,4 +1,4 @@
 var a00782 =
 [
-    [ "ScriptRegistry< InstanceMapScript >", "da/d96/a00782.html#a1271f70bb9300f8012216659f38edaee", null ]
+    [ "ScriptRegistry< BattlegroundScript >", "da/d96/a00782.html#a954046a61096ecb9db321b0a35da5f77", null ]
 ];

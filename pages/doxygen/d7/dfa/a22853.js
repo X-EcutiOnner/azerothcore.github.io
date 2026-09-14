@@ -1,6 +1,7 @@
 var a22853 =
 [
-    [ "HandleScriptEffect", "d7/dfa/a22853.html#aa60961c2609184e739dea3be8ba992d5", null ],
-    [ "PrepareSpellScript", "d7/dfa/a22853.html#aacde592314399112786b024153389024", null ],
-    [ "Register", "d7/dfa/a22853.html#a3a2299da6fd73d14c7771e7a2c8a4ebd", null ]
+    [ "HandleOnHit", "d7/dfa/a22853.html#a5eee46784bfbeaad3a9af069ca7f69a7", null ],
+    [ "PrepareSpellScript", "d7/dfa/a22853.html#a734b735c7e87938bff185be91f9de6e8", null ],
+    [ "Register", "d7/dfa/a22853.html#a1cc140d2b5487e9dbbf107025e09e51d", null ],
+    [ "Validate", "d7/dfa/a22853.html#a162f60784fdec6b748151e5c2a7ed257", null ]
 ];

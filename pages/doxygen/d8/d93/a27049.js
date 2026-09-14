@@ -1,6 +1,8 @@
 var a27049 =
 [
-    [ "CheckDummy", "d8/d93/a27049.html#ad2f75ba479a8523b0fffaae86204a25c", null ],
-    [ "PrepareAuraScript", "d8/d93/a27049.html#a7cd3757fddecca39b1b0bd95bb2b8e5b", null ],
-    [ "Register", "d8/d93/a27049.html#af0b1e469fec71b28ca349b9be9c6fdd7", null ]
+    [ "HandleApplyEffect", "d8/d93/a27049.html#a50102ae92f44fd7c2bd9afc3fec5a291", null ],
+    [ "Load", "d8/d93/a27049.html#ab6ba9d68b968ae41ee9c9869df686f02", null ],
+    [ "PrepareAuraScript", "d8/d93/a27049.html#a6e212284f72320356cfa2f0c2a59999d", null ],
+    [ "Register", "d8/d93/a27049.html#afcdd6cc19b59b5e6aa0cfdb9189edc99", null ],
+    [ "Validate", "d8/d93/a27049.html#a985a52f71371443454d6dd36f7fe83b2", null ]
 ];

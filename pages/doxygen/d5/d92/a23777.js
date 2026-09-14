@@ -1,5 +1,6 @@
 var a23777 =
 [
-    [ "at_shattered_halls_execution", "d5/d92/a23777.html#a73f1d1f03960acd070b7996257f7a526", null ],
-    [ "OnTrigger", "d5/d92/a23777.html#ad35f9736371b091dc0780e5bf0caf9f5", null ]
+    [ "instance_magtheridons_lair_InstanceMapScript", "d0/db8/a23781.html", "d0/db8/a23781" ],
+    [ "instance_magtheridons_lair", "d5/d92/a23777.html#a9bc61758478dc18ba413264eec2e3ca3", null ],
+    [ "GetInstanceScript", "d5/d92/a23777.html#a6c9cc959cf4f294e6173d244f54bcd02", null ]
 ];

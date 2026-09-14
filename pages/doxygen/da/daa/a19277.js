@@ -1,6 +1,7 @@
 var a19277 =
 [
-    [ "npc_icc_skybreaker_marksmanAI", "dc/d86/a19281.html", "dc/d86/a19281" ],
-    [ "npc_icc_skybreaker_marksman", "da/daa/a19277.html#a1d870b78e1acf2d17782265e28698d1c", null ],
-    [ "GetAI", "da/daa/a19277.html#a374017d37da15705d51ab8edc75683ff", null ]
+    [ "HandleScript", "da/daa/a19277.html#a87a2b32a9a20f032157df5ddb2cd9979", null ],
+    [ "PrepareSpellScript", "da/daa/a19277.html#a9aca3a2a981a0cb61569200d77ca527a", null ],
+    [ "Register", "da/daa/a19277.html#afb0289c9906d0383a22dfd0e848573f8", null ],
+    [ "Validate", "da/daa/a19277.html#a69344370af56f033e1c1ba16f4dee174", null ]
 ];

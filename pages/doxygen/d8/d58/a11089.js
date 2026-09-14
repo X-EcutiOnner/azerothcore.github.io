@@ -1,8 +1,8 @@
 var a11089 =
 [
-    [ "GuildCommandResult", "d8/d58/a11089.html#a9b82d7f9fe8f9b42fb4ed74c14cba03d", null ],
-    [ "Write", "d8/d58/a11089.html#a621e211342b3bf9b5de01a9a3b66291b", null ],
-    [ "Command", "d8/d58/a11089.html#a099cf9f39c403f76971d006245b03f29", null ],
-    [ "Name", "d8/d58/a11089.html#a122ee78cb5fc38aa7ecd7a2cad8a33cc", null ],
-    [ "Result", "d8/d58/a11089.html#a8b6b2127aa39807a61bf0cc3cce15921", null ]
+    [ "SAttackStop", "d8/d58/a11089.html#ad3ca327e00c9df8d947cdda3eb2f5eb3", null ],
+    [ "Write", "d8/d58/a11089.html#ae2143b20488064400c306004ee678a89", null ],
+    [ "Attacker", "d8/d58/a11089.html#a18e66148dc50a7ea7f98a57a122285ee", null ],
+    [ "NowDead", "d8/d58/a11089.html#a25cd247bb50f752c3230ad4b5f777b2d", null ],
+    [ "Victim", "d8/d58/a11089.html#a9ca02aaaab5d223a64f8ba0cec320e8e", null ]
 ];

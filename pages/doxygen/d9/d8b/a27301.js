@@ -1,8 +1,7 @@
 var a27301 =
 [
-    [ "HandleScript", "d9/d8b/a27301.html#a1e096b2b2f5a285e660f64fb133f4f8b", null ],
-    [ "Load", "d9/d8b/a27301.html#ad4e3fecb64bbb0f5c63b90d445c0b9f3", null ],
-    [ "PrepareSpellScript", "d9/d8b/a27301.html#a5c4b2a46dfd6bdc2d14ee02f673628c1", null ],
-    [ "Register", "d9/d8b/a27301.html#aa823af94e3366ae799ebaf03e52411dd", null ],
-    [ "Validate", "d9/d8b/a27301.html#ad6985954002f88436a2681e758f41fb2", null ]
+    [ "HandleScript", "d9/d8b/a27301.html#aa00117e677af1e236962c59b688d8a98", null ],
+    [ "Load", "d9/d8b/a27301.html#ad05b65848e35d87fb9ef1ae413de6256", null ],
+    [ "PrepareSpellScript", "d9/d8b/a27301.html#afbffeadede1cc7f08a0a52f4a7bee680", null ],
+    [ "Register", "d9/d8b/a27301.html#a52d4828ccd5430a622a32b1279943f9b", null ]
 ];

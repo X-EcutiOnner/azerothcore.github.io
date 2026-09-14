@@ -1,12 +1,6 @@
 var a16149 =
 [
-    [ "npc_toogaAI", "da/db3/a16149.html#a4db363c7e787f5fbbd61b418cfa87367", null ],
-    [ "MoveInLineOfSight", "da/db3/a16149.html#aff15508b97bce5f5fad9cf9750e89ff1", null ],
-    [ "MovementInform", "da/db3/a16149.html#a9315e8ba2688903aaf5b871a7490a700", null ],
-    [ "Reset", "da/db3/a16149.html#acfedaf5cc989451a4259a65661685f66", null ],
-    [ "UpdateFollowerAI", "da/db3/a16149.html#a742791e714be1ff713ab87e7d515bd9e", null ],
-    [ "CheckSpeechTimer", "da/db3/a16149.html#a938852d834c5eb8ba4abceaf49e9a5da", null ],
-    [ "PhasePostEvent", "da/db3/a16149.html#a4996291afa64e35f3604b2a85ea03dda", null ],
-    [ "PostEventTimer", "da/db3/a16149.html#abea9fa4d2623dab4f14978a7f94b595f", null ],
-    [ "TortaGUID", "da/db3/a16149.html#a4531aa0e2c7fe7f3207e56fc2ed67c25", null ]
+    [ "npc_anachronos_quest_triggerAI", "d6/d1b/a16153.html", "d6/d1b/a16153" ],
+    [ "npc_anachronos_quest_trigger", "da/db3/a16149.html#ad39871952acd3152b51820fe360f4ebd", null ],
+    [ "GetAI", "da/db3/a16149.html#a2e0e6a69ed1cbed76db9c4bd64d51330", null ]
 ];

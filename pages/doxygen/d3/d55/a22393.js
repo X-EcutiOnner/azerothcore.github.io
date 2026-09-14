@@ -1,14 +1,17 @@
 var a22393 =
 [
-    [ "npc_wild_wyrm", "d3/d55/a22393.html#a7adb3a9f2d17c55995218219c2af13a6", null ],
-    [ "DamageTaken", "d3/d55/a22393.html#a0ff51f46c203f3b1b8dea063463c5c4d", null ],
-    [ "DoAction", "d3/d55/a22393.html#afdd165233995f79aa9ec82d7c2c1f258", null ],
-    [ "InitSpellsForPhase", "d3/d55/a22393.html#adcc805b0880d95c185af4a587474c2d2", null ],
-    [ "MovementInform", "d3/d55/a22393.html#aeaa4f0327f06ee67a63fd15b914ffac8", null ],
-    [ "PassengerBoarded", "d3/d55/a22393.html#a362052015873c615448bec978d744c9e", null ],
-    [ "Reset", "d3/d55/a22393.html#a2e826c49b41a389ddfbeac3d3c7933f5", null ],
-    [ "SpellHit", "d3/d55/a22393.html#a3d12d555ab7c992ca37e826609b3cd72", null ],
-    [ "UpdateAI", "d3/d55/a22393.html#adbbf5b93476eef2ef54f51d2523a726e", null ],
-    [ "_phase", "d3/d55/a22393.html#a7fa0ac4d2feaf62b08c4667c8f0b7474", null ],
-    [ "_playerGuid", "d3/d55/a22393.html#ade2cc59d0afcf5ebfd7c6fbd694e0809", null ]
+    [ "npc_frosthound", "d3/d55/a22393.html#a90dc4d1debb64354154760b52f8b1129", null ],
+    [ "AttackStart", "d3/d55/a22393.html#adf6969c7670584747e407a3bede8c928", null ],
+    [ "EnterEvadeMode", "d3/d55/a22393.html#ad0a16989c8c65eaa58deec6f885719f3", null ],
+    [ "JustDied", "d3/d55/a22393.html#a5a20cbca9da2f80c02d0697c84689c7a", null ],
+    [ "JustEngagedWith", "d3/d55/a22393.html#a8c9d22bfd32c12b3cf60f89f6856b5a5", null ],
+    [ "JustSummoned", "d3/d55/a22393.html#a93858959a06e4f1aa014fca3044949bc", null ],
+    [ "OnCharmed", "d3/d55/a22393.html#aaf081193bdae7ef30c153a3d40dcefe7", null ],
+    [ "PassengerBoarded", "d3/d55/a22393.html#a0126be35e4bbb613c9e0a1a04bef3681", null ],
+    [ "Reset", "d3/d55/a22393.html#ac2056fafcb04a827c83bc199a89a8a74", null ],
+    [ "UpdateAI", "d3/d55/a22393.html#ab163e819369b6b90b5782ab8d1cecbaf", null ],
+    [ "WaypointReached", "d3/d55/a22393.html#a9f6238bd211a1a465815c8cdd9bac1d2", null ],
+    [ "WaypointReached", "d3/d55/a22393.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_completionWaypoint", "d3/d55/a22393.html#adfeb6a7a2755ebc0d1252cedf0f54727", null ],
+    [ "_summons", "d3/d55/a22393.html#a103a499ecce73bc4505a85a21c143e73", null ]
 ];

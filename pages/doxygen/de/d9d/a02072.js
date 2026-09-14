@@ -1,9 +1,12 @@
 var a02072 =
 [
-    [ "FactorySelector::PermissibleOrderPred< T >", "d4/d42/a06585.html", "d4/d42/a06585" ],
-    [ "GetPermitFor", "de/d9d/a02072.html#aaf9c138ae6c123d03859db553a39892d", null ],
-    [ "SelectAI", "de/d9d/a02072.html#a10fef1ff3335f4642179ee423b1ff0d6", null ],
-    [ "SelectFactory", "de/d9d/a02072.html#ad553c2186f078e696768d40d217738f8", null ],
-    [ "SelectGameObjectAI", "de/d9d/a02072.html#a2ce404e9b85f551638d8783c01a19860", null ],
-    [ "SelectMovementGenerator", "de/d9d/a02072.html#a203d17bf72c42c0d3fdb77626b01b679", null ]
+    [ "Escort_Waypoint", "df/daa/a06665.html", "df/daa/a06665" ],
+    [ "npc_escortAI", "d8/dde/a06669.html", "d8/dde/a06669" ],
+    [ "DEFAULT_MAX_PLAYER_DISTANCE", "de/d9d/a02072.html#ad23dc39ce2da634e67360fab90e3b9e2", null ],
+    [ "eEscortState", "de/d9d/a02072.html#af40ca4990501264cb0359ab6d93fb08a", [
+      [ "STATE_ESCORT_NONE", "de/d9d/a02072.html#af40ca4990501264cb0359ab6d93fb08aa7cc35d82589d473e8265c67eccc9ecd5", null ],
+      [ "STATE_ESCORT_ESCORTING", "de/d9d/a02072.html#af40ca4990501264cb0359ab6d93fb08aa276eb485ebaeb34de738a76731763b92", null ],
+      [ "STATE_ESCORT_RETURNING", "de/d9d/a02072.html#af40ca4990501264cb0359ab6d93fb08aaae71d59813ca4d9bb6e84769e1eeec48", null ],
+      [ "STATE_ESCORT_PAUSED", "de/d9d/a02072.html#af40ca4990501264cb0359ab6d93fb08aa243ae0744c8bd5cc0191aaae1e3cb9f6", null ]
+    ] ]
 ];

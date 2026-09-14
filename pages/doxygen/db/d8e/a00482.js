@@ -1,5 +1,11 @@
 var a00482 =
 [
-    [ "Appender", "d5/dd3/a05695.html", "d5/dd3/a05695" ],
-    [ "InvalidAppenderArgsException", "d4/da5/a05699.html", "d4/da5/a05699" ]
+    [ "Movement::counter< T, limit >", "d3/df6/a10569.html", "d3/df6/a10569" ],
+    [ "UInt32Counter", "db/d8e/a00482.html#adebd21803156b193f9b8a733b6cbd3c7", null ],
+    [ "computeFallElevation", "db/d8e/a00482.html#a87260372150c8322b45e75bfaa445f14", null ],
+    [ "computeFallTime", "db/d8e/a00482.html#a40f989c23fe19e12628da3cd9e64edf4", null ],
+    [ "MSToSec", "db/d8e/a00482.html#aefc83834e7badc5f8450322da9567bd6", null ],
+    [ "SecToMS", "db/d8e/a00482.html#a418fff34f8aed72d6d80876be5a33c58", null ],
+    [ "gravity", "db/d8e/a00482.html#a15b376933a666c7f7c4600e62d7afe91", null ],
+    [ "splineIdGen", "db/d8e/a00482.html#a5149db3325f467381006d8d5df24a2a8", null ]
 ];

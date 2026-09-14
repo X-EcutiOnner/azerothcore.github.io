@@ -1,7 +1,6 @@
 var a11649 =
 [
-    [ "QuestLogSwapQuest", "d7/da4/a11649.html#a5c6cca2526e2a6b11b85e8ab7233436b", null ],
-    [ "Read", "d7/da4/a11649.html#a7fea7dac43d6988dff5f38218bceb626", null ],
-    [ "Slot1", "d7/da4/a11649.html#a5dd83b2c88a07236d8937b2d536d5056", null ],
-    [ "Slot2", "d7/da4/a11649.html#a9a98532db2a51821efc95b11b8379f28", null ]
+    [ "QuestUpdateComplete", "d7/da4/a11649.html#a1e6d102e4063facad1230b55d4048702", null ],
+    [ "Write", "d7/da4/a11649.html#a2ec714ac25e784446e8a614587bd79b3", null ],
+    [ "QuestId", "d7/da4/a11649.html#ac44a95d88d2970ee3e8bf0a8c57d578d", null ]
 ];

@@ -1,6 +1,5 @@
 var a16065 =
 [
-    [ "Creature", "d8/d9d/a16065.html#a77b33f8998f85808b58052079b1cab54", null ],
-    [ "TextId", "d8/d9d/a16065.html#ad691f3cd40035e96547adf7528229119", null ],
-    [ "Timer", "d8/d9d/a16065.html#accfccceaedffb3ad4d02231fb0bfeee5", null ]
+    [ "at_ancient_leaf", "d8/d9d/a16065.html#a7c1913b5ac00659697d0b361f1a7a2fd", null ],
+    [ "OnTrigger", "d8/d9d/a16065.html#a6d3a2775216cb0c864dc21f5bb5dbc79", null ]
 ];

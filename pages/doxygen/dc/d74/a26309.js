@@ -1,8 +1,7 @@
 var a26309 =
 [
-    [ "CheckQuest", "dc/d74/a26309.html#ab7ebff0894832ac009cda89b7c28e252", null ],
-    [ "HandleDummy", "dc/d74/a26309.html#a365df14504a54e95e7d68d22a284e441", null ],
-    [ "HandleOpenObject", "dc/d74/a26309.html#a69467afd49dc2429b8ba9640c8af5dfa", null ],
-    [ "PrepareSpellScript", "dc/d74/a26309.html#a479e313031a2e71473238d8f645bf2d4", null ],
-    [ "Register", "dc/d74/a26309.html#a70f1a91e611cc2092aad44a909cd53db", null ]
+    [ "HandleScript", "dc/d74/a26309.html#aad0be226a2d294d3361c1afbf644c5e4", null ],
+    [ "PrepareSpellScript", "dc/d74/a26309.html#a85dee311aab08d796a3a0c1bc9e9390d", null ],
+    [ "Register", "dc/d74/a26309.html#a2b22be9826db241ecf3f99ff16c309c0", null ],
+    [ "Validate", "dc/d74/a26309.html#a98df659504307fc0666fe2b1001eaa00", null ]
 ];

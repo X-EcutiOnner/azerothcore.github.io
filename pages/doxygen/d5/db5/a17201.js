@@ -1,5 +1,6 @@
 var a17201 =
 [
-    [ "achievement_oh_novos", "d5/db5/a17201.html#a31ca1f458c384401af107cb8f709ef61", null ],
-    [ "OnCheck", "d5/db5/a17201.html#a3b922d9ed709ed46edca794f5ccf858f", null ]
+    [ "HandleEffectPeriodic", "d5/db5/a17201.html#a8775f4e2cb6be96f57596413d560206c", null ],
+    [ "PrepareAuraScript", "d5/db5/a17201.html#a45118f9887d248a5eb840b945dee5b79", null ],
+    [ "Register", "d5/db5/a17201.html#ad1b2b8e1dca62c31ec2b071ae4ca2f35", null ]
 ];

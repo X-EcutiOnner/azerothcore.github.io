@@ -1,10 +1,9 @@
 var a09281 =
 [
-    [ "mapId", "db/dd1/a09281.html#a828d8b93918ea8ba695e0c5e597c855d", null ],
-    [ "name", "db/dd1/a09281.html#a9dd0dacb5825cf3afd117c22ac5ebf21", null ],
-    [ "orientation", "db/dd1/a09281.html#a49b4a83290dbe39ab0be79a8ae2f03a6", null ],
-    [ "position_x", "db/dd1/a09281.html#a65e7390a1dbb615a155c4f163b830e11", null ],
-    [ "position_y", "db/dd1/a09281.html#a3d3f398cd23566dce721fefeae7af33c", null ],
-    [ "position_z", "db/dd1/a09281.html#a9ff9a74b00016df6df7c27ebce8ff3fb", null ],
-    [ "wnameLow", "db/dd1/a09281.html#ac63cbb609eadc584fe61d33fb709c4d6", null ]
+    [ "GameEventAIHookWorker", "db/dd1/a09281.html#ad72640a18d2d32a9201c965089ee49cf", null ],
+    [ "Visit", "db/dd1/a09281.html#a23d979ee43838e7d58e9123e36474a5a", null ],
+    [ "Visit", "db/dd1/a09281.html#a79106ec550d072d690bbf3496d76cb0a", null ],
+    [ "Visit", "db/dd1/a09281.html#a165476edd8b252bbb90b8b78fae963a6", null ],
+    [ "_activate", "db/dd1/a09281.html#a756665eafa08f3c8c51ccef69bdd619f", null ],
+    [ "_eventId", "db/dd1/a09281.html#ab1ee68bb7134e84780772eba2cfac766", null ]
 ];

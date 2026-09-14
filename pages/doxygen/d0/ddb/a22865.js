@@ -1,7 +1,9 @@
 var a22865 =
 [
-    [ "OnPeriodic", "d0/ddb/a22865.html#aa5d2f7530277a6a4d4a85ec5d244b9bc", null ],
-    [ "PrepareAuraScript", "d0/ddb/a22865.html#a973ccf17f6499bc84306a18b07fcef7b", null ],
-    [ "Register", "d0/ddb/a22865.html#a07b3b1df6626a9fb657270eb1d9f386a", null ],
-    [ "Validate", "d0/ddb/a22865.html#a006d67e9e82cce68930b90b00d3555a4", null ]
+    [ "instance_shadow_labyrinth_InstanceMapScript", "d0/ddb/a22865.html#ada5f19c96bfe623b110389ede032ef53", null ],
+    [ "GetData", "d0/ddb/a22865.html#ad876ebd581c470f5a3075129076bd1fb", null ],
+    [ "Initialize", "d0/ddb/a22865.html#a9dc908fdaef98aa6eb81fd1709eee9e4", null ],
+    [ "OnCreatureCreate", "d0/ddb/a22865.html#a118b4a7a7c872327ec2868c5b0417636", null ],
+    [ "OnUnitDeath", "d0/ddb/a22865.html#a4275afcc93c5281d9865601a2d9dabaa", null ],
+    [ "_ritualistsAliveCount", "d0/ddb/a22865.html#a7752d5bfe1d1c5eef2c450df7677a69e", null ]
 ];

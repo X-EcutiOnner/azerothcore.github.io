@@ -1,19 +1,12 @@
 var a14377 =
 [
-    [ "boss_nalorakk", "dc/deb/a14377.html#a4dd18b28685e3dac2406c4e3d8be95aa", null ],
-    [ "CheckAnyEvadeGroup", "dc/deb/a14377.html#a2ef7e2a115b8f2292580c88ff55bb797", null ],
-    [ "CheckFullyDeadGroup", "dc/deb/a14377.html#a0754b8a39fd26f5fb026f9460faa17aa", null ],
-    [ "GroupedAttack", "dc/deb/a14377.html#a249f35697e422a7e7e8a583f85cc97b1", null ],
-    [ "JustDied", "dc/deb/a14377.html#a6f79e518e3a356e0f6093afa8c438fe5", null ],
-    [ "JustEngagedWith", "dc/deb/a14377.html#a1d3c302161e8666c0343d449727c35a9", null ],
-    [ "MoveInLineOfSight", "dc/deb/a14377.html#a3455e91061cfb9ea03712b8006d298df", null ],
-    [ "Reset", "dc/deb/a14377.html#a85093d79b866ceff41357dde22e06867", null ],
-    [ "ShapeShift", "dc/deb/a14377.html#a78b12658138455ccddd9c62b6c7e26dd", null ],
-    [ "UpdateAI", "dc/deb/a14377.html#a4cf5656619dd9339000236ed6b006c90", null ],
-    [ "_active", "dc/deb/a14377.html#a8825e186d58b8f6bbd39976e013ee114", null ],
-    [ "_bearForm", "dc/deb/a14377.html#aa76da1d9912aaa97242f5d27e567e895", null ],
-    [ "_introScheduler", "dc/deb/a14377.html#ac654307d732ac59155321008418f8c90", null ],
-    [ "_phase", "dc/deb/a14377.html#a390142234210027d37f5e4ec7cea84ae", null ],
-    [ "_ranIntro", "dc/deb/a14377.html#a78bd5a9970ab205d9553ed5746a42066", null ],
-    [ "_waveList", "dc/deb/a14377.html#a6093dac3b1353a047174e5aae98c13d6", null ]
+    [ "npc_tapoke_slim_jahnAI", "dc/deb/a14377.html#aeb2bca4d3233d8790b1ccfdd559f2e41", null ],
+    [ "AttackedBy", "dc/deb/a14377.html#a25bf491c19fe0bb3116c6df46cb370e5", null ],
+    [ "DamageTaken", "dc/deb/a14377.html#a3dbb7abb6559a6f853cc77423d7153e9", null ],
+    [ "JustEngagedWith", "dc/deb/a14377.html#a544b8eaee365217a4a735ed39b4607b2", null ],
+    [ "JustSummoned", "dc/deb/a14377.html#ae468305fbe930baf0a1547f2e6de9953", null ],
+    [ "Reset", "dc/deb/a14377.html#a5aeaa5511584d1095639e7df584019c5", null ],
+    [ "WaypointReached", "dc/deb/a14377.html#a886ba3133f77a93cfae9c4a7e9fb0609", null ],
+    [ "WaypointReached", "dc/deb/a14377.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "IsFriendSummoned", "dc/deb/a14377.html#a1e4291187ff400e6f326ef4acbff41ee", null ]
 ];

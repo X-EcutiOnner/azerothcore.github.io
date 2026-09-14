@@ -1,9 +1,20 @@
 var a30293 =
 [
-    [ "MapTiles", "de/df9/a30293.html#abc58d7154eab45ae26df27e2e82dac63", null ],
-    [ "MapTiles", "de/df9/a30293.html#a406efc53593b5bceb0a491c0b7553350", null ],
-    [ "~MapTiles", "de/df9/a30293.html#aec1baac21c06380ba71ff5e610152519", null ],
-    [ "operator==", "de/df9/a30293.html#a3e7a87f421e8eb23926afe1d0978c3b4", null ],
-    [ "m_mapId", "de/df9/a30293.html#a2fc10edf226a6f4548c2175e1013c1b9", null ],
-    [ "m_tiles", "de/df9/a30293.html#ab80305bb73234e35a528701d775954b5", null ]
+    [ "FileLoader", "de/df9/a30293.html#a51313b536560d1d89d8350475d2bc749", null ],
+    [ "~FileLoader", "de/df9/a30293.html#a0954776182dd01364bdb216539ce398b", null ],
+    [ "FileLoader", "de/df9/a30293.html#a51313b536560d1d89d8350475d2bc749", null ],
+    [ "~FileLoader", "de/df9/a30293.html#a0954776182dd01364bdb216539ce398b", null ],
+    [ "free", "de/df9/a30293.html#a738aeb2ebe751c9fc75013dbce30dcc4", null ],
+    [ "free", "de/df9/a30293.html#aef98564821c8e63b6d484179cda0b380", null ],
+    [ "GetData", "de/df9/a30293.html#aed85cdbd6a4e52096292c6ed8578f7bd", null ],
+    [ "GetData", "de/df9/a30293.html#aed85cdbd6a4e52096292c6ed8578f7bd", null ],
+    [ "GetDataSize", "de/df9/a30293.html#a2a07adb0692a51af06ccd31d449ae444", null ],
+    [ "GetDataSize", "de/df9/a30293.html#a2a07adb0692a51af06ccd31d449ae444", null ],
+    [ "loadFile", "de/df9/a30293.html#a11908109042f93ddde393e7a874683c9", null ],
+    [ "loadFile", "de/df9/a30293.html#a11908109042f93ddde393e7a874683c9", null ],
+    [ "prepareLoadedData", "de/df9/a30293.html#ab66347098d7c9ac470339c232f9b7588", null ],
+    [ "prepareLoadedData", "de/df9/a30293.html#a498a33d80768843b4ab1ff2d5ffe68d9", null ],
+    [ "data", "de/df9/a30293.html#aff1880ac2038f17f4d1f63bc9f7d9afd", null ],
+    [ "data_size", "de/df9/a30293.html#a355891fc980538e74080b9b83a95dec8", null ],
+    [ "version", "de/df9/a30293.html#a41cedec185e5909d83c8a185d1476dee", null ]
 ];

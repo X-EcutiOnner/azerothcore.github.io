@@ -1,7 +1,6 @@
 var a05042 =
 [
-    [ "Acore::Impl::MPSCQueueNonIntrusive< T >", "db/dcc/a05753.html", "db/dcc/a05753" ],
-    [ "Acore::Impl::MPSCQueueNonIntrusive< T >::Node", "db/da0/a05757.html", "db/da0/a05757" ],
-    [ "Acore::Impl::MPSCQueueIntrusive< T, IntrusiveLink >", "d9/d6a/a05761.html", "d9/d6a/a05761" ],
-    [ "MPSCQueue", "de/dda/a05042.html#a6443361dced56bb64db991f954b2df47", null ]
+    [ "mean", "de/dda/a05042.html#a64ba279a3d3edca415239118167c0206", null ],
+    [ "median", "de/dda/a05042.html#a4840fd449eb626bea901860e4c1be22a", null ],
+    [ "standard_deviation", "de/dda/a05042.html#a60ce9c7718ec2901f037e2368f93026d", null ]
 ];

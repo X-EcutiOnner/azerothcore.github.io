@@ -1,11 +1,6 @@
 var a16433 =
 [
-    [ "spell_hadronox_summon_periodic_aura", "d6/d0c/a16433.html#a80cbba741e8005a89a1bbf47a5fc82fb", null ],
-    [ "HandlePeriodic", "d6/d0c/a16433.html#a048695baf71d307e5aaa00e54586c9f7", null ],
-    [ "OnApply", "d6/d0c/a16433.html#a4466547bc1a5259a33354f2008d6cce7", null ],
-    [ "PrepareAuraScript", "d6/d0c/a16433.html#a4205560054e5baed86aecba3b98fc202", null ],
-    [ "Register", "d6/d0c/a16433.html#a09efdcddaed4af2833139ca20ef94376", null ],
-    [ "Validate", "d6/d0c/a16433.html#a20827683249c17625242e205bb51f9e8", null ],
-    [ "_delay", "d6/d0c/a16433.html#abdcc08812e4cf771d4d845ebbbf68790", null ],
-    [ "_spellEntry", "d6/d0c/a16433.html#a52e45512e2bbe34b0bdbfaa273aeb997", null ]
+    [ "PrepareSpellScript", "d6/d0c/a16433.html#a74a2601e2c160bb4a9b18d421775e6b3", null ],
+    [ "Register", "d6/d0c/a16433.html#a17a07973a3c043683fc4fe0d1fc45156", null ],
+    [ "SetDest", "d6/d0c/a16433.html#a3751a14d6e36140ee368d8ded6df03ee", null ]
 ];

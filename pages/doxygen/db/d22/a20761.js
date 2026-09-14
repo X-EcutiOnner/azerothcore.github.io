@@ -1,6 +1,8 @@
 var a20761 =
 [
-    [ "npc_razorscale_spawner", "db/d22/a20761.html#afbc71f46d2ac919dae274c7581357d34", null ],
-    [ "Reset", "db/d22/a20761.html#afdfee27c6933d00f3e8d8fb1d8381e19", null ],
-    [ "UpdateAI", "db/d22/a20761.html#a0de302ea1ace44cc2f065cae130166cb", null ]
+    [ "HandleEffectApply", "db/d22/a20761.html#a9b4ef881ded9d7b1e4cbdf61af70cdeb", null ],
+    [ "HandleEffectPeriodic", "db/d22/a20761.html#ae3cb0f7a3da5a72eaa59350d7df13ffc", null ],
+    [ "HandleEffectRemove", "db/d22/a20761.html#a5750666947a5899d7ef46678eadb4872", null ],
+    [ "PrepareAuraScript", "db/d22/a20761.html#a9a2fae625718f854ec5d2587a01a2da7", null ],
+    [ "Register", "db/d22/a20761.html#a524c071390365b7dab59bc7a79b50f15", null ]
 ];

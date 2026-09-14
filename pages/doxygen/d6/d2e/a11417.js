@@ -1,7 +1,6 @@
 var a11417 =
 [
-    [ "RandomRollClient", "d6/d2e/a11417.html#a6d2edee5a6dbafd5b6194b60eeb0aafb", null ],
-    [ "Read", "d6/d2e/a11417.html#ab682763f35a40f776b1742927df0a336", null ],
-    [ "Max", "d6/d2e/a11417.html#a45a1e140ed402f54deb4c0798360a43a", null ],
-    [ "Min", "d6/d2e/a11417.html#a3cd07e7891b43b453b56013d76f51f71", null ]
+    [ "CancelTempEnchantment", "d6/d2e/a11417.html#aa70516ab1b16789cb7b705751162b70b", null ],
+    [ "Read", "d6/d2e/a11417.html#a2c77f79d63247d7aa321cf6bda026ffa", null ],
+    [ "EquipmentSlot", "d6/d2e/a11417.html#a0b06dfb31f70cc547c54723d0bf70952", null ]
 ];

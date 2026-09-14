@@ -1,10 +1,7 @@
 var a18769 =
 [
-    [ "HandleScript", "de/d78/a18769.html#a18c80010b9e8803b3c225acf2dd0b605", null ],
-    [ "Load", "de/d78/a18769.html#af31fd5b1f9cdc67650eec5e305f095bf", null ],
-    [ "PrepareSpellScript", "de/d78/a18769.html#afcc1efc69d73086a9ab686855911e516", null ],
-    [ "Register", "de/d78/a18769.html#a061e110b9a032a9bbd0a48f686d16a84", null ],
-    [ "ReplaceTarget", "de/d78/a18769.html#a01cb7d25bef14a2266d81594544f6283", null ],
-    [ "SelectTarget", "de/d78/a18769.html#aa06b7505ff483bc5e534cc37d909b28c", null ],
-    [ "_target", "de/d78/a18769.html#a3a84a9d7109845d201b395f05f66d109", null ]
+    [ "CheckTargetCount", "de/d78/a18769.html#a67a1cbbf74fe91a32a51d9ad5056f048", null ],
+    [ "PrepareSpellScript", "de/d78/a18769.html#abd32198867e7f01b21b7de6224a597d4", null ],
+    [ "Register", "de/d78/a18769.html#a671bede7fbc68085cd6075f412822869", null ],
+    [ "Validate", "de/d78/a18769.html#a2f64421bb71988f06a7e2cb71a097d75", null ]
 ];

@@ -1,7 +1,6 @@
 var a25993 =
 [
-    [ "HandleProc", "db/d20/a25993.html#a5dbf2d5e9b31828b79150f40f6033896", null ],
-    [ "PrepareAuraScript", "db/d20/a25993.html#a84f326e1353437f29fb051533d3391eb", null ],
-    [ "Register", "db/d20/a25993.html#a7afae9d94162490cb40d29159d88f4a8", null ],
-    [ "Validate", "db/d20/a25993.html#a3d39936e9b44abce8746d1ef23c8e27e", null ]
+    [ "HandleDummy", "db/d20/a25993.html#aafc9efb0f8070566579724853a88ab03", null ],
+    [ "PrepareSpellScript", "db/d20/a25993.html#a248c1203a4f15b2cd60afed9fa33cb59", null ],
+    [ "Register", "db/d20/a25993.html#a362e2ab6921aaa0c10b70795a5eda0de", null ]
 ];

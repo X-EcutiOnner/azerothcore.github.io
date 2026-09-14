@@ -1,4 +1,4 @@
 var a05063 =
 [
-    [ "ProducerConsumerQueue< T >", "d4/d48/a05765.html", "d4/d48/a05765" ]
+    [ "GUARD_RETURN", "da/d0f/a05063.html#a545bfab3f5e5f49c7d68774189728da8", null ]
 ];

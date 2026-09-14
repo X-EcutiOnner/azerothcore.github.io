@@ -1,6 +1,6 @@
 var a28257 =
 [
-    [ "go_flamesAI", "df/ddf/a28261.html", "df/ddf/a28261" ],
-    [ "go_flames", "d0/df4/a28257.html#a75d49202eaf2078b8276e59944d1ec89", null ],
-    [ "GetAI", "d0/df4/a28257.html#aea11412e7d17b744b4e70ec754a1e6cc", null ]
+    [ "boss_emerissAI", "df/ddf/a28261.html", "df/ddf/a28261" ],
+    [ "boss_emeriss", "d0/df4/a28257.html#a2d373e5add3f007cf214ad9763039aa2", null ],
+    [ "GetAI", "d0/df4/a28257.html#a88a0696a12f12e612cce53c14f6b1f92", null ]
 ];

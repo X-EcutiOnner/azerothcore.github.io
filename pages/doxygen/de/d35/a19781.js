@@ -1,6 +1,10 @@
 var a19781 =
 [
-    [ "ChargeRifts", "de/d35/a19781.html#aec98a12dec1f2ad98e00d399b0e2a1d5", null ],
-    [ "Execute", "de/d35/a19781.html#a8d01bf861d37c25413dc14eee16a2939", null ],
-    [ "_caster", "de/d35/a19781.html#a3cbf5f7e26de337dadd9d96a43d728b0", null ]
+    [ "npc_power_spark", "de/d35/a19781.html#a97ec0ed1157578fb7e1d8c4e146b2a4f", null ],
+    [ "DamageTaken", "de/d35/a19781.html#afe33d511823666929232bfd0179ee72a", null ],
+    [ "DoAction", "de/d35/a19781.html#ab99a859ee718d49ce59171e7e7159abc", null ],
+    [ "UpdateAI", "de/d35/a19781.html#ab36e75c87aa262a57be1594289284730", null ],
+    [ "_checkTimer", "de/d35/a19781.html#ae63f0f359037363b840fe51a797969b5", null ],
+    [ "_instance", "de/d35/a19781.html#a776b7fef26fd67961b0fdf0596d7beb2", null ],
+    [ "_moveTimer", "de/d35/a19781.html#a52c953a524bb7f26c6713ac5d83eb068", null ]
 ];

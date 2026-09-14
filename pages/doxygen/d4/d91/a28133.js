@@ -1,5 +1,6 @@
 var a28133 =
 [
-    [ "AreaTrigger_at_last_rites", "d4/d91/a28133.html#a30d1930c76920ab12cf4f9b04fd5f0e4", null ],
-    [ "OnTrigger", "d4/d91/a28133.html#a48f6e2041cda24812a165fa0fb62f1b6", null ]
+    [ "achievement_arena_by_type", "d4/d91/a28133.html#a2042c808304e8ddf1849820491b9f1a3", null ],
+    [ "OnCheck", "d4/d91/a28133.html#abebdbf19fbf1b79c30114a9cf4ff98a4", null ],
+    [ "_arenaType", "d4/d91/a28133.html#a5c38e5fef5eaf3d037864ba2aa80584a", null ]
 ];

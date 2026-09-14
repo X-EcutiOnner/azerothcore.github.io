@@ -1,6 +1,5 @@
 var a18349 =
 [
-    [ "HandlePeriodic", "d5/dff/a18349.html#a9583ccd7b642694a06bde4b88826ec7b", null ],
-    [ "PrepareAuraScript", "d5/dff/a18349.html#a5d855d79247dff6f949a5e099abb9352", null ],
-    [ "Register", "d5/dff/a18349.html#ae797de0ed29b3ca179c07d759b469228", null ]
+    [ "npc_volatile_oozeAI", "d5/dff/a18349.html#af042d4c22482aabcdad6fa867dfe093f", null ],
+    [ "CastMainSpell", "d5/dff/a18349.html#a91890785174ecc60c9553a0aedf1961b", null ]
 ];

@@ -1,7 +1,5 @@
 var a28113 =
 [
-    [ "CharacterDeleteActionIpLogger", "dc/de8/a28113.html#a37481de65409cf375dcff45615463949", null ],
-    [ "DeleteIPLogAction", "dc/de8/a28113.html#a73a5ddacd8892d2300be313cfc12f534", null ],
-    [ "OnPlayerDelete", "dc/de8/a28113.html#adb16e45e425fa816b2572692349d0005", null ],
-    [ "OnPlayerFailedDelete", "dc/de8/a28113.html#a16bc6247d220c1b6c52808cb4a522c11", null ]
+    [ "achievement_save_the_day", "dc/de8/a28113.html#a193e4060b6634a87b499b7c8a5e287a1", null ],
+    [ "OnCheck", "dc/de8/a28113.html#a95cfea6cd9ff955ba6800ebdf3a30eb7", null ]
 ];

@@ -1,10 +1,7 @@
 var a09617 =
 [
-    [ "AIRelocationNotifier", "d2/d90/a09617.html#a05c1f74272dff612eeda6c50d1c6fb43", null ],
-    [ "Visit", "d2/d90/a09617.html#a06dd774a24d4a1da36a2a862c0ad97df", null ],
-    [ "Visit", "d2/d90/a09617.html#a0ec9a2499d73516dd2d4a0319990924a", null ],
-    [ "Visit", "d2/d90/a09617.html#a3cbdb164a6239614ef6ade13ddb5d33c", null ],
-    [ "i_unit", "d2/d90/a09617.html#ab1dd814e4d94ed2989bb07012a24d40e", null ],
-    [ "includePlayers", "d2/d90/a09617.html#ac7985b8f0282180a063ccfba7583917e", null ],
-    [ "isCreature", "d2/d90/a09617.html#a199f4b91d00dd4db90855e5521d87a95", null ]
+    [ "V8Type", "d2/d90/a09617.html#a385ac15640b76e43eda077c451dcd745", null ],
+    [ "V9Type", "d2/d90/a09617.html#a9b7daa2ba0e72e137243ac061efaa2a5", null ],
+    [ "v8", "d2/d90/a09617.html#a55d7b001e047c31686b110cc4b1aa295", null ],
+    [ "v9", "d2/d90/a09617.html#ab4f6ec9aefc2721bd216582d7a882aa3", null ]
 ];

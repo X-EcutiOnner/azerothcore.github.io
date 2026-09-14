@@ -1,6 +1,9 @@
 var a23393 =
 [
-    [ "go_ahune_ice_stone", "d8/d2a/a23393.html#ab7b665f01da80751ea97705c5113bde7", null ],
-    [ "GossipSelect", "d8/d2a/a23393.html#aadb4db41ed84922c0a2d0463b8616876", null ],
-    [ "_instance", "d8/d2a/a23393.html#a43651f471ac777b59fb8ba67b830cd35", null ]
+    [ "FilterTargets", "d8/d2a/a23393.html#a9049c113d65b15a9a8e1143980a84b23", null ],
+    [ "HandleDummy", "d8/d2a/a23393.html#a21fd59ba177fd7b04eb1fcafe869f33a", null ],
+    [ "Load", "d8/d2a/a23393.html#a8cad82701e0147e14f826243175e1c32", null ],
+    [ "PrepareSpellScript", "d8/d2a/a23393.html#aa05839a8dd785a2472e8e5f3a9fc58b0", null ],
+    [ "Register", "d8/d2a/a23393.html#a0e7e246c322b89c3b6ee08797984f7e6", null ],
+    [ "_targetNumber", "d8/d2a/a23393.html#a34f80edf782ade371e7a6fc908b47b4f", null ]
 ];

@@ -1,5 +1,6 @@
 var a26289 =
 [
-    [ "PrepareSpellScript", "dc/df3/a26289.html#ac08a5b38ac3012ad31c8ecdf4ca36585", null ],
-    [ "Register", "dc/df3/a26289.html#a7d6187a7aa8f8d67efe15ffc74fa1873", null ]
+    [ "HandleDummy", "dc/df3/a26289.html#a9530db7f75987879285d224fb8381c2b", null ],
+    [ "PrepareSpellScript", "dc/df3/a26289.html#ad1c1bdb577739f769802127960aaf9e5", null ],
+    [ "Register", "dc/df3/a26289.html#ae3a340132caf3f8839631c92015d47a0", null ]
 ];

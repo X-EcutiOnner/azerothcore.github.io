@@ -1,6 +1,5 @@
 var a28461 =
 [
-    [ "trigger_periodicAI", "d3/d04/a28465.html", "d3/d04/a28465" ],
-    [ "trigger_periodic", "d4/d54/a28461.html#a3c947c5a3092eecb7288a8a50c76bd14", null ],
-    [ "GetAI", "d4/d54/a28461.html#a179f3aa69fcd0b145f4ede9f830c1f38", null ]
+    [ "go_hive_pod", "d4/d54/a28461.html#a7ec01a399e75ff2e64746166d1aa3539", null ],
+    [ "OnGossipHello", "d4/d54/a28461.html#a4cfb09789edf6699444a7d817e4ccc70", null ]
 ];

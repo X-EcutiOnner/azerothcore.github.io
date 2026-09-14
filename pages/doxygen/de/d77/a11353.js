@@ -1,9 +1,7 @@
 var a11353 =
 [
-    [ "EnchantmentLog", "de/d77/a11353.html#a4427184d166b18e984dc301a6786aac3", null ],
-    [ "Write", "de/d77/a11353.html#a17752d3e862c1915f8479058a4be1eb7", null ],
-    [ "Caster", "de/d77/a11353.html#ae35a0c689357cf4b5a031f40314a7045", null ],
-    [ "EnchantId", "de/d77/a11353.html#a72a85b9f0d40c9406d64a9bf0b06581e", null ],
-    [ "ItemId", "de/d77/a11353.html#ad393d5f227bb81738582572bd2601650", null ],
-    [ "Target", "de/d77/a11353.html#a9ef981f750bee2101c1f886fa2514913", null ]
+    [ "SwapInventoryItem", "de/d77/a11353.html#a26e2887fe352de8a8c5d9d65ba598460", null ],
+    [ "Read", "de/d77/a11353.html#ae81c9c5566e1f7e1c8d6915f9620d5b4", null ],
+    [ "DestinationSlot", "de/d77/a11353.html#aaaca9b79b11d152cf1c4b273e8f47679", null ],
+    [ "SourceSlot", "de/d77/a11353.html#a59117b7ce21919acc55b3da079050dc3", null ]
 ];

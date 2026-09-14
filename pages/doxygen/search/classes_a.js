@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['jumpinfo_0',['JumpInfo',['../dc/dc6/a08801.html',1,'MovementInfo']]]
+  ['jumpinfo_0',['JumpInfo',['../d3/d58/a08849.html',1,'MovementInfo']]]
 ];

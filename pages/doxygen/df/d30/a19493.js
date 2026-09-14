@@ -1,5 +1,7 @@
 var a19493 =
 [
-    [ "PrepareSpellScript", "df/d30/a19493.html#a09b852666752f6adde3f9e5bb1f107bc", null ],
-    [ "Register", "df/d30/a19493.html#a80c3077f8f689367276e1054a6236681", null ]
+    [ "OnRemove", "df/d30/a19493.html#a4e6a66934a01d01c50208459f6771353", null ],
+    [ "PrepareAuraScript", "df/d30/a19493.html#a2320044c6c81a89af0fefd4f90c05bd5", null ],
+    [ "Register", "df/d30/a19493.html#a4890d35f2b0889156a437c95e49f528c", null ],
+    [ "Validate", "df/d30/a19493.html#a1b90f1288b3b45267edd4da2b3418b21", null ]
 ];

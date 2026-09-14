@@ -1,7 +1,6 @@
 var a14053 =
 [
-    [ "npc_king_magni_bronzebeard", "d4/d7b/a14053.html#af100ccf11c9d266be439318519280a9a", null ],
-    [ "JustDied", "d4/d7b/a14053.html#a3323285cc5c4cee9df001e83584b8114", null ],
-    [ "JustEngagedWith", "d4/d7b/a14053.html#a8c92169605d30c82f4699ff2b29101a6", null ],
-    [ "UpdateAI", "d4/d7b/a14053.html#ad23891becf07d991c5ffc4f89719fa04", null ]
+    [ "npc_balance_of_light_and_shadowAI", "da/d24/a14057.html", "da/d24/a14057" ],
+    [ "npc_balance_of_light_and_shadow", "d4/d7b/a14053.html#a55229e3ea8dd9c52972185b36c08908b", null ],
+    [ "GetAI", "d4/d7b/a14053.html#a07e0547e6bf81cc7ff9fe0aa4a851388", null ]
 ];

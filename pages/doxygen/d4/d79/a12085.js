@@ -1,6 +1,7 @@
 var a12085 =
 [
-    [ "AuraDispelHandler", "d4/d79/a12085.html#ab6e675b4db931c601b3d6aef65ae0ff6", null ],
-    [ "Call", "d4/d79/a12085.html#a147d8a6d95f011f27600d052ef7b4000", null ],
-    [ "pHandlerScript", "d4/d79/a12085.html#ab7dd73a36aa517354a023deb7db0cf19", null ]
+    [ "EffectNameCheck", "d4/d79/a12085.html#aa82307388bdda7864bb085a349b63f29", null ],
+    [ "Check", "d4/d79/a12085.html#a729d7f07669dedec50f009a87b8f32a4", null ],
+    [ "ToString", "d4/d79/a12085.html#a31e545b0ae22cad4be815ea9e3b44377", null ],
+    [ "effName", "d4/d79/a12085.html#a905224fb028ea0eab350773b7230f871", null ]
 ];

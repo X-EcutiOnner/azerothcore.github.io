@@ -1,16 +1,8 @@
 var a20261 =
 [
-    [ "npc_mimirons_inferno", "d4/dc5/a20261.html#aedcded9302c0cb9e29475f471bd0612e", null ],
-    [ "AttackStart", "d4/dc5/a20261.html#a43a03388c06ef38ab29a1b4d5bc701c6", null ],
-    [ "DoAction", "d4/dc5/a20261.html#ade97188bb54f7b5a15a8a596355e4170", null ],
-    [ "JustSummoned", "d4/dc5/a20261.html#a77ddb0fbd9f0c2334df122d91913300b", null ],
-    [ "MoveInLineOfSight", "d4/dc5/a20261.html#acc2e756af50ebde8300c46ec6f369760", null ],
-    [ "Reset", "d4/dc5/a20261.html#afbd0bcdbb24bf1dbdaacecf4b602922b", null ],
-    [ "SummonedCreatureDespawn", "d4/dc5/a20261.html#a9b5176d6f1712d36283b0ebeeddee5b2", null ],
-    [ "UpdateAI", "d4/dc5/a20261.html#afd800c3a1430fe19edf6fe21763b15d8", null ],
-    [ "WaypointReached", "d4/dc5/a20261.html#a13cda9fcb49493477e4a4111d9858ec1", null ],
-    [ "WaypointReached", "d4/dc5/a20261.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "_recastTimer", "d4/dc5/a20261.html#ac74ee90383d6ac140d6187c6115716ed", null ],
-    [ "_spellTimer", "d4/dc5/a20261.html#a0683c956325801b63e7e31b8485f35bd", null ],
-    [ "summons", "d4/dc5/a20261.html#a7a0be8291200404285277c3689c54106", null ]
+    [ "npc_auriaya_sanctum_sentry", "d4/dc5/a20261.html#ae5ed159c476c8b4569de7e2730edf447", null ],
+    [ "JustDied", "d4/dc5/a20261.html#a553aa98a00fd8999578d71911f231bb2", null ],
+    [ "JustEngagedWith", "d4/dc5/a20261.html#a5475b653a9c1fa78f2fcab8abed00863", null ],
+    [ "Reset", "d4/dc5/a20261.html#a540cb8f5c53c3648d49ec88efed8a43d", null ],
+    [ "UpdateAI", "d4/dc5/a20261.html#a93ed6a0205a042ef1fc065fc6cfd94ee", null ]
 ];

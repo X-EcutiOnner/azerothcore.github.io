@@ -1,6 +1,11 @@
 var a11369 =
 [
-    [ "CancelTempEnchantment", "df/d07/a11369.html#aa70516ab1b16789cb7b705751162b70b", null ],
-    [ "Read", "df/d07/a11369.html#a2c77f79d63247d7aa321cf6bda026ffa", null ],
-    [ "EquipmentSlot", "df/d07/a11369.html#a0b06dfb31f70cc547c54723d0bf70952", null ]
+    [ "DestroyItem", "df/d07/a11369.html#a581e8c0f5f580e812bc0988e35786ee2", null ],
+    [ "Read", "df/d07/a11369.html#a9f7fa7614db176262437478b4d92e9f9", null ],
+    [ "Bag", "df/d07/a11369.html#aef97bbc66f92d73b4ebd3fcf0a81c0d6", null ],
+    [ "Count", "df/d07/a11369.html#af18875aa85f12191a47d97380f459c45", null ],
+    [ "Data1", "df/d07/a11369.html#a34fa30122f101e15de6252c289b82680", null ],
+    [ "Data2", "df/d07/a11369.html#a227470a5932383e0ab7b9a369dfb3445", null ],
+    [ "Data3", "df/d07/a11369.html#a019a891e4906ce9dafef6e276d635df7", null ],
+    [ "Slot", "df/d07/a11369.html#af8274f1ded5565dc0f79e28948825ea2", null ]
 ];

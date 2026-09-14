@@ -1,13 +1,8 @@
 var a17321 =
 [
-    [ "instance_forge_of_souls_InstanceScript", "de/d8c/a17321.html#ae39e116a01c17592037e12185a03201a", null ],
-    [ "CheckAchievementCriteriaMeet", "de/d8c/a17321.html#a534c7f97e7425160f9a2b1e555d0aa29", null ],
-    [ "HandleOutro", "de/d8c/a17321.html#aadf4a99e89f354901ff63c600725b07f", null ],
-    [ "OnCreatureCreate", "de/d8c/a17321.html#a7570ef3ca74178fec80c5018cbecf42a", null ],
-    [ "OnPlayerEnter", "de/d8c/a17321.html#aac223f0ae25071d3323052c52c887636", null ],
-    [ "SetBossState", "de/d8c/a17321.html#a76241f1358b8e6c7660f76c98e1556e7", null ],
-    [ "GuardFirstGUID", "de/d8c/a17321.html#ae2e33eee94f285b9d4c2c747dec52714", null ],
-    [ "GuardSecondGUID", "de/d8c/a17321.html#a68c2495f80ac2b53c8f46c857472709c", null ],
-    [ "LeaderFirstGUID", "de/d8c/a17321.html#acaa05485af70315b1d091e5c9bbb7217", null ],
-    [ "LeaderSecondGUID", "de/d8c/a17321.html#a165f784f54e178b51ac899aff6f12747", null ]
+    [ "npc_fos_corrupted_soul_fragment", "de/d8c/a17321.html#a1fef6c180e9fc6e8d8d316d45b5066f9", null ],
+    [ "Reset", "de/d8c/a17321.html#ad318f80454cf17b2b9d39a02a83e6e92", null ],
+    [ "UpdateAI", "de/d8c/a17321.html#a8dd94bd36392c75c4971aa50b83a5ada", null ],
+    [ "Instance", "de/d8c/a17321.html#a34d1912b83f9da8335ab3e7d527e5e01", null ],
+    [ "Timer", "de/d8c/a17321.html#a82a7ce4a8d07e7d4dab30d4f11aeb006", null ]
 ];

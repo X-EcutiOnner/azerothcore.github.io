@@ -1,6 +1,6 @@
 var a18193 =
 [
-    [ "npc_vengeful_shadeAI", "d2/dce/a18197.html", "d2/dce/a18197" ],
-    [ "npc_vengeful_shade", "de/d5a/a18193.html#a99c535efd94fbd5bded8fd9555bb6eaf", null ],
-    [ "GetAI", "de/d5a/a18193.html#afa2c672015b43d83bd55050ed020f7e5", null ]
+    [ "IgbArtilleryCheck", "de/d5a/a18193.html#a78b65928551ed799cf3f446f0603c50e", null ],
+    [ "operator()", "de/d5a/a18193.html#ac083bfb9a5fa2b9888c4e31254baada6", null ],
+    [ "_entry", "de/d5a/a18193.html#a98a6a0836414da82c288e372e982f69f", null ]
 ];

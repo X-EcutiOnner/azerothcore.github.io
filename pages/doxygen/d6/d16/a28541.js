@@ -1,8 +1,10 @@
 var a28541 =
 [
-    [ "npc_elder_clearwaterAI", "d9/d8e/a28545.html", "d9/d8e/a28545" ],
-    [ "npc_elder_clearwater", "d6/d16/a28541.html#abeee1650938a71762bb0c148ea9834d1", null ],
-    [ "GetAI", "d6/d16/a28541.html#a4ae2f507f61ee7cfc0c3b6d7dbfb7f04", null ],
-    [ "OnGossipHello", "d6/d16/a28541.html#aae382c0a386b8bacd39c6e7a586519e4", null ],
-    [ "OnQuestReward", "d6/d16/a28541.html#a2d316a2d2c892cecc134cea46b5bf2a8", null ]
+    [ "npc_prof_alchemy", "d6/d16/a28541.html#a43ea842214fc507c34586d12df8f7fea", null ],
+    [ "HasAlchemySpell", "d6/d16/a28541.html#ac9df824e0923ca86189a53ae391b43c0", null ],
+    [ "OnGossipHello", "d6/d16/a28541.html#add760c538c7882e1ad8331b8ded74f5c", null ],
+    [ "OnGossipSelect", "d6/d16/a28541.html#a2377df97a293fb3fcbe7f70d4d815b75", null ],
+    [ "SendActionMenu", "d6/d16/a28541.html#a2d4c7337b40be323a384a9e755fc3145", null ],
+    [ "SendConfirmLearn", "d6/d16/a28541.html#a548224b30494636b9ee292a533fc7b39", null ],
+    [ "SendConfirmUnlearn", "d6/d16/a28541.html#ae4c861cf383f39d2e5ceebc9be4b568c", null ]
 ];

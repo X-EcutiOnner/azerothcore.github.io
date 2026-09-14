@@ -1,6 +1,6 @@
 var a26041 =
 [
-    [ "PartyTimeEmoteEvent", "dd/d6e/a26041.html#a525efd58fc8465658208058e6dc5d31c", null ],
-    [ "Execute", "dd/d6e/a26041.html#a65a796ff4efece46c519f7bdf1524bb8", null ],
-    [ "_player", "dd/d6e/a26041.html#a61ecb44828c6e4c868def8899791feb3", null ]
+    [ "HandlePeriodicTick", "dd/d6e/a26041.html#a1bd15727da421fdbfc3a60136bfa9bc9", null ],
+    [ "PrepareAuraScript", "dd/d6e/a26041.html#a1c4f592511c8886d0b9a5e64eb19cda7", null ],
+    [ "Register", "dd/d6e/a26041.html#ac019a52a6f62f1251d20efcfadba1e78", null ]
 ];

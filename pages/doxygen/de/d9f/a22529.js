@@ -1,9 +1,8 @@
 var a22529 =
 [
-    [ "npc_finklesteinAI", "d4/d46/a22533.html", "d4/d46/a22533" ],
-    [ "npc_finklestein", "de/d9f/a22529.html#aa719b4bb95012c22ef8123e255e32edd", null ],
-    [ "GetAI", "de/d9f/a22529.html#a1f0d91d2a50aca9d0496b6bd03986c8e", null ],
-    [ "OnGossipHello", "de/d9f/a22529.html#ac82d5e5dc2e0539c90dfcfe17430548c", null ],
-    [ "OnGossipSelect", "de/d9f/a22529.html#a7a744207e8f43672f0e6bf2354186ec4", null ],
-    [ "OnQuestAccept", "de/d9f/a22529.html#a94291aa98e35552bc7d722ddf2a83af2", null ]
+    [ "npc_wg_queueAI", "d4/d46/a22533.html", "d4/d46/a22533" ],
+    [ "npc_wg_queue", "de/d9f/a22529.html#a2cc9825e08e982ef195f117a4512c4ae", null ],
+    [ "GetAI", "de/d9f/a22529.html#ad2d7746a32b520d37ea826b03627de4e", null ],
+    [ "OnGossipHello", "de/d9f/a22529.html#a20fc6ae4e4377f237a620b7f5b1de8ee", null ],
+    [ "OnGossipSelect", "de/d9f/a22529.html#afb707da5d85affc65f7ab5a0fc018c93", null ]
 ];

@@ -1,8 +1,6 @@
 var a27041 =
 [
-    [ "CheckProc", "d0/dcc/a27041.html#ae431b65ed505bbc483244ef50c2d35c8", null ],
-    [ "HandleProc", "d0/dcc/a27041.html#ab744f28533935c4a236f0635bbe6465c", null ],
-    [ "PrepareAuraScript", "d0/dcc/a27041.html#a7a531ef1c65bdb0d8001956454a43cd3", null ],
-    [ "Register", "d0/dcc/a27041.html#a8919dc1d487413f54e4a99002350f8d8", null ],
-    [ "Validate", "d0/dcc/a27041.html#aad134b5ef026a8a58ae233090ca01986", null ]
+    [ "CheckCast", "d0/dcc/a27041.html#a2edd0bcaa3b026cc70f9f6b58f53f486", null ],
+    [ "PrepareSpellScript", "d0/dcc/a27041.html#aaf1e16dbc8d33aadcbf74dc4cebe715b", null ],
+    [ "Register", "d0/dcc/a27041.html#a32aaab12105c9b1c09edfa8a444ced9c", null ]
 ];

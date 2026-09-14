@@ -1,6 +1,7 @@
 var a13141 =
 [
-    [ "boss_mr_smiteAI", "d8/d6a/a13145.html", "d8/d6a/a13145" ],
-    [ "boss_mr_smite", "db/d21/a13141.html#a011d41112ef7376b71d2959f806be262", null ],
-    [ "GetAI", "db/d21/a13141.html#a619ca0aede1eb33f992328048319c4f0", null ]
+    [ "HandlePeriodic", "db/d21/a13141.html#a5651e7ecab22d2286f85e56b8eccc003", null ],
+    [ "PrepareAuraScript", "db/d21/a13141.html#a5dca8e116c05d11961cbd7995314441e", null ],
+    [ "Register", "db/d21/a13141.html#a5972e66a8c05c5ae64e6666d0f35cb6e", null ],
+    [ "Validate", "db/d21/a13141.html#a689b93dcf39828f507ef2b7f72d1ca01", null ]
 ];

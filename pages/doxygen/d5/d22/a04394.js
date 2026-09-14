@@ -1,5 +1,4 @@
 var a04394 =
 [
-    [ "gear_commandscript", "df/d15/a12459.html", "df/d15/a12459" ],
-    [ "AddSC_gear_commandscript", "d5/d22/a04394.html#a8f5ae2609cea7d63d76141e1a5feaf27", null ]
+    [ "TestMap", "d6/d84/a29801.html", "d6/d84/a29801" ]
 ];

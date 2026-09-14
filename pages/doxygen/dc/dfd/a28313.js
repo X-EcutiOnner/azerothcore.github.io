@@ -1,6 +1,5 @@
 var a28313 =
 [
-    [ "go_midsummer_musicAI", "d6/dd9/a28317.html", "d6/dd9/a28317" ],
-    [ "go_midsummer_music", "dc/dfd/a28313.html#a39c38fc78b47b16be9eebee0ccd5041d", null ],
-    [ "GetAI", "dc/dfd/a28313.html#a1baf09bdbf67c0a85219454c1cd61d2b", null ]
+    [ "go_resonite_cask", "dc/dfd/a28313.html#a5a89aa97a4cd31d7ae183649ee750b74", null ],
+    [ "OnGossipHello", "dc/dfd/a28313.html#aae8591d53a6983886b52d404acdba293", null ]
 ];

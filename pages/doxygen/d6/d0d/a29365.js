@@ -1,10 +1,10 @@
 var a29365 =
 [
-    [ "PvPDifficultyEntry", "d6/d0d/a29365.html#acdf17ca6dce80b7311bd6ae79ce16001", null ],
-    [ "GetBracketId", "d6/d0d/a29365.html#a4bcbc99d34ef8eaa7c15dbd33332c480", null ],
-    [ "bracketId", "d6/d0d/a29365.html#a670bce11b1d934167d8b3e990ea49d4a", null ],
-    [ "difficulty", "d6/d0d/a29365.html#a33ac017d785a4586a78e715d97836720", null ],
-    [ "mapId", "d6/d0d/a29365.html#a58c251f56a928bedbc7b9e8c6cbdbc5d", null ],
-    [ "maxLevel", "d6/d0d/a29365.html#a1385166568239f2118b65377df8b4b55", null ],
-    [ "minLevel", "d6/d0d/a29365.html#acd07e8d759af1b73ec7543f6e70df242", null ]
+    [ "ID", "d6/d0d/a29365.html#a906c42770a619884f08b67e2870bff93", null ],
+    [ "reqarenapoints", "d6/d0d/a29365.html#a5d45007a832d6120e29c7821c07646de", null ],
+    [ "reqarenaslot", "d6/d0d/a29365.html#ad1e4b8f94a743bac02bbadbc8d62ad0b", null ],
+    [ "reqhonorpoints", "d6/d0d/a29365.html#aca509fb7e234bc54632ff988bf37e6ad", null ],
+    [ "reqitem", "d6/d0d/a29365.html#a9cba8872c909260a55dcfdf7f4726899", null ],
+    [ "reqitemcount", "d6/d0d/a29365.html#a615c5fe0966b5054303ebe1290adc9b6", null ],
+    [ "reqpersonalarenarating", "d6/d0d/a29365.html#af4ff8d55234b03637e4b2fbd10778e97", null ]
 ];

@@ -1,6 +1,6 @@
 var a23949 =
 [
-    [ "lapseTeleport", "db/ddd/a23949.html#a55c4330397214bf3a43628b3067d4634", null ],
-    [ "Execute", "db/ddd/a23949.html#a122023ed13fce2f5bb3721e459964443", null ],
-    [ "_owner", "db/ddd/a23949.html#a0e678c5cdb862390ea50c8d6057b7093", null ]
+    [ "HandlePeriodic", "db/ddd/a23949.html#ad47e8edce33f9b923aa7bbfe8d0c082a", null ],
+    [ "PrepareAuraScript", "db/ddd/a23949.html#a2aa04c3c08ffc15b481b740d88a54918", null ],
+    [ "Register", "db/ddd/a23949.html#acf77c76f02671da215c7103b60ed77ac", null ]
 ];

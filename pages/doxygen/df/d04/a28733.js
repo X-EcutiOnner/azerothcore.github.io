@@ -1,6 +1,9 @@
 var a28733 =
 [
-    [ "npc_necropolis_relay", "df/d04/a28733.html#a044958acd1449d664532aeea7d0cb2fd", null ],
-    [ "SpellHit", "df/d04/a28733.html#a45fdef0f86f18b87b90d2b4f9c0df9cb", null ],
-    [ "SpellHitTarget", "df/d04/a28733.html#a1968d3537de2bdb9d4786cc96d2c346c", null ]
+    [ "npc_fireworkAI", "df/d04/a28733.html#a8fad089d1edc09edbaf215f07722e9e6", null ],
+    [ "FindNearestLauncher", "df/d04/a28733.html#a156e63c90f9b64cfd71c0262d28f1383", null ],
+    [ "GetFireworkGameObjectId", "df/d04/a28733.html#ae17b4abbbb2088799cec188457677d44", null ],
+    [ "GetFireworkSpell", "df/d04/a28733.html#a6270e753ab81062a7c39ca6c6b46c993", null ],
+    [ "isCluster", "df/d04/a28733.html#a4b3cdedaa2a57d23bf9f509cabdaff0c", null ],
+    [ "Reset", "df/d04/a28733.html#a3e2ce8787cd08b8bb900c009bd7e8af0", null ]
 ];

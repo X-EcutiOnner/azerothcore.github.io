@@ -1,7 +1,5 @@
 var a19765 =
 [
-    [ "FilterTargets", "d7/d05/a19765.html#a6beccd163ab8442a1ed39c553716cb73", null ],
-    [ "Load", "d7/d05/a19765.html#a5df67c2dbd14a75435f68939240daae6", null ],
-    [ "PrepareSpellScript", "d7/d05/a19765.html#a5be9bf364ae2dece862ed1eee93f9294", null ],
-    [ "Register", "d7/d05/a19765.html#ac4cb1dd6dcc9f55a3e908961c5f0d88e", null ]
+    [ "npc_living_poison", "d7/d05/a19765.html#a277440068846eac71c795880a16475dd", null ],
+    [ "UpdateAI", "d7/d05/a19765.html#a2a6af8a9ef14e65ba9e44f2228b09ba5", null ]
 ];

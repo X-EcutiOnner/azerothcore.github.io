@@ -1,8 +1,11 @@
 var a24177 =
 [
-    [ "npc_captain_saeedAI", "d3/dac/a24181.html", "d3/dac/a24181" ],
-    [ "npc_captain_saeed", "d7/dfa/a24177.html#a8a5bee9f908b10451b8d4720dff85670", null ],
-    [ "GetAI", "d7/dfa/a24177.html#aa6a232f6c2dd39483273cac41af9a7d7", null ],
-    [ "OnGossipHello", "d7/dfa/a24177.html#a7db9b76578743d4ee96b2c4f11dc265c", null ],
-    [ "OnGossipSelect", "d7/dfa/a24177.html#a8ace4d924b6f33312d914fb6ce1e0ea6", null ]
+    [ "npc_aeranasAI", "d7/dfa/a24177.html#a2142cebc84e64919fa5c2ef630453282", null ],
+    [ "JustReachedHome", "d7/dfa/a24177.html#a0c48e1cebec95e6de0b7d02a22658c40", null ],
+    [ "Reset", "d7/dfa/a24177.html#a2c1bbe079c065745782adfa13b030515", null ],
+    [ "UpdateAI", "d7/dfa/a24177.html#ae192a3b38c0ec65cddfce3b95d15555a", null ],
+    [ "_defeated", "d7/dfa/a24177.html#a2c604dfa9deaaff7b71116b5b54c8771", null ],
+    [ "envelopingWinds_Timer", "d7/dfa/a24177.html#a566b5d648abe630efc191f9d6d4938a2", null ],
+    [ "faction_Timer", "d7/dfa/a24177.html#aac071887c100f91cc7ffc545ea6439d9", null ],
+    [ "shock_Timer", "d7/dfa/a24177.html#aba8ad016f0e470b07163fef07b603380", null ]
 ];

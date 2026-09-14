@@ -1,8 +1,7 @@
 var a19825 =
 [
-    [ "npc_crystal_spike", "d8/df8/a19825.html#aa6a6e12aba63c589e71b5ca28b924fd4", null ],
-    [ "Reset", "d8/df8/a19825.html#a8cdca606ce482147d87ad5248665099e", null ],
-    [ "UpdateAI", "d8/df8/a19825.html#abc04c8fba427c12630b4faf1d39bdb32", null ],
-    [ "_damageTimer", "d8/df8/a19825.html#a36c70729a0c0281d467f870bfcde80ae", null ],
-    [ "_gameObjectGUID", "d8/df8/a19825.html#a0c0e9a1883cee51201b039947b5bacf3", null ]
+    [ "Load", "d8/df8/a19825.html#a76c4a5c9b3bbed286a9d724c521944fd", null ],
+    [ "PrepareSpellScript", "d8/df8/a19825.html#a10fd04468a4de402f2d2d1d4b003a5c9", null ],
+    [ "Register", "d8/df8/a19825.html#a86259dfc100541aec0f9c7e744bbf24d", null ],
+    [ "SetDest", "d8/df8/a19825.html#a231a75702f4a98f51d1be45510c5d05f", null ]
 ];

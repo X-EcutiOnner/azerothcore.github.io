@@ -1,7 +1,6 @@
 var a27985 =
 [
-    [ "HandleScript", "d0/d19/a27985.html#ab3f88b7443eb4f32339c3b687431fda2", null ],
-    [ "PrepareSpellScript", "d0/d19/a27985.html#ab363d596d2d1e030f0cc07126b40e921", null ],
-    [ "Register", "d0/d19/a27985.html#ab9041b811e80e220828d5db59b724682", null ],
-    [ "Validate", "d0/d19/a27985.html#a1b9a4c78a43cf406f1db75c518a343ea", null ]
+    [ "HandleRemove", "d0/d19/a27985.html#a0ac8fe6a39ae00e50f219bf02c26f1a4", null ],
+    [ "PrepareAuraScript", "d0/d19/a27985.html#a0517fe77f15e1b9cf6153ed2aaf9cee8", null ],
+    [ "Register", "d0/d19/a27985.html#ac968ede75fd5d98ba9a10dc9f6bdbb85", null ]
 ];

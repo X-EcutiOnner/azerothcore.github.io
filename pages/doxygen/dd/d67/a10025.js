@@ -1,9 +1,16 @@
 var a10025 =
 [
-    [ "BroadcastTextID", "dd/d67/a10025.html#a756f24dbee852a7fbe152c0cb082c412", null ],
-    [ "Emotes", "dd/d67/a10025.html#a0f67a651fdb3f3217279015c9e3fb292", null ],
-    [ "Language", "dd/d67/a10025.html#a33bc5a0c156918b00380710aeb275d3d", null ],
-    [ "Probability", "dd/d67/a10025.html#a5c743df7a7ad634c5b3f3376547fda00", null ],
-    [ "Text_0", "dd/d67/a10025.html#a046d637b91807db067c6e7050184322d", null ],
-    [ "Text_1", "dd/d67/a10025.html#a8d64d7b8fcdbd995cc11e22adde8c0de", null ]
+    [ "BankEventLogEntry", "dd/d67/a10025.html#a31275c6a36f7b79d7532345d38a3739b", null ],
+    [ "BankEventLogEntry", "dd/d67/a10025.html#a1a87a93c90b6a0b6766ac46228fd1761", null ],
+    [ "~BankEventLogEntry", "dd/d67/a10025.html#a8033da0f1bd56926bd306e1cbdc1ecb9", null ],
+    [ "IsMoneyEvent", "dd/d67/a10025.html#a9a38b7966bdcc3ec9e871c024c928ce1", null ],
+    [ "IsMoneyEvent", "dd/d67/a10025.html#a49c76ead144b21da7cb1059af54a2482", null ],
+    [ "SaveToDB", "dd/d67/a10025.html#a9010bb7bd849aa6ba25b31596ac30831", null ],
+    [ "WritePacket", "dd/d67/a10025.html#a930223d8596264801d7b0cf04cea62f8", null ],
+    [ "m_bankTabId", "dd/d67/a10025.html#a836df4449b5190b4404482e46a5e5449", null ],
+    [ "m_destTabId", "dd/d67/a10025.html#a57a6aeaae26781df310a2c98fcf7164d", null ],
+    [ "m_eventType", "dd/d67/a10025.html#a180246a8eaca99431383916776a4f7ad", null ],
+    [ "m_itemOrMoney", "dd/d67/a10025.html#a689ea5c40d39fe5dc8a80351c4884b18", null ],
+    [ "m_itemStackCount", "dd/d67/a10025.html#ad4ed0df79ff061a4735538067fa4a372", null ],
+    [ "m_playerGuid", "dd/d67/a10025.html#a3b2127e193ff9f5b54cf6520cd2a2458", null ]
 ];

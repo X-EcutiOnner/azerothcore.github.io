@@ -1,7 +1,8 @@
 var a26733 =
 [
-    [ "PeriodicTick", "d8/d6c/a26733.html#a4fcdb073b4140311f31c5965ea7d1316", null ],
-    [ "PrepareAuraScript", "d8/d6c/a26733.html#ad332660b3b30ecb7b5c949c702574879", null ],
-    [ "Register", "d8/d6c/a26733.html#ad752eaecf8b0b3efcc7f61d88fb447d9", null ],
-    [ "Validate", "d8/d6c/a26733.html#a426b39c9733464c5d69d707d4e931f64", null ]
+    [ "CheckProc", "d8/d6c/a26733.html#a180edf3dd9f3abd42ae6cd43353451fe", null ],
+    [ "HandleProc", "d8/d6c/a26733.html#a9d6daf153d86cf93e35c43d05dda2459", null ],
+    [ "PrepareAuraScript", "d8/d6c/a26733.html#a874672016641a737a197588ea980c2c3", null ],
+    [ "Register", "d8/d6c/a26733.html#a3578470f10bb4c10868d02d62cafceac", null ],
+    [ "Validate", "d8/d6c/a26733.html#a4f496a310941e40c9c841772be3e6414", null ]
 ];

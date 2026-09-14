@@ -1,12 +1,14 @@
 var a08317 =
 [
-    [ "far_clip", "d8/d52/a08317.html#af70a06bda2dffbf2d3c49cb696beea2f", null ],
-    [ "fov", "d8/d52/a08317.html#ae553ef5e28cc3af3acd45b9efd309fbe", null ],
-    [ "near_clip", "d8/d52/a08317.html#a9426497de885b901d364c0b3ddd487d9", null ],
-    [ "position_base", "d8/d52/a08317.html#abf0892be5ecf6d1e1021e101832396f3", null ],
-    [ "positions", "d8/d52/a08317.html#a5d23816339fea0ac1e2c6fdad5fe58d8", null ],
-    [ "rolldata", "d8/d52/a08317.html#ad3428dcc0b93e509c9225fa86ea2d691", null ],
-    [ "target_position_base", "d8/d52/a08317.html#a2515ee6fa2fc41f7fca531b55cf0dc61", null ],
-    [ "target_positions", "d8/d52/a08317.html#a12132e4bcc881cab134851938c45e05a", null ],
-    [ "type", "d8/d52/a08317.html#afd67c926b538e189b036d88a9a277a2f", null ]
+    [ "ThreatListIterator", "d8/d52/a08317.html#a6fd3aa74e738a871fc79292789fe8002", null ],
+    [ "operator!=", "d8/d52/a08317.html#ab048192b55edc518d7e88a16ef3fe75c", null ],
+    [ "operator!=", "d8/d52/a08317.html#adfa9c371d231a572a2ea728163e34614", null ],
+    [ "operator*", "d8/d52/a08317.html#a4d45ae04b885844bd84fc8ba13316991", null ],
+    [ "operator++", "d8/d52/a08317.html#aff62dfcc3d94c8355a42693ab1b97774", null ],
+    [ "operator->", "d8/d52/a08317.html#a78606724fb7081a2e3e579f0ce71a43f", null ],
+    [ "operator==", "d8/d52/a08317.html#ac6f2a13304c433d61d1b69bb6d649347", null ],
+    [ "operator==", "d8/d52/a08317.html#a95c5850a5ce04c18451df6c610814fc3", null ],
+    [ "_current", "d8/d52/a08317.html#a8f3e33ae4fb15668fbf5d562bfa793d7", null ],
+    [ "_generator", "d8/d52/a08317.html#ab777887451473dfe77f428d40f8359ba", null ],
+    [ "ThreatManager", "d8/d52/a08317.html#a974a09cd8ac71d4298b01f019ef7e63b", null ]
 ];

@@ -1,6 +1,7 @@
 var a25485 =
 [
-    [ "HandleCast", "d1/d89/a25485.html#ac6f7b9650d0a55834dafb09555692243", null ],
-    [ "PrepareSpellScript", "d1/d89/a25485.html#ab3dc21aa63f0fb9202233603106eef87", null ],
-    [ "Register", "d1/d89/a25485.html#ad6c2dc91d0973c0b8d57151dff3d9499", null ]
+    [ "HandleStun", "d1/d89/a25485.html#aec7b18c9fe4d03e6e61dd2e43c842a93", null ],
+    [ "PrepareAuraScript", "d1/d89/a25485.html#a26bf4bfdbe5ccf890d75bc663f228639", null ],
+    [ "Register", "d1/d89/a25485.html#a660a0e41ac5918cd365f4c47fea9c230", null ],
+    [ "Validate", "d1/d89/a25485.html#a4e89cdbc719b32576f57dd6f7e5d3f2a", null ]
 ];

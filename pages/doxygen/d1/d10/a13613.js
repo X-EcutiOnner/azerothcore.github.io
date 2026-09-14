@@ -1,7 +1,7 @@
 var a13613 =
 [
-    [ "OnPeriodic", "d1/d10/a13613.html#ab193b7cf8a8fe91879317e7d21522976", null ],
-    [ "PrepareAuraScript", "d1/d10/a13613.html#a5dca6bc670612f0b0e8e99381c97bf11", null ],
-    [ "Register", "d1/d10/a13613.html#ac6e0621064e5e0a77e1cdbfa8dbb6a54", null ],
-    [ "Validate", "d1/d10/a13613.html#a290b864756ceff85d52ba3f974a28217", null ]
+    [ "HandleEffectApply", "d1/d10/a13613.html#a710536e0a3bacf173d037041e755bd82", null ],
+    [ "HandleEffectRemove", "d1/d10/a13613.html#a16623b3187e98fc50f5a3b8e0297b0ea", null ],
+    [ "PrepareAuraScript", "d1/d10/a13613.html#ab1d5eb39b503f7e08a404cf172b8de96", null ],
+    [ "Register", "d1/d10/a13613.html#a9092818bdb15a12163aae633049cb7f6", null ]
 ];

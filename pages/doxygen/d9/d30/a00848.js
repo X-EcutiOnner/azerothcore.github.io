@@ -1,14 +1,12 @@
 var a00848 =
 [
-    [ "GroupScript", "dc/dbb/a10805.html", "dc/dbb/a10805" ],
-    [ "GroupHook", "d9/d30/a00848.html#a373b3fe6b402e8321892b8c1be74ab5d", [
-      [ "GROUPHOOK_ON_ADD_MEMBER", "d9/d30/a00848.html#a373b3fe6b402e8321892b8c1be74ab5da3800aeea2a91eebb3ccdd533a8dfc681", null ],
-      [ "GROUPHOOK_ON_INVITE_MEMBER", "d9/d30/a00848.html#a373b3fe6b402e8321892b8c1be74ab5da4f30d67b987f0ade961e34bce95e85fe", null ],
-      [ "GROUPHOOK_ON_REMOVE_MEMBER", "d9/d30/a00848.html#a373b3fe6b402e8321892b8c1be74ab5daee0f42175b42d95f45380c1b70c786c3", null ],
-      [ "GROUPHOOK_ON_CHANGE_LEADER", "d9/d30/a00848.html#a373b3fe6b402e8321892b8c1be74ab5da32d5ef38f2a877e2d36cdf20e9bb6d23", null ],
-      [ "GROUPHOOK_ON_DISBAND", "d9/d30/a00848.html#a373b3fe6b402e8321892b8c1be74ab5dafe9e82d7bdea3097607de1e375b0e353", null ],
-      [ "GROUPHOOK_CAN_GROUP_JOIN_BATTLEGROUND_QUEUE", "d9/d30/a00848.html#a373b3fe6b402e8321892b8c1be74ab5da9b4d04fe85f908719f1412cb9b88e61c", null ],
-      [ "GROUPHOOK_ON_CREATE", "d9/d30/a00848.html#a373b3fe6b402e8321892b8c1be74ab5da0cc7b93ed018172ab0c6f191681e5f6c", null ],
-      [ "GROUPHOOK_END", "d9/d30/a00848.html#a373b3fe6b402e8321892b8c1be74ab5da71a6d6ef47c3bda7d088f579b6f3a5f2", null ]
+    [ "TicketScript", "d8/daf/a10917.html", "d8/daf/a10917" ],
+    [ "TicketHook", "d9/d30/a00848.html#af2de2d4afd6c8a1968e6e4b055620b72", [
+      [ "TICKETHOOK_ON_TICKET_CREATE", "d9/d30/a00848.html#af2de2d4afd6c8a1968e6e4b055620b72a048895a23d18ef1c7901256655315a61", null ],
+      [ "TICKETHOOK_ON_TICKET_UPDATE_LAST_CHANGE", "d9/d30/a00848.html#af2de2d4afd6c8a1968e6e4b055620b72a1777cc276841ae965f3636dc48161374", null ],
+      [ "TICKETHOOK_ON_TICKET_CLOSE", "d9/d30/a00848.html#af2de2d4afd6c8a1968e6e4b055620b72ac65b75869b3e3fb1dec5db5eb5701f38", null ],
+      [ "TICKETHOOK_ON_TICKET_STATUS_UPDATE", "d9/d30/a00848.html#af2de2d4afd6c8a1968e6e4b055620b72ad50ae60643438ce57485d63d8492a825", null ],
+      [ "TICKETHOOK_ON_TICKET_RESOLVE", "d9/d30/a00848.html#af2de2d4afd6c8a1968e6e4b055620b72a77a1b9c3448bbffacadaaa5c542086df", null ],
+      [ "TICKETHOOK_END", "d9/d30/a00848.html#af2de2d4afd6c8a1968e6e4b055620b72a12665f6e053ad59e5e6cb0ca56d92222", null ]
     ] ]
 ];

@@ -1,4 +1,4 @@
 var a00758 =
 [
-    [ "AllCreatureScript", "d3/dba/a10701.html", "d3/dba/a10701" ]
+    [ "ScriptRegistry< TicketScript >", "d2/d4a/a00758.html#a3455c8aecfa91396c5eb215ecbce5583", null ]
 ];

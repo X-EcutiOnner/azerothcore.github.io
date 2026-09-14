@@ -1,12 +1,13 @@
 var a28877 =
 [
-    [ "ID", "db/d89/a28877.html#a84ba697182123cb3e7dd3ba07241e971", null ],
-    [ "maxScale", "db/d89/a28877.html#a23ca0ae7c45790a24f58546970194abf", null ],
-    [ "maxScaleLevel", "db/d89/a28877.html#ad5d722d74bc08d4de3edd54c2f24addb", null ],
-    [ "minScale", "db/d89/a28877.html#a3eacdd8639c6dd25dbd3205a58860cf9", null ],
-    [ "minScaleLevel", "db/d89/a28877.html#a49d9d7847cc4d54891d83166eb277740", null ],
-    [ "Name", "db/d89/a28877.html#a937fc579ab2790f4a972f07d3453a762", null ],
-    [ "petFoodMask", "db/d89/a28877.html#a4d9dd8baa3f7981633248513bb25f4ca", null ],
-    [ "petTalentType", "db/d89/a28877.html#a802000cefb6c4d357edfc45cc291e21e", null ],
-    [ "skillLine", "db/d89/a28877.html#ad4498d40b31d18742ee4ac235cb58a2e", null ]
+    [ "DBCDatabaseLoader", "db/d89/a28877.html#a2efbbd3799e5f72fecaeaf9365579482", null ],
+    [ "DBCDatabaseLoader", "db/d89/a28877.html#a7d93e6d37796f341edcf25062743c5b5", null ],
+    [ "CloneStringToPool", "db/d89/a28877.html#a68e5ae50c980aa81b051d0622575bb2d", null ],
+    [ "Load", "db/d89/a28877.html#a1b116dca8b01e0462a2e6c08245a49a3", null ],
+    [ "operator=", "db/d89/a28877.html#a46f7d5670840892f7a8714ce0b6cde13", null ],
+    [ "_dbcFormat", "db/d89/a28877.html#aa749118514d0b784ac6df295bd820d8e", null ],
+    [ "_recordSize", "db/d89/a28877.html#a6721538ebbcfe020fb195d44b3bdbd11", null ],
+    [ "_sqlIndexPos", "db/d89/a28877.html#ac1b5b191615d3e3121ea70965b0d495a", null ],
+    [ "_sqlTableName", "db/d89/a28877.html#ab6590071edf5311ccf484d48e4fd125e", null ],
+    [ "_stringPool", "db/d89/a28877.html#a52b5b86f0efb8ad0716bc0171a3aa740", null ]
 ];

@@ -1,6 +1,7 @@
 var a22545 =
 [
-    [ "npc_released_offspring_harkoaAI", "d5/d71/a22549.html", "d5/d71/a22549" ],
-    [ "npc_released_offspring_harkoa", "db/ded/a22545.html#a10f583320e3b617cf2b327cfb6fed6f5", null ],
-    [ "GetAI", "db/ded/a22545.html#ae3d2a02c496be1b2606fce596625d12e", null ]
+    [ "npc_wg_siege_machineAI", "db/ded/a22545.html#aaeca9e73520701ce28f2cc9d1483cc6b", null ],
+    [ "CanControlVehicle", "db/ded/a22545.html#a7ce79406da48e245a0baa2fdd23622b9", null ],
+    [ "UpdateAI", "db/ded/a22545.html#a8ddd21047a857facc767a9edc0ec5408", null ],
+    [ "checkTimer", "db/ded/a22545.html#abf4b06eae50adeefedba02e2186ea48a", null ]
 ];

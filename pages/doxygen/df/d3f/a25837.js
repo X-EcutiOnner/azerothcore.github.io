@@ -1,8 +1,6 @@
 var a25837 =
 [
-    [ "HandleRapidFireProc", "df/d3f/a25837.html#a174eb1d766c0ae7f59fabdefe565e1de", null ],
-    [ "HandleRapidKillingProc", "df/d3f/a25837.html#a12f24814d41837c8ddb8a42c8e932077", null ],
-    [ "PrepareAuraScript", "df/d3f/a25837.html#aa75ea03f718a90a49d81ff49d765c74d", null ],
-    [ "Register", "df/d3f/a25837.html#af1d93d8ea32a74f7bb6c115f21c5c6c3", null ],
-    [ "Validate", "df/d3f/a25837.html#a01598fbd355dfdd4517d4221ad5ae323", null ]
+    [ "HandleStackDrop", "df/d3f/a25837.html#a9a1409c505aff1fd1021aea683c1aa8e", null ],
+    [ "PrepareAuraScript", "df/d3f/a25837.html#afdb5f1df2e88976bb62efd0f8859e3da", null ],
+    [ "Register", "df/d3f/a25837.html#ae67ab53e9c82a054e21a1242b5f50b4b", null ]
 ];

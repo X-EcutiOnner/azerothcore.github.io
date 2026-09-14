@@ -1,9 +1,10 @@
 var a11389 =
 [
-    [ "Weather", "d2/dbf/a11389.html#aa404c94fec05b825454a7309827767c6", null ],
-    [ "Weather", "d2/dbf/a11389.html#a28f45d81441d2dde6917380978dfb4d0", null ],
-    [ "Write", "d2/dbf/a11389.html#a641c7de3e527dcdff07b3f602880b5c8", null ],
-    [ "Abrupt", "d2/dbf/a11389.html#a0abe1fcb36d21ac246174cdc98c0e261", null ],
-    [ "Intensity", "d2/dbf/a11389.html#ac37cee2364921a50e2b1ec1b19ed69b7", null ],
-    [ "WeatherID", "d2/dbf/a11389.html#a32e56458b1e562c124cfc0288a578134", null ]
+    [ "BuyItem", "d2/dbf/a11389.html#a3069d333bccadf53310ce86118b2c224", null ],
+    [ "Read", "d2/dbf/a11389.html#aeeda3c4a9200cfdc3372f1a3510f453b", null ],
+    [ "Count", "d2/dbf/a11389.html#a72fee9e84781ae2be25f9f15a2bb6de2", null ],
+    [ "Item", "d2/dbf/a11389.html#a07c03ec8db8e498b417b7dbabb9412b3", null ],
+    [ "Slot", "d2/dbf/a11389.html#a7db43e484bf82fb81ccca197c24df2d1", null ],
+    [ "Unk", "d2/dbf/a11389.html#aaf2b6aefb11379325b8cf9931abff638", null ],
+    [ "VendorGuid", "d2/dbf/a11389.html#aab9a5ff8f6f71a311e58e78b81ef7021", null ]
 ];

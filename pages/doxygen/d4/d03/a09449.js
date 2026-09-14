@@ -1,17 +1,13 @@
 var a09449 =
 [
-    [ "ActionMenuID", "d4/d03/a09449.html#a486f9af68a02ae52d51772a3421db377", null ],
-    [ "ActionPoiID", "d4/d03/a09449.html#a9a20a64e29d0464c40f57286b9c1804d", null ],
-    [ "BoxBroadcastTextID", "d4/d03/a09449.html#a12882942190a9a568b9dc30214ee6a88", null ],
-    [ "BoxCoded", "d4/d03/a09449.html#a4f7ba04e2d1078909d9587569504f4cd", null ],
-    [ "BoxMoney", "d4/d03/a09449.html#ab00c368181ccaba98e878d49de6138e2", null ],
-    [ "BoxText", "d4/d03/a09449.html#ad794b3c4e84dedce43ff2c80d3c38d4a", null ],
-    [ "Conditions", "d4/d03/a09449.html#aa1632404bbc869b17dab8833f660c52b", null ],
-    [ "MenuID", "d4/d03/a09449.html#a6e5b1b2c86bd05b81626a7230349be9a", null ],
-    [ "OptionBroadcastTextID", "d4/d03/a09449.html#af8af4b4c27405908482db73797cd2d49", null ],
-    [ "OptionIcon", "d4/d03/a09449.html#a0b73f7ce36e7703725e6b0d01c2a4564", null ],
-    [ "OptionID", "d4/d03/a09449.html#adf2a8d247a88a062a75eb726dd43d019", null ],
-    [ "OptionNpcFlag", "d4/d03/a09449.html#a6f41e9adfcb11adabdd79b55c1d47bfc", null ],
-    [ "OptionText", "d4/d03/a09449.html#a2606ac76a4f3607e45676ed3f1df3a83", null ],
-    [ "OptionType", "d4/d03/a09449.html#af53a42c8d4ec23be46dfdb16abc9c4ff", null ]
+    [ "entry", "d4/d03/a09449.html#a9b4a88edefbc1e4b08a8ee03dfd90274", null ],
+    [ "height", "d4/d03/a09449.html#a40fcdb1274bc2587e8870b39a64289e1", null ],
+    [ "length", "d4/d03/a09449.html#a8e1ac424a973e546aa7c35e387e32a23", null ],
+    [ "map", "d4/d03/a09449.html#a9ecb58fde45a318ba0d6306c603aba4b", null ],
+    [ "orientation", "d4/d03/a09449.html#a5db58eaf63aceeaeb93bf6f4d5961a97", null ],
+    [ "radius", "d4/d03/a09449.html#ae4195d9f29b425394296009c22654380", null ],
+    [ "width", "d4/d03/a09449.html#af914195a4e7f2314a6241fb81cc8cfa8", null ],
+    [ "x", "d4/d03/a09449.html#a423077ceaf75c367831a6d9f55427a6f", null ],
+    [ "y", "d4/d03/a09449.html#a55ab832828addcef1b2f570bda81f2ce", null ],
+    [ "z", "d4/d03/a09449.html#ae5d0d4e9ef4006ad6c7195b999ef00c2", null ]
 ];

@@ -1,10 +1,7 @@
 var a23593 =
 [
-    [ "boss_blindeye_the_seer", "de/d8b/a23593.html#a8b95c6f0a822adf018c5aefe59ecef5b", null ],
-    [ "JustDied", "de/d8b/a23593.html#ad70a72b18587da82d26bde8f10d63700", null ],
-    [ "JustEngagedWith", "de/d8b/a23593.html#a0cf082eefe75eac19cc09d2f714d5ff1", null ],
-    [ "Reset", "de/d8b/a23593.html#aabbda75266615f64ce88ce092e68bfa4", null ],
-    [ "UpdateAI", "de/d8b/a23593.html#a8ff8ae03cc528b9a2c71cfc2c7ff3f88", null ],
-    [ "_scheduler", "de/d8b/a23593.html#a0c5ec6cf114a289e22d890c61d4bdc93", null ],
-    [ "instance", "de/d8b/a23593.html#a74462f26d66da3ca370825858060b1c2", null ]
+    [ "HandleScript", "de/d8b/a23593.html#a359ccbdf47c9b6a1df23e6f775d5ffa8", null ],
+    [ "PrepareSpellScript", "de/d8b/a23593.html#ac1193881ad39e7ea7cb1f8f1b6627c60", null ],
+    [ "Register", "de/d8b/a23593.html#afb83fdd384a430e572a7959f81cdf2cb", null ],
+    [ "Validate", "de/d8b/a23593.html#af8587f9dff4b71b7cce8ec6d70f94927", null ]
 ];

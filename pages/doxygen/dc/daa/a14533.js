@@ -1,8 +1,12 @@
 var a14533 =
 [
-    [ "FilterTargets", "dc/daa/a14533.html#a28450a72f3d8510bdf35390f56a67f71", null ],
-    [ "HandleScriptEffect", "dc/daa/a14533.html#af97c3c43da4b099bc37e2cf4f2733dce", null ],
-    [ "PrepareSpellScript", "dc/daa/a14533.html#ac9298a59bc8b9735c210b630c68a536e", null ],
-    [ "Register", "dc/daa/a14533.html#a3bfc71bb504a0eb0f63ff307c943c23e", null ],
-    [ "Validate", "dc/daa/a14533.html#a41b2f12ebf919b781fdefab3a42bdb84", null ]
+    [ "npc_zulian_prowlerAI", "dc/daa/a14533.html#a367613efead335b060173011267ddcff", null ],
+    [ "JustDied", "dc/daa/a14533.html#a31258aadddfbf6c6e9e1d729452dd8b2", null ],
+    [ "JustEngagedWith", "dc/daa/a14533.html#a207504b15ecd22b78088593b80433581", null ],
+    [ "Reset", "dc/daa/a14533.html#a62d14bae970d8a70a997c683e0e94259", null ],
+    [ "SpellHit", "dc/daa/a14533.html#a4051cd786d8c1974cf80c28f907cc02a", null ],
+    [ "UpdateAI", "dc/daa/a14533.html#a708df3a95395f99f6ba3eebcc90a22ab", null ],
+    [ "_events", "dc/daa/a14533.html#a994ae5b4e72429141155d1342830e5ad", null ],
+    [ "_instance", "dc/daa/a14533.html#ad37ba6b6ff7f52a88d2a96dc4ea00c34", null ],
+    [ "_sideData", "dc/daa/a14533.html#afa44e09c5677c2fc567be6a67b766bde", null ]
 ];

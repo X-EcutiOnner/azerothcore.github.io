@@ -1,11 +1,9 @@
 var a21017 =
 [
-    [ "boss_yoggsaron_constrictor_tentacle", "da/d02/a21017.html#a543b785ba3033ab378fcb77d39db2ab1", null ],
-    [ "DoAction", "da/d02/a21017.html#acf3ab23043ac116dd3f410b361a5b9f4", null ],
-    [ "GrabPlayer", "da/d02/a21017.html#a0ae04ac300d4f08b12f7edaa75dbe208", null ],
-    [ "IsSummonedBy", "da/d02/a21017.html#a404e4ab66a757b6ff4fa492219198b91", null ],
-    [ "JustDied", "da/d02/a21017.html#aac8f5a80248c4616074e7ef88fb10395", null ],
-    [ "PassengerBoarded", "da/d02/a21017.html#afdef8417bffb0a2079199060b0c26980", null ],
-    [ "SelectConstrictTarget", "da/d02/a21017.html#a12103bc4e58febfdcb9fbbc31aab9ad7", null ],
-    [ "_playerGUID", "da/d02/a21017.html#a381b56eb1c81f893fd061cf4aead0bc4", null ]
+    [ "OnProc", "da/d02/a21017.html#a94de5901e43000e99b478e9194d59ecd", null ],
+    [ "PrepareAuraScript", "da/d02/a21017.html#a1b4efd5e774d4bd561a30830c3be8045", null ],
+    [ "Register", "da/d02/a21017.html#acc8a07807e5c306af285cb5889ef2c41", null ],
+    [ "Validate", "da/d02/a21017.html#ad17cfc0369da547475e43bd2970cf3f2", null ],
+    [ "_lastOrbTime", "da/d02/a21017.html#a4522510d836abf625b019674c1c5281f", null ],
+    [ "OrbCooldown", "da/d02/a21017.html#a4a0204623a0db8d1474d0e72e71226eb", null ]
 ];

@@ -1,8 +1,8 @@
 var a25313 =
 [
-    [ "AchievementCredit", "dc/d3c/a25313.html#ab0ec836feb53875de355330e05367fe8", null ],
-    [ "Load", "dc/d3c/a25313.html#ae48c67f363e399f076122cb6eee10ffb", null ],
-    [ "PrepareSpellScript", "dc/d3c/a25313.html#af0bb22c618af5dca7f534bea32e7ee7f", null ],
-    [ "Register", "dc/d3c/a25313.html#a793921687c96a39f7dd872b9721096ca", null ],
-    [ "Validate", "dc/d3c/a25313.html#a5be222c322714ec62f8beaf69faab257", null ]
+    [ "CheckProc", "dc/d3c/a25313.html#a1ba43a41ca6909f2bd377290b1b0b12b", null ],
+    [ "HandleProc", "dc/d3c/a25313.html#a9d0df8ec96c17661daaf620dd88cecd5", null ],
+    [ "PrepareAuraScript", "dc/d3c/a25313.html#af474a768c441fb666163f4ebd5068393", null ],
+    [ "Register", "dc/d3c/a25313.html#ae533e87550b1aedc67b67c217495286d", null ],
+    [ "Validate", "dc/d3c/a25313.html#ab6e36f24dea949c8cedaaed0d5fa9517", null ]
 ];

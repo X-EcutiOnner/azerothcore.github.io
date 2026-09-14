@@ -1,6 +1,14 @@
 var a14485 =
 [
-    [ "boss_gahzranka", "da/d31/a14485.html#a82cc1a44a967f859039957e41f38dd77", null ],
-    [ "IsSummonedBy", "da/d31/a14485.html#ad68be854f95c398dc5dd9e5b22f538a8", null ],
-    [ "JustEngagedWith", "da/d31/a14485.html#ac1cc43194c00fda1729f8a068d4e8779", null ]
+    [ "npc_harrison_jones", "da/d31/a14485.html#ae408c9533166f8919c121053a3efff6c", null ],
+    [ "DoAction", "da/d31/a14485.html#a2ecf8a9f807e879530ee6a094475e67b", null ],
+    [ "JustEngagedWith", "da/d31/a14485.html#a884e5973ed597eeeb606f5b8a2b1c028", null ],
+    [ "MovementInform", "da/d31/a14485.html#a5ee27ccc1aea33ecc8aee5b703e05174", null ],
+    [ "OpenMassiveGateAndCallGuards", "da/d31/a14485.html#a8f15098ad66e2d13ddfababc2ad2e33b", null ],
+    [ "Reset", "da/d31/a14485.html#a11b1b2da283ddaa475f3f42534702f5b", null ],
+    [ "sGossipSelect", "da/d31/a14485.html#ae56b80041fa198063a9ce87729142420", null ],
+    [ "SpellHit", "da/d31/a14485.html#ad3ead59986b9340529bb6c6f42dbc137", null ],
+    [ "UpdateAI", "da/d31/a14485.html#a0c64f294257e98522e0f32171aee6080", null ],
+    [ "_instance", "da/d31/a14485.html#adb995a4b18607a5bd7555ce6989c2525", null ],
+    [ "_phase", "da/d31/a14485.html#a1620b4f7407aa49c3e16876148c49ba7", null ]
 ];

@@ -1,8 +1,8 @@
 var a06053 =
 [
-    [ "BaseSocketMgr", "d5/d69/a06053.html#a55ca5c800a783d89fbe05bd945374b84", null ],
-    [ "CreateThreads", "d5/d69/a06053.html#a98a0866ae616017010f639f0ad9fc72d", null ],
-    [ "Instance", "d5/d69/a06053.html#a9c56ed247f209709221a3e592f4d010f", null ],
-    [ "OnSocketAccept", "d5/d69/a06053.html#a02b81323eba1428f9b5eebf7f5edc393", null ],
-    [ "StartNetwork", "d5/d69/a06053.html#a345e4f8cc1c216ed7eb9c3e96748170f", null ]
+    [ "cmd", "d5/d69/a06053.html#a14df856ae931474a7c58d0e35caf6ad0", null ],
+    [ "number_of_keys", "d5/d69/a06053.html#aaa44734bb96b91894c038b3f34b4db0d", null ],
+    [ "R1", "d5/d69/a06053.html#a054648a96d1c66bae6fdb9a174e7b1e6", null ],
+    [ "R2", "d5/d69/a06053.html#a72fa4a4d0b6098fdf8e5c8f9a33f08ad", null ],
+    [ "R3", "d5/d69/a06053.html#a819a5ba3a19583fd0cfd0558cf218e54", null ]
 ];

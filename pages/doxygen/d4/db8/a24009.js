@@ -1,6 +1,6 @@
 var a24009 =
 [
-    [ "HandleDummy", "d4/db8/a24009.html#a4c1177fc89310598b6ba7cddf7f47cd1", null ],
-    [ "PrepareSpellScript", "d4/db8/a24009.html#af511bcad63ff423bf04a430f56959f40", null ],
-    [ "Register", "d4/db8/a24009.html#adaa4fc5294e2b0cb5bcb42f1a93a6f29", null ]
+    [ "HandlePeriodic", "d4/db8/a24009.html#a0a6da7aad8b7fcc92092f7a3c5bc0768", null ],
+    [ "PrepareAuraScript", "d4/db8/a24009.html#a75d72d196ded2ee109d0231d4342890a", null ],
+    [ "Register", "d4/db8/a24009.html#a148013ea68bbc573bddc1c3639dba019", null ]
 ];

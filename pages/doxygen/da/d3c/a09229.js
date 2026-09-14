@@ -1,9 +1,7 @@
 var a09229 =
 [
-    [ "TransportBase", "da/d3c/a09229.html#a6dba8e37217dae4e5da8f52780e63f70", null ],
-    [ "~TransportBase", "da/d3c/a09229.html#a81dca3435a1a1666a90acd8e154e3287", null ],
-    [ "CalculatePassengerOffset", "da/d3c/a09229.html#ae8c9eb64027f8e7c781f0af192e3f6c1", null ],
-    [ "CalculatePassengerOffset", "da/d3c/a09229.html#aa4d00f15dc0e6c53b4a175b0ca53021b", null ],
-    [ "CalculatePassengerPosition", "da/d3c/a09229.html#a7cb7586a6935ca4e08aa3e658982abec", null ],
-    [ "CalculatePassengerPosition", "da/d3c/a09229.html#a328fbc464c56eca89138380182a0108c", null ]
+    [ "HealthOrderPred", "da/d3c/a09229.html#ac5d0408da69ecd6415c6f4eae61d11d8", null ],
+    [ "operator()", "da/d3c/a09229.html#acb5867bddd0e5107139d52ff99817f5c", null ],
+    [ "operator()", "da/d3c/a09229.html#ad9cae47d98b31687958cfca56b29c213", null ],
+    [ "_ascending", "da/d3c/a09229.html#a93e2e41a9849d6c2ecfffcaffa74acee", null ]
 ];

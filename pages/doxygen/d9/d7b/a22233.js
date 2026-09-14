@@ -1,6 +1,7 @@
 var a22233 =
 [
-    [ "npc_frostbrood_skytalonAI", "d5/d09/a22237.html", "d5/d09/a22237" ],
-    [ "npc_frostbrood_skytalon", "d9/d7b/a22233.html#a1bc95edf0e624709e3836bdcfb0c503c", null ],
-    [ "GetAI", "d9/d7b/a22233.html#af5b1c3e52076fb84b83e785762ff6b6d", null ]
+    [ "npc_tirions_gambit_tirionAI", "d5/d09/a22237.html", "d5/d09/a22237" ],
+    [ "npc_tirions_gambit_tirion", "d9/d7b/a22233.html#ad52abd46ccdd3b4409671679434c193c", null ],
+    [ "GetAI", "d9/d7b/a22233.html#a222c092c2e2136dbd7057a3f7ad7b5f4", null ],
+    [ "OnGossipSelect", "d9/d7b/a22233.html#a5af904a3394de9b3eedb52009bd6b0a9", null ]
 ];

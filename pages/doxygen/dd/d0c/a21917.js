@@ -1,8 +1,6 @@
 var a21917 =
 [
-    [ "npc_q24545_vegardAI", "dd/d0c/a21917.html#a6a86b56508a86bf32ab5fb2bd46248c9", null ],
-    [ "JustDied", "dd/d0c/a21917.html#a1f7784242bbaf39d0fb105d2930da37c", null ],
-    [ "KilledUnit", "dd/d0c/a21917.html#a2d78117a6c2a29f52f1905595425964a", null ],
-    [ "UpdateAI", "dd/d0c/a21917.html#a79cc34760b58ad4b29c6a0a496971f0a", null ],
-    [ "events", "dd/d0c/a21917.html#a68f48d92cc5559025e635d599c2882e3", null ]
+    [ "npc_heated_battleAI", "dd/d0c/a21917.html#a2b73957d7890549f4b02488c5527fcef", null ],
+    [ "DamageTaken", "dd/d0c/a21917.html#a8422c157214195d7166ede35c9c05d19", null ],
+    [ "Reset", "dd/d0c/a21917.html#a11a4f3270ff260e30da89017dad38433", null ]
 ];

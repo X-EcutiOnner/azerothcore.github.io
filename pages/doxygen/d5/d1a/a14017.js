@@ -1,10 +1,8 @@
 var a14017 =
 [
-    [ "npc_partygoer_pather", "d5/d1a/a14017.html#a15a0e517e8671afb9d636ebe781a4bcd", null ],
-    [ "Initialize", "d5/d1a/a14017.html#afb114b0587c550e39c41e131364da663", null ],
-    [ "PathEndReached", "d5/d1a/a14017.html#a55833d306716ba411f96ecd024cc7c72", null ],
-    [ "Reset", "d5/d1a/a14017.html#ade2cc36ff49001138eee5b607ec83b12", null ],
-    [ "UpdateAI", "d5/d1a/a14017.html#a4d222399b6b789e7a2a2faa4765116a6", null ],
-    [ "_events", "d5/d1a/a14017.html#ac210dc0286ded980e78743237a08bb23", null ],
-    [ "_path", "d5/d1a/a14017.html#a4da184c44858e99eca2b07193fd48f13", null ]
+    [ "HandleEffectApply", "d5/d1a/a14017.html#afd47748c7db2e0a5b7da2e18dc7b53ec", null ],
+    [ "HandleEffectRemove", "d5/d1a/a14017.html#a87a0061366829cbc6f856cc1f7ea1105", null ],
+    [ "Load", "d5/d1a/a14017.html#a2e3b53977f188ed28d9deedbcbc03e6b", null ],
+    [ "PrepareAuraScript", "d5/d1a/a14017.html#a99b97b2ed12d73e417af0b970c2a9645", null ],
+    [ "Register", "d5/d1a/a14017.html#a6a90296c9903ce65913f3bba29dea176", null ]
 ];

@@ -1,7 +1,7 @@
 var a17333 =
 [
-    [ "OnRemove", "da/db4/a17333.html#a4b95717cb19116b81f3eec798089abad", null ],
-    [ "PrepareAuraScript", "da/db4/a17333.html#a581645fa151531aaf7b562a8739d5616", null ],
-    [ "Register", "da/db4/a17333.html#a01304c556d79001e290707551bee7622", null ],
-    [ "Validate", "da/db4/a17333.html#a96e4b9cae1f016bf87c9a09ceb6da561", null ]
+    [ "HandlePeriodicTick", "da/db4/a17333.html#abe9cc0a87d84504ee029cc565dd97ef5", null ],
+    [ "PrepareAuraScript", "da/db4/a17333.html#a93e894c642101160dd51f30952c82d24", null ],
+    [ "Register", "da/db4/a17333.html#a49172ede0f888e391b9b4a835475220a", null ],
+    [ "Validate", "da/db4/a17333.html#a3b9998ef5ee0931afbe5b04430da10a0", null ]
 ];

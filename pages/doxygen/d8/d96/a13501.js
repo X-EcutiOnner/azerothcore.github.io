@@ -1,16 +1,17 @@
 var a13501 =
 [
-    [ "instance_scarlet_monastery_InstanceMapScript", "d8/d96/a13501.html#a4abdd53f735be815cb2d43497d1531e0", null ],
-    [ "GetData", "d8/d96/a13501.html#a07d9bcc1b1daa29f31be146aaa85993c", null ],
-    [ "GetGuidData", "d8/d96/a13501.html#a49ac1088399ef71b1fcd7c90c6a34fac", null ],
-    [ "OnCreatureCreate", "d8/d96/a13501.html#a71fcfc166f945325a4ee149645a9ccef", null ],
-    [ "OnGameObjectCreate", "d8/d96/a13501.html#a5e90e8cadff18b19c9a1d451dbe675c9", null ],
-    [ "SetData", "d8/d96/a13501.html#aaf498d563d070d6250a182f583651777", null ],
-    [ "_ashbringerNpcGUID", "d8/d96/a13501.html#a1abdafc284def7ab4069a17c0aeda535", null ],
-    [ "_ashencounter", "d8/d96/a13501.html#ac6f544cf00bb6d987c9128cce9c1aa10", null ],
-    [ "_doorChapelGUID", "d8/d96/a13501.html#a9f5070bfd7326ccaa1ebe697524a814b", null ],
-    [ "_doorHighInquisitorGUID", "d8/d96/a13501.html#a1c9c74f06b2e1db77d5e6c75e720290c", null ],
-    [ "_encounter", "d8/d96/a13501.html#a9d025f0d9740eaec42fe4f45971a6cf9", null ],
-    [ "_mograineGUID", "d8/d96/a13501.html#ad34fc11ed5bd36a8f3a84f183627deb1", null ],
-    [ "_whitemaneGUID", "d8/d96/a13501.html#af6c6214f8d506815afeeb2af4ad4a71b", null ]
+    [ "boss_priestess_lackey_commonAI", "d8/d96/a13501.html#acf122076823631cef5d66e03a9f607aa", null ],
+    [ "AttackStart", "d8/d96/a13501.html#a6056ef3425f39208e5731b25fc94a335", null ],
+    [ "EnterEvadeMode", "d8/d96/a13501.html#a6935410d7a4ce8e9dec9feed9f5351d7", null ],
+    [ "GetThreatMod", "d8/d96/a13501.html#a2e0e387ae4645c9bbd4625d1469403a8", null ],
+    [ "JustDied", "d8/d96/a13501.html#a8b06ee0a3e22d495a41ccf4c7009ad2d", null ],
+    [ "JustEngagedWith", "d8/d96/a13501.html#a4d47aacc653ab0e4b74fa3bcbcfdbbc7", null ],
+    [ "JustSummoned", "d8/d96/a13501.html#a9a7bcf641bae31827872faf7666635d5", null ],
+    [ "KilledUnit", "d8/d96/a13501.html#a23aaa0a619470898dd617a18130ca17b", null ],
+    [ "RecalculateThreat", "d8/d96/a13501.html#a7daa8f2b2ddfbbd0d0f267dac7e0c2c2", null ],
+    [ "Reset", "d8/d96/a13501.html#aa2ef03d73c43668c97205fa72414e71b", null ],
+    [ "UpdateAI", "d8/d96/a13501.html#adf87bd797da345e49700265319d808cc", null ],
+    [ "aiType", "d8/d96/a13501.html#a2b7ccbf195658e402ba6f276b18e3551", null ],
+    [ "instance", "d8/d96/a13501.html#ac71aa86c97fe11d934f09d62c4ed8eab", null ],
+    [ "summons", "d8/d96/a13501.html#a498ef73fcc7995113318c5f0b6efa23e", null ]
 ];

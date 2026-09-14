@@ -1,6 +1,6 @@
 var a25945 =
 [
-    [ "OnRemove", "d3/daf/a25945.html#adcdc87bcfb9aee5eaa227ba66ad5f010", null ],
-    [ "PrepareAuraScript", "d3/daf/a25945.html#a9b3985c6f2b1b88ab86ec38c8508fc16", null ],
-    [ "Register", "d3/daf/a25945.html#a0bc1dae33d0a780623f4551b1dfb1fbf", null ]
+    [ "HandlePreventAura", "d3/daf/a25945.html#a62b9a62f5379f4ca98921c7fe4278b58", null ],
+    [ "PrepareSpellScript", "d3/daf/a25945.html#a61b2f1d5634219f9c48a9ea75e90d423", null ],
+    [ "Register", "d3/daf/a25945.html#ab1a90b7939c146b40badfd6424c35cf7", null ]
 ];

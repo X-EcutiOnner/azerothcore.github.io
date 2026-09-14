@@ -1,6 +1,6 @@
 var a21281 =
 [
-    [ "npc_massive_jormungarAI", "d1/d59/a21285.html", "d1/d59/a21285" ],
-    [ "npc_massive_jormungar", "d8/d73/a21281.html#ad17b632fcfe78019dcb9e6b58fa1ac01", null ],
-    [ "GetAI", "d8/d73/a21281.html#a68e3557e967ef633ba59fa81e661b80c", null ]
+    [ "CheckRequirement", "d8/d73/a21281.html#ad0a1865c8f534310ec2d4c8abc698761", null ],
+    [ "PrepareSpellScript", "d8/d73/a21281.html#a06e1b98a589717bdef6444912a7ad602", null ],
+    [ "Register", "d8/d73/a21281.html#a089a8055517acd9ddc31bf1bd16cbf17", null ]
 ];

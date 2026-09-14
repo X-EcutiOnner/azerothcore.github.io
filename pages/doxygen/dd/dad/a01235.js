@@ -1,7 +1,6 @@
 var a01235 =
 [
-    [ "BG_RV_CLOSE_FIRE_TIMER", "dd/dad/a01235.html#adea63e30cefe486dd1cbeb0353fdaeb2", null ],
-    [ "BG_RV_FIRE_TO_PILLAR_TIMER", "dd/dad/a01235.html#a20f119684cfae65594c4cb1fc59e60c1", null ],
-    [ "BG_RV_FIRST_TIMER", "dd/dad/a01235.html#abb49be7549db0a88e8b5fcd470741084", null ],
-    [ "BG_RV_PILLAR_SWITCH_TIMER", "dd/dad/a01235.html#a6ecc5972946e4de12babadf07ce85e2f", null ]
+    [ "BG_SA_BOAT_START", "dd/dad/a01235.html#a2ec6635cf59771fcfd56b16cd670eebc", null ],
+    [ "BG_SA_ROUNDLENGTH", "dd/dad/a01235.html#a1197e8f288608511601a41e8e8ea80ce", null ],
+    [ "BG_SA_WARMUPLENGTH", "dd/dad/a01235.html#a7447506b77b9babea7568349335ea705", null ]
 ];

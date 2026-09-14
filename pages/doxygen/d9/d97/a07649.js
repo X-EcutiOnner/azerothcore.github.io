@@ -1,15 +1,10 @@
 var a07649 =
 [
-    [ "ArenaSeasonRewardGroup", "d9/d97/a07649.html#a128e78db84f099d91e21da77b2147e82", null ],
-    [ "operator==", "d9/d97/a07649.html#ae7993cfbf1cb547c92d302394105f231", null ],
-    [ "achievementRewards", "d9/d97/a07649.html#a1b89c847e86b29671f86dbbef1c9a1b6", null ],
-    [ "criteriaType", "d9/d97/a07649.html#a16261356df6f5aed35bc3ec06ab49560", null ],
-    [ "goldReward", "d9/d97/a07649.html#a582c7d51c2ab4bb5cf0e45b773dd20ee", null ],
-    [ "itemRewards", "d9/d97/a07649.html#a24e7afcf5a95fba7f2cdc5914baac392", null ],
-    [ "maxCriteria", "d9/d97/a07649.html#aa3cf9a0ad2ed2170542ec360e61682e2", null ],
-    [ "minCriteria", "d9/d97/a07649.html#a07507bd59265508a463aa328f343afa0", null ],
-    [ "rewardMailBody", "d9/d97/a07649.html#afa55d982d4f2ef5f2eccf48ed305b649", null ],
-    [ "rewardMailSubject", "d9/d97/a07649.html#a0574cf3fc910f13413ea7eb1c0f08166", null ],
-    [ "rewardMailTemplateID", "d9/d97/a07649.html#ade97a1ea3355cd19aaf65ab80a26e4bf", null ],
-    [ "season", "d9/d97/a07649.html#a2e6a5d2ca970d3921142b497d351c50f", null ]
+    [ "CreatureBottom", "d9/d97/a07649.html#aaa8fe59aa58bf02934bf87f636582637", null ],
+    [ "CreatureTop", "d9/d97/a07649.html#a98a71fcf0d3a1f98ba4dab56d1a3c64b", null ],
+    [ "GameObject", "d9/d97/a07649.html#abc26a328692fc048d9040c44f360f4c4", null ],
+    [ "nbCreatureBottom", "d9/d97/a07649.html#ade8af6bff39a72f7052b7b0db14b207d", null ],
+    [ "nbCreatureTop", "d9/d97/a07649.html#a38ab7536e0682efd7080b823569d504b", null ],
+    [ "nbObject", "d9/d97/a07649.html#ad1e431e7205aee7fa7f8f0dd9a155c97", null ],
+    [ "towerEntry", "d9/d97/a07649.html#a1c0edf97a599773b688954f2e966e794", null ]
 ];

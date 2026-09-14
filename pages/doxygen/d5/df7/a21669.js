@@ -1,6 +1,6 @@
 var a21669 =
 [
-    [ "npc_hidden_cultistAI", "de/d2d/a21673.html", "de/d2d/a21673" ],
-    [ "npc_hidden_cultist", "d5/df7/a21669.html#ab455b35fea966360e01fb8975adad989", null ],
-    [ "GetAI", "d5/df7/a21669.html#a4897006d9416f1177b0bc0e41df60293", null ]
+    [ "npc_khunok_the_behemothAI", "de/d2d/a21673.html", "de/d2d/a21673" ],
+    [ "npc_khunok_the_behemoth", "d5/df7/a21669.html#a0370959631c00581495dbd7c37263236", null ],
+    [ "GetAI", "d5/df7/a21669.html#a201aa35dd119d23126b192a1e3786c09", null ]
 ];

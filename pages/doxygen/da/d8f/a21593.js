@@ -1,8 +1,11 @@
 var a21593 =
 [
-    [ "HandleEffectRemove", "da/d8f/a21593.html#aa2b05befb775244423264f6b5e2387c1", null ],
-    [ "Load", "da/d8f/a21593.html#a02ea4c29f2c7e15a5039b93d7a0d3c5e", null ],
-    [ "PrepareAuraScript", "da/d8f/a21593.html#a632e81cc39bdcd0f5adcc684231d1171", null ],
-    [ "Register", "da/d8f/a21593.html#aba5483b1d35c1b58841fad2b1086f07c", null ],
-    [ "Validate", "da/d8f/a21593.html#ada90e1f06ced8f4e353fe2bda3d31637", null ]
+    [ "npc_vh_void_sentry", "da/d8f/a21593.html#adeb66953fb7540aab5190b825ff98ec8", null ],
+    [ "DoAction", "da/d8f/a21593.html#a37ed72c221f23cd653694c10d536eec4", null ],
+    [ "JustDied", "da/d8f/a21593.html#aabf96934586d38d6f958c1571c0b3b56", null ],
+    [ "SummonedCreatureDespawn", "da/d8f/a21593.html#aa0ac1eb51911672653ec6fd48d2ef316", null ],
+    [ "UpdateAI", "da/d8f/a21593.html#a417af2ca21310ca105d7561e3ab21272", null ],
+    [ "_events", "da/d8f/a21593.html#a30899a2d4d8a82b26251911dc3b48008", null ],
+    [ "_instance", "da/d8f/a21593.html#a80dc77a2deaf0f922f3f096f40b253e1", null ],
+    [ "_summonedGuid", "da/d8f/a21593.html#a223e85ca87d89c51d0bc02e00d591aec", null ]
 ];

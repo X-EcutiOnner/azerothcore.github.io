@@ -1,5 +1,7 @@
 var a25545 =
 [
-    [ "PrepareSpellScript", "d6/d99/a25545.html#a096ce1292821f201af5f294877ee25e0", null ],
-    [ "Register", "d6/d99/a25545.html#a804d6dec38ea4e59a72ed09882dc9e95", null ]
+    [ "EjectPassenger", "d6/d99/a25545.html#a17ead3b25e5cebda3c9d5008f54f27ef", null ],
+    [ "PrepareSpellScript", "d6/d99/a25545.html#abada0f860ea3cd6c16fbe4d73263d95a", null ],
+    [ "Register", "d6/d99/a25545.html#ad5af65bc326aebcc1a2e19dabe624ad1", null ],
+    [ "Validate", "d6/d99/a25545.html#a24ad6ca59f4f38cfa34de16c4167944e", null ]
 ];

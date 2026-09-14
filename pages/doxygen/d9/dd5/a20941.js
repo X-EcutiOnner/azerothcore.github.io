@@ -1,8 +1,6 @@
 var a20941 =
 [
-    [ "npc_xt_toy_pile", "d9/dd5/a20941.html#a843e7d05cf62baa5c006077f8dad107d", null ],
-    [ "SpellHit", "d9/dd5/a20941.html#a82af3830eaf524c587334e8eb193925f", null ],
-    [ "_lastSummonTime", "d9/dd5/a20941.html#aaa8e3581f39206c30f1b7de9a81f1387", null ],
-    [ "SummonCooldown", "d9/dd5/a20941.html#ab0924af7ecfd54f1744b11af76ca2834", null ],
-    [ "SummonDistance", "d9/dd5/a20941.html#a3adcb7a8f6ad7b515719794e0ddca964", null ]
+    [ "PrepareSpellScript", "d9/dd5/a20941.html#a3c8337cc17ec735fc97f5195a1e820b6", null ],
+    [ "Register", "d9/dd5/a20941.html#ae0cc2794b1d2b8de442dbf30f7da8883", null ],
+    [ "SelectPillar", "d9/dd5/a20941.html#a2eaa34f9f3b3d255fc5091fb5b48f60a", null ]
 ];

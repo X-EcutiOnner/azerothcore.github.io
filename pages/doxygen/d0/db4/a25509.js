@@ -1,11 +1,6 @@
 var a25509 =
 [
-    [ "spell_gen_consume", "d0/db4/a25509.html#a839f5e891cfbd0f83937f06c7fd049d4", null ],
-    [ "AfterRemove", "d0/db4/a25509.html#ac521cc1524ddb9dd298145f23cc8fcd1", null ],
-    [ "HandleProc", "d0/db4/a25509.html#af69251aa0415a2148162f32dd9113917", null ],
-    [ "PrepareAuraScript", "d0/db4/a25509.html#a43860e5dcb2d2cb49e52c280d4f3c7e9", null ],
-    [ "Register", "d0/db4/a25509.html#a043362a08bcf9cfe253dd23c722a60bc", null ],
-    [ "Validate", "d0/db4/a25509.html#ae9b7c2f4a1b8f26a20b5ca6d90d3c5e9", null ],
-    [ "_spellId1", "d0/db4/a25509.html#a9763527e0a95c52888847b84d8f1dd8d", null ],
-    [ "_spellId2", "d0/db4/a25509.html#aa9b47c361eaad7dac4725e0be1bfe254", null ]
+    [ "HandleScript", "d0/db4/a25509.html#a1055ce8e5cbcc9d475bd9dab1f99cf92", null ],
+    [ "PrepareSpellScript", "d0/db4/a25509.html#a460823e5ad006c08d5b6378b7df279f0", null ],
+    [ "Register", "d0/db4/a25509.html#a7099938c5f14238b5afdadb6d040f931", null ]
 ];

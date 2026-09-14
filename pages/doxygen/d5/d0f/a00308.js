@@ -1,17 +1,15 @@
 var a00308 =
 [
-    [ "apply", "d5/d0f/a00308.html#a6177d7ac84a4ea6819c57a124345540e", null ],
-    [ "convert", "d5/d0f/a00308.html#a5628479f846d755da3ff53b0e2a66c26", null ],
-    [ "convert< 0 >", "d5/d0f/a00308.html#aa8017307aa0aa935f062b4f701563d09", null ],
-    [ "convert< 1 >", "d5/d0f/a00308.html#a3717e304a2b8b074fcd513ca8e0db116", null ],
-    [ "EndianConvert", "d5/d0f/a00308.html#a49a7404e8b8e7030c609822047db18e8", null ],
-    [ "EndianConvert", "d5/d0f/a00308.html#a9d20b1e463a04f0a22d79ca802902be6", null ],
-    [ "EndianConvert", "d5/d0f/a00308.html#af2e19073fdc053bb0299b663fa1ee757", null ],
-    [ "EndianConvert", "d5/d0f/a00308.html#a7a138a6c8a71f6e9bd8eb436a598f628", null ],
-    [ "EndianConvertPtr", "d5/d0f/a00308.html#a73b1f88261dfd018f7f185b0ea941c88", null ],
-    [ "EndianConvertPtrReverse", "d5/d0f/a00308.html#a8b9f1be37ef60cffbb862512d9374dd4", null ],
-    [ "EndianConvertReverse", "d5/d0f/a00308.html#acdb2b3cf0ea55e72e1d4047380cbd260", null ],
-    [ "EndianConvertReverse", "d5/d0f/a00308.html#a71946d011105dec5ad60c6875066ed86", null ],
-    [ "EndianConvertReverse", "d5/d0f/a00308.html#a1fa1c447bec92bbf436d429b422cc2e7", null ],
-    [ "EndianConvertReverse", "d5/d0f/a00308.html#a2adbd00f9fd7adfc4bd3d26ae1565a0b", null ]
+    [ "Path", "d5/d0f/a00308.html#a46d4fe7df18a42b31a3e2c1d50288507", null ],
+    [ "Apply", "d5/d0f/a00308.html#a60aa8fdb745a17f1b3c03e87caf89cd5", null ],
+    [ "ApplyFile", "d5/d0f/a00308.html#a38e70e24d58d7876f42d954d769852b2", null ],
+    [ "ApplyFile", "d5/d0f/a00308.html#a1335aaca4f7fbac6a07960fa8d9c8e62", null ],
+    [ "CreateDatabase", "d5/d0f/a00308.html#a23cdd10a64e2e376416e93949b5644ea", null ],
+    [ "PopulateDatabase", "d5/d0f/a00308.html#a656a0a6d93f58d7d4cc2b1f99edb0c44", null ],
+    [ "Retrieve", "d5/d0f/a00308.html#a3d6c6331ddb1b77d420f04cdb0d47c17", null ],
+    [ "UpdateDatabase", "d5/d0f/a00308.html#abb1541bb142924d077074a145a6dc9d1", null ],
+    [ "UpdateDatabase", "d5/d0f/a00308.html#ad9151ad93918459d42b5b2e92f5240c4", null ],
+    [ "DBUpdater< CharacterDatabaseConnection >", "d5/d0f/a00308.html#a753e207671f7af3815a056247f2de3ce", null ],
+    [ "DBUpdater< LoginDatabaseConnection >", "d5/d0f/a00308.html#a16a33693c8570aff221401b100547fb7", null ],
+    [ "DBUpdater< WorldDatabaseConnection >", "d5/d0f/a00308.html#ace05c45d1df6cb7f16487ef1aa8bc9f7", null ]
 ];

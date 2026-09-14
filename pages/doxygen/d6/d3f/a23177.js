@@ -1,7 +1,8 @@
 var a23177 =
 [
-    [ "HandleScriptEffect", "d6/d3f/a23177.html#a0038e566bc5054e4208fd727fcc266fa", null ],
-    [ "PrepareSpellScript", "d6/d3f/a23177.html#abb661bacf4cec1f2e15f4aeda2ab991e", null ],
-    [ "Register", "d6/d3f/a23177.html#a416b811c2676c598df0ac0e5906a94d3", null ],
-    [ "Validate", "d6/d3f/a23177.html#a11e82a2b40dbbd9949a1dda3bd715679", null ]
+    [ "boss_najentus", "d6/d3f/a23177.html#ac5d3d54a49524892fe844925d483c244", null ],
+    [ "JustDied", "d6/d3f/a23177.html#afee32dd32033c7a45068ce12e961797c", null ],
+    [ "JustEngagedWith", "d6/d3f/a23177.html#a46e3aab64c21b24ac6457acd598679ec", null ],
+    [ "KilledUnit", "d6/d3f/a23177.html#ad55e1de3aa7a636b3d30b0d61a17dab9", null ],
+    [ "Reset", "d6/d3f/a23177.html#ab7e0bdb8954722c9080146a88a3c5aa2", null ]
 ];

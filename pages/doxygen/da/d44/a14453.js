@@ -1,7 +1,7 @@
 var a14453 =
 [
-    [ "HandleTriggerSpell", "da/d44/a14453.html#a66b366f4989d99a58b331e56024e4520", null ],
-    [ "PrepareAuraScript", "da/d44/a14453.html#a4b00497e095b5c43571b543252b31e58", null ],
-    [ "Register", "da/d44/a14453.html#abacee7689888bf8c5d21b534a6d71b40", null ],
-    [ "Validate", "da/d44/a14453.html#a6bef0ac760a319deed6f71fee213e885", null ]
+    [ "OnPeriodic", "da/d44/a14453.html#aa541a8bc034517d1f5d034ac51bd8dac", null ],
+    [ "PrepareAuraScript", "da/d44/a14453.html#abc166e4dc33e7bffd1d53c2ef8272efa", null ],
+    [ "Register", "da/d44/a14453.html#a60313d4ba992b1dc81e7cdae942f1b3d", null ],
+    [ "Validate", "da/d44/a14453.html#a7ed214de6769314a45540e9afdb82949", null ]
 ];

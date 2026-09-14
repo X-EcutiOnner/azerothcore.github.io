@@ -1,6 +1,7 @@
 var a10629 =
 [
-    [ "PoolObject", "df/df4/a10629.html#a772dc7bc9e1ce25edba89977bf87e3f0", null ],
-    [ "chance", "df/df4/a10629.html#ae129795bb2f358af900dbc8892502123", null ],
-    [ "guid", "df/df4/a10629.html#ae10fa01f5959e231fe2c16d38d9f3615", null ]
+    [ "WaypointPath", "df/df4/a10629.html#a69a3981fa5b1672519124870513458b3", null ],
+    [ "WaypointPath", "df/df4/a10629.html#a65afbfc096b99361fcab26adad9cab7d", null ],
+    [ "Id", "df/df4/a10629.html#a553acc50411bbeabedbec3c9431212ad", null ],
+    [ "Nodes", "df/df4/a10629.html#a6326c73791542489c7f4d098b05887fb", null ]
 ];

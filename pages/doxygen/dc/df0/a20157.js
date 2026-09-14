@@ -1,5 +1,6 @@
 var a20157 =
 [
-    [ "achievement_algalon_herald_of_the_titans", "dc/df0/a20157.html#a13c75b878f4669d212eeb09b55336384", null ],
-    [ "OnCheck", "dc/df0/a20157.html#a20811d7bb453b1758967c11545e630e9", null ]
+    [ "npc_collapsing_star", "dc/df0/a20157.html#a6660bd7f397d7a3cd7ee5d3580b6bb78", null ],
+    [ "DamageTaken", "dc/df0/a20157.html#ad19c1a3c033b0d97fe42c492634f9cd4", null ],
+    [ "JustSummoned", "dc/df0/a20157.html#a56e0bb55d903b6e7e5c493292512bebe", null ]
 ];

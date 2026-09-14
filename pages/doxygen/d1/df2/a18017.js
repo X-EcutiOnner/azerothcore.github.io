@@ -1,6 +1,6 @@
 var a18017 =
 [
-    [ "npc_igb_ship_crewAI", "d1/df2/a18017.html#a3ca741b305e3235b0521f094d7abe732", null ],
-    [ "CanAIAttack", "d1/df2/a18017.html#a2c834dc151493957fc116865699ae7f5", null ],
-    [ "_instance", "d1/df2/a18017.html#a288bd5f8b4eaed7b1a960ed738330ae4", null ]
+    [ "Cooldown", "d1/df2/a18017.html#ac2f21814be8269023a2069f3eb03dfe2", null ],
+    [ "Entry", "d1/df2/a18017.html#a28ff8bdab669f7b4aec95857cc460a2f", null ],
+    [ "TargetPosition", "d1/df2/a18017.html#ac47af49622012b4ad40357cadc5214b3", null ]
 ];

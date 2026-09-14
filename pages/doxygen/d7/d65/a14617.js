@@ -1,6 +1,7 @@
 var a14617 =
 [
-    [ "LaunchHit", "d7/d65/a14617.html#a715c86c4057fe8c60abf02d895ac3c5a", null ],
-    [ "PrepareSpellScript", "d7/d65/a14617.html#a4ad316b68d84921255577aedabb5ad3f", null ],
-    [ "Register", "d7/d65/a14617.html#a50fa3ede9bebb2b54c4ec10091017c07", null ]
+    [ "HandleScriptEffect", "d7/d65/a14617.html#ace68732d578fbaeb2b209bfded88853a", null ],
+    [ "PrepareSpellScript", "d7/d65/a14617.html#a42a69995e8f527a383e96e2ead832f72", null ],
+    [ "Register", "d7/d65/a14617.html#abb26c89a617bc27f8c2a1cfbb0935234", null ],
+    [ "Validate", "d7/d65/a14617.html#a7697caf8e5390d290b353fb6a291aa10", null ]
 ];

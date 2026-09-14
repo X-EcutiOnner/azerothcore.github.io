@@ -1,8 +1,6 @@
 var a16621 =
 [
-    [ "OnApply", "de/df9/a16621.html#a96321003a002be0e4838901f03f8a5d8", null ],
-    [ "OnRemove", "de/df9/a16621.html#af616afe7bf87eb7fdb44bf15e9ad85d4", null ],
-    [ "PrepareAuraScript", "de/df9/a16621.html#ae5c880210cb50cf5320ee3595791eaa8", null ],
-    [ "Register", "de/df9/a16621.html#aaa2a16cff2e9aae77cdc1bb75c38f26a", null ],
-    [ "Validate", "de/df9/a16621.html#ad09a31813a7a03f8abf6dc9c151bb002", null ]
+    [ "boss_general_zarithrianAI", "d8/dfe/a16625.html", "d8/dfe/a16625" ],
+    [ "boss_general_zarithrian", "de/df9/a16621.html#a030c53b6ef1d75027ddfd298d49ab330", null ],
+    [ "GetAI", "de/df9/a16621.html#a22ba4e0769dd9404ae043fb9c16233ff", null ]
 ];

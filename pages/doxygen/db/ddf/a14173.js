@@ -1,7 +1,6 @@
 var a14173 =
 [
-    [ "HandleEffectApply", "db/ddf/a14173.html#a8d52c4ea09e1d58d2dc44ff73d71faf5", null ],
-    [ "PrepareAuraScript", "db/ddf/a14173.html#a9829789fe5544429454e29d228ce0daf", null ],
-    [ "Register", "db/ddf/a14173.html#a7f5a26d10f48d863477ec902e6f5ff1e", null ],
-    [ "Validate", "db/ddf/a14173.html#ae81a441757ab9f10c29a7b313b99cf5f", null ]
+    [ "npc_marzon_silent_bladeAI", "d9/d69/a14177.html", "d9/d69/a14177" ],
+    [ "npc_marzon_silent_blade", "db/ddf/a14173.html#a8fa1c0e11555df45005f37fd9de7f3a8", null ],
+    [ "GetAI", "db/ddf/a14173.html#aadde9b84b46c594e41ae8ca3ae0265a1", null ]
 ];

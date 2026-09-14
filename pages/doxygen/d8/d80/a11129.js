@@ -1,11 +1,9 @@
 var a11129 =
 [
-    [ "GuildRankTabPermissions", "d0/d2b/a11133.html", "d0/d2b/a11133" ],
-    [ "GuildPermissionsQueryResults", "d8/d80/a11129.html#aa643af51780fc550f3947936266d54f5", null ],
-    [ "Write", "d8/d80/a11129.html#a4a5937a8daab44b5000a5308ed0be06a", null ],
-    [ "Flags", "d8/d80/a11129.html#a368162426ab526adafc7ecb223fdf865", null ],
-    [ "NumTabs", "d8/d80/a11129.html#ab797ef0f0081c4520a6333afbe6cd5b4", null ],
-    [ "RankID", "d8/d80/a11129.html#a795ba45650991bd5c1aa03c17886d86b", null ],
-    [ "Tab", "d8/d80/a11129.html#ae54eeb1a76f5eeaf4a63bcb58bab3460", null ],
-    [ "WithdrawGoldLimit", "d8/d80/a11129.html#a9d175a8de69f15c3f8eadf237f68e84a", null ]
+    [ "GuildRoster", "d8/d80/a11129.html#a2161128d6fb6fa53a5129a95ded2b5fc", null ],
+    [ "Write", "d8/d80/a11129.html#a544a539999827d4eb8923cbbcdf42bac", null ],
+    [ "InfoText", "d8/d80/a11129.html#a9d457ee8feb6c173d960b360aca90fc6", null ],
+    [ "MemberData", "d8/d80/a11129.html#a964fc72bf3ada77c171fd1f691449241", null ],
+    [ "RankData", "d8/d80/a11129.html#a67b0a12fae93c5807030c1062f328abb", null ],
+    [ "WelcomeText", "d8/d80/a11129.html#a5ec2c209558d2c34feee4bfd8cda201c", null ]
 ];

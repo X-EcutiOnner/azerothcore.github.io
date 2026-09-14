@@ -1,7 +1,7 @@
 var a23157 =
 [
-    [ "PrepareAuraScript", "d7/df2/a23157.html#a30ec063aa1ddbc3a32066e1f868bf742", null ],
-    [ "Register", "d7/df2/a23157.html#a1e62c60bfc2b72811950b627ce1202c3", null ],
-    [ "Update", "d7/df2/a23157.html#a3f98767367564734c9877d1870aac31b", null ],
-    [ "Validate", "d7/df2/a23157.html#a450460769e0e54e06f1b64b3c63ba0de", null ]
+    [ "Absorb", "d7/df2/a23157.html#a227cf7329d7dee564c3f8f9f67378ffe", null ],
+    [ "HandleEffectRemove", "d7/df2/a23157.html#a3d4026e5208acb948c089a4bedba0de8", null ],
+    [ "PrepareAuraScript", "d7/df2/a23157.html#af66dc1cba6aa7511c11a071ea9a381bb", null ],
+    [ "Register", "d7/df2/a23157.html#a983cf678001efcbccc4b34a9ad919881", null ]
 ];

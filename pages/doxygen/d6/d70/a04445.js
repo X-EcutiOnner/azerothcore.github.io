@@ -1,8 +1,9 @@
 var a04445 =
 [
-    [ "SpellProcTestEntry", "de/d1c/a30085.html", "de/d1c/a30085" ],
-    [ "GetAllSpellProcTestEntries", "d6/d70/a04445.html#a39025d5b336e745566f739e9d1f68e78", null ],
-    [ "GroupByHitMask", "d6/d70/a04445.html#a9c10a33f80d5dad16ac98bf115774ded", null ],
-    [ "GroupByProcFlags", "d6/d70/a04445.html#a8a30ea152f1ec07a3e93549376c04b74", null ],
-    [ "GroupBySpellFamily", "d6/d70/a04445.html#ac781b3845801dede698012d7118061a4", null ]
+    [ "ArenaTeamTest", "d5/dee/a29945.html", "d5/dee/a29945" ],
+    [ "ArenaTeamFilterTest", "dc/dad/a29949.html", "dc/dad/a29949" ],
+    [ "ArenaTeamWithType", "d6/d70/a04445.html#a9ce4d88bf97ee463db69de183769f18e", null ],
+    [ "TEST_F", "d6/d70/a04445.html#a37c0d226ff50c702fc70274ea77f1f09", null ],
+    [ "TEST_F", "d6/d70/a04445.html#a0f9cf98a51ec8c4db75724bf81ef8c7c", null ],
+    [ "TEST_F", "d6/d70/a04445.html#a03a46ff29d075ef3207bb12d9a539b5b", null ]
 ];

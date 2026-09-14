@@ -1,6 +1,6 @@
 var a24285 =
 [
-    [ "npc_torloth_the_magnificentAI", "d1/dff/a24289.html", "d1/dff/a24289" ],
-    [ "npc_torloth_the_magnificent", "d4/d1d/a24285.html#a252796a19dcebe210eecb4d9ae150e5d", null ],
-    [ "GetAI", "d4/d1d/a24285.html#a94c206fb75cc6f50c6127908b5b5205f", null ]
+    [ "HandleEffectRemove", "d4/d1d/a24285.html#a2e73fd55dd7e6e658bc6c6623b650732", null ],
+    [ "PrepareAuraScript", "d4/d1d/a24285.html#a9aabae3a6c57be9b17394d4a39fe24ec", null ],
+    [ "Register", "d4/d1d/a24285.html#ac02217c103db141d75377e233e1e4242", null ]
 ];

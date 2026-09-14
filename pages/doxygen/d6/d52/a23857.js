@@ -1,6 +1,6 @@
 var a23857 =
 [
-    [ "instance_the_botanica_InstanceMapScript", "df/da5/a23861.html", "df/da5/a23861" ],
-    [ "instance_the_botanica", "d6/d52/a23857.html#a8f8acda65f37e45e2439707f3979cf7c", null ],
-    [ "GetInstanceScript", "d6/d52/a23857.html#a335f671443ca0fb9db5956cefdf37182", null ]
+    [ "npc_warden_mellicharAI", "df/da5/a23861.html", "df/da5/a23861" ],
+    [ "npc_warden_mellichar", "d6/d52/a23857.html#aba5c3d005097430941bd40bbbb0d3562", null ],
+    [ "GetAI", "d6/d52/a23857.html#a7cb7437a61b49d8110c3b7fee43e495b", null ]
 ];

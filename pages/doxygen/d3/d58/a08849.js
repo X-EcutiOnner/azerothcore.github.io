@@ -1,5 +1,8 @@
 var a08849 =
 [
-    [ "ObjectGuidGenerator", "d3/d58/a08849.html#a1d917989d9bf681546d0e3e9b20593e0", null ],
-    [ "Generate", "d3/d58/a08849.html#ae863a6f3ad3b71ab0ca19c60e4f7d862", null ]
+    [ "Reset", "d3/d58/a08849.html#a28a5bd110553457c86d7f77e78041713", null ],
+    [ "cosAngle", "d3/d58/a08849.html#a37f49fc816f37dff8c1947f4de7f04d5", null ],
+    [ "sinAngle", "d3/d58/a08849.html#af2a184b7c8e7f324607a0b7468bcb8f6", null ],
+    [ "xyspeed", "d3/d58/a08849.html#a6fada60d677d89580c3a718d42a75d17", null ],
+    [ "zspeed", "d3/d58/a08849.html#ad0a5a36aeabc9b8d8ea27cecae30ae31", null ]
 ];

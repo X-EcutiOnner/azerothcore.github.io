@@ -1,7 +1,6 @@
 var a23293 =
 [
-    [ "HandleEffectApply", "dc/daf/a23293.html#a3893fffea480b47d06c4903deb051aa9", null ],
-    [ "HandleEffectRemove", "dc/daf/a23293.html#a8f120ed0d8cbce6dd0640f02ea488669", null ],
-    [ "PrepareAuraScript", "dc/daf/a23293.html#a246c20ab26d1490fe38afd558a7ae406", null ],
-    [ "Register", "dc/daf/a23293.html#aea639a3ae0f003c6213143427f3b1d23", null ]
+    [ "OnPeriodic", "dc/daf/a23293.html#a769d30c78e4feaa9cc0c581af5264c02", null ],
+    [ "PrepareAuraScript", "dc/daf/a23293.html#a076e4b548de5cad64b7d81ddd8c5194f", null ],
+    [ "Register", "dc/daf/a23293.html#af1c2b7baf0ff7164cafab8f1a53bbb18", null ]
 ];

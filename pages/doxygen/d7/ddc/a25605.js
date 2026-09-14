@@ -1,5 +1,7 @@
 var a25605 =
 [
-    [ "PrepareSpellScript", "d7/ddc/a25605.html#a53fe40a7d280c5fcc733d2647ef09b41", null ],
-    [ "Register", "d7/ddc/a25605.html#ae2d3eb8ff055aa66a00567af75c65138", null ]
+    [ "HandleScript", "d7/ddc/a25605.html#a1097b1548b2785ac7ffd916ee5531fe9", null ],
+    [ "PrepareSpellScript", "d7/ddc/a25605.html#a47dc9761bf10b1290963ff7eebe0121a", null ],
+    [ "Register", "d7/ddc/a25605.html#a984b2af5268fbf294a0292502b8ddb44", null ],
+    [ "Validate", "d7/ddc/a25605.html#a0cfbc2dcb836e7c37dd03cb3d0728621", null ]
 ];

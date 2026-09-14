@@ -1,6 +1,6 @@
 var a23669 =
 [
-    [ "instance_hellfire_ramparts_InstanceMapScript", "d7/dd7/a23673.html", "d7/dd7/a23673" ],
-    [ "instance_hellfire_ramparts", "dc/d31/a23669.html#ab6ee671123dd0d736e9745e45e04b8da", null ],
-    [ "GetInstanceScript", "dc/d31/a23669.html#a6f2dc361984b33c1d14d62d67a563e8d", null ]
+    [ "instance_gruuls_lair_InstanceMapScript", "d7/dd7/a23673.html", "d7/dd7/a23673" ],
+    [ "instance_gruuls_lair", "dc/d31/a23669.html#ae091404d09e614fe893c20e8ed90d2c4", null ],
+    [ "GetInstanceScript", "dc/d31/a23669.html#ab8b5b000f6099111244b4ea48f0ab029", null ]
 ];

@@ -1,7 +1,10 @@
 var a14773 =
 [
-    [ "npc_direbrew_minion", "d0/d8a/a14773.html#aaac7d1b1a464ea7ff1ec18ace11d54b7", null ],
-    [ "IsSummonedBy", "d0/d8a/a14773.html#a78d40e0f2a285b0b9c257f12876eabeb", null ],
-    [ "Reset", "d0/d8a/a14773.html#a21fb7a778e9025ca4185951460a96d08", null ],
-    [ "_instance", "d0/d8a/a14773.html#aeea9f455c014afa347ce0c3f106ebdb6", null ]
+    [ "npc_brewfest_super_brew_trigger", "d0/d8a/a14773.html#a3d2189978683150b1c431fa0fd637358", null ],
+    [ "AttackStart", "d0/d8a/a14773.html#a9ca158a2317a599cd4af64dad6ef04cc", null ],
+    [ "JustEngagedWith", "d0/d8a/a14773.html#a61be52cb8ba0cc10285820ad5324816e", null ],
+    [ "MoveInLineOfSight", "d0/d8a/a14773.html#aedd26ea4a274df9eb27f9f4a22670f1e", null ],
+    [ "Reset", "d0/d8a/a14773.html#a5abf05543247a4f1209fe2a5bebb5d64", null ],
+    [ "UpdateAI", "d0/d8a/a14773.html#a46db84e1eab29e7f4bf99d377962ad12", null ],
+    [ "timer", "d0/d8a/a14773.html#a2ebb06175e3142cca156e57e8386fe02", null ]
 ];

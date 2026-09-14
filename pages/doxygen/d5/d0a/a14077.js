@@ -1,6 +1,9 @@
 var a14077 =
 [
-    [ "CheckProc", "d5/d0a/a14077.html#af6d00234388ceb5d1c9acd8775c66788", null ],
-    [ "PrepareAuraScript", "d5/d0a/a14077.html#abdbb7406693a59372fe6783fbe4fb0f1", null ],
-    [ "Register", "d5/d0a/a14077.html#acad1e829a317d15e73549047ece67eda", null ]
+    [ "npc_partygoer", "d5/d0a/a14077.html#af053caedfd1fa8173b875f521d279418", null ],
+    [ "Initialize", "d5/d0a/a14077.html#a9012ff95e5cead3c02f9eeb30f29a9f6", null ],
+    [ "Reset", "d5/d0a/a14077.html#ad1936099ec5696a2a593e5041b0360c6", null ],
+    [ "UpdateAI", "d5/d0a/a14077.html#a423df8a3de7d23221ea4d62a0c65fefc", null ],
+    [ "_events", "d5/d0a/a14077.html#ad5095ee005ecb89ca54b0663d41e20ac", null ],
+    [ "_facing", "d5/d0a/a14077.html#a9e934091894987ec091b03090bf733e5", null ]
 ];

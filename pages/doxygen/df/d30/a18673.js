@@ -1,7 +1,6 @@
 var a18673 =
 [
-    [ "HandleScript", "df/d30/a18673.html#aef02c7f9ee2a5dda9f6b18d8aa386759", null ],
-    [ "PrepareSpellScript", "df/d30/a18673.html#acbfd8657da20f2e91a9ef43cab7c4113", null ],
-    [ "Register", "df/d30/a18673.html#ad83d563da98ad189f2198a061b1cd50f", null ],
-    [ "Validate", "df/d30/a18673.html#a8f371bdbc57624c295efb14e2ca067c5", null ]
+    [ "DefileTargetSelector", "df/d30/a18673.html#a9c13a04378d6550dd135d2cb41c9bc1c", null ],
+    [ "operator()", "df/d30/a18673.html#a2ffea7bb2c62e0fa069e3d1ffec3ab11", null ],
+    [ "_source", "df/d30/a18673.html#a427b4304b5a93f26741eda90d20ff13b", null ]
 ];

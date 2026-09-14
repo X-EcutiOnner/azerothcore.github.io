@@ -1,13 +1,6 @@
 var a16129 =
 [
-    [ "npc_aquementasAI", "d0/d8c/a16129.html#aad63986cdb8a65c528af3ccd114d2041", null ],
-    [ "JustEngagedWith", "d0/d8c/a16129.html#a2c12ee9c0bb94a1fcfa23c4279aea72f", null ],
-    [ "Reset", "d0/d8c/a16129.html#af71a196ba667c2a8f05940ec7ec43b5e", null ],
-    [ "SendItem", "d0/d8c/a16129.html#a60bafbd70783411236dcf3d0bfe244de", null ],
-    [ "UpdateAI", "d0/d8c/a16129.html#adc5936d7648e05c98a2cdc9998aa4c6a", null ],
-    [ "AquaJetTimer", "d0/d8c/a16129.html#a8506acc69436af869d1404bd95109e68", null ],
-    [ "FrostShockTimer", "d0/d8c/a16129.html#ad52c62a0fd8de98b194596dbc998c03d", null ],
-    [ "isFriendly", "d0/d8c/a16129.html#a9ac02cfc998bda26a5c531a9f7dbf7c4", null ],
-    [ "SendItemTimer", "d0/d8c/a16129.html#a3a0883b43056b176ef2ae55673adacf3", null ],
-    [ "SwitchFactionTimer", "d0/d8c/a16129.html#a46f64b9883ae30c3f8d677a3b85a8c6f", null ]
+    [ "SpellId", "d0/d8c/a16129.html#a2c430be201c1fd866ee96224f1803a20", null ],
+    [ "Timer1", "d0/d8c/a16129.html#a9a35c148286e88f48b174be8b74fc5d0", null ],
+    [ "Timer2", "d0/d8c/a16129.html#a108dee679b1f5d9fb8351f7b4b4f3a56", null ]
 ];

@@ -1,7 +1,7 @@
 var a09825 =
 [
-    [ "NearestVisibleDetectableContestedGuardUnitCheck", "d2/d8a/a09825.html#a470ab1e22a90a00752717d76b45a7aab", null ],
-    [ "NearestVisibleDetectableContestedGuardUnitCheck", "d2/d8a/a09825.html#a042697dbc7622f5ff96bd1ade1afe5eb", null ],
-    [ "operator()", "d2/d8a/a09825.html#a031abed7dd2e5523991bf72d47e8e050", null ],
-    [ "me", "d2/d8a/a09825.html#a6cb490747146e1861006654deea366eb", null ]
+    [ "AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck", "d2/d8a/a09825.html#a038f512c564e4ae18571ac1836897edb", null ],
+    [ "operator()", "d2/d8a/a09825.html#a3bc09bf6fc4481c67190f57dc4198f6e", null ],
+    [ "i_funit", "d2/d8a/a09825.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6", null ],
+    [ "i_range", "d2/d8a/a09825.html#a953943e53e25b6887bfab8cc1c19620a", null ]
 ];

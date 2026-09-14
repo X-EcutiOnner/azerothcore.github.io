@@ -1,6 +1,7 @@
 var a22065 =
 [
-    [ "npc_plaguehound_trackerAI", "dc/d7b/a22069.html", "dc/d7b/a22069" ],
-    [ "npc_plaguehound_tracker", "dc/d3f/a22065.html#a5c2803907cf06bc3e641bbb8171681d3", null ],
-    [ "GetAI", "dc/d3f/a22065.html#a1ec8f190139b35837a0ce6c4c2f08709", null ]
+    [ "HandleScriptEffect", "dc/d3f/a22065.html#a2d39a073c351860db735301b4cf9c79f", null ],
+    [ "PrepareSpellScript", "dc/d3f/a22065.html#a3674adaef23f1531af360a65c14efadd", null ],
+    [ "Register", "dc/d3f/a22065.html#a11b217c0066217f2da5ff42ce35c9a0a", null ],
+    [ "Validate", "dc/d3f/a22065.html#a3dadb61ca7dd8195ba5fdac5bf49583c", null ]
 ];

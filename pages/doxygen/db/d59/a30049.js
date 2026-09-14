@@ -1,6 +1,5 @@
 var a30049 =
 [
-    [ "SetUp", "db/d59/a30049.html#a1aea096e3b4fe9657c3166e0688a2407", null ],
-    [ "_entry", "db/d59/a30049.html#a36067d0031cbdbc00b1c6dcfbfe2358c", null ],
-    [ "_procEntry", "db/d59/a30049.html#affb4da9ec7478c526f07056b83bfff60", null ]
+    [ "aura", "db/d59/a30049.html#a6a57282648f4792e6dfaf4c892be90eb", null ],
+    [ "effect", "db/d59/a30049.html#a24ce38279cb514bab8ef9924d93b5dfc", null ]
 ];

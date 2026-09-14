@@ -1,6 +1,7 @@
 var a22953 =
 [
-    [ "PrepareAuraScript", "df/d59/a22953.html#a5cba6aaa06f8ec6e083ee0c5064414e4", null ],
-    [ "Register", "df/d59/a22953.html#a75d0cf142e299783b06903ea03287e28", null ],
-    [ "Update", "df/d59/a22953.html#ac027b02ed0ba70d65621a6af157c98f6", null ]
+    [ "HandleScriptEffect", "df/d59/a22953.html#a16f131e42272bc75c99df2a9cf43470e", null ],
+    [ "PrepareSpellScript", "df/d59/a22953.html#a510e80ef85ae3057e30c7c710aaf187b", null ],
+    [ "Register", "df/d59/a22953.html#ae26ff6be3b2d4a1975ace3734603ab41", null ],
+    [ "Validate", "df/d59/a22953.html#a58ff628906f3077a354ed486d3c56d23", null ]
 ];

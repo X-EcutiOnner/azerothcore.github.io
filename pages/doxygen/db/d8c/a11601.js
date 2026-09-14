@@ -1,6 +1,8 @@
 var a11601 =
 [
-    [ "QuestUpdateComplete", "db/d8c/a11601.html#a1e6d102e4063facad1230b55d4048702", null ],
-    [ "Write", "db/d8c/a11601.html#a2ec714ac25e784446e8a614587bd79b3", null ],
-    [ "QuestId", "db/d8c/a11601.html#ac44a95d88d2970ee3e8bf0a8c57d578d", null ]
+    [ "PetSpellAutocast", "db/d8c/a11601.html#ab858647d14031a2a6109d1e923402d08", null ],
+    [ "Read", "db/d8c/a11601.html#a5c94e7acc04efbb2a50695ed4fdf7036", null ],
+    [ "AutocastEnabled", "db/d8c/a11601.html#a3c04543dcd5382682654b3860b84c6a3", null ],
+    [ "PetGUID", "db/d8c/a11601.html#aeed828abebf683078ee61204c91e28c9", null ],
+    [ "SpellID", "db/d8c/a11601.html#a9afcd8b8bbd2e2fd07bc59219b1a80da", null ]
 ];

@@ -1,6 +1,9 @@
 var a17553 =
 [
-    [ "SlaveRunEvent", "dd/d77/a17553.html#a4560b275b0870cdbd192b2610893b47c", null ],
-    [ "Execute", "dd/d77/a17553.html#a81db67be136525dea5a9cd84180be165", null ],
-    [ "_owner", "dd/d77/a17553.html#a33e2ce4cea1edf2e0967696c41667f15", null ]
+    [ "npc_pos_after_first_bossAI", "dd/d77/a17553.html#a622df71849da1e10e2b73068f0adea98", null ],
+    [ "MovementInform", "dd/d77/a17553.html#a1751506f27d4b2fc9ddb2f8a6a82dc9e", null ],
+    [ "Reset", "dd/d77/a17553.html#ad248aa4cbfbd24e4fe47b99b38c4dd8c", null ],
+    [ "UpdateAI", "dd/d77/a17553.html#ac45111887fd7833a041355658dd26158", null ],
+    [ "events", "dd/d77/a17553.html#a3aaf303ee389a10edc4feeec7c38a2a6", null ],
+    [ "pInstance", "dd/d77/a17553.html#a17a0e1e7a35f608a9ec86ce4e959b52e", null ]
 ];

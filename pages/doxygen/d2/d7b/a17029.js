@@ -1,7 +1,6 @@
 var a17029 =
 [
-    [ "HandleDispel", "d2/d7b/a17029.html#a7b24f38bbb7813826520f928b22d30aa", null ],
-    [ "PrepareAuraScript", "d2/d7b/a17029.html#a0e0424bd590cfc4f85f40728bf6efd22", null ],
-    [ "Register", "d2/d7b/a17029.html#a2bf6921550da3c13730fd98bded2c927", null ],
-    [ "Validate", "d2/d7b/a17029.html#ad8b0bb389d232c74acf106b711414fa1", null ]
+    [ "npc_toc_warriorAI", "d8/ded/a17033.html", "d8/ded/a17033" ],
+    [ "npc_toc_warrior", "d2/d7b/a17029.html#a3e969be07603ef59389106769010660c", null ],
+    [ "GetAI", "d2/d7b/a17029.html#a557d9aa512c485e37b4a05b57ab3d1a4", null ]
 ];

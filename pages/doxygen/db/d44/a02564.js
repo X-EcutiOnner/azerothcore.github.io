@@ -1,78 +1,70 @@
 var a02564 =
 [
-    [ "spell_q10930_big_bone_worm", "d0/d8b/a24357.html", "d0/d8b/a24357" ],
-    [ "spell_q10930_big_bone_worm_aura", "d3/db9/a24361.html", "d3/db9/a24361" ],
-    [ "spell_q10929_fumping", "dd/dd7/a24365.html", "dd/dd7/a24365" ],
-    [ "spell_q10929_fumping_aura", "df/d68/a24369.html", "df/d68/a24369" ],
-    [ "spell_q10036_torgos", "db/d5a/a24373.html", "db/d5a/a24373" ],
-    [ "spell_q10923_evil_draws_near_summon", "d1/d2f/a24377.html", "d1/d2f/a24377" ],
-    [ "spell_q10923_evil_draws_near_periodic_aura", "d8/db3/a24381.html", "d8/db3/a24381" ],
-    [ "spell_q10923_evil_draws_near_visual", "d2/d15/a24385.html", "d2/d15/a24385" ],
-    [ "spell_q10898_skywing", "d6/de5/a24389.html", "d6/de5/a24389" ],
-    [ "npc_unkor_the_ruthless", "d4/d1c/a24393.html", "d4/d1c/a24393" ],
-    [ "npc_unkor_the_ruthless::npc_unkor_the_ruthlessAI", "de/df5/a24397.html", "de/df5/a24397" ],
-    [ "npc_isla_starmane", "de/d36/a24401.html", "de/d36/a24401" ],
-    [ "npc_isla_starmane::npc_isla_starmaneAI", "db/da5/a24405.html", "db/da5/a24405" ],
-    [ "go_skull_pile", "db/dc9/a24409.html", "db/dc9/a24409" ],
-    [ "go_ancient_skull_pile", "d9/d92/a24413.html", "d9/d92/a24413" ],
-    [ "AncientSkullPile", "db/d44/a02564.html#a64b23573db3082d7e53f25e57c765a39", [
-      [ "ITEM_TIME_LOST_OFFERING", "db/d44/a02564.html#a64b23573db3082d7e53f25e57c765a39a9518eccb8f2091e25757305c7df45735", null ],
-      [ "SPELL_SUMMON_TEROKK", "db/d44/a02564.html#a64b23573db3082d7e53f25e57c765a39a060ed19ca52e3aad49e15a5c676391da", null ],
-      [ "GOSSIP_MENU_ANCIENT_SKULL_PILE", "db/d44/a02564.html#a64b23573db3082d7e53f25e57c765a39aba1816dec6964a547d88e1fb02f60288", null ],
-      [ "GOSSIP_MENU_TEXT_ANCIENT_SKULL_PILE", "db/d44/a02564.html#a64b23573db3082d7e53f25e57c765a39afcc4ad64be5adf59fd88632315f6824c", null ]
+    [ "npc_pet_gen_soul_trader_beacon", "d0/d2d/a24509.html", "d0/d2d/a24509" ],
+    [ "argentPonyBanner", "d5/d43/a24513.html", "d5/d43/a24513" ],
+    [ "npc_pet_gen_argent_pony_bridle", "d7/dc7/a24517.html", "d7/dc7/a24517" ],
+    [ "npc_pet_gen_target_following_bomb", "d4/d6d/a24521.html", "d4/d6d/a24521" ],
+    [ "npc_pet_gen_gnomish_flame_turret", "de/d0c/a24525.html", "de/d0c/a24525" ],
+    [ "npc_pet_gen_valkyr_guardian", "dc/d41/a24529.html", "dc/d41/a24529" ],
+    [ "spell_pet_gen_valkyr_guardian_smite", "d9/dd4/a24533.html", "d9/dd4/a24533" ],
+    [ "npc_pet_gen_imp_in_a_bottle", "dd/d30/a24537.html", "dd/d30/a24537" ],
+    [ "npc_pet_gen_wind_rider_cub", "d5/d7c/a24541.html", "d5/d7c/a24541" ],
+    [ "npc_pet_gen_plump_turkey", "d5/dd1/a24545.html", "d5/dd1/a24545" ],
+    [ "npc_pet_gen_toxic_wasteling", "dc/d11/a24549.html", "dc/d11/a24549" ],
+    [ "npc_pet_gen_fetch_ball", "da/d46/a24553.html", "da/d46/a24553" ],
+    [ "npc_pet_gen_moth", "d8/d5f/a24557.html", "d8/d5f/a24557" ],
+    [ "npc_pet_darting_hatchling", "da/d78/a24561.html", "da/d78/a24561" ],
+    [ "npc_pet_proto_drake_whelp", "d9/d46/a24565.html", "d9/d46/a24565" ],
+    [ "Darting", "db/d44/a02564.html#ac6c326501143f3fd2f576f3bed6d1801", [
+      [ "SPELL_DARTING_ON_SPAWN", "db/d44/a02564.html#ac6c326501143f3fd2f576f3bed6d1801a3f54a1482e0a9d44e40a656213c2aab5", null ],
+      [ "SPELL_DARTING_FEAR", "db/d44/a02564.html#ac6c326501143f3fd2f576f3bed6d1801aabe22d3443647ba410026bb6e4a83928", null ]
     ] ],
-    [ "eQ10923EvilDrawsNear", "db/d44/a02564.html#aac8f425764fbd137acd527c44a8217e5", [
-      [ "SPELL_DUSTIN_UNDEAD_DRAGON_VISUAL1", "db/d44/a02564.html#aac8f425764fbd137acd527c44a8217e5a148039a82148e121ffa2e47d4037c198", null ],
-      [ "SPELL_DUSTIN_UNDEAD_DRAGON_VISUAL2", "db/d44/a02564.html#aac8f425764fbd137acd527c44a8217e5a9f54f32a1b40bdd5f44006b6f874054b", null ],
-      [ "SPELL_DUSTIN_UNDEAD_DRAGON_VISUAL_AURA", "db/d44/a02564.html#aac8f425764fbd137acd527c44a8217e5a432569d14dc34cb8000687d2dedb8394", null ],
-      [ "NPC_AUCHENAI_DEATH_SPIRIT", "db/d44/a02564.html#aac8f425764fbd137acd527c44a8217e5aa58ecb32d07f194ffe4e46f4245770c4", null ]
+    [ "eArgentPony", "db/d44/a02564.html#afde75de2d7c41e82e7b05714b217ab25", [
+      [ "ARGENT_PONY_STATE_NONE", "db/d44/a02564.html#afde75de2d7c41e82e7b05714b217ab25a7c7bbd0022800380396fe663f59b0cac", null ],
+      [ "ARGENT_PONY_STATE_ENCH", "db/d44/a02564.html#afde75de2d7c41e82e7b05714b217ab25a9d808ab60e22f4f80d4ef4422b36b4c2", null ],
+      [ "ARGENT_PONY_STATE_VENDOR", "db/d44/a02564.html#afde75de2d7c41e82e7b05714b217ab25a7b2084753d0318692685355df13f76c8", null ],
+      [ "ARGENT_PONY_STATE_BANK", "db/d44/a02564.html#afde75de2d7c41e82e7b05714b217ab25a681f72bc8ca8b18c76f6214c68cd2d7a", null ],
+      [ "ARGENT_PONY_STATE_MAILBOX", "db/d44/a02564.html#afde75de2d7c41e82e7b05714b217ab25a0ae46a4bf3a4c63b1a7c42ed49d127f3", null ],
+      [ "SPELL_PONY_MOUNT", "db/d44/a02564.html#afde75de2d7c41e82e7b05714b217ab25a7053bcf0c5b72708b25ede3614a9e994", null ],
+      [ "SPELL_AURA_POSTMAN_S", "db/d44/a02564.html#afde75de2d7c41e82e7b05714b217ab25a593c83162852e10d48847cbb5d6f8190", null ],
+      [ "SPELL_AURA_SHOP_S", "db/d44/a02564.html#afde75de2d7c41e82e7b05714b217ab25a78ccec40f569ff7033fcc5972c22e875", null ],
+      [ "SPELL_AURA_BANK_S", "db/d44/a02564.html#afde75de2d7c41e82e7b05714b217ab25aac98b13b8f429a9315adadb57e7df51e", null ],
+      [ "SPELL_AURA_TIRED_S", "db/d44/a02564.html#afde75de2d7c41e82e7b05714b217ab25ac569629bfb2bc1e4b43207504f69cc62", null ],
+      [ "SPELL_AURA_BANK_G", "db/d44/a02564.html#afde75de2d7c41e82e7b05714b217ab25a1cb3a2bde84f922951731a594b27f41f", null ],
+      [ "SPELL_AURA_POSTMAN_G", "db/d44/a02564.html#afde75de2d7c41e82e7b05714b217ab25ac9a4b7f9083bec38085857b02cf035c3", null ],
+      [ "SPELL_AURA_SHOP_G", "db/d44/a02564.html#afde75de2d7c41e82e7b05714b217ab25aaec84cc2dd0f10e8c3014af4a81053b2", null ],
+      [ "SPELL_AURA_TIRED_G", "db/d44/a02564.html#afde75de2d7c41e82e7b05714b217ab25a95b8c0f443e980939026dade51ca7704", null ],
+      [ "ACHIEVEMENT_PONY_UP", "db/d44/a02564.html#afde75de2d7c41e82e7b05714b217ab25a15932687a7f0651effb9b9ee2872108b", null ],
+      [ "GOSSIP_ACTION_MAILBOX", "db/d44/a02564.html#afde75de2d7c41e82e7b05714b217ab25ae5789201628400bb29b4ff44df5bf6aa", null ],
+      [ "NPC_ARGENT_SQUIRE", "db/d44/a02564.html#afde75de2d7c41e82e7b05714b217ab25aa7c39387e050223e87be9617cd1675d9", null ],
+      [ "NPC_ARGENT_GRUNTLING", "db/d44/a02564.html#afde75de2d7c41e82e7b05714b217ab25a87d163201c6a5c5c2844e2ccdfb6820d", null ]
     ] ],
-    [ "fumping", "db/d44/a02564.html#ab162634ca3ea951211b5f98c1f38600e", [
-      [ "SPELL_SUMMON_SAND_GNOME1", "db/d44/a02564.html#ab162634ca3ea951211b5f98c1f38600ea58105c110347cf397ccfc57071de9e6d", null ],
-      [ "SPELL_SUMMON_SAND_GNOME3", "db/d44/a02564.html#ab162634ca3ea951211b5f98c1f38600eaf41287c8042d2072d6bd76e64418be4d", null ],
-      [ "SPELL_SUMMON_MATURE_BONE_SIFTER1", "db/d44/a02564.html#ab162634ca3ea951211b5f98c1f38600eabff566ebb7d0c47191ca8cdf21d0feba", null ],
-      [ "SPELL_SUMMON_MATURE_BONE_SIFTER3", "db/d44/a02564.html#ab162634ca3ea951211b5f98c1f38600eab503a39610eed1540f9d059d02ea0a9b", null ],
-      [ "SPELL_SUMMON_HAISHULUD", "db/d44/a02564.html#ab162634ca3ea951211b5f98c1f38600ea5b638aaec8858d63e038561f1bdd34cc", null ]
+    [ "eTargetFollowingBomb", "db/d44/a02564.html#a8fa8cac3b35ac78f077e32527c565dc5", [
+      [ "NPC_EXPLOSIVE_SHEEP", "db/d44/a02564.html#a8fa8cac3b35ac78f077e32527c565dc5a7fcfaaabbf679f0b666bf3373415ab08", null ],
+      [ "SPELL_EXPLOSIVE_SHEEP", "db/d44/a02564.html#a8fa8cac3b35ac78f077e32527c565dc5a458604e277b00331a23677dbcebe736c", null ],
+      [ "NPC_GOBLIN_BOMB", "db/d44/a02564.html#a8fa8cac3b35ac78f077e32527c565dc5a499465812239027532d496194535225b", null ],
+      [ "SPELL_EXPLOSIVE_GOBLIN", "db/d44/a02564.html#a8fa8cac3b35ac78f077e32527c565dc5ac8b8bff1dcac01fbc76888faedba2c4b", null ],
+      [ "NPC_HIGH_EXPLOSIVE_SHEEP", "db/d44/a02564.html#a8fa8cac3b35ac78f077e32527c565dc5a574940f707e088207860b7cf5831499a", null ],
+      [ "SPELL_HIGH_EXPLOSIVE_SHEEP", "db/d44/a02564.html#a8fa8cac3b35ac78f077e32527c565dc5a7d827992f43d628f53f5e20a47e70076", null ]
     ] ],
-    [ "IslaStarmaneData", "db/d44/a02564.html#ae0ce6b8c904e723fea8344c9e2a6c468", [
-      [ "SAY_PROGRESS_1", "db/d44/a02564.html#ae0ce6b8c904e723fea8344c9e2a6c468ac7ef023ed2cd6e71dcfa4b57f34ffb21", null ],
-      [ "SAY_PROGRESS_2", "db/d44/a02564.html#ae0ce6b8c904e723fea8344c9e2a6c468a967473f354dae95832b5e82733f4cced", null ],
-      [ "SAY_PROGRESS_3", "db/d44/a02564.html#ae0ce6b8c904e723fea8344c9e2a6c468a25cbd1006b2e610756fbd3227fb87dcc", null ],
-      [ "SAY_PROGRESS_4", "db/d44/a02564.html#ae0ce6b8c904e723fea8344c9e2a6c468a6b3669f06730a37dadd060c3dc0b999f", null ],
-      [ "QUEST_EFTW_H", "db/d44/a02564.html#ae0ce6b8c904e723fea8344c9e2a6c468a0e41f71f431fea698370ec15a6a78f71", null ],
-      [ "QUEST_EFTW_A", "db/d44/a02564.html#ae0ce6b8c904e723fea8344c9e2a6c468a8b79958f3e4c99d2e5db1bbb46672d43", null ],
-      [ "GO_CAGE", "db/d44/a02564.html#ae0ce6b8c904e723fea8344c9e2a6c468ab8d35951eed2c9e47bed2aa4da3fab8b", null ],
-      [ "SPELL_CAT", "db/d44/a02564.html#ae0ce6b8c904e723fea8344c9e2a6c468a60c2ade102a5c8cff3056e1998a8feb9", null ],
-      [ "EVENT_SPELL_WRATH", "db/d44/a02564.html#ae0ce6b8c904e723fea8344c9e2a6c468ab55c0e246afb46a9c3feb1a24b9735db", null ],
-      [ "EVENT_SPELL_MOONFIRE", "db/d44/a02564.html#ae0ce6b8c904e723fea8344c9e2a6c468a89249acef2d72d2d2cefbd270ca8d5e6", null ],
-      [ "EVENT_SPELL_ENTANGLING_ROOTS", "db/d44/a02564.html#ae0ce6b8c904e723fea8344c9e2a6c468abcfceb9776fee2423d4c06cb12c6a157", null ],
-      [ "SPELL_WRATH", "db/d44/a02564.html#ae0ce6b8c904e723fea8344c9e2a6c468abe500eadf9d63f2f5340e4b8a94a118f", null ],
-      [ "SPELL_MOONFIRE", "db/d44/a02564.html#ae0ce6b8c904e723fea8344c9e2a6c468a0ca70102f1e7ebc514c9875b92e5490b", null ],
-      [ "SPELL_ENTANGLING_ROOTS", "db/d44/a02564.html#ae0ce6b8c904e723fea8344c9e2a6c468a366705ee88fada6cb8aa2dab3dcd3cee", null ]
+    [ "FetchBall", "db/d44/a02564.html#aac7a99c8fbbfd38ee1397e32e458b7ee", [
+      [ "SPELL_PET_TOY_FETCH_BALL_COME_HERE", "db/d44/a02564.html#aac7a99c8fbbfd38ee1397e32e458b7eeaa7b1515cbe9db27b4fdcd71fc12bbe57", null ],
+      [ "SPELL_PET_TOY_FETCH_BALL_HAS_BALL", "db/d44/a02564.html#aac7a99c8fbbfd38ee1397e32e458b7eeaf9371f563d2fba21dfa7a84ae163b06a", null ]
     ] ],
-    [ "q10036Torgos", "db/d44/a02564.html#a2a367fc7cac7bf28a805617c33b2ccf9", [
-      [ "NPC_TORGOS", "db/d44/a02564.html#a2a367fc7cac7bf28a805617c33b2ccf9a5d78efaeb0f7b6c08cdd646bfbdaf2f7", null ]
+    [ "soulTrader", "db/d44/a02564.html#a0c62231deec62afa90de133fc889cf1d", [
+      [ "SPELL_STEAL_ESSENCE_VISUAL", "db/d44/a02564.html#a0c62231deec62afa90de133fc889cf1daf517a573d5d8d63de97a1a34d3aeee17", null ],
+      [ "SPELL_CREATE_TOKEN", "db/d44/a02564.html#a0c62231deec62afa90de133fc889cf1daa47b1a9e0b76f60a5fa03890f9f79656", null ],
+      [ "SPELL_PROC_TRIGGER_ON_KILL_AURA", "db/d44/a02564.html#a0c62231deec62afa90de133fc889cf1da09016acbb1f04797cba77c84929850d3", null ],
+      [ "SPELL_OWNER_KILLED_INFORM", "db/d44/a02564.html#a0c62231deec62afa90de133fc889cf1da7c4c179e4500563c9ef85d8df2f0e43a", null ],
+      [ "SPELL_EMOTE_STATE_SWIM_RUN", "db/d44/a02564.html#a0c62231deec62afa90de133fc889cf1da5f9cda28210ee1c037798c12ca801c3a", null ],
+      [ "EVENT_INITIAL_TALK", "db/d44/a02564.html#a0c62231deec62afa90de133fc889cf1daec0204ac67484a720309c13d441d6b0c", null ],
+      [ "EVENT_ADD_TOKEN", "db/d44/a02564.html#a0c62231deec62afa90de133fc889cf1da03e1aa2fc99d035a294f1596fd58851b", null ]
     ] ],
-    [ "SkullPile", "db/d44/a02564.html#aad52625e74763db1be908eb68d6f1747", [
-      [ "QUEST_ADVERSARIAL_BLOOD", "db/d44/a02564.html#aad52625e74763db1be908eb68d6f1747a778fa3329cf61d166a6168c371359e29", null ],
-      [ "GOSSIP_MENU_SKULL_PILE", "db/d44/a02564.html#aad52625e74763db1be908eb68d6f1747a2e42b2a84bd5543395edd99e10836308", null ],
-      [ "GOSSIP_MENU_TEXT_SKULL_PILE", "db/d44/a02564.html#aad52625e74763db1be908eb68d6f1747a4421c9274f70eeecac8c2001d6d3c217", null ],
-      [ "GOSSIP_MENU_TEXT_SKULL_PILE_QUEST", "db/d44/a02564.html#aad52625e74763db1be908eb68d6f1747af25d41b2abf38359aaa4e9a6e7813985", null ],
-      [ "GOSSIP_OPTION_SUMMON_GEZZARAK_THE_HUNTRESS", "db/d44/a02564.html#aad52625e74763db1be908eb68d6f1747ab8d817f19c8a0ee26e791ad4a270d090", null ],
-      [ "GOSSIP_OPTION_SUMMON_DARKSCREECHER_AKKARAI", "db/d44/a02564.html#aad52625e74763db1be908eb68d6f1747a21b76a2a227226c67cc717f339694e90", null ],
-      [ "GOSSIP_OPTION_SUMMON_KARROG", "db/d44/a02564.html#aad52625e74763db1be908eb68d6f1747a8c1471c1cbdafc84aac25cc6ea9e703f", null ],
-      [ "GOSSIP_OPTION_SUMMON_VAKKIZ_THE_WINDRAGER", "db/d44/a02564.html#aad52625e74763db1be908eb68d6f1747ab01073d031c0a97242ef078283d2cbd6", null ],
-      [ "SPELL_SUMMON_GEZZARAK_THE_HUNTRESS", "db/d44/a02564.html#aad52625e74763db1be908eb68d6f1747abc3ff3d2bb8ed64fd58c4f5eb6cc4cb8", null ],
-      [ "SPELL_SUMMON_DARKSCREECHER_AKKARAI", "db/d44/a02564.html#aad52625e74763db1be908eb68d6f1747add0291da1877a5245c1d72118dda56cd", null ],
-      [ "SPELL_SUMMON_KARROG", "db/d44/a02564.html#aad52625e74763db1be908eb68d6f1747a941c2f8289835f0d4d722d36f99771d2", null ],
-      [ "SPELL_SUMMON_VAKKIZ_THE_WINDRAGER", "db/d44/a02564.html#aad52625e74763db1be908eb68d6f1747a5d006fae9f9d39fb5ffa345a83679bf0", null ]
+    [ "turkey", "db/d44/a02564.html#a8bc1d91a992db83fed0477b2a50adca3", [
+      [ "GO_BASIC_CAMPFIRE", "db/d44/a02564.html#a8bc1d91a992db83fed0477b2a50adca3abd474e7bd7da6a35853def0dcd7e2c97", null ],
+      [ "SPELL_TURKEY_STARTS_TO_BURN", "db/d44/a02564.html#a8bc1d91a992db83fed0477b2a50adca3acae2431d12566203a4dd6826000d74c5", null ]
     ] ],
-    [ "UnkorTheRuthless", "db/d44/a02564.html#a88cc97a269783b482b7b90a366327e02", [
-      [ "SAY_SUBMIT", "db/d44/a02564.html#a88cc97a269783b482b7b90a366327e02ac438d344c95f2fc9bceaf8955f07a62c", null ],
-      [ "FACTION_HOSTILE", "db/d44/a02564.html#a88cc97a269783b482b7b90a366327e02a9f091068e93fe04fde1b2d77d34d5fcf", null ],
-      [ "QUEST_DONTKILLTHEFATONE", "db/d44/a02564.html#a88cc97a269783b482b7b90a366327e02ac9b055761d26e7020af8fca0ad0914e8", null ],
-      [ "SPELL_PULVERIZE", "db/d44/a02564.html#a88cc97a269783b482b7b90a366327e02a69dd71f7b0eefec5bcdd15cddbb128d6", null ],
-      [ "SUBMIT_DURATION", "db/d44/a02564.html#a88cc97a269783b482b7b90a366327e02a90adcab84495ca594eeb6530798a7afe", null ]
-    ] ],
-    [ "AddSC_terokkar_forest", "db/d44/a02564.html#a06eb16b2a9cfacc1641cf49759c7615e", null ]
+    [ "AddSC_generic_pet_scripts", "db/d44/a02564.html#a9852812a043673e45884dca938eff157", null ],
+    [ "argentBanners", "db/d44/a02564.html#a186564f573420d5c2e6647a2f9b1096e", null ],
+    [ "argentPonyService", "db/d44/a02564.html#a4fcf1a55583a661981f5b5fda27a7eab", null ]
 ];

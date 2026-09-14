@@ -1,7 +1,6 @@
 var a27721 =
 [
-    [ "HandleAuraApply", "d6/d5c/a27721.html#afb8eb7fcc0797c3e19a9bfc5eebb5fb2", null ],
-    [ "HandleAuraRemove", "d6/d5c/a27721.html#a9029865b5e06c4a9aa7f155f371c9125", null ],
-    [ "PrepareAuraScript", "d6/d5c/a27721.html#a5c7d7c0b8880128121d66d39094f1965", null ],
-    [ "Register", "d6/d5c/a27721.html#ae15d5175671c60a55e4a77848bc9fe1b", null ]
+    [ "PeriodicTick", "d6/d5c/a27721.html#a8765e8f662c4279669c955108ff356e3", null ],
+    [ "PrepareAuraScript", "d6/d5c/a27721.html#a15f077618950e4526ffcee9ee172d89f", null ],
+    [ "Register", "d6/d5c/a27721.html#aeeca3a2be368025147702c4aa8c518ce", null ]
 ];

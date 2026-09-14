@@ -1,9 +1,10 @@
 var a18113 =
 [
-    [ "HandleApply", "d9/db5/a18113.html#a5f23d41765ec949486094a0da45be7e8", null ],
-    [ "HandleRemove", "d9/db5/a18113.html#a8737bad17bf7aa3e52cb2e0b7fbc9178", null ],
-    [ "Load", "d9/db5/a18113.html#a7c2644d06592b0d929a0b59cf8fa0f1b", null ],
-    [ "PrepareAuraScript", "d9/db5/a18113.html#aabf5fdf4578935db11e041e638fba187", null ],
-    [ "Register", "d9/db5/a18113.html#a6bdc66b6028002b5fc873803a434b6b1", null ],
-    [ "SendClientControl", "d9/db5/a18113.html#a24f79a4c59d4bf615a6de745ffa11d81", null ]
+    [ "npc_gunship_gunnerAI", "d9/db5/a18113.html#a3001e77b4a20feb0eee5a9605f13ba81", null ],
+    [ "AttackStart", "d9/db5/a18113.html#ac21b90c1892c15882794384517ef9fd2", null ],
+    [ "CanAIAttack", "d9/db5/a18113.html#aef351305ef34fa316809697125a3bc9a", null ],
+    [ "MovementInform", "d9/db5/a18113.html#a94d81b882dd59dd00b0952b45d61a7cb", null ],
+    [ "UpdateAI", "d9/db5/a18113.html#a8fbb601c3accdf3b0494d317bc0d5733", null ],
+    [ "anyValid", "d9/db5/a18113.html#a00c7dc23618c60826241133a0067c1c4", null ],
+    [ "checkTimer", "d9/db5/a18113.html#af80cee9c2c86fa8b4c643d262042ba3c", null ]
 ];

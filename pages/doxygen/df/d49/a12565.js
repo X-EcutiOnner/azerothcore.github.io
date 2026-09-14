@@ -1,6 +1,11 @@
 var a12565 =
 [
-    [ "player_settings_commandscript", "df/d49/a12565.html#ab8585064d4d358d7d48eed97379a3a78", null ],
-    [ "GetCommands", "df/d49/a12565.html#ae545918310d22b4e66e4a668bbb7ba58", null ],
-    [ "HandleSettingsAnnouncerFlags", "df/d49/a12565.html#af505117caa66ed4222e52ff91c486b6e", null ]
+    [ "lfg_commandscript", "df/d49/a12565.html#a90faaca821e4162e0aea40a4d98af62c", null ],
+    [ "GetCommands", "df/d49/a12565.html#a324310f9b04675c277ceae44ea09fbaf", null ],
+    [ "HandleLfgCleanCommand", "df/d49/a12565.html#a93db689dbdb97a0318d62409a863767e", null ],
+    [ "HandleLfgCooldownClearCommand", "df/d49/a12565.html#a0e399ec509b9f419b7f034cc95409f7b", null ],
+    [ "HandleLfgGroupInfoCommand", "df/d49/a12565.html#a2376288a2ef82d8a19602cd66ff880f2", null ],
+    [ "HandleLfgOptionsCommand", "df/d49/a12565.html#a73187a97c883d8d1bb3765943dd98c39", null ],
+    [ "HandleLfgPlayerInfoCommand", "df/d49/a12565.html#acdf12aff45f16904df5724ab158e3b97", null ],
+    [ "HandleLfgQueueInfoCommand", "df/d49/a12565.html#a54dcdf133cc5b22961c34eda62a4f2fc", null ]
 ];

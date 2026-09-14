@@ -1,8 +1,10 @@
 var a17265 =
 [
-    [ "npc_fos_corrupted_soul_fragment", "da/d42/a17265.html#a1fef6c180e9fc6e8d8d316d45b5066f9", null ],
-    [ "Reset", "da/d42/a17265.html#ad318f80454cf17b2b9d39a02a83e6e92", null ],
-    [ "UpdateAI", "da/d42/a17265.html#a8dd94bd36392c75c4971aa50b83a5ada", null ],
-    [ "Instance", "da/d42/a17265.html#a34d1912b83f9da8335ab3e7d527e5e01", null ],
-    [ "Timer", "da/d42/a17265.html#a82a7ce4a8d07e7d4dab30d4f11aeb006", null ]
+    [ "boss_tharon_jaAI", "da/d42/a17265.html#a03025fa529e932f23479ff19b0cd8238", null ],
+    [ "DoAction", "da/d42/a17265.html#a655fd83c2d671847fea9ae393c132fb9", null ],
+    [ "JustDied", "da/d42/a17265.html#a7928b5db061f1073e1decc2d40601195", null ],
+    [ "JustEngagedWith", "da/d42/a17265.html#aab194a8f802eeb625d1a74960acbe154", null ],
+    [ "KilledUnit", "da/d42/a17265.html#a41e929a3768768eb06bafdee3269fd24", null ],
+    [ "Reset", "da/d42/a17265.html#a272e8565a9b00a27505b301d52814eee", null ],
+    [ "UpdateAI", "da/d42/a17265.html#a6f482cabcb0bd56711878a5ea297b950", null ]
 ];

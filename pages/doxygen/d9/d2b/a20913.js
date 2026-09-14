@@ -1,8 +1,14 @@
 var a20913 =
 [
-    [ "npc_life_spark", "d9/d2b/a20913.html#a76bbbdc610dbc433007930c7a45d03be", null ],
-    [ "JustEngagedWith", "d9/d2b/a20913.html#af4111bf747f0d5c510f72f32d42f90e3", null ],
-    [ "Reset", "d9/d2b/a20913.html#a3c5b0ee2fac3bc444cc3c58e70284b72", null ],
-    [ "UpdateAI", "d9/d2b/a20913.html#a3dffda7a220e41302b928f55995d4dce", null ],
-    [ "_scheduler", "d9/d2b/a20913.html#a7e77d71508031a75655db8aaa34d0f9d", null ]
+    [ "boss_thorim_start_npcs", "d9/d2b/a20913.html#a3ed7da48fc86ea00124181bb943a778d", null ],
+    [ "DamageTaken", "d9/d2b/a20913.html#a4821ee0619dac4cdcd9434f57d83f0c9", null ],
+    [ "JustEngagedWith", "d9/d2b/a20913.html#a636dd7264dd01aa5fc3c69af17425103", null ],
+    [ "JustReachedHome", "d9/d2b/a20913.html#a1a297f2937ab9ca9a13de939ba6f6522", null ],
+    [ "Reset", "d9/d2b/a20913.html#a37092466e579fe54a1dffe2ae0a2f689", null ],
+    [ "SetGUID", "d9/d2b/a20913.html#aed0b8ed5c502b47e7274af920b9e927b", null ],
+    [ "StartMockBattle", "d9/d2b/a20913.html#aa5566eb0feda227eb150ffe61fc3c67d", null ],
+    [ "UpdateAI", "d9/d2b/a20913.html#a7cca60ceab19727e68fcd4a3629978c4", null ],
+    [ "_isCaster", "d9/d2b/a20913.html#aa3c48c6d8d548cb39a6c7eea8f807dde", null ],
+    [ "_playerAttack", "d9/d2b/a20913.html#ab1bf0c011692377fc591610c5131d5e2", null ],
+    [ "events", "d9/d2b/a20913.html#affdeecbfa6bb62659c4a2f5ef1d1fafa", null ]
 ];

@@ -1,14 +1,7 @@
 var a22669 =
 [
-    [ "event_enter", "d7/dcb/a22669.html#ac80d575f14dca1c901be55e34cc690e1", null ],
-    [ "event_leave", "d7/dcb/a22669.html#a3dc0a11a5c06079026d27852e7561b74", null ],
-    [ "map_tower_a", "d7/dcb/a22669.html#a9a65209caac3791b835c1920f5a667cf", null ],
-    [ "map_tower_h", "d7/dcb/a22669.html#aa30ae484db7c69137abb13adb1b3c505", null ],
-    [ "map_tower_n", "d7/dcb/a22669.html#a0453edceab2132e900bec183e360e210", null ],
-    [ "slider_disp", "d7/dcb/a22669.html#aec3c8dde769675e3f436515c7a3bcf24", null ],
-    [ "slider_n", "d7/dcb/a22669.html#a65015a3a24a5554643ecb5da47e24eea", null ],
-    [ "slider_pos", "d7/dcb/a22669.html#acc63481f7613242ac06c6bee6c136a30", null ],
-    [ "ui_tower_a", "d7/dcb/a22669.html#a0107bfd3b1df99568e02d6ca80042c86", null ],
-    [ "ui_tower_h", "d7/dcb/a22669.html#a94a5fa0517fd0713b74f50a3d1d627cc", null ],
-    [ "ui_tower_n", "d7/dcb/a22669.html#ae0fd99db88e6c60b829a18ff8e4be9a0", null ]
+    [ "OutdoorPvPGH", "d7/dcb/a22669.html#a619492e0a1fdf75f37554a2f19268660", null ],
+    [ "HandleKill", "d7/dcb/a22669.html#a78cf572faf727c302f9be496d91004e0", null ],
+    [ "SendRemoveWorldStates", "d7/dcb/a22669.html#a92c7e489717072ddc34f707fbe462cb2", null ],
+    [ "SetupOutdoorPvP", "d7/dcb/a22669.html#a3d62cb27cfa415c9ba7fe5c18384a75d", null ]
 ];

@@ -1,6 +1,5 @@
 var a20793 =
 [
-    [ "go_razorscale_mole_machineAI", "d3/de8/a20797.html", "d3/de8/a20797" ],
-    [ "go_razorscale_mole_machine", "d0/d83/a20793.html#a94d4c7900c139202cd0e57489ecb5a02", null ],
-    [ "GetAI", "d0/d83/a20793.html#a56de10f80d50b667bfae81994a618304", null ]
+    [ "achievement_mimiron_set_up_us_the_bomb_11", "d0/d83/a20793.html#a5d8980111e029b4c9311737f3985ab61", null ],
+    [ "OnCheck", "d0/d83/a20793.html#a7682a7f2f4417dcf75ec58e34e4fd6bc", null ]
 ];

@@ -1,7 +1,7 @@
 var a21133 =
 [
-    [ "OnApply", "d7/d3f/a21133.html#a458871e0d2c1969a91ce9474b3ad87d0", null ],
-    [ "PrepareAuraScript", "d7/d3f/a21133.html#a3a6b71d35bfcf681c98bb3bb4331e91c", null ],
-    [ "Register", "d7/d3f/a21133.html#a4d6bb68d17bbc1b10d828b1d70155f65", null ],
-    [ "Validate", "d7/d3f/a21133.html#a1ffe527d33de10a7dc8431311f4d738e", null ]
+    [ "OnApply", "d7/d3f/a21133.html#a7dd5b6217db77373dfba5958a2376ff1", null ],
+    [ "OnRemove", "d7/d3f/a21133.html#a39510971a0e1dbd800efc37c2e09c74f", null ],
+    [ "PrepareAuraScript", "d7/d3f/a21133.html#a35c1e8f81229565e5d333ec42aa2e92c", null ],
+    [ "Register", "d7/d3f/a21133.html#a27fdfe00e5201b6472a282f4589a66cc", null ]
 ];

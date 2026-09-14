@@ -1,13 +1,19 @@
 var a04553 =
 [
-    [ "GameObjectSummonGroupTest", "dd/d19/a29925.html", "dd/d19/a29925" ],
-    [ "TEST_F", "d3/d56/a04553.html#a853ab9b01e00d9b9106d0802d3ce5c3f", null ],
-    [ "TEST_F", "d3/d56/a04553.html#aae7159cdf8db068232caa791b826eb7a", null ],
-    [ "TEST_F", "d3/d56/a04553.html#ab7d11f87ee9e631646024c59d17e4476", null ],
-    [ "TEST_F", "d3/d56/a04553.html#a67cd5610a4da8f7101009bd9c59bc82e", null ],
-    [ "TEST_F", "d3/d56/a04553.html#acfeec4740011bc0a61ca33d9e41a00d6", null ],
-    [ "TEST_F", "d3/d56/a04553.html#a23d5442e6e9d8a8eb8b81d8c594dcb44", null ],
-    [ "TEST_F", "d3/d56/a04553.html#a6b4d8d5065242a959f3b761c930eb11f", null ],
-    [ "TEST_F", "d3/d56/a04553.html#a0e990a163a2003f6224aa808aeb46965", null ],
-    [ "TEST_F", "d3/d56/a04553.html#a54823c95da2a0c478c7fc82bafb5075e", null ]
+    [ "SpellProcChargeTest", "d7/dfe/a30081.html", "d7/dfe/a30081" ],
+    [ "TEST_F", "d3/d56/a04553.html#af6b7ce5004d831afafdd960e76b497b9", null ],
+    [ "TEST_F", "d3/d56/a04553.html#a6aad9923e77ce2183a9bfd5884fe3912", null ],
+    [ "TEST_F", "d3/d56/a04553.html#a7502979bd6cdb7d72f8c6ce5a3e67598", null ],
+    [ "TEST_F", "d3/d56/a04553.html#af9b31ad83d3c0000b3862f4271c5a670", null ],
+    [ "TEST_F", "d3/d56/a04553.html#a223a5cdf49fecfa7b4b80d2a0dcf1468", null ],
+    [ "TEST_F", "d3/d56/a04553.html#add201c56e63c8e3d4b9541d4b0ad8d1f", null ],
+    [ "TEST_F", "d3/d56/a04553.html#a746f7ab811ea4ea58f21d77180c752b3", null ],
+    [ "TEST_F", "d3/d56/a04553.html#a8cddad3956dbe3afd8a23e969ba46d05", null ],
+    [ "TEST_F", "d3/d56/a04553.html#a89db4a2cf2935011d4e98ff3385c25d8", null ],
+    [ "TEST_F", "d3/d56/a04553.html#ab8fbc8d09d454845b486266a32ec0055", null ],
+    [ "TEST_F", "d3/d56/a04553.html#a8ae02922feb6d525efc5203b349d36d8", null ],
+    [ "TEST_F", "d3/d56/a04553.html#ac539918ba1c029cc1ea195c532da00ad", null ],
+    [ "TEST_F", "d3/d56/a04553.html#afdc5df5f8196781ca55254eda1bd09d0", null ],
+    [ "TEST_F", "d3/d56/a04553.html#a03704468e16a20474afaecd9dea9019f", null ],
+    [ "TEST_F", "d3/d56/a04553.html#a1d7c412fdf87bebbdfa8133166237d6c", null ]
 ];

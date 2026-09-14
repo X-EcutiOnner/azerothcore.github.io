@@ -1,9 +1,6 @@
 var a18909 =
 [
-    [ "npc_green_dragon_combat_triggerAI", "d0/d13/a18909.html#a4d4bd899a40ff44f8ee517b2a0328538", null ],
-    [ "DoAction", "d0/d13/a18909.html#abbd08537ed245084ca7d4cf852a749a2", null ],
-    [ "JustEnteredCombat", "d0/d13/a18909.html#ae25ca99139f8bb0082b97599cb924bd9", null ],
-    [ "JustExitedCombat", "d0/d13/a18909.html#add8ce38b4a75947dc0170c7aba9c5589", null ],
-    [ "MoveInLineOfSight", "d0/d13/a18909.html#ab2465cf3e5950d827eb0a30e9fc2ea47", null ],
-    [ "Reset", "d0/d13/a18909.html#a3dfe1f28c9301c30186beb27ab76f9a9", null ]
+    [ "npc_lk_spirit_bombAI", "da/dd4/a18913.html", "da/dd4/a18913" ],
+    [ "npc_lk_spirit_bomb", "d0/d13/a18909.html#acc08d41aa1761c450de782e92307ad7c", null ],
+    [ "GetAI", "d0/d13/a18909.html#ade74c00beb2da69dafb0ae93d771c430", null ]
 ];

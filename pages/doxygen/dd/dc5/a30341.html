@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: ModelHeader Struct Reference</title>
+<title>AzerothCore: MMAP::Config Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,1032 +105,984 @@ $(document).ready(function(){initNavTree('dd/dc5/a30341.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#nested-classes">Classes</a> &#124;
+<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
+<a href="#pri-methods">Private Member Functions</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../da/d24/a30338.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">ModelHeader Struct Reference</div></div>
+  <div class="headertitle"><div class="title">MMAP::Config Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">modelheaders.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">Config.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:a6051f6dfb7e19cafb21cc1a1284f8a36"><td class="memItemLeft" align="right" valign="top">char&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a6051f6dfb7e19cafb21cc1a1284f8a36">id</a> [4]</td></tr>
-<tr class="separator:a6051f6dfb7e19cafb21cc1a1284f8a36"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae91914678dff064bc9f73bac7223aa20"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#ae91914678dff064bc9f73bac7223aa20">version</a> [4]</td></tr>
-<tr class="separator:ae91914678dff064bc9f73bac7223aa20"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1a241e5bc76b85fc2c4d1aabce338443"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a1a241e5bc76b85fc2c4d1aabce338443">nameLength</a></td></tr>
-<tr class="separator:a1a241e5bc76b85fc2c4d1aabce338443"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a42eebea27c60ec0ba32963a86e78a8e6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a42eebea27c60ec0ba32963a86e78a8e6">nameOfs</a></td></tr>
-<tr class="separator:a42eebea27c60ec0ba32963a86e78a8e6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa46258c76d1feea425da41be3cefb5da"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#aa46258c76d1feea425da41be3cefb5da">type</a></td></tr>
-<tr class="separator:aa46258c76d1feea425da41be3cefb5da"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac73b599d0e7b6a2bfddda1f98a8e9893"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#ac73b599d0e7b6a2bfddda1f98a8e9893">nGlobalSequences</a></td></tr>
-<tr class="separator:ac73b599d0e7b6a2bfddda1f98a8e9893"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a79d8bbe59f8f51fbfde10737007aebc4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a79d8bbe59f8f51fbfde10737007aebc4">ofsGlobalSequences</a></td></tr>
-<tr class="separator:a79d8bbe59f8f51fbfde10737007aebc4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa17175c0ee959ee686f520d9c705b5a9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#aa17175c0ee959ee686f520d9c705b5a9">nAnimations</a></td></tr>
-<tr class="separator:aa17175c0ee959ee686f520d9c705b5a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2e4bc7e638338fb60119b8589f71be76"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a2e4bc7e638338fb60119b8589f71be76">ofsAnimations</a></td></tr>
-<tr class="separator:a2e4bc7e638338fb60119b8589f71be76"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab1539ff81b1b91ae400dbb5ca0630646"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#ab1539ff81b1b91ae400dbb5ca0630646">nAnimationLookup</a></td></tr>
-<tr class="separator:ab1539ff81b1b91ae400dbb5ca0630646"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1766f3d003e67e655168a076a5ffb35d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a1766f3d003e67e655168a076a5ffb35d">ofsAnimationLookup</a></td></tr>
-<tr class="separator:a1766f3d003e67e655168a076a5ffb35d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a469895fdb90910dd0ad26782c9820bb0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a469895fdb90910dd0ad26782c9820bb0">nBones</a></td></tr>
-<tr class="separator:a469895fdb90910dd0ad26782c9820bb0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7607b56b33987a299415a116a24bf088"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a7607b56b33987a299415a116a24bf088">ofsBones</a></td></tr>
-<tr class="separator:a7607b56b33987a299415a116a24bf088"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adfca4d604b62b6abd56084b59fb798bc"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#adfca4d604b62b6abd56084b59fb798bc">nKeyBoneLookup</a></td></tr>
-<tr class="separator:adfca4d604b62b6abd56084b59fb798bc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af9868234251a6f1eb7e809a7d183d68d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#af9868234251a6f1eb7e809a7d183d68d">ofsKeyBoneLookup</a></td></tr>
-<tr class="separator:af9868234251a6f1eb7e809a7d183d68d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa7b9356ead53f64a1482c064369830d1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#aa7b9356ead53f64a1482c064369830d1">nVertices</a></td></tr>
-<tr class="separator:aa7b9356ead53f64a1482c064369830d1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a014d42c24266dcadcc577b541950fc05"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a014d42c24266dcadcc577b541950fc05">ofsVertices</a></td></tr>
-<tr class="separator:a014d42c24266dcadcc577b541950fc05"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a278978353b271aefbcf6bf8b6d5c14cf"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a278978353b271aefbcf6bf8b6d5c14cf">nViews</a></td></tr>
-<tr class="separator:a278978353b271aefbcf6bf8b6d5c14cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7e0fc7a04de53f4c5a7d3dddbb529a8e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a7e0fc7a04de53f4c5a7d3dddbb529a8e">nColors</a></td></tr>
-<tr class="separator:a7e0fc7a04de53f4c5a7d3dddbb529a8e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a900efa2872c610e6522a8a39ca1506a3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a900efa2872c610e6522a8a39ca1506a3">ofsColors</a></td></tr>
-<tr class="separator:a900efa2872c610e6522a8a39ca1506a3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a152d503b64c3974ee6a9ba04cf124957"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a152d503b64c3974ee6a9ba04cf124957">nTextures</a></td></tr>
-<tr class="separator:a152d503b64c3974ee6a9ba04cf124957"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a33db3d192ebfbb5fe234ca6dde190ce9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a33db3d192ebfbb5fe234ca6dde190ce9">ofsTextures</a></td></tr>
-<tr class="separator:a33db3d192ebfbb5fe234ca6dde190ce9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab2ffe7bcb4d11558afc67da61ab1ab5f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#ab2ffe7bcb4d11558afc67da61ab1ab5f">nTransparency</a></td></tr>
-<tr class="separator:ab2ffe7bcb4d11558afc67da61ab1ab5f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a82fa640b98fcff23b65d15ae3ecc889a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a82fa640b98fcff23b65d15ae3ecc889a">ofsTransparency</a></td></tr>
-<tr class="separator:a82fa640b98fcff23b65d15ae3ecc889a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4ae625be8246d31ea4347a14ca0bfb09"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a4ae625be8246d31ea4347a14ca0bfb09">nTextureanimations</a></td></tr>
-<tr class="separator:a4ae625be8246d31ea4347a14ca0bfb09"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a34a67fbb25e95f0cc922d2fbe995bf47"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a34a67fbb25e95f0cc922d2fbe995bf47">ofsTextureanimations</a></td></tr>
-<tr class="separator:a34a67fbb25e95f0cc922d2fbe995bf47"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae3bcc993df35087a506632cef8c66ded"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#ae3bcc993df35087a506632cef8c66ded">nTexReplace</a></td></tr>
-<tr class="separator:ae3bcc993df35087a506632cef8c66ded"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a08ed4187244596b2f011f201a738c666"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a08ed4187244596b2f011f201a738c666">ofsTexReplace</a></td></tr>
-<tr class="separator:a08ed4187244596b2f011f201a738c666"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a33235bfc26175f4501be9aeb15108e90"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a33235bfc26175f4501be9aeb15108e90">nRenderFlags</a></td></tr>
-<tr class="separator:a33235bfc26175f4501be9aeb15108e90"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a121bd59435d56149430da784aedd8bcb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a121bd59435d56149430da784aedd8bcb">ofsRenderFlags</a></td></tr>
-<tr class="separator:a121bd59435d56149430da784aedd8bcb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a565315f5c14ed18958031ef6f77f768d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a565315f5c14ed18958031ef6f77f768d">nBoneLookupTable</a></td></tr>
-<tr class="separator:a565315f5c14ed18958031ef6f77f768d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2eff7b19e12839a0dc7057a358c70a32"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a2eff7b19e12839a0dc7057a358c70a32">ofsBoneLookupTable</a></td></tr>
-<tr class="separator:a2eff7b19e12839a0dc7057a358c70a32"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6a4bfebf4f1915eee27a93ecec8c62ed"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a6a4bfebf4f1915eee27a93ecec8c62ed">nTexLookup</a></td></tr>
-<tr class="separator:a6a4bfebf4f1915eee27a93ecec8c62ed"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a29d4389a670c1e9c1b65beed91963cc9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a29d4389a670c1e9c1b65beed91963cc9">ofsTexLookup</a></td></tr>
-<tr class="separator:a29d4389a670c1e9c1b65beed91963cc9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a87e3a307fb8f1346c0c4b65b5170b6af"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a87e3a307fb8f1346c0c4b65b5170b6af">nTexUnits</a></td></tr>
-<tr class="separator:a87e3a307fb8f1346c0c4b65b5170b6af"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0f3ecd249c6ce94bafaad1e32f2c1fe8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a0f3ecd249c6ce94bafaad1e32f2c1fe8">ofsTexUnits</a></td></tr>
-<tr class="separator:a0f3ecd249c6ce94bafaad1e32f2c1fe8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a407fa00865c91fce4365c9aa35e17276"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a407fa00865c91fce4365c9aa35e17276">nTransLookup</a></td></tr>
-<tr class="separator:a407fa00865c91fce4365c9aa35e17276"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a320b86ba83a1f65da7d6000088cbcaa9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a320b86ba83a1f65da7d6000088cbcaa9">ofsTransLookup</a></td></tr>
-<tr class="separator:a320b86ba83a1f65da7d6000088cbcaa9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8908876de58a5735a497ea5fe4c47cfe"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a8908876de58a5735a497ea5fe4c47cfe">nTexAnimLookup</a></td></tr>
-<tr class="separator:a8908876de58a5735a497ea5fe4c47cfe"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a88e801690480b58b32839d6770a1e400"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a88e801690480b58b32839d6770a1e400">ofsTexAnimLookup</a></td></tr>
-<tr class="separator:a88e801690480b58b32839d6770a1e400"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a43ccc74aa634e84fe51bab54425645da"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a43ccc74aa634e84fe51bab54425645da">floats</a> [14]</td></tr>
-<tr class="separator:a43ccc74aa634e84fe51bab54425645da"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a534b1311e9b45f63435762bbcf720fe4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a534b1311e9b45f63435762bbcf720fe4">nBoundingTriangles</a></td></tr>
-<tr class="separator:a534b1311e9b45f63435762bbcf720fe4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afe6561867455a787dfd9a2d784cc9546"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#afe6561867455a787dfd9a2d784cc9546">ofsBoundingTriangles</a></td></tr>
-<tr class="separator:afe6561867455a787dfd9a2d784cc9546"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a41753e7b46dd3129e35841dea900f133"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a41753e7b46dd3129e35841dea900f133">nBoundingVertices</a></td></tr>
-<tr class="separator:a41753e7b46dd3129e35841dea900f133"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afa18360276cbf9324675c0716079eecf"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#afa18360276cbf9324675c0716079eecf">ofsBoundingVertices</a></td></tr>
-<tr class="separator:afa18360276cbf9324675c0716079eecf"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a19f93002ea70b0924ed3003bf93674e6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a19f93002ea70b0924ed3003bf93674e6">nBoundingNormals</a></td></tr>
-<tr class="separator:a19f93002ea70b0924ed3003bf93674e6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a691d8c3e556b74d2ad5a5634247bd7a5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a691d8c3e556b74d2ad5a5634247bd7a5">ofsBoundingNormals</a></td></tr>
-<tr class="separator:a691d8c3e556b74d2ad5a5634247bd7a5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1655b7fea9d25359f6f563118e737f1e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a1655b7fea9d25359f6f563118e737f1e">nAttachments</a></td></tr>
-<tr class="separator:a1655b7fea9d25359f6f563118e737f1e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5726632945a2b64b89da584b1815077e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a5726632945a2b64b89da584b1815077e">ofsAttachments</a></td></tr>
-<tr class="separator:a5726632945a2b64b89da584b1815077e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9667df8b9e2f67702fa1121991fae31a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a9667df8b9e2f67702fa1121991fae31a">nAttachLookup</a></td></tr>
-<tr class="separator:a9667df8b9e2f67702fa1121991fae31a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9806dd0a585e1c303843f5a250df417a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a9806dd0a585e1c303843f5a250df417a">ofsAttachLookup</a></td></tr>
-<tr class="separator:a9806dd0a585e1c303843f5a250df417a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac1df2d7ce113d69d4f8c76132e285bb6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#ac1df2d7ce113d69d4f8c76132e285bb6">nAttachments_2</a></td></tr>
-<tr class="separator:ac1df2d7ce113d69d4f8c76132e285bb6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4babc9962711d128934266a23b67838b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a4babc9962711d128934266a23b67838b">ofsAttachments_2</a></td></tr>
-<tr class="separator:a4babc9962711d128934266a23b67838b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a431a64a1db950d16135225f93f86988b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a431a64a1db950d16135225f93f86988b">nLights</a></td></tr>
-<tr class="separator:a431a64a1db950d16135225f93f86988b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a775f1d419ae0a11becfba1b6997d06a3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a775f1d419ae0a11becfba1b6997d06a3">ofsLights</a></td></tr>
-<tr class="separator:a775f1d419ae0a11becfba1b6997d06a3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a50ff7a861f108f4c70ccfe64f12a2ad4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a50ff7a861f108f4c70ccfe64f12a2ad4">nCameras</a></td></tr>
-<tr class="separator:a50ff7a861f108f4c70ccfe64f12a2ad4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a593e6ebde962a5181006f04a0d5da761"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a593e6ebde962a5181006f04a0d5da761">ofsCameras</a></td></tr>
-<tr class="separator:a593e6ebde962a5181006f04a0d5da761"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5ec7ae3955269a79d2a5893f0af46563"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a5ec7ae3955269a79d2a5893f0af46563">nCameraLookup</a></td></tr>
-<tr class="separator:a5ec7ae3955269a79d2a5893f0af46563"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9594b44616afdefe3ca54f3c6d25a249"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a9594b44616afdefe3ca54f3c6d25a249">ofsCameraLookup</a></td></tr>
-<tr class="separator:a9594b44616afdefe3ca54f3c6d25a249"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a397348cf8eafacf35ff5f84cbfce1b34"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a397348cf8eafacf35ff5f84cbfce1b34">nRibbonEmitters</a></td></tr>
-<tr class="separator:a397348cf8eafacf35ff5f84cbfce1b34"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af380a1b8594ed0db8680d31a3a01c8a1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#af380a1b8594ed0db8680d31a3a01c8a1">ofsRibbonEmitters</a></td></tr>
-<tr class="separator:af380a1b8594ed0db8680d31a3a01c8a1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae41008e814f9e92f6b2a2eee286d47f7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#ae41008e814f9e92f6b2a2eee286d47f7">nParticleEmitters</a></td></tr>
-<tr class="separator:ae41008e814f9e92f6b2a2eee286d47f7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a93063917ec53289a71d2de23015d3762"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a93063917ec53289a71d2de23015d3762">ofsParticleEmitters</a></td></tr>
-<tr class="separator:a93063917ec53289a71d2de23015d3762"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d18/a30353.html">GlobalConfig</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dee/a30349.html">MapOverride</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d02/a30345.html">TileOverride</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:a32e93ca2b3ebe6e4c4e6bb23c38e5276"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a32e93ca2b3ebe6e4c4e6bb23c38e5276">~Config</a> ()=default</td></tr>
+<tr class="separator:a32e93ca2b3ebe6e4c4e6bb23c38e5276"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1a69b4ed8e98cac54008e35743901416"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d41/a30337.html">ResolvedMeshConfig</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a1a69b4ed8e98cac54008e35743901416">GetConfigForTile</a> (<a class="el" href="../../d8/dca/a04670.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> mapID, <a class="el" href="../../d8/dca/a04670.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> tileX, <a class="el" href="../../d8/dca/a04670.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> tileY) const</td></tr>
+<tr class="separator:a1a69b4ed8e98cac54008e35743901416"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aebd66300e216ef00648901e06f5642f3"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#aebd66300e216ef00648901e06f5642f3">ShouldSkipLiquid</a> () const</td></tr>
+<tr class="separator:aebd66300e216ef00648901e06f5642f3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa977fc8babd09e07533870b4588d9778"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#aa977fc8babd09e07533870b4588d9778">ShouldSkipContinents</a> () const</td></tr>
+<tr class="separator:aa977fc8babd09e07533870b4588d9778"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab417d85aec5a3320a54498320752161f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#ab417d85aec5a3320a54498320752161f">ShouldSkipJunkMaps</a> () const</td></tr>
+<tr class="separator:ab417d85aec5a3320a54498320752161f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad1fa8cde32799df8cb2823c6519372a5"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#ad1fa8cde32799df8cb2823c6519372a5">ShouldSkipBattlegrounds</a> () const</td></tr>
+<tr class="separator:ad1fa8cde32799df8cb2823c6519372a5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad0b9f57ffc1645608baaa9fd40781f87"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#ad0b9f57ffc1645608baaa9fd40781f87">IsDebugOutputEnabled</a> () const</td></tr>
+<tr class="separator:ad0b9f57ffc1645608baaa9fd40781f87"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2339aca745ebdad517f79a89f29d1cf9"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a2339aca745ebdad517f79a89f29d1cf9">VMapsPath</a> () const</td></tr>
+<tr class="separator:a2339aca745ebdad517f79a89f29d1cf9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1d0f34239a4770006e4f53d0f28ba8ed"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a1d0f34239a4770006e4f53d0f28ba8ed">MapsPath</a> () const</td></tr>
+<tr class="separator:a1d0f34239a4770006e4f53d0f28ba8ed"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4c4885b899f29f8b7fdeaccbbf3c5c54"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a4c4885b899f29f8b7fdeaccbbf3c5c54">MMapsPath</a> () const</td></tr>
+<tr class="separator:a4c4885b899f29f8b7fdeaccbbf3c5c54"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a33af3e24e093e879164fe46175f4576d"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a33af3e24e093e879164fe46175f4576d">DataDirPath</a> () const</td></tr>
+<tr class="separator:a33af3e24e093e879164fe46175f4576d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2787e889be0b5647aa7e29ad3e3e8ecc"><td class="memItemLeft" align="right" valign="top">std::vector&lt; std::string &gt; const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a2787e889be0b5647aa7e29ad3e3e8ecc">OffMeshConnections</a> () const</td></tr>
+<tr class="separator:a2787e889be0b5647aa7e29ad3e3e8ecc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
+Static Public Member Functions</h2></td></tr>
+<tr class="memitem:aa3a2a700bdef67e8ecf1136d9592e915"><td class="memItemLeft" align="right" valign="top">static std::optional&lt; <a class="el" href="../../dd/dc5/a30341.html">Config</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#aa3a2a700bdef67e8ecf1136d9592e915">FromFile</a> (std::string_view configFile)</td></tr>
+<tr class="separator:aa3a2a700bdef67e8ecf1136d9592e915"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
+Private Member Functions</h2></td></tr>
+<tr class="memitem:a8547b1e7565930cf9667d1421eb9d267"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a8547b1e7565930cf9667d1421eb9d267">Config</a> ()</td></tr>
+<tr class="separator:a8547b1e7565930cf9667d1421eb9d267"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0f3def21b18d71a4c78d082fc24e5c77"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a0f3def21b18d71a4c78d082fc24e5c77">LoadConfig</a> (std::string_view configFile)</td></tr>
+<tr class="separator:a0f3def21b18d71a4c78d082fc24e5c77"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:a86d09da3b6ec6b938e4c6ba5caf90b92"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d18/a30353.html">GlobalConfig</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a86d09da3b6ec6b938e4c6ba5caf90b92">_global</a></td></tr>
+<tr class="separator:a86d09da3b6ec6b938e4c6ba5caf90b92"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afd31b92dc677d3410816388010438141"><td class="memItemLeft" align="right" valign="top">std::unordered_map&lt; <a class="el" href="../../d8/dca/a04670.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../da/dee/a30349.html">MapOverride</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#afd31b92dc677d3410816388010438141">_maps</a></td></tr>
+<tr class="separator:afd31b92dc677d3410816388010438141"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afcac72fd98752013061aaca541011d1c"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#afcac72fd98752013061aaca541011d1c">_skipLiquid</a></td></tr>
+<tr class="separator:afcac72fd98752013061aaca541011d1c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3c5646fccb5fdc59340207d4deec7d1b"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a3c5646fccb5fdc59340207d4deec7d1b">_skipContinents</a></td></tr>
+<tr class="separator:a3c5646fccb5fdc59340207d4deec7d1b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad2f941932465884d64cd27fce82eaa33"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#ad2f941932465884d64cd27fce82eaa33">_skipJunkMaps</a></td></tr>
+<tr class="separator:ad2f941932465884d64cd27fce82eaa33"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3ce8273432b0eb65c805adbbddb77d3d"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a3ce8273432b0eb65c805adbbddb77d3d">_skipBattlegrounds</a></td></tr>
+<tr class="separator:a3ce8273432b0eb65c805adbbddb77d3d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0e8b13fa0248da75567c086132f211ad"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a0e8b13fa0248da75567c086132f211ad">_debugOutput</a></td></tr>
+<tr class="separator:a0e8b13fa0248da75567c086132f211ad"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a33a4ab30ac8424499f7b11cffcd4740b"><td class="memItemLeft" align="right" valign="top">std::filesystem::path&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a33a4ab30ac8424499f7b11cffcd4740b">_dataDir</a></td></tr>
+<tr class="separator:a33a4ab30ac8424499f7b11cffcd4740b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9fcfcb466c608d6618d4f800cf6418a1"><td class="memItemLeft" align="right" valign="top">std::vector&lt; std::string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc5/a30341.html#a9fcfcb466c608d6618d4f800cf6418a1">_offmeshConnections</a></td></tr>
+<tr class="separator:a9fcfcb466c608d6618d4f800cf6418a1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Data Documentation</h2>
-<a id="a43ccc74aa634e84fe51bab54425645da" name="a43ccc74aa634e84fe51bab54425645da"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a43ccc74aa634e84fe51bab54425645da">&#9670;&#160;</a></span>floats</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a32e93ca2b3ebe6e4c4e6bb23c38e5276" name="a32e93ca2b3ebe6e4c4e6bb23c38e5276"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a32e93ca2b3ebe6e4c4e6bb23c38e5276">&#9670;&#160;</a></span>~Config()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">MMAP::Config::~Config </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">default</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a8547b1e7565930cf9667d1421eb9d267" name="a8547b1e7565930cf9667d1421eb9d267"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8547b1e7565930cf9667d1421eb9d267">&#9670;&#160;</a></span>Config()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">MMAP::Config::Config </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">explicit</span><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   72</span>    {</div>
+<div class="line"><span class="lineno">   73</span>    }</div>
+</div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a33af3e24e093e879164fe46175f4576d" name="a33af3e24e093e879164fe46175f4576d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a33af3e24e093e879164fe46175f4576d">&#9670;&#160;</a></span>DataDirPath()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string MMAP::Config::DataDirPath </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   77</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dd/dc5/a30341.html#a33a4ab30ac8424499f7b11cffcd4740b">_dataDir</a>.string(); }</div>
+<div class="ttc" id="aa30341_html_a33a4ab30ac8424499f7b11cffcd4740b"><div class="ttname"><a href="../../dd/dc5/a30341.html#a33a4ab30ac8424499f7b11cffcd4740b">MMAP::Config::_dataDir</a></div><div class="ttdeci">std::filesystem::path _dataDir</div><div class="ttdef"><b>Definition:</b> Config.h:157</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00157">_dataDir</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00586">MMAP::TileBuilder::buildMoveMapTile()</a>, <a class="el" href="../../#l00508">MMAP::MapBuilder::buildNavMesh()</a>, <a class="el" href="../../#l00058">MMAP::MapBuilder::MapBuilder()</a>, <a class="el" href="../../#l01033">MMAP::TileBuilder::shouldSkipTile()</a>, and <a class="el" href="../../#l00033">MMAP::TileBuilder::TileBuilder()</a>.</p>
+
+</div>
+</div>
+<a id="aa3a2a700bdef67e8ecf1136d9592e915" name="aa3a2a700bdef67e8ecf1136d9592e915"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa3a2a700bdef67e8ecf1136d9592e915">&#9670;&#160;</a></span>FromFile()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::optional&lt; <a class="el" href="../../dd/dc5/a30341.html">Config</a> &gt; MMAP::Config::FromFile </td>
+          <td>(</td>
+          <td class="paramtype">std::string_view&#160;</td>
+          <td class="paramname"><em>configFile</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   63</span>                                                                  {</div>
+<div class="line"><span class="lineno">   64</span>        <a class="code hl_function" href="../../dd/dc5/a30341.html#a8547b1e7565930cf9667d1421eb9d267">Config</a> config;</div>
+<div class="line"><span class="lineno">   65</span>        <span class="keywordflow">if</span> (!config.LoadConfig(configFile))</div>
+<div class="line"><span class="lineno">   66</span>            <span class="keywordflow">return</span> std::nullopt;</div>
+<div class="line"><span class="lineno">   67</span> </div>
+<div class="line"><span class="lineno">   68</span>        <span class="keywordflow">return</span> config;</div>
+<div class="line"><span class="lineno">   69</span>    }</div>
+<div class="ttc" id="aa30341_html_a8547b1e7565930cf9667d1421eb9d267"><div class="ttname"><a href="../../dd/dc5/a30341.html#a8547b1e7565930cf9667d1421eb9d267">MMAP::Config::Config</a></div><div class="ttdeci">Config()</div><div class="ttdef"><b>Definition:</b> Config.cpp:71</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00158">LoadConfig()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00162">main()</a>.</p>
+
+</div>
+</div>
+<a id="a1a69b4ed8e98cac54008e35743901416" name="a1a69b4ed8e98cac54008e35743901416"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1a69b4ed8e98cac54008e35743901416">&#9670;&#160;</a></span>GetConfigForTile()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">float ModelHeader::floats[14]</td>
+          <td class="memname"><a class="el" href="../../d6/d41/a30337.html">ResolvedMeshConfig</a> MMAP::Config::GetConfigForTile </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/dca/a04670.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>mapID</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d8/dca/a04670.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>tileX</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d8/dca/a04670.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>tileY</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td> const</td>
         </tr>
       </table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   76</span>    {</div>
+<div class="line"><span class="lineno">   77</span>        MapOverride <span class="keyword">const</span>* mapOverride = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">   78</span>        TileOverride <span class="keyword">const</span>* tileOverride = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">   79</span> </div>
+<div class="line"><span class="lineno">   80</span>        <span class="comment">// Lookup map and tile overrides</span></div>
+<div class="line"><span class="lineno">   81</span>        <span class="keywordflow">if</span> (<span class="keyword">auto</span> mapIt = <a class="code hl_variable" href="../../dd/dc5/a30341.html#afd31b92dc677d3410816388010438141">_maps</a>.find(mapID); mapIt != <a class="code hl_variable" href="../../dd/dc5/a30341.html#afd31b92dc677d3410816388010438141">_maps</a>.end())</div>
+<div class="line"><span class="lineno">   82</span>        {</div>
+<div class="line"><span class="lineno">   83</span>            mapOverride = &amp;mapIt-&gt;second;</div>
+<div class="line"><span class="lineno">   84</span> </div>
+<div class="line"><span class="lineno">   85</span>            <span class="keyword">auto</span> tileIt = mapOverride-&gt;tileOverrides.find(<a class="code hl_function" href="../../dd/d15/a05117.html#a45540263b1795bfc48c91a117c239a6c">MakeTileKey</a>(tileY, tileX));</div>
+<div class="line"><span class="lineno">   86</span>            <span class="keywordflow">if</span> (tileIt != mapOverride-&gt;tileOverrides.end())</div>
+<div class="line"><span class="lineno">   87</span>                tileOverride = &amp;tileIt-&gt;second;</div>
+<div class="line"><span class="lineno">   88</span>        }</div>
+<div class="line"><span class="lineno">   89</span> </div>
+<div class="line"><span class="lineno">   90</span>        <span class="comment">// Helper lambdas to resolve values in order: tile -&gt; map -&gt; global</span></div>
+<div class="line"><span class="lineno">   91</span>        <span class="keyword">auto</span> resolveFloat = [&amp;](<span class="keyword">auto</span> TileField, <span class="keyword">auto</span> MapField, <span class="keywordtype">float</span> GlobalValue) -&gt; <span class="keywordtype">float</span> {</div>
+<div class="line"><span class="lineno">   92</span>            <span class="keywordflow">if</span> (tileOverride &amp;&amp; TileField(tileOverride)) <span class="keywordflow">return</span> *TileField(tileOverride);</div>
+<div class="line"><span class="lineno">   93</span>            <span class="keywordflow">if</span> (mapOverride &amp;&amp; MapField(mapOverride)) <span class="keywordflow">return</span> *MapField(mapOverride);</div>
+<div class="line"><span class="lineno">   94</span>            <span class="keywordflow">return</span> GlobalValue;</div>
+<div class="line"><span class="lineno">   95</span>        };</div>
+<div class="line"><span class="lineno">   96</span> </div>
+<div class="line"><span class="lineno">   97</span>        <span class="keyword">auto</span> resolveInt = [&amp;](<span class="keyword">auto</span> TileField, <span class="keyword">auto</span> MapField, <span class="keywordtype">int</span> GlobalValue) -&gt; <span class="keywordtype">int</span> {</div>
+<div class="line"><span class="lineno">   98</span>            <span class="keywordflow">if</span> (tileOverride &amp;&amp; TileField(tileOverride)) <span class="keywordflow">return</span> *TileField(tileOverride);</div>
+<div class="line"><span class="lineno">   99</span>            <span class="keywordflow">if</span> (mapOverride &amp;&amp; MapField(mapOverride)) <span class="keywordflow">return</span> *MapField(mapOverride);</div>
+<div class="line"><span class="lineno">  100</span>            <span class="keywordflow">return</span> GlobalValue;</div>
+<div class="line"><span class="lineno">  101</span>        };</div>
+<div class="line"><span class="lineno">  102</span> </div>
+<div class="line"><span class="lineno">  103</span>        <span class="comment">// Resolve vertex settings</span></div>
+<div class="line"><span class="lineno">  104</span>        <span class="keywordtype">int</span> vertexPerMap = resolveInt(</div>
+<div class="line"><span class="lineno">  105</span>            [](TileOverride <span class="keyword">const</span>*) { <span class="keywordflow">return</span> std::optional&lt;int&gt;{}; },</div>
+<div class="line"><span class="lineno">  106</span>            [](MapOverride <span class="keyword">const</span>* m) { <span class="keywordflow">return</span> m-&gt;vertexPerMapEdge; },</div>
+<div class="line"><span class="lineno">  107</span>            <a class="code hl_variable" href="../../dd/dc5/a30341.html#a86d09da3b6ec6b938e4c6ba5caf90b92">_global</a>.<a class="code hl_variable" href="../../d2/d18/a30353.html#af620af11a09215f106fc6704c88fa411">vertexPerMapEdge</a></div>
+<div class="line"><span class="lineno">  108</span>        );</div>
+<div class="line"><span class="lineno">  109</span> </div>
+<div class="line"><span class="lineno">  110</span>        <span class="keywordtype">int</span> vertexPerTile = resolveInt(</div>
+<div class="line"><span class="lineno">  111</span>            [](TileOverride <span class="keyword">const</span>*) { <span class="keywordflow">return</span> std::optional&lt;int&gt;{}; },</div>
+<div class="line"><span class="lineno">  112</span>            [](MapOverride <span class="keyword">const</span>* m) { <span class="keywordflow">return</span> m-&gt;vertexPerTileEdge; },</div>
+<div class="line"><span class="lineno">  113</span>            <a class="code hl_variable" href="../../dd/dc5/a30341.html#a86d09da3b6ec6b938e4c6ba5caf90b92">_global</a>.<a class="code hl_variable" href="../../d2/d18/a30353.html#a5a801e68fac6d59c1a236aeaf374bc9e">vertexPerTileEdge</a></div>
+<div class="line"><span class="lineno">  114</span>        );</div>
+<div class="line"><span class="lineno">  115</span> </div>
+<div class="line"><span class="lineno">  116</span>        ResolvedMeshConfig config;</div>
+<div class="line"><span class="lineno">  117</span>        config.walkableSlopeAngle = resolveFloat(</div>
+<div class="line"><span class="lineno">  118</span>            [](TileOverride <span class="keyword">const</span>* t) { <span class="keywordflow">return</span> t-&gt;walkableSlopeAngle; },</div>
+<div class="line"><span class="lineno">  119</span>            [](MapOverride <span class="keyword">const</span>* m) { <span class="keywordflow">return</span> m-&gt;walkableSlopeAngle; },</div>
+<div class="line"><span class="lineno">  120</span>            <a class="code hl_variable" href="../../dd/dc5/a30341.html#a86d09da3b6ec6b938e4c6ba5caf90b92">_global</a>.<a class="code hl_variable" href="../../d2/d18/a30353.html#a9792dfe730bfc437797a359896a14528">walkableSlopeAngle</a></div>
+<div class="line"><span class="lineno">  121</span>        );</div>
+<div class="line"><span class="lineno">  122</span> </div>
+<div class="line"><span class="lineno">  123</span>        config.walkableRadius = resolveInt(</div>
+<div class="line"><span class="lineno">  124</span>            [](TileOverride <span class="keyword">const</span>* t) { <span class="keywordflow">return</span> t-&gt;walkableRadius; },</div>
+<div class="line"><span class="lineno">  125</span>            [](MapOverride <span class="keyword">const</span>* m) { <span class="keywordflow">return</span> m-&gt;walkableRadius; },</div>
+<div class="line"><span class="lineno">  126</span>            <a class="code hl_variable" href="../../dd/dc5/a30341.html#a86d09da3b6ec6b938e4c6ba5caf90b92">_global</a>.<a class="code hl_variable" href="../../d2/d18/a30353.html#a43f00aacc5e1497c169d4ba908883140">walkableRadius</a></div>
+<div class="line"><span class="lineno">  127</span>        );</div>
+<div class="line"><span class="lineno">  128</span> </div>
+<div class="line"><span class="lineno">  129</span>        config.walkableHeight = resolveInt(</div>
+<div class="line"><span class="lineno">  130</span>            [](TileOverride <span class="keyword">const</span>* t) { <span class="keywordflow">return</span> t-&gt;walkableHeight; },</div>
+<div class="line"><span class="lineno">  131</span>            [](MapOverride <span class="keyword">const</span>* m) { <span class="keywordflow">return</span> m-&gt;walkableHeight; },</div>
+<div class="line"><span class="lineno">  132</span>            <a class="code hl_variable" href="../../dd/dc5/a30341.html#a86d09da3b6ec6b938e4c6ba5caf90b92">_global</a>.<a class="code hl_variable" href="../../d2/d18/a30353.html#a42b9a553cb3cd5d9c39d4cb7f0f59486">walkableHeight</a></div>
+<div class="line"><span class="lineno">  133</span>        );</div>
+<div class="line"><span class="lineno">  134</span> </div>
+<div class="line"><span class="lineno">  135</span>        config.walkableClimb = resolveInt(</div>
+<div class="line"><span class="lineno">  136</span>            [](TileOverride <span class="keyword">const</span>* t) { <span class="keywordflow">return</span> t-&gt;walkableClimb; },</div>
+<div class="line"><span class="lineno">  137</span>            [](MapOverride <span class="keyword">const</span>* m) { <span class="keywordflow">return</span> m-&gt;walkableClimb; },</div>
+<div class="line"><span class="lineno">  138</span>            <a class="code hl_variable" href="../../dd/dc5/a30341.html#a86d09da3b6ec6b938e4c6ba5caf90b92">_global</a>.<a class="code hl_variable" href="../../d2/d18/a30353.html#aa5f6c5daf51b6390b7146f9a8d6de7ec">walkableClimb</a></div>
+<div class="line"><span class="lineno">  139</span>        );</div>
+<div class="line"><span class="lineno">  140</span> </div>
+<div class="line"><span class="lineno">  141</span>        config.vertexPerMapEdge = vertexPerMap;</div>
+<div class="line"><span class="lineno">  142</span>        config.vertexPerTileEdge = vertexPerTile;</div>
+<div class="line"><span class="lineno">  143</span>        config.baseUnitDim = <a class="code hl_function" href="../../dd/d15/a05117.html#ac84de12da6296e2f505870fda60891b1">ComputeBaseUnitDim</a>(vertexPerMap);</div>
+<div class="line"><span class="lineno">  144</span>        config.tilesPerMapEdge = vertexPerMap / vertexPerTile;</div>
+<div class="line"><span class="lineno">  145</span>        config.maxSimplificationError = <a class="code hl_variable" href="../../dd/dc5/a30341.html#a86d09da3b6ec6b938e4c6ba5caf90b92">_global</a>.<a class="code hl_variable" href="../../d2/d18/a30353.html#a010878a247d639234d2bb8571280aca6">maxSimplificationError</a>;</div>
+<div class="line"><span class="lineno">  146</span>        config.cellSizeHorizontal = config.baseUnitDim;</div>
+<div class="line"><span class="lineno">  147</span>        config.cellSizeVertical = config.baseUnitDim;</div>
+<div class="line"><span class="lineno">  148</span> </div>
+<div class="line"><span class="lineno">  149</span>        <span class="keywordflow">if</span> (mapOverride &amp;&amp; mapOverride-&gt;cellSizeHorizontal.has_value())</div>
+<div class="line"><span class="lineno">  150</span>            config.cellSizeHorizontal = *mapOverride-&gt;cellSizeHorizontal;</div>
+<div class="line"><span class="lineno">  151</span> </div>
+<div class="line"><span class="lineno">  152</span>        <span class="keywordflow">if</span> (mapOverride &amp;&amp; mapOverride-&gt;cellSizeVertical.has_value())</div>
+<div class="line"><span class="lineno">  153</span>            config.cellSizeVertical = *mapOverride-&gt;cellSizeVertical;</div>
+<div class="line"><span class="lineno">  154</span> </div>
+<div class="line"><span class="lineno">  155</span>        <span class="keywordflow">return</span> config;</div>
+<div class="line"><span class="lineno">  156</span>    }</div>
+<div class="ttc" id="aa05117_html_a45540263b1795bfc48c91a117c239a6c"><div class="ttname"><a href="../../dd/d15/a05117.html#a45540263b1795bfc48c91a117c239a6c">MMAP::MakeTileKey</a></div><div class="ttdeci">std::pair&lt; uint32, uint32 &gt; MakeTileKey(uint32 x, uint32 y)</div><div class="ttdef"><b>Definition:</b> Config.cpp:31</div></div>
+<div class="ttc" id="aa05117_html_ac84de12da6296e2f505870fda60891b1"><div class="ttname"><a href="../../dd/d15/a05117.html#ac84de12da6296e2f505870fda60891b1">MMAP::ComputeBaseUnitDim</a></div><div class="ttdeci">float ComputeBaseUnitDim(int vertexPerMapEdge)</div><div class="ttdef"><b>Definition:</b> Config.cpp:26</div></div>
+<div class="ttc" id="aa30341_html_a86d09da3b6ec6b938e4c6ba5caf90b92"><div class="ttname"><a href="../../dd/dc5/a30341.html#a86d09da3b6ec6b938e4c6ba5caf90b92">MMAP::Config::_global</a></div><div class="ttdeci">GlobalConfig _global</div><div class="ttdef"><b>Definition:</b> Config.h:148</div></div>
+<div class="ttc" id="aa30341_html_afd31b92dc677d3410816388010438141"><div class="ttname"><a href="../../dd/dc5/a30341.html#afd31b92dc677d3410816388010438141">MMAP::Config::_maps</a></div><div class="ttdeci">std::unordered_map&lt; uint32, MapOverride &gt; _maps</div><div class="ttdef"><b>Definition:</b> Config.h:149</div></div>
+<div class="ttc" id="aa30353_html_a010878a247d639234d2bb8571280aca6"><div class="ttname"><a href="../../d2/d18/a30353.html#a010878a247d639234d2bb8571280aca6">MMAP::Config::GlobalConfig::maxSimplificationError</a></div><div class="ttdeci">float maxSimplificationError</div><div class="ttdef"><b>Definition:</b> Config.h:145</div></div>
+<div class="ttc" id="aa30353_html_a42b9a553cb3cd5d9c39d4cb7f0f59486"><div class="ttname"><a href="../../d2/d18/a30353.html#a42b9a553cb3cd5d9c39d4cb7f0f59486">MMAP::Config::GlobalConfig::walkableHeight</a></div><div class="ttdeci">int walkableHeight</div><div class="ttdef"><b>Definition:</b> Config.h:127</div></div>
+<div class="ttc" id="aa30353_html_a43f00aacc5e1497c169d4ba908883140"><div class="ttname"><a href="../../d2/d18/a30353.html#a43f00aacc5e1497c169d4ba908883140">MMAP::Config::GlobalConfig::walkableRadius</a></div><div class="ttdeci">int walkableRadius</div><div class="ttdef"><b>Definition:</b> Config.h:123</div></div>
+<div class="ttc" id="aa30353_html_a5a801e68fac6d59c1a236aeaf374bc9e"><div class="ttname"><a href="../../d2/d18/a30353.html#a5a801e68fac6d59c1a236aeaf374bc9e">MMAP::Config::GlobalConfig::vertexPerTileEdge</a></div><div class="ttdeci">int vertexPerTileEdge</div><div class="ttdef"><b>Definition:</b> Config.h:141</div></div>
+<div class="ttc" id="aa30353_html_a9792dfe730bfc437797a359896a14528"><div class="ttname"><a href="../../d2/d18/a30353.html#a9792dfe730bfc437797a359896a14528">MMAP::Config::GlobalConfig::walkableSlopeAngle</a></div><div class="ttdeci">float walkableSlopeAngle</div><div class="ttdef"><b>Definition:</b> Config.h:119</div></div>
+<div class="ttc" id="aa30353_html_aa5f6c5daf51b6390b7146f9a8d6de7ec"><div class="ttname"><a href="../../d2/d18/a30353.html#aa5f6c5daf51b6390b7146f9a8d6de7ec">MMAP::Config::GlobalConfig::walkableClimb</a></div><div class="ttdeci">int walkableClimb</div><div class="ttdef"><b>Definition:</b> Config.h:131</div></div>
+<div class="ttc" id="aa30353_html_af620af11a09215f106fc6704c88fa411"><div class="ttname"><a href="../../d2/d18/a30353.html#af620af11a09215f106fc6704c88fa411">MMAP::Config::GlobalConfig::vertexPerMapEdge</a></div><div class="ttdeci">int vertexPerMapEdge</div><div class="ttdef"><b>Definition:</b> Config.h:135</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00148">_global</a>, <a class="el" href="../../#l00149">_maps</a>, <a class="el" href="../../#l00105">MMAP::Config::MapOverride::cellSizeHorizontal</a>, <a class="el" href="../../#l00111">MMAP::Config::MapOverride::cellSizeVertical</a>, <a class="el" href="../../#l00026">MMAP::ComputeBaseUnitDim()</a>, <a class="el" href="../../#l00031">MMAP::MakeTileKey()</a>, <a class="el" href="../../#l00145">MMAP::Config::GlobalConfig::maxSimplificationError</a>, <a class="el" href="../../#l00113">MMAP::Config::MapOverride::tileOverrides</a>, <a class="el" href="../../#l00135">MMAP::Config::GlobalConfig::vertexPerMapEdge</a>, <a class="el" href="../../#l00141">MMAP::Config::GlobalConfig::vertexPerTileEdge</a>, <a class="el" href="../../#l00090">MMAP::Config::TileOverride::walkableClimb</a>, <a class="el" href="../../#l00131">MMAP::Config::GlobalConfig::walkableClimb</a>, <a class="el" href="../../#l00089">MMAP::Config::TileOverride::walkableHeight</a>, <a class="el" href="../../#l00127">MMAP::Config::GlobalConfig::walkableHeight</a>, <a class="el" href="../../#l00088">MMAP::Config::TileOverride::walkableRadius</a>, <a class="el" href="../../#l00123">MMAP::Config::GlobalConfig::walkableRadius</a>, <a class="el" href="../../#l00045">MMAP::ResolvedMeshConfig::walkableSlopeAngle</a>, <a class="el" href="../../#l00087">MMAP::Config::TileOverride::walkableSlopeAngle</a>, and <a class="el" href="../../#l00119">MMAP::Config::GlobalConfig::walkableSlopeAngle</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00586">MMAP::TileBuilder::buildMoveMapTile()</a>, and <a class="el" href="../../#l01033">MMAP::TileBuilder::shouldSkipTile()</a>.</p>
 
 </div>
 </div>
-<a id="a6051f6dfb7e19cafb21cc1a1284f8a36" name="a6051f6dfb7e19cafb21cc1a1284f8a36"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6051f6dfb7e19cafb21cc1a1284f8a36">&#9670;&#160;</a></span>id</h2>
+<a id="ad0b9f57ffc1645608baaa9fd40781f87" name="ad0b9f57ffc1645608baaa9fd40781f87"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad0b9f57ffc1645608baaa9fd40781f87">&#9670;&#160;</a></span>IsDebugOutputEnabled()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">char ModelHeader::id[4]</td>
+          <td class="memname">bool MMAP::Config::IsDebugOutputEnabled </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   72</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dd/dc5/a30341.html#a0e8b13fa0248da75567c086132f211ad">_debugOutput</a>; }</div>
+<div class="ttc" id="aa30341_html_a0e8b13fa0248da75567c086132f211ad"><div class="ttname"><a href="../../dd/dc5/a30341.html#a0e8b13fa0248da75567c086132f211ad">MMAP::Config::_debugOutput</a></div><div class="ttdeci">bool _debugOutput</div><div class="ttdef"><b>Definition:</b> Config.h:155</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00155">_debugOutput</a>.</p>
 
 </div>
 </div>
-<a id="a1a241e5bc76b85fc2c4d1aabce338443" name="a1a241e5bc76b85fc2c4d1aabce338443"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1a241e5bc76b85fc2c4d1aabce338443">&#9670;&#160;</a></span>nameLength</h2>
+<a id="a0f3def21b18d71a4c78d082fc24e5c77" name="a0f3def21b18d71a4c78d082fc24e5c77"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0f3def21b18d71a4c78d082fc24e5c77">&#9670;&#160;</a></span>LoadConfig()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::nameLength</td>
+          <td class="memname">bool MMAP::Config::LoadConfig </td>
+          <td>(</td>
+          <td class="paramtype">std::string_view&#160;</td>
+          <td class="paramname"><em>configFile</em></td><td>)</td>
+          <td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  158</span>                                                     {</div>
+<div class="line"><span class="lineno">  159</span>        FILE* f = std::fopen(configFile.data(), <span class="stringliteral">&quot;r&quot;</span>);</div>
+<div class="line"><span class="lineno">  160</span>        <span class="keywordflow">if</span> (!f)</div>
+<div class="line"><span class="lineno">  161</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  162</span> </div>
+<div class="line"><span class="lineno">  163</span>        fkyaml::node root = fkyaml::node::deserialize(f);</div>
+<div class="line"><span class="lineno">  164</span>        std::fclose(f);</div>
+<div class="line"><span class="lineno">  165</span> </div>
+<div class="line"><span class="lineno">  166</span>        <span class="keywordflow">if</span> (!root.contains(<span class="stringliteral">&quot;mmapsConfig&quot;</span>))</div>
+<div class="line"><span class="lineno">  167</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  168</span> </div>
+<div class="line"><span class="lineno">  169</span>        fkyaml::node mmapsNode = root[<span class="stringliteral">&quot;mmapsConfig&quot;</span>];</div>
+<div class="line"><span class="lineno">  170</span> </div>
+<div class="line"><span class="lineno">  171</span>        <span class="keyword">auto</span> tryFloat = [](fkyaml::node <span class="keyword">const</span>&amp; n, <span class="keywordtype">char</span> <span class="keyword">const</span>* key, <span class="keywordtype">float</span>&amp; out)</div>
+<div class="line"><span class="lineno">  172</span>        {</div>
+<div class="line"><span class="lineno">  173</span>            <span class="keywordflow">if</span> (n.contains(key)) out = n[key].get_value&lt;float&gt;();</div>
+<div class="line"><span class="lineno">  174</span>        };</div>
+<div class="line"><span class="lineno">  175</span>        <span class="keyword">auto</span> tryInt = [](fkyaml::node <span class="keyword">const</span>&amp; n, <span class="keywordtype">char</span> <span class="keyword">const</span>* key, <span class="keywordtype">int</span>&amp; out)</div>
+<div class="line"><span class="lineno">  176</span>        {</div>
+<div class="line"><span class="lineno">  177</span>            <span class="keywordflow">if</span> (n.contains(key)) out = n[key].get_value&lt;int&gt;();</div>
+<div class="line"><span class="lineno">  178</span>        };</div>
+<div class="line"><span class="lineno">  179</span>        <span class="keyword">auto</span> tryBoolean = [](fkyaml::node <span class="keyword">const</span>&amp; n, <span class="keywordtype">char</span> <span class="keyword">const</span>* key, <span class="keywordtype">bool</span>&amp; out)</div>
+<div class="line"><span class="lineno">  180</span>        {</div>
+<div class="line"><span class="lineno">  181</span>            <span class="keywordflow">if</span> (n.contains(key)) out = n[key].get_value&lt;bool&gt;();</div>
+<div class="line"><span class="lineno">  182</span>        };</div>
+<div class="line"><span class="lineno">  183</span>        <span class="keyword">auto</span> tryString = [](fkyaml::node <span class="keyword">const</span>&amp; n, <span class="keywordtype">char</span> <span class="keyword">const</span>* key, std::string&amp; out)</div>
+<div class="line"><span class="lineno">  184</span>        {</div>
+<div class="line"><span class="lineno">  185</span>            <span class="keywordflow">if</span> (n.contains(key)) out = n[key].get_value&lt;std::string&gt;();</div>
+<div class="line"><span class="lineno">  186</span>        };</div>
+<div class="line"><span class="lineno">  187</span> </div>
+<div class="line"><span class="lineno">  188</span>        tryBoolean(mmapsNode, <span class="stringliteral">&quot;skipLiquid&quot;</span>, <a class="code hl_variable" href="../../dd/dc5/a30341.html#afcac72fd98752013061aaca541011d1c">_skipLiquid</a>);</div>
+<div class="line"><span class="lineno">  189</span>        tryBoolean(mmapsNode, <span class="stringliteral">&quot;skipContinents&quot;</span>, <a class="code hl_variable" href="../../dd/dc5/a30341.html#a3c5646fccb5fdc59340207d4deec7d1b">_skipContinents</a>);</div>
+<div class="line"><span class="lineno">  190</span>        tryBoolean(mmapsNode, <span class="stringliteral">&quot;skipJunkMaps&quot;</span>, <a class="code hl_variable" href="../../dd/dc5/a30341.html#ad2f941932465884d64cd27fce82eaa33">_skipJunkMaps</a>);</div>
+<div class="line"><span class="lineno">  191</span>        tryBoolean(mmapsNode, <span class="stringliteral">&quot;skipBattlegrounds&quot;</span>, <a class="code hl_variable" href="../../dd/dc5/a30341.html#a3ce8273432b0eb65c805adbbddb77d3d">_skipBattlegrounds</a>);</div>
+<div class="line"><span class="lineno">  192</span>        tryBoolean(mmapsNode, <span class="stringliteral">&quot;debugOutput&quot;</span>, <a class="code hl_variable" href="../../dd/dc5/a30341.html#a0e8b13fa0248da75567c086132f211ad">_debugOutput</a>);</div>
+<div class="line"><span class="lineno">  193</span> </div>
+<div class="line"><span class="lineno">  194</span>        <span class="keywordflow">if</span> (mmapsNode.contains(<span class="stringliteral">&quot;offmeshConnections&quot;</span>) &amp;&amp; mmapsNode[<span class="stringliteral">&quot;offmeshConnections&quot;</span>].is_sequence())</div>
+<div class="line"><span class="lineno">  195</span>        {</div>
+<div class="line"><span class="lineno">  196</span>            <a class="code hl_variable" href="../../dd/dc5/a30341.html#a9fcfcb466c608d6618d4f800cf6418a1">_offmeshConnections</a> = mmapsNode[<span class="stringliteral">&quot;offmeshConnections&quot;</span>].get_value&lt;std::vector&lt;std::string&gt;&gt;();</div>
+<div class="line"><span class="lineno">  197</span>        }</div>
+<div class="line"><span class="lineno">  198</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  199</span>        {</div>
+<div class="line"><span class="lineno">  200</span>            <a class="code hl_variable" href="../../dd/dc5/a30341.html#a9fcfcb466c608d6618d4f800cf6418a1">_offmeshConnections</a>.clear();</div>
+<div class="line"><span class="lineno">  201</span>        }</div>
+<div class="line"><span class="lineno">  202</span> </div>
+<div class="line"><span class="lineno">  203</span>        std::string dataDirPath;</div>
+<div class="line"><span class="lineno">  204</span>        tryString(mmapsNode, <span class="stringliteral">&quot;dataDir&quot;</span>, dataDirPath);</div>
+<div class="line"><span class="lineno">  205</span>        <a class="code hl_variable" href="../../dd/dc5/a30341.html#a33a4ab30ac8424499f7b11cffcd4740b">_dataDir</a> = dataDirPath;</div>
+<div class="line"><span class="lineno">  206</span> </div>
+<div class="line"><span class="lineno">  207</span>        mmapsNode = mmapsNode[<span class="stringliteral">&quot;meshSettings&quot;</span>];</div>
+<div class="line"><span class="lineno">  208</span> </div>
+<div class="line"><span class="lineno">  209</span>        <span class="comment">// Global config</span></div>
+<div class="line"><span class="lineno">  210</span>        tryFloat(mmapsNode, <span class="stringliteral">&quot;walkableSlopeAngle&quot;</span>, <a class="code hl_variable" href="../../dd/dc5/a30341.html#a86d09da3b6ec6b938e4c6ba5caf90b92">_global</a>.<a class="code hl_variable" href="../../d2/d18/a30353.html#a9792dfe730bfc437797a359896a14528">walkableSlopeAngle</a>);</div>
+<div class="line"><span class="lineno">  211</span>        tryInt(mmapsNode, <span class="stringliteral">&quot;walkableHeight&quot;</span>, <a class="code hl_variable" href="../../dd/dc5/a30341.html#a86d09da3b6ec6b938e4c6ba5caf90b92">_global</a>.<a class="code hl_variable" href="../../d2/d18/a30353.html#a42b9a553cb3cd5d9c39d4cb7f0f59486">walkableHeight</a>);</div>
+<div class="line"><span class="lineno">  212</span>        tryInt(mmapsNode, <span class="stringliteral">&quot;walkableClimb&quot;</span>, <a class="code hl_variable" href="../../dd/dc5/a30341.html#a86d09da3b6ec6b938e4c6ba5caf90b92">_global</a>.<a class="code hl_variable" href="../../d2/d18/a30353.html#aa5f6c5daf51b6390b7146f9a8d6de7ec">walkableClimb</a>);</div>
+<div class="line"><span class="lineno">  213</span>        tryInt(mmapsNode, <span class="stringliteral">&quot;walkableRadius&quot;</span>, <a class="code hl_variable" href="../../dd/dc5/a30341.html#a86d09da3b6ec6b938e4c6ba5caf90b92">_global</a>.<a class="code hl_variable" href="../../d2/d18/a30353.html#a43f00aacc5e1497c169d4ba908883140">walkableRadius</a>);</div>
+<div class="line"><span class="lineno">  214</span>        tryInt(mmapsNode, <span class="stringliteral">&quot;verticesPerMapEdge&quot;</span>, <a class="code hl_variable" href="../../dd/dc5/a30341.html#a86d09da3b6ec6b938e4c6ba5caf90b92">_global</a>.<a class="code hl_variable" href="../../d2/d18/a30353.html#af620af11a09215f106fc6704c88fa411">vertexPerMapEdge</a>);</div>
+<div class="line"><span class="lineno">  215</span>        tryInt(mmapsNode, <span class="stringliteral">&quot;verticesPerTileEdge&quot;</span>, <a class="code hl_variable" href="../../dd/dc5/a30341.html#a86d09da3b6ec6b938e4c6ba5caf90b92">_global</a>.<a class="code hl_variable" href="../../d2/d18/a30353.html#a5a801e68fac6d59c1a236aeaf374bc9e">vertexPerTileEdge</a>);</div>
+<div class="line"><span class="lineno">  216</span>        tryFloat(mmapsNode, <span class="stringliteral">&quot;maxSimplificationError&quot;</span>, <a class="code hl_variable" href="../../dd/dc5/a30341.html#a86d09da3b6ec6b938e4c6ba5caf90b92">_global</a>.<a class="code hl_variable" href="../../d2/d18/a30353.html#a010878a247d639234d2bb8571280aca6">maxSimplificationError</a>);</div>
+<div class="line"><span class="lineno">  217</span> </div>
+<div class="line"><span class="lineno">  218</span>        <span class="comment">// Map overrides</span></div>
+<div class="line"><span class="lineno">  219</span>        <span class="keywordflow">if</span> (mmapsNode.contains(<span class="stringliteral">&quot;mapsOverrides&quot;</span>))</div>
+<div class="line"><span class="lineno">  220</span>        {</div>
+<div class="line"><span class="lineno">  221</span>            fkyaml::node maps = mmapsNode[<span class="stringliteral">&quot;mapsOverrides&quot;</span>];</div>
+<div class="line"><span class="lineno">  222</span>            <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; mapEntry : maps.as_map())</div>
+<div class="line"><span class="lineno">  223</span>            {</div>
+<div class="line"><span class="lineno">  224</span>                <a class="code hl_typedef" href="../../d8/dca/a04670.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> mapId = std::stoi(mapEntry.first.as_str());</div>
+<div class="line"><span class="lineno">  225</span> </div>
+<div class="line"><span class="lineno">  226</span>                MapOverride <span class="keyword">override</span>;</div>
+<div class="line"><span class="lineno">  227</span>                fkyaml::node mapNode = mapEntry.second;</div>
+<div class="line"><span class="lineno">  228</span> </div>
+<div class="line"><span class="lineno">  229</span>                <span class="keywordflow">if</span> (mapNode.contains(<span class="stringliteral">&quot;walkableSlopeAngle&quot;</span>))</div>
+<div class="line"><span class="lineno">  230</span>                    <span class="keyword">override</span>.walkableSlopeAngle = mapNode[<span class="stringliteral">&quot;walkableSlopeAngle&quot;</span>].get_value&lt;<span class="keywordtype">float</span>&gt;();</div>
+<div class="line"><span class="lineno">  231</span>                <span class="keywordflow">if</span> (mapNode.contains(<span class="stringliteral">&quot;walkableRadius&quot;</span>))</div>
+<div class="line"><span class="lineno">  232</span>                    <span class="keyword">override</span>.walkableRadius = mapNode[<span class="stringliteral">&quot;walkableRadius&quot;</span>].get_value&lt;int&gt;();</div>
+<div class="line"><span class="lineno">  233</span>                <span class="keywordflow">if</span> (mapNode.contains(<span class="stringliteral">&quot;walkableHeight&quot;</span>))</div>
+<div class="line"><span class="lineno">  234</span>                    <span class="keyword">override</span>.walkableHeight = mapNode[<span class="stringliteral">&quot;walkableHeight&quot;</span>].get_value&lt;int&gt;();</div>
+<div class="line"><span class="lineno">  235</span>                <span class="keywordflow">if</span> (mapNode.contains(<span class="stringliteral">&quot;walkableClimb&quot;</span>))</div>
+<div class="line"><span class="lineno">  236</span>                    <span class="keyword">override</span>.walkableClimb = mapNode[<span class="stringliteral">&quot;walkableClimb&quot;</span>].get_value&lt;int&gt;();</div>
+<div class="line"><span class="lineno">  237</span>                <span class="keywordflow">if</span> (mapNode.contains(<span class="stringliteral">&quot;verticesPerMapEdge&quot;</span>))</div>
+<div class="line"><span class="lineno">  238</span>                    <span class="keyword">override</span>.vertexPerMapEdge = mapNode[<span class="stringliteral">&quot;verticesPerMapEdge&quot;</span>].get_value&lt;int&gt;();</div>
+<div class="line"><span class="lineno">  239</span>                <span class="keywordflow">if</span> (mapNode.contains(<span class="stringliteral">&quot;verticesPerTileEdge&quot;</span>))</div>
+<div class="line"><span class="lineno">  240</span>                    <span class="keyword">override</span>.vertexPerTileEdge = mapNode[<span class="stringliteral">&quot;verticesPerTileEdge&quot;</span>].get_value&lt;int&gt;();</div>
+<div class="line"><span class="lineno">  241</span>                <span class="keywordflow">if</span> (mapNode.contains(<span class="stringliteral">&quot;cellSizeHorizontal&quot;</span>))</div>
+<div class="line"><span class="lineno">  242</span>                    <span class="keyword">override</span>.cellSizeHorizontal = mapNode[<span class="stringliteral">&quot;cellSizeHorizontal&quot;</span>].get_value&lt;float&gt;();</div>
+<div class="line"><span class="lineno">  243</span>                <span class="keywordflow">if</span> (mapNode.contains(<span class="stringliteral">&quot;cellSizeVertical&quot;</span>))</div>
+<div class="line"><span class="lineno">  244</span>                    <span class="keyword">override</span>.cellSizeVertical = mapNode[<span class="stringliteral">&quot;cellSizeVertical&quot;</span>].get_value&lt;float&gt;();</div>
+<div class="line"><span class="lineno">  245</span> </div>
+<div class="line"><span class="lineno">  246</span>                <span class="comment">// Tile overrides</span></div>
+<div class="line"><span class="lineno">  247</span>                <span class="keywordflow">if</span> (mapNode.contains(<span class="stringliteral">&quot;tilesOverrides&quot;</span>))</div>
+<div class="line"><span class="lineno">  248</span>                {</div>
+<div class="line"><span class="lineno">  249</span>                    fkyaml::node tiles = mapNode[<span class="stringliteral">&quot;tilesOverrides&quot;</span>];</div>
+<div class="line"><span class="lineno">  250</span>                    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; tileEntry : tiles.as_map())</div>
+<div class="line"><span class="lineno">  251</span>                    {</div>
+<div class="line"><span class="lineno">  252</span>                        std::string key = tileEntry.first.as_str();</div>
+<div class="line"><span class="lineno">  253</span>                        fkyaml::node tileNode = tileEntry.second;</div>
+<div class="line"><span class="lineno">  254</span> </div>
+<div class="line"><span class="lineno">  255</span>                        <span class="keywordtype">size_t</span> comma = key.find(<span class="charliteral">&#39;,&#39;</span>);</div>
+<div class="line"><span class="lineno">  256</span>                        <span class="keywordflow">if</span> (comma == std::string::npos)</div>
+<div class="line"><span class="lineno">  257</span>                            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  258</span> </div>
+<div class="line"><span class="lineno">  259</span>                        <a class="code hl_typedef" href="../../d8/dca/a04670.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> tileX = <span class="keyword">static_cast&lt;</span><a class="code hl_typedef" href="../../d8/dca/a04670.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a><span class="keyword">&gt;</span>(std::stoi(key.substr(0, comma)));</div>
+<div class="line"><span class="lineno">  260</span>                        <a class="code hl_typedef" href="../../d8/dca/a04670.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> tileY = <span class="keyword">static_cast&lt;</span><a class="code hl_typedef" href="../../d8/dca/a04670.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a><span class="keyword">&gt;</span>(std::stoi(key.substr(comma + 1)));</div>
+<div class="line"><span class="lineno">  261</span> </div>
+<div class="line"><span class="lineno">  262</span>                        TileOverride tileOverride;</div>
+<div class="line"><span class="lineno">  263</span>                        <span class="keywordflow">if</span> (tileNode.contains(<span class="stringliteral">&quot;walkableSlopeAngle&quot;</span>))</div>
+<div class="line"><span class="lineno">  264</span>                            tileOverride.walkableSlopeAngle = tileNode[<span class="stringliteral">&quot;walkableSlopeAngle&quot;</span>].get_value&lt;<span class="keywordtype">float</span>&gt;();</div>
+<div class="line"><span class="lineno">  265</span>                        <span class="keywordflow">if</span> (tileNode.contains(<span class="stringliteral">&quot;walkableRadius&quot;</span>))</div>
+<div class="line"><span class="lineno">  266</span>                            tileOverride.walkableRadius = tileNode[<span class="stringliteral">&quot;walkableRadius&quot;</span>].get_value&lt;<span class="keywordtype">int</span>&gt;();</div>
+<div class="line"><span class="lineno">  267</span>                        <span class="keywordflow">if</span> (tileNode.contains(<span class="stringliteral">&quot;walkableHeight&quot;</span>))</div>
+<div class="line"><span class="lineno">  268</span>                            tileOverride.walkableHeight = tileNode[<span class="stringliteral">&quot;walkableHeight&quot;</span>].get_value&lt;<span class="keywordtype">int</span>&gt;();</div>
+<div class="line"><span class="lineno">  269</span>                        <span class="keywordflow">if</span> (tileNode.contains(<span class="stringliteral">&quot;walkableClimb&quot;</span>))</div>
+<div class="line"><span class="lineno">  270</span>                            tileOverride.walkableClimb = tileNode[<span class="stringliteral">&quot;walkableClimb&quot;</span>].get_value&lt;<span class="keywordtype">int</span>&gt;();</div>
+<div class="line"><span class="lineno">  271</span> </div>
+<div class="line"><span class="lineno">  272</span>                        <span class="keyword">override</span>.tileOverrides[{tileX, tileY}] = std::move(tileOverride);</div>
+<div class="line"><span class="lineno">  273</span>                    }</div>
+<div class="line"><span class="lineno">  274</span>                }</div>
+<div class="line"><span class="lineno">  275</span> </div>
+<div class="line"><span class="lineno">  276</span>                <a class="code hl_variable" href="../../dd/dc5/a30341.html#afd31b92dc677d3410816388010438141">_maps</a>[mapId] = std::move(<span class="keyword">override</span>);</div>
+<div class="line"><span class="lineno">  277</span>            }</div>
+<div class="line"><span class="lineno">  278</span>        }</div>
+<div class="line"><span class="lineno">  279</span> </div>
+<div class="line"><span class="lineno">  280</span>        <span class="comment">// Resolve data dir path. Maybe we need to use an executable path instead of the current dir.</span></div>
+<div class="line"><span class="lineno">  281</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../dd/d15/a05117.html#ad9121353c9023aea25c21180346e97ad">isCurrentDirectory</a>(<a class="code hl_variable" href="../../dd/dc5/a30341.html#a33a4ab30ac8424499f7b11cffcd4740b">_dataDir</a>.string()) &amp;&amp; !std::filesystem::exists(<a class="code hl_function" href="../../dd/dc5/a30341.html#a1d0f34239a4770006e4f53d0f28ba8ed">MapsPath</a>()))</div>
+<div class="line"><span class="lineno">  282</span>            <span class="keywordflow">if</span> (<span class="keyword">auto</span> execPath = std::filesystem::path(<a class="code hl_function" href="../../dd/d15/a05117.html#acc9fa8dfc5903454eab1eb410866b694">executableDirectoryPath</a>()); std::filesystem::exists(execPath/ <span class="stringliteral">&quot;maps&quot;</span>))</div>
+<div class="line"><span class="lineno">  283</span>                <a class="code hl_variable" href="../../dd/dc5/a30341.html#a33a4ab30ac8424499f7b11cffcd4740b">_dataDir</a> = execPath;</div>
+<div class="line"><span class="lineno">  284</span> </div>
+<div class="line"><span class="lineno">  285</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  286</span>    }</div>
+<div class="ttc" id="aa04670_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d8/dca/a04670.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa05117_html_acc9fa8dfc5903454eab1eb410866b694"><div class="ttname"><a href="../../dd/d15/a05117.html#acc9fa8dfc5903454eab1eb410866b694">MMAP::executableDirectoryPath</a></div><div class="ttdeci">std::string executableDirectoryPath()</div><div class="ttdef"><b>Definition:</b> PathCommon.h:39</div></div>
+<div class="ttc" id="aa05117_html_ad9121353c9023aea25c21180346e97ad"><div class="ttname"><a href="../../dd/d15/a05117.html#ad9121353c9023aea25c21180346e97ad">MMAP::isCurrentDirectory</a></div><div class="ttdeci">bool isCurrentDirectory(std::string const &amp;pathStr)</div><div class="ttdef"><b>Definition:</b> Config.cpp:36</div></div>
+<div class="ttc" id="aa30341_html_a1d0f34239a4770006e4f53d0f28ba8ed"><div class="ttname"><a href="../../dd/dc5/a30341.html#a1d0f34239a4770006e4f53d0f28ba8ed">MMAP::Config::MapsPath</a></div><div class="ttdeci">std::string MapsPath() const</div><div class="ttdef"><b>Definition:</b> Config.h:75</div></div>
+<div class="ttc" id="aa30341_html_a3c5646fccb5fdc59340207d4deec7d1b"><div class="ttname"><a href="../../dd/dc5/a30341.html#a3c5646fccb5fdc59340207d4deec7d1b">MMAP::Config::_skipContinents</a></div><div class="ttdeci">bool _skipContinents</div><div class="ttdef"><b>Definition:</b> Config.h:152</div></div>
+<div class="ttc" id="aa30341_html_a3ce8273432b0eb65c805adbbddb77d3d"><div class="ttname"><a href="../../dd/dc5/a30341.html#a3ce8273432b0eb65c805adbbddb77d3d">MMAP::Config::_skipBattlegrounds</a></div><div class="ttdeci">bool _skipBattlegrounds</div><div class="ttdef"><b>Definition:</b> Config.h:154</div></div>
+<div class="ttc" id="aa30341_html_a9fcfcb466c608d6618d4f800cf6418a1"><div class="ttname"><a href="../../dd/dc5/a30341.html#a9fcfcb466c608d6618d4f800cf6418a1">MMAP::Config::_offmeshConnections</a></div><div class="ttdeci">std::vector&lt; std::string &gt; _offmeshConnections</div><div class="ttdef"><b>Definition:</b> Config.h:159</div></div>
+<div class="ttc" id="aa30341_html_ad2f941932465884d64cd27fce82eaa33"><div class="ttname"><a href="../../dd/dc5/a30341.html#ad2f941932465884d64cd27fce82eaa33">MMAP::Config::_skipJunkMaps</a></div><div class="ttdeci">bool _skipJunkMaps</div><div class="ttdef"><b>Definition:</b> Config.h:153</div></div>
+<div class="ttc" id="aa30341_html_afcac72fd98752013061aaca541011d1c"><div class="ttname"><a href="../../dd/dc5/a30341.html#afcac72fd98752013061aaca541011d1c">MMAP::Config::_skipLiquid</a></div><div class="ttdeci">bool _skipLiquid</div><div class="ttdef"><b>Definition:</b> Config.h:151</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00157">_dataDir</a>, <a class="el" href="../../#l00155">_debugOutput</a>, <a class="el" href="../../#l00148">_global</a>, <a class="el" href="../../#l00149">_maps</a>, <a class="el" href="../../#l00159">_offmeshConnections</a>, <a class="el" href="../../#l00154">_skipBattlegrounds</a>, <a class="el" href="../../#l00152">_skipContinents</a>, <a class="el" href="../../#l00153">_skipJunkMaps</a>, <a class="el" href="../../#l00151">_skipLiquid</a>, <a class="el" href="../../#l00039">MMAP::executableDirectoryPath()</a>, <a class="el" href="../../#l00036">MMAP::isCurrentDirectory()</a>, <a class="el" href="../../#l00075">MapsPath()</a>, <a class="el" href="../../#l00145">MMAP::Config::GlobalConfig::maxSimplificationError</a>, <a class="el" href="../../#l00135">MMAP::Config::GlobalConfig::vertexPerMapEdge</a>, <a class="el" href="../../#l00141">MMAP::Config::GlobalConfig::vertexPerTileEdge</a>, <a class="el" href="../../#l00090">MMAP::Config::TileOverride::walkableClimb</a>, <a class="el" href="../../#l00131">MMAP::Config::GlobalConfig::walkableClimb</a>, <a class="el" href="../../#l00089">MMAP::Config::TileOverride::walkableHeight</a>, <a class="el" href="../../#l00127">MMAP::Config::GlobalConfig::walkableHeight</a>, <a class="el" href="../../#l00088">MMAP::Config::TileOverride::walkableRadius</a>, <a class="el" href="../../#l00123">MMAP::Config::GlobalConfig::walkableRadius</a>, <a class="el" href="../../#l00087">MMAP::Config::TileOverride::walkableSlopeAngle</a>, <a class="el" href="../../#l00094">MMAP::Config::MapOverride::walkableSlopeAngle</a>, and <a class="el" href="../../#l00119">MMAP::Config::GlobalConfig::walkableSlopeAngle</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00063">FromFile()</a>.</p>
 
 </div>
 </div>
-<a id="a42eebea27c60ec0ba32963a86e78a8e6" name="a42eebea27c60ec0ba32963a86e78a8e6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a42eebea27c60ec0ba32963a86e78a8e6">&#9670;&#160;</a></span>nameOfs</h2>
+<a id="a1d0f34239a4770006e4f53d0f28ba8ed" name="a1d0f34239a4770006e4f53d0f28ba8ed"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1d0f34239a4770006e4f53d0f28ba8ed">&#9670;&#160;</a></span>MapsPath()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::nameOfs</td>
+          <td class="memname">std::string MMAP::Config::MapsPath </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   75</span>{ <span class="keywordflow">return</span> (<a class="code hl_variable" href="../../dd/dc5/a30341.html#a33a4ab30ac8424499f7b11cffcd4740b">_dataDir</a> / <span class="stringliteral">&quot;maps&quot;</span>).string(); }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00157">_dataDir</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00096">MMAP::MapBuilder::discoverTiles()</a>, and <a class="el" href="../../#l00158">LoadConfig()</a>.</p>
 
 </div>
 </div>
-<a id="ab1539ff81b1b91ae400dbb5ca0630646" name="ab1539ff81b1b91ae400dbb5ca0630646"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab1539ff81b1b91ae400dbb5ca0630646">&#9670;&#160;</a></span>nAnimationLookup</h2>
+<a id="a4c4885b899f29f8b7fdeaccbbf3c5c54" name="a4c4885b899f29f8b7fdeaccbbf3c5c54"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4c4885b899f29f8b7fdeaccbbf3c5c54">&#9670;&#160;</a></span>MMapsPath()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::nAnimationLookup</td>
+          <td class="memname">std::string MMAP::Config::MMapsPath </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   76</span>{ <span class="keywordflow">return</span> (<a class="code hl_variable" href="../../dd/dc5/a30341.html#a33a4ab30ac8424499f7b11cffcd4740b">_dataDir</a> / <span class="stringliteral">&quot;mmaps&quot;</span>).string(); }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00157">_dataDir</a>.</p>
 
 </div>
 </div>
-<a id="aa17175c0ee959ee686f520d9c705b5a9" name="aa17175c0ee959ee686f520d9c705b5a9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa17175c0ee959ee686f520d9c705b5a9">&#9670;&#160;</a></span>nAnimations</h2>
+<a id="a2787e889be0b5647aa7e29ad3e3e8ecc" name="a2787e889be0b5647aa7e29ad3e3e8ecc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2787e889be0b5647aa7e29ad3e3e8ecc">&#9670;&#160;</a></span>OffMeshConnections()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::nAnimations</td>
+          <td class="memname">std::vector&lt; std::string &gt; const  &amp; MMAP::Config::OffMeshConnections </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   79</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dd/dc5/a30341.html#a9fcfcb466c608d6618d4f800cf6418a1">_offmeshConnections</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00159">_offmeshConnections</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00456">MMAP::TileBuilder::buildTile()</a>.</p>
 
 </div>
 </div>
-<a id="a9667df8b9e2f67702fa1121991fae31a" name="a9667df8b9e2f67702fa1121991fae31a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9667df8b9e2f67702fa1121991fae31a">&#9670;&#160;</a></span>nAttachLookup</h2>
+<a id="ad1fa8cde32799df8cb2823c6519372a5" name="ad1fa8cde32799df8cb2823c6519372a5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad1fa8cde32799df8cb2823c6519372a5">&#9670;&#160;</a></span>ShouldSkipBattlegrounds()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::nAttachLookup</td>
+          <td class="memname">bool MMAP::Config::ShouldSkipBattlegrounds </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   71</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dd/dc5/a30341.html#a3ce8273432b0eb65c805adbbddb77d3d">_skipBattlegrounds</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00154">_skipBattlegrounds</a>.</p>
 
 </div>
 </div>
-<a id="a1655b7fea9d25359f6f563118e737f1e" name="a1655b7fea9d25359f6f563118e737f1e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1655b7fea9d25359f6f563118e737f1e">&#9670;&#160;</a></span>nAttachments</h2>
+<a id="aa977fc8babd09e07533870b4588d9778" name="aa977fc8babd09e07533870b4588d9778"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa977fc8babd09e07533870b4588d9778">&#9670;&#160;</a></span>ShouldSkipContinents()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::nAttachments</td>
+          <td class="memname">bool MMAP::Config::ShouldSkipContinents </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   69</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dd/dc5/a30341.html#a3c5646fccb5fdc59340207d4deec7d1b">_skipContinents</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00152">_skipContinents</a>.</p>
 
 </div>
 </div>
-<a id="ac1df2d7ce113d69d4f8c76132e285bb6" name="ac1df2d7ce113d69d4f8c76132e285bb6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac1df2d7ce113d69d4f8c76132e285bb6">&#9670;&#160;</a></span>nAttachments_2</h2>
+<a id="ab417d85aec5a3320a54498320752161f" name="ab417d85aec5a3320a54498320752161f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab417d85aec5a3320a54498320752161f">&#9670;&#160;</a></span>ShouldSkipJunkMaps()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::nAttachments_2</td>
+          <td class="memname">bool MMAP::Config::ShouldSkipJunkMaps </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   70</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dd/dc5/a30341.html#ad2f941932465884d64cd27fce82eaa33">_skipJunkMaps</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00153">_skipJunkMaps</a>.</p>
 
 </div>
 </div>
-<a id="a565315f5c14ed18958031ef6f77f768d" name="a565315f5c14ed18958031ef6f77f768d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a565315f5c14ed18958031ef6f77f768d">&#9670;&#160;</a></span>nBoneLookupTable</h2>
+<a id="aebd66300e216ef00648901e06f5642f3" name="aebd66300e216ef00648901e06f5642f3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aebd66300e216ef00648901e06f5642f3">&#9670;&#160;</a></span>ShouldSkipLiquid()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::nBoneLookupTable</td>
+          <td class="memname">bool MMAP::Config::ShouldSkipLiquid </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   68</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dd/dc5/a30341.html#afcac72fd98752013061aaca541011d1c">_skipLiquid</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00151">_skipLiquid</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00058">MMAP::MapBuilder::MapBuilder()</a>.</p>
 
 </div>
 </div>
-<a id="a469895fdb90910dd0ad26782c9820bb0" name="a469895fdb90910dd0ad26782c9820bb0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a469895fdb90910dd0ad26782c9820bb0">&#9670;&#160;</a></span>nBones</h2>
+<a id="a2339aca745ebdad517f79a89f29d1cf9" name="a2339aca745ebdad517f79a89f29d1cf9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2339aca745ebdad517f79a89f29d1cf9">&#9670;&#160;</a></span>VMapsPath()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::nBones</td>
+          <td class="memname">std::string MMAP::Config::VMapsPath </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   74</span>{ <span class="keywordflow">return</span> (<a class="code hl_variable" href="../../dd/dc5/a30341.html#a33a4ab30ac8424499f7b11cffcd4740b">_dataDir</a> / <span class="stringliteral">&quot;vmaps&quot;</span>).string(); }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00157">_dataDir</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00096">MMAP::MapBuilder::discoverTiles()</a>.</p>
 
 </div>
 </div>
-<a id="a19f93002ea70b0924ed3003bf93674e6" name="a19f93002ea70b0924ed3003bf93674e6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a19f93002ea70b0924ed3003bf93674e6">&#9670;&#160;</a></span>nBoundingNormals</h2>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="a33a4ab30ac8424499f7b11cffcd4740b" name="a33a4ab30ac8424499f7b11cffcd4740b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a33a4ab30ac8424499f7b11cffcd4740b">&#9670;&#160;</a></span>_dataDir</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::nBoundingNormals</td>
+          <td class="memname">std::filesystem::path MMAP::Config::_dataDir</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00077">DataDirPath()</a>, <a class="el" href="../../#l00158">LoadConfig()</a>, <a class="el" href="../../#l00075">MapsPath()</a>, <a class="el" href="../../#l00076">MMapsPath()</a>, and <a class="el" href="../../#l00074">VMapsPath()</a>.</p>
 
 </div>
 </div>
-<a id="a534b1311e9b45f63435762bbcf720fe4" name="a534b1311e9b45f63435762bbcf720fe4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a534b1311e9b45f63435762bbcf720fe4">&#9670;&#160;</a></span>nBoundingTriangles</h2>
+<a id="a0e8b13fa0248da75567c086132f211ad" name="a0e8b13fa0248da75567c086132f211ad"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0e8b13fa0248da75567c086132f211ad">&#9670;&#160;</a></span>_debugOutput</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::nBoundingTriangles</td>
+          <td class="memname">bool MMAP::Config::_debugOutput</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00070">Model::ConvertToVMAPModel()</a>, and <a class="el" href="../../#l00032">Model::open()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00072">IsDebugOutputEnabled()</a>, and <a class="el" href="../../#l00158">LoadConfig()</a>.</p>
 
 </div>
 </div>
-<a id="a41753e7b46dd3129e35841dea900f133" name="a41753e7b46dd3129e35841dea900f133"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a41753e7b46dd3129e35841dea900f133">&#9670;&#160;</a></span>nBoundingVertices</h2>
+<a id="a86d09da3b6ec6b938e4c6ba5caf90b92" name="a86d09da3b6ec6b938e4c6ba5caf90b92"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a86d09da3b6ec6b938e4c6ba5caf90b92">&#9670;&#160;</a></span>_global</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::nBoundingVertices</td>
+          <td class="memname"><a class="el" href="../../d2/d18/a30353.html">GlobalConfig</a> MMAP::Config::_global</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00070">Model::ConvertToVMAPModel()</a>, and <a class="el" href="../../#l00032">Model::open()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00075">GetConfigForTile()</a>, and <a class="el" href="../../#l00158">LoadConfig()</a>.</p>
 
 </div>
 </div>
-<a id="a5ec7ae3955269a79d2a5893f0af46563" name="a5ec7ae3955269a79d2a5893f0af46563"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5ec7ae3955269a79d2a5893f0af46563">&#9670;&#160;</a></span>nCameraLookup</h2>
+<a id="afd31b92dc677d3410816388010438141" name="afd31b92dc677d3410816388010438141"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afd31b92dc677d3410816388010438141">&#9670;&#160;</a></span>_maps</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::nCameraLookup</td>
+          <td class="memname">std::unordered_map&lt;<a class="el" href="../../d8/dca/a04670.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../da/dee/a30349.html">MapOverride</a>&gt; MMAP::Config::_maps</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00075">GetConfigForTile()</a>, and <a class="el" href="../../#l00158">LoadConfig()</a>.</p>
 
 </div>
 </div>
-<a id="a50ff7a861f108f4c70ccfe64f12a2ad4" name="a50ff7a861f108f4c70ccfe64f12a2ad4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a50ff7a861f108f4c70ccfe64f12a2ad4">&#9670;&#160;</a></span>nCameras</h2>
+<a id="a9fcfcb466c608d6618d4f800cf6418a1" name="a9fcfcb466c608d6618d4f800cf6418a1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9fcfcb466c608d6618d4f800cf6418a1">&#9670;&#160;</a></span>_offmeshConnections</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::nCameras</td>
+          <td class="memname">std::vector&lt;std::string&gt; MMAP::Config::_offmeshConnections</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00158">LoadConfig()</a>, and <a class="el" href="../../#l00079">OffMeshConnections()</a>.</p>
 
 </div>
 </div>
-<a id="a7e0fc7a04de53f4c5a7d3dddbb529a8e" name="a7e0fc7a04de53f4c5a7d3dddbb529a8e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7e0fc7a04de53f4c5a7d3dddbb529a8e">&#9670;&#160;</a></span>nColors</h2>
+<a id="a3ce8273432b0eb65c805adbbddb77d3d" name="a3ce8273432b0eb65c805adbbddb77d3d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3ce8273432b0eb65c805adbbddb77d3d">&#9670;&#160;</a></span>_skipBattlegrounds</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::nColors</td>
+          <td class="memname">bool MMAP::Config::_skipBattlegrounds</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00158">LoadConfig()</a>, and <a class="el" href="../../#l00071">ShouldSkipBattlegrounds()</a>.</p>
 
 </div>
 </div>
-<a id="ac73b599d0e7b6a2bfddda1f98a8e9893" name="ac73b599d0e7b6a2bfddda1f98a8e9893"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac73b599d0e7b6a2bfddda1f98a8e9893">&#9670;&#160;</a></span>nGlobalSequences</h2>
+<a id="a3c5646fccb5fdc59340207d4deec7d1b" name="a3c5646fccb5fdc59340207d4deec7d1b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3c5646fccb5fdc59340207d4deec7d1b">&#9670;&#160;</a></span>_skipContinents</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::nGlobalSequences</td>
+          <td class="memname">bool MMAP::Config::_skipContinents</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00158">LoadConfig()</a>, and <a class="el" href="../../#l00069">ShouldSkipContinents()</a>.</p>
 
 </div>
 </div>
-<a id="adfca4d604b62b6abd56084b59fb798bc" name="adfca4d604b62b6abd56084b59fb798bc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#adfca4d604b62b6abd56084b59fb798bc">&#9670;&#160;</a></span>nKeyBoneLookup</h2>
+<a id="ad2f941932465884d64cd27fce82eaa33" name="ad2f941932465884d64cd27fce82eaa33"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad2f941932465884d64cd27fce82eaa33">&#9670;&#160;</a></span>_skipJunkMaps</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::nKeyBoneLookup</td>
+          <td class="memname">bool MMAP::Config::_skipJunkMaps</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00158">LoadConfig()</a>, and <a class="el" href="../../#l00070">ShouldSkipJunkMaps()</a>.</p>
 
 </div>
 </div>
-<a id="a431a64a1db950d16135225f93f86988b" name="a431a64a1db950d16135225f93f86988b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a431a64a1db950d16135225f93f86988b">&#9670;&#160;</a></span>nLights</h2>
+<a id="afcac72fd98752013061aaca541011d1c" name="afcac72fd98752013061aaca541011d1c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afcac72fd98752013061aaca541011d1c">&#9670;&#160;</a></span>_skipLiquid</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::nLights</td>
+          <td class="memname">bool MMAP::Config::_skipLiquid</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-</div>
-</div>
-<a id="ae41008e814f9e92f6b2a2eee286d47f7" name="ae41008e814f9e92f6b2a2eee286d47f7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae41008e814f9e92f6b2a2eee286d47f7">&#9670;&#160;</a></span>nParticleEmitters</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::nParticleEmitters</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a33235bfc26175f4501be9aeb15108e90" name="a33235bfc26175f4501be9aeb15108e90"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a33235bfc26175f4501be9aeb15108e90">&#9670;&#160;</a></span>nRenderFlags</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::nRenderFlags</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a397348cf8eafacf35ff5f84cbfce1b34" name="a397348cf8eafacf35ff5f84cbfce1b34"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a397348cf8eafacf35ff5f84cbfce1b34">&#9670;&#160;</a></span>nRibbonEmitters</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::nRibbonEmitters</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a8908876de58a5735a497ea5fe4c47cfe" name="a8908876de58a5735a497ea5fe4c47cfe"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8908876de58a5735a497ea5fe4c47cfe">&#9670;&#160;</a></span>nTexAnimLookup</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::nTexAnimLookup</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a6a4bfebf4f1915eee27a93ecec8c62ed" name="a6a4bfebf4f1915eee27a93ecec8c62ed"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6a4bfebf4f1915eee27a93ecec8c62ed">&#9670;&#160;</a></span>nTexLookup</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::nTexLookup</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ae3bcc993df35087a506632cef8c66ded" name="ae3bcc993df35087a506632cef8c66ded"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae3bcc993df35087a506632cef8c66ded">&#9670;&#160;</a></span>nTexReplace</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::nTexReplace</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a4ae625be8246d31ea4347a14ca0bfb09" name="a4ae625be8246d31ea4347a14ca0bfb09"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4ae625be8246d31ea4347a14ca0bfb09">&#9670;&#160;</a></span>nTextureanimations</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::nTextureanimations</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a152d503b64c3974ee6a9ba04cf124957" name="a152d503b64c3974ee6a9ba04cf124957"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a152d503b64c3974ee6a9ba04cf124957">&#9670;&#160;</a></span>nTextures</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::nTextures</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a87e3a307fb8f1346c0c4b65b5170b6af" name="a87e3a307fb8f1346c0c4b65b5170b6af"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a87e3a307fb8f1346c0c4b65b5170b6af">&#9670;&#160;</a></span>nTexUnits</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::nTexUnits</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a407fa00865c91fce4365c9aa35e17276" name="a407fa00865c91fce4365c9aa35e17276"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a407fa00865c91fce4365c9aa35e17276">&#9670;&#160;</a></span>nTransLookup</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::nTransLookup</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ab2ffe7bcb4d11558afc67da61ab1ab5f" name="ab2ffe7bcb4d11558afc67da61ab1ab5f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab2ffe7bcb4d11558afc67da61ab1ab5f">&#9670;&#160;</a></span>nTransparency</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::nTransparency</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="aa7b9356ead53f64a1482c064369830d1" name="aa7b9356ead53f64a1482c064369830d1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa7b9356ead53f64a1482c064369830d1">&#9670;&#160;</a></span>nVertices</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::nVertices</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a278978353b271aefbcf6bf8b6d5c14cf" name="a278978353b271aefbcf6bf8b6d5c14cf"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a278978353b271aefbcf6bf8b6d5c14cf">&#9670;&#160;</a></span>nViews</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::nViews</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a1766f3d003e67e655168a076a5ffb35d" name="a1766f3d003e67e655168a076a5ffb35d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1766f3d003e67e655168a076a5ffb35d">&#9670;&#160;</a></span>ofsAnimationLookup</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::ofsAnimationLookup</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a2e4bc7e638338fb60119b8589f71be76" name="a2e4bc7e638338fb60119b8589f71be76"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2e4bc7e638338fb60119b8589f71be76">&#9670;&#160;</a></span>ofsAnimations</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::ofsAnimations</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a9806dd0a585e1c303843f5a250df417a" name="a9806dd0a585e1c303843f5a250df417a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9806dd0a585e1c303843f5a250df417a">&#9670;&#160;</a></span>ofsAttachLookup</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::ofsAttachLookup</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a5726632945a2b64b89da584b1815077e" name="a5726632945a2b64b89da584b1815077e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5726632945a2b64b89da584b1815077e">&#9670;&#160;</a></span>ofsAttachments</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::ofsAttachments</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a4babc9962711d128934266a23b67838b" name="a4babc9962711d128934266a23b67838b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4babc9962711d128934266a23b67838b">&#9670;&#160;</a></span>ofsAttachments_2</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::ofsAttachments_2</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a2eff7b19e12839a0dc7057a358c70a32" name="a2eff7b19e12839a0dc7057a358c70a32"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2eff7b19e12839a0dc7057a358c70a32">&#9670;&#160;</a></span>ofsBoneLookupTable</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::ofsBoneLookupTable</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a7607b56b33987a299415a116a24bf088" name="a7607b56b33987a299415a116a24bf088"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7607b56b33987a299415a116a24bf088">&#9670;&#160;</a></span>ofsBones</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::ofsBones</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a691d8c3e556b74d2ad5a5634247bd7a5" name="a691d8c3e556b74d2ad5a5634247bd7a5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a691d8c3e556b74d2ad5a5634247bd7a5">&#9670;&#160;</a></span>ofsBoundingNormals</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::ofsBoundingNormals</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="afe6561867455a787dfd9a2d784cc9546" name="afe6561867455a787dfd9a2d784cc9546"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afe6561867455a787dfd9a2d784cc9546">&#9670;&#160;</a></span>ofsBoundingTriangles</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::ofsBoundingTriangles</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00032">Model::open()</a>.</p>
-
-</div>
-</div>
-<a id="afa18360276cbf9324675c0716079eecf" name="afa18360276cbf9324675c0716079eecf"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afa18360276cbf9324675c0716079eecf">&#9670;&#160;</a></span>ofsBoundingVertices</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::ofsBoundingVertices</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00032">Model::open()</a>.</p>
-
-</div>
-</div>
-<a id="a9594b44616afdefe3ca54f3c6d25a249" name="a9594b44616afdefe3ca54f3c6d25a249"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9594b44616afdefe3ca54f3c6d25a249">&#9670;&#160;</a></span>ofsCameraLookup</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::ofsCameraLookup</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a593e6ebde962a5181006f04a0d5da761" name="a593e6ebde962a5181006f04a0d5da761"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a593e6ebde962a5181006f04a0d5da761">&#9670;&#160;</a></span>ofsCameras</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::ofsCameras</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a900efa2872c610e6522a8a39ca1506a3" name="a900efa2872c610e6522a8a39ca1506a3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a900efa2872c610e6522a8a39ca1506a3">&#9670;&#160;</a></span>ofsColors</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::ofsColors</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a79d8bbe59f8f51fbfde10737007aebc4" name="a79d8bbe59f8f51fbfde10737007aebc4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a79d8bbe59f8f51fbfde10737007aebc4">&#9670;&#160;</a></span>ofsGlobalSequences</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::ofsGlobalSequences</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="af9868234251a6f1eb7e809a7d183d68d" name="af9868234251a6f1eb7e809a7d183d68d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af9868234251a6f1eb7e809a7d183d68d">&#9670;&#160;</a></span>ofsKeyBoneLookup</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::ofsKeyBoneLookup</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a775f1d419ae0a11becfba1b6997d06a3" name="a775f1d419ae0a11becfba1b6997d06a3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a775f1d419ae0a11becfba1b6997d06a3">&#9670;&#160;</a></span>ofsLights</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::ofsLights</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a93063917ec53289a71d2de23015d3762" name="a93063917ec53289a71d2de23015d3762"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a93063917ec53289a71d2de23015d3762">&#9670;&#160;</a></span>ofsParticleEmitters</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::ofsParticleEmitters</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a121bd59435d56149430da784aedd8bcb" name="a121bd59435d56149430da784aedd8bcb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a121bd59435d56149430da784aedd8bcb">&#9670;&#160;</a></span>ofsRenderFlags</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::ofsRenderFlags</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="af380a1b8594ed0db8680d31a3a01c8a1" name="af380a1b8594ed0db8680d31a3a01c8a1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af380a1b8594ed0db8680d31a3a01c8a1">&#9670;&#160;</a></span>ofsRibbonEmitters</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::ofsRibbonEmitters</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a88e801690480b58b32839d6770a1e400" name="a88e801690480b58b32839d6770a1e400"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a88e801690480b58b32839d6770a1e400">&#9670;&#160;</a></span>ofsTexAnimLookup</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::ofsTexAnimLookup</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a29d4389a670c1e9c1b65beed91963cc9" name="a29d4389a670c1e9c1b65beed91963cc9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a29d4389a670c1e9c1b65beed91963cc9">&#9670;&#160;</a></span>ofsTexLookup</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::ofsTexLookup</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a08ed4187244596b2f011f201a738c666" name="a08ed4187244596b2f011f201a738c666"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a08ed4187244596b2f011f201a738c666">&#9670;&#160;</a></span>ofsTexReplace</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::ofsTexReplace</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a34a67fbb25e95f0cc922d2fbe995bf47" name="a34a67fbb25e95f0cc922d2fbe995bf47"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a34a67fbb25e95f0cc922d2fbe995bf47">&#9670;&#160;</a></span>ofsTextureanimations</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::ofsTextureanimations</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a33db3d192ebfbb5fe234ca6dde190ce9" name="a33db3d192ebfbb5fe234ca6dde190ce9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a33db3d192ebfbb5fe234ca6dde190ce9">&#9670;&#160;</a></span>ofsTextures</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::ofsTextures</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a0f3ecd249c6ce94bafaad1e32f2c1fe8" name="a0f3ecd249c6ce94bafaad1e32f2c1fe8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0f3ecd249c6ce94bafaad1e32f2c1fe8">&#9670;&#160;</a></span>ofsTexUnits</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::ofsTexUnits</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a320b86ba83a1f65da7d6000088cbcaa9" name="a320b86ba83a1f65da7d6000088cbcaa9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a320b86ba83a1f65da7d6000088cbcaa9">&#9670;&#160;</a></span>ofsTransLookup</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::ofsTransLookup</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a82fa640b98fcff23b65d15ae3ecc889a" name="a82fa640b98fcff23b65d15ae3ecc889a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a82fa640b98fcff23b65d15ae3ecc889a">&#9670;&#160;</a></span>ofsTransparency</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::ofsTransparency</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a014d42c24266dcadcc577b541950fc05" name="a014d42c24266dcadcc577b541950fc05"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a014d42c24266dcadcc577b541950fc05">&#9670;&#160;</a></span>ofsVertices</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::ofsVertices</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="aa46258c76d1feea425da41be3cefb5da" name="aa46258c76d1feea425da41be3cefb5da"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa46258c76d1feea425da41be3cefb5da">&#9670;&#160;</a></span>type</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ModelHeader::type</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ae91914678dff064bc9f73bac7223aa20" name="ae91914678dff064bc9f73bac7223aa20"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae91914678dff064bc9f73bac7223aa20">&#9670;&#160;</a></span>version</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d5e/a04655.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> ModelHeader::version[4]</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
+<p class="reference">Referenced by <a class="el" href="../../#l00158">LoadConfig()</a>, and <a class="el" href="../../#l00068">ShouldSkipLiquid()</a>.</p>
 
 </div>
 </div>
@@ -1139,8 +1091,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dd/dc5/a30341.html">ModelHeader</a></li>
-    <li class="footer">Generated on Mon Sep 7 2026 23:04:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dd/d15/a05117.html">MMAP</a></li><li class="navelem"><a class="el" href="../../dd/dc5/a30341.html">Config</a></li>
+    <li class="footer">Generated on Mon Sep 14 2026 23:34:56 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

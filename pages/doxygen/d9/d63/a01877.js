@@ -1,15 +1,15 @@
 var a01877 =
 [
-    [ "TempSummonData", "d1/df9/a08525.html", "d1/df9/a08525" ],
-    [ "GameObjectSummonData", "dd/d01/a08529.html", "dd/d01/a08529" ],
-    [ "TempSummon", "d8/dae/a08533.html", "d8/dae/a08533" ],
-    [ "Minion", "d8/d6d/a08537.html", "d8/d6d/a08537" ],
-    [ "Guardian", "da/da0/a08541.html", "da/da0/a08541" ],
-    [ "Puppet", "de/d2b/a08545.html", "de/d2b/a08545" ],
-    [ "ForcedUnsummonDelayEvent", "db/db6/a08549.html", "db/db6/a08549" ],
-    [ "SummonerType", "d9/d63/a01877.html#ac8a8d6d0515f6d559068f8aaae56e188", [
-      [ "SUMMONER_TYPE_CREATURE", "d9/d63/a01877.html#ac8a8d6d0515f6d559068f8aaae56e188a13183f62876c427760b46d785c8dba3a", null ],
-      [ "SUMMONER_TYPE_GAMEOBJECT", "d9/d63/a01877.html#ac8a8d6d0515f6d559068f8aaae56e188aadd184039208a2f49a392958ca9a2347", null ],
-      [ "SUMMONER_TYPE_MAP", "d9/d63/a01877.html#ac8a8d6d0515f6d559068f8aaae56e188a0550300777cb9771bd92e040ccef0270", null ]
-    ] ]
+    [ "BeforeVisibilityDestroy", "d9/d63/a01877.html#a8172910e1dfdc7b56ca3931dd2fab1fb", null ],
+    [ "BeforeVisibilityDestroy< Creature >", "d9/d63/a01877.html#a62188ab6a72d08b62bf37442dbbfdaa6", null ],
+    [ "CraftSkillGainChance", "d9/d63/a01877.html#a134a6c7afbcd70ce083895705f755d2d", null ],
+    [ "getProbabilityOfLevelUp", "d9/d63/a01877.html#aa890f698ac89e4049e1107c05d065495", null ],
+    [ "SkillGainChance", "d9/d63/a01877.html#a66adde9ba6a85d585f6e6e8355499aa6", null ],
+    [ "UpdateVisibilityOf_helper", "d9/d63/a01877.html#a74b7f95092456b1438f82ae741c77e3b", null ],
+    [ "UpdateVisibilityOf_helper", "d9/d63/a01877.html#ac66d5bddb2e8a54da47fa75b3fedc154", null ],
+    [ "UpdateVisibilityOf_helper", "d9/d63/a01877.html#a9ad7cb34613338094db01b886d54cf25", null ],
+    [ "UpdateVisibilityOf_helper", "d9/d63/a01877.html#a6b71c41b4869661630086bd26c35b630", null ],
+    [ "bonusSkillLevels", "d9/d63/a01877.html#a72b3624ee55553e28f82ef06d7c74c6a", null ],
+    [ "bonusSkillLevelsSize", "d9/d63/a01877.html#ad103e97f7db0cfd188ab64f5748c7464", null ],
+    [ "ZONE_UPDATE_INTERVAL", "d9/d63/a01877.html#afabbcd46bf6f03c5dca10b117810b710", null ]
 ];

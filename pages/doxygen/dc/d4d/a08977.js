@@ -1,10 +1,8 @@
 var a08977 =
 [
-    [ "DuelInfo", "dc/d4d/a08977.html#a183f336e52fe7cdaa34dbb43991d0c39", null ],
-    [ "Initiator", "dc/d4d/a08977.html#ae1a6667f934c88ad8f0b160e6a8b1190", null ],
-    [ "IsMounted", "dc/d4d/a08977.html#ad80e3507a7bdfc8f7dbebd07697c464f", null ],
-    [ "Opponent", "dc/d4d/a08977.html#a2765770367c839ad28f804e2df3205cb", null ],
-    [ "OutOfBoundsTime", "dc/d4d/a08977.html#a8ff9ae1c990674b6ac0cd929f5114f23", null ],
-    [ "StartTime", "dc/d4d/a08977.html#a1b8b4c373b2e4243f8e33a391821528f", null ],
-    [ "State", "dc/d4d/a08977.html#ae8492a9857d819fcec56a10cfd5051e2", null ]
+    [ "IsInSpec", "dc/d4d/a08977.html#a77968b5562467f85bda04b6f2f41ca29", null ],
+    [ "inSpellBook", "dc/d4d/a08977.html#a650926fa9d1bbab336ee7ed3dd0b0b7d", null ],
+    [ "specMask", "dc/d4d/a08977.html#acc1913a90ca2bd23298d3590843cfbd5", null ],
+    [ "State", "dc/d4d/a08977.html#a062758af7e92f7e2263ca0a0fd329151", null ],
+    [ "talentID", "dc/d4d/a08977.html#aca9b191361652002f5178179a939e41b", null ]
 ];

@@ -1,6 +1,6 @@
 var a17533 =
 [
-    [ "npc_pos_freed_slaveAI", "dc/d29/a17537.html", "dc/d29/a17537" ],
-    [ "npc_pos_freed_slave", "df/d30/a17533.html#a19fd79279646cb1c49c04056636615fc", null ],
-    [ "GetAI", "df/d30/a17533.html#ac798c2584d48892162cc2bc779701e16", null ]
+    [ "npc_pos_leaderAI", "dc/d29/a17537.html", "dc/d29/a17537" ],
+    [ "npc_pos_leader", "df/d30/a17533.html#a690956ba5c822f4cbea9c27c95d5924c", null ],
+    [ "GetAI", "df/d30/a17533.html#a0c0b85bef0b04989dc80d861fa70f463", null ]
 ];

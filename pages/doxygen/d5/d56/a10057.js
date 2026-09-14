@@ -1,9 +1,7 @@
 var a10057 =
 [
-    [ "completedEncounters", "d5/d56/a10057.html#acd444d68aab9efa6aace6f3964a40206", null ],
-    [ "data", "d5/d56/a10057.html#a50d57b4d7d0ba162ae1cc53ee4c4462c", null ],
-    [ "difficulty", "d5/d56/a10057.html#a31694740b0a3af858c12c51f0659fe3c", null ],
-    [ "instanceId", "d5/d56/a10057.html#aefe57dc77cf3043b6c187fdb676d9c51", null ],
-    [ "mapId", "d5/d56/a10057.html#a14cbda11b8b949fe647a6851d15d6465", null ],
-    [ "resetTime", "d5/d56/a10057.html#af7c9d7b1fee85de40aade9576e8c49ff", null ]
+    [ "AddonHandler", "d5/d56/a10057.html#a3e52b0fc5ca99a3f5d83ee6d34e16520", null ],
+    [ "~AddonHandler", "d5/d56/a10057.html#a8e4fc7c1cae505850a907e70a9febbf0", null ],
+    [ "BuildAddonPacket", "d5/d56/a10057.html#aca92dc80033c299daf8e3b42dd24ffea", null ],
+    [ "instance", "d5/d56/a10057.html#a2925b829b803dd07e96685086357ef85", null ]
 ];

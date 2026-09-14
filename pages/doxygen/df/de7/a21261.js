@@ -1,10 +1,11 @@
 var a21261 =
 [
-    [ "npc_enslaved_proto_drake", "df/de7/a21261.html#aec835fdc8b1beb270176d5341d26c265", null ],
-    [ "MovementInform", "df/de7/a21261.html#ad2a25f78a82e0f2cef1e7809cb1d7d89", null ],
-    [ "Reset", "df/de7/a21261.html#a3c1ea80e356e33c4a4b7ed5d083fc7b5", null ],
-    [ "SetData", "df/de7/a21261.html#a888219a604e4c95a5a3e442fcf8c1a39", null ],
-    [ "UpdateAI", "df/de7/a21261.html#a252f84198df610bac44b6bd9cd80602e", null ],
-    [ "_events", "df/de7/a21261.html#a89b48d6fb010bc9611b625e5f02b94d3", null ],
-    [ "_setData", "df/de7/a21261.html#adb997badd8831dea7763eaecc93b7773", null ]
+    [ "npc_ulduar_storm_tempered_keeper", "df/de7/a21261.html#ae4dc8352fd0ff41974a33a4500d19e74", null ],
+    [ "JustDied", "df/de7/a21261.html#a8051e2b824a6c0df08dafab6e25d6bc7", null ],
+    [ "JustEngagedWith", "df/de7/a21261.html#a1bd5ba0e92e09953bc1ecb69a61c98f1", null ],
+    [ "JustSummoned", "df/de7/a21261.html#a9b1f8cd15790dbd179e313546f9754bf", null ],
+    [ "Reset", "df/de7/a21261.html#a5bbb71bfbeb2c4e09d20a94ed7913183", null ],
+    [ "UpdateAI", "df/de7/a21261.html#a9f36f099f7db4c3e1a06b8d4082e58c5", null ],
+    [ "events", "df/de7/a21261.html#a4a79bd561fa63230a52730da20d7143c", null ],
+    [ "otherGUID", "df/de7/a21261.html#a4fb550c7e49ea5078ec0ab59cda2c6d8", null ]
 ];

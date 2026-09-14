@@ -1,8 +1,8 @@
 var a21005 =
 [
-    [ "boss_yoggsaron_death_ray", "d8/de8/a21005.html#a03a5a1845d217c2e59fc491f1f0a36a2", null ],
-    [ "IsSummonedBy", "d8/de8/a21005.html#a631bb4727b876c0ce782c1d3d206ae13", null ],
-    [ "UpdateAI", "d8/de8/a21005.html#a424f116aa76fa470cb393250e571c021", null ],
-    [ "_movementLegs", "d8/de8/a21005.html#ac548ed487090506768236ff1519d4938", null ],
-    [ "events", "d8/de8/a21005.html#af79f0ec03cc3eb6c803c4793842b0c71", null ]
+    [ "npc_xt_toy_pile", "d8/de8/a21005.html#a843e7d05cf62baa5c006077f8dad107d", null ],
+    [ "SpellHit", "d8/de8/a21005.html#a82af3830eaf524c587334e8eb193925f", null ],
+    [ "_lastSummonTime", "d8/de8/a21005.html#aaa8e3581f39206c30f1b7de9a81f1387", null ],
+    [ "SummonCooldown", "d8/de8/a21005.html#ab0924af7ecfd54f1744b11af76ca2834", null ],
+    [ "SummonDistance", "d8/de8/a21005.html#a3adcb7a8f6ad7b515719794e0ddca964", null ]
 ];

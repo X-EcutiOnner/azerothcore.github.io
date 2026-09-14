@@ -1,13 +1,11 @@
 var a13341 =
 [
-    [ "boss_roar", "d1/dc4/a13341.html#a93e1d81bcff8b31841ae65628759ee7e", null ],
-    [ "DoAction", "d1/dc4/a13341.html#a9a2778a803d6d41b256759b29452cc51", null ],
-    [ "EnterEvadeMode", "d1/dc4/a13341.html#a198044653632b93838c0f79c06cb7640", null ],
-    [ "JustDied", "d1/dc4/a13341.html#a3c79bea69740601ad89f0765f3af99f2", null ],
-    [ "JustEngagedWith", "d1/dc4/a13341.html#a1db42b2b1a19ac4a959a51ce17c8ae32", null ],
-    [ "JustReachedHome", "d1/dc4/a13341.html#a632929b026815a524bd79748e768e3fc", null ],
-    [ "KilledUnit", "d1/dc4/a13341.html#aaaa0d33697fe1abc0df5bf9ecb249ffc", null ],
-    [ "UpdateAI", "d1/dc4/a13341.html#a255d406f8bab62593a3eeda0e4e3d646", null ],
-    [ "_scheduler", "d1/dc4/a13341.html#a54b45b1fdacc2b3982e21580b9b4d26a", null ],
-    [ "instance", "d1/dc4/a13341.html#a67df04e89c877d565753ac077aa923c7", null ]
+    [ "boss_tenris_mirkblood", "d1/dc4/a13341.html#ae626332a437983bbb0219bbe2d4b75dc", null ],
+    [ "DamageTaken", "d1/dc4/a13341.html#a0316d2d936f10928fe01d1d5a532e9e0", null ],
+    [ "EnterEvadeMode", "d1/dc4/a13341.html#a5da11ca73a280c08d1ab0ab4df66d836", null ],
+    [ "JustEngagedWith", "d1/dc4/a13341.html#ad95106bbe08589a5ca1d0f2f30aab0ec", null ],
+    [ "KilledUnit", "d1/dc4/a13341.html#ab0a5fedbd8714326a948163d7bcc0838", null ],
+    [ "Reset", "d1/dc4/a13341.html#a88d46f6e972525979687b315db90dc30", null ],
+    [ "SpellHit", "d1/dc4/a13341.html#a5d69e0cf2a394ac9eed94bb82ab35949", null ],
+    [ "_mirrorTarget", "d1/dc4/a13341.html#a1e9a1c361046b12fe0569fbdef4a7033", null ]
 ];

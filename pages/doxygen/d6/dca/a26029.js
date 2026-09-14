@@ -1,10 +1,7 @@
 var a26029 =
 [
-    [ "spell_item_defibrillate", "d6/dca/a26029.html#ab64fdd36fc646ca0bcb2010380199ede", null ],
-    [ "HandleScript", "d6/dca/a26029.html#a7abbc5b8e5c5231d5c6809c45b815b69", null ],
-    [ "PrepareSpellScript", "d6/dca/a26029.html#a6a7ad6c9bb9bee3b093bd06b1b259468", null ],
-    [ "Register", "d6/dca/a26029.html#ad2faa26a2874f68e8e419e59cafbf10b", null ],
-    [ "Validate", "d6/dca/a26029.html#ad871a6bef7ba074f32abe1bf062dffe1", null ],
-    [ "_chance", "d6/dca/a26029.html#a680092f30ebc6b322e5d01a1100b308c", null ],
-    [ "_failSpell", "d6/dca/a26029.html#a4cb3e7f0b0b85c57f27fe2f3ab70647b", null ]
+    [ "CheckProc", "d6/dca/a26029.html#afbd6d4a64b7da0d0dc15c62eb81746c9", null ],
+    [ "HandleProc", "d6/dca/a26029.html#a27569fe686e50246768fca4a7625fe0d", null ],
+    [ "PrepareAuraScript", "d6/dca/a26029.html#a4f4eaa4aeeac9257804957671c16233f", null ],
+    [ "Register", "d6/dca/a26029.html#ab9a662bebdb5e03c5c10a807b892a9bf", null ]
 ];

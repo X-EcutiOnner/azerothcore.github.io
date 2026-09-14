@@ -1,8 +1,8 @@
 var a12785 =
 [
-    [ "boss_drakkisath", "d1/d11/a12785.html#a77fdb667d0dc262dcacc5e988cf5fc8e", null ],
-    [ "JustEngagedWith", "d1/d11/a12785.html#a502ca053bb96215c8386ee694a963cfa", null ],
-    [ "UpdateAI", "d1/d11/a12785.html#a90bf913d6d94e5fc6d982049dd96e3b1", null ],
-    [ "_conflagrateTarget", "d1/d11/a12785.html#aec0bd29626d8b59e33bfba370788ac40", null ],
-    [ "_conflagrateThreat", "d1/d11/a12785.html#ac1cb21a95bbfcfbffc5a3046b233c183", null ]
+    [ "boss_eviscerator", "d1/d11/a12785.html#a2228d79b63df840eb4cb28117f24dcf9", null ],
+    [ "DamageTaken", "d1/d11/a12785.html#af31de4643026e44c80252e156a39bc69", null ],
+    [ "JustEngagedWith", "d1/d11/a12785.html#a14ec212beaa553f8f68e7718e29dcbd9", null ],
+    [ "UpdateAI", "d1/d11/a12785.html#af974908902d30b8144d1b734e795d6ea", null ],
+    [ "SpellShieldReady", "d1/d11/a12785.html#abeac01454b05ca88a89093b0f74c4a1f", null ]
 ];

@@ -1,5 +1,5 @@
 var a28137 =
 [
-    [ "AreaTrigger_at_nats_landing", "d7/d00/a28137.html#ac366e5b1db489b4f8bb8a1d07caa83c2", null ],
-    [ "OnTrigger", "d7/d00/a28137.html#a67434f74300fa3463e679afb7d344467", null ]
+    [ "achievement_sickly_gazelle", "d7/d00/a28137.html#abb613cb222c727923c4c5ce843db3a5f", null ],
+    [ "OnCheck", "d7/d00/a28137.html#a5a4fcd30c92c10a9c0fb8fc1372f3857", null ]
 ];

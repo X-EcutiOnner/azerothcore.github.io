@@ -1,6 +1,12 @@
 var a23729 =
 [
-    [ "HandleEffect", "df/d0b/a23729.html#a47c4b4da3b06d063fd2a6a612cea29da", null ],
-    [ "PrepareSpellScript", "df/d0b/a23729.html#a37ef368735fa2879871bc3ce8a52c8b1", null ],
-    [ "Register", "df/d0b/a23729.html#abc6d5b845d9b76ed7abdf4132640824e", null ]
+    [ "boss_watchkeeper_gargolmar", "df/d0b/a23729.html#acb4212c6f852f50f3edfa3880806a9d2", null ],
+    [ "JustDied", "df/d0b/a23729.html#a39be5796b39bea913105fc48dda0d186", null ],
+    [ "JustEngagedWith", "df/d0b/a23729.html#a9e3194d02d0d3b66ef38118aa32ae684", null ],
+    [ "KilledUnit", "df/d0b/a23729.html#a22736c2680f41cfd3443a76cd4de9352", null ],
+    [ "MoveInLineOfSight", "df/d0b/a23729.html#adec9837fdb2595ce57acffb279a7d011", null ],
+    [ "Reset", "df/d0b/a23729.html#a356b7fe9071b073b74b21913e35e7408", null ],
+    [ "UpdateAI", "df/d0b/a23729.html#a1453d26ccbd3e78f46cb33f054d57759", null ],
+    [ "_hasSpoken", "df/d0b/a23729.html#a3cd89b2567668b52d96b02af7eb85db8", null ],
+    [ "_taunted", "df/d0b/a23729.html#ab5623501bf92e119806ba4e2ccd0cd7a", null ]
 ];

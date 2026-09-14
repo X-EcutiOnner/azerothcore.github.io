@@ -1,6 +1,11 @@
 var a20625 =
 [
-    [ "OnPeriodic", "de/d96/a20625.html#a8a12342f694499043e8ed4446fd92d36", null ],
-    [ "PrepareAuraScript", "de/d96/a20625.html#a9294210ece0c3bcda0639d1fc486cc9a", null ],
-    [ "Register", "de/d96/a20625.html#a381709d53101832de6b2161c4a33a0d4", null ]
+    [ "npc_ulduar_iron_construct", "de/d96/a20625.html#ab44bf86ea4a50f365e37ba888d0b2f6d", null ],
+    [ "JustDied", "de/d96/a20625.html#ae102f4c7b9bc4246e0720287739e419a", null ],
+    [ "JustReachedHome", "de/d96/a20625.html#a77609f7939725001d7a31c4d92f00358", null ],
+    [ "MoveInLineOfSight", "de/d96/a20625.html#a6f8bfc52f6f8b6fbd4b8fb01bc827b8a", null ],
+    [ "Reset", "de/d96/a20625.html#a2fcec0917d5266b286cbb0995ef6ee34", null ],
+    [ "SpellHit", "de/d96/a20625.html#a0c786f44d9f255464fadb1c53b6fc004", null ],
+    [ "UpdateAI", "de/d96/a20625.html#afc56384db98a225a223c9214414508ea", null ],
+    [ "timer", "de/d96/a20625.html#a397277972454f710d7236ba36a67c977", null ]
 ];

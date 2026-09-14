@@ -1,5 +1,6 @@
 var a19333 =
 [
-    [ "npc_icc_buff_switcher", "de/d7e/a19333.html#aeabc3d97c88bf12177b824524af3ae1d", null ],
-    [ "OnGossipSelect", "de/d7e/a19333.html#abb3310d3eb5cf4f1c2a0a3ac46ddd7ba", null ]
+    [ "npc_icc_skybreaker_marksmanAI", "d1/d88/a19337.html", "d1/d88/a19337" ],
+    [ "npc_icc_skybreaker_marksman", "de/d7e/a19333.html#a1d870b78e1acf2d17782265e28698d1c", null ],
+    [ "GetAI", "de/d7e/a19333.html#a374017d37da15705d51ab8edc75683ff", null ]
 ];

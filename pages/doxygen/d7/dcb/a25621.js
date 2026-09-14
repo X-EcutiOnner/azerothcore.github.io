@@ -1,5 +1,7 @@
 var a25621 =
 [
-    [ "PrepareSpellScript", "d7/dcb/a25621.html#a939db3d626f3451edd605ced6d9b2ebe", null ],
-    [ "Register", "d7/dcb/a25621.html#a5b356ca08e33c8eb127bec763f105792", null ]
+    [ "HandleScript", "d7/dcb/a25621.html#a27e2575e538732ac76add53f2f8f6832", null ],
+    [ "PrepareSpellScript", "d7/dcb/a25621.html#ad7c98be6cca23fb1484a6b77bcc7bc9d", null ],
+    [ "Register", "d7/dcb/a25621.html#a4ee74f6d8a61a8ba38ece33176c18f84", null ],
+    [ "Validate", "d7/dcb/a25621.html#aef9eef1819652e0fce1cd4b3ba9c387c", null ]
 ];

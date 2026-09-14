@@ -1,12 +1,10 @@
 var a05171 =
 [
-    [ "DismissCritter", "db/db1/a11541.html", "db/db1/a11541" ],
-    [ "PetAbandon", "dd/d2f/a11545.html", "dd/d2f/a11545" ],
-    [ "PetActionSound", "dc/da0/a11569.html", "dc/da0/a11569" ],
-    [ "PetDismissSound", "d6/d3d/a11573.html", "d6/d3d/a11573" ],
-    [ "PetLearnedSpell", "dc/dfa/a11557.html", "dc/dfa/a11557" ],
-    [ "PetSpellAutocast", "db/d60/a11553.html", "db/d60/a11553" ],
-    [ "PetStopAttack", "d5/d74/a11549.html", "d5/d74/a11549" ],
-    [ "PetUnlearnedSpell", "db/d54/a11561.html", "db/d54/a11561" ],
-    [ "RequestPetInfo", "d1/dd2/a11565.html", "d1/dd2/a11565" ]
+    [ "BladeEdgeArenaRope", "df/d4d/a10513.html", "df/d4d/a10513" ],
+    [ "GetClosestPointOnBladeEdgeArenaRope", "dc/d66/a05171.html#ad6fb8ac315aae658ae30abe0ed4b0536", null ],
+    [ "IsOutsideExpandedXYBounds", "dc/d66/a05171.html#a71f129f45def5530dd577d961f33ff75", null ],
+    [ "TrySnapToBladeEdgeArenaRope", "dc/d66/a05171.html#a7545d55edb64810e769569909d3f22cc", null ],
+    [ "BLADE_EDGE_ROPE_SNAP_DIST", "dc/d66/a05171.html#a4bd7d9d834123be5931eda51fb882654", null ],
+    [ "BLADE_EDGE_ROPE_SNAP_DIST2", "dc/d66/a05171.html#aab9750e7a18e090ee53c16bb42eb1873", null ],
+    [ "BladeEdgeArenaRopes", "dc/d66/a05171.html#a5bd7b066b349914a5d42899d3c1f7ce8", null ]
 ];

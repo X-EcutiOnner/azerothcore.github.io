@@ -1,6 +1,9 @@
 var a21817 =
 [
-    [ "npc_mindless_ghoulAI", "d4/d44/a21821.html", "d4/d44/a21821" ],
-    [ "npc_mindless_ghoul", "d3/d01/a21817.html#ac5bf71e719c0df04687f426a022fd65e", null ],
-    [ "GetAI", "d3/d01/a21817.html#ac5a087aa742827dc8eb0f3dc195920ec", null ]
+    [ "npc_archmage_landalockAI", "d3/d01/a21817.html#a8e2b48a9cf243b0d6f11286cf1e301c8", null ],
+    [ "GetImageEntry", "d3/d01/a21817.html#ae09841969253c0baf72cc235b6fa058e", null ],
+    [ "JustSummoned", "d3/d01/a21817.html#af9016bfeca3db7611fdafe4337e5f64a", null ],
+    [ "UpdateAI", "d3/d01/a21817.html#abad2f45c0a5c43cc7aa7867a0291133d", null ],
+    [ "_summonGUID", "d3/d01/a21817.html#a8b59c414dfd46209dcc3d00531e2b98b", null ],
+    [ "_switchImageTimer", "d3/d01/a21817.html#a5e2fb6556bbb5cf22b77a72e9ccbc548", null ]
 ];

@@ -1,5 +1,6 @@
 var a16141 =
 [
-    [ "npc_steward_of_time", "dd/d2d/a16141.html#ad49973464c96f44506033b73a85f6360", null ],
-    [ "OnQuestAccept", "dd/d2d/a16141.html#a53d552282da49e8246089b2799fff9ca", null ]
+    [ "npc_qiraj_war_spawnAI", "d4/d68/a16145.html", "d4/d68/a16145" ],
+    [ "npc_qiraj_war_spawn", "dd/d2d/a16141.html#a2afba33e9fd879ac3fea206768b14334", null ],
+    [ "GetAI", "dd/d2d/a16141.html#a32339f20251c188b895c02b6cc9217e9", null ]
 ];

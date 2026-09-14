@@ -1,8 +1,5 @@
 var a23605 =
 [
-    [ "instance_gruuls_lair_InstanceMapScript", "da/dd4/a23605.html#a1ad656ccd4d41c756c4f525d079fd9b6", null ],
-    [ "GetData", "da/dd4/a23605.html#a410630dbbe00acf0b69603cfc357d503", null ],
-    [ "SetBossState", "da/dd4/a23605.html#a9f0752eb0ec1d9ca0681ddc5fc8d3752", null ],
-    [ "SetData", "da/dd4/a23605.html#a4cbe09489797fa0076d976f9a717a2bd", null ],
-    [ "_addsKilled", "da/dd4/a23605.html#a7a003811fcf620f3c2d11ff3498cb298", null ]
+    [ "instance_the_underbog_InstanceMapScript", "da/dd4/a23605.html#ae7668c7c4432b74caa3ea46a7c7364e3", null ],
+    [ "Initialize", "da/dd4/a23605.html#a9c7c10020eef3db4794283c0f946d086", null ]
 ];

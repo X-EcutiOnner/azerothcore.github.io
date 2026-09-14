@@ -1,6 +1,13 @@
 var a23817 =
 [
-    [ "instance_arcatraz_InstanceMapScript", "da/d23/a23821.html", "da/d23/a23821" ],
-    [ "instance_arcatraz", "da/da9/a23817.html#a6fc8860651573353b54fd26bddea32aa", null ],
-    [ "GetInstanceScript", "da/da9/a23817.html#ad3f78e41ef2c96443ed3bd1ba4ab55bb", null ]
+    [ "boss_warbringer_omrogg", "da/da9/a23817.html#a20f790595640cd41d636ad43c8837cda", null ],
+    [ "HandleHeadTalk", "da/da9/a23817.html#aaa324c065f6c2bbf75688f5910be09d1", null ],
+    [ "JustDied", "da/da9/a23817.html#a8a2abaceda580ac2ed4f1c736281828f", null ],
+    [ "JustEngagedWith", "da/da9/a23817.html#ae1710f22f8a72f661498c4fbc6d108a5", null ],
+    [ "KilledUnit", "da/da9/a23817.html#add6b54c4744be120b6b5fd53912ce1fd", null ],
+    [ "ScheduleBurningPhase", "da/da9/a23817.html#afd20a8bd1f6f083e0725d962ec747e26", null ],
+    [ "ScheduleNonBurningPhase", "da/da9/a23817.html#a176217a0767e8153d07996461ac68f60", null ],
+    [ "SetData", "da/da9/a23817.html#a4d1154d64c999316f9ae02ab76cbc870", null ],
+    [ "UpdateAI", "da/da9/a23817.html#a90369760ed0e52f1ffc6d3e7c4e39ec2", null ],
+    [ "_headTalk", "da/da9/a23817.html#ae657addceb26f4d02d734fa0790a1ae2", null ]
 ];

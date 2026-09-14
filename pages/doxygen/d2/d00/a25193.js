@@ -1,6 +1,6 @@
 var a25193 =
 [
-    [ "HandleOnEffectHit", "d2/d00/a25193.html#a07b15e180ee79149cad15b32b3c94359", null ],
-    [ "PrepareSpellScript", "d2/d00/a25193.html#afbea54d2dad7a969d7e7558d43ecbc95", null ],
-    [ "Register", "d2/d00/a25193.html#ad2426cf9076d3fe4f33984ab28df11f6", null ]
+    [ "CheckProc", "d2/d00/a25193.html#ad1678a96784add01965d67c3d86bcd77", null ],
+    [ "PrepareAuraScript", "d2/d00/a25193.html#a6e164a8e3482b566b776c5ffeeb1b6ac", null ],
+    [ "Register", "d2/d00/a25193.html#a148f3fe7ee4bdc8e148fe71100779e56", null ]
 ];

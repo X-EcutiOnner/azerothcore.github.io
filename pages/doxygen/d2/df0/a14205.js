@@ -1,6 +1,6 @@
 var a14205 =
 [
-    [ "OnRemove", "d2/df0/a14205.html#aedad236b202300eee0925e3600b87bfa", null ],
-    [ "PrepareAuraScript", "d2/df0/a14205.html#acfdeb98e274989e378d4d4c800306a24", null ],
-    [ "Register", "d2/df0/a14205.html#a0d820ca108e3aabe87ab5867d997264c", null ]
+    [ "ModDestHeight", "d2/df0/a14205.html#ae5e63f8d6e9e3fa05a82cd5708b44527", null ],
+    [ "PrepareSpellScript", "d2/df0/a14205.html#a7447499330dc583210b7a172265dbb69", null ],
+    [ "Register", "d2/df0/a14205.html#a75e577bbe27b2742f6209b7d295dcafa", null ]
 ];

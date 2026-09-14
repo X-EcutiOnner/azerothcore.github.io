@@ -1,10 +1,7 @@
 var a18689 =
 [
-    [ "npc_shambling_horror_iccAI", "d8/d76/a18689.html#a0d15c62bead7a4da3c8a8abd0b2ee612", null ],
-    [ "CanAIAttack", "d8/d76/a18689.html#a6d77fdd16c4b089049ade7f7b081b4e9", null ],
-    [ "DamageTaken", "d8/d76/a18689.html#aed90f2c487c28190c7af630f4ea2fa13", null ],
-    [ "Reset", "d8/d76/a18689.html#ac5bab3d9f360e4e00dcab9abc3799865", null ],
-    [ "UpdateAI", "d8/d76/a18689.html#abae6058591022057e93d48da3db1b8bc", null ],
-    [ "_events", "d8/d76/a18689.html#af12b65fe4f77e8b2d3f5c87379dd69d2", null ],
-    [ "_frenzied", "d8/d76/a18689.html#a34347cbecea4c6f538345b7285e8f1c0", null ]
+    [ "TriggerWickedSpirit", "d8/d76/a18689.html#ace62bc037a2bd8ca9c9c56202eb811e7", null ],
+    [ "Execute", "d8/d76/a18689.html#a7c8f1b5c33fac4d6a7cd89e3e71aa36d", null ],
+    [ "_counter", "d8/d76/a18689.html#a24b85a62208f881418f97b0a8cb10f27", null ],
+    [ "_owner", "d8/d76/a18689.html#ab460675158bfedd7f17a4b8e1cc06b3c", null ]
 ];

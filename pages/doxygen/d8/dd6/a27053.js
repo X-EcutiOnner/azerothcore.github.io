@@ -1,7 +1,6 @@
 var a27053 =
 [
-    [ "HandleProc", "d8/dd6/a27053.html#ac65d59f4632194120b58b34561f2c812", null ],
-    [ "PrepareAuraScript", "d8/dd6/a27053.html#ac9ab849c618fb1172dbde50876a4f5f3", null ],
-    [ "Register", "d8/dd6/a27053.html#aea263594afe1d0e2fe3fac906dfb7e4e", null ],
-    [ "Validate", "d8/dd6/a27053.html#afe98e7e6dfbe3bcdaaa353e608dc69d6", null ]
+    [ "HandleDamage", "d8/dd6/a27053.html#ae34b85a4830066e21069e5ab8373e5c4", null ],
+    [ "PrepareSpellScript", "d8/dd6/a27053.html#a86fd53d1f9a2ecf22c4969e2f8506acf", null ],
+    [ "Register", "d8/dd6/a27053.html#a1a679fb0be26228f5fcdb45da2b994ff", null ]
 ];

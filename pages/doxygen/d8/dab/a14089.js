@@ -1,7 +1,10 @@
 var a14089 =
 [
-    [ "npc_deathstalker_erlandAI", "d7/d43/a14093.html", "d7/d43/a14093" ],
-    [ "npc_deathstalker_erland", "d8/dab/a14089.html#ad49faf068e982f245f0d1e21f0700c40", null ],
-    [ "GetAI", "d8/dab/a14089.html#ab59235f212ddb985056cb8e32719b723", null ],
-    [ "OnQuestAccept", "d8/dab/a14089.html#a81b20bc8c7249a59d69ba63ab32a5f06", null ]
+    [ "npc_sentinel_leader", "d8/dab/a14089.html#a583c43b047dd5c172938d60ef647ecd5", null ],
+    [ "JustEngagedWith", "d8/dab/a14089.html#a92c83a7fcc04df1db3be1d16f4a461d0", null ],
+    [ "MovementInform", "d8/dab/a14089.html#a6d51ada16fac1f5eda8b09aede746a4b", null ],
+    [ "Reset", "d8/dab/a14089.html#ad638ba6ce33753af6a0165c053a90d78", null ],
+    [ "UpdateAI", "d8/dab/a14089.html#aa689bb8189eb8cf842a0aa63bb9f1a73", null ],
+    [ "_events", "d8/dab/a14089.html#ada65bdf153ae9b3262b0f55fb540be17", null ],
+    [ "_helpCalled", "d8/dab/a14089.html#a803c324e790cd74e90ff6c2adde37ba3", null ]
 ];

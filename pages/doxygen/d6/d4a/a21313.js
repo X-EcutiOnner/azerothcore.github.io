@@ -1,5 +1,6 @@
 var a21313 =
 [
-    [ "go_palehoof_sphere", "d6/d4a/a21313.html#a9e31fe7531980a5f75af95e24cbc272d", null ],
-    [ "OnGossipHello", "d6/d4a/a21313.html#ad939fd46f8bdf32d4e158f32f2bcd8da", null ]
+    [ "instance_utgarde_keep_InstanceMapScript", "d6/dff/a21317.html", "d6/dff/a21317" ],
+    [ "instance_utgarde_keep", "d6/d4a/a21313.html#abe013e4f086f63722a6398b2b7928c80", null ],
+    [ "GetInstanceScript", "d6/d4a/a21313.html#a9a42e0dde1c7598eb2ef665f11e25e92", null ]
 ];

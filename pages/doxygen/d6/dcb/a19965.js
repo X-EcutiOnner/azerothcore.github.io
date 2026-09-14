@@ -1,9 +1,8 @@
 var a19965 =
 [
-    [ "npc_stormforged_lieutenant", "d6/dcb/a19965.html#aef5101b1f28ccec1fc60ccb2981623b9", null ],
-    [ "JustEngagedWith", "d6/dcb/a19965.html#a262ac995279b1a936534c858e21122a9", null ],
-    [ "Reset", "d6/dcb/a19965.html#abc359564370152b28a002a801ba1ab3d", null ],
-    [ "UpdateAI", "d6/dcb/a19965.html#a4c207f0ef172585b97695b63e119d1bc", null ],
-    [ "BjarngrimGUID", "d6/dcb/a19965.html#ad56f4d2a06f3a3e5fc4d813b9036e0aa", null ],
-    [ "events", "d6/dcb/a19965.html#ae721c276ba7413974d25449ef2c5f1a9", null ]
+    [ "npc_centrifuge_constructAI", "d6/dcb/a19965.html#a9219f4955ae82ca7f401ea1c63f66b09", null ],
+    [ "DamageTaken", "d6/dcb/a19965.html#aa568418de267a99108698e79baa1b3f4", null ],
+    [ "JustEngagedWith", "d6/dcb/a19965.html#ac6ecbb17624c2747253c68a50b93c40f", null ],
+    [ "Reset", "d6/dcb/a19965.html#a2f7750cea2f59d794c85e20b703370af", null ],
+    [ "UpdateAI", "d6/dcb/a19965.html#a28316416ad6c56d83c9e878511256445", null ]
 ];

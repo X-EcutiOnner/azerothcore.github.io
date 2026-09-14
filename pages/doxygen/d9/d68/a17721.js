@@ -1,11 +1,11 @@
 var a17721 =
 [
-    [ "npc_blood_queen_lana_thelAI", "d9/d68/a17721.html#a7b099b90600e433e304dee1f356a9909", null ],
-    [ "MoveInLineOfSight", "d9/d68/a17721.html#af1aafdc45abcdfbdbea7f5b67f3bc620", null ],
-    [ "MovementInform", "d9/d68/a17721.html#a004a878ccb5fe68b249342f6a0fce31d", null ],
-    [ "Reset", "d9/d68/a17721.html#a539b0e158c800e1aade54f37aa99751e", null ],
-    [ "UpdateAI", "d9/d68/a17721.html#ae9d2f6b53898db04da58efe0deeceea5", null ],
-    [ "_events", "d9/d68/a17721.html#a8ec7641bab991fc584b066fae55690bf", null ],
-    [ "_instance", "d9/d68/a17721.html#a9058ce72bb956d7e90eff740c0f9633a", null ],
-    [ "_introDone", "d9/d68/a17721.html#a40c642758a751e072e41343bb75ad306", null ]
+    [ "boss_slad_ranAI", "d9/d68/a17721.html#ad85e2fd51d67739026a96bc757bc7801", null ],
+    [ "GetData", "d9/d68/a17721.html#a58e1188a418acdc1f327e7df90c5c122", null ],
+    [ "JustDied", "d9/d68/a17721.html#a636ca76497c33a5175986e80bbcda44a", null ],
+    [ "JustEngagedWith", "d9/d68/a17721.html#ac30b38805d0421b1be509c7d5609c648", null ],
+    [ "KilledUnit", "d9/d68/a17721.html#a4700f8c06e5fa43fc1719c19cfe79b24", null ],
+    [ "Reset", "d9/d68/a17721.html#a8759163de40d04d53c5e5ed8d8192aa7", null ],
+    [ "SetData", "d9/d68/a17721.html#a3b91eb7c2aa2aeb356c51e81f449b0a5", null ],
+    [ "_achievement", "d9/d68/a17721.html#a3ab4f94e13d414fd6c9eb0ba63941ca9", null ]
 ];

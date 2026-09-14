@@ -1,9 +1,9 @@
 var a24201 =
 [
-    [ "npc_bessyAI", "db/d2b/a24201.html#ad1300a563888b34689bedf97c387707c", null ],
-    [ "JustDied", "db/d2b/a24201.html#af98e9235b2432b619e4cc01c0c1111ef", null ],
-    [ "JustSummoned", "db/d2b/a24201.html#a4197fb122299fd152e5da335bb832ae5", null ],
-    [ "Reset", "db/d2b/a24201.html#aed64386629e52c3b65abadde54a63cc4", null ],
-    [ "WaypointReached", "db/d2b/a24201.html#a4611a8f41f66a1a846fb42ba1d4062c8", null ],
-    [ "WaypointReached", "db/d2b/a24201.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "npc_fel_guard_houndAI", "db/d2b/a24201.html#af8b3a9b56e4bdf8d8b654ecccd096651", null ],
+    [ "MovementInform", "db/d2b/a24201.html#a127a0d7b61fde64c0ced52192f438f12", null ],
+    [ "Reset", "db/d2b/a24201.html#ab979c3602897b1148ffd5d4a81941197", null ],
+    [ "UpdateAI", "db/d2b/a24201.html#a97a59eec672d7dfe36264d34b922d0c8", null ],
+    [ "checkTimer", "db/d2b/a24201.html#ad22bb6efafb4396cd0137c1384240029", null ],
+    [ "helboarGUID", "db/d2b/a24201.html#aadcf9b51dbcaa1e62b6619b89d865814", null ]
 ];

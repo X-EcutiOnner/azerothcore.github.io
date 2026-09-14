@@ -1,7 +1,5 @@
 var a23625 =
 [
-    [ "boss_the_maker", "de/dd4/a23625.html#a478c48f225e8fdf14cde5b1f144cb6c4", null ],
-    [ "JustDied", "de/dd4/a23625.html#a564abd0a8f52c8c58a305f9c47d8475c", null ],
-    [ "JustEngagedWith", "de/dd4/a23625.html#a6b0a4442dbabde69ca9352017ee23675", null ],
-    [ "KilledUnit", "de/dd4/a23625.html#a40643ca00fe7d7029a291335e47c722a", null ]
+    [ "npc_invisible_tractor_beam_source", "de/dd4/a23625.html#a78f8adbc578ec005ae3f764e55895dc4", null ],
+    [ "IsSummonedBy", "de/dd4/a23625.html#a4a47cd459013a783bb1cf47b6d670fce", null ]
 ];

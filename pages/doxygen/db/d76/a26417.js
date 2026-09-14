@@ -1,7 +1,7 @@
 var a26417 =
 [
-    [ "HandleDummy", "db/d76/a26417.html#aa510199edee85bfcf6314559e9c72928", null ],
-    [ "PrepareSpellScript", "db/d76/a26417.html#a8d2dce1e15f87bb3f744f89b7a531c72", null ],
-    [ "Register", "db/d76/a26417.html#a1da7830a42eabcccba81000b7094b205", null ],
-    [ "Validate", "db/d76/a26417.html#ad5f88629afe87669a18a7424b8b34ba0", null ]
+    [ "HandleProc", "db/d76/a26417.html#a682a80e8abf8c7dc94921389eb0a15b1", null ],
+    [ "PrepareAuraScript", "db/d76/a26417.html#af0d99e25521ece82c1179ec033ba4216", null ],
+    [ "Register", "db/d76/a26417.html#a6ad6a77042b9a48b5017980b2fddefce", null ],
+    [ "Validate", "db/d76/a26417.html#a147bfdbb7339eb47989f84ed6be86862", null ]
 ];

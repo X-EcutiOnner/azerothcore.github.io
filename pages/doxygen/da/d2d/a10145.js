@@ -1,6 +1,6 @@
 var a10145 =
 [
-    [ "LootValidatorRef", "da/d2d/a10145.html#acce3ced73583bf8dbf04232cddd6ebd8", null ],
-    [ "sourceObjectDestroyLink", "da/d2d/a10145.html#a8833022cf1acf786c06f1580fbe11c24", null ],
-    [ "targetObjectDestroyLink", "da/d2d/a10145.html#a93baac45dcb801215c28ac0dba097eba", null ]
+    [ "DoorInfo", "da/d2d/a10145.html#a26f4849a1d68df466e6db0ccbb8d001b", null ],
+    [ "bossInfo", "da/d2d/a10145.html#a14f7742a1b272d0cd76dda6ce28cde26", null ],
+    [ "type", "da/d2d/a10145.html#ad77a91752ea10a11c8e73655e63dd5c1", null ]
 ];

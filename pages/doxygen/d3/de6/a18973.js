@@ -1,9 +1,12 @@
 var a18973 =
 [
-    [ "npc_gluttonous_abominationAI", "d3/de6/a18973.html#a8b9b632e2e26ef8d0e8c122d28530e81", null ],
-    [ "JustDied", "d3/de6/a18973.html#abc0dd71bbaf85786f34367acc3a849e9", null ],
-    [ "JustSummoned", "d3/de6/a18973.html#a49ff3db7845167b9e98feab2a01b1ed1", null ],
-    [ "Reset", "d3/de6/a18973.html#a45588181429a74ac024e0390c76fa57a", null ],
-    [ "UpdateAI", "d3/de6/a18973.html#a33ef03a9f005ff187493275a9c2683a7", null ],
-    [ "_events", "d3/de6/a18973.html#a4a841c7d2565f4797bc893a9c1ee7acd", null ]
+    [ "npc_the_lich_king_controllerAI", "d3/de6/a18973.html#a211c370e9c370e00fba3c83e51738886", null ],
+    [ "AttackStart", "d3/de6/a18973.html#a58e11746c14f6bbb1b5c56c1d0136d9f", null ],
+    [ "DoAction", "d3/de6/a18973.html#aaf940a0ca812d84dbde81fc7e41feaca", null ],
+    [ "JustSummoned", "d3/de6/a18973.html#aa610e24316505165cbb826ff5bece5c5", null ],
+    [ "MoveInLineOfSight", "d3/de6/a18973.html#a0ee33ab5733c12163e92213376e893e4", null ],
+    [ "Reset", "d3/de6/a18973.html#a2c4410cc2ad995452f742f79e8e4af8b", null ],
+    [ "UpdateAI", "d3/de6/a18973.html#a34a0295ad1a45a9bc060ff8595c22e14", null ],
+    [ "_events", "d3/de6/a18973.html#a90c3d818318004c7c21ec66d4d080615", null ],
+    [ "_instance", "d3/de6/a18973.html#a480a284881ba5f56bc6222607bd01a76", null ]
 ];

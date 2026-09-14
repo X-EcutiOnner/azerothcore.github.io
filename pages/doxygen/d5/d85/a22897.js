@@ -1,7 +1,14 @@
 var a22897 =
 [
-    [ "OnPeriodic", "d5/d85/a22897.html#a165d47b116b0a53e37b05f664960e6ec", null ],
-    [ "PrepareAuraScript", "d5/d85/a22897.html#ac46af3566c5c03622f8146f1bb6f0ac7", null ],
-    [ "Register", "d5/d85/a22897.html#a1ac8741542c921f5e4c42b0a9a02ed3c", null ],
-    [ "Validate", "d5/d85/a22897.html#adf76f9183dd9c5e0f00c2115aaafb119", null ]
+    [ "npc_maiev_illidan", "d5/d85/a22897.html#a0d19d9bb58c44662cdfb66a8fe373a60", null ],
+    [ "DamageTaken", "d5/d85/a22897.html#a780cc558c483efa3293d798cc6048a33", null ],
+    [ "DoAction", "d5/d85/a22897.html#a53607a158edf8fd772908b5d7af6edf1", null ],
+    [ "IsSummonedBy", "d5/d85/a22897.html#a1bf4f2f29132c5132e7903d089ace6e2", null ],
+    [ "JustEngagedWith", "d5/d85/a22897.html#ad1728d7d8b1b5f9db8db4d811c2ba630", null ],
+    [ "JustExitedCombat", "d5/d85/a22897.html#a5606060b12e17edfd6ad05f4f01dd339", null ],
+    [ "Reset", "d5/d85/a22897.html#a100db757c89634a58b9382216e2791ec", null ],
+    [ "SpellHit", "d5/d85/a22897.html#aa4d6626d6130a88519f86cfe70d9fb95", null ],
+    [ "UpdateAI", "d5/d85/a22897.html#a269e4a8f79b508e2da61cd5e2dc34664", null ],
+    [ "_outroActive", "d5/d85/a22897.html#af0f1e48d3712039cb110d5a69a464009", null ],
+    [ "instance", "d5/d85/a22897.html#ad41b6deb9406232629ad60ba66cfac6b", null ]
 ];

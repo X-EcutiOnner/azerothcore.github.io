@@ -1,18 +1,18 @@
 var a13001 =
 [
-    [ "boss_vaelastrasz", "d8/d29/a13001.html#a34f13f4de3f268c8fe034e8577186966", null ],
-    [ "BeginSpeech", "d8/d29/a13001.html#aa6bbbbe76f890112fc1d2e4cd4159346", null ],
-    [ "Initialize", "d8/d29/a13001.html#a8b3356d4fcc6c17c097890bbd98947d5", null ],
-    [ "JustEngagedWith", "d8/d29/a13001.html#ac742f8acce5060e5496f43900b1e3cc0", null ],
-    [ "JustSummoned", "d8/d29/a13001.html#a73f72d397a277301d1b5e2020f0f6146", null ],
-    [ "KilledUnit", "d8/d29/a13001.html#abff4fd6f7f15771b8fccabf4f633c067", null ],
-    [ "Reset", "d8/d29/a13001.html#ac496730fdeb5e55c125a1880626c76e4", null ],
-    [ "sGossipSelect", "d8/d29/a13001.html#ae25b1d667393f9af0f3424137d78a9d0", null ],
-    [ "UpdateAI", "d8/d29/a13001.html#a7a78dd37d5055212cc6d23dc3d831d6d", null ],
-    [ "_burningAdrenalineCast", "d8/d29/a13001.html#acb5c8baf13a39d560447f3e16f07966c", null ],
-    [ "_eventsIntro", "d8/d29/a13001.html#a7e3fb2f93d36789d1e123a73c619de23", null ],
-    [ "_introDone", "d8/d29/a13001.html#a3d0d4ee1c9a47715e22f3567783dd11e", null ],
-    [ "HasYelled", "d8/d29/a13001.html#aa73cdc2f26c0710d5d917c4f787a1793", null ],
-    [ "m_nefariusGuid", "d8/d29/a13001.html#ae1a22491288380cb50264a51e0b624f6", null ],
-    [ "PlayerGUID", "d8/d29/a13001.html#a8ba86f17a35448edd8d98f49c7d16fa6", null ]
+    [ "boss_victor_nefarius", "d8/d29/a13001.html#a9d4a7d8fd46382e6f0f538dd426f760d", null ],
+    [ "BeginEvent", "d8/d29/a13001.html#afdd6dfe4ad32135f8aeaa2e9963ccaf4", null ],
+    [ "DoAction", "d8/d29/a13001.html#ad6d5d43db3e2abbc1ca9cf796e94f6fe", null ],
+    [ "Initialize", "d8/d29/a13001.html#a9af31a337899d1fc089db542c9980512", null ],
+    [ "JustDied", "d8/d29/a13001.html#a2ff548e6fd5df2877772e425d9354415", null ],
+    [ "JustReachedHome", "d8/d29/a13001.html#a49eecb765afd0ad88bbe93ca664d67cc", null ],
+    [ "JustSummoned", "d8/d29/a13001.html#aac1786270619ae0a40d5bc20e036b34e", null ],
+    [ "Reset", "d8/d29/a13001.html#aac8e08f7c731890edfdf9664873ec83c", null ],
+    [ "SetData", "d8/d29/a13001.html#adfdcaeb8047b728eeee28b32136d02ab", null ],
+    [ "sGossipSelect", "d8/d29/a13001.html#a238965424e584e1ed97e831ab125bc23", null ],
+    [ "SummonedCreatureDies", "d8/d29/a13001.html#a97f23bbb8ee7fa322bde2c3c36ef2083", null ],
+    [ "UpdateAI", "d8/d29/a13001.html#a782353216a18dda7c0afb6c1d2fa9e6a", null ],
+    [ "_killedAdds", "d8/d29/a13001.html#a17528d290fc57596969d4ac8020d0520", null ],
+    [ "_nefarianLeftTunnel", "d8/d29/a13001.html#a7b6018c7b8b7d8080ffb90f99c732090", null ],
+    [ "_nefarianRightTunnel", "d8/d29/a13001.html#a22a9f85d12a129db428ef63fd4f4c6db", null ]
 ];

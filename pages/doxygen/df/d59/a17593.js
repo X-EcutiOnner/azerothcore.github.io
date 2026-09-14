@@ -1,14 +1,6 @@
 var a17593 =
 [
-    [ "boss_drakkari_colossusAI", "df/d59/a17593.html#a28594cf76c5b1977a4f70ba0c3811646", null ],
-    [ "DoAction", "df/d59/a17593.html#a8e72a38f6a605cafa2667ca585cf0761", null ],
-    [ "JustReachedHome", "df/d59/a17593.html#a93f73f204d07b4805f4a7dd240a96d13", null ],
-    [ "JustSummoned", "df/d59/a17593.html#ab58d286bb6f0ea94c2eb70e52e513ad4", null ],
-    [ "MoveInLineOfSight", "df/d59/a17593.html#ae1151f6fc9f9ca011a7d476f7d1c6927", null ],
-    [ "Reset", "df/d59/a17593.html#a5e9c6da15df58a206533a7c718056c3e", null ],
-    [ "ScheduleTasks", "df/d59/a17593.html#afefbba70f93142110dcf9d7940d91d2c", null ],
-    [ "SummonedCreatureDespawn", "df/d59/a17593.html#a58658947c4fc115ea9c1d6f1edd1332e", null ],
-    [ "SummonedCreatureDies", "df/d59/a17593.html#a59f9efbc2964eec057606d69458b4402", null ],
-    [ "UpdateAI", "df/d59/a17593.html#afc816b7d1c2705675560ddd13ecce22d", null ],
-    [ "_secondEmerge", "df/d59/a17593.html#a2e97f8f1f5c53efba04afc213f410870", null ]
+    [ "npc_pos_freed_slaveAI", "df/d59/a17593.html#ad5728e427f9f4a65cea13ec2c5a01453", null ],
+    [ "CanAIAttack", "df/d59/a17593.html#a76818ee5fcfcc5678fa9d0957a424d9b", null ],
+    [ "EnterEvadeMode", "df/d59/a17593.html#a234135e6bea0d91611fbdbae4dec2ea1", null ]
 ];

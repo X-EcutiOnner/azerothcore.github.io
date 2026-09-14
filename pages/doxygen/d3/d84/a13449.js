@@ -1,6 +1,7 @@
 var a13449 =
 [
-    [ "boss_kagani_nightstrike", "d3/d84/a13449.html#aeb4cfab6c4caafcf64d5e54cf481fd6a", null ],
-    [ "JustEngagedWith", "d3/d84/a13449.html#aba5ca4ce6fe6b39bb85aadddbcd9891e", null ],
-    [ "MovementInform", "d3/d84/a13449.html#af1010b7aa7434a92f1168eceda47cc2e", null ]
+    [ "HandleDummy", "d3/d84/a13449.html#a02b89ff0a3ea53bb2740c7deb51279c2", null ],
+    [ "PrepareSpellScript", "d3/d84/a13449.html#a55a794dbaf76a549bd11fbe2a2432609", null ],
+    [ "Register", "d3/d84/a13449.html#a17784359e300e9d66c0c22bc5e7b6f6c", null ],
+    [ "Validate", "d3/d84/a13449.html#af12eb55064f7f1f1063ec0ce2863bc57", null ]
 ];

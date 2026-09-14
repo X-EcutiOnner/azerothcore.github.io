@@ -1,6 +1,8 @@
 var a22781 =
 [
-    [ "PrepareSpellScript", "d1/dc4/a22781.html#ad8640f1c01d64f8bbca16e0b636f7f21", null ],
-    [ "Register", "d1/dc4/a22781.html#aa41700bf097963c5a352442723181037", null ],
-    [ "SelectTarget", "d1/dc4/a22781.html#a15d790b134de8a8c7497ee8d0a6217ba", null ]
+    [ "npc_yor", "d1/dc4/a22781.html#a43ed8720d06c035085d481dbe6539dca", null ],
+    [ "JustEngagedWith", "d1/dc4/a22781.html#a74d5cd95b98a2057f78ee9e9b12aec42", null ],
+    [ "Reset", "d1/dc4/a22781.html#aa698540b646fd870b33afbaf19ddbe07", null ],
+    [ "UpdateAI", "d1/dc4/a22781.html#a46a2cf8ff94b830348641d94e3d9cd57", null ],
+    [ "_scheduler", "d1/dc4/a22781.html#a4ce1e1558c9b8aa5d50b1df1a903d776", null ]
 ];

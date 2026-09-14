@@ -1,7 +1,8 @@
 var a10117 =
 [
-    [ "LootGroupInvalidSelector", "dd/d23/a10117.html#abea815e8ee0d31cc64b3fd7f46033cca", null ],
-    [ "operator()", "dd/d23/a10117.html#a2ea426fdeced03324c4a63184c2c1fc4", null ],
-    [ "_loot", "dd/d23/a10117.html#a67b9d223426512af79bbf5b035c18a6d", null ],
-    [ "_lootMode", "dd/d23/a10117.html#a10e307846a0731aa812388c29c0d4bc8", null ]
+    [ "InstResetEvent", "dd/d23/a10117.html#aefa8f2b1b2cf29ad3472712278741fa4", null ],
+    [ "InstResetEvent", "dd/d23/a10117.html#af6f80b924e52cd5296d21f4a5d1374c2", null ],
+    [ "difficulty", "dd/d23/a10117.html#a67afe513dd42370ac4bb385a7128a324", null ],
+    [ "mapid", "dd/d23/a10117.html#ad02e00b2782304fbd75973fe58eefd33", null ],
+    [ "type", "dd/d23/a10117.html#ad211513c7ed39269d464190398dabaed", null ]
 ];

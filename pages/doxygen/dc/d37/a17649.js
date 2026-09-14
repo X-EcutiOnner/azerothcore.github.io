@@ -1,12 +1,14 @@
 var a17649 =
 [
-    [ "boss_moorabiAI", "dc/d37/a17649.html#a60a03c3840a3743719996929d2ca9e59", null ],
-    [ "EnterEvadeMode", "dc/d37/a17649.html#a7b77a6da820e9b3be80c94a37fe07db4", null ],
-    [ "JustDied", "dc/d37/a17649.html#a6d866bf54dc06e4f20eb4d62ea97928a", null ],
-    [ "JustEngagedWith", "dc/d37/a17649.html#a1fa46ac21b28ff49382c7389a46fad75", null ],
-    [ "KilledUnit", "dc/d37/a17649.html#a265855d2972e534e927bfa609fbf2cf5", null ],
-    [ "Reset", "dc/d37/a17649.html#a9daf89ed0f4e5795cafc63a6a81e5d1d", null ],
-    [ "SpellHitTarget", "dc/d37/a17649.html#af1f30a0f3bf0f88725f8a146c528b77a", null ],
-    [ "UpdateAI", "dc/d37/a17649.html#a9f9956aaaa60d5d0005a55a87d0424eb", null ],
-    [ "events2", "dc/d37/a17649.html#a02a3bc20ca7b1b750bfd1bd29f093dd2", null ]
+    [ "boss_drakkari_colossusAI", "dc/d37/a17649.html#a28594cf76c5b1977a4f70ba0c3811646", null ],
+    [ "DoAction", "dc/d37/a17649.html#a8e72a38f6a605cafa2667ca585cf0761", null ],
+    [ "JustReachedHome", "dc/d37/a17649.html#a93f73f204d07b4805f4a7dd240a96d13", null ],
+    [ "JustSummoned", "dc/d37/a17649.html#ab58d286bb6f0ea94c2eb70e52e513ad4", null ],
+    [ "MoveInLineOfSight", "dc/d37/a17649.html#ae1151f6fc9f9ca011a7d476f7d1c6927", null ],
+    [ "Reset", "dc/d37/a17649.html#a5e9c6da15df58a206533a7c718056c3e", null ],
+    [ "ScheduleTasks", "dc/d37/a17649.html#afefbba70f93142110dcf9d7940d91d2c", null ],
+    [ "SummonedCreatureDespawn", "dc/d37/a17649.html#a58658947c4fc115ea9c1d6f1edd1332e", null ],
+    [ "SummonedCreatureDies", "dc/d37/a17649.html#a59f9efbc2964eec057606d69458b4402", null ],
+    [ "UpdateAI", "dc/d37/a17649.html#afc816b7d1c2705675560ddd13ecce22d", null ],
+    [ "_secondEmerge", "dc/d37/a17649.html#a2e97f8f1f5c53efba04afc213f410870", null ]
 ];

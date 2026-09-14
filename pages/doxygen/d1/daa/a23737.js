@@ -1,6 +1,6 @@
 var a23737 =
 [
-    [ "boss_porung", "d1/daa/a23737.html#acef31010461bbf716ac9b13d950807ee", null ],
-    [ "JustDied", "d1/daa/a23737.html#ac5c36f875692f49d1d0195694d85e5c1", null ],
-    [ "JustEngagedWith", "d1/daa/a23737.html#a9d44f51e4710e01bdc7d345ff3bba9dc", null ]
+    [ "instance_hellfire_ramparts_InstanceMapScript", "d3/d37/a23741.html", "d3/d37/a23741" ],
+    [ "instance_hellfire_ramparts", "d1/daa/a23737.html#ab6ee671123dd0d736e9745e45e04b8da", null ],
+    [ "GetInstanceScript", "d1/daa/a23737.html#a6f2dc361984b33c1d14d62d67a563e8d", null ]
 ];

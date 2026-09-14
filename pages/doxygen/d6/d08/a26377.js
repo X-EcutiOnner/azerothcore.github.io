@@ -1,8 +1,8 @@
 var a26377 =
 [
-    [ "AfterApply", "d6/d08/a26377.html#a972d3ec2a26bbf93e47f696f44ff22b0", null ],
-    [ "AfterRemove", "d6/d08/a26377.html#a29d4dbe7d36d256cf89fdde1bbabac85", null ],
-    [ "PrepareAuraScript", "d6/d08/a26377.html#a1e44672c1f47dbd8e57f7653d905e3e6", null ],
-    [ "Register", "d6/d08/a26377.html#a293ea418e290d96bbcaaed24cad663b0", null ],
-    [ "Validate", "d6/d08/a26377.html#aa67afc85c142006efad986859f14941c", null ]
+    [ "CheckQuest", "d6/d08/a26377.html#ab7ebff0894832ac009cda89b7c28e252", null ],
+    [ "HandleDummy", "d6/d08/a26377.html#a365df14504a54e95e7d68d22a284e441", null ],
+    [ "HandleOpenObject", "d6/d08/a26377.html#a69467afd49dc2429b8ba9640c8af5dfa", null ],
+    [ "PrepareSpellScript", "d6/d08/a26377.html#a479e313031a2e71473238d8f645bf2d4", null ],
+    [ "Register", "d6/d08/a26377.html#a70f1a91e611cc2092aad44a909cd53db", null ]
 ];

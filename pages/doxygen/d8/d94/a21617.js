@@ -1,7 +1,7 @@
 var a21617 =
 [
-    [ "HandleScriptEffect", "d8/d94/a21617.html#a0c6b2f8713f59b3048224f0cb7786913", null ],
-    [ "PrepareSpellScript", "d8/d94/a21617.html#adf4c5fb99c1ea11c984bffd9b54ee7ce", null ],
-    [ "Register", "d8/d94/a21617.html#acef977e377c9d6e638056223256da4ef", null ],
-    [ "Validate", "d8/d94/a21617.html#aaecfe98d6c72c2675bf83d586588dbc0", null ]
+    [ "npc_azure_binder", "d8/d94/a21617.html#ae273e78765faeb3e9604b7ce89ef6e6c", null ],
+    [ "Reset", "d8/d94/a21617.html#a0a11617ac11bf6aacacc3b36ce90fdca", null ],
+    [ "UpdateAI", "d8/d94/a21617.html#add9f304212a1a10267e564cd939f3751", null ],
+    [ "_events", "d8/d94/a21617.html#a0026fdd57e09f02b46010d696bb0a5da", null ]
 ];

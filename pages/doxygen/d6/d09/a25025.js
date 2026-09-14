@@ -1,6 +1,8 @@
 var a25025 =
 [
-    [ "HandleHeal", "d6/d09/a25025.html#a682a496d59201774de50951ffd2c7c0d", null ],
-    [ "PrepareSpellScript", "d6/d09/a25025.html#a10dd1c0f67ff07f8e35ba0322c934899", null ],
-    [ "Register", "d6/d09/a25025.html#abc29f509e703f3807241b63f728a69af", null ]
+    [ "CheckProc", "d6/d09/a25025.html#a44d845f5cbfaf0fd33409ffd16fd4396", null ],
+    [ "HandleProc", "d6/d09/a25025.html#a946cb56cf0a525c0a44b638b28e5b3ad", null ],
+    [ "PrepareAuraScript", "d6/d09/a25025.html#a01c53cd13316af74cfe27603e70ab468", null ],
+    [ "Register", "d6/d09/a25025.html#a5bb2ca31f2e4477640578a305593bcb3", null ],
+    [ "Validate", "d6/d09/a25025.html#a307274a8f4e55ad15efc08711a7b8e8f", null ]
 ];

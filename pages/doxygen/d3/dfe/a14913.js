@@ -1,8 +1,5 @@
 var a14913 =
 [
-    [ "CalcPeriodic", "d3/dfe/a14913.html#ae2ce9c161a25385c6de1f4b7607c9935", null ],
-    [ "HandleEffectApply", "d3/dfe/a14913.html#a4321da69ee59416bd50e621b804e5423", null ],
-    [ "HandleEffectPeriodicUpdate", "d3/dfe/a14913.html#a3f23e4a8fecf83ba580c904f15e1e98b", null ],
-    [ "PrepareAuraScript", "d3/dfe/a14913.html#a956136be8cb484efc9af2429d8779a03", null ],
-    [ "Register", "d3/dfe/a14913.html#a1d4b1c43305b3133e4ac7f8b6ce70727", null ]
+    [ "npc_grizzlemaw_cw_triggerAI", "d3/dfe/a14913.html#a40207493c75d8a63284e08f1f75d56c4", null ],
+    [ "MoveInLineOfSight", "d3/dfe/a14913.html#aef49ccdae1aff20fc469f0aa2663d8af", null ]
 ];

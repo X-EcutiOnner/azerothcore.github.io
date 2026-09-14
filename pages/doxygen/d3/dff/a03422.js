@@ -1,41 +1,45 @@
 var a03422 =
 [
-    [ "AzjolNerubScriptName", "d3/dff/a03422.html#a49c3c3627ce229fce6b1f55755bcb7d7", null ],
+    [ "AhnKahetScriptName", "d3/dff/a03422.html#a506431ce00265fd3122a043804560c86", null ],
     [ "DataHeader", "d3/dff/a03422.html#a042491ef36459046f3866e90f15aae0d", null ],
-    [ "RegisterAzjolNerubCreatureAI", "d3/dff/a03422.html#a4a60f3abea9a1edadc00e60726067bba", null ],
-    [ "ANActions", "d3/dff/a03422.html#a353c804af4bd1bd2a5d5193704607689", [
-      [ "ACTION_MINION_DIED", "d3/dff/a03422.html#a353c804af4bd1bd2a5d5193704607689a185e4f622f3b411d7980209389e63777", null ]
+    [ "RegisterAhnKahetCreatureAI", "d3/dff/a03422.html#aa9d11f00daa1d5fe3fccebf717ab93f6", null ],
+    [ "AhnKahetActions", "d3/dff/a03422.html#ab602224ee107d47ea7a8fd34e7e11dcf", [
+      [ "ACTION_REMOVE_PRISON", "d3/dff/a03422.html#ab602224ee107d47ea7a8fd34e7e11dcfa16fb04e016b069c88508a114006910a8", null ]
     ] ],
-    [ "ANData", "d3/dff/a03422.html#a38e14ca59c29a20c7d83feecae87365e", [
-      [ "DATA_KRIKTHIR", "d3/dff/a03422.html#a38e14ca59c29a20c7d83feecae87365ea3bacd16bf3df8653050917f211e9864c", null ],
-      [ "DATA_HADRONOX", "d3/dff/a03422.html#a38e14ca59c29a20c7d83feecae87365ea6d7d08974da7d4efcc668201b62787b8", null ],
-      [ "DATA_ANUBARAK", "d3/dff/a03422.html#a38e14ca59c29a20c7d83feecae87365ea635a7e23dc02368d27e70d3dd833bdbf", null ],
-      [ "MAX_ENCOUNTERS", "d3/dff/a03422.html#a38e14ca59c29a20c7d83feecae87365ea9cfa5bdc17e1d5a590d300b530b36a25", null ],
-      [ "DATA_GASHRA", "d3/dff/a03422.html#a38e14ca59c29a20c7d83feecae87365ea1a73c13c178a2320b1f47ff2f992649f", null ],
-      [ "DATA_NARJIL", "d3/dff/a03422.html#a38e14ca59c29a20c7d83feecae87365ea2d61b5fd45428eb96d2ecd538da08fb6", null ],
-      [ "DATA_SILTHIK", "d3/dff/a03422.html#a38e14ca59c29a20c7d83feecae87365ea8cfb18f4044960fc20ceb21676d64eb2", null ]
+    [ "AhnKahetCreatures", "d3/dff/a03422.html#a0a7022dbeba8e4c5922bca61c1ac6be0", [
+      [ "NPC_ELDER_NADOX", "d3/dff/a03422.html#a0a7022dbeba8e4c5922bca61c1ac6be0adefb6eeafb4e1c648ef5431666cee303", null ],
+      [ "NPC_PRINCE_TALDARAM", "d3/dff/a03422.html#a0a7022dbeba8e4c5922bca61c1ac6be0ae7602060d95905d39d735be974c99c5f", null ],
+      [ "NPC_JEDOGA_SHADOWSEEKER", "d3/dff/a03422.html#a0a7022dbeba8e4c5922bca61c1ac6be0a8f4808be30a572ba6dc967dde518e092", null ],
+      [ "NPC_HERALD_VOLAZJ", "d3/dff/a03422.html#a0a7022dbeba8e4c5922bca61c1ac6be0a5c1e93f3700ea72caa137ad6848e3c85", null ],
+      [ "NPC_AMANITAR", "d3/dff/a03422.html#a0a7022dbeba8e4c5922bca61c1ac6be0a34c1714ae003f663cb2b8951810d661f", null ],
+      [ "NPC_JEDOGA_CONTROLLER", "d3/dff/a03422.html#a0a7022dbeba8e4c5922bca61c1ac6be0acf6f2f93580795c52ed4700df297d549", null ],
+      [ "NPC_TWILIGHT_WORSHIPPER", "d3/dff/a03422.html#a0a7022dbeba8e4c5922bca61c1ac6be0ab0141026243071cdda0cc9e51f1e1c99", null ]
     ] ],
-    [ "ANIds", "d3/dff/a03422.html#a13c2be6ee4ddd01bcdde2acfa66080eb", [
-      [ "NPC_WATCHER_NARJIL", "d3/dff/a03422.html#a13c2be6ee4ddd01bcdde2acfa66080ebac6d1845d4f2671edf7f06681bfacf66f", null ],
-      [ "NPC_WATCHER_GASHRA", "d3/dff/a03422.html#a13c2be6ee4ddd01bcdde2acfa66080eba59e8c7ae56d3d0267c69c0e2e39b5cc8", null ],
-      [ "NPC_WATCHER_SILTHIK", "d3/dff/a03422.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf4f603f77d6847952388c5dce5d0de08", null ],
-      [ "NPC_ANUBAR_SKIRMISHER", "d3/dff/a03422.html#a13c2be6ee4ddd01bcdde2acfa66080ebaab6881c6b204dd808545bca2050e3fcf", null ],
-      [ "NPC_ANUBAR_SHADOWCASTER", "d3/dff/a03422.html#a13c2be6ee4ddd01bcdde2acfa66080ebacc327c02c47a2a2ad6994c7c87132127", null ],
-      [ "NPC_ANUBAR_WARRIOR", "d3/dff/a03422.html#a13c2be6ee4ddd01bcdde2acfa66080eba0e94bdd3b8ef0aba807bba8e440a07ca", null ],
-      [ "NPC_SKITTERING_SWARMER", "d3/dff/a03422.html#a13c2be6ee4ddd01bcdde2acfa66080eba9bed6273aaeebfba195695ffaccff429", null ],
-      [ "NPC_SKITTERING_INFECTIOR", "d3/dff/a03422.html#a13c2be6ee4ddd01bcdde2acfa66080ebaade67b0305f29a278aeb81b4317cd58b", null ],
-      [ "NPC_KRIKTHIR_THE_GATEWATCHER", "d3/dff/a03422.html#a13c2be6ee4ddd01bcdde2acfa66080eba9a8e964886187a715fc6d9e12652b582", null ],
-      [ "NPC_HADRONOX", "d3/dff/a03422.html#a13c2be6ee4ddd01bcdde2acfa66080ebadb575f56f42e4d47c262ab2dfd220c8a", null ],
-      [ "NPC_ANUBARAK", "d3/dff/a03422.html#a13c2be6ee4ddd01bcdde2acfa66080eba9ccdc8bccffd48df50721fc98c1b6bc3", null ],
-      [ "NPC_WORLD_TRIGGER_LAOI", "d3/dff/a03422.html#a13c2be6ee4ddd01bcdde2acfa66080eba8ad05c18f75770b596b6a87987d4ecdd", null ],
-      [ "NPC_ANUB_AR_CHAMPION", "d3/dff/a03422.html#a13c2be6ee4ddd01bcdde2acfa66080eba43c41eeac44b6c1e9a8f5f60faf047cc", null ],
-      [ "NPC_ANUB_AR_NECROMANCER", "d3/dff/a03422.html#a13c2be6ee4ddd01bcdde2acfa66080eba85576368648a94fdc7883c9b73fe6fea", null ],
-      [ "NPC_ANUB_AR_CRYPTFIEND", "d3/dff/a03422.html#a13c2be6ee4ddd01bcdde2acfa66080eba145b39b904161cf071df0d8136bb855c", null ],
-      [ "GO_KRIKTHIR_DOORS", "d3/dff/a03422.html#a13c2be6ee4ddd01bcdde2acfa66080eba9c746a2553132cc145054c043a2fe64b", null ],
-      [ "GO_ANUBARAK_DOORS1", "d3/dff/a03422.html#a13c2be6ee4ddd01bcdde2acfa66080ebadf4da3d7a3b1a8ab02f2e587fd9a2316", null ],
-      [ "GO_ANUBARAK_DOORS2", "d3/dff/a03422.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf614c816cc31f5a04d07c0c8a30274dc", null ],
-      [ "GO_ANUBARAK_DOORS3", "d3/dff/a03422.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf1d64fad51ac6f98962bbdac3b4a47e0", null ],
-      [ "SPELL_WEB_WRAP_TRIGGER", "d3/dff/a03422.html#a13c2be6ee4ddd01bcdde2acfa66080eba5de2c77a1e59e329fcfa4828043c428b", null ]
+    [ "AhnkahetData", "d3/dff/a03422.html#aff905f3bb30004af8919ddfe3d29e8dd", [
+      [ "DATA_ELDER_NADOX", "d3/dff/a03422.html#aff905f3bb30004af8919ddfe3d29e8dda770adca9032e015945b302877eea180f", null ],
+      [ "DATA_PRINCE_TALDARAM", "d3/dff/a03422.html#aff905f3bb30004af8919ddfe3d29e8ddaaedbd25489af19057ce8227250867ce0", null ],
+      [ "DATA_JEDOGA_SHADOWSEEKER", "d3/dff/a03422.html#aff905f3bb30004af8919ddfe3d29e8dda5898d17f647609f063f3a809dc2fec66", null ],
+      [ "DATA_HERALD_VOLAZJ", "d3/dff/a03422.html#aff905f3bb30004af8919ddfe3d29e8dda30b8528fb302a8f32b4db9e72b4889e5", null ],
+      [ "DATA_AMANITAR", "d3/dff/a03422.html#aff905f3bb30004af8919ddfe3d29e8dda7146f172ca0fe8e80c667a510874a94f", null ],
+      [ "DATA_PRINCE_TALDARAM_PLATFORM", "d3/dff/a03422.html#aff905f3bb30004af8919ddfe3d29e8dda75ab4b9865126fdcf77107ef317fe7cc", null ]
     ] ],
-    [ "GetAzjolNerubAI", "d3/dff/a03422.html#a19b3f42ba299e1f42de805f494cd5812", null ]
+    [ "AhnkahetObjects", "d3/dff/a03422.html#a497b1d427e80ac610cd1cc5e3bc2a02f", [
+      [ "GO_TELDARAM_DOOR", "d3/dff/a03422.html#a497b1d427e80ac610cd1cc5e3bc2a02fa597526245130273d3e77a1e411a81811", null ],
+      [ "GO_TELDARAM_SPHERE1", "d3/dff/a03422.html#a497b1d427e80ac610cd1cc5e3bc2a02fa4586ff1377f4e4c184e57a56e7f962ed", null ],
+      [ "GO_TELDARAM_SPHERE2", "d3/dff/a03422.html#a497b1d427e80ac610cd1cc5e3bc2a02fa637eb0aff225b388e0c611a9cbccd03e", null ],
+      [ "GO_TELDARAM_PLATFORM", "d3/dff/a03422.html#a497b1d427e80ac610cd1cc5e3bc2a02fa9ae027e64960ba5d20a93c5123469e74", null ]
+    ] ],
+    [ "AhnKahetPersistentData", "d3/dff/a03422.html#acc056f2f7be3fe09395716ca57e7c7f3", [
+      [ "DATA_TELDRAM_SPHERE1", "d3/dff/a03422.html#acc056f2f7be3fe09395716ca57e7c7f3a748636fe536f29e09b02edcebc095d56", null ],
+      [ "DATA_TELDRAM_SPHERE2", "d3/dff/a03422.html#acc056f2f7be3fe09395716ca57e7c7f3aa71df9961714e4f37168c84236d3ca51", null ],
+      [ "MAX_PERSISTENT_DATA", "d3/dff/a03422.html#acc056f2f7be3fe09395716ca57e7c7f3ade8daf2d97d89b7bc637c9b5550e0449", null ]
+    ] ],
+    [ "AhnkahetSpells", "d3/dff/a03422.html#a04c8c0beb3d5fd05b695be78e77cfe8d", [
+      [ "SPELL_SHADOW_SICKLE", "d3/dff/a03422.html#a04c8c0beb3d5fd05b695be78e77cfe8dacf16c95dd7397632ddf94f2d9f3c3c39", null ]
+    ] ],
+    [ "AhnKahetTexts", "d3/dff/a03422.html#ad2ad73bb93c442e3d70b9efad1b6c305", [
+      [ "SAY_SPHERE_ACTIVATED", "d3/dff/a03422.html#ad2ad73bb93c442e3d70b9efad1b6c305aea5e4c72402492816a8bafad5323cff8", null ]
+    ] ],
+    [ "GetAhnKahetAI", "d3/dff/a03422.html#a7d67882176cbe7ff747f0bb785985b00", null ],
+    [ "MAX_ENCOUNTER", "d3/dff/a03422.html#a42b654ad1177faa1b68541d8c6ca1fae", null ]
 ];

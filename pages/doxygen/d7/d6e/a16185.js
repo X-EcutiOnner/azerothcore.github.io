@@ -1,13 +1,13 @@
 var a16185 =
 [
-    [ "npc_wizzlecrank_shredderAI", "d7/d6e/a16185.html#a055c4b426219aa3372a83d2e2021d916", null ],
-    [ "JustSummoned", "d7/d6e/a16185.html#a7cad21f0b3286ed75256a49c315069ce", null ],
-    [ "Reset", "d7/d6e/a16185.html#a86929e8a2f3433f37e4dda03e3011193", null ],
-    [ "UpdateEscortAI", "d7/d6e/a16185.html#acb95eeebd0317f1d95bc48d6b9e7e962", null ],
-    [ "WaypointReached", "d7/d6e/a16185.html#a369ae3d62d1289a1c840bdc3184b463d", null ],
-    [ "WaypointReached", "d7/d6e/a16185.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "WaypointStart", "d7/d6e/a16185.html#a00857e372e53950338ed71d672edb780", null ],
-    [ "IsPostEvent", "d7/d6e/a16185.html#a9207ffdb39627b1262ec209fe41d6d0a", null ],
-    [ "PostEventCount", "d7/d6e/a16185.html#aa5284a284c074f32cee85d29aea00f2f", null ],
-    [ "PostEventTimer", "d7/d6e/a16185.html#a3c43ede2df7b1ea61b0f1625e2e1461c", null ]
+    [ "npc_aquementasAI", "d7/d6e/a16185.html#aad63986cdb8a65c528af3ccd114d2041", null ],
+    [ "JustEngagedWith", "d7/d6e/a16185.html#a2c12ee9c0bb94a1fcfa23c4279aea72f", null ],
+    [ "Reset", "d7/d6e/a16185.html#af71a196ba667c2a8f05940ec7ec43b5e", null ],
+    [ "SendItem", "d7/d6e/a16185.html#a60bafbd70783411236dcf3d0bfe244de", null ],
+    [ "UpdateAI", "d7/d6e/a16185.html#adc5936d7648e05c98a2cdc9998aa4c6a", null ],
+    [ "AquaJetTimer", "d7/d6e/a16185.html#a8506acc69436af869d1404bd95109e68", null ],
+    [ "FrostShockTimer", "d7/d6e/a16185.html#ad52c62a0fd8de98b194596dbc998c03d", null ],
+    [ "isFriendly", "d7/d6e/a16185.html#a9ac02cfc998bda26a5c531a9f7dbf7c4", null ],
+    [ "SendItemTimer", "d7/d6e/a16185.html#a3a0883b43056b176ef2ae55673adacf3", null ],
+    [ "SwitchFactionTimer", "d7/d6e/a16185.html#a46f64b9883ae30c3f8d677a3b85a8c6f", null ]
 ];

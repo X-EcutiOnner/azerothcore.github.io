@@ -1,7 +1,8 @@
 var a27853 =
 [
-    [ "HandleProc", "d0/d90/a27853.html#a79bcdad48c19c0db70960552f6b4e2d3", null ],
-    [ "PrepareAuraScript", "d0/d90/a27853.html#a760f228c118e9a89a3adc2767290f6f5", null ],
-    [ "Register", "d0/d90/a27853.html#ace2673bc17210f349e47586c0e626dc5", null ],
-    [ "Validate", "d0/d90/a27853.html#acdc499d8cae2de0edcfd2c19319e0175", null ]
+    [ "CheckProc", "d0/d90/a27853.html#afcda3b112699e108e2db6270836fce1b", null ],
+    [ "OnProc", "d0/d90/a27853.html#ab953f817368120933828d6b3e5e200c0", null ],
+    [ "PrepareAuraScript", "d0/d90/a27853.html#a33381b811abcd52f7a57e0f62fa73e5f", null ],
+    [ "Register", "d0/d90/a27853.html#abfdd5179215432a3e89ea7b498d49867", null ],
+    [ "Validate", "d0/d90/a27853.html#a19e8f1b9aab5ee4e718b304c87303627", null ]
 ];

@@ -1,12 +1,6 @@
 var a19341 =
 [
-    [ "npc_icc_nerubar_broodkeeperAI", "d8/d68/a19341.html#a2e3abb6f8889b8df818e8260e6428375", null ],
-    [ "InitializeAI", "d8/d68/a19341.html#ac39bb8074ebb7106b426f507b73b368e", null ],
-    [ "JustEngagedWith", "d8/d68/a19341.html#ae69a8fd357856d0ec6a944ca8c0007ca", null ],
-    [ "MoveInLineOfSight", "d8/d68/a19341.html#a846fe2784308eb694f5f482133a33a7f", null ],
-    [ "MovementInform", "d8/d68/a19341.html#a9a5584eea4bc08f55ddfd7efe23bce2e", null ],
-    [ "Reset", "d8/d68/a19341.html#afbb260e4968865e7c4141e73a050e663", null ],
-    [ "UpdateAI", "d8/d68/a19341.html#ad63d3a91bdd677a9cdd497198860cac6", null ],
-    [ "_didWebBeam", "d8/d68/a19341.html#a8772cf938d30ddcc439d3912db578dfa", null ],
-    [ "events", "d8/d68/a19341.html#ac1b5b05f9fbaf1879c95bc7127fcb6e9", null ]
+    [ "npc_icc_skybreaker_vicarAI", "d6/d71/a19345.html", "d6/d71/a19345" ],
+    [ "npc_icc_skybreaker_vicar", "d8/d68/a19341.html#a40451cc6fba0cae59e47fa38e4fb79d3", null ],
+    [ "GetAI", "d8/d68/a19341.html#a6884bb7e54b78abee0cc995c4fbb501d", null ]
 ];

@@ -1,7 +1,7 @@
 var a25457 =
 [
-    [ "CalculateAmount", "d2/d38/a25457.html#a074a7de6cd4d930c1f23f6398c738bad", null ],
-    [ "Load", "d2/d38/a25457.html#a777803a61286e0eba31246d4771630df", null ],
-    [ "PrepareAuraScript", "d2/d38/a25457.html#ab76bc3927d3ce31ae061fe8577ca25f0", null ],
-    [ "Register", "d2/d38/a25457.html#a335e1629b98bfacf6e4e565b94d4991e", null ]
+    [ "CheckIfLanceEquipped", "d2/d38/a25457.html#aae1fe4d0329b7a2db5e4f2a28e3f04c5", null ],
+    [ "PrepareSpellScript", "d2/d38/a25457.html#a2af9ee2ccd34c97734c58bfcbb83c8b5", null ],
+    [ "Register", "d2/d38/a25457.html#a4421ceaedce16777f8f04b9c40855782", null ],
+    [ "Validate", "d2/d38/a25457.html#ab0908d7a15e7554c735d8e5554f7cd65", null ]
 ];

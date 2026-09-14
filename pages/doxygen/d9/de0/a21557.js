@@ -1,7 +1,11 @@
 var a21557 =
 [
-    [ "npc_azure_mage_slayer", "d9/de0/a21557.html#a8f537bf85f7d50dda0f3e2e9cb7bd293", null ],
-    [ "Reset", "d9/de0/a21557.html#ad760e69d3246117726b2a2e066e6c5ce", null ],
-    [ "UpdateAI", "d9/de0/a21557.html#a412a23b56efad90af180dee17f9f2be3", null ],
-    [ "_events", "d9/de0/a21557.html#aadb7b09a9fbdd9ca8f04ba38e79901b3", null ]
+    [ "boss_erekem", "d9/de0/a21557.html#a32a7d3b83f201bd77423da1a98e742ae", null ],
+    [ "EnterEvadeMode", "d9/de0/a21557.html#a3d946004c120c6daec6565e7ba815fa1", null ],
+    [ "ExecuteEvent", "d9/de0/a21557.html#a24100918d900f974144f94f399e429b3", null ],
+    [ "GetChainHealTargetGuid", "d9/de0/a21557.html#a809a25ac441f1ef1c60273ac1094a3b2", null ],
+    [ "JustDied", "d9/de0/a21557.html#a23ce09bbe023ebab5dbe1bf26cd84c7a", null ],
+    [ "JustEngagedWith", "d9/de0/a21557.html#a82faaeb00a41745d331f97037e5b4800", null ],
+    [ "KilledUnit", "d9/de0/a21557.html#acaa92e69b5d4ff536d8a0a3e965a93d5", null ],
+    [ "MoveInLineOfSight", "d9/de0/a21557.html#ad89c95919671fd1ae2656ed468ee022a", null ]
 ];

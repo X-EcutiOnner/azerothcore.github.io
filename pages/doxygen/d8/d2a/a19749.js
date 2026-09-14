@@ -1,7 +1,5 @@
 var a19749 =
 [
-    [ "HandleScript", "d8/d2a/a19749.html#a8e54c3526406fcb6963667c05b5f2cce", null ],
-    [ "Load", "d8/d2a/a19749.html#a94661c7652572b1671a611b35c8f68a7", null ],
-    [ "PrepareSpellScript", "d8/d2a/a19749.html#a269f558a231a4c9af55a54c6c7090d1b", null ],
-    [ "Register", "d8/d2a/a19749.html#a09352bd458fe3dbeacea38c5104656ff", null ]
+    [ "at_thaddius_entrance", "d8/d2a/a19749.html#ad81a60cac337baad82ea526de1d151d1", null ],
+    [ "_OnTrigger", "d8/d2a/a19749.html#a5e8954c265ead9ab5347b8921e5bd1bb", null ]
 ];

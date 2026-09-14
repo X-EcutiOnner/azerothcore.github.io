@@ -1,6 +1,8 @@
 var a28065 =
 [
-    [ "achievement_arena_by_type", "db/d37/a28065.html#a2042c808304e8ddf1849820491b9f1a3", null ],
-    [ "OnCheck", "db/d37/a28065.html#abebdbf19fbf1b79c30114a9cf4ff98a4", null ],
-    [ "_arenaType", "db/d37/a28065.html#a5c38e5fef5eaf3d037864ba2aa80584a", null ]
+    [ "CheckProc", "db/d37/a28065.html#ab9b2a87dc91e2c6031a02043e6ce4f50", null ],
+    [ "HandleEffectProc", "db/d37/a28065.html#af01d160cb2a55124361a2dd113acd0a7", null ],
+    [ "PrepareAuraScript", "db/d37/a28065.html#aeffb8490a7208ae6e32a505283afbc03", null ],
+    [ "Register", "db/d37/a28065.html#a5436413d098dde4b0fa1ed2259a47779", null ],
+    [ "Validate", "db/d37/a28065.html#ae786a8c97e9f66152b8d0b55624a4eac", null ]
 ];

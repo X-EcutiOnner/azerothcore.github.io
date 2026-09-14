@@ -1,12 +1,11 @@
 var a23081 =
 [
-    [ "boss_teron_gorefiend", "d9/deb/a23081.html#a81845f22aa383cdc57912ee9655b7bf9", null ],
-    [ "JustDied", "d9/deb/a23081.html#aa080c8d17bc51142c1cecadf7a0376a2", null ],
-    [ "JustEngagedWith", "d9/deb/a23081.html#a9f658d42cf27a54c62a71e28b5dfadee", null ],
-    [ "JustSummoned", "d9/deb/a23081.html#a71db567c5be7396add349e2f1b455a50", null ],
-    [ "KilledUnit", "d9/deb/a23081.html#a70dbf2b2a08cf915866afd51f8a74018", null ],
-    [ "Reset", "d9/deb/a23081.html#af32df2d958c618dc08d3da40b92bf3aa", null ],
-    [ "SetData", "d9/deb/a23081.html#a139c351471a3f19c7e59cf8e40913820", null ],
-    [ "UpdateAI", "d9/deb/a23081.html#a0bdd92c94adf066fdbf8ba9bcb1a1ba1", null ],
-    [ "_intro", "d9/deb/a23081.html#a99c62157084373e8eddd4497360cc047", null ]
+    [ "boss_essence_of_angerAI", "d9/deb/a23081.html#a25eed717395b4e1ca5504d2d473e2500", null ],
+    [ "DoAction", "d9/deb/a23081.html#a81576aaf465dfc99d199aaf6a182df52", null ],
+    [ "JustDied", "d9/deb/a23081.html#a997d75ad388e790f9863e1b15fa1c899", null ],
+    [ "JustEngagedWith", "d9/deb/a23081.html#a16d2b13fcf3dfa513813669b44712c4c", null ],
+    [ "KilledUnit", "d9/deb/a23081.html#a6a900f9a9dc5509c36e5bdaaaacc197d", null ],
+    [ "Reset", "d9/deb/a23081.html#ade57a575bd84e8e095b1ab5a5c81d3f6", null ],
+    [ "UpdateAI", "d9/deb/a23081.html#a67e9f5a361894aa227f2a74f9222740d", null ],
+    [ "targetGUID", "d9/deb/a23081.html#adc3867a4446375f1217809299f3dd9bb", null ]
 ];

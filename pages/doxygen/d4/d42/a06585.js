@@ -1,6 +1,10 @@
 var a06585 =
 [
-    [ "PermissibleOrderPred", "d4/d42/a06585.html#a0f99979c533fb388a2086f419c110f2b", null ],
-    [ "operator()", "d4/d42/a06585.html#a42027be1e7cb7a3589caeafea25d2f75", null ],
-    [ "_obj", "d4/d42/a06585.html#a5872cf90e79107749c4900cb471b2f16", null ]
+    [ "PowerUsersSelector", "d4/d42/a06585.html#aa13229f12601a551a34628b92c0eddf3", null ],
+    [ "operator()", "d4/d42/a06585.html#ac93e678f198787fd6691e0bb8d63d6e3", null ],
+    [ "_dist", "d4/d42/a06585.html#a1c63646bffb486c51ca07e0f8a70dd59", null ],
+    [ "_me", "d4/d42/a06585.html#a7f6dda10c26982d9633fae57b64af7ef", null ],
+    [ "_playerOnly", "d4/d42/a06585.html#aea809984a6dd46c22f414e44c9794309", null ],
+    [ "_power", "d4/d42/a06585.html#a9a518903606768e505e7230fe9344bbf", null ],
+    [ "_withTank", "d4/d42/a06585.html#a0b682b6d926ced8eecff642a4bb51756", null ]
 ];

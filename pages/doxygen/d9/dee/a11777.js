@@ -1,5 +1,12 @@
 var a11777 =
 [
-    [ "amountCounter", "d9/dee/a11777.html#af652ffc837bde625aa39e913ec2e2eec", null ],
-    [ "lastReceiveTime", "d9/dee/a11777.html#ae0f3f2a90a24b48d239e3df3525f8fdc", null ]
+    [ "PacketLog", "d9/dee/a11777.html#a75215d454393ecd3fce0ea07b5d673ee", null ],
+    [ "~PacketLog", "d9/dee/a11777.html#a595a42f9aaa94d6c46d185955df801e0", null ],
+    [ "CanLogPacket", "d9/dee/a11777.html#a322cf3a0d8707becb9dcc64548d4cce5", null ],
+    [ "Initialize", "d9/dee/a11777.html#aea6ccfd41bc147557b7c5066fe18afa6", null ],
+    [ "instance", "d9/dee/a11777.html#a484418a51ca0bf150d17b23d97979bf4", null ],
+    [ "LogPacket", "d9/dee/a11777.html#ac0323a6ac3856412b765d0b31dbbb37e", null ],
+    [ "_file", "d9/dee/a11777.html#a03346a709f7586f6445e03b9a3b6af04", null ],
+    [ "_initializeFlag", "d9/dee/a11777.html#a490cafe009f7b2ecb303a76c781f8960", null ],
+    [ "_logPacketLock", "d9/dee/a11777.html#aeffb6309ef859cbb346b15dc1fca5cbe", null ]
 ];

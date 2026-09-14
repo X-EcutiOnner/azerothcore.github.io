@@ -1,6 +1,7 @@
 var a18989 =
 [
-    [ "PeriodicTick", "db/dbf/a18989.html#ac0b2cf06027c2f658745d6a90dfc76a1", null ],
-    [ "PrepareAuraScript", "db/dbf/a18989.html#a0767ac60151517b803e871a0fcb25967", null ],
-    [ "Register", "db/dbf/a18989.html#afd1e28b224035aef5ac109f38d7e118d", null ]
+    [ "npc_valithria_portalAI", "db/dbf/a18989.html#a18c1b9d2b149fbc34a17c9e87a8c70b6", null ],
+    [ "GetData", "db/dbf/a18989.html#a598ba7930900aa211bb7e7dc12f366c0", null ],
+    [ "OnSpellClick", "db/dbf/a18989.html#a457f2725e6580d7e6f3bb0445ba796a8", null ],
+    [ "_used", "db/dbf/a18989.html#a92cc0c2aaa6add0c6c641719d6846bb3", null ]
 ];

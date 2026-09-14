@@ -1,6 +1,9 @@
 var a19353 =
 [
-    [ "npc_icc_putricades_trapAI", "d3/d36/a19357.html", "d3/d36/a19357" ],
-    [ "npc_icc_putricades_trap", "dd/dbd/a19353.html#ae022f2991fee4143fb965c53e4d4da5c", null ],
-    [ "GetAI", "dd/dbd/a19353.html#a42ab1cb27234ebd10755dbbedce5f187", null ]
+    [ "npc_icc_skybreaker_luminaryAI", "dd/dbd/a19353.html#a91868021309239f5582bb7ee89baec13", null ],
+    [ "AttackStart", "dd/dbd/a19353.html#acf8d1eaebdc68cb53866155d8aad6e48", null ],
+    [ "JustEngagedWith", "dd/dbd/a19353.html#a12927240144022174e3d190be6b34976", null ],
+    [ "Reset", "dd/dbd/a19353.html#ac925b84b81ec1d1e118f3e62edfbdd15", null ],
+    [ "UpdateAI", "dd/dbd/a19353.html#a969a36e147006971a93711349f90c193", null ],
+    [ "events", "dd/dbd/a19353.html#a8521aef674b9a295c27f7e5725af4ffe", null ]
 ];

@@ -1,6 +1,6 @@
 var a24413 =
 [
-    [ "go_ancient_skull_pile", "d9/d92/a24413.html#a53793cf5f47e812751c2e5ebfe4d1603", null ],
-    [ "OnGossipHello", "d9/d92/a24413.html#afc258eaeb7586f0f539223c21f82ea63", null ],
-    [ "OnGossipSelect", "d9/d92/a24413.html#a6d6fd73be859dc00f214796ec2f9bed2", null ]
+    [ "npc_kservantAI", "d5/d38/a24417.html", "d5/d38/a24417" ],
+    [ "npc_kservant", "d9/d92/a24413.html#af04c8a87516e41f7d35071664034af9d", null ],
+    [ "GetAI", "d9/d92/a24413.html#a3ae7327ec2ead5a2d3ffb043f18ccc09", null ]
 ];

@@ -1,12 +1,19 @@
 var a29281 =
 [
-    [ "CalendarFilterType", "db/dcb/a29281.html#a082b59a0ead8223e590cbb371f3ad122", null ],
-    [ "CalendarFlags", "db/dcb/a29281.html#a6f9cf483200ac982bab7a66ff8bef33d", null ],
-    [ "Date", "db/dcb/a29281.html#ac5b08b086ef0668508ea9da48642e95b", null ],
-    [ "Duration", "db/dcb/a29281.html#a10cae1b1fbb91930209a714c545b129b", null ],
-    [ "Id", "db/dcb/a29281.html#a1119824959b87fb312209a998a5869b1", null ],
-    [ "Looping", "db/dcb/a29281.html#afa2d93998650f88e62bfa76807961274", null ],
-    [ "Priority", "db/dcb/a29281.html#a6d82bc7a66d227f61c3be2260a3d03f5", null ],
-    [ "Region", "db/dcb/a29281.html#a96a8e5ceae0f4b0d8cc6cf3aa59802a0", null ],
-    [ "TextureFilename", "db/dcb/a29281.html#a2209ecbb78f1f467491506cc97df57e4", null ]
+    [ "FactionRespondsToCallForHelp", "db/dcb/a29281.html#af0d102e7e7ae480b2c61cf121bcd012a", null ],
+    [ "IsContestedGuardFaction", "db/dcb/a29281.html#a52d5e1e5b01946a3d6d66158910e9f6d", null ],
+    [ "IsFriendlyTo", "db/dcb/a29281.html#ac70cef62b2ec646d593d8742a3c02f08", null ],
+    [ "IsHostileTo", "db/dcb/a29281.html#a1aadbf23c1c81a958665d96e5bf76093", null ],
+    [ "IsHostileToAlliancePlayers", "db/dcb/a29281.html#a4d3bfc9845c9d20f2e9e42f3247e1977", null ],
+    [ "IsHostileToHordePlayers", "db/dcb/a29281.html#a1734226996b76623df70f6fd0fe8a1c0", null ],
+    [ "IsHostileToPlayers", "db/dcb/a29281.html#a349650c7af717e3c67392a0b9d1970e1", null ],
+    [ "IsNeutralToAll", "db/dcb/a29281.html#a99cb471bcc9071a3c152266caa4579ae", null ],
+    [ "enemyFaction", "db/dcb/a29281.html#ae53f6799be5ae4bf7ab047fd97a4a969", null ],
+    [ "faction", "db/dcb/a29281.html#a2cb03ed38c15f6e6db7b556200282541", null ],
+    [ "factionFlags", "db/dcb/a29281.html#af20e4983d34c419b4a14c60d8049d9f4", null ],
+    [ "friendFaction", "db/dcb/a29281.html#a9c89b58067e28de89cedf2572b5e0e31", null ],
+    [ "friendlyMask", "db/dcb/a29281.html#a6842badfb5e7e0ad3a26d250426c64b6", null ],
+    [ "hostileMask", "db/dcb/a29281.html#ab395ab86c3e553ea4a9b1ae901c6e7cb", null ],
+    [ "ID", "db/dcb/a29281.html#a22657898486c71df39da27b968e405d5", null ],
+    [ "ourMask", "db/dcb/a29281.html#a822685376430441eeb85c24fd26473b0", null ]
 ];

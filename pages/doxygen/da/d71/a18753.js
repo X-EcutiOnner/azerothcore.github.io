@@ -1,6 +1,7 @@
 var a18753 =
 [
-    [ "npc_valkyr_shadowguardAI", "df/ddc/a18757.html", "df/ddc/a18757" ],
-    [ "npc_valkyr_shadowguard", "da/d71/a18753.html#a8ee90e21499eebf240c57419454c3829", null ],
-    [ "GetAI", "da/d71/a18753.html#ad84cb094a17e4fb88d3e883c98ce7f5a", null ]
+    [ "OnRemove", "da/d71/a18753.html#ac1a58d605156c03d05eb99605287e762", null ],
+    [ "PrepareAuraScript", "da/d71/a18753.html#a2db820022631647e942b5ec84e63717e", null ],
+    [ "Register", "da/d71/a18753.html#adfd213ccf8c5596fcd6dc69e53740376", null ],
+    [ "Validate", "da/d71/a18753.html#aa498d4669f67eba4b904b203daeb5a7d", null ]
 ];

@@ -1,8 +1,8 @@
 var a17449 =
 [
-    [ "boss_krickAI", "de/d38/a17449.html#ac085bae551fd4d9e48b05481a86cca9f", null ],
-    [ "DoAction", "de/d38/a17449.html#ace248881cb71c1e91f33ff93489b6f3f", null ],
-    [ "UpdateAI", "de/d38/a17449.html#aea8dd89c8e4de1bebd94a26ead852119", null ],
-    [ "events", "de/d38/a17449.html#a75349e2fc35832e7944fa4f772380baa", null ],
-    [ "pInstance", "de/d38/a17449.html#aecc2cdee32c4e4fa14ecaeca9b3eb65f", null ]
+    [ "npc_hor_raging_ghoul", "de/d38/a17449.html#a733d4ad92566a13ace3427aae6696bac", null ],
+    [ "JustDied", "de/d38/a17449.html#a14c0937fdd3c25df74f0a09efc1c5122", null ],
+    [ "Reset", "de/d38/a17449.html#aad6424be7dd53b59016963cefffe40e5", null ],
+    [ "UpdateAI", "de/d38/a17449.html#af4024393b318ca702c6652e042036b26", null ],
+    [ "leaped", "de/d38/a17449.html#a69dea538a87ae47de221768b6de42315", null ]
 ];

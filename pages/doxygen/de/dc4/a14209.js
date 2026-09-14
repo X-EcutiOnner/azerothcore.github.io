@@ -1,8 +1,6 @@
 var a14209 =
 [
-    [ "DelayedSummonEvent", "de/dc4/a14209.html#a5cfa870b670fff17d2241ecb85b2ba6c", null ],
-    [ "Execute", "de/dc4/a14209.html#a65ba0f1a1dc14e07b7b93a71c92ace6b", null ],
-    [ "_entry", "de/dc4/a14209.html#a24d72110a070eb0bd03af081ef616de4", null ],
-    [ "_owner", "de/dc4/a14209.html#a2a21cc6387b3605ed4f09cad80a6168a", null ],
-    [ "_pos", "de/dc4/a14209.html#aef19987803a1cce47cbd8d9005a288ac", null ]
+    [ "CheckRequirement", "de/dc4/a14209.html#a31d69034f463d552afa4063bf89271da", null ],
+    [ "PrepareSpellScript", "de/dc4/a14209.html#adc2176d25d25167b8a1fa9517e2ab945", null ],
+    [ "Register", "de/dc4/a14209.html#a5bb1eff829db1f7ecd3dbf61b821c328", null ]
 ];

@@ -1,7 +1,5 @@
 var a24377 =
 [
-    [ "HandleSendEvent", "d1/d2f/a24377.html#a8b32db78a3b4d5a01be230968fda3a8d", null ],
-    [ "PrepareSpellScript", "d1/d2f/a24377.html#a0adf10b63735dbdf1cb3d49c73f7da1d", null ],
-    [ "Register", "d1/d2f/a24377.html#ad6aedfed88d4a921122fdc7a8b501f0e", null ],
-    [ "Validate", "d1/d2f/a24377.html#a9b72b16ac81c53aaa7936640e5149e6c", null ]
+    [ "go_crystal_prison", "d1/d2f/a24377.html#a0faca8b76f9650ee5cc7825b90463365", null ],
+    [ "OnQuestAccept", "d1/d2f/a24377.html#ad19d8bdf8361d5d7fca2917a6bf0977a", null ]
 ];

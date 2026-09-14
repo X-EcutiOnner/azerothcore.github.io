@@ -1,17 +1,13 @@
 var a18025 =
 [
-    [ "npc_gunship_boarding_addAI", "d1/d33/a18025.html#accf0e65592983cc0199cb445aea55f99", null ],
-    [ "CanAIAttack", "d1/d33/a18025.html#a7d30e525342d1cb13103a4d7ebe1bb39", null ],
-    [ "DamageTaken", "d1/d33/a18025.html#a3b4eac0143e3c9eb2730c9bcf54f90b0", null ],
-    [ "EnterEvadeMode", "d1/d33/a18025.html#a5350433e352e0302d03c750a143880cf", null ],
-    [ "MovementInform", "d1/d33/a18025.html#aa2bd88e4539ddc99f888d41fcb78c383", null ],
-    [ "SetData", "d1/d33/a18025.html#a4fd0655356a2f9b5820e0f42f267715e", null ],
-    [ "SetSlotInfo", "d1/d33/a18025.html#adb50c92c76763733dbec025769d62a40", null ],
-    [ "UpdateAI", "d1/d33/a18025.html#af25bee85b38d70d1b792d7c1752e45f5", null ],
-    [ "_usedDesperateResolve", "d1/d33/a18025.html#aaf154d9774154e868d563b3c47916746", null ],
-    [ "anyValid", "d1/d33/a18025.html#a7fafebb9c6076dbe7fc621788910f63b", null ],
-    [ "checkTimer", "d1/d33/a18025.html#a9a6b6d68743b1e1e993fa32435ba6722", null ],
-    [ "Index", "d1/d33/a18025.html#a18b570e7bae0e2c4d0dcfc788d9deec3", null ],
-    [ "Instance", "d1/d33/a18025.html#a07eeeedf7c1315a41c073cfc83361c9f", null ],
-    [ "Slot", "d1/d33/a18025.html#a1aef6abcddaca26da2d09d3d2e6e1152", null ]
+    [ "PassengerController", "d1/d33/a18025.html#ab834deac8dfd9a7ddd1bcb37b1e5c354", null ],
+    [ "ClearSlot", "d1/d33/a18025.html#ae10f0917fb6fd395c3bb4428cbb617cb", null ],
+    [ "ResetSlots", "d1/d33/a18025.html#a2302ac8b9fac75ba58ced41e2b5236f0", null ],
+    [ "SelectSpawnPoint", "d1/d33/a18025.html#a4a4d575417a7c7940471f21e32d48b5c", null ],
+    [ "SummonCreatures", "d1/d33/a18025.html#a287e4cafc1d3739edf90c00ad91e2c64", null ],
+    [ "_controlledSlots", "d1/d33/a18025.html#af4271e53792477394a5c1022ed8fb30f", null ],
+    [ "_respawnCooldowns", "d1/d33/a18025.html#a98a6d819ec193d5a1e96739ac507b146", null ],
+    [ "_slotInfo", "d1/d33/a18025.html#a9c8fa44394c10eb2a7fec3c4f273f448", null ],
+    [ "_spawnPoint", "d1/d33/a18025.html#ab168baee9c4d6343c7adb6978a3a56d2", null ],
+    [ "_transport", "d1/d33/a18025.html#ac2c664d3b5941c673c13f7e36aa2d974", null ]
 ];

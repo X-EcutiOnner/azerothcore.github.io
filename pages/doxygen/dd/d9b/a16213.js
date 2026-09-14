@@ -1,6 +1,7 @@
 var a16213 =
 [
-    [ "HandleDummy", "dd/d9b/a16213.html#a2750ae788168e7496ea2345c5535509c", null ],
-    [ "PrepareSpellScript", "dd/d9b/a16213.html#a66b4187decbfb0b5623ce5630a8fa9d3", null ],
-    [ "Register", "dd/d9b/a16213.html#ab6c961d89d22761402eb4f5881cbd318", null ]
+    [ "npc_giltharesAI", "de/dae/a16217.html", "de/dae/a16217" ],
+    [ "npc_gilthares", "dd/d9b/a16213.html#af1e0746350b32b68825710e1c3ed91a5", null ],
+    [ "GetAI", "dd/d9b/a16213.html#a96293e28237a092c64f6a91d91bc7ff3", null ],
+    [ "OnQuestAccept", "dd/d9b/a16213.html#aa165513a4d25a6d1d704c226903e9271", null ]
 ];

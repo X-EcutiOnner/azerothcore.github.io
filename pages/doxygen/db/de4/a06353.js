@@ -1,8 +1,12 @@
 var a06353 =
 [
-    [ "ArcherAI", "db/de4/a06353.html#a113c138958054716182c15ee9f2b47da", null ],
-    [ "AttackStart", "db/de4/a06353.html#adc79f7ead63ecaf8fed9ea4f81d27f76", null ],
-    [ "Permissible", "db/de4/a06353.html#ac5b3d144b0d71a5e527d53f33c3d31cc", null ],
-    [ "UpdateAI", "db/de4/a06353.html#aa6e072e239549d337de61670a05eb6f8", null ],
-    [ "m_minRange", "db/de4/a06353.html#ab449efcd81769888ff8d8bc5f348cbe7", null ]
+    [ "RBACPermission", "db/de4/a06353.html#ab7e942f35ee798e52b6e44b5eb35957d", null ],
+    [ "AddLinkedPermission", "db/de4/a06353.html#abadc5213769b1aa15ed3fea56087760e", null ],
+    [ "GetId", "db/de4/a06353.html#ac9626c0aae11a3189fc15d086fb0bd96", null ],
+    [ "GetLinkedPermissions", "db/de4/a06353.html#aabdbec412cd1a1192c8fb4089ab268aa", null ],
+    [ "GetName", "db/de4/a06353.html#a39784b6e1cb1018dd47a1f223bcf8ac3", null ],
+    [ "RemoveLinkedPermission", "db/de4/a06353.html#a31dcbc98d2a850f5924c0183c90fd58a", null ],
+    [ "_id", "db/de4/a06353.html#ab467166c941c8dc01d3d2bd3ce7a06fc", null ],
+    [ "_name", "db/de4/a06353.html#ae02a379ae6f8bee804942a4ca6d98aba", null ],
+    [ "_perms", "db/de4/a06353.html#a2c9bd034968018bb631f4d5145c16fff", null ]
 ];

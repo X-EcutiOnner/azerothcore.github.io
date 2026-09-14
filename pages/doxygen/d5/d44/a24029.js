@@ -1,6 +1,6 @@
 var a24029 =
 [
-    [ "instance_mechanar_InstanceMapScript", "d1/d9b/a24033.html", "d1/d9b/a24033" ],
-    [ "instance_mechanar", "d5/d44/a24029.html#ab31a66a0eb8b9ac6f79af479528ff4fd", null ],
-    [ "GetInstanceScript", "d5/d44/a24029.html#ae8e9810a9bfd6b0ec256dd6a288392ed", null ]
+    [ "HandleScriptEffect", "d5/d44/a24029.html#a724e857ad8604ef4546c8823bb7bd632", null ],
+    [ "PrepareSpellScript", "d5/d44/a24029.html#a7a67cdf9c3c8017fd065549a499831fc", null ],
+    [ "Register", "d5/d44/a24029.html#aadbf9ca8c4b5fa0f72b967f059ee22ab", null ]
 ];

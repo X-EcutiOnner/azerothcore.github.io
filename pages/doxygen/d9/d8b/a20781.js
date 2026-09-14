@@ -1,10 +1,9 @@
 var a20781 =
 [
-    [ "npc_razorscale_dark_rune_sentinel", "d9/d8b/a20781.html#ab05b135a3c4cc45c132b3bb38127494c", null ],
-    [ "CanAIAttack", "d9/d8b/a20781.html#a99f74f401c846f56f6adf70a755e5a84", null ],
-    [ "JustEngagedWith", "d9/d8b/a20781.html#afdba7ecd994d92484a75444387bffaee", null ],
-    [ "Reset", "d9/d8b/a20781.html#ad83e4b28dc7562a627f9d1330c3bb2fc", null ],
-    [ "UpdateAI", "d9/d8b/a20781.html#a621e7a4804a74ce74717a9b0212ab8a3", null ],
-    [ "_events", "d9/d8b/a20781.html#a5dc9139c7d2897b6f1a9e9d86a5f663a", null ],
-    [ "_instance", "d9/d8b/a20781.html#a83f67be54dde276f3ed5efd867450756", null ]
+    [ "npc_ulduar_rocket_strike_trigger", "d9/d8b/a20781.html#a14fc5830fe192856bd7c99f78de91070", null ],
+    [ "InitializeAI", "d9/d8b/a20781.html#a50b4312f060d62e1c4e3ff144add48d8", null ],
+    [ "SetData", "d9/d8b/a20781.html#a9d896f09483369fcca2a45223514f855", null ],
+    [ "SpellHitTarget", "d9/d8b/a20781.html#ad4a438c5143a6de2b469baa28f0893c5", null ],
+    [ "UpdateAI", "d9/d8b/a20781.html#af5e5dec908f6e0f79a7f4a508d4c4403", null ],
+    [ "_events", "d9/d8b/a20781.html#acdd7bdda1ecc5d6e5c18f1306153200a", null ]
 ];

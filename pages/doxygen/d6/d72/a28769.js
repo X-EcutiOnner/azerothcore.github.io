@@ -1,6 +1,5 @@
 var a28769 =
 [
-    [ "CheckCast", "d6/d72/a28769.html#a477dc7a1b91ec0d9c45f249b7b3971ab", null ],
-    [ "PrepareSpellScript", "d6/d72/a28769.html#aa3c18907c79309a8924a98bce41e27f1", null ],
-    [ "Register", "d6/d72/a28769.html#a6eac0b63b0b566b5cba5def85748ace3", null ]
+    [ "npc_controller", "d6/d72/a28769.html#a3c75fb509d5cf4b4d417c97b409615b1", null ],
+    [ "OnCharmed", "d6/d72/a28769.html#a69628677de225d76a8c89b4626e0f32b", null ]
 ];

@@ -1,7 +1,9 @@
 var a25821 =
 [
-    [ "HandleProc", "d7/d7d/a25821.html#a8e35d9e56b5d896b23844e8075c746d7", null ],
-    [ "PrepareAuraScript", "d7/d7d/a25821.html#a56c8ada8651cfd024cc7514417b986d6", null ],
-    [ "Register", "d7/d7d/a25821.html#a818ed2117c52a53939df5bf4d035854f", null ],
-    [ "Validate", "d7/d7d/a25821.html#ad9239fbe538bdc0019c60ef461c6c8ca", null ]
+    [ "CheckIfCorpseNear", "d7/d7d/a25821.html#a9b512f84f1d728e24845b6aaa28bdd6b", null ],
+    [ "HandleDummy", "d7/d7d/a25821.html#a913c0137d2a13c810bbae869cc6cf734", null ],
+    [ "Load", "d7/d7d/a25821.html#a3f36968d10bde12c7e2eda8db4145252", null ],
+    [ "PrepareSpellScript", "d7/d7d/a25821.html#acc7d6f489c34c3cc26f37bc94f8727e8", null ],
+    [ "Register", "d7/d7d/a25821.html#a736c4fe39e947ad98df19b3b001bdc29", null ],
+    [ "Validate", "d7/d7d/a25821.html#a51b075f95211025b2a7719a3ee70a6be", null ]
 ];

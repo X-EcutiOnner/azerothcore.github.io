@@ -1,7 +1,8 @@
 var a27037 =
 [
-    [ "HandleProc", "dd/d23/a27037.html#a512ec25fe649e42930d64effa4f7868b", null ],
-    [ "PrepareAuraScript", "dd/d23/a27037.html#ac1c7dcf63d7c67ec5fad424531519b58", null ],
-    [ "Register", "dd/d23/a27037.html#a6118148ac0e641a6c3e4490c2cdd86c0", null ],
-    [ "Validate", "dd/d23/a27037.html#a22dea9fb57d89b1d4813722968b5429f", null ]
+    [ "CalculateAmount", "dd/d23/a27037.html#aa1810db9a7b8fbc3572621ff35e0eeb1", null ],
+    [ "PrepareAuraScript", "dd/d23/a27037.html#ad40d44271840b8e2bd1dc22b6a04290e", null ],
+    [ "ReflectDamage", "dd/d23/a27037.html#ad8b5f9a7952fc33d7e1fee28e4872212", null ],
+    [ "Register", "dd/d23/a27037.html#a18b19ee8823e2d1747caeefaf457ad8d", null ],
+    [ "Validate", "dd/d23/a27037.html#af2936ba4a29fc8735a3cabe805c77355", null ]
 ];

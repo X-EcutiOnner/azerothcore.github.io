@@ -1,9 +1,14 @@
 var a07601 =
 [
-    [ "entryAlliance", "d3/dda/a07601.html#a0e5dba26d6d335a9d1e5f40e737acddd", null ],
-    [ "entryHorde", "d3/dda/a07601.html#a374fff4b069e89489395246f378b4900", null ],
-    [ "o", "d3/dda/a07601.html#af8a4ec46795bcdbc77c76302a4cfe639", null ],
-    [ "x", "d3/dda/a07601.html#ab557bbe497fc769b390cf0799b6aaed9", null ],
-    [ "y", "d3/dda/a07601.html#a44a8f3fd8d3cac7cfe61471d8b785ad4", null ],
-    [ "z", "d3/dda/a07601.html#adebb903a00687e17d9088f5da2c97f4a", null ]
+    [ "AutobroadcastsMap", "d3/dda/a07601.html#a9064ad588e8a02d9b60974af4da1c7cf", null ],
+    [ "AutobroadcastsWeightMap", "d3/dda/a07601.html#a75e5b978794a7010c8d9d3390d8690f9", null ],
+    [ "instance", "d3/dda/a07601.html#aead196df7f590d43c89f179ca0bd4a68", null ],
+    [ "LoadAutobroadcasts", "d3/dda/a07601.html#a48748969b122aee47d03697b6e9a2ee1", null ],
+    [ "LoadAutobroadcastsLocalized", "d3/dda/a07601.html#a105fa2c33da0662785551027430d40c6", null ],
+    [ "SendAutobroadcasts", "d3/dda/a07601.html#a225907be4944713af11c312185c8aea7", null ],
+    [ "SendNotificationAnnouncement", "d3/dda/a07601.html#ace584bb6b66c8944e1405ec0af686d3a", null ],
+    [ "SendWorldAnnouncement", "d3/dda/a07601.html#a8be8fd36f843ffd435989c99ce0f9229", null ],
+    [ "_announceType", "d3/dda/a07601.html#a3889edc4001e26519d9df042a8b477fc", null ],
+    [ "_autobroadcasts", "d3/dda/a07601.html#a06d42010fea307a03aac0ca4e6886f1d", null ],
+    [ "_autobroadcastsWeights", "d3/dda/a07601.html#aadbd8ca926a64be4fbbe832fd633ee88", null ]
 ];

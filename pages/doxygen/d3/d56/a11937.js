@@ -1,10 +1,7 @@
 var a11937 =
 [
-    [ "ApplyHarmfulAuraImmuneMask", "d3/d56/a11937.html#afb005a71205a573357afae14481cf5a4", null ],
-    [ "AuraTypeImmune", "d3/d56/a11937.html#ad585a49cd0b72b84e2146b8d6acdb2fc", null ],
-    [ "DamageSchoolMask", "d3/d56/a11937.html#a0917b0bacb75c03a527e170ef08f0811", null ],
-    [ "DispelImmuneMask", "d3/d56/a11937.html#a142a794d2927b25592fece914f7a40fa", null ],
-    [ "MechanicImmuneMask", "d3/d56/a11937.html#ad001d68adbf9c985f26476dda31898ad", null ],
-    [ "SchoolImmuneMask", "d3/d56/a11937.html#a4b4b786ef6fe3bb4247eff61416d3400", null ],
-    [ "SpellEffectImmune", "d3/d56/a11937.html#afd9f307ea408ac6f88fae8bcde2f1ce7", null ]
+    [ "effectMask", "d3/d56/a11937.html#a07d70f3c2425f07a36db90e9fd5b3c97", null ],
+    [ "processed", "d3/d56/a11937.html#aedfa36678be863a558ecd0ecc07cc544", null ],
+    [ "targetGUID", "d3/d56/a11937.html#a619f98bf094d2667048204f733d64d0c", null ],
+    [ "timeDelay", "d3/d56/a11937.html#ab552326c0780fe62ff95b02249458492", null ]
 ];

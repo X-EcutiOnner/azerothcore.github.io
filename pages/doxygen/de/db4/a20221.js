@@ -1,7 +1,6 @@
 var a20221 =
 [
-    [ "HandleScriptEffect", "de/db4/a20221.html#a96033c335117fa39e96a2dd70c44616a", null ],
-    [ "PrepareSpellScript", "de/db4/a20221.html#abf5f28d0fdb86a55b5b6f545a1fec633", null ],
-    [ "Register", "de/db4/a20221.html#a0acb0e31242fda06456081ef2937157e", null ],
-    [ "Validate", "de/db4/a20221.html#a648ce84276009cdee91c921b99193aea", null ]
+    [ "CastRunesEvent", "de/db4/a20221.html#aa3c5912362a4ce8a5b463da626f277b0", null ],
+    [ "Execute", "de/db4/a20221.html#ad86f17817c8a5accb1cc90e0e5d362f3", null ],
+    [ "_owner", "de/db4/a20221.html#a308c679c6e427e89734b5f506ad9d0d6", null ]
 ];

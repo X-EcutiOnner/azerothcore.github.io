@@ -1,7 +1,6 @@
 var a23753 =
 [
-    [ "HandleOnApply", "d5/d9d/a23753.html#a4d14f81325ecd0bde345d60a135ad8ba", null ],
-    [ "HandleOnRemove", "d5/d9d/a23753.html#aed5f87523c58d94c8f98b76c06abb140", null ],
-    [ "PrepareAuraScript", "d5/d9d/a23753.html#ab32413873bec92540f9e85e8013b7ea2", null ],
-    [ "Register", "d5/d9d/a23753.html#a0653d8688f98822580a3243a0d47c17a", null ]
+    [ "HandleScriptEffect", "d5/d9d/a23753.html#af0841e5c67c981b792a8d8f0d0d18edc", null ],
+    [ "PrepareSpellScript", "d5/d9d/a23753.html#a287bff28e57a86f0176921500de78fa9", null ],
+    [ "Register", "d5/d9d/a23753.html#ad5fb101794dfdef0c08551dd9397b965", null ]
 ];

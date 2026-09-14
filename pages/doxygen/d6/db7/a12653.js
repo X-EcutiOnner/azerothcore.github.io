@@ -1,12 +1,12 @@
 var a12653 =
 [
-    [ "npc_av_marshal_or_warmasterAI", "d6/db7/a12653.html#af3620678992778edbb859622e057893a", null ],
-    [ "AttackStart", "d6/db7/a12653.html#aed39eaed8648ce78349c49ee33918b93", null ],
-    [ "EnterEvadeMode", "d6/db7/a12653.html#a4ac6045b3f3dfd6e3f9e0ea757f4d2c6", null ],
-    [ "JustRespawned", "d6/db7/a12653.html#a460c6912063587214ba0f2e01878d827", null ],
-    [ "Reset", "d6/db7/a12653.html#a56d99bcf5038c372399f16a07a2e5d31", null ],
-    [ "UpdateAI", "d6/db7/a12653.html#a7bf1631810c8446bc157f8ff220199b7", null ],
-    [ "_attacked", "d6/db7/a12653.html#a56d7211a3565c19b499f7de2eda6c862", null ],
-    [ "_hasAura", "d6/db7/a12653.html#a1c0049100cde1c62daf80779d1135156", null ],
-    [ "events", "d6/db7/a12653.html#a49b8e01897cd5347bbd06cac254163f4", null ]
+    [ "rbac_commandscript", "d6/db7/a12653.html#ad5d80b189a8ddaf6b5927c81668a7d74", null ],
+    [ "GetCommands", "d6/db7/a12653.html#a79aea8dac765cfb1a2f12264b58b4227", null ],
+    [ "GetRBACData", "d6/db7/a12653.html#a00da7ed9027950938ec869e678111502", null ],
+    [ "GetSecurityLevelName", "d6/db7/a12653.html#afcfc224e4b39db42ed6efeb5e49ecc7a", null ],
+    [ "HandleRBACListPermissionsCommand", "d6/db7/a12653.html#a80f84e8eeebfd70b4ac7bc049bf4759c", null ],
+    [ "HandleRBACPermDenyCommand", "d6/db7/a12653.html#acc074437ff26c253cf91772de9117fbf", null ],
+    [ "HandleRBACPermGrantCommand", "d6/db7/a12653.html#ad4254acff93e13b7218b086281d13676", null ],
+    [ "HandleRBACPermListCommand", "d6/db7/a12653.html#a324227f3398500ca0a5b7dd141698951", null ],
+    [ "HandleRBACPermRevokeCommand", "d6/db7/a12653.html#adf8932879f77b25833cf55dc2924ac29", null ]
 ];

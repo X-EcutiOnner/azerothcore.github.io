@@ -1,7 +1,10 @@
 var a08481 =
 [
-    [ "VendorItemCount", "d2/d55/a08481.html#abdf2d2900f75bb2b8d9727bab8fcbbc3", null ],
-    [ "count", "d2/d55/a08481.html#aff4c062138792ffb37dadb19b725c87c", null ],
-    [ "itemId", "d2/d55/a08481.html#a225158bbb56d6666ba4918155f08f993", null ],
-    [ "lastIncrementTime", "d2/d55/a08481.html#a0b88ba4ea590abbdc9234ff4a2a335fa", null ]
+    [ "CreatureModel", "d2/d55/a08481.html#afd3bf8cb5ff39b862a946eab9731b251", null ],
+    [ "CreatureModel", "d2/d55/a08481.html#a02b05bf92c3341b90173b4aa998087ba", null ],
+    [ "CreatureDisplayID", "d2/d55/a08481.html#a0f48fde2c8438ecf411d7f80d3bca1a9", null ],
+    [ "DefaultInvisibleModel", "d2/d55/a08481.html#a4b729e5730c1fa0e5e4995f5dd65e9b3", null ],
+    [ "DefaultVisibleModel", "d2/d55/a08481.html#a49bec3e0996adfb6ec5bd5a9b6e38448", null ],
+    [ "DisplayScale", "d2/d55/a08481.html#ad842b73233b84c451710767f5e58f10a", null ],
+    [ "Probability", "d2/d55/a08481.html#a7736d6480dca65a68afb82a830b35874", null ]
 ];

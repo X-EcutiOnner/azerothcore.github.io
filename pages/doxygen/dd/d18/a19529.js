@@ -1,11 +1,17 @@
 var a19529 =
 [
-    [ "boss_grobbulusAI", "dd/d18/a19529.html#ad9e7cd519e30eded06f76bcc69189117", null ],
-    [ "JustEngagedWith", "dd/d18/a19529.html#a4c74d53fe029d02df9652dbb87a09242", null ],
-    [ "JustSummoned", "dd/d18/a19529.html#af266d40889fbecd50a118a579b711757", null ],
-    [ "KilledUnit", "dd/d18/a19529.html#a266ef5135e09ee6a0b0b9ae0aaac822b", null ],
-    [ "PullChamberAdds", "dd/d18/a19529.html#a0d68b84c035bb8b4b16075116a6d7992", null ],
-    [ "Reset", "dd/d18/a19529.html#a6bd34fcdcfa47b19f366ba85e7f420cb", null ],
-    [ "UpdateAI", "dd/d18/a19529.html#aafd79debbe76b02a1478c03daf235b05", null ],
-    [ "dropSludgeTimer", "dd/d18/a19529.html#a5fdcf157f498b8e47d6380b03fe819d6", null ]
+    [ "boss_four_horsemenAI", "dd/d18/a19529.html#a828a858c3337791bd2acb3d6ba730233", null ],
+    [ "AttackStart", "dd/d18/a19529.html#aeb7e82fe20d4f6c4c5379c060beee161", null ],
+    [ "EnterEvadeMode", "dd/d18/a19529.html#a86f458f0413cab4c8129affff1b73a70", null ],
+    [ "JustDied", "dd/d18/a19529.html#a3ba69ed84d129a1a48952880c77bcf53", null ],
+    [ "JustEngagedWith", "dd/d18/a19529.html#a17b8ca30ceb0efb87be77f970c526444", null ],
+    [ "KilledUnit", "dd/d18/a19529.html#a87bdde27a69a020a26da31f01286593a", null ],
+    [ "MovementInform", "dd/d18/a19529.html#aa900c075c04673341b3100488c45f9e7", null ],
+    [ "MoveToCorner", "dd/d18/a19529.html#a7891dc79980c67d82867f6181685b359", null ],
+    [ "Reset", "dd/d18/a19529.html#a8f41a8eadb6b01d32b177640b91d929f", null ],
+    [ "UpdateAI", "dd/d18/a19529.html#ac3a1f33bf9823e2171180c3311f647f1", null ],
+    [ "currentWaypoint", "dd/d18/a19529.html#ab3c2643e1b3c58452661255979e67e63", null ],
+    [ "events", "dd/d18/a19529.html#a5c135d69b30853e2eb8a52a1a5e230f7", null ],
+    [ "horsemanId", "dd/d18/a19529.html#ab0c4162177096e7bd007996e8677fd8b", null ],
+    [ "movementPhase", "dd/d18/a19529.html#a09b826c28e9bf6c417a650dfe710a2dd", null ]
 ];

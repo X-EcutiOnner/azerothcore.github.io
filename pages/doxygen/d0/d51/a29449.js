@@ -1,5 +1,7 @@
 var a29449 =
 [
-    [ "Duration", "d0/d51/a29449.html#a20417b0f394c08c779fd3851c2cde87d", null ],
-    [ "ID", "d0/d51/a29449.html#a04f9304093a15b4b7f6596993f2e86d9", null ]
+    [ "EpicPropertiesPoints", "d0/d51/a29449.html#a35dc60a15091357e03032226621340f7", null ],
+    [ "itemLevel", "d0/d51/a29449.html#a35506e3235c2c24230058dc2fb9abc4f", null ],
+    [ "RarePropertiesPoints", "d0/d51/a29449.html#a9359171635ef3e9a0029820fad286368", null ],
+    [ "UncommonPropertiesPoints", "d0/d51/a29449.html#a74acb6861a84d5d193038eaa5ac9b12f", null ]
 ];

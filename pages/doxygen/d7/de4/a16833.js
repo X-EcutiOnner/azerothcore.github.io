@@ -1,8 +1,6 @@
 var a16833 =
 [
-    [ "npc_announcer_toc5AI", "d7/d4a/a16837.html", "d7/d4a/a16837" ],
-    [ "npc_announcer_toc5", "d7/de4/a16833.html#abf50bb7deb9e0bb04d9ac802aff5fa41", null ],
-    [ "GetAI", "d7/de4/a16833.html#a06767a8fd1e940d4efee6dd752520e9e", null ],
-    [ "OnGossipHello", "d7/de4/a16833.html#ad2cc55ddc6696b9bfb22e68eab965fb0", null ],
-    [ "OnGossipSelect", "d7/de4/a16833.html#a9017488c652fd75882db75914f4a2db2", null ]
+    [ "npc_black_knight_skeletal_gryphonAI", "d7/d4a/a16837.html", "d7/d4a/a16837" ],
+    [ "npc_black_knight_skeletal_gryphon", "d7/de4/a16833.html#a5dc83a92fbe2eb4d6faa30f23a9ac777", null ],
+    [ "GetAI", "d7/de4/a16833.html#aad244f95877a208b56a2b6544984d724", null ]
 ];

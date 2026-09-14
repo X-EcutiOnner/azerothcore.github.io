@@ -1,6 +1,8 @@
 var a17073 =
 [
-    [ "boss_gormokAI", "da/dac/a17077.html", "da/dac/a17077" ],
-    [ "boss_gormok", "d1/de2/a17073.html#a86ce0681be4370198c44dde5aa98a593", null ],
-    [ "GetAI", "d1/de2/a17073.html#a45cff2e7ee0525de37382cf09b116a32", null ]
+    [ "npc_toc_pet_warlockAI", "d1/de2/a17073.html#a0f4128d5fd7a855f1fb2870465bc1ce7", null ],
+    [ "EnterEvadeMode", "d1/de2/a17073.html#a62219f63e82fc67f63db2cbd713647a0", null ],
+    [ "myCanCast", "d1/de2/a17073.html#a81607ebd90d8f511bb18b03ff497d9eb", null ],
+    [ "UpdateAI", "d1/de2/a17073.html#a05a150e01f519675ac7b69d3c2a97ed4", null ],
+    [ "events", "d1/de2/a17073.html#a8edadebd7e6660041233a24fb07173bf", null ]
 ];

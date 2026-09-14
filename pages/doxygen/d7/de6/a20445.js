@@ -1,5 +1,7 @@
 var a20445 =
 [
-    [ "achievement_smell_saronite", "d7/de6/a20445.html#a42dce2aefa2561952dcf5289126035a8", null ],
-    [ "OnCheck", "d7/de6/a20445.html#a5180e3e53fa0f4d32d2a305d315bc8b3", null ]
+    [ "boss_freya_healthy_spore", "d7/de6/a20445.html#abc2492b9cf96cb00940b18fac549fb00", null ],
+    [ "Reset", "d7/de6/a20445.html#abe3f794707aa722e73b1728700876083", null ],
+    [ "UpdateAI", "d7/de6/a20445.html#ac8c952848687cd883aaefe466b799e3b", null ],
+    [ "_despawnTimer", "d7/de6/a20445.html#a8d8b6fe5895efb48750a65c2dfe8a1df", null ]
 ];

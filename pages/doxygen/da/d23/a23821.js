@@ -1,10 +1,7 @@
 var a23821 =
 [
-    [ "instance_arcatraz_InstanceMapScript", "da/d23/a23821.html#a4c6594eb7fa1f7213c89ea5af6c70ae0", null ],
-    [ "GetGuidData", "da/d23/a23821.html#aa4bedf168359eaf5332476a6de99c830", null ],
-    [ "OnGameObjectCreate", "da/d23/a23821.html#ad8c84d90b85db5717b6a37fc2343e0aa", null ],
-    [ "SetBossState", "da/d23/a23821.html#a2937e4ea47af542a476bd3399ecc7233", null ],
-    [ "SetData", "da/d23/a23821.html#aca09d4856d5c3e1831ea8753a50a3b71", null ],
-    [ "StasisPodGUIDs", "da/d23/a23821.html#a1fb9824baee2d8d83e030da307f21fc3", null ],
-    [ "WardensShieldGUID", "da/d23/a23821.html#a3cbff5742e05f6cf0544807bce64b1d0", null ]
+    [ "HandleOnApply", "da/d23/a23821.html#a4d14f81325ecd0bde345d60a135ad8ba", null ],
+    [ "HandleOnRemove", "da/d23/a23821.html#aed5f87523c58d94c8f98b76c06abb140", null ],
+    [ "PrepareAuraScript", "da/d23/a23821.html#ab32413873bec92540f9e85e8013b7ea2", null ],
+    [ "Register", "da/d23/a23821.html#a0653d8688f98822580a3243a0d47c17a", null ]
 ];

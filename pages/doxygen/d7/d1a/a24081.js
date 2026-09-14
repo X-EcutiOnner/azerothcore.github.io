@@ -1,5 +1,9 @@
 var a24081 =
 [
-    [ "go_simon_cluster", "d7/d1a/a24081.html#adac53a8451abd6ace227a66afc7e61e8", null ],
-    [ "OnGossipHello", "d7/d1a/a24081.html#a9fd9799604de44c91803511c45b67786", null ]
+    [ "boss_nethermancer_sepethrea", "d7/d1a/a24081.html#aae77446e9a8f2ac41601049d3fe9ffd4", null ],
+    [ "EnterEvadeMode", "d7/d1a/a24081.html#a0ac9dd29b73e8734318851ffd9a09162", null ],
+    [ "JustDied", "d7/d1a/a24081.html#a2ac13176ebffa245fd9e0ba6173f30cc", null ],
+    [ "JustEngagedWith", "d7/d1a/a24081.html#a89851b9f6eb94270fe22151d3a968bec", null ],
+    [ "JustSummoned", "d7/d1a/a24081.html#acf98dbddcd55131cb9cdebe6d319e2c2", null ],
+    [ "KilledUnit", "d7/d1a/a24081.html#ad9606ca8c1fe6f68f72ec415cc70ef2f", null ]
 ];

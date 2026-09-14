@@ -1,6 +1,6 @@
 var a24213 =
 [
-    [ "CheckCast", "d2/d4d/a24213.html#ae13cc2d3da1c9911c88402d05679d447", null ],
-    [ "PrepareSpellScript", "d2/d4d/a24213.html#afbed81273aa23d355c64579c71e9761d", null ],
-    [ "Register", "d2/d4d/a24213.html#a7157d04dfc534aa3cb88e8dff169c676", null ]
+    [ "go_magtheridons_head", "d2/d4d/a24213.html#af5816b083f1856196bec7a75f0a995f3", null ],
+    [ "InitializeAI", "d2/d4d/a24213.html#a84fd97c0dfc2826a0b7795a9fbd70cd5", null ],
+    [ "OnStateChanged", "d2/d4d/a24213.html#a28682d161074b71e1f2d70236ff2b897", null ]
 ];

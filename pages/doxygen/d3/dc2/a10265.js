@@ -1,7 +1,8 @@
 var a10265 =
 [
-    [ "operator<", "d3/dc2/a10265.html#adb62060523d8d5b11f16f3202a157f26", null ],
-    [ "respawnTime", "d3/dc2/a10265.html#aaed69c7c6f9f78ecb365e233f1ff6dab", null ],
-    [ "spawnId", "d3/dc2/a10265.html#a6faeab5132f3e539848ebe29cee5a5a4", null ],
-    [ "type", "d3/dc2/a10265.html#a1400b212e0889c54047225ba57e95c94", null ]
+    [ "EllipseBoundary", "d3/dc2/a10265.html#aeb8c822a8c4c745de0c848721a624545", null ],
+    [ "IsWithinBoundaryArea", "d3/dc2/a10265.html#a203ccf7ca23f1d66f834bdadb8b18b31", null ],
+    [ "_center", "d3/dc2/a10265.html#aa84bae8bced77e38fec652e473cf39c7", null ],
+    [ "_radiusYSq", "d3/dc2/a10265.html#ae933c6b1e62967f98c95cfbd4822b818", null ],
+    [ "_scaleXSq", "d3/dc2/a10265.html#ad781cadd6c09e482d3a93ad71440a4c2", null ]
 ];

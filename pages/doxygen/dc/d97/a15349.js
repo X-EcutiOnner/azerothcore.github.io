@@ -1,6 +1,7 @@
 var a15349 =
 [
-    [ "instance_old_hillsbrad_InstanceMapScript", "de/ddb/a15353.html", "de/ddb/a15353" ],
-    [ "instance_old_hillsbrad", "dc/d97/a15349.html#a1ba2d39ae8f9209055de4b944cc535d8", null ],
-    [ "GetInstanceScript", "dc/d97/a15349.html#a1929c38b1c745b2df1ccaf462113e220", null ]
+    [ "OnRemove", "dc/d97/a15349.html#a98bf88bd917b441d2ad81716dcd38ec1", null ],
+    [ "PrepareAuraScript", "dc/d97/a15349.html#ab082adc51983f124d0467cbff63cffb7", null ],
+    [ "Register", "dc/d97/a15349.html#a2feb8adaad212ee29d9ec6d9957575a4", null ],
+    [ "Validate", "dc/d97/a15349.html#a73421b82f483e73314dbb862fb0a11c7", null ]
 ];

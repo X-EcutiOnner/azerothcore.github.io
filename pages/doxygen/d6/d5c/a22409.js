@@ -1,7 +1,10 @@
 var a22409 =
 [
-    [ "HandleScript", "d6/d5c/a22409.html#ad38771460ddf0f95783718775690d1f0", null ],
-    [ "PrepareSpellScript", "d6/d5c/a22409.html#a9d3b65b251cc9680352bbf056bb74f05", null ],
-    [ "Register", "d6/d5c/a22409.html#a3ba23fd54c35c2d2866db647811c948d", null ],
-    [ "Validate", "d6/d5c/a22409.html#a6a58808356785c25032c2befd429ff2b", null ]
+    [ "npc_time_lost_proto_drakeAI", "d6/d5c/a22409.html#ab98805519233eda932c6131aca059a8b", null ],
+    [ "ArmHiddenState", "d6/d5c/a22409.html#ac397eb8580e523214dec0cf9b15b18f5", null ],
+    [ "DoAction", "d6/d5c/a22409.html#a0357600a1ed7bc17cd5dfdf822c5296b", null ],
+    [ "JustEngagedWith", "d6/d5c/a22409.html#ab95266d60769aa4099ca0f1bf678f237", null ],
+    [ "JustRespawned", "d6/d5c/a22409.html#ac59dcf8cd9c19f2bf4a1bdba6f21b9d1", null ],
+    [ "Reset", "d6/d5c/a22409.html#a418ea9621040e3c717c4e24f73539f44", null ],
+    [ "UpdateAI", "d6/d5c/a22409.html#abb28428b77beada6a378541ba11d090b", null ]
 ];

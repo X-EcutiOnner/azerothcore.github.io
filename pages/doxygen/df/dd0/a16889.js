@@ -1,7 +1,8 @@
 var a16889 =
 [
-    [ "HandleEffectPeriodic", "df/dd0/a16889.html#a58336f6a693d91b4fcb151b7eb5c1201", null ],
-    [ "PrepareAuraScript", "df/dd0/a16889.html#a6dffb84e2c65f030e24a86e23f42c7e3", null ],
-    [ "Register", "df/dd0/a16889.html#ad3485b1ab83d4a49713dfd3335b672fd", null ],
-    [ "Validate", "df/dd0/a16889.html#a5f3c8e5ddcdcefc4e335e604416890d5", null ]
+    [ "npc_announcer_toc5AI", "d3/d7a/a16893.html", "d3/d7a/a16893" ],
+    [ "npc_announcer_toc5", "df/dd0/a16889.html#abf50bb7deb9e0bb04d9ac802aff5fa41", null ],
+    [ "GetAI", "df/dd0/a16889.html#a06767a8fd1e940d4efee6dd752520e9e", null ],
+    [ "OnGossipHello", "df/dd0/a16889.html#ad2cc55ddc6696b9bfb22e68eab965fb0", null ],
+    [ "OnGossipSelect", "df/dd0/a16889.html#a9017488c652fd75882db75914f4a2db2", null ]
 ];

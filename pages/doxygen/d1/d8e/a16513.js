@@ -1,6 +1,5 @@
 var a16513 =
 [
-    [ "HandleLeapBack", "d1/d8e/a16513.html#a71a9b9967528c1153ad1215635bc7d01", null ],
-    [ "PrepareSpellScript", "d1/d8e/a16513.html#a25a2db5c19e721b112b7bc84b3ac0968", null ],
-    [ "Register", "d1/d8e/a16513.html#a6ef11d0538616315fa7cf098748aa01f", null ]
+    [ "achievement_watch_him_die", "d1/d8e/a16513.html#a0d885871eac61d859780e08c8518bb15", null ],
+    [ "OnCheck", "d1/d8e/a16513.html#a6ca8851bdf8cae50084ca87c1958fb53", null ]
 ];

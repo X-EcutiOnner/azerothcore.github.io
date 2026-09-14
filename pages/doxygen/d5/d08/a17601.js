@@ -1,10 +1,11 @@
 var a17601 =
 [
-    [ "boss_drakkari_elementalAI", "d5/d08/a17601.html#aad8f28b7e45a7897cb758dff90aa46d8", null ],
-    [ "DoAction", "d5/d08/a17601.html#afc16e2da1f40ec0c0257e3bedc04c8a7", null ],
-    [ "JustDied", "d5/d08/a17601.html#aec2878e51a12749914e3a30c0ddea900", null ],
-    [ "JustEngagedWith", "d5/d08/a17601.html#a75cbf6a164ab4337f86b600541c563f2", null ],
-    [ "Reset", "d5/d08/a17601.html#a3a0cd44c30eacac26bcfd1bbe2a18086", null ],
-    [ "UpdateAI", "d5/d08/a17601.html#adb9ad99bc784a76da238ed2ee694d4f2", null ],
-    [ "events", "d5/d08/a17601.html#abd9bef8fd2bd10a520d9569351bd925b", null ]
+    [ "npc_pos_leader_secondAI", "d5/d08/a17601.html#a2ded8591da2548921cd016d592d1f1c8", null ],
+    [ "DoAction", "d5/d08/a17601.html#a941d3b42d6a0e58496b724af56fee44a", null ],
+    [ "MovementInform", "d5/d08/a17601.html#a32f4c5c48f1a63ded0ac9b8ee763090b", null ],
+    [ "SpellHitTarget", "d5/d08/a17601.html#ae630b7b225379831d15a11f66507bc6a", null ],
+    [ "UpdateAI", "d5/d08/a17601.html#a640aea9ce4a47dd13d417748e533fc33", null ],
+    [ "barrierGUID", "d5/d08/a17601.html#a452c096475581c12bf2f4ccb12448026", null ],
+    [ "events", "d5/d08/a17601.html#a1e1ab6c1d349a9543815a29ae185feec", null ],
+    [ "pInstance", "d5/d08/a17601.html#aee9dac9efee94db3d84eb9c5fb8c88a2", null ]
 ];

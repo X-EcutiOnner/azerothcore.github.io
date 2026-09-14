@@ -1,12 +1,9 @@
 var a09973 =
 [
-    [ "EventLogEntry", "d0/d4b/a09973.html#a31726d40f7b89077b45ffbaca8396a9d", null ],
-    [ "EventLogEntry", "d0/d4b/a09973.html#a96a2e3a6d565db452e7d0f1a152f63c7", null ],
-    [ "~EventLogEntry", "d0/d4b/a09973.html#a8d6bf0a5a53fdc8e99ad53293d96af7c", null ],
-    [ "SaveToDB", "d0/d4b/a09973.html#a2ca71e291a44f95bb42d51083aa84985", null ],
-    [ "WritePacket", "d0/d4b/a09973.html#adffe90bd0265dea0ca2fd6bc83f3056e", null ],
-    [ "m_eventType", "d0/d4b/a09973.html#a00216643e6856591402c21df490c1fec", null ],
-    [ "m_newRank", "d0/d4b/a09973.html#ab733c92f478dc36e3b5ffc61799a6ce7", null ],
-    [ "m_playerGuid1", "d0/d4b/a09973.html#a06a2b45d16860c711829f49f97624272", null ],
-    [ "m_playerGuid2", "d0/d4b/a09973.html#a1f66e71f9536e484663e437bbcbcefca", null ]
+    [ "WorldPacketList", "d0/d4b/a09973.html#a27bf64080270086d6dbc752f8d96ec4c", null ],
+    [ "LocalizedPacketListDo", "d0/d4b/a09973.html#ab52133e238752f725f18580018a84cd2", null ],
+    [ "~LocalizedPacketListDo", "d0/d4b/a09973.html#a8442452027bcb5c98d60830e016803b5", null ],
+    [ "operator()", "d0/d4b/a09973.html#adea9610e36d436563ba1f472481aed85", null ],
+    [ "i_builder", "d0/d4b/a09973.html#a83bda52b10d30f7fd633c285b79e740b", null ],
+    [ "i_data_cache", "d0/d4b/a09973.html#ae2ec6175868c4c82274ce7a623a954a3", null ]
 ];

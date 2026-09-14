@@ -1,8 +1,7 @@
 var a14249 =
 [
-    [ "npc_varian_wrynnAI", "d6/daa/a14253.html", "d6/daa/a14253" ],
-    [ "npc_varian_wrynn", "d1/d5d/a14249.html#a1dd8e4664da693f3e4ecdd4581b96c87", null ],
-    [ "GetAI", "d1/d5d/a14249.html#aa5aa46f24a128e84ac2a837c012b2e02", null ],
-    [ "OnGossipHello", "d1/d5d/a14249.html#a95f6ff3f2a7db807b278d019e187ddec", null ],
-    [ "OnGossipSelect", "d1/d5d/a14249.html#a65d02bafebe9c5a45d707f8990d680a3", null ]
+    [ "HandleHit", "d1/d5d/a14249.html#aa06c722fbd75f11fa3ba43c77e68f15f", null ],
+    [ "Load", "d1/d5d/a14249.html#affe2cd261752db89b1b418eb18a3370c", null ],
+    [ "PrepareSpellScript", "d1/d5d/a14249.html#a90a11fb3309325c93e7c052e172a0d0b", null ],
+    [ "Register", "d1/d5d/a14249.html#aaadaf49a3757e78d69ffc32768945d16", null ]
 ];

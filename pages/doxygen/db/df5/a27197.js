@@ -1,6 +1,6 @@
 var a27197 =
 [
-    [ "HandleDummy", "db/df5/a27197.html#a39c913c3e3225a9b27d17d4ceadd3c70", null ],
-    [ "PrepareSpellScript", "db/df5/a27197.html#a7936186af106ae3ddeec3bc9b39ff127", null ],
-    [ "Register", "db/df5/a27197.html#aa8ce1f0413e19d8f6d403b220fc6749c", null ]
+    [ "HandleScript", "db/df5/a27197.html#ae81570045d4984ee5682a0333b1b142d", null ],
+    [ "PrepareSpellScript", "db/df5/a27197.html#acb074781e07961998362349a7616fc4e", null ],
+    [ "Register", "db/df5/a27197.html#aaf41593da5ebb1118ccb10a5d4d32b26", null ]
 ];

@@ -1,14 +1,17 @@
 var a22829 =
 [
-    [ "npc_maiev_illidan", "dd/de3/a22829.html#a0d19d9bb58c44662cdfb66a8fe373a60", null ],
-    [ "DamageTaken", "dd/de3/a22829.html#a780cc558c483efa3293d798cc6048a33", null ],
-    [ "DoAction", "dd/de3/a22829.html#a53607a158edf8fd772908b5d7af6edf1", null ],
-    [ "IsSummonedBy", "dd/de3/a22829.html#a1bf4f2f29132c5132e7903d089ace6e2", null ],
-    [ "JustEngagedWith", "dd/de3/a22829.html#ad1728d7d8b1b5f9db8db4d811c2ba630", null ],
-    [ "JustExitedCombat", "dd/de3/a22829.html#a5606060b12e17edfd6ad05f4f01dd339", null ],
-    [ "Reset", "dd/de3/a22829.html#a100db757c89634a58b9382216e2791ec", null ],
-    [ "SpellHit", "dd/de3/a22829.html#aa4d6626d6130a88519f86cfe70d9fb95", null ],
-    [ "UpdateAI", "dd/de3/a22829.html#a269e4a8f79b508e2da61cd5e2dc34664", null ],
-    [ "_outroActive", "dd/de3/a22829.html#af0f1e48d3712039cb110d5a69a464009", null ],
-    [ "instance", "dd/de3/a22829.html#ad41b6deb9406232629ad60ba66cfac6b", null ]
+    [ "boss_ambassador_hellmaw", "dd/de3/a22829.html#ae774dfa4379b7321ff194a796c9eb842", null ],
+    [ "AttackStart", "dd/de3/a22829.html#aa072ff0e9ce6e68f3ba0b4e51fb92f04", null ],
+    [ "CanAIAttack", "dd/de3/a22829.html#a35579b31dec1d0c110b459230ee129e4", null ],
+    [ "DoAction", "dd/de3/a22829.html#a3cbd58fb11fe8d297907bb40d69e4ccb", null ],
+    [ "DoMeleeAttackIfReady", "dd/de3/a22829.html#a8dd75d368f0f567561db45e1c53ad785", null ],
+    [ "InitializeAI", "dd/de3/a22829.html#a9b0170a49751def614126265240bb87c", null ],
+    [ "JustDied", "dd/de3/a22829.html#ae0e04500073a4c02c9656b4bcd63be9c", null ],
+    [ "JustEngagedWith", "dd/de3/a22829.html#a9ea9d60b8fa90a228951a38fc2f59325", null ],
+    [ "KilledUnit", "dd/de3/a22829.html#a5f7564ef25a36395cddf4e2c2dbc2dfc", null ],
+    [ "MoveInLineOfSight", "dd/de3/a22829.html#af3949b46f82863af699396729e88928b", null ],
+    [ "PathEndReached", "dd/de3/a22829.html#a46b9b96ec5e4c121d994560e85266dfe", null ],
+    [ "Reset", "dd/de3/a22829.html#a4881f868ac11eb66f3d15b44c94938bf", null ],
+    [ "UpdateAI", "dd/de3/a22829.html#a44dae5d6517e22dd2be399d08fa67a71", null ],
+    [ "isBanished", "dd/de3/a22829.html#a4805244997c42f5791400c5b1f5e6204", null ]
 ];

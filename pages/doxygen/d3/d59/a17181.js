@@ -1,5 +1,5 @@
 var a17181 =
 [
-    [ "achievement_better_off_dred", "d3/d59/a17181.html#a1ff3442ab3e166a4001c4c10777bdf8a", null ],
-    [ "OnCheck", "d3/d59/a17181.html#a9aab68b43fbf9f3c71c237b149f23b2d", null ]
+    [ "boss_fjolaAI", "d3/d59/a17181.html#aa46fdff841d01f28ef50aa5363082f71", null ],
+    [ "JustSummoned", "d3/d59/a17181.html#a59a3f2453f923d4f19c63e88402d1a76", null ]
 ];

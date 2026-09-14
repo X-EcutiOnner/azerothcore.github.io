@@ -1,5 +1,7 @@
 var a20585 =
 [
-    [ "achievement_ignis_shattered", "dd/d3a/a20585.html#adbe893b0dd409eb3f10768f81f182f61", null ],
-    [ "OnCheck", "dd/d3a/a20585.html#a8a77a6e6979b4b09f5208e51b4faa4c1", null ]
+    [ "HandleAfterEffectApply", "dd/d3a/a20585.html#adab765d78094eec673abce5140145267", null ],
+    [ "OnApply", "dd/d3a/a20585.html#aab4331a7a55dc6f713db02726ec22e3a", null ],
+    [ "PrepareAuraScript", "dd/d3a/a20585.html#acb827ae4299ae482d9b7f3fb09bbcc52", null ],
+    [ "Register", "dd/d3a/a20585.html#ac1007ce2ee5e046639829558855f0188", null ]
 ];

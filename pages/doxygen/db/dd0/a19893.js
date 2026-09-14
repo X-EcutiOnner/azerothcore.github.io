@@ -1,10 +1,14 @@
 var a19893 =
 [
-    [ "npc_oculus_drakegiverAI", "db/dd0/a19893.html#a4bba380256a0ede70b8d90611249b444", null ],
-    [ "MovementInform", "db/dd0/a19893.html#adc86ecd4ed7b4b7b42968a0e09fa29a0", null ],
-    [ "UpdateAI", "db/dd0/a19893.html#a652a8c364687d51de62356964f6f33f9", null ],
-    [ "m_pInstance", "db/dd0/a19893.html#a04e43a623d16b4cf8d80552d649d90ca", null ],
-    [ "moved", "db/dd0/a19893.html#a069e202a84d99cd757862bd1a43b5562", null ],
-    [ "resetPosition", "db/dd0/a19893.html#a8ef6c480846d08d8a6225a7124320cbf", null ],
-    [ "timer", "db/dd0/a19893.html#a461b45ab959e71699cf1543ecbcbd91f", null ]
+    [ "npc_crystalline_frayer", "db/dd0/a19893.html#ade88d8f4d4fd32155b87dfba75084f4c", null ],
+    [ "DamageTaken", "db/dd0/a19893.html#a2580575a58353e8cb94561bafd74f502", null ],
+    [ "EnterEvadeMode", "db/dd0/a19893.html#a9240adcfe966f11c925db82add432aa5", null ],
+    [ "EnterSeedPod", "db/dd0/a19893.html#a070554a809ba40726d005fdba19a16b0", null ],
+    [ "JustEngagedWith", "db/dd0/a19893.html#a91e8c4015b9b238fd2144999bcef9362", null ],
+    [ "LeaveSeedPod", "db/dd0/a19893.html#afe6ba31b18fa65aaa15daad3101149c2", null ],
+    [ "Reset", "db/dd0/a19893.html#a5baa6491ee0205b2b2e7bc8e6cd9a163", null ],
+    [ "UpdateAI", "db/dd0/a19893.html#ab494a601b9a5dc3d4c3c303bc4de3a94", null ],
+    [ "_allowDeath", "db/dd0/a19893.html#adc85054030146067d2cff47db2886a07", null ],
+    [ "_inSeedPod", "db/dd0/a19893.html#a26e0c5f780bc661796f922c52000c30a", null ],
+    [ "_scheduler", "db/dd0/a19893.html#a1faafa1c39716f7679ca0b2b2f10a641", null ]
 ];

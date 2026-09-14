@@ -1,6 +1,7 @@
 var a18661 =
 [
-    [ "npc_tirion_fordringAI", "d9/d74/a18665.html", "d9/d74/a18665" ],
-    [ "npc_tirion_fordring_tft", "d5/d3e/a18661.html#a04036d958e7ac643c9ba8d9073bca404", null ],
-    [ "GetAI", "d5/d3e/a18661.html#a41dcfa415831091531cbf46e946f442d", null ]
+    [ "HandleInfusion", "d5/d3e/a18661.html#a9f77330d81fef646dd5d5399800cba66", null ],
+    [ "PrepareSpellScript", "d5/d3e/a18661.html#ae0a272902b0a9f74058c1dbe62974358", null ],
+    [ "Register", "d5/d3e/a18661.html#ad759f6215e722f799156b4bdddcb7af1", null ],
+    [ "Validate", "d5/d3e/a18661.html#a7b7254e7c6cb0d819dd003ffd19d0731", null ]
 ];

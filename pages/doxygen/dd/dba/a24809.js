@@ -1,7 +1,7 @@
 var a24809 =
 [
-    [ "AfterApply", "dd/dba/a24809.html#aee69eceead7e31cce2638ff252f6653d", null ],
-    [ "AfterRemove", "dd/dba/a24809.html#ad53d25cc04f1b6cc1f3d0a8d9fc69a89", null ],
-    [ "PrepareAuraScript", "dd/dba/a24809.html#a0ccde960cb328cd1c72b2504376e92b4", null ],
-    [ "Register", "dd/dba/a24809.html#ab5f8afbfa688ebd548a5508543498b55", null ]
+    [ "HandleProc", "dd/dba/a24809.html#a60def76554cd5cf94d84ec1240d651dc", null ],
+    [ "PrepareAuraScript", "dd/dba/a24809.html#ae78484c4af6ddfcd6bf60df191f9db48", null ],
+    [ "Register", "dd/dba/a24809.html#a276526f7f988ce579dc67dc37eebbe87", null ],
+    [ "Validate", "dd/dba/a24809.html#a65986abd9db0dcfb70c8c8b21ff208ac", null ]
 ];

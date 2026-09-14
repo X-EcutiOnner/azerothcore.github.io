@@ -1,6 +1,6 @@
 var a24141 =
 [
-    [ "go_beaconAI", "dc/dbd/a24141.html#a95f0f62d4e34da650c22a7ce796fc85f", null ],
-    [ "OnStateChanged", "dc/dbd/a24141.html#a10bd78bf6c2451fe95163eb9083bdf44", null ],
-    [ "_whelpGUIDs", "dc/dbd/a24141.html#a083094ececd327c833649da6a755c635", null ]
+    [ "npc_simon_bunnyAI", "d7/d3f/a24145.html", "d7/d3f/a24145" ],
+    [ "npc_simon_bunny", "dc/dbd/a24141.html#afd3f3a24450bc8b748c0ff5b05b10da1", null ],
+    [ "GetAI", "dc/dbd/a24141.html#ac0c97609916321a1599c0722803a050f", null ]
 ];

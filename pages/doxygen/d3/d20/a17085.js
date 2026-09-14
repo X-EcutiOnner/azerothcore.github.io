@@ -1,6 +1,7 @@
 var a17085 =
 [
-    [ "boss_acidmawAI", "df/d24/a17089.html", "df/d24/a17089" ],
-    [ "boss_acidmaw", "d3/d20/a17085.html#a86e71bf9ae950a4f8efa58d6f679e8bf", null ],
-    [ "GetAI", "d3/d20/a17085.html#aacbd4c83e6e9c9790e6cf9a87e3aa9a0", null ]
+    [ "HandleDispel", "d3/d20/a17085.html#a7b24f38bbb7813826520f928b22d30aa", null ],
+    [ "PrepareAuraScript", "d3/d20/a17085.html#a0e0424bd590cfc4f85f40728bf6efd22", null ],
+    [ "Register", "d3/d20/a17085.html#a2bf6921550da3c13730fd98bded2c927", null ],
+    [ "Validate", "d3/d20/a17085.html#ad8b0bb389d232c74acf106b711414fa1", null ]
 ];

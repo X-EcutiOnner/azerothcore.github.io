@@ -1,6 +1,6 @@
 var a14405 =
 [
-    [ "go", "db/def/a14405.html#ac14168f8c25efe7fa22ec802259b3a11", null ],
-    [ "npc", "db/def/a14405.html#a04d6e67fa2fb208ca747798ccc53083d", null ],
-    [ "pos", "db/def/a14405.html#a51175880a326101b29879d7a6a62c48d", null ]
+    [ "cooldown", "db/def/a14405.html#aaf4772a0ac55280355e61d8c50198b3f", null ],
+    [ "spell", "db/def/a14405.html#a00ee3238030686e1cc66562f7cefb27a", null ],
+    [ "target", "db/def/a14405.html#a16e54dbd059baac1b6e7229621339d83", null ]
 ];

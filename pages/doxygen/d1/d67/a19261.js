@@ -1,7 +1,8 @@
 var a19261 =
 [
-    [ "HandleDummyLaunch", "d1/d67/a19261.html#a4991dab04ed9cb8cfd846588a8ef01bf", null ],
-    [ "PrepareSpellScript", "d1/d67/a19261.html#a8926bc8e228eaaa4a7d554643b50e48d", null ],
-    [ "Register", "d1/d67/a19261.html#add5dc6c0a3b618fba3d3a73b6c76235b", null ],
-    [ "Validate", "d1/d67/a19261.html#a577166695c1479e3730a70637bc18cf1", null ]
+    [ "CountTargets", "d1/d67/a19261.html#a3000d234134bb3d4b2e17fd1eff8f4f0", null ],
+    [ "HandleScript", "d1/d67/a19261.html#af058a0c458463bdba4a4eb73aa91c113", null ],
+    [ "PrepareSpellScript", "d1/d67/a19261.html#a83b2fad7cdc189a17129e25a015952ff", null ],
+    [ "Register", "d1/d67/a19261.html#af5e214ab418ca05ddd637c83d7a7e71a", null ],
+    [ "Validate", "d1/d67/a19261.html#a63e8e899cb1469dca26cd5fa34b85408", null ]
 ];

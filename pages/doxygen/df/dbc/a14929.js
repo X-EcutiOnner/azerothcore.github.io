@@ -1,8 +1,9 @@
 var a14929 =
 [
-    [ "npc_hallows_end_train_fire", "df/dbc/a14929.html#a0aacc53a7410590e8d1f05aa8d3e37ba", null ],
-    [ "Reset", "df/dbc/a14929.html#afdda52e0adce23f56fa9d1357469a17d", null ],
-    [ "SpellHit", "df/dbc/a14929.html#a5767b2a5a2ca1813812cf078b0dd1189", null ],
-    [ "UpdateAI", "df/dbc/a14929.html#a686a565e1743c31166d8d57f67a0adce", null ],
-    [ "timer", "df/dbc/a14929.html#a7fa7d23a587ab632d1b9a2b803f83cd4", null ]
+    [ "entries", "df/dbc/a14929.html#a8c55bbd253d6bea01e83c0aa7380dee5", null ],
+    [ "entries", "df/dbc/a14929.html#a953850b267eb6f599bb49d82080bdf64", null ],
+    [ "revelerId", "df/dbc/a14929.html#a9e4069ef00c8b4e31d8af06f34e12ad5", null ],
+    [ "schedule", "df/dbc/a14929.html#abf912f0df4468a233292020c71d70f78", null ],
+    [ "size", "df/dbc/a14929.html#ae6a3fa59e1eb384255c247abadc962d5", null ],
+    [ "spawns", "df/dbc/a14929.html#a09a3d07fa1b5ce5026b6191d43e8682c", null ]
 ];

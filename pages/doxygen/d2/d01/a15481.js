@@ -1,5 +1,6 @@
 var a15481 =
 [
-    [ "npc_idol_room_spawnerAI", "d2/d01/a15481.html#a77c4aa88d213271166158c8e75d41a69", null ],
-    [ "SetData", "d2/d01/a15481.html#aa0626c837086b4a275f4d51d1659a242", null ]
+    [ "instance_maraudon_InstanceMapScript", "d2/dcf/a15485.html", "d2/dcf/a15485" ],
+    [ "instance_maraudon", "d2/d01/a15481.html#aaae11d2569d04b42840b101a5702cf24", null ],
+    [ "GetInstanceScript", "d2/d01/a15481.html#ac4f5c7c3ee755226449c96b3e351f12d", null ]
 ];

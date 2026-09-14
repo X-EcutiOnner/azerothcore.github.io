@@ -1,10 +1,7 @@
 var a10165 =
 [
-    [ "MailReceiver", "d5/d2b/a10165.html#a6fba3ff0ab3167197f569631d766ce14", null ],
-    [ "MailReceiver", "d5/d2b/a10165.html#af0b094a704463ed76b1c08bc3cab0380", null ],
-    [ "MailReceiver", "d5/d2b/a10165.html#a9f69a0951c2b9d9152685632c744cf4e", null ],
-    [ "GetPlayer", "d5/d2b/a10165.html#a0113e33ef82e9f3112f8cd5793581a36", null ],
-    [ "GetPlayerGUIDLow", "d5/d2b/a10165.html#a0e29fba37b58c7bc92065b0221b8e31e", null ],
-    [ "m_receiver", "d5/d2b/a10165.html#a377b896e1dc7a0e89440efbc2b811ae7", null ],
-    [ "m_receiver_lowguid", "d5/d2b/a10165.html#a46b62a2b8dd0ebac981e0a1752e88743", null ]
+    [ "LootGroupInvalidSelector", "d5/d2b/a10165.html#abea815e8ee0d31cc64b3fd7f46033cca", null ],
+    [ "operator()", "d5/d2b/a10165.html#a2ea426fdeced03324c4a63184c2c1fc4", null ],
+    [ "_loot", "d5/d2b/a10165.html#a67b9d223426512af79bbf5b035c18a6d", null ],
+    [ "_lootMode", "d5/d2b/a10165.html#a10e307846a0731aa812388c29c0d4bc8", null ]
 ];

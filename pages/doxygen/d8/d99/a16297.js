@@ -1,6 +1,6 @@
 var a16297 =
 [
-    [ "npc_weegli_blastfuseAI", "d3/dae/a16301.html", "d3/dae/a16301" ],
-    [ "npc_weegli_blastfuse", "d8/d99/a16297.html#a2bf3b936e14c4cc0255f3109a35cb80f", null ],
-    [ "GetAI", "d8/d99/a16297.html#a701681d8771756dac20d30c2e03a1349", null ]
+    [ "SayerEntry", "d8/d99/a16297.html#a3f9e374ec2a49823d942c29572ac2fa0", null ],
+    [ "SayTimer", "d8/d99/a16297.html#a942073f24fd12da712184243d9f098f2", null ],
+    [ "TextEntry", "d8/d99/a16297.html#a360822e4c069be6019c0a465cb2499cf", null ]
 ];

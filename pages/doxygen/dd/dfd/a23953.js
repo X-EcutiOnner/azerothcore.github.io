@@ -1,8 +1,6 @@
 var a23953 =
 [
-    [ "HandleScriptEffect", "dd/dfd/a23953.html#a7cde39fc0844f19604c8026a853e8216", null ],
-    [ "Load", "dd/dfd/a23953.html#a5d3eb86208c4aa9c6592349d28c5df79", null ],
-    [ "PrepareSpellScript", "dd/dfd/a23953.html#a962de50d1fa35ca16b4753f55e5cbd47", null ],
-    [ "Register", "dd/dfd/a23953.html#aee6bd90e8b39132d4b53b67c22d6c331", null ],
-    [ "_currentSpellId", "dd/dfd/a23953.html#a0ad25535ba345fe9672150af67687305", null ]
+    [ "HandleCast", "dd/dfd/a23953.html#a912dc3b17ab7d0818089c32610d82a16", null ],
+    [ "PrepareSpellScript", "dd/dfd/a23953.html#a6590aab70049aa5e94ed48aeb99ab1d0", null ],
+    [ "Register", "dd/dfd/a23953.html#a09d4af96e2d5a69b1b61a6055bcb04d4", null ]
 ];

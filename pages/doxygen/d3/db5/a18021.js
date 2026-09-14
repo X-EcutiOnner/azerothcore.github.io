@@ -1,12 +1,9 @@
 var a18021 =
 [
-    [ "gunship_npc_AI", "d3/db5/a18021.html#a30c13cb755638fcf05d1ad9a476210d3", null ],
-    [ "EnterEvadeMode", "d3/db5/a18021.html#a7c2da25bb962c32fa350ee1f12f86ca4", null ],
-    [ "JustDied", "d3/db5/a18021.html#ad40c976be4decd9054dad031a4caab78", null ],
-    [ "MovementInform", "d3/db5/a18021.html#a3bae54b656fc5ed8c6fef80bd1721c71", null ],
-    [ "SetData", "d3/db5/a18021.html#acfd5e331155d7787ada33acbca73fece", null ],
-    [ "SetSlotInfo", "d3/db5/a18021.html#afdfc3f9add2952f90baf24d55425670f", null ],
-    [ "Index", "d3/db5/a18021.html#ae120874514cf5921136821b820a04da7", null ],
-    [ "Instance", "d3/db5/a18021.html#ab5276a099bcf56c5a25b3a52be516b5c", null ],
-    [ "Slot", "d3/db5/a18021.html#a59d237475ae309755d429cfac77d6630", null ]
+    [ "BattleExperienceEvent", "d3/db5/a18021.html#a3091b403089533ce2ebbb40fa38f28c9", null ],
+    [ "Execute", "d3/db5/a18021.html#a3971962ec90f682baeae96fe6098fa97", null ],
+    [ "_creature", "d3/db5/a18021.html#a0155536d5c2be329a1f3b57c4d852098", null ],
+    [ "_level", "d3/db5/a18021.html#a22f0d7e59f579362be4576180d0977b8", null ],
+    [ "ExperiencedSpells", "d3/db5/a18021.html#a5e2e06a386059ba2d9aff676648fa56b", null ],
+    [ "ExperiencedTimes", "d3/db5/a18021.html#af682cc246c7fdae39cc2a1e57110badc", null ]
 ];

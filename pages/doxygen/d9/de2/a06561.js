@@ -1,6 +1,7 @@
 var a06561 =
 [
-    [ "PlayerAI", "d9/de2/a06561.html#a880c670caddc1f24e42f229457039c67", null ],
-    [ "OnCharmed", "d9/de2/a06561.html#adf7ab64ed2a81c932730e39d885e4c67", null ],
-    [ "me", "d9/de2/a06561.html#a70a995521c55fb3d73d14e6be883eccc", null ]
+    [ "ReactorAI", "d9/de2/a06561.html#aaea292c46945399cf7c855e642941c2d", null ],
+    [ "MoveInLineOfSight", "d9/de2/a06561.html#a224608a62a15d679863d68d7d0e32dde", null ],
+    [ "Permissible", "d9/de2/a06561.html#a1b0845464b0d356be7bf38e65ab5eb19", null ],
+    [ "UpdateAI", "d9/de2/a06561.html#a10c4c10d9ac942990d1a1ef9eb6603ad", null ]
 ];

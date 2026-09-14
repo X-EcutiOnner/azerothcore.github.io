@@ -1,6 +1,8 @@
 var a26961 =
 [
-    [ "HandleEffectScriptEffect", "d8/dbd/a26961.html#a852a621f0b008dc1294dbeb9e9877a04", null ],
-    [ "PrepareSpellScript", "d8/dbd/a26961.html#a8b0f656994289f260645a2ae60d9ee4b", null ],
-    [ "Register", "d8/dbd/a26961.html#a1fa4dca7bae36c5e2acde0fe8b8cd801", null ]
+    [ "CheckCast", "d8/dbd/a26961.html#a5fc226206c08aa65459c144cd5f34c6c", null ],
+    [ "PrepareSpellScript", "d8/dbd/a26961.html#a1c0f324c7c2f2799990dcc116edd69cf", null ],
+    [ "Register", "d8/dbd/a26961.html#a35239e58eb76c0ffe74e0feee2250fa1", null ],
+    [ "TriggerDebuffs", "d8/dbd/a26961.html#a1579b28071e2194625f722a29ded39b8", null ],
+    [ "Validate", "d8/dbd/a26961.html#a767853d4b05e055cb32991bfe8c6516a", null ]
 ];

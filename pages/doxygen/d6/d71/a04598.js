@@ -1,8 +1,5 @@
 var a04598 =
 [
-    [ "Acore::Impl::CryptoGenericsImpl", "dc/d02/a05525.html", "dc/d02/a05525" ],
-    [ "AEDecrypt", "d6/d71/a04598.html#a1173a93d3f38af692d24411d34829de0", null ],
-    [ "AEDecrypt", "d6/d71/a04598.html#aeb3d22d5d1d2ceeb4a752b7dccc143b0", null ],
-    [ "AEEncryptWithRandomIV", "d6/d71/a04598.html#a0057c59e47839100792e392e2d73783a", null ],
-    [ "AEEncryptWithRandomIV", "d6/d71/a04598.html#a42045f5644391c1c876f0ae1bc180f7c", null ]
+    [ "HMAC_RESULT_SIZE", "d6/d71/a04598.html#abdb09168f87cd99a498636550843012d", null ],
+    [ "TOTP_INTERVAL", "d6/d71/a04598.html#abcaccdfb09251b1b2856cc0c48c64eda", null ]
 ];

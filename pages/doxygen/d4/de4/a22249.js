@@ -1,6 +1,7 @@
 var a22249 =
 [
-    [ "npc_still_at_it_triggerAI", "dd/dc3/a22253.html", "dd/dc3/a22253" ],
-    [ "npc_still_at_it_trigger", "d4/de4/a22249.html#a23366d00bd3b8217bdca7f0fca05d9bd", null ],
-    [ "GetAI", "d4/de4/a22249.html#ae273ea6295f50248d303983d4b4137df", null ]
+    [ "Absorb", "d4/de4/a22249.html#a784b48553696734abac77545df2fc045", null ],
+    [ "CalculateAmount", "d4/de4/a22249.html#a456ee99a71062f6217bda7561e4e7766", null ],
+    [ "PrepareAuraScript", "d4/de4/a22249.html#a456b1b70fd6d9b6642ec959677fe08ff", null ],
+    [ "Register", "d4/de4/a22249.html#aa3260fa9a1a918e13ccfc9cd57f59d19", null ]
 ];

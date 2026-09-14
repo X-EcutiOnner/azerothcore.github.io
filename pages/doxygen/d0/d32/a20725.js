@@ -1,5 +1,6 @@
 var a20725 =
 [
-    [ "achievement_mimiron_firefighter", "d0/d32/a20725.html#ae26c3b2572bc9e3e75fb25537fe46a6c", null ],
-    [ "OnCheck", "d0/d32/a20725.html#a1ebd287ef20c6d367f30b1c30ba68728", null ]
+    [ "HandleDamage", "d0/d32/a20725.html#af2578478e83eb2f6c2de32a692e9be91", null ],
+    [ "PrepareSpellScript", "d0/d32/a20725.html#a4ff1ab3534ea70b07b3a570afcb046fd", null ],
+    [ "Register", "d0/d32/a20725.html#a3ad00520c380e36dbb3531df0b5cc864", null ]
 ];

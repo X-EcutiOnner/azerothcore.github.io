@@ -1,7 +1,6 @@
 var a09485 =
 [
-    [ "GetAntiDosPolicyForOpcode", "d8/d9d/a09485.html#a9bbbc92f18c1c34c3359d0cad4299c2d", null ],
-    [ "instance", "d8/d9d/a09485.html#a859596f153aa470fa503f67092e26160", null ],
-    [ "LoadAntiDosOpcodePolicies", "d8/d9d/a09485.html#a9bd2c1a1ce11d9a50971d169a353e7f6", null ],
-    [ "_antiDosOpcodePolicies", "d8/d9d/a09485.html#acb7a5639f7ba378483e50aba8e93d68a", null ]
+    [ "faction", "d8/d9d/a09485.html#aaad6e04ef66264f040ddd91ae7f4e04b", null ],
+    [ "faction_rank", "d8/d9d/a09485.html#a1ffb9cddf950edfb17e9779691b09f07", null ],
+    [ "faction_rate", "d8/d9d/a09485.html#ab86cdfcd03a47f0c48e0661c5e9c8fd4", null ]
 ];

@@ -1,6 +1,11 @@
 var a16025 =
 [
-    [ "npc_clintar_spiritAI", "d2/d39/a16029.html", "d2/d39/a16029" ],
-    [ "npc_clintar_spirit", "df/d86/a16025.html#a416f5eea882f2c13c4c0f7dd81d36a2b", null ],
-    [ "GetAI", "df/d86/a16025.html#a118198504f6f93c86302275a11582d60", null ]
+    [ "npc_tiger_matriarchAI", "df/d86/a16025.html#accbe5feed1eb7363575f297d1b50f6ab", null ],
+    [ "DamageTaken", "df/d86/a16025.html#ab41c4275fe4f42b36615f746a100ccda", null ],
+    [ "IsSummonedBy", "df/d86/a16025.html#a8b02683be93944a65b38658bba0af4d8", null ],
+    [ "JustEngagedWith", "df/d86/a16025.html#a9a9295008552f5330f778dd3a0c591ea", null ],
+    [ "KilledUnit", "df/d86/a16025.html#aabde7633ac07966ee1cd2d9817582189", null ],
+    [ "UpdateAI", "df/d86/a16025.html#af8ed5b16a3f1ed04d439bc1ce1a07ede", null ],
+    [ "_events", "df/d86/a16025.html#a44632ddc3c4e57bee1791cda4027bc93", null ],
+    [ "_tigerGuid", "df/d86/a16025.html#ad557591ddebd4cece99b0e5793be3eb5", null ]
 ];

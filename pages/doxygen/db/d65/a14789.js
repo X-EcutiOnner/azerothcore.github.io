@@ -1,7 +1,6 @@
 var a14789 =
 [
-    [ "HandleScriptEffect", "db/d65/a14789.html#aaad3c8870d8ad748e3ac07287da32e84", null ],
-    [ "PrepareSpellScript", "db/d65/a14789.html#a3d906994c11e52e89c842189be73ddfd", null ],
-    [ "Register", "db/d65/a14789.html#a4cdab36e2265c696207a39e16549ab13", null ],
-    [ "Validate", "db/d65/a14789.html#a8aaf57bd54d3b2beb48b4e29053c1125", null ]
+    [ "HandleEffectApply", "db/d65/a14789.html#a06d50e8c0f7bfd1b055d8a3f5c14d357", null ],
+    [ "PrepareAuraScript", "db/d65/a14789.html#a5f8abd33848c554f9a530ad23c86a7a0", null ],
+    [ "Register", "db/d65/a14789.html#a2b39daf6fe325cfa909b964da62c2571", null ]
 ];

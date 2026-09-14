@@ -1,7 +1,6 @@
 var a11309 =
 [
-    [ "AutoEquipItemSlot", "d8/dce/a11309.html#aa51f40a4172ac41548ec6199bc84375d", null ],
-    [ "Read", "d8/dce/a11309.html#ade6a15026e9c461b38301edf79f367be", null ],
-    [ "DestinationSlot", "d8/dce/a11309.html#a683a9bd141b2f99db431de2ae7d213e3", null ],
-    [ "ItemGuid", "d8/dce/a11309.html#a9d4da587061833262acff66674d3ac41", null ]
+    [ "PlayerSaveGuildEmblem", "d8/dce/a11309.html#ae1269fb7583f0ce1703cd89d592b1485", null ],
+    [ "Write", "d8/dce/a11309.html#a0427be2f46cba4ff6b2ca072924bca7b", null ],
+    [ "Error", "d8/dce/a11309.html#a76930d3b74bf7b84a311b24b53d03b21", null ]
 ];

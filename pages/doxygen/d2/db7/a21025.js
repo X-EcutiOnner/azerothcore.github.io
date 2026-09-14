@@ -1,6 +1,6 @@
 var a21025 =
 [
-    [ "boss_yoggsaron_descend_portal", "d2/db7/a21025.html#aa64788351819e9c7f5505c929818770d", null ],
-    [ "OnSpellClick", "d2/db7/a21025.html#af72e8c3611b5e134e39ab9695405e08e", null ],
-    [ "_instance", "d2/db7/a21025.html#a6b430a5f4045cdf3c3524208f02d53d2", null ]
+    [ "HandleScript", "d2/db7/a21025.html#a679cf770e38e1fda66f8a64fff53f968", null ],
+    [ "PrepareSpellScript", "d2/db7/a21025.html#a89fe5ca5efcc45278bdd9017cfeaaf3f", null ],
+    [ "Register", "d2/db7/a21025.html#adc76a70e73cba42c0f9935b3b43d17cd", null ]
 ];

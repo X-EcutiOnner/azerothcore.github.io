@@ -1,7 +1,7 @@
 var a15001 =
 [
-    [ "CheckProc", "dc/dad/a15001.html#a4be98e79967d43908c0f642caab59348", null ],
-    [ "OnApply", "dc/dad/a15001.html#a30d33268b58507c228a4628031bffca0", null ],
-    [ "PrepareAuraScript", "dc/dad/a15001.html#a16dc3f52152d63b5512690c761f9915a", null ],
-    [ "Register", "dc/dad/a15001.html#a6494e4d7277e910ffa3b30c333117f00", null ]
+    [ "go_loosely_turned_soilAI", "d1/d7f/a15005.html", "d1/d7f/a15005" ],
+    [ "go_loosely_turned_soil", "dc/dad/a15001.html#a3b4d51e2b3a604e030962127269236f1", null ],
+    [ "GetAI", "dc/dad/a15001.html#acead5810a848f8837fa65af1f2ac00bd", null ],
+    [ "OnQuestReward", "dc/dad/a15001.html#a1ac57b34c5b3e21c033330eaeefaa6a8", null ]
 ];

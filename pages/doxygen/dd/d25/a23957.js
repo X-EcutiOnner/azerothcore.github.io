@@ -1,6 +1,6 @@
 var a23957 =
 [
-    [ "HandleScriptEffect", "dd/d25/a23957.html#a32c5e4743adeb3085a6eac062b8f6226", null ],
-    [ "PrepareSpellScript", "dd/d25/a23957.html#a0c51d5a108d8225387ce8a149a0a0c86", null ],
-    [ "Register", "dd/d25/a23957.html#a4b940caf98f1164be5e2f4e748811fc6", null ]
+    [ "OnApply", "dd/d25/a23957.html#a472220f22165c6d21eab5f4b5f75921e", null ],
+    [ "PrepareAuraScript", "dd/d25/a23957.html#a12dba24d5aa3d41671980d8dd509d6f2", null ],
+    [ "Register", "dd/d25/a23957.html#aa8530071a4053e6c6f8b194a9cc723e2", null ]
 ];

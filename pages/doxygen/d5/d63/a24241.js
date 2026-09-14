@@ -1,6 +1,5 @@
 var a24241 =
 [
-    [ "npc_infernal_attackerAI", "dd/dc8/a24245.html", "dd/dc8/a24245" ],
-    [ "npc_infernal_attacker", "d5/d63/a24241.html#ac6fbfcf8fc918b48d6b9416a71cfe3fa", null ],
-    [ "GetAI", "d5/d63/a24241.html#ad1d9186c186de36efbe102a07fe89de4", null ]
+    [ "go_warmaul_prison", "d5/d63/a24241.html#adffbb532d7ee3c5a67543fe15ce5b67b", null ],
+    [ "OnGossipHello", "d5/d63/a24241.html#ac9e66eeb30bf951d37f2d0917a295705", null ]
 ];

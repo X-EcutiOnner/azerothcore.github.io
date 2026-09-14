@@ -1,18 +1,11 @@
 var a28597 =
 [
-    [ "npc_doctorAI", "df/d78/a28597.html#a8efc303041393347eaaf38aff05f7b9c", null ],
-    [ "BeginEvent", "df/d78/a28597.html#a1439b4eb147700ca493dc5eaa1e2d5a4", null ],
-    [ "JustEngagedWith", "df/d78/a28597.html#aca786ccf8cf99d7ba49a08046147f121", null ],
-    [ "PatientDied", "df/d78/a28597.html#ad3e2a36e774d2dbd2a6779d8fb19ea88", null ],
-    [ "PatientSaved", "df/d78/a28597.html#af8a61f187f6bd57b98d8bf4c8c45e494", null ],
-    [ "Reset", "df/d78/a28597.html#af2d84b163d41b1b32e191200f54085c2", null ],
-    [ "UpdateAI", "df/d78/a28597.html#abe156e2303a9c743fa66b4f82808c707", null ],
-    [ "Coordinates", "df/d78/a28597.html#acda1ada9d7868bfd93ceaaa39f82731b", null ],
-    [ "Event", "df/d78/a28597.html#ad558d5c0a5fe07904445e893c09be980", null ],
-    [ "PatientDiedCount", "df/d78/a28597.html#a0774874d9d75feb8d8bf6ce201e719d9", null ],
-    [ "Patients", "df/d78/a28597.html#a75cd1e01322c09204ffe54cd92ad9543", null ],
-    [ "PatientSavedCount", "df/d78/a28597.html#abeda2ee514c6ed1544a7e27955fc86b8", null ],
-    [ "PlayerGUID", "df/d78/a28597.html#a97e2b2bd8a750817f23c51d36c49ae1c", null ],
-    [ "SummonPatientCount", "df/d78/a28597.html#a320c2e32c5003e880f7567c89db8ca8c", null ],
-    [ "SummonPatientTimer", "df/d78/a28597.html#adb9cd2ed50dd02f88c4f375a0be8ee89", null ]
+    [ "npc_franklinAI", "df/d78/a28597.html#a8385d2e39f2d051553cf84a54f3bc5ad", null ],
+    [ "DamageTaken", "df/d78/a28597.html#afa494098126ce3291e234cfc2b36336f", null ],
+    [ "JustEngagedWith", "df/d78/a28597.html#ab15fc7bcd912a6c583d4c219ba37c756", null ],
+    [ "Reset", "df/d78/a28597.html#a51a260460facf06ec6bb1486f434d885", null ],
+    [ "ScheduleEncounterStart", "df/d78/a28597.html#a2dcd6d0467eada6bd0d244e275c07d22", null ],
+    [ "SpellHit", "df/d78/a28597.html#aed6b5cfccbbe258f501b2da5c9dadb40", null ],
+    [ "UpdateAI", "df/d78/a28597.html#a8c3158b1e6c482dd82a6326954b8bbc5", null ],
+    [ "events", "df/d78/a28597.html#a2f72f9659aa62f80c5d8159df0d14e9f", null ]
 ];

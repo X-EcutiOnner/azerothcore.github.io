@@ -1,8 +1,7 @@
 var a12797 =
 [
-    [ "boss_halycon", "d9/d27/a12797.html#a8a88f0d26b4702fd1b4f015cc1366362", null ],
-    [ "JustDied", "d9/d27/a12797.html#a48bd1245ac5b76dac543a4389a8b37be", null ],
-    [ "JustEngagedWith", "d9/d27/a12797.html#a3f6ca689777e1aa43a214e8082897db1", null ],
-    [ "Reset", "d9/d27/a12797.html#a3b972bfcac3498c921978eab1d8fec4f", null ],
-    [ "UpdateAI", "d9/d27/a12797.html#acc375743131ce5643d04ae355b6d68b4", null ]
+    [ "boss_grizzle", "d9/d27/a12797.html#af5d864d2e06859a3c21506b8def424d0", null ],
+    [ "JustEngagedWith", "d9/d27/a12797.html#ad925b3a8190037e1768b1c5565656be7", null ],
+    [ "UpdateAI", "d9/d27/a12797.html#a72c28686adf331ed291585f830041041", null ],
+    [ "nextTremorTime", "d9/d27/a12797.html#a220d7e426d7bd2034cf2dc70d0a18f26", null ]
 ];

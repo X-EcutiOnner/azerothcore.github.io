@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: IdleMovementFactory Struct Reference</title>
+<title>AzerothCore: DynamicVisibilityMgr Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,50 +105,35 @@ $(document).ready(function(){initNavTree('dc/dcf/a10417.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
+<a href="#pro-static-attribs">Static Protected Attributes</a> &#124;
 <a href="../../dd/d33/a10414.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">IdleMovementFactory Struct Reference</div></div>
+  <div class="headertitle"><div class="title">DynamicVisibilityMgr Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">MovementGenerator.h</a>&quot;</code></p>
-<div class="dynheader">
-Inheritance diagram for IdleMovementFactory:</div>
-<div class="dyncontent">
- <div class="center">
-  <img src="../../dc/dcf/a10417.png" usemap="#IdleMovementFactory_map" alt=""/>
-  <map id="IdleMovementFactory_map" name="IdleMovementFactory_map">
-<area href="../../d3/dc0/a05573.html" alt="FactoryHolder&lt; T, O, Key &gt;" shape="rect" coords="0,0,415,24"/>
-  </map>
-</div></div>
+<p><code>#include &quot;<a class="el" href="../../">DynamicVisibility.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
-Public Member Functions</h2></td></tr>
-<tr class="memitem:af2bb5ef9fe67f3dda64d6ce44e825f52"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcf/a10417.html#af2bb5ef9fe67f3dda64d6ce44e825f52">IdleMovementFactory</a> ()</td></tr>
-<tr class="separator:af2bb5ef9fe67f3dda64d6ce44e825f52"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5e99eab3436482927bc83100f85581cd"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/df3/a10405.html">MovementGenerator</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcf/a10417.html#a5e99eab3436482927bc83100f85581cd">Create</a> (<a class="el" href="../../de/dd2/a09169.html">Unit</a> *object) const override</td></tr>
-<tr class="separator:a5e99eab3436482927bc83100f85581cd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_methods_a05573"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a05573')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d3/dc0/a05573.html">FactoryHolder&lt; T, O, Key &gt;</a></td></tr>
-<tr class="memitem:a5e7097c2a475378023f33ec430f4ca85 inherit pub_methods_a05573"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc0/a05573.html#a5e7097c2a475378023f33ec430f4ca85">FactoryHolder</a> (Key const &amp;k)</td></tr>
-<tr class="separator:a5e7097c2a475378023f33ec430f4ca85 inherit pub_methods_a05573"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a78673bd2f3d857127c1a91c49e3cd62f inherit pub_methods_a05573"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc0/a05573.html#a78673bd2f3d857127c1a91c49e3cd62f">~FactoryHolder</a> ()</td></tr>
-<tr class="separator:a78673bd2f3d857127c1a91c49e3cd62f inherit pub_methods_a05573"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9e173f9daaf5c2de36bb8b46da4249e1 inherit pub_methods_a05573"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc0/a05573.html#a9e173f9daaf5c2de36bb8b46da4249e1">RegisterSelf</a> ()</td></tr>
-<tr class="separator:a9e173f9daaf5c2de36bb8b46da4249e1 inherit pub_methods_a05573"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7072fb7dfe99890dea89b1ba661eb3ce inherit pub_methods_a05573"><td class="memItemLeft" align="right" valign="top">virtual T *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc0/a05573.html#a7072fb7dfe99890dea89b1ba661eb3ce">Create</a> (O *object=nullptr) const =0</td></tr>
-<tr class="memdesc:a7072fb7dfe99890dea89b1ba661eb3ce inherit pub_methods_a05573"><td class="mdescLeft">&#160;</td><td class="mdescRight">Abstract Factory create method.  <a href="../../d3/dc0/a05573.html#a7072fb7dfe99890dea89b1ba661eb3ce">More...</a><br /></td></tr>
-<tr class="separator:a7072fb7dfe99890dea89b1ba661eb3ce inherit pub_methods_a05573"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
+Static Public Member Functions</h2></td></tr>
+<tr class="memitem:aa95443d7050249a44cad2f16fa0026e5"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcf/a10417.html#aa95443d7050249a44cad2f16fa0026e5">Update</a> (<a class="el" href="../../d8/dca/a04670.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> sessionCount)</td></tr>
+<tr class="separator:aa95443d7050249a44cad2f16fa0026e5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac402ec0cb86192ce264d7909e09da5ac"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d8/dca/a04670.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcf/a10417.html#ac402ec0cb86192ce264d7909e09da5ac">GetVisibilityNotifyDelay</a> (<a class="el" href="../../d8/dca/a04670.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> map_type)</td></tr>
+<tr class="separator:ac402ec0cb86192ce264d7909e09da5ac"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9efd4acfe2ff5e4dfe0cc9e8fe802cc6"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d8/dca/a04670.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcf/a10417.html#a9efd4acfe2ff5e4dfe0cc9e8fe802cc6">GetAINotifyDelay</a> (<a class="el" href="../../d8/dca/a04670.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> map_type)</td></tr>
+<tr class="separator:a9efd4acfe2ff5e4dfe0cc9e8fe802cc6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a58687646bbf83723e8ad2925ee50452c"><td class="memItemLeft" align="right" valign="top">static float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcf/a10417.html#a58687646bbf83723e8ad2925ee50452c">GetReqMoveDistSq</a> (<a class="el" href="../../d8/dca/a04670.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> map_type)</td></tr>
+<tr class="separator:a58687646bbf83723e8ad2925ee50452c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="inherited" name="inherited"></a>
-Additional Inherited Members</h2></td></tr>
-<tr class="inherit_header pub_types_a05573"><td colspan="2" onclick="javascript:toggleInherit('pub_types_a05573')"><img src="../../closed.png" alt="-"/>&#160;Public Types inherited from <a class="el" href="../../d3/dc0/a05573.html">FactoryHolder&lt; T, O, Key &gt;</a></td></tr>
-<tr class="memitem:a5384598eca62a35bc617a4c395353ecd inherit pub_types_a05573"><td class="memItemLeft" align="right" valign="top">typedef <a class="el" href="../../de/dc2/a05601.html">ObjectRegistry</a>&lt; <a class="el" href="../../d3/dc0/a05573.html">FactoryHolder</a>&lt; T, O, Key &gt;, Key &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc0/a05573.html#a5384598eca62a35bc617a4c395353ecd">FactoryHolderRegistry</a></td></tr>
-<tr class="separator:a5384598eca62a35bc617a4c395353ecd inherit pub_types_a05573"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-static-attribs" name="pro-static-attribs"></a>
+Static Protected Attributes</h2></td></tr>
+<tr class="memitem:a35ebd0fcbdec8a3287f714cbe9becbcc"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d8/dca/a04670.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcf/a10417.html#a35ebd0fcbdec8a3287f714cbe9becbcc">visibilitySettingsIndex</a> = 0</td></tr>
+<tr class="separator:a35ebd0fcbdec8a3287f714cbe9becbcc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="af2bb5ef9fe67f3dda64d6ce44e825f52" name="af2bb5ef9fe67f3dda64d6ce44e825f52"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af2bb5ef9fe67f3dda64d6ce44e825f52">&#9670;&#160;</a></span>IdleMovementFactory()</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="a9efd4acfe2ff5e4dfe0cc9e8fe802cc6" name="a9efd4acfe2ff5e4dfe0cc9e8fe802cc6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9efd4acfe2ff5e4dfe0cc9e8fe802cc6">&#9670;&#160;</a></span>GetAINotifyDelay()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -157,27 +142,32 @@ Additional Inherited Members</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">IdleMovementFactory::IdleMovementFactory </td>
+          <td class="memname">static <a class="el" href="../../d8/dca/a04670.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> DynamicVisibilityMgr::GetAINotifyDelay </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d8/dca/a04670.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>map_type</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   98</span>: <a class="code hl_typedef" href="../../d9/d87/a00551.html#ae7a6c44762ef974149bfb8d00247a013">MovementGeneratorCreator</a>(<a class="code hl_enumvalue" href="../../dc/d2f/a00425.html#a4f12806b915efea564eae942207002f9a35e951ebafcab180b4bd926e5760803e">IDLE_MOTION_TYPE</a>) { }</div>
-<div class="ttc" id="aa00425_html_a4f12806b915efea564eae942207002f9a35e951ebafcab180b4bd926e5760803e"><div class="ttname"><a href="../../dc/d2f/a00425.html#a4f12806b915efea564eae942207002f9a35e951ebafcab180b4bd926e5760803e">IDLE_MOTION_TYPE</a></div><div class="ttdeci">@ IDLE_MOTION_TYPE</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:39</div></div>
-<div class="ttc" id="aa00551_html_ae7a6c44762ef974149bfb8d00247a013"><div class="ttname"><a href="../../d9/d87/a00551.html#ae7a6c44762ef974149bfb8d00247a013">MovementGeneratorCreator</a></div><div class="ttdeci">FactoryHolder&lt; MovementGenerator, Unit, MovementGeneratorType &gt; MovementGeneratorCreator</div><div class="ttdef"><b>Definition:</b> MovementGenerator.h:83</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   52</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d9/d6e/a01409.html#ab01e98c3eef9241e381bb20d29d66cbd">VisibilitySettings</a>[<a class="code hl_variable" href="../../dc/dcf/a10417.html#a35ebd0fcbdec8a3287f714cbe9becbcc">visibilitySettingsIndex</a>][map_type].<a class="code hl_variable" href="../../de/d40/a10413.html#af70453021c5ded85c73a4d5559dca2ea">aiNotifyDelay</a>; }</div>
+<div class="ttc" id="aa01409_html_ab01e98c3eef9241e381bb20d29d66cbd"><div class="ttname"><a href="../../d9/d6e/a01409.html#ab01e98c3eef9241e381bb20d29d66cbd">VisibilitySettings</a></div><div class="ttdeci">const VisibilitySettingData VisibilitySettings[VISIBILITY_SETTINGS_MAX_INTERVAL_NUM][5]</div><div class="ttdef"><b>Definition:</b> DynamicVisibility.h:36</div></div>
+<div class="ttc" id="aa10413_html_af70453021c5ded85c73a4d5559dca2ea"><div class="ttname"><a href="../../de/d40/a10413.html#af70453021c5ded85c73a4d5559dca2ea">VisibilitySettingData::aiNotifyDelay</a></div><div class="ttdeci">uint32 aiNotifyDelay</div><div class="ttdef"><b>Definition:</b> DynamicVisibility.h:26</div></div>
+<div class="ttc" id="aa10417_html_a35ebd0fcbdec8a3287f714cbe9becbcc"><div class="ttname"><a href="../../dc/dcf/a10417.html#a35ebd0fcbdec8a3287f714cbe9becbcc">DynamicVisibilityMgr::visibilitySettingsIndex</a></div><div class="ttdeci">static uint8 visibilitySettingsIndex</div><div class="ttdef"><b>Definition:</b> DynamicVisibility.h:55</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00026">VisibilitySettingData::aiNotifyDelay</a>, <a class="el" href="../../#l00036">VisibilitySettings</a>, and <a class="el" href="../../#l00055">visibilitySettingsIndex</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l03079">WorldObject::AddToNotify()</a>.</p>
+
 </div>
 </div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a5e99eab3436482927bc83100f85581cd" name="a5e99eab3436482927bc83100f85581cd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5e99eab3436482927bc83100f85581cd">&#9670;&#160;</a></span>Create()</h2>
+<a id="a58687646bbf83723e8ad2925ee50452c" name="a58687646bbf83723e8ad2925ee50452c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a58687646bbf83723e8ad2925ee50452c">&#9670;&#160;</a></span>GetReqMoveDistSq()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -186,25 +176,122 @@ Additional Inherited Members</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../da/df3/a10405.html">MovementGenerator</a> * IdleMovementFactory::Create </td>
+          <td class="memname">static float DynamicVisibilityMgr::GetReqMoveDistSq </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../de/dd2/a09169.html">Unit</a> *&#160;</td>
-          <td class="paramname"><em>object</em></td><td>)</td>
-          <td> const</td>
+          <td class="paramtype"><a class="el" href="../../d8/dca/a04670.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>map_type</em></td><td>)</td>
+          <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">override</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   26</span>{</div>
-<div class="line"><span class="lineno">   27</span>    <span class="keyword">static</span> <a class="code hl_class" href="../../df/d8c/a10449.html">IdleMovementGenerator</a> instance;</div>
-<div class="line"><span class="lineno">   28</span>    <span class="keywordflow">return</span> &amp;instance;</div>
-<div class="line"><span class="lineno">   29</span>}</div>
-<div class="ttc" id="aa10449_html"><div class="ttname"><a href="../../df/d8c/a10449.html">IdleMovementGenerator</a></div><div class="ttdef"><b>Definition:</b> IdleMovementGenerator.h:24</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   53</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d9/d6e/a01409.html#ab01e98c3eef9241e381bb20d29d66cbd">VisibilitySettings</a>[<a class="code hl_variable" href="../../dc/dcf/a10417.html#a35ebd0fcbdec8a3287f714cbe9becbcc">visibilitySettingsIndex</a>][map_type].<a class="code hl_variable" href="../../de/d40/a10413.html#aaa4faa0170181e409940b5441eb2f586">requiredMoveDistanceSq</a>; }</div>
+<div class="ttc" id="aa10413_html_aaa4faa0170181e409940b5441eb2f586"><div class="ttname"><a href="../../de/d40/a10413.html#aaa4faa0170181e409940b5441eb2f586">VisibilitySettingData::requiredMoveDistanceSq</a></div><div class="ttdeci">float requiredMoveDistanceSq</div><div class="ttdef"><b>Definition:</b> DynamicVisibility.h:27</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00027">VisibilitySettingData::requiredMoveDistanceSq</a>, <a class="el" href="../../#l00036">VisibilitySettings</a>, and <a class="el" href="../../#l00055">visibilitySettingsIndex</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l15891">Unit::ExecuteDelayedUnitRelocationEvent()</a>.</p>
+
+</div>
+</div>
+<a id="ac402ec0cb86192ce264d7909e09da5ac" name="ac402ec0cb86192ce264d7909e09da5ac"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac402ec0cb86192ce264d7909e09da5ac">&#9670;&#160;</a></span>GetVisibilityNotifyDelay()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static <a class="el" href="../../d8/dca/a04670.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> DynamicVisibilityMgr::GetVisibilityNotifyDelay </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/dca/a04670.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>map_type</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   51</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d9/d6e/a01409.html#ab01e98c3eef9241e381bb20d29d66cbd">VisibilitySettings</a>[<a class="code hl_variable" href="../../dc/dcf/a10417.html#a35ebd0fcbdec8a3287f714cbe9becbcc">visibilitySettingsIndex</a>][map_type].<a class="code hl_variable" href="../../de/d40/a10413.html#ad566fd5eff102929247b75cf5092a60b">visibilityNotifyDelay</a>; }</div>
+<div class="ttc" id="aa10413_html_ad566fd5eff102929247b75cf5092a60b"><div class="ttname"><a href="../../de/d40/a10413.html#ad566fd5eff102929247b75cf5092a60b">VisibilitySettingData::visibilityNotifyDelay</a></div><div class="ttdeci">uint32 visibilityNotifyDelay</div><div class="ttdef"><b>Definition:</b> DynamicVisibility.h:25</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00025">VisibilitySettingData::visibilityNotifyDelay</a>, <a class="el" href="../../#l00036">VisibilitySettings</a>, and <a class="el" href="../../#l00055">visibilitySettingsIndex</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l03079">WorldObject::AddToNotify()</a>.</p>
+
+</div>
+</div>
+<a id="aa95443d7050249a44cad2f16fa0026e5" name="aa95443d7050249a44cad2f16fa0026e5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa95443d7050249a44cad2f16fa0026e5">&#9670;&#160;</a></span>Update()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void DynamicVisibilityMgr::Update </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/dca/a04670.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>sessionCount</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   23</span>{</div>
+<div class="line"><span class="lineno">   24</span>    <span class="keywordflow">if</span> (sessionCount &gt;= (<a class="code hl_variable" href="../../dc/dcf/a10417.html#a35ebd0fcbdec8a3287f714cbe9becbcc">visibilitySettingsIndex</a> + 1) * ((<a class="code hl_typedef" href="../../d8/dca/a04670.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)<a class="code hl_define" href="../../d9/d6e/a01409.html#a2733c1a6a4018078df00a4c426661436">VISIBILITY_SETTINGS_PLAYER_INTERVAL</a>) &amp;&amp; <a class="code hl_variable" href="../../dc/dcf/a10417.html#a35ebd0fcbdec8a3287f714cbe9becbcc">visibilitySettingsIndex</a> &lt; <a class="code hl_define" href="../../d9/d6e/a01409.html#ae515340ce2037b26a80e4db46e653b59">VISIBILITY_SETTINGS_MAX_INTERVAL_NUM</a> - 1)</div>
+<div class="line"><span class="lineno">   25</span>        ++<a class="code hl_variable" href="../../dc/dcf/a10417.html#a35ebd0fcbdec8a3287f714cbe9becbcc">visibilitySettingsIndex</a>;</div>
+<div class="line"><span class="lineno">   26</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dc/dcf/a10417.html#a35ebd0fcbdec8a3287f714cbe9becbcc">visibilitySettingsIndex</a> &amp;&amp; sessionCount &lt; <a class="code hl_variable" href="../../dc/dcf/a10417.html#a35ebd0fcbdec8a3287f714cbe9becbcc">visibilitySettingsIndex</a> * ((<a class="code hl_typedef" href="../../d8/dca/a04670.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)<a class="code hl_define" href="../../d9/d6e/a01409.html#a2733c1a6a4018078df00a4c426661436">VISIBILITY_SETTINGS_PLAYER_INTERVAL</a>) - 100)</div>
+<div class="line"><span class="lineno">   27</span>        --<a class="code hl_variable" href="../../dc/dcf/a10417.html#a35ebd0fcbdec8a3287f714cbe9becbcc">visibilitySettingsIndex</a>;</div>
+<div class="line"><span class="lineno">   28</span>}</div>
+<div class="ttc" id="aa01409_html_a2733c1a6a4018078df00a4c426661436"><div class="ttname"><a href="../../d9/d6e/a01409.html#a2733c1a6a4018078df00a4c426661436">VISIBILITY_SETTINGS_PLAYER_INTERVAL</a></div><div class="ttdeci">#define VISIBILITY_SETTINGS_PLAYER_INTERVAL</div><div class="ttdef"><b>Definition:</b> DynamicVisibility.h:34</div></div>
+<div class="ttc" id="aa01409_html_ae515340ce2037b26a80e4db46e653b59"><div class="ttname"><a href="../../d9/d6e/a01409.html#ae515340ce2037b26a80e4db46e653b59">VISIBILITY_SETTINGS_MAX_INTERVAL_NUM</a></div><div class="ttdeci">#define VISIBILITY_SETTINGS_MAX_INTERVAL_NUM</div><div class="ttdef"><b>Definition:</b> DynamicVisibility.h:35</div></div>
+<div class="ttc" id="aa04670_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d8/dca/a04670.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00035">VISIBILITY_SETTINGS_MAX_INTERVAL_NUM</a>, <a class="el" href="../../#l00034">VISIBILITY_SETTINGS_PLAYER_INTERVAL</a>, and <a class="el" href="../../#l00055">visibilitySettingsIndex</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l01118">World::Update()</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="a35ebd0fcbdec8a3287f714cbe9becbcc" name="a35ebd0fcbdec8a3287f714cbe9becbcc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a35ebd0fcbdec8a3287f714cbe9becbcc">&#9670;&#160;</a></span>visibilitySettingsIndex</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/dca/a04670.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> DynamicVisibilityMgr::visibilitySettingsIndex = 0</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00052">GetAINotifyDelay()</a>, <a class="el" href="../../#l00053">GetReqMoveDistSq()</a>, <a class="el" href="../../#l00051">GetVisibilityNotifyDelay()</a>, and <a class="el" href="../../#l00022">Update()</a>.</p>
+
 </div>
 </div>
 </div><!-- contents -->
@@ -212,8 +299,8 @@ Additional Inherited Members</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dc/dcf/a10417.html">IdleMovementFactory</a></li>
-    <li class="footer">Generated on Mon Sep 7 2026 23:04:44 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dc/dcf/a10417.html">DynamicVisibilityMgr</a></li>
+    <li class="footer">Generated on Mon Sep 14 2026 23:33:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

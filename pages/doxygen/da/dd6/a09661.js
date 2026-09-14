@@ -1,8 +1,7 @@
 var a09661 =
 [
-    [ "GameObjectWorker", "da/dd6/a09661.html#a79dd3983b007d982bbb1f0b33c5c7a54", null ],
-    [ "Visit", "da/dd6/a09661.html#a754197d7a9aa3203cda964cbee81ae9a", null ],
-    [ "Visit", "da/dd6/a09661.html#a47a10a6790179eb5b78cbb66dd9d7b54", null ],
-    [ "_func", "da/dd6/a09661.html#abeaa251f909368e3ebeeff4dcefbda94", null ],
-    [ "_phaseMask", "da/dd6/a09661.html#accfe66385f5bbfb461d0493c22fde20e", null ]
+    [ "CreatureRelocationNotifier", "da/dd6/a09661.html#aa144cd2c5b69351afd312084c0e97f0d", null ],
+    [ "Visit", "da/dd6/a09661.html#aa69e9bd551895ca3497d1bfbe5fa79ba", null ],
+    [ "Visit", "da/dd6/a09661.html#a8b346c55d80a8ed92afa2e1f591f5807", null ],
+    [ "i_creature", "da/dd6/a09661.html#a3116f6245816ba8fb9edb5995faa9927", null ]
 ];

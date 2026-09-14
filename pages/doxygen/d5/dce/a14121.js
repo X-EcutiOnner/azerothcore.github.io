@@ -1,9 +1,6 @@
 var a14121 =
 [
-    [ "npc_marzon_silent_bladeAI", "d5/dce/a14121.html#a9f29c3b56e26421dabc2c95b8cd0407e", null ],
-    [ "EnterEvadeMode", "d5/dce/a14121.html#a0b42596550d045f5ca0096ceee80c0ac", null ],
-    [ "JustEngagedWith", "d5/dce/a14121.html#a116b3458f342811e378713e6a67f76a6", null ],
-    [ "MovementInform", "d5/dce/a14121.html#a32201d45f0c19212becb6319a48366f8", null ],
-    [ "Reset", "d5/dce/a14121.html#a51c2b16c767ce2922564dc9e4048e089", null ],
-    [ "UpdateAI", "d5/dce/a14121.html#aa6686399b41d32429d530dcc2ec41185", null ]
+    [ "OnEffect", "d5/dce/a14121.html#a41903586310ec274dd10537ccb8655f3", null ],
+    [ "PrepareSpellScript", "d5/dce/a14121.html#a17240b9d80e5f30cd4638e2ec5b92d0b", null ],
+    [ "Register", "d5/dce/a14121.html#a64ef9effcdeaf13b58aeef889d777f22", null ]
 ];

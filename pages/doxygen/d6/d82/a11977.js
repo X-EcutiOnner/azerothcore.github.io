@@ -1,6 +1,7 @@
 var a11977 =
 [
-    [ "apPctMod", "d6/d82/a11977.html#a35f5f8f7a3ac33768299913fecc1cf8d", null ],
-    [ "flatMod", "d6/d82/a11977.html#a0d66e48d986f246e6aea08dd00837158", null ],
-    [ "pctMod", "d6/d82/a11977.html#af13802a7f6872cfce3a1d14655f30287", null ]
+    [ "SpellImmune", "d6/d82/a11977.html#a70ebcde656db6c4d7c21fb03af44978a", null ],
+    [ "blockType", "d6/d82/a11977.html#a13a353d02a7330820df170eb46e7a26d", null ],
+    [ "spellId", "d6/d82/a11977.html#a6aeb1bebf2f079424ebfa5192c568adc", null ],
+    [ "type", "d6/d82/a11977.html#ae1a414f35b2cce61cd4f5640c761f7ea", null ]
 ];

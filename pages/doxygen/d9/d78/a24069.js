@@ -1,7 +1,7 @@
 var a24069 =
 [
-    [ "npc_daranelleAI", "d9/d78/a24069.html#a49eeff6e0aea079a0375a92074227d12", null ],
-    [ "JustEngagedWith", "d9/d78/a24069.html#aeff39dfd84986186057cdaf7632eed4f", null ],
-    [ "MoveInLineOfSight", "d9/d78/a24069.html#a353e27c1485b88f0751a64260898d35b", null ],
-    [ "Reset", "d9/d78/a24069.html#a33b2fbec775257e3ba0bebe37fb86349", null ]
+    [ "HandleDamage", "d9/d78/a24069.html#add7e78111217d00bfa3dfa5b3eb490f9", null ],
+    [ "HandleTargets", "d9/d78/a24069.html#ac9e455d4ef5cc7b7ce424b70b4387c78", null ],
+    [ "PrepareSpellScript", "d9/d78/a24069.html#a46b62a09ea23cb102b0e5cf075c727d4", null ],
+    [ "Register", "d9/d78/a24069.html#a8873614ae22c908cb2cf49129fc53be2", null ]
 ];

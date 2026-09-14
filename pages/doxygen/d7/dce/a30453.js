@@ -1,5 +1,6 @@
 var a30453 =
 [
-    [ "max", "d7/dce/a30453.html#a3d87d5fa5e887282fa76a4a4b77eb097", null ],
-    [ "min", "d7/dce/a30453.html#a7277258d8bdc471a007814fadf91780a", null ]
+    [ "height", "d7/dce/a30453.html#a7638f586a055c48a46e36471543ff72f", null ],
+    [ "unk1", "d7/dce/a30453.html#a6c08b6fa33e12a9900218d0d0b8b78d5", null ],
+    [ "unk2", "d7/dce/a30453.html#a394a04f6e985824aa259a42b11b97136", null ]
 ];

@@ -1,7 +1,7 @@
 var a23457 =
 [
-    [ "boss_hydromancer_thespia", "da/d69/a23457.html#a5747c2da9914dcf4118ee0fb37a3a3fd", null ],
-    [ "JustDied", "da/d69/a23457.html#ad0662daabd636bbf544a6791187d71fa", null ],
-    [ "JustEngagedWith", "da/d69/a23457.html#af230e57ec259e5c92c4034a674d1b6a5", null ],
-    [ "KilledUnit", "da/d69/a23457.html#ae1bb4819867ef5718cb5d9130d62fa20", null ]
+    [ "go_ahune_ice_spear", "da/d69/a23457.html#a22922e47b819bc60e331cffbc7c353b3", null ],
+    [ "Reset", "da/d69/a23457.html#abd11525a84d3ab06a39d1eb7e7c09fbc", null ],
+    [ "UpdateAI", "da/d69/a23457.html#ae498fc1f71906af2f20e95dea4df4a2b", null ],
+    [ "_scheduler", "da/d69/a23457.html#a7e1dab03b33b0114cc0a40fc02e2306e", null ]
 ];

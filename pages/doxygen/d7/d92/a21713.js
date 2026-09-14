@@ -1,6 +1,8 @@
 var a21713 =
 [
-    [ "HandleScriptEffect", "d7/d92/a21713.html#a6ba170146e6b66e00b98bb63baf3d710", null ],
-    [ "PrepareSpellScript", "d7/d92/a21713.html#a29f6a1a5057f1e071db855292500b99c", null ],
-    [ "Register", "d7/d92/a21713.html#a88b70634327bf5c66555149822a2e504", null ]
+    [ "npc_mootoo_the_youngerAI", "d7/d92/a21713.html#a70a5a502dab9a90a790a90eabc5c3acd", null ],
+    [ "JustDied", "d7/d92/a21713.html#a766612f646a6d22d3f0e6f93298e34bc", null ],
+    [ "Reset", "d7/d92/a21713.html#a04624b9b4d552d6b27308edc3ad44644", null ],
+    [ "WaypointReached", "d7/d92/a21713.html#ac758a992ed0d62a272930c84d617b348", null ],
+    [ "WaypointReached", "d7/d92/a21713.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

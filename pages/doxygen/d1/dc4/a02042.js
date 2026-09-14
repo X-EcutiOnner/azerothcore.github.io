@@ -1,10 +1,22 @@
 var a02042 =
 [
-    [ "AddGossipItemFor", "d1/dc4/a02042.html#a21e32e886a589c9093660b3c4c58f72c", null ],
-    [ "AddGossipItemFor", "d1/dc4/a02042.html#a1d54254ae4ddb1bb0e9e2c74dffe5bf5", null ],
-    [ "AddGossipItemFor", "d1/dc4/a02042.html#acd7e8e52a911742a99728cf9408e23b8", null ],
-    [ "ClearGossipMenuFor", "d1/dc4/a02042.html#af077a82741577a63a075c7d40b3b3dc5", null ],
-    [ "CloseGossipMenuFor", "d1/dc4/a02042.html#af8f7e54dac5ecc86e92d780c3918cb09", null ],
-    [ "SendGossipMenuFor", "d1/dc4/a02042.html#ad893abf2b09592b57715ef4a3222a2b3", null ],
-    [ "SendGossipMenuFor", "d1/dc4/a02042.html#ab43ecd551b53630add88fbf882236f78", null ]
+    [ "AISpellInfoType", "d5/d07/a06617.html", "d5/d07/a06617" ],
+    [ "AI_DEFAULT_COOLDOWN", "d1/dc4/a02042.html#a41c947edd84b4f2bb45133dc7aa00cad", null ],
+    [ "AICondition", "d1/dc4/a02042.html#ac43b18581ae7a7b66984b1003502d5af", [
+      [ "AICOND_AGGRO", "d1/dc4/a02042.html#ac43b18581ae7a7b66984b1003502d5afac41d9d90387a55a0b5be34e13683f9c8", null ],
+      [ "AICOND_COMBAT", "d1/dc4/a02042.html#ac43b18581ae7a7b66984b1003502d5afa6be0faa08bd4f7bb7891ce5e2b7e4642", null ],
+      [ "AICOND_DIE", "d1/dc4/a02042.html#ac43b18581ae7a7b66984b1003502d5afaeda5ad2d2df79acf7c72e4785011cf6e", null ]
+    ] ],
+    [ "AITarget", "d1/dc4/a02042.html#a0160eb61118b5e41325297a2e1691805", [
+      [ "AITARGET_SELF", "d1/dc4/a02042.html#a0160eb61118b5e41325297a2e1691805a4b428b5bdc3edc7ea5f9ca4c9780e7f2", null ],
+      [ "AITARGET_VICTIM", "d1/dc4/a02042.html#a0160eb61118b5e41325297a2e1691805a7a53e2d219f908fcf583c5c00d5d9452", null ],
+      [ "AITARGET_ENEMY", "d1/dc4/a02042.html#a0160eb61118b5e41325297a2e1691805a96629d4be8c89fe161fecd4a8fc34439", null ],
+      [ "AITARGET_ALLY", "d1/dc4/a02042.html#a0160eb61118b5e41325297a2e1691805a0a4905e11672a2854778c1c2c8221b56", null ],
+      [ "AITARGET_BUFF", "d1/dc4/a02042.html#a0160eb61118b5e41325297a2e1691805a1dedb7d4847bb64f81a7760ce25670ed", null ],
+      [ "AITARGET_DEBUFF", "d1/dc4/a02042.html#a0160eb61118b5e41325297a2e1691805aad9b55cf2a0d16b9eb1620544f0e3654", null ]
+    ] ],
+    [ "GetAISpellInfo", "d1/dc4/a02042.html#a1ed41ad074263f6c0c63f38b7f51414b", null ],
+    [ "GetInstanceAI", "d1/dc4/a02042.html#a6650ccba23715eea545340cd3e712233", null ],
+    [ "InstanceHasScript", "d1/dc4/a02042.html#aad76768c8aee9ce3ac24657437adb0de", null ],
+    [ "RAND", "d1/dc4/a02042.html#a95d9a0c5ba0d54645670ba51c16ed33c", null ]
 ];

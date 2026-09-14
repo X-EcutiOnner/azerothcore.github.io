@@ -1,9 +1,7 @@
 var a15057 =
 [
-    [ "HandlePeriodic", "d7/d55/a15057.html#ae5f611f0643cdfc3d403cee89667b0f6", null ],
-    [ "Load", "d7/d55/a15057.html#aa90cfb5fdb96e8670fa35dd3c16350c0", null ],
-    [ "PrepareAuraScript", "d7/d55/a15057.html#afeb65196cbafc813bb02eb3907e59fc2", null ],
-    [ "Register", "d7/d55/a15057.html#ac331de3219ae7da9e35e962011540bdf", null ],
-    [ "Validate", "d7/d55/a15057.html#a7de36e3ee777b02ab6fc4671e4e9f5ab", null ],
-    [ "_buffGiven", "d7/d55/a15057.html#aec2476ad5e046213b90af04ad91f0230", null ]
+    [ "CheckProc", "d7/d55/a15057.html#a4be98e79967d43908c0f642caab59348", null ],
+    [ "OnApply", "d7/d55/a15057.html#a30d33268b58507c228a4628031bffca0", null ],
+    [ "PrepareAuraScript", "d7/d55/a15057.html#a16dc3f52152d63b5512690c761f9915a", null ],
+    [ "Register", "d7/d55/a15057.html#a6494e4d7277e910ffa3b30c333117f00", null ]
 ];

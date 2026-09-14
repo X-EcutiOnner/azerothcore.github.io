@@ -1,4 +1,4 @@
 var a00269 =
 [
-    [ "Reference< TO, FROM >", "dc/d4a/a05587.html", "dc/d4a/a05587" ]
+    [ "DatabaseWorkerPoolAdapter< T >", "d4/d82/a06121.html", "d4/d82/a06121" ]
 ];

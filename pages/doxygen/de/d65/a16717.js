@@ -1,20 +1,8 @@
 var a16717 =
 [
-    [ "instance_ruby_sanctum_InstanceMapScript", "de/d65/a16717.html#a98a097bfa32aedc3fe1d6600f147c94f", null ],
-    [ "FillInitialWorldStates", "de/d65/a16717.html#a92cf11c73a596e0be141d9626ff10d3d", null ],
-    [ "GetGuidData", "de/d65/a16717.html#aaee1be892a411ed2fe720aff91c1dbbe", null ],
-    [ "OnCreatureCreate", "de/d65/a16717.html#a18f4f8286f7ca85b1a366b1ca3ffe6b3", null ],
-    [ "OnGameObjectCreate", "de/d65/a16717.html#a27c4858d5972471ef91a269c11fc0494", null ],
-    [ "OnGameObjectRemove", "de/d65/a16717.html#ac53fa1af91c66a264fdd016abe40168c", null ],
-    [ "OnPlayerEnter", "de/d65/a16717.html#a74b01d2d0b48e95f758a1143fccf40ae", null ],
-    [ "SetBossState", "de/d65/a16717.html#a3542b2f1f54fc25720bba1b4f2d12e5f", null ],
-    [ "BaltharusTheWarbornGUID", "de/d65/a16717.html#a99cb15668a0eb037fc7edd6a2340ca33", null ],
-    [ "FlameRingGUID", "de/d65/a16717.html#a52256dd98ae786bfe9bfc86ce036a060", null ],
-    [ "GeneralZarithrianGUID", "de/d65/a16717.html#ad92ac599589bdd8b7c3aa055b451f0cf", null ],
-    [ "HalionControllerGUID", "de/d65/a16717.html#a52144a0152a2ea00066c0d24bdee0b74", null ],
-    [ "HalionGUID", "de/d65/a16717.html#a0b824e7cf269619220329aecba08e448", null ],
-    [ "OrbCarrierGUID", "de/d65/a16717.html#a723b8a7384d0b9455b3a99172a903868", null ],
-    [ "TwilightHalionGUID", "de/d65/a16717.html#a165f776c123fa595b6424be666fa8570", null ],
-    [ "XerestraszaGUID", "de/d65/a16717.html#aefcf3beb1d5da118c80d3af9eb21ec99", null ],
-    [ "ZarithrianSpawnStalkerGUID", "de/d65/a16717.html#a5e28d815149507f4bc6a30e42d4034a4", null ]
+    [ "OnApply", "de/d65/a16717.html#a7165da94ce589afcd24411a308802c18", null ],
+    [ "OnRemove", "de/d65/a16717.html#a8a43050c44b4d3d5b48f4e2c6fcc0b49", null ],
+    [ "PrepareAuraScript", "de/d65/a16717.html#ab8361bc1d2cc786b52f1fc2b7ff09527", null ],
+    [ "Register", "de/d65/a16717.html#a0ff7bbd0dea458b15231ecf419b1c49c", null ],
+    [ "Validate", "de/d65/a16717.html#acf29b80b7b74c3f409e1f046b8062994", null ]
 ];

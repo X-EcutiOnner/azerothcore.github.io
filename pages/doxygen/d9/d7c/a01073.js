@@ -1,5 +1,8 @@
 var a01073 =
 [
-    [ "GetWeatherData", "d9/d7c/a01073.html#gaeca3a72d5a44b5beb019b99cf0b30aff", null ],
-    [ "LoadWeatherData", "d9/d7c/a01073.html#ga6c7d8a9fc5dfce0880220f4b5b8cd623", null ]
+    [ "WorldPackets::Query::NameQuery", "d0/ddc/a11625.html", "d0/ddc/a11625" ],
+    [ "WorldPackets::Query::NameQueryResponse", "d3/d20/a11629.html", "d3/d20/a11629" ],
+    [ "WorldPackets::Query::TimeQuery", "d7/d9e/a11633.html", "d7/d9e/a11633" ],
+    [ "WorldPackets::Query::TimeQueryResponse", "db/d17/a11637.html", "db/d17/a11637" ],
+    [ "WorldPackets::Query::CorpseMapPositionQuery", "d7/ddf/a11641.html", "d7/ddf/a11641" ]
 ];

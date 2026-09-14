@@ -1,17 +1,21 @@
 var a01811 =
 [
-    [ "Arena", "d9/d95/a07627.html", "d9/d95/a07627" ],
-    [ "ArenaBroadcastTexts", "d2/d31/a01811.html#a407f2036481e3d9e2def3daa50546c71", [
-      [ "ARENA_TEXT_START_ONE_MINUTE", "d2/d31/a01811.html#a407f2036481e3d9e2def3daa50546c71a12b484d249dd320cfc39bdf39279d854", null ],
-      [ "ARENA_TEXT_START_THIRTY_SECONDS", "d2/d31/a01811.html#a407f2036481e3d9e2def3daa50546c71a49cdd0c5a035f182212d6fe53a1e2084", null ],
-      [ "ARENA_TEXT_START_FIFTEEN_SECONDS", "d2/d31/a01811.html#a407f2036481e3d9e2def3daa50546c71a96636e959a178535f5d886c81ec6a8d9", null ],
-      [ "ARENA_TEXT_START_BATTLE_HAS_BEGUN", "d2/d31/a01811.html#a407f2036481e3d9e2def3daa50546c71a60ff93f414424628c66faf8f424f1dcd", null ]
+    [ "Totem", "df/d3b/a09125.html", "df/d3b/a09125" ],
+    [ "EARTHBIND_TOTEM_ENTRY", "d2/d31/a01811.html#a6cae59b1369b7371cefb92be8fc73fa5", null ],
+    [ "SENTRY_TOTEM_ENTRY", "d2/d31/a01811.html#a2bd46e1df17fdee45cd35896306092fb", null ],
+    [ "TotemImmunitySpells", "d2/d31/a01811.html#a526213bf692d4f8d189a61617f4a59c9", [
+      [ "SPELL_CYCLONE", "d2/d31/a01811.html#a526213bf692d4f8d189a61617f4a59c9ab0dea4de61535b7690ae66cfa6440f58", null ],
+      [ "SPELL_STONECLAW", "d2/d31/a01811.html#a526213bf692d4f8d189a61617f4a59c9ad0896fc7fa22551f57cc65fd56ee8649", null ],
+      [ "SPELL_BIND_SIGHT", "d2/d31/a01811.html#a526213bf692d4f8d189a61617f4a59c9a1f48e779f72284c7b1140c6be1a5a81a", null ],
+      [ "SPELL_INTERVENE", "d2/d31/a01811.html#a526213bf692d4f8d189a61617f4a59c9ac663f276cbe6aa86a2ae46813fc14b8c", null ]
     ] ],
-    [ "ArenaSpellIds", "d2/d31/a01811.html#a05b7784b7a9a1ce8e6367f6f9bb875d9", [
-      [ "SPELL_ALLIANCE_GOLD_FLAG", "d2/d31/a01811.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a310e16f368a3a7d80eeecbaecd5c489c", null ],
-      [ "SPELL_ALLIANCE_GREEN_FLAG", "d2/d31/a01811.html#a05b7784b7a9a1ce8e6367f6f9bb875d9aeae9474d707e5496dfdf0fd49871bb9f", null ],
-      [ "SPELL_HORDE_GOLD_FLAG", "d2/d31/a01811.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a83058f9219943bb8b4d4a3024d172af0", null ],
-      [ "SPELL_HORDE_GREEN_FLAG", "d2/d31/a01811.html#a05b7784b7a9a1ce8e6367f6f9bb875d9ad76f572a30c966179ca9c2c2c26f4222", null ],
-      [ "SPELL_LAST_MAN_STANDING", "d2/d31/a01811.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a20018007a38c253b1c4d00d9b0b375bd", null ]
+    [ "TotemSpellIds", "d2/d31/a01811.html#a7092ec93c941969cd2cdd2291c6de0be", [
+      [ "SentryTotemSpell", "d2/d31/a01811.html#a7092ec93c941969cd2cdd2291c6de0bea2ff316c1216f8b3e5f60a3700214c8c3", null ],
+      [ "FireTotemSpell", "d2/d31/a01811.html#a7092ec93c941969cd2cdd2291c6de0bea52ad0e17d0d0699c294f9434023aeea7", null ]
+    ] ],
+    [ "TotemType", "d2/d31/a01811.html#a65151889ab4b03cf02268cc7a7ff0ba3", [
+      [ "TOTEM_PASSIVE", "d2/d31/a01811.html#a65151889ab4b03cf02268cc7a7ff0ba3a63f155f3367aa262aae567b57c623069", null ],
+      [ "TOTEM_ACTIVE", "d2/d31/a01811.html#a65151889ab4b03cf02268cc7a7ff0ba3a3c3ecb49d653993abf86f289019e27b0", null ],
+      [ "TOTEM_STATUE", "d2/d31/a01811.html#a65151889ab4b03cf02268cc7a7ff0ba3ab0fbf32f7d371a34f276dfdf6552e300", null ]
     ] ]
 ];

@@ -1,15 +1,16 @@
 var a14445 =
 [
-    [ "npc_amanishi_tempest", "d0/df4/a14445.html#a8e15b39501998e9f8c45baef0963d160", null ],
-    [ "DoAction", "d0/df4/a14445.html#a50963cc0aac2560f6ddbf81000943ac3", null ],
-    [ "EnterEvadeMode", "d0/df4/a14445.html#a66c787bd318fdcad83b7b5008b4979f9", null ],
-    [ "JustDied", "d0/df4/a14445.html#aadda903d17a5f4560ce2db896bd7b257", null ],
-    [ "JustEngagedWith", "d0/df4/a14445.html#af277f5d1f73cf79ea8cfcb1e4fc744e3", null ],
-    [ "JustSummoned", "d0/df4/a14445.html#aac72fdc33051370c3cffa388f466b6be", null ],
-    [ "Reset", "d0/df4/a14445.html#aa921f85142f9103bea839bdc0330e1cc", null ],
-    [ "ScheduleEvents", "d0/df4/a14445.html#a09ba0ce51ad981578adcc1950c89d5ae", null ],
-    [ "SummonedCreatureEvade", "d0/df4/a14445.html#a61eebb122c9288c826cdf352c17e0590", null ],
-    [ "UpdateAI", "d0/df4/a14445.html#ad8f6b32c3f08eb2a4ac36a8d91434a4d", null ],
-    [ "_instance", "d0/df4/a14445.html#ab88e1d1ad979192f0519045d8ed2e14f", null ],
-    [ "_summons", "d0/df4/a14445.html#a4337b2bc417d8dafc4a6d5d10bbd0db9", null ]
+    [ "boss_zuljin", "d0/df4/a14445.html#a8acdf347d7f982c07614c89a101daae0", null ],
+    [ "EnterEvadeMode", "d0/df4/a14445.html#a1b3da85aa5f4abac16256aa691d035a3", null ],
+    [ "EnterPhase", "d0/df4/a14445.html#ae9970dba905b947a22c4ddf36bdcb656", null ],
+    [ "GetGUID", "d0/df4/a14445.html#a29548891ef8efaa5d6baa384e7b9000a", null ],
+    [ "JustDied", "d0/df4/a14445.html#a2e00e8311c0463a37de87668882ffeec", null ],
+    [ "JustEngagedWith", "d0/df4/a14445.html#ab6854461a5116e94c9f0ca971a3f89ef", null ],
+    [ "KilledUnit", "d0/df4/a14445.html#adf220cb760b77cfd09ed746705529064", null ],
+    [ "MovementInform", "d0/df4/a14445.html#a61501941861f8838392fc8cdbe59feff", null ],
+    [ "Reset", "d0/df4/a14445.html#a2fe7c0338eb4698cc0aae252f4b14f02", null ],
+    [ "SpawnAdds", "d0/df4/a14445.html#a83eb0799a25f19eedddd96e609134778", null ],
+    [ "SpellHitTarget", "d0/df4/a14445.html#aab3558edc5b90be23040077d88e21725", null ],
+    [ "_chargeTargetGUID", "d0/df4/a14445.html#a3b26fe2e82019ea5ce110d2d0a78f47e", null ],
+    [ "_nextPhase", "d0/df4/a14445.html#a4fc9983cb34313affa56c243a4164a4a", null ]
 ];

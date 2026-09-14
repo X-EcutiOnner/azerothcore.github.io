@@ -1,6 +1,9 @@
 var a18177 =
 [
-    [ "npc_cult_fanaticAI", "df/d40/a18181.html", "df/d40/a18181" ],
-    [ "npc_cult_fanatic", "dd/d80/a18177.html#af29ab8f7628b96b0f192bccab74ca02e", null ],
-    [ "GetAI", "dd/d80/a18177.html#ae4d22bac12d17d79669d3fccd4029952", null ]
+    [ "CalculateDamage", "dd/d80/a18177.html#a6a9e90d9463825b38b69afc234b35b39", null ],
+    [ "PrepareSpellScript", "dd/d80/a18177.html#ae7a8d0cc36708b11f8eefebd5df0a980", null ],
+    [ "Register", "dd/d80/a18177.html#a2722814a55469e5bae572766ed36309b", null ],
+    [ "RemoveEnergy", "dd/d80/a18177.html#a0f16b4b35985d658dc185aa88ab099ed", null ],
+    [ "StoreEnergy", "dd/d80/a18177.html#aca3ecc5a6219cb3813f17be404142c6d", null ],
+    [ "_energyLeft", "dd/d80/a18177.html#af082a763f6524aeb5ae2eb3c82fd12e5", null ]
 ];

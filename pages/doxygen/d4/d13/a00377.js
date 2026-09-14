@@ -1,12 +1,40 @@
 var a00377 =
 [
-    [ "CliCommandHolder", "d6/ddf/a12349.html", "d6/ddf/a12349" ],
-    [ "IWorld", "dd/d54/a12353.html", "dd/d54/a12353" ],
-    [ "ServerMessageType", "d4/d13/a00377.html#a08e6f7cfaf7929274a1908b0e95c798f", [
-      [ "SERVER_MSG_SHUTDOWN_TIME", "d4/d13/a00377.html#a08e6f7cfaf7929274a1908b0e95c798fa06a96ab329b402934a6bd8d22fbd930c", null ],
-      [ "SERVER_MSG_RESTART_TIME", "d4/d13/a00377.html#a08e6f7cfaf7929274a1908b0e95c798fae8f145f08fb30710c968e3a9951d8b68", null ],
-      [ "SERVER_MSG_STRING", "d4/d13/a00377.html#a08e6f7cfaf7929274a1908b0e95c798fa7b603f35c79df6fdd3f52f235dfaf517", null ],
-      [ "SERVER_MSG_SHUTDOWN_CANCELLED", "d4/d13/a00377.html#a08e6f7cfaf7929274a1908b0e95c798faabf5988cd244fc5827716176e69d151b", null ],
-      [ "SERVER_MSG_RESTART_CANCELLED", "d4/d13/a00377.html#a08e6f7cfaf7929274a1908b0e95c798fabaf3639f93cefc356c92dedb463da131", null ]
+    [ "ScriptAction", "d6/df6/a10293.html", "d6/df6/a10293" ],
+    [ "PositionFullTerrainStatus", "d8/d52/a10297.html", "d8/d52/a10297" ],
+    [ "InstanceTemplate", "df/dad/a10301.html", "df/dad/a10301" ],
+    [ "ZoneDynamicInfo", "d2/ddf/a10305.html", "d2/ddf/a10305" ],
+    [ "Map", "d0/d81/a10309.html", "d0/d81/a10309" ],
+    [ "Map::RespawnEntry", "df/dff/a10313.html", "df/dff/a10313" ],
+    [ "InstanceMap", "d5/d26/a10317.html", "d5/d26/a10317" ],
+    [ "BattlegroundMap", "d7/d59/a10321.html", "d7/d59/a10321" ],
+    [ "DEFAULT_HEIGHT_SEARCH", "d4/d13/a00377.html#a0c8d9f4ee232e2a0f72ae665fc6dc189", null ],
+    [ "MIN_UNLOAD_DELAY", "d4/d13/a00377.html#a092c3d2c90fd46d14455e6ff2413dabb", null ],
+    [ "UPDATABLE_OBJECT_LIST_RECHECK_TIMER", "d4/d13/a00377.html#a1a089ded88651bc639ec064fe70adce1", null ],
+    [ "CreatureGroupHolderType", "d4/d13/a00377.html#a37ba261cbc15afa0e5cb95e9d34fe115", null ],
+    [ "TransportsContainer", "d4/d13/a00377.html#a6ca566ddeb275c5d65ead48048181bff", null ],
+    [ "ZoneDynamicInfoMap", "d4/d13/a00377.html#a1fae3a663f0e007e557bb415f89b8318", null ],
+    [ "ZoneWideVisibleWorldObjectsMap", "d4/d13/a00377.html#a48df2f2b831ed13fcc0eef2e9d017b4d", null ],
+    [ "ZoneWideVisibleWorldObjectsSet", "d4/d13/a00377.html#a04f98f085e5062cb0c3e86409a12ea0c", null ],
+    [ "EncounterCreditType", "d4/d13/a00377.html#acea202894a6252d2df201860aa39d037", [
+      [ "ENCOUNTER_CREDIT_KILL_CREATURE", "d4/d13/a00377.html#acea202894a6252d2df201860aa39d037a9f7df7852d0cd0994fbc5c531928a03f", null ],
+      [ "ENCOUNTER_CREDIT_CAST_SPELL", "d4/d13/a00377.html#acea202894a6252d2df201860aa39d037aca618c5b7ae69c151ea4da7955578b02", null ]
+    ] ],
+    [ "InstanceResetMethod", "d4/d13/a00377.html#a85895841def625e565ac3122a1267447", [
+      [ "INSTANCE_RESET_ALL", "d4/d13/a00377.html#a85895841def625e565ac3122a1267447ab5ba7473d0bfac9d0f4dbc0e22a5a84d", null ],
+      [ "INSTANCE_RESET_CHANGE_DIFFICULTY", "d4/d13/a00377.html#a85895841def625e565ac3122a1267447a364d607eec219f808901d16aeec31a8d", null ],
+      [ "INSTANCE_RESET_GLOBAL", "d4/d13/a00377.html#a85895841def625e565ac3122a1267447a40c08a471edcbb547800e700e2341a8c", null ],
+      [ "INSTANCE_RESET_GROUP_JOIN", "d4/d13/a00377.html#a85895841def625e565ac3122a1267447a0a6535943a7d7ce282d8d415f125a170", null ],
+      [ "INSTANCE_RESET_GROUP_LEAVE", "d4/d13/a00377.html#a85895841def625e565ac3122a1267447aa247d3a9d4e2cbb1ed24680fa3405bab", null ]
+    ] ],
+    [ "LevelRequirementVsMode", "d4/d13/a00377.html#a925afa52f886092b35ca06011fbe870d", [
+      [ "LEVELREQUIREMENT_HEROIC", "d4/d13/a00377.html#a925afa52f886092b35ca06011fbe870da44c9c26dfe61127eff417c34c5049dc2", null ]
+    ] ],
+    [ "LineOfSightChecks", "d4/d13/a00377.html#abc95f0a7147fb553d023f994f003a1c6", [
+      [ "LINEOFSIGHT_CHECK_VMAP", "d4/d13/a00377.html#abc95f0a7147fb553d023f994f003a1c6a254543d4c2ff9c92ff0eb69aec072caf", null ],
+      [ "LINEOFSIGHT_CHECK_GOBJECT_WMO", "d4/d13/a00377.html#abc95f0a7147fb553d023f994f003a1c6a04ff8bf4653f852773d9bdf2838efb07", null ],
+      [ "LINEOFSIGHT_CHECK_GOBJECT_M2", "d4/d13/a00377.html#abc95f0a7147fb553d023f994f003a1c6a1b9463c69951824723107b569fdb32a3", null ],
+      [ "LINEOFSIGHT_CHECK_GOBJECT_ALL", "d4/d13/a00377.html#abc95f0a7147fb553d023f994f003a1c6a451588ecdb12620b9153952187873053", null ],
+      [ "LINEOFSIGHT_ALL_CHECKS", "d4/d13/a00377.html#abc95f0a7147fb553d023f994f003a1c6ac012f06f7e6897d0c7532b6eb155d19f", null ]
     ] ]
 ];

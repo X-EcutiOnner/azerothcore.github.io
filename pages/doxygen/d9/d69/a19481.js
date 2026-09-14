@@ -1,6 +1,7 @@
 var a19481 =
 [
-    [ "boss_gluthAI", "da/db4/a19485.html", "da/db4/a19485" ],
-    [ "boss_gluth", "d9/d69/a19481.html#a3ff6e361cd6799f41d00fa75784c4f76", null ],
-    [ "GetAI", "d9/d69/a19481.html#a3b19c938aaecc897d6552715064be7f8", null ]
+    [ "npc_ioc_gunship_captainAI", "d9/d69/a19481.html#a23477a6f29b13308067c1f42ced1e9fe", null ],
+    [ "DoAction", "d9/d69/a19481.html#a89fb251869d6bfbefbca1e2d3178178a", null ],
+    [ "UpdateAI", "d9/d69/a19481.html#a222b304633143bba47d3edde67ea093b", null ],
+    [ "_events", "d9/d69/a19481.html#aa8b7c262641a5f1f86c5ae39f8b62dca", null ]
 ];

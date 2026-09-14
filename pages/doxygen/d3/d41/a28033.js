@@ -1,7 +1,6 @@
 var a28033 =
 [
-    [ "HandleDummy", "d3/d41/a28033.html#a120ae48454922c30b0df0a1caf464216", null ],
-    [ "PrepareSpellScript", "d3/d41/a28033.html#ad8cde850116b8d4beef798724c6e4283", null ],
-    [ "Register", "d3/d41/a28033.html#a516709e073a7cc84ada03058195da728", null ],
-    [ "Validate", "d3/d41/a28033.html#ad647af566f06c7e76ef573f670d514ca", null ]
+    [ "CalculateAmount", "d3/d41/a28033.html#a94b6fab25e8cb298650f2a1e2d0b4347", null ],
+    [ "PrepareAuraScript", "d3/d41/a28033.html#a845476e27b3751fd5aab505d41d8696d", null ],
+    [ "Register", "d3/d41/a28033.html#aa5141f11bcd97cc501297a5309df1079", null ]
 ];

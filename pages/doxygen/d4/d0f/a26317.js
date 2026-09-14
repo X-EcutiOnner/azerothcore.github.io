@@ -1,6 +1,9 @@
 var a26317 =
 [
-    [ "CalculateAmount", "d4/d0f/a26317.html#a2010f58ba86d6266e9549753fdec52ed", null ],
-    [ "PrepareAuraScript", "d4/d0f/a26317.html#aa9ddc9f2a0ded66e81be51cec24a0e4b", null ],
-    [ "Register", "d4/d0f/a26317.html#acf737f74e3cb9340f3449b491e923b7f", null ]
+    [ "OnEffectHitTargetDisarm", "d4/d0f/a26317.html#ae8ce5a315886ede30eda7d3682e4ef06", null ],
+    [ "OnEffectHitTargetStun", "d4/d0f/a26317.html#a5a5253b6d152b1af78de663c09451536", null ],
+    [ "OnEffectLaunchTargetDisarm", "d4/d0f/a26317.html#a2bbcf5ee2d41362c80a4649a4cf7e260", null ],
+    [ "OnEffectLaunchTargetStun", "d4/d0f/a26317.html#ac3d5052bf045082fb8bc02c72a0dba39", null ],
+    [ "PrepareSpellScript", "d4/d0f/a26317.html#a113219d3376a23f8889f26f10744e7cb", null ],
+    [ "Register", "d4/d0f/a26317.html#a12ef13dbc3e9cd95fb1d57bf393735e3", null ]
 ];

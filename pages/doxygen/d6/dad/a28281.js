@@ -1,6 +1,7 @@
 var a28281 =
 [
-    [ "go_l70_etc_musicAI", "d5/d8e/a28285.html", "d5/d8e/a28285" ],
-    [ "go_l70_etc_music", "d6/dad/a28281.html#a766dccca12fc7959273ba1e3a278564f", null ],
-    [ "GetAI", "d6/dad/a28281.html#a5231ffc778830f8a49ae85a8c1173deb", null ]
+    [ "HandlePeriodic", "d6/dad/a28281.html#a3da4cc5322f2e34244729fe3b3876482", null ],
+    [ "PrepareAuraScript", "d6/dad/a28281.html#aab7f5c5bdfdd2b440f59f16ab321765a", null ],
+    [ "Register", "d6/dad/a28281.html#a53b6067f46912648413fc6d6f107b0d8", null ],
+    [ "Validate", "d6/dad/a28281.html#aa03222717b3c06316b232a6ac0270ec0", null ]
 ];

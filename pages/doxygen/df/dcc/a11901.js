@@ -1,12 +1,7 @@
 var a11901 =
 [
-    [ "WorldObjectSpellTargetCheck", "df/dcc/a11901.html#a370a66c484d486ac6d2d3419a019c7cd", null ],
-    [ "~WorldObjectSpellTargetCheck", "df/dcc/a11901.html#a1d519b04f171d230b21da3cc637497cf", null ],
-    [ "operator()", "df/dcc/a11901.html#a2ae263977948d2195b22a737c36bad20", null ],
-    [ "_caster", "df/dcc/a11901.html#ac090f8e47bcdfccb85fb791856355827", null ],
-    [ "_condList", "df/dcc/a11901.html#a70b9331b5871e2e4d92d642715c8192a", null ],
-    [ "_condSrcInfo", "df/dcc/a11901.html#a288c53998aa7b744f6e3eaeba68fe6d8", null ],
-    [ "_referer", "df/dcc/a11901.html#a1a24eaafdf716de984a5943e049d10f7", null ],
-    [ "_spellInfo", "df/dcc/a11901.html#a66bd07338943ee307be19f22326b29b7", null ],
-    [ "_targetSelectionType", "df/dcc/a11901.html#a0e629a6fd0da179ea0c98c93d2337603", null ]
+    [ "DynObjAura", "df/dcc/a11901.html#aef75bb5d60c10ac63821b0e9baf6eb7a", null ],
+    [ "FillTargetMap", "df/dcc/a11901.html#af8e36643ed675ff5652e4665bee9b0c3", null ],
+    [ "Remove", "df/dcc/a11901.html#ada3f65b4a817e2337da43da437b93a3b", null ],
+    [ "Aura::Create", "df/dcc/a11901.html#ae2c0fdfb409846fec5e861de60797112", null ]
 ];

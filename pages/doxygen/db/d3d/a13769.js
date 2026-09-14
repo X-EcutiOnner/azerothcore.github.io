@@ -1,8 +1,9 @@
 var a13769 =
 [
-    [ "FilterTargets", "db/d3d/a13769.html#ac7f7287b88cde82fbf8a625f002c86fa", null ],
-    [ "HandleAfterCast", "db/d3d/a13769.html#aa28714ce9ac251fe7c3bdec17b47deb3", null ],
-    [ "Load", "db/d3d/a13769.html#aecfa38940ea3dd287179bdef3d290487", null ],
-    [ "PrepareSpellScript", "db/d3d/a13769.html#a222e2c8e5401c132e89b29bbd22d46a6", null ],
-    [ "Register", "db/d3d/a13769.html#a1a3607dd7e3d56bde3b92cbf4bcd0e78", null ]
+    [ "spell_eredar_twins_apply_touch", "db/d3d/a13769.html#a1ffb6952cbbb79bb6a963ea57b8400aa", null ],
+    [ "HandleApplyTouch", "db/d3d/a13769.html#a200219828e22c35ef2f7c7a7fd61c973", null ],
+    [ "PrepareSpellScript", "db/d3d/a13769.html#a6e6c42042faa1a6cd82d4680d28587ae", null ],
+    [ "Register", "db/d3d/a13769.html#a8c49e8aeb1f00e8324aa4c1d420fb068", null ],
+    [ "Validate", "db/d3d/a13769.html#a36ff1d126191de7880d98242b3b714b5", null ],
+    [ "_touchSpell", "db/d3d/a13769.html#a9f8c58013add0fc5a05a78e1b90a32e1", null ]
 ];

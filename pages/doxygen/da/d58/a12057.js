@@ -1,6 +1,10 @@
 var a12057 =
 [
-    [ "HitHandler", "da/d58/a12057.html#a41c5a6853bf72c113388995dc3ebaba7", null ],
-    [ "Call", "da/d58/a12057.html#a157baaa3ceba62a9910cba5377bd7699", null ],
-    [ "pHitHandlerScript", "da/d58/a12057.html#ac24144e49930a01a3049740a4072f626", null ]
+    [ "Aura", "da/d58/a12057.html#ab87ff32c7b9d25f238245df1b646c49a", null ],
+    [ "DispelType", "da/d58/a12057.html#a964f9e427d50b8630ef1221914adad89", null ],
+    [ "Effect", "da/d58/a12057.html#a61a5bcfce9d99c09aa58fd99afb97e5c", null ],
+    [ "ImmuneAoE", "da/d58/a12057.html#a2b195291886ba333efd63d0edded1bb4", null ],
+    [ "ImmuneChain", "da/d58/a12057.html#a81a36e982f45209bfd6d1b0bad843cc1", null ],
+    [ "Mechanic", "da/d58/a12057.html#a01290d95abdbcf391557c7d72be05ebe", null ],
+    [ "School", "da/d58/a12057.html#a587a27eae3c94be00522b6b84521ed3c", null ]
 ];

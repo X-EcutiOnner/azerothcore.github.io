@@ -1,7 +1,7 @@
 var a22925 =
 [
-    [ "boss_veras_darkshadow", "d2/d75/a22925.html#a7b33a5c8257954951ed19a2f8ce17b95", null ],
-    [ "JustEngagedWith", "d2/d75/a22925.html#a5eec3e70a7950073eced60d680ff6298", null ],
-    [ "JustSummoned", "d2/d75/a22925.html#afd6cb716cfdebccde99d71e1eb797d33", null ],
-    [ "UpdateAI", "d2/d75/a22925.html#a21f23998e3c3ecb79cbfa3c0d778f2d5", null ]
+    [ "HandleEffectRemove", "d2/d75/a22925.html#a09124a4351930a35e33359e95ca88580", null ],
+    [ "PrepareAuraScript", "d2/d75/a22925.html#a6ac4aa40f00e7ca03a3a5cf36d6e5d33", null ],
+    [ "Register", "d2/d75/a22925.html#a8b59d3d74816b41a65f9c5bd07226c4e", null ],
+    [ "Validate", "d2/d75/a22925.html#a5bf3ac4b8ff19bdbde604c4d8931d1bc", null ]
 ];

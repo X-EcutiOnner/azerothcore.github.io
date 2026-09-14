@@ -1,11 +1,15 @@
 var a00470 =
 [
-    [ "Movement::counter< T, limit >", "d3/dd9/a10521.html", "d3/dd9/a10521" ],
-    [ "UInt32Counter", "d0/d29/a00470.html#adebd21803156b193f9b8a733b6cbd3c7", null ],
-    [ "computeFallElevation", "d0/d29/a00470.html#a87260372150c8322b45e75bfaa445f14", null ],
-    [ "computeFallTime", "d0/d29/a00470.html#a40f989c23fe19e12628da3cd9e64edf4", null ],
-    [ "MSToSec", "d0/d29/a00470.html#aefc83834e7badc5f8450322da9567bd6", null ],
-    [ "SecToMS", "d0/d29/a00470.html#a418fff34f8aed72d6d80876be5a33c58", null ],
-    [ "gravity", "d0/d29/a00470.html#a15b376933a666c7f7c4600e62d7afe91", null ],
-    [ "splineIdGen", "d0/d29/a00470.html#a5149db3325f467381006d8d5df24a2a8", null ]
+    [ "MonsterMoveType", "d0/d29/a00470.html#afd3f02560404659d901713e1228d9339", [
+      [ "MonsterMoveNormal", "d0/d29/a00470.html#afd3f02560404659d901713e1228d9339aba693dab24bf78b0173914ecf339c558", null ],
+      [ "MonsterMoveStop", "d0/d29/a00470.html#afd3f02560404659d901713e1228d9339a6520302858321c3083951d598e05a167", null ],
+      [ "MonsterMoveFacingSpot", "d0/d29/a00470.html#afd3f02560404659d901713e1228d9339a395aabd5641c37343d08506cfc4e4323", null ],
+      [ "MonsterMoveFacingTarget", "d0/d29/a00470.html#afd3f02560404659d901713e1228d9339a61f5156f5db570fd9f5db194179ea7f9", null ],
+      [ "MonsterMoveFacingAngle", "d0/d29/a00470.html#afd3f02560404659d901713e1228d9339ac65e2c863bd6cadc1dc72c4720e61642", null ]
+    ] ],
+    [ "operator<<", "d0/d29/a00470.html#a36206fc0a1fcffec4fbb7696f2fba68a", null ],
+    [ "operator>>", "d0/d29/a00470.html#ae394b26156a3fa0d1d828d30cee475b1", null ],
+    [ "WriteCatmullRomCyclicPath", "d0/d29/a00470.html#a512a47e7c442a3d5260ff7ec7b4d69bb", null ],
+    [ "WriteCatmullRomPath", "d0/d29/a00470.html#a04fba7015071fbd9335a9723c694e511", null ],
+    [ "WriteLinearPath", "d0/d29/a00470.html#a55368980761369537a648ba735e1f71f", null ]
 ];

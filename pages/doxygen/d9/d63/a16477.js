@@ -1,7 +1,6 @@
 var a16477 =
 [
-    [ "HandleScriptEffect", "d9/d63/a16477.html#a6f21f546303327f2d32f1dbc03dc21d9", null ],
-    [ "PrepareSpellScript", "d9/d63/a16477.html#a392c40d469c3c1e816d5dc364fde824c", null ],
-    [ "Register", "d9/d63/a16477.html#aa59c26b25ca0f440de36e450adf050a5", null ],
-    [ "Validate", "d9/d63/a16477.html#a370f83112d901f9565734b11d12858f4", null ]
+    [ "npc_anub_ar_crusher_champion", "d9/d63/a16477.html#a8b8dc51f529d361b40447f6f1b398a4d", null ],
+    [ "DoEngagedWith", "d9/d63/a16477.html#a2dcef4fe57880ba725dff52455a7a428", null ],
+    [ "DoEvent", "d9/d63/a16477.html#a6dc41c4fa5531bd1999daaef3972c5a2", null ]
 ];

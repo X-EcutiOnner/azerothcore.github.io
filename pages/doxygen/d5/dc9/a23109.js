@@ -1,8 +1,12 @@
 var a23109 =
 [
-    [ "boss_najentus", "d5/dc9/a23109.html#ac5d3d54a49524892fe844925d483c244", null ],
-    [ "JustDied", "d5/dc9/a23109.html#afee32dd32033c7a45068ce12e961797c", null ],
-    [ "JustEngagedWith", "d5/dc9/a23109.html#a46e3aab64c21b24ac6457acd598679ec", null ],
-    [ "KilledUnit", "d5/dc9/a23109.html#ad55e1de3aa7a636b3d30b0d61a17dab9", null ],
-    [ "Reset", "d5/dc9/a23109.html#ab7e0bdb8954722c9080146a88a3c5aa2", null ]
+    [ "boss_shade_of_akama", "d5/dc9/a23109.html#a385bf995d19652254d6ae8a447c23c37", null ],
+    [ "EnterEvadeMode", "d5/dc9/a23109.html#a690f8058fb4358b98960177d76864275", null ],
+    [ "JustDied", "d5/dc9/a23109.html#aa22052befeb48c0c7ec3a3cedd91daff", null ],
+    [ "MovementInform", "d5/dc9/a23109.html#a345707efebd5027c01a25a563d1e6f43", null ],
+    [ "Reset", "d5/dc9/a23109.html#a19a1aca1a599704612ac845001895b4f", null ],
+    [ "SpellHit", "d5/dc9/a23109.html#a5a49f0dab7ce6ee81b9ed8deb5704720", null ],
+    [ "UpdateAI", "d5/dc9/a23109.html#a25ffed5526b1f25eb1cf790745e2a7c7", null ],
+    [ "channelers", "d5/dc9/a23109.html#a258bbeecb517a04ab8e3bac2a753a5bd", null ],
+    [ "generators", "d5/dc9/a23109.html#a94a1010bce54768ee2dca72d4f6eec34", null ]
 ];

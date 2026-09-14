@@ -1,6 +1,6 @@
 var a30165 =
 [
-    [ "OffsetAttributes", "dc/d99/a30165.html#a072918c298b316823e784c2e5779be2a", null ],
-    [ "OffsetInstances", "dc/d99/a30165.html#abb618c81b9ee9de03c3d4cf8689f5cd4", null ],
-    [ "used", "dc/d99/a30165.html#a20a458e613639ea26255dd772824a642", null ]
+    [ "RunStatisticalTest", "dc/d99/a30165.html#a5dadc645a4cae9bf9e9ed990616118be", null ],
+    [ "SetUp", "dc/d99/a30165.html#afa15552d260ab744d178e1c1b7ed23bb", null ],
+    [ "TearDown", "dc/d99/a30165.html#a894d832a3ee006179de45e944d25a732", null ]
 ];

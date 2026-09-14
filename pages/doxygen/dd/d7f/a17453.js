@@ -1,7 +1,8 @@
 var a17453 =
 [
-    [ "HandlePeriodicTick", "dd/d7f/a17453.html#ac8b3f1a826e3491d4315983a89d23d2e", null ],
-    [ "PrepareAuraScript", "dd/d7f/a17453.html#ad54c3014195c5b848ab1f9cc978f72b3", null ],
-    [ "Register", "dd/d7f/a17453.html#af8e1ee8ddf7ed8290eb71fb7697428fb", null ],
-    [ "Validate", "dd/d7f/a17453.html#a6de2140f17790b63314f653b7dd0ddd3", null ]
+    [ "npc_hor_risen_witch_doctor", "dd/d7f/a17453.html#a68e2913f88427b1d6cb35351d9b749a0", null ],
+    [ "JustDied", "dd/d7f/a17453.html#ac742da67a5624aebdbbbdc51378cfc82", null ],
+    [ "JustEngagedWith", "dd/d7f/a17453.html#ae612bec2e909abb2574298f4a34116f3", null ],
+    [ "Reset", "dd/d7f/a17453.html#a63b9343146a8c950f5d31f21cd5f4838", null ],
+    [ "UpdateAI", "dd/d7f/a17453.html#a87948e1bac92033fa700e1c0ce27cbf5", null ]
 ];

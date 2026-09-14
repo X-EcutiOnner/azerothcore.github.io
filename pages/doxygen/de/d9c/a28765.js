@@ -1,7 +1,7 @@
 var a28765 =
 [
-    [ "HandleDummy", "de/d9c/a28765.html#ade9ff4db63fecf726776f6e4b36bb437", null ],
-    [ "PrepareSpellScript", "de/d9c/a28765.html#a0375b541f2a90e337fee61ced6d8f3ec", null ],
-    [ "Register", "de/d9c/a28765.html#a66c530b497e4952b457bbfa50a036c07", null ],
-    [ "Validate", "de/d9c/a28765.html#a968333dcfe0553ad73879f3042db5511", null ]
+    [ "npc_crashin_thrashin_robot", "de/d9c/a28765.html#ad21336d212498b1c9ef5d46979d147ab", null ],
+    [ "IsSummonedBy", "de/d9c/a28765.html#a0652cd455791461f613ab4ebf77d2c3c", null ],
+    [ "UpdateAI", "de/d9c/a28765.html#a1d21cd2075f3aeba2c7f1e735a33dfec", null ],
+    [ "_scheduler", "de/d9c/a28765.html#a55778501d154d0a9e77f76054e926f85", null ]
 ];

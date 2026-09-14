@@ -1,6 +1,7 @@
 var a27953 =
 [
-    [ "HandleHeal", "db/d89/a27953.html#a03afbdbdc8555fc2d558a5e48f7340a0", null ],
-    [ "PrepareSpellScript", "db/d89/a27953.html#a61a601108cd59e5d87634c02b002e20d", null ],
-    [ "Register", "db/d89/a27953.html#ae46c965fc77aa61aaa3c426c8ecc585c", null ]
+    [ "HandleProc", "db/d89/a27953.html#a28f109c403d3bb46dd4f9c18057cfcd9", null ],
+    [ "PrepareAuraScript", "db/d89/a27953.html#a0eb7295583f2c45c88ae266d66813b5b", null ],
+    [ "Register", "db/d89/a27953.html#ab8848a011ec8397bc5712ced54e09432", null ],
+    [ "Validate", "db/d89/a27953.html#ae35703b7d676fde170241dd64c3c5411", null ]
 ];

@@ -1,7 +1,10 @@
 var a28553 =
 [
-    [ "npc_riggle_bassbaitAI", "db/d36/a28553.html#ad7a1a7a6f4c4ebb7ab93878ebb3a9a5b", null ],
-    [ "CheckTournamentState", "db/d36/a28553.html#aa7b4393b93be92fbb595648cede832be", null ],
-    [ "UpdateAI", "db/d36/a28553.html#ad0fca96e2c770ef179d98dcdd9aaca6e", null ],
-    [ "m_uiTimer", "db/d36/a28553.html#aec45a971a5b7aa574e905e9a2338fe90", null ]
+    [ "npc_prof_tailor", "db/d36/a28553.html#a481157e49fb1c09f62a3cb9de85c9da1", null ],
+    [ "HasTailorSpell", "db/d36/a28553.html#a188c0ac66b1972bccd031aca26f7fecd", null ],
+    [ "OnGossipHello", "db/d36/a28553.html#a686098ac43916ea2f82b7c321527863d", null ],
+    [ "OnGossipSelect", "db/d36/a28553.html#a03545eaacf3bae0d407e0e20c32740dc", null ],
+    [ "SendActionMenu", "db/d36/a28553.html#a03ced7d6541535097a5e4e3bd9f415f2", null ],
+    [ "SendConfirmLearn", "db/d36/a28553.html#a93a8692cb2c0b30ee752ae3ecd5561e5", null ],
+    [ "SendConfirmUnlearn", "db/d36/a28553.html#ada0be1dc79f72b7b033191c8e17a8baf", null ]
 ];

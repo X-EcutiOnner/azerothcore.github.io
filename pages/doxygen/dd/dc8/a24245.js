@@ -1,10 +1,8 @@
 var a24245 =
 [
-    [ "npc_infernal_attackerAI", "dd/dc8/a24245.html#ae04c4e026f22bd650bb33940b923df9a", null ],
-    [ "IsSummonedBy", "dd/dc8/a24245.html#a926e6cd6772784872a905de7245007ac", null ],
-    [ "JustDied", "dd/dc8/a24245.html#a1822131520f98dd5f1dd637282f20ae3", null ],
-    [ "Reset", "dd/dc8/a24245.html#a6c871d05d4fd0a6f72f409285f012f9c", null ],
-    [ "SpellHit", "dd/dc8/a24245.html#a956f3fb1e341519817599df08afc2589", null ],
-    [ "UpdateAI", "dd/dc8/a24245.html#a458ba4c884a95080e1088a07a04a9cb9", null ],
-    [ "casterGUID", "dd/dc8/a24245.html#ab2e791cc0a67012bc56c3b07e3f327e9", null ]
+    [ "npc_captain_saeedAI", "d0/dd2/a24249.html", "d0/dd2/a24249" ],
+    [ "npc_captain_saeed", "dd/dc8/a24245.html#a8a5bee9f908b10451b8d4720dff85670", null ],
+    [ "GetAI", "dd/dc8/a24245.html#aa6a232f6c2dd39483273cac41af9a7d7", null ],
+    [ "OnGossipHello", "dd/dc8/a24245.html#a7db9b76578743d4ee96b2c4f11dc265c", null ],
+    [ "OnGossipSelect", "dd/dc8/a24245.html#a8ace4d924b6f33312d914fb6ce1e0ea6", null ]
 ];

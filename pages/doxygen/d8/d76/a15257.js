@@ -1,12 +1,9 @@
 var a15257 =
 [
-    [ "boss_epochAI", "d8/d76/a15257.html#a2986db39b7db92b1fa9d64cef5f8c08b", null ],
-    [ "JustDied", "d8/d76/a15257.html#a780aa5bc86c80aaeeffad441b2873121", null ],
-    [ "JustEngagedWith", "d8/d76/a15257.html#ae742dceac5979faebb58a133e9bd91f0", null ],
-    [ "KilledUnit", "d8/d76/a15257.html#af41946feab7b86d812f706bd7abbf1bd", null ],
-    [ "Reset", "d8/d76/a15257.html#a98cf5d8aded78694117af64ccdb6cd83", null ],
-    [ "SpellHitTarget", "d8/d76/a15257.html#ab87dfcf635a65b02be29186d2990fef3", null ],
-    [ "UpdateAI", "d8/d76/a15257.html#a651b11c4cc5f92881b4dd5b7f22c9d85", null ],
-    [ "events", "d8/d76/a15257.html#af0c1477b3d9fb48cfcf55f32e21591f4", null ],
-    [ "warps", "d8/d76/a15257.html#a478113af1ce565c729604c6039f55551", null ]
+    [ "boss_rage_winterchill", "d8/d76/a15257.html#a66fed2a7cc6135d41a2c40bdf4ffe02e", null ],
+    [ "DoAction", "d8/d76/a15257.html#a45333aea6d6a180473ca4823ea83920a", null ],
+    [ "JustDied", "d8/d76/a15257.html#ab10c7df81a9e71b2c114465c30e40a9b", null ],
+    [ "JustEngagedWith", "d8/d76/a15257.html#ad36a840c65949c54d5ee3ae8cb6f1f7b", null ],
+    [ "KilledUnit", "d8/d76/a15257.html#a69d69530a080379add7be73c552f4937", null ],
+    [ "PathEndReached", "d8/d76/a15257.html#aec47befdf3246710a5158780fa797fa7", null ]
 ];

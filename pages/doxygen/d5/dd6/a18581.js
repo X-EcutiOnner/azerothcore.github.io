@@ -1,6 +1,5 @@
 var a18581 =
 [
-    [ "npc_sindragosa_trashAI", "df/d77/a18585.html", "df/d77/a18585" ],
-    [ "npc_sindragosa_trash", "d5/dd6/a18581.html#a9634ea10e767b4d6e293fc3fdd491702", null ],
-    [ "GetAI", "d5/dd6/a18581.html#ab1de715d98236a853a793d830bc601d7", null ]
+    [ "operator()", "d5/dd6/a18581.html#a6a8c02f9b797ed7df8960e5ddc44f93f", null ],
+    [ "operator()", "d5/dd6/a18581.html#a3847988d35a9cb0c5aab4ad73ff1a427", null ]
 ];

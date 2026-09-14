@@ -1,8 +1,8 @@
 var a21577 =
 [
-    [ "npc_azure_sorceror", "d6/de8/a21577.html#afd53ae322f8387b5e5fe55e28612ce2f", null ],
-    [ "Reset", "d6/de8/a21577.html#af4bc0ff9b938302c399bff528dd06769", null ],
-    [ "UpdateAI", "d6/de8/a21577.html#a36675e89aab24a92589a33f88fbec2bd", null ],
-    [ "_arcaneStreamOnCooldown", "d6/de8/a21577.html#a462d57b8e8cd01a9ec1bd59a453f6ab5", null ],
-    [ "_events", "d6/de8/a21577.html#a3bd018057b31c90afd19ac6943d44591", null ]
+    [ "boss_moragg", "d6/de8/a21577.html#a42d2508369286e5e635d47cce0b939f4", null ],
+    [ "EnterEvadeMode", "d6/de8/a21577.html#a0ac597810a43e30c2cffcc4c878a9998", null ],
+    [ "ExecuteEvent", "d6/de8/a21577.html#a945fbf776bb47484d7a4434ee3a630ed", null ],
+    [ "JustEngagedWith", "d6/de8/a21577.html#a29da7214373c1919b65f3512655c8bc3", null ],
+    [ "MoveInLineOfSight", "d6/de8/a21577.html#ab70b1a6d9c05e191880f0532b775c6f2", null ]
 ];

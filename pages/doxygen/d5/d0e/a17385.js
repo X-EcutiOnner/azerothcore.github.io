@@ -1,7 +1,12 @@
 var a17385 =
 [
-    [ "npc_hor_leader_secondAI", "d7/dd2/a17389.html", "d7/dd2/a17389" ],
-    [ "npc_hor_leader_second", "d5/d0e/a17385.html#a9fa1f38ab8a0b5d2207857b75e272ee0", null ],
-    [ "GetAI", "d5/d0e/a17385.html#af5b97ecca35501a75658919d384a18f7", null ],
-    [ "OnGossipSelect", "d5/d0e/a17385.html#a8355f7f2f8e7655c7ebc7145a847ab87", null ]
+    [ "boss_marwyn", "d5/d0e/a17385.html#ad0d7ef02952d4f4a2c8ce1f5099e4bdd", null ],
+    [ "DoAction", "d5/d0e/a17385.html#a7bd848b407d33942f05b48b6284506bb", null ],
+    [ "EnterEvadeMode", "d5/d0e/a17385.html#a93849e995d62ba5a220e08157d8758fa", null ],
+    [ "JustDied", "d5/d0e/a17385.html#a89fd620d0e74675d671cb69cc917d024", null ],
+    [ "JustEngagedWith", "d5/d0e/a17385.html#a038ed3e1a8c9f3f3bc7f7eca584ad5cd", null ],
+    [ "KilledUnit", "d5/d0e/a17385.html#aad4dd7a1fb79c704c7e59581f938d2e9", null ],
+    [ "Reset", "d5/d0e/a17385.html#a0e25c5d894b7e20c6a1781410847c1fa", null ],
+    [ "UpdateAI", "d5/d0e/a17385.html#ae8d1b8908983af8bff1f13641472817f", null ],
+    [ "_startingFight", "d5/d0e/a17385.html#aee335b57c5249ecd4ce843e0f1694e80", null ]
 ];

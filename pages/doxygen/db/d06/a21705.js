@@ -1,7 +1,10 @@
 var a21705 =
 [
-    [ "HandleDummy", "db/d06/a21705.html#a476c55695b54e6f6756d9f795dbeeb07", null ],
-    [ "PrepareSpellScript", "db/d06/a21705.html#ae3af1398dec6d6f5faac8e026a6966df", null ],
-    [ "Register", "db/d06/a21705.html#a693522c8a05e2d86837bf16ef2a777b4", null ],
-    [ "Validate", "db/d06/a21705.html#ae1a2cdf4819859e11d6a70104c6d431a", null ]
+    [ "npc_imprisoned_beryl_sorcererAI", "db/d06/a21705.html#a0a8159a84689dbfd8c69ed523ce03817", null ],
+    [ "GotStinged", "db/d06/a21705.html#a0729c584c3b65e5f25f4445de378f0ea", null ],
+    [ "JustEngagedWith", "db/d06/a21705.html#a2f3e45b3f762ede62aa94a6ae3f2909f", null ],
+    [ "Reset", "db/d06/a21705.html#aedc82ee3bfa193a838d5af62533e19b4", null ],
+    [ "SpellHit", "db/d06/a21705.html#a2010b53b3a8ad1e0aa6ecb5a26c8b6c9", null ],
+    [ "UpdateAI", "db/d06/a21705.html#a21def23073eeec051c1c97a813e0ea84", null ],
+    [ "rebuff", "db/d06/a21705.html#ac83c25091fdd3c7876a88927b758261f", null ]
 ];

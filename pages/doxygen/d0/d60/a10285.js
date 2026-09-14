@@ -1,8 +1,8 @@
 var a10285 =
 [
-    [ "GetNavMesh", "d0/d60/a10285.html#a81e3e8249f22accbd06f9e80aa3fccf9", null ],
-    [ "GetNavMeshQuery", "d0/d60/a10285.html#af524ac62385fdd4d4c6a4f01afafbb49", null ],
-    [ "MapCollisionData", "d0/d60/a10285.html#a472038a89678719bf8868ab0c75e394f", null ],
-    [ "_navMesh", "d0/d60/a10285.html#ae41a024489dbe5d11ba6dceed6b7442f", null ],
-    [ "_navMeshQuery", "d0/d60/a10285.html#a237375e56702f7e83c9e13e1f959cfdb", null ]
+    [ "BoundaryIntersectBoundary", "d0/d60/a10285.html#ad92d938418434a1cb6a0eb68c88d281c", null ],
+    [ "~BoundaryIntersectBoundary", "d0/d60/a10285.html#ad8bbf96e48d18ef87ac31dea8bcb023b", null ],
+    [ "IsWithinBoundaryArea", "d0/d60/a10285.html#a09c8440d1ddb8264bff4065910b7e0a5", null ],
+    [ "_b1", "d0/d60/a10285.html#ab0239437fa92e39d144bf3856eb347c7", null ],
+    [ "_b2", "d0/d60/a10285.html#a41e100c17db99990981293399660824c", null ]
 ];

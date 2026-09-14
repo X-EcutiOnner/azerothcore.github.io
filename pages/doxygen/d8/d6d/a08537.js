@@ -1,15 +1,11 @@
 var a08537 =
 [
-    [ "Minion", "d8/d6d/a08537.html#a3979ae40c594699ac2a276184543b2c5", null ],
-    [ "GetDebugInfo", "d8/d6d/a08537.html#a1f9800abdfa2126e593a6ae169f20024", null ],
-    [ "GetFollowAngle", "d8/d6d/a08537.html#a6b4a4409bd7a8ff455bb13f8c4e5560a", null ],
-    [ "GetOwner", "d8/d6d/a08537.html#a4610f459936e40b530dae8429f139cfe", null ],
-    [ "InitStats", "d8/d6d/a08537.html#ad11b2900e990e2b5ba7d10b811cd1e5d", null ],
-    [ "IsGuardianPet", "d8/d6d/a08537.html#a63335ad34731e8a26ab027bf690f9d4d", null ],
-    [ "IsPetGhoul", "d8/d6d/a08537.html#ae56acaeea6d1cf9735345cb784f3dcd3", null ],
-    [ "RemoveFromWorld", "d8/d6d/a08537.html#a35f8314d0a4bafeba1987eb0b1ececf3", null ],
-    [ "setDeathState", "d8/d6d/a08537.html#ab954627fc409e08616cf080974d30a82", null ],
-    [ "SetFollowAngle", "d8/d6d/a08537.html#a3b7be3e8dc649b939056ee6a5a66c506", null ],
-    [ "m_followAngle", "d8/d6d/a08537.html#a02806f2eae429a33e0d2b0c115892c77", null ],
-    [ "m_owner", "d8/d6d/a08537.html#a135c4341d5f617d1f69ee9f7deeea755", null ]
+    [ "FormationInfo", "d8/d6d/a08537.html#ad00d7dd0ac811a3805a8ba2c9c1e73df", null ],
+    [ "HasGroupFlag", "d8/d6d/a08537.html#afc612acf30e8d0a047aac5b0fc2dc07b", null ],
+    [ "follow_angle", "d8/d6d/a08537.html#a928ce7047d511c316a5367faf7f96673", null ],
+    [ "follow_dist", "d8/d6d/a08537.html#a3b59ee5129e208cc3df407a921362393", null ],
+    [ "groupAI", "d8/d6d/a08537.html#af9f6dc52999efef6f0819bb8d1670fec", null ],
+    [ "leaderGUID", "d8/d6d/a08537.html#ad5af23397ae1ae835a72ce125d102ef0", null ],
+    [ "point_1", "d8/d6d/a08537.html#a84298ff533bebc633689742c7f9299ae", null ],
+    [ "point_2", "d8/d6d/a08537.html#acc308b497de18211b99eec4311b256a4", null ]
 ];

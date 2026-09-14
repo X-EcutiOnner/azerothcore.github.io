@@ -1,9 +1,7 @@
 var a11801 =
 [
-    [ "EncryptableAndCompressiblePacket", "de/df8/a11801.html#a64eb3fa6b02a6aff486aa2d9a4d09fc6", null ],
-    [ "CompressIfNeeded", "de/df8/a11801.html#a113d89a8f2832c5db01611ff71d2bc73", null ],
-    [ "NeedsCompression", "de/df8/a11801.html#ad376b973f02c1b0cd2afbb43cc081917", null ],
-    [ "NeedsEncryption", "de/df8/a11801.html#a114e5d6da2e81a26e478f7aea287d08a", null ],
-    [ "_encrypt", "de/df8/a11801.html#a37a68eddad23001a85a4a2f77e237810", null ],
-    [ "SocketQueueLink", "de/df8/a11801.html#a88f11ce75f439fd290bdc09156d559c2", null ]
+    [ "MapSessionFilter", "de/df8/a11801.html#ad11a700c36f8f45640402e96edc74b49", null ],
+    [ "~MapSessionFilter", "de/df8/a11801.html#a82960e741c8f64d24a764a915f14e2b8", null ],
+    [ "Process", "de/df8/a11801.html#a54483596fe2a5a0d30fab9a13506b375", null ],
+    [ "ProcessUnsafe", "de/df8/a11801.html#a8e3a7dd5affb24305435aea2c57718fa", null ]
 ];

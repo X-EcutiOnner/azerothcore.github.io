@@ -1,7 +1,8 @@
 var a09897 =
 [
-    [ "ObjectGUIDCheck", "d5/df6/a09897.html#a4932b3610ddc148ee5a30a6ce91c6f27", null ],
-    [ "operator()", "d5/df6/a09897.html#a0f3f6e89a9e621a208cd6795722ae4ef", null ],
-    [ "_equals", "d5/df6/a09897.html#a413d991eeee0294a54f3c803e296c3ac", null ],
-    [ "_GUID", "d5/df6/a09897.html#a0e97bfe0e160177549a831df8e9b4555", null ]
+    [ "NearestPlayerInObjectRangeCheck", "d5/df6/a09897.html#ae8e57c69baf8bdaf0448864d4afbb1a4", null ],
+    [ "NearestPlayerInObjectRangeCheck", "d5/df6/a09897.html#aac3d406d10a036b92a55bcd955411165", null ],
+    [ "operator()", "d5/df6/a09897.html#a5d7ed3141c03d2209d5a3b1a689d1668", null ],
+    [ "i_obj", "d5/df6/a09897.html#a9cd17091269bcfc2b48fefc12ac9b127", null ],
+    [ "i_range", "d5/df6/a09897.html#ab55f93d7c5d6ca3461bcbe49010fcb83", null ]
 ];

@@ -1,8 +1,10 @@
 var a10249 =
 [
-    [ "PositionFullTerrainStatus", "d7/d72/a10249.html#ae0349ed89530b35af91b7b1862acaffe", null ],
-    [ "areaId", "d7/d72/a10249.html#ac04966fa31b30f341a937906223463d4", null ],
-    [ "floorZ", "d7/d72/a10249.html#abbd186ca681e532d567b5a221a62c02b", null ],
-    [ "liquidInfo", "d7/d72/a10249.html#ac96230ad8521342ec97cf4f94013d0b4", null ],
-    [ "outdoors", "d7/d72/a10249.html#ae531eb0a4abc029f82d699c98d6aa565", null ]
+    [ "DoublePosition", "df/d3f/a10253.html", "df/d3f/a10253" ],
+    [ "~AreaBoundary", "d7/d72/a10249.html#a6050e91b3d485e75186a2df9a56e8d38", null ],
+    [ "AreaBoundary", "d7/d72/a10249.html#adf670910c492c08d3384c2dd1824e7ce", null ],
+    [ "IsWithinBoundary", "d7/d72/a10249.html#aac0ce1e801f3de8f3bb83b98ecd6e5c1", null ],
+    [ "IsWithinBoundary", "d7/d72/a10249.html#a1d407f77ce0388263fc0ee6224734213", null ],
+    [ "IsWithinBoundaryArea", "d7/d72/a10249.html#ae5580b0044dba24d100831fe51ee1abc", null ],
+    [ "_isInvertedBoundary", "d7/d72/a10249.html#ad416f29594688ce670549d6fdcce4314", null ]
 ];

@@ -1,8 +1,6 @@
 var a17625 =
 [
-    [ "boss_eck", "d0/ded/a17625.html#a665b54f72e674c8f65dd09daba5413db", null ],
-    [ "InitializeAI", "d0/ded/a17625.html#a92e5117337d372e1700d074f02c06df6", null ],
-    [ "JustEngagedWith", "d0/ded/a17625.html#ac719d6bbebe6c1c3e70d54f4bd48e116", null ],
-    [ "MovementInform", "d0/ded/a17625.html#aeaa0388d9fee4c6a025f823cd9e7e650", null ],
-    [ "SpellHitTarget", "d0/ded/a17625.html#a63125d970933d6fa1f196aa28c588f40", null ]
+    [ "HandleEffectPeriodic", "d0/ded/a17625.html#a8a165d3931353fefc2e6a7c7f309150e", null ],
+    [ "PrepareAuraScript", "d0/ded/a17625.html#a2de3b6d4e32832ec7ce4548df23d3d5c", null ],
+    [ "Register", "d0/ded/a17625.html#a3593ab75583bb5b9b31b29ba2c3cdd76", null ]
 ];

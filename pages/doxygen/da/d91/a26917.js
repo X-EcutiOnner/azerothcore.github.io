@@ -1,7 +1,9 @@
 var a26917 =
 [
-    [ "FilterTargets", "da/d91/a26917.html#ad679149423fda97ad5744318520022b1", null ],
-    [ "PrepareSpellScript", "da/d91/a26917.html#ac57c48690c5ad1b907f56287aee949a4", null ],
-    [ "Register", "da/d91/a26917.html#aea9b3a6cc4abae242bde76634bcbacd3", null ],
-    [ "Validate", "da/d91/a26917.html#a2c755f4ce5c3736dd0b0dd79341a4570", null ]
+    [ "CheckProc", "da/d91/a26917.html#a1ea48d77c2bb5b26c12384e4e11411ff", null ],
+    [ "HandleProc", "da/d91/a26917.html#afe1282b6df7593066469f3ddf7ff8a33", null ],
+    [ "PrepareAuraScript", "da/d91/a26917.html#a9585ecde57ccfa26f59174732e3132fc", null ],
+    [ "Register", "da/d91/a26917.html#aff856108cd0b92c3a4eaeb4c354ee56f", null ],
+    [ "Validate", "da/d91/a26917.html#a65e88419d625dc6e8033b573ce7f18ee", null ],
+    [ "_triggeredSpellId", "da/d91/a26917.html#a560ade778e046213f60f48364ea3800c", null ]
 ];

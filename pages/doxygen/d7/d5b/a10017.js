@@ -1,9 +1,12 @@
 var a10017 =
 [
-    [ "EmoteChatBuilder", "d7/d5b/a10017.html#ae1aeb36aad24d5ef28074edfbf2f9e7e", null ],
-    [ "operator()", "d7/d5b/a10017.html#a133a7bb35e86cf40425910c4f19a3337", null ],
-    [ "i_emote_num", "d7/d5b/a10017.html#a966b8afcbf5afca3a3466d8e075a9437", null ],
-    [ "i_player", "d7/d5b/a10017.html#ae09dbfe01b2a24e57b63b2b1df5ad232", null ],
-    [ "i_target", "d7/d5b/a10017.html#abc538e056d91ea1ee8d6203c96174b1d", null ],
-    [ "i_text_emote", "d7/d5b/a10017.html#add0630dc3fc76fb4fdb79095e13b2fc0", null ]
+    [ "LogEntry", "d7/d5b/a10017.html#af61604a7dc0cc4da315a09fa5b207f37", null ],
+    [ "LogEntry", "d7/d5b/a10017.html#aba3f6f501c59e356166abe71082c421b", null ],
+    [ "~LogEntry", "d7/d5b/a10017.html#a3c66b8a7be1800c5a9e1dc15aab6d3e9", null ],
+    [ "GetGUID", "d7/d5b/a10017.html#a7af4eac577f8da07540f81e185b2ad49", null ],
+    [ "GetTimestamp", "d7/d5b/a10017.html#a643c92439463707671bb08b72bf3a447", null ],
+    [ "SaveToDB", "d7/d5b/a10017.html#a1c00aa88973423a1c112c2776a14e78f", null ],
+    [ "m_guid", "d7/d5b/a10017.html#a75754f42f8a202a9a319c86515a3f0dd", null ],
+    [ "m_guildId", "d7/d5b/a10017.html#a89e0192732a43dc44aff3730bc5ad445", null ],
+    [ "m_timestamp", "d7/d5b/a10017.html#ad19e7364e1beba61c9b7a4383b6d42c6", null ]
 ];

@@ -1,5 +1,5 @@
 var a05175 =
 [
-    [ "InitWorldStates", "de/dc1/a11673.html", "de/dc1/a11673" ],
-    [ "UpdateWorldState", "d1/d96/a11681.html", "d1/d96/a11681" ]
+    [ "ScriptTypeInfo", "d6/d4d/a10949.html", "d6/d4d/a10949" ],
+    [ "ScriptRegistryTypes", "dc/d07/a05175.html#aeb8e82d65431497fd236110fed3408b8", null ]
 ];

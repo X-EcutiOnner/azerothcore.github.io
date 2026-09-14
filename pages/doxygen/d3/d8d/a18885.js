@@ -1,9 +1,9 @@
 var a18885 =
 [
-    [ "DelayedCastEvent", "d3/d8d/a18885.html#a96b86f3f1ee23d6f25ec3c13f9a03235", null ],
-    [ "Execute", "d3/d8d/a18885.html#ae2925429b3049e44d2afd2e8b990af71", null ],
-    [ "_despawnTime", "d3/d8d/a18885.html#afcaeafb72df77c36b5496588c219fac4", null ],
-    [ "_originalCaster", "d3/d8d/a18885.html#adb07c24a947d59d2ef1f61b8ab18d328", null ],
-    [ "_spellId", "d3/d8d/a18885.html#abe28a6749101233302634ed226a289e8", null ],
-    [ "_trigger", "d3/d8d/a18885.html#a85471a151a3165cc906f3a41103c3f5d", null ]
+    [ "npc_spirit_wardenAI", "d3/d8d/a18885.html#a3391168478345d8b5c1fee151f6e9f04", null ],
+    [ "JustDied", "d3/d8d/a18885.html#aa762c0bea6361107312e8231508dc655", null ],
+    [ "Reset", "d3/d8d/a18885.html#ad6076663f65f43874feb0ecfc57718a4", null ],
+    [ "UpdateAI", "d3/d8d/a18885.html#af845e3e2c38af5baa84c94f6074c0caf", null ],
+    [ "_events", "d3/d8d/a18885.html#a1bc5cfdee62efdd622e0fe1aa503c260", null ],
+    [ "_instance", "d3/d8d/a18885.html#a58ebb8e42e77add79fc888248013eb24", null ]
 ];

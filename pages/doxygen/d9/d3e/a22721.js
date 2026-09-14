@@ -1,8 +1,6 @@
 var a22721 =
 [
-    [ "boss_tavarok", "d9/d3e/a22721.html#acf2e3ec6c28a59b205442c6ed07623af", null ],
-    [ "JustDied", "d9/d3e/a22721.html#a937fc1864eab7fdf23e1be1464d9666d", null ],
-    [ "JustEngagedWith", "d9/d3e/a22721.html#a64cae2439cd6e4334ced5d4ef01ef942", null ],
-    [ "KilledUnit", "d9/d3e/a22721.html#a2c99df9457c548ee562fde920592ea88", null ],
-    [ "Reset", "d9/d3e/a22721.html#a0bea2cc724d92616056b7c5ca2dd03c1", null ]
+    [ "a", "d9/d3e/a22721.html#af01321c0fa24acf26086f7dccb326640", null ],
+    [ "h", "d9/d3e/a22721.html#a0b9b712fc851286077ee5bbd8136a413", null ],
+    [ "n", "d9/d3e/a22721.html#aad82b0a6ff47c6997a6b8d5492748b63", null ]
 ];

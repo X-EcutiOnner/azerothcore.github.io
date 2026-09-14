@@ -1,7 +1,8 @@
 var a14969 =
 [
-    [ "HandleEffectApply", "db/d18/a14969.html#ad48d832fef881bfb517fb8df694b7507", null ],
-    [ "HandleEffectRemove", "db/d18/a14969.html#a1534b010301dbaff66d41443142c50b7", null ],
-    [ "PrepareAuraScript", "db/d18/a14969.html#ab4bba02a5e2196ad65ccea94a4615a9d", null ],
-    [ "Register", "db/d18/a14969.html#a97a0003cca808e5b03f720bb3be07419", null ]
+    [ "CalcPeriodic", "db/d18/a14969.html#ae2ce9c161a25385c6de1f4b7607c9935", null ],
+    [ "HandleEffectApply", "db/d18/a14969.html#a4321da69ee59416bd50e621b804e5423", null ],
+    [ "HandleEffectPeriodicUpdate", "db/d18/a14969.html#a3f23e4a8fecf83ba580c904f15e1e98b", null ],
+    [ "PrepareAuraScript", "db/d18/a14969.html#a956136be8cb484efc9af2429d8779a03", null ],
+    [ "Register", "db/d18/a14969.html#a1d4b1c43305b3133e4ac7f8b6ce70727", null ]
 ];

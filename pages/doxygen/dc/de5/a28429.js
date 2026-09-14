@@ -1,10 +1,5 @@
 var a28429 =
 [
-    [ "guard_shattrath_aldorAI", "dc/de5/a28429.html#a88961dfe4100dfe207af693a1eed86ad", null ],
-    [ "Reset", "dc/de5/a28429.html#aef38e83e90c322bbef18b78e6339ef2e", null ],
-    [ "UpdateAI", "dc/de5/a28429.html#ac87ee12d4487971b68c70f06f63eb410", null ],
-    [ "banishTimer", "dc/de5/a28429.html#a8b6e4c2acb09c65f2dbebbd21df4f29e", null ],
-    [ "canTeleport", "dc/de5/a28429.html#af4d933b56431d2f2755d87fb05922458", null ],
-    [ "exileTimer", "dc/de5/a28429.html#a8d56205206f3e14184922f96873456ad", null ],
-    [ "playerGUID", "dc/de5/a28429.html#a16fe41ae30d54abaf12f68672b93dc32", null ]
+    [ "go_scourge_cage", "dc/de5/a28429.html#a76dfa458a52c950fbc0a86412e1ad490", null ],
+    [ "OnGossipHello", "dc/de5/a28429.html#ab4e97cd290342d623d212cc7cec227d5", null ]
 ];

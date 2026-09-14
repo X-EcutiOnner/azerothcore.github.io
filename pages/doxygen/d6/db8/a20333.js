@@ -1,8 +1,7 @@
 var a20333 =
 [
-    [ "HandleOnEffectApply", "d6/db8/a20333.html#a83ff54727e886161c5568a60833932d1", null ],
-    [ "HandleOnEffectRemove", "d6/db8/a20333.html#a9e48d1c9dc26f882ee685a2cbf59667e", null ],
-    [ "PrepareAuraScript", "d6/db8/a20333.html#a5ec8ffeceae335423dff10f54e096e8a", null ],
-    [ "Register", "d6/db8/a20333.html#ae07af138c6f9c565799574b4f8343492", null ],
-    [ "Validate", "d6/db8/a20333.html#a3a24a25c9b9b118d20ca2b14fbfc5869", null ]
+    [ "npc_storm_beacon_spawn", "d6/db8/a20333.html#a999b6421a0ef6eec2987716a60352a5e", null ],
+    [ "UpdateAI", "d6/db8/a20333.html#a93dbd7a26d6333f18329142280cc743d", null ],
+    [ "_amount", "d6/db8/a20333.html#acb5d1f2b6590da32f36882339729c4e9", null ],
+    [ "_checkTimer", "d6/db8/a20333.html#a9717b52f26045707fd852b955d29a5e6", null ]
 ];

@@ -1,11 +1,6 @@
 var a14813 =
 [
-    [ "npc_winterfin_playmate", "d9/d75/a14813.html#a9c07fb9115c21ba5c3ef7459662e8f38", null ],
-    [ "MoveInLineOfSight", "d9/d75/a14813.html#a7e8640e3bfe0a8f960ce22a2daf136a4", null ],
-    [ "Reset", "d9/d75/a14813.html#aae6b51c22dc0448608c1cf9412565e25", null ],
-    [ "UpdateAI", "d9/d75/a14813.html#a8e04dc18ee8a6d9412cd574994908eb6", null ],
-    [ "orphanGUID", "d9/d75/a14813.html#a9189bf7b93e7c46e559c22f3504f919f", null ],
-    [ "phase", "d9/d75/a14813.html#a0a1051dc971ef393843bd1ba655a2e1b", null ],
-    [ "playerGUID", "d9/d75/a14813.html#a142fe7a438ee22384f682f26ff4a9f9c", null ],
-    [ "timer", "d9/d75/a14813.html#abf4b5f3e16f32a3385b71ef002c5ee64", null ]
+    [ "OnApply", "d9/d75/a14813.html#a4a276b00d4912c210598057620368934", null ],
+    [ "PrepareAuraScript", "d9/d75/a14813.html#a20cb3aec994ffc0a06d9b4ba4f575844", null ],
+    [ "Register", "d9/d75/a14813.html#adf9962252dec76f324b8cdbf8f6b9155", null ]
 ];

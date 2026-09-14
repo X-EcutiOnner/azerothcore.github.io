@@ -1,6 +1,7 @@
 var a21153 =
 [
-    [ "achievement_yogg_saron_he_waits_dreaming", "d0/d0d/a21153.html#a25f4950d1ccffe77aa9cf5de7a14ea37", null ],
-    [ "OnCheck", "d0/d0d/a21153.html#a7ef7dfb0235fb2db5932e7415e3e6f61", null ],
-    [ "_requiredIllusion", "d0/d0d/a21153.html#aa3e107cb3be6fa02687709e07466a094", null ]
+    [ "OnPeriodic", "d0/d0d/a21153.html#a529e89c1ae0074370da174defc086719", null ],
+    [ "PrepareAuraScript", "d0/d0d/a21153.html#a587652095a5dfae229787a0c0ceacfbe", null ],
+    [ "Register", "d0/d0d/a21153.html#acd5551b09882d720608bdec6036dee9a", null ],
+    [ "Validate", "d0/d0d/a21153.html#aaed6604e39dd977f4e7c671052d718e8", null ]
 ];

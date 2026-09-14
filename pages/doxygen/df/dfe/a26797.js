@@ -1,6 +1,7 @@
 var a26797 =
 [
-    [ "HandleDummy", "df/dfe/a26797.html#a1e9ecf50304f5ccd8578befea898bf81", null ],
-    [ "PrepareSpellScript", "df/dfe/a26797.html#a9cf7d1dd37f6df4651ffc83e6aa0b1c0", null ],
-    [ "Register", "df/dfe/a26797.html#a98a5ad12cdb54f48d6014fda3915fd70", null ]
+    [ "CheckAreaTarget", "df/dfe/a26797.html#a2d240518259d2452d263fc436de5056e", null ],
+    [ "PrepareAuraScript", "df/dfe/a26797.html#a0b97b273f13805f027e5f5113d4a8e40", null ],
+    [ "Register", "df/dfe/a26797.html#a50406feea1b2cf34ad101a3b1fd25d7c", null ],
+    [ "Validate", "df/dfe/a26797.html#adfd1ccae4029680415409df737aa2533", null ]
 ];

@@ -1,7 +1,7 @@
 var a27981 =
 [
-    [ "HandleGlyph", "d7/d44/a27981.html#a9ec1133587bb6f0d7faa1beafc8415d9", null ],
-    [ "PrepareSpellScript", "d7/d44/a27981.html#adffd8b39adef397a886a66465e09f68b", null ],
-    [ "Register", "d7/d44/a27981.html#a77ff80bffd5c3f75dd60f2d901dfd84e", null ],
-    [ "Validate", "d7/d44/a27981.html#aa8bf4fc8457d122e46d12bc6b1cc7586", null ]
+    [ "FilterTargets", "d7/d44/a27981.html#aeebe9395cefab1b87196a7ef466aa2c8", null ],
+    [ "PrepareSpellScript", "d7/d44/a27981.html#a954f00317eab544dd57e657368aab7fb", null ],
+    [ "Register", "d7/d44/a27981.html#a1804684c8685372faf2e88e56b48f5be", null ],
+    [ "Validate", "d7/d44/a27981.html#ab08386023ed3b3c8e51178da8973ef1a", null ]
 ];

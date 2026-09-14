@@ -1,6 +1,8 @@
 var a18913 =
 [
-    [ "npc_the_lich_king_controllerAI", "d9/d74/a18917.html", "d9/d74/a18917" ],
-    [ "npc_the_lich_king_controller", "da/dd4/a18913.html#a32b14d699737497ba7c90d8ef17557d7", null ],
-    [ "GetAI", "da/dd4/a18913.html#ae9b6dacb0f4e8e6f12f187ab0dfd2165", null ]
+    [ "npc_lk_spirit_bombAI", "da/dd4/a18913.html#a366fb54e68c0e603000183cd68daf6b7", null ],
+    [ "IsSummonedBy", "da/dd4/a18913.html#a9b3de8c6e2006a19ee1289455163f52c", null ],
+    [ "MovementInform", "da/dd4/a18913.html#a0e4aa94a199439962095c1d2026b2a5f", null ],
+    [ "UpdateAI", "da/dd4/a18913.html#a61b4f7c3a1dd9b9b2850b05f2117e55a", null ],
+    [ "timer", "da/dd4/a18913.html#aa0d370113b753127d4f0fd7bd3a3ba11", null ]
 ];

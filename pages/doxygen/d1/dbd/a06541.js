@@ -1,7 +1,14 @@
 var a06541 =
 [
-    [ "SpellTargetSelector", "d1/dbd/a06541.html#a9f1f441e542500dc43c58b97729f7f51", null ],
-    [ "operator()", "d1/dbd/a06541.html#a53c27c23f2d9846903e1ff9b479a36b1", null ],
-    [ "_caster", "d1/dbd/a06541.html#ac5b0844c975a6b3ff3c14a843fd28fba", null ],
-    [ "_spellInfo", "d1/dbd/a06541.html#a309ed04630cfb92810b7f51376b3917c", null ]
+    [ "PossessedAI", "d1/dbd/a06541.html#a29bfe06f4f6f0398e3a0a385b179cdbe", null ],
+    [ "AttackStart", "d1/dbd/a06541.html#a293a49d5cffd58dff103b0aacc558cde", null ],
+    [ "EnterEvadeMode", "d1/dbd/a06541.html#ad99b9c297289b819157be56d8049320e", null ],
+    [ "JustDied", "d1/dbd/a06541.html#aae94a4a6d6e67d05d18573845ecebfd7", null ],
+    [ "JustEnteredCombat", "d1/dbd/a06541.html#a0e6c1036adcc5c27ddc8b3d1ab066659", null ],
+    [ "JustExitedCombat", "d1/dbd/a06541.html#a3facfbb176dfcf2b4cba9d373f707eaa", null ],
+    [ "JustStartedThreateningMe", "d1/dbd/a06541.html#a48c81735e921d8f0206e1f2b9ddb346e", null ],
+    [ "KilledUnit", "d1/dbd/a06541.html#a8e6d316c08dd6fba53c8ed2edab9ea34", null ],
+    [ "MoveInLineOfSight", "d1/dbd/a06541.html#a7d81135d9c23cb9b9ec48b441dd050e2", null ],
+    [ "Permissible", "d1/dbd/a06541.html#aafc2d20dff60c6e5401eaa579844430d", null ],
+    [ "UpdateAI", "d1/dbd/a06541.html#a3ce62a71e3f963f0b660bc987bf85051", null ]
 ];

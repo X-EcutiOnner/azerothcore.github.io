@@ -1,7 +1,6 @@
 var a24001 =
 [
-    [ "HandleDamage", "d4/df6/a24001.html#add7e78111217d00bfa3dfa5b3eb490f9", null ],
-    [ "HandleTargets", "d4/df6/a24001.html#ac9e455d4ef5cc7b7ce424b70b4387c78", null ],
-    [ "PrepareSpellScript", "d4/df6/a24001.html#a46b62a09ea23cb102b0e5cf075c727d4", null ],
-    [ "Register", "d4/df6/a24001.html#a8873614ae22c908cb2cf49129fc53be2", null ]
+    [ "HandleScriptEffect", "d4/df6/a24001.html#acfe80e22e6c78dba50155f7f20c0678b", null ],
+    [ "PrepareSpellScript", "d4/df6/a24001.html#a17cb5f874343bd40c6aafaf9d627b047", null ],
+    [ "Register", "d4/df6/a24001.html#a4bb5cfd2cc8503b3a840fc68624a33c1", null ]
 ];

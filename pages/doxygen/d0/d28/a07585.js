@@ -1,7 +1,7 @@
 var a07585 =
 [
-    [ "BfGraveyardWG", "d0/d28/a07585.html#a040af569e6633e4ed4c7513b55d034ac", null ],
-    [ "GetTextId", "d0/d28/a07585.html#a618b778d8bed11627150a88e2f4e349b", null ],
-    [ "SetTextId", "d0/d28/a07585.html#a367d525e84d8634f47fb6679c2ee3d42", null ],
-    [ "GossipTextId", "d0/d28/a07585.html#af197f40de908ed650229bbf033836778", null ]
+    [ "AuctionSearchUpdateBid", "d0/d28/a07585.html#ad7ecaf272e5cc8fe61e0b448d05b6d27", null ],
+    [ "auctionId", "d0/d28/a07585.html#a6ebbff1fcebe77ed4735483ad481fd00", null ],
+    [ "bid", "d0/d28/a07585.html#a14b7f79b2aa0b020c8c940d6b01c4efc", null ],
+    [ "bidderGuid", "d0/d28/a07585.html#a843bcff41f694075ea056d9a3c71467f", null ]
 ];

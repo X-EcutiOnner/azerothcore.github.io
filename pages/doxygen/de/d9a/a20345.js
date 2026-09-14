@@ -1,6 +1,5 @@
 var a20345 =
 [
-    [ "achievement_flame_leviathan_towers", "de/d9a/a20345.html#a491d66bdd373b6044e406126719ef910", null ],
-    [ "OnCheck", "de/d9a/a20345.html#ad6e9dee3f05afaca0a355b714bf75ea6", null ],
-    [ "_towerCount", "de/d9a/a20345.html#a1099385340b30a1a75655e2e7d2ba3cc", null ]
+    [ "go_ulduar_tower", "de/d9a/a20345.html#afc1add1a0543921f52afe1eb907f5de3", null ],
+    [ "OnDestroyed", "de/d9a/a20345.html#aa72ebefe52d49e5b07fb36232efd7e95", null ]
 ];

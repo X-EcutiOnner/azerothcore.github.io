@@ -1,6 +1,5 @@
 var a15085 =
 [
-    [ "PrepareAuraScript", "da/dd3/a15085.html#a80660b1417ab33edaf2c4cd517e10e30", null ],
-    [ "RecalculateHook", "da/dd3/a15085.html#af3952993947dfb24381083d21a9e64cb", null ],
-    [ "Register", "da/dd3/a15085.html#ab7f0aa924dfe8043e44cd794f72e4555", null ]
+    [ "PrepareSpellScript", "da/dd3/a15085.html#a3e1c670bbc7efb86b95a34ee3c8ba059", null ],
+    [ "Register", "da/dd3/a15085.html#a06111bf70ee53fee6e90284f8d92642e", null ]
 ];

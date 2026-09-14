@@ -1,7 +1,6 @@
 var a13673 =
 [
-    [ "OnRemove", "d2/da2/a13673.html#a55460c6393c165e3096c967c81136032", null ],
-    [ "PrepareAuraScript", "d2/da2/a13673.html#afd4e4483f704169e6d213ced134d4c62", null ],
-    [ "Register", "d2/da2/a13673.html#a8458f77fde6eaddc273b3fe5f4e49ae0", null ],
-    [ "Validate", "d2/da2/a13673.html#af580258d287f5db6103b89d3085669bc", null ]
+    [ "instance_shadowfang_keep_InstanceMapScript", "d2/dd9/a13677.html", "d2/dd9/a13677" ],
+    [ "instance_shadowfang_keep", "d2/da2/a13673.html#aa6817df7270fbf9397c6b66b28d0f6f8", null ],
+    [ "GetInstanceScript", "d2/da2/a13673.html#a5c076ed86470247de5b4e3733b70fa25", null ]
 ];

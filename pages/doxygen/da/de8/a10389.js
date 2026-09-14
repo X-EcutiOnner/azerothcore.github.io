@@ -1,8 +1,20 @@
 var a10389 =
 [
-    [ "AbstractFollower", "da/de8/a10389.html#a08d292896f2419dd73ae68c8e1238d4b", null ],
-    [ "~AbstractFollower", "da/de8/a10389.html#acb394f5326ab5ea5146c79788a085647", null ],
-    [ "GetTarget", "da/de8/a10389.html#a43f037557454528a956c379d9efb42ac", null ],
-    [ "SetTarget", "da/de8/a10389.html#ad49748abec4bb2fe06cc8ba2699bdbd0", null ],
-    [ "_target", "da/de8/a10389.html#aa4e43d8e60442eee41398648fd7fd45d", null ]
+    [ "KeyFrame", "da/de8/a10389.html#a29de8ef0d2ba8671a00557782b5b3ba0", null ],
+    [ "IsStopFrame", "da/de8/a10389.html#a5e5b3e61a5734a8cfcba1c8e9cfb6e33", null ],
+    [ "IsTeleportFrame", "da/de8/a10389.html#a4197d8450563a6abd2826be37a2d0c0e", null ],
+    [ "ArriveTime", "da/de8/a10389.html#afc5d26078e42a2170d43c864542f676f", null ],
+    [ "DepartureTime", "da/de8/a10389.html#ac243e42c49063db26557d96b5fdf8a8f", null ],
+    [ "DistFromPrev", "da/de8/a10389.html#a4271d37fac21d8c41758fc5edbf793e2", null ],
+    [ "DistSinceStop", "da/de8/a10389.html#a60502cefa4387ffd815ba88530123ac6", null ],
+    [ "DistUntilStop", "da/de8/a10389.html#a03f76647aa0c383bcd4b26ae93abe465", null ],
+    [ "Index", "da/de8/a10389.html#a1176b2e4067a4e330db280514ca66d43", null ],
+    [ "InitialOrientation", "da/de8/a10389.html#a9af26b07943f22473526463f7a0f7c6b", null ],
+    [ "NextArriveTime", "da/de8/a10389.html#a51fb15713126d4890bfe99dc00e421f7", null ],
+    [ "NextDistFromPrev", "da/de8/a10389.html#a23823648385abc72ffd8372468b98915", null ],
+    [ "Node", "da/de8/a10389.html#ac628c537d5854ddf54d516eaf4471d7f", null ],
+    [ "Spline", "da/de8/a10389.html#aee298cdd32a7593baf6ad00234120781", null ],
+    [ "Teleport", "da/de8/a10389.html#ad57abe67a7e4771a35621b4204bfe347", null ],
+    [ "TimeFrom", "da/de8/a10389.html#ae12ac1910a4aa13557e69bd5e066214b", null ],
+    [ "TimeTo", "da/de8/a10389.html#ae4e0c37d26edb99017bf0042b3e0bad4", null ]
 ];

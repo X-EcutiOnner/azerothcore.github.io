@@ -1,6 +1,6 @@
 var a17221 =
 [
-    [ "HandleScript", "dc/d51/a17221.html#a4786e0c38f03f7e671174d0641526681", null ],
-    [ "PrepareSpellScript", "dc/d51/a17221.html#a7d260468f409a7fb41a39f80db5f9d63", null ],
-    [ "Register", "dc/d51/a17221.html#a943117bfb56b846e99d04bd9a348af8d", null ]
+    [ "boss_dredAI", "df/dd6/a17225.html", "df/dd6/a17225" ],
+    [ "boss_dred", "dc/d51/a17221.html#a60a913f53c63f95680c29c72f48f9a1a", null ],
+    [ "GetAI", "dc/d51/a17221.html#ab8276b185f80a92a54327ea28b19c704", null ]
 ];

@@ -1,6 +1,7 @@
 var a22965 =
 [
-    [ "PrepareAuraScript", "d9/d82/a22965.html#ac52a5dccc708f9ee63f3c6c92fbf15c1", null ],
-    [ "Register", "d9/d82/a22965.html#acc4afbe7f2b23b67e8f7e3fe1eeb03b5", null ],
-    [ "Update", "d9/d82/a22965.html#aa9f5924b3f12c666c53ddc2b9b80aeea", null ]
+    [ "OnPeriodic", "d9/d82/a22965.html#a165d47b116b0a53e37b05f664960e6ec", null ],
+    [ "PrepareAuraScript", "d9/d82/a22965.html#ac46af3566c5c03622f8146f1bb6f0ac7", null ],
+    [ "Register", "d9/d82/a22965.html#a1ac8741542c921f5e4c42b0a9a02ed3c", null ],
+    [ "Validate", "d9/d82/a22965.html#adf76f9183dd9c5e0f00c2115aaafb119", null ]
 ];

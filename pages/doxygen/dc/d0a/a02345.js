@@ -1,5 +1,5 @@
 var a02345 =
 [
-    [ "reset_commandscript", "d5/df9/a12605.html", "d5/df9/a12605" ],
-    [ "AddSC_reset_commandscript", "dc/d0a/a02345.html#ae4c7679595ac3aac5f03426eb6e0e6e4", null ]
+    [ "honor_commandscript", "d9/d6c/a12545.html", "d9/d6c/a12545" ],
+    [ "AddSC_honor_commandscript", "dc/d0a/a02345.html#ab7c57f853cb45a82b5563b703a1ee041", null ]
 ];

@@ -1,7 +1,6 @@
 var a24921 =
 [
-    [ "CalculateAmount", "de/d42/a24921.html#ab705e67f7abb72a13dfd32e7a6da4561", null ],
-    [ "Load", "de/d42/a24921.html#ac87f1c7ccb9aa9985d538c9d8611c850", null ],
-    [ "PrepareAuraScript", "de/d42/a24921.html#ae4a75ef8bc755c8220b768d5ac87a728", null ],
-    [ "Register", "de/d42/a24921.html#a636331452bc95a4434f1b85e85ea6e7b", null ]
+    [ "HandleEffectCalcSpellMod", "de/d42/a24921.html#aaf21dafa72b58245f548ed946a49659d", null ],
+    [ "PrepareAuraScript", "de/d42/a24921.html#ac05d3ae466ad64ac590f399827aac0c9", null ],
+    [ "Register", "de/d42/a24921.html#a46a643985647d8a8e033b637b31214a5", null ]
 ];

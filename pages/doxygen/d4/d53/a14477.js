@@ -1,12 +1,8 @@
 var a14477 =
 [
-    [ "npc_zulian_prowlerAI", "d4/d53/a14477.html#a367613efead335b060173011267ddcff", null ],
-    [ "JustDied", "d4/d53/a14477.html#a31258aadddfbf6c6e9e1d729452dd8b2", null ],
-    [ "JustEngagedWith", "d4/d53/a14477.html#a207504b15ecd22b78088593b80433581", null ],
-    [ "Reset", "d4/d53/a14477.html#a62d14bae970d8a70a997c683e0e94259", null ],
-    [ "SpellHit", "d4/d53/a14477.html#a4051cd786d8c1974cf80c28f907cc02a", null ],
-    [ "UpdateAI", "d4/d53/a14477.html#a708df3a95395f99f6ba3eebcc90a22ab", null ],
-    [ "_events", "d4/d53/a14477.html#a994ae5b4e72429141155d1342830e5ad", null ],
-    [ "_instance", "d4/d53/a14477.html#ad37ba6b6ff7f52a88d2a96dc4ea00c34", null ],
-    [ "_sideData", "d4/d53/a14477.html#afa44e09c5677c2fc567be6a67b766bde", null ]
+    [ "npc_zulaman_hostageAI", "db/d94/a14481.html", "db/d94/a14481" ],
+    [ "npc_zulaman_hostage", "d4/d53/a14477.html#a12f9ad1889cacb60103c1e921c2fa0e9", null ],
+    [ "GetAI", "d4/d53/a14477.html#a0ae144dc154dd028b409c9d2393f890c", null ],
+    [ "OnGossipHello", "d4/d53/a14477.html#a89d68a976f916a4de2196b57ec0026b0", null ],
+    [ "OnGossipSelect", "d4/d53/a14477.html#a114f6fbfab90944fd49babcba4b48a11", null ]
 ];

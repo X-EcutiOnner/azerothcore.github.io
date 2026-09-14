@@ -1,7 +1,8 @@
 var a17917 =
 [
-    [ "npc_icc_blood_beastAI", "d3/d5f/a17917.html#af52eff9f66451444c5acba6930c1bff6", null ],
-    [ "DoAction", "d3/d5f/a17917.html#a5de6e46fd21fd073fde2f0aaa5dc947a", null ],
-    [ "UpdateAI", "d3/d5f/a17917.html#ac9da073c33dd33097f03ca35d36ea15e", null ],
-    [ "timer1", "d3/d5f/a17917.html#a1074059162f818088808795119f081be", null ]
+    [ "npc_high_overlord_saurfangAI", "da/da4/a17921.html", "da/da4/a17921" ],
+    [ "npc_high_overlord_saurfang_icc", "d3/d5f/a17917.html#ac02fe80550572e142406c2d80c0392df", null ],
+    [ "GetAI", "d3/d5f/a17917.html#a21c04ab5b8d747c28c7355cc483ac6e3", null ],
+    [ "OnGossipHello", "d3/d5f/a17917.html#a515a87f751527412222cfdd968febe7c", null ],
+    [ "OnGossipSelect", "d3/d5f/a17917.html#a39c33a3b2e7037ca6f0f40ba65cb55db", null ]
 ];

@@ -1,8 +1,9 @@
 var a09277 =
 [
-    [ "TempSummonGroupKey", "d7/dc8/a09277.html#ae1bd752c8fc7d037d6942b32859ce1ad", null ],
-    [ "operator<", "d7/dc8/a09277.html#ae92c7712bd58b9b773ddaac3d2b8a345", null ],
-    [ "_summonerEntry", "d7/dc8/a09277.html#a0ecac0e82ce63c9e64f2e17d941df447", null ],
-    [ "_summonerType", "d7/dc8/a09277.html#ac6bf8fb36092134f63409f3cddc5f810", null ],
-    [ "_summonGroup", "d7/dc8/a09277.html#a1a90f3bf90363f88828cc217dd7ceda6", null ]
+    [ "TransportBase", "d7/dc8/a09277.html#a6dba8e37217dae4e5da8f52780e63f70", null ],
+    [ "~TransportBase", "d7/dc8/a09277.html#a81dca3435a1a1666a90acd8e154e3287", null ],
+    [ "CalculatePassengerOffset", "d7/dc8/a09277.html#ae8c9eb64027f8e7c781f0af192e3f6c1", null ],
+    [ "CalculatePassengerOffset", "d7/dc8/a09277.html#aa4d00f15dc0e6c53b4a175b0ca53021b", null ],
+    [ "CalculatePassengerPosition", "d7/dc8/a09277.html#a7cb7586a6935ca4e08aa3e658982abec", null ],
+    [ "CalculatePassengerPosition", "d7/dc8/a09277.html#a328fbc464c56eca89138380182a0108c", null ]
 ];

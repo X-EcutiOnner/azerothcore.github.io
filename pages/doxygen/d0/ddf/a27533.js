@@ -1,7 +1,6 @@
 var a27533 =
 [
-    [ "CalculateAmount", "d0/ddf/a27533.html#adc34e5742173d039f6050d5ccc0a2cae", null ],
-    [ "PrepareAuraScript", "d0/ddf/a27533.html#aa966d001c3687403dfa2b13e998ca241", null ],
-    [ "Register", "d0/ddf/a27533.html#aeecb9756d4304ed2316b6d2a8f0d6ac4", null ],
-    [ "Validate", "d0/ddf/a27533.html#af1eee4d8e966d66fea04173e7481b5ce", null ]
+    [ "HandleEffectApply", "d0/ddf/a27533.html#ab77ea5638ea12f2e305487b1080d0b0b", null ],
+    [ "PrepareAuraScript", "d0/ddf/a27533.html#aed642c73ab31fb63aa497ada45863ae6", null ],
+    [ "Register", "d0/ddf/a27533.html#ab9c68d7368ed71d2c5585df31b09cdd7", null ]
 ];

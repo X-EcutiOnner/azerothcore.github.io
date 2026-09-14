@@ -1,15 +1,6 @@
 var a21541 =
 [
-    [ "npc_vh_teleportation_portal", "d5/de1/a21541.html#ae4ed2aebf39ab2593c07ba3098341c91", null ],
-    [ "JustDied", "d5/de1/a21541.html#af86eefc8c9e4187e52c4dd88c41cbc38", null ],
-    [ "JustSummoned", "d5/de1/a21541.html#ad3606d29d814232a492e9e3e85048bd7", null ],
-    [ "SummonedMobDied", "d5/de1/a21541.html#aa58672b2022e44b90adc8bf331ee84fc", null ],
-    [ "UpdateAI", "d5/de1/a21541.html#a3bb6021855bed917fdd2ef47f8ddca29", null ],
-    [ "_addValue", "d5/de1/a21541.html#ad71dd5636c683cfac15423375c0dcc6d", null ],
-    [ "_events", "d5/de1/a21541.html#a1eb415b24f794c8cbb0d01084eb09669", null ],
-    [ "_instance", "d5/de1/a21541.html#acf09515827ae926fe83ffc87a7e35ac5", null ],
-    [ "_isKeeperOrGuardian", "d5/de1/a21541.html#a7483553634133f980929aaeef39bd6a6", null ],
-    [ "_listOfMobs", "d5/de1/a21541.html#a8856350d299bfb25a4e77bb8753afa14", null ],
-    [ "_spawned", "d5/de1/a21541.html#ac89ccf4030e5dffe15d0b24b991176de", null ],
-    [ "_wave", "d5/de1/a21541.html#a0d82b870a2f6bc0de62502f02fd8c1b4", null ]
+    [ "npc_frozen_orb_stalkerAI", "d5/de1/a21541.html#afd8d187ecbf508d02824d1ff8f3cb5cf", null ],
+    [ "JustSummoned", "d5/de1/a21541.html#a73d7d5e55d2a00c9aee6f595e2678b17", null ],
+    [ "Reset", "d5/de1/a21541.html#a064ccb90afeb9b36d501850482c60bc4", null ]
 ];

@@ -1,6 +1,7 @@
 var a19301 =
 [
-    [ "npc_icc_valkyr_heraldAI", "d6/dad/a19305.html", "d6/dad/a19305" ],
-    [ "npc_icc_valkyr_herald", "de/d7b/a19301.html#a9d06e0dec8cb960d34c2089c1c0d8ccb", null ],
-    [ "GetAI", "de/d7b/a19301.html#a7537269841d0380d2dc9e4641705acf9", null ]
+    [ "OnRemove", "de/d7b/a19301.html#ac71e6f5a9e3a7c96b4e4bd1a296d0d8d", null ],
+    [ "PrepareAuraScript", "de/d7b/a19301.html#acf654e563f47df9ad033d7080f47662b", null ],
+    [ "Register", "de/d7b/a19301.html#aad4497ba7cad48b9547e8696714d8c23", null ],
+    [ "Validate", "de/d7b/a19301.html#ae5e187cb481849343e777b0bf0ffdf24", null ]
 ];

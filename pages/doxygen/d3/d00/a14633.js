@@ -1,6 +1,6 @@
 var a14633 =
 [
-    [ "HandleObjectAreaTargetSelect", "d3/d00/a14633.html#aa7695bddd766d5adefb04710d41894f6", null ],
-    [ "PrepareSpellScript", "d3/d00/a14633.html#a77ba184428cfbb8ec3cc4670f78741e0", null ],
-    [ "Register", "d3/d00/a14633.html#adbc2f1c4ec64b95ec72c82f36f12d928", null ]
+    [ "HandleOnHit", "d3/d00/a14633.html#a76b09288d14d399735250607e2105eb3", null ],
+    [ "PrepareSpellScript", "d3/d00/a14633.html#a2270ce546ae286ffa701d094df591aa2", null ],
+    [ "Register", "d3/d00/a14633.html#a710f2a60bf6ae00909d279b98ac6b7d6", null ]
 ];

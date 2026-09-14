@@ -1,6 +1,6 @@
 var a22357 =
 [
-    [ "npc_freed_protodrakeAI", "da/df6/a22361.html", "da/df6/a22361" ],
-    [ "npc_freed_protodrake", "d9/d7e/a22357.html#a56e33e186800efa3fb86ca6a614e3b0b", null ],
-    [ "GetAI", "d9/d7e/a22357.html#a9680bf65cb97327396f58c297df1c8f5", null ]
+    [ "npc_jungle_punch_targetAI", "da/df6/a22361.html", "da/df6/a22361" ],
+    [ "npc_jungle_punch_target", "d9/d7e/a22357.html#a69220634d9d6b84e464cdc4e0cba91a7", null ],
+    [ "GetAI", "d9/d7e/a22357.html#abb38ccb55abfe0f48f360469031c6902", null ]
 ];

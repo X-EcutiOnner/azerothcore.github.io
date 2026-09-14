@@ -1,7 +1,7 @@
 var a22969 =
 [
-    [ "CheckProc", "d8/d7d/a22969.html#a0968b7b32f2d2bef6035e030f544088a", null ],
-    [ "PrepareAuraScript", "d8/d7d/a22969.html#ac424e41948196a6e60b790ebcf40783f", null ],
-    [ "Register", "d8/d7d/a22969.html#a06bdac68e36b43ee534e937ffd974086", null ],
-    [ "Update", "d8/d7d/a22969.html#af6c228840f6af96e353ba964fdd01e54", null ]
+    [ "VerasEnvenom", "d8/d7d/a22969.html#ac8c5f4fcb63ea5141a71b56324de0b1f", null ],
+    [ "Execute", "d8/d7d/a22969.html#a4b7853bb835cf28aefe2d5b955372d70", null ],
+    [ "_owner", "d8/d7d/a22969.html#af9cf231119ab5592be9829784f20d2e0", null ],
+    [ "_targetGUID", "d8/d7d/a22969.html#a90d62907c775565765fa87903adb94ea", null ]
 ];

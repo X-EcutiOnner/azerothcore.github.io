@@ -1,6 +1,9 @@
 var a14505 =
 [
-    [ "boss_hakkarAI", "d5/d87/a14509.html", "d5/d87/a14509" ],
-    [ "boss_hakkar", "d1/d89/a14505.html#a834bd1f223154fbf1be94bf43136da28", null ],
-    [ "GetAI", "d1/d89/a14505.html#aff3a089e30dcddfde4db372104153723", null ]
+    [ "npc_amanishi_scout", "d1/d89/a14505.html#a74bed56c21c184e661f62c30ce6d9140", null ],
+    [ "JustEngagedWith", "d1/d89/a14505.html#a5969fadd871094e993c4d3fe0b08054c", null ],
+    [ "Reset", "d1/d89/a14505.html#ac527a3a656888f7ac3d13636a0de7aad", null ],
+    [ "ScheduleCombat", "d1/d89/a14505.html#acb736dc42c5f9afbd92c97bfa8293606", null ],
+    [ "UpdateAI", "d1/d89/a14505.html#a3740a4fde31e1e81edb34dde61403acc", null ],
+    [ "_drumGUID", "d1/d89/a14505.html#afd9a1a57c413d5857331ac90665cc1e0", null ]
 ];

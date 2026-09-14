@@ -1,5 +1,10 @@
 var a29861 =
 [
-    [ "SetUp", "d7/d1b/a29861.html#a10b43a2cd83bd451a9a8dd0112e5ce5e", null ],
-    [ "TearDown", "d7/d1b/a29861.html#a45e56fbc190cf4ac058e2abd7b967448", null ]
+    [ "SetUp", "d7/d1b/a29861.html#a781aff1ceb2f4e26bcf801e9ab81bf3e", null ],
+    [ "TearDown", "d7/d1b/a29861.html#a4554349a2712a018d16de6a8ae9f50ff", null ],
+    [ "PERM_A", "d7/d1b/a29861.html#a4cf88cb08e4248c973e96009b7c5e225", null ],
+    [ "PERM_B", "d7/d1b/a29861.html#a358884a8d08637d7358803127c87c808", null ],
+    [ "PERM_C", "d7/d1b/a29861.html#a34fc88e7d7566ed4d64005535d0a3122", null ],
+    [ "rbacData", "d7/d1b/a29861.html#af35ce1e4fa3d4123358a098cb5afb2af", null ],
+    [ "ROLE_R", "d7/d1b/a29861.html#abe95477afdf283e406df55eac7f146cf", null ]
 ];

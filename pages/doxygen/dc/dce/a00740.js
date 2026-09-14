@@ -1,4 +1,4 @@
 var a00740 =
 [
-    [ "ScriptRegistry< MiscScript >", "dc/dce/a00740.html#a925ee1bbb5e173c3d816d0ae35b38a67", null ]
+    [ "ScriptRegistry< AllSpellScript >", "dc/dce/a00740.html#a6fb50c7d667ae3d14a6d307b0862e957", null ]
 ];

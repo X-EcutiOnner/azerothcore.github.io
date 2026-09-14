@@ -1,6 +1,6 @@
 var a27433 =
 [
-    [ "HandleProc", "da/d66/a27433.html#a34fc7c89e962791d76c24c40bbdba827", null ],
-    [ "PrepareAuraScript", "da/d66/a27433.html#a3558a23d2d428ee4f0bec8ae6c1afba5", null ],
-    [ "Register", "da/d66/a27433.html#aab998e808ec9f53e87d92e71b3cc1c30", null ]
+    [ "CheckProc", "da/d66/a27433.html#a4e40a3472a7dde5aaa1d6d4cda54482a", null ],
+    [ "PrepareAuraScript", "da/d66/a27433.html#af15109e926eb717c3f3cb2f7f617428c", null ],
+    [ "Register", "da/d66/a27433.html#aee35ceec1ffcdebf5bd712310bdf9f1c", null ]
 ];

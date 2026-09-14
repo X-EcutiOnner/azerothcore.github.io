@@ -1,6 +1,6 @@
 var a17953 =
 [
-    [ "npc_stinky_iccAI", "df/d04/a17957.html", "df/d04/a17957" ],
-    [ "npc_stinky_icc", "db/dc0/a17953.html#a8f6a3687d4b330f532a0d892dbf429a0", null ],
-    [ "GetAI", "db/dc0/a17953.html#aaf6b7b1a7469d1e353617f63f11f7781", null ]
+    [ "PrepareAuraScript", "db/dc0/a17953.html#abbcd0a9a63908a875bcdbc66fb5e1218", null ],
+    [ "RecalculateHook", "db/dc0/a17953.html#a829e96cabbb565922f7183adb3edf13c", null ],
+    [ "Register", "db/dc0/a17953.html#a7ded7cbe8c5cbffd6798bbb66d8a5d1a", null ]
 ];

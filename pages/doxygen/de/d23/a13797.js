@@ -1,8 +1,7 @@
 var a13797 =
 [
-    [ "CheckCast", "de/d23/a13797.html#a414c603646c1a6be9bbb7059abbb7e71", null ],
-    [ "HandleScriptEffect", "de/d23/a13797.html#a22f630cb9df4b435a5624f2865915753", null ],
-    [ "PrepareSpellScript", "de/d23/a13797.html#a6e6b27ade1cac743946a976dbf343066", null ],
-    [ "Register", "de/d23/a13797.html#a4afae0bafceeb6e6a9a26aea2162d4d9", null ],
-    [ "Validate", "de/d23/a13797.html#a85779288126b21f516f2feb0238ee65b", null ]
+    [ "CorruptTriggers", "de/d23/a13797.html#a225cafcce56db7d4aefd3fb75ed2533f", null ],
+    [ "Execute", "de/d23/a13797.html#a9929f3518f307e0b753782967f06c6c1", null ],
+    [ "_caster", "de/d23/a13797.html#a2b9e4c3d292b7e3deea57e1542b3ba12", null ],
+    [ "_currentLane", "de/d23/a13797.html#a53e4c60e29f59aa91e059d50e470a22a", null ]
 ];

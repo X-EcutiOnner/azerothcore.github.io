@@ -1,6 +1,6 @@
 var a02963 =
 [
-    [ "fireworkShowGameobjectTeldrassil", "d7/dc1/a02963.html#ade54ff9545ac94f914ea82994571e3a0", null ],
-    [ "fireworkShowScheduleTeldrassil", "d7/dc1/a02963.html#a5a91b29d6818da3b038fc384535233b6", null ],
-    [ "fireworkShowTeldrassil", "d7/dc1/a02963.html#a8999f3fc85a14b073f5037adea6f7496", null ]
+    [ "fireworkShowGameobjectStormwind", "d7/dc1/a02963.html#ae843a13f6116ce380e3890397d825ae6", null ],
+    [ "fireworkShowScheduleStormwind", "d7/dc1/a02963.html#af98c86c5b3725a8753fc620996c94b7f", null ],
+    [ "fireworkShowStormwind", "d7/dc1/a02963.html#a378278257abadcd4369abd66f412d8e6", null ]
 ];

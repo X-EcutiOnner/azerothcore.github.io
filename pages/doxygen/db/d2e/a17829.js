@@ -1,8 +1,6 @@
 var a17829 =
 [
-    [ "OnApply", "db/d2e/a17829.html#a4741bfaaea8bc956fd1020aca13a51c2", null ],
-    [ "OnRemove", "db/d2e/a17829.html#a21aad38fe91580d3b8e0cc71dce7b1ad", null ],
-    [ "PrepareAuraScript", "db/d2e/a17829.html#a54b2ab23915e84b9c9728eb624dae47b", null ],
-    [ "Register", "db/d2e/a17829.html#a6d552ff58f7bb267cf4d20f2f5aedc7a", null ],
-    [ "Validate", "db/d2e/a17829.html#a5542dca73b5cc2ec1c724fe536e8a15f", null ]
+    [ "ChangeSummonPos", "db/d2e/a17829.html#a2c3d69419762c7f78688a22017a8c535", null ],
+    [ "PrepareSpellScript", "db/d2e/a17829.html#a97c48254a0d7a0bd4bcf40f614bc5373", null ],
+    [ "Register", "db/d2e/a17829.html#a9c1aad0131ebe9635c9fdbb3d71c9cdd", null ]
 ];

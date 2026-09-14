@@ -1,8 +1,8 @@
 var a25789 =
 [
-    [ "HandleFinish", "db/dc3/a25789.html#aac1981a16cbb61bfaf20c865bcfaf6a8", null ],
-    [ "PrepareSpellScript", "db/dc3/a25789.html#a73865997890d4f58cc09d54c2c4e5243", null ],
-    [ "Register", "db/dc3/a25789.html#a106cf5d53956b66f8f548caceda41dc8", null ],
-    [ "SelectTarget", "db/dc3/a25789.html#ab33513df20e942ba354932df5082efa8", null ],
-    [ "_target", "db/dc3/a25789.html#af25d11fc93423ee6e1678ebb5dcf1276", null ]
+    [ "CheckProc", "db/dc3/a25789.html#a2b0ff2594877249d0bdb4656fa67b83f", null ],
+    [ "HandleProc", "db/dc3/a25789.html#ac1aebc16e7944ac3f8305d9ff27bc998", null ],
+    [ "PrepareAuraScript", "db/dc3/a25789.html#a19557020af9ca276f72c1d3e4ba8b27b", null ],
+    [ "Register", "db/dc3/a25789.html#a43f7bb634cb165fab5e2187256f50c3f", null ],
+    [ "Validate", "db/dc3/a25789.html#a7762ce25775b98dba14b4ac465cad711", null ]
 ];

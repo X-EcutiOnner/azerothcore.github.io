@@ -1,8 +1,25 @@
 var a15409 =
 [
-    [ "Load", "d9/d5d/a15409.html#a59e8723d8b73f45075db47e1e09e15fb", null ],
-    [ "PeriodicTick", "d9/d5d/a15409.html#ae4761ac3bce02903a7266511d80503f9", null ],
-    [ "PrepareAuraScript", "d9/d5d/a15409.html#a7bacc1ebd4b98e5e43b74e13471b2063", null ],
-    [ "Register", "d9/d5d/a15409.html#acc4db638e0d858085dc3fb2d6b45f7ec", null ],
-    [ "_ticks", "d9/d5d/a15409.html#ab858e9f6505fa32cc7325087d29fee8b", null ]
+    [ "instance_old_hillsbrad_InstanceMapScript", "d9/d5d/a15409.html#a31fbc078e2c8d2a0f070a8a52c34ef90", null ],
+    [ "CleanupInstance", "d9/d5d/a15409.html#a20b8aa23c6c9e29f34cda71554c6d7a7", null ],
+    [ "GetData", "d9/d5d/a15409.html#aa7ae89c6d23a061385a756cf0b0200bf", null ],
+    [ "GetGuidData", "d9/d5d/a15409.html#a119965a939e79b0fb395e8e3695359aa", null ],
+    [ "Initialize", "d9/d5d/a15409.html#ac9e53a8a406110bbc1d454be7b87fb34", null ],
+    [ "OnCreatureCreate", "d9/d5d/a15409.html#a04bf5f844ab8e802f95745f56d996716", null ],
+    [ "OnGameObjectCreate", "d9/d5d/a15409.html#ae5f9223af1488f1edd99f35f7b1c7207", null ],
+    [ "OnPlayerEnter", "d9/d5d/a15409.html#a29ebe48953ba6be93da519c7a43c356e", null ],
+    [ "ReadSaveDataMore", "d9/d5d/a15409.html#a81322de635b72f95de486ccd1abf9644", null ],
+    [ "Reposition", "d9/d5d/a15409.html#a7fcd0c449edfe21933ee055549ea7ddf", null ],
+    [ "SetData", "d9/d5d/a15409.html#a961dd71754113ce6b5aecde16b6426d2", null ],
+    [ "Update", "d9/d5d/a15409.html#ac0bb22a2f69eecc269c69005777d9c38", null ],
+    [ "WriteSaveDataMore", "d9/d5d/a15409.html#ae409ddd2759f8eea883cefa21d045a40", null ],
+    [ "_attemptsCount", "d9/d5d/a15409.html#ac5c012148a60cc7dd26e36ba6950494b", null ],
+    [ "_barrelCount", "d9/d5d/a15409.html#aeb5828d54f327c5d2a30004afa86c4af", null ],
+    [ "_encounterProgress", "d9/d5d/a15409.html#a9b5fff035fb76116f0cea6f6786d506e", null ],
+    [ "_events", "d9/d5d/a15409.html#ab3a9785a2240d62de4dfcf0b2523520f", null ],
+    [ "_finalFlamesSet", "d9/d5d/a15409.html#a914232c182475a17e3583435f2fde9bc", null ],
+    [ "_initalFlamesSet", "d9/d5d/a15409.html#a2404c19bd154f8277aa539f48ae99963", null ],
+    [ "_prisonersSet", "d9/d5d/a15409.html#a43e3b3d3cb4797a8c03731df72e7cb5a", null ],
+    [ "_tarethaGUID", "d9/d5d/a15409.html#ada3dcc37cba14ae8361989f1b842b462", null ],
+    [ "_thrallGUID", "d9/d5d/a15409.html#add8e04fa930e970ab0e88258c10f9c5d", null ]
 ];

@@ -1,5 +1,9 @@
 var a29853 =
 [
-    [ "SetUp", "db/de6/a29853.html#ae5842e5b3c254af015d2232902d01536", null ],
-    [ "TearDown", "db/de6/a29853.html#a689588bbf5aef06487c9f8d729e254f4", null ]
+    [ "SetUp", "db/de6/a29853.html#a664590f345cd02660adef326355c7ca2", null ],
+    [ "TearDown", "db/de6/a29853.html#a366e1170be6f12739b2688c71763c8f0", null ],
+    [ "PERM_BAN", "db/de6/a29853.html#a393626fe7635a8452e69207085037782", null ],
+    [ "PERM_KICK", "db/de6/a29853.html#aa9b8c1e73b4828100386186637e30e90", null ],
+    [ "rbacData", "db/de6/a29853.html#a6e7cb23ddb2dc22611255dff42c85e89", null ],
+    [ "ROLE_GM", "db/de6/a29853.html#ac5d61d965657eccc145d01670a6f27bc", null ]
 ];

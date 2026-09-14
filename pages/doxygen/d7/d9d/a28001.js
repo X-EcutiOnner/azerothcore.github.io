@@ -1,6 +1,8 @@
 var a28001 =
 [
-    [ "HandleOnHit", "d7/d9d/a28001.html#a32a6f464057fbfb3bbffe0e10d1d4141", null ],
-    [ "PrepareSpellScript", "d7/d9d/a28001.html#adfa4da76e8c2486fbcc2b3bea0f50005", null ],
-    [ "Register", "d7/d9d/a28001.html#a1742dc0c039f7f981cae8114ff9ae59a", null ]
+    [ "HandleDummy", "d7/d9d/a28001.html#ad2eec86cff225cc0bd806e31596fb127", null ],
+    [ "PrepareSpellScript", "d7/d9d/a28001.html#a59a04dcfee911c70e13ea8d27b4a49c4", null ],
+    [ "Register", "d7/d9d/a28001.html#a6c72b4c813368774283ae94036a43ee2", null ],
+    [ "SendMiss", "d7/d9d/a28001.html#a7c6d300e60ed492c82d5c017d3e73ed1", null ],
+    [ "Validate", "d7/d9d/a28001.html#a9a5014de08f73ad5dad29354812030ac", null ]
 ];

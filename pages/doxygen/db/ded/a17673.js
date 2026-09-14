@@ -1,5 +1,7 @@
 var a17673 =
 [
-    [ "achievement_snakes_whyd_it_have_to_be_snakes", "db/ded/a17673.html#a4245e53260b83f77f9b4313e13f1f7d3", null ],
-    [ "OnCheck", "db/ded/a17673.html#a1bc62ef6dbdb98b9ca8ea3f3bfc742b0", null ]
+    [ "HandleDummy", "db/ded/a17673.html#a367f4ebd296aa0fd54ff9ef6185a1c92", null ],
+    [ "PrepareSpellScript", "db/ded/a17673.html#ab6e33bf137a54c9cd792aefb0ecd2ef1", null ],
+    [ "Register", "db/ded/a17673.html#a371073fb37337719115242fc8758026f", null ],
+    [ "Validate", "db/ded/a17673.html#ad5df08da54defc89a7a552c39de089c3", null ]
 ];

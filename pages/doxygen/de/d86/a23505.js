@@ -1,6 +1,5 @@
 var a23505 =
 [
-    [ "HandleScript", "de/d86/a23505.html#ae45f8a366c1594d3723b83ee6e006957", null ],
-    [ "PrepareSpellScript", "de/d86/a23505.html#a217953fda43e2c3abdd0d24ddbabc75d", null ],
-    [ "Register", "de/d86/a23505.html#a6b9e449a64747f0a5715424295b1c30f", null ]
+    [ "boss_quagmirran", "de/d86/a23505.html#a7f6289b86216b052f434a1417023e22c", null ],
+    [ "JustEngagedWith", "de/d86/a23505.html#a28253b6653bd2e26e7f246c71a88b625", null ]
 ];

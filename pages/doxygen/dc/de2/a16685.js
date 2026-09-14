@@ -1,6 +1,6 @@
 var a16685 =
 [
-    [ "HandleHealPct", "dc/de2/a16685.html#ad13b3924815ac3da7902c8292a760943", null ],
-    [ "PrepareSpellScript", "dc/de2/a16685.html#aeea718bce7dd5aa4ac33bbd1a95a65c0", null ],
-    [ "Register", "dc/de2/a16685.html#a3016c31c072d6417bbe47c2891059718", null ]
+    [ "HandleForceCast", "dc/de2/a16685.html#a975b69649aba9de341f4e52c82a3c111", null ],
+    [ "PrepareSpellScript", "dc/de2/a16685.html#a2dde8402cc4e8552faf3d8a1f4c6e60e", null ],
+    [ "Register", "dc/de2/a16685.html#a794a59e5fd3bda75f30d559f422895b5", null ]
 ];

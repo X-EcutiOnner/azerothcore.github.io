@@ -1,6 +1,7 @@
 var a10377 =
 [
-    [ "IsNeutralOrFriendlyToTeam", "da/dc0/a10377.html#aeeea8efaff8fe3f5044a7d5627a89cb6", null ],
-    [ "safeLocId", "da/dc0/a10377.html#a4f6003cc76b70c83fbb8301cc9d5a7ad", null ],
-    [ "teamId", "da/dc0/a10377.html#a287b04900d70f8ff8c6f6542edbd40a6", null ]
+    [ "flags", "da/dc0/a10377.html#a7db863994aa6692d1e2359d2c6814cd2", null ],
+    [ "groupId", "da/dc0/a10377.html#ac7efc48c61e715027a8d651fda543ada", null ],
+    [ "mapId", "da/dc0/a10377.html#ad53e068ead632ca66fbebe81e783fc52", null ],
+    [ "name", "da/dc0/a10377.html#a55368217a847f946def13b2123b22ed3", null ]
 ];

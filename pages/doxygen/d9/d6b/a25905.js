@@ -1,7 +1,8 @@
 var a25905 =
 [
-    [ "HandleDummy", "d9/d6b/a25905.html#a5a82cbe58f57c94441cfda618e0eecca", null ],
-    [ "HandleScriptEffect", "d9/d6b/a25905.html#a30d760a8708b49a185eb000249a9a5eb", null ],
-    [ "PrepareSpellScript", "d9/d6b/a25905.html#a102d8493d285757c789cbba4a1bdc688", null ],
-    [ "Register", "d9/d6b/a25905.html#ab4031ddb745995128854c149f7706045", null ]
+    [ "HandleRapidFireProc", "d9/d6b/a25905.html#a174eb1d766c0ae7f59fabdefe565e1de", null ],
+    [ "HandleRapidKillingProc", "d9/d6b/a25905.html#a12f24814d41837c8ddb8a42c8e932077", null ],
+    [ "PrepareAuraScript", "d9/d6b/a25905.html#aa75ea03f718a90a49d81ff49d765c74d", null ],
+    [ "Register", "d9/d6b/a25905.html#af1d93d8ea32a74f7bb6c115f21c5c6c3", null ],
+    [ "Validate", "d9/d6b/a25905.html#a01598fbd355dfdd4517d4221ad5ae323", null ]
 ];

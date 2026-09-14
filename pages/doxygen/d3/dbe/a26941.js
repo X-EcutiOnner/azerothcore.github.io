@@ -1,7 +1,7 @@
 var a26941 =
 [
-    [ "HandleScriptEffect", "d3/dbe/a26941.html#ad3497a9c986f65978d4b2553b0c9958f", null ],
-    [ "Load", "d3/dbe/a26941.html#a33d46e5ebd418ea0242d958345cb44d2", null ],
-    [ "PrepareSpellScript", "d3/dbe/a26941.html#ade09cd376d00df8b5e709026e353f409", null ],
-    [ "Register", "d3/dbe/a26941.html#ad04bf0d88a3e1fde3c11b91d5ef1c7ae", null ]
+    [ "HandleProc", "d3/dbe/a26941.html#a9601839ce1fff4e1be66f435a78693ac", null ],
+    [ "PrepareAuraScript", "d3/dbe/a26941.html#ae7b3804ed0fe40c85d245e2762fd8181", null ],
+    [ "Register", "d3/dbe/a26941.html#a588226cc60a7ff0f8a05e8ec34c855e5", null ],
+    [ "Validate", "d3/dbe/a26941.html#aea68ea2da0853d72d94a19b98db9375f", null ]
 ];

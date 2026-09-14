@@ -1,5 +1,7 @@
 var a25629 =
 [
-    [ "PrepareSpellScript", "d1/d2e/a25629.html#a5dcaeafcb11c79f7f2171a5a0c47e6f5", null ],
-    [ "Register", "d1/d2e/a25629.html#a0ca6ec06108f964432f1cafc00b96313", null ]
+    [ "OnApply", "d1/d2e/a25629.html#a455a885611978a390cd4bfa76b05f82b", null ],
+    [ "PrepareAuraScript", "d1/d2e/a25629.html#ac8f269db5d77cf38bdfcbcfef75a62ff", null ],
+    [ "Register", "d1/d2e/a25629.html#a4b1a28052f11b47646dafbcd60b9dad8", null ],
+    [ "Validate", "d1/d2e/a25629.html#af1174bbbaab1d170a0dcd030d2f1e990", null ]
 ];

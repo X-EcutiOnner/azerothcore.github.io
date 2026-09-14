@@ -1,25 +1,18 @@
 var a01601 =
 [
-    [ "Acore::Impl::ChatCommands::MultiConsumer< Tuple, NextType, offset >", "dd/d0b/a07945.html", "dd/d0b/a07945" ],
-    [ "Acore::Impl::ChatCommands::MultiConsumer< Tuple, Optional< NestedNextType >, offset >", "d0/d86/a07949.html", "d0/d86/a07949" ],
-    [ "Acore::Impl::ChatCommands::HandlerToTuple< T >", "d8/d0d/a07953.html", null ],
-    [ "Acore::Impl::ChatCommands::HandlerToTuple< bool(ChatHandler *, Ts...)>", "d6/dae/a07957.html", "d6/dae/a07957" ],
-    [ "Acore::Impl::ChatCommands::CommandInvoker", "dd/ddc/a07961.html", "dd/ddc/a07961" ],
-    [ "Acore::Impl::ChatCommands::CommandPermissions", "dd/dde/a07965.html", "dd/dde/a07965" ],
-    [ "Acore::Impl::ChatCommands::ChatCommandNode", "da/d3b/a07969.html", "da/d3b/a07969" ],
-    [ "Acore::ChatCommands::ChatCommandBuilder", "d5/df7/a07973.html", "d5/df7/a07973" ],
-    [ "Acore::ChatCommands::ChatCommandBuilder::InvokerEntry", "df/d36/a07977.html", "df/d36/a07977" ],
-    [ "ChatCommand", "d7/d82/a01601.html#a399dbe5721f7277a9066752a84065ee4", null ],
-    [ "ChatCommandTable", "d7/d82/a01601.html#a7aa1549a95f760a19b9b7ffd8e669626", null ],
-    [ "TupleType", "d7/d82/a01601.html#a7dd784bc8e3d7db1d11c46886088ad76", null ],
-    [ "Console", "d7/d82/a01601.html#a6f2659123367a36f37046e5604215d6b", [
-      [ "No", "d7/d82/a01601.html#a6f2659123367a36f37046e5604215d6babafd7322c6e97d25b6299b5d6fe8920b", null ],
-      [ "Yes", "d7/d82/a01601.html#a6f2659123367a36f37046e5604215d6ba93cba07454f06a4a960172bbd6e2a435", null ]
-    ] ],
-    [ "ConsumeFromOffset", "d7/d82/a01601.html#a3cb927687da0e8c0bae77a78fe45d942", null ],
-    [ "GetAutoCompletionsFor", "d7/d82/a01601.html#a9a1f396a96afbd90b5c426315c8ba37d", null ],
-    [ "InvalidateCommandMap", "d7/d82/a01601.html#ade19080af583292883b932d83992c6fe", null ],
-    [ "LoadCommandMap", "d7/d82/a01601.html#a2c6cb6c985ac8fd7bb2f8b2bab1be30d", null ],
-    [ "SendCommandHelpFor", "d7/d82/a01601.html#a81e8830ce306f6cfbcd04c92d3e0cc7f", null ],
-    [ "TryExecuteCommand", "d7/d82/a01601.html#aca39508e7753f6ca5d9aa21a854c0a77", null ]
+    [ "Acore::Impl::ChatCommands::ArgInfo< T, typename >", "d8/d04/a08037.html", null ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< T, std::enable_if_t< std::is_integral_v< T >||std::is_floating_point_v< T > > >", "db/d5e/a08041.html", "db/d5e/a08041" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< std::string_view, void >", "d8/d83/a08045.html", "d8/d83/a08045" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< std::string, void >", "d4/d18/a08049.html", "d4/d18/a08049" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< std::wstring, void >", "d8/d92/a08053.html", "d8/d92/a08053" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< T, std::enable_if_t< std::is_enum_v< T > > >", "d6/d6f/a08057.html", "d6/d6f/a08057" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< T, std::enable_if_t< std::is_base_of_v< ContainerTag, T > > >", "d9/d19/a08061.html", "d9/d19/a08061" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< std::vector< T >, void >", "d6/dea/a08065.html", "d6/dea/a08065" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< std::array< T, N >, void >", "d1/d1d/a08069.html", "d1/d1d/a08069" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< Acore::ChatCommands::Variant< Ts... > >", "d6/d23/a08073.html", "d6/d23/a08073" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< AchievementEntry const * >", "d7/d51/a08077.html", "d7/d51/a08077" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< GameTele const * >", "de/d02/a08081.html", "de/d02/a08081" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< ItemTemplate const * >", "de/da2/a08085.html", "de/da2/a08085" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< SpellInfo const * >", "d4/da6/a08089.html", "d4/da6/a08089" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< Quest const * >", "d2/d38/a08093.html", "d2/d38/a08093" ]
 ];

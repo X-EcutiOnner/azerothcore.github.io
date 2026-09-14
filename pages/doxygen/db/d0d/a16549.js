@@ -1,7 +1,7 @@
 var a16549 =
 [
-    [ "CheckDistance", "db/d0d/a16549.html#ac10f4cebab4966a220cd931afd0e0a30", null ],
-    [ "PrepareSpellScript", "db/d0d/a16549.html#adb14940f47dc509d75a4e81bb90fc40d", null ],
-    [ "Register", "db/d0d/a16549.html#a3a64ffc872e4650b1d226d20d9bedc65", null ],
-    [ "Validate", "db/d0d/a16549.html#aa5d7a420154b156ca24e73de2faf912a", null ]
+    [ "boss_sartharion_shadron", "db/d0d/a16549.html#ab4a7991c276a12af0b54936c271bfd0b", null ],
+    [ "ExecuteEvent", "db/d0d/a16549.html#a1f1a235d4d5654e273ef821ebf962491", null ],
+    [ "Reset", "db/d0d/a16549.html#a8511eb55a486665a248d555337c25002", null ],
+    [ "SummonedCreatureDies", "db/d0d/a16549.html#a3967c70698675d2c925a1a0366bf1d00", null ]
 ];

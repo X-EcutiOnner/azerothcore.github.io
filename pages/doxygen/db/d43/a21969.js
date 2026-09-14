@@ -1,7 +1,6 @@
 var a21969 =
 [
-    [ "npc_emilyAI", "dd/d2d/a21973.html", "dd/d2d/a21973" ],
-    [ "npc_emily", "db/d43/a21969.html#ab40f581fad087b3d32a7724fca97895d", null ],
-    [ "GetAI", "db/d43/a21969.html#a6317e4b9787c25ce119d08432cd1acf7", null ],
-    [ "OnQuestAccept", "db/d43/a21969.html#ad434e7bf2427b3575a8459021e792152", null ]
+    [ "npc_q24545_vegard_dummyAI", "dd/d2d/a21973.html", "dd/d2d/a21973" ],
+    [ "npc_q24545_vegard_dummy", "db/d43/a21969.html#a12363e26a720ae33b6cde0f44aec3adf", null ],
+    [ "GetAI", "db/d43/a21969.html#a201d1dec206887c26e33f795a0fd0887", null ]
 ];

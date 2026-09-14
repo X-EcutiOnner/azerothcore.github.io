@@ -1,5 +1,6 @@
 var a19237 =
 [
-    [ "at_icc_start_blood_quickening", "d5/dd2/a19237.html#a544b0591b19a62e5c8a6efcfffd98326", null ],
-    [ "OnTrigger", "d5/dd2/a19237.html#a814670e127b1eace6068a553b23d00f7", null ]
+    [ "OnRemove", "d5/dd2/a19237.html#a748868eb89f1fb3ccfec5ea9f8603168", null ],
+    [ "PrepareAuraScript", "d5/dd2/a19237.html#a9033a0ef5963800d13b898f7c02ff7b2", null ],
+    [ "Register", "d5/dd2/a19237.html#a7ac0cff5f8f918e7a61bbc600419d3c3", null ]
 ];

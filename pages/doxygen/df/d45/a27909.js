@@ -1,8 +1,7 @@
 var a27909 =
 [
-    [ "CheckProc", "df/d45/a27909.html#a8a61fbd855294e6218cfc0e2dd3706c9", null ],
-    [ "OnProc", "df/d45/a27909.html#a9217135a55d6612bf1d36b63ac09e7fb", null ],
-    [ "PrepareAuraScript", "df/d45/a27909.html#a8bf573bb900773d4669708536b0b8011", null ],
-    [ "Register", "df/d45/a27909.html#ae8ddcb6329088f904cbae3292ff92023", null ],
-    [ "Validate", "df/d45/a27909.html#a918c9334b7f20710c0d6448a33c94601", null ]
+    [ "CalculateAmount", "df/d45/a27909.html#a893842dfe5e1d6f7977e2fc97471b265", null ],
+    [ "PrepareAuraScript", "df/d45/a27909.html#a20dad49a99420556f393a16525eb14b4", null ],
+    [ "Register", "df/d45/a27909.html#ad7d339ab137ebd640981f7789e1757f0", null ],
+    [ "Validate", "df/d45/a27909.html#a341acb2dd25c1db94777f7036f3338ac", null ]
 ];

@@ -1,7 +1,6 @@
 var a21337 =
 [
-    [ "HandleScript", "db/de2/a21337.html#ac8d984ac87f51050113f7ac1a4625785", null ],
-    [ "PrepareSpellScript", "db/de2/a21337.html#a34f6166e27cb99e424dd081ffce704a5", null ],
-    [ "Register", "db/de2/a21337.html#a0dd5b7a8cf086ee3b5a6f30326874ee3", null ],
-    [ "Validate", "db/de2/a21337.html#a364c96f7253fde59e1a9a59a42c4d3a5", null ]
+    [ "boss_palehoofAI", "de/d11/a21341.html", "de/d11/a21341" ],
+    [ "boss_palehoof", "db/de2/a21337.html#ac0e541befaad7e1e6e318d64ca4a1d94", null ],
+    [ "GetAI", "db/de2/a21337.html#ae33ca6e71b251214be50168a5940d058", null ]
 ];
