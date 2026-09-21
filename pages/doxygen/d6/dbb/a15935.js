@@ -1,7 +1,5 @@
 var a15935 =
 [
-    [ "npc_cork_gizeltonAI", "d5/d0e/a15939.html", "d5/d0e/a15939" ],
-    [ "npc_cork_gizelton", "d6/dbb/a15935.html#a915aa2abc18109e7d0197863f59536f2", null ],
-    [ "GetAI", "d6/dbb/a15935.html#a8a5fe5c46767aa37fd6e5b10e1bfc372", null ],
-    [ "OnQuestAccept", "d6/dbb/a15935.html#a11dc1fea0a24add451272b537298fc13", null ]
+    [ "go_ravager_cage", "d6/dbb/a15935.html#a632c767a4ab0075ee40d40e977fe7c18", null ],
+    [ "OnGossipHello", "d6/dbb/a15935.html#a83c9086cefea0d6d11a5de7a781d84db", null ]
 ];

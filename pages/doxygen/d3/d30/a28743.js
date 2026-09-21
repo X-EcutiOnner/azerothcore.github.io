@@ -1,7 +1,6 @@
 var a28743 =
 [
-    [ "npc_flameshocker", "d3/d30/a28743.html#ac1631ee1802a4014d71bd86567f5d5dd", null ],
-    [ "JustDied", "d3/d30/a28743.html#aba94a5bcec75c649049d5816a53ace58", null ],
-    [ "Reset", "d3/d30/a28743.html#a13cb88e2b33df2d910fb73053684b420", null ],
-    [ "UpdateAI", "d3/d30/a28743.html#adca7cd4e6ac78c0425d4377d66669f40", null ]
+    [ "npc_fireworkAI", "d9/d39/a28747.html", "d9/d39/a28747" ],
+    [ "npc_firework", "d3/d30/a28743.html#a9efb6ed098e4eb3e24c30393cb5cb45d", null ],
+    [ "GetAI", "d3/d30/a28743.html#a9732f7b6eb8b3638bb6280ff7a71bcf7", null ]
 ];

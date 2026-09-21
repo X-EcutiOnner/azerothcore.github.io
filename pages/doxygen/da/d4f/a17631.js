@@ -1,5 +1,6 @@
 var a17631 =
 [
-    [ "achievement_share_the_love", "da/d4f/a17631.html#a3eaa89eaa356b0e2f8b5c688439baf9c", null ],
-    [ "OnCheck", "da/d4f/a17631.html#a9d6b6d19611d1482111692de9f2b1cc8", null ]
+    [ "HandleDummy", "da/d4f/a17631.html#a5b56eabdba4e6c9e23fe5a40b20417fe", null ],
+    [ "PrepareSpellScript", "da/d4f/a17631.html#a6c53fed364a1a31cd170102d4d6878b1", null ],
+    [ "Register", "da/d4f/a17631.html#ac49eaa96ebb95a38f54a9bb6321f5585", null ]
 ];

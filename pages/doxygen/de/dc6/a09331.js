@@ -1,8 +1,5 @@
 var a09331 =
 [
-    [ "target_mapId", "de/dc6/a09331.html#af6d7558707c026a6d64f2d7b65a344be", null ],
-    [ "target_Orientation", "de/dc6/a09331.html#a5f6bf883e167b683e048ce9eeebb7cb0", null ],
-    [ "target_X", "de/dc6/a09331.html#a3ef5faea7a6fd9b173ea35036b3390b2", null ],
-    [ "target_Y", "de/dc6/a09331.html#a6660d360eaa47098506f246927130e32", null ],
-    [ "target_Z", "de/dc6/a09331.html#a32fee5f497804089feb738be84548dc1", null ]
+    [ "NextPage", "de/dc6/a09331.html#add4d8a2e79e4a6c1c1b7ad9b63dd07ef", null ],
+    [ "Text", "de/dc6/a09331.html#a9c13498341adce66590cb198b720f96f", null ]
 ];

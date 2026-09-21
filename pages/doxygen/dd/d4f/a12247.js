@@ -1,7 +1,10 @@
 var a12247 =
 [
-    [ "FieldIndices", "dd/d4f/a12247.html#a06a366c804088e6fbb170881004a5cff", null ],
-    [ "TableFields", "dd/d4f/a12247.html#ad5d909c6b4b062f3c4aac3f559c5eaec", null ],
-    [ "TableName", "dd/d4f/a12247.html#ab00ee028c72660db98e8108583701471", null ],
-    [ "WhereFieldName", "dd/d4f/a12247.html#af1be82a21f6172504e310ae27b899e5b", null ]
+    [ "CustomChatTextBuilder", "dd/d4f/a12247.html#a47b3e24f7100d13180ad1946647999ae", null ],
+    [ "operator()", "dd/d4f/a12247.html#ad80555f063e7de15df3c434bc90d2ca9", null ],
+    [ "_language", "dd/d4f/a12247.html#a92d1c58d76d5d450892338d0e1856dc0", null ],
+    [ "_msgType", "dd/d4f/a12247.html#a0db1501da33fde77ab3c50943666b1fd", null ],
+    [ "_source", "dd/d4f/a12247.html#ad75f22d7eb6a62d59730918f4336768c", null ],
+    [ "_target", "dd/d4f/a12247.html#aa45be322836be588d8df2b253a22ee5c", null ],
+    [ "_text", "dd/d4f/a12247.html#ab59c9b938b564329483e38466169a92c", null ]
 ];

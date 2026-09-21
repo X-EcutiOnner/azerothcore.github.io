@@ -1,6 +1,12 @@
 var a28059 =
 [
-    [ "achievement_arena_by_type", "d2/d95/a28059.html#a2042c808304e8ddf1849820491b9f1a3", null ],
-    [ "OnCheck", "d2/d95/a28059.html#abebdbf19fbf1b79c30114a9cf4ff98a4", null ],
-    [ "_arenaType", "d2/d95/a28059.html#a5c38e5fef5eaf3d037864ba2aa80584a", null ]
+    [ "CheckProc", "d2/d95/a28059.html#abb43619da8154c1c9ebc9d164a2f6dc6", null ],
+    [ "HandleApply", "d2/d95/a28059.html#aaa07858f0604965fad5c1189125a822b", null ],
+    [ "HandleProc", "d2/d95/a28059.html#a9fd416a5f8f8a405f40c41b9ef8b734e", null ],
+    [ "HandleRemove", "d2/d95/a28059.html#a3da984d172878110b77549b51409d7e0", null ],
+    [ "Load", "d2/d95/a28059.html#a644aaf343b41f049f34ff7387c613bf1", null ],
+    [ "PrepareAuraScript", "d2/d95/a28059.html#aea23ff608c74017d98edcc146d3ba35a", null ],
+    [ "Register", "d2/d95/a28059.html#a624d09c6f1a177912a1c7cab30d89c7b", null ],
+    [ "Validate", "d2/d95/a28059.html#a34f1b7782dbf2dcc18eb803497104a13", null ],
+    [ "_procTargetGUID", "d2/d95/a28059.html#a88833abe90e8753336b7dc178b98f703", null ]
 ];

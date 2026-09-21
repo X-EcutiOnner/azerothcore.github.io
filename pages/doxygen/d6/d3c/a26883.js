@@ -1,7 +1,11 @@
 var a26883 =
 [
-    [ "HandleProc", "d6/d3c/a26883.html#af48dfc934a6be37e95c469d07691e91f", null ],
-    [ "PrepareAuraScript", "d6/d3c/a26883.html#a93147abc7cda5307a06be3d876b82eea", null ],
-    [ "Register", "d6/d3c/a26883.html#a9f4ea3a1d84491a235f55c54ad2af2d6", null ],
-    [ "Validate", "d6/d3c/a26883.html#a5c19c37e6d0271d0d38fffa945f6c707", null ]
+    [ "CheckCast", "d6/d3c/a26883.html#a49676a65c99a9a2d99ad78fee54d2302", null ],
+    [ "HandleMaxHealthHeal", "d6/d3c/a26883.html#a019833641487ac07cb2c8740d5686a41", null ],
+    [ "HandleScript", "d6/d3c/a26883.html#a35b9d69b8147ef06527b8533ef376e72", null ],
+    [ "Load", "d6/d3c/a26883.html#a25c373762375f207e6c3ba0a18d4a6e7", null ],
+    [ "PrepareSpellScript", "d6/d3c/a26883.html#a31d3339531f75dfa0ca3a339d34d3012", null ],
+    [ "Register", "d6/d3c/a26883.html#afd716f555ac73287bd268c6124b15b1c", null ],
+    [ "Validate", "d6/d3c/a26883.html#a0938262e1f45821b9fbef42f5c96cc56", null ],
+    [ "_manaAmount", "d6/d3c/a26883.html#add7d1cdf3abca0ada57cd719ad22602a", null ]
 ];

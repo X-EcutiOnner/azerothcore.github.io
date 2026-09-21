@@ -1,5 +1,6 @@
 var a10095 =
 [
-    [ "MinionInfo", "d1/dc6/a10095.html#a537dd49ffb504aeab8b2b1734d5f44d7", null ],
-    [ "bossInfo", "d1/dc6/a10095.html#a04750e14ecb53ce6e3fac35844a713cd", null ]
+    [ "NpcTextLocale", "d1/dc6/a10095.html#af1ddddeff75a1a51c51ebb1fec3f4f05", null ],
+    [ "Text_0", "d1/dc6/a10095.html#adf17307b9d00e0b63b9c2827fca96320", null ],
+    [ "Text_1", "d1/dc6/a10095.html#a40f69a13a202c350fdce2177288727e9", null ]
 ];

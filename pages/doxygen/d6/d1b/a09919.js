@@ -1,9 +1,8 @@
 var a09919 =
 [
-    [ "WorldPacketList", "d6/d1b/a09919.html#a27bf64080270086d6dbc752f8d96ec4c", null ],
-    [ "LocalizedPacketListDo", "d6/d1b/a09919.html#ab52133e238752f725f18580018a84cd2", null ],
-    [ "~LocalizedPacketListDo", "d6/d1b/a09919.html#a8442452027bcb5c98d60830e016803b5", null ],
-    [ "operator()", "d6/d1b/a09919.html#adea9610e36d436563ba1f472481aed85", null ],
-    [ "i_builder", "d6/d1b/a09919.html#a83bda52b10d30f7fd633c285b79e740b", null ],
-    [ "i_data_cache", "d6/d1b/a09919.html#ae2ec6175868c4c82274ce7a623a954a3", null ]
+    [ "AllGameObjectsMatchingOneEntryInRange", "d6/d1b/a09919.html#ad64e96c8484be1354ad4a3c0b6754d95", null ],
+    [ "operator()", "d6/d1b/a09919.html#afc81f329be9d6d8eb8bfd2ade94c5665", null ],
+    [ "m_fRange", "d6/d1b/a09919.html#aa76b1a6c8a919c1e5b37c74b33859464", null ],
+    [ "m_pObject", "d6/d1b/a09919.html#ac2bae147199d0b1b592a560017128c4e", null ],
+    [ "m_uiEntries", "d6/d1b/a09919.html#a3eb95fd72147ab8195da44a46c2cf0e6", null ]
 ];

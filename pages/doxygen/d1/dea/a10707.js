@@ -1,11 +1,12 @@
 var a10707 =
 [
-    [ "AllMapScript", "d1/dea/a10707.html#a84f63a79158f667f291070d0cbb553ea", null ],
-    [ "OnBeforeCreateInstanceScript", "d1/dea/a10707.html#a1a4b75a1845923bcf68481ecc0d6b77c", null ],
-    [ "OnCreateMap", "d1/dea/a10707.html#a56aa53bfb0a1cb7ad7cb677771739b46", null ],
-    [ "OnDestroyInstance", "d1/dea/a10707.html#a990130b4cd594c1cd04368aea300a49e", null ],
-    [ "OnDestroyMap", "d1/dea/a10707.html#a6bebd1e6e36b5714598439a6c6dfaad6", null ],
-    [ "OnMapUpdate", "d1/dea/a10707.html#a6edbb719d998c57caba09eef7ad559e0", null ],
-    [ "OnPlayerEnterAll", "d1/dea/a10707.html#a42e4af596effb07a00b353164f32cec9", null ],
-    [ "OnPlayerLeaveAll", "d1/dea/a10707.html#adcfd501bee055317bff2a63ef28c3eab", null ]
+    [ "QuestLocale", "d1/dea/a10707.html#a887d474a470ee0278fb4b465a7ad9547", null ],
+    [ "AreaDescription", "d1/dea/a10707.html#a5c6c5a8d1fb500afef514c80c9d87e4e", null ],
+    [ "CompletedText", "d1/dea/a10707.html#aad432417f836b2cbe03d3e53e4e76f14", null ],
+    [ "Details", "d1/dea/a10707.html#afd23d37c92f2b28e1c125bba0d670497", null ],
+    [ "Objectives", "d1/dea/a10707.html#ae1ecea0f255f34b547302bfc2c0b6ad4", null ],
+    [ "ObjectiveText", "d1/dea/a10707.html#ae41f7f50ab68e5783ceec37e6f8ff5b0", null ],
+    [ "OfferRewardText", "d1/dea/a10707.html#aaba6d07625232a77e3457454f7d4fa77", null ],
+    [ "RequestItemsText", "d1/dea/a10707.html#a764d2092084454844e59c484fb637017", null ],
+    [ "Title", "d1/dea/a10707.html#ab75b38241e31b9137c1d85334b3a3f30", null ]
 ];

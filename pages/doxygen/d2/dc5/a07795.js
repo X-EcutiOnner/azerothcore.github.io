@@ -1,9 +1,12 @@
 var a07795 =
 [
-    [ "BattlegroundEYLosingPointStruct", "d2/dc5/a07795.html#ae3f19e55206e1a8097fe173a8a37aa12", null ],
-    [ "DespawnObjectTypeAlliance", "d2/dc5/a07795.html#a210828d05ea9948484631b7408a3bb4b", null ],
-    [ "DespawnObjectTypeHorde", "d2/dc5/a07795.html#a335205cb71b7055db4c01a5e562001b6", null ],
-    [ "MessageIdAlliance", "d2/dc5/a07795.html#afe89eccc8c21351edb4ce943d937e521", null ],
-    [ "MessageIdHorde", "d2/dc5/a07795.html#a8295974ee1f663dd0d22bcc4f0e0fa92", null ],
-    [ "SpawnNeutralObjectType", "d2/dc5/a07795.html#a57c1a6f485ea6617b5218da411cae38f", null ]
+    [ "BGQueueRemoveEvent", "d2/dc5/a07795.html#ab751b728f64b2928eefb21f756539d81", null ],
+    [ "~BGQueueRemoveEvent", "d2/dc5/a07795.html#aab9ea24041888975439aafb246c571c3", null ],
+    [ "Abort", "d2/dc5/a07795.html#a7d1dc829e56398ad421cb53dd51e952e", null ],
+    [ "Execute", "d2/dc5/a07795.html#a42482ff784da4b23b568888a74a0b531", null ],
+    [ "m_BgInstanceGUID", "d2/dc5/a07795.html#a4732918e6d7c42dd068f5cb147a188fc", null ],
+    [ "m_BgQueueTypeId", "d2/dc5/a07795.html#ac059a823ae49bd0250eec15845bf153b", null ],
+    [ "m_BgTypeId", "d2/dc5/a07795.html#a8bc484087ef76d627d5ae912bc5de22c", null ],
+    [ "m_PlayerGuid", "d2/dc5/a07795.html#a9a1e2c09896b4d7521954d810e7193cc", null ],
+    [ "m_RemoveTime", "d2/dc5/a07795.html#a0c40a46749bff9caaf1a462d7bef701e", null ]
 ];

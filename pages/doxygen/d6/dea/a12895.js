@@ -1,7 +1,11 @@
 var a12895 =
 [
-    [ "boss_broodlord", "d6/dea/a12895.html#a3194ef765e313daaa4a0e476ec3edafa", null ],
-    [ "JustDied", "d6/dea/a12895.html#ac3f6f747fbe61e70562f14b9aa304765", null ],
-    [ "JustEngagedWith", "d6/dea/a12895.html#acb7214857320945a646574b0130a9585", null ],
-    [ "UpdateAI", "d6/dea/a12895.html#a5cdb166366938797de9d691096f0f155", null ]
+    [ "boss_quartermaster_zigris", "d6/dea/a12895.html#a1d2f68327cc9b88fdd82d44ac8446d57", null ],
+    [ "DamageTaken", "d6/dea/a12895.html#a61d7f1c4e5a2901812f1175ccce69ab2", null ],
+    [ "JustDied", "d6/dea/a12895.html#a9295bbcffd7968051a789e8dfb634e23", null ],
+    [ "JustEngagedWith", "d6/dea/a12895.html#af482c06e00e7f6c15b290115998a27a9", null ],
+    [ "Reset", "d6/dea/a12895.html#a71e911bb91b7447e8aed28cdccfda8db", null ],
+    [ "SpellHitTarget", "d6/dea/a12895.html#a38197746cc73ada1378e6e1a5555ef79", null ],
+    [ "UpdateAI", "d6/dea/a12895.html#a400f7ace05cd5c4d127aecf5d771c616", null ],
+    [ "_hasDrunkPotion", "d6/dea/a12895.html#a25335533bc43171687e03f1ed22d4fb3", null ]
 ];

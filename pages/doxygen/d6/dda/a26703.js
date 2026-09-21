@@ -1,6 +1,8 @@
 var a26703 =
 [
-    [ "HandleRemove", "d6/dda/a26703.html#a491765056e8c4d97d9cdaaea9d11a0af", null ],
-    [ "PrepareAuraScript", "d6/dda/a26703.html#abe5d45b960fda879f48e3e98db9ad4ac", null ],
-    [ "Register", "d6/dda/a26703.html#ab00f3119d6c1bd1ad185374144f2987e", null ]
+    [ "CheckProc", "d6/dda/a26703.html#a9895aa713e01c6322363c743049c1bc8", null ],
+    [ "HandleProc", "d6/dda/a26703.html#ab75f7630b98e266b08d0317bd852b1a9", null ],
+    [ "PrepareAuraScript", "d6/dda/a26703.html#a7a1066e9cde0a782db105ef32003274d", null ],
+    [ "Register", "d6/dda/a26703.html#aac269ad519a8c15334526629786b60b3", null ],
+    [ "Validate", "d6/dda/a26703.html#a42f67d758360e142c9434186a07c1a71", null ]
 ];

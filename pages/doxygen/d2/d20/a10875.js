@@ -1,10 +1,5 @@
 var a10875 =
 [
-    [ "VehicleScript", "d2/d20/a10875.html#a35a301eed5615f07831eb840ca48d469", null ],
-    [ "OnAddPassenger", "d2/d20/a10875.html#a4495f8900ecb85546ac23ebe4783ae7c", null ],
-    [ "OnInstall", "d2/d20/a10875.html#abbb42dcbc5fad97ed1df45ea7b3afe54", null ],
-    [ "OnInstallAccessory", "d2/d20/a10875.html#ad59ae4c47404abb86e05ae983704f6ea", null ],
-    [ "OnRemovePassenger", "d2/d20/a10875.html#ad4094366aba1fb6a1ff19361d1be9210", null ],
-    [ "OnReset", "d2/d20/a10875.html#a38fca3fec8785f015084b832f9e3b08c", null ],
-    [ "OnUninstall", "d2/d20/a10875.html#a7d4bafe42756ee73b5ce79783842c243", null ]
+    [ "GenericInstanceMapScript", "d2/d20/a10875.html#a39aef4c434d791f18fc04ea692bf2255", null ],
+    [ "GetInstanceScript", "d2/d20/a10875.html#a8ca7180c1d2f8fb213e8b52bb73b2f76", null ]
 ];

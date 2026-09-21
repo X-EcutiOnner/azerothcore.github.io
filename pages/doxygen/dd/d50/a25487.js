@@ -1,7 +1,7 @@
 var a25487 =
 [
-    [ "OnApply", "dd/d50/a25487.html#afda219a18001505ae7a2d01b1d5b25c0", null ],
-    [ "OnRemove", "dd/d50/a25487.html#a54bcd84599d6e5a6d7f538e2b40b890b", null ],
-    [ "PrepareAuraScript", "dd/d50/a25487.html#a9a7b549e059b6bd2d22802f60e952658", null ],
-    [ "Register", "dd/d50/a25487.html#aae603735281daf02ceca157e218d5c9f", null ]
+    [ "PrepareSpellScript", "dd/d50/a25487.html#aad8061898087fbf5eb6527cbaa70927d", null ],
+    [ "RecalculateDamage", "dd/d50/a25487.html#a6f03ccb77ce43c4e36996ae344780ee3", null ],
+    [ "Register", "dd/d50/a25487.html#abc7e406244a1a5ea9d7c3d8feb10b8ae", null ],
+    [ "_damagePct", "dd/d50/a25487.html#a3ab5f5ec279f30dda50fa3ca3f5e6715", null ]
 ];

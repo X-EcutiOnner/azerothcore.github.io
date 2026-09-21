@@ -1,9 +1,9 @@
 var a24435 =
 [
-    [ "npc_pet_gen_soul_trader_beacon", "da/d6e/a24435.html#a58ef19b8c08aee764bdd55e480d9d750", null ],
-    [ "GetOwner", "da/d6e/a24435.html#a72bfd4cf6c734d1f1070a1560131667d", null ],
-    [ "SpellHit", "da/d6e/a24435.html#a0bed2e8e8dac9c1bc7763a3ad27acd22", null ],
-    [ "UpdateAI", "da/d6e/a24435.html#a18c06958e6b3d4306a6fdb5f9924d7ff", null ],
-    [ "events", "da/d6e/a24435.html#ae0a6d4850a0a0da4bd04227b11bae9e4", null ],
-    [ "ownerGUID", "da/d6e/a24435.html#a3a42e83216c0111a740a0c89e57c6f62", null ]
+    [ "npc_kservantAI", "da/d6e/a24435.html#a0687712690f2bacd24da1c94d222e761", null ],
+    [ "IsSummonedBy", "da/d6e/a24435.html#a6aa9c1544fffdd9916eda7a0941dc828", null ],
+    [ "Reset", "da/d6e/a24435.html#a0756ffacb97c83a3028afc620b32f349", null ],
+    [ "UpdateAI", "da/d6e/a24435.html#a0f2b37f4575f32d9ce0a441157a80a8b", null ],
+    [ "WaypointReached", "da/d6e/a24435.html#a577a2ebb91c08bfe2e09bc67eeebb4ef", null ],
+    [ "WaypointReached", "da/d6e/a24435.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

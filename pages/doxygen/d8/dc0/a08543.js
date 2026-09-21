@@ -1,6 +1,7 @@
 var a08543 =
 [
-    [ "ForcedUnsummonDelayEvent", "d8/dc0/a08543.html#aadabfc349c81e02743add4307977c2fd", null ],
-    [ "Execute", "d8/dc0/a08543.html#a86d7bd6f9f47ef37382b725f0d64877b", null ],
-    [ "m_owner", "d8/dc0/a08543.html#a3954577354fb882ec1def262502ed2e6", null ]
+    [ "CreatureSpellCooldown", "d8/dc0/a08543.html#a6d234a93951992640df5720a2885be3e", null ],
+    [ "CreatureSpellCooldown", "d8/dc0/a08543.html#a53364a501b0ce66e05ec0e6638f6cb6e", null ],
+    [ "category", "d8/dc0/a08543.html#a27330a80d711087f1894b2ce816c33b8", null ],
+    [ "end", "d8/dc0/a08543.html#a9c1c5f2b6e9a6cd015085e79b043e483", null ]
 ];

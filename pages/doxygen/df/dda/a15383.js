@@ -1,6 +1,6 @@
 var a15383 =
 [
-    [ "NpcRunToHome", "df/dda/a15383.html#ac190e89b494554e391e6ebd878d7f8e8", null ],
-    [ "Execute", "df/dda/a15383.html#a0da766e3bae0d8d97a46ef82b3873cc0", null ],
-    [ "_owner", "df/dda/a15383.html#a7dd38171a6e55665fc28a74212313e51", null ]
+    [ "npc_cos_chromie_start", "df/dda/a15383.html#ae8f810af1e593ad16958049f6ad19616", null ],
+    [ "OnGossipSelect", "df/dda/a15383.html#a80db05062f24dd2d5bc0bb6996cf8a30", null ],
+    [ "OnQuestAccept", "df/dda/a15383.html#a81ff4586ca64f198748aa84e1ffd9018", null ]
 ];

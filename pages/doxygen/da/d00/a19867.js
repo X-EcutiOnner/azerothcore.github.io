@@ -1,15 +1,14 @@
 var a19867 =
 [
-    [ "boss_varosAI", "da/d00/a19867.html#a3e6815b80a3f9f5e8c53bb762e9058f2", null ],
-    [ "EnterEvadeMode", "da/d00/a19867.html#a0b7eeef4529b47357d729852cdeab002", null ],
-    [ "JustDied", "da/d00/a19867.html#a2724167a66a059e1c0ca1612d8405d68", null ],
-    [ "JustEngagedWith", "da/d00/a19867.html#a2f25555ca2884f6bffb289d209e87740", null ],
-    [ "JustSummoned", "da/d00/a19867.html#a24b2a1e438b02c67e64b79adb0cfeafe", null ],
-    [ "MoveInLineOfSight", "da/d00/a19867.html#a87f743f03dc19659d0e77ee23cd2c327", null ],
-    [ "Reset", "da/d00/a19867.html#aef24d04954a26bb6381c860403e84288", null ],
-    [ "UpdateAI", "da/d00/a19867.html#acc1ac3c2bf5cb1a7732f375285467423", null ],
-    [ "events", "da/d00/a19867.html#a36746118770c936e7606962365e102d8", null ],
-    [ "pInstance", "da/d00/a19867.html#a9cf7c0159753512ae7dea8a2f6a9da74", null ],
-    [ "step", "da/d00/a19867.html#af4c8e11f0aad369f09902eb1ccc48059", null ],
-    [ "ZapAngle", "da/d00/a19867.html#aef225fcf580c5e500d3242ac4be24260", null ]
+    [ "boss_keristrasza", "da/d00/a19867.html#a5f83fee9a5616751601f0c1155afab36", null ],
+    [ "CanRemovePrison", "da/d00/a19867.html#a900a4a8428a04b880462b20196e94858", null ],
+    [ "GetData", "da/d00/a19867.html#aa1e7f5b0c0fe89d0e67ccfd198d235ba", null ],
+    [ "JustDied", "da/d00/a19867.html#a3f962a6c7a65d458f1b05a15e6f53951", null ],
+    [ "JustEngagedWith", "da/d00/a19867.html#a26d6559cc92841f8f76544cdbbf2cbaf", null ],
+    [ "KilledUnit", "da/d00/a19867.html#a67b50805b9e01cd1d0fb7966b3288b9f", null ],
+    [ "RemovePrison", "da/d00/a19867.html#a97b6fe26a5bbc4a7c528939e82cd0ca5", null ],
+    [ "Reset", "da/d00/a19867.html#a13dce974fa83577397a80ff52de5d835", null ],
+    [ "SetData", "da/d00/a19867.html#ac32f3e8f568535d4d197d383f9e51c5f", null ],
+    [ "UpdateAI", "da/d00/a19867.html#a46a2e61e27cc72710c7aa14212673eae", null ],
+    [ "aGuids", "da/d00/a19867.html#aa4c06ad8d599192c2f4ecb52f92e3a31", null ]
 ];

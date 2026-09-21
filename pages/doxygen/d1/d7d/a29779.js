@@ -1,9 +1,6 @@
 var a29779 =
 [
-    [ "SetUp", "d1/d7d/a29779.html#a664590f345cd02660adef326355c7ca2", null ],
-    [ "TearDown", "d1/d7d/a29779.html#a366e1170be6f12739b2688c71763c8f0", null ],
-    [ "PERM_BAN", "d1/d7d/a29779.html#a393626fe7635a8452e69207085037782", null ],
-    [ "PERM_KICK", "d1/d7d/a29779.html#aa9b8c1e73b4828100386186637e30e90", null ],
-    [ "rbacData", "d1/d7d/a29779.html#a6e7cb23ddb2dc22611255dff42c85e89", null ],
-    [ "ROLE_GM", "d1/d7d/a29779.html#ac5d61d965657eccc145d01670a6f27bc", null ]
+    [ "auraName", "d1/d7d/a29779.html#a953f930e046655ca0d8f373362d3f334", null ],
+    [ "isAlwaysTriggeredAura", "d1/d7d/a29779.html#a05786c8e0daef9a2da98f832c230d99c", null ],
+    [ "procFlags", "d1/d7d/a29779.html#aed48a1ad923118ac0a86d864e1e98519", null ]
 ];

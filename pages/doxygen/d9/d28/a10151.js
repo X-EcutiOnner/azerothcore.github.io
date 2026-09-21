@@ -1,7 +1,8 @@
 var a10151 =
 [
-    [ "LootView", "d9/d28/a10151.html#a4cfc8ca1034e941a85d2955f38b2e894", null ],
-    [ "loot", "d9/d28/a10151.html#ac95fa4805c79923b292e8984b00de929", null ],
-    [ "permission", "d9/d28/a10151.html#a33d7eeebd6fbc854300275a4138d9030", null ],
-    [ "viewer", "d9/d28/a10151.html#af9a6926c6c871dee245f876038e49995", null ]
+    [ "BossInfo", "d9/d28/a10151.html#a455f533d647927d182176c3cceb21f42", null ],
+    [ "boundary", "d9/d28/a10151.html#aa4fb2bc78efb3393004c0f827000e4f1", null ],
+    [ "door", "d9/d28/a10151.html#a858af8825ed4fe183ee19b6f10239304", null ],
+    [ "minion", "d9/d28/a10151.html#abec1469d41f286d02c34223171373cd3", null ],
+    [ "state", "d9/d28/a10151.html#a1e4413b3a8bac20ed9e7ac878e3066f7", null ]
 ];

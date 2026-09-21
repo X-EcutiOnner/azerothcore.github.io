@@ -1,7 +1,7 @@
 var a22155 =
 [
-    [ "npc_tirions_gambit_tirionAI", "da/d6e/a22159.html", "da/d6e/a22159" ],
-    [ "npc_tirions_gambit_tirion", "d0/d54/a22155.html#ad52abd46ccdd3b4409671679434c193c", null ],
-    [ "GetAI", "d0/d54/a22155.html#a222c092c2e2136dbd7057a3f7ad7b5f4", null ],
-    [ "OnGossipSelect", "d0/d54/a22155.html#a5af904a3394de9b3eedb52009bd6b0a9", null ]
+    [ "npc_plaguehound_trackerAI", "d0/d54/a22155.html#a7530f500b42ad9bb38593193d3113da8", null ],
+    [ "Reset", "d0/d54/a22155.html#a05c351ab3aca0cd18209405075bb0f47", null ],
+    [ "WaypointReached", "d0/d54/a22155.html#a67c345f49572cde76d9109a1baff6788", null ],
+    [ "WaypointReached", "d0/d54/a22155.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

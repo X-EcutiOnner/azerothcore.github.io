@@ -1,11 +1,9 @@
 var a21035 =
 [
-    [ "boss_yoggsaron_neltharion", "d1/d51/a21035.html#ac7ef088876e15e5edc94e4bd92b7f39d", null ],
-    [ "NextStep", "d1/d51/a21035.html#ac0824d322b7e5825686e8a5c2dd4ec94", null ],
-    [ "Reset", "d1/d51/a21035.html#ab26d57690c1d2477678dc9759aefeab2", null ],
-    [ "Say", "d1/d51/a21035.html#a79d315f37b0f0beceddcae85dcb8697f", null ],
-    [ "UpdateAI", "d1/d51/a21035.html#a3728f095ee83c3ea9063b1679f1b3dc9", null ],
-    [ "_checkTimer", "d1/d51/a21035.html#a2adcf3f46d4003ae2044eda474e51983", null ],
-    [ "_running", "d1/d51/a21035.html#acd807afae6aa88c2e385765231a56a86", null ],
-    [ "_step", "d1/d51/a21035.html#a4e4265f17cbc8cfc3dbe09dca7af7939", null ]
+    [ "OnProc", "d1/d51/a21035.html#a94de5901e43000e99b478e9194d59ecd", null ],
+    [ "PrepareAuraScript", "d1/d51/a21035.html#a1b4efd5e774d4bd561a30830c3be8045", null ],
+    [ "Register", "d1/d51/a21035.html#acc8a07807e5c306af285cb5889ef2c41", null ],
+    [ "Validate", "d1/d51/a21035.html#ad17cfc0369da547475e43bd2970cf3f2", null ],
+    [ "_lastOrbTime", "d1/d51/a21035.html#a4522510d836abf625b019674c1c5281f", null ],
+    [ "OrbCooldown", "d1/d51/a21035.html#a4a0204623a0db8d1474d0e72e71226eb", null ]
 ];

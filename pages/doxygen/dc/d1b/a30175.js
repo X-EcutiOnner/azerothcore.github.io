@@ -1,26 +1,9 @@
 var a30175 =
 [
-    [ "getMCIN", "dc/d1b/a30175.html#a5014297529c070757b1a3672f679b83f", null ],
-    [ "getMFBO", "dc/d1b/a30175.html#a28a247f0addfd93d3eeed190516e515a", null ],
-    [ "getMH2O", "dc/d1b/a30175.html#a6672516f9b82b4dc33e28a5b9fda7000", null ],
-    [ "prepareLoadedData", "dc/d1b/a30175.html#aeae95bb7dbb0d46e68db52fb2e212a80", null ],
-    [ "data1", "dc/d1b/a30175.html#aeb0dacd46404505504aa4c9cd868838a", null ],
-    [ "data2", "dc/d1b/a30175.html#a1996770c42791100aa0cbef91c78fcd2", null ],
-    [ "data3", "dc/d1b/a30175.html#a4936a7d0e5ad64f4f75f6550418f80e6", null ],
-    [ "data4", "dc/d1b/a30175.html#a6842806c1317e9be2a2cb5cbeeb0580d", null ],
-    [ "data5", "dc/d1b/a30175.html#ac5bf3376c3e870ee129acc562588e4d5", null ],
-    [ "fcc", "dc/d1b/a30175.html#a5d1b23b9a55361516d4dedbef5886d52", null ],
-    [ "fcc_txt", "dc/d1b/a30175.html#a73087fbf3b4ff49036f3d3091c6125bc", null ],
-    [ "flags", "dc/d1b/a30175.html#a04fe5874241fd7b868f1d3f5caf7d257", null ],
-    [ "offsDoodsDef", "dc/d1b/a30175.html#a62270e73c2fd69dcfd38a4073de20fbc", null ],
-    [ "offsMapObejcts", "dc/d1b/a30175.html#ad80da67bf16b98bba014d487da757492", null ],
-    [ "offsMapObejctsIds", "dc/d1b/a30175.html#ab1c6fc91e4ac6954f959cb26502b88ce", null ],
-    [ "offsMCIN", "dc/d1b/a30175.html#aa89f72d475714b226ed737b43eb8f6fc", null ],
-    [ "offsMFBO", "dc/d1b/a30175.html#adc0706b41b60a36a26fea083d0eec379", null ],
-    [ "offsMH2O", "dc/d1b/a30175.html#a677d2fc59ea16c6be991d2f1a9365de6", null ],
-    [ "offsModels", "dc/d1b/a30175.html#a91801010d9fd98048e02a6dca36eefed", null ],
-    [ "offsModelsIds", "dc/d1b/a30175.html#a0e5716fc4586c41f07103baa84c67388", null ],
-    [ "offsObjectsDef", "dc/d1b/a30175.html#af3204f96aaab52969f97c56fc8207e1f", null ],
-    [ "offsTex", "dc/d1b/a30175.html#abb5f6d7851880d74c6a645fe797cb355", null ],
-    [ "size", "dc/d1b/a30175.html#a23b9fac4ccbdcae862135fa3cbe3061d", null ]
+    [ "CreateSpellInfo", "dc/d1b/a30175.html#a83fe2676ce2ae1374600de46967aeae5", null ],
+    [ "SetUp", "dc/d1b/a30175.html#abd89fcaf8f8c38b5d992a21430f9ecdb", null ],
+    [ "TearDown", "dc/d1b/a30175.html#acb5697251398888a4cc282c359cfc4ec", null ],
+    [ "_originalWorld", "dc/d1b/a30175.html#ae44f699ee1acedae6ead179c3f012594", null ],
+    [ "_spellInfos", "dc/d1b/a30175.html#ac06654664782d249c4233f79990c817b", null ],
+    [ "_worldMock", "dc/d1b/a30175.html#a98d5f98dfc4d63705920b7b164530022", null ]
 ];

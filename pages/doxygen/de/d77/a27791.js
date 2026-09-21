@@ -1,7 +1,7 @@
 var a27791 =
 [
-    [ "HandleTeleport", "de/d77/a27791.html#a7ba7b82988dab5fd8e691b5b87c3d959", null ],
-    [ "PrepareAuraScript", "de/d77/a27791.html#a2307b7eccd4dd08d7e97ece704ddc4fb", null ],
-    [ "Register", "de/d77/a27791.html#a82432a4448d8c23ea2a39b4b26eb1b58", null ],
-    [ "Validate", "de/d77/a27791.html#adabf22bd591a10662ffbf0354a18a936", null ]
+    [ "HandleProc", "de/d77/a27791.html#a929cf5d75df313a5e119eeb03735640c", null ],
+    [ "PrepareAuraScript", "de/d77/a27791.html#aaeacbee6f798f25e467381aa56228355", null ],
+    [ "Register", "de/d77/a27791.html#a111fa9ebfc9d9e8f0907635a4ce73bbb", null ],
+    [ "Validate", "de/d77/a27791.html#a428e6d1f5e172390986ae8fd85570e21", null ]
 ];

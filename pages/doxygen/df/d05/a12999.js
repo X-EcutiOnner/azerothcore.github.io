@@ -1,7 +1,7 @@
 var a12999 =
 [
-    [ "HandleRemove", "df/d05/a12999.html#a754b44b62c131e20e1be94b3407e2006", null ],
-    [ "PrepareAuraScript", "df/d05/a12999.html#a92a58e6bcde5f80c6962ce1da47aca2d", null ],
-    [ "Register", "df/d05/a12999.html#a02cd375ec140f7614104b7e56df13430", null ],
-    [ "Validate", "df/d05/a12999.html#a4dd592093c1b00388a54fd8aa1b86904", null ]
+    [ "boss_ebonroc", "df/d05/a12999.html#a74725561727d5bf0dd266f50d377c9c8", null ],
+    [ "JustEngagedWith", "df/d05/a12999.html#a84250d1bc0986130404433c80162ecac", null ],
+    [ "MovementInform", "df/d05/a12999.html#afa0e5ad6e2eb3d8df539266623dbffb4", null ],
+    [ "UpdateAI", "df/d05/a12999.html#a8d7b9b681ae8c1e4102cb90456611732", null ]
 ];

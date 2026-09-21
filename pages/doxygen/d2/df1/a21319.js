@@ -1,15 +1,7 @@
 var a21319 =
 [
-    [ "boss_skadi_graufAI", "d2/df1/a21319.html#a852687a2fa6ed97aefa230db8ff73b72", null ],
-    [ "DoAction", "d2/df1/a21319.html#a51a189e6f1f6c9c6948194d3181a7426", null ],
-    [ "JustDied", "d2/df1/a21319.html#a64a4e6cd927f89c11ec55806e403588f", null ],
-    [ "MovementInform", "d2/df1/a21319.html#a081fed07ce51e3bfd7a4ce051a4d79ee", null ],
-    [ "Reset", "d2/df1/a21319.html#ab04a1a98da7d318ee54c4af9aaabcfae", null ],
-    [ "UpdateAI", "d2/df1/a21319.html#add5671b1f9e20590e1121f8c18d064cc", null ],
-    [ "_events", "d2/df1/a21319.html#a446de23b703512497888b42ff781da39", null ],
-    [ "_flyingToSide", "d2/df1/a21319.html#a92b1963484d7d88f6b4904039db10c9e", null ],
-    [ "_instance", "d2/df1/a21319.html#adfcccde7d61c9fa8e850e3d4678d1ad0", null ],
-    [ "_lastSide", "d2/df1/a21319.html#a6b4ef194bf96b7fc8dae2b22536e31b1", null ],
-    [ "_passFreshStart", "d2/df1/a21319.html#a5c49a178b6729cd555c38e106deeb0a5", null ],
-    [ "_summons", "d2/df1/a21319.html#abacd3a15554571bce8f70a519ce1bb0b", null ]
+    [ "HandleEffectPeriodic", "d2/df1/a21319.html#a5741a78ba0cc8c723e80b1847b3eb1bc", null ],
+    [ "PrepareAuraScript", "d2/df1/a21319.html#a748cd347867557b5048d9ba0c112cd80", null ],
+    [ "Register", "d2/df1/a21319.html#a3c24d37ab4a6e16a577983c3f6bc2722", null ],
+    [ "Validate", "d2/df1/a21319.html#afa86789ef14b1d06094705ba6cfb9205", null ]
 ];

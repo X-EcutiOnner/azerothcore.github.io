@@ -1,5 +1,7 @@
 var a20459 =
 [
-    [ "npc_ulduar_toasty_fire", "d9/d6d/a20459.html#ad63c424b2ee9ff8013bc776acb7dbba7", null ],
-    [ "DoAction", "d9/d6d/a20459.html#a514ed4231da0ad9e7d1ee2ea03106cb5", null ]
+    [ "boss_freya_healthy_spore", "d9/d6d/a20459.html#abc2492b9cf96cb00940b18fac549fb00", null ],
+    [ "Reset", "d9/d6d/a20459.html#abe3f794707aa722e73b1728700876083", null ],
+    [ "UpdateAI", "d9/d6d/a20459.html#ac8c952848687cd883aaefe466b799e3b", null ],
+    [ "_despawnTimer", "d9/d6d/a20459.html#a8d8b6fe5895efb48750a65c2dfe8a1df", null ]
 ];

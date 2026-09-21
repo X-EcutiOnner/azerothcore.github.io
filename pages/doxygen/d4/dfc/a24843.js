@@ -1,7 +1,6 @@
 var a24843 =
 [
-    [ "HandleScriptEffect", "d4/dfc/a24843.html#a3a33f0ec477ff3b4b19fc98760a2dae7", null ],
-    [ "PrepareSpellScript", "d4/dfc/a24843.html#ae29c4f69a34e71011192df12509e2935", null ],
-    [ "Register", "d4/dfc/a24843.html#ae37da44bde25f6bdb5b4a382ab66b7be", null ],
-    [ "Validate", "d4/dfc/a24843.html#af9056c179b8089cf0b304b3ce61ea92f", null ]
+    [ "CheckProc", "d4/dfc/a24843.html#a4e1d93c20d0926d3ac93c23d9c139df6", null ],
+    [ "PrepareAuraScript", "d4/dfc/a24843.html#a2e572b677ad3b754316066f3e53edbbb", null ],
+    [ "Register", "d4/dfc/a24843.html#acecdc9e5079c49b312521a65682b602a", null ]
 ];

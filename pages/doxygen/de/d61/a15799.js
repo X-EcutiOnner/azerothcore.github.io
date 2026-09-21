@@ -1,8 +1,6 @@
 var a15799 =
 [
-    [ "npc_ahnqiraji_critter", "de/d61/a15799.html#a60e2dc1c52579a410d3435126bf39684", null ],
-    [ "JustDied", "de/d61/a15799.html#a71d3d5262bde847a18932fea89cb6648", null ],
-    [ "JustEngagedWith", "de/d61/a15799.html#aca1df706306f9181db26cd77e5b66452", null ],
-    [ "Reset", "de/d61/a15799.html#a645e16e9da29f6579320394201d0ada7", null ],
-    [ "UpdateAI", "de/d61/a15799.html#a68c5ded8563c2de9429a13cdb7d38f89", null ]
+    [ "boss_veknilash", "de/d61/a15799.html#a73a4095c3dd0ffbd9d7ef5a8a837f13f", null ],
+    [ "IAmVeklor", "de/d61/a15799.html#a454027d829b962ee0feebb6fd5687714", null ],
+    [ "JustEngagedWith", "de/d61/a15799.html#ace8de3d9a397d0571da1f5bdd2ba84d5", null ]
 ];

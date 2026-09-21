@@ -1,6 +1,7 @@
 var a16683 =
 [
-    [ "npc_living_infernoAI", "df/d54/a16683.html#ab33eeac6aab8e18778fc7d4ffe5038f1", null ],
-    [ "IsSummonedBy", "df/d54/a16683.html#a4b6986a392aee0741ba47651e809c76c", null ],
-    [ "JustDied", "df/d54/a16683.html#a60b2e31d24e182e97d604d91223e2dc8", null ]
+    [ "npc_orb_carrierAI", "df/d54/a16683.html#a2011c247d2157f5f2a06db6e149743e0", null ],
+    [ "DoAction", "df/d54/a16683.html#a501d0bdb9d77be1229dadf60d5f8af8c", null ],
+    [ "TriggerCutter", "df/d54/a16683.html#a6b6b127db878ca3b79ac8d7aeff4156e", null ],
+    [ "UpdateAI", "df/d54/a16683.html#a99a08390fcf2b0a058aee161932392d0", null ]
 ];

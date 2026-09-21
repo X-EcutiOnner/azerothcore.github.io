@@ -1,13 +1,13 @@
 var a21283 =
 [
-    [ "npc_ferocious_rhinoAI", "dd/de0/a21283.html#ad70d0aeba4b73330c5087bc84a533389", null ],
-    [ "DoAction", "dd/de0/a21283.html#a10395930fed95fb7809a0b5ffe224c4d", null ],
-    [ "JustDied", "dd/de0/a21283.html#a2b1af0402dc1b4940534d2e60d7ef33e", null ],
-    [ "JustEngagedWith", "dd/de0/a21283.html#aab35078fe4518b6647f98e316d02898a", null ],
-    [ "JustReachedHome", "dd/de0/a21283.html#ab8105d6c8c70037c208c83c13c35242d", null ],
-    [ "MoveInLineOfSight", "dd/de0/a21283.html#a97e32d32a692f223b96746f3ef1086c5", null ],
-    [ "Reset", "dd/de0/a21283.html#a6d317407c2de2f954b5dd2a6db137304", null ],
-    [ "UpdateAI", "dd/de0/a21283.html#a09b80e739e4df6e751c9c2846f3fb999", null ],
-    [ "events", "dd/de0/a21283.html#af23061de7d8566c7435c2c64c53dff89", null ],
-    [ "m_pInstance", "dd/de0/a21283.html#a97e00db40792c559dd06327c9960abe4", null ]
+    [ "npc_ulduar_arachnopod_destroyer", "dd/de0/a21283.html#a13422abe59c4aa11bee16225d689c054", null ],
+    [ "AttackStart", "dd/de0/a21283.html#ac634717023bd5827e2b8b1f4c79c6084", null ],
+    [ "DamageTaken", "dd/de0/a21283.html#a80a63823a5ffb19fd84fe3da5e9e4659", null ],
+    [ "EnterEvadeMode", "dd/de0/a21283.html#acb089a5226af27005ac2356e84e976aa", null ],
+    [ "OnCharmed", "dd/de0/a21283.html#a3d24ff7efa6a822b5d5c6c762b026d75", null ],
+    [ "PassengerBoarded", "dd/de0/a21283.html#a1b15edb1527095dcac5f9c0ef183fb55", null ],
+    [ "Reset", "dd/de0/a21283.html#a7fa3aa16e4764b5ce4a93eef855010f8", null ],
+    [ "UpdateAI", "dd/de0/a21283.html#a87d4086066ac53697793152fdcebf841", null ],
+    [ "_spawnedMechanic", "dd/de0/a21283.html#ae781e2c258ac3ce268821b98ae310a0f", null ],
+    [ "events", "dd/de0/a21283.html#a7cb0d83e8b94808fa16539ea098e1a2f", null ]
 ];

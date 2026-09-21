@@ -1,5 +1,9 @@
 var a09039 =
 [
-    [ "bgQueueTypeId", "df/ddb/a09039.html#a171a9be34883429a97f6f2e3035b5fca", null ],
-    [ "invitedToInstance", "df/ddb/a09039.html#a5efaf8479d7afb8c24e7f3389ad9c8cf", null ]
+    [ "areaFlag", "df/ddb/a09039.html#ac6244004ed093c1a3d83749cbc20bfe9", null ],
+    [ "areaID", "df/ddb/a09039.html#a455a890a1d82d31873873ac497cb83b7", null ],
+    [ "x1", "df/ddb/a09039.html#a7624a89c7eac16955dbebb47f0c721d6", null ],
+    [ "x2", "df/ddb/a09039.html#aebdb021c0b9c40d624d5115b24616a12", null ],
+    [ "y1", "df/ddb/a09039.html#a04a84fe41ba2bc9996eb0bd70248222a", null ],
+    [ "y2", "df/ddb/a09039.html#a84f612cf6d1905e948c7c9a6cb870e31", null ]
 ];

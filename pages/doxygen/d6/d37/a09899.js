@@ -1,8 +1,10 @@
 var a09899 =
 [
-    [ "AllWorldObjectsInExactRange", "d6/d37/a09899.html#a0281d22587b9b1bdbfbdd8dccc625186", null ],
-    [ "operator()", "d6/d37/a09899.html#afe0bea69ddd5e275363361bf37284840", null ],
-    [ "_equals", "d6/d37/a09899.html#aebb4cb9e84cf91cca235fe663dba8d60", null ],
-    [ "_object", "d6/d37/a09899.html#a5fba0e3c7cde76bfe56f8e9e9716412b", null ],
-    [ "_range", "d6/d37/a09899.html#ae40de8ce49bb429243e5059b6d14398f", null ]
+    [ "AnyPlayerInObjectRangeCheck", "d6/d37/a09899.html#ae636bd72045687920ec1d460508bc74b", null ],
+    [ "operator()", "d6/d37/a09899.html#ac1eda8f85259230fb382a3b6e58b6798", null ],
+    [ "operator()", "d6/d37/a09899.html#a70c477213c8b271d3402857edd87ef8b", null ],
+    [ "_disallowGM", "d6/d37/a09899.html#a9c43efd575de2edfdaa0b84def91c727", null ],
+    [ "_obj", "d6/d37/a09899.html#a07a346225f675433792d2298673acd1f", null ],
+    [ "_range", "d6/d37/a09899.html#ae372500b3a21cb65a11045dcc6f094a8", null ],
+    [ "_reqAlive", "d6/d37/a09899.html#af1e397c5033711e65d9ac5b35311e893", null ]
 ];

@@ -1,14 +1,7 @@
 var a24247 =
 [
-    [ "npc_mature_netherwing_drakeAI", "d0/dac/a24247.html#a32281f8dfa1c8af8fe6bcac2a8be4220", null ],
-    [ "JustReachedHome", "d0/dac/a24247.html#a0de69b5fda6342217697ad264d64d4e6", null ],
-    [ "MovementInform", "d0/dac/a24247.html#a456b5de60672120f82506d177faf6b47", null ],
-    [ "Reset", "d0/dac/a24247.html#a72eb39e259aed0ab230d4d43722cba13", null ],
-    [ "SpellHit", "d0/dac/a24247.html#a749690b386c0c726d11b77bc705b9b01", null ],
-    [ "UpdateAI", "d0/dac/a24247.html#a624c256f29d3cefed0bb909da3841853", null ],
-    [ "bCanEat", "d0/dac/a24247.html#ad4c671be4f16f23ddf2f2f84b0bd4c94", null ],
-    [ "bIsEating", "d0/dac/a24247.html#a0519438fda724a06a0c6f8ed2d7d533d", null ],
-    [ "CastTimer", "d0/dac/a24247.html#a630312f70a2f22683311a66e5a4f9ec6", null ],
-    [ "EatTimer", "d0/dac/a24247.html#aa50d3a21103dc769d162b1c917100630", null ],
-    [ "uiPlayerGUID", "d0/dac/a24247.html#a6b9a435245ddce156d0657aa9e35175b", null ]
+    [ "npc_creditmarker_visit_with_ancestorsAI", "d0/dac/a24247.html#a483e8fb0d73561e34a1078fdde1a1b5b", null ],
+    [ "JustEngagedWith", "d0/dac/a24247.html#a4038d707731f64f588e307c22c859902", null ],
+    [ "MoveInLineOfSight", "d0/dac/a24247.html#a40d92122cd4f879f52ff78a4f172c3b8", null ],
+    [ "Reset", "d0/dac/a24247.html#a29132346f117ba785039057619edb9e7", null ]
 ];

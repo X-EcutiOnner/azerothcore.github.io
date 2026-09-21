@@ -1,9 +1,9 @@
 var a29935 =
 [
-    [ "SetUp", "d5/de4/a29935.html#a20b3a8161766a47ae37349f02cbe5b90", null ],
-    [ "TearDown", "d5/de4/a29935.html#a9b41e4a95a6ca160c70272dfb90b5f8a", null ],
-    [ "creatureQuestMap", "d5/de4/a29935.html#ae8b815994792f237cf6e1803b9eaa7f7", null ],
-    [ "TEST_CREATURE_ID", "d5/de4/a29935.html#a80a79959d4b5520f7acf671677a671e9", null ],
-    [ "TEST_POOL_ID", "d5/de4/a29935.html#aa81759d0539b72ad3cdda7d2231f8e63", null ],
-    [ "TEST_QUEST_ID", "d5/de4/a29935.html#a26e68107bb625d0c5b6281c7df9199be", null ]
+    [ "SetUp", "d5/de4/a29935.html#aa0206c25468d92372594de8df9b9ac91", null ],
+    [ "TearDown", "d5/de4/a29935.html#ab004a4631e402c804c5cc030d3504bcf", null ],
+    [ "PERM_A", "d5/de4/a29935.html#a76b8ba9e8f97715e19f33400d5317470", null ],
+    [ "PERM_B", "d5/de4/a29935.html#aa7e5d5ee7cd27e5133328c20a8cbcab0", null ],
+    [ "ROLE_PLAYER", "d5/de4/a29935.html#a7a9fae5b7137ad90aed5b7f56b3328bf", null ],
+    [ "SEC_PLAYER", "d5/de4/a29935.html#a83a095f226d90a9990e90c0234dbb885", null ]
 ];

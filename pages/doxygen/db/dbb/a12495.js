@@ -1,10 +1,14 @@
 var a12495 =
 [
-    [ "item_commandscript", "db/dbb/a12495.html#a22f9cb46f2c3701fc5c9136c87c09435", null ],
-    [ "GetCommands", "db/dbb/a12495.html#aab60aa980ef0f86938cfcb51e7ee20a8", null ],
-    [ "HandleItemMoveCommand", "db/dbb/a12495.html#a6adae7cb08c0e69ac0a20c107f818a57", null ],
-    [ "HandleItemRefundCommand", "db/dbb/a12495.html#af914e33be05148062abd89c754d939c9", null ],
-    [ "HandleItemRestoreCommand", "db/dbb/a12495.html#a84c67a46c513c1aac2b9d2563d693929", null ],
-    [ "HandleItemRestoreListCommand", "db/dbb/a12495.html#a40181310f4187a71a6f5f5f600a8f468", null ],
-    [ "HasItemDeletionConfig", "db/dbb/a12495.html#a28d0b4083bf3352f80b6210f9ac00692", null ]
+    [ "cast_commandscript", "db/dbb/a12495.html#a9c657d2c5404149a45a2db748d23fc2f", null ],
+    [ "CheckSpellCastResult", "db/dbb/a12495.html#a244b2d11a07fdcbb72f3207ab1e46ea5", null ],
+    [ "CheckSpellExistsAndIsValid", "db/dbb/a12495.html#a14da4e4674b065c8e8f3d1946a037bda", null ],
+    [ "GetCommands", "db/dbb/a12495.html#ab0890c036a8d301b382fdd1b6371f671", null ],
+    [ "GetTriggerFlags", "db/dbb/a12495.html#a26e6986c45a99e6a94d7ba2d9a810aa3", null ],
+    [ "HandleCastBackCommand", "db/dbb/a12495.html#a964a40278f609a5c5a0bae651484c726", null ],
+    [ "HandleCastCommand", "db/dbb/a12495.html#ac28430cc0623209b891bacbb4845509b", null ],
+    [ "HandleCastDestCommand", "db/dbb/a12495.html#a156ca81fba7155205dae106aa4c221d6", null ],
+    [ "HandleCastDistCommand", "db/dbb/a12495.html#aabbcac8e85c6a64a647d71bb22bebede", null ],
+    [ "HandleCastSelfCommand", "db/dbb/a12495.html#a69e88bb174c2518584a9ae622e2850bf", null ],
+    [ "HandleCastTargetCommad", "db/dbb/a12495.html#aa72bd317a3498ef07007c1a9e81e2796", null ]
 ];

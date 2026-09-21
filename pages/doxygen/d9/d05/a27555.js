@@ -1,7 +1,6 @@
 var a27555 =
 [
-    [ "HandleDispel", "d9/d05/a27555.html#aeab02cfd37c20aaf57e70aca62c82d99", null ],
-    [ "PrepareAuraScript", "d9/d05/a27555.html#a9dc5d5dc34bc9aed6094c0c55533ad5e", null ],
-    [ "Register", "d9/d05/a27555.html#a9cfb0fe1465c55b97032ae528ce00bcb", null ],
-    [ "Validate", "d9/d05/a27555.html#ad29fdb4b99e9782cf8bace07384fa87c", null ]
+    [ "FilterTargets", "d9/d05/a27555.html#a34ca370993295225a779ee6537295112", null ],
+    [ "PrepareSpellScript", "d9/d05/a27555.html#a523cf0c9aa9b3cf81c0cadd39252dd0f", null ],
+    [ "Register", "d9/d05/a27555.html#a0c23c8b0fe938fd7556663880f40b9ef", null ]
 ];

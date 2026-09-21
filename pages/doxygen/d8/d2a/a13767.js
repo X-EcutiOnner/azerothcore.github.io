@@ -1,7 +1,7 @@
 var a13767 =
 [
-    [ "boss_kalec", "d8/d2a/a13767.html#a9c36e31c750e93840f30f001cdaca0da", null ],
-    [ "JustDied", "d8/d2a/a13767.html#a46f35b35c1d17abc2ffaf909c53a4039", null ],
-    [ "JustEngagedWith", "d8/d2a/a13767.html#a4813ca02ed5ffc35add5279cc1ec277f", null ],
-    [ "UpdateAI", "d8/d2a/a13767.html#ab55da7584fa7f545761a5bd547245747", null ]
+    [ "HandleScriptEffect", "d8/d2a/a13767.html#a703ac8467126f5c2aee393fcf2400ffc", null ],
+    [ "PrepareSpellScript", "d8/d2a/a13767.html#a17c49de5f6a37ff83126398d96b43a51", null ],
+    [ "Register", "d8/d2a/a13767.html#ae205d84cdbe3fbfa519e7d1c8f2ffe16", null ],
+    [ "Validate", "d8/d2a/a13767.html#a17d53f598be9fe9e9790bb96dfcb4891", null ]
 ];

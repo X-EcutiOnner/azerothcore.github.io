@@ -1,13 +1,7 @@
 var a12183 =
 [
-    [ "PlayerTextBuilder", "df/da7/a12183.html#a0740c581636009448fe2c29084db41ae", null ],
-    [ "operator()", "df/da7/a12183.html#a64d2905971ecd645e364a774f320a721", null ],
-    [ "_gender", "df/da7/a12183.html#aece205d3d523dcf6fefbdd9914943723", null ],
-    [ "_language", "df/da7/a12183.html#a934d4a519c2c7b4017805b3bc24a4714", null ],
-    [ "_msgType", "df/da7/a12183.html#af546f2788870b8b10b3405695ef81171", null ],
-    [ "_source", "df/da7/a12183.html#a9fe9f865b0ba84b5497e63947893533e", null ],
-    [ "_talker", "df/da7/a12183.html#a8a8cd00cc76e048500800938a773aa06", null ],
-    [ "_target", "df/da7/a12183.html#ac97cf187d079c5162e47bebb7024faa5", null ],
-    [ "_textGroup", "df/da7/a12183.html#ab44fe12e73da36acb1199987e8573467", null ],
-    [ "_textId", "df/da7/a12183.html#a17b33a9a05a77722219a85a71f3bbc5e", null ]
+    [ "EffectApplyHandler", "df/da7/a12183.html#a7ab5f0786000c217e2fc71201a8990b6", null ],
+    [ "Call", "df/da7/a12183.html#a4c02a1b42d7b3a02633dc9600b0e09bb", null ],
+    [ "mode", "df/da7/a12183.html#ac776375c5a5de321edc572c87e983193", null ],
+    [ "pEffectHandlerScript", "df/da7/a12183.html#acd715556a7661f688ce0de9afe62250a", null ]
 ];

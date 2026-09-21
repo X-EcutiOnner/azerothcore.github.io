@@ -1,14 +1,9 @@
 var a13203 =
 [
-    [ "boss_midnight", "da/dad/a13203.html#aacf45b21a30d671d5e9720a30336f72c", null ],
-    [ "CanMeleeHit", "da/dad/a13203.html#ad46a3726f398e5db56612d78d33fb13f", null ],
-    [ "DamageTaken", "da/dad/a13203.html#a47be6bc98217cf32a54dc522b7983bdb", null ],
-    [ "DoAction", "da/dad/a13203.html#a6831149d56f432aa3116d4172ef95a18", null ],
-    [ "EnterEvadeMode", "da/dad/a13203.html#a7ef9e935ac932f5a9e4fd435b8180783", null ],
-    [ "JustEngagedWith", "da/dad/a13203.html#afbb95384e6c747e73c87c5a5eb40843e", null ],
-    [ "JustSummoned", "da/dad/a13203.html#a2644deaf0a2970835b0cd508565e7279", null ],
-    [ "KilledUnit", "da/dad/a13203.html#a14dcbec9dc43cc12a124b6f140e0e8e6", null ],
-    [ "Reset", "da/dad/a13203.html#a4f9cb414779705c179bc5447975b35e9", null ],
-    [ "UpdateAI", "da/dad/a13203.html#a17c86571df6263fe1cc3657ca596e3ae", null ],
-    [ "_phase", "da/dad/a13203.html#ae5f3f452f5141cecab1b99616eb2bf74", null ]
+    [ "HandleEffectApply", "da/dad/a13203.html#ab1f4879fd9bd3982b9695bda886b0b99", null ],
+    [ "HandleEffectRemove", "da/dad/a13203.html#a8e38bc0ebf6b62982eee84e4c2722413", null ],
+    [ "Load", "da/dad/a13203.html#a8259745e21c561e4eedabc87ca8bdf73", null ],
+    [ "PrepareAuraScript", "da/dad/a13203.html#abec6d69d331e9952c129dc4cc24f0f13", null ],
+    [ "Register", "da/dad/a13203.html#a201bafab6c483b08a6ae27054392dea9", null ],
+    [ "Validate", "da/dad/a13203.html#a94aa1bd618035323b1fd4817fa7f9687", null ]
 ];

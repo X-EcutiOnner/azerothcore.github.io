@@ -1,5 +1,7 @@
 var a23607 =
 [
-    [ "go_broggok_lever", "da/d1a/a23607.html#af91c2e283c357d2f38c9932dcfb5c375", null ],
-    [ "OnGossipHello", "da/d1a/a23607.html#af00fe1da1cfa40dc3ece286cef45090c", null ]
+    [ "HandleScript", "da/d1a/a23607.html#a8933535f9507b90b54032c17985cc3c6", null ],
+    [ "PrepareSpellScript", "da/d1a/a23607.html#acadb563eaeffac47b3f883f9d8c37994", null ],
+    [ "Register", "da/d1a/a23607.html#a797ae84dcb0fc13b0799934bde71809c", null ],
+    [ "Validate", "da/d1a/a23607.html#afba2983f5be230dd3b77b3b49fee8a38", null ]
 ];

@@ -1,8 +1,8 @@
 var a26975 =
 [
-    [ "HandleApplyEffect", "d8/d11/a26975.html#a50102ae92f44fd7c2bd9afc3fec5a291", null ],
-    [ "Load", "d8/d11/a26975.html#ab6ba9d68b968ae41ee9c9869df686f02", null ],
-    [ "PrepareAuraScript", "d8/d11/a26975.html#a6e212284f72320356cfa2f0c2a59999d", null ],
-    [ "Register", "d8/d11/a26975.html#afcdd6cc19b59b5e6aa0cfdb9189edc99", null ],
-    [ "Validate", "d8/d11/a26975.html#a985a52f71371443454d6dd36f7fe83b2", null ]
+    [ "CheckCast", "d8/d11/a26975.html#a5fc226206c08aa65459c144cd5f34c6c", null ],
+    [ "PrepareSpellScript", "d8/d11/a26975.html#a1c0f324c7c2f2799990dcc116edd69cf", null ],
+    [ "Register", "d8/d11/a26975.html#a35239e58eb76c0ffe74e0feee2250fa1", null ],
+    [ "TriggerDebuffs", "d8/d11/a26975.html#a1579b28071e2194625f722a29ded39b8", null ],
+    [ "Validate", "d8/d11/a26975.html#a767853d4b05e055cb32991bfe8c6516a", null ]
 ];

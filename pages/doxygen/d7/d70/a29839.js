@@ -1,9 +1,15 @@
 var a29839 =
 [
-    [ "SetUp", "d7/d70/a29839.html#aa0206c25468d92372594de8df9b9ac91", null ],
-    [ "TearDown", "d7/d70/a29839.html#ab004a4631e402c804c5cc030d3504bcf", null ],
-    [ "PERM_A", "d7/d70/a29839.html#a76b8ba9e8f97715e19f33400d5317470", null ],
-    [ "PERM_B", "d7/d70/a29839.html#aa7e5d5ee7cd27e5133328c20a8cbcab0", null ],
-    [ "ROLE_PLAYER", "d7/d70/a29839.html#a7a9fae5b7137ad90aed5b7f56b3328bf", null ],
-    [ "SEC_PLAYER", "d7/d70/a29839.html#a83a095f226d90a9990e90c0234dbb885", null ]
+    [ "MOCK_METHOD", "d7/d70/a29839.html#ad315c9b44cd400050ba5d0ede0a6ed38", null ],
+    [ "MOCK_METHOD", "d7/d70/a29839.html#a70f7f432cdb5248e4d7538e989d45c11", null ],
+    [ "MOCK_METHOD", "d7/d70/a29839.html#ab1469fe474ab6290bfd8d8222392fdb1", null ],
+    [ "MOCK_METHOD", "d7/d70/a29839.html#a72198bd1a85cc6fea8665fb7e0b19ee5", null ],
+    [ "MOCK_METHOD", "d7/d70/a29839.html#aebca824eff5f8d2f7c210abdcdf1ed7d", null ],
+    [ "MOCK_METHOD", "d7/d70/a29839.html#afc487e92b80c573fd5b01400204401da", null ],
+    [ "MOCK_METHOD", "d7/d70/a29839.html#a5e71c6a07e54153dd5081af175031c18", null ],
+    [ "MOCK_METHOD", "d7/d70/a29839.html#af6fccda3c70d3ddb643dcae31d63c205", null ],
+    [ "MOCK_METHOD", "d7/d70/a29839.html#acccf2037a6b3dbccbadedfdcb7d4c95d", null ],
+    [ "MOCK_METHOD", "d7/d70/a29839.html#aff433673cca191db03810f378879eae1", null ],
+    [ "MOCK_METHOD", "d7/d70/a29839.html#a0cbd6994e0de9a0052bdcc8750881eac", null ],
+    [ "MOCK_METHOD", "d7/d70/a29839.html#a4d624c7be7180f8c85b624e87601d659", null ]
 ];

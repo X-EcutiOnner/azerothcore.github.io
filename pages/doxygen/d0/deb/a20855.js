@@ -1,11 +1,10 @@
 var a20855 =
 [
-    [ "boss_thorim_arena_npcs", "d0/deb/a20855.html#a849567e412254aa8d0d7da33b6b1522f", null ],
-    [ "CanAIAttack", "d0/deb/a20855.html#aa4f90aadf8a9705fea03433195d41ad0", null ],
-    [ "JustEngagedWith", "d0/deb/a20855.html#a2f23cddcf5a0db42ba24730dfbe54976", null ],
-    [ "Reset", "d0/deb/a20855.html#a7b118ec6fa25c0f452419d1f5b4a698f", null ],
-    [ "SelectT", "d0/deb/a20855.html#a3fa38189c886a486aabb39a372834938", null ],
-    [ "UpdateAI", "d0/deb/a20855.html#a6a8489763ca223c749aa71c2da05b3cf", null ],
-    [ "_isCaster", "d0/deb/a20855.html#abfd184437df3983659a9ae21a13638fb", null ],
-    [ "events", "d0/deb/a20855.html#aad99dd6ca7d3595222ce42b5b859e462", null ]
+    [ "npc_razorscale_dark_rune_watcher", "d0/deb/a20855.html#aff56f4cadfeb72f6a96f8ac86b27a6a1", null ],
+    [ "CanAIAttack", "d0/deb/a20855.html#a68ef8f2c7014850c5107cc22deff8658", null ],
+    [ "JustEngagedWith", "d0/deb/a20855.html#a303994b6f5e2ae6e4d6f0e44d9eb60a9", null ],
+    [ "Reset", "d0/deb/a20855.html#aaab4be32140991366f1a004622bf3b31", null ],
+    [ "UpdateAI", "d0/deb/a20855.html#a8d1518f80cc6427d0334770a5aaf130a", null ],
+    [ "_events", "d0/deb/a20855.html#a15fa73dea3b9b86a6d1b42f9d1296d6e", null ],
+    [ "_instance", "d0/deb/a20855.html#ac08ba6b60827408aeb1b63a48a57fa9e", null ]
 ];

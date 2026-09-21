@@ -1,7 +1,9 @@
 var a26331 =
 [
-    [ "HandleProc", "d8/daa/a26331.html#ac162e47e5334e15865a315b1a30fc645", null ],
-    [ "PrepareAuraScript", "d8/daa/a26331.html#a0d30a007e3f67b78197ac0cae83e2976", null ],
-    [ "Register", "d8/daa/a26331.html#aad337f75e2132940ed3cfef209e1c73b", null ],
-    [ "Validate", "d8/daa/a26331.html#afc4741f952c253924de7397d991a24ac", null ]
+    [ "OnEffectHitTargetDisarm", "d8/daa/a26331.html#ae8ce5a315886ede30eda7d3682e4ef06", null ],
+    [ "OnEffectHitTargetStun", "d8/daa/a26331.html#a5a5253b6d152b1af78de663c09451536", null ],
+    [ "OnEffectLaunchTargetDisarm", "d8/daa/a26331.html#a2bbcf5ee2d41362c80a4649a4cf7e260", null ],
+    [ "OnEffectLaunchTargetStun", "d8/daa/a26331.html#ac3d5052bf045082fb8bc02c72a0dba39", null ],
+    [ "PrepareSpellScript", "d8/daa/a26331.html#a113219d3376a23f8889f26f10744e7cb", null ],
+    [ "Register", "d8/daa/a26331.html#a12ef13dbc3e9cd95fb1d57bf393735e3", null ]
 ];

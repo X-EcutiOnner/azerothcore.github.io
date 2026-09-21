@@ -1,22 +1,14 @@
 var a12695 =
 [
-    [ "npc_grimstone", "d1/da2/a12695.html#a03d41532eb767f0e09982ede11f0fb80", null ],
-    [ "HandleGameObject", "d1/da2/a12695.html#a66240c764417e9d5750e3dcce8167384", null ],
-    [ "JustSummoned", "d1/da2/a12695.html#aea0c13489f4f17008b44d054b9a1cf3a", null ],
-    [ "Reset", "d1/da2/a12695.html#a4d1bc515c8302157e61f8fd4ad17b701", null ],
-    [ "SpawnWave", "d1/da2/a12695.html#a85b795cfd49343d300cdd1b1f028e141", null ],
-    [ "SummonBoss", "d1/da2/a12695.html#a5129e8d6f753fa0dc2f387bce2a76c24", null ],
-    [ "SummonedCreatureDies", "d1/da2/a12695.html#a0a55b772ca85554507ed36ba620c14c4", null ],
-    [ "UpdateEscortAI", "d1/da2/a12695.html#a848b405425ef4bb3dc20a4ec4ea081af", null ],
-    [ "updateReset", "d1/da2/a12695.html#afe73a3b9a9e7c9e24ea5ba09c23c05fa", null ],
-    [ "WaypointReached", "d1/da2/a12695.html#a4d381cecdada9577012e2c7914b7c5f9", null ],
-    [ "WaypointReached", "d1/da2/a12695.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "BossSpawnId", "d1/da2/a12695.html#a145a7bbecf4e061f44355948367f33bc", null ],
-    [ "eventPhase", "d1/da2/a12695.html#a0cb794b7343a42cc55c1be563acd4e52", null ],
-    [ "eventTimer", "d1/da2/a12695.html#aa246b08433ad44365e2bfe47a9025001", null ],
-    [ "instance", "d1/da2/a12695.html#a119ff38285b880d33266a7340ff1fe53", null ],
-    [ "MobSpawnId", "d1/da2/a12695.html#a5a54226cc0ada2095dccf93b7a18bae3", null ],
-    [ "resetTimer", "d1/da2/a12695.html#a1995b112b7e0735d0ab2d367150f05d3", null ],
-    [ "summons", "d1/da2/a12695.html#a7ed3101f9d8e81d819a7d73581952508", null ],
-    [ "theldrenEvent", "d1/da2/a12695.html#a720b408aa7e1a033c7ff28e65a505eea", null ]
+    [ "tele_commandscript", "d1/da2/a12695.html#a13d522c3480c5b82071d5f77bd41f942", null ],
+    [ "DoNameTeleport", "d1/da2/a12695.html#aeab9bf62f33fd1d55055ba2ae7925f82", null ],
+    [ "GetCommands", "d1/da2/a12695.html#a296b26e39d5d575ebe68728ff1b49f68", null ],
+    [ "HandleTeleAddCommand", "d1/da2/a12695.html#a8d429a38c01a19f8c89c87937ef24248", null ],
+    [ "HandleTeleCommand", "d1/da2/a12695.html#ac7d7dbb28f3a908fa5116ffb9ca6f7fa", null ],
+    [ "HandleTeleDelCommand", "d1/da2/a12695.html#ad3d85b0057797de2aceeb620cf62efc0", null ],
+    [ "HandleTeleGroupCommand", "d1/da2/a12695.html#af83e529b482654851a7a1ee77beb107e", null ],
+    [ "HandleTeleNameCommand", "d1/da2/a12695.html#a70fcde1c7c5a9e5297035862adca55c4", null ],
+    [ "HandleTeleNameNpcIdCommand", "d1/da2/a12695.html#a52852b7f3d7a6bbf68164e6918b9a141", null ],
+    [ "HandleTeleNameNpcNameCommand", "d1/da2/a12695.html#a2f68bad0f1af5d40fcefb8c394472b65", null ],
+    [ "HandleTeleNameNpcSpawnIdCommand", "d1/da2/a12695.html#a7a45fa39afa6bae2359a68b11a504bc5", null ]
 ];

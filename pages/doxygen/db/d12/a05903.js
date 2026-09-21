@@ -1,9 +1,7 @@
 var a05903 =
 [
-    [ "A", "db/d12/a05903.html#ab94666c9208b481061cd81382ce94a5a", null ],
-    [ "clientM", "db/d12/a05903.html#a65b25700c577d338e902dc47b4712433", null ],
-    [ "cmd", "db/d12/a05903.html#a51b29f49e940bffa67988d9bc2b16aa4", null ],
-    [ "crc_hash", "db/d12/a05903.html#af2ce94f814a0008c953229fb9cdff454", null ],
-    [ "number_of_keys", "db/d12/a05903.html#ad8f9f53d462f1abd5c81413e0ed8b0a7", null ],
-    [ "securityFlags", "db/d12/a05903.html#ae2ab466af9513c15cbcea7a20e97ddc5", null ]
+    [ "~SignalHandler", "db/d12/a05903.html#a9c515cb60b156629c43d1a6fce81d58e", null ],
+    [ "handle_signal", "db/d12/a05903.html#a56782d1718cb243bb5b0c6dc2d100042", null ],
+    [ "_handled", "db/d12/a05903.html#a21b208a696ed4a320a7cf312006a787f", null ],
+    [ "_mutex", "db/d12/a05903.html#a0c4d6ba642dd3877c3333b067db22db6", null ]
 ];

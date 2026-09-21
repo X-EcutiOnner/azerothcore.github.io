@@ -1,8 +1,6 @@
 var a09495 =
 [
-    [ "V8Type", "d5/d4f/a09495.html#ad1b1f07eef9dda43d6ba20d37087e1df", null ],
-    [ "V9Type", "d5/d4f/a09495.html#ac514014328ca676e610cef54710d2430", null ],
-    [ "gridIntHeightMultiplier", "d5/d4f/a09495.html#a6255362ae498172495394e1f0fad44ca", null ],
-    [ "v8", "d5/d4f/a09495.html#a3201a1f3e7307af860396ca26a78dbf9", null ],
-    [ "v9", "d5/d4f/a09495.html#ad31af604d44f964e9c502f36b6717c77", null ]
+    [ "faction", "d5/d4f/a09495.html#aaad6e04ef66264f040ddd91ae7f4e04b", null ],
+    [ "faction_rank", "d5/d4f/a09495.html#a1ffb9cddf950edfb17e9779691b09f07", null ],
+    [ "faction_rate", "d5/d4f/a09495.html#ab86cdfcd03a47f0c48e0661c5e9c8fd4", null ]
 ];

@@ -1,6 +1,6 @@
 var a27999 =
 [
-    [ "AfterCheckProc", "d5/d5b/a27999.html#a947c7b94512fbfdd8b51cfa8044d2e6c", null ],
-    [ "PrepareAuraScript", "d5/d5b/a27999.html#aa184faf59edbad97ec361e66169137b9", null ],
-    [ "Register", "d5/d5b/a27999.html#a3df5a215670c7a1e07bc901e442bb11c", null ]
+    [ "HandleRemove", "d5/d5b/a27999.html#a0ac8fe6a39ae00e50f219bf02c26f1a4", null ],
+    [ "PrepareAuraScript", "d5/d5b/a27999.html#a0517fe77f15e1b9cf6153ed2aaf9cee8", null ],
+    [ "Register", "d5/d5b/a27999.html#ac968ede75fd5d98ba9a10dc9f6bdbb85", null ]
 ];

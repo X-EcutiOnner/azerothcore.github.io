@@ -1,10 +1,5 @@
 var a12947 =
 [
-    [ "npc_corrupted_totem", "d1/d07/a12947.html#a5e0c58b341fe25a5d682b68e9eee207f", null ],
-    [ "IsSummonedBy", "d1/d07/a12947.html#ae8314903c9006b7bca94a47115a0d05b", null ],
-    [ "JustDied", "d1/d07/a12947.html#aa3c6b1a3df61c9e98c62efadff637578", null ],
-    [ "Reset", "d1/d07/a12947.html#a0bc8df2b8266b7b3a5f40f1ede0e10b4", null ],
-    [ "SetAura", "d1/d07/a12947.html#a509688befda49f789f77ee0e4170a74e", null ],
-    [ "UpdateAI", "d1/d07/a12947.html#ac128625268820d2e9b1f0ef5ead975e9", null ],
-    [ "_auraAdded", "d1/d07/a12947.html#a953cf5af625b9b5a4ab6704d5b1b664c", null ]
+    [ "at_blackrock_stadium", "d1/d07/a12947.html#a9f577437f231a189c02e50e71ffcb85a", null ],
+    [ "OnTrigger", "d1/d07/a12947.html#a691b4614d6f28733f01a38d8420b823b", null ]
 ];

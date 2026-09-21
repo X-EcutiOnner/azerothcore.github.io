@@ -1,6 +1,6 @@
 var a18083 =
 [
-    [ "IgbExplosionCheck", "d9/d77/a18083.html#ae67cca111f26a275614810cbe053bcd8", null ],
-    [ "operator()", "d9/d77/a18083.html#a28ce6685366e99db2aa1e4022012f943", null ],
-    [ "_source", "d9/d77/a18083.html#a413ee8f2218621d274d118aea967dc9b", null ]
+    [ "npc_igb_ship_crewAI", "dc/dcb/a18087.html", "dc/dcb/a18087" ],
+    [ "npc_igb_ship_crew", "d9/d77/a18083.html#a5f4380aba94766a6a75b97026998b881", null ],
+    [ "GetAI", "d9/d77/a18083.html#a48955817e21a01a726b50685b467c229", null ]
 ];

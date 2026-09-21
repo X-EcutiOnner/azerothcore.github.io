@@ -1,9 +1,8 @@
 var a13863 =
 [
-    [ "boss_muru", "d1/d05/a13863.html#a6e51cd6b3283f011fc834e0cc59f46e6", null ],
-    [ "DamageTaken", "d1/d05/a13863.html#a570c8cc6aaefaac4063d9f1053c04b32", null ],
-    [ "JustEngagedWith", "d1/d05/a13863.html#a305f5f20fbe3d15885ed3e6248d96ec6", null ],
-    [ "JustSummoned", "d1/d05/a13863.html#a7cf18b5f12586d122ece406feaa5bc39", null ],
-    [ "MoveInLineOfSight", "d1/d05/a13863.html#aa589d640b73c0b3e944585bdc702a8ee", null ],
-    [ "Reset", "d1/d05/a13863.html#a177aed9c1e5c1380fc8ea5f8c29650c6", null ]
+    [ "OnPeriodic", "d1/d05/a13863.html#acd400b0a061d1814591e33d16bf4180a", null ],
+    [ "OnRemove", "d1/d05/a13863.html#a3da85c726007690220e9b4f81d30f185", null ],
+    [ "PrepareAuraScript", "d1/d05/a13863.html#a216d723f309ffa46df4bba7af79752c8", null ],
+    [ "Register", "d1/d05/a13863.html#a43fe84c2717d73e20a2562f596a84f36", null ],
+    [ "Validate", "d1/d05/a13863.html#a4ab8e285bae57560eee85d3a837ac2f5", null ]
 ];

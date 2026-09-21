@@ -1,6 +1,5 @@
 var a13107 =
 [
-    [ "boss_sulfuron", "d2/dd6/a13107.html#a7ede84fab05e5cb008036be559c3c799", null ],
-    [ "ExecuteEvent", "d2/dd6/a13107.html#a5db50a398c704d8276566c1d74111d19", null ],
-    [ "JustEngagedWith", "d2/dd6/a13107.html#a320f58043ee525656a7c2fe94a2a4371", null ]
+    [ "npc_garr_firesworn", "d2/dd6/a13107.html#a5efff706f522accd5f8be0d29080dea4", null ],
+    [ "DamageTaken", "d2/dd6/a13107.html#a172435821316d28c5b0043015c68595e", null ]
 ];

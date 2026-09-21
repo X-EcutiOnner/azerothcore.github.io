@@ -1,10 +1,8 @@
 var a24119 =
 [
-    [ "npc_wounded_blood_elfAI", "d4/d75/a24119.html#a2dfcd5fa17b56c44f4056ecf4861af6e", null ],
-    [ "JustEngagedWith", "d4/d75/a24119.html#aba950ba77ff71508263cc54b28c7725b", null ],
-    [ "JustSummoned", "d4/d75/a24119.html#aa97f5294981c44b530efca1411458a97", null ],
-    [ "Reset", "d4/d75/a24119.html#a8e6be35a3079998f3bab829f5d963c71", null ],
-    [ "sQuestAccept", "d4/d75/a24119.html#a56c157928c24daae6edacd5a126ef171", null ],
-    [ "WaypointReached", "d4/d75/a24119.html#a5affcb00e28a582f8926ab2226001cd0", null ],
-    [ "WaypointReached", "d4/d75/a24119.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "instance_mechanar_InstanceMapScript", "d4/d75/a24119.html#a728d427162c0f56e7d229c55ff88bfbd", null ],
+    [ "OnCreatureCreate", "d4/d75/a24119.html#aa0c6a84a6ace9299b18f0cc54263b398", null ],
+    [ "OnGameObjectCreate", "d4/d75/a24119.html#a236a8c67ca57ffc7d2161c00e8acbd64", null ],
+    [ "OnGameObjectRemove", "d4/d75/a24119.html#ac79c4f1dad7f2caf1278e242ec8fadc9", null ],
+    [ "_pathaleonGUID", "d4/d75/a24119.html#aaf5c80af5ba2ba46b3c53ccffaaa1d3b", null ]
 ];

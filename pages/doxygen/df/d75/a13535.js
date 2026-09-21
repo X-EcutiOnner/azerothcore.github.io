@@ -1,7 +1,5 @@
 var a13535 =
 [
-    [ "HandleScript", "df/d75/a13535.html#a6ce169d6c1b106195f787b52ea433311", null ],
-    [ "PrepareSpellScript", "df/d75/a13535.html#a4f71583df2193274365944e6d228247c", null ],
-    [ "Register", "df/d75/a13535.html#aad8978dc0505d1fb80e2416f5525cbc7", null ],
-    [ "Validate", "df/d75/a13535.html#a51025308f88001f1f66d7f68f174f325", null ]
+    [ "boss_warlord_salaris", "df/d75/a13535.html#afe9ace28dcd302e9b9a9ebe806e2ada5", null ],
+    [ "JustEngagedWith", "df/d75/a13535.html#a77b3b531466810ee17f9fd6eadf5872a", null ]
 ];

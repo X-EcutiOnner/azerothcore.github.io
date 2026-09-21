@@ -1,8 +1,7 @@
 var a13331 =
 [
-    [ "npc_tito", "df/dba/a13331.html#a0b3b1750e8b8840e50d27d22ebddb7c8", null ],
-    [ "JustEngagedWith", "df/dba/a13331.html#a71335c1474e8a29edf76addacb737fa9", null ],
-    [ "UpdateAI", "df/dba/a13331.html#ac357c29e68d8480d94349da844efd3ad", null ],
-    [ "_scheduler", "df/dba/a13331.html#a96c47ca2e66bb984dfd2cfefa6bde643", null ],
-    [ "instance", "df/dba/a13331.html#a9eecd226486e52d559ae1a30687bf0eb", null ]
+    [ "FilterTargets", "df/dba/a13331.html#ab00f1a67df39f01aa0ead3459c3c3183", null ],
+    [ "Load", "df/dba/a13331.html#a5bb1cb64090e1ebb3f6f7bcd1fa1ec21", null ],
+    [ "PrepareSpellScript", "df/dba/a13331.html#a17bebef0c4c59c3fd0ccfb28e103ee3e", null ],
+    [ "Register", "df/dba/a13331.html#ae366530ddacf45a92eaa36be7e706a84", null ]
 ];

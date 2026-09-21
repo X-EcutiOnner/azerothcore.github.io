@@ -1,9 +1,6 @@
 var a21991 =
 [
-    [ "npc_wounded_skirmisher", "d6/d6c/a21991.html#a30fe2d901df0cfd9b66f3dbd6a1e6aea", null ],
-    [ "Initialize", "d6/d6c/a21991.html#ae5fab920fcb16b57e0ed53a1177d319b", null ],
-    [ "JustEngagedWith", "d6/d6c/a21991.html#a80357b71a1eccdcdce8c8bea87de1b66", null ],
-    [ "Reset", "d6/d6c/a21991.html#acca266640c099718d2a0fd4f6a3c47ab", null ],
-    [ "SpellHit", "d6/d6c/a21991.html#a891e879af5da1f181c94e528c59a81f1", null ],
-    [ "UpdateAI", "d6/d6c/a21991.html#a52f8e7f8df05504cad4b4438c50814a4", null ]
+    [ "npc_q24545_vegard_dummyAI", "d6/d6c/a21991.html#ad354ccbe97b12f8df1186de4bf52bfcc", null ],
+    [ "UpdateAI", "d6/d6c/a21991.html#aa31baac9ce3c4c951f93917b88390797", null ],
+    [ "done", "d6/d6c/a21991.html#a0208fbae8e6c46d0671107530279c50c", null ]
 ];

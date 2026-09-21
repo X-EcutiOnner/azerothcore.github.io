@@ -1,9 +1,7 @@
 var a20087 =
 [
-    [ "npc_brann_bronzebeard_algalon", "dc/dc6/a20087.html#ac00755dca7e187b55516be889386c499", null ],
-    [ "DoAction", "dc/dc6/a20087.html#a6d44478868a74ed7baac757258334806", null ],
-    [ "MovementInform", "dc/dc6/a20087.html#a33af1a38ab2827aec38f95e57e54f589", null ],
-    [ "UpdateAI", "dc/dc6/a20087.html#ad74f8f8a31431dd2eaa4279e6a8fae36", null ],
-    [ "_currentPoint", "dc/dc6/a20087.html#a5403badf59f96111aefaddf78379e65f", null ],
-    [ "events", "dc/dc6/a20087.html#ae63e7d3c53c3039186221c8b59c43e3e", null ]
+    [ "HandleScript", "dc/dc6/a20087.html#a5d778f906e1ee820cc97b0b32839cc78", null ],
+    [ "PrepareSpellScript", "dc/dc6/a20087.html#a34337690029eedb60a17572dbbf1e1f9", null ],
+    [ "Register", "dc/dc6/a20087.html#ad554d79e1a98490085b22f5038d058da", null ],
+    [ "Validate", "dc/dc6/a20087.html#a0932ccc5652bc4901aacbe2cf8d6c7d8", null ]
 ];

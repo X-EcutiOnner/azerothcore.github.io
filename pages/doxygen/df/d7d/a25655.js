@@ -1,7 +1,8 @@
 var a25655 =
 [
-    [ "HandleProc", "df/d7d/a25655.html#a8a66eb1c15d8da265deed2c8a8a9cd50", null ],
-    [ "PrepareAuraScript", "df/d7d/a25655.html#aa2fd33ce33d6882292ba8ee588743fd3", null ],
-    [ "Register", "df/d7d/a25655.html#ab09dcc534ebda11da4a2234ee82233a2", null ],
-    [ "Validate", "df/d7d/a25655.html#a33c8ed96d3d4efd8841c10af7b7bf470", null ]
+    [ "OnApply", "df/d7d/a25655.html#acf25199409ab6f991db15a784749aaf1", null ],
+    [ "OnRemove", "df/d7d/a25655.html#a700513c27a2ae22581bbc61c8c4b523a", null ],
+    [ "PrepareAuraScript", "df/d7d/a25655.html#ae6f93ab542d8f05a95745d7b10d1856a", null ],
+    [ "Register", "df/d7d/a25655.html#a9332cb72f66e83f648b4ed02c8c074eb", null ],
+    [ "Validate", "df/d7d/a25655.html#a09017d12ecf0ae0c3091cea17640782c", null ]
 ];

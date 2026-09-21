@@ -1,7 +1,4 @@
 var a30059 =
 [
-    [ "SetUp", "df/d91/a30059.html#ab58c026bc6bbcf94aaec896c654e949f", null ],
-    [ "DAGGER_SPEED", "df/d91/a30059.html#a2e9b2005f350f0aec0a905eef5bc0bb6", null ],
-    [ "SWORD_SPEED", "df/d91/a30059.html#ac960eb9c5e15274b63b684d8908ed68b", null ],
-    [ "TWO_HANDED_SPEED", "df/d91/a30059.html#a7dbbfc5825a36bf3950a8dff54e0ca5a", null ]
+    [ "MakeConfig", "df/d91/a30059.html#af13a52623068599431891319a5a9e417", null ]
 ];

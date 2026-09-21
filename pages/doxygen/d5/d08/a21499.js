@@ -1,8 +1,7 @@
 var a21499 =
 [
-    [ "boss_lavanthor", "d5/d08/a21499.html#ad264818ef0f539c48160de9dbebeac7f", null ],
-    [ "EnterEvadeMode", "d5/d08/a21499.html#aee499fcde639aaca7131dba9cca1d4d0", null ],
-    [ "ExecuteEvent", "d5/d08/a21499.html#a16d7cd5596c20c3663d63549b33c8b4a", null ],
-    [ "JustEngagedWith", "d5/d08/a21499.html#a4bc5fa66192daab98027539efda37bdc", null ],
-    [ "MoveInLineOfSight", "d5/d08/a21499.html#a6f68cd280561b428400a08a155f83ccb", null ]
+    [ "HandleScript", "d5/d08/a21499.html#a47b991c20c523d151893fefd9d487714", null ],
+    [ "PrepareSpellScript", "d5/d08/a21499.html#ab2db47d0a2694c0734db600e810e190d", null ],
+    [ "Register", "d5/d08/a21499.html#a3c2e7eb24506b43730f2e971fab81c75", null ],
+    [ "Validate", "d5/d08/a21499.html#a89d601f6036fe38238767281f3427e54", null ]
 ];

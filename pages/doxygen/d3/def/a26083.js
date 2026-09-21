@@ -1,6 +1,7 @@
 var a26083 =
 [
-    [ "HandleScript", "d3/def/a26083.html#a382dd0eb5ebc2f5da70561eaaf1f8d3d", null ],
-    [ "PrepareSpellScript", "d3/def/a26083.html#a4f0f4d29231ef1976d726b66f6277ca8", null ],
-    [ "Register", "d3/def/a26083.html#ad75843039e582b64da28b4818f48aeb3", null ]
+    [ "OnRemove", "d3/def/a26083.html#a1f4f852ef6d5b2313df20af540eee7da", null ],
+    [ "PrepareAuraScript", "d3/def/a26083.html#a8abf8084dd8bb1ac74b3884380cda809", null ],
+    [ "Register", "d3/def/a26083.html#a35a8adc4944fc2333488e72498f6d252", null ],
+    [ "Validate", "d3/def/a26083.html#aa312f28f03cc0929eb9ea8ba526ebb54", null ]
 ];

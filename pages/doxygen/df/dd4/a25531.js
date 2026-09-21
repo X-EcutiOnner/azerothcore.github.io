@@ -1,7 +1,6 @@
 var a25531 =
 [
-    [ "HandleScript", "df/dd4/a25531.html#a1097b1548b2785ac7ffd916ee5531fe9", null ],
-    [ "PrepareSpellScript", "df/dd4/a25531.html#a47dc9761bf10b1290963ff7eebe0121a", null ],
-    [ "Register", "df/dd4/a25531.html#a984b2af5268fbf294a0292502b8ddb44", null ],
-    [ "Validate", "df/dd4/a25531.html#a0cfbc2dcb836e7c37dd03cb3d0728621", null ]
+    [ "CalculateAmount", "df/dd4/a25531.html#a0522f4bf54b4a71df4e09f97a28fda45", null ],
+    [ "PrepareAuraScript", "df/dd4/a25531.html#acf699e467734499dd992f401da38cf88", null ],
+    [ "Register", "df/dd4/a25531.html#a6e6396a162a532ff25b9bd7c551f05d8", null ]
 ];

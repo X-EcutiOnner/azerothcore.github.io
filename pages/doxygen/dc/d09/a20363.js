@@ -1,10 +1,8 @@
 var a20363 =
 [
-    [ "boss_freya_elder_ironbranch", "dc/d09/a20363.html#ae488bddfe330ca5e0bab0c37c001c217", null ],
-    [ "JustDied", "dc/d09/a20363.html#a0e76b663697086ddaeb804f6fe9ce9cf", null ],
-    [ "JustEngagedWith", "dc/d09/a20363.html#a34d87135b8dac114a8783941dba69559", null ],
-    [ "KilledUnit", "dc/d09/a20363.html#a20b5a622ac233d1280169f54942c894f", null ],
-    [ "Reset", "dc/d09/a20363.html#ad2c65b696a63a63b3443fe1c436bbac1", null ],
-    [ "UpdateAI", "dc/d09/a20363.html#a00dade8af24a2240187fb4e52138c0d1", null ],
-    [ "events", "dc/d09/a20363.html#a8693a800da6890004f3ae82fd9898480", null ]
+    [ "OnApply", "dc/d09/a20363.html#a3f2ef4882bcd52e091a0bcfabfc352cd", null ],
+    [ "OnRemove", "dc/d09/a20363.html#ab967233994aa3ff07b272f010b2c1545", null ],
+    [ "PrepareAuraScript", "dc/d09/a20363.html#a788480ec4aaa57e643f55daca17c6ded", null ],
+    [ "Register", "dc/d09/a20363.html#a63a3e30704b282a430dcdbb9073a66df", null ],
+    [ "Validate", "dc/d09/a20363.html#a6ccb698445ce30c5224dcacc3dc8136b", null ]
 ];

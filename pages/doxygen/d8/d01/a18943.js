@@ -1,6 +1,5 @@
 var a18943 =
 [
-    [ "npc_suppresserAI", "d5/d10/a18947.html", "d5/d10/a18947" ],
-    [ "npc_suppresser", "d8/d01/a18943.html#a5db40aecba3c45281fe963c6b2bd8d1e", null ],
-    [ "GetAI", "d8/d01/a18943.html#a48869515abbac1491337a93b987231da", null ]
+    [ "achievement_been_waiting_long_time", "d8/d01/a18943.html#a839ec8cb50512bbae7125ead3ed35aec", null ],
+    [ "OnCheck", "d8/d01/a18943.html#a5e72304220d3a649d2182cb287215da6", null ]
 ];

@@ -1,11 +1,14 @@
 var a13279 =
 [
-    [ "boss_tenris_mirkblood", "dd/d96/a13279.html#ae626332a437983bbb0219bbe2d4b75dc", null ],
-    [ "DamageTaken", "dd/d96/a13279.html#a0316d2d936f10928fe01d1d5a532e9e0", null ],
-    [ "EnterEvadeMode", "dd/d96/a13279.html#a5da11ca73a280c08d1ab0ab4df66d836", null ],
-    [ "JustEngagedWith", "dd/d96/a13279.html#ad95106bbe08589a5ca1d0f2f30aab0ec", null ],
-    [ "KilledUnit", "dd/d96/a13279.html#ab0a5fedbd8714326a948163d7bcc0838", null ],
-    [ "Reset", "dd/d96/a13279.html#a88d46f6e972525979687b315db90dc30", null ],
-    [ "SpellHit", "dd/d96/a13279.html#a5d69e0cf2a394ac9eed94bb82ab35949", null ],
-    [ "_mirrorTarget", "dd/d96/a13279.html#a1e9a1c361046b12fe0569fbdef4a7033", null ]
+    [ "boss_midnight", "dd/d96/a13279.html#aacf45b21a30d671d5e9720a30336f72c", null ],
+    [ "CanMeleeHit", "dd/d96/a13279.html#ad46a3726f398e5db56612d78d33fb13f", null ],
+    [ "DamageTaken", "dd/d96/a13279.html#a47be6bc98217cf32a54dc522b7983bdb", null ],
+    [ "DoAction", "dd/d96/a13279.html#a6831149d56f432aa3116d4172ef95a18", null ],
+    [ "EnterEvadeMode", "dd/d96/a13279.html#a7ef9e935ac932f5a9e4fd435b8180783", null ],
+    [ "JustEngagedWith", "dd/d96/a13279.html#afbb95384e6c747e73c87c5a5eb40843e", null ],
+    [ "JustSummoned", "dd/d96/a13279.html#a2644deaf0a2970835b0cd508565e7279", null ],
+    [ "KilledUnit", "dd/d96/a13279.html#a14dcbec9dc43cc12a124b6f140e0e8e6", null ],
+    [ "Reset", "dd/d96/a13279.html#a4f9cb414779705c179bc5447975b35e9", null ],
+    [ "UpdateAI", "dd/d96/a13279.html#a17c86571df6263fe1cc3657ca596e3ae", null ],
+    [ "_phase", "dd/d96/a13279.html#ae5f3f452f5141cecab1b99616eb2bf74", null ]
 ];

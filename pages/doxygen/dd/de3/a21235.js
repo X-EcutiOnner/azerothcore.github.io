@@ -1,14 +1,6 @@
 var a21235 =
 [
-    [ "boss_dalronn_the_controller", "dd/de3/a21235.html#a57718e928fa273bba3c40a05d5888a3d", null ],
-    [ "DoAction", "dd/de3/a21235.html#ad11e43d40a61f093b5e51482437467b8", null ],
-    [ "JustDied", "dd/de3/a21235.html#a28a669b56392b599e124573778e33134", null ],
-    [ "JustEngagedWith", "dd/de3/a21235.html#aad89cfa81c69058adc633e85ded5b4e3", null ],
-    [ "JustSummoned", "dd/de3/a21235.html#a1d419cec78a9a8d6ceee3651c8054762", null ],
-    [ "KilledUnit", "dd/de3/a21235.html#a96a173e30ad81c77217b0693d1d15839", null ],
-    [ "Reset", "dd/de3/a21235.html#a452f1bd3428cc0f4b4413d253c5f29e7", null ],
-    [ "UpdateAI", "dd/de3/a21235.html#a1c3e44fe347e9c1ec45db19865bb5110", null ],
-    [ "events", "dd/de3/a21235.html#a44c463df3aeb8010fa1a1cc5de82b9f1", null ],
-    [ "pInstance", "dd/de3/a21235.html#a53e17abc63ce51830c1bcd5bd47f2a95", null ],
-    [ "summons", "dd/de3/a21235.html#ac2845d24aa036372cd0084d2b5e8090b", null ]
+    [ "achievement_yogg_saron_he_waits_dreaming", "dd/de3/a21235.html#a25f4950d1ccffe77aa9cf5de7a14ea37", null ],
+    [ "OnCheck", "dd/de3/a21235.html#a7ef7dfb0235fb2db5932e7415e3e6f61", null ],
+    [ "_requiredIllusion", "dd/de3/a21235.html#aa3e107cb3be6fa02687709e07466a094", null ]
 ];

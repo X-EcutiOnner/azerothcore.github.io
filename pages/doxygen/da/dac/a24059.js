@@ -1,6 +1,6 @@
 var a24059 =
 [
-    [ "npc_daranelleAI", "da/dc6/a24063.html", "da/dc6/a24063" ],
-    [ "npc_daranelle", "da/dac/a24059.html#a0a6e26b95d6d97821bc9e0c00b205704", null ],
-    [ "GetAI", "da/dac/a24059.html#ad2ba5e4dfded886acaf2f9821e15738d", null ]
+    [ "HandleScriptEffect", "da/dac/a24059.html#a9a7f29cde26344fb9af222a69ddbd4fa", null ],
+    [ "PrepareSpellScript", "da/dac/a24059.html#af475c0968aabaf56e8ca38950ad651f0", null ],
+    [ "Register", "da/dac/a24059.html#a86cd62582cc8b7c7fa10e0cd2da63822", null ]
 ];

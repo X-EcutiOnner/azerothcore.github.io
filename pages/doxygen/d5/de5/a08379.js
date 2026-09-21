@@ -1,13 +1,23 @@
 var a08379 =
 [
-    [ "LfgQueueData", "d5/de5/a08379.html#a1d0b74e82f50dc6baaf6b5a79b0af0cd", null ],
-    [ "LfgQueueData", "d5/de5/a08379.html#a363aa2cc53bce304893335ca93755103", null ],
-    [ "bestCompatible", "d5/de5/a08379.html#a10fe592a7d0b3fc53701d1946d55f0af", null ],
-    [ "dps", "d5/de5/a08379.html#ab78711eaf7285a5d4821e52354124646", null ],
-    [ "dungeons", "d5/de5/a08379.html#a6b115f3a5e0ff996279db044f47f5823", null ],
-    [ "healers", "d5/de5/a08379.html#a8b2049474102332ddca53f0892565216", null ],
-    [ "joinTime", "d5/de5/a08379.html#a240fcc11f3fd9d27fa913f80828522f2", null ],
-    [ "lastRefreshTime", "d5/de5/a08379.html#a727d35760b716270c5f326f343106d0c", null ],
-    [ "roles", "d5/de5/a08379.html#a20218584ba5c3dbaf9ff7ae520eba9a3", null ],
-    [ "tanks", "d5/de5/a08379.html#a500f93175d7a25f7c2e0dc0f3943e639", null ]
+    [ "Lfg5Guids", "d5/de5/a08379.html#ae3c4d14ffe3bd3824efd53d3e66a5b30", null ],
+    [ "Lfg5Guids", "d5/de5/a08379.html#a9bb6a28de6b87b5de2de4d78c27eb345", null ],
+    [ "Lfg5Guids", "d5/de5/a08379.html#aeb018ae41f1ab39481a103c01c96d5de", null ],
+    [ "Lfg5Guids", "d5/de5/a08379.html#a74e7afce30fb2e2ca99b78df29e6975e", null ],
+    [ "~Lfg5Guids", "d5/de5/a08379.html#ad956189426a61abf0d9058b5b9f7549e", null ],
+    [ "addRoles", "d5/de5/a08379.html#a13337aa8eadfc10987ead13ea8209ea5", null ],
+    [ "clear", "d5/de5/a08379.html#aff9d7632f888db252956bbfaa9dc2f62", null ],
+    [ "empty", "d5/de5/a08379.html#a14538fb8efd8e177d47dae2d9fca912f", null ],
+    [ "force_insert_front", "d5/de5/a08379.html#adcd2e3ad9803aefc477af73d6bac86a5", null ],
+    [ "front", "d5/de5/a08379.html#a822a9a4b5d82e11d34d2c1c22266bc0c", null ],
+    [ "hasGuid", "d5/de5/a08379.html#adddd27d8a9faefc2ad26c34770d9061c", null ],
+    [ "insert", "d5/de5/a08379.html#a15c5ff12eba3032c08d1754cee59c850", null ],
+    [ "operator<", "d5/de5/a08379.html#a151d368b51e6690ba015a5fa0cc4eecc", null ],
+    [ "operator=", "d5/de5/a08379.html#a7587fc1eb2d53273da399f7120717a5a", null ],
+    [ "operator==", "d5/de5/a08379.html#ab0ddda51a2126d4ce78235ae1e4d39c4", null ],
+    [ "remove", "d5/de5/a08379.html#a64308b7b2387017993f4a527ea6d5d9d", null ],
+    [ "size", "d5/de5/a08379.html#aa92daa0cdace672d751a3f10a8b8a6ff", null ],
+    [ "toString", "d5/de5/a08379.html#a19fd7ca444d3114e0fc8c46c460e1249", null ],
+    [ "guids", "d5/de5/a08379.html#a34c689c4c3e7f3754fa5d30cc95f524b", null ],
+    [ "roles", "d5/de5/a08379.html#a254e125e26aa95f51bf8f226507e71c6", null ]
 ];

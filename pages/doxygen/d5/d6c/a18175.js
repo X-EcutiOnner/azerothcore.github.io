@@ -1,6 +1,7 @@
 var a18175 =
 [
-    [ "npc_cult_adherentAI", "d5/d15/a18179.html", "d5/d15/a18179" ],
-    [ "npc_cult_adherent", "d5/d6c/a18175.html#a74496518cf30674044a4a8a166e4c345", null ],
-    [ "GetAI", "d5/d6c/a18175.html#a2bfe464c738c983b9539f9216cabd63a", null ]
+    [ "FilterTargets", "d5/d6c/a18175.html#a32b2fa87fb2eaca3db0801fbfe4b8aaa", null ],
+    [ "Load", "d5/d6c/a18175.html#a39e8ec4726a1f6c2911c165c7187f291", null ],
+    [ "PrepareSpellScript", "d5/d6c/a18175.html#a7526a6df4c25136f4be78e753c6abf62", null ],
+    [ "Register", "d5/d6c/a18175.html#a0d01b8292c1c071a5c828a5a88617bd5", null ]
 ];

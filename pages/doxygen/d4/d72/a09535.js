@@ -1,6 +1,6 @@
 var a09535 =
 [
-    [ "flags", "d4/d72/a09535.html#a953acfd67349f028a839390ebe7fc398", null ],
-    [ "fourcc", "d4/d72/a09535.html#a14d0e9cf761aae3ef914f3bff86ef216", null ],
-    [ "gridArea", "d4/d72/a09535.html#a4ee571320d5d346bbf74709677bbee05", null ]
+    [ "m_guid", "d4/d72/a09535.html#afa8383c81a2d75f9ead2e8f3daa29086", null ],
+    [ "m_instance", "d4/d72/a09535.html#a8bc0c5e1cf45073f054c5154c21b3d72", null ],
+    [ "m_state", "d4/d72/a09535.html#a3ac18fb8f5d386e3245a2435e31e45e1", null ]
 ];

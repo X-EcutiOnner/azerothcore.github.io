@@ -1,5 +1,4 @@
 var a29351 =
 [
-    [ "id", "d0/df8/a29351.html#a22e48015dd880199e131089e35b1ce05", null ],
-    [ "spellId", "d0/df8/a29351.html#a956d683b42f34eae3a1ea3f8882716fd", null ]
+    [ "ratio", "d0/df8/a29351.html#ad5d1466406daa3696314ef2f6f18cd15", null ]
 ];

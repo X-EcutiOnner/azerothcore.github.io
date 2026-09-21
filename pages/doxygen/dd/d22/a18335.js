@@ -1,8 +1,6 @@
 var a18335 =
 [
-    [ "FilterTargets", "dd/d22/a18335.html#a1b125c887db7d2030838d0ac8e38c4e3", null ],
-    [ "HandleScript", "dd/d22/a18335.html#a4c7be5a65b1fb7e8db62691f5ef6b38d", null ],
-    [ "PrepareSpellScript", "dd/d22/a18335.html#ae6b30b8da52141c385f985435cac99a1", null ],
-    [ "Register", "dd/d22/a18335.html#a17dc25670b0f21525a01f6e7aa7eb572", null ],
-    [ "Validate", "dd/d22/a18335.html#accff1f03fb7c0d56cb197bb18348635c", null ]
+    [ "AbominationDespawner", "dd/d22/a18335.html#a3bbf8c5d4e42569ffe993a3c3b8ff95e", null ],
+    [ "operator()", "dd/d22/a18335.html#a58b8faac1cdffa7230783a1d6439fcfb", null ],
+    [ "_owner", "dd/d22/a18335.html#af9089e566905b885887a5714ad5b0741", null ]
 ];

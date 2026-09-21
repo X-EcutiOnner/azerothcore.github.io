@@ -1,8 +1,6 @@
 var a16795 =
 [
-    [ "npc_toc5_player_vehicleAI", "dd/d69/a16795.html#afa00a6254b482aae5397be04860ac8ba", null ],
-    [ "BeforeSpellClick", "dd/d69/a16795.html#aac7db7f40b47a9c098c98bacb7569faf", null ],
-    [ "OnCharmed", "dd/d69/a16795.html#ace805882a25a9d075d811714e607fa2b", null ],
-    [ "PassengerBoarded", "dd/d69/a16795.html#aca35804df751185193ff5865255d3687", null ],
-    [ "Reset", "dd/d69/a16795.html#a5439b98d544124836d2cf9762f764cea", null ]
+    [ "boss_eadricAI", "dc/dc7/a16799.html", "dc/dc7/a16799" ],
+    [ "boss_eadric", "dd/d69/a16795.html#ad32a08ec9fc2a31b5bcdcff67d0127d2", null ],
+    [ "GetAI", "dd/d69/a16795.html#a15235e86d0bdff0bd3fef5dbff3abb27", null ]
 ];

@@ -1,6 +1,8 @@
 var a27091 =
 [
-    [ "HandleScriptEffect", "d6/dd6/a27091.html#ab958c74ba8b40488751e5137eb0b6a66", null ],
-    [ "PrepareSpellScript", "d6/dd6/a27091.html#a810fcbfe27f3c6991d1c5f599609b6f7", null ],
-    [ "Register", "d6/dd6/a27091.html#a12c61c9057250f12ea50be74ba74c948", null ]
+    [ "CheckProc", "d6/dd6/a27091.html#ae73e9e1681eb191bb7e90a09c89b6c0d", null ],
+    [ "HandleProc", "d6/dd6/a27091.html#a3e6027433902a5f8b4955c766cca51b4", null ],
+    [ "PrepareAuraScript", "d6/dd6/a27091.html#a843b376abe1439d8431df9a70f40deb6", null ],
+    [ "Register", "d6/dd6/a27091.html#a0dcd926eaf184ad5758f833b1c185e33", null ],
+    [ "Validate", "d6/dd6/a27091.html#af13ff5845ea9121ceac37a4d93914f23", null ]
 ];

@@ -1,6 +1,9 @@
 var a21091 =
 [
-    [ "ModSanityStacks", "d1/dc5/a21091.html#a38b8425689f91b91e23096d658b462cf", null ],
-    [ "PrepareSpellScript", "d1/dc5/a21091.html#a43362033f7422a0b9918ddd3b7e480cc", null ],
-    [ "Register", "d1/dc5/a21091.html#a6d5e27f728ee3980d33d417fb437c9c6", null ]
+    [ "boss_yoggsaron_crusher_tentacle", "d1/dc5/a21091.html#a1649412beffbc87ce046a591775b02b2", null ],
+    [ "DamageTaken", "d1/dc5/a21091.html#aa38dbd7050000d3aab774a7b719912f4", null ],
+    [ "DoAction", "d1/dc5/a21091.html#a92eae6475d5db1cb59e161c8e65b565f", null ],
+    [ "Reset", "d1/dc5/a21091.html#aba082f8d2fa200eca9c52336df544221", null ],
+    [ "UpdateAI", "d1/dc5/a21091.html#ae22a12401dc98534da1cb771468a58ce", null ],
+    [ "_diminishReady", "d1/dc5/a21091.html#af8d417c56918cf59dfe3d8429c4cf239", null ]
 ];

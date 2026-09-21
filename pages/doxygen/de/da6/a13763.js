@@ -1,12 +1,6 @@
 var a13763 =
 [
-    [ "boss_kalecgos", "de/da6/a13763.html#a9a3eaee76ada967445cc0ed3d5ed21d2", null ],
-    [ "CanAIAttack", "de/da6/a13763.html#aa810a7eae5a6b1102e2e96022eaf5085", null ],
-    [ "CheckInRoom", "de/da6/a13763.html#a99cf385b11044c364b23fa8fc7e755ee", null ],
-    [ "ClearPlayerAuras", "de/da6/a13763.html#a17ffb7ec1b591acb0e5c359cb73ed2f6", null ],
-    [ "DoAction", "de/da6/a13763.html#aaccfa519a7290eb56990e43de4beea97", null ],
-    [ "JustEngagedWith", "de/da6/a13763.html#ab4d440dd0b66002b840bc4b3d3a8f7ef", null ],
-    [ "KilledUnit", "de/da6/a13763.html#a9844d54a8334ae5d20689593cd8a5e1a", null ],
-    [ "Reset", "de/da6/a13763.html#ad30cbd6d6fe343b9eb44fb96b0779551", null ],
-    [ "_sathBanished", "de/da6/a13763.html#a595eb66eb6f820efa29fcc5d631fe159", null ]
+    [ "HandleActivateObject", "de/da6/a13763.html#aedcb4513b7c53b9a9e972b9051da0e0f", null ],
+    [ "PrepareSpellScript", "de/da6/a13763.html#afc844250ea7ba48330edfda305fa856c", null ],
+    [ "Register", "de/da6/a13763.html#a6d77f6848397724e61c1db7a80de7139", null ]
 ];

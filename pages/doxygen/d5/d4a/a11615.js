@@ -1,8 +1,8 @@
 var a11615 =
 [
-    [ "QuestConfirmAccept", "d5/d4a/a11615.html#a96504f0bcddeb3f339552d95052595c9", null ],
-    [ "Write", "d5/d4a/a11615.html#add2f826fb7a8c9eed85e46a217dff0fc", null ],
-    [ "PlayerGuid", "d5/d4a/a11615.html#a591f77f3c6de30ac07e62a5bedded7d5", null ],
-    [ "QuestId", "d5/d4a/a11615.html#a4c857c0b173f5fd19f2a83123e8e0d44", null ],
-    [ "QuestTitle", "d5/d4a/a11615.html#abf35fe4b947f0b645010009388d80bcd", null ]
+    [ "PetSpellAutocast", "d5/d4a/a11615.html#ab858647d14031a2a6109d1e923402d08", null ],
+    [ "Read", "d5/d4a/a11615.html#a5c94e7acc04efbb2a50695ed4fdf7036", null ],
+    [ "AutocastEnabled", "d5/d4a/a11615.html#a3c04543dcd5382682654b3860b84c6a3", null ],
+    [ "PetGUID", "d5/d4a/a11615.html#aeed828abebf683078ee61204c91e28c9", null ],
+    [ "SpellID", "d5/d4a/a11615.html#a9afcd8b8bbd2e2fd07bc59219b1a80da", null ]
 ];

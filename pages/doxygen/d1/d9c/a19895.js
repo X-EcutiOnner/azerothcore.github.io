@@ -1,6 +1,8 @@
 var a19895 =
 [
-    [ "npc_centrifuge_constructAI", "d6/d2e/a19899.html", "d6/d2e/a19899" ],
-    [ "npc_centrifuge_construct", "d1/d9c/a19895.html#a3822eca10ab4a96126e0b4685751f4d3", null ],
-    [ "GetAI", "d1/d9c/a19895.html#a7356047de8a6d7bc6e903e982db2bc00", null ]
+    [ "npc_crystal_spike", "d1/d9c/a19895.html#aa6a6e12aba63c589e71b5ca28b924fd4", null ],
+    [ "Reset", "d1/d9c/a19895.html#a8cdca606ce482147d87ad5248665099e", null ],
+    [ "UpdateAI", "d1/d9c/a19895.html#abc04c8fba427c12630b4faf1d39bdb32", null ],
+    [ "_damageTimer", "d1/d9c/a19895.html#a36c70729a0c0281d467f870bfcde80ae", null ],
+    [ "_gameObjectGUID", "d1/d9c/a19895.html#a0c0e9a1883cee51201b039947b5bacf3", null ]
 ];

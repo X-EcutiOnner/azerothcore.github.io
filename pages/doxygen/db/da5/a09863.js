@@ -1,8 +1,8 @@
 var a09863 =
 [
-    [ "AllCreaturesMatchingOneEntryInRange", "db/da5/a09863.html#a440899ae5e52fedea316b7caa550455e", null ],
-    [ "operator()", "db/da5/a09863.html#a95c87356617b135cc3ab0aec74e9f9c9", null ],
-    [ "m_fRange", "db/da5/a09863.html#ac3ca671167fe5dbc8f9798327a8a3fcf", null ],
-    [ "m_pObject", "db/da5/a09863.html#a1a7b27a1b2f0d623829605e42bf98900", null ],
-    [ "m_uiEntries", "db/da5/a09863.html#a8411b275c6aad74eac83147a6d06fb0b", null ]
+    [ "AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck", "db/da5/a09863.html#ab3a1ebf25ef0da5df75a5a6a8bbf3ddf", null ],
+    [ "operator()", "db/da5/a09863.html#a2b38f9e66b1ba3bb678d763937852e02", null ],
+    [ "i_funit", "db/da5/a09863.html#aed6fe2e6d17e2076a373b32de071cd18", null ],
+    [ "i_obj", "db/da5/a09863.html#a65245ce627d5ccfde557f2d7e744ead6", null ],
+    [ "i_range", "db/da5/a09863.html#aff91ead572f2ed0d1912dbd0180196d5", null ]
 ];

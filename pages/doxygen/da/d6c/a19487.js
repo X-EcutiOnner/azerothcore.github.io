@@ -1,6 +1,6 @@
 var a19487 =
 [
-    [ "boss_gothikAI", "d0/d1f/a19491.html", "d0/d1f/a19491" ],
-    [ "boss_gothik", "da/d6c/a19487.html#a0c3ee990a1caf020e9a4be000f0b77e0", null ],
-    [ "GetAI", "da/d6c/a19487.html#aea7aec86c4132521fb7b9b6e87baf289", null ]
+    [ "npc_four_car_garageAI", "da/d6c/a19487.html#a2eedf5934e12d33cda0ac173d82220d5", null ],
+    [ "JustDied", "da/d6c/a19487.html#a1fba9f03dca2db37b5cb969079b25d22", null ],
+    [ "PassengerBoarded", "da/d6c/a19487.html#a144bc36a5c4ff227c8a7dc146d4167b6", null ]
 ];

@@ -1,6 +1,6 @@
 var a12199 =
 [
-    [ "cooldown", "d6/d12/a12199.html#affc13f6cd029447df6cb1db56df42147", null ],
-    [ "playerOnly", "d6/d12/a12199.html#a183ae9fd6863cbc9afe1f690c87f54e2", null ],
-    [ "triggerChance", "d6/d12/a12199.html#a3430fbb945b281cb5c2820130d4444a8", null ]
+    [ "CheckProcHandler", "d6/d12/a12199.html#a1b5bfc85cb9a81a64ebd4b769e3d3651", null ],
+    [ "Call", "d6/d12/a12199.html#a977558dc8838a05259effc268235696a", null ],
+    [ "_HandlerScript", "d6/d12/a12199.html#abcb28d1a2f32402511c1e659b2f3b443", null ]
 ];

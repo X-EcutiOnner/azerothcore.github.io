@@ -1,5 +1,9 @@
 var a17115 =
 [
-    [ "boss_fjolaAI", "d1/dfe/a17115.html#aa46fdff841d01f28ef50aa5363082f71", null ],
-    [ "JustSummoned", "d1/dfe/a17115.html#a59a3f2453f923d4f19c63e88402d1a76", null ]
+    [ "npc_fel_infernalAI", "d1/dfe/a17115.html#a7f34b34facdfeea3fc3507ad3cf84dda", null ],
+    [ "EnterEvadeMode", "d1/dfe/a17115.html#aedec8729b9be931a74fe00d1aa649848", null ],
+    [ "JustDied", "d1/dfe/a17115.html#a599786069f98231eeb7f9ca809f8e671", null ],
+    [ "Reset", "d1/dfe/a17115.html#a09f408c9250467228b91ef9f6c9544f4", null ],
+    [ "UpdateAI", "d1/dfe/a17115.html#a45075fdaba6d7c04cb526420deb8a0ac", null ],
+    [ "events", "d1/dfe/a17115.html#acf955037c246f7b5f12cc5338b300b63", null ]
 ];

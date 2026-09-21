@@ -1,7 +1,4 @@
 var a05087 =
 [
-    [ "Crash", "d2/d78/a05087.html#a510bae7d9948cf497418ec913452009f", null ],
-    [ "GetDebugInfo", "d2/d78/a05087.html#a29601d3ea684d75bac9c331eb4866951", null ],
-    [ "MakeAbortMessage", "d2/d78/a05087.html#a52b8a43ee2424672ac8de45dcc283eda", null ],
-    [ "MakeMessage", "d2/d78/a05087.html#a31219fe016a9b170fc6ae111157ba552", null ]
+    [ "ProducerConsumerQueue< T >", "d8/df0/a05791.html", "d8/df0/a05791" ]
 ];

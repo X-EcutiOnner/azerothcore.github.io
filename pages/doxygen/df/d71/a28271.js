@@ -1,7 +1,6 @@
 var a28271 =
 [
-    [ "go_bear_trapAI", "df/d71/a28271.html#ad97484d73bcea6a84909004c099eec34", null ],
-    [ "Initialize", "df/d71/a28271.html#a89c76f1563f541c572c48f8cf633aa6a", null ],
-    [ "UpdateAI", "df/d71/a28271.html#a8901922d736bb0391da5618593ced5c5", null ],
-    [ "_events", "df/d71/a28271.html#a59f37a130326818dd922763ae9058fe7", null ]
+    [ "boss_emerissAI", "df/da5/a28275.html", "df/da5/a28275" ],
+    [ "boss_emeriss", "df/d71/a28271.html#a2d373e5add3f007cf214ad9763039aa2", null ],
+    [ "GetAI", "df/d71/a28271.html#a88a0696a12f12e612cce53c14f6b1f92", null ]
 ];

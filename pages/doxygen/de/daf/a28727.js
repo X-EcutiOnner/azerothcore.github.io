@@ -1,6 +1,6 @@
 var a28727 =
 [
-    [ "npc_necropolis_relay", "de/daf/a28727.html#a044958acd1449d664532aeea7d0cb2fd", null ],
-    [ "SpellHit", "de/daf/a28727.html#a45fdef0f86f18b87b90d2b4f9c0df9cb", null ],
-    [ "SpellHitTarget", "de/daf/a28727.html#a1968d3537de2bdb9d4786cc96d2c346c", null ]
+    [ "npc_pet_trainerAI", "d7/d9a/a28731.html", "d7/d9a/a28731" ],
+    [ "npc_pet_trainer", "de/daf/a28727.html#ac2279bce52e911b1c339da5e68aa2501", null ],
+    [ "GetAI", "de/daf/a28727.html#a4ecf9ac0abf43a00dc6bff2d2283eb37", null ]
 ];

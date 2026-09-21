@@ -1,8 +1,8 @@
 var a13923 =
 [
-    [ "npc_sunblade_arch_mage", "d9/d0c/a13923.html#a25cc45033c55f1099b50eab4b4f497ee", null ],
-    [ "JustEngagedWith", "d9/d0c/a13923.html#aadeae32d691229b7b7b531175b8a5018", null ],
-    [ "Reset", "d9/d0c/a13923.html#a0d0349ea507b1f8431014c55eef5ce0e", null ],
-    [ "UpdateAI", "d9/d0c/a13923.html#a3289fbad5f987a3d5d9986a31a1c442f", null ],
-    [ "scheduler", "d9/d0c/a13923.html#aa6680f06651316996868907b1d28126c", null ]
+    [ "HandleApply", "d9/d0c/a13923.html#a2c64240e8675fc76598600ae2632570f", null ],
+    [ "HandleRemove", "d9/d0c/a13923.html#a2a6e32bbc9b722ad7e872c6a26daa6bb", null ],
+    [ "PrepareAuraScript", "d9/d0c/a13923.html#a6ff74fbaf3a6ef84024d55528fd6f8e2", null ],
+    [ "Register", "d9/d0c/a13923.html#aebfb4b20a9b0ebefff652a0ae1727994", null ],
+    [ "Validate", "d9/d0c/a13923.html#abdad49fe5e0a72799847fdfcfe22eec0", null ]
 ];

@@ -1,12 +1,24 @@
 var a07627 =
 [
-    [ "Arena", "d9/d95/a07627.html#a74f105bc709d4728fb07f1984abfd345", null ],
-    [ "AddPlayer", "d9/d95/a07627.html#ae24fe304d35c0c09379203135e936450", null ],
-    [ "CheckWinConditions", "d9/d95/a07627.html#a886b586f7ab6fc89d76e86cb811989b8", null ],
-    [ "EndBattleground", "d9/d95/a07627.html#a2be61602189b530a16a9ca954d180914", null ],
-    [ "FillInitialWorldStates", "d9/d95/a07627.html#a592100d0f0ed492a5cdf941e57db787f", null ],
-    [ "HandleKillPlayer", "d9/d95/a07627.html#ae0a56f524bfc9eec6753874ce35d0466", null ],
-    [ "RemovePlayer", "d9/d95/a07627.html#ab5348b8bd4bfd58c01cdf61f16f72db1", null ],
-    [ "RemovePlayerAtLeave", "d9/d95/a07627.html#acae21233e11b21b612e5c051bfa7720e", null ],
-    [ "UpdateArenaWorldState", "d9/d95/a07627.html#a422925ee29e9a5f64aeb4264169ff2d6", null ]
+    [ "BattlefieldMap", "d9/d95/a07627.html#af0b5390f581e99d207ec06c9645d9d63", null ],
+    [ "BattlefieldSet", "d9/d95/a07627.html#aebece89a427833b4005c67761bba7262", null ],
+    [ "BattlefieldMgr", "d9/d95/a07627.html#afaa79f63a91c6b585b4bf10dfdf60af6", null ],
+    [ "~BattlefieldMgr", "d9/d95/a07627.html#a0d5b198add5190e99a1763a168ce2895", null ],
+    [ "AddZone", "d9/d95/a07627.html#a40a5ca1cd0f0baa8ffd47bc91700a7ac", null ],
+    [ "CanTalkTo", "d9/d95/a07627.html#a18fdd3c81b5641e296318f1113acf73f", null ],
+    [ "GetBattlefieldByBattleId", "d9/d95/a07627.html#a94f2a876f8ea677bfb8bc3acfd8f238b", null ],
+    [ "GetBattlefieldToZoneId", "d9/d95/a07627.html#a223e8c73e41441f25e557d78ddb97b81", null ],
+    [ "GetZoneScript", "d9/d95/a07627.html#accd1dc8e86bc9ab5618483e609b9314d", null ],
+    [ "HandleDropFlag", "d9/d95/a07627.html#a19b23ca8dc68ceaaca9078a33b62b70e", null ],
+    [ "HandleGossipOption", "d9/d95/a07627.html#aaf6b062e5dde772aa17afef185f916ad", null ],
+    [ "HandlePlayerEnterZone", "d9/d95/a07627.html#a733f42fdc343d070220e8c56f24fe4ac", null ],
+    [ "HandlePlayerLeaveZone", "d9/d95/a07627.html#a89aa3d5d27fe61a13e381f13c599de90", null ],
+    [ "HandlePlayerResurrects", "d9/d95/a07627.html#a458fb8b4943de82f0574ddd63ba466a9", null ],
+    [ "InitBattlefield", "d9/d95/a07627.html#a244ce1743c237e95c08dc8861f3ce4b3", null ],
+    [ "instance", "d9/d95/a07627.html#af96d6d44aa8936f94c20d1bd92af2fb3", null ],
+    [ "IsWintergraspAttackerVictory", "d9/d95/a07627.html#a188f15f4cac5151c2338f3e646061a51", null ],
+    [ "Update", "d9/d95/a07627.html#a15548a7b124741e2fa9f36f1bf087458", null ],
+    [ "_battlefieldMap", "d9/d95/a07627.html#a08c3f04abda757dd62a9e90fdbba26f9", null ],
+    [ "_battlefieldSet", "d9/d95/a07627.html#a4d6325668521e88a17a67318970570e1", null ],
+    [ "_updateTimer", "d9/d95/a07627.html#a62c5a7865d10618b0db6e098a99d0230", null ]
 ];

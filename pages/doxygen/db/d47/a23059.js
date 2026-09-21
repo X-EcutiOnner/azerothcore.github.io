@@ -1,11 +1,9 @@
 var a23059 =
 [
-    [ "boss_supremus", "db/d47/a23059.html#af1f094534b0e2dec70422839a02327cd", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "db/d47/a23059.html#a2654bf5b1d5b6da723d4968219e069a9", null ],
-    [ "FindHatefulStrikeTarget", "db/d47/a23059.html#af560466902d0d372662020e1a67b627c", null ],
-    [ "JustEngagedWith", "db/d47/a23059.html#a7d3a5e2c183db7639a7c25f309359ed1", null ],
-    [ "JustSummoned", "db/d47/a23059.html#a7265a01fa79213ab6d8b82a4c92b7661", null ],
-    [ "Reset", "db/d47/a23059.html#a0eaa29849a2571417d4826d238d72e25", null ],
-    [ "SchedulePhase", "db/d47/a23059.html#a87e3943d6c645138853aa97644f9df0e", null ],
-    [ "SummonedCreatureDespawn", "db/d47/a23059.html#a2ae72bfef577654e676a64eb2e4efa7a", null ]
+    [ "FilterTargets", "db/d47/a23059.html#aa8f0401dd004e816b8071381289116fa", null ],
+    [ "HandleTeleportUnits", "db/d47/a23059.html#a4333f10a29ef3e5643f637899a0ab5c5", null ],
+    [ "PrepareSpellScript", "db/d47/a23059.html#a47898c213cdd125714c80d327bf42d8c", null ],
+    [ "Register", "db/d47/a23059.html#a6036577cd7b4fbbc55e90e9ab067f13a", null ],
+    [ "SetDest", "db/d47/a23059.html#a4cf75d96a0d1de62bc989826204b04c9", null ],
+    [ "Validate", "db/d47/a23059.html#a814083360970284a325621f45e109b5b", null ]
 ];

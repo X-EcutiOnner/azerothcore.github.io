@@ -1,7 +1,9 @@
 var a01694 =
 [
-    [ "operator<<", "d4/d8e/a01694.html#a71323635f122d24189054da615cb39e1", null ],
-    [ "operator<<", "d4/d8e/a01694.html#ab63323f8a9ade40ddd90338538b5c9b5", null ],
-    [ "operator>>", "d4/d8e/a01694.html#a72e22c3226b5f361848aef2c75a6d3fb", null ],
-    [ "operator>>", "d4/d8e/a01694.html#af223d782e9dcf0f80ed4009360aa0d80", null ]
+    [ "PetSpell", "d6/ded/a08959.html", "d6/ded/a08959" ],
+    [ "Pet", "dc/d26/a08963.html", "dc/d26/a08963" ],
+    [ "AutoSpellList", "d4/d8e/a01694.html#a85baf40bd776b1c20b66ba7ad78e0356", null ],
+    [ "PetSpellMap", "d4/d8e/a01694.html#a5b33058abef8c309621a9029df331c0e", null ],
+    [ "HAPPINESS_LEVEL_SIZE", "d4/d8e/a01694.html#a892e58d225a828ccac38c7d241365e30", null ],
+    [ "PET_LOSE_HAPPINES_INTERVAL", "d4/d8e/a01694.html#aa23de8f28ae915637ac3f4f6429b59fb", null ]
 ];

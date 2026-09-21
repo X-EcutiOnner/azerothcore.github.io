@@ -1,7 +1,9 @@
 var a24975 =
 [
-    [ "HandleProc", "df/db1/a24975.html#a0f6b9ad6208ff008ac71161e6062158f", null ],
-    [ "PrepareAuraScript", "df/db1/a24975.html#a3dad1a05159064843463c3d043f2c161", null ],
-    [ "Register", "df/db1/a24975.html#a0ab7dd9dc217b31ca1f9b25505f6b22e", null ],
-    [ "Validate", "df/db1/a24975.html#ab7b1f2a007eef4dca7194dc534a5e6fe", null ]
+    [ "Absorb", "df/db1/a24975.html#a8f6e773840274e07d685c891561f72d8", null ],
+    [ "CalculateAmount", "df/db1/a24975.html#af337ef5d5cea283f4e43b943961838d6", null ],
+    [ "Load", "df/db1/a24975.html#a65f51613dd3614f5b0e3e1dc938f56cf", null ],
+    [ "PrepareAuraScript", "df/db1/a24975.html#a5c2eca05834a29fa6d5d7dd3c75e52ed", null ],
+    [ "Register", "df/db1/a24975.html#a80982626e1b67374629cb6e0800ccaea", null ],
+    [ "absorbPct", "df/db1/a24975.html#a7ce98d22bb4a28f94366b4c08f76b61a", null ]
 ];

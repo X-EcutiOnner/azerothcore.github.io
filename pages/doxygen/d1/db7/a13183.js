@@ -1,5 +1,6 @@
 var a13183 =
 [
-    [ "npc_chess_move_trigger", "d1/db7/a13183.html#a6c0c37677db45ee11ebe158893d99632", null ],
-    [ "DamageTaken", "d1/db7/a13183.html#af413c7af2254c1cc06462b2a62ac88db", null ]
+    [ "boss_sulfuron", "d1/db7/a13183.html#a7ede84fab05e5cb008036be559c3c799", null ],
+    [ "ExecuteEvent", "d1/db7/a13183.html#a5db50a398c704d8276566c1d74111d19", null ],
+    [ "JustEngagedWith", "d1/db7/a13183.html#a320f58043ee525656a7c2fe94a2a4371", null ]
 ];

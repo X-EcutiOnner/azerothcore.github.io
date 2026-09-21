@@ -1,5 +1,6 @@
 var a02306 =
 [
-    [ "mail_commandscript", "d9/d69/a12577.html", "d9/d69/a12577" ],
-    [ "AddSC_mail_commandscript", "d3/dc5/a02306.html#a60390ceaf08c6b305bdc77fd27243938", null ]
+    [ "lfg_commandscript", "d3/dc2/a12579.html", "d3/dc2/a12579" ],
+    [ "AddSC_lfg_commandscript", "d3/dc5/a02306.html#a484938015a7f5ffa8f5b1d0e259d355b", null ],
+    [ "GetPlayerInfo", "d3/dc5/a02306.html#a1d2591add059e8c4daf04b9f706da765", null ]
 ];

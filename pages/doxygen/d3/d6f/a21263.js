@@ -1,6 +1,9 @@
 var a21263 =
 [
-    [ "boss_palehoofAI", "dc/d9b/a21267.html", "dc/d9b/a21267" ],
-    [ "boss_palehoof", "d3/d6f/a21263.html#ac0e541befaad7e1e6e318d64ca4a1d94", null ],
-    [ "GetAI", "d3/d6f/a21263.html#ae33ca6e71b251214be50168a5940d058", null ]
+    [ "npc_ulduar_keeperAI", "d3/d6f/a21263.html#ac69d21f3820f2c01a80ff664c317d111", null ],
+    [ "DoAction", "d3/d6f/a21263.html#a03011d04761926d67e43c0bea5a0901f", null ],
+    [ "Reset", "d3/d6f/a21263.html#a86971339e6fcbffb3c019e4dc29972b3", null ],
+    [ "SpellHit", "d3/d6f/a21263.html#a18f22ca155646a6f40e0627f9d6dc337", null ],
+    [ "UpdateAI", "d3/d6f/a21263.html#a9af455266dd2a843ac1a2c4e56d50e78", null ],
+    [ "_keeper", "d3/d6f/a21263.html#ad8cd47f6c75042d589fc6fae4603c9f2", null ]
 ];

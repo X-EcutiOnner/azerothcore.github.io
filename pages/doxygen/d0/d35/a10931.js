@@ -1,9 +1,10 @@
 var a10931 =
 [
-    [ "ServerPacket", "d0/d35/a10931.html#a4d2bf169dd705b886da8ff58a7ef4bd2", null ],
-    [ "Clear", "d0/d35/a10931.html#aa54f2fa66cfe4682ca56cf01f9e1296a", null ],
-    [ "GetOpcode", "d0/d35/a10931.html#a639ab6c078d7c746bcb328526df705be", null ],
-    [ "Move", "d0/d35/a10931.html#a659397042201ae571bb564872e54d2c6", null ],
-    [ "Read", "d0/d35/a10931.html#ae49aa7bce566d9f0ea3c7bbb487a119d", null ],
-    [ "ShrinkToFit", "d0/d35/a10931.html#a6fa19a94d57484aaff3498be01495258", null ]
+    [ "TicketScript", "d0/d35/a10931.html#aec2b310ba0b26aa84a245207256edb0e", null ],
+    [ "IsDatabaseBound", "d0/d35/a10931.html#afa21fa5aaf58c4ff964bcb3f81afbb32", null ],
+    [ "OnTicketClose", "d0/d35/a10931.html#add082bd9a2d3a068bbb8f3a97d130887", null ],
+    [ "OnTicketCreate", "d0/d35/a10931.html#a3436bbc78425bf5144c81f6309060b33", null ],
+    [ "OnTicketResolve", "d0/d35/a10931.html#abd4d9cdf0fd99c10d6d86c395adecb9a", null ],
+    [ "OnTicketStatusUpdate", "d0/d35/a10931.html#ae30b28cef4497cbed153c3e98e26d00d", null ],
+    [ "OnTicketUpdateLastChange", "d0/d35/a10931.html#a3535e5592bc5f9ceb6b642b80a4f46b7", null ]
 ];

@@ -1,6 +1,6 @@
 var a20127 =
 [
-    [ "PrepareSpellScript", "d2/d35/a20127.html#af7426e99a49f8618fc38242ded7132f1", null ],
-    [ "RecalculateDamage", "d2/d35/a20127.html#a94e70b20f2139f668227dccb623c1af6", null ],
-    [ "Register", "d2/d35/a20127.html#acd911f78780e052d88f5f47574092d62", null ]
+    [ "boss_sjonnir_malformed_oozeAI", "de/d9b/a20131.html", "de/d9b/a20131" ],
+    [ "boss_sjonnir_malformed_ooze", "d2/d35/a20127.html#ad151bc07b032b6cceed046d1b25ecc08", null ],
+    [ "GetAI", "d2/d35/a20127.html#a22807bb07692511c5ec87073d98c2604", null ]
 ];

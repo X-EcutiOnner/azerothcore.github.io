@@ -1,6 +1,5 @@
 var a19763 =
 [
-    [ "HandleScript", "d3/dea/a19763.html#aaa7bd24d0b1245e0c2b04c21fa4ef85c", null ],
-    [ "PrepareSpellScript", "d3/dea/a19763.html#ad1eae4d206e9e9e48230f60a2961fddb", null ],
-    [ "Register", "d3/dea/a19763.html#ae6685e7fd80373f2fc9a37cd4065f8b6", null ]
+    [ "at_thaddius_entrance", "d3/dea/a19763.html#ad81a60cac337baad82ea526de1d151d1", null ],
+    [ "_OnTrigger", "d3/dea/a19763.html#a5e8954c265ead9ab5347b8921e5bd1bb", null ]
 ];

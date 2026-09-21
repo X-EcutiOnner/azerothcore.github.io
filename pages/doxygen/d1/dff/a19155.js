@@ -1,5 +1,6 @@
 var a19155 =
 [
-    [ "npc_darkfallen_tactician", "d1/dff/a19155.html#a946ccdf41d93a3477204e303c3404c5c", null ],
-    [ "ScheduleSpells", "d1/dff/a19155.html#a26dcb830533771faf8ebc90995ea010b", null ]
+    [ "npc_captain_brandonAI", "d1/dff/a19155.html#a1fe09b93be658660ba3c127c142e2ee6", null ],
+    [ "Reset", "d1/dff/a19155.html#a13226b321707eee9faf5f073c81403e4", null ],
+    [ "UpdateAI", "d1/dff/a19155.html#a721f8f7395cd57d4dba74f66ae40169f", null ]
 ];

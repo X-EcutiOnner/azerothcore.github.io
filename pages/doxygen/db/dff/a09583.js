@@ -1,12 +1,10 @@
 var a09583 =
 [
-    [ "GridTerrainLoader", "db/dff/a09583.html#a9f5094ad19163dc8ac3f3c4bada48ee9", null ],
-    [ "ExistMap", "db/dff/a09583.html#a980cb9f6537642db8ae0825d14b6bb68", null ],
-    [ "ExistVMap", "db/dff/a09583.html#a17bdde445c48738ade280bd1cdda0619", null ],
-    [ "LoadMap", "db/dff/a09583.html#ac220ce61dd0c3e514dcff2465c61af0f", null ],
-    [ "LoadMMap", "db/dff/a09583.html#a8b3be4eb509393af8a2a927bc15947c9", null ],
-    [ "LoadTerrain", "db/dff/a09583.html#a097556a8a778efa22ab9d50cbda2649a", null ],
-    [ "LoadVMap", "db/dff/a09583.html#ac4e66140ef37fb3dc0f990cc196d106f", null ],
-    [ "_grid", "db/dff/a09583.html#a1ec8202457f9df4fdc3b356e30f1a15d", null ],
-    [ "_map", "db/dff/a09583.html#a2547ac0b9ee6ae7b760227d5051dea85", null ]
+    [ "iterator", "db/dff/a09583.html#a6bf9d06cfe6cb2e7df465ebf2acc099f", null ],
+    [ "begin", "db/dff/a09583.html#a1e4e67ba11ac8da077942a6581647bf3", null ],
+    [ "end", "db/dff/a09583.html#a266acb421cfc6ccc56dc2acff3202971", null ],
+    [ "getFirst", "db/dff/a09583.html#aa0156c2ad3ec5ca0df6f6a4c55d71a05", null ],
+    [ "getLast", "db/dff/a09583.html#a46a36813eaf752815a3f8c739db88a5d", null ],
+    [ "rbegin", "db/dff/a09583.html#ae69734978b5eec009a696861b7b7152b", null ],
+    [ "rend", "db/dff/a09583.html#a3f7b88b333f1da3a6ffdfc8ec31d8f52", null ]
 ];

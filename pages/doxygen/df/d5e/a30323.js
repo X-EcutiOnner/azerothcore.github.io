@@ -1,10 +1,13 @@
 var a30323 =
 [
-    [ "ADTFile", "df/d5e/a30323.html#a763f0f9c1106700987797864b2fdb006", null ],
-    [ "~ADTFile", "df/d5e/a30323.html#ad1533f5b630a70b6ff95861e64960de0", null ],
-    [ "init", "df/d5e/a30323.html#ab9ba3b1a2aac611bec5bfe4a454e4042", null ],
-    [ "_file", "df/d5e/a30323.html#a7f3071e63be08fe3288d5ab03b5b8acf", null ],
-    [ "Adtfilename", "df/d5e/a30323.html#a07c82112e26b96a87e22f1c7bec9c72e", null ],
-    [ "ModelInstanceNames", "df/d5e/a30323.html#a6601e20fed78c54bb281ad3bd0ce7800", null ],
-    [ "WmoInstanceNames", "df/d5e/a30323.html#acd96c287a01828bf3e49fb599a3b5d81", null ]
+    [ "MPQArchive", "df/d5e/a30323.html#a01c755d82896f5eff33101151ee78fda", null ],
+    [ "~MPQArchive", "df/d5e/a30323.html#a5bce22525ca16381fbb4729540a165e2", null ],
+    [ "MPQArchive", "df/d5e/a30323.html#a01c755d82896f5eff33101151ee78fda", null ],
+    [ "~MPQArchive", "df/d5e/a30323.html#a5bce22525ca16381fbb4729540a165e2", null ],
+    [ "close", "df/d5e/a30323.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
+    [ "close", "df/d5e/a30323.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
+    [ "GetFileListTo", "df/d5e/a30323.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
+    [ "GetFileListTo", "df/d5e/a30323.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
+    [ "isOpened", "df/d5e/a30323.html#a2026335b9ede29197acfaac8513456d5", null ],
+    [ "mpq_a", "df/d5e/a30323.html#a72b9fb96b1e3db6c7be652e426978b4a", null ]
 ];

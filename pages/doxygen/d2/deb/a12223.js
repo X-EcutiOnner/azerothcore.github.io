@@ -1,11 +1,13 @@
 var a12223 =
 [
-    [ "WorldUpdateTime", "d2/deb/a12223.html#a97552c4ce99bd40919f199c17fe203ed", null ],
-    [ "LoadFromConfig", "d2/deb/a12223.html#acb2b9d56504fc760e7df1c93621ab788", null ],
-    [ "RecordUpdateTime", "d2/deb/a12223.html#a88d773c8029cebeab6b99444c25c8379", null ],
-    [ "RecordUpdateTimeDuration", "d2/deb/a12223.html#a3ae299cfba6adcbb4e38af40313428fc", null ],
-    [ "SetRecordUpdateTimeInterval", "d2/deb/a12223.html#ada81050229ccacc49d5b6a9f6101174c", null ],
-    [ "_lastRecordTime", "d2/deb/a12223.html#a7bc68a1a700deb4bc4d19992edf3ffa7", null ],
-    [ "_recordUpdateTimeInverval", "d2/deb/a12223.html#a5486477b0a604f0207336e423f42c2b1", null ],
-    [ "_recordUpdateTimeMin", "d2/deb/a12223.html#a6b8a8d1b61f9ecec591165fa334972fc", null ]
+    [ "AsyncFunction", "d2/deb/a12223.html#a2addfa1b63edc880ca54fc46e0a6d94b", null ],
+    [ "CallbackFunction", "d2/deb/a12223.html#ab2d6148aad6c533ac787ebef69250357", null ],
+    [ "AsyncTask", "d2/deb/a12223.html#ad6f8ee54d3e1b0736e34362cd30f1365", null ],
+    [ "~AsyncTask", "d2/deb/a12223.html#a553b3c1b778f9dadea8b764f210b8d8c", null ],
+    [ "ExecuteAsync", "d2/deb/a12223.html#a1cdc60ddffaa431d19c992c0e389b85d", null ],
+    [ "InvokeIfReady", "d2/deb/a12223.html#aecfe1b8d9ab2be59f564939dde44cfb9", null ],
+    [ "asyncFunc", "d2/deb/a12223.html#a835a7b06185916adfb632d27ef73c9ce", null ],
+    [ "asyncTask", "d2/deb/a12223.html#a81e22f584cc7d48594751038ac113ab2", null ],
+    [ "callbackFunc", "d2/deb/a12223.html#a9eb4e4b1eddea03bc0197758d34f9325", null ],
+    [ "isReady", "d2/deb/a12223.html#af4b96cd278382c34dbaaa3782df8371b", null ]
 ];

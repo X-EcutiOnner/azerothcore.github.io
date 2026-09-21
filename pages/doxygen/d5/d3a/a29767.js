@@ -1,5 +1,7 @@
 var a29767 =
 [
-    [ "SetUp", "d5/d3a/a29767.html#aa33aaf63e128603a305fc5cfcd6d455a", null ],
-    [ "TearDown", "d5/d3a/a29767.html#aa382128c47a08c27c9f2b0ed3958f9bf", null ]
+    [ "flatModifier", "d5/d3a/a29767.html#a781485dfaede63716eddba66971600e3", null ],
+    [ "hasSpellModOwner", "d5/d3a/a29767.html#aa80132f8b5cb980a4a703810fe3fa1a4", null ],
+    [ "hasSpellProto", "d5/d3a/a29767.html#a96607da311b5774eeaa01674d32ab22e", null ],
+    [ "pctModifier", "d5/d3a/a29767.html#aaf5a1e1118b0dcd155529978bdc172db", null ]
 ];

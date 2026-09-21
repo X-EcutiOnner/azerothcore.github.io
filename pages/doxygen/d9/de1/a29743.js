@@ -1,15 +1,15 @@
 var a29743 =
 [
-    [ "MOCK_METHOD", "d9/de1/a29743.html#ad315c9b44cd400050ba5d0ede0a6ed38", null ],
-    [ "MOCK_METHOD", "d9/de1/a29743.html#a70f7f432cdb5248e4d7538e989d45c11", null ],
-    [ "MOCK_METHOD", "d9/de1/a29743.html#ab1469fe474ab6290bfd8d8222392fdb1", null ],
-    [ "MOCK_METHOD", "d9/de1/a29743.html#a72198bd1a85cc6fea8665fb7e0b19ee5", null ],
-    [ "MOCK_METHOD", "d9/de1/a29743.html#aebca824eff5f8d2f7c210abdcdf1ed7d", null ],
-    [ "MOCK_METHOD", "d9/de1/a29743.html#afc487e92b80c573fd5b01400204401da", null ],
-    [ "MOCK_METHOD", "d9/de1/a29743.html#a5e71c6a07e54153dd5081af175031c18", null ],
-    [ "MOCK_METHOD", "d9/de1/a29743.html#af6fccda3c70d3ddb643dcae31d63c205", null ],
-    [ "MOCK_METHOD", "d9/de1/a29743.html#acccf2037a6b3dbccbadedfdcb7d4c95d", null ],
-    [ "MOCK_METHOD", "d9/de1/a29743.html#aff433673cca191db03810f378879eae1", null ],
-    [ "MOCK_METHOD", "d9/de1/a29743.html#a0cbd6994e0de9a0052bdcc8750881eac", null ],
-    [ "MOCK_METHOD", "d9/de1/a29743.html#a4d624c7be7180f8c85b624e87601d659", null ]
+    [ "DamageInfoStubBuilder", "d9/de1/a29743.html#a282b4f92722f9cf12358a9f603df6902", null ],
+    [ "Build", "d9/de1/a29743.html#ad50ac35ca7a10f0eb20383fbde4a54dc", null ],
+    [ "WithAbsorb", "d9/de1/a29743.html#a3533bbda604c4ed6ac467f28ecb60fbe", null ],
+    [ "WithAttackType", "d9/de1/a29743.html#a4fd9332aa42002056d3f9191cd4435d7", null ],
+    [ "WithBlock", "d9/de1/a29743.html#a81381d471627ddd6e86678551ca4ab5b", null ],
+    [ "WithDamage", "d9/de1/a29743.html#abf9d30cde831f2094a181a312bcfe9df", null ],
+    [ "WithHitMask", "d9/de1/a29743.html#a161f5ea9ae33541dfcfd600fc5546b20", null ],
+    [ "WithOriginalDamage", "d9/de1/a29743.html#a3265aa4aa273cc9ededb6c9673f6c9e3", null ],
+    [ "WithResist", "d9/de1/a29743.html#a76827724d8b8d780dc5d136ca01e51e6", null ],
+    [ "WithSchoolMask", "d9/de1/a29743.html#ab540fcb56c4034daea104a1b844bdb3a", null ],
+    [ "WithSpellInfo", "d9/de1/a29743.html#a681fe7d0c7f3b4136ad4ba2a662e6393", null ],
+    [ "_stub", "d9/de1/a29743.html#abf06c6b638dcd9489fa0e3d755433514", null ]
 ];

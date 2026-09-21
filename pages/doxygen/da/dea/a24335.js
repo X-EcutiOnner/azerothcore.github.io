@@ -1,15 +1,6 @@
 var a24335 =
 [
-    [ "dragonmaw_race_npc", "da/dea/a24335.html#ad93bcd14a4fd05c9e8a1aee4dd53d4aa", null ],
-    [ "FailQuest", "da/dea/a24335.html#a15a1223f9dc5d3979485a753687f169e", null ],
-    [ "FinishRace", "da/dea/a24335.html#a2439f54aca4ff28c23d351245099a4fc", null ],
-    [ "MovementInform", "da/dea/a24335.html#ad0b4ef357605a44a4188c29292303dcf", null ],
-    [ "PathEndReached", "da/dea/a24335.html#a6b93a5fb6beb8e8b886f6bf8bb58d3d2", null ],
-    [ "Reset", "da/dea/a24335.html#a0edde2bdb8d4d2204551ebc7a7c41fe9", null ],
-    [ "sQuestAccept", "da/dea/a24335.html#a539fcaf1dc25a34531d032032c19182e", null ],
-    [ "StartRace", "da/dea/a24335.html#ac7d20cb0f2a997d2306195da5c9004e8", null ],
-    [ "StartRaceAttacks", "da/dea/a24335.html#a341528843b89a29711f60a1b932da616", null ],
-    [ "TakeOff", "da/dea/a24335.html#a8b14aeb1e67059a159f42aad578ccbfb", null ],
-    [ "UpdateAI", "da/dea/a24335.html#a5d84467b3fa0c3eefcf7054d0dde472c", null ],
-    [ "_playerGUID", "da/dea/a24335.html#a8a172511afed700d5c0fa1d5de4cb379", null ]
+    [ "npc_mature_netherwing_drakeAI", "d3/d81/a24339.html", "d3/d81/a24339" ],
+    [ "npc_mature_netherwing_drake", "da/dea/a24335.html#a3369bd143ff9e46a4ad4c44b6d8c0ec5", null ],
+    [ "GetAI", "da/dea/a24335.html#ac5a1dad24920396156f22ab02bfab84b", null ]
 ];

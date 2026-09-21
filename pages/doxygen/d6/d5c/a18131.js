@@ -1,7 +1,6 @@
 var a18131 =
 [
-    [ "HandleScript", "d6/d5c/a18131.html#ae3e8d811d3ad6561768dfff3a16ec9bd", null ],
-    [ "PrepareSpellScript", "d6/d5c/a18131.html#ab69926839f72ee76eba2b225aba9690c", null ],
-    [ "Register", "d6/d5c/a18131.html#aad8925e891d7537993f02f3bc2552fea", null ],
-    [ "SelectRandomTarget", "d6/d5c/a18131.html#aae77f6693a3e5d01e3d05cb990fd1fe5", null ]
+    [ "npc_gunship_rocketeerAI", "d5/d46/a18135.html", "d5/d46/a18135" ],
+    [ "npc_gunship_rocketeer", "d6/d5c/a18131.html#a7ed2cf258269f239bb73f2f06411db07", null ],
+    [ "GetAI", "d6/d5c/a18131.html#a4f9c1b09e9e5b9dd337fe9210ab7038c", null ]
 ];

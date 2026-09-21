@@ -1,6 +1,10 @@
 var a11095 =
 [
-    [ "GuildInviteByName", "dc/da4/a11095.html#a5e0bab98d87000ad796ebb2753cd566b", null ],
-    [ "Read", "dc/da4/a11095.html#a91f3fba33e265cbb119f1d3e69d4a8ca", null ],
-    [ "Name", "dc/da4/a11095.html#a048c7ed9de19bcb57c0cdb10e2cf3bef", null ]
+    [ "EnvironmentalDamageLog", "dc/da4/a11095.html#ab4311f6516d9b7491abf5cb2ba9a0ee0", null ],
+    [ "Write", "dc/da4/a11095.html#af7d49b8d57100cf2c3048d5415a4edc7", null ],
+    [ "Absorbed", "dc/da4/a11095.html#a443df04be3afe2021532716140ffb099", null ],
+    [ "Amount", "dc/da4/a11095.html#a073e22176d44f5806313c2a4bd3e263a", null ],
+    [ "Resisted", "dc/da4/a11095.html#ad20a9730af3088d93ac56d89b6f66b12", null ],
+    [ "Type", "dc/da4/a11095.html#a51df177d9ce6a8459bc8fa41f80cdb7a", null ],
+    [ "Victim", "dc/da4/a11095.html#a020fffe9517d30e965a4d6f6602dd05f", null ]
 ];

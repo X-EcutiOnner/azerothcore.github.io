@@ -1,7 +1,6 @@
 var a17539 =
 [
-    [ "HandleEffectPeriodic", "d5/d08/a17539.html#a370e2cbf796c1bc0a891243b61c057e1", null ],
-    [ "PrepareAuraScript", "d5/d08/a17539.html#ac0cb90fe9bfa7f371cc5469626ce2467", null ],
-    [ "Register", "d5/d08/a17539.html#a5a44978cec95fef30c9ea4308bda2508", null ],
-    [ "Validate", "d5/d08/a17539.html#a8b9f7d76f86f1a5abffdead3ebee694a", null ]
+    [ "instance_pit_of_saron_InstanceScript", "d0/d25/a17543.html", "d0/d25/a17543" ],
+    [ "instance_pit_of_saron", "d5/d08/a17539.html#a84526dbb5ac7eb6ff5ebe24ed339826b", null ],
+    [ "GetInstanceScript", "d5/d08/a17539.html#a2a1bc125bfe653a1da8b8c36b86aae67", null ]
 ];

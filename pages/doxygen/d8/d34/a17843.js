@@ -1,6 +1,6 @@
 var a17843 =
 [
-    [ "boss_deathbringer_saurfangAI", "d6/ddf/a17847.html", "d6/ddf/a17847" ],
-    [ "boss_deathbringer_saurfang", "d8/d34/a17843.html#ad19893be7dc3b4290d9b1ed3bb992e08", null ],
-    [ "GetAI", "d8/d34/a17843.html#a6bc1ef44b3ea9e860d62bf78cfa38c92", null ]
+    [ "ChangeSummonPos", "d8/d34/a17843.html#a2c3d69419762c7f78688a22017a8c535", null ],
+    [ "PrepareSpellScript", "d8/d34/a17843.html#a97c48254a0d7a0bd4bcf40f614bc5373", null ],
+    [ "Register", "d8/d34/a17843.html#a9c1aad0131ebe9635c9fdbb3d71c9cdd", null ]
 ];

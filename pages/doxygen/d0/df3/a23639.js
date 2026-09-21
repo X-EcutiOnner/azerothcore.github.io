@@ -1,12 +1,10 @@
 var a23639 =
 [
-    [ "boss_nazan", "d0/df3/a23639.html#a4390d3e181c4db46e364df3302612763", null ],
-    [ "AttackStart", "d0/df3/a23639.html#a7acea69f908e7a004c2a78c103528975", null ],
-    [ "DoAction", "d0/df3/a23639.html#abdb49e50dabda61c5d16b420ae69ae77", null ],
-    [ "EnterEvadeMode", "d0/df3/a23639.html#ab6338a7d240014e548b22044b788ce8f", null ],
-    [ "JustEngagedWith", "d0/df3/a23639.html#a4d44b759530f32207a46a608fb7d6209", null ],
-    [ "MovementInform", "d0/df3/a23639.html#ad35866322ff55263b1f8b105d2cad952", null ],
-    [ "Reset", "d0/df3/a23639.html#a5c10e932075130399a9127869f45ce1d", null ],
-    [ "UpdateAI", "d0/df3/a23639.html#a17942f19444ad324058d7b8c8a9aa9de", null ],
-    [ "_scheduler", "d0/df3/a23639.html#a8915d84ec4ffb8dade18041d5e910018", null ]
+    [ "boss_gruul", "d0/df3/a23639.html#a9a14e75144c79d7ad4f65192edd385f9", null ],
+    [ "JustDied", "d0/df3/a23639.html#a92d9e524dfaa0e4a22daf9b7bc6ac10d", null ],
+    [ "JustEngagedWith", "d0/df3/a23639.html#afb0cc9bb5acad80cea8d3e572d45da94", null ],
+    [ "KilledUnit", "d0/df3/a23639.html#afec4bb1b631cab0b167afb7cc2578b7d", null ],
+    [ "Reset", "d0/df3/a23639.html#ace9cf892fc1cc345d6f82d6e9816e301", null ],
+    [ "UpdateAI", "d0/df3/a23639.html#a3503b84f4fb896d439ccd49a997e4087", null ],
+    [ "_caveInTimer", "d0/df3/a23639.html#a66766f93a5ff543bbb0c9b805aaf253c", null ]
 ];

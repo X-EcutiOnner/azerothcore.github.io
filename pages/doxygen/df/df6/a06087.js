@@ -1,11 +1,10 @@
 var a06087 =
 [
-    [ "DatabaseWorker", "df/df6/a06087.html#a64450680e7b6e31bb42ce4f79788eb27", null ],
-    [ "~DatabaseWorker", "df/df6/a06087.html#a170c873cbc917ece6a87591450dbe5a9", null ],
-    [ "DatabaseWorker", "df/df6/a06087.html#aa43f1d875400b0ba6c031e0811397ed3", null ],
-    [ "operator=", "df/df6/a06087.html#a15e753c757da609b55a66380f526091a", null ],
-    [ "WorkerThread", "df/df6/a06087.html#ab74cbccbb68bfbbab58550eced982d1a", null ],
-    [ "_connection", "df/df6/a06087.html#a2f21d73b584d9e5f17afc7a0ac78f129", null ],
-    [ "_queue", "df/df6/a06087.html#a9c47ad6c0d4dca85a63be45c4e678a70", null ],
-    [ "_workerThread", "df/df6/a06087.html#ad02a90f600f1996c053f36e186edf292", null ]
+    [ "FreezeDetector", "dd/df7/a05111.html#gae4bea4699ff716ee22295d12bc9f1b9b", null ],
+    [ "Handler", "dd/df7/a05111.html#gad4c4e5b291e0c6c2dc169a7dbffdfabb", null ],
+    [ "Start", "dd/df7/a05111.html#ga6a90ff702a8d363bd23334c81e2e5770", null ],
+    [ "_lastChangeMsTime", "dd/df7/a05111.html#ga0a2b971b7ea733d846be71abf7b5dc1d", null ],
+    [ "_maxCoreStuckTimeInMs", "dd/df7/a05111.html#ga54077eab38ea5d0db27f08c50fd0652e", null ],
+    [ "_timer", "dd/df7/a05111.html#ga2377cec7cca6dbb9133a3d48b4d376c3", null ],
+    [ "_worldLoopCounter", "dd/df7/a05111.html#ga0ea988a0e070d056c16d7c9f3b1035f4", null ]
 ];

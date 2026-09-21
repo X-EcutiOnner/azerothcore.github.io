@@ -1,10 +1,12 @@
 var a13247 =
 [
-    [ "npc_netherspite_infernal", "d0/d3a/a13247.html#af9837d7a671533523ce323c083c4e847", null ],
-    [ "DamageTaken", "d0/d3a/a13247.html#aee9b38f3590e08b16de1789576986a09", null ],
-    [ "JustEngagedWith", "d0/d3a/a13247.html#a76d8944ca2d9b2f1aa5b635ce94bacfb", null ],
-    [ "KilledUnit", "d0/d3a/a13247.html#a49c37fbebed2951c493962c1a3bd0339", null ],
-    [ "MoveInLineOfSight", "d0/d3a/a13247.html#a7ecce97cef0adda03910e87d9fd82f71", null ],
-    [ "SpellHit", "d0/d3a/a13247.html#abb6c7d0b5e231e460b069198b16106b7", null ],
-    [ "UpdateAI", "d0/d3a/a13247.html#a575040456c0eb4d343e7c0c5f75159b4", null ]
+    [ "BoardCell", "d0/d3a/a13247.html#a1ecd0d14c1b4896f70caaee83e1c864d", null ],
+    [ "Reset", "d0/d3a/a13247.html#a22a71e9bd4a4dd9601aa0fffe978009c", null ],
+    [ "SetData", "d0/d3a/a13247.html#a0e57e888290cbe15b5dafa9788c3f86b", null ],
+    [ "SetPiece", "d0/d3a/a13247.html#ac919854a2e9d5fc2d1b68960e16cf79d", null ],
+    [ "col", "d0/d3a/a13247.html#a49707efa5b356ad0dc6f6ff16a652430", null ],
+    [ "pieceEntry", "d0/d3a/a13247.html#a7697506ccc800d38968e457c44bfa019", null ],
+    [ "pieceGUID", "d0/d3a/a13247.html#a74f494e406c56d4c61d79539acea684c", null ],
+    [ "row", "d0/d3a/a13247.html#a195c187e134be546f224cbb0eef8c844", null ],
+    [ "triggerGUID", "d0/d3a/a13247.html#a9cafdea50739b014a97e60611adcd3f1", null ]
 ];

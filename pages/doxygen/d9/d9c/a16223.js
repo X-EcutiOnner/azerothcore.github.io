@@ -1,7 +1,6 @@
 var a16223 =
 [
-    [ "npc_ringoAI", "d0/dd7/a16227.html", "d0/dd7/a16227" ],
-    [ "npc_ringo", "d9/d9c/a16223.html#aabccd10a446986487bbb09fc2d33cfd9", null ],
-    [ "GetAI", "d9/d9c/a16223.html#aee6c9988f0c038c74b0deb3d44617ef1", null ],
-    [ "OnQuestAccept", "d9/d9c/a16223.html#a9bb46a7574306da2e75dd9867ef6037a", null ]
+    [ "npc_tyrande_whisperwind", "d9/d9c/a16223.html#af716e954e59221d26ee88032e895fa18", null ],
+    [ "JustDied", "d9/d9c/a16223.html#a707f6167de4eafc6d81613d0edc29436", null ],
+    [ "UpdateAI", "d9/d9c/a16223.html#a598bd2dec22715413dcbd7ed6ca3be3c", null ]
 ];

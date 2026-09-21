@@ -1,7 +1,6 @@
 var a24047 =
 [
-    [ "OnPeriodic", "d8/d4f/a24047.html#a7ef787ac13b97aa225a5340f7bfcc4e3", null ],
-    [ "PrepareAuraScript", "d8/d4f/a24047.html#a6f7db06cc1ace68ee0076077773b1659", null ],
-    [ "Register", "d8/d4f/a24047.html#a559347bedad9fd8a0e6f4c5b14333c06", null ],
-    [ "Validate", "d8/d4f/a24047.html#aae1c2d5b8eb30341a67e261e69a4d294", null ]
+    [ "HandleScriptEffect", "d8/d4f/a24047.html#a724e857ad8604ef4546c8823bb7bd632", null ],
+    [ "PrepareSpellScript", "d8/d4f/a24047.html#a7a67cdf9c3c8017fd065549a499831fc", null ],
+    [ "Register", "d8/d4f/a24047.html#aadbf9ca8c4b5fa0f72b967f059ee22ab", null ]
 ];

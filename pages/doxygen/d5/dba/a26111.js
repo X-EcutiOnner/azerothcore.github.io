@@ -1,8 +1,10 @@
 var a26111 =
 [
-    [ "OnRemove", "d5/dba/a26111.html#a645e869079e711a87f1a957b42a35e98", null ],
-    [ "OnStackChange", "d5/dba/a26111.html#adea8a4a7140e2f9fd4a44ef2a7b4d85b", null ],
-    [ "PrepareAuraScript", "d5/dba/a26111.html#a5f9e9d07879705917e1cd261808f0a8f", null ],
-    [ "Register", "d5/dba/a26111.html#ac86068a892255e38244c487a7456cd9f", null ],
-    [ "Validate", "d5/dba/a26111.html#a74cb62725d939000a1c4ab32b4f4335f", null ]
+    [ "spell_item_defibrillate", "d5/dba/a26111.html#ab64fdd36fc646ca0bcb2010380199ede", null ],
+    [ "HandleScript", "d5/dba/a26111.html#a7abbc5b8e5c5231d5c6809c45b815b69", null ],
+    [ "PrepareSpellScript", "d5/dba/a26111.html#a6a7ad6c9bb9bee3b093bd06b1b259468", null ],
+    [ "Register", "d5/dba/a26111.html#ad2faa26a2874f68e8e419e59cafbf10b", null ],
+    [ "Validate", "d5/dba/a26111.html#ad871a6bef7ba074f32abe1bf062dffe1", null ],
+    [ "_chance", "d5/dba/a26111.html#a680092f30ebc6b322e5d01a1100b308c", null ],
+    [ "_failSpell", "d5/dba/a26111.html#a4cb3e7f0b0b85c57f27fe2f3ab70647b", null ]
 ];

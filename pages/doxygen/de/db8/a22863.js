@@ -1,7 +1,11 @@
 var a22863 =
 [
-    [ "HandleOnEffectApply", "de/db8/a22863.html#a01d6ca6f8ec21ad42445b5e581c0f79b", null ],
-    [ "HandleOnEffectRemove", "de/db8/a22863.html#a59952b33d7c4705a6bfe7f3443bbf005", null ],
-    [ "PrepareAuraScript", "de/db8/a22863.html#a45df29f911b1232e306e04a182648904", null ],
-    [ "Register", "de/db8/a22863.html#a71fbf189fc116eb7d14944ff4060a9a9", null ]
+    [ "boss_murmur", "de/db8/a22863.html#ad89ea433764c3017a3d33b37eb9e5602", null ],
+    [ "CastSuppressionOOC", "de/db8/a22863.html#aab66339a7436c3c483297b25f6859558", null ],
+    [ "DamageTaken", "de/db8/a22863.html#a6446fe6c0ae5ece0cd70c8d9dbccb0f5", null ],
+    [ "EnterEvadeMode", "de/db8/a22863.html#aa0f549c83a92302ece2323c75dd29acc", null ],
+    [ "JustEngagedWith", "de/db8/a22863.html#a3d872beeee7bf6ecd0c4aeaa3f8c603d", null ],
+    [ "Reset", "de/db8/a22863.html#a1f40ead1b2269b97c69bd4db808d6bae", null ],
+    [ "SetGUID", "de/db8/a22863.html#a33ef5951ded28d26fbad832ec8c222e3", null ],
+    [ "ShouldCastResonance", "de/db8/a22863.html#ade07217a85655a513d7a472d24589691", null ]
 ];

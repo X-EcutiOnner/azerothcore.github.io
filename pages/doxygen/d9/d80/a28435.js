@@ -1,5 +1,6 @@
 var a28435 =
 [
-    [ "item_mysterious_egg", "d9/d80/a28435.html#ac32e296dcb700f32f6d0296f2921e6c7", null ],
-    [ "OnExpire", "d9/d80/a28435.html#a5ea72284626826b75819f89b3b91c540", null ]
+    [ "go_fel_crystalforge", "d9/d80/a28435.html#aa44708a617edd51651da49918ab776e5", null ],
+    [ "OnGossipHello", "d9/d80/a28435.html#aae9f4beff251efb7b29e1988ddd51eaf", null ],
+    [ "OnGossipSelect", "d9/d80/a28435.html#a97450cce5f547e28ea84fa6a6f8ab79e", null ]
 ];

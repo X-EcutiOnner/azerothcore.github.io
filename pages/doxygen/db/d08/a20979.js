@@ -1,8 +1,8 @@
 var a20979 =
 [
-    [ "boss_yoggsaron_guardian_of_ys", "db/d08/a20979.html#ad66fab16b309b62895578d46e8a2e730", null ],
-    [ "JustDied", "db/d08/a20979.html#a12ce3fef2fba8d92945249cf8920a0b4", null ],
-    [ "Reset", "db/d08/a20979.html#ac803a9da5223db459b9ec48435e59c30", null ],
-    [ "UpdateAI", "db/d08/a20979.html#a573576eaff2cbd4f779675e19ad53dea", null ],
-    [ "_spellTimer", "db/d08/a20979.html#a5922d21c4606ab9a41e20948dc926cea", null ]
+    [ "npc_xt002_heart", "db/d08/a20979.html#aa4a3c9e4a66f1d6adab07282961685e9", null ],
+    [ "DoAction", "db/d08/a20979.html#a3150ab74ea50c9de6d937b3271e782de", null ],
+    [ "JustDied", "db/d08/a20979.html#a4f62cabc74ad43cf53f2257902982dff", null ],
+    [ "Reset", "db/d08/a20979.html#a0b60b84d9fc0abcb44d3f432420a7865", null ],
+    [ "_instance", "db/d08/a20979.html#a90edf95809c2d8a25b3f75526d2d3db7", null ]
 ];

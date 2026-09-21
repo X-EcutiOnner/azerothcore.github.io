@@ -1,18 +1,10 @@
 var a30023 =
 [
-    [ "CreateEventInfo", "db/de0/a30023.html#a34bc192406fd9f489e57a7ad6e5aab6d", null ],
-    [ "FindMatchingScenario", "db/de0/a30023.html#a9b31d6d9880ee54a17df6fb57f334396", null ],
-    [ "GetEffectiveHitMask", "db/de0/a30023.html#a1a2a08ffb1b7750d8292d70baa22109d", null ],
-    [ "GetEffectiveSpellPhaseMask", "db/de0/a30023.html#a84919c55f1ea5a3318982fe73e39c6f1", null ],
-    [ "GetEffectiveSpellTypeMask", "db/de0/a30023.html#aada93a604c8e7f4b5a9d0c62fb134784", null ],
-    [ "IsSpellTypeProc", "db/de0/a30023.html#afe8b7929c8489d9c19bbfef2daaa0e9a", null ],
-    [ "RequiresSpellFamilyMatch", "db/de0/a30023.html#a483394c3827b435220ff73a22b202cbd", null ],
-    [ "SetUp", "db/de0/a30023.html#a97a6a44cf781708f376088b8d755e51e", null ],
-    [ "TearDown", "db/de0/a30023.html#aa7cf1e7c860169791235a8c83079b7c3", null ],
-    [ "_allEntries", "db/de0/a30023.html#a863fca9ea018277f0f70f074cc5cbee0", null ],
-    [ "_damageInfo", "db/de0/a30023.html#a79d9c97408a50b436bff5466b20de7fe", null ],
-    [ "_defaultSpellInfo", "db/de0/a30023.html#affaa8e236d7ba203b1f2077ffbcad0c4", null ],
-    [ "_healInfo", "db/de0/a30023.html#a3495fb2c09817a1605e46de9b5ab4a5a", null ],
-    [ "_originalWorld", "db/de0/a30023.html#a1616643b4020ac84e039f96a535d3a7f", null ],
-    [ "_worldMock", "db/de0/a30023.html#a5d64d7a5be1af3d13d67fd7ce82f7d58", null ]
+    [ "SetUp", "db/de0/a30023.html#a3fdec2bf96f4e567b3ed2a8103d175ec", null ],
+    [ "SimulateGlyphsForLevel", "db/de0/a30023.html#ac0b04d88968102ac5cf34be21a44eed9", null ],
+    [ "TearDown", "db/de0/a30023.html#aa381706733e71ee3d426c4e0d0c4b4e9", null ],
+    [ "originalWorld", "db/de0/a30023.html#a5e142dc81a057b4ecc3084177942b91d", null ],
+    [ "player", "db/de0/a30023.html#ac57623d8e963cdb8de2258f36c1281bd", null ],
+    [ "session", "db/de0/a30023.html#ac92bad60994d699564da54739ac0b4f0", null ],
+    [ "worldMock", "db/de0/a30023.html#af4605e78650f67c3a3af4d91e1e485c5", null ]
 ];

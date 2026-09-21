@@ -1,11 +1,15 @@
 var a01577 =
 [
-    [ "CombatReference", "dc/d1b/a08289.html", "dc/d1b/a08289" ],
-    [ "PvPCombatReference", "d9/d95/a08293.html", "d9/d95/a08293" ],
-    [ "CombatManager", "d3/da9/a08297.html", "d3/da9/a08297" ],
-    [ "EvadeState", "d3/daa/a01577.html#a330a2d238c7c7b5390c40e53436d0d74", [
-      [ "EVADE_STATE_NONE", "d3/daa/a01577.html#a330a2d238c7c7b5390c40e53436d0d74a742a27c0e47bf6cbe51ea3d3485e1ee6", null ],
-      [ "EVADE_STATE_COMBAT", "d3/daa/a01577.html#a330a2d238c7c7b5390c40e53436d0d74ac6bc3b656f0875f408ad159de8e47dab", null ],
-      [ "EVADE_STATE_HOME", "d3/daa/a01577.html#a330a2d238c7c7b5390c40e53436d0d74a7179da8d8fc2a4fb8897c5febb10b6d8", null ]
-    ] ]
+    [ "InstancePlayerBind", "dd/d50/a10099.html", "dd/d50/a10099" ],
+    [ "BoundInstancesMapWrapper", "d1/dd1/a10103.html", "d1/dd1/a10103" ],
+    [ "InstanceSave", "d0/d6b/a10107.html", "d0/d6b/a10107" ],
+    [ "InstanceMapLoadRows", "da/de4/a10111.html", "da/de4/a10111" ],
+    [ "InstanceMapLoadRows::InstanceRow", "d8/dc8/a10115.html", "d8/dc8/a10115" ],
+    [ "InstanceMapLoadRows::BindRow", "d0/dc2/a10119.html", "d0/dc2/a10119" ],
+    [ "InstanceSaveMgr", "de/d7f/a10123.html", "de/d7f/a10123" ],
+    [ "InstanceSaveMgr::InstResetEvent", "d0/db5/a10127.html", "d0/db5/a10127" ],
+    [ "sInstanceSaveMgr", "d3/daa/a01577.html#ae1d3c96dbd749e40f06799fa52eeb9a2", null ],
+    [ "BoundInstancesMap", "d3/daa/a01577.html#aaa779bf09b703eb355cb51ac3481a19e", null ],
+    [ "PlayerBindStorage", "d3/daa/a01577.html#a2e2e3e31db4cc3be56b24e732c84106b", null ],
+    [ "ResetTimeByMapDifficultyMap", "d3/daa/a01577.html#aecf15b673beb714ef0acaa3bac23696a", null ]
 ];

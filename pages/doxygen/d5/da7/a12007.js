@@ -1,7 +1,10 @@
 var a12007 =
 [
-    [ "CategoryRecoveryTime", "d5/da7/a12007.html#a5a089aa55b5db1f3e3d3fa0ff61bbfdd", null ],
-    [ "RecoveryTime", "d5/da7/a12007.html#ac0e514cfe760baf23f4f05d871e6779a", null ],
-    [ "StartRecoveryCategory", "d5/da7/a12007.html#abb7ca704f04612ddcec3e2e52470ca77", null ],
-    [ "StartRecoveryTime", "d5/da7/a12007.html#a3155069a4ef8d87d4c952f92df2ec42d", null ]
+    [ "ApplyHarmfulAuraImmuneMask", "d5/da7/a12007.html#afb005a71205a573357afae14481cf5a4", null ],
+    [ "AuraTypeImmune", "d5/da7/a12007.html#ad585a49cd0b72b84e2146b8d6acdb2fc", null ],
+    [ "DamageSchoolMask", "d5/da7/a12007.html#a0917b0bacb75c03a527e170ef08f0811", null ],
+    [ "DispelImmuneMask", "d5/da7/a12007.html#a142a794d2927b25592fece914f7a40fa", null ],
+    [ "MechanicImmuneMask", "d5/da7/a12007.html#ad001d68adbf9c985f26476dda31898ad", null ],
+    [ "SchoolImmuneMask", "d5/da7/a12007.html#a4b4b786ef6fe3bb4247eff61416d3400", null ],
+    [ "SpellEffectImmune", "d5/da7/a12007.html#afd9f307ea408ac6f88fae8bcde2f1ce7", null ]
 ];

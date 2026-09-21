@@ -1,5 +1,7 @@
 var a13975 =
 [
-    [ "at_twilight_grove", "d0/dc9/a13975.html#a2ef32dbac0a35aa7dc6ebbafe926125f", null ],
-    [ "OnTrigger", "d0/dc9/a13975.html#a3fd9a73bf917b34932438b06fe572623", null ]
+    [ "PeriodicTick", "d0/dc9/a13975.html#acca46d585d06d461f735cddb6075b3b1", null ],
+    [ "PrepareAuraScript", "d0/dc9/a13975.html#abd7382ab22efd3d82c4f00745255d024", null ],
+    [ "Register", "d0/dc9/a13975.html#a7020dbe7c61f877d0ecd0d7542f6f270", null ],
+    [ "Validate", "d0/dc9/a13975.html#acb31ba162452a30ff0c208829560f9fd", null ]
 ];

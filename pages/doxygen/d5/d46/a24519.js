@@ -1,5 +1,5 @@
 var a24519 =
 [
-    [ "npc_pet_pri_lightwell", "d5/d46/a24519.html#aebeb192e66c7d5b4201cbaa81d46703c", null ],
-    [ "InitializeAI", "d5/d46/a24519.html#a5244bcfab27ccad603f80c6f2b2fcd3a", null ]
+    [ "npc_pet_dk_dancing_rune_weapon", "d5/d46/a24519.html#ac838b907d56c97a911d7c7454c65e180", null ],
+    [ "InitializeAI", "d5/d46/a24519.html#aafeac4a22f366591d6d66b6150e099e2", null ]
 ];

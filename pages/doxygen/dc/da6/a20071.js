@@ -1,6 +1,8 @@
 var a20071 =
 [
-    [ "instance_halls_of_stone_InstanceMapScript", "d2/dd5/a20075.html", "d2/dd5/a20075" ],
-    [ "instance_halls_of_stone", "dc/da6/a20071.html#ad0237cfaf2e48036f45181fd7746df2b", null ],
-    [ "GetInstanceScript", "dc/da6/a20071.html#a784906c7710a216016101cf7a6a915f3", null ]
+    [ "instance_halls_of_lightning_InstanceMapScript", "dc/da6/a20071.html#a9c82cd25354abaf7707c1dabd62c9fe3", null ],
+    [ "CheckAchievementCriteriaMeet", "dc/da6/a20071.html#ad6db51b0ae7de338264d07a61daf21cc", null ],
+    [ "SetData", "dc/da6/a20071.html#a26bd9da74d0d29e50b61df62b205f5e6", null ],
+    [ "_bjarngrimAchievement", "dc/da6/a20071.html#aba06463eb70c68716f571951395c6e2a", null ],
+    [ "_volkhanAchievement", "dc/da6/a20071.html#a52db8081961566ef2002424f00b60189", null ]
 ];

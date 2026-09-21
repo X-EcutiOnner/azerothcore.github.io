@@ -1,6 +1,7 @@
 var a09515 =
 [
-    [ "Visit", "db/d61/a09515.html#ae01a3252ecf5083da0c5be5d4a845636", null ],
-    [ "Visit", "db/d61/a09515.html#a7624bb11d51edffdc49fc9a95df847ef", null ],
-    [ "Visit", "db/d61/a09515.html#a412c9cbe22dc645c87e002ddb1772a90", null ]
+    [ "QuestPOIPoint", "db/d61/a09515.html#a99aaafe1fdae391c6fba20e0c623ff99", null ],
+    [ "QuestPOIPoint", "db/d61/a09515.html#a2e80e5a83ab336a8b019f38297862efa", null ],
+    [ "x", "db/d61/a09515.html#a5e9592283b28cd6ff0610ec0438b2a2d", null ],
+    [ "y", "db/d61/a09515.html#a45211fd0fbeeb5d9fced2b2c31502851", null ]
 ];

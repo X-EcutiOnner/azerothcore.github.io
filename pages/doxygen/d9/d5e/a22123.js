@@ -1,7 +1,7 @@
 var a22123 =
 [
-    [ "npc_battle_at_valhalasAI", "d8/d0f/a22127.html", "d8/d0f/a22127" ],
-    [ "npc_battle_at_valhalas", "d9/d5e/a22123.html#aacec717b5b91ae55307c9642779c15ec", null ],
-    [ "GetAI", "d9/d5e/a22123.html#a3660ba847b3b40c2d358d63c63517a5e", null ],
-    [ "OnQuestAccept", "d9/d5e/a22123.html#addd76fd9f4b4f8ce706693614b80966b", null ]
+    [ "HandleDummy", "d9/d5e/a22123.html#a98e8a4b7bbe947b00f1bc32632736d59", null ],
+    [ "PrepareSpellScript", "d9/d5e/a22123.html#a65b1ddf275eb5ee14ca32a1e25bf6e0e", null ],
+    [ "Register", "d9/d5e/a22123.html#acdfa4e1fc8e26a887e80521b1bea5150", null ],
+    [ "Validate", "d9/d5e/a22123.html#aeec15705a41ad2ac0e59d90086591d96", null ]
 ];

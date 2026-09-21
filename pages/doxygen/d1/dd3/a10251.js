@@ -1,10 +1,14 @@
 var a10251 =
 [
-    [ "ZoneDynamicInfo", "d1/dd3/a10251.html#a0542940fdcc273a4ff8a8e8bb6a40b1f", null ],
-    [ "DefaultWeather", "d1/dd3/a10251.html#a8c2c7772596ec58413bee2077e46790f", null ],
-    [ "LightFadeInTime", "d1/dd3/a10251.html#a0be8cff9a7e74add7bba8af3be993e48", null ],
-    [ "MusicId", "d1/dd3/a10251.html#a3ab0244b34c30cc7d929b418da31d7d3", null ],
-    [ "OverrideLightId", "d1/dd3/a10251.html#a0d43acd5539d3449b7c36ee88518346e", null ],
-    [ "WeatherGrade", "d1/dd3/a10251.html#a923c3231c49554addd1522f0ccc50e2d", null ],
-    [ "WeatherId", "d1/dd3/a10251.html#a4df1e694992a3c2638460601e4c4d7c9", null ]
+    [ "ServerMail", "d1/dd3/a10251.html#a50cf3e6929e397a3c1de83b9fcf83416", null ],
+    [ "active", "d1/dd3/a10251.html#a24a12fcafd0b0f4a7c0558737d8fd71f", null ],
+    [ "body", "d1/dd3/a10251.html#a58d352611dcb35126f6ec93622ddc4b9", null ],
+    [ "conditions", "d1/dd3/a10251.html#a818b993f72f82a022277e1c8d9160011", null ],
+    [ "id", "d1/dd3/a10251.html#a6b47994eff9201a6a75f8c621b64716c", null ],
+    [ "itemsA", "d1/dd3/a10251.html#a0992466672427c1d24c686bd8fa39378", null ],
+    [ "itemsH", "d1/dd3/a10251.html#ad120200ba47bf8ea8511a46d56f0daec", null ],
+    [ "moneyA", "d1/dd3/a10251.html#a6a84ca583beef891422f67bef7919c47", null ],
+    [ "moneyH", "d1/dd3/a10251.html#a0e899ce54283bc000cc6afb96e6a3244", null ],
+    [ "senderEntry", "d1/dd3/a10251.html#a3b0fe5cf5fadb5f50434836dd7026f41", null ],
+    [ "subject", "d1/dd3/a10251.html#a246e499c69c57a436aac4c039ea37d31", null ]
 ];

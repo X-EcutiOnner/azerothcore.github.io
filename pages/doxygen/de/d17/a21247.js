@@ -1,10 +1,6 @@
 var a21247 =
 [
-    [ "npc_dragonflayer_forge_master", "de/d17/a21247.html#a642c0fb5a5010c48403b8c3dc8bc14eb", null ],
-    [ "JustDied", "de/d17/a21247.html#aa107e88bbc5b55a6ece5124c4081706e", null ],
-    [ "JustEngagedWith", "de/d17/a21247.html#a3dfb76bb5cb13624e0709f1b25414360", null ],
-    [ "Reset", "de/d17/a21247.html#af2c844c926b94456df796b4252e899c2", null ],
-    [ "dataId", "de/d17/a21247.html#a35962dcbbef32dbc7f63dfa33cffd4b4", null ],
-    [ "pInstance", "de/d17/a21247.html#a27b5988d777347832795581b0186c09f", null ],
-    [ "prevDataId", "de/d17/a21247.html#aa057cb5ae681b4b802031151ea1a3529", null ]
+    [ "entry", "de/d17/a21247.html#aa9907022aea07d150223562376672353", null ],
+    [ "guid", "de/d17/a21247.html#af6bd3717f5e809607edd72ed4c9200ef", null ],
+    [ "index", "de/d17/a21247.html#a004f733fe69f93716e2280977be5dfb8", null ]
 ];

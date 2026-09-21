@@ -1,7 +1,6 @@
 var a15355 =
 [
-    [ "npc_tarethaAI", "d4/d54/a15359.html", "d4/d54/a15359" ],
-    [ "npc_taretha", "d0/d65/a15355.html#a54379e06518ff972e91e25e295731f5a", null ],
-    [ "GetAI", "d0/d65/a15355.html#a5045bb7119b12800ee0053818fcae5fe", null ],
-    [ "OnGossipHello", "d0/d65/a15355.html#ac689e97b3fd54e9c9e40ed5b9aeca099", null ]
+    [ "boss_salrammAI", "d4/d54/a15359.html", "d4/d54/a15359" ],
+    [ "boss_salramm", "d0/d65/a15355.html#a62c629a03f0c7ca7f3bf14b5209342d1", null ],
+    [ "GetAI", "d0/d65/a15355.html#ab6b400f0d329d4def074d012de47f53d", null ]
 ];

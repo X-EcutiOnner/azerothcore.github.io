@@ -1,13 +1,9 @@
 var a15635 =
 [
-    [ "boss_cthun", "de/dd4/a15635.html#a287ee7b65708971e4fdfa7b814486935", null ],
-    [ "DoAction", "de/dd4/a15635.html#a04ae38b67d358f1d34820b855aab3869", null ],
-    [ "JustDied", "de/dd4/a15635.html#a3c6478e7de0e5a6f20f693a788bf8c86", null ],
-    [ "JustEngagedWith", "de/dd4/a15635.html#a56fe3347ac41b67fb6912f372a5879ba", null ],
-    [ "Reset", "de/dd4/a15635.html#a05bab8427cd4b4bfa50aee450e423f98", null ],
-    [ "ScheduleTasks", "de/dd4/a15635.html#a5a0514e56217bb3b30b22b2681542adb", null ],
-    [ "SummonedCreatureDies", "de/dd4/a15635.html#a49d76bb4cf30ee66fae6114313394961", null ],
-    [ "UpdateAI", "de/dd4/a15635.html#a7d2685597f1eec2459fe509e5b97681f", null ],
-    [ "_fleshTentaclesKilled", "de/dd4/a15635.html#a139de83ae488c40d40a4587509cd197d", null ],
-    [ "WisperTimer", "de/dd4/a15635.html#abad23f1df9c6989e7a6d3d62143adb05", null ]
+    [ "go_ossirian_crystalAI", "de/dd4/a15635.html#ae4d3c0c2cff08bd9fe86cbfee2cbb980", null ],
+    [ "DoAction", "de/dd4/a15635.html#a581436335d190466520c07fde56ad441", null ],
+    [ "GossipHello", "de/dd4/a15635.html#ad1aff0e18d8f4ef7fe5d4cfa7ef17875", null ],
+    [ "SetGUID", "de/dd4/a15635.html#a9b4af48363a6d3194a22312fafa48587", null ],
+    [ "_instance", "de/dd4/a15635.html#aa2c83296cbe8d49de7bc7262b792e8b3", null ],
+    [ "_triggerGUID", "de/dd4/a15635.html#abd96d9b4f2c5f41e4a85606b22e1b0cf", null ]
 ];

@@ -1,9 +1,8 @@
 var a22547 =
 [
-    [ "npc_crusade_recruitAI", "df/d6c/a22547.html#aa5d5e8cc4fe612fda84d971d9cee987f", null ],
-    [ "Reset", "df/d6c/a22547.html#a183360b99ecbd784b4dabbf5158f59d1", null ],
-    [ "sGossipSelect", "df/d6c/a22547.html#ab7bfdc4cc8c86645174ac154ee5db541", null ],
-    [ "UpdateAI", "df/d6c/a22547.html#a0b4dad62e1adf04013d8fbcefe310400", null ],
-    [ "_events", "df/d6c/a22547.html#a32060a04ba73fbf9ae2df8417e826ce9", null ],
-    [ "_heading", "df/d6c/a22547.html#a6e260a6e085962d54b765bff4cb17963", null ]
+    [ "npc_wg_queueAI", "d2/d5a/a22551.html", "d2/d5a/a22551" ],
+    [ "npc_wg_queue", "df/d6c/a22547.html#a2cc9825e08e982ef195f117a4512c4ae", null ],
+    [ "GetAI", "df/d6c/a22547.html#ad2d7746a32b520d37ea826b03627de4e", null ],
+    [ "OnGossipHello", "df/d6c/a22547.html#a20fc6ae4e4377f237a620b7f5b1de8ee", null ],
+    [ "OnGossipSelect", "df/d6c/a22547.html#afb707da5d85affc65f7ab5a0fc018c93", null ]
 ];

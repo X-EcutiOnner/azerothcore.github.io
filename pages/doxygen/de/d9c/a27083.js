@@ -1,7 +1,8 @@
 var a27083 =
 [
-    [ "HandleEffectRemove", "de/d9c/a27083.html#a814687d3938e966f8721438e1a722f77", null ],
-    [ "PrepareAuraScript", "de/d9c/a27083.html#a2144b0602501471a4001883ce9de6db3", null ],
-    [ "Register", "de/d9c/a27083.html#a9d696dc7e58692216fa1cf6cc7c011a9", null ],
-    [ "AuraEffectHandleModes", "de/d9c/a27083.html#ab291f6c6f269ec7004df39a043f49efd", null ]
+    [ "AfterCheckProc", "de/d9c/a27083.html#ad817bc9b07538434956bf64ea1dd0367", null ],
+    [ "HandleProc", "de/d9c/a27083.html#af972e6ed5524dadd618d6cd907c0241b", null ],
+    [ "PrepareAuraScript", "de/d9c/a27083.html#a0fbc28d9a524b6dff6783077ecd0b3b9", null ],
+    [ "Register", "de/d9c/a27083.html#a2cab6b2b0ff567fca6530fa4d917aec1", null ],
+    [ "Validate", "de/d9c/a27083.html#aa15febbd22621da12b567fc429917bf0", null ]
 ];

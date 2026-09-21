@@ -1,10 +1,12 @@
 var a17299 =
 [
-    [ "HandleAfterEffectAbsorb", "d7/dd1/a17299.html#a4af67c41afd7843a5cfe2b2e2e9e8055", null ],
-    [ "Load", "d7/dd1/a17299.html#abab656d4ba7e14bf1ffdb1d40c395b5d", null ],
-    [ "PrepareAuraScript", "d7/dd1/a17299.html#a0856d66c801715f16cd251ddf9b25a59", null ],
-    [ "Register", "d7/dd1/a17299.html#a69d8dfebb981b51592770b7b5807bc80", null ],
-    [ "Validate", "d7/dd1/a17299.html#a55ec42ce316978220103a3a39f3939a3", null ],
-    [ "amount", "d7/dd1/a17299.html#aaf34ee04ae619a3ac108a8fd1c9dac99", null ],
-    [ "fired", "d7/dd1/a17299.html#a6a7afa99044644608b16e83328bfd5fa", null ]
+    [ "boss_trollgoreAI", "d7/dd1/a17299.html#a958deb54a8460cc2dc61958bd9acb338", null ],
+    [ "CheckInRoom", "d7/dd1/a17299.html#a6428a1c4fc7d3da4e016ed17ea3684df", null ],
+    [ "JustDied", "d7/dd1/a17299.html#a32a309084b6b7c4b4e5db10d9c8a95bd", null ],
+    [ "JustEngagedWith", "d7/dd1/a17299.html#a25414dc1b13aa1372e397c5cb11afdaa", null ],
+    [ "JustSummoned", "d7/dd1/a17299.html#abd2199877e0e1465a7e5783b80ad2a44", null ],
+    [ "KilledUnit", "d7/dd1/a17299.html#aa65d03d8879c6177753b8316c1343ad4", null ],
+    [ "Reset", "d7/dd1/a17299.html#a4fe22aebe6e814196ac1914d158a62de", null ],
+    [ "UpdateAI", "d7/dd1/a17299.html#a3fa3247442edb81136647f7fdf5834cf", null ],
+    [ "events2", "d7/dd1/a17299.html#a94e8c9616ac332f33f2b976c074092af", null ]
 ];

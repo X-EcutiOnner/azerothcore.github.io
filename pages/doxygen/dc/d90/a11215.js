@@ -1,13 +1,7 @@
 var a11215 =
 [
-    [ "GuildBankQueryResults", "dc/d90/a11215.html#a8203a35b76fdc674794c5bd3c1acb9ed", null ],
-    [ "SetWithdrawalsRemaining", "dc/d90/a11215.html#a52af0d2b4e092daf0719bdf325c51652", null ],
-    [ "Write", "dc/d90/a11215.html#a4598c0c9d1f94c5aa0671f210e1597d4", null ],
-    [ "_withdrawalsRemainingPos", "dc/d90/a11215.html#abe711cd2da225fdc73eabe2ad6bd3f5d", null ],
-    [ "FullUpdate", "dc/d90/a11215.html#a42ca9b48981d7d338aecb7840c248f0f", null ],
-    [ "ItemInfo", "dc/d90/a11215.html#ad799195b259f92aa4e71e1ee8fd99741", null ],
-    [ "Money", "dc/d90/a11215.html#ad401eb3444f5ae50781e634e1f55eba1", null ],
-    [ "Tab", "dc/d90/a11215.html#a72ac06ace5e7974d666e3fc3d626e3c0", null ],
-    [ "TabInfo", "dc/d90/a11215.html#ad36f0ae1d897ef504ad9761c00db77ca", null ],
-    [ "WithdrawalsRemaining", "dc/d90/a11215.html#a211288bde5a15f2d21df65acf087c7d0", null ]
+    [ "GuildSetMemberNote", "dc/d90/a11215.html#a4747c3d015cb1b0d0056928fd75e4d18", null ],
+    [ "Read", "dc/d90/a11215.html#a3d90b6ce26d55a55bac1d953dd39b049", null ],
+    [ "Note", "dc/d90/a11215.html#a33b7b73bd5d26c2a0ac99d6dc0131c41", null ],
+    [ "NoteeName", "dc/d90/a11215.html#acf6beb0a5b122a04162e9d2c027203af", null ]
 ];

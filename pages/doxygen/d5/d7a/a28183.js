@@ -1,6 +1,5 @@
 var a28183 =
 [
-    [ "boss_emerissAI", "d9/d76/a28187.html", "d9/d76/a28187" ],
-    [ "boss_emeriss", "d5/d7a/a28183.html#a2d373e5add3f007cf214ad9763039aa2", null ],
-    [ "GetAI", "d5/d7a/a28183.html#a88a0696a12f12e612cce53c14f6b1f92", null ]
+    [ "achievement_fa_la_la_la_ogrila", "d5/d7a/a28183.html#ab98a8ab33fec62936bf3c235659c1445", null ],
+    [ "OnCheck", "d5/d7a/a28183.html#ad9f33606fcacfd698ed3a9fa22545022", null ]
 ];

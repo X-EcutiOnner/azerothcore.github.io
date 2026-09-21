@@ -1,9 +1,8 @@
 var a14735 =
 [
-    [ "CheckCast", "d7/dc1/a14735.html#a02965b55e8efadbd21e5afdd824f1dec", null ],
-    [ "FilterTargets", "d7/dc1/a14735.html#a9638048b4107db116474abf8e18d7760", null ],
-    [ "HandleBeforeHit", "d7/dc1/a14735.html#a3567c72e999ad6ca9db15b4d6ddadafb", null ],
-    [ "HandleScriptEffect", "d7/dc1/a14735.html#a47d6a6c1fcb2b04782e54d3797c1f42c", null ],
-    [ "PrepareSpellScript", "d7/dc1/a14735.html#aab9211291bd9dab8255d94e4eb07bf8e", null ],
-    [ "Register", "d7/dc1/a14735.html#a73e6c9c91dccb309207fa3aeb6bd9d6f", null ]
+    [ "boss_venoxis", "d7/dc1/a14735.html#a3e91a9022163a726cbc077d38459a5f5", null ],
+    [ "InitializeAI", "d7/dc1/a14735.html#a1373b5fc673fce6aea1de40d970ac00d", null ],
+    [ "JustDied", "d7/dc1/a14735.html#a63ccc5a9520ee30b0ebaf8c4d31e59b8", null ],
+    [ "JustEngagedWith", "d7/dc1/a14735.html#afaa68ffbd5fecae48a044009326bcaed", null ],
+    [ "Reset", "d7/dc1/a14735.html#a40cbcd4d41ff85ff71d5d913d8e62368", null ]
 ];

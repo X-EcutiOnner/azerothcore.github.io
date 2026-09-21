@@ -1,10 +1,12 @@
 var a17719 =
 [
-    [ "npc_dark_nucleusAI", "d0/df3/a17719.html#a9558da93ec684d5c4e79e686e6bfb142", null ],
-    [ "AttackStart", "d0/df3/a17719.html#a3dec28dd13257b944df0c559d26a76e0", null ],
-    [ "DamageTaken", "d0/df3/a17719.html#adfb2ad6f6b36fa122511a6ed10e22b99", null ],
-    [ "JustDied", "d0/df3/a17719.html#a464d479ad80d55e54c7ea2c8b8c03a81", null ],
-    [ "Reset", "d0/df3/a17719.html#ac84f79f84e721ab1306c8eed8658b143", null ],
-    [ "UpdateAI", "d0/df3/a17719.html#a3a08457c34d4dd904a99a78875d6318c", null ],
-    [ "timer", "d0/df3/a17719.html#ac5f9824276987b81aef5cfee05158049", null ]
+    [ "boss_moorabiAI", "d0/df3/a17719.html#a60a03c3840a3743719996929d2ca9e59", null ],
+    [ "EnterEvadeMode", "d0/df3/a17719.html#a7b77a6da820e9b3be80c94a37fe07db4", null ],
+    [ "JustDied", "d0/df3/a17719.html#a6d866bf54dc06e4f20eb4d62ea97928a", null ],
+    [ "JustEngagedWith", "d0/df3/a17719.html#a1fa46ac21b28ff49382c7389a46fad75", null ],
+    [ "KilledUnit", "d0/df3/a17719.html#a265855d2972e534e927bfa609fbf2cf5", null ],
+    [ "Reset", "d0/df3/a17719.html#a9daf89ed0f4e5795cafc63a6a81e5d1d", null ],
+    [ "SpellHitTarget", "d0/df3/a17719.html#af1f30a0f3bf0f88725f8a146c528b77a", null ],
+    [ "UpdateAI", "d0/df3/a17719.html#a9f9956aaaa60d5d0005a55a87d0424eb", null ],
+    [ "events2", "d0/df3/a17719.html#a02a3bc20ca7b1b750bfd1bd29f093dd2", null ]
 ];

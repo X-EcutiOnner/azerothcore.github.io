@@ -1,5 +1,6 @@
 var a24303 =
 [
-    [ "go_crystal_prison", "d1/d45/a24303.html#a0faca8b76f9650ee5cc7825b90463365", null ],
-    [ "OnQuestAccept", "d1/d45/a24303.html#ad19d8bdf8361d5d7fca2917a6bf0977a", null ]
+    [ "HandleEffectRemove", "d1/d45/a24303.html#a2e73fd55dd7e6e658bc6c6623b650732", null ],
+    [ "PrepareAuraScript", "d1/d45/a24303.html#a9aabae3a6c57be9b17394d4a39fe24ec", null ],
+    [ "Register", "d1/d45/a24303.html#ac02217c103db141d75377e233e1e4242", null ]
 ];

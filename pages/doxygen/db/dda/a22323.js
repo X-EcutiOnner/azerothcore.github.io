@@ -1,11 +1,9 @@
 var a22323 =
 [
-    [ "npc_iron_watcherAI", "db/dda/a22323.html#a5f0c3d759dfba81cb2010d2a0b479909", null ],
-    [ "MovementInform", "db/dda/a22323.html#aaf329f0160efa778abdebf86b1cf230b", null ],
-    [ "Reset", "db/dda/a22323.html#a878f26cd41ccb9d777f9db00e2e30568", null ],
-    [ "SpellHit", "db/dda/a22323.html#afce7cebdb4a49d9e5618ac211b235c6b", null ],
-    [ "UpdateAI", "db/dda/a22323.html#a50391c9950fbbaf170600f13bab1e6bb", null ],
-    [ "charging", "db/dda/a22323.html#af5be6fc6d7d234cfd2ac78f636b0ad7c", null ],
-    [ "hpTimer", "db/dda/a22323.html#afcbb113387345361baf0351a19e6eb1d", null ],
-    [ "spellTimer", "db/dda/a22323.html#a9bcd8d80b0a74c7abf0fc8b3bb32aa30", null ]
+    [ "npc_frostbrood_skytalonAI", "db/dda/a22323.html#afc14c60466f9f0f1b20062758f18c00d", null ],
+    [ "IsSummonedBy", "db/dda/a22323.html#a2c5729ee3371e562869878ff3a7b84bd", null ],
+    [ "MovementInform", "db/dda/a22323.html#ae763333503176eb7e8ce407868243958", null ],
+    [ "SpellHit", "db/dda/a22323.html#a24bb49f47dcf85c95039d0495a89e126", null ],
+    [ "UpdateAI", "db/dda/a22323.html#a0ffc4cd2e9b61ad17c516f062d161feb", null ],
+    [ "events", "db/dda/a22323.html#a8575d258d63e28626cffd7fc2160bee6", null ]
 ];

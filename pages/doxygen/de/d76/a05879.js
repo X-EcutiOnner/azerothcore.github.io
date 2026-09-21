@@ -1,7 +1,6 @@
 var a05879 =
 [
-    [ "Count", "de/d76/a05879.html#aeeb13e953eff5fde8c9edff41ee17806", null ],
-    [ "FromIndex", "de/d76/a05879.html#a8c6cb9f0a8d3488956904e2141405cf7", null ],
-    [ "ToIndex", "de/d76/a05879.html#a25cc4ea08020adcf6deac42e2912b1f9", null ],
-    [ "ToString", "de/d76/a05879.html#a8d3379c79f103655dd49d993402b741d", null ]
+    [ "LambdaBasicEvent", "de/d76/a05879.html#a4244b5e91413d71076d9cc3af230aed8", null ],
+    [ "Execute", "de/d76/a05879.html#a8771a49f00554372b5ed38816abbd253", null ],
+    [ "_callback", "de/d76/a05879.html#a2660ba5053b9ad6a1c4231bd32359999", null ]
 ];

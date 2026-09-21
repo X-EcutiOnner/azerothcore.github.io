@@ -1,6 +1,8 @@
 var a25495 =
 [
-    [ "CheckRequirement", "de/db5/a25495.html#adb3212ff52b5ad9ae2ce824dd1cf018a", null ],
-    [ "PrepareSpellScript", "de/db5/a25495.html#aebb88f5ea803a590a099e4e6427d8276", null ],
-    [ "Register", "de/db5/a25495.html#a18406f867561f9baf5a4cee8ce8ea59a", null ]
+    [ "CheckCast", "de/db5/a25495.html#a459b6aa2fd05ffc5cb97815a53e2797c", null ],
+    [ "HandleScript", "de/db5/a25495.html#a2c1702398e4cbdcc106679d534a27743", null ],
+    [ "PrepareSpellScript", "de/db5/a25495.html#a613bdf7841744632c1e6de147e0352b9", null ],
+    [ "Register", "de/db5/a25495.html#ada961aaa5679aa00cc650d6e97487ca4", null ],
+    [ "Validate", "de/db5/a25495.html#a0a9de0825edf5c82b91dbe7326a65de9", null ]
 ];

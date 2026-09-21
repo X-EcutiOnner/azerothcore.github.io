@@ -1,6 +1,7 @@
 var a27751 =
 [
-    [ "HandleBanish", "de/dfd/a27751.html#ab8dd3ab2fd7b9aff3556e6284c515474", null ],
-    [ "PrepareSpellScript", "de/dfd/a27751.html#a56118e3ed7525cdf575531a4c2f2d93f", null ],
-    [ "Register", "de/dfd/a27751.html#ad6c066c9d6a64a5d89d3c347600559a9", null ]
+    [ "CheckProc", "de/dfd/a27751.html#a982264a8ea20344b66269a3edd814db7", null ],
+    [ "HandleProc", "de/dfd/a27751.html#adf79a132d1ae20e27b07dc77e103fb3c", null ],
+    [ "PrepareAuraScript", "de/dfd/a27751.html#abd0ac0c324e3323140812c7d4c937e1e", null ],
+    [ "Register", "de/dfd/a27751.html#ac24fe502aa899f953b694fe3ebf46012", null ]
 ];

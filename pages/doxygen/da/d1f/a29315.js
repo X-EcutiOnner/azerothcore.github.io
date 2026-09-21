@@ -1,8 +1,6 @@
 var a29315 =
 [
-    [ "Id", "da/d1f/a29315.html#a6943bf760d15b3f8af4109d131652d72", null ],
-    [ "MapId", "da/d1f/a29315.html#ab0cccd760636a3b42af693d6c483bed9", null ],
-    [ "X", "da/d1f/a29315.html#a91183890254546efeb3162173cc60dad", null ],
-    [ "Y", "da/d1f/a29315.html#a19ab4d026b45d74f006479641afbc4d3", null ],
-    [ "Z", "da/d1f/a29315.html#aaa23c59f20fc96aec148b82516f30036", null ]
+    [ "color", "da/d1f/a29315.html#a2e4ee1d687af07445684907d1bcec4f4", null ],
+    [ "ID", "da/d1f/a29315.html#ac125147c2dc5546a0116f48e08f36e59", null ],
+    [ "spellitemenchantement", "da/d1f/a29315.html#a3a6329c8f5caa3cd6e61138339f37f4d", null ]
 ];

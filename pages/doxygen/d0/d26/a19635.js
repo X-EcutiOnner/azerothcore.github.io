@@ -1,10 +1,6 @@
 var a19635 =
 [
-    [ "boss_razuvious_minionAI", "d0/d26/a19635.html#a6f9fc7dad68f35846ee76d4bff564407", null ],
-    [ "DoAction", "d0/d26/a19635.html#a93cfa3f706ffadd94ad4dbe0585eebf1", null ],
-    [ "JustEngagedWith", "d0/d26/a19635.html#ada2e7a5ac1f129572a0689afce49d310", null ],
-    [ "KilledUnit", "d0/d26/a19635.html#ab1a6f582098c9d1218551af0aae1815d", null ],
-    [ "Reset", "d0/d26/a19635.html#a170de8517a03a0e78b1e67652869fd9a", null ],
-    [ "ScheduleAttackDummy", "d0/d26/a19635.html#abed82c71605d7c57bf29cedc21fc6b24", null ],
-    [ "UpdateAI", "d0/d26/a19635.html#ad56fca0ae00fba6e575baefd72c7a8d0", null ]
+    [ "boss_kelthuzad_minionAI", "dc/d04/a19639.html", "dc/d04/a19639" ],
+    [ "boss_kelthuzad_minion", "d0/d26/a19635.html#a4c6d430035c964b4063139c0cda6bfff", null ],
+    [ "GetAI", "d0/d26/a19635.html#ab951068fedced148653ebf9124ba5e3d", null ]
 ];

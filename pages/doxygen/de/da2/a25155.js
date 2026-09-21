@@ -1,5 +1,9 @@
 var a25155 =
 [
-    [ "PrepareSpellScript", "de/da2/a25155.html#a054677572d74a740f1c14715608f7b1b", null ],
-    [ "Register", "de/da2/a25155.html#ae6556b58f0a4e6d3762bc3dc4c1643b3", null ]
+    [ "PrepareAuraScript", "de/da2/a25155.html#accf6cc89fed8dbf7c3cee201f1e9e806", null ],
+    [ "Register", "de/da2/a25155.html#a04efbc64bfa0312bc1f372e403803c32", null ],
+    [ "Update", "de/da2/a25155.html#aa463442b994b6275b2e12fe06ae7805c", null ],
+    [ "amplitude", "de/da2/a25155.html#aff726eef4dbd10dd71f1614ab6755ea1", null ],
+    [ "amplitude", "de/da2/a25155.html#ad96a6059cb2f4bdf8e2b341d0a6e294f", null ],
+    [ "isPeriodic", "de/da2/a25155.html#a0732bf60822bbb547be014566d0e092c", null ]
 ];

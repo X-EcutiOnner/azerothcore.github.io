@@ -1,6 +1,5 @@
 var a21819 =
 [
-    [ "npc_injured_7th_legion_soldierAI", "db/d4a/a21819.html#a6929ef42a003f1337d71f9b23fa37c6e", null ],
-    [ "MovementInform", "db/d4a/a21819.html#a999bc868db485578fcc70ae7e056b778", null ],
-    [ "Reset", "db/d4a/a21819.html#a3021c037acdb141fc3ca4d6f3b146bbf", null ]
+    [ "npc_mei_francis_mountAI", "db/d4a/a21819.html#aa9886ead02754faebff8b21eeb85dee6", null ],
+    [ "CanBeSeen", "db/d4a/a21819.html#ad5e33495339a0315bc7b01351810157e", null ]
 ];

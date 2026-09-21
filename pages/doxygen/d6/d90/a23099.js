@@ -1,8 +1,11 @@
 var a23099 =
 [
-    [ "boss_najentus", "d6/d90/a23099.html#ac5d3d54a49524892fe844925d483c244", null ],
-    [ "JustDied", "d6/d90/a23099.html#afee32dd32033c7a45068ce12e961797c", null ],
-    [ "JustEngagedWith", "d6/d90/a23099.html#a46e3aab64c21b24ac6457acd598679ec", null ],
-    [ "KilledUnit", "d6/d90/a23099.html#ad55e1de3aa7a636b3d30b0d61a17dab9", null ],
-    [ "Reset", "d6/d90/a23099.html#ab7e0bdb8954722c9080146a88a3c5aa2", null ]
+    [ "boss_essence_of_angerAI", "d6/d90/a23099.html#a25eed717395b4e1ca5504d2d473e2500", null ],
+    [ "DoAction", "d6/d90/a23099.html#a81576aaf465dfc99d199aaf6a182df52", null ],
+    [ "JustDied", "d6/d90/a23099.html#a997d75ad388e790f9863e1b15fa1c899", null ],
+    [ "JustEngagedWith", "d6/d90/a23099.html#a16d2b13fcf3dfa513813669b44712c4c", null ],
+    [ "KilledUnit", "d6/d90/a23099.html#a6a900f9a9dc5509c36e5bdaaaacc197d", null ],
+    [ "Reset", "d6/d90/a23099.html#ade57a575bd84e8e095b1ab5a5c81d3f6", null ],
+    [ "UpdateAI", "d6/d90/a23099.html#a67e9f5a361894aa227f2a74f9222740d", null ],
+    [ "targetGUID", "d6/d90/a23099.html#adc3867a4446375f1217809299f3dd9bb", null ]
 ];

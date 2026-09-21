@@ -1,6 +1,6 @@
 var a21379 =
 [
-    [ "boss_ymironAI", "d0/d4d/a21383.html", "d0/d4d/a21383" ],
-    [ "boss_ymiron", "d5/d3e/a21379.html#a708ffc55e0a190a8ed6adb0bca6ced7c", null ],
-    [ "GetAI", "d5/d3e/a21379.html#a0a8caed3c8021ddf861cc71b57297c41", null ]
+    [ "npc_ravenous_furbolgAI", "d0/d4d/a21383.html", "d0/d4d/a21383" ],
+    [ "npc_ravenous_furbolg", "d5/d3e/a21379.html#a1d7adf8eb055cb6ba82db2f173256fe9", null ],
+    [ "GetAI", "d5/d3e/a21379.html#a284c366e6f5bd024d9627a83dd966669", null ]
 ];

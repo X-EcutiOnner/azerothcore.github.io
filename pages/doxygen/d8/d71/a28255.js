@@ -1,6 +1,6 @@
 var a28255 =
 [
-    [ "go_flamesAI", "d8/d71/a28255.html#a6473bff84b5c99cc616aa2d0912ed308", null ],
-    [ "UpdateAI", "d8/d71/a28255.html#a2d4c91f0bff924335881d1096c0af313", null ],
-    [ "timer", "d8/d71/a28255.html#ae53c7c6c669e982babf304f173b58b1a", null ]
+    [ "boss_lethonAI", "d5/d2b/a28259.html", "d5/d2b/a28259" ],
+    [ "boss_lethon", "d8/d71/a28255.html#a5d758979b061646830373de64b2b3af4", null ],
+    [ "GetAI", "d8/d71/a28255.html#a493baf37aac400635dd0409e79375a1c", null ]
 ];

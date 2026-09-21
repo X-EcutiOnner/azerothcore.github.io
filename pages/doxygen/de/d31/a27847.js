@@ -1,7 +1,9 @@
 var a27847 =
 [
-    [ "HandleProc", "de/d31/a27847.html#a79bcdad48c19c0db70960552f6b4e2d3", null ],
-    [ "PrepareAuraScript", "de/d31/a27847.html#a760f228c118e9a89a3adc2767290f6f5", null ],
-    [ "Register", "de/d31/a27847.html#ace2673bc17210f349e47586c0e626dc5", null ],
-    [ "Validate", "de/d31/a27847.html#acdc499d8cae2de0edcfd2c19319e0175", null ]
+    [ "CheckCast", "de/d31/a27847.html#a441927e0d8d7304030440c19458eb34d", null ],
+    [ "HandleScriptEffect", "de/d31/a27847.html#a10e9691aa15869c82fba79072a314d7e", null ],
+    [ "PrepareSpellScript", "de/d31/a27847.html#a90b8ae945aeb85ad6e8a120501288979", null ],
+    [ "Register", "de/d31/a27847.html#aac95bd6f7409e1ae9d3f9cf0c7212990", null ],
+    [ "Validate", "de/d31/a27847.html#a00c67b65bcfdeaf56295da6a64689d58", null ],
+    [ "iTypes", "de/d31/a27847.html#ae852b9df34612c074eab23b025c86870", null ]
 ];

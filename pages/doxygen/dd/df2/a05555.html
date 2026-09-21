@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: SymbolPair Struct Reference</title>
+<title>AzerothCore: Acore::Impl::GenericHashImpl Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,78 +105,46 @@ $(document).ready(function(){initNavTree('dd/df2/a05555.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pub-types">Public Types</a> &#124;
+<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
 <a href="../../d6/dfa/a05552.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">SymbolPair Struct Reference</div></div>
+  <div class="headertitle"><div class="title">Acore::Impl::GenericHashImpl Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">WheatyExceptionReport.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">CryptoHash.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
-Public Member Functions</h2></td></tr>
-<tr class="memitem:ad6b1fba614fa7de6471c56078b62c57d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df2/a05555.html#ad6b1fba614fa7de6471c56078b62c57d">SymbolPair</a> (DWORD type, DWORD_PTR offset)</td></tr>
-<tr class="separator:ad6b1fba614fa7de6471c56078b62c57d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a94b5b6c8c41fb53aa2a28e089d495545"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df2/a05555.html#a94b5b6c8c41fb53aa2a28e089d495545">operator&lt;</a> (<a class="el" href="../../dd/df2/a05555.html">SymbolPair</a> const &amp;other) const</td></tr>
-<tr class="separator:a94b5b6c8c41fb53aa2a28e089d495545"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
+Public Types</h2></td></tr>
+<tr class="memitem:a03a4f6e31f0cb838b857997a0272f90b"><td class="memItemLeft" align="right" valign="top">typedef EVP_MD const *(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df2/a05555.html#a03a4f6e31f0cb838b857997a0272f90b">HashCreator</a>) ()</td></tr>
+<tr class="separator:a03a4f6e31f0cb838b857997a0272f90b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:a50579f45ce4d7ef0155bac20b1958254"><td class="memItemLeft" align="right" valign="top">DWORD&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df2/a05555.html#a50579f45ce4d7ef0155bac20b1958254">_type</a></td></tr>
-<tr class="separator:a50579f45ce4d7ef0155bac20b1958254"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac011ac111d0ced8871d315e164948bea"><td class="memItemLeft" align="right" valign="top">DWORD_PTR&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df2/a05555.html#ac011ac111d0ced8871d315e164948bea">_offset</a></td></tr>
-<tr class="separator:ac011ac111d0ced8871d315e164948bea"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
+Static Public Member Functions</h2></td></tr>
+<tr class="memitem:a59487cdc54d416f8b2a88eb54ae21c8d"><td class="memItemLeft" align="right" valign="top">static EVP_MD_CTX *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df2/a05555.html#a59487cdc54d416f8b2a88eb54ae21c8d">MakeCTX</a> () noexcept</td></tr>
+<tr class="separator:a59487cdc54d416f8b2a88eb54ae21c8d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7e607b03e0758d10156e201e8d601db4"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df2/a05555.html#a7e607b03e0758d10156e201e8d601db4">DestroyCTX</a> (EVP_MD_CTX *ctx)</td></tr>
+<tr class="separator:a7e607b03e0758d10156e201e8d601db4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="ad6b1fba614fa7de6471c56078b62c57d" name="ad6b1fba614fa7de6471c56078b62c57d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad6b1fba614fa7de6471c56078b62c57d">&#9670;&#160;</a></span>SymbolPair()</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Typedef Documentation</h2>
+<a id="a03a4f6e31f0cb838b857997a0272f90b" name="a03a4f6e31f0cb838b857997a0272f90b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a03a4f6e31f0cb838b857997a0272f90b">&#9670;&#160;</a></span>HashCreator</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">SymbolPair::SymbolPair </td>
-          <td>(</td>
-          <td class="paramtype">DWORD&#160;</td>
-          <td class="paramname"><em>type</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">DWORD_PTR&#160;</td>
-          <td class="paramname"><em>offset</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="memname">typedef EVP_MD const  *(* Acore::Impl::GenericHashImpl::HashCreator) ()</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   98</span>    {</div>
-<div class="line"><span class="lineno">   99</span>        <a class="code hl_variable" href="../../dd/df2/a05555.html#a50579f45ce4d7ef0155bac20b1958254">_type</a> = type;</div>
-<div class="line"><span class="lineno">  100</span>        <a class="code hl_variable" href="../../dd/df2/a05555.html#ac011ac111d0ced8871d315e164948bea">_offset</a> = offset;</div>
-<div class="line"><span class="lineno">  101</span>    }</div>
-<div class="ttc" id="aa05555_html_a50579f45ce4d7ef0155bac20b1958254"><div class="ttname"><a href="../../dd/df2/a05555.html#a50579f45ce4d7ef0155bac20b1958254">SymbolPair::_type</a></div><div class="ttdeci">DWORD _type</div><div class="ttdef"><b>Definition:</b> WheatyExceptionReport.h:109</div></div>
-<div class="ttc" id="aa05555_html_ac011ac111d0ced8871d315e164948bea"><div class="ttname"><a href="../../dd/df2/a05555.html#ac011ac111d0ced8871d315e164948bea">SymbolPair::_offset</a></div><div class="ttdeci">DWORD_PTR _offset</div><div class="ttdef"><b>Definition:</b> WheatyExceptionReport.h:110</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00110">_offset</a>, and <a class="el" href="../../#l00109">_type</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a94b5b6c8c41fb53aa2a28e089d495545" name="a94b5b6c8c41fb53aa2a28e089d495545"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a94b5b6c8c41fb53aa2a28e089d495545">&#9670;&#160;</a></span>operator&lt;()</h2>
+<a id="a7e607b03e0758d10156e201e8d601db4" name="a7e607b03e0758d10156e201e8d601db4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7e607b03e0758d10156e201e8d601db4">&#9670;&#160;</a></span>DestroyCTX()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -185,58 +153,50 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool SymbolPair::operator&lt; </td>
+          <td class="memname">static void Acore::Impl::GenericHashImpl::DestroyCTX </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dd/df2/a05555.html">SymbolPair</a> const &amp;&#160;</td>
-          <td class="paramname"><em>other</em></td><td>)</td>
-          <td> const</td>
+          <td class="paramtype">EVP_MD_CTX *&#160;</td>
+          <td class="paramname"><em>ctx</em></td><td>)</td>
+          <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  104</span>    {</div>
-<div class="line"><span class="lineno">  105</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dd/df2/a05555.html#ac011ac111d0ced8871d315e164948bea">_offset</a> &lt; other._offset ||</div>
-<div class="line"><span class="lineno">  106</span>               (<a class="code hl_variable" href="../../dd/df2/a05555.html#ac011ac111d0ced8871d315e164948bea">_offset</a> == other._offset &amp;&amp; <a class="code hl_variable" href="../../dd/df2/a05555.html#a50579f45ce4d7ef0155bac20b1958254">_type</a> &lt; other._type);</div>
-<div class="line"><span class="lineno">  107</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">   38</span>{ EVP_MD_CTX_free(ctx); }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00110">_offset</a>, and <a class="el" href="../../#l00109">_type</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00081">Acore::Impl::GenericHash&lt; HashCreator, DigestLength &gt;::~GenericHash()</a>, and <a class="el" href="../../#l00076">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;::~GenericHMAC()</a>.</p>
 
 </div>
 </div>
-<h2 class="groupheader">Member Data Documentation</h2>
-<a id="ac011ac111d0ced8871d315e164948bea" name="ac011ac111d0ced8871d315e164948bea"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac011ac111d0ced8871d315e164948bea">&#9670;&#160;</a></span>_offset</h2>
+<a id="a59487cdc54d416f8b2a88eb54ae21c8d" name="a59487cdc54d416f8b2a88eb54ae21c8d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a59487cdc54d416f8b2a88eb54ae21c8d">&#9670;&#160;</a></span>MakeCTX()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">DWORD_PTR SymbolPair::_offset</td>
+          <td class="memname">static EVP_MD_CTX * Acore::Impl::GenericHashImpl::MakeCTX </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span><span class="mlabel">noexcept</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00103">operator&lt;()</a>, and <a class="el" href="../../#l00097">SymbolPair()</a>.</p>
-
-</div>
-</div>
-<a id="a50579f45ce4d7ef0155bac20b1958254" name="a50579f45ce4d7ef0155bac20b1958254"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a50579f45ce4d7ef0155bac20b1958254">&#9670;&#160;</a></span>_type</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">DWORD SymbolPair::_type</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00103">operator&lt;()</a>, and <a class="el" href="../../#l00097">SymbolPair()</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">   37</span>{ <span class="keywordflow">return</span> EVP_MD_CTX_new(); }</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00100">Acore::Impl::GenericHash&lt; HashCreator, DigestLength &gt;::operator=()</a>, and <a class="el" href="../../#l00097">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;::operator=()</a>.</p>
 
 </div>
 </div>
@@ -245,8 +205,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dd/df2/a05555.html">SymbolPair</a></li>
-    <li class="footer">Generated on Tue Sep 1 2026 00:10:02 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d5/d87/a05118.html">Acore</a></li><li class="navelem"><a class="el" href="../../d5/d8c/a05130.html">Impl</a></li><li class="navelem"><a class="el" href="../../dd/df2/a05555.html">GenericHashImpl</a></li>
+    <li class="footer">Generated on Mon Sep 21 2026 23:34:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

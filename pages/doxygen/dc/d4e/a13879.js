@@ -1,8 +1,12 @@
 var a13879 =
 [
-    [ "HandleApply", "dc/d4e/a13879.html#a9dce02909356193476e66586aee87f1d", null ],
-    [ "OnPeriodic", "dc/d4e/a13879.html#add4f000f81d5d4112719c6dd7464163c", null ],
-    [ "PrepareAuraScript", "dc/d4e/a13879.html#a1a9dfb50cec61386c5e3a3556f5d2f53", null ],
-    [ "Register", "dc/d4e/a13879.html#abc349f12f375b1f284eb78a363e8172a", null ],
-    [ "Validate", "dc/d4e/a13879.html#a83195ac3c9536a3485e41bf2c04884f6", null ]
+    [ "npc_kiljaeden_controller", "dc/d4e/a13879.html#aabe4e5af5ad142bac6cdaa4f6787a7bc", null ],
+    [ "JustDied", "dc/d4e/a13879.html#a86c4d79a8caf8a838e353bbf1b78c56d", null ],
+    [ "JustSummoned", "dc/d4e/a13879.html#af28211012d8398a450439b8e24bf60ce", null ],
+    [ "Reset", "dc/d4e/a13879.html#a11f6f8e86c3ecdecf8e4c5bcb76f8664", null ],
+    [ "ResetOrbs", "dc/d4e/a13879.html#a4daacfe92ddb39ade57df3a1bbcd79fd", null ],
+    [ "SummonedCreatureDies", "dc/d4e/a13879.html#aed2772552dd500c180c3db4aeef8359a", null ],
+    [ "UpdateAI", "dc/d4e/a13879.html#a9f24328d9ffd94ecf3d15303a71acb9b", null ],
+    [ "instance", "dc/d4e/a13879.html#a2cb872334b9dd6a4f87468b41f164fc4", null ],
+    [ "summons", "dc/d4e/a13879.html#a116a739b2bff3257b35ff7946a3d1995", null ]
 ];

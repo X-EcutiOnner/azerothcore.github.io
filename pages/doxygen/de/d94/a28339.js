@@ -1,5 +1,6 @@
 var a28339 =
 [
-    [ "go_tele_to_dalaran_crystal", "de/d94/a28339.html#ab41268b7d568e8f189338f27cd90a62c", null ],
-    [ "OnGossipHello", "de/d94/a28339.html#a7f754a29249653ca7848494310ef1a8d", null ]
+    [ "go_flamesAI", "d9/dbd/a28343.html", "d9/dbd/a28343" ],
+    [ "go_flames", "de/d94/a28339.html#a75d49202eaf2078b8276e59944d1ec89", null ],
+    [ "GetAI", "de/d94/a28339.html#aea11412e7d17b744b4e70ec754a1e6cc", null ]
 ];

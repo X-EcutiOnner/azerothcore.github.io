@@ -1,15 +1,18 @@
 var a04523 =
 [
-    [ "SpellProcDBCValidationTest", "d2/d96/a30101.html", "d2/d96/a30101" ],
-    [ "SpellProcDBCValidationParamTest", "d6/d1a/a30105.html", null ],
-    [ "INSTANTIATE_TEST_SUITE_P", "d7/ddc/a04523.html#ac236754bdabd912728a4ccf0d50768c1", null ],
-    [ "TEST_F", "d7/ddc/a04523.html#a5d68edc629baf508a75ad0306d5a9123", null ],
-    [ "TEST_F", "d7/ddc/a04523.html#aae6111f031cb367b403d6c1fae593245", null ],
-    [ "TEST_F", "d7/ddc/a04523.html#a4dd4a9f2ad7b9f9c90f178e412d6853a", null ],
-    [ "TEST_F", "d7/ddc/a04523.html#a3140cdc3c6be8230853a19725adce0df", null ],
-    [ "TEST_F", "d7/ddc/a04523.html#a16d0dc4448f95f4d571e474baa22b657", null ],
-    [ "TEST_F", "d7/ddc/a04523.html#a14eea23ad6fde730eac3ff84fdffc8ad", null ],
-    [ "TEST_F", "d7/ddc/a04523.html#a67fce2ede01fc117b24ed6c0015ee5d5", null ],
-    [ "TEST_F", "d7/ddc/a04523.html#a918f689a14967e97deeb88c36f959a81", null ],
-    [ "TEST_P", "d7/ddc/a04523.html#a9c2b63e811e5bae6092ac12f33e514b8", null ]
+    [ "WildGrowthTickScalingTest", "d3/dea/a30199.html", null ],
+    [ "CalcAllTicks", "d7/ddc/a04523.html#a7d72b7a206fea0eaa814a190c35a0e29", null ],
+    [ "CalcPct", "d7/ddc/a04523.html#a95e4d56dd3e5ff9502c8bb2627784cd5", null ],
+    [ "CalcWildGrowthTickAmount", "d7/ddc/a04523.html#addfd88f5be5daae3a078cbade7aed80e", null ],
+    [ "TEST_F", "d7/ddc/a04523.html#a9d52bfcc939885d06058fd6bf5d53c2c", null ],
+    [ "TEST_F", "d7/ddc/a04523.html#aa504cc9a356860eb165f182559c176a5", null ],
+    [ "TEST_F", "d7/ddc/a04523.html#a782bf6635bb8ed38811c7267570bbc89", null ],
+    [ "TEST_F", "d7/ddc/a04523.html#a2aa08e1fb8bf70cf536d6b6bcd66ff1d", null ],
+    [ "TEST_F", "d7/ddc/a04523.html#ad88848d6f6a3aac255bc69c9fe088035", null ],
+    [ "TEST_F", "d7/ddc/a04523.html#a5baa77f7a4dcc6d8040eab8d54e78de4", null ],
+    [ "TEST_F", "d7/ddc/a04523.html#ad78da13617963af6adeadcec4d175082", null ],
+    [ "TEST_F", "d7/ddc/a04523.html#ade248bfbf5bb17e3ab46f8d2276b3ba8", null ],
+    [ "TEST_F", "d7/ddc/a04523.html#a476b6f58d0b66ce6fce645271bac47d7", null ],
+    [ "DEFAULT_REDUCTION", "d7/ddc/a04523.html#ae0cd8a076081c01395db37925ee7e3f5", null ],
+    [ "TOTAL_TICKS", "d7/ddc/a04523.html#a7748fbc7dddd525998e933e79311736a", null ]
 ];

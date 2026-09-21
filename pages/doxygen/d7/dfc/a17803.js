@@ -1,6 +1,6 @@
 var a17803 =
 [
-    [ "FilterTargets", "d7/dfc/a17803.html#a7abb4397b5fcf956bf31fa4dc9960ece", null ],
-    [ "PrepareSpellScript", "d7/dfc/a17803.html#a8e9d81b34e05506569f4b910c1958de3", null ],
-    [ "Register", "d7/dfc/a17803.html#aa80980c3f68abcb0fac7a41172f70012", null ]
+    [ "npc_ball_of_flameAI", "da/d5e/a17807.html", "da/d5e/a17807" ],
+    [ "npc_ball_of_flame", "d7/dfc/a17803.html#a353bf8385dea6c2e4a489bd14c87e0fe", null ],
+    [ "GetAI", "d7/dfc/a17803.html#ac0309668f9f0ca85a644d4928966e577", null ]
 ];

@@ -1,11 +1,10 @@
 var a13699 =
 [
-    [ "boss_alythess", "dc/df9/a13699.html#a707fbd0f310005a60d5ed4c05c9fc176", null ],
-    [ "AttackStart", "dc/df9/a13699.html#ac860cef30a96d020a7c729f63ac5ca4e", null ],
-    [ "DoAction", "dc/df9/a13699.html#aa2dc7ab74fa5bdb753475b2de1515855", null ],
-    [ "JustDied", "dc/df9/a13699.html#a5509c9f0d979a2d9d70a8f4f9e7971a0", null ],
-    [ "JustEngagedWith", "dc/df9/a13699.html#ac5047ee0124864304284c1142e885158", null ],
-    [ "KilledUnit", "dc/df9/a13699.html#a611d8c0a8fb9061e596ef0ac8f1fda88", null ],
-    [ "Reset", "dc/df9/a13699.html#ab5f990d305f42a2d00e182f617175672", null ],
-    [ "_isSisterDead", "dc/df9/a13699.html#a9f9fa0823685066b4990a17880782b9a", null ]
+    [ "HandleDummyTick", "dc/df9/a13699.html#a036291aee8b08212ecead4afce01adf4", null ],
+    [ "Load", "dc/df9/a13699.html#aaecea41af42790dfe9aeba3c56480668", null ],
+    [ "OnApply", "dc/df9/a13699.html#a37b425f877e7415b245c119c29521c4b", null ],
+    [ "PrepareAuraScript", "dc/df9/a13699.html#ade7bfbc3400fb620956d1e8dff7d4a8a", null ],
+    [ "Register", "dc/df9/a13699.html#a9b32995b6e324a6c779bbd742de6cce2", null ],
+    [ "Validate", "dc/df9/a13699.html#a72595ee3cd995d7bed2bcf8c9f5199fb", null ],
+    [ "_forsakenSpell", "dc/df9/a13699.html#ae2aee05482e4854120fc581ecec41f95", null ]
 ];

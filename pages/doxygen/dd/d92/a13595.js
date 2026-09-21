@@ -1,7 +1,9 @@
 var a13595 =
 [
-    [ "HandleScript", "dd/d92/a13595.html#acbff60b24bd0239880378b48cb97b6a4", null ],
-    [ "PrepareSpellScript", "dd/d92/a13595.html#a2f72b76ced4443a8eb1dfcf7bf6a4ac5", null ],
-    [ "Register", "dd/d92/a13595.html#a132d35555f1d589caa65ecd3728976d5", null ],
-    [ "Validate", "dd/d92/a13595.html#a503ce41357f8195837c9b14f2468fb5b", null ]
+    [ "npc_risen_guardianAI", "dd/d92/a13595.html#a50eb3de52205fc1bbc6936f0708c68a6", null ],
+    [ "IsSummonedBy", "dd/d92/a13595.html#ad9f45b9007c1ff74d0f725fbf7f00abe", null ],
+    [ "KilledUnit", "dd/d92/a13595.html#abc7afaa685a436b34ff76edcc6c25e54", null ],
+    [ "Gandling", "dd/d92/a13595.html#a93013b905260aa51341b22d1627cc986", null ],
+    [ "instance", "dd/d92/a13595.html#a96f1835989f646c708b8ef0cc9999e63", null ],
+    [ "room", "dd/d92/a13595.html#a5862a184b6daa92da133cc6c360a993d", null ]
 ];

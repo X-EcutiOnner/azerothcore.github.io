@@ -1,4 +1,4 @@
 var a00188 =
 [
-    [ "DatabaseLoader", "d2/d0c/a06105.html", "d2/d0c/a06105" ]
+    [ "DatabaseLoader", "db/d41/a06115.html", "db/d41/a06115" ]
 ];

@@ -1,7 +1,6 @@
 var a25851 =
 [
-    [ "OnDummyEffect", "d4/d98/a25851.html#a333c11c7ee2821bcc4d74d316f55bf5a", null ],
-    [ "PrepareSpellScript", "d4/d98/a25851.html#aa15334f23b837a005a34a12d238fc9d5", null ],
-    [ "Register", "d4/d98/a25851.html#a1b83195bdc148434f10a6c1ba3c0af0d", null ],
-    [ "Validate", "d4/d98/a25851.html#a359fba1475e52b24635cc8dda51cc922", null ]
+    [ "HandleStackDrop", "d4/d98/a25851.html#a9a1409c505aff1fd1021aea683c1aa8e", null ],
+    [ "PrepareAuraScript", "d4/d98/a25851.html#afdb5f1df2e88976bb62efd0f8859e3da", null ],
+    [ "Register", "d4/d98/a25851.html#ae67ab53e9c82a054e21a1242b5f50b4b", null ]
 ];

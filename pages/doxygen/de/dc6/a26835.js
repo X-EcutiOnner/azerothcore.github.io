@@ -1,7 +1,9 @@
 var a26835 =
 [
-    [ "CheckProc", "de/dc6/a26835.html#ad9511694733ed76ed2e55ffc1005345e", null ],
-    [ "HandleProc", "de/dc6/a26835.html#a8021759730e413476d768495e856c544", null ],
-    [ "PrepareAuraScript", "de/dc6/a26835.html#a2d226a3b38dbe3da64f3ae9a3c47f9ea", null ],
-    [ "Register", "de/dc6/a26835.html#a2d8e2b52076b519e083c71b99b482c32", null ]
+    [ "Load", "de/dc6/a26835.html#ae8329a18e94b3830e19bcbcbdf055dd2", null ],
+    [ "PrepareSpellScript", "de/dc6/a26835.html#a7a082f577937bf9f794bfb21bbc416f1", null ],
+    [ "Register", "de/dc6/a26835.html#a7b8f209bff9c2f1dff96f3d90c66cad4", null ],
+    [ "TriggerHeal", "de/dc6/a26835.html#acad9295c5c6b46bd969a4fb528a8ec25", null ],
+    [ "Validate", "de/dc6/a26835.html#a5f53a97e97f7959c51e1b5947f7c4418", null ],
+    [ "healPct", "de/dc6/a26835.html#a33b4d26c34903e45b7274e369f096ce1", null ]
 ];

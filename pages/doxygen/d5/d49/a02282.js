@@ -1,6 +1,8 @@
 var a02282 =
 [
-    [ "bg_commandscript", "d2/dd1/a12465.html", "d2/dd1/a12465" ],
-    [ "AddSC_bag_commandscript", "d5/d49/a02282.html#a8fa1e803122341d611168b2b62fde4e5", null ],
-    [ "itemQualityToString", "d5/d49/a02282.html#af266597924b9d3f439ffc9908001d2cb", null ]
+    [ "misc_commandscript", "da/d87/a12599.html", "da/d87/a12599" ],
+    [ "AddSC_misc_commandscript", "d5/d49/a02282.html#ac722d20c86b9502b7c4c8ae711cc3917", null ],
+    [ "GetLocalizeCreatureName", "d5/d49/a02282.html#aaedbdfd3cae227b11684151f41e3b977", null ],
+    [ "SPELL_FREEZE", "d5/d49/a02282.html#a181bdc61e4eb1d21db975ca0227cb086", null ],
+    [ "SPELL_STUCK", "d5/d49/a02282.html#a1706df7feb0ef4f693c388033ace5fb7", null ]
 ];

@@ -1,6 +1,6 @@
 var a13491 =
 [
-    [ "instance_scarlet_monastery_InstanceMapScript", "d0/d6e/a13495.html", "d0/d6e/a13495" ],
-    [ "instance_scarlet_monastery", "d0/d96/a13491.html#a8f068ebd98bd81dbb60dbccd795f1f3f", null ],
-    [ "GetInstanceScript", "d0/d96/a13491.html#a1c66031217457809fbe56303085715a0", null ]
+    [ "HandleProc", "d0/d96/a13491.html#a945dad46d3c11ee4720c939390a9dc1b", null ],
+    [ "PrepareAuraScript", "d0/d96/a13491.html#a43953f2950d9a92db66a2c65a045ff6e", null ],
+    [ "Register", "d0/d96/a13491.html#a24df76ff0933685bade58deff98856d2", null ]
 ];

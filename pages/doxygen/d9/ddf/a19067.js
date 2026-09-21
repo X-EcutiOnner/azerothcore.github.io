@@ -1,7 +1,8 @@
 var a19067 =
 [
-    [ "npc_captain_arnathAI", "d9/ddf/a19067.html#a34e3d17b89010569bf7e9cb28361c2af", null ],
-    [ "FindFriendlyCreature", "d9/ddf/a19067.html#ad6411d2a87d2552bea2051f80ca16e14", null ],
-    [ "Reset", "d9/ddf/a19067.html#a016fbe51f31e1c5ec1636e8d20d8cb30", null ],
-    [ "UpdateAI", "d9/ddf/a19067.html#a020efd7adc0d60152007906e3229988d", null ]
+    [ "FilterTargets", "d9/ddf/a19067.html#aed8b741160cbf50dde84cf059c8b52cb", null ],
+    [ "HandleForceCast", "d9/ddf/a19067.html#ae783cf255be823bf7c9125f288479e97", null ],
+    [ "Load", "d9/ddf/a19067.html#ac8f92e9284abc56d55ecf3aa73d350f8", null ],
+    [ "PrepareSpellScript", "d9/ddf/a19067.html#a68074978fe2c1b137c6ddfd7b9082bfc", null ],
+    [ "Register", "d9/ddf/a19067.html#a454a8909be4bb85f255ea696041ea447", null ]
 ];

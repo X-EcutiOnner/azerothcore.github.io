@@ -1,15 +1,9 @@
 var a13343 =
 [
-    [ "boss_tinhead", "d2/d6d/a13343.html#aa56375e9b031db15bee833375b7a4405", null ],
-    [ "DoAction", "d2/d6d/a13343.html#ab27d93fd2b58e3f1c9e14d5bc6c788ff", null ],
-    [ "EnterEvadeMode", "d2/d6d/a13343.html#ae83464d571103a67980b413325988921", null ],
-    [ "JustDied", "d2/d6d/a13343.html#a5a641c0e96f271540e4642b5bb4e4c9e", null ],
-    [ "JustEngagedWith", "d2/d6d/a13343.html#a74f51f155fdfb9ecc70245380b740d9c", null ],
-    [ "JustReachedHome", "d2/d6d/a13343.html#a6c930c6cb2116cf16f3e4002e333f585", null ],
-    [ "KilledUnit", "d2/d6d/a13343.html#ac0f281f1e4b985174f4c5c9b7fcf278d", null ],
-    [ "Reset", "d2/d6d/a13343.html#ac22d86f58d59c81429e45fba9393fd37", null ],
-    [ "UpdateAI", "d2/d6d/a13343.html#aec0d558cf82eb6bbf0d5626126b10233", null ],
-    [ "_rustCount", "d2/d6d/a13343.html#a48901503085fd3d4ee5624626a526ce2", null ],
-    [ "_scheduler", "d2/d6d/a13343.html#ababc9f32611a9ea35ef41725bce22df5", null ],
-    [ "instance", "d2/d6d/a13343.html#a00b2ebbb009c700e38bbffbb035b4bfa", null ]
+    [ "FilterTargets", "d2/d6d/a13343.html#a88b91e40b330d39bd04a7873128fb858", null ],
+    [ "HandleFinish", "d2/d6d/a13343.html#a762ea4cc1cd0a50a65daf22cbbf4ce9c", null ],
+    [ "PrepareSpellScript", "d2/d6d/a13343.html#ab4ef82283e4d651d2e5304e49970efa8", null ],
+    [ "Register", "d2/d6d/a13343.html#ab2008e585589cbf313170064d37c4aa9", null ],
+    [ "Validate", "d2/d6d/a13343.html#af4963be6c544a1706a6dc30dcbf18309", null ],
+    [ "_targets", "d2/d6d/a13343.html#a2f75199a90e52cff770f46bce76d5149", null ]
 ];

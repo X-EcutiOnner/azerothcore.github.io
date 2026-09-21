@@ -1,6 +1,6 @@
 var a20091 =
 [
-    [ "npc_collapsing_star", "d4/d61/a20091.html#a6660bd7f397d7a3cd7ee5d3580b6bb78", null ],
-    [ "DamageTaken", "d4/d61/a20091.html#ad19c1a3c033b0d97fe42c492634f9cd4", null ],
-    [ "JustSummoned", "d4/d61/a20091.html#a56e0bb55d903b6e7e5c493292512bebe", null ]
+    [ "CalculateDamage", "d4/d61/a20091.html#a3b9afc712f9091273e9abc5079a90eb8", null ],
+    [ "PrepareSpellScript", "d4/d61/a20091.html#a59e56fb107cca4952c5e94ed371f73dd", null ],
+    [ "Register", "d4/d61/a20091.html#a02851f0b94687512a8e016bfb9b826e3", null ]
 ];

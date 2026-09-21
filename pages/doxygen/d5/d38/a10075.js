@@ -1,10 +1,9 @@
 var a10075 =
 [
-    [ "const_iterator", "d5/d38/a10075.html#ac52d3ebfa7eaeb9d6fd08f0089b13918", null ],
-    [ "StorageType", "d5/d38/a10075.html#a6825a379d1af4254b920c14ab0068e7b", null ],
-    [ "BossBoundaryData", "d5/d38/a10075.html#a3f80cd89e43eae1a74e2b0a6a674d0cb", null ],
-    [ "~BossBoundaryData", "d5/d38/a10075.html#a446a3ec16cdce76058761fce972f1e57", null ],
-    [ "begin", "d5/d38/a10075.html#a326930360d22d5fdf9a895991f2c4e49", null ],
-    [ "end", "d5/d38/a10075.html#ab3dc9905d861b62c4551f45ee8b08ba5", null ],
-    [ "_data", "d5/d38/a10075.html#af60e90664c434a8d36115ca5dec889b5", null ]
+    [ "EmoteChatBuilder", "d5/d38/a10075.html#ae1aeb36aad24d5ef28074edfbf2f9e7e", null ],
+    [ "operator()", "d5/d38/a10075.html#a133a7bb35e86cf40425910c4f19a3337", null ],
+    [ "i_emote_num", "d5/d38/a10075.html#a966b8afcbf5afca3a3466d8e075a9437", null ],
+    [ "i_player", "d5/d38/a10075.html#ae09dbfe01b2a24e57b63b2b1df5ad232", null ],
+    [ "i_target", "d5/d38/a10075.html#abc538e056d91ea1ee8d6203c96174b1d", null ],
+    [ "i_text_emote", "d5/d38/a10075.html#add0630dc3fc76fb4fdb79095e13b2fc0", null ]
 ];

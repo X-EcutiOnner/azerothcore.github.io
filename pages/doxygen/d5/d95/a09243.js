@@ -1,7 +1,8 @@
 var a09243 =
 [
-    [ "EquipementIdPrev", "d5/d95/a09243.html#a719c716f8914a200bfde4f5bb3275f26", null ],
-    [ "EquipmentId", "d5/d95/a09243.html#af7f6e5bbb8327e5abf4e17a8a164cc4d", null ],
-    [ "ModelId", "d5/d95/a09243.html#ade2b2413020be410428b9fee9aa284d6", null ],
-    [ "ModelIdPrev", "d5/d95/a09243.html#a9de7aa11788b22692738b72718193057", null ]
+    [ "RedirectSpellEvent", "d5/d95/a09243.html#a77d243d64c2fc651d71c42e10a315161", null ],
+    [ "Execute", "d5/d95/a09243.html#a34ae2bc23904558bd5f5b99e8f1c5fdc", null ],
+    [ "_auraEffect", "d5/d95/a09243.html#a010f14a7d389b4e9ae9896061fa18a65", null ],
+    [ "_auraOwnerGUID", "d5/d95/a09243.html#a1b3fb598748362379fef15b3172d8e2b", null ],
+    [ "_self", "d5/d95/a09243.html#aecfa190843c1493b47652ccdac7ae9c3", null ]
 ];

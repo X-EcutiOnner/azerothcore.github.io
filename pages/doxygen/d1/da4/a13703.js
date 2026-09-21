@@ -1,9 +1,6 @@
 var a13703 =
 [
-    [ "spell_eredar_twins_apply_touch", "d1/da4/a13703.html#a1ffb6952cbbb79bb6a963ea57b8400aa", null ],
-    [ "HandleApplyTouch", "d1/da4/a13703.html#a200219828e22c35ef2f7c7a7fd61c973", null ],
-    [ "PrepareSpellScript", "d1/da4/a13703.html#a6e6c42042faa1a6cd82d4680d28587ae", null ],
-    [ "Register", "d1/da4/a13703.html#a8c49e8aeb1f00e8324aa4c1d420fb068", null ],
-    [ "Validate", "d1/da4/a13703.html#a36ff1d126191de7880d98242b3b714b5", null ],
-    [ "_touchSpell", "d1/da4/a13703.html#a9f8c58013add0fc5a05a78e1b90a32e1", null ]
+    [ "boss_baroness_anastariAI", "db/d8e/a13707.html", "db/d8e/a13707" ],
+    [ "boss_baroness_anastari", "d1/da4/a13703.html#a60f04c10d9b942cacf74a1dc8364dbbe", null ],
+    [ "GetAI", "d1/da4/a13703.html#a38073f80afbceb5535cc18ab524378a6", null ]
 ];

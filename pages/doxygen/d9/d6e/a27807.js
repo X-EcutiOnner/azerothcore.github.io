@@ -1,7 +1,6 @@
 var a27807 =
 [
-    [ "HandleDispel", "d9/d6e/a27807.html#aaf6920cb0fec741f3cff1d3f6e6d2c0f", null ],
-    [ "PrepareAuraScript", "d9/d6e/a27807.html#ace0ce4b85311893e1e6df403a6387cd9", null ],
-    [ "Register", "d9/d6e/a27807.html#a2c67e4327fdd034978d4822311632980", null ],
-    [ "Validate", "d9/d6e/a27807.html#ad8b5c381904c359ed608c808d5bbd9bd", null ]
+    [ "HandleSchoolDMG", "d9/d6e/a27807.html#a8f3ff0a48d5de4dcd33831400de0ba28", null ],
+    [ "PrepareSpellScript", "d9/d6e/a27807.html#a42bb397aa53fb43ba1b1799a7f162d9b", null ],
+    [ "Register", "d9/d6e/a27807.html#ac1271959fe8de3c11403b1e76acdbf15", null ]
 ];

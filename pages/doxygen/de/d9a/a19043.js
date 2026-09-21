@@ -1,6 +1,9 @@
 var a19043 =
 [
-    [ "npc_crok_scourgebaneAI", "dd/d01/a19047.html", "dd/d01/a19047" ],
-    [ "npc_crok_scourgebane", "de/d9a/a19043.html#a5f560e2c62aa618eadb5a11e2c9b90a3", null ],
-    [ "GetAI", "de/d9a/a19043.html#afa4fcbb9d7281fbee3f8bc0f318d2e6b", null ]
+    [ "npc_gluttonous_abominationAI", "de/d9a/a19043.html#a8b9b632e2e26ef8d0e8c122d28530e81", null ],
+    [ "JustDied", "de/d9a/a19043.html#abc0dd71bbaf85786f34367acc3a849e9", null ],
+    [ "JustSummoned", "de/d9a/a19043.html#a49ff3db7845167b9e98feab2a01b1ed1", null ],
+    [ "Reset", "de/d9a/a19043.html#a45588181429a74ac024e0390c76fa57a", null ],
+    [ "UpdateAI", "de/d9a/a19043.html#a33ef03a9f005ff187493275a9c2683a7", null ],
+    [ "_events", "de/d9a/a19043.html#a4a841c7d2565f4797bc893a9c1ee7acd", null ]
 ];

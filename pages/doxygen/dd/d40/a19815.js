@@ -1,8 +1,7 @@
 var a19815 =
 [
-    [ "npc_crystal_spike", "dd/d40/a19815.html#aa6a6e12aba63c589e71b5ca28b924fd4", null ],
-    [ "Reset", "dd/d40/a19815.html#a8cdca606ce482147d87ad5248665099e", null ],
-    [ "UpdateAI", "dd/d40/a19815.html#abc04c8fba427c12630b4faf1d39bdb32", null ],
-    [ "_damageTimer", "dd/d40/a19815.html#a36c70729a0c0281d467f870bfcde80ae", null ],
-    [ "_gameObjectGUID", "dd/d40/a19815.html#a0c0e9a1883cee51201b039947b5bacf3", null ]
+    [ "npc_eoe_wyrmrest_skytalon", "dd/d40/a19815.html#a8a2c264c200336b9f49f2a86f6953ff6", null ],
+    [ "IsSummonedBy", "dd/d40/a19815.html#a647ba18085c9522d8075c62ed9ce5b18", null ],
+    [ "JustDied", "dd/d40/a19815.html#a65df31829e801154ee20d55ad1c15721", null ],
+    [ "PassengerBoarded", "dd/d40/a19815.html#a350828bdc56029dcbfb863efef4d9d8e", null ]
 ];

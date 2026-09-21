@@ -1,6 +1,7 @@
 var a16687 =
 [
-    [ "boss_saviana_ragefireAI", "dc/d12/a16691.html", "dc/d12/a16691" ],
-    [ "boss_saviana_ragefire", "d1/dfb/a16687.html#a5964bbc510355a8b1fd08bd5f9f5f8c0", null ],
-    [ "GetAI", "d1/dfb/a16687.html#a0a0073d8710af066d9711636f4d5b01e", null ]
+    [ "HandleDummy", "d1/dfb/a16687.html#ad0782bfbd977954aac6170ee9111aef6", null ],
+    [ "PrepareSpellScript", "d1/dfb/a16687.html#ac456524856c4a3c4913423693a8fd50c", null ],
+    [ "Register", "d1/dfb/a16687.html#a82d88c5dac164eb9dee9883a91edd0df", null ],
+    [ "Validate", "d1/dfb/a16687.html#a2cf4ee02293cee5e383e99efe14e0008", null ]
 ];

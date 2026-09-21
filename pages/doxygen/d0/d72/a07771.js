@@ -1,10 +1,14 @@
 var a07771 =
 [
-    [ "OwnerId", "d0/d72/a07771.html#ae6203d7a867838b279825925841a99df", null ],
-    [ "PrevOwnerId", "d0/d72/a07771.html#a8357cc41fe125545d473c1f14c3ffa05", null ],
-    [ "PrevState", "d0/d72/a07771.html#ab97cde6dcd3c3e91bb94bf39d104bf77", null ],
-    [ "State", "d0/d72/a07771.html#a6e2b1f8c232c27ab24e3ca8bca8f6b03", null ],
-    [ "Timer", "d0/d72/a07771.html#a945afa538fc0dd1a4be11f5b5ac74bcb", null ],
-    [ "TotalOwnerId", "d0/d72/a07771.html#aec31f39eb98a3686ead3b1b99c7abfde", null ],
-    [ "Tower", "d0/d72/a07771.html#a222db96ad937e31986c0c39a5a371dd7", null ]
+    [ "IsArena", "d0/d72/a07771.html#a8a99bf73debf5835e58537bee33fe2ad", null ],
+    [ "BattlemasterEntry", "d0/d72/a07771.html#a51ce3b9fdb2f51f439fee7c8b48e3918", null ],
+    [ "Id", "d0/d72/a07771.html#a0fca37318585903f68695452a95011a9", null ],
+    [ "MaxLevel", "d0/d72/a07771.html#a790f55d480d1454a5f6e5713c04314b7", null ],
+    [ "MaxPlayersPerTeam", "d0/d72/a07771.html#a324a4e557ce66089ec1111a9dae6e1de", null ],
+    [ "MaxStartDistSq", "d0/d72/a07771.html#a5fbb1a76221e9d15bd7cca13581f7b14", null ],
+    [ "MinLevel", "d0/d72/a07771.html#a49fdf96a08376830a06956fd501cfa78", null ],
+    [ "MinPlayersPerTeam", "d0/d72/a07771.html#ac1bea263b53de8573cdb8eb890175495", null ],
+    [ "ScriptId", "d0/d72/a07771.html#a968dd626dba22925be3d8f1a3bdc51aa", null ],
+    [ "StartLocation", "d0/d72/a07771.html#a8477d2156c8aa5bb89da038d1a779698", null ],
+    [ "Weight", "d0/d72/a07771.html#aa7a051e8453599a7e82da763a6f91da2", null ]
 ];

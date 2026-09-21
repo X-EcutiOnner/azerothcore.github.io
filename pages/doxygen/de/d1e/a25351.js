@@ -1,6 +1,7 @@
 var a25351 =
 [
-    [ "HandleDummy", "de/d1e/a25351.html#a0bcbef8a2d5978498556a217ac618fed", null ],
-    [ "PrepareSpellScript", "de/d1e/a25351.html#a5901c22f3a10fdbd21d934f5cb8cd76d", null ],
-    [ "Register", "de/d1e/a25351.html#a2c6d9c273a3d281dacefc20970912166", null ]
+    [ "HandleEffectApply", "de/d1e/a25351.html#a2854357f92b1faac6e7840f1576138e0", null ],
+    [ "HandleEffectRemove", "de/d1e/a25351.html#a7960ca4deb4ff61d04ea7fe7ec0f0471", null ],
+    [ "PrepareAuraScript", "de/d1e/a25351.html#a2120cecbca61e4c7380892fe8d43772a", null ],
+    [ "Register", "de/d1e/a25351.html#a98c71c0d4c4b0503e66ed2033946cb2e", null ]
 ];

@@ -1,5 +1,6 @@
 var a17235 =
 [
-    [ "achievement_consumption_junction", "d9/d76/a17235.html#aab08732c13f41e0e8d27e9f482bd7351", null ],
-    [ "OnCheck", "d9/d76/a17235.html#a14dae1bf9d4d7c79f11de40b372f353e", null ]
+    [ "boss_dredAI", "d1/dfb/a17239.html", "d1/dfb/a17239" ],
+    [ "boss_dred", "d9/d76/a17235.html#a60a913f53c63f95680c29c72f48f9a1a", null ],
+    [ "GetAI", "d9/d76/a17235.html#ab8276b185f80a92a54327ea28b19c704", null ]
 ];

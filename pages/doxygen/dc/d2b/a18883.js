@@ -1,7 +1,11 @@
 var a18883 =
 [
-    [ "ValithriaDespawner", "dc/d2b/a18883.html#adf6f71ad9b97489f1e35781e491b28d8", null ],
-    [ "Execute", "dc/d2b/a18883.html#a4f8c63f52996da14078a7196cae3a00d", null ],
-    [ "operator()", "dc/d2b/a18883.html#a05bae39d642f294f2ef98151d66ba382", null ],
-    [ "_creature", "dc/d2b/a18883.html#a64bf6181ad867efd987edec141ca3bf0", null ]
+    [ "npc_terenas_menethilAI", "dc/d2b/a18883.html#aa2e95b96928b033ef374843ad1fb9f3c", null ],
+    [ "CanAIAttack", "dc/d2b/a18883.html#a1414da7f20e0f93486eb77c9b9450fa9", null ],
+    [ "DamageTaken", "dc/d2b/a18883.html#ae62a6f965ffb11d633190f1ca4122bc9", null ],
+    [ "DoAction", "dc/d2b/a18883.html#a4f261b19a7a8676dfd6d76d428a4f1b1", null ],
+    [ "EnterEvadeMode", "dc/d2b/a18883.html#ada5313b34e8c20c82ac97396e54e27df", null ],
+    [ "UpdateAI", "dc/d2b/a18883.html#a6210ca6e5e954d5c66d2108359efc888", null ],
+    [ "_events", "dc/d2b/a18883.html#ae61e4919b99a2b9195a389992947a125", null ],
+    [ "_instance", "dc/d2b/a18883.html#a60aae54e5e54526ba12a9468a3f45c88", null ]
 ];

@@ -1,10 +1,8 @@
 var a06547 =
 [
-    [ "RangeSelector", "dc/d8b/a06547.html#a4a87b90485180ede638e2c9bd2a7e9ed", null ],
-    [ "operator()", "dc/d8b/a06547.html#a917f21b135f402210d21e6bb3f19b9fa", null ],
-    [ "_inLos", "dc/d8b/a06547.html#a9dcf455d9db8d32aaebfc46eee36e1b5", null ],
-    [ "_maxDist", "dc/d8b/a06547.html#a973ec93b54a839f853101ad5998c10b2", null ],
-    [ "_me", "dc/d8b/a06547.html#a72ad35c7de0b5d540be27d9a9d46a1d4", null ],
-    [ "_minDist", "dc/d8b/a06547.html#ac1ce7a7a7ad6d033972b449867a1c5bf", null ],
-    [ "_playerOnly", "dc/d8b/a06547.html#ac68f7dfefe2e71942a3dfff7026a7ae7", null ]
+    [ "PassiveAI", "dc/d8b/a06547.html#ad1ae1c9e8a101dabd89aeed5c71eb453", null ],
+    [ "AttackStart", "dc/d8b/a06547.html#ac2aeba8cb148659de1ef97733fbb0651", null ],
+    [ "MoveInLineOfSight", "dc/d8b/a06547.html#a3a54c7d7268b8c2f4e081a99b4b0cd11", null ],
+    [ "Permissible", "dc/d8b/a06547.html#a2960223799a5b3baedbdd7e664604865", null ],
+    [ "UpdateAI", "dc/d8b/a06547.html#ae8aa0cf612d23e5b9438e3f2b443f3d9", null ]
 ];

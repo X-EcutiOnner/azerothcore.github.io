@@ -1,14 +1,13 @@
 var a07935 =
 [
-    [ "FilteredCommandListIterator", "d6/d92/a07935.html#abd6dc5c1e3c56eb27856eddb46d5e6a6", null ],
-    [ "_skip", "d6/d92/a07935.html#ac2f0e09b76eb9d40d1b78279a81a5e65", null ],
-    [ "operator bool", "d6/d92/a07935.html#aaeb128830c7705a455343d173dc3ae5a", null ],
-    [ "operator!", "d6/d92/a07935.html#a864e81c56946ca97bf24b392ff8f0b8f", null ],
-    [ "operator*", "d6/d92/a07935.html#a7b1008103a94f6dc068d3e839c924ea6", null ],
-    [ "operator++", "d6/d92/a07935.html#a6d4a54adde98e638428a8d314a6e4356", null ],
-    [ "operator->", "d6/d92/a07935.html#ad83cb2c649a847d0cd04b5fd8ee8494c", null ],
-    [ "_end", "d6/d92/a07935.html#a294c3b743ac4b1a1b878d02a6580d3ca", null ],
-    [ "_handler", "d6/d92/a07935.html#a0c64270cd18f8988997882ceb3e10184", null ],
-    [ "_it", "d6/d92/a07935.html#abbf6ac9d50ba494221addff9aba11b80", null ],
-    [ "_token", "d6/d92/a07935.html#acb834f907b55195f2a27d69f89d84961", null ]
+    [ "WhoListCacheMgr", "d6/d92/a07935.html#a2190c113c3d38bd316b17a4400c113e6", null ],
+    [ "~WhoListCacheMgr", "d6/d92/a07935.html#ae32706d7786014e142dc1cb9ccd29d70", null ],
+    [ "WhoListCacheMgr", "d6/d92/a07935.html#a366e452317179d647042c24c56faafa1", null ],
+    [ "WhoListCacheMgr", "d6/d92/a07935.html#ae0358ae9260f929410f6518f89135161", null ],
+    [ "GetWhoList", "d6/d92/a07935.html#a4dec6544342fdc5052b69dcc61148453", null ],
+    [ "instance", "d6/d92/a07935.html#a1e8ce970e3213cd0361af303df98b387", null ],
+    [ "operator=", "d6/d92/a07935.html#a80615aa0a66ac29765f27598e605c712", null ],
+    [ "operator=", "d6/d92/a07935.html#ab8aff37f9e66aef40ccb794928bc001c", null ],
+    [ "Update", "d6/d92/a07935.html#a3db2ef832cf1413fb2e565ca0d922a80", null ],
+    [ "_whoListStorage", "d6/d92/a07935.html#a75495cb910c6de65d60a5080248e1e25", null ]
 ];

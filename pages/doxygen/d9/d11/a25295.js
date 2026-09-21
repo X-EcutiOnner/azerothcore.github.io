@@ -1,6 +1,6 @@
 var a25295 =
 [
-    [ "HandleScriptEffect", "d9/d11/a25295.html#a514697f3fdcbf9274453d6d71c0c4816", null ],
-    [ "PrepareSpellScript", "d9/d11/a25295.html#a5bcff624e9a396a2f90115dc99d93ae9", null ],
-    [ "Register", "d9/d11/a25295.html#aebcc23e4f4a1c5ab90fb06a47755ec2b", null ]
+    [ "HandleEffectPeriodicUpdate", "d9/d11/a25295.html#a554353fede78b89bf488230254d7892b", null ],
+    [ "PrepareAuraScript", "d9/d11/a25295.html#adf20aaafff83bae614ff3c614a08a54b", null ],
+    [ "Register", "d9/d11/a25295.html#a6ee55cc41f7b69fc12bb3dc6c7fcbaf5", null ]
 ];

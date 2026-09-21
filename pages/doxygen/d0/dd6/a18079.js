@@ -1,8 +1,5 @@
 var a18079 =
 [
-    [ "Load", "d0/dd6/a18079.html#ad1105149d5e42318382af6c07149d522", null ],
-    [ "PeriodicTick", "d0/dd6/a18079.html#a8e675178256746d08af50a6b75ec582e", null ],
-    [ "PrepareAuraScript", "d0/dd6/a18079.html#a88f4baca7ceac44e5d148b73386a10a7", null ],
-    [ "Register", "d0/dd6/a18079.html#a0fa7d86214827711edd019dd3b40c667", null ],
-    [ "_tickNo", "d0/dd6/a18079.html#a418212d2daa873d69a83b4c1341a8903", null ]
+    [ "npc_zafod_boomboxAI", "d0/dd6/a18079.html#a6540d8f5787ce1da211123721ef659f3", null ],
+    [ "sGossipSelect", "d0/dd6/a18079.html#a6378748a168e4e668f696bd9c6dfbc31", null ]
 ];

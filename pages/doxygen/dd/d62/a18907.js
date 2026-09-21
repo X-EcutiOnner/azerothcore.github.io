@@ -1,12 +1,7 @@
 var a18907 =
 [
-    [ "npc_the_lich_king_controllerAI", "dd/d62/a18907.html#a211c370e9c370e00fba3c83e51738886", null ],
-    [ "AttackStart", "dd/d62/a18907.html#a58e11746c14f6bbb1b5c56c1d0136d9f", null ],
-    [ "DoAction", "dd/d62/a18907.html#aaf940a0ca812d84dbde81fc7e41feaca", null ],
-    [ "JustSummoned", "dd/d62/a18907.html#aa610e24316505165cbb826ff5bece5c5", null ],
-    [ "MoveInLineOfSight", "dd/d62/a18907.html#a0ee33ab5733c12163e92213376e893e4", null ],
-    [ "Reset", "dd/d62/a18907.html#a2c4410cc2ad995452f742f79e8e4af8b", null ],
-    [ "UpdateAI", "dd/d62/a18907.html#a34a0295ad1a45a9bc060ff8595c22e14", null ],
-    [ "_events", "dd/d62/a18907.html#a90c3d818318004c7c21ec66d4d080615", null ],
-    [ "_instance", "dd/d62/a18907.html#a480a284881ba5f56bc6222607bd01a76", null ]
+    [ "OnPeriodic", "dd/d62/a18907.html#adfbfcf4ad8671ca4eaa439705f7b6c2a", null ],
+    [ "PrepareAuraScript", "dd/d62/a18907.html#a5bb82c03f7c34e6febd3fe8aa57d4723", null ],
+    [ "Register", "dd/d62/a18907.html#a0fc7ca43a0d82058fc04277742231388", null ],
+    [ "Validate", "dd/d62/a18907.html#ae52c7c189a45a0bb5f3a627f502e3730", null ]
 ];

@@ -1,6 +1,6 @@
 var a21287 =
 [
-    [ "npc_ravenous_furbolgAI", "da/dfa/a21291.html", "da/dfa/a21291" ],
-    [ "npc_ravenous_furbolg", "d3/d33/a21287.html#a1d7adf8eb055cb6ba82db2f173256fe9", null ],
-    [ "GetAI", "d3/d33/a21287.html#a284c366e6f5bd024d9627a83dd966669", null ]
+    [ "HandleEffectPeriodic", "d3/d33/a21287.html#a3dd6eaa3e5800b92e19c12e47b0ad132", null ],
+    [ "PrepareAuraScript", "d3/d33/a21287.html#a0b24e94cfce6b57d2dc8b36c3fe1c39f", null ],
+    [ "Register", "d3/d33/a21287.html#a4dd779cac93c2f847495dadc67c0beb2", null ]
 ];

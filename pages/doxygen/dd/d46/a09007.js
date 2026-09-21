@@ -1,8 +1,6 @@
 var a09007 =
 [
-    [ "checkLeaderOnly", "dd/d46/a09007.html#ade8f2e22abe69a9a32085e4d901bc83b", null ],
-    [ "faction", "dd/d46/a09007.html#a23c649e494795b27856b67225370a820", null ],
-    [ "id", "dd/d46/a09007.html#a5d5b8f6fe0bfc5ae98c2fb10e3a18360", null ],
-    [ "note", "dd/d46/a09007.html#a0e800dd8869fedbe71e5b14aa3c79d8a", null ],
-    [ "priority", "dd/d46/a09007.html#a3a66018ae4e7a7e755962f1edae58d29", null ]
+    [ "PlayerClassLevelInfo", "dd/d46/a09007.html#a60153094e3179bfc6c028d2b76775805", null ],
+    [ "basehealth", "dd/d46/a09007.html#a034ae3d2b5b14ce454710ca8f92ffee0", null ],
+    [ "basemana", "dd/d46/a09007.html#a939a8d8739a553c919d84e399ce17d22", null ]
 ];

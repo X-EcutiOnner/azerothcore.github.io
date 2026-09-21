@@ -1,5 +1,5 @@
 var a02096 =
 [
-    [ "GroupMgr", "d0/d0e/a09989.html", "d0/d0e/a09989" ],
-    [ "sGroupMgr", "dd/d77/a02096.html#a9b001b22670103435cf11551af9fa71e", null ]
+    [ "GetEnableModulesList", "dd/d77/a02096.html#a2a2aa3aabfbef586b9a1e63fbae0e0f7", null ],
+    [ "SetEnableModulesList", "dd/d77/a02096.html#ac16569c9333f642e54fa7a4ec6a948e3", null ]
 ];

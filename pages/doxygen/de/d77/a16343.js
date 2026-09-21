@@ -1,12 +1,6 @@
 var a16343 =
 [
-    [ "npc_twilight_volunteer", "de/d77/a16343.html#a3062041fcabf972e0a3d4753363c37b3", null ],
-    [ "AttackStart", "de/d77/a16343.html#abc2e12fb7be5b1a7dabc4c2211e7de13", null ],
-    [ "DoAction", "de/d77/a16343.html#ae95bcb02ee4f0ead76e249de0cba2d88", null ],
-    [ "EnterEvadeMode", "de/d77/a16343.html#abd88e6fe0565babb92ccae17df0421d6", null ],
-    [ "MovementInform", "de/d77/a16343.html#a4f27ae97ccf2c349a6352a0f5ba1681a", null ],
-    [ "UpdateAI", "de/d77/a16343.html#a93288a45982b172c201e2442a4c91114", null ],
-    [ "events", "de/d77/a16343.html#ad8cc52c1462d7adbfbe566c55c0ed244", null ],
-    [ "isSacraficeTarget", "de/d77/a16343.html#a8350dba2c41754a2e5d15c94731ef27d", null ],
-    [ "pInstance", "de/d77/a16343.html#ad58453e078520fa23238a96115e5f38f", null ]
+    [ "HandleSummon", "de/d77/a16343.html#a730e0c865f8c0c12544be951a48fe9ff", null ],
+    [ "PrepareSpellScript", "de/d77/a16343.html#a31271cd4668d3cbc4f4bdbeb693fe141", null ],
+    [ "Register", "de/d77/a16343.html#ae388ee1b08891f021ab1308ec7ffebaa", null ]
 ];

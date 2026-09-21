@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: BattlegroundAB::CapturePointInfo Struct Reference</title>
+<title>AzerothCore: BattlegroundData Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,146 +105,64 @@ $(document).ready(function(){initNavTree('d7/d72/a07767.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d2/d59/a07764.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">BattlegroundAB::CapturePointInfo Struct Reference</div></div>
+  <div class="headertitle"><div class="title">BattlegroundData Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
+
+<p><code>#include &quot;<a class="el" href="../../">BattlegroundMgr.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
-Public Member Functions</h2></td></tr>
-<tr class="memitem:a47ba3bbadd15909726e87dc5adc67686"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d72/a07767.html#a47ba3bbadd15909726e87dc5adc67686">CapturePointInfo</a> ()</td></tr>
-<tr class="separator:a47ba3bbadd15909726e87dc5adc67686"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:aad378d1b07f1ef8c45b0bb1bcce7a028"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/de8/a02852.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d72/a07767.html#aad378d1b07f1ef8c45b0bb1bcce7a028">_ownerTeamId</a></td></tr>
-<tr class="separator:aad378d1b07f1ef8c45b0bb1bcce7a028"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a43228afe59b8fa004d2c740dd6262f8e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d72/a07767.html#a43228afe59b8fa004d2c740dd6262f8e">_iconNone</a></td></tr>
-<tr class="separator:a43228afe59b8fa004d2c740dd6262f8e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a58adc22a7246dd7362efcf9d9a1891ad"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d72/a07767.html#a58adc22a7246dd7362efcf9d9a1891ad">_iconCapture</a></td></tr>
-<tr class="separator:a58adc22a7246dd7362efcf9d9a1891ad"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a98cb154218423e295b8007c62222831c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/ddd/a00380.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d72/a07767.html#a98cb154218423e295b8007c62222831c">_state</a></td></tr>
-<tr class="separator:a98cb154218423e295b8007c62222831c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aac26833d9951853183095b3985254e03"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d72/a07767.html#aac26833d9951853183095b3985254e03">_captured</a></td></tr>
-<tr class="separator:aac26833d9951853183095b3985254e03"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa48f3a9d4a51e357055a0bc60ca41d7c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d19/a01190.html#a33858c5514cd62b25f056e4ba170de59">BattlegroundContainer</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d72/a07767.html#aa48f3a9d4a51e357055a0bc60ca41d7c">_Battlegrounds</a></td></tr>
+<tr class="separator:aa48f3a9d4a51e357055a0bc60ca41d7c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0526fab23b40ac1b33ce18243ad41132"><td class="memItemLeft" align="right" valign="top">std::array&lt; <a class="el" href="../../dc/d19/a01190.html#aa4d7efc49483e1820c6d759f0f3613f2">BattlegroundClientIdsContainer</a>, <a class="el" href="../../d5/db1/a00140.html#a5201a522ecfb21f8b94bcab8b2ba2f8c">MAX_BATTLEGROUND_BRACKETS</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d72/a07767.html#a0526fab23b40ac1b33ce18243ad41132">_ClientBattlegroundIds</a></td></tr>
+<tr class="separator:a0526fab23b40ac1b33ce18243ad41132"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a49fd7eb3a472894f233d309d35d509be"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d19/a01190.html#a356842317f4215b2ee31abb25b4d54e7">BGFreeSlotQueueContainer</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d72/a07767.html#a49fd7eb3a472894f233d309d35d509be">BGFreeSlotQueue</a></td></tr>
+<tr class="separator:a49fd7eb3a472894f233d309d35d509be"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a47ba3bbadd15909726e87dc5adc67686" name="a47ba3bbadd15909726e87dc5adc67686"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a47ba3bbadd15909726e87dc5adc67686">&#9670;&#160;</a></span>CapturePointInfo()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">BattlegroundAB::CapturePointInfo::CapturePointInfo </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  284</span>                           : <a class="code hl_variable" href="../../d7/d72/a07767.html#aad378d1b07f1ef8c45b0bb1bcce7a028">_ownerTeamId</a>(<a class="code hl_enumvalue" href="../../da/de8/a02852.html#abfb349736a7699bdfcdb134035ef7865a1d009932a5dde84d818f627cfcfe3fe5">TEAM_NEUTRAL</a>), <a class="code hl_variable" href="../../d7/d72/a07767.html#a43228afe59b8fa004d2c740dd6262f8e">_iconNone</a>(0), <a class="code hl_variable" href="../../d7/d72/a07767.html#a58adc22a7246dd7362efcf9d9a1891ad">_iconCapture</a>(0), <a class="code hl_variable" href="../../d7/d72/a07767.html#a98cb154218423e295b8007c62222831c">_state</a>(<a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#a57b60dbaa9b05ef4b896e2b8ffebf130a462423d2f622b94627c152cb7e50618e">BG_AB_NODE_STATE_NEUTRAL</a>), <a class="code hl_variable" href="../../d7/d72/a07767.html#aac26833d9951853183095b3985254e03">_captured</a>(<span class="keyword">false</span>)</div>
-<div class="line"><span class="lineno">  285</span>        {</div>
-<div class="line"><span class="lineno">  286</span>        }</div>
-<div class="ttc" id="aa01760_html_a57b60dbaa9b05ef4b896e2b8ffebf130a462423d2f622b94627c152cb7e50618e"><div class="ttname"><a href="../../d0/d9d/a01760.html#a57b60dbaa9b05ef4b896e2b8ffebf130a462423d2f622b94627c152cb7e50618e">BG_AB_NODE_STATE_NEUTRAL</a></div><div class="ttdeci">@ BG_AB_NODE_STATE_NEUTRAL</div><div class="ttdef"><b>Definition:</b> BattlegroundAB.h:141</div></div>
-<div class="ttc" id="aa02852_html_abfb349736a7699bdfcdb134035ef7865a1d009932a5dde84d818f627cfcfe3fe5"><div class="ttname"><a href="../../da/de8/a02852.html#abfb349736a7699bdfcdb134035ef7865a1d009932a5dde84d818f627cfcfe3fe5">TEAM_NEUTRAL</a></div><div class="ttdeci">@ TEAM_NEUTRAL</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:750</div></div>
-<div class="ttc" id="aa07767_html_a43228afe59b8fa004d2c740dd6262f8e"><div class="ttname"><a href="../../d7/d72/a07767.html#a43228afe59b8fa004d2c740dd6262f8e">BattlegroundAB::CapturePointInfo::_iconNone</a></div><div class="ttdeci">uint32 _iconNone</div><div class="ttdef"><b>Definition:</b> BattlegroundAB.h:289</div></div>
-<div class="ttc" id="aa07767_html_a58adc22a7246dd7362efcf9d9a1891ad"><div class="ttname"><a href="../../d7/d72/a07767.html#a58adc22a7246dd7362efcf9d9a1891ad">BattlegroundAB::CapturePointInfo::_iconCapture</a></div><div class="ttdeci">uint32 _iconCapture</div><div class="ttdef"><b>Definition:</b> BattlegroundAB.h:290</div></div>
-<div class="ttc" id="aa07767_html_a98cb154218423e295b8007c62222831c"><div class="ttname"><a href="../../d7/d72/a07767.html#a98cb154218423e295b8007c62222831c">BattlegroundAB::CapturePointInfo::_state</a></div><div class="ttdeci">uint8 _state</div><div class="ttdef"><b>Definition:</b> BattlegroundAB.h:291</div></div>
-<div class="ttc" id="aa07767_html_aac26833d9951853183095b3985254e03"><div class="ttname"><a href="../../d7/d72/a07767.html#aac26833d9951853183095b3985254e03">BattlegroundAB::CapturePointInfo::_captured</a></div><div class="ttdeci">bool _captured</div><div class="ttdef"><b>Definition:</b> BattlegroundAB.h:293</div></div>
-<div class="ttc" id="aa07767_html_aad378d1b07f1ef8c45b0bb1bcce7a028"><div class="ttname"><a href="../../d7/d72/a07767.html#aad378d1b07f1ef8c45b0bb1bcce7a028">BattlegroundAB::CapturePointInfo::_ownerTeamId</a></div><div class="ttdeci">TeamId _ownerTeamId</div><div class="ttdef"><b>Definition:</b> BattlegroundAB.h:288</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<h2 class="groupheader">Member Data Documentation</h2>
-<a id="aac26833d9951853183095b3985254e03" name="aac26833d9951853183095b3985254e03"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aac26833d9951853183095b3985254e03">&#9670;&#160;</a></span>_captured</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Data Documentation</h2>
+<a id="aa48f3a9d4a51e357055a0bc60ca41d7c" name="aa48f3a9d4a51e357055a0bc60ca41d7c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa48f3a9d4a51e357055a0bc60ca41d7c">&#9670;&#160;</a></span>_Battlegrounds</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">bool BattlegroundAB::CapturePointInfo::_captured</td>
+          <td class="memname"><a class="el" href="../../dc/d19/a01190.html#a33858c5514cd62b25f056e4ba170de59">BattlegroundContainer</a> BattlegroundData::_Battlegrounds</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00052">BattlegroundAB::PostUpdateImpl()</a>.</p>
-
 </div>
 </div>
-<a id="a58adc22a7246dd7362efcf9d9a1891ad" name="a58adc22a7246dd7362efcf9d9a1891ad"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a58adc22a7246dd7362efcf9d9a1891ad">&#9670;&#160;</a></span>_iconCapture</h2>
+<a id="a0526fab23b40ac1b33ce18243ad41132" name="a0526fab23b40ac1b33ce18243ad41132"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0526fab23b40ac1b33ce18243ad41132">&#9670;&#160;</a></span>_ClientBattlegroundIds</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> BattlegroundAB::CapturePointInfo::_iconCapture</td>
+          <td class="memname">std::array&lt;<a class="el" href="../../dc/d19/a01190.html#aa4d7efc49483e1820c6d759f0f3613f2">BattlegroundClientIdsContainer</a>, <a class="el" href="../../d5/db1/a00140.html#a5201a522ecfb21f8b94bcab8b2ba2f8c">MAX_BATTLEGROUND_BRACKETS</a>&gt; BattlegroundData::_ClientBattlegroundIds</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00465">BattlegroundAB::Init()</a>.</p>
-
 </div>
 </div>
-<a id="a43228afe59b8fa004d2c740dd6262f8e" name="a43228afe59b8fa004d2c740dd6262f8e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a43228afe59b8fa004d2c740dd6262f8e">&#9670;&#160;</a></span>_iconNone</h2>
+<a id="a49fd7eb3a472894f233d309d35d509be" name="a49fd7eb3a472894f233d309d35d509be"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a49fd7eb3a472894f233d309d35d509be">&#9670;&#160;</a></span>BGFreeSlotQueue</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> BattlegroundAB::CapturePointInfo::_iconNone</td>
+          <td class="memname"><a class="el" href="../../dc/d19/a01190.html#a356842317f4215b2ee31abb25b4d54e7">BGFreeSlotQueueContainer</a> BattlegroundData::BGFreeSlotQueue</td>
         </tr>
       </table>
 </div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00465">BattlegroundAB::Init()</a>.</p>
-
-</div>
-</div>
-<a id="aad378d1b07f1ef8c45b0bb1bcce7a028" name="aad378d1b07f1ef8c45b0bb1bcce7a028"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aad378d1b07f1ef8c45b0bb1bcce7a028">&#9670;&#160;</a></span>_ownerTeamId</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../da/de8/a02852.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a> BattlegroundAB::CapturePointInfo::_ownerTeamId</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00305">BattlegroundAB::EventPlayerClickedOnFlag()</a>, <a class="el" href="../../#l00290">BattlegroundAB::NodeDeoccupied()</a>, <a class="el" href="../../#l00269">BattlegroundAB::NodeOccupied()</a>, and <a class="el" href="../../#l00052">BattlegroundAB::PostUpdateImpl()</a>.</p>
-
-</div>
-</div>
-<a id="a98cb154218423e295b8007c62222831c" name="a98cb154218423e295b8007c62222831c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a98cb154218423e295b8007c62222831c">&#9670;&#160;</a></span>_state</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> BattlegroundAB::CapturePointInfo::_state</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00305">BattlegroundAB::EventPlayerClickedOnFlag()</a>, and <a class="el" href="../../#l00052">BattlegroundAB::PostUpdateImpl()</a>.</p>
 
 </div>
 </div>
@@ -253,8 +171,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d0/d17/a07763.html">BattlegroundAB</a></li><li class="navelem"><a class="el" href="../../d7/d72/a07767.html">CapturePointInfo</a></li>
-    <li class="footer">Generated on Tue Sep 1 2026 00:08:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d7/d72/a07767.html">BattlegroundData</a></li>
+    <li class="footer">Generated on Mon Sep 21 2026 23:33:30 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,6 +1,6 @@
 var a17723 =
 [
-    [ "npc_ball_of_flameAI", "de/dd1/a17727.html", "de/dd1/a17727" ],
-    [ "npc_ball_of_flame", "d0/d07/a17723.html#a353bf8385dea6c2e4a489bd14c87e0fe", null ],
-    [ "GetAI", "d0/d07/a17723.html#ac0309668f9f0ca85a644d4928966e577", null ]
+    [ "HandlePeriodic", "d0/d07/a17723.html#a27ad5fef0695f006c2f8795ac0fbce53", null ],
+    [ "PrepareAuraScript", "d0/d07/a17723.html#a29b00511d9a215fd0e00702e7a2dca0c", null ],
+    [ "Register", "d0/d07/a17723.html#a9753daf5cdc812e9027c1153b450686d", null ]
 ];

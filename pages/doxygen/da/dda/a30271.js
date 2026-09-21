@@ -1,7 +1,4 @@
 var a30271 =
 [
-    [ "walkableClimb", "da/dda/a30271.html#af8d2e9bccb8f6bbb36065e686ea39626", null ],
-    [ "walkableHeight", "da/dda/a30271.html#a32f39a07562c47be0a311d7959678044", null ],
-    [ "walkableRadius", "da/dda/a30271.html#a6e708a591e7b5597e129a653e1379a1e", null ],
-    [ "walkableSlopeAngle", "da/dda/a30271.html#a9b880e84fa1d07e414e9a9a62a20969c", null ]
+    [ "coords", "da/dda/a30271.html#a6de1e0be070d552f8002bff7675bb9cf", null ]
 ];

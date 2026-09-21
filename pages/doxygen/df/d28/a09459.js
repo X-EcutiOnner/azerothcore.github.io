@@ -1,6 +1,13 @@
 var a09459 =
 [
-    [ "lang_id", "df/d28/a09459.html#a1fa900a467834103ac595a8a96dd28c0", null ],
-    [ "skill_id", "df/d28/a09459.html#a37ffc91876a998fe354ca1b7dffc512a", null ],
-    [ "spell_id", "df/d28/a09459.html#ac0acb5dfb8af32b382b3b51db4daa0f0", null ]
+    [ "entry", "df/d28/a09459.html#a9b4a88edefbc1e4b08a8ee03dfd90274", null ],
+    [ "height", "df/d28/a09459.html#a40fcdb1274bc2587e8870b39a64289e1", null ],
+    [ "length", "df/d28/a09459.html#a8e1ac424a973e546aa7c35e387e32a23", null ],
+    [ "map", "df/d28/a09459.html#a9ecb58fde45a318ba0d6306c603aba4b", null ],
+    [ "orientation", "df/d28/a09459.html#a5db58eaf63aceeaeb93bf6f4d5961a97", null ],
+    [ "radius", "df/d28/a09459.html#ae4195d9f29b425394296009c22654380", null ],
+    [ "width", "df/d28/a09459.html#af914195a4e7f2314a6241fb81cc8cfa8", null ],
+    [ "x", "df/d28/a09459.html#a423077ceaf75c367831a6d9f55427a6f", null ],
+    [ "y", "df/d28/a09459.html#a55ab832828addcef1b2f570bda81f2ce", null ],
+    [ "z", "df/d28/a09459.html#ae5d0d4e9ef4006ad6c7195b999ef00c2", null ]
 ];

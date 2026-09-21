@@ -1,7 +1,21 @@
 var a17179 =
 [
-    [ "HandleScriptEffect", "de/d81/a17179.html#a51064b3a11f453724ae0879c80eaf8df", null ],
-    [ "PrepareSpellScript", "de/d81/a17179.html#aac26002ff107e609fb7258306b430f1b", null ],
-    [ "Register", "de/d81/a17179.html#a0efef7644706940e3929ce99cd162c91", null ],
-    [ "Validate", "de/d81/a17179.html#a7110d4136337d44aa0300ec82e5a6511", null ]
+    [ "boss_twin_valkyrAI", "de/d81/a17179.html#a3a10c07715e5ef03c28f132df18e80bd", null ],
+    [ "DoAction", "de/d81/a17179.html#a1a9c9f90108d203c2aca8c401763936f", null ],
+    [ "EnterEvadeMode", "de/d81/a17179.html#a624969393687e10c2f8fca72d9394265", null ],
+    [ "GetSister", "de/d81/a17179.html#a0c0998e2d4981dd3a1e2580497c1f3ef", null ],
+    [ "JustDied", "de/d81/a17179.html#ad3ac59a0c0477a0819fd799b3bc305f6", null ],
+    [ "JustEngagedWith", "de/d81/a17179.html#a2c0015cadfcc90e1c730d8f9c02151e8", null ],
+    [ "JustReachedHome", "de/d81/a17179.html#af6127deaa5ff11a4ae2983e34d538bef", null ],
+    [ "JustSummoned", "de/d81/a17179.html#a6b08f13c0213acf91b72b6341896406e", null ],
+    [ "KilledUnit", "de/d81/a17179.html#a6b6706c12a0abbc36a022eb3af1925ec", null ],
+    [ "myDoMeleeAttackIfReady", "de/d81/a17179.html#a8a488e8d0acab2737c0503ce89fd3d2a", null ],
+    [ "SummonedCreatureDespawn", "de/d81/a17179.html#ae49793079dbec2dbe5e807f998705b20", null ],
+    [ "UpdateAI", "de/d81/a17179.html#aea878cd12d640ce4e3d87deb85c20b9f", null ],
+    [ "UpdateSharedHealth", "de/d81/a17179.html#a4101d2174de103be7154875beaafa65d", null ],
+    [ "events", "de/d81/a17179.html#a08867e9274660a8913034bf3d80e559f", null ],
+    [ "LastSynchroHP", "de/d81/a17179.html#aa66ac25aa73c505df972cf95dca85a71", null ],
+    [ "pInstance", "de/d81/a17179.html#a653a89ac515061fca04240fa71a6630a", null ],
+    [ "SpecialMask", "de/d81/a17179.html#a8ca507c7a288a5cb9a8160129820e4e0", null ],
+    [ "summons", "de/d81/a17179.html#adeb3d3d3eb868ed1a9c211450404b659", null ]
 ];

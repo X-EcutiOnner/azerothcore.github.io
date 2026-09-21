@@ -1,14 +1,10 @@
 var a14103 =
 [
-    [ "npc_lord_gregor_lescovarAI", "d0/d42/a14103.html#ab3ed8a9536fc6be948f280e319d4fec7", null ],
-    [ "DoGuardsDisappearAndDie", "d0/d42/a14103.html#a8588cae3dc8aa3dd46c55439d355df9b", null ],
-    [ "EnterEvadeMode", "d0/d42/a14103.html#a95e60614808191e4c1f909f5e38e4741", null ],
-    [ "JustEngagedWith", "d0/d42/a14103.html#ad0ca7d80d68b9623b99c644daa8f4c57", null ],
-    [ "Reset", "d0/d42/a14103.html#a06df695e9acd96b07f4e58c9461a708c", null ],
-    [ "UpdateAI", "d0/d42/a14103.html#ab8cc7d7d56550e66497116e5b4233a02", null ],
-    [ "WaypointReached", "d0/d42/a14103.html#ad91850dc72d0307e28b881717bfba6db", null ],
-    [ "WaypointReached", "d0/d42/a14103.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "MarzonGUID", "d0/d42/a14103.html#a68779dfa5643ffbf0065964d72ba5ddc", null ],
-    [ "uiPhase", "d0/d42/a14103.html#a3eaf47541cabaac9ce12f830d7d3ef41", null ],
-    [ "uiTimer", "d0/d42/a14103.html#a70e6be2f5c0f88664c6bbe3f29e1d184", null ]
+    [ "npc_sentinel_leader", "d0/d42/a14103.html#a583c43b047dd5c172938d60ef647ecd5", null ],
+    [ "JustEngagedWith", "d0/d42/a14103.html#a92c83a7fcc04df1db3be1d16f4a461d0", null ],
+    [ "MovementInform", "d0/d42/a14103.html#a6d51ada16fac1f5eda8b09aede746a4b", null ],
+    [ "Reset", "d0/d42/a14103.html#ad638ba6ce33753af6a0165c053a90d78", null ],
+    [ "UpdateAI", "d0/d42/a14103.html#aa689bb8189eb8cf842a0aa63bb9f1a73", null ],
+    [ "_events", "d0/d42/a14103.html#ada65bdf153ae9b3262b0f55fb540be17", null ],
+    [ "_helpCalled", "d0/d42/a14103.html#a803c324e790cd74e90ff6c2adde37ba3", null ]
 ];

@@ -1,6 +1,6 @@
 var a18347 =
 [
-    [ "HandleScript", "d1/db0/a18347.html#abd766c298f8aa363d28198b6a5d7e374", null ],
-    [ "PrepareSpellScript", "d1/db0/a18347.html#a5a4e7d674c09ebbbc9d918cf877418a3", null ],
-    [ "Register", "d1/db0/a18347.html#ae9bd26c97b3dc9c1af96304e3c67d532", null ]
+    [ "boss_professor_putricideAI", "d8/d2a/a18351.html", "d8/d2a/a18351" ],
+    [ "boss_professor_putricide", "d1/db0/a18347.html#a80776dad5c0205aa6a98752f43e85e32", null ],
+    [ "GetAI", "d1/db0/a18347.html#a7c84089d24bb0c77a5203884254e0925", null ]
 ];

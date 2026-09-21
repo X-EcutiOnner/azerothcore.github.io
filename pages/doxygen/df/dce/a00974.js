@@ -1,6 +1,5 @@
 var a00974 =
 [
-    [ "GameEventAIHookWorker", "db/dd1/a09281.html", "db/dd1/a09281" ],
-    [ "IsEventActive", "df/dce/a00974.html#ad54f33b2e05154d9c2a384ff579b9208", null ],
-    [ "IsHolidayActive", "df/dce/a00974.html#a429db26781d2673aa2f031fc1327ffaf", null ]
+    [ "BattlefieldMgr", "d9/d95/a07627.html", "d9/d95/a07627" ],
+    [ "sBattlefieldMgr", "df/dce/a00974.html#a4545b2a440043037e8dad52c0f644f48", null ]
 ];

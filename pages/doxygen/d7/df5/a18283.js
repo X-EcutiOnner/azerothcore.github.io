@@ -1,5 +1,7 @@
 var a18283 =
 [
-    [ "npc_volatile_oozeAI", "d7/df5/a18283.html#af042d4c22482aabcdad6fa867dfe093f", null ],
-    [ "CastMainSpell", "d7/df5/a18283.html#a91890785174ecc60c9553a0aedf1961b", null ]
+    [ "OnPeriodic", "d7/df5/a18283.html#a402e6c1a23070e3cef9b66ca0992d1af", null ],
+    [ "PrepareAuraScript", "d7/df5/a18283.html#a0e87dae1be4f69e6412129f14056eb79", null ],
+    [ "Register", "d7/df5/a18283.html#a1b26d102252bf7e0fd480076820d343f", null ],
+    [ "Validate", "d7/df5/a18283.html#a211d52aa385a874730abc43b083f2d22", null ]
 ];

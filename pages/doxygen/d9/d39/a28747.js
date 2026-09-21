@@ -1,14 +1,9 @@
 var a28747 =
 [
-    [ "FlameshockerCheck", "dc/d7f/a28751.html", "dc/d7f/a28751" ],
-    [ "npc_pallid_horror", "d9/d39/a28747.html#ae43fa737cdc303d68f34ac2fbb356814", null ],
-    [ "CorpseRemoved", "d9/d39/a28747.html#a700af3062528a6c41f7f0985f1820b36", null ],
-    [ "InitializeAI", "d9/d39/a28747.html#a2711bdb05ad74a4d0425b4f61dcddab4", null ],
-    [ "JustDied", "d9/d39/a28747.html#a6145be6ed4a56ec8f8e923187ceea47c", null ],
-    [ "JustSummoned", "d9/d39/a28747.html#a801e04d47de8d86dcfbfa552de54cd0f", null ],
-    [ "ScheduleTasks", "d9/d39/a28747.html#aa9e851cb55238bb4cf6c1e7a9d309c20", null ],
-    [ "SummonFlameshockers", "d9/d39/a28747.html#afc2625ef0ddae00fd14d3dbf7952b0cf", null ],
-    [ "UpdateAI", "d9/d39/a28747.html#a701b52b2977017c692368a5d363dd6bd", null ],
-    [ "UpdateWeather", "d9/d39/a28747.html#ac9c5b8d4274e443f4c74b2b40aa5830f", null ],
-    [ "_summons", "d9/d39/a28747.html#a0948ef0c5971a8b6ffee2269d8bca3a6", null ]
+    [ "npc_fireworkAI", "d9/d39/a28747.html#a8fad089d1edc09edbaf215f07722e9e6", null ],
+    [ "FindNearestLauncher", "d9/d39/a28747.html#a156e63c90f9b64cfd71c0262d28f1383", null ],
+    [ "GetFireworkGameObjectId", "d9/d39/a28747.html#ae17b4abbbb2088799cec188457677d44", null ],
+    [ "GetFireworkSpell", "d9/d39/a28747.html#a6270e753ab81062a7c39ca6c6b46c993", null ],
+    [ "isCluster", "d9/d39/a28747.html#a4b3cdedaa2a57d23bf9f509cabdaff0c", null ],
+    [ "Reset", "d9/d39/a28747.html#a3e2ce8787cd08b8bb900c009bd7e8af0", null ]
 ];

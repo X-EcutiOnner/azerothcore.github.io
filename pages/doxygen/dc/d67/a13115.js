@@ -1,6 +1,7 @@
 var a13115 =
 [
-    [ "bossId", "dc/d67/a13115.html#a898f2ce24d96fb7d6a118e9772344c43", null ],
-    [ "circleId", "dc/d67/a13115.html#aaa379e61fda2f7225ab4089757df5d24", null ],
-    [ "runeId", "dc/d67/a13115.html#aa7ac7e2d5729aa906e00ca9c2648581d", null ]
+    [ "HandleHit", "dc/d67/a13115.html#a18f86449945ade16140ee934a7d8703e", null ],
+    [ "PrepareSpellScript", "dc/d67/a13115.html#abaf09043858db27b05fbe544d7a15a8f", null ],
+    [ "Register", "dc/d67/a13115.html#abe0733be2e32ff616c48acaeeb1d39e9", null ],
+    [ "Validate", "dc/d67/a13115.html#abc970a8b4a8f27f81f392cebf81dc574", null ]
 ];

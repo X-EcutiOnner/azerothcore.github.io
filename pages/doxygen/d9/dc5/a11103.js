@@ -1,8 +1,8 @@
 var a11103 =
 [
-    [ "GuildEvent", "d9/dc5/a11103.html#a78be16122c01d4c68d67e050ede92006", null ],
-    [ "Write", "d9/dc5/a11103.html#a4ae1c0daaec964981ad982b97c1b0408", null ],
-    [ "Guid", "d9/dc5/a11103.html#a35bcac3da7db22a22b4e8dba21ae1d0a", null ],
-    [ "Params", "d9/dc5/a11103.html#a8f0faa70581ca04c26f87ebcd25cee80", null ],
-    [ "Type", "d9/dc5/a11103.html#a961ae90991fa23bfc94a054dba357392", null ]
+    [ "SAttackStop", "d9/dc5/a11103.html#ad3ca327e00c9df8d947cdda3eb2f5eb3", null ],
+    [ "Write", "d9/dc5/a11103.html#ae2143b20488064400c306004ee678a89", null ],
+    [ "Attacker", "d9/dc5/a11103.html#a18e66148dc50a7ea7f98a57a122285ee", null ],
+    [ "NowDead", "d9/dc5/a11103.html#a25cd247bb50f752c3230ad4b5f777b2d", null ],
+    [ "Victim", "d9/dc5/a11103.html#a9ca02aaaab5d223a64f8ba0cec320e8e", null ]
 ];

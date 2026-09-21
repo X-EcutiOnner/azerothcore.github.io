@@ -1,6 +1,6 @@
 var a09003 =
 [
-    [ "SavedItem", "dc/dbe/a09003.html#a7261d44eefdbd56df651a57a71f5af6e", null ],
-    [ "dstpos", "dc/dbe/a09003.html#af844c8b955858b1ead94798c6326fa03", null ],
-    [ "item", "dc/dbe/a09003.html#afaa651441e306c13acc3cd1aa3084170", null ]
+    [ "PlayerCreateInfoItem", "dc/dbe/a09003.html#aba5495af3d4c463f7f65fa1851879d3b", null ],
+    [ "item_amount", "dc/dbe/a09003.html#a2cc481d54ec0c8a58477803364f40b2a", null ],
+    [ "item_id", "dc/dbe/a09003.html#a54e5593fe1a1e06b16963c96f1840a2a", null ]
 ];

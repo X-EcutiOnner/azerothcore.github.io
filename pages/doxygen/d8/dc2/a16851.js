@@ -1,6 +1,9 @@
 var a16851 =
 [
-    [ "npc_frost_sphereAI", "da/d70/a16855.html", "da/d70/a16855" ],
-    [ "npc_frost_sphere", "d8/dc2/a16851.html#a0256ba1c53853307f8b66e22b10bef24", null ],
-    [ "GetAI", "d8/dc2/a16851.html#a3e6de3551306fb4c35aabbd4fc656ee6", null ]
+    [ "npc_black_knight_skeletal_gryphonAI", "d8/dc2/a16851.html#ada99dced1e560aebc908a0efb6c23d0a", null ],
+    [ "DoAction", "d8/dc2/a16851.html#af38e129cdf4af99e99c41b6a98448e56", null ],
+    [ "Reset", "d8/dc2/a16851.html#a5e20d5e17baaac92a560a5b2fe15fe7b", null ],
+    [ "UpdateAI", "d8/dc2/a16851.html#a851008790128831c5c10710b4cccb196", null ],
+    [ "WaypointReached", "d8/dc2/a16851.html#a74b5fb1d3631c404e7797085e45e6159", null ],
+    [ "WaypointReached", "d8/dc2/a16851.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

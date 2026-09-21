@@ -1,7 +1,6 @@
 var a24215 =
 [
-    [ "CheckRequirement", "d6/dc9/a24215.html#a4ad521364c6156c0ecef818a23ce7aff", null ],
-    [ "PrepareSpellScript", "d6/dc9/a24215.html#a0d995c6ae6d1da0014c053a62b37a7b7", null ],
-    [ "Register", "d6/dc9/a24215.html#a25f275e84570f674071bfae03aeb0ddc", null ],
-    [ "Validate", "d6/dc9/a24215.html#adc648151e2c61a61a0dc5883d9fa4ae0", null ]
+    [ "npc_fel_guard_houndAI", "d2/d3d/a24219.html", "d2/d3d/a24219" ],
+    [ "npc_fel_guard_hound", "d6/dc9/a24215.html#a324179695f04a31b233b0ce94a46634c", null ],
+    [ "GetAI", "d6/dc9/a24215.html#a5f5c20ec379994e7d0b65133d772e18f", null ]
 ];

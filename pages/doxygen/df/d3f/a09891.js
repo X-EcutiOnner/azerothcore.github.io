@@ -1,7 +1,9 @@
 var a09891 =
 [
-    [ "ObjectGUIDCheck", "df/d3f/a09891.html#a4932b3610ddc148ee5a30a6ce91c6f27", null ],
-    [ "operator()", "df/d3f/a09891.html#a0f3f6e89a9e621a208cd6795722ae4ef", null ],
-    [ "_equals", "df/d3f/a09891.html#a413d991eeee0294a54f3c803e296c3ac", null ],
-    [ "_GUID", "df/d3f/a09891.html#a0e97bfe0e160177549a831df8e9b4555", null ]
+    [ "NearestAssistCreatureInCreatureRangeCheck", "df/d3f/a09891.html#ac9e380add6c9df4afc707007528c7434", null ],
+    [ "NearestAssistCreatureInCreatureRangeCheck", "df/d3f/a09891.html#aa26e19df606a366147e1db4fd1aa6eac", null ],
+    [ "operator()", "df/d3f/a09891.html#a9a085d16b30849537441f809052ac196", null ],
+    [ "i_enemy", "df/d3f/a09891.html#a0ba09da942c48e523c278cff0e0a4139", null ],
+    [ "i_obj", "df/d3f/a09891.html#a905ea6b07b97ed23de4f4cf9946642af", null ],
+    [ "i_range", "df/d3f/a09891.html#ab82a4b97ebb2bef047ae85404b0e3da0", null ]
 ];

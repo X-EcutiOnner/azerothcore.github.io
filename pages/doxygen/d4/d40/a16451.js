@@ -1,6 +1,6 @@
 var a16451 =
 [
-    [ "instance_azjol_nerub_InstanceScript", "db/d01/a16455.html", "db/d01/a16455" ],
-    [ "instance_azjol_nerub", "d4/d40/a16451.html#a61476a0d15136d2bdb3a65eca72963da", null ],
-    [ "GetInstanceScript", "d4/d40/a16451.html#a8bb8477669c6369afe508a400bd4d489", null ]
+    [ "instance_ahnkahet_InstanceScript", "db/d01/a16455.html", "db/d01/a16455" ],
+    [ "instance_ahnkahet", "d4/d40/a16451.html#afbe11bc040019231878cf31cc357830b", null ],
+    [ "GetInstanceScript", "d4/d40/a16451.html#a8847099c88f11de363c45e27998f10b7", null ]
 ];

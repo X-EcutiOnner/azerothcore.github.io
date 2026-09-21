@@ -1,8 +1,8 @@
 var a26587 =
 [
-    [ "CheckProc", "dc/d53/a26587.html#a801610a9f9fae5cb711850254b291268", null ],
-    [ "HandleProc", "dc/d53/a26587.html#a3f6a53421c7c4b9346d98aa51c4ccd6d", null ],
-    [ "PrepareAuraScript", "dc/d53/a26587.html#ad08915b0c7f35bef76ddd05a62add43c", null ],
-    [ "Register", "dc/d53/a26587.html#a8626318b6f9b35a8b1c116062618b3c0", null ],
-    [ "Validate", "dc/d53/a26587.html#a8a3abd528fda4aab149fb7f6e5eae00d", null ]
+    [ "HandleProc", "dc/d53/a26587.html#a89982759474f6f2d8f64ae406f722816", null ],
+    [ "OnRemove", "dc/d53/a26587.html#a29dfea997f49052f683cabdf01295126", null ],
+    [ "PrepareAuraScript", "dc/d53/a26587.html#a19094a96e052ec5b1b82aa9a124b30cc", null ],
+    [ "Register", "dc/d53/a26587.html#a696b244e898a7aca0ead5ae5596eb192", null ],
+    [ "Validate", "dc/d53/a26587.html#a5a9e58d16a055b3991e5f8b8ac5f1cad", null ]
 ];

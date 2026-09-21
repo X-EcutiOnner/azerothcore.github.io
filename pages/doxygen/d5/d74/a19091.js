@@ -1,6 +1,4 @@
 var a19091 =
 [
-    [ "npc_captain_rupertAI", "d5/d74/a19091.html#ae91de64c440e71e612f34e37b90076d5", null ],
-    [ "Reset", "d5/d74/a19091.html#a8ebaca725aba2c3aed8856fb23228ae1", null ],
-    [ "UpdateAI", "d5/d74/a19091.html#a2edf4e51c9a5bde61a1875c067e963f2", null ]
+    [ "operator()", "d5/d74/a19091.html#ac13ad1cce91fa28dc81250672c125490", null ]
 ];

@@ -1,8 +1,17 @@
 var a18639 =
 [
-    [ "HeightDifferenceCheck", "de/d6e/a18639.html#aa8b61811e435cce456e5cb1d798be66e", null ],
-    [ "operator()", "de/d6e/a18639.html#a1db203642683f85176f2a35eb3d10c34", null ],
-    [ "_baseObject", "de/d6e/a18639.html#a7c274be02ca58429dffaee2ea34153c6", null ],
-    [ "_difference", "de/d6e/a18639.html#af95e2bf67c8316dda982896978c45a68", null ],
-    [ "_reverse", "de/d6e/a18639.html#a89074844d5fd8b02ed99c09ac4cc5b85", null ]
+    [ "npc_rimefangAI", "de/d6e/a18639.html#ae89b397bafdcb06e94fa94c18ef0d2c8", null ],
+    [ "DoAction", "de/d6e/a18639.html#a79d34453b3ace5c1f80b12b862890e3c", null ],
+    [ "InitializeAI", "de/d6e/a18639.html#ae515d0b1d383c48e40fa4795edd1b247", null ],
+    [ "JustDied", "de/d6e/a18639.html#ab3cd1550cda44cecf889f4bf28f976ba", null ],
+    [ "JustEngagedWith", "de/d6e/a18639.html#ad161bb0a6c76d223b1e687a1cc604375", null ],
+    [ "JustReachedHome", "de/d6e/a18639.html#a7b15a9c6db1a48c3766afcb41d66b61f", null ],
+    [ "JustRespawned", "de/d6e/a18639.html#a47ed52a4a0511d7b1e3eb4bd5da409ca", null ],
+    [ "MovementInform", "de/d6e/a18639.html#aacd146fbfac94b8f82b3971ff74644cc", null ],
+    [ "Reset", "de/d6e/a18639.html#a8956324e2806393d26bf146f4e2c48b0", null ],
+    [ "UpdateAI", "de/d6e/a18639.html#a00872042199924a14089c1057c479ff7", null ],
+    [ "_events", "de/d6e/a18639.html#ade0c279565236eb3fd59fd43eef4c3e1", null ],
+    [ "_icyBlastCounter", "de/d6e/a18639.html#aef3e7d4cd3d23f407ef4ba5aa5c737c9", null ],
+    [ "_instance", "de/d6e/a18639.html#ad12541907c439117cf8c8a6741c07445", null ],
+    [ "_summoned", "de/d6e/a18639.html#aa27dd1e338145a65915262a8d44f7519", null ]
 ];

@@ -1,7 +1,7 @@
 var a27923 =
 [
-    [ "HandleDummy", "d4/d53/a27923.html#a3af91500357eb127f813334bdf538dbd", null ],
-    [ "PrepareSpellScript", "d4/d53/a27923.html#ae34ff5e6027efecc34fa770690df5887", null ],
-    [ "Register", "d4/d53/a27923.html#add4e4d484008d1e1cf63e36c6b6e9757", null ],
-    [ "Validate", "d4/d53/a27923.html#a0b107442c0b76a018cc019f776c0b785", null ]
+    [ "CalculateAmount", "d4/d53/a27923.html#a893842dfe5e1d6f7977e2fc97471b265", null ],
+    [ "PrepareAuraScript", "d4/d53/a27923.html#a20dad49a99420556f393a16525eb14b4", null ],
+    [ "Register", "d4/d53/a27923.html#ad7d339ab137ebd640981f7789e1757f0", null ],
+    [ "Validate", "d4/d53/a27923.html#a341acb2dd25c1db94777f7036f3338ac", null ]
 ];

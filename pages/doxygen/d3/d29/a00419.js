@@ -1,11 +1,11 @@
 var a00419 =
 [
-    [ "CreatureTextEntry", "df/da7/a12249.html", "df/da7/a12249" ],
-    [ "CreatureTextLocale", "d6/d4c/a12253.html", "d6/d4c/a12253" ],
-    [ "CreatureTextId", "df/dd4/a12257.html", "df/dd4/a12257" ],
-    [ "CreatureTextOptions", "d5/d72/a12261.html", "d5/d72/a12261" ],
-    [ "CreatureTextMgr", "db/d19/a12265.html", "db/d19/a12265" ],
-    [ "CreatureTextLocalizer< Builder >", "d6/dbc/a12269.html", "d6/dbc/a12269" ],
+    [ "CreatureTextEntry", "d1/d3b/a12263.html", "d1/d3b/a12263" ],
+    [ "CreatureTextLocale", "db/d1b/a12267.html", "db/d1b/a12267" ],
+    [ "CreatureTextId", "d9/d24/a12271.html", "d9/d24/a12271" ],
+    [ "CreatureTextOptions", "de/d9f/a12275.html", "de/d9f/a12275" ],
+    [ "CreatureTextMgr", "d6/d91/a12279.html", "d6/d91/a12279" ],
+    [ "CreatureTextLocalizer< Builder >", "dd/d82/a12283.html", "dd/d82/a12283" ],
     [ "sCreatureTextMgr", "d3/d29/a00419.html#a2dc428da007cefe454220dcb355a1cde", null ],
     [ "CreatureTextGroup", "d3/d29/a00419.html#a9baeb5ff5e542c90d9058942cf0b4bbd", null ],
     [ "CreatureTextHolder", "d3/d29/a00419.html#aad09b58ddf486cb766cdeb242824cd2d", null ],

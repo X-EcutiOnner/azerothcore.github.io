@@ -1,6 +1,10 @@
 var a23115 =
 [
-    [ "instance_black_temple_InstanceMapScript", "de/dfd/a23119.html", "de/dfd/a23119" ],
-    [ "instance_black_temple", "d3/d96/a23115.html#a2efd6c7fff15c8fd03652ef9a65088eb", null ],
-    [ "GetInstanceScript", "d3/d96/a23115.html#a947a1279eabde75d9884b1ef84b295a3", null ]
+    [ "CalculateAmount", "d3/d96/a23115.html#a19dcb71e46cc6fb08fda251829afae6f", null ],
+    [ "CheckProc", "d3/d96/a23115.html#a8c4f5c9f3db8710aafd687a7bf304572", null ],
+    [ "HandleProc", "d3/d96/a23115.html#ab5fc5ad25ab1d7451f0b8801894ae400", null ],
+    [ "PrepareAuraScript", "d3/d96/a23115.html#a6e066884663276dbba82e46ca5f66e59", null ],
+    [ "Register", "d3/d96/a23115.html#ac4154f0746e77229e8d349021d5b9c30", null ],
+    [ "Update", "d3/d96/a23115.html#a9f5f3767f52f9755de6592f00f62a3d4", null ],
+    [ "Validate", "d3/d96/a23115.html#a4f10d23f63c47b408b70373623b877a8", null ]
 ];

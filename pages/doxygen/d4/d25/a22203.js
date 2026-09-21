@@ -1,5 +1,7 @@
 var a22203 =
 [
-    [ "npc_guardian_pavilionAI", "d4/d25/a22203.html#a2c116495e65c7f97063aa7dc6516f48c", null ],
-    [ "MoveInLineOfSight", "d4/d25/a22203.html#aeae26e28be93120062d9f77c069ff32a", null ]
+    [ "HandleScript", "d4/d25/a22203.html#a3bdcc0fcfd8be3396b5af22152c66686", null ],
+    [ "PrepareSpellScript", "d4/d25/a22203.html#af67e8d959528633e48e56061b1790841", null ],
+    [ "Register", "d4/d25/a22203.html#af4a66003ea25b81028c05bcc0bc4dd1d", null ],
+    [ "Validate", "d4/d25/a22203.html#a007097b10ad0beeb61c1bd4117d963a3", null ]
 ];

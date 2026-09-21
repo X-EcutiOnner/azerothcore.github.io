@@ -1,12 +1,6 @@
 var a16495 =
 [
-    [ "HandleDummy", "db/d9f/a16495.html#aebbcaa1df9a6379998bb2069089f45bd", null ],
-    [ "HandleSchoolDamage", "db/d9f/a16495.html#a8372b7d176c94689b1b7fe99add7812e", null ],
-    [ "HandleSummon", "db/d9f/a16495.html#a64ffa7d9c5cdd7fab345b2f0f8acc0f1", null ],
-    [ "Load", "db/d9f/a16495.html#ae47e8a9c4223fd65b81c842687e19f44", null ],
-    [ "PrepareSpellScript", "db/d9f/a16495.html#a3fd71e2a93f99f19443640a2147b1663", null ],
-    [ "Register", "db/d9f/a16495.html#a8278d362a4354ccf81665ce0067c9a06", null ],
-    [ "Validate", "db/d9f/a16495.html#a414b1e1396910b87a671305ce9dcab09", null ],
-    [ "_dummyFired", "db/d9f/a16495.html#a9642ac8cfab23040b699606874ad08ca", null ],
-    [ "_spawned", "db/d9f/a16495.html#aa657a9869f04a1d1d2ce71f6d8464b17", null ]
+    [ "npc_anub_ar_crusher_crypt_fiend", "db/d9f/a16495.html#a89abbce738f115c26dae9dacb065cc3d", null ],
+    [ "DoEngagedWith", "db/d9f/a16495.html#a20cdbe7eb580cd9f9763019d8927182f", null ],
+    [ "DoEvent", "db/d9f/a16495.html#a276eca6e65b32905f6919d49530ccc2f", null ]
 ];

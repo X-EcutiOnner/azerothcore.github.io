@@ -1,8 +1,7 @@
 var a13675 =
 [
-    [ "npc_madrigosa", "d4/dee/a13675.html#a7624e25e00c1e7505ba171d0be40beb3", null ],
-    [ "DoAction", "d4/dee/a13675.html#aaf481ec840e679a9633bd3ecdb4eb3df", null ],
-    [ "UpdateAI", "d4/dee/a13675.html#a3431d13ea4ebd97d3fc6e542f89e033d", null ],
-    [ "events", "d4/dee/a13675.html#a5859e4c8454371eb71740616d4763c0e", null ],
-    [ "instance", "d4/dee/a13675.html#a09525d3bb35d1da4246bd84bbadea304", null ]
+    [ "HandleScript", "d4/dee/a13675.html#ab705220b48be16090107135f9e2272cf", null ],
+    [ "PrepareSpellScript", "d4/dee/a13675.html#a8bf22d62d6e7f50315e4c14714b8457f", null ],
+    [ "Register", "d4/dee/a13675.html#ac969bf9f37d02f2b3d78d31d7f8c4625", null ],
+    [ "Validate", "d4/dee/a13675.html#ad1d90693a427a52fa728e5ae455932a3", null ]
 ];

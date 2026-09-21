@@ -1,7 +1,6 @@
 var a21547 =
 [
-    [ "npc_azure_mage_slayer", "db/dbc/a21547.html#a8f537bf85f7d50dda0f3e2e9cb7bd293", null ],
-    [ "Reset", "db/dbc/a21547.html#ad760e69d3246117726b2a2e066e6c5ce", null ],
-    [ "UpdateAI", "db/dbc/a21547.html#a412a23b56efad90af180dee17f9f2be3", null ],
-    [ "_events", "db/dbc/a21547.html#aadb7b09a9fbdd9ca8f04ba38e79901b3", null ]
+    [ "npc_frozen_orbAI", "d3/df8/a21551.html", "d3/df8/a21551" ],
+    [ "npc_frozen_orb", "db/dbc/a21547.html#ac14966722e39b2b6b3a907756701ed98", null ],
+    [ "GetAI", "db/dbc/a21547.html#a2f9e1a2cb14ee9e5f24e02aa97697116", null ]
 ];

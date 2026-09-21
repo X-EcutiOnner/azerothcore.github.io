@@ -1,11 +1,6 @@
 var a13315 =
 [
-    [ "npc_kilrek", "d3/d7c/a13315.html#a853aa53d3e03aebe07c939eaf1b1c9c2", null ],
-    [ "JustDied", "d3/d7c/a13315.html#a314ed9f73c6a9c991c7eb2690e0f7c1c", null ],
-    [ "JustEngagedWith", "d3/d7c/a13315.html#a3a60a3bdb5a2876e325a26964bab21ac", null ],
-    [ "Reset", "d3/d7c/a13315.html#ae0b375abe5ec909cfaff96c257da0325", null ],
-    [ "UpdateAI", "d3/d7c/a13315.html#acf402b43e91b1f488ef8b9e3ed5092c4", null ],
-    [ "_scheduler", "d3/d7c/a13315.html#a93663ee806385f617e81a03062dd94d6", null ],
-    [ "instance", "d3/d7c/a13315.html#a13b969fa86ef57f9508117a73252a36b", null ],
-    [ "TerestianGUID", "d3/d7c/a13315.html#a411476da379bf687cd007e25ba11280e", null ]
+    [ "FilterTargets", "d3/d7c/a13315.html#adae7a812a222a60f9c89cac4ea327011", null ],
+    [ "PrepareSpellScript", "d3/d7c/a13315.html#a9576a48a3aa761c103f72586cd93970c", null ],
+    [ "Register", "d3/d7c/a13315.html#aaadad68c322eac268ea7a45f9c369c59", null ]
 ];

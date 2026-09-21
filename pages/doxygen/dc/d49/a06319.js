@@ -1,7 +1,7 @@
 var a06319 =
 [
-    [ "arg1", "dc/d49/a06319.html#aa2018e5823bcf013847605847231e3c2", null ],
-    [ "arg2", "dc/d49/a06319.html#a4c8721b050e72556a901be1a4a49c2b6", null ],
-    [ "arg3", "dc/d49/a06319.html#acadf2c3d1d60f8f49fde62b9172980e5", null ],
-    [ "updateType", "dc/d49/a06319.html#a84cace2469c54d57b33abe5ca93588ca", null ]
+    [ "UpdateException", "dc/d49/a06319.html#ace39ae1801ac7dcd055bcdce2411866e", null ],
+    [ "~UpdateException", "dc/d49/a06319.html#a38e016e210bf287d2adc21811497c95c", null ],
+    [ "what", "dc/d49/a06319.html#ab7bc552819bf9620dd670fb5a627b2dd", null ],
+    [ "_msg", "dc/d49/a06319.html#a7b4ba1e0d2829249afb2922f385016b3", null ]
 ];

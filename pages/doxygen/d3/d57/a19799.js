@@ -1,9 +1,9 @@
 var a19799 =
 [
-    [ "HandleApply", "d3/d57/a19799.html#a29679ed64fc288dc0e85beed2971d4be", null ],
-    [ "HandleRemove", "d3/d57/a19799.html#a1f1c3e0ea24174605a7be8fa02e30518", null ],
-    [ "Load", "d3/d57/a19799.html#a0b5d70a7a9bf27696295ccbbffd2a8b9", null ],
-    [ "PrepareAuraScript", "d3/d57/a19799.html#a2804f25643e59f3922291abcb055b641", null ],
-    [ "Register", "d3/d57/a19799.html#a711b5744770d0c9fb5aacb550f2384fa", null ],
-    [ "Validate", "d3/d57/a19799.html#aa239a693db5fa38ac260a37b25e0e6d9", null ]
+    [ "npc_nexus_lord", "d3/d57/a19799.html#ab66ba12059e8a028972d21afc11fb309", null ],
+    [ "AttackStart", "d3/d57/a19799.html#aefd1ce41b00825bb81ddb6a59d835d21", null ],
+    [ "JustDied", "d3/d57/a19799.html#ae97f816c5fcb71343d8483345723c300", null ],
+    [ "JustEngagedWith", "d3/d57/a19799.html#a9a5c55b8c2f85908739d68c7487f629f", null ],
+    [ "UpdateAI", "d3/d57/a19799.html#acdd7954382f0de84e90d329ec0720a6d", null ],
+    [ "timer", "d3/d57/a19799.html#a42a9c4d7b1251357cd73a7ad2c410d82", null ]
 ];

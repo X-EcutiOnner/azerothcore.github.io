@@ -1,9 +1,9 @@
 var a13267 =
 [
-    [ "FilterTargets", "dd/d89/a13267.html#a88b91e40b330d39bd04a7873128fb858", null ],
-    [ "HandleFinish", "dd/d89/a13267.html#a762ea4cc1cd0a50a65daf22cbbf4ce9c", null ],
-    [ "PrepareSpellScript", "dd/d89/a13267.html#ab4ef82283e4d651d2e5304e49970efa8", null ],
-    [ "Register", "dd/d89/a13267.html#ab2008e585589cbf313170064d37c4aa9", null ],
-    [ "Validate", "dd/d89/a13267.html#af4963be6c544a1706a6dc30dcbf18309", null ],
-    [ "_targets", "dd/d89/a13267.html#a2f75199a90e52cff770f46bce76d5149", null ]
+    [ "boss_curator", "dd/d89/a13267.html#a41b65078d0822ba87f3e40fc7bb10a40", null ],
+    [ "JustDied", "dd/d89/a13267.html#a5617f51f51304682d48af11fdb0c6b8b", null ],
+    [ "JustEngagedWith", "dd/d89/a13267.html#a848f477a101956662389cab5ffcc0727", null ],
+    [ "JustSummoned", "dd/d89/a13267.html#ac779d275e03e6ba190617d215b217ce5", null ],
+    [ "KilledUnit", "dd/d89/a13267.html#a9bfb89a8747251e4a84eb2f94a547f0d", null ],
+    [ "Reset", "dd/d89/a13267.html#af6fbf3c3d77f9f052f11974f7b54feab", null ]
 ];

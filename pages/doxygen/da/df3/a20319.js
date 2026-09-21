@@ -1,6 +1,5 @@
 var a20319 =
 [
-    [ "PrepareSpellScript", "da/df3/a20319.html#a7eeb4e2b9c3bb6e7d02d6a5acf8e1d52", null ],
-    [ "RecalculateDamage", "da/df3/a20319.html#a094a21cf3cf109e704d3e334ad7dbad1", null ],
-    [ "Register", "da/df3/a20319.html#af2b5382122be41a6b1ee4ab721b417da", null ]
+    [ "boss_flame_leviathan_overload_device", "da/df3/a20319.html#a6cd506d0615b1db9d42bf4d4858f6b05", null ],
+    [ "OnSpellClick", "da/df3/a20319.html#a3f313a637fd95e28db1265ae84f349a8", null ]
 ];

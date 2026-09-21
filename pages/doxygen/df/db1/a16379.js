@@ -1,6 +1,13 @@
 var a16379 =
 [
-    [ "HandlePeriodic", "df/db1/a16379.html#ad22b433005b2678bde3516a01eaaaa60", null ],
-    [ "PrepareAuraScript", "df/db1/a16379.html#a3711004edaef7242d9cae1f23f9b7467", null ],
-    [ "Register", "df/db1/a16379.html#ad570e51a3d2dd5d3cc4b91aebeefd9ef", null ]
+    [ "npc_shadowpriest_sezzizAI", "df/db1/a16379.html#a14c5cee1c3032b8df4ad902eb273e9b0", null ],
+    [ "AttackStart", "df/db1/a16379.html#a8278a73501ea33164cbdef8599144f4a", null ],
+    [ "Reset", "df/db1/a16379.html#ab08cc327c4206e4526e77eea3bf17e0b", null ],
+    [ "UpdateAI", "df/db1/a16379.html#a1c0236b52d4cd87634659991e0dfc728", null ],
+    [ "_missingHPForHealTimer", "df/db1/a16379.html#a1171f0cd40bd3d7198bab15b12edc131", null ],
+    [ "_missingHPForRenewTimer", "df/db1/a16379.html#a8df4e1046348599cd5d1e31e3dc4eb0c", null ],
+    [ "_physicScreemTimer", "df/db1/a16379.html#a43de246b93f3380d5b79ffba6434aa5a", null ],
+    [ "_shadowBoltTimer", "df/db1/a16379.html#a34a18991ff2c0aafac15694ed9667193", null ],
+    [ "_summmonAddsCount", "df/db1/a16379.html#a8ce2b172757d1f7d188152ecc0fe30f5", null ],
+    [ "_summonAddsTimer", "df/db1/a16379.html#aff413ce6f4106d212f35fb7abbfa047e", null ]
 ];

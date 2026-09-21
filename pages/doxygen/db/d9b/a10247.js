@@ -1,6 +1,6 @@
 var a10247 =
 [
-    [ "AllowMount", "db/d9b/a10247.html#a611108f0c1f623bb0761a174e477df22", null ],
-    [ "Parent", "db/d9b/a10247.html#a6298c3dd0c8939b1cf228727c363918e", null ],
-    [ "ScriptId", "db/d9b/a10247.html#ac9cdaf7fc486bc89b5c5d95ac13146da", null ]
+    [ "ServerMailItems", "db/d9b/a10247.html#a95cb2278da300c6b0385241f5a3950c1", null ],
+    [ "item", "db/d9b/a10247.html#ae03738595a87a47e831bcbeea6f97d34", null ],
+    [ "itemCount", "db/d9b/a10247.html#a4475d65dd5721d4af323ae93d15f4170", null ]
 ];

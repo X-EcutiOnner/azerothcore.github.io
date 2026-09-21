@@ -1,9 +1,7 @@
 var a05691 =
 [
-    [ "IpLocationStore", "d8/d58/a05691.html#a1b3a38bbd932ae50d55ff15374aa2f37", null ],
-    [ "~IpLocationStore", "d8/d58/a05691.html#a82360c1ce130670fde23d42135f91324", null ],
-    [ "GetLocationRecord", "d8/d58/a05691.html#a06384169031d2417a7f6bac54d3187a9", null ],
-    [ "instance", "d8/d58/a05691.html#ad740adf9b81b37cf147dc00e220b29db", null ],
-    [ "Load", "d8/d58/a05691.html#a411302e6bf5e5e82e5cd59e78e66bd0b", null ],
-    [ "_ipLocationStore", "d8/d58/a05691.html#af7b7a5a4fc65c6af966be27f7bf7e07d", null ]
+    [ "TypeContainerVisitor", "d8/d58/a05691.html#a1dd5b1ac8e4703358a32431efed8faa2", null ],
+    [ "Visit", "d8/d58/a05691.html#af8110dd70655223f06fb08b552420a6d", null ],
+    [ "Visit", "d8/d58/a05691.html#a433135ffb18fed8cc61b85cbb2033cfe", null ],
+    [ "i_visitor", "d8/d58/a05691.html#a7be8eccd05fd489da52e587f51555891", null ]
 ];

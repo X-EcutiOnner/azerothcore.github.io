@@ -1,8 +1,6 @@
 var a12159 =
 [
-    [ "ToCloud9GuildHooks", "d0/d4e/a12159.html#af92ed08219fca9b8967779a936332bee", null ],
-    [ "~ToCloud9GuildHooks", "d0/d4e/a12159.html#a6352d89ded523200d4a60b91ff5c7fa4", null ],
-    [ "OnGuildMemberAdded", "d0/d4e/a12159.html#aea11728fdf49e5a6677051ab61d87180", null ],
-    [ "OnGuildMemberLeft", "d0/d4e/a12159.html#adada89524f817edcc5d2cfafb93ee6a1", null ],
-    [ "OnGuildMemberRemoved", "d0/d4e/a12159.html#a98d80a4bec269157bebfabbddfd60054", null ]
+    [ "EffectBase", "d0/d4e/a12159.html#ab02f9f344e2f32ad59b35993d5c8f819", null ],
+    [ "CheckEffect", "d0/d4e/a12159.html#a8c300ca68c3ff6f74b230835c566fd60", null ],
+    [ "ToString", "d0/d4e/a12159.html#ab6f5b2a7ec1183206110eac9a21a7de5", null ]
 ];

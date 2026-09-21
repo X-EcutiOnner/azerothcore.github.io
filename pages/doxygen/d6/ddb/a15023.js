@@ -1,6 +1,5 @@
 var a15023 =
 [
-    [ "HandleAfterEffectRemove", "d6/ddb/a15023.html#acf650fe6fe65164c12fbb06b45e092c9", null ],
-    [ "PrepareAuraScript", "d6/ddb/a15023.html#a3b54e232c0502eaa03b314a05dce1835", null ],
-    [ "Register", "d6/ddb/a15023.html#a9bacd9538b1ab1cf9aa74e7675ff5b6b", null ]
+    [ "go_pumpkin_shrine", "d6/ddb/a15023.html#ab9b05caa7ef7d740a0c46171c2160a19", null ],
+    [ "OnGossipSelect", "d6/ddb/a15023.html#a35763a67d39c1d68974a9602ce26b699", null ]
 ];

@@ -1,10 +1,11 @@
 var a20739 =
 [
-    [ "npc_expedition_defender", "dc/d30/a20739.html#aa476e8cdb18fce94b7517caf7ec751c8", null ],
-    [ "CanAIAttack", "dc/d30/a20739.html#aa223ec9592dcc5f8890cc7de0c8e4230", null ],
-    [ "DoAction", "dc/d30/a20739.html#adbd3f69f46e33537786505a0bb2955d5", null ],
-    [ "MovementInform", "dc/d30/a20739.html#acfa015071d54e353e4397c806fcab0a5", null ],
-    [ "Reset", "dc/d30/a20739.html#ae5da35cb689ada77a00d545e0f795af7", null ],
-    [ "SetData", "dc/d30/a20739.html#ab8d8681d244c13e51709c3ad446c8805", null ],
-    [ "_idx", "dc/d30/a20739.html#ae50289231fcaac124f78246774dda01e", null ]
+    [ "npc_ulduar_proximity_mine", "dc/d30/a20739.html#a4d8a6ab45b259e42d33d5114d1f7e947", null ],
+    [ "AttackStart", "dc/d30/a20739.html#ae88f3a9cb40aebb469849799e7b7c7c0", null ],
+    [ "CanAIAttack", "dc/d30/a20739.html#a18311072271a18b279c5bf21f7da2482", null ],
+    [ "MoveInLineOfSight", "dc/d30/a20739.html#a6a406f8098dac7038173f51e9f85a79b", null ],
+    [ "UpdateAI", "dc/d30/a20739.html#ad014e0aa8125ef13cfea039acfe0c76f", null ],
+    [ "_exploded", "dc/d30/a20739.html#ad1cd15a93a35f4034c0d690e8d1713ea", null ],
+    [ "_timer", "dc/d30/a20739.html#afe009de55826305826105bd29458d0eb", null ],
+    [ "_timer2", "dc/d30/a20739.html#a08afb215eeaa5e0ec4d9543bc474d392", null ]
 ];

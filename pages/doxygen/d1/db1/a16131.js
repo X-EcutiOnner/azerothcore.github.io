@@ -1,5 +1,12 @@
 var a16131 =
 [
-    [ "npc_steward_of_time", "d1/db1/a16131.html#ad49973464c96f44506033b73a85f6360", null ],
-    [ "OnQuestAccept", "d1/db1/a16131.html#a53d552282da49e8246089b2799fff9ca", null ]
+    [ "npc_thrall_warchiefAI", "d1/db1/a16131.html#ada9c79c1591a8bd28c66329dc7c5d3dc", null ],
+    [ "DoAction", "d1/db1/a16131.html#a511da19703e30f6e82e59c5223bf2770", null ],
+    [ "JustDied", "d1/db1/a16131.html#a5e6da0a5f5190d7959faff60851e679a", null ],
+    [ "JustEngagedWith", "d1/db1/a16131.html#a994a9030e2d8c5afaa66c21897e54f82", null ],
+    [ "Reset", "d1/db1/a16131.html#a920a29258228c9c2e7e0791d38b648e1", null ],
+    [ "sGossipSelect", "d1/db1/a16131.html#aaad63a0de8acfc17355b7a35de4cc164", null ],
+    [ "UpdateAI", "d1/db1/a16131.html#a537ed9f2d0a638d01e877d9ca1e7fdf0", null ],
+    [ "ChainLightningTimer", "d1/db1/a16131.html#ab30df9277fc84f098e0bdd70a2ab3795", null ],
+    [ "ShockTimer", "d1/db1/a16131.html#aa8609f8824f68ce7259465284c01dd35", null ]
 ];

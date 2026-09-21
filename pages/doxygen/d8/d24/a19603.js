@@ -1,7 +1,6 @@
 var a19603 =
 [
-    [ "OnPeriodic", "d8/d24/a19603.html#ae685e9d36b85af8a7e33cefbd439a2f4", null ],
-    [ "PrepareAuraScript", "d8/d24/a19603.html#a1362103840db4b3c40ef7d6b0aa5226c", null ],
-    [ "Register", "d8/d24/a19603.html#a39b03ebd7f6233f373f52e34f18dad10", null ],
-    [ "Validate", "d8/d24/a19603.html#a54cfed486827216817adb740efa6646e", null ]
+    [ "boss_grobbulus_poison_cloudAI", "da/db8/a19607.html", "da/db8/a19607" ],
+    [ "boss_grobbulus_poison_cloud", "d8/d24/a19603.html#a2bb8ebec0ae79f20602e551f654e0761", null ],
+    [ "GetAI", "d8/d24/a19603.html#a34c68dd3e58b83c52f270eb1b194f2ed", null ]
 ];

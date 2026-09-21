@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: AuthSocketMgr Class Reference</title>
+<title>AzerothCore: AUTH_LOGON_CHALLENGE_C Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,286 +105,266 @@ $(document).ready(function(){initNavTree('d2/d6a/a06047.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
-<a href="#pro-methods">Protected Member Functions</a> &#124;
-<a href="#pro-static-methods">Static Protected Member Functions</a> &#124;
-<a href="#pri-types">Private Types</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d1/dc9/a06044.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">AuthSocketMgr Class Reference</div></div>
+  <div class="headertitle"><div class="title">AUTH_LOGON_CHALLENGE_C Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
-
-<p><code>#include &quot;<a class="el" href="../../">AuthSocketMgr.h</a>&quot;</code></p>
-<div class="dynheader">
-Inheritance diagram for AuthSocketMgr:</div>
-<div class="dyncontent">
- <div class="center">
-  <img src="../../d2/d6a/a06047.png" usemap="#AuthSocketMgr_map" alt=""/>
-  <map id="AuthSocketMgr_map" name="AuthSocketMgr_map">
-<area href="../../d4/d46/a29543.html" alt="SocketMgr&lt; AuthSession &gt;" shape="rect" coords="0,0,167,24"/>
-  </map>
-</div></div>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
-Public Member Functions</h2></td></tr>
-<tr class="memitem:a345e4f8cc1c216ed7eb9c3e96748170f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d6a/a06047.html#a345e4f8cc1c216ed7eb9c3e96748170f">StartNetwork</a> (<a class="el" href="../../d8/d9b/a05219.html">Acore::Asio::IoContext</a> &amp;ioContext, std::string const &amp;bindIp, <a class="el" href="../../d8/ddd/a00380.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> port, int threadCount=1) override</td></tr>
-<tr class="separator:a345e4f8cc1c216ed7eb9c3e96748170f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_methods_a29543"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a29543')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d4/d46/a29543.html">SocketMgr&lt; AuthSession &gt;</a></td></tr>
-<tr class="memitem:a8c8b979692599a68d6f9dbe864e58645 inherit pub_methods_a29543"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d46/a29543.html#a8c8b979692599a68d6f9dbe864e58645">~SocketMgr</a> ()</td></tr>
-<tr class="separator:a8c8b979692599a68d6f9dbe864e58645 inherit pub_methods_a29543"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a81fc5b0c7bc9750b67ca607ae0cf2c81 inherit pub_methods_a29543"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d46/a29543.html#a81fc5b0c7bc9750b67ca607ae0cf2c81">StartNetwork</a> (<a class="el" href="../../d8/d9b/a05219.html">Acore::Asio::IoContext</a> &amp;ioContext, std::string const &amp;bindIp, <a class="el" href="../../d8/ddd/a00380.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> port, int threadCount)</td></tr>
-<tr class="separator:a81fc5b0c7bc9750b67ca607ae0cf2c81 inherit pub_methods_a29543"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7966832a9ef2151033ac9eeeadffff34 inherit pub_methods_a29543"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d46/a29543.html#a7966832a9ef2151033ac9eeeadffff34">StopNetwork</a> ()</td></tr>
-<tr class="separator:a7966832a9ef2151033ac9eeeadffff34 inherit pub_methods_a29543"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aace37f1c8fa4c4c4dd378ba2da496b50 inherit pub_methods_a29543"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d46/a29543.html#aace37f1c8fa4c4c4dd378ba2da496b50">Wait</a> ()</td></tr>
-<tr class="separator:aace37f1c8fa4c4c4dd378ba2da496b50 inherit pub_methods_a29543"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad0830a83c94a940b254b71b4c7c979c2 inherit pub_methods_a29543"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d46/a29543.html#ad0830a83c94a940b254b71b4c7c979c2">OnSocketOpen</a> (<a class="el" href="../../d9/d4d/a02840.html#af72c5a224bc60d68d08afae3ba0cfb2f">IoContextTcpSocket</a> &amp;&amp;sock, <a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> threadIndex)</td></tr>
-<tr class="separator:ad0830a83c94a940b254b71b4c7c979c2 inherit pub_methods_a29543"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac1afac1d7f3e5092e9fe4425412186fc inherit pub_methods_a29543"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/ddd/a00380.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d46/a29543.html#ac1afac1d7f3e5092e9fe4425412186fc">GetNetworkThreadCount</a> () const</td></tr>
-<tr class="separator:ac1afac1d7f3e5092e9fe4425412186fc inherit pub_methods_a29543"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abf161238fa7dcf2ee8b3a4ef3c71d5fd inherit pub_methods_a29543"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d46/a29543.html#abf161238fa7dcf2ee8b3a4ef3c71d5fd">SelectThreadWithMinConnections</a> () const</td></tr>
-<tr class="separator:abf161238fa7dcf2ee8b3a4ef3c71d5fd inherit pub_methods_a29543"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acc5fbaea6228d5d5122e22472c79476e inherit pub_methods_a29543"><td class="memItemLeft" align="right" valign="top">std::pair&lt; <a class="el" href="../../d9/d4d/a02840.html#af72c5a224bc60d68d08afae3ba0cfb2f">IoContextTcpSocket</a> *, <a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d46/a29543.html#acc5fbaea6228d5d5122e22472c79476e">GetSocketForAccept</a> ()</td></tr>
-<tr class="separator:acc5fbaea6228d5d5122e22472c79476e inherit pub_methods_a29543"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
-Static Public Member Functions</h2></td></tr>
-<tr class="memitem:a9c56ed247f209709221a3e592f4d010f"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d2/d6a/a06047.html">AuthSocketMgr</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d6a/a06047.html#a9c56ed247f209709221a3e592f4d010f">Instance</a> ()</td></tr>
-<tr class="separator:a9c56ed247f209709221a3e592f4d010f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-methods" name="pro-methods"></a>
-Protected Member Functions</h2></td></tr>
-<tr class="memitem:a98a0866ae616017010f639f0ad9fc72d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d63/a29535.html">NetworkThread</a>&lt; <a class="el" href="../../d1/dd7/a06039.html">AuthSession</a> &gt; *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d6a/a06047.html#a98a0866ae616017010f639f0ad9fc72d">CreateThreads</a> () const override</td></tr>
-<tr class="separator:a98a0866ae616017010f639f0ad9fc72d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pro_methods_a29543"><td colspan="2" onclick="javascript:toggleInherit('pro_methods_a29543')"><img src="../../closed.png" alt="-"/>&#160;Protected Member Functions inherited from <a class="el" href="../../d4/d46/a29543.html">SocketMgr&lt; AuthSession &gt;</a></td></tr>
-<tr class="memitem:a7582b914e42af5d67e4a4e968fd99b4a inherit pro_methods_a29543"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d46/a29543.html#a7582b914e42af5d67e4a4e968fd99b4a">SocketMgr</a> ()=default</td></tr>
-<tr class="separator:a7582b914e42af5d67e4a4e968fd99b4a inherit pro_methods_a29543"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac712a459d409da9e8f21603da8aa0305 inherit pro_methods_a29543"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="../../d3/d63/a29535.html">NetworkThread</a>&lt; <a class="el" href="../../d1/dd7/a06039.html">AuthSession</a> &gt; *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d46/a29543.html#ac712a459d409da9e8f21603da8aa0305">CreateThreads</a> () const=0</td></tr>
-<tr class="separator:ac712a459d409da9e8f21603da8aa0305 inherit pro_methods_a29543"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-static-methods" name="pro-static-methods"></a>
-Static Protected Member Functions</h2></td></tr>
-<tr class="memitem:a02b81323eba1428f9b5eebf7f5edc393"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d6a/a06047.html#a02b81323eba1428f9b5eebf7f5edc393">OnSocketAccept</a> (<a class="el" href="../../d9/d4d/a02840.html#af72c5a224bc60d68d08afae3ba0cfb2f">IoContextTcpSocket</a> &amp;&amp;sock, <a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> threadIndex)</td></tr>
-<tr class="separator:a02b81323eba1428f9b5eebf7f5edc393"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-types" name="pri-types"></a>
-Private Types</h2></td></tr>
-<tr class="memitem:a55ca5c800a783d89fbe05bd945374b84"><td class="memItemLeft" align="right" valign="top">typedef <a class="el" href="../../d4/d46/a29543.html">SocketMgr</a>&lt; <a class="el" href="../../d1/dd7/a06039.html">AuthSession</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d6a/a06047.html#a55ca5c800a783d89fbe05bd945374b84">BaseSocketMgr</a></td></tr>
-<tr class="separator:a55ca5c800a783d89fbe05bd945374b84"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="inherited" name="inherited"></a>
-Additional Inherited Members</h2></td></tr>
-<tr class="inherit_header pro_attribs_a29543"><td colspan="2" onclick="javascript:toggleInherit('pro_attribs_a29543')"><img src="../../closed.png" alt="-"/>&#160;Protected Attributes inherited from <a class="el" href="../../d4/d46/a29543.html">SocketMgr&lt; AuthSession &gt;</a></td></tr>
-<tr class="memitem:af397e6129662d41adeeef25d27a980ea inherit pro_attribs_a29543"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; <a class="el" href="../../dc/daf/a29531.html">AsyncAcceptor</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d46/a29543.html#af397e6129662d41adeeef25d27a980ea">_acceptor</a></td></tr>
-<tr class="separator:af397e6129662d41adeeef25d27a980ea inherit pro_attribs_a29543"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0802f42ee5a7c8fec400e5034d87caac inherit pro_attribs_a29543"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; <a class="el" href="../../d3/d63/a29535.html">NetworkThread</a>&lt; <a class="el" href="../../d1/dd7/a06039.html">AuthSession</a> &gt;[]&gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d46/a29543.html#a0802f42ee5a7c8fec400e5034d87caac">_threads</a></td></tr>
-<tr class="separator:a0802f42ee5a7c8fec400e5034d87caac inherit pro_attribs_a29543"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abeae5090b8ea81e39465a20c7b960885 inherit pro_attribs_a29543"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/ddd/a00380.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d46/a29543.html#abeae5090b8ea81e39465a20c7b960885">_threadCount</a></td></tr>
-<tr class="separator:abeae5090b8ea81e39465a20c7b960885 inherit pro_attribs_a29543"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:a296fd5746ea3ad8f5b341cd92ecb92a6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d69/a04679.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d6a/a06047.html#a296fd5746ea3ad8f5b341cd92ecb92a6">cmd</a></td></tr>
+<tr class="separator:a296fd5746ea3ad8f5b341cd92ecb92a6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a36a4e2114203cbec036c7f6c6ba1f11b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d69/a04679.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d6a/a06047.html#a36a4e2114203cbec036c7f6c6ba1f11b">error</a></td></tr>
+<tr class="separator:a36a4e2114203cbec036c7f6c6ba1f11b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aae293343b590c23405a32d2809887020"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d69/a04679.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d6a/a06047.html#aae293343b590c23405a32d2809887020">size</a></td></tr>
+<tr class="separator:aae293343b590c23405a32d2809887020"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae6f5a1b7c4684bb96deaa51cb9cfc7bc"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d69/a04679.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d6a/a06047.html#ae6f5a1b7c4684bb96deaa51cb9cfc7bc">gamename</a> [4]</td></tr>
+<tr class="separator:ae6f5a1b7c4684bb96deaa51cb9cfc7bc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa7a794d75e11e98aa9f88cb8e82be9e9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d69/a04679.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d6a/a06047.html#aa7a794d75e11e98aa9f88cb8e82be9e9">version1</a></td></tr>
+<tr class="separator:aa7a794d75e11e98aa9f88cb8e82be9e9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abe9218ee7ebdffa48dd404a2ad465ca4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d69/a04679.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d6a/a06047.html#abe9218ee7ebdffa48dd404a2ad465ca4">version2</a></td></tr>
+<tr class="separator:abe9218ee7ebdffa48dd404a2ad465ca4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6a9e5088baf8c568916891a55e035db3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d69/a04679.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d6a/a06047.html#a6a9e5088baf8c568916891a55e035db3">version3</a></td></tr>
+<tr class="separator:a6a9e5088baf8c568916891a55e035db3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4c2989e284a86a7257c3f4a7b507265c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d69/a04679.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d6a/a06047.html#a4c2989e284a86a7257c3f4a7b507265c">build</a></td></tr>
+<tr class="separator:a4c2989e284a86a7257c3f4a7b507265c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afc0d27e7213846988c0ee7ccc5e54ee0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d69/a04679.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d6a/a06047.html#afc0d27e7213846988c0ee7ccc5e54ee0">platform</a> [4]</td></tr>
+<tr class="separator:afc0d27e7213846988c0ee7ccc5e54ee0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad8c71a1e514e6b8f6d6a4681ba1db0c1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d69/a04679.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d6a/a06047.html#ad8c71a1e514e6b8f6d6a4681ba1db0c1">os</a> [4]</td></tr>
+<tr class="separator:ad8c71a1e514e6b8f6d6a4681ba1db0c1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5391c693d5aee76e67001f648b108792"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d69/a04679.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d6a/a06047.html#a5391c693d5aee76e67001f648b108792">country</a> [4]</td></tr>
+<tr class="separator:a5391c693d5aee76e67001f648b108792"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a44cdd2733fb678966bc3252b6bef9d16"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d6a/a06047.html#a44cdd2733fb678966bc3252b6bef9d16">timezone_bias</a></td></tr>
+<tr class="separator:a44cdd2733fb678966bc3252b6bef9d16"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5993cfad4be8f9e457bd6067ced6bd2a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d6a/a06047.html#a5993cfad4be8f9e457bd6067ced6bd2a">ip</a></td></tr>
+<tr class="separator:a5993cfad4be8f9e457bd6067ced6bd2a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a589c5dadf3e694ba5e3d9f1e5732426e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d69/a04679.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d6a/a06047.html#a589c5dadf3e694ba5e3d9f1e5732426e">I_len</a></td></tr>
+<tr class="separator:a589c5dadf3e694ba5e3d9f1e5732426e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a48ed2eb4f17a62d033320b981fe9d07c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d69/a04679.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d6a/a06047.html#a48ed2eb4f17a62d033320b981fe9d07c">I</a> [1]</td></tr>
+<tr class="separator:a48ed2eb4f17a62d033320b981fe9d07c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Typedef Documentation</h2>
-<a id="a55ca5c800a783d89fbe05bd945374b84" name="a55ca5c800a783d89fbe05bd945374b84"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a55ca5c800a783d89fbe05bd945374b84">&#9670;&#160;</a></span>BaseSocketMgr</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Data Documentation</h2>
+<a id="a4c2989e284a86a7257c3f4a7b507265c" name="a4c2989e284a86a7257c3f4a7b507265c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4c2989e284a86a7257c3f4a7b507265c">&#9670;&#160;</a></span>build</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">typedef <a class="el" href="../../d4/d46/a29543.html">SocketMgr</a>&lt;<a class="el" href="../../d1/dd7/a06039.html">AuthSession</a>&gt; <a class="el" href="../../d2/d6a/a06047.html#a55ca5c800a783d89fbe05bd945374b84">AuthSocketMgr::BaseSocketMgr</a></td>
+          <td class="memname"><a class="el" href="../../de/d69/a04679.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> AUTH_LOGON_CHALLENGE_C::build</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00284">AuthSession::HandleLogonChallenge()</a>, and <a class="el" href="../../#l00621">AuthSession::HandleReconnectChallenge()</a>.</p>
+
+</div>
+</div>
+<a id="a296fd5746ea3ad8f5b341cd92ecb92a6" name="a296fd5746ea3ad8f5b341cd92ecb92a6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a296fd5746ea3ad8f5b341cd92ecb92a6">&#9670;&#160;</a></span>cmd</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../de/d69/a04679.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> AUTH_LOGON_CHALLENGE_C::cmd</td>
+        </tr>
+      </table>
 </div><div class="memdoc">
 
 </div>
 </div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a98a0866ae616017010f639f0ad9fc72d" name="a98a0866ae616017010f639f0ad9fc72d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a98a0866ae616017010f639f0ad9fc72d">&#9670;&#160;</a></span>CreateThreads()</h2>
+<a id="a5391c693d5aee76e67001f648b108792" name="a5391c693d5aee76e67001f648b108792"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5391c693d5aee76e67001f648b108792">&#9670;&#160;</a></span>country</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d3/d63/a29535.html">NetworkThread</a>&lt; <a class="el" href="../../d1/dd7/a06039.html">AuthSession</a> &gt; * AuthSocketMgr::CreateThreads </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
+          <td class="memname"><a class="el" href="../../de/d69/a04679.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> AUTH_LOGON_CHALLENGE_C::country[4]</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">protected</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p>Implements <a class="el" href="../../d4/d46/a29543.html#ac712a459d409da9e8f21603da8aa0305">SocketMgr&lt; AuthSession &gt;</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   47</span>    {</div>
-<div class="line"><span class="lineno">   48</span>        <a class="code hl_class" href="../../d3/d63/a29535.html">NetworkThread&lt;AuthSession&gt;</a>* threads = <span class="keyword">new</span> <a class="code hl_class" href="../../d3/d63/a29535.html">NetworkThread&lt;AuthSession&gt;</a>[1];</div>
-<div class="line"><span class="lineno">   49</span> </div>
-<div class="line"><span class="lineno">   50</span>        <span class="keywordtype">bool</span> proxyProtocolEnabled = <a class="code hl_define" href="../../d6/d9a/a31199.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<span class="keywordtype">bool</span>&gt;(<span class="stringliteral">&quot;EnableProxyProtocol&quot;</span>, <span class="keyword">false</span>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">   51</span>        <span class="keywordflow">if</span> (proxyProtocolEnabled)</div>
-<div class="line"><span class="lineno">   52</span>            threads[0].<a class="code hl_function" href="../../d3/d63/a29535.html#a3ae117298b1221971bd2e5e0d4d50310">EnableProxyProtocol</a>();</div>
-<div class="line"><span class="lineno">   53</span> </div>
-<div class="line"><span class="lineno">   54</span>        <span class="keywordflow">return</span> threads;</div>
-<div class="line"><span class="lineno">   55</span>    }</div>
-<div class="ttc" id="aa29535_html"><div class="ttname"><a href="../../d3/d63/a29535.html">NetworkThread</a></div><div class="ttdef"><b>Definition:</b> NetworkThread.h:38</div></div>
-<div class="ttc" id="aa29535_html_a3ae117298b1221971bd2e5e0d4d50310"><div class="ttname"><a href="../../d3/d63/a29535.html#a3ae117298b1221971bd2e5e0d4d50310">NetworkThread::EnableProxyProtocol</a></div><div class="ttdeci">void EnableProxyProtocol()</div><div class="ttdef"><b>Definition:</b> NetworkThread.h:96</div></div>
-<div class="ttc" id="aa31199_html_a7236988e98bdd405bf435a029b70a26f"><div class="ttname"><a href="../../d6/d9a/a31199.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a></div><div class="ttdeci">#define sConfigMgr</div><div class="ttdef"><b>Definition:</b> Config.h:93</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00096">NetworkThread&lt; SocketType &gt;::EnableProxyProtocol()</a>, and <a class="el" href="../../#l00093">sConfigMgr</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00284">AuthSession::HandleLogonChallenge()</a>, and <a class="el" href="../../#l00621">AuthSession::HandleReconnectChallenge()</a>.</p>
 
 </div>
 </div>
-<a id="a9c56ed247f209709221a3e592f4d010f" name="a9c56ed247f209709221a3e592f4d010f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9c56ed247f209709221a3e592f4d010f">&#9670;&#160;</a></span>Instance()</h2>
+<a id="a36a4e2114203cbec036c7f6c6ba1f11b" name="a36a4e2114203cbec036c7f6c6ba1f11b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a36a4e2114203cbec036c7f6c6ba1f11b">&#9670;&#160;</a></span>error</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static <a class="el" href="../../d2/d6a/a06047.html">AuthSocketMgr</a> &amp; AuthSocketMgr::Instance </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td class="memname"><a class="el" href="../../de/d69/a04679.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> AUTH_LOGON_CHALLENGE_C::error</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   31</span>    {</div>
-<div class="line"><span class="lineno">   32</span>        <span class="keyword">static</span> <a class="code hl_class" href="../../d2/d6a/a06047.html">AuthSocketMgr</a> instance;</div>
-<div class="line"><span class="lineno">   33</span>        <span class="keywordflow">return</span> instance;</div>
-<div class="line"><span class="lineno">   34</span>    }</div>
-<div class="ttc" id="aa06047_html"><div class="ttname"><a href="../../d2/d6a/a06047.html">AuthSocketMgr</a></div><div class="ttdef"><b>Definition:</b> AuthSocketMgr.h:26</div></div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00057">OnSocketAccept()</a>.</p>
 
 </div>
 </div>
-<a id="a02b81323eba1428f9b5eebf7f5edc393" name="a02b81323eba1428f9b5eebf7f5edc393"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a02b81323eba1428f9b5eebf7f5edc393">&#9670;&#160;</a></span>OnSocketAccept()</h2>
+<a id="ae6f5a1b7c4684bb96deaa51cb9cfc7bc" name="ae6f5a1b7c4684bb96deaa51cb9cfc7bc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae6f5a1b7c4684bb96deaa51cb9cfc7bc">&#9670;&#160;</a></span>gamename</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static void AuthSocketMgr::OnSocketAccept </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/d4d/a02840.html#af72c5a224bc60d68d08afae3ba0cfb2f">IoContextTcpSocket</a> &amp;&amp;&#160;</td>
-          <td class="paramname"><em>sock</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>threadIndex</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="memname"><a class="el" href="../../de/d69/a04679.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> AUTH_LOGON_CHALLENGE_C::gamename[4]</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   58</span>    {</div>
-<div class="line"><span class="lineno">   59</span>        <a class="code hl_function" href="../../d2/d6a/a06047.html#a9c56ed247f209709221a3e592f4d010f">Instance</a>().<a class="code hl_function" href="../../d4/d46/a29543.html#ad0830a83c94a940b254b71b4c7c979c2">OnSocketOpen</a>(std::move(sock), threadIndex);</div>
-<div class="line"><span class="lineno">   60</span>    }</div>
-<div class="ttc" id="aa06047_html_a9c56ed247f209709221a3e592f4d010f"><div class="ttname"><a href="../../d2/d6a/a06047.html#a9c56ed247f209709221a3e592f4d010f">AuthSocketMgr::Instance</a></div><div class="ttdeci">static AuthSocketMgr &amp; Instance()</div><div class="ttdef"><b>Definition:</b> AuthSocketMgr.h:30</div></div>
-<div class="ttc" id="aa29543_html_ad0830a83c94a940b254b71b4c7c979c2"><div class="ttname"><a href="../../d4/d46/a29543.html#ad0830a83c94a940b254b71b4c7c979c2">SocketMgr::OnSocketOpen</a></div><div class="ttdeci">virtual void OnSocketOpen(IoContextTcpSocket &amp;&amp;sock, uint32 threadIndex)</div><div class="ttdef"><b>Definition:</b> SocketMgr.h:94</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00030">Instance()</a>, and <a class="el" href="../../#l00094">SocketMgr&lt; SocketType &gt;::OnSocketOpen()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00036">StartNetwork()</a>.</p>
 
 </div>
 </div>
-<a id="a345e4f8cc1c216ed7eb9c3e96748170f" name="a345e4f8cc1c216ed7eb9c3e96748170f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a345e4f8cc1c216ed7eb9c3e96748170f">&#9670;&#160;</a></span>StartNetwork()</h2>
+<a id="a48ed2eb4f17a62d033320b981fe9d07c" name="a48ed2eb4f17a62d033320b981fe9d07c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a48ed2eb4f17a62d033320b981fe9d07c">&#9670;&#160;</a></span>I</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool AuthSocketMgr::StartNetwork </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/d9b/a05219.html">Acore::Asio::IoContext</a> &amp;&#160;</td>
-          <td class="paramname"><em>ioContext</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">std::string const &amp;&#160;</td>
-          <td class="paramname"><em>bindIp</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d8/ddd/a00380.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td>
-          <td class="paramname"><em>port</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>threadCount</em> = <code>1</code>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="memname"><a class="el" href="../../de/d69/a04679.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> AUTH_LOGON_CHALLENGE_C::I[1]</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p>Reimplemented from <a class="el" href="../../d4/d46/a29543.html#a81fc5b0c7bc9750b67ca607ae0cf2c81">SocketMgr&lt; AuthSession &gt;</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   37</span>    {</div>
-<div class="line"><span class="lineno">   38</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d4/d46/a29543.html#a81fc5b0c7bc9750b67ca607ae0cf2c81">BaseSocketMgr::StartNetwork</a>(ioContext, bindIp, port, threadCount))</div>
-<div class="line"><span class="lineno">   39</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   40</span> </div>
-<div class="line"><span class="lineno">   41</span>        <a class="code hl_variable" href="../../d4/d46/a29543.html#af397e6129662d41adeeef25d27a980ea">_acceptor</a>-&gt;AsyncAcceptWithCallback&lt;&amp;<a class="code hl_function" href="../../d2/d6a/a06047.html#a02b81323eba1428f9b5eebf7f5edc393">AuthSocketMgr::OnSocketAccept</a>&gt;();</div>
-<div class="line"><span class="lineno">   42</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">   43</span>    }</div>
-<div class="ttc" id="aa06047_html_a02b81323eba1428f9b5eebf7f5edc393"><div class="ttname"><a href="../../d2/d6a/a06047.html#a02b81323eba1428f9b5eebf7f5edc393">AuthSocketMgr::OnSocketAccept</a></div><div class="ttdeci">static void OnSocketAccept(IoContextTcpSocket &amp;&amp;sock, uint32 threadIndex)</div><div class="ttdef"><b>Definition:</b> AuthSocketMgr.h:57</div></div>
-<div class="ttc" id="aa29543_html_a81fc5b0c7bc9750b67ca607ae0cf2c81"><div class="ttname"><a href="../../d4/d46/a29543.html#a81fc5b0c7bc9750b67ca607ae0cf2c81">SocketMgr&lt; AuthSession &gt;::StartNetwork</a></div><div class="ttdeci">virtual bool StartNetwork(Acore::Asio::IoContext &amp;ioContext, std::string const &amp;bindIp, uint16 port, int threadCount)</div><div class="ttdef"><b>Definition:</b> SocketMgr.h:39</div></div>
-<div class="ttc" id="aa29543_html_af397e6129662d41adeeef25d27a980ea"><div class="ttname"><a href="../../d4/d46/a29543.html#af397e6129662d41adeeef25d27a980ea">SocketMgr&lt; AuthSession &gt;::_acceptor</a></div><div class="ttdeci">std::unique_ptr&lt; AsyncAcceptor &gt; _acceptor</div><div class="ttdef"><b>Definition:</b> SocketMgr.h:131</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00131">SocketMgr&lt; AuthSession &gt;::_acceptor</a>, <a class="el" href="../../#l00057">OnSocketAccept()</a>, and <a class="el" href="../../#l00039">SocketMgr&lt; AuthSession &gt;::StartNetwork()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00284">AuthSession::HandleLogonChallenge()</a>, and <a class="el" href="../../#l00621">AuthSession::HandleReconnectChallenge()</a>.</p>
+
+</div>
+</div>
+<a id="a589c5dadf3e694ba5e3d9f1e5732426e" name="a589c5dadf3e694ba5e3d9f1e5732426e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a589c5dadf3e694ba5e3d9f1e5732426e">&#9670;&#160;</a></span>I_len</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../de/d69/a04679.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> AUTH_LOGON_CHALLENGE_C::I_len</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00284">AuthSession::HandleLogonChallenge()</a>, and <a class="el" href="../../#l00621">AuthSession::HandleReconnectChallenge()</a>.</p>
+
+</div>
+</div>
+<a id="a5993cfad4be8f9e457bd6067ced6bd2a" name="a5993cfad4be8f9e457bd6067ced6bd2a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5993cfad4be8f9e457bd6067ced6bd2a">&#9670;&#160;</a></span>ip</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AUTH_LOGON_CHALLENGE_C::ip</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ad8c71a1e514e6b8f6d6a4681ba1db0c1" name="ad8c71a1e514e6b8f6d6a4681ba1db0c1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad8c71a1e514e6b8f6d6a4681ba1db0c1">&#9670;&#160;</a></span>os</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../de/d69/a04679.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> AUTH_LOGON_CHALLENGE_C::os[4]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00284">AuthSession::HandleLogonChallenge()</a>, and <a class="el" href="../../#l00621">AuthSession::HandleReconnectChallenge()</a>.</p>
+
+</div>
+</div>
+<a id="afc0d27e7213846988c0ee7ccc5e54ee0" name="afc0d27e7213846988c0ee7ccc5e54ee0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afc0d27e7213846988c0ee7ccc5e54ee0">&#9670;&#160;</a></span>platform</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../de/d69/a04679.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> AUTH_LOGON_CHALLENGE_C::platform[4]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aae293343b590c23405a32d2809887020" name="aae293343b590c23405a32d2809887020"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aae293343b590c23405a32d2809887020">&#9670;&#160;</a></span>size</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../de/d69/a04679.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> AUTH_LOGON_CHALLENGE_C::size</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00284">AuthSession::HandleLogonChallenge()</a>, <a class="el" href="../../#l00621">AuthSession::HandleReconnectChallenge()</a>, and <a class="el" href="../../#l00220">AuthSession::ReadHandler()</a>.</p>
+
+</div>
+</div>
+<a id="a44cdd2733fb678966bc3252b6bef9d16" name="a44cdd2733fb678966bc3252b6bef9d16"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a44cdd2733fb678966bc3252b6bef9d16">&#9670;&#160;</a></span>timezone_bias</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AUTH_LOGON_CHALLENGE_C::timezone_bias</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aa7a794d75e11e98aa9f88cb8e82be9e9" name="aa7a794d75e11e98aa9f88cb8e82be9e9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa7a794d75e11e98aa9f88cb8e82be9e9">&#9670;&#160;</a></span>version1</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../de/d69/a04679.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> AUTH_LOGON_CHALLENGE_C::version1</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="abe9218ee7ebdffa48dd404a2ad465ca4" name="abe9218ee7ebdffa48dd404a2ad465ca4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abe9218ee7ebdffa48dd404a2ad465ca4">&#9670;&#160;</a></span>version2</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../de/d69/a04679.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> AUTH_LOGON_CHALLENGE_C::version2</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a6a9e5088baf8c568916891a55e035db3" name="a6a9e5088baf8c568916891a55e035db3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6a9e5088baf8c568916891a55e035db3">&#9670;&#160;</a></span>version3</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../de/d69/a04679.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> AUTH_LOGON_CHALLENGE_C::version3</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
 
 </div>
 </div>
@@ -393,8 +373,8 @@ Additional Inherited Members</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d2/d6a/a06047.html">AuthSocketMgr</a></li>
-    <li class="footer">Generated on Tue Sep 1 2026 00:08:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d2/d6a/a06047.html">AUTH_LOGON_CHALLENGE_C</a></li>
+    <li class="footer">Generated on Mon Sep 21 2026 23:33:29 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

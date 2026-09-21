@@ -1,8 +1,6 @@
 var a17871 =
 [
-    [ "npc_saurfang_eventAI", "d0/dc2/a17871.html#a8436a87576c92ecc0b45106683d20e93", null ],
-    [ "DoAction", "d0/dc2/a17871.html#a45201c4a5b94fad948efe1d08e63e262", null ],
-    [ "SetData", "d0/dc2/a17871.html#a7f012a54ebce5307940eb7957f028d52", null ],
-    [ "SpellHit", "d0/dc2/a17871.html#a2ed920f949c4d8dbc6d6ff5b9149e749", null ],
-    [ "_index", "d0/dc2/a17871.html#a793d72078bd68b34fcdb7cd6587295dd", null ]
+    [ "boss_blood_queen_lana_thelAI", "d0/d26/a17875.html", "d0/d26/a17875" ],
+    [ "boss_blood_queen_lana_thel", "d0/dc2/a17871.html#a9f8fa906f01082caacd106abc2707b07", null ],
+    [ "GetAI", "d0/dc2/a17871.html#a7873efd945bdb24228866f639e32879b", null ]
 ];

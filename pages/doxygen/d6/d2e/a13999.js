@@ -1,11 +1,9 @@
 var a13999 =
 [
-    [ "npc_supervisor_raelen", "d6/d2e/a13999.html#a2059d41f6df3a44406ab69a0dca501a4", null ],
-    [ "CallPeasent", "d6/d2e/a13999.html#a0b8d661a86ec334adeb502d6936135ee", null ],
-    [ "Reset", "d6/d2e/a13999.html#a656029c56da84d2d3cee7380d6032e3d", null ],
-    [ "SetData", "d6/d2e/a13999.html#ab709a5a975c22556dfe71dce52a3ec2c", null ],
-    [ "UpdateAI", "d6/d2e/a13999.html#a623a95d4f3ca483d1bf3dff5e06c1958", null ],
-    [ "_events", "d6/d2e/a13999.html#a1ed36b07ff83a6a8a202f4a451d90190", null ],
-    [ "_PeasentId", "d6/d2e/a13999.html#ae3e44b8f29f05c771137c5b9afd5da56", null ],
-    [ "peasentGUIDs", "d6/d2e/a13999.html#a6e290a29c8205b22bd668f0516e8904a", null ]
+    [ "spell_sunwell_teleport", "d6/d2e/a13999.html#a6c61c9bb6cb5737469686a7976207f1d", null ],
+    [ "HandleScript", "d6/d2e/a13999.html#a4bd9ef50ecc45c792feb8e4d820298b5", null ],
+    [ "PrepareSpellScript", "d6/d2e/a13999.html#afc3c927b4bd5ec19074a0ee6d59783f2", null ],
+    [ "Register", "d6/d2e/a13999.html#a3a82c7a6d6673c5860b196e0cd644aab", null ],
+    [ "Validate", "d6/d2e/a13999.html#a351a2beced058f9354515baa38b0292e", null ],
+    [ "_triggeredSpellId", "d6/d2e/a13999.html#a66d97a0028b8a0c430ac5152213f60eb", null ]
 ];

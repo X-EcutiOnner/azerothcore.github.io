@@ -1,5 +1,6 @@
 var a17295 =
 [
-    [ "npc_fos_leader_secondAI", "d5/d7b/a17295.html#a25df0b8760e9eb7d330779e10e3ac548", null ],
-    [ "MovementInform", "d5/d7b/a17295.html#a9cc0b500f1289dc8b764b3755468e639", null ]
+    [ "boss_trollgoreAI", "d7/dd1/a17299.html", "d7/dd1/a17299" ],
+    [ "boss_trollgore", "d5/d7b/a17295.html#a95102f1fae6c667e0780b8b388fc156b", null ],
+    [ "GetAI", "d5/d7b/a17295.html#a6da1349da296a3dc3d29527a8e3c2b7d", null ]
 ];

@@ -1,5 +1,5 @@
 var a13467 =
 [
-    [ "boss_apoko", "d2/d9f/a13467.html#a3ae4752839f47bbfce5f7df03c427cd2", null ],
-    [ "JustEngagedWith", "d2/d9f/a13467.html#a7ad52b258863bd818b3e5d1143de7629", null ]
+    [ "textid", "d2/d9f/a13467.html#a7dac5c31d7df501f28eee3e1dec0523a", null ],
+    [ "timer", "d2/d9f/a13467.html#ab7851f383e7221c6ff2700ee345d9504", null ]
 ];

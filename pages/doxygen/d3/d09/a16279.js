@@ -1,6 +1,9 @@
 var a16279 =
 [
-    [ "go_troll_cageAI", "d7/ddf/a16283.html", "d7/ddf/a16283" ],
-    [ "go_troll_cage", "d3/d09/a16279.html#ac571df719edabd9e9ecf5c8bb0e153c2", null ],
-    [ "GetAI", "d3/d09/a16279.html#a807f526225dc9a6b27ac64a7f4a3d9b8", null ]
+    [ "npc_pluckyAI", "d3/d09/a16279.html#a490198dfcf06b04f7ee9a6a5354dec7e", null ],
+    [ "ReceiveEmote", "d3/d09/a16279.html#a4a4a09d6a462011154a8d871562dcaf5", null ],
+    [ "Reset", "d3/d09/a16279.html#a1a6c4a479bbbfced1ad17f2604bdba32", null ],
+    [ "UpdateAI", "d3/d09/a16279.html#a4775a736e3568940c1b92e0cdae4de4b", null ],
+    [ "NormFaction", "d3/d09/a16279.html#afd9c6fccf4c30b4fbc62bfa951665949", null ],
+    [ "ResetTimer", "d3/d09/a16279.html#ac9808c21666cd17b0603e7e67a61d015", null ]
 ];

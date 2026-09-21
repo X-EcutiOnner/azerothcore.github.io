@@ -1,10 +1,9 @@
 var a09663 =
 [
-    [ "UnitLastSearcher", "db/d0a/a09663.html#a7924240df139cf0814282eaff8a898b6", null ],
-    [ "Visit", "db/d0a/a09663.html#a95a5148e040daf44ed19e3118621a4ca", null ],
-    [ "Visit", "db/d0a/a09663.html#ae9992afc09771d4f1e1517642075f17e", null ],
-    [ "Visit", "db/d0a/a09663.html#aadfcfdd95a9f2b61cb9ff4c7db43a014", null ],
-    [ "i_check", "db/d0a/a09663.html#a6cf23e7ed9198798da03e6ec3526ee97", null ],
-    [ "i_object", "db/d0a/a09663.html#a7bd2407800c461de70b217a4b48f9921", null ],
-    [ "i_phaseMask", "db/d0a/a09663.html#aee39e2b567813e1e7420de07b3fe9b08", null ]
+    [ "VisibleChangesNotifier", "db/d0a/a09663.html#aacb0239ed44c9705eeeebf5ab198f7e0", null ],
+    [ "Visit", "db/d0a/a09663.html#abfc60c91aaa823cb99cdfc17a287e23e", null ],
+    [ "Visit", "db/d0a/a09663.html#aaf1dab341f34f75e56da63370af0ecd3", null ],
+    [ "Visit", "db/d0a/a09663.html#a103a8ef30ce4c0753913b6ecb6cf4e92", null ],
+    [ "Visit", "db/d0a/a09663.html#a6e856249a08d0a90b9d19f2449f30fba", null ],
+    [ "i_object", "db/d0a/a09663.html#a496b982d081957cfc288f29b99b8739d", null ]
 ];

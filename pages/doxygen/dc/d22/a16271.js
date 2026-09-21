@@ -1,6 +1,8 @@
 var a16271 =
 [
-    [ "npc_sergeant_blyAI", "de/db1/a16275.html", "de/db1/a16275" ],
-    [ "npc_sergeant_bly", "dc/d22/a16271.html#afd5c6129098e4939e2b9f3d12b8c7058", null ],
-    [ "GetAI", "dc/d22/a16271.html#ad54ff5aabbc30de759c8f31b7ef9f46e", null ]
+    [ "npc_paoka_swiftmountainAI", "dc/d22/a16271.html#a92a229f76de3bc46ae14910439db0004", null ],
+    [ "DoSpawnWyvern", "dc/d22/a16271.html#a7997a3d398db82c205e3a8af77ac1684", null ],
+    [ "Reset", "dc/d22/a16271.html#acae0427957aba04a54e6001823bc7eb4", null ],
+    [ "WaypointReached", "dc/d22/a16271.html#a262781c90fe1b5a5af2c6f94e4cc52e2", null ],
+    [ "WaypointReached", "dc/d22/a16271.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

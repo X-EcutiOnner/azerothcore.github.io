@@ -1,6 +1,8 @@
 var a25299 =
 [
-    [ "HandleScriptEffect", "dc/dbf/a25299.html#ab3f415ae783f2a778178cc3319b32773", null ],
-    [ "PrepareSpellScript", "dc/dbf/a25299.html#a4ba7f7935c4acda891190dc375086dee", null ],
-    [ "Register", "dc/dbf/a25299.html#ad9b1571b4faf7d0fc6df7f6a8eb05c8a", null ]
+    [ "CheckIfCorpseNear", "dc/dbf/a25299.html#afdf1bca2e23057d99962fb1000e9245e", null ],
+    [ "HandleDummy", "dc/dbf/a25299.html#a9e1bf4884a32e515d8e6b3edf7f5d462", null ],
+    [ "PrepareSpellScript", "dc/dbf/a25299.html#af4a1aa22ed9ccf4df29d05d3f7fb0214", null ],
+    [ "Register", "dc/dbf/a25299.html#a22f4c5321769384b2b708f19edea1a66", null ],
+    [ "Validate", "dc/dbf/a25299.html#a855fdba79c4fa087253505ed419b9966", null ]
 ];

@@ -1,6 +1,7 @@
 var a19075 =
 [
-    [ "npc_captain_brandonAI", "d9/dae/a19075.html#a1fe09b93be658660ba3c127c142e2ee6", null ],
-    [ "Reset", "d9/dae/a19075.html#a13226b321707eee9faf5f073c81403e4", null ],
-    [ "UpdateAI", "d9/dae/a19075.html#a721f8f7395cd57d4dba74f66ae40169f", null ]
+    [ "HandleForceCast", "d9/dae/a19075.html#accc757e0a23103242865f0ce3085f9d9", null ],
+    [ "Load", "d9/dae/a19075.html#a7206571378a0196a8648659628bdeece", null ],
+    [ "PrepareSpellScript", "d9/dae/a19075.html#a8bb6db3eaebab00d3166b24ad1e41158", null ],
+    [ "Register", "d9/dae/a19075.html#ace665321732f59f13b2ef831c71c2f18", null ]
 ];

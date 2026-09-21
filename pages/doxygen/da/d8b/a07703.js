@@ -1,7 +1,5 @@
 var a07703 =
 [
-    [ "BattlegroundObjectInfo", "da/d8b/a07703.html#a848f2b15f47ceeb91c40e916d5659486", null ],
-    [ "object", "da/d8b/a07703.html#a6722b83d6969c1a34b4846f19865075a", null ],
-    [ "spellid", "da/d8b/a07703.html#ae0233a1078bc735e40855ea7608f5f11", null ],
-    [ "timer", "da/d8b/a07703.html#a7eaf1fbe40f3a7918965da8d5ac81a50", null ]
+    [ "~ArenaSeasonTeamRewarder", "da/d8b/a07703.html#a8f7eb844a39cd5213134ef4f4d4b1fde", null ],
+    [ "RewardTeamWithRewardGroup", "da/d8b/a07703.html#a2beaf893f95e16c4d388ad048885848b", null ]
 ];

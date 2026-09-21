@@ -1,9 +1,5 @@
 var a28215 =
 [
-    [ "ChatLogScript", "dd/d3d/a28215.html#ade8c407083cf094f0767412e7b6d7730", null ],
-    [ "OnPlayerCanUseChat", "dd/d3d/a28215.html#a4291524fdb6bbe7b92ebb3a35fb942c4", null ],
-    [ "OnPlayerCanUseChat", "dd/d3d/a28215.html#ae7ca6f582695b3aabfd7255beb3e8d07", null ],
-    [ "OnPlayerCanUseChat", "dd/d3d/a28215.html#a64e3f0cc978eef23590ae97bb0b1320a", null ],
-    [ "OnPlayerCanUseChat", "dd/d3d/a28215.html#af891f7acb0a562c394db0a1763cc6ccd", null ],
-    [ "OnPlayerCanUseChat", "dd/d3d/a28215.html#a9b69a5da200d9fe1275d2c7dd3576e87", null ]
+    [ "AreaTrigger_at_last_rites", "dd/d3d/a28215.html#a30d1930c76920ab12cf4f9b04fd5f0e4", null ],
+    [ "OnTrigger", "dd/d3d/a28215.html#a48f6e2041cda24812a165fa0fb62f1b6", null ]
 ];

@@ -1,5 +1,6 @@
 var a28379 =
 [
-    [ "go_dragonflayer_cage", "d7/dd5/a28379.html#a9f36ba678a1e3954f21b96b227fb999e", null ],
-    [ "OnGossipHello", "d7/dd5/a28379.html#a542530a0b84879b21a4b9982cf4300d0", null ]
+    [ "go_pirate_day_musicAI", "dc/ddf/a28383.html", "dc/ddf/a28383" ],
+    [ "go_pirate_day_music", "d7/dd5/a28379.html#aa8d19102357639bd160eae9e90a87505", null ],
+    [ "GetAI", "d7/dd5/a28379.html#a3bce105696415c9a31c5cbeb9607fa95", null ]
 ];

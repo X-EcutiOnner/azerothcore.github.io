@@ -1,5 +1,6 @@
 var a20219 =
 [
-    [ "achievement_auriaya_crazy_cat_lady", "d0/d15/a20219.html#a1eb5d931c7c520b7cd6f516bfcb819e4", null ],
-    [ "OnCheck", "d0/d15/a20219.html#a905b9a4389521fde6d26d3c19a0fe21c", null ]
+    [ "PrepareSpellScript", "d0/d15/a20219.html#af280f3880e2e567188ba8ca3e45c00c0", null ],
+    [ "RecalculateDamage", "d0/d15/a20219.html#a54c26d24f62c36108f9fceb7a0c53e37", null ],
+    [ "Register", "d0/d15/a20219.html#aac131aa2d2e5342cf0303b918a077b45", null ]
 ];

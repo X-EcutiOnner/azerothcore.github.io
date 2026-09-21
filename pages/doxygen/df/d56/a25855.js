@@ -1,5 +1,6 @@
 var a25855 =
 [
-    [ "PrepareSpellScript", "df/d56/a25855.html#a999d5173e12b643e0bdcefcd099f65d1", null ],
-    [ "Register", "df/d56/a25855.html#afd92511fb578c1df33248dba5055315e", null ]
+    [ "CheckCast", "df/d56/a25855.html#a849de7a9bc8d22ca1556e4e798807eaa", null ],
+    [ "PrepareSpellScript", "df/d56/a25855.html#aadbfe7c69dac7cbc76aee2bfb790b612", null ],
+    [ "Register", "df/d56/a25855.html#a2ca1fd7353e69d1028b8a9b2882d7931", null ]
 ];

@@ -1,7 +1,8 @@
 var a18939 =
 [
-    [ "npc_blazing_skeletonAI", "d1/de6/a18939.html#ad4f997a7a4cc0fa96594da35434fd921", null ],
-    [ "Reset", "d1/de6/a18939.html#a3bbc4cf7b6dbe11d6768a0fb0626e84a", null ],
-    [ "UpdateAI", "d1/de6/a18939.html#a0010c4befd13ec6beada0de1607f3f7a", null ],
-    [ "_events", "d1/de6/a18939.html#aab1b04989d5e3fc289f00bc121df193d", null ]
+    [ "npc_lk_wicked_spiritAI", "d1/de6/a18939.html#a6323ddd6c0932f3d73a6de4bd3c4d5dd", null ],
+    [ "CanAIAttack", "d1/de6/a18939.html#ae094420b1a6e134632baa0b086c806c6", null ],
+    [ "JustDied", "d1/de6/a18939.html#adf153fab1c8639b2b5790ed418afb85d", null ],
+    [ "JustRespawned", "d1/de6/a18939.html#a1acfbead42b66dd8f70a85efc8ce2e6f", null ],
+    [ "Reset", "d1/de6/a18939.html#a8b15079251b6855679d738a342126006", null ]
 ];

@@ -1,11 +1,12 @@
 var a24731 =
 [
-    [ "CalcPeriodic", "de/db1/a24731.html#a8dfb6d67b57e4ff0bd15e49c36d4ec2d", null ],
-    [ "CalculateAPAmount", "de/db1/a24731.html#ab23f26c3470f629f0a20f28faf272a68", null ],
-    [ "CalculateHealthAmount", "de/db1/a24731.html#a4f827a906ac279e143ba8545545090ad", null ],
-    [ "CalculateSPAmount", "de/db1/a24731.html#ae94493ffed217a218e21c05e002cec00", null ],
-    [ "HandleEffectApply", "de/db1/a24731.html#acaa3bd6385b05101cad38d4f0738b9d8", null ],
-    [ "HandlePeriodic", "de/db1/a24731.html#ac5a656d4fa474b1d0c82af7613bcac10", null ],
-    [ "PrepareAuraScript", "de/db1/a24731.html#a5052689d815e0a0543693b39b7454deb", null ],
-    [ "Register", "de/db1/a24731.html#a3226edbe6b24a827f2ef28ccfb815b7a", null ]
+    [ "CheckTarget", "de/db1/a24731.html#a731aa2c0a2b67b8a15cab72ea2cb961a", null ],
+    [ "CheckTargets", "de/db1/a24731.html#a3b5bbef0c43a600387235822f3c6dbc7", null ],
+    [ "HandleCorpseExplosion", "de/db1/a24731.html#a201de2ee86d0cf954117df0e5343ee69", null ],
+    [ "HandleDamage", "de/db1/a24731.html#a810fc65eb5d7160366d63210bad9caea", null ],
+    [ "Load", "de/db1/a24731.html#a00b45e2f466de39c95251c2a38f6c3bd", null ],
+    [ "PrepareSpellScript", "de/db1/a24731.html#a4cae1673a840d8ec0d727b881a3616cf", null ],
+    [ "Register", "de/db1/a24731.html#a9e67ea51300569a0e163cb3e427b086e", null ],
+    [ "Validate", "de/db1/a24731.html#a93984e8b831cb4c37ec2726d44532d43", null ],
+    [ "_target", "de/db1/a24731.html#a5028b9d3166270b2b0557943e962eade", null ]
 ];

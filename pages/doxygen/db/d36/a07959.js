@@ -1,7 +1,17 @@
 var a07959 =
 [
-    [ "CommandPermissions", "db/d36/a07959.html#ad1242d9067778298c44501b5d5a962f8", null ],
-    [ "CommandPermissions", "db/d36/a07959.html#a47f284c63f10b6c3479624845b696aa6", null ],
-    [ "AllowConsole", "db/d36/a07959.html#a8b419033e8dff0307a22a32bc57a1dc8", null ],
-    [ "RequiredLevel", "db/d36/a07959.html#a4918f2c3b1913eb76d09d859479ebbae", null ]
+    [ "HasFlag", "db/d36/a07959.html#a23315bfbd0748f82c948051697079c24", null ],
+    [ "IsModerator", "db/d36/a07959.html#af664dc84e5a60301c4fce6fda8971062", null ],
+    [ "IsMuted", "db/d36/a07959.html#a5d1e0f8e424033e34338940677ca054c", null ],
+    [ "IsOwner", "db/d36/a07959.html#a4687757cb7df9778f0f5eb67714c917c", null ],
+    [ "IsOwnerGM", "db/d36/a07959.html#ad4e1573168c91372dc4af2847d4ad454", null ],
+    [ "SetFlag", "db/d36/a07959.html#a9cb5a3ce70a2afcc553992f4a65b80e1", null ],
+    [ "SetModerator", "db/d36/a07959.html#a0a0cbaa77040171b7b50f89914946a8a", null ],
+    [ "SetMuted", "db/d36/a07959.html#adf989acef0b1e53a9dc2d3210db646b7", null ],
+    [ "SetOwner", "db/d36/a07959.html#aac6a9ea0bf478901e62c729ac6a3e9cd", null ],
+    [ "SetOwnerGM", "db/d36/a07959.html#a2e4be6dfb921ad07ebd0de3abb81f5e4", null ],
+    [ "_gmStatus", "db/d36/a07959.html#a15686cee4d1d0d8f39c13341bc9df624", null ],
+    [ "flags", "db/d36/a07959.html#ae9ed61476c5f13dddf4aa5e98fe8c5c4", null ],
+    [ "player", "db/d36/a07959.html#afba1915e2dd4109928180e33884b8412", null ],
+    [ "plrPtr", "db/d36/a07959.html#a5c986d75e173cc42160143ae7621ab6b", null ]
 ];

@@ -1,8 +1,6 @@
 var a04613 =
 [
-    [ "Acore::Impl::CryptoGenericsImpl", "d5/de0/a05541.html", "d5/de0/a05541" ],
-    [ "AEDecrypt", "d4/dd9/a04613.html#a1173a93d3f38af692d24411d34829de0", null ],
-    [ "AEDecrypt", "d4/dd9/a04613.html#aeb3d22d5d1d2ceeb4a752b7dccc143b0", null ],
-    [ "AEEncryptWithRandomIV", "d4/dd9/a04613.html#a0057c59e47839100792e392e2d73783a", null ],
-    [ "AEEncryptWithRandomIV", "d4/dd9/a04613.html#a42045f5644391c1c876f0ae1bc180f7c", null ]
+    [ "GetRandomBytes", "d4/dd9/a04613.html#ab09d7cc2f8e11fc5fe6b2323d57b7184", null ],
+    [ "GetRandomBytes", "d4/dd9/a04613.html#a797cfc74306f60b5c63eecb37a2061d3", null ],
+    [ "GetRandomBytes", "d4/dd9/a04613.html#a2ff283a7b883696205a91f122b194f6f", null ]
 ];

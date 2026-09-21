@@ -1,7 +1,9 @@
 var a14191 =
 [
-    [ "CheckCast", "da/d9e/a14191.html#a3fe12c32e49232c2ea80095e62b4f981", null ],
-    [ "HandleScriptEffect", "da/d9e/a14191.html#af265f0bba7028f45763a7f9afea2d051", null ],
-    [ "PrepareSpellScript", "da/d9e/a14191.html#a27518fd5482e65e0324100057e747d68", null ],
-    [ "Register", "da/d9e/a14191.html#a07789d7d092eb1b6633200442466c52b", null ]
+    [ "npc_marzon_silent_bladeAI", "da/d9e/a14191.html#a9f29c3b56e26421dabc2c95b8cd0407e", null ],
+    [ "EnterEvadeMode", "da/d9e/a14191.html#a0b42596550d045f5ca0096ceee80c0ac", null ],
+    [ "JustEngagedWith", "da/d9e/a14191.html#a116b3458f342811e378713e6a67f76a6", null ],
+    [ "MovementInform", "da/d9e/a14191.html#a32201d45f0c19212becb6319a48366f8", null ],
+    [ "Reset", "da/d9e/a14191.html#a51c2b16c767ce2922564dc9e4048e089", null ],
+    [ "UpdateAI", "da/d9e/a14191.html#aa6686399b41d32429d530dcc2ec41185", null ]
 ];

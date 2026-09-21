@@ -1,8 +1,8 @@
 var a21731 =
 [
-    [ "npc_shandy_dalaranAI", "dc/d7b/a21735.html", "dc/d7b/a21735" ],
-    [ "npc_shandy_dalaran", "d4/db8/a21731.html#a7077c769a252af8ba37b5ff5d524463e", null ],
-    [ "GetAI", "d4/db8/a21731.html#a641551a2aef739e1679912ae27ddb888", null ],
-    [ "OnGossipHello", "d4/db8/a21731.html#a91287aaba09fce091c9d826e75208f84", null ],
-    [ "OnGossipSelect", "d4/db8/a21731.html#ad005a17da187e0cfd03d2faf0099c448", null ]
+    [ "npc_mootoo_the_youngerAI", "d4/db8/a21731.html#a70a5a502dab9a90a790a90eabc5c3acd", null ],
+    [ "JustDied", "d4/db8/a21731.html#a766612f646a6d22d3f0e6f93298e34bc", null ],
+    [ "Reset", "d4/db8/a21731.html#a04624b9b4d552d6b27308edc3ad44644", null ],
+    [ "WaypointReached", "d4/db8/a21731.html#ac758a992ed0d62a272930c84d617b348", null ],
+    [ "WaypointReached", "d4/db8/a21731.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

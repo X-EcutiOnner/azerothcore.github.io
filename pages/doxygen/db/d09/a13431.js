@@ -1,6 +1,6 @@
 var a13431 =
 [
-    [ "HandleAfterCast", "db/d09/a13431.html#a5ca38a2828359e4f373323d1d6cc91cf", null ],
-    [ "PrepareSpellScript", "db/d09/a13431.html#aa0956db2d03405a54893bc30516f5839", null ],
-    [ "Register", "db/d09/a13431.html#a45726adacf1d30b5488df54f57447c0c", null ]
+    [ "npc_grandmother", "db/d09/a13431.html#a6cffe8c574859779f6561dde0aef9666", null ],
+    [ "OnGossipHello", "db/d09/a13431.html#ae39335d22b5fd1fc4c0f9d34e8977124", null ],
+    [ "OnGossipSelect", "db/d09/a13431.html#a0e2b684377ed593abfbb49b730cfe9b2", null ]
 ];

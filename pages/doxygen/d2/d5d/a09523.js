@@ -1,9 +1,6 @@
 var a09523 =
 [
-    [ "GridReference", "d2/d5d/a09523.html#a9c27f99f74cd0cc99b39f9a6ec614e83", null ],
-    [ "~GridReference", "d2/d5d/a09523.html#afd6a4f88eb066818afde1b752600bb12", null ],
-    [ "next", "d2/d5d/a09523.html#a792323f4b0f66b58d1f9dd0f65f26f0c", null ],
-    [ "sourceObjectDestroyLink", "d2/d5d/a09523.html#a96cb6e8287ceba4de31681bddb1e5838", null ],
-    [ "targetObjectBuildLink", "d2/d5d/a09523.html#a16dc6dc9a5a7bfcd5de9691ad469f5f8", null ],
-    [ "targetObjectDestroyLink", "d2/d5d/a09523.html#ac4c863d059b5c826e9597056dc7c887a", null ]
+    [ "lang_id", "d2/d5d/a09523.html#a1fa900a467834103ac595a8a96dd28c0", null ],
+    [ "skill_id", "d2/d5d/a09523.html#a37ffc91876a998fe354ca1b7dffc512a", null ],
+    [ "spell_id", "d2/d5d/a09523.html#ac0acb5dfb8af32b382b3b51db4daa0f0", null ]
 ];

@@ -1,6 +1,6 @@
 var a22147 =
 [
-    [ "npc_boneguard_footmanAI", "d8/de2/a22151.html", "d8/de2/a22151" ],
-    [ "npc_boneguard_footman", "d3/dba/a22147.html#aba17f89b9546deff5401ad33224b2b3e", null ],
-    [ "GetAI", "d3/dba/a22147.html#ab0b28f61e26f701db17a0d19bbde4492", null ]
+    [ "npc_attracted_reef_bullAI", "d3/dba/a22147.html#aa8917a912fb31a5987332e53e8d268e7", null ],
+    [ "MovementInform", "d3/dba/a22147.html#a79d9539243f178a2989f017c5f9ebc8c", null ],
+    [ "SpellHit", "d3/dba/a22147.html#ab06ee7ef84d881262ae682b69fae3135", null ]
 ];

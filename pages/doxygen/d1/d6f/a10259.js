@@ -1,7 +1,10 @@
 var a10259 =
 [
-    [ "operator<", "d1/d6f/a10259.html#adb62060523d8d5b11f16f3202a157f26", null ],
-    [ "respawnTime", "d1/d6f/a10259.html#aaed69c7c6f9f78ecb365e233f1ff6dab", null ],
-    [ "spawnId", "d1/d6f/a10259.html#a6faeab5132f3e539848ebe29cee5a5a4", null ],
-    [ "type", "d1/d6f/a10259.html#a1400b212e0889c54047225ba57e95c94", null ]
+    [ "DoublePosition", "db/d17/a10263.html", "db/d17/a10263" ],
+    [ "~AreaBoundary", "d1/d6f/a10259.html#a6050e91b3d485e75186a2df9a56e8d38", null ],
+    [ "AreaBoundary", "d1/d6f/a10259.html#adf670910c492c08d3384c2dd1824e7ce", null ],
+    [ "IsWithinBoundary", "d1/d6f/a10259.html#aac0ce1e801f3de8f3bb83b98ecd6e5c1", null ],
+    [ "IsWithinBoundary", "d1/d6f/a10259.html#a1d407f77ce0388263fc0ee6224734213", null ],
+    [ "IsWithinBoundaryArea", "d1/d6f/a10259.html#ae5580b0044dba24d100831fe51ee1abc", null ],
+    [ "_isInvertedBoundary", "d1/d6f/a10259.html#ad416f29594688ce670549d6fdcce4314", null ]
 ];

@@ -1,7 +1,7 @@
 var a21215 =
 [
-    [ "npc_frost_tomb", "d5/d6a/a21215.html#a9c7abe1dc25b807d34f1ed818ab639ef", null ],
-    [ "JustDied", "d5/d6a/a21215.html#a40a14647eaf9f2c5bd11c094f0aadb79", null ],
-    [ "UpdateAI", "d5/d6a/a21215.html#af2122e9c8cb206151f631659c7d167da", null ],
-    [ "PrisonerGUID", "d5/d6a/a21215.html#a456fcd5dd3f504954a74fc068f253dc2", null ]
+    [ "OnApply", "d5/d6a/a21215.html#a458871e0d2c1969a91ce9474b3ad87d0", null ],
+    [ "PrepareAuraScript", "d5/d6a/a21215.html#a3a6b71d35bfcf681c98bb3bb4331e91c", null ],
+    [ "Register", "d5/d6a/a21215.html#a4d6bb68d17bbc1b10d828b1d70155f65", null ],
+    [ "Validate", "d5/d6a/a21215.html#a1ffe527d33de10a7dc8431311f4d738e", null ]
 ];

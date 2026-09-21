@@ -1,8 +1,9 @@
 var a23407 =
 [
-    [ "FilterTargets", "dd/d71/a23407.html#a8687ba9c22299e62e5911a3729fa4a0a", null ],
-    [ "HandleDummy", "dd/d71/a23407.html#addb3580259be74126b7de36d1b0a8a97", null ],
-    [ "PrepareSpellScript", "dd/d71/a23407.html#aba82de0886d03037de4564f9908b8c89", null ],
-    [ "Register", "dd/d71/a23407.html#a1650962493d48f5553a9e2771e594f1f", null ],
-    [ "Validate", "dd/d71/a23407.html#a0a29926e43bd5ff58ca7ad79df6f8cc1", null ]
+    [ "boss_morogrim_tidewalker", "dd/d71/a23407.html#a138a200da298f64697e2e47fb8004ccb", null ],
+    [ "JustDied", "dd/d71/a23407.html#a139d87e7cffe03183538eb493e063195", null ],
+    [ "JustEngagedWith", "dd/d71/a23407.html#a3244672aeb994673e1f46708699bcc2c", null ],
+    [ "JustSummoned", "dd/d71/a23407.html#a2b669007520094948138c95468b77f9f", null ],
+    [ "KilledUnit", "dd/d71/a23407.html#a2db94919e6d6f3d4eda4addc4248976e", null ],
+    [ "Reset", "dd/d71/a23407.html#a78ed1d1f8c55407497a4fb679587975d", null ]
 ];

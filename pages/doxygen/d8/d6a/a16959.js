@@ -1,8 +1,7 @@
 var a16959 =
 [
-    [ "npc_toc_boomkinAI", "d8/d6a/a16959.html#a12c586d57aa6dd3893889f103dbfee20", null ],
-    [ "JustSummoned", "d8/d6a/a16959.html#a0d049885773b7f1abd7e03f9200852f4", null ],
-    [ "myCanCast", "d8/d6a/a16959.html#a691a0250db77cc4def2bf67b25a1298c", null ],
-    [ "UpdateAI", "d8/d6a/a16959.html#a64b0451537c0d27bc01d1c1ec3b5b88d", null ],
-    [ "events", "d8/d6a/a16959.html#a0b367855092884b2ce30834e89fced87", null ]
+    [ "HandleEffectPeriodic", "d8/d6a/a16959.html#a58336f6a693d91b4fcb151b7eb5c1201", null ],
+    [ "PrepareAuraScript", "d8/d6a/a16959.html#a6dffb84e2c65f030e24a86e23f42c7e3", null ],
+    [ "Register", "d8/d6a/a16959.html#ad3485b1ab83d4a49713dfd3335b672fd", null ],
+    [ "Validate", "d8/d6a/a16959.html#a5f3c8e5ddcdcefc4e335e604416890d5", null ]
 ];

@@ -1,8 +1,6 @@
 var a26079 =
 [
-    [ "HandleDummy", "d6/d14/a26079.html#ac6db67f521a8fd1e8de4cd22220b45fe", null ],
-    [ "Load", "d6/d14/a26079.html#af767de9953372e5e56509a0be9e90958", null ],
-    [ "PrepareSpellScript", "d6/d14/a26079.html#a0385a22f908ac62ab987fe9f84cad330", null ],
-    [ "Register", "d6/d14/a26079.html#a1212726a4fcbac06b527648dff58c546", null ],
-    [ "Validate", "d6/d14/a26079.html#ab014db76cf4656e10665f12fb18c5997", null ]
+    [ "HandleOnEffectHit", "d6/d14/a26079.html#a07157e7255d52acf6eb5d5e5c17e2190", null ],
+    [ "PrepareSpellScript", "d6/d14/a26079.html#a0b2fd34dda3b23b574f6a5a0c4435006", null ],
+    [ "Register", "d6/d14/a26079.html#a59c6a1618faa5a44e1c37337b39a3cba", null ]
 ];

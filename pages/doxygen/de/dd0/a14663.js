@@ -1,6 +1,20 @@
 var a14663 =
 [
-    [ "boss_wushoolayAI", "de/dd0/a14663.html#a2ea62154c0932e5cd34bd4b858829ffe", null ],
-    [ "JustEngagedWith", "de/dd0/a14663.html#af519da543fff63a39a6fbe48f90f2f22", null ],
-    [ "UpdateAI", "de/dd0/a14663.html#acfaacee2a97212eb15056c1552b9e06b", null ]
+    [ "boss_mandokirAI", "de/dd0/a14663.html#a4ba4ac7fabd3e74dc10a00a3188252e9", null ],
+    [ "CalculateThreat", "de/dd0/a14663.html#ad86e2b4c9078bc1b11b304f05679ca94", null ],
+    [ "DamageDealt", "de/dd0/a14663.html#a0dca07b45b3293a0f19401b299fbfb9c", null ],
+    [ "DoAction", "de/dd0/a14663.html#a7358c7abb58a6c9ec200d06246d00d41", null ],
+    [ "DoMeleeAttackIfReady", "de/dd0/a14663.html#acf13e5898f110ad98a1aa745d3b998d7", null ],
+    [ "JustDied", "de/dd0/a14663.html#a6bbc3ae1131f9becba0a35ea2e3a57dd", null ],
+    [ "JustEngagedWith", "de/dd0/a14663.html#aa7ea6260e403a92ba415b82b4dd71026", null ],
+    [ "KilledUnit", "de/dd0/a14663.html#a6230dc14db38d43fb060f028cfde9d32", null ],
+    [ "MovementInform", "de/dd0/a14663.html#a909f7fffc7e38cc6b0bba4edd45cb348", null ],
+    [ "OnTeleportUnreacheablePlayer", "de/dd0/a14663.html#a875c046b8a2f4a01bded282143c6d1d0", null ],
+    [ "Reset", "de/dd0/a14663.html#a2b2267e3d7be6d16ffab031d2cb4a1a6", null ],
+    [ "SetGUID", "de/dd0/a14663.html#ad496b4bd7e97988b44357ac91ac3701c", null ],
+    [ "UpdateAI", "de/dd0/a14663.html#a1037b770bb46400aef0ec034f86468fc", null ],
+    [ "_chargeTarget", "de/dd0/a14663.html#a5040c31467e9d3c6edc30b9133ec6873", null ],
+    [ "_useExecute", "de/dd0/a14663.html#a305f064869874d8620d794a7d26f6358", null ],
+    [ "killCount", "de/dd0/a14663.html#a280e27385988e0f5cc65c60511bd4100", null ],
+    [ "reviveGUID", "de/dd0/a14663.html#a7f955c8399167d3f3aa974596f398c13", null ]
 ];

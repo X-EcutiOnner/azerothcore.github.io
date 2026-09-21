@@ -1,8 +1,8 @@
 var a22451 =
 [
-    [ "npc_wg_queueAI", "d4/dbf/a22455.html", "d4/dbf/a22455" ],
-    [ "npc_wg_queue", "df/df8/a22451.html#a2cc9825e08e982ef195f117a4512c4ae", null ],
-    [ "GetAI", "df/df8/a22451.html#ad2d7746a32b520d37ea826b03627de4e", null ],
-    [ "OnGossipHello", "df/df8/a22451.html#a20fc6ae4e4377f237a620b7f5b1de8ee", null ],
-    [ "OnGossipSelect", "df/df8/a22451.html#afb707da5d85affc65f7ab5a0fc018c93", null ]
+    [ "npc_hyldsmeet_protodrake", "df/df8/a22451.html#a409a5f5eace583ef874421819c975ed8", null ],
+    [ "PassengerBoarded", "df/df8/a22451.html#a0067d3b394c967946e329ea25c2dc315", null ],
+    [ "UpdateAI", "df/df8/a22451.html#a49ce0b6b324b968b1b2902c1db037a53", null ],
+    [ "_accessoryInstalled", "df/df8/a22451.html#af9a5984f66eb3a1a26e8c1640bcf7597", null ],
+    [ "_accessoryRespawnTimer", "df/df8/a22451.html#a724645a3d05ba26d99a8bc1668d1dc3a", null ]
 ];

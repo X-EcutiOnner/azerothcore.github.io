@@ -1,8 +1,5 @@
 var a10231 =
 [
-    [ "BoundaryIntersectBoundary", "d1/db9/a10231.html#ad92d938418434a1cb6a0eb68c88d281c", null ],
-    [ "~BoundaryIntersectBoundary", "d1/db9/a10231.html#ad8bbf96e48d18ef87ac31dea8bcb023b", null ],
-    [ "IsWithinBoundaryArea", "d1/db9/a10231.html#a09c8440d1ddb8264bff4065910b7e0a5", null ],
-    [ "_b1", "d1/db9/a10231.html#ab0239437fa92e39d144bf3856eb347c7", null ],
-    [ "_b2", "d1/db9/a10231.html#a41e100c17db99990981293399660824c", null ]
+    [ "item_guid", "d1/db9/a10231.html#a4033ef7b03b28881e28434ae796fb6ed", null ],
+    [ "item_template", "d1/db9/a10231.html#ac7e05ac4dcc5d4f94b3291d819c7c86b", null ]
 ];

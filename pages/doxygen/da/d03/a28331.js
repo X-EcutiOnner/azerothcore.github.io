@@ -1,5 +1,6 @@
 var a28331 =
 [
-    [ "go_sacred_fire_of_life", "da/d03/a28331.html#a7f14c8397803f8b21e492ec52c6d81e8", null ],
-    [ "OnGossipHello", "da/d03/a28331.html#aaa078fffe5570fa532d27d1c4ea831a7", null ]
+    [ "go_tadpole_cageAI", "d6/dec/a28335.html", "d6/dec/a28335" ],
+    [ "go_tadpole_cage", "da/d03/a28331.html#a1a9acacd0ebff33d402018d4205e415b", null ],
+    [ "GetAI", "da/d03/a28331.html#a38990dc5edd725623b6c35dba7802612", null ]
 ];

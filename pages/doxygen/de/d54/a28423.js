@@ -1,10 +1,5 @@
 var a28423 =
 [
-    [ "guard_shattrath_aldorAI", "de/d54/a28423.html#a88961dfe4100dfe207af693a1eed86ad", null ],
-    [ "Reset", "de/d54/a28423.html#aef38e83e90c322bbef18b78e6339ef2e", null ],
-    [ "UpdateAI", "de/d54/a28423.html#ac87ee12d4487971b68c70f06f63eb410", null ],
-    [ "banishTimer", "de/d54/a28423.html#a8b6e4c2acb09c65f2dbebbd21df4f29e", null ],
-    [ "canTeleport", "de/d54/a28423.html#af4d933b56431d2f2755d87fb05922458", null ],
-    [ "exileTimer", "de/d54/a28423.html#a8d56205206f3e14184922f96873456ad", null ],
-    [ "playerGUID", "de/d54/a28423.html#a16fe41ae30d54abaf12f68672b93dc32", null ]
+    [ "go_southfury_moonstone", "de/d54/a28423.html#aed27e57e8232e156177c293ad0c0b4bb", null ],
+    [ "OnGossipHello", "de/d54/a28423.html#a9d9708da940c1ee37f9eb4558ed97737", null ]
 ];

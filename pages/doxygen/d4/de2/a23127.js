@@ -1,6 +1,12 @@
 var a23127 =
 [
-    [ "HandleScriptEffect", "d4/de2/a23127.html#a0810dd4ad4d324c1a53e192fc99d1d35", null ],
-    [ "PrepareSpellScript", "d4/de2/a23127.html#a0ece61d7bed3e19ee6f6175a55c0733d", null ],
-    [ "Register", "d4/de2/a23127.html#a827cefe322562f0e8ea7cfa58b9a776b", null ]
+    [ "boss_shade_of_akama", "d4/de2/a23127.html#a385bf995d19652254d6ae8a447c23c37", null ],
+    [ "EnterEvadeMode", "d4/de2/a23127.html#a690f8058fb4358b98960177d76864275", null ],
+    [ "JustDied", "d4/de2/a23127.html#aa22052befeb48c0c7ec3a3cedd91daff", null ],
+    [ "MovementInform", "d4/de2/a23127.html#a345707efebd5027c01a25a563d1e6f43", null ],
+    [ "Reset", "d4/de2/a23127.html#a19a1aca1a599704612ac845001895b4f", null ],
+    [ "SpellHit", "d4/de2/a23127.html#a5a49f0dab7ce6ee81b9ed8deb5704720", null ],
+    [ "UpdateAI", "d4/de2/a23127.html#a25ffed5526b1f25eb1cf790745e2a7c7", null ],
+    [ "channelers", "d4/de2/a23127.html#a258bbeecb517a04ab8e3bac2a753a5bd", null ],
+    [ "generators", "d4/de2/a23127.html#a94a1010bce54768ee2dca72d4f6eec34", null ]
 ];

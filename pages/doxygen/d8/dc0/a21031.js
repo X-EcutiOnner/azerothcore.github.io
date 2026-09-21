@@ -1,11 +1,8 @@
 var a21031 =
 [
-    [ "boss_yoggsaron_llane", "d8/dc0/a21031.html#a42e3d189cff0da5995401e4bc8dfffdd", null ],
-    [ "NextStep", "d8/dc0/a21031.html#ab8b6446fe7d424ad7d943af915cc4b8a", null ],
-    [ "Reset", "d8/dc0/a21031.html#a0df3a85717ab26ad1ac889d6fe4d8007", null ],
-    [ "Say", "d8/dc0/a21031.html#a0ae3106eac830ed9f14f17e5fa1d45ec", null ],
-    [ "UpdateAI", "d8/dc0/a21031.html#a58ec957cd59b944439fe514e728e2902", null ],
-    [ "_checkTimer", "d8/dc0/a21031.html#a3043382e2727bc78a74acaec28697045", null ],
-    [ "_running", "d8/dc0/a21031.html#ab7e1b1ed82f311b12f28f1622e6ad378", null ],
-    [ "_step", "d8/dc0/a21031.html#a91a71f85bab9e4d1234964ef534e51c2", null ]
+    [ "CheckProc", "d8/dc0/a21031.html#a2bbcd3aca15eb271759c2a64276bb9d3", null ],
+    [ "HandleProc", "d8/dc0/a21031.html#a6761dd910808090d78c9b9ad88ba7bda", null ],
+    [ "PrepareAuraScript", "d8/dc0/a21031.html#ab9f98c6a93f31b2c76ca75c8fe7c2c60", null ],
+    [ "Register", "d8/dc0/a21031.html#a430a5c4d0e3f77d4d966a4bf8f629e1e", null ],
+    [ "Validate", "d8/dc0/a21031.html#a683a37c787ae5797d8c68aca1af0742a", null ]
 ];

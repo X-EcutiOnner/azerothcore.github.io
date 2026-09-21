@@ -1,7 +1,6 @@
 var a27823 =
 [
-    [ "HandleProc", "da/d2e/a27823.html#a2a1d6c4a6fdcfbb0ab34769649dbe321", null ],
-    [ "PrepareAuraScript", "da/d2e/a27823.html#afa1f4cba7a02cb4a92a67c6e41d3349c", null ],
-    [ "Register", "da/d2e/a27823.html#ae3711d9dff0acd196b1fae8e2285fb2a", null ],
-    [ "Validate", "da/d2e/a27823.html#a77b31ab1d2952c5d77e8a1ca9cf18405", null ]
+    [ "HandleAuraApply", "da/d2e/a27823.html#a0c17d42095cac3d4cf304df1fc83acbf", null ],
+    [ "PrepareAuraScript", "da/d2e/a27823.html#a6eedadacba366104fdca2791862be216", null ],
+    [ "Register", "da/d2e/a27823.html#a5869dc6372d479d85da1118d0c9ec8e6", null ]
 ];

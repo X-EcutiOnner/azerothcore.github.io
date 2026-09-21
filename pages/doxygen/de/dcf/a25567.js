@@ -1,8 +1,6 @@
 var a25567 =
 [
-    [ "OnApply", "de/dcf/a25567.html#acf25199409ab6f991db15a784749aaf1", null ],
-    [ "OnRemove", "de/dcf/a25567.html#a700513c27a2ae22581bbc61c8c4b523a", null ],
-    [ "PrepareAuraScript", "de/dcf/a25567.html#ae6f93ab542d8f05a95745d7b10d1856a", null ],
-    [ "Register", "de/dcf/a25567.html#a9332cb72f66e83f648b4ed02c8c074eb", null ],
-    [ "Validate", "de/dcf/a25567.html#a09017d12ecf0ae0c3091cea17640782c", null ]
+    [ "HandleCast", "de/dcf/a25567.html#ac6f7b9650d0a55834dafb09555692243", null ],
+    [ "PrepareSpellScript", "de/dcf/a25567.html#ab3dc21aa63f0fb9202233603106eef87", null ],
+    [ "Register", "de/dcf/a25567.html#ad6c2dc91d0973c0b8d57151dff3d9499", null ]
 ];

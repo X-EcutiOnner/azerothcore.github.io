@@ -1,7 +1,6 @@
 var a18299 =
 [
-    [ "HandleScript", "de/d22/a18299.html#afc76149cb44a4d2aab48350fb4392036", null ],
-    [ "PrepareSpellScript", "de/d22/a18299.html#a8598de219c2402596fe97b5dd32c534e", null ],
-    [ "Register", "de/d22/a18299.html#ac9d4842632431e52932f66d09042ea70", null ],
-    [ "ScaleRange", "de/d22/a18299.html#a9bcc80bd2a8df20ac7fc8f2256f519d9", null ]
+    [ "npc_coldflameAI", "dd/dba/a18303.html", "dd/dba/a18303" ],
+    [ "npc_coldflame", "de/d22/a18299.html#a573b887358e2ba2281c4c119a267c33f", null ],
+    [ "GetAI", "de/d22/a18299.html#ac33d0528cdc3c3a0fb7acc4d46b1c2b1", null ]
 ];

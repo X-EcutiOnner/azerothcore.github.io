@@ -1,9 +1,7 @@
 var a06371 =
 [
-    [ "itemId", "d2/d3d/a06371.html#adc6041f4426ca3d377644b18a0ba22f9", null ],
-    [ "mailTemplate", "d2/d3d/a06371.html#adc59ba563519ed9e673b734c4e40e7b8", null ],
-    [ "sender", "d2/d3d/a06371.html#a9a4e0b2063f2c03f8783681cca41b5d7", null ],
-    [ "subject", "d2/d3d/a06371.html#a45644f308278529f822080f8274180d8", null ],
-    [ "text", "d2/d3d/a06371.html#a4d57dcb4d130552f5bf756308d79307c", null ],
-    [ "titleId", "d2/d3d/a06371.html#a94440f7e5c023d929e0e7f7d821bb309", null ]
+    [ "arg1", "d2/d3d/a06371.html#aa2018e5823bcf013847605847231e3c2", null ],
+    [ "arg2", "d2/d3d/a06371.html#a4c8721b050e72556a901be1a4a49c2b6", null ],
+    [ "arg3", "d2/d3d/a06371.html#acadf2c3d1d60f8f49fde62b9172980e5", null ],
+    [ "updateType", "d2/d3d/a06371.html#a84cace2469c54d57b33abe5ca93588ca", null ]
 ];

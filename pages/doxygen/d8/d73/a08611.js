@@ -1,6 +1,10 @@
 var a08611 =
 [
-    [ "DamageMax", "d8/d73/a08611.html#afc0bd7960848f6434c182a3fadc1e256", null ],
-    [ "DamageMin", "d8/d73/a08611.html#acbab962cbc25ad032c97216feac281bb", null ],
-    [ "DamageType", "d8/d73/a08611.html#aecdcc73f2cb30ef5cc149607e01bbe34", null ]
+    [ "IsCastable", "d8/d73/a08611.html#a677b21866e24d2c94de28d96db07aafd", null ],
+    [ "MoneyCost", "d8/d73/a08611.html#af20caa962ba1f5edb376b78b6b35b119", null ],
+    [ "ReqAbility", "d8/d73/a08611.html#a101686190208be6fb46a46768ca779f9", null ],
+    [ "ReqLevel", "d8/d73/a08611.html#a45e87439b1ae356ccb9ff381f58f942e", null ],
+    [ "ReqSkillLine", "d8/d73/a08611.html#a008ff0df36f2e19534a5fda97616f14f", null ],
+    [ "ReqSkillRank", "d8/d73/a08611.html#aa151d559cb276797a39dd203fd1b24c2", null ],
+    [ "SpellId", "d8/d73/a08611.html#ac289744925387c199fde756867bbfc57", null ]
 ];

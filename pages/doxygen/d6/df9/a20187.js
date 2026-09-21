@@ -1,5 +1,8 @@
 var a20187 =
 [
-    [ "achievement_cant_do_that_while_stunned", "d6/df9/a20187.html#a4d474b36f61631688ea723d2e4033574", null ],
-    [ "OnCheck", "d6/df9/a20187.html#a0b108bdcab0bc412975e61247f226bf8", null ]
+    [ "go_celestial_planetarium_accessAI", "d6/df9/a20187.html#aca4d0e9babd6eefe84edc281f8a44cf2", null ],
+    [ "GossipHello", "d6/df9/a20187.html#af159df46fecf2cd74ac4ec9fa006dc03", null ],
+    [ "UpdateAI", "d6/df9/a20187.html#a9b2bfb74a12e3258476387fc78cde574", null ],
+    [ "_locked", "d6/df9/a20187.html#a37f83dbbb05e461d613a4c38001f785c", null ],
+    [ "events", "d6/df9/a20187.html#aa03b8d270054f2b71c1d625abe322fb8", null ]
 ];

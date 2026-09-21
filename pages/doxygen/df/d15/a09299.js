@@ -1,6 +1,6 @@
 var a09299 =
 [
-    [ "EmoteDelay", "df/d15/a09299.html#a053adbedc95026b192360e13d32c9401", null ],
-    [ "EmoteType", "df/d15/a09299.html#aa5189cb250b3f46086ecd69dee23414b", null ],
-    [ "Greeting", "df/d15/a09299.html#a84aa5fced9b8989487d1468c4eccb976", null ]
+    [ "Condition", "df/d15/a09299.html#a78172859719e85a21c0a39e41c692cf4", null ],
+    [ "EventId", "df/d15/a09299.html#aa5d7e88828c9f44b5913d4593496894f", null ],
+    [ "Num", "df/d15/a09299.html#a7cf6141e00b1a33063409c9828773b94", null ]
 ];

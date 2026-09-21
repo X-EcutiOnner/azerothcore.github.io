@@ -1,6 +1,7 @@
 var a22263 =
 [
-    [ "npc_bushwhackerAI", "d4/d47/a22267.html", "d4/d47/a22267" ],
-    [ "npc_bushwhacker", "d9/d7f/a22263.html#ad87a9fdec3d5dbaef429c88905a5f6e8", null ],
-    [ "GetAI", "d9/d7f/a22263.html#ab3190b66069e820abf3637bb877066a0", null ]
+    [ "HandleDummy", "d9/d7f/a22263.html#abfb58e49821e6a563940e8ba518db850", null ],
+    [ "PrepareSpellScript", "d9/d7f/a22263.html#a61ca2f71b0fa323a54f716415b25b75e", null ],
+    [ "Register", "d9/d7f/a22263.html#a7a2cc833ae8d079b821caabf55b6f0e5", null ],
+    [ "Validate", "d9/d7f/a22263.html#a21daeadffbfd28621d897dfe67dd11a8", null ]
 ];

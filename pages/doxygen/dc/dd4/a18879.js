@@ -1,7 +1,6 @@
 var a18879 =
 [
-    [ "AuraRemoveEvent", "dc/dd4/a18879.html#a094b9437c7cadb465738daf5684c9725", null ],
-    [ "Execute", "dc/dd4/a18879.html#a14ac906a0fcff86f61983c570b0bd6ad", null ],
-    [ "_spellId", "dc/dd4/a18879.html#a6fad41839e07e9545859be7c3afcfc36", null ],
-    [ "_trigger", "dc/dd4/a18879.html#aad8c27befc102dae6823d5d74fed50b4", null ]
+    [ "npc_terenas_menethilAI", "dc/d2b/a18883.html", "dc/d2b/a18883" ],
+    [ "npc_terenas_menethil", "dc/dd4/a18879.html#a6b6850598c582e3d44c13275302fd32d", null ],
+    [ "GetAI", "dc/dd4/a18879.html#ad5f29af90c3f40ce0dad019b5ec05cf2", null ]
 ];

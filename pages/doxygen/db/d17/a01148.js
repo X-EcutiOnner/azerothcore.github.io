@@ -1,6 +1,6 @@
 var a01148 =
 [
-    [ "EncryptableAndCompressiblePacket", "d6/d47/a11849.html", "d6/d47/a11849" ],
-    [ "ClientPktHeader", "d1/ddd/a11853.html", "d1/ddd/a11853" ],
-    [ "WorldSocket", "d6/d5d/a11857.html", "d6/d5d/a11857" ]
+    [ "AccountPlayHistory", "d3/d98/a11851.html", "d3/d98/a11851" ],
+    [ "WorldSessionMgr", "d4/da0/a11855.html", "d4/da0/a11855" ],
+    [ "sWorldSessionMgr", "db/d17/a01148.html#a57dd9797e2282d27210248275f47ab85", null ]
 ];

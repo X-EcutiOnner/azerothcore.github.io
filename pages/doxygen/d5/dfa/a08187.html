@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Acore::Hyperlinks::LinkTags::base_tag Struct Reference</title>
+<title>AzerothCore: LinkValidator&lt; LinkTags::item &gt; Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -107,28 +107,21 @@ $(document).ready(function(){initNavTree('d5/dfa/a08187.html','../../'); initRes
   <div class="summary">
 <a href="#pub-static-methods">Static Public Member Functions</a> &#124;
 <a href="../../d1/d16/a08184.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">Acore::Hyperlinks::LinkTags::base_tag Struct Reference</div></div>
+  <div class="headertitle"><div class="title">LinkValidator&lt; LinkTags::item &gt; Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
-
-<p><code>#include &quot;<a class="el" href="../../">Hyperlinks.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
 Static Public Member Functions</h2></td></tr>
-<tr class="memitem:a071922c9c431637de3cb2d6b52def7bd"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dfa/a08187.html#a071922c9c431637de3cb2d6b52def7bd">StoreTo</a> (std::string_view &amp;val, std::string_view data)</td></tr>
-<tr class="separator:a071922c9c431637de3cb2d6b52def7bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3d9382dd50447477f9f04bc0f055e55c"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dfa/a08187.html#a3d9382dd50447477f9f04bc0f055e55c">StoreTo</a> (std::string &amp;val, std::string_view data)</td></tr>
-<tr class="separator:a3d9382dd50447477f9f04bc0f055e55c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a45556cc3ac64a6692ef08d6d93d48a4d"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
-<tr class="memitem:a45556cc3ac64a6692ef08d6d93d48a4d"><td class="memTemplItemLeft" align="right" valign="top">static std::enable_if_t&lt; std::is_integral_v&lt; T &gt;, bool &gt;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d5/dfa/a08187.html#a45556cc3ac64a6692ef08d6d93d48a4d">StoreTo</a> (T &amp;val, std::string_view data)</td></tr>
-<tr class="separator:a45556cc3ac64a6692ef08d6d93d48a4d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1f368b832f95ce4acc6ed47ad4ca2e8d"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dfa/a08187.html#a1f368b832f95ce4acc6ed47ad4ca2e8d">StoreTo</a> (<a class="el" href="../../d1/d28/a08831.html">ObjectGuid</a> &amp;val, std::string_view data)</td></tr>
-<tr class="separator:a1f368b832f95ce4acc6ed47ad4ca2e8d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aeaa47302a91b5882afae3950ffc460cc"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dfa/a08187.html#aeaa47302a91b5882afae3950ffc460cc">IsTextValid</a> (<a class="el" href="../../d6/da8/a08227.html">ItemLinkData</a> const &amp;data, std::string_view text)</td></tr>
+<tr class="separator:aeaa47302a91b5882afae3950ffc460cc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a537a2beaa8321095d2d67b8fb655acea"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dfa/a08187.html#a537a2beaa8321095d2d67b8fb655acea">IsColorValid</a> (<a class="el" href="../../d6/da8/a08227.html">ItemLinkData</a> const &amp;data, <a class="el" href="../../da/dd1/a08287.html">HyperlinkColor</a> c)</td></tr>
+<tr class="separator:a537a2beaa8321095d2d67b8fb655acea"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="a1f368b832f95ce4acc6ed47ad4ca2e8d" name="a1f368b832f95ce4acc6ed47ad4ca2e8d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1f368b832f95ce4acc6ed47ad4ca2e8d">&#9670;&#160;</a></span>StoreTo() <span class="overload">[1/4]</span></h2>
+<a id="a537a2beaa8321095d2d67b8fb655acea" name="a537a2beaa8321095d2d67b8fb655acea"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a537a2beaa8321095d2d67b8fb655acea">&#9670;&#160;</a></span>IsColorValid()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -137,16 +130,16 @@ Static Public Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static bool Acore::Hyperlinks::LinkTags::base_tag::StoreTo </td>
+          <td class="memname">static bool <a class="el" href="../../dc/dcc/a08179.html">LinkValidator</a>&lt; <a class="el" href="../../dc/d79/a08267.html">LinkTags::item</a> &gt;::IsColorValid </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d1/d28/a08831.html">ObjectGuid</a> &amp;&#160;</td>
-          <td class="paramname"><em>val</em>, </td>
+          <td class="paramtype"><a class="el" href="../../d6/da8/a08227.html">ItemLinkData</a> const &amp;&#160;</td>
+          <td class="paramname"><em>data</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">std::string_view&#160;</td>
-          <td class="paramname"><em>data</em>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../da/dd1/a08287.html">HyperlinkColor</a>&#160;</td>
+          <td class="paramname"><em>c</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -160,24 +153,17 @@ Static Public Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  132</span>            {</div>
-<div class="line"><span class="lineno">  133</span>                <span class="keywordflow">if</span> (<a class="code hl_typedef" href="../../db/d7b/a00296.html#aaf8f4d77efd311ec7818ab421294ef82">Optional&lt;uint64&gt;</a> res = Acore::StringTo&lt;uint64&gt;(data, 16))</div>
-<div class="line"><span class="lineno">  134</span>                {</div>
-<div class="line"><span class="lineno">  135</span>                    val.<a class="code hl_function" href="../../d1/d28/a08831.html#adfd90f25996d5e85a14e25f1af152c94">Set</a>(*res);</div>
-<div class="line"><span class="lineno">  136</span>                    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  137</span>                }</div>
-<div class="line"><span class="lineno">  138</span>                <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  139</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  140</span>            }</div>
-<div class="ttc" id="aa00296_html_aaf8f4d77efd311ec7818ab421294ef82"><div class="ttname"><a href="../../db/d7b/a00296.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a></div><div class="ttdeci">std::optional&lt; T &gt; Optional</div><div class="ttdoc">Optional helper class to wrap optional values within.</div><div class="ttdef"><b>Definition:</b> Optional.h:24</div></div>
-<div class="ttc" id="aa08831_html_adfd90f25996d5e85a14e25f1af152c94"><div class="ttname"><a href="../../d1/d28/a08831.html#adfd90f25996d5e85a14e25f1af152c94">ObjectGuid::Set</a></div><div class="ttdeci">void Set(uint64 guid)</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:140</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  187</span>    {</div>
+<div class="line"><span class="lineno">  188</span>        <span class="keywordflow">return</span> c == <a class="code hl_variable" href="../../d7/d3f/a00173.html#a683db3fe009c60f8cedefbea5f00f58f">ItemQualityColors</a>[data.Item-&gt;Quality];</div>
+<div class="line"><span class="lineno">  189</span>    }</div>
+<div class="ttc" id="aa00173_html_a683db3fe009c60f8cedefbea5f00f58f"><div class="ttname"><a href="../../d7/d3f/a00173.html#a683db3fe009c60f8cedefbea5f00f58f">ItemQualityColors</a></div><div class="ttdeci">const uint32 ItemQualityColors[MAX_ITEM_QUALITY]</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:341</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00140">ObjectGuid::Set()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00058">Acore::Hyperlinks::ItemLinkData::Item</a>, <a class="el" href="../../#l00341">ItemQualityColors</a>, and <a class="el" href="../../#l00626">ItemTemplate::Quality</a>.</p>
 
 </div>
 </div>
-<a id="a3d9382dd50447477f9f04bc0f055e55c" name="a3d9382dd50447477f9f04bc0f055e55c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3d9382dd50447477f9f04bc0f055e55c">&#9670;&#160;</a></span>StoreTo() <span class="overload">[2/4]</span></h2>
+<a id="aeaa47302a91b5882afae3950ffc460cc" name="aeaa47302a91b5882afae3950ffc460cc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aeaa47302a91b5882afae3950ffc460cc">&#9670;&#160;</a></span>IsTextValid()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -186,16 +172,16 @@ Static Public Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static bool Acore::Hyperlinks::LinkTags::base_tag::StoreTo </td>
+          <td class="memname">static bool <a class="el" href="../../dc/dcc/a08179.html">LinkValidator</a>&lt; <a class="el" href="../../dc/d79/a08267.html">LinkTags::item</a> &gt;::IsTextValid </td>
           <td>(</td>
-          <td class="paramtype">std::string &amp;&#160;</td>
-          <td class="paramname"><em>val</em>, </td>
+          <td class="paramtype"><a class="el" href="../../d6/da8/a08227.html">ItemLinkData</a> const &amp;&#160;</td>
+          <td class="paramname"><em>data</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">std::string_view&#160;</td>
-          <td class="paramname"><em>data</em>&#160;</td>
+          <td class="paramname"><em>text</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -209,100 +195,53 @@ Static Public Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  114</span>            {</div>
-<div class="line"><span class="lineno">  115</span>                val.assign(data);</div>
-<div class="line"><span class="lineno">  116</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  117</span>            }</div>
+<div class="fragment"><div class="line"><span class="lineno">  148</span>    {</div>
+<div class="line"><span class="lineno">  149</span>        <a class="code hl_struct" href="../../d1/d28/a08831.html">ItemLocale</a> <span class="keyword">const</span>* locale = <a class="code hl_define" href="../../d4/d41/a01661.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetItemLocale(data.Item-&gt;ItemId);</div>
+<div class="line"><span class="lineno">  150</span> </div>
+<div class="line"><span class="lineno">  151</span>        std::array&lt;char const*, 16&gt; <span class="keyword">const</span>* randomSuffixes = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  152</span> </div>
+<div class="line"><span class="lineno">  153</span>        <span class="keywordflow">if</span> (data.RandomProperty)</div>
+<div class="line"><span class="lineno">  154</span>            randomSuffixes = &amp;data.RandomProperty-&gt;Name;</div>
+<div class="line"><span class="lineno">  155</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (data.RandomSuffix)</div>
+<div class="line"><span class="lineno">  156</span>            randomSuffixes = &amp;data.RandomSuffix-&gt;Name;</div>
+<div class="line"><span class="lineno">  157</span> </div>
+<div class="line"><span class="lineno">  158</span>        <span class="keywordflow">if</span> (data.IsBuggedInspectLink) <span class="comment">/* DBC lookup will have failed on the client, so the link should&#39;ve arrived without suffix */</span></div>
+<div class="line"><span class="lineno">  159</span>            randomSuffixes = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  160</span> </div>
+<div class="line"><span class="lineno">  161</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../de/d69/a04679.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; <a class="code hl_enumvalue" href="../../dc/d96/a05060.html#a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8">TOTAL_LOCALES</a>; ++i)</div>
+<div class="line"><span class="lineno">  162</span>        {</div>
+<div class="line"><span class="lineno">  163</span>            <span class="keywordflow">if</span> (!locale &amp;&amp; i != <a class="code hl_define" href="../../dc/d96/a05060.html#a900ed91bceba26c1e05048bd3a9ec4fd">DEFAULT_LOCALE</a>)</div>
+<div class="line"><span class="lineno">  164</span>                <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  165</span> </div>
+<div class="line"><span class="lineno">  166</span>            std::string_view name = (i == <a class="code hl_define" href="../../dc/d96/a05060.html#a900ed91bceba26c1e05048bd3a9ec4fd">DEFAULT_LOCALE</a>) ? data.Item-&gt;Name1 : <a class="code hl_function" href="../../d7/d2b/a09531.html#afaf0c44e499261c10276edc4c3cb15a0">ObjectMgr::GetLocaleString</a>(locale-&gt;<a class="code hl_variable" href="../../d1/d28/a08831.html#a787ca2c05ddac7ee5c3a5c28a02b8494">Name</a>, i);</div>
+<div class="line"><span class="lineno">  167</span>            <span class="keywordflow">if</span> (name.empty())</div>
+<div class="line"><span class="lineno">  168</span>                <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  169</span> </div>
+<div class="line"><span class="lineno">  170</span>            <span class="keywordflow">if</span> (randomSuffixes)</div>
+<div class="line"><span class="lineno">  171</span>            {</div>
+<div class="line"><span class="lineno">  172</span>                std::string_view randomSuffix((*randomSuffixes)[i]);</div>
+<div class="line"><span class="lineno">  173</span>                <span class="keywordflow">if</span> ((!randomSuffix.empty()) &amp;&amp;</div>
+<div class="line"><span class="lineno">  174</span>                  (text.length() == (name.length() + 1 + randomSuffix.length())) &amp;&amp;</div>
+<div class="line"><span class="lineno">  175</span>                  (text.substr(0, name.length()) == name) &amp;&amp;</div>
+<div class="line"><span class="lineno">  176</span>                  (text[name.length()] == <span class="charliteral">&#39; &#39;</span>) &amp;&amp;</div>
+<div class="line"><span class="lineno">  177</span>                  (text.substr(name.length() + 1) == randomSuffix))</div>
+<div class="line"><span class="lineno">  178</span>                    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  179</span>            }</div>
+<div class="line"><span class="lineno">  180</span>            <span class="keywordflow">else</span> <span class="keywordflow">if</span> (text == name)</div>
+<div class="line"><span class="lineno">  181</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  182</span>        }</div>
+<div class="line"><span class="lineno">  183</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  184</span>    }</div>
+<div class="ttc" id="aa01661_html_a736e30da2b5261060ac6cdbb5de3b787"><div class="ttname"><a href="../../d4/d41/a01661.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a></div><div class="ttdeci">#define sObjectMgr</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:1731</div></div>
+<div class="ttc" id="aa04679_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../de/d69/a04679.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
+<div class="ttc" id="aa05060_html_a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8"><div class="ttname"><a href="../../dc/d96/a05060.html#a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8">TOTAL_LOCALES</a></div><div class="ttdeci">@ TOTAL_LOCALES</div><div class="ttdef"><b>Definition:</b> Common.h:136</div></div>
+<div class="ttc" id="aa05060_html_a900ed91bceba26c1e05048bd3a9ec4fd"><div class="ttname"><a href="../../dc/d96/a05060.html#a900ed91bceba26c1e05048bd3a9ec4fd">DEFAULT_LOCALE</a></div><div class="ttdeci">#define DEFAULT_LOCALE</div><div class="ttdef"><b>Definition:</b> Common.h:139</div></div>
+<div class="ttc" id="aa08831_html"><div class="ttname"><a href="../../d1/d28/a08831.html">ItemLocale</a></div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:836</div></div>
+<div class="ttc" id="aa08831_html_a787ca2c05ddac7ee5c3a5c28a02b8494"><div class="ttname"><a href="../../d1/d28/a08831.html#a787ca2c05ddac7ee5c3a5c28a02b8494">ItemLocale::Name</a></div><div class="ttdeci">std::vector&lt; std::string &gt; Name</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:837</div></div>
+<div class="ttc" id="aa09531_html_afaf0c44e499261c10276edc4c3cb15a0"><div class="ttname"><a href="../../d7/d2b/a09531.html#afaf0c44e499261c10276edc4c3cb15a0">ObjectMgr::GetLocaleString</a></div><div class="ttdeci">static std::string_view GetLocaleString(std::vector&lt; std::string &gt; const &amp;data, std::size_t locale)</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:1491</div></div>
 </div><!-- fragment -->
-</div>
-</div>
-<a id="a071922c9c431637de3cb2d6b52def7bd" name="a071922c9c431637de3cb2d6b52def7bd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a071922c9c431637de3cb2d6b52def7bd">&#9670;&#160;</a></span>StoreTo() <span class="overload">[3/4]</span></h2>
+<p class="reference">References <a class="el" href="../../#l00139">DEFAULT_LOCALE</a>, <a class="el" href="../../#l01491">ObjectMgr::GetLocaleString()</a>, <a class="el" href="../../#l00065">Acore::Hyperlinks::ItemLinkData::IsBuggedInspectLink</a>, <a class="el" href="../../#l00058">Acore::Hyperlinks::ItemLinkData::Item</a>, <a class="el" href="../../#l00620">ItemTemplate::ItemId</a>, <a class="el" href="../../#l00837">ItemLocale::Name</a>, <a class="el" href="../../#l01250">ItemRandomPropertiesEntry::Name</a>, <a class="el" href="../../#l01257">ItemRandomSuffixEntry::Name</a>, <a class="el" href="../../#l00624">ItemTemplate::Name1</a>, <a class="el" href="../../#l00061">Acore::Hyperlinks::ItemLinkData::RandomProperty</a>, <a class="el" href="../../#l00062">Acore::Hyperlinks::ItemLinkData::RandomSuffix</a>, <a class="el" href="../../#l01731">sObjectMgr</a>, and <a class="el" href="../../#l00136">TOTAL_LOCALES</a>.</p>
 
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">static bool Acore::Hyperlinks::LinkTags::base_tag::StoreTo </td>
-          <td>(</td>
-          <td class="paramtype">std::string_view &amp;&#160;</td>
-          <td class="paramname"><em>val</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">std::string_view&#160;</td>
-          <td class="paramname"><em>data</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  108</span>            {</div>
-<div class="line"><span class="lineno">  109</span>                val = data;</div>
-<div class="line"><span class="lineno">  110</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  111</span>            }</div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00033">HyperlinkDataTokenizer::TryConsumeTo()</a>.</p>
-
-</div>
-</div>
-<a id="a45556cc3ac64a6692ef08d6d93d48a4d" name="a45556cc3ac64a6692ef08d6d93d48a4d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a45556cc3ac64a6692ef08d6d93d48a4d">&#9670;&#160;</a></span>StoreTo() <span class="overload">[4/4]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">static std::enable_if_t&lt; std::is_integral_v&lt; T &gt;, bool &gt; Acore::Hyperlinks::LinkTags::base_tag::StoreTo </td>
-          <td>(</td>
-          <td class="paramtype">T &amp;&#160;</td>
-          <td class="paramname"><em>val</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">std::string_view&#160;</td>
-          <td class="paramname"><em>data</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  121</span>            {</div>
-<div class="line"><span class="lineno">  122</span>                <span class="keywordflow">if</span> (<a class="code hl_typedef" href="../../db/d7b/a00296.html#aaf8f4d77efd311ec7818ab421294ef82">Optional&lt;T&gt;</a> res = Acore::StringTo&lt;T&gt;(data))</div>
-<div class="line"><span class="lineno">  123</span>                {</div>
-<div class="line"><span class="lineno">  124</span>                    val = *res;</div>
-<div class="line"><span class="lineno">  125</span>                    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  126</span>                }</div>
-<div class="line"><span class="lineno">  127</span>                <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  128</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  129</span>            }</div>
-</div><!-- fragment -->
 </div>
 </div>
 </div><!-- contents -->
@@ -310,8 +249,8 @@ template&lt;typename T &gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d3/d82/a05088.html">Acore</a></li><li class="navelem"><a class="el" href="../../d9/d4c/a05132.html">Hyperlinks</a></li><li class="navelem"><a class="el" href="../../dd/d43/a05133.html">LinkTags</a></li><li class="navelem"><a class="el" href="../../d5/dfa/a08187.html">base_tag</a></li>
-    <li class="footer">Generated on Tue Sep 1 2026 00:10:09 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d5/dfa/a08187.html">LinkValidator&lt; LinkTags::item &gt;</a></li>
+    <li class="footer">Generated on Mon Sep 21 2026 23:33:55 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

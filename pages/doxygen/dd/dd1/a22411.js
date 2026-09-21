@@ -1,7 +1,17 @@
 var a22411 =
 [
-    [ "HandleDummy", "dd/dd1/a22411.html#acdf98990ad575fec751a541cac3bcffa", null ],
-    [ "PrepareSpellScript", "dd/dd1/a22411.html#a2b9c56df8d6b2d5dcf0ebf952f7a16fd", null ],
-    [ "Register", "dd/dd1/a22411.html#ac628b5ddf18bae3b18b2512f1a92149f", null ],
-    [ "Validate", "dd/dd1/a22411.html#a3f7a01fcf8ef7cb151e29406b2b682a9", null ]
+    [ "npc_frosthound", "dd/dd1/a22411.html#a90dc4d1debb64354154760b52f8b1129", null ],
+    [ "AttackStart", "dd/dd1/a22411.html#adf6969c7670584747e407a3bede8c928", null ],
+    [ "EnterEvadeMode", "dd/dd1/a22411.html#ad0a16989c8c65eaa58deec6f885719f3", null ],
+    [ "JustDied", "dd/dd1/a22411.html#a5a20cbca9da2f80c02d0697c84689c7a", null ],
+    [ "JustEngagedWith", "dd/dd1/a22411.html#a8c9d22bfd32c12b3cf60f89f6856b5a5", null ],
+    [ "JustSummoned", "dd/dd1/a22411.html#a93858959a06e4f1aa014fca3044949bc", null ],
+    [ "OnCharmed", "dd/dd1/a22411.html#aaf081193bdae7ef30c153a3d40dcefe7", null ],
+    [ "PassengerBoarded", "dd/dd1/a22411.html#a0126be35e4bbb613c9e0a1a04bef3681", null ],
+    [ "Reset", "dd/dd1/a22411.html#ac2056fafcb04a827c83bc199a89a8a74", null ],
+    [ "UpdateAI", "dd/dd1/a22411.html#ab163e819369b6b90b5782ab8d1cecbaf", null ],
+    [ "WaypointReached", "dd/dd1/a22411.html#a9f6238bd211a1a465815c8cdd9bac1d2", null ],
+    [ "WaypointReached", "dd/dd1/a22411.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_completionWaypoint", "dd/dd1/a22411.html#adfeb6a7a2755ebc0d1252cedf0f54727", null ],
+    [ "_summons", "dd/dd1/a22411.html#a103a499ecce73bc4505a85a21c143e73", null ]
 ];

@@ -1,5 +1,8 @@
 var a25611 =
 [
-    [ "PrepareSpellScript", "d0/d6c/a25611.html#aa07fade62e79ccc8ad969de44b886332", null ],
-    [ "Register", "d0/d6c/a25611.html#a1c20e492be2655e8547d36fedb29cfdc", null ]
+    [ "HandleApply", "d0/d6c/a25611.html#af20f30fe2bfc7a370b166a6200b44ca9", null ],
+    [ "OnPeriodic", "d0/d6c/a25611.html#a6b3223ef23854f22b9a3baba0d42cb11", null ],
+    [ "PrepareAuraScript", "d0/d6c/a25611.html#a344d1a92623865876174c0e88ce8ab4b", null ],
+    [ "Register", "d0/d6c/a25611.html#a352ff0e85eee6e51e9f2eea5cdd9108c", null ],
+    [ "Validate", "d0/d6c/a25611.html#ac4fd8fdde53f947082b23852ce149ea9", null ]
 ];

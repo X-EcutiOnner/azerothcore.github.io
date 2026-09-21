@@ -1,7 +1,6 @@
 var a28619 =
 [
-    [ "npc_sayge", "d5/d75/a28619.html#a5b75c459665ece26cee5dbffcc0fc8ff", null ],
-    [ "OnGossipHello", "d5/d75/a28619.html#ad069e6cc7fe5271c3474c8bcf537cf4c", null ],
-    [ "OnGossipSelect", "d5/d75/a28619.html#aa049b4514fc2d18508d8d4f9b6616c99", null ],
-    [ "SendAction", "d5/d75/a28619.html#aed1988335672423d024546654aa95298", null ]
+    [ "npc_taxi", "d5/d75/a28619.html#ac67282316d6ded2ff62b8a1800b8fae1", null ],
+    [ "OnGossipHello", "d5/d75/a28619.html#a1bce89202ea3ed3fcbebd19a305c6a78", null ],
+    [ "OnGossipSelect", "d5/d75/a28619.html#a5a7443abba8cf98a3073195177981edc", null ]
 ];

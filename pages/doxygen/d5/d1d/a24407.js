@@ -1,6 +1,6 @@
 var a24407 =
 [
-    [ "go_ancient_skull_pile", "d5/d1d/a24407.html#a53793cf5f47e812751c2e5ebfe4d1603", null ],
-    [ "OnGossipHello", "d5/d1d/a24407.html#afc258eaeb7586f0f539223c21f82ea63", null ],
-    [ "OnGossipSelect", "d5/d1d/a24407.html#a6d6fd73be859dc00f214796ec2f9bed2", null ]
+    [ "npc_shadowmoon_tuber_nodeAI", "de/d6f/a24411.html", "de/d6f/a24411" ],
+    [ "npc_shadowmoon_tuber_node", "d5/d1d/a24407.html#a98e8c7a84789457900fa342cca209d41", null ],
+    [ "GetAI", "d5/d1d/a24407.html#a5f641af77e2fd78fe67b34fa18bf6b73", null ]
 ];

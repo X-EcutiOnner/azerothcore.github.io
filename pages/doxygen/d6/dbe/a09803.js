@@ -1,8 +1,9 @@
 var a09803 =
 [
-    [ "CallOfHelpCreatureInRangeDo", "d6/dbe/a09803.html#a6ff932341f415b659d486e63cbeb5fe4", null ],
-    [ "operator()", "d6/dbe/a09803.html#a06eb5dd0f8969c20ca1234e01ae15377", null ],
-    [ "i_enemy", "d6/dbe/a09803.html#a8e2e259c0159fd9418777787e4c68ccd", null ],
-    [ "i_funit", "d6/dbe/a09803.html#aff1768cd844e4e23821cf78f9d360e06", null ],
-    [ "i_range", "d6/dbe/a09803.html#ab0544cf93f94766701b72dbb6b3b55c1", null ]
+    [ "NearestGameObjectTypeInObjectRangeCheck", "d6/dbe/a09803.html#a46cde63433cf803205006ad775fe73b5", null ],
+    [ "NearestGameObjectTypeInObjectRangeCheck", "d6/dbe/a09803.html#a4bf0dee77fb4979a02eebdc610995640", null ],
+    [ "operator()", "d6/dbe/a09803.html#ac41947606f4344e19edb13aa58f0a5a7", null ],
+    [ "i_obj", "d6/dbe/a09803.html#aca71a09421fdf412489f7f54cf4bc379", null ],
+    [ "i_range", "d6/dbe/a09803.html#a37f212d5cb1ef2b8d55e19b749861a17", null ],
+    [ "i_type", "d6/dbe/a09803.html#a68965425169b93053eadad91403855e0", null ]
 ];

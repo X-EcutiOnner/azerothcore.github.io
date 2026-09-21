@@ -1,9 +1,7 @@
 var a12807 =
 [
-    [ "boss_overlord_wyrmthalak", "d5/db8/a12807.html#a412ced7f6cbb2c02b174824b57132ab3", null ],
-    [ "JustDied", "d5/db8/a12807.html#a66f2bda1b2352c42a15be505f6d610c6", null ],
-    [ "JustEngagedWith", "d5/db8/a12807.html#a4673b2e6c3b7143ab088b699c7f41d8a", null ],
-    [ "Reset", "d5/db8/a12807.html#a8c4bff3d35d4ddb5c6c8994cb4ee9d67", null ],
-    [ "UpdateAI", "d5/db8/a12807.html#afcca6360598b40df4c35bff752eee3f4", null ],
-    [ "_summoned", "d5/db8/a12807.html#a4ccbe2c20ef1303141005a79ec418705", null ]
+    [ "boss_gorosh_the_dervish", "d5/db8/a12807.html#a49b79326e3eae3f42be4955f30982ffe", null ],
+    [ "JustEngagedWith", "d5/db8/a12807.html#ad3b7ab3db30d16549cd85c471bbb190b", null ],
+    [ "UpdateAI", "d5/db8/a12807.html#adf24561c335f1023f44f76709e66bc83", null ],
+    [ "nextWhirlwindTime", "d5/db8/a12807.html#a61b57a2db3d097a0da74a502fb272339", null ]
 ];

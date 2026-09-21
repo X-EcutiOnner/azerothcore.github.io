@@ -1,8 +1,11 @@
 var a13779 =
 [
-    [ "FilterTargets", "d3/de2/a13779.html#a3aac5e364d04a4a086aaa911051417d5", null ],
-    [ "HandleDummy", "d3/de2/a13779.html#aa0705dee3edeca7b61f82581f367e94a", null ],
-    [ "PrepareSpellScript", "d3/de2/a13779.html#a1efa036eac25d789850849dc1b209379", null ],
-    [ "Register", "d3/de2/a13779.html#a656b512d5bef657004a72acbf7875760", null ],
-    [ "Validate", "d3/de2/a13779.html#a33534d9fd70af99bbde1e4a908d22084", null ]
+    [ "boss_alythess", "d3/de2/a13779.html#a707fbd0f310005a60d5ed4c05c9fc176", null ],
+    [ "AttackStart", "d3/de2/a13779.html#ac860cef30a96d020a7c729f63ac5ca4e", null ],
+    [ "DoAction", "d3/de2/a13779.html#aa2dc7ab74fa5bdb753475b2de1515855", null ],
+    [ "JustDied", "d3/de2/a13779.html#a5509c9f0d979a2d9d70a8f4f9e7971a0", null ],
+    [ "JustEngagedWith", "d3/de2/a13779.html#ac5047ee0124864304284c1142e885158", null ],
+    [ "KilledUnit", "d3/de2/a13779.html#a611d8c0a8fb9061e596ef0ac8f1fda88", null ],
+    [ "Reset", "d3/de2/a13779.html#ab5f990d305f42a2d00e182f617175672", null ],
+    [ "_isSisterDead", "d3/de2/a13779.html#a9f9fa0823685066b4990a17880782b9a", null ]
 ];

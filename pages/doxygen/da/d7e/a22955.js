@@ -1,6 +1,6 @@
 var a22955 =
 [
-    [ "PrepareAuraScript", "da/d7e/a22955.html#ac52a5dccc708f9ee63f3c6c92fbf15c1", null ],
-    [ "Register", "da/d7e/a22955.html#acc4afbe7f2b23b67e8f7e3fe1eeb03b5", null ],
-    [ "Update", "da/d7e/a22955.html#aa9f5924b3f12c666c53ddc2b9b80aeea", null ]
+    [ "FilterTargets", "da/d7e/a22955.html#a91b9fdebdffcae06da1882d7d46f5460", null ],
+    [ "PrepareSpellScript", "da/d7e/a22955.html#ae8f3906007580963bda33cd0e420299b", null ],
+    [ "Register", "da/d7e/a22955.html#a5e191d4fca7cc95ddec8730cc3fd8ffe", null ]
 ];

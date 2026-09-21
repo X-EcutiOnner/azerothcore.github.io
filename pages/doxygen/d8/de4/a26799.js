@@ -1,9 +1,6 @@
 var a26799 =
 [
-    [ "CheckCast", "d8/de4/a26799.html#ad7bfc65b26013ad259679ae8b4a5dd9a", null ],
-    [ "HandleTriggerSpellHit", "d8/de4/a26799.html#aca027bb2995456bfcedd33c06966eb88", null ],
-    [ "HandleTriggerSpellLaunch", "d8/de4/a26799.html#aa67bf9f81086a3837037d67306979072", null ],
-    [ "PrepareSpellScript", "d8/de4/a26799.html#a9247b5f3a376bebdcf857565b5049944", null ],
-    [ "Register", "d8/de4/a26799.html#aaf056806d72da6aa2e3e6e70d46d6933", null ],
-    [ "Validate", "d8/de4/a26799.html#a4fc8f6a7ecd041dcfca4fd51d71e725c", null ]
+    [ "CalculateAmount", "d8/de4/a26799.html#acc2c4cea16dfa30c49387ac166cef560", null ],
+    [ "PrepareAuraScript", "d8/de4/a26799.html#a8d7e840994ba5034a249171dbfc016a6", null ],
+    [ "Register", "d8/de4/a26799.html#a018d2a8a106a621730fcaa1d500df7b1", null ]
 ];

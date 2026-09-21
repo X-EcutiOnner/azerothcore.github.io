@@ -1,6 +1,7 @@
 var a13167 =
 [
-    [ "HandleTriggerSpell", "d9/dd3/a13167.html#a5f30f2af73eae022b9596939b2f88c0b", null ],
-    [ "PrepareSpellScript", "d9/dd3/a13167.html#a4fa2709a456e9e75f5c11b7f2e04912b", null ],
-    [ "Register", "d9/dd3/a13167.html#a7e9c140aecea892ee6971bc97d385640", null ]
+    [ "HandleScript", "d9/dd3/a13167.html#ac09c2c6b997c2a5fc0bee0ba0ea185ae", null ],
+    [ "PrepareSpellScript", "d9/dd3/a13167.html#ad3c052a9bd00d04c954f85218dcfcb0a", null ],
+    [ "Register", "d9/dd3/a13167.html#a8658c2c7e32a66e4a1bcc048406653bb", null ],
+    [ "Validate", "d9/dd3/a13167.html#aa03795d909e24dfe2ccd12e431b2575e", null ]
 ];

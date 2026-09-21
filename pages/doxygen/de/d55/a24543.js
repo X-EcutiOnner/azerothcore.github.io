@@ -1,6 +1,8 @@
 var a24543 =
 [
-    [ "FilterTargets", "de/d55/a24543.html#a991a944f31680e4d53cc2a46d8c8b8bf", null ],
-    [ "PrepareSpellScript", "de/d55/a24543.html#aea49df3f6b93223ed72c3a9875232b74", null ],
-    [ "Register", "de/d55/a24543.html#a8f0e0b6363303def780d35415c88b4d6", null ]
+    [ "npc_pet_gen_gnomish_flame_turret", "de/d55/a24543.html#a6e79c0ad6219d0beb23cfb086e6d3eaf", null ],
+    [ "AttackStart", "de/d55/a24543.html#a2aab464c099e8e5e760a9ae4f28ac33f", null ],
+    [ "Reset", "de/d55/a24543.html#a46fe5703a5859d5583e7df3a57b3910a", null ],
+    [ "UpdateAI", "de/d55/a24543.html#ae3db08323af4b82009ffd660b3e78474", null ],
+    [ "checkTimer", "de/d55/a24543.html#ac6705f4980ca561a5fd33c2917488439", null ]
 ];

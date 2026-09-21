@@ -1,8 +1,8 @@
 var a09915 =
 [
-    [ "LocalizedPacketDo", "d9/d4f/a09915.html#a9b7700f2a4958b91a67375ec9a40072c", null ],
-    [ "~LocalizedPacketDo", "d9/d4f/a09915.html#a4296260b2011e1f7c300987073863ca9", null ],
-    [ "operator()", "d9/d4f/a09915.html#a43449bdf0302e426b8cb4341326196b1", null ],
-    [ "i_builder", "d9/d4f/a09915.html#a2c794905898feb502bfc5d3760f962b8", null ],
-    [ "i_data_cache", "d9/d4f/a09915.html#a2bbff655e1a5268981c48e3ee028b104", null ]
+    [ "AllGameObjectsWithEntryInRange", "d9/d4f/a09915.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56", null ],
+    [ "operator()", "d9/d4f/a09915.html#a342aa18d98413620fce4c676fcf75305", null ],
+    [ "m_fRange", "d9/d4f/a09915.html#a7cce16670c95c19f3eb68e5914160513", null ],
+    [ "m_pObject", "d9/d4f/a09915.html#a5c898c20992999f11204aab6479d71f6", null ],
+    [ "m_uiEntry", "d9/d4f/a09915.html#a64ff0c14c71e218b8f9a8888b1017fec", null ]
 ];

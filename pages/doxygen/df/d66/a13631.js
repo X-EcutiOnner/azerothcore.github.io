@@ -1,11 +1,7 @@
 var a13631 =
 [
-    [ "boss_baroness_anastariAI", "df/d66/a13631.html#acf180bbe881ba1f6e49c075254759c00", null ],
-    [ "JustDied", "df/d66/a13631.html#a1a7bf1e6c39b0b61e95390e7ee1c5e6b", null ],
-    [ "JustEngagedWith", "df/d66/a13631.html#a7329455d99045e7002abffe09112a4ea", null ],
-    [ "Reset", "df/d66/a13631.html#a80c99c59486d2a7850a3a54ffebe998b", null ],
-    [ "SchedulePossession", "df/d66/a13631.html#afbf2d4e9c3e8e50815c398b97afb3970", null ],
-    [ "UpdateAI", "df/d66/a13631.html#a962e4e3091d126682825c326af5f6922", null ],
-    [ "_possessedTargetGuid", "df/d66/a13631.html#a36e386b847c7032b5ce95a01070518ad", null ],
-    [ "_scheduler", "df/d66/a13631.html#aa59518627a5e64e371dbbb45cfced75f", null ]
+    [ "OnApply", "df/d66/a13631.html#a278a1eb6d5f856a620f5a33de294b0ec", null ],
+    [ "OnRemove", "df/d66/a13631.html#a8300f726a41882e3d3f54adc0e5bfb29", null ],
+    [ "PrepareAuraScript", "df/d66/a13631.html#a46ba800f3a3512951b83e428bc5373b9", null ],
+    [ "Register", "df/d66/a13631.html#a4a59d431c7d7607e614c4ec035e3acf7", null ]
 ];

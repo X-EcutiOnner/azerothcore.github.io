@@ -1,7 +1,7 @@
 var a16975 =
 [
-    [ "npc_toc_dkAI", "dc/dd0/a16975.html#aa01bf528b10ed7bbdfe9b03694e51845", null ],
-    [ "myCanCast", "dc/dd0/a16975.html#a54dee5d9b0f17bad21e8c1e275f0b222", null ],
-    [ "UpdateAI", "dc/dd0/a16975.html#ab4f4b11e2b250fb24de6c069c5e38208", null ],
-    [ "events", "dc/dd0/a16975.html#a293d5fca2940432c4eea57c5de5a1fdc", null ]
+    [ "npc_toc_druidAI", "dc/dd0/a16975.html#adb456f1f93be5329174a3199c9092825", null ],
+    [ "myCanCast", "dc/dd0/a16975.html#af82baa22ae49ba268f494cb07287845e", null ],
+    [ "UpdateAI", "dc/dd0/a16975.html#a82a22a557db647f73690d8838a635eaf", null ],
+    [ "events", "dc/dd0/a16975.html#a6bb27baf17f0286db3222287a8073bd7", null ]
 ];

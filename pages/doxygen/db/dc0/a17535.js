@@ -1,11 +1,13 @@
 var a17535 =
 [
-    [ "npc_pos_leader_secondAI", "db/dc0/a17535.html#a2ded8591da2548921cd016d592d1f1c8", null ],
-    [ "DoAction", "db/dc0/a17535.html#a941d3b42d6a0e58496b724af56fee44a", null ],
-    [ "MovementInform", "db/dc0/a17535.html#a32f4c5c48f1a63ded0ac9b8ee763090b", null ],
-    [ "SpellHitTarget", "db/dc0/a17535.html#ae630b7b225379831d15a11f66507bc6a", null ],
-    [ "UpdateAI", "db/dc0/a17535.html#a640aea9ce4a47dd13d417748e533fc33", null ],
-    [ "barrierGUID", "db/dc0/a17535.html#a452c096475581c12bf2f4ccb12448026", null ],
-    [ "events", "db/dc0/a17535.html#a1e1ab6c1d349a9543815a29ae185feec", null ],
-    [ "pInstance", "db/dc0/a17535.html#aee9dac9efee94db3d84eb9c5fb8c88a2", null ]
+    [ "boss_tyrannusAI", "db/dc0/a17535.html#a753de14d2cecaaed2c7b24e09397b008", null ],
+    [ "CanAIAttack", "db/dc0/a17535.html#a0cb60f308637cbd152faf274b3e5f636", null ],
+    [ "DoAction", "db/dc0/a17535.html#ab4d899ab5da283c8d256df8cb0d4e312", null ],
+    [ "EnterEvadeMode", "db/dc0/a17535.html#a9d18bab323c676020dede77a498a5b77", null ],
+    [ "JustDied", "db/dc0/a17535.html#a249b7dc28dfc40c2a782ef32b88dbb48", null ],
+    [ "KilledUnit", "db/dc0/a17535.html#abf7c8909143dac641c00cca160bef964", null ],
+    [ "Reset", "db/dc0/a17535.html#aec686cffccd8d95a341e320ffc7d5b7e", null ],
+    [ "UpdateAI", "db/dc0/a17535.html#a4357dc2e9b1d714d780db6ce3f60728b", null ],
+    [ "events", "db/dc0/a17535.html#a2168a2e1b36607b76614bdef54b02bc3", null ],
+    [ "pInstance", "db/dc0/a17535.html#ad4a8282849aaa1ce8b4702b5af55d35b", null ]
 ];

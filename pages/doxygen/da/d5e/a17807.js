@@ -1,6 +1,14 @@
 var a17807 =
 [
-    [ "FilterTargets", "da/d5e/a17807.html#aede4900c9b71bf60ca61e03dd0b63aa8", null ],
-    [ "PrepareSpellScript", "da/d5e/a17807.html#a2ddc1dc9c04297a80f6708e546fe5a58", null ],
-    [ "Register", "da/d5e/a17807.html#add40d7731b07b30b595f76f7d4e983f4", null ]
+    [ "npc_ball_of_flameAI", "da/d5e/a17807.html#a90314990bc6404bf2a4005bb94213926", null ],
+    [ "AttackStart", "da/d5e/a17807.html#a34d51c96005f620c0010948acb6c89ec", null ],
+    [ "DamageDealt", "da/d5e/a17807.html#ac2d36bc12bb86c329721a2af224d037f", null ],
+    [ "DoAction", "da/d5e/a17807.html#ac589db56562987de5bbed27a2bead49f", null ],
+    [ "MoveInLineOfSight", "da/d5e/a17807.html#a7bb96de89b9dc6b6f97443e9aec3ad61", null ],
+    [ "MovementInform", "da/d5e/a17807.html#ab18870c29224fc3fa5e7b76c1aa981f4", null ],
+    [ "SetGUID", "da/d5e/a17807.html#ab82ac6ffc7f946428c26f5bd6585f95c", null ],
+    [ "_chaseGUID", "da/d5e/a17807.html#a30dc40f8922f8f34d6ad7ec3053413e4", null ],
+    [ "_exploded", "da/d5e/a17807.html#a724de41f7b14755d704d5de335da380b", null ],
+    [ "_instance", "da/d5e/a17807.html#af5d8717572176409eca01ae214910c7f", null ],
+    [ "_started", "da/d5e/a17807.html#a508a5e3f0acafa98956bba6eb41f28fb", null ]
 ];

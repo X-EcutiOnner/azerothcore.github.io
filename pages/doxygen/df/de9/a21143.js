@@ -1,6 +1,6 @@
 var a21143 =
 [
-    [ "achievement_yogg_saron_he_waits_dreaming", "df/de9/a21143.html#a25f4950d1ccffe77aa9cf5de7a14ea37", null ],
-    [ "OnCheck", "df/de9/a21143.html#a7ef7dfb0235fb2db5932e7415e3e6f61", null ],
-    [ "_requiredIllusion", "df/de9/a21143.html#aa3e107cb3be6fa02687709e07466a094", null ]
+    [ "FilterTargets", "df/de9/a21143.html#adaeee235184ddc36e90e532091183056", null ],
+    [ "PrepareSpellScript", "df/de9/a21143.html#a599f604e872d3a5a4ed2b155caefdc9f", null ],
+    [ "Register", "df/de9/a21143.html#ab79041a2536878498744555475bce5c8", null ]
 ];

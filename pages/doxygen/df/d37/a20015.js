@@ -1,6 +1,8 @@
 var a20015 =
 [
-    [ "boss_maiden_of_griefAI", "dd/dcb/a20019.html", "dd/dcb/a20019" ],
-    [ "boss_maiden_of_grief", "df/d37/a20015.html#a8361e4961ac1da09b803ca9e7fc67f95", null ],
-    [ "GetAI", "df/d37/a20015.html#af8d2e6392a0c73add801910945b2558e", null ]
+    [ "HandleOnEffectApply", "df/d37/a20015.html#ac852d761940494f78b50ba3b060057a2", null ],
+    [ "HandleOnEffectRemove", "df/d37/a20015.html#a6764750586be8b57d52a2dba87d89e76", null ],
+    [ "PrepareAuraScript", "df/d37/a20015.html#acc93a6d463501a23b73bd1ac1f99854e", null ],
+    [ "Register", "df/d37/a20015.html#a2cb77175d7341752bdd8733cfcfe8ed3", null ],
+    [ "Validate", "df/d37/a20015.html#a4de69fb4aa8e1506581ed01c42dc8f76", null ]
 ];

@@ -1,6 +1,7 @@
 var a12991 =
 [
-    [ "HandleOnHit", "d5/d7c/a12991.html#a804097903354ab3a730f0fe3eb5ec863", null ],
-    [ "PrepareSpellScript", "d5/d7c/a12991.html#aea221ad6fb1a30bec6fee0c3a67d01b0", null ],
-    [ "Register", "d5/d7c/a12991.html#a53bed6f1af71fd309a04bc004d07be80", null ]
+    [ "HandleScript", "d5/d7c/a12991.html#a0d244cc1785b136bae0960d697dc761d", null ],
+    [ "PrepareSpellScript", "d5/d7c/a12991.html#a13f3ebef30c315c02090ee3a19a156e4", null ],
+    [ "Register", "d5/d7c/a12991.html#a3871fb036ec6e0ea006f869c21e88c8f", null ],
+    [ "Validate", "d5/d7c/a12991.html#a1413754f3a79caf8ec57d394c68f3499", null ]
 ];

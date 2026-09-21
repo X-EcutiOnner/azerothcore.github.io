@@ -1,6 +1,6 @@
 var a18911 =
 [
-    [ "npc_risen_archmageAI", "d4/d3f/a18915.html", "d4/d3f/a18915" ],
-    [ "npc_risen_archmage", "d2/d8e/a18911.html#adf6dfe2a00325955939c84bcc1e4eb68", null ],
-    [ "GetAI", "d2/d8e/a18911.html#a8e8c4913e163c5d649fa79c2eb424864", null ]
+    [ "npc_icc_lk_checktargetAI", "d4/d3f/a18915.html", "d4/d3f/a18915" ],
+    [ "npc_icc_lk_checktarget", "d2/d8e/a18911.html#a3a2cc943e731e472694dcb13417090da", null ],
+    [ "GetAI", "d2/d8e/a18911.html#a2cd9a5c7fec791ba8786cf1bb5b7c8bd", null ]
 ];

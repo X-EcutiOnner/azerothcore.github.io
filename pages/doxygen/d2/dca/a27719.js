@@ -1,6 +1,8 @@
 var a27719 =
 [
-    [ "HandleSchoolDMG", "d2/dca/a27719.html#a8f3ff0a48d5de4dcd33831400de0ba28", null ],
-    [ "PrepareSpellScript", "d2/dca/a27719.html#a42bb397aa53fb43ba1b1799a7f162d9b", null ],
-    [ "Register", "d2/dca/a27719.html#ac1271959fe8de3c11403b1e76acdbf15", null ]
+    [ "CheckProc", "d2/dca/a27719.html#a825ef4acafa2371f27ca8ca6465610f9", null ],
+    [ "HandleProc", "d2/dca/a27719.html#a311916a7939ea2c4c2e23d6e4778aba4", null ],
+    [ "PrepareAuraScript", "d2/dca/a27719.html#a89c7a57718cdb23f7235ff2379a7a192", null ],
+    [ "Register", "d2/dca/a27719.html#abff50b0398b596898db4638fbadffa9c", null ],
+    [ "Validate", "d2/dca/a27719.html#abedd0e9efa9c595e1142f0358d135d1b", null ]
 ];

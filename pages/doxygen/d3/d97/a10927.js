@@ -1,12 +1,10 @@
 var a10927 =
 [
-    [ "Packet", "d3/d97/a10927.html#a316af2b7ce1ac7189fb1e57f534bad11", null ],
-    [ "~Packet", "d3/d97/a10927.html#a2ca1e6377bb2fb10bf042311e72eb5d4", null ],
-    [ "Packet", "d3/d97/a10927.html#a00213b64110a99004b3d9a6b38876cd4", null ],
-    [ "GetRawPacket", "d3/d97/a10927.html#a9d8649e1b035fe7387dcee3e0b062a5e", null ],
-    [ "GetSize", "d3/d97/a10927.html#a08eb4c40f49c0d4e7f17a6dc1df2fe6a", null ],
-    [ "operator=", "d3/d97/a10927.html#a6d2afd0d4b0d7daff11868854b7c4715", null ],
-    [ "Read", "d3/d97/a10927.html#a94afc4d66c2b5bced3063bab5a666bfd", null ],
-    [ "Write", "d3/d97/a10927.html#af7c79156d7b6cfe3142fc530f9ed262a", null ],
-    [ "_worldPacket", "d3/d97/a10927.html#ab85f1c9f20117bc5015180165c7b458a", null ]
+    [ "ArgsType", "d3/d97/a10927.html#a4ea4d3b165a196482ebe96af9c462658", null ],
+    [ "AuraScriptType", "d3/d97/a10927.html#a7b2a19d6c7c75c0df22eae17b0c8e90a", null ],
+    [ "SpellScriptType", "d3/d97/a10927.html#a790a8ef2b59bfe6298486648858506ed", null ],
+    [ "GenericSpellAndAuraScriptLoader", "d3/d97/a10927.html#ab1bd69d57c6e2322044b8f7cf46cedb6", null ],
+    [ "GetAuraScript", "d3/d97/a10927.html#a5f3c898a0dc6d9085589b88eb5571528", null ],
+    [ "GetSpellScript", "d3/d97/a10927.html#a913fa28d2a2cf100ce73cf641e333e01", null ],
+    [ "_args", "d3/d97/a10927.html#aad6527f64ede0d896880ffa90d05a378", null ]
 ];

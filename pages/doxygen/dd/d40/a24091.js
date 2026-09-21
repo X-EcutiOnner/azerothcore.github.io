@@ -1,7 +1,6 @@
 var a24091 =
 [
-    [ "HandleEffect", "dd/d40/a24091.html#acb353dbdd050bfc6aa4b4b5f6433dc03", null ],
-    [ "PrepareSpellScript", "dd/d40/a24091.html#ad95bc33917e1aa968eedc636f6e3ddcb", null ],
-    [ "Register", "dd/d40/a24091.html#ac2b2bd2581a638553167d5c8099a70cd", null ],
-    [ "Validate", "dd/d40/a24091.html#a7702b0e876ab5ccd750d1072ee70ed69", null ]
+    [ "HandleAfterRemove", "dd/d40/a24091.html#ac9756a8f206c114ff6443331ca266184", null ],
+    [ "PrepareAuraScript", "dd/d40/a24091.html#a2f67291e6e4291c9d01cdbcbe04a7db7", null ],
+    [ "Register", "dd/d40/a24091.html#ac36d76ad8a5ecb2e437dcb8f1248386d", null ]
 ];

@@ -1,7 +1,6 @@
 var a15975 =
 [
-    [ "HandleDummy", "d9/d13/a15975.html#a7657ffcc0b055b838408de4dd5f778f3", null ],
-    [ "PrepareSpellScript", "d9/d13/a15975.html#ace2c23ec11d09cfb6f101a2dbd8b9d89", null ],
-    [ "Register", "d9/d13/a15975.html#ae9be2e8124edf50b98824c584aaa32cf", null ],
-    [ "Validate", "d9/d13/a15975.html#a041c84fd605abd36b8f774903a5200dc", null ]
+    [ "npc_murkdeepAI", "db/da5/a15979.html", "db/da5/a15979" ],
+    [ "npc_murkdeep", "d9/d13/a15975.html#a72d44d786bcba4dea5ccedd33e7dbd3c", null ],
+    [ "GetAI", "d9/d13/a15975.html#ab9f8faa3adaf1f251e1248fbe0f46468", null ]
 ];

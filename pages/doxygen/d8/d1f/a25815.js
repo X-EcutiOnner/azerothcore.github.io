@@ -1,7 +1,9 @@
 var a25815 =
 [
-    [ "HandleProc", "d8/d1f/a25815.html#a8e35d9e56b5d896b23844e8075c746d7", null ],
-    [ "PrepareAuraScript", "d8/d1f/a25815.html#a56c8ada8651cfd024cc7514417b986d6", null ],
-    [ "Register", "d8/d1f/a25815.html#a818ed2117c52a53939df5bf4d035854f", null ],
-    [ "Validate", "d8/d1f/a25815.html#ad9239fbe538bdc0019c60ef461c6c8ca", null ]
+    [ "DoCheckCast", "d8/d1f/a25815.html#a09c7bd66988c38cb019656842ed87366", null ],
+    [ "HandleDummy", "d8/d1f/a25815.html#a183e2ac37a432ea2902b31e24a474cea", null ],
+    [ "HandleScriptEffect", "d8/d1f/a25815.html#a396b1129f15056d0b22c7887f56bea99", null ],
+    [ "PrepareSpellScript", "d8/d1f/a25815.html#aad4de93de822a742e02ac8d5d395d482", null ],
+    [ "Register", "d8/d1f/a25815.html#a84fc18d6a2d92aefa2cc4d8095780314", null ],
+    [ "Validate", "d8/d1f/a25815.html#a2565f0ad3bb988ad37dd6a60f08c995c", null ]
 ];

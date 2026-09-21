@@ -1,6 +1,7 @@
 var a21651 =
 [
-    [ "npc_warmage_coldarraAI", "db/d79/a21655.html", "db/d79/a21655" ],
-    [ "npc_warmage_coldarra", "d4/d9c/a21651.html#a358f8ab26991798ff076ac764cd7abe2", null ],
-    [ "GetAI", "d4/d9c/a21651.html#aa29181e0ad61b44eff685267f3231382", null ]
+    [ "npc_azure_spellbreaker", "d4/d9c/a21651.html#ae884adc9619d3458d81a2029bd490893", null ],
+    [ "Reset", "d4/d9c/a21651.html#a32e4674bac67f1a259c68c32ef0d1358", null ],
+    [ "UpdateAI", "d4/d9c/a21651.html#a938a93a71490bb42158e2215d125509f", null ],
+    [ "_events", "d4/d9c/a21651.html#a9f526cff54cb949cc68046e7816c3c89", null ]
 ];

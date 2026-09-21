@@ -1,14 +1,12 @@
 var a12727 =
 [
-    [ "boss_general_angerforge", "d2/dca/a12727.html#a0f65a3a8acdca0361f468538b4c8bb5e", null ],
-    [ "JustEngagedWith", "d2/dca/a12727.html#a5b2e7aead30ad3c07786c616c0b2f44e", null ],
-    [ "Reset", "d2/dca/a12727.html#a8f05f134eb43a6812bc2d41734d2429e", null ],
-    [ "SummonAdds", "d2/dca/a12727.html#a723891cc60b4d84b29d395e4ddffff57", null ],
-    [ "SummonMedics", "d2/dca/a12727.html#ac21b4424cdf3e5e336970e1f8d5aea98", null ],
-    [ "UpdateAI", "d2/dca/a12727.html#ae37de4567bf4a03779a87e9d650ac1ea", null ],
-    [ "_addsTimer", "d2/dca/a12727.html#a1ddffcd960d1c06ade7b6de70faeb46d", null ],
-    [ "_cleaveTimer", "d2/dca/a12727.html#a47958223deb7aa97aaf331bdffd9dd2d", null ],
-    [ "_hamStringTimer", "d2/dca/a12727.html#adaa360262079ea390077cea70e401da5", null ],
-    [ "_medics", "d2/dca/a12727.html#ac1039c144c16e70818a199d91cace370", null ],
-    [ "_mightyBlowTimer", "d2/dca/a12727.html#a7bd4ccf9648804c972dec5d7a35eaaa4", null ]
+    [ "boss_balinda", "d2/dca/a12727.html#a2f3ce696dbc66843cddc13196800866b", null ],
+    [ "DamageTaken", "d2/dca/a12727.html#a826ad90ac15b3421e16fc3faa96784e7", null ],
+    [ "JustDied", "d2/dca/a12727.html#aeb10053198b9b4c43e963d23957ba9ba", null ],
+    [ "JustEngagedWith", "d2/dca/a12727.html#aa0b78302a92bf39ffee51ce3a71fb534", null ],
+    [ "JustSummoned", "d2/dca/a12727.html#a3c2306326d2f85fbb6766352117a1f91", null ],
+    [ "Reset", "d2/dca/a12727.html#a1ecfa5d743682997076a47cce44b19f5", null ],
+    [ "UpdateAI", "d2/dca/a12727.html#af3506dd75baef12fd0328aed21636978", null ],
+    [ "_hasCastIceBlock", "d2/dca/a12727.html#a05c24746060d7c9a3712d9f269b4af8e", null ],
+    [ "summons", "d2/dca/a12727.html#a83df5856391f0ba62dcb0538b7f44e2d", null ]
 ];

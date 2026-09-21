@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: anonymous_namespace{RBACTest.cpp}::RBACGetPermissionsTest Class Reference</title>
+<title>AzerothCore: ProcTestScenario Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,47 +105,55 @@ $(document).ready(function(){initNavTree('d6/d77/a29787.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pro-methods">Protected Member Functions</a> &#124;
-<a href="#pro-attribs">Protected Attributes</a> &#124;
-<a href="#pro-static-attribs">Static Protected Attributes</a> &#124;
+<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../d0/d77/a29784.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">anonymous_namespace{RBACTest.cpp}::RBACGetPermissionsTest Class Reference</div></div>
+  <div class="headertitle"><div class="title">ProcTestScenario Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="dynheader">
-Inheritance diagram for anonymous_namespace{RBACTest.cpp}::RBACGetPermissionsTest:</div>
-<div class="dyncontent">
- <div class="center">
-  <img src="../../d6/d77/a29787.png" alt=""/>
- </div></div>
+
+<p>Test context for proc simulation scenarios.  
+ <a href="../../d6/d77/a29787.html#details">More...</a></p>
+
+<p><code>#include &quot;<a class="el" href="../../">ProcChanceTestHelper.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-methods" name="pro-methods"></a>
-Protected Member Functions</h2></td></tr>
-<tr class="memitem:a781aff1ceb2f4e26bcf801e9ab81bf3e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d77/a29787.html#a781aff1ceb2f4e26bcf801e9ab81bf3e">SetUp</a> () override</td></tr>
-<tr class="separator:a781aff1ceb2f4e26bcf801e9ab81bf3e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4554349a2712a018d16de6a8ae9f50ff"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d77/a29787.html#a4554349a2712a018d16de6a8ae9f50ff">TearDown</a> () override</td></tr>
-<tr class="separator:a4554349a2712a018d16de6a8ae9f50ff"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:aba69369df56d3d631a9a62bcde791537"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d77/a29787.html#aba69369df56d3d631a9a62bcde791537">ProcTestScenario</a> ()</td></tr>
+<tr class="separator:aba69369df56d3d631a9a62bcde791537"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3b6e8c7f5207be98b7696b478559b24a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d77/a29787.html#a3b6e8c7f5207be98b7696b478559b24a">AdvanceTime</a> (std::chrono::milliseconds duration)</td></tr>
+<tr class="separator:a3b6e8c7f5207be98b7696b478559b24a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a014a9082421c022c2fac91070f8f062e"><td class="memItemLeft" align="right" valign="top">std::chrono::steady_clock::time_point&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d77/a29787.html#a014a9082421c022c2fac91070f8f062e">GetNow</a> () const</td></tr>
+<tr class="separator:a014a9082421c022c2fac91070f8f062e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a52dcbfa52c49f54ce29cb73253746f70"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/dd5/a29831.html">UnitStub</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d77/a29787.html#a52dcbfa52c49f54ce29cb73253746f70">GetActor</a> ()</td></tr>
+<tr class="separator:a52dcbfa52c49f54ce29cb73253746f70"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7b2084c740b51289f6e2f7ec74dacf17"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/dd5/a29831.html">UnitStub</a> const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d77/a29787.html#a7b2084c740b51289f6e2f7ec74dacf17">GetActor</a> () const</td></tr>
+<tr class="separator:a7b2084c740b51289f6e2f7ec74dacf17"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad0ca3530818d3091ab420bd76aab8dcb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d77/a29787.html">ProcTestScenario</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d77/a29787.html#ad0ca3530818d3091ab420bd76aab8dcb">WithActorLevel</a> (uint8_t level)</td></tr>
+<tr class="separator:ad0ca3530818d3091ab420bd76aab8dcb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a05d00a17b60c3fd94e85c75d896ca2bb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d77/a29787.html">ProcTestScenario</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d77/a29787.html#a05d00a17b60c3fd94e85c75d896ca2bb">WithWeaponSpeed</a> (uint8_t attackType, uint32_t speed)</td></tr>
+<tr class="separator:a05d00a17b60c3fd94e85c75d896ca2bb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa5e30fdf4a8b4912a48ce12aa7763624"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; <a class="el" href="../../db/d80/a29723.html">AuraStub</a> &gt; &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d77/a29787.html#aa5e30fdf4a8b4912a48ce12aa7763624">GetAura</a> ()</td></tr>
+<tr class="separator:aa5e30fdf4a8b4912a48ce12aa7763624"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6c6dc6438b7503dcda2a89f1e53bc324"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d77/a29787.html">ProcTestScenario</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d77/a29787.html#a6c6dc6438b7503dcda2a89f1e53bc324">WithAura</a> (uint32_t spellId, uint8_t charges=0, uint8_t stacks=1)</td></tr>
+<tr class="separator:a6c6dc6438b7503dcda2a89f1e53bc324"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af3f83abbfbd4a902689b232853fdbcfb"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d77/a29787.html#af3f83abbfbd4a902689b232853fdbcfb">SimulateProc</a> (<a class="el" href="../../db/d98/a12031.html">SpellProcEntry</a> const &amp;procEntry, float rollResult=0.0f)</td></tr>
+<tr class="separator:af3f83abbfbd4a902689b232853fdbcfb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-attribs" name="pro-attribs"></a>
-Protected Attributes</h2></td></tr>
-<tr class="memitem:af35ce1e4fa3d4123358a098cb5afb2af"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; <a class="el" href="../../db/d7f/a06315.html">rbac::RBACData</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d77/a29787.html#af35ce1e4fa3d4123358a098cb5afb2af">rbacData</a></td></tr>
-<tr class="separator:af35ce1e4fa3d4123358a098cb5afb2af"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-static-attribs" name="pro-static-attribs"></a>
-Static Protected Attributes</h2></td></tr>
-<tr class="memitem:a4cf88cb08e4248c973e96009b7c5e225"><td class="memItemLeft" align="right" valign="top">static constexpr <a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d77/a29787.html#a4cf88cb08e4248c973e96009b7c5e225">PERM_A</a> = 10</td></tr>
-<tr class="separator:a4cf88cb08e4248c973e96009b7c5e225"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a358884a8d08637d7358803127c87c808"><td class="memItemLeft" align="right" valign="top">static constexpr <a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d77/a29787.html#a358884a8d08637d7358803127c87c808">PERM_B</a> = 11</td></tr>
-<tr class="separator:a358884a8d08637d7358803127c87c808"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a34fc88e7d7566ed4d64005535d0a3122"><td class="memItemLeft" align="right" valign="top">static constexpr <a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d77/a29787.html#a34fc88e7d7566ed4d64005535d0a3122">PERM_C</a> = 12</td></tr>
-<tr class="separator:a34fc88e7d7566ed4d64005535d0a3122"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abe95477afdf283e406df55eac7f146cf"><td class="memItemLeft" align="right" valign="top">static constexpr <a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d77/a29787.html#abe95477afdf283e406df55eac7f146cf">ROLE_R</a> = 100</td></tr>
-<tr class="separator:abe95477afdf283e406df55eac7f146cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:ae20c57ecb893219e52fe055d1662e527"><td class="memItemLeft" align="right" valign="top">std::chrono::steady_clock::time_point&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d77/a29787.html#ae20c57ecb893219e52fe055d1662e527">_now</a></td></tr>
+<tr class="separator:ae20c57ecb893219e52fe055d1662e527"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8928fbb771f94e66af2a24c6c2a3351d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/dd5/a29831.html">UnitStub</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d77/a29787.html#a8928fbb771f94e66af2a24c6c2a3351d">_actor</a></td></tr>
+<tr class="separator:a8928fbb771f94e66af2a24c6c2a3351d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a81e71f6e78e8c715899c85dcb9423589"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; <a class="el" href="../../db/d80/a29723.html">AuraStub</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d77/a29787.html#a81e71f6e78e8c715899c85dcb9423589">_aura</a></td></tr>
+<tr class="separator:a81e71f6e78e8c715899c85dcb9423589"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="a781aff1ceb2f4e26bcf801e9ab81bf3e" name="a781aff1ceb2f4e26bcf801e9ab81bf3e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a781aff1ceb2f4e26bcf801e9ab81bf3e">&#9670;&#160;</a></span>SetUp()</h2>
+<div class="textblock"><p >Test context for proc simulation scenarios. </p>
+</div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="aba69369df56d3d631a9a62bcde791537" name="aba69369df56d3d631a9a62bcde791537"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aba69369df56d3d631a9a62bcde791537">&#9670;&#160;</a></span>ProcTestScenario()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -154,7 +162,7 @@ Static Protected Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void anonymous_namespace{RBACTest.cpp}::RBACGetPermissionsTest::SetUp </td>
+          <td class="memname">ProcTestScenario::ProcTestScenario </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -162,38 +170,18 @@ Static Protected Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">protected</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  797</span>    {</div>
-<div class="line"><span class="lineno">  798</span>        <a class="code hl_define" href="../../dd/d9a/a02699.html#aea3ae93168116461b6c0a7a984112175">sAccountMgr</a>-&gt;AddPermissionForTest(<a class="code hl_variable" href="../../d6/d77/a29787.html#a4cf88cb08e4248c973e96009b7c5e225">PERM_A</a>, <span class="stringliteral">&quot;Permission A&quot;</span>);</div>
-<div class="line"><span class="lineno">  799</span>        <a class="code hl_define" href="../../dd/d9a/a02699.html#aea3ae93168116461b6c0a7a984112175">sAccountMgr</a>-&gt;AddPermissionForTest(<a class="code hl_variable" href="../../d6/d77/a29787.html#a358884a8d08637d7358803127c87c808">PERM_B</a>, <span class="stringliteral">&quot;Permission B&quot;</span>);</div>
-<div class="line"><span class="lineno">  800</span>        <a class="code hl_define" href="../../dd/d9a/a02699.html#aea3ae93168116461b6c0a7a984112175">sAccountMgr</a>-&gt;AddPermissionForTest(<a class="code hl_variable" href="../../d6/d77/a29787.html#a34fc88e7d7566ed4d64005535d0a3122">PERM_C</a>, <span class="stringliteral">&quot;Permission C&quot;</span>);</div>
-<div class="line"><span class="lineno">  801</span>        <a class="code hl_define" href="../../dd/d9a/a02699.html#aea3ae93168116461b6c0a7a984112175">sAccountMgr</a>-&gt;AddPermissionForTest(<a class="code hl_variable" href="../../d6/d77/a29787.html#abe95477afdf283e406df55eac7f146cf">ROLE_R</a>, <span class="stringliteral">&quot;Role R&quot;</span>);</div>
-<div class="line"><span class="lineno">  802</span> </div>
-<div class="line"><span class="lineno">  803</span>        <a class="code hl_define" href="../../dd/d9a/a02699.html#aea3ae93168116461b6c0a7a984112175">sAccountMgr</a>-&gt;AddLinkedPermissionForTest(<a class="code hl_variable" href="../../d6/d77/a29787.html#abe95477afdf283e406df55eac7f146cf">ROLE_R</a>, <a class="code hl_variable" href="../../d6/d77/a29787.html#a4cf88cb08e4248c973e96009b7c5e225">PERM_A</a>);</div>
-<div class="line"><span class="lineno">  804</span>        <a class="code hl_define" href="../../dd/d9a/a02699.html#aea3ae93168116461b6c0a7a984112175">sAccountMgr</a>-&gt;AddLinkedPermissionForTest(<a class="code hl_variable" href="../../d6/d77/a29787.html#abe95477afdf283e406df55eac7f146cf">ROLE_R</a>, <a class="code hl_variable" href="../../d6/d77/a29787.html#a358884a8d08637d7358803127c87c808">PERM_B</a>);</div>
-<div class="line"><span class="lineno">  805</span> </div>
-<div class="line"><span class="lineno">  806</span>        <a class="code hl_variable" href="../../d6/d77/a29787.html#af35ce1e4fa3d4123358a098cb5afb2af">rbacData</a> = std::make_unique&lt;rbac::RBACData&gt;(<a class="code hl_variable" href="../../d8/d35/a05178.html#a0cc95e431d4ed18ceb67453302faf112">TEST_ACCOUNT_ID</a>, <a class="code hl_variable" href="../../d8/d35/a05178.html#ab160d66a2d03eb7988c6d49a4de91c03">TEST_ACCOUNT_NAME</a>, <a class="code hl_variable" href="../../d8/d35/a05178.html#a011747186a7affd435b8d1cae90caee9">TEST_REALM_ID</a>, <a class="code hl_variable" href="../../d8/d35/a05178.html#ab633336fb16c240b07928be7a8bfb267">TEST_SEC_LEVEL</a>);</div>
-<div class="line"><span class="lineno">  807</span>    }</div>
-<div class="ttc" id="aa02699_html_aea3ae93168116461b6c0a7a984112175"><div class="ttname"><a href="../../dd/d9a/a02699.html#aea3ae93168116461b6c0a7a984112175">sAccountMgr</a></div><div class="ttdeci">#define sAccountMgr</div><div class="ttdef"><b>Definition:</b> AccountMgr.h:93</div></div>
-<div class="ttc" id="aa05178_html_a011747186a7affd435b8d1cae90caee9"><div class="ttname"><a href="../../d8/d35/a05178.html#a011747186a7affd435b8d1cae90caee9">anonymous_namespace{RBACTest.cpp}::TEST_REALM_ID</a></div><div class="ttdeci">constexpr uint32 TEST_REALM_ID</div><div class="ttdef"><b>Definition:</b> RBACTest.cpp:46</div></div>
-<div class="ttc" id="aa05178_html_a0cc95e431d4ed18ceb67453302faf112"><div class="ttname"><a href="../../d8/d35/a05178.html#a0cc95e431d4ed18ceb67453302faf112">anonymous_namespace{RBACTest.cpp}::TEST_ACCOUNT_ID</a></div><div class="ttdeci">constexpr uint32 TEST_ACCOUNT_ID</div><div class="ttdef"><b>Definition:</b> RBACTest.cpp:45</div></div>
-<div class="ttc" id="aa05178_html_ab160d66a2d03eb7988c6d49a4de91c03"><div class="ttname"><a href="../../d8/d35/a05178.html#ab160d66a2d03eb7988c6d49a4de91c03">anonymous_namespace{RBACTest.cpp}::TEST_ACCOUNT_NAME</a></div><div class="ttdeci">const std::string TEST_ACCOUNT_NAME</div><div class="ttdef"><b>Definition:</b> RBACTest.cpp:48</div></div>
-<div class="ttc" id="aa05178_html_ab633336fb16c240b07928be7a8bfb267"><div class="ttname"><a href="../../d8/d35/a05178.html#ab633336fb16c240b07928be7a8bfb267">anonymous_namespace{RBACTest.cpp}::TEST_SEC_LEVEL</a></div><div class="ttdeci">constexpr uint8 TEST_SEC_LEVEL</div><div class="ttdef"><b>Definition:</b> RBACTest.cpp:47</div></div>
-<div class="ttc" id="aa29787_html_a34fc88e7d7566ed4d64005535d0a3122"><div class="ttname"><a href="../../d6/d77/a29787.html#a34fc88e7d7566ed4d64005535d0a3122">anonymous_namespace{RBACTest.cpp}::RBACGetPermissionsTest::PERM_C</a></div><div class="ttdeci">static constexpr uint32 PERM_C</div><div class="ttdef"><b>Definition:</b> RBACTest.cpp:793</div></div>
-<div class="ttc" id="aa29787_html_a358884a8d08637d7358803127c87c808"><div class="ttname"><a href="../../d6/d77/a29787.html#a358884a8d08637d7358803127c87c808">anonymous_namespace{RBACTest.cpp}::RBACGetPermissionsTest::PERM_B</a></div><div class="ttdeci">static constexpr uint32 PERM_B</div><div class="ttdef"><b>Definition:</b> RBACTest.cpp:792</div></div>
-<div class="ttc" id="aa29787_html_a4cf88cb08e4248c973e96009b7c5e225"><div class="ttname"><a href="../../d6/d77/a29787.html#a4cf88cb08e4248c973e96009b7c5e225">anonymous_namespace{RBACTest.cpp}::RBACGetPermissionsTest::PERM_A</a></div><div class="ttdeci">static constexpr uint32 PERM_A</div><div class="ttdef"><b>Definition:</b> RBACTest.cpp:791</div></div>
-<div class="ttc" id="aa29787_html_abe95477afdf283e406df55eac7f146cf"><div class="ttname"><a href="../../d6/d77/a29787.html#abe95477afdf283e406df55eac7f146cf">anonymous_namespace{RBACTest.cpp}::RBACGetPermissionsTest::ROLE_R</a></div><div class="ttdeci">static constexpr uint32 ROLE_R</div><div class="ttdef"><b>Definition:</b> RBACTest.cpp:794</div></div>
-<div class="ttc" id="aa29787_html_af35ce1e4fa3d4123358a098cb5afb2af"><div class="ttname"><a href="../../d6/d77/a29787.html#af35ce1e4fa3d4123358a098cb5afb2af">anonymous_namespace{RBACTest.cpp}::RBACGetPermissionsTest::rbacData</a></div><div class="ttdeci">std::unique_ptr&lt; rbac::RBACData &gt; rbacData</div><div class="ttdef"><b>Definition:</b> RBACTest.cpp:814</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  615</span>: <a class="code hl_variable" href="../../d6/d77/a29787.html#ae20c57ecb893219e52fe055d1662e527">_now</a>(std::chrono::steady_clock::now()) {}</div>
+<div class="ttc" id="aa29787_html_ae20c57ecb893219e52fe055d1662e527"><div class="ttname"><a href="../../d6/d77/a29787.html#ae20c57ecb893219e52fe055d1662e527">ProcTestScenario::_now</a></div><div class="ttdeci">std::chrono::steady_clock::time_point _now</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:687</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00093">sAccountMgr</a>, <a class="el" href="../../#l00045">anonymous_namespace{RBACTest.cpp}::TEST_ACCOUNT_ID</a>, <a class="el" href="../../#l00048">anonymous_namespace{RBACTest.cpp}::TEST_ACCOUNT_NAME</a>, <a class="el" href="../../#l00046">anonymous_namespace{RBACTest.cpp}::TEST_REALM_ID</a>, and <a class="el" href="../../#l00047">anonymous_namespace{RBACTest.cpp}::TEST_SEC_LEVEL</a>.</p>
-
 </div>
 </div>
-<a id="a4554349a2712a018d16de6a8ae9f50ff" name="a4554349a2712a018d16de6a8ae9f50ff"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4554349a2712a018d16de6a8ae9f50ff">&#9670;&#160;</a></span>TearDown()</h2>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a3b6e8c7f5207be98b7696b478559b24a" name="a3b6e8c7f5207be98b7696b478559b24a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3b6e8c7f5207be98b7696b478559b24a">&#9670;&#160;</a></span>AdvanceTime()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -202,7 +190,40 @@ Static Protected Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void anonymous_namespace{RBACTest.cpp}::RBACGetPermissionsTest::TearDown </td>
+          <td class="memname">void ProcTestScenario::AdvanceTime </td>
+          <td>(</td>
+          <td class="paramtype">std::chrono::milliseconds&#160;</td>
+          <td class="paramname"><em>duration</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  619</span>    {</div>
+<div class="line"><span class="lineno">  620</span>        <a class="code hl_variable" href="../../d6/d77/a29787.html#ae20c57ecb893219e52fe055d1662e527">_now</a> += duration;</div>
+<div class="line"><span class="lineno">  621</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00687">_now</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00383">TEST_F()</a>, and <a class="el" href="../../#l00093">TEST_P()</a>.</p>
+
+</div>
+</div>
+<a id="a52dcbfa52c49f54ce29cb73253746f70" name="a52dcbfa52c49f54ce29cb73253746f70"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a52dcbfa52c49f54ce29cb73253746f70">&#9670;&#160;</a></span>GetActor() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d6/dd5/a29831.html">UnitStub</a> &amp; ProcTestScenario::GetActor </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -210,21 +231,313 @@ Static Protected Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">protected</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  810</span>    {</div>
-<div class="line"><span class="lineno">  811</span>        <a class="code hl_define" href="../../dd/d9a/a02699.html#aea3ae93168116461b6c0a7a984112175">sAccountMgr</a>-&gt;ClearPermissionsForTest();</div>
-<div class="line"><span class="lineno">  812</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  626</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d6/d77/a29787.html#a8928fbb771f94e66af2a24c6c2a3351d">_actor</a>; }</div>
+<div class="ttc" id="aa29787_html_a8928fbb771f94e66af2a24c6c2a3351d"><div class="ttname"><a href="../../d6/d77/a29787.html#a8928fbb771f94e66af2a24c6c2a3351d">ProcTestScenario::_actor</a></div><div class="ttdeci">UnitStub _actor</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:688</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00093">sAccountMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00688">_actor</a>.</p>
+
+</div>
+</div>
+<a id="a7b2084c740b51289f6e2f7ec74dacf17" name="a7b2084c740b51289f6e2f7ec74dacf17"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7b2084c740b51289f6e2f7ec74dacf17">&#9670;&#160;</a></span>GetActor() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d6/dd5/a29831.html">UnitStub</a> const  &amp; ProcTestScenario::GetActor </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  627</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d6/d77/a29787.html#a8928fbb771f94e66af2a24c6c2a3351d">_actor</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00688">_actor</a>.</p>
+
+</div>
+</div>
+<a id="aa5e30fdf4a8b4912a48ce12aa7763624" name="aa5e30fdf4a8b4912a48ce12aa7763624"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa5e30fdf4a8b4912a48ce12aa7763624">&#9670;&#160;</a></span>GetAura()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::unique_ptr&lt; <a class="el" href="../../db/d80/a29723.html">AuraStub</a> &gt; &amp; ProcTestScenario::GetAura </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  642</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d6/d77/a29787.html#a81e71f6e78e8c715899c85dcb9423589">_aura</a>; }</div>
+<div class="ttc" id="aa29787_html_a81e71f6e78e8c715899c85dcb9423589"><div class="ttname"><a href="../../d6/d77/a29787.html#a81e71f6e78e8c715899c85dcb9423589">ProcTestScenario::_aura</a></div><div class="ttdeci">std::unique_ptr&lt; AuraStub &gt; _aura</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:689</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00689">_aura</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00336">TEST_F()</a>.</p>
+
+</div>
+</div>
+<a id="a014a9082421c022c2fac91070f8f062e" name="a014a9082421c022c2fac91070f8f062e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a014a9082421c022c2fac91070f8f062e">&#9670;&#160;</a></span>GetNow()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::chrono::steady_clock::time_point ProcTestScenario::GetNow </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  623</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d6/d77/a29787.html#ae20c57ecb893219e52fe055d1662e527">_now</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00687">_now</a>.</p>
+
+</div>
+</div>
+<a id="af3f83abbfbd4a902689b232853fdbcfb" name="af3f83abbfbd4a902689b232853fdbcfb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af3f83abbfbd4a902689b232853fdbcfb">&#9670;&#160;</a></span>SimulateProc()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool ProcTestScenario::SimulateProc </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/d98/a12031.html">SpellProcEntry</a> const &amp;&#160;</td>
+          <td class="paramname"><em>procEntry</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>rollResult</em> = <code>0.0f</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  655</span>    {</div>
+<div class="line"><span class="lineno">  656</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d6/d77/a29787.html#a81e71f6e78e8c715899c85dcb9423589">_aura</a>)</div>
+<div class="line"><span class="lineno">  657</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  658</span> </div>
+<div class="line"><span class="lineno">  659</span>        <span class="comment">// Check cooldown</span></div>
+<div class="line"><span class="lineno">  660</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../dc/df3/a29755.html#af0ea5c345c43d31902bc9d55c2ac7308">ProcChanceTestHelper::IsProcOnCooldown</a>(<a class="code hl_variable" href="../../d6/d77/a29787.html#a81e71f6e78e8c715899c85dcb9423589">_aura</a>.get(), <a class="code hl_variable" href="../../d6/d77/a29787.html#ae20c57ecb893219e52fe055d1662e527">_now</a>))</div>
+<div class="line"><span class="lineno">  661</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  662</span> </div>
+<div class="line"><span class="lineno">  663</span>        <span class="comment">// Calculate chance</span></div>
+<div class="line"><span class="lineno">  664</span>        <span class="keywordtype">float</span> chance = <a class="code hl_function" href="../../dc/df3/a29755.html#a439a1b27d17320fdd1769859d7a35eb1">ProcChanceTestHelper::SimulateCalcProcChance</a>(</div>
+<div class="line"><span class="lineno">  665</span>            procEntry,</div>
+<div class="line"><span class="lineno">  666</span>            <a class="code hl_variable" href="../../d6/d77/a29787.html#a8928fbb771f94e66af2a24c6c2a3351d">_actor</a>.<a class="code hl_function" href="../../d6/dd5/a29831.html#a13a8e1fa7798321d2e7eb72face84c5a">GetLevel</a>(),</div>
+<div class="line"><span class="lineno">  667</span>            <a class="code hl_variable" href="../../d6/d77/a29787.html#a8928fbb771f94e66af2a24c6c2a3351d">_actor</a>.<a class="code hl_function" href="../../d6/dd5/a29831.html#a1961efd1170eacb7f51132927f9e9684">GetAttackTime</a>(0));</div>
+<div class="line"><span class="lineno">  668</span> </div>
+<div class="line"><span class="lineno">  669</span>        <span class="comment">// Roll check (rollResult of 0 means always pass)</span></div>
+<div class="line"><span class="lineno">  670</span>        <span class="keywordflow">if</span> (rollResult &gt; 0.0f &amp;&amp; rollResult &gt; chance)</div>
+<div class="line"><span class="lineno">  671</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  672</span> </div>
+<div class="line"><span class="lineno">  673</span>        <span class="comment">// Apply cooldown if set</span></div>
+<div class="line"><span class="lineno">  674</span>        <span class="keywordflow">if</span> (procEntry.Cooldown.count() &gt; 0)</div>
+<div class="line"><span class="lineno">  675</span>        {</div>
+<div class="line"><span class="lineno">  676</span>            <a class="code hl_function" href="../../dc/df3/a29755.html#a57d351c38a433d00432bbb97a40b6a27">ProcChanceTestHelper::ApplyProcCooldown</a>(<a class="code hl_variable" href="../../d6/d77/a29787.html#a81e71f6e78e8c715899c85dcb9423589">_aura</a>.get(), <a class="code hl_variable" href="../../d6/d77/a29787.html#ae20c57ecb893219e52fe055d1662e527">_now</a>,</div>
+<div class="line"><span class="lineno">  677</span>                <span class="keyword">static_cast&lt;</span><a class="code hl_typedef" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a><span class="keyword">&gt;</span>(procEntry.Cooldown.count()));</div>
+<div class="line"><span class="lineno">  678</span>        }</div>
+<div class="line"><span class="lineno">  679</span> </div>
+<div class="line"><span class="lineno">  680</span>        <span class="comment">// Consume charges</span></div>
+<div class="line"><span class="lineno">  681</span>        <a class="code hl_function" href="../../dc/df3/a29755.html#a23aff9444cb03891a4d5c4cabad28610">ProcChanceTestHelper::SimulateConsumeProcCharges</a>(<a class="code hl_variable" href="../../d6/d77/a29787.html#a81e71f6e78e8c715899c85dcb9423589">_aura</a>.get(), procEntry);</div>
+<div class="line"><span class="lineno">  682</span> </div>
+<div class="line"><span class="lineno">  683</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  684</span>    }</div>
+<div class="ttc" id="aa04679_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa29755_html_a23aff9444cb03891a4d5c4cabad28610"><div class="ttname"><a href="../../dc/df3/a29755.html#a23aff9444cb03891a4d5c4cabad28610">ProcChanceTestHelper::SimulateConsumeProcCharges</a></div><div class="ttdeci">static bool SimulateConsumeProcCharges(AuraStub *aura, SpellProcEntry const &amp;procEntry)</div><div class="ttdoc">Simulate charge consumption from ConsumeProcCharges()</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:121</div></div>
+<div class="ttc" id="aa29755_html_a439a1b27d17320fdd1769859d7a35eb1"><div class="ttname"><a href="../../dc/df3/a29755.html#a439a1b27d17320fdd1769859d7a35eb1">ProcChanceTestHelper::SimulateCalcProcChance</a></div><div class="ttdeci">static float SimulateCalcProcChance(SpellProcEntry const &amp;procEntry, uint32 actorLevel=80, uint32 weaponSpeed=2500, float chanceModifier=0.0f, float ppmModifier=0.0f, bool hasDamageInfo=true, bool hasHealInfo=false)</div><div class="ttdoc">Simulate CalcProcChance() from SpellAuras.cpp.</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:85</div></div>
+<div class="ttc" id="aa29755_html_a57d351c38a433d00432bbb97a40b6a27"><div class="ttname"><a href="../../dc/df3/a29755.html#a57d351c38a433d00432bbb97a40b6a27">ProcChanceTestHelper::ApplyProcCooldown</a></div><div class="ttdeci">static void ApplyProcCooldown(AuraStub *aura, std::chrono::steady_clock::time_point now, uint32 cooldownMs)</div><div class="ttdoc">Apply proc cooldown to aura.</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:163</div></div>
+<div class="ttc" id="aa29755_html_af0ea5c345c43d31902bc9d55c2ac7308"><div class="ttname"><a href="../../dc/df3/a29755.html#af0ea5c345c43d31902bc9d55c2ac7308">ProcChanceTestHelper::IsProcOnCooldown</a></div><div class="ttdeci">static bool IsProcOnCooldown(AuraStub const *aura, std::chrono::steady_clock::time_point now)</div><div class="ttdoc">Check if proc is on cooldown.</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:149</div></div>
+<div class="ttc" id="aa29831_html_a13a8e1fa7798321d2e7eb72face84c5a"><div class="ttname"><a href="../../d6/dd5/a29831.html#a13a8e1fa7798321d2e7eb72face84c5a">UnitStub::GetLevel</a></div><div class="ttdeci">virtual uint8_t GetLevel() const</div><div class="ttdef"><b>Definition:</b> UnitStub.h:201</div></div>
+<div class="ttc" id="aa29831_html_a1961efd1170eacb7f51132927f9e9684"><div class="ttname"><a href="../../d6/dd5/a29831.html#a1961efd1170eacb7f51132927f9e9684">UnitStub::GetAttackTime</a></div><div class="ttdeci">virtual uint32_t GetAttackTime(uint8_t attType) const</div><div class="ttdef"><b>Definition:</b> UnitStub.h:122</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00688">_actor</a>, <a class="el" href="../../#l00689">_aura</a>, <a class="el" href="../../#l00687">_now</a>, <a class="el" href="../../#l00163">ProcChanceTestHelper::ApplyProcCooldown()</a>, <a class="el" href="../../#l00298">SpellProcEntry::Cooldown</a>, <a class="el" href="../../#l00122">UnitStub::GetAttackTime()</a>, <a class="el" href="../../#l00201">UnitStub::GetLevel()</a>, <a class="el" href="../../#l00149">ProcChanceTestHelper::IsProcOnCooldown()</a>, <a class="el" href="../../#l00085">ProcChanceTestHelper::SimulateCalcProcChance()</a>, and <a class="el" href="../../#l00121">ProcChanceTestHelper::SimulateConsumeProcCharges()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00336">TEST_F()</a>, and <a class="el" href="../../#l00093">TEST_P()</a>.</p>
+
+</div>
+</div>
+<a id="ad0ca3530818d3091ab420bd76aab8dcb" name="ad0ca3530818d3091ab420bd76aab8dcb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad0ca3530818d3091ab420bd76aab8dcb">&#9670;&#160;</a></span>WithActorLevel()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d6/d77/a29787.html">ProcTestScenario</a> &amp; ProcTestScenario::WithActorLevel </td>
+          <td>(</td>
+          <td class="paramtype">uint8_t&#160;</td>
+          <td class="paramname"><em>level</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  630</span>    {</div>
+<div class="line"><span class="lineno">  631</span>        <a class="code hl_variable" href="../../d6/d77/a29787.html#a8928fbb771f94e66af2a24c6c2a3351d">_actor</a>.<a class="code hl_function" href="../../d6/dd5/a29831.html#a742760c2ff47e56894807b5b1f44261e">SetLevel</a>(level);</div>
+<div class="line"><span class="lineno">  632</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">  633</span>    }</div>
+<div class="ttc" id="aa29831_html_a742760c2ff47e56894807b5b1f44261e"><div class="ttname"><a href="../../d6/dd5/a29831.html#a742760c2ff47e56894807b5b1f44261e">UnitStub::SetLevel</a></div><div class="ttdeci">void SetLevel(uint8_t level)</div><div class="ttdef"><b>Definition:</b> UnitStub.h:204</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00688">_actor</a>, and <a class="el" href="../../#l00204">UnitStub::SetLevel()</a>.</p>
+
+</div>
+</div>
+<a id="a6c6dc6438b7503dcda2a89f1e53bc324" name="a6c6dc6438b7503dcda2a89f1e53bc324"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6c6dc6438b7503dcda2a89f1e53bc324">&#9670;&#160;</a></span>WithAura()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d6/d77/a29787.html">ProcTestScenario</a> &amp; ProcTestScenario::WithAura </td>
+          <td>(</td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>spellId</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">uint8_t&#160;</td>
+          <td class="paramname"><em>charges</em> = <code>0</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">uint8_t&#160;</td>
+          <td class="paramname"><em>stacks</em> = <code>1</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  645</span>    {</div>
+<div class="line"><span class="lineno">  646</span>        <a class="code hl_variable" href="../../d6/d77/a29787.html#a81e71f6e78e8c715899c85dcb9423589">_aura</a> = std::make_unique&lt;AuraStub&gt;(spellId);</div>
+<div class="line"><span class="lineno">  647</span>        <a class="code hl_variable" href="../../d6/d77/a29787.html#a81e71f6e78e8c715899c85dcb9423589">_aura</a>-&gt;SetCharges(charges);</div>
+<div class="line"><span class="lineno">  648</span>        <a class="code hl_variable" href="../../d6/d77/a29787.html#a81e71f6e78e8c715899c85dcb9423589">_aura</a>-&gt;SetUsingCharges(charges &gt; 0);</div>
+<div class="line"><span class="lineno">  649</span>        <a class="code hl_variable" href="../../d6/d77/a29787.html#a81e71f6e78e8c715899c85dcb9423589">_aura</a>-&gt;SetStackAmount(stacks);</div>
+<div class="line"><span class="lineno">  650</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">  651</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00689">_aura</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00336">TEST_F()</a>, and <a class="el" href="../../#l00093">TEST_P()</a>.</p>
+
+</div>
+</div>
+<a id="a05d00a17b60c3fd94e85c75d896ca2bb" name="a05d00a17b60c3fd94e85c75d896ca2bb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a05d00a17b60c3fd94e85c75d896ca2bb">&#9670;&#160;</a></span>WithWeaponSpeed()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d6/d77/a29787.html">ProcTestScenario</a> &amp; ProcTestScenario::WithWeaponSpeed </td>
+          <td>(</td>
+          <td class="paramtype">uint8_t&#160;</td>
+          <td class="paramname"><em>attackType</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>speed</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  636</span>    {</div>
+<div class="line"><span class="lineno">  637</span>        <a class="code hl_variable" href="../../d6/d77/a29787.html#a8928fbb771f94e66af2a24c6c2a3351d">_actor</a>.<a class="code hl_function" href="../../d6/dd5/a29831.html#aff27fef205b732052ca9bc12360624cb">SetAttackTime</a>(attackType, speed);</div>
+<div class="line"><span class="lineno">  638</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">  639</span>    }</div>
+<div class="ttc" id="aa29831_html_aff27fef205b732052ca9bc12360624cb"><div class="ttname"><a href="../../d6/dd5/a29831.html#aff27fef205b732052ca9bc12360624cb">UnitStub::SetAttackTime</a></div><div class="ttdeci">void SetAttackTime(uint8_t attType, uint32_t time)</div><div class="ttdef"><b>Definition:</b> UnitStub.h:127</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00688">_actor</a>, and <a class="el" href="../../#l00127">UnitStub::SetAttackTime()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a4cf88cb08e4248c973e96009b7c5e225" name="a4cf88cb08e4248c973e96009b7c5e225"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4cf88cb08e4248c973e96009b7c5e225">&#9670;&#160;</a></span>PERM_A</h2>
+<a id="a8928fbb771f94e66af2a24c6c2a3351d" name="a8928fbb771f94e66af2a24c6c2a3351d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8928fbb771f94e66af2a24c6c2a3351d">&#9670;&#160;</a></span>_actor</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -233,20 +546,22 @@ Static Protected Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">constexpr <a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> anonymous_namespace{RBACTest.cpp}::RBACGetPermissionsTest::PERM_A = 10</td>
+          <td class="memname"><a class="el" href="../../d6/dd5/a29831.html">UnitStub</a> ProcTestScenario::_actor</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">constexpr</span><span class="mlabel">protected</span></span>  </td>
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
+<p class="reference">Referenced by <a class="el" href="../../#l00626">GetActor()</a>, <a class="el" href="../../#l00654">SimulateProc()</a>, <a class="el" href="../../#l00629">WithActorLevel()</a>, and <a class="el" href="../../#l00635">WithWeaponSpeed()</a>.</p>
+
 </div>
 </div>
-<a id="a358884a8d08637d7358803127c87c808" name="a358884a8d08637d7358803127c87c808"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a358884a8d08637d7358803127c87c808">&#9670;&#160;</a></span>PERM_B</h2>
+<a id="a81e71f6e78e8c715899c85dcb9423589" name="a81e71f6e78e8c715899c85dcb9423589"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a81e71f6e78e8c715899c85dcb9423589">&#9670;&#160;</a></span>_aura</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -255,20 +570,22 @@ Static Protected Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">constexpr <a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> anonymous_namespace{RBACTest.cpp}::RBACGetPermissionsTest::PERM_B = 11</td>
+          <td class="memname">std::unique_ptr&lt;<a class="el" href="../../db/d80/a29723.html">AuraStub</a>&gt; ProcTestScenario::_aura</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">constexpr</span><span class="mlabel">protected</span></span>  </td>
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
+<p class="reference">Referenced by <a class="el" href="../../#l00642">GetAura()</a>, <a class="el" href="../../#l00654">SimulateProc()</a>, and <a class="el" href="../../#l00644">WithAura()</a>.</p>
+
 </div>
 </div>
-<a id="a34fc88e7d7566ed4d64005535d0a3122" name="a34fc88e7d7566ed4d64005535d0a3122"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a34fc88e7d7566ed4d64005535d0a3122">&#9670;&#160;</a></span>PERM_C</h2>
+<a id="ae20c57ecb893219e52fe055d1662e527" name="ae20c57ecb893219e52fe055d1662e527"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae20c57ecb893219e52fe055d1662e527">&#9670;&#160;</a></span>_now</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -277,59 +594,17 @@ Static Protected Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">constexpr <a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> anonymous_namespace{RBACTest.cpp}::RBACGetPermissionsTest::PERM_C = 12</td>
+          <td class="memname">std::chrono::steady_clock::time_point ProcTestScenario::_now</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">constexpr</span><span class="mlabel">protected</span></span>  </td>
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
-</div>
-</div>
-<a id="af35ce1e4fa3d4123358a098cb5afb2af" name="af35ce1e4fa3d4123358a098cb5afb2af"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af35ce1e4fa3d4123358a098cb5afb2af">&#9670;&#160;</a></span>rbacData</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::unique_ptr&lt;<a class="el" href="../../db/d7f/a06315.html">rbac::RBACData</a>&gt; anonymous_namespace{RBACTest.cpp}::RBACGetPermissionsTest::rbacData</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="abe95477afdf283e406df55eac7f146cf" name="abe95477afdf283e406df55eac7f146cf"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abe95477afdf283e406df55eac7f146cf">&#9670;&#160;</a></span>ROLE_R</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">constexpr <a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> anonymous_namespace{RBACTest.cpp}::RBACGetPermissionsTest::ROLE_R = 100</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">constexpr</span><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
+<p class="reference">Referenced by <a class="el" href="../../#l00618">AdvanceTime()</a>, <a class="el" href="../../#l00623">GetNow()</a>, and <a class="el" href="../../#l00654">SimulateProc()</a>.</p>
 
 </div>
 </div>
@@ -338,8 +613,8 @@ Static Protected Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d8/d35/a05178.html">anonymous_namespace{RBACTest.cpp}</a></li><li class="navelem"><a class="el" href="../../d6/d77/a29787.html">RBACGetPermissionsTest</a></li>
-    <li class="footer">Generated on Tue Sep 1 2026 00:10:10 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d6/d77/a29787.html">ProcTestScenario</a></li>
+    <li class="footer">Generated on Mon Sep 21 2026 23:34:23 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

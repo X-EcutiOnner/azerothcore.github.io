@@ -1,8 +1,8 @@
 var a19751 =
 [
-    [ "Load", "d2/def/a19751.html#af8ef90a44a5405e58dbb3003642c078b", null ],
-    [ "PrepareSpellScript", "d2/def/a19751.html#a40649371440d62e4ba8af1b077880d0b", null ],
-    [ "Register", "d2/def/a19751.html#ae2e6dbec0ace878477b6024e45d8dac0", null ],
-    [ "SendThreeTargets", "d2/def/a19751.html#ab16b83839ce9136da84691640020f846", null ],
-    [ "Validate", "d2/def/a19751.html#a27686bfd0d6029cc4667738b0af4bec4", null ]
+    [ "HandleAfterCast", "d2/def/a19751.html#ac816f81a668ac3018be8f5dc4698039b", null ],
+    [ "HandleDummy", "d2/def/a19751.html#a3009faa525c22779a0b2534b96821cfd", null ],
+    [ "PrepareSpellScript", "d2/def/a19751.html#aca38f23f080314ab73ec2494bf877716", null ],
+    [ "Register", "d2/def/a19751.html#aa87e57dabec6e83029f4dd84913f22ca", null ],
+    [ "Validate", "d2/def/a19751.html#af945e399992deb3aef5c81ad393ee50f", null ]
 ];

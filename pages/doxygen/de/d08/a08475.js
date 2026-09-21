@@ -1,7 +1,10 @@
 var a08475 =
 [
-    [ "VendorItemCount", "de/d08/a08475.html#abdf2d2900f75bb2b8d9727bab8fcbbc3", null ],
-    [ "count", "de/d08/a08475.html#aff4c062138792ffb37dadb19b725c87c", null ],
-    [ "itemId", "de/d08/a08475.html#a225158bbb56d6666ba4918155f08f993", null ],
-    [ "lastIncrementTime", "de/d08/a08475.html#a0b88ba4ea590abbdc9234ff4a2a335fa", null ]
+    [ "AssistDelayEvent", "de/d08/a08475.html#a022b9cf38b8e059df2dceca38e366b7d", null ],
+    [ "AssistDelayEvent", "de/d08/a08475.html#a5371fc2a2f9334b821058b96d0c6bc13", null ],
+    [ "AddAssistant", "de/d08/a08475.html#a987303ec41927528e9a5abfd9ab75512", null ],
+    [ "Execute", "de/d08/a08475.html#a5afd295abeb1295e43f48b8951b24c35", null ],
+    [ "m_assistants", "de/d08/a08475.html#ac6de6befda582bd38f92afda01204e94", null ],
+    [ "m_owner", "de/d08/a08475.html#aabcce364c8009e8172b9d090059ce48c", null ],
+    [ "m_victim", "de/d08/a08475.html#a47aff9ce39f5fec3718d6564e53b799e", null ]
 ];

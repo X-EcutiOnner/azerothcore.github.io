@@ -1,6 +1,10 @@
 var a25111 =
 [
-    [ "CheckProc", "dd/dc8/a25111.html#af742bdfd97c9202d50ed7aa1cf8e7d49", null ],
-    [ "PrepareAuraScript", "dd/dc8/a25111.html#a255a58ad99059ba28ab09a94e7cc683a", null ],
-    [ "Register", "dd/dc8/a25111.html#a4ec4dd2342a5b75c975dc6ffe0b02b79", null ]
+    [ "HandleTickUpdate", "dd/dc8/a25111.html#aa9c1d6c644a3e42b21d1025fc3b06f69", null ],
+    [ "PrepareAuraScript", "dd/dc8/a25111.html#aa930d63d22acf8e7aebbdd828cd09f36", null ],
+    [ "Register", "dd/dc8/a25111.html#abf597eb55f63858528325eef387fc344", null ],
+    [ "SetTickHeal", "dd/dc8/a25111.html#a2eabcc9aa3898c11062677eca73d1de1", null ],
+    [ "Validate", "dd/dc8/a25111.html#ab59a1830ca97e1bda455da330a894d5c", null ],
+    [ "_baseReduction", "dd/dc8/a25111.html#a8a3a8adce3dde9300e380500c6877d37", null ],
+    [ "_baseTick", "dd/dc8/a25111.html#acd801570e2a1b274ed0d9e8bcc6b66f0", null ]
 ];

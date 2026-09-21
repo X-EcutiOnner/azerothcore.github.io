@@ -1,6 +1,7 @@
 var a13151 =
 [
-    [ "instance_gnomeregan_InstanceMapScript", "da/dbf/a13155.html", "da/dbf/a13155" ],
-    [ "instance_gnomeregan", "dd/dfd/a13151.html#a3fca2b3399f41e88c0c30ae05763a09c", null ],
-    [ "GetInstanceScript", "dd/dfd/a13151.html#ad2130ba5eb3cd37cd2cc464a62381eda", null ]
+    [ "HandleHit", "dd/dfd/a13151.html#a87777dce0e2bf1deba600b3ae7ce6b9c", null ],
+    [ "Load", "dd/dfd/a13151.html#ab61b4076aab18c0a6593c234209a2c1d", null ],
+    [ "PrepareSpellScript", "dd/dfd/a13151.html#a9fb8d980381264a2ef645f2e620abd21", null ],
+    [ "Register", "dd/dfd/a13151.html#a4998015873f0e0ca768c20b0f95fda90", null ]
 ];

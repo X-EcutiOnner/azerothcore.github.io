@@ -1,6 +1,6 @@
 var a23335 =
 [
-    [ "HandleEffectRemove", "dc/d95/a23335.html#ab4c215a735ead9959fd78972a6da72e4", null ],
-    [ "PrepareAuraScript", "dc/d95/a23335.html#a75be2f838d6773b619dfac80e32557b8", null ],
-    [ "Register", "dc/d95/a23335.html#a239068b4e4ad88b5be93a031043ad7ca", null ]
+    [ "HandleEffectRemove", "dc/d95/a23335.html#adfbbb75ace34ab5c0fec35e6aa88505a", null ],
+    [ "PrepareAuraScript", "dc/d95/a23335.html#a94b91d27b9a218b5fdce91d6a6e72f62", null ],
+    [ "Register", "dc/d95/a23335.html#a2b7fb2d6d0f92a970a45e0b9c409408d", null ]
 ];

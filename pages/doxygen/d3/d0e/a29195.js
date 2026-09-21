@@ -1,7 +1,7 @@
 var a29195 =
 [
-    [ "EmoteType", "d3/d0e/a29195.html#a2d319652021081fdb02472c32a28e318", null ],
-    [ "Flags", "d3/d0e/a29195.html#aa1794d3ffd7f7da82f5754e1be580fe9", null ],
-    [ "Id", "d3/d0e/a29195.html#a3b3b641fbdb8dc88afc2421e358a75a1", null ],
-    [ "UnitStandState", "d3/d0e/a29195.html#ada83e548faa01917a5db19eaa15dbbec", null ]
+    [ "cutPercent", "d3/d0e/a29195.html#a8581a6a5198dab10680f477a477a7c80", null ],
+    [ "depositPercent", "d3/d0e/a29195.html#af7bb868f1a1e8d570ce7b6cb10ad87d9", null ],
+    [ "faction", "d3/d0e/a29195.html#a4b857e3c4c333b2a86f7f5d08bcc883d", null ],
+    [ "houseId", "d3/d0e/a29195.html#a1bf77c1b14731def0e3de44143df2eed", null ]
 ];

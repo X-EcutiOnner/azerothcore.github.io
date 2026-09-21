@@ -1,8 +1,6 @@
 var a21083 =
 [
-    [ "FilterTargets", "d7/dd1/a21083.html#a45d300e8cb6fbc499345b3bb2fb0d34f", null ],
-    [ "HandleDummyEffect", "d7/dd1/a21083.html#ab1f662fa107d176386067ffc6467d90f", null ],
-    [ "PrepareSpellScript", "d7/dd1/a21083.html#a069cc54bf009830ad781c790b4fcedad", null ],
-    [ "Register", "d7/dd1/a21083.html#ac91532151b689bde35d7120b1e9aec5b", null ],
-    [ "Validate", "d7/dd1/a21083.html#ad225dcdb1325a855f1909a8c66ca577b", null ]
+    [ "boss_yoggsaron_death_orb", "d7/dd1/a21083.html#a8e967885da35381db767d941a2174a82", null ],
+    [ "IsSummonedBy", "d7/dd1/a21083.html#a86965a290bf5714fe5e81577ae80775a", null ],
+    [ "JustSummoned", "d7/dd1/a21083.html#a916588e3cdd0520fe5c1947a797c0042", null ]
 ];

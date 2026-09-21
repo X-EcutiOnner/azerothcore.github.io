@@ -1,7 +1,6 @@
 var a26055 =
 [
-    [ "HandleDummy", "d8/dd3/a26055.html#a7a8016e1403caa0432242c5c3240f107", null ],
-    [ "PrepareSpellScript", "d8/dd3/a26055.html#ae2d2de36cceb037006eb4126f8e1778c", null ],
-    [ "Register", "d8/dd3/a26055.html#abd09f5df3f31af619f24214f90791a53", null ],
-    [ "Validate", "d8/dd3/a26055.html#ab14aedfdb61d54334f60e57968fcf081", null ]
+    [ "HandlePeriodicTick", "d8/dd3/a26055.html#a1bd15727da421fdbfc3a60136bfa9bc9", null ],
+    [ "PrepareAuraScript", "d8/dd3/a26055.html#a1c4f592511c8886d0b9a5e64eb19cda7", null ],
+    [ "Register", "d8/dd3/a26055.html#ac019a52a6f62f1251d20efcfadba1e78", null ]
 ];

@@ -1,7 +1,6 @@
 var a27395 =
 [
-    [ "CalculateAmount", "d4/d81/a27395.html#aefeab4e58c1b5c1be87f583256d366f5", null ],
-    [ "Load", "d4/d81/a27395.html#ae2ef0eae77137c120ec61af8698677db", null ],
-    [ "PrepareAuraScript", "d4/d81/a27395.html#acaecc78c031aa436f432fd7145478de4", null ],
-    [ "Register", "d4/d81/a27395.html#afd27c8bc5fd1628b7e32bf464bfe3d48", null ]
+    [ "ModDest", "d4/d81/a27395.html#ab03387aec0a02a6b3bac1014443554b6", null ],
+    [ "PrepareSpellScript", "d4/d81/a27395.html#a53f7da301759fb18686bc73281c4a321", null ],
+    [ "Register", "d4/d81/a27395.html#a266198fbc6203517f9845ef6212ddf13", null ]
 ];

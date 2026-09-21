@@ -1,7 +1,6 @@
 var a19567 =
 [
-    [ "HandleScript", "d5/dea/a19567.html#a66db3976fe6ec7ee8712c5788ce5f3ec", null ],
-    [ "PrepareAuraScript", "d5/dea/a19567.html#aa3053519be0101f55450d76b1291f0f7", null ],
-    [ "Register", "d5/dea/a19567.html#ada596a7f19115c7178fd07fb9e956f58", null ],
-    [ "Validate", "d5/dea/a19567.html#a768dec18bc0e879c457a64135ec27ad9", null ]
+    [ "boss_gothikAI", "d2/d8a/a19571.html", "d2/d8a/a19571" ],
+    [ "boss_gothik", "d5/dea/a19567.html#a0c3ee990a1caf020e9a4be000f0b77e0", null ],
+    [ "GetAI", "d5/dea/a19567.html#aea7aec86c4132521fb7b9b6e87baf289", null ]
 ];

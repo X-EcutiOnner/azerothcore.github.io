@@ -1,15 +1,16 @@
 var a14459 =
 [
-    [ "boss_arlokkAI", "d7/d85/a14459.html#adb598bf47620cd077fb689fb8f9a4ad8", null ],
-    [ "EnterEvadeMode", "d7/d85/a14459.html#a8553c4d173e7c39315f022f69587c6c0", null ],
-    [ "JustDied", "d7/d85/a14459.html#ac03a6599a5b41e01bd4ed9ebd55cc0ba", null ],
-    [ "JustEngagedWith", "d7/d85/a14459.html#ac4ee55299a9389c4fee1ad96140b00d0", null ],
-    [ "JustReachedHome", "d7/d85/a14459.html#ab0499a80ea8406457e6bfaac96eae975", null ],
-    [ "Reset", "d7/d85/a14459.html#a3ea2c720ac5c4b1fa6ea4d2eb8bf163f", null ],
-    [ "SetData", "d7/d85/a14459.html#a7eedf1d1b55740698c314d4afbb2b0b2", null ],
-    [ "UpdateAI", "d7/d85/a14459.html#a3a2d07d42be88244c0c72b998792dd28", null ],
-    [ "_summonCountA", "d7/d85/a14459.html#a77f83909fca59d1c5d72dc583d7ec22e", null ],
-    [ "_summonCountB", "d7/d85/a14459.html#a7e7d091ea00fb42e7f97cb79168e0dc3", null ],
-    [ "_triggersSideAGUID", "d7/d85/a14459.html#aedc8dda728ed849f33dc83396da51bce", null ],
-    [ "_triggersSideBGUID", "d7/d85/a14459.html#a0fc797fd56c4f12272b647087492670a", null ]
+    [ "boss_zuljin", "d7/d85/a14459.html#a8acdf347d7f982c07614c89a101daae0", null ],
+    [ "EnterEvadeMode", "d7/d85/a14459.html#a1b3da85aa5f4abac16256aa691d035a3", null ],
+    [ "EnterPhase", "d7/d85/a14459.html#ae9970dba905b947a22c4ddf36bdcb656", null ],
+    [ "GetGUID", "d7/d85/a14459.html#a29548891ef8efaa5d6baa384e7b9000a", null ],
+    [ "JustDied", "d7/d85/a14459.html#a2e00e8311c0463a37de87668882ffeec", null ],
+    [ "JustEngagedWith", "d7/d85/a14459.html#ab6854461a5116e94c9f0ca971a3f89ef", null ],
+    [ "KilledUnit", "d7/d85/a14459.html#adf220cb760b77cfd09ed746705529064", null ],
+    [ "MovementInform", "d7/d85/a14459.html#a61501941861f8838392fc8cdbe59feff", null ],
+    [ "Reset", "d7/d85/a14459.html#a2fe7c0338eb4698cc0aae252f4b14f02", null ],
+    [ "SpawnAdds", "d7/d85/a14459.html#a83eb0799a25f19eedddd96e609134778", null ],
+    [ "SpellHitTarget", "d7/d85/a14459.html#aab3558edc5b90be23040077d88e21725", null ],
+    [ "_chargeTargetGUID", "d7/d85/a14459.html#a3b26fe2e82019ea5ce110d2d0a78f47e", null ],
+    [ "_nextPhase", "d7/d85/a14459.html#a4fc9983cb34313affa56c243a4164a4a", null ]
 ];

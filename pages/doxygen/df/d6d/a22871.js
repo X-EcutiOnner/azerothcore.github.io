@@ -1,8 +1,7 @@
 var a22871 =
 [
-    [ "Load", "df/d6d/a22871.html#a038301fbb547469574efff88455be663", null ],
-    [ "OnPeriodic", "df/d6d/a22871.html#a8df384cc329cf20ddc5ac0d7bed0345f", null ],
-    [ "PrepareAuraScript", "df/d6d/a22871.html#a386df1300e6a99b02efd13ef4968e99a", null ],
-    [ "Register", "df/d6d/a22871.html#a1b7b9bff5b3d906fa491846a4d5c6743", null ],
-    [ "Validate", "df/d6d/a22871.html#ad64a3fc1a66b9e8914099e501992f2aa", null ]
+    [ "HandleOnHit", "df/d6d/a22871.html#a5eee46784bfbeaad3a9af069ca7f69a7", null ],
+    [ "PrepareSpellScript", "df/d6d/a22871.html#a734b735c7e87938bff185be91f9de6e8", null ],
+    [ "Register", "df/d6d/a22871.html#a1cc140d2b5487e9dbbf107025e09e51d", null ],
+    [ "Validate", "df/d6d/a22871.html#a162f60784fdec6b748151e5c2a7ed257", null ]
 ];

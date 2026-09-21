@@ -1,5 +1,6 @@
 var a16447 =
 [
-    [ "achievement_watch_him_die", "d2/dae/a16447.html#a0d885871eac61d859780e08c8518bb15", null ],
-    [ "OnCheck", "d2/dae/a16447.html#a6ca8851bdf8cae50084ca87c1958fb53", null ]
+    [ "PrepareSpellScript", "d2/dae/a16447.html#a74a2601e2c160bb4a9b18d421775e6b3", null ],
+    [ "Register", "d2/dae/a16447.html#a17a07973a3c043683fc4fe0d1fc45156", null ],
+    [ "SetDest", "d2/dae/a16447.html#a3751a14d6e36140ee368d8ded6df03ee", null ]
 ];

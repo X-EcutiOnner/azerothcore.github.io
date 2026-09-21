@@ -1,7 +1,13 @@
 var a25163 =
 [
-    [ "HandleEffectApply", "d5/d08/a25163.html#a03c31d2d1ff8a01a03c7fa6f67a5c9c3", null ],
-    [ "HandleEffectRemove", "d5/d08/a25163.html#a54420a5b6c4cc0e0b468f573cd4625bf", null ],
-    [ "PrepareAuraScript", "d5/d08/a25163.html#a39e61e11ede11f029485a73e4d995809", null ],
-    [ "Register", "d5/d08/a25163.html#a9b0a61f6f7ad9f01a293451705675eb0", null ]
+    [ "CalcPeriodic", "d5/d08/a25163.html#a08dca1818a687bb5862779e261dafb00", null ],
+    [ "CalculateExpertiseAmount", "d5/d08/a25163.html#a44703f4a1c5cfb74083bf74d7b77c23c", null ],
+    [ "CalculateHitAmount", "d5/d08/a25163.html#af6e9dda7381a80d4de93c1a7402a2e2b", null ],
+    [ "CalculateSpellHitAmount", "d5/d08/a25163.html#ab31dfffdf449c1eef74c2bcd43469109", null ],
+    [ "HandleEffectApply", "d5/d08/a25163.html#a6ba389f156263462f5e80e3a9fb6f62e", null ],
+    [ "HandlePeriodic", "d5/d08/a25163.html#ac97a33580dc873af7b580d4fdf7ed9f6", null ],
+    [ "PrepareAuraScript", "d5/d08/a25163.html#ad9aeb68e7d512f55f38f5a64d1d80f7f", null ],
+    [ "Register", "d5/d08/a25163.html#a803e26c6a4c06feedd80a4d94452aca5", null ],
+    [ "cap", "d5/d08/a25163.html#a9c3e35d01ad863d146566efe7cca2637", null ],
+    [ "maxChance", "d5/d08/a25163.html#a34933c7fe8b570214c821347f4ba974b", null ]
 ];

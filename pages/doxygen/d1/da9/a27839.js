@@ -1,8 +1,6 @@
 var a27839 =
 [
-    [ "ApplyEffect", "d1/da9/a27839.html#ad29ed182a00516e736bb8d1381f4ac84", null ],
-    [ "HandleEffectPeriodicUpdate", "d1/da9/a27839.html#ad5319328c018dbb3ddbd58bfc08589c4", null ],
-    [ "PrepareAuraScript", "d1/da9/a27839.html#a7673ff384e88fa76efa52ecb60b97d9b", null ],
-    [ "Register", "d1/da9/a27839.html#ade5af0ec82bc43d89919ceaaa31bce20", null ],
-    [ "_tick_amount", "d1/da9/a27839.html#a33d9f114efa50a2fdfe7a17852a474f7", null ]
+    [ "HandleBanish", "d1/da9/a27839.html#ab8dd3ab2fd7b9aff3556e6284c515474", null ],
+    [ "PrepareSpellScript", "d1/da9/a27839.html#a56118e3ed7525cdf575531a4c2f2d93f", null ],
+    [ "Register", "d1/da9/a27839.html#ad6c066c9d6a64a5d89d3c347600559a9", null ]
 ];

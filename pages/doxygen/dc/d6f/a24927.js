@@ -1,7 +1,9 @@
 var a24927 =
 [
-    [ "FilterTargets", "dc/d6f/a24927.html#a9abf4baaba572636dba3980e5ae777c5", null ],
-    [ "Load", "dc/d6f/a24927.html#a812e4e461c0ebed6f7c4cc36e88a3367", null ],
-    [ "PrepareSpellScript", "dc/d6f/a24927.html#a4e98fbf669c030263ed2e5759a5bd6e8", null ],
-    [ "Register", "dc/d6f/a24927.html#a2d72f5771d6563260a6e81122e4a2be5", null ]
+    [ "HandleApply", "dc/d6f/a24927.html#a1a612d0b35ed6e67042b4d038f8927ca", null ],
+    [ "HandleRemove", "dc/d6f/a24927.html#a54b5ffcf247f7385b50b401bc82f43ce", null ],
+    [ "PrepareAuraScript", "dc/d6f/a24927.html#af2b8e669737cd4282beb6a5035f496fc", null ],
+    [ "RecalculateBaseArmor", "dc/d6f/a24927.html#a693720558c7b2b22c41a49a402522014", null ],
+    [ "Register", "dc/d6f/a24927.html#aff9bc58342383afe5a08be696cddedf6", null ],
+    [ "Validate", "dc/d6f/a24927.html#ad712e1e05d94372defdfa4fe67e65716", null ]
 ];

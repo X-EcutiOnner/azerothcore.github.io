@@ -1,5 +1,5 @@
 var a13487 =
 [
-    [ "instance_magisters_terrace_InstanceMapScript", "d4/dc1/a13487.html#ad083ab5aa00902987e18f4e9423a705a", null ],
-    [ "ProcessEvent", "d4/dc1/a13487.html#a8dbe1537ea00412a6fa366891204d645", null ]
+    [ "at_karazhan_side_entrance", "d4/dc1/a13487.html#abdaa7339a53941e2e89c4fcd439395fc", null ],
+    [ "_OnTrigger", "d4/dc1/a13487.html#a80d0018a9442ef7f0834dc329047e135", null ]
 ];

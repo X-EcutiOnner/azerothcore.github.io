@@ -1,7 +1,7 @@
 var a20215 =
 [
-    [ "HandleOnHit", "d4/d31/a20215.html#a3a0f411a652a5753a543f57433212425", null ],
-    [ "PrepareSpellScript", "d4/d31/a20215.html#a93008907295d79e9c98747bc416b6b5a", null ],
-    [ "Register", "d4/d31/a20215.html#a858cc1c717a7cadc9eac41b89738d7e1", null ],
-    [ "Validate", "d4/d31/a20215.html#a56f021a02c261dfb694e57af35c0ca14", null ]
+    [ "HandlePeriodic", "d4/d31/a20215.html#a14fd25f78c9e2bfbdaeb07f3233628b6", null ],
+    [ "PrepareAuraScript", "d4/d31/a20215.html#ad78b06733a8609dd39e885db2f23edba", null ],
+    [ "Register", "d4/d31/a20215.html#ac9ae9be546964752869163896c4045dd", null ],
+    [ "Validate", "d4/d31/a20215.html#afcca84d03b29ef7569c03f973a6c191b", null ]
 ];

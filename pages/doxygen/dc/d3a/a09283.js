@@ -1,10 +1,9 @@
 var a09283 =
 [
-    [ "creatureRate", "dc/d3a/a09283.html#aa9c27c19179b8a7bdfdc11d906cd1c06", null ],
-    [ "questDailyRate", "dc/d3a/a09283.html#a1798044bdf25ce774191b00e261add1e", null ],
-    [ "questMonthlyRate", "dc/d3a/a09283.html#a0db34ed7420bc376cfe64a0d12434fea", null ],
-    [ "questRate", "dc/d3a/a09283.html#a914118aa28b3736ff4e6c5b61d738834", null ],
-    [ "questRepeatableRate", "dc/d3a/a09283.html#a2b050d4cf6555e824d59a3ffc0558b21", null ],
-    [ "questWeeklyRate", "dc/d3a/a09283.html#a0fb31ebc33d0ce11f392be845907e043", null ],
-    [ "spellRate", "dc/d3a/a09283.html#a508485f1e6833c58a11706667a2c24fd", null ]
+    [ "VehicleAccessory", "dc/d3a/a09283.html#a70576b3cfa29bb6a31fdc61588b6d3c4", null ],
+    [ "AccessoryEntry", "dc/d3a/a09283.html#a6e3cd6b20680974235c146d34b16295a", null ],
+    [ "IsMinion", "dc/d3a/a09283.html#ace3fd27311370e4db4103f2c3ac70410", null ],
+    [ "SeatId", "dc/d3a/a09283.html#a73b54fbbfe8e18f7129acc65dadec447", null ],
+    [ "SummonedType", "dc/d3a/a09283.html#afc843c62c580c860471b0e49f5901363", null ],
+    [ "SummonTime", "dc/d3a/a09283.html#a13a024b3ceacf38ce4907b079d732420", null ]
 ];

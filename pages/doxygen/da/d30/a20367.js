@@ -1,7 +1,8 @@
 var a20367 =
 [
-    [ "boss_freya_iron_root", "da/d30/a20367.html#af35a268c89c025d95c13ea8c87d6516e", null ],
-    [ "JustDied", "da/d30/a20367.html#a3f3e00bb3ff7e23e912e0ae7bb98e67f", null ],
-    [ "OnDespawn", "da/d30/a20367.html#abd0258796a696e6665ecd51b27cc0b1e", null ],
-    [ "ReleaseRootedPlayer", "da/d30/a20367.html#a87fe9f9e32bcc44e8692fd317ab864db", null ]
+    [ "FilterTargets", "da/d30/a20367.html#a93b41db0e89710c6e0e3c764d51d37ad", null ],
+    [ "HandleScript", "da/d30/a20367.html#a0c7d9007a9401b96a3c1f8614dc1a2db", null ],
+    [ "PrepareSpellScript", "da/d30/a20367.html#aea46762f43b31923617f740e0545fe98", null ],
+    [ "Register", "da/d30/a20367.html#a6ccde780ea9fba273b96d6fd9558a2d1", null ],
+    [ "Validate", "da/d30/a20367.html#af526a7a7a82ec7621f8842e884d7b14f", null ]
 ];

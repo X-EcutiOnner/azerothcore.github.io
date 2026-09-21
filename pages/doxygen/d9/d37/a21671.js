@@ -1,6 +1,7 @@
 var a21671 =
 [
-    [ "npc_bloodmage_laurithAI", "d7/d7c/a21675.html", "d7/d7c/a21675" ],
-    [ "npc_bloodmage_laurith", "d9/d37/a21671.html#a40ab80342ddc86afca3b1bd37b1ca6b5", null ],
-    [ "GetAI", "d9/d37/a21671.html#a5a5151a56de3ad1012d9a795dbfb5bd5", null ]
+    [ "npc_violet_hold_defense_system", "d9/d37/a21671.html#abb5eb275e803201aad3010ad77aa4b41", null ],
+    [ "Reset", "d9/d37/a21671.html#a77925ae6097f7a52d446ee20bbb3de62", null ],
+    [ "UpdateAI", "d9/d37/a21671.html#ab39bc3da2d7ce33be1e27cd48fc16e89", null ],
+    [ "_tickCount", "d9/d37/a21671.html#a4a7504069b05480428278fd09d5e59ba", null ]
 ];

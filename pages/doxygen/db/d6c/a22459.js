@@ -1,7 +1,6 @@
 var a22459 =
 [
-    [ "npc_wg_quest_giver", "db/d6c/a22459.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
-    [ "GetDialogStatus", "db/d6c/a22459.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
-    [ "OnGossipHello", "db/d6c/a22459.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
-    [ "OnGossipSelect", "db/d6c/a22459.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
+    [ "HandleScriptEffect", "db/d6c/a22459.html#a66849cb61f056e861d8887dc98f6ccbf", null ],
+    [ "PrepareSpellScript", "db/d6c/a22459.html#afa4ad1b205bf963b4230881738baf938", null ],
+    [ "Register", "db/d6c/a22459.html#a0d8925effced854471e2fbec9c631b91", null ]
 ];

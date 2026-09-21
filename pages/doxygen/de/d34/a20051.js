@@ -1,9 +1,12 @@
 var a20051 =
 [
-    [ "boss_sjonnir_malformed_oozeAI", "de/d34/a20051.html#a0624f769d0ce5a95ea2bb877811b0409", null ],
-    [ "JustEngagedWith", "de/d34/a20051.html#a9e6527bc46d7b685d938833d18796cee", null ],
-    [ "MoveInLineOfSight", "de/d34/a20051.html#a7449e135f088a2d4b22a423c71118093", null ],
-    [ "MovementInform", "de/d34/a20051.html#ac04d90e974f85282737bb5081a123106", null ],
-    [ "UpdateAI", "de/d34/a20051.html#afccd77c8e90d129fb3a347205a2102db", null ],
-    [ "events", "de/d34/a20051.html#a73c135ec94b41a752fc203c5e20128d0", null ]
+    [ "boss_loken", "de/d34/a20051.html#a50ba322cf0adb3030444bf8fde4dba0c", null ],
+    [ "JustDied", "de/d34/a20051.html#a6bf8e999ebb5581dd1bd03ed6b96a1dc", null ],
+    [ "JustEngagedWith", "de/d34/a20051.html#aca09a816f57dea1c7c132258a6d0e5ba", null ],
+    [ "KilledUnit", "de/d34/a20051.html#a85ae3094927f7484216b44582f9a2bf6", null ],
+    [ "MoveInLineOfSight", "de/d34/a20051.html#ac9f3115629e5595d06c213d3e04afa68", null ],
+    [ "OnAuraRemove", "de/d34/a20051.html#adc35dee5a25820bd080b4d610d6cfc37", null ],
+    [ "Reset", "de/d34/a20051.html#abe6a1192eb9e4d5afa65dcc01b4472ec", null ],
+    [ "ScheduleTasks", "de/d34/a20051.html#a600e211be40226679212a7078b26f3ed", null ],
+    [ "_introDone", "de/d34/a20051.html#a348b7ef60fb815fb160e7f348b8f7af4", null ]
 ];

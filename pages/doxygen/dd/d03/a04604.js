@@ -1,6 +1,5 @@
 var a04604 =
 [
-    [ "GetRandomBytes", "dd/d03/a04604.html#ab09d7cc2f8e11fc5fe6b2323d57b7184", null ],
-    [ "GetRandomBytes", "dd/d03/a04604.html#a797cfc74306f60b5c63eecb37a2061d3", null ],
-    [ "GetRandomBytes", "dd/d03/a04604.html#a2ff283a7b883696205a91f122b194f6f", null ]
+    [ "ACORE_LINKAGE_TYPE_STR", "dd/d03/a04604.html#a498cc8d79612cf645e7afc2ceb4174f3", null ],
+    [ "AZEROTH_PLATFORM_STR", "dd/d03/a04604.html#af7cd76a18bc19a0ec34ac7693e406971", null ]
 ];

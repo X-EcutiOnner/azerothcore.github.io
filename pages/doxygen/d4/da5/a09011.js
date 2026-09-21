@@ -1,9 +1,5 @@
 var a09011 =
 [
-    [ "achievements", "d4/da5/a09011.html#acfdabccf4f66aa7ebfbae0bfe185f6dc", null ],
-    [ "items", "d4/da5/a09011.html#a2873836588f37b9a5cf691da2b6fa715", null ],
-    [ "levelMax", "d4/da5/a09011.html#a7430d852e5426c1a32e49c77d747f4e6", null ],
-    [ "levelMin", "d4/da5/a09011.html#a823016216268e13116a46bcb40ea0e70", null ],
-    [ "quests", "d4/da5/a09011.html#a6150aa58762a13dcbfcb55507df77809", null ],
-    [ "reqItemLevel", "d4/da5/a09011.html#a97f262e488e178dad0c33f228808f69e", null ]
+    [ "PlayerClassInfo", "d4/da5/a09011.html#a6a0a6db24e144593356e0505946e8f06", null ],
+    [ "levelInfo", "d4/da5/a09011.html#aa234b353361ef0017ec974ca4c8e86f1", null ]
 ];

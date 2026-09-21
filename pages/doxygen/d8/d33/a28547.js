@@ -1,7 +1,8 @@
 var a28547 =
 [
-    [ "npc_riggle_bassbaitAI", "d8/d33/a28547.html#ad7a1a7a6f4c4ebb7ab93878ebb3a9a5b", null ],
-    [ "CheckTournamentState", "d8/d33/a28547.html#aa7b4393b93be92fbb595648cede832be", null ],
-    [ "UpdateAI", "d8/d33/a28547.html#ad0fca96e2c770ef179d98dcdd9aaca6e", null ],
-    [ "m_uiTimer", "d8/d33/a28547.html#aec45a971a5b7aa574e905e9a2338fe90", null ]
+    [ "trigger_periodicAI", "d8/d33/a28547.html#a696d62fed28de9c67827dad111cf320b", null ],
+    [ "UpdateAI", "d8/d33/a28547.html#aed31d60765eff7dd11790714e28e729e", null ],
+    [ "interval", "d8/d33/a28547.html#a6e9dd149ce11dcc1c2adf039c73e8023", null ],
+    [ "spell", "d8/d33/a28547.html#a618b707155edf6d9179bbedc0f0ecf1e", null ],
+    [ "timer", "d8/d33/a28547.html#ac434f6a60065ae3b1adcb11d58af4299", null ]
 ];

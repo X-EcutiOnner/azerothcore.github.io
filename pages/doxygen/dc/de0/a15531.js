@@ -1,7 +1,6 @@
 var a15531 =
 [
-    [ "go_sand_trap", "dc/de0/a15531.html#a58d45acac672cb05988ddca78185b469", null ],
-    [ "Reset", "dc/de0/a15531.html#a7071a3e420e9137ca133b471bc217bf3", null ],
-    [ "UpdateAI", "dc/de0/a15531.html#a2e4a5fec4d4c790233ca97e6a7732ac4", null ],
-    [ "_scheduler", "dc/de0/a15531.html#af845c0efb3d8ebe53d3620970a84f1e4", null ]
+    [ "instance_razorfen_downs_InstanceMapScript", "dc/d2d/a15535.html", "dc/d2d/a15535" ],
+    [ "instance_razorfen_downs", "dc/de0/a15531.html#a317e5e4ce45fd88c657b8032b377ffb7", null ],
+    [ "GetInstanceScript", "dc/de0/a15531.html#a5010fc2704c3c699e39bf969f6f6ce2c", null ]
 ];

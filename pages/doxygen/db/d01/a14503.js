@@ -1,5 +1,6 @@
 var a14503 =
 [
-    [ "at_zulgurub_entrance_speech", "db/d01/a14503.html#afef11c6a7e97befd07072826fa13be55", null ],
-    [ "_OnTrigger", "db/d01/a14503.html#a7f719eab3ca9fa7d5e7a26f721dc9f50", null ]
+    [ "OnEffect", "db/d01/a14503.html#ab87d53faac04ced3c11088e260782068", null ],
+    [ "PrepareSpellScript", "db/d01/a14503.html#af618e8d84029dda5e48b699cbcf671be", null ],
+    [ "Register", "db/d01/a14503.html#abcfe54b8901ec3c5e070b3c528ade26e", null ]
 ];

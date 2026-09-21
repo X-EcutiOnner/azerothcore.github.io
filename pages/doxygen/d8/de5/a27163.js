@@ -1,7 +1,7 @@
 var a27163 =
 [
-    [ "HandleDummy", "d8/de5/a27163.html#a123ddc812fb358b7517eba60d1f90eba", null ],
-    [ "Load", "d8/de5/a27163.html#a64ca188f58b4f34827f03ae2878deef0", null ],
-    [ "PrepareSpellScript", "d8/de5/a27163.html#a7068dd9e6f7838d9ad7023c2d61482cc", null ],
-    [ "Register", "d8/de5/a27163.html#aff7ea1c5c569022ece56ecdb3f434723", null ]
+    [ "if", "d8/de5/a27163.html#a2b5a85e480bcd0ef5074d3bcf7eaf5cb", null ],
+    [ "PrepareAuraScript", "d8/de5/a27163.html#aa31810077c241e77193e378cb297b7de", null ],
+    [ "Register", "d8/de5/a27163.html#a7b8f537719a4155d1cd95a6f49cf6a3a", null ],
+    [ "AuraEffectHandleModes", "d8/de5/a27163.html#a3113d8e7ec296fdf13c8f386ae74e0f3", null ]
 ];

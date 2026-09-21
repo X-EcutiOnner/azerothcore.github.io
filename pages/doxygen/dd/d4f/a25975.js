@@ -1,6 +1,7 @@
 var a25975 =
 [
-    [ "HandleSummon", "dd/d4f/a25975.html#ad1ee0eb347454d50216610a266226d68", null ],
-    [ "PrepareSpellScript", "dd/d4f/a25975.html#a15a545ee3ec4a926f1330ce0ad975d3e", null ],
-    [ "Register", "dd/d4f/a25975.html#aa145041af68291f107c3ff11ce15b85e", null ]
+    [ "CheckProc", "dd/d4f/a25975.html#a41c451e31b84a72af3a17bfa29ca02fe", null ],
+    [ "HandleProc", "dd/d4f/a25975.html#a5cf9cea911ead2f261522e55e94c745a", null ],
+    [ "PrepareAuraScript", "dd/d4f/a25975.html#a3f2b20607f90ad641769eb284ddfab85", null ],
+    [ "Register", "dd/d4f/a25975.html#a55557026689613e91aeabce1af442237", null ]
 ];

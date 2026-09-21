@@ -1,5 +1,9 @@
 var a29679 =
 [
-    [ "auraHasDisableProcAttr", "de/ddc/a29679.html#aec81d4f80c7cb7749f860601c9e5aac8", null ],
-    [ "triggeringSpellIsProcDisabled", "de/ddc/a29679.html#a38c3523c80d30ed10b8c3b5e19c083f6", null ]
+    [ "flags", "de/ddc/a29679.html#a064de2e88c563121bbb78549a7bab868", null ],
+    [ "_flags", "de/ddc/a29679.html#a16f1b30a57eb6703e8073ef55d988391", null ],
+    [ "bits", "de/ddc/a29679.html#a529f1856635132646457c57f3546f4ec", null ],
+    [ "configKey", "de/ddc/a29679.html#af14d118016b9e01612769c00f13aa2d6", null ],
+    [ "oldKey", "de/ddc/a29679.html#a29605b536523f6d022bbac0e12d1d8dc", null ],
+    [ "owner", "de/ddc/a29679.html#a24aaa1c473c3932c83dd49aad84f8361", null ]
 ];

@@ -1,16 +1,6 @@
 var a19611 =
 [
-    [ "boss_nothAI", "d2/d41/a19611.html#a0a1f8e88396b04d070c4034b2419f0bb", null ],
-    [ "EnterEvadeMode", "d2/d41/a19611.html#af0c4cfb04564b23840ee88dfa1badf55", null ],
-    [ "IsInRoom", "d2/d41/a19611.html#a8e9c27804ae01e46285a3bed42091754", null ],
-    [ "JustDied", "d2/d41/a19611.html#a18dd73c178eff3170d371c4bd4062b76", null ],
-    [ "JustEngagedWith", "d2/d41/a19611.html#aed044bf36d56b2241e591eb45999900b", null ],
-    [ "JustSummoned", "d2/d41/a19611.html#a61e814ce0a861ba98ccc21d8d6df128a", null ],
-    [ "KilledUnit", "d2/d41/a19611.html#a1d5b013cdbaab702a85fc1d344ad6f6a", null ],
-    [ "Reset", "d2/d41/a19611.html#a311754fa1fa1b112272395179e3b1bff", null ],
-    [ "StartBalconyPhase", "d2/d41/a19611.html#ac890e5f4e6e9e40d78e75d2c86bd6740", null ],
-    [ "StartGroundPhase", "d2/d41/a19611.html#a3ae5f948e2faf051b1cb88cd638c612e", null ],
-    [ "SummonHelper", "d2/d41/a19611.html#abfe6252bec42fdc3d7738aef3dd2ec74", null ],
-    [ "UpdateAI", "d2/d41/a19611.html#a87f4e825fb8f9f48991d5dcf94af78e3", null ],
-    [ "timesInBalcony", "d2/d41/a19611.html#a249c96d4230bd2b43c4be733317c4bc4", null ]
+    [ "FilterTargets", "d2/d41/a19611.html#a2df81e30554809a0d5b45d2f471bb71f", null ],
+    [ "PrepareSpellScript", "d2/d41/a19611.html#aa51d9c578b782fbe0e7e3cf13789b702", null ],
+    [ "Register", "d2/d41/a19611.html#a4c1eab348e54011f1a2f827fc251ca13", null ]
 ];

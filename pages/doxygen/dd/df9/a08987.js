@@ -1,8 +1,8 @@
 var a08987 =
 [
-    [ "EnchantDuration", "dd/df9/a08987.html#a1ce5f81deaa60494c247673c113632d8", null ],
-    [ "EnchantDuration", "dd/df9/a08987.html#a52448f2bb8b788193a69fe9a2d8729f3", null ],
-    [ "item", "dd/df9/a08987.html#ae803f6a9ce9cdb0dbb133bc85b6613ab", null ],
-    [ "leftduration", "dd/df9/a08987.html#a3f4edafbc9b09cb5ab660bc68af435f3", null ],
-    [ "slot", "dd/df9/a08987.html#a3de1a8d64aea4c5c1f984a74c6bb017d", null ]
+    [ "IsInSpec", "dd/df9/a08987.html#a77968b5562467f85bda04b6f2f41ca29", null ],
+    [ "inSpellBook", "dd/df9/a08987.html#a650926fa9d1bbab336ee7ed3dd0b0b7d", null ],
+    [ "specMask", "dd/df9/a08987.html#acc1913a90ca2bd23298d3590843cfbd5", null ],
+    [ "State", "dd/df9/a08987.html#a062758af7e92f7e2263ca0a0fd329151", null ],
+    [ "talentID", "dd/df9/a08987.html#aca9b191361652002f5178179a939e41b", null ]
 ];

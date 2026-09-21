@@ -1,6 +1,10 @@
 var a22427 =
 [
-    [ "HandleSummon", "dc/dab/a22427.html#a98c5df8b6c561a5aa7d766b639f3c2c8", null ],
-    [ "PrepareSpellScript", "dc/dab/a22427.html#ab5605e1d401d7a762fc8b5a530ecd640", null ],
-    [ "Register", "dc/dab/a22427.html#a9c9a0fd43758a6441a086860e8276cc0", null ]
+    [ "npc_time_lost_proto_drakeAI", "dc/dab/a22427.html#ab98805519233eda932c6131aca059a8b", null ],
+    [ "ArmHiddenState", "dc/dab/a22427.html#ac397eb8580e523214dec0cf9b15b18f5", null ],
+    [ "DoAction", "dc/dab/a22427.html#a0357600a1ed7bc17cd5dfdf822c5296b", null ],
+    [ "JustEngagedWith", "dc/dab/a22427.html#ab95266d60769aa4099ca0f1bf678f237", null ],
+    [ "JustRespawned", "dc/dab/a22427.html#ac59dcf8cd9c19f2bf4a1bdba6f21b9d1", null ],
+    [ "Reset", "dc/dab/a22427.html#a418ea9621040e3c717c4e24f73539f44", null ],
+    [ "UpdateAI", "dc/dab/a22427.html#abb28428b77beada6a378541ba11d090b", null ]
 ];

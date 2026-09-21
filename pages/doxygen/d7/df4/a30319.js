@@ -1,12 +1,20 @@
 var a30319 =
 [
-    [ "Bounds", "d7/df4/a30319.html#a1e982b341ac3859fad38b2efc81ab8ea", null ],
-    [ "DoodadSet", "d7/df4/a30319.html#abbf6e50e76b120be17215cfcf227a524", null ],
-    [ "Flags", "d7/df4/a30319.html#a06f5e96119239356eea45b9acdadf6e1", null ],
-    [ "Id", "d7/df4/a30319.html#a952442c180e8d3710af31272b54eb6ec", null ],
-    [ "NameSet", "d7/df4/a30319.html#a55df9aed38d8cf1503b21f5fd9d5e5d0", null ],
-    [ "Position", "d7/df4/a30319.html#a7e6463db89eaf53bc20832afb1842a5b", null ],
-    [ "Rotation", "d7/df4/a30319.html#a2c04715e800b9f375c287cced96643d1", null ],
-    [ "Scale", "d7/df4/a30319.html#a142716fecae07abc013c7f3bd053c0ea", null ],
-    [ "UniqueId", "d7/df4/a30319.html#a749e920740b9e91547fe1f87933d1c7d", null ]
+    [ "FileLoader", "d7/df4/a30319.html#a51313b536560d1d89d8350475d2bc749", null ],
+    [ "~FileLoader", "d7/df4/a30319.html#a0954776182dd01364bdb216539ce398b", null ],
+    [ "FileLoader", "d7/df4/a30319.html#a51313b536560d1d89d8350475d2bc749", null ],
+    [ "~FileLoader", "d7/df4/a30319.html#a0954776182dd01364bdb216539ce398b", null ],
+    [ "free", "d7/df4/a30319.html#a738aeb2ebe751c9fc75013dbce30dcc4", null ],
+    [ "free", "d7/df4/a30319.html#aef98564821c8e63b6d484179cda0b380", null ],
+    [ "GetData", "d7/df4/a30319.html#aed85cdbd6a4e52096292c6ed8578f7bd", null ],
+    [ "GetData", "d7/df4/a30319.html#aed85cdbd6a4e52096292c6ed8578f7bd", null ],
+    [ "GetDataSize", "d7/df4/a30319.html#a2a07adb0692a51af06ccd31d449ae444", null ],
+    [ "GetDataSize", "d7/df4/a30319.html#a2a07adb0692a51af06ccd31d449ae444", null ],
+    [ "loadFile", "d7/df4/a30319.html#a11908109042f93ddde393e7a874683c9", null ],
+    [ "loadFile", "d7/df4/a30319.html#a11908109042f93ddde393e7a874683c9", null ],
+    [ "prepareLoadedData", "d7/df4/a30319.html#ab66347098d7c9ac470339c232f9b7588", null ],
+    [ "prepareLoadedData", "d7/df4/a30319.html#a498a33d80768843b4ab1ff2d5ffe68d9", null ],
+    [ "data", "d7/df4/a30319.html#aff1880ac2038f17f4d1f63bc9f7d9afd", null ],
+    [ "data_size", "d7/df4/a30319.html#a355891fc980538e74080b9b83a95dec8", null ],
+    [ "version", "d7/df4/a30319.html#a41cedec185e5909d83c8a185d1476dee", null ]
 ];

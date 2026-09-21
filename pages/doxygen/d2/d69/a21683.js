@@ -1,7 +1,10 @@
 var a21683 =
 [
-    [ "HandleProc", "d2/d69/a21683.html#aeb5b70614b266bac0792906bf89a5b97", null ],
-    [ "PrepareAuraScript", "d2/d69/a21683.html#aa523e91e5aadb09b66ef2c74e3cbce9f", null ],
-    [ "Register", "d2/d69/a21683.html#a163e0099271f21362deeb1ba1f169f3f", null ],
-    [ "Validate", "d2/d69/a21683.html#abdb889e4c6d19f756c143d7b36f82257", null ]
+    [ "npc_sinkhole_kill_creditAI", "d2/d69/a21683.html#af2050289be6bc1c47d1ad40fc4bfa313", null ],
+    [ "Reset", "d2/d69/a21683.html#a677990d64d2963ff995d9d8522c5aa81", null ],
+    [ "SpellHit", "d2/d69/a21683.html#a95eaf518fb18b67820d6195cd525b017", null ],
+    [ "UpdateAI", "d2/d69/a21683.html#a75611004a543bece9d3f51914547f2fe", null ],
+    [ "casterGuid", "d2/d69/a21683.html#a147921788b07f5e776e03aaf15049cf0", null ],
+    [ "phase", "d2/d69/a21683.html#aa45455a8d540d6f942c948cf56d11f05", null ],
+    [ "phaseTimer", "d2/d69/a21683.html#aa268004c1eedf086ae8345e0ba10e2ca", null ]
 ];

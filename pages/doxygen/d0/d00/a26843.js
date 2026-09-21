@@ -1,9 +1,6 @@
 var a26843 =
 [
-    [ "CheckProc", "d0/d00/a26843.html#a1ea48d77c2bb5b26c12384e4e11411ff", null ],
-    [ "HandleProc", "d0/d00/a26843.html#afe1282b6df7593066469f3ddf7ff8a33", null ],
-    [ "PrepareAuraScript", "d0/d00/a26843.html#a9585ecde57ccfa26f59174732e3132fc", null ],
-    [ "Register", "d0/d00/a26843.html#aff856108cd0b92c3a4eaeb4c354ee56f", null ],
-    [ "Validate", "d0/d00/a26843.html#a65e88419d625dc6e8033b573ce7f18ee", null ],
-    [ "_triggeredSpellId", "d0/d00/a26843.html#a560ade778e046213f60f48364ea3800c", null ]
+    [ "HandleEffectCalcSpellMod", "d0/d00/a26843.html#a81395c735b9546632af71319067b575b", null ],
+    [ "PrepareAuraScript", "d0/d00/a26843.html#ad5a716f0644b1707aa6d179d564ceb80", null ],
+    [ "Register", "d0/d00/a26843.html#ae49a0ec525819981595c12839133a35b", null ]
 ];

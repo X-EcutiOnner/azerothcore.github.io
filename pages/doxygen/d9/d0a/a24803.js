@@ -1,7 +1,11 @@
 var a24803 =
 [
-    [ "AfterApply", "d9/d0a/a24803.html#aee69eceead7e31cce2638ff252f6653d", null ],
-    [ "AfterRemove", "d9/d0a/a24803.html#ad53d25cc04f1b6cc1f3d0a8d9fc69a89", null ],
-    [ "PrepareAuraScript", "d9/d0a/a24803.html#a0ccde960cb328cd1c72b2504376e92b4", null ],
-    [ "Register", "d9/d0a/a24803.html#ab5f8afbfa688ebd548a5508543498b55", null ]
+    [ "HandleAfterHit", "d9/d0a/a24803.html#a3cfb75da66372934ba5aaa1c9ad6c6f3", null ],
+    [ "HandleDummy", "d9/d0a/a24803.html#abb3f92850fa6fff94c682b990c361fe6", null ],
+    [ "Load", "d9/d0a/a24803.html#ae5900d64c9b9b2de48c494458d4bed8b", null ],
+    [ "PrepareSpellScript", "d9/d0a/a24803.html#adea0e24654cd87b3aee07ce2183b9517", null ],
+    [ "Register", "d9/d0a/a24803.html#a3e155e336d6a5a6a4d44eae422ef7939", null ],
+    [ "Validate", "d9/d0a/a24803.html#a28bb9111c8e5116a82d4e54b7eacb92b", null ],
+    [ "guid", "d9/d0a/a24803.html#a6e177d68e1d39dcb27e6643d267328a5", null ],
+    [ "multiplier", "d9/d0a/a24803.html#a04ed6aae0ea28a4f1b7c1ed5f4f73a0b", null ]
 ];

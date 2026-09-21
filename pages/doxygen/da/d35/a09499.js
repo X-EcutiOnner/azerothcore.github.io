@@ -1,11 +1,10 @@
 var a09499 =
 [
-    [ "~GridCell", "da/d35/a09499.html#a042be8f85e83068d4bb39a0de0618146", null ],
-    [ "AddFarVisibleObject", "da/d35/a09499.html#a9a81bdbf151463b4687227df0fa39ece", null ],
-    [ "AddGridObject", "da/d35/a09499.html#ab64f99dd9997ff6df1f1db25a8d95d19", null ],
-    [ "RemoveFarVisibleObject", "da/d35/a09499.html#a8f76d2ad6abd96506d084a7e47bb8f6b", null ],
-    [ "Visit", "da/d35/a09499.html#aa0c4e5dac57c41d8fce303fb943585a0", null ],
-    [ "Visit", "da/d35/a09499.html#a8bc3a1bda26adb9a2e752afc0a7d56bd", null ],
-    [ "_farVisibleObjects", "da/d35/a09499.html#a2a331c36ea678eb0c9ca6d20b820428f", null ],
-    [ "_gridObjects", "da/d35/a09499.html#ac5a741aebc11124aa228e5107e664335", null ]
+    [ "Flags", "da/d35/a09499.html#a5292a64de662f608915844d58199542f", null ],
+    [ "Icon", "da/d35/a09499.html#ab7460f125e05509baf9331e424b8bacf", null ],
+    [ "ID", "da/d35/a09499.html#a94b184ecd7c82419fa6d59a59c1d95da", null ],
+    [ "Importance", "da/d35/a09499.html#a623d8bdc2bf5eea161466340ae8e3cd1", null ],
+    [ "Name", "da/d35/a09499.html#a45c6eb50f0d56bbdabd6c3b3469c607c", null ],
+    [ "PositionX", "da/d35/a09499.html#a561763556f1ac77e988c350c37a3a0a1", null ],
+    [ "PositionY", "da/d35/a09499.html#abec7b2b3e649263f0b963f3fedef60fe", null ]
 ];

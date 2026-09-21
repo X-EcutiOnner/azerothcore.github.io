@@ -1,6 +1,6 @@
 var a23159 =
 [
-    [ "HandleProc", "df/df3/a23159.html#a93dfb9e0dac89cb66f340c41dbc526bb", null ],
-    [ "PrepareAuraScript", "df/df3/a23159.html#a94b244ef26355d53c874aec6d26f3a53", null ],
-    [ "Register", "df/df3/a23159.html#a9499d88802213ceb877e19d1651324f2", null ]
+    [ "npc_supremus_punch_invisible_stalker", "df/df3/a23159.html#add7d0e711ef02a16ef58d90cfc8ee733", null ],
+    [ "IsSummonedBy", "df/df3/a23159.html#a2220bc31f2ef91a154a9a4eae38aa14b", null ],
+    [ "UpdateAI", "df/df3/a23159.html#a90ecfe4257ef77a6d6a200a2f017c51a", null ]
 ];

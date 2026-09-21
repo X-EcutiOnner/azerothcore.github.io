@@ -1,6 +1,6 @@
 var a27335 =
 [
-    [ "HandleFinish", "de/d30/a27335.html#ac4c50220d86f809644e339fc578d9b4a", null ],
-    [ "PrepareSpellScript", "de/d30/a27335.html#a5a14594ed93150e34626a7e0edb8171b", null ],
-    [ "Register", "de/d30/a27335.html#a9d28a3b88d57e2f89921d59f56148f74", null ]
+    [ "HandleDummy", "de/d30/a27335.html#abac8aa528d6d83748cf4cdbdaa8313f6", null ],
+    [ "PrepareSpellScript", "de/d30/a27335.html#ae80dda98f66c1fbaa37741ffd52a1108", null ],
+    [ "Register", "de/d30/a27335.html#a90fbc5d1b22cbc59550a430a63c08032", null ]
 ];

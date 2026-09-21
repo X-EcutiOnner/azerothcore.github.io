@@ -1,10 +1,19 @@
 var a16479 =
 [
-    [ "boss_sartharion_tenebron", "d9/d5c/a16479.html#aed0f47aa2ed463ae0d2219e54e7b91bc", null ],
-    [ "ClearInstance", "d9/d5c/a16479.html#ac21b27a510d6c087d19bebe2b2a5426b", null ],
-    [ "ExecuteEvent", "d9/d5c/a16479.html#ad61c290ccbd36d9b1bb24d6c44f390c3", null ],
-    [ "JustDied", "d9/d5c/a16479.html#aa57a9180c2fbc2441622a6b3b4fd1fb1", null ],
-    [ "JustSummoned", "d9/d5c/a16479.html#ae4e49d7bee95c929ece64beeca940a0a", null ],
-    [ "Reset", "d9/d5c/a16479.html#a5bd12ada3fc396478ebbe39329aaf74b", null ],
-    [ "summons2", "d9/d5c/a16479.html#a59b131fcd2298640390fcd0f662f132d", null ]
+    [ "boss_hadronox", "d9/d5c/a16479.html#a5f99247a1eb3ca11741c656db9f91864", null ],
+    [ "DamageTaken", "d9/d5c/a16479.html#a4c74557d814776061fe6df4c234885f1", null ],
+    [ "DoAction", "d9/d5c/a16479.html#a822059f4efa5e311bf3f79698ed3aa6e", null ],
+    [ "GetData", "d9/d5c/a16479.html#a9666b5af984f15afd52b9a81a12fd334", null ],
+    [ "IsInCombatWithPlayer", "d9/d5c/a16479.html#a00d15de04d2f63c71b762d8c05161295", null ],
+    [ "JustEngagedWith", "d9/d5c/a16479.html#a0ecc876405753200c1c2fe575635ffb0", null ],
+    [ "JustSummoned", "d9/d5c/a16479.html#a3a5680abcef0529dcfca6c27f42f8f61", null ],
+    [ "KilledUnit", "d9/d5c/a16479.html#a721fabc47cb7416879e73e143898ddef", null ],
+    [ "MovementInform", "d9/d5c/a16479.html#a5e7c5226b0fb26a3c2d75726d5323af6", null ],
+    [ "Reset", "d9/d5c/a16479.html#a0d73acbe4061d48c2c5deb4203d0c9fb", null ],
+    [ "SummonCrusherPack", "d9/d5c/a16479.html#ab58a7949dd4797849cf98152e541b9a9", null ],
+    [ "SummonedCreatureEvade", "d9/d5c/a16479.html#a23fb17d6eb7a03e7efe0bffb28adee0c", null ],
+    [ "UpdateAI", "d9/d5c/a16479.html#aef361a41c7a3db94c00b594dd82ffabd", null ],
+    [ "_crushersLeft", "d9/d5c/a16479.html#a386cafa7de8fcaf6ac5d823af01fc443", null ],
+    [ "_doorsWebbed", "d9/d5c/a16479.html#a1515f5161e04e97734c538d7dede2902", null ],
+    [ "_lastPlayerCombatState", "d9/d5c/a16479.html#a0cd1b2eae097b327e845e5a3038c6342", null ]
 ];

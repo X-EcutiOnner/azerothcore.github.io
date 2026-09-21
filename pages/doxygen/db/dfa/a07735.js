@@ -1,10 +1,9 @@
 var a07735 =
 [
-    [ "SelectionPool", "db/dfa/a07735.html#a9ddcca26fb3f4c635d7bcbb045542885", null ],
-    [ "AddGroup", "db/dfa/a07735.html#a87fe4747536355ad7affda76640a082e", null ],
-    [ "GetPlayerCount", "db/dfa/a07735.html#af344a6e6bb42609887ee8a3022e9d8e5", null ],
-    [ "Init", "db/dfa/a07735.html#a84c3fe684033e8744ce6d6bc50526ee7", null ],
-    [ "KickGroup", "db/dfa/a07735.html#a74fb708546a8612ca52b24b8472b71ef", null ],
-    [ "PlayerCount", "db/dfa/a07735.html#a0c08c47f68dbb45175efc524f4553e16", null ],
-    [ "SelectedGroups", "db/dfa/a07735.html#a4387ef77c341f90758d6c64c4ef2c475", null ]
+    [ "Rank", "db/dfa/a07735.html#a9bcd8dc00437bcf015565eeb43263578", null ],
+    [ "Rating", "db/dfa/a07735.html#ab43875cc3ae58eb636a490c2c0f5c1f6", null ],
+    [ "SeasonGames", "db/dfa/a07735.html#a124c6d64f22c13707764eedd79fe1912", null ],
+    [ "SeasonWins", "db/dfa/a07735.html#ad274601b85ea634524b1c00979e09465", null ],
+    [ "WeekGames", "db/dfa/a07735.html#a1d0092200b2c9428e821473949cfda77", null ],
+    [ "WeekWins", "db/dfa/a07735.html#a313afef901bd5a9347f2074a7ca1bfe0", null ]
 ];

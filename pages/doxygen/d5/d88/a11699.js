@@ -1,6 +1,8 @@
 var a11699 =
 [
-    [ "ClientOpcodeHandler", "db/df6/a05082.html#ga975b7c1e941b9ad11164cc5b0cf3f557", null ],
-    [ "Call", "db/df6/a05082.html#gae6c5104e6c75c2e88a3d8dfcf9e63678", null ],
-    [ "ProcessingPlace", "db/df6/a05082.html#gaccb7f451536a1a56ba072a82202e5a53", null ]
+    [ "QuestUpdateAddPvPKill", "d5/d88/a11699.html#a22b1143d1ee7c28f0ae63c0d215e64ce", null ],
+    [ "Write", "d5/d88/a11699.html#ab58c8dc6918834caa654e05992abde6a", null ],
+    [ "CurrentCount", "d5/d88/a11699.html#a4c6df4b5647d8b71084c4495548cdd58", null ],
+    [ "QuestId", "d5/d88/a11699.html#ae80d16619ecac6b381b89483ce96b810", null ],
+    [ "RequiredCount", "d5/d88/a11699.html#a95d2c68a8383bcac985a891de7771274", null ]
 ];

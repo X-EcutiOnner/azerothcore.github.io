@@ -1,8 +1,6 @@
 var a28103 =
 [
-    [ "CharacterActionIpLogger", "d4/d28/a28103.html#a39861f7348a79031a8215b435ba81059", null ],
-    [ "CharacterIPLogAction", "d4/d28/a28103.html#abf461fe7e7d89057aeb122abbd27e30e", null ],
-    [ "OnPlayerCreate", "d4/d28/a28103.html#a48844efac9d9af9c6415ad49d2473688", null ],
-    [ "OnPlayerLogin", "d4/d28/a28103.html#a753ed387ea50eaf4c56846eab33cdfc0", null ],
-    [ "OnPlayerLogout", "d4/d28/a28103.html#a3a4bcaf033e71e2dbeddc2ee6528494e", null ]
+    [ "HandleProc", "d4/d28/a28103.html#a72d56ccc2c6f0337fa68c2759d90c5d6", null ],
+    [ "PrepareAuraScript", "d4/d28/a28103.html#a49a96d3aa0220b4ec77fb1a384826614", null ],
+    [ "Register", "d4/d28/a28103.html#adf0852d1aad8097143df205a66a49f2f", null ]
 ];

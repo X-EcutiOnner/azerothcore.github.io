@@ -1,6 +1,7 @@
 var a25983 =
 [
-    [ "HandlePeriodicTick", "d7/dac/a25983.html#a058eeb1e0489340763a58d92d4bed832", null ],
-    [ "PrepareAuraScript", "d7/dac/a25983.html#a3d71859b7e7f914a395f131dd4a6b4ab", null ],
-    [ "Register", "d7/dac/a25983.html#ae5a8adc3fe7cc5c5d7dd715449d3442f", null ]
+    [ "HandleJump", "d7/dac/a25983.html#ac70f6d53e85af1ee2591e761e21872db", null ],
+    [ "HandleScriptEffect", "d7/dac/a25983.html#abdaa3c5356f84429cf6d2e053a3238ff", null ],
+    [ "PrepareSpellScript", "d7/dac/a25983.html#a7daa7cef660e9f08b8e60c7788783c99", null ],
+    [ "Register", "d7/dac/a25983.html#a0cbd40958551e0f38850a9fdcd6f0048", null ]
 ];

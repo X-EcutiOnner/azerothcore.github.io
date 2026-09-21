@@ -1,6 +1,6 @@
 var a18723 =
 [
-    [ "npc_raging_spiritAI", "df/d87/a18727.html", "df/d87/a18727" ],
-    [ "npc_raging_spirit", "d5/db7/a18723.html#ad1a580bd394adc8c58575b600c16f9db", null ],
-    [ "GetAI", "d5/db7/a18723.html#ab572a667f6ddd0d4051fe424c8d9e21c", null ]
+    [ "boss_the_lich_kingAI", "df/d87/a18727.html", "df/d87/a18727" ],
+    [ "boss_the_lich_king", "d5/db7/a18723.html#a10e2789a98a85907d24eabae6d7655f4", null ],
+    [ "GetAI", "d5/db7/a18723.html#ab12d8cdfdb1c5428423f6db9dda6c97e", null ]
 ];

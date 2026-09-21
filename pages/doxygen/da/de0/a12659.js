@@ -1,17 +1,11 @@
 var a12659 =
 [
-    [ "boss_drektharAI", "da/de0/a12659.html#a4cd7f817b3dfe457cb330e73316e18d1", null ],
-    [ "AttackStart", "da/de0/a12659.html#a058d9683179756e49aa4e243d270105c", null ],
-    [ "EnterEvadeMode", "da/de0/a12659.html#a7f8677796d1b9dbe7021c056252278d3", null ],
-    [ "JustEngagedWith", "da/de0/a12659.html#aea7fad4bfdc14e5526a6620ee5d3ba2e", null ],
-    [ "JustRespawned", "da/de0/a12659.html#aef244c80a915eaf4c1e0ff1c1080b18a", null ],
-    [ "Reset", "da/de0/a12659.html#a87e1f67ae379360bc0843d7bb3cd0acb", null ],
-    [ "UpdateAI", "da/de0/a12659.html#a79f1f0430496d2a1759ded7cca5cdef3", null ],
-    [ "Attacked", "da/de0/a12659.html#a6a6b5b2b00e85231441f5a8a0213e5ec", null ],
-    [ "FrenzyTimer", "da/de0/a12659.html#afd2d5fc6b7091fb019048d32a8b3631e", null ],
-    [ "KnockdownTimer", "da/de0/a12659.html#a235912a2cb78bd10b6b3a45c51ee0cff", null ],
-    [ "ResetTimer", "da/de0/a12659.html#a7d7b0a8d19d540e998db3b6e189cc16d", null ],
-    [ "Whirlwind2Timer", "da/de0/a12659.html#a788359b7f2df1794dbff643d75b2c561", null ],
-    [ "WhirlwindTimer", "da/de0/a12659.html#aef399775e552d7e80224fbb0c2f62aff", null ],
-    [ "YellTimer", "da/de0/a12659.html#ad45ea624603c427fa5b3e40cd6ba7f5d", null ]
+    [ "quest_commandscript", "da/de0/a12659.html#a98804583ded14bc50d252475289dda4f", null ],
+    [ "GetCommands", "da/de0/a12659.html#afaf8c4b169a2bc7457b8ab97d13a367c", null ],
+    [ "HandleQuestAdd", "da/de0/a12659.html#acd1410f224a1d69bba1321999ebf25bc", null ],
+    [ "HandleQuestComplete", "da/de0/a12659.html#a044c30fdaedd07060284bd37fd2e226c", null ],
+    [ "HandleQuestRemove", "da/de0/a12659.html#ac0a87854f99c510c8309e9e337d1e71f", null ],
+    [ "HandleQuestReward", "da/de0/a12659.html#ab8d38057b3630b75cf21c8e88c1ebaf0", null ],
+    [ "HandleQuestStatus", "da/de0/a12659.html#adbba92d0cf47879e94710c971fd994ff", null ],
+    [ "QuestStatusToString", "da/de0/a12659.html#a179c2aec0a6bf010a83841ef089134ad", null ]
 ];

@@ -1,11 +1,11 @@
 var a12487 =
 [
-    [ "instance_commandscript", "df/d41/a12487.html#a4d0b308b35a1aa21c66c8bd406ffa82f", null ],
-    [ "GetCommands", "df/d41/a12487.html#a092d62969c835f6bf2a08ca3e05f04d5", null ],
-    [ "HandleInstanceGetBossStateCommand", "df/d41/a12487.html#a0530ca6481073d6bafd11596546140b0", null ],
-    [ "HandleInstanceListBindsCommand", "df/d41/a12487.html#abf42411f9c78ce59b21b34691e3d4233", null ],
-    [ "HandleInstanceSaveDataCommand", "df/d41/a12487.html#a4b494a8b1de470612436fbb9fa433416", null ],
-    [ "HandleInstanceSetBossStateCommand", "df/d41/a12487.html#aec65b5af811eae2cbcf17571e9d1473b", null ],
-    [ "HandleInstanceStatsCommand", "df/d41/a12487.html#a9547a0a88a3bcd7407c449f3f2f25f44", null ],
-    [ "HandleInstanceUnbindCommand", "df/d41/a12487.html#a7abbe257b10632f2acbdd838e1f073a9", null ]
+    [ "bf_commandscript", "df/d41/a12487.html#a806ca440ae1b51fffefee9d298dab3df", null ],
+    [ "GetCommands", "df/d41/a12487.html#a97f0192d7ccd3532cfceaebff9f242be", null ],
+    [ "HandleBattlefieldEnable", "df/d41/a12487.html#a5d6fdbbdd77fc16aaac170d5af0ff924", null ],
+    [ "HandleBattlefieldEnd", "df/d41/a12487.html#abe18a8f6f91de5a1984f09c711136919", null ],
+    [ "HandleBattlefieldQueue", "df/d41/a12487.html#ab2e116060bb747e9ae9237c49b8cc2c9", null ],
+    [ "HandleBattlefieldStart", "df/d41/a12487.html#a1cfd74a803277063fa5e03162956f341", null ],
+    [ "HandleBattlefieldSwitch", "df/d41/a12487.html#ae942a3c7f13cc77b3cf36078d798e0fe", null ],
+    [ "HandleBattlefieldTimer", "df/d41/a12487.html#a6c0d2587984f276bbc40af72017dc00a", null ]
 ];

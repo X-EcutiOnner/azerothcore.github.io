@@ -1,7 +1,8 @@
 var a11475 =
 [
-    [ "TrainerBuySucceeded", "df/dab/a11475.html#ae00367a55429030c107fc8f6bb7db288", null ],
-    [ "Write", "df/dab/a11475.html#a76c6af8b27ad75cb1f4944f8f44ba5d7", null ],
-    [ "SpellID", "df/dab/a11475.html#acb2b774859531ccf04fe6ba1d013e85d", null ],
-    [ "TrainerGUID", "df/dab/a11475.html#a4354c559764d2aa6b5d98bb51ee076fe", null ]
+    [ "MinimapPing", "df/dab/a11475.html#a846074f55e6224bf322b96c7bfe9e008", null ],
+    [ "Write", "df/dab/a11475.html#a94eb49e309ce83b04ccaf8f7e3e8bde7", null ],
+    [ "MapX", "df/dab/a11475.html#ab747a36a7dfefb0692e8c6abb1d161e2", null ],
+    [ "MapY", "df/dab/a11475.html#a2f8504ddba41dd09f69763d66331373b", null ],
+    [ "SourceGuid", "df/dab/a11475.html#abf5d5980b360cbf9332460b01d5816f5", null ]
 ];

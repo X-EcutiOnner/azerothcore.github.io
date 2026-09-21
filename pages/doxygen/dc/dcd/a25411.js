@@ -1,7 +1,6 @@
 var a25411 =
 [
-    [ "HandleStun", "dc/dcd/a25411.html#aec7b18c9fe4d03e6e61dd2e43c842a93", null ],
-    [ "PrepareAuraScript", "dc/dcd/a25411.html#a26bf4bfdbe5ccf890d75bc663f228639", null ],
-    [ "Register", "dc/dcd/a25411.html#a660a0e41ac5918cd365f4c47fea9c230", null ],
-    [ "Validate", "dc/dcd/a25411.html#a4e89cdbc719b32576f57dd6f7e5d3f2a", null ]
+    [ "CheckSeat", "dc/dcd/a25411.html#ab4e2376e084bc2cf0e30a91e3e5a270c", null ],
+    [ "PrepareSpellScript", "dc/dcd/a25411.html#aaa9a6f31ec57542dcd657874c4eb52aa", null ],
+    [ "Register", "dc/dcd/a25411.html#a6feb7c77ba258688a83bdb86e9ee53f8", null ]
 ];

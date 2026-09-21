@@ -1,6 +1,6 @@
 var a20399 =
 [
-    [ "FilterTargets", "d4/d96/a20399.html#a977f0687005cdbd585be0704e5ce20d8", null ],
-    [ "PrepareSpellScript", "d4/d96/a20399.html#a96f279fbc08f23f0b7e7f807dc0ddd7a", null ],
-    [ "Register", "d4/d96/a20399.html#a1038ca2384a31671dab1d72e1232cfe1", null ]
+    [ "CheckAreaTarget", "d4/d96/a20399.html#ad1930e308f450cb84dba4f4b28b19f58", null ],
+    [ "PrepareAuraScript", "d4/d96/a20399.html#a921b2f67c417244310398bd93061d61c", null ],
+    [ "Register", "d4/d96/a20399.html#ab21972706bae9fdc3fc6859da2f3f63e", null ]
 ];

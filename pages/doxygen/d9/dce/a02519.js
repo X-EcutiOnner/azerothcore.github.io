@@ -1,5 +1,13 @@
 var a02519 =
 [
-    [ "OutdoorPvP_terokkar_forest", "de/d87/a22717.html", "de/d87/a22717" ],
-    [ "AddSC_outdoorpvp_tf", "d9/dce/a02519.html#a6df553c8dd6e9b81e83110e7beab3646", null ]
+    [ "OutdoorPvPGH", "d5/df3/a22687.html", "d5/df3/a22687" ],
+    [ "OPvPCapturePointGH", "dd/d96/a22691.html", "dd/d96/a22691" ],
+    [ "OutdoorPvPGHenum", "d9/dce/a02519.html#a68fd4e51a6ab53a5f6bc93fe7800623b", [
+      [ "GH_ALLIANCE_DEFENSE_EVENT", "d9/dce/a02519.html#a68fd4e51a6ab53a5f6bc93fe7800623ba4d9e1d2fb4e064d2ec502e86046044c3", null ],
+      [ "GH_HORDE_DEFENSE_EVENT", "d9/dce/a02519.html#a68fd4e51a6ab53a5f6bc93fe7800623babf83508167d0dcdfb12a95048d098d10", null ],
+      [ "GH_ZONE", "d9/dce/a02519.html#a68fd4e51a6ab53a5f6bc93fe7800623ba5b111447969af668c37b96bdcb8e4e0f", null ],
+      [ "GH_QUEST_KEEP_EM_ON_THEIR_HEELS", "d9/dce/a02519.html#a68fd4e51a6ab53a5f6bc93fe7800623ba093fd7e4f043a87bac91a6d698f44b58", null ],
+      [ "GH_QUEST_KICK_EM_WHILE_THEYRE_DOWN", "d9/dce/a02519.html#a68fd4e51a6ab53a5f6bc93fe7800623bab570a16e35f63643cd666e8e9c67dce6", null ],
+      [ "GH_CREATURE_QUEST_BUNNY", "d9/dce/a02519.html#a68fd4e51a6ab53a5f6bc93fe7800623ba611910e455b02d10a37996956708a414", null ]
+    ] ]
 ];

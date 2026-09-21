@@ -1,8 +1,6 @@
 var a19143 =
 [
-    [ "npc_vampiric_fiend", "da/dd9/a19143.html#a4ddef98ac3b9d166980243b0dbe821f7", null ],
-    [ "EnterEvadeMode", "da/dd9/a19143.html#ac9f90234d1f100c671f70b249a339314", null ],
-    [ "JustEngagedWith", "da/dd9/a19143.html#a6167d1529b88c3b85cf21547b89bbc98", null ],
-    [ "UpdateAI", "da/dd9/a19143.html#aba3a8c1bfaa1f841f820e9540bc2267a", null ],
-    [ "_scheduler", "da/dd9/a19143.html#a8978bf1ffc6009b29c738ebe3232887f", null ]
+    [ "npc_captain_arnathAI", "d2/d10/a19147.html", "d2/d10/a19147" ],
+    [ "npc_captain_arnath", "da/dd9/a19143.html#ab96afce64a7714ea84bab932f80c9302", null ],
+    [ "GetAI", "da/dd9/a19143.html#a302ec007389e677011334d78f410207b", null ]
 ];

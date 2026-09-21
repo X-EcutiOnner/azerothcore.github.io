@@ -1,7 +1,5 @@
 var a09539 =
 [
-    [ "flags", "d4/d2d/a09539.html#a2faab5766bd3cbc09ed4e541be7e7f94", null ],
-    [ "fourcc", "d4/d2d/a09539.html#a93b48dd741d13ff036eac8a77df9f916", null ],
-    [ "gridHeight", "d4/d2d/a09539.html#a3fbdc02ff4769b6f2eacbdc02ba4d370", null ],
-    [ "gridMaxHeight", "d4/d2d/a09539.html#a1146dfae7dc4f89dddc94cda5deb7a4c", null ]
+    [ "MaxAllowedCount", "d4/d2d/a09539.html#afb0dcc50d8e9aa85fe2904050d646042", null ],
+    [ "Policy", "d4/d2d/a09539.html#a8b2bbd3d9f52166c1235b0d306042609", null ]
 ];

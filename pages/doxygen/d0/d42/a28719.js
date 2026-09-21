@@ -1,9 +1,8 @@
 var a28719 =
 [
-    [ "npc_necropolis_health", "d0/d42/a28719.html#a9dc3e7734c22adea687a69662a3c7afa", null ],
-    [ "DespawnNecropolis", "d0/d42/a28719.html#af80e2b106b04e02d4c23a5fe4c45a7a2", null ],
-    [ "JustDied", "d0/d42/a28719.html#a972687770c7afb0adfaac56f0cb73d5f", null ],
-    [ "SpellHit", "d0/d42/a28719.html#ad4a9f9b166ab8107a16da918082c6625", null ],
-    [ "SpellHitTarget", "d0/d42/a28719.html#ad357b3497d36d6471460c09d3f01ab3e", null ],
-    [ "_zapCount", "d0/d42/a28719.html#aa9f17362d0e4dbcf275a5148a4c2392b", null ]
+    [ "npc_wormholeAI", "dc/d41/a28723.html", "dc/d41/a28723" ],
+    [ "npc_wormhole", "d0/d42/a28719.html#aeace4cbf665409786b86140709191cb0", null ],
+    [ "GetAI", "d0/d42/a28719.html#af43ec809ce2efe2cd7127029f3c3ec45", null ],
+    [ "OnGossipHello", "d0/d42/a28719.html#a6ae1a84557f8dc0f0631b9cc7e88d78e", null ],
+    [ "OnGossipSelect", "d0/d42/a28719.html#a73e441bf05f8a4ea7f57d767945e2d5d", null ]
 ];

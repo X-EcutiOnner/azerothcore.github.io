@@ -1,8 +1,5 @@
 var a13379 =
 [
-    [ "CalcPeriodic", "d9/d05/a13379.html#a493609298c152df8216641ba2e5861cd", null ],
-    [ "PrepareAuraScript", "d9/d05/a13379.html#a30c2bac7e939cf7de2141f6cdfa51619", null ],
-    [ "Register", "d9/d05/a13379.html#a44002db5980dfc1db816cf61fd446491", null ],
-    [ "Update", "d9/d05/a13379.html#a7a1fc11cf4183c7202a929c72035d8e7", null ],
-    [ "Validate", "d9/d05/a13379.html#a060e189aaa4396681d42906b65c9196f", null ]
+    [ "at_karazhan_mirkblood_entrance", "d9/d05/a13379.html#aa5537dc8616c1f748b6be4b1e2870ca7", null ],
+    [ "OnTrigger", "d9/d05/a13379.html#ad99c85de36a369752fa61bab761a402e", null ]
 ];

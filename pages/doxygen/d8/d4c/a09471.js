@@ -1,6 +1,4 @@
 var a09471 =
 [
-    [ "m_guid", "d8/d4c/a09471.html#afa8383c81a2d75f9ead2e8f3daa29086", null ],
-    [ "m_instance", "d8/d4c/a09471.html#a8bc0c5e1cf45073f054c5154c21b3d72", null ],
-    [ "m_state", "d8/d4c/a09471.html#a3ac18fb8f5d386e3245a2435e31e45e1", null ]
+    [ "Content", "d8/d4c/a09471.html#a2258fd4a2b331369a95988cfa6b42f4c", null ]
 ];

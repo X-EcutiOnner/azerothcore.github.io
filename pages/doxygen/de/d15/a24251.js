@@ -1,12 +1,7 @@
 var a24251 =
 [
-    [ "npc_enslaved_netherwing_drake", "de/d15/a24251.html#a9f848fa3c68b8a269f0b6016058ec364", null ],
-    [ "_GetPlayer", "de/d15/a24251.html#af02a965e98f35134a3c40ed9cdfb723e", null ],
-    [ "JustDied", "de/d15/a24251.html#acde70c9d8c675a9a9dd14695dc752184", null ],
-    [ "MovementInform", "de/d15/a24251.html#afa030a380365daa33c156a0d6be6a6d9", null ],
-    [ "Reset", "de/d15/a24251.html#aec02b19d27a09f16ef06adb694c2e65e", null ],
-    [ "SpellHit", "de/d15/a24251.html#a195794e88870a0b1ca35473f5f0378a7", null ],
-    [ "UpdateAI", "de/d15/a24251.html#aa7ac2dd17bdf4939d74fe5af85c649b9", null ],
-    [ "_playerGUID", "de/d15/a24251.html#a2f9a6a6cbaa9cab0e6014f6fd1c54346", null ],
-    [ "_tapped", "de/d15/a24251.html#a9cbafd9536ff7eca33b0b44295aaec92", null ]
+    [ "npc_kurenai_captiveAI", "d8/de9/a24255.html", "d8/de9/a24255" ],
+    [ "npc_kurenai_captive", "de/d15/a24251.html#ae0e283bfc476f2d9e602158fa8720cdc", null ],
+    [ "GetAI", "de/d15/a24251.html#ad6f9abf280ca7c3a1b16f7e4815fb979", null ],
+    [ "OnQuestAccept", "de/d15/a24251.html#a5e87cd850d0fc6272d89dd3c7901af5f", null ]
 ];

@@ -1,14 +1,20 @@
 var a13339 =
 [
-    [ "boss_strawman", "d7/d2a/a13339.html#a1789cdafc2ce03e156ac686e6859e25f", null ],
-    [ "DoAction", "d7/d2a/a13339.html#a57f9519f87bc8e7446632a49f56a02ca", null ],
-    [ "EnterEvadeMode", "d7/d2a/a13339.html#a67fd9b85406512cef4f3ae581461f0c4", null ],
-    [ "JustDied", "d7/d2a/a13339.html#ab175b0104d316b8929e32d9eb939780f", null ],
-    [ "JustEngagedWith", "d7/d2a/a13339.html#a40657516c4f1b049dd0514a50e299a10", null ],
-    [ "JustReachedHome", "d7/d2a/a13339.html#a4235b2de2540199f9570cbadb7326871", null ],
-    [ "KilledUnit", "d7/d2a/a13339.html#a06b92dbb6907ace60df7e10893be7af0", null ],
-    [ "SpellHit", "d7/d2a/a13339.html#a5bf558765b59a7950bd55ece14c07a4f", null ],
-    [ "UpdateAI", "d7/d2a/a13339.html#adcb7db7cb3f938b492a28c3540251ea9", null ],
-    [ "_scheduler", "d7/d2a/a13339.html#a409539c771b373c165bdbccac8a59e7f", null ],
-    [ "instance", "d7/d2a/a13339.html#a157a6faacf83432b8227173f6b14a7d3", null ]
+    [ "boss_shade_of_aran", "d7/d2a/a13339.html#a581351036c7e09de447f065a4ef82e03", null ],
+    [ "AttackStart", "d7/d2a/a13339.html#a140ec9e0f968c42f9f003d9a52693884", null ],
+    [ "CheckAranInRoom", "d7/d2a/a13339.html#a64779949875ab0d812746adb78123f7a", null ],
+    [ "DamageTaken", "d7/d2a/a13339.html#a837e9284a2e2b3fe5467cca4fd09c60f", null ],
+    [ "JustDied", "d7/d2a/a13339.html#ac79c249652f1de37b0c7d31a86dd0e51", null ],
+    [ "JustEngagedWith", "d7/d2a/a13339.html#a11a9b1a8a24b9bc9965d655a6f856ef0", null ],
+    [ "KilledUnit", "d7/d2a/a13339.html#ad7470576e9dd08d5fc47259d8de943b2", null ],
+    [ "OnPowerUpdate", "d7/d2a/a13339.html#a3ac487d431bc444cd8c39bb813260737", null ],
+    [ "Reset", "d7/d2a/a13339.html#a03def93f3e3f33d4f760e9f7c7c85d86", null ],
+    [ "SetGUID", "d7/d2a/a13339.html#ad9c71eebc6ba734e1e0d2684a19f1cda", null ],
+    [ "UpdateAI", "d7/d2a/a13339.html#ae80c5bc869136e2ce2c5b4f6cfdc6ea4", null ],
+    [ "_atieshReaction", "d7/d2a/a13339.html#a88c6677edc8a37ac1e36fe6f1688d847", null ],
+    [ "_currentNormalSpell", "d7/d2a/a13339.html#a4384769fb6eb868c612ed34cbb6b2409", null ],
+    [ "_drinking", "d7/d2a/a13339.html#a84a6941826c6c2f1f70965e8909f796e", null ],
+    [ "_drinkScheduler", "d7/d2a/a13339.html#a47e88dcf0027bd197350df7f80bc42d3", null ],
+    [ "_hasDrunk", "d7/d2a/a13339.html#a93bec133a8a1ba41aa9eb86ff19e5eca", null ],
+    [ "_lastSuperSpell", "d7/d2a/a13339.html#afe99b96811ff1e61ea6bbdce42fe8d7d", null ]
 ];

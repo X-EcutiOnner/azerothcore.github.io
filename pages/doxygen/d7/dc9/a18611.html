@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: FrozenThroneResetWorker Class Reference</title>
+<title>AzerothCore: MysticBuffetTargetFilter Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,22 +106,28 @@ $(document).ready(function(){initNavTree('d7/dc9/a18611.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../d6/d71/a18608.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">FrozenThroneResetWorker Class Reference</div></div>
+  <div class="headertitle"><div class="title">MysticBuffetTargetFilter Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:afd21e9c1449d4e391713256e197bc92b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dc9/a18611.html#afd21e9c1449d4e391713256e197bc92b">FrozenThroneResetWorker</a> ()</td></tr>
-<tr class="separator:afd21e9c1449d4e391713256e197bc92b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7119548d30d760ae817a87cacf712cf6"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dc9/a18611.html#a7119548d30d760ae817a87cacf712cf6">operator()</a> (<a class="el" href="../../d2/d95/a08583.html">GameObject</a> *go)</td></tr>
-<tr class="separator:a7119548d30d760ae817a87cacf712cf6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5cc25dc0c6de036ec8fa3e7f10ffb2ea"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dc9/a18611.html#a5cc25dc0c6de036ec8fa3e7f10ffb2ea">MysticBuffetTargetFilter</a> (<a class="el" href="../../d9/d33/a09227.html">Unit</a> *caster)</td></tr>
+<tr class="separator:a5cc25dc0c6de036ec8fa3e7f10ffb2ea"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a76536b8960aa5e64fa8f7a02939d4295"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dc9/a18611.html#a76536b8960aa5e64fa8f7a02939d4295">operator()</a> (<a class="el" href="../../d1/d83/a08879.html">WorldObject</a> *unit) const</td></tr>
+<tr class="separator:a76536b8960aa5e64fa8f7a02939d4295"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:a60ef55fa8d6f511bba566ac3c8f8328a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d33/a09227.html">Unit</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dc9/a18611.html#a60ef55fa8d6f511bba566ac3c8f8328a">_caster</a></td></tr>
+<tr class="separator:a60ef55fa8d6f511bba566ac3c8f8328a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="afd21e9c1449d4e391713256e197bc92b" name="afd21e9c1449d4e391713256e197bc92b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afd21e9c1449d4e391713256e197bc92b">&#9670;&#160;</a></span>FrozenThroneResetWorker()</h2>
+<a id="a5cc25dc0c6de036ec8fa3e7f10ffb2ea" name="a5cc25dc0c6de036ec8fa3e7f10ffb2ea"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5cc25dc0c6de036ec8fa3e7f10ffb2ea">&#9670;&#160;</a></span>MysticBuffetTargetFilter()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -130,25 +136,27 @@ Public Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">FrozenThroneResetWorker::FrozenThroneResetWorker </td>
+          <td class="memname">MysticBuffetTargetFilter::MysticBuffetTargetFilter </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d9/d33/a09227.html">Unit</a> *&#160;</td>
+          <td class="paramname"><em>caster</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">explicit</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  461</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1110</span>: <a class="code hl_variable" href="../../d7/dc9/a18611.html#a60ef55fa8d6f511bba566ac3c8f8328a">_caster</a>(caster) { }</div>
+<div class="ttc" id="aa18611_html_a60ef55fa8d6f511bba566ac3c8f8328a"><div class="ttname"><a href="../../d7/dc9/a18611.html#a60ef55fa8d6f511bba566ac3c8f8328a">MysticBuffetTargetFilter::_caster</a></div><div class="ttdeci">Unit * _caster</div><div class="ttdef"><b>Definition:</b> boss_sindragosa.cpp:1129</div></div>
 </div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a7119548d30d760ae817a87cacf712cf6" name="a7119548d30d760ae817a87cacf712cf6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7119548d30d760ae817a87cacf712cf6">&#9670;&#160;</a></span>operator()()</h2>
+<a id="a76536b8960aa5e64fa8f7a02939d4295" name="a76536b8960aa5e64fa8f7a02939d4295"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a76536b8960aa5e64fa8f7a02939d4295">&#9670;&#160;</a></span>operator()()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -157,11 +165,11 @@ Public Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool FrozenThroneResetWorker::operator() </td>
+          <td class="memname">bool MysticBuffetTargetFilter::operator() </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/d95/a08583.html">GameObject</a> *&#160;</td>
-          <td class="paramname"><em>go</em></td><td>)</td>
-          <td></td>
+          <td class="paramtype"><a class="el" href="../../d1/d83/a08879.html">WorldObject</a> *&#160;</td>
+          <td class="paramname"><em>unit</em></td><td>)</td>
+          <td> const</td>
         </tr>
       </table>
   </td>
@@ -170,50 +178,59 @@ Public Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  464</span>    {</div>
-<div class="line"><span class="lineno">  465</span>        <span class="keywordflow">switch</span> (go-&gt;<a class="code hl_function" href="../../d6/dbd/a08779.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>())</div>
-<div class="line"><span class="lineno">  466</span>        {</div>
-<div class="line"><span class="lineno">  467</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d7/d5e/a03953.html#af7a9ac7973846c078e2e9f7c9e3e909eaa18d33da37d90a30da8318d2df00fae6">GO_ARTHAS_PLATFORM</a>:</div>
-<div class="line"><span class="lineno">  468</span>                go-&gt;<a class="code hl_function" href="../../d2/d95/a08583.html#ab377faca30b832826a1984488a6f4ceb">SetDestructibleState</a>(<a class="code hl_enumvalue" href="../../da/de8/a02852.html#a9730a362f8088d9f7e20cc44fc672c6cad235b22753e1b2ea6bf6316de823e4eb">GO_DESTRUCTIBLE_INTACT</a>, <span class="keyword">nullptr</span>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  469</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  470</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d7/d5e/a03953.html#af7a9ac7973846c078e2e9f7c9e3e909eab564a90178cd4f0459fc631e3552d174">GO_DOODAD_ICECROWN_THRONEFROSTYWIND01</a>:</div>
-<div class="line"><span class="lineno">  471</span>                go-&gt;<a class="code hl_function" href="../../d2/d95/a08583.html#a076a61c5824ee381e456486af8ceb87d">SetGoState</a>(<a class="code hl_enumvalue" href="../../d3/d2d/a01625.html#ac17cd142af80da019367bb796b15e5abaf4f299c1cfc830c90418c4487c567c1e">GO_STATE_ACTIVE</a>);</div>
-<div class="line"><span class="lineno">  472</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  473</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d7/d5e/a03953.html#af7a9ac7973846c078e2e9f7c9e3e909eaf01526c0205e7c71cd5d4535689c22b6">GO_DOODAD_ICECROWN_THRONEFROSTYEDGE01</a>:</div>
-<div class="line"><span class="lineno">  474</span>                go-&gt;<a class="code hl_function" href="../../d2/d95/a08583.html#a076a61c5824ee381e456486af8ceb87d">SetGoState</a>(<a class="code hl_enumvalue" href="../../d3/d2d/a01625.html#ac17cd142af80da019367bb796b15e5aba8dd2dd7e5c1dda64ff6d0d06d623b650">GO_STATE_READY</a>);</div>
-<div class="line"><span class="lineno">  475</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  476</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d7/d5e/a03953.html#af7a9ac7973846c078e2e9f7c9e3e909ea75b5e1e7da08c03fcf17f029ebf0558c">GO_DOODAD_ICECROWN_SNOWEDGEWARNING01</a>:</div>
-<div class="line"><span class="lineno">  477</span>                go-&gt;<a class="code hl_function" href="../../d2/d95/a08583.html#a076a61c5824ee381e456486af8ceb87d">SetGoState</a>(<a class="code hl_enumvalue" href="../../d3/d2d/a01625.html#ac17cd142af80da019367bb796b15e5aba8dd2dd7e5c1dda64ff6d0d06d623b650">GO_STATE_READY</a>);</div>
-<div class="line"><span class="lineno">  478</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  479</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d7/d5e/a03953.html#af7a9ac7973846c078e2e9f7c9e3e909ea45c79be686aa5c403202fed6a28efba9">GO_DOODAD_ICESHARD_STANDING02</a>:</div>
-<div class="line"><span class="lineno">  480</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d7/d5e/a03953.html#af7a9ac7973846c078e2e9f7c9e3e909ea3cf0954734588b002a8b34146fa2b0ff">GO_DOODAD_ICESHARD_STANDING01</a>:</div>
-<div class="line"><span class="lineno">  481</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d7/d5e/a03953.html#af7a9ac7973846c078e2e9f7c9e3e909eab24d1a6e24b3b4f54d46e21669f42ad5">GO_DOODAD_ICESHARD_STANDING03</a>:</div>
-<div class="line"><span class="lineno">  482</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d7/d5e/a03953.html#af7a9ac7973846c078e2e9f7c9e3e909ea9cc416f3f720a1c48ca3924e035fd1da">GO_DOODAD_ICESHARD_STANDING04</a>:</div>
-<div class="line"><span class="lineno">  483</span>                go-&gt;<a class="code hl_function" href="../../d2/d95/a08583.html#a9cd78a515074efe0af8cedd4f92ba085">ResetDoorOrButton</a>();</div>
-<div class="line"><span class="lineno">  484</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  485</span>            <span class="keywordflow">default</span>:</div>
-<div class="line"><span class="lineno">  486</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  487</span>        }</div>
-<div class="line"><span class="lineno">  488</span> </div>
-<div class="line"><span class="lineno">  489</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  490</span>    }</div>
-<div class="ttc" id="aa01625_html_ac17cd142af80da019367bb796b15e5aba8dd2dd7e5c1dda64ff6d0d06d623b650"><div class="ttname"><a href="../../d3/d2d/a01625.html#ac17cd142af80da019367bb796b15e5aba8dd2dd7e5c1dda64ff6d0d06d623b650">GO_STATE_READY</a></div><div class="ttdeci">@ GO_STATE_READY</div><div class="ttdef"><b>Definition:</b> GameObjectData.h:709</div></div>
-<div class="ttc" id="aa01625_html_ac17cd142af80da019367bb796b15e5abaf4f299c1cfc830c90418c4487c567c1e"><div class="ttname"><a href="../../d3/d2d/a01625.html#ac17cd142af80da019367bb796b15e5abaf4f299c1cfc830c90418c4487c567c1e">GO_STATE_ACTIVE</a></div><div class="ttdeci">@ GO_STATE_ACTIVE</div><div class="ttdef"><b>Definition:</b> GameObjectData.h:708</div></div>
-<div class="ttc" id="aa02852_html_a9730a362f8088d9f7e20cc44fc672c6cad235b22753e1b2ea6bf6316de823e4eb"><div class="ttname"><a href="../../da/de8/a02852.html#a9730a362f8088d9f7e20cc44fc672c6cad235b22753e1b2ea6bf6316de823e4eb">GO_DESTRUCTIBLE_INTACT</a></div><div class="ttdeci">@ GO_DESTRUCTIBLE_INTACT</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1631</div></div>
-<div class="ttc" id="aa03953_html_af7a9ac7973846c078e2e9f7c9e3e909ea3cf0954734588b002a8b34146fa2b0ff"><div class="ttname"><a href="../../d7/d5e/a03953.html#af7a9ac7973846c078e2e9f7c9e3e909ea3cf0954734588b002a8b34146fa2b0ff">GO_DOODAD_ICESHARD_STANDING01</a></div><div class="ttdeci">@ GO_DOODAD_ICESHARD_STANDING01</div><div class="ttdef"><b>Definition:</b> icecrown_citadel.h:481</div></div>
-<div class="ttc" id="aa03953_html_af7a9ac7973846c078e2e9f7c9e3e909ea45c79be686aa5c403202fed6a28efba9"><div class="ttname"><a href="../../d7/d5e/a03953.html#af7a9ac7973846c078e2e9f7c9e3e909ea45c79be686aa5c403202fed6a28efba9">GO_DOODAD_ICESHARD_STANDING02</a></div><div class="ttdeci">@ GO_DOODAD_ICESHARD_STANDING02</div><div class="ttdef"><b>Definition:</b> icecrown_citadel.h:480</div></div>
-<div class="ttc" id="aa03953_html_af7a9ac7973846c078e2e9f7c9e3e909ea75b5e1e7da08c03fcf17f029ebf0558c"><div class="ttname"><a href="../../d7/d5e/a03953.html#af7a9ac7973846c078e2e9f7c9e3e909ea75b5e1e7da08c03fcf17f029ebf0558c">GO_DOODAD_ICECROWN_SNOWEDGEWARNING01</a></div><div class="ttdeci">@ GO_DOODAD_ICECROWN_SNOWEDGEWARNING01</div><div class="ttdef"><b>Definition:</b> icecrown_citadel.h:484</div></div>
-<div class="ttc" id="aa03953_html_af7a9ac7973846c078e2e9f7c9e3e909ea9cc416f3f720a1c48ca3924e035fd1da"><div class="ttname"><a href="../../d7/d5e/a03953.html#af7a9ac7973846c078e2e9f7c9e3e909ea9cc416f3f720a1c48ca3924e035fd1da">GO_DOODAD_ICESHARD_STANDING04</a></div><div class="ttdeci">@ GO_DOODAD_ICESHARD_STANDING04</div><div class="ttdef"><b>Definition:</b> icecrown_citadel.h:483</div></div>
-<div class="ttc" id="aa03953_html_af7a9ac7973846c078e2e9f7c9e3e909eaa18d33da37d90a30da8318d2df00fae6"><div class="ttname"><a href="../../d7/d5e/a03953.html#af7a9ac7973846c078e2e9f7c9e3e909eaa18d33da37d90a30da8318d2df00fae6">GO_ARTHAS_PLATFORM</a></div><div class="ttdeci">@ GO_ARTHAS_PLATFORM</div><div class="ttdef"><b>Definition:</b> icecrown_citadel.h:476</div></div>
-<div class="ttc" id="aa03953_html_af7a9ac7973846c078e2e9f7c9e3e909eab24d1a6e24b3b4f54d46e21669f42ad5"><div class="ttname"><a href="../../d7/d5e/a03953.html#af7a9ac7973846c078e2e9f7c9e3e909eab24d1a6e24b3b4f54d46e21669f42ad5">GO_DOODAD_ICESHARD_STANDING03</a></div><div class="ttdeci">@ GO_DOODAD_ICESHARD_STANDING03</div><div class="ttdef"><b>Definition:</b> icecrown_citadel.h:482</div></div>
-<div class="ttc" id="aa03953_html_af7a9ac7973846c078e2e9f7c9e3e909eab564a90178cd4f0459fc631e3552d174"><div class="ttname"><a href="../../d7/d5e/a03953.html#af7a9ac7973846c078e2e9f7c9e3e909eab564a90178cd4f0459fc631e3552d174">GO_DOODAD_ICECROWN_THRONEFROSTYWIND01</a></div><div class="ttdeci">@ GO_DOODAD_ICECROWN_THRONEFROSTYWIND01</div><div class="ttdef"><b>Definition:</b> icecrown_citadel.h:478</div></div>
-<div class="ttc" id="aa03953_html_af7a9ac7973846c078e2e9f7c9e3e909eaf01526c0205e7c71cd5d4535689c22b6"><div class="ttname"><a href="../../d7/d5e/a03953.html#af7a9ac7973846c078e2e9f7c9e3e909eaf01526c0205e7c71cd5d4535689c22b6">GO_DOODAD_ICECROWN_THRONEFROSTYEDGE01</a></div><div class="ttdeci">@ GO_DOODAD_ICECROWN_THRONEFROSTYEDGE01</div><div class="ttdef"><b>Definition:</b> icecrown_citadel.h:479</div></div>
-<div class="ttc" id="aa08583_html_a076a61c5824ee381e456486af8ceb87d"><div class="ttname"><a href="../../d2/d95/a08583.html#a076a61c5824ee381e456486af8ceb87d">GameObject::SetGoState</a></div><div class="ttdeci">void SetGoState(GOState state)</div><div class="ttdef"><b>Definition:</b> GameObject.cpp:2503</div></div>
-<div class="ttc" id="aa08583_html_a9cd78a515074efe0af8cedd4f92ba085"><div class="ttname"><a href="../../d2/d95/a08583.html#a9cd78a515074efe0af8cedd4f92ba085">GameObject::ResetDoorOrButton</a></div><div class="ttdeci">void ResetDoorOrButton()</div><div class="ttdef"><b>Definition:</b> GameObject.cpp:1403</div></div>
-<div class="ttc" id="aa08583_html_ab377faca30b832826a1984488a6f4ceb"><div class="ttname"><a href="../../d2/d95/a08583.html#ab377faca30b832826a1984488a6f4ceb">GameObject::SetDestructibleState</a></div><div class="ttdeci">void SetDestructibleState(GameObjectDestructibleState state, Player *eventInvoker=nullptr, bool setHealth=false)</div><div class="ttdef"><b>Definition:</b> GameObject.cpp:2366</div></div>
-<div class="ttc" id="aa08779_html_aa627fe2967ed0e0ed1d8aeeb4365a961"><div class="ttname"><a href="../../d6/dbd/a08779.html#aa627fe2967ed0e0ed1d8aeeb4365a961">Object::GetEntry</a></div><div class="ttdeci">uint32 GetEntry() const</div><div class="ttdef"><b>Definition:</b> Object.h:117</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 1113</span>    {</div>
+<div class="line"><span class="lineno"> 1114</span>        <span class="keywordflow">if</span> (!unit-&gt;<a class="code hl_function" href="../../d1/d83/a08879.html#aedc362bb48f474ee7291f4c82f585837">IsInMap</a>(<a class="code hl_variable" href="../../d7/dc9/a18611.html#a60ef55fa8d6f511bba566ac3c8f8328a">_caster</a>))</div>
+<div class="line"><span class="lineno"> 1115</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 1116</span> </div>
+<div class="line"><span class="lineno"> 1117</span>        <span class="comment">// for standard creatures check full LOS</span></div>
+<div class="line"><span class="lineno"> 1118</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d5/d25/a08467.html">Creature</a>* c = unit-&gt;<a class="code hl_function" href="../../d1/d76/a08843.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>())</div>
+<div class="line"><span class="lineno"> 1119</span>            <span class="keywordflow">if</span> (!c-&gt;IsPet() &amp;&amp; c-&gt;GetSpawnId())</div>
+<div class="line"><span class="lineno"> 1120</span>                <span class="keywordflow">return</span> !<a class="code hl_variable" href="../../d7/dc9/a18611.html#a60ef55fa8d6f511bba566ac3c8f8328a">_caster</a>-&gt;<a class="code hl_function" href="../../d1/d83/a08879.html#a64f76cf543cb4851cb271bb7d2facaf2">IsWithinLOSInMap</a>(unit);</div>
+<div class="line"><span class="lineno"> 1121</span> </div>
+<div class="line"><span class="lineno"> 1122</span>        <span class="comment">// for players and pets check only dynamic los (ice block gameobjects)</span></div>
+<div class="line"><span class="lineno"> 1123</span>        <span class="keywordflow">if</span> (unit-&gt;<a class="code hl_function" href="../../d1/d76/a08843.html#a5f4cb5fb092b0178b1bd59a850d79de5">IsUnit</a>() &amp;&amp; unit-&gt;<a class="code hl_function" href="../../d1/d76/a08843.html#afd88f95deffad982ca0b5ef16b6244e8">ToUnit</a>()-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#ab78147cd520d2dac6be709b4c80a7de3">HasUnitState</a>(<a class="code hl_enumvalue" href="../../dd/ddc/a01802.html#ae51d2ecb71f7a5cb3882982a622c9544aca5cf26a4e0d2d9e3126ff99ed3796ef">UNIT_STATE_MELEE_ATTACKING</a>) &amp;&amp; unit-&gt;<a class="code hl_function" href="../../d1/d76/a08843.html#afd88f95deffad982ca0b5ef16b6244e8">ToUnit</a>()-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#a748fa068a1b1b9850141f91ff17fc65d">IsWithinMeleeRange</a>(<a class="code hl_variable" href="../../d7/dc9/a18611.html#a60ef55fa8d6f511bba566ac3c8f8328a">_caster</a>))</div>
+<div class="line"><span class="lineno"> 1124</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1125</span>        <span class="keywordflow">return</span> !<a class="code hl_variable" href="../../d7/dc9/a18611.html#a60ef55fa8d6f511bba566ac3c8f8328a">_caster</a>-&gt;<a class="code hl_function" href="../../d1/d83/a08879.html#a64f76cf543cb4851cb271bb7d2facaf2">IsWithinLOSInMap</a>(unit, <a class="code hl_enumvalue" href="../../d9/d0b/a05125.html#a6996c44f3ac72cd9dc04515186d2da28af80a4ad87fee7c9fdc19b7769495fdb5">VMAP::ModelIgnoreFlags::Nothing</a>, <a class="code hl_enumvalue" href="../../d4/d13/a00377.html#abc95f0a7147fb553d023f994f003a1c6a1b9463c69951824723107b569fdb32a3">LINEOFSIGHT_CHECK_GOBJECT_M2</a>, 0, <a class="code hl_variable" href="../../d7/dc9/a18611.html#a60ef55fa8d6f511bba566ac3c8f8328a">_caster</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#a5f8e38db03da1828c7f5447548b393e3">GetCombatReach</a>() * 0.7);</div>
+<div class="line"><span class="lineno"> 1126</span>    }</div>
+<div class="ttc" id="aa00377_html_abc95f0a7147fb553d023f994f003a1c6a1b9463c69951824723107b569fdb32a3"><div class="ttname"><a href="../../d4/d13/a00377.html#abc95f0a7147fb553d023f994f003a1c6a1b9463c69951824723107b569fdb32a3">LINEOFSIGHT_CHECK_GOBJECT_M2</a></div><div class="ttdeci">@ LINEOFSIGHT_CHECK_GOBJECT_M2</div><div class="ttdef"><b>Definition:</b> Map.h:111</div></div>
+<div class="ttc" id="aa01802_html_ae51d2ecb71f7a5cb3882982a622c9544aca5cf26a4e0d2d9e3126ff99ed3796ef"><div class="ttname"><a href="../../dd/ddc/a01802.html#ae51d2ecb71f7a5cb3882982a622c9544aca5cf26a4e0d2d9e3126ff99ed3796ef">UNIT_STATE_MELEE_ATTACKING</a></div><div class="ttdeci">@ UNIT_STATE_MELEE_ATTACKING</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:174</div></div>
+<div class="ttc" id="aa05125_html_a6996c44f3ac72cd9dc04515186d2da28af80a4ad87fee7c9fdc19b7769495fdb5"><div class="ttname"><a href="../../d9/d0b/a05125.html#a6996c44f3ac72cd9dc04515186d2da28af80a4ad87fee7c9fdc19b7769495fdb5">VMAP::ModelIgnoreFlags::Nothing</a></div><div class="ttdeci">@ Nothing</div></div>
+<div class="ttc" id="aa08467_html"><div class="ttname"><a href="../../d5/d25/a08467.html">Creature</a></div><div class="ttdef"><b>Definition:</b> Creature.h:47</div></div>
+<div class="ttc" id="aa08843_html_a5f4cb5fb092b0178b1bd59a850d79de5"><div class="ttname"><a href="../../d1/d76/a08843.html#a5f4cb5fb092b0178b1bd59a850d79de5">Object::IsUnit</a></div><div class="ttdeci">bool IsUnit() const</div><div class="ttdef"><b>Definition:</b> Object.h:215</div></div>
+<div class="ttc" id="aa08843_html_ab0e2ef1ac1daa91476f749e0ec6ad3c6"><div class="ttname"><a href="../../d1/d76/a08843.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">Object::ToCreature</a></div><div class="ttdeci">Creature * ToCreature()</div><div class="ttdef"><b>Definition:</b> Object.h:212</div></div>
+<div class="ttc" id="aa08843_html_afd88f95deffad982ca0b5ef16b6244e8"><div class="ttname"><a href="../../d1/d76/a08843.html#afd88f95deffad982ca0b5ef16b6244e8">Object::ToUnit</a></div><div class="ttdeci">Unit * ToUnit()</div><div class="ttdef"><b>Definition:</b> Object.h:216</div></div>
+<div class="ttc" id="aa08879_html_a64f76cf543cb4851cb271bb7d2facaf2"><div class="ttname"><a href="../../d1/d83/a08879.html#a64f76cf543cb4851cb271bb7d2facaf2">WorldObject::IsWithinLOSInMap</a></div><div class="ttdeci">bool IsWithinLOSInMap(WorldObject const *obj, VMAP::ModelIgnoreFlags ignoreFlags=VMAP::ModelIgnoreFlags::Nothing, LineOfSightChecks checks=LINEOFSIGHT_ALL_CHECKS, Optional&lt; float &gt; collisionHeight={ }, Optional&lt; float &gt; combatReach={ }) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1412</div></div>
+<div class="ttc" id="aa08879_html_aedc362bb48f474ee7291f4c82f585837"><div class="ttname"><a href="../../d1/d83/a08879.html#aedc362bb48f474ee7291f4c82f585837">WorldObject::IsInMap</a></div><div class="ttdeci">bool IsInMap(WorldObject const *obj) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1344</div></div>
+<div class="ttc" id="aa09227_html_a5f8e38db03da1828c7f5447548b393e3"><div class="ttname"><a href="../../d9/d33/a09227.html#a5f8e38db03da1828c7f5447548b393e3">Unit::GetCombatReach</a></div><div class="ttdeci">float GetCombatReach() const override</div><div class="ttdef"><b>Definition:</b> Unit.h:878</div></div>
+<div class="ttc" id="aa09227_html_a748fa068a1b1b9850141f91ff17fc65d"><div class="ttname"><a href="../../d9/d33/a09227.html#a748fa068a1b1b9850141f91ff17fc65d">Unit::IsWithinMeleeRange</a></div><div class="ttdeci">bool IsWithinMeleeRange(Unit const *obj, float dist=0.f) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:790</div></div>
+<div class="ttc" id="aa09227_html_ab78147cd520d2dac6be709b4c80a7de3"><div class="ttname"><a href="../../d9/d33/a09227.html#ab78147cd520d2dac6be709b4c80a7de3">Unit::HasUnitState</a></div><div class="ttdeci">bool HasUnitState(const uint32 f) const</div><div class="ttdef"><b>Definition:</b> Unit.h:737</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00117">Object::GetEntry()</a>, <a class="el" href="../../#l00476">GO_ARTHAS_PLATFORM</a>, <a class="el" href="../../#l01631">GO_DESTRUCTIBLE_INTACT</a>, <a class="el" href="../../#l00484">GO_DOODAD_ICECROWN_SNOWEDGEWARNING01</a>, <a class="el" href="../../#l00479">GO_DOODAD_ICECROWN_THRONEFROSTYEDGE01</a>, <a class="el" href="../../#l00478">GO_DOODAD_ICECROWN_THRONEFROSTYWIND01</a>, <a class="el" href="../../#l00481">GO_DOODAD_ICESHARD_STANDING01</a>, <a class="el" href="../../#l00480">GO_DOODAD_ICESHARD_STANDING02</a>, <a class="el" href="../../#l00482">GO_DOODAD_ICESHARD_STANDING03</a>, <a class="el" href="../../#l00483">GO_DOODAD_ICESHARD_STANDING04</a>, <a class="el" href="../../#l00708">GO_STATE_ACTIVE</a>, <a class="el" href="../../#l00709">GO_STATE_READY</a>, <a class="el" href="../../#l01403">GameObject::ResetDoorOrButton()</a>, <a class="el" href="../../#l02366">GameObject::SetDestructibleState()</a>, and <a class="el" href="../../#l02503">GameObject::SetGoState()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01129">_caster</a>, <a class="el" href="../../#l00878">Unit::GetCombatReach()</a>, <a class="el" href="../../#l00737">Unit::HasUnitState()</a>, <a class="el" href="../../#l01344">WorldObject::IsInMap()</a>, <a class="el" href="../../#l00215">Object::IsUnit()</a>, <a class="el" href="../../#l01412">WorldObject::IsWithinLOSInMap()</a>, <a class="el" href="../../#l00790">Unit::IsWithinMeleeRange()</a>, <a class="el" href="../../#l00111">LINEOFSIGHT_CHECK_GOBJECT_M2</a>, <a class="el" href="../../d9/d0b/a05125.html#a6996c44f3ac72cd9dc04515186d2da28af80a4ad87fee7c9fdc19b7769495fdb5">VMAP::Nothing</a>, <a class="el" href="../../#l00212">Object::ToCreature()</a>, <a class="el" href="../../#l00216">Object::ToUnit()</a>, and <a class="el" href="../../#l00174">UNIT_STATE_MELEE_ATTACKING</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="a60ef55fa8d6f511bba566ac3c8f8328a" name="a60ef55fa8d6f511bba566ac3c8f8328a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a60ef55fa8d6f511bba566ac3c8f8328a">&#9670;&#160;</a></span>_caster</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d33/a09227.html">Unit</a>* MysticBuffetTargetFilter::_caster</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01112">operator()()</a>.</p>
 
 </div>
 </div>
@@ -222,8 +239,8 @@ Public Member Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d7/dc9/a18611.html">FrozenThroneResetWorker</a></li>
-    <li class="footer">Generated on Tue Sep 1 2026 00:09:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d7/dc9/a18611.html">MysticBuffetTargetFilter</a></li>
+    <li class="footer">Generated on Mon Sep 21 2026 23:33:56 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

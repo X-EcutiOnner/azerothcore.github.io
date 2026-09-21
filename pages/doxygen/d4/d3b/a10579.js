@@ -1,10 +1,9 @@
 var a10579 =
 [
-    [ "WaypointMgr", "d4/d3b/a10579.html#a2f038884959f10348bd5b7af3abee7db", null ],
-    [ "GetPath", "d4/d3b/a10579.html#a8492dcbb35f4bdb563f861c521eb5317", null ],
-    [ "instance", "d4/d3b/a10579.html#aacd2ed943503288057b3fb9a935a56e9", null ],
-    [ "Load", "d4/d3b/a10579.html#a69ae451ce07f2e68be81b1a86649115d", null ],
-    [ "LoadWaypointAddons", "d4/d3b/a10579.html#a84df91143dd387b5d4adc7aa8d63045e", null ],
-    [ "ReloadPath", "d4/d3b/a10579.html#ac1364780d1ab0c91ca95d366419ca3df", null ],
-    [ "_waypointStore", "d4/d3b/a10579.html#a15d1c47c7e839538c354ba91775bd9e7", null ]
+    [ "counter", "d4/d3b/a10579.html#a0efb94229f4a9370dc5b256ba623385b", null ],
+    [ "getCurrent", "d4/d3b/a10579.html#afff6411c2b7f1c07d72ad26dc77d4780", null ],
+    [ "Increase", "d4/d3b/a10579.html#a463e0ba077c8398a6125e715afcd8860", null ],
+    [ "init", "d4/d3b/a10579.html#a0369662be009b781174021a2eb6b3202", null ],
+    [ "NewId", "d4/d3b/a10579.html#a06d5bc4ea248173316ed4d1ce96d6281", null ],
+    [ "m_counter", "d4/d3b/a10579.html#a297f1ba5e072e4c90b62c7242ee1b01c", null ]
 ];

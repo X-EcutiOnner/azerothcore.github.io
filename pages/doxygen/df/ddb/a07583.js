@@ -1,11 +1,12 @@
 var a07583 =
 [
-    [ "gyid", "df/ddb/a07583.html#a742fcc91d2daf1a9331f02a90496328c", null ],
-    [ "o", "df/ddb/a07583.html#a9c761e77b7194ab1bb80d28f2b1e1f6d", null ],
-    [ "startcontrol", "df/ddb/a07583.html#a8b0aed9e6973ce6efc5d89a0d10a4139", null ],
-    [ "textid", "df/ddb/a07583.html#a87d80377ad632b9d667eecf11ae8faae", null ],
-    [ "type", "df/ddb/a07583.html#ae1a4b69ea4edabe51f1378c6cb066cad", null ],
-    [ "x", "df/ddb/a07583.html#ad69833b4e2a27999dcd13e5ac5bda892", null ],
-    [ "y", "df/ddb/a07583.html#a405e8098772e77250683985f957ce5f3", null ],
-    [ "z", "df/ddb/a07583.html#a844e4c9c9b1a9a22a817025ccda7f08d", null ]
+    [ "Type", "df/ddb/a07583.html#a758c9729d907d872a5e5365539486408", [
+      [ "ADD", "df/ddb/a07583.html#a758c9729d907d872a5e5365539486408a9eeb52badb613229884838847294b90d", null ],
+      [ "REMOVE", "df/ddb/a07583.html#a758c9729d907d872a5e5365539486408a78baf367c4626442174307cdf41c6538", null ],
+      [ "UPDATE_BID", "df/ddb/a07583.html#a758c9729d907d872a5e5365539486408af737406648230093b15420038f06e0a5", null ]
+    ] ],
+    [ "AuctionSearcherUpdate", "df/ddb/a07583.html#acfc9c3749967b90c2b8633c40f1aa2bd", null ],
+    [ "~AuctionSearcherUpdate", "df/ddb/a07583.html#a34cb7ede5d2108065a51a80396d6fc55", null ],
+    [ "listFaction", "df/ddb/a07583.html#a3f61acebd3d594e3a23d682d2d5292bc", null ],
+    [ "updateType", "df/ddb/a07583.html#af6ee8672029884bdbec327242ce5d5d2", null ]
 ];

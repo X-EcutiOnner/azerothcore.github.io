@@ -1,6 +1,5 @@
 var a21051 =
 [
-    [ "FilterTargets", "d2/d70/a21051.html#adaeee235184ddc36e90e532091183056", null ],
-    [ "PrepareSpellScript", "d2/d70/a21051.html#a599f604e872d3a5a4ed2b155caefdc9f", null ],
-    [ "Register", "d2/d70/a21051.html#ab79041a2536878498744555475bce5c8", null ]
+    [ "achievement_heartbreaker", "d2/d70/a21051.html#ad81925fc32d7cf914b7be44aabe49b39", null ],
+    [ "OnCheck", "d2/d70/a21051.html#ab3a2539ae5dc74743beb0dc0ea0147af", null ]
 ];

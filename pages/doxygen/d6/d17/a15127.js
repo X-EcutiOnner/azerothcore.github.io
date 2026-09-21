@@ -1,7 +1,9 @@
 var a15127 =
 [
-    [ "HandleOnHit", "d6/d17/a15127.html#ae3241486a612293b5421a523f6d854d9", null ],
-    [ "PrepareSpellScript", "d6/d17/a15127.html#a20b6f0f7d403065cde55dec7f50537f9", null ],
-    [ "Register", "d6/d17/a15127.html#af6d4c6dfa15da815298ad5d88b3fede2", null ],
-    [ "Validate", "d6/d17/a15127.html#a53773b6b18b1d3a5be24f3065e8a2875", null ]
+    [ "HandlePeriodic", "d6/d17/a15127.html#ae5f611f0643cdfc3d403cee89667b0f6", null ],
+    [ "Load", "d6/d17/a15127.html#aa90cfb5fdb96e8670fa35dd3c16350c0", null ],
+    [ "PrepareAuraScript", "d6/d17/a15127.html#afeb65196cbafc813bb02eb3907e59fc2", null ],
+    [ "Register", "d6/d17/a15127.html#ac331de3219ae7da9e35e962011540bdf", null ],
+    [ "Validate", "d6/d17/a15127.html#a7de36e3ee777b02ab6fc4671e4e9f5ab", null ],
+    [ "_buffGiven", "d6/d17/a15127.html#aec2476ad5e046213b90af04ad91f0230", null ]
 ];

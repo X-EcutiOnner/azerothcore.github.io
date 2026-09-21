@@ -1,6 +1,12 @@
 var a21915 =
 [
-    [ "npc_spiritual_insightAI", "da/db5/a21915.html#ab173cd8b623fcf8c36406155c91bc4db", null ],
-    [ "GetSpeachId", "da/db5/a21915.html#ad2dd22651470f47e7a7ba6f687ba54e9", null ],
-    [ "IsSummonedBy", "da/db5/a21915.html#ab6b39190d1195915ea0b4b191d864da6", null ]
+    [ "npc_wintergarde_gryphon", "da/db5/a21915.html#ada46ecdbc8c3a33a7b3ce09296c0db72", null ],
+    [ "getVillager", "da/db5/a21915.html#a7f20f5e124e013ad8f57ca31b9fb86d7", null ],
+    [ "IsSummonedBy", "da/db5/a21915.html#acd7cea6226034d53b854c5ed659ff949", null ],
+    [ "JustDied", "da/db5/a21915.html#a6c87d55ef29e14b4b8b87a0321179542", null ],
+    [ "MovementInform", "da/db5/a21915.html#a8f2faf49533d27d971110681e050c060", null ],
+    [ "PassengerBoarded", "da/db5/a21915.html#a16c01d26aef06358f979f59fe68c09ca", null ],
+    [ "SpellHit", "da/db5/a21915.html#acf64143ea83321556156fde30e1a34d4", null ],
+    [ "UpdateAI", "da/db5/a21915.html#aa161f280e7a7370696cecc27c51ee55c", null ],
+    [ "villagerGUID", "da/db5/a21915.html#a56a7973a05061197192111ecf55ef14a", null ]
 ];

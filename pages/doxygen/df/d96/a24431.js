@@ -1,6 +1,6 @@
 var a24431 =
 [
-    [ "HandleDamageCalc", "df/d96/a24431.html#a9e0f6fe8bb10950c2130fb7d1f07017a", null ],
-    [ "PrepareSpellScript", "df/d96/a24431.html#a183477b6269dbc705a10e60ab36c13b1", null ],
-    [ "Register", "df/d96/a24431.html#ae93d958a3a439e3401685b0d2a570f0e", null ]
+    [ "npc_kservantAI", "da/d6e/a24435.html", "da/d6e/a24435" ],
+    [ "npc_kservant", "df/d96/a24431.html#af04c8a87516e41f7d35071664034af9d", null ],
+    [ "GetAI", "df/d96/a24431.html#a3ae7327ec2ead5a2d3ffb043f18ccc09", null ]
 ];

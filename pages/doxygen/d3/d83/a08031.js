@@ -1,7 +1,6 @@
 var a08031 =
 [
-    [ "V", "d3/d83/a08031.html#aab662b1ba92ab8eb76558f97191142cc", null ],
-    [ "TryAtIndex", "d3/d83/a08031.html#aeff1865d7499b0b112cc39c44fd07112", null ],
-    [ "TryConsume", "d3/d83/a08031.html#ae2a889829917ed0dd76194194efc9b13", null ],
-    [ "N", "d3/d83/a08031.html#aa2c2048ce2e64b2398eeea3f0d789245", null ]
+    [ "value_type", "d3/d83/a08031.html#adbfeb8f2823f763fdae25b87fbbdcfbf", null ],
+    [ "operator()", "d3/d83/a08031.html#abeff0e73688ad4745201c5d817f7a442", null ],
+    [ "operator()", "d3/d83/a08031.html#a8ee9220d4226b4dd028f3f9c438f34ba", null ]
 ];

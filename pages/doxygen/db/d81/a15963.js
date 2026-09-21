@@ -1,6 +1,7 @@
 var a15963 =
 [
-    [ "npc_troll_volunteerAI", "d1/d00/a15967.html", "d1/d00/a15967" ],
-    [ "npc_troll_volunteer", "db/d81/a15963.html#a3c5eb7108dc0480e07b77eceb01cd18a", null ],
-    [ "GetAI", "db/d81/a15963.html#aba0208b0910ace75686941c462ecca56", null ]
+    [ "npc_prophet_velen", "db/d81/a15963.html#a6f35fa9af478e1bb8fbbdda97845d067", null ],
+    [ "JustDied", "db/d81/a15963.html#a8f1e689b5597bc1c8c810bafe2ad0330", null ],
+    [ "Reset", "db/d81/a15963.html#a5beec39fd545129d0f124bb19524f95c", null ],
+    [ "UpdateAI", "db/d81/a15963.html#a2d016ecfedc5c7e886e7412081b54792", null ]
 ];

@@ -1,5 +1,6 @@
 var a28087 =
 [
-    [ "achievement_killed_exp_or_honor_target", "d7/d87/a28087.html#aad432878c97af698dd1cc4019d716281", null ],
-    [ "OnCheck", "d7/d87/a28087.html#ace8fc68ebb73e39626797be4caa45a3c", null ]
+    [ "AfterCheckProc", "d7/d87/a28087.html#a947c7b94512fbfdd8b51cfa8044d2e6c", null ],
+    [ "PrepareAuraScript", "d7/d87/a28087.html#aa184faf59edbad97ec361e66169137b9", null ],
+    [ "Register", "d7/d87/a28087.html#a3df5a215670c7a1e07bc901e442bb11c", null ]
 ];

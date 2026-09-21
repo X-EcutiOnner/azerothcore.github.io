@@ -1,9 +1,6 @@
 var a26787 =
 [
-    [ "spell_pal_judgement", "db/ded/a26787.html#a497aed8c1d8c6a2af22e9e8daae96e14", null ],
-    [ "HandleScriptEffect", "db/ded/a26787.html#add419a824dbebdc168d2b6dc49d07913", null ],
-    [ "PrepareSpellScript", "db/ded/a26787.html#a2cffed69c16a1a6189048ed52af35152", null ],
-    [ "Register", "db/ded/a26787.html#ad8e65beb41a1bb41a2dd307f3b1da839", null ],
-    [ "Validate", "db/ded/a26787.html#a3971c195a279338253771675131b4802", null ],
-    [ "_spellId", "db/ded/a26787.html#ad49ea02800078c672747f4fdbbab1d20", null ]
+    [ "FilterTargets", "db/ded/a26787.html#aad5d183d0d7ea229cbfc11f751536624", null ],
+    [ "PrepareSpellScript", "db/ded/a26787.html#a68ba19142ae6eb04a2547495233700df", null ],
+    [ "Register", "db/ded/a26787.html#a22c313409438f94d29ab3e236a56c115", null ]
 ];

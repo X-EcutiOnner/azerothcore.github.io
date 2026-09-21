@@ -1,7 +1,6 @@
 var a18327 =
 [
-    [ "HandleDummy", "db/d8a/a18327.html#aa61db53d7395fd45b8569e12978fed0b", null ],
-    [ "PrepareSpellScript", "db/d8a/a18327.html#ab63054debe6763027ab52ad122277719", null ],
-    [ "Register", "db/d8a/a18327.html#a6dee5fc9fafd7faa3eadbf9431568dcc", null ],
-    [ "Validate", "db/d8a/a18327.html#adb7e30d10c2071de5d5070b64a10af30", null ]
+    [ "PrepareSpellScript", "db/d8a/a18327.html#a9041ce6139de9a48621d6898ddcca673", null ],
+    [ "RecalculateDamage", "db/d8a/a18327.html#abfb7c002577a59864fb2aa069b713c0a", null ],
+    [ "Register", "db/d8a/a18327.html#a4308449e8cbe7ed59598a837024141cb", null ]
 ];

@@ -1,11 +1,12 @@
 var a12551 =
 [
-    [ "pet_commandscript", "da/ded/a12551.html#a84595dcb908398e80deee0b0aa47e335", null ],
-    [ "GetCommands", "da/ded/a12551.html#a01026a4936774d2225d10e0f6e27b08c", null ],
-    [ "HandlePetCreateCommand", "da/ded/a12551.html#a993d06169aa0b0c4bbda38e124b6eea9", null ],
-    [ "HandlePetDeleteCommand", "da/ded/a12551.html#a728201526e905b025aba5e6b030c288b", null ],
-    [ "HandlePetLearnCommand", "da/ded/a12551.html#a59a2a6bd9af23fe3a775319216337bda", null ],
-    [ "HandlePetListCommand", "da/ded/a12551.html#aeaa05b073553c0c0758ea99d982ce1cc", null ],
-    [ "HandlePetRenameCommand", "da/ded/a12551.html#a556529bfe267eb618410b63065b7096c", null ],
-    [ "HandlePetUnlearnCommand", "da/ded/a12551.html#ae6d785cdde773b107ba5e619b039f7b8", null ]
+    [ "group_commandscript", "da/ded/a12551.html#ad2890427cfe3649b2e0fe0896693372c", null ],
+    [ "GetCommands", "da/ded/a12551.html#a5e7e069c58ecc5baca4ef1118e6c143e", null ],
+    [ "HandleGroupDisbandCommand", "da/ded/a12551.html#a538539340a697e02453ddcfa669fb646", null ],
+    [ "HandleGroupInvitesCommand", "da/ded/a12551.html#a614878b840aee6bab067db81fa59a8c7", null ],
+    [ "HandleGroupJoinCommand", "da/ded/a12551.html#a382e8532c653464e90b45569e813ae37", null ],
+    [ "HandleGroupLeaderCommand", "da/ded/a12551.html#a899858a63add3c68e0e1446d29216c00", null ],
+    [ "HandleGroupListCommand", "da/ded/a12551.html#a1b841d1c4bc59b56f2d166767089b93f", null ],
+    [ "HandleGroupRemoveCommand", "da/ded/a12551.html#a2bbb27e0f221ce533f0b0e94e944f7fb", null ],
+    [ "HandleGroupReviveCommand", "da/ded/a12551.html#a13968d61ec037aacc8070bc675290f94", null ]
 ];

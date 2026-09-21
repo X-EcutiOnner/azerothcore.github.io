@@ -1,5 +1,6 @@
 var a08959 =
 [
-    [ "Rank", "d6/ded/a08959.html#a61797c7cb799308a7c20a954d287be17", null ],
-    [ "SkillId", "d6/ded/a08959.html#a3f28221b1c8e91bf9f2fa6337e81c952", null ]
+    [ "active", "d6/ded/a08959.html#a9460571d6fc219ab8c475aab34fc9494", null ],
+    [ "state", "d6/ded/a08959.html#a0600418cb460fdaf8093bfa609e796c8", null ],
+    [ "type", "d6/ded/a08959.html#a4c4a7d0f299ae4e2ceb146a741057032", null ]
 ];

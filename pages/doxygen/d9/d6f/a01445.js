@@ -1,11 +1,13 @@
 var a01445 =
 [
-    [ "SkillDiscoveryEntry", "d8/d81/a11869.html", "d8/d81/a11869" ],
-    [ "SkillDiscoveryList", "d9/d6f/a01445.html#a0c80a6b86b3b7bd5e9c238efa802919b", null ],
-    [ "SkillDiscoveryMap", "d9/d6f/a01445.html#ab7ec6a8662e4edd3167deb3c917d2eab", null ],
-    [ "GetExplicitDiscoverySpell", "d9/d6f/a01445.html#a7cdb9e342efe04c1ba8caf202b7b0d96", null ],
-    [ "GetSkillDiscoverySpell", "d9/d6f/a01445.html#ab50472e4f1f892eb77ce660ef00d808a", null ],
-    [ "HasDiscoveredAllSpells", "d9/d6f/a01445.html#abdf3c2fcf65212466dfb54053e35024c", null ],
-    [ "LoadSkillDiscoveryTable", "d9/d6f/a01445.html#addd95f0a239a27ed32cd943aa1052019", null ],
-    [ "SkillDiscoveryStore", "d9/d6f/a01445.html#a1d624484e07efeeabc8a73a10c75ca4d", null ]
+    [ "SkillPerfectItemEntry", "d6/d92/a11887.html", "d6/d92/a11887" ],
+    [ "SkillExtraItemEntry", "dc/d54/a11891.html", "dc/d54/a11891" ],
+    [ "SkillExtraItemMap", "d9/d6f/a01445.html#a9ba2d7d2e815aee57a701990b858db7b", null ],
+    [ "SkillPerfectItemMap", "d9/d6f/a01445.html#ad732be66d93ed6e8f498077f27e2766b", null ],
+    [ "canCreateExtraItems", "d9/d6f/a01445.html#a49687e255d65fa15dac5e6a428c5739d", null ],
+    [ "CanCreatePerfectItem", "d9/d6f/a01445.html#a818c557864790091814604b6d2175e52", null ],
+    [ "LoadSkillExtraItemTable", "d9/d6f/a01445.html#a3244d04018405bafe21acc8bc96cc743", null ],
+    [ "LoadSkillPerfectItemTable", "d9/d6f/a01445.html#a121df170a82be5ab5b05999a6be27b69", null ],
+    [ "SkillExtraItemStore", "d9/d6f/a01445.html#acc52416c05fbae29bcbfa9f0683485cd", null ],
+    [ "SkillPerfectItemStore", "d9/d6f/a01445.html#ac676f0acbf782fa2d31bd66b8eaa8260", null ]
 ];

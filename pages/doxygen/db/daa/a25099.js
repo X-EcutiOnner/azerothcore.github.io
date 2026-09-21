@@ -1,6 +1,7 @@
 var a25099 =
 [
-    [ "CheckAreaTarget", "db/daa/a25099.html#aab7e3693e5744cf444e643f7cdfdf738", null ],
-    [ "PrepareAuraScript", "db/daa/a25099.html#a551d8d6dd43c83d9a693c5971fa5c224", null ],
-    [ "Register", "db/daa/a25099.html#a6647a8e35009cf8559e4957a666f037a", null ]
+    [ "HandlePeriodic", "db/daa/a25099.html#abc823ccb417c7ee54b275fd765c2e9a5", null ],
+    [ "PrepareAuraScript", "db/daa/a25099.html#a51d8701f84737d91cf4367967e2c9439", null ],
+    [ "Register", "db/daa/a25099.html#a57d210027c9fa2a4a7a90c4b1fd7589b", null ],
+    [ "Validate", "db/daa/a25099.html#a507e7e61eef30115812dc5ab5ad33fea", null ]
 ];

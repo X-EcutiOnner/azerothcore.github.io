@@ -1,7 +1,7 @@
 var a25719 =
 [
-    [ "HandleScriptEffect", "de/df4/a25719.html#ae3c2900d98c2fd51ff0888ea5d1072c4", null ],
-    [ "PrepareSpellScript", "de/df4/a25719.html#a29ac1789b8023ef3339a7b40ee9c31ab", null ],
-    [ "Register", "de/df4/a25719.html#a321098d2325bfb9cea674d1137348350", null ],
-    [ "Validate", "de/df4/a25719.html#aa16a67bf42f51b838d22dcbe4b5b6f7b", null ]
+    [ "HandleScript", "de/df4/a25719.html#a4788a8ce7c88378c8b55d1fe60200b71", null ],
+    [ "PrepareSpellScript", "de/df4/a25719.html#a3317bfc299c6c8c81ef6dfd75ff773f0", null ],
+    [ "Register", "de/df4/a25719.html#a1a44bfb68010c34470ee72c9dcdfc3b4", null ],
+    [ "Validate", "de/df4/a25719.html#ad242bd4bb5f9be8767b170fd2cc9c444", null ]
 ];

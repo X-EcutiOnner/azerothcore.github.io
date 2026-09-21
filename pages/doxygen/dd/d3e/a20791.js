@@ -1,6 +1,5 @@
 var a20791 =
 [
-    [ "HandleHit", "dd/d3e/a20791.html#adbb57403c65e84ab217788ee3a9261b7", null ],
-    [ "PrepareSpellScript", "dd/d3e/a20791.html#a324717ff0843627151dd23fe565a80ab", null ],
-    [ "Register", "dd/d3e/a20791.html#a30c67c5c533add48412d6a9e1f6fc6b0", null ]
+    [ "npc_ulduar_flames_spread", "dd/d3e/a20791.html#aea2856e8ea84dfb447017a4d8b2ab088", null ],
+    [ "SpellHit", "dd/d3e/a20791.html#af8cad4be1736f377721b7a0a63cfafe7", null ]
 ];

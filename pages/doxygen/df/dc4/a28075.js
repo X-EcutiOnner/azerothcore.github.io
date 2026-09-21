@@ -1,5 +1,6 @@
 var a28075 =
 [
-    [ "achievement_sa_defense_of_the_ancients", "df/dc4/a28075.html#a678cffdece32710a42a92db0c092f3a5", null ],
-    [ "OnCheck", "df/dc4/a28075.html#af23e346f9b022f490b84c8081f847a2f", null ]
+    [ "CheckProc", "df/dc4/a28075.html#a957f8837b5613a3bfd8200ded3529c54", null ],
+    [ "PrepareAuraScript", "df/dc4/a28075.html#a37950bfd846e1c2c550a108461941a26", null ],
+    [ "Register", "df/dc4/a28075.html#a16c273043e81fd163fb7c3f517ee6f4c", null ]
 ];

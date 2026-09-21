@@ -1,7 +1,10 @@
 var a09479 =
 [
-    [ "GetAntiDosPolicyForOpcode", "d7/d16/a09479.html#a9bbbc92f18c1c34c3359d0cad4299c2d", null ],
-    [ "instance", "d7/d16/a09479.html#a859596f153aa470fa503f67092e26160", null ],
-    [ "LoadAntiDosOpcodePolicies", "d7/d16/a09479.html#a9bd2c1a1ce11d9a50971d169a353e7f6", null ],
-    [ "_antiDosOpcodePolicies", "d7/d16/a09479.html#acb7a5639f7ba378483e50aba8e93d68a", null ]
+    [ "PetLevelInfo", "d7/d16/a09479.html#ad8e757abeae500063e963ffef5469809", null ],
+    [ "armor", "d7/d16/a09479.html#ab7097f75cf86bd6f135f21dace61a89e", null ],
+    [ "health", "d7/d16/a09479.html#a322dcab3af8f98726aa6addf38e8891b", null ],
+    [ "mana", "d7/d16/a09479.html#a27352e73d6ed3945e398e0634dee1e96", null ],
+    [ "max_dmg", "d7/d16/a09479.html#a092f2600f64f2af885142b2e96d1fe64", null ],
+    [ "min_dmg", "d7/d16/a09479.html#a299d1c7f4c28893e09de79cd816afa95", null ],
+    [ "stats", "d7/d16/a09479.html#a897aabacdbe9cbc4afcc40ab059c12be", null ]
 ];

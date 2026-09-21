@@ -1,7 +1,5 @@
 var a20267 =
 [
-    [ "boss_flame_leviathan_safety_container", "d2/db2/a20267.html#a4519a6bf9c96ff13df4ae019b02f3593", null ],
-    [ "MovementInform", "d2/db2/a20267.html#a42842de299fd9346cc0d61b649b652a4", null ],
-    [ "UpdateAI", "d2/db2/a20267.html#a55119d077f905a8207ad2afbe31f17a4", null ],
-    [ "_allowTimer", "d2/db2/a20267.html#a70134398c054c837407d6a22591a2d96", null ]
+    [ "achievement_cant_do_that_while_stunned", "d2/db2/a20267.html#a4d474b36f61631688ea723d2e4033574", null ],
+    [ "OnCheck", "d2/db2/a20267.html#a0b108bdcab0bc412975e61247f226bf8", null ]
 ];

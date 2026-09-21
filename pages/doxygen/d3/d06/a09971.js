@@ -1,16 +1,7 @@
 var a09971 =
 [
-    [ "BankEventLogEntry", "d3/d06/a09971.html#a31275c6a36f7b79d7532345d38a3739b", null ],
-    [ "BankEventLogEntry", "d3/d06/a09971.html#a1a87a93c90b6a0b6766ac46228fd1761", null ],
-    [ "~BankEventLogEntry", "d3/d06/a09971.html#a8033da0f1bd56926bd306e1cbdc1ecb9", null ],
-    [ "IsMoneyEvent", "d3/d06/a09971.html#a9a38b7966bdcc3ec9e871c024c928ce1", null ],
-    [ "IsMoneyEvent", "d3/d06/a09971.html#a49c76ead144b21da7cb1059af54a2482", null ],
-    [ "SaveToDB", "d3/d06/a09971.html#a9010bb7bd849aa6ba25b31596ac30831", null ],
-    [ "WritePacket", "d3/d06/a09971.html#a930223d8596264801d7b0cf04cea62f8", null ],
-    [ "m_bankTabId", "d3/d06/a09971.html#a836df4449b5190b4404482e46a5e5449", null ],
-    [ "m_destTabId", "d3/d06/a09971.html#a57a6aeaae26781df310a2c98fcf7164d", null ],
-    [ "m_eventType", "d3/d06/a09971.html#a180246a8eaca99431383916776a4f7ad", null ],
-    [ "m_itemOrMoney", "d3/d06/a09971.html#a689ea5c40d39fe5dc8a80351c4884b18", null ],
-    [ "m_itemStackCount", "d3/d06/a09971.html#ad4ed0df79ff061a4735538067fa4a372", null ],
-    [ "m_playerGuid", "d3/d06/a09971.html#a3b2127e193ff9f5b54cf6520cd2a2458", null ]
+    [ "PowerCheck", "d3/d06/a09971.html#abb2fc6c6e83e1097a6bb40512fb50dfc", null ],
+    [ "operator()", "d3/d06/a09971.html#a16ad8e68d94742bc78b6f20734f58e99", null ],
+    [ "_equals", "d3/d06/a09971.html#ae7758da7775ff778bc5cd96e9a15649b", null ],
+    [ "_power", "d3/d06/a09971.html#a922a57b62b4289835b539a69b0f58fa1", null ]
 ];

@@ -1,9 +1,8 @@
 var a06507 =
 [
-    [ "CritterAI", "d0/d94/a06507.html#aa211359ea8b80ac0ed27e9b337e333f1", null ],
-    [ "EnterEvadeMode", "d0/d94/a06507.html#a989d1fc00af900320dcf27cce7f247dc", null ],
-    [ "JustEngagedWith", "d0/d94/a06507.html#a2f52eb5c527895168f18ed5ddcc560a9", null ],
-    [ "MovementInform", "d0/d94/a06507.html#a54c44d28e4b2b3231afeb8de343dee43", null ],
-    [ "Permissible", "d0/d94/a06507.html#ae43183a24398fe3af1cb8275b9b4c6c6", null ],
-    [ "UpdateAI", "d0/d94/a06507.html#af860be127a671f5448cb731aa2f701b0", null ]
+    [ "BannedAddon", "d0/d94/a06507.html#aadd8cb8602ec03455a91b4f49767fdc8", null ],
+    [ "Id", "d0/d94/a06507.html#aa7d9dbd83fd1ef10fb125c798e293606", null ],
+    [ "NameMD5", "d0/d94/a06507.html#a67c4437044d747ff9867a71967697767", null ],
+    [ "Timestamp", "d0/d94/a06507.html#af62257c39a4ae1eba959086e981b0d19", null ],
+    [ "VersionMD5", "d0/d94/a06507.html#acb8dbe824f71363eb81504f43a126d96", null ]
 ];

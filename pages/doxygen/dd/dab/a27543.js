@@ -1,6 +1,6 @@
 var a27543 =
 [
-    [ "FilterTargets", "dd/dab/a27543.html#af7035627c3d6dd3fd8381ee258391a0b", null ],
-    [ "PrepareSpellScript", "dd/dab/a27543.html#a3211fda7263bc513d14a8f2fd1507ef8", null ],
-    [ "Register", "dd/dab/a27543.html#abe63ec69fe15fd8924fb63235489e088", null ]
+    [ "FilterTargets", "dd/dab/a27543.html#ac157503562ac3ef9ddba2c358595ecc5", null ],
+    [ "PrepareSpellScript", "dd/dab/a27543.html#af41d6353088c5565b0027265c9bd4d8b", null ],
+    [ "Register", "dd/dab/a27543.html#a95e386af9016e598e932177cb400fd8b", null ]
 ];

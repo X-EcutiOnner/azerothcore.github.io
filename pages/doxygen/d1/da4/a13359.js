@@ -1,12 +1,6 @@
 var a13359 =
 [
-    [ "boss_bigbadwolf", "d1/da4/a13359.html#a1e4ad63c96d64f81e8b9ea82f118cdcc", null ],
-    [ "EnterEvadeMode", "d1/da4/a13359.html#a4f2d5307f5d05ed58bfc200f53bf2969", null ],
-    [ "JustDied", "d1/da4/a13359.html#a167083a43e00a60e9c3792cadaf6e80c", null ],
-    [ "JustEngagedWith", "d1/da4/a13359.html#a529fad938a0ef7261f1c2d589b6ff29c", null ],
-    [ "JustReachedHome", "d1/da4/a13359.html#a7755bf925d919c73075a41f8774280c0", null ],
-    [ "KilledUnit", "d1/da4/a13359.html#a8e004a1feac796ed467eba744f211827", null ],
-    [ "UpdateAI", "d1/da4/a13359.html#ab788a0155a3ffe6535d58263eea16dee", null ],
-    [ "_scheduler", "d1/da4/a13359.html#a661d9b619be30764ba5b89d71de870e9", null ],
-    [ "instance", "d1/da4/a13359.html#aed0e9edc52f13b7b0cfa5047849c26a9", null ]
+    [ "npc_sanguine_spirit", "d1/da4/a13359.html#a1e9a9a8dfaf5475b99d53b6b14db25f0", null ],
+    [ "Reset", "d1/da4/a13359.html#ab92451fe70fd8c444a1c9d0bc318f624", null ],
+    [ "UpdateAI", "d1/da4/a13359.html#abb07fe0308c3cce7ab5e239e66d65c52", null ]
 ];

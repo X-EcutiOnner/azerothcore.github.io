@@ -1,6 +1,6 @@
 var a21759 =
 [
-    [ "npc_dalaran_mageAI", "da/d26/a21763.html", "da/d26/a21763" ],
-    [ "npc_dalaran_mage", "de/d51/a21759.html#a764d637ab0c64e2a0cc0459269974d6d", null ],
-    [ "GetAI", "de/d51/a21759.html#ae2deef0546e2bf0df562e0a67b8b0b93", null ]
+    [ "HandleEffect", "de/d51/a21759.html#a6732d51d5de34b3e737cc785fb2ab43e", null ],
+    [ "PrepareSpellScript", "de/d51/a21759.html#aec199e9f9651267fac88bd86be326bb4", null ],
+    [ "Register", "de/d51/a21759.html#a14bd854db86750704c8377d457dea360", null ]
 ];

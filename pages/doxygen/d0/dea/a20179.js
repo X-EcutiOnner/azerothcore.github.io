@@ -1,8 +1,8 @@
 var a20179 =
 [
-    [ "OnPeriodic", "d0/dea/a20179.html#a56d101b26b220994aeb035e5fbc1f26e", null ],
-    [ "OnRemove", "d0/dea/a20179.html#ac6d961793ddb6423540da9d97e016b82", null ],
-    [ "PrepareAuraScript", "d0/dea/a20179.html#a9384a764bf9c48d12e7f62af99897ce4", null ],
-    [ "Register", "d0/dea/a20179.html#a69f5474dacdf220ffebe18bd5cf8a32f", null ],
-    [ "Validate", "d0/dea/a20179.html#a11d985c5e17c8b3cb34096000fda66ac", null ]
+    [ "npc_algalon_worm_hole", "d0/dea/a20179.html#a546bd0ede2586fcbe3812698b68528d4", null ],
+    [ "JustSummoned", "d0/dea/a20179.html#a077425b35d86c007daa93fc8b1fd9717", null ],
+    [ "Reset", "d0/dea/a20179.html#a363814abdee714faddfd966b11a4fddc", null ],
+    [ "UpdateAI", "d0/dea/a20179.html#a16f644be53169adc67fc971bdeaa7263", null ],
+    [ "_summonTimer", "d0/dea/a20179.html#a033382dbd57714e815eed8ef6e4adfaf", null ]
 ];

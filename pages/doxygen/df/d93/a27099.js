@@ -1,6 +1,7 @@
 var a27099 =
 [
-    [ "HandleScriptEffect", "df/d93/a27099.html#acef8bf4c93226e1b4c95f8b8cdd80f40", null ],
-    [ "PrepareSpellScript", "df/d93/a27099.html#a0223c05b5832c64b248e82eba770f7fa", null ],
-    [ "Register", "df/d93/a27099.html#aef93e3c5a60633f69871bbd49d40caf5", null ]
+    [ "CheckProc", "df/d93/a27099.html#a068e3d66059d0d34b39ef43bc259eb70", null ],
+    [ "HandleProc", "df/d93/a27099.html#ac3da721ff9df529738eeb33e95fb0dac", null ],
+    [ "PrepareAuraScript", "df/d93/a27099.html#ab346f33f7d467f89c9bc9ecc569a8c8c", null ],
+    [ "Register", "df/d93/a27099.html#afa041c16f5d6c80aa74402fbdbea1701", null ]
 ];

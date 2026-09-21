@@ -1,14 +1,19 @@
 var a22627 =
 [
-    [ "OutdoorPvPNA", "dd/d2c/a22627.html#acbdae42245c71e4274296649d8d08e9e", null ],
-    [ "FillInitialWorldStates", "dd/d2c/a22627.html#a49ac785929dd16bf0735b32b787763e9", null ],
-    [ "GetCapturePoint", "dd/d2c/a22627.html#a7bab429e723c0ac1eb2f8cd3501f13be", null ],
-    [ "HandleKill", "dd/d2c/a22627.html#ab55683b771104878c69239314a9782f4", null ],
-    [ "HandleKillImpl", "dd/d2c/a22627.html#a2ede6e7dc54424d9729a094557b14792", null ],
-    [ "HandlePlayerEnterZone", "dd/d2c/a22627.html#a312c5f2aaa35a9f83740c1bdd9772b9e", null ],
-    [ "HandlePlayerLeaveZone", "dd/d2c/a22627.html#ae7dd540746946513cd7bf8e29296c068", null ],
-    [ "SendRemoveWorldStates", "dd/d2c/a22627.html#ae9a93ddac1ca439f0f269d7ac7597593", null ],
-    [ "SetupOutdoorPvP", "dd/d2c/a22627.html#a09369a62ec5584dd6ce5eddf7b2bb80f", null ],
-    [ "Update", "dd/d2c/a22627.html#a4074a96974fe1b5e6d9149c8eee36e71", null ],
-    [ "m_obj", "dd/d2c/a22627.html#a7538d64bb494644eae3cc7db03dd631f", null ]
+    [ "npc_overlord_drakuru_betrayal", "dd/d2c/a22627.html#ab15331d6fd3a2783a4c95d49e4dbe7b2", null ],
+    [ "DamageTaken", "dd/d2c/a22627.html#a7425750b8bd904de4bdf90a70f17ba52", null ],
+    [ "DoAction", "dd/d2c/a22627.html#aece047445959751d8bff83ed3555a382", null ],
+    [ "EnterEvadeMode", "dd/d2c/a22627.html#ae7927006050c6eab309671b2d39ac74e", null ],
+    [ "IsPlayerOnQuest", "dd/d2c/a22627.html#a95f42c51b10eeeb8f238572f4190b777", null ],
+    [ "JustEngagedWith", "dd/d2c/a22627.html#a3781dde3a7fb066620ada4bda214d9d7", null ],
+    [ "JustSummoned", "dd/d2c/a22627.html#a7a28c8050615a13148092b1d6f0f8bea", null ],
+    [ "MoveInLineOfSight", "dd/d2c/a22627.html#a27173bdb8e63f52563cbf15f10bfeb8a", null ],
+    [ "Reset", "dd/d2c/a22627.html#aafcf7f832f3c5412bc1c71fc59dec003", null ],
+    [ "SpellHit", "dd/d2c/a22627.html#a92cd659095e45c414a2c05672a70aaeb", null ],
+    [ "SpellHitTarget", "dd/d2c/a22627.html#abd7728d7ac2a59b436385069ffc62c9d", null ],
+    [ "UpdateAI", "dd/d2c/a22627.html#a25d0591a131f2e49b9d5c97ed2f2586e", null ],
+    [ "_lichGUID", "dd/d2c/a22627.html#ae921b29ac3e5d5f7b39cd660848242f0", null ],
+    [ "_playerGUID", "dd/d2c/a22627.html#a3f4a61d141c51a29eaefc8118b5311e0", null ],
+    [ "_state", "dd/d2c/a22627.html#ac99fa024d5c71c37e94d0ff17808e2d4", null ],
+    [ "_summons", "dd/d2c/a22627.html#a2fbda53115c9b69d2d01a77b3b60710d", null ]
 ];

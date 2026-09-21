@@ -1,6 +1,6 @@
 var a10739 =
 [
-    [ "BattlegroundMapScript", "db/d5e/a10739.html#aa976810defac9b6838553f8d28ea9366", null ],
-    [ "checkValidity", "db/d5e/a10739.html#a90584770132eb71cffc6e25a674750ad", null ],
-    [ "isAfterLoadScript", "db/d5e/a10739.html#a0148a79556f82c990fe0fc494d03c7ab", null ]
+    [ "AchievementCriteriaScript", "db/d5e/a10739.html#a09da24737dee882300a5e268688b94e6", null ],
+    [ "IsDatabaseBound", "db/d5e/a10739.html#a2fe9a4224304d62c5c4920dbf09aab52", null ],
+    [ "OnCheck", "db/d5e/a10739.html#a9fab6f158219db6d5a65b0b302cf285e", null ]
 ];

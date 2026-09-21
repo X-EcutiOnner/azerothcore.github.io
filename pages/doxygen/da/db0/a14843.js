@@ -1,6 +1,7 @@
 var a14843 =
 [
-    [ "npc_grizzlemaw_cw_triggerAI", "d7/d9a/a14847.html", "d7/d9a/a14847" ],
-    [ "npc_grizzlemaw_cw_trigger", "da/db0/a14843.html#a4514796784d974ba6de09b5a5d4e5f3b", null ],
-    [ "GetAI", "da/db0/a14843.html#a1a834bda866033a3cca4fc4ece447313", null ]
+    [ "npc_direbrew_minion", "da/db0/a14843.html#aaac7d1b1a464ea7ff1ec18ace11d54b7", null ],
+    [ "IsSummonedBy", "da/db0/a14843.html#a78d40e0f2a285b0b9c257f12876eabeb", null ],
+    [ "Reset", "da/db0/a14843.html#a21fb7a778e9025ca4185951460a96d08", null ],
+    [ "_instance", "da/db0/a14843.html#aeea9f455c014afa347ce0c3f106ebdb6", null ]
 ];

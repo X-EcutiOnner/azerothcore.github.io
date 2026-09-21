@@ -1,17 +1,6 @@
 var a30143 =
 [
-    [ "GetHeight", "dc/d20/a30143.html#a98bc670c8dd44b210b398f5f014cbbc7", null ],
-    [ "GetOffsetX", "dc/d20/a30143.html#a8facef2fdb586a71f1f740086fe160ab", null ],
-    [ "GetOffsetY", "dc/d20/a30143.html#aecd2f6f40509d9b65f9f254e59298e8c", null ],
-    [ "GetWidth", "dc/d20/a30143.html#a240dac4718a12daee7c8ec526209c4ba", null ],
-    [ "Height", "dc/d20/a30143.html#abb92a54ddecdd06c1031bafd41e642dc", null ],
-    [ "LiquidType", "dc/d20/a30143.html#a910553870f082a1b8dd47c27c8f981f1", null ],
-    [ "LiquidVertexFormat", "dc/d20/a30143.html#ab1376e3688bcf9110111bf87f8fd940a", null ],
-    [ "MaxHeightLevel", "dc/d20/a30143.html#aa73500f507b6ee2678f3c81328b716e1", null ],
-    [ "MinHeightLevel", "dc/d20/a30143.html#a5c56ad9303d1b652774019efbe316dbd", null ],
-    [ "OffsetExistsBitmap", "dc/d20/a30143.html#a1852863d7fcbbd95e6ccb190895841ca", null ],
-    [ "OffsetVertexData", "dc/d20/a30143.html#abfe19bd9c6d9d1d41433abe6fae3baea", null ],
-    [ "OffsetX", "dc/d20/a30143.html#a1dcb423f7ba1c0c7bdaa77aef8139b6c", null ],
-    [ "OffsetY", "dc/d20/a30143.html#a08a02703ec946d3a6fb6326c24b4f6cc", null ],
-    [ "Width", "dc/d20/a30143.html#a4b1bd0f232da1acde53787109e26c9b3", null ]
+    [ "SetUp", "dc/d20/a30143.html#a1aea096e3b4fe9657c3166e0688a2407", null ],
+    [ "_entry", "dc/d20/a30143.html#a36067d0031cbdbc00b1c6dcfbfe2358c", null ],
+    [ "_procEntry", "dc/d20/a30143.html#affb4da9ec7478c526f07056b83bfff60", null ]
 ];

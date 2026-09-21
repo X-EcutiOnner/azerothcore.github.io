@@ -1,6 +1,6 @@
 var a19975 =
 [
-    [ "CalculateDamage", "d2/d00/a19975.html#ae38f8cfb44de2798d7a284c942617678", null ],
-    [ "PrepareSpellScript", "d2/d00/a19975.html#a043955d56e0ae4c54d70e8fe6e417dd1", null ],
-    [ "Register", "d2/d00/a19975.html#ab4b32d2db39c8d9079a83c89d63ccd93", null ]
+    [ "npc_centrifuge_constructAI", "d0/d07/a19979.html", "d0/d07/a19979" ],
+    [ "npc_centrifuge_construct", "d2/d00/a19975.html#a3822eca10ab4a96126e0b4685751f4d3", null ],
+    [ "GetAI", "d2/d00/a19975.html#a7356047de8a6d7bc6e903e982db2bc00", null ]
 ];

@@ -1,7 +1,5 @@
 var a25699 =
 [
-    [ "HandleOnEffectApply", "dc/deb/a25699.html#a90359e3dbb5c2c8caf275f21c107ee0a", null ],
-    [ "HandleOnEffectRemove", "dc/deb/a25699.html#a094d788d157474a9683387d5c340538f", null ],
-    [ "PrepareAuraScript", "dc/deb/a25699.html#aad378b8c45f11af51faf9128878c01df", null ],
-    [ "Register", "dc/deb/a25699.html#a8fcc385f504b3b357e9ceab76f11ca46", null ]
+    [ "PrepareSpellScript", "dc/deb/a25699.html#aa07fade62e79ccc8ad969de44b886332", null ],
+    [ "Register", "dc/deb/a25699.html#a1c20e492be2655e8547d36fedb29cfdc", null ]
 ];

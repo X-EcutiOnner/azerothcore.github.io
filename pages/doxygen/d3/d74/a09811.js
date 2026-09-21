@@ -1,9 +1,10 @@
 var a09811 =
 [
-    [ "NearestHostileUnitCheck", "d3/d74/a09811.html#aa1d706a1eb1de6168b568e70008e2d3b", null ],
-    [ "NearestHostileUnitCheck", "d3/d74/a09811.html#a2fe620370289850eb0362823de2072d1", null ],
-    [ "operator()", "d3/d74/a09811.html#a04c85a77d660bbc74279d1062dabc375", null ],
-    [ "i_playerOnly", "d3/d74/a09811.html#a64c5fce466521a6d6d78eeda0708d65e", null ],
-    [ "m_range", "d3/d74/a09811.html#a801d56a180e196943cfc2cefb6c5dda5", null ],
-    [ "me", "d3/d74/a09811.html#a67cef25e6f725ea42f0377df34d48495", null ]
+    [ "MostHPPercentMissingInRange", "d3/d74/a09811.html#aaef0deb21e2470b45cafc22a8c4d18a5", null ],
+    [ "operator()", "d3/d74/a09811.html#ab1734490a3db95ad715756e85ecfaf77", null ],
+    [ "i_hpPct", "d3/d74/a09811.html#a41a3b1c4d1f27a2d727e7a18e2e30a7d", null ],
+    [ "i_maxHpPct", "d3/d74/a09811.html#afd12795ef0cd99e05e4e21f869582416", null ],
+    [ "i_minHpPct", "d3/d74/a09811.html#a11c197d3eea1a8ded0b20f707e6ed5d0", null ],
+    [ "i_obj", "d3/d74/a09811.html#a724cf058a6bcf02864a49bb288e32ce6", null ],
+    [ "i_range", "d3/d74/a09811.html#a021acff6bdb6aef9ab24c19d8798884f", null ]
 ];

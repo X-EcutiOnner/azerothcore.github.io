@@ -1,8 +1,5 @@
 var a20903 =
 [
-    [ "npc_life_spark", "d0/d92/a20903.html#a76bbbdc610dbc433007930c7a45d03be", null ],
-    [ "JustEngagedWith", "d0/d92/a20903.html#af4111bf747f0d5c510f72f32d42f90e3", null ],
-    [ "Reset", "d0/d92/a20903.html#a3c5b0ee2fac3bc444cc3c58e70284b72", null ],
-    [ "UpdateAI", "d0/d92/a20903.html#a3dffda7a220e41302b928f55995d4dce", null ],
-    [ "_scheduler", "d0/d92/a20903.html#a7e77d71508031a75655db8aaa34d0f9d", null ]
+    [ "achievement_iron_dwarf_medium_rare", "d0/d92/a20903.html#afb3716aab7693ba0493db24999e4b1ee", null ],
+    [ "OnCheck", "d0/d92/a20903.html#aabef3a345057265ac70c6cc0c98d552d", null ]
 ];

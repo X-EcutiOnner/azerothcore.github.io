@@ -1,9 +1,7 @@
 var a25727 =
 [
-    [ "DoCheckCast", "dd/d7b/a25727.html#a09c7bd66988c38cb019656842ed87366", null ],
-    [ "HandleDummy", "dd/d7b/a25727.html#a183e2ac37a432ea2902b31e24a474cea", null ],
-    [ "HandleScriptEffect", "dd/d7b/a25727.html#a396b1129f15056d0b22c7887f56bea99", null ],
-    [ "PrepareSpellScript", "dd/d7b/a25727.html#aad4de93de822a742e02ac8d5d395d482", null ],
-    [ "Register", "dd/d7b/a25727.html#a84fc18d6a2d92aefa2cc4d8095780314", null ],
-    [ "Validate", "dd/d7b/a25727.html#a2565f0ad3bb988ad37dd6a60f08c995c", null ]
+    [ "HandleProc", "dd/d7b/a25727.html#a87508c28fead56ca60c947d78ff8bae2", null ],
+    [ "PrepareAuraScript", "dd/d7b/a25727.html#a514ba9c8222312bb213fcebb418d2499", null ],
+    [ "Register", "dd/d7b/a25727.html#aebe4db9304449686a544c8e4c4f26b81", null ],
+    [ "Validate", "dd/d7b/a25727.html#a9888b4bf71e8bb9e4b1c3caf74c48b31", null ]
 ];

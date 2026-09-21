@@ -1,6 +1,8 @@
 var a20503 =
 [
-    [ "FilterTargets", "d4/d4f/a20503.html#af15fc44e9bd5251aa70aaaa6657e0c29", null ],
-    [ "PrepareSpellScript", "d4/d4f/a20503.html#ae0ebd4c2ac0f91da5b2574ee7dac31ec", null ],
-    [ "Register", "d4/d4f/a20503.html#af6704b0789566b2b385ac573eaa50f06", null ]
+    [ "npc_ulduar_saronite_animus", "d4/d4f/a20503.html#a991f2e68f4b0430c1ccdf470edb44082", null ],
+    [ "JustDied", "d4/d4f/a20503.html#a25c8d5d48558d3ce80cdef4545852bc6", null ],
+    [ "UpdateAI", "d4/d4f/a20503.html#afc7899752e25669b37ab04b50fb2d604", null ],
+    [ "_instance", "d4/d4f/a20503.html#a6f2bf52c82185365efe88941b7922504", null ],
+    [ "timer", "d4/d4f/a20503.html#acdc763ba9d1f35dafb87469e33a6b180", null ]
 ];

@@ -1,7 +1,7 @@
 var a08479 =
 [
-    [ "CreatureSpellCooldown", "d1/d05/a08479.html#a6d234a93951992640df5720a2885be3e", null ],
-    [ "CreatureSpellCooldown", "d1/d05/a08479.html#a53364a501b0ce66e05ec0e6638f6cb6e", null ],
-    [ "category", "d1/d05/a08479.html#a27330a80d711087f1894b2ce816c33b8", null ],
-    [ "end", "d1/d05/a08479.html#a9c1c5f2b6e9a6cd015085e79b043e483", null ]
+    [ "ForcedDespawnDelayEvent", "d1/d05/a08479.html#ad3cf785f62ec0d7069493fee39227bc3", null ],
+    [ "Execute", "d1/d05/a08479.html#a735c709b269458911bd93da1902cbe25", null ],
+    [ "m_owner", "d1/d05/a08479.html#aa4fa09703f39ae8bbe0b7483a27d9cc3", null ],
+    [ "m_respawnTimer", "d1/d05/a08479.html#a5db78930a1fda07f2020b23158ebb93d", null ]
 ];

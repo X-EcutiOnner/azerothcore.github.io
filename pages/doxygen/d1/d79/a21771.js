@@ -1,12 +1,6 @@
 var a21771 =
 [
-    [ "npc_dalaran_warriorAI", "d1/d79/a21771.html#a0c96d8b0797a1388f9fe725753ea91bc", null ],
-    [ "Initialize", "d1/d79/a21771.html#aa04ecd7a8f988e94ab663a7994e83dd9", null ],
-    [ "JustEngagedWith", "d1/d79/a21771.html#ae6690f0681363784e457fbd653f5b3f9", null ],
-    [ "Reset", "d1/d79/a21771.html#a074d116ba39d87fa85c17fbc1764c79b", null ],
-    [ "UpdateAI", "d1/d79/a21771.html#ae2a740ecd35694b4d04c6aea7ae567fa", null ],
-    [ "Battleshout_timer", "d1/d79/a21771.html#ae36f30f816164b60232bd849e74c3da1", null ],
-    [ "disarm_timer", "d1/d79/a21771.html#a54f7ceb37d7e3456166f5af761c95e9e", null ],
-    [ "hamstring_timer", "d1/d79/a21771.html#ae0e660b8c3faf70a6061260a4b90a4af", null ],
-    [ "shout_timer", "d1/d79/a21771.html#ac91770c1e9eb31d687247450898a48ae", null ]
+    [ "PrepareSpellScript", "d1/d79/a21771.html#a072a5228690b929af3b65d771bf5f485", null ],
+    [ "Register", "d1/d79/a21771.html#a87235eb9494edd94221f0380e815aa6b", null ],
+    [ "SetDest", "d1/d79/a21771.html#abe2c48bf2d276871f3e4146d1358ea4c", null ]
 ];

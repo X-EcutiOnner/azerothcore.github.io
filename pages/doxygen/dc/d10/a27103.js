@@ -1,8 +1,8 @@
 var a27103 =
 [
-    [ "HandleEffectRemove", "dc/d10/a27103.html#a770b7ad0bb00114400a73f50c4aa6c81", null ],
-    [ "if", "dc/d10/a27103.html#a7123c451bce0f95ad75e5acfbe58a135", null ],
-    [ "PrepareAuraScript", "dc/d10/a27103.html#a531f51626ae4527282ad1e628911a9ea", null ],
-    [ "Register", "dc/d10/a27103.html#ae68bd9a92239a4796f9d8040787a68b3", null ],
-    [ "AuraEffectHandleModes", "dc/d10/a27103.html#a8af86c58f438e78d8bf878f79d4a27e2", null ]
+    [ "CheckProc", "dc/d10/a27103.html#a0c649a70d0413fd24f29d3f2a03d3b4b", null ],
+    [ "HandleProc", "dc/d10/a27103.html#ae9e9ef38c6cdf57eccbeafb9f8c5cac0", null ],
+    [ "PrepareAuraScript", "dc/d10/a27103.html#adc8f29fd41def510195365f40fd5340b", null ],
+    [ "Register", "dc/d10/a27103.html#add7ed115ee403870f46e25614fac3840", null ],
+    [ "Validate", "dc/d10/a27103.html#aa9e341cbf35a4a6c2f42f55a216241b8", null ]
 ];

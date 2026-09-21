@@ -1,6 +1,5 @@
 var a20967 =
 [
-    [ "x", "dd/d45/a20967.html#ae4223168378b602a0a96dbb424a22be4", null ],
-    [ "y", "dd/d45/a20967.html#a30f361d8104e4de44541d75945105963", null ],
-    [ "z", "dd/d45/a20967.html#ae68a79519c35302b89976ac29bb77e26", null ]
+    [ "achievement_thorim_stand_in_the_lightning", "dd/d45/a20967.html#a9339e89e4eb76151fdeacb6bcd53d7bc", null ],
+    [ "OnCheck", "dd/d45/a20967.html#ade1aec4de4c503be5a62da3e6c35e90f", null ]
 ];

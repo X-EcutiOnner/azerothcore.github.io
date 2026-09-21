@@ -1,5 +1,7 @@
 var a20347 =
 [
-    [ "achievement_flame_leviathan_unbroken", "d2/d7e/a20347.html#a30a94a92aacc558d6833994c11f3ee8a", null ],
-    [ "OnCheck", "d2/d7e/a20347.html#a78c69e3217b6598ab238a4f51ba598eb", null ]
+    [ "npc_storm_beacon_spawn", "d2/d7e/a20347.html#a999b6421a0ef6eec2987716a60352a5e", null ],
+    [ "UpdateAI", "d2/d7e/a20347.html#a93dbd7a26d6333f18329142280cc743d", null ],
+    [ "_amount", "d2/d7e/a20347.html#acb5d1f2b6590da32f36882339729c4e9", null ],
+    [ "_checkTimer", "d2/d7e/a20347.html#a9717b52f26045707fd852b955d29a5e6", null ]
 ];

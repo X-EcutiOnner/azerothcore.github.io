@@ -1,6 +1,6 @@
 var a21111 =
 [
-    [ "CheckCast", "db/dd6/a21111.html#a715a58956db4253c8adfed039833debd", null ],
-    [ "PrepareSpellScript", "db/dd6/a21111.html#a3b03178d8ab54db36a19ba5a27444917", null ],
-    [ "Register", "db/dd6/a21111.html#a6309c53b9e3828e76d34a77a8fe35df1", null ]
+    [ "boss_yoggsaron_influence_tentacle", "db/dd6/a21111.html#ac5908d64a4749303a08d352d470995dd", null ],
+    [ "DamageTaken", "db/dd6/a21111.html#a0e76ab78b378ba4262dfb603e7634dfb", null ],
+    [ "JustDied", "db/dd6/a21111.html#a9fac83d89c8c5810b2b5a25d0228c741", null ]
 ];

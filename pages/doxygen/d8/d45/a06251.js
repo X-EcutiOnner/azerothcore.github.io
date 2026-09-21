@@ -1,11 +1,17 @@
 var a06251 =
 [
-    [ "SQLOperation", "d8/d45/a06251.html#a0f69657715b7d24458227b22a3b40b1a", null ],
-    [ "~SQLOperation", "d8/d45/a06251.html#afa21cafba57dd35ed2b132ef3d18c71b", null ],
-    [ "SQLOperation", "d8/d45/a06251.html#a91b34b81ed99ca0da54d825fec98ab6e", null ],
-    [ "call", "d8/d45/a06251.html#ae56c06a313c4be5d0e45f5481996f1d1", null ],
-    [ "Execute", "d8/d45/a06251.html#aff1090554bc4a6fe7a33270e63416e19", null ],
-    [ "operator=", "d8/d45/a06251.html#ac31349ed45ea051540ac345bd4b814d5", null ],
-    [ "SetConnection", "d8/d45/a06251.html#a52cbd1d9b8a298ab3eade0010b5e3166", null ],
-    [ "m_conn", "d8/d45/a06251.html#adf322db48064fcf4528f713f857f1b40", null ]
+    [ "QueryCallbackData", "d8/d45/a06251.html#a43aa5b63c21480a9a02e5b1705f5e46a", null ],
+    [ "QueryCallbackData", "d8/d45/a06251.html#af3d8b55a1a392e1f471bcf7ce16d8f45", null ],
+    [ "QueryCallbackData", "d8/d45/a06251.html#a81f06a2940c72077d0f8bbe0d6292c5e", null ],
+    [ "~QueryCallbackData", "d8/d45/a06251.html#a7a748ec0f04555caf696be1792701134", null ],
+    [ "QueryCallbackData", "d8/d45/a06251.html#aea307606758c54a99e020421acaa5697", null ],
+    [ "operator=", "d8/d45/a06251.html#a135161ac21cd4f11f2178acc8316afea", null ],
+    [ "operator=", "d8/d45/a06251.html#a5b4baade8dd78ab3dc00e1003f679fb3", null ],
+    [ "ConstructActiveMember", "d8/d45/a06251.html#a63276ee687270e668e7c51876ced5fb1", null ],
+    [ "DestroyActiveMember", "d8/d45/a06251.html#aac0ba6a0017441eb25c4b294fde99186", null ],
+    [ "MoveFrom", "d8/d45/a06251.html#a4ef783bc4f06f2cbaec3f4b6ca2c49aa", null ],
+    [ "QueryCallback", "d8/d45/a06251.html#a3bf0675bb0e337d06f1e7ef31d7622fe", null ],
+    [ "_isPrepared", "d8/d45/a06251.html#ad4e5dcd8f5648dfa36116b9944813ec6", null ],
+    [ "_prepared", "d8/d45/a06251.html#ab87a39965f1ca9d48d6e5a88fde51976", null ],
+    [ "_string", "d8/d45/a06251.html#a384db60c65e7823fdbc0ff430ac8dfe1", null ]
 ];

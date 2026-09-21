@@ -1,10 +1,6 @@
 var a09611 =
 [
-    [ "AIRelocationNotifier", "dc/db8/a09611.html#a05c1f74272dff612eeda6c50d1c6fb43", null ],
-    [ "Visit", "dc/db8/a09611.html#a06dd774a24d4a1da36a2a862c0ad97df", null ],
-    [ "Visit", "dc/db8/a09611.html#a0ec9a2499d73516dd2d4a0319990924a", null ],
-    [ "Visit", "dc/db8/a09611.html#a3cbdb164a6239614ef6ade13ddb5d33c", null ],
-    [ "i_unit", "dc/db8/a09611.html#ab1dd814e4d94ed2989bb07012a24d40e", null ],
-    [ "includePlayers", "dc/db8/a09611.html#ac7985b8f0282180a063ccfba7583917e", null ],
-    [ "isCreature", "dc/db8/a09611.html#a199f4b91d00dd4db90855e5521d87a95", null ]
+    [ "AreaMapType", "dc/db8/a09611.html#a0ea8ea1ddb694a7e57c816f6b7d33ec6", null ],
+    [ "areaMap", "dc/db8/a09611.html#a21673b134ee6b5fb20bab06c3e1b2238", null ],
+    [ "gridArea", "dc/db8/a09611.html#a37e8598e7a22dcb17637243fbeeecb0c", null ]
 ];

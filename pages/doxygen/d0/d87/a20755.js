@@ -1,9 +1,13 @@
 var a20755 =
 [
-    [ "npc_razorscale_harpoon_fire_state", "d0/d87/a20755.html#a5bcb95382dc80bae1f4f05c306fb52bf", null ],
-    [ "DoAction", "d0/d87/a20755.html#aa7a12bae703c1a7d215dc0181f9ad532", null ],
-    [ "GetData", "d0/d87/a20755.html#ae552669fbd1a66a457cc30a2ed13c8fd", null ],
-    [ "Reset", "d0/d87/a20755.html#aad5f2d32fffaacec3485b0743f4267aa", null ],
-    [ "SpellHit", "d0/d87/a20755.html#a660573750d12c82394a9f911a3973e02", null ],
-    [ "_repairProgress", "d0/d87/a20755.html#af1c14d6762f9fc9f3a78f040a544bde4", null ]
+    [ "npc_ulduar_mimiron_rocket", "d0/d87/a20755.html#abd32fde821053b6c8aa3dd83e25b6ad6", null ],
+    [ "GetGUID", "d0/d87/a20755.html#ad8415989fc73f29462ee1787508ec033", null ],
+    [ "InitializeAI", "d0/d87/a20755.html#ac7fd972d6b973240256ee8b0af57ffad", null ],
+    [ "Reset", "d0/d87/a20755.html#a982da2f2392882a86e72de4c4769fa41", null ],
+    [ "SetGUID", "d0/d87/a20755.html#aa9945bc616b99d242a4f8ec1320f8612", null ],
+    [ "UpdateAI", "d0/d87/a20755.html#a20a914900db345aa00a9e640bc5b1baf", null ],
+    [ "_events", "d0/d87/a20755.html#a823d53f96e82b0a89a62c57d84eaad29", null ],
+    [ "_strikeTrigger", "d0/d87/a20755.html#a9da436d0769e8ae067a523bc2e4551cc", null ],
+    [ "_strikeVictim", "d0/d87/a20755.html#a550ce28cd2fe93e262633c9c686c8b7f", null ],
+    [ "_travelMs", "d0/d87/a20755.html#a2740bdfe8f7f6909e9fcdf1e800d4eb3", null ]
 ];

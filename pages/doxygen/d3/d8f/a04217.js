@@ -1,12 +1,21 @@
 var a04217 =
 [
-    [ "instance_magisters_terrace", "d8/d26/a13545.html", "d8/d26/a13545" ],
-    [ "instance_magisters_terrace::instance_magisters_terrace_InstanceMapScript", "d5/dd1/a13549.html", "d5/dd1/a13549" ],
-    [ "AddSC_instance_magisters_terrace", "d3/d8f/a04217.html#a39e3bff767d59081afebb72eeb3a1646", null ],
-    [ "boundaries", "d3/d8f/a04217.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
-    [ "creatureData", "d3/d8f/a04217.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "d3/d8f/a04217.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "gameobjectData", "d3/d8f/a04217.html#a845a92716bd40c99a93eb0715cd737b0", null ],
-    [ "KalecgosSpawnPos", "d3/d8f/a04217.html#a6fd9df921f79258a02d22baaf7a1caca", null ],
-    [ "summonerData", "d3/d8f/a04217.html#acefca1a118e299acbb631fc6166a1526", null ]
+    [ "npc_partygoer_pather", "df/d98/a14087.html", "df/d98/a14087" ],
+    [ "npc_partygoer", "da/d08/a14091.html", "da/d08/a14091" ],
+    [ "npc_lor_themar_theron", "dd/db2/a14095.html", "dd/db2/a14095" ],
+    [ "Partygoer", "d3/d8f/a04217.html#a2426dcce5ddc33ba72e2c0ebe9c88e1e", [
+      [ "EVENT_RANDOM_ACTION", "d3/d8f/a04217.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eacb43fc5be7eecf527a639a9122091f96", null ],
+      [ "EVENT_REMOVE_EQUIPMENT", "d3/d8f/a04217.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea37faceace884bd7a013b0d5dd0fac886", null ],
+      [ "EVENT_STOP_DANCING", "d3/d8f/a04217.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eacaad2f31616c81d6fa79aaad83b2fba4", null ],
+      [ "EVENT_THROW_FIREWORKS", "d3/d8f/a04217.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eaa67af798691d1e37088900cb7c2ebf51", null ],
+      [ "EVENT_RESET_FACING", "d3/d8f/a04217.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea1d5b4f747a997b97e8ac881aa879bbb9", null ],
+      [ "GO_FIREWORKS_LAUNCHER", "d3/d8f/a04217.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea4fd8fdeafd948ad27d906801728d7081", null ]
+    ] ],
+    [ "Partygoer_Pather", "d3/d8f/a04217.html#a3222d14ce03d75912e65560ebf2a961b", [
+      [ "EVENT_PATH", "d3/d8f/a04217.html#a3222d14ce03d75912e65560ebf2a961bab210624be9af9dc44683266b3b3efcea", null ],
+      [ "EVENT_RANDOM_ACTION_PATHER", "d3/d8f/a04217.html#a3222d14ce03d75912e65560ebf2a961ba93c437ac824047af79e5296f2f70938b", null ],
+      [ "EVENT_REMOVE_EQUIPMENT_PATHER", "d3/d8f/a04217.html#a3222d14ce03d75912e65560ebf2a961baae55cce9b375894e1a9adbbd8c42610f", null ],
+      [ "EVENT_STOP_DANCING_PATHER", "d3/d8f/a04217.html#a3222d14ce03d75912e65560ebf2a961ba038dd2b09deef9325222dec4d8a99292", null ]
+    ] ],
+    [ "AddSC_eversong_woods", "d3/d8f/a04217.html#a78299b9cdd3e783b3f231a9dda40a7b4", null ]
 ];

@@ -1,7 +1,5 @@
 var a10855 =
 [
-    [ "SpellScriptLoader", "d7/d04/a10855.html#a3b6fe2ba310f95c438b7cf941865fe46", null ],
-    [ "GetAuraScript", "d7/d04/a10855.html#a9c60850e39ffe3d151a128b12777859d", null ],
-    [ "GetSpellScript", "d7/d04/a10855.html#a6f3a101a0517ba1440399809cf7f5b5b", null ],
-    [ "IsDatabaseBound", "d7/d04/a10855.html#ae60bf9957b950c7f5c9927f71510dc06", null ]
+    [ "FactoryGameObjectScript", "d7/d04/a10855.html#ac0981bdae743da11b99d7df1c967a703", null ],
+    [ "GetAI", "d7/d04/a10855.html#a9a39e94f28729ea1fb4b6231d588b42c", null ]
 ];

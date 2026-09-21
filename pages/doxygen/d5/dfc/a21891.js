@@ -1,7 +1,6 @@
 var a21891 =
 [
-    [ "FilterTargets", "d5/dfc/a21891.html#af62588a225f0b701a0f9321677ae22b8", null ],
-    [ "HandleScript", "d5/dfc/a21891.html#ad68fad08b2613de096e504bb7dea61cd", null ],
-    [ "PrepareSpellScript", "d5/dfc/a21891.html#a76ac3fe280585a4e2b2d599b4bcc7846", null ],
-    [ "Register", "d5/dfc/a21891.html#a8fdbf1c7ab67c0ef094d738ec9a169d8", null ]
+    [ "npc_future_youAI", "de/d25/a21895.html", "de/d25/a21895" ],
+    [ "npc_future_you", "d5/dfc/a21891.html#a36e363156bcb32fee468989062817bd5", null ],
+    [ "GetAI", "d5/dfc/a21891.html#a2e1529fef3ce307d98057dc93ce5e5fe", null ]
 ];

@@ -1,6 +1,7 @@
 var a25479 =
 [
-    [ "HandleCast", "dc/d82/a25479.html#ac6f7b9650d0a55834dafb09555692243", null ],
-    [ "PrepareSpellScript", "dc/d82/a25479.html#ab3dc21aa63f0fb9202233603106eef87", null ],
-    [ "Register", "dc/d82/a25479.html#ad6c2dc91d0973c0b8d57151dff3d9499", null ]
+    [ "HandleApplyEffect", "dc/d82/a25479.html#a4e2f6d414aea8ed1339ef3caa24fc17b", null ],
+    [ "Load", "dc/d82/a25479.html#a47a4f15ab02ba3c6ac4dbfd7c4552900", null ],
+    [ "PrepareAuraScript", "dc/d82/a25479.html#a101d38f5ffb34f90ba9af4f787445f2e", null ],
+    [ "Register", "dc/d82/a25479.html#aed57fbbf473b8f15fa177261e4678e96", null ]
 ];

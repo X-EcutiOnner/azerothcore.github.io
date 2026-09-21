@@ -1,6 +1,6 @@
 var a19531 =
 [
-    [ "FilterTargets", "d1/db2/a19531.html#a2df81e30554809a0d5b45d2f471bb71f", null ],
-    [ "PrepareSpellScript", "d1/db2/a19531.html#aa51d9c578b782fbe0e7e3cf13789b702", null ],
-    [ "Register", "d1/db2/a19531.html#a4c1eab348e54011f1a2f827fc251ca13", null ]
+    [ "boss_faerlinaAI", "d5/d4f/a19535.html", "d5/d4f/a19535" ],
+    [ "boss_faerlina", "d1/db2/a19531.html#a86543ac855287e3de2e3ffcde66fb1cb", null ],
+    [ "GetAI", "d1/db2/a19531.html#aed8214323ff5b792d9bd6aae478e7848", null ]
 ];

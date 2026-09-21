@@ -1,6 +1,5 @@
 var a23927 =
 [
-    [ "HandleScriptEffect", "d9/d20/a23927.html#acfe80e22e6c78dba50155f7f20c0678b", null ],
-    [ "PrepareSpellScript", "d9/d20/a23927.html#a17cb5f874343bd40c6aafaf9d627b047", null ],
-    [ "Register", "d9/d20/a23927.html#a4bb5cfd2cc8503b3a840fc68624a33c1", null ]
+    [ "modelId", "d9/d20/a23927.html#a6a7f030a6445a46fe55640356e9c5124", null ],
+    [ "spellId", "d9/d20/a23927.html#a6cfbffba97934cc420964f9b6d7645a3", null ]
 ];

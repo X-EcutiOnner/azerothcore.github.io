@@ -1,7 +1,6 @@
 var a18307 =
 [
-    [ "HandleTriggerSpell", "df/d77/a18307.html#a7d7f1731c453e5d0b70e6093aeedea87", null ],
-    [ "PrepareAuraScript", "df/d77/a18307.html#afff0c81696ddcb427ce105d510ef93b1", null ],
-    [ "Register", "df/d77/a18307.html#aa50c6066115d7b60704eff48e77d10bd", null ],
-    [ "Validate", "df/d77/a18307.html#a6ef56d3d18bab2f81c810160ecf3ae96", null ]
+    [ "npc_bone_spikeAI", "d9/d25/a18311.html", "d9/d25/a18311" ],
+    [ "npc_bone_spike", "df/d77/a18307.html#ac93d7a45eaeae8d7adf2a3b313825aed", null ],
+    [ "GetAI", "df/d77/a18307.html#a887a9156f550ca55047fa501e1709d95", null ]
 ];

@@ -1,6 +1,6 @@
 var a21807 =
 [
-    [ "npc_mindless_ghoulAI", "db/dd4/a21811.html", "db/dd4/a21811" ],
-    [ "npc_mindless_ghoul", "db/d53/a21807.html#ac5bf71e719c0df04687f426a022fd65e", null ],
-    [ "GetAI", "db/d53/a21807.html#ac5a087aa742827dc8eb0f3dc195920ec", null ]
+    [ "npc_steam_powered_auctioneerAI", "db/dd4/a21811.html", "db/dd4/a21811" ],
+    [ "npc_steam_powered_auctioneer", "db/d53/a21807.html#ae8c918c639ce0c3ddc14b8cf7f0ef855", null ],
+    [ "GetAI", "db/d53/a21807.html#a39a2f0c187078c759bc4a391e0a81068", null ]
 ];

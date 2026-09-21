@@ -1,14 +1,18 @@
 var a23331 =
 [
-    [ "instance_serpentshrine_cavern_InstanceMapScript", "d4/d6a/a23331.html#a3e83985648f2951ee33d440c9c98bf72", null ],
-    [ "GetData", "d4/d6a/a23331.html#a9ea722d45efe2ee4eff041e480ff1c79", null ],
-    [ "Initialize", "d4/d6a/a23331.html#a8a2214e169acace8578c1863daf0a04c", null ],
-    [ "OnCreatureCreate", "d4/d6a/a23331.html#ae5f77169c337420852962fe7ddba3006", null ],
-    [ "OnCreatureRemove", "d4/d6a/a23331.html#a921442812da891a6651ddd235d4a98f9", null ],
-    [ "OnGameObjectCreate", "d4/d6a/a23331.html#a9aeb7b25aa1446fff655b4c8fd6c47ad", null ],
-    [ "SetBossState", "d4/d6a/a23331.html#ad2863bc954ae25a5d96d06db0250cda3", null ],
-    [ "SetData", "d4/d6a/a23331.html#af3ca65eef9902a029f5b836d0b6fd58a", null ],
-    [ "_aliveKeepersCount", "d4/d6a/a23331.html#a71f3a72d3aa47b267e3b8a7d1c90b6ff", null ],
-    [ "_frenzyCount", "d4/d6a/a23331.html#acdba0cea9bdbe929a30bd2f790a613f9", null ],
-    [ "_shieldGeneratorGUID", "d4/d6a/a23331.html#a570b73c8ecd0e1ab6ac2889405be6ef0", null ]
+    [ "boss_lady_vashj", "d4/d6a/a23331.html#a3934fc6c6363f7c2ee235a58a262135f", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d4/d6a/a23331.html#ad424f1c23cc893e7e48c3e854bf20936", null ],
+    [ "JustDied", "d4/d6a/a23331.html#a8f0074b650b6e0a245726ebdeb8651b6", null ],
+    [ "JustEngagedWith", "d4/d6a/a23331.html#a2b3b3a3bacd8042eb64a49cc9ca8847f", null ],
+    [ "JustSummoned", "d4/d6a/a23331.html#ac577c4f0d0c3e9d1635a1ca9a0954095", null ],
+    [ "KilledUnit", "d4/d6a/a23331.html#a0418ead0213eeea16a531baca96db704", null ],
+    [ "MoveInLineOfSight", "d4/d6a/a23331.html#a4780e7cbcb7984c5742a5c072acfe252", null ],
+    [ "MovementInform", "d4/d6a/a23331.html#ad2d58872d657b3a81c6be0e69d8bff1f", null ],
+    [ "Reset", "d4/d6a/a23331.html#a114729e5a3caa70c89d8c8b53eba5af3", null ],
+    [ "ScheduleSpells", "d4/d6a/a23331.html#ac4821984e5b5310877204fdb93810029", null ],
+    [ "UpdateAI", "d4/d6a/a23331.html#a6ec56730a2735b1d9d35c63242c310b2", null ],
+    [ "_batTimer", "d4/d6a/a23331.html#a0ccfbf23e8f47b77496d35cdeae5e3ac", null ],
+    [ "_count", "d4/d6a/a23331.html#a2c4c2ecaa4b3ad859f46e36be34b1076", null ],
+    [ "_intro", "d4/d6a/a23331.html#a2aafb94d956182723ccc9374854c7fb0", null ],
+    [ "_playerAngle", "d4/d6a/a23331.html#a005515a4f2ad0661d5faff9107ea068b", null ]
 ];

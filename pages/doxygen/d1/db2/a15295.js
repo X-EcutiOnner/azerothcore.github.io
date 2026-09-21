@@ -1,6 +1,8 @@
 var a15295 =
 [
-    [ "npc_crate_helperAI", "db/d8e/a15299.html", "db/d8e/a15299" ],
-    [ "npc_crate_helper", "d1/db2/a15295.html#ae08751928234656dcda84dd5c7e4cc37", null ],
-    [ "GetAI", "d1/db2/a15295.html#af69c9cf385ee829853985daa7f2aa8d6", null ]
+    [ "hyjalTyrandeAI", "d1/db2/a15295.html#ac2f5449b60cd137dbc1f6ddc8afe5309", null ],
+    [ "JustDied", "d1/db2/a15295.html#af5c7b843b8e1a7c0864b55853bc62097", null ],
+    [ "JustEngagedWith", "d1/db2/a15295.html#a158589b567d22c8f6e0be462bad8299d", null ],
+    [ "Reset", "d1/db2/a15295.html#a5ea52a1ee3730630d1efbdac4ad24c80", null ],
+    [ "UpdateAI", "d1/db2/a15295.html#a9e825f9d87df6227b73eb965488eff8a", null ]
 ];

@@ -1,9 +1,8 @@
 var a21675 =
 [
-    [ "npc_bloodmage_laurithAI", "d7/d7c/a21675.html#a75dca4f2e90318f334e7e6385d4f7a6f", null ],
-    [ "Reset", "d7/d7c/a21675.html#afe9b10dfcee3b241a48e6f2e40eec657", null ],
-    [ "SetGUID", "d7/d7c/a21675.html#a6fa0d042dda8b709925aa04a3d0a17c8", null ],
-    [ "UpdateAI", "d7/d7c/a21675.html#a9752f518441071dd4a60cd63423bf9a3", null ],
-    [ "_events", "d7/d7c/a21675.html#a35facab84094071d952792a4c3e5015d", null ],
-    [ "_playerGUID", "d7/d7c/a21675.html#a6aab8db1d55d4fe3251b544c292711e8", null ]
+    [ "HandleEffectRemove", "d7/d7c/a21675.html#aa2b05befb775244423264f6b5e2387c1", null ],
+    [ "Load", "d7/d7c/a21675.html#a02ea4c29f2c7e15a5039b93d7a0d3c5e", null ],
+    [ "PrepareAuraScript", "d7/d7c/a21675.html#a632e81cc39bdcd0f5adcc684231d1171", null ],
+    [ "Register", "d7/d7c/a21675.html#aba5483b1d35c1b58841fad2b1086f07c", null ],
+    [ "Validate", "d7/d7c/a21675.html#ada90e1f06ced8f4e353fe2bda3d31637", null ]
 ];

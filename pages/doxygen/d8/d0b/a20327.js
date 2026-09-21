@@ -1,9 +1,9 @@
 var a20327 =
 [
-    [ "Absorb", "d8/d0b/a20327.html#a16c2e931950102fc0ae5c88ef14587c1", null ],
-    [ "CalculateAmount", "d8/d0b/a20327.html#a9166627cbaa536405975444c4ef601de", null ],
-    [ "Load", "d8/d0b/a20327.html#abe7c08d2f26cef3603cf1b1f243f9e38", null ],
-    [ "PrepareAuraScript", "d8/d0b/a20327.html#aa5793741c2f8179db68a9fb1222a9085", null ],
-    [ "Register", "d8/d0b/a20327.html#a17fed57aed8953c7a7e401d1ac925e67", null ],
-    [ "_absorbPct", "d8/d0b/a20327.html#ad9e1dcfd8ce7038173ac5b71d448d80a", null ]
+    [ "npc_freya_ward_summon", "d8/d0b/a20327.html#ad88b954bbbb68988915ec165ccb0a3dd", null ],
+    [ "CanAIAttack", "d8/d0b/a20327.html#a6b91ab899f11e3d6f9907b73476fa61f", null ],
+    [ "IsSummonedBy", "d8/d0b/a20327.html#ab6c7cab698470dafd14a0ed2ddd94eca", null ],
+    [ "JustEngagedWith", "d8/d0b/a20327.html#a52ca4242be249900f94d918dbc4df6c3", null ],
+    [ "Reset", "d8/d0b/a20327.html#ae2e600ad8cae543bdb4b7f7b9c4c626a", null ],
+    [ "UpdateAI", "d8/d0b/a20327.html#a175d2ca7a28ab998860fdce324c48c7e", null ]
 ];

@@ -1,12 +1,5 @@
 var a20819 =
 [
-    [ "boss_thorim_sif", "d5/d87/a20819.html#a9762a5d386897bcd6d42b3c36d9fc18f", null ],
-    [ "AttackStart", "d5/d87/a20819.html#a3da2809c4e7aa0c051647be354ade759", null ],
-    [ "DoAction", "d5/d87/a20819.html#a61fec6c7b91d5f34339ebabd18b94e5d", null ],
-    [ "IsSummonedBy", "d5/d87/a20819.html#a126b546655d4438bf25d0870f5c550b8", null ],
-    [ "MoveInLineOfSight", "d5/d87/a20819.html#a5c1dfc697a84d4eb3ea6074514034343", null ],
-    [ "Reset", "d5/d87/a20819.html#a3f747b6da8db72fd61c50a24096834c2", null ],
-    [ "UpdateAI", "d5/d87/a20819.html#adbe7effa0bab5046f26f8d7df0f82a04", null ],
-    [ "_allowCast", "d5/d87/a20819.html#a6081345415b9ae3892d4f150a195908c", null ],
-    [ "events", "d5/d87/a20819.html#a5d64d273a6aefdd9359b71963271b4ee", null ]
+    [ "achievement_mimiron_set_up_us_the_bomb_13", "d5/d87/a20819.html#a74b0cafbc4be4261c8f8f2af3671cbd9", null ],
+    [ "OnCheck", "d5/d87/a20819.html#ac91196d094f159932ad871ffa9c0f405", null ]
 ];

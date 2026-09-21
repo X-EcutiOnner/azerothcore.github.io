@@ -1,7 +1,5 @@
 var a05603 =
 [
-    [ "TypeContainerVisitor", "db/dd0/a05603.html#a1dd5b1ac8e4703358a32431efed8faa2", null ],
-    [ "Visit", "db/dd0/a05603.html#adf0874fc1f8bb38d2f62530f5667c836", null ],
-    [ "Visit", "db/dd0/a05603.html#af8110dd70655223f06fb08b552420a6d", null ],
-    [ "i_visitor", "db/dd0/a05603.html#a7be8eccd05fd489da52e587f51555891", null ]
+    [ "~Permissible", "db/dd0/a05603.html#a9ed19d14dda478fe1ff6cb092d684be2", null ],
+    [ "Permit", "db/dd0/a05603.html#a0fccdbc46c9bafea63757ceee62b0385", null ]
 ];

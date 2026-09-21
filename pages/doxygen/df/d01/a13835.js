@@ -1,7 +1,4 @@
 var a13835 =
 [
-    [ "HandleRemove", "df/d01/a13835.html#a4484cf33e423f23cad9559a6a16ed9b4", null ],
-    [ "PrepareAuraScript", "df/d01/a13835.html#a6fa407996b59d98d0eeef877ee89784d", null ],
-    [ "Register", "df/d01/a13835.html#a7dc81b47954ee8c10b99f389740de0be", null ],
-    [ "Validate", "df/d01/a13835.html#afd94a159c0f429f2a63ffbd0a38d32e3", null ]
+    [ "operator()", "df/d01/a13835.html#ae5ec191753b6dac7916f1012930ea901", null ]
 ];

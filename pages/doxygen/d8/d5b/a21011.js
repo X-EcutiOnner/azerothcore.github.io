@@ -1,9 +1,8 @@
 var a21011 =
 [
-    [ "boss_yoggsaron_keeper", "d8/d5b/a21011.html#ad2098933656371b1bf80ec3ea859c418", null ],
-    [ "Activate", "d8/d5b/a21011.html#a54edd78e856dbf519a0e2d76ae781ab8", null ],
-    [ "DoAction", "d8/d5b/a21011.html#a9e3d251810b55072458003356213ae15", null ],
-    [ "JustSummoned", "d8/d5b/a21011.html#a272a77cb6f147f38825cd68d54f56a9a", null ],
-    [ "UpdateAI", "d8/d5b/a21011.html#afe9c18d91443f2ba3b2fd2a2fdd7dca5", null ],
-    [ "_summons", "d8/d5b/a21011.html#aa840eff5f3d8b24225046113737936b4", null ]
+    [ "OnPeriodic", "d8/d5b/a21011.html#aa49d1186ca6f5cdd628728a8a30c06a0", null ],
+    [ "OnRemove", "d8/d5b/a21011.html#ad3a81506d71ed3d6ddffce7d8f902eb4", null ],
+    [ "PrepareAuraScript", "d8/d5b/a21011.html#a63b654cf540e331e4d2b4f4ece5c1fcc", null ],
+    [ "Register", "d8/d5b/a21011.html#a004ba2e0e83a14bef3cae208a45f222b", null ],
+    [ "Validate", "d8/d5b/a21011.html#aa56622a1e57c157260940023a6c70a35", null ]
 ];

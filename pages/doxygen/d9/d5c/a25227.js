@@ -1,7 +1,6 @@
 var a25227 =
 [
-    [ "HandleProc", "d9/d5c/a25227.html#af768269d315e998fc2042794c3a03b58", null ],
-    [ "PrepareAuraScript", "d9/d5c/a25227.html#ae3da67d626ee11c57a85a3af99ff07a5", null ],
-    [ "Register", "d9/d5c/a25227.html#a2df1cff47861cbf3198e573c6031b54e", null ],
-    [ "Validate", "d9/d5c/a25227.html#a84f40eec148c55108085db5e7b05cb0e", null ]
+    [ "PrepareAuraScript", "d9/d5c/a25227.html#a8a60db6939ba71ddcf723fb4e48b3146", null ],
+    [ "Register", "d9/d5c/a25227.html#a8ab913cf84f55428d2b0615172f3da3b", null ],
+    [ "AuraEffectHandleModes", "d9/d5c/a25227.html#aed1cfe63d82450b526e154678fb97ac4", null ]
 ];

@@ -1,7 +1,8 @@
 var a21259 =
 [
-    [ "HandleOnEffectRemove", "d3/da9/a21259.html#acccd790c53f567f93e64afa7b7d1fe6f", null ],
-    [ "PrepareAuraScript", "d3/da9/a21259.html#a72e6468602d40eb479a80c611d60eb2e", null ],
-    [ "Register", "d3/da9/a21259.html#a213b50ebb7ce248a36dd78167d1190bb", null ],
-    [ "Validate", "d3/da9/a21259.html#a8f3ec40c0c2e38dc32db30ce36129684", null ]
+    [ "npc_ulduar_keeperAI", "d3/d6f/a21263.html", "d3/d6f/a21263" ],
+    [ "npc_ulduar_keeper", "d3/da9/a21259.html#a252b781061a2e21dc961ea94f7120d59", null ],
+    [ "GetAI", "d3/da9/a21259.html#ad0c0f5d3786e3f3b3394a599f3ee6256", null ],
+    [ "OnGossipHello", "d3/da9/a21259.html#a4db12efd22c7d2a5f18144fd16543230", null ],
+    [ "OnGossipSelect", "d3/da9/a21259.html#acf8681577117107d16d45705e4b8463f", null ]
 ];

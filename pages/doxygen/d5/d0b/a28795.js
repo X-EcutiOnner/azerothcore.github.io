@@ -1,5 +1,4 @@
 var a28795 =
 [
-    [ "npc_harrowmeiser", "d5/d0b/a28795.html#a30a44ae739447e14ded0c0af6c73e76e", null ],
-    [ "OnGossipHello", "d5/d0b/a28795.html#a3d4b6bc9a85315b0f31347068b3c5317", null ]
+    [ "go_necropolis", "d5/d0b/a28795.html#aef477499aefa5340db97538a8f3a3cca", null ]
 ];

@@ -1,7 +1,7 @@
 var a14207 =
 [
-    [ "OnApply", "dc/d50/a14207.html#a21450cd59487a927bbc0a5a5e1ffa72b", null ],
-    [ "OnRemove", "dc/d50/a14207.html#a810203874163cf04798c3edbe69b747e", null ],
-    [ "PrepareAuraScript", "dc/d50/a14207.html#a3c17a7366acd9bd1863bae0f9218930a", null ],
-    [ "Register", "dc/d50/a14207.html#af2ad52165de188897fdeb8d62646b7cc", null ]
+    [ "npc_king_varian_wrynn", "dc/d50/a14207.html#ab62609f2e468d1d173d9c9ea4c05d164", null ],
+    [ "JustDied", "dc/d50/a14207.html#ae1b1aca3df1398a4f86f7b1deba5fd14", null ],
+    [ "OnQuestReward", "dc/d50/a14207.html#a3f461d73130945e2287c5ea46b8bdce9", null ],
+    [ "UpdateAI", "dc/d50/a14207.html#a37bdb5c5c286b2c34e55ef9e8e1aff77", null ]
 ];

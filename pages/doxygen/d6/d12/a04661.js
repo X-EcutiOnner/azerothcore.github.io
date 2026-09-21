@@ -1,4 +1,4 @@
 var a04661 =
 [
-    [ "Acore::Crypto::ARC4", "d3/d45/a05517.html", "d3/d45/a05517" ]
+    [ "AuthCrypt", "d7/dbb/a05535.html", "d7/dbb/a05535" ]
 ];

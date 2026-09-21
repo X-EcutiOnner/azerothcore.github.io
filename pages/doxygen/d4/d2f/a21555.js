@@ -1,7 +1,6 @@
 var a21555 =
 [
-    [ "npc_azure_stalker", "d4/d2f/a21555.html#a12d5ae337c0c494f751ebe14b365c0f9", null ],
-    [ "Reset", "d4/d2f/a21555.html#a0e6e6b30e79f5e68ed9800f405f38d84", null ],
-    [ "UpdateAI", "d4/d2f/a21555.html#a22352aad7c55a4d454b9732469395139", null ],
-    [ "_events", "d4/d2f/a21555.html#ad83249d787d2f763ac2d01723ff305ef", null ]
+    [ "npc_frozen_orb_stalkerAI", "d5/dbc/a21559.html", "d5/dbc/a21559" ],
+    [ "npc_frozen_orb_stalker", "d4/d2f/a21555.html#a7f025c829106aa6668427f913d07a722", null ],
+    [ "GetAI", "d4/d2f/a21555.html#af33e27138a70286bac561113ed09f350", null ]
 ];

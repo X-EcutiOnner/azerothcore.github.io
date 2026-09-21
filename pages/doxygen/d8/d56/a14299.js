@@ -1,7 +1,7 @@
 var a14299 =
 [
-    [ "npc_daphne_stilwellAI", "d1/dd3/a14303.html", "d1/dd3/a14303" ],
-    [ "npc_daphne_stilwell", "d8/d56/a14299.html#ad844c5f0409936d7068ee55271506041", null ],
-    [ "GetAI", "d8/d56/a14299.html#af1872100f3eeb14e894277cfc8e1a74b", null ],
-    [ "OnQuestAccept", "d8/d56/a14299.html#a421a7eb4c1391eb82f7874b081c66a36", null ]
+    [ "npc_lady_sylvanas_windrunnerAI", "d1/dd3/a14303.html", "d1/dd3/a14303" ],
+    [ "npc_lady_sylvanas_windrunner", "d8/d56/a14299.html#ab3da21f58b68003f50cf0c3d5ce22028", null ],
+    [ "GetAI", "d8/d56/a14299.html#abc382c04be0a8ed46299d1c4b2d008dc", null ],
+    [ "OnQuestReward", "d8/d56/a14299.html#aa3aedfe4c546842e64f5358a19614659", null ]
 ];

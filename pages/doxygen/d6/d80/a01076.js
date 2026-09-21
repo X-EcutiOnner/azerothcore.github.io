@@ -1,6 +1,6 @@
 var a01076 =
 [
-    [ "GetWeatherData", "d6/d80/a01076.html#gaeca3a72d5a44b5beb019b99cf0b30aff", null ],
-    [ "LoadWeatherData", "d6/d80/a01076.html#ga6c7d8a9fc5dfce0880220f4b5b8cd623", null ],
-    [ "_weatherData", "d6/d80/a01076.html#ab7d0026c60fbd90f9833172d25e7037f", null ]
+    [ "WorldPackets::Chat::Emote", "d5/d89/a11083.html", "d5/d89/a11083" ],
+    [ "WorldPackets::Chat::EmoteClient", "de/d87/a11087.html", "de/d87/a11087" ],
+    [ "WorldPackets::Chat::ChatServerMessage", "d1/db7/a11091.html", "d1/db7/a11091" ]
 ];

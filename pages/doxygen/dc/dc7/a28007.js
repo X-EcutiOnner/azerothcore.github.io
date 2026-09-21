@@ -1,6 +1,7 @@
 var a28007 =
 [
-    [ "HandleProc", "dc/dc7/a28007.html#a6b321d6ee3002f32b546aeaed0925183", null ],
-    [ "PrepareAuraScript", "dc/dc7/a28007.html#a4186315ab8fa250fd108c2de1c650f9e", null ],
-    [ "Register", "dc/dc7/a28007.html#a3817a49fbcac2d70ded5a39b3cce8ea7", null ]
+    [ "HandleDummy", "dc/dc7/a28007.html#a436ed0843e0035308c69f0854decd7f2", null ],
+    [ "PrepareSpellScript", "dc/dc7/a28007.html#a42ff645d6c8e94353ae118327af5f4e6", null ],
+    [ "Register", "dc/dc7/a28007.html#a0b69f667ea83dee61206bbc723020cbc", null ],
+    [ "Validate", "dc/dc7/a28007.html#a93e68d77227297883aae472ef08fb67c", null ]
 ];

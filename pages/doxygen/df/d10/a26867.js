@@ -1,7 +1,6 @@
 var a26867 =
 [
-    [ "HandleProc", "df/d10/a26867.html#a9601839ce1fff4e1be66f435a78693ac", null ],
-    [ "PrepareAuraScript", "df/d10/a26867.html#ae7b3804ed0fe40c85d245e2762fd8181", null ],
-    [ "Register", "df/d10/a26867.html#a588226cc60a7ff0f8a05e8ec34c855e5", null ],
-    [ "Validate", "df/d10/a26867.html#aea68ea2da0853d72d94a19b98db9375f", null ]
+    [ "CalculateAmount", "df/d10/a26867.html#a9c4a38bb60cc61156da5bd1b89b3e116", null ],
+    [ "PrepareAuraScript", "df/d10/a26867.html#a5bd55cb8b992f7ceb52f7193bcdbf210", null ],
+    [ "Register", "df/d10/a26867.html#a1f717d941f8d100eb73d7e2a3b638bad", null ]
 ];

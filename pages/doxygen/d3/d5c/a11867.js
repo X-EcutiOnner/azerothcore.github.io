@@ -1,6 +1,7 @@
 var a11867 =
 [
-    [ "ChannelTargetData", "d3/d5c/a11867.html#a551ade29c4e2e43ac938aeb3bf67e0ad", null ],
-    [ "channelGUID", "d3/d5c/a11867.html#afad1c896d6a137ebb224fd636ba4d7f2", null ],
-    [ "spellDst", "d3/d5c/a11867.html#aa5cfec093a599f4bf33ebf0c73a2f4ac", null ]
+    [ "IsValidOpcode", "d3/d5c/a11867.html#afdba55f89a1c7ffb9e7c302f2269687f", null ],
+    [ "IsValidSize", "d3/d5c/a11867.html#aec5192f7f57a16c9dfa244ff3874e693", null ],
+    [ "cmd", "d3/d5c/a11867.html#ad0a112cb2a8a71e6e8c20e320af63f49", null ],
+    [ "size", "d3/d5c/a11867.html#ac1d551036381db4f85b8dc92ea55d4ee", null ]
 ];

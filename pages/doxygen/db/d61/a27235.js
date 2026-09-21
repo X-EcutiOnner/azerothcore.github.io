@@ -1,7 +1,5 @@
 var a27235 =
 [
-    [ "HandleScriptEffect", "db/d61/a27235.html#ae7bfcdf3306fe4c8532649ff7e892c57", null ],
-    [ "PrepareSpellScript", "db/d61/a27235.html#ad2bfab00a973366af32388e40b9d2566", null ],
-    [ "Register", "db/d61/a27235.html#acbf74d85d9d8ce8e9ce0546c90cb7efa", null ],
-    [ "Validate", "db/d61/a27235.html#a487fa0e6b5f2682349b22737ceeae50c", null ]
+    [ "spell_q55_sacred_cleansing", "db/d61/a27235.html#a4aa8a16350a7a55706841471fd985ca2", null ],
+    [ "GetSpellScript", "db/d61/a27235.html#a50a8f2d777169aaeef88533b66b88fb2", null ]
 ];

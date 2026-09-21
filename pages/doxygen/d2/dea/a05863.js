@@ -1,8 +1,6 @@
 var a05863 =
 [
-    [ "result_type", "d2/dea/a05863.html#a20f96383bade76c6185d8f20f458784e", null ],
-    [ "Instance", "d2/dea/a05863.html#a5ff7fcb1f8d34861b0c210eddc450681", null ],
-    [ "max", "d2/dea/a05863.html#ad5dcf280f768ebd79210caf6ecff4290", null ],
-    [ "min", "d2/dea/a05863.html#ab153ffca65139db4084745302dd4db7f", null ],
-    [ "operator()", "d2/dea/a05863.html#afe5f6dd94cbc6add3fd13fa3fe37b60d", null ]
+    [ "operator()", "d2/dea/a05863.html#a0221f13bb39f5087bce33b6075edaf3b", null ],
+    [ "operator+=", "d2/dea/a05863.html#a685854261b2714cf924622e58a88e6b6", null ],
+    [ "functions", "d2/dea/a05863.html#aae8c666d695a517a3ad1e08afa8c355a", null ]
 ];

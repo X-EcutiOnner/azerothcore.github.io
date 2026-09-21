@@ -1,7 +1,8 @@
 var a08523 =
 [
-    [ "entry", "d1/d86/a08523.html#ad0d74d6216c9b6cb6fbeda55fb002072", null ],
-    [ "pos", "d1/d86/a08523.html#af264c1262d9fcd204a2a536847a613b1", null ],
-    [ "respawnTime", "d1/d86/a08523.html#abeadd86c92a8c301626dde6943da1b9b", null ],
-    [ "rot", "d1/d86/a08523.html#a776668c1b71e0cf9f3e0f0619498ae72", null ]
+    [ "bounding_radius", "d1/d86/a08523.html#a9f4a794b06bcbe31fc0a104cc97b91a4", null ],
+    [ "combat_reach", "d1/d86/a08523.html#ac271edb10093db19e4df1396053f820d", null ],
+    [ "gender", "d1/d86/a08523.html#aa5c8134851ff4f7ab6ad2af3b6e1dc1e", null ],
+    [ "is_trigger", "d1/d86/a08523.html#a52dbfa82e1525df681b87ab07ba8ead0", null ],
+    [ "modelid_other_gender", "d1/d86/a08523.html#a222b3c513a64b385954ea549e67f4255", null ]
 ];

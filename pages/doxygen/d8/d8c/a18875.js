@@ -1,9 +1,12 @@
 var a18875 =
 [
-    [ "DelayedCastEvent", "d8/d8c/a18875.html#a96b86f3f1ee23d6f25ec3c13f9a03235", null ],
-    [ "Execute", "d8/d8c/a18875.html#ae2925429b3049e44d2afd2e8b990af71", null ],
-    [ "_despawnTime", "d8/d8c/a18875.html#afcaeafb72df77c36b5496588c219fac4", null ],
-    [ "_originalCaster", "d8/d8c/a18875.html#adb07c24a947d59d2ef1f61b8ab18d328", null ],
-    [ "_spellId", "d8/d8c/a18875.html#abe28a6749101233302634ed226a289e8", null ],
-    [ "_trigger", "d8/d8c/a18875.html#a85471a151a3165cc906f3a41103c3f5d", null ]
+    [ "npc_strangulate_vehicleAI", "d8/d8c/a18875.html#a58e79834ed3f463ad51eca703d1c99ef", null ],
+    [ "DoAction", "d8/d8c/a18875.html#acf9d5a9e2f8b07f5ceb5ca75634e58fb", null ],
+    [ "IsHeroic", "d8/d8c/a18875.html#adb6ae2cefeec245196d21dc1112b2d5c", null ],
+    [ "IsSummonedBy", "d8/d8c/a18875.html#a381aec40cdcdf546d70b57a43978dbe9", null ],
+    [ "OnCharmed", "d8/d8c/a18875.html#a40e5537897c452d35093920ddd3669b0", null ],
+    [ "PassengerBoarded", "d8/d8c/a18875.html#a819746e13af95fa964c6da3d765a7c21", null ],
+    [ "UpdateAI", "d8/d8c/a18875.html#a53f567b77b7dfd0ccb5a0d98c0f5ef26", null ],
+    [ "_events", "d8/d8c/a18875.html#a19b493e994d246128f63d9109e87737a", null ],
+    [ "_instance", "d8/d8c/a18875.html#a7a16fbe4723a95293db01d3a2d80b569", null ]
 ];

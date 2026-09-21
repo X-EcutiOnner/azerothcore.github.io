@@ -1,5 +1,6 @@
 var a26287 =
 [
-    [ "PrepareSpellScript", "d6/d33/a26287.html#a5f3b3fb1c42f21d309923e12f1272408", null ],
-    [ "Register", "d6/d33/a26287.html#afc19789732c46589dca40d46cdb12d9e", null ]
+    [ "CheckCast", "d6/d33/a26287.html#a5e32bb12dd6a4feedf88b73e18dc57cc", null ],
+    [ "PrepareSpellScript", "d6/d33/a26287.html#ae6b0bc8d2a443b805b44f49d79ccc949", null ],
+    [ "Register", "d6/d33/a26287.html#a2ef6ded94a244c51ed71315b39e85636", null ]
 ];

@@ -1,9 +1,7 @@
 var a15671 =
 [
-    [ "boss_fankriss", "dd/d7d/a15671.html#ab6b0ee6c1605aaf148dddd6a6f4788b9", null ],
-    [ "JustEngagedWith", "dd/d7d/a15671.html#a9eaae719a271a95f64ac8076fe807c13", null ],
-    [ "Reset", "dd/d7d/a15671.html#af84010ee103eb81c1e269b03fc640f81", null ],
-    [ "SummonHatchlingWaves", "dd/d7d/a15671.html#a91420e51be346e1b9cfa4efbdec00d76", null ],
-    [ "SummonWorms", "dd/d7d/a15671.html#ada23537921c3a11195450db89eb8fcfe", null ],
-    [ "summonWormSpells", "dd/d7d/a15671.html#a4f9722f1c6aa27be798d4bacbdb5fac6", null ]
+    [ "npc_hivezara_stinger", "dd/d7d/a15671.html#ac9438c9dd260a41d6248f2adcc14b555", null ],
+    [ "JustEngagedWith", "dd/d7d/a15671.html#a433d31057f1732ef7ef15d2023e18b8a", null ],
+    [ "Reset", "dd/d7d/a15671.html#ae8e893c90942a469628c393d5b5380cc", null ],
+    [ "UpdateAI", "dd/d7d/a15671.html#a35a6511ebc0301ae0bb22aafc91c8524", null ]
 ];

@@ -1,9 +1,11 @@
 var a23979 =
 [
-    [ "instance_the_eye_InstanceMapScript", "d2/d86/a23979.html#a0c2b90c0f155e279aece7cd36d9de6d7", null ],
-    [ "GetGuidData", "d2/d86/a23979.html#a882432d126cc9e90322eaa16f5ef15c8", null ],
-    [ "OnGameObjectCreate", "d2/d86/a23979.html#a56c6933c2c231c228ca147107fbfc930", null ],
-    [ "BridgeWindowGUID", "d2/d86/a23979.html#a1fa987352d6c4c5f11d5415d4b886aaa", null ],
-    [ "KaelStateLeftGUID", "d2/d86/a23979.html#ab2ca710f119fbfc1a7b57a88462d145b", null ],
-    [ "KaelStateRightGUID", "d2/d86/a23979.html#a25ba703325800d2976eff860437f3d57", null ]
+    [ "boss_high_astromancer_solarian", "d2/d86/a23979.html#a2db48cc179539f81b55188de08a7e180", null ],
+    [ "AttackStart", "d2/d86/a23979.html#acaf94134aef553447e766a5e431c8b83", null ],
+    [ "JustDied", "d2/d86/a23979.html#a510eb2e4f0770670d6767bc2545375b7", null ],
+    [ "JustEngagedWith", "d2/d86/a23979.html#a86cd2162187f1a81932000ca1cfb7f85", null ],
+    [ "JustSummoned", "d2/d86/a23979.html#ac5b209a45a5a3ea2a8421706d181a827", null ],
+    [ "KilledUnit", "d2/d86/a23979.html#a561a78193615575b7e43e0f21387f1b8", null ],
+    [ "Reset", "d2/d86/a23979.html#a58cbb2c8a6c30855a0f9f2275338c1b5", null ],
+    [ "UpdateAI", "d2/d86/a23979.html#a07a76c34a978c31212390cf10ed3e382", null ]
 ];

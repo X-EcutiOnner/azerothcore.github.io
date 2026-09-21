@@ -1,6 +1,6 @@
 var a18375 =
 [
-    [ "ExtraEffect", "db/d68/a18375.html#a10dfb36a835589208482e1c8833d8f46", null ],
-    [ "PrepareSpellScript", "db/d68/a18375.html#a972ff2bdc7d3660820e05326600be6f6", null ],
-    [ "Register", "db/d68/a18375.html#ae337e67a220b72b44878d02be33e3888", null ]
+    [ "npc_putricide_mutated_abomination", "db/d68/a18375.html#ae8aa90f98296c10cbbb54570304892ca", null ],
+    [ "AttackStart", "db/d68/a18375.html#a4ab01c14094f37de91591ff3a81e5c23", null ],
+    [ "UpdateAI", "db/d68/a18375.html#a84e6eed6db698c6dfa0a2e73c30c1505", null ]
 ];

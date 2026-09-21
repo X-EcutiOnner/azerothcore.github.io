@@ -1,8 +1,6 @@
 var a21219 =
 [
-    [ "boss_keleseth", "da/dc7/a21219.html#ad2f0f020b0c92852dedadea5730e4e80", null ],
-    [ "AttackStart", "da/dc7/a21219.html#a731ebf8e9ff4f64582a8f9373ce08a39", null ],
-    [ "JustDied", "da/dc7/a21219.html#ad23ede5c869ab12dc1c2f6a783e9b539", null ],
-    [ "JustEngagedWith", "da/dc7/a21219.html#a8d5cba1dd481bdfaf93f6e2427880b2e", null ],
-    [ "KilledUnit", "da/dc7/a21219.html#a64d14f1b8f169128bbbc507730f4f1eb", null ]
+    [ "OnRemove", "da/dc7/a21219.html#a3cac25c6136b5dce491b24b7fb0ed33a", null ],
+    [ "PrepareAuraScript", "da/dc7/a21219.html#a2afc759693aa4dfbd0ac33b1b770e995", null ],
+    [ "Register", "da/dc7/a21219.html#a8fbcf904caf526f37d4a7984791d9fd0", null ]
 ];

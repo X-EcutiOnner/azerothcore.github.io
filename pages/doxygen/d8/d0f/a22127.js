@@ -1,16 +1,8 @@
 var a22127 =
 [
-    [ "npc_battle_at_valhalasAI", "d8/d0f/a22127.html#a2118bb3a502d2082297631e3dab298da", null ],
-    [ "EndBattle", "d8/d0f/a22127.html#afe408345e99bfc27e3abf3335c72de5d", null ],
-    [ "JustReachedHome", "d8/d0f/a22127.html#ac8f8ed2571587e8af65f92d0271d786c", null ],
-    [ "JustSummoned", "d8/d0f/a22127.html#ac2c766dd298bf074f20968006a361036", null ],
-    [ "PrepareSummons", "d8/d0f/a22127.html#a80e97ceef22290d241fa3f5894331c08", null ],
-    [ "Reset", "d8/d0f/a22127.html#a303f268cbcc0e2c731c505c721c55da6", null ],
-    [ "ResetData", "d8/d0f/a22127.html#a3bc670704f0e235ae4022ba796a333b9", null ],
-    [ "StartBattle", "d8/d0f/a22127.html#a01dff1aba876527951d3c83ae8b240ff", null ],
-    [ "UpdateAI", "d8/d0f/a22127.html#a3294ef4eb601df5156db0ba416d3aabe", null ],
-    [ "currentQuest", "d8/d0f/a22127.html#a7c8a2c0710f68d617bd7edd71632c744", null ],
-    [ "events", "d8/d0f/a22127.html#a74ac913100bb6ecd904f0b2f0e590271", null ],
-    [ "playerGUID", "d8/d0f/a22127.html#aac5d72cbc9f07d43dc6d9b722d0626b8", null ],
-    [ "summons", "d8/d0f/a22127.html#a3e894857fd5e3f4ccc5fc40c47a8cabe", null ]
+    [ "HandleEffectApply", "d8/d0f/a22127.html#a8ebf9488a7eed99c3651424754cc95c5", null ],
+    [ "HandleEffectPeriodic", "d8/d0f/a22127.html#a183976530ebf604656db12e41449427e", null ],
+    [ "PrepareAuraScript", "d8/d0f/a22127.html#a03faa2eda84ac74dcff9a7a6a4e57440", null ],
+    [ "Register", "d8/d0f/a22127.html#a76be53d506933d4b3c758578b7c33d5f", null ],
+    [ "_posZ", "d8/d0f/a22127.html#a488ded8ff40240fe8fbef1567eb091b9", null ]
 ];

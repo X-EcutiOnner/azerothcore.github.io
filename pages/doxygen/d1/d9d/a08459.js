@@ -1,8 +1,9 @@
 var a08459 =
 [
-    [ "bounding_radius", "d1/d9d/a08459.html#a9f4a794b06bcbe31fc0a104cc97b91a4", null ],
-    [ "combat_reach", "d1/d9d/a08459.html#ac271edb10093db19e4df1396053f820d", null ],
-    [ "gender", "d1/d9d/a08459.html#aa5c8134851ff4f7ab6ad2af3b6e1dc1e", null ],
-    [ "is_trigger", "d1/d9d/a08459.html#a52dbfa82e1525df681b87ab07ba8ead0", null ],
-    [ "modelid_other_gender", "d1/d9d/a08459.html#a222b3c513a64b385954ea549e67f4255", null ]
+    [ "LFGGroupScript", "d1/d9d/a08459.html#adb7730ba67910121a255a6da535d2fc2", null ],
+    [ "OnAddMember", "d1/d9d/a08459.html#a43c29f1c4b0f78b203a8798e34e9bc4c", null ],
+    [ "OnChangeLeader", "d1/d9d/a08459.html#a3616c537eb39fe130c8fb24d93a0ead9", null ],
+    [ "OnDisband", "d1/d9d/a08459.html#a7d8d28f1919e407ed93474d970733d86", null ],
+    [ "OnInviteMember", "d1/d9d/a08459.html#a25add922fa708babe08c3bdaaa0c0d92", null ],
+    [ "OnRemoveMember", "d1/d9d/a08459.html#a1385adec817221a83653a6fa03e57858", null ]
 ];

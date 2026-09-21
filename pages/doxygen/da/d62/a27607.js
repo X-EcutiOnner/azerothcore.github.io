@@ -1,7 +1,9 @@
 var a27607 =
 [
-    [ "AfterRemove", "da/d62/a27607.html#ad0bad4a07d5a65a7834e7ab46e082b20", null ],
-    [ "PrepareAuraScript", "da/d62/a27607.html#af338af238305f1872275e1e5e9fdee16", null ],
-    [ "Register", "da/d62/a27607.html#aa266e794be35b51a399b13ee2d06199d", null ],
-    [ "Validate", "da/d62/a27607.html#af58098eb7a904e20846cf728f5adc18b", null ]
+    [ "HandleHeal", "da/d62/a27607.html#ad2d854d275dc6f8b67b866d864b6febe", null ],
+    [ "Load", "da/d62/a27607.html#a507a7a4ff11f8bf1157e034d086cd9ad", null ],
+    [ "PrepareSpellScript", "da/d62/a27607.html#a91eb46af707897f228e5d1bbd199a833", null ],
+    [ "Register", "da/d62/a27607.html#ae28f1b0c23511153eafc037cae067bc0", null ],
+    [ "firstHeal", "da/d62/a27607.html#a405326e6e1cd82816aef1712fdf335a0", null ],
+    [ "riptide", "da/d62/a27607.html#acaec32f6730bc2e04e613aa982d285bf", null ]
 ];

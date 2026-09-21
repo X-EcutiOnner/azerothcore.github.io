@@ -1,6 +1,7 @@
 var a24315 =
 [
-    [ "npc_shadowmoon_tuber_nodeAI", "d7/d8a/a24319.html", "d7/d8a/a24319" ],
-    [ "npc_shadowmoon_tuber_node", "d4/d64/a24315.html#a98e8c7a84789457900fa342cca209d41", null ],
-    [ "GetAI", "d4/d64/a24315.html#a5f641af77e2fd78fe67b34fa18bf6b73", null ]
+    [ "HandleEffectApply", "d4/d64/a24315.html#a362b5b818ab0029956fd22bd10b4b9ac", null ],
+    [ "HandleEffectRemove", "d4/d64/a24315.html#a96769390468dc132df62b5a0ec3a2da4", null ],
+    [ "PrepareAuraScript", "d4/d64/a24315.html#a7bad0d577281829e60c0fb577d6a7d6e", null ],
+    [ "Register", "d4/d64/a24315.html#a95905ec163c42463314a5f5bb023b4d6", null ]
 ];

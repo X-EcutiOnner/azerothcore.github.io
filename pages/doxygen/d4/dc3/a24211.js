@@ -1,6 +1,10 @@
 var a24211 =
 [
-    [ "HandleEffectRemove", "d4/dc3/a24211.html#a2e73fd55dd7e6e658bc6c6623b650732", null ],
-    [ "PrepareAuraScript", "d4/dc3/a24211.html#a9aabae3a6c57be9b17394d4a39fe24ec", null ],
-    [ "Register", "d4/dc3/a24211.html#ac02217c103db141d75377e233e1e4242", null ]
+    [ "npc_wounded_blood_elfAI", "d4/dc3/a24211.html#a2dfcd5fa17b56c44f4056ecf4861af6e", null ],
+    [ "JustEngagedWith", "d4/dc3/a24211.html#aba950ba77ff71508263cc54b28c7725b", null ],
+    [ "JustSummoned", "d4/dc3/a24211.html#aa97f5294981c44b530efca1411458a97", null ],
+    [ "Reset", "d4/dc3/a24211.html#a8e6be35a3079998f3bab829f5d963c71", null ],
+    [ "sQuestAccept", "d4/dc3/a24211.html#a56c157928c24daae6edacd5a126ef171", null ],
+    [ "WaypointReached", "d4/dc3/a24211.html#a5affcb00e28a582f8926ab2226001cd0", null ],
+    [ "WaypointReached", "d4/dc3/a24211.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

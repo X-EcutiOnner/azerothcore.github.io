@@ -1,6 +1,6 @@
 var a18495 =
 [
-    [ "CheckProc", "d3/dd8/a18495.html#ad701d353f03eb5a1ccca28a6530555db", null ],
-    [ "PrepareAuraScript", "d3/dd8/a18495.html#a51794aa0a42180d9a0f4e9f6d5febca4", null ],
-    [ "Register", "d3/dd8/a18495.html#a4f787e29064c15f4dad9047ff618982a", null ]
+    [ "ExtraRemoveEffect", "d3/dd8/a18495.html#a49b1087d66606ddeebe6918ad05d4b37", null ],
+    [ "PrepareAuraScript", "d3/dd8/a18495.html#a41992ed6c23275d3a910915755b682f9", null ],
+    [ "Register", "d3/dd8/a18495.html#ab956cb95473cf0c5fc9fb2af14fc945e", null ]
 ];

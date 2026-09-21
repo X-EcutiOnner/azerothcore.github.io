@@ -1,8 +1,16 @@
 var a16823 =
 [
-    [ "npc_announcer_toc5AI", "d5/d11/a16827.html", "d5/d11/a16827" ],
-    [ "npc_announcer_toc5", "d9/d94/a16823.html#abf50bb7deb9e0bb04d9ac802aff5fa41", null ],
-    [ "GetAI", "d9/d94/a16823.html#a06767a8fd1e940d4efee6dd752520e9e", null ],
-    [ "OnGossipHello", "d9/d94/a16823.html#ad2cc55ddc6696b9bfb22e68eab965fb0", null ],
-    [ "OnGossipSelect", "d9/d94/a16823.html#a9017488c652fd75882db75914f4a2db2", null ]
+    [ "npc_argent_soldierAI", "d9/d94/a16823.html#abbfbb5a1e116c6deb3db23f12ff8994f", null ],
+    [ "DamageTaken", "d9/d94/a16823.html#afb48cc1c2e254c292c33eade74b6fad7", null ],
+    [ "JustDied", "d9/d94/a16823.html#aedf4dcd909c1009fedfde593522454ec", null ],
+    [ "JustEngagedWith", "d9/d94/a16823.html#a0aa59fdf0668d64f3b670c595579ba81", null ],
+    [ "Reset", "d9/d94/a16823.html#a1a0c00c09c348f746730c9743d4b7b6b", null ],
+    [ "SetData", "d9/d94/a16823.html#a20b62b48f5cf92106fcd1860d9e91956", null ],
+    [ "UpdateAI", "d9/d94/a16823.html#aed2921c1f6bc0507bf9e6f02f224ab44", null ],
+    [ "WaypointReached", "d9/d94/a16823.html#af70fb91477dbeaa7e6e409f3381f0770", null ],
+    [ "WaypointReached", "d9/d94/a16823.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "bCheck", "d9/d94/a16823.html#af570597c33add7ac5ebf3d01e8c9b2df", null ],
+    [ "events", "d9/d94/a16823.html#ac458fc9a331dc7edfdc764215b1926e8", null ],
+    [ "pInstance", "d9/d94/a16823.html#ac9951514f27f343ae96e856f484e7baf", null ],
+    [ "uiWaypoint", "d9/d94/a16823.html#a87382571221c608017fd2d4cb99193dc", null ]
 ];

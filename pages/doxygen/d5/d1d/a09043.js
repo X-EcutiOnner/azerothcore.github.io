@@ -1,10 +1,8 @@
 var a09043 =
 [
-    [ "PlayerSetting", "d5/d1d/a09043.html#a77d1fb11aa0039bbdae3ccc523f391ea", null ],
-    [ "PlayerSetting", "d5/d1d/a09043.html#a93a30a0d6104bdda8fd9b5778179a353", null ],
-    [ "AddFlag", "d5/d1d/a09043.html#a1e81343732cd86cdf9974a1d96b73ba7", null ],
-    [ "HasFlag", "d5/d1d/a09043.html#af6e3149ff40b6b4ea2310b5c3254fce0", null ],
-    [ "IsEnabled", "d5/d1d/a09043.html#a3621021d9c0c41c08b6300cd5dfcaf71", null ],
-    [ "RemoveFlag", "d5/d1d/a09043.html#a4ca3645233a466345d6be217d7a0df2b", null ],
-    [ "value", "d5/d1d/a09043.html#a74592e45f8ae4c5f411a982227f809f3", null ]
+    [ "BaseRune", "d5/d1d/a09043.html#ad5a4b3afd246f5a4c071e3c4f350f132", null ],
+    [ "ConvertAura", "d5/d1d/a09043.html#a41c55cb4c1b3f69c6a424359f60e34e1", null ],
+    [ "Cooldown", "d5/d1d/a09043.html#a8eeb0f5208c29d43ab493a22f73eb0a6", null ],
+    [ "CurrentRune", "d5/d1d/a09043.html#a2cebb551231f0364a1751e5d1a37fcda", null ],
+    [ "GracePeriod", "d5/d1d/a09043.html#a3fa13f205dbaaca5bdcc7406f73b4e6a", null ]
 ];

@@ -1,8 +1,9 @@
 var a24403 =
 [
-    [ "go_skull_pile", "d8/d16/a24403.html#a9cf8dfef432c4967c60f66e645585770", null ],
-    [ "OnGossipHello", "d8/d16/a24403.html#ac95d39ea03e78fee2a10603d8c7f8840", null ],
-    [ "OnGossipSelect", "d8/d16/a24403.html#afb8e8db2705355e975fa48c98e09f20b", null ],
-    [ "SendActionMenu", "d8/d16/a24403.html#a048dd224b46ead864958ad524d76167f", null ],
-    [ "_result", "d8/d16/a24403.html#af74fcd75404c0886128401d661067394", null ]
+    [ "npc_enraged_spiritAI", "d8/d16/a24403.html#aa487c906c1c0d15dc7761c7288e7d3c6", null ],
+    [ "JustDied", "d8/d16/a24403.html#a9322622f679dbc311bd8983f5037bd2e", null ],
+    [ "JustEngagedWith", "d8/d16/a24403.html#a1d192d0dd563dc2735b23a171b2bf659", null ],
+    [ "Reset", "d8/d16/a24403.html#a2d56572acf042ba34f468f0ff3b0bd1a", null ],
+    [ "UpdateAI", "d8/d16/a24403.html#adc3d04d66f2b4de7a970f2cd5e476a2b", null ],
+    [ "_scheduler", "d8/d16/a24403.html#afa6825696b0622849f877b392df4b326", null ]
 ];

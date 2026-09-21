@@ -1,6 +1,12 @@
 var a06555 =
 [
-    [ "PlayerAI", "dc/de9/a06555.html#a880c670caddc1f24e42f229457039c67", null ],
-    [ "OnCharmed", "dc/de9/a06555.html#adf7ab64ed2a81c932730e39d885e4c67", null ],
-    [ "me", "dc/de9/a06555.html#a70a995521c55fb3d73d14e6be883eccc", null ]
+    [ "NullCreatureAI", "dc/de9/a06555.html#aa9969eeb9a79559c9f2d3bd907b3fd85", null ],
+    [ "AttackStart", "dc/de9/a06555.html#a94d4594e1f39143ea41ce00aeecec4b4", null ],
+    [ "EnterEvadeMode", "dc/de9/a06555.html#a726edd296c16ed2414fcc1827f88238f", null ],
+    [ "JustEnteredCombat", "dc/de9/a06555.html#ac9ccd2d260170b218acf1997a0bded97", null ],
+    [ "JustStartedThreateningMe", "dc/de9/a06555.html#a191e098763d9b73db74f843aa77115e6", null ],
+    [ "MoveInLineOfSight", "dc/de9/a06555.html#a12c54c92a08e81751563ec9522236b28", null ],
+    [ "OnCharmed", "dc/de9/a06555.html#a77b274955dcfdf2d10bbc43b64330f8d", null ],
+    [ "Permissible", "dc/de9/a06555.html#a77595426da50819a0ff0744930d19b23", null ],
+    [ "UpdateAI", "dc/de9/a06555.html#ab200fcf78dee74a2ec808c01f5855236", null ]
 ];

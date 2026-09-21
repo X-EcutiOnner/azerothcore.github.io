@@ -1,8 +1,6 @@
 var a26123 =
 [
-    [ "HandleDummy", "df/d72/a26123.html#a3db6982f1162ac6b03771a0e7e432e6d", null ],
-    [ "Load", "df/d72/a26123.html#a9671be7920dfd3bde2033f0ae43259b0", null ],
-    [ "PrepareSpellScript", "df/d72/a26123.html#ad50c9141d40b7089fd24a8657d496a8d", null ],
-    [ "Register", "df/d72/a26123.html#a249a857b1cf5b0c3be6018cb233c75d1", null ],
-    [ "Validate", "df/d72/a26123.html#ac209048bd5688417c391c2c9b8a72d8b", null ]
+    [ "PartyTimeEmoteEvent", "df/d72/a26123.html#a525efd58fc8465658208058e6dc5d31c", null ],
+    [ "Execute", "df/d72/a26123.html#a65a796ff4efece46c519f7bdf1524bb8", null ],
+    [ "_player", "df/d72/a26123.html#a61ecb44828c6e4c868def8899791feb3", null ]
 ];

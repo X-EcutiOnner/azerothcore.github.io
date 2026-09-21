@@ -1,6 +1,6 @@
 var a13987 =
 [
-    [ "npc_balance_of_light_and_shadowAI", "de/def/a13991.html", "de/def/a13991" ],
-    [ "npc_balance_of_light_and_shadow", "d0/dae/a13987.html#a55229e3ea8dd9c52972185b36c08908b", null ],
-    [ "GetAI", "d0/dae/a13987.html#a07e0547e6bf81cc7ff9fe0aa4a851388", null ]
+    [ "instance_sunwell_plateau_InstanceMapScript", "d0/dae/a13987.html#aae99b35ff990fd7486d5b70693b6729a", null ],
+    [ "Load", "d0/dae/a13987.html#a5398f0aa153f7c4eaea390e33c400b02", null ],
+    [ "OnPlayerEnter", "d0/dae/a13987.html#ab45827eaa92aea4746378b3c11fda219", null ]
 ];

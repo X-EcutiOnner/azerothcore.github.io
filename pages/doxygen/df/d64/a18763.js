@@ -1,6 +1,7 @@
 var a18763 =
 [
-    [ "HandleScript", "df/d64/a18763.html#a9489c3454830d3826cb077c95947bf2d", null ],
-    [ "PrepareSpellScript", "df/d64/a18763.html#a19492e616ac6e69187bca4499175071e", null ],
-    [ "Register", "df/d64/a18763.html#a3446174d3308f535c27581b63ade9e8a", null ]
+    [ "OnPeriodic", "df/d64/a18763.html#accd12b06341f3168c74cb18926614f7f", null ],
+    [ "OnUpdate", "df/d64/a18763.html#abd725d08f2ef14cd375b6b94e9c1dcf0", null ],
+    [ "PrepareAuraScript", "df/d64/a18763.html#aa7dea3d079ae88aafd145ce949a6eb02", null ],
+    [ "Register", "df/d64/a18763.html#aa4a548a222dd79554e3e4e8f837c1d49", null ]
 ];

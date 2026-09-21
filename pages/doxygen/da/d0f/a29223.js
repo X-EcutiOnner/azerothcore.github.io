@@ -1,6 +1,6 @@
 var a29223 =
 [
-    [ "Id", "da/d0f/a29223.html#a9f283a7c8339cc5b4fa67f3974ce8621", null ],
-    [ "SpellId", "da/d0f/a29223.html#ae8c119bacf706916f331d3f316fb1347", null ],
-    [ "TypeFlags", "da/d0f/a29223.html#aae92871758e9a738a888cacf0946f16b", null ]
+    [ "ChannelID", "da/d0f/a29223.html#a51753c36711e100fd8dca1cd5b1e7e94", null ],
+    [ "flags", "da/d0f/a29223.html#aa77db644555e336ccbb8dd138c192425", null ],
+    [ "pattern", "da/d0f/a29223.html#ad8b550cf444d66eede00abcf2cefec22", null ]
 ];

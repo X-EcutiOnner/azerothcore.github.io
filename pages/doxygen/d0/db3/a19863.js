@@ -1,6 +1,7 @@
 var a19863 =
 [
-    [ "boss_varosAI", "da/d00/a19867.html", "da/d00/a19867" ],
-    [ "boss_varos", "d0/db3/a19863.html#a4fdb9de9ee7a3a50ac0972fd6eb8d39c", null ],
-    [ "GetAI", "d0/db3/a19863.html#a36733c4eb6179e43d61a1c37480666ea", null ]
+    [ "boss_commander_stoutbeard", "d0/db3/a19863.html#a9489874e93ea9f425ff4e3748ba10ded", null ],
+    [ "JustDied", "d0/db3/a19863.html#a2fd835408045715058ba476aa56cb4f7", null ],
+    [ "JustEngagedWith", "d0/db3/a19863.html#af960c10b2b98d43b4b1311a0a7616aa8", null ],
+    [ "KilledUnit", "d0/db3/a19863.html#acf7016c65f020dca9228bd2d2fd89299", null ]
 ];

@@ -1,16 +1,9 @@
 var a20847 =
 [
-    [ "boss_thorim_runic_colossus", "dd/dba/a20847.html#a3beda3351911803a0c0ea719256c4514", null ],
-    [ "JustDied", "dd/dba/a20847.html#a9682ccf2c6109888385fd621ecac16a4", null ],
-    [ "JustEngagedWith", "dd/dba/a20847.html#ad18388379fc026c1bf707eee8fae9826", null ],
-    [ "Reset", "dd/dba/a20847.html#a5a6d3e8c1e756fe9a982c6be215a0577", null ],
-    [ "RunRunicSmash", "dd/dba/a20847.html#a4b36e8e92cae14912354691f0dc09a64", null ],
-    [ "SpellHit", "dd/dba/a20847.html#a9787e064886ddee55bc2434c6d4f1927", null ],
-    [ "UpdateAI", "dd/dba/a20847.html#a470b0571db91075603504d91fb13721c", null ],
-    [ "_checkTarget", "dd/dba/a20847.html#a16c4b7194f1db8710732b35189823efe", null ],
-    [ "_leftHand", "dd/dba/a20847.html#a2d3c2799fcf9a2761c331109a713a4c6", null ],
-    [ "_nextTriggerPos", "dd/dba/a20847.html#a5f265413890df938e00dc08e0dee9829", null ],
-    [ "_triggerLeftGUID", "dd/dba/a20847.html#af1a54a839bcd3308edf1c7769274b889", null ],
-    [ "_triggerRightGUID", "dd/dba/a20847.html#a72196fe61ab799be949b7148a52933a9", null ],
-    [ "events", "dd/dba/a20847.html#a859e1d83f4002c8017d5d8f8fdf34a1e", null ]
+    [ "npc_razorscale_harpoon_fire_state", "dd/dba/a20847.html#a5bcb95382dc80bae1f4f05c306fb52bf", null ],
+    [ "DoAction", "dd/dba/a20847.html#aa7a12bae703c1a7d215dc0181f9ad532", null ],
+    [ "GetData", "dd/dba/a20847.html#ae552669fbd1a66a457cc30a2ed13c8fd", null ],
+    [ "Reset", "dd/dba/a20847.html#aad5f2d32fffaacec3485b0743f4267aa", null ],
+    [ "SpellHit", "dd/dba/a20847.html#a660573750d12c82394a9f911a3973e02", null ],
+    [ "_repairProgress", "dd/dba/a20847.html#af1c14d6762f9fc9f3a78f040a544bde4", null ]
 ];

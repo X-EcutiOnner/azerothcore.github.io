@@ -1,6 +1,8 @@
 var a28639 =
 [
-    [ "npc_pet_trainerAI", "d8/dea/a28643.html", "d8/dea/a28643" ],
-    [ "npc_pet_trainer", "d2/ddb/a28639.html#ac2279bce52e911b1c339da5e68aa2501", null ],
-    [ "GetAI", "d2/ddb/a28639.html#a4ecf9ac0abf43a00dc6bff2d2283eb37", null ]
+    [ "npc_training_dummy", "d2/ddb/a28639.html#a7cf3b633e444d67dfaea6308e3ed2dc1", null ],
+    [ "DamageTaken", "d2/ddb/a28639.html#accd7c39cd7b22b30e654288b034f1319", null ],
+    [ "JustEnteredCombat", "d2/ddb/a28639.html#a2dad51de23663e7b0bf6bcd2ce86a290", null ],
+    [ "UpdateAI", "d2/ddb/a28639.html#abd6941fcfd3bdff557b38017bc74e83c", null ],
+    [ "_combatTimer", "d2/ddb/a28639.html#a6e2ed26a35fecc3fe6e1957c3ed47124", null ]
 ];

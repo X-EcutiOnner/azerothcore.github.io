@@ -1,5 +1,7 @@
 var a24187 =
 [
-    [ "at_commander_dawnforge", "d2/ddb/a24187.html#a1dfd7eb69ae515a59887c313001e4a4e", null ],
-    [ "OnTrigger", "d2/ddb/a24187.html#a240a2a8a3de913c840c0a14fa4427e7e", null ]
+    [ "HandleDummy", "d2/ddb/a24187.html#a08f2f0aef00ce075572ff84643905a0a", null ],
+    [ "PrepareSpellScript", "d2/ddb/a24187.html#ac1aacfbd71224d80eaed0b9a76ff673f", null ],
+    [ "Register", "d2/ddb/a24187.html#a2046ac7f24989ff0bf50a3ee66dda104", null ],
+    [ "Validate", "d2/ddb/a24187.html#aded9f2e46cc3bf46f5699ce6fdf154ba", null ]
 ];

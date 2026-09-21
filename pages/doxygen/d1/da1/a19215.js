@@ -1,6 +1,5 @@
 var a19215 =
 [
-    [ "PrepareSpellScript", "d1/da1/a19215.html#aac12da39c503615036120e3e0cd55622", null ],
-    [ "Register", "d1/da1/a19215.html#a808d2283be9714c14f22a2df0a52dd61", null ],
-    [ "RelocateDest", "d1/da1/a19215.html#a843c9dc403404ddd2de667e57e01f00c", null ]
+    [ "npc_darkfallen_blood_knight", "d1/da1/a19215.html#ad5b43cff525dc18855a0b51a23fa6fd0", null ],
+    [ "ScheduleSpells", "d1/da1/a19215.html#ad275e8b9562587a61b8db4440eaf43b3", null ]
 ];

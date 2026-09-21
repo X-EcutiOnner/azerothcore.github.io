@@ -1,5 +1,5 @@
 var a02387 =
 [
-    [ "player_settings_commandscript", "d8/d93/a12621.html", "d8/d93/a12621" ],
-    [ "AddSC_player_settings_commandscript", "d8/deb/a02387.html#a366685affd5565d164c65f8cd4a20b61", null ]
+    [ "account_commandscript", "d1/d3b/a12463.html", "d1/d3b/a12463" ],
+    [ "AddSC_account_commandscript", "d8/deb/a02387.html#a8c18eb17be05fd3da5e9cfa3480c52c4", null ]
 ];

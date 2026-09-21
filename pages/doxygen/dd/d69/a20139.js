@@ -1,6 +1,6 @@
 var a20139 =
 [
-    [ "PrepareSpellScript", "dd/d69/a20139.html#af280f3880e2e567188ba8ca3e45c00c0", null ],
-    [ "RecalculateDamage", "dd/d69/a20139.html#a54c26d24f62c36108f9fceb7a0c53e37", null ],
-    [ "Register", "dd/d69/a20139.html#aac131aa2d2e5342cf0303b918a077b45", null ]
+    [ "HandleScript", "dd/d69/a20139.html#a992dbad02eab01824d870bdd3fca93d0", null ],
+    [ "PrepareSpellScript", "dd/d69/a20139.html#a0e6b4d1f59896a255929556baa943bdb", null ],
+    [ "Register", "dd/d69/a20139.html#a6bd2b3f20ee88fbba18ea6da6e8a23ab", null ]
 ];

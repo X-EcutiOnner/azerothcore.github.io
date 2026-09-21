@@ -1,11 +1,10 @@
 var a20831 =
 [
-    [ "boss_thorim_sif_blizzard", "d9/de0/a20831.html#a7d4054eb43079fe13e5a7a6c85b461ec", null ],
-    [ "AttackStart", "d9/de0/a20831.html#ab41c744d8573b1f8ce5e82e798c9bd4f", null ],
-    [ "InitWaypoint", "d9/de0/a20831.html#a55424c77633aaa62e12581a818736441", null ],
-    [ "JustEngagedWith", "d9/de0/a20831.html#a019b50cc265dff0e92417482b85ccf64", null ],
-    [ "MoveInLineOfSight", "d9/de0/a20831.html#a6e5333d6a87956d2052c2212a3dcb0fa", null ],
-    [ "Reset", "d9/de0/a20831.html#a347fcc28a0bc660b9fa93fe7fc54eea0", null ],
-    [ "WaypointReached", "d9/de0/a20831.html#af69dfd0ec232c7e45d13b117988ba924", null ],
-    [ "WaypointReached", "d9/de0/a20831.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "npc_expedition_defender", "d9/de0/a20831.html#aa476e8cdb18fce94b7517caf7ec751c8", null ],
+    [ "CanAIAttack", "d9/de0/a20831.html#aa223ec9592dcc5f8890cc7de0c8e4230", null ],
+    [ "DoAction", "d9/de0/a20831.html#adbd3f69f46e33537786505a0bb2955d5", null ],
+    [ "MovementInform", "d9/de0/a20831.html#acfa015071d54e353e4397c806fcab0a5", null ],
+    [ "Reset", "d9/de0/a20831.html#ae5da35cb689ada77a00d545e0f795af7", null ],
+    [ "SetData", "d9/de0/a20831.html#ab8d8681d244c13e51709c3ad446c8805", null ],
+    [ "_idx", "d9/de0/a20831.html#ae50289231fcaac124f78246774dda01e", null ]
 ];

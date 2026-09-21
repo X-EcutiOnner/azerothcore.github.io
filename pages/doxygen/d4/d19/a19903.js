@@ -1,7 +1,12 @@
 var a19903 =
 [
-    [ "Apply", "d4/d19/a19903.html#add8e95d38b0c437833c11cded72fe2a7", null ],
-    [ "PrepareAuraScript", "d4/d19/a19903.html#ad2112b571d97e537983b4d11207015e6", null ],
-    [ "Register", "d4/d19/a19903.html#accf85a0d8b2fad19bb0709013caa9f1b", null ],
-    [ "Validate", "d4/d19/a19903.html#a0b89b10ee22d02655ad08a348ab91ecd", null ]
+    [ "instance_nexus_InstanceMapScript", "d4/d19/a19903.html#a6803f233d730f33e5af7dc9d8ecd9775", null ],
+    [ "Initialize", "d4/d19/a19903.html#a2c6c42e73de2a155c04f80e37aa5d442", null ],
+    [ "KillAllFrayers", "d4/d19/a19903.html#a7c696467deba7a2f15d5175e3427bd20", null ],
+    [ "OnCreatureCreate", "d4/d19/a19903.html#a04806dc42aa0b171fa99eb1d8492ff61", null ],
+    [ "OnGameObjectCreate", "d4/d19/a19903.html#a85c3ac915970d68a192414ca4ff8ad1f", null ],
+    [ "OnGameObjectRemove", "d4/d19/a19903.html#ac148c67823484eee38ab6646dfb68530", null ],
+    [ "SetBossState", "d4/d19/a19903.html#a11ac1fbc7c699084e7da5e4bf0595651", null ],
+    [ "SetData", "d4/d19/a19903.html#a351052b1d3ea4ddb5d36ce69818c7e67", null ],
+    [ "_frayerGUIDs", "d4/d19/a19903.html#ab85b5379b6c177dc1d61ccd14106a325", null ]
 ];

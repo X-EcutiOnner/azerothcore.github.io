@@ -1,7 +1,6 @@
 var a22063 =
 [
-    [ "npc_rodin_lightning_enabler", "df/d8a/a22063.html#ae014b208af7664acd2147663d9338583", null ],
-    [ "Reset", "df/d8a/a22063.html#ac3ff539380f8fdd5827c6868815b39cc", null ],
-    [ "UpdateAI", "df/d8a/a22063.html#a5f900d97eec245bf3c27cde5c78b71e3", null ],
-    [ "_scheduler", "df/d8a/a22063.html#a06434f538bd89d429a329bbd24e5fcdf", null ]
+    [ "npc_mrfloppyAI", "d0/d61/a22067.html", "d0/d61/a22067" ],
+    [ "npc_mrfloppy", "df/d8a/a22063.html#a0515ca75aba9b7f6f5577b53e7520f6e", null ],
+    [ "GetAI", "df/d8a/a22063.html#a88590566309f3fc155eb6dc26055a161", null ]
 ];

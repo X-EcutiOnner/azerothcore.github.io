@@ -1,16 +1,16 @@
 var a04997 =
 [
-    [ "frand", "de/db1/a04997.html#a19bd31014583536af788a65b398e4406", null ],
-    [ "GetRng", "de/db1/a04997.html#a8602a67daa881e92c3eb9204c88b7733", null ],
-    [ "irand", "de/db1/a04997.html#a6ae07d2bb0593d8339e65c136f63ecc0", null ],
-    [ "rand32", "de/db1/a04997.html#ac699324b85bb2266ea8978796967c541", null ],
-    [ "rand_chance", "de/db1/a04997.html#a66621d09a8cc2aa9476391004fe2c427", null ],
-    [ "rand_norm", "de/db1/a04997.html#af2f9363ceebb6f78067b4a146d1de9df", null ],
-    [ "randtime", "de/db1/a04997.html#a9ecda65ea9686c86f47934d04d38ec69", null ],
-    [ "randtime", "de/db1/a04997.html#a7c8533961af63b720553e868fdaabd85", null ],
-    [ "urand", "de/db1/a04997.html#ab17def34ccbbd868dc87a16bf35acdbd", null ],
-    [ "urandms", "de/db1/a04997.html#af901d57f29ff48f701a375e44a0f1261", null ],
-    [ "urandweighted", "de/db1/a04997.html#a3f7e714c8fc3a6f6ccbe91d524a84f23", null ],
-    [ "engine", "de/db1/a04997.html#a8ab11e2fa939d9f333dfa1a858e7690b", null ],
-    [ "sfmtRand", "de/db1/a04997.html#a131ba7587aa544a7e73ff9884d6bc784", null ]
+    [ "RandomEngine", "d0/d49/a05895.html", "d0/d49/a05895" ],
+    [ "frand", "de/db1/a04997.html#aa28484fcb823a22578601847e4b0ddb4", null ],
+    [ "irand", "de/db1/a04997.html#a0a5e53ee066789ecb565abc05fe36dbc", null ],
+    [ "rand32", "de/db1/a04997.html#ab91ed86274e1e52eb314784862b61696", null ],
+    [ "rand_chance", "de/db1/a04997.html#a60564a0d93e0c87809379e0c1fa7acd1", null ],
+    [ "rand_norm", "de/db1/a04997.html#ad552d8147f66d6ec0cd44271e8799599", null ],
+    [ "randtime", "de/db1/a04997.html#a2fc61a89dc958460e6eabe08d87a4021", null ],
+    [ "randtime", "de/db1/a04997.html#ad7a1463dbba108f4bfc0d800fa6f99c1", null ],
+    [ "roll_chance_f", "de/db1/a04997.html#a4b15099bc81731469c5078a778673c94", null ],
+    [ "roll_chance_i", "de/db1/a04997.html#a50320d4edff86db31b25138ae72161ad", null ],
+    [ "urand", "de/db1/a04997.html#a3648faa6a1353eac6d2eec0b399c5aba", null ],
+    [ "urandms", "de/db1/a04997.html#a1a4ee564518371004a4d34135600bfa0", null ],
+    [ "urandweighted", "de/db1/a04997.html#a673de62907a2657190e58678691d3b36", null ]
 ];

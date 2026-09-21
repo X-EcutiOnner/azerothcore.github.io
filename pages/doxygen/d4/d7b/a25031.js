@@ -1,10 +1,10 @@
 var a25031 =
 [
-    [ "CalcAmount", "d4/d7b/a25031.html#a182d563b0527e35ea641116a6a808aa8", null ],
-    [ "CalcPeriodic", "d4/d7b/a25031.html#a542da5e81c75d56ad33152d54b5cac3a", null ],
-    [ "Load", "d4/d7b/a25031.html#a45b2d3dee0d5e514d2351c3f3679e3d3", null ],
-    [ "PrepareAuraScript", "d4/d7b/a25031.html#ac320eec2b8a3a7cc3820a49007710520", null ],
-    [ "Register", "d4/d7b/a25031.html#a37181afac00639716ae2ce10d82ecb23", null ],
-    [ "UpdatePeriodic", "d4/d7b/a25031.html#af4f971e2d5c2d2f4b1ced0e64e8c1871", null ],
-    [ "Validate", "d4/d7b/a25031.html#a3a6c68e8918612745cfb35df84bf7d14", null ]
+    [ "Load", "d4/d7b/a25031.html#a2c4e408e45995098b01a05815fffb34c", null ],
+    [ "OnApply", "d4/d7b/a25031.html#acae1047046bb8f555d1798ca024a2650", null ],
+    [ "OnRemove", "d4/d7b/a25031.html#aa01df2b86cf69508866f6e7d063c735a", null ],
+    [ "PrepareAuraScript", "d4/d7b/a25031.html#a18103f56fd6f90f8c3aa53ff53b82492", null ],
+    [ "Register", "d4/d7b/a25031.html#a02ef50b047ac0ac8932d37234ad4ae2f", null ],
+    [ "Validate", "d4/d7b/a25031.html#ac89215007d26494b6eaa690b23d6bbd8", null ],
+    [ "_casterGUID", "d4/d7b/a25031.html#a8047fb4309487c7a529047ec5148a2e3", null ]
 ];

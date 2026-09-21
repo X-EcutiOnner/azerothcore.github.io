@@ -1,6 +1,7 @@
 var a20871 =
 [
-    [ "OnPeriodic", "dd/dfb/a20871.html#a5247db3b621d1d499b9e22e16c7a951a", null ],
-    [ "PrepareAuraScript", "dd/dfb/a20871.html#a6aa46e818199da206e6543005a7fe87f", null ],
-    [ "Register", "dd/dfb/a20871.html#ab64dfdda3c09e65cfaeb90d20a5212ed", null ]
+    [ "go_razorscale_harpoonAI", "dd/dfb/a20871.html#afff12f330538843c477f75500f731ea3", null ],
+    [ "Reset", "dd/dfb/a20871.html#aae5f0f7ff2b206872c02bd7da90afdc0", null ],
+    [ "UpdateAI", "dd/dfb/a20871.html#a906b14e1bc6b71f95aa2fcde83846f0a", null ],
+    [ "_scheduler", "dd/dfb/a20871.html#a6f6e325b1b1599f90173e8c8a68c7956", null ]
 ];

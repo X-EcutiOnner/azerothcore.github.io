@@ -1,6 +1,5 @@
 var a11447 =
 [
-    [ "ComplainResult", "d9/d11/a11447.html#a9c0f7cf8600887fdbc5283fa23f77857", null ],
-    [ "Write", "d9/d11/a11447.html#a1b74c82acbfae8d62c7b1d6ef59caa1e", null ],
-    [ "Unk", "d9/d11/a11447.html#a88445c8e01e64f89176dd6c1ebb1a986", null ]
+    [ "LFGLeave", "d9/d11/a11447.html#aba31f53e0e13c13fd96f1b6ea1d42310", null ],
+    [ "Read", "d9/d11/a11447.html#abae9c55efce73edf5edf1940cb8b61eb", null ]
 ];

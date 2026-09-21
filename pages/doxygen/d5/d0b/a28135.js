@@ -1,5 +1,5 @@
 var a28135 =
 [
-    [ "AreaTrigger_at_sentry_point", "d5/d0b/a28135.html#a9c27f669aba3be1a83fdd1c99a8af4cf", null ],
-    [ "OnTrigger", "d5/d0b/a28135.html#ab59fb74f4f988c208359855d2e4d9918", null ]
+    [ "achievement_bg_ic_glaive_grave", "d5/d0b/a28135.html#a97e1cead0102a120b3bd14592ea26034", null ],
+    [ "OnCheck", "d5/d0b/a28135.html#a0eacab5595969cfe5e3d083c984dfd77", null ]
 ];

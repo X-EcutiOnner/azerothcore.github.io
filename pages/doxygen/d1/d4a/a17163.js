@@ -1,6 +1,6 @@
 var a17163 =
 [
-    [ "OnPeriodic", "d1/d4a/a17163.html#a6f2e191d76f894517aed395866b7e508", null ],
-    [ "PrepareAuraScript", "d1/d4a/a17163.html#a571ee1c735b6095408973bfe5f91bcf7", null ],
-    [ "Register", "d1/d4a/a17163.html#a6094dc303c034e49fb4e543874db080b", null ]
+    [ "boss_dreadscaleAI", "d4/de0/a17167.html", "d4/de0/a17167" ],
+    [ "boss_dreadscale", "d1/d4a/a17163.html#ab3276e515419303358b0ee59bc92c12e", null ],
+    [ "GetAI", "d1/d4a/a17163.html#ab8c8cebfa6843404338ea5bc3ac8f3f7", null ]
 ];

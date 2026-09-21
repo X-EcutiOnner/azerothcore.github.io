@@ -1,8 +1,9 @@
 var a24415 =
 [
-    [ "npc_pet_dk_ghoul", "d8/d81/a24415.html#aff3b8dc660a7e263c6e30960819b4ffa", null ],
-    [ "IsSummonedBy", "d8/d81/a24415.html#ae6ea5ad522229289a16d5be1e52181f6", null ],
-    [ "JustDied", "d8/d81/a24415.html#a6095e3619b470283b9875b90e2805b54", null ],
-    [ "UpdateAI", "d8/d81/a24415.html#a55ed58a264bd30cc4f891dc1e6d2fe03", null ],
-    [ "_summonTargetGUID", "d8/d81/a24415.html#aaca50b80273c75a48ee366fc07a3a3d0", null ]
+    [ "npc_korkron_or_wildhammer", "d8/d81/a24415.html#a3d2252865e0e540dd76aaf87ff62a83c", null ],
+    [ "IsSummonedBy", "d8/d81/a24415.html#aa63e935c2d64716f22f4e74e43e6b639", null ],
+    [ "JustDied", "d8/d81/a24415.html#a2b216f372b3681b4c96a711568c2a93b", null ],
+    [ "MovementInform", "d8/d81/a24415.html#a598dada110aff99a3c36f3037dcf8bf4", null ],
+    [ "Reset", "d8/d81/a24415.html#a67d5cf4a8418ab3f07a387f1021080df", null ],
+    [ "_playerGUID", "d8/d81/a24415.html#a5f1a79c10b5363ee24b3941c54ff10d7", null ]
 ];

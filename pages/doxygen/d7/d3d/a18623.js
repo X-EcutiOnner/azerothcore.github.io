@@ -1,7 +1,5 @@
 var a18623 =
 [
-    [ "TriggerWickedSpirit", "d7/d3d/a18623.html#ace62bc037a2bd8ca9c9c56202eb811e7", null ],
-    [ "Execute", "d7/d3d/a18623.html#a7c8f1b5c33fac4d6a7cd89e3e71aa36d", null ],
-    [ "_counter", "d7/d3d/a18623.html#a24b85a62208f881418f97b0a8cb10f27", null ],
-    [ "_owner", "d7/d3d/a18623.html#ab460675158bfedd7f17a4b8e1cc06b3c", null ]
+    [ "achievement_all_you_can_eat", "d7/d3d/a18623.html#a0995024862a445ea1f0ff5c82475fc64", null ],
+    [ "OnCheck", "d7/d3d/a18623.html#a0baa07a7cbd239e4a5fcfd3e687aedf6", null ]
 ];

@@ -1,6 +1,7 @@
 var a19495 =
 [
-    [ "npc_boss_gothik_minionAI", "dc/df1/a19499.html", "dc/df1/a19499" ],
-    [ "npc_boss_gothik_minion", "d8/dc6/a19495.html#a6cabeae812639ac179133245d85a0e15", null ],
-    [ "GetAI", "d8/dc6/a19495.html#a8abb1ec265f9eeb646a858bee06cfb92", null ]
+    [ "npc_ioc_gunship_captainAI", "d8/dc6/a19495.html#a23477a6f29b13308067c1f42ced1e9fe", null ],
+    [ "DoAction", "d8/dc6/a19495.html#a89fb251869d6bfbefbca1e2d3178178a", null ],
+    [ "UpdateAI", "d8/dc6/a19495.html#a222b304633143bba47d3edde67ea093b", null ],
+    [ "_events", "d8/dc6/a19495.html#aa8b7c262641a5f1f86c5ae39f8b62dca", null ]
 ];

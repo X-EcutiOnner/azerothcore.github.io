@@ -1,7 +1,7 @@
 var a13271 =
 [
-    [ "OnRemove", "da/d0f/a13271.html#a3fdb54a848aa81a7f4e8c2bd772ca3e5", null ],
-    [ "PrepareAuraScript", "da/d0f/a13271.html#a92a12c16381c433a946eeb1fed8ab7a9", null ],
-    [ "Register", "da/d0f/a13271.html#af26ef4eae84aa3982287fde0b4f65dcd", null ],
-    [ "Validate", "da/d0f/a13271.html#aeabc1d487afdb30b80d9a5235c306df1", null ]
+    [ "boss_maiden_of_virtue", "da/d0f/a13271.html#a4cd0c7a566e23e5c3a43466214f35dd3", null ],
+    [ "JustDied", "da/d0f/a13271.html#a6eded246318f6b47b46f45168e4a8069", null ],
+    [ "JustEngagedWith", "da/d0f/a13271.html#a6ff1b9e0a17218ad4871bc5fc3748671", null ],
+    [ "KilledUnit", "da/d0f/a13271.html#a32dd66a297d11f5ffac1841bae15727a", null ]
 ];

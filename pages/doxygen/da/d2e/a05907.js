@@ -1,5 +1,7 @@
 var a05907 =
 [
-    [ "FromString", "da/d2e/a05907.html#a6992aa92f56607d9546dae7ab5d1af74", null ],
-    [ "ToString", "da/d2e/a05907.html#abf8940ea78f2f947274a2653da04b0a3", null ]
+    [ "EnumText", "da/d2e/a05907.html#a8eaf5ce52dcc9fd44476f9add1140e0d", null ],
+    [ "Constant", "da/d2e/a05907.html#a020a7ebf3b1ee476d5f7ee605f43525d", null ],
+    [ "Description", "da/d2e/a05907.html#ab08504e4ec70c5495f5a45856f2e6976", null ],
+    [ "Title", "da/d2e/a05907.html#a7326575ea4083e28ac62556526a092a4", null ]
 ];

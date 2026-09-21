@@ -1,6 +1,7 @@
 var a22431 =
 [
-    [ "HandleEffectRemove", "d2/dac/a22431.html#a08c55501b95d4c92971fd5c95aaef1a7", null ],
-    [ "PrepareAuraScript", "d2/dac/a22431.html#aa0df1c7c112cf44fbe5a89894a1292b3", null ],
-    [ "Register", "d2/dac/a22431.html#a6f6ae6c012090337eb3f9ca4fd39749d", null ]
+    [ "HandleDummy", "d2/dac/a22431.html#a68c638c6e056cbadb101ddd025909f54", null ],
+    [ "PrepareSpellScript", "d2/dac/a22431.html#a5a857bace5232d259145a0a095f70eec", null ],
+    [ "Register", "d2/dac/a22431.html#af9c657e1fac6ee630af0bea337fbff62", null ],
+    [ "Validate", "d2/dac/a22431.html#a21e9eaf2eea4b46986b8e8b911bd0508", null ]
 ];

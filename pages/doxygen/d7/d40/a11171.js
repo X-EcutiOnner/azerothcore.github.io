@@ -1,7 +1,8 @@
 var a11171 =
 [
-    [ "GuildBankActivate", "d7/d40/a11171.html#a5b27541a26ada694d9635f6d6873ef20", null ],
-    [ "Read", "d7/d40/a11171.html#a8dbde75aaa3102024aa0ff3a8f3625da", null ],
-    [ "Banker", "d7/d40/a11171.html#a9b79075c6ee6a4f73ae18c6956eead7c", null ],
-    [ "FullUpdate", "d7/d40/a11171.html#a50b9a5333e2296e654c90fc6394bdbd3", null ]
+    [ "GuildEvent", "d7/d40/a11171.html#a78be16122c01d4c68d67e050ede92006", null ],
+    [ "Write", "d7/d40/a11171.html#a4ae1c0daaec964981ad982b97c1b0408", null ],
+    [ "Guid", "d7/d40/a11171.html#a35bcac3da7db22a22b4e8dba21ae1d0a", null ],
+    [ "Params", "d7/d40/a11171.html#a8f0faa70581ca04c26f87ebcd25cee80", null ],
+    [ "Type", "d7/d40/a11171.html#a961ae90991fa23bfc94a054dba357392", null ]
 ];

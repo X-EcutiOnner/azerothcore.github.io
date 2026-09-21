@@ -1,6 +1,7 @@
 var a20607 =
 [
-    [ "HandleInstaKill", "de/d12/a20607.html#a593786eb89bf77e05dad4b502ffc1925", null ],
-    [ "PrepareSpellScript", "de/d12/a20607.html#aa89401a4c6b1c85e4242bda45933b0ad", null ],
-    [ "Register", "de/d12/a20607.html#a46f2c2658e6b55f091bf8894f06a787c", null ]
+    [ "HandleEffectPeriodic", "de/d12/a20607.html#ae22cd3b6f7cf515e80dd1125349dd152", null ],
+    [ "PrepareAuraScript", "de/d12/a20607.html#a4cc9b379480c50e1116e3dab03afeaad", null ],
+    [ "Register", "de/d12/a20607.html#ac82d5a47f5eca266eed99ab65f9eb5bf", null ],
+    [ "Validate", "de/d12/a20607.html#a2bb4fe398e6b225dd14bdb51e3f01522", null ]
 ];

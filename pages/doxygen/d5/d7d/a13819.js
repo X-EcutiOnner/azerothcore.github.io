@@ -1,6 +1,8 @@
 var a13819 =
 [
-    [ "HandlePeriodic", "d5/d7d/a13819.html#aec1ff41f0051a6c6dfbd11ea7741b1af", null ],
-    [ "PrepareAuraScript", "d5/d7d/a13819.html#a7ac99d626990f068a00f403847bfa6bc", null ],
-    [ "Register", "d5/d7d/a13819.html#ad3c0a2c270d1b8c31761674f89500b8a", null ]
+    [ "npc_demonic_vapor", "d5/d7d/a13819.html#aee2e1b7372b8125b49e8466a2406ff00", null ],
+    [ "IsSummonedBy", "d5/d7d/a13819.html#ace56fe54dc6d3f597df0d1e28924082f", null ],
+    [ "Reset", "d5/d7d/a13819.html#a7d2b88ab26904cedaac34f03567806bc", null ],
+    [ "UpdateAI", "d5/d7d/a13819.html#a6637d2d5fc6615c2d76aa0d04c36a047", null ],
+    [ "_timer", "d5/d7d/a13819.html#ab067f5b9b9f37db4db9ab6e5295e5d52", null ]
 ];

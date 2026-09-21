@@ -1,7 +1,13 @@
 var a10003 =
 [
-    [ "AddonHandler", "d6/df5/a10003.html#a3e52b0fc5ca99a3f5d83ee6d34e16520", null ],
-    [ "~AddonHandler", "d6/df5/a10003.html#a8e4fc7c1cae505850a907e70a9febbf0", null ],
-    [ "BuildAddonPacket", "d6/df5/a10003.html#aca92dc80033c299daf8e3b42dd24ffea", null ],
-    [ "instance", "d6/df5/a10003.html#a2925b829b803dd07e96685086357ef85", null ]
+    [ "GroupReference", "d6/df5/a10003.html#ab1a008e85d413c67696d4d568a98bde7", null ],
+    [ "~GroupReference", "d6/df5/a10003.html#ab586405a850b0985e6b9f08cc6bdf32e", null ],
+    [ "getSubGroup", "d6/df5/a10003.html#a8217ca810bc251005dfe8a2e3b810e1e", null ],
+    [ "next", "d6/df5/a10003.html#a6f8f406f1209dd7060904d40f5424b41", null ],
+    [ "next", "d6/df5/a10003.html#ac913ec0703c28cda068375d01c9cd72d", null ],
+    [ "setSubGroup", "d6/df5/a10003.html#a303caf55ea463398237e6a825f30b143", null ],
+    [ "sourceObjectDestroyLink", "d6/df5/a10003.html#a458157654c27def9b36b68ae099ca7b3", null ],
+    [ "targetObjectBuildLink", "d6/df5/a10003.html#aa7c8acd113fefc7b6d2b9dff94bb047c", null ],
+    [ "targetObjectDestroyLink", "d6/df5/a10003.html#a4c15e8dbb9f990f9ab66c5e1466d0616", null ],
+    [ "iSubGroup", "d6/df5/a10003.html#a528073b16a119cfa81e6f37c6e72cc03", null ]
 ];

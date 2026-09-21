@@ -1,7 +1,5 @@
 var a23139 =
 [
-    [ "HandleEffectRemove", "d0/d7c/a23139.html#a070e0dacb457d7dc0bd61594f0ed6d83", null ],
-    [ "PrepareAuraScript", "d0/d7c/a23139.html#ac30073d35c40385a24b694012776391e", null ],
-    [ "Register", "d0/d7c/a23139.html#ae66eceece2812aee47acb386735f50a0", null ],
-    [ "Validate", "d0/d7c/a23139.html#af26c0361e6b7e480f59563d8630d6736", null ]
+    [ "npc_ashtongue_sorcerer", "d0/d7c/a23139.html#a0045af5cfbfcd2f26bcde2e2dffd04a6", null ],
+    [ "MovementInform", "d0/d7c/a23139.html#a56fa93f83e8a536b13667c8f780961b7", null ]
 ];

@@ -1,5 +1,13 @@
 var a20859 =
 [
-    [ "go_thorim_lever", "d2/d66/a20859.html#a7641a89c3c369d26753a6e97dd435802", null ],
-    [ "OnGossipHello", "d2/d66/a20859.html#aa48cd4d5728bd2d012a91f51299827a0", null ]
+    [ "npc_razorscale_dark_rune_guardian", "d2/d66/a20859.html#a539b905da508869adcc7bad601490c9f", null ],
+    [ "CanAIAttack", "d2/d66/a20859.html#a096058710ee0d02583c4402081da9f18", null ],
+    [ "GetData", "d2/d66/a20859.html#ac1bb7e2ac921fa542ec414a204117f98", null ],
+    [ "JustEngagedWith", "d2/d66/a20859.html#ac7fb0480f94e0e8ca0061947ec7fdebb", null ],
+    [ "Reset", "d2/d66/a20859.html#afd7fcb578ea65c7a060215257bcc5589", null ],
+    [ "SetData", "d2/d66/a20859.html#a7adbb5b9fa95e7ab73ac5acf81ffefdc", null ],
+    [ "UpdateAI", "d2/d66/a20859.html#ab4ab3b501994c55ce6c2a7b01b8ca70b", null ],
+    [ "_events", "d2/d66/a20859.html#a6faba05e56bdbd4453ee44f9de7dca2d", null ],
+    [ "_instance", "d2/d66/a20859.html#aa392619b8e14ec4092e78cfdfe367858", null ],
+    [ "_killed", "d2/d66/a20859.html#af9dafde2780d5be7a6e22025299dc013", null ]
 ];

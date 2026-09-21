@@ -1,10 +1,12 @@
 var a15535 =
 [
-    [ "boss_moam", "dc/d2d/a15535.html#a9a7a9f410efc5a05e46fd05f331e96c9", null ],
-    [ "InitializeAI", "dc/d2d/a15535.html#a2c8bde24fb3811e29c91a57258a243e5", null ],
-    [ "JustDied", "dc/d2d/a15535.html#a06b843bddd8f2759fa733c5169e0a5e6", null ],
-    [ "JustEngagedWith", "dc/d2d/a15535.html#ad33ba2f2cf9c83f37856aa6f2212637b", null ],
-    [ "Reset", "dc/d2d/a15535.html#a4112940fbe1f8be8e7adee7dbc48a9ae", null ],
-    [ "SummonedCreatureDies", "dc/d2d/a15535.html#a8401c5e2bd216deee197617b78d85222", null ],
-    [ "UpdateAI", "dc/d2d/a15535.html#aadd8320c6194923b113967d3d6c49a5e", null ]
+    [ "instance_razorfen_downs_InstanceMapScript", "dc/d2d/a15535.html#a04d36b66a5570d03bb95ef2225a5c902", null ],
+    [ "GetData", "dc/d2d/a15535.html#a3d1611870945cd0c8cd7d4e7728cfd84", null ],
+    [ "Initialize", "dc/d2d/a15535.html#aed9ab9542badb0296ca0660c39541cb8", null ],
+    [ "OnGameObjectCreate", "dc/d2d/a15535.html#a567ac5d9a17514ede5b84c5d78204072", null ],
+    [ "ReadSaveDataMore", "dc/d2d/a15535.html#a7d6fefed563b0b9763b9c63136c65952", null ],
+    [ "SetData", "dc/d2d/a15535.html#a1dfd39d65b16bb6e1373fe83ba4053c5", null ],
+    [ "WriteSaveDataMore", "dc/d2d/a15535.html#ae5cd5cf84e8db976f3006dc52bb5fab4", null ],
+    [ "_firesState", "dc/d2d/a15535.html#a74809429d3d2b1db5374dacf34d8a1b7", null ],
+    [ "_gongPhase", "dc/d2d/a15535.html#a23485a35f0aa2f2ffad53398882d163a", null ]
 ];

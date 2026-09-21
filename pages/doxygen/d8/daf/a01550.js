@@ -1,7 +1,12 @@
 var a01550 =
 [
-    [ "WhoListPlayerInfo", "d7/d2f/a07921.html", "d7/d2f/a07921" ],
-    [ "WhoListCacheMgr", "d0/dcc/a07925.html", "d0/dcc/a07925" ],
-    [ "sWhoListCacheMgr", "d8/daf/a01550.html#aae5ef4cf031d5523b7d5fda6d83af41a", null ],
-    [ "WhoListInfoVector", "d8/daf/a01550.html#a88bd249c0903724edb2c2d5416962534", null ]
+    [ "Elapsed", "d8/daf/a01550.html#af9a7dcb5dfa331445f56900767b13e8b", null ],
+    [ "GetGameTime", "d8/daf/a01550.html#adbe1785d1327dedf2ac403b7cc8e99c2", null ],
+    [ "GetGameTimeMS", "d8/daf/a01550.html#a6d0d49f37e25e497391157b2a2ec90c1", null ],
+    [ "GetStartTime", "d8/daf/a01550.html#a872d34d3f9d420cfc749073c809931f9", null ],
+    [ "GetSystemTime", "d8/daf/a01550.html#a443eccf314fe436192278d425d6d8220", null ],
+    [ "GetUptime", "d8/daf/a01550.html#ae2ff9233756dd88fa1aafcc1e1c0be4d", null ],
+    [ "HasElapsed", "d8/daf/a01550.html#a6acb8998bc9dae720531cb39082262f2", null ],
+    [ "Now", "d8/daf/a01550.html#ae5cc9f17fc6b8b15c678fa7a84a6e117", null ],
+    [ "UpdateGameTimers", "d8/daf/a01550.html#a45712735241c9563a12fc3da54fb144d", null ]
 ];

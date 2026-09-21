@@ -1,6 +1,6 @@
 var a21207 =
 [
-    [ "CheckRequirement", "d4/d4a/a21207.html#ad0a1865c8f534310ec2d4c8abc698761", null ],
-    [ "PrepareSpellScript", "d4/d4a/a21207.html#a06e1b98a589717bdef6444912a7ad602", null ],
-    [ "Register", "d4/d4a/a21207.html#a089a8055517acd9ddc31bf1bd16cbf17", null ]
+    [ "HandleScript", "d4/d4a/a21207.html#ac7fc87a7585c866aa3fa1001c803bb00", null ],
+    [ "PrepareSpellScript", "d4/d4a/a21207.html#ab2a4155f6029850c61e84d7c180addae", null ],
+    [ "Register", "d4/d4a/a21207.html#a7e03062d9e28ed1917b7aa63d65f22ba", null ]
 ];

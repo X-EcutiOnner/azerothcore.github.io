@@ -1,10 +1,7 @@
 var a25427 =
 [
-    [ "spell_gen_summon_elemental", "d7/da8/a25427.html#ae2dece3ac20afe16430e741fab909fa1", null ],
-    [ "AfterApply", "d7/da8/a25427.html#a97fbc7e3f60b6aae5d9783bbd9a2415d", null ],
-    [ "AfterRemove", "d7/da8/a25427.html#aeec3688e66a7e9f0207b219e9dcdb265", null ],
-    [ "PrepareAuraScript", "d7/da8/a25427.html#a3ad6e5615bb080abae4e18673cd40b6d", null ],
-    [ "Register", "d7/da8/a25427.html#ac364e1a3c4b5a1cfd35d8dcec0a42345", null ],
-    [ "Validate", "d7/da8/a25427.html#ac2284d4f192fe402ebcf6ad75e777c2a", null ],
-    [ "_spellId", "d7/da8/a25427.html#a6ac27b65f909a8c832cf3d301c8db0ce", null ]
+    [ "HandleDummy", "d7/da8/a25427.html#a582208e608c9fdca7464b817c76c13b3", null ],
+    [ "PrepareSpellScript", "d7/da8/a25427.html#ac7abb7e01362a3333c0d73cd19dcee30", null ],
+    [ "Register", "d7/da8/a25427.html#a3882606b9e9201163cf76cb20b8e6364", null ],
+    [ "Validate", "d7/da8/a25427.html#a12a1cb4b6131d5959f6f541da5e8fc00", null ]
 ];

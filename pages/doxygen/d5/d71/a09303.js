@@ -1,17 +1,18 @@
 var a09303 =
 [
-    [ "ActionMenuID", "d5/d71/a09303.html#a486f9af68a02ae52d51772a3421db377", null ],
-    [ "ActionPoiID", "d5/d71/a09303.html#a9a20a64e29d0464c40f57286b9c1804d", null ],
-    [ "BoxBroadcastTextID", "d5/d71/a09303.html#a12882942190a9a568b9dc30214ee6a88", null ],
-    [ "BoxCoded", "d5/d71/a09303.html#a4f7ba04e2d1078909d9587569504f4cd", null ],
-    [ "BoxMoney", "d5/d71/a09303.html#ab00c368181ccaba98e878d49de6138e2", null ],
-    [ "BoxText", "d5/d71/a09303.html#ad794b3c4e84dedce43ff2c80d3c38d4a", null ],
-    [ "Conditions", "d5/d71/a09303.html#aa1632404bbc869b17dab8833f660c52b", null ],
-    [ "MenuID", "d5/d71/a09303.html#a6e5b1b2c86bd05b81626a7230349be9a", null ],
-    [ "OptionBroadcastTextID", "d5/d71/a09303.html#af8af4b4c27405908482db73797cd2d49", null ],
-    [ "OptionIcon", "d5/d71/a09303.html#a0b73f7ce36e7703725e6b0d01c2a4564", null ],
-    [ "OptionID", "d5/d71/a09303.html#adf2a8d247a88a062a75eb726dd43d019", null ],
-    [ "OptionNpcFlag", "d5/d71/a09303.html#a6f41e9adfcb11adabdd79b55c1d47bfc", null ],
-    [ "OptionText", "d5/d71/a09303.html#a2606ac76a4f3607e45676ed3f1df3a83", null ],
-    [ "OptionType", "d5/d71/a09303.html#af53a42c8d4ec23be46dfdb16abc9c4ff", null ]
+    [ "GameEventData", "d5/d71/a09303.html#ab7963b01d9e138d79f06274ea57b9590", null ],
+    [ "isValid", "d5/d71/a09303.html#a7a91c9c9cc68593812b13f6efd2ea4ff", null ],
+    [ "Announce", "d5/d71/a09303.html#ae055378db69064ad4338ec2ddf6c7c75", null ],
+    [ "Conditions", "d5/d71/a09303.html#a0915a0321c4c26bfb61824587a309cde", null ],
+    [ "Description", "d5/d71/a09303.html#a5ab9afbc209e319839fd68de0cbc2207", null ],
+    [ "End", "d5/d71/a09303.html#a4bae1cf480ee64f190e2f09640e8a8cd", null ],
+    [ "EventId", "d5/d71/a09303.html#a6fe6513946fc98803fb816d2aabd8dcc", null ],
+    [ "HolidayId", "d5/d71/a09303.html#a9c9979bdece8534af216b693a2a58a80", null ],
+    [ "HolidayStage", "d5/d71/a09303.html#a44c52795eed59abdff72cdebdccc50ca", null ],
+    [ "Length", "d5/d71/a09303.html#a72bff4c3a62db350460993d804a461ea", null ],
+    [ "NextStart", "d5/d71/a09303.html#aafe5f4d5b9122f26442266c651ebd77e", null ],
+    [ "Occurence", "d5/d71/a09303.html#ab4e80a88f30560a3af0c6381e974687d", null ],
+    [ "PrerequisiteEvents", "d5/d71/a09303.html#aa4ecb9c9ce012aad0c1cb0d90a3eb4e0", null ],
+    [ "Start", "d5/d71/a09303.html#a3be91b7e00641ca6cb853104190845dc", null ],
+    [ "State", "d5/d71/a09303.html#a6288a7c28aba2927c3e91f5d2f517a60", null ]
 ];

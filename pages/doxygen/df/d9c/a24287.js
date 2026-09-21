@@ -1,6 +1,9 @@
 var a24287 =
 [
-    [ "npc_lord_illidan_stormrageAI", "d6/d33/a24291.html", "d6/d33/a24291" ],
-    [ "npc_lord_illidan_stormrage", "df/d9c/a24287.html#ad2f213749e170ec4f9903396d132f5f3", null ],
-    [ "GetAI", "df/d9c/a24287.html#a9aaedc4326b90621965dad522f4af897", null ]
+    [ "npc_bessyAI", "df/d9c/a24287.html#ad1300a563888b34689bedf97c387707c", null ],
+    [ "JustDied", "df/d9c/a24287.html#af98e9235b2432b619e4cc01c0c1111ef", null ],
+    [ "JustSummoned", "df/d9c/a24287.html#a4197fb122299fd152e5da335bb832ae5", null ],
+    [ "Reset", "df/d9c/a24287.html#aed64386629e52c3b65abadde54a63cc4", null ],
+    [ "WaypointReached", "df/d9c/a24287.html#a4611a8f41f66a1a846fb42ba1d4062c8", null ],
+    [ "WaypointReached", "df/d9c/a24287.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

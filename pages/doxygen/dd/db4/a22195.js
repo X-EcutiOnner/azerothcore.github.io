@@ -1,7 +1,13 @@
 var a22195 =
 [
-    [ "HandleScriptEffect", "dd/db4/a22195.html#ad20cf97a7dd442d5670a22095b487a01", null ],
-    [ "PrepareSpellScript", "dd/db4/a22195.html#ab0f6da0cb3115e54dbb59f0e6f823d02", null ],
-    [ "Register", "dd/db4/a22195.html#a996ea344ea2a3312cb8886565b80972d", null ],
-    [ "Validate", "dd/db4/a22195.html#a29bf5a9615e02281f426bf521a045567", null ]
+    [ "npc_sorlof", "dd/db4/a22195.html#afdac1cfc891e8cfda3506022e5f79204", null ],
+    [ "JustDied", "dd/db4/a22195.html#a53440692c7e64f03e601dc9ab65bc3cb", null ],
+    [ "MovementInform", "dd/db4/a22195.html#a0128234c450bcef8e3c9ebc6fee0c578", null ],
+    [ "MoveToNextNode", "dd/db4/a22195.html#a6a80487d0c5e55d9216efb63dbdd598e", null ],
+    [ "Reset", "dd/db4/a22195.html#a6b34547c0ae6b588a788e57353b933c8", null ],
+    [ "SetData", "dd/db4/a22195.html#a388be22752dc524735459e62a97fe510", null ],
+    [ "UpdateAI", "dd/db4/a22195.html#a1165631ba6c172930691766cfb73eda8", null ],
+    [ "_advancePath", "dd/db4/a22195.html#aa731d85060b9280ef172a2e15614aaf9", null ],
+    [ "_pathId", "dd/db4/a22195.html#ab3d9b633e7304d65fda49890b5c9672e", null ],
+    [ "_pathNode", "dd/db4/a22195.html#a33fa8fa6c768335887daaab226b8cff2", null ]
 ];

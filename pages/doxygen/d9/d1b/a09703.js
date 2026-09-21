@@ -1,8 +1,13 @@
 var a09703 =
 [
-    [ "PlayerWorker", "d9/d1b/a09703.html#ac7c16ec87b533b7b58b768cac116d7a2", null ],
-    [ "Visit", "d9/d1b/a09703.html#a018b799be67c284d6ed5c7a368ef1985", null ],
-    [ "Visit", "d9/d1b/a09703.html#a19c56b5bde9e57ea0152a89ac05e292b", null ],
-    [ "i_do", "d9/d1b/a09703.html#ae09b42f770e895b1c283ea7ca7527b7a", null ],
-    [ "i_phaseMask", "d9/d1b/a09703.html#aa23944bde7aa8e3a77f33b0a93f92c57", null ]
+    [ "WorldObjectWorker", "d9/d1b/a09703.html#a15dd68579f1a92f015cfac8577db7422", null ],
+    [ "Visit", "d9/d1b/a09703.html#ae264461e49602fd0b8a17e30ed554c64", null ],
+    [ "Visit", "d9/d1b/a09703.html#a3021825347d132f1368a77d29a8318df", null ],
+    [ "Visit", "d9/d1b/a09703.html#a7b7869c7d151e8abc924f517ecfdef82", null ],
+    [ "Visit", "d9/d1b/a09703.html#a7de6ea339a8113d242dd099ca4d36927", null ],
+    [ "Visit", "d9/d1b/a09703.html#a29196fa36ce32a0cec68d0d67372a400", null ],
+    [ "Visit", "d9/d1b/a09703.html#a17097541c49264c15ebfe474f54aeca2", null ],
+    [ "i_do", "d9/d1b/a09703.html#aa16ce8cce21d4590ef6612e14fb48919", null ],
+    [ "i_mapTypeMask", "d9/d1b/a09703.html#a6f8e447b9693154f56ce010869acadb9", null ],
+    [ "i_phaseMask", "d9/d1b/a09703.html#affa6245985c5d271900be12104ab6bb6", null ]
 ];

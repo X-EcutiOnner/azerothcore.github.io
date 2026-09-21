@@ -1,20 +1,13 @@
 var a29579 =
 [
-    [ "RealmMap", "dc/dde/a29579.html#a6031c19ec935fbe535f60a1014483dbd", null ],
-    [ "RealmList", "dc/dde/a29579.html#abe7dfad5160a08a5852cb1436a06eaa9", null ],
-    [ "~RealmList", "dc/dde/a29579.html#a64bea5f38384143cc960840a8e84ef00", null ],
-    [ "Close", "dc/dde/a29579.html#a14a4d9b5383da24bc1ad9754cdfa2183", null ],
-    [ "GetBuildInfo", "dc/dde/a29579.html#a0f7136cb280d2461b1ec0d080645c6e0", null ],
-    [ "GetRealm", "dc/dde/a29579.html#a3e25e63168bcff88d021294559ccf0c5", null ],
-    [ "GetRealms", "dc/dde/a29579.html#afc2cbe2a4ee4d9870821dbe8d96e8fa4", null ],
-    [ "Initialize", "dc/dde/a29579.html#a70954d518dc4559e0aca0388f13db411", null ],
-    [ "Instance", "dc/dde/a29579.html#aea053134fe293fbd4a8801b25fbb44ca", null ],
-    [ "LoadBuildInfo", "dc/dde/a29579.html#a1f8866e57557beb7d69037a63e34428d", null ],
-    [ "UpdateRealm", "dc/dde/a29579.html#ae15cf59b00e8e8e561f266d5dd3e11ae", null ],
-    [ "UpdateRealms", "dc/dde/a29579.html#a0b4559e5538a02ccf5247839005d602e", null ],
-    [ "_builds", "dc/dde/a29579.html#a7c38c3c8b4fe6554c66dbc5ada26a3e0", null ],
-    [ "_realms", "dc/dde/a29579.html#a41693a01cd88ea99b54dd9ca8fe6b445", null ],
-    [ "_resolver", "dc/dde/a29579.html#a1beee0fdd1a9e61f68db925f53d373a9", null ],
-    [ "_updateInterval", "dc/dde/a29579.html#ac07fe3cd4fc18169af4f63b207902e95", null ],
-    [ "_updateTimer", "dc/dde/a29579.html#a5619be8a2649680901cfd7a3608e984a", null ]
+    [ "actionFlag", "dc/dde/a29579.html#a6257ae486eff937cf12be64f0e850ca6", null ],
+    [ "arrivalEventID", "dc/dde/a29579.html#a1ffe17f529066091b18451a1121ce6ac", null ],
+    [ "delay", "dc/dde/a29579.html#aef005db912b0a57ecc5d62c66d838826", null ],
+    [ "departureEventID", "dc/dde/a29579.html#a670a033aaf0ff48676373baf9235d670", null ],
+    [ "index", "dc/dde/a29579.html#af9f8e03c2d9c1bdf266b3d62f1174224", null ],
+    [ "mapid", "dc/dde/a29579.html#aa2c6fb8a785e297c72384043698dd401", null ],
+    [ "path", "dc/dde/a29579.html#aa0692acbae0d4639c89ece77265d7858", null ],
+    [ "x", "dc/dde/a29579.html#a9acd2aad6b8820c04f6749bd2944b54f", null ],
+    [ "y", "dc/dde/a29579.html#a08778d3ef9a9a87fd731b54d5501daab", null ],
+    [ "z", "dc/dde/a29579.html#af48d85940d7f204091e8438427a72e2d", null ]
 ];

@@ -1,5 +1,7 @@
 var a29287 =
 [
-    [ "ID", "d5/dac/a29287.html#a65acb5af9a688346cbb7dc144710c768", null ],
-    [ "inventoryIcon", "d5/dac/a29287.html#a26b43ee179bd546c6e956dd797fc0842", null ]
+    [ "EmoteType", "d5/dac/a29287.html#a2d319652021081fdb02472c32a28e318", null ],
+    [ "Flags", "d5/dac/a29287.html#aa1794d3ffd7f7da82f5754e1be580fe9", null ],
+    [ "Id", "d5/dac/a29287.html#a3b3b641fbdb8dc88afc2421e358a75a1", null ],
+    [ "UnitStandState", "d5/dac/a29287.html#ada83e548faa01917a5db19eaa15dbbec", null ]
 ];

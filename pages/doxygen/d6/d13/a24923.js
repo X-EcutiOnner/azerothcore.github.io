@@ -1,6 +1,6 @@
 var a24923 =
 [
-    [ "HandleKnockBack", "d6/d13/a24923.html#ae50d143953074b83183482770046e131", null ],
-    [ "PrepareSpellScript", "d6/d13/a24923.html#a73666b297ef8bbfd490fee6075b06b3a", null ],
-    [ "Register", "d6/d13/a24923.html#a035df6b2e29aa0d2b5558e1cfef96ead", null ]
+    [ "CalculateAmount", "d6/d13/a24923.html#a8deb31d3b6244f4d8de6050c99b3192e", null ],
+    [ "PrepareAuraScript", "d6/d13/a24923.html#a4090baaee0e4330d3776b5774c5c923a", null ],
+    [ "Register", "d6/d13/a24923.html#a4db48f3a549a04caf746a9459b1c5640", null ]
 ];

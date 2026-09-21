@@ -1,13 +1,10 @@
 var a08559 =
 [
-    [ "GameObjectModelOwnerImpl", "dd/d1d/a08559.html#adb8b3b555ad6cd75c1ee7a1f71a08af7", null ],
-    [ "DebugVisualizeCorner", "dd/d1d/a08559.html#af8553967b9788d69da9fcb8cdb647f9c", null ],
-    [ "GetDisplayId", "dd/d1d/a08559.html#a4a694456955c19e76d8c84befc02c920", null ],
-    [ "GetOrientation", "dd/d1d/a08559.html#acb968e3bd921aac111a2e06f2604b040", null ],
-    [ "GetPhaseMask", "dd/d1d/a08559.html#ad0b9a01502c49f16a47e35694d3e6c10", null ],
-    [ "GetPosition", "dd/d1d/a08559.html#a9ba2b29d30b38895effe97637e050988", null ],
-    [ "GetScale", "dd/d1d/a08559.html#a3d72c1810a41e2baa7e87ab26f4674f9", null ],
-    [ "IsSpawned", "dd/d1d/a08559.html#ae47eb25d16de37122042402443db6f3d", null ],
-    [ "IsTransport", "dd/d1d/a08559.html#a1ca672aa490bd608de30bda7501fc03e", null ],
-    [ "_owner", "dd/d1d/a08559.html#a7909f7095341dde39bf47fc12a0c15b0", null ]
+    [ "BoxMessage", "dd/d1d/a08559.html#a450f6063a89db2d152370bc997c844a3", null ],
+    [ "BoxMoney", "dd/d1d/a08559.html#a52a12645b55f5757cc61e9a014a71f32", null ],
+    [ "IsCoded", "dd/d1d/a08559.html#accca334730f578bd28c0e9a7fe7ec0ab", null ],
+    [ "MenuItemIcon", "dd/d1d/a08559.html#a987724c4673be20f5386f44245267bc9", null ],
+    [ "Message", "dd/d1d/a08559.html#af130b33294cd49261b3c093cf6f9542c", null ],
+    [ "OptionType", "dd/d1d/a08559.html#a3df0c5fedb028b4fcce8ad5884cc0e6f", null ],
+    [ "Sender", "dd/d1d/a08559.html#aacc07cb5c755d698fe4cb2e228185e34", null ]
 ];

@@ -1,11 +1,10 @@
 var a24103 =
 [
-    [ "npc_aeranasAI", "d5/d35/a24103.html#a2142cebc84e64919fa5c2ef630453282", null ],
-    [ "JustReachedHome", "d5/d35/a24103.html#a0c48e1cebec95e6de0b7d02a22658c40", null ],
-    [ "Reset", "d5/d35/a24103.html#a2c1bbe079c065745782adfa13b030515", null ],
-    [ "UpdateAI", "d5/d35/a24103.html#ae192a3b38c0ec65cddfce3b95d15555a", null ],
-    [ "_defeated", "d5/d35/a24103.html#a2c604dfa9deaaff7b71116b5b54c8771", null ],
-    [ "envelopingWinds_Timer", "d5/d35/a24103.html#a566b5d648abe630efc191f9d6d4938a2", null ],
-    [ "faction_Timer", "d5/d35/a24103.html#aac071887c100f91cc7ffc545ea6439d9", null ],
-    [ "shock_Timer", "d5/d35/a24103.html#aba8ad016f0e470b07163fef07b603380", null ]
+    [ "npc_raging_flames", "d5/d35/a24103.html#aa2cc5c8af07c202a7f0fab1af259a0db", null ],
+    [ "EnterEvadeMode", "d5/d35/a24103.html#a24a878560153dcf9cf5282c6d0a8f7f0", null ],
+    [ "FixateRandomTarget", "d5/d35/a24103.html#a0e015aa73efdafb1bb9683b2f3c1ba34", null ],
+    [ "InitializeAI", "d5/d35/a24103.html#a96d3a8ef364dc6bc3f15ffc82b14c4c0", null ],
+    [ "IsSummonedBy", "d5/d35/a24103.html#ae42c4329be355807af92c1c803e61500", null ],
+    [ "Reset", "d5/d35/a24103.html#a34ac2249e507784d81c4040e87a646e0", null ],
+    [ "UpdateAI", "d5/d35/a24103.html#a3e4feafe10e59ad9cb1d2275dc7954b0", null ]
 ];

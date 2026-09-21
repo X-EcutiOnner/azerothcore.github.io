@@ -1,6 +1,6 @@
 var a22303 =
 [
-    [ "HandleScript", "d3/de0/a22303.html#acb343eafcfddf6fedcdef26c9b86e0ec", null ],
-    [ "PrepareSpellScript", "d3/de0/a22303.html#a5a4ce9453638d61fe52514240f0a9384", null ],
-    [ "Register", "d3/de0/a22303.html#a889f931aaa37d3a283f4d585b384a68e", null ]
+    [ "npc_tournament_training_dummyAI", "d6/d7c/a22307.html", "d6/d7c/a22307" ],
+    [ "npc_tournament_training_dummy", "d3/de0/a22303.html#ab5308cfddfef00da9692dddd21ce4a14", null ],
+    [ "GetAI", "d3/de0/a22303.html#a31257c155c3a49c69771156800cf6340", null ]
 ];

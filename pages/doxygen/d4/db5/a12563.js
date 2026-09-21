@@ -1,10 +1,11 @@
 var a12563 =
 [
-    [ "pool_commandscript", "d4/db5/a12563.html#a41308abbe25e1e50325923f62f2fa3af", null ],
-    [ "GetCommands", "d4/db5/a12563.html#a973b565473bd8f9ef5cfd61740d114b4", null ],
-    [ "GetPoolSpawns", "d4/db5/a12563.html#ac3fa702ac995b4a2767e5235747ae222", null ],
-    [ "HandlePoolInfoCommand", "d4/db5/a12563.html#aac45a4a6c51a92aa03acde1789e1a039", null ],
-    [ "HandlePoolLookupCommand", "d4/db5/a12563.html#a377a405a1dae394c6f17579c0f2751eb", null ],
-    [ "ListPoolMembers", "d4/db5/a12563.html#a63f8bf7dc197ed163cf87f9423c8f4d9", null ],
-    [ "StatusTag", "d4/db5/a12563.html#ad72421c1425d9a8cd4809b372d2c1e5b", null ]
+    [ "instance_commandscript", "d4/db5/a12563.html#a4d0b308b35a1aa21c66c8bd406ffa82f", null ],
+    [ "GetCommands", "d4/db5/a12563.html#a092d62969c835f6bf2a08ca3e05f04d5", null ],
+    [ "HandleInstanceGetBossStateCommand", "d4/db5/a12563.html#a0530ca6481073d6bafd11596546140b0", null ],
+    [ "HandleInstanceListBindsCommand", "d4/db5/a12563.html#abf42411f9c78ce59b21b34691e3d4233", null ],
+    [ "HandleInstanceSaveDataCommand", "d4/db5/a12563.html#a4b494a8b1de470612436fbb9fa433416", null ],
+    [ "HandleInstanceSetBossStateCommand", "d4/db5/a12563.html#aec65b5af811eae2cbcf17571e9d1473b", null ],
+    [ "HandleInstanceStatsCommand", "d4/db5/a12563.html#a9547a0a88a3bcd7407c449f3f2f25f44", null ],
+    [ "HandleInstanceUnbindCommand", "d4/db5/a12563.html#a7abbe257b10632f2acbdd838e1f073a9", null ]
 ];

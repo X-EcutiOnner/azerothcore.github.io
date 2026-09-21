@@ -1,7 +1,5 @@
 var a27627 =
 [
-    [ "HandleProc", "db/dcd/a27627.html#aeaeacf85b822cc7427234fe469aaff7f", null ],
-    [ "PrepareAuraScript", "db/dcd/a27627.html#ac9df7bea2f626b95291c18c740968da6", null ],
-    [ "Register", "db/dcd/a27627.html#a7152aa6ab02938d981ee83875e533b32", null ],
-    [ "Validate", "db/dcd/a27627.html#a0e488d9d96e37a20887f0befc1950dd5", null ]
+    [ "EarthenPowerTargetSelector", "db/dcd/a27627.html#a61290afcc621c73682160a4e6a6e0f5d", null ],
+    [ "operator()", "db/dcd/a27627.html#a9f3d7e7bdb3a3affa72da57903f28940", null ]
 ];

@@ -1,5 +1,5 @@
 var a22611 =
 [
-    [ "OutdoorPvP_nagrand", "db/dee/a22611.html#ac6e0f41eafb915604bd1b1d84e915f87", null ],
-    [ "GetOutdoorPvP", "db/dee/a22611.html#ae8ce0bf210e2be8229b9ac4d8615b058", null ]
+    [ "achievement_wg_within_our_grasp", "db/dee/a22611.html#a9edbd15bc6989c6948e21391a683d22d", null ],
+    [ "OnCheck", "db/dee/a22611.html#a10b659c4b52322536333e3d191796c27", null ]
 ];

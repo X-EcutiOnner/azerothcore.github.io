@@ -1,9 +1,11 @@
 var a20943 =
 [
-    [ "OnProc", "d3/d38/a20943.html#a94de5901e43000e99b478e9194d59ecd", null ],
-    [ "PrepareAuraScript", "d3/d38/a20943.html#a1b4efd5e774d4bd561a30830c3be8045", null ],
-    [ "Register", "d3/d38/a20943.html#acc8a07807e5c306af285cb5889ef2c41", null ],
-    [ "Validate", "d3/d38/a20943.html#ad17cfc0369da547475e43bd2970cf3f2", null ],
-    [ "_lastOrbTime", "d3/d38/a20943.html#a4522510d836abf625b019674c1c5281f", null ],
-    [ "OrbCooldown", "d3/d38/a20943.html#a4a0204623a0db8d1474d0e72e71226eb", null ]
+    [ "boss_thorim_ancient_rune_giant", "d3/d38/a20943.html#a0af1f7772d93899651d93fdc4a690b7d", null ],
+    [ "DoAction", "d3/d38/a20943.html#a615eb1cf45c8e09af0f9a248f1c6bbe8", null ],
+    [ "JustDied", "d3/d38/a20943.html#a64b0ab5d6e3a51a926eaef236754b7bf", null ],
+    [ "JustEngagedWith", "d3/d38/a20943.html#a98fa309963245a0c57676ff019085fac", null ],
+    [ "Reset", "d3/d38/a20943.html#a66c30135e900b4b9e6d43d08e5e14f24", null ],
+    [ "UpdateAI", "d3/d38/a20943.html#a903d7448d9441866475d77fce8ca6d37", null ],
+    [ "_isInCombat", "d3/d38/a20943.html#a148ff1fa8010466de069032f660cd08e", null ],
+    [ "events", "d3/d38/a20943.html#adb60fcfd3cde775f06e883d2e62b5ba1", null ]
 ];

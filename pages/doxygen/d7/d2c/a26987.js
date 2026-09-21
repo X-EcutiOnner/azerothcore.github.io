@@ -1,7 +1,7 @@
 var a26987 =
 [
-    [ "HandleApplyEffect", "d7/d2c/a26987.html#af95120b26a165196e0310956c245f36f", null ],
-    [ "HandleRemoveEffect", "d7/d2c/a26987.html#a59e7d23c969b03aa75ef1da3bf42f6e9", null ],
-    [ "PrepareAuraScript", "d7/d2c/a26987.html#ae19e002407db1466f0655db3d14fe0d7", null ],
-    [ "Register", "d7/d2c/a26987.html#ae776a5e913fcf1553b7e2a00374a1ee6", null ]
+    [ "CheckAreaTarget", "d7/d2c/a26987.html#a3c2dc43efc37be1b34cba266a478f46e", null ],
+    [ "PrepareAuraScript", "d7/d2c/a26987.html#a88c7c19e87106e1bbf6cc5a24a3bc2e4", null ],
+    [ "Register", "d7/d2c/a26987.html#a9cbc5794b1ed54fe9313cd161ec5b19f", null ],
+    [ "Validate", "d7/d2c/a26987.html#ab18a951259cc74b0ba8319f757e38eca", null ]
 ];

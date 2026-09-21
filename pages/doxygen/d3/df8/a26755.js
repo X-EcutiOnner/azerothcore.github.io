@@ -1,6 +1,9 @@
 var a26755 =
 [
-    [ "HandleEffectCalcSpellMod", "d3/df8/a26755.html#a81395c735b9546632af71319067b575b", null ],
-    [ "PrepareAuraScript", "d3/df8/a26755.html#ad5a716f0644b1707aa6d179d564ceb80", null ],
-    [ "Register", "d3/df8/a26755.html#ae49a0ec525819981595c12839133a35b", null ]
+    [ "AllowT10Proc", "d3/df8/a26755.html#a0d058542d9175f0ad2a3110f05e4f7c4", null ],
+    [ "OnRemove", "d3/df8/a26755.html#a52807f94eba44a9b574577a0b27acb22", null ],
+    [ "PrepareAuraScript", "d3/df8/a26755.html#a430303b7df445d38da9316324359c2d6", null ],
+    [ "Register", "d3/df8/a26755.html#aa2f2d9175c4429f5743ad6cc54b1634a", null ],
+    [ "Validate", "d3/df8/a26755.html#aabfc9dd5bd171c0b4d2166c8d671e6cf", null ],
+    [ "_canProcT10", "d3/df8/a26755.html#a26d723ef58e5df2852ce0ef20e1c1bdf", null ]
 ];

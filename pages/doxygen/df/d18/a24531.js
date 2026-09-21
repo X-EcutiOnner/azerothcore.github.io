@@ -1,6 +1,6 @@
 var a24531 =
 [
-    [ "FilterTargets", "df/d18/a24531.html#adab73c94c659d7421c9c6887d956cd83", null ],
-    [ "PrepareSpellScript", "df/d18/a24531.html#a8cf5e4224f46b6f836d517f90fd135d4", null ],
-    [ "Register", "df/d18/a24531.html#a3aaf93f3746b36d5bfa4fc475aabe43b", null ]
+    [ "achievement", "df/d18/a24531.html#abb6071e172abbcbc65020a0ad9554a03", null ],
+    [ "spell", "df/d18/a24531.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
+    [ "text", "df/d18/a24531.html#ab8c1bedac4bccf5c47eda591c9e5e9d1", null ]
 ];

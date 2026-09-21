@@ -1,5 +1,6 @@
 var a11119 =
 [
-    [ "GuildPermissionsQuery", "df/d51/a11119.html#a6ab30e173d26362db0065f4f9f8fa5f8", null ],
-    [ "Read", "df/d51/a11119.html#aec20af8c3c8236627353287fe2eaa0a7", null ]
+    [ "GuildCreate", "df/d51/a11119.html#a4dd11d2c4d009b1e495f792f4842d598", null ],
+    [ "Read", "df/d51/a11119.html#a7d4573196f53d1f068c43b4e7e466fce", null ],
+    [ "GuildName", "df/d51/a11119.html#a95a0859dd32b6eaf31ea53311ffaa293", null ]
 ];

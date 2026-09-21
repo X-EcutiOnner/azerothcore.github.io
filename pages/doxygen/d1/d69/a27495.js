@@ -1,6 +1,6 @@
 var a27495 =
 [
-    [ "HandlePeriodic", "d1/d69/a27495.html#af875d62dd47650c9f2e9c3a4508ed05b", null ],
-    [ "PrepareAuraScript", "d1/d69/a27495.html#a2efdcd0902e9cb5c47e285492dd93789", null ],
-    [ "Register", "d1/d69/a27495.html#ac90afe9f5d9d55faba2282a875469311", null ]
+    [ "DoAfterHit", "d1/d69/a27495.html#a38ede5147a11c41770c4483a70d81e5d", null ],
+    [ "PrepareSpellScript", "d1/d69/a27495.html#abcc738fc154e6be5de168fb23be806f4", null ],
+    [ "Register", "d1/d69/a27495.html#ac81d60d54a87a23bd9481934f5753de0", null ]
 ];

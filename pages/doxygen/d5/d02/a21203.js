@@ -1,5 +1,6 @@
 var a21203 =
 [
-    [ "npc_salvaged_siege_engine", "d5/d02/a21203.html#aa8cde891a19ebb1e53be2a81a2432442", null ],
-    [ "BeforeSpellClick", "d5/d02/a21203.html#aed2500b2315b5e508ea3d06a2355d023", null ]
+    [ "CheckCast", "d5/d02/a21203.html#a715a58956db4253c8adfed039833debd", null ],
+    [ "PrepareSpellScript", "d5/d02/a21203.html#a3b03178d8ab54db36a19ba5a27444917", null ],
+    [ "Register", "d5/d02/a21203.html#a6309c53b9e3828e76d34a77a8fe35df1", null ]
 ];

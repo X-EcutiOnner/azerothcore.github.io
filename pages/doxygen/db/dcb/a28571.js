@@ -1,8 +1,10 @@
 var a28571 =
 [
-    [ "npc_chicken_cluckAI", "d4/d8a/a28575.html", "d4/d8a/a28575" ],
-    [ "npc_chicken_cluck", "db/dcb/a28571.html#a7bc08c81fca730886c47e0f3a3d8062c", null ],
-    [ "GetAI", "db/dcb/a28571.html#abf986f555672823477c3c17e0f59bdbe", null ],
-    [ "OnQuestAccept", "db/dcb/a28571.html#acca62c027b5b0cdff107e04cf2c276ea", null ],
-    [ "OnQuestComplete", "db/dcb/a28571.html#a8f22520166a557e066502eb16bdae774", null ]
+    [ "go_evil_book_for_dummies", "db/dcb/a28571.html#a69f599910bce0070c6b1af547c459b72", null ],
+    [ "HasLeatherSpecialty", "db/dcb/a28571.html#a3d755fa8777f33a318ffa6f004aecbed", null ],
+    [ "OnGossipHello", "db/dcb/a28571.html#aeb29351e2faf135298419488eb16cc7e", null ],
+    [ "OnGossipSelect", "db/dcb/a28571.html#ac4bc1c682b75c436a4d3fff118a20ca4", null ],
+    [ "SendActionMenu", "db/dcb/a28571.html#a0aa21b4619ea5cc8229eb56e09d3233d", null ],
+    [ "SendConfirmLearn", "db/dcb/a28571.html#a11a605c576a3c81b5ed96d413ec20f57", null ],
+    [ "SendConfirmUnlearn", "db/dcb/a28571.html#af9c10b0423327d8644020e8f5e26a603", null ]
 ];

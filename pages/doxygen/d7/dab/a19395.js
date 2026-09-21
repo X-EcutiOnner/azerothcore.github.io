@@ -1,6 +1,6 @@
 var a19395 =
 [
-    [ "npc_isle_of_conquest_turretAI", "d6/d1e/a19399.html", "d6/d1e/a19399" ],
-    [ "npc_isle_of_conquest_turret", "d7/dab/a19395.html#ac080845203adef25e6841133b7e2f4dc", null ],
-    [ "GetAI", "d7/dab/a19395.html#a0f532e12439e900b3cb77619f1ecd17d", null ]
+    [ "npc_icc_vengeful_fleshreaperAI", "d6/d1e/a19399.html", "d6/d1e/a19399" ],
+    [ "npc_icc_vengeful_fleshreaper", "d7/dab/a19395.html#aa95ec1e021f3d123e5a95c356765ac36", null ],
+    [ "GetAI", "d7/dab/a19395.html#abf1903616dbf52718313c8b404b504a5", null ]
 ];

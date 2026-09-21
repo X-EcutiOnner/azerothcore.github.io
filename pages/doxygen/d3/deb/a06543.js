@@ -1,10 +1,8 @@
 var a06543 =
 [
-    [ "PowerUsersSelector", "d3/deb/a06543.html#aa13229f12601a551a34628b92c0eddf3", null ],
-    [ "operator()", "d3/deb/a06543.html#ac93e678f198787fd6691e0bb8d63d6e3", null ],
-    [ "_dist", "d3/deb/a06543.html#a1c63646bffb486c51ca07e0f8a70dd59", null ],
-    [ "_me", "d3/deb/a06543.html#a7f6dda10c26982d9633fae57b64af7ef", null ],
-    [ "_playerOnly", "d3/deb/a06543.html#aea809984a6dd46c22f414e44c9794309", null ],
-    [ "_power", "d3/deb/a06543.html#a9a518903606768e505e7230fe9344bbf", null ],
-    [ "_withTank", "d3/deb/a06543.html#a0b682b6d926ced8eecff642a4bb51756", null ]
+    [ "GuardAI", "d3/deb/a06543.html#ac1f0ba47d8e32c65845808170330b7af", null ],
+    [ "EnterEvadeMode", "d3/deb/a06543.html#af021cc31298d4a0f38a7d82ac8e02e30", null ],
+    [ "JustDied", "d3/deb/a06543.html#a96820cdcb632d3a71f9deacf4998a774", null ],
+    [ "Permissible", "d3/deb/a06543.html#a238f38bd3fc7cfa8ace3549f4a6199fb", null ],
+    [ "Reset", "d3/deb/a06543.html#a91b12b6a50641d17a79550b9ffb5284a", null ]
 ];

@@ -1,7 +1,8 @@
 var a10127 =
 [
-    [ "QuestItem", "d0/db5/a10127.html#a1d6e1d5de83a397b17115dbeba2a58b3", null ],
-    [ "QuestItem", "d0/db5/a10127.html#a51b978ee64ec979ebe097f3b3f4c3cd0", null ],
-    [ "index", "d0/db5/a10127.html#a0e48289882a1eabb6c8ff30032193bd2", null ],
-    [ "is_looted", "d0/db5/a10127.html#a48f2baabd2d5a07313dc38a27c6f4713", null ]
+    [ "InstResetEvent", "d0/db5/a10127.html#aefa8f2b1b2cf29ad3472712278741fa4", null ],
+    [ "InstResetEvent", "d0/db5/a10127.html#af6f80b924e52cd5296d21f4a5d1374c2", null ],
+    [ "difficulty", "d0/db5/a10127.html#a67afe513dd42370ac4bb385a7128a324", null ],
+    [ "mapid", "d0/db5/a10127.html#ad02e00b2782304fbd75973fe58eefd33", null ],
+    [ "type", "d0/db5/a10127.html#ad211513c7ed39269d464190398dabaed", null ]
 ];

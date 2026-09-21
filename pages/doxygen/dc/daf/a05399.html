@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: VMAP::ModelSpawn Class Reference</title>
+<title>AzerothCore: VMAP::ModelPosition Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,61 +106,45 @@ $(document).ready(function(){initNavTree('dc/daf/a05399.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
 <a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../db/d21/a05396.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">VMAP::ModelSpawn Class Reference</div></div>
+  <div class="headertitle"><div class="title">VMAP::ModelPosition Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">ModelInstance.h</a>&quot;</code></p>
-<div class="dynheader">
-Inheritance diagram for VMAP::ModelSpawn:</div>
-<div class="dyncontent">
- <div class="center">
-  <img src="../../dc/daf/a05399.png" usemap="#VMAP::ModelSpawn_map" alt=""/>
-  <map id="VMAP::ModelSpawn_map" name="VMAP::ModelSpawn_map">
-<area href="../../d1/d5e/a05403.html" alt="VMAP::ModelInstance" shape="rect" coords="0,56,137,80"/>
-  </map>
-</div></div>
+<p><code>#include &quot;<a class="el" href="../../">TileAssembler.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:aa32a53f51fd441bb19c4e3f6a269f33e"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/daf/a05399.html#aa32a53f51fd441bb19c4e3f6a269f33e">operator==</a> (<a class="el" href="../../dc/daf/a05399.html">ModelSpawn</a> const &amp;other) const</td></tr>
-<tr class="separator:aa32a53f51fd441bb19c4e3f6a269f33e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a74182e3f2b6cd6eb1ec9a09a76749537"><td class="memItemLeft" align="right" valign="top">G3D::AABox const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/daf/a05399.html#a74182e3f2b6cd6eb1ec9a09a76749537">GetBounds</a> () const</td></tr>
-<tr class="separator:a74182e3f2b6cd6eb1ec9a09a76749537"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
-Static Public Member Functions</h2></td></tr>
-<tr class="memitem:a35d7880eb3e295ed3148ca05a2f4520e"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/daf/a05399.html#a35d7880eb3e295ed3148ca05a2f4520e">readFromFile</a> (FILE *rf, <a class="el" href="../../dc/daf/a05399.html">ModelSpawn</a> &amp;spawn)</td></tr>
-<tr class="separator:a35d7880eb3e295ed3148ca05a2f4520e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af7ab85f7ab03ed4c9eadde9bba1a1857"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/daf/a05399.html#af7ab85f7ab03ed4c9eadde9bba1a1857">writeToFile</a> (FILE *rw, <a class="el" href="../../dc/daf/a05399.html">ModelSpawn</a> const &amp;spawn)</td></tr>
-<tr class="separator:af7ab85f7ab03ed4c9eadde9bba1a1857"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac611d964ae36e4ccd5a3bf385457a0ac"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/daf/a05399.html#ac611d964ae36e4ccd5a3bf385457a0ac">ModelPosition</a> ()</td></tr>
+<tr class="separator:ac611d964ae36e4ccd5a3bf385457a0ac"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5b7df306c28a7985fd3ab17d48350a27"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/daf/a05399.html#a5b7df306c28a7985fd3ab17d48350a27">init</a> ()</td></tr>
+<tr class="separator:a5b7df306c28a7985fd3ab17d48350a27"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7e72fc425ad6aae4844090760c1938df"><td class="memItemLeft" align="right" valign="top">G3D::Vector3&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/daf/a05399.html#a7e72fc425ad6aae4844090760c1938df">transform</a> (G3D::Vector3 const &amp;pIn) const</td></tr>
+<tr class="separator:a7e72fc425ad6aae4844090760c1938df"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adb4da027178ca086fe72b4ccf4ea327a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/daf/a05399.html#adb4da027178ca086fe72b4ccf4ea327a">moveToBasePos</a> (G3D::Vector3 const &amp;pBasePos)</td></tr>
+<tr class="separator:adb4da027178ca086fe72b4ccf4ea327a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:acfc7a76db09013abfad8e42aaae59f52"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/daf/a05399.html#acfc7a76db09013abfad8e42aaae59f52">flags</a></td></tr>
-<tr class="separator:acfc7a76db09013abfad8e42aaae59f52"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4ebcfe8326eff028e722c9972a16200b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/ddd/a00380.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/daf/a05399.html#a4ebcfe8326eff028e722c9972a16200b">adtId</a></td></tr>
-<tr class="separator:a4ebcfe8326eff028e722c9972a16200b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab2fdb441870d6ac7ddc05640ec1d0598"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/daf/a05399.html#ab2fdb441870d6ac7ddc05640ec1d0598">ID</a></td></tr>
-<tr class="separator:ab2fdb441870d6ac7ddc05640ec1d0598"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abb5966f87710bc6a1f5da766c99b3e12"><td class="memItemLeft" align="right" valign="top">G3D::Vector3&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/daf/a05399.html#abb5966f87710bc6a1f5da766c99b3e12">iPos</a></td></tr>
-<tr class="separator:abb5966f87710bc6a1f5da766c99b3e12"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6d0b4f6bde1a20b246e4b22cc43e25af"><td class="memItemLeft" align="right" valign="top">G3D::Vector3&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/daf/a05399.html#a6d0b4f6bde1a20b246e4b22cc43e25af">iRot</a></td></tr>
-<tr class="separator:a6d0b4f6bde1a20b246e4b22cc43e25af"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aad355d0fb09ff0360ed19610bef92d8e"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/daf/a05399.html#aad355d0fb09ff0360ed19610bef92d8e">iScale</a></td></tr>
-<tr class="separator:aad355d0fb09ff0360ed19610bef92d8e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae1dac1aa360c4d49b61a0cd8af92399c"><td class="memItemLeft" align="right" valign="top">G3D::AABox&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/daf/a05399.html#ae1dac1aa360c4d49b61a0cd8af92399c">iBound</a></td></tr>
-<tr class="separator:ae1dac1aa360c4d49b61a0cd8af92399c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a66e19a4a28f8fc0c537f1315d9bddcfb"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/daf/a05399.html#a66e19a4a28f8fc0c537f1315d9bddcfb">name</a></td></tr>
-<tr class="separator:a66e19a4a28f8fc0c537f1315d9bddcfb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a36a3bd930273e0313e3b09c1289e9317"><td class="memItemLeft" align="right" valign="top">G3D::Vector3&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/daf/a05399.html#a36a3bd930273e0313e3b09c1289e9317">iPos</a></td></tr>
+<tr class="separator:a36a3bd930273e0313e3b09c1289e9317"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a24ba62281166e60036ac8a57b26c6abd"><td class="memItemLeft" align="right" valign="top">G3D::Vector3&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/daf/a05399.html#a24ba62281166e60036ac8a57b26c6abd">iDir</a></td></tr>
+<tr class="separator:a24ba62281166e60036ac8a57b26c6abd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a81bb029dce2aadec2f147a1329ee285e"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/daf/a05399.html#a81bb029dce2aadec2f147a1329ee285e">iScale</a> {0.0f}</td></tr>
+<tr class="separator:a81bb029dce2aadec2f147a1329ee285e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:ae53c5b044021f5ef04ecb5d8898fd8b3"><td class="memItemLeft" align="right" valign="top">G3D::Matrix3&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/daf/a05399.html#ae53c5b044021f5ef04ecb5d8898fd8b3">iRotation</a></td></tr>
+<tr class="separator:ae53c5b044021f5ef04ecb5d8898fd8b3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="a74182e3f2b6cd6eb1ec9a09a76749537" name="a74182e3f2b6cd6eb1ec9a09a76749537"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a74182e3f2b6cd6eb1ec9a09a76749537">&#9670;&#160;</a></span>GetBounds()</h2>
+<div class="textblock"><p >This Class is used to convert raw vector data into balanced BSP-Trees. To start the conversion call convertWorld(). </p>
+</div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="ac611d964ae36e4ccd5a3bf385457a0ac" name="ac611d964ae36e4ccd5a3bf385457a0ac"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac611d964ae36e4ccd5a3bf385457a0ac">&#9670;&#160;</a></span>ModelPosition()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -169,10 +153,10 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">G3D::AABox const  &amp; VMAP::ModelSpawn::GetBounds </td>
+          <td class="memname">VMAP::ModelPosition::ModelPosition </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
-          <td> const</td>
+          <td></td>
         </tr>
       </table>
   </td>
@@ -181,17 +165,13 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   57</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dc/daf/a05399.html#ae1dac1aa360c4d49b61a0cd8af92399c">iBound</a>; }</div>
-<div class="ttc" id="aa05399_html_ae1dac1aa360c4d49b61a0cd8af92399c"><div class="ttname"><a href="../../dc/daf/a05399.html#ae1dac1aa360c4d49b61a0cd8af92399c">VMAP::ModelSpawn::iBound</a></div><div class="ttdeci">G3D::AABox iBound</div><div class="ttdef"><b>Definition:</b> ModelInstance.h:52</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   42</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00052">iBound</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00035">BoundsTrait&lt; VMAP::ModelSpawn * &gt;::GetBounds()</a>.</p>
-
 </div>
 </div>
-<a id="aa32a53f51fd441bb19c4e3f6a269f33e" name="aa32a53f51fd441bb19c4e3f6a269f33e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa32a53f51fd441bb19c4e3f6a269f33e">&#9670;&#160;</a></span>operator==()</h2>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a5b7df306c28a7985fd3ab17d48350a27" name="a5b7df306c28a7985fd3ab17d48350a27"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5b7df306c28a7985fd3ab17d48350a27">&#9670;&#160;</a></span>init()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -200,11 +180,10 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool VMAP::ModelSpawn::operator== </td>
+          <td class="memname">void VMAP::ModelPosition::init </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dc/daf/a05399.html">ModelSpawn</a> const &amp;&#160;</td>
-          <td class="paramname"><em>other</em></td><td>)</td>
-          <td> const</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
         </tr>
       </table>
   </td>
@@ -213,15 +192,20 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   54</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dc/daf/a05399.html#ab2fdb441870d6ac7ddc05640ec1d0598">ID</a> == other.ID; }</div>
-<div class="ttc" id="aa05399_html_ab2fdb441870d6ac7ddc05640ec1d0598"><div class="ttname"><a href="../../dc/daf/a05399.html#ab2fdb441870d6ac7ddc05640ec1d0598">VMAP::ModelSpawn::ID</a></div><div class="ttdeci">uint32 ID</div><div class="ttdef"><b>Definition:</b> ModelInstance.h:48</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   47</span>        {</div>
+<div class="line"><span class="lineno">   48</span>            <a class="code hl_variable" href="../../dc/daf/a05399.html#ae53c5b044021f5ef04ecb5d8898fd8b3">iRotation</a> = G3D::Matrix3::fromEulerAnglesZYX(G3D::pif() * <a class="code hl_variable" href="../../dc/daf/a05399.html#a24ba62281166e60036ac8a57b26c6abd">iDir</a>.y / 180.f, G3D::pif() * <a class="code hl_variable" href="../../dc/daf/a05399.html#a24ba62281166e60036ac8a57b26c6abd">iDir</a>.x / 180.f, G3D::pif() * <a class="code hl_variable" href="../../dc/daf/a05399.html#a24ba62281166e60036ac8a57b26c6abd">iDir</a>.z / 180.f);</div>
+<div class="line"><span class="lineno">   49</span>        }</div>
+<div class="ttc" id="aa05399_html_a24ba62281166e60036ac8a57b26c6abd"><div class="ttname"><a href="../../dc/daf/a05399.html#a24ba62281166e60036ac8a57b26c6abd">VMAP::ModelPosition::iDir</a></div><div class="ttdeci">G3D::Vector3 iDir</div><div class="ttdef"><b>Definition:</b> TileAssembler.h:44</div></div>
+<div class="ttc" id="aa05399_html_ae53c5b044021f5ef04ecb5d8898fd8b3"><div class="ttname"><a href="../../dc/daf/a05399.html#ae53c5b044021f5ef04ecb5d8898fd8b3">VMAP::ModelPosition::iRotation</a></div><div class="ttdeci">G3D::Matrix3 iRotation</div><div class="ttdef"><b>Definition:</b> TileAssembler.h:40</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00048">ID</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00044">iDir</a>, and <a class="el" href="../../#l00040">iRotation</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00267">VMAP::TileAssembler::calculateTransformedBound()</a>.</p>
 
 </div>
 </div>
-<a id="a35d7880eb3e295ed3148ca05a2f4520e" name="a35d7880eb3e295ed3148ca05a2f4520e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a35d7880eb3e295ed3148ca05a2f4520e">&#9670;&#160;</a></span>readFromFile()</h2>
+<a id="adb4da027178ca086fe72b4ccf4ea327a" name="adb4da027178ca086fe72b4ccf4ea327a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adb4da027178ca086fe72b4ccf4ea327a">&#9670;&#160;</a></span>moveToBasePos()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -230,272 +214,124 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool VMAP::ModelSpawn::readFromFile </td>
+          <td class="memname">void VMAP::ModelPosition::moveToBasePos </td>
           <td>(</td>
-          <td class="paramtype">FILE *&#160;</td>
-          <td class="paramname"><em>rf</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramtype">G3D::Vector3 const &amp;&#160;</td>
+          <td class="paramname"><em>pBasePos</em></td><td>)</td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../dc/daf/a05399.html">ModelSpawn</a> &amp;&#160;</td>
-          <td class="paramname"><em>spawn</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  126</span>    {</div>
-<div class="line"><span class="lineno">  127</span>        <a class="code hl_typedef" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> check = 0, nameLen;</div>
-<div class="line"><span class="lineno">  128</span>        check += fread(&amp;spawn.flags, <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>), 1, rf);</div>
-<div class="line"><span class="lineno">  129</span>        <span class="comment">// EoF?</span></div>
-<div class="line"><span class="lineno">  130</span>        <span class="keywordflow">if</span> (!check)</div>
-<div class="line"><span class="lineno">  131</span>        {</div>
-<div class="line"><span class="lineno">  132</span>            <span class="keywordflow">if</span> (ferror(rf))</div>
-<div class="line"><span class="lineno">  133</span>            {</div>
-<div class="line"><span class="lineno">  134</span>                std::cout &lt;&lt; <span class="stringliteral">&quot;Error reading ModelSpawn!\n&quot;</span>;</div>
-<div class="line"><span class="lineno">  135</span>            }</div>
-<div class="line"><span class="lineno">  136</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  137</span>        }</div>
-<div class="line"><span class="lineno">  138</span>        check += fread(&amp;spawn.adtId, <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../d8/ddd/a00380.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>), 1, rf);</div>
-<div class="line"><span class="lineno">  139</span>        check += fread(&amp;spawn.ID, <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>), 1, rf);</div>
-<div class="line"><span class="lineno">  140</span>        check += fread(&amp;spawn.iPos, <span class="keyword">sizeof</span>(<span class="keywordtype">float</span>), 3, rf);</div>
-<div class="line"><span class="lineno">  141</span>        check += fread(&amp;spawn.iRot, <span class="keyword">sizeof</span>(<span class="keywordtype">float</span>), 3, rf);</div>
-<div class="line"><span class="lineno">  142</span>        check += fread(&amp;spawn.iScale, <span class="keyword">sizeof</span>(<span class="keywordtype">float</span>), 1, rf);</div>
-<div class="line"><span class="lineno">  143</span>        <span class="keywordtype">bool</span> has_bound = (spawn.flags &amp; <a class="code hl_enumvalue" href="../../de/d11/a05095.html#ac540ff16efadcc07eeb9d8511b94ccceaa47940cd802c5225d2babb37d24c7f09">MOD_HAS_BOUND</a>);</div>
-<div class="line"><span class="lineno">  144</span>        <span class="keywordflow">if</span> (has_bound) <span class="comment">// only WMOs have bound in MPQ, only available after computation</span></div>
-<div class="line"><span class="lineno">  145</span>        {</div>
-<div class="line"><span class="lineno">  146</span>            Vector3 bLow, bHigh;</div>
-<div class="line"><span class="lineno">  147</span>            check += fread(&amp;bLow, <span class="keyword">sizeof</span>(<span class="keywordtype">float</span>), 3, rf);</div>
-<div class="line"><span class="lineno">  148</span>            check += fread(&amp;bHigh, <span class="keyword">sizeof</span>(<span class="keywordtype">float</span>), 3, rf);</div>
-<div class="line"><span class="lineno">  149</span>            spawn.iBound = G3D::AABox(bLow, bHigh);</div>
-<div class="line"><span class="lineno">  150</span>        }</div>
-<div class="line"><span class="lineno">  151</span>        check += fread(&amp;nameLen, <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>), 1, rf);</div>
-<div class="line"><span class="lineno">  152</span>        <span class="keywordflow">if</span> (check != <a class="code hl_typedef" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(has_bound ? 17 : 11))</div>
-<div class="line"><span class="lineno">  153</span>        {</div>
-<div class="line"><span class="lineno">  154</span>            std::cout &lt;&lt; <span class="stringliteral">&quot;Error reading ModelSpawn!\n&quot;</span>;</div>
-<div class="line"><span class="lineno">  155</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  156</span>        }</div>
-<div class="line"><span class="lineno">  157</span>        <span class="keywordtype">char</span> nameBuff[500];</div>
-<div class="line"><span class="lineno">  158</span>        <span class="keywordflow">if</span> (nameLen &gt; 500) <span class="comment">// file names should never be that long, must be file error</span></div>
-<div class="line"><span class="lineno">  159</span>        {</div>
-<div class="line"><span class="lineno">  160</span>            std::cout &lt;&lt; <span class="stringliteral">&quot;Error reading ModelSpawn, file name too long!\n&quot;</span>;</div>
-<div class="line"><span class="lineno">  161</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  162</span>        }</div>
-<div class="line"><span class="lineno">  163</span>        check = fread(nameBuff, <span class="keyword">sizeof</span>(<span class="keywordtype">char</span>), nameLen, rf);</div>
-<div class="line"><span class="lineno">  164</span>        <span class="keywordflow">if</span> (check != nameLen)</div>
-<div class="line"><span class="lineno">  165</span>        {</div>
-<div class="line"><span class="lineno">  166</span>            std::cout &lt;&lt; <span class="stringliteral">&quot;Error reading ModelSpawn!\n&quot;</span>;</div>
-<div class="line"><span class="lineno">  167</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  168</span>        }</div>
-<div class="line"><span class="lineno">  169</span>        spawn.name = std::string(nameBuff, nameLen);</div>
-<div class="line"><span class="lineno">  170</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  171</span>    }</div>
-<div class="ttc" id="aa00380_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
-<div class="ttc" id="aa00380_html_ad9c79638db63f1dfe2b085743b5cbf7b"><div class="ttname"><a href="../../d8/ddd/a00380.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a></div><div class="ttdeci">std::uint16_t uint16</div><div class="ttdef"><b>Definition:</b> Define.h:108</div></div>
-<div class="ttc" id="aa05095_html_ac540ff16efadcc07eeb9d8511b94ccceaa47940cd802c5225d2babb37d24c7f09"><div class="ttname"><a href="../../de/d11/a05095.html#ac540ff16efadcc07eeb9d8511b94ccceaa47940cd802c5225d2babb37d24c7f09">VMAP::MOD_HAS_BOUND</a></div><div class="ttdeci">@ MOD_HAS_BOUND</div><div class="ttdef"><b>Definition:</b> ModelInstance.h:39</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   51</span>{ <a class="code hl_variable" href="../../dc/daf/a05399.html#a36a3bd930273e0313e3b09c1289e9317">iPos</a> -= pBasePos; }</div>
+<div class="ttc" id="aa05399_html_a36a3bd930273e0313e3b09c1289e9317"><div class="ttname"><a href="../../dc/daf/a05399.html#a36a3bd930273e0313e3b09c1289e9317">VMAP::ModelPosition::iPos</a></div><div class="ttdeci">G3D::Vector3 iPos</div><div class="ttdef"><b>Definition:</b> TileAssembler.h:43</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00047">adtId</a>, <a class="el" href="../../#l00046">flags</a>, <a class="el" href="../../#l00052">iBound</a>, <a class="el" href="../../#l00048">ID</a>, <a class="el" href="../../#l00049">iPos</a>, <a class="el" href="../../#l00050">iRot</a>, <a class="el" href="../../#l00051">iScale</a>, <a class="el" href="../../#l00039">VMAP::MOD_HAS_BOUND</a>, and <a class="el" href="../../#l00053">name</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00263">VMAP::StaticMapTree::InitMap()</a>, <a class="el" href="../../#l00322">VMAP::StaticMapTree::LoadMapTile()</a>, and <a class="el" href="../../#l00219">VMAP::TileAssembler::readMapSpawns()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00043">iPos</a>.</p>
 
 </div>
 </div>
-<a id="af7ab85f7ab03ed4c9eadde9bba1a1857" name="af7ab85f7ab03ed4c9eadde9bba1a1857"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af7ab85f7ab03ed4c9eadde9bba1a1857">&#9670;&#160;</a></span>writeToFile()</h2>
+<a id="a7e72fc425ad6aae4844090760c1938df" name="a7e72fc425ad6aae4844090760c1938df"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7e72fc425ad6aae4844090760c1938df">&#9670;&#160;</a></span>transform()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool VMAP::ModelSpawn::writeToFile </td>
+          <td class="memname">Vector3 VMAP::ModelPosition::transform </td>
           <td>(</td>
-          <td class="paramtype">FILE *&#160;</td>
-          <td class="paramname"><em>rw</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../dc/daf/a05399.html">ModelSpawn</a> const &amp;&#160;</td>
-          <td class="paramname"><em>spawn</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="paramtype">G3D::Vector3 const &amp;&#160;</td>
+          <td class="paramname"><em>pIn</em></td><td>)</td>
+          <td> const</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  174</span>    {</div>
-<div class="line"><span class="lineno">  175</span>        <a class="code hl_typedef" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> check = 0;</div>
-<div class="line"><span class="lineno">  176</span>        check += fwrite(&amp;spawn.flags, <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>), 1, wf);</div>
-<div class="line"><span class="lineno">  177</span>        check += fwrite(&amp;spawn.adtId, <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../d8/ddd/a00380.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>), 1, wf);</div>
-<div class="line"><span class="lineno">  178</span>        check += fwrite(&amp;spawn.ID, <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>), 1, wf);</div>
-<div class="line"><span class="lineno">  179</span>        check += fwrite(&amp;spawn.iPos, <span class="keyword">sizeof</span>(<span class="keywordtype">float</span>), 3, wf);</div>
-<div class="line"><span class="lineno">  180</span>        check += fwrite(&amp;spawn.iRot, <span class="keyword">sizeof</span>(<span class="keywordtype">float</span>), 3, wf);</div>
-<div class="line"><span class="lineno">  181</span>        check += fwrite(&amp;spawn.iScale, <span class="keyword">sizeof</span>(<span class="keywordtype">float</span>), 1, wf);</div>
-<div class="line"><span class="lineno">  182</span>        <span class="keywordtype">bool</span> has_bound = (spawn.flags &amp; <a class="code hl_enumvalue" href="../../de/d11/a05095.html#ac540ff16efadcc07eeb9d8511b94ccceaa47940cd802c5225d2babb37d24c7f09">MOD_HAS_BOUND</a>);</div>
-<div class="line"><span class="lineno">  183</span>        <span class="keywordflow">if</span> (has_bound) <span class="comment">// only WMOs have bound in MPQ, only available after computation</span></div>
-<div class="line"><span class="lineno">  184</span>        {</div>
-<div class="line"><span class="lineno">  185</span>            check += fwrite(&amp;spawn.iBound.low(), <span class="keyword">sizeof</span>(<span class="keywordtype">float</span>), 3, wf);</div>
-<div class="line"><span class="lineno">  186</span>            check += fwrite(&amp;spawn.iBound.high(), <span class="keyword">sizeof</span>(<span class="keywordtype">float</span>), 3, wf);</div>
-<div class="line"><span class="lineno">  187</span>        }</div>
-<div class="line"><span class="lineno">  188</span>        <a class="code hl_typedef" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> nameLen = spawn.name.length();</div>
-<div class="line"><span class="lineno">  189</span>        check += fwrite(&amp;nameLen, <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>), 1, wf);</div>
-<div class="line"><span class="lineno">  190</span>        <span class="keywordflow">if</span> (check != <a class="code hl_typedef" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(has_bound ? 17 : 11)) { <span class="keywordflow">return</span> <span class="keyword">false</span>; }</div>
-<div class="line"><span class="lineno">  191</span>        check = fwrite(spawn.name.c_str(), <span class="keyword">sizeof</span>(<span class="keywordtype">char</span>), nameLen, wf);</div>
-<div class="line"><span class="lineno">  192</span>        <span class="keywordflow">if</span> (check != nameLen) { <span class="keywordflow">return</span> <span class="keyword">false</span>; }</div>
-<div class="line"><span class="lineno">  193</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  194</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">   47</span>    {</div>
+<div class="line"><span class="lineno">   48</span>        Vector3 out = pIn * <a class="code hl_variable" href="../../dc/daf/a05399.html#a81bb029dce2aadec2f147a1329ee285e">iScale</a>;</div>
+<div class="line"><span class="lineno">   49</span>        out = <a class="code hl_variable" href="../../dc/daf/a05399.html#ae53c5b044021f5ef04ecb5d8898fd8b3">iRotation</a> * out;</div>
+<div class="line"><span class="lineno">   50</span>        <span class="keywordflow">return</span> (out);</div>
+<div class="line"><span class="lineno">   51</span>    }</div>
+<div class="ttc" id="aa05399_html_a81bb029dce2aadec2f147a1329ee285e"><div class="ttname"><a href="../../dc/daf/a05399.html#a81bb029dce2aadec2f147a1329ee285e">VMAP::ModelPosition::iScale</a></div><div class="ttdeci">float iScale</div><div class="ttdef"><b>Definition:</b> TileAssembler.h:45</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00047">adtId</a>, <a class="el" href="../../#l00046">flags</a>, <a class="el" href="../../#l00052">iBound</a>, <a class="el" href="../../#l00048">ID</a>, <a class="el" href="../../#l00049">iPos</a>, <a class="el" href="../../#l00050">iRot</a>, <a class="el" href="../../#l00051">iScale</a>, <a class="el" href="../../#l00039">VMAP::MOD_HAS_BOUND</a>, and <a class="el" href="../../#l00053">name</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00040">iRotation</a>, and <a class="el" href="../../#l00045">iScale</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00067">VMAP::TileAssembler::convertWorld2()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00267">VMAP::TileAssembler::calculateTransformedBound()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a4ebcfe8326eff028e722c9972a16200b" name="a4ebcfe8326eff028e722c9972a16200b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4ebcfe8326eff028e722c9972a16200b">&#9670;&#160;</a></span>adtId</h2>
+<a id="a24ba62281166e60036ac8a57b26c6abd" name="a24ba62281166e60036ac8a57b26c6abd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a24ba62281166e60036ac8a57b26c6abd">&#9670;&#160;</a></span>iDir</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> VMAP::ModelSpawn::adtId</td>
+          <td class="memname">G3D::Vector3 VMAP::ModelPosition::iDir</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00136">StaticVMapCollisionData::GetAreaAndLiquidData()</a>, <a class="el" href="../../#l00125">readFromFile()</a>, and <a class="el" href="../../#l00173">writeToFile()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00267">VMAP::TileAssembler::calculateTransformedBound()</a>, and <a class="el" href="../../#l00046">init()</a>.</p>
 
 </div>
 </div>
-<a id="acfc7a76db09013abfad8e42aaae59f52" name="acfc7a76db09013abfad8e42aaae59f52"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acfc7a76db09013abfad8e42aaae59f52">&#9670;&#160;</a></span>flags</h2>
+<a id="a36a3bd930273e0313e3b09c1289e9317" name="a36a3bd930273e0313e3b09c1289e9317"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a36a3bd930273e0313e3b09c1289e9317">&#9670;&#160;</a></span>iPos</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> VMAP::ModelSpawn::flags</td>
+          <td class="memname">G3D::Vector3 VMAP::ModelPosition::iPos</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00267">VMAP::TileAssembler::calculateTransformedBound()</a>, <a class="el" href="../../#l00067">VMAP::TileAssembler::convertWorld2()</a>, <a class="el" href="../../#l00066">VMAP::ModelInstance::GetLocationInfo()</a>, <a class="el" href="../../#l00263">VMAP::StaticMapTree::InitMap()</a>, <a class="el" href="../../#l00322">VMAP::StaticMapTree::LoadMapTile()</a>, <a class="el" href="../../#l00125">readFromFile()</a>, and <a class="el" href="../../#l00173">writeToFile()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00051">moveToBasePos()</a>.</p>
 
 </div>
 </div>
-<a id="ae1dac1aa360c4d49b61a0cd8af92399c" name="ae1dac1aa360c4d49b61a0cd8af92399c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae1dac1aa360c4d49b61a0cd8af92399c">&#9670;&#160;</a></span>iBound</h2>
+<a id="ae53c5b044021f5ef04ecb5d8898fd8b3" name="ae53c5b044021f5ef04ecb5d8898fd8b3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae53c5b044021f5ef04ecb5d8898fd8b3">&#9670;&#160;</a></span>iRotation</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">G3D::Matrix3 VMAP::ModelPosition::iRotation</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00046">init()</a>, and <a class="el" href="../../#l00046">transform()</a>.</p>
+
+</div>
+</div>
+<a id="a81bb029dce2aadec2f147a1329ee285e" name="a81bb029dce2aadec2f147a1329ee285e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a81bb029dce2aadec2f147a1329ee285e">&#9670;&#160;</a></span>iScale</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">G3D::AABox VMAP::ModelSpawn::iBound</td>
+          <td class="memname">float VMAP::ModelPosition::iScale {0.0f}</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00267">VMAP::TileAssembler::calculateTransformedBound()</a>, <a class="el" href="../../#l00057">GetBounds()</a>, <a class="el" href="../../#l00066">VMAP::ModelInstance::GetLocationInfo()</a>, <a class="el" href="../../#l00033">VMAP::ModelInstance::intersectRay()</a>, <a class="el" href="../../#l00125">readFromFile()</a>, and <a class="el" href="../../#l00173">writeToFile()</a>.</p>
-
-</div>
-</div>
-<a id="ab2fdb441870d6ac7ddc05640ec1d0598" name="ab2fdb441870d6ac7ddc05640ec1d0598"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab2fdb441870d6ac7ddc05640ec1d0598">&#9670;&#160;</a></span>ID</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> VMAP::ModelSpawn::ID</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00067">VMAP::TileAssembler::convertWorld2()</a>, <a class="el" href="../../#l00136">StaticVMapCollisionData::GetAreaAndLiquidData()</a>, <a class="el" href="../../#l00322">VMAP::StaticMapTree::LoadMapTile()</a>, <a class="el" href="../../#l00054">operator==()</a>, <a class="el" href="../../#l00125">readFromFile()</a>, <a class="el" href="../../#l00219">VMAP::TileAssembler::readMapSpawns()</a>, and <a class="el" href="../../#l00173">writeToFile()</a>.</p>
-
-</div>
-</div>
-<a id="abb5966f87710bc6a1f5da766c99b3e12" name="abb5966f87710bc6a1f5da766c99b3e12"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abb5966f87710bc6a1f5da766c99b3e12">&#9670;&#160;</a></span>iPos</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">G3D::Vector3 VMAP::ModelSpawn::iPos</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00267">VMAP::TileAssembler::calculateTransformedBound()</a>, <a class="el" href="../../#l00110">VMAP::ModelInstance::GetLiquidLevel()</a>, <a class="el" href="../../#l00066">VMAP::ModelInstance::GetLocationInfo()</a>, <a class="el" href="../../#l00033">VMAP::ModelInstance::intersectRay()</a>, <a class="el" href="../../#l00677">MMAP::TerrainBuilder::loadVMap()</a>, <a class="el" href="../../#l00125">readFromFile()</a>, and <a class="el" href="../../#l00173">writeToFile()</a>.</p>
-
-</div>
-</div>
-<a id="a6d0b4f6bde1a20b246e4b22cc43e25af" name="a6d0b4f6bde1a20b246e4b22cc43e25af"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6d0b4f6bde1a20b246e4b22cc43e25af">&#9670;&#160;</a></span>iRot</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">G3D::Vector3 VMAP::ModelSpawn::iRot</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00267">VMAP::TileAssembler::calculateTransformedBound()</a>, <a class="el" href="../../#l00677">MMAP::TerrainBuilder::loadVMap()</a>, <a class="el" href="../../#l00027">VMAP::ModelInstance::ModelInstance()</a>, <a class="el" href="../../#l00125">readFromFile()</a>, and <a class="el" href="../../#l00173">writeToFile()</a>.</p>
-
-</div>
-</div>
-<a id="aad355d0fb09ff0360ed19610bef92d8e" name="aad355d0fb09ff0360ed19610bef92d8e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aad355d0fb09ff0360ed19610bef92d8e">&#9670;&#160;</a></span>iScale</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">float VMAP::ModelSpawn::iScale</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00267">VMAP::TileAssembler::calculateTransformedBound()</a>, <a class="el" href="../../#l00110">VMAP::ModelInstance::GetLiquidLevel()</a>, <a class="el" href="../../#l00066">VMAP::ModelInstance::GetLocationInfo()</a>, <a class="el" href="../../#l00033">VMAP::ModelInstance::intersectRay()</a>, <a class="el" href="../../#l00677">MMAP::TerrainBuilder::loadVMap()</a>, <a class="el" href="../../#l00027">VMAP::ModelInstance::ModelInstance()</a>, <a class="el" href="../../#l00125">readFromFile()</a>, and <a class="el" href="../../#l00173">writeToFile()</a>.</p>
-
-</div>
-</div>
-<a id="a66e19a4a28f8fc0c537f1315d9bddcfb" name="a66e19a4a28f8fc0c537f1315d9bddcfb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a66e19a4a28f8fc0c537f1315d9bddcfb">&#9670;&#160;</a></span>name</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::string VMAP::ModelSpawn::name</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00267">VMAP::TileAssembler::calculateTransformedBound()</a>, <a class="el" href="../../#l00263">VMAP::StaticMapTree::InitMap()</a>, <a class="el" href="../../#l00322">VMAP::StaticMapTree::LoadMapTile()</a>, <a class="el" href="../../#l00677">MMAP::TerrainBuilder::loadVMap()</a>, <a class="el" href="../../#l00125">readFromFile()</a>, and <a class="el" href="../../#l00173">writeToFile()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00267">VMAP::TileAssembler::calculateTransformedBound()</a>, and <a class="el" href="../../#l00046">transform()</a>.</p>
 
 </div>
 </div>
@@ -504,8 +340,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../de/d11/a05095.html">VMAP</a></li><li class="navelem"><a class="el" href="../../dc/daf/a05399.html">ModelSpawn</a></li>
-    <li class="footer">Generated on Tue Sep 1 2026 00:10:11 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d9/d0b/a05125.html">VMAP</a></li><li class="navelem"><a class="el" href="../../dc/daf/a05399.html">ModelPosition</a></li>
+    <li class="footer">Generated on Mon Sep 21 2026 23:35:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

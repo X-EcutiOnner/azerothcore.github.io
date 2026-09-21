@@ -1,8 +1,9 @@
 var a12967 =
 [
-    [ "FilterTargets", "df/d16/a12967.html#a03acb7fb2734d9c8e8e623600bc16859", null ],
-    [ "FilterTargetsEff", "df/d16/a12967.html#a8aeffd2a01c805246c33d22a59274c6f", null ],
-    [ "PrepareSpellScript", "df/d16/a12967.html#ae00bc9956c9971d62d9185c72d3bd8b5", null ],
-    [ "Register", "df/d16/a12967.html#aba646a238c3b4b7343f3eec8c6445eb5", null ],
-    [ "targetList", "df/d16/a12967.html#a874dc7877ecfae332c9f826f01afce0f", null ]
+    [ "npc_vaelastrasz_the_red", "df/d16/a12967.html#a28ba5ca91e61707360c8a1f9a8550567", null ],
+    [ "IsSummonedBy", "df/d16/a12967.html#ad5f2aeaee704c436e60bc5c5400c0f75", null ],
+    [ "UpdateAI", "df/d16/a12967.html#a95b48026759f9e5e5f0c452a8019ef03", null ],
+    [ "_combatEnabled", "df/d16/a12967.html#a373fe15d1e754f11db59186517783a40", null ],
+    [ "_events2", "df/d16/a12967.html#acecc982854e9d587112e9117e7d7a3fa", null ],
+    [ "_victorGUID", "df/d16/a12967.html#a0e5d6bd095c980a45dcfe68faf2c7b3f", null ]
 ];

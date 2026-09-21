@@ -1,7 +1,10 @@
 var a21579 =
 [
-    [ "npc_violet_hold_defense_system", "db/d7a/a21579.html#abb5eb275e803201aad3010ad77aa4b41", null ],
-    [ "Reset", "db/d7a/a21579.html#a77925ae6097f7a52d446ee20bbb3de62", null ],
-    [ "UpdateAI", "db/d7a/a21579.html#ab39bc3da2d7ce33be1e27cd48fc16e89", null ],
-    [ "_tickCount", "db/d7a/a21579.html#a4a7504069b05480428278fd09d5e59ba", null ]
+    [ "npc_erekem_guard", "db/d7a/a21579.html#a4c3ea7c84fbc1c2b3239c0bcf9e734d5", null ],
+    [ "JustEngagedWith", "db/d7a/a21579.html#a05c81c2b1ec3bb48ae3003f8d825ffc0", null ],
+    [ "MoveInLineOfSight", "db/d7a/a21579.html#a31ea4b54a0adae7e3fee31d38af87c3e", null ],
+    [ "Reset", "db/d7a/a21579.html#aacdc16855938d9f133b751f91b5e9402", null ],
+    [ "UpdateAI", "db/d7a/a21579.html#ae57b5c4e61d9e9475c66b68797a51f09", null ],
+    [ "_events", "db/d7a/a21579.html#a13829cd26d18c42213be1f6640a2b979", null ],
+    [ "_instance", "db/d7a/a21579.html#af890899c6d5e0b67fa5b0336c5a31dfc", null ]
 ];

@@ -1,4 +1,8 @@
 var a29235 =
 [
-    [ "ratio", "dc/d10/a29235.html#abd6f48f1ad2826ae1c3c782337bac618", null ]
+    [ "ID", "dc/d10/a29235.html#a36958c346c8554d9ab1cfb73ac583818", null ],
+    [ "Model", "dc/d10/a29235.html#a8877a066a16c8c246a2d5a24a3661e56", null ],
+    [ "Origin", "dc/d10/a29235.html#a684c69add50ee545ee606ae456a93336", null ],
+    [ "OriginFacing", "dc/d10/a29235.html#a460723250353c7720cd87677991283cf", null ],
+    [ "SoundID", "dc/d10/a29235.html#aa56be05c7ab4015738e049d75ff365c6", null ]
 ];

@@ -1,5 +1,5 @@
 var a12763 =
 [
-    [ "boss_gloomrel", "db/de8/a12763.html#a2fe4ce0ddf75725dcb388a346ee13af8", null ],
-    [ "sGossipSelect", "db/de8/a12763.html#a28b2c02b2a4195c90ce313324f056131", null ]
+    [ "amount", "db/de8/a12763.html#a35b1ecbfecae77f1cb7a0a52eafc5f7b", null ],
+    [ "entry", "db/de8/a12763.html#ac3d4d211ebb927b1b9a376ee956e1b26", null ]
 ];

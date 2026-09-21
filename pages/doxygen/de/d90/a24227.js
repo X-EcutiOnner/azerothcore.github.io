@@ -1,6 +1,6 @@
 var a24227 =
 [
-    [ "npc_invis_infernal_casterAI", "dc/dfd/a24231.html", "dc/dfd/a24231" ],
-    [ "npc_invis_infernal_caster", "de/d90/a24227.html#a9aed081ef904075830428bbc76f53874", null ],
-    [ "GetAI", "de/d90/a24227.html#aede0c5cc390ea423169b1cba66d929cd", null ]
+    [ "go_beaconAI", "de/d90/a24227.html#a95f0f62d4e34da650c22a7ce796fc85f", null ],
+    [ "OnStateChanged", "de/d90/a24227.html#a10bd78bf6c2451fe95163eb9083bdf44", null ],
+    [ "_whelpGUIDs", "de/d90/a24227.html#a083094ececd327c833649da6a755c635", null ]
 ];

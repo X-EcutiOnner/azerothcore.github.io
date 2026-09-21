@@ -1,7 +1,10 @@
 var a20063 =
 [
-    [ "HandleEffectRemove", "d0/dab/a20063.html#af61220cb739baef9b33aecddb1cfe5ea", null ],
-    [ "PrepareAuraScript", "d0/dab/a20063.html#ad8035b1b676751fcc299e4ad8df62ed8", null ],
-    [ "Register", "d0/dab/a20063.html#abe52dbfdbd42c860e0a79873dd19e22d", null ],
-    [ "Validate", "d0/dab/a20063.html#a7c4f9df92b501720e30372fa9e9dbad7", null ]
+    [ "npc_molten_golem", "d0/dab/a20063.html#a38350948396b7df97837780531f79515", null ],
+    [ "DamageTaken", "d0/dab/a20063.html#aa3521246b0c2bed18b5466879ec1d107", null ],
+    [ "DoAction", "d0/dab/a20063.html#a1936beed47707f2f0e560d7d3b3440ba", null ],
+    [ "Reset", "d0/dab/a20063.html#a24e23d0959bcda5be05786381a35ac77", null ],
+    [ "UpdateAI", "d0/dab/a20063.html#ac62f71bc6b3fa8ab6c1a5fc73915d64e", null ],
+    [ "events", "d0/dab/a20063.html#a2a552e27aca0e188a4d5ae46f639cbef", null ],
+    [ "m_pInstance", "d0/dab/a20063.html#af46ccffa6a7fcf3cbee893eba6435159", null ]
 ];

@@ -1,6 +1,6 @@
 var a27851 =
 [
-    [ "CheckProc", "d2/d02/a27851.html#ad99bf14a9b71a9ff7b2ccb73eaae41ce", null ],
-    [ "PrepareAuraScript", "d2/d02/a27851.html#a787d22fa4d989bf28aa69f64d55d9687", null ],
-    [ "Register", "d2/d02/a27851.html#a4ef23658a8f36556513fcd7b9673a14f", null ]
+    [ "HandleScriptEffect", "d2/d02/a27851.html#a3f8988017d088d08df08ba8b696b552b", null ],
+    [ "PrepareSpellScript", "d2/d02/a27851.html#a56f5c59c7dc8d4f8117dc64d5a5a3a0b", null ],
+    [ "Register", "d2/d02/a27851.html#a4ebc3c83dd77134af2ee81a46b121d19", null ]
 ];

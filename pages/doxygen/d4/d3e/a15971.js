@@ -1,7 +1,7 @@
 var a15971 =
 [
-    [ "HandleEffectPeriodic", "d4/d3e/a15971.html#ac47c157dbd193bc131d281666ae2097f", null ],
-    [ "PrepareAuraScript", "d4/d3e/a15971.html#ac650ece6e2d9e9e7ff9b863d77f84975", null ],
-    [ "Register", "d4/d3e/a15971.html#ac3c158fdddd007d1d7986470032bfc25", null ],
-    [ "Validate", "d4/d3e/a15971.html#a26b117dc8a3b104dec9de27597fbe55d", null ]
+    [ "npc_webbed_creatureAI", "d4/d3e/a15971.html#a6b7507eda84c29d6bd557b1b424ee10a", null ],
+    [ "JustDied", "d4/d3e/a15971.html#a5b6d5acdc124cba74229b20b2628c3c3", null ],
+    [ "JustEngagedWith", "d4/d3e/a15971.html#ac52ad6512bcaee35932f856abdac80d4", null ],
+    [ "Reset", "d4/d3e/a15971.html#a459eaadd7f0145b7a1a6caf99d1e8a5d", null ]
 ];

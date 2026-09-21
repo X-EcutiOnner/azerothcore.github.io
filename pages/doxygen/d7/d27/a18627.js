@@ -1,6 +1,6 @@
 var a18627 =
 [
-    [ "LichKingDeathEvent", "d7/d27/a18627.html#a9aa328b60358034355b1eed5caacb9f8", null ],
-    [ "Execute", "d7/d27/a18627.html#a06b9a77d3c5efb228368a1e423a620ae", null ],
-    [ "_owner", "d7/d27/a18627.html#a75ccb1b2bd5a8149aff85404b5e0ce21", null ]
+    [ "npc_spinestalkerAI", "d5/d62/a18631.html", "d5/d62/a18631" ],
+    [ "npc_spinestalker", "d7/d27/a18627.html#a477f951c79045d553901b1e6b6ad2d4f", null ],
+    [ "GetAI", "d7/d27/a18627.html#a725f1b1db90d700772bfb76e0f85f1f3", null ]
 ];

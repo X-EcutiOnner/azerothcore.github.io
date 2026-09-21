@@ -1,8 +1,6 @@
 var a09271 =
 [
-    [ "TempSummonGroupKey", "d0/d3b/a09271.html#ae1bd752c8fc7d037d6942b32859ce1ad", null ],
-    [ "operator<", "d0/d3b/a09271.html#ae92c7712bd58b9b773ddaac3d2b8a345", null ],
-    [ "_summonerEntry", "d0/d3b/a09271.html#a0ecac0e82ce63c9e64f2e17d941df447", null ],
-    [ "_summonerType", "d0/d3b/a09271.html#ac6bf8fb36092134f63409f3cddc5f810", null ],
-    [ "_summonGroup", "d0/d3b/a09271.html#a1a90f3bf90363f88828cc217dd7ceda6", null ]
+    [ "Reset", "d0/d3b/a09271.html#acccf504073283011dc32b05a5a87b85a", null ],
+    [ "Guid", "d0/d3b/a09271.html#a738a014abc8cb5df525642acc218576b", null ],
+    [ "IsUnselectable", "d0/d3b/a09271.html#a037411c58c414d0c5a39915b7acd578d", null ]
 ];

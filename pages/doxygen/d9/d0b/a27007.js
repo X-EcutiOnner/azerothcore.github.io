@@ -1,9 +1,6 @@
 var a27007 =
 [
-    [ "CheckProcDummy", "d9/d0b/a27007.html#ae4e6d0683039ca5e8ff1877248048b3b", null ],
-    [ "CheckProcTriggerSpell", "d9/d0b/a27007.html#affbff48ab9421bda51b3a5781188546d", null ],
-    [ "HandleProcDummy", "d9/d0b/a27007.html#a0113a45bd4c28d1769df7b675de697ed", null ],
-    [ "PrepareAuraScript", "d9/d0b/a27007.html#af7d9ac7e014bbda32275bb584f5e2660", null ],
-    [ "Register", "d9/d0b/a27007.html#aa575597dab0670e768e20a3a06c6dc0a", null ],
-    [ "Validate", "d9/d0b/a27007.html#a63844728796945e892985720296d0c07", null ]
+    [ "FilterTargets", "d9/d0b/a27007.html#a81212064e51b7dfd148a1b18b69aafe0", null ],
+    [ "PrepareSpellScript", "d9/d0b/a27007.html#a10d26377442d7a5d0c2986a65fcb57d6", null ],
+    [ "Register", "d9/d0b/a27007.html#a4db02c58be57a797c26b07656d1b5409", null ]
 ];

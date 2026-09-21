@@ -1,7 +1,7 @@
 var a22271 =
 [
-    [ "npc_engineer_heliceAI", "db/d12/a22275.html", "db/d12/a22275" ],
-    [ "npc_engineer_helice", "db/de1/a22271.html#a445ed6b85e95db817c8117d5473a3c9d", null ],
-    [ "GetAI", "db/de1/a22271.html#ad48e3c1ed22a71e8a45273e1338dd0f8", null ],
-    [ "OnQuestAccept", "db/de1/a22271.html#abd345111463ce2ac635ad7fc6f891fb7", null ]
+    [ "HandleDummy", "db/de1/a22271.html#a85874062bceced2694fff725649df892", null ],
+    [ "PrepareSpellScript", "db/de1/a22271.html#a47bae4bdc488480f91517465d8e1b784", null ],
+    [ "Register", "db/de1/a22271.html#a7131340678ca685db98e2087661321a9", null ],
+    [ "Validate", "db/de1/a22271.html#af1b74ceee10fc48a0b85d4a284103950", null ]
 ];

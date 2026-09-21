@@ -1,9 +1,6 @@
 var a22359 =
 [
-    [ "HandlePeriodic", "da/d6b/a22359.html#a3d9ef90ec1ddebe2b2f3dd3a8b9eb25a", null ],
-    [ "Load", "da/d6b/a22359.html#af5ed9dda3b2a2fd208fdc32de414c28a", null ],
-    [ "PrepareAuraScript", "da/d6b/a22359.html#a1057e5262d413149a023bc904a3c3751", null ],
-    [ "Register", "da/d6b/a22359.html#a47b9665b84742fd8cbb4e422d667b2ac", null ],
-    [ "Validate", "da/d6b/a22359.html#a85d7ac258d50f690574ad7656256cd05", null ],
-    [ "_counter", "da/d6b/a22359.html#a855bb93d5d9c5d8a9d06cfbb16d8d814", null ]
+    [ "npc_bushwhackerAI", "d5/d73/a22363.html", "d5/d73/a22363" ],
+    [ "npc_bushwhacker", "da/d6b/a22359.html#ad87a9fdec3d5dbaef429c88905a5f6e8", null ],
+    [ "GetAI", "da/d6b/a22359.html#ab3190b66069e820abf3637bb877066a0", null ]
 ];

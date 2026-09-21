@@ -1,6 +1,5 @@
 var a17743 =
 [
-    [ "AddExtraDamage", "de/ded/a17743.html#adeedfdd7555dfd009c99db6f002f7488", null ],
-    [ "PrepareSpellScript", "de/ded/a17743.html#a5d5c32f102c525f6c25d12281a58f5f4", null ],
-    [ "Register", "de/ded/a17743.html#affe1d9a5e9c4776d1651fdb95283caf4", null ]
+    [ "achievement_snakes_whyd_it_have_to_be_snakes", "de/ded/a17743.html#a4245e53260b83f77f9b4313e13f1f7d3", null ],
+    [ "OnCheck", "de/ded/a17743.html#a1bc62ef6dbdb98b9ca8ea3f3bfc742b0", null ]
 ];

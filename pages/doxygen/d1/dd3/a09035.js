@@ -1,10 +1,10 @@
 var a09035 =
 [
-    [ "Index", "d1/dd3/a09035.html#a28b25d822326a1b7d5ec7f95ce084bac", [
-      [ "REGULAR", "d1/dd3/a09035.html#a28b25d822326a1b7d5ec7f95ce084bacaff2524a88b92db0ec25cc1f17b28cf68", null ],
-      [ "ADDON", "d1/dd3/a09035.html#a28b25d822326a1b7d5ec7f95ce084baca0d74e752005cb5fe12644048433ea5cb", null ],
-      [ "MAX", "d1/dd3/a09035.html#a28b25d822326a1b7d5ec7f95ce084baca6ca77c7f76d3ccd18db1d4c0f4e070a5", null ]
-    ] ],
-    [ "Count", "d1/dd3/a09035.html#a0dc1d4dc63d5289fde92bbb2c28a7e2e", null ],
-    [ "Time", "d1/dd3/a09035.html#a20b83dcc96256f2ab16326b2b8ec925e", null ]
+    [ "DuelInfo", "d1/dd3/a09035.html#a183f336e52fe7cdaa34dbb43991d0c39", null ],
+    [ "Initiator", "d1/dd3/a09035.html#ae1a6667f934c88ad8f0b160e6a8b1190", null ],
+    [ "IsMounted", "d1/dd3/a09035.html#ad80e3507a7bdfc8f7dbebd07697c464f", null ],
+    [ "Opponent", "d1/dd3/a09035.html#a2765770367c839ad28f804e2df3205cb", null ],
+    [ "OutOfBoundsTime", "d1/dd3/a09035.html#a8ff9ae1c990674b6ac0cd929f5114f23", null ],
+    [ "StartTime", "d1/dd3/a09035.html#a1b8b4c373b2e4243f8e33a391821528f", null ],
+    [ "State", "d1/dd3/a09035.html#ae8492a9857d819fcec56a10cfd5051e2", null ]
 ];

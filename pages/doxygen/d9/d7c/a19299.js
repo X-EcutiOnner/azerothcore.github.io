@@ -1,8 +1,5 @@
 var a19299 =
 [
-    [ "Class", "d9/d7c/a19299.html#a095390e9023609f5836c4481ed79e1af", null ],
-    [ "cooldown_ms", "d9/d7c/a19299.html#acfcb10f019ebaf4d2130bcdbc059c7e7", null ],
-    [ "id", "d9/d7c/a19299.html#ae9fdf89271339b93f306c4aa0871f844", null ],
-    [ "range", "d9/d7c/a19299.html#aad126da206abceb6a66dcda1cbd3b28b", null ],
-    [ "targetType", "d9/d7c/a19299.html#ae5fc8cb423536f631591d3b72bfd06dd", null ]
+    [ "at_icc_saurfang_portal", "d9/d7c/a19299.html#a7f30058251c520634a0b7bad08380e5d", null ],
+    [ "OnTrigger", "d9/d7c/a19299.html#a8980fe0e67aa33335f0fdb947a294213", null ]
 ];

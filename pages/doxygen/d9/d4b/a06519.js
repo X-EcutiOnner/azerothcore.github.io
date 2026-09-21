@@ -1,7 +1,9 @@
 var a06519 =
 [
-    [ "ReactorAI", "d9/d4b/a06519.html#aaea292c46945399cf7c855e642941c2d", null ],
-    [ "MoveInLineOfSight", "d9/d4b/a06519.html#a224608a62a15d679863d68d7d0e32dde", null ],
-    [ "Permissible", "d9/d4b/a06519.html#a1b0845464b0d356be7bf38e65ab5eb19", null ],
-    [ "UpdateAI", "d9/d4b/a06519.html#a10c4c10d9ac942990d1a1ef9eb6603ad", null ]
+    [ "CasterAI", "d9/d4b/a06519.html#ad91d5c64cbc4d56d9a84aaeb2f64b35e", null ],
+    [ "AttackStart", "d9/d4b/a06519.html#a28386fd1a275c002445e5eaf90314a3d", null ],
+    [ "InitializeAI", "d9/d4b/a06519.html#a2a24cdc24b665c52363dae587572fc4d", null ],
+    [ "JustEngagedWith", "d9/d4b/a06519.html#ad436decd8b3da4323cf3fdb4a9e5a849", null ],
+    [ "UpdateAI", "d9/d4b/a06519.html#a0fa50ac9bd99ff0c2c7e78f03a737090", null ],
+    [ "m_attackDist", "d9/d4b/a06519.html#a561dbc6713a8ec58ef6b23ae4d04d81b", null ]
 ];

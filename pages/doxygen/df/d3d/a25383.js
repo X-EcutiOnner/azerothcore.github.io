@@ -1,7 +1,6 @@
 var a25383 =
 [
-    [ "CheckIfLanceEquipped", "df/d3d/a25383.html#aae1fe4d0329b7a2db5e4f2a28e3f04c5", null ],
-    [ "PrepareSpellScript", "df/d3d/a25383.html#a2af9ee2ccd34c97734c58bfcbb83c8b5", null ],
-    [ "Register", "df/d3d/a25383.html#a4421ceaedce16777f8f04b9c40855782", null ],
-    [ "Validate", "df/d3d/a25383.html#ab0908d7a15e7554c735d8e5554f7cd65", null ]
+    [ "HandleScriptEffect", "df/d3d/a25383.html#a514697f3fdcbf9274453d6d71c0c4816", null ],
+    [ "PrepareSpellScript", "df/d3d/a25383.html#a5bcff624e9a396a2f90115dc99d93ae9", null ],
+    [ "Register", "df/d3d/a25383.html#aebcc23e4f4a1c5ab90fb06a47755ec2b", null ]
 ];

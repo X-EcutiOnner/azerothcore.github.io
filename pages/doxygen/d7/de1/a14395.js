@@ -1,6 +1,5 @@
 var a14395 =
 [
-    [ "go", "d7/de1/a14395.html#ac14168f8c25efe7fa22ec802259b3a11", null ],
-    [ "npc", "d7/de1/a14395.html#a04d6e67fa2fb208ca747798ccc53083d", null ],
-    [ "pos", "d7/de1/a14395.html#a51175880a326101b29879d7a6a62c48d", null ]
+    [ "npc_mikhail", "d7/de1/a14395.html#ab63d49e91b0d4b6ca0f00ff0992f5bad", null ],
+    [ "OnQuestAccept", "d7/de1/a14395.html#a94733a942550f64c741f47e56fd43778", null ]
 ];

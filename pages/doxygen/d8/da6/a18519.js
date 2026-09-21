@@ -1,6 +1,6 @@
 var a18519 =
 [
-    [ "FilterTargets", "d8/da6/a18519.html#aae21b2d9ecc5bfd317f065f1da46b696", null ],
-    [ "PrepareSpellScript", "d8/da6/a18519.html#a2a7e37db10a6f8a6c86af92d7b492a29", null ],
-    [ "Register", "d8/da6/a18519.html#a6e541cad4c831ee2eaf19d72324ec38c", null ]
+    [ "DespawnSelf", "d8/da6/a18519.html#a7009dd0e842898d03caa89e92447749d", null ],
+    [ "PrepareAuraScript", "d8/da6/a18519.html#a00f0379b4e4fadf73bed7d483e406ac5", null ],
+    [ "Register", "d8/da6/a18519.html#a8f21cb8ab1145fe32a78a682445cfc2d", null ]
 ];

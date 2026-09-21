@@ -1,6 +1,7 @@
 var a25083 =
 [
-    [ "PrepareSpellScript", "d2/de1/a25083.html#acfa320b33c00883a78c3696bbbeb7eb0", null ],
-    [ "Register", "d2/de1/a25083.html#a6d251ba1e88d4349dcffa96978389a7f", null ],
-    [ "SelectTarget", "d2/de1/a25083.html#a0d95f8ad8d05d2c0b100dc10988d00c9", null ]
+    [ "HandleProc", "d2/de1/a25083.html#a8cdacf8f2562c0c35fafaa24ac9d18c2", null ],
+    [ "PrepareAuraScript", "d2/de1/a25083.html#a9cc42ed6528e9e6dd253808c59286e02", null ],
+    [ "Register", "d2/de1/a25083.html#a3d4b8bfcc77087533d9bb1b1d5f6f637", null ],
+    [ "Validate", "d2/de1/a25083.html#abe19ae79c5bf1b0104cc3bc16570853a", null ]
 ];

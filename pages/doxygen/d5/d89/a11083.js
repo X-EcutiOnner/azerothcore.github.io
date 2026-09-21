@@ -1,8 +1,7 @@
 var a11083 =
 [
-    [ "GuildCommandResult", "d5/d89/a11083.html#a9b82d7f9fe8f9b42fb4ed74c14cba03d", null ],
-    [ "Write", "d5/d89/a11083.html#a621e211342b3bf9b5de01a9a3b66291b", null ],
-    [ "Command", "d5/d89/a11083.html#a099cf9f39c403f76971d006245b03f29", null ],
-    [ "Name", "d5/d89/a11083.html#a122ee78cb5fc38aa7ecd7a2cad8a33cc", null ],
-    [ "Result", "d5/d89/a11083.html#a8b6b2127aa39807a61bf0cc3cce15921", null ]
+    [ "Emote", "d5/d89/a11083.html#acb1620d125ffb11fe43caf4ebf27d1be", null ],
+    [ "Write", "d5/d89/a11083.html#a3f5532f40b59f47423d2b4e3749da88e", null ],
+    [ "EmoteID", "d5/d89/a11083.html#a7f4d3ee4353b408f8c795e6fdc552e76", null ],
+    [ "Guid", "d5/d89/a11083.html#ab96a1c0933e90872f54eb0995098274a", null ]
 ];

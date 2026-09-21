@@ -1,6 +1,6 @@
 var a00686 =
 [
-    [ "GlobalScript", "d2/d1c/a10849.html", "d2/d1c/a10849" ],
+    [ "GlobalScript", "df/d28/a10859.html", "df/d28/a10859" ],
     [ "GlobalHook", "df/d9e/a00686.html#a9442fcdfa182319eedd41c65183aa54f", [
       [ "GLOBALHOOK_ON_ITEM_DEL_FROM_DB", "df/d9e/a00686.html#a9442fcdfa182319eedd41c65183aa54fa3fee3c5c76e67faee134aa5f3004fb3a", null ],
       [ "GLOBALHOOK_ON_MIRRORIMAGE_DISPLAY_ITEM", "df/d9e/a00686.html#a9442fcdfa182319eedd41c65183aa54fa54996842f471924462c858b424771301", null ],
@@ -23,6 +23,7 @@ var a00686 =
       [ "GLOBALHOOK_ON_INSTANCEID_REMOVED", "df/d9e/a00686.html#a9442fcdfa182319eedd41c65183aa54faca0b78e4f7e01f485fa13984516ad19c", null ],
       [ "GLOBALHOOK_ON_BEFORE_SET_BOSS_STATE", "df/d9e/a00686.html#a9442fcdfa182319eedd41c65183aa54faaa74d1171724a0c0ef83fe371e38b203", null ],
       [ "GLOBALHOOK_AFTER_INSTANCE_GAME_OBJECT_CREATE", "df/d9e/a00686.html#a9442fcdfa182319eedd41c65183aa54faf8f95fca3547e7cb68711a197b935872", null ],
+      [ "GLOBALHOOK_CAN_CREATE_LFG_PROPOSAL", "df/d9e/a00686.html#a9442fcdfa182319eedd41c65183aa54fad0b6e7a19cdc19629565be749f17bbca", null ],
       [ "GLOBALHOOK_END", "df/d9e/a00686.html#a9442fcdfa182319eedd41c65183aa54faaf8763605020a918c2880562446d020a", null ]
     ] ]
 ];

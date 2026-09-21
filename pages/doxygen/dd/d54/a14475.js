@@ -1,6 +1,6 @@
 var a14475 =
 [
-    [ "boss_gahzranka", "dd/d54/a14475.html#a82cc1a44a967f859039957e41f38dd77", null ],
-    [ "IsSummonedBy", "dd/d54/a14475.html#ad68be854f95c398dc5dd9e5b22f538a8", null ],
-    [ "JustEngagedWith", "dd/d54/a14475.html#ac1cc43194c00fda1729f8a068d4e8779", null ]
+    [ "go", "dd/d54/a14475.html#ac14168f8c25efe7fa22ec802259b3a11", null ],
+    [ "npc", "dd/d54/a14475.html#a04d6e67fa2fb208ca747798ccc53083d", null ],
+    [ "pos", "dd/d54/a14475.html#a51175880a326101b29879d7a6a62c48d", null ]
 ];

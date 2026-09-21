@@ -1,6 +1,6 @@
 var a07667 =
 [
-    [ "ArenaTeamFilterByTypes", "d0/d18/a07667.html#ac28ee86767c48219dbe141620c87e129", null ],
-    [ "Filter", "d0/d18/a07667.html#a7c04437788359b40db1c0d4492d51497", null ],
-    [ "_validTypes", "d0/d18/a07667.html#aa3b5ce8932b00b092813af239d83b7d1", null ]
+    [ "attackText", "d0/d18/a07667.html#a9c1319033a432ca0db51a9a1545aa7af", null ],
+    [ "takenText", "d0/d18/a07667.html#a55ccbd94fe08ecc99f5be97b96761f68", null ],
+    [ "worldstate", "d0/d18/a07667.html#a342ef087df4f9326952728c2192a3da3", null ]
 ];

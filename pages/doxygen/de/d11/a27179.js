@@ -1,5 +1,6 @@
 var a27179 =
 [
-    [ "spell_q11515_fel_siphon_dummy", "de/d11/a27179.html#a80fa790a716d1ae950f43f9a298afd66", null ],
-    [ "GetSpellScript", "de/d11/a27179.html#a0d122972fc036d1f1e49c49acda58be3", null ]
+    [ "HandleScriptEffect", "de/d11/a27179.html#ab958c74ba8b40488751e5137eb0b6a66", null ],
+    [ "PrepareSpellScript", "de/d11/a27179.html#a810fcbfe27f3c6991d1c5f599609b6f7", null ],
+    [ "Register", "de/d11/a27179.html#a12c61c9057250f12ea50be74ba74c948", null ]
 ];

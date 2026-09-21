@@ -1,5 +1,12 @@
 var a16435 =
 [
-    [ "achievement_hadronox_denied", "d6/dd9/a16435.html#aeb1dcb0cee9cfe1bd149aa070a9ab7a0", null ],
-    [ "OnCheck", "d6/dd9/a16435.html#a0ee9c8fb90a43bc011c75026d6bcc2e5", null ]
+    [ "npc_taldaram_flamesphere", "d6/dd9/a16435.html#aad7d6696b54e39c6abd27a7252353360", null ],
+    [ "DoAction", "d6/dd9/a16435.html#aa79e370c1c30eccb44a46b622e2d5f2a", null ],
+    [ "IsSummonedBy", "d6/dd9/a16435.html#acb232931bc181eedf4b39d5519dd45e2", null ],
+    [ "MovementInform", "d6/dd9/a16435.html#a785c491b7144420cd4975e62c9a8a711", null ],
+    [ "SetVictimPos", "d6/dd9/a16435.html#a51f1683806095c760d4accff9e23f8b6", null ],
+    [ "UpdateAI", "d6/dd9/a16435.html#a163341c0ff0f56986e2486e06e21b4b2", null ],
+    [ "instance", "d6/dd9/a16435.html#afd0ff83cb5fba1fbeb85b7d600f1b1de", null ],
+    [ "moveTimer", "d6/dd9/a16435.html#afe50ac59ec441ab11745ca9461158a00", null ],
+    [ "victimPos", "d6/dd9/a16435.html#ae681d84f2324faf22296dcb6e08484b0", null ]
 ];

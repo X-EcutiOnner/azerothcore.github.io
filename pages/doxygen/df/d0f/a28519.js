@@ -1,8 +1,5 @@
 var a28519 =
 [
-    [ "npc_franklinAI", "da/dad/a28523.html", "da/dad/a28523" ],
-    [ "npc_franklin", "df/d0f/a28519.html#aab059dfa69e52083892e3170c8838e0a", null ],
-    [ "GetAI", "df/d0f/a28519.html#a10933878afe9d0cc78fa1113341fd522", null ],
-    [ "OnGossipHello", "df/d0f/a28519.html#a318d512914b135800caabe0efbb1c467", null ],
-    [ "OnGossipSelect", "df/d0f/a28519.html#a8c37ff7ff15cc9ac49dadabd1650964d", null ]
+    [ "item_incendiary_explosives", "df/d0f/a28519.html#a3a10f4e40374cae75a5ed320385a67f9", null ],
+    [ "OnUse", "df/d0f/a28519.html#a1e566a6a5b6cfb8b7e331a6ea94f77b4", null ]
 ];

@@ -1,7 +1,7 @@
 var a17879 =
 [
-    [ "HandleDummy", "da/d50/a17879.html#a89c0706f21fe92fd443c3638181044ec", null ],
-    [ "PrepareSpellScript", "da/d50/a17879.html#a957e29d2458fd90228ef9c53e997c642", null ],
-    [ "Register", "da/d50/a17879.html#a250c95310503cd59d73e45a9b9372268", null ],
-    [ "Validate", "da/d50/a17879.html#a1c67a262eb95def51661919a3bad3437", null ]
+    [ "PeriodicTick", "da/d50/a17879.html#af2419a9f9c8706e6b9a090e88f1b6f78", null ],
+    [ "PrepareAuraScript", "da/d50/a17879.html#ac1abcbe62887678adad0194fdf27825a", null ],
+    [ "Register", "da/d50/a17879.html#a9c92c88bf261f1da2143e7dee41a77ec", null ],
+    [ "Validate", "da/d50/a17879.html#ae7526fcf963fe4ea3ab2f1ec7292e8d8", null ]
 ];

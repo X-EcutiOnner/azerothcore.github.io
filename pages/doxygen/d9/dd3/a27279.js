@@ -1,6 +1,6 @@
 var a27279 =
 [
-    [ "PrepareSpellScript", "d9/dd3/a27279.html#a882d87de64d0e2c64b17c26d9e40d616", null ],
-    [ "Register", "d9/dd3/a27279.html#ab58938808e460e843e42f2b6fa644e8a", null ],
-    [ "SetDest", "d9/dd3/a27279.html#ab87932c73a2e53647bda584aeb58f789", null ]
+    [ "HandleDummy", "d9/dd3/a27279.html#a39c913c3e3225a9b27d17d4ceadd3c70", null ],
+    [ "PrepareSpellScript", "d9/dd3/a27279.html#a7936186af106ae3ddeec3bc9b39ff127", null ],
+    [ "Register", "d9/dd3/a27279.html#aa8ce1f0413e19d8f6d403b220fc6749c", null ]
 ];

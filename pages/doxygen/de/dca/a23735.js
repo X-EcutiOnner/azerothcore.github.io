@@ -1,15 +1,14 @@
 var a23735 =
 [
-    [ "npc_shattered_hand_scout", "de/dca/a23735.html#a51a57eaaad75817a9b5a81210e01ed51", null ],
-    [ "DamageTaken", "de/dca/a23735.html#ad37c34ae2dee082f1b4eed90bc4a3618", null ],
-    [ "FireArrows", "de/dca/a23735.html#aa3043011d7d9e7b7c5826b9afc7581d1", null ],
-    [ "GetPorung", "de/dca/a23735.html#a575b12c40aeccd6d0cdd63f71a3b93d6", null ],
-    [ "MoveInLineOfSight", "de/dca/a23735.html#a2ddb6fd6aa6221768ff71257f4bdd81b", null ],
-    [ "MovementInform", "de/dca/a23735.html#a6f6198c2faf68823b1d4c8237044784b", null ],
-    [ "Reset", "de/dca/a23735.html#a1fcf0da2cc4a0554f04b3624b68de598", null ],
-    [ "SetData", "de/dca/a23735.html#a9416dd89c4728538971abc5975c7080f", null ],
-    [ "UpdateAI", "de/dca/a23735.html#a91c2c7eca064d6eaafe5ecaeca4344b4", null ],
-    [ "_firstZealots", "de/dca/a23735.html#a2b5fd63b01e4ecb96b006e3870b37609", null ],
-    [ "_scheduler", "de/dca/a23735.html#a376f6eab11f8399493d5d33b5c4ea35a", null ],
-    [ "_zealotGUIDs", "de/dca/a23735.html#a26381a05bb007fdb4b7da97a19a878da", null ]
+    [ "boss_vazruden", "de/dca/a23735.html#a9908d6082a09d55dd0d8bb801784a151", null ],
+    [ "DamageTaken", "de/dca/a23735.html#a44b1e4d43bbf0d7faec7f4ee277db811", null ],
+    [ "EnterEvadeMode", "de/dca/a23735.html#aba006e8e9aefe522ea5c36c638bb5c3b", null ],
+    [ "JustDied", "de/dca/a23735.html#a525025b41b53a577bdff1eb818191ed7", null ],
+    [ "JustEngagedWith", "de/dca/a23735.html#a5dbbe80fcfe191ac5ae03f943496ad02", null ],
+    [ "KilledUnit", "de/dca/a23735.html#a8f430a0d7edb0285156c6bf68ba0aa07", null ],
+    [ "Reset", "de/dca/a23735.html#a11b5091dafe2f0de9afd81de7b6fde90", null ],
+    [ "UpdateAI", "de/dca/a23735.html#aebaf147a1a2e723cb0cb8e46f3d01e68", null ],
+    [ "_hasSpoken", "de/dca/a23735.html#af5b9aa9c7a343486b4dc05819e8d3ccf", null ],
+    [ "_nazanCalled", "de/dca/a23735.html#a44d53934c743e9beb539681719997852", null ],
+    [ "_scheduler", "de/dca/a23735.html#a60382206e378c2f2c493d1ee25c4ff8c", null ]
 ];

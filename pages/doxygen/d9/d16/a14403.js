@@ -1,22 +1,12 @@
 var a14403 =
 [
-    [ "instance_zulaman_InstanceMapScript", "d9/d16/a14403.html#a55a0c486845dc63865cf557271304c20", null ],
-    [ "CheckInstanceStatus", "d9/d16/a14403.html#a195e4175f943bfaf42ded378cde928e4", null ],
-    [ "DoAction", "d9/d16/a14403.html#ad5eed417fb2a38a1b02bc6275e9f229a", null ],
-    [ "GetData", "d9/d16/a14403.html#ad6c1123183e28dd91f78a993a79bf3e8", null ],
-    [ "Initialize", "d9/d16/a14403.html#a070925eb76b8af866819844411da1beb", null ],
-    [ "OnCreatureCreate", "d9/d16/a14403.html#a92d7ca86c2ecbad6a64a2bc7131b7260", null ],
-    [ "OnCreatureEvade", "d9/d16/a14403.html#a654947f2b1dce457f56327e7dff8ccf4", null ],
-    [ "OnGameObjectCreate", "d9/d16/a14403.html#a4545b6c8ff9e9908466ce105b484ef70", null ],
-    [ "OnPlayerEnter", "d9/d16/a14403.html#a1cf2834e928692c69fdfcf7ae8910745", null ],
-    [ "OnUnitDeath", "d9/d16/a14403.html#a5cb0702b7cad42f0760d360dfc3345f3", null ],
-    [ "ResetAkilzonGauntlet", "d9/d16/a14403.html#a1623080f2466aeca03f048decc34bdb5", null ],
-    [ "SetBossState", "d9/d16/a14403.html#a79b3f358115fecb63e1cfb45801fdffb", null ],
-    [ "SetData", "d9/d16/a14403.html#a7381d84943028f66b339168724b467b8", null ],
-    [ "StartAkilzonGauntlet", "d9/d16/a14403.html#a16b67dce6407db52ec7571c9bbc9f8c5", null ],
-    [ "SummonHostage", "d9/d16/a14403.html#a907b3f4a59cbd366f702daeffe05d607", null ],
-    [ "Update", "d9/d16/a14403.html#a826800c63083d2af31847118c8b05e57", null ],
-    [ "_akilzonGauntlet", "d9/d16/a14403.html#a57cf874e315f0f9686b684151c37e740", null ],
-    [ "AkilzonTrash", "d9/d16/a14403.html#a9f2fc91191dfaac5218f95fed71e2bcf", null ],
-    [ "RandVendor", "d9/d16/a14403.html#ae1e7cad436566533b7673438884e6210", null ]
+    [ "npc_akilzon_eagle", "d9/d16/a14403.html#ad70a735ce3a06f9c92ddb8ef7e5fd595", null ],
+    [ "JustEngagedWith", "d9/d16/a14403.html#aa5c3d77a1086ad90397d47f081b25476", null ],
+    [ "MoveInLineOfSight", "d9/d16/a14403.html#adefd384b8a273ca52343d836a399f3cb", null ],
+    [ "MovementInform", "d9/d16/a14403.html#abf69be0c32356e65e6d451c33fb389f0", null ],
+    [ "Reset", "d9/d16/a14403.html#a8ae0b8115d402671f94aaf27ff83eade", null ],
+    [ "UpdateAI", "d9/d16/a14403.html#a59ef60c0d16eda1b4d78ef964b42211a", null ],
+    [ "arrived", "d9/d16/a14403.html#a918dae0b34b43e10f066d32d5ebe6fcf", null ],
+    [ "EagleSwoop_Timer", "d9/d16/a14403.html#a37a5861ef690729e2a8bfafddce168be", null ],
+    [ "TargetGUID", "d9/d16/a14403.html#a14d4f82f932569d24f6014ad39640619", null ]
 ];

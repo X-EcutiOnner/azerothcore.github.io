@@ -1,6 +1,8 @@
 var a24367 =
 [
-    [ "HandleSendEvent", "d0/d3d/a24367.html#a698e367b59ce770a9b4d9fe6890edf46", null ],
-    [ "PrepareSpellScript", "d0/d3d/a24367.html#aed8815b1d068ba04f12c7714a64af769", null ],
-    [ "Register", "d0/d3d/a24367.html#aa55fa06e76b1f34e319e16984405ed20", null ]
+    [ "CreatureId", "d0/d3d/a24367.html#a127341c70f8785ceb556b1c11b23f477", null ],
+    [ "SpawnCount", "d0/d3d/a24367.html#ad51fb68e41e04490f658a4c4f62612bd", null ],
+    [ "SpawnTimer", "d0/d3d/a24367.html#aa57ff686c5fde12269e231333d8a8bef", null ],
+    [ "UsedSpawnPoint", "d0/d3d/a24367.html#a2d5f42a6b1a309c8db74febcedf457eb", null ],
+    [ "YellTimer", "d0/d3d/a24367.html#a6346259269af7f2936f959f87288dd69", null ]
 ];

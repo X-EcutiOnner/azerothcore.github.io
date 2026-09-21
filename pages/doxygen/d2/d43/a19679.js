@@ -1,8 +1,8 @@
 var a19679 =
 [
-    [ "npc_teslaAI", "d2/d43/a19679.html#a7281220648af1357b1377d6f7874d663", null ],
-    [ "DamageTaken", "d2/d43/a19679.html#aa3ab570e86261bc3178e17109d76af12", null ],
-    [ "EnterEvadeMode", "d2/d43/a19679.html#acc8115216989b34593a9435eeb051eda", null ],
-    [ "JustEngagedWith", "d2/d43/a19679.html#add93f68bc96b3c93dc0a3271543711e6", null ],
-    [ "UpdateAI", "d2/d43/a19679.html#a962745569b07e368067ee483d2379840", null ]
+    [ "boss_maexxna_webwrapAI", "d2/d43/a19679.html#a1423b619676f650f71c8e7215aa2a2b7", null ],
+    [ "IsSummonedBy", "d2/d43/a19679.html#a1d434373ccc7dd54c5de7bc99487170a", null ],
+    [ "JustDied", "d2/d43/a19679.html#a1ed18e791d2a5ae26cd1c2f3cdf37d82", null ],
+    [ "UpdateAI", "d2/d43/a19679.html#a05220fcded67e15bbd94d13d0b9581a2", null ],
+    [ "victimGUID", "d2/d43/a19679.html#a54081ebfc0df639b7e18b5f079802c92", null ]
 ];

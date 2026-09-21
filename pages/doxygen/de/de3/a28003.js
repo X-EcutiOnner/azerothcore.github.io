@@ -1,8 +1,7 @@
 var a28003 =
 [
-    [ "CheckProc", "de/de3/a28003.html#a77739dee36e546ff0e91a2a266a8e107", null ],
-    [ "HandleProc", "de/de3/a28003.html#a2cde3c808e4ad060bb34c30507f210b7", null ],
-    [ "PrepareAuraScript", "de/de3/a28003.html#a796c2a915069385cdca89cf3f7d09c82", null ],
-    [ "Register", "de/de3/a28003.html#af144533458a912ac19c6b772114586cd", null ],
-    [ "Validate", "de/de3/a28003.html#ac6bde14a034888642aa97de6b2d4a21d", null ]
+    [ "HandleDummy", "de/de3/a28003.html#a0eae8fe2faee05bad7a34e84dddd3317", null ],
+    [ "PrepareSpellScript", "de/de3/a28003.html#a24634405a8d0ccdd22f4832815262446", null ],
+    [ "Register", "de/de3/a28003.html#a3394b9b9e5899550251d553ac9f77f8a", null ],
+    [ "Validate", "de/de3/a28003.html#ae56a900b3484fd6397d38c4ad8efe5c2", null ]
 ];

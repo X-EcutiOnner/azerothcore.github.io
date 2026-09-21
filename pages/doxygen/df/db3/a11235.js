@@ -1,6 +1,5 @@
 var a11235 =
 [
-    [ "GuildBankTextQuery", "df/db3/a11235.html#ab74c6b61182349e3697d6b8f2f3393d2", null ],
-    [ "Read", "df/db3/a11235.html#af20bd5c8e58b891028613625fb14807d", null ],
-    [ "Tab", "df/db3/a11235.html#a368054d83fb99317ffd14b4d79ffd0af", null ]
+    [ "GuildLeave", "df/db3/a11235.html#a6a09ab5c50b7185a91e76f428e28f402", null ],
+    [ "Read", "df/db3/a11235.html#a0ea07ca846a92b5357276b5868d98e5f", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: DynamicMapTree Class Reference</title>
+<title>AzerothCore: BIHWrap&lt; T, BoundsFunc &gt; Class Template Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,654 +105,73 @@ $(document).ready(function(){initNavTree('da/d2b/a05283.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
+<a href="#nested-classes">Classes</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pri-types">Private Types</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../d5/de0/a05280.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">DynamicMapTree Class Reference</div></div>
+  <div class="headertitle"><div class="title">BIHWrap&lt; T, BoundsFunc &gt; Class Template Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">DynamicTree.h</a>&quot;</code></p>
-<div class="dynheader">
-Inheritance diagram for DynamicMapTree:</div>
-<div class="dyncontent">
- <div class="center">
-  <img src="../../da/d2b/a05283.png" usemap="#DynamicMapTree_map" alt=""/>
-  <map id="DynamicMapTree_map" name="DynamicMapTree_map">
-<area href="../../d1/d80/a10275.html" alt="DynamicVMapCollisionData" shape="rect" coords="0,56,169,80"/>
-  </map>
-</div></div>
+<p><code>#include &quot;<a class="el" href="../../">BoundingIntervalHierarchyWrapper.h</a>&quot;</code></p>
 <table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dba/a05287.html">MDLCallback</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:ae1abe2e5e0464f2cfc6b87338698983d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d2b/a05283.html#ae1abe2e5e0464f2cfc6b87338698983d">DynamicMapTree</a> ()</td></tr>
-<tr class="separator:ae1abe2e5e0464f2cfc6b87338698983d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6d33c22d53a1c2b8120e80c1f508cfb0"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d2b/a05283.html#a6d33c22d53a1c2b8120e80c1f508cfb0">~DynamicMapTree</a> ()</td></tr>
-<tr class="separator:a6d33c22d53a1c2b8120e80c1f508cfb0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0e585c88cf1f457ad7018ad9c6a4c542"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d2b/a05283.html#a0e585c88cf1f457ad7018ad9c6a4c542">isInLineOfSight</a> (float x1, float y1, float z1, float x2, float y2, float z2, <a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> phasemask, <a class="el" href="../../de/d11/a05095.html#a6996c44f3ac72cd9dc04515186d2da28">VMAP::ModelIgnoreFlags</a> ignoreFlags) const</td></tr>
-<tr class="separator:a0e585c88cf1f457ad7018ad9c6a4c542"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af5d4469071212771367ddd1421b7ca63"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d2b/a05283.html#af5d4469071212771367ddd1421b7ca63">GetIntersectionTime</a> (<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> phasemask, G3D::Ray const &amp;ray, G3D::Vector3 const &amp;endPos, float &amp;maxDist) const</td></tr>
-<tr class="separator:af5d4469071212771367ddd1421b7ca63"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1229eb7e83b481cb72ffc9ae4a3a28a8"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d2b/a05283.html#a1229eb7e83b481cb72ffc9ae4a3a28a8">GetAreaAndLiquidData</a> (float x, float y, float z, <a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> phasemask, <a class="el" href="../../db/d7b/a00296.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; <a class="el" href="../../d8/ddd/a00380.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &gt; reqLiquidType, <a class="el" href="../../d9/dba/a05287.html">VMAP::AreaAndLiquidData</a> &amp;data) const</td></tr>
-<tr class="separator:a1229eb7e83b481cb72ffc9ae4a3a28a8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a23586412c7ada2ad96a772c20c4b56e8"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d2b/a05283.html#a23586412c7ada2ad96a772c20c4b56e8">GetObjectHitPos</a> (<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> phasemask, G3D::Vector3 const &amp;pPos1, G3D::Vector3 const &amp;pPos2, G3D::Vector3 &amp;pResultHitPos, float pModifyDist) const</td></tr>
-<tr class="separator:a23586412c7ada2ad96a772c20c4b56e8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac10680b14e3849bd17926cef24765d9d"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d2b/a05283.html#ac10680b14e3849bd17926cef24765d9d">getHeight</a> (float x, float y, float z, float maxSearchDist, <a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> phasemask) const</td></tr>
-<tr class="separator:ac10680b14e3849bd17926cef24765d9d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5ddd01b0ca8738dc03ecda04ea38b1ed"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d2b/a05283.html#a5ddd01b0ca8738dc03ecda04ea38b1ed">insert</a> (<a class="el" href="../../d7/dd1/a05395.html">GameObjectModel</a> const &amp;)</td></tr>
-<tr class="separator:a5ddd01b0ca8738dc03ecda04ea38b1ed"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae6461c6804c3902df131bbdf2e433e3a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d2b/a05283.html#ae6461c6804c3902df131bbdf2e433e3a">remove</a> (<a class="el" href="../../d7/dd1/a05395.html">GameObjectModel</a> const &amp;)</td></tr>
-<tr class="separator:ae6461c6804c3902df131bbdf2e433e3a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a12091e2b1cf1b5a8cfa4e3942ba750a4"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d2b/a05283.html#a12091e2b1cf1b5a8cfa4e3942ba750a4">contains</a> (<a class="el" href="../../d7/dd1/a05395.html">GameObjectModel</a> const &amp;) const</td></tr>
-<tr class="separator:a12091e2b1cf1b5a8cfa4e3942ba750a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa97347b2172f8f80e360d6fcc132dbd9"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d2b/a05283.html#aa97347b2172f8f80e360d6fcc132dbd9">size</a> () const</td></tr>
-<tr class="separator:aa97347b2172f8f80e360d6fcc132dbd9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1af866551a1ea151551ebb856797528d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d2b/a05283.html#a1af866551a1ea151551ebb856797528d">balance</a> ()</td></tr>
-<tr class="separator:a1af866551a1ea151551ebb856797528d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a97597eac8b03eccf1f61a6f2b0a9e562"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d2b/a05283.html#a97597eac8b03eccf1f61a6f2b0a9e562">update</a> (<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> diff)</td></tr>
-<tr class="separator:a97597eac8b03eccf1f61a6f2b0a9e562"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8572b541e513074132ba0834e081ec05"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d2b/a05283.html#a8572b541e513074132ba0834e081ec05">BIHWrap</a> ()</td></tr>
+<tr class="separator:a8572b541e513074132ba0834e081ec05"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab5b377482daac03312255faf5d173b75"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d2b/a05283.html#ab5b377482daac03312255faf5d173b75">insert</a> (T const &amp;obj)</td></tr>
+<tr class="separator:ab5b377482daac03312255faf5d173b75"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a81e7da32e8ae82caa9a3d40365e0b2dc"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d2b/a05283.html#a81e7da32e8ae82caa9a3d40365e0b2dc">remove</a> (T const &amp;obj)</td></tr>
+<tr class="separator:a81e7da32e8ae82caa9a3d40365e0b2dc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7a191f8c9d3b20807ef1db9be654ccd1"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d2b/a05283.html#a7a191f8c9d3b20807ef1db9be654ccd1">balance</a> ()</td></tr>
+<tr class="separator:a7a191f8c9d3b20807ef1db9be654ccd1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a921d5f32acacedfd7ba37c4c6b66e9bc"><td class="memTemplParams" colspan="2">template&lt;typename RayCallback &gt; </td></tr>
+<tr class="memitem:a921d5f32acacedfd7ba37c4c6b66e9bc"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../da/d2b/a05283.html#a921d5f32acacedfd7ba37c4c6b66e9bc">intersectRay</a> (G3D::Ray const &amp;ray, RayCallback &amp;intersectCallback, float &amp;maxDist, bool stopAtFirstHit)</td></tr>
+<tr class="separator:a921d5f32acacedfd7ba37c4c6b66e9bc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a71bc2800aa6c3cd110ffa71ec840ec3c"><td class="memTemplParams" colspan="2">template&lt;typename IsectCallback &gt; </td></tr>
+<tr class="memitem:a71bc2800aa6c3cd110ffa71ec840ec3c"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../da/d2b/a05283.html#a71bc2800aa6c3cd110ffa71ec840ec3c">intersectPoint</a> (G3D::Vector3 const &amp;point, IsectCallback &amp;intersectCallback)</td></tr>
+<tr class="separator:a71bc2800aa6c3cd110ffa71ec840ec3c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-types" name="pri-types"></a>
+Private Types</h2></td></tr>
+<tr class="memitem:a26c887928a917c2b802fdfe1bb294b9f"><td class="memItemLeft" align="right" valign="top">typedef G3D::Array&lt; T const  * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d2b/a05283.html#a26c887928a917c2b802fdfe1bb294b9f">ObjArray</a></td></tr>
+<tr class="separator:a26c887928a917c2b802fdfe1bb294b9f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:a7d3a6c5c88df501d6d89e917fb44b1d0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d07/a05271.html">DynTreeImpl</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d2b/a05283.html#a7d3a6c5c88df501d6d89e917fb44b1d0">impl</a></td></tr>
-<tr class="separator:a7d3a6c5c88df501d6d89e917fb44b1d0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a13a40cee1097ab0435eb2d50518a41bf"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dad/a05267.html">BIH</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d2b/a05283.html#a13a40cee1097ab0435eb2d50518a41bf">m_tree</a></td></tr>
+<tr class="separator:a13a40cee1097ab0435eb2d50518a41bf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1e3b7eb01db291f5dd7febe7c7198ea3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/d2b/a05283.html#a26c887928a917c2b802fdfe1bb294b9f">ObjArray</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d2b/a05283.html#a1e3b7eb01db291f5dd7febe7c7198ea3">m_objects</a></td></tr>
+<tr class="separator:a1e3b7eb01db291f5dd7febe7c7198ea3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0cbf8645e808e8cd530a8713bf40a746"><td class="memItemLeft" align="right" valign="top">G3D::Table&lt; T const  *, <a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d2b/a05283.html#a0cbf8645e808e8cd530a8713bf40a746">m_obj2Idx</a></td></tr>
+<tr class="separator:a0cbf8645e808e8cd530a8713bf40a746"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acf07d8ffc1e463e23657000025f3a3bb"><td class="memItemLeft" align="right" valign="top">G3D::Set&lt; T const  * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d2b/a05283.html#acf07d8ffc1e463e23657000025f3a3bb">m_objects_to_push</a></td></tr>
+<tr class="separator:acf07d8ffc1e463e23657000025f3a3bb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abc44d55ac155023c2661d2687c068a4b"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d2b/a05283.html#abc44d55ac155023c2661d2687c068a4b">unbalanced_times</a></td></tr>
+<tr class="separator:abc44d55ac155023c2661d2687c068a4b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="ae1abe2e5e0464f2cfc6b87338698983d" name="ae1abe2e5e0464f2cfc6b87338698983d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae1abe2e5e0464f2cfc6b87338698983d">&#9670;&#160;</a></span>DynamicMapTree()</h2>
+<div class="textblock"><div class="compoundTemplParams">template&lt;class T, class BoundsFunc = BoundsTrait&lt;T&gt;&gt;<br />
+class BIHWrap&lt; T, BoundsFunc &gt;</div></div><h2 class="groupheader">Member Typedef Documentation</h2>
+<a id="a26c887928a917c2b802fdfe1bb294b9f" name="a26c887928a917c2b802fdfe1bb294b9f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a26c887928a917c2b802fdfe1bb294b9f">&#9670;&#160;</a></span>ObjArray</h2>
 
 <div class="memitem">
 <div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">DynamicMapTree::DynamicMapTree </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  110</span>: <a class="code hl_variable" href="../../da/d2b/a05283.html#a7d3a6c5c88df501d6d89e917fb44b1d0">impl</a>(<span class="keyword">new</span> <a class="code hl_struct" href="../../de/d07/a05271.html">DynTreeImpl</a>()) { }</div>
-<div class="ttc" id="aa05271_html"><div class="ttname"><a href="../../de/d07/a05271.html">DynTreeImpl</a></div><div class="ttdef"><b>Definition:</b> DynamicTree.cpp:60</div></div>
-<div class="ttc" id="aa05283_html_a7d3a6c5c88df501d6d89e917fb44b1d0"><div class="ttname"><a href="../../da/d2b/a05283.html#a7d3a6c5c88df501d6d89e917fb44b1d0">DynamicMapTree::impl</a></div><div class="ttdeci">DynTreeImpl * impl</div><div class="ttdef"><b>Definition:</b> DynamicTree.h:41</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a6d33c22d53a1c2b8120e80c1f508cfb0" name="a6d33c22d53a1c2b8120e80c1f508cfb0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6d33c22d53a1c2b8120e80c1f508cfb0">&#9670;&#160;</a></span>~DynamicMapTree()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">DynamicMapTree::~DynamicMapTree </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  113</span>{</div>
-<div class="line"><span class="lineno">  114</span>    <span class="keyword">delete</span> <a class="code hl_variable" href="../../da/d2b/a05283.html#a7d3a6c5c88df501d6d89e917fb44b1d0">impl</a>;</div>
-<div class="line"><span class="lineno">  115</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00041">impl</a>.</p>
-
-</div>
-</div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a1af866551a1ea151551ebb856797528d" name="a1af866551a1ea151551ebb856797528d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1af866551a1ea151551ebb856797528d">&#9670;&#160;</a></span>balance()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void DynamicMapTree::balance </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  133</span>{</div>
-<div class="line"><span class="lineno">  134</span>    <a class="code hl_variable" href="../../da/d2b/a05283.html#a7d3a6c5c88df501d6d89e917fb44b1d0">impl</a>-&gt;<a class="code hl_function" href="../../de/d07/a05271.html#a589f4028f0a9dca9901ad77fd71b44db">balance</a>();</div>
-<div class="line"><span class="lineno">  135</span>}</div>
-<div class="ttc" id="aa05271_html_a589f4028f0a9dca9901ad77fd71b44db"><div class="ttname"><a href="../../de/d07/a05271.html#a589f4028f0a9dca9901ad77fd71b44db">DynTreeImpl::balance</a></div><div class="ttdeci">void balance()</div><div class="ttdef"><b>Definition:</b> DynamicTree.cpp:82</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00082">DynTreeImpl::balance()</a>, and <a class="el" href="../../#l00041">impl</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00403">Map::Balance()</a>.</p>
-
-</div>
-</div>
-<a id="a12091e2b1cf1b5a8cfa4e3942ba750a4" name="a12091e2b1cf1b5a8cfa4e3942ba750a4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a12091e2b1cf1b5a8cfa4e3942ba750a4">&#9670;&#160;</a></span>contains()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool DynamicMapTree::contains </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d7/dd1/a05395.html">GameObjectModel</a> const &amp;&#160;</td>
-          <td class="paramname"><em>mdl</em></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  128</span>{</div>
-<div class="line"><span class="lineno">  129</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../da/d2b/a05283.html#a7d3a6c5c88df501d6d89e917fb44b1d0">impl</a>-&gt;<a class="code hl_function" href="../../dc/d83/a05451.html#a13537aa597a1a159bb8a2163476ae025">contains</a>(mdl);</div>
-<div class="line"><span class="lineno">  130</span>}</div>
-<div class="ttc" id="aa05451_html_a13537aa597a1a159bb8a2163476ae025"><div class="ttname"><a href="../../dc/d83/a05451.html#a13537aa597a1a159bb8a2163476ae025">RegularGrid2D::contains</a></div><div class="ttdeci">bool contains(T const &amp;value) const</div><div class="ttdef"><b>Definition:</b> RegularGrid.h:142</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00142">RegularGrid2D&lt; T, Node, NodeCreatorFunc, PositionFunc &gt;::contains()</a>, and <a class="el" href="../../#l00041">impl</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00406">Map::ContainsGameObjectModel()</a>.</p>
-
-</div>
-</div>
-<a id="a1229eb7e83b481cb72ffc9ae4a3a28a8" name="a1229eb7e83b481cb72ffc9ae4a3a28a8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1229eb7e83b481cb72ffc9ae4a3a28a8">&#9670;&#160;</a></span>GetAreaAndLiquidData()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool DynamicMapTree::GetAreaAndLiquidData </td>
-          <td>(</td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>x</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>y</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>z</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>phasemask</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../db/d7b/a00296.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; <a class="el" href="../../d8/ddd/a00380.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &gt;&#160;</td>
-          <td class="paramname"><em>reqLiquidType</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d9/dba/a05287.html">VMAP::AreaAndLiquidData</a> &amp;&#160;</td>
-          <td class="paramname"><em>data</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td> const</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  293</span>{</div>
-<div class="line"><span class="lineno">  294</span>    G3D::Vector3 v(x, y, z + 0.5f);</div>
-<div class="line"><span class="lineno">  295</span>    <a class="code hl_struct" href="../../d5/d60/a05279.html">DynamicTreeLocationInfoCallback</a> intersectionCallBack(phasemask);</div>
-<div class="line"><span class="lineno">  296</span>    <a class="code hl_variable" href="../../da/d2b/a05283.html#a7d3a6c5c88df501d6d89e917fb44b1d0">impl</a>-&gt;<a class="code hl_function" href="../../dc/d83/a05451.html#aa7d8b32137df4b33dfc92e5eeadbb3e2">intersectPoint</a>(v, intersectionCallBack);</div>
-<div class="line"><span class="lineno">  297</span>    <span class="keywordflow">if</span> (intersectionCallBack.GetLocationInfo().hitModel)</div>
-<div class="line"><span class="lineno">  298</span>    {</div>
-<div class="line"><span class="lineno">  299</span>        data.<a class="code hl_variable" href="../../d9/dba/a05287.html#af7c8710b5d296c1d792b4fc34302278f">floorZ</a> = intersectionCallBack.GetLocationInfo().ground_Z;</div>
-<div class="line"><span class="lineno">  300</span>        <a class="code hl_typedef" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> liquidType = intersectionCallBack.GetLocationInfo().hitModel-&gt;GetLiquidType();</div>
-<div class="line"><span class="lineno">  301</span>        <span class="keywordtype">float</span> liquidLevel;</div>
-<div class="line"><span class="lineno">  302</span>        <span class="keywordflow">if</span> (!reqLiquidType || (<span class="keyword">dynamic_cast&lt;</span><a class="code hl_class" href="../../da/d97/a05319.html">VMAP::VMapMgr2</a>*<span class="keyword">&gt;</span>(<a class="code hl_function" href="../../d0/d45/a05315.html#a80f01f24b27dd7a5a795c193d0816624">VMAP::VMapFactory::createOrGetVMapMgr</a>())-&gt;GetLiquidFlagsPtr(liquidType) &amp; *reqLiquidType))</div>
-<div class="line"><span class="lineno">  303</span>            <span class="keywordflow">if</span> (intersectionCallBack.GetHitModel()-&gt;GetLiquidLevel(v, intersectionCallBack.GetLocationInfo(), liquidLevel))</div>
-<div class="line"><span class="lineno">  304</span>                data.<a class="code hl_variable" href="../../d9/dba/a05287.html#ae59e1e7fdf4913c48a0d82e1d19366a7">liquidInfo</a>.emplace(liquidType, liquidLevel);</div>
-<div class="line"><span class="lineno">  305</span> </div>
-<div class="line"><span class="lineno">  306</span>        data.<a class="code hl_variable" href="../../d9/dba/a05287.html#a0d30ac3fa0cefd6eafc1690c75f46f0f">areaInfo</a>.emplace(intersectionCallBack.GetLocationInfo().hitModel-&gt;GetWmoID(),</div>
-<div class="line"><span class="lineno">  307</span>            0,</div>
-<div class="line"><span class="lineno">  308</span>            intersectionCallBack.GetLocationInfo().rootId,</div>
-<div class="line"><span class="lineno">  309</span>            intersectionCallBack.GetLocationInfo().hitModel-&gt;GetMogpFlags(),</div>
-<div class="line"><span class="lineno">  310</span>            0);</div>
-<div class="line"><span class="lineno">  311</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  312</span>    }</div>
-<div class="line"><span class="lineno">  313</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  314</span>}</div>
-<div class="ttc" id="aa00380_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
-<div class="ttc" id="aa05279_html"><div class="ttname"><a href="../../d5/d60/a05279.html">DynamicTreeLocationInfoCallback</a></div><div class="ttdef"><b>Definition:</b> DynamicTree.cpp:174</div></div>
-<div class="ttc" id="aa05287_html_a0d30ac3fa0cefd6eafc1690c75f46f0f"><div class="ttname"><a href="../../d9/dba/a05287.html#a0d30ac3fa0cefd6eafc1690c75f46f0f">VMAP::AreaAndLiquidData::areaInfo</a></div><div class="ttdeci">Optional&lt; AreaInfo &gt; areaInfo</div><div class="ttdef"><b>Definition:</b> IVMapMgr.h:77</div></div>
-<div class="ttc" id="aa05287_html_ae59e1e7fdf4913c48a0d82e1d19366a7"><div class="ttname"><a href="../../d9/dba/a05287.html#ae59e1e7fdf4913c48a0d82e1d19366a7">VMAP::AreaAndLiquidData::liquidInfo</a></div><div class="ttdeci">Optional&lt; LiquidInfo &gt; liquidInfo</div><div class="ttdef"><b>Definition:</b> IVMapMgr.h:78</div></div>
-<div class="ttc" id="aa05287_html_af7c8710b5d296c1d792b4fc34302278f"><div class="ttname"><a href="../../d9/dba/a05287.html#af7c8710b5d296c1d792b4fc34302278f">VMAP::AreaAndLiquidData::floorZ</a></div><div class="ttdeci">float floorZ</div><div class="ttdef"><b>Definition:</b> IVMapMgr.h:76</div></div>
-<div class="ttc" id="aa05315_html_a80f01f24b27dd7a5a795c193d0816624"><div class="ttname"><a href="../../d0/d45/a05315.html#a80f01f24b27dd7a5a795c193d0816624">VMAP::VMapFactory::createOrGetVMapMgr</a></div><div class="ttdeci">static VMapMgr2 * createOrGetVMapMgr()</div><div class="ttdef"><b>Definition:</b> VMapFactory.cpp:27</div></div>
-<div class="ttc" id="aa05319_html"><div class="ttname"><a href="../../da/d97/a05319.html">VMAP::VMapMgr2</a></div><div class="ttdef"><b>Definition:</b> VMapMgr2.h:55</div></div>
-<div class="ttc" id="aa05451_html_aa7d8b32137df4b33dfc92e5eeadbb3e2"><div class="ttname"><a href="../../dc/d83/a05451.html#aa7d8b32137df4b33dfc92e5eeadbb3e2">RegularGrid2D::intersectPoint</a></div><div class="ttdeci">void intersectPoint(G3D::Vector3 const &amp;point, IsectCallback &amp;intersectCallback)</div><div class="ttdef"><b>Definition:</b> RegularGrid.h:264</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00077">VMAP::AreaAndLiquidData::areaInfo</a>, <a class="el" href="../../#l00027">VMAP::VMapFactory::createOrGetVMapMgr()</a>, <a class="el" href="../../#l00076">VMAP::AreaAndLiquidData::floorZ</a>, <a class="el" href="../../#l00188">DynamicTreeLocationInfoCallback::GetHitModel()</a>, <a class="el" href="../../#l00230">GameObjectModel::GetLiquidLevel()</a>, <a class="el" href="../../#l00505">VMAP::GroupModel::GetLiquidType()</a>, <a class="el" href="../../#l00184">DynamicTreeLocationInfoCallback::GetLocationInfo()</a>, <a class="el" href="../../#l00093">VMAP::GroupModel::GetMogpFlags()</a>, <a class="el" href="../../#l00094">VMAP::GroupModel::GetWmoID()</a>, <a class="el" href="../../#l00044">VMAP::LocationInfo::ground_Z</a>, <a class="el" href="../../#l00043">VMAP::LocationInfo::hitModel</a>, <a class="el" href="../../#l00041">impl</a>, <a class="el" href="../../#l00264">RegularGrid2D&lt; T, Node, NodeCreatorFunc, PositionFunc &gt;::intersectPoint()</a>, <a class="el" href="../../#l00078">VMAP::AreaAndLiquidData::liquidInfo</a>, and <a class="el" href="../../#l00045">VMAP::LocationInfo::rootId</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l01221">Map::GetAreaInfo()</a>, and <a class="el" href="../../#l01397">Map::GetFullTerrainStatusForPosition()</a>.</p>
-
-</div>
-</div>
-<a id="ac10680b14e3849bd17926cef24765d9d" name="ac10680b14e3849bd17926cef24765d9d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac10680b14e3849bd17926cef24765d9d">&#9670;&#160;</a></span>getHeight()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">float DynamicMapTree::getHeight </td>
-          <td>(</td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>x</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>y</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>z</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>maxSearchDist</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>phasemask</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td> const</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  276</span>{</div>
-<div class="line"><span class="lineno">  277</span>    G3D::Vector3 v(x, y, z);</div>
-<div class="line"><span class="lineno">  278</span>    G3D::Ray r(v, G3D::Vector3(0, 0, -1));</div>
-<div class="line"><span class="lineno">  279</span>    <a class="code hl_struct" href="../../d1/dd1/a05275.html">DynamicTreeIntersectionCallback</a> callback(phasemask, <a class="code hl_enumvalue" href="../../de/d11/a05095.html#a6996c44f3ac72cd9dc04515186d2da28af80a4ad87fee7c9fdc19b7769495fdb5">VMAP::ModelIgnoreFlags::Nothing</a>);</div>
-<div class="line"><span class="lineno">  280</span>    <a class="code hl_variable" href="../../da/d2b/a05283.html#a7d3a6c5c88df501d6d89e917fb44b1d0">impl</a>-&gt;<a class="code hl_function" href="../../dc/d83/a05451.html#a348dd95fa4e5e96e0a6f07b625b5b9de">intersectZAllignedRay</a>(r, callback, maxSearchDist);</div>
-<div class="line"><span class="lineno">  281</span> </div>
-<div class="line"><span class="lineno">  282</span>    <span class="keywordflow">if</span> (callback.didHit())</div>
-<div class="line"><span class="lineno">  283</span>    {</div>
-<div class="line"><span class="lineno">  284</span>        <span class="keywordflow">return</span> v.z - maxSearchDist;</div>
-<div class="line"><span class="lineno">  285</span>    }</div>
-<div class="line"><span class="lineno">  286</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  287</span>    {</div>
-<div class="line"><span class="lineno">  288</span>        <span class="keywordflow">return</span> -G3D::finf();</div>
-<div class="line"><span class="lineno">  289</span>    }</div>
-<div class="line"><span class="lineno">  290</span>}</div>
-<div class="ttc" id="aa05095_html_a6996c44f3ac72cd9dc04515186d2da28af80a4ad87fee7c9fdc19b7769495fdb5"><div class="ttname"><a href="../../de/d11/a05095.html#a6996c44f3ac72cd9dc04515186d2da28af80a4ad87fee7c9fdc19b7769495fdb5">VMAP::ModelIgnoreFlags::Nothing</a></div><div class="ttdeci">@ Nothing</div></div>
-<div class="ttc" id="aa05275_html"><div class="ttname"><a href="../../d1/dd1/a05275.html">DynamicTreeIntersectionCallback</a></div><div class="ttdef"><b>Definition:</b> DynamicTree.cpp:148</div></div>
-<div class="ttc" id="aa05451_html_a348dd95fa4e5e96e0a6f07b625b5b9de"><div class="ttname"><a href="../../dc/d83/a05451.html#a348dd95fa4e5e96e0a6f07b625b5b9de">RegularGrid2D::intersectZAllignedRay</a></div><div class="ttdeci">void intersectZAllignedRay(G3D::Ray const &amp;ray, RayCallback &amp;intersectCallback, float &amp;max_dist)</div><div class="ttdef"><b>Definition:</b> RegularGrid.h:279</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00162">DynamicTreeIntersectionCallback::didHit()</a>, <a class="el" href="../../#l00041">impl</a>, <a class="el" href="../../#l00279">RegularGrid2D&lt; T, Node, NodeCreatorFunc, PositionFunc &gt;::intersectZAllignedRay()</a>, and <a class="el" href="../../de/d11/a05095.html#a6996c44f3ac72cd9dc04515186d2da28af80a4ad87fee7c9fdc19b7769495fdb5">VMAP::Nothing</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00050">BattlegroundRV::CheckPositionForUnit()</a>, <a class="el" href="../../#l00408">Map::GetGameObjectFloor()</a>, and <a class="el" href="../../#l01585">Map::GetHeight()</a>.</p>
-
-</div>
-</div>
-<a id="af5d4469071212771367ddd1421b7ca63" name="af5d4469071212771367ddd1421b7ca63"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af5d4469071212771367ddd1421b7ca63">&#9670;&#160;</a></span>GetIntersectionTime()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool DynamicMapTree::GetIntersectionTime </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>phasemask</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">G3D::Ray const &amp;&#160;</td>
-          <td class="paramname"><em>ray</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">G3D::Vector3 const &amp;&#160;</td>
-          <td class="paramname"><em>endPos</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float &amp;&#160;</td>
-          <td class="paramname"><em>maxDist</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td> const</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  200</span>{</div>
-<div class="line"><span class="lineno">  201</span>    <span class="keywordtype">float</span> distance = maxDist;</div>
-<div class="line"><span class="lineno">  202</span>    <a class="code hl_struct" href="../../d1/dd1/a05275.html">DynamicTreeIntersectionCallback</a> callback(phasemask, <a class="code hl_enumvalue" href="../../de/d11/a05095.html#a6996c44f3ac72cd9dc04515186d2da28af80a4ad87fee7c9fdc19b7769495fdb5">VMAP::ModelIgnoreFlags::Nothing</a>);</div>
-<div class="line"><span class="lineno">  203</span>    <a class="code hl_variable" href="../../da/d2b/a05283.html#a7d3a6c5c88df501d6d89e917fb44b1d0">impl</a>-&gt;<a class="code hl_function" href="../../dc/d83/a05451.html#acafb43785e676c80176c5623e5710f2c">intersectRay</a>(ray, callback, distance, endPos, <span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">  204</span>    <span class="keywordflow">if</span> (callback.didHit())</div>
-<div class="line"><span class="lineno">  205</span>    {</div>
-<div class="line"><span class="lineno">  206</span>        maxDist = distance;</div>
-<div class="line"><span class="lineno">  207</span>    }</div>
-<div class="line"><span class="lineno">  208</span>    <span class="keywordflow">return</span> callback.didHit();</div>
-<div class="line"><span class="lineno">  209</span>}</div>
-<div class="ttc" id="aa05451_html_acafb43785e676c80176c5623e5710f2c"><div class="ttname"><a href="../../dc/d83/a05451.html#acafb43785e676c80176c5623e5710f2c">RegularGrid2D::intersectRay</a></div><div class="ttdeci">void intersectRay(G3D::Ray const &amp;ray, RayCallback &amp;intersectCallback, float max_dist, bool stopAtFirstHit)</div><div class="ttdef"><b>Definition:</b> RegularGrid.h:176</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00162">DynamicTreeIntersectionCallback::didHit()</a>, <a class="el" href="../../#l00041">impl</a>, <a class="el" href="../../#l00176">RegularGrid2D&lt; T, Node, NodeCreatorFunc, PositionFunc &gt;::intersectRay()</a>, and <a class="el" href="../../de/d11/a05095.html#a6996c44f3ac72cd9dc04515186d2da28af80a4ad87fee7c9fdc19b7769495fdb5">VMAP::Nothing</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00211">GetObjectHitPos()</a>.</p>
-
-</div>
-</div>
-<a id="a23586412c7ada2ad96a772c20c4b56e8" name="a23586412c7ada2ad96a772c20c4b56e8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a23586412c7ada2ad96a772c20c4b56e8">&#9670;&#160;</a></span>GetObjectHitPos()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool DynamicMapTree::GetObjectHitPos </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>phasemask</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">G3D::Vector3 const &amp;&#160;</td>
-          <td class="paramname"><em>pPos1</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">G3D::Vector3 const &amp;&#160;</td>
-          <td class="paramname"><em>pPos2</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">G3D::Vector3 &amp;&#160;</td>
-          <td class="paramname"><em>pResultHitPos</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>pModifyDist</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td> const</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  214</span>{</div>
-<div class="line"><span class="lineno">  215</span>    <span class="keywordtype">bool</span> result = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  216</span>    <span class="keywordtype">float</span> maxDist = (endPos - startPos).magnitude();</div>
-<div class="line"><span class="lineno">  217</span>    <span class="comment">// valid map coords should *never ever* produce float overflow, but this would produce NaNs too</span></div>
-<div class="line"><span class="lineno">  218</span>    <a class="code hl_define" href="../../db/d10/a00350.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(maxDist &lt; std::numeric_limits&lt;float&gt;::max());</div>
-<div class="line"><span class="lineno">  219</span>    <span class="comment">// prevent NaN values which can cause BIH intersection to enter infinite loop</span></div>
-<div class="line"><span class="lineno">  220</span>    <span class="keywordflow">if</span> (maxDist &lt; 1e-10f)</div>
-<div class="line"><span class="lineno">  221</span>    {</div>
-<div class="line"><span class="lineno">  222</span>        resultHit = endPos;</div>
-<div class="line"><span class="lineno">  223</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  224</span>    }</div>
-<div class="line"><span class="lineno">  225</span>    G3D::Vector3 dir = (endPos - startPos) / maxDist;            <span class="comment">// direction with length of 1</span></div>
-<div class="line"><span class="lineno">  226</span>    G3D::Ray ray(startPos, dir);</div>
-<div class="line"><span class="lineno">  227</span>    <span class="keywordtype">float</span> dist = maxDist;</div>
-<div class="line"><span class="lineno">  228</span>    <span class="keywordflow">if</span> (<a class="code hl_function" href="../../da/d2b/a05283.html#af5d4469071212771367ddd1421b7ca63">GetIntersectionTime</a>(phasemask, ray, endPos, dist))</div>
-<div class="line"><span class="lineno">  229</span>    {</div>
-<div class="line"><span class="lineno">  230</span>        resultHit = startPos + dir * dist;</div>
-<div class="line"><span class="lineno">  231</span>        <span class="keywordflow">if</span> (modifyDist &lt; 0)</div>
-<div class="line"><span class="lineno">  232</span>        {</div>
-<div class="line"><span class="lineno">  233</span>            <span class="keywordflow">if</span> ((resultHit - startPos).magnitude() &gt; -modifyDist)</div>
-<div class="line"><span class="lineno">  234</span>            {</div>
-<div class="line"><span class="lineno">  235</span>                resultHit = resultHit + dir * modifyDist;</div>
-<div class="line"><span class="lineno">  236</span>            }</div>
-<div class="line"><span class="lineno">  237</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  238</span>            {</div>
-<div class="line"><span class="lineno">  239</span>                resultHit = startPos;</div>
-<div class="line"><span class="lineno">  240</span>            }</div>
-<div class="line"><span class="lineno">  241</span>        }</div>
-<div class="line"><span class="lineno">  242</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  243</span>        {</div>
-<div class="line"><span class="lineno">  244</span>            resultHit = resultHit + dir * modifyDist;</div>
-<div class="line"><span class="lineno">  245</span>        }</div>
-<div class="line"><span class="lineno">  246</span> </div>
-<div class="line"><span class="lineno">  247</span>        result = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  248</span>    }</div>
-<div class="line"><span class="lineno">  249</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  250</span>    {</div>
-<div class="line"><span class="lineno">  251</span>        resultHit = endPos;</div>
-<div class="line"><span class="lineno">  252</span>        result = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  253</span>    }</div>
-<div class="line"><span class="lineno">  254</span>    <span class="keywordflow">return</span> result;</div>
-<div class="line"><span class="lineno">  255</span>}</div>
-<div class="ttc" id="aa00350_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../db/d10/a00350.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
-<div class="ttc" id="aa05283_html_af5d4469071212771367ddd1421b7ca63"><div class="ttname"><a href="../../da/d2b/a05283.html#af5d4469071212771367ddd1421b7ca63">DynamicMapTree::GetIntersectionTime</a></div><div class="ttdeci">bool GetIntersectionTime(uint32 phasemask, G3D::Ray const &amp;ray, G3D::Vector3 const &amp;endPos, float &amp;maxDist) const</div><div class="ttdef"><b>Definition:</b> DynamicTree.cpp:199</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, and <a class="el" href="../../#l00199">GetIntersectionTime()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00163">DynamicVMapCollisionData::GetObjectHitPos()</a>.</p>
-
-</div>
-</div>
-<a id="a5ddd01b0ca8738dc03ecda04ea38b1ed" name="a5ddd01b0ca8738dc03ecda04ea38b1ed"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5ddd01b0ca8738dc03ecda04ea38b1ed">&#9670;&#160;</a></span>insert()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void DynamicMapTree::insert </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d7/dd1/a05395.html">GameObjectModel</a> const &amp;&#160;</td>
-          <td class="paramname"><em>mdl</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  118</span>{</div>
-<div class="line"><span class="lineno">  119</span>    <a class="code hl_variable" href="../../da/d2b/a05283.html#a7d3a6c5c88df501d6d89e917fb44b1d0">impl</a>-&gt;<a class="code hl_function" href="../../de/d07/a05271.html#a2721bdd7607c7ea2011ee5bb85834682">insert</a>(mdl);</div>
-<div class="line"><span class="lineno">  120</span>}</div>
-<div class="ttc" id="aa05271_html_a2721bdd7607c7ea2011ee5bb85834682"><div class="ttname"><a href="../../de/d07/a05271.html#a2721bdd7607c7ea2011ee5bb85834682">DynTreeImpl::insert</a></div><div class="ttdeci">void insert(Model const &amp;mdl)</div><div class="ttdef"><b>Definition:</b> DynamicTree.cpp:70</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00041">impl</a>, and <a class="el" href="../../#l00070">DynTreeImpl::insert()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00405">Map::InsertGameObjectModel()</a>.</p>
-
-</div>
-</div>
-<a id="a0e585c88cf1f457ad7018ad9c6a4c542" name="a0e585c88cf1f457ad7018ad9c6a4c542"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0e585c88cf1f457ad7018ad9c6a4c542">&#9670;&#160;</a></span>isInLineOfSight()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool DynamicMapTree::isInLineOfSight </td>
-          <td>(</td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>x1</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>y1</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>z1</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>x2</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>y2</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>z2</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>phasemask</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../de/d11/a05095.html#a6996c44f3ac72cd9dc04515186d2da28">VMAP::ModelIgnoreFlags</a>&#160;</td>
-          <td class="paramname"><em>ignoreFlags</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td> const</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  258</span>{</div>
-<div class="line"><span class="lineno">  259</span>    G3D::Vector3 v1(x1, y1, z1), v2(x2, y2, z2);</div>
-<div class="line"><span class="lineno">  260</span> </div>
-<div class="line"><span class="lineno">  261</span>    <span class="keywordtype">float</span> maxDist = (v2 - v1).magnitude();</div>
-<div class="line"><span class="lineno">  262</span> </div>
-<div class="line"><span class="lineno">  263</span>    <span class="keywordflow">if</span> (!G3D::fuzzyGt(maxDist, 0))</div>
-<div class="line"><span class="lineno">  264</span>    {</div>
-<div class="line"><span class="lineno">  265</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  266</span>    }</div>
-<div class="line"><span class="lineno">  267</span> </div>
-<div class="line"><span class="lineno">  268</span>    G3D::Ray r(v1, (v2 - v1) / maxDist);</div>
-<div class="line"><span class="lineno">  269</span>    <a class="code hl_struct" href="../../d1/dd1/a05275.html">DynamicTreeIntersectionCallback</a> callback(phasemask, ignoreFlags);</div>
-<div class="line"><span class="lineno">  270</span>    <a class="code hl_variable" href="../../da/d2b/a05283.html#a7d3a6c5c88df501d6d89e917fb44b1d0">impl</a>-&gt;<a class="code hl_function" href="../../dc/d83/a05451.html#acafb43785e676c80176c5623e5710f2c">intersectRay</a>(r, callback, maxDist, v2, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  271</span> </div>
-<div class="line"><span class="lineno">  272</span>    <span class="keywordflow">return</span> !callback.didHit();</div>
-<div class="line"><span class="lineno">  273</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00162">DynamicTreeIntersectionCallback::didHit()</a>, <a class="el" href="../../#l00041">impl</a>, and <a class="el" href="../../#l00176">RegularGrid2D&lt; T, Node, NodeCreatorFunc, PositionFunc &gt;::intersectRay()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l01545">Map::isInLineOfSight()</a>.</p>
-
-</div>
-</div>
-<a id="ae6461c6804c3902df131bbdf2e433e3a" name="ae6461c6804c3902df131bbdf2e433e3a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae6461c6804c3902df131bbdf2e433e3a">&#9670;&#160;</a></span>remove()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void DynamicMapTree::remove </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d7/dd1/a05395.html">GameObjectModel</a> const &amp;&#160;</td>
-          <td class="paramname"><em>mdl</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  123</span>{</div>
-<div class="line"><span class="lineno">  124</span>    <a class="code hl_variable" href="../../da/d2b/a05283.html#a7d3a6c5c88df501d6d89e917fb44b1d0">impl</a>-&gt;<a class="code hl_function" href="../../de/d07/a05271.html#aa3b43f6e23e30ac90ce55c8c88bf4a61">remove</a>(mdl);</div>
-<div class="line"><span class="lineno">  125</span>}</div>
-<div class="ttc" id="aa05271_html_aa3b43f6e23e30ac90ce55c8c88bf4a61"><div class="ttname"><a href="../../de/d07/a05271.html#aa3b43f6e23e30ac90ce55c8c88bf4a61">DynTreeImpl::remove</a></div><div class="ttdeci">void remove(Model const &amp;mdl)</div><div class="ttdef"><b>Definition:</b> DynamicTree.cpp:76</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00041">impl</a>, and <a class="el" href="../../#l00076">DynTreeImpl::remove()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00404">Map::RemoveGameObjectModel()</a>.</p>
-
-</div>
-</div>
-<a id="aa97347b2172f8f80e360d6fcc132dbd9" name="aa97347b2172f8f80e360d6fcc132dbd9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa97347b2172f8f80e360d6fcc132dbd9">&#9670;&#160;</a></span>size()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">int DynamicMapTree::size </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  138</span>{</div>
-<div class="line"><span class="lineno">  139</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../da/d2b/a05283.html#a7d3a6c5c88df501d6d89e917fb44b1d0">impl</a>-&gt;<a class="code hl_function" href="../../dc/d83/a05451.html#a6e7ce25838521cf8dde65aa6f70f404f">size</a>();</div>
-<div class="line"><span class="lineno">  140</span>}</div>
-<div class="ttc" id="aa05451_html_a6e7ce25838521cf8dde65aa6f70f404f"><div class="ttname"><a href="../../dc/d83/a05451.html#a6e7ce25838521cf8dde65aa6f70f404f">RegularGrid2D::size</a></div><div class="ttdeci">int size() const</div><div class="ttdef"><b>Definition:</b> RegularGrid.h:143</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00041">impl</a>, and <a class="el" href="../../#l00143">RegularGrid2D&lt; T, Node, NodeCreatorFunc, PositionFunc &gt;::size()</a>.</p>
-
-</div>
-</div>
-<a id="a97597eac8b03eccf1f61a6f2b0a9e562" name="a97597eac8b03eccf1f61a6f2b0a9e562"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a97597eac8b03eccf1f61a6f2b0a9e562">&#9670;&#160;</a></span>update()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void DynamicMapTree::update </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>diff</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  143</span>{</div>
-<div class="line"><span class="lineno">  144</span>    <a class="code hl_variable" href="../../da/d2b/a05283.html#a7d3a6c5c88df501d6d89e917fb44b1d0">impl</a>-&gt;<a class="code hl_function" href="../../de/d07/a05271.html#ae41bd2b901a27801da839c3345e8a2ed">update</a>(t_diff);</div>
-<div class="line"><span class="lineno">  145</span>}</div>
-<div class="ttc" id="aa05271_html_ae41bd2b901a27801da839c3345e8a2ed"><div class="ttname"><a href="../../de/d07/a05271.html#ae41bd2b901a27801da839c3345e8a2ed">DynTreeImpl::update</a></div><div class="ttdeci">void update(uint32 difftime)</div><div class="ttdef"><b>Definition:</b> DynamicTree.cpp:88</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00041">impl</a>, and <a class="el" href="../../#l00088">DynTreeImpl::update()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00436">Map::Update()</a>.</p>
-
-</div>
-</div>
-<h2 class="groupheader">Member Data Documentation</h2>
-<a id="a7d3a6c5c88df501d6d89e917fb44b1d0" name="a7d3a6c5c88df501d6d89e917fb44b1d0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7d3a6c5c88df501d6d89e917fb44b1d0">&#9670;&#160;</a></span>impl</h2>
-
-<div class="memitem">
-<div class="memproto">
+<div class="memtemplate">
+template&lt;class T , class BoundsFunc  = BoundsTrait&lt;T&gt;&gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../de/d07/a05271.html">DynTreeImpl</a>* DynamicMapTree::impl</td>
+          <td class="memname">typedef G3D::Array&lt;T const*&gt; <a class="el" href="../../da/d2b/a05283.html">BIHWrap</a>&lt; T, BoundsFunc &gt;::ObjArray</td>
         </tr>
       </table>
   </td>
@@ -762,7 +181,404 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00132">balance()</a>, <a class="el" href="../../#l00127">contains()</a>, <a class="el" href="../../#l00292">GetAreaAndLiquidData()</a>, <a class="el" href="../../#l00275">getHeight()</a>, <a class="el" href="../../#l00199">GetIntersectionTime()</a>, <a class="el" href="../../#l00117">insert()</a>, <a class="el" href="../../#l00257">isInLineOfSight()</a>, <a class="el" href="../../#l00122">remove()</a>, <a class="el" href="../../#l00137">size()</a>, <a class="el" href="../../#l00142">update()</a>, and <a class="el" href="../../#l00112">~DynamicMapTree()</a>.</p>
+</div>
+</div>
+<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a8572b541e513074132ba0834e081ec05" name="a8572b541e513074132ba0834e081ec05"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8572b541e513074132ba0834e081ec05">&#9670;&#160;</a></span>BIHWrap()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T , class BoundsFunc  = BoundsTrait&lt;T&gt;&gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../da/d2b/a05283.html">BIHWrap</a>&lt; T, BoundsFunc &gt;<a class="el" href="../../da/d2b/a05283.html">::BIHWrap</a> </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   75</span>: <a class="code hl_variable" href="../../da/d2b/a05283.html#abc44d55ac155023c2661d2687c068a4b">unbalanced_times</a>(0) { }</div>
+<div class="ttc" id="aa05283_html_abc44d55ac155023c2661d2687c068a4b"><div class="ttname"><a href="../../da/d2b/a05283.html#abc44d55ac155023c2661d2687c068a4b">BIHWrap::unbalanced_times</a></div><div class="ttdeci">int unbalanced_times</div><div class="ttdef"><b>Definition:</b> BoundingIntervalHierarchyWrapper.h:72</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a7a191f8c9d3b20807ef1db9be654ccd1" name="a7a191f8c9d3b20807ef1db9be654ccd1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7a191f8c9d3b20807ef1db9be654ccd1">&#9670;&#160;</a></span>balance()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T , class BoundsFunc  = BoundsTrait&lt;T&gt;&gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void <a class="el" href="../../da/d2b/a05283.html">BIHWrap</a>&lt; T, BoundsFunc &gt;::balance </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   99</span>    {</div>
+<div class="line"><span class="lineno">  100</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../da/d2b/a05283.html#abc44d55ac155023c2661d2687c068a4b">unbalanced_times</a> == 0)</div>
+<div class="line"><span class="lineno">  101</span>        {</div>
+<div class="line"><span class="lineno">  102</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  103</span>        }</div>
+<div class="line"><span class="lineno">  104</span> </div>
+<div class="line"><span class="lineno">  105</span>        <a class="code hl_variable" href="../../da/d2b/a05283.html#abc44d55ac155023c2661d2687c068a4b">unbalanced_times</a> = 0;</div>
+<div class="line"><span class="lineno">  106</span>        <a class="code hl_variable" href="../../da/d2b/a05283.html#a1e3b7eb01db291f5dd7febe7c7198ea3">m_objects</a>.fastClear();</div>
+<div class="line"><span class="lineno">  107</span>        <a class="code hl_variable" href="../../da/d2b/a05283.html#a0cbf8645e808e8cd530a8713bf40a746">m_obj2Idx</a>.getKeys(<a class="code hl_variable" href="../../da/d2b/a05283.html#a1e3b7eb01db291f5dd7febe7c7198ea3">m_objects</a>);</div>
+<div class="line"><span class="lineno">  108</span>        <a class="code hl_variable" href="../../da/d2b/a05283.html#acf07d8ffc1e463e23657000025f3a3bb">m_objects_to_push</a>.getMembers(<a class="code hl_variable" href="../../da/d2b/a05283.html#a1e3b7eb01db291f5dd7febe7c7198ea3">m_objects</a>);</div>
+<div class="line"><span class="lineno">  109</span>        <span class="comment">//assert that m_obj2Idx has all the keys</span></div>
+<div class="line"><span class="lineno">  110</span> </div>
+<div class="line"><span class="lineno">  111</span>        <a class="code hl_variable" href="../../da/d2b/a05283.html#a13a40cee1097ab0435eb2d50518a41bf">m_tree</a>.<a class="code hl_function" href="../../d1/dad/a05267.html#a75781bb71c7f9e63fc45708b74d10fec">build</a>(<a class="code hl_variable" href="../../da/d2b/a05283.html#a1e3b7eb01db291f5dd7febe7c7198ea3">m_objects</a>, BoundsFunc::GetBounds2);</div>
+<div class="line"><span class="lineno">  112</span>    }</div>
+<div class="ttc" id="aa05267_html_a75781bb71c7f9e63fc45708b74d10fec"><div class="ttname"><a href="../../d1/dad/a05267.html#a75781bb71c7f9e63fc45708b74d10fec">BIH::build</a></div><div class="ttdeci">void build(PrimArray const &amp;primitives, BoundsFunc &amp;GetBounds, uint32 leafSize=3, bool printStats=false)</div><div class="ttdef"><b>Definition:</b> BoundingIntervalHierarchy.h:81</div></div>
+<div class="ttc" id="aa05283_html_a0cbf8645e808e8cd530a8713bf40a746"><div class="ttname"><a href="../../da/d2b/a05283.html#a0cbf8645e808e8cd530a8713bf40a746">BIHWrap::m_obj2Idx</a></div><div class="ttdeci">G3D::Table&lt; T const  *, uint32 &gt; m_obj2Idx</div><div class="ttdef"><b>Definition:</b> BoundingIntervalHierarchyWrapper.h:70</div></div>
+<div class="ttc" id="aa05283_html_a13a40cee1097ab0435eb2d50518a41bf"><div class="ttname"><a href="../../da/d2b/a05283.html#a13a40cee1097ab0435eb2d50518a41bf">BIHWrap::m_tree</a></div><div class="ttdeci">BIH m_tree</div><div class="ttdef"><b>Definition:</b> BoundingIntervalHierarchyWrapper.h:68</div></div>
+<div class="ttc" id="aa05283_html_a1e3b7eb01db291f5dd7febe7c7198ea3"><div class="ttname"><a href="../../da/d2b/a05283.html#a1e3b7eb01db291f5dd7febe7c7198ea3">BIHWrap::m_objects</a></div><div class="ttdeci">ObjArray m_objects</div><div class="ttdef"><b>Definition:</b> BoundingIntervalHierarchyWrapper.h:69</div></div>
+<div class="ttc" id="aa05283_html_acf07d8ffc1e463e23657000025f3a3bb"><div class="ttname"><a href="../../da/d2b/a05283.html#acf07d8ffc1e463e23657000025f3a3bb">BIHWrap::m_objects_to_push</a></div><div class="ttdeci">G3D::Set&lt; T const  * &gt; m_objects_to_push</div><div class="ttdef"><b>Definition:</b> BoundingIntervalHierarchyWrapper.h:71</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00081">BIH::build()</a>, <a class="el" href="../../#l00070">BIHWrap&lt; T, BoundsFunc &gt;::m_obj2Idx</a>, <a class="el" href="../../#l00069">BIHWrap&lt; T, BoundsFunc &gt;::m_objects</a>, <a class="el" href="../../#l00071">BIHWrap&lt; T, BoundsFunc &gt;::m_objects_to_push</a>, <a class="el" href="../../#l00068">BIHWrap&lt; T, BoundsFunc &gt;::m_tree</a>, and <a class="el" href="../../#l00072">BIHWrap&lt; T, BoundsFunc &gt;::unbalanced_times</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00123">BIHWrap&lt; T, BoundsFunc &gt;::intersectPoint()</a>, and <a class="el" href="../../#l00115">BIHWrap&lt; T, BoundsFunc &gt;::intersectRay()</a>.</p>
+
+</div>
+</div>
+<a id="ab5b377482daac03312255faf5d173b75" name="ab5b377482daac03312255faf5d173b75"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab5b377482daac03312255faf5d173b75">&#9670;&#160;</a></span>insert()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T , class BoundsFunc  = BoundsTrait&lt;T&gt;&gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void <a class="el" href="../../da/d2b/a05283.html">BIHWrap</a>&lt; T, BoundsFunc &gt;::insert </td>
+          <td>(</td>
+          <td class="paramtype">T const &amp;&#160;</td>
+          <td class="paramname"><em>obj</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   78</span>    {</div>
+<div class="line"><span class="lineno">   79</span>        ++<a class="code hl_variable" href="../../da/d2b/a05283.html#abc44d55ac155023c2661d2687c068a4b">unbalanced_times</a>;</div>
+<div class="line"><span class="lineno">   80</span>        <a class="code hl_variable" href="../../da/d2b/a05283.html#acf07d8ffc1e463e23657000025f3a3bb">m_objects_to_push</a>.insert(&amp;obj);</div>
+<div class="line"><span class="lineno">   81</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00071">BIHWrap&lt; T, BoundsFunc &gt;::m_objects_to_push</a>, and <a class="el" href="../../#l00072">BIHWrap&lt; T, BoundsFunc &gt;::unbalanced_times</a>.</p>
+
+</div>
+</div>
+<a id="a71bc2800aa6c3cd110ffa71ec840ec3c" name="a71bc2800aa6c3cd110ffa71ec840ec3c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a71bc2800aa6c3cd110ffa71ec840ec3c">&#9670;&#160;</a></span>intersectPoint()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T , class BoundsFunc  = BoundsTrait&lt;T&gt;&gt; </div>
+<div class="memtemplate">
+template&lt;typename IsectCallback &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void <a class="el" href="../../da/d2b/a05283.html">BIHWrap</a>&lt; T, BoundsFunc &gt;::intersectPoint </td>
+          <td>(</td>
+          <td class="paramtype">G3D::Vector3 const &amp;&#160;</td>
+          <td class="paramname"><em>point</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">IsectCallback &amp;&#160;</td>
+          <td class="paramname"><em>intersectCallback</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  124</span>    {</div>
+<div class="line"><span class="lineno">  125</span>        <a class="code hl_function" href="../../da/d2b/a05283.html#a7a191f8c9d3b20807ef1db9be654ccd1">balance</a>();</div>
+<div class="line"><span class="lineno">  126</span>        MDLCallback&lt;IsectCallback&gt; callback(intersectCallback, <a class="code hl_variable" href="../../da/d2b/a05283.html#a1e3b7eb01db291f5dd7febe7c7198ea3">m_objects</a>.getCArray(), <a class="code hl_variable" href="../../da/d2b/a05283.html#a1e3b7eb01db291f5dd7febe7c7198ea3">m_objects</a>.size());</div>
+<div class="line"><span class="lineno">  127</span>        <a class="code hl_variable" href="../../da/d2b/a05283.html#a13a40cee1097ab0435eb2d50518a41bf">m_tree</a>.<a class="code hl_function" href="../../d1/dad/a05267.html#aaf6e9dc5afbd32e0f4c7e77de463d0da">intersectPoint</a>(point, callback);</div>
+<div class="line"><span class="lineno">  128</span>    }</div>
+<div class="ttc" id="aa05267_html_aaf6e9dc5afbd32e0f4c7e77de463d0da"><div class="ttname"><a href="../../d1/dad/a05267.html#aaf6e9dc5afbd32e0f4c7e77de463d0da">BIH::intersectPoint</a></div><div class="ttdeci">void intersectPoint(G3D::Vector3 const &amp;p, IsectCallback &amp;intersectCallback) const</div><div class="ttdef"><b>Definition:</b> BoundingIntervalHierarchy.h:286</div></div>
+<div class="ttc" id="aa05283_html_a7a191f8c9d3b20807ef1db9be654ccd1"><div class="ttname"><a href="../../da/d2b/a05283.html#a7a191f8c9d3b20807ef1db9be654ccd1">BIHWrap::balance</a></div><div class="ttdeci">void balance()</div><div class="ttdef"><b>Definition:</b> BoundingIntervalHierarchyWrapper.h:98</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00098">BIHWrap&lt; T, BoundsFunc &gt;::balance()</a>, <a class="el" href="../../#l00286">BIH::intersectPoint()</a>, <a class="el" href="../../#l00069">BIHWrap&lt; T, BoundsFunc &gt;::m_objects</a>, and <a class="el" href="../../#l00068">BIHWrap&lt; T, BoundsFunc &gt;::m_tree</a>.</p>
+
+</div>
+</div>
+<a id="a921d5f32acacedfd7ba37c4c6b66e9bc" name="a921d5f32acacedfd7ba37c4c6b66e9bc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a921d5f32acacedfd7ba37c4c6b66e9bc">&#9670;&#160;</a></span>intersectRay()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T , class BoundsFunc  = BoundsTrait&lt;T&gt;&gt; </div>
+<div class="memtemplate">
+template&lt;typename RayCallback &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void <a class="el" href="../../da/d2b/a05283.html">BIHWrap</a>&lt; T, BoundsFunc &gt;::intersectRay </td>
+          <td>(</td>
+          <td class="paramtype">G3D::Ray const &amp;&#160;</td>
+          <td class="paramname"><em>ray</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">RayCallback &amp;&#160;</td>
+          <td class="paramname"><em>intersectCallback</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float &amp;&#160;</td>
+          <td class="paramname"><em>maxDist</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>stopAtFirstHit</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  116</span>    {</div>
+<div class="line"><span class="lineno">  117</span>        <a class="code hl_function" href="../../da/d2b/a05283.html#a7a191f8c9d3b20807ef1db9be654ccd1">balance</a>();</div>
+<div class="line"><span class="lineno">  118</span>        MDLCallback&lt;RayCallback&gt; temp_cb(intersectCallback, <a class="code hl_variable" href="../../da/d2b/a05283.html#a1e3b7eb01db291f5dd7febe7c7198ea3">m_objects</a>.getCArray(), <a class="code hl_variable" href="../../da/d2b/a05283.html#a1e3b7eb01db291f5dd7febe7c7198ea3">m_objects</a>.size());</div>
+<div class="line"><span class="lineno">  119</span>        <a class="code hl_variable" href="../../da/d2b/a05283.html#a13a40cee1097ab0435eb2d50518a41bf">m_tree</a>.<a class="code hl_function" href="../../d1/dad/a05267.html#aaadd241734ed9ad9b7464ae39911bcb2">intersectRay</a>(ray, temp_cb, maxDist, stopAtFirstHit);</div>
+<div class="line"><span class="lineno">  120</span>    }</div>
+<div class="ttc" id="aa05267_html_aaadd241734ed9ad9b7464ae39911bcb2"><div class="ttname"><a href="../../d1/dad/a05267.html#aaadd241734ed9ad9b7464ae39911bcb2">BIH::intersectRay</a></div><div class="ttdeci">void intersectRay(G3D::Ray const &amp;r, RayCallback &amp;intersectCallback, float &amp;maxDist, bool stopAtFirstHit) const</div><div class="ttdef"><b>Definition:</b> BoundingIntervalHierarchy.h:123</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00098">BIHWrap&lt; T, BoundsFunc &gt;::balance()</a>, <a class="el" href="../../#l00123">BIH::intersectRay()</a>, <a class="el" href="../../#l00069">BIHWrap&lt; T, BoundsFunc &gt;::m_objects</a>, and <a class="el" href="../../#l00068">BIHWrap&lt; T, BoundsFunc &gt;::m_tree</a>.</p>
+
+</div>
+</div>
+<a id="a81e7da32e8ae82caa9a3d40365e0b2dc" name="a81e7da32e8ae82caa9a3d40365e0b2dc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a81e7da32e8ae82caa9a3d40365e0b2dc">&#9670;&#160;</a></span>remove()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T , class BoundsFunc  = BoundsTrait&lt;T&gt;&gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void <a class="el" href="../../da/d2b/a05283.html">BIHWrap</a>&lt; T, BoundsFunc &gt;::remove </td>
+          <td>(</td>
+          <td class="paramtype">T const &amp;&#160;</td>
+          <td class="paramname"><em>obj</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   84</span>    {</div>
+<div class="line"><span class="lineno">   85</span>        ++<a class="code hl_variable" href="../../da/d2b/a05283.html#abc44d55ac155023c2661d2687c068a4b">unbalanced_times</a>;</div>
+<div class="line"><span class="lineno">   86</span>        <a class="code hl_typedef" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> Idx = 0;</div>
+<div class="line"><span class="lineno">   87</span>        T <span class="keyword">const</span>* temp;</div>
+<div class="line"><span class="lineno">   88</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../da/d2b/a05283.html#a0cbf8645e808e8cd530a8713bf40a746">m_obj2Idx</a>.getRemove(&amp;obj, temp, Idx))</div>
+<div class="line"><span class="lineno">   89</span>        {</div>
+<div class="line"><span class="lineno">   90</span>            <a class="code hl_variable" href="../../da/d2b/a05283.html#a1e3b7eb01db291f5dd7febe7c7198ea3">m_objects</a>[Idx] = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">   91</span>        }</div>
+<div class="line"><span class="lineno">   92</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">   93</span>        {</div>
+<div class="line"><span class="lineno">   94</span>            <a class="code hl_variable" href="../../da/d2b/a05283.html#acf07d8ffc1e463e23657000025f3a3bb">m_objects_to_push</a>.remove(&amp;obj);</div>
+<div class="line"><span class="lineno">   95</span>        }</div>
+<div class="line"><span class="lineno">   96</span>    }</div>
+<div class="ttc" id="aa04679_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00070">BIHWrap&lt; T, BoundsFunc &gt;::m_obj2Idx</a>, <a class="el" href="../../#l00069">BIHWrap&lt; T, BoundsFunc &gt;::m_objects</a>, <a class="el" href="../../#l00071">BIHWrap&lt; T, BoundsFunc &gt;::m_objects_to_push</a>, and <a class="el" href="../../#l00072">BIHWrap&lt; T, BoundsFunc &gt;::unbalanced_times</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="a0cbf8645e808e8cd530a8713bf40a746" name="a0cbf8645e808e8cd530a8713bf40a746"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0cbf8645e808e8cd530a8713bf40a746">&#9670;&#160;</a></span>m_obj2Idx</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T , class BoundsFunc  = BoundsTrait&lt;T&gt;&gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">G3D::Table&lt;T const*, <a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt; <a class="el" href="../../da/d2b/a05283.html">BIHWrap</a>&lt; T, BoundsFunc &gt;::m_obj2Idx</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00098">BIHWrap&lt; T, BoundsFunc &gt;::balance()</a>, and <a class="el" href="../../#l00083">BIHWrap&lt; T, BoundsFunc &gt;::remove()</a>.</p>
+
+</div>
+</div>
+<a id="a1e3b7eb01db291f5dd7febe7c7198ea3" name="a1e3b7eb01db291f5dd7febe7c7198ea3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1e3b7eb01db291f5dd7febe7c7198ea3">&#9670;&#160;</a></span>m_objects</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T , class BoundsFunc  = BoundsTrait&lt;T&gt;&gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../da/d2b/a05283.html#a26c887928a917c2b802fdfe1bb294b9f">ObjArray</a> <a class="el" href="../../da/d2b/a05283.html">BIHWrap</a>&lt; T, BoundsFunc &gt;::m_objects</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00098">BIHWrap&lt; T, BoundsFunc &gt;::balance()</a>, <a class="el" href="../../#l00123">BIHWrap&lt; T, BoundsFunc &gt;::intersectPoint()</a>, <a class="el" href="../../#l00115">BIHWrap&lt; T, BoundsFunc &gt;::intersectRay()</a>, and <a class="el" href="../../#l00083">BIHWrap&lt; T, BoundsFunc &gt;::remove()</a>.</p>
+
+</div>
+</div>
+<a id="acf07d8ffc1e463e23657000025f3a3bb" name="acf07d8ffc1e463e23657000025f3a3bb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acf07d8ffc1e463e23657000025f3a3bb">&#9670;&#160;</a></span>m_objects_to_push</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T , class BoundsFunc  = BoundsTrait&lt;T&gt;&gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">G3D::Set&lt;T const*&gt; <a class="el" href="../../da/d2b/a05283.html">BIHWrap</a>&lt; T, BoundsFunc &gt;::m_objects_to_push</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00098">BIHWrap&lt; T, BoundsFunc &gt;::balance()</a>, <a class="el" href="../../#l00077">BIHWrap&lt; T, BoundsFunc &gt;::insert()</a>, and <a class="el" href="../../#l00083">BIHWrap&lt; T, BoundsFunc &gt;::remove()</a>.</p>
+
+</div>
+</div>
+<a id="a13a40cee1097ab0435eb2d50518a41bf" name="a13a40cee1097ab0435eb2d50518a41bf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a13a40cee1097ab0435eb2d50518a41bf">&#9670;&#160;</a></span>m_tree</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T , class BoundsFunc  = BoundsTrait&lt;T&gt;&gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d1/dad/a05267.html">BIH</a> <a class="el" href="../../da/d2b/a05283.html">BIHWrap</a>&lt; T, BoundsFunc &gt;::m_tree</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00098">BIHWrap&lt; T, BoundsFunc &gt;::balance()</a>, <a class="el" href="../../#l00123">BIHWrap&lt; T, BoundsFunc &gt;::intersectPoint()</a>, and <a class="el" href="../../#l00115">BIHWrap&lt; T, BoundsFunc &gt;::intersectRay()</a>.</p>
+
+</div>
+</div>
+<a id="abc44d55ac155023c2661d2687c068a4b" name="abc44d55ac155023c2661d2687c068a4b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abc44d55ac155023c2661d2687c068a4b">&#9670;&#160;</a></span>unbalanced_times</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T , class BoundsFunc  = BoundsTrait&lt;T&gt;&gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int <a class="el" href="../../da/d2b/a05283.html">BIHWrap</a>&lt; T, BoundsFunc &gt;::unbalanced_times</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00098">BIHWrap&lt; T, BoundsFunc &gt;::balance()</a>, <a class="el" href="../../#l00077">BIHWrap&lt; T, BoundsFunc &gt;::insert()</a>, and <a class="el" href="../../#l00083">BIHWrap&lt; T, BoundsFunc &gt;::remove()</a>.</p>
 
 </div>
 </div>
@@ -771,8 +587,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../da/d2b/a05283.html">DynamicMapTree</a></li>
-    <li class="footer">Generated on Tue Sep 1 2026 00:09:00 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../da/d2b/a05283.html">BIHWrap</a></li>
+    <li class="footer">Generated on Mon Sep 21 2026 23:33:30 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

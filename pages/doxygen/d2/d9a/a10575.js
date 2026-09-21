@@ -1,7 +1,7 @@
 var a10575 =
 [
-    [ "WaypointPath", "d2/d9a/a10575.html#a69a3981fa5b1672519124870513458b3", null ],
-    [ "WaypointPath", "d2/d9a/a10575.html#a65afbfc096b99361fcab26adad9cab7d", null ],
-    [ "Id", "d2/d9a/a10575.html#a553acc50411bbeabedbec3c9431212ad", null ],
-    [ "Nodes", "d2/d9a/a10575.html#a6326c73791542489c7f4d098b05887fb", null ]
+    [ "WriteCommonMonsterMovePart", "d2/d9a/a10575.html#a5f460aac5726580ed4d053f97ce4b95a", null ],
+    [ "WriteCreate", "d2/d9a/a10575.html#a255a4de5c8cdf224e822a4e7ffe0ee5a", null ],
+    [ "WriteMonsterMove", "d2/d9a/a10575.html#a7681143d50955bda880fbae74671a684", null ],
+    [ "WriteStopMovement", "d2/d9a/a10575.html#a1b960c1141ab9b4dca932e0eddaee204", null ]
 ];

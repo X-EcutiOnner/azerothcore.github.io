@@ -1,10 +1,9 @@
 var a20771 =
 [
-    [ "npc_razorscale_dark_rune_sentinel", "d0/d6d/a20771.html#ab05b135a3c4cc45c132b3bb38127494c", null ],
-    [ "CanAIAttack", "d0/d6d/a20771.html#a99f74f401c846f56f6adf70a755e5a84", null ],
-    [ "JustEngagedWith", "d0/d6d/a20771.html#afdba7ecd994d92484a75444387bffaee", null ],
-    [ "Reset", "d0/d6d/a20771.html#ad83e4b28dc7562a627f9d1330c3bb2fc", null ],
-    [ "UpdateAI", "d0/d6d/a20771.html#a621e7a4804a74ce74717a9b0212ab8a3", null ],
-    [ "_events", "d0/d6d/a20771.html#a5dc9139c7d2897b6f1a9e9d86a5f663a", null ],
-    [ "_instance", "d0/d6d/a20771.html#a83f67be54dde276f3ed5efd867450756", null ]
+    [ "OnApply", "d0/d6d/a20771.html#aaf6e89fc5d101b1622666a6fe15f20e7", null ],
+    [ "OnRemove", "d0/d6d/a20771.html#a9bfdefb3e212cca086dec752687e2b93", null ],
+    [ "OnRemoveSelf", "d0/d6d/a20771.html#a3076446d6761263fdb7f973f01be3cf2", null ],
+    [ "PrepareAuraScript", "d0/d6d/a20771.html#a685d6c0ffcc258f9d6857242cb28f6a8", null ],
+    [ "Register", "d0/d6d/a20771.html#a1369972dfbf969cb39efa88075fc13df", null ],
+    [ "Validate", "d0/d6d/a20771.html#ada8c858f70beb71765fd0f796209677b", null ]
 ];

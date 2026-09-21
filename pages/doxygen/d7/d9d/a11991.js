@@ -1,8 +1,7 @@
 var a11991 =
 [
-    [ "first", "d7/d9d/a11991.html#a49aea8bfed353c2c552f6195b8e9f60a", null ],
-    [ "last", "d7/d9d/a11991.html#a05a8077c7ec39bcca66fe84aa1da7040", null ],
-    [ "next", "d7/d9d/a11991.html#a0a7791b7069912a013299e7afaf4142f", null ],
-    [ "prev", "d7/d9d/a11991.html#ae27b7d0aa5a2ae5cb75a7f0d397c849f", null ],
-    [ "rank", "d7/d9d/a11991.html#a0b58cef8fc18f91fa59b8c7d7b9f9872", null ]
+    [ "SpellImmune", "d7/d9d/a11991.html#a70ebcde656db6c4d7c21fb03af44978a", null ],
+    [ "blockType", "d7/d9d/a11991.html#a13a353d02a7330820df170eb46e7a26d", null ],
+    [ "spellId", "d7/d9d/a11991.html#a6aeb1bebf2f079424ebfa5192c568adc", null ],
+    [ "type", "d7/d9d/a11991.html#ae1a414f35b2cce61cd4f5640c761f7ea", null ]
 ];

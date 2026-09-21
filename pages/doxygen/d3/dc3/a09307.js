@@ -1,6 +1,7 @@
 var a09307 =
 [
-    [ "Conditions", "d3/dc3/a09307.html#a93edc2f0d71164b683c844b713befa85", null ],
-    [ "MenuID", "d3/dc3/a09307.html#a732aa82f621c312745ddbd6fe2e3e906", null ],
-    [ "TextID", "d3/dc3/a09307.html#a6ec8df5fcc5126bdee656ca08c0a5edc", null ]
+    [ "EquipementIdPrev", "d3/dc3/a09307.html#a719c716f8914a200bfde4f5bb3275f26", null ],
+    [ "EquipmentId", "d3/dc3/a09307.html#af7f6e5bbb8327e5abf4e17a8a164cc4d", null ],
+    [ "ModelId", "d3/dc3/a09307.html#ade2b2413020be410428b9fee9aa284d6", null ],
+    [ "ModelIdPrev", "d3/dc3/a09307.html#a9de7aa11788b22692738b72718193057", null ]
 ];

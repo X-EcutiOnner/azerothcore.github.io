@@ -1,5 +1,6 @@
 var a22527 =
 [
-    [ "go_finklestein_cauldron", "de/de2/a22527.html#a8aa352319c54526069588dacd75ab883", null ],
-    [ "OnGossipHello", "de/de2/a22527.html#aa04f55e8a6cc21cf4a1e4cdc35c6a1ae", null ]
+    [ "HandleEffectRemove", "de/de2/a22527.html#a08c55501b95d4c92971fd5c95aaef1a7", null ],
+    [ "PrepareAuraScript", "de/de2/a22527.html#aa0df1c7c112cf44fbe5a89894a1292b3", null ],
+    [ "Register", "de/de2/a22527.html#a6f6ae6c012090337eb3f9ca4fd39749d", null ]
 ];

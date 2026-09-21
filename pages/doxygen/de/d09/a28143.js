@@ -1,6 +1,5 @@
 var a28143 =
 [
-    [ "AreaTrigger_at_area_52_entrance", "de/d09/a28143.html#a5b7e21903bca1c04bad1394c6965d032", null ],
-    [ "OnTrigger", "de/d09/a28143.html#a1e537d133ee5e6ad1dbb0c732e23a128", null ],
-    [ "_triggerTimes", "de/d09/a28143.html#a6c3225f46ea71d06b81b25d5fb6e8f25", null ]
+    [ "achievement_bg_sa_artillery", "de/d09/a28143.html#aa81ae215bc91fd4598d7c9a1b02e3fcc", null ],
+    [ "OnCheck", "de/d09/a28143.html#ac24f32f872ae32e90f06f642ea2dfebc", null ]
 ];

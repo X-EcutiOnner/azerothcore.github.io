@@ -1,16 +1,12 @@
 var a14051 =
 [
-    [ "npc_bh_thalorien_dawnseekerAI", "dd/dac/a14051.html#aa0fc35194d16d63854926d4266569d77", null ],
-    [ "DamageTaken", "dd/dac/a14051.html#a46f47c937db63c2cd12331bce4e251cf", null ],
-    [ "EnterEvadeMode", "dd/dac/a14051.html#a55b6176ee579f5f320ce36b63f83d314", null ],
-    [ "JustSummoned", "dd/dac/a14051.html#aa23391bbed38571a86508b4c87e5c66c", null ],
-    [ "MovementInform", "dd/dac/a14051.html#a5f47c72447c197642a0081e544095489", null ],
-    [ "Reset", "dd/dac/a14051.html#a6a9beaf984d954bc11a5f7dff17ca442", null ],
-    [ "SetData", "dd/dac/a14051.html#a24293b807b8999acbb6fbe59e3c06232", null ],
-    [ "SummonedCreatureDespawn", "dd/dac/a14051.html#a095587a925d6054da2e2fdc9de2b415e", null ],
-    [ "UpdateAI", "dd/dac/a14051.html#aa432d9d89eed150f0b3cf0beaef144d2", null ],
-    [ "events", "dd/dac/a14051.html#a5b98f3bcba320cbec0116d3f4a8e4d05", null ],
-    [ "morlenGUID", "dd/dac/a14051.html#aefe243dea75b1aac366fae1395e0e398", null ],
-    [ "playerGUID", "dd/dac/a14051.html#ab93ca177abc21647a1162006ed50a551", null ],
-    [ "summons", "dd/dac/a14051.html#af36ccbeaec6bc0157cb8cac6d705c3c3", null ]
+    [ "boss_twilight_corrupter", "dd/dac/a14051.html#afe140d6231d9ad8543e17c4a8a8230c0", null ],
+    [ "InitializeAI", "dd/dac/a14051.html#afe06461e9f3e1549da6631d2f89406c4", null ],
+    [ "JustEngagedWith", "dd/dac/a14051.html#a84803153e7e7d5d7efe0106139214b1f", null ],
+    [ "KilledUnit", "dd/dac/a14051.html#aa18d2fc90e1ccd322ec9d3128ba206d2", null ],
+    [ "MoveInLineOfSight", "dd/dac/a14051.html#a637cdd43f2f9a4f773b4b8e8f3c88730", null ],
+    [ "Reset", "dd/dac/a14051.html#a27720f58056206c09bce41ae50018a83", null ],
+    [ "UpdateAI", "dd/dac/a14051.html#a580fbaa55a5c0193c1ef2c6b281d8d9e", null ],
+    [ "_introSpoken", "dd/dac/a14051.html#a1924750c9d41ed588a29aace3c40742d", null ],
+    [ "_scheduler", "dd/dac/a14051.html#a6c49eee2be24199418096cc48c50d384", null ]
 ];

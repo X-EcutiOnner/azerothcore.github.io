@@ -1,15 +1,12 @@
 var a21863 =
 [
-    [ "npc_q24545_lich_kingAI", "da/daf/a21863.html#abebe71c6cfb705ce4409dd7fae3842e3", null ],
-    [ "CleanAll", "da/daf/a21863.html#a2720994f88a2706a2f0b4fb361f81f2c", null ],
-    [ "JustSummoned", "da/daf/a21863.html#a6049433795be30eb31e240a4939ad42f", null ],
-    [ "Reset", "da/daf/a21863.html#aebd396de51edef790cd0b599c94f78a0", null ],
-    [ "SetData", "da/daf/a21863.html#a8ee3a4f85aebe9b9a8e18858b76042a6", null ],
-    [ "SetGUID", "da/daf/a21863.html#ac7c41ebfa7979907aea246af20bcf368", null ],
-    [ "SpellHitTarget", "da/daf/a21863.html#adb8be583a14c8d0951b45dc027cf31d9", null ],
-    [ "SummonedCreatureDespawn", "da/daf/a21863.html#ae8049cc5b58c6647b37941fb98c51fe5", null ],
-    [ "UpdateAI", "da/daf/a21863.html#a24f17e0954e498e4a4b73b4cdffea6a3", null ],
-    [ "events", "da/daf/a21863.html#a3e89e187c08f45a51fb69b647dcc766d", null ],
-    [ "playerGUID", "da/daf/a21863.html#ac84b9efb3ee2eaa2160afe5d0217a884", null ],
-    [ "summons", "da/daf/a21863.html#a1de76ab7f3304f8373c633fa7d0aa533", null ]
+    [ "npc_dalaran_warriorAI", "da/daf/a21863.html#a0c96d8b0797a1388f9fe725753ea91bc", null ],
+    [ "Initialize", "da/daf/a21863.html#aa04ecd7a8f988e94ab663a7994e83dd9", null ],
+    [ "JustEngagedWith", "da/daf/a21863.html#ae6690f0681363784e457fbd653f5b3f9", null ],
+    [ "Reset", "da/daf/a21863.html#a074d116ba39d87fa85c17fbc1764c79b", null ],
+    [ "UpdateAI", "da/daf/a21863.html#ae2a740ecd35694b4d04c6aea7ae567fa", null ],
+    [ "Battleshout_timer", "da/daf/a21863.html#ae36f30f816164b60232bd849e74c3da1", null ],
+    [ "disarm_timer", "da/daf/a21863.html#a54f7ceb37d7e3456166f5af761c95e9e", null ],
+    [ "hamstring_timer", "da/daf/a21863.html#ae0e660b8c3faf70a6061260a4b90a4af", null ],
+    [ "shout_timer", "da/daf/a21863.html#ac91770c1e9eb31d687247450898a48ae", null ]
 ];

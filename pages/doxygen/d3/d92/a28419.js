@@ -1,6 +1,5 @@
 var a28419 =
 [
-    [ "guard_shattrath_aldorAI", "de/d54/a28423.html", "de/d54/a28423" ],
-    [ "guard_shattrath_aldor", "d3/d92/a28419.html#ab965295d9c3828ad814f658670b5f185", null ],
-    [ "GetAI", "d3/d92/a28419.html#a3459a6a85c7e7286e3cbdd7f56fee704", null ]
+    [ "go_sacred_fire_of_life", "d3/d92/a28419.html#a7f14c8397803f8b21e492ec52c6d81e8", null ],
+    [ "OnGossipHello", "d3/d92/a28419.html#aaa078fffe5570fa532d27d1c4ea831a7", null ]
 ];

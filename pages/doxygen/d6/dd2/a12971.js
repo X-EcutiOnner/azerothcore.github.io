@@ -1,7 +1,7 @@
 var a12971 =
 [
-    [ "HandleDummy", "d6/dd2/a12971.html#a7fca477ef5c86d543cd59571ad8dc7de", null ],
-    [ "PrepareSpellScript", "d6/dd2/a12971.html#a6ec124990f202af0c6063c285bf04d88", null ],
-    [ "Register", "d6/dd2/a12971.html#a5adf9f0bbe5b72c4c22f569086582f0f", null ],
-    [ "Validate", "d6/dd2/a12971.html#ae35efa08f507aac5b72166a216d01870", null ]
+    [ "boss_broodlord", "d6/dd2/a12971.html#a3194ef765e313daaa4a0e476ec3edafa", null ],
+    [ "JustDied", "d6/dd2/a12971.html#ac3f6f747fbe61e70562f14b9aa304765", null ],
+    [ "JustEngagedWith", "d6/dd2/a12971.html#acb7214857320945a646574b0130a9585", null ],
+    [ "UpdateAI", "d6/dd2/a12971.html#a5cdb166366938797de9d691096f0f155", null ]
 ];

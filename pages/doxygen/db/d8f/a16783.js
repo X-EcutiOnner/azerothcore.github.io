@@ -1,6 +1,6 @@
 var a16783 =
 [
-    [ "HandleSpellHit", "db/d8f/a16783.html#a8c801b92f6e405668edae54989dd58e8", null ],
-    [ "PrepareSpellScript", "db/d8f/a16783.html#abae02a74f626b890f61df551318dcc81", null ],
-    [ "Register", "db/d8f/a16783.html#a2d5b57bbf51aadfc3eb56f8f756d04ef", null ]
+    [ "instance_ruby_sanctum_InstanceMapScript", "df/df3/a16787.html", "df/df3/a16787" ],
+    [ "instance_ruby_sanctum", "db/d8f/a16783.html#a9fc9d56cfcd7d0163f25f49e1ed0baeb", null ],
+    [ "GetInstanceScript", "db/d8f/a16783.html#ad0329f328d4be2c475d8bcd5ccefd4e1", null ]
 ];

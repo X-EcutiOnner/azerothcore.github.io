@@ -1,7 +1,7 @@
 var a25995 =
 [
-    [ "OnRemove", "d0/d6f/a25995.html#a1f4f852ef6d5b2313df20af540eee7da", null ],
-    [ "PrepareAuraScript", "d0/d6f/a25995.html#a8abf8084dd8bb1ac74b3884380cda809", null ],
-    [ "Register", "d0/d6f/a25995.html#a35a8adc4944fc2333488e72498f6d252", null ],
-    [ "Validate", "d0/d6f/a25995.html#aa312f28f03cc0929eb9ea8ba526ebb54", null ]
+    [ "CalculateDamageAmount", "d0/d6f/a25995.html#a2f608e8391e61434ef1b164c023854fe", null ],
+    [ "CalculateManaLeechAmount", "d0/d6f/a25995.html#a8a4946d1718d8045a72c92355ff38ecb", null ],
+    [ "PrepareAuraScript", "d0/d6f/a25995.html#a63d24d3ca4b2de1aa7f67376ded7bc59", null ],
+    [ "Register", "d0/d6f/a25995.html#aa6e74e89930fd3cc564c3cba86e3687e", null ]
 ];

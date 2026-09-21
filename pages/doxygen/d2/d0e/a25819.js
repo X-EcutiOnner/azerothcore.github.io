@@ -1,6 +1,7 @@
 var a25819 =
 [
-    [ "HandleFinish", "d2/d0e/a25819.html#a97cef2944f3fcc11aa6898bc8455ab21", null ],
-    [ "PrepareSpellScript", "d2/d0e/a25819.html#a62920503172dc58ac864a23e90a98dd9", null ],
-    [ "Register", "d2/d0e/a25819.html#ab40419508a1903869aa2b36a590301ba", null ]
+    [ "HandleDummy", "d2/d0e/a25819.html#a4b23e39151d0bced8bb729435a56352d", null ],
+    [ "Load", "d2/d0e/a25819.html#aaa341815d71652a13f3ca449af6ac14f", null ],
+    [ "PrepareSpellScript", "d2/d0e/a25819.html#ac0e7d279312a59dd62d7d91eb3ef82b7", null ],
+    [ "Register", "d2/d0e/a25819.html#a19a2247cebd2af38a1bd30af213ad633", null ]
 ];

@@ -1,7 +1,17 @@
 var a01592 =
 [
-    [ "Acore::Impl::ChatCommands::FilteredCommandListIterator", "df/d36/a07977.html", "df/d36/a07977" ],
-    [ "ChatSubCommandMap", "de/d40/a01592.html#a306b7e46fd4791f088a8919720238f3d", null ],
-    [ "LogCommandUsage", "de/d40/a01592.html#a8dc2bbcf5b90559262a46829632f332e", null ],
-    [ "COMMAND_MAP", "de/d40/a01592.html#a569e79432c3876f4ac0b961e8a783003", null ]
+    [ "GuidLinkType", "de/d40/a01592.html#a7c58fae67eb0c9a1b6f18b403121b2f5", [
+      [ "SPELL_LINK_PLAYER", "de/d40/a01592.html#a7c58fae67eb0c9a1b6f18b403121b2f5a5d767348c5c4c24512c158282864e028", null ],
+      [ "SPELL_LINK_CREATURE", "de/d40/a01592.html#a7c58fae67eb0c9a1b6f18b403121b2f5aaed061119fe0e792ab485fd40a360bf8", null ],
+      [ "SPELL_LINK_GAMEOBJECT", "de/d40/a01592.html#a7c58fae67eb0c9a1b6f18b403121b2f5ad11a1fa40770cd0fbd5f0ef62ee244f7", null ]
+    ] ],
+    [ "SpellLinkType", "de/d40/a01592.html#a39157073e48b2e925e7227a28d1f09f9", [
+      [ "SPELL_LINK_SPELL", "de/d40/a01592.html#a39157073e48b2e925e7227a28d1f09f9a2670f404d5b38a26d1bd9e6567f5f2dd", null ],
+      [ "SPELL_LINK_TALENT", "de/d40/a01592.html#a39157073e48b2e925e7227a28d1f09f9ac802fa91fadd1123dd681fb41e79ba56", null ],
+      [ "SPELL_LINK_ENCHANT", "de/d40/a01592.html#a39157073e48b2e925e7227a28d1f09f9aea86b74d590ef750d18f0ea02a3a3654", null ],
+      [ "SPELL_LINK_TRADE", "de/d40/a01592.html#a39157073e48b2e925e7227a28d1f09f9afb3878bf9e3c79264f9b24165df84919", null ],
+      [ "SPELL_LINK_GLYPH", "de/d40/a01592.html#a39157073e48b2e925e7227a28d1f09f9a4560f8b79d96cfda475bb4ac266a255e", null ]
+    ] ],
+    [ "guidKeys", "de/d40/a01592.html#ae39447b85bcee503ddb354d2950d638a", null ],
+    [ "spellKeys", "de/d40/a01592.html#a493fba30c4b66be28baeb971844ea593", null ]
 ];

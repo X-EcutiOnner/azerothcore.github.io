@@ -1,8 +1,7 @@
 var a22555 =
 [
-    [ "HandleApply", "d8/de7/a22555.html#ad8ee9a50314c900b1507e25eaa70ece7", null ],
-    [ "HandleRemove", "d8/de7/a22555.html#a06c7c65d973fcf348f5c929503902520", null ],
-    [ "PrepareAuraScript", "d8/de7/a22555.html#a48b20c0f1997acd0f9f0800bf4b63bd0", null ],
-    [ "Register", "d8/de7/a22555.html#a7018a16262b94a573405e1bdc9fbdd10", null ],
-    [ "Validate", "d8/de7/a22555.html#a8135c492638557eec71189282e7f78a2", null ]
+    [ "npc_wg_quest_giver", "d8/de7/a22555.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
+    [ "GetDialogStatus", "d8/de7/a22555.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
+    [ "OnGossipHello", "d8/de7/a22555.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
+    [ "OnGossipSelect", "d8/de7/a22555.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
 ];

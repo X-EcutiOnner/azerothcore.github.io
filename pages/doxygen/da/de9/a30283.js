@@ -1,17 +1,8 @@
 var a30283 =
 [
-    [ "IntermediateValues", "da/de9/a30283.html#adaa52f94036d068f48843be78544ea28", null ],
-    [ "~IntermediateValues", "da/de9/a30283.html#ae32f71ccdd0ceae28fcbf3502ae1935b", null ],
-    [ "debugWrite", "da/de9/a30283.html#a5f49b8fa815abb24d0b4902936478738", null ],
-    [ "debugWrite", "da/de9/a30283.html#a9946cab3804d9c53165d27d8960bd4c6", null ],
-    [ "debugWrite", "da/de9/a30283.html#a962526b1a64ecd73a1c1ddb408ec41d2", null ],
-    [ "debugWrite", "da/de9/a30283.html#a6affbebfb3bf252ad9c608f6b772a7a4", null ],
-    [ "debugWrite", "da/de9/a30283.html#ac50648c10a0154b8204722d11cdd63ed", null ],
-    [ "generateObjFile", "da/de9/a30283.html#a0789235bd020d359060e919a65851646", null ],
-    [ "writeIV", "da/de9/a30283.html#af5705f3d1e43dd4439be25e66b1c2cf3", null ],
-    [ "compactHeightfield", "da/de9/a30283.html#a30baa88eb8e4c1516cdd1bfef5c071b3", null ],
-    [ "contours", "da/de9/a30283.html#a953e628c47f2be3694fa43df091c1da8", null ],
-    [ "heightfield", "da/de9/a30283.html#a947a3a6873c619bfdc1a99da670a95bd", null ],
-    [ "polyMesh", "da/de9/a30283.html#affddc2891e1c0f4d7e3d649fd6135baf", null ],
-    [ "polyMeshDetail", "da/de9/a30283.html#aa4ecc0e4895fa6442a955d8d5e8146bd", null ]
+    [ "ADT_file", "da/de9/a30283.html#ac7d3b65a1377d0c7358fe5e2d20dbe5e", null ],
+    [ "~ADT_file", "da/de9/a30283.html#a79fe542f34b0e7bf668e7e5ff94a7ded", null ],
+    [ "free", "da/de9/a30283.html#a8fc207b8cc83596577166a0008965dc6", null ],
+    [ "prepareLoadedData", "da/de9/a30283.html#ac9f498cb9c8e21a1947be87904e3760b", null ],
+    [ "a_grid", "da/de9/a30283.html#aad5263c4df4ab9d072f217ec8c19441c", null ]
 ];

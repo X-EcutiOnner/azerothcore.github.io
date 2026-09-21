@@ -1,8 +1,6 @@
 var a28851 =
 [
-    [ "difficulty", "dd/d8a/a28851.html#a2a04df701c13dc49053b09a9587a72a8", null ],
-    [ "encounterIndex", "dd/d8a/a28851.html#a3d35560824a3aaeecb8db4bf8628ebfd", null ],
-    [ "encounterName", "dd/d8a/a28851.html#af4f26f56526b945e392ddaf6b2d43fa1", null ],
-    [ "id", "dd/d8a/a28851.html#aa9828ccc644a11f9cb35fbcc7d31a827", null ],
-    [ "mapId", "dd/d8a/a28851.html#a61c1ac724c8eb96907d2ea9402a8f9ce", null ]
+    [ "CheckCast", "dd/d8a/a28851.html#a477dc7a1b91ec0d9c45f249b7b3971ab", null ],
+    [ "PrepareSpellScript", "dd/d8a/a28851.html#aa3c18907c79309a8924a98bce41e27f1", null ],
+    [ "Register", "dd/d8a/a28851.html#a6eac0b63b0b566b5cba5def85748ace3", null ]
 ];

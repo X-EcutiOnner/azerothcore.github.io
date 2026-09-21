@@ -1,6 +1,7 @@
 var a17063 =
 [
-    [ "boss_gormokAI", "d2/d0e/a17067.html", "d2/d0e/a17067" ],
-    [ "boss_gormok", "d7/d45/a17063.html#a86ce0681be4370198c44dde5aa98a593", null ],
-    [ "GetAI", "d7/d45/a17063.html#a45cff2e7ee0525de37382cf09b116a32", null ]
+    [ "npc_toc_rogueAI", "d7/d45/a17063.html#a34027e7d10edbfba8e046f4785e37899", null ],
+    [ "myCanCast", "d7/d45/a17063.html#a85ed8e251dd8356e678536f1e3f3c93d", null ],
+    [ "UpdateAI", "d7/d45/a17063.html#a49b0655def227684f07bd60a3c1e0ce1", null ],
+    [ "events", "d7/d45/a17063.html#a1519bebb81b64d57b2b0b34a059b83f8", null ]
 ];

@@ -1,7 +1,8 @@
 var a19747 =
 [
-    [ "FilterTargets", "d9/d3c/a19747.html#af6700817fd92dbe495e20d5c43b5d6b5", null ],
-    [ "Load", "d9/d3c/a19747.html#a639105c26214d9887b84a482ca93eb26", null ],
-    [ "PrepareSpellScript", "d9/d3c/a19747.html#a354ae20be436528b16095d4cd8d37859", null ],
-    [ "Register", "d9/d3c/a19747.html#a5fcc9cc654d6495f535600a6eef4c968", null ]
+    [ "HandleDamage", "d9/d3c/a19747.html#ab8948b09b685ad970f5292ca4c5d97ba", null ],
+    [ "HandleTargets", "d9/d3c/a19747.html#ac36e689bad93aa17738f390680764a7e", null ],
+    [ "PrepareSpellScript", "d9/d3c/a19747.html#a149db071722ce12cded16087c8eec1df", null ],
+    [ "Register", "d9/d3c/a19747.html#abd073f34a414fab7ee23ee933863f1c7", null ],
+    [ "Validate", "d9/d3c/a19747.html#a177320de9c3a2c2f29120fcaa413ab13", null ]
 ];

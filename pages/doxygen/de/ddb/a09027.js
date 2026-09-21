@@ -1,9 +1,18 @@
 var a09027 =
 [
-    [ "PendingSpellCastRequest", "de/ddb/a09027.html#aa09e9b9fcaec6d10dff4916bec15ab04", null ],
-    [ "cancelInProgress", "de/ddb/a09027.html#a726b6e423b23f8c12c65e07809462ad1", null ],
-    [ "category", "de/ddb/a09027.html#a51a702f257b784dac4556397dd1c0be4", null ],
-    [ "isItem", "de/ddb/a09027.html#a9e50a954b3da1f3b39894f1d3d7a932f", null ],
-    [ "requestPacket", "de/ddb/a09027.html#a6ee868c6161e49dc8774ab357f313116", null ],
-    [ "spellId", "de/ddb/a09027.html#a28f12287e339fd0c6cc9ea8c89c26113", null ]
+    [ "PlayerInfo", "de/ddb/a09027.html#a8a26bdeb267824135b3f84baa2585baa", null ],
+    [ "action", "de/ddb/a09027.html#a0f68412598a9741e9b5ce7a42c82d129", null ],
+    [ "areaId", "de/ddb/a09027.html#a60d086c6e6879e6c5d8b5a24c0ae7bf8", null ],
+    [ "castSpells", "de/ddb/a09027.html#a35ab273058db0828c91f01d823467e02", null ],
+    [ "customSpells", "de/ddb/a09027.html#ab40e5fd724fab03afbbd38713e1dd4bf", null ],
+    [ "displayId_f", "de/ddb/a09027.html#adf14854368c9351fe2fba3215194f2f9", null ],
+    [ "displayId_m", "de/ddb/a09027.html#a2ce7d9aa7fc52bd9768c75b88f88b256", null ],
+    [ "item", "de/ddb/a09027.html#ad76819034c64c0c691561eff683b7e57", null ],
+    [ "levelInfo", "de/ddb/a09027.html#abbff546bbe2cc0ea643c41456c1f0d9f", null ],
+    [ "mapId", "de/ddb/a09027.html#ad8d359374f74de40c1c591bb61976405", null ],
+    [ "orientation", "de/ddb/a09027.html#a041a37c356d50860cab9f1ced33a28d0", null ],
+    [ "positionX", "de/ddb/a09027.html#a55a076dc53e8c2d0b2ab11b1087ebccd", null ],
+    [ "positionY", "de/ddb/a09027.html#a7314ecd469357e2eb46ed3d133a5a7a0", null ],
+    [ "positionZ", "de/ddb/a09027.html#ad21a8dd3353d3f141bcc9af65e607aee", null ],
+    [ "skills", "de/ddb/a09027.html#a3bec7891e115ab3cff40c3d95174981c", null ]
 ];

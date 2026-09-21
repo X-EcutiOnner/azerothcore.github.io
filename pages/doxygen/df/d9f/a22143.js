@@ -1,9 +1,6 @@
 var a22143 =
 [
-    [ "npc_lord_areteAI", "df/d9f/a22143.html#aebdbf8f4c2fe6948c78315e6b404119b", null ],
-    [ "InitializeAI", "df/d9f/a22143.html#a22d0c3e2445bff2d742b28bd99f37394", null ],
-    [ "UpdateAI", "df/d9f/a22143.html#a5cba8d4429ae191dd5b90ca5a4fe2866", null ],
-    [ "_landgrenGUID", "df/d9f/a22143.html#ac0e3753096dfe779024acc8400791171", null ],
-    [ "_landgrenSoulGUID", "df/d9f/a22143.html#aaa28c67691610136f0b418b30892f3cd", null ],
-    [ "events", "df/d9f/a22143.html#ae4ec90b30320cf0aeaec4415c4125605", null ]
+    [ "npc_attracted_reef_bullAI", "d3/dba/a22147.html", "d3/dba/a22147" ],
+    [ "npc_attracted_reef_bull", "df/d9f/a22143.html#acd0ade9e7ce5492c11be0b3f2696418e", null ],
+    [ "GetAI", "df/d9f/a22143.html#af705e2768cd41c955af7f944c670ac85", null ]
 ];

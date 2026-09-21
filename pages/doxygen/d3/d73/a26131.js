@@ -1,6 +1,6 @@
 var a26131 =
 [
-    [ "CheckSinkholes", "d3/d73/a26131.html#a5c363144cde9e809d97730f54873fe85", null ],
-    [ "PrepareSpellScript", "d3/d73/a26131.html#a0cd1fc05ee319b04299fcebe3a405bb4", null ],
-    [ "Register", "d3/d73/a26131.html#a6694fbf58b776b74df0a54cd96141688", null ]
+    [ "FilterTargets", "d3/d73/a26131.html#abe299fbad07f800e90b1614ec661c185", null ],
+    [ "PrepareSpellScript", "d3/d73/a26131.html#a53bae2b6575436705adff74caf9225b7", null ],
+    [ "Register", "d3/d73/a26131.html#a35fd5a1c8ab2400940da2d9f8f3ce9c2", null ]
 ];

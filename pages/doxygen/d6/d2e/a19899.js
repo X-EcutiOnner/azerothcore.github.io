@@ -1,8 +1,6 @@
 var a19899 =
 [
-    [ "npc_centrifuge_constructAI", "d6/d2e/a19899.html#a9219f4955ae82ca7f401ea1c63f66b09", null ],
-    [ "DamageTaken", "d6/d2e/a19899.html#aa568418de267a99108698e79baa1b3f4", null ],
-    [ "JustEngagedWith", "d6/d2e/a19899.html#ac6ecbb17624c2747253c68a50b93c40f", null ],
-    [ "Reset", "d6/d2e/a19899.html#a2f7750cea2f59d794c85e20b703370af", null ],
-    [ "UpdateAI", "d6/d2e/a19899.html#a28316416ad6c56d83c9e878511256445", null ]
+    [ "instance_nexus_InstanceMapScript", "d4/d19/a19903.html", "d4/d19/a19903" ],
+    [ "instance_nexus", "d6/d2e/a19899.html#ad2d28baeef8323ae97f19ec9272c7e97", null ],
+    [ "GetInstanceScript", "d6/d2e/a19899.html#a156210ba08caa0572c775dbd5851b250", null ]
 ];

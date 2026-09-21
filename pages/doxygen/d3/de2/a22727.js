@@ -1,8 +1,5 @@
 var a22727 =
 [
-    [ "npc_anzu_spirit", "d3/de2/a22727.html#adb1b66d6bf6ec1991465f85a504397d5", null ],
-    [ "IsSummonedBy", "d3/de2/a22727.html#a26f0928593f75d242c8bbcc541f7b59b", null ],
-    [ "Reset", "d3/de2/a22727.html#acef3f7093f93b6c227d145523cdc487a", null ],
-    [ "UpdateAI", "d3/de2/a22727.html#a9866d91ffc04548a96cfcdc3a5c7496a", null ],
-    [ "_scheduler", "d3/de2/a22727.html#ad14937df9ddddabcf96e2d1104ca153c", null ]
+    [ "OutdoorPvP_silithus", "d3/de2/a22727.html#a8b53dd86c265d277ad1cb49bd6a795bc", null ],
+    [ "GetOutdoorPvP", "d3/de2/a22727.html#a126d6acc77218addd10072199ccd2470", null ]
 ];

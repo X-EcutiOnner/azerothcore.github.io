@@ -1,8 +1,11 @@
 var a12795 =
 [
-    [ "boss_highlord_omokk", "dc/df9/a12795.html#a31dd2c47b3ed33fa65d3b6a7a5cb384c", null ],
-    [ "JustDied", "dc/df9/a12795.html#a2a8931227eb65759ceebd27919976cb5", null ],
-    [ "JustEngagedWith", "dc/df9/a12795.html#a0bd4e1e0f72a0b6a8792d508c401caf8", null ],
-    [ "Reset", "dc/df9/a12795.html#ada6bf702dc1827e60b558b4fb752b789", null ],
-    [ "UpdateAI", "dc/df9/a12795.html#a131ebd1dd8d95c7d910af1b21442c861", null ]
+    [ "boss_emperor_dagran_thaurissan", "dc/df9/a12795.html#a33efe0ee1573c4b43cdf58bdce303e5d", null ],
+    [ "JustDied", "dc/df9/a12795.html#a526a7726e2838ef4c49cca8dd6fc68c9", null ],
+    [ "JustEngagedWith", "dc/df9/a12795.html#a182564d95dc677ea33e47995638a9a58", null ],
+    [ "KilledUnit", "dc/df9/a12795.html#a7f7ae37e4abbe37f4fa46b98af3ac03a", null ],
+    [ "SetData", "dc/df9/a12795.html#a5ccda3d76afe43804c86e193afa9b80c", null ],
+    [ "UpdateAI", "dc/df9/a12795.html#ab1c7da00e8e1a20d2592ec26862867fc", null ],
+    [ "hasYelled", "dc/df9/a12795.html#aaadeb10c22c598cd10ccde83425fbf71", null ],
+    [ "SenatorYells", "dc/df9/a12795.html#ad94aef1875a5a863f78dc84a964638f9", null ]
 ];

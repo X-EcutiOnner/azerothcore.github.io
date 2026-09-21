@@ -1,7 +1,8 @@
 var a22171 =
 [
-    [ "Absorb", "d0/d35/a22171.html#a784b48553696734abac77545df2fc045", null ],
-    [ "CalculateAmount", "d0/d35/a22171.html#a456ee99a71062f6217bda7561e4e7766", null ],
-    [ "PrepareAuraScript", "d0/d35/a22171.html#a456b1b70fd6d9b6642ec959677fe08ff", null ],
-    [ "Register", "d0/d35/a22171.html#aa3260fa9a1a918e13ccfc9cd57f59d19", null ]
+    [ "AfterApply", "d0/d35/a22171.html#af78d13a65fe21879fdb9147cdb0f2352", null ],
+    [ "AfterRemove", "d0/d35/a22171.html#a74f5bdcd48a1cbe7b111a0a8294d7f19", null ],
+    [ "PrepareAuraScript", "d0/d35/a22171.html#ac5b2bc61e52a895d35e3a4e8232f1659", null ],
+    [ "Register", "d0/d35/a22171.html#a9b770bea32f0c3af7f5eb71eeea286fb", null ],
+    [ "Validate", "d0/d35/a22171.html#a02fd5ec715170198bfb3b4f6be0485b7", null ]
 ];

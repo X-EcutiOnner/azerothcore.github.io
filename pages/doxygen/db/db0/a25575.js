@@ -1,10 +1,7 @@
 var a25575 =
 [
-    [ "CalcPeriodic", "db/db0/a25575.html#a4c5793639ad7715b0dc52a803546e7cf", null ],
-    [ "CalculateSpiritAmount", "db/db0/a25575.html#a5749d91e27de05f67110178f57c214e4", null ],
-    [ "HandleEffectApply", "db/db0/a25575.html#a0de0ba95c09c87054d63974943750805", null ],
-    [ "HandlePeriodic", "db/db0/a25575.html#a2ff4241cf4535a6cb8361b9f54d7a23c", null ],
-    [ "PrepareAuraScript", "db/db0/a25575.html#aaa2c2fea4310cdba1739f02afa48a318", null ],
-    [ "Register", "db/db0/a25575.html#ae9df15062a8bd776e9a5a4a5a53fac8f", null ],
-    [ "amount", "db/db0/a25575.html#af07c7c4a2f6a4d59bee8d44b46be5552", null ]
+    [ "OnApply", "db/db0/a25575.html#afda219a18001505ae7a2d01b1d5b25c0", null ],
+    [ "OnRemove", "db/db0/a25575.html#a54bcd84599d6e5a6d7f538e2b40b890b", null ],
+    [ "PrepareAuraScript", "db/db0/a25575.html#a9a7b549e059b6bd2d22802f60e952658", null ],
+    [ "Register", "db/db0/a25575.html#aae603735281daf02ceca157e218d5c9f", null ]
 ];

@@ -1,6 +1,7 @@
 var a15619 =
 [
-    [ "HandleScriptEffect", "d5/df2/a15619.html#a0f03a3e09e80ae50a5ddedcea1f9f30e", null ],
-    [ "PrepareSpellScript", "d5/df2/a15619.html#aa109d61baba87acf5bce5d44bff55214", null ],
-    [ "Register", "d5/df2/a15619.html#ac8412777c84abfe56262d6d83163e9a1", null ]
+    [ "FilterTargets", "d5/df2/a15619.html#a59e477333a54ec828a429d15b35d4936", null ],
+    [ "HandleScript", "d5/df2/a15619.html#a983fe53aa52e53a45685055fde04a3b7", null ],
+    [ "PrepareSpellScript", "d5/df2/a15619.html#a873e7766aa1cb6ebabbc77c31db6701c", null ],
+    [ "Register", "d5/df2/a15619.html#a45ac61990990f16c98eaa7136297afc5", null ]
 ];

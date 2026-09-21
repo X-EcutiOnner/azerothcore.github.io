@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: GameEventScript Class Reference</title>
+<title>AzerothCore: AreaTriggerScript Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -108,55 +108,102 @@ $(document).ready(function(){initNavTree('db/d4a/a10779.html','../../'); initRes
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pro-methods">Protected Member Functions</a> &#124;
 <a href="../../d2/df2/a10776.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">GameEventScript Class Reference</div></div>
+  <div class="headertitle"><div class="title">AreaTriggerScript Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">GameEventScript.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">AreaTriggerScript.h</a>&quot;</code></p>
 <div class="dynheader">
-Inheritance diagram for GameEventScript:</div>
+Inheritance diagram for AreaTriggerScript:</div>
 <div class="dyncontent">
  <div class="center">
-  <img src="../../db/d4a/a10779.png" usemap="#GameEventScript_map" alt=""/>
-  <map id="GameEventScript_map" name="GameEventScript_map">
-<area href="../../d9/d6d/a10907.html" alt="ScriptObject" shape="rect" coords="0,0,109,24"/>
+  <img src="../../db/d4a/a10779.png" usemap="#AreaTriggerScript_map" alt=""/>
+  <map id="AreaTriggerScript_map" name="AreaTriggerScript_map">
+<area href="../../d5/df0/a10975.html" alt="ScriptObject" shape="rect" coords="0,0,287,24"/>
+<area href="../../d7/d71/a28231.html" alt="AreaTrigger_at_area_52_entrance" shape="rect" coords="297,112,584,136"/>
+<area href="../../d9/d9b/a28227.html" alt="AreaTrigger_at_brewfest" shape="rect" coords="297,168,584,192"/>
+<area href="../../da/dfa/a21291.html" alt="AreaTrigger_at_celestial_planetarium_enterance" shape="rect" coords="297,224,584,248"/>
+<area href="../../d9/d7f/a28199.html" alt="AreaTrigger_at_coilfang_waterfall" shape="rect" coords="297,280,584,304"/>
+<area href="../../dd/d3d/a28215.html" alt="AreaTrigger_at_last_rites" shape="rect" coords="297,336,584,360"/>
+<area href="../../df/d8a/a28203.html" alt="AreaTrigger_at_legion_teleporter" shape="rect" coords="297,392,584,416"/>
+<area href="../../dc/d8d/a28219.html" alt="AreaTrigger_at_nats_landing" shape="rect" coords="297,448,584,472"/>
+<area href="../../d8/d47/a28211.html" alt="AreaTrigger_at_scent_larkorwi" shape="rect" coords="297,504,584,528"/>
+<area href="../../d2/d3e/a28223.html" alt="AreaTrigger_at_sentry_point" shape="rect" coords="297,560,584,584"/>
+<area href="../../d2/de3/a28207.html" alt="AreaTrigger_at_stormwright_shelf" shape="rect" coords="297,616,584,640"/>
+<area href="../../d0/d0c/a10783.html" alt="OnlyOnceAreaTriggerScript" shape="rect" coords="297,672,584,696"/>
+<area href="../../df/d81/a06687.html" alt="SmartTrigger" shape="rect" coords="297,728,584,752"/>
+<area href="../../de/dbb/a16079.html" alt="at_ancient_leaf" shape="rect" coords="297,784,584,808"/>
+<area href="../../df/d75/a16631.html" alt="at_baltharus_plateau" shape="rect" coords="297,840,584,864"/>
+<area href="../../de/dd4/a15891.html" alt="at_battleguard_sartura" shape="rect" coords="297,896,584,920"/>
+<area href="../../d1/d07/a12947.html" alt="at_blackrock_stadium" shape="rect" coords="297,952,584,976"/>
+<area href="../../db/d87/a14911.html" alt="at_bring_your_orphan_to" shape="rect" coords="297,1008,584,1032"/>
+<area href="../../d6/d7f/a24279.html" alt="at_commander_dawnforge" shape="rect" coords="297,1064,584,1088"/>
+<area href="../../d4/d4d/a15747.html" alt="at_cthun_center" shape="rect" coords="297,1120,584,1144"/>
+<area href="../../d2/d56/a15743.html" alt="at_cthun_stomach_exit" shape="rect" coords="297,1176,584,1200"/>
+<area href="../../d1/dcb/a12943.html" alt="at_dragonspire_hall" shape="rect" coords="297,1232,584,1256"/>
+<area href="../../da/d57/a19451.html" alt="at_frozen_throne_teleport" shape="rect" coords="297,1288,584,1312"/>
+<area href="../../d9/d48/a17479.html" alt="at_hor_battered_hilt_start" shape="rect" coords="297,1344,584,1368"/>
+<area href="../../d0/d26/a17483.html" alt="at_hor_battered_hilt_throw" shape="rect" coords="297,1400,584,1424"/>
+<area href="../../dc/dfe/a17447.html" alt="at_hor_shadow_throne" shape="rect" coords="297,1456,584,1480"/>
+<area href="../../d0/d41/a19431.html" alt="at_icc_gauntlet_event" shape="rect" coords="297,1512,584,1536"/>
+<area href="../../d9/df8/a19435.html" alt="at_icc_putricide_trap" shape="rect" coords="297,1568,584,1592"/>
+<area href="../../d9/d7c/a19299.html" alt="at_icc_saurfang_portal" shape="rect" coords="297,1624,584,1648"/>
+<area href="../../d7/d23/a19303.html" alt="at_icc_shutdown_traps" shape="rect" coords="297,1680,584,1704"/>
+<area href="../../dc/d37/a19307.html" alt="at_icc_start_blood_quickening" shape="rect" coords="297,1736,584,1760"/>
+<area href="../../d3/d37/a19311.html" alt="at_icc_start_frostwing_gauntlet" shape="rect" coords="297,1792,584,1816"/>
+<area href="../../df/d98/a13351.html" alt="at_karazhan_atiesh_aran" shape="rect" coords="297,1848,584,1872"/>
+<area href="../../de/d9a/a13375.html" alt="at_karazhan_mirkblood_approach" shape="rect" coords="297,1904,584,1928"/>
+<area href="../../d9/d05/a13379.html" alt="at_karazhan_mirkblood_entrance" shape="rect" coords="297,1960,584,1984"/>
+<area href="../../d6/d3d/a18287.html" alt="at_lady_deathwhisper_entrance" shape="rect" coords="297,2016,584,2040"/>
+<area href="../../d6/d7b/a13739.html" alt="at_malfurion_stormrage" shape="rect" coords="297,2072,584,2096"/>
+<area href="../../d9/de9/a19787.html" alt="at_naxxramas_hub_portal" shape="rect" coords="297,2128,584,2152"/>
+<area href="../../d4/d12/a13087.html" alt="at_orb_of_command" shape="rect" coords="297,2184,584,2208"/>
+<area href="../../d1/d67/a21959.html" alt="at_q24545_frostmourne_cavern" shape="rect" coords="297,2240,584,2264"/>
+<area href="../../d5/de2/a23539.html" alt="at_quagmirran_lair" shape="rect" coords="297,2296,584,2320"/>
+<area href="../../d6/de1/a12767.html" alt="at_ring_of_law" shape="rect" coords="297,2352,584,2376"/>
+<area href="../../d4/df1/a12959.html" alt="at_scarshield_infiltrator" shape="rect" coords="297,2408,584,2432"/>
+<area href="../../da/d3b/a23863.html" alt="at_shattered_halls_execution" shape="rect" coords="297,2464,584,2488"/>
+<area href="../../d5/d7f/a18647.html" alt="at_sindragosa_lair" shape="rect" coords="297,2520,584,2544"/>
+<area href="../../d1/d7c/a12927.html" alt="at_the_beast_room" shape="rect" coords="297,2576,584,2600"/>
+<area href="../../de/d19/a12923.html" title="The beast room areatrigger, this one triggers boss pathing. (AT Id 2066)" alt="at_trigger_the_beast_movement" shape="rect" coords="297,2632,584,2656"/>
+<area href="../../da/df4/a14055.html" alt="at_twilight_grove" shape="rect" coords="297,2688,584,2712"/>
+<area href="../../df/d0c/a17643.html" alt="at_tyrannus_event_starter" shape="rect" coords="297,2744,584,2768"/>
+<area href="../../de/d65/a12955.html" alt="near_scarshield_infiltrator" shape="rect" coords="297,2800,584,2824"/>
   </map>
 </div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a0e61a9e1379aef55af93a593af84a3cc"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d4a/a10779.html#a0e61a9e1379aef55af93a593af84a3cc">OnStart</a> (<a class="el" href="../../d8/ddd/a00380.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>)</td></tr>
-<tr class="separator:a0e61a9e1379aef55af93a593af84a3cc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4813f26f03e5ba79a740bf30558e604c"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d4a/a10779.html#a4813f26f03e5ba79a740bf30558e604c">OnStop</a> (<a class="el" href="../../d8/ddd/a00380.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>)</td></tr>
-<tr class="separator:a4813f26f03e5ba79a740bf30558e604c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aadab9593da561e9b19202d09b53cba36"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d4a/a10779.html#aadab9593da561e9b19202d09b53cba36">OnEventCheck</a> (<a class="el" href="../../d8/ddd/a00380.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>)</td></tr>
-<tr class="separator:aadab9593da561e9b19202d09b53cba36"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_methods_a10907"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a10907')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d9/d6d/a10907.html">ScriptObject</a></td></tr>
-<tr class="memitem:a37da453729d5c8fbe2d06f905563f47c inherit pub_methods_a10907"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d6d/a10907.html#a37da453729d5c8fbe2d06f905563f47c">IsDatabaseBound</a> () const</td></tr>
-<tr class="separator:a37da453729d5c8fbe2d06f905563f47c inherit pub_methods_a10907"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2f66339b1cdf1fde795c61cd24c8b0a2 inherit pub_methods_a10907"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d6d/a10907.html#a2f66339b1cdf1fde795c61cd24c8b0a2">isAfterLoadScript</a> () const</td></tr>
-<tr class="separator:a2f66339b1cdf1fde795c61cd24c8b0a2 inherit pub_methods_a10907"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a585e75e34aed7aa32205daad85f8fe08 inherit pub_methods_a10907"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d6d/a10907.html#a585e75e34aed7aa32205daad85f8fe08">checkValidity</a> ()</td></tr>
-<tr class="separator:a585e75e34aed7aa32205daad85f8fe08 inherit pub_methods_a10907"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3f66eb7597f020167b7d75202d28b83a inherit pub_methods_a10907"><td class="memItemLeft" align="right" valign="top">std::string const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d6d/a10907.html#a3f66eb7597f020167b7d75202d28b83a">GetName</a> () const</td></tr>
-<tr class="separator:a3f66eb7597f020167b7d75202d28b83a inherit pub_methods_a10907"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a69ee35ec7d54226264efef558022c1c0 inherit pub_methods_a10907"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/ddd/a00380.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d6d/a10907.html#a69ee35ec7d54226264efef558022c1c0">GetTotalAvailableHooks</a> ()</td></tr>
-<tr class="separator:a69ee35ec7d54226264efef558022c1c0 inherit pub_methods_a10907"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac5234a2cd020cd8f90b6d19c28ad46ae"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d4a/a10779.html#ac5234a2cd020cd8f90b6d19c28ad46ae">IsDatabaseBound</a> () const override</td></tr>
+<tr class="separator:ac5234a2cd020cd8f90b6d19c28ad46ae"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abb6cdada718e9fad7da98fbb667c6d53"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d4a/a10779.html#abb6cdada718e9fad7da98fbb667c6d53">OnTrigger</a> (<a class="el" href="../../d1/d1f/a09095.html">Player</a> *, <a class="el" href="../../df/d28/a09459.html">AreaTrigger</a> const *)</td></tr>
+<tr class="separator:abb6cdada718e9fad7da98fbb667c6d53"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_methods_a10975"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a10975')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d5/df0/a10975.html">ScriptObject</a></td></tr>
+<tr class="memitem:a37da453729d5c8fbe2d06f905563f47c inherit pub_methods_a10975"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/df0/a10975.html#a37da453729d5c8fbe2d06f905563f47c">IsDatabaseBound</a> () const</td></tr>
+<tr class="separator:a37da453729d5c8fbe2d06f905563f47c inherit pub_methods_a10975"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2f66339b1cdf1fde795c61cd24c8b0a2 inherit pub_methods_a10975"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/df0/a10975.html#a2f66339b1cdf1fde795c61cd24c8b0a2">isAfterLoadScript</a> () const</td></tr>
+<tr class="separator:a2f66339b1cdf1fde795c61cd24c8b0a2 inherit pub_methods_a10975"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a585e75e34aed7aa32205daad85f8fe08 inherit pub_methods_a10975"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/df0/a10975.html#a585e75e34aed7aa32205daad85f8fe08">checkValidity</a> ()</td></tr>
+<tr class="separator:a585e75e34aed7aa32205daad85f8fe08 inherit pub_methods_a10975"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3f66eb7597f020167b7d75202d28b83a inherit pub_methods_a10975"><td class="memItemLeft" align="right" valign="top">std::string const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/df0/a10975.html#a3f66eb7597f020167b7d75202d28b83a">GetName</a> () const</td></tr>
+<tr class="separator:a3f66eb7597f020167b7d75202d28b83a inherit pub_methods_a10975"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a69ee35ec7d54226264efef558022c1c0 inherit pub_methods_a10975"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d69/a04679.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/df0/a10975.html#a69ee35ec7d54226264efef558022c1c0">GetTotalAvailableHooks</a> ()</td></tr>
+<tr class="separator:a69ee35ec7d54226264efef558022c1c0 inherit pub_methods_a10975"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-methods" name="pro-methods"></a>
 Protected Member Functions</h2></td></tr>
-<tr class="memitem:a3985d493941ff03552a73103fe536b40"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d4a/a10779.html#a3985d493941ff03552a73103fe536b40">GameEventScript</a> (char const *name, std::vector&lt; <a class="el" href="../../d8/ddd/a00380.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> &gt; enabledHooks=std::vector&lt; <a class="el" href="../../d8/ddd/a00380.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> &gt;())</td></tr>
-<tr class="separator:a3985d493941ff03552a73103fe536b40"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pro_methods_a10907"><td colspan="2" onclick="javascript:toggleInherit('pro_methods_a10907')"><img src="../../closed.png" alt="-"/>&#160;Protected Member Functions inherited from <a class="el" href="../../d9/d6d/a10907.html">ScriptObject</a></td></tr>
-<tr class="memitem:a494e983ccabd1d2311fe3afe0c2afbe5 inherit pro_methods_a10907"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d6d/a10907.html#a494e983ccabd1d2311fe3afe0c2afbe5">ScriptObject</a> (char const *name, <a class="el" href="../../d8/ddd/a00380.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> totalAvailableHooks=0)</td></tr>
-<tr class="separator:a494e983ccabd1d2311fe3afe0c2afbe5 inherit pro_methods_a10907"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a80c704c939f54eee6655d68509598c42 inherit pro_methods_a10907"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d6d/a10907.html#a80c704c939f54eee6655d68509598c42">~ScriptObject</a> ()=default</td></tr>
-<tr class="separator:a80c704c939f54eee6655d68509598c42 inherit pro_methods_a10907"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8544003872aa5871ee4132e5155ed297"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d4a/a10779.html#a8544003872aa5871ee4132e5155ed297">AreaTriggerScript</a> (char const *name)</td></tr>
+<tr class="separator:a8544003872aa5871ee4132e5155ed297"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pro_methods_a10975"><td colspan="2" onclick="javascript:toggleInherit('pro_methods_a10975')"><img src="../../closed.png" alt="-"/>&#160;Protected Member Functions inherited from <a class="el" href="../../d5/df0/a10975.html">ScriptObject</a></td></tr>
+<tr class="memitem:a494e983ccabd1d2311fe3afe0c2afbe5 inherit pro_methods_a10975"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/df0/a10975.html#a494e983ccabd1d2311fe3afe0c2afbe5">ScriptObject</a> (char const *name, <a class="el" href="../../de/d69/a04679.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> totalAvailableHooks=0)</td></tr>
+<tr class="separator:a494e983ccabd1d2311fe3afe0c2afbe5 inherit pro_methods_a10975"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a80c704c939f54eee6655d68509598c42 inherit pro_methods_a10975"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/df0/a10975.html#a80c704c939f54eee6655d68509598c42">~ScriptObject</a> ()=default</td></tr>
+<tr class="separator:a80c704c939f54eee6655d68509598c42 inherit pro_methods_a10975"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a3985d493941ff03552a73103fe536b40" name="a3985d493941ff03552a73103fe536b40"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3985d493941ff03552a73103fe536b40">&#9670;&#160;</a></span>GameEventScript()</h2>
+<a id="a8544003872aa5871ee4132e5155ed297" name="a8544003872aa5871ee4132e5155ed297"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8544003872aa5871ee4132e5155ed297">&#9670;&#160;</a></span>AreaTriggerScript()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -165,16 +212,79 @@ Protected Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">GameEventScript::GameEventScript </td>
+          <td class="memname">AreaTriggerScript::AreaTriggerScript </td>
           <td>(</td>
           <td class="paramtype">char const *&#160;</td>
-          <td class="paramname"><em>name</em>, </td>
+          <td class="paramname"><em>name</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   44</span>    : <a class="code hl_class" href="../../d5/df0/a10975.html">ScriptObject</a>(name)</div>
+<div class="line"><span class="lineno">   45</span>{</div>
+<div class="line"><span class="lineno">   46</span>    <a class="code hl_function" href="../../df/d91/a10971.html#a4a25c0e3b90f6af4563baf0e7a1c0622">ScriptRegistry&lt;AreaTriggerScript&gt;::AddScript</a>(<span class="keyword">this</span>);</div>
+<div class="line"><span class="lineno">   47</span>}</div>
+<div class="ttc" id="aa10971_html_a4a25c0e3b90f6af4563baf0e7a1c0622"><div class="ttname"><a href="../../df/d91/a10971.html#a4a25c0e3b90f6af4563baf0e7a1c0622">ScriptRegistry::AddScript</a></div><div class="ttdeci">static void AddScript(TScript *const script, std::vector&lt; uint16 &gt; enabledHooks={})</div><div class="ttdef"><b>Definition:</b> ScriptMgr.h:794</div></div>
+<div class="ttc" id="aa10975_html"><div class="ttname"><a href="../../d5/df0/a10975.html">ScriptObject</a></div><div class="ttdef"><b>Definition:</b> ScriptObject.h:42</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00794">ScriptRegistry&lt; TScript &gt;::AddScript()</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="ac5234a2cd020cd8f90b6d19c28ad46ae" name="ac5234a2cd020cd8f90b6d19c28ad46ae"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac5234a2cd020cd8f90b6d19c28ad46ae">&#9670;&#160;</a></span>IsDatabaseBound()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool AreaTriggerScript::IsDatabaseBound </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Reimplemented from <a class="el" href="../../d5/df0/a10975.html#a37da453729d5c8fbe2d06f905563f47c">ScriptObject</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">   29</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="abb6cdada718e9fad7da98fbb667c6d53" name="abb6cdada718e9fad7da98fbb667c6d53"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abb6cdada718e9fad7da98fbb667c6d53">&#9670;&#160;</a></span>OnTrigger()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual bool AreaTriggerScript::OnTrigger </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d1/d1f/a09095.html">Player</a> *&#160;</td>
+          <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">std::vector&lt; <a class="el" href="../../d8/ddd/a00380.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> &gt;&#160;</td>
-          <td class="paramname"><em>enabledHooks</em> = <code>std::vector&lt;<a class="el" href="../../d8/ddd/a00380.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&gt;()</code>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../df/d28/a09459.html">AreaTrigger</a> const *&#160;</td>
+          <td class="paramname">&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -184,107 +294,13 @@ Protected Member Functions</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   38</span>    : <a class="code hl_class" href="../../d9/d6d/a10907.html">ScriptObject</a>(name, <a class="code hl_enumvalue" href="../../db/df6/a02138.html#a6f634b591917b5ff2ab57f9739afa44baef9ad9e7c26fbfcea336dddf0e16d395">GAMEEVENTHOOK_END</a>)</div>
-<div class="line"><span class="lineno">   39</span>{</div>
-<div class="line"><span class="lineno">   40</span>    <span class="comment">// If empty - enable all available hooks.</span></div>
-<div class="line"><span class="lineno">   41</span>    <span class="keywordflow">if</span> (enabledHooks.empty())</div>
-<div class="line"><span class="lineno">   42</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d8/ddd/a00380.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> i = 0; i &lt; <a class="code hl_enumvalue" href="../../db/df6/a02138.html#a6f634b591917b5ff2ab57f9739afa44baef9ad9e7c26fbfcea336dddf0e16d395">GAMEEVENTHOOK_END</a>; ++i)</div>
-<div class="line"><span class="lineno">   43</span>            enabledHooks.emplace_back(i);</div>
-<div class="line"><span class="lineno">   44</span> </div>
-<div class="line"><span class="lineno">   45</span>    <a class="code hl_function" href="../../d3/d77/a10903.html#a4a25c0e3b90f6af4563baf0e7a1c0622">ScriptRegistry&lt;GameEventScript&gt;::AddScript</a>(<span class="keyword">this</span>, std::move(enabledHooks));</div>
-<div class="line"><span class="lineno">   46</span>}</div>
-<div class="ttc" id="aa00380_html_ad9c79638db63f1dfe2b085743b5cbf7b"><div class="ttname"><a href="../../d8/ddd/a00380.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a></div><div class="ttdeci">std::uint16_t uint16</div><div class="ttdef"><b>Definition:</b> Define.h:108</div></div>
-<div class="ttc" id="aa02138_html_a6f634b591917b5ff2ab57f9739afa44baef9ad9e7c26fbfcea336dddf0e16d395"><div class="ttname"><a href="../../db/df6/a02138.html#a6f634b591917b5ff2ab57f9739afa44baef9ad9e7c26fbfcea336dddf0e16d395">GAMEEVENTHOOK_END</a></div><div class="ttdeci">@ GAMEEVENTHOOK_END</div><div class="ttdef"><b>Definition:</b> GameEventScript.h:29</div></div>
-<div class="ttc" id="aa10903_html_a4a25c0e3b90f6af4563baf0e7a1c0622"><div class="ttname"><a href="../../d3/d77/a10903.html#a4a25c0e3b90f6af4563baf0e7a1c0622">ScriptRegistry::AddScript</a></div><div class="ttdeci">static void AddScript(TScript *const script, std::vector&lt; uint16 &gt; enabledHooks={})</div><div class="ttdef"><b>Definition:</b> ScriptMgr.h:773</div></div>
-<div class="ttc" id="aa10907_html"><div class="ttname"><a href="../../d9/d6d/a10907.html">ScriptObject</a></div><div class="ttdef"><b>Definition:</b> ScriptObject.h:43</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00773">ScriptRegistry&lt; TScript &gt;::AddScript()</a>, and <a class="el" href="../../#l00029">GAMEEVENTHOOK_END</a>.</p>
-
-</div>
-</div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="aadab9593da561e9b19202d09b53cba36" name="aadab9593da561e9b19202d09b53cba36"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aadab9593da561e9b19202d09b53cba36">&#9670;&#160;</a></span>OnEventCheck()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">virtual void GameEventScript::OnEventCheck </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/ddd/a00380.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
 <span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   45</span>{ }</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a0e61a9e1379aef55af93a593af84a3cc" name="a0e61a9e1379aef55af93a593af84a3cc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0e61a9e1379aef55af93a593af84a3cc">&#9670;&#160;</a></span>OnStart()</h2>
 
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">virtual void GameEventScript::OnStart </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/ddd/a00380.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   39</span>{ }</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a4813f26f03e5ba79a740bf30558e604c" name="a4813f26f03e5ba79a740bf30558e604c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4813f26f03e5ba79a740bf30558e604c">&#9670;&#160;</a></span>OnStop()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">virtual void GameEventScript::OnStop </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/ddd/a00380.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   42</span>{ }</div>
+<p>Reimplemented in <a class="el" href="../../d0/d0c/a10783.html#a4ac7e4963d36c8163a560dc8401b5f34">OnlyOnceAreaTriggerScript</a>, <a class="el" href="../../d6/de1/a12767.html#a650536f556e248944921a09a110ef414">at_ring_of_law</a>, <a class="el" href="../../de/d19/a12923.html#a333d685d765497a950fde35067d876a1">at_trigger_the_beast_movement</a>, <a class="el" href="../../d1/d7c/a12927.html#a366c5e35c4030f998404886f1526ae37">at_the_beast_room</a>, <a class="el" href="../../d1/dcb/a12943.html#a1a7bd95653e84b7fd436d71c162c087e">at_dragonspire_hall</a>, <a class="el" href="../../d1/d07/a12947.html#a691b4614d6f28733f01a38d8420b823b">at_blackrock_stadium</a>, <a class="el" href="../../de/d65/a12955.html#a59c0e7bcddabbbbecb32f38434899144">near_scarshield_infiltrator</a>, <a class="el" href="../../d4/df1/a12959.html#aa3af260809534e3184459dfb6f8f7cf0">at_scarshield_infiltrator</a>, <a class="el" href="../../d4/d12/a13087.html#a8d30d303c72d5eaf59222c890ab13ca3">at_orb_of_command</a>, <a class="el" href="../../df/d98/a13351.html#a5a6646c573b6e0bab0cbc288e594979e">at_karazhan_atiesh_aran</a>, <a class="el" href="../../de/d9a/a13375.html#aaece848faa4f1086ac0b16802a1e765e">at_karazhan_mirkblood_approach</a>, <a class="el" href="../../d9/d05/a13379.html#ad99c85de36a369752fa61bab761a402e">at_karazhan_mirkblood_entrance</a>, <a class="el" href="../../d6/d7b/a13739.html#aaeae64b901ee7b0752425e35af9f4af6">at_malfurion_stormrage</a>, <a class="el" href="../../da/df4/a14055.html#a3fd9a73bf917b34932438b06fe572623">at_twilight_grove</a>, <a class="el" href="../../d2/d56/a15743.html#ab56dca3fe200dc7822459a22912247bf">at_cthun_stomach_exit</a>, <a class="el" href="../../d4/d4d/a15747.html#af744df9577e84ab64749076324e574c9">at_cthun_center</a>, <a class="el" href="../../de/dd4/a15891.html#ae4313968b247a65c3a075b090cd3d5e9">at_battleguard_sartura</a>, <a class="el" href="../../de/dbb/a16079.html#a6d3a2775216cb0c864dc21f5bb5dbc79">at_ancient_leaf</a>, <a class="el" href="../../df/d75/a16631.html#aea08e30eb57d5d84b78b8891c4a45afb">at_baltharus_plateau</a>, <a class="el" href="../../dc/dfe/a17447.html#a47deb4d6506e859d90fcf16d72e43d9c">at_hor_shadow_throne</a>, <a class="el" href="../../d9/d48/a17479.html#a5d2d0a05b17dafe7ebb5447cfd168f69">at_hor_battered_hilt_start</a>, <a class="el" href="../../d0/d26/a17483.html#a30c72b4dc7e48fc87374cbfc2cdf0f50">at_hor_battered_hilt_throw</a>, <a class="el" href="../../df/d0c/a17643.html#adccf396220ef7de47e7afeca791de894">at_tyrannus_event_starter</a>, <a class="el" href="../../d6/d3d/a18287.html#a769c838c94a88af5492057909d88f3de">at_lady_deathwhisper_entrance</a>, <a class="el" href="../../d5/d7f/a18647.html#a07074bff20272042ed05be83dd818ee9">at_sindragosa_lair</a>, <a class="el" href="../../d9/d7c/a19299.html#a8980fe0e67aa33335f0fdb947a294213">at_icc_saurfang_portal</a>, <a class="el" href="../../d7/d23/a19303.html#abb31b3f6d0b159b625d731ac47127005">at_icc_shutdown_traps</a>, <a class="el" href="../../dc/d37/a19307.html#a814670e127b1eace6068a553b23d00f7">at_icc_start_blood_quickening</a>, <a class="el" href="../../d3/d37/a19311.html#a7137166f281876f00d4e03c846875d85">at_icc_start_frostwing_gauntlet</a>, <a class="el" href="../../d0/d41/a19431.html#a9329ec078db088b1c13144ac7ed7a13a">at_icc_gauntlet_event</a>, <a class="el" href="../../d9/df8/a19435.html#ad59c2f694c50fabf1946d2c7ae726413">at_icc_putricide_trap</a>, <a class="el" href="../../da/d57/a19451.html#ae1f9476b7f47320f545e702e9317bd03">at_frozen_throne_teleport</a>, <a class="el" href="../../d9/de9/a19787.html#af967b0f61b3257c8b8d802d4ed3af1da">at_naxxramas_hub_portal</a>, <a class="el" href="../../da/dfa/a21291.html#aa7aa93e00170313de251af4e562c422c">AreaTrigger_at_celestial_planetarium_enterance</a>, <a class="el" href="../../d1/d67/a21959.html#a9016ef31fde1bbcaf57a17e64ea8d503">at_q24545_frostmourne_cavern</a>, <a class="el" href="../../d5/de2/a23539.html#aa0aab42516efaf842923b8a820942ac4">at_quagmirran_lair</a>, <a class="el" href="../../da/d3b/a23863.html#ad35f9736371b091dc0780e5bf0caf9f5">at_shattered_halls_execution</a>, <a class="el" href="../../d6/d7f/a24279.html#a240a2a8a3de913c840c0a14fa4427e7e">at_commander_dawnforge</a>, <a class="el" href="../../d9/d7f/a28199.html#aea1c4b45ae855d0cda81dbad102b8104">AreaTrigger_at_coilfang_waterfall</a>, <a class="el" href="../../df/d8a/a28203.html#ae8239e5ad56d93627102dbd02989353d">AreaTrigger_at_legion_teleporter</a>, <a class="el" href="../../d2/de3/a28207.html#ab635f9328b35f3570211cf6ffc60a4c6">AreaTrigger_at_stormwright_shelf</a>, <a class="el" href="../../d8/d47/a28211.html#aeeb339afa5a7dd4b028aea800026998e">AreaTrigger_at_scent_larkorwi</a>, <a class="el" href="../../dc/d8d/a28219.html#a67434f74300fa3463e679afb7d344467">AreaTrigger_at_nats_landing</a>, <a class="el" href="../../d2/d3e/a28223.html#ab59fb74f4f988c208359855d2e4d9918">AreaTrigger_at_sentry_point</a>, <a class="el" href="../../df/d81/a06687.html#a713066a301e22e7744b3f82a1ca134ed">SmartTrigger</a>, <a class="el" href="../../db/d87/a14911.html#af5cb73f6ba0657eff8809711a5dba84c">at_bring_your_orphan_to</a>, <a class="el" href="../../dd/d3d/a28215.html#a48f6e2041cda24812a165fa0fb62f1b6">AreaTrigger_at_last_rites</a>, <a class="el" href="../../d9/d9b/a28227.html#a17e4a8d671136466c7673789e4f69a84">AreaTrigger_at_brewfest</a>, and <a class="el" href="../../d7/d71/a28231.html#a1e537d133ee5e6ad1dbb0c732e23a128">AreaTrigger_at_area_52_entrance</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">   32</span>{ <span class="keywordflow">return</span> <span class="keyword">false</span>; }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -293,8 +309,8 @@ Protected Member Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../db/d4a/a10779.html">GameEventScript</a></li>
-    <li class="footer">Generated on Tue Sep 1 2026 00:09:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../db/d4a/a10779.html">AreaTriggerScript</a></li>
+    <li class="footer">Generated on Mon Sep 21 2026 23:33:27 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

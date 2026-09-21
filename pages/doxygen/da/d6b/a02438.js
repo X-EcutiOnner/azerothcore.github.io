@@ -1,8 +1,5 @@
 var a02438 =
 [
-    [ "QuestApprenticeAnglerPlayerScript", "de/d64/a28777.html", "de/d64/a28777" ],
-    [ "ApprenticeAnglerQuestEnum", "da/d6b/a02438.html#a6d8279401bbf1ce28fa9c35fbcf1970c", [
-      [ "QUEST_APPRENTICE_ANGLER", "da/d6b/a02438.html#a6d8279401bbf1ce28fa9c35fbcf1970cacdd3122055e667091697fd808a284aba", null ]
-    ] ],
-    [ "AddSC_player_scripts", "da/d6b/a02438.html#a1f476a8466c12651b57fd55bf13b9617", null ]
+    [ "server_commandscript", "d7/d81/a12683.html", "d7/d81/a12683" ],
+    [ "AddSC_server_commandscript", "da/d6b/a02438.html#aaa97392c09b5045a6040d75b224bdf22", null ]
 ];

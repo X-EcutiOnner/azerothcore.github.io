@@ -1,10 +1,12 @@
 var a06363 =
 [
-    [ "Storage", "db/d2c/a06363.html#a49a70316b169e50ad64ff51d6a568bbc", null ],
-    [ "AchievementCriteriaDataSet", "db/d2c/a06363.html#a5055f8710c48379035e132e8f20577dc", null ],
-    [ "Add", "db/d2c/a06363.html#a297f02665679b19961998fb529d064e4", null ],
-    [ "Meets", "db/d2c/a06363.html#a8edbe32d695308633fa7abfc91d2a1a1", null ],
-    [ "SetCriteriaId", "db/d2c/a06363.html#addedfd39d9948923a2704b51eaacecbc", null ],
-    [ "_criteria_id", "db/d2c/a06363.html#a0abc37729d2f3c400bb7cfde212f51c0", null ],
-    [ "_storage", "db/d2c/a06363.html#a6abf189d95226b370cfcfe7b628ed7c0", null ]
+    [ "RBACPermission", "db/d2c/a06363.html#ab7e942f35ee798e52b6e44b5eb35957d", null ],
+    [ "AddLinkedPermission", "db/d2c/a06363.html#abadc5213769b1aa15ed3fea56087760e", null ],
+    [ "GetId", "db/d2c/a06363.html#ac9626c0aae11a3189fc15d086fb0bd96", null ],
+    [ "GetLinkedPermissions", "db/d2c/a06363.html#aabdbec412cd1a1192c8fb4089ab268aa", null ],
+    [ "GetName", "db/d2c/a06363.html#a39784b6e1cb1018dd47a1f223bcf8ac3", null ],
+    [ "RemoveLinkedPermission", "db/d2c/a06363.html#a31dcbc98d2a850f5924c0183c90fd58a", null ],
+    [ "_id", "db/d2c/a06363.html#ab467166c941c8dc01d3d2bd3ce7a06fc", null ],
+    [ "_name", "db/d2c/a06363.html#ae02a379ae6f8bee804942a4ca6d98aba", null ],
+    [ "_perms", "db/d2c/a06363.html#a2c9bd034968018bb631f4d5145c16fff", null ]
 ];

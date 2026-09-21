@@ -1,7 +1,11 @@
 var a13707 =
 [
-    [ "CheckCast", "db/d8e/a13707.html#a6ac00101ced46cebd1dd6a32c89374d2", null ],
-    [ "PrepareSpellScript", "db/d8e/a13707.html#a07973000e8a4b0ff66d4f4d1fd9f327e", null ],
-    [ "Register", "db/d8e/a13707.html#a7deecb2b7dfc410af30d8b14d941f74a", null ],
-    [ "Validate", "db/d8e/a13707.html#a9208b9c010bb9cc379c195939351aa45", null ]
+    [ "boss_baroness_anastariAI", "db/d8e/a13707.html#acf180bbe881ba1f6e49c075254759c00", null ],
+    [ "JustDied", "db/d8e/a13707.html#a1a7bf1e6c39b0b61e95390e7ee1c5e6b", null ],
+    [ "JustEngagedWith", "db/d8e/a13707.html#a7329455d99045e7002abffe09112a4ea", null ],
+    [ "Reset", "db/d8e/a13707.html#a80c99c59486d2a7850a3a54ffebe998b", null ],
+    [ "SchedulePossession", "db/d8e/a13707.html#afbf2d4e9c3e8e50815c398b97afb3970", null ],
+    [ "UpdateAI", "db/d8e/a13707.html#a962e4e3091d126682825c326af5f6922", null ],
+    [ "_possessedTargetGuid", "db/d8e/a13707.html#a36e386b847c7032b5ce95a01070518ad", null ],
+    [ "_scheduler", "db/d8e/a13707.html#aa59518627a5e64e371dbbb45cfced75f", null ]
 ];

@@ -1,5 +1,6 @@
 var a20699 =
 [
-    [ "npc_ulduar_flames_spread", "df/dbf/a20699.html#aea2856e8ea84dfb447017a4d8b2ab088", null ],
-    [ "SpellHit", "df/dbf/a20699.html#af8cad4be1736f377721b7a0a63cfafe7", null ]
+    [ "HandleInstaKill", "df/dbf/a20699.html#a593786eb89bf77e05dad4b502ffc1925", null ],
+    [ "PrepareSpellScript", "df/dbf/a20699.html#aa89401a4c6b1c85e4242bda45933b0ad", null ],
+    [ "Register", "df/dbf/a20699.html#a46f2c2658e6b55f091bf8894f06a787c", null ]
 ];

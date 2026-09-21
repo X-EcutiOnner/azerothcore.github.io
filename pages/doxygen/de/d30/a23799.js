@@ -1,10 +1,20 @@
 var a23799 =
 [
-    [ "boss_harbinger_skyriss", "de/d30/a23799.html#a245179f74d61c2671b397e8f2473b599", null ],
-    [ "EnterEvadeMode", "de/d30/a23799.html#a873413da06569343225e6659f8277b2c", null ],
-    [ "JustDied", "de/d30/a23799.html#a2b5152ddeb53d382294bd0fe7455a21e", null ],
-    [ "JustEngagedWith", "de/d30/a23799.html#adb4cdec41f4b61f82efdb78fe995c313", null ],
-    [ "JustSummoned", "de/d30/a23799.html#a97d84139a3e970e22d7d422f2f825f12", null ],
-    [ "KilledUnit", "de/d30/a23799.html#a8f9e1bd87c80041e07b428ec300ceef8", null ],
-    [ "Reset", "de/d30/a23799.html#a045ec2371ad99c3465b8f089eb604e0a", null ]
+    [ "instance_magtheridons_lair_InstanceMapScript", "de/d30/a23799.html#a06f7e0f178d45a92f16dc06b68645fba", null ],
+    [ "Initialize", "de/d30/a23799.html#afa054fb11fe777019baa70f46bfd8212", null ],
+    [ "IsAnyChannelerAlive", "de/d30/a23799.html#a6cfc7ec365ab5c5d8ec9d257bca59a48", null ],
+    [ "OnCreatureCreate", "de/d30/a23799.html#aa05f08785d9d62db41e8d29ef55db0d8", null ],
+    [ "OnCreatureEvade", "de/d30/a23799.html#a3a757de295ca8b11d3bdf5452a859489", null ],
+    [ "OnCreatureRemove", "de/d30/a23799.html#a727d4d3bfc52391a088e86fef013617c", null ],
+    [ "OnGameObjectCreate", "de/d30/a23799.html#a020584d79926d170c02655c5e2841127", null ],
+    [ "OnGameObjectRemove", "de/d30/a23799.html#a9a6ac60b68e2a515e771696c5c88b93d", null ],
+    [ "OnUnitDeath", "de/d30/a23799.html#a9c5e797960f924ddb60d0730ebd2463c", null ],
+    [ "SetBossState", "de/d30/a23799.html#a160269f8d4cde5297d5f70a5f8eec2b2", null ],
+    [ "SetData", "de/d30/a23799.html#a847abafb7b00e9b2cab73a90a16b959e", null ],
+    [ "_burningAbyssalsSet", "de/d30/a23799.html#a9b616072e8775a10db1c10d0438eb19a", null ],
+    [ "_channelersSet", "de/d30/a23799.html#a7921231ff7314d1370dffc63e1815e16", null ],
+    [ "_columnSet", "de/d30/a23799.html#a2593bf88b0aba019a831b3ca6a8e15b9", null ],
+    [ "_cubesSet", "de/d30/a23799.html#ad59566c515cbea3274d17e483f3b4ef1", null ],
+    [ "_magtheridonGUID", "de/d30/a23799.html#a03e70ccaf8c23d2c775051320c6c4636", null ],
+    [ "_wardersSet", "de/d30/a23799.html#a37b2621d50e8a8f0bee3f089dbce88f9", null ]
 ];

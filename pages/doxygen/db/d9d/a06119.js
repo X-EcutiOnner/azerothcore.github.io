@@ -1,10 +1,7 @@
 var a06119 =
 [
-    [ "MySQLConnectionInfo", "db/d9d/a06119.html#ae60c54053d71eb9325df10701b1f42d3", null ],
-    [ "database", "db/d9d/a06119.html#a7e65a418ad668772e4ce1b298d92f10a", null ],
-    [ "host", "db/d9d/a06119.html#a2659372561aae5feb8da121984354ef3", null ],
-    [ "password", "db/d9d/a06119.html#af5a51bd38ce1d58f65444d69b0283966", null ],
-    [ "port_or_socket", "db/d9d/a06119.html#a37b89660afb3ee085e817836e9d1d01f", null ],
-    [ "ssl", "db/d9d/a06119.html#a90e5a934b4ec46e5783248a1a80a4830", null ],
-    [ "user", "db/d9d/a06119.html#a6bf4166ebb99ea30a3894e3d8833bde6", null ]
+    [ "~DatabaseUpdatePool", "db/d9d/a06119.html#ac0431838d5a43c5323356b4c93c21157", null ],
+    [ "DirectExecute", "db/d9d/a06119.html#a271fb5dffc1a589deaa5dd2fca756f82", null ],
+    [ "GetConnectionInfo", "db/d9d/a06119.html#aab5bbf60204663389a536ea84c885538", null ],
+    [ "Query", "db/d9d/a06119.html#a982c56cafb05142ed68d3e8a36a15ccd", null ]
 ];

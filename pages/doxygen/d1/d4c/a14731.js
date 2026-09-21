@@ -1,7 +1,10 @@
 var a14731 =
 [
-    [ "GetEmptyEntry", "d1/d4c/a14731.html#a46dfe7b2f8598d24f17868266d1571c6", null ],
-    [ "HandleAfterHit", "d1/d4c/a14731.html#a4f8ab6e42ddf2188ccca2640363b9925", null ],
-    [ "PrepareSpellScript", "d1/d4c/a14731.html#a35f0ab4b36df3d9ec1191cbd9ba88c9e", null ],
-    [ "Register", "d1/d4c/a14731.html#a25e1858e1f81891443f4b7de50a5d495", null ]
+    [ "npc_zealot_zath", "d1/d4c/a14731.html#a845840d0a45dd6c4b6368ee4ecf6917b", null ],
+    [ "JustDied", "d1/d4c/a14731.html#ae56e2e89a6ba623200e9ee36977cee13", null ],
+    [ "JustEngagedWith", "d1/d4c/a14731.html#a25e059f40de51d880f4ec209ff4dd924", null ],
+    [ "Reset", "d1/d4c/a14731.html#abc4e40afd644f2c89444f3fe475817c0", null ],
+    [ "UpdateAI", "d1/d4c/a14731.html#a467ce2437ec112b42f864ef412c0c976", null ],
+    [ "_scheduler", "d1/d4c/a14731.html#a146679c4eb3eec444ff1dcd9a780110a", null ],
+    [ "instance", "d1/d4c/a14731.html#a66dfe3182b45e984b4d81d40051e5ecc", null ]
 ];

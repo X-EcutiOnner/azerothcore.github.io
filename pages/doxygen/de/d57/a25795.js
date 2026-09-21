@@ -1,6 +1,10 @@
 var a25795 =
 [
-    [ "CheckCast", "de/d57/a25795.html#ac1bc3f881c31c5ab90785a62a5f5b5ae", null ],
-    [ "PrepareSpellScript", "de/d57/a25795.html#a2a9c657ccffbacfc661c6bb1dc41d9de", null ],
-    [ "Register", "de/d57/a25795.html#a4b34bd5ce9d3e948d6c712d71ed71b2d", null ]
+    [ "CheckProc", "de/d57/a25795.html#a8a7a0ac560eecc3777087622fb3f3951", null ],
+    [ "HandleProc", "de/d57/a25795.html#a90eee01f380f97f033c82d7c6ec48d00", null ],
+    [ "OnApply", "de/d57/a25795.html#a93818ec97cfd47da1dee454bb0a9318c", null ],
+    [ "OnRemove", "de/d57/a25795.html#a5e978d4d46f42ba5098eaecd9473fccb", null ],
+    [ "PrepareAuraScript", "de/d57/a25795.html#a73ae8e378b906a420955fd33d02ba6b7", null ],
+    [ "Register", "de/d57/a25795.html#a7070f64c9c47c8c1bc26e49b2b60a110", null ],
+    [ "Validate", "de/d57/a25795.html#a91c5a0e10c308332e18dc40033049996", null ]
 ];

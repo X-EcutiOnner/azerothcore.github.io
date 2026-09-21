@@ -1,10 +1,7 @@
 var a26183 =
 [
-    [ "CalcPeriodic", "dc/de9/a26183.html#a6ec300503503fa6f12a48a8494d41edd", null ],
-    [ "Load", "dc/de9/a26183.html#a349827fe659ff3bee0a5dfc677c04825", null ],
-    [ "PrepareAuraScript", "dc/de9/a26183.html#a8c12c4ae3835322602347b654d96a8b7", null ],
-    [ "Register", "dc/de9/a26183.html#aeba6dda1114bc738cddff4d40d48ccd7", null ],
-    [ "Update", "dc/de9/a26183.html#afa9e6eec798c354231b5f95e260c7111", null ],
-    [ "Validate", "dc/de9/a26183.html#adb891e80c5bf15b4a0798aa01a45c9e0", null ],
-    [ "_spell_id", "dc/de9/a26183.html#a2836863ea4bafc73f2adbb9176cbec60", null ]
+    [ "HandleScript", "dc/de9/a26183.html#a7c7f92d21898322c501f582a524f4052", null ],
+    [ "Load", "dc/de9/a26183.html#a600eb87e8bbedd3504e3d259f89e3785", null ],
+    [ "PrepareSpellScript", "dc/de9/a26183.html#a8ae826705bd1a1f1da3160be73926d7b", null ],
+    [ "Register", "dc/de9/a26183.html#abda715e38cf19fa7276ec4f4a12d3b63", null ]
 ];

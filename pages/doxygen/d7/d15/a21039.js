@@ -1,11 +1,6 @@
 var a21039 =
 [
-    [ "boss_yoggsaron_voice", "d7/d15/a21039.html#ae9baa030c275b7f80d084f4e5d44aed2", null ],
-    [ "DoAction", "d7/d15/a21039.html#a094522e81d1d19de660b75fb06ea4224", null ],
-    [ "Reset", "d7/d15/a21039.html#a05a59e5c1e05f40fed219a2927e8006d", null ],
-    [ "SpellHitTarget", "d7/d15/a21039.html#aae3b82dbb871f0f297bdacf975958492", null ],
-    [ "UpdateAI", "d7/d15/a21039.html#aa3570bf74b7caee5dcf844853a73d7e5", null ],
-    [ "_current", "d7/d15/a21039.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b", null ],
-    [ "_targets", "d7/d15/a21039.html#a52bf7b9b560f600b5b3647fefb3830bf", null ],
-    [ "events", "d7/d15/a21039.html#abd4829f72aea74d3f9be6df3e40b08b5", null ]
+    [ "HandleScript", "d7/d15/a21039.html#aade3cab1f80d1762bfad48407f4b91cc", null ],
+    [ "PrepareSpellScript", "d7/d15/a21039.html#ab20e548d7c0a837ee4cb7198c09e53ee", null ],
+    [ "Register", "d7/d15/a21039.html#a48a0a37b8e6f799ee9035bb766fd6db2", null ]
 ];

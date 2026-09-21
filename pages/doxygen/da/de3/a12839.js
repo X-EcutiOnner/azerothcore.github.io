@@ -1,6 +1,5 @@
 var a12839 =
 [
-    [ "OrcDeathEvent", "da/de3/a12839.html#ae4088ee95c3c0de9ae524a82803b0ea2", null ],
-    [ "Execute", "da/de3/a12839.html#a293ec6667da669a27fe75965f919cd68", null ],
-    [ "_me", "da/de3/a12839.html#a56cdf23ed08cbb800ba6fe7fb5e284b7", null ]
+    [ "boss_gloomrel", "da/de3/a12839.html#a2fe4ce0ddf75725dcb388a346ee13af8", null ],
+    [ "sGossipSelect", "da/de3/a12839.html#a28b2c02b2a4195c90ce313324f056131", null ]
 ];

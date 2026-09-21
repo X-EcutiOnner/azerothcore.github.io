@@ -1,6 +1,7 @@
 var a06571 =
 [
-    [ "CreatureAIFactory", "d4/d7b/a06571.html#a978af64c2793b92ee2fe57763500f8d9", null ],
-    [ "Create", "d4/d7b/a06571.html#ab5f691811cc23c5079a7a0a7f3503638", null ],
-    [ "Permit", "d4/d7b/a06571.html#ae5e76ee1d1f8949214dd5421bf7e4deb", null ]
+    [ "ReactorAI", "d4/d7b/a06571.html#aaea292c46945399cf7c855e642941c2d", null ],
+    [ "MoveInLineOfSight", "d4/d7b/a06571.html#a224608a62a15d679863d68d7d0e32dde", null ],
+    [ "Permissible", "d4/d7b/a06571.html#a1b0845464b0d356be7bf38e65ab5eb19", null ],
+    [ "UpdateAI", "d4/d7b/a06571.html#a10c4c10d9ac942990d1a1ef9eb6603ad", null ]
 ];

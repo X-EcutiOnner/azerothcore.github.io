@@ -1,24 +1,10 @@
 var a20579 =
 [
-    [ "boss_kologarn", "d2/d5f/a20579.html#a785ca1b78ef1c04b3c1d5f0b243b99d9", null ],
-    [ "AttachLeftArm", "d2/d5f/a20579.html#a74183a296b722f14ff6d06751733f425", null ],
-    [ "AttachRightArm", "d2/d5f/a20579.html#ab6daf2bc1350574ca3d96864fbac298a", null ],
-    [ "AttackStart", "d2/d5f/a20579.html#a87285d89c60ad61b76805e7bef75c55f", null ],
-    [ "DamageTaken", "d2/d5f/a20579.html#a78f85fbbf7da9a6b8dd78859ec727bf5", null ],
-    [ "DoAction", "d2/d5f/a20579.html#af7bf97511705a8dabb6fe40334c3a38a", null ],
-    [ "GetData", "d2/d5f/a20579.html#a1b1929673af5db04cf3b00400784b06d", null ],
-    [ "JustDied", "d2/d5f/a20579.html#a519cf71d4734d9e67af10ac5516c544a", null ],
-    [ "JustEngagedWith", "d2/d5f/a20579.html#a6638cf2efb62d2a2b861e78e360554f3", null ],
-    [ "JustSummoned", "d2/d5f/a20579.html#a18c17d9dd89aeb8dd154b2a2dc1bd0ed", null ],
-    [ "KilledUnit", "d2/d5f/a20579.html#ac311a3c891f723d82c6c848675b27c4e", null ],
-    [ "MoveInLineOfSight", "d2/d5f/a20579.html#ad6fd6e129721757fca0d36e31bd7269c", null ],
-    [ "PassengerBoarded", "d2/d5f/a20579.html#a14aaed01a6d1824521e4e95c751cc248", null ],
-    [ "Reset", "d2/d5f/a20579.html#a56a7feee3a13fdb499e87549343aaca5", null ],
-    [ "UpdateAI", "d2/d5f/a20579.html#a658921f3049414613e5b2245d6137c61", null ],
-    [ "_left", "d2/d5f/a20579.html#aea5354051bd277287336c670296442b8", null ],
-    [ "_looksAchievement", "d2/d5f/a20579.html#a5ecb293f05940091d3c824025d474bd3", null ],
-    [ "_right", "d2/d5f/a20579.html#a955364165d45784ca506bf77d8ab7e7c", null ],
-    [ "_rubbleAchievement", "d2/d5f/a20579.html#a5d7df3f5ef09e7f294759be909d9d955", null ],
-    [ "breathReady", "d2/d5f/a20579.html#a4ad6f7048bf3ba0bb39294cf4a7ca118", null ],
-    [ "vehicle", "d2/d5f/a20579.html#a660ae775be9cf6c5e506a31d97c720fa", null ]
+    [ "HandleEffectPeriodic", "d2/d5f/a20579.html#aa62be73e00d9cb512806787eaf1c4144", null ],
+    [ "Load", "d2/d5f/a20579.html#ab31989a4abd6b5cb08818b0e082c7d9f", null ],
+    [ "PrepareAuraScript", "d2/d5f/a20579.html#ad9664bff267b330565d3c706e1752e9d", null ],
+    [ "Register", "d2/d5f/a20579.html#ad971837f4f0da07b21271fb2b5ac1715", null ],
+    [ "Validate", "d2/d5f/a20579.html#a3f6653b4ca202d9b0971189930e8b463", null ],
+    [ "_counter", "d2/d5f/a20579.html#a3e7343f124b66a55d9a6cbf0ab085309", null ],
+    [ "_prev", "d2/d5f/a20579.html#a9dd8f32c8ec709a14be15b46745b692b", null ]
 ];

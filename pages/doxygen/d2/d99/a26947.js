@@ -1,10 +1,8 @@
 var a26947 =
 [
-    [ "CheckProc", "d2/d99/a26947.html#adce0da60782bcdadbb42ec1c73fddec1", null ],
-    [ "HandleProc", "d2/d99/a26947.html#a82218c6f6319c60c26a7d4ec01b64bf9", null ],
-    [ "Load", "d2/d99/a26947.html#ab9054a6d771022e4bf2b495c30ad8361", null ],
-    [ "PrepareAuraScript", "d2/d99/a26947.html#ab8f483be4d01aa2460c90b043d7a441b", null ],
-    [ "Register", "d2/d99/a26947.html#a4cb08499767ab58f0e525c382b662fbd", null ],
-    [ "Validate", "d2/d99/a26947.html#aa6165f28706d49940dd1f62065631119", null ],
-    [ "_procTarget", "d2/d99/a26947.html#a7b9426e18b454bf631992518c2bdbde0", null ]
+    [ "CheckProc", "d2/d99/a26947.html#af8998dee977a1ac3ab16077558b8bc1d", null ],
+    [ "HandleProc", "d2/d99/a26947.html#abd8ff13c602931f0601f3440b13fd87b", null ],
+    [ "PrepareAuraScript", "d2/d99/a26947.html#ae2be03a9b723caaee90fc497da4b0069", null ],
+    [ "Register", "d2/d99/a26947.html#a1a98679fdf2d18df0101c3d56308be7b", null ],
+    [ "Validate", "d2/d99/a26947.html#afb9d057bd6b06804ec42b0ff723fd022", null ]
 ];

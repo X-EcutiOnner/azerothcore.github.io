@@ -1,11 +1,9 @@
 var a29215 =
 [
-    [ "Displayid", "d1/da7/a29215.html#a4aa3c391401f39d6f4a595f4dff0668b", null ],
-    [ "filename", "d1/da7/a29215.html#a0cee5b90a15b39e1ff49231e332cc320", null ],
-    [ "maxX", "d1/da7/a29215.html#a10563ae885d34e516825a18db95b40e7", null ],
-    [ "maxY", "d1/da7/a29215.html#a711286df6d2bd74246dee2170052c17a", null ],
-    [ "maxZ", "d1/da7/a29215.html#acb74e32790b2c60cca5faef1caa225e4", null ],
-    [ "minX", "d1/da7/a29215.html#a77466c3aabd4e7b6b7aa8b5f9f2a82da", null ],
-    [ "minY", "d1/da7/a29215.html#a7168f5b3229bd27edde78e88bf7dc20a", null ],
-    [ "minZ", "d1/da7/a29215.html#ac88aefc2530212b9dff10e018c4e9305", null ]
+    [ "BaseSection", "d1/da7/a29215.html#a218d178327a97a16f0a38fe8f5e887df", null ],
+    [ "ColorIndex", "d1/da7/a29215.html#a55c0d2ffba5bb3462796e863da19568b", null ],
+    [ "Flags", "d1/da7/a29215.html#a666d68526db28defdfb5bf63248ec360", null ],
+    [ "RaceID", "d1/da7/a29215.html#a23b6456d6bf9ce651dc52e953aa775ca", null ],
+    [ "SexID", "d1/da7/a29215.html#a9d4674f6177acc4d1dbda3b574f14c10", null ],
+    [ "VariationIndex", "d1/da7/a29215.html#aa817db158cc623bb33152d2a79b4bef2", null ]
 ];

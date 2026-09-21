@@ -1,6 +1,6 @@
 var a24327 =
 [
-    [ "PrepareSpellScript", "d0/dac/a24327.html#aa858fff409e5c75d865c91cb5fbef679", null ],
-    [ "Register", "d0/dac/a24327.html#a0deddf7497d3bdb82901d612dce28dc9", null ],
-    [ "SetDest", "d0/dac/a24327.html#a7b9a31e79d13af130566cda1fcb5dac1", null ]
+    [ "npc_infernal_attackerAI", "d2/d62/a24331.html", "d2/d62/a24331" ],
+    [ "npc_infernal_attacker", "d0/dac/a24327.html#ac6fbfcf8fc918b48d6b9416a71cfe3fa", null ],
+    [ "GetAI", "d0/dac/a24327.html#ad1d9186c186de36efbe102a07fe89de4", null ]
 ];

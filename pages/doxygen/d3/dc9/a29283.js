@@ -1,4 +1,5 @@
 var a29283 =
 [
-    [ "ID", "d3/dc9/a29283.html#a11f792510d9749f99371234b15a45beb", null ]
+    [ "Id", "d3/dc9/a29283.html#a79e4b857b811a044aed0ce33422df801", null ],
+    [ "quality_mod", "d3/dc9/a29283.html#a756e7b316cc365f15f24e5e4637303a6", null ]
 ];

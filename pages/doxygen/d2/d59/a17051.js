@@ -1,7 +1,6 @@
 var a17051 =
 [
-    [ "FilterTargets", "d2/d59/a17051.html#a304da18e36ff67c34b80ab39583f8c96", null ],
-    [ "HandleScript", "d2/d59/a17051.html#adf99670bcf862288f513d2a26cbc256a", null ],
-    [ "PrepareSpellScript", "d2/d59/a17051.html#a976cb3c956d37fc9870494b0a6b8d9ee", null ],
-    [ "Register", "d2/d59/a17051.html#a4513de251b2f3d52fe44b7f7e715007c", null ]
+    [ "npc_toc_dkAI", "d4/de2/a17055.html", "d4/de2/a17055" ],
+    [ "npc_toc_dk", "d2/d59/a17051.html#ac8b2c11f64f9cc6f4be91be1e3184b8a", null ],
+    [ "GetAI", "d2/d59/a17051.html#ac5252f0f7ab993c8187aff17dac7a795", null ]
 ];

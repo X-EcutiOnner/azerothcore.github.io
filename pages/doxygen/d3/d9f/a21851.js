@@ -1,7 +1,6 @@
 var a21851 =
 [
-    [ "HandleApplyEffect", "d3/d9f/a21851.html#aab7bd30368c51a6a209f6cad5a93ba79", null ],
-    [ "HandleRemoveEffect", "d3/d9f/a21851.html#a243933fec9ccd650303ea5badbea725b", null ],
-    [ "PrepareAuraScript", "d3/d9f/a21851.html#ac0e1fc0694dd51e245340d3658592447", null ],
-    [ "Register", "d3/d9f/a21851.html#a0f6e6c6892d56a6fceb927f68c734bde", null ]
+    [ "npc_dalaran_mageAI", "df/db1/a21855.html", "df/db1/a21855" ],
+    [ "npc_dalaran_mage", "d3/d9f/a21851.html#a764d637ab0c64e2a0cc0459269974d6d", null ],
+    [ "GetAI", "d3/d9f/a21851.html#ae2deef0546e2bf0df562e0a67b8b0b93", null ]
 ];

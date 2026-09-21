@@ -1,9 +1,8 @@
 var a22519 =
 [
-    [ "npc_finklesteinAI", "db/d93/a22523.html", "db/d93/a22523" ],
-    [ "npc_finklestein", "d7/db8/a22519.html#aa719b4bb95012c22ef8123e255e32edd", null ],
-    [ "GetAI", "d7/db8/a22519.html#a1f0d91d2a50aca9d0496b6bd03986c8e", null ],
-    [ "OnGossipHello", "d7/db8/a22519.html#ac82d5e5dc2e0539c90dfcfe17430548c", null ],
-    [ "OnGossipSelect", "d7/db8/a22519.html#a7a744207e8f43672f0e6bf2354186ec4", null ],
-    [ "OnQuestAccept", "d7/db8/a22519.html#a94291aa98e35552bc7d722ddf2a83af2", null ]
+    [ "npc_oathbound_warder", "d7/db8/a22519.html#af4e56bd77dc1c12e795736f117a9b7f1", null ],
+    [ "AttackStart", "d7/db8/a22519.html#afa3e523d3c4b7659df3d06be11eea7e4", null ],
+    [ "InitializeAI", "d7/db8/a22519.html#a62c4c568ad615013afa46c7da84d057a", null ],
+    [ "JustEngagedWith", "d7/db8/a22519.html#af5c0cb0f8cd8bf5a77bf7460dc576a6f", null ],
+    [ "UpdateAI", "d7/db8/a22519.html#a2e97b16356a6aec04c7c0b1a2d872070", null ]
 ];

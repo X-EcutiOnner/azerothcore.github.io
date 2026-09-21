@@ -1,6 +1,7 @@
 var a26263 =
 [
-    [ "HandleOpenObject", "d7/dc4/a26263.html#ab658c13615fac1861470bb4b853e76a4", null ],
-    [ "PrepareSpellScript", "d7/dc4/a26263.html#a0fd0a3dc06fc2140add9e3d86e544bef", null ],
-    [ "Register", "d7/dc4/a26263.html#a40ff1e10d366ca7183e4e8d027c92d1b", null ]
+    [ "HandleDummy", "d7/dc4/a26263.html#aec0b2ad3b10f2ccbc755cf7278a5ed46", null ],
+    [ "PrepareSpellScript", "d7/dc4/a26263.html#ac1ba0d23cbf805c234ac9d898f6bab85", null ],
+    [ "Register", "d7/dc4/a26263.html#afd1588dc55730c52a922f37e60ec134a", null ],
+    [ "Validate", "d7/dc4/a26263.html#aaed3ba3d986173b5941e048370d5ebe2", null ]
 ];

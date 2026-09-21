@@ -1,14 +1,8 @@
 var a12507 =
 [
-    [ "list_commandscript", "df/d1b/a12507.html#a5a85953a46afe08fe05a11fe69c934dc", null ],
-    [ "GetCommands", "df/d1b/a12507.html#a949c6e6f372afb50e1116b6414acdd7c", null ],
-    [ "HandleListAllAurasCommand", "df/d1b/a12507.html#a93f1fe9131b917c813058899efede2a5", null ],
-    [ "HandleListAurasByIdCommand", "df/d1b/a12507.html#a3c59e8b85175ef056b07f566c231c221", null ],
-    [ "HandleListAurasByNameCommand", "df/d1b/a12507.html#a78d6be53ddae80068e2d9c04ea494e24", null ],
-    [ "HandleListCreatureCommand", "df/d1b/a12507.html#a48388f1c839cec6597c74740ec49fa68", null ],
-    [ "HandleListItemCommand", "df/d1b/a12507.html#a7d0aadb081f25c3d533951bd9841f103", null ],
-    [ "HandleListObjectCommand", "df/d1b/a12507.html#ac8b32be8650c9e54388320d650c9761b", null ],
-    [ "HandleListRespawnsCommand", "df/d1b/a12507.html#a463e9471442ef3fa465d3d223876a2db", null ],
-    [ "ListAurasCommand", "df/d1b/a12507.html#a98c9f6fb42e8030d76f234cdb02a72fb", null ],
-    [ "ShouldListAura", "df/d1b/a12507.html#afc42154ec5e978b366780fb600b17e8d", null ]
+    [ "chatfilter_commandscript", "df/d1b/a12507.html#a7b8b95f9b418496d0f9aa39af55410a3", null ],
+    [ "GetCommands", "df/d1b/a12507.html#aa7553c0fc74103773edeaac9195e4414", null ],
+    [ "HandleChatFilterAddCommand", "df/d1b/a12507.html#a8cbe0819f09b43a32e594a67010d63ee", null ],
+    [ "HandleChatFilterListCommand", "df/d1b/a12507.html#ab59bd95ca2b9319fb175c0592074f9ff", null ],
+    [ "HandleChatFilterRemoveCommand", "df/d1b/a12507.html#ad628fb21fc3bb06c6108c6c731793ad6", null ]
 ];

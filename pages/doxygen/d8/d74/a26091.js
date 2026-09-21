@@ -1,7 +1,7 @@
 var a26091 =
 [
-    [ "HandleScript", "d8/d74/a26091.html#a5b35bbac405dc2b03f195cb29786d5a6", null ],
-    [ "Load", "d8/d74/a26091.html#a61f1a4514e9900e4e14fded3c0b05593", null ],
-    [ "PrepareSpellScript", "d8/d74/a26091.html#abfac1629b7724a3b17b94480c31867af", null ],
-    [ "Register", "d8/d74/a26091.html#a62b9c194106e261245496441176c8d53", null ]
+    [ "HandleProc", "d8/d74/a26091.html#a9d23a4c0986f56e08c5e687ddae621f9", null ],
+    [ "PrepareAuraScript", "d8/d74/a26091.html#a37d8d2e9c4618ecbbf314b98286e28b9", null ],
+    [ "Register", "d8/d74/a26091.html#a2e1b7aed322de7023075fdd69660f2f6", null ],
+    [ "Validate", "d8/d74/a26091.html#a6e807b19f98f8237e5d6f254cb0987a6", null ]
 ];

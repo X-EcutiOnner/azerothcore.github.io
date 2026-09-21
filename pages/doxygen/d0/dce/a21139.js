@@ -1,6 +1,6 @@
 var a21139 =
 [
-    [ "achievement_yogg_saron_darkness", "d0/dce/a21139.html#a536c7156305d47c41a062d3c1a1b16eb", null ],
-    [ "OnCheck", "d0/dce/a21139.html#a809902fca87abaeb4334132763624ed6", null ],
-    [ "_keepersCount", "d0/dce/a21139.html#a765ec4606bb489760ed1e15db10de1dc", null ]
+    [ "HandleProc", "d0/dce/a21139.html#a207dcb7134a23ca5a6e86acbdc283a27", null ],
+    [ "PrepareAuraScript", "d0/dce/a21139.html#a110cd9e8c18665e1e7b1ec4bc690ce75", null ],
+    [ "Register", "d0/dce/a21139.html#a867fa7224ccd0fe3b449d36b4607ba1e", null ]
 ];

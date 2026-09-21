@@ -1,6 +1,6 @@
 var a00599 =
 [
-    [ "ArenaScript", "d1/de2/a10777.html", "d1/de2/a10777" ],
+    [ "ArenaScript", "d0/d9a/a10787.html", "d0/d9a/a10787" ],
     [ "ArenaHook", "d5/d8a/a00599.html#a93515f145fed15b3645f2240f39214ba", [
       [ "ARENAHOOK_CAN_ADD_MEMBER", "d5/d8a/a00599.html#a93515f145fed15b3645f2240f39214baa0eec08769f1e2848ef510ae5bc1980d0", null ],
       [ "ARENAHOOK_ON_GET_POINTS", "d5/d8a/a00599.html#a93515f145fed15b3645f2240f39214baab3934eeceaededbb59ec277bc4275588", null ],

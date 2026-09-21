@@ -1,9 +1,11 @@
 var a16771 =
 [
-    [ "npc_black_knight_skeletal_gryphonAI", "d9/d19/a16771.html#ada99dced1e560aebc908a0efb6c23d0a", null ],
-    [ "DoAction", "d9/d19/a16771.html#af38e129cdf4af99e99c41b6a98448e56", null ],
-    [ "Reset", "d9/d19/a16771.html#a5e20d5e17baaac92a560a5b2fe15fe7b", null ],
-    [ "UpdateAI", "d9/d19/a16771.html#a851008790128831c5c10710b4cccb196", null ],
-    [ "WaypointReached", "d9/d19/a16771.html#a74b5fb1d3631c404e7797085e45e6159", null ],
-    [ "WaypointReached", "d9/d19/a16771.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "boss_saviana_ragefireAI", "d9/d19/a16771.html#ab4fa6a2cc57c9d110bfd3cf16a016942", null ],
+    [ "JustDied", "d9/d19/a16771.html#a30331f9cdb141cd2dbc043888b48a6eb", null ],
+    [ "JustEngagedWith", "d9/d19/a16771.html#a458eb370872c20441b5ec6ecd2c97500", null ],
+    [ "JustReachedHome", "d9/d19/a16771.html#a74abf893a37874eb98aa5ba9883e8d62", null ],
+    [ "KilledUnit", "d9/d19/a16771.html#ac07513681c72d6748246cc7c349d117c", null ],
+    [ "MovementInform", "d9/d19/a16771.html#aed4c70f571586c8cbcc044c01bdc472d", null ],
+    [ "Reset", "d9/d19/a16771.html#a4b7f103331c566cbf007a075161505af", null ],
+    [ "UpdateAI", "d9/d19/a16771.html#af36ca2a359f950a10214d07aad240324", null ]
 ];

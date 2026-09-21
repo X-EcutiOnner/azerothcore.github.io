@@ -1,13 +1,5 @@
 var a23803 =
 [
-    [ "boss_wrath_scryer_soccothrates", "d4/de6/a23803.html#a771980c1022e7699c3eb02baccb68a93", null ],
-    [ "InitializeAI", "d4/de6/a23803.html#ad29f9c200de2f25a74f548c918bb61ac", null ],
-    [ "JustDied", "d4/de6/a23803.html#a4954041d6a9cbc754d9fcd1d4ab3d38b", null ],
-    [ "JustEngagedWith", "d4/de6/a23803.html#a09302e6f5e1422232a3024dd24a38fd6", null ],
-    [ "KilledUnit", "d4/de6/a23803.html#a9b9237e0c8ad1b759c2402de79b3d0bd", null ],
-    [ "MoveInLineOfSight", "d4/de6/a23803.html#ab75e402ce24ca34c42f80116b8a0726d", null ],
-    [ "Reset", "d4/de6/a23803.html#a85435a23d36f13e348112348a26e7d12", null ],
-    [ "UpdateAI", "d4/de6/a23803.html#a41ad9124dec5432feb7ca823f0c8f87f", null ],
-    [ "events2", "d4/de6/a23803.html#afd4e9a0ab16406a4a452cd89d13d1fe0", null ],
-    [ "preFight", "d4/de6/a23803.html#a193889ee2815b93a1c9aeee394170fc4", null ]
+    [ "spellId", "d4/de6/a23803.html#acc63d01d5095adef28b9746c520be973", null ],
+    [ "textId", "d4/de6/a23803.html#a5b366c702c1cda6ea10ad0b58935f97c", null ]
 ];

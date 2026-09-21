@@ -1,6 +1,6 @@
 var a23875 =
 [
-    [ "HandlePeriodic", "d2/dda/a23875.html#ad47e8edce33f9b923aa7bbfe8d0c082a", null ],
-    [ "PrepareAuraScript", "d2/dda/a23875.html#a2aa04c3c08ffc15b481b740d88a54918", null ],
-    [ "Register", "d2/dda/a23875.html#acf77c76f02671da215c7103b60ed77ac", null ]
+    [ "npc_warden_mellicharAI", "d5/d5a/a23879.html", "d5/d5a/a23879" ],
+    [ "npc_warden_mellichar", "d2/dda/a23875.html#aba5c3d005097430941bd40bbbb0d3562", null ],
+    [ "GetAI", "d2/dda/a23875.html#a7cb7437a61b49d8110c3b7fee43e495b", null ]
 ];

@@ -1,7 +1,8 @@
 var a23931 =
 [
-    [ "HandleEffect", "d3/d36/a23931.html#ac0fb38f62cc9a41eb70b2ca951f9d1dc", null ],
-    [ "PrepareSpellScript", "d3/d36/a23931.html#abbbffa0a53dc2a55df5e7b17a7f4d38f", null ],
-    [ "Register", "d3/d36/a23931.html#ac406946bb793125d49006e3a877c9638", null ],
-    [ "SelectTarget", "d3/d36/a23931.html#ac36f3d88a0ef8ccaee5bac17bffcaf49", null ]
+    [ "boss_laj", "d3/d36/a23931.html#a3c9323ab4b5530504588ea62aed2edff", null ],
+    [ "Reset", "d3/d36/a23931.html#ace690a0662376addaa40093f3f119c31", null ],
+    [ "ScheduleTasks", "d3/d36/a23931.html#a6bd0db1ed4c963cdceb681c84469b06c", null ],
+    [ "_lastTransform", "d3/d36/a23931.html#a097eacaaf77a09bec087530bad587b11", null ],
+    [ "_transformContainer", "d3/d36/a23931.html#a313e66ceeb4e359251dad65383e7f568", null ]
 ];

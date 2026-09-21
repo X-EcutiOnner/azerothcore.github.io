@@ -1,7 +1,6 @@
 var a22467 =
 [
-    [ "npc_wg_siege_machineAI", "d9/d64/a22467.html#aaeca9e73520701ce28f2cc9d1483cc6b", null ],
-    [ "CanControlVehicle", "d9/d64/a22467.html#a7ce79406da48e245a0baa2fdd23622b9", null ],
-    [ "UpdateAI", "d9/d64/a22467.html#a8ddd21047a857facc767a9edc0ec5408", null ],
-    [ "checkTimer", "d9/d64/a22467.html#abf4b06eae50adeefedba02e2186ea48a", null ]
+    [ "npc_vehicle_d16_propelled_deliveryAI", "d9/d64/a22467.html#afd54b130725aa724b80f150f968ce09d", null ],
+    [ "MovementInform", "d9/d64/a22467.html#a37800436af47a8f6fbc6f6eb25eab9f9", null ],
+    [ "PassengerBoarded", "d9/d64/a22467.html#a588ed86f5b8316feafd938d85ac65aa0", null ]
 ];

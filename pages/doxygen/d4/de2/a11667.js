@@ -1,10 +1,11 @@
 var a11667 =
 [
-    [ "WorldStateInfo", "d5/d7d/a11671.html", "d5/d7d/a11671" ],
-    [ "InitWorldStates", "d4/de2/a11667.html#a9b1f27c7a07df6629473a6e9d6aa45b5", null ],
-    [ "Write", "d4/de2/a11667.html#ad40588a16c7430a633c0537c82ea3a5b", null ],
-    [ "AreaID", "d4/de2/a11667.html#a98ac08c68b5c004fd352f38c7084531f", null ],
-    [ "MapID", "d4/de2/a11667.html#a657c3043204c6957e8438c3c3c7068f3", null ],
-    [ "Worldstates", "d4/de2/a11667.html#a29ffba2a130f0b93d61b2025255502fb", null ],
-    [ "ZoneID", "d4/de2/a11667.html#add07a226b1fe8ea752306b0e04d4ef71", null ]
+    [ "QuestGiverQuestComplete", "d4/de2/a11667.html#ad7cf8778e608128fad236f9eb7448c66", null ],
+    [ "Write", "d4/de2/a11667.html#ad9a328ee5bc7890bbd904a4d7e60f0ef", null ],
+    [ "Experience", "d4/de2/a11667.html#a2c9b1c07b5a52a5526643a6894290e0c", null ],
+    [ "QuestId", "d4/de2/a11667.html#adc349dfbefc0b5a4c13af4b7746dbfe4", null ],
+    [ "RewardArena", "d4/de2/a11667.html#a035223abc4d17df598dfcbc05f7f0770", null ],
+    [ "RewardHonor", "d4/de2/a11667.html#ab7f2f90b0132e3945f84bf36ba926417", null ],
+    [ "RewardMoney", "d4/de2/a11667.html#ab488d663cb52d92dc0d6c39f1d2e7388", null ],
+    [ "RewardTalents", "d4/de2/a11667.html#a43ee482017cfde3cf8f9f36f2dadf3f0", null ]
 ];

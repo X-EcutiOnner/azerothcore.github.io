@@ -1,14 +1,16 @@
 var a13571 =
 [
-    [ "boss_apothecary_hummelAI", "d5/d5b/a13571.html#a75796eb8dc83729f2f726ff51317bd66", null ],
-    [ "DamageTaken", "d5/d5b/a13571.html#a2af77fbe7f089b5da20d2ff693cfcedf", null ],
-    [ "DoAction", "d5/d5b/a13571.html#a03fb543ba20f92d5528bf4667c457631", null ],
-    [ "JustDied", "d5/d5b/a13571.html#a3c7bc5f9aa04f155debbdacafed6163d", null ],
-    [ "Reset", "d5/d5b/a13571.html#a31381343d2533af670941baf872b3635", null ],
-    [ "sGossipSelect", "d5/d5b/a13571.html#a1a9953c37286fd40c0aa0eebfec3eb86", null ],
-    [ "SummonedCreatureDies", "d5/d5b/a13571.html#a8947cbd1c2856334a0d6529bc664f71b", null ],
-    [ "UpdateAI", "d5/d5b/a13571.html#a61e4d85ecd592142ba07588512505990", null ],
-    [ "_deadCount", "d5/d5b/a13571.html#aaac2018e16b80997f884745732605559", null ],
-    [ "_isDead", "d5/d5b/a13571.html#aa3c37a38b95c6b3bec4e3b787d2155df", null ],
-    [ "_phase", "d5/d5b/a13571.html#a951d68d4e645860cdb5c5e348bf1fff4", null ]
+    [ "instance_scarlet_monastery_InstanceMapScript", "d5/d5b/a13571.html#a4abdd53f735be815cb2d43497d1531e0", null ],
+    [ "GetData", "d5/d5b/a13571.html#a07d9bcc1b1daa29f31be146aaa85993c", null ],
+    [ "GetGuidData", "d5/d5b/a13571.html#a49ac1088399ef71b1fcd7c90c6a34fac", null ],
+    [ "OnCreatureCreate", "d5/d5b/a13571.html#a71fcfc166f945325a4ee149645a9ccef", null ],
+    [ "OnGameObjectCreate", "d5/d5b/a13571.html#a5e90e8cadff18b19c9a1d451dbe675c9", null ],
+    [ "SetData", "d5/d5b/a13571.html#aaf498d563d070d6250a182f583651777", null ],
+    [ "_ashbringerNpcGUID", "d5/d5b/a13571.html#a1abdafc284def7ab4069a17c0aeda535", null ],
+    [ "_ashencounter", "d5/d5b/a13571.html#ac6f544cf00bb6d987c9128cce9c1aa10", null ],
+    [ "_doorChapelGUID", "d5/d5b/a13571.html#a9f5070bfd7326ccaa1ebe697524a814b", null ],
+    [ "_doorHighInquisitorGUID", "d5/d5b/a13571.html#a1c9c74f06b2e1db77d5e6c75e720290c", null ],
+    [ "_encounter", "d5/d5b/a13571.html#a9d025f0d9740eaec42fe4f45971a6cf9", null ],
+    [ "_mograineGUID", "d5/d5b/a13571.html#ad34fc11ed5bd36a8f3a84f183627deb1", null ],
+    [ "_whitemaneGUID", "d5/d5b/a13571.html#af6c6214f8d506815afeeb2af4ad4a71b", null ]
 ];

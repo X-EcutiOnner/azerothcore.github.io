@@ -1,6 +1,6 @@
 var a25583 =
 [
-    [ "OnProc", "d8/ddf/a25583.html#ac7f0a86f2d0c5dcb945eb7ccb9cd5c88", null ],
-    [ "PrepareAuraScript", "d8/ddf/a25583.html#a6a7b011f151ff81672221b84eb4456b8", null ],
-    [ "Register", "d8/ddf/a25583.html#a15b05d352f94d2aabeb75a6bfd996fc6", null ]
+    [ "CheckRequirement", "d8/ddf/a25583.html#adb3212ff52b5ad9ae2ce824dd1cf018a", null ],
+    [ "PrepareSpellScript", "d8/ddf/a25583.html#aebb88f5ea803a590a099e4e6427d8276", null ],
+    [ "Register", "d8/ddf/a25583.html#a18406f867561f9baf5a4cee8ce8ea59a", null ]
 ];

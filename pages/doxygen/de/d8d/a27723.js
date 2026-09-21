@@ -1,6 +1,8 @@
 var a27723 =
 [
-    [ "HandleAuraApply", "de/d8d/a27723.html#a19d8103126a6446fb5ade53d2b5d0ddb", null ],
-    [ "PrepareAuraScript", "de/d8d/a27723.html#a7596065e5ffcacf099a5984f5d940c11", null ],
-    [ "Register", "de/d8d/a27723.html#a8efa76b28dddad68fee132f37791f231", null ]
+    [ "CheckProc", "de/d8d/a27723.html#ae2cab3bddee64667e242fe89cf1d97ad", null ],
+    [ "HandleProc", "de/d8d/a27723.html#afe9fa2846b939aafdd49163990c73204", null ],
+    [ "PrepareAuraScript", "de/d8d/a27723.html#a2d3bb1f075e3b18c678d23c457c8fcd1", null ],
+    [ "Register", "de/d8d/a27723.html#a03803e95a51f5668eb024aa45183f853", null ],
+    [ "Validate", "de/d8d/a27723.html#a1847090f13a6692b868469739d57ff1c", null ]
 ];

@@ -1,6 +1,6 @@
 var a24599 =
 [
-    [ "HandleEffectApply", "d1/dcd/a24599.html#a4bc121ecc9357709ec2f1ea395d0b6b1", null ],
-    [ "PrepareAuraScript", "d1/dcd/a24599.html#ac7f16aed55aedba6da0672c3102a5fae", null ],
-    [ "Register", "d1/dcd/a24599.html#a83e15d7db1b9aa4ce4fbc8a359795091", null ]
+    [ "DeathEvent", "d1/dcd/a24599.html#a2fb9a98c077d715c4648aede6597276e", null ],
+    [ "Execute", "d1/dcd/a24599.html#a497ac46ab1acf95816020fc6be8ce03a", null ],
+    [ "_owner", "d1/dcd/a24599.html#a099d0d5ae50126f00220b3ed90907617", null ]
 ];

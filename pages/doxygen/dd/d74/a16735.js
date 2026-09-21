@@ -1,9 +1,6 @@
 var a16735 =
 [
-    [ "npc_memoryAI", "dd/d74/a16735.html#ad927d377d60b44f43808469042f5feb9", null ],
-    [ "JustDied", "dd/d74/a16735.html#a7b0484919d671877f29dfa05ca1265d9", null ],
-    [ "Reset", "dd/d74/a16735.html#a985c51bbfa2cceeb7601432491253aaf", null ],
-    [ "UpdateAI", "dd/d74/a16735.html#a6cb74389f5aea91d2062e007ea08acd7", null ],
-    [ "events", "dd/d74/a16735.html#a2ed2993e89728a3723456a67e13581f7", null ],
-    [ "pInstance", "dd/d74/a16735.html#a31bcb5041844ea5e3a076ad1366897e1", null ]
+    [ "HandlePeriodic", "dd/d74/a16735.html#a7753587518171689f86f3f76269c1b8a", null ],
+    [ "PrepareAuraScript", "dd/d74/a16735.html#aa73351e7200bee94b0068fb8dabfada5", null ],
+    [ "Register", "dd/d74/a16735.html#ab126fe8d4387609e8834898c3b3a67ea", null ]
 ];

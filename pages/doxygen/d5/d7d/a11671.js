@@ -1,6 +1,7 @@
 var a11671 =
 [
-    [ "WorldStateInfo", "d5/d7d/a11671.html#a64fd2e4da7035ea6c01b8ab0819d2f86", null ],
-    [ "Value", "d5/d7d/a11671.html#afe5a0e98713c986a17f431795c488c6c", null ],
-    [ "VariableID", "d5/d7d/a11671.html#a627bba237bce23aff74fd2bf7a274657", null ]
+    [ "QuestGiverQuestFailed", "d5/d7d/a11671.html#aec524e18a6a0fb666061bd08b17ff9cb", null ],
+    [ "Write", "d5/d7d/a11671.html#a97d19e4fe5ccc50afaf91d58321d31ec", null ],
+    [ "FailureReason", "d5/d7d/a11671.html#a5c4d887fd352e97c10a52bb095d8e33d", null ],
+    [ "QuestId", "d5/d7d/a11671.html#a1c09d090cd3b7fc73becca4f523141f6", null ]
 ];

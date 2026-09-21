@@ -1,7 +1,7 @@
 var a25887 =
 [
-    [ "CheckProc", "df/da7/a25887.html#a41c451e31b84a72af3a17bfa29ca02fe", null ],
-    [ "HandleProc", "df/da7/a25887.html#a5cf9cea911ead2f261522e55e94c745a", null ],
-    [ "PrepareAuraScript", "df/da7/a25887.html#a3f2b20607f90ad641769eb284ddfab85", null ],
-    [ "Register", "df/da7/a25887.html#a55557026689613e91aeabce1af442237", null ]
+    [ "FilterTargets", "df/da7/a25887.html#affede599b86e05e6475fd64a60268e8e", null ],
+    [ "Load", "df/da7/a25887.html#a1343407ca8b571140ed2ecf5501bf378", null ],
+    [ "PrepareSpellScript", "df/da7/a25887.html#a12ff05520225209b476b3ba8422de1c6", null ],
+    [ "Register", "df/da7/a25887.html#ac99786385187e21fb02e65e9b9719400", null ]
 ];

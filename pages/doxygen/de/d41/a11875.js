@@ -1,10 +1,5 @@
 var a11875 =
 [
-    [ "TriggeredByAuraSpellData", "de/d41/a11875.html#a3f4704eed73af1e37a3d09434cfcddae", null ],
-    [ "Init", "de/d41/a11875.html#a782e0056967e006748318af3112c0e43", null ],
-    [ "operator bool", "de/d41/a11875.html#a85d4782b76b060c172aaa6f914d400da", null ],
-    [ "operator!", "de/d41/a11875.html#af7290a4c37b1829a98e436486fa8b6cd", null ],
-    [ "effectIndex", "de/d41/a11875.html#a9bbee8d48d4beb8a21721a10e0380c41", null ],
-    [ "spellInfo", "de/d41/a11875.html#af58f62fb168e9da7011f7b570f08e977", null ],
-    [ "tickNumber", "de/d41/a11875.html#afbb1ffd006dc6eb00ccd65add87b1b22", null ]
+    [ "SocketAdded", "de/d41/a11875.html#a01090d6713f49dc026f77f8481b492cb", null ],
+    [ "SocketRemoved", "de/d41/a11875.html#a4a978f9304e4aeabfb9ce1998b8a27cc", null ]
 ];

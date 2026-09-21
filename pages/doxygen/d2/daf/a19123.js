@@ -1,8 +1,6 @@
 var a19123 =
 [
-    [ "ICCOrbControllerMinionSearch", "d2/daf/a19123.html#a4ad0fe75b994f2bf9cda7e52a2aa21cb", null ],
-    [ "operator()", "d2/daf/a19123.html#a4b7f4833f5dc780cc0c946b530bb9767", null ],
-    [ "_checkCasting", "d2/daf/a19123.html#a46624ac7610ccc72baa93d68bf89e070", null ],
-    [ "_owner", "d2/daf/a19123.html#a056aa0d3240c47c65138ec4469e39953", null ],
-    [ "_range", "d2/daf/a19123.html#a2a2d14d469f39d6af0e9110266b20b6c", null ]
+    [ "npc_crok_scourgebaneAI", "d4/db0/a19127.html", "d4/db0/a19127" ],
+    [ "npc_crok_scourgebane", "d2/daf/a19123.html#a5f560e2c62aa618eadb5a11e2c9b90a3", null ],
+    [ "GetAI", "d2/daf/a19123.html#afa4fcbb9d7281fbee3f8bc0f318d2e6b", null ]
 ];

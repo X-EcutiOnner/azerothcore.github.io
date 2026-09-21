@@ -1,6 +1,6 @@
 var a11019 =
 [
-    [ "EmoteClient", "dd/d69/a11019.html#af98c098cb1019057d8027f39c168e1a9", null ],
-    [ "Read", "dd/d69/a11019.html#abad5fca865b7b99e595ce95137e8105c", null ],
-    [ "EmoteID", "dd/d69/a11019.html#a24503de36535106220984ffbf6ba0338", null ]
+    [ "BuyBankSlotResult", "dd/d69/a11019.html#a93b60814becc451c38f06f9702a9e027", null ],
+    [ "Write", "dd/d69/a11019.html#a55a6609863b0d3ef966f222526268acb", null ],
+    [ "Result", "dd/d69/a11019.html#ad7bf499ad8d5f0a7e1a580dd02b84c68", null ]
 ];

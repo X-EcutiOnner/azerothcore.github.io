@@ -1,12 +1,22 @@
 var a16355 =
 [
-    [ "npc_taldaram_flamesphere", "df/d88/a16355.html#aad7d6696b54e39c6abd27a7252353360", null ],
-    [ "DoAction", "df/d88/a16355.html#aa79e370c1c30eccb44a46b622e2d5f2a", null ],
-    [ "IsSummonedBy", "df/d88/a16355.html#acb232931bc181eedf4b39d5519dd45e2", null ],
-    [ "MovementInform", "df/d88/a16355.html#a785c491b7144420cd4975e62c9a8a711", null ],
-    [ "SetVictimPos", "df/d88/a16355.html#a51f1683806095c760d4accff9e23f8b6", null ],
-    [ "UpdateAI", "df/d88/a16355.html#a163341c0ff0f56986e2486e06e21b4b2", null ],
-    [ "instance", "df/d88/a16355.html#afd0ff83cb5fba1fbeb85b7d600f1b1de", null ],
-    [ "moveTimer", "df/d88/a16355.html#afe50ac59ec441ab11745ca9461158a00", null ],
-    [ "victimPos", "df/d88/a16355.html#ae681d84f2324faf22296dcb6e08484b0", null ]
+    [ "npc_sergeant_blyAI", "df/d88/a16355.html#a216f8b75707e25698619786b87500461", null ],
+    [ "DoAction", "df/d88/a16355.html#a4fb20172c48257aafe284b3934a9c357", null ],
+    [ "EnterEvadeMode", "df/d88/a16355.html#a2844efbb2f213401f83ab042f974974a", null ],
+    [ "InitializeAI", "df/d88/a16355.html#ae3abcf75a666c5bd722ca060fca4a12c", null ],
+    [ "MovementInform", "df/d88/a16355.html#acf32d74b4f0454f01f7313df6b35c4d3", null ],
+    [ "Reset", "df/d88/a16355.html#a2991ad4ecd6b236d7002c3dddd540b00", null ],
+    [ "sGossipHello", "df/d88/a16355.html#a342c8b5bd49e8cfd94c41a58159e4f5c", null ],
+    [ "sGossipSelect", "df/d88/a16355.html#a9df8eeb695736b2a182c38a69840e99f", null ],
+    [ "switchFactionIfAlive", "df/d88/a16355.html#a89cbd29300ca07b3366a197a7549edab", null ],
+    [ "UpdateAI", "df/d88/a16355.html#afdcbd6c79fb31d888c5b903deb04ad9d", null ],
+    [ "ableToPortHome", "df/d88/a16355.html#aa223fcf402ed5d99ea88275b357f398c", null ],
+    [ "instance", "df/d88/a16355.html#acf42a824739dd69d64c3b1e3eff6a944", null ],
+    [ "PlayerGUID", "df/d88/a16355.html#a188e306a05afa5f25271d17b4385b623", null ],
+    [ "Porthome_Timer", "df/d88/a16355.html#aeb17b772324aa2d985606659a2aee895", null ],
+    [ "postGossipStep", "df/d88/a16355.html#aca6869f05555499b210c09889d3f6684", null ],
+    [ "Revenge_Timer", "df/d88/a16355.html#af6263dbfa9e4cbc6f7812a10894f3dd2", null ],
+    [ "ShieldBash_Timer", "df/d88/a16355.html#a5ed567ac16bef8f53a66a12fbaf4573e", null ],
+    [ "startedFight", "df/d88/a16355.html#a7a037981d3d2a37abf0d3995283ac218", null ],
+    [ "Text_Timer", "df/d88/a16355.html#a97edb216194b16d273fe6098fdaba51e", null ]
 ];

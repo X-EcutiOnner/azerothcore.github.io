@@ -1,12 +1,5 @@
 var a05703 =
 [
-    [ "AppenderConsole", "d3/d30/a05703.html#aaf770a87f2151a7e6f92087751528c68", null ],
-    [ "_write", "d3/d30/a05703.html#a94e529229bd707fa2bad0a0206a386d5", null ],
-    [ "getType", "d3/d30/a05703.html#a4ae7f47c76b19eb269b26fdf13f14e48", null ],
-    [ "InitColors", "d3/d30/a05703.html#a1a4deceeafc9a111a519ea55dc646266", null ],
-    [ "ResetColor", "d3/d30/a05703.html#a4a3e55c9229947a25d4191bbfa348bf5", null ],
-    [ "SetColor", "d3/d30/a05703.html#a9303f9408e1cbfc086fba15bf9a4ce59", null ],
-    [ "_colored", "d3/d30/a05703.html#a172563f34a7277f7afb05354c8fbeb1f", null ],
-    [ "_colors", "d3/d30/a05703.html#acdf277241cd25715e48500a15ab6bd30", null ],
-    [ "type", "d3/d30/a05703.html#ab5cbc074f7d9306838974863913c8a5b", null ]
+    [ "Decode", "d3/d30/a05703.html#a16eb5c0306f404a3be454430abd01610", null ],
+    [ "Encode", "d3/d30/a05703.html#a5c439d87d1532c68023e2d612d874e5f", null ]
 ];

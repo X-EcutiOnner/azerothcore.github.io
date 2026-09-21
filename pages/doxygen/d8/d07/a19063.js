@@ -1,6 +1,8 @@
 var a19063 =
 [
-    [ "npc_captain_arnathAI", "d9/ddf/a19067.html", "d9/ddf/a19067" ],
-    [ "npc_captain_arnath", "d8/d07/a19063.html#ab96afce64a7714ea84bab932f80c9302", null ],
-    [ "GetAI", "d8/d07/a19063.html#a302ec007389e677011334d78f410207b", null ]
+    [ "DecayPeriodicTimer", "d8/d07/a19063.html#a314ac33692cc352c490ec3d87177d67a", null ],
+    [ "Load", "d8/d07/a19063.html#af5a498253c4c382df3b2462a30448a64", null ],
+    [ "PrepareAuraScript", "d8/d07/a19063.html#ac5d4ee199b49e04499997355ac054554", null ],
+    [ "Register", "d8/d07/a19063.html#a1b59480ce384f09cecd47872b39cf3c5", null ],
+    [ "_decayRate", "d8/d07/a19063.html#a20c696ff06f9b48451d9eac43ccf5416", null ]
 ];

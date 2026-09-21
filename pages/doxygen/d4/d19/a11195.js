@@ -1,6 +1,5 @@
 var a11195 =
 [
-    [ "GuildBankRemainingWithdrawMoney", "d4/d19/a11195.html#afdb4e226091e8280b4ef26bd51edebdd", null ],
-    [ "Write", "d4/d19/a11195.html#aecc28f8734a66c562c7baa1575b07ff9", null ],
-    [ "RemainingWithdrawMoney", "d4/d19/a11195.html#a015ba615ebe4ea09df8233f6a85332f4", null ]
+    [ "Flags", "d4/d19/a11195.html#af1d25fa760cdbfa907a1b6e0002f0e70", null ],
+    [ "WithdrawItemLimit", "d4/d19/a11195.html#aa7bb5355ee174f3b9dd32c659e0f7806", null ]
 ];

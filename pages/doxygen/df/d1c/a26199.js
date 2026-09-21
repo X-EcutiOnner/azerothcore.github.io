@@ -1,6 +1,8 @@
 var a26199 =
 [
-    [ "CheckCast", "df/d1c/a26199.html#a5e32bb12dd6a4feedf88b73e18dc57cc", null ],
-    [ "PrepareSpellScript", "df/d1c/a26199.html#ae6b0bc8d2a443b805b44f49d79ccc949", null ],
-    [ "Register", "df/d1c/a26199.html#a2ef6ded94a244c51ed71315b39e85636", null ]
+    [ "OnRemove", "df/d1c/a26199.html#a645e869079e711a87f1a957b42a35e98", null ],
+    [ "OnStackChange", "df/d1c/a26199.html#adea8a4a7140e2f9fd4a44ef2a7b4d85b", null ],
+    [ "PrepareAuraScript", "df/d1c/a26199.html#a5f9e9d07879705917e1cd261808f0a8f", null ],
+    [ "Register", "df/d1c/a26199.html#ac86068a892255e38244c487a7456cd9f", null ],
+    [ "Validate", "df/d1c/a26199.html#a74cb62725d939000a1c4ab32b4f4335f", null ]
 ];

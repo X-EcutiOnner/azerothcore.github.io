@@ -1,6 +1,7 @@
 var a22859 =
 [
-    [ "FilterTargets", "d0/d57/a22859.html#a91b9fdebdffcae06da1882d7d46f5460", null ],
-    [ "PrepareSpellScript", "d0/d57/a22859.html#ae8f3906007580963bda33cd0e420299b", null ],
-    [ "Register", "d0/d57/a22859.html#a5e191d4fca7cc95ddec8730cc3fd8ffe", null ]
+    [ "npc_voidtraveler", "d0/d57/a22859.html#a07e473c14836a0612acd52078a93f2d8", null ],
+    [ "Reset", "d0/d57/a22859.html#a6efe0725917c92657220de2b60579289", null ],
+    [ "UpdateAI", "d0/d57/a22859.html#aaa907fe2f6ef1029a23fd819af0a44c3", null ],
+    [ "_scheduler", "d0/d57/a22859.html#a1809494e7803103f6bc1698e780dcfbc", null ]
 ];

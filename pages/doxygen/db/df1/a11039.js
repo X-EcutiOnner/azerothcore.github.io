@@ -1,6 +1,7 @@
 var a11039 =
 [
-    [ "QueryGuildInfo", "db/df1/a11039.html#a34b129b3c9fef61aa4211a9bc2783aef", null ],
-    [ "Read", "db/df1/a11039.html#a0396a58ca114706f7de91f51c5ab949d", null ],
-    [ "GuildId", "db/df1/a11039.html#ad221eecdb16233251306fff3d9801f38", null ]
+    [ "CalendarComplain", "db/df1/a11039.html#a35252d9ee72257a0771f3faa274f8029", null ],
+    [ "Read", "db/df1/a11039.html#ae955f181fe7b36ba360d5b8e9a53db45", null ],
+    [ "ComplainGuid", "db/df1/a11039.html#a3a8ba139be8eef32193658fa235fc4c5", null ],
+    [ "EventId", "db/df1/a11039.html#a3cc5c6b822a697df900826b64b5b9759", null ]
 ];

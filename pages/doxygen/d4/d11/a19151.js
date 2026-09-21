@@ -1,5 +1,6 @@
 var a19151 =
 [
-    [ "npc_darkfallen_advisor", "d4/d11/a19151.html#a99b3fd829e0a9e62a78f5e750d1a5369", null ],
-    [ "ScheduleSpells", "d4/d11/a19151.html#aab9175d674273b19071e595354bb195c", null ]
+    [ "npc_captain_brandonAI", "d1/dff/a19155.html", "d1/dff/a19155" ],
+    [ "npc_captain_brandon", "d4/d11/a19151.html#ad522dd280882d894b5d32e7c888f2360", null ],
+    [ "GetAI", "d4/d11/a19151.html#a3d77951d8d9dbc14fad2fd52d84118a3", null ]
 ];

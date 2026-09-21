@@ -1,8 +1,6 @@
 var a17283 =
 [
-    [ "npc_fos_leaderAI", "dd/ddc/a17287.html", "dd/ddc/a17287" ],
-    [ "npc_fos_leader", "d6/d00/a17283.html#a4223072bc180e990ff9e01bf772def5b", null ],
-    [ "GetAI", "d6/d00/a17283.html#a6eca5c95aa3a8498790d8bf52f0741f8", null ],
-    [ "OnGossipHello", "d6/d00/a17283.html#a3858054505d439902624378b9355f40d", null ],
-    [ "OnGossipSelect", "d6/d00/a17283.html#a1b743c6f270a2bdbd09940a414a1b437", null ]
+    [ "OnPeriodic", "d6/d00/a17283.html#ab71faf6fb2900e176aac245317113758", null ],
+    [ "PrepareAuraScript", "d6/d00/a17283.html#a5b4bf1fe2987cdebedaa2e7d048742d6", null ],
+    [ "Register", "d6/d00/a17283.html#a8b90810bfc5416cdfeac2f6a72c55d3e", null ]
 ];

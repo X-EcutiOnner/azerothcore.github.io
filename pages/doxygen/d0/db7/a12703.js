@@ -1,13 +1,9 @@
 var a12703 =
 [
-    [ "npc_rocknot", "d0/db7/a12703.html#a890eaac55162130b05c7d2dba26cc872", null ],
-    [ "DoGo", "d0/db7/a12703.html#a242e871de8e19462fcab6fb9eae1039e", null ],
-    [ "Reset", "d0/db7/a12703.html#afaa1977f370fe699c75ebb83c0d291dd", null ],
-    [ "sQuestReward", "d0/db7/a12703.html#a633123eb64bd6d46ace12fd0e1853aef", null ],
-    [ "UpdateAI", "d0/db7/a12703.html#a15755c98f937784f538d547b15c2d192", null ],
-    [ "WaypointReached", "d0/db7/a12703.html#a3711cae23b14dcce2ac1938aaeb9b961", null ],
-    [ "WaypointReached", "d0/db7/a12703.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "_breakDoorTimer", "d0/db7/a12703.html#a44955a4ef0e730f72848e582892380b5", null ],
-    [ "_breakKegTimer", "d0/db7/a12703.html#ad6e48e6f81521b89da9f528e079c1c90", null ],
-    [ "instance", "d0/db7/a12703.html#a71e6532128131a10aae575d1bac023d0", null ]
+    [ "titles_commandscript", "d0/db7/a12703.html#ac088fd907013150a0508b79c99f6c2f3", null ],
+    [ "GetCommands", "d0/db7/a12703.html#af7d00111b3190f8bc9c46cedda3621d6", null ],
+    [ "HandleTitlesAddCommand", "d0/db7/a12703.html#a2a44d6f83bc5617a25a53b18fbd35e32", null ],
+    [ "HandleTitlesCurrentCommand", "d0/db7/a12703.html#a9a9b503e9ee65aa0d92cc7ff2e38a09d", null ],
+    [ "HandleTitlesRemoveCommand", "d0/db7/a12703.html#a2001bcc2eddc5688d57154f9906218e4", null ],
+    [ "HandleTitlesSetMaskCommand", "d0/db7/a12703.html#a9517b10295b856779cdd067234f640c8", null ]
 ];

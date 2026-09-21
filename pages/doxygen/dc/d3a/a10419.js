@@ -1,15 +1,12 @@
 var a10419 =
 [
-    [ "EscortMovementGenerator", "dc/d3a/a10419.html#a91a6caae81e7715fdcf4c7134f88bc0b", null ],
-    [ "DoFinalize", "dc/d3a/a10419.html#a4c191a86f5ecc30ae5b34d7578d58d3e", null ],
-    [ "DoInitialize", "dc/d3a/a10419.html#ad068798c6e186c1eb1a79f3872955e97", null ],
-    [ "DoReset", "dc/d3a/a10419.html#ac4934d70ab62e08488cfc29c13355a7f", null ],
-    [ "DoUpdate", "dc/d3a/a10419.html#a524bb8f72836dc5d1b63e429436b3a77", null ],
-    [ "GetMovementGeneratorType", "dc/d3a/a10419.html#a0733162a5a0cab2593150f288edeb27b", null ],
-    [ "GetSplineId", "dc/d3a/a10419.html#a61d74b098d1ae692ce305fa493aaa6d2", null ],
-    [ "unitSpeedChanged", "dc/d3a/a10419.html#a235e330c4c3368af00d37028915684ff", null ],
-    [ "_forcedMovement", "dc/d3a/a10419.html#a44019e4185abeb123a163a20c8f47d18", null ],
-    [ "_splineId", "dc/d3a/a10419.html#af6286fa4ed6afcc8a6c5f03575c774e6", null ],
-    [ "i_recalculateSpeed", "dc/d3a/a10419.html#a9f7048c5e49cc09f809496312a0c6550", null ],
-    [ "m_precomputedPath", "dc/d3a/a10419.html#a46eb2812a1b2a56e584b925cae2169eb", null ]
+    [ "BanAccount", "dc/d3a/a10419.html#af85ceffee2ae6a143df5e36f6a004f07", null ],
+    [ "BanAccountByPlayerName", "dc/d3a/a10419.html#a35f92762d69fe32e49b9b239c74e4734", null ],
+    [ "BanCharacter", "dc/d3a/a10419.html#ad5048b36828bfe20a95dfb85515de831", null ],
+    [ "BanIP", "dc/d3a/a10419.html#a404890eab19b97773e6c9aef8cc65707", null ],
+    [ "instance", "dc/d3a/a10419.html#aa495dfaab6af98c43f645acf516a5630", null ],
+    [ "RemoveBanAccount", "dc/d3a/a10419.html#ae831e6227442edc70469229d5d73fa3f", null ],
+    [ "RemoveBanAccountByPlayerName", "dc/d3a/a10419.html#a7b5e1ae6d34ae4f6a15e03c434953aea", null ],
+    [ "RemoveBanCharacter", "dc/d3a/a10419.html#afbde6c0b26802f684ecf78c2f493cc67", null ],
+    [ "RemoveBanIP", "dc/d3a/a10419.html#afcf4857007432ebff042c85c5daf2325", null ]
 ];

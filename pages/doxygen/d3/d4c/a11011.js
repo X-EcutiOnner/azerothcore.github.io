@@ -1,8 +1,7 @@
 var a11011 =
 [
-    [ "PlayedTime", "d3/d4c/a11011.html#abc477d90a27dc41a7c643448302464cf", null ],
-    [ "Write", "d3/d4c/a11011.html#a147071f2545cd91213d6c92dab7438c7", null ],
-    [ "LevelTime", "d3/d4c/a11011.html#a2bf832827f9497a59bbfac714799b4b5", null ],
-    [ "TotalTime", "d3/d4c/a11011.html#ae762fe00339a8f4ca6f9e14bb8515251", null ],
-    [ "TriggerScriptEvent", "d3/d4c/a11011.html#a434b33c61ba5e2d91f084cbfe425c964", null ]
+    [ "AutoStoreBankItem", "d3/d4c/a11011.html#a1cdb7e9c7da7e646af14ac4ac3b7e950", null ],
+    [ "Read", "d3/d4c/a11011.html#a2a482b716f537866a815085ead9cfd38", null ],
+    [ "Bag", "d3/d4c/a11011.html#a08d2992816ee94b6757c2811b54ed437", null ],
+    [ "Slot", "d3/d4c/a11011.html#aaf2cd8c1c3d67301cc40af78f138daa0", null ]
 ];

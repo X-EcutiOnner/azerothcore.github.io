@@ -1,6 +1,8 @@
 var a21595 =
 [
-    [ "npc_khunok_the_behemothAI", "df/d32/a21599.html", "df/d32/a21599" ],
-    [ "npc_khunok_the_behemoth", "de/d53/a21595.html#a0370959631c00581495dbd7c37263236", null ],
-    [ "GetAI", "de/d53/a21595.html#a201aa35dd119d23126b192a1e3786c09", null ]
+    [ "boss_moragg", "de/d53/a21595.html#a42d2508369286e5e635d47cce0b939f4", null ],
+    [ "EnterEvadeMode", "de/d53/a21595.html#a0ac597810a43e30c2cffcc4c878a9998", null ],
+    [ "ExecuteEvent", "de/d53/a21595.html#a945fbf776bb47484d7a4434ee3a630ed", null ],
+    [ "JustEngagedWith", "de/d53/a21595.html#a29da7214373c1919b65f3512655c8bc3", null ],
+    [ "MoveInLineOfSight", "de/d53/a21595.html#ab70b1a6d9c05e191880f0532b775c6f2", null ]
 ];

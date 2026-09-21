@@ -1,12 +1,11 @@
 var a25475 =
 [
-    [ "EtherealSoulTrader", "d8/d74/a25475.html#a8fd600957c21bdd8a1c1793e36ea3953", [
-      [ "NPC_ETHEREAL_SOUL_TRADER", "d8/d74/a25475.html#a8fd600957c21bdd8a1c1793e36ea3953af260b92af2c0a22e3d0de607611f3673", null ],
-      [ "SPELL_OWNER_KILLED_INFORM", "d8/d74/a25475.html#a8fd600957c21bdd8a1c1793e36ea3953a0ece3b3d2fa217b809d77915cc6f30d2", null ],
-      [ "SPELL_STEAL_ESSENCE_VISUAL", "d8/d74/a25475.html#a8fd600957c21bdd8a1c1793e36ea3953aa4a66122509fdf013a6c6b3a5edbbba7", null ]
-    ] ],
-    [ "CheckProc", "d8/d74/a25475.html#a59752617fc790359fdb13cc88aaed15e", null ],
-    [ "HandleProc", "d8/d74/a25475.html#ab52656d4827f3fe980edd281e82debd5", null ],
-    [ "PrepareAuraScript", "d8/d74/a25475.html#a49a6a07b66e5b99c67d4fcef13aeb933", null ],
-    [ "Register", "d8/d74/a25475.html#a16d9e04ba3bc3144cd539033a5053d1a", null ]
+    [ "GetPennatSpellId", "d8/d74/a25475.html#a1e327a79ce90cf7ebbec644ed15ff67f", null ],
+    [ "HandleApplyEffect", "d8/d74/a25475.html#a396c05708a89758e4038b327e09c65e8", null ],
+    [ "HandleRemoveEffect", "d8/d74/a25475.html#adf6fd3d2a36e1ff115b5c5109d37b7a4", null ],
+    [ "Load", "d8/d74/a25475.html#afc83ecf02a1702d48fb39d60419bdbf1", null ],
+    [ "PrepareAuraScript", "d8/d74/a25475.html#a0230d694e9325d7ac6ac6526ecb5a0e3", null ],
+    [ "Register", "d8/d74/a25475.html#a46782a9dfb8ee2100be00afb6aa8b9a7", null ],
+    [ "Validate", "d8/d74/a25475.html#a095b002671940f2b3504ae2646f76d5a", null ],
+    [ "_pennantSpellId", "d8/d74/a25475.html#a092f0d88ede12dea699b39d5df04131c", null ]
 ];

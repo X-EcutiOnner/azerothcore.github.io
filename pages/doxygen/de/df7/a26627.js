@@ -1,8 +1,6 @@
 var a26627 =
 [
-    [ "CheckProc", "de/df7/a26627.html#acf866803e732855ab367583f772c2d59", null ],
-    [ "HandleProc", "de/df7/a26627.html#ad97e46373234f9d8c37fa7fb7c173cb9", null ],
-    [ "PrepareAuraScript", "de/df7/a26627.html#ae73a5ee751fa3645a374ba29f4ad6999", null ],
-    [ "Register", "de/df7/a26627.html#a12bf8fb23b5b27da1afe51d9d9e221e3", null ],
-    [ "Validate", "de/df7/a26627.html#ae23284150ca63c6a8c1766e4c3d8685b", null ]
+    [ "HandleDummy", "de/df7/a26627.html#a4fde3142b38989cb37db76da6eada03c", null ],
+    [ "PrepareSpellScript", "de/df7/a26627.html#aa694a1a7cbbe0f20226d7e616e19cefb", null ],
+    [ "Register", "de/df7/a26627.html#a1f83fae2fb3dc0904ed56101e1254f5f", null ]
 ];

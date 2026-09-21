@@ -1,7 +1,6 @@
 var a11675 =
 [
-    [ "UpdateWorldState", "d8/d7a/a11675.html#a1ccdf24be9a20c824b479af014f4fcb0", null ],
-    [ "Write", "d8/d7a/a11675.html#a76a4c5d6a06ce8d86a2d3f04f68e838d", null ],
-    [ "Value", "d8/d7a/a11675.html#a51fa2401d8af4c1c7848b423cb6f056f", null ],
-    [ "VariableID", "d8/d7a/a11675.html#aa73278b324822f509f48e6edcdaed457", null ]
+    [ "QuestUpdateFailedTimer", "d8/d7a/a11675.html#ae31656f1e3b3d145809113a8b7ce4400", null ],
+    [ "Write", "d8/d7a/a11675.html#a35a0b6609205c7eaa1ea6c3e4e1486ac", null ],
+    [ "QuestId", "d8/d7a/a11675.html#afce18ee4eea44b6c223ff2efc782d31d", null ]
 ];

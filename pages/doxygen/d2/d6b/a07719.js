@@ -1,14 +1,6 @@
 var a07719 =
 [
-    [ "IsArena", "d2/d6b/a07719.html#a8a99bf73debf5835e58537bee33fe2ad", null ],
-    [ "BattlemasterEntry", "d2/d6b/a07719.html#a51ce3b9fdb2f51f439fee7c8b48e3918", null ],
-    [ "Id", "d2/d6b/a07719.html#a0fca37318585903f68695452a95011a9", null ],
-    [ "MaxLevel", "d2/d6b/a07719.html#a790f55d480d1454a5f6e5713c04314b7", null ],
-    [ "MaxPlayersPerTeam", "d2/d6b/a07719.html#a324a4e557ce66089ec1111a9dae6e1de", null ],
-    [ "MaxStartDistSq", "d2/d6b/a07719.html#a5fbb1a76221e9d15bd7cca13581f7b14", null ],
-    [ "MinLevel", "d2/d6b/a07719.html#a49fdf96a08376830a06956fd501cfa78", null ],
-    [ "MinPlayersPerTeam", "d2/d6b/a07719.html#ac1bea263b53de8573cdb8eb890175495", null ],
-    [ "ScriptId", "d2/d6b/a07719.html#a968dd626dba22925be3d8f1a3bdc51aa", null ],
-    [ "StartLocation", "d2/d6b/a07719.html#a8477d2156c8aa5bb89da038d1a779698", null ],
-    [ "Weight", "d2/d6b/a07719.html#aa7a051e8453599a7e82da763a6f91da2", null ]
+    [ "ArenaTeamFilterByTypes", "d2/d6b/a07719.html#ac28ee86767c48219dbe141620c87e129", null ],
+    [ "Filter", "d2/d6b/a07719.html#a7c04437788359b40db1c0d4492d51497", null ],
+    [ "_validTypes", "d2/d6b/a07719.html#aa3b5ce8932b00b092813af239d83b7d1", null ]
 ];

@@ -1,6 +1,6 @@
 var a21815 =
 [
-    [ "npc_injured_7th_legion_soldierAI", "db/d4a/a21819.html", "db/d4a/a21819" ],
-    [ "npc_injured_7th_legion_soldier", "d3/d9d/a21815.html#a9d3c647f485dbca5efeec8f784efba1b", null ],
-    [ "GetAI", "d3/d9d/a21815.html#a0feca7aedcf3c07253d4d402266189cc", null ]
+    [ "npc_mei_francis_mountAI", "db/d4a/a21819.html", "db/d4a/a21819" ],
+    [ "npc_mei_francis_mount", "d3/d9d/a21815.html#ab34facb1d4d9a542710340493488eaa8", null ],
+    [ "GetAI", "d3/d9d/a21815.html#ac1f14e0b94662432b399d6dfeb8a8107", null ]
 ];

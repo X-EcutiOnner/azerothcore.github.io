@@ -1,5 +1,8 @@
 var a11151 =
 [
-    [ "GuildDelete", "d1/dfb/a11151.html#a86733335c7b60d5b9eb8616692da3a7f", null ],
-    [ "Read", "d1/dfb/a11151.html#ae5ca379b187902323638f4c10be0a4d0", null ]
+    [ "GuildCommandResult", "d1/dfb/a11151.html#a9b82d7f9fe8f9b42fb4ed74c14cba03d", null ],
+    [ "Write", "d1/dfb/a11151.html#a621e211342b3bf9b5de01a9a3b66291b", null ],
+    [ "Command", "d1/dfb/a11151.html#a099cf9f39c403f76971d006245b03f29", null ],
+    [ "Name", "d1/dfb/a11151.html#a122ee78cb5fc38aa7ecd7a2cad8a33cc", null ],
+    [ "Result", "d1/dfb/a11151.html#a8b6b2127aa39807a61bf0cc3cce15921", null ]
 ];

@@ -1,6 +1,6 @@
 var a00785 =
 [
-    [ "AuctionHouseScript", "de/d45/a10785.html", "de/d45/a10785" ],
+    [ "AuctionHouseScript", "dd/ddf/a10795.html", "dd/ddf/a10795" ],
     [ "AuctionHouseHook", "d3/d00/a00785.html#a12159e90d998de411ceb193c223f26c9", [
       [ "AUCTIONHOUSEHOOK_ON_AUCTION_ADD", "d3/d00/a00785.html#a12159e90d998de411ceb193c223f26c9a421df825a260ea03c56931355ddf1ab0", null ],
       [ "AUCTIONHOUSEHOOK_ON_AUCTION_REMOVE", "d3/d00/a00785.html#a12159e90d998de411ceb193c223f26c9a734ce8ea184a341e1f4f2cb623ca92f2", null ],

@@ -1,8 +1,7 @@
 var a23603 =
 [
-    [ "boss_broggok", "d6/d2f/a23603.html#ae20c04793116d3e8eab62d2ee27010df", null ],
-    [ "DoAction", "d6/d2f/a23603.html#af5de5a1747c502f72af015c09d050354", null ],
-    [ "JustEngagedWith", "d6/d2f/a23603.html#a084e3c37a0218d47c8e39b196fc6746a", null ],
-    [ "JustSummoned", "d6/d2f/a23603.html#a0bf2d75f7889542a9e48689b8d080a1e", null ],
-    [ "Reset", "d6/d2f/a23603.html#af11b4dc2aee8064a1eaad334d93e6de0", null ]
+    [ "HandleScript", "d6/d2f/a23603.html#a7c1b4d0c8d2ad153cef62ce05fef814c", null ],
+    [ "PrepareSpellScript", "d6/d2f/a23603.html#ab826f4f249679ffe87f9e6ccf6b9ecf0", null ],
+    [ "Register", "d6/d2f/a23603.html#a82da72fd4eed6773c1f3a4288caa8963", null ],
+    [ "Validate", "d6/d2f/a23603.html#a46aca18049e02d50f57579b3fdc705bd", null ]
 ];

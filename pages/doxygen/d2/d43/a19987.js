@@ -1,6 +1,7 @@
 var a19987 =
 [
-    [ "instance_halls_of_lightning_InstanceMapScript", "d5/d96/a19991.html", "d5/d96/a19991" ],
-    [ "instance_halls_of_lightning", "d2/d43/a19987.html#a24395866efe2c7d1f7727be2557a8b46", null ],
-    [ "GetInstanceScript", "d2/d43/a19987.html#a5ce157aeaf2ed78e98e864059a599b36", null ]
+    [ "HandleProc", "d2/d43/a19987.html#adb7714eca4c317ab76db0ecbc813669e", null ],
+    [ "PrepareAuraScript", "d2/d43/a19987.html#a70f2c5c4656abb4798ad39b015fc2a9a", null ],
+    [ "Register", "d2/d43/a19987.html#a445ce7331c36e507aa24466ff9a67781", null ],
+    [ "Validate", "d2/d43/a19987.html#ad0e44f34d7bd1671ef7dcc2165abaa66", null ]
 ];

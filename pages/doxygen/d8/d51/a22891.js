@@ -1,7 +1,11 @@
 var a22891 =
 [
-    [ "VerasEnvenom", "d8/d51/a22891.html#ac8c5f4fcb63ea5141a71b56324de0b1f", null ],
-    [ "Execute", "d8/d51/a22891.html#a4b7853bb835cf28aefe2d5b955372d70", null ],
-    [ "_owner", "d8/d51/a22891.html#af9cf231119ab5592be9829784f20d2e0", null ],
-    [ "_targetGUID", "d8/d51/a22891.html#a90d62907c775565765fa87903adb94ea", null ]
+    [ "boss_gurtogg_bloodboil", "d8/d51/a22891.html#af6abec4e4db5ce939e4c9593656d16fb", null ],
+    [ "CanAIAttack", "d8/d51/a22891.html#a60e6439bab689eb88a18612b6b46c713", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d8/d51/a22891.html#a42db4d9fab6edfc392e1886c7d2770cb", null ],
+    [ "JustDied", "d8/d51/a22891.html#a10456695efc6ea0b8eace24b94c37cc3", null ],
+    [ "JustEngagedWith", "d8/d51/a22891.html#a0847173efbae252c2fbbaf1be17097cb", null ],
+    [ "JustSummoned", "d8/d51/a22891.html#ae718666a1da0e93cb0965c42c40b51df", null ],
+    [ "KilledUnit", "d8/d51/a22891.html#ab2b8131fc06f0ff6dd9e3ac7799e72db", null ],
+    [ "Reset", "d8/d51/a22891.html#add25677d422b8bddcb753465451f0584", null ]
 ];

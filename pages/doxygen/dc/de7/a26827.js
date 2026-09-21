@@ -1,8 +1,10 @@
 var a26827 =
 [
-    [ "CheckProc", "dc/de7/a26827.html#a2e7c3b219786c4328c6f5de2b4e6b684", null ],
-    [ "HandleProc", "dc/de7/a26827.html#ac564fc88a0cfe410b7caaeed639b5258", null ],
-    [ "PrepareAuraScript", "dc/de7/a26827.html#ab8c2f9f3f3750419ad62d72e284bf3b1", null ],
-    [ "Register", "dc/de7/a26827.html#ac5bb4e949f4a7b86b41861777f86bd7a", null ],
-    [ "Validate", "dc/de7/a26827.html#af67336b40e69f72f8cd5aa1776490bad", null ]
+    [ "CheckProc", "dc/de7/a26827.html#a23dfb39522f7a5437af439ef567d6ec6", null ],
+    [ "HandleEffectApply", "dc/de7/a26827.html#ab83f17b45edc5dba8f4b3f3fbc88c626", null ],
+    [ "HandleEffectRemove", "dc/de7/a26827.html#a7bab07fde0fb18e89388e1bc4c72c165", null ],
+    [ "HandleProc", "dc/de7/a26827.html#a8352d7d9376f149fa227f7ca983e2660", null ],
+    [ "PrepareAuraScript", "dc/de7/a26827.html#a309dabfa452d3279e7fb47a8e4784779", null ],
+    [ "Register", "dc/de7/a26827.html#a3d020d3025f0ad086c43b4239205cd94", null ],
+    [ "Validate", "dc/de7/a26827.html#ac3a5505808b3a7e718071f1202805ac5", null ]
 ];

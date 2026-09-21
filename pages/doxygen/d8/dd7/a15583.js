@@ -1,6 +1,7 @@
 var a15583 =
 [
-    [ "instance_ruins_of_ahnqiraj_InstanceMapScript", "d2/d15/a15587.html", "d2/d15/a15587" ],
-    [ "instance_ruins_of_ahnqiraj", "d8/dd7/a15583.html#adeacb1c68e4b12995a335d1bedde075a", null ],
-    [ "GetInstanceScript", "d8/dd7/a15583.html#a6a661e961c2599498de0ccd41c0763b4", null ]
+    [ "HandleScript", "d8/dd7/a15583.html#a8aea4a40472aec4cbb7001fbd63db24c", null ],
+    [ "Load", "d8/dd7/a15583.html#a2dc1edf537f58133fb4daabde9f43843", null ],
+    [ "PrepareSpellScript", "d8/dd7/a15583.html#ae856c6e70ededa95c0308596a9f980af", null ],
+    [ "Register", "d8/dd7/a15583.html#ac2e82c7e626658faa968f75c26688b43", null ]
 ];

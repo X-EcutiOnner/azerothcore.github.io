@@ -1,6 +1,7 @@
 var a21779 =
 [
-    [ "npc_conversing_with_the_depths_triggerAI", "d2/dcc/a21783.html", "d2/dcc/a21783" ],
-    [ "npc_conversing_with_the_depths_trigger", "d2/d91/a21779.html#a55ba213da86650d44ea1493b26fdb7f2", null ],
-    [ "GetAI", "d2/d91/a21779.html#a61c337bfe1efb3589cf0df91d9082236", null ]
+    [ "HandleEffectHit", "d2/d91/a21779.html#a8d7dd2411c3b786e682260eb30862602", null ],
+    [ "PrepareSpellScript", "d2/d91/a21779.html#a49b6d005013e480f8161779119bc9b2d", null ],
+    [ "Register", "d2/d91/a21779.html#a017ae25fead98a5c18cdb83128085ddd", null ],
+    [ "Validate", "d2/d91/a21779.html#a9e1dbc7714a35bcc7ec26286419517c2", null ]
 ];

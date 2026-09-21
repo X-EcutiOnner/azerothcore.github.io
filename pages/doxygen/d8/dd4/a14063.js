@@ -1,10 +1,21 @@
 var a14063 =
 [
-    [ "npc_grand_magister_rommathAI", "d8/dd4/a14063.html#a5e9404dd8bf4b513e05daac53c076314", null ],
-    [ "DoAction", "d8/dd4/a14063.html#a138bc8cd6f1312d83fefdf5499a479b7", null ],
-    [ "MoveInLineOfSight", "d8/dd4/a14063.html#ad35b64b37915484b133bcd185a832011", null ],
-    [ "UpdateAI", "d8/dd4/a14063.html#ac687bd20f0ae66b21ce52c21561af417", null ],
-    [ "announced", "d8/dd4/a14063.html#a4c9107ef5d4a85d7487ff4cf7bf6464a", null ],
-    [ "events", "d8/dd4/a14063.html#a4c1b6616bc88a9ad5074670843315bc6", null ],
-    [ "playerGUID", "d8/dd4/a14063.html#ad0ac0647feb998e837a44b0a688694e9", null ]
+    [ "npc_eris_hevenfireAI", "d8/dd4/a14063.html#a07d91015d64f5d6ac5b78a6082e0280d", null ],
+    [ "CanBeSeen", "d8/dd4/a14063.html#a16293cab0ff15d13675dcadc3050365f", null ],
+    [ "DoAction", "d8/dd4/a14063.html#a982f2efef39ac47d2df6579676b25862", null ],
+    [ "JustSummoned", "d8/dd4/a14063.html#a21f91de064bec6943aae5d710e6ec485", null ],
+    [ "Reset", "d8/dd4/a14063.html#a0b328182914ca26786808b6fd2491619", null ],
+    [ "SetData", "d8/dd4/a14063.html#a8c012a9c083921770980fb8c037d6ccc", null ],
+    [ "SetGUID", "d8/dd4/a14063.html#a09db4a9cf9ccab011271cc671187c9be", null ],
+    [ "SummonArchers", "d8/dd4/a14063.html#aa415baa9bff7c93c57f327b661689ac3", null ],
+    [ "SummonPeasants", "d8/dd4/a14063.html#ab5a69679bad85ed42b2f408231781da9", null ],
+    [ "UpdateAI", "d8/dd4/a14063.html#a3f3da888c1076f4f728157f7ba9edf1c", null ],
+    [ "_counter", "d8/dd4/a14063.html#aa5f1374bbf98a613db266994b6640031", null ],
+    [ "_deathCount", "d8/dd4/a14063.html#a258d870137c02dd74ff23b94cb3f90d1", null ],
+    [ "_faction", "d8/dd4/a14063.html#a2b11d54ff39f568cf26845251a38a612", null ],
+    [ "_playerGUID", "d8/dd4/a14063.html#a8ba92ce2b32b70e1275f551871d640fe", null ],
+    [ "_savedCount", "d8/dd4/a14063.html#aef83dfb3c6c737af77b63b650fdf5749", null ],
+    [ "_spoken", "d8/dd4/a14063.html#abe9dbd5111b73ac6c7bf336da98d06d1", null ],
+    [ "events", "d8/dd4/a14063.html#a62dee89eca10f43af3051800e4a69c74", null ],
+    [ "summons", "d8/dd4/a14063.html#a8d30f6f513ee7e195dbef56071f136fc", null ]
 ];

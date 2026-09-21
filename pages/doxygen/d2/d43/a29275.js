@@ -1,12 +1,8 @@
 var a29275 =
 [
-    [ "CalendarFilterType", "d2/d43/a29275.html#a082b59a0ead8223e590cbb371f3ad122", null ],
-    [ "CalendarFlags", "d2/d43/a29275.html#a6f9cf483200ac982bab7a66ff8bef33d", null ],
-    [ "Date", "d2/d43/a29275.html#ac5b08b086ef0668508ea9da48642e95b", null ],
-    [ "Duration", "d2/d43/a29275.html#a10cae1b1fbb91930209a714c545b129b", null ],
-    [ "Id", "d2/d43/a29275.html#a1119824959b87fb312209a998a5869b1", null ],
-    [ "Looping", "d2/d43/a29275.html#afa2d93998650f88e62bfa76807961274", null ],
-    [ "Priority", "d2/d43/a29275.html#a6d82bc7a66d227f61c3be2260a3d03f5", null ],
-    [ "Region", "d2/d43/a29275.html#a96a8e5ceae0f4b0d8cc6cf3aa59802a0", null ],
-    [ "TextureFilename", "d2/d43/a29275.html#a2209ecbb78f1f467491506cc97df57e4", null ]
+    [ "difficulty", "d2/d43/a29275.html#a2a04df701c13dc49053b09a9587a72a8", null ],
+    [ "encounterIndex", "d2/d43/a29275.html#a3d35560824a3aaeecb8db4bf8628ebfd", null ],
+    [ "encounterName", "d2/d43/a29275.html#af4f26f56526b945e392ddaf6b2d43fa1", null ],
+    [ "id", "d2/d43/a29275.html#aa9828ccc644a11f9cb35fbcc7d31a827", null ],
+    [ "mapId", "d2/d43/a29275.html#a61c1ac724c8eb96907d2ea9402a8f9ce", null ]
 ];

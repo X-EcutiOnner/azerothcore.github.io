@@ -1,6 +1,6 @@
 var a21839 =
 [
-    [ "npc_heated_battleAI", "d6/d0f/a21843.html", "d6/d0f/a21843" ],
-    [ "npc_heated_battle", "d2/dbd/a21839.html#aceafde04a60940c1027a6e838ffdc137", null ],
-    [ "GetAI", "d2/dbd/a21839.html#af73fc1f330bf2fd224e53be39da1c9d3", null ]
+    [ "npc_mageguard_dalaranAI", "d6/d0f/a21843.html", "d6/d0f/a21843" ],
+    [ "npc_mageguard_dalaran", "d2/dbd/a21839.html#a0cec4f232b665325c421cecb5839885f", null ],
+    [ "GetAI", "d2/dbd/a21839.html#a10cbddceb53a2d432da2224128c59b28", null ]
 ];

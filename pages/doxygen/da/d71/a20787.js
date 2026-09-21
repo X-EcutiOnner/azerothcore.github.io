@@ -1,7 +1,12 @@
 var a20787 =
 [
-    [ "go_razorscale_mole_machineAI", "da/d71/a20787.html#af648942b5794adf77d51d581aa6edeee", null ],
-    [ "Reset", "da/d71/a20787.html#ac2b96d741950c7ee1bde296a78bd5c01", null ],
-    [ "UpdateAI", "da/d71/a20787.html#acff2bc016f10597b37e868a99da03f0d", null ],
-    [ "_scheduler", "da/d71/a20787.html#aa29309e3d94e1f19cfc1557e75bb70de", null ]
+    [ "npc_ulduar_flames_initial", "da/d71/a20787.html#ac0ba4a5631f580b23be30f6d19545a1f", null ],
+    [ "DoAction", "da/d71/a20787.html#ae0b262371dfc00ca168afc9e4d28b133", null ],
+    [ "RemoveAll", "da/d71/a20787.html#a604fee1e371ffd6efe8f80c6db61318f", null ],
+    [ "RemoveFlame", "da/d71/a20787.html#ad676a542b40b554027fc2ab491fa083d", null ],
+    [ "SpreadFlame", "da/d71/a20787.html#af50c950610f5277a755d1786b596b9d7", null ],
+    [ "UpdateAI", "da/d71/a20787.html#a34c1ffd2bc07c2a736a7d6dc103a8afe", null ],
+    [ "_createTime", "da/d71/a20787.html#aa73a9fa2110bd5abdff9b509e13ce333", null ],
+    [ "_events", "da/d71/a20787.html#a0f99d43d373b61e9c665bd6c0d389afb", null ],
+    [ "_flameList", "da/d71/a20787.html#a50a26001f8bfe87a3a4f1feb544cf521", null ]
 ];

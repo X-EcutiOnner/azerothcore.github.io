@@ -1,15 +1,11 @@
 var a07555 =
 [
-    [ "AuctionHouseSearcher", "d3/da5/a07555.html#adee77153a7b9efeac149e6c951082986", null ],
-    [ "~AuctionHouseSearcher", "d3/da5/a07555.html#a84842935539c5ef8b02815cc8697e568", null ],
-    [ "AddAuction", "d3/da5/a07555.html#a09e01dd8840a50f6b6dd5f70ad9ec10c", null ],
-    [ "NotifyAllWorkers", "d3/da5/a07555.html#a443577cfba0af003e7e0e8834474a6c1", null ],
-    [ "NotifyOneWorker", "d3/da5/a07555.html#a1b70b786bf6e57d9d9cae8f34f0d779b", null ],
-    [ "QueueSearchRequest", "d3/da5/a07555.html#a53caf3298638d325a8b9e97584296ad3", null ],
-    [ "RemoveAuction", "d3/da5/a07555.html#a145da4d009d9814a4e76fae0d02f33e4", null ],
-    [ "Update", "d3/da5/a07555.html#ac8c7b88346dc99bed5fe8d0efb28eebb", null ],
-    [ "UpdateBid", "d3/da5/a07555.html#a7bb50e3e903c73a83469e7323917d40d", null ],
-    [ "_requestQueue", "d3/da5/a07555.html#ac221abeb9a760c90d6110310970e6463", null ],
-    [ "_responseQueue", "d3/da5/a07555.html#a772e65025ae498b8837222ae98f49c28", null ],
-    [ "_workerThreads", "d3/da5/a07555.html#aa1cedd8cb22b840599b97bf7c7df0949", null ]
+    [ "GetSkillValue", "d3/da5/a07555.html#a8f5894a5729d4c8d26376bbe1a2ac29e", null ],
+    [ "HasSpell", "d3/da5/a07555.html#a3400ad05d8423ae6878fab815521ec6f", null ],
+    [ "PlayerCanUseItem", "d3/da5/a07555.html#aee11f4f45f83664483344e3bbfba7463", null ],
+    [ "classMask", "d3/da5/a07555.html#a41a57c372871c84a572d2f3697cb18aa", null ],
+    [ "level", "d3/da5/a07555.html#a870f632b54e4638b1f5a4e93b6bd9e52", null ],
+    [ "raceMask", "d3/da5/a07555.html#a96e56943da42f1a1258fc1d716259e1a", null ],
+    [ "skills", "d3/da5/a07555.html#a55c2ad9d1cdea4913cb35deb4adc87fd", null ],
+    [ "spells", "d3/da5/a07555.html#ac83cc019ceb1752ce8d6b5a3aa3d350f", null ]
 ];

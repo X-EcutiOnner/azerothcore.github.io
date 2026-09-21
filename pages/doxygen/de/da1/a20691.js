@@ -1,5 +1,7 @@
 var a20691 =
 [
-    [ "go_ulduar_do_not_push_this_button", "de/da1/a20691.html#aa204af213a643c001161e0c2f173ee6b", null ],
-    [ "OnGossipHello", "de/da1/a20691.html#ae11efa54b496ab21600a9c62e50b5fbe", null ]
+    [ "FilterTargetsInitial", "de/da1/a20691.html#a2477349cffb8da02936545ba0bd03d0f", null ],
+    [ "Load", "de/da1/a20691.html#a4606d10a2699e3fb5290cefdc0876505", null ],
+    [ "PrepareSpellScript", "de/da1/a20691.html#aa28f3565bddf70b98c945be7a7a37bad", null ],
+    [ "Register", "de/da1/a20691.html#ae9bbe2d4ce5413f040b8b5f73f985822", null ]
 ];

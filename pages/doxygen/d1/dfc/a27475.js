@@ -1,8 +1,8 @@
 var a27475 =
 [
-    [ "CheckProc", "d1/dfc/a27475.html#a2e564758a050827108955f73a08e72e7", null ],
-    [ "PrepareAuraScript", "d1/dfc/a27475.html#a5993871d8837b43580818fa94e1bccc2", null ],
-    [ "Register", "d1/dfc/a27475.html#a24faa9992523bc87df7f5ebccfb42233", null ],
-    [ "WasUsedByMutilate", "d1/dfc/a27475.html#af31c8d77307f3cf3acee06e0b159925e", null ],
-    [ "_usedByMutilate", "d1/dfc/a27475.html#a3f5cde7b3af5c3a6b75d76b742cae54b", null ]
+    [ "HandleDummy", "d1/dfc/a27475.html#a308880cf9c61c76de0fdee05fff2b463", null ],
+    [ "Load", "d1/dfc/a27475.html#acafb9d6ac4fde694dc44cbf13b7f97ad", null ],
+    [ "PrepareSpellScript", "d1/dfc/a27475.html#a3a2672c39f36229c0dd6cdea0fad3299", null ],
+    [ "Register", "d1/dfc/a27475.html#a1857b342ae34a57f079f45019645c688", null ],
+    [ "Validate", "d1/dfc/a27475.html#a121c30045281eab5fee4f65d38d1dfc3", null ]
 ];

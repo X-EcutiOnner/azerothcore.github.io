@@ -1,5 +1,5 @@
 var a28783 =
 [
-    [ "go_transport_the_thundercaller", "dd/d67/a28783.html#a79d5ed60a112c5f352f9f0b94f9f3a17", null ],
-    [ "EventInform", "dd/d67/a28783.html#ad2e981ff6223ec2cbd8a897485a61204", null ]
+    [ "npc_controller", "dd/d67/a28783.html#a3c75fb509d5cf4b4d417c97b409615b1", null ],
+    [ "OnCharmed", "dd/d67/a28783.html#a69628677de225d76a8c89b4626e0f32b", null ]
 ];

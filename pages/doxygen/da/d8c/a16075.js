@@ -1,6 +1,6 @@
 var a16075 =
 [
-    [ "npc_qiraj_war_spawnAI", "de/dbb/a16079.html", "de/dbb/a16079" ],
-    [ "npc_qiraj_war_spawn", "da/d8c/a16075.html#a2afba33e9fd879ac3fea206768b14334", null ],
-    [ "GetAI", "da/d8c/a16075.html#a32339f20251c188b895c02b6cc9217e9", null ]
+    [ "npcs_riverbreeze_and_silversky", "da/d8c/a16075.html#a9f012d5bbaa8b9f9822ddfbd86e7c4b2", null ],
+    [ "OnGossipHello", "da/d8c/a16075.html#a7de032322a37f929c316aadfdadda768", null ],
+    [ "OnGossipSelect", "da/d8c/a16075.html#a93c7b159dda733da5030de747bad30b5", null ]
 ];

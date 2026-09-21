@@ -1,12 +1,13 @@
 var a29771 =
 [
-    [ "SetUp", "d8/d4b/a29771.html#a15e54f4d79771affa21c8728d4a70a35", null ],
-    [ "TearDown", "d8/d4b/a29771.html#a86941b0a70e73299beb5d68fd9d8d68b", null ],
-    [ "PERM_BAN", "d8/d4b/a29771.html#a309db6b83865b1f8afc92983ed4991fc", null ],
-    [ "PERM_KICK", "d8/d4b/a29771.html#ab224c843e5dac2fe11f8165ed37c325a", null ],
-    [ "PERM_SHUTDOWN", "d8/d4b/a29771.html#a385552a15b063d426557e5f87f6ba6b6", null ],
-    [ "PERM_TELEPORT", "d8/d4b/a29771.html#a61c556021598bc970927b3abe49cd68d", null ],
-    [ "rbacData", "d8/d4b/a29771.html#aa0772fd125f832a546a4a39305ec77c4", null ],
-    [ "ROLE_ADMIN", "d8/d4b/a29771.html#abfcb781ea0fdaf44b5e9d688c3b52abc", null ],
-    [ "ROLE_GM", "d8/d4b/a29771.html#a158724ae6a0c8c2f262f8de6b0e9b4dc", null ]
+    [ "attackType", "d8/d4b/a29771.html#a4715e7e37c120d791e6a32cd275b8cbd", null ],
+    [ "equippedItemClass", "d8/d4b/a29771.html#aceba901b7f666b4a3806c35b6d8697ad", null ],
+    [ "equippedItemSubClassMask", "d8/d4b/a29771.html#a3384bf3ae58fb0977f8fa81f84d940e2", null ],
+    [ "hasEquippedItem", "d8/d4b/a29771.html#a5d7780265fe18a0657f2a68d9c737fe7", null ],
+    [ "hasNoEquipRequirementAttr", "d8/d4b/a29771.html#ab754fdbbb49982e7152057341fc3e3af", null ],
+    [ "isInFeralForm", "d8/d4b/a29771.html#a3d8d88f4640c3100a88efee52ecf5822", null ],
+    [ "isPassive", "d8/d4b/a29771.html#ad56881b893a29dc5d6be193c6720c4e0", null ],
+    [ "isPlayer", "d8/d4b/a29771.html#a7de2ea9efe7606f26e2c11d8963357d0", null ],
+    [ "itemFitsRequirements", "d8/d4b/a29771.html#a760a3b39c124c3f408f0541744b6b34a", null ],
+    [ "itemIsBroken", "d8/d4b/a29771.html#a3b53871ecd10bd1f6d624431b0907b90", null ]
 ];

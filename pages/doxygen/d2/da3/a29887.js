@@ -1,11 +1,6 @@
 var a29887 =
 [
-    [ "SetUp", "d2/da3/a29887.html#a6905326495d9902c04075e1278ceee09", null ],
-    [ "TearDown", "d2/da3/a29887.html#a93922bbc8b0748ea2744da16bb9be908", null ],
-    [ "_map", "d2/da3/a29887.html#a7488073f59af18ddff83352153bce0f9", null ],
-    [ "_previousWorld", "d2/da3/a29887.html#a5098326e6ea76115910d5d87e9146106", null ],
-    [ "_snake", "d2/da3/a29887.html#a8fa5bbd89471aa9b332b27d2183b823d", null ],
-    [ "_targetA", "d2/da3/a29887.html#a57f036093e543f841c808380d3bb6708", null ],
-    [ "_targetB", "d2/da3/a29887.html#ae722aaab98cdbd47252f6b95df507679", null ],
-    [ "_worldMock", "d2/da3/a29887.html#ac4ea643a5b5a1e40790a254b2809c11b", null ]
+    [ "SetUp", "d2/da3/a29887.html#a30e0c9430db1751806a4af2042f6543c", null ],
+    [ "TearDown", "d2/da3/a29887.html#aeac080e02cbd13c708e22cf93bf2d1d9", null ],
+    [ "rbacData", "d2/da3/a29887.html#a64b87a54a5210ff2bb1c9a72c1be3736", null ]
 ];

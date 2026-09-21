@@ -1,6 +1,10 @@
 var a26979 =
 [
-    [ "HandleDamage", "dd/d89/a26979.html#ae34b85a4830066e21069e5ab8373e5c4", null ],
-    [ "PrepareSpellScript", "dd/d89/a26979.html#a86fd53d1f9a2ecf22c4969e2f8506acf", null ],
-    [ "Register", "dd/d89/a26979.html#a1a679fb0be26228f5fcdb45da2b994ff", null ]
+    [ "spell_pal_improved_aura", "dd/d89/a26979.html#a4bc4b78ce3aab5ba4b5e6a009910cf7c", null ],
+    [ "HandleEffectApply", "dd/d89/a26979.html#a441952100c103ccdf84c58827669faac", null ],
+    [ "HandleEffectRemove", "dd/d89/a26979.html#aad7c1d2b5722523e119ff7dbe27ceb30", null ],
+    [ "PrepareAuraScript", "dd/d89/a26979.html#a4b35f298000b2a6cc530644018d4d7e4", null ],
+    [ "Register", "dd/d89/a26979.html#a148b20ba206ba69d2dcd84abbf7d17af", null ],
+    [ "Validate", "dd/d89/a26979.html#aa5450660ba559f31a815f4f2a4452fbc", null ],
+    [ "_spellId", "dd/d89/a26979.html#a9b7b9b73a0e6cacc917aedebdf789901", null ]
 ];

@@ -1,8 +1,7 @@
 var a23007 =
 [
-    [ "HandleEffectApply", "d3/d70/a23007.html#a94993441ef94f84c85aa10c693cf34fe", null ],
-    [ "HandleEffectRemove", "d3/d70/a23007.html#a047a1dd4bab33d7d5b2631c0862ba4b0", null ],
-    [ "PrepareAuraScript", "d3/d70/a23007.html#a0ced86fc2e108e7bba9727d26eac3ff3", null ],
-    [ "Register", "d3/d70/a23007.html#a0dbd8b0bc1dfad8bda0e48ab57b4db3f", null ],
-    [ "Validate", "d3/d70/a23007.html#a964637541cd64e64b4e02c00d36abf2d", null ]
+    [ "boss_lady_malande", "d3/d70/a23007.html#a8cb693d203463dcba809e7ffc23c6868", null ],
+    [ "AttackStart", "d3/d70/a23007.html#ad5cf6e7b0000c7f96d8606088fb13d31", null ],
+    [ "JustEngagedWith", "d3/d70/a23007.html#af4b5f376e387851e15517de03636acde", null ],
+    [ "UpdateAI", "d3/d70/a23007.html#a6d9d09a49fc87bbbda02387f78bb3739", null ]
 ];

@@ -1,8 +1,7 @@
 var a14287 =
 [
-    [ "npc_the_scourge_cauldronAI", "d8/d56/a14287.html#aa8b221cfe49b09efbfe5943489c844b8", null ],
-    [ "DoDie", "d8/d56/a14287.html#a9f720a27db2943a66b11ad6355690bf5", null ],
-    [ "JustEngagedWith", "d8/d56/a14287.html#a89954dec2f7d57d933c18822333243ac", null ],
-    [ "MoveInLineOfSight", "d8/d56/a14287.html#a256195dbe75859d72afcd0defb9ff76e", null ],
-    [ "Reset", "d8/d56/a14287.html#ab18bb2eb344f45827685786c665b1750", null ]
+    [ "OnApply", "d8/d56/a14287.html#a21450cd59487a927bbc0a5a5e1ffa72b", null ],
+    [ "OnRemove", "d8/d56/a14287.html#a810203874163cf04798c3edbe69b747e", null ],
+    [ "PrepareAuraScript", "d8/d56/a14287.html#a3c17a7366acd9bd1863bae0f9218930a", null ],
+    [ "Register", "d8/d56/a14287.html#af2ad52165de188897fdeb8d62646b7cc", null ]
 ];

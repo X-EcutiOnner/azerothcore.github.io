@@ -1,7 +1,26 @@
 var a10939 =
 [
-    [ "AutoBankItem", "d7/de2/a10939.html#a02d39ddc9eda90be709b2fa9c1f6023d", null ],
-    [ "Read", "d7/de2/a10939.html#a8651192c6040cdf5d257c134dde1208c", null ],
-    [ "Bag", "d7/de2/a10939.html#a69f9b65ecb778c94c6e9278e5f98d31b", null ],
-    [ "Slot", "d7/de2/a10939.html#a970f2ca85a76de1a25ad40a9ebf0029f", null ]
+    [ "UnitScript", "d7/de2/a10939.html#a08bf5c84f5d4044a7b64406fb79071dd", null ],
+    [ "CanSetPhaseMask", "d7/de2/a10939.html#a95d2e7dd7074494fdd4f530f9684c1bf", null ],
+    [ "DealDamage", "d7/de2/a10939.html#a4b161e889eee3572a41c33a144d12cdf", null ],
+    [ "IfNormalReaction", "d7/de2/a10939.html#a355d024283b4ce02a2fdcf551c75c3b2", null ],
+    [ "IsCustomBuildValuesUpdate", "d7/de2/a10939.html#a1859b5ca0970c3a358a4ba0207f281de", null ],
+    [ "ModifyHealReceived", "d7/de2/a10939.html#ac2f40d7ca52538ae874f60a7acbf443b", null ],
+    [ "ModifyMeleeDamage", "d7/de2/a10939.html#acde1701dd3d6207da2e76d7d1753f9c7", null ],
+    [ "ModifyPeriodicDamageAurasTick", "d7/de2/a10939.html#ae0703adbc70a14443c0370de77e95190", null ],
+    [ "ModifySpellDamageTaken", "d7/de2/a10939.html#a375db3302ef33bcc5c874b0b53bbc345", null ],
+    [ "OnAuraApply", "d7/de2/a10939.html#a334ac1a9d8e29aa064d3625d59c7a167", null ],
+    [ "OnAuraRemove", "d7/de2/a10939.html#a2ed2cf6d9725ae342adfada023538a28", null ],
+    [ "OnBeforeRollMeleeOutcomeAgainst", "d7/de2/a10939.html#a627a99cd078d2cbd52519874f0bd0aff", null ],
+    [ "OnDamage", "d7/de2/a10939.html#a5541573db45b4404ae0b613251ad1a13", null ],
+    [ "OnDisplayIdChange", "d7/de2/a10939.html#a43cd3dd2e6cd311b1045b8f5d7d6ac83", null ],
+    [ "OnHeal", "d7/de2/a10939.html#adcdc8430e14bccfe399a7e1a3edd2b69", null ],
+    [ "OnPatchValuesUpdate", "d7/de2/a10939.html#a0a751a8fb5c99375b667214915822e96", null ],
+    [ "OnUnitDeath", "d7/de2/a10939.html#a7bb5f4ea3ae8edb55df455648863d93f", null ],
+    [ "OnUnitEnterCombat", "d7/de2/a10939.html#a8d04617af120a1e23ad57a45440744bb", null ],
+    [ "OnUnitEnterEvadeMode", "d7/de2/a10939.html#a9df6f81297f53007f1227778466e912f", null ],
+    [ "OnUnitExitCombat", "d7/de2/a10939.html#a2137be3b52311693b6feda345cb3c7f7", null ],
+    [ "OnUnitSetShapeshiftForm", "d7/de2/a10939.html#acacf12c000646710abf931429a0852c0", null ],
+    [ "OnUnitUpdate", "d7/de2/a10939.html#a36e7ba9d74892f59d0a36b76e78f4f80", null ],
+    [ "ShouldTrackValuesUpdatePosByIndex", "d7/de2/a10939.html#a7b74be81d24bc7265d5566d67d044aad", null ]
 ];

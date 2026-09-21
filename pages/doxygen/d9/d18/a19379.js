@@ -1,6 +1,8 @@
 var a19379 =
 [
-    [ "RespawnEvent", "d9/d18/a19379.html#accc0d5638ff7a493fa116ac2e8f2e58b", null ],
-    [ "Execute", "d9/d18/a19379.html#a2e58f4e472fb72cf5401f11be6e5e136", null ],
-    [ "_owner", "d9/d18/a19379.html#adb0835b4a2e7a2795bb81f0a1e3c911a", null ]
+    [ "Class", "d9/d18/a19379.html#a095390e9023609f5836c4481ed79e1af", null ],
+    [ "cooldown_ms", "d9/d18/a19379.html#acfcb10f019ebaf4d2130bcdbc059c7e7", null ],
+    [ "id", "d9/d18/a19379.html#ae9fdf89271339b93f306c4aa0871f844", null ],
+    [ "range", "d9/d18/a19379.html#aad126da206abceb6a66dcda1cbd3b28b", null ],
+    [ "targetType", "d9/d18/a19379.html#ae5fc8cb423536f631591d3b72bfd06dd", null ]
 ];

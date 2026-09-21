@@ -1,12 +1,6 @@
 var a12179 =
 [
-    [ "CreatureTextBuilder", "d2/d4f/a12179.html#a582eed3ab284675e72261a1db9808925", null ],
-    [ "operator()", "d2/d4f/a12179.html#a851cc84cc7faebfffe3267ecb0d3b3fb", null ],
-    [ "_gender", "d2/d4f/a12179.html#a615c3046f749bf44b036958fb1a50128", null ],
-    [ "_language", "d2/d4f/a12179.html#ac6e3bea125cd2b44a56f899c4aa35e1b", null ],
-    [ "_msgType", "d2/d4f/a12179.html#ac4b4f75821f4ff5855cafca91523cbca", null ],
-    [ "_source", "d2/d4f/a12179.html#ab87c45c49aa07b4434e42b6d7948e8b3", null ],
-    [ "_target", "d2/d4f/a12179.html#a5a5fd218c7162ba634455e0db6ee35a1", null ],
-    [ "_textGroup", "d2/d4f/a12179.html#afcd842c1482980c6232f3f19d21a1481", null ],
-    [ "_textId", "d2/d4f/a12179.html#a3f40b8dd1da052a372afbbc5f06700ac", null ]
+    [ "EffectCalcSpellModHandler", "d2/d4f/a12179.html#abe81396a3f1c1b3b07c10cf0e191546c", null ],
+    [ "Call", "d2/d4f/a12179.html#a5ca2a9c329a7dbbb7e835849ca4479aa", null ],
+    [ "pEffectHandlerScript", "d2/d4f/a12179.html#a15c0b24641cb04f31bb3d651dae59448", null ]
 ];

@@ -1,12 +1,13 @@
 var a04511 =
 [
-    [ "BinarySpellDetectionTest", "d9/d45/a30013.html", "d9/d45/a30013" ],
-    [ "ShouldMarkBinary", "d2/d5d/a04511.html#ab2154405a408271aa60863454b0303fe", null ],
-    [ "TEST_F", "d2/d5d/a04511.html#ae8ecca79d16f8a89b183cf4611dad5d0", null ],
-    [ "TEST_F", "d2/d5d/a04511.html#afb1918ddefeb036bd6be1fbde953b78b", null ],
-    [ "TEST_F", "d2/d5d/a04511.html#a1dc398eff0ed30b3e1997c3b27980bed", null ],
-    [ "TEST_F", "d2/d5d/a04511.html#ad56defbc63a988ba5126194ff9cea5ec", null ],
-    [ "TEST_F", "d2/d5d/a04511.html#a54fa8a3ce4060060ece3f2a2d9e852e7", null ],
-    [ "TEST_F", "d2/d5d/a04511.html#aa1b8d26dc43fa9eaf1d827a0c4308dd1", null ],
-    [ "TEST_F", "d2/d5d/a04511.html#a4e6cbd19c7f85354ce9a5f5a9a1bafe6", null ]
+    [ "anonymous_namespace{FrostboltPvPTest.cpp}::FrostboltPvPTest", "df/d1e/a30063.html", "df/d1e/a30063" ],
+    [ "TEST_F", "d2/d5d/a04511.html#a3c2cf023118b4939342706355b5e3e23", null ],
+    [ "TEST_F", "d2/d5d/a04511.html#a505e9af595a807914a390aa3fe2b5a3f", null ],
+    [ "TEST_F", "d2/d5d/a04511.html#a3a2bcf2a861c5ae0aa63621f4768abd6", null ],
+    [ "TEST_F", "d2/d5d/a04511.html#ac1d8ca954bc5412a7a494f77aae4ed64", null ],
+    [ "TEST_F", "d2/d5d/a04511.html#a1baefe138ddf5a4c83ade03ad1e71835", null ],
+    [ "FROSTBOLT_BASE_DAMAGE", "d2/d5d/a04511.html#a620444164ecdf992df4d10b61454d3cf", null ],
+    [ "FROSTBOLT_DURATION_MS", "d2/d5d/a04511.html#a6d55f8f70ec9e5652a08520d2533600f", null ],
+    [ "FROSTBOLT_SLOW_PCT", "d2/d5d/a04511.html#a21ce900035aa8f72aef05d123f52ee4a", null ],
+    [ "FROSTBOLT_SPELL_ID", "d2/d5d/a04511.html#a896c09069ad88a91db2f3b2182109078", null ]
 ];

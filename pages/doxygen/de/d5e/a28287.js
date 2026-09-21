@@ -1,7 +1,7 @@
 var a28287 =
 [
-    [ "go_brewfest_musicAI", "de/d5e/a28287.html#a832bd6353b3c466c197b8c90b5bee8a8", null ],
-    [ "UpdateAI", "de/d5e/a28287.html#a47ea5bbcd9d01b9eaf839bc779809aec", null ],
-    [ "_currentMusicEvent", "de/d5e/a28287.html#ad26a0309bdd4eafce4dfa310db929357", null ],
-    [ "_events", "de/d5e/a28287.html#ae741239bbebae9f93ad2d04c7487c32f", null ]
+    [ "FilterTargets", "de/d5e/a28287.html#a5ee420ce696d23d836ff6e9e1def6405", null ],
+    [ "HandleEffect", "de/d5e/a28287.html#a064fdac9158e35f290b51ecf9bf537b1", null ],
+    [ "PrepareSpellScript", "de/d5e/a28287.html#a53b5772c87574beb5b295c26fe983b76", null ],
+    [ "Register", "de/d5e/a28287.html#a5e93d0d708d2304d9166c47ad285ada5", null ]
 ];

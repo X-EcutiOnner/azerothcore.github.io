@@ -1,6 +1,6 @@
 var a28651 =
 [
-    [ "npc_experience", "d2/d95/a28651.html#a48ea13099fd32bcae1543a152de0bdf4", null ],
-    [ "OnGossipHello", "d2/d95/a28651.html#a78fccaa36d1c42e33774a9b23f867a72", null ],
-    [ "OnGossipSelect", "d2/d95/a28651.html#a140ece91c8b6d91bd91d64d6e9b625e8", null ]
+    [ "npc_air_force_botsAI", "d0/dfc/a28655.html", "d0/dfc/a28655" ],
+    [ "npc_air_force_bots", "d2/d95/a28651.html#a00b8f274bde3260a113ea21e0f68cdf8", null ],
+    [ "GetAI", "d2/d95/a28651.html#ae971e34d61b0f960d8f5940f9015523d", null ]
 ];

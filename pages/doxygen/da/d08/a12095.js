@@ -1,6 +1,10 @@
 var a12095 =
 [
-    [ "EffectCalcAmountHandler", "da/d08/a12095.html#a4fe66bbf0433e80b602683a278e3a709", null ],
-    [ "Call", "da/d08/a12095.html#a4b5af2593dcb80930c6a45b7035767ca", null ],
-    [ "pEffectHandlerScript", "da/d08/a12095.html#aa52c8c780dcc157e16d11f8222706f7a", null ]
+    [ "EffectHook", "da/d08/a12095.html#a4a197e061d918dfba2bc486f3393b00d", null ],
+    [ "~EffectHook", "da/d08/a12095.html#aa234f63b530764d12064acbe3f5c9299", null ],
+    [ "CheckEffect", "da/d08/a12095.html#ae8823c5d649d182f572818bf3db72902", null ],
+    [ "EffIndexToString", "da/d08/a12095.html#ab818ed274cfd66ecc565b8535b751517", null ],
+    [ "GetAffectedEffectsMask", "da/d08/a12095.html#a31faa86590e22f5ab3ca518f4df02840", null ],
+    [ "IsEffectAffected", "da/d08/a12095.html#a697041ffa562bb6fff792beb159c7af2", null ],
+    [ "effIndex", "da/d08/a12095.html#ab5eb48ef7ac903938f92db0e856e0295", null ]
 ];

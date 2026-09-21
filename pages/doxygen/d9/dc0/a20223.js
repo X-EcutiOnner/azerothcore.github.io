@@ -1,5 +1,5 @@
 var a20223 =
 [
-    [ "achievement_auriaya_nine_lives", "d9/dc0/a20223.html#a750304bc946a7ecefec29dc18c429d3b", null ],
-    [ "OnCheck", "d9/dc0/a20223.html#ae1b7ee75a3e7343c3f5f8043b4e39362", null ]
+    [ "achievement_algalon_he_feeds_on_your_tears", "d9/dc0/a20223.html#a91f4ddbce55a50e563df701eb0bcfff7", null ],
+    [ "OnCheck", "d9/dc0/a20223.html#affea33614581545c65513bfe533d7246", null ]
 ];

@@ -1,9 +1,24 @@
 var a20671 =
 [
-    [ "npc_ulduar_bot_summon_trigger", "d4/d55/a20671.html#a16d36c154b6851c0081cc05f838b0fed", null ],
-    [ "DoAction", "d4/d55/a20671.html#a776782a85892d2d674773573be25bfa0", null ],
-    [ "Reset", "d4/d55/a20671.html#a4ec8487028b188347cf0c9a080076fe6", null ],
-    [ "UpdateAI", "d4/d55/a20671.html#a788d3eaba382e3af897678f6709a0242", null ],
-    [ "_option", "d4/d55/a20671.html#a39c909b67fcdc81542470b6e96256fd5", null ],
-    [ "_timer", "d4/d55/a20671.html#a2530742a19275efe92eeded4dce67567", null ]
+    [ "boss_kologarn", "d4/d55/a20671.html#a785ca1b78ef1c04b3c1d5f0b243b99d9", null ],
+    [ "AttachLeftArm", "d4/d55/a20671.html#a74183a296b722f14ff6d06751733f425", null ],
+    [ "AttachRightArm", "d4/d55/a20671.html#ab6daf2bc1350574ca3d96864fbac298a", null ],
+    [ "AttackStart", "d4/d55/a20671.html#a87285d89c60ad61b76805e7bef75c55f", null ],
+    [ "DamageTaken", "d4/d55/a20671.html#a78f85fbbf7da9a6b8dd78859ec727bf5", null ],
+    [ "DoAction", "d4/d55/a20671.html#af7bf97511705a8dabb6fe40334c3a38a", null ],
+    [ "GetData", "d4/d55/a20671.html#a1b1929673af5db04cf3b00400784b06d", null ],
+    [ "JustDied", "d4/d55/a20671.html#a519cf71d4734d9e67af10ac5516c544a", null ],
+    [ "JustEngagedWith", "d4/d55/a20671.html#a6638cf2efb62d2a2b861e78e360554f3", null ],
+    [ "JustSummoned", "d4/d55/a20671.html#a18c17d9dd89aeb8dd154b2a2dc1bd0ed", null ],
+    [ "KilledUnit", "d4/d55/a20671.html#ac311a3c891f723d82c6c848675b27c4e", null ],
+    [ "MoveInLineOfSight", "d4/d55/a20671.html#ad6fd6e129721757fca0d36e31bd7269c", null ],
+    [ "PassengerBoarded", "d4/d55/a20671.html#a14aaed01a6d1824521e4e95c751cc248", null ],
+    [ "Reset", "d4/d55/a20671.html#a56a7feee3a13fdb499e87549343aaca5", null ],
+    [ "UpdateAI", "d4/d55/a20671.html#a658921f3049414613e5b2245d6137c61", null ],
+    [ "_left", "d4/d55/a20671.html#aea5354051bd277287336c670296442b8", null ],
+    [ "_looksAchievement", "d4/d55/a20671.html#a5ecb293f05940091d3c824025d474bd3", null ],
+    [ "_right", "d4/d55/a20671.html#a955364165d45784ca506bf77d8ab7e7c", null ],
+    [ "_rubbleAchievement", "d4/d55/a20671.html#a5d7df3f5ef09e7f294759be909d9d955", null ],
+    [ "breathReady", "d4/d55/a20671.html#a4ad6f7048bf3ba0bb39294cf4a7ca118", null ],
+    [ "vehicle", "d4/d55/a20671.html#a660ae775be9cf6c5e506a31d97c720fa", null ]
 ];

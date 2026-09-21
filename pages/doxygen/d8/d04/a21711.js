@@ -1,7 +1,10 @@
 var a21711 =
 [
-    [ "npc_warmage_violetstand", "d8/d04/a21711.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
-    [ "Reset", "d8/d04/a21711.html#a99015610597f43f184cc686c9fab2fa9", null ],
-    [ "UpdateAI", "d8/d04/a21711.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
-    [ "targetGUID", "d8/d04/a21711.html#a46560aa7aa90778967a79c931a81721b", null ]
+    [ "npc_jenny", "d8/d04/a21711.html#ab845ba4551900a03c5a995d348a1be55", null ],
+    [ "DamageTaken", "d8/d04/a21711.html#a8700091c82bfff473f3d5563deb69e0b", null ],
+    [ "Initialize", "d8/d04/a21711.html#aab8c540ebb90ebbaef961b1feb3013a3", null ],
+    [ "MoveInLineOfSight", "d8/d04/a21711.html#acd0939cee3ecb9d961d09815d9c50f71", null ],
+    [ "UpdateFollowerAI", "d8/d04/a21711.html#afbd142855602bcf7a8cd8e4cc4760cf0", null ],
+    [ "_events", "d8/d04/a21711.html#aa98caf8b706551470c943b4b722a85ae", null ],
+    [ "_fezzix", "d8/d04/a21711.html#ac2115c122c2eac2d5a36d1795d1e6bf0", null ]
 ];

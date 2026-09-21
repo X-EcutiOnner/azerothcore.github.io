@@ -1,5 +1,6 @@
 var a17119 =
 [
-    [ "npc_essence_of_twin", "d3/dd6/a17119.html#a019de64e5e01e611acfda5db4c279b19", null ],
-    [ "OnGossipHello", "d3/dd6/a17119.html#a6f37b7f1152098b41b07ddbae3613c63", null ]
+    [ "npc_mistress_of_painAI", "dd/d93/a17123.html", "dd/d93/a17123" ],
+    [ "npc_mistress_of_pain", "d3/dd6/a17119.html#a0261ed835454725e0e5629c295be4330", null ],
+    [ "GetAI", "d3/dd6/a17119.html#ae32e9b907e2e31556e72d7feb4e24e8a", null ]
 ];

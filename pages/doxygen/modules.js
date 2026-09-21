@@ -1,6 +1,6 @@
 var modules =
 [
-    [ "Acore Daemon", "dd/d94/a05102.html", "dd/d94/a05102" ],
-    [ "User to World Communication", "d8/d5e/a05103.html", "d8/d5e/a05103" ],
-    [ "The World", "d0/d47/a05104.html", "d0/d47/a05104" ]
+    [ "Acore Daemon", "dd/df7/a05111.html", "dd/df7/a05111" ],
+    [ "User to World Communication", "dc/dcd/a05112.html", "dc/dcd/a05112" ],
+    [ "The World", "d1/dbd/a05113.html", "d1/dbd/a05113" ]
 ];

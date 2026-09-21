@@ -1,6 +1,9 @@
 var a28259 =
 [
-    [ "go_heatAI", "d5/dbe/a28263.html", "d5/dbe/a28263" ],
-    [ "go_heat", "d5/d2b/a28259.html#a6c3d6919652159e4fd265b6d63f59c16", null ],
-    [ "GetAI", "d5/d2b/a28259.html#a9f19009a78c7abd349d2e2e7bf98c1a0", null ]
+    [ "boss_lethonAI", "d5/d2b/a28259.html#ac5d53a746f5286776b2e510f1de86790", null ],
+    [ "DamageTaken", "d5/d2b/a28259.html#a8a67dc7f923bfd56948a16d917a5f70f", null ],
+    [ "JustEngagedWith", "d5/d2b/a28259.html#a1a3acb1e8cbceb16854aafcf51a0f99d", null ],
+    [ "Reset", "d5/d2b/a28259.html#a0e53d139f64d104557e157a91176a47a", null ],
+    [ "SpellHitTarget", "d5/d2b/a28259.html#aa478414144cb396fa67a9bdb46dcbb4c", null ],
+    [ "_stage", "d5/d2b/a28259.html#aa267296ee60efc7d39a20dc05afec081", null ]
 ];

@@ -1,5 +1,6 @@
 var a25107 =
 [
-    [ "PrepareSpellScript", "d9/d35/a25107.html#a2d0e411f3b4a9efed35ee34c7bf03252", null ],
-    [ "Register", "d9/d35/a25107.html#a560ff22e718e8a975a2e2dc2340da917", null ]
+    [ "HandleHeal", "d9/d35/a25107.html#a682a496d59201774de50951ffd2c7c0d", null ],
+    [ "PrepareSpellScript", "d9/d35/a25107.html#a10dd1c0f67ff07f8e35ba0322c934899", null ],
+    [ "Register", "d9/d35/a25107.html#abc29f509e703f3807241b63f728a69af", null ]
 ];

@@ -1,7 +1,9 @@
 var a20123 =
 [
-    [ "HandleDummyEffect", "dd/d64/a20123.html#ae95c1ce60db79c360e9c1431f27705cb", null ],
-    [ "PrepareSpellScript", "dd/d64/a20123.html#a84a4f52928873e58b1fc49e783c5083a", null ],
-    [ "Register", "dd/d64/a20123.html#a90c00bcb1768d696addab407425e406a", null ],
-    [ "SelectTarget", "dd/d64/a20123.html#a2e7a7c05a30ae1e0c5aa14dc2af19345", null ]
+    [ "boss_sjonnir_iron_sludgeAI", "dd/d64/a20123.html#aac57ae32188c47ca97b7331d62986e66", null ],
+    [ "JustDied", "dd/d64/a20123.html#a6cfebecaaf673e40f97a46a09947a1f0", null ],
+    [ "JustEngagedWith", "dd/d64/a20123.html#a772d279407d724477560898559710433", null ],
+    [ "Reset", "dd/d64/a20123.html#a5b4a726aa496923d81c41b038e5f7449", null ],
+    [ "UpdateAI", "dd/d64/a20123.html#a2745ff26c165851c367e080d28652984", null ],
+    [ "events", "dd/d64/a20123.html#a468d45f9b9c2172f326068d59a74121a", null ]
 ];

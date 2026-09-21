@@ -1,10 +1,12 @@
 var a14547 =
 [
-    [ "npc_batrider", "df/d82/a14547.html#a6304a39ea92d48508a17dc059c47bc1b", null ],
-    [ "DamageTaken", "df/d82/a14547.html#ad4818b1363082a91223526908c38777c", null ],
-    [ "JustEngagedWith", "df/d82/a14547.html#a02e950fd30e4a0637d078d49c5c50d48", null ],
-    [ "Reset", "df/d82/a14547.html#abee249da6f3bb6c2fd859812b02d7b65", null ],
-    [ "UpdateAI", "df/d82/a14547.html#a828e5ab4b3ff52d7daf9a3a6a5412f52", null ],
-    [ "_mode", "df/d82/a14547.html#acd53ec78a754219511af1ad2f11422a9", null ],
-    [ "_scheduler", "df/d82/a14547.html#ad90beb6685c031a8b0ce4ec8ea3daa3f", null ]
+    [ "npc_zulian_prowlerAI", "df/d82/a14547.html#a367613efead335b060173011267ddcff", null ],
+    [ "JustDied", "df/d82/a14547.html#a31258aadddfbf6c6e9e1d729452dd8b2", null ],
+    [ "JustEngagedWith", "df/d82/a14547.html#a207504b15ecd22b78088593b80433581", null ],
+    [ "Reset", "df/d82/a14547.html#a62d14bae970d8a70a997c683e0e94259", null ],
+    [ "SpellHit", "df/d82/a14547.html#a4051cd786d8c1974cf80c28f907cc02a", null ],
+    [ "UpdateAI", "df/d82/a14547.html#a708df3a95395f99f6ba3eebcc90a22ab", null ],
+    [ "_events", "df/d82/a14547.html#a994ae5b4e72429141155d1342830e5ad", null ],
+    [ "_instance", "df/d82/a14547.html#ad37ba6b6ff7f52a88d2a96dc4ea00c34", null ],
+    [ "_sideData", "df/d82/a14547.html#afa44e09c5677c2fc567be6a67b766bde", null ]
 ];

@@ -1,7 +1,7 @@
 var a05419 =
 [
-    [ "WModelRayCallBack", "d5/dc5/a05419.html#ac19908f21c5b0ab0b2ee756a14c0f9bc", null ],
-    [ "operator()", "d5/dc5/a05419.html#a72cdf8414d32846375122393b9911861", null ],
-    [ "hit", "d5/dc5/a05419.html#a014e322fc087c2f07617361e0bc585e3", null ],
-    [ "models", "d5/dc5/a05419.html#aaad14391ed1379dc3c367e6e522b1150", null ]
+    [ "GameobjectModelData", "d5/dc5/a05419.html#a7d259df5a5541f95e0f548674d023fc8", null ],
+    [ "bound", "d5/dc5/a05419.html#ab133a32c9eefff0a35acaa4e157a3f05", null ],
+    [ "isWmo", "d5/dc5/a05419.html#ac51305f0d800ff993e9a9cba2ccb6939", null ],
+    [ "name", "d5/dc5/a05419.html#ac8a053b6f01a9917ee6b1fc2a738bb4e", null ]
 ];

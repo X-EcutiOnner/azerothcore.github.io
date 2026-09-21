@@ -1,10 +1,9 @@
 var a08995 =
 [
-    [ "EquipmentSet", "da/d31/a08995.html#acd3085c12c795daceae86e94448109e2", null ],
-    [ "Guid", "da/d31/a08995.html#aae529ea61a2ad4f114b6a108564f5474", null ],
-    [ "IconName", "da/d31/a08995.html#a40233dfcc23f125ff88693d6c7d7fab5", null ],
-    [ "IgnoreMask", "da/d31/a08995.html#af116e824d23f000f424f3b261618e827", null ],
-    [ "Items", "da/d31/a08995.html#a113e6e5883afe38d446a6d435cd34a01", null ],
-    [ "Name", "da/d31/a08995.html#a2b4691a1b44ae47e7d3c2e63f88d78ba", null ],
-    [ "state", "da/d31/a08995.html#a7e2270a6041dda26f8bc7f8c82597e7f", null ]
+    [ "category", "da/d31/a08995.html#af3cd722cf59d844dcaba2d20f20d2933", null ],
+    [ "end", "da/d31/a08995.html#a8cc857ef51745900398765164a450a50", null ],
+    [ "itemid", "da/d31/a08995.html#a42ef844fdd55e8bf67eb5cd90c627817", null ],
+    [ "maxduration", "da/d31/a08995.html#a94b98afb7651e2c6b99ee79f85702259", null ],
+    [ "needSendToClient", "da/d31/a08995.html#a678f56b6723567f984a0188b85a6f9df", null ],
+    [ "sendToSpectator", "da/d31/a08995.html#a4b5bc2c63587dd8ce5d4971ad51895cd", null ]
 ];

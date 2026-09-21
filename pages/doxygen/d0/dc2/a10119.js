@@ -1,15 +1,7 @@
 var a10119 =
 [
-    [ "LootStoreItem", "d0/dc2/a10119.html#a10250dce57b2b8103c6ac11aa1ac2f0f", null ],
-    [ "IsValid", "d0/dc2/a10119.html#ae5fc113c31d96bc7ca31a5bc36ab2fcf", null ],
-    [ "Roll", "d0/dc2/a10119.html#a87cc7956b131a16aee7bd5d4808193df", null ],
-    [ "chance", "d0/dc2/a10119.html#a20411103b449a9176b3bc665f909f06f", null ],
-    [ "conditions", "d0/dc2/a10119.html#a88812a51fb467a189f2824ad8b3198e8", null ],
-    [ "groupid", "d0/dc2/a10119.html#abc6df381782d25490dff0e54bec63b3a", null ],
-    [ "itemid", "d0/dc2/a10119.html#a5df1d4fde5f3358470bd16f7ad9154c1", null ],
-    [ "lootmode", "d0/dc2/a10119.html#ab5f7b258bd5cfe4263acd9e0b253b166", null ],
-    [ "maxcount", "d0/dc2/a10119.html#a96012059cc6affa8120ef544682781d2", null ],
-    [ "mincount", "d0/dc2/a10119.html#ada6a4d427187361c6bc33bdde789e809", null ],
-    [ "needs_quest", "d0/dc2/a10119.html#a5a2fe7ae48508b88bbdfc70fc4035f31", null ],
-    [ "reference", "d0/dc2/a10119.html#a374a94e34095a1beb38abca43069d0b6", null ]
+    [ "extended", "d0/dc2/a10119.html#a6cd2390616ebbc07b0fa55886d1e545d", null ],
+    [ "guidLow", "d0/dc2/a10119.html#a6d6358cd25aaf909fb02e01b994a6a92", null ],
+    [ "instanceId", "d0/dc2/a10119.html#a3f4f3f829d354ccc92491445d1efd1b2", null ],
+    [ "perm", "d0/dc2/a10119.html#a73b641d14a2d5d9781f706ccc2865415", null ]
 ];

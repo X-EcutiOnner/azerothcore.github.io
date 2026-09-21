@@ -1,7 +1,6 @@
 var a11015 =
 [
-    [ "Emote", "df/dc5/a11015.html#acb1620d125ffb11fe43caf4ebf27d1be", null ],
-    [ "Write", "df/dc5/a11015.html#a3f5532f40b59f47423d2b4e3749da88e", null ],
-    [ "EmoteID", "df/dc5/a11015.html#a7f4d3ee4353b408f8c795e6fdc552e76", null ],
-    [ "Guid", "df/dc5/a11015.html#ab96a1c0933e90872f54eb0995098274a", null ]
+    [ "BuyBankSlot", "df/dc5/a11015.html#a0bc11087e9359c6ac762f915b11287d8", null ],
+    [ "Read", "df/dc5/a11015.html#ac4e35f97fe3ff2b2c18a40b8b2eb59fb", null ],
+    [ "Banker", "df/dc5/a11015.html#aa9ae5777ab337f37b1c372d39a8474bf", null ]
 ];

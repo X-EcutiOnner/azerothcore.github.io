@@ -1,8 +1,6 @@
 var a20687 =
 [
-    [ "HandleEffectApply", "dd/d47/a20687.html#a9b4ef881ded9d7b1e4cbdf61af70cdeb", null ],
-    [ "HandleEffectPeriodic", "dd/d47/a20687.html#ae3cb0f7a3da5a72eaa59350d7df13ffc", null ],
-    [ "HandleEffectRemove", "dd/d47/a20687.html#a5750666947a5899d7ef46678eadb4872", null ],
-    [ "PrepareAuraScript", "dd/d47/a20687.html#a9a2fae625718f854ec5d2587a01a2da7", null ],
-    [ "Register", "dd/d47/a20687.html#a524c071390365b7dab59bc7a79b50f15", null ]
+    [ "boss_kologarn_pit_kill_bunny", "dd/d47/a20687.html#a0ecbc2ae8850d4cfb84f40d2a13f4976", null ],
+    [ "Reset", "dd/d47/a20687.html#afd7482896b66f040b8d57b9b6ac37059", null ],
+    [ "UpdateAI", "dd/d47/a20687.html#ad863666aec3db81f73165148ffc98033", null ]
 ];

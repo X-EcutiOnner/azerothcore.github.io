@@ -1,15 +1,10 @@
 var a14087 =
 [
-    [ "npc_deathstalker_fearleia", "df/d98/a14087.html#a92c6d31e801164dc0c4ddc8c47f134b6", null ],
-    [ "JustDied", "df/d98/a14087.html#a378f59a926e1be299b6e5ddf0cc83d30", null ],
-    [ "JustEngagedWith", "df/d98/a14087.html#a248f13c2fff27a9ec8075d5b1429fec8", null ],
-    [ "JustSummoned", "df/d98/a14087.html#a8ef363de7292d366eea128b55b1acaeb", null ],
-    [ "Reset", "df/d98/a14087.html#a5f7f40e2d702fae5242cfc347d44a1fe", null ],
-    [ "sQuestAccept", "df/d98/a14087.html#a5da116182685dfac72139b40266f2884", null ],
-    [ "SummonCreatureWithRandomTarget", "df/d98/a14087.html#a884be2e1aa730c310de24cb865fc7aa5", null ],
-    [ "SummonedCreatureDespawn", "df/d98/a14087.html#a36415976d5ae2034578581bdec183f33", null ],
-    [ "UpdateAI", "df/d98/a14087.html#a45f4823e2a131fda3c4e03de13ec0c5e", null ],
-    [ "_playerGUID", "df/d98/a14087.html#a7135b977e1d7ef47c62f4dace25908fd", null ],
-    [ "_questInProgress", "df/d98/a14087.html#a899a4a0c3c70236be66ee2028f3423c7", null ],
-    [ "_summons", "df/d98/a14087.html#a79dc171af9ef5057039f9a6b87c49bd1", null ]
+    [ "npc_partygoer_pather", "df/d98/a14087.html#a15a0e517e8671afb9d636ebe781a4bcd", null ],
+    [ "Initialize", "df/d98/a14087.html#afb114b0587c550e39c41e131364da663", null ],
+    [ "PathEndReached", "df/d98/a14087.html#a55833d306716ba411f96ecd024cc7c72", null ],
+    [ "Reset", "df/d98/a14087.html#ade2cc36ff49001138eee5b607ec83b12", null ],
+    [ "UpdateAI", "df/d98/a14087.html#a4d222399b6b789e7a2a2faa4765116a6", null ],
+    [ "_events", "df/d98/a14087.html#ac210dc0286ded980e78743237a08bb23", null ],
+    [ "_path", "df/d98/a14087.html#a4da184c44858e99eca2b07193fd48f13", null ]
 ];

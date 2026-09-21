@@ -1,6 +1,6 @@
 var a15175 =
 [
-    [ "OnRemove", "db/d13/a15175.html#af9da33426d8ea4462f7d9957c4312019", null ],
-    [ "PrepareAuraScript", "db/d13/a15175.html#a594f2b65fdbe30f3d52e608f9b7c9731", null ],
-    [ "Register", "db/d13/a15175.html#a4b04c70fd9c55d20261d9d256ea0966f", null ]
+    [ "HandleScriptEffect", "db/d13/a15175.html#aebd700897688157ca62405c92fe58680", null ],
+    [ "PrepareSpellScript", "db/d13/a15175.html#a09e11d1938279a2302fb8805e71c6c36", null ],
+    [ "Register", "db/d13/a15175.html#aa0679665ba2c496e0a5aa5f6864d7230", null ]
 ];

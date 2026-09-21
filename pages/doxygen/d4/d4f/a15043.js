@@ -1,8 +1,7 @@
 var a15043 =
 [
-    [ "CheckCast", "d4/d4f/a15043.html#a1e63e7798ab5e55415eb0277f3160fa3", null ],
-    [ "HandleDummy", "d4/d4f/a15043.html#ad39da0510c21855dd74abd93f33621c9", null ],
-    [ "PrepareSpellScript", "d4/d4f/a15043.html#a727093fec8cc8422cbbaa79d821338c8", null ],
-    [ "Register", "d4/d4f/a15043.html#a8cc68fadf4ae20a9de24c75d2f61301f", null ],
-    [ "Validate", "d4/d4f/a15043.html#aacd60538c8410fc313a09b1044ad6c7a", null ]
+    [ "HandleScript", "d4/d4f/a15043.html#a78899a874a645d531dd4d89f2bd5478a", null ],
+    [ "PrepareSpellScript", "d4/d4f/a15043.html#adc96c1dbf0b561a72d26dca57d5bfcec", null ],
+    [ "Register", "d4/d4f/a15043.html#a76942c06492a48ce16bb85cf55d1e58d", null ],
+    [ "Validate", "d4/d4f/a15043.html#a727f7c6ab1a2b5635e0b8fbd071d863d", null ]
 ];

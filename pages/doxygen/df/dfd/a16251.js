@@ -1,6 +1,7 @@
 var a16251 =
 [
-    [ "creatureID", "df/dfd/a16251.html#a44a9f5e58bfa58e2e2325e116e988f07", null ],
-    [ "pos", "df/dfd/a16251.html#a9705a858cc2c3867e104514d3a0a1866", null ],
-    [ "waveID", "df/dfd/a16251.html#a09b48f7f6da7e203ed50a8abc7f24e56", null ]
+    [ "npc_wizzlecrank_shredderAI", "d1/d92/a16255.html", "d1/d92/a16255" ],
+    [ "npc_wizzlecrank_shredder", "df/dfd/a16251.html#a56a29a61d6f1a5981019f6c059b4da64", null ],
+    [ "GetAI", "df/dfd/a16251.html#a5c42cc6d8cf2642333731138077af66e", null ],
+    [ "OnQuestAccept", "df/dfd/a16251.html#afcd5aaea5234b6510825d9ce5e809aa6", null ]
 ];

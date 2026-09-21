@@ -1,6 +1,10 @@
 var a28275 =
 [
-    [ "go_l70_etc_musicAI", "da/d30/a28279.html", "da/d30/a28279" ],
-    [ "go_l70_etc_music", "df/da5/a28275.html#a766dccca12fc7959273ba1e3a278564f", null ],
-    [ "GetAI", "df/da5/a28275.html#a5231ffc778830f8a49ae85a8c1173deb", null ]
+    [ "boss_emerissAI", "df/da5/a28275.html#ad94b3b097d9987e365f91b7e57d0f208", null ],
+    [ "DamageTaken", "df/da5/a28275.html#abb80c49c166f31cd7e2d24392fbf60e1", null ],
+    [ "ExecuteEvent", "df/da5/a28275.html#ad3839ad4b0a930bc96154b5b0aab17fe", null ],
+    [ "JustEngagedWith", "df/da5/a28275.html#a5a51b97216a27637f6bd3020ba05e0f7", null ],
+    [ "KilledUnit", "df/da5/a28275.html#ad851169bc09a362137e211dd10d30a1b", null ],
+    [ "Reset", "df/da5/a28275.html#a44dfb325c4e8413662052137edc710ef", null ],
+    [ "_stage", "df/da5/a28275.html#ae2c8c5c2d2054af41c5dbe938b3eb79a", null ]
 ];

@@ -1,7 +1,7 @@
 var a22083 =
 [
-    [ "HandleScript", "d4/dda/a22083.html#a359814a44d4fe58c9f6e7a31c75d7c49", null ],
-    [ "PrepareSpellScript", "d4/dda/a22083.html#a4c6c0903180f3f18d6d9e715efc9f391", null ],
-    [ "Register", "d4/dda/a22083.html#a713b82bc3d82a8324ce4dd090059f463", null ],
-    [ "Validate", "d4/dda/a22083.html#ac8e362d9f76350da106e128138737c5c", null ]
+    [ "HandleScriptEffect", "d4/dda/a22083.html#a2d39a073c351860db735301b4cf9c79f", null ],
+    [ "PrepareSpellScript", "d4/dda/a22083.html#a3674adaef23f1531af360a65c14efadd", null ],
+    [ "Register", "d4/dda/a22083.html#a11b217c0066217f2da5ff42ce35c9a0a", null ],
+    [ "Validate", "d4/dda/a22083.html#a3dadb61ca7dd8195ba5fdac5bf49583c", null ]
 ];

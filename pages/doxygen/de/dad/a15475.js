@@ -1,6 +1,5 @@
 var a15475 =
 [
-    [ "instance_razorfen_kraul_InstanceMapScript", "d0/d5d/a15479.html", "d0/d5d/a15479" ],
-    [ "instance_razorfen_kraul", "de/dad/a15475.html#aedd65b901c8131a7ac21e8576734f76f", null ],
-    [ "GetInstanceScript", "de/dad/a15475.html#a78e77010ebb055b9530733ca25533110", null ]
+    [ "npc_black_morass_summoned_add", "de/dad/a15475.html#ab1551fc3e746dc724ea433f7a3daa786", null ],
+    [ "EnterEvadeMode", "de/dad/a15475.html#a437e7b72b985713d22883f3e33f30942", null ]
 ];

@@ -1,8 +1,8 @@
 var a22075 =
 [
-    [ "AfterApply", "da/d67/a22075.html#af78d13a65fe21879fdb9147cdb0f2352", null ],
-    [ "AfterRemove", "da/d67/a22075.html#a74f5bdcd48a1cbe7b111a0a8294d7f19", null ],
-    [ "PrepareAuraScript", "da/d67/a22075.html#ac5b2bc61e52a895d35e3a4e8232f1659", null ],
-    [ "Register", "da/d67/a22075.html#a9b770bea32f0c3af7f5eb71eeea286fb", null ],
-    [ "Validate", "da/d67/a22075.html#a02fd5ec715170198bfb3b4f6be0485b7", null ]
+    [ "npc_ravenous_worgAI", "da/d67/a22075.html#a5404516869e171c84b774f2a7b8be15d", null ],
+    [ "AttackStart", "da/d67/a22075.html#a593d218d8cb083a7e37f81d3952c6d4c", null ],
+    [ "UpdateAI", "da/d67/a22075.html#aeb64d5bde5ef9d8c2a62662bb72d3049", null ],
+    [ "_attack", "da/d67/a22075.html#a3df5c98821ba33a40e25e7b050858b96", null ],
+    [ "_pacified", "da/d67/a22075.html#a0da1f59a6fc9cdf39c9cced1eb52acba", null ]
 ];

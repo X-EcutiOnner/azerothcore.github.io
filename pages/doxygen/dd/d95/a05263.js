@@ -1,4 +1,5 @@
 var a05263 =
 [
-    [ "GetPosition", "dd/d95/a05263.html#a731c4d061ea551b10c488cad55c88113", null ]
+    [ "hi", "dd/d95/a05263.html#aa227ae5593ba3111598033f570d97cb9", null ],
+    [ "lo", "dd/d95/a05263.html#aaf79653331f78979c84dfee2da118fdd", null ]
 ];

@@ -1,7 +1,7 @@
 var a29567 =
 [
-    [ "RealmHandle", "d5/d15/a29567.html#a120fb45f2301188a843ab2e712f768e4", null ],
-    [ "RealmHandle", "d5/d15/a29567.html#ac3e04e9790e1ae75b9701f1a84b9f6e2", null ],
-    [ "operator<", "d5/d15/a29567.html#ad414bab23a3ecfb3cabb146d5f43bf3e", null ],
-    [ "Realm", "d5/d15/a29567.html#a31af0d9064a295b1579fce3c80217bfd", null ]
+    [ "ClassMask", "d5/d15/a29567.html#acae4582c147b5fd95780ae7b55d36fdc", null ],
+    [ "petTalentMask", "d5/d15/a29567.html#a22ab1cf8ad05e57d91a63e3876ae2b77", null ],
+    [ "tabpage", "d5/d15/a29567.html#aa6389276582adeb4cae76c257734795c", null ],
+    [ "TalentTabID", "d5/d15/a29567.html#ae3a71c61223b59185365819164715dc2", null ]
 ];

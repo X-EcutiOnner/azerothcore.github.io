@@ -1,8 +1,6 @@
 var a24647 =
 [
-    [ "CheckCast", "dd/d65/a24647.html#a94851a2b6a62138e28466317e9e88480", null ],
-    [ "HandleDummy", "dd/d65/a24647.html#a970684d219c99519512c437a8efd8d43", null ],
-    [ "PrepareSpellScript", "dd/d65/a24647.html#a39b726e6c5809a6f8100970e8b71fc71", null ],
-    [ "Register", "dd/d65/a24647.html#a7acf718f0a1109d384fd2b9dd23ca62c", null ],
-    [ "Validate", "dd/d65/a24647.html#a59cca008a97447e257bf24071301b366", null ]
+    [ "HandleAfterCast", "dd/d65/a24647.html#aaa65e67362ded5318e89272acf073bf3", null ],
+    [ "PrepareSpellScript", "dd/d65/a24647.html#a7d0dd936965845c14e7b54846facdb89", null ],
+    [ "Register", "dd/d65/a24647.html#ab7b767743d62d9763bea710b7552a8cf", null ]
 ];

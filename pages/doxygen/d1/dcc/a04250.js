@@ -1,11 +1,11 @@
 var a04250 =
 [
-    [ "npc_king_magni_bronzebeard", "d7/d8e/a14109.html", "d7/d8e/a14109" ],
-    [ "KingMagniBronzebeard", "d1/dcc/a04250.html#a4b1dfd5f3e79f13d25d2d89aa1469c3e", [
-      [ "SOUND_AGGRO", "d1/dcc/a04250.html#a4b1dfd5f3e79f13d25d2d89aa1469c3eae72b4b8d8a4056153794ae9fbdaf67aa", null ],
-      [ "SPELL_AVATAR", "d1/dcc/a04250.html#a4b1dfd5f3e79f13d25d2d89aa1469c3ea28574d4484fa9dddb63e423dc7194e35", null ],
-      [ "SPELL_KNOCK_AWAY", "d1/dcc/a04250.html#a4b1dfd5f3e79f13d25d2d89aa1469c3eaa72ede58fa3714726fab8d4b7252f5fa", null ],
-      [ "SPELL_STORM_BOLT", "d1/dcc/a04250.html#a4b1dfd5f3e79f13d25d2d89aa1469c3ea49fdaa9564ae9ef8ef83312a3d3118e2", null ]
+    [ "npc_the_scourge_cauldron", "d0/dfc/a14363.html", "d0/dfc/a14363" ],
+    [ "npc_the_scourge_cauldron::npc_the_scourge_cauldronAI", "de/d3d/a14367.html", "de/d3d/a14367" ],
+    [ "npc_andorhal_tower", "d0/d2f/a14371.html", "d0/d2f/a14371" ],
+    [ "npc_andorhal_tower::npc_andorhal_towerAI", "da/d02/a14375.html", "da/d02/a14375" ],
+    [ "AndorhalTower", "d1/dcc/a04250.html#a07061f0cf471fb1cb236b428c31965c8", [
+      [ "GO_BEACON_TORCH", "d1/dcc/a04250.html#a07061f0cf471fb1cb236b428c31965c8ace3e47469a19c76e79a7ae1ca2b4f798", null ]
     ] ],
-    [ "AddSC_ironforge", "d1/dcc/a04250.html#aa2f983b337fe1f23e428542f1d26d0c2", null ]
+    [ "AddSC_western_plaguelands", "d1/dcc/a04250.html#a978fbc9b0f23371fedcca17926c637cb", null ]
 ];

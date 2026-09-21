@@ -1,5 +1,4 @@
 var a30107 =
 [
-    [ "height", "d3/da4/a30107.html#a9ee8f132a89d37d9b202c7f49d2c3a49", null ],
-    [ "light", "d3/da4/a30107.html#a53c2edf09fb56334d1c3621d3630de5d", null ]
+    [ "SetUp", "d3/da4/a30107.html#a30b192775d6ae0c9c73b30f9d5c1cfb2", null ]
 ];

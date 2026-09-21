@@ -1,6 +1,7 @@
 var a25891 =
 [
-    [ "OnBaseRemove", "d1/d5f/a25891.html#aa6d10399bba721ff7a3651508fcdf449", null ],
-    [ "PrepareAuraScript", "d1/d5f/a25891.html#a34ad4890c7ce30427537e36980057e57", null ],
-    [ "Register", "d1/d5f/a25891.html#a713e694cad6f1cf533d45f5d633da36e", null ]
+    [ "HandleProc", "d1/d5f/a25891.html#a67fd28d9426ed4825db86bf155d8d395", null ],
+    [ "PrepareAuraScript", "d1/d5f/a25891.html#aba5b549d9a3b9fecdc16270732e3a5d7", null ],
+    [ "Register", "d1/d5f/a25891.html#a50f5c5e00a327325da2e49ab0ab2bcb6", null ],
+    [ "Validate", "d1/d5f/a25891.html#a769737b9f5971b684f52289873970930", null ]
 ];

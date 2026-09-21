@@ -1,10 +1,25 @@
 var a30179 =
 [
-    [ "Exception", "da/da3/a30179.html#a414c3d1a58dc27f84f70db7372c71394", null ],
-    [ "~Exception", "da/da3/a30179.html#a1af5fa940a44522664bf8032b0ec164a", null ],
-    [ "Exception", "da/da3/a30179.html#a414c3d1a58dc27f84f70db7372c71394", null ],
-    [ "~Exception", "da/da3/a30179.html#a1af5fa940a44522664bf8032b0ec164a", null ],
-    [ "getMessage", "da/da3/a30179.html#abb24944d5d6ea7b18be30f8bd9741ae2", null ],
-    [ "getMessage", "da/da3/a30179.html#abb24944d5d6ea7b18be30f8bd9741ae2", null ],
-    [ "message", "da/da3/a30179.html#aeb732542a0ba63cde3d9b3bff93f4eda", null ]
+    [ "AddsValueBeyondDBC", "da/da3/a30179.html#ada68807ba3950313c5a7652a7fe85c40", null ],
+    [ "HasDBCData", "da/da3/a30179.html#a70c20b8efd966a3051591e4292957f21", null ],
+    [ "ToSpellProcEntry", "da/da3/a30179.html#a70ebb9c47633f6c55f863593d1f1b0d7", null ],
+    [ "AttributesMask", "da/da3/a30179.html#a32a562ccd8812c33b385fb6a4812693f", null ],
+    [ "Chance", "da/da3/a30179.html#a9e4e897bb784e63d991e76f8efd393ab", null ],
+    [ "Charges", "da/da3/a30179.html#a1795067c9622f90fe10afaa9086729d2", null ],
+    [ "Cooldown", "da/da3/a30179.html#a8ae054e7700edebf204b6b9d5285b570", null ],
+    [ "DBC_ProcChance", "da/da3/a30179.html#a687725337f68ab28c9f862997666b979", null ],
+    [ "DBC_ProcCharges", "da/da3/a30179.html#a674bdd693e94bea55c93985a04a3cde5", null ],
+    [ "DBC_ProcFlags", "da/da3/a30179.html#aba345f90612d66a1ae8ff83b863c3752", null ],
+    [ "DisableEffectsMask", "da/da3/a30179.html#a255f45e42d9ad7f4a1a71b12289f6280", null ],
+    [ "HitMask", "da/da3/a30179.html#aac7528939d9f28432649a5e947cb112b", null ],
+    [ "ProcFlags", "da/da3/a30179.html#ac62ba46b22a759991731a15b17ccf3d9", null ],
+    [ "ProcsPerMinute", "da/da3/a30179.html#a1005dd21ca315c4ee18cc1f0b1147590", null ],
+    [ "SchoolMask", "da/da3/a30179.html#ab76502dd0f6d6e9fa8608800547b097c", null ],
+    [ "SpellFamilyMask0", "da/da3/a30179.html#a8b316b64763de61fabe8eee119a3c33b", null ],
+    [ "SpellFamilyMask1", "da/da3/a30179.html#a0f2454783d5fcd2b751b40b8e32d8476", null ],
+    [ "SpellFamilyMask2", "da/da3/a30179.html#a74093101a8fe41b8bb641da9957d6ef2", null ],
+    [ "SpellFamilyName", "da/da3/a30179.html#a11a0c26f6d3e6f3b8e47e1c968841094", null ],
+    [ "SpellId", "da/da3/a30179.html#ad78ff047d8971788febae990abc86698", null ],
+    [ "SpellPhaseMask", "da/da3/a30179.html#ab2356da98d2b2c9d250d1c86056a427c", null ],
+    [ "SpellTypeMask", "da/da3/a30179.html#a8ac8ca4ac8ed7eb60de720bb0bac36b1", null ]
 ];

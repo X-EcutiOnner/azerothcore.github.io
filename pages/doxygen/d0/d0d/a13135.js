@@ -1,6 +1,6 @@
 var a13135 =
 [
-    [ "boss_mr_smiteAI", "dd/dcf/a13139.html", "dd/dcf/a13139" ],
-    [ "boss_mr_smite", "d0/d0d/a13135.html#a011d41112ef7376b71d2959f806be262", null ],
-    [ "GetAI", "d0/d0d/a13135.html#a619ca0aede1eb33f992328048319c4f0", null ]
+    [ "boss_magmadar", "d0/d0d/a13135.html#a1d7fe10f244e2975a858ee884a02ce57", null ],
+    [ "ExecuteEvent", "d0/d0d/a13135.html#af846ccbb6fa4a63b7ea04474deeb7db5", null ],
+    [ "JustEngagedWith", "d0/d0d/a13135.html#a4a38f37d0cbe892b7336694ef6008f2d", null ]
 ];

@@ -1,6 +1,6 @@
 var a23663 =
 [
-    [ "instance_hellfire_ramparts_InstanceMapScript", "d5/d49/a23667.html", "d5/d49/a23667" ],
-    [ "instance_hellfire_ramparts", "d2/d1b/a23663.html#ab6ee671123dd0d736e9745e45e04b8da", null ],
-    [ "GetInstanceScript", "d2/d1b/a23663.html#a6f2dc361984b33c1d14d62d67a563e8d", null ]
+    [ "CalculateDamage", "d2/d1b/a23663.html#a170fb61e3a7358d42cc6506067fb978a", null ],
+    [ "PrepareSpellScript", "d2/d1b/a23663.html#a197fce87e22a3e4055cabbb925b13aa1", null ],
+    [ "Register", "d2/d1b/a23663.html#aac3c6a6b34af795cb08fc299e763f6a8", null ]
 ];

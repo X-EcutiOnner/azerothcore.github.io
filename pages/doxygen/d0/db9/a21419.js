@@ -1,7 +1,7 @@
 var a21419 =
 [
-    [ "HandlePeriodicDummy", "d0/db9/a21419.html#a295f37cddccc696d450a0c4380d43c29", null ],
-    [ "PrepareAuraScript", "d0/db9/a21419.html#a9453aa189ba53de3d89bbab183927cfc", null ],
-    [ "Register", "d0/db9/a21419.html#a1ca87e8523c020a9e4e0970c68957c14", null ],
-    [ "Validate", "d0/db9/a21419.html#a475480c072aaccde7b00cf28aedff3ec", null ]
+    [ "HandleScript", "d0/db9/a21419.html#ac8d984ac87f51050113f7ac1a4625785", null ],
+    [ "PrepareSpellScript", "d0/db9/a21419.html#a34f6166e27cb99e424dd081ffce704a5", null ],
+    [ "Register", "d0/db9/a21419.html#a0dd5b7a8cf086ee3b5a6f30326874ee3", null ],
+    [ "Validate", "d0/db9/a21419.html#a364c96f7253fde59e1a9a59a42c4d3a5", null ]
 ];

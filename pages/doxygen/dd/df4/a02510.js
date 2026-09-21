@@ -1,10 +1,14 @@
 var a02510 =
 [
-    [ "OutdoorPvP_nagrand", "d1/d13/a22689.html", "d1/d13/a22689" ],
-    [ "outdoorpvp_na_halaa_creatures", "d5/d77/a22693.html", "d5/d77/a22693" ],
-    [ "AddSC_outdoorpvp_na", "dd/df4/a02510.html#a03015585e7619177355fefd05f85e1c7", null ],
-    [ "FlagPlayerPvP", "dd/df4/a02510.html#ab1d33448696056a0951a0c306a511f1e", null ],
-    [ "UpdateCreatureHalaa", "dd/df4/a02510.html#a37af66c813e135cc11bd1dc663b35697", null ],
-    [ "halaaNPCAlly", "dd/df4/a02510.html#a3428675268608e5372767fc629259d5c", null ],
-    [ "halaaNPCHorde", "dd/df4/a02510.html#a531a4e8a5291c048ad0f3b0fc64b29d9", null ]
+    [ "guard_shattrath_scryer", "d4/dd9/a28499.html", "d4/dd9/a28499" ],
+    [ "guard_shattrath_scryer::guard_shattrath_scryerAI", "de/ddd/a28503.html", "de/ddd/a28503" ],
+    [ "guard_shattrath_aldor", "de/ddf/a28507.html", "de/ddf/a28507" ],
+    [ "guard_shattrath_aldor::guard_shattrath_aldorAI", "d4/d32/a28511.html", "d4/d32/a28511" ],
+    [ "GuardShattrath", "dd/df4/a02510.html#a7c8fcdd86e1aa9eab132e6321290e79c", [
+      [ "SPELL_BANISHED_SHATTRATH_A", "dd/df4/a02510.html#a7c8fcdd86e1aa9eab132e6321290e79ca958387dd7fcdedf036a81cf2ab4f56fe", null ],
+      [ "SPELL_BANISHED_SHATTRATH_S", "dd/df4/a02510.html#a7c8fcdd86e1aa9eab132e6321290e79ca78bb081a2031299d661fbce8fd5a3d48", null ],
+      [ "SPELL_BANISH_TELEPORT", "dd/df4/a02510.html#a7c8fcdd86e1aa9eab132e6321290e79ca7aecffca2feb1502c591610fee5566e0", null ],
+      [ "SPELL_EXILE", "dd/df4/a02510.html#a7c8fcdd86e1aa9eab132e6321290e79ca6758cdbc7bb8447df1f7b3073833463d", null ]
+    ] ],
+    [ "AddSC_guards", "dd/df4/a02510.html#acba582cbc90c710c629dd30926acdca4", null ]
 ];

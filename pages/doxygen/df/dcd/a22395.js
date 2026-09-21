@@ -1,8 +1,8 @@
 var a22395 =
 [
-    [ "spell_loosen_grip", "df/dcd/a22395.html#ae35f230e0c66e88f59558748c80470dd", null ],
-    [ "HandleScript", "df/dcd/a22395.html#af82f9b7afda00bae22fa53d8b63d2509", null ],
-    [ "PrepareSpellScript", "df/dcd/a22395.html#a219dc7d735f82d8e3b85390f0a881743", null ],
-    [ "Register", "df/dcd/a22395.html#a8b446d8b5ab00b984272c74b06663326", null ],
-    [ "_stacksToLose", "df/dcd/a22395.html#ae47dac5e3b380aeb22877ba5e5b5829f", null ]
+    [ "CheckCast", "df/dcd/a22395.html#ab1584c391ac81b8338387acc6187001f", null ],
+    [ "HandleDummy", "df/dcd/a22395.html#abe856e2c3b986eeac0c1a62aa301eb6d", null ],
+    [ "PrepareSpellScript", "df/dcd/a22395.html#a08d9ffb7dcbe786071979166e0489336", null ],
+    [ "Register", "df/dcd/a22395.html#a5f0bbd57f3cbc0d0de3d8830dd4e6f2b", null ],
+    [ "Validate", "df/dcd/a22395.html#a82d931b4a15f6a60c27d932e8188ef78", null ]
 ];

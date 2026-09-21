@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: PvPInfo Struct Reference</title>
+<title>AzerothCore: PetStable Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,55 +105,41 @@ $(document).ready(function(){initNavTree('dd/d59/a08967.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
+<a href="#nested-classes">Classes</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d6/d8d/a08964.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">PvPInfo Struct Reference</div></div>
+  <div class="headertitle"><div class="title">PetStable Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">PetDefines.h</a>&quot;</code></p>
 <table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/daf/a08971.html">PetInfo</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:ad956667bc89b49e5a520ee5a4f19f22e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d59/a08967.html#ad956667bc89b49e5a520ee5a4f19f22e">PvPInfo</a> ()=default</td></tr>
-<tr class="separator:ad956667bc89b49e5a520ee5a4f19f22e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4e0e22a135703c989976694a32912cbd"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/daf/a08971.html">PetInfo</a> const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d59/a08967.html#a4e0e22a135703c989976694a32912cbd">GetUnslottedHunterPet</a> () const</td></tr>
+<tr class="separator:a4e0e22a135703c989976694a32912cbd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a22a1c8f0e8c51f4a27cb8ab362028d61"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d59/a08967.html#a22a1c8f0e8c51f4a27cb8ab362028d61">IsHostile</a> {false}</td></tr>
-<tr class="separator:a22a1c8f0e8c51f4a27cb8ab362028d61"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a92d3c8991f7e3c5d683b414d18cbbd64"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d59/a08967.html#a92d3c8991f7e3c5d683b414d18cbbd64">IsInHostileArea</a> {false}</td></tr>
-<tr class="separator:a92d3c8991f7e3c5d683b414d18cbbd64"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6858b8db9a441bf950f7d9fdca1587b5"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d59/a08967.html#a6858b8db9a441bf950f7d9fdca1587b5">IsInNoPvPArea</a> {false}</td></tr>
-<tr class="memdesc:a6858b8db9a441bf950f7d9fdca1587b5"><td class="mdescLeft">&#160;</td><td class="mdescRight"><blockquote class="doxtable">
-<p >&zwj;Marks if player is in an area which forces PvP flag </p>
-</blockquote>
- <a href="../../dd/d59/a08967.html#a6858b8db9a441bf950f7d9fdca1587b5">More...</a><br /></td></tr>
-<tr class="separator:a6858b8db9a441bf950f7d9fdca1587b5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8a654926248b3974587af1eb9c064d15"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d59/a08967.html#a8a654926248b3974587af1eb9c064d15">IsInFFAPvPArea</a> {false}</td></tr>
-<tr class="memdesc:a8a654926248b3974587af1eb9c064d15"><td class="mdescLeft">&#160;</td><td class="mdescRight"><blockquote class="doxtable">
-<p >&zwj;Marks if player is in a sanctuary or friendly capital city </p>
-</blockquote>
- <a href="../../dd/d59/a08967.html#a8a654926248b3974587af1eb9c064d15">More...</a><br /></td></tr>
-<tr class="separator:a8a654926248b3974587af1eb9c064d15"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae06b5030552c02f30fe8386633a753df"><td class="memItemLeft" align="right" valign="top">time_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d59/a08967.html#ae06b5030552c02f30fe8386633a753df">EndTimer</a> {0}</td></tr>
-<tr class="memdesc:ae06b5030552c02f30fe8386633a753df"><td class="mdescLeft">&#160;</td><td class="mdescRight"><blockquote class="doxtable">
-<p >&zwj;Marks if player is in an FFAPvP area (such as Gurubashi <a class="el" href="../../d9/d95/a07627.html">Arena</a>) </p>
-</blockquote>
- <a href="../../dd/d59/a08967.html#ae06b5030552c02f30fe8386633a753df">More...</a><br /></td></tr>
-<tr class="separator:ae06b5030552c02f30fe8386633a753df"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a739dfc63dfe39429a44ea682d9120522"><td class="memItemLeft" align="right" valign="top">time_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d59/a08967.html#a739dfc63dfe39429a44ea682d9120522">FFAPvPEndTimer</a> {0}</td></tr>
-<tr class="memdesc:a739dfc63dfe39429a44ea682d9120522"><td class="mdescLeft">&#160;</td><td class="mdescRight"><blockquote class="doxtable">
-<p >&zwj;Time when player unflags himself for PvP (flag removed after 5 minutes) </p>
-</blockquote>
- <a href="../../dd/d59/a08967.html#a739dfc63dfe39429a44ea682d9120522">More...</a><br /></td></tr>
-<tr class="separator:a739dfc63dfe39429a44ea682d9120522"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7a9f76452985abc65560773ac413208f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/de9/a04955.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; <a class="el" href="../../d0/daf/a08971.html">PetInfo</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d59/a08967.html#a7a9f76452985abc65560773ac413208f">CurrentPet</a></td></tr>
+<tr class="separator:a7a9f76452985abc65560773ac413208f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6bd064e692fff316581d08680b163026"><td class="memItemLeft" align="right" valign="top">std::array&lt; <a class="el" href="../../db/de9/a04955.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; <a class="el" href="../../d0/daf/a08971.html">PetInfo</a> &gt;, <a class="el" href="../../d6/d53/a01688.html#ad8cb525a1566956fd2dd5baf811ab5b1">MAX_PET_STABLES</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d59/a08967.html#a6bd064e692fff316581d08680b163026">StabledPets</a></td></tr>
+<tr class="separator:a6bd064e692fff316581d08680b163026"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2a30270bbd396b7fa4e035429ff8d04e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d59/a08967.html#a2a30270bbd396b7fa4e035429ff8d04e">MaxStabledPets</a> = 0</td></tr>
+<tr class="separator:a2a30270bbd396b7fa4e035429ff8d04e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8e6f6e36722dd883e6df962a1e950346"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="../../d0/daf/a08971.html">PetInfo</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d59/a08967.html#a8e6f6e36722dd883e6df962a1e950346">UnslottedPets</a></td></tr>
+<tr class="separator:a8e6f6e36722dd883e6df962a1e950346"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="ad956667bc89b49e5a520ee5a4f19f22e" name="ad956667bc89b49e5a520ee5a4f19f22e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad956667bc89b49e5a520ee5a4f19f22e">&#9670;&#160;</a></span>PvPInfo()</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="a4e0e22a135703c989976694a32912cbd" name="a4e0e22a135703c989976694a32912cbd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4e0e22a135703c989976694a32912cbd">&#9670;&#160;</a></span>GetUnslottedHunterPet()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -162,135 +148,92 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">PvPInfo::PvPInfo </td>
+          <td class="memname"><a class="el" href="../../d0/daf/a08971.html">PetInfo</a> const  * PetStable::GetUnslottedHunterPet </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td> const</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">default</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  241</span>    {</div>
+<div class="line"><span class="lineno">  242</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dd/d59/a08967.html#a8e6f6e36722dd883e6df962a1e950346">UnslottedPets</a>.size() == 1 &amp;&amp; <a class="code hl_variable" href="../../dd/d59/a08967.html#a8e6f6e36722dd883e6df962a1e950346">UnslottedPets</a>[0].Type == <a class="code hl_enumvalue" href="../../d6/d53/a01688.html#a9c56f6096d84d7e4e38d3e3f4e5af97ca608ed771a0dfa608eeafada945298bc2">HUNTER_PET</a> ? &amp;<a class="code hl_variable" href="../../dd/d59/a08967.html#a8e6f6e36722dd883e6df962a1e950346">UnslottedPets</a>[0] : <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  243</span>    }</div>
+<div class="ttc" id="aa01688_html_a9c56f6096d84d7e4e38d3e3f4e5af97ca608ed771a0dfa608eeafada945298bc2"><div class="ttname"><a href="../../d6/d53/a01688.html#a9c56f6096d84d7e4e38d3e3f4e5af97ca608ed771a0dfa608eeafada945298bc2">HUNTER_PET</a></div><div class="ttdeci">@ HUNTER_PET</div><div class="ttdef"><b>Definition:</b> PetDefines.h:33</div></div>
+<div class="ttc" id="aa08967_html_a8e6f6e36722dd883e6df962a1e950346"><div class="ttname"><a href="../../dd/d59/a08967.html#a8e6f6e36722dd883e6df962a1e950346">PetStable::UnslottedPets</a></div><div class="ttdeci">std::vector&lt; PetInfo &gt; UnslottedPets</div><div class="ttdef"><b>Definition:</b> PetDefines.h:238</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00033">HUNTER_PET</a>, and <a class="el" href="../../#l00238">UnslottedPets</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l09392">Player::CanPetResurrect()</a>, <a class="el" href="../../#l01007">spell_hun_tame_beast::CheckCast()</a>, <a class="el" href="../../#l13372">Unit::InitTamedPet()</a>, <a class="el" href="../../#l09425">Player::IsExistPet()</a>, <a class="el" href="../../#l00355">WorldSession::SendStablePet()</a>, and <a class="el" href="../../#l09167">Player::SummonPet()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="ae06b5030552c02f30fe8386633a753df" name="ae06b5030552c02f30fe8386633a753df"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae06b5030552c02f30fe8386633a753df">&#9670;&#160;</a></span>EndTimer</h2>
+<a id="a7a9f76452985abc65560773ac413208f" name="a7a9f76452985abc65560773ac413208f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7a9f76452985abc65560773ac413208f">&#9670;&#160;</a></span>CurrentPet</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">time_t PvPInfo::EndTimer {0}</td>
+          <td class="memname"><a class="el" href="../../db/de9/a04955.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt;<a class="el" href="../../d0/daf/a08971.html">PetInfo</a>&gt; PetStable::CurrentPet</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p><blockquote class="doxtable">
-<p >&zwj;Marks if player is in an FFAPvP area (such as Gurubashi <a class="el" href="../../d9/d95/a07627.html">Arena</a>) </p>
-</blockquote>
-</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00685">FlightPathMovementGenerator::DoReset()</a>, <a class="el" href="../../#l01464">Player::UpdateFFAPvPState()</a>, <a class="el" href="../../#l01537">Player::UpdatePvP()</a>, <a class="el" href="../../#l00365">Player::UpdatePvPFlag()</a>, and <a class="el" href="../../#l01444">Player::UpdatePvPState()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l09392">Player::CanPetResurrect()</a>, <a class="el" href="../../#l01007">spell_hun_tame_beast::CheckCast()</a>, <a class="el" href="../../#l05849">Spell::CheckCast()</a>, <a class="el" href="../../#l00171">Pet::GetLoadPetInfo()</a>, <a class="el" href="../../#l00840">WorldSession::HandlePetRename()</a>, <a class="el" href="../../#l00425">WorldSession::HandleStablePet()</a>, <a class="el" href="../../#l00646">WorldSession::HandleStableSwapPet()</a>, <a class="el" href="../../#l00493">WorldSession::HandleUnstablePet()</a>, <a class="el" href="../../#l13372">Unit::InitTamedPet()</a>, <a class="el" href="../../#l09425">Player::IsExistPet()</a>, <a class="el" href="../../#l00216">Pet::LoadPetFromDB()</a>, <a class="el" href="../../#l02129">Pet::resetTalentsForAllPetsOf()</a>, <a class="el" href="../../#l00502">Pet::SavePetToDB()</a>, <a class="el" href="../../#l00355">WorldSession::SendStablePet()</a>, and <a class="el" href="../../#l09167">Player::SummonPet()</a>.</p>
 
 </div>
 </div>
-<a id="a739dfc63dfe39429a44ea682d9120522" name="a739dfc63dfe39429a44ea682d9120522"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a739dfc63dfe39429a44ea682d9120522">&#9670;&#160;</a></span>FFAPvPEndTimer</h2>
+<a id="a2a30270bbd396b7fa4e035429ff8d04e" name="a2a30270bbd396b7fa4e035429ff8d04e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2a30270bbd396b7fa4e035429ff8d04e">&#9670;&#160;</a></span>MaxStabledPets</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">time_t PvPInfo::FFAPvPEndTimer {0}</td>
+          <td class="memname"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> PetStable::MaxStabledPets = 0</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p><blockquote class="doxtable">
-<p >&zwj;Time when player unflags himself for PvP (flag removed after 5 minutes) </p>
-</blockquote>
-</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00384">Player::UpdateFFAPvPFlag()</a>, and <a class="el" href="../../#l01464">Player::UpdateFFAPvPState()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00607">WorldSession::HandleBuyStableSlot()</a>, <a class="el" href="../../#l00425">WorldSession::HandleStablePet()</a>, and <a class="el" href="../../#l00355">WorldSession::SendStablePet()</a>.</p>
 
 </div>
 </div>
-<a id="a22a1c8f0e8c51f4a27cb8ab362028d61" name="a22a1c8f0e8c51f4a27cb8ab362028d61"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a22a1c8f0e8c51f4a27cb8ab362028d61">&#9670;&#160;</a></span>IsHostile</h2>
+<a id="a6bd064e692fff316581d08680b163026" name="a6bd064e692fff316581d08680b163026"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6bd064e692fff316581d08680b163026">&#9670;&#160;</a></span>StabledPets</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">bool PvPInfo::IsHostile {false}</td>
+          <td class="memname">std::array&lt;<a class="el" href="../../db/de9/a04955.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt;<a class="el" href="../../d0/daf/a08971.html">PetInfo</a>&gt;, <a class="el" href="../../d6/d53/a01688.html#ad8cb525a1566956fd2dd5baf811ab5b1">MAX_PET_STABLES</a>&gt; PetStable::StabledPets</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00520">Player::AddQuest()</a>, <a class="el" href="../../#l05079">Spell::EffectQuestClear()</a>, <a class="el" href="../../#l00292">WorldSession::HandleMoveTeleportAck()</a>, <a class="el" href="../../#l00396">WorldSession::HandleQuestLogRemoveQuest()</a>, <a class="el" href="../../#l00675">Player::RewardQuest()</a>, <a class="el" href="../../#l00365">Player::UpdatePvPFlag()</a>, <a class="el" href="../../#l01444">Player::UpdatePvPState()</a>, and <a class="el" href="../../#l01260">Player::UpdateZone()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00171">Pet::GetLoadPetInfo()</a>, <a class="el" href="../../#l00425">WorldSession::HandleStablePet()</a>, <a class="el" href="../../#l00646">WorldSession::HandleStableSwapPet()</a>, <a class="el" href="../../#l00493">WorldSession::HandleUnstablePet()</a>, <a class="el" href="../../#l00216">Pet::LoadPetFromDB()</a>, <a class="el" href="../../#l02129">Pet::resetTalentsForAllPetsOf()</a>, and <a class="el" href="../../#l00355">WorldSession::SendStablePet()</a>.</p>
 
 </div>
 </div>
-<a id="a8a654926248b3974587af1eb9c064d15" name="a8a654926248b3974587af1eb9c064d15"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8a654926248b3974587af1eb9c064d15">&#9670;&#160;</a></span>IsInFFAPvPArea</h2>
+<a id="a8e6f6e36722dd883e6df962a1e950346" name="a8e6f6e36722dd883e6df962a1e950346"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8e6f6e36722dd883e6df962a1e950346">&#9670;&#160;</a></span>UnslottedPets</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">bool PvPInfo::IsInFFAPvPArea {false}</td>
+          <td class="memname">std::vector&lt;<a class="el" href="../../d0/daf/a08971.html">PetInfo</a>&gt; PetStable::UnslottedPets</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p><blockquote class="doxtable">
-<p >&zwj;Marks if player is in a sanctuary or friendly capital city </p>
-</blockquote>
-</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l01222">Player::UpdateArea()</a>, and <a class="el" href="../../#l01464">Player::UpdateFFAPvPState()</a>.</p>
-
-</div>
-</div>
-<a id="a92d3c8991f7e3c5d683b414d18cbbd64" name="a92d3c8991f7e3c5d683b414d18cbbd64"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a92d3c8991f7e3c5d683b414d18cbbd64">&#9670;&#160;</a></span>IsInHostileArea</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool PvPInfo::IsInHostileArea {false}</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l05079">Spell::EffectQuestClear()</a>, <a class="el" href="../../#l00396">WorldSession::HandleQuestLogRemoveQuest()</a>, <a class="el" href="../../#l00675">Player::RewardQuest()</a>, and <a class="el" href="../../#l01260">Player::UpdateZone()</a>.</p>
-
-</div>
-</div>
-<a id="a6858b8db9a441bf950f7d9fdca1587b5" name="a6858b8db9a441bf950f7d9fdca1587b5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6858b8db9a441bf950f7d9fdca1587b5">&#9670;&#160;</a></span>IsInNoPvPArea</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool PvPInfo::IsInNoPvPArea {false}</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p><blockquote class="doxtable">
-<p >&zwj;Marks if player is in an area which forces PvP flag </p>
-</blockquote>
-</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l01222">Player::UpdateArea()</a>, <a class="el" href="../../#l01464">Player::UpdateFFAPvPState()</a>, and <a class="el" href="../../#l01260">Player::UpdateZone()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l05849">Spell::CheckCast()</a>, <a class="el" href="../../#l00171">Pet::GetLoadPetInfo()</a>, <a class="el" href="../../#l00240">GetUnslottedHunterPet()</a>, <a class="el" href="../../#l00425">WorldSession::HandleStablePet()</a>, <a class="el" href="../../#l00646">WorldSession::HandleStableSwapPet()</a>, <a class="el" href="../../#l00493">WorldSession::HandleUnstablePet()</a>, <a class="el" href="../../#l00216">Pet::LoadPetFromDB()</a>, and <a class="el" href="../../#l02129">Pet::resetTalentsForAllPetsOf()</a>.</p>
 
 </div>
 </div>
@@ -299,8 +242,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dd/d59/a08967.html">PvPInfo</a></li>
-    <li class="footer">Generated on Tue Sep 1 2026 00:09:35 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dd/d59/a08967.html">PetStable</a></li>
+    <li class="footer">Generated on Mon Sep 21 2026 23:34:20 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

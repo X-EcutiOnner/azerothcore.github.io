@@ -1,12 +1,12 @@
 var a12843 =
 [
-    [ "boss_the_beast", "dd/d1f/a12843.html#ab98bce804078b4184b1bf6e844db9c67", null ],
-    [ "FindNearbyOrcs", "dd/d1f/a12843.html#a46da3f960ea3c38791c23a3e282db9c7", null ],
-    [ "JustEngagedWith", "dd/d1f/a12843.html#a9740b134ce1b21c42c9082d9fdc97264", null ],
-    [ "Reset", "dd/d1f/a12843.html#a7a72f5aeb54fe6de6c71dfac2c906881", null ],
-    [ "SetData", "dd/d1f/a12843.html#a8ceb3a1c53c2c5385d4a779b2ac283da", null ],
-    [ "UpdateAI", "dd/d1f/a12843.html#ad7db422aefc711b437176b729c6ac151", null ],
-    [ "_beastReached", "dd/d1f/a12843.html#a7345b0091bcfd894ce8fdff9431254f6", null ],
-    [ "_nearbyOrcsGUIDs", "dd/d1f/a12843.html#a20b867be394f3c5d9bbf851ba724ca3a", null ],
-    [ "_orcYelled", "dd/d1f/a12843.html#a7079c59c50343f460e2aac2bcf19709c", null ]
+    [ "boss_doomrel", "dd/d1f/a12843.html#adc8f26522b88ada86c2ee937daa8fbd1", null ],
+    [ "EnterEvadeMode", "dd/d1f/a12843.html#a5f6c139a7be348abeda3b883c2b3f5be", null ],
+    [ "JustEngagedWith", "dd/d1f/a12843.html#a559c1619a97e50b03db6c8abc7190f91", null ],
+    [ "Reset", "dd/d1f/a12843.html#af30f3385bb1ca366f335ca3e19849704", null ],
+    [ "sGossipSelect", "dd/d1f/a12843.html#ad80c97c7d8d8cd4db466d65ecda8dd4f", null ],
+    [ "UpdateAI", "dd/d1f/a12843.html#a92cdad912f54235ab9c4cd788f17e293", null ],
+    [ "_events", "dd/d1f/a12843.html#a1687755cadc484d431497a320e9509f3", null ],
+    [ "instance", "dd/d1f/a12843.html#aa0d131530564cc40af48bc31f9f67a7d", null ],
+    [ "Voidwalkers", "dd/d1f/a12843.html#afb365d8b32d2610b3d398b6f3a1f1bc6", null ]
 ];

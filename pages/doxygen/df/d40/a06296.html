@@ -104,26 +104,31 @@ $(document).ready(function(){initNavTree('d6/d5e/a06299.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">UpdateFetcher::AppliedFileEntry Member List</div></div>
+  <div class="headertitle"><div class="title">TransactionBase Member List</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>This is the complete list of members for <a class="el" href="../../d6/d5e/a06299.html">UpdateFetcher::AppliedFileEntry</a>, including all inherited members.</p>
+<p>This is the complete list of members for <a class="el" href="../../d6/d5e/a06299.html">TransactionBase</a>, including all inherited members.</p>
 <table class="directory">
-  <tr class="even"><td class="entry"><a class="el" href="../../d6/d5e/a06299.html#ac925dd4c2f889ae84e8be8cba9a0ef06">AppliedFileEntry</a>(std::string const &amp;name_, std::string const &amp;hash_, State state_, uint64 timestamp_)</td><td class="entry"><a class="el" href="../../d6/d5e/a06299.html">UpdateFetcher::AppliedFileEntry</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d6/d5e/a06299.html#a803f0ee67f0d3944b0933cf97723b5d3">GetStateAsString</a>() const</td><td class="entry"><a class="el" href="../../d6/d5e/a06299.html">UpdateFetcher::AppliedFileEntry</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d6/d5e/a06299.html#af39f798a10c2675e870d4d62f1d0a10c">hash</a></td><td class="entry"><a class="el" href="../../d6/d5e/a06299.html">UpdateFetcher::AppliedFileEntry</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d6/d5e/a06299.html#a8fc429eae6816054b5828952a5698a4c">name</a></td><td class="entry"><a class="el" href="../../d6/d5e/a06299.html">UpdateFetcher::AppliedFileEntry</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d6/d5e/a06299.html#a7899f60d95db04e776b7ccfbc1003cfb">state</a></td><td class="entry"><a class="el" href="../../d6/d5e/a06299.html">UpdateFetcher::AppliedFileEntry</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d6/d5e/a06299.html#ac35fc4abcc60015c56765ceebc6fdb8f">StateConvert</a>(std::string const &amp;state)</td><td class="entry"><a class="el" href="../../d6/d5e/a06299.html">UpdateFetcher::AppliedFileEntry</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">static</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d6/d5e/a06299.html#a16274f0e9e6669be265ba75f79c4b10f">StateConvert</a>(State const state)</td><td class="entry"><a class="el" href="../../d6/d5e/a06299.html">UpdateFetcher::AppliedFileEntry</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">static</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d6/d5e/a06299.html#a13703e88b76f26858696b33a8bc8f862">timestamp</a></td><td class="entry"><a class="el" href="../../d6/d5e/a06299.html">UpdateFetcher::AppliedFileEntry</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d6/d5e/a06299.html#aa82af96128bfcee997423a54396d40d4">_cleanedUp</a></td><td class="entry"><a class="el" href="../../d6/d5e/a06299.html">TransactionBase</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d6/d5e/a06299.html#a867b7a92080104278aef5fb4975a4a52">Append</a>(std::string_view sql)</td><td class="entry"><a class="el" href="../../d6/d5e/a06299.html">TransactionBase</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d6/d5e/a06299.html#aa0a81814abe26d456018c3bc9153cd4d">Append</a>(std::string_view sql, Args &amp;&amp;... args)</td><td class="entry"><a class="el" href="../../d6/d5e/a06299.html">TransactionBase</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d6/d5e/a06299.html#a8e099a4f8775b5e5e3b95ad0273a716f">AppendPreparedStatement</a>(PreparedStatementBase *statement)</td><td class="entry"><a class="el" href="../../d6/d5e/a06299.html">TransactionBase</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d6/d5e/a06299.html#a35e0ce11de325a1b286d90a2936d4aa3">Cleanup</a>()</td><td class="entry"><a class="el" href="../../d6/d5e/a06299.html">TransactionBase</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d6/d5e/a06299.html#a5d89109a06fa4fca3057b99bbfa84e58">DatabaseWorkerPool</a></td><td class="entry"><a class="el" href="../../d6/d5e/a06299.html">TransactionBase</a></td><td class="entry"><span class="mlabel">friend</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d6/d5e/a06299.html#a261ad9d7423562ccbe2cac6d75c203bd">GetSize</a>() const</td><td class="entry"><a class="el" href="../../d6/d5e/a06299.html">TransactionBase</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d6/d5e/a06299.html#a156f1a8316358c05285778e5734eade1">m_queries</a></td><td class="entry"><a class="el" href="../../d6/d5e/a06299.html">TransactionBase</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d6/d5e/a06299.html#aaeb95f0085e90a3270c273b1873a587d">ModuleDatabasePool</a></td><td class="entry"><a class="el" href="../../d6/d5e/a06299.html">TransactionBase</a></td><td class="entry"><span class="mlabel">friend</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d6/d5e/a06299.html#a06fa417f69e0a67da8f249333b1d189d">MySQLConnection</a></td><td class="entry"><a class="el" href="../../d6/d5e/a06299.html">TransactionBase</a></td><td class="entry"><span class="mlabel">friend</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d6/d5e/a06299.html#a663d13ba0b22e0711d135073ff80ee47">TransactionBase</a>()=default</td><td class="entry"><a class="el" href="../../d6/d5e/a06299.html">TransactionBase</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d6/d5e/a06299.html#a377add6d6b5e34e774d2497d58f4a180">TransactionTask</a></td><td class="entry"><a class="el" href="../../d6/d5e/a06299.html">TransactionBase</a></td><td class="entry"><span class="mlabel">friend</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d6/d5e/a06299.html#a6ce7e6ef81bb466463bace35cdd49476">~TransactionBase</a>()</td><td class="entry"><a class="el" href="../../d6/d5e/a06299.html">TransactionBase</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
 </table></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Tue Sep 1 2026 00:10:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Sep 21 2026 23:34:53 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

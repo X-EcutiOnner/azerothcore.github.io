@@ -1,5 +1,5 @@
 var a02348 =
 [
-    [ "achievement_commandscript", "de/d9d/a12453.html", "de/d9d/a12453" ],
-    [ "AddSC_achievement_commandscript", "da/db4/a02348.html#afeb482a8cffe8416071764bc4e78bff2", null ]
+    [ "lookup_commandscript", "da/d19/a12587.html", "da/d19/a12587" ],
+    [ "AddSC_lookup_commandscript", "da/db4/a02348.html#aae75b0f1415c6529e5837e3b27d054f6", null ]
 ];

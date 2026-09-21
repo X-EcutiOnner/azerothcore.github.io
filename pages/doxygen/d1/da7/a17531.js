@@ -1,6 +1,6 @@
 var a17531 =
 [
-    [ "npc_pos_leader_secondAI", "db/dc0/a17535.html", "db/dc0/a17535" ],
-    [ "npc_pos_leader_second", "d1/da7/a17531.html#ac4758674cc97eae0937264fa028e6da5", null ],
-    [ "GetAI", "d1/da7/a17531.html#ac403cfc86247990d78c9cf4179df8b87", null ]
+    [ "boss_tyrannusAI", "db/dc0/a17535.html", "db/dc0/a17535" ],
+    [ "boss_tyrannus", "d1/da7/a17531.html#a81373192ffea8817cb72b80f4629da43", null ],
+    [ "GetAI", "d1/da7/a17531.html#ad107030de1427d070305f5dcef96c016", null ]
 ];

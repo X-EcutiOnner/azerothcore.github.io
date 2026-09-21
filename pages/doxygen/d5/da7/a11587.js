@@ -1,6 +1,4 @@
 var a11587 =
 [
-    [ "CorpseMapPositionQuery", "d5/da7/a11587.html#a14bfe5f386800785ae3f4f39aea9ea83", null ],
-    [ "Read", "d5/da7/a11587.html#a0adb3889b6bc53646cb54163f7b04a6b", null ],
-    [ "unk", "d5/da7/a11587.html#ab7edc2e1ef196f05aef9ea1c8427f877", null ]
+    [ "PacketArrayMaxCapacityException", "d5/da7/a11587.html#ad71e0267bc6c9e5d182954eaa174c40e", null ]
 ];

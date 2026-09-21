@@ -1,8 +1,7 @@
 var a20891 =
 [
-    [ "npc_scrapbot", "d6/dc7/a20891.html#a088bac1bf5cb91be8f18368c08c5414a", null ],
-    [ "Reset", "d6/dc7/a20891.html#a2dca509a6e2b46674165e5559717f69c", null ],
-    [ "UpdateAI", "d6/dc7/a20891.html#ade90c75baf598900adaa300cef28cb6a", null ],
-    [ "_instance", "d6/dc7/a20891.html#afb8296b4d9105ee99abc534656289ae2", null ],
-    [ "_scheduler", "d6/dc7/a20891.html#a4deb841588ea244e4290bb8ffb69b483", null ]
+    [ "HandleFused", "d6/dc7/a20891.html#ab5ea77be32486664ff6c5ff7dc01f7dd", null ],
+    [ "PrepareAuraScript", "d6/dc7/a20891.html#a438c63656d2a976883fa13232cc5dc6e", null ],
+    [ "Register", "d6/dc7/a20891.html#a17300c74645f9298d8422535a61fe077", null ],
+    [ "Validate", "d6/dc7/a20891.html#a55ca732a3d0e3a69f055fd915037a5f0", null ]
 ];

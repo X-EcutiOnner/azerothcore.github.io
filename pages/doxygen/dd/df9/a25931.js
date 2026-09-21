@@ -1,6 +1,6 @@
 var a25931 =
 [
-    [ "HandleDummy", "dd/df9/a25931.html#a7b56d07d46647a2790553d40e75da79d", null ],
-    [ "PrepareSpellScript", "dd/df9/a25931.html#aad36c108f4531c19ba552064ba0d3248", null ],
-    [ "Register", "dd/df9/a25931.html#a754fcf618f53b4b17c2bcae4740e561f", null ]
+    [ "HandleItemRemove", "dd/df9/a25931.html#a28f8f8e6823bad14900d08ba10cab7e6", null ],
+    [ "PrepareSpellScript", "dd/df9/a25931.html#a8b43e146724a2c8b3c495e886a79d021", null ],
+    [ "Register", "dd/df9/a25931.html#af8b02c31b81dce516ea47d6a1235d683", null ]
 ];

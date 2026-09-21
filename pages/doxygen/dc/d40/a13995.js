@@ -1,12 +1,10 @@
 var a13995 =
 [
-    [ "npc_cameron", "dc/d40/a13995.html#a45e47ec5c9dadc6f0899e83ac2e19cff", null ],
-    [ "MoveTheChildren", "dc/d40/a13995.html#a85ae436f19f69ffb853330f01ee152a0", null ],
-    [ "PathEndReached", "dc/d40/a13995.html#a0bf53f40eeb4fe3ed7d62988bee0a912", null ],
-    [ "sOnGameEvent", "dc/d40/a13995.html#ab22841871cfcdc926b28296a5b4e440c", null ],
-    [ "SoundPicker", "dc/d40/a13995.html#a2ad97aaac0bd759921e0b75cfc88d07d", null ],
-    [ "UpdateAI", "dc/d40/a13995.html#a32a2dd2be2c06700fb81f4072a364ce2", null ],
-    [ "_childrenGUIDs", "dc/d40/a13995.html#ad260466902e8fb1a2e02998cc4549695", null ],
-    [ "_events", "dc/d40/a13995.html#ad6c58f433520c4ed55f43ef3604dde28", null ],
-    [ "_started", "dc/d40/a13995.html#a985d0590eedde340a3923e299d4dffd8", null ]
+    [ "npc_sunblade_scout", "dc/d40/a13995.html#ab8ecb0d2fb7dfd482b2cba4ed11ababc", null ],
+    [ "JustEngagedWith", "dc/d40/a13995.html#ab57b63a624458a9fa598062e61c5fa0e", null ],
+    [ "Reset", "dc/d40/a13995.html#a8c7f442118fced8a2efac3b9fe0035f5", null ],
+    [ "ScheduleCombat", "dc/d40/a13995.html#ae4ca796fa8fd4aae6ac8f184638b3f97", null ],
+    [ "ScheduleOOC", "dc/d40/a13995.html#ae06c1d7b43cc170f3a3b5f4835822d57", null ],
+    [ "UpdateAI", "dc/d40/a13995.html#aca75482085b72070487c24feefa23fd6", null ],
+    [ "_protectorGUID", "dc/d40/a13995.html#a753f7fbbea33f7fc49f5d6e733a8f833", null ]
 ];

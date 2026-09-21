@@ -1,12 +1,9 @@
 var a05182 =
 [
-    [ "InstanceLockResponse", "df/d75/a11345.html", "df/d75/a11345" ],
-    [ "InstanceReset", "d4/d21/a11313.html", "d4/d21/a11313" ],
-    [ "InstanceResetFailed", "d4/ddb/a11317.html", "d4/ddb/a11317" ],
-    [ "ResetFailedNotify", "d4/d5b/a11329.html", "d4/d5b/a11329" ],
-    [ "ResetInstances", "d4/db8/a11341.html", "d4/db8/a11341" ],
-    [ "SetDungeonDifficulty", "d8/d11/a11321.html", "d8/d11/a11321" ],
-    [ "SetDungeonDifficultyClient", "d9/d58/a11325.html", "d9/d58/a11325" ],
-    [ "SetRaidDifficulty", "d8/dd1/a11333.html", "d8/dd1/a11333" ],
-    [ "SetRaidDifficultyClient", "d3/ddf/a11337.html", "d3/ddf/a11337" ]
+    [ "Hello", "d7/d61/a11523.html", "d7/d61/a11523" ],
+    [ "TrainerBuyFailed", "d0/d04/a11539.html", "d0/d04/a11539" ],
+    [ "TrainerBuySpell", "d8/dad/a11535.html", "d8/dad/a11535" ],
+    [ "TrainerBuySucceeded", "db/d6b/a11543.html", "db/d6b/a11543" ],
+    [ "TrainerList", "d3/dd5/a11531.html", "d3/dd5/a11531" ],
+    [ "TrainerListSpell", "dc/d47/a11527.html", "dc/d47/a11527" ]
 ];

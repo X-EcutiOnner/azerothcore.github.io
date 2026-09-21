@@ -1,10 +1,8 @@
 var a09831 =
 [
-    [ "NearestCreatureEntryWithLiveStateInObjectRangeCheck", "d1/ded/a09831.html#aa9f15d071efe7ca7bb975489fec2afbd", null ],
-    [ "NearestCreatureEntryWithLiveStateInObjectRangeCheck", "d1/ded/a09831.html#a1e25384d08beeee84d83e401f5a5a565", null ],
-    [ "operator()", "d1/ded/a09831.html#abc2ab6f33a6a58a6e692cc32e8139839", null ],
-    [ "i_alive", "d1/ded/a09831.html#a7a01388f86d25fa0728d94c6e1a7f752", null ],
-    [ "i_entry", "d1/ded/a09831.html#ae2bf2c0a0f431f5de445fbee26b60a57", null ],
-    [ "i_obj", "d1/ded/a09831.html#aa0340c79c37f3494b01c52f034705aa4", null ],
-    [ "i_range", "d1/ded/a09831.html#a695af00612b17e0182ad76a5c3be2356", null ]
+    [ "NearestAttackableNoTotemUnitInObjectRangeCheck", "d1/ded/a09831.html#a1f0bf90a7b9c57d05c54e3db6827aec1", null ],
+    [ "operator()", "d1/ded/a09831.html#a08f8e473914c8a7bddbf26568294c18b", null ],
+    [ "i_obj", "d1/ded/a09831.html#a949ff3bcc3530206d83512d293647a2b", null ],
+    [ "i_owner", "d1/ded/a09831.html#a64f58427bbab3276bdc53450b33eca12", null ],
+    [ "i_range", "d1/ded/a09831.html#af52388830cec17e32b1d368739b4555a", null ]
 ];

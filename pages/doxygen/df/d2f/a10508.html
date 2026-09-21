@@ -104,22 +104,33 @@ $(document).ready(function(){initNavTree('d5/db0/a10511.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">Movement::PacketBuilder Member List</div></div>
+  <div class="headertitle"><div class="title">RotateMovementGenerator Member List</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>This is the complete list of members for <a class="el" href="../../d5/db0/a10511.html">Movement::PacketBuilder</a>, including all inherited members.</p>
+<p>This is the complete list of members for <a class="el" href="../../d5/db0/a10511.html">RotateMovementGenerator</a>, including all inherited members.</p>
 <table class="directory">
-  <tr class="even"><td class="entry"><a class="el" href="../../d5/db0/a10511.html#a5f460aac5726580ed4d053f97ce4b95a">WriteCommonMonsterMovePart</a>(MoveSpline const &amp;mov, ByteBuffer &amp;data)</td><td class="entry"><a class="el" href="../../d5/db0/a10511.html">Movement::PacketBuilder</a></td><td class="entry"><span class="mlabel">private</span><span class="mlabel">static</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d5/db0/a10511.html#a255a4de5c8cdf224e822a4e7ffe0ee5a">WriteCreate</a>(MoveSpline const &amp;mov, ByteBuffer &amp;data)</td><td class="entry"><a class="el" href="../../d5/db0/a10511.html">Movement::PacketBuilder</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d5/db0/a10511.html#a7681143d50955bda880fbae74671a684">WriteMonsterMove</a>(MoveSpline const &amp;mov, ByteBuffer &amp;data)</td><td class="entry"><a class="el" href="../../d5/db0/a10511.html">Movement::PacketBuilder</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d5/db0/a10511.html#a1b960c1141ab9b4dca932e0eddaee204">WriteStopMovement</a>(Vector3 const &amp;loc, uint32 splineId, ByteBuffer &amp;data)</td><td class="entry"><a class="el" href="../../d5/db0/a10511.html">Movement::PacketBuilder</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d5/db0/a10511.html#afd7588c7877b116cc9626a774b89d584">Finalize</a>(Unit *) override</td><td class="entry"><a class="el" href="../../d5/db0/a10511.html">RotateMovementGenerator</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d5/db0/a10511.html#a20677803edf5d93ceae3bf76ef426a81">GetMovementGeneratorType</a>() override</td><td class="entry"><a class="el" href="../../d5/db0/a10511.html">RotateMovementGenerator</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../de/d6e/a10463.html#a60ac9e99f41d1f5c320441cf78b4b46a">GetResetPosition</a>(float &amp;, float &amp;, float &amp;)</td><td class="entry"><a class="el" href="../../de/d6e/a10463.html">MovementGenerator</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../de/d6e/a10463.html#a99865a1b7cf84b02784bfa8df958585f">GetSplineId</a>() const</td><td class="entry"><a class="el" href="../../de/d6e/a10463.html">MovementGenerator</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d5/db0/a10511.html#a18fea8760bb24912af9349a06ff7b596">Initialize</a>(Unit *) override</td><td class="entry"><a class="el" href="../../d5/db0/a10511.html">RotateMovementGenerator</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d5/db0/a10511.html#a8717e890670d9f4e2ff66c0981d14aa6">m_direction</a></td><td class="entry"><a class="el" href="../../d5/db0/a10511.html">RotateMovementGenerator</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d5/db0/a10511.html#a2cb8d5fc3d26c24e62c7373f1ce49b13">m_duration</a></td><td class="entry"><a class="el" href="../../d5/db0/a10511.html">RotateMovementGenerator</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d5/db0/a10511.html#a7cf10886bdd50ccbc5900b9229958e01">m_maxDuration</a></td><td class="entry"><a class="el" href="../../d5/db0/a10511.html">RotateMovementGenerator</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../de/d6e/a10463.html#a37530e5cd743faecabd21eba08dce939">Pause</a>(uint32)</td><td class="entry"><a class="el" href="../../de/d6e/a10463.html">MovementGenerator</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d5/db0/a10511.html#a3e177762fcfc11ac47aa820b46b93ed0">Reset</a>(Unit *owner) override</td><td class="entry"><a class="el" href="../../d5/db0/a10511.html">RotateMovementGenerator</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../de/d6e/a10463.html#a51988a8b0a45459242467e38ca46303c">Resume</a>(uint32)</td><td class="entry"><a class="el" href="../../de/d6e/a10463.html">MovementGenerator</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d5/db0/a10511.html#a89a6559b4380210972e82c6ca6d5a9db">RotateMovementGenerator</a>(uint32 time, RotateDirection direction)</td><td class="entry"><a class="el" href="../../d5/db0/a10511.html">RotateMovementGenerator</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">explicit</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../de/d6e/a10463.html#a0f9c4fd52947688dcda1161924e829bb">unitSpeedChanged</a>()</td><td class="entry"><a class="el" href="../../de/d6e/a10463.html">MovementGenerator</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d5/db0/a10511.html#a0dc8600e3aa862a81735dfb927232e53">Update</a>(Unit *, uint32) override</td><td class="entry"><a class="el" href="../../d5/db0/a10511.html">RotateMovementGenerator</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../de/d6e/a10463.html#a13c3c432ac2a91dd4d07b090ec06b903">~MovementGenerator</a>()</td><td class="entry"><a class="el" href="../../de/d6e/a10463.html">MovementGenerator</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
 </table></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Tue Sep 1 2026 00:10:11 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Sep 21 2026 23:34:24 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

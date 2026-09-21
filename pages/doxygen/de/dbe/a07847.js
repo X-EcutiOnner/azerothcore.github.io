@@ -1,19 +1,9 @@
 var a07847 =
 [
-    [ "BattlegroundRV", "de/dbe/a07847.html#ad8c16fa336cd5b0d98eb0009ef094632", null ],
-    [ "CheckPositionForUnit", "de/dbe/a07847.html#a17665265c5ab837b4e2a0cdc461a7d0a", null ],
-    [ "FillInitialWorldStates", "de/dbe/a07847.html#a62c7201196fabb6000d2df52b8323e6a", null ],
-    [ "GetPillarAtPosition", "de/dbe/a07847.html#a0cd6f84233993bde76be990abab75f23", null ],
-    [ "GetPillarIdForPos", "de/dbe/a07847.html#a4edb8efce09dece515e8b833142d2c55", null ],
-    [ "HandleAreaTrigger", "de/dbe/a07847.html#aa75f63f77d1f7e8bafffe1d8cb7de9b8", null ],
-    [ "HandlePlayerUnderMap", "de/dbe/a07847.html#a4cb2e77a45fd02a5db85b6979d622afa", null ],
-    [ "Init", "de/dbe/a07847.html#a67853fccaddfcd946015a96c5b108641", null ],
-    [ "PostUpdateImpl", "de/dbe/a07847.html#a9707d8805f031c01c14d78fdc1790a64", null ],
-    [ "SetupBattleground", "de/dbe/a07847.html#abbd1a364665655cfc4f059fa63384536", null ],
-    [ "StartingEventOpenDoors", "de/dbe/a07847.html#a450c1d8a9ad4712ab4042256ba7d9d08", null ],
-    [ "TeleportUnitToNewZ", "de/dbe/a07847.html#ac5b158259ccc5168275c0e00ea041db0", null ],
-    [ "UpdatePillars", "de/dbe/a07847.html#a76d16c8ab6778a6fc8a4c988a46f0306", null ],
-    [ "_checkPlayersTimer", "de/dbe/a07847.html#a7c876ff9156f81b168aec7cf673d39b3", null ],
-    [ "_state", "de/dbe/a07847.html#acce3fce40dbbb403749dcdb986e1d970", null ],
-    [ "_timer", "de/dbe/a07847.html#ac5f9a8627e919eb224d78d726da1a7a1", null ]
+    [ "BattlegroundEYLosingPointStruct", "de/dbe/a07847.html#ae3f19e55206e1a8097fe173a8a37aa12", null ],
+    [ "DespawnObjectTypeAlliance", "de/dbe/a07847.html#a210828d05ea9948484631b7408a3bb4b", null ],
+    [ "DespawnObjectTypeHorde", "de/dbe/a07847.html#a335205cb71b7055db4c01a5e562001b6", null ],
+    [ "MessageIdAlliance", "de/dbe/a07847.html#afe89eccc8c21351edb4ce943d937e521", null ],
+    [ "MessageIdHorde", "de/dbe/a07847.html#a8295974ee1f663dd0d22bcc4f0e0fa92", null ],
+    [ "SpawnNeutralObjectType", "de/dbe/a07847.html#a57c1a6f485ea6617b5218da411cae38f", null ]
 ];

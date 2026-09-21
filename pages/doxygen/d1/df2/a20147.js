@@ -1,5 +1,6 @@
 var a20147 =
 [
-    [ "achievement_algalon_herald_of_the_titans", "d1/df2/a20147.html#a13c75b878f4669d212eeb09b55336384", null ],
-    [ "OnCheck", "d1/df2/a20147.html#a20811d7bb453b1758967c11545e630e9", null ]
+    [ "HandleApplyTouch", "d1/df2/a20147.html#a0c46c506f78f46f17c0de6caae774316", null ],
+    [ "PrepareSpellScript", "d1/df2/a20147.html#a2f32b735a8a72a6ef52744d3ce8ada8b", null ],
+    [ "Register", "d1/df2/a20147.html#a70382055564e4ead8b5da0d6bd20c67f", null ]
 ];

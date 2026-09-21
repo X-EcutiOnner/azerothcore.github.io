@@ -1,10 +1,8 @@
 var a08427 =
 [
-    [ "CreatureModel", "db/dec/a08427.html#afd3bf8cb5ff39b862a946eab9731b251", null ],
-    [ "CreatureModel", "db/dec/a08427.html#a02b05bf92c3341b90173b4aa998087ba", null ],
-    [ "CreatureDisplayID", "db/dec/a08427.html#a0f48fde2c8438ecf411d7f80d3bca1a9", null ],
-    [ "DefaultInvisibleModel", "db/dec/a08427.html#a4b729e5730c1fa0e5e4995f5dd65e9b3", null ],
-    [ "DefaultVisibleModel", "db/dec/a08427.html#a49bec3e0996adfb6ec5bd5a9b6e38448", null ],
-    [ "DisplayScale", "db/dec/a08427.html#ad842b73233b84c451710767f5e58f10a", null ],
-    [ "Probability", "db/dec/a08427.html#a7736d6480dca65a68afb82a830b35874", null ]
+    [ "cancelTime", "db/dec/a08427.html#a5fe6d6ede54a1f1228e29fc7ef55a413", null ],
+    [ "inProgress", "db/dec/a08427.html#a8f3eddc8fbca950f184b6fb8b400344e", null ],
+    [ "reason", "db/dec/a08427.html#a279a5575ca0956266ae81b7a165874cf", null ],
+    [ "victim", "db/dec/a08427.html#a949262b4b3cbe0f813aae4fab704e7d2", null ],
+    [ "votes", "db/dec/a08427.html#a7619305fea30cc7fdc47f0a7ee365304", null ]
 ];

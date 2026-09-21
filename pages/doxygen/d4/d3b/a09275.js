@@ -1,10 +1,11 @@
 var a09275 =
 [
-    [ "mapId", "d4/d3b/a09275.html#a828d8b93918ea8ba695e0c5e597c855d", null ],
-    [ "name", "d4/d3b/a09275.html#a9dd0dacb5825cf3afd117c22ac5ebf21", null ],
-    [ "orientation", "d4/d3b/a09275.html#a49b4a83290dbe39ab0be79a8ae2f03a6", null ],
-    [ "position_x", "d4/d3b/a09275.html#a65e7390a1dbb615a155c4f163b830e11", null ],
-    [ "position_y", "d4/d3b/a09275.html#a3d3f398cd23566dce721fefeae7af33c", null ],
-    [ "position_z", "d4/d3b/a09275.html#a9ff9a74b00016df6df7c27ebce8ff3fb", null ],
-    [ "wnameLow", "d4/d3b/a09275.html#ac63cbb609eadc584fe61d33fb709c4d6", null ]
+    [ "VehicleSeatAddon", "d4/d3b/a09275.html#a307b278917998116156e41f9189a582c", null ],
+    [ "VehicleSeatAddon", "d4/d3b/a09275.html#adaec12df869a9ffc81174f5ef1f65606", null ],
+    [ "ExitParameter", "d4/d3b/a09275.html#afbb8de193522f1182efff50064e5f83d", null ],
+    [ "ExitParameterO", "d4/d3b/a09275.html#a06e385ea5cf0441721432925251a5a63", null ],
+    [ "ExitParameterX", "d4/d3b/a09275.html#a521d7a5eda620d0ced0b1309f3c96e17", null ],
+    [ "ExitParameterY", "d4/d3b/a09275.html#ad343c7149b12cffe3a3de48ad73685a2", null ],
+    [ "ExitParameterZ", "d4/d3b/a09275.html#add1ea5a9e605a49d0ddbcea0f804bd3b", null ],
+    [ "SeatOrientationOffset", "d4/d3b/a09275.html#a374c73b40f6e6dad103b172d1829a31d", null ]
 ];

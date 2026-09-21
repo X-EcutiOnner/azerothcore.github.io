@@ -1,10 +1,9 @@
 var a08967 =
 [
-    [ "PvPInfo", "dd/d59/a08967.html#ad956667bc89b49e5a520ee5a4f19f22e", null ],
-    [ "EndTimer", "dd/d59/a08967.html#ae06b5030552c02f30fe8386633a753df", null ],
-    [ "FFAPvPEndTimer", "dd/d59/a08967.html#a739dfc63dfe39429a44ea682d9120522", null ],
-    [ "IsHostile", "dd/d59/a08967.html#a22a1c8f0e8c51f4a27cb8ab362028d61", null ],
-    [ "IsInFFAPvPArea", "dd/d59/a08967.html#a8a654926248b3974587af1eb9c064d15", null ],
-    [ "IsInHostileArea", "dd/d59/a08967.html#a92d3c8991f7e3c5d683b414d18cbbd64", null ],
-    [ "IsInNoPvPArea", "dd/d59/a08967.html#a6858b8db9a441bf950f7d9fdca1587b5", null ]
+    [ "PetInfo", "d0/daf/a08971.html", "d0/daf/a08971" ],
+    [ "GetUnslottedHunterPet", "dd/d59/a08967.html#a4e0e22a135703c989976694a32912cbd", null ],
+    [ "CurrentPet", "dd/d59/a08967.html#a7a9f76452985abc65560773ac413208f", null ],
+    [ "MaxStabledPets", "dd/d59/a08967.html#a2a30270bbd396b7fa4e035429ff8d04e", null ],
+    [ "StabledPets", "dd/d59/a08967.html#a6bd064e692fff316581d08680b163026", null ],
+    [ "UnslottedPets", "dd/d59/a08967.html#a8e6f6e36722dd883e6df962a1e950346", null ]
 ];

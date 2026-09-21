@@ -1,7 +1,6 @@
 var a16095 =
 [
-    [ "DelayedWindstoneSummonEvent", "df/d8d/a16095.html#aa97daf8cf3479395ffd6558b6699436a", null ],
-    [ "Execute", "df/d8d/a16095.html#aa413bc8709bc543b89ffb3df42185475", null ],
-    [ "_playerGUID", "df/d8d/a16095.html#ad83bb6d87b569f59e99abcc16517745b", null ],
-    [ "_summon", "df/d8d/a16095.html#af9804d276da5daebab3a37f2c75301ea", null ]
+    [ "npc_clintar_spiritAI", "d8/d75/a16099.html", "d8/d75/a16099" ],
+    [ "npc_clintar_spirit", "df/d8d/a16095.html#a416f5eea882f2c13c4c0f7dd81d36a2b", null ],
+    [ "GetAI", "df/d8d/a16095.html#a118198504f6f93c86302275a11582d60", null ]
 ];

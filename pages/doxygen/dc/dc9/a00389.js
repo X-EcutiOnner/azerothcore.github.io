@@ -1,7 +1,7 @@
 var a00389 =
 [
-    [ "CliCommandHolder", "d5/d77/a12405.html", "d5/d77/a12405" ],
-    [ "IWorld", "d7/d32/a12409.html", "d7/d32/a12409" ],
+    [ "CliCommandHolder", "d2/d95/a12419.html", "d2/d95/a12419" ],
+    [ "IWorld", "d8/d39/a12423.html", "d8/d39/a12423" ],
     [ "ServerMessageType", "dc/dc9/a00389.html#a08e6f7cfaf7929274a1908b0e95c798f", [
       [ "SERVER_MSG_SHUTDOWN_TIME", "dc/dc9/a00389.html#a08e6f7cfaf7929274a1908b0e95c798fa06a96ab329b402934a6bd8d22fbd930c", null ],
       [ "SERVER_MSG_RESTART_TIME", "dc/dc9/a00389.html#a08e6f7cfaf7929274a1908b0e95c798fae8f145f08fb30710c968e3a9951d8b68", null ],

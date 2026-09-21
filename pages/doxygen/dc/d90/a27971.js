@@ -1,12 +1,7 @@
 var a27971 =
 [
-    [ "CheckProc", "dc/d90/a27971.html#abb43619da8154c1c9ebc9d164a2f6dc6", null ],
-    [ "HandleApply", "dc/d90/a27971.html#aaa07858f0604965fad5c1189125a822b", null ],
-    [ "HandleProc", "dc/d90/a27971.html#a9fd416a5f8f8a405f40c41b9ef8b734e", null ],
-    [ "HandleRemove", "dc/d90/a27971.html#a3da984d172878110b77549b51409d7e0", null ],
-    [ "Load", "dc/d90/a27971.html#a644aaf343b41f049f34ff7387c613bf1", null ],
-    [ "PrepareAuraScript", "dc/d90/a27971.html#aea23ff608c74017d98edcc146d3ba35a", null ],
-    [ "Register", "dc/d90/a27971.html#a624d09c6f1a177912a1c7cab30d89c7b", null ],
-    [ "Validate", "dc/d90/a27971.html#a34f1b7782dbf2dcc18eb803497104a13", null ],
-    [ "_procTargetGUID", "dc/d90/a27971.html#a88833abe90e8753336b7dc178b98f703", null ]
+    [ "HandleProc", "dc/d90/a27971.html#a5046d3b14fcf4260da937032c043fe42", null ],
+    [ "PrepareAuraScript", "dc/d90/a27971.html#abcc31343fd53057e8116b47dd56033c1", null ],
+    [ "Register", "dc/d90/a27971.html#a9a04291ffb75010ccaa46801d06e2080", null ],
+    [ "Validate", "dc/d90/a27971.html#a13ecea64673f78b4b384a411a7aa8ca7", null ]
 ];

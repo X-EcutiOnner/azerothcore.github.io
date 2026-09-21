@@ -1,14 +1,18 @@
 var a13475 =
 [
-    [ "boss_selin_fireheart", "dc/d99/a13475.html#ae3270a227550391fd752d3f241e5ea46", null ],
-    [ "CanAIAttack", "dc/d99/a13475.html#a36f409a006a09812452052d554d5e810", null ],
-    [ "JustDied", "dc/d99/a13475.html#a1330c499c04aee849bcbb3ebfe30eb1e", null ],
-    [ "JustEngagedWith", "dc/d99/a13475.html#ad414ec34127bffbae1b6b5f9a794f28c", null ],
-    [ "KilledUnit", "dc/d99/a13475.html#a0fc74ba75a482a67d19f4323df1f5e6c", null ],
-    [ "MovementInform", "dc/d99/a13475.html#a8072412acc5f52fdeea3b4f740021a91", null ],
-    [ "OnPowerUpdate", "dc/d99/a13475.html#a71677fbd88ab14b6fb40e3bc9897c982", null ],
-    [ "Reset", "dc/d99/a13475.html#a6d6cab76647794f971c9a6837d8fbf8c", null ],
-    [ "SelectNearestCrystal", "dc/d99/a13475.html#afe01bdf64e5f84c7aa5ee0f164ac29c0", null ],
-    [ "SpawnCrystals", "dc/d99/a13475.html#a5c874662b9bf518782b2dc824f1eb03d", null ],
-    [ "SummonedCreatureDies", "dc/d99/a13475.html#a396341d39bead723a7c6f716c08aa447", null ]
+    [ "npc_barnesAI", "dc/d99/a13475.html#acf165009e5b2164d8244e709043eba09", null ],
+    [ "JustEngagedWith", "dc/d99/a13475.html#a1f24ea5604563c9a16c5a2a91ae078f1", null ],
+    [ "PrepareEncounter", "dc/d99/a13475.html#acdefdf68be1d870f76cbd0e329e3c890", null ],
+    [ "Reset", "dc/d99/a13475.html#a67ee1ef5c6012e499a9d9d7b77938fbe", null ],
+    [ "StartEvent", "dc/d99/a13475.html#ab5ed76e189150b2bb8a57095289246fe", null ],
+    [ "Talk", "dc/d99/a13475.html#a8a5c4a97e9093220a5d8642fcf6ceece", null ],
+    [ "UpdateAI", "dc/d99/a13475.html#a19c6ac3829ae4c38263eda116d56df88", null ],
+    [ "WaypointReached", "dc/d99/a13475.html#acae5cbc4bcbe91b6810d649385a889a9", null ],
+    [ "WaypointReached", "dc/d99/a13475.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "instance", "dc/d99/a13475.html#a9094deb17c0c77c968bbfb4f9f05e521", null ],
+    [ "m_uiEventId", "dc/d99/a13475.html#a47ac00c081635aeba9ef02a7f1bbd645", null ],
+    [ "m_uiSpotlightGUID", "dc/d99/a13475.html#aceae6d1588aec9035fb80678af32e96c", null ],
+    [ "PerformanceReady", "dc/d99/a13475.html#a27a8ceb27724f074de840d24dcf0e284", null ],
+    [ "TalkCount", "dc/d99/a13475.html#a555a152b2f4981dc824a6fb0f66b5702", null ],
+    [ "TalkTimer", "dc/d99/a13475.html#afa7fd12da57b887f1254e24d444f43d1", null ]
 ];

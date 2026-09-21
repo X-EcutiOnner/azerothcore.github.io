@@ -1,13 +1,11 @@
 var a09183 =
 [
-    [ "MMapTargetData", "d2/d61/a09183.html#a33cc430ea3c4b5dd4012a16914dc8aeb", null ],
-    [ "MMapTargetData", "d2/d61/a09183.html#a2b5741029d07e216c6632e250e934e0a", null ],
-    [ "MMapTargetData", "d2/d61/a09183.html#a5edafa643af641922f35fe25b30540c9", null ],
-    [ "MMapTargetData", "d2/d61/a09183.html#a3547f93af46826a051f1164ac1fc9ccc", null ],
-    [ "operator=", "d2/d61/a09183.html#a130fe2b359f583acab99c51eb9d0b1ad", null ],
-    [ "operator=", "d2/d61/a09183.html#a8f3a424dd9fabdfff4522487334e931e", null ],
-    [ "PosChanged", "d2/d61/a09183.html#a23c52d1c7b528867bfe1a43e042eea3c", null ],
-    [ "_endTime", "d2/d61/a09183.html#a5506c303d668bbead180fe2a8c2ed48e", null ],
-    [ "_posOwner", "d2/d61/a09183.html#aeaf1e739388ab834e8c845fa366bbfd3", null ],
-    [ "_posTarget", "d2/d61/a09183.html#a7f089d873690e8ea549f6345b6598fc4", null ]
+    [ "DispelInfo", "d2/d61/a09183.html#ab6e88e6fc168d22a8b31754a9b1bf2e5", null ],
+    [ "GetDispeller", "d2/d61/a09183.html#a1c6f02de66ffa847c09d19922b02bc20", null ],
+    [ "GetDispellerSpellId", "d2/d61/a09183.html#a0d09f205ff9374fddc694a66ccf0c31d", null ],
+    [ "GetRemovedCharges", "d2/d61/a09183.html#a9c0bd34ebe7d0a0839b7bdee31ef3f3d", null ],
+    [ "SetRemovedCharges", "d2/d61/a09183.html#a3c249e2b70b9f4d8bb3bd9fed07a1bd7", null ],
+    [ "_chargesRemoved", "d2/d61/a09183.html#a5b6105f37470acb57bbda3e14ee664be", null ],
+    [ "_dispellerSpell", "d2/d61/a09183.html#a484e6d516c5de30413e97f2c4abb5515", null ],
+    [ "_dispellerUnit", "d2/d61/a09183.html#ab14d6e0df8bbb89ef0d3550724209040", null ]
 ];

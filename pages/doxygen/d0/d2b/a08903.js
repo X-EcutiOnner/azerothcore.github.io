@@ -1,9 +1,11 @@
 var a08903 =
 [
-    [ "PetInfo", "d1/db9/a08907.html", "d1/db9/a08907" ],
-    [ "GetUnslottedHunterPet", "d0/d2b/a08903.html#a4e0e22a135703c989976694a32912cbd", null ],
-    [ "CurrentPet", "d0/d2b/a08903.html#a7a9f76452985abc65560773ac413208f", null ],
-    [ "MaxStabledPets", "d0/d2b/a08903.html#a2a30270bbd396b7fa4e035429ff8d04e", null ],
-    [ "StabledPets", "d0/d2b/a08903.html#a6bd064e692fff316581d08680b163026", null ],
-    [ "UnslottedPets", "d0/d2b/a08903.html#a8e6f6e36722dd883e6df962a1e950346", null ]
+    [ "ObjectGuidGeneratorBase", "d0/d2b/a08903.html#a8af6741cc884915ee86b489fc970fed1", null ],
+    [ "~ObjectGuidGeneratorBase", "d0/d2b/a08903.html#aaa4430614e899fb1186f52875cf8d2ea", null ],
+    [ "Generate", "d0/d2b/a08903.html#ac655829fc5af48625c04bab57597fe66", null ],
+    [ "GetClusterGuid", "d0/d2b/a08903.html#a7617177be7e333129fe0b6ed94019f6e", null ],
+    [ "GetNextAfterMaxUsed", "d0/d2b/a08903.html#abf1f20b97af8071459bd850e7106a442", null ],
+    [ "HandleCounterOverflow", "d0/d2b/a08903.html#ada7a44ac47b112491c575c38465740fc", null ],
+    [ "Set", "d0/d2b/a08903.html#a18b016edddec211c9cc4b0ff8682cb30", null ],
+    [ "_nextGuid", "d0/d2b/a08903.html#a4a14102e019aa10f41b050054cacca22", null ]
 ];

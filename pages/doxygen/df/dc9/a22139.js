@@ -1,6 +1,6 @@
 var a22139 =
 [
-    [ "npc_lord_areteAI", "df/d9f/a22143.html", "df/d9f/a22143" ],
-    [ "npc_lord_arete", "df/dc9/a22139.html#a929e3f3346bf4dbaee127463eaf4ffcc", null ],
-    [ "GetAI", "df/dc9/a22139.html#a212d003e9acb5f141197b5c4d10163a4", null ]
+    [ "HandleScriptEffect", "df/dc9/a22139.html#a0d6a2eda99d95b1ee3403d8c63415800", null ],
+    [ "PrepareSpellScript", "df/dc9/a22139.html#a68920ab07d955763e8a627e6cb35638c", null ],
+    [ "Register", "df/dc9/a22139.html#a918cf6968f6eec5a4025324bd7f78747", null ]
 ];

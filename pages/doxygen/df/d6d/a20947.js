@@ -1,6 +1,11 @@
 var a20947 =
 [
-    [ "HandleScript", "df/d6d/a20947.html#aade3cab1f80d1762bfad48407f4b91cc", null ],
-    [ "PrepareSpellScript", "df/d6d/a20947.html#ab20e548d7c0a837ee4cb7198c09e53ee", null ],
-    [ "Register", "df/d6d/a20947.html#a48a0a37b8e6f799ee9035bb766fd6db2", null ]
+    [ "boss_thorim_arena_npcs", "df/d6d/a20947.html#a849567e412254aa8d0d7da33b6b1522f", null ],
+    [ "CanAIAttack", "df/d6d/a20947.html#aa4f90aadf8a9705fea03433195d41ad0", null ],
+    [ "JustEngagedWith", "df/d6d/a20947.html#a2f23cddcf5a0db42ba24730dfbe54976", null ],
+    [ "Reset", "df/d6d/a20947.html#a7b118ec6fa25c0f452419d1f5b4a698f", null ],
+    [ "SelectT", "df/d6d/a20947.html#a3fa38189c886a486aabb39a372834938", null ],
+    [ "UpdateAI", "df/d6d/a20947.html#a6a8489763ca223c749aa71c2da05b3cf", null ],
+    [ "_isCaster", "df/d6d/a20947.html#abfd184437df3983659a9ae21a13638fb", null ],
+    [ "events", "df/d6d/a20947.html#aad99dd6ca7d3595222ce42b5b859e462", null ]
 ];

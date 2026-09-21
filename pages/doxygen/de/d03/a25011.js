@@ -1,7 +1,6 @@
 var a25011 =
 [
-    [ "HandlePeriodic", "de/d03/a25011.html#abc823ccb417c7ee54b275fd765c2e9a5", null ],
-    [ "PrepareAuraScript", "de/d03/a25011.html#a51d8701f84737d91cf4367967e2c9439", null ],
-    [ "Register", "de/d03/a25011.html#a57d210027c9fa2a4a7a90c4b1fd7589b", null ],
-    [ "Validate", "de/d03/a25011.html#a507e7e61eef30115812dc5ab5ad33fea", null ]
+    [ "HandleKnockBack", "de/d03/a25011.html#ae50d143953074b83183482770046e131", null ],
+    [ "PrepareSpellScript", "de/d03/a25011.html#a73666b297ef8bbfd490fee6075b06b3a", null ],
+    [ "Register", "de/d03/a25011.html#a035df6b2e29aa0d2b5558e1cfef96ead", null ]
 ];

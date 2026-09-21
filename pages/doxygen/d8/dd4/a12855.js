@@ -1,7 +1,8 @@
 var a12855 =
 [
-    [ "boss_urok_doomhowl", "d8/dd4/a12855.html#af1ee215f3d8d6471587ef184bdb0d47c", null ],
-    [ "InitializeAI", "d8/dd4/a12855.html#acb14f233eff038e0cc2ef0b44cac5357", null ],
-    [ "JustEngagedWith", "d8/dd4/a12855.html#acf6c649e69b5e7104aa2ffca01fef6dc", null ],
-    [ "UpdateAI", "d8/dd4/a12855.html#aff302dd58a2f0ef8d801b0b6813d3233", null ]
+    [ "boss_drakkisath", "d8/dd4/a12855.html#a77fdb667d0dc262dcacc5e988cf5fc8e", null ],
+    [ "JustEngagedWith", "d8/dd4/a12855.html#a502ca053bb96215c8386ee694a963cfa", null ],
+    [ "UpdateAI", "d8/dd4/a12855.html#a90bf913d6d94e5fc6d982049dd96e3b1", null ],
+    [ "_conflagrateTarget", "d8/dd4/a12855.html#aec0bd29626d8b59e33bfba370788ac40", null ],
+    [ "_conflagrateThreat", "d8/dd4/a12855.html#ac1cb21a95bbfcfbffc5a3046b233c183", null ]
 ];

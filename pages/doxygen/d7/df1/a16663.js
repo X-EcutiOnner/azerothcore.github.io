@@ -1,6 +1,6 @@
 var a16663 =
 [
-    [ "PrepareSpellScript", "d7/df1/a16663.html#a743f910c3854e2c4e726e97c55fa7038", null ],
-    [ "Register", "d7/df1/a16663.html#a3b9b2ffa90f58a5da93fd369e11c6216", null ],
-    [ "RemoveNotBetween", "d7/df1/a16663.html#aba462e5b8e9336a508d19606f98750b5", null ]
+    [ "boss_twilight_halionAI", "dd/dff/a16667.html", "dd/dff/a16667" ],
+    [ "boss_twilight_halion", "d7/df1/a16663.html#a23ea0a61acb2cf3fd83aece3ac7d218e", null ],
+    [ "GetAI", "d7/df1/a16663.html#a56842d74b16cbd5636649cbc643c50d8", null ]
 ];

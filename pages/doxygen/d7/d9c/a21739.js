@@ -1,6 +1,7 @@
 var a21739 =
 [
-    [ "npc_archmage_landalockAI", "d9/da3/a21743.html", "d9/da3/a21743" ],
-    [ "npc_archmage_landalock", "d7/d9c/a21739.html#ac7379ff07740123312af66ead64df4c6", null ],
-    [ "GetAI", "d7/d9c/a21739.html#a92cfa8c2660413681297bfe12815c938", null ]
+    [ "npc_valiance_keep_cannoneerAI", "d7/d9c/a21739.html#a0769e975c5c7ff1cfbfa6089e3e55e3f", null ],
+    [ "Reset", "d7/d9c/a21739.html#a65718076e65b68cae0a54ff4112fdb4b", null ],
+    [ "UpdateAI", "d7/d9c/a21739.html#a75f16f2b028ca341db6e08536be06bfa", null ],
+    [ "uiTimer", "d7/d9c/a21739.html#a0cf5f0413b1cded835252a38e272f835", null ]
 ];

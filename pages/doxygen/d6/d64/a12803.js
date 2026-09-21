@@ -1,14 +1,14 @@
 var a12803 =
 [
-    [ "boss_mor_grayhoof", "d6/d64/a12803.html#aef1001233a51ad3bb9963c540d39d79b", null ],
-    [ "CastRandomSpell", "d6/d64/a12803.html#a00756d64d24088ebf408153fcb59ff13", null ],
-    [ "DamageTaken", "d6/d64/a12803.html#a164a911eb9a86964a61866c05d44512f", null ],
-    [ "JustDied", "d6/d64/a12803.html#aa98fbfc5cc4ee94e0323d8586dae1e1c", null ],
-    [ "JustEngagedWith", "d6/d64/a12803.html#a043f6ee099efd0d49982b2966604e65a", null ],
-    [ "Reset", "d6/d64/a12803.html#af313bd8509a76cd6b6fbc197f15afbff", null ],
-    [ "UpdateAI", "d6/d64/a12803.html#aaa6a1a9b6e4259aea46d2f25bca3b809", null ],
-    [ "_phase", "d6/d64/a12803.html#a40bf6a66aefe7a605d94526b5a586ba6", null ],
-    [ "_scheduler", "d6/d64/a12803.html#ad2a897281d308475957e2636c6536fdd", null ],
-    [ "_sleepTargetGUID", "d6/d64/a12803.html#a8baa606696dc8acf532e8badfc6c624b", null ],
-    [ "_sleepTargetThreat", "d6/d64/a12803.html#ac62d7d30b12d0c2da9553b9689091e0e", null ]
+    [ "boss_general_angerforge", "d6/d64/a12803.html#a0f65a3a8acdca0361f468538b4c8bb5e", null ],
+    [ "JustEngagedWith", "d6/d64/a12803.html#a5b2e7aead30ad3c07786c616c0b2f44e", null ],
+    [ "Reset", "d6/d64/a12803.html#a8f05f134eb43a6812bc2d41734d2429e", null ],
+    [ "SummonAdds", "d6/d64/a12803.html#a723891cc60b4d84b29d395e4ddffff57", null ],
+    [ "SummonMedics", "d6/d64/a12803.html#ac21b4424cdf3e5e336970e1f8d5aea98", null ],
+    [ "UpdateAI", "d6/d64/a12803.html#ae37de4567bf4a03779a87e9d650ac1ea", null ],
+    [ "_addsTimer", "d6/d64/a12803.html#a1ddffcd960d1c06ade7b6de70faeb46d", null ],
+    [ "_cleaveTimer", "d6/d64/a12803.html#a47958223deb7aa97aaf331bdffd9dd2d", null ],
+    [ "_hamStringTimer", "d6/d64/a12803.html#adaa360262079ea390077cea70e401da5", null ],
+    [ "_medics", "d6/d64/a12803.html#ac1039c144c16e70818a199d91cace370", null ],
+    [ "_mightyBlowTimer", "d6/d64/a12803.html#a7bd4ccf9648804c972dec5d7a35eaaa4", null ]
 ];

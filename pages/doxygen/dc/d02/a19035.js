@@ -1,6 +1,8 @@
 var a19035 =
 [
-    [ "npc_frost_freeze_trapAI", "dd/d78/a19039.html", "dd/d78/a19039" ],
-    [ "npc_frost_freeze_trap", "dc/d02/a19035.html#ac58ed2598fd4250f220208a91343f9b8", null ],
-    [ "GetAI", "dc/d02/a19035.html#a88ed9aeb0403b3b625c858cd1e44a99f", null ]
+    [ "npc_blistering_zombieAI", "dc/d02/a19035.html#acf278cd2249ac45a4b043427ba36b3ce", null ],
+    [ "DamageTaken", "dc/d02/a19035.html#adf031992078214f90d859df2b54aac91", null ],
+    [ "UpdateAI", "dc/d02/a19035.html#ae081898b8dcaf45cd3069e79021de452", null ],
+    [ "casted", "dc/d02/a19035.html#a0f70f5d58ef0bb20f64b0aec4df04905", null ],
+    [ "timer", "dc/d02/a19035.html#a8b865c2a87b1fc020d8250767febab0a", null ]
 ];

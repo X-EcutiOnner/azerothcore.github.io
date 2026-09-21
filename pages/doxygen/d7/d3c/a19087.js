@@ -1,6 +1,7 @@
 var a19087 =
 [
-    [ "npc_captain_rupertAI", "d5/d74/a19091.html", "d5/d74/a19091" ],
-    [ "npc_captain_rupert", "d7/d3c/a19087.html#a7a4535a6b784b460c79722e9a50c3ff6", null ],
-    [ "GetAI", "d7/d3c/a19087.html#a20afc31fc1a8bb09692ab0cc47af3c1b", null ]
+    [ "FrostwingVrykulSearcher", "d7/d3c/a19087.html#a10aa54184b42a0538dc4f325204399e9", null ],
+    [ "operator()", "d7/d3c/a19087.html#afbf32ce600cee12930fefcf9b5e87f16", null ],
+    [ "_range", "d7/d3c/a19087.html#a04b2913aae7fbf6547a960d0876d4d02", null ],
+    [ "_source", "d7/d3c/a19087.html#af5d3c93f41698e71c867336d0453d40a", null ]
 ];

@@ -1,9 +1,9 @@
 var a07819 =
 [
-    [ "entry", "df/d91/a07819.html#a4c6980a035279ca45e88a2ddc0beb0b5", null ],
-    [ "o", "df/d91/a07819.html#a785703f50dcafda5888fb76af82a09da", null ],
-    [ "type", "df/d91/a07819.html#aa21624a51b1fbfc474d0c64f4996cb9b", null ],
-    [ "x", "df/d91/a07819.html#a55bd18cb9ea27748a07dd91f6783de23", null ],
-    [ "y", "df/d91/a07819.html#a908fbf198d908963e77630b42deea147", null ],
-    [ "z", "df/d91/a07819.html#a4a49f5cbb58764ea9c137fc010e898c6", null ]
+    [ "CapturePointInfo", "df/d91/a07819.html#a47ba3bbadd15909726e87dc5adc67686", null ],
+    [ "_captured", "df/d91/a07819.html#aac26833d9951853183095b3985254e03", null ],
+    [ "_iconCapture", "df/d91/a07819.html#a58adc22a7246dd7362efcf9d9a1891ad", null ],
+    [ "_iconNone", "df/d91/a07819.html#a43228afe59b8fa004d2c740dd6262f8e", null ],
+    [ "_ownerTeamId", "df/d91/a07819.html#aad378d1b07f1ef8c45b0bb1bcce7a028", null ],
+    [ "_state", "df/d91/a07819.html#a98cb154218423e295b8007c62222831c", null ]
 ];

@@ -1,9 +1,6 @@
 var a27379 =
 [
-    [ "CheckCast", "d9/df6/a27379.html#a9af89d5ffaa73747acb55e7dee681d03", null ],
-    [ "FilterTargets", "d9/df6/a27379.html#aa33f9d87325271bb264ba190ebb5cfa0", null ],
-    [ "HandleDummy", "d9/df6/a27379.html#a3c076ab3ccf1f0be81a7ab067327a589", null ],
-    [ "PrepareSpellScript", "d9/df6/a27379.html#a9c992e732b525e29f684947398d20efb", null ],
-    [ "Register", "d9/df6/a27379.html#abbea3ee39cbdf91518031c088e2e2ed9", null ],
-    [ "Validate", "d9/df6/a27379.html#abca1e5aa46e7753588c8120090775195", null ]
+    [ "PrepareSpellScript", "d9/df6/a27379.html#ac0322966abdb57fbe19c3e2117caa56b", null ],
+    [ "Register", "d9/df6/a27379.html#a7ddfa827654b6bb0a11aaddf41dc62f9", null ],
+    [ "SetDest", "d9/df6/a27379.html#ad1012e0f8ae1cf2ff18d886e10d6fca6", null ]
 ];

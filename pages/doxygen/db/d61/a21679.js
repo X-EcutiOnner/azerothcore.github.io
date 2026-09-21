@@ -1,6 +1,6 @@
 var a21679 =
 [
-    [ "PrepareSpellScript", "db/d61/a21679.html#a072a5228690b929af3b65d771bf5f485", null ],
-    [ "Register", "db/d61/a21679.html#a87235eb9494edd94221f0380e815aa6b", null ],
-    [ "SetDest", "db/d61/a21679.html#abe2c48bf2d276871f3e4146d1358ea4c", null ]
+    [ "npc_sinkhole_kill_creditAI", "d2/d69/a21683.html", "d2/d69/a21683" ],
+    [ "npc_sinkhole_kill_credit", "db/d61/a21679.html#a627d01aaaa3408986f2b4d171624e680", null ],
+    [ "GetAI", "db/d61/a21679.html#a4d734432f132bea2c4525d049fbcfa67", null ]
 ];

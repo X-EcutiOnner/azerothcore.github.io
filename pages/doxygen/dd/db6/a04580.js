@@ -1,12 +1,20 @@
 var a04580 =
 [
-    [ "anonymous_namespace{OmenOfClarityGlyphLockTest.cpp}::TestOocPlayerScript", "d8/d69/a29997.html", "d8/d69/a29997" ],
-    [ "anonymous_namespace{OmenOfClarityGlyphLockTest.cpp}::OmenOfClarityGlyphLockTest", "d6/da4/a30001.html", "d6/da4/a30001" ],
-    [ "TEST_F", "dd/db6/a04580.html#a3c2cf023118b4939342706355b5e3e23", null ],
-    [ "TEST_F", "dd/db6/a04580.html#aad251365da79c581dfd771c07e08a849", null ],
-    [ "TEST_F", "dd/db6/a04580.html#a4722da81a67d7591147f462b57ebd1e5", null ],
-    [ "TEST_F", "dd/db6/a04580.html#a4dbab8c4aad98a9d7a180aa0900d811e", null ],
-    [ "TEST_F", "dd/db6/a04580.html#aa1f3de6a8cef69842c080eca3d39fd62", null ],
-    [ "OOC_LOCKED_SLOT_BIT", "dd/db6/a04580.html#a8c8ee271438dfdfb1361e57c07c7b890", null ],
-    [ "s_testOocEnabled", "dd/db6/a04580.html#a0fd5f656624a7c48c5e042c0f1572004", null ]
+    [ "FakeAura", "db/dbe/a29999.html", "db/dbe/a29999" ],
+    [ "AuraMap", "dd/db6/a04580.html#a73555934eb70bd47712b17961d4b9dcb", null ],
+    [ "TEST", "dd/db6/a04580.html#a6f3a168c62225238ed8035c9b4f0f6fe", null ],
+    [ "TEST", "dd/db6/a04580.html#aceb73ef67334ec5f2c9cd1a8aa7bdda7", null ],
+    [ "TEST", "dd/db6/a04580.html#aff1194c7b9230434ca458f33bab9d293", null ],
+    [ "TEST", "dd/db6/a04580.html#ae700483a709735b15a0745f2dd8b0902", null ],
+    [ "TEST", "dd/db6/a04580.html#a63273c645d8dafd52aa8c6ef62136b56", null ],
+    [ "TEST", "dd/db6/a04580.html#aa2c0e9a9fa7b5b1f66bb71bc1b231130", null ],
+    [ "TEST", "dd/db6/a04580.html#a7c3253e83290d47148f3cd56ff0cd49a", null ],
+    [ "TEST", "dd/db6/a04580.html#a2ab2dcd69266567b9687bf967a256c4f", null ],
+    [ "TEST", "dd/db6/a04580.html#aa08c3c66e68eca77c0b90a7bc865ef4e", null ],
+    [ "TEST", "dd/db6/a04580.html#ab990e3e55613e3163cb61f4c84dac583", null ],
+    [ "TEST", "dd/db6/a04580.html#a462c439ae586e17a0f6faa911bdf05cc", null ],
+    [ "TEST", "dd/db6/a04580.html#a8e42d098fd67bc0c558126a0d1334c66", null ],
+    [ "TEST", "dd/db6/a04580.html#a18d7003dc969cf032e00f49b012fa303", null ],
+    [ "TEST", "dd/db6/a04580.html#a545c762236024232cb91afe6958adf38", null ],
+    [ "TEST", "dd/db6/a04580.html#a511d586a9f8ae8e0ba80b7a714c55164", null ]
 ];

@@ -1,5 +1,12 @@
 var a02078 =
 [
-    [ "GetAISpellInfo", "d6/d5b/a02078.html#a1ed41ad074263f6c0c63f38b7f51414b", null ],
-    [ "IsValidCombatTarget", "d6/d5b/a02078.html#a981f03ba3b8c59eb1fa9d22df158ba19", null ]
+    [ "Escort_Waypoint", "d7/df0/a06675.html", "d7/df0/a06675" ],
+    [ "npc_escortAI", "d7/ddc/a06679.html", "d7/ddc/a06679" ],
+    [ "DEFAULT_MAX_PLAYER_DISTANCE", "d6/d5b/a02078.html#ad23dc39ce2da634e67360fab90e3b9e2", null ],
+    [ "eEscortState", "d6/d5b/a02078.html#af40ca4990501264cb0359ab6d93fb08a", [
+      [ "STATE_ESCORT_NONE", "d6/d5b/a02078.html#af40ca4990501264cb0359ab6d93fb08aa7cc35d82589d473e8265c67eccc9ecd5", null ],
+      [ "STATE_ESCORT_ESCORTING", "d6/d5b/a02078.html#af40ca4990501264cb0359ab6d93fb08aa276eb485ebaeb34de738a76731763b92", null ],
+      [ "STATE_ESCORT_RETURNING", "d6/d5b/a02078.html#af40ca4990501264cb0359ab6d93fb08aaae71d59813ca4d9bb6e84769e1eeec48", null ],
+      [ "STATE_ESCORT_PAUSED", "d6/d5b/a02078.html#af40ca4990501264cb0359ab6d93fb08aa243ae0744c8bd5cc0191aaae1e3cb9f6", null ]
+    ] ]
 ];

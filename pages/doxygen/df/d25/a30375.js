@@ -1,11 +1,12 @@
 var a30375 =
 [
-    [ "material", "df/d25/a30375.html#a7079e8817a9684602084eb224f2540fc", null ],
-    [ "pos_x", "df/d25/a30375.html#ac4d971cc46506be14716124afbb5ad9c", null ],
-    [ "pos_y", "df/d25/a30375.html#a6cd85f2a674d732e88371ffce5e46077", null ],
-    [ "pos_z", "df/d25/a30375.html#a183ec8ec2d8d30726494c6b3d3b8606a", null ],
-    [ "xtiles", "df/d25/a30375.html#aca34dfa64624cfe04c314c13bbed0062", null ],
-    [ "xverts", "df/d25/a30375.html#aa5ad7ff660f7f0b5ddfd2d186496d928", null ],
-    [ "ytiles", "df/d25/a30375.html#a9901a7e9828ac840bc290b0768831d66", null ],
-    [ "yverts", "df/d25/a30375.html#abf24042b85692cd0df05d65d734dd99e", null ]
+    [ "cellSizeHorizontal", "df/d25/a30375.html#a5356c03dab90621b69de7a79ed4ab195", null ],
+    [ "cellSizeVertical", "df/d25/a30375.html#a47b5a920afa39ae27a80241d58f152a3", null ],
+    [ "tileOverrides", "df/d25/a30375.html#a129437291e75a919e4158bf1df0f7f0a", null ],
+    [ "vertexPerMapEdge", "df/d25/a30375.html#a9d32da8787f54a7dadb86458319e0238", null ],
+    [ "vertexPerTileEdge", "df/d25/a30375.html#a8dd6b0146358fcbbb6b7c56a96c467c9", null ],
+    [ "walkableClimb", "df/d25/a30375.html#a2bd854b374d67d53b03a7bacf0785726", null ],
+    [ "walkableHeight", "df/d25/a30375.html#a1de27edad5c45f8033ce74352c563f52", null ],
+    [ "walkableRadius", "df/d25/a30375.html#a232dd51ab056c5e836fe1bb84eeee90e", null ],
+    [ "walkableSlopeAngle", "df/d25/a30375.html#ad66e0a04ba9087304cf3909bb85b622a", null ]
 ];

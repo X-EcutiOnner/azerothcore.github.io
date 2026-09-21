@@ -1,6 +1,6 @@
 var a02309 =
 [
-    [ "event_commandscript", "d2/db7/a12517.html", "d2/db7/a12517" ],
-    [ "EventEntry", "dc/dd6/a02309.html#accd9dac141ffd4618bb7d3f69e8eb716", null ],
-    [ "AddSC_event_commandscript", "dc/dd6/a02309.html#a4f3834f706dcb17ca67ce6513f6aecad", null ]
+    [ "character_commandscript", "d4/dca/a12499.html", "d4/dca/a12499" ],
+    [ "character_commandscript::DeletedInfo", "df/daf/a12503.html", "df/daf/a12503" ],
+    [ "AddSC_character_commandscript", "dc/dd6/a02309.html#a97f9cac12c34068d5e63b2ed28ddf9e2", null ]
 ];

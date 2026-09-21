@@ -1,8 +1,6 @@
 var a14363 =
 [
-    [ "FilterTargets", "d0/dfc/a14363.html#a43e45471ad3b8a0583aeb413d48a0f01", null ],
-    [ "OnHit", "d0/dfc/a14363.html#ac25886536c353f09838188362fb8ae84", null ],
-    [ "PrepareSpellScript", "d0/dfc/a14363.html#aab0e63163b8d84f20bbe0bcdc60c9a85", null ],
-    [ "Register", "d0/dfc/a14363.html#afa419365236c09914f758846978e2cbb", null ],
-    [ "Validate", "d0/dfc/a14363.html#ae62334ed5f46641def4a38ee178cd9d0", null ]
+    [ "npc_the_scourge_cauldronAI", "de/d3d/a14367.html", "de/d3d/a14367" ],
+    [ "npc_the_scourge_cauldron", "d0/dfc/a14363.html#a7ff5315293c4917dec3b0fe0aade2016", null ],
+    [ "GetAI", "d0/dfc/a14363.html#ae4e35f1cac0c0f35333ba6113d3c1ad0", null ]
 ];

@@ -1,7 +1,5 @@
 var a30127 =
 [
-    [ "asyncId", "d0/d15/a30127.html#afd18849875b4562e4a532903676ce25d", null ],
-    [ "flags", "d0/d15/a30127.html#a9b9c3cec4acbd87911aa047dd52ae443", null ],
-    [ "offsMCNK", "d0/d15/a30127.html#a063c5dc62c44038e882340221bf8228a", null ],
-    [ "size", "d0/d15/a30127.html#a47a5eeb595d53de009651ae02d2b416d", null ]
+    [ "SetUp", "d0/d15/a30127.html#aa4192b0ae6f716449e20ead2b5a5a387", null ],
+    [ "_allEntries", "d0/d15/a30127.html#a7c06feea09d0606a50198a307e43b989", null ]
 ];

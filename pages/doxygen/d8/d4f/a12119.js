@@ -1,6 +1,8 @@
 var a12119 =
 [
-    [ "EffectSplitHandler", "d8/d4f/a12119.html#a1e31c0f06961aba66f6737c4b4aca7f6", null ],
-    [ "Call", "d8/d4f/a12119.html#ae0ef79af01cce82ed3cbe208d98b325a", null ],
-    [ "pEffectHandlerScript", "d8/d4f/a12119.html#a181c0f987789f3725e7ba7e023cfc4e7", null ]
+    [ "EffectHandler", "d8/d4f/a12119.html#aebdff9758b3ec51a75220be43b0d7b44", null ],
+    [ "Call", "d8/d4f/a12119.html#a7696d64688fa8b10cd58220fdd5fa5ba", null ],
+    [ "CheckEffect", "d8/d4f/a12119.html#a8eeff14be65159b6f9a88b04abe14e8b", null ],
+    [ "ToString", "d8/d4f/a12119.html#a5b583dc87f0146f06c9a38a5db92f4fb", null ],
+    [ "pEffectHandlerScript", "d8/d4f/a12119.html#a88fbf00b2e35c462423ddeff55ac3dee", null ]
 ];

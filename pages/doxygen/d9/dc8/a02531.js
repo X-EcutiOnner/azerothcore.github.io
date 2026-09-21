@@ -1,5 +1,5 @@
 var a02531 =
 [
-    [ "OutdoorPvP_eastern_plaguelands", "d2/dec/a22641.html", "d2/dec/a22641" ],
-    [ "AddSC_outdoorpvp_ep", "d9/dc8/a02531.html#ac97adfc1efbcf82840cffa915a55fecb", null ]
+    [ "OutdoorPvP_silithus", "d3/de2/a22727.html", "d3/de2/a22727" ],
+    [ "AddSC_outdoorpvp_si", "d9/dc8/a02531.html#a6dfd2849f525333510ae4febbbc3ae1f", null ]
 ];

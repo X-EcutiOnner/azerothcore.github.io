@@ -1,7 +1,7 @@
 var a25811 =
 [
-    [ "HandlePeriodic", "dc/da4/a25811.html#a990b88f97dbbcd68d0df8989414d08bc", null ],
-    [ "PrepareAuraScript", "dc/da4/a25811.html#a4c8214e2fc72ceacc5822bfdec6e8380", null ],
-    [ "Register", "dc/da4/a25811.html#ab2da1b1433184a0dd4c6dd93b798890c", null ],
-    [ "Validate", "dc/da4/a25811.html#a55720e74edaf5eedf074738846ba6dd8", null ]
+    [ "HandleDummy", "dc/da4/a25811.html#a84430c269e419acd94a2d0520b9ca639", null ],
+    [ "PrepareSpellScript", "dc/da4/a25811.html#a8ec4e9cea213739825126111d038d1a5", null ],
+    [ "Register", "dc/da4/a25811.html#a1abee3e5f324875aab8dd666ac417308", null ],
+    [ "Validate", "dc/da4/a25811.html#a393043b94f50d9379a987f9b49b8abde", null ]
 ];

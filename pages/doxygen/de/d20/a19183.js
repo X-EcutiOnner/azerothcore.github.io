@@ -1,7 +1,6 @@
 var a19183 =
 [
-    [ "OnApply", "de/d20/a19183.html#a5f62c11ef96edbf6f2906bd5f41109d5", null ],
-    [ "OnRemove", "de/d20/a19183.html#a697a7c76f944b5df956a9de07746b7a9", null ],
-    [ "PrepareAuraScript", "de/d20/a19183.html#a338d0fa22368d01fe7523b7cc1acea4b", null ],
-    [ "Register", "de/d20/a19183.html#ab915b3ede10526b3e7ccbe33f2568fae", null ]
+    [ "npc_impaling_spearAI", "db/dc4/a19187.html", "db/dc4/a19187" ],
+    [ "npc_impaling_spear", "de/d20/a19183.html#af546ed9684fc085ad651bf5bd93e5bf7", null ],
+    [ "GetAI", "de/d20/a19183.html#aad49164a3e7541b755c1c622b996bb9a", null ]
 ];

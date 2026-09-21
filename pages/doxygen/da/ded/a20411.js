@@ -1,8 +1,9 @@
 var a20411 =
 [
-    [ "npc_ulduar_saronite_animus", "da/ded/a20411.html#a991f2e68f4b0430c1ccdf470edb44082", null ],
-    [ "JustDied", "da/ded/a20411.html#a25c8d5d48558d3ce80cdef4545852bc6", null ],
-    [ "UpdateAI", "da/ded/a20411.html#afc7899752e25669b37ab04b50fb2d604", null ],
-    [ "_instance", "da/ded/a20411.html#a6f2bf52c82185365efe88941b7922504", null ],
-    [ "timer", "da/ded/a20411.html#acdc763ba9d1f35dafb87469e33a6b180", null ]
+    [ "Absorb", "da/ded/a20411.html#a16c2e931950102fc0ae5c88ef14587c1", null ],
+    [ "CalculateAmount", "da/ded/a20411.html#a9166627cbaa536405975444c4ef601de", null ],
+    [ "Load", "da/ded/a20411.html#abe7c08d2f26cef3603cf1b1f243f9e38", null ],
+    [ "PrepareAuraScript", "da/ded/a20411.html#aa5793741c2f8179db68a9fb1222a9085", null ],
+    [ "Register", "da/ded/a20411.html#a17fed57aed8953c7a7e401d1ac925e67", null ],
+    [ "_absorbPct", "da/ded/a20411.html#ad9e1dcfd8ce7038173ac5b71d448d80a", null ]
 ];

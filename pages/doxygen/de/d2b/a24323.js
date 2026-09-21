@@ -1,9 +1,11 @@
 var a24323 =
 [
-    [ "npc_korkron_or_wildhammer", "de/d2b/a24323.html#a3d2252865e0e540dd76aaf87ff62a83c", null ],
-    [ "IsSummonedBy", "de/d2b/a24323.html#aa63e935c2d64716f22f4e74e43e6b639", null ],
-    [ "JustDied", "de/d2b/a24323.html#a2b216f372b3681b4c96a711568c2a93b", null ],
-    [ "MovementInform", "de/d2b/a24323.html#a598dada110aff99a3c36f3037dcf8bf4", null ],
-    [ "Reset", "de/d2b/a24323.html#a67d5cf4a8418ab3f07a387f1021080df", null ],
-    [ "_playerGUID", "de/d2b/a24323.html#a5f1a79c10b5363ee24b3941c54ff10d7", null ]
+    [ "npc_invis_infernal_casterAI", "de/d2b/a24323.html#a1188ecc4752d5ab1c2f81602187282f2", null ],
+    [ "Reset", "de/d2b/a24323.html#a05a8d5fd4828d7b1edb3b29ff8a6e61c", null ],
+    [ "SetData", "de/d2b/a24323.html#aee88dc141757384f96da969fcdc20671", null ],
+    [ "SummonInfernal", "de/d2b/a24323.html#a78d53d09e5544b3fe8301da4415d297b", null ],
+    [ "UpdateAI", "de/d2b/a24323.html#a80be204b493768ceb5f5d99d1e81f1b1", null ],
+    [ "events", "de/d2b/a24323.html#aab7aca330ae36dd2de7761984dd2a0a3", null ],
+    [ "ground", "de/d2b/a24323.html#a4c943d67b25d7c9f4ac6f16d96bbbc4f", null ],
+    [ "infernalGUID", "de/d2b/a24323.html#a5619136f90c181ecf3e4389bc2fcdafc", null ]
 ];

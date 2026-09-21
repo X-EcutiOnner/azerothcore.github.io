@@ -1,8 +1,7 @@
 var a27787 =
 [
-    [ "HandleDummyTick", "db/d05/a27787.html#ad35d90e5cdd68f4c1d3172a0860274bd", null ],
-    [ "HandleRemove", "db/d05/a27787.html#a92f2bb73ec58832eaada3c7140f7868d", null ],
-    [ "PrepareAuraScript", "db/d05/a27787.html#a06e45d5f63ef1395b5949482e8393098", null ],
-    [ "Register", "db/d05/a27787.html#abf1d49720ae43d4ed2fb1c2920387ace", null ],
-    [ "Validate", "db/d05/a27787.html#a9a2da4d163a96526e14f5de76798a784", null ]
+    [ "HandleProc", "db/d05/a27787.html#aa28268bdb7e3063cff0880baefe02824", null ],
+    [ "PrepareAuraScript", "db/d05/a27787.html#a8b19c9d128d568be695f985e5ed28b2d", null ],
+    [ "Register", "db/d05/a27787.html#a5a0f0e1558c1d4c687b94fe8874512ef", null ],
+    [ "Validate", "db/d05/a27787.html#a8461f9dc90d1df9a91350d3e277fffeb", null ]
 ];

@@ -1,8 +1,8 @@
 var a09755 =
 [
-    [ "FriendlyMissingBuffInRange", "da/d7f/a09755.html#a628fe94ce054a868977ef2a981bc5d6c", null ],
-    [ "operator()", "da/d7f/a09755.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9", null ],
-    [ "i_obj", "da/d7f/a09755.html#aba43edf48b2b0184b52143707c3531f4", null ],
-    [ "i_range", "da/d7f/a09755.html#a54ba98f393a8bdf710f6bd65abee526c", null ],
-    [ "i_spell", "da/d7f/a09755.html#a7f34521e8789a1e1dabb867ed82ff438", null ]
+    [ "PlayerListSearcher", "da/d7f/a09755.html#a82520531c26a6c9645956739538cd286", null ],
+    [ "Visit", "da/d7f/a09755.html#a5cec285c685fce6ac215ac0cde740168", null ],
+    [ "Visit", "da/d7f/a09755.html#a87980d05e12069a42baea27ee0e937d3", null ],
+    [ "i_check", "da/d7f/a09755.html#ad49658237a1e6bf54852d4fc127ea660", null ],
+    [ "i_phaseMask", "da/d7f/a09755.html#ae61e586baa621b0dbd15d453d1320091", null ]
 ];

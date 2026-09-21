@@ -104,27 +104,25 @@ $(document).ready(function(){initNavTree('d7/d8c/a06311.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">rbac::RBACPermission Member List</div></div>
+  <div class="headertitle"><div class="title">TransactionCallback Member List</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>This is the complete list of members for <a class="el" href="../../d7/d8c/a06311.html">rbac::RBACPermission</a>, including all inherited members.</p>
+<p>This is the complete list of members for <a class="el" href="../../d7/d8c/a06311.html">TransactionCallback</a>, including all inherited members.</p>
 <table class="directory">
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d8c/a06311.html#ab467166c941c8dc01d3d2bd3ce7a06fc">_id</a></td><td class="entry"><a class="el" href="../../d7/d8c/a06311.html">rbac::RBACPermission</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d8c/a06311.html#ae02a379ae6f8bee804942a4ca6d98aba">_name</a></td><td class="entry"><a class="el" href="../../d7/d8c/a06311.html">rbac::RBACPermission</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d8c/a06311.html#a2c9bd034968018bb631f4d5145c16fff">_perms</a></td><td class="entry"><a class="el" href="../../d7/d8c/a06311.html">rbac::RBACPermission</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d8c/a06311.html#abadc5213769b1aa15ed3fea56087760e">AddLinkedPermission</a>(uint32 id)</td><td class="entry"><a class="el" href="../../d7/d8c/a06311.html">rbac::RBACPermission</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d8c/a06311.html#ac9626c0aae11a3189fc15d086fb0bd96">GetId</a>() const</td><td class="entry"><a class="el" href="../../d7/d8c/a06311.html">rbac::RBACPermission</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d8c/a06311.html#aabdbec412cd1a1192c8fb4089ab268aa">GetLinkedPermissions</a>() const</td><td class="entry"><a class="el" href="../../d7/d8c/a06311.html">rbac::RBACPermission</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d8c/a06311.html#a39784b6e1cb1018dd47a1f223bcf8ac3">GetName</a>() const</td><td class="entry"><a class="el" href="../../d7/d8c/a06311.html">rbac::RBACPermission</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d8c/a06311.html#ab7e942f35ee798e52b6e44b5eb35957d">RBACPermission</a>(uint32 id=0, std::string const &amp;name=&quot;&quot;)</td><td class="entry"><a class="el" href="../../d7/d8c/a06311.html">rbac::RBACPermission</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d8c/a06311.html#a31dcbc98d2a850f5924c0183c90fd58a">RemoveLinkedPermission</a>(uint32 id)</td><td class="entry"><a class="el" href="../../d7/d8c/a06311.html">rbac::RBACPermission</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d7/d8c/a06311.html#af2ec892bbca8d2cc694b36fb931fc1e8">AfterComplete</a>(std::function&lt; void(bool)&gt; callback) &amp;</td><td class="entry"><a class="el" href="../../d7/d8c/a06311.html">TransactionCallback</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d8c/a06311.html#a7937d93dbd22617a2fd3893a6fe8c23c">InvokeIfReady</a>()</td><td class="entry"><a class="el" href="../../d7/d8c/a06311.html">TransactionCallback</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d7/d8c/a06311.html#abb0dbcebb22ea716025ed6aca99f6afb">m_callback</a></td><td class="entry"><a class="el" href="../../d7/d8c/a06311.html">TransactionCallback</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d8c/a06311.html#a381e889074bc5ca48574d37fe6eea00f">m_future</a></td><td class="entry"><a class="el" href="../../d7/d8c/a06311.html">TransactionCallback</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d7/d8c/a06311.html#ab73d1741c21ea9fd86f65a647768e972">operator=</a>(TransactionCallback &amp;&amp;)=default</td><td class="entry"><a class="el" href="../../d7/d8c/a06311.html">TransactionCallback</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d8c/a06311.html#a89e9ebf06ffbad9dcf77a78f9f989450">TransactionCallback</a>(TransactionFuture &amp;&amp;future)</td><td class="entry"><a class="el" href="../../d7/d8c/a06311.html">TransactionCallback</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d7/d8c/a06311.html#adeff62976c11d9d90169e4650640118b">TransactionCallback</a>(TransactionCallback &amp;&amp;)=default</td><td class="entry"><a class="el" href="../../d7/d8c/a06311.html">TransactionCallback</a></td><td class="entry"></td></tr>
 </table></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Tue Sep 1 2026 00:10:11 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Sep 21 2026 23:34:53 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

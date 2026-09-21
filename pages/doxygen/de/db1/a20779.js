@@ -1,7 +1,8 @@
 var a20779 =
 [
-    [ "go_razorscale_harpoonAI", "de/db1/a20779.html#afff12f330538843c477f75500f731ea3", null ],
-    [ "Reset", "de/db1/a20779.html#aae5f0f7ff2b206872c02bd7da90afdc0", null ],
-    [ "UpdateAI", "de/db1/a20779.html#a906b14e1bc6b71f95aa2fcde83846f0a", null ],
-    [ "_scheduler", "de/db1/a20779.html#a6f6e325b1b1599f90173e8c8a68c7956", null ]
+    [ "HandleEffectApply", "de/db1/a20779.html#a9b4ef881ded9d7b1e4cbdf61af70cdeb", null ],
+    [ "HandleEffectPeriodic", "de/db1/a20779.html#ae3cb0f7a3da5a72eaa59350d7df13ffc", null ],
+    [ "HandleEffectRemove", "de/db1/a20779.html#a5750666947a5899d7ef46678eadb4872", null ],
+    [ "PrepareAuraScript", "de/db1/a20779.html#a9a2fae625718f854ec5d2587a01a2da7", null ],
+    [ "Register", "de/db1/a20779.html#a524c071390365b7dab59bc7a79b50f15", null ]
 ];

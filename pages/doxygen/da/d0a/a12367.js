@@ -1,19 +1,12 @@
 var a12367 =
 [
-    [ "CityAttack", "d8/d9e/a12375.html", "d8/d9e/a12375" ],
-    [ "InvasionZone", "df/da5/a12371.html", "df/da5/a12371" ],
-    [ "ScourgeInvasionData", "da/d0a/a12367.html#a40749458bbad64d1d277cd7cd9dac939", null ],
-    [ "GetData", "da/d0a/a12367.html#adca57b4cf5a065fad1a7bd184571bdc5", null ],
-    [ "Reset", "da/d0a/a12367.html#a0ae2fc830e4f85fb619c38fdcad794ae", null ],
-    [ "m_activeInvasions", "da/d0a/a12367.html#af98aea31bf9c878adf2870890911282f", null ],
-    [ "m_battlesWon", "da/d0a/a12367.html#aea7079c6f876188857219c574ca0798d", null ],
-    [ "m_broadcastTimer", "da/d0a/a12367.html#a7c251f312e332ab60fa6de6e8cf4189d", null ],
-    [ "m_cityAttacks", "da/d0a/a12367.html#a70127135568b3a439f040697f1dc525c", null ],
-    [ "m_lastAttackZone", "da/d0a/a12367.html#a38ead6b33009083055538fd4f0b7de35", null ],
-    [ "m_pendingInvasions", "da/d0a/a12367.html#af62efb05ce49a3cb764328976f8054f6", null ],
-    [ "m_pendingPallids", "da/d0a/a12367.html#a2a2f610d9c398bc82f4e39eea4fbadfc", null ],
-    [ "m_remaining", "da/d0a/a12367.html#afa0f9b63b3c2111affdf9769ee529d88", null ],
-    [ "m_siMutex", "da/d0a/a12367.html#acefb72f28d000395bc1362cd9a62b26a", null ],
-    [ "m_state", "da/d0a/a12367.html#acb26a954f14aec654513b16e5e53cad8", null ],
-    [ "m_timers", "da/d0a/a12367.html#a06375cf97a023be4f3fff94cc43405a9", null ]
+    [ "Action", "da/d0a/a12367.html#a0aba96ac9e7af155a1d9bdf120afae25", null ],
+    [ "Address", "da/d0a/a12367.html#aaae2d4fd576f3eeb40c1413d54802345", null ],
+    [ "CheckId", "da/d0a/a12367.html#a51a0cea0381f2b64e9d240ac39591172", null ],
+    [ "Comment", "da/d0a/a12367.html#a6abdb409f49751b2f6aa8df88c349ba2", null ],
+    [ "Data", "da/d0a/a12367.html#a962795028d40645fe67e4290ea64b10b", null ],
+    [ "IdStr", "da/d0a/a12367.html#a15ecbc1a6582666a14423fa157d2fb84", null ],
+    [ "Length", "da/d0a/a12367.html#abe0249d9550042e696eb74edf06aaec8", null ],
+    [ "Str", "da/d0a/a12367.html#a1fc1eba87b344d4681498aafcaa496cb", null ],
+    [ "Type", "da/d0a/a12367.html#aca31cdb700dca4801dfa514812639c70", null ]
 ];

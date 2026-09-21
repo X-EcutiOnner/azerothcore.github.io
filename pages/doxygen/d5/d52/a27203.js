@@ -1,6 +1,7 @@
 var a27203 =
 [
-    [ "HandleEffectApply", "d5/d52/a27203.html#a111ce5c9e70ed563bc7b9c2ec8e79b76", null ],
-    [ "PrepareAuraScript", "d5/d52/a27203.html#a707504eccf42af77f6e6e927d208bc8c", null ],
-    [ "Register", "d5/d52/a27203.html#a7aeaa28997bbe966274a738cf45323ed", null ]
+    [ "CheckTarget", "d5/d52/a27203.html#abaef73201d2e0bd1d6789309442019e0", null ],
+    [ "HandleScriptEffect", "d5/d52/a27203.html#a545196cd976bfabbd85ba48942012e1e", null ],
+    [ "PrepareSpellScript", "d5/d52/a27203.html#add5c1ecaa5a75af6e91a0df5d63bbc42", null ],
+    [ "Register", "d5/d52/a27203.html#a36563a197b7377660b7c3f9e85d478bd", null ]
 ];

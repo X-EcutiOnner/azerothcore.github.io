@@ -1,7 +1,6 @@
 var a24271 =
 [
-    [ "o", "d7/d03/a24271.html#a3785e9b55ea3a7140086ce1f86232109", null ],
-    [ "x", "d7/d03/a24271.html#ac81cc1119b7ac8ac70ee635f2e3d4bb7", null ],
-    [ "y", "d7/d03/a24271.html#a10fbad67977d8dd3911eb629c1797684", null ],
-    [ "z", "d7/d03/a24271.html#a69fc2438e52f6c0de3af13900ff38166", null ]
+    [ "npc_commander_dawnforgeAI", "dc/d54/a24275.html", "dc/d54/a24275" ],
+    [ "npc_commander_dawnforge", "d7/d03/a24271.html#ab4d430725f68f906e9c8def66b1d6646", null ],
+    [ "GetAI", "d7/d03/a24271.html#a6089b087b7c3b18659e23c677814318b", null ]
 ];

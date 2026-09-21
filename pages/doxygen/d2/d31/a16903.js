@@ -1,7 +1,8 @@
 var a16903 =
 [
-    [ "npc_toc_shamanAI", "d2/d31/a16903.html#abd0b0e503c1bbc48aebb5923ec3f4291", null ],
-    [ "myCanCast", "d2/d31/a16903.html#a993739662d2687c27219853669b8a485", null ],
-    [ "UpdateAI", "d2/d31/a16903.html#a2ad17245685feb3f085ef9a669459c61", null ],
-    [ "events", "d2/d31/a16903.html#ab573ab0ee616348ccdb28b71255ac35d", null ]
+    [ "npc_announcer_toc5AI", "d4/da6/a16907.html", "d4/da6/a16907" ],
+    [ "npc_announcer_toc5", "d2/d31/a16903.html#abf50bb7deb9e0bb04d9ac802aff5fa41", null ],
+    [ "GetAI", "d2/d31/a16903.html#a06767a8fd1e940d4efee6dd752520e9e", null ],
+    [ "OnGossipHello", "d2/d31/a16903.html#ad2cc55ddc6696b9bfb22e68eab965fb0", null ],
+    [ "OnGossipSelect", "d2/d31/a16903.html#a9017488c652fd75882db75914f4a2db2", null ]
 ];

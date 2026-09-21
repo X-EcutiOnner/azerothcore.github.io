@@ -1,9 +1,7 @@
 var a24759 =
 [
-    [ "CheckProc", "db/d8e/a24759.html#a13245a545210eed1ddfd7c49c4a43f6b", null ],
-    [ "HandleProc", "db/d8e/a24759.html#aeec6c9e949d1edc09259a55583b3bae2", null ],
-    [ "Load", "db/d8e/a24759.html#ae3ffe29eef4f803f08ab728d959f1932", null ],
-    [ "PeriodicTick", "db/d8e/a24759.html#a1621c06bce0a28a2416385563b989cbf", null ],
-    [ "PrepareAuraScript", "db/d8e/a24759.html#a79a8c2a9ef00a9c1a2bba481e9cc522f", null ],
-    [ "Register", "db/d8e/a24759.html#ad47775cc21d4d5e0c28b68c68d595a39", null ]
+    [ "CalcDamage", "db/d8e/a24759.html#a5e06d1aa2864c296b2680a83a9f2187f", null ],
+    [ "PrepareSpellScript", "db/d8e/a24759.html#a80a748b6a18d26004b04a4486df1ebe3", null ],
+    [ "Register", "db/d8e/a24759.html#a857a010e6426e931ca872f66803b99b9", null ],
+    [ "Validate", "db/d8e/a24759.html#ab64625ce305efb9dc92780c945b4fd62", null ]
 ];

@@ -1,9 +1,8 @@
 var a09019 =
 [
-    [ "EntryPointData", "d2/db4/a09019.html#a1852523ba9ca889cdd6731c63de759e2", null ],
-    [ "ClearTaxiPath", "d2/db4/a09019.html#a4aee0d4ef3850fb486987ae6fe78ee91", null ],
-    [ "HasTaxiPath", "d2/db4/a09019.html#afd310b2f367ec7df76f01689ea120e6e", null ],
-    [ "joinPos", "d2/db4/a09019.html#abfdc0ccd945f60e0a3ec37d278c96940", null ],
-    [ "mountSpell", "d2/db4/a09019.html#a06e1cadac24a2ab90e57373692f829dc", null ],
-    [ "taxiPath", "d2/db4/a09019.html#a5af670fa420b250c22e0f3237e753a6f", null ]
+    [ "PlayerCreateInfoAction", "d2/db4/a09019.html#a50d56595c71374e132dfe9f988144e75", null ],
+    [ "PlayerCreateInfoAction", "d2/db4/a09019.html#a1e1d33b18074031e408da10f44a9a9c4", null ],
+    [ "action", "d2/db4/a09019.html#a957d05ae25fd1ca801e097f03f9cc43e", null ],
+    [ "button", "d2/db4/a09019.html#ac0c4658cfb1fc01cbb55116dd6dbe899", null ],
+    [ "type", "d2/db4/a09019.html#a41e4a38f2c12f9e68b835fe17e56bc7e", null ]
 ];

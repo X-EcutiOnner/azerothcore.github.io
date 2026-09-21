@@ -1,6 +1,7 @@
 var a16835 =
 [
-    [ "boss_anubarak_trialAI", "d8/d6f/a16839.html", "d8/d6f/a16839" ],
-    [ "boss_anubarak_trial", "d8/d13/a16835.html#a5204e33a412608b53cc155a043356d58", null ],
-    [ "GetAI", "d8/d13/a16835.html#a9b8fe9ed3370434612cbd46e7649213d", null ]
+    [ "HandleAfterEffectAbsorb", "d8/d13/a16835.html#ab3d9f3679931b4b3b29713602d08701d", null ],
+    [ "PrepareAuraScript", "d8/d13/a16835.html#a10ee3cda9edfec8140b94e13b88266bd", null ],
+    [ "Register", "d8/d13/a16835.html#ab68a5ccfb0d96390bb83c329eb849cdd", null ],
+    [ "Validate", "d8/d13/a16835.html#a87750183d2b2d6adb67bba4a1f767029", null ]
 ];

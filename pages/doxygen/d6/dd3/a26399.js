@@ -1,7 +1,6 @@
 var a26399 =
 [
-    [ "HandleProc", "d6/dd3/a26399.html#a7bf47ecb24b3427dda1980f68b41cfe8", null ],
-    [ "PrepareAuraScript", "d6/dd3/a26399.html#a92468411049bd05eda99e676edefcf6e", null ],
-    [ "Register", "d6/dd3/a26399.html#a32ca1fb3bb75fb98cb8aec38adf54325", null ],
-    [ "Validate", "d6/dd3/a26399.html#a9a531733a3e7426a3bf6aa50ab86f4d9", null ]
+    [ "CalculateAmount", "d6/dd3/a26399.html#a2010f58ba86d6266e9549753fdec52ed", null ],
+    [ "PrepareAuraScript", "d6/dd3/a26399.html#aa9ddc9f2a0ded66e81be51cec24a0e4b", null ],
+    [ "Register", "d6/dd3/a26399.html#acf737f74e3cb9340f3449b491e923b7f", null ]
 ];

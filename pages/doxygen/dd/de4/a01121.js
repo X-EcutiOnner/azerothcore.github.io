@@ -1,4 +1,4 @@
 var a01121 =
 [
-    [ "ServerPktHeader", "de/df0/a11781.html", "de/df0/a11781" ]
+    [ "WorldPacket", "d6/d6c/a11799.html", "d6/d6c/a11799" ]
 ];

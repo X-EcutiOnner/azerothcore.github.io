@@ -1,13 +1,6 @@
 var a21735 =
 [
-    [ "npc_shandy_dalaranAI", "dc/d7b/a21735.html#ae93b853e4852ce71c4d588d4621b16a1", null ],
-    [ "Reset", "dc/d7b/a21735.html#a38f0630d4e18cea01de343afdcb96db3", null ],
-    [ "RollTask", "dc/d7b/a21735.html#acd1daa5bc99f281bd1ca78d4cdaf5a9e", null ],
-    [ "SetData", "dc/d7b/a21735.html#a5c8a0e6e0729d872c230aa72d41236a3", null ],
-    [ "UpdateAI", "dc/d7b/a21735.html#ac7c8e87b784d8738b8aacbcb58f471b1", null ],
-    [ "_aquanosGUID", "dc/d7b/a21735.html#aa1dfb61fbaae6ab2e25dd9779ec63ed1", null ],
-    [ "_canWash", "dc/d7b/a21735.html#af5b1aae6b2dd82c8199caedec3a8fdec", null ],
-    [ "_events", "dc/d7b/a21735.html#a3fbae63669c8382097b0bcb936301945", null ],
-    [ "_lCount", "dc/d7b/a21735.html#ad55bea5f33de226ff230f99059dc9ec3", null ],
-    [ "_lSource", "dc/d7b/a21735.html#a9e01cee4a79bfac56b1d1ecdac17ca3f", null ]
+    [ "npc_valiance_keep_cannoneerAI", "d7/d9c/a21739.html", "d7/d9c/a21739" ],
+    [ "npc_valiance_keep_cannoneer", "dc/d7b/a21735.html#a11f6060a7c6cd7be60001f5c259c94d3", null ],
+    [ "GetAI", "dc/d7b/a21735.html#a8bfc1505dedee28d1517ba6a7738ffd5", null ]
 ];

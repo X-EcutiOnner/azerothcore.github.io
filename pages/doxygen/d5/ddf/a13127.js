@@ -1,9 +1,10 @@
 var a13127 =
 [
-    [ "HandleEffectApply", "d5/ddf/a13127.html#ab1f4879fd9bd3982b9695bda886b0b99", null ],
-    [ "HandleEffectRemove", "d5/ddf/a13127.html#a8e38bc0ebf6b62982eee84e4c2722413", null ],
-    [ "Load", "d5/ddf/a13127.html#a8259745e21c561e4eedabc87ca8bdf73", null ],
-    [ "PrepareAuraScript", "d5/ddf/a13127.html#abec6d69d331e9952c129dc4cc24f0f13", null ],
-    [ "Register", "d5/ddf/a13127.html#a201bafab6c483b08a6ae27054392dea9", null ],
-    [ "Validate", "d5/ddf/a13127.html#a94aa1bd618035323b1fd4817fa7f9687", null ]
+    [ "npc_core_rager", "d5/ddf/a13127.html#a91aec4d96359a88ee8ac70b58353d488", null ],
+    [ "DamageTaken", "d5/ddf/a13127.html#a7ad38b40dc33a8c875f11c4143bf9786", null ],
+    [ "Reset", "d5/ddf/a13127.html#a5a565f93e2b60ee0883d740cf751c143", null ],
+    [ "UpdateAI", "d5/ddf/a13127.html#a17466612b59d94d7f2e157d2b716cfe9", null ],
+    [ "instance", "d5/ddf/a13127.html#adb63c559f01ac8da42213bb8ddaf9ce0", null ],
+    [ "mangleTimer", "d5/ddf/a13127.html#a21bb04f15b5ffbfa4ea954922cb917ab", null ],
+    [ "rangeCheckTimer", "d5/ddf/a13127.html#abac888dc4c885921540ba7107d0bd732", null ]
 ];

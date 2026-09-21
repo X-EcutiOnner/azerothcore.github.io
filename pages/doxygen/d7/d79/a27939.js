@@ -1,6 +1,6 @@
 var a27939 =
 [
-    [ "HandleDummy", "d7/d79/a27939.html#a68a86f7f86324336dc837622e01fa6af", null ],
-    [ "PrepareSpellScript", "d7/d79/a27939.html#a8c0a4b3b96a93b6977c2d3077fdfff1d", null ],
-    [ "Register", "d7/d79/a27939.html#ad168c9164d1edd23abfbf05141b96de4", null ]
+    [ "CheckProc", "d7/d79/a27939.html#ad99bf14a9b71a9ff7b2ccb73eaae41ce", null ],
+    [ "PrepareAuraScript", "d7/d79/a27939.html#a787d22fa4d989bf28aa69f64d55d9687", null ],
+    [ "Register", "d7/d79/a27939.html#a4ef23658a8f36556513fcd7b9673a14f", null ]
 ];

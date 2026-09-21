@@ -1,6 +1,6 @@
 var a19651 =
 [
-    [ "boss_thaddiusAI", "dc/d28/a19655.html", "dc/d28/a19655" ],
-    [ "boss_thaddius", "d4/d16/a19651.html#aff97b030b861feb646e1b22f60ee3605", null ],
-    [ "GetAI", "d4/d16/a19651.html#acf841c6897396f517a74932fc3480e69", null ]
+    [ "HandleAfterHit", "d4/d16/a19651.html#a4f9ee2b8830fc812a78154f8b54a0a47", null ],
+    [ "PrepareSpellScript", "d4/d16/a19651.html#a75d2e4bc16170348893654d53c1bb6d7", null ],
+    [ "Register", "d4/d16/a19651.html#a5e33a371d519c2fdc8561f2ac8d9dd82", null ]
 ];

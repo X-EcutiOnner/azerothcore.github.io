@@ -1,21 +1,11 @@
 var a24411 =
 [
-    [ "npc_pet_dk_ebon_gargoyle", "de/d6f/a24411.html#af3a1bf5f8f5b594aa7cd7542b6099a95", null ],
-    [ "AttackStart", "de/d6f/a24411.html#ae5408b18b589fb483095450bf1338b2f", null ],
-    [ "EnterEvadeMode", "de/d6f/a24411.html#a73e70d9deaa647edd2904dae180c9cef", null ],
-    [ "FlyAway", "de/d6f/a24411.html#abd2bbbff0d1752bbc2d03021b8155155", null ],
-    [ "InitializeAI", "de/d6f/a24411.html#a05e7d29c738dcc280603ab12a82b819b", null ],
-    [ "JustExitedCombat", "de/d6f/a24411.html#a980844a2d503761efe7e7cacef35bef1", null ],
-    [ "MovementInform", "de/d6f/a24411.html#a33e0260425cf179daae147bfc1a570b4", null ],
-    [ "MySelectNextTarget", "de/d6f/a24411.html#af86f48070b8c329c6a6a3f43d0156273", null ],
-    [ "RemoveTargetAura", "de/d6f/a24411.html#a07a6044ab1246bc2f90309b9eb7d0223", null ],
-    [ "Reset", "de/d6f/a24411.html#aa719acf874e7588ed6b73c437fb6765b", null ],
-    [ "UpdateAI", "de/d6f/a24411.html#a998a0401bd975cc7d0da7fb33670a503", null ],
-    [ "_decisionTimer", "de/d6f/a24411.html#a5ad13d23e35dcc1dab567ae2d8800cd6", null ],
-    [ "_despawning", "de/d6f/a24411.html#abca2ddc0628899b0c5bd35210e303d00", null ],
-    [ "_despawnTimer", "de/d6f/a24411.html#a8135321f4e5c01dc71e13f719e43d056", null ],
-    [ "_initialCastTimer", "de/d6f/a24411.html#ae6a8edeb3ee7a2bde5af81080d536d1f", null ],
-    [ "_initialSelection", "de/d6f/a24411.html#a5ce762eb57204a1b4d8f0ea49be701a7", null ],
-    [ "_selectionTimer", "de/d6f/a24411.html#ad004ccbe33b4eacff3ac5b5b28709df0", null ],
-    [ "_targetGUID", "de/d6f/a24411.html#a8299788ca453930977a605a2766d9e8d", null ]
+    [ "npc_shadowmoon_tuber_nodeAI", "de/d6f/a24411.html#af24a8d5ead256d158c86379e032aa889", null ],
+    [ "Reset", "de/d6f/a24411.html#a9bcbd0b0b6b12058a8356ce274b6a597", null ],
+    [ "SetData", "de/d6f/a24411.html#aca6ad097bd7b8e5f1a0cde6bdebb23ad", null ],
+    [ "SpellHit", "de/d6f/a24411.html#a14523a24042d23efbafc7924f394dd04", null ],
+    [ "UpdateAI", "de/d6f/a24411.html#ae5cd38aa2a9cc1727141298323639660", null ],
+    [ "resetTimer", "de/d6f/a24411.html#a0d2649de651279fa6bbe3ae2f18571bb", null ],
+    [ "tapped", "de/d6f/a24411.html#af6412de701f14a7eb325e1aaf33f28cc", null ],
+    [ "tuberGUID", "de/d6f/a24411.html#a2deaa1aeed26b862e93055d90c9139d6", null ]
 ];

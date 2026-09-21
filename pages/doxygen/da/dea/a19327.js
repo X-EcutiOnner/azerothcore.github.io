@@ -1,6 +1,7 @@
 var a19327 =
 [
-    [ "npc_icc_nerubar_broodkeeperAI", "dd/da0/a19331.html", "dd/da0/a19331" ],
-    [ "npc_icc_nerubar_broodkeeper", "da/dea/a19327.html#adf9c3bfb444fed50420c2e780b373f34", null ],
-    [ "GetAI", "da/dea/a19327.html#ad12186da36f7bbf99275a746bc874bfc", null ]
+    [ "HandleEffectPeriodic", "da/dea/a19327.html#a57615f1d8b891ab5a5c01de1543235cb", null ],
+    [ "PrepareAuraScript", "da/dea/a19327.html#ae040da0db1147652266e1f373838df37", null ],
+    [ "Register", "da/dea/a19327.html#ab11b84522134ee4d13504df3c19f69b8", null ],
+    [ "Validate", "da/dea/a19327.html#af3c3c90256913ffe188c11a21fc2dcc8", null ]
 ];

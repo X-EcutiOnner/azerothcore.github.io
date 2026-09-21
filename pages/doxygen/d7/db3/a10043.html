@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: InstanceSave Class Reference</title>
+<title>AzerothCore: Guild::RankInfo Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -107,124 +107,160 @@ $(document).ready(function(){initNavTree('d7/db3/a10043.html','../../'); initRes
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
-<a href="#friends">Friends</a> &#124;
 <a href="../../d6/dca/a10040.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">InstanceSave Class Reference</div></div>
+  <div class="headertitle"><div class="title">Guild::RankInfo Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
-
-<p><code>#include &quot;<a class="el" href="../../">InstanceSaveMgr.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a6901ef8f7c24501a18a6c688988735b6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#a6901ef8f7c24501a18a6c688988735b6">InstanceSave</a> (<a class="el" href="../../d8/ddd/a00380.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> MapId, <a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> InstanceId, <a class="el" href="../../d3/d85/a02813.html#a39d5903d54e674f4f2e824581ade546b">Difficulty</a> difficulty, time_t resetTime, time_t extendedResetTime)</td></tr>
-<tr class="separator:a6901ef8f7c24501a18a6c688988735b6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9ff182259d44acaa470cebb36d788c39"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#a9ff182259d44acaa470cebb36d788c39">~InstanceSave</a> ()</td></tr>
-<tr class="separator:a9ff182259d44acaa470cebb36d788c39"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7def734d9c4698457fa4f631e30fa9db"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#a7def734d9c4698457fa4f631e30fa9db">GetInstanceId</a> () const</td></tr>
-<tr class="separator:a7def734d9c4698457fa4f631e30fa9db"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a92ce355e9be7f83d53307b6dcd354c5d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#a92ce355e9be7f83d53307b6dcd354c5d">GetMapId</a> () const</td></tr>
-<tr class="separator:a92ce355e9be7f83d53307b6dcd354c5d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a94577295c43dc90262381beff84f5f91"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d85/a02813.html#a39d5903d54e674f4f2e824581ade546b">Difficulty</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#a94577295c43dc90262381beff84f5f91">GetDifficulty</a> () const</td></tr>
-<tr class="separator:a94577295c43dc90262381beff84f5f91"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a94ad997458e97d7b7548ccbd88f3ac63"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#a94ad997458e97d7b7548ccbd88f3ac63">InsertToDB</a> ()</td></tr>
-<tr class="separator:a94ad997458e97d7b7548ccbd88f3ac63"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0785f4ba4011ef735d10e80ff05b0cf7"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#a0785f4ba4011ef735d10e80ff05b0cf7">GetInstanceData</a> () const</td></tr>
-<tr class="separator:a0785f4ba4011ef735d10e80ff05b0cf7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af3834730980e93d2617c92229220c739"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#af3834730980e93d2617c92229220c739">SetInstanceData</a> (std::string str)</td></tr>
-<tr class="separator:af3834730980e93d2617c92229220c739"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afe47ec184ab41772b446a6bfb338796f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#afe47ec184ab41772b446a6bfb338796f">GetCompletedEncounterMask</a> () const</td></tr>
-<tr class="separator:afe47ec184ab41772b446a6bfb338796f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afe42a43cecab75523b5f92340c5ef827"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#afe42a43cecab75523b5f92340c5ef827">SetCompletedEncounterMask</a> (<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> mask)</td></tr>
-<tr class="separator:afe42a43cecab75523b5f92340c5ef827"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af5f5969ae2d4730af0c9ad7ea7f5a8ac"><td class="memItemLeft" align="right" valign="top">time_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#af5f5969ae2d4730af0c9ad7ea7f5a8ac">GetResetTime</a> () const</td></tr>
-<tr class="separator:af5f5969ae2d4730af0c9ad7ea7f5a8ac"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2da6c5ed63b57f6449de44461c05582b"><td class="memItemLeft" align="right" valign="top">time_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#a2da6c5ed63b57f6449de44461c05582b">GetExtendedResetTime</a> () const</td></tr>
-<tr class="separator:a2da6c5ed63b57f6449de44461c05582b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a78a9d21a1a7711c6eeefc6567dd30106"><td class="memItemLeft" align="right" valign="top">time_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#a78a9d21a1a7711c6eeefc6567dd30106">GetResetTimeForDB</a> ()</td></tr>
-<tr class="separator:a78a9d21a1a7711c6eeefc6567dd30106"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7d50f44ec594b4f97f8b7e4ddf2b2083"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#a7d50f44ec594b4f97f8b7e4ddf2b2083">SetResetTime</a> (time_t resetTime)</td></tr>
-<tr class="separator:a7d50f44ec594b4f97f8b7e4ddf2b2083"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a30fae391561928818b002a29098f141c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#a30fae391561928818b002a29098f141c">SetExtendedResetTime</a> (time_t extendedResetTime)</td></tr>
-<tr class="separator:a30fae391561928818b002a29098f141c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aba8d512041c8485f49eef8c1fafce729"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#aba8d512041c8485f49eef8c1fafce729">CanReset</a> () const</td></tr>
-<tr class="separator:aba8d512041c8485f49eef8c1fafce729"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a748d1f886e92a5c48af561198f8b0d96"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#a748d1f886e92a5c48af561198f8b0d96">SetCanReset</a> (bool canReset)</td></tr>
-<tr class="separator:a748d1f886e92a5c48af561198f8b0d96"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1d01bd891d1885b4efc3a61a937a3d45"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d9b/a10247.html">InstanceTemplate</a> const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#a1d01bd891d1885b4efc3a61a937a3d45">GetTemplate</a> ()</td></tr>
-<tr class="separator:a1d01bd891d1885b4efc3a61a937a3d45"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5e52665f53db7ed2e185920c22c584a2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/de1/a29331.html">MapEntry</a> const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#a5e52665f53db7ed2e185920c22c584a2">GetMapEntry</a> ()</td></tr>
-<tr class="separator:a5e52665f53db7ed2e185920c22c584a2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a671ec6aa40517119059ca5e90f90189e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#a671ec6aa40517119059ca5e90f90189e">AddPlayer</a> (<a class="el" href="../../d1/d28/a08831.html">ObjectGuid</a> guid)</td></tr>
-<tr class="separator:a671ec6aa40517119059ca5e90f90189e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad67626787ecea8c4b5e54e205c069261"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#ad67626787ecea8c4b5e54e205c069261">RemovePlayer</a> (<a class="el" href="../../d1/d28/a08831.html">ObjectGuid</a> guid, <a class="el" href="../../d3/dab/a10059.html">InstanceSaveMgr</a> *ism)</td></tr>
-<tr class="separator:ad67626787ecea8c4b5e54e205c069261"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4b97f6372e87ab4061748cc58bd00096"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#a4b97f6372e87ab4061748cc58bd00096">RankInfo</a> ()</td></tr>
+<tr class="separator:a4b97f6372e87ab4061748cc58bd00096"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a02c7283862334b5133f5971cee5da927"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#a02c7283862334b5133f5971cee5da927">RankInfo</a> (<a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> guildId)</td></tr>
+<tr class="separator:a02c7283862334b5133f5971cee5da927"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaacf8ce1bfa6429cb5980d74f076cbd3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#aaacf8ce1bfa6429cb5980d74f076cbd3">RankInfo</a> (<a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> guildId, <a class="el" href="../../de/d69/a04679.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> rankId, std::string_view name, <a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> rights, <a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> money)</td></tr>
+<tr class="separator:aaacf8ce1bfa6429cb5980d74f076cbd3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae9f8001f2546582256b7d916d4f2b1d6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#ae9f8001f2546582256b7d916d4f2b1d6">LoadFromDB</a> (<a class="el" href="../../d3/d0b/a06139.html">Field</a> *fields)</td></tr>
+<tr class="separator:ae9f8001f2546582256b7d916d4f2b1d6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9fb87796b8e18ed9dd2fee53844c243f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#a9fb87796b8e18ed9dd2fee53844c243f">SaveToDB</a> (<a class="el" href="../../d3/dd5/a00215.html#a96bac9a371212c6bab7a9448214666c0">CharacterDatabaseTransaction</a> trans) const</td></tr>
+<tr class="separator:a9fb87796b8e18ed9dd2fee53844c243f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1a99822f0c886d59ac57b6eb73ff2b42"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d69/a04679.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#a1a99822f0c886d59ac57b6eb73ff2b42">GetId</a> () const</td></tr>
+<tr class="separator:a1a99822f0c886d59ac57b6eb73ff2b42"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3cfcabc23d610dd6130333edcd482485"><td class="memItemLeft" align="right" valign="top">std::string const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#a3cfcabc23d610dd6130333edcd482485">GetName</a> () const</td></tr>
+<tr class="separator:a3cfcabc23d610dd6130333edcd482485"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a30e276b031dc1e279cfbf38aa1c9b851"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#a30e276b031dc1e279cfbf38aa1c9b851">SetName</a> (std::string_view name)</td></tr>
+<tr class="separator:a30e276b031dc1e279cfbf38aa1c9b851"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a59565228481689cdc073e7120a6de9f3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#a59565228481689cdc073e7120a6de9f3">GetRights</a> () const</td></tr>
+<tr class="separator:a59565228481689cdc073e7120a6de9f3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8b46f3a8f91cd3a187e00d37a6ddd419"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#a8b46f3a8f91cd3a187e00d37a6ddd419">SetRights</a> (<a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> rights)</td></tr>
+<tr class="separator:a8b46f3a8f91cd3a187e00d37a6ddd419"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adb568b8ad70d0b42d834af5e2bf528d2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d69/a04679.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#adb568b8ad70d0b42d834af5e2bf528d2">GetBankMoneyPerDay</a> () const</td></tr>
+<tr class="separator:adb568b8ad70d0b42d834af5e2bf528d2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1c553e020fe7d79564ddfc3aa74bbfae"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#a1c553e020fe7d79564ddfc3aa74bbfae">SetBankMoneyPerDay</a> (<a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> money)</td></tr>
+<tr class="separator:a1c553e020fe7d79564ddfc3aa74bbfae"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5be65cec8e2e82c027ef4062ea63c1f1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d69/a04679.html#a3bb8a71f4ae9af551f71e9eb2c9c3325">int8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#a5be65cec8e2e82c027ef4062ea63c1f1">GetBankTabRights</a> (<a class="el" href="../../de/d69/a04679.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> tabId) const</td></tr>
+<tr class="separator:a5be65cec8e2e82c027ef4062ea63c1f1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7cc652b0170a7f786a5a0263b4251d2d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d69/a04679.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#a7cc652b0170a7f786a5a0263b4251d2d">GetBankTabSlotsPerDay</a> (<a class="el" href="../../de/d69/a04679.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> tabId) const</td></tr>
+<tr class="separator:a7cc652b0170a7f786a5a0263b4251d2d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9f1c622c8af7a8f7f9af027eb01b9dc6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#a9f1c622c8af7a8f7f9af027eb01b9dc6">SetBankTabSlotsAndRights</a> (<a class="el" href="../../d4/db5/a10015.html">GuildBankRightsAndSlots</a> rightsAndSlots, bool saveToDB)</td></tr>
+<tr class="separator:a9f1c622c8af7a8f7f9af027eb01b9dc6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a17e8ee39681804bac73a2c699b470c37"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#a17e8ee39681804bac73a2c699b470c37">CreateMissingTabsIfNeeded</a> (<a class="el" href="../../de/d69/a04679.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> ranks, <a class="el" href="../../d3/dd5/a00215.html#a96bac9a371212c6bab7a9448214666c0">CharacterDatabaseTransaction</a> trans, bool logOnCreate=false)</td></tr>
+<tr class="separator:a17e8ee39681804bac73a2c699b470c37"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:a90d9cedcf9b9e25c638fea6268d70bc4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d2c/a01553.html#a5951d383f157ff0ed6d23ecef2213a4b">GuidList</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#a90d9cedcf9b9e25c638fea6268d70bc4">m_playerList</a></td></tr>
-<tr class="separator:a90d9cedcf9b9e25c638fea6268d70bc4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad4bc4189529fe75acac192e3682154e4"><td class="memItemLeft" align="right" valign="top">time_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#ad4bc4189529fe75acac192e3682154e4">m_resetTime</a></td></tr>
-<tr class="separator:ad4bc4189529fe75acac192e3682154e4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af5ac89030cb727a6c05f1fb07a8a8c49"><td class="memItemLeft" align="right" valign="top">time_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#af5ac89030cb727a6c05f1fb07a8a8c49">m_extendedResetTime</a></td></tr>
-<tr class="separator:af5ac89030cb727a6c05f1fb07a8a8c49"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6057e679b99516575a2e5cab8d75b8a1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#a6057e679b99516575a2e5cab8d75b8a1">m_instanceid</a></td></tr>
-<tr class="separator:a6057e679b99516575a2e5cab8d75b8a1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a86fe576f6d1aaf3084ff03054977ecc9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#a86fe576f6d1aaf3084ff03054977ecc9">m_mapid</a></td></tr>
-<tr class="separator:a86fe576f6d1aaf3084ff03054977ecc9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa9742adc281c69f28651e9c64541f820"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d85/a02813.html#a39d5903d54e674f4f2e824581ade546b">Difficulty</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#aa9742adc281c69f28651e9c64541f820">m_difficulty</a></td></tr>
-<tr class="separator:aa9742adc281c69f28651e9c64541f820"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad04e0c29de666c12fbe18111fca7c645"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#ad04e0c29de666c12fbe18111fca7c645">m_canReset</a></td></tr>
-<tr class="separator:ad04e0c29de666c12fbe18111fca7c645"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a89c8afd883451f16ce6423eb18fcc6be"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#a89c8afd883451f16ce6423eb18fcc6be">m_instanceData</a></td></tr>
-<tr class="separator:a89c8afd883451f16ce6423eb18fcc6be"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afe1d6c463ee67c999066116837641324"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#afe1d6c463ee67c999066116837641324">m_completedEncounterMask</a></td></tr>
-<tr class="separator:afe1d6c463ee67c999066116837641324"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0e4cc72ed74b163f7c1a8dde39dd01f3"><td class="memItemLeft" align="right" valign="top">std::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#a0e4cc72ed74b163f7c1a8dde39dd01f3">_lock</a></td></tr>
-<tr class="separator:a0e4cc72ed74b163f7c1a8dde39dd01f3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="friends" name="friends"></a>
-Friends</h2></td></tr>
-<tr class="memitem:a895f58095a9d9f0ec4cd12e2ae2e8282"><td class="memItemLeft" align="right" valign="top">class&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#a895f58095a9d9f0ec4cd12e2ae2e8282">InstanceSaveMgr</a></td></tr>
-<tr class="separator:a895f58095a9d9f0ec4cd12e2ae2e8282"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a86f162bdf86255f89666e20f44d114a0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#a86f162bdf86255f89666e20f44d114a0">m_guildId</a></td></tr>
+<tr class="separator:a86f162bdf86255f89666e20f44d114a0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad7ff7ee31212be87b5cb580edef3cc16"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d69/a04679.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#ad7ff7ee31212be87b5cb580edef3cc16">m_rankId</a></td></tr>
+<tr class="separator:ad7ff7ee31212be87b5cb580edef3cc16"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a96281f4a307ca7657a3ba9f04c9331c3"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#a96281f4a307ca7657a3ba9f04c9331c3">m_name</a></td></tr>
+<tr class="separator:a96281f4a307ca7657a3ba9f04c9331c3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a058febd98eb3d116acbe1bc0d04a983c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#a058febd98eb3d116acbe1bc0d04a983c">m_rights</a></td></tr>
+<tr class="separator:a058febd98eb3d116acbe1bc0d04a983c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a715985e1b8e8e2aa2d0b48877ae37e8f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#a715985e1b8e8e2aa2d0b48877ae37e8f">m_bankMoneyPerDay</a></td></tr>
+<tr class="separator:a715985e1b8e8e2aa2d0b48877ae37e8f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aeb209d1e53f55b5b48bcd00979014eb8"><td class="memItemLeft" align="right" valign="top">std::array&lt; <a class="el" href="../../d4/db5/a10015.html">GuildBankRightsAndSlots</a>, <a class="el" href="../../de/d46/a01967.html#a06a462b77a279ae7e2e901b2a8b42fbaadf100aec6c7a6f10b7af8629930feff7">GUILD_BANK_MAX_TABS</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db3/a10043.html#aeb209d1e53f55b5b48bcd00979014eb8">m_bankTabRightsAndSlots</a> = {}</td></tr>
+<tr class="separator:aeb209d1e53f55b5b48bcd00979014eb8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a6901ef8f7c24501a18a6c688988735b6" name="a6901ef8f7c24501a18a6c688988735b6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6901ef8f7c24501a18a6c688988735b6">&#9670;&#160;</a></span>InstanceSave()</h2>
+<a id="a4b97f6372e87ab4061748cc58bd00096" name="a4b97f6372e87ab4061748cc58bd00096"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4b97f6372e87ab4061748cc58bd00096">&#9670;&#160;</a></span>RankInfo() <span class="overload">[1/3]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">InstanceSave::InstanceSave </td>
+          <td class="memname">Guild::RankInfo::RankInfo </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/ddd/a00380.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td>
-          <td class="paramname"><em>MapId</em>, </td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  512</span>: <a class="code hl_variable" href="../../d7/db3/a10043.html#a86f162bdf86255f89666e20f44d114a0">m_guildId</a>(0), <a class="code hl_variable" href="../../d7/db3/a10043.html#ad7ff7ee31212be87b5cb580edef3cc16">m_rankId</a>(<a class="code hl_enumvalue" href="../../de/d46/a01967.html#a06a462b77a279ae7e2e901b2a8b42fbaaf6c0674ccaa8788c8fcfd8a600d925b6">GUILD_RANK_NONE</a>), <a class="code hl_variable" href="../../d7/db3/a10043.html#a058febd98eb3d116acbe1bc0d04a983c">m_rights</a>(<a class="code hl_enumvalue" href="../../de/d46/a01967.html#abe65a5c09114479eec37ae55f24aaaa7a0aaa2fbc124920eccb1f1495dc966aab">GR_RIGHT_EMPTY</a>), <a class="code hl_variable" href="../../d7/db3/a10043.html#a715985e1b8e8e2aa2d0b48877ae37e8f">m_bankMoneyPerDay</a>(0) { }</div>
+<div class="ttc" id="aa01967_html_a06a462b77a279ae7e2e901b2a8b42fbaaf6c0674ccaa8788c8fcfd8a600d925b6"><div class="ttname"><a href="../../de/d46/a01967.html#a06a462b77a279ae7e2e901b2a8b42fbaaf6c0674ccaa8788c8fcfd8a600d925b6">GUILD_RANK_NONE</a></div><div class="ttdeci">@ GUILD_RANK_NONE</div><div class="ttdef"><b>Definition:</b> Guild.h:47</div></div>
+<div class="ttc" id="aa01967_html_abe65a5c09114479eec37ae55f24aaaa7a0aaa2fbc124920eccb1f1495dc966aab"><div class="ttname"><a href="../../de/d46/a01967.html#abe65a5c09114479eec37ae55f24aaaa7a0aaa2fbc124920eccb1f1495dc966aab">GR_RIGHT_EMPTY</a></div><div class="ttdeci">@ GR_RIGHT_EMPTY</div><div class="ttdef"><b>Definition:</b> Guild.h:76</div></div>
+<div class="ttc" id="aa10043_html_a058febd98eb3d116acbe1bc0d04a983c"><div class="ttname"><a href="../../d7/db3/a10043.html#a058febd98eb3d116acbe1bc0d04a983c">Guild::RankInfo::m_rights</a></div><div class="ttdeci">uint32 m_rights</div><div class="ttdef"><b>Definition:</b> Guild.h:551</div></div>
+<div class="ttc" id="aa10043_html_a715985e1b8e8e2aa2d0b48877ae37e8f"><div class="ttname"><a href="../../d7/db3/a10043.html#a715985e1b8e8e2aa2d0b48877ae37e8f">Guild::RankInfo::m_bankMoneyPerDay</a></div><div class="ttdeci">uint32 m_bankMoneyPerDay</div><div class="ttdef"><b>Definition:</b> Guild.h:552</div></div>
+<div class="ttc" id="aa10043_html_a86f162bdf86255f89666e20f44d114a0"><div class="ttname"><a href="../../d7/db3/a10043.html#a86f162bdf86255f89666e20f44d114a0">Guild::RankInfo::m_guildId</a></div><div class="ttdeci">uint32 m_guildId</div><div class="ttdef"><b>Definition:</b> Guild.h:547</div></div>
+<div class="ttc" id="aa10043_html_ad7ff7ee31212be87b5cb580edef3cc16"><div class="ttname"><a href="../../d7/db3/a10043.html#ad7ff7ee31212be87b5cb580edef3cc16">Guild::RankInfo::m_rankId</a></div><div class="ttdeci">uint8 m_rankId</div><div class="ttdef"><b>Definition:</b> Guild.h:549</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a02c7283862334b5133f5971cee5da927" name="a02c7283862334b5133f5971cee5da927"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a02c7283862334b5133f5971cee5da927">&#9670;&#160;</a></span>RankInfo() <span class="overload">[2/3]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">Guild::RankInfo::RankInfo </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>guildId</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  513</span>: <a class="code hl_variable" href="../../d7/db3/a10043.html#a86f162bdf86255f89666e20f44d114a0">m_guildId</a>(guildId), <a class="code hl_variable" href="../../d7/db3/a10043.html#ad7ff7ee31212be87b5cb580edef3cc16">m_rankId</a>(<a class="code hl_enumvalue" href="../../de/d46/a01967.html#a06a462b77a279ae7e2e901b2a8b42fbaaf6c0674ccaa8788c8fcfd8a600d925b6">GUILD_RANK_NONE</a>), <a class="code hl_variable" href="../../d7/db3/a10043.html#a058febd98eb3d116acbe1bc0d04a983c">m_rights</a>(<a class="code hl_enumvalue" href="../../de/d46/a01967.html#abe65a5c09114479eec37ae55f24aaaa7a0aaa2fbc124920eccb1f1495dc966aab">GR_RIGHT_EMPTY</a>), <a class="code hl_variable" href="../../d7/db3/a10043.html#a715985e1b8e8e2aa2d0b48877ae37e8f">m_bankMoneyPerDay</a>(0) { }</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="aaacf8ce1bfa6429cb5980d74f076cbd3" name="aaacf8ce1bfa6429cb5980d74f076cbd3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aaacf8ce1bfa6429cb5980d74f076cbd3">&#9670;&#160;</a></span>RankInfo() <span class="overload">[3/3]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">Guild::RankInfo::RankInfo </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>guildId</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>InstanceId</em>, </td>
+          <td class="paramtype"><a class="el" href="../../de/d69/a04679.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
+          <td class="paramname"><em>rankId</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d3/d85/a02813.html#a39d5903d54e674f4f2e824581ade546b">Difficulty</a>&#160;</td>
-          <td class="paramname"><em>difficulty</em>, </td>
+          <td class="paramtype">std::string_view&#160;</td>
+          <td class="paramname"><em>name</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">time_t&#160;</td>
-          <td class="paramname"><em>resetTime</em>, </td>
+          <td class="paramtype"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>rights</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">time_t&#160;</td>
-          <td class="paramname"><em>extendedResetTime</em>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>money</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -232,490 +268,45 @@ Friends</h2></td></tr>
           <td></td><td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  154</span>    : <a class="code hl_variable" href="../../d7/db3/a10043.html#ad4bc4189529fe75acac192e3682154e4">m_resetTime</a>(resetTime), <a class="code hl_variable" href="../../d7/db3/a10043.html#af5ac89030cb727a6c05f1fb07a8a8c49">m_extendedResetTime</a>(extendedResetTime), <a class="code hl_variable" href="../../d7/db3/a10043.html#a6057e679b99516575a2e5cab8d75b8a1">m_instanceid</a>(InstanceId), <a class="code hl_variable" href="../../d7/db3/a10043.html#a86fe576f6d1aaf3084ff03054977ecc9">m_mapid</a>(MapId), <a class="code hl_variable" href="../../d7/db3/a10043.html#aa9742adc281c69f28651e9c64541f820">m_difficulty</a>(<a class="code hl_function" href="../../d6/d0d/a01091.html#af7b6eff71f64ecef778f854613d72288">IsSharedDifficultyMap</a>(MapId) ? <a class="code hl_enumeration" href="../../d3/d85/a02813.html#a39d5903d54e674f4f2e824581ade546b">Difficulty</a>(difficulty % 2) : difficulty), <a class="code hl_variable" href="../../d7/db3/a10043.html#ad04e0c29de666c12fbe18111fca7c645">m_canReset</a>(<span class="keyword">true</span>), <a class="code hl_variable" href="../../d7/db3/a10043.html#a89c8afd883451f16ce6423eb18fcc6be">m_instanceData</a>(<span class="stringliteral">&quot;&quot;</span>), <a class="code hl_variable" href="../../d7/db3/a10043.html#afe1d6c463ee67c999066116837641324">m_completedEncounterMask</a>(0)</div>
-<div class="line"><span class="lineno">  155</span>{</div>
-<div class="line"><span class="lineno">  156</span>    <a class="code hl_define" href="../../d1/dc4/a02042.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a>-&gt;OnConstructInstanceSave(<span class="keyword">this</span>);</div>
-<div class="line"><span class="lineno">  157</span>}</div>
-<div class="ttc" id="aa01091_html_af7b6eff71f64ecef778f854613d72288"><div class="ttname"><a href="../../d6/d0d/a01091.html#af7b6eff71f64ecef778f854613d72288">IsSharedDifficultyMap</a></div><div class="ttdeci">bool IsSharedDifficultyMap(uint32 mapid)</div><div class="ttdef"><b>Definition:</b> DBCStores.cpp:829</div></div>
-<div class="ttc" id="aa02042_html_ae8161e629869974bc49b1cbfc73c1087"><div class="ttname"><a href="../../d1/dc4/a02042.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a></div><div class="ttdeci">#define sScriptMgr</div><div class="ttdef"><b>Definition:</b> ScriptMgr.h:744</div></div>
-<div class="ttc" id="aa02813_html_a39d5903d54e674f4f2e824581ade546b"><div class="ttname"><a href="../../d3/d85/a02813.html#a39d5903d54e674f4f2e824581ade546b">Difficulty</a></div><div class="ttdeci">Difficulty</div><div class="ttdef"><b>Definition:</b> DBCEnums.h:266</div></div>
-<div class="ttc" id="aa10043_html_a6057e679b99516575a2e5cab8d75b8a1"><div class="ttname"><a href="../../d7/db3/a10043.html#a6057e679b99516575a2e5cab8d75b8a1">InstanceSave::m_instanceid</a></div><div class="ttdeci">uint32 m_instanceid</div><div class="ttdef"><b>Definition:</b> InstanceSaveMgr.h:95</div></div>
-<div class="ttc" id="aa10043_html_a86fe576f6d1aaf3084ff03054977ecc9"><div class="ttname"><a href="../../d7/db3/a10043.html#a86fe576f6d1aaf3084ff03054977ecc9">InstanceSave::m_mapid</a></div><div class="ttdeci">uint32 m_mapid</div><div class="ttdef"><b>Definition:</b> InstanceSaveMgr.h:96</div></div>
-<div class="ttc" id="aa10043_html_a89c8afd883451f16ce6423eb18fcc6be"><div class="ttname"><a href="../../d7/db3/a10043.html#a89c8afd883451f16ce6423eb18fcc6be">InstanceSave::m_instanceData</a></div><div class="ttdeci">std::string m_instanceData</div><div class="ttdef"><b>Definition:</b> InstanceSaveMgr.h:99</div></div>
-<div class="ttc" id="aa10043_html_aa9742adc281c69f28651e9c64541f820"><div class="ttname"><a href="../../d7/db3/a10043.html#aa9742adc281c69f28651e9c64541f820">InstanceSave::m_difficulty</a></div><div class="ttdeci">Difficulty m_difficulty</div><div class="ttdef"><b>Definition:</b> InstanceSaveMgr.h:97</div></div>
-<div class="ttc" id="aa10043_html_ad04e0c29de666c12fbe18111fca7c645"><div class="ttname"><a href="../../d7/db3/a10043.html#ad04e0c29de666c12fbe18111fca7c645">InstanceSave::m_canReset</a></div><div class="ttdeci">bool m_canReset</div><div class="ttdef"><b>Definition:</b> InstanceSaveMgr.h:98</div></div>
-<div class="ttc" id="aa10043_html_ad4bc4189529fe75acac192e3682154e4"><div class="ttname"><a href="../../d7/db3/a10043.html#ad4bc4189529fe75acac192e3682154e4">InstanceSave::m_resetTime</a></div><div class="ttdeci">time_t m_resetTime</div><div class="ttdef"><b>Definition:</b> InstanceSaveMgr.h:93</div></div>
-<div class="ttc" id="aa10043_html_af5ac89030cb727a6c05f1fb07a8a8c49"><div class="ttname"><a href="../../d7/db3/a10043.html#af5ac89030cb727a6c05f1fb07a8a8c49">InstanceSave::m_extendedResetTime</a></div><div class="ttdeci">time_t m_extendedResetTime</div><div class="ttdef"><b>Definition:</b> InstanceSaveMgr.h:94</div></div>
-<div class="ttc" id="aa10043_html_afe1d6c463ee67c999066116837641324"><div class="ttname"><a href="../../d7/db3/a10043.html#afe1d6c463ee67c999066116837641324">InstanceSave::m_completedEncounterMask</a></div><div class="ttdeci">uint32 m_completedEncounterMask</div><div class="ttdef"><b>Definition:</b> InstanceSaveMgr.h:100</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  514</span>                                                                                                 :</div>
+<div class="line"><span class="lineno">  515</span>            <a class="code hl_variable" href="../../d7/db3/a10043.html#a86f162bdf86255f89666e20f44d114a0">m_guildId</a>(guildId), <a class="code hl_variable" href="../../d7/db3/a10043.html#ad7ff7ee31212be87b5cb580edef3cc16">m_rankId</a>(rankId), <a class="code hl_variable" href="../../d7/db3/a10043.html#a96281f4a307ca7657a3ba9f04c9331c3">m_name</a>(name), <a class="code hl_variable" href="../../d7/db3/a10043.html#a058febd98eb3d116acbe1bc0d04a983c">m_rights</a>(rights),</div>
+<div class="line"><span class="lineno">  516</span>            <a class="code hl_variable" href="../../d7/db3/a10043.html#a715985e1b8e8e2aa2d0b48877ae37e8f">m_bankMoneyPerDay</a>(rankId != <a class="code hl_enumvalue" href="../../de/d46/a01967.html#a6534fcf172d7fbe4a762e0479601acd4a349203b98139f80965ab3d7e3379c36d">GR_GUILDMASTER</a> ? money : <a class="code hl_enumvalue" href="../../de/d46/a01967.html#a06a462b77a279ae7e2e901b2a8b42fbaa970809f1c7ca4e40033d20bd598adaa1">GUILD_WITHDRAW_MONEY_UNLIMITED</a>) { }</div>
+<div class="ttc" id="aa01967_html_a06a462b77a279ae7e2e901b2a8b42fbaa970809f1c7ca4e40033d20bd598adaa1"><div class="ttname"><a href="../../de/d46/a01967.html#a06a462b77a279ae7e2e901b2a8b42fbaa970809f1c7ca4e40033d20bd598adaa1">GUILD_WITHDRAW_MONEY_UNLIMITED</a></div><div class="ttdeci">@ GUILD_WITHDRAW_MONEY_UNLIMITED</div><div class="ttdef"><b>Definition:</b> Guild.h:48</div></div>
+<div class="ttc" id="aa01967_html_a6534fcf172d7fbe4a762e0479601acd4a349203b98139f80965ab3d7e3379c36d"><div class="ttname"><a href="../../de/d46/a01967.html#a6534fcf172d7fbe4a762e0479601acd4a349203b98139f80965ab3d7e3379c36d">GR_GUILDMASTER</a></div><div class="ttdeci">@ GR_GUILDMASTER</div><div class="ttdef"><b>Definition:</b> Guild.h:65</div></div>
+<div class="ttc" id="aa10043_html_a96281f4a307ca7657a3ba9f04c9331c3"><div class="ttname"><a href="../../d7/db3/a10043.html#a96281f4a307ca7657a3ba9f04c9331c3">Guild::RankInfo::m_name</a></div><div class="ttdeci">std::string m_name</div><div class="ttdef"><b>Definition:</b> Guild.h:550</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00744">sScriptMgr</a>.</p>
-
-</div>
-</div>
-<a id="a9ff182259d44acaa470cebb36d788c39" name="a9ff182259d44acaa470cebb36d788c39"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9ff182259d44acaa470cebb36d788c39">&#9670;&#160;</a></span>~InstanceSave()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">InstanceSave::~InstanceSave </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  160</span>{</div>
-<div class="line"><span class="lineno">  161</span>    <a class="code hl_define" href="../../db/d10/a00350.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(<a class="code hl_variable" href="../../d7/db3/a10043.html#a90d9cedcf9b9e25c638fea6268d70bc4">m_playerList</a>.empty());</div>
-<div class="line"><span class="lineno">  162</span> </div>
-<div class="line"><span class="lineno">  163</span>    <a class="code hl_define" href="../../d1/dc4/a02042.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a>-&gt;OnDestructInstanceSave(<span class="keyword">this</span>);</div>
-<div class="line"><span class="lineno">  164</span>}</div>
-<div class="ttc" id="aa00350_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../db/d10/a00350.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
-<div class="ttc" id="aa10043_html_a90d9cedcf9b9e25c638fea6268d70bc4"><div class="ttname"><a href="../../d7/db3/a10043.html#a90d9cedcf9b9e25c638fea6268d70bc4">InstanceSave::m_playerList</a></div><div class="ttdeci">GuidList m_playerList</div><div class="ttdef"><b>Definition:</b> InstanceSaveMgr.h:92</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00092">m_playerList</a>, and <a class="el" href="../../#l00744">sScriptMgr</a>.</p>
-
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a671ec6aa40517119059ca5e90f90189e" name="a671ec6aa40517119059ca5e90f90189e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a671ec6aa40517119059ca5e90f90189e">&#9670;&#160;</a></span>AddPlayer()</h2>
+<a id="a17e8ee39681804bac73a2c699b470c37" name="a17e8ee39681804bac73a2c699b470c37"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a17e8ee39681804bac73a2c699b470c37">&#9670;&#160;</a></span>CreateMissingTabsIfNeeded()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void InstanceSave::AddPlayer </td>
+          <td class="memname">void Guild::RankInfo::CreateMissingTabsIfNeeded </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d1/d28/a08831.html">ObjectGuid</a>&#160;</td>
-          <td class="paramname"><em>guid</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  223</span>{</div>
-<div class="line"><span class="lineno">  224</span>    std::lock_guard&lt;std::mutex&gt; guard(<a class="code hl_variable" href="../../d7/db3/a10043.html#a0e4cc72ed74b163f7c1a8dde39dd01f3">_lock</a>);</div>
-<div class="line"><span class="lineno">  225</span>    <a class="code hl_variable" href="../../d7/db3/a10043.html#a90d9cedcf9b9e25c638fea6268d70bc4">m_playerList</a>.push_back(guid);</div>
-<div class="line"><span class="lineno">  226</span>}</div>
-<div class="ttc" id="aa10043_html_a0e4cc72ed74b163f7c1a8dde39dd01f3"><div class="ttname"><a href="../../d7/db3/a10043.html#a0e4cc72ed74b163f7c1a8dde39dd01f3">InstanceSave::_lock</a></div><div class="ttdeci">std::mutex _lock</div><div class="ttdef"><b>Definition:</b> InstanceSaveMgr.h:102</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00102">_lock</a>, and <a class="el" href="../../#l00092">m_playerList</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00515">InstanceSaveMgr::MergeWithNewInstanceSaves()</a>, and <a class="el" href="../../#l00792">InstanceSaveMgr::PlayerBindToInstance()</a>.</p>
-
-</div>
-</div>
-<a id="aba8d512041c8485f49eef8c1fafce729" name="aba8d512041c8485f49eef8c1fafce729"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aba8d512041c8485f49eef8c1fafce729">&#9670;&#160;</a></span>CanReset()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool InstanceSave::CanReset </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   82</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d7/db3/a10043.html#ad04e0c29de666c12fbe18111fca7c645">m_canReset</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00098">m_canReset</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l02050">InstanceMap::AddPlayerToMap()</a>, <a class="el" href="../../#l00057">instance_commandscript::HandleInstanceListBindsCommand()</a>, <a class="el" href="../../#l00084">instance_commandscript::HandleInstanceUnbindCommand()</a>, <a class="el" href="../../#l00193">Player::ResetInstances()</a>, and <a class="el" href="../../#l02321">Group::ResetInstances()</a>.</p>
-
-</div>
-</div>
-<a id="afe47ec184ab41772b446a6bfb338796f" name="afe47ec184ab41772b446a6bfb338796f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afe47ec184ab41772b446a6bfb338796f">&#9670;&#160;</a></span>GetCompletedEncounterMask()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> InstanceSave::GetCompletedEncounterMask </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   72</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d7/db3/a10043.html#afe1d6c463ee67c999066116837641324">m_completedEncounterMask</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00100">m_completedEncounterMask</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00180">MapInstanced::CreateInstance()</a>.</p>
-
-</div>
-</div>
-<a id="a94577295c43dc90262381beff84f5f91" name="a94577295c43dc90262381beff84f5f91"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a94577295c43dc90262381beff84f5f91">&#9670;&#160;</a></span>GetDifficulty()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d3/d85/a02813.html#a39d5903d54e674f4f2e824581ade546b">Difficulty</a> InstanceSave::GetDifficulty </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   64</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d7/db3/a10043.html#aa9742adc281c69f28651e9c64541f820">m_difficulty</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00097">m_difficulty</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l02050">InstanceMap::AddPlayerToMap()</a>, <a class="el" href="../../#l00201">GetResetTimeForDB()</a>, <a class="el" href="../../#l00053">WorldSession::HandleCalendarGetCalendar()</a>, <a class="el" href="../../#l00057">instance_commandscript::HandleInstanceListBindsCommand()</a>, <a class="el" href="../../#l00084">instance_commandscript::HandleInstanceUnbindCommand()</a>, <a class="el" href="../../#l00166">InsertToDB()</a>, <a class="el" href="../../#l00515">InstanceSaveMgr::MergeWithNewInstanceSaves()</a>, <a class="el" href="../../#l02252">InstanceMap::PermBindAllPlayers()</a>, <a class="el" href="../../#l00792">InstanceSaveMgr::PlayerBindToInstance()</a>, <a class="el" href="../../#l00814">WorldSession::SendCalendarRaidLockout()</a>, <a class="el" href="../../#l00833">WorldSession::SendCalendarRaidLockoutUpdated()</a>, <a class="el" href="../../#l06666">Player::SendRaidInfo()</a>, and <a class="el" href="../../#l00991">InstanceSaveMgr::UnbindAllFor()</a>.</p>
-
-</div>
-</div>
-<a id="a2da6c5ed63b57f6449de44461c05582b" name="a2da6c5ed63b57f6449de44461c05582b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2da6c5ed63b57f6449de44461c05582b">&#9670;&#160;</a></span>GetExtendedResetTime()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">time_t InstanceSave::GetExtendedResetTime </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   77</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d7/db3/a10043.html#af5ac89030cb727a6c05f1fb07a8a8c49">m_extendedResetTime</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00094">m_extendedResetTime</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00053">WorldSession::HandleCalendarGetCalendar()</a>, <a class="el" href="../../#l00057">instance_commandscript::HandleInstanceListBindsCommand()</a>, <a class="el" href="../../#l00084">instance_commandscript::HandleInstanceUnbindCommand()</a>, <a class="el" href="../../#l00833">WorldSession::SendCalendarRaidLockoutUpdated()</a>, <a class="el" href="../../#l11965">Player::SendInstanceResetWarning()</a>, and <a class="el" href="../../#l06666">Player::SendRaidInfo()</a>.</p>
-
-</div>
-</div>
-<a id="a0785f4ba4011ef735d10e80ff05b0cf7" name="a0785f4ba4011ef735d10e80ff05b0cf7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0785f4ba4011ef735d10e80ff05b0cf7">&#9670;&#160;</a></span>GetInstanceData()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::string InstanceSave::GetInstanceData </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   70</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d7/db3/a10043.html#a89c8afd883451f16ce6423eb18fcc6be">m_instanceData</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00099">m_instanceData</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00180">MapInstanced::CreateInstance()</a>.</p>
-
-</div>
-</div>
-<a id="a7def734d9c4698457fa4f631e30fa9db" name="a7def734d9c4698457fa4f631e30fa9db"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7def734d9c4698457fa4f631e30fa9db">&#9670;&#160;</a></span>GetInstanceId()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> InstanceSave::GetInstanceId </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   62</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d7/db3/a10043.html#a6057e679b99516575a2e5cab8d75b8a1">m_instanceid</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00095">m_instanceid</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l02395">Group::_cancelHomebindIfInstance()</a>, <a class="el" href="../../#l02050">InstanceMap::AddPlayerToMap()</a>, <a class="el" href="../../#l00120">InstanceSaveMgr::DeleteInstanceSaveIfNeeded()</a>, <a class="el" href="../../#l00053">WorldSession::HandleCalendarGetCalendar()</a>, <a class="el" href="../../#l00057">instance_commandscript::HandleInstanceListBindsCommand()</a>, <a class="el" href="../../#l00084">instance_commandscript::HandleInstanceUnbindCommand()</a>, <a class="el" href="../../#l00786">WorldSession::HandleSetSavedInstanceExtend()</a>, <a class="el" href="../../#l00409">InstanceSaveMgr::LoadCharacterBinds()</a>, <a class="el" href="../../#l04990">Player::LoadFromDB()</a>, <a class="el" href="../../#l00515">InstanceSaveMgr::MergeWithNewInstanceSaves()</a>, <a class="el" href="../../#l00792">InstanceSaveMgr::PlayerBindToInstance()</a>, <a class="el" href="../../#l00960">InstanceSaveMgr::PlayerGetDestinationInstanceId()</a>, <a class="el" href="../../#l00193">Player::ResetInstances()</a>, <a class="el" href="../../#l02321">Group::ResetInstances()</a>, <a class="el" href="../../#l00814">WorldSession::SendCalendarRaidLockout()</a>, and <a class="el" href="../../#l06666">Player::SendRaidInfo()</a>.</p>
-
-</div>
-</div>
-<a id="a5e52665f53db7ed2e185920c22c584a2" name="a5e52665f53db7ed2e185920c22c584a2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5e52665f53db7ed2e185920c22c584a2">&#9670;&#160;</a></span>GetMapEntry()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../dc/de1/a29331.html">MapEntry</a> const  * InstanceSave::GetMapEntry </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  218</span>{</div>
-<div class="line"><span class="lineno">  219</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d6/d0d/a01091.html#acbe166cef01fbaa320231e8ef42b25c6">sMapStore</a>.LookupEntry(<a class="code hl_variable" href="../../d7/db3/a10043.html#a86fe576f6d1aaf3084ff03054977ecc9">m_mapid</a>);</div>
-<div class="line"><span class="lineno">  220</span>}</div>
-<div class="ttc" id="aa01091_html_acbe166cef01fbaa320231e8ef42b25c6"><div class="ttname"><a href="../../d6/d0d/a01091.html#acbe166cef01fbaa320231e8ef42b25c6">sMapStore</a></div><div class="ttdeci">DBCStorage&lt; MapEntry &gt; sMapStore(MapEntryfmt)</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00096">m_mapid</a>, and <a class="el" href="../../d6/d0d/a01091.html#acbe166cef01fbaa320231e8ef42b25c6">sMapStore</a>.</p>
-
-</div>
-</div>
-<a id="a92ce355e9be7f83d53307b6dcd354c5d" name="a92ce355e9be7f83d53307b6dcd354c5d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a92ce355e9be7f83d53307b6dcd354c5d">&#9670;&#160;</a></span>GetMapId()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> InstanceSave::GetMapId </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   63</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d7/db3/a10043.html#a86fe576f6d1aaf3084ff03054977ecc9">m_mapid</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00096">m_mapid</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l02050">InstanceMap::AddPlayerToMap()</a>, <a class="el" href="../../#l00120">InstanceSaveMgr::DeleteInstanceSaveIfNeeded()</a>, <a class="el" href="../../#l00201">GetResetTimeForDB()</a>, <a class="el" href="../../#l00053">WorldSession::HandleCalendarGetCalendar()</a>, <a class="el" href="../../#l00166">InsertToDB()</a>, <a class="el" href="../../#l00515">InstanceSaveMgr::MergeWithNewInstanceSaves()</a>, <a class="el" href="../../#l02252">InstanceMap::PermBindAllPlayers()</a>, <a class="el" href="../../#l00792">InstanceSaveMgr::PlayerBindToInstance()</a>, <a class="el" href="../../#l00193">Player::ResetInstances()</a>, <a class="el" href="../../#l02321">Group::ResetInstances()</a>, <a class="el" href="../../#l00814">WorldSession::SendCalendarRaidLockout()</a>, <a class="el" href="../../#l00833">WorldSession::SendCalendarRaidLockoutUpdated()</a>, <a class="el" href="../../#l06666">Player::SendRaidInfo()</a>, and <a class="el" href="../../#l00991">InstanceSaveMgr::UnbindAllFor()</a>.</p>
-
-</div>
-</div>
-<a id="af5f5969ae2d4730af0c9ad7ea7f5a8ac" name="af5f5969ae2d4730af0c9ad7ea7f5a8ac"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af5f5969ae2d4730af0c9ad7ea7f5a8ac">&#9670;&#160;</a></span>GetResetTime()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">time_t InstanceSave::GetResetTime </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   76</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d7/db3/a10043.html#ad4bc4189529fe75acac192e3682154e4">m_resetTime</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00093">m_resetTime</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00201">GetResetTimeForDB()</a>, <a class="el" href="../../#l00053">WorldSession::HandleCalendarGetCalendar()</a>, <a class="el" href="../../#l00057">instance_commandscript::HandleInstanceListBindsCommand()</a>, <a class="el" href="../../#l00084">instance_commandscript::HandleInstanceUnbindCommand()</a>, <a class="el" href="../../#l00814">WorldSession::SendCalendarRaidLockout()</a>, <a class="el" href="../../#l00833">WorldSession::SendCalendarRaidLockoutUpdated()</a>, <a class="el" href="../../#l11965">Player::SendInstanceResetWarning()</a>, and <a class="el" href="../../#l06666">Player::SendRaidInfo()</a>.</p>
-
-</div>
-</div>
-<a id="a78a9d21a1a7711c6eeefc6567dd30106" name="a78a9d21a1a7711c6eeefc6567dd30106"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a78a9d21a1a7711c6eeefc6567dd30106">&#9670;&#160;</a></span>GetResetTimeForDB()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">time_t InstanceSave::GetResetTimeForDB </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  202</span>{</div>
-<div class="line"><span class="lineno">  203</span>    <span class="comment">// only save the reset time for normal instances</span></div>
-<div class="line"><span class="lineno">  204</span>    <a class="code hl_struct" href="../../dc/de1/a29331.html">MapEntry</a> <span class="keyword">const</span>* entry = <a class="code hl_variable" href="../../d6/d0d/a01091.html#acbe166cef01fbaa320231e8ef42b25c6">sMapStore</a>.LookupEntry(<a class="code hl_function" href="../../d7/db3/a10043.html#a92ce355e9be7f83d53307b6dcd354c5d">GetMapId</a>());</div>
-<div class="line"><span class="lineno">  205</span>    <span class="keywordflow">if</span> (!entry || entry-&gt;<a class="code hl_variable" href="../../dc/de1/a29331.html#adc919dc1d095da8c0f1624abfcca2cf6">map_type</a> == <a class="code hl_enumvalue" href="../../d3/d85/a02813.html#a28c252fd678ff644cdad7b1b835f24c9ae33c109f713bf214b65d889e5d7fd2fe">MAP_RAID</a> || <a class="code hl_function" href="../../d7/db3/a10043.html#a94577295c43dc90262381beff84f5f91">GetDifficulty</a>() == <a class="code hl_enumvalue" href="../../d3/d85/a02813.html#a39d5903d54e674f4f2e824581ade546ba8e5e0567af94d14d53209944fd9136ff">DUNGEON_DIFFICULTY_HEROIC</a>)</div>
-<div class="line"><span class="lineno">  206</span>        <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno">  207</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  208</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../d7/db3/a10043.html#af5f5969ae2d4730af0c9ad7ea7f5a8ac">GetResetTime</a>();</div>
-<div class="line"><span class="lineno">  209</span>}</div>
-<div class="ttc" id="aa02813_html_a28c252fd678ff644cdad7b1b835f24c9ae33c109f713bf214b65d889e5d7fd2fe"><div class="ttname"><a href="../../d3/d85/a02813.html#a28c252fd678ff644cdad7b1b835f24c9ae33c109f713bf214b65d889e5d7fd2fe">MAP_RAID</a></div><div class="ttdeci">@ MAP_RAID</div><div class="ttdef"><b>Definition:</b> DBCEnums.h:348</div></div>
-<div class="ttc" id="aa02813_html_a39d5903d54e674f4f2e824581ade546ba8e5e0567af94d14d53209944fd9136ff"><div class="ttname"><a href="../../d3/d85/a02813.html#a39d5903d54e674f4f2e824581ade546ba8e5e0567af94d14d53209944fd9136ff">DUNGEON_DIFFICULTY_HEROIC</a></div><div class="ttdeci">@ DUNGEON_DIFFICULTY_HEROIC</div><div class="ttdef"><b>Definition:</b> DBCEnums.h:270</div></div>
-<div class="ttc" id="aa10043_html_a92ce355e9be7f83d53307b6dcd354c5d"><div class="ttname"><a href="../../d7/db3/a10043.html#a92ce355e9be7f83d53307b6dcd354c5d">InstanceSave::GetMapId</a></div><div class="ttdeci">uint32 GetMapId() const</div><div class="ttdef"><b>Definition:</b> InstanceSaveMgr.h:63</div></div>
-<div class="ttc" id="aa10043_html_a94577295c43dc90262381beff84f5f91"><div class="ttname"><a href="../../d7/db3/a10043.html#a94577295c43dc90262381beff84f5f91">InstanceSave::GetDifficulty</a></div><div class="ttdeci">Difficulty GetDifficulty() const</div><div class="ttdef"><b>Definition:</b> InstanceSaveMgr.h:64</div></div>
-<div class="ttc" id="aa10043_html_af5f5969ae2d4730af0c9ad7ea7f5a8ac"><div class="ttname"><a href="../../d7/db3/a10043.html#af5f5969ae2d4730af0c9ad7ea7f5a8ac">InstanceSave::GetResetTime</a></div><div class="ttdeci">time_t GetResetTime() const</div><div class="ttdef"><b>Definition:</b> InstanceSaveMgr.h:76</div></div>
-<div class="ttc" id="aa29331_html"><div class="ttname"><a href="../../dc/de1/a29331.html">MapEntry</a></div><div class="ttdef"><b>Definition:</b> DBCStructure.h:1325</div></div>
-<div class="ttc" id="aa29331_html_adc919dc1d095da8c0f1624abfcca2cf6"><div class="ttname"><a href="../../dc/de1/a29331.html#adc919dc1d095da8c0f1624abfcca2cf6">MapEntry::map_type</a></div><div class="ttdeci">uint32 map_type</div><div class="ttdef"><b>Definition:</b> DBCStructure.h:1328</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00270">DUNGEON_DIFFICULTY_HEROIC</a>, <a class="el" href="../../#l00064">GetDifficulty()</a>, <a class="el" href="../../#l00063">GetMapId()</a>, <a class="el" href="../../#l00076">GetResetTime()</a>, <a class="el" href="../../#l00348">MAP_RAID</a>, <a class="el" href="../../#l01328">MapEntry::map_type</a>, and <a class="el" href="../../d6/d0d/a01091.html#acbe166cef01fbaa320231e8ef42b25c6">sMapStore</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00166">InsertToDB()</a>.</p>
-
-</div>
-</div>
-<a id="a1d01bd891d1885b4efc3a61a937a3d45" name="a1d01bd891d1885b4efc3a61a937a3d45"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1d01bd891d1885b4efc3a61a937a3d45">&#9670;&#160;</a></span>GetTemplate()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../db/d9b/a10247.html">InstanceTemplate</a> const  * InstanceSave::GetTemplate </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  213</span>{</div>
-<div class="line"><span class="lineno">  214</span>    <span class="keywordflow">return</span> <a class="code hl_define" href="../../d9/d4f/a02366.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetInstanceTemplate(<a class="code hl_variable" href="../../d7/db3/a10043.html#a86fe576f6d1aaf3084ff03054977ecc9">m_mapid</a>);</div>
-<div class="line"><span class="lineno">  215</span>}</div>
-<div class="ttc" id="aa02366_html_a736e30da2b5261060ac6cdbb5de3b787"><div class="ttname"><a href="../../d9/d4f/a02366.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a></div><div class="ttdeci">#define sObjectMgr</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:1730</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00096">m_mapid</a>, and <a class="el" href="../../#l01730">sObjectMgr</a>.</p>
-
-</div>
-</div>
-<a id="a94ad997458e97d7b7548ccbd88f3ac63" name="a94ad997458e97d7b7548ccbd88f3ac63"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a94ad997458e97d7b7548ccbd88f3ac63">&#9670;&#160;</a></span>InsertToDB()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void InstanceSave::InsertToDB </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  167</span>{</div>
-<div class="line"><span class="lineno">  168</span>    <span class="keywordflow">if</span> (<a class="code hl_define" href="../../d4/d5d/a01202.html#a269ff175e81e59511267ed3605cb45cb">sToCloud9Sidecar</a>-&gt;ClusterModeEnabled() &amp;&amp; !<a class="code hl_define" href="../../d4/d5d/a01202.html#a269ff175e81e59511267ed3605cb45cb">sToCloud9Sidecar</a>-&gt;IsMapAssigned(<a class="code hl_function" href="../../d7/db3/a10043.html#a92ce355e9be7f83d53307b6dcd354c5d">GetMapId</a>()))</div>
-<div class="line"><span class="lineno">  169</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  170</span> </div>
-<div class="line"><span class="lineno">  171</span>    std::string data;</div>
-<div class="line"><span class="lineno">  172</span>    <a class="code hl_typedef" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> completedEncounters = 0;</div>
-<div class="line"><span class="lineno">  173</span> </div>
-<div class="line"><span class="lineno">  174</span>    <a class="code hl_class" href="../../d6/d49/a10255.html">Map</a>* map = <a class="code hl_define" href="../../d2/d41/a01037.html#a9132749f8376c48b0ca7212eb3293905">sMapMgr</a>-&gt;FindMap(<a class="code hl_function" href="../../d7/db3/a10043.html#a92ce355e9be7f83d53307b6dcd354c5d">GetMapId</a>(), <a class="code hl_variable" href="../../d7/db3/a10043.html#a6057e679b99516575a2e5cab8d75b8a1">m_instanceid</a>);</div>
-<div class="line"><span class="lineno">  175</span>    <span class="keywordflow">if</span> (map)</div>
-<div class="line"><span class="lineno">  176</span>    {</div>
-<div class="line"><span class="lineno">  177</span>        <a class="code hl_define" href="../../db/d10/a00350.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(map-&gt;<a class="code hl_function" href="../../d6/d49/a10255.html#a0c80d50b012dc8d560e256201970f3b3">IsDungeon</a>());</div>
-<div class="line"><span class="lineno">  178</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../dd/d50/a10099.html">InstanceScript</a>* instanceScript = map-&gt;<a class="code hl_function" href="../../d6/d49/a10255.html#aca5af60e4ebade05b3673dd341eafd4f">ToInstanceMap</a>()-&gt;<a class="code hl_function" href="../../db/d17/a10263.html#adb854ceb3abc3e768ad6b8ce66703314">GetInstanceScript</a>())</div>
-<div class="line"><span class="lineno">  179</span>        {</div>
-<div class="line"><span class="lineno">  180</span>            data = instanceScript-&gt;GetSaveData();</div>
-<div class="line"><span class="lineno">  181</span>            completedEncounters = instanceScript-&gt;GetCompletedEncounterMask();</div>
-<div class="line"><span class="lineno">  182</span> </div>
-<div class="line"><span class="lineno">  183</span>            <span class="comment">// pussywizard:</span></div>
-<div class="line"><span class="lineno">  184</span>            <a class="code hl_function" href="../../d7/db3/a10043.html#af3834730980e93d2617c92229220c739">SetInstanceData</a>(data);</div>
-<div class="line"><span class="lineno">  185</span>            <a class="code hl_function" href="../../d7/db3/a10043.html#afe42a43cecab75523b5f92340c5ef827">SetCompletedEncounterMask</a>(completedEncounters);</div>
-<div class="line"><span class="lineno">  186</span>        }</div>
-<div class="line"><span class="lineno">  187</span>    }</div>
-<div class="line"><span class="lineno">  188</span> </div>
-<div class="line"><span class="lineno">  189</span>    <a class="code hl_class" href="../../d7/d20/a06067.html">CharacterDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d4/d34/a04979.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../db/de9/a04955.html#a76116b4fa282d8e35bf8f8e940b5cba7a4cf872a07776f267c8ccf99d70064df6">CHAR_INS_INSTANCE_SAVE</a>);</div>
-<div class="line"><span class="lineno">  190</span>    stmt-&gt;<a class="code hl_function" href="../../d9/d57/a06199.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, <a class="code hl_variable" href="../../d7/db3/a10043.html#a6057e679b99516575a2e5cab8d75b8a1">m_instanceid</a>);</div>
-<div class="line"><span class="lineno">  191</span>    stmt-&gt;<a class="code hl_function" href="../../d9/d57/a06199.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(1, <a class="code hl_function" href="../../d7/db3/a10043.html#a92ce355e9be7f83d53307b6dcd354c5d">GetMapId</a>());</div>
-<div class="line"><span class="lineno">  192</span>    stmt-&gt;<a class="code hl_function" href="../../d9/d57/a06199.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(2, <a class="code hl_typedef" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(<a class="code hl_function" href="../../d7/db3/a10043.html#a78a9d21a1a7711c6eeefc6567dd30106">GetResetTimeForDB</a>()));</div>
-<div class="line"><span class="lineno">  193</span>    stmt-&gt;<a class="code hl_function" href="../../d9/d57/a06199.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(3, <a class="code hl_typedef" href="../../d8/ddd/a00380.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>(<a class="code hl_function" href="../../d7/db3/a10043.html#a94577295c43dc90262381beff84f5f91">GetDifficulty</a>()));</div>
-<div class="line"><span class="lineno">  194</span>    stmt-&gt;<a class="code hl_function" href="../../d9/d57/a06199.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(4, completedEncounters);</div>
-<div class="line"><span class="lineno">  195</span>    stmt-&gt;<a class="code hl_function" href="../../d9/d57/a06199.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(5, data);</div>
-<div class="line"><span class="lineno">  196</span>    <a class="code hl_variable" href="../../d4/d34/a04979.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Execute(stmt);</div>
-<div class="line"><span class="lineno">  197</span> </div>
-<div class="line"><span class="lineno">  198</span>    <a class="code hl_define" href="../../d1/dc4/a02042.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a>-&gt;OnInstanceSave(<span class="keyword">this</span>);</div>
-<div class="line"><span class="lineno">  199</span>}</div>
-<div class="ttc" id="aa00380_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d8/ddd/a00380.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
-<div class="ttc" id="aa00380_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
-<div class="ttc" id="aa01037_html_a9132749f8376c48b0ca7212eb3293905"><div class="ttname"><a href="../../d2/d41/a01037.html#a9132749f8376c48b0ca7212eb3293905">sMapMgr</a></div><div class="ttdeci">#define sMapMgr</div><div class="ttdef"><b>Definition:</b> MapMgr.h:220</div></div>
-<div class="ttc" id="aa01202_html_a269ff175e81e59511267ed3605cb45cb"><div class="ttname"><a href="../../d4/d5d/a01202.html#a269ff175e81e59511267ed3605cb45cb">sToCloud9Sidecar</a></div><div class="ttdeci">#define sToCloud9Sidecar</div><div class="ttdef"><b>Definition:</b> TC9Sidecar.h:81</div></div>
-<div class="ttc" id="aa04955_html_a76116b4fa282d8e35bf8f8e940b5cba7a4cf872a07776f267c8ccf99d70064df6"><div class="ttname"><a href="../../db/de9/a04955.html#a76116b4fa282d8e35bf8f8e940b5cba7a4cf872a07776f267c8ccf99d70064df6">CHAR_INS_INSTANCE_SAVE</a></div><div class="ttdeci">@ CHAR_INS_INSTANCE_SAVE</div><div class="ttdef"><b>Definition:</b> CharacterDatabase.h:212</div></div>
-<div class="ttc" id="aa04979_html_a7e7534bc66d79434bd280b77cb124eec"><div class="ttname"><a href="../../d4/d34/a04979.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; CharacterDatabaseConnection &gt; CharacterDatabase</div><div class="ttdoc">Accessor to the character database.</div><div class="ttdef"><b>Definition:</b> DatabaseEnv.cpp:21</div></div>
-<div class="ttc" id="aa06067_html"><div class="ttname"><a href="../../d7/d20/a06067.html">PreparedStatement</a></div><div class="ttdef"><b>Definition:</b> PreparedStatement.h:157</div></div>
-<div class="ttc" id="aa06199_html_a52fc2e65042c1db51f0923725a0f0ed0"><div class="ttname"><a href="../../d9/d57/a06199.html#a52fc2e65042c1db51f0923725a0f0ed0">PreparedStatementBase::SetData</a></div><div class="ttdeci">Acore::Types::is_default&lt; T &gt; SetData(const uint8 index, T value)</div><div class="ttdef"><b>Definition:</b> PreparedStatement.h:77</div></div>
-<div class="ttc" id="aa10043_html_a78a9d21a1a7711c6eeefc6567dd30106"><div class="ttname"><a href="../../d7/db3/a10043.html#a78a9d21a1a7711c6eeefc6567dd30106">InstanceSave::GetResetTimeForDB</a></div><div class="ttdeci">time_t GetResetTimeForDB()</div><div class="ttdef"><b>Definition:</b> InstanceSaveMgr.cpp:201</div></div>
-<div class="ttc" id="aa10043_html_af3834730980e93d2617c92229220c739"><div class="ttname"><a href="../../d7/db3/a10043.html#af3834730980e93d2617c92229220c739">InstanceSave::SetInstanceData</a></div><div class="ttdeci">void SetInstanceData(std::string str)</div><div class="ttdef"><b>Definition:</b> InstanceSaveMgr.h:71</div></div>
-<div class="ttc" id="aa10043_html_afe42a43cecab75523b5f92340c5ef827"><div class="ttname"><a href="../../d7/db3/a10043.html#afe42a43cecab75523b5f92340c5ef827">InstanceSave::SetCompletedEncounterMask</a></div><div class="ttdeci">void SetCompletedEncounterMask(uint32 mask)</div><div class="ttdef"><b>Definition:</b> InstanceSaveMgr.h:73</div></div>
-<div class="ttc" id="aa10099_html"><div class="ttname"><a href="../../dd/d50/a10099.html">InstanceScript</a></div><div class="ttdef"><b>Definition:</b> InstanceScript.h:143</div></div>
-<div class="ttc" id="aa10255_html"><div class="ttname"><a href="../../d6/d49/a10255.html">Map</a></div><div class="ttdef"><b>Definition:</b> Map.h:168</div></div>
-<div class="ttc" id="aa10255_html_a0c80d50b012dc8d560e256201970f3b3"><div class="ttname"><a href="../../d6/d49/a10255.html#a0c80d50b012dc8d560e256201970f3b3">Map::IsDungeon</a></div><div class="ttdeci">bool IsDungeon() const</div><div class="ttdef"><b>Definition:</b> Map.h:299</div></div>
-<div class="ttc" id="aa10255_html_aca5af60e4ebade05b3673dd341eafd4f"><div class="ttname"><a href="../../d6/d49/a10255.html#aca5af60e4ebade05b3673dd341eafd4f">Map::ToInstanceMap</a></div><div class="ttdeci">InstanceMap * ToInstanceMap()</div><div class="ttdef"><b>Definition:</b> Map.h:390</div></div>
-<div class="ttc" id="aa10263_html_adb854ceb3abc3e768ad6b8ce66703314"><div class="ttname"><a href="../../db/d17/a10263.html#adb854ceb3abc3e768ad6b8ce66703314">InstanceMap::GetInstanceScript</a></div><div class="ttdeci">InstanceScript * GetInstanceScript()</div><div class="ttdef"><b>Definition:</b> Map.h:736</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00212">CHAR_INS_INSTANCE_SAVE</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00064">GetDifficulty()</a>, <a class="el" href="../../#l00736">InstanceMap::GetInstanceScript()</a>, <a class="el" href="../../#l00063">GetMapId()</a>, <a class="el" href="../../#l00201">GetResetTimeForDB()</a>, <a class="el" href="../../#l00299">Map::IsDungeon()</a>, <a class="el" href="../../#l00095">m_instanceid</a>, <a class="el" href="../../#l00073">SetCompletedEncounterMask()</a>, <a class="el" href="../../#l00077">PreparedStatementBase::SetData()</a>, <a class="el" href="../../#l00071">SetInstanceData()</a>, <a class="el" href="../../#l00220">sMapMgr</a>, <a class="el" href="../../#l00744">sScriptMgr</a>, <a class="el" href="../../#l00081">sToCloud9Sidecar</a>, and <a class="el" href="../../#l00390">Map::ToInstanceMap()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00067">InstanceSaveMgr::AddInstanceSave()</a>.</p>
-
-</div>
-</div>
-<a id="ad67626787ecea8c4b5e54e205c069261" name="ad67626787ecea8c4b5e54e205c069261"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad67626787ecea8c4b5e54e205c069261">&#9670;&#160;</a></span>RemovePlayer()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool InstanceSave::RemovePlayer </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d1/d28/a08831.html">ObjectGuid</a>&#160;</td>
-          <td class="paramname"><em>guid</em>, </td>
+          <td class="paramtype"><a class="el" href="../../de/d69/a04679.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
+          <td class="paramname"><em>ranks</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d3/dab/a10059.html">InstanceSaveMgr</a> *&#160;</td>
-          <td class="paramname"><em>ism</em>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d3/dd5/a00215.html#a96bac9a371212c6bab7a9448214666c0">CharacterDatabaseTransaction</a>&#160;</td>
+          <td class="paramname"><em>trans</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>logOnCreate</em> = <code>false</code>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -724,34 +315,51 @@ Friends</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  229</span>{</div>
-<div class="line"><span class="lineno">  230</span>    <span class="keywordtype">bool</span> deleteSave = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  231</span>    {</div>
-<div class="line"><span class="lineno">  232</span>        std::lock_guard lg(<a class="code hl_variable" href="../../d7/db3/a10043.html#a0e4cc72ed74b163f7c1a8dde39dd01f3">_lock</a>);</div>
-<div class="line"><span class="lineno">  233</span>        <a class="code hl_variable" href="../../d7/db3/a10043.html#a90d9cedcf9b9e25c638fea6268d70bc4">m_playerList</a>.remove(guid);</div>
-<div class="line"><span class="lineno">  234</span> </div>
-<div class="line"><span class="lineno">  235</span>        <span class="comment">// ism passed as an argument to avoid calling via singleton (might result in a deadlock)</span></div>
-<div class="line"><span class="lineno">  236</span>        deleteSave = ism-&gt;<a class="code hl_function" href="../../d3/dab/a10059.html#a98d82f31b5853af7a2cb7fd819275f1c">DeleteInstanceSaveIfNeeded</a>(<span class="keyword">this</span>, <span class="keyword">false</span>, <span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">  237</span>    }</div>
-<div class="line"><span class="lineno">  238</span> </div>
-<div class="line"><span class="lineno">  239</span>    <span class="comment">// Delete save now (avoid mutex memory corruption)</span></div>
-<div class="line"><span class="lineno">  240</span>    <span class="keywordflow">if</span> (deleteSave)</div>
-<div class="line"><span class="lineno">  241</span>    {</div>
-<div class="line"><span class="lineno">  242</span>        <span class="keyword">delete</span> <span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">  243</span>    }</div>
-<div class="line"><span class="lineno">  244</span> </div>
-<div class="line"><span class="lineno">  245</span>    <span class="keywordflow">return</span> deleteSave;</div>
-<div class="line"><span class="lineno">  246</span>}</div>
-<div class="ttc" id="aa10059_html_a98d82f31b5853af7a2cb7fd819275f1c"><div class="ttname"><a href="../../d3/dab/a10059.html#a98d82f31b5853af7a2cb7fd819275f1c">InstanceSaveMgr::DeleteInstanceSaveIfNeeded</a></div><div class="ttdeci">bool DeleteInstanceSaveIfNeeded(uint32 InstanceId, bool skipMapCheck)</div><div class="ttdef"><b>Definition:</b> InstanceSaveMgr.cpp:115</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  288</span>{</div>
+<div class="line"><span class="lineno">  289</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../de/d69/a04679.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; tabs; ++i)</div>
+<div class="line"><span class="lineno">  290</span>    {</div>
+<div class="line"><span class="lineno">  291</span>        <a class="code hl_class" href="../../d4/db5/a10015.html">GuildBankRightsAndSlots</a>&amp; rightsAndSlots = <a class="code hl_variable" href="../../d7/db3/a10043.html#aeb209d1e53f55b5b48bcd00979014eb8">m_bankTabRightsAndSlots</a>[i];</div>
+<div class="line"><span class="lineno">  292</span>        <span class="keywordflow">if</span> (rightsAndSlots.<a class="code hl_function" href="../../d4/db5/a10015.html#a6ba7c49480a1c5325d3702fb61d397cc">GetTabId</a>() == i)</div>
+<div class="line"><span class="lineno">  293</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  294</span> </div>
+<div class="line"><span class="lineno">  295</span>        rightsAndSlots.<a class="code hl_function" href="../../d4/db5/a10015.html#abe84f6bcdfd48d70b894470d025f3aae">SetTabId</a>(i);</div>
+<div class="line"><span class="lineno">  296</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/db3/a10043.html#ad7ff7ee31212be87b5cb580edef3cc16">m_rankId</a> == <a class="code hl_enumvalue" href="../../de/d46/a01967.html#a6534fcf172d7fbe4a762e0479601acd4a349203b98139f80965ab3d7e3379c36d">GR_GUILDMASTER</a>)</div>
+<div class="line"><span class="lineno">  297</span>            rightsAndSlots.<a class="code hl_function" href="../../d4/db5/a10015.html#a1399f191b3b0a44dc1e76fc49adc1412">SetGuildMasterValues</a>();</div>
+<div class="line"><span class="lineno">  298</span> </div>
+<div class="line"><span class="lineno">  299</span>        <span class="keywordflow">if</span> (logOnCreate)</div>
+<div class="line"><span class="lineno">  300</span>            <a class="code hl_define" href="../../dd/dcf/a04913.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;guild&quot;</span>, <span class="stringliteral">&quot;Guild {} has broken Tab {} for rank {}. Created default tab.&quot;</span>, <a class="code hl_variable" href="../../d7/db3/a10043.html#a86f162bdf86255f89666e20f44d114a0">m_guildId</a>, i, <a class="code hl_variable" href="../../d7/db3/a10043.html#ad7ff7ee31212be87b5cb580edef3cc16">m_rankId</a>);</div>
+<div class="line"><span class="lineno">  301</span> </div>
+<div class="line"><span class="lineno">  302</span>        <a class="code hl_class" href="../../df/d93/a06099.html">CharacterDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d9/d39/a00257.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../d6/d82/a00293.html#a76116b4fa282d8e35bf8f8e940b5cba7afe7f92f2a88eca3936c823baae7e0b02">CHAR_INS_GUILD_BANK_RIGHT</a>);</div>
+<div class="line"><span class="lineno">  303</span>        stmt-&gt;<a class="code hl_function" href="../../d8/de8/a06243.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, <a class="code hl_variable" href="../../d7/db3/a10043.html#a86f162bdf86255f89666e20f44d114a0">m_guildId</a>);</div>
+<div class="line"><span class="lineno">  304</span>        stmt-&gt;<a class="code hl_function" href="../../d8/de8/a06243.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(1, i);</div>
+<div class="line"><span class="lineno">  305</span>        stmt-&gt;<a class="code hl_function" href="../../d8/de8/a06243.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(2, <a class="code hl_variable" href="../../d7/db3/a10043.html#ad7ff7ee31212be87b5cb580edef3cc16">m_rankId</a>);</div>
+<div class="line"><span class="lineno">  306</span>        stmt-&gt;<a class="code hl_function" href="../../d8/de8/a06243.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(3, rightsAndSlots.<a class="code hl_function" href="../../d4/db5/a10015.html#a19b76bebdb62434191189ba789c2810f">GetRights</a>());</div>
+<div class="line"><span class="lineno">  307</span>        stmt-&gt;<a class="code hl_function" href="../../d8/de8/a06243.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(4, rightsAndSlots.<a class="code hl_function" href="../../d4/db5/a10015.html#a51780060b5699bed6b78cc9ba4e95371">GetSlots</a>());</div>
+<div class="line"><span class="lineno">  308</span>        trans-&gt;Append(stmt);</div>
+<div class="line"><span class="lineno">  309</span>    }</div>
+<div class="line"><span class="lineno">  310</span>}</div>
+<div class="ttc" id="aa00257_html_a7e7534bc66d79434bd280b77cb124eec"><div class="ttname"><a href="../../d9/d39/a00257.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; CharacterDatabaseConnection &gt; CharacterDatabase</div><div class="ttdoc">Accessor to the character database.</div><div class="ttdef"><b>Definition:</b> DatabaseEnv.cpp:21</div></div>
+<div class="ttc" id="aa00293_html_a76116b4fa282d8e35bf8f8e940b5cba7afe7f92f2a88eca3936c823baae7e0b02"><div class="ttname"><a href="../../d6/d82/a00293.html#a76116b4fa282d8e35bf8f8e940b5cba7afe7f92f2a88eca3936c823baae7e0b02">CHAR_INS_GUILD_BANK_RIGHT</a></div><div class="ttdeci">@ CHAR_INS_GUILD_BANK_RIGHT</div><div class="ttdef"><b>Definition:</b> CharacterDatabase.h:157</div></div>
+<div class="ttc" id="aa04679_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../de/d69/a04679.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
+<div class="ttc" id="aa04913_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../dd/dcf/a04913.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:145</div></div>
+<div class="ttc" id="aa06099_html"><div class="ttname"><a href="../../df/d93/a06099.html">PreparedStatement</a></div><div class="ttdef"><b>Definition:</b> PreparedStatement.h:157</div></div>
+<div class="ttc" id="aa06243_html_a52fc2e65042c1db51f0923725a0f0ed0"><div class="ttname"><a href="../../d8/de8/a06243.html#a52fc2e65042c1db51f0923725a0f0ed0">PreparedStatementBase::SetData</a></div><div class="ttdeci">Acore::Types::is_default&lt; T &gt; SetData(const uint8 index, T value)</div><div class="ttdef"><b>Definition:</b> PreparedStatement.h:77</div></div>
+<div class="ttc" id="aa10015_html"><div class="ttname"><a href="../../d4/db5/a10015.html">GuildBankRightsAndSlots</a></div><div class="ttdef"><b>Definition:</b> Guild.h:263</div></div>
+<div class="ttc" id="aa10015_html_a1399f191b3b0a44dc1e76fc49adc1412"><div class="ttname"><a href="../../d4/db5/a10015.html#a1399f191b3b0a44dc1e76fc49adc1412">GuildBankRightsAndSlots::SetGuildMasterValues</a></div><div class="ttdeci">void SetGuildMasterValues()</div><div class="ttdef"><b>Definition:</b> Guild.h:269</div></div>
+<div class="ttc" id="aa10015_html_a19b76bebdb62434191189ba789c2810f"><div class="ttname"><a href="../../d4/db5/a10015.html#a19b76bebdb62434191189ba789c2810f">GuildBankRightsAndSlots::GetRights</a></div><div class="ttdeci">uint8 GetRights() const</div><div class="ttdef"><b>Definition:</b> Guild.h:281</div></div>
+<div class="ttc" id="aa10015_html_a51780060b5699bed6b78cc9ba4e95371"><div class="ttname"><a href="../../d4/db5/a10015.html#a51780060b5699bed6b78cc9ba4e95371">GuildBankRightsAndSlots::GetSlots</a></div><div class="ttdeci">uint32 GetSlots() const</div><div class="ttdef"><b>Definition:</b> Guild.h:280</div></div>
+<div class="ttc" id="aa10015_html_a6ba7c49480a1c5325d3702fb61d397cc"><div class="ttname"><a href="../../d4/db5/a10015.html#a6ba7c49480a1c5325d3702fb61d397cc">GuildBankRightsAndSlots::GetTabId</a></div><div class="ttdeci">uint8 GetTabId() const</div><div class="ttdef"><b>Definition:</b> Guild.h:279</div></div>
+<div class="ttc" id="aa10015_html_abe84f6bcdfd48d70b894470d025f3aae"><div class="ttname"><a href="../../d4/db5/a10015.html#abe84f6bcdfd48d70b894470d025f3aae">GuildBankRightsAndSlots::SetTabId</a></div><div class="ttdeci">void SetTabId(uint8 _tabId)</div><div class="ttdef"><b>Definition:</b> Guild.h:275</div></div>
+<div class="ttc" id="aa10043_html_aeb209d1e53f55b5b48bcd00979014eb8"><div class="ttname"><a href="../../d7/db3/a10043.html#aeb209d1e53f55b5b48bcd00979014eb8">Guild::RankInfo::m_bankTabRightsAndSlots</a></div><div class="ttdeci">std::array&lt; GuildBankRightsAndSlots, GUILD_BANK_MAX_TABS &gt; m_bankTabRightsAndSlots</div><div class="ttdef"><b>Definition:</b> Guild.h:553</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00102">_lock</a>, <a class="el" href="../../#l00115">InstanceSaveMgr::DeleteInstanceSaveIfNeeded()</a>, and <a class="el" href="../../#l00092">m_playerList</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00157">CHAR_INS_GUILD_BANK_RIGHT</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00281">GuildBankRightsAndSlots::GetRights()</a>, <a class="el" href="../../#l00280">GuildBankRightsAndSlots::GetSlots()</a>, <a class="el" href="../../#l00279">GuildBankRightsAndSlots::GetTabId()</a>, <a class="el" href="../../#l00065">GR_GUILDMASTER</a>, <a class="el" href="../../#l00145">LOG_ERROR</a>, <a class="el" href="../../#l00077">PreparedStatementBase::SetData()</a>, <a class="el" href="../../#l00269">GuildBankRightsAndSlots::SetGuildMasterValues()</a>, and <a class="el" href="../../#l00275">GuildBankRightsAndSlots::SetTabId()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00409">InstanceSaveMgr::LoadCharacterBinds()</a>, <a class="el" href="../../#l00515">InstanceSaveMgr::MergeWithNewInstanceSaves()</a>, <a class="el" href="../../#l00792">InstanceSaveMgr::PlayerBindToInstance()</a>, <a class="el" href="../../#l00867">InstanceSaveMgr::PlayerUnbindInstance()</a>, and <a class="el" href="../../#l00890">InstanceSaveMgr::PlayerUnbindInstanceNotExtended()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02449">Guild::_CreateRank()</a>, and <a class="el" href="../../#l02069">Guild::Validate()</a>.</p>
 
 </div>
 </div>
-<a id="a748d1f886e92a5c48af561198f8b0d96" name="a748d1f886e92a5c48af561198f8b0d96"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a748d1f886e92a5c48af561198f8b0d96">&#9670;&#160;</a></span>SetCanReset()</h2>
+<a id="adb568b8ad70d0b42d834af5e2bf528d2" name="adb568b8ad70d0b42d834af5e2bf528d2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adb568b8ad70d0b42d834af5e2bf528d2">&#9670;&#160;</a></span>GetBankMoneyPerDay()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -760,175 +368,394 @@ Friends</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void InstanceSave::SetCanReset </td>
+          <td class="memname"><a class="el" href="../../de/d69/a04679.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> Guild::RankInfo::GetBankMoneyPerDay </td>
           <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  529</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d7/db3/a10043.html#a715985e1b8e8e2aa2d0b48877ae37e8f">m_bankMoneyPerDay</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00552">m_bankMoneyPerDay</a>.</p>
+
+</div>
+</div>
+<a id="a5be65cec8e2e82c027ef4062ea63c1f1" name="a5be65cec8e2e82c027ef4062ea63c1f1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5be65cec8e2e82c027ef4062ea63c1f1">&#9670;&#160;</a></span>GetBankTabRights()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../de/d69/a04679.html#a3bb8a71f4ae9af551f71e9eb2c9c3325">int8</a> Guild::RankInfo::GetBankTabRights </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../de/d69/a04679.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
+          <td class="paramname"><em>tabId</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  534</span>        {</div>
+<div class="line"><span class="lineno">  535</span>            <span class="keywordflow">return</span> tabId &lt; <a class="code hl_enumvalue" href="../../de/d46/a01967.html#a06a462b77a279ae7e2e901b2a8b42fbaadf100aec6c7a6f10b7af8629930feff7">GUILD_BANK_MAX_TABS</a> ? <a class="code hl_variable" href="../../d7/db3/a10043.html#aeb209d1e53f55b5b48bcd00979014eb8">m_bankTabRightsAndSlots</a>[tabId].GetRights() : 0;</div>
+<div class="line"><span class="lineno">  536</span>        }</div>
+<div class="ttc" id="aa01967_html_a06a462b77a279ae7e2e901b2a8b42fbaadf100aec6c7a6f10b7af8629930feff7"><div class="ttname"><a href="../../de/d46/a01967.html#a06a462b77a279ae7e2e901b2a8b42fbaadf100aec6c7a6f10b7af8629930feff7">GUILD_BANK_MAX_TABS</a></div><div class="ttdeci">@ GUILD_BANK_MAX_TABS</div><div class="ttdef"><b>Definition:</b> Guild.h:42</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00042">GUILD_BANK_MAX_TABS</a>, and <a class="el" href="../../#l00553">m_bankTabRightsAndSlots</a>.</p>
+
+</div>
+</div>
+<a id="a7cc652b0170a7f786a5a0263b4251d2d" name="a7cc652b0170a7f786a5a0263b4251d2d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7cc652b0170a7f786a5a0263b4251d2d">&#9670;&#160;</a></span>GetBankTabSlotsPerDay()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../de/d69/a04679.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> Guild::RankInfo::GetBankTabSlotsPerDay </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../de/d69/a04679.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
+          <td class="paramname"><em>tabId</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  539</span>        {</div>
+<div class="line"><span class="lineno">  540</span>            <span class="keywordflow">return</span> tabId &lt; <a class="code hl_enumvalue" href="../../de/d46/a01967.html#a06a462b77a279ae7e2e901b2a8b42fbaadf100aec6c7a6f10b7af8629930feff7">GUILD_BANK_MAX_TABS</a> ? <a class="code hl_variable" href="../../d7/db3/a10043.html#aeb209d1e53f55b5b48bcd00979014eb8">m_bankTabRightsAndSlots</a>[tabId].GetSlots() : 0;</div>
+<div class="line"><span class="lineno">  541</span>        }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00042">GUILD_BANK_MAX_TABS</a>, and <a class="el" href="../../#l00553">m_bankTabRightsAndSlots</a>.</p>
+
+</div>
+</div>
+<a id="a1a99822f0c886d59ac57b6eb73ff2b42" name="a1a99822f0c886d59ac57b6eb73ff2b42"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1a99822f0c886d59ac57b6eb73ff2b42">&#9670;&#160;</a></span>GetId()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../de/d69/a04679.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> Guild::RankInfo::GetId </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  521</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d7/db3/a10043.html#ad7ff7ee31212be87b5cb580edef3cc16">m_rankId</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00549">m_rankId</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l02069">Guild::Validate()</a>.</p>
+
+</div>
+</div>
+<a id="a3cfcabc23d610dd6130333edcd482485" name="a3cfcabc23d610dd6130333edcd482485"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3cfcabc23d610dd6130333edcd482485">&#9670;&#160;</a></span>GetName()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string const  &amp; Guild::RankInfo::GetName </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  523</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d7/db3/a10043.html#a96281f4a307ca7657a3ba9f04c9331c3">m_name</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00550">m_name</a>.</p>
+
+</div>
+</div>
+<a id="a59565228481689cdc073e7120a6de9f3" name="a59565228481689cdc073e7120a6de9f3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a59565228481689cdc073e7120a6de9f3">&#9670;&#160;</a></span>GetRights()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> Guild::RankInfo::GetRights </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  526</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d7/db3/a10043.html#a058febd98eb3d116acbe1bc0d04a983c">m_rights</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00551">m_rights</a>.</p>
+
+</div>
+</div>
+<a id="ae9f8001f2546582256b7d916d4f2b1d6" name="ae9f8001f2546582256b7d916d4f2b1d6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae9f8001f2546582256b7d916d4f2b1d6">&#9670;&#160;</a></span>LoadFromDB()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void Guild::RankInfo::LoadFromDB </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d3/d0b/a06139.html">Field</a> *&#160;</td>
+          <td class="paramname"><em>fields</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  267</span>{</div>
+<div class="line"><span class="lineno">  268</span>    <a class="code hl_variable" href="../../d7/db3/a10043.html#ad7ff7ee31212be87b5cb580edef3cc16">m_rankId</a>            = fields[1].<a class="code hl_function" href="../../d3/d0b/a06139.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../de/d69/a04679.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&gt;();</div>
+<div class="line"><span class="lineno">  269</span>    <a class="code hl_variable" href="../../d7/db3/a10043.html#a96281f4a307ca7657a3ba9f04c9331c3">m_name</a>              = fields[2].<a class="code hl_function" href="../../d3/d0b/a06139.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;std::string&gt;();</div>
+<div class="line"><span class="lineno">  270</span>    <a class="code hl_variable" href="../../d7/db3/a10043.html#a058febd98eb3d116acbe1bc0d04a983c">m_rights</a>            = fields[3].<a class="code hl_function" href="../../d3/d0b/a06139.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">  271</span>    <a class="code hl_variable" href="../../d7/db3/a10043.html#a715985e1b8e8e2aa2d0b48877ae37e8f">m_bankMoneyPerDay</a>   = fields[4].<a class="code hl_function" href="../../d3/d0b/a06139.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">  272</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/db3/a10043.html#ad7ff7ee31212be87b5cb580edef3cc16">m_rankId</a> == <a class="code hl_enumvalue" href="../../de/d46/a01967.html#a6534fcf172d7fbe4a762e0479601acd4a349203b98139f80965ab3d7e3379c36d">GR_GUILDMASTER</a>)                     <span class="comment">// Prevent loss of leader rights</span></div>
+<div class="line"><span class="lineno">  273</span>        <a class="code hl_variable" href="../../d7/db3/a10043.html#a058febd98eb3d116acbe1bc0d04a983c">m_rights</a> |= <a class="code hl_enumvalue" href="../../de/d46/a01967.html#abe65a5c09114479eec37ae55f24aaaa7a4848a44a3683ba2200a6e6844dfcadee">GR_RIGHT_ALL</a>;</div>
+<div class="line"><span class="lineno">  274</span>}</div>
+<div class="ttc" id="aa01967_html_abe65a5c09114479eec37ae55f24aaaa7a4848a44a3683ba2200a6e6844dfcadee"><div class="ttname"><a href="../../de/d46/a01967.html#abe65a5c09114479eec37ae55f24aaaa7a4848a44a3683ba2200a6e6844dfcadee">GR_RIGHT_ALL</a></div><div class="ttdeci">@ GR_RIGHT_ALL</div><div class="ttdef"><b>Definition:</b> Guild.h:94</div></div>
+<div class="ttc" id="aa04679_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa06139_html_aae507d21d3570ffdaf1643ba02946f01"><div class="ttname"><a href="../../d3/d0b/a06139.html#aae507d21d3570ffdaf1643ba02946f01">Field::Get</a></div><div class="ttdeci">std::enable_if_t&lt; std::is_arithmetic_v&lt; T &gt;, T &gt; Get() const</div><div class="ttdef"><b>Definition:</b> Field.h:113</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00113">Field::Get()</a>, <a class="el" href="../../#l00065">GR_GUILDMASTER</a>, <a class="el" href="../../#l00094">GR_RIGHT_ALL</a>, and <a class="el" href="../../#l00784">Guild::m_name</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l01949">Guild::LoadRankFromDB()</a>.</p>
+
+</div>
+</div>
+<a id="a9fb87796b8e18ed9dd2fee53844c243f" name="a9fb87796b8e18ed9dd2fee53844c243f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9fb87796b8e18ed9dd2fee53844c243f">&#9670;&#160;</a></span>SaveToDB()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void Guild::RankInfo::SaveToDB </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d3/dd5/a00215.html#a96bac9a371212c6bab7a9448214666c0">CharacterDatabaseTransaction</a>&#160;</td>
+          <td class="paramname"><em>trans</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  277</span>{</div>
+<div class="line"><span class="lineno">  278</span>    <a class="code hl_class" href="../../df/d93/a06099.html">CharacterDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d9/d39/a00257.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../d6/d82/a00293.html#a76116b4fa282d8e35bf8f8e940b5cba7a68b42c812f5e51e54c33380909a630fa">CHAR_INS_GUILD_RANK</a>);</div>
+<div class="line"><span class="lineno">  279</span>    stmt-&gt;<a class="code hl_function" href="../../d8/de8/a06243.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, <a class="code hl_variable" href="../../d7/db3/a10043.html#a86f162bdf86255f89666e20f44d114a0">m_guildId</a>);</div>
+<div class="line"><span class="lineno">  280</span>    stmt-&gt;<a class="code hl_function" href="../../d8/de8/a06243.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a> (1, <a class="code hl_variable" href="../../d7/db3/a10043.html#ad7ff7ee31212be87b5cb580edef3cc16">m_rankId</a>);</div>
+<div class="line"><span class="lineno">  281</span>    stmt-&gt;<a class="code hl_function" href="../../d8/de8/a06243.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(2, <a class="code hl_variable" href="../../d7/db3/a10043.html#a96281f4a307ca7657a3ba9f04c9331c3">m_name</a>);</div>
+<div class="line"><span class="lineno">  282</span>    stmt-&gt;<a class="code hl_function" href="../../d8/de8/a06243.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(3, <a class="code hl_variable" href="../../d7/db3/a10043.html#a058febd98eb3d116acbe1bc0d04a983c">m_rights</a>);</div>
+<div class="line"><span class="lineno">  283</span>    stmt-&gt;<a class="code hl_function" href="../../d8/de8/a06243.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(4, <a class="code hl_variable" href="../../d7/db3/a10043.html#a715985e1b8e8e2aa2d0b48877ae37e8f">m_bankMoneyPerDay</a>);</div>
+<div class="line"><span class="lineno">  284</span>    <a class="code hl_variable" href="../../d9/d39/a00257.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.ExecuteOrAppend(trans, stmt);</div>
+<div class="line"><span class="lineno">  285</span>}</div>
+<div class="ttc" id="aa00293_html_a76116b4fa282d8e35bf8f8e940b5cba7a68b42c812f5e51e54c33380909a630fa"><div class="ttname"><a href="../../d6/d82/a00293.html#a76116b4fa282d8e35bf8f8e940b5cba7a68b42c812f5e51e54c33380909a630fa">CHAR_INS_GUILD_RANK</a></div><div class="ttdeci">@ CHAR_INS_GUILD_RANK</div><div class="ttdef"><b>Definition:</b> CharacterDatabase.h:148</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00148">CHAR_INS_GUILD_RANK</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00784">Guild::m_name</a>, and <a class="el" href="../../#l00077">PreparedStatementBase::SetData()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l02449">Guild::_CreateRank()</a>.</p>
+
+</div>
+</div>
+<a id="a1c553e020fe7d79564ddfc3aa74bbfae" name="a1c553e020fe7d79564ddfc3aa74bbfae"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1c553e020fe7d79564ddfc3aa74bbfae">&#9670;&#160;</a></span>SetBankMoneyPerDay()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void Guild::RankInfo::SetBankMoneyPerDay </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>money</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  344</span>{</div>
+<div class="line"><span class="lineno">  345</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/db3/a10043.html#ad7ff7ee31212be87b5cb580edef3cc16">m_rankId</a> == <a class="code hl_enumvalue" href="../../de/d46/a01967.html#a6534fcf172d7fbe4a762e0479601acd4a349203b98139f80965ab3d7e3379c36d">GR_GUILDMASTER</a>)                     <span class="comment">// Prevent loss of leader rights</span></div>
+<div class="line"><span class="lineno">  346</span>        money = <a class="code hl_typedef" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(<a class="code hl_enumvalue" href="../../de/d46/a01967.html#a06a462b77a279ae7e2e901b2a8b42fbaa970809f1c7ca4e40033d20bd598adaa1">GUILD_WITHDRAW_MONEY_UNLIMITED</a>);</div>
+<div class="line"><span class="lineno">  347</span> </div>
+<div class="line"><span class="lineno">  348</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/db3/a10043.html#a715985e1b8e8e2aa2d0b48877ae37e8f">m_bankMoneyPerDay</a> == money)</div>
+<div class="line"><span class="lineno">  349</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  350</span> </div>
+<div class="line"><span class="lineno">  351</span>    <a class="code hl_variable" href="../../d7/db3/a10043.html#a715985e1b8e8e2aa2d0b48877ae37e8f">m_bankMoneyPerDay</a> = money;</div>
+<div class="line"><span class="lineno">  352</span> </div>
+<div class="line"><span class="lineno">  353</span>    <a class="code hl_class" href="../../df/d93/a06099.html">CharacterDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d9/d39/a00257.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../d6/d82/a00293.html#a76116b4fa282d8e35bf8f8e940b5cba7a701bce839c2f405c942c6484ebf46832">CHAR_UPD_GUILD_RANK_BANK_MONEY</a>);</div>
+<div class="line"><span class="lineno">  354</span>    stmt-&gt;<a class="code hl_function" href="../../d8/de8/a06243.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, money);</div>
+<div class="line"><span class="lineno">  355</span>    stmt-&gt;<a class="code hl_function" href="../../d8/de8/a06243.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a> (1, <a class="code hl_variable" href="../../d7/db3/a10043.html#ad7ff7ee31212be87b5cb580edef3cc16">m_rankId</a>);</div>
+<div class="line"><span class="lineno">  356</span>    stmt-&gt;<a class="code hl_function" href="../../d8/de8/a06243.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(2, <a class="code hl_variable" href="../../d7/db3/a10043.html#a86f162bdf86255f89666e20f44d114a0">m_guildId</a>);</div>
+<div class="line"><span class="lineno">  357</span>    <a class="code hl_variable" href="../../d9/d39/a00257.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Execute(stmt);</div>
+<div class="line"><span class="lineno">  358</span>}</div>
+<div class="ttc" id="aa00293_html_a76116b4fa282d8e35bf8f8e940b5cba7a701bce839c2f405c942c6484ebf46832"><div class="ttname"><a href="../../d6/d82/a00293.html#a76116b4fa282d8e35bf8f8e940b5cba7a701bce839c2f405c942c6484ebf46832">CHAR_UPD_GUILD_RANK_BANK_MONEY</a></div><div class="ttdeci">@ CHAR_UPD_GUILD_RANK_BANK_MONEY</div><div class="ttdef"><b>Definition:</b> CharacterDatabase.h:178</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00178">CHAR_UPD_GUILD_RANK_BANK_MONEY</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00065">GR_GUILDMASTER</a>, <a class="el" href="../../#l00048">GUILD_WITHDRAW_MONEY_UNLIMITED</a>, and <a class="el" href="../../#l00077">PreparedStatementBase::SetData()</a>.</p>
+
+</div>
+</div>
+<a id="a9f1c622c8af7a8f7f9af027eb01b9dc6" name="a9f1c622c8af7a8f7f9af027eb01b9dc6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9f1c622c8af7a8f7f9af027eb01b9dc6">&#9670;&#160;</a></span>SetBankTabSlotsAndRights()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void Guild::RankInfo::SetBankTabSlotsAndRights </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d4/db5/a10015.html">GuildBankRightsAndSlots</a>&#160;</td>
+          <td class="paramname"><em>rightsAndSlots</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
           <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>canReset</em></td><td>)</td>
+          <td class="paramname"><em>saveToDB</em>&#160;</td>
+        </tr>
+        <tr>
           <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   83</span>{ <a class="code hl_variable" href="../../d7/db3/a10043.html#ad04e0c29de666c12fbe18111fca7c645">m_canReset</a> = canReset; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  361</span>{</div>
+<div class="line"><span class="lineno">  362</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/db3/a10043.html#ad7ff7ee31212be87b5cb580edef3cc16">m_rankId</a> == <a class="code hl_enumvalue" href="../../de/d46/a01967.html#a6534fcf172d7fbe4a762e0479601acd4a349203b98139f80965ab3d7e3379c36d">GR_GUILDMASTER</a>)                     <span class="comment">// Prevent loss of leader rights</span></div>
+<div class="line"><span class="lineno">  363</span>        rightsAndSlots.<a class="code hl_function" href="../../d4/db5/a10015.html#a1399f191b3b0a44dc1e76fc49adc1412">SetGuildMasterValues</a>();</div>
+<div class="line"><span class="lineno">  364</span> </div>
+<div class="line"><span class="lineno">  365</span>    <a class="code hl_class" href="../../d4/db5/a10015.html">GuildBankRightsAndSlots</a>&amp; guildBR = <a class="code hl_variable" href="../../d7/db3/a10043.html#aeb209d1e53f55b5b48bcd00979014eb8">m_bankTabRightsAndSlots</a>[rightsAndSlots.<a class="code hl_function" href="../../d4/db5/a10015.html#a6ba7c49480a1c5325d3702fb61d397cc">GetTabId</a>()];</div>
+<div class="line"><span class="lineno">  366</span>    guildBR = rightsAndSlots;</div>
+<div class="line"><span class="lineno">  367</span> </div>
+<div class="line"><span class="lineno">  368</span>    <span class="keywordflow">if</span> (saveToDB)</div>
+<div class="line"><span class="lineno">  369</span>    {</div>
+<div class="line"><span class="lineno">  370</span>        <a class="code hl_class" href="../../df/d93/a06099.html">CharacterDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d9/d39/a00257.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../d6/d82/a00293.html#a76116b4fa282d8e35bf8f8e940b5cba7afe7f92f2a88eca3936c823baae7e0b02">CHAR_INS_GUILD_BANK_RIGHT</a>);</div>
+<div class="line"><span class="lineno">  371</span>        stmt-&gt;<a class="code hl_function" href="../../d8/de8/a06243.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, <a class="code hl_variable" href="../../d7/db3/a10043.html#a86f162bdf86255f89666e20f44d114a0">m_guildId</a>);</div>
+<div class="line"><span class="lineno">  372</span>        stmt-&gt;<a class="code hl_function" href="../../d8/de8/a06243.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a> (1, guildBR.<a class="code hl_function" href="../../d4/db5/a10015.html#a6ba7c49480a1c5325d3702fb61d397cc">GetTabId</a>());</div>
+<div class="line"><span class="lineno">  373</span>        stmt-&gt;<a class="code hl_function" href="../../d8/de8/a06243.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a> (2, <a class="code hl_variable" href="../../d7/db3/a10043.html#ad7ff7ee31212be87b5cb580edef3cc16">m_rankId</a>);</div>
+<div class="line"><span class="lineno">  374</span>        stmt-&gt;<a class="code hl_function" href="../../d8/de8/a06243.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a> (3, guildBR.<a class="code hl_function" href="../../d4/db5/a10015.html#a19b76bebdb62434191189ba789c2810f">GetRights</a>());</div>
+<div class="line"><span class="lineno">  375</span>        stmt-&gt;<a class="code hl_function" href="../../d8/de8/a06243.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(4, guildBR.<a class="code hl_function" href="../../d4/db5/a10015.html#a51780060b5699bed6b78cc9ba4e95371">GetSlots</a>());</div>
+<div class="line"><span class="lineno">  376</span>        <a class="code hl_variable" href="../../d9/d39/a00257.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Execute(stmt);</div>
+<div class="line"><span class="lineno">  377</span>    }</div>
+<div class="line"><span class="lineno">  378</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00098">m_canReset</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00515">InstanceSaveMgr::MergeWithNewInstanceSaves()</a>, and <a class="el" href="../../#l00792">InstanceSaveMgr::PlayerBindToInstance()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00157">CHAR_INS_GUILD_BANK_RIGHT</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00281">GuildBankRightsAndSlots::GetRights()</a>, <a class="el" href="../../#l00280">GuildBankRightsAndSlots::GetSlots()</a>, <a class="el" href="../../#l00279">GuildBankRightsAndSlots::GetTabId()</a>, <a class="el" href="../../#l00065">GR_GUILDMASTER</a>, <a class="el" href="../../#l00077">PreparedStatementBase::SetData()</a>, and <a class="el" href="../../#l00269">GuildBankRightsAndSlots::SetGuildMasterValues()</a>.</p>
 
 </div>
 </div>
-<a id="afe42a43cecab75523b5f92340c5ef827" name="afe42a43cecab75523b5f92340c5ef827"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afe42a43cecab75523b5f92340c5ef827">&#9670;&#160;</a></span>SetCompletedEncounterMask()</h2>
+<a id="a30e276b031dc1e279cfbf38aa1c9b851" name="a30e276b031dc1e279cfbf38aa1c9b851"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a30e276b031dc1e279cfbf38aa1c9b851">&#9670;&#160;</a></span>SetName()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void InstanceSave::SetCompletedEncounterMask </td>
+          <td class="memname">void Guild::RankInfo::SetName </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>mask</em></td><td>)</td>
+          <td class="paramtype">std::string_view&#160;</td>
+          <td class="paramname"><em>name</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   73</span>{ <a class="code hl_variable" href="../../d7/db3/a10043.html#afe1d6c463ee67c999066116837641324">m_completedEncounterMask</a> = mask; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  313</span>{</div>
+<div class="line"><span class="lineno">  314</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/db3/a10043.html#a96281f4a307ca7657a3ba9f04c9331c3">m_name</a> == name)</div>
+<div class="line"><span class="lineno">  315</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  316</span> </div>
+<div class="line"><span class="lineno">  317</span>    <a class="code hl_variable" href="../../d7/db3/a10043.html#a96281f4a307ca7657a3ba9f04c9331c3">m_name</a> = name;</div>
+<div class="line"><span class="lineno">  318</span> </div>
+<div class="line"><span class="lineno">  319</span>    <a class="code hl_class" href="../../df/d93/a06099.html">CharacterDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d9/d39/a00257.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../d6/d82/a00293.html#a76116b4fa282d8e35bf8f8e940b5cba7a2f214844fd2c0314d015515e50518f7b">CHAR_UPD_GUILD_RANK_NAME</a>);</div>
+<div class="line"><span class="lineno">  320</span>    stmt-&gt;<a class="code hl_function" href="../../d8/de8/a06243.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, <a class="code hl_variable" href="../../d7/db3/a10043.html#a96281f4a307ca7657a3ba9f04c9331c3">m_name</a>);</div>
+<div class="line"><span class="lineno">  321</span>    stmt-&gt;<a class="code hl_function" href="../../d8/de8/a06243.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a> (1, <a class="code hl_variable" href="../../d7/db3/a10043.html#ad7ff7ee31212be87b5cb580edef3cc16">m_rankId</a>);</div>
+<div class="line"><span class="lineno">  322</span>    stmt-&gt;<a class="code hl_function" href="../../d8/de8/a06243.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(2, <a class="code hl_variable" href="../../d7/db3/a10043.html#a86f162bdf86255f89666e20f44d114a0">m_guildId</a>);</div>
+<div class="line"><span class="lineno">  323</span>    <a class="code hl_variable" href="../../d9/d39/a00257.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Execute(stmt);</div>
+<div class="line"><span class="lineno">  324</span>}</div>
+<div class="ttc" id="aa00293_html_a76116b4fa282d8e35bf8f8e940b5cba7a2f214844fd2c0314d015515e50518f7b"><div class="ttname"><a href="../../d6/d82/a00293.html#a76116b4fa282d8e35bf8f8e940b5cba7a2f214844fd2c0314d015515e50518f7b">CHAR_UPD_GUILD_RANK_NAME</a></div><div class="ttdeci">@ CHAR_UPD_GUILD_RANK_NAME</div><div class="ttdef"><b>Definition:</b> CharacterDatabase.h:172</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00100">m_completedEncounterMask</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00166">InsertToDB()</a>, <a class="el" href="../../#l00378">InstanceSaveMgr::LoadInstanceSaves()</a>, <a class="el" href="../../#l00515">InstanceSaveMgr::MergeWithNewInstanceSaves()</a>, and <a class="el" href="../../#l00756">InstanceScript::SetCompletedEncountersMask()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00172">CHAR_UPD_GUILD_RANK_NAME</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00784">Guild::m_name</a>, and <a class="el" href="../../#l00077">PreparedStatementBase::SetData()</a>.</p>
 
 </div>
 </div>
-<a id="a30fae391561928818b002a29098f141c" name="a30fae391561928818b002a29098f141c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a30fae391561928818b002a29098f141c">&#9670;&#160;</a></span>SetExtendedResetTime()</h2>
+<a id="a8b46f3a8f91cd3a187e00d37a6ddd419" name="a8b46f3a8f91cd3a187e00d37a6ddd419"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8b46f3a8f91cd3a187e00d37a6ddd419">&#9670;&#160;</a></span>SetRights()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void InstanceSave::SetExtendedResetTime </td>
+          <td class="memname">void Guild::RankInfo::SetRights </td>
           <td>(</td>
-          <td class="paramtype">time_t&#160;</td>
-          <td class="paramname"><em>extendedResetTime</em></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>rights</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   80</span>{ <a class="code hl_variable" href="../../d7/db3/a10043.html#af5ac89030cb727a6c05f1fb07a8a8c49">m_extendedResetTime</a> = extendedResetTime; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  327</span>{</div>
+<div class="line"><span class="lineno">  328</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/db3/a10043.html#ad7ff7ee31212be87b5cb580edef3cc16">m_rankId</a> == <a class="code hl_enumvalue" href="../../de/d46/a01967.html#a6534fcf172d7fbe4a762e0479601acd4a349203b98139f80965ab3d7e3379c36d">GR_GUILDMASTER</a>)                     <span class="comment">// Prevent loss of leader rights</span></div>
+<div class="line"><span class="lineno">  329</span>        rights = <a class="code hl_enumvalue" href="../../de/d46/a01967.html#abe65a5c09114479eec37ae55f24aaaa7a4848a44a3683ba2200a6e6844dfcadee">GR_RIGHT_ALL</a>;</div>
+<div class="line"><span class="lineno">  330</span> </div>
+<div class="line"><span class="lineno">  331</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/db3/a10043.html#a058febd98eb3d116acbe1bc0d04a983c">m_rights</a> == rights)</div>
+<div class="line"><span class="lineno">  332</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  333</span> </div>
+<div class="line"><span class="lineno">  334</span>    <a class="code hl_variable" href="../../d7/db3/a10043.html#a058febd98eb3d116acbe1bc0d04a983c">m_rights</a> = rights;</div>
+<div class="line"><span class="lineno">  335</span> </div>
+<div class="line"><span class="lineno">  336</span>    <a class="code hl_class" href="../../df/d93/a06099.html">CharacterDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d9/d39/a00257.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../d6/d82/a00293.html#a76116b4fa282d8e35bf8f8e940b5cba7a8559d9ac84fac32ff03edf6c2dd865a8">CHAR_UPD_GUILD_RANK_RIGHTS</a>);</div>
+<div class="line"><span class="lineno">  337</span>    stmt-&gt;<a class="code hl_function" href="../../d8/de8/a06243.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, <a class="code hl_variable" href="../../d7/db3/a10043.html#a058febd98eb3d116acbe1bc0d04a983c">m_rights</a>);</div>
+<div class="line"><span class="lineno">  338</span>    stmt-&gt;<a class="code hl_function" href="../../d8/de8/a06243.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a> (1, <a class="code hl_variable" href="../../d7/db3/a10043.html#ad7ff7ee31212be87b5cb580edef3cc16">m_rankId</a>);</div>
+<div class="line"><span class="lineno">  339</span>    stmt-&gt;<a class="code hl_function" href="../../d8/de8/a06243.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(2, <a class="code hl_variable" href="../../d7/db3/a10043.html#a86f162bdf86255f89666e20f44d114a0">m_guildId</a>);</div>
+<div class="line"><span class="lineno">  340</span>    <a class="code hl_variable" href="../../d9/d39/a00257.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Execute(stmt);</div>
+<div class="line"><span class="lineno">  341</span>}</div>
+<div class="ttc" id="aa00293_html_a76116b4fa282d8e35bf8f8e940b5cba7a8559d9ac84fac32ff03edf6c2dd865a8"><div class="ttname"><a href="../../d6/d82/a00293.html#a76116b4fa282d8e35bf8f8e940b5cba7a8559d9ac84fac32ff03edf6c2dd865a8">CHAR_UPD_GUILD_RANK_RIGHTS</a></div><div class="ttdeci">@ CHAR_UPD_GUILD_RANK_RIGHTS</div><div class="ttdef"><b>Definition:</b> CharacterDatabase.h:173</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00094">m_extendedResetTime</a>.</p>
-
-</div>
-</div>
-<a id="af3834730980e93d2617c92229220c739" name="af3834730980e93d2617c92229220c739"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af3834730980e93d2617c92229220c739">&#9670;&#160;</a></span>SetInstanceData()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void InstanceSave::SetInstanceData </td>
-          <td>(</td>
-          <td class="paramtype">std::string&#160;</td>
-          <td class="paramname"><em>str</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   71</span>{ <a class="code hl_variable" href="../../d7/db3/a10043.html#a89c8afd883451f16ce6423eb18fcc6be">m_instanceData</a> = str; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00099">m_instanceData</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00166">InsertToDB()</a>, <a class="el" href="../../#l00378">InstanceSaveMgr::LoadInstanceSaves()</a>, <a class="el" href="../../#l00515">InstanceSaveMgr::MergeWithNewInstanceSaves()</a>, and <a class="el" href="../../#l00043">InstanceScript::SaveToDB()</a>.</p>
-
-</div>
-</div>
-<a id="a7d50f44ec594b4f97f8b7e4ddf2b2083" name="a7d50f44ec594b4f97f8b7e4ddf2b2083"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7d50f44ec594b4f97f8b7e4ddf2b2083">&#9670;&#160;</a></span>SetResetTime()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void InstanceSave::SetResetTime </td>
-          <td>(</td>
-          <td class="paramtype">time_t&#160;</td>
-          <td class="paramname"><em>resetTime</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   79</span>{ <a class="code hl_variable" href="../../d7/db3/a10043.html#ad4bc4189529fe75acac192e3682154e4">m_resetTime</a> = resetTime; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00093">m_resetTime</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00378">InstanceSaveMgr::LoadInstanceSaves()</a>, and <a class="el" href="../../#l00515">InstanceSaveMgr::MergeWithNewInstanceSaves()</a>.</p>
-
-</div>
-</div>
-<h2 class="groupheader">Friends And Related Function Documentation</h2>
-<a id="a895f58095a9d9f0ec4cd12e2ae2e8282" name="a895f58095a9d9f0ec4cd12e2ae2e8282"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a895f58095a9d9f0ec4cd12e2ae2e8282">&#9670;&#160;</a></span>InstanceSaveMgr</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">friend class <a class="el" href="../../d3/dab/a10059.html">InstanceSaveMgr</a></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
+<p class="reference">References <a class="el" href="../../#l00173">CHAR_UPD_GUILD_RANK_RIGHTS</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00065">GR_GUILDMASTER</a>, <a class="el" href="../../#l00094">GR_RIGHT_ALL</a>, and <a class="el" href="../../#l00077">PreparedStatementBase::SetData()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a0e4cc72ed74b163f7c1a8dde39dd01f3" name="a0e4cc72ed74b163f7c1a8dde39dd01f3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0e4cc72ed74b163f7c1a8dde39dd01f3">&#9670;&#160;</a></span>_lock</h2>
+<a id="a715985e1b8e8e2aa2d0b48877ae37e8f" name="a715985e1b8e8e2aa2d0b48877ae37e8f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a715985e1b8e8e2aa2d0b48877ae37e8f">&#9670;&#160;</a></span>m_bankMoneyPerDay</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -937,7 +764,7 @@ Friends</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::mutex InstanceSave::_lock</td>
+          <td class="memname"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> Guild::RankInfo::m_bankMoneyPerDay</td>
         </tr>
       </table>
   </td>
@@ -947,12 +774,12 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00222">AddPlayer()</a>, and <a class="el" href="../../#l00228">RemovePlayer()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00529">GetBankMoneyPerDay()</a>.</p>
 
 </div>
 </div>
-<a id="ad04e0c29de666c12fbe18111fca7c645" name="ad04e0c29de666c12fbe18111fca7c645"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad04e0c29de666c12fbe18111fca7c645">&#9670;&#160;</a></span>m_canReset</h2>
+<a id="aeb209d1e53f55b5b48bcd00979014eb8" name="aeb209d1e53f55b5b48bcd00979014eb8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aeb209d1e53f55b5b48bcd00979014eb8">&#9670;&#160;</a></span>m_bankTabRightsAndSlots</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -961,7 +788,7 @@ Friends</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool InstanceSave::m_canReset</td>
+          <td class="memname">std::array&lt;<a class="el" href="../../d4/db5/a10015.html">GuildBankRightsAndSlots</a>, <a class="el" href="../../de/d46/a01967.html#a06a462b77a279ae7e2e901b2a8b42fbaadf100aec6c7a6f10b7af8629930feff7">GUILD_BANK_MAX_TABS</a>&gt; Guild::RankInfo::m_bankTabRightsAndSlots = {}</td>
         </tr>
       </table>
   </td>
@@ -971,12 +798,12 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00082">CanReset()</a>, and <a class="el" href="../../#l00083">SetCanReset()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00533">GetBankTabRights()</a>, and <a class="el" href="../../#l00538">GetBankTabSlotsPerDay()</a>.</p>
 
 </div>
 </div>
-<a id="afe1d6c463ee67c999066116837641324" name="afe1d6c463ee67c999066116837641324"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afe1d6c463ee67c999066116837641324">&#9670;&#160;</a></span>m_completedEncounterMask</h2>
+<a id="a86f162bdf86255f89666e20f44d114a0" name="a86f162bdf86255f89666e20f44d114a0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a86f162bdf86255f89666e20f44d114a0">&#9670;&#160;</a></span>m_guildId</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -985,7 +812,7 @@ Friends</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> InstanceSave::m_completedEncounterMask</td>
+          <td class="memname"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> Guild::RankInfo::m_guildId</td>
         </tr>
       </table>
   </td>
@@ -995,12 +822,10 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00072">GetCompletedEncounterMask()</a>, and <a class="el" href="../../#l00073">SetCompletedEncounterMask()</a>.</p>
-
 </div>
 </div>
-<a id="aa9742adc281c69f28651e9c64541f820" name="aa9742adc281c69f28651e9c64541f820"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa9742adc281c69f28651e9c64541f820">&#9670;&#160;</a></span>m_difficulty</h2>
+<a id="a96281f4a307ca7657a3ba9f04c9331c3" name="a96281f4a307ca7657a3ba9f04c9331c3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a96281f4a307ca7657a3ba9f04c9331c3">&#9670;&#160;</a></span>m_name</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1009,7 +834,7 @@ Friends</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d3/d85/a02813.html#a39d5903d54e674f4f2e824581ade546b">Difficulty</a> InstanceSave::m_difficulty</td>
+          <td class="memname">std::string Guild::RankInfo::m_name</td>
         </tr>
       </table>
   </td>
@@ -1019,12 +844,12 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00064">GetDifficulty()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00523">GetName()</a>.</p>
 
 </div>
 </div>
-<a id="af5ac89030cb727a6c05f1fb07a8a8c49" name="af5ac89030cb727a6c05f1fb07a8a8c49"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af5ac89030cb727a6c05f1fb07a8a8c49">&#9670;&#160;</a></span>m_extendedResetTime</h2>
+<a id="ad7ff7ee31212be87b5cb580edef3cc16" name="ad7ff7ee31212be87b5cb580edef3cc16"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad7ff7ee31212be87b5cb580edef3cc16">&#9670;&#160;</a></span>m_rankId</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1033,7 +858,7 @@ Friends</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">time_t InstanceSave::m_extendedResetTime</td>
+          <td class="memname"><a class="el" href="../../de/d69/a04679.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> Guild::RankInfo::m_rankId</td>
         </tr>
       </table>
   </td>
@@ -1043,12 +868,12 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00077">GetExtendedResetTime()</a>, and <a class="el" href="../../#l00080">SetExtendedResetTime()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00521">GetId()</a>.</p>
 
 </div>
 </div>
-<a id="a89c8afd883451f16ce6423eb18fcc6be" name="a89c8afd883451f16ce6423eb18fcc6be"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a89c8afd883451f16ce6423eb18fcc6be">&#9670;&#160;</a></span>m_instanceData</h2>
+<a id="a058febd98eb3d116acbe1bc0d04a983c" name="a058febd98eb3d116acbe1bc0d04a983c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a058febd98eb3d116acbe1bc0d04a983c">&#9670;&#160;</a></span>m_rights</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1057,7 +882,7 @@ Friends</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::string InstanceSave::m_instanceData</td>
+          <td class="memname"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> Guild::RankInfo::m_rights</td>
         </tr>
       </table>
   </td>
@@ -1067,103 +892,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00070">GetInstanceData()</a>, and <a class="el" href="../../#l00071">SetInstanceData()</a>.</p>
-
-</div>
-</div>
-<a id="a6057e679b99516575a2e5cab8d75b8a1" name="a6057e679b99516575a2e5cab8d75b8a1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6057e679b99516575a2e5cab8d75b8a1">&#9670;&#160;</a></span>m_instanceid</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> InstanceSave::m_instanceid</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00062">GetInstanceId()</a>, and <a class="el" href="../../#l00166">InsertToDB()</a>.</p>
-
-</div>
-</div>
-<a id="a86fe576f6d1aaf3084ff03054977ecc9" name="a86fe576f6d1aaf3084ff03054977ecc9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a86fe576f6d1aaf3084ff03054977ecc9">&#9670;&#160;</a></span>m_mapid</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> InstanceSave::m_mapid</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00217">GetMapEntry()</a>, <a class="el" href="../../#l00063">GetMapId()</a>, and <a class="el" href="../../#l00212">GetTemplate()</a>.</p>
-
-</div>
-</div>
-<a id="a90d9cedcf9b9e25c638fea6268d70bc4" name="a90d9cedcf9b9e25c638fea6268d70bc4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a90d9cedcf9b9e25c638fea6268d70bc4">&#9670;&#160;</a></span>m_playerList</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../de/d2c/a01553.html#a5951d383f157ff0ed6d23ecef2213a4b">GuidList</a> InstanceSave::m_playerList</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00716">InstanceSaveMgr::_ResetOrWarnAll()</a>, <a class="el" href="../../#l00222">AddPlayer()</a>, <a class="el" href="../../#l00120">InstanceSaveMgr::DeleteInstanceSaveIfNeeded()</a>, <a class="el" href="../../#l00515">InstanceSaveMgr::MergeWithNewInstanceSaves()</a>, <a class="el" href="../../#l00228">RemovePlayer()</a>, <a class="el" href="../../#l00991">InstanceSaveMgr::UnbindAllFor()</a>, and <a class="el" href="../../#l00159">~InstanceSave()</a>.</p>
-
-</div>
-</div>
-<a id="ad4bc4189529fe75acac192e3682154e4" name="ad4bc4189529fe75acac192e3682154e4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad4bc4189529fe75acac192e3682154e4">&#9670;&#160;</a></span>m_resetTime</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">time_t InstanceSave::m_resetTime</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00076">GetResetTime()</a>, and <a class="el" href="../../#l00079">SetResetTime()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00526">GetRights()</a>.</p>
 
 </div>
 </div>
@@ -1172,8 +901,8 @@ Friends</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d7/db3/a10043.html">InstanceSave</a></li>
-    <li class="footer">Generated on Tue Sep 1 2026 00:09:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dc/dfd/a10019.html">Guild</a></li><li class="navelem"><a class="el" href="../../d7/db3/a10043.html">RankInfo</a></li>
+    <li class="footer">Generated on Mon Sep 21 2026 23:33:51 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

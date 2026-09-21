@@ -1,7 +1,12 @@
 var a12919 =
 [
-    [ "HandleScript", "d0/d06/a12919.html#ac6ef94a03f602b44a5c7c22b7e41d116", null ],
-    [ "PrepareSpellScript", "d0/d06/a12919.html#ad92a56c23b9f15e36766fe64d1d0dd17", null ],
-    [ "Register", "d0/d06/a12919.html#aa8ad85cbf0403d79e55bbe0ae184407b", null ],
-    [ "Validate", "d0/d06/a12919.html#a3ad038e7bf43dceedb0fceebd4070bfa", null ]
+    [ "boss_the_beast", "d0/d06/a12919.html#ab98bce804078b4184b1bf6e844db9c67", null ],
+    [ "FindNearbyOrcs", "d0/d06/a12919.html#a46da3f960ea3c38791c23a3e282db9c7", null ],
+    [ "JustEngagedWith", "d0/d06/a12919.html#a9740b134ce1b21c42c9082d9fdc97264", null ],
+    [ "Reset", "d0/d06/a12919.html#a7a72f5aeb54fe6de6c71dfac2c906881", null ],
+    [ "SetData", "d0/d06/a12919.html#a8ceb3a1c53c2c5385d4a779b2ac283da", null ],
+    [ "UpdateAI", "d0/d06/a12919.html#ad7db422aefc711b437176b729c6ac151", null ],
+    [ "_beastReached", "d0/d06/a12919.html#a7345b0091bcfd894ce8fdff9431254f6", null ],
+    [ "_nearbyOrcsGUIDs", "d0/d06/a12919.html#a20b867be394f3c5d9bbf851ba724ca3a", null ],
+    [ "_orcYelled", "d0/d06/a12919.html#a7079c59c50343f460e2aac2bcf19709c", null ]
 ];

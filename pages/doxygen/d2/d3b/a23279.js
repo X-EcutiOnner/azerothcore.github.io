@@ -1,6 +1,8 @@
 var a23279 =
 [
-    [ "HandleDummy", "d2/d3b/a23279.html#a3347413822ce083085bcf1418fbdbae2", null ],
-    [ "PrepareSpellScript", "d2/d3b/a23279.html#ad7b15a8c5cf3e2d38a1ce54afb24b3e5", null ],
-    [ "Register", "d2/d3b/a23279.html#af0c8bf6a5076a4171a9d70f6872a21d5", null ]
+    [ "CalculateAmount", "d2/d3b/a23279.html#a13d44c0d5f9b0111ae3b0d3d089e3e13", null ],
+    [ "OnPeriodic", "d2/d3b/a23279.html#ab4d3f69d50fa320886f454ddfe1076f4", null ],
+    [ "PrepareAuraScript", "d2/d3b/a23279.html#a1278420b279449c1c6a53b1a7b53f539", null ],
+    [ "Register", "d2/d3b/a23279.html#a4795011faa2f68b1068d37b81f8c1cf2", null ],
+    [ "Validate", "d2/d3b/a23279.html#a601c2db3a8e47d48b956ed102cbca104", null ]
 ];

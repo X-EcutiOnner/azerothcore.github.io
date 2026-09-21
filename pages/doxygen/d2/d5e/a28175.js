@@ -1,6 +1,5 @@
 var a28175 =
 [
-    [ "npc_spirit_shadeAI", "d4/d82/a28179.html", "d4/d82/a28179" ],
-    [ "npc_spirit_shade", "d2/d5e/a28175.html#a891ede5651789274496d6426daf9937d", null ],
-    [ "GetAI", "d2/d5e/a28175.html#a166f6a9abf7c0e33374c2f998c0524c3", null ]
+    [ "achievement_killed_exp_or_honor_target", "d2/d5e/a28175.html#aad432878c97af698dd1cc4019d716281", null ],
+    [ "OnCheck", "d2/d5e/a28175.html#ace8fc68ebb73e39626797be4caa45a3c", null ]
 ];

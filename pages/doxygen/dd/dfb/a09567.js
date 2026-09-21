@@ -1,16 +1,15 @@
 var a09567 =
 [
-    [ "LiquidEntryType", "dd/dfb/a09567.html#a025eadf79f31d447fc80efabbb2f9f22", null ],
-    [ "LiquidFlagsType", "dd/dfb/a09567.html#a5bd1b8c77ed4830cc558985e98aa1d01", null ],
-    [ "LiquidMapType", "dd/dfb/a09567.html#a554cc712f06b4a0eb9bf81c4a41b9030", null ],
-    [ "liquidEntry", "dd/dfb/a09567.html#a1d69fc74b38f6e596704e26e93281314", null ],
-    [ "liquidFlags", "dd/dfb/a09567.html#a9ebf22bb06a9254e7175083dc51af9dd", null ],
-    [ "liquidGlobalEntry", "dd/dfb/a09567.html#a48274eeefa423c48ff860c8ffc110a30", null ],
-    [ "liquidGlobalFlags", "dd/dfb/a09567.html#abdd9bfcaf91f30c3e543e632c347aa88", null ],
-    [ "liquidHeight", "dd/dfb/a09567.html#a40f757a6fa57ade760cf1001925a0560", null ],
-    [ "liquidLevel", "dd/dfb/a09567.html#a45b8bab4cc66e6e5be5ef51ad27bf1cc", null ],
-    [ "liquidMap", "dd/dfb/a09567.html#ae6ddffb70a92aea580bacebb5a0e4d11", null ],
-    [ "liquidOffX", "dd/dfb/a09567.html#a310d68fbb4d88272b7ae93492331ce4b", null ],
-    [ "liquidOffY", "dd/dfb/a09567.html#ae8b485a43a960a810f5951df6419bd54", null ],
-    [ "liquidWidth", "dd/dfb/a09567.html#afee2d2d96fc879729a070d2b5eb114e0", null ]
+    [ "CoordPair", "dd/dfb/a09567.html#a53b5f24cfdf13b246549a0c1543924c9", null ],
+    [ "CoordPair", "dd/dfb/a09567.html#aa3b39d5ce384201907e01f95b6866b6e", null ],
+    [ "dec_x", "dd/dfb/a09567.html#a69be5b72b710722120104f0c502fbb70", null ],
+    [ "dec_y", "dd/dfb/a09567.html#aefa33f8766212bb71e5fd19a318142cc", null ],
+    [ "GetId", "dd/dfb/a09567.html#ae4f7f304faf2c2363cffe2170b4c5c97", null ],
+    [ "inc_x", "dd/dfb/a09567.html#aa6a4942253e87ae57e2d69a2563ddef1", null ],
+    [ "inc_y", "dd/dfb/a09567.html#a120946c5a8c8b49bbdf9a1ee54ded9ec", null ],
+    [ "IsCoordValid", "dd/dfb/a09567.html#a082960c54e2077df370f891c0534b44f", null ],
+    [ "normalize", "dd/dfb/a09567.html#afac8086374bfc499e3a8d74d6afc58db", null ],
+    [ "operator=", "dd/dfb/a09567.html#a68bbf6afd1600e9dd0c31a9c7ff38077", null ],
+    [ "x_coord", "dd/dfb/a09567.html#a101dd71af6a2cba18140aea2e502ef8b", null ],
+    [ "y_coord", "dd/dfb/a09567.html#aacae12844cc0c0d70e26b137ad28f700", null ]
 ];

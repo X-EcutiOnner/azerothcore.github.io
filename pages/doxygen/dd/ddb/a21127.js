@@ -1,6 +1,11 @@
 var a21127 =
 [
-    [ "OnRemove", "dd/ddb/a21127.html#a3cac25c6136b5dce491b24b7fb0ed33a", null ],
-    [ "PrepareAuraScript", "dd/ddb/a21127.html#a2afc759693aa4dfbd0ac33b1b770e995", null ],
-    [ "Register", "dd/ddb/a21127.html#a8fbcf904caf526f37d4a7984791d9fd0", null ]
+    [ "boss_yoggsaron_neltharion", "dd/ddb/a21127.html#ac7ef088876e15e5edc94e4bd92b7f39d", null ],
+    [ "NextStep", "dd/ddb/a21127.html#ac0824d322b7e5825686e8a5c2dd4ec94", null ],
+    [ "Reset", "dd/ddb/a21127.html#ab26d57690c1d2477678dc9759aefeab2", null ],
+    [ "Say", "dd/ddb/a21127.html#a79d315f37b0f0beceddcae85dcb8697f", null ],
+    [ "UpdateAI", "dd/ddb/a21127.html#a3728f095ee83c3ea9063b1679f1b3dc9", null ],
+    [ "_checkTimer", "dd/ddb/a21127.html#a2adcf3f46d4003ae2044eda474e51983", null ],
+    [ "_running", "dd/ddb/a21127.html#acd807afae6aa88c2e385765231a56a86", null ],
+    [ "_step", "dd/ddb/a21127.html#a4e4265f17cbc8cfc3dbe09dca7af7939", null ]
 ];

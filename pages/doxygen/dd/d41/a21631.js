@@ -1,10 +1,7 @@
 var a21631 =
 [
-    [ "npc_imprisoned_beryl_sorcererAI", "dd/d41/a21631.html#a0a8159a84689dbfd8c69ed523ce03817", null ],
-    [ "GotStinged", "dd/d41/a21631.html#a0729c584c3b65e5f25f4445de378f0ea", null ],
-    [ "JustEngagedWith", "dd/d41/a21631.html#a2f3e45b3f762ede62aa94a6ae3f2909f", null ],
-    [ "Reset", "dd/d41/a21631.html#aedc82ee3bfa193a838d5af62533e19b4", null ],
-    [ "SpellHit", "dd/d41/a21631.html#a2010b53b3a8ad1e0aa6ecb5a26c8b6c9", null ],
-    [ "UpdateAI", "dd/d41/a21631.html#a21def23073eeec051c1c97a813e0ea84", null ],
-    [ "rebuff", "dd/d41/a21631.html#ac83c25091fdd3c7876a88927b758261f", null ]
+    [ "npc_azure_invader", "dd/d41/a21631.html#a6b7fcdd4e5166a932e85fcc6ec57d086", null ],
+    [ "Reset", "dd/d41/a21631.html#a51d349d0254f2d5a67f27298952fbb06", null ],
+    [ "UpdateAI", "dd/d41/a21631.html#a6677b18604e15017d15f1d3b0386cfae", null ],
+    [ "_events", "dd/d41/a21631.html#ac178244e22f71a15d7af91946cf961ef", null ]
 ];

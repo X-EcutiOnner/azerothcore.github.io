@@ -1,7 +1,6 @@
 var a18823 =
 [
-    [ "HandleProc", "d2/db0/a18823.html#af06730a865009127c7d3e5423afd4d44", null ],
-    [ "PrepareAuraScript", "d2/db0/a18823.html#a71a81a19a0c543a4aa43d6bf002b7bb9", null ],
-    [ "Register", "d2/db0/a18823.html#a6c97b787ce00491a259c575d26189f8c", null ],
-    [ "Validate", "d2/db0/a18823.html#aed9c98e20d916359629e119d6dd2a94f", null ]
+    [ "npc_valkyr_shadowguardAI", "d7/d02/a18827.html", "d7/d02/a18827" ],
+    [ "npc_valkyr_shadowguard", "d2/db0/a18823.html#a8ee90e21499eebf240c57419454c3829", null ],
+    [ "GetAI", "d2/db0/a18823.html#ad84cb094a17e4fb88d3e883c98ce7f5a", null ]
 ];

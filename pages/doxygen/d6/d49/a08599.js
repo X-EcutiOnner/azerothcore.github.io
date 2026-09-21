@@ -1,6 +1,15 @@
 var a08599 =
 [
-    [ "item_count", "d6/d49/a08599.html#a437fe00f34ad414e3c9f81d01a153d13", null ],
-    [ "setid", "d6/d49/a08599.html#ab8c24b76b1c0eb92c0fe52ca9baf293a", null ],
-    [ "spells", "d6/d49/a08599.html#af8156bad9771ed816fd861d3eb992aaa", null ]
+    [ "Guardian", "d6/d49/a08599.html#a14bd59fddfc552c4a25c6bc4ad714508", null ],
+    [ "GetDebugInfo", "d6/d49/a08599.html#ace47e7d3fb3162786329cbcf1c6cab46", null ],
+    [ "InitStats", "d6/d49/a08599.html#a698ac009e39a2e8461b40135b75609ef", null ],
+    [ "InitStatsForLevel", "d6/d49/a08599.html#a7d0ae55d55f4c3ea35de601c2c6c6e6b", null ],
+    [ "InitSummon", "d6/d49/a08599.html#a1d5ebfa5ac5754293172041dc3a2c47d", null ],
+    [ "UpdateAllStats", "d6/d49/a08599.html#ae2f3d68429afb154f790d65dae6406b3", null ],
+    [ "UpdateArmor", "d6/d49/a08599.html#adc8ed8497f8450ccad92f79322d9f452", null ],
+    [ "UpdateAttackPowerAndDamage", "d6/d49/a08599.html#af40269c3c63fc12b21f18c67ef067a0f", null ],
+    [ "UpdateDamagePhysical", "d6/d49/a08599.html#aa45ffb532a2a8075d8e4acb818c08d70", null ],
+    [ "UpdateMaxHealth", "d6/d49/a08599.html#a62c41f7922bc1c2e1697a1eea65cdb72", null ],
+    [ "UpdateMaxPower", "d6/d49/a08599.html#a620010832de5fc7d6d1a8545321f9dea", null ],
+    [ "UpdateStats", "d6/d49/a08599.html#a6b615ed2f01623991fa45907a09cc642", null ]
 ];

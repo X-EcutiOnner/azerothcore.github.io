@@ -1,8 +1,9 @@
 var a20835 =
 [
-    [ "boss_thorim_pillar", "da/d51/a20835.html#aec2fc6e420499c9ce991753b912bef1e", null ],
-    [ "Reset", "da/d51/a20835.html#aea862be4cb7e7456d7ddfbe4fef81181", null ],
-    [ "SpellHit", "da/d51/a20835.html#ae8b1877ac425c340410c7ca6a05d2d8a", null ],
-    [ "UpdateAI", "da/d51/a20835.html#a3d4b4c2ae9ab4d541510e2026d1500c0", null ],
-    [ "_resetTimer", "da/d51/a20835.html#ac9c8ef8622496593b5f91611d22120b3", null ]
+    [ "npc_expedition_trapper", "da/d51/a20835.html#ac924a9b9e23624de1460b0cdfe8c8a1b", null ],
+    [ "DoAction", "da/d51/a20835.html#a094ecbf1a719223d50c7d070989aa782", null ],
+    [ "MovementInform", "da/d51/a20835.html#ae2a0c15b4a7d59f4222e818d0fcf303b", null ],
+    [ "SetData", "da/d51/a20835.html#a11241b1513209a9964569ab29eb5dc64", null ],
+    [ "UpdateAI", "da/d51/a20835.html#a16a39f855263ebde21ddb03d4fe60460", null ],
+    [ "_idx", "da/d51/a20835.html#ae24ec016a0f29f7bcb41935e1991f9fa", null ]
 ];

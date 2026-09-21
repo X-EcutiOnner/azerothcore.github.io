@@ -1,7 +1,6 @@
 var a19911 =
 [
-    [ "CalcDamage", "db/d7c/a19911.html#abb2bf75cc347597b17ed5e4ccd213132", null ],
-    [ "PrepareSpellScript", "db/d7c/a19911.html#a705a6f0c9b10dc8e7e2e6c091a3ff89c", null ],
-    [ "Register", "db/d7c/a19911.html#a2c2b391b223ab92b6d644b739419a1d3", null ],
-    [ "Validate", "db/d7c/a19911.html#a773c608119a84cc3f02e7b4d786f2741", null ]
+    [ "boss_drakosAI", "d8/dc7/a19915.html", "d8/dc7/a19915" ],
+    [ "boss_drakos", "db/d7c/a19911.html#aa70ae2809af4f24eea0b83b42d695448", null ],
+    [ "GetAI", "db/d7c/a19911.html#a16dcc7f9da254d0bddc19394a1cd4ab0", null ]
 ];

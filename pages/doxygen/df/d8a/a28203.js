@@ -1,5 +1,5 @@
 var a28203 =
 [
-    [ "MarkOfNatureTargetSelector", "df/d8a/a28203.html#ae737da5ff93360fde8c4c818f41d7853", null ],
-    [ "operator()", "df/d8a/a28203.html#a1515fd40dcccaba5947e93eabf241336", null ]
+    [ "AreaTrigger_at_legion_teleporter", "df/d8a/a28203.html#a2b648bd038f41025c19338367c696d25", null ],
+    [ "OnTrigger", "df/d8a/a28203.html#ae8239e5ad56d93627102dbd02989353d", null ]
 ];

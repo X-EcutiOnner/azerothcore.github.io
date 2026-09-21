@@ -1,8 +1,6 @@
 var a13131 =
 [
-    [ "npc_lava_spawn", "d3/df1/a13131.html#aff97441b2cfbcd68e0788be022ee6236", null ],
-    [ "JustEngagedWith", "d3/df1/a13131.html#a3b93df8de3c0f8a50768b860cfa11b72", null ],
-    [ "Reset", "d3/df1/a13131.html#ab774d354991c90b1421e6783c0513e59", null ],
-    [ "UpdateAI", "d3/df1/a13131.html#a6a17c8c40b0110b688ff5faef5585185", null ],
-    [ "_scheduler", "d3/df1/a13131.html#ab7a6b2beec095f3f903ad4443813cfce", null ]
+    [ "boss_lucifron", "d3/df1/a13131.html#a632be7d3aaa9cc2360fce6871918a4b1", null ],
+    [ "ExecuteEvent", "d3/df1/a13131.html#ae392b01817d9160ef0c80387406ad6fa", null ],
+    [ "JustEngagedWith", "d3/df1/a13131.html#a9ebfc9877165aaadd2ea446995f4cf99", null ]
 ];

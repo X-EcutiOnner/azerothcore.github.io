@@ -1,8 +1,16 @@
 var a23535 =
 [
-    [ "npc_underbat", "da/d63/a23535.html#a710a010d3425b7171ee45d8465fd6b2b", null ],
-    [ "JustEngagedWith", "da/d63/a23535.html#ae137b6b763b3df6096c3bfd4dd7ee676", null ],
-    [ "Reset", "da/d63/a23535.html#aae771ad526e8f72a90fe70ebbd91b472", null ],
-    [ "UpdateAI", "da/d63/a23535.html#ab3a9b97543aee3fdf22c17e94f768c0e", null ],
-    [ "_scheduler", "da/d63/a23535.html#a7644a73c2a5bcbbe0a3db5c782169752", null ]
+    [ "instance_the_slave_pens_InstanceMapScript", "da/d63/a23535.html#a70db3eeeb55784250a13032728220005", null ],
+    [ "GetGuidData", "da/d63/a23535.html#a77e77209e779b774608f739b258ae419", null ],
+    [ "OnCreatureCreate", "da/d63/a23535.html#aca6b8148602b8fb95c9a467dc9400b8b", null ],
+    [ "OnGameObjectCreate", "da/d63/a23535.html#a01268ee78431dfe1ed9c4bf960c92b1a", null ],
+    [ "SetGuidData", "da/d63/a23535.html#a21a29973bcf5ef6925239213ce50bab0", null ],
+    [ "AhuneBunnyGUID", "da/d63/a23535.html#ad57cefe116f2da6e7c85f36091fe0e94", null ],
+    [ "AhuneGUID", "da/d63/a23535.html#a8ad4dab281db87bb2d14b925b450f09c", null ],
+    [ "BeamBunnyGUIDs", "da/d63/a23535.html#a09e3d1ca5d040268578fa770b7153a81", null ],
+    [ "BonfireBunnyGUIDs", "da/d63/a23535.html#a9de605ffd8092f83af8df5c1725c5d2b", null ],
+    [ "counter", "da/d63/a23535.html#a4ea85debc35e91668723222e8ea90071", null ],
+    [ "FlameCallerGUIDs", "da/d63/a23535.html#a50af0f1eaaa4e40d729e797212cf3ba0", null ],
+    [ "FrozenCoreGUID", "da/d63/a23535.html#a6ac47d1f3eb4d199afdda9ad2a2cc73e", null ],
+    [ "LumaGUID", "da/d63/a23535.html#a0e9e294b4140dc8b8a5567a54d7b0c42", null ]
 ];

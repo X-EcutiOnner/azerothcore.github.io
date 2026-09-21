@@ -1,8 +1,6 @@
 var a17923 =
 [
-    [ "HandleHit", "dc/d2e/a17923.html#ace9793d64d5378ef33bf30e8d0be8bd6", null ],
-    [ "HandleScript", "dc/d2e/a17923.html#a5fe0b684473bd5dd1ff9b12432ff3de8", null ],
-    [ "Load", "dc/d2e/a17923.html#ab1d81386ae3ccd332c01864d7f456017", null ],
-    [ "PrepareSpellScript", "dc/d2e/a17923.html#ae3ef753ff4c99aa8bed20ce3369a7e0f", null ],
-    [ "Register", "dc/d2e/a17923.html#a7edb44f70501c2e760d29c8f78a4e087", null ]
+    [ "boss_deathbringer_saurfangAI", "d0/da6/a17927.html", "d0/da6/a17927" ],
+    [ "boss_deathbringer_saurfang", "dc/d2e/a17923.html#ad19893be7dc3b4290d9b1ed3bb992e08", null ],
+    [ "GetAI", "dc/d2e/a17923.html#a6bc1ef44b3ea9e860d62bf78cfa38c92", null ]
 ];

@@ -1,20 +1,10 @@
 var a01808 =
 [
-    [ "Corpse", "dc/d6a/a08405.html", "dc/d6a/a08405" ],
-    [ "CORPSE_RECLAIM_RADIUS", "d7/d02/a01808.html#a1cebf109f41dcdac8a90086696642782", null ],
-    [ "MAX_CORPSE_TYPE", "d7/d02/a01808.html#aec0512ffe7d6a8f7dd8330c334bb4fc3", null ],
-    [ "CorpseFlags", "d7/d02/a01808.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537c", [
-      [ "CORPSE_FLAG_NONE", "d7/d02/a01808.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca30260079b14373a47aef21b99e8757a2", null ],
-      [ "CORPSE_FLAG_BONES", "d7/d02/a01808.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca47ec12fa0520573d7d8ff9231ca4eb8b", null ],
-      [ "CORPSE_FLAG_UNK1", "d7/d02/a01808.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca043171119fe69fae07f3668763d40c7c", null ],
-      [ "CORPSE_FLAG_UNK2", "d7/d02/a01808.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca769ec96151b713170c051ee6236bbd5e", null ],
-      [ "CORPSE_FLAG_HIDE_HELM", "d7/d02/a01808.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca830d0cde7665a938cd48d4018ae0df79", null ],
-      [ "CORPSE_FLAG_HIDE_CLOAK", "d7/d02/a01808.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca25bc5b9c02c2cce38be9bb32c2ad335a", null ],
-      [ "CORPSE_FLAG_LOOTABLE", "d7/d02/a01808.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537caeb7f1630dc7c0b062b809e65cd4e5f80", null ]
-    ] ],
-    [ "CorpseType", "d7/d02/a01808.html#a43260eb47484e62a16a868f79646c683", [
-      [ "CORPSE_BONES", "d7/d02/a01808.html#a43260eb47484e62a16a868f79646c683ae7046aabaa7e6f435370eb1c49335356", null ],
-      [ "CORPSE_RESURRECTABLE_PVE", "d7/d02/a01808.html#a43260eb47484e62a16a868f79646c683a79e10cac636d94dc5aa8379ecce5cc78", null ],
-      [ "CORPSE_RESURRECTABLE_PVP", "d7/d02/a01808.html#a43260eb47484e62a16a868f79646c683a90cccb41a96804ac3340b13ff68241ba", null ]
-    ] ]
+    [ "SplineHandler", "de/d26/a09167.html", "de/d26/a09167" ],
+    [ "spellIdImmunityPredicate", "db/d6f/a09171.html", "db/d6f/a09171" ],
+    [ "AuraMunchingQueue", "d4/db5/a09175.html", "d4/db5/a09175" ],
+    [ "ApplyPercentModFloatVar", "d7/d02/a01808.html#adcb1f2b25980bd4c71cb160030213f96", null ],
+    [ "createProcFlags", "d7/d02/a01808.html#a7d920511c20f084098c0f68a75006159", null ],
+    [ "baseMoveSpeed", "d7/d02/a01808.html#a2ede1cce0416c74db2d4599bab36eb57", null ],
+    [ "playerBaseMoveSpeed", "d7/d02/a01808.html#afef08589b9944f10d66bdc1de74d0270", null ]
 ];

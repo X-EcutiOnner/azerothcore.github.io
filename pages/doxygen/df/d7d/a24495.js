@@ -1,10 +1,8 @@
 var a24495 =
 [
-    [ "npc_pet_hunter_snake_trap", "df/d7d/a24495.html#aaf5df574c4ac53661c0bb1968f84c6ea", null ],
-    [ "InitializeAI", "df/d7d/a24495.html#a91931c2ac0fd4981f9bf8a2f8f7db672", null ],
-    [ "JustEngagedWith", "df/d7d/a24495.html#a695af9c49daa05c787dac03c4af91645", null ],
-    [ "MoveInLineOfSight", "df/d7d/a24495.html#a099a34f12399fe24349644da3dafe7a4", null ],
-    [ "UpdateAI", "df/d7d/a24495.html#a41a37efe6d39c6d97b3dcc5fabbcc812", null ],
-    [ "_isViper", "df/d7d/a24495.html#ab49c69ca25014ef63e775b236255e4c1", null ],
-    [ "_spellTimer", "df/d7d/a24495.html#ab9397451e2e8320ca77560a19baeee3f", null ]
+    [ "go_skull_pile", "df/d7d/a24495.html#a9cf8dfef432c4967c60f66e645585770", null ],
+    [ "OnGossipHello", "df/d7d/a24495.html#ac95d39ea03e78fee2a10603d8c7f8840", null ],
+    [ "OnGossipSelect", "df/d7d/a24495.html#afb8e8db2705355e975fa48c98e09f20b", null ],
+    [ "SendActionMenu", "df/d7d/a24495.html#a048dd224b46ead864958ad524d76167f", null ],
+    [ "_result", "df/d7d/a24495.html#af74fcd75404c0886128401d661067394", null ]
 ];

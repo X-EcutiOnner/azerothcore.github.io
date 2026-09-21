@@ -1,7 +1,7 @@
 var a26203 =
 [
-    [ "HandleHeal", "d2/d66/a26203.html#ae24fd6305b5d17c2fbb6f03238b385c6", null ],
-    [ "Load", "d2/d66/a26203.html#a4dd5016439e8798083fe3d4fa5458731", null ],
-    [ "PrepareSpellScript", "d2/d66/a26203.html#a248ae6d2c8f8d6c014a0164105773836", null ],
-    [ "Register", "d2/d66/a26203.html#af2e80d64787ad31e33d0d3c239f62c81", null ]
+    [ "HandleDummy", "d2/d66/a26203.html#a02bb860f6d077d4c295ad8b82179174d", null ],
+    [ "PrepareSpellScript", "d2/d66/a26203.html#ad9eeff5aa428dabff7f2181d2819681d", null ],
+    [ "Register", "d2/d66/a26203.html#a2c699d4d848a01a80143d6fcc01b64a8", null ],
+    [ "Validate", "d2/d66/a26203.html#a9fd765b2c48f11837dbeb4caeedc0ae1", null ]
 ];

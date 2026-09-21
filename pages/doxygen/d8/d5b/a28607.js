@@ -1,14 +1,8 @@
 var a28607 =
 [
-    [ "npc_garments_of_questsAI", "d8/d5b/a28607.html#a079f719ca488ed6fde2783b5db4f328b", null ],
-    [ "JustEngagedWith", "d8/d5b/a28607.html#aa14c07eaaa8d6381e8a821eab7a3d421", null ],
-    [ "Reset", "d8/d5b/a28607.html#aaaaa3e41deae0057bd659be5c579d226", null ],
-    [ "SpellHit", "d8/d5b/a28607.html#ad22195dba70ced744b319bc1ad83c083", null ],
-    [ "UpdateAI", "d8/d5b/a28607.html#aadf1a807ff49bd83eb21fc38fb2ed81c", null ],
-    [ "WaypointReached", "d8/d5b/a28607.html#a9bd63db7774e77ce4af6cfa952bcfa6d", null ],
-    [ "WaypointReached", "d8/d5b/a28607.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "CanRun", "d8/d5b/a28607.html#a93c41781e4cb037b56773bbbf36181b7", null ],
-    [ "CasterGUID", "d8/d5b/a28607.html#ad2656e6a080b6407b57a3a1afeed12a0", null ],
-    [ "IsHealed", "d8/d5b/a28607.html#a96db66704eabf028362d5f8b5c424712", null ],
-    [ "RunAwayTimer", "d8/d5b/a28607.html#ac0a898f8938ea9b3721cc7440fac2da0", null ]
+    [ "npc_franklinAI", "d6/dfb/a28611.html", "d6/dfb/a28611" ],
+    [ "npc_franklin", "d8/d5b/a28607.html#aab059dfa69e52083892e3170c8838e0a", null ],
+    [ "GetAI", "d8/d5b/a28607.html#a10933878afe9d0cc78fa1113341fd522", null ],
+    [ "OnGossipHello", "d8/d5b/a28607.html#a318d512914b135800caabe0efbb1c467", null ],
+    [ "OnGossipSelect", "d8/d5b/a28607.html#a8c37ff7ff15cc9ac49dadabd1650964d", null ]
 ];

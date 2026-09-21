@@ -1,8 +1,6 @@
 var a20111 =
 [
-    [ "HandlePeriodic", "df/d5a/a20111.html#a2724a85983561a14db8b06ae492ead55", null ],
-    [ "OnRemove", "df/d5a/a20111.html#a6d0f941f30d8c850e48396fffd13768d", null ],
-    [ "PrepareAuraScript", "df/d5a/a20111.html#aea9d38dc7fdff6d38d252bb5ded57d78", null ],
-    [ "Register", "df/d5a/a20111.html#a85270947972be9c299a642b31969ef68", null ],
-    [ "Validate", "df/d5a/a20111.html#a91ebb4e69d02deb5129965f543c474d1", null ]
+    [ "boss_sjonnir_dwarfAI", "d6/d64/a20115.html", "d6/d64/a20115" ],
+    [ "boss_sjonnir_dwarf", "df/d5a/a20111.html#a3589ae3bef1bbfe0fc5381e341c0995b", null ],
+    [ "GetAI", "df/d5a/a20111.html#a945d8e753e1a54dc348848b9c2dd6cce", null ]
 ];

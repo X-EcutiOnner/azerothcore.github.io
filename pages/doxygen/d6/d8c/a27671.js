@@ -1,7 +1,7 @@
 var a27671 =
 [
-    [ "HandleBonus", "d6/d8c/a27671.html#a2bf167d8561f2ef36e44fa9754f0d9a3", null ],
-    [ "PrepareAuraScript", "d6/d8c/a27671.html#aebf4afa25b50be9b99900ef830f26f04", null ],
-    [ "Register", "d6/d8c/a27671.html#ad69315b8eca4173a1e0db21cd98e9c3c", null ],
-    [ "Validate", "d6/d8c/a27671.html#aef0e4a0474718f61f89ff4c825923fc1", null ]
+    [ "HandleEffectProc", "d6/d8c/a27671.html#a7f2ddbf54a4932277ad91eb0036915ab", null ],
+    [ "PrepareAuraScript", "d6/d8c/a27671.html#a47d844a9700cd8add793e3f3088d1b82", null ],
+    [ "Register", "d6/d8c/a27671.html#ad40dfc164ab98fc9734e1ed15ea14c17", null ],
+    [ "Validate", "d6/d8c/a27671.html#a97f5239399e7135b02000722eaf837ad", null ]
 ];

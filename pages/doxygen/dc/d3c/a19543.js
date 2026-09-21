@@ -1,15 +1,17 @@
 var a19543 =
 [
-    [ "boss_heigan", "dc/d3c/a19543.html#a402b76bd927dd738bdbdf7faff93394c", null ],
-    [ "CheckSafetyDance", "dc/d3c/a19543.html#a378397cc91408b812c76f657a96285e1", null ],
-    [ "JustDied", "dc/d3c/a19543.html#a259c99e12b92ccb99af16949e37b5c48", null ],
-    [ "JustEngagedWith", "dc/d3c/a19543.html#a55f1fd72fefe1a47cbc9390ad7c2831d", null ],
-    [ "KilledUnit", "dc/d3c/a19543.html#a5210d37ca829ff81ca25478a0c27a8ea", null ],
-    [ "Reset", "dc/d3c/a19543.html#a11035ab423fd556ccdb1ec8f85160df3", null ],
-    [ "StartFightPhase", "dc/d3c/a19543.html#ab1ae2d814f7258aed760a1644d2de69a", null ],
-    [ "UpdateAI", "dc/d3c/a19543.html#a36c0bc5abff61b435f2a8163687b122a", null ],
-    [ "_currentPhase", "dc/d3c/a19543.html#a1065c6221b30536344e7d4d0779abd17", null ],
-    [ "_currentSection", "dc/d3c/a19543.html#adcf2448a0868ea3e900609c8e7e34154", null ],
-    [ "_eruptionScheduler", "dc/d3c/a19543.html#a53ed837f6a898551bc7daa4be8b05ee6", null ],
-    [ "_moveRight", "dc/d3c/a19543.html#a43d360ff1b8e569a5f9f894b456cb751", null ]
+    [ "boss_four_horsemenAI", "dc/d3c/a19543.html#a828a858c3337791bd2acb3d6ba730233", null ],
+    [ "AttackStart", "dc/d3c/a19543.html#aeb7e82fe20d4f6c4c5379c060beee161", null ],
+    [ "EnterEvadeMode", "dc/d3c/a19543.html#a86f458f0413cab4c8129affff1b73a70", null ],
+    [ "JustDied", "dc/d3c/a19543.html#a3ba69ed84d129a1a48952880c77bcf53", null ],
+    [ "JustEngagedWith", "dc/d3c/a19543.html#a17b8ca30ceb0efb87be77f970c526444", null ],
+    [ "KilledUnit", "dc/d3c/a19543.html#a87bdde27a69a020a26da31f01286593a", null ],
+    [ "MovementInform", "dc/d3c/a19543.html#aa900c075c04673341b3100488c45f9e7", null ],
+    [ "MoveToCorner", "dc/d3c/a19543.html#a7891dc79980c67d82867f6181685b359", null ],
+    [ "Reset", "dc/d3c/a19543.html#a8f41a8eadb6b01d32b177640b91d929f", null ],
+    [ "UpdateAI", "dc/d3c/a19543.html#ac3a1f33bf9823e2171180c3311f647f1", null ],
+    [ "currentWaypoint", "dc/d3c/a19543.html#ab3c2643e1b3c58452661255979e67e63", null ],
+    [ "events", "dc/d3c/a19543.html#a5c135d69b30853e2eb8a52a1a5e230f7", null ],
+    [ "horsemanId", "dc/d3c/a19543.html#ab0c4162177096e7bd007996e8677fd8b", null ],
+    [ "movementPhase", "dc/d3c/a19543.html#a09b826c28e9bf6c417a650dfe710a2dd", null ]
 ];

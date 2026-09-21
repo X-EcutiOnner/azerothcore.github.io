@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: DBUpdaterUtil Class Reference</title>
+<title>AzerothCore: ResultIterator&lt; T &gt; Struct Template Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,46 +105,236 @@ $(document).ready(function(){initNavTree('d4/d36/a06279.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
-<a href="#pri-static-methods">Static Private Member Functions</a> &#124;
+<a href="#pub-types">Public Types</a> &#124;
+<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../d2/d3e/a06276.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">DBUpdaterUtil Class Reference</div></div>
+  <div class="headertitle"><div class="title">ResultIterator&lt; T &gt; Struct Template Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">DBUpdater.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">QueryResult.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
-Static Public Member Functions</h2></td></tr>
-<tr class="memitem:a8ab8efffe5408f97f438e06766f65ec9"><td class="memItemLeft" align="right" valign="top">static std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d36/a06279.html#a8ab8efffe5408f97f438e06766f65ec9">GetCorrectedMySQLExecutable</a> ()</td></tr>
-<tr class="separator:a8ab8efffe5408f97f438e06766f65ec9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a65cf44a18a72ba92f91a667e41f9da80"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d36/a06279.html#a65cf44a18a72ba92f91a667e41f9da80">CheckExecutable</a> ()</td></tr>
-<tr class="separator:a65cf44a18a72ba92f91a667e41f9da80"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a99eb37994b14f350308d174d1c04c7fe"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d36/a06279.html#a99eb37994b14f350308d174d1c04c7fe">MarkUpdateFailed</a> ()</td></tr>
-<tr class="separator:a99eb37994b14f350308d174d1c04c7fe"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8653546fe6b32d170da7350700c19613"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d36/a06279.html#a8653546fe6b32d170da7350700c19613">GetFailedUpdateCount</a> ()</td></tr>
-<tr class="separator:a8653546fe6b32d170da7350700c19613"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
+Public Types</h2></td></tr>
+<tr class="memitem:acaafbe30e2be9953852968b633d8237f"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d36/a06279.html#acaafbe30e2be9953852968b633d8237f">iterator_category</a> = std::forward_iterator_tag</td></tr>
+<tr class="separator:acaafbe30e2be9953852968b633d8237f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa5abd2b7fa1dc64ac1eb085521b27d6f"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d36/a06279.html#aa5abd2b7fa1dc64ac1eb085521b27d6f">difference_type</a> = std::ptrdiff_t</td></tr>
+<tr class="separator:aa5abd2b7fa1dc64ac1eb085521b27d6f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa4866b181d8cd3264394657a2dac99a8"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d36/a06279.html#aa4866b181d8cd3264394657a2dac99a8">value_type</a> = T</td></tr>
+<tr class="separator:aa4866b181d8cd3264394657a2dac99a8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a33215a042f7b7ddb243e8434a4c26346"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d36/a06279.html#a33215a042f7b7ddb243e8434a4c26346">pointer</a> = T *</td></tr>
+<tr class="separator:a33215a042f7b7ddb243e8434a4c26346"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5618bd9b42f553be7feaf26fac8fe3ba"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d36/a06279.html#a5618bd9b42f553be7feaf26fac8fe3ba">reference</a> = T &amp;</td></tr>
+<tr class="separator:a5618bd9b42f553be7feaf26fac8fe3ba"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-static-methods" name="pri-static-methods"></a>
-Static Private Member Functions</h2></td></tr>
-<tr class="memitem:a31499b458f0ff0ec518980f51d6a242a"><td class="memItemLeft" align="right" valign="top">static std::string &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d36/a06279.html#a31499b458f0ff0ec518980f51d6a242a">corrected_path</a> ()</td></tr>
-<tr class="separator:a31499b458f0ff0ec518980f51d6a242a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a19ef6f04dc5827b04a8cdcb34329464d"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d36/a06279.html#a19ef6f04dc5827b04a8cdcb34329464d">failed_updates</a> ()</td></tr>
-<tr class="separator:a19ef6f04dc5827b04a8cdcb34329464d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:a0a7d6ac1eee62492330353b15edb4fd0"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d36/a06279.html#a0a7d6ac1eee62492330353b15edb4fd0">ResultIterator</a> (<a class="el" href="../../d4/d36/a06279.html#a33215a042f7b7ddb243e8434a4c26346">pointer</a> ptr)</td></tr>
+<tr class="separator:a0a7d6ac1eee62492330353b15edb4fd0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4c7ba1d0e7251aeab6b255bf1c78defd"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d36/a06279.html#a5618bd9b42f553be7feaf26fac8fe3ba">reference</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d36/a06279.html#a4c7ba1d0e7251aeab6b255bf1c78defd">operator*</a> () const</td></tr>
+<tr class="separator:a4c7ba1d0e7251aeab6b255bf1c78defd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0b6cee284fea4a4023cc688614432b69"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d36/a06279.html#a33215a042f7b7ddb243e8434a4c26346">pointer</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d36/a06279.html#a0b6cee284fea4a4023cc688614432b69">operator-&gt;</a> ()</td></tr>
+<tr class="separator:a0b6cee284fea4a4023cc688614432b69"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae66f3f0e1fd5af21ff0854826fb37075"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d36/a06279.html">ResultIterator</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d36/a06279.html#ae66f3f0e1fd5af21ff0854826fb37075">operator++</a> ()</td></tr>
+<tr class="separator:ae66f3f0e1fd5af21ff0854826fb37075"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad836e2cc7742bdb3b77dc8f6c19c4ad9"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d36/a06279.html#ad836e2cc7742bdb3b77dc8f6c19c4ad9">operator!=</a> (<a class="el" href="../../d4/d36/a06279.html">ResultIterator</a> const &amp;right)</td></tr>
+<tr class="separator:ad836e2cc7742bdb3b77dc8f6c19c4ad9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:a0be3611fcc2a6eb680a6f4aaba57068e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d36/a06279.html#a33215a042f7b7ddb243e8434a4c26346">pointer</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d36/a06279.html#a0be3611fcc2a6eb680a6f4aaba57068e">_ptr</a></td></tr>
+<tr class="separator:a0be3611fcc2a6eb680a6f4aaba57068e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="a65cf44a18a72ba92f91a667e41f9da80" name="a65cf44a18a72ba92f91a667e41f9da80"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a65cf44a18a72ba92f91a667e41f9da80">&#9670;&#160;</a></span>CheckExecutable()</h2>
+<div class="textblock"><div class="compoundTemplParams">template&lt;typename T&gt;<br />
+struct ResultIterator&lt; T &gt;</div></div><h2 class="groupheader">Member Typedef Documentation</h2>
+<a id="aa5abd2b7fa1dc64ac1eb085521b27d6f" name="aa5abd2b7fa1dc64ac1eb085521b27d6f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa5abd2b7fa1dc64ac1eb085521b27d6f">&#9670;&#160;</a></span>difference_type</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="../../d4/d36/a06279.html">ResultIterator</a>&lt; T &gt;::difference_type =  std::ptrdiff_t</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="acaafbe30e2be9953852968b633d8237f" name="acaafbe30e2be9953852968b633d8237f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acaafbe30e2be9953852968b633d8237f">&#9670;&#160;</a></span>iterator_category</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="../../d4/d36/a06279.html">ResultIterator</a>&lt; T &gt;::iterator_category =  std::forward_iterator_tag</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a33215a042f7b7ddb243e8434a4c26346" name="a33215a042f7b7ddb243e8434a4c26346"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a33215a042f7b7ddb243e8434a4c26346">&#9670;&#160;</a></span>pointer</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="../../d4/d36/a06279.html">ResultIterator</a>&lt; T &gt;::pointer =  T*</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a5618bd9b42f553be7feaf26fac8fe3ba" name="a5618bd9b42f553be7feaf26fac8fe3ba"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5618bd9b42f553be7feaf26fac8fe3ba">&#9670;&#160;</a></span>reference</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="../../d4/d36/a06279.html">ResultIterator</a>&lt; T &gt;::reference =  T&amp;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aa4866b181d8cd3264394657a2dac99a8" name="aa4866b181d8cd3264394657a2dac99a8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa4866b181d8cd3264394657a2dac99a8">&#9670;&#160;</a></span>value_type</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="../../d4/d36/a06279.html">ResultIterator</a>&lt; T &gt;::value_type =  T</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a0a7d6ac1eee62492330353b15edb4fd0" name="a0a7d6ac1eee62492330353b15edb4fd0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0a7d6ac1eee62492330353b15edb4fd0">&#9670;&#160;</a></span>ResultIterator()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool DBUpdaterUtil::CheckExecutable </td>
+          <td class="memname"><a class="el" href="../../d4/d36/a06279.html">ResultIterator</a>&lt; T &gt;<a class="el" href="../../d4/d36/a06279.html">::ResultIterator</a> </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d4/d36/a06279.html#a33215a042f7b7ddb243e8434a4c26346">pointer</a>&#160;</td>
+          <td class="paramname"><em>ptr</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">explicit</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   36</span>: <a class="code hl_variable" href="../../d4/d36/a06279.html#a0be3611fcc2a6eb680a6f4aaba57068e">_ptr</a>(ptr) { }</div>
+<div class="ttc" id="aa06279_html_a0be3611fcc2a6eb680a6f4aaba57068e"><div class="ttname"><a href="../../d4/d36/a06279.html#a0be3611fcc2a6eb680a6f4aaba57068e">ResultIterator::_ptr</a></div><div class="ttdeci">pointer _ptr</div><div class="ttdef"><b>Definition:</b> QueryResult.h:45</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="ad836e2cc7742bdb3b77dc8f6c19c4ad9" name="ad836e2cc7742bdb3b77dc8f6c19c4ad9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad836e2cc7742bdb3b77dc8f6c19c4ad9">&#9670;&#160;</a></span>operator!=()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool <a class="el" href="../../d4/d36/a06279.html">ResultIterator</a>&lt; T &gt;::operator!= </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d4/d36/a06279.html">ResultIterator</a>&lt; T &gt; const &amp;&#160;</td>
+          <td class="paramname"><em>right</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   42</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d4/d36/a06279.html#a0be3611fcc2a6eb680a6f4aaba57068e">_ptr</a> != right._ptr; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00045">ResultIterator&lt; T &gt;::_ptr</a>.</p>
+
+</div>
+</div>
+<a id="a4c7ba1d0e7251aeab6b255bf1c78defd" name="a4c7ba1d0e7251aeab6b255bf1c78defd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4c7ba1d0e7251aeab6b255bf1c78defd">&#9670;&#160;</a></span>operator*()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d4/d36/a06279.html#a5618bd9b42f553be7feaf26fac8fe3ba">reference</a> <a class="el" href="../../d4/d36/a06279.html">ResultIterator</a>&lt; T &gt;::operator* </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   38</span>{ <span class="keywordflow">return</span> *<a class="code hl_variable" href="../../d4/d36/a06279.html#a0be3611fcc2a6eb680a6f4aaba57068e">_ptr</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00045">ResultIterator&lt; T &gt;::_ptr</a>.</p>
+
+</div>
+</div>
+<a id="ae66f3f0e1fd5af21ff0854826fb37075" name="ae66f3f0e1fd5af21ff0854826fb37075"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae66f3f0e1fd5af21ff0854826fb37075">&#9670;&#160;</a></span>operator++()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d4/d36/a06279.html">ResultIterator</a> &amp; <a class="el" href="../../d4/d36/a06279.html">ResultIterator</a>&lt; T &gt;::operator++ </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -152,51 +342,29 @@ Static Private Member Functions</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   41</span>{</div>
-<div class="line"><span class="lineno">   42</span>    std::filesystem::path exe(<a class="code hl_function" href="../../d4/d36/a06279.html#a8ab8efffe5408f97f438e06766f65ec9">GetCorrectedMySQLExecutable</a>());</div>
-<div class="line"><span class="lineno">   43</span>    <span class="keywordflow">if</span> (!is_regular_file(exe))</div>
-<div class="line"><span class="lineno">   44</span>    {</div>
-<div class="line"><span class="lineno">   45</span>        exe = <a class="code hl_function" href="../../d3/d82/a05088.html#a9de098dac5e38f8c2cdbeb1d4d706881">Acore::SearchExecutableInPath</a>(<span class="stringliteral">&quot;mysql&quot;</span>);</div>
-<div class="line"><span class="lineno">   46</span>        <span class="keywordflow">if</span> (!exe.empty() &amp;&amp; is_regular_file(exe))</div>
-<div class="line"><span class="lineno">   47</span>        {</div>
-<div class="line"><span class="lineno">   48</span>            <span class="comment">// Correct the path to the cli</span></div>
-<div class="line"><span class="lineno">   49</span>            <a class="code hl_function" href="../../d4/d36/a06279.html#a31499b458f0ff0ec518980f51d6a242a">corrected_path</a>() = absolute(exe).generic_string();</div>
-<div class="line"><span class="lineno">   50</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">   51</span>        }</div>
-<div class="line"><span class="lineno">   52</span> </div>
-<div class="line"><span class="lineno">   53</span>        <a class="code hl_define" href="../../d0/d29/a00470.html#a0e09b50c268dc6897a1c70aa46de936e">LOG_FATAL</a>(<span class="stringliteral">&quot;sql.updates&quot;</span>, <span class="stringliteral">&quot;Didn&#39;t find any executable MySQL binary at \&#39;{}\&#39; or in path, correct the path in the *.conf (\&quot;MySQLExecutable\&quot;).&quot;</span>,</div>
-<div class="line"><span class="lineno">   54</span>            absolute(exe).generic_string());</div>
-<div class="line"><span class="lineno">   55</span> </div>
-<div class="line"><span class="lineno">   56</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   57</span>    }</div>
-<div class="line"><span class="lineno">   58</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">   59</span>}</div>
-<div class="ttc" id="aa00470_html_a0e09b50c268dc6897a1c70aa46de936e"><div class="ttname"><a href="../../d0/d29/a00470.html#a0e09b50c268dc6897a1c70aa46de936e">LOG_FATAL</a></div><div class="ttdeci">#define LOG_FATAL(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:141</div></div>
-<div class="ttc" id="aa05088_html_a9de098dac5e38f8c2cdbeb1d4d706881"><div class="ttname"><a href="../../d3/d82/a05088.html#a9de098dac5e38f8c2cdbeb1d4d706881">Acore::SearchExecutableInPath</a></div><div class="ttdeci">std::string SearchExecutableInPath(std::string const &amp;filename)</div><div class="ttdef"><b>Definition:</b> StartProcess.cpp:280</div></div>
-<div class="ttc" id="aa06279_html_a31499b458f0ff0ec518980f51d6a242a"><div class="ttname"><a href="../../d4/d36/a06279.html#a31499b458f0ff0ec518980f51d6a242a">DBUpdaterUtil::corrected_path</a></div><div class="ttdeci">static std::string &amp; corrected_path()</div><div class="ttdef"><b>Definition:</b> DBUpdater.cpp:61</div></div>
-<div class="ttc" id="aa06279_html_a8ab8efffe5408f97f438e06766f65ec9"><div class="ttname"><a href="../../d4/d36/a06279.html#a8ab8efffe5408f97f438e06766f65ec9">DBUpdaterUtil::GetCorrectedMySQLExecutable</a></div><div class="ttdeci">static std::string GetCorrectedMySQLExecutable()</div><div class="ttdef"><b>Definition:</b> DBUpdater.cpp:32</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   40</span>{ <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d4/d36/a06279.html#a0be3611fcc2a6eb680a6f4aaba57068e">_ptr</a>-&gt;NextRow()) <a class="code hl_variable" href="../../d4/d36/a06279.html#a0be3611fcc2a6eb680a6f4aaba57068e">_ptr</a> = <span class="keyword">nullptr</span>; <span class="keywordflow">return</span> *<span class="keyword">this</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00061">corrected_path()</a>, <a class="el" href="../../#l00032">GetCorrectedMySQLExecutable()</a>, <a class="el" href="../../#l00141">LOG_FATAL</a>, and <a class="el" href="../../#l00280">Acore::SearchExecutableInPath()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00376">DBUpdater&lt; T &gt;::Populate()</a>, and <a class="el" href="../../#l00240">DBUpdater&lt; T &gt;::Update()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00045">ResultIterator&lt; T &gt;::_ptr</a>.</p>
 
 </div>
 </div>
-<a id="a31499b458f0ff0ec518980f51d6a242a" name="a31499b458f0ff0ec518980f51d6a242a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a31499b458f0ff0ec518980f51d6a242a">&#9670;&#160;</a></span>corrected_path()</h2>
+<a id="a0b6cee284fea4a4023cc688614432b69" name="a0b6cee284fea4a4023cc688614432b69"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0b6cee284fea4a4023cc688614432b69">&#9670;&#160;</a></span>operator-&gt;()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::string &amp; DBUpdaterUtil::corrected_path </td>
+          <td class="memname"><a class="el" href="../../d4/d36/a06279.html#a33215a042f7b7ddb243e8434a4c26346">pointer</a> <a class="el" href="../../d4/d36/a06279.html">ResultIterator</a>&lt; T &gt;::operator-&gt; </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -204,149 +372,40 @@ Static Private Member Functions</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">private</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   62</span>{</div>
-<div class="line"><span class="lineno">   63</span>    <span class="keyword">static</span> std::string path;</div>
-<div class="line"><span class="lineno">   64</span>    <span class="keywordflow">return</span> path;</div>
-<div class="line"><span class="lineno">   65</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">   39</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d4/d36/a06279.html#a0be3611fcc2a6eb680a6f4aaba57068e">_ptr</a>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00040">CheckExecutable()</a>, and <a class="el" href="../../#l00032">GetCorrectedMySQLExecutable()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00045">ResultIterator&lt; T &gt;::_ptr</a>.</p>
 
 </div>
 </div>
-<a id="a19ef6f04dc5827b04a8cdcb34329464d" name="a19ef6f04dc5827b04a8cdcb34329464d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a19ef6f04dc5827b04a8cdcb34329464d">&#9670;&#160;</a></span>failed_updates()</h2>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="a0be3611fcc2a6eb680a6f4aaba57068e" name="a0be3611fcc2a6eb680a6f4aaba57068e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0be3611fcc2a6eb680a6f4aaba57068e">&#9670;&#160;</a></span>_ptr</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &amp; DBUpdaterUtil::failed_updates </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td class="memname"><a class="el" href="../../d4/d36/a06279.html#a33215a042f7b7ddb243e8434a4c26346">pointer</a> <a class="el" href="../../d4/d36/a06279.html">ResultIterator</a>&lt; T &gt;::_ptr</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">private</span></span>  </td>
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   68</span>{</div>
-<div class="line"><span class="lineno">   69</span>    <span class="keyword">static</span> <a class="code hl_typedef" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> count = 0;</div>
-<div class="line"><span class="lineno">   70</span>    <span class="keywordflow">return</span> count;</div>
-<div class="line"><span class="lineno">   71</span>}</div>
-<div class="ttc" id="aa00380_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00078">GetFailedUpdateCount()</a>, and <a class="el" href="../../#l00073">MarkUpdateFailed()</a>.</p>
 
-</div>
-</div>
-<a id="a8ab8efffe5408f97f438e06766f65ec9" name="a8ab8efffe5408f97f438e06766f65ec9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8ab8efffe5408f97f438e06766f65ec9">&#9670;&#160;</a></span>GetCorrectedMySQLExecutable()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::string DBUpdaterUtil::GetCorrectedMySQLExecutable </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   33</span>{</div>
-<div class="line"><span class="lineno">   34</span>    <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d4/d36/a06279.html#a31499b458f0ff0ec518980f51d6a242a">corrected_path</a>().empty())</div>
-<div class="line"><span class="lineno">   35</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../d4/d36/a06279.html#a31499b458f0ff0ec518980f51d6a242a">corrected_path</a>();</div>
-<div class="line"><span class="lineno">   36</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">   37</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../d4/d23/a05097.html#abdfee61576e0a7c64d7bb6a516ab69b7">BuiltInConfig::GetMySQLExecutable</a>();</div>
-<div class="line"><span class="lineno">   38</span>}</div>
-<div class="ttc" id="aa05097_html_abdfee61576e0a7c64d7bb6a516ab69b7"><div class="ttname"><a href="../../d4/d23/a05097.html#abdfee61576e0a7c64d7bb6a516ab69b7">BuiltInConfig::GetMySQLExecutable</a></div><div class="ttdeci">AC_COMMON_API std::string GetMySQLExecutable()</div><div class="ttdef"><b>Definition:</b> BuiltInConfig.cpp:48</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00061">corrected_path()</a>, and <a class="el" href="../../#l00048">BuiltInConfig::GetMySQLExecutable()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00468">DBUpdater&lt; T &gt;::ApplyFile()</a>, and <a class="el" href="../../#l00040">CheckExecutable()</a>.</p>
-
-</div>
-</div>
-<a id="a8653546fe6b32d170da7350700c19613" name="a8653546fe6b32d170da7350700c19613"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8653546fe6b32d170da7350700c19613">&#9670;&#160;</a></span>GetFailedUpdateCount()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> DBUpdaterUtil::GetFailedUpdateCount </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   79</span>{</div>
-<div class="line"><span class="lineno">   80</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../d4/d36/a06279.html#a19ef6f04dc5827b04a8cdcb34329464d">failed_updates</a>();</div>
-<div class="line"><span class="lineno">   81</span>}</div>
-<div class="ttc" id="aa06279_html_a19ef6f04dc5827b04a8cdcb34329464d"><div class="ttname"><a href="../../d4/d36/a06279.html#a19ef6f04dc5827b04a8cdcb34329464d">DBUpdaterUtil::failed_updates</a></div><div class="ttdeci">static uint32 &amp; failed_updates()</div><div class="ttdef"><b>Definition:</b> DBUpdater.cpp:67</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00067">failed_updates()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00070">main()</a>, and <a class="el" href="../../#l00304">World::SetInitialWorldSettings()</a>.</p>
-
-</div>
-</div>
-<a id="a99eb37994b14f350308d174d1c04c7fe" name="a99eb37994b14f350308d174d1c04c7fe"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a99eb37994b14f350308d174d1c04c7fe">&#9670;&#160;</a></span>MarkUpdateFailed()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void DBUpdaterUtil::MarkUpdateFailed </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   74</span>{</div>
-<div class="line"><span class="lineno">   75</span>    ++<a class="code hl_function" href="../../d4/d36/a06279.html#a19ef6f04dc5827b04a8cdcb34329464d">failed_updates</a>();</div>
-<div class="line"><span class="lineno">   76</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00067">failed_updates()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00468">DBUpdater&lt; T &gt;::ApplyFile()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00042">ResultIterator&lt; T &gt;::operator!=()</a>, <a class="el" href="../../#l00038">ResultIterator&lt; T &gt;::operator*()</a>, <a class="el" href="../../#l00040">ResultIterator&lt; T &gt;::operator++()</a>, and <a class="el" href="../../#l00039">ResultIterator&lt; T &gt;::operator-&gt;()</a>.</p>
 
 </div>
 </div>
@@ -355,8 +414,8 @@ Static Private Member Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d4/d36/a06279.html">DBUpdaterUtil</a></li>
-    <li class="footer">Generated on Tue Sep 1 2026 00:08:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d4/d36/a06279.html">ResultIterator</a></li>
+    <li class="footer">Generated on Mon Sep 21 2026 23:34:24 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

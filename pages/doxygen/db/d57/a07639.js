@@ -1,7 +1,8 @@
 var a07639 =
 [
-    [ "ArenaSeasonReward", "db/d57/a07639.html#ae0871effd7fcac1006d8a16f9c7d7d04", null ],
-    [ "operator==", "db/d57/a07639.html#a22d6afdbc88c47d18dc840d537ae4150", null ],
-    [ "entry", "db/d57/a07639.html#ab3144a4701e1ebd88a3a94544ee76cdf", null ],
-    [ "type", "db/d57/a07639.html#ac4c8cff64cf2eb7f34d28080a2a5528b", null ]
+    [ "WintergraspCapturePoint", "db/d57/a07639.html#a36090feb3626e204e0029ea45f1d8136", null ],
+    [ "ChangeTeam", "db/d57/a07639.html#a66564dd3237538b256ebeb76d236001f", null ],
+    [ "GetTeam", "db/d57/a07639.html#a7ff4106591a5aac1ea8820016b8164bb", null ],
+    [ "LinkToWorkshop", "db/d57/a07639.html#a32d378eba7f0eea0f011b8ea8c7e6eee", null ],
+    [ "LinkedWorkshop", "db/d57/a07639.html#a06d98983a020f1f571812cf7ff0f907a", null ]
 ];

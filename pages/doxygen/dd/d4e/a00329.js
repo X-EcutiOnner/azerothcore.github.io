@@ -1,7 +1,7 @@
 var a00329 =
 [
-    [ "SpawnGroupTemplateData", "da/dc0/a10377.html", "da/dc0/a10377" ],
-    [ "SpawnData", "d6/d1e/a10381.html", "d6/d1e/a10381" ],
+    [ "SpawnGroupTemplateData", "d1/d72/a10387.html", "d1/d72/a10387" ],
+    [ "SpawnData", "d4/d2b/a10391.html", "d4/d2b/a10391" ],
     [ "SpawnGroupFlags", "dd/d4e/a00329.html#a4d92d9f9c1ddb3ba951f249d8c3a9567", [
       [ "SPAWNGROUP_FLAG_NONE", "dd/d4e/a00329.html#a4d92d9f9c1ddb3ba951f249d8c3a9567a8e60132edd361c998c88ad58f487ff01", null ],
       [ "SPAWNGROUP_FLAG_SYSTEM", "dd/d4e/a00329.html#a4d92d9f9c1ddb3ba951f249d8c3a9567ac7f000051c11e8e64e44d8e559df0769", null ],

@@ -1,6 +1,8 @@
 var a15075 =
 [
-    [ "PrepareAuraScript", "d4/d97/a15075.html#a80660b1417ab33edaf2c4cd517e10e30", null ],
-    [ "RecalculateHook", "d4/d97/a15075.html#af3952993947dfb24381083d21a9e64cb", null ],
-    [ "Register", "d4/d97/a15075.html#ab7f0aa924dfe8043e44cd794f72e4555", null ]
+    [ "OnApply", "d4/d97/a15075.html#a6bc23ff885f4fbc25d00fe35173bad3e", null ],
+    [ "OnRemove", "d4/d97/a15075.html#aed62006fe08bfaad0a8bb51d5e739c67", null ],
+    [ "PrepareAuraScript", "d4/d97/a15075.html#ac7388aa4c0746ce963cbbb97dbfb4765", null ],
+    [ "Register", "d4/d97/a15075.html#a95c3af6d3f1d510ad8a2d9be7e28b2dc", null ],
+    [ "Validate", "d4/d97/a15075.html#a0ed19bc16fa8e2da2332766bbc1110e5", null ]
 ];

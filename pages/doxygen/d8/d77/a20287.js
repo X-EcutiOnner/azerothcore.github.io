@@ -1,8 +1,6 @@
 var a20287 =
 [
-    [ "OnApply", "d8/d77/a20287.html#a5aec8606684637bbdb1e819254f5d483", null ],
-    [ "OnRemove", "d8/d77/a20287.html#add485a2fd5fdd068d7258d3c9c0d9c2b", null ],
-    [ "PrepareAuraScript", "d8/d77/a20287.html#adcc21606209dc2f32c1173c7ab4c5579", null ],
-    [ "Register", "d8/d77/a20287.html#af1db6ca387cf0733ba4b9c324172d692", null ],
-    [ "Validate", "d8/d77/a20287.html#a332d01b39295ea9a11773be9aa9c3fb3", null ]
+    [ "FilterTargets", "d8/d77/a20287.html#a38c693dd3d8fb7e04fc1e26359f12399", null ],
+    [ "PrepareSpellScript", "d8/d77/a20287.html#a86c4bb91547d8ea7eebb8e4d7bfd592e", null ],
+    [ "Register", "d8/d77/a20287.html#a4e803984a3eded2736825f631786c204", null ]
 ];

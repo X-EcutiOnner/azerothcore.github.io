@@ -1,7 +1,7 @@
 var a29471 =
 [
-    [ "ClassMask", "d8/d1d/a29471.html#acae4582c147b5fd95780ae7b55d36fdc", null ],
-    [ "petTalentMask", "d8/d1d/a29471.html#a22ab1cf8ad05e57d91a63e3876ae2b77", null ],
-    [ "tabpage", "d8/d1d/a29471.html#aa6389276582adeb4cae76c257734795c", null ],
-    [ "TalentTabID", "d8/d1d/a29471.html#ae3a71c61223b59185365819164715dc2", null ]
+    [ "EpicPropertiesPoints", "d8/d1d/a29471.html#a35dc60a15091357e03032226621340f7", null ],
+    [ "itemLevel", "d8/d1d/a29471.html#a35506e3235c2c24230058dc2fb9abc4f", null ],
+    [ "RarePropertiesPoints", "d8/d1d/a29471.html#a9359171635ef3e9a0029820fad286368", null ],
+    [ "UncommonPropertiesPoints", "d8/d1d/a29471.html#a74acb6861a84d5d193038eaa5ac9b12f", null ]
 ];

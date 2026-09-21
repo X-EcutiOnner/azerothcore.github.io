@@ -1,11 +1,7 @@
 var a13139 =
 [
-    [ "boss_mr_smiteAI", "dd/dcf/a13139.html#a277e52b7086db7e6447c4ad07ff8c8a2", null ],
-    [ "JustEngagedWith", "dd/dcf/a13139.html#a3b2e5636b6c13bc243a067cacc7ab529", null ],
-    [ "MovementInform", "dd/dcf/a13139.html#ade54a8fa42cbbf9febecf1a3eee00fd3", null ],
-    [ "Reset", "dd/dcf/a13139.html#a8b90bbc2a0cdfdb09a3f8ddde2bf4108", null ],
-    [ "UpdateAI", "dd/dcf/a13139.html#aa1693c8cc5bcc60a256f5d61f81cce1a", null ],
-    [ "events", "dd/dcf/a13139.html#a3471692c39233f3c25cdc875c0078f2c", null ],
-    [ "health34", "dd/dcf/a13139.html#adc83683c2f6a7073469cd2f5aa325717", null ],
-    [ "health67", "dd/dcf/a13139.html#af30c26b46b14e9e16fe5d48d4dcf23de", null ]
+    [ "HandleDummy", "dd/dcf/a13139.html#acbf0fa3d73de0cec47928fc0dda0c724", null ],
+    [ "PrepareSpellScript", "dd/dcf/a13139.html#a76d395449ed9fb26914aa9ff0488f1be", null ],
+    [ "Register", "dd/dcf/a13139.html#a7d094ce258e3dc28cc30d5fb644d5a1e", null ],
+    [ "Validate", "dd/dcf/a13139.html#a24447c4367d8e8713ba7d05ea53681ee", null ]
 ];

@@ -1,8 +1,6 @@
 var a16651 =
 [
-    [ "OnApply", "db/d6c/a16651.html#a7165da94ce589afcd24411a308802c18", null ],
-    [ "OnRemove", "db/d6c/a16651.html#a8a43050c44b4d3d5b48f4e2c6fcc0b49", null ],
-    [ "PrepareAuraScript", "db/d6c/a16651.html#ab8361bc1d2cc786b52f1fc2b7ff09527", null ],
-    [ "Register", "db/d6c/a16651.html#a0ff7bbd0dea458b15231ecf419b1c49c", null ],
-    [ "Validate", "db/d6c/a16651.html#acf29b80b7b74c3f409e1f046b8062994", null ]
+    [ "SendEncounterUnit", "db/d6c/a16651.html#a5300ba7c1a8001bbf52c56fc2e5dc331", null ],
+    [ "Execute", "db/d6c/a16651.html#ae21b67f8fe8a0677778436563872495f", null ],
+    [ "_owner", "db/d6c/a16651.html#a6e1569fb7fa159fe702defbab1e123b6", null ]
 ];

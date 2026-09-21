@@ -1,7 +1,7 @@
 var a23027 =
 [
-    [ "HandleEffectRemove", "df/d64/a23027.html#a6adc572bb13dde9b83a44a1c27833019", null ],
-    [ "PrepareAuraScript", "df/d64/a23027.html#a877c26735531508d1806273117f3e8bc", null ],
-    [ "Register", "df/d64/a23027.html#a1b3e9eb2f6979ac2f17ac47eb38c8bb5", null ],
-    [ "Validate", "df/d64/a23027.html#a8c45ba806d865f7b9d56950013bdd81c", null ]
+    [ "PrepareAuraScript", "df/d64/a23027.html#ae6879f1d8c27f19cf3e3ada0b34d568f", null ],
+    [ "ReflectDamage", "df/d64/a23027.html#acde2cbf4d196cba1fa2c02393c08fe9f", null ],
+    [ "Register", "df/d64/a23027.html#aa1f27d25209f14dd8bf711bc15cb9165", null ],
+    [ "Validate", "df/d64/a23027.html#aa730b912aadcde53f6cd94c2a8c99493", null ]
 ];

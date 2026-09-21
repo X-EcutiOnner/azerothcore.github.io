@@ -1,7 +1,6 @@
 var a20263 =
 [
-    [ "npc_storm_beacon_spawn", "d8/d37/a20263.html#a999b6421a0ef6eec2987716a60352a5e", null ],
-    [ "UpdateAI", "d8/d37/a20263.html#a93dbd7a26d6333f18329142280cc743d", null ],
-    [ "_amount", "d8/d37/a20263.html#acb5d1f2b6590da32f36882339729c4e9", null ],
-    [ "_checkTimer", "d8/d37/a20263.html#a9717b52f26045707fd852b955d29a5e6", null ]
+    [ "achievement_assembly_of_iron", "d8/d37/a20263.html#ae90d193b039d88ce38108b6617b5b8e9", null ],
+    [ "OnCheck", "d8/d37/a20263.html#ae66b3e708b38bfe685f9d28c14c2d3f5", null ],
+    [ "_targetEntry", "d8/d37/a20263.html#a20e8938ff30b18737fb96cf0277b5680", null ]
 ];

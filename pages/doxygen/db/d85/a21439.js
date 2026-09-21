@@ -1,7 +1,8 @@
 var a21439 =
 [
-    [ "PrepareAuraScript", "db/d85/a21439.html#a2b5894cd889205f19ac2c6ea5a535a82", null ],
-    [ "Register", "db/d85/a21439.html#a95b0bcb7f3027cb63711c74befbd74ea", null ],
-    [ "TriggerFists", "db/d85/a21439.html#a2df5a013ba1b3c5b57d628fd59a9073a", null ],
-    [ "Validate", "db/d85/a21439.html#a2b7c45343d17839d85bf64ed36afd45c", null ]
+    [ "CountTargets", "db/d85/a21439.html#aaf8528038c6b3172d4810ed773f71644", null ],
+    [ "HandleDummy", "db/d85/a21439.html#ac5fa1dd078656f7ae182ec18eddacfe3", null ],
+    [ "PrepareSpellScript", "db/d85/a21439.html#a1f31273cb1826cd07196eacfbdc46673", null ],
+    [ "Register", "db/d85/a21439.html#adce6a5d920ac616dc0579fcd96c49288", null ],
+    [ "_targetCount", "db/d85/a21439.html#acfd8832cb9a197dddb034a003b318911", null ]
 ];

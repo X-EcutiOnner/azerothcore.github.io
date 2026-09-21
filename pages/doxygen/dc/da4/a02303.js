@@ -1,6 +1,5 @@
 var a02303 =
 [
-    [ "character_commandscript", "df/d5b/a12485.html", "df/d5b/a12485" ],
-    [ "character_commandscript::DeletedInfo", "df/dcf/a12489.html", "df/dcf/a12489" ],
-    [ "AddSC_character_commandscript", "dc/da4/a02303.html#a97f9cac12c34068d5e63b2ed28ddf9e2", null ]
+    [ "send_commandscript", "de/d82/a12679.html", "de/d82/a12679" ],
+    [ "AddSC_send_commandscript", "dc/da4/a02303.html#a9f3fee551f6ca7aa7dad83edb2dfe480", null ]
 ];

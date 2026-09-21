@@ -1,20 +1,20 @@
 var a01826 =
 [
-    [ "WorldScript", "dd/db5/a10891.html", "dd/db5/a10891" ],
-    [ "WorldHook", "d2/d45/a01826.html#a4d497fc434376a9edca1897eabc39493", [
-      [ "WORLDHOOK_ON_OPEN_STATE_CHANGE", "d2/d45/a01826.html#a4d497fc434376a9edca1897eabc39493a1115383e9c9ccf62f08548733c8f5f1c", null ],
-      [ "WORLDHOOK_ON_AFTER_CONFIG_LOAD", "d2/d45/a01826.html#a4d497fc434376a9edca1897eabc39493af6efa892b7f5bfd295f23a9b8afc6ad7", null ],
-      [ "WORLDHOOK_ON_LOAD_CUSTOM_DATABASE_TABLE", "d2/d45/a01826.html#a4d497fc434376a9edca1897eabc39493ab212a383f870b580ecf69fd1df3f9213", null ],
-      [ "WORLDHOOK_ON_BEFORE_CONFIG_LOAD", "d2/d45/a01826.html#a4d497fc434376a9edca1897eabc39493ac0d62a83ca416843503c5c9eac516901", null ],
-      [ "WORLDHOOK_ON_MOTD_CHANGE", "d2/d45/a01826.html#a4d497fc434376a9edca1897eabc39493a7080a363df28c0ffb71d52ee18b85f8c", null ],
-      [ "WORLDHOOK_ON_SHUTDOWN_INITIATE", "d2/d45/a01826.html#a4d497fc434376a9edca1897eabc39493ab554902e66fb497dbb3ac74151fe8bb7", null ],
-      [ "WORLDHOOK_ON_SHUTDOWN_CANCEL", "d2/d45/a01826.html#a4d497fc434376a9edca1897eabc39493a86b7bcb6f946ccb6d6c444773054ecb6", null ],
-      [ "WORLDHOOK_ON_UPDATE", "d2/d45/a01826.html#a4d497fc434376a9edca1897eabc39493a891997df42f33b397fe3c92cf68e3aca", null ],
-      [ "WORLDHOOK_ON_STARTUP", "d2/d45/a01826.html#a4d497fc434376a9edca1897eabc39493abaa74ee704d5eb3634a515fe131e66fa", null ],
-      [ "WORLDHOOK_ON_SHUTDOWN", "d2/d45/a01826.html#a4d497fc434376a9edca1897eabc39493a804c550dd48cb62983e43dfed1ba2176", null ],
-      [ "WORLDHOOK_ON_AFTER_UNLOAD_ALL_MAPS", "d2/d45/a01826.html#a4d497fc434376a9edca1897eabc39493a02253717dde1cc98a2643eefd76f0d91", null ],
-      [ "WORLDHOOK_ON_BEFORE_FINALIZE_PLAYER_WORLD_SESSION", "d2/d45/a01826.html#a4d497fc434376a9edca1897eabc39493a962dfc07ec34ca7510d8759c193ba56e", null ],
-      [ "WORLDHOOK_ON_BEFORE_WORLD_INITIALIZED", "d2/d45/a01826.html#a4d497fc434376a9edca1897eabc39493a2e95fec6ec46709803e187fe3c60f427", null ],
-      [ "WORLDHOOK_END", "d2/d45/a01826.html#a4d497fc434376a9edca1897eabc39493a1a7e32e7ba7aec9dc7b8edd43a903800", null ]
+    [ "Corpse", "d9/da0/a08463.html", "d9/da0/a08463" ],
+    [ "CORPSE_RECLAIM_RADIUS", "d2/d45/a01826.html#a1cebf109f41dcdac8a90086696642782", null ],
+    [ "MAX_CORPSE_TYPE", "d2/d45/a01826.html#aec0512ffe7d6a8f7dd8330c334bb4fc3", null ],
+    [ "CorpseFlags", "d2/d45/a01826.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537c", [
+      [ "CORPSE_FLAG_NONE", "d2/d45/a01826.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca30260079b14373a47aef21b99e8757a2", null ],
+      [ "CORPSE_FLAG_BONES", "d2/d45/a01826.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca47ec12fa0520573d7d8ff9231ca4eb8b", null ],
+      [ "CORPSE_FLAG_UNK1", "d2/d45/a01826.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca043171119fe69fae07f3668763d40c7c", null ],
+      [ "CORPSE_FLAG_UNK2", "d2/d45/a01826.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca769ec96151b713170c051ee6236bbd5e", null ],
+      [ "CORPSE_FLAG_HIDE_HELM", "d2/d45/a01826.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca830d0cde7665a938cd48d4018ae0df79", null ],
+      [ "CORPSE_FLAG_HIDE_CLOAK", "d2/d45/a01826.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca25bc5b9c02c2cce38be9bb32c2ad335a", null ],
+      [ "CORPSE_FLAG_LOOTABLE", "d2/d45/a01826.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537caeb7f1630dc7c0b062b809e65cd4e5f80", null ]
+    ] ],
+    [ "CorpseType", "d2/d45/a01826.html#a43260eb47484e62a16a868f79646c683", [
+      [ "CORPSE_BONES", "d2/d45/a01826.html#a43260eb47484e62a16a868f79646c683ae7046aabaa7e6f435370eb1c49335356", null ],
+      [ "CORPSE_RESURRECTABLE_PVE", "d2/d45/a01826.html#a43260eb47484e62a16a868f79646c683a79e10cac636d94dc5aa8379ecce5cc78", null ],
+      [ "CORPSE_RESURRECTABLE_PVP", "d2/d45/a01826.html#a43260eb47484e62a16a868f79646c683a90cccb41a96804ac3340b13ff68241ba", null ]
     ] ]
 ];

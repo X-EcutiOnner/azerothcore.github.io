@@ -1,22 +1,44 @@
 var a01934 =
 [
-    [ "ServerMailCondition", "dd/d74/a10233.html", "dd/d74/a10233" ],
-    [ "ServerMailItems", "db/d22/a10237.html", "db/d22/a10237" ],
-    [ "ServerMail", "da/d33/a10241.html", "da/d33/a10241" ],
-    [ "ServerMailMgr", "d6/d81/a10245.html", "d6/d81/a10245" ],
-    [ "sServerMailMgr", "de/da9/a01934.html#a6423d219eaead162b40b6021eadca0c4", null ],
-    [ "ServerMailContainer", "de/da9/a01934.html#a9c10c94a0a8508b3af2e92d3455d063b", null ],
-    [ "ServerMailConditionType", "de/da9/a01934.html#ab25c41bc314095f74fe678a33e086a2b", [
-      [ "Invalid", "de/da9/a01934.html#ab25c41bc314095f74fe678a33e086a2ba4bbb8f967da6d1a610596d7257179c2b", null ],
-      [ "Level", "de/da9/a01934.html#ab25c41bc314095f74fe678a33e086a2baa0db49ba470c1c9ae2128c3470339153", null ],
-      [ "PlayTime", "de/da9/a01934.html#ab25c41bc314095f74fe678a33e086a2bad50a5da6b13baa381b72761aae02cde3", null ],
-      [ "Quest", "de/da9/a01934.html#ab25c41bc314095f74fe678a33e086a2ba07bf513a88c3df282a30cb374f8a933d", null ],
-      [ "Achievement", "de/da9/a01934.html#ab25c41bc314095f74fe678a33e086a2bae29be78e8cf65f9f1a934917f9e0903e", null ],
-      [ "Reputation", "de/da9/a01934.html#ab25c41bc314095f74fe678a33e086a2ba8d9bec4f224970e231041639de877092", null ],
-      [ "Faction", "de/da9/a01934.html#ab25c41bc314095f74fe678a33e086a2ba3dcd53a8339c060c69c660b1b89b5201", null ],
-      [ "Race", "de/da9/a01934.html#ab25c41bc314095f74fe678a33e086a2ba4e221fc084bb69a82315a154d6dd7879", null ],
-      [ "Class", "de/da9/a01934.html#ab25c41bc314095f74fe678a33e086a2ba9bd81329febf6efe22788e03ddeaf0af", null ],
-      [ "AccountFlags", "de/da9/a01934.html#ab25c41bc314095f74fe678a33e086a2ba1c14759edfa3dbd063ee9d758a175225", null ]
+    [ "GameObjectValue", "d9/da4/a08627.html", "d9/da4/a08627" ],
+    [ "GameObject", "d4/da7/a08647.html", "d4/da7/a08647" ],
+    [ "FISHING_BOBBER_READY_TIME", "de/da9/a01934.html#aa7242bc5664b993aa0dfe458bf845b13", null ],
+    [ "GameObjectAddonContainer", "de/da9/a01934.html#a7c5d40f7f9665e8525be2f1e94b0af47", null ],
+    [ "GameObjectQuestItemList", "de/da9/a01934.html#a85906ca8ea219640b7ed904559623a4a", null ],
+    [ "GameObjectQuestItemMap", "de/da9/a01934.html#a0695d839f891819d32d9cba1550e5ebb", null ],
+    [ "GameObjectTemplateAddonContainer", "de/da9/a01934.html#a43048463c1bc7ccdbb447dd3f791b2ba", null ],
+    [ "GameObjectTemplateContainer", "de/da9/a01934.html#a5997afee8ff417f22a5fc03453c0a3d8", null ],
+    [ "goEventFlag", "de/da9/a01934.html#a5d69fabbfa5abca4bb03fba46cd1bef0", null ],
+    [ "GameObjectActions", "de/da9/a01934.html#af16a38362829ad78e87eae277ce8b837", [
+      [ "None", "de/da9/a01934.html#af16a38362829ad78e87eae277ce8b837a6adf97f83acf6453d4a6a4b1070f3754", null ],
+      [ "AnimateCustom0", "de/da9/a01934.html#af16a38362829ad78e87eae277ce8b837a85821009c4561ff2dd394e76875f41e4", null ],
+      [ "AnimateCustom1", "de/da9/a01934.html#af16a38362829ad78e87eae277ce8b837a20097ab004d5809f0181ff76c095d00d", null ],
+      [ "AnimateCustom2", "de/da9/a01934.html#af16a38362829ad78e87eae277ce8b837a6bd3a49dc3c0acde22f7fb6d717c5ba6", null ],
+      [ "AnimateCustom3", "de/da9/a01934.html#af16a38362829ad78e87eae277ce8b837a96ccf53c55fa14a630d1ebf1814d5500", null ],
+      [ "Disturb", "de/da9/a01934.html#af16a38362829ad78e87eae277ce8b837ada8bbd8aa09878c8c831cfa4d16cb1e3", null ],
+      [ "Unlock", "de/da9/a01934.html#af16a38362829ad78e87eae277ce8b837a7e7123b0d269ad5d9ec8d12c52a8ed8a", null ],
+      [ "Lock", "de/da9/a01934.html#af16a38362829ad78e87eae277ce8b837ab485167c5b0e59d47009a16f90fe2659", null ],
+      [ "Open", "de/da9/a01934.html#af16a38362829ad78e87eae277ce8b837ac3bf447eabe632720a3aa1a7ce401274", null ],
+      [ "OpenAndUnlock", "de/da9/a01934.html#af16a38362829ad78e87eae277ce8b837a309e99e8adfb532df3ef87568ef7b4dd", null ],
+      [ "Close", "de/da9/a01934.html#af16a38362829ad78e87eae277ce8b837ad3d2e617335f08df83599665eef8a418", null ],
+      [ "ToggleOpen", "de/da9/a01934.html#af16a38362829ad78e87eae277ce8b837a4918a8673999bfdede87be4025674076", null ],
+      [ "Destroy", "de/da9/a01934.html#af16a38362829ad78e87eae277ce8b837a0e181f89f47654b86f3beb42f5cc08b8", null ],
+      [ "Rebuild", "de/da9/a01934.html#af16a38362829ad78e87eae277ce8b837a1c6aac0280240c97962b30423f1f852b", null ],
+      [ "Creation", "de/da9/a01934.html#af16a38362829ad78e87eae277ce8b837a67d5168b4f2b5424a3d118ea9ef99372", null ],
+      [ "Despawn", "de/da9/a01934.html#af16a38362829ad78e87eae277ce8b837a573a38c8ee30e1c0d6ad84ce4f965cf0", null ],
+      [ "MakeInert", "de/da9/a01934.html#af16a38362829ad78e87eae277ce8b837aabb80dcaf182e2078c504e15fee2a31f", null ],
+      [ "MakeActive", "de/da9/a01934.html#af16a38362829ad78e87eae277ce8b837a403b23a8bfa05cf441c3e9dd632d4974", null ],
+      [ "CloseAndLock", "de/da9/a01934.html#af16a38362829ad78e87eae277ce8b837a395c884e23324c8a881736508abb7d05", null ],
+      [ "UseArtKit0", "de/da9/a01934.html#af16a38362829ad78e87eae277ce8b837ae2a0fa972f9687e4bc206809d3398c8c", null ],
+      [ "UseArtKit1", "de/da9/a01934.html#af16a38362829ad78e87eae277ce8b837a77d0a472e8fb879ecb2cb0f5e95d66be", null ],
+      [ "UseArtKit2", "de/da9/a01934.html#af16a38362829ad78e87eae277ce8b837a7c616a85741d0083402758d77385cf12", null ],
+      [ "UseArtKit3", "de/da9/a01934.html#af16a38362829ad78e87eae277ce8b837ac0d4e2c0fde8b58757dadda7ae262ca8", null ],
+      [ "SetTapList", "de/da9/a01934.html#af16a38362829ad78e87eae277ce8b837ab98a44aedde3ad68a77221bb4ba8d8e0", null ]
     ] ],
-    [ "ServerMailConditionTypePairs", "de/da9/a01934.html#af981b509cb816fa6720cf16cceaa9081", null ]
+    [ "LootState", "de/da9/a01934.html#a08733f20cea1f77cc9f1a549f8ce9f07", [
+      [ "GO_NOT_READY", "de/da9/a01934.html#a08733f20cea1f77cc9f1a549f8ce9f07aa7f58536a66a38d2bb42502424d69a79", null ],
+      [ "GO_READY", "de/da9/a01934.html#a08733f20cea1f77cc9f1a549f8ce9f07a8708de424ecaae41eb7271d399f1d5fc", null ],
+      [ "GO_ACTIVATED", "de/da9/a01934.html#a08733f20cea1f77cc9f1a549f8ce9f07a3e50ac5f6829b981fdff39a85a48959e", null ],
+      [ "GO_JUST_DEACTIVATED", "de/da9/a01934.html#a08733f20cea1f77cc9f1a549f8ce9f07af69d13b3580b3c24d26f66bcf0db43d5", null ]
+    ] ]
 ];

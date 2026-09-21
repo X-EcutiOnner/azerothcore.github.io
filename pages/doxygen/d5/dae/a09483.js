@@ -1,9 +1,8 @@
 var a09483 =
 [
-    [ "CellArea", "d5/dae/a09483.html#ace8ca84753b4ec8681415386fb135053", null ],
-    [ "CellArea", "d5/dae/a09483.html#a547aa2c544abb8de2c6defdd6ec77fa3", null ],
-    [ "operator!", "d5/dae/a09483.html#a386d4a562c27155012daedc361541e3b", null ],
-    [ "ResizeBorders", "d5/dae/a09483.html#aebb8a0eb3210fa09d647d89ce8a0c7b8", null ],
-    [ "high_bound", "d5/dae/a09483.html#a0c90f0474902deaafc4a64faaf6e8071", null ],
-    [ "low_bound", "d5/dae/a09483.html#a374fe9802c798e6ece359a8025b6e1df", null ]
+    [ "MailLevelReward", "d5/dae/a09483.html#accd52642cbbab457b69dba54a6ffa23b", null ],
+    [ "MailLevelReward", "d5/dae/a09483.html#a3e98aa5c30b0b5648784f9aaf5349a76", null ],
+    [ "mailTemplateId", "d5/dae/a09483.html#afdf6684bcd2751822bd00ba1509ef933", null ],
+    [ "raceMask", "d5/dae/a09483.html#a341088acd89b79161d932367f4f1798d", null ],
+    [ "senderEntry", "d5/dae/a09483.html#a2b678ac953209691b38d583cffab55b5", null ]
 ];

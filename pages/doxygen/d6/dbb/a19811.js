@@ -1,11 +1,7 @@
 var a19811 =
 [
-    [ "boss_ormorok", "d6/dbb/a19811.html#aa4862339ed41d5c593a93ef605d85a39", null ],
-    [ "JustDied", "d6/dbb/a19811.html#af84a958b2f16b082fe3b2e1dc70dd8fa", null ],
-    [ "JustEngagedWith", "d6/dbb/a19811.html#a22ac203db7c3b445e653798743e48764", null ],
-    [ "JustSummoned", "d6/dbb/a19811.html#acc149b49e6658454610a7871e3c82b5e", null ],
-    [ "KilledUnit", "d6/dbb/a19811.html#a65a1512bad7c773a0aede6ba2cb9700e", null ],
-    [ "Reset", "d6/dbb/a19811.html#a88a1c308790e45a6fa09f0d740116f4e", null ],
-    [ "UpdateAI", "d6/dbb/a19811.html#a15f2e30fa1780aadba6673f6537fc16f", null ],
-    [ "_spikesCount", "d6/dbb/a19811.html#a29cc8c3db5ba3d528ea873d66be619cd", null ]
+    [ "npc_alexstrasza", "d6/dbb/a19811.html#a38c68ff4e0ba73218ff18c8bf95c8d4c", null ],
+    [ "AttackStart", "d6/dbb/a19811.html#ab47f439968b7e9358158eae3e31f4e29", null ],
+    [ "MoveInLineOfSight", "d6/dbb/a19811.html#acadf7b1ff63e266fd1f6eeaf533f9514", null ],
+    [ "UpdateAI", "d6/dbb/a19811.html#aec1c93eee408ecefbceec22be4b90dba", null ]
 ];

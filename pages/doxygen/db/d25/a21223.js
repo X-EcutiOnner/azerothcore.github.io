@@ -1,9 +1,7 @@
 var a21223 =
 [
-    [ "npc_vrykul_skeleton", "db/d25/a21223.html#afda2014efb0ce63ee41c46cf2ad6c130", null ],
-    [ "DamageTaken", "db/d25/a21223.html#a840244c4183987e4fda533edb2ddeff2", null ],
-    [ "Reset", "db/d25/a21223.html#af950342b2177c84c101485736855b998", null ],
-    [ "UpdateAI", "db/d25/a21223.html#a80cd072eef6b0bf03a9a6a2fe22e252a", null ],
-    [ "events", "db/d25/a21223.html#a897bb5b5519f6f507bca49c5c5de17f6", null ],
-    [ "pInstance", "db/d25/a21223.html#a834f0162540683c20f9fa0f9e32eee33", null ]
+    [ "HandleProc", "db/d25/a21223.html#a1b8782a4f22522cfe224073515abdf45", null ],
+    [ "PrepareAuraScript", "db/d25/a21223.html#ab4a8a98564d561082243c0f7a2dda1bf", null ],
+    [ "Register", "db/d25/a21223.html#a8e9b7613131ef7ea05b853df337faa4e", null ],
+    [ "Validate", "db/d25/a21223.html#ab3a99392d06ba0bea8e3f4b345acb23d", null ]
 ];

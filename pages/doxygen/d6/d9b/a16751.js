@@ -1,6 +1,7 @@
 var a16751 =
 [
-    [ "FilterTargets", "d6/d9b/a16751.html#a40c4d2b624fe87e21263d1b137994cc3", null ],
-    [ "PrepareSpellScript", "d6/d9b/a16751.html#a697a52cbc50eafd2b0377621afb01557", null ],
-    [ "Register", "d6/d9b/a16751.html#a3d523f92cb8123f30cb068cbac39a9c3", null ]
+    [ "HandleDummy", "d6/d9b/a16751.html#a96b430cb0546fb599da22cd675660187", null ],
+    [ "PrepareSpellScript", "d6/d9b/a16751.html#ad0330cb78a330f05c18f33375f231fbc", null ],
+    [ "Register", "d6/d9b/a16751.html#a70a36683a235dec6044a8a32f20c606c", null ],
+    [ "Validate", "d6/d9b/a16751.html#affa7ccf869e98eacd3a153cc645d704e", null ]
 ];

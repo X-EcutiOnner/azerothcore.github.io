@@ -1,6 +1,8 @@
 var a05042 =
 [
-    [ "mean", "de/dda/a05042.html#a64ba279a3d3edca415239118167c0206", null ],
-    [ "median", "de/dda/a05042.html#a4840fd449eb626bea901860e4c1be22a", null ],
-    [ "standard_deviation", "de/dda/a05042.html#a60ce9c7718ec2901f037e2368f93026d", null ]
+    [ "TaskScheduler", "dc/d21/a05951.html", "dc/d21/a05951" ],
+    [ "TaskScheduler::Task", "d0/d5d/a05955.html", "d0/d5d/a05955" ],
+    [ "TaskScheduler::Compare", "d8/d33/a05959.html", "d8/d33/a05959" ],
+    [ "TaskScheduler::TaskQueue", "d0/d22/a05963.html", "d0/d22/a05963" ],
+    [ "TaskContext", "dd/d3d/a05967.html", "dd/d3d/a05967" ]
 ];

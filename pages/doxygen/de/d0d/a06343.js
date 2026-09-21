@@ -1,8 +1,8 @@
 var a06343 =
 [
-    [ "ArcherAI", "de/d0d/a06343.html#a113c138958054716182c15ee9f2b47da", null ],
-    [ "AttackStart", "de/d0d/a06343.html#adc79f7ead63ecaf8fed9ea4f81d27f76", null ],
-    [ "Permissible", "de/d0d/a06343.html#ac5b3d144b0d71a5e527d53f33c3d31cc", null ],
-    [ "UpdateAI", "de/d0d/a06343.html#aa6e072e239549d337de61670a05eb6f8", null ],
-    [ "m_minRange", "de/d0d/a06343.html#ab449efcd81769888ff8d8bc5f348cbe7", null ]
+    [ "UpdateResult", "de/d0d/a06343.html#af32cdf09d32607955c98353fbfa7d392", null ],
+    [ "UpdateResult", "de/d0d/a06343.html#a225eb6b9ff745dcd72d623ca79c007c6", null ],
+    [ "archived", "de/d0d/a06343.html#adee274af5f5d6981e28b3587008d690c", null ],
+    [ "recent", "de/d0d/a06343.html#aea54f4388b659def734957a47e9cca8c", null ],
+    [ "updated", "de/d0d/a06343.html#a12b3fffe01639493fc405bd5a797f463", null ]
 ];

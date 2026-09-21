@@ -1,6 +1,7 @@
 var a21703 =
 [
-    [ "HandleScriptEffect", "db/dc6/a21703.html#a6ba170146e6b66e00b98bb63baf3d710", null ],
-    [ "PrepareSpellScript", "db/dc6/a21703.html#a29f6a1a5057f1e071db855292500b99c", null ],
-    [ "Register", "db/dc6/a21703.html#a88b70634327bf5c66555149822a2e504", null ]
+    [ "npc_lurgglbrAI", "d9/dc7/a21707.html", "d9/dc7/a21707" ],
+    [ "npc_lurgglbr", "db/dc6/a21703.html#a7df52667e4d789391820a4c2182db8d2", null ],
+    [ "GetAI", "db/dc6/a21703.html#a2795346371e7b474c53dcacb9daf2001", null ],
+    [ "OnQuestAccept", "db/dc6/a21703.html#a1b3ba7b0782dc91ff268b7044cf13e82", null ]
 ];

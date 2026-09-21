@@ -1,5 +1,7 @@
 var a01964 =
 [
-    [ "WorldPackets::Combat::SetSheathed", "da/de2/a11031.html", "da/de2/a11031" ],
-    [ "WorldPackets::Combat::SAttackStop", "d7/d9b/a11035.html", "d7/d9b/a11035" ]
+    [ "EMBLEM_PRICE", "d6/d90/a01964.html#a6e37f394008ea3eb20a46c84e03512a5", null ],
+    [ "MAX_GUILD_BANK_TAB_TEXT_LEN", "d6/d90/a01964.html#a458eaf87a56d0ac3d92187c55b14f437", null ],
+    [ "_GetGuildBankTabPrice", "d6/d90/a01964.html#a039068bd46d84b88b1a6a2fa0ae07b80", null ],
+    [ "_GetGuildEventString", "d6/d90/a01964.html#a8e9e4c2d24b387f386cf2d9c02996b59", null ]
 ];

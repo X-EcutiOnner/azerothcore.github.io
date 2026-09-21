@@ -1,10 +1,6 @@
 var a15419 =
 [
-    [ "instance_maraudon_InstanceMapScript", "de/ddd/a15419.html#a9c46508320d3973006561444feae0586", null ],
-    [ "Initialize", "de/ddd/a15419.html#a61cb2b2bf09bb997457bc01a41e092e9", null ],
-    [ "OnGameObjectCreate", "de/ddd/a15419.html#a3a287b97db58c3489815f20ee0d37977", null ],
-    [ "ReadSaveDataMore", "de/ddd/a15419.html#ac2cd336874b25ad20dac104037de1df5", null ],
-    [ "SetData", "de/ddd/a15419.html#a6e90bf60a076c164e432128f7ec62fba", null ],
-    [ "WriteSaveDataMore", "de/ddd/a15419.html#a6e4072342e66689d343912de85e66b34", null ],
-    [ "_encounters", "de/ddd/a15419.html#af2e752a791d75e50001060c4a9f18173", null ]
+    [ "instance_old_hillsbrad_InstanceMapScript", "d5/d8f/a15423.html", "d5/d8f/a15423" ],
+    [ "instance_old_hillsbrad", "de/ddd/a15419.html#a1ba2d39ae8f9209055de4b944cc535d8", null ],
+    [ "GetInstanceScript", "de/ddd/a15419.html#a1929c38b1c745b2df1ccaf462113e220", null ]
 ];

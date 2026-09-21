@@ -1,10 +1,8 @@
 var a06147 =
 [
-    [ "PreparedStatementTask", "d1/d10/a06147.html#a332f6ddad1ee338da3fa4bd2461a9c29", null ],
-    [ "~PreparedStatementTask", "d1/d10/a06147.html#a4ca96ab46d5015b2c673164652146886", null ],
-    [ "Execute", "d1/d10/a06147.html#ad4058410f5eba4f0f935696d38ba85ab", null ],
-    [ "GetFuture", "d1/d10/a06147.html#a07031e5cff28553e33d98140847b9e0d", null ],
-    [ "m_has_result", "d1/d10/a06147.html#a7c2841b7638c42caa4e8c1116110f8a3", null ],
-    [ "m_result", "d1/d10/a06147.html#a841a7aefd9ea58a76cead1da65a786b2", null ],
-    [ "m_stmt", "d1/d10/a06147.html#aba9082a717729915a4e4d640220a49d2", null ]
+    [ "Statements", "d1/d10/a06147.html#a7527387a1261a4307515ed0c56dd6520", null ],
+    [ "CharacterDatabaseConnection", "d1/d10/a06147.html#aa7308d6978756861043c1c0c861bfffc", null ],
+    [ "CharacterDatabaseConnection", "d1/d10/a06147.html#af7c6148029613ce06159b5867bba9cad", null ],
+    [ "~CharacterDatabaseConnection", "d1/d10/a06147.html#a01224074cff69c86792d0b77e804d7f4", null ],
+    [ "DoPrepareStatements", "d1/d10/a06147.html#afbbb8d2bb335119e5bc8b37764301db5", null ]
 ];

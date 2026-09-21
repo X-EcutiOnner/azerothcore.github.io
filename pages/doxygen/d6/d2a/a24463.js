@@ -1,10 +1,7 @@
 var a24463 =
 [
-    [ "npc_pet_gen_imp_in_a_bottle", "d6/d2a/a24463.html#aa32b7770c2719d77d46fcf6d22989284", null ],
-    [ "InitializeAI", "d6/d2a/a24463.html#a9fde3fd30d48068a3ad1a19f65c61bf2", null ],
-    [ "UpdateAI", "d6/d2a/a24463.html#a453ec855bb21a30cb72b540ff8f77035", null ],
-    [ "_data", "d6/d2a/a24463.html#a982ec923536c2c33353a3673aa425b6a", null ],
-    [ "_hasParty", "d6/d2a/a24463.html#a192d9e2ba340040cb6ba5c0f324ffb2d", null ],
-    [ "_ownerGUID", "d6/d2a/a24463.html#a5452226bbe4f65a9bd7ce103a7648a2f", null ],
-    [ "_talkTimer", "d6/d2a/a24463.html#a07eba859ad2d5db4f6d91734c04020cf", null ]
+    [ "HandleSendEvent", "d6/d2a/a24463.html#a8b32db78a3b4d5a01be230968fda3a8d", null ],
+    [ "PrepareSpellScript", "d6/d2a/a24463.html#a0adf10b63735dbdf1cb3d49c73f7da1d", null ],
+    [ "Register", "d6/d2a/a24463.html#ad6aedfed88d4a921122fdc7a8b501f0e", null ],
+    [ "Validate", "d6/d2a/a24463.html#a9b72b16ac81c53aaa7936640e5149e6c", null ]
 ];

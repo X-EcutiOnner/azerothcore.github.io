@@ -1,7 +1,5 @@
 var a21227 =
 [
-    [ "HandleEffectPeriodic", "d0/ded/a21227.html#a5741a78ba0cc8c723e80b1847b3eb1bc", null ],
-    [ "PrepareAuraScript", "d0/ded/a21227.html#a748cd347867557b5048d9ba0c112cd80", null ],
-    [ "Register", "d0/ded/a21227.html#a3c24d37ab4a6e16a577983c3f6bc2722", null ],
-    [ "Validate", "d0/ded/a21227.html#afa86789ef14b1d06094705ba6cfb9205", null ]
+    [ "achievement_yogg_saron_drive_me_crazy", "d0/ded/a21227.html#a381d8fd2e7b4806181959a1b915f3a8c", null ],
+    [ "OnCheck", "d0/ded/a21227.html#a029fdd68e0643b53971efbb1056f19d8", null ]
 ];

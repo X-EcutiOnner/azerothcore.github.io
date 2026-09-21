@@ -1,6 +1,9 @@
 var a06527 =
 [
-    [ "KillMagnetEvent", "db/d35/a06527.html#a1f044cb51674faebe45c0e2119601b59", null ],
-    [ "Execute", "db/d35/a06527.html#a2905731d24060dfa7c2069b05adfa2b2", null ],
-    [ "_self", "db/d35/a06527.html#a0fe06efbc00b38f98f2e077d7dfb1941", null ]
+    [ "TurretAI", "db/d35/a06527.html#a0aaa1ee5eb1b2e83657ef24479d9a91e", null ],
+    [ "AttackStart", "db/d35/a06527.html#ab6eb7cf777595a4b196373123da19bea", null ],
+    [ "CanAIAttack", "db/d35/a06527.html#a47c1c38ddcc1f473104fb698fe338684", null ],
+    [ "Permissible", "db/d35/a06527.html#aac81fb574d70369fb006fb7ba22a0784", null ],
+    [ "UpdateAI", "db/d35/a06527.html#aa2d308443a31d8a06bbc63517695dfef", null ],
+    [ "m_minRange", "db/d35/a06527.html#a4cffbf9bcb29468dad6a6583c905b99a", null ]
 ];

@@ -1,7 +1,6 @@
 var a25339 =
 [
-    [ "HandleDummy", "df/dee/a25339.html#a582208e608c9fdca7464b817c76c13b3", null ],
-    [ "PrepareSpellScript", "df/dee/a25339.html#ac7abb7e01362a3333c0d73cd19dcee30", null ],
-    [ "Register", "df/dee/a25339.html#a3882606b9e9201163cf76cb20b8e6364", null ],
-    [ "Validate", "df/dee/a25339.html#a12a1cb4b6131d5959f6f541da5e8fc00", null ]
+    [ "HandleScript", "df/dee/a25339.html#a913c8c461f291ccaad2f48614c0146c6", null ],
+    [ "PrepareSpellScript", "df/dee/a25339.html#a18913a7455cf3f158136f2d3bb415779", null ],
+    [ "Register", "df/dee/a25339.html#ac24208b646e95d87fbb340d7779cb7c5", null ]
 ];

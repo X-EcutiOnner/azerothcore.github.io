@@ -1,18 +1,7 @@
 var a21783 =
 [
-    [ "npc_conversing_with_the_depths_triggerAI", "d2/dcc/a21783.html#af2a8c43537cac96be12e6dc8d7874cec", null ],
-    [ "DespawnOachanoa", "d2/dcc/a21783.html#ac9c4473578ba8a19b280548b4257bafa", null ],
-    [ "GetOachanoa", "d2/dcc/a21783.html#acf992e311bb8ab91683556036b0fbe86", null ],
-    [ "GetPlayer", "d2/dcc/a21783.html#aec678cda5d636e66907593d8b3f952f4", null ],
-    [ "NextStep", "d2/dcc/a21783.html#ae66ac194b89e761808cd3e226fc7e495", null ],
-    [ "Reset", "d2/dcc/a21783.html#af52e16097889f80d02ab2362f5578257", null ],
-    [ "Start", "d2/dcc/a21783.html#ad34d850e1f11da93dc461995d9f00115", null ],
-    [ "UpdateAI", "d2/dcc/a21783.html#aa47d7c8a0c34fc2cf4a7b1d31d21cd4a", null ],
-    [ "canjump", "d2/dcc/a21783.html#a6705fda3183602c11573735e0ac536a8", null ],
-    [ "oachanoaGUID", "d2/dcc/a21783.html#a32c351c44121629bccea71f2fd27cf9c", null ],
-    [ "pGUID", "d2/dcc/a21783.html#aabca8fe8385fe88d6ed6ad7ae6da0261", null ],
-    [ "running", "d2/dcc/a21783.html#a62e33501656b57698b19d8fec44afa37", null ],
-    [ "secondpart", "d2/dcc/a21783.html#a98e6aaa14d458228e97ced45e553c2bf", null ],
-    [ "step", "d2/dcc/a21783.html#ab8f80e5b25f58028abdd2077c2e9de7f", null ],
-    [ "timer", "d2/dcc/a21783.html#a694c235ee9a23b30ac0aa7b15ee8db3c", null ]
+    [ "HandleScriptEffect", "d2/dcc/a21783.html#adc89459d7b6c073b8a60e08a9e3281cf", null ],
+    [ "PrepareSpellScript", "d2/dcc/a21783.html#a8f15bf27d9e54c1ee6c84f99f1f83d48", null ],
+    [ "Register", "d2/dcc/a21783.html#a86ef787e1db46e578a10ca25ac84ba87", null ],
+    [ "Validate", "d2/dcc/a21783.html#abeb8baf7dabf2d3acea4df79535770d2", null ]
 ];

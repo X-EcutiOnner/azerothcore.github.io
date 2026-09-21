@@ -1,5 +1,7 @@
 var a21135 =
 [
-    [ "achievement_yogg_saron_drive_me_crazy", "df/d95/a21135.html#a381d8fd2e7b4806181959a1b915f3a8c", null ],
-    [ "OnCheck", "df/d95/a21135.html#a029fdd68e0643b53971efbb1056f19d8", null ]
+    [ "OnRemove", "df/d95/a21135.html#ad3f482f9fff9798cc6e7a06183344742", null ],
+    [ "PrepareAuraScript", "df/d95/a21135.html#ab830a7a6c5ed432f8718071345c99b57", null ],
+    [ "Register", "df/d95/a21135.html#ac83a8d085d02feec64b6012cacb60dce", null ],
+    [ "Validate", "df/d95/a21135.html#a69a3e0a6c06e3c4085bf0ad25e40edf9", null ]
 ];

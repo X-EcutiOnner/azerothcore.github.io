@@ -1,8 +1,6 @@
 var a26027 =
 [
-    [ "HandleProc", "d6/dda/a26027.html#ad92c7804b26bd29d135e55c8adad9093", null ],
-    [ "OnRemove", "d6/dda/a26027.html#afa8e065ed835243f3ebb95c10792adf8", null ],
-    [ "PrepareAuraScript", "d6/dda/a26027.html#a5e986f77b23fd0402089ea36f0360c79", null ],
-    [ "Register", "d6/dda/a26027.html#a29d66b9790e3f7dfffb5dc398f26f9fb", null ],
-    [ "Validate", "d6/dda/a26027.html#a51f81afec6ff0918530208d9de9dae24", null ]
+    [ "OnRemove", "d6/dda/a26027.html#adcdc87bcfb9aee5eaa227ba66ad5f010", null ],
+    [ "PrepareAuraScript", "d6/dda/a26027.html#a9b3985c6f2b1b88ab86ec38c8508fc16", null ],
+    [ "Register", "d6/dda/a26027.html#a0bc1dae33d0a780623f4551b1dfb1fbf", null ]
 ];

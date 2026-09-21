@@ -1,6 +1,10 @@
 var a30379 =
 [
-    [ "height", "dd/de1/a30379.html#a7638f586a055c48a46e36471543ff72f", null ],
-    [ "unk1", "dd/de1/a30379.html#a6c08b6fa33e12a9900218d0d0b8b78d5", null ],
-    [ "unk2", "dd/de1/a30379.html#a394a04f6e985824aa259a42b11b97136", null ]
+    [ "maxSimplificationError", "dd/de1/a30379.html#a010878a247d639234d2bb8571280aca6", null ],
+    [ "vertexPerMapEdge", "dd/de1/a30379.html#af620af11a09215f106fc6704c88fa411", null ],
+    [ "vertexPerTileEdge", "dd/de1/a30379.html#a5a801e68fac6d59c1a236aeaf374bc9e", null ],
+    [ "walkableClimb", "dd/de1/a30379.html#aa5f6c5daf51b6390b7146f9a8d6de7ec", null ],
+    [ "walkableHeight", "dd/de1/a30379.html#a42b9a553cb3cd5d9c39d4cb7f0f59486", null ],
+    [ "walkableRadius", "dd/de1/a30379.html#a43f00aacc5e1497c169d4ba908883140", null ],
+    [ "walkableSlopeAngle", "dd/de1/a30379.html#a9792dfe730bfc437797a359896a14528", null ]
 ];

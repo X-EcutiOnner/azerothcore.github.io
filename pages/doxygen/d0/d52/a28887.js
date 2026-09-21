@@ -1,6 +1,5 @@
 var a28887 =
 [
-    [ "color", "d0/d52/a28887.html#a2e4ee1d687af07445684907d1bcec4f4", null ],
-    [ "ID", "d0/d52/a28887.html#ac125147c2dc5546a0116f48e08f36e59", null ],
-    [ "spellitemenchantement", "d0/d52/a28887.html#a3a6329c8f5caa3cd6e61138339f37f4d", null ]
+    [ "npc_bombardier_petrov", "d0/d52/a28887.html#ac0314c37918381ed6242fcfa4790461a", null ],
+    [ "OnGossipHello", "d0/d52/a28887.html#ab67c12cf53bc5bec85a0707ce35ce888", null ]
 ];

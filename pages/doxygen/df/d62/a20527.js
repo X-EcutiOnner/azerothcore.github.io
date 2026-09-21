@@ -1,5 +1,5 @@
 var a20527 =
 [
-    [ "achievement_cheese_the_freeze", "df/d62/a20527.html#a5ec4c344a0ed203086be2661e4e24f0e", null ],
-    [ "OnCheck", "df/d62/a20527.html#aaf3342fb3153a4d9223d880c0f2a277a", null ]
+    [ "achievement_smell_saronite", "df/d62/a20527.html#a42dce2aefa2561952dcf5289126035a8", null ],
+    [ "OnCheck", "df/d62/a20527.html#a5180e3e53fa0f4d32d2a305d315bc8b3", null ]
 ];

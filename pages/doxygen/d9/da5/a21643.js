@@ -1,6 +1,7 @@
 var a21643 =
 [
-    [ "npc_valiance_keep_cannoneerAI", "dd/d30/a21647.html", "dd/d30/a21647" ],
-    [ "npc_valiance_keep_cannoneer", "d9/da5/a21643.html#a11f6060a7c6cd7be60001f5c259c94d3", null ],
-    [ "GetAI", "d9/da5/a21643.html#a8bfc1505dedee28d1517ba6a7738ffd5", null ]
+    [ "npc_azure_raider", "d9/da5/a21643.html#a841b0fb8a0ca5ca82f3183835281d0e7", null ],
+    [ "Reset", "d9/da5/a21643.html#a3579986a1769467cb17d3b15242e0551", null ],
+    [ "UpdateAI", "d9/da5/a21643.html#a7aa0c785e976167ef384d7c4dac3294f", null ],
+    [ "_events", "d9/da5/a21643.html#a8d25c785974cb8c50b55b547b982b06f", null ]
 ];

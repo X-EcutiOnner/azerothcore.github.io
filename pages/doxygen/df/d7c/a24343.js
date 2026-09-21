@@ -1,8 +1,12 @@
 var a24343 =
 [
-    [ "npc_kservantAI", "df/d7c/a24343.html#a0687712690f2bacd24da1c94d222e761", null ],
-    [ "IsSummonedBy", "df/d7c/a24343.html#a6aa9c1544fffdd9916eda7a0941dc828", null ],
-    [ "Reset", "df/d7c/a24343.html#a0756ffacb97c83a3028afc620b32f349", null ],
-    [ "WaypointReached", "df/d7c/a24343.html#a577a2ebb91c08bfe2e09bc67eeebb4ef", null ],
-    [ "WaypointReached", "df/d7c/a24343.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "npc_enslaved_netherwing_drake", "df/d7c/a24343.html#a9f848fa3c68b8a269f0b6016058ec364", null ],
+    [ "_GetPlayer", "df/d7c/a24343.html#af02a965e98f35134a3c40ed9cdfb723e", null ],
+    [ "JustDied", "df/d7c/a24343.html#acde70c9d8c675a9a9dd14695dc752184", null ],
+    [ "MovementInform", "df/d7c/a24343.html#afa030a380365daa33c156a0d6be6a6d9", null ],
+    [ "Reset", "df/d7c/a24343.html#aec02b19d27a09f16ef06adb694c2e65e", null ],
+    [ "SpellHit", "df/d7c/a24343.html#a195794e88870a0b1ca35473f5f0378a7", null ],
+    [ "UpdateAI", "df/d7c/a24343.html#aa7ac2dd17bdf4939d74fe5af85c649b9", null ],
+    [ "_playerGUID", "df/d7c/a24343.html#a2f9a6a6cbaa9cab0e6014f6fd1c54346", null ],
+    [ "_tapped", "df/d7c/a24343.html#a9cbafd9536ff7eca33b0b44295aaec92", null ]
 ];

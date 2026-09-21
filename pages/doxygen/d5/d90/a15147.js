@@ -1,9 +1,6 @@
 var a15147 =
 [
-    [ "npc_ancient_wisp", "d5/d90/a15147.html#a70e45e500b3490a034b058ca2ec16d39", null ],
-    [ "DamageTaken", "d5/d90/a15147.html#ad7d96e6b54cdc23a5101338474125e71", null ],
-    [ "JustEngagedWith", "d5/d90/a15147.html#a755ed852b3149ada65c5750410776fc8", null ],
-    [ "Reset", "d5/d90/a15147.html#a1c33cc47d7f60b2b3eb60852f1c36820", null ],
-    [ "UpdateAI", "d5/d90/a15147.html#a51ca214de826d7126f32e49f6852bca3", null ],
-    [ "_instance", "d5/d90/a15147.html#a5e5e51944d49cc52bed4ff4953513f1f", null ]
+    [ "HandleScriptEffect", "d5/d90/a15147.html#a074f54a4b022adc6ea34b3716dec745f", null ],
+    [ "PrepareSpellScript", "d5/d90/a15147.html#a725d5bc1f76614778b140f3061aa2e03", null ],
+    [ "Register", "d5/d90/a15147.html#a339df7ae9553fbae68ce791baef1df5e", null ]
 ];

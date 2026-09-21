@@ -1,7 +1,6 @@
 var a24659 =
 [
-    [ "CheckCast", "d0/dba/a24659.html#ab215bbeea333d250ecbff0482f4f0966", null ],
-    [ "FilterTargets", "d0/dba/a24659.html#a6ee8387c7fed3fd3042852a2f542c5bd", null ],
-    [ "PrepareSpellScript", "d0/dba/a24659.html#a83447d184bb2299987d0c54d5af4c910", null ],
-    [ "Register", "d0/dba/a24659.html#a6107ba00471dd346c363db80fe81b698", null ]
+    [ "PrepareSpellScript", "d0/dba/a24659.html#ad6190cf9ab80ebfd982c1b166d950656", null ],
+    [ "Register", "d0/dba/a24659.html#a4b349a325759517c35d04202e5df9cec", null ],
+    [ "SetDest", "d0/dba/a24659.html#a951f733ab2452655a3b579f8ed190fb0", null ]
 ];

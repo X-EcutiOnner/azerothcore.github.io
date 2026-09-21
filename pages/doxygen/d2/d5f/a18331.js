@@ -1,7 +1,9 @@
 var a18331 =
 [
-    [ "HandleTriggerSpell", "d2/d5f/a18331.html#a109dc4f189a64ac3b5949191d6abd2be", null ],
-    [ "OnRemove", "d2/d5f/a18331.html#a238adc96e80c1890934b23dd4a2685b4", null ],
-    [ "PrepareAuraScript", "d2/d5f/a18331.html#af9ce7433b620fdf1dea570561c514b3b", null ],
-    [ "Register", "d2/d5f/a18331.html#ab36a001ea8cd87703e2694e0765635c0", null ]
+    [ "CountTargets", "d2/d5f/a18331.html#aa72b762d802c27047d485a8a314c6c6d", null ],
+    [ "Load", "d2/d5f/a18331.html#a80a5d0f997f5d68a4fb438a81295fa52", null ],
+    [ "PrepareSpellScript", "d2/d5f/a18331.html#acfd2927786a5bcefa0889d7e8aa40f72", null ],
+    [ "Register", "d2/d5f/a18331.html#a86cad92c07fa31c730a3b560d33ed824", null ],
+    [ "SplitDamage", "d2/d5f/a18331.html#a501a46b3e3988ae8cb8af1ff87eeac65", null ],
+    [ "_targetCount", "d2/d5f/a18331.html#a39b8e5443250777594e3b4417d5ea1ec", null ]
 ];

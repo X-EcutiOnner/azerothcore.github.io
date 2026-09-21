@@ -1,9 +1,8 @@
 var a18715 =
 [
-    [ "npc_icc_ice_sphereAI", "de/d23/a18715.html#a685f45e5cd15b005646e596ff61088e8", null ],
-    [ "DoAction", "de/d23/a18715.html#ac056ecdd93bc716964054f38ab81014e", null ],
-    [ "SelectNewTarget", "de/d23/a18715.html#a9274e05e45c07d14c7df5c623e2769d4", null ],
-    [ "UpdateAI", "de/d23/a18715.html#a5a4117de9e45cea9e9086b3b4daed404", null ],
-    [ "targetGUID", "de/d23/a18715.html#a3e202f9bde2a202d329066f7aab8897c", null ],
-    [ "timer", "de/d23/a18715.html#a42842e92926e18ef2589687d81a7d0d4", null ]
+    [ "NecroticPlagueTargetCheck", "de/d23/a18715.html#abf9c21cc0041e5981a91abce8fb0a58f", null ],
+    [ "operator()", "de/d23/a18715.html#a801a176e367a9f4446fe080845477654", null ],
+    [ "_notAura1", "de/d23/a18715.html#a4f52417f233e1ab06210726670f719f3", null ],
+    [ "_notAura2", "de/d23/a18715.html#affa9b300cd7a7469b0bdf2a72d380dd6", null ],
+    [ "_sourceObj", "de/d23/a18715.html#a7cf2e485e65f2396cfdbfe8e646e4d53", null ]
 ];

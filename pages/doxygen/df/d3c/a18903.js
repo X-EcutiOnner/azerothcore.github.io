@@ -1,6 +1,7 @@
 var a18903 =
 [
-    [ "npc_the_lich_king_controllerAI", "dd/d62/a18907.html", "dd/d62/a18907" ],
-    [ "npc_the_lich_king_controller", "df/d3c/a18903.html#a32b14d699737497ba7c90d8ef17557d7", null ],
-    [ "GetAI", "df/d3c/a18903.html#ae9b6dacb0f4e8e6f12f187ab0dfd2165", null ]
+    [ "HandleProc", "df/d3c/a18903.html#af06730a865009127c7d3e5423afd4d44", null ],
+    [ "PrepareAuraScript", "df/d3c/a18903.html#a71a81a19a0c543a4aa43d6bf002b7bb9", null ],
+    [ "Register", "df/d3c/a18903.html#a6c97b787ce00491a259c575d26189f8c", null ],
+    [ "Validate", "df/d3c/a18903.html#aed9c98e20d916359629e119d6dd2a94f", null ]
 ];

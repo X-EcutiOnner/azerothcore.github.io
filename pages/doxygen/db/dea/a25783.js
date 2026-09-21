@@ -1,8 +1,11 @@
 var a25783 =
 [
-    [ "HandleFinish", "db/dea/a25783.html#aac1981a16cbb61bfaf20c865bcfaf6a8", null ],
-    [ "PrepareSpellScript", "db/dea/a25783.html#a73865997890d4f58cc09d54c2c4e5243", null ],
-    [ "Register", "db/dea/a25783.html#a106cf5d53956b66f8f548caceda41dc8", null ],
-    [ "SelectTarget", "db/dea/a25783.html#ab33513df20e942ba354932df5082efa8", null ],
-    [ "_target", "db/dea/a25783.html#af25d11fc93423ee6e1678ebb5dcf1276", null ]
+    [ "CalcPeriodic", "db/dea/a25783.html#ab5feede17fa79c9d02fa459586eaca41", null ],
+    [ "CalculateAPAmount", "db/dea/a25783.html#af2b1da799f1b3c0373dc6782dabbf89c", null ],
+    [ "CalculateResistanceAmount", "db/dea/a25783.html#a51828f07b0e099c5931161f7aeebaab7", null ],
+    [ "CalculateSPAmount", "db/dea/a25783.html#a255ed8f5158e715313e44b13f30b099f", null ],
+    [ "CalculateStatAmount", "db/dea/a25783.html#ade1b7256d19b526a7f4b1520f6b2f663", null ],
+    [ "HandlePeriodic", "db/dea/a25783.html#a136c8cedca7630543b8937e77571ead1", null ],
+    [ "PrepareAuraScript", "db/dea/a25783.html#a638a2544d9216bec90c433100c0663a0", null ],
+    [ "Register", "db/dea/a25783.html#a55605257006d8218250932357f325bb8", null ]
 ];

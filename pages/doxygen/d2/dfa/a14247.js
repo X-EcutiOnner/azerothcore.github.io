@@ -1,6 +1,8 @@
 var a14247 =
 [
-    [ "npc_jaina_proudmoore_bfuAI", "d1/d43/a14251.html", "d1/d43/a14251" ],
-    [ "npc_jaina_proudmoore_bfu", "d2/dfa/a14247.html#af96c4fac318f44cf6e70817b6960999f", null ],
-    [ "GetAI", "d2/dfa/a14247.html#a4ed6349a5ebdd90053f9d67d24ab6991", null ]
+    [ "HandleDummy", "d2/dfa/a14247.html#a3533f1e0daea7bf0e0e2a5830380159a", null ],
+    [ "HandleScript", "d2/dfa/a14247.html#a528ce741ebde0fb6b796431da800e439", null ],
+    [ "PrepareSpellScript", "d2/dfa/a14247.html#aa64f2238cdf8bf733c7e99db5d076c81", null ],
+    [ "Register", "d2/dfa/a14247.html#a8dea4b47777324b88c7e022f11741b25", null ],
+    [ "Validate", "d2/dfa/a14247.html#a6f49345b2beea56b4eaad390a6062118", null ]
 ];

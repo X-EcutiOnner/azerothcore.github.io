@@ -1,14 +1,9 @@
 var a10267 =
 [
-    [ "BattlegroundMap", "da/dd8/a10267.html#a3a9af8a69ac8d188d7fb86f2a9dda2c3", null ],
-    [ "~BattlegroundMap", "da/dd8/a10267.html#a327d241fd7930e9b3a98ba50014d5131", null ],
-    [ "AddPlayerToMap", "da/dd8/a10267.html#a0325279a2affc7b20a415a3b90a32fc0", null ],
-    [ "CannotEnter", "da/dd8/a10267.html#a493a1932eee44c346d9cfb7d13789bb6", null ],
-    [ "GetBG", "da/dd8/a10267.html#a2fcb965981bb03571f12c11cdbac54a4", null ],
-    [ "InitVisibilityDistance", "da/dd8/a10267.html#af2d6847765d10fab527d77b26dd770ad", null ],
-    [ "RemoveAllPlayers", "da/dd8/a10267.html#a5093cbf8005d06452eeb202513323c1e", null ],
-    [ "RemovePlayerFromMap", "da/dd8/a10267.html#aeddb9dfae8601e95b0a93cefc12c2612", null ],
-    [ "SetBG", "da/dd8/a10267.html#aaa9e5f830953b1a37a684ac566e9b768", null ],
-    [ "SetUnload", "da/dd8/a10267.html#a4c03b1aa9c4c53697ad6284825a1b9c1", null ],
-    [ "m_bg", "da/dd8/a10267.html#aa38fff695728ddedc94dd6eb6bd7bf3b", null ]
+    [ "RectangleBoundary", "da/dd8/a10267.html#af401f84700a15fa1d4fcf78358a74735", null ],
+    [ "IsWithinBoundaryArea", "da/dd8/a10267.html#a2d6c735d080382263a401d91da37b934", null ],
+    [ "_maxX", "da/dd8/a10267.html#a3eff421dfe942634814e7526334f1c07", null ],
+    [ "_maxY", "da/dd8/a10267.html#a9ec96dfb6b1ee804cceaae2f2dce6a22", null ],
+    [ "_minX", "da/dd8/a10267.html#a77db64ebe7e7f5e9621bbbd6e38837e1", null ],
+    [ "_minY", "da/dd8/a10267.html#af5a7e35d5d9ff23c722643141f01a916", null ]
 ];

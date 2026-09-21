@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Kalimdor/zone_teldrassil.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Kalimdor/zone_feralas.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,47 +106,84 @@ $(document).ready(function(){initNavTree('d9/d0f/a03605.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
+<a href="#enum-members">Enumerations</a> &#124;
 <a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">zone_teldrassil.cpp File Reference</div></div>
+  <div class="headertitle"><div class="title">zone_feralas.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">CreatureScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptedCreature.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">SpellScript.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SpellScriptLoader.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Unit.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/daf/a16209.html">npc_tyrande_whisperwind</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d35/a16083.html">spell_gordunni_trap</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
+Enumerations</h2></td></tr>
+<tr class="memitem:a9070084706f8f406bab249f3de3ab1e5"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d0f/a03605.html#a9070084706f8f406bab249f3de3ab1e5">GordunniTrapSpells</a> { <br />
+&#160;&#160;<a class="el" href="../../d9/d0f/a03605.html#a9070084706f8f406bab249f3de3ab1e5a64eb574b6b4376c663ae3a98d44cf3a6">SPELL_GORDUNNI_DIRT_MOUND_CHEST</a> = 11756
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d0f/a03605.html#a9070084706f8f406bab249f3de3ab1e5a9ea4bcd1bfa060af96a1f901c1ddfd57">SPELL_GORDUNNI_DIRT_MOUND_JUNK</a> = 19394
+<br />
+ }</td></tr>
+<tr class="separator:a9070084706f8f406bab249f3de3ab1e5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a3c3f043ac68f32b085d7fa2d72c7da94"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d0f/a03605.html#a3c3f043ac68f32b085d7fa2d72c7da94">AddSC_teldrassil</a> ()</td></tr>
-<tr class="separator:a3c3f043ac68f32b085d7fa2d72c7da94"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a06e54e3edc2df068be660ac788b402e3"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d0f/a03605.html#a06e54e3edc2df068be660ac788b402e3">AddSC_feralas</a> ()</td></tr>
+<tr class="separator:a06e54e3edc2df068be660ac788b402e3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="a3c3f043ac68f32b085d7fa2d72c7da94" name="a3c3f043ac68f32b085d7fa2d72c7da94"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3c3f043ac68f32b085d7fa2d72c7da94">&#9670;&#160;</a></span>AddSC_teldrassil()</h2>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="a9070084706f8f406bab249f3de3ab1e5" name="a9070084706f8f406bab249f3de3ab1e5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9070084706f8f406bab249f3de3ab1e5">&#9670;&#160;</a></span>GordunniTrapSpells</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void AddSC_teldrassil </td>
+          <td class="memname">enum <a class="el" href="../../d9/d0f/a03605.html#a9070084706f8f406bab249f3de3ab1e5">GordunniTrapSpells</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a9070084706f8f406bab249f3de3ab1e5a64eb574b6b4376c663ae3a98d44cf3a6" name="a9070084706f8f406bab249f3de3ab1e5a64eb574b6b4376c663ae3a98d44cf3a6"></a>SPELL_GORDUNNI_DIRT_MOUND_CHEST&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9070084706f8f406bab249f3de3ab1e5a9ea4bcd1bfa060af96a1f901c1ddfd57" name="a9070084706f8f406bab249f3de3ab1e5a9ea4bcd1bfa060af96a1f901c1ddfd57"></a>SPELL_GORDUNNI_DIRT_MOUND_JUNK&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   23</span>{</div>
+<div class="line"><span class="lineno">   24</span>    <a class="code hl_enumvalue" href="../../d9/d0f/a03605.html#a9070084706f8f406bab249f3de3ab1e5a64eb574b6b4376c663ae3a98d44cf3a6">SPELL_GORDUNNI_DIRT_MOUND_CHEST</a> = 11756,</div>
+<div class="line"><span class="lineno">   25</span>    <a class="code hl_enumvalue" href="../../d9/d0f/a03605.html#a9070084706f8f406bab249f3de3ab1e5a9ea4bcd1bfa060af96a1f901c1ddfd57">SPELL_GORDUNNI_DIRT_MOUND_JUNK</a>  = 19394</div>
+<div class="line"><span class="lineno">   26</span>};</div>
+<div class="ttc" id="aa03605_html_a9070084706f8f406bab249f3de3ab1e5a64eb574b6b4376c663ae3a98d44cf3a6"><div class="ttname"><a href="../../d9/d0f/a03605.html#a9070084706f8f406bab249f3de3ab1e5a64eb574b6b4376c663ae3a98d44cf3a6">SPELL_GORDUNNI_DIRT_MOUND_CHEST</a></div><div class="ttdeci">@ SPELL_GORDUNNI_DIRT_MOUND_CHEST</div><div class="ttdef"><b>Definition:</b> zone_feralas.cpp:24</div></div>
+<div class="ttc" id="aa03605_html_a9070084706f8f406bab249f3de3ab1e5a9ea4bcd1bfa060af96a1f901c1ddfd57"><div class="ttname"><a href="../../d9/d0f/a03605.html#a9070084706f8f406bab249f3de3ab1e5a9ea4bcd1bfa060af96a1f901c1ddfd57">SPELL_GORDUNNI_DIRT_MOUND_JUNK</a></div><div class="ttdeci">@ SPELL_GORDUNNI_DIRT_MOUND_JUNK</div><div class="ttdef"><b>Definition:</b> zone_feralas.cpp:25</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="a06e54e3edc2df068be660ac788b402e3" name="a06e54e3edc2df068be660ac788b402e3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a06e54e3edc2df068be660ac788b402e3">&#9670;&#160;</a></span>AddSC_feralas()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_feralas </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   42</span>{</div>
-<div class="line"><span class="lineno">   43</span>    <a class="code hl_define" href="../../d3/d2c/a00764.html#a5e7352841895df7117e2830448eb533f">RegisterCreatureAI</a>(<a class="code hl_struct" href="../../d0/daf/a16209.html">npc_tyrande_whisperwind</a>);</div>
-<div class="line"><span class="lineno">   44</span>}</div>
-<div class="ttc" id="aa00764_html_a5e7352841895df7117e2830448eb533f"><div class="ttname"><a href="../../d3/d2c/a00764.html#a5e7352841895df7117e2830448eb533f">RegisterCreatureAI</a></div><div class="ttdeci">#define RegisterCreatureAI(ai_name)</div><div class="ttdef"><b>Definition:</b> CreatureScript.h:71</div></div>
-<div class="ttc" id="aa16209_html"><div class="ttname"><a href="../../d0/daf/a16209.html">npc_tyrande_whisperwind</a></div><div class="ttdef"><b>Definition:</b> zone_teldrassil.cpp:24</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   51</span>{</div>
+<div class="line"><span class="lineno">   52</span>    <a class="code hl_define" href="../../d3/d4f/a00761.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d3/d35/a16083.html">spell_gordunni_trap</a>);</div>
+<div class="line"><span class="lineno">   53</span>}</div>
+<div class="ttc" id="aa00761_html_ae221e5976ab29ba14fec3b073a03670f"><div class="ttname"><a href="../../d3/d4f/a00761.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a></div><div class="ttdeci">#define RegisterSpellScript(spell_script)</div><div class="ttdef"><b>Definition:</b> SpellScriptLoader.h:88</div></div>
+<div class="ttc" id="aa16083_html"><div class="ttname"><a href="../../d3/d35/a16083.html">spell_gordunni_trap</a></div><div class="ttdef"><b>Definition:</b> zone_feralas.cpp:30</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00071">RegisterCreatureAI</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00088">RegisterSpellScript</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00100">AddKalimdorScripts()</a>.</p>
 
@@ -157,8 +194,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_5ee14a0f6ab8ad29bd27b6821baacc69.html">Kalimdor</a></li><li class="navelem"><a class="el" href="../../d9/d0f/a03605.html">zone_teldrassil.cpp</a></li>
-    <li class="footer">Generated on Mon Sep 14 2026 23:32:56 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_5ee14a0f6ab8ad29bd27b6821baacc69.html">Kalimdor</a></li><li class="navelem"><a class="el" href="../../d9/d0f/a03605.html">zone_feralas.cpp</a></li>
+    <li class="footer">Generated on Mon Sep 21 2026 23:32:55 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

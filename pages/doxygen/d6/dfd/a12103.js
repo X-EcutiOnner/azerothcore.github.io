@@ -1,6 +1,7 @@
 var a12103 =
 [
-    [ "EffectCalcSpellModHandler", "d6/dfd/a12103.html#abe81396a3f1c1b3b07c10cf0e191546c", null ],
-    [ "Call", "d6/dfd/a12103.html#a5ca2a9c329a7dbbb7e835849ca4479aa", null ],
-    [ "pEffectHandlerScript", "d6/dfd/a12103.html#a15c0b24641cb04f31bb3d651dae59448", null ]
+    [ "EffectAuraNameCheck", "d6/dfd/a12103.html#a4b10ec0fcb3ffd841cf790574875017d", null ],
+    [ "Check", "d6/dfd/a12103.html#a7fff405a99c65d3e846463ca29a8ddfd", null ],
+    [ "ToString", "d6/dfd/a12103.html#a602fc1ddafe663e2e5ddceaeaec8b118", null ],
+    [ "effAurName", "d6/dfd/a12103.html#abcf90ed5a832b5fe5ce3913a812da05d", null ]
 ];

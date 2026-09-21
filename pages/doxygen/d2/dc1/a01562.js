@@ -1,4 +1,5 @@
 var a01562 =
 [
-    [ "InstanceHasScript", "d2/dc1/a01562.html#aad76768c8aee9ce3ac24657437adb0de", null ]
+    [ "_characterCacheByNameStore", "d2/dc1/a01562.html#a409431c82eb6a62b40d55a773cdb02c6", null ],
+    [ "_characterCacheStore", "d2/dc1/a01562.html#a2a209686002fed926e50d55f7c7ca795", null ]
 ];

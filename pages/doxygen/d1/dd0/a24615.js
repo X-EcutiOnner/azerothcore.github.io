@@ -1,7 +1,9 @@
 var a24615 =
 [
-    [ "CheckProc", "d1/dd0/a24615.html#a7d829589ea098e002206b72f789c95df", null ],
-    [ "PrepareAuraScript", "d1/dd0/a24615.html#a04258b702d79372c0e9c2e1845a6563e", null ],
-    [ "Register", "d1/dd0/a24615.html#af62e0a7a43a6762e8e067931e7ec09af", null ],
-    [ "Validate", "d1/dd0/a24615.html#a56eaad6f2b1d14cea5fe3f7f27cdb877", null ]
+    [ "npc_pet_shaman_fire_elemental", "d1/dd0/a24615.html#a3428642963fc9e7588ec92fd838f1af9", null ],
+    [ "InitializeAI", "d1/dd0/a24615.html#aef4865f83ce0c73efe0c47a11ac87594", null ],
+    [ "JustEngagedWith", "d1/dd0/a24615.html#ac274b9edb03ab13a8e95d8c4fe5055db", null ],
+    [ "UpdateAI", "d1/dd0/a24615.html#a2280e5cc5187a91917a1e517e80e960d", null ],
+    [ "_events", "d1/dd0/a24615.html#aa4578cdbe41d28e399247c84c9fe8049", null ],
+    [ "_initAttack", "d1/dd0/a24615.html#a2df79acc05dd8489e9e994e044b45404", null ]
 ];

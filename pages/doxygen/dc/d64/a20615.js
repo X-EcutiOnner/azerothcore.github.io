@@ -1,6 +1,6 @@
 var a20615 =
 [
-    [ "OnPeriodic", "dc/d64/a20615.html#a8a12342f694499043e8ed4446fd92d36", null ],
-    [ "PrepareAuraScript", "dc/d64/a20615.html#a9294210ece0c3bcda0639d1fc486cc9a", null ],
-    [ "Register", "dc/d64/a20615.html#a381709d53101832de6b2161c4a33a0d4", null ]
+    [ "HandleAfterEffectApply", "dc/d64/a20615.html#af655bb31dc24a3cede08ca371f784913", null ],
+    [ "PrepareAuraScript", "dc/d64/a20615.html#a1824853d0b369deac0745fabe2df657c", null ],
+    [ "Register", "dc/d64/a20615.html#a33e7c6cab2c99789661e6bb2d6b9a593", null ]
 ];

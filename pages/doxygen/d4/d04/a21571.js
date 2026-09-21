@@ -1,15 +1,11 @@
 var a21571 =
 [
-    [ "npc_azure_saboteur", "d4/d04/a21571.html#a051e99f11de367f810d9404a723173fd", null ],
-    [ "FinishPointReached", "d4/d04/a21571.html#a451777273b76e4651b1f4309e8477c9f", null ],
-    [ "InitializeAI", "d4/d04/a21571.html#acf28368986b940b571f493bd663e8e09", null ],
-    [ "MoveInLineOfSight", "d4/d04/a21571.html#a1a65d5100befd33a104a13eef0800ae7", null ],
-    [ "UpdateAI", "d4/d04/a21571.html#af5cf21e08a62b09793e99a92df1ef1b7", null ],
-    [ "WaypointReached", "d4/d04/a21571.html#a7c6f44f0dcdb0d5abc18e304383d3b96", null ],
-    [ "WaypointReached", "d4/d04/a21571.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "_boss", "d4/d04/a21571.html#ab23d685ca979bba79a3d9a14117350f8", null ],
-    [ "_count", "d4/d04/a21571.html#aa431780ab6b90976494058a602377825", null ],
-    [ "_events", "d4/d04/a21571.html#a7ee513b49f09971f5fea099e8c9b7bc7", null ],
-    [ "_instance", "d4/d04/a21571.html#ab220c76d2fd72df36b5b92ee897d9d14", null ],
-    [ "_isOpening", "d4/d04/a21571.html#a59ecc6687f1d5d948c6988d14f577ffd", null ]
+    [ "boss_cyanigosa", "d4/d04/a21571.html#af85a0c366de8785cd89d14f7990bfb54", null ],
+    [ "EnterEvadeMode", "d4/d04/a21571.html#aa3d989cb4c094713d6adb4305f8e6113", null ],
+    [ "ExecuteEvent", "d4/d04/a21571.html#a694dda590c17a03534f8744838ac3176", null ],
+    [ "JustDied", "d4/d04/a21571.html#ad70efce47f2f5d411fd42fd61ec51794", null ],
+    [ "JustEngagedWith", "d4/d04/a21571.html#a2432aa3610747c52f6ec3de1def55f18", null ],
+    [ "KilledUnit", "d4/d04/a21571.html#a1f2810d9f2a291576fa29a872b1f6470", null ],
+    [ "MoveInLineOfSight", "d4/d04/a21571.html#a55645a68448a8c83b85b05c7a29f0f6a", null ],
+    [ "SpellHitTarget", "d4/d04/a21571.html#a7b393188f0f8d192baab0eed48f0a5d3", null ]
 ];

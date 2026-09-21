@@ -1,8 +1,13 @@
 var a12779 =
 [
-    [ "boss_drakkisath", "d2/d33/a12779.html#a77fdb667d0dc262dcacc5e988cf5fc8e", null ],
-    [ "JustEngagedWith", "d2/d33/a12779.html#a502ca053bb96215c8386ee694a963cfa", null ],
-    [ "UpdateAI", "d2/d33/a12779.html#a90bf913d6d94e5fc6d982049dd96e3b1", null ],
-    [ "_conflagrateTarget", "d2/d33/a12779.html#aec0bd29626d8b59e33bfba370788ac40", null ],
-    [ "_conflagrateThreat", "d2/d33/a12779.html#ac1cb21a95bbfcfbffc5a3046b233c183", null ]
+    [ "npc_rocknot", "d2/d33/a12779.html#a890eaac55162130b05c7d2dba26cc872", null ],
+    [ "DoGo", "d2/d33/a12779.html#a242e871de8e19462fcab6fb9eae1039e", null ],
+    [ "Reset", "d2/d33/a12779.html#afaa1977f370fe699c75ebb83c0d291dd", null ],
+    [ "sQuestReward", "d2/d33/a12779.html#a633123eb64bd6d46ace12fd0e1853aef", null ],
+    [ "UpdateAI", "d2/d33/a12779.html#a15755c98f937784f538d547b15c2d192", null ],
+    [ "WaypointReached", "d2/d33/a12779.html#a3711cae23b14dcce2ac1938aaeb9b961", null ],
+    [ "WaypointReached", "d2/d33/a12779.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_breakDoorTimer", "d2/d33/a12779.html#a44955a4ef0e730f72848e582892380b5", null ],
+    [ "_breakKegTimer", "d2/d33/a12779.html#ad6e48e6f81521b89da9f528e079c1c90", null ],
+    [ "instance", "d2/d33/a12779.html#a71e6532128131a10aae575d1bac023d0", null ]
 ];

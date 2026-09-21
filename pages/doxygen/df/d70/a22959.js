@@ -1,7 +1,7 @@
 var a22959 =
 [
-    [ "CheckProc", "df/d70/a22959.html#a0968b7b32f2d2bef6035e030f544088a", null ],
-    [ "PrepareAuraScript", "df/d70/a22959.html#ac424e41948196a6e60b790ebcf40783f", null ],
-    [ "Register", "df/d70/a22959.html#a06bdac68e36b43ee534e937ffd974086", null ],
-    [ "Update", "df/d70/a22959.html#af6c228840f6af96e353ba964fdd01e54", null ]
+    [ "HandleOnEffectApply", "df/d70/a22959.html#a01d6ca6f8ec21ad42445b5e581c0f79b", null ],
+    [ "HandleOnEffectRemove", "df/d70/a22959.html#a59952b33d7c4705a6bfe7f3443bbf005", null ],
+    [ "PrepareAuraScript", "df/d70/a22959.html#a45df29f911b1232e306e04a182648904", null ],
+    [ "Register", "df/d70/a22959.html#a71fbf189fc116eb7d14944ff4060a9a9", null ]
 ];

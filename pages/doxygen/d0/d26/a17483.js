@@ -1,6 +1,5 @@
 var a17483 =
 [
-    [ "npc_pos_after_first_bossAI", "d2/d54/a17487.html", "d2/d54/a17487" ],
-    [ "npc_pos_after_first_boss", "d0/d26/a17483.html#a76ae57195ceca454928245f2db12f68c", null ],
-    [ "GetAI", "d0/d26/a17483.html#a3f807335f79218ecc70c32f5496267a6", null ]
+    [ "at_hor_battered_hilt_throw", "d0/d26/a17483.html#a857812bd67ee2e62c5e450fae591cd9d", null ],
+    [ "OnTrigger", "d0/d26/a17483.html#a30c72b4dc7e48fc87374cbfc2cdf0f50", null ]
 ];

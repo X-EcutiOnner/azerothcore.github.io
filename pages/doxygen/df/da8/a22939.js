@@ -1,6 +1,6 @@
 var a22939 =
 [
-    [ "HandleScriptEffect", "df/da8/a22939.html#aeafb2893534c8e188bbb519b6c7a0113", null ],
-    [ "PrepareSpellScript", "df/da8/a22939.html#a6caaa93244719d7fc8c3f28280a3c1c5", null ],
-    [ "Register", "df/da8/a22939.html#a99e2243ca4372eab1a742f8979d61334", null ]
+    [ "HandleScriptEffect", "df/da8/a22939.html#aa60961c2609184e739dea3be8ba992d5", null ],
+    [ "PrepareSpellScript", "df/da8/a22939.html#aacde592314399112786b024153389024", null ],
+    [ "Register", "df/da8/a22939.html#a3a2299da6fd73d14c7771e7a2c8a4ebd", null ]
 ];

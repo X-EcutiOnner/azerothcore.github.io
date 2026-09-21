@@ -1,7 +1,6 @@
 var a26863 =
 [
-    [ "HandleProc", "dd/de4/a26863.html#ac85ee0780894f16c8760ede0fa555bd8", null ],
-    [ "PrepareAuraScript", "dd/de4/a26863.html#a6583928e441d418130df561962518deb", null ],
-    [ "Register", "dd/de4/a26863.html#a9548fa0c523182c58e0dcc76b2db7f69", null ],
-    [ "Validate", "dd/de4/a26863.html#a652e134d79d4e4a229b723c8d388cf5d", null ]
+    [ "CheckTarget", "dd/de4/a26863.html#af1dae4f351ccaa7bc9b2ea315f0752c5", null ],
+    [ "PrepareSpellScript", "dd/de4/a26863.html#a8f4075c80c7dcaa16f71bc1b396d005f", null ],
+    [ "Register", "dd/de4/a26863.html#af4a27df3090a45ebd5db29c58e9ea47f", null ]
 ];

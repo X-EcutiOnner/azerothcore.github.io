@@ -1,5 +1,6 @@
 var a23483 =
 [
-    [ "at_underbog_ghazan", "d8/d4e/a23483.html#aa6c74496bb30bf04e66ac3cd06110811", null ],
-    [ "_OnTrigger", "d8/d4e/a23483.html#a82d82a14a3d5c5125c331df126b9006a", null ]
+    [ "HandleScript", "d8/d4e/a23483.html#ad81007cd08ee18bfc7cda4221cbc8482", null ],
+    [ "PrepareSpellScript", "d8/d4e/a23483.html#a60f0bb4882d3f75f0839cd0d8ab2707d", null ],
+    [ "Register", "d8/d4e/a23483.html#ac06f4246c5cecc4875bc93811eaeb839", null ]
 ];

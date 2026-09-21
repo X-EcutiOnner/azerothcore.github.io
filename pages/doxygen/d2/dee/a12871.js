@@ -1,5 +1,8 @@
 var a12871 =
 [
-    [ "at_blackrock_stadium", "d2/dee/a12871.html#a9f577437f231a189c02e50e71ffcb85a", null ],
-    [ "OnTrigger", "d2/dee/a12871.html#a691b4614d6f28733f01a38d8420b823b", null ]
+    [ "boss_highlord_omokk", "d2/dee/a12871.html#a31dd2c47b3ed33fa65d3b6a7a5cb384c", null ],
+    [ "JustDied", "d2/dee/a12871.html#a2a8931227eb65759ceebd27919976cb5", null ],
+    [ "JustEngagedWith", "d2/dee/a12871.html#a0bd4e1e0f72a0b6a8792d508c401caf8", null ],
+    [ "Reset", "d2/dee/a12871.html#ada6bf702dc1827e60b558b4fb752b789", null ],
+    [ "UpdateAI", "d2/dee/a12871.html#a131ebd1dd8d95c7d910af1b21442c861", null ]
 ];

@@ -1,7 +1,5 @@
 var a28199 =
 [
-    [ "FilterTargets", "d9/d7f/a28199.html#a5ee420ce696d23d836ff6e9e1def6405", null ],
-    [ "HandleEffect", "d9/d7f/a28199.html#a064fdac9158e35f290b51ecf9bf537b1", null ],
-    [ "PrepareSpellScript", "d9/d7f/a28199.html#a53b5772c87574beb5b295c26fe983b76", null ],
-    [ "Register", "d9/d7f/a28199.html#a5e93d0d708d2304d9166c47ad285ada5", null ]
+    [ "AreaTrigger_at_coilfang_waterfall", "d9/d7f/a28199.html#aa2e9a01adad7e195860bbc6c55131024", null ],
+    [ "OnTrigger", "d9/d7f/a28199.html#aea1c4b45ae855d0cda81dbad102b8104", null ]
 ];

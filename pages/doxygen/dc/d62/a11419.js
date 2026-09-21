@@ -1,12 +1,9 @@
 var a11419 =
 [
-    [ "StartMirrorTimer", "dc/d62/a11419.html#a86039d4a721636477f266712682883f0", null ],
-    [ "StartMirrorTimer", "dc/d62/a11419.html#a5202945882fb3cb5dd8574b6e6f8d5b0", null ],
-    [ "Write", "dc/d62/a11419.html#afa6cc6032804e3d8f3f7797b2231847f", null ],
-    [ "MaxValue", "dc/d62/a11419.html#a3f26c682d547be40d2800eff2189348d", null ],
-    [ "Paused", "dc/d62/a11419.html#af3994b2c6a57e734f9d1ebeedcab7759", null ],
-    [ "Scale", "dc/d62/a11419.html#a5879b6c796d7d7c2fd59001d2813a6b3", null ],
-    [ "SpellID", "dc/d62/a11419.html#a3d90aa3046eb6272249f8fe171d7cd2f", null ],
-    [ "Timer", "dc/d62/a11419.html#abb9dbec2c5df4b2dfbc96314a0465011", null ],
-    [ "Value", "dc/d62/a11419.html#ad0f2f8f95fdea9a7555e3056bb49cc53", null ]
+    [ "ItemEnchantTimeUpdate", "dc/d62/a11419.html#ade76f6fcc5a2f4032ba1f6a10022de53", null ],
+    [ "Write", "dc/d62/a11419.html#ade148bd152f0708ed90d549d8f9feb0a", null ],
+    [ "Duration", "dc/d62/a11419.html#ad576ce6011716519a70c6e00e0753a49", null ],
+    [ "ItemGuid", "dc/d62/a11419.html#aeff05f6bb1235655b81d21a2f7aecdc8", null ],
+    [ "PlayerGuid", "dc/d62/a11419.html#a4623875e38909d8b7300e7d9c703b216", null ],
+    [ "Slot", "dc/d62/a11419.html#ad8ddb0dfbe2c07385cc2c95a456086b5", null ]
 ];

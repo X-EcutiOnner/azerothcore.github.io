@@ -1,7 +1,21 @@
 var a10047 =
 [
-    [ "BindRow", "dc/d3f/a10055.html", "dc/d3f/a10055" ],
-    [ "InstanceRow", "de/d4d/a10051.html", "de/d4d/a10051" ],
-    [ "binds", "d4/d78/a10047.html#a919bd3014a6ed66fe249a1726abdd625", null ],
-    [ "instances", "d4/d78/a10047.html#a61ada11aeaf8d4c9f6b7355674d2a9ef", null ]
+    [ "BankTab", "d4/d78/a10047.html#a4cc137e35b63b86c5d436e6bc15ad590", null ],
+    [ "Delete", "d4/d78/a10047.html#a834715b072cf26a56933a971de7bdde4", null ],
+    [ "GetIcon", "d4/d78/a10047.html#a2406a477fff518690b1a9656d0c2129b", null ],
+    [ "GetItem", "d4/d78/a10047.html#a9c5baa8eb92520b73c646488e3b38caa", null ],
+    [ "GetName", "d4/d78/a10047.html#a0360f82663e5f9e073bcb28affcdf0b3", null ],
+    [ "GetText", "d4/d78/a10047.html#ace1887dd0ef166be4fc6f8cb894d80b3", null ],
+    [ "LoadFromDB", "d4/d78/a10047.html#a016c23dc9710058e969ccfc51501afd6", null ],
+    [ "LoadItemFromDB", "d4/d78/a10047.html#aa7bd9e67c6685878fa7bf158c09fae51", null ],
+    [ "SendText", "d4/d78/a10047.html#af1a085572a311b2cd1a3ae3edb4af4dd", null ],
+    [ "SetInfo", "d4/d78/a10047.html#afb645aa2e4219558eb2f493782804657", null ],
+    [ "SetItem", "d4/d78/a10047.html#a3013ae191efb43063162f4cbb5508392", null ],
+    [ "SetText", "d4/d78/a10047.html#a5945b66216eebcb4ac68a6e429c15972", null ],
+    [ "m_guildId", "d4/d78/a10047.html#abc272a367b69a90207dbf10580a55038", null ],
+    [ "m_icon", "d4/d78/a10047.html#a25217a0d4f9dc91c853f7007f63f140b", null ],
+    [ "m_items", "d4/d78/a10047.html#a80cc2a64638722401276263d01e5ee27", null ],
+    [ "m_name", "d4/d78/a10047.html#a5555e808bc4597ad9a74e69b95e56149", null ],
+    [ "m_tabId", "d4/d78/a10047.html#ab055a2b7500c83c96a78c396dc60588a", null ],
+    [ "m_text", "d4/d78/a10047.html#afc7ac5ed7c4c2d79170548fe061917eb", null ]
 ];

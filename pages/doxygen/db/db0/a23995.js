@@ -1,7 +1,14 @@
 var a23995 =
 [
-    [ "HandleDamage", "db/db0/a23995.html#add7e78111217d00bfa3dfa5b3eb490f9", null ],
-    [ "HandleTargets", "db/db0/a23995.html#ac9e455d4ef5cc7b7ce424b70b4387c78", null ],
-    [ "PrepareSpellScript", "db/db0/a23995.html#a46b62a09ea23cb102b0e5cf075c727d4", null ],
-    [ "Register", "db/db0/a23995.html#a8873614ae22c908cb2cf49129fc53be2", null ]
+    [ "advisor_baseAI", "db/db0/a23995.html#a3c68b7ee961af2d9dabb15c7e054d45b", null ],
+    [ "DamageTaken", "db/db0/a23995.html#a678d09ec3b3d5a4d922a0fc117192349", null ],
+    [ "JustDied", "db/db0/a23995.html#a8da09edce761f1f1e1b7eb96ec7a529b", null ],
+    [ "JustEngagedWith", "db/db0/a23995.html#a1e4b1ff264f4c1586515f56531b77dea", null ],
+    [ "JustRespawned", "db/db0/a23995.html#a6491439ac2fd4acec3379a17be92251e", null ],
+    [ "Reset", "db/db0/a23995.html#a008c30414ecebf4e2996d06b81539255", null ],
+    [ "ScheduleEvents", "db/db0/a23995.html#a24d22ccec834770bc5bcf44119fb0045", null ],
+    [ "SpellHit", "db/db0/a23995.html#a4fc41f3985244b6baf25b3417f67054e", null ],
+    [ "UpdateAI", "db/db0/a23995.html#aa89d3479b2e0bd8dd18572135aa45235", null ],
+    [ "_feigning", "db/db0/a23995.html#ae1c2011ba993c8d589bf6fe45602ac41", null ],
+    [ "_preventDeath", "db/db0/a23995.html#ab6c4a3f241fa5417f0a1d450ddb811ca", null ]
 ];

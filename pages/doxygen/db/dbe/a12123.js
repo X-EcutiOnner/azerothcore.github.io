@@ -1,6 +1,6 @@
 var a12123 =
 [
-    [ "CheckProcHandler", "db/dbe/a12123.html#a1b5bfc85cb9a81a64ebd4b769e3d3651", null ],
-    [ "Call", "db/dbe/a12123.html#a977558dc8838a05259effc268235696a", null ],
-    [ "_HandlerScript", "db/dbe/a12123.html#abcb28d1a2f32402511c1e659b2f3b443", null ]
+    [ "BeforeHitHandler", "db/dbe/a12123.html#a0c2f048fc10f408a299a8b537ad7551d", null ],
+    [ "Call", "db/dbe/a12123.html#a393057cca72c41e193508bf150ed0b1f", null ],
+    [ "_pBeforeHitHandlerScript", "db/dbe/a12123.html#acecb7a8844155ff6eeb3f09582d7a475", null ]
 ];

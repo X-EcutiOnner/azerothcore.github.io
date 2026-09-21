@@ -1,6 +1,7 @@
 var a26447 =
 [
-    [ "CheckProc", "de/df0/a26447.html#ae67afabe644d2e11f85950d02325373a", null ],
-    [ "PrepareAuraScript", "de/df0/a26447.html#adf2825375a332d2829778d2a57c6f511", null ],
-    [ "Register", "de/df0/a26447.html#ad9f4946abaf474e31b518b57e1de5bf1", null ]
+    [ "HandleDummy", "de/df0/a26447.html#a334563491c3cbb9daa9d97dad738e9e5", null ],
+    [ "PrepareSpellScript", "de/df0/a26447.html#a69fe453f3c6764c3977c539d5fc71049", null ],
+    [ "Register", "de/df0/a26447.html#af81469f371224a3180d73b3cf8cf001a", null ],
+    [ "Validate", "de/df0/a26447.html#af0ab473a4ec7f1eebb70d0f2344de8ca", null ]
 ];

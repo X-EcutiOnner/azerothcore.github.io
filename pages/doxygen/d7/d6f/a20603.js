@@ -1,6 +1,7 @@
 var a20603 =
 [
-    [ "OnRemoveStun", "d7/d6f/a20603.html#a67aeca34d32c43ff647dc2dbe83cbb7f", null ],
-    [ "PrepareAuraScript", "d7/d6f/a20603.html#a0be1d9a7dcba0bff75d59aed926efe55", null ],
-    [ "Register", "d7/d6f/a20603.html#a3166cfcd2acdcd4460217503d4008367", null ]
+    [ "HandleAfterEffectApply", "d7/d6f/a20603.html#adab765d78094eec673abce5140145267", null ],
+    [ "OnApply", "d7/d6f/a20603.html#aab4331a7a55dc6f713db02726ec22e3a", null ],
+    [ "PrepareAuraScript", "d7/d6f/a20603.html#acb827ae4299ae482d9b7f3fb09bbcc52", null ],
+    [ "Register", "d7/d6f/a20603.html#ac1007ce2ee5e046639829558855f0188", null ]
 ];

@@ -1,8 +1,10 @@
 var a07823 =
 [
-    [ "NodeId", "d8/d49/a07823.html#a09d4904c622dd7810e154bc0f3bd7eaf", null ],
-    [ "TextAllianceTaken", "d8/d49/a07823.html#a20cb8eaefa0e45b45a57645c62409ba4", null ],
-    [ "TextAssaulted", "d8/d49/a07823.html#a2e49a6d7f8ca935800062d98f1c660de", null ],
-    [ "TextDefended", "d8/d49/a07823.html#a27ee2d5be23a110943438a8888b14202", null ],
-    [ "TextHordeTaken", "d8/d49/a07823.html#a835c00ebdc2fe61f7e7757b0ed26bd1d", null ]
+    [ "OwnerId", "d8/d49/a07823.html#ae6203d7a867838b279825925841a99df", null ],
+    [ "PrevOwnerId", "d8/d49/a07823.html#a8357cc41fe125545d473c1f14c3ffa05", null ],
+    [ "PrevState", "d8/d49/a07823.html#ab97cde6dcd3c3e91bb94bf39d104bf77", null ],
+    [ "State", "d8/d49/a07823.html#a6e2b1f8c232c27ab24e3ca8bca8f6b03", null ],
+    [ "Timer", "d8/d49/a07823.html#a945afa538fc0dd1a4be11f5b5ac74bcb", null ],
+    [ "TotalOwnerId", "d8/d49/a07823.html#aec31f39eb98a3686ead3b1b99c7abfde", null ],
+    [ "Tower", "d8/d49/a07823.html#a222db96ad937e31986c0c39a5a371dd7", null ]
 ];

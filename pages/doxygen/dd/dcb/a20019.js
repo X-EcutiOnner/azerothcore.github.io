@@ -1,11 +1,8 @@
 var a20019 =
 [
-    [ "boss_maiden_of_griefAI", "dd/dcb/a20019.html#a521decece7a53165349ebcfb9fb8dfb5", null ],
-    [ "JustDied", "dd/dcb/a20019.html#abd3977cca1cbbf4b64c278a641514fc8", null ],
-    [ "JustEngagedWith", "dd/dcb/a20019.html#acf30049b09bbaf3e30f2dcb77bf1b4e0", null ],
-    [ "KilledUnit", "dd/dcb/a20019.html#a3d2173db5a852a356c187b2d2771b75f", null ],
-    [ "Reset", "dd/dcb/a20019.html#a46776004549b0dcfcf73351225adaad8", null ],
-    [ "UpdateAI", "dd/dcb/a20019.html#a4e26fc785b3c72982f9d98e0b120e929", null ],
-    [ "events", "dd/dcb/a20019.html#aa2d2ccea219b679594d8d8b4a38d70cc", null ],
-    [ "pInstance", "dd/dcb/a20019.html#abc195718a208a926f978d7f0fe0e7925", null ]
+    [ "HandleEffectPeriodic", "dd/dcb/a20019.html#abb453e3d38677be7082f2cd4e43134cc", null ],
+    [ "HandleOnEffectApply", "dd/dcb/a20019.html#a3ec47d5d9fdbdcfe671e02c3b0f55980", null ],
+    [ "PrepareAuraScript", "dd/dcb/a20019.html#ac00c6d9b1cccb38b5d87b3139295614c", null ],
+    [ "Register", "dd/dcb/a20019.html#ae4de4f0f2f4dc4ac98706ddd898df7c5", null ],
+    [ "Validate", "dd/dcb/a20019.html#a09481646f8ec90b0135d93d83cc18929", null ]
 ];

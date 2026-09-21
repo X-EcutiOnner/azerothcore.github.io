@@ -1,5 +1,6 @@
 var a14511 =
 [
-    [ "at_zulgurub_temple_speech", "d8/d62/a14511.html#ab727ad7cb7f0a0e8309bbab233766cde", null ],
-    [ "_OnTrigger", "d8/d62/a14511.html#a6176a8a2391baf320186868a2e8671ac", null ]
+    [ "npc_eagle_trash_aggro_trigger", "d8/d62/a14511.html#a9d41e8abe764fd0f8cedd888418aafb2", null ],
+    [ "MoveInLineOfSight", "d8/d62/a14511.html#aa8892e7f2bec9f26320cd9749e648ebd", null ],
+    [ "_instance", "d8/d62/a14511.html#a39a222e1eb0a3378c8fcaf1da5629547", null ]
 ];

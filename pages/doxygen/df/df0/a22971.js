@@ -1,7 +1,7 @@
 var a22971 =
 [
-    [ "SuckBackEvent", "df/df0/a22971.html#a6525e2aefec2680fde20e27ebf962f4c", null ],
-    [ "Execute", "df/df0/a22971.html#aae1664e6ef9d90ec8a0e12554b991bf0", null ],
-    [ "_action", "df/df0/a22971.html#abc54669df2dba0238723a40ababe4c0a", null ],
-    [ "_owner", "df/df0/a22971.html#a4d8bc09803f7786022c1836457ded488", null ]
+    [ "HandleScriptEffect", "df/df0/a22971.html#a16f131e42272bc75c99df2a9cf43470e", null ],
+    [ "PrepareSpellScript", "df/df0/a22971.html#a510e80ef85ae3057e30c7c710aaf187b", null ],
+    [ "Register", "df/df0/a22971.html#ae26ff6be3b2d4a1975ace3734603ab41", null ],
+    [ "Validate", "df/df0/a22971.html#a58ff628906f3077a354ed486d3c56d23", null ]
 ];

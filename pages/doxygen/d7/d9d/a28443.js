@@ -1,5 +1,5 @@
 var a28443 =
 [
-    [ "item_petrov_cluster_bombs", "d7/d9d/a28443.html#a1a76760f7c4617a40d96b9833e7466df", null ],
-    [ "OnUse", "d7/d9d/a28443.html#aeecb6a7756b4af06f46951dfb51c054f", null ]
+    [ "go_scourge_cage", "d7/d9d/a28443.html#a76dfa458a52c950fbc0a86412e1ad490", null ],
+    [ "OnGossipHello", "d7/d9d/a28443.html#ab4e97cd290342d623d212cc7cec227d5", null ]
 ];

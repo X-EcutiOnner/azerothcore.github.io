@@ -1,6 +1,8 @@
 var a20407 =
 [
-    [ "npc_ulduar_saronite_vapors", "db/d98/a20407.html#af8d7e273a01b54bd5b96f186501f38c5", null ],
-    [ "JustDied", "db/d98/a20407.html#a64254becffe74a7d06c09a3b0e2b4428", null ],
-    [ "_instance", "db/d98/a20407.html#ad304110ff1bfc33066cd17f04cf40181", null ]
+    [ "HandleOnEffectApply", "db/d98/a20407.html#a83ff54727e886161c5568a60833932d1", null ],
+    [ "HandleOnEffectRemove", "db/d98/a20407.html#a9e48d1c9dc26f882ee685a2cbf59667e", null ],
+    [ "PrepareAuraScript", "db/d98/a20407.html#a5ec8ffeceae335423dff10f54e096e8a", null ],
+    [ "Register", "db/d98/a20407.html#ae07af138c6f9c565799574b4f8343492", null ],
+    [ "Validate", "db/d98/a20407.html#a3a24a25c9b9b118d20ca2b14fbfc5869", null ]
 ];

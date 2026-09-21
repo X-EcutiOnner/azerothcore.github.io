@@ -1,6 +1,8 @@
 var a13499 =
 [
-    [ "HandleDummy", "de/d3e/a13499.html#a30b184682d9d7e5cd992b033bf089589", null ],
-    [ "PrepareSpellScript", "de/d3e/a13499.html#a4499d38e1bb64a76ada4d47ae5aa72a9", null ],
-    [ "Register", "de/d3e/a13499.html#a8c30b2d7ad63280b3d0721c5ded43609", null ]
+    [ "CheckProc", "de/d3e/a13499.html#a085f6affd2bf76fe66f9023e67725848", null ],
+    [ "HandleProc", "de/d3e/a13499.html#ae5c0f54c072fa5f4bb69af0acd74053c", null ],
+    [ "PrepareAuraScript", "de/d3e/a13499.html#a001de2ce29c768b328b93c66c6aca2f9", null ],
+    [ "Register", "de/d3e/a13499.html#ad4db3b85cab89e4922ac4935b0cdcbd5", null ],
+    [ "Validate", "de/d3e/a13499.html#a42ae1d2f846815480dc02e7e5f92527e", null ]
 ];

@@ -1,14 +1,10 @@
 var a21275 =
 [
-    [ "npc_massive_jormungarAI", "d5/df0/a21275.html#aa0b9acaec1aab155f7e4442d12d40c3e", null ],
-    [ "DoAction", "d5/df0/a21275.html#a8084994ba056c907b2e487568fa7502a", null ],
-    [ "JustDied", "d5/df0/a21275.html#a02b4e75227811250e2210f754e6e04f2", null ],
-    [ "JustEngagedWith", "d5/df0/a21275.html#a93769dbb2f7d2136e5ab2603927a5f12", null ],
-    [ "JustReachedHome", "d5/df0/a21275.html#a8ea0fe40cb4b113abadc091ab8085636", null ],
-    [ "MoveInLineOfSight", "d5/df0/a21275.html#a55c817111fab479c3abcfca8942f16e8", null ],
-    [ "Reset", "d5/df0/a21275.html#aca0d8ebe3b47a075a8b87666c0207620", null ],
-    [ "UpdateAI", "d5/df0/a21275.html#a9201c4cdf74d55bb3cde52eb265aa3d9", null ],
-    [ "events", "d5/df0/a21275.html#a92334b8178317a91a7d4336096d75f33", null ],
-    [ "m_pInstance", "d5/df0/a21275.html#ad50a9852370798817fda318f71f27653", null ],
-    [ "summons", "d5/df0/a21275.html#acfa84efc38b994706015e6d82fe1f653", null ]
+    [ "npc_ulduar_snow_mound", "d5/df0/a21275.html#a3f66ad92d616050bb67cb1a5e33ffa74", null ],
+    [ "MoveInLineOfSight", "d5/df0/a21275.html#ae5a09062d87aa1c0d446310df2ddd621", null ],
+    [ "UpdateAI", "d5/df0/a21275.html#a9d18fdaf83a2cfeea9b3ac6adbbd2687", null ],
+    [ "_activated", "d5/df0/a21275.html#ac48f6985d857276e0e59c2a429f5b359", null ],
+    [ "_count", "d5/df0/a21275.html#a1856c3bba24842f33720a83e1de40421", null ],
+    [ "_counter", "d5/df0/a21275.html#aca94a744c23b7f9771c728997ba4b8f3", null ],
+    [ "_scheduler", "d5/df0/a21275.html#aafe42af9ba1402cad91326eb1037e476", null ]
 ];

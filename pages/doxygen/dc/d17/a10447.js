@@ -1,12 +1,8 @@
 var a10447 =
 [
-    [ "RotateMovementGenerator", "dc/d17/a10447.html#a89a6559b4380210972e82c6ca6d5a9db", null ],
-    [ "Finalize", "dc/d17/a10447.html#afd7588c7877b116cc9626a774b89d584", null ],
-    [ "GetMovementGeneratorType", "dc/d17/a10447.html#a20677803edf5d93ceae3bf76ef426a81", null ],
-    [ "Initialize", "dc/d17/a10447.html#a18fea8760bb24912af9349a06ff7b596", null ],
-    [ "Reset", "dc/d17/a10447.html#a3e177762fcfc11ac47aa820b46b93ed0", null ],
-    [ "Update", "dc/d17/a10447.html#a0dc8600e3aa862a81735dfb927232e53", null ],
-    [ "m_direction", "dc/d17/a10447.html#a8717e890670d9f4e2ff66c0981d14aa6", null ],
-    [ "m_duration", "dc/d17/a10447.html#a2cb8d5fc3d26c24e62c7373f1ce49b13", null ],
-    [ "m_maxDuration", "dc/d17/a10447.html#a7cf10886bdd50ccbc5900b9229958e01", null ]
+    [ "AbstractFollower", "dc/d17/a10447.html#a08d292896f2419dd73ae68c8e1238d4b", null ],
+    [ "~AbstractFollower", "dc/d17/a10447.html#acb394f5326ab5ea5146c79788a085647", null ],
+    [ "GetTarget", "dc/d17/a10447.html#a43f037557454528a956c379d9efb42ac", null ],
+    [ "SetTarget", "dc/d17/a10447.html#ad49748abec4bb2fe06cc8ba2699bdbd0", null ],
+    [ "_target", "dc/d17/a10447.html#aa4e43d8e60442eee41398648fd7fd45d", null ]
 ];

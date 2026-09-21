@@ -1,15 +1,9 @@
 var a20467 =
 [
-    [ "npc_ulduar_hodir_druid", "d7/d78/a20467.html#aac822cf4203af0e0173004ccc33abc21", null ],
-    [ "AttackStart", "d7/d78/a20467.html#a67884f16c32f849bc68d68256c19d21a", null ],
-    [ "CanAIAttack", "d7/d78/a20467.html#a81b0f60596e63ec618a9a9e1d8bc6c9d", null ],
-    [ "DoAction", "d7/d78/a20467.html#a54f6d2cccc7668f337c0617459db5522", null ],
-    [ "EnterEvadeMode", "d7/d78/a20467.html#a22a10571e9cfe69200fd4a8fd383e500", null ],
-    [ "JustDied", "d7/d78/a20467.html#a6cfefe7ccb156a658e8e2dad603b3fce", null ],
-    [ "MoveInLineOfSight", "d7/d78/a20467.html#aa2e3e904c5f7fee4236a9395b95ef3e9", null ],
-    [ "ScheduleAbilities", "d7/d78/a20467.html#ac8bee382634e20a49178be8b224eca2d", null ],
-    [ "SpellHit", "d7/d78/a20467.html#a1053d484f30df43fba465981cd3cfa38", null ],
-    [ "UpdateAI", "d7/d78/a20467.html#abcd580306a3abb5663bbac33f68115eb", null ],
-    [ "_instance", "d7/d78/a20467.html#add7048881ec8b0dd2c09e34813c7c353", null ],
-    [ "events", "d7/d78/a20467.html#a323184c52fcbc3e18eb74c96db716327", null ]
+    [ "boss_freya_nature_bomb", "d7/d78/a20467.html#a050672942ab467557d21a930ab22827c", null ],
+    [ "Reset", "d7/d78/a20467.html#ad2a679ba554a44f28d1f09a10fc88ec9", null ],
+    [ "UpdateAI", "d7/d78/a20467.html#aae8b388dfa69896dd82557c1a4dcd135", null ],
+    [ "_explodeTimer", "d7/d78/a20467.html#a09292e899ad771d9b15d2bc21ccd5b8d", null ],
+    [ "_goGUID", "d7/d78/a20467.html#a18e66d31a4bd243ec3f7d438beacad77", null ],
+    [ "Timer", "d7/d78/a20467.html#affadb797817ddf512209d1d71097baf3", null ]
 ];

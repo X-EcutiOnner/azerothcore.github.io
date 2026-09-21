@@ -1,7 +1,8 @@
 var a23847 =
 [
-    [ "boss_warp_splinter", "d1/dd5/a23847.html#a1d0e8720baaadd1f6f4f6026597c9f63", null ],
-    [ "JustDied", "d1/dd5/a23847.html#a7e7850cf545e57f9fcd8d1aff42f8eb3", null ],
-    [ "JustEngagedWith", "d1/dd5/a23847.html#afc05b2f366e518d5e9ea3fbbfcba05cc", null ],
-    [ "KilledUnit", "d1/dd5/a23847.html#a0e974eb2bfae50383040fe9c7ccf74c1", null ]
+    [ "npc_warchief_portal", "d1/dd5/a23847.html#a1a52395a5ae66f5cc5f92c6d4ce81893", null ],
+    [ "JustSummoned", "d1/dd5/a23847.html#ad90c834dc059040f3922f58dc3bcf4a2", null ],
+    [ "SetData", "d1/dd5/a23847.html#a538ab8c6e7683aa02e8c75f9dd900be8", null ],
+    [ "UpdateAI", "d1/dd5/a23847.html#a8c400cf1b9f41696807e11f1f135c0ad", null ],
+    [ "_scheduler", "d1/dd5/a23847.html#a76bb6a89f0922ed0bc0289ee4e0f20d4", null ]
 ];

@@ -1,6 +1,6 @@
 var a17579 =
 [
-    [ "boss_drakkari_colossusAI", "de/d51/a17583.html", "de/d51/a17583" ],
-    [ "boss_drakkari_colossus", "da/d18/a17579.html#abe1bf28b9147b72c81e5c5efcdeeaf84", null ],
-    [ "GetAI", "da/d18/a17579.html#a75c6c9c56fe11342dd8aece031059e77", null ]
+    [ "npc_pos_icicle_triggerAI", "de/d51/a17583.html", "de/d51/a17583" ],
+    [ "npc_pos_icicle_trigger", "da/d18/a17579.html#ae38155ce579f50ff7de0fa5ca50a1c3e", null ],
+    [ "GetAI", "da/d18/a17579.html#ad2f984f5b2b713b8307efdf4bcbcf8da", null ]
 ];

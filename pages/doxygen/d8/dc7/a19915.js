@@ -1,7 +1,13 @@
 var a19915 =
 [
-    [ "HandleProc", "d8/dc7/a19915.html#a84255cd31ebaa7c70de93d569258c709", null ],
-    [ "PrepareAuraScript", "d8/dc7/a19915.html#a8d9c8122b105b28b88c4297d3a9acf7f", null ],
-    [ "Register", "d8/dc7/a19915.html#a6bc166d2e1455537fa78c4223da17746", null ],
-    [ "Validate", "d8/dc7/a19915.html#ab38bde2ed642dcf4fda1893a131aa6fe", null ]
+    [ "boss_drakosAI", "d8/dc7/a19915.html#a75d771095897081457353be898b332c3", null ],
+    [ "JustDied", "d8/dc7/a19915.html#a7235760bd407f49802bc9e26e8f3f22c", null ],
+    [ "JustEngagedWith", "d8/dc7/a19915.html#a4bc15075d9e9a913783da482a7a167c7", null ],
+    [ "JustSummoned", "d8/dc7/a19915.html#a06e21c4e5bd1a882ada074b9595d4088", null ],
+    [ "KilledUnit", "d8/dc7/a19915.html#a4bd3e45b45660311d7510f58a1850648", null ],
+    [ "MoveInLineOfSight", "d8/dc7/a19915.html#a10b2ca39887e906e6e1e33df82afc1da", null ],
+    [ "Reset", "d8/dc7/a19915.html#a6fd78f4f45b9f2104acc481fb0f2763f", null ],
+    [ "UpdateAI", "d8/dc7/a19915.html#abf761c7cda4031c31354d8c8d42963e0", null ],
+    [ "events", "d8/dc7/a19915.html#ae86ad4fcc57cc1137411c881355f2f51", null ],
+    [ "pInstance", "d8/dc7/a19915.html#adc9461ae5334634a9140f338547688b4", null ]
 ];

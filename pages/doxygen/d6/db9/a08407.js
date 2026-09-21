@@ -1,9 +1,8 @@
 var a08407 =
 [
-    [ "VendorItem", "d6/db9/a08407.html#ae79c26c304bee575a722f8a82fc79fd2", null ],
-    [ "IsGoldRequired", "d6/db9/a08407.html#a5f335ffdb5d82418cdb4eb7a606692c1", null ],
-    [ "ExtendedCost", "d6/db9/a08407.html#a18234f38ff242b8687265f9acf70dbe0", null ],
-    [ "incrtime", "d6/db9/a08407.html#afe3bb3324faf1beae6ee17c223678e9b", null ],
-    [ "item", "d6/db9/a08407.html#a6b26a96440c885684c173ee17d788896", null ],
-    [ "maxcount", "d6/db9/a08407.html#a98be1e0499d9ae9cfb176063991f72ee", null ]
+    [ "LfgPlayerRewardData", "d6/db9/a08407.html#afe99288f8d7028a5a54317e73e3f2c01", null ],
+    [ "done", "d6/db9/a08407.html#a91ba12acf66d631af2de45513f20b702", null ],
+    [ "quest", "d6/db9/a08407.html#abd051091fec6835f63bafa98a045142b", null ],
+    [ "rdungeonEntry", "d6/db9/a08407.html#a87623ce14ef1d123d226e37e227a566d", null ],
+    [ "sdungeonEntry", "d6/db9/a08407.html#abe9c93ab7f3a421dd3c44414a0987277", null ]
 ];

@@ -1,7 +1,7 @@
 var a08415 =
 [
-    [ "ForcedDespawnDelayEvent", "de/d5d/a08415.html#ad3cf785f62ec0d7069493fee39227bc3", null ],
-    [ "Execute", "de/d5d/a08415.html#a735c709b269458911bd93da1902cbe25", null ],
-    [ "m_owner", "de/d5d/a08415.html#aa4fa09703f39ae8bbe0b7483a27d9cc3", null ],
-    [ "m_respawnTimer", "de/d5d/a08415.html#a5db78930a1fda07f2020b23158ebb93d", null ]
+    [ "LfgProposalPlayer", "de/d5d/a08415.html#a80f7d0f3597201dc7fca4d08dd3b7a38", null ],
+    [ "accept", "de/d5d/a08415.html#acbf0ce1e12307569487096dc5ca544a6", null ],
+    [ "group", "de/d5d/a08415.html#a900f24e9caaa1569eeea93b4284139a1", null ],
+    [ "role", "de/d5d/a08415.html#a54ab4a0f32cc3abc7489fc9c3655fe99", null ]
 ];

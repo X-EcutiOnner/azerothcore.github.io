@@ -1,7 +1,7 @@
 var a25043 =
 [
-    [ "if", "d9/dc8/a25043.html#a6b9c0d513b24e9a5c0eef8307b2eb3a8", null ],
-    [ "PrepareAuraScript", "d9/dc8/a25043.html#a01d974333043452a37ec3124d23b49f2", null ],
-    [ "Register", "d9/dc8/a25043.html#aeb6c695819e894aad8b210a237e6d315", null ],
-    [ "AuraEffectHandleModes", "d9/dc8/a25043.html#a9b235517305f9b2fcf2d31eb3a4edbd2", null ]
+    [ "HandleProc", "d9/dc8/a25043.html#a75ddeb7696c7c2fdb8a6e9a96e2a9c48", null ],
+    [ "PrepareAuraScript", "d9/dc8/a25043.html#a3e05e2ac9230a7db5bd6af31e5db88db", null ],
+    [ "Register", "d9/dc8/a25043.html#a7b066f171e0f1b1642bded97c55e73f2", null ],
+    [ "Validate", "d9/dc8/a25043.html#a37a1e84853948e87347b497f3d9aa675", null ]
 ];

@@ -1,6 +1,5 @@
 var a24511 =
 [
-    [ "DeathEvent", "d7/d10/a24511.html#a2fb9a98c077d715c4648aede6597276e", null ],
-    [ "Execute", "d7/d10/a24511.html#a497ac46ab1acf95816020fc6be8ce03a", null ],
-    [ "_owner", "d7/d10/a24511.html#a099d0d5ae50126f00220b3ed90907617", null ]
+    [ "npc_pet_dk_risen_ally", "d7/d10/a24511.html#ae7ea70827f339d3968ef08dc242b1f03", null ],
+    [ "OnCharmed", "d7/d10/a24511.html#ac3927becc1ed929c384b3413bfee9330", null ]
 ];

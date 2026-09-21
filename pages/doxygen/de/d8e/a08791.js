@@ -1,9 +1,10 @@
 var a08791 =
 [
-    [ "Reset", "de/d8e/a08791.html#a9c210ff536b49481f71bc6c3f60ee864", null ],
-    [ "guid", "de/d8e/a08791.html#ac115013e34f67bc1444fef4fc96c843e", null ],
-    [ "pos", "de/d8e/a08791.html#adff317cbf0c2d159d8ffddf52b4751b3", null ],
-    [ "seat", "de/d8e/a08791.html#ad57bea2ae3beb6a086a116989b0d528f", null ],
-    [ "time", "de/d8e/a08791.html#acec3991f0d19fd9f72e9837eef516057", null ],
-    [ "time2", "de/d8e/a08791.html#a426c651d2f359847b033a4d7f278a191", null ]
+    [ "GameObjectData", "de/d8e/a08791.html#aaef16c60fee2c9c6a309cfe14f02c0fe", null ],
+    [ "animprogress", "de/d8e/a08791.html#aadec9e3088063532fd879fdaad3c3d74", null ],
+    [ "artKit", "de/d8e/a08791.html#a4e5d0f2b99f1bd87aa22c943594ce355", null ],
+    [ "go_state", "de/d8e/a08791.html#ae8c523cb24a55fcde5d8caac3f82dfd5", null ],
+    [ "id", "de/d8e/a08791.html#ae12c8c5e7b3c848a57960e4c51d76e84", null ],
+    [ "rotation", "de/d8e/a08791.html#a81da3cac2ac1a3cf71579b1da6873fe9", null ],
+    [ "spawntimesecs", "de/d8e/a08791.html#a6afeb167bb136c3ddabcc350007788db", null ]
 ];

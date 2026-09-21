@@ -1,5 +1,6 @@
 var a26559 =
 [
-    [ "Trigger", "de/de3/a26559.html#aa16aba75a066e83cb56660a0e29e7453", null ],
-    [ "Validate", "de/de3/a26559.html#a6c38df91dbe0cf277d1d50a40edd4589", null ]
+    [ "CheckProc", "de/de3/a26559.html#adb21bbda83cf0fdc30e64cabc0fb0d1c", null ],
+    [ "PrepareAuraScript", "de/de3/a26559.html#a5fd08c4ff5ba410458a67eb91e612267", null ],
+    [ "Register", "de/de3/a26559.html#a13c9e5a0a2a6945dfa5a4425be08703d", null ]
 ];

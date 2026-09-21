@@ -1,6 +1,6 @@
 var a26639 =
 [
-    [ "HandleProc", "db/d72/a26639.html#a81736c5dd5fd02181673a9f12d4d9ab2", null ],
-    [ "PrepareAuraScript", "db/d72/a26639.html#a1710a08cfe8b6f9b3890840bac97c711", null ],
-    [ "Register", "db/d72/a26639.html#a2e65cb7fa379f1330610aaa56e002ba3", null ]
+    [ "OnRemove", "db/d72/a26639.html#ae1f257e43effcb396d57d42db3063afd", null ],
+    [ "PrepareAuraScript", "db/d72/a26639.html#a5b13e46dc228ffe594ce2ce06a7d6799", null ],
+    [ "Register", "db/d72/a26639.html#a4a94d5c8efdd7f6e0dd655ebeb8c4614", null ]
 ];

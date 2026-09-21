@@ -1,10 +1,15 @@
 var a29731 =
 [
-    [ "AddToWorld", "d0/d42/a29731.html#a3b5a3472d4a5ca1cff7dc0dbed0b04c7", null ],
-    [ "ForceInitValues", "d0/d42/a29731.html#adb765e8464642610eeebf25c5fa17edd", null ],
-    [ "Player", "d0/d42/a29731.html#ad56f27531abb9267f144b2b22d61a5bf", null ],
-    [ "RemoveFromWorld", "d0/d42/a29731.html#aa69937d52e60e235f35a48e9d80d65ce", null ],
-    [ "SaveToDB", "d0/d42/a29731.html#a21d71f7f913da0213b98cfe2e0d1b832", null ],
-    [ "SaveToDB", "d0/d42/a29731.html#a74818d35eddf0c5ccea7693ba455cff2", null ],
-    [ "UpdateObjectVisibility", "d0/d42/a29731.html#a35487432f2af544c20bc3c45f8ba1602", null ]
+    [ "AuraStubBuilder", "d0/d42/a29731.html#a534384a8763b8c95fab8158e83db2def", null ],
+    [ "Build", "d0/d42/a29731.html#a7d5b970e591a239849e42a0c444f62d4", null ],
+    [ "BuildRaw", "d0/d42/a29731.html#a6d18b0c3762b471fba8cf895e9a07b50", null ],
+    [ "WithCharges", "d0/d42/a29731.html#a0e11ce060ed827bfc2b72d2b26a6693b", null ],
+    [ "WithDuration", "d0/d42/a29731.html#ac5c74952acab3c54a79e28355f423a8f", null ],
+    [ "WithEffect", "d0/d42/a29731.html#ad25896a25811e0e563dcac1c46e77ff3", null ],
+    [ "WithId", "d0/d42/a29731.html#aa8dc59189364f6be82822588a47d32fd", null ],
+    [ "WithPassive", "d0/d42/a29731.html#a056bd26636b67b54562306a42b3d7c3e", null ],
+    [ "WithPeriodicEffect", "d0/d42/a29731.html#a93fd0ed97589e98446251f9b078a3f9d", null ],
+    [ "WithSpellFamilyName", "d0/d42/a29731.html#afa4a16fb9c020c568472102fff972408", null ],
+    [ "WithStackAmount", "d0/d42/a29731.html#a04b37ad66dde7b61695a80db00c9ab66", null ],
+    [ "_stub", "d0/d42/a29731.html#a22cc8b0309b64c1ecc482d77170a2b09", null ]
 ];

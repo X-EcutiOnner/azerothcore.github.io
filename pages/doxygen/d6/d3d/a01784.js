@@ -1,6 +1,9 @@
 var a01784 =
 [
-    [ "calculateNextDepartureTime", "d6/d3d/a01784.html#a385e4650cdda06aa445485dc66ce13b0", null ],
-    [ "startTimestamp", "d6/d3d/a01784.html#afe6429daa475f408bae10dd6f2525b01", null ],
-    [ "transportStartDate", "d6/d3d/a01784.html#aaffdf4c6f140e5c339726ba9e134e6f9", null ]
+    [ "DynamicObject", "d7/d39/a08619.html", "d7/d39/a08619" ],
+    [ "DynamicObjectType", "d6/d3d/a01784.html#aee85c2f840289bcf773609333ee91131", [
+      [ "DYNAMIC_OBJECT_PORTAL", "d6/d3d/a01784.html#aee85c2f840289bcf773609333ee91131a241a99bd67606cb106b003bab51e3a5b", null ],
+      [ "DYNAMIC_OBJECT_AREA_SPELL", "d6/d3d/a01784.html#aee85c2f840289bcf773609333ee91131a7fb219efa9ce6ad8dc94e20c1feff546", null ],
+      [ "DYNAMIC_OBJECT_FARSIGHT_FOCUS", "d6/d3d/a01784.html#aee85c2f840289bcf773609333ee91131a59fbc7f63f5d2715fbc29110f393168d", null ]
+    ] ]
 ];

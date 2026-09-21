@@ -1,6 +1,6 @@
 var a21831 =
 [
-    [ "CheckCast", "d0/dcd/a21831.html#a9c7e08a8a9b1c1b44ae290818826d43a", null ],
-    [ "PrepareSpellScript", "d0/dcd/a21831.html#abff433d61c798d17882292b6b0956a58", null ],
-    [ "Register", "d0/dcd/a21831.html#a1034967a4bf633f160cc40ae6e0fc567", null ]
+    [ "npc_archmage_landalockAI", "db/d26/a21835.html", "db/d26/a21835" ],
+    [ "npc_archmage_landalock", "d0/dcd/a21831.html#ac7379ff07740123312af66ead64df4c6", null ],
+    [ "GetAI", "d0/dcd/a21831.html#a92cfa8c2660413681297bfe12815c938", null ]
 ];

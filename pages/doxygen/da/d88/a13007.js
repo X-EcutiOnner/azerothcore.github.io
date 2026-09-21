@@ -1,7 +1,6 @@
 var a13007 =
 [
-    [ "HandleEffectScriptEffect", "da/d88/a13007.html#a8157c4b213b3b4e260222976e283e2ae", null ],
-    [ "PrepareSpellScript", "da/d88/a13007.html#aa8a4fdd0dc5c06a836ac05cec0dccd75", null ],
-    [ "Register", "da/d88/a13007.html#aeda056b568b4956ba35b32a3f20c053e", null ],
-    [ "Validate", "da/d88/a13007.html#a29a7f51f01e1ccf71dcc53ad68f032ae", null ]
+    [ "boss_flamegor", "da/d88/a13007.html#a721c23d631d305c102117566f609f10a", null ],
+    [ "JustEngagedWith", "da/d88/a13007.html#aebbcd35868c64d2a0b1f660720f84575", null ],
+    [ "UpdateAI", "da/d88/a13007.html#a086f8bd08ba22fff7e399bf9588cbffd", null ]
 ];

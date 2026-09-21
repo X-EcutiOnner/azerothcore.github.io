@@ -1,11 +1,19 @@
 var a21403 =
 [
-    [ "boss_archavonAI", "d6/d2b/a21403.html#a101518193c0fb6bbd6892362a6f09b9c", null ],
-    [ "AttackStart", "d6/d2b/a21403.html#ac9f82f61ee7fe945cb3fba23a69e704c", null ],
-    [ "JustDied", "d6/d2b/a21403.html#a3974065a80dedf3e673452e7f6f8e449", null ],
-    [ "JustEngagedWith", "d6/d2b/a21403.html#ace4a10f62eaa21ecd997ad1dbe15f3c8", null ],
-    [ "Reset", "d6/d2b/a21403.html#a7d101626f39947dd54b574491a5e6d72", null ],
-    [ "UpdateAI", "d6/d2b/a21403.html#a5abb4c2b4149172d2e7bf0d539237323", null ],
-    [ "events", "d6/d2b/a21403.html#a8d7fef6dfcdc5be20f0531c34b09fc13", null ],
-    [ "pInstance", "d6/d2b/a21403.html#ab51f09b76054d8bdb13f3c27396db87e", null ]
+    [ "boss_skadiAI", "d6/d2b/a21403.html#a4e9708950b0dda44bd70d77ee9f9de52", null ],
+    [ "DoAction", "d6/d2b/a21403.html#ac0513a8e187b3d68fd320b124930ac8b", null ],
+    [ "EnterEvadeMode", "d6/d2b/a21403.html#ab6cf2f709b4888b1b4e17c6022d7091f", null ],
+    [ "JustDied", "d6/d2b/a21403.html#af963eda18854869f3a73cb22f48b0230", null ],
+    [ "JustEngagedWith", "d6/d2b/a21403.html#a2853d557da48decede7baa4845f5573f", null ],
+    [ "JustSummoned", "d6/d2b/a21403.html#ac61c732b17b39bdbedf18742b8403c5d", null ],
+    [ "KilledUnit", "d6/d2b/a21403.html#af82c5edf85466d9dd5e1dee666231687", null ],
+    [ "Reset", "d6/d2b/a21403.html#a7d1287f7a3cc5703a7430a15e769cb2c", null ],
+    [ "SpawnFirstWave", "d6/d2b/a21403.html#af65d4bfff98b239f96e50c868b90e08a", null ],
+    [ "UpdateAI", "d6/d2b/a21403.html#a05690f147e2c2a584179c19b0a84a1b0", null ],
+    [ "_encounterStarted", "d6/d2b/a21403.html#a37c907c5136097497bcb30da4c70d121", null ],
+    [ "_events", "d6/d2b/a21403.html#af7fbc8d2c28052f43463897bcb846b25", null ],
+    [ "_firstWaveSummoned", "d6/d2b/a21403.html#a1af2048d0d48e8670cdb4957e191f172", null ],
+    [ "_instance", "d6/d2b/a21403.html#a34a422dcee2353a888deaac3bab983a4", null ],
+    [ "_phase", "d6/d2b/a21403.html#a64808a1b0cee00069a69c050eeb0240e", null ],
+    [ "_summons", "d6/d2b/a21403.html#ae02eac33cf9fa64a2d2e20b5e4d8a591", null ]
 ];

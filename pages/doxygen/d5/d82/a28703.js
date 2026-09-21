@@ -1,5 +1,7 @@
 var a28703 =
 [
-    [ "QuestApprenticeAnglerPlayerScript", "d5/d82/a28703.html#afaa929276f8b131005c9b94daa9a09f9", null ],
-    [ "OnPlayerCompleteQuest", "d5/d82/a28703.html#a029ef1ccdd42af2ff9223ab699c3942f", null ]
+    [ "npc_guardianAI", "d5/d82/a28703.html#acc5d29a79e57fc023369c0dcd4b0d2a3", null ],
+    [ "JustEngagedWith", "d5/d82/a28703.html#a50257f80245bc59437e53083badcb056", null ],
+    [ "Reset", "d5/d82/a28703.html#a217df9bae079f56ffd70d27958fb2756", null ],
+    [ "UpdateAI", "d5/d82/a28703.html#ab42c39f088ef819a5ffb5f9f4ba2c3a3", null ]
 ];

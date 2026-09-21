@@ -1,9 +1,11 @@
 var a12627 =
 [
-    [ "titles_commandscript", "d3/d23/a12627.html#ac088fd907013150a0508b79c99f6c2f3", null ],
-    [ "GetCommands", "d3/d23/a12627.html#af7d00111b3190f8bc9c46cedda3621d6", null ],
-    [ "HandleTitlesAddCommand", "d3/d23/a12627.html#a2a44d6f83bc5617a25a53b18fbd35e32", null ],
-    [ "HandleTitlesCurrentCommand", "d3/d23/a12627.html#a9a9b503e9ee65aa0d92cc7ff2e38a09d", null ],
-    [ "HandleTitlesRemoveCommand", "d3/d23/a12627.html#a2001bcc2eddc5688d57154f9906218e4", null ],
-    [ "HandleTitlesSetMaskCommand", "d3/d23/a12627.html#a9517b10295b856779cdd067234f640c8", null ]
+    [ "pet_commandscript", "d3/d23/a12627.html#a84595dcb908398e80deee0b0aa47e335", null ],
+    [ "GetCommands", "d3/d23/a12627.html#a01026a4936774d2225d10e0f6e27b08c", null ],
+    [ "HandlePetCreateCommand", "d3/d23/a12627.html#a993d06169aa0b0c4bbda38e124b6eea9", null ],
+    [ "HandlePetDeleteCommand", "d3/d23/a12627.html#a728201526e905b025aba5e6b030c288b", null ],
+    [ "HandlePetLearnCommand", "d3/d23/a12627.html#a59a2a6bd9af23fe3a775319216337bda", null ],
+    [ "HandlePetListCommand", "d3/d23/a12627.html#aeaa05b073553c0c0758ea99d982ce1cc", null ],
+    [ "HandlePetRenameCommand", "d3/d23/a12627.html#a556529bfe267eb618410b63065b7096c", null ],
+    [ "HandlePetUnlearnCommand", "d3/d23/a12627.html#ae6d785cdde773b107ba5e619b039f7b8", null ]
 ];

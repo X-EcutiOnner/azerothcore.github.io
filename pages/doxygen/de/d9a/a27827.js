@@ -1,10 +1,8 @@
 var a27827 =
 [
-    [ "CheckProc", "de/d9a/a27827.html#a257202ac9b80a67ce58d9e3491164d22", null ],
-    [ "HandleProc", "de/d9a/a27827.html#aa3c74b25fbe63ac77e10260159adb8ca", null ],
-    [ "HandleTick", "de/d9a/a27827.html#a5e436c530e5ef70bc4de4305676ed196", null ],
-    [ "PrepareAuraScript", "de/d9a/a27827.html#aef7d1a2bbd59af36cc130f07e1204081", null ],
-    [ "Register", "de/d9a/a27827.html#a11b0120ea8c8ccf1c96e5d1053d64895", null ],
-    [ "RemoveEffect", "de/d9a/a27827.html#a333ad80d8478f59713ee049f935d7885", null ],
-    [ "Validate", "de/d9a/a27827.html#aed3cb37f0230463978b210add84bd31d", null ]
+    [ "CalcPeriodic", "de/d9a/a27827.html#a42770d7f7e5bd41cd3f0a283c544c642", null ],
+    [ "CalculateAmount", "de/d9a/a27827.html#a525009acb345d6b0a9857c30cfce2230", null ],
+    [ "HandlePeriodic", "de/d9a/a27827.html#a4c75f793388b533d00a52ad18f18bc6e", null ],
+    [ "PrepareAuraScript", "de/d9a/a27827.html#a5627212e48a3044a9a7480851787a839", null ],
+    [ "Register", "de/d9a/a27827.html#a09ea5265d7105a4bd487d383948901a0", null ]
 ];

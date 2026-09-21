@@ -1,7 +1,9 @@
 var a21835 =
 [
-    [ "CheckRequirement", "db/d26/a21835.html#a41beb2c890137328734d6adb14e08302", null ],
-    [ "PrepareSpellScript", "db/d26/a21835.html#aa0b9873dbd8c75a14fa88094d91eeeaa", null ],
-    [ "Register", "db/d26/a21835.html#aa0fad5e5a68131ebab5717ad0ce69669", null ],
-    [ "SetDest", "db/d26/a21835.html#a431a556ab73f91ed63f5983e537834a5", null ]
+    [ "npc_archmage_landalockAI", "db/d26/a21835.html#a8e2b48a9cf243b0d6f11286cf1e301c8", null ],
+    [ "GetImageEntry", "db/d26/a21835.html#ae09841969253c0baf72cc235b6fa058e", null ],
+    [ "JustSummoned", "db/d26/a21835.html#af9016bfeca3db7611fdafe4337e5f64a", null ],
+    [ "UpdateAI", "db/d26/a21835.html#abad2f45c0a5c43cc7aa7867a0291133d", null ],
+    [ "_summonGUID", "db/d26/a21835.html#a8b59c414dfd46209dcc3d00531e2b98b", null ],
+    [ "_switchImageTimer", "db/d26/a21835.html#a5e2fb6556bbb5cf22b77a72e9ccbc548", null ]
 ];

@@ -1,6 +1,6 @@
 var a16143 =
 [
-    [ "npc_tyrande_whisperwind", "d2/dc7/a16143.html#af716e954e59221d26ee88032e895fa18", null ],
-    [ "JustDied", "d2/dc7/a16143.html#a707f6167de4eafc6d81613d0edc29436", null ],
-    [ "UpdateAI", "d2/dc7/a16143.html#a598bd2dec22715413dcbd7ed6ca3be3c", null ]
+    [ "SpellId", "d2/dc7/a16143.html#a2c430be201c1fd866ee96224f1803a20", null ],
+    [ "Timer1", "d2/dc7/a16143.html#a9a35c148286e88f48b174be8b74fc5d0", null ],
+    [ "Timer2", "d2/dc7/a16143.html#a108dee679b1f5d9fb8351f7b4b4f3a56", null ]
 ];

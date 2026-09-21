@@ -1,6 +1,6 @@
 var a17507 =
 [
-    [ "npc_pos_collapsing_icicleAI", "d4/d15/a17511.html", "d4/d15/a17511" ],
-    [ "npc_pos_collapsing_icicle", "d5/dc2/a17507.html#a42b29fe5d4e106c1e5e5b866a0074664", null ],
-    [ "GetAI", "d5/dc2/a17507.html#a96969ebe749b49ceb38920c63ec6fce3", null ]
+    [ "boss_ickAI", "d4/d15/a17511.html", "d4/d15/a17511" ],
+    [ "boss_ick", "d5/dc2/a17507.html#af97d7f96bc48ba245e28c18614b9369e", null ],
+    [ "GetAI", "d5/dc2/a17507.html#a355285766712a31b704c23fe85d19e5f", null ]
 ];

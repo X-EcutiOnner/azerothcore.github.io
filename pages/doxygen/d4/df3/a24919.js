@@ -1,6 +1,6 @@
 var a24919 =
 [
-    [ "OnHit", "d4/df3/a24919.html#a56ecd2ea05f48b874b2890d7f15cc362", null ],
-    [ "PrepareSpellScript", "d4/df3/a24919.html#a0d74ce7c43f0cb7329ca990f1b0eecdf", null ],
-    [ "Register", "d4/df3/a24919.html#a7cd2cc858eeb7805a3efb72b081c284e", null ]
+    [ "CheckCast", "d4/df3/a24919.html#a583e19667a83ada4cd793fbf391f9e93", null ],
+    [ "PrepareSpellScript", "d4/df3/a24919.html#ac6adda0dbe544cf2457060647c01de0f", null ],
+    [ "Register", "d4/df3/a24919.html#a50d1284f1113bfdd0b39690efabe6b9b", null ]
 ];

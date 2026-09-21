@@ -1,10 +1,19 @@
 var a07899 =
 [
-    [ "ChannelRights", "de/d53/a07899.html#a7fbfd84470bf1b4bf564eec0315f6c8d", null ],
-    [ "ChannelRights", "de/d53/a07899.html#a7beaed8c82905e7c019c799153e862c4", null ],
-    [ "flags", "de/d53/a07899.html#ad7fdc943a5a97c3c812108243192f6ae", null ],
-    [ "joinMessage", "de/d53/a07899.html#af8797ef8c642f3a954b1581fb54ed545", null ],
-    [ "moderators", "de/d53/a07899.html#ac80f92b9e633bf309970179b32e29cee", null ],
-    [ "speakDelay", "de/d53/a07899.html#a9883582d36b8cc67ab5d649670441000", null ],
-    [ "speakMessage", "de/d53/a07899.html#a4b7dc06e8839da5a6d50b5d4dae76c1b", null ]
+    [ "BattlegroundRV", "de/d53/a07899.html#ad8c16fa336cd5b0d98eb0009ef094632", null ],
+    [ "CheckPositionForUnit", "de/d53/a07899.html#a17665265c5ab837b4e2a0cdc461a7d0a", null ],
+    [ "FillInitialWorldStates", "de/d53/a07899.html#a62c7201196fabb6000d2df52b8323e6a", null ],
+    [ "GetPillarAtPosition", "de/d53/a07899.html#a0cd6f84233993bde76be990abab75f23", null ],
+    [ "GetPillarIdForPos", "de/d53/a07899.html#a4edb8efce09dece515e8b833142d2c55", null ],
+    [ "HandleAreaTrigger", "de/d53/a07899.html#aa75f63f77d1f7e8bafffe1d8cb7de9b8", null ],
+    [ "HandlePlayerUnderMap", "de/d53/a07899.html#a4cb2e77a45fd02a5db85b6979d622afa", null ],
+    [ "Init", "de/d53/a07899.html#a67853fccaddfcd946015a96c5b108641", null ],
+    [ "PostUpdateImpl", "de/d53/a07899.html#a9707d8805f031c01c14d78fdc1790a64", null ],
+    [ "SetupBattleground", "de/d53/a07899.html#abbd1a364665655cfc4f059fa63384536", null ],
+    [ "StartingEventOpenDoors", "de/d53/a07899.html#a450c1d8a9ad4712ab4042256ba7d9d08", null ],
+    [ "TeleportUnitToNewZ", "de/d53/a07899.html#ac5b158259ccc5168275c0e00ea041db0", null ],
+    [ "UpdatePillars", "de/d53/a07899.html#a76d16c8ab6778a6fc8a4c988a46f0306", null ],
+    [ "_checkPlayersTimer", "de/d53/a07899.html#a7c876ff9156f81b168aec7cf673d39b3", null ],
+    [ "_state", "de/d53/a07899.html#acce3fce40dbbb403749dcdb986e1d970", null ],
+    [ "_timer", "de/d53/a07899.html#ac5f9a8627e919eb224d78d726da1a7a1", null ]
 ];

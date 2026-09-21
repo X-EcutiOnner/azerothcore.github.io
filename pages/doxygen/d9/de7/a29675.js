@@ -1,13 +1,20 @@
 var a29675 =
 [
-    [ "attackType", "d9/de7/a29675.html#a4715e7e37c120d791e6a32cd275b8cbd", null ],
-    [ "equippedItemClass", "d9/de7/a29675.html#aceba901b7f666b4a3806c35b6d8697ad", null ],
-    [ "equippedItemSubClassMask", "d9/de7/a29675.html#a3384bf3ae58fb0977f8fa81f84d940e2", null ],
-    [ "hasEquippedItem", "d9/de7/a29675.html#a5d7780265fe18a0657f2a68d9c737fe7", null ],
-    [ "hasNoEquipRequirementAttr", "d9/de7/a29675.html#ab754fdbbb49982e7152057341fc3e3af", null ],
-    [ "isInFeralForm", "d9/de7/a29675.html#a3d8d88f4640c3100a88efee52ecf5822", null ],
-    [ "isPassive", "d9/de7/a29675.html#ad56881b893a29dc5d6be193c6720c4e0", null ],
-    [ "isPlayer", "d9/de7/a29675.html#a7de2ea9efe7606f26e2c11d8963357d0", null ],
-    [ "itemFitsRequirements", "d9/de7/a29675.html#a760a3b39c124c3f408f0541744b6b34a", null ],
-    [ "itemIsBroken", "d9/de7/a29675.html#a3b53871ecd10bd1f6d624431b0907b90", null ]
+    [ "RealmMap", "d9/de7/a29675.html#a6031c19ec935fbe535f60a1014483dbd", null ],
+    [ "RealmList", "d9/de7/a29675.html#abe7dfad5160a08a5852cb1436a06eaa9", null ],
+    [ "~RealmList", "d9/de7/a29675.html#a64bea5f38384143cc960840a8e84ef00", null ],
+    [ "Close", "d9/de7/a29675.html#a14a4d9b5383da24bc1ad9754cdfa2183", null ],
+    [ "GetBuildInfo", "d9/de7/a29675.html#a0f7136cb280d2461b1ec0d080645c6e0", null ],
+    [ "GetRealm", "d9/de7/a29675.html#a3e25e63168bcff88d021294559ccf0c5", null ],
+    [ "GetRealms", "d9/de7/a29675.html#afc2cbe2a4ee4d9870821dbe8d96e8fa4", null ],
+    [ "Initialize", "d9/de7/a29675.html#a70954d518dc4559e0aca0388f13db411", null ],
+    [ "Instance", "d9/de7/a29675.html#aea053134fe293fbd4a8801b25fbb44ca", null ],
+    [ "LoadBuildInfo", "d9/de7/a29675.html#a1f8866e57557beb7d69037a63e34428d", null ],
+    [ "UpdateRealm", "d9/de7/a29675.html#ae15cf59b00e8e8e561f266d5dd3e11ae", null ],
+    [ "UpdateRealms", "d9/de7/a29675.html#a0b4559e5538a02ccf5247839005d602e", null ],
+    [ "_builds", "d9/de7/a29675.html#a7c38c3c8b4fe6554c66dbc5ada26a3e0", null ],
+    [ "_realms", "d9/de7/a29675.html#a41693a01cd88ea99b54dd9ca8fe6b445", null ],
+    [ "_resolver", "d9/de7/a29675.html#a1beee0fdd1a9e61f68db925f53d373a9", null ],
+    [ "_updateInterval", "d9/de7/a29675.html#ac07fe3cd4fc18169af4f63b207902e95", null ],
+    [ "_updateTimer", "d9/de7/a29675.html#a5619be8a2649680901cfd7a3608e984a", null ]
 ];

@@ -1,6 +1,7 @@
 var a22047 =
 [
-    [ "npc_attracted_reef_bullAI", "d6/d1b/a22051.html", "d6/d1b/a22051" ],
-    [ "npc_attracted_reef_bull", "d9/d8e/a22047.html#acd0ade9e7ce5492c11be0b3f2696418e", null ],
-    [ "GetAI", "d9/d8e/a22047.html#af705e2768cd41c955af7f944c670ac85", null ]
+    [ "OnRemove", "d9/d8e/a22047.html#a335bc64860227122e0536f61144e2003", null ],
+    [ "PrepareAuraScript", "d9/d8e/a22047.html#ae38bdeb74493f73bed1246c011bb2076", null ],
+    [ "Register", "d9/d8e/a22047.html#ae0c02eb80cebce089d18f8465b2f8a39", null ],
+    [ "Validate", "d9/d8e/a22047.html#af29efe88b5f56c5d49f2e48c3be1d8e6", null ]
 ];

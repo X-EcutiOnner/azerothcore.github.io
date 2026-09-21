@@ -1,8 +1,5 @@
 var a15687 =
 [
-    [ "npc_ouro_spawner", "dd/d00/a15687.html#acb18739e5a1734312ffdda35321e5f34", null ],
-    [ "JustSummoned", "dd/d00/a15687.html#a722dada5bf97c730462a0de2b082d5ff", null ],
-    [ "MoveInLineOfSight", "dd/d00/a15687.html#a83c0972db4435ccf1af069574e4056f4", null ],
-    [ "Reset", "dd/d00/a15687.html#ac1591f1c172bfdda25b020e00cd0835e", null ],
-    [ "hasSummoned", "dd/d00/a15687.html#a6ac376861c1206cc1551d9fa86c0fc97", null ]
+    [ "boss_kri", "dd/d00/a15687.html#a0a95f8d2a380ab48ffd5a034e012cc2c", null ],
+    [ "JustEngagedWith", "dd/d00/a15687.html#ab2169ec49ecbff2ee1460e38bd1a163e", null ]
 ];

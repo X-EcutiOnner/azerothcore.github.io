@@ -1,6 +1,6 @@
 var a27331 =
 [
-    [ "PrepareAuraScript", "dc/d3a/a27331.html#a059fe9aa1ea5ea4d0fa797e70a146fc5", null ],
-    [ "Register", "dc/d3a/a27331.html#a91f4b2b8796c7efab2f622893a393619", null ],
-    [ "AuraEffectHandleModes", "dc/d3a/a27331.html#ab93d08a85de86b0efdec59006ebbdf97", null ]
+    [ "OnApply", "dc/d3a/a27331.html#a50ced6d5a475ccad9429dfbb05130394", null ],
+    [ "PrepareAuraScript", "dc/d3a/a27331.html#abd02e129b1201449d473a66aea77d569", null ],
+    [ "Register", "dc/d3a/a27331.html#a8c09775f642335252c6e548900dc9d3a", null ]
 ];

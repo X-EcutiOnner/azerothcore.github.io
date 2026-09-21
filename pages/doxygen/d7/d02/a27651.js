@@ -1,8 +1,8 @@
 var a27651 =
 [
-    [ "CheckProc", "d7/d02/a27651.html#ad3f4c29626d91727b23e4992d984abaf", null ],
-    [ "HandleProc", "d7/d02/a27651.html#aeb207265b71b4d6ff44556a239560903", null ],
-    [ "PrepareAuraScript", "d7/d02/a27651.html#a5fef6925c2e68baef0802bf24c486be9", null ],
-    [ "Register", "d7/d02/a27651.html#a99052955844d5c4bfef701ea72713bc5", null ],
-    [ "Validate", "d7/d02/a27651.html#a4fd43180ce526dbe01748371cf226ede", null ]
+    [ "ApplyDebuff", "d7/d02/a27651.html#a76ecb96d27c54b18f3628476dae4cc73", null ],
+    [ "PrepareSpellScript", "d7/d02/a27651.html#aeff4dce89b0d893b90571e0ff63e1aaa", null ],
+    [ "Register", "d7/d02/a27651.html#ae53dfd7f60a1c4132c441f7cd1595b95", null ],
+    [ "RemoveInvalidTargets", "d7/d02/a27651.html#a1374c764b20b95febbca44c593bde218", null ],
+    [ "Validate", "d7/d02/a27651.html#a2eb14ea281b41b08acd4514c01aa938f", null ]
 ];

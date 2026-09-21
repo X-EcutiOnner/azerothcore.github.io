@@ -1,5 +1,7 @@
 var a21199 =
 [
-    [ "AreaTrigger_at_celestial_planetarium_enterance", "d1/d63/a21199.html#ae1503a754a05a77991d9955a2fb74265", null ],
-    [ "OnTrigger", "d1/d63/a21199.html#aa7aa93e00170313de251af4e562c422c", null ]
+    [ "HandleScriptEffect", "d1/d63/a21199.html#a173ee086127655cdfcca507fd5b15b2e", null ],
+    [ "PrepareSpellScript", "d1/d63/a21199.html#a005d47b18a820c35ec596b5539db94eb", null ],
+    [ "Register", "d1/d63/a21199.html#a20a0d554e80707c1517422cb747f38e8", null ],
+    [ "Validate", "d1/d63/a21199.html#a5ca44686e26def56adc2b98d88145235", null ]
 ];

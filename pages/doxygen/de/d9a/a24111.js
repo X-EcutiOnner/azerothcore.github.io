@@ -1,9 +1,11 @@
 var a24111 =
 [
-    [ "npc_ancestral_wolfAI", "de/d9a/a24111.html#a59ccca7093575f4bcac57a4751d977d4", null ],
-    [ "MoveInLineOfSight", "de/d9a/a24111.html#aec5788f0be3c1dcb63b3e61b50ae39c1", null ],
-    [ "Reset", "de/d9a/a24111.html#a9778a1648ca0007f7daf4ee98308d8d2", null ],
-    [ "WaypointReached", "de/d9a/a24111.html#a2b553c29823e5ef888ee02a3ed413386", null ],
-    [ "WaypointReached", "de/d9a/a24111.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "ryga", "de/d9a/a24111.html#ac238214604720e298124b58c35d58e05", null ]
+    [ "boss_pathaleon_the_calculator", "de/d9a/a24111.html#a679dc3ccc23c6def44e0f0669822e146", null ],
+    [ "CanAIAttack", "de/d9a/a24111.html#abcbb5f1236ebfbec680241ae8c5cbb00", null ],
+    [ "DoAction", "de/d9a/a24111.html#a814cb56cc18277cb4adbd7dc8a82b06d", null ],
+    [ "JustDied", "de/d9a/a24111.html#a0224d47bc85fe54c0cfded69b55e57b3", null ],
+    [ "JustEngagedWith", "de/d9a/a24111.html#a3ba024e86ceb83ebb26afcc11a75791d", null ],
+    [ "KilledUnit", "de/d9a/a24111.html#a899fd2e1e01ac1347e43bcb290babc5b", null ],
+    [ "Reset", "de/d9a/a24111.html#adc48067c3656bf768c3013ff266565c0", null ],
+    [ "_isEnraged", "de/d9a/a24111.html#ab875fb787d71eaf008b7267c81a2a4df", null ]
 ];

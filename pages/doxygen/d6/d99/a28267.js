@@ -1,6 +1,7 @@
 var a28267 =
 [
-    [ "go_bear_trapAI", "df/d71/a28271.html", "df/d71/a28271" ],
-    [ "go_bear_trap", "d6/d99/a28267.html#a6301aa23009ac2599fc37b81bb3a0750", null ],
-    [ "GetAI", "d6/d99/a28267.html#afb882fd4cc2e4379bb8d5afff210a679", null ]
+    [ "npc_spirit_shadeAI", "d6/d99/a28267.html#a8b7bf7c7cc541a47be79aad76a9bbcbc", null ],
+    [ "IsSummonedBy", "d6/d99/a28267.html#a3a7fcb4af8e3b27e06b4665e8a864b38", null ],
+    [ "MovementInform", "d6/d99/a28267.html#ab001fdc09efe9f8c03ad1b7610124e6d", null ],
+    [ "_summonerGuid", "d6/d99/a28267.html#aa7c6abb848ab37f407a3553d04d0ad81", null ]
 ];

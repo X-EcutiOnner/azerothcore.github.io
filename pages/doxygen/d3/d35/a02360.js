@@ -1,5 +1,5 @@
 var a02360 =
 [
-    [ "reload_commandscript", "d6/d00/a12657.html", "d6/d00/a12657" ],
-    [ "AddSC_reload_commandscript", "d3/d35/a02360.html#ab72bc0a4ad4d6f90fa1e05f5591ed68f", null ]
+    [ "message_commandscript", "dc/d02/a12595.html", "dc/d02/a12595" ],
+    [ "AddSC_message_commandscript", "d3/d35/a02360.html#a85760eb92ac87e8dcb18c91d31f09fc0", null ]
 ];

@@ -1,8 +1,10 @@
 var a05323 =
 [
-    [ "ModelFileMap", "d6/daf/a05323.html#ae609ba50932b7bac6ac0c1c7d0800b5d", null ],
-    [ "AcquireModelInstance", "d6/daf/a05323.html#af6dc1b3c77f5eeff5ff4b9bc5c4024b0", null ],
-    [ "instance", "d6/daf/a05323.html#a6cae2913accf21c262dafa01c14b1795", null ],
-    [ "_loadedModels", "d6/daf/a05323.html#a406474470aaa0da5b752817cc5ea81ae", null ],
-    [ "_lock", "d6/daf/a05323.html#ab258d227875d9aad8f399fae3f57f0ab", null ]
+    [ "AreaInfo", "d6/daf/a05323.html#a7cd6d0845a1fea33d4f51deb5890f9f1", null ],
+    [ "AreaInfo", "d6/daf/a05323.html#acdd6c482f37134fdc962a55771003b5c", null ],
+    [ "adtId", "d6/daf/a05323.html#aee38e987da24645d36792a1024235035", null ],
+    [ "groupId", "d6/daf/a05323.html#a6472ad95a025769da84943fc490860e1", null ],
+    [ "mogpFlags", "d6/daf/a05323.html#ae97f4c32ecee4844f2cb0fec92cb21ec", null ],
+    [ "rootId", "d6/daf/a05323.html#a5af47da55bdcb6a92356a33112a41da5", null ],
+    [ "uniqueId", "d6/daf/a05323.html#a4496a2c21c4bca0e8acbd563de282338", null ]
 ];

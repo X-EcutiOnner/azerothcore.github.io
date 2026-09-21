@@ -1,10 +1,11 @@
 var a28187 =
 [
-    [ "boss_emerissAI", "d9/d76/a28187.html#ad94b3b097d9987e365f91b7e57d0f208", null ],
-    [ "DamageTaken", "d9/d76/a28187.html#abb80c49c166f31cd7e2d24392fbf60e1", null ],
-    [ "ExecuteEvent", "d9/d76/a28187.html#ad3839ad4b0a930bc96154b5b0aab17fe", null ],
-    [ "JustEngagedWith", "d9/d76/a28187.html#a5a51b97216a27637f6bd3020ba05e0f7", null ],
-    [ "KilledUnit", "d9/d76/a28187.html#ad851169bc09a362137e211dd10d30a1b", null ],
-    [ "Reset", "d9/d76/a28187.html#a44dfb325c4e8413662052137edc710ef", null ],
-    [ "_stage", "d9/d76/a28187.html#ae2c8c5c2d2054af41c5dbe938b3eb79a", null ]
+    [ "AccountActionIpLogger", "d9/d76/a28187.html#a73cad77bd83243cb10c4a1b4d7081e0b", null ],
+    [ "AccountIPLogAction", "d9/d76/a28187.html#a9c978dafb71e67b8b278806df507e34b", null ],
+    [ "OnAccountLogin", "d9/d76/a28187.html#a2952adcd73d775b924671e5a69adaccb", null ],
+    [ "OnEmailChange", "d9/d76/a28187.html#aa15d0cc4e6ed3818fa18a927074f5f0c", null ],
+    [ "OnFailedAccountLogin", "d9/d76/a28187.html#a8225c45bcb83e1ddd91a8dcd0f7da9cd", null ],
+    [ "OnFailedEmailChange", "d9/d76/a28187.html#a9fd73dc7b6954dfb4fc94a1f1288ccd2", null ],
+    [ "OnFailedPasswordChange", "d9/d76/a28187.html#a0663e15ea1a29b3daa672c8b6a25548f", null ],
+    [ "OnPasswordChange", "d9/d76/a28187.html#a4b71aa9c1790e6d4033d884a17ce0a2f", null ]
 ];

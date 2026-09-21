@@ -1,5 +1,6 @@
 var a28363 =
 [
-    [ "go_jotunheim_cage", "da/da2/a28363.html#a28c9312de97a822e34f05c7358b42df4", null ],
-    [ "OnGossipHello", "da/da2/a28363.html#a5598fcb4df9c7d0a610ea064af8095d3", null ]
+    [ "go_l70_etc_musicAI", "d9/da1/a28367.html", "d9/da1/a28367" ],
+    [ "go_l70_etc_music", "da/da2/a28363.html#a766dccca12fc7959273ba1e3a278564f", null ],
+    [ "GetAI", "da/da2/a28363.html#a5231ffc778830f8a49ae85a8c1173deb", null ]
 ];

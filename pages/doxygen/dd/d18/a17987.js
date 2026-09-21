@@ -1,6 +1,7 @@
 var a17987 =
 [
-    [ "npc_muradin_bronzebeard_igbAI", "d0/d43/a17991.html", "d0/d43/a17991" ],
-    [ "npc_muradin_bronzebeard_igb", "dd/d18/a17987.html#a1e6abc18a192b3acfa29bf03dd4eeed9", null ],
-    [ "GetAI", "dd/d18/a17987.html#af9b149e0780308f26d5adb1e6607a3ce", null ]
+    [ "npc_icc_blood_beastAI", "dd/d18/a17987.html#af52eff9f66451444c5acba6930c1bff6", null ],
+    [ "DoAction", "dd/d18/a17987.html#a5de6e46fd21fd073fde2f0aaa5dc947a", null ],
+    [ "UpdateAI", "dd/d18/a17987.html#ac9da073c33dd33097f03ca35d36ea15e", null ],
+    [ "timer1", "dd/d18/a17987.html#a1074059162f818088808795119f081be", null ]
 ];

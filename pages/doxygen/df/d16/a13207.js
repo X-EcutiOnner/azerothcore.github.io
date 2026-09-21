@@ -1,8 +1,8 @@
 var a13207 =
 [
-    [ "HandleEffectRemove", "df/d16/a13207.html#a5e5a218cb491b830ec8d50609a3d54ae", null ],
-    [ "if", "df/d16/a13207.html#a9e9aec7bc2773270c1063b1a3c44c07a", null ],
-    [ "PrepareAuraScript", "df/d16/a13207.html#a4055f781a914de631187b00ba7aefeef", null ],
-    [ "Register", "df/d16/a13207.html#aefb4bbae43558abde871548088784613", null ],
-    [ "AuraEffectHandleModes", "df/d16/a13207.html#a7d419ba41e68b70740a867a2265824bd", null ]
+    [ "npc_lava_spawn", "df/d16/a13207.html#aff97441b2cfbcd68e0788be022ee6236", null ],
+    [ "JustEngagedWith", "df/d16/a13207.html#a3b93df8de3c0f8a50768b860cfa11b72", null ],
+    [ "Reset", "df/d16/a13207.html#ab774d354991c90b1421e6783c0513e59", null ],
+    [ "UpdateAI", "df/d16/a13207.html#a6a17c8c40b0110b688ff5faef5585185", null ],
+    [ "_scheduler", "df/d16/a13207.html#ab7a6b2beec095f3f903ad4443813cfce", null ]
 ];

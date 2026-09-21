@@ -1,7 +1,7 @@
 var a26591 =
 [
-    [ "AfterRemove", "d5/d31/a26591.html#a9dc5ef5c5545fc382e221ca9473ac3bd", null ],
-    [ "PrepareAuraScript", "d5/d31/a26591.html#a0fd3e297a66df888f6e30f93b9f60947", null ],
-    [ "Register", "d5/d31/a26591.html#a2b1872fa0342e0f530b61fc7a5bf876b", null ],
-    [ "Validate", "d5/d31/a26591.html#ae08f33e0271166afa87208faa30684c4", null ]
+    [ "HandleProc", "d5/d31/a26591.html#a58e243bf7eca18d2ff1a9c72f9453f10", null ],
+    [ "PrepareAuraScript", "d5/d31/a26591.html#af6ca1636d67b2d9f81a8743706ffb800", null ],
+    [ "Register", "d5/d31/a26591.html#ad3e4a18ce21270eede17e29faa7dd897", null ],
+    [ "Validate", "d5/d31/a26591.html#aa9b2fa0685a0936ebf7b7e6df0fd9b22", null ]
 ];

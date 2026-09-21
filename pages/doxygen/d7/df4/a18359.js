@@ -1,7 +1,6 @@
 var a18359 =
 [
-    [ "HandleSummon", "d7/df4/a18359.html#a8a96bd3a1b3cfaff09e05535eca927a9", null ],
-    [ "PrepareSpellScript", "d7/df4/a18359.html#a0213cd8e5e79aba8ba80583ceda88b95", null ],
-    [ "Register", "d7/df4/a18359.html#a01281869dc98a0af5027695391f1221f", null ],
-    [ "Validate", "d7/df4/a18359.html#a26675411e5f86e6d31f62762a3fdcd70", null ]
+    [ "npc_volatile_oozeAI", "d1/df9/a18363.html", "d1/df9/a18363" ],
+    [ "npc_volatile_ooze", "d7/df4/a18359.html#a22847e44812a0b13b92cfcca3a70204e", null ],
+    [ "GetAI", "d7/df4/a18359.html#a66b4918c14d90d5550ddc8dbe90c2e01", null ]
 ];

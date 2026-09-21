@@ -1,9 +1,6 @@
 var a18599 =
 [
-    [ "ShadowTrapLKTargetSelector", "d3/d3a/a18599.html#a33561775948e07ac6ade2037f237441d", null ],
-    [ "operator()", "d3/d3a/a18599.html#a3770329509c6ab2f16ae369ea8d72645", null ],
-    [ "_maxDist", "d3/d3a/a18599.html#a6ee78b1ca184a05d01aa053afe499a95", null ],
-    [ "_playerOnly", "d3/d3a/a18599.html#acfb3a657e430bc2ca26680bef6cf0159", null ],
-    [ "_reqLOS", "d3/d3a/a18599.html#a7911be23196f59d55028affc3be23c20", null ],
-    [ "_source", "d3/d3a/a18599.html#af416013aabf3b217b07228072076603d", null ]
+    [ "FilterTargets", "d3/d3a/a18599.html#aae21b2d9ecc5bfd317f065f1da46b696", null ],
+    [ "PrepareSpellScript", "d3/d3a/a18599.html#a2a7e37db10a6f8a6c86af92d7b492a29", null ],
+    [ "Register", "d3/d3a/a18599.html#a6e541cad4c831ee2eaf19d72324ec38c", null ]
 ];

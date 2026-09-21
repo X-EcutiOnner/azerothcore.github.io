@@ -1,10 +1,10 @@
 var a29883 =
 [
-    [ "SetUp", "d1/daa/a29883.html#a577c64b32e7d6e1055f23a9204a9dc9d", null ],
-    [ "TearDown", "d1/daa/a29883.html#a154bc25a4e054558748b5599b56de11f", null ],
-    [ "_creatureA", "d1/daa/a29883.html#a95e6c0f1f7a8692ec255c052b40416df", null ],
-    [ "_creatureB", "d1/daa/a29883.html#af5d64516264eeb9f1acadeeba44b79c2", null ],
-    [ "_map", "d1/daa/a29883.html#ada2e0d28b42465ea6f7c8de71142efd0", null ],
-    [ "_previousWorld", "d1/daa/a29883.html#a2805a828f7a7c92845f7c712b90af381", null ],
-    [ "_worldMock", "d1/daa/a29883.html#ab8d82db4b26a11e286ec603c63ea1613", null ]
+    [ "SetUp", "d1/daa/a29883.html#a781aff1ceb2f4e26bcf801e9ab81bf3e", null ],
+    [ "TearDown", "d1/daa/a29883.html#a4554349a2712a018d16de6a8ae9f50ff", null ],
+    [ "PERM_A", "d1/daa/a29883.html#a4cf88cb08e4248c973e96009b7c5e225", null ],
+    [ "PERM_B", "d1/daa/a29883.html#a358884a8d08637d7358803127c87c808", null ],
+    [ "PERM_C", "d1/daa/a29883.html#a34fc88e7d7566ed4d64005535d0a3122", null ],
+    [ "rbacData", "d1/daa/a29883.html#af35ce1e4fa3d4123358a098cb5afb2af", null ],
+    [ "ROLE_R", "d1/daa/a29883.html#abe95477afdf283e406df55eac7f146cf", null ]
 ];

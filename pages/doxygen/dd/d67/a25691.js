@@ -1,6 +1,5 @@
 var a25691 =
 [
-    [ "CalculateAmount", "dd/d67/a25691.html#ac0018b57967a3d3ae71aa81745032f15", null ],
-    [ "PrepareAuraScript", "dd/d67/a25691.html#ab249a493050c5527eeec8913e94cfc64", null ],
-    [ "Register", "dd/d67/a25691.html#a8f078f8370eacba197ceb2068b6a538d", null ]
+    [ "PrepareSpellScript", "dd/d67/a25691.html#a2c88a98e1f76f62f745dbd83fa939506", null ],
+    [ "Register", "dd/d67/a25691.html#a93dcf131a040c95ef1b8cc5ec1d3bc37", null ]
 ];

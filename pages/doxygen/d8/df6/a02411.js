@@ -1,5 +1,5 @@
 var a02411 =
 [
-    [ "HandleLearnSpellCommand", "d8/df6/a02411.html#acbe37f872cbc981a27671ebdf10904de", null ],
-    [ "HandleUnlearnSpellCommand", "d8/df6/a02411.html#ad36f90f90b3d9aaf782f7efc859f7e7a", null ]
+    [ "gear_commandscript", "da/dec/a12535.html", "da/dec/a12535" ],
+    [ "AddSC_gear_commandscript", "d8/df6/a02411.html#a8f5ae2609cea7d63d76141e1a5feaf27", null ]
 ];

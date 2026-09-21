@@ -1,5 +1,7 @@
 var a13459 =
 [
-    [ "boss_warlord_salaris", "db/d08/a13459.html#afe9ace28dcd302e9b9a9ebe806e2ada5", null ],
-    [ "JustEngagedWith", "db/d08/a13459.html#a77b3b531466810ee17f9fd6eadf5872a", null ]
+    [ "PeriodicTick", "db/d08/a13459.html#a267d6df2c08039581fd1c008ffc14b8c", null ],
+    [ "PrepareAuraScript", "db/d08/a13459.html#ab75f10a475a4302897cbb90a3adb5b03", null ],
+    [ "Register", "db/d08/a13459.html#a2681d44b149e9f1d797df4147e20e686", null ],
+    [ "Validate", "db/d08/a13459.html#a9a5f11a3024a14911b478cdf59a7abb9", null ]
 ];

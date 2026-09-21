@@ -1,8 +1,6 @@
 var a16375 =
 [
-    [ "instance_ahnkahet_InstanceScript", "d9/d2a/a16375.html#aa9a72f2f757d0b3065a6e4e25b14e86d", null ],
-    [ "IsAllSpheresActivated", "d9/d2a/a16375.html#a048a2b16ae9917c7edc9bf7023986ac3", null ],
-    [ "OnGameObjectCreate", "d9/d2a/a16375.html#ad00fdc90a61e1c927323daa2149f8466", null ],
-    [ "SetData", "d9/d2a/a16375.html#a8986038a2f25b16b9ab8ba4d41b5221a", null ],
-    [ "taldaramPlatform_GUID", "d9/d2a/a16375.html#a840ce69595c384be321c1167513d151e", null ]
+    [ "npc_shadowpriest_sezzizAI", "df/db1/a16379.html", "df/db1/a16379" ],
+    [ "npc_shadowpriest_sezziz", "d9/d2a/a16375.html#a1be46acc9d8f1405f925f7b7f87592ea", null ],
+    [ "GetAI", "d9/d2a/a16375.html#a1513b766f18dbc290b6682582fd33b1d", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: BasicEvent Class Reference</title>
+<title>AzerothCore: CircularBuffer&lt; T &gt; Class Template Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,308 +106,102 @@ $(document).ready(function(){initNavTree('d8/d08/a05843.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pri-types">Private Types</a> &#124;
-<a href="#pri-methods">Private Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
-<a href="#friends">Friends</a> &#124;
 <a href="../../dd/dce/a05840.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">BasicEvent Class Reference</div></div>
+  <div class="headertitle"><div class="title">CircularBuffer&lt; T &gt; Class Template Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">EventProcessor.h</a>&quot;</code></p>
-<div class="dynheader">
-Inheritance diagram for BasicEvent:</div>
-<div class="dyncontent">
- <div class="center">
-  <img src="../../d8/d08/a05843.png" usemap="#BasicEvent_map" alt=""/>
-  <map id="BasicEvent_map" name="BasicEvent_map">
-<area href="../../d3/da9/a08411.html" alt="AssistDelayEvent" shape="rect" coords="206,56,402,80"/>
-<area href="../../da/dac/a09111.html" alt="AuraMunchingQueue" shape="rect" coords="206,112,402,136"/>
-<area href="../../dc/dd4/a18879.html" alt="AuraRemoveEvent" shape="rect" coords="206,168,402,192"/>
-<area href="../../d2/dc4/a07739.html" alt="BGQueueInviteEvent" shape="rect" coords="206,224,402,248"/>
-<area href="../../d1/ddf/a07743.html" alt="BGQueueRemoveEvent" shape="rect" coords="206,280,402,304"/>
-<area href="../../db/dc1/a17955.html" alt="BattleExperienceEvent" shape="rect" coords="206,336,402,360"/>
-<area href="../../dd/d9f/a19015.html" alt="CaptainSurviveTalk" shape="rect" coords="206,392,402,416"/>
-<area href="../../d1/d3b/a13795.html" alt="CastArmageddon" shape="rect" coords="206,448,402,472"/>
-<area href="../../d2/d58/a23871.html" alt="CastQuill" shape="rect" coords="206,504,402,528"/>
-<area href="../../d6/d6e/a20155.html" alt="CastRunesEvent" shape="rect" coords="206,560,402,584"/>
-<area href="../../d1/d2b/a19771.html" alt="ChargeRifts" shape="rect" coords="206,616,402,640"/>
-<area href="../../d1/d59/a13731.html" alt="CorruptTriggers" shape="rect" coords="206,672,402,696"/>
-<area href="../../dc/d31/a20079.html" alt="CosmicSmashDamageEvent" shape="rect" coords="206,728,402,752"/>
-<area href="../../d7/d60/a18155.html" alt="DaranavanMoveEvent" shape="rect" coords="206,784,402,808"/>
-<area href="../../d7/d10/a24511.html" alt="DeathEvent" shape="rect" coords="206,840,402,864"/>
-<area href="../../d8/d8c/a18875.html" alt="DelayedCastEvent" shape="rect" coords="206,896,402,920"/>
-<area href="../../d9/d1d/a19383.html" alt="DelayedCastMincharEvent" shape="rect" coords="206,952,402,976"/>
-<area href="../../d5/d10/a17963.html" alt="DelayedMovementEvent" shape="rect" coords="206,1008,402,1032"/>
-<area href="../../d3/ddc/a14199.html" alt="DelayedSummonEvent" shape="rect" coords="206,1064,402,1088"/>
-<area href="../../db/df3/a16515.html" alt="DelayedTalk" shape="rect" coords="206,1120,402,1144"/>
-<area href="../../df/d8d/a16095.html" alt="DelayedWindstoneSummonEvent" shape="rect" coords="206,1176,402,1200"/>
-<area href="../../d5/dcc/a13811.html" alt="FixOrientation" shape="rect" coords="206,1232,402,1256"/>
-<area href="../../de/d5d/a08415.html" alt="ForcedDespawnDelayEvent" shape="rect" coords="206,1288,402,1312"/>
-<area href="../../d8/dc0/a08543.html" alt="ForcedUnsummonDelayEvent" shape="rect" coords="206,1344,402,1368"/>
-<area href="../../d1/d71/a18455.html" alt="FrostBombExplosion" shape="rect" coords="206,1400,402,1424"/>
-<area href="../../d6/d95/a18451.html" alt="FrostwyrmLandEvent" shape="rect" coords="206,1456,402,1480"/>
-<area href="../../df/d49/a16831.html" alt="HideNpcEvent" shape="rect" coords="206,1512,402,1536"/>
-<area href="../../d4/d1d/a18459.html" alt="IceTombSummonEvent" shape="rect" coords="206,1568,402,1592"/>
-<area href="../../db/d35/a06527.html" alt="KillMagnetEvent" shape="rect" coords="206,1624,402,1648"/>
-<area href="../../d8/d07/a05847.html" alt="LambdaBasicEvent&lt; T &gt;" shape="rect" coords="206,1680,402,1704"/>
-<area href="../../d7/d27/a18627.html" alt="LichKingDeathEvent" shape="rect" coords="206,1736,402,1760"/>
-<area href="../../d5/d62/a18631.html" alt="LichKingMovieEvent" shape="rect" coords="206,1792,402,1816"/>
-<area href="../../d0/d2d/a13807.html" alt="MoveDelayed" shape="rect" coords="206,1848,402,1872"/>
-<area href="../../df/dda/a15383.html" alt="NpcRunToHome" shape="rect" coords="206,1904,402,1928"/>
-<area href="../../da/de3/a12839.html" alt="OrcDeathEvent" shape="rect" coords="206,1960,402,1984"/>
-<area href="../../d6/d9c/a12835.html" alt="OrcMoveEvent" shape="rect" coords="206,2016,402,2040"/>
-<area href="../../d0/dc1/a26035.html" alt="PartyTimeEmoteEvent" shape="rect" coords="206,2072,402,2096"/>
-<area href="../../da/dd4/a09179.html" alt="RedirectSpellEvent" shape="rect" coords="206,2128,402,2152"/>
-<area href="../../d4/d51/a11915.html" alt="ReflectEvent" shape="rect" coords="206,2184,402,2208"/>
-<area href="../../d9/db2/a17967.html" alt="ResetEncounterEvent" shape="rect" coords="206,2240,402,2264"/>
-<area href="../../d9/d18/a19379.html" alt="RespawnEvent" shape="rect" coords="206,2296,402,2320"/>
-<area href="../../dc/d20/a12771.html" alt="RestoreAttack" shape="rect" coords="206,2352,402,2376"/>
-<area href="../../d0/dcf/a16519.html" alt="RestoreFight" shape="rect" coords="206,2408,402,2432"/>
-<area href="../../d0/dcf/a16519.html" alt="RestoreFight" shape="rect" coords="206,2464,402,2488"/>
-<area href="../../d3/d64/a21871.html" alt="SACActivateEvent" shape="rect" coords="206,2520,402,2544"/>
-<area href="../../de/d73/a21875.html" alt="SACDeactivateEvent" shape="rect" coords="206,2576,402,2600"/>
-<area href="../../db/dfc/a16571.html" alt="SendEncounterUnit" shape="rect" coords="206,2632,402,2656"/>
-<area href="../../d2/d27/a17679.html" alt="ShockVortexExplodeEvent" shape="rect" coords="206,2688,402,2712"/>
-<area href="../../d0/d25/a17543.html" alt="SlaveRunEvent" shape="rect" coords="206,2744,402,2768"/>
-<area href="../../d3/d98/a11851.html" alt="SpellEvent" shape="rect" coords="206,2800,402,2824"/>
-<area href="../../d6/dcd/a17675.html" alt="StandUpEvent" shape="rect" coords="206,2856,402,2880"/>
-<area href="../../dc/d04/a18615.html" alt="StartMovementEvent" shape="rect" coords="206,2912,402,2936"/>
-<area href="../../df/df0/a22971.html" alt="SuckBackEvent" shape="rect" coords="206,2968,402,2992"/>
-<area href="../../d2/dc5/a08419.html" alt="TemporaryThreatModifierEvent" shape="rect" coords="206,3024,402,3048"/>
-<area href="../../d7/d3d/a18623.html" alt="TriggerWickedSpirit" shape="rect" coords="206,3080,402,3104"/>
-<area href="../../d1/d76/a17407.html" alt="UtherBatteredHiltEvent" shape="rect" coords="206,3136,402,3160"/>
-<area href="../../dc/d2b/a18883.html" alt="ValithriaDespawner" shape="rect" coords="206,3192,402,3216"/>
-<area href="../../dc/dc3/a09203.html" alt="VehicleDespawnEvent" shape="rect" coords="206,3248,402,3272"/>
-<area href="../../d8/d51/a22891.html" alt="VerasEnvenom" shape="rect" coords="206,3304,402,3328"/>
-<area href="../../d1/d08/a18619.html" alt="VileSpiritActivateEvent" shape="rect" coords="206,3360,402,3384"/>
-<area href="../../de/dfb/a23943.html" alt="lapseTeleport" shape="rect" coords="206,3416,402,3440"/>
-  </map>
-</div></div>
+<p><code>#include &quot;<a class="el" href="../../">CircularBuffer.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a9c3cd17edab7fc410f88bb680d756975"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d08/a05843.html#a9c3cd17edab7fc410f88bb680d756975">BasicEvent</a> ()=default</td></tr>
-<tr class="separator:a9c3cd17edab7fc410f88bb680d756975"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0c3860e1c8854c2db20a225944792afd"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d08/a05843.html#a0c3860e1c8854c2db20a225944792afd">~BasicEvent</a> ()=default</td></tr>
-<tr class="separator:a0c3860e1c8854c2db20a225944792afd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a89297a10b64d01895332655122ed8ccb"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d08/a05843.html#a89297a10b64d01895332655122ed8ccb">Execute</a> (<a class="el" href="../../d8/ddd/a00380.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>, <a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
-<tr class="separator:a89297a10b64d01895332655122ed8ccb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a62c0483af9fd1885e779cf088a50eb02"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d08/a05843.html#a62c0483af9fd1885e779cf088a50eb02">IsDeletable</a> () const</td></tr>
-<tr class="separator:a62c0483af9fd1885e779cf088a50eb02"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5584968148a48bd7ba072515bd489963"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d08/a05843.html#a5584968148a48bd7ba072515bd489963">Abort</a> (<a class="el" href="../../d8/ddd/a00380.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>)</td></tr>
-<tr class="separator:a5584968148a48bd7ba072515bd489963"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afafade0729f08b8f1193a66f50c18348"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d08/a05843.html#afafade0729f08b8f1193a66f50c18348">ScheduleAbort</a> ()</td></tr>
-<tr class="separator:afafade0729f08b8f1193a66f50c18348"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-types" name="pri-types"></a>
-Private Types</h2></td></tr>
-<tr class="memitem:a3f26f839ff35d80af2a8f885ca1a1554"><td class="memItemLeft" align="right" valign="top">enum class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d08/a05843.html#a3f26f839ff35d80af2a8f885ca1a1554">AbortState</a> : uint8 { <br />
-&#160;&#160;<a class="el" href="../../d8/d08/a05843.html#a3f26f839ff35d80af2a8f885ca1a1554ad8a3bbc9a845117a56f75c0f8e74f09e">STATE_RUNNING</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d8/d08/a05843.html#a3f26f839ff35d80af2a8f885ca1a1554a57184a4db33295d3f2462a45429a7d3a">STATE_ABORT_SCHEDULED</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d8/d08/a05843.html#a3f26f839ff35d80af2a8f885ca1a1554a94084d8a7188eb3538561802c1f817f5">STATE_ABORTED</a>
-<br />
- }</td></tr>
-<tr class="separator:a3f26f839ff35d80af2a8f885ca1a1554"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
-Private Member Functions</h2></td></tr>
-<tr class="memitem:a9224c2878bff4f6df28bedb973be2d27"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d08/a05843.html#a9224c2878bff4f6df28bedb973be2d27">SetAborted</a> ()</td></tr>
-<tr class="separator:a9224c2878bff4f6df28bedb973be2d27"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aeb6eb1bb1c54f70d5e0f88cf4e462fc2"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d08/a05843.html#aeb6eb1bb1c54f70d5e0f88cf4e462fc2">IsRunning</a> () const</td></tr>
-<tr class="separator:aeb6eb1bb1c54f70d5e0f88cf4e462fc2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1ee71d72964b7124e8e137b02c81eac2"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d08/a05843.html#a1ee71d72964b7124e8e137b02c81eac2">IsAbortScheduled</a> () const</td></tr>
-<tr class="separator:a1ee71d72964b7124e8e137b02c81eac2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4b05df0749b6a18ef0e0b4137e727d7d"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d08/a05843.html#a4b05df0749b6a18ef0e0b4137e727d7d">IsAborted</a> () const</td></tr>
-<tr class="separator:a4b05df0749b6a18ef0e0b4137e727d7d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a169d3975fbe8eda83c02f62b34347bc9"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d08/a05843.html#a169d3975fbe8eda83c02f62b34347bc9">CircularBuffer</a> (std::size_t <a class="el" href="../../d8/d08/a05843.html#af429f831da3fd31618d1c1612cd94ce7">size</a>)</td></tr>
+<tr class="separator:a169d3975fbe8eda83c02f62b34347bc9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2a5e093804731b69969c18e49a206572"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d08/a05843.html#a2a5e093804731b69969c18e49a206572">put</a> (T item)</td></tr>
+<tr class="separator:a2a5e093804731b69969c18e49a206572"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7509cc5ef0dd0a9f731c47b05929580c"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d08/a05843.html#a7509cc5ef0dd0a9f731c47b05929580c">empty</a> () const</td></tr>
+<tr class="separator:a7509cc5ef0dd0a9f731c47b05929580c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2a2f13f00dca028142c250b5f2183097"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d08/a05843.html#a2a2f13f00dca028142c250b5f2183097">full</a> () const</td></tr>
+<tr class="separator:a2a2f13f00dca028142c250b5f2183097"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aed04549e911fb6ecebbac1cbd01e9dcd"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d08/a05843.html#aed04549e911fb6ecebbac1cbd01e9dcd">capacity</a> () const</td></tr>
+<tr class="separator:aed04549e911fb6ecebbac1cbd01e9dcd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af429f831da3fd31618d1c1612cd94ce7"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d08/a05843.html#af429f831da3fd31618d1c1612cd94ce7">size</a> () const</td></tr>
+<tr class="separator:af429f831da3fd31618d1c1612cd94ce7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad364f8ee7c9176b912ea053e2f3c928f"><td class="memItemLeft" align="right" valign="top">std::vector&lt; T &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d08/a05843.html#ad364f8ee7c9176b912ea053e2f3c928f">content</a> ()</td></tr>
+<tr class="separator:ad364f8ee7c9176b912ea053e2f3c928f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad4bb17889033526da4605ebddd60f3c7"><td class="memItemLeft" align="right" valign="top">T&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d08/a05843.html#ad4bb17889033526da4605ebddd60f3c7">peak_back</a> ()</td></tr>
+<tr class="separator:ad4bb17889033526da4605ebddd60f3c7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:afd9cf18b8a00c6195b9120f3fcf7ca69"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d08/a05843.html#a3f26f839ff35d80af2a8f885ca1a1554">AbortState</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d08/a05843.html#afd9cf18b8a00c6195b9120f3fcf7ca69">m_abortState</a> {<a class="el" href="../../d8/d08/a05843.html#a3f26f839ff35d80af2a8f885ca1a1554ad8a3bbc9a845117a56f75c0f8e74f09e">AbortState::STATE_RUNNING</a>}</td></tr>
-<tr class="separator:afd9cf18b8a00c6195b9120f3fcf7ca69"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac236835e6298588e834cde7a8c2bfece"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/ddd/a00380.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d08/a05843.html#ac236835e6298588e834cde7a8c2bfece">m_addTime</a> {0}</td></tr>
-<tr class="separator:ac236835e6298588e834cde7a8c2bfece"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afbd8d5728992e7676fde628fc03dc588"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/ddd/a00380.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d08/a05843.html#afbd8d5728992e7676fde628fc03dc588">m_execTime</a> {0}</td></tr>
-<tr class="separator:afbd8d5728992e7676fde628fc03dc588"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2ee03f01e03347d04eb38a215d10f036"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/ddd/a00380.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d08/a05843.html#a2ee03f01e03347d04eb38a215d10f036">m_eventGroup</a> {0}</td></tr>
-<tr class="separator:a2ee03f01e03347d04eb38a215d10f036"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="friends" name="friends"></a>
-Friends</h2></td></tr>
-<tr class="memitem:acce868eb94e25fcad6a070753b63bdfc"><td class="memItemLeft" align="right" valign="top">class&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d08/a05843.html#acce868eb94e25fcad6a070753b63bdfc">EventProcessor</a></td></tr>
-<tr class="separator:acce868eb94e25fcad6a070753b63bdfc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa4762ba2167d8b9560ff39328b4b3afa"><td class="memItemLeft" align="right" valign="top">std::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d08/a05843.html#aa4762ba2167d8b9560ff39328b4b3afa">mutex_</a></td></tr>
+<tr class="separator:aa4762ba2167d8b9560ff39328b4b3afa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa2b9389da6cd912b4dd54d89ca1d69ee"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; T[]&gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d08/a05843.html#aa2b9389da6cd912b4dd54d89ca1d69ee">buf_</a></td></tr>
+<tr class="separator:aa2b9389da6cd912b4dd54d89ca1d69ee"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a43ba1c722307cdbbf38f8ba1ec7f64c6"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d08/a05843.html#a43ba1c722307cdbbf38f8ba1ec7f64c6">head_</a> = 0</td></tr>
+<tr class="separator:a43ba1c722307cdbbf38f8ba1ec7f64c6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0abd9f6b08ee7fb8dd7e437fe4a6364f"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d08/a05843.html#a0abd9f6b08ee7fb8dd7e437fe4a6364f">tail_</a> = 0</td></tr>
+<tr class="separator:a0abd9f6b08ee7fb8dd7e437fe4a6364f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4ad34b67dc4924addf79905732203d2a"><td class="memItemLeft" align="right" valign="top">const std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d08/a05843.html#a4ad34b67dc4924addf79905732203d2a">max_size_</a></td></tr>
+<tr class="separator:a4ad34b67dc4924addf79905732203d2a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1dfcbf9f9d2760d7d82144c57ff8a60e"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d08/a05843.html#a1dfcbf9f9d2760d7d82144c57ff8a60e">full_</a> = false</td></tr>
+<tr class="separator:a1dfcbf9f9d2760d7d82144c57ff8a60e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Enumeration Documentation</h2>
-<a id="a3f26f839ff35d80af2a8f885ca1a1554" name="a3f26f839ff35d80af2a8f885ca1a1554"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3f26f839ff35d80af2a8f885ca1a1554">&#9670;&#160;</a></span>AbortState</h2>
+<div class="textblock"><div class="compoundTemplParams">template&lt;typename T&gt;<br />
+class CircularBuffer&lt; T &gt;</div></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a169d3975fbe8eda83c02f62b34347bc9" name="a169d3975fbe8eda83c02f62b34347bc9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a169d3975fbe8eda83c02f62b34347bc9">&#9670;&#160;</a></span>CircularBuffer()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">enum class <a class="el" href="../../d8/d08/a05843.html#a3f26f839ff35d80af2a8f885ca1a1554">BasicEvent::AbortState</a> : <a class="el" href="../../d8/ddd/a00380.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></td>
+          <td class="memname"><a class="el" href="../../d8/d08/a05843.html">CircularBuffer</a>&lt; T &gt;<a class="el" href="../../d8/d08/a05843.html">::CircularBuffer</a> </td>
+          <td>(</td>
+          <td class="paramtype">std::size_t&#160;</td>
+          <td class="paramname"><em>size</em></td><td>)</td>
+          <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">strong</span><span class="mlabel">private</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">explicit</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a3f26f839ff35d80af2a8f885ca1a1554ad8a3bbc9a845117a56f75c0f8e74f09e" name="a3f26f839ff35d80af2a8f885ca1a1554ad8a3bbc9a845117a56f75c0f8e74f09e"></a>STATE_RUNNING&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3f26f839ff35d80af2a8f885ca1a1554a57184a4db33295d3f2462a45429a7d3a" name="a3f26f839ff35d80af2a8f885ca1a1554a57184a4db33295d3f2462a45429a7d3a"></a>STATE_ABORT_SCHEDULED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3f26f839ff35d80af2a8f885ca1a1554a94084d8a7188eb3538561802c1f817f5" name="a3f26f839ff35d80af2a8f885ca1a1554a94084d8a7188eb3538561802c1f817f5"></a>STATE_ABORTED&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   35</span>    {</div>
-<div class="line"><span class="lineno">   36</span>        <a class="code hl_enumvalue" href="../../d8/d08/a05843.html#a3f26f839ff35d80af2a8f885ca1a1554ad8a3bbc9a845117a56f75c0f8e74f09e">STATE_RUNNING</a>,</div>
-<div class="line"><span class="lineno">   37</span>        <a class="code hl_enumvalue" href="../../d8/d08/a05843.html#a3f26f839ff35d80af2a8f885ca1a1554a57184a4db33295d3f2462a45429a7d3a">STATE_ABORT_SCHEDULED</a>,</div>
-<div class="line"><span class="lineno">   38</span>        <a class="code hl_enumvalue" href="../../d8/d08/a05843.html#a3f26f839ff35d80af2a8f885ca1a1554a94084d8a7188eb3538561802c1f817f5">STATE_ABORTED</a></div>
-<div class="line"><span class="lineno">   39</span>        };</div>
-<div class="ttc" id="aa05843_html_a3f26f839ff35d80af2a8f885ca1a1554a57184a4db33295d3f2462a45429a7d3a"><div class="ttname"><a href="../../d8/d08/a05843.html#a3f26f839ff35d80af2a8f885ca1a1554a57184a4db33295d3f2462a45429a7d3a">BasicEvent::AbortState::STATE_ABORT_SCHEDULED</a></div><div class="ttdeci">@ STATE_ABORT_SCHEDULED</div></div>
-<div class="ttc" id="aa05843_html_a3f26f839ff35d80af2a8f885ca1a1554a94084d8a7188eb3538561802c1f817f5"><div class="ttname"><a href="../../d8/d08/a05843.html#a3f26f839ff35d80af2a8f885ca1a1554a94084d8a7188eb3538561802c1f817f5">BasicEvent::AbortState::STATE_ABORTED</a></div><div class="ttdeci">@ STATE_ABORTED</div></div>
-<div class="ttc" id="aa05843_html_a3f26f839ff35d80af2a8f885ca1a1554ad8a3bbc9a845117a56f75c0f8e74f09e"><div class="ttname"><a href="../../d8/d08/a05843.html#a3f26f839ff35d80af2a8f885ca1a1554ad8a3bbc9a845117a56f75c0f8e74f09e">BasicEvent::AbortState::STATE_RUNNING</a></div><div class="ttdeci">@ STATE_RUNNING</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   20</span>                                            :</div>
+<div class="line"><span class="lineno">   21</span>        <a class="code hl_variable" href="../../d8/d08/a05843.html#aa2b9389da6cd912b4dd54d89ca1d69ee">buf_</a>(std::unique_ptr&lt;T[]&gt;(<span class="keyword">new</span> T[<a class="code hl_function" href="../../d8/d08/a05843.html#af429f831da3fd31618d1c1612cd94ce7">size</a>])),</div>
+<div class="line"><span class="lineno">   22</span>        <a class="code hl_variable" href="../../d8/d08/a05843.html#a4ad34b67dc4924addf79905732203d2a">max_size_</a>(<a class="code hl_function" href="../../d8/d08/a05843.html#af429f831da3fd31618d1c1612cd94ce7">size</a>)</div>
+<div class="line"><span class="lineno">   23</span>    {</div>
+<div class="line"><span class="lineno">   24</span> </div>
+<div class="line"><span class="lineno">   25</span>    }</div>
+<div class="ttc" id="aa05843_html_a4ad34b67dc4924addf79905732203d2a"><div class="ttname"><a href="../../d8/d08/a05843.html#a4ad34b67dc4924addf79905732203d2a">CircularBuffer::max_size_</a></div><div class="ttdeci">const std::size_t max_size_</div><div class="ttdef"><b>Definition:</b> CircularBuffer.h:100</div></div>
+<div class="ttc" id="aa05843_html_aa2b9389da6cd912b4dd54d89ca1d69ee"><div class="ttname"><a href="../../d8/d08/a05843.html#aa2b9389da6cd912b4dd54d89ca1d69ee">CircularBuffer::buf_</a></div><div class="ttdeci">std::unique_ptr&lt; T[]&gt; buf_</div><div class="ttdef"><b>Definition:</b> CircularBuffer.h:97</div></div>
+<div class="ttc" id="aa05843_html_af429f831da3fd31618d1c1612cd94ce7"><div class="ttname"><a href="../../d8/d08/a05843.html#af429f831da3fd31618d1c1612cd94ce7">CircularBuffer::size</a></div><div class="ttdeci">std::size_t size() const</div><div class="ttdef"><b>Definition:</b> CircularBuffer.h:60</div></div>
 </div><!-- fragment -->
-</div>
-</div>
-<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a9c3cd17edab7fc410f88bb680d756975" name="a9c3cd17edab7fc410f88bb680d756975"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9c3cd17edab7fc410f88bb680d756975">&#9670;&#160;</a></span>BasicEvent()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">BasicEvent::BasicEvent </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">default</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a0c3860e1c8854c2db20a225944792afd" name="a0c3860e1c8854c2db20a225944792afd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0c3860e1c8854c2db20a225944792afd">&#9670;&#160;</a></span>~BasicEvent()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">virtual BasicEvent::~BasicEvent </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">virtual</span><span class="mlabel">default</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a5584968148a48bd7ba072515bd489963" name="a5584968148a48bd7ba072515bd489963"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5584968148a48bd7ba072515bd489963">&#9670;&#160;</a></span>Abort()</h2>
+<a id="aed04549e911fb6ecebbac1cbd01e9dcd" name="aed04549e911fb6ecebbac1cbd01e9dcd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aed04549e911fb6ecebbac1cbd01e9dcd">&#9670;&#160;</a></span>capacity()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">virtual void BasicEvent::Abort </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/ddd/a00380.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>&#160;</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Reimplemented in <a class="el" href="../../d3/d98/a11851.html#ac21656467ae71def45fd78b9d1fa1c30">SpellEvent</a>, <a class="el" href="../../d2/dc4/a07739.html#a07f5520ab61cdfd4eadc5d0815067135">BGQueueInviteEvent</a>, and <a class="el" href="../../d1/ddf/a07743.html#a7d1dc829e56398ad421cb53dd51e952e">BGQueueRemoveEvent</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   54</span>{ }           <span class="comment">// this method executes when the event is aborted</span></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a89297a10b64d01895332655122ed8ccb" name="a89297a10b64d01895332655122ed8ccb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a89297a10b64d01895332655122ed8ccb">&#9670;&#160;</a></span>Execute()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">virtual bool BasicEvent::Execute </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/ddd/a00380.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Reimplemented in <a class="el" href="../../d3/d98/a11851.html#ac8158bfbe916ff6207b2f6608308ae24">SpellEvent</a>, <a class="el" href="../../d2/dc4/a07739.html#a444aceb1c29c951271bab5186a7f3064">BGQueueInviteEvent</a>, <a class="el" href="../../d1/ddf/a07743.html#a42482ff784da4b23b568888a74a0b531">BGQueueRemoveEvent</a>, <a class="el" href="../../d3/da9/a08411.html#a5afd295abeb1295e43f48b8951b24c35">AssistDelayEvent</a>, <a class="el" href="../../de/d5d/a08415.html#a735c709b269458911bd93da1902cbe25">ForcedDespawnDelayEvent</a>, <a class="el" href="../../d2/dc5/a08419.html#a2bbd75ad5e293e78e4bffe880f371d1e">TemporaryThreatModifierEvent</a>, <a class="el" href="../../d8/dc0/a08543.html#a86d7bd6f9f47ef37382b725f0d64877b">ForcedUnsummonDelayEvent</a>, <a class="el" href="../../da/dd4/a09179.html#a34ae2bc23904558bd5f5b99e8f1c5fdc">RedirectSpellEvent</a>, <a class="el" href="../../dc/dc3/a09203.html#a39284ca2343e54cec915ac3ecf51f4a8">VehicleDespawnEvent</a>, <a class="el" href="../../d4/d51/a11915.html#a37fb766d70932e8a431dba363c603531">ReflectEvent</a>, <a class="el" href="../../db/dc1/a17955.html#a3971962ec90f682baeae96fe6098fa97">BattleExperienceEvent</a>, <a class="el" href="../../d8/d07/a05847.html#a8771a49f00554372b5ed38816abbd253">LambdaBasicEvent&lt; T &gt;</a>, <a class="el" href="../../db/d35/a06527.html#a2905731d24060dfa7c2069b05adfa2b2">KillMagnetEvent</a>, <a class="el" href="../../da/dac/a09111.html#a8f025a0ea1db81fb283db563402d1c40">AuraMunchingQueue</a>, <a class="el" href="../../dc/d20/a12771.html#a633e5abe4a3a9353df63d3778b8d71bc">RestoreAttack</a>, <a class="el" href="../../d6/d9c/a12835.html#a58a3c88ed3c6b534016179949b85ff9e">OrcMoveEvent</a>, <a class="el" href="../../da/de3/a12839.html#a293ec6667da669a27fe75965f919cd68">OrcDeathEvent</a>, <a class="el" href="../../d1/d59/a13731.html#a9929f3518f307e0b753782967f06c6c1">CorruptTriggers</a>, <a class="el" href="../../d1/d3b/a13795.html#a4f0651a38eaf03a07bcd73d0f88dda16">CastArmageddon</a>, <a class="el" href="../../d0/d2d/a13807.html#aa0db97475196b58bbed1f6bff1440fc6">MoveDelayed</a>, <a class="el" href="../../d5/dcc/a13811.html#a7af72679731c9b86b9ae36d19d1621e5">FixOrientation</a>, <a class="el" href="../../d3/ddc/a14199.html#a65ba0f1a1dc14e07b7b93a71c92ace6b">DelayedSummonEvent</a>, <a class="el" href="../../df/dda/a15383.html#a0da766e3bae0d8d97a46ef82b3873cc0">NpcRunToHome</a>, <a class="el" href="../../df/d8d/a16095.html#aa413bc8709bc543b89ffb3df42185475">DelayedWindstoneSummonEvent</a>, <a class="el" href="../../db/df3/a16515.html#a88c1915e73bcbd8ec253a537c416caf7">DelayedTalk</a>, <a class="el" href="../../d0/dcf/a16519.html#a019eb3c08dc8c3b97fc27b989ec8ab77">RestoreFight</a>, <a class="el" href="../../db/dfc/a16571.html#ae21b67f8fe8a0677778436563872495f">SendEncounterUnit</a>, <a class="el" href="../../df/d49/a16831.html#aecfbbbcac3fd98675913a6381c891a59">HideNpcEvent</a>, <a class="el" href="../../d1/d76/a17407.html#ad2eb37877155b6dbc9916338e30d0306">UtherBatteredHiltEvent</a>, <a class="el" href="../../d0/d25/a17543.html#a81db67be136525dea5a9cd84180be165">SlaveRunEvent</a>, <a class="el" href="../../d0/dcf/a16519.html#a019eb3c08dc8c3b97fc27b989ec8ab77">RestoreFight</a>, <a class="el" href="../../d6/dcd/a17675.html#a56bc1071300ff8f81e62839685e8f53a">StandUpEvent</a>, <a class="el" href="../../d2/d27/a17679.html#a601f777052b8a142db49e9b0ab1fa81a">ShockVortexExplodeEvent</a>, <a class="el" href="../../d5/d10/a17963.html#a8287761226ee671905151891779b6efb">DelayedMovementEvent</a>, <a class="el" href="../../d9/db2/a17967.html#ae8d52fc7c0689620bcef8c04643191f5">ResetEncounterEvent</a>, <a class="el" href="../../d7/d60/a18155.html#ada0ebc4a9c9f949dd0155a554a553543">DaranavanMoveEvent</a>, <a class="el" href="../../d6/d95/a18451.html#a4da77796a223e6233ac6d908f7700623">FrostwyrmLandEvent</a>, <a class="el" href="../../d1/d71/a18455.html#a0b6521266f18b621260286c530ff3f36">FrostBombExplosion</a>, <a class="el" href="../../d4/d1d/a18459.html#aa708b67e60ba0b4fe2334c43aaaca5c7">IceTombSummonEvent</a>, <a class="el" href="../../dc/d04/a18615.html#af1a043d953bcffe9341292e85cae2f55">StartMovementEvent</a>, <a class="el" href="../../d1/d08/a18619.html#a858892424e1f22fda9a7c519b6a7e0b6">VileSpiritActivateEvent</a>, <a class="el" href="../../d7/d3d/a18623.html#a7c8f1b5c33fac4d6a7cd89e3e71aa36d">TriggerWickedSpirit</a>, <a class="el" href="../../d7/d27/a18627.html#a06b9a77d3c5efb228368a1e423a620ae">LichKingDeathEvent</a>, <a class="el" href="../../d5/d62/a18631.html#a22d6181fd2651d62dcb6cdbabe0561fe">LichKingMovieEvent</a>, <a class="el" href="../../d8/d8c/a18875.html#ae2925429b3049e44d2afd2e8b990af71">DelayedCastEvent</a>, <a class="el" href="../../dc/dd4/a18879.html#a14ac906a0fcff86f61983c570b0bd6ad">AuraRemoveEvent</a>, <a class="el" href="../../dc/d2b/a18883.html#a4f8c63f52996da14078a7196cae3a00d">ValithriaDespawner</a>, <a class="el" href="../../dd/d9f/a19015.html#a871cf08e8c7fced2971cae8abbc20454">CaptainSurviveTalk</a>, <a class="el" href="../../d9/d18/a19379.html#a2e58f4e472fb72cf5401f11be6e5e136">RespawnEvent</a>, <a class="el" href="../../d9/d1d/a19383.html#a12aeff246d07e541ed192974320842cb">DelayedCastMincharEvent</a>, <a class="el" href="../../d1/d2b/a19771.html#a8d01bf861d37c25413dc14eee16a2939">ChargeRifts</a>, <a class="el" href="../../dc/d31/a20079.html#a2d4b301e1b7e0852ec47280ad97871f2">CosmicSmashDamageEvent</a>, <a class="el" href="../../d6/d6e/a20155.html#ad86f17817c8a5accb1cc90e0e5d362f3">CastRunesEvent</a>, <a class="el" href="../../d3/d64/a21871.html#ad3e4092941e8cd8953fdc251e97c458a">SACActivateEvent</a>, <a class="el" href="../../de/d73/a21875.html#a12179c55d1999b3cd0cfc5d51d039a31">SACDeactivateEvent</a>, <a class="el" href="../../d8/d51/a22891.html#a4b7853bb835cf28aefe2d5b955372d70">VerasEnvenom</a>, <a class="el" href="../../df/df0/a22971.html#aae1664e6ef9d90ec8a0e12554b991bf0">SuckBackEvent</a>, <a class="el" href="../../d2/d58/a23871.html#a26a971a575e4b9503cd1da73d43ebd1e">CastQuill</a>, <a class="el" href="../../de/dfb/a23943.html#a122023ed13fce2f5bb3721e459964443">lapseTeleport</a>, <a class="el" href="../../d7/d10/a24511.html#a497ac46ab1acf95816020fc6be8ce03a">DeathEvent</a>, and <a class="el" href="../../d0/dc1/a26035.html#a65a796ff4efece46c519f7bdf1524bb8">PartyTimeEmoteEvent</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   50</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a4b05df0749b6a18ef0e0b4137e727d7d" name="a4b05df0749b6a18ef0e0b4137e727d7d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4b05df0749b6a18ef0e0b4137e727d7d">&#9670;&#160;</a></span>IsAborted()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool BasicEvent::IsAborted </td>
+          <td class="memname">std::size_t <a class="el" href="../../d8/d08/a05843.html">CircularBuffer</a>&lt; T &gt;::capacity </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td> const</td>
@@ -415,142 +209,31 @@ Friends</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">private</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   63</span>{ <span class="keywordflow">return</span> (<a class="code hl_variable" href="../../d8/d08/a05843.html#afd9cf18b8a00c6195b9120f3fcf7ca69">m_abortState</a> == <a class="code hl_enumvalue" href="../../d8/d08/a05843.html#a3f26f839ff35d80af2a8f885ca1a1554a94084d8a7188eb3538561802c1f817f5">AbortState::STATE_ABORTED</a>); }</div>
-<div class="ttc" id="aa05843_html_afd9cf18b8a00c6195b9120f3fcf7ca69"><div class="ttname"><a href="../../d8/d08/a05843.html#afd9cf18b8a00c6195b9120f3fcf7ca69">BasicEvent::m_abortState</a></div><div class="ttdeci">AbortState m_abortState</div><div class="ttdef"><b>Definition:</b> EventProcessor.h:65</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   56</span>    {</div>
+<div class="line"><span class="lineno">   57</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d8/d08/a05843.html#a4ad34b67dc4924addf79905732203d2a">max_size_</a>;</div>
+<div class="line"><span class="lineno">   58</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00065">m_abortState</a>, and <a class="el" href="../../d8/d08/a05843.html#a3f26f839ff35d80af2a8f885ca1a1554a94084d8a7188eb3538561802c1f817f5">STATE_ABORTED</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00028">SetAborted()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00100">CircularBuffer&lt; T &gt;::max_size_</a>.</p>
 
 </div>
 </div>
-<a id="a1ee71d72964b7124e8e137b02c81eac2" name="a1ee71d72964b7124e8e137b02c81eac2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1ee71d72964b7124e8e137b02c81eac2">&#9670;&#160;</a></span>IsAbortScheduled()</h2>
+<a id="ad364f8ee7c9176b912ea053e2f3c928f" name="ad364f8ee7c9176b912ea053e2f3c928f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad364f8ee7c9176b912ea053e2f3c928f">&#9670;&#160;</a></span>content()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool BasicEvent::IsAbortScheduled </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   62</span>{ <span class="keywordflow">return</span> (<a class="code hl_variable" href="../../d8/d08/a05843.html#afd9cf18b8a00c6195b9120f3fcf7ca69">m_abortState</a> == <a class="code hl_enumvalue" href="../../d8/d08/a05843.html#a3f26f839ff35d80af2a8f885ca1a1554a57184a4db33295d3f2462a45429a7d3a">AbortState::STATE_ABORT_SCHEDULED</a>); }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00065">m_abortState</a>, and <a class="el" href="../../d8/d08/a05843.html#a3f26f839ff35d80af2a8f885ca1a1554a57184a4db33295d3f2462a45429a7d3a">STATE_ABORT_SCHEDULED</a>.</p>
-
-</div>
-</div>
-<a id="a62c0483af9fd1885e779cf088a50eb02" name="a62c0483af9fd1885e779cf088a50eb02"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a62c0483af9fd1885e779cf088a50eb02">&#9670;&#160;</a></span>IsDeletable()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">virtual bool BasicEvent::IsDeletable </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Reimplemented in <a class="el" href="../../d3/d98/a11851.html#a2ecd9b31bacc717cc509eb9bb69c3cb3">SpellEvent</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   52</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }   <span class="comment">// this event can be safely deleted</span></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="aeb6eb1bb1c54f70d5e0f88cf4e462fc2" name="aeb6eb1bb1c54f70d5e0f88cf4e462fc2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aeb6eb1bb1c54f70d5e0f88cf4e462fc2">&#9670;&#160;</a></span>IsRunning()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool BasicEvent::IsRunning </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   61</span>{ <span class="keywordflow">return</span> (<a class="code hl_variable" href="../../d8/d08/a05843.html#afd9cf18b8a00c6195b9120f3fcf7ca69">m_abortState</a> == <a class="code hl_enumvalue" href="../../d8/d08/a05843.html#a3f26f839ff35d80af2a8f885ca1a1554ad8a3bbc9a845117a56f75c0f8e74f09e">AbortState::STATE_RUNNING</a>); }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00065">m_abortState</a>, and <a class="el" href="../../d8/d08/a05843.html#a3f26f839ff35d80af2a8f885ca1a1554ad8a3bbc9a845117a56f75c0f8e74f09e">STATE_RUNNING</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00021">ScheduleAbort()</a>.</p>
-
-</div>
-</div>
-<a id="afafade0729f08b8f1193a66f50c18348" name="afafade0729f08b8f1193a66f50c18348"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afafade0729f08b8f1193a66f50c18348">&#9670;&#160;</a></span>ScheduleAbort()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void BasicEvent::ScheduleAbort </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   22</span>{</div>
-<div class="line"><span class="lineno">   23</span>    <a class="code hl_define" href="../../db/d10/a00350.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(<a class="code hl_function" href="../../d8/d08/a05843.html#aeb6eb1bb1c54f70d5e0f88cf4e462fc2">IsRunning</a>()</div>
-<div class="line"><span class="lineno">   24</span>           &amp;&amp; <span class="stringliteral">&quot;Tried to scheduled the abortion of an event twice!&quot;</span>);</div>
-<div class="line"><span class="lineno">   25</span>    <a class="code hl_variable" href="../../d8/d08/a05843.html#afd9cf18b8a00c6195b9120f3fcf7ca69">m_abortState</a> = <a class="code hl_enumvalue" href="../../d8/d08/a05843.html#a3f26f839ff35d80af2a8f885ca1a1554a57184a4db33295d3f2462a45429a7d3a">AbortState::STATE_ABORT_SCHEDULED</a>;</div>
-<div class="line"><span class="lineno">   26</span>}</div>
-<div class="ttc" id="aa00350_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../db/d10/a00350.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
-<div class="ttc" id="aa05843_html_aeb6eb1bb1c54f70d5e0f88cf4e462fc2"><div class="ttname"><a href="../../d8/d08/a05843.html#aeb6eb1bb1c54f70d5e0f88cf4e462fc2">BasicEvent::IsRunning</a></div><div class="ttdeci">bool IsRunning() const</div><div class="ttdef"><b>Definition:</b> EventProcessor.h:61</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00061">IsRunning()</a>, <a class="el" href="../../#l00065">m_abortState</a>, and <a class="el" href="../../d8/d08/a05843.html#a3f26f839ff35d80af2a8f885ca1a1554a57184a4db33295d3f2462a45429a7d3a">STATE_ABORT_SCHEDULED</a>.</p>
-
-</div>
-</div>
-<a id="a9224c2878bff4f6df28bedb973be2d27" name="a9224c2878bff4f6df28bedb973be2d27"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9224c2878bff4f6df28bedb973be2d27">&#9670;&#160;</a></span>SetAborted()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void BasicEvent::SetAborted </td>
+          <td class="memname">std::vector&lt; T &gt; <a class="el" href="../../d8/d08/a05843.html">CircularBuffer</a>&lt; T &gt;::content </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -558,56 +241,239 @@ Friends</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   29</span>{</div>
-<div class="line"><span class="lineno">   30</span>    <a class="code hl_define" href="../../db/d10/a00350.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(!<a class="code hl_function" href="../../d8/d08/a05843.html#a4b05df0749b6a18ef0e0b4137e727d7d">IsAborted</a>()</div>
-<div class="line"><span class="lineno">   31</span>           &amp;&amp; <span class="stringliteral">&quot;Tried to abort an already aborted event!&quot;</span>);</div>
-<div class="line"><span class="lineno">   32</span>    <a class="code hl_variable" href="../../d8/d08/a05843.html#afd9cf18b8a00c6195b9120f3fcf7ca69">m_abortState</a> = <a class="code hl_enumvalue" href="../../d8/d08/a05843.html#a3f26f839ff35d80af2a8f885ca1a1554a94084d8a7188eb3538561802c1f817f5">AbortState::STATE_ABORTED</a>;</div>
-<div class="line"><span class="lineno">   33</span>}</div>
-<div class="ttc" id="aa05843_html_a4b05df0749b6a18ef0e0b4137e727d7d"><div class="ttname"><a href="../../d8/d08/a05843.html#a4b05df0749b6a18ef0e0b4137e727d7d">BasicEvent::IsAborted</a></div><div class="ttdeci">bool IsAborted() const</div><div class="ttdef"><b>Definition:</b> EventProcessor.h:63</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   82</span>    {</div>
+<div class="line"><span class="lineno">   83</span>        std::lock_guard&lt;std::mutex&gt; lock(<a class="code hl_variable" href="../../d8/d08/a05843.html#aa4762ba2167d8b9560ff39328b4b3afa">mutex_</a>);</div>
+<div class="line"><span class="lineno">   84</span> </div>
+<div class="line"><span class="lineno">   85</span>        <span class="keywordflow">return</span> std::vector&lt;T&gt;(<a class="code hl_variable" href="../../d8/d08/a05843.html#aa2b9389da6cd912b4dd54d89ca1d69ee">buf_</a>.get(), <a class="code hl_variable" href="../../d8/d08/a05843.html#aa2b9389da6cd912b4dd54d89ca1d69ee">buf_</a>.get() + <a class="code hl_function" href="../../d8/d08/a05843.html#af429f831da3fd31618d1c1612cd94ce7">size</a>());</div>
+<div class="line"><span class="lineno">   86</span>    }</div>
+<div class="ttc" id="aa05843_html_aa4762ba2167d8b9560ff39328b4b3afa"><div class="ttname"><a href="../../d8/d08/a05843.html#aa4762ba2167d8b9560ff39328b4b3afa">CircularBuffer::mutex_</a></div><div class="ttdeci">std::mutex mutex_</div><div class="ttdef"><b>Definition:</b> CircularBuffer.h:96</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00063">IsAborted()</a>, <a class="el" href="../../#l00065">m_abortState</a>, and <a class="el" href="../../d8/d08/a05843.html#a3f26f839ff35d80af2a8f885ca1a1554a94084d8a7188eb3538561802c1f817f5">STATE_ABORTED</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00097">CircularBuffer&lt; T &gt;::buf_</a>, <a class="el" href="../../#l00096">CircularBuffer&lt; T &gt;::mutex_</a>, and <a class="el" href="../../#l00060">CircularBuffer&lt; T &gt;::size()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00960">WorldSession::ComputeNewClockDelta()</a>.</p>
 
 </div>
 </div>
-<h2 class="groupheader">Friends And Related Function Documentation</h2>
-<a id="acce868eb94e25fcad6a070753b63bdfc" name="acce868eb94e25fcad6a070753b63bdfc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acce868eb94e25fcad6a070753b63bdfc">&#9670;&#160;</a></span>EventProcessor</h2>
+<a id="a7509cc5ef0dd0a9f731c47b05929580c" name="a7509cc5ef0dd0a9f731c47b05929580c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7509cc5ef0dd0a9f731c47b05929580c">&#9670;&#160;</a></span>empty()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">friend class <a class="el" href="../../dd/d01/a05851.html">EventProcessor</a></td>
+          <td class="memname">bool <a class="el" href="../../d8/d08/a05843.html">CircularBuffer</a>&lt; T &gt;::empty </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   44</span>    {</div>
+<div class="line"><span class="lineno">   45</span>        <span class="comment">//if head and tail are equal, we are empty</span></div>
+<div class="line"><span class="lineno">   46</span>        <span class="keywordflow">return</span> (!<a class="code hl_variable" href="../../d8/d08/a05843.html#a1dfcbf9f9d2760d7d82144c57ff8a60e">full_</a> &amp;&amp; (<a class="code hl_variable" href="../../d8/d08/a05843.html#a43ba1c722307cdbbf38f8ba1ec7f64c6">head_</a> == <a class="code hl_variable" href="../../d8/d08/a05843.html#a0abd9f6b08ee7fb8dd7e437fe4a6364f">tail_</a>));</div>
+<div class="line"><span class="lineno">   47</span>    }</div>
+<div class="ttc" id="aa05843_html_a0abd9f6b08ee7fb8dd7e437fe4a6364f"><div class="ttname"><a href="../../d8/d08/a05843.html#a0abd9f6b08ee7fb8dd7e437fe4a6364f">CircularBuffer::tail_</a></div><div class="ttdeci">std::size_t tail_</div><div class="ttdef"><b>Definition:</b> CircularBuffer.h:99</div></div>
+<div class="ttc" id="aa05843_html_a1dfcbf9f9d2760d7d82144c57ff8a60e"><div class="ttname"><a href="../../d8/d08/a05843.html#a1dfcbf9f9d2760d7d82144c57ff8a60e">CircularBuffer::full_</a></div><div class="ttdeci">bool full_</div><div class="ttdef"><b>Definition:</b> CircularBuffer.h:101</div></div>
+<div class="ttc" id="aa05843_html_a43ba1c722307cdbbf38f8ba1ec7f64c6"><div class="ttname"><a href="../../d8/d08/a05843.html#a43ba1c722307cdbbf38f8ba1ec7f64c6">CircularBuffer::head_</a></div><div class="ttdeci">std::size_t head_</div><div class="ttdef"><b>Definition:</b> CircularBuffer.h:98</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00101">CircularBuffer&lt; T &gt;::full_</a>, <a class="el" href="../../#l00098">CircularBuffer&lt; T &gt;::head_</a>, and <a class="el" href="../../#l00099">CircularBuffer&lt; T &gt;::tail_</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00088">CircularBuffer&lt; T &gt;::peak_back()</a>.</p>
+
+</div>
+</div>
+<a id="a2a2f13f00dca028142c250b5f2183097" name="a2a2f13f00dca028142c250b5f2183097"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2a2f13f00dca028142c250b5f2183097">&#9670;&#160;</a></span>full()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool <a class="el" href="../../d8/d08/a05843.html">CircularBuffer</a>&lt; T &gt;::full </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   50</span>    {</div>
+<div class="line"><span class="lineno">   51</span>        <span class="comment">//If tail is ahead the head by 1, we are full</span></div>
+<div class="line"><span class="lineno">   52</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d8/d08/a05843.html#a1dfcbf9f9d2760d7d82144c57ff8a60e">full_</a>;</div>
+<div class="line"><span class="lineno">   53</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00101">CircularBuffer&lt; T &gt;::full_</a>.</p>
+
+</div>
+</div>
+<a id="ad4bb17889033526da4605ebddd60f3c7" name="ad4bb17889033526da4605ebddd60f3c7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad4bb17889033526da4605ebddd60f3c7">&#9670;&#160;</a></span>peak_back()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">T <a class="el" href="../../d8/d08/a05843.html">CircularBuffer</a>&lt; T &gt;::peak_back </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   89</span>    {</div>
+<div class="line"><span class="lineno">   90</span>        std::lock_guard&lt;std::mutex&gt; lock(<a class="code hl_variable" href="../../d8/d08/a05843.html#aa4762ba2167d8b9560ff39328b4b3afa">mutex_</a>);</div>
+<div class="line"><span class="lineno">   91</span> </div>
+<div class="line"><span class="lineno">   92</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../d8/d08/a05843.html#a7509cc5ef0dd0a9f731c47b05929580c">empty</a>() ? T() : <a class="code hl_variable" href="../../d8/d08/a05843.html#aa2b9389da6cd912b4dd54d89ca1d69ee">buf_</a>[<a class="code hl_variable" href="../../d8/d08/a05843.html#a0abd9f6b08ee7fb8dd7e437fe4a6364f">tail_</a>];</div>
+<div class="line"><span class="lineno">   93</span>    }</div>
+<div class="ttc" id="aa05843_html_a7509cc5ef0dd0a9f731c47b05929580c"><div class="ttname"><a href="../../d8/d08/a05843.html#a7509cc5ef0dd0a9f731c47b05929580c">CircularBuffer::empty</a></div><div class="ttdeci">bool empty() const</div><div class="ttdef"><b>Definition:</b> CircularBuffer.h:43</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00097">CircularBuffer&lt; T &gt;::buf_</a>, <a class="el" href="../../#l00043">CircularBuffer&lt; T &gt;::empty()</a>, <a class="el" href="../../#l00096">CircularBuffer&lt; T &gt;::mutex_</a>, and <a class="el" href="../../#l00099">CircularBuffer&lt; T &gt;::tail_</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00960">WorldSession::ComputeNewClockDelta()</a>.</p>
+
+</div>
+</div>
+<a id="a2a5e093804731b69969c18e49a206572" name="a2a5e093804731b69969c18e49a206572"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2a5e093804731b69969c18e49a206572">&#9670;&#160;</a></span>put()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void <a class="el" href="../../d8/d08/a05843.html">CircularBuffer</a>&lt; T &gt;::put </td>
+          <td>(</td>
+          <td class="paramtype">T&#160;</td>
+          <td class="paramname"><em>item</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   28</span>    {</div>
+<div class="line"><span class="lineno">   29</span>        std::lock_guard&lt;std::mutex&gt; lock(<a class="code hl_variable" href="../../d8/d08/a05843.html#aa4762ba2167d8b9560ff39328b4b3afa">mutex_</a>);</div>
+<div class="line"><span class="lineno">   30</span> </div>
+<div class="line"><span class="lineno">   31</span>        <a class="code hl_variable" href="../../d8/d08/a05843.html#aa2b9389da6cd912b4dd54d89ca1d69ee">buf_</a>[<a class="code hl_variable" href="../../d8/d08/a05843.html#a43ba1c722307cdbbf38f8ba1ec7f64c6">head_</a>] = item;</div>
+<div class="line"><span class="lineno">   32</span> </div>
+<div class="line"><span class="lineno">   33</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d8/d08/a05843.html#a1dfcbf9f9d2760d7d82144c57ff8a60e">full_</a>)</div>
+<div class="line"><span class="lineno">   34</span>        {</div>
+<div class="line"><span class="lineno">   35</span>            <a class="code hl_variable" href="../../d8/d08/a05843.html#a0abd9f6b08ee7fb8dd7e437fe4a6364f">tail_</a> = (<a class="code hl_variable" href="../../d8/d08/a05843.html#a0abd9f6b08ee7fb8dd7e437fe4a6364f">tail_</a> + 1) % <a class="code hl_variable" href="../../d8/d08/a05843.html#a4ad34b67dc4924addf79905732203d2a">max_size_</a>;</div>
+<div class="line"><span class="lineno">   36</span>        }</div>
+<div class="line"><span class="lineno">   37</span> </div>
+<div class="line"><span class="lineno">   38</span>        <a class="code hl_variable" href="../../d8/d08/a05843.html#a43ba1c722307cdbbf38f8ba1ec7f64c6">head_</a> = (<a class="code hl_variable" href="../../d8/d08/a05843.html#a43ba1c722307cdbbf38f8ba1ec7f64c6">head_</a> + 1) % <a class="code hl_variable" href="../../d8/d08/a05843.html#a4ad34b67dc4924addf79905732203d2a">max_size_</a>;</div>
+<div class="line"><span class="lineno">   39</span> </div>
+<div class="line"><span class="lineno">   40</span>        <a class="code hl_variable" href="../../d8/d08/a05843.html#a1dfcbf9f9d2760d7d82144c57ff8a60e">full_</a> = <a class="code hl_variable" href="../../d8/d08/a05843.html#a43ba1c722307cdbbf38f8ba1ec7f64c6">head_</a> == <a class="code hl_variable" href="../../d8/d08/a05843.html#a0abd9f6b08ee7fb8dd7e437fe4a6364f">tail_</a>;</div>
+<div class="line"><span class="lineno">   41</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00097">CircularBuffer&lt; T &gt;::buf_</a>, <a class="el" href="../../#l00101">CircularBuffer&lt; T &gt;::full_</a>, <a class="el" href="../../#l00098">CircularBuffer&lt; T &gt;::head_</a>, <a class="el" href="../../#l00100">CircularBuffer&lt; T &gt;::max_size_</a>, <a class="el" href="../../#l00096">CircularBuffer&lt; T &gt;::mutex_</a>, and <a class="el" href="../../#l00099">CircularBuffer&lt; T &gt;::tail_</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00926">WorldSession::HandleTimeSyncResp()</a>.</p>
+
+</div>
+</div>
+<a id="af429f831da3fd31618d1c1612cd94ce7" name="af429f831da3fd31618d1c1612cd94ce7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af429f831da3fd31618d1c1612cd94ce7">&#9670;&#160;</a></span>size()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::size_t <a class="el" href="../../d8/d08/a05843.html">CircularBuffer</a>&lt; T &gt;::size </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   61</span>    {</div>
+<div class="line"><span class="lineno">   62</span>        std::size_t <a class="code hl_function" href="../../d8/d08/a05843.html#af429f831da3fd31618d1c1612cd94ce7">size</a> = <a class="code hl_variable" href="../../d8/d08/a05843.html#a4ad34b67dc4924addf79905732203d2a">max_size_</a>;</div>
+<div class="line"><span class="lineno">   63</span> </div>
+<div class="line"><span class="lineno">   64</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d8/d08/a05843.html#a1dfcbf9f9d2760d7d82144c57ff8a60e">full_</a>)</div>
+<div class="line"><span class="lineno">   65</span>        {</div>
+<div class="line"><span class="lineno">   66</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d8/d08/a05843.html#a43ba1c722307cdbbf38f8ba1ec7f64c6">head_</a> &gt;= <a class="code hl_variable" href="../../d8/d08/a05843.html#a0abd9f6b08ee7fb8dd7e437fe4a6364f">tail_</a>)</div>
+<div class="line"><span class="lineno">   67</span>            {</div>
+<div class="line"><span class="lineno">   68</span>                <a class="code hl_function" href="../../d8/d08/a05843.html#af429f831da3fd31618d1c1612cd94ce7">size</a> = <a class="code hl_variable" href="../../d8/d08/a05843.html#a43ba1c722307cdbbf38f8ba1ec7f64c6">head_</a> - <a class="code hl_variable" href="../../d8/d08/a05843.html#a0abd9f6b08ee7fb8dd7e437fe4a6364f">tail_</a>;</div>
+<div class="line"><span class="lineno">   69</span>            }</div>
+<div class="line"><span class="lineno">   70</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">   71</span>            {</div>
+<div class="line"><span class="lineno">   72</span>                <a class="code hl_function" href="../../d8/d08/a05843.html#af429f831da3fd31618d1c1612cd94ce7">size</a> += <a class="code hl_variable" href="../../d8/d08/a05843.html#a43ba1c722307cdbbf38f8ba1ec7f64c6">head_</a> - <a class="code hl_variable" href="../../d8/d08/a05843.html#a0abd9f6b08ee7fb8dd7e437fe4a6364f">tail_</a>;</div>
+<div class="line"><span class="lineno">   73</span>            }</div>
+<div class="line"><span class="lineno">   74</span>        }</div>
+<div class="line"><span class="lineno">   75</span> </div>
+<div class="line"><span class="lineno">   76</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../d8/d08/a05843.html#af429f831da3fd31618d1c1612cd94ce7">size</a>;</div>
+<div class="line"><span class="lineno">   77</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00101">CircularBuffer&lt; T &gt;::full_</a>, <a class="el" href="../../#l00098">CircularBuffer&lt; T &gt;::head_</a>, <a class="el" href="../../#l00100">CircularBuffer&lt; T &gt;::max_size_</a>, <a class="el" href="../../#l00060">CircularBuffer&lt; T &gt;::size()</a>, and <a class="el" href="../../#l00099">CircularBuffer&lt; T &gt;::tail_</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00081">CircularBuffer&lt; T &gt;::content()</a>, and <a class="el" href="../../#l00060">CircularBuffer&lt; T &gt;::size()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="afd9cf18b8a00c6195b9120f3fcf7ca69" name="afd9cf18b8a00c6195b9120f3fcf7ca69"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afd9cf18b8a00c6195b9120f3fcf7ca69">&#9670;&#160;</a></span>m_abortState</h2>
+<a id="aa2b9389da6cd912b4dd54d89ca1d69ee" name="aa2b9389da6cd912b4dd54d89ca1d69ee"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa2b9389da6cd912b4dd54d89ca1d69ee">&#9670;&#160;</a></span>buf_</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d8/d08/a05843.html#a3f26f839ff35d80af2a8f885ca1a1554">AbortState</a> BasicEvent::m_abortState {<a class="el" href="../../d8/d08/a05843.html#a3f26f839ff35d80af2a8f885ca1a1554ad8a3bbc9a845117a56f75c0f8e74f09e">AbortState::STATE_RUNNING</a>}</td>
+          <td class="memname">std::unique_ptr&lt;T[]&gt; <a class="el" href="../../d8/d08/a05843.html">CircularBuffer</a>&lt; T &gt;::buf_</td>
         </tr>
       </table>
   </td>
@@ -617,21 +483,23 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00063">IsAborted()</a>, <a class="el" href="../../#l00062">IsAbortScheduled()</a>, <a class="el" href="../../#l00061">IsRunning()</a>, <a class="el" href="../../#l00021">ScheduleAbort()</a>, and <a class="el" href="../../#l00028">SetAborted()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00081">CircularBuffer&lt; T &gt;::content()</a>, <a class="el" href="../../#l00088">CircularBuffer&lt; T &gt;::peak_back()</a>, and <a class="el" href="../../#l00027">CircularBuffer&lt; T &gt;::put()</a>.</p>
 
 </div>
 </div>
-<a id="ac236835e6298588e834cde7a8c2bfece" name="ac236835e6298588e834cde7a8c2bfece"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac236835e6298588e834cde7a8c2bfece">&#9670;&#160;</a></span>m_addTime</h2>
+<a id="a1dfcbf9f9d2760d7d82144c57ff8a60e" name="a1dfcbf9f9d2760d7d82144c57ff8a60e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1dfcbf9f9d2760d7d82144c57ff8a60e">&#9670;&#160;</a></span>full_</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a> BasicEvent::m_addTime {0}</td>
+          <td class="memname">bool <a class="el" href="../../d8/d08/a05843.html">CircularBuffer</a>&lt; T &gt;::full_ = false</td>
         </tr>
       </table>
   </td>
@@ -641,19 +509,23 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
+<p class="reference">Referenced by <a class="el" href="../../#l00043">CircularBuffer&lt; T &gt;::empty()</a>, <a class="el" href="../../#l00049">CircularBuffer&lt; T &gt;::full()</a>, <a class="el" href="../../#l00027">CircularBuffer&lt; T &gt;::put()</a>, and <a class="el" href="../../#l00060">CircularBuffer&lt; T &gt;::size()</a>.</p>
+
 </div>
 </div>
-<a id="a2ee03f01e03347d04eb38a215d10f036" name="a2ee03f01e03347d04eb38a215d10f036"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2ee03f01e03347d04eb38a215d10f036">&#9670;&#160;</a></span>m_eventGroup</h2>
+<a id="a43ba1c722307cdbbf38f8ba1ec7f64c6" name="a43ba1c722307cdbbf38f8ba1ec7f64c6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a43ba1c722307cdbbf38f8ba1ec7f64c6">&#9670;&#160;</a></span>head_</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> BasicEvent::m_eventGroup {0}</td>
+          <td class="memname">std::size_t <a class="el" href="../../d8/d08/a05843.html">CircularBuffer</a>&lt; T &gt;::head_ = 0</td>
         </tr>
       </table>
   </td>
@@ -663,19 +535,23 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
+<p class="reference">Referenced by <a class="el" href="../../#l00043">CircularBuffer&lt; T &gt;::empty()</a>, <a class="el" href="../../#l00027">CircularBuffer&lt; T &gt;::put()</a>, and <a class="el" href="../../#l00060">CircularBuffer&lt; T &gt;::size()</a>.</p>
+
 </div>
 </div>
-<a id="afbd8d5728992e7676fde628fc03dc588" name="afbd8d5728992e7676fde628fc03dc588"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afbd8d5728992e7676fde628fc03dc588">&#9670;&#160;</a></span>m_execTime</h2>
+<a id="a4ad34b67dc4924addf79905732203d2a" name="a4ad34b67dc4924addf79905732203d2a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4ad34b67dc4924addf79905732203d2a">&#9670;&#160;</a></span>max_size_</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a> BasicEvent::m_execTime {0}</td>
+          <td class="memname">const std::size_t <a class="el" href="../../d8/d08/a05843.html">CircularBuffer</a>&lt; T &gt;::max_size_</td>
         </tr>
       </table>
   </td>
@@ -684,6 +560,60 @@ Friends</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00055">CircularBuffer&lt; T &gt;::capacity()</a>, <a class="el" href="../../#l00027">CircularBuffer&lt; T &gt;::put()</a>, and <a class="el" href="../../#l00060">CircularBuffer&lt; T &gt;::size()</a>.</p>
+
+</div>
+</div>
+<a id="aa4762ba2167d8b9560ff39328b4b3afa" name="aa4762ba2167d8b9560ff39328b4b3afa"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa4762ba2167d8b9560ff39328b4b3afa">&#9670;&#160;</a></span>mutex_</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::mutex <a class="el" href="../../d8/d08/a05843.html">CircularBuffer</a>&lt; T &gt;::mutex_</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00081">CircularBuffer&lt; T &gt;::content()</a>, <a class="el" href="../../#l00088">CircularBuffer&lt; T &gt;::peak_back()</a>, and <a class="el" href="../../#l00027">CircularBuffer&lt; T &gt;::put()</a>.</p>
+
+</div>
+</div>
+<a id="a0abd9f6b08ee7fb8dd7e437fe4a6364f" name="a0abd9f6b08ee7fb8dd7e437fe4a6364f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0abd9f6b08ee7fb8dd7e437fe4a6364f">&#9670;&#160;</a></span>tail_</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::size_t <a class="el" href="../../d8/d08/a05843.html">CircularBuffer</a>&lt; T &gt;::tail_ = 0</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00043">CircularBuffer&lt; T &gt;::empty()</a>, <a class="el" href="../../#l00088">CircularBuffer&lt; T &gt;::peak_back()</a>, <a class="el" href="../../#l00027">CircularBuffer&lt; T &gt;::put()</a>, and <a class="el" href="../../#l00060">CircularBuffer&lt; T &gt;::size()</a>.</p>
 
 </div>
 </div>
@@ -692,8 +622,8 @@ Friends</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d8/d08/a05843.html">BasicEvent</a></li>
-    <li class="footer">Generated on Tue Sep 1 2026 00:08:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d8/d08/a05843.html">CircularBuffer</a></li>
+    <li class="footer">Generated on Mon Sep 21 2026 23:33:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

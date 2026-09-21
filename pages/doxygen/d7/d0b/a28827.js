@@ -1,12 +1,8 @@
 var a28827 =
 [
-    [ "categoryId", "d7/d0b/a28827.html#a1de0e4302757f18c08b90b40e059737b", null ],
-    [ "count", "d7/d0b/a28827.html#a93aac150067979467f56d9919ff665a4", null ],
-    [ "flags", "d7/d0b/a28827.html#a5c0dfb5b3c0711aff47d3d604ded2d1a", null ],
-    [ "ID", "d7/d0b/a28827.html#a843fee247948d02f7aaf04144cb37ef5", null ],
-    [ "mapID", "d7/d0b/a28827.html#ab3d41381808c8bdc163554f7c46f6bc6", null ],
-    [ "name", "d7/d0b/a28827.html#a806cfeddc475994f1b421679bd9699e6", null ],
-    [ "points", "d7/d0b/a28827.html#abc2b4cf9c6580c6bc99d5c47d7539374", null ],
-    [ "refAchievement", "d7/d0b/a28827.html#a858661b2e3479fa3fc2e029ae0d8a145", null ],
-    [ "requiredFaction", "d7/d0b/a28827.html#a722dbda5ed8d74f5a1e75bdec8841aa3", null ]
+    [ "npc_cultist_engineer", "d7/d0b/a28827.html#a02675a96d20902d147b0370fa1715d81", null ],
+    [ "JustDied", "d7/d0b/a28827.html#a4b4d561f827553998caa204e0e1b9e54", null ],
+    [ "Reset", "d7/d0b/a28827.html#a6f84d224a959c06fbb7a48197dd4cbdd", null ],
+    [ "sGossipSelect", "d7/d0b/a28827.html#ab26d124cbfdc4d649fef6058e9637845", null ],
+    [ "UpdateAI", "d7/d0b/a28827.html#a47b1b08959b8cd02ba92fcf3a55e32d2", null ]
 ];

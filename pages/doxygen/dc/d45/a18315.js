@@ -1,6 +1,7 @@
 var a18315 =
 [
-    [ "FilterTargets", "dc/d45/a18315.html#ac2396cbd000a8d58ff22dbb08c81dfb4", null ],
-    [ "PrepareSpellScript", "dc/d45/a18315.html#abcdfe528430e299c2eb64b24f7ff8eb0", null ],
-    [ "Register", "dc/d45/a18315.html#a32e04a1110d651701b8eab1648c69a57", null ]
+    [ "HandleScriptEffect", "dc/d45/a18315.html#abeb703f8f050677bafb8f5ce4173751a", null ],
+    [ "PrepareSpellScript", "dc/d45/a18315.html#a19dec2c1cbe72d90fa86960d7bb21277", null ],
+    [ "Register", "dc/d45/a18315.html#aa2c6c9de775ecce9f84485e0ac64a651", null ],
+    [ "SelectTarget", "dc/d45/a18315.html#ae8eb94536a9f08138b42cfe8ea711eaa", null ]
 ];

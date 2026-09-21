@@ -1,14 +1,8 @@
 var a02720 =
 [
-    [ "go_main_chambers_access_panel", "d2/df3/a23541.html", "d2/df3/a23541" ],
-    [ "instance_steam_vault", "d4/d8f/a23545.html", "d4/d8f/a23545" ],
-    [ "instance_steam_vault::instance_steam_vault_InstanceMapScript", "d3/dbe/a23549.html", "d3/dbe/a23549" ],
-    [ "MainChambersAccessPanelSays", "d5/d95/a02720.html#aa8d293574a308aad41f620556eb63b6a", [
-      [ "SAY_FAINT_ECHO", "d5/d95/a02720.html#aa8d293574a308aad41f620556eb63b6aadbbafef44899cd7d93e10aaa27f52992", null ],
-      [ "SAY_LOUD_RUMBLE", "d5/d95/a02720.html#aa8d293574a308aad41f620556eb63b6aa420e4ca090aea66dfe08994ddce97884", null ]
-    ] ],
-    [ "AddSC_instance_steam_vault", "d5/d95/a02720.html#a944f7f7f41e047f2a4f82fb9af0b4829", null ],
-    [ "creatureData", "d5/d95/a02720.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "minionData", "d5/d95/a02720.html#a6720238df140a3c574a711042b7f5bd3", null ],
-    [ "objectData", "d5/d95/a02720.html#a59ddfa91084111da23b5d47482e4ff8d", null ]
+    [ "instance_magtheridons_lair", "d0/d60/a23795.html", "d0/d60/a23795" ],
+    [ "instance_magtheridons_lair::instance_magtheridons_lair_InstanceMapScript", "de/d30/a23799.html", "de/d30/a23799" ],
+    [ "AddSC_instance_magtheridons_lair", "d5/d95/a02720.html#a77e256ce8ca932c8d162a30715dc7c6f", null ],
+    [ "boundaries", "d5/d95/a02720.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
+    [ "doorData", "d5/d95/a02720.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
 ];

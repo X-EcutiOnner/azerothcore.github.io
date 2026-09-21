@@ -1,5 +1,5 @@
 var a30083 =
 [
-    [ "CreateBasicProcEntry", "d2/d38/a30083.html#a047473844c17b28cab20159721fc9ee8", null ],
-    [ "SetUp", "d2/d38/a30083.html#ad9848a18a0b1fa950cabcfa1584e0103", null ]
+    [ "damageApplied", "d2/d38/a30083.html#a69a7cfd95e3e3b43879eae37963d1e14", null ],
+    [ "slowApplied", "d2/d38/a30083.html#a2d99cc2f9c6aedfeef6e18885ff2675d", null ]
 ];

@@ -1,5 +1,8 @@
 var a22447 =
 [
-    [ "npc_wg_spirit_guideAI", "d8/dc1/a22447.html#a576d15b6acedb07bfe1555bdd0ee8f12", null ],
-    [ "UpdateAI", "d8/dc1/a22447.html#a32b28e8fe74db742d170bd754d11f4d7", null ]
+    [ "npc_freed_protodrakeAI", "d8/dc1/a22447.html#a9e80808035be749c87a1170f37ac3daf", null ],
+    [ "MovementInform", "d8/dc1/a22447.html#af056f3c12a314acd8a7e8c6c381b9436", null ],
+    [ "Reset", "d8/dc1/a22447.html#ab5781438300442bb7bcb4510aec9d233", null ],
+    [ "UpdateAI", "d8/dc1/a22447.html#a9e83b133444e977c35e90b700149472c", null ],
+    [ "events", "d8/dc1/a22447.html#ac2e34b9a53ff55d177327ec95dca5466", null ]
 ];

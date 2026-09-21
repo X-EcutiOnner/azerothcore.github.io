@@ -1,12 +1,11 @@
 var a13799 =
 [
-    [ "npc_kiljaeden_controller", "d2/d15/a13799.html#aabe4e5af5ad142bac6cdaa4f6787a7bc", null ],
-    [ "JustDied", "d2/d15/a13799.html#a86c4d79a8caf8a838e353bbf1b78c56d", null ],
-    [ "JustSummoned", "d2/d15/a13799.html#af28211012d8398a450439b8e24bf60ce", null ],
-    [ "Reset", "d2/d15/a13799.html#a11f6f8e86c3ecdecf8e4c5bcb76f8664", null ],
-    [ "ResetOrbs", "d2/d15/a13799.html#a4daacfe92ddb39ade57df3a1bbcd79fd", null ],
-    [ "SummonedCreatureDies", "d2/d15/a13799.html#aed2772552dd500c180c3db4aeef8359a", null ],
-    [ "UpdateAI", "d2/d15/a13799.html#a9f24328d9ffd94ecf3d15303a71acb9b", null ],
-    [ "instance", "d2/d15/a13799.html#a2cb872334b9dd6a4f87468b41f164fc4", null ],
-    [ "summons", "d2/d15/a13799.html#a116a739b2bff3257b35ff7946a3d1995", null ]
+    [ "spell_eredar_twins_handle_touch_periodic", "d2/d15/a13799.html#aa41bba6ce2889eb2a58409b611f53e49", null ],
+    [ "OnPeriodic", "d2/d15/a13799.html#a8d863af82300eacc1456a08f8461d5a7", null ],
+    [ "PrepareAuraScript", "d2/d15/a13799.html#af04b38478379a10c5d94a7e4216ad9fa", null ],
+    [ "Register", "d2/d15/a13799.html#a4908c5c3e6afdf0305dfb4729cfba503", null ],
+    [ "Validate", "d2/d15/a13799.html#aebeee23df951737b99e7a4ab026cbb1b", null ],
+    [ "_aura", "d2/d15/a13799.html#a0b1df96674584554d53688e993c2a310", null ],
+    [ "_effectIndex", "d2/d15/a13799.html#aa873d0475c70db5c5ba9cea802dc3569", null ],
+    [ "_touchSpell", "d2/d15/a13799.html#ae60a5c2918105785805dc45b3942ee4a", null ]
 ];

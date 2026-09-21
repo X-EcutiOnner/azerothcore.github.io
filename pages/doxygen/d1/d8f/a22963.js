@@ -1,9 +1,8 @@
 var a22963 =
 [
-    [ "FilterTargets", "d1/d8f/a22963.html#aa8f0401dd004e816b8071381289116fa", null ],
-    [ "HandleTeleportUnits", "d1/d8f/a22963.html#a4333f10a29ef3e5643f637899a0ab5c5", null ],
-    [ "PrepareSpellScript", "d1/d8f/a22963.html#a47898c213cdd125714c80d327bf42d8c", null ],
-    [ "Register", "d1/d8f/a22963.html#a6036577cd7b4fbbc55e90e9ab067f13a", null ],
-    [ "SetDest", "d1/d8f/a22963.html#a4cf75d96a0d1de62bc989826204b04c9", null ],
-    [ "Validate", "d1/d8f/a22963.html#a814083360970284a325621f45e109b5b", null ]
+    [ "Load", "d1/d8f/a22963.html#a4ff26763f05b07d882cd8d209464910e", null ],
+    [ "OnPeriodic", "d1/d8f/a22963.html#a3e3bb503a6b5f90741a4df668851accf", null ],
+    [ "PrepareAuraScript", "d1/d8f/a22963.html#a4126d35669859963f10ed1425a054298", null ],
+    [ "Register", "d1/d8f/a22963.html#adb6a44892d80aeaaf4c15c71a47f422e", null ],
+    [ "Validate", "d1/d8f/a22963.html#a22d6c338ea1f2af9be0eb02aceba42bd", null ]
 ];

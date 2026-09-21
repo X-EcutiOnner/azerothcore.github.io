@@ -1,6 +1,6 @@
 var a01757 =
 [
-    [ "GenerateEnchSuffixFactor", "db/dc0/a01757.html#a25026e783b088b45eebd4db8295b1b87", null ],
-    [ "GetItemEnchantMod", "db/dc0/a01757.html#a76d03c9ceb2d3ac35582eaea4624544f", null ],
-    [ "LoadRandomEnchantmentsTable", "db/dc0/a01757.html#a376fabf7bba54eaf928217f860f1c33b", null ]
+    [ "Bag", "d6/d72/a08795.html", "d6/d72/a08795" ],
+    [ "MAX_BAG_SIZE", "db/dc0/a01757.html#a60a065b8fab298fb24dfd8f22f657d77", null ],
+    [ "NewItemOrBag", "db/dc0/a01757.html#a6b74a54b7de3ced0e27f4128f0d95c64", null ]
 ];

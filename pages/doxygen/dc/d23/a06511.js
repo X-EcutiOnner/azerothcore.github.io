@@ -1,6 +1,6 @@
 var a06511 =
 [
-    [ "TriggerAI", "dc/d23/a06511.html#ad8cc7eae28b11af049db88e0d8ff149b", null ],
-    [ "IsSummonedBy", "dc/d23/a06511.html#a0bcffd9eab068e35d71e3176c33359f1", null ],
-    [ "Permissible", "dc/d23/a06511.html#aa979e7a4774b35bf83ed137543d517b1", null ]
+    [ "AggressorAI", "dc/d23/a06511.html#a2d4ba3a557832466f29906972d1e14fd", null ],
+    [ "Permissible", "dc/d23/a06511.html#a7867a9ca7249eb94a712e34833fae930", null ],
+    [ "UpdateAI", "dc/d23/a06511.html#ace9bc9ff47a463ceb05217ae77b5782b", null ]
 ];

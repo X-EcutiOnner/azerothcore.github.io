@@ -1,9 +1,9 @@
 var a24719 =
 [
-    [ "Absorb", "d7/de4/a24719.html#ae5101c9adc7b9d09daf9c78d5e6d9d14", null ],
-    [ "CalculateAmount", "d7/de4/a24719.html#a0e88abc0dfc1f0aa5c52f3602f99d45a", null ],
-    [ "Load", "d7/de4/a24719.html#ab7eae0747736dea5633ef51eb0945fae", null ],
-    [ "PrepareAuraScript", "d7/de4/a24719.html#a760b72149ee11ad88e290c9537b3094b", null ],
-    [ "Register", "d7/de4/a24719.html#a0d25efee128ee95f9ad268b53358f376", null ],
-    [ "absorbPct", "d7/de4/a24719.html#a31091ef6a0d39e1d498420a85f6c84fa", null ]
+    [ "HandleAfterHit", "d7/de4/a24719.html#ae1b4b01bd1a6903bcd594d2191e2770b", null ],
+    [ "Load", "d7/de4/a24719.html#a7f0dae9dd4ead6ea10e8343810671282", null ],
+    [ "PrepareSpellScript", "d7/de4/a24719.html#a293ff5d232851bce7cbc4a83aa8253b5", null ],
+    [ "Register", "d7/de4/a24719.html#ae9eeb78d006bc01dd05fdd726dea9b90", null ],
+    [ "Validate", "d7/de4/a24719.html#afdbb71f81aacc9ac1a5119707952ec52", null ],
+    [ "_executed", "d7/de4/a24719.html#a2fe77cc280a5fa3bb324d969f1081b65", null ]
 ];

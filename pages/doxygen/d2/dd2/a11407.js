@@ -1,8 +1,6 @@
 var a11407 =
 [
-    [ "MinimapPing", "d2/dd2/a11407.html#a846074f55e6224bf322b96c7bfe9e008", null ],
-    [ "Write", "d2/dd2/a11407.html#a94eb49e309ce83b04ccaf8f7e3e8bde7", null ],
-    [ "MapX", "d2/dd2/a11407.html#ab747a36a7dfefb0692e8c6abb1d161e2", null ],
-    [ "MapY", "d2/dd2/a11407.html#a2f8504ddba41dd09f69763d66331373b", null ],
-    [ "SourceGuid", "d2/dd2/a11407.html#abf5d5980b360cbf9332460b01d5816f5", null ]
+    [ "ListInventory", "d2/dd2/a11407.html#a7b0432d3b1243bdf6d70f9f55ee0f614", null ],
+    [ "Read", "d2/dd2/a11407.html#a2fd1298c1da842824fca7d971cb2028b", null ],
+    [ "VendorGuid", "d2/dd2/a11407.html#a9c6288866c870b4a82169fe7fbef4512", null ]
 ];

@@ -1,5 +1,7 @@
 var a04388 =
 [
-    [ "WorldMock", "df/d6c/a29821.html", "df/d6c/a29821" ],
-    [ "AddScripts", "d6/d5c/a04388.html#abb65cb085124c346fd32ac4b92f0baa9", null ]
+    [ "IsAcceptedClientBuild", "d6/d5c/a04388.html#a50a906b5a3fdca3508aee0997881a717", null ],
+    [ "IsPostBCAcceptedClientBuild", "d6/d5c/a04388.html#ad4f22daf9d88367d90d92416f470a28c", null ],
+    [ "IsPreBCAcceptedClientBuild", "d6/d5c/a04388.html#a96896fc9dad2c304f681a24776f6726b", null ],
+    [ "MAX_PRE_BC_CLIENT_BUILD", "d6/d5c/a04388.html#ac023f15b280fc65fdefefb77f2f7be7b", null ]
 ];

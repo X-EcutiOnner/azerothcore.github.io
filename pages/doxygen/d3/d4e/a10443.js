@@ -1,8 +1,10 @@
 var a10443 =
 [
-    [ "Finalize", "d3/d4e/a10443.html#abf4c6547449605e703b424d8aa7f46b5", null ],
-    [ "GetMovementGeneratorType", "d3/d4e/a10443.html#aa1eb3228e14c5b145f7074e97ccdab5f", null ],
-    [ "Initialize", "d3/d4e/a10443.html#a68c249f25ef86f2e50d69698e190ed03", null ],
-    [ "Reset", "d3/d4e/a10443.html#a124e4f9506ef6f31e991e905ce38dc43", null ],
-    [ "Update", "d3/d4e/a10443.html#a4d96b744fa55fa11764873a2c4a891c5", null ]
+    [ "CreateWorldPacket", "d3/d4e/a10443.html#a0acc39f8c58f6446a337e2d33f15731a", null ],
+    [ "GetMotd", "d3/d4e/a10443.html#ab589dd8bfad950e02ee716ea9005253f", null ],
+    [ "GetMotdPacket", "d3/d4e/a10443.html#a1eb1b16519bafaffe3b48b9835aab11e", null ],
+    [ "instance", "d3/d4e/a10443.html#a0eac0994f742f9a5cbd912abc308d1a7", null ],
+    [ "LoadMotd", "d3/d4e/a10443.html#a1a6ce19decdaf6cd778cf331bdc0c1ef", null ],
+    [ "LoadMotdLocale", "d3/d4e/a10443.html#a21aa89787d5b0bbf69158f799122edd5", null ],
+    [ "SetMotd", "d3/d4e/a10443.html#a7e317c2855b4ff96c2796081988bdf4f", null ]
 ];

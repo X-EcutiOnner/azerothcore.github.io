@@ -1,10 +1,8 @@
 var a21591 =
 [
-    [ "npc_sinkhole_kill_creditAI", "d7/d10/a21591.html#af2050289be6bc1c47d1ad40fc4bfa313", null ],
-    [ "Reset", "d7/d10/a21591.html#a677990d64d2963ff995d9d8522c5aa81", null ],
-    [ "SpellHit", "d7/d10/a21591.html#a95eaf518fb18b67820d6195cd525b017", null ],
-    [ "UpdateAI", "d7/d10/a21591.html#a75611004a543bece9d3f51914547f2fe", null ],
-    [ "casterGuid", "d7/d10/a21591.html#a147921788b07f5e776e03aaf15049cf0", null ],
-    [ "phase", "d7/d10/a21591.html#aa45455a8d540d6f942c948cf56d11f05", null ],
-    [ "phaseTimer", "d7/d10/a21591.html#aa268004c1eedf086ae8345e0ba10e2ca", null ]
+    [ "boss_lavanthor", "d7/d10/a21591.html#ad264818ef0f539c48160de9dbebeac7f", null ],
+    [ "EnterEvadeMode", "d7/d10/a21591.html#aee499fcde639aaca7131dba9cca1d4d0", null ],
+    [ "ExecuteEvent", "d7/d10/a21591.html#a16d7cd5596c20c3663d63549b33c8b4a", null ],
+    [ "JustEngagedWith", "d7/d10/a21591.html#a4bc5fa66192daab98027539efda37bdc", null ],
+    [ "MoveInLineOfSight", "d7/d10/a21591.html#a6f68cd280561b428400a08a155f83ccb", null ]
 ];

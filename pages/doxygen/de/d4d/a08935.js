@@ -1,9 +1,5 @@
 var a08935 =
 [
-    [ "ActionButton", "de/d4d/a08935.html#a78f4e95d921fb997647f89c67c2a66b7", null ],
-    [ "GetAction", "de/d4d/a08935.html#a7c10f6089fab30179cfe8175b740477a", null ],
-    [ "GetType", "de/d4d/a08935.html#abe5bc143770d411cff0d8c8c425b1253", null ],
-    [ "SetActionAndType", "de/d4d/a08935.html#a29d804ed78d79f64e868e9741b37d7be", null ],
-    [ "packedData", "de/d4d/a08935.html#a2a34a116c4890a12255f9ebe24c1cba8", null ],
-    [ "uState", "de/d4d/a08935.html#a6384e73650da93c96d3b4cc42b151b63", null ]
+    [ "PositionXYZStreamer", "de/d4d/a08935.html#a8da1be6111bd97ef68d62d0d9d630c56", null ],
+    [ "m_pos", "de/d4d/a08935.html#ae5db7cb3adba811c0b9483645a7f1770", null ]
 ];

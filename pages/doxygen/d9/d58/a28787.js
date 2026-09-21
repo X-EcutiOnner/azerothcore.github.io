@@ -1,5 +1,8 @@
 var a28787 =
 [
-    [ "go_transport_the_purple_princess", "d9/d58/a28787.html#ab0c79197964857d578036693a2c18e8a", null ],
-    [ "EventInform", "d9/d58/a28787.html#ac5b73f1bea180797169138f8e9228783", null ]
+    [ "npc_traveler_mammoth_vendor", "d9/d58/a28787.html#af3b5fc14371eb03e8259799b296967c1", null ],
+    [ "Reset", "d9/d58/a28787.html#a2b8cf527d2a42b4884f0a4e03a15e8ef", null ],
+    [ "UpdateAI", "d9/d58/a28787.html#a98129bb78476ddc0b1a09593b8894fff", null ],
+    [ "_hasEjected", "d9/d58/a28787.html#af801e9849a795358c812fddf69ec8434", null ],
+    [ "_playerGuid", "d9/d58/a28787.html#a9e657a91bedc5643b2de6a135e97d89c", null ]
 ];

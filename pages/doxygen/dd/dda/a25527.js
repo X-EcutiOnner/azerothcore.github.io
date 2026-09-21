@@ -1,7 +1,7 @@
 var a25527 =
 [
-    [ "OnPeriodic", "dd/dda/a25527.html#a58f13f947b4daac98651f7fa46d7d674", null ],
-    [ "PrepareAuraScript", "dd/dda/a25527.html#a85c4d84408becf2fb4ac55d9da369b25", null ],
-    [ "Register", "dd/dda/a25527.html#ad0c688255e340c428624de7071b5df56", null ],
-    [ "Validate", "dd/dda/a25527.html#a5ecd0e840bd94d4414acfb0aef9abd28", null ]
+    [ "HandleScript", "dd/dda/a25527.html#a466db5b8dc15a196d67dfcbef3d810e1", null ],
+    [ "PrepareSpellScript", "dd/dda/a25527.html#a7909f23da8385abdabb62e5196d88d38", null ],
+    [ "Register", "dd/dda/a25527.html#aa45c1c80f137dd90b5f0e06e19f09da6", null ],
+    [ "Validate", "dd/dda/a25527.html#a04e81472bfefb794024e9c4cc0e4d70b", null ]
 ];

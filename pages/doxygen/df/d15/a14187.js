@@ -1,8 +1,6 @@
 var a14187 =
 [
-    [ "CheckCast", "df/d15/a14187.html#add6229e3f0241ccedf446a5a37cf72ce", null ],
-    [ "HandleScriptEffect", "df/d15/a14187.html#a36bb2b95651889eaa0321a7a327e173f", null ],
-    [ "PrepareSpellScript", "df/d15/a14187.html#a053451bd9ae6f7d639d0a977be843bc0", null ],
-    [ "Register", "df/d15/a14187.html#a6d16f25c93eef3c17ae6b4a43d884279", null ],
-    [ "Validate", "df/d15/a14187.html#ab0ed12fadaea4c96c7f6e43b7b385653", null ]
+    [ "npc_marzon_silent_bladeAI", "da/d9e/a14191.html", "da/d9e/a14191" ],
+    [ "npc_marzon_silent_blade", "df/d15/a14187.html#a8fa1c0e11555df45005f37fd9de7f3a8", null ],
+    [ "GetAI", "df/d15/a14187.html#aadde9b84b46c594e41ae8ca3ae0265a1", null ]
 ];

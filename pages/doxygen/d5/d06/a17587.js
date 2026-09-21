@@ -1,6 +1,6 @@
 var a17587 =
 [
-    [ "boss_drakkari_elementalAI", "d5/d59/a17591.html", "d5/d59/a17591" ],
-    [ "boss_drakkari_elemental", "d5/d06/a17587.html#a143dd5d52ea7bb3c3c1d96da45af81ee", null ],
-    [ "GetAI", "d5/d06/a17587.html#aab2f9c71ddb77164bd644d18b9e88313", null ]
+    [ "npc_pos_collapsing_icicleAI", "d5/d59/a17591.html", "d5/d59/a17591" ],
+    [ "npc_pos_collapsing_icicle", "d5/d06/a17587.html#a42b29fe5d4e106c1e5e5b866a0074664", null ],
+    [ "GetAI", "d5/d06/a17587.html#a96969ebe749b49ceb38920c63ec6fce3", null ]
 ];

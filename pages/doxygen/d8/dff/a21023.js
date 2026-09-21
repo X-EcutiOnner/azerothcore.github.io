@@ -1,10 +1,8 @@
 var a21023 =
 [
-    [ "boss_yoggsaron_immortal_guardian", "d8/dff/a21023.html#a14839f96771d185718e88a4e371b31f6", null ],
-    [ "DamageTaken", "d8/dff/a21023.html#a9bf936d6a501e53ce98786f043562a71", null ],
-    [ "Reset", "d8/dff/a21023.html#a1173d401233670a45b31040b8e5d98cb", null ],
-    [ "SpellHit", "d8/dff/a21023.html#ae9fedb55d903edf6384cb9d0285cc528", null ],
-    [ "UpdateAI", "d8/dff/a21023.html#adaae7e2cd52951095cb82819d9874426", null ],
-    [ "_spellTimer", "d8/dff/a21023.html#a521b956c116a23523fdfceb95a42c1e2", null ],
-    [ "_visualTimer", "d8/dff/a21023.html#acb9f5de4ad41ce56f7c6d05a19783517", null ]
+    [ "npc_xt_toy_pile", "d8/dff/a21023.html#a843e7d05cf62baa5c006077f8dad107d", null ],
+    [ "SpellHit", "d8/dff/a21023.html#a82af3830eaf524c587334e8eb193925f", null ],
+    [ "_lastSummonTime", "d8/dff/a21023.html#aaa8e3581f39206c30f1b7de9a81f1387", null ],
+    [ "SummonCooldown", "d8/dff/a21023.html#ab0924af7ecfd54f1744b11af76ca2834", null ],
+    [ "SummonDistance", "d8/dff/a21023.html#a3adcb7a8f6ad7b515719794e0ddca964", null ]
 ];

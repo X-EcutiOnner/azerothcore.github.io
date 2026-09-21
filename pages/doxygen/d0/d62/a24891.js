@@ -1,6 +1,7 @@
 var a24891 =
 [
-    [ "CheckCast", "d0/d62/a24891.html#a8ab8394c56201264ac4f2d859dd52092", null ],
-    [ "PrepareSpellScript", "d0/d62/a24891.html#acc6d27c8d869ec80ee5794405f6c238a", null ],
-    [ "Register", "d0/d62/a24891.html#a191085bc21ce6f5ce1d5b43d6d70f069", null ]
+    [ "AfterApply", "d0/d62/a24891.html#aee69eceead7e31cce2638ff252f6653d", null ],
+    [ "AfterRemove", "d0/d62/a24891.html#ad53d25cc04f1b6cc1f3d0a8d9fc69a89", null ],
+    [ "PrepareAuraScript", "d0/d62/a24891.html#a0ccde960cb328cd1c72b2504376e92b4", null ],
+    [ "Register", "d0/d62/a24891.html#ab5f8afbfa688ebd548a5508543498b55", null ]
 ];

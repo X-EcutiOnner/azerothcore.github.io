@@ -1,6 +1,6 @@
 var a22403 =
 [
-    [ "HandleDamage", "db/d94/a22403.html#a7ca8b15a5dc204a11095fddb3c8d12c0", null ],
-    [ "PrepareSpellScript", "db/d94/a22403.html#a23b6afe1e35edc4013767b119b8e0218", null ],
-    [ "Register", "db/d94/a22403.html#a85a70f019dcd87f2ed578f041a0bc194", null ]
+    [ "PrepareSpellScript", "db/d94/a22403.html#a87014fc73af805b7ad052d1f4f45d7cd", null ],
+    [ "Register", "db/d94/a22403.html#a306252bb3bc9af689400981b198f66e8", null ],
+    [ "SetDest", "db/d94/a22403.html#a0bffbc57932a2efe33a9912d608eb79d", null ]
 ];

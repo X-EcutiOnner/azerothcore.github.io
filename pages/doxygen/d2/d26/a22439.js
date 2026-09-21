@@ -1,7 +1,9 @@
 var a22439 =
 [
-    [ "npc_wg_demolisher_engineer", "d2/d26/a22439.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
-    [ "canBuild", "d2/d26/a22439.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
-    [ "OnGossipHello", "d2/d26/a22439.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
-    [ "OnGossipSelect", "d2/d26/a22439.html#a3ecf69f45918bef0cb51023327ac9693", null ]
+    [ "npc_brunnhildar_prisonerAI", "d2/d26/a22439.html#ad650885c7f615f8b27ba20203c9fbb6f", null ],
+    [ "JustRespawned", "d2/d26/a22439.html#a15843fcdc5d9eb34df7869b56a0b16ac", null ],
+    [ "Reset", "d2/d26/a22439.html#ac9ba0806b9702cebe9171d9ba8962b0f", null ],
+    [ "SpellHit", "d2/d26/a22439.html#af2835ec5b951e2f4bb176ebe6bb958fd", null ],
+    [ "UpdateAI", "d2/d26/a22439.html#a0702d4cf577ac00688a7b93bfe656952", null ],
+    [ "freed", "d2/d26/a22439.html#a46e03a19bac91a800154e3c873235800", null ]
 ];

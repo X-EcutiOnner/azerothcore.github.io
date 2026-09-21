@@ -1,6 +1,8 @@
 var a22783 =
 [
-    [ "instance_shadow_labyrinth_InstanceMapScript", "db/d36/a22787.html", "db/d36/a22787" ],
-    [ "instance_shadow_labyrinth", "d1/dec/a22783.html#a16a3acdfd9b1053374dfa5f27e5f3c19", null ],
-    [ "GetInstanceScript", "d1/dec/a22783.html#af9edf624413593a5cdf025dd9a1c3631", null ]
+    [ "CalcPeriodic", "d1/dec/a22783.html#a7a34b9bd77cd1f15a1cd7954d76d80d0", null ],
+    [ "OnRemove", "d1/dec/a22783.html#af120bb9d6a0c3d338706613540849412", null ],
+    [ "PrepareAuraScript", "d1/dec/a22783.html#ad413f14193013058e1775f80b457a81d", null ],
+    [ "Register", "d1/dec/a22783.html#aa35fc5865f108712e450661e67c384ce", null ],
+    [ "Update", "d1/dec/a22783.html#aebc61b57ed8038488ec06c14483b2099", null ]
 ];

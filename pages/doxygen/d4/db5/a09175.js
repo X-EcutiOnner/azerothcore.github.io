@@ -1,7 +1,11 @@
 var a09175 =
 [
-    [ "HealthOrderPred", "d4/db5/a09175.html#ac5d0408da69ecd6415c6f4eae61d11d8", null ],
-    [ "operator()", "d4/db5/a09175.html#acb5867bddd0e5107139d52ff99817f5c", null ],
-    [ "operator()", "d4/db5/a09175.html#ad9cae47d98b31687958cfca56b29c213", null ],
-    [ "_ascending", "d4/db5/a09175.html#a93e2e41a9849d6c2ecfffcaffa74acee", null ]
+    [ "AuraMunchingQueue", "d4/db5/a09175.html#abf9787bcfa9393619ffebe2ad7b5cd46", null ],
+    [ "Execute", "d4/db5/a09175.html#a8f025a0ea1db81fb283db563402d1c40", null ],
+    [ "_auraType", "d4/db5/a09175.html#add694e24c38d585784f236acf9118b76", null ],
+    [ "_aurEff", "d4/db5/a09175.html#a8ac00964608170d5375242c1b19c4be3", null ],
+    [ "_basePoints", "d4/db5/a09175.html#a9cf03046c9595e81bf119b7aacb1a81a", null ],
+    [ "_owner", "d4/db5/a09175.html#a472aaf46c2f167a10ce38267ace0b8bb", null ],
+    [ "_spellId", "d4/db5/a09175.html#a6674c43b906e45e2ad29100a7ff06f44", null ],
+    [ "_targetGUID", "d4/db5/a09175.html#a441b328296f0b7a75bdaee06d2cb94f1", null ]
 ];

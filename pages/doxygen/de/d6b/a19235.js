@@ -1,7 +1,5 @@
 var a19235 =
 [
-    [ "OnRemove", "de/d6b/a19235.html#ac71e6f5a9e3a7c96b4e4bd1a296d0d8d", null ],
-    [ "PrepareAuraScript", "de/d6b/a19235.html#acf654e563f47df9ad033d7080f47662b", null ],
-    [ "Register", "de/d6b/a19235.html#aad4497ba7cad48b9547e8696714d8c23", null ],
-    [ "Validate", "de/d6b/a19235.html#ae5e187cb481849343e777b0bf0ffdf24", null ]
+    [ "npc_darkfallen_tactician", "de/d6b/a19235.html#a946ccdf41d93a3477204e303c3404c5c", null ],
+    [ "ScheduleSpells", "de/d6b/a19235.html#a26dcb830533771faf8ebc90995ea010b", null ]
 ];

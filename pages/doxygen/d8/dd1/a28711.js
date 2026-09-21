@@ -1,9 +1,6 @@
 var a28711 =
 [
-    [ "npc_herald_of_the_lich_king", "d8/dd1/a28711.html#a62e373796ce4e6509692e6837cdb561f", null ],
-    [ "ChangeZoneEventStatus", "d8/dd1/a28711.html#a30c44f2f62badd27b105a55527d40670", null ],
-    [ "DoAction", "d8/dd1/a28711.html#a0ae389e7c2b5d380cb58df1cb9453f94", null ],
-    [ "InitializeAI", "d8/dd1/a28711.html#a17e1ad9a9107a71697cd9816e5694e40", null ],
-    [ "UpdateAI", "d8/dd1/a28711.html#a21a5093a46959f4b69777b63de12c557", null ],
-    [ "UpdateWeather", "d8/dd1/a28711.html#a3c6d076171596c9ce472cddda18a42be", null ]
+    [ "npc_steam_tonkAI", "d5/ddf/a28715.html", "d5/ddf/a28715" ],
+    [ "npc_steam_tonk", "d8/dd1/a28711.html#a19731e7f1bc6fe0220e8c28619ff7c50", null ],
+    [ "GetAI", "d8/dd1/a28711.html#a38e51485a3610a204a45677fce15c943", null ]
 ];

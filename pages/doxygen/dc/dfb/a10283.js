@@ -1,19 +1,13 @@
 var a10283 =
 [
-    [ "MapCollisionData", "dc/dfb/a10283.html#a4e894d4a959f3295d1e2c5245b9996a7", null ],
-    [ "~MapCollisionData", "dc/dfb/a10283.html#a3c8a129c38560fe00b5ecbdab08da733", null ],
-    [ "GetDynamicTree", "dc/dfb/a10283.html#a40d40d192d17ac69f933ab7c17887608", null ],
-    [ "GetDynamicTree", "dc/dfb/a10283.html#a2c1408b48e83bc609023f41027c89064", null ],
-    [ "GetMMapData", "dc/dfb/a10283.html#accd50059c333a678e03637bc9b012e4e", null ],
-    [ "GetMMapData", "dc/dfb/a10283.html#ae5f0ccd86069905b9630204ee1e7ca08", null ],
-    [ "GetMMapNavMeshSharedPtr", "dc/dfb/a10283.html#aac380a18735172b58bb9b35a56dc3544", null ],
-    [ "GetStaticTree", "dc/dfb/a10283.html#a805068c70a0e02a58a1dbad8b5f32911", null ],
-    [ "GetStaticTree", "dc/dfb/a10283.html#ad22d3261667975e3eb0cad94966a7754", null ],
-    [ "GetStaticTreeSharedPtr", "dc/dfb/a10283.html#adfee9be1a687b889b7fbd155f187347a", null ],
-    [ "LoadMMapTile", "dc/dfb/a10283.html#a661a7c3ee6f24c33b5598db5c87e968c", null ],
-    [ "LoadVMapTile", "dc/dfb/a10283.html#a0a9ed3fdca779f0f8681d6685d295e2d", null ],
-    [ "_dynamicVMapData", "dc/dfb/a10283.html#a13f5d030bee357ad4aaa97011e3d168e", null ],
-    [ "_map", "dc/dfb/a10283.html#af6e685ca98230858dd13b08eb5d6175c", null ],
-    [ "_mmapData", "dc/dfb/a10283.html#a8a417dcd2e8df672602954f5e3bc3153", null ],
-    [ "_staticVMapData", "dc/dfb/a10283.html#ab55e6ca04cccbde9d9564194e9392b5c", null ]
+    [ "ParallelogramBoundary", "dc/dfb/a10283.html#ace1e1ffbcb84343ca2641541fe000691", null ],
+    [ "IsWithinBoundaryArea", "dc/dfb/a10283.html#af29e70a9febaa9d80d0ce7223e2c6fc3", null ],
+    [ "_a", "dc/dfb/a10283.html#ad81a1a1f4e82de0e7a31bf13a87bac2b", null ],
+    [ "_abx", "dc/dfb/a10283.html#a855c7ea39698f7dac80d72ea6962e9c7", null ],
+    [ "_aby", "dc/dfb/a10283.html#ad81b9baeb70d5856ea8cdd3f787abf29", null ],
+    [ "_b", "dc/dfb/a10283.html#a9d5d06cc3673f89644e45e62f96510db", null ],
+    [ "_c", "dc/dfb/a10283.html#a6c19d4ed0a1c1b6ff042c4bbd64f0a8a", null ],
+    [ "_d", "dc/dfb/a10283.html#a5214ac0f79f1d90492a77fbd251d1361", null ],
+    [ "_dax", "dc/dfb/a10283.html#aab72030dfa3dd4e4bef03180bd0a306c", null ],
+    [ "_day", "dc/dfb/a10283.html#a3b3e3993d09af62bae7fbfe65f6d641a", null ]
 ];

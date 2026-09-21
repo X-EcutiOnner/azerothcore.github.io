@@ -1,7 +1,6 @@
 var a21443 =
 [
-    [ "PrepareAuraScript", "df/d59/a21443.html#adedc1cb8b42e9cd3c2e68415bca59c6b", null ],
-    [ "Register", "df/d59/a21443.html#a7225d1f83921e4de06516c1db5a5038a", null ],
-    [ "TriggerFists", "df/d59/a21443.html#af5d91d679f6bed5afc675b8a5fd90210", null ],
-    [ "Validate", "df/d59/a21443.html#a977897c569245148eb94892bb42d4ca5", null ]
+    [ "boss_svalaAI", "d4/d81/a21447.html", "d4/d81/a21447" ],
+    [ "boss_svala", "df/d59/a21443.html#a7ac5866eb6a013cb03f3d459b13b4a62", null ],
+    [ "GetAI", "df/d59/a21443.html#a0c3b94635eca667a28496cf799efad25", null ]
 ];

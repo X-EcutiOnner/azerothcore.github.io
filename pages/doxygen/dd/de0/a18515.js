@@ -1,5 +1,6 @@
 var a18515 =
 [
-    [ "operator()", "dd/de0/a18515.html#a6a8c02f9b797ed7df8960e5ddc44f93f", null ],
-    [ "operator()", "dd/de0/a18515.html#a3847988d35a9cb0c5aab4ad73ff1a427", null ]
+    [ "CheckTarget", "dd/de0/a18515.html#afce64ba75f8370cab6b8f1e561b10587", null ],
+    [ "PrepareSpellScript", "dd/de0/a18515.html#a6b6eaf3e761f2c173c2e72f46b25595a", null ],
+    [ "Register", "dd/de0/a18515.html#a6964ca668f02a8b5b1c3015503a41eef", null ]
 ];

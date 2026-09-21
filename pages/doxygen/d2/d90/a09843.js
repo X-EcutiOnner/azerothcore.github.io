@@ -1,8 +1,9 @@
 var a09843 =
 [
-    [ "NearestPlayerInObjectRangeCheck", "d2/d90/a09843.html#ae8e57c69baf8bdaf0448864d4afbb1a4", null ],
-    [ "NearestPlayerInObjectRangeCheck", "d2/d90/a09843.html#aac3d406d10a036b92a55bcd955411165", null ],
-    [ "operator()", "d2/d90/a09843.html#a5d7ed3141c03d2209d5a3b1a689d1668", null ],
-    [ "i_obj", "d2/d90/a09843.html#a9cd17091269bcfc2b48fefc12ac9b127", null ],
-    [ "i_range", "d2/d90/a09843.html#ab55f93d7c5d6ca3461bcbe49010fcb83", null ]
+    [ "AnyFriendlyNotSelfUnitInObjectRangeCheck", "d2/d90/a09843.html#a213e07e67eefd1454be655e154380202", null ],
+    [ "operator()", "d2/d90/a09843.html#a8b3547500300e3b9d8de88c0b12b268e", null ],
+    [ "i_funit", "d2/d90/a09843.html#a43b531ac740cb263d347ece24ff675fc", null ],
+    [ "i_obj", "d2/d90/a09843.html#a5fe4b376f00d33554a9a263abc743e68", null ],
+    [ "i_playerOnly", "d2/d90/a09843.html#a16cd07545542916e0f49250c77fad304", null ],
+    [ "i_range", "d2/d90/a09843.html#ac087254cf99c5f845918998f369c176a", null ]
 ];

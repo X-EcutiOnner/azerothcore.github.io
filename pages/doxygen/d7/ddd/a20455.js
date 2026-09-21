@@ -1,8 +1,7 @@
 var a20455 =
 [
-    [ "npc_ulduar_flash_freeze", "d7/ddd/a20455.html#a3ee1762e2e3a8a180cb38fad26b70002", null ],
-    [ "DamageTaken", "d7/ddd/a20455.html#af381d671e1b64c6135ed6c76b1eef213", null ],
-    [ "UpdateAI", "d7/ddd/a20455.html#a2e3d6fdf6366b71b6696e567da912c1d", null ],
-    [ "_instance", "d7/ddd/a20455.html#ab02f8319a4f2aa0b6c9e5a0134de73fc", null ],
-    [ "timer", "d7/ddd/a20455.html#a016272492e1843b09c7c8b40537a463a", null ]
+    [ "boss_freya_lifebinder", "d7/ddd/a20455.html#a1784d6e975192a7442cabb14f688737d", null ],
+    [ "Reset", "d7/ddd/a20455.html#a48a829c75000d93cfb3c6a02aa0af495", null ],
+    [ "UpdateAI", "d7/ddd/a20455.html#ae43e7663ee263e223ff286ac1fedeef8", null ],
+    [ "_scheduler", "d7/ddd/a20455.html#a5c19f04cec9cd899feee7ce2878563cf", null ]
 ];

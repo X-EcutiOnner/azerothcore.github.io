@@ -1,17 +1,11 @@
 var a29311 =
 [
-    [ "Entry", "d8/d8a/a29311.html#a4e8689fabe6b3ef5c495bf84fa1945b7", null ],
-    [ "Difficulty", "d8/d8a/a29311.html#aa85e97ced86b0d27c753ca924eba074b", null ],
-    [ "ExpansionLevel", "d8/d8a/a29311.html#a5bbacc248aa127b889d60b3a25b12b83", null ],
-    [ "Flags", "d8/d8a/a29311.html#a9481c296a064ec400b0f050097903557", null ],
-    [ "GroupID", "d8/d8a/a29311.html#a7a6c2971a61b171d00c885ce452601ce", null ],
-    [ "ID", "d8/d8a/a29311.html#ae0fdf0d9afd2f99e9b7e6094960e86e0", null ],
-    [ "MapID", "d8/d8a/a29311.html#a6c947b111d7d356ba02eb6fffc77f5cb", null ],
-    [ "MaxLevel", "d8/d8a/a29311.html#aa4fbfd45d4319c9e8319508821bf4a65", null ],
-    [ "MinLevel", "d8/d8a/a29311.html#a17ae5fe60486c54a3becb2b14d5953c9", null ],
-    [ "Name", "d8/d8a/a29311.html#a7cb21e4e996be24d531b03fea66ecd27", null ],
-    [ "TargetLevel", "d8/d8a/a29311.html#a2e6456d16cce98666b0ac63cebf0eb82", null ],
-    [ "TargetLevelMax", "d8/d8a/a29311.html#ae4a27f7bc0563f606f40d955a40fab1e", null ],
-    [ "TargetLevelMin", "d8/d8a/a29311.html#a7558f3dc7d695fb17bc3b64e0c381de7", null ],
-    [ "TypeID", "d8/d8a/a29311.html#a84a498b44063cc95ba1a3b565c44a81b", null ]
+    [ "Displayid", "d8/d8a/a29311.html#a4aa3c391401f39d6f4a595f4dff0668b", null ],
+    [ "filename", "d8/d8a/a29311.html#a0cee5b90a15b39e1ff49231e332cc320", null ],
+    [ "maxX", "d8/d8a/a29311.html#a10563ae885d34e516825a18db95b40e7", null ],
+    [ "maxY", "d8/d8a/a29311.html#a711286df6d2bd74246dee2170052c17a", null ],
+    [ "maxZ", "d8/d8a/a29311.html#acb74e32790b2c60cca5faef1caa225e4", null ],
+    [ "minX", "d8/d8a/a29311.html#a77466c3aabd4e7b6b7aa8b5f9f2a82da", null ],
+    [ "minY", "d8/d8a/a29311.html#a7168f5b3229bd27edde78e88bf7dc20a", null ],
+    [ "minZ", "d8/d8a/a29311.html#ac88aefc2530212b9dff10e018c4e9305", null ]
 ];

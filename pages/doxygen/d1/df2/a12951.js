@@ -1,9 +1,5 @@
 var a12951 =
 [
-    [ "npc_drakonid_spawner", "d1/df2/a12951.html#a2b657e800dc5cc30c618391413ded116", null ],
-    [ "DoAction", "d1/df2/a12951.html#ab013cff0430c09fe1045fdc735e45182", null ],
-    [ "IsSummonedBy", "d1/df2/a12951.html#a6a2170e0f20736d69006ce6d6c769476", null ],
-    [ "SummonedCreatureDies", "d1/df2/a12951.html#a57dd1fc80cfa43f6afae58e797b4091f", null ],
-    [ "UpdateAI", "d1/df2/a12951.html#a60e79dd8f56e87a2de4a203a63c6f9e3", null ],
-    [ "_owner", "d1/df2/a12951.html#a6e0f0d2f6c265f9e5206f441dead8b2f", null ]
+    [ "go_father_flame", "d1/df2/a12951.html#aa23829f617c48bb6da57ff7977886e75", null ],
+    [ "OnStateChanged", "d1/df2/a12951.html#ad0e85a66d65d908c532c2bfde0605b39", null ]
 ];

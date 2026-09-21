@@ -1,9 +1,13 @@
 var a19527 =
 [
-    [ "boss_grobbulus_poison_cloudAI", "d7/d8d/a19527.html#ac26671336eec2d84b56a3552d50f8e0a", null ],
-    [ "KilledUnit", "d7/d8d/a19527.html#a9c6ce4ace426f2e7aba5a7bf9430bbe3", null ],
-    [ "Reset", "d7/d8d/a19527.html#a1715ab3f3f25b56517f6ded84acdbd9f", null ],
-    [ "UpdateAI", "d7/d8d/a19527.html#af1b8dafb0aa47ba22b3601d8bf639c22", null ],
-    [ "auraVisualTimer", "d7/d8d/a19527.html#a74aea4294c26414d3b60983d14d36e31", null ],
-    [ "sizeTimer", "d7/d8d/a19527.html#a73f775b30ad36a595e0d8532067ba042", null ]
+    [ "boss_anubrekhan", "d7/d8d/a19527.html#ad748de528ca78739236b9586ddaa19bd", null ],
+    [ "JustDied", "d7/d8d/a19527.html#a9dfb1b89c4f47235e463d90f17522113", null ],
+    [ "JustEngagedWith", "d7/d8d/a19527.html#a97d56653381e7a7f8c724263148cd61e", null ],
+    [ "JustSummoned", "d7/d8d/a19527.html#af1a01ff6c9790e1660619767c16cfd94", null ],
+    [ "KilledUnit", "d7/d8d/a19527.html#a73906e3681c767e5818d380e77525ba2", null ],
+    [ "MoveInLineOfSight", "d7/d8d/a19527.html#a9fcbc921973e0bd02867217d15efcc64", null ],
+    [ "Reset", "d7/d8d/a19527.html#a1a495fddf89c4c92136d1fd61fba6594", null ],
+    [ "SummonCryptGuards", "d7/d8d/a19527.html#a30d2e7464cffc6894882897ed0d66c6a", null ],
+    [ "SummonedCreatureDies", "d7/d8d/a19527.html#a12b4f2878b54f5bd34c470d2c7b40098", null ],
+    [ "_sayGreet", "d7/d8d/a19527.html#a7f61eb4aab4d0bf81480dea011b11f95", null ]
 ];

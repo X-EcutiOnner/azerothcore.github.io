@@ -1,14 +1,15 @@
 var a21663 =
 [
-    [ "npc_hidden_cultistAI", "d3/d28/a21663.html#a970aaa2401664337147696624cc8cac4", null ],
-    [ "AttackPlayer", "d3/d28/a21663.html#a55e3b02d05f35d134fc605a13efe9018", null ],
-    [ "Initialize", "d3/d28/a21663.html#ab9199126a5a19cc3c6dc612bc428d79c", null ],
-    [ "PreScript", "d3/d28/a21663.html#a92be5361e2b28152adcca0629b286bb8", null ],
-    [ "Reset", "d3/d28/a21663.html#afe38e448d86cdf910870d72a3890ae1f", null ],
-    [ "sGossipSelect", "d3/d28/a21663.html#adf6d85bc5a32c8bd7c125d24f67411d9", null ],
-    [ "UpdateAI", "d3/d28/a21663.html#a0bba4d10439d47d44ff856c7fec18595", null ],
-    [ "_emoteState", "d3/d28/a21663.html#adb4e884787dc480358c5be22d276ec49", null ],
-    [ "_events", "d3/d28/a21663.html#ab0494e33d16a43aa1426784d1882e41c", null ],
-    [ "_npcFlags", "d3/d28/a21663.html#aea867d06cb737e2a44445c2c8c7d6e45", null ],
-    [ "_playerGUID", "d3/d28/a21663.html#ac7ecf525ed8c0d2a3d00b34f7afdbf18", null ]
+    [ "npc_azure_saboteur", "d3/d28/a21663.html#a051e99f11de367f810d9404a723173fd", null ],
+    [ "FinishPointReached", "d3/d28/a21663.html#a451777273b76e4651b1f4309e8477c9f", null ],
+    [ "InitializeAI", "d3/d28/a21663.html#acf28368986b940b571f493bd663e8e09", null ],
+    [ "MoveInLineOfSight", "d3/d28/a21663.html#a1a65d5100befd33a104a13eef0800ae7", null ],
+    [ "UpdateAI", "d3/d28/a21663.html#af5cf21e08a62b09793e99a92df1ef1b7", null ],
+    [ "WaypointReached", "d3/d28/a21663.html#a7c6f44f0dcdb0d5abc18e304383d3b96", null ],
+    [ "WaypointReached", "d3/d28/a21663.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_boss", "d3/d28/a21663.html#ab23d685ca979bba79a3d9a14117350f8", null ],
+    [ "_count", "d3/d28/a21663.html#aa431780ab6b90976494058a602377825", null ],
+    [ "_events", "d3/d28/a21663.html#a7ee513b49f09971f5fea099e8c9b7bc7", null ],
+    [ "_instance", "d3/d28/a21663.html#ab220c76d2fd72df36b5b92ee897d9d14", null ],
+    [ "_isOpening", "d3/d28/a21663.html#a59ecc6687f1d5d948c6988d14f577ffd", null ]
 ];

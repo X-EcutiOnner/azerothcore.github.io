@@ -1,14 +1,6 @@
 var a19319 =
 [
-    [ "npc_icc_vengeful_fleshreaperAI", "dc/d7c/a19319.html#a4a459289a55871990abc0adc4ba8278c", null ],
-    [ "AttackStart", "dc/d7c/a19319.html#a3412c5664c1c1354b615e8f798824b91", null ],
-    [ "JustReachedHome", "dc/d7c/a19319.html#a161fd53eca71cb0a3b8fb8d483b7e49b", null ],
-    [ "MoveInLineOfSight", "dc/d7c/a19319.html#acfbaa73491940a916f8d0a0b852bcc61", null ],
-    [ "MovementInform", "dc/d7c/a19319.html#ad14a1d8cfe749d54a801a3902aa49e1d", null ],
-    [ "Reset", "dc/d7c/a19319.html#aa60d5d2d534aa6e9fe7c77703bab5fce", null ],
-    [ "UpdateAI", "dc/d7c/a19319.html#a8946357cad01050641bcdf51edce192f", null ],
-    [ "currPipeWP", "dc/d7c/a19319.html#af8a298ccbd6f22a0a4416ed6cb082e67", null ],
-    [ "events", "dc/d7c/a19319.html#aa39171910383c74583f24663d6c23f3b", null ],
-    [ "forward", "dc/d7c/a19319.html#a28eb6d3f007f45b9db4eafafe71b779c", null ],
-    [ "needMove", "dc/d7c/a19319.html#ae08f9c54d08b0eae5ad71d69f06a6544", null ]
+    [ "HandleScript", "dc/d7c/a19319.html#a33f15ecf0c0ff013d03742cb2130f372", null ],
+    [ "PrepareSpellScript", "dc/d7c/a19319.html#ab3a832cf53f4438db0d9e58b89c0ef7f", null ],
+    [ "Register", "dc/d7c/a19319.html#ad0c6d34103244cded41481c745dafe58", null ]
 ];

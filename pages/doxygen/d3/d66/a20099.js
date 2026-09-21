@@ -1,8 +1,11 @@
 var a20099 =
 [
-    [ "npc_algalon_worm_hole", "d3/d66/a20099.html#a546bd0ede2586fcbe3812698b68528d4", null ],
-    [ "JustSummoned", "d3/d66/a20099.html#a077425b35d86c007daa93fc8b1fd9717", null ],
-    [ "Reset", "d3/d66/a20099.html#a363814abdee714faddfd966b11a4fddc", null ],
-    [ "UpdateAI", "d3/d66/a20099.html#a16f644be53169adc67fc971bdeaa7263", null ],
-    [ "_summonTimer", "d3/d66/a20099.html#a033382dbd57714e815eed8ef6e4adfaf", null ]
+    [ "boss_maiden_of_griefAI", "d3/d66/a20099.html#a521decece7a53165349ebcfb9fb8dfb5", null ],
+    [ "JustDied", "d3/d66/a20099.html#abd3977cca1cbbf4b64c278a641514fc8", null ],
+    [ "JustEngagedWith", "d3/d66/a20099.html#acf30049b09bbaf3e30f2dcb77bf1b4e0", null ],
+    [ "KilledUnit", "d3/d66/a20099.html#a3d2173db5a852a356c187b2d2771b75f", null ],
+    [ "Reset", "d3/d66/a20099.html#a46776004549b0dcfcf73351225adaad8", null ],
+    [ "UpdateAI", "d3/d66/a20099.html#a4e26fc785b3c72982f9d98e0b120e929", null ],
+    [ "events", "d3/d66/a20099.html#aa2d2ccea219b679594d8d8b4a38d70cc", null ],
+    [ "pInstance", "d3/d66/a20099.html#abc195718a208a926f978d7f0fe0e7925", null ]
 ];

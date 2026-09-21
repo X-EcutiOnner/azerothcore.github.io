@@ -1,5 +1,5 @@
 var a20811 =
 [
-    [ "achievement_iron_dwarf_medium_rare", "df/dbe/a20811.html#afb3716aab7693ba0493db24999e4b1ee", null ],
-    [ "OnCheck", "df/dbe/a20811.html#aabef3a345057265ac70c6cc0c98d552d", null ]
+    [ "achievement_mimiron_set_up_us_the_bomb_11", "df/dbe/a20811.html#a5d8980111e029b4c9311737f3985ab61", null ],
+    [ "OnCheck", "df/dbe/a20811.html#a7682a7f2f4417dcf75ec58e34e4fd6bc", null ]
 ];

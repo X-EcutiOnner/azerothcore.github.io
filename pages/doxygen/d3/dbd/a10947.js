@@ -1,6 +1,6 @@
 var a10947 =
 [
-    [ "BuyBankSlot", "d3/dbd/a10947.html#a0bc11087e9359c6ac762f915b11287d8", null ],
-    [ "Read", "d3/dbd/a10947.html#ac4e35f97fe3ff2b2c18a40b8b2eb59fb", null ],
-    [ "Banker", "d3/dbd/a10947.html#aa9ae5777ab337f37b1c372d39a8474bf", null ]
+    [ "WeatherScript", "d3/dbd/a10947.html#af0b38389d1e149a332186e10358ba74e", null ],
+    [ "IsDatabaseBound", "d3/dbd/a10947.html#a2547902149ce080711ccacb709b10e8a", null ],
+    [ "OnChange", "d3/dbd/a10947.html#a10c105f1e1bff1e9fe484e98b00cf76c", null ]
 ];

@@ -1,6 +1,6 @@
 var a14067 =
 [
-    [ "CheckProc", "dc/d90/a14067.html#af6d00234388ceb5d1c9acd8775c66788", null ],
-    [ "PrepareAuraScript", "dc/d90/a14067.html#abdbb7406693a59372fe6783fbe4fb0f1", null ],
-    [ "Register", "dc/d90/a14067.html#acad1e829a317d15e73549047ece67eda", null ]
+    [ "npc_balance_of_light_and_shadowAI", "dd/d5d/a14071.html", "dd/d5d/a14071" ],
+    [ "npc_balance_of_light_and_shadow", "dc/d90/a14067.html#a55229e3ea8dd9c52972185b36c08908b", null ],
+    [ "GetAI", "dc/d90/a14067.html#a07e0547e6bf81cc7ff9fe0aa4a851388", null ]
 ];

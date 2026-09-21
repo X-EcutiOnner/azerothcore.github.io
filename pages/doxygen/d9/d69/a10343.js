@@ -1,9 +1,8 @@
 var a10343 =
 [
-    [ "TransportAnimation", "d9/d69/a10343.html#a775b84b54deefd38af40222afd82d572", null ],
-    [ "GetAnimNode", "d9/d69/a10343.html#a73b56750c90afce38dbf57793bae16f3", null ],
-    [ "GetAnimRotation", "d9/d69/a10343.html#aa2c892f14712828acaa85fa6e6d919bb", null ],
-    [ "Path", "d9/d69/a10343.html#a7c45df781dda8058d281a2cf7e5fe5fb", null ],
-    [ "Rotations", "d9/d69/a10343.html#a5fa771fb487c437d7d6229eadf7d90c3", null ],
-    [ "TotalTime", "d9/d69/a10343.html#a59a31ffc2e642a3950b0509130a76ad4", null ]
+    [ "GetNavMesh", "d9/d69/a10343.html#a81e3e8249f22accbd06f9e80aa3fccf9", null ],
+    [ "GetNavMeshQuery", "d9/d69/a10343.html#af524ac62385fdd4d4c6a4f01afafbb49", null ],
+    [ "MapCollisionData", "d9/d69/a10343.html#a472038a89678719bf8868ab0c75e394f", null ],
+    [ "_navMesh", "d9/d69/a10343.html#ae41a024489dbe5d11ba6dceed6b7442f", null ],
+    [ "_navMeshQuery", "d9/d69/a10343.html#a237375e56702f7e83c9e13e1f959cfdb", null ]
 ];

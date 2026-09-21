@@ -1,5 +1,7 @@
 var a28359 =
 [
-    [ "go_arcane_prison", "da/da6/a28359.html#ad73ac33d843027de0e516de8f90c45a0", null ],
-    [ "OnGossipHello", "da/da6/a28359.html#a0f9d414ce1f3f3e734cb79a554f7523e", null ]
+    [ "go_bear_trapAI", "da/da6/a28359.html#ad97484d73bcea6a84909004c099eec34", null ],
+    [ "Initialize", "da/da6/a28359.html#a89c76f1563f541c572c48f8cf633aa6a", null ],
+    [ "UpdateAI", "da/da6/a28359.html#a8901922d736bb0391da5618593ced5c5", null ],
+    [ "_events", "da/da6/a28359.html#a59f37a130326818dd922763ae9058fe7", null ]
 ];

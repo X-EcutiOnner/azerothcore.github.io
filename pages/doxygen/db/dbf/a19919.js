@@ -1,6 +1,6 @@
 var a19919 =
 [
-    [ "HandleDamageCalc", "db/dbf/a19919.html#a71b88fbad5acbba47028dd1ff82b4836", null ],
-    [ "PrepareSpellScript", "db/dbf/a19919.html#a754da297cd5801616e24bf2d802d0b38", null ],
-    [ "Register", "db/dbf/a19919.html#a231f29ea69a354ddb2963cb4ef9a3f4e", null ]
+    [ "npc_oculus_unstable_sphereAI", "d4/d02/a19923.html", "d4/d02/a19923" ],
+    [ "npc_oculus_unstable_sphere", "db/dbf/a19919.html#a5167370a6d3fd32a5673bbeb95ed3f3c", null ],
+    [ "GetAI", "db/dbf/a19919.html#adda2a9e7eab03444742e85729673ab2f", null ]
 ];

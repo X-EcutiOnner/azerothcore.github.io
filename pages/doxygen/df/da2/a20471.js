@@ -1,16 +1,5 @@
 var a20471 =
 [
-    [ "npc_ulduar_hodir_shaman", "df/da2/a20471.html#a3277cda17d5409be3426bdaa61e092cd", null ],
-    [ "AttackStart", "df/da2/a20471.html#a933908d61afac33002411874060c0f74", null ],
-    [ "CanAIAttack", "df/da2/a20471.html#a8907c7300cef735a70b088de3c16cfb9", null ],
-    [ "DoAction", "df/da2/a20471.html#ae27325cc9b794a84d82faa0f410fa844", null ],
-    [ "EnterEvadeMode", "df/da2/a20471.html#afa6124e630cd878659172a06df68d39f", null ],
-    [ "JustDied", "df/da2/a20471.html#a08af85d3446c86443ff5a620b159d000", null ],
-    [ "MoveInLineOfSight", "df/da2/a20471.html#a29de52dcae485f00403dae8e28ff1395", null ],
-    [ "ScheduleAbilities", "df/da2/a20471.html#ab9aa67f07721c0bf60e9db75b5b3e888", null ],
-    [ "SpellHit", "df/da2/a20471.html#a02476e4ddb2287c647a2a4bd7e342150", null ],
-    [ "SpellHitTarget", "df/da2/a20471.html#a29dcb1ff2d532fa491fcdbdfcac4fbfa", null ],
-    [ "UpdateAI", "df/da2/a20471.html#adf8d9895cdd35712fa44e4a19de1315a", null ],
-    [ "_instance", "df/da2/a20471.html#aa09753bc9b54ea8dcc9b61a9ace77ae3", null ],
-    [ "events", "df/da2/a20471.html#a7e147f6f230513cfb666473c61ab4be4", null ]
+    [ "achievement_freya_getting_back_to_nature", "df/da2/a20471.html#aa4078b573a9335fc52c9b9609590b12f", null ],
+    [ "OnCheck", "df/da2/a20471.html#a850a32450379284784f019a5eb5ff0ff", null ]
 ];

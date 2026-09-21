@@ -1,8 +1,6 @@
 var a22423 =
 [
-    [ "npc_oathbound_warder", "d5/dd3/a22423.html#af4e56bd77dc1c12e795736f117a9b7f1", null ],
-    [ "AttackStart", "d5/dd3/a22423.html#afa3e523d3c4b7659df3d06be11eea7e4", null ],
-    [ "InitializeAI", "d5/dd3/a22423.html#a62c4c568ad615013afa46c7da84d057a", null ],
-    [ "JustEngagedWith", "d5/dd3/a22423.html#af5c0cb0f8cd8bf5a77bf7460dc576a6f", null ],
-    [ "UpdateAI", "d5/dd3/a22423.html#a2e97b16356a6aec04c7c0b1a2d872070", null ]
+    [ "npc_time_lost_proto_drakeAI", "dc/dab/a22427.html", "dc/dab/a22427" ],
+    [ "npc_time_lost_proto_drake", "d5/dd3/a22423.html#a6fda9f8b0d4e61e88e2a82d101d9c69e", null ],
+    [ "GetAI", "d5/dd3/a22423.html#a8b463fe7a85b0b1526c2f99ed7aeefa2", null ]
 ];

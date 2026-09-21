@@ -1,9 +1,8 @@
 var a10307 =
 [
-    [ "MapUpdateRequest", "df/da3/a10307.html#af71812e502bb1ceb60a286ff0d676ccd", null ],
-    [ "call", "df/da3/a10307.html#a2cb96db357347d47596725e5c345b02f", null ],
-    [ "m_diff", "df/da3/a10307.html#a3f8ff355ac6efb0a6039c7ee5bfc053b", null ],
-    [ "m_map", "df/da3/a10307.html#a3612f3e64bb1d2f266c8724c398f5de5", null ],
-    [ "m_updater", "df/da3/a10307.html#aeb063738175aa8ddc751290f922ffef2", null ],
-    [ "s_diff", "df/da3/a10307.html#a533a8c8a99f82e15dae0d4513c811b01", null ]
+    [ "PositionFullTerrainStatus", "df/da3/a10307.html#ae0349ed89530b35af91b7b1862acaffe", null ],
+    [ "areaId", "df/da3/a10307.html#ac04966fa31b30f341a937906223463d4", null ],
+    [ "floorZ", "df/da3/a10307.html#abbd186ca681e532d567b5a221a62c02b", null ],
+    [ "liquidInfo", "df/da3/a10307.html#ac96230ad8521342ec97cf4f94013d0b4", null ],
+    [ "outdoors", "df/da3/a10307.html#ae531eb0a4abc029f82d699c98d6aa565", null ]
 ];

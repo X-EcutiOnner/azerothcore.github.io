@@ -1,6 +1,6 @@
 var a19459 =
 [
-    [ "boss_four_horsemenAI", "d6/d18/a19463.html", "d6/d18/a19463" ],
-    [ "boss_four_horsemen", "da/d41/a19459.html#a6bcaf9a12d854a322f50ac2f98dbb72b", null ],
-    [ "GetAI", "da/d41/a19459.html#a3ee27da1d0da48306cc10c17c9411d1a", null ]
+    [ "RespawnEvent", "da/d41/a19459.html#accc0d5638ff7a493fa116ac2e8f2e58b", null ],
+    [ "Execute", "da/d41/a19459.html#a2e58f4e472fb72cf5401f11be6e5e136", null ],
+    [ "_owner", "da/d41/a19459.html#adb0835b4a2e7a2795bb81f0a1e3c911a", null ]
 ];

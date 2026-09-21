@@ -1,7 +1,7 @@
 var a22163 =
 [
-    [ "GetSeatNumber", "da/d6e/a22163.html#a8e18a10196667fd3dfba58d16fa281b9", null ],
-    [ "HandleDummy", "da/d6e/a22163.html#ac5945381452559e1d5655f5345bdeff3", null ],
-    [ "PrepareSpellScript", "da/d6e/a22163.html#aad375c0d3d1f0352cbda6a23cfb61272", null ],
-    [ "Register", "da/d6e/a22163.html#aad1cb82fdcd170f5a43f5007ebaadf2e", null ]
+    [ "HandleScriptEffect", "da/d6e/a22163.html#a7b0fca053f225beda41942d8fee86383", null ],
+    [ "PrepareSpellScript", "da/d6e/a22163.html#a1312914fef2c12d8c88f7fe3d3bc0dd4", null ],
+    [ "Register", "da/d6e/a22163.html#a43ca6b9d0d23d0bce2c1bb2fc6e7b76c", null ],
+    [ "Validate", "da/d6e/a22163.html#a5ca06a91aa921b4cc90a960fcb4cdb67", null ]
 ];

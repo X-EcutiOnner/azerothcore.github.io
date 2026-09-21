@@ -1,12 +1,7 @@
 var a18011 =
 [
-    [ "gunship_npc_AI", "dd/dc6/a18011.html#a30c13cb755638fcf05d1ad9a476210d3", null ],
-    [ "EnterEvadeMode", "dd/dc6/a18011.html#a7c2da25bb962c32fa350ee1f12f86ca4", null ],
-    [ "JustDied", "dd/dc6/a18011.html#ad40c976be4decd9054dad031a4caab78", null ],
-    [ "MovementInform", "dd/dc6/a18011.html#a3bae54b656fc5ed8c6fef80bd1721c71", null ],
-    [ "SetData", "dd/dc6/a18011.html#acfd5e331155d7787ada33acbca73fece", null ],
-    [ "SetSlotInfo", "dd/dc6/a18011.html#afdfc3f9add2952f90baf24d55425670f", null ],
-    [ "Index", "dd/dc6/a18011.html#ae120874514cf5921136821b820a04da7", null ],
-    [ "Instance", "dd/dc6/a18011.html#ab5276a099bcf56c5a25b3a52be516b5c", null ],
-    [ "Slot", "dd/dc6/a18011.html#a59d237475ae309755d429cfac77d6630", null ]
+    [ "HandleScript", "dd/dc6/a18011.html#a101e5e995dd27dcc6b6a4b475eed0989", null ],
+    [ "PrepareSpellScript", "dd/dc6/a18011.html#a8f668b88a41585cabeace574b30b4f85", null ],
+    [ "Register", "dd/dc6/a18011.html#a8fae161a91fae297b99079bde218ced8", null ],
+    [ "Validate", "dd/dc6/a18011.html#a4d1a8c28eefff22afdbf15ab57a6a7fd", null ]
 ];

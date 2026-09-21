@@ -1,6 +1,8 @@
 var a26691 =
 [
-    [ "CheckEffectProc", "d3/dc4/a26691.html#af7756cdb71cc2acc15c56fffc49609f4", null ],
-    [ "PrepareAuraScript", "d3/dc4/a26691.html#a1025c7edec455f647c5c37ffebdf7576", null ],
-    [ "Register", "d3/dc4/a26691.html#a282d4aced8b34e5d800e13dc8e71ef7b", null ]
+    [ "HandleDummy", "d3/dc4/a26691.html#a04ff6beb930b65395ebc3df99bc53dfa", null ],
+    [ "PrepareSpellScript", "d3/dc4/a26691.html#a73eabf1e68c966f31fe8d83c2fd925c1", null ],
+    [ "Register", "d3/dc4/a26691.html#a6b03fbcf18612d9bb7361c3e4f022dc0", null ],
+    [ "Validate", "d3/dc4/a26691.html#a9df13e3e8895854bc086fbfaccfb1b2c", null ],
+    [ "PolymorhForms", "d3/dc4/a26691.html#a1443d2532a060514e697a8d5e0c21b20", null ]
 ];

@@ -1,7 +1,10 @@
 var a24783 =
 [
-    [ "HandleProc", "d6/dbf/a24783.html#afc5208979ec0ce81e2bb88b3bd429012", null ],
-    [ "PrepareAuraScript", "d6/dbf/a24783.html#a9eebffe3b716f7de63bfd6617e6ecf3b", null ],
-    [ "Register", "d6/dbf/a24783.html#a1f364414b053ffc92c2a219b713e8c38", null ],
-    [ "Validate", "d6/dbf/a24783.html#a12912ba28210850b8bc0b568357794af", null ]
+    [ "HandleEffectRemove", "d6/dbf/a24783.html#a3b43cfcbbfa8fdbf170c76dd12b72074", null ],
+    [ "HandleImprovedBloodPresence", "d6/dbf/a24783.html#a020c0ae1f74856ae070ab2104232a079", null ],
+    [ "HandleImprovedFrostPresence", "d6/dbf/a24783.html#a262bfd40ee2f2d8ed793f999f660ba28", null ],
+    [ "HandleImprovedUnholyPresence", "d6/dbf/a24783.html#a5da86bb3686327787da5f46fc756f0a0", null ],
+    [ "PrepareAuraScript", "d6/dbf/a24783.html#a96453bb078359e46665e0eaa2a6cf6d1", null ],
+    [ "Register", "d6/dbf/a24783.html#a6534d2b5bca9a50830d20b08bfc1b84e", null ],
+    [ "Validate", "d6/dbf/a24783.html#afc23187a3a6dd48f2ad84ef354e36f3a", null ]
 ];

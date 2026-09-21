@@ -1,6 +1,7 @@
 var a14607 =
 [
-    [ "LaunchHit", "dc/d7b/a14607.html#a715c86c4057fe8c60abf02d895ac3c5a", null ],
-    [ "PrepareSpellScript", "dc/d7b/a14607.html#a4ad316b68d84921255577aedabb5ad3f", null ],
-    [ "Register", "dc/d7b/a14607.html#a50fa3ede9bebb2b54c4ec10091017c07", null ]
+    [ "OnRemove", "dc/d7b/a14607.html#ab909660f32a77e86fde5da35e2f69302", null ],
+    [ "PrepareAuraScript", "dc/d7b/a14607.html#ac95ee854f1f8921bd49fbd59c959d0da", null ],
+    [ "Register", "dc/d7b/a14607.html#a42c116ecb7d938bc4b9047ab40ff60ea", null ],
+    [ "Validate", "dc/d7b/a14607.html#abd1254c53c04f72f848d8641affc729d", null ]
 ];

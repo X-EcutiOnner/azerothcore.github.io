@@ -1,7 +1,5 @@
 var a12923 =
 [
-    [ "boss_ebonroc", "de/d19/a12923.html#a74725561727d5bf0dd266f50d377c9c8", null ],
-    [ "JustEngagedWith", "de/d19/a12923.html#a84250d1bc0986130404433c80162ecac", null ],
-    [ "MovementInform", "de/d19/a12923.html#afa0e5ad6e2eb3d8df539266623dbffb4", null ],
-    [ "UpdateAI", "de/d19/a12923.html#a8d7b9b681ae8c1e4102cb90456611732", null ]
+    [ "at_trigger_the_beast_movement", "de/d19/a12923.html#a9534f4b71deab4a2a9a94a36e2946fc7", null ],
+    [ "OnTrigger", "de/d19/a12923.html#a333d685d765497a950fde35067d876a1", null ]
 ];

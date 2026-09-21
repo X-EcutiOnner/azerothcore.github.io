@@ -1,12 +1,6 @@
 var a19499 =
 [
-    [ "npc_boss_gothik_minionAI", "dc/df1/a19499.html#aa719d87c65294fc483b424b125619a10", null ],
-    [ "IsOnSameSide", "dc/df1/a19499.html#a7d305be5e3d66c1317fa91e588223da0", null ],
-    [ "JustDied", "dc/df1/a19499.html#a752b6eab9cf1b016962c6f535586b59d", null ],
-    [ "JustEngagedWith", "dc/df1/a19499.html#ad86778d5a0e883a839b4a43425a57d7f", null ],
-    [ "KilledUnit", "dc/df1/a19499.html#a6a09440d623dcee51b7e0d4ed77d624e", null ],
-    [ "Reset", "dc/df1/a19499.html#a309401236c254cd850759a0cbb4004e0", null ],
-    [ "UpdateAI", "dc/df1/a19499.html#a43744e96be00d8bc0afc34a570e79947", null ],
-    [ "events", "dc/df1/a19499.html#ae2dde7b4fc655b1ae27410d299776c49", null ],
-    [ "livingSide", "dc/df1/a19499.html#a2545d00e04bae9ee0a1bf9f9d6162c74", null ]
+    [ "boss_isle_of_conquestAI", "d9/d8c/a19503.html", "d9/d8c/a19503" ],
+    [ "boss_isle_of_conquest", "dc/df1/a19499.html#ad4052d1b6865585d32016e1240449659", null ],
+    [ "GetAI", "dc/df1/a19499.html#ae14201c4f8654bf2c0cd9ac8a82f3800", null ]
 ];

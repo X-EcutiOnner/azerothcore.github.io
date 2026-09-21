@@ -1,6 +1,6 @@
 var a13939 =
 [
-    [ "instance_uldaman_InstanceMapScript", "dc/dc8/a13943.html", "dc/dc8/a13943" ],
-    [ "instance_uldaman", "d0/d99/a13939.html#a854807db729d15aa4a09aad051fe3bda", null ],
-    [ "GetInstanceScript", "d0/d99/a13939.html#a672bb8b5a16d29d25a191ab90d8007b4", null ]
+    [ "HandleEffectApply", "d0/d99/a13939.html#a8157e8d305bc9d7da23815ae7e684a05", null ],
+    [ "PrepareAuraScript", "d0/d99/a13939.html#ae06b9dc2d00998ce288f015bfc04b323", null ],
+    [ "Register", "d0/d99/a13939.html#ac8e6be8aa2e8314fe2f1e22efd8e8b4a", null ]
 ];

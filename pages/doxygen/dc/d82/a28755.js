@@ -1,7 +1,13 @@
 var a28755 =
 [
-    [ "HandleDummy", "dc/d82/a28755.html#ad57b334c7d985a3bda1cb19b81a77ee1", null ],
-    [ "PrepareSpellScript", "dc/d82/a28755.html#a550d6e90705745bdb5c4ee02ed1fce4b", null ],
-    [ "Register", "dc/d82/a28755.html#a3fda4d652c1264b3cfababdd98297c61", null ],
-    [ "Validate", "dc/d82/a28755.html#a2f12e71b9793be8e81011b0cd7583a39", null ]
+    [ "npc_spring_rabbitAI", "dc/d82/a28755.html#a1211ab47dee4844b90a010c284c4f1a5", null ],
+    [ "DoAction", "dc/d82/a28755.html#a288ddb2f1ee0ab7113f1a1f34dc545c5", null ],
+    [ "JustEngagedWith", "dc/d82/a28755.html#a0c36f1dfc094007990f067544a940538", null ],
+    [ "Reset", "dc/d82/a28755.html#ac0f6b47044099016dd6453674b75b2c8", null ],
+    [ "UpdateAI", "dc/d82/a28755.html#af9da118068234755fa9219b84050d2a3", null ],
+    [ "bunnyTimer", "dc/d82/a28755.html#a99c2923194cf6a07bee8924abf98f470", null ],
+    [ "inLove", "dc/d82/a28755.html#aec8887aedf32fb4ebcc68c48f0ee0ea5", null ],
+    [ "jumpTimer", "dc/d82/a28755.html#a5c17e00187ac87b23482dfbabb89809b", null ],
+    [ "rabbitGUID", "dc/d82/a28755.html#af838b25c8442767aaef16e95022cb062", null ],
+    [ "searchTimer", "dc/d82/a28755.html#af1b82227dadf30c6c796e7b8c2abbe82", null ]
 ];

@@ -1,7 +1,6 @@
 var a20343 =
 [
-    [ "achievement_flame_leviathan_garage", "d6/d6c/a20343.html#a1893b4059d7212d023c45bb828bb1905", null ],
-    [ "OnCheck", "d6/d6c/a20343.html#aa5897eb1fadeda4dda9f2390053d89b6", null ],
-    [ "_entry1", "d6/d6c/a20343.html#af482d6c1b2681b9fec572281620a86b7", null ],
-    [ "_entry2", "d6/d6c/a20343.html#a41e83b47c411dc6a6aff310ae7059f4e", null ]
+    [ "npc_pool_of_tar", "d6/d6c/a20343.html#a03de46dfa133992d094ab607a49b7236", null ],
+    [ "DamageTaken", "d6/d6c/a20343.html#ac72ad742cb16e27abf25fe0e88408315", null ],
+    [ "SpellHit", "d6/d6c/a20343.html#a61886862df88b41bf0c6959c9a564cea", null ]
 ];

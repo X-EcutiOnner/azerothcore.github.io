@@ -1,9 +1,15 @@
 var a12263 =
 [
-    [ "ClientKeySeed", "d1/d3b/a12263.html#a3e2df88e6fd716030d70a77850e96970", null ],
-    [ "ClientKeySeedHash", "d1/d3b/a12263.html#ae2523827d6f9abae5eed0b463c00062f", null ],
-    [ "Module", "d1/d3b/a12263.html#a1fcce28666a614c83d06729bc9c88bb4", null ],
-    [ "ModuleKey", "d1/d3b/a12263.html#ac34f4c4997f5f64a9dcf4ad7d914a215", null ],
-    [ "Seed", "d1/d3b/a12263.html#a3c8e1b5c642f12e29837800f0428f34e", null ],
-    [ "ServerKeySeed", "d1/d3b/a12263.html#ad29fe1f9ba6ef32f1d35657683b0e11b", null ]
+    [ "BroadcastTextId", "d1/d3b/a12263.html#a12ff00d59ce642d3c27978e919f6ca17", null ],
+    [ "duration", "d1/d3b/a12263.html#a00b6d7cbf9ff377d30cd9e6cfab084b7", null ],
+    [ "emote", "d1/d3b/a12263.html#aad433a0bc12717103936e6f89b5b31ea", null ],
+    [ "entry", "d1/d3b/a12263.html#a3d1c888b73edee2474004de9d8714903", null ],
+    [ "group", "d1/d3b/a12263.html#ae2161d1dc874efacd0131baa74b4e44a", null ],
+    [ "id", "d1/d3b/a12263.html#ab80181d53770a2f64bd6898498b3e76e", null ],
+    [ "lang", "d1/d3b/a12263.html#a8405ab49781ba0cbcd8680ff6715b675", null ],
+    [ "probability", "d1/d3b/a12263.html#a9bec9c2053f2efbac076831d4e928045", null ],
+    [ "sound", "d1/d3b/a12263.html#af312efff61026445caeb4be4b52c4e66", null ],
+    [ "text", "d1/d3b/a12263.html#a82b3db36b60a343d340677e8df6c7925", null ],
+    [ "TextRange", "d1/d3b/a12263.html#a2bb58a07abc9eb7ffeb4db131de03924", null ],
+    [ "type", "d1/d3b/a12263.html#a5675f6bcf159e1da503029771557e2a6", null ]
 ];

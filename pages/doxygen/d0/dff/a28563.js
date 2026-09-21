@@ -1,6 +1,7 @@
 var a28563 =
 [
-    [ "npc_air_force_botsAI", "da/d4d/a28567.html", "da/d4d/a28567" ],
-    [ "npc_air_force_bots", "d0/dff/a28563.html#a00b8f274bde3260a113ea21e0f68cdf8", null ],
-    [ "GetAI", "d0/dff/a28563.html#ae971e34d61b0f960d8f5940f9015523d", null ]
+    [ "npc_prof_leather", "d0/dff/a28563.html#a4a96f0c41a2a75ed26f52b1b0377c800", null ],
+    [ "HasLeatherSpecialty", "d0/dff/a28563.html#aefbf75b4109f8013335f36cd2d6e84de", null ],
+    [ "OnGossipHello", "d0/dff/a28563.html#a1a0dc1574c814af5e4f992c7fb199215", null ],
+    [ "OnGossipSelect", "d0/dff/a28563.html#afdf3a42c20903efd7f45ab0042f79de0", null ]
 ];

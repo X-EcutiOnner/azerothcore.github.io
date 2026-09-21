@@ -1,6 +1,7 @@
 var a19615 =
 [
-    [ "boss_patchwerkAI", "d8/dc4/a19619.html", "d8/dc4/a19619" ],
-    [ "boss_patchwerk", "d9/d51/a19615.html#a526983c4f5191a839ba4a017ac2d14e4", null ],
-    [ "GetAI", "d9/d51/a19615.html#a03f2dec61192405760958e26d998d67e", null ]
+    [ "HandleRemove", "d9/d51/a19615.html#a7c81c567ae10bf4fd4d3c1eb480b5761", null ],
+    [ "PrepareAuraScript", "d9/d51/a19615.html#aaefd5b15f7a3725b2663c0717fe22c92", null ],
+    [ "Register", "d9/d51/a19615.html#ad7ba015a7878adad0820cf378d2632ca", null ],
+    [ "Validate", "d9/d51/a19615.html#a570bb63c6ed7af58b0b886e8a954dea9", null ]
 ];

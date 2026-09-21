@@ -1,6 +1,6 @@
 var a22235 =
 [
-    [ "HandleHealPct", "d8/d37/a22235.html#aa297ef88b58849610b1b3bfdb0142eab", null ],
-    [ "PrepareSpellScript", "d8/d37/a22235.html#a902b733a4b106439c49f8c80de8e9bf3", null ],
-    [ "Register", "d8/d37/a22235.html#a52f253d2a3b9b3890020107b7722ad96", null ]
+    [ "npc_lord_areteAI", "de/d8f/a22239.html", "de/d8f/a22239" ],
+    [ "npc_lord_arete", "d8/d37/a22235.html#a929e3f3346bf4dbaee127463eaf4ffcc", null ],
+    [ "GetAI", "d8/d37/a22235.html#a212d003e9acb5f141197b5c4d10163a4", null ]
 ];

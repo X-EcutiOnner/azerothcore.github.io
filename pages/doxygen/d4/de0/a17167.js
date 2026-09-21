@@ -1,6 +1,4 @@
 var a17167 =
 [
-    [ "HandleDummy", "d4/de0/a17167.html#a84fb6e08a523f375cd8bc43e9cc73eab", null ],
-    [ "PrepareSpellScript", "d4/de0/a17167.html#accbf8f40b1ab123a2be81a514c94c836", null ],
-    [ "Register", "d4/de0/a17167.html#a1805904d5e50bbf5aeccf37d2cadd09e", null ]
+    [ "boss_dreadscaleAI", "d4/de0/a17167.html#ab0d0f8a7ec6567e8811d09721f6fa9ed", null ]
 ];

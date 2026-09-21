@@ -1,6 +1,7 @@
 var a24235 =
 [
-    [ "npc_infernal_attackerAI", "d8/dd2/a24239.html", "d8/dd2/a24239" ],
-    [ "npc_infernal_attacker", "d4/de0/a24235.html#ac6fbfcf8fc918b48d6b9416a71cfe3fa", null ],
-    [ "GetAI", "d4/de0/a24235.html#ad1d9186c186de36efbe102a07fe89de4", null ]
+    [ "npc_maghar_captiveAI", "d8/dd2/a24239.html", "d8/dd2/a24239" ],
+    [ "npc_maghar_captive", "d4/de0/a24235.html#a59e177f33306ed0bb3de9f640d3685e4", null ],
+    [ "GetAI", "d4/de0/a24235.html#a7f1528549b55edfb5286db4afe6ce50e", null ],
+    [ "OnQuestAccept", "d4/de0/a24235.html#a0cd3a423866b9b5449f8efc729b69c27", null ]
 ];

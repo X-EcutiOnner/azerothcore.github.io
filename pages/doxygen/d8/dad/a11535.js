@@ -1,6 +1,7 @@
 var a11535 =
 [
-    [ "DismissCritter", "d8/dad/a11535.html#a87e35583063b340f014d21cd02c54cab", null ],
-    [ "Read", "d8/dad/a11535.html#a411b65505e8a332ecf9291a670dc38c4", null ],
-    [ "CritterGUID", "d8/dad/a11535.html#a89c071e81c9d39c099c32c4976f15304", null ]
+    [ "TrainerBuySpell", "d8/dad/a11535.html#a8afb92fb908d5efd54bcb78269069d39", null ],
+    [ "Read", "d8/dad/a11535.html#aa916b9d01157f5f8e98efbcacb3bb5a2", null ],
+    [ "SpellID", "d8/dad/a11535.html#ae342c806c8faabae54260a26659d49ea", null ],
+    [ "TrainerGUID", "d8/dad/a11535.html#aca1d9dc89b96415a5065a67f7083423c", null ]
 ];

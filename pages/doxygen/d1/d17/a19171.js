@@ -1,6 +1,6 @@
 var a19171 =
 [
-    [ "OnRemove", "d1/d17/a19171.html#a748868eb89f1fb3ccfec5ea9f8603168", null ],
-    [ "PrepareAuraScript", "d1/d17/a19171.html#a9033a0ef5963800d13b898f7c02ff7b2", null ],
-    [ "Register", "d1/d17/a19171.html#a7ac0cff5f8f918e7a61bbc600419d3c3", null ]
+    [ "npc_captain_rupertAI", "d1/d17/a19171.html#ae91de64c440e71e612f34e37b90076d5", null ],
+    [ "Reset", "d1/d17/a19171.html#a8ebaca725aba2c3aed8856fb23228ae1", null ],
+    [ "UpdateAI", "d1/d17/a19171.html#a2edf4e51c9a5bde61a1875c067e963f2", null ]
 ];

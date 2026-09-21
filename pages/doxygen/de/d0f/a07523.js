@@ -1,6 +1,26 @@
 var a07523 =
 [
-    [ "AuctionSearchBidderListRequest", "de/d0f/a07523.html#a193c39468959c998a2ccae74342983d2", null ],
-    [ "outbiddedAuctionIds", "de/d0f/a07523.html#a6caf25d532b87d38b043cf3aa214f9cd", null ],
-    [ "ownerGuid", "de/d0f/a07523.html#a6fb69f4996993f264466c50e7485c4a6", null ]
+    [ "BuildAuctionMailBody", "de/d0f/a07523.html#a146f034b64f65c03866ecc2f45a9b448", null ],
+    [ "BuildAuctionMailSubject", "de/d0f/a07523.html#a8e3dee79fd65c7f25ca1d74fe7924163", null ],
+    [ "CalculateAuctionOutBid", "de/d0f/a07523.html#aa6854cd3ccd30bafdac8e13f05f97c1d", null ],
+    [ "DeleteFromDB", "de/d0f/a07523.html#a13750d00897a07a57a881c3dcb1f6737", null ],
+    [ "GetAuctionCut", "de/d0f/a07523.html#ab18794a9a9287cee3328625ae715a57e", null ],
+    [ "GetAuctionOutBid", "de/d0f/a07523.html#a0d34f5709de579b0eea0884598755adc", null ],
+    [ "GetFactionId", "de/d0f/a07523.html#ac5f752011b382f3b37a155b13cb5cb69", null ],
+    [ "GetHouseId", "de/d0f/a07523.html#a2d5a849d817aaee17738aba2a53009f9", null ],
+    [ "LoadFromDB", "de/d0f/a07523.html#acca59324d63bc3eb7a0ffa22c6101770", null ],
+    [ "SaveToDB", "de/d0f/a07523.html#a62b83210cbde94626f6e092b454b83d8", null ],
+    [ "auctionHouseEntry", "de/d0f/a07523.html#a46668a8214d200bf508a157aa256e9ec", null ],
+    [ "bid", "de/d0f/a07523.html#a11521c90c74d1eba7d7d3ef55e960a93", null ],
+    [ "bidder", "de/d0f/a07523.html#a3d4e0baffa36cf643b0c645efe4bf3f4", null ],
+    [ "buyout", "de/d0f/a07523.html#aa75d261f77460c16f98f211b481a9af0", null ],
+    [ "deposit", "de/d0f/a07523.html#aa7f8aefd6e3bcda5dbbb8f8d4460871c", null ],
+    [ "expire_time", "de/d0f/a07523.html#a8520c9664918d452d8e6b643df8486b5", null ],
+    [ "houseId", "de/d0f/a07523.html#a014be11a4e161eea637098a4e9243b6f", null ],
+    [ "Id", "de/d0f/a07523.html#aa65a8b6b8be81f705378e2f510196c48", null ],
+    [ "item_guid", "de/d0f/a07523.html#a9b1f40baa8c949995acdab008944f403", null ],
+    [ "item_template", "de/d0f/a07523.html#ac8935b680716aa5c0d50d750fb934bab", null ],
+    [ "itemCount", "de/d0f/a07523.html#aa67975f37a4ef343422a471ef65a98fd", null ],
+    [ "owner", "de/d0f/a07523.html#adf2b61be66a9afc7114198fe993d526d", null ],
+    [ "startbid", "de/d0f/a07523.html#aa1e6771187c237136d34645db9f852f9", null ]
 ];

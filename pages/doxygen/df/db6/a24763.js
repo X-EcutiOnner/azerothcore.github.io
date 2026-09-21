@@ -1,7 +1,7 @@
 var a24763 =
 [
-    [ "CheckProc", "df/db6/a24763.html#a841b1a19cafcbf3b3bf82867cbb23384", null ],
-    [ "HandleProc", "df/db6/a24763.html#a1d2e356b47d793bf9193b03f635ce579", null ],
-    [ "PrepareAuraScript", "df/db6/a24763.html#addfa11cf74409b4bb369c2bbf583c13c", null ],
-    [ "Register", "df/db6/a24763.html#a180fbfc09087cb2cd919734c447fef10", null ]
+    [ "CalculateAmount", "df/db6/a24763.html#ad99a4176d27864280a79ac548a57a4c8", null ],
+    [ "Load", "df/db6/a24763.html#aeafec50b06b5dd2f69ca6ab4096aea4d", null ],
+    [ "PrepareAuraScript", "df/db6/a24763.html#a76528513f0f6728e73085a3d403c3e59", null ],
+    [ "Register", "df/db6/a24763.html#a4d09be7d33755ae719138d079884e281", null ]
 ];

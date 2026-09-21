@@ -1,7 +1,6 @@
 var a19383 =
 [
-    [ "DelayedCastMincharEvent", "d9/d1d/a19383.html#a76d8a08ca273eec5b2e083d136336a15", null ],
-    [ "Execute", "d9/d1d/a19383.html#a12aeff246d07e541ed192974320842cb", null ],
-    [ "_spellId", "d9/d1d/a19383.html#af4ea90407b2c8a283f137d213ffe97be", null ],
-    [ "_trigger", "d9/d1d/a19383.html#a9f3cd02e77ad35b98a6753b792383548", null ]
+    [ "npc_icc_severed_essenceAI", "d5/dfe/a19387.html", "d5/dfe/a19387" ],
+    [ "npc_icc_severed_essence", "d9/d1d/a19383.html#ace5b55755ef1dff3bd08a67fe2f64f94", null ],
+    [ "GetAI", "d9/d1d/a19383.html#a74b8dbb95f3dc31b514a2d7ac1f18190", null ]
 ];

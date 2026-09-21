@@ -1,6 +1,11 @@
 var a14883 =
 [
-    [ "HandleScript", "dd/d7e/a14883.html#a465272dc4e693ab5ce5abd5a3905283b", null ],
-    [ "PrepareSpellScript", "dd/d7e/a14883.html#a26b296c1c4d9f5193dc3773509267284", null ],
-    [ "Register", "dd/d7e/a14883.html#aad66e4079ea9404b9057546d8959a395", null ]
+    [ "npc_winterfin_playmate", "dd/d7e/a14883.html#a9c07fb9115c21ba5c3ef7459662e8f38", null ],
+    [ "MoveInLineOfSight", "dd/d7e/a14883.html#a7e8640e3bfe0a8f960ce22a2daf136a4", null ],
+    [ "Reset", "dd/d7e/a14883.html#aae6b51c22dc0448608c1cf9412565e25", null ],
+    [ "UpdateAI", "dd/d7e/a14883.html#a8e04dc18ee8a6d9412cd574994908eb6", null ],
+    [ "orphanGUID", "dd/d7e/a14883.html#a9189bf7b93e7c46e559c22f3504f919f", null ],
+    [ "phase", "dd/d7e/a14883.html#a0a1051dc971ef393843bd1ba655a2e1b", null ],
+    [ "playerGUID", "dd/d7e/a14883.html#a142fe7a438ee22384f682f26ff4a9f9c", null ],
+    [ "timer", "dd/d7e/a14883.html#abf4b5f3e16f32a3385b71ef002c5ee64", null ]
 ];

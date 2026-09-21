@@ -1,7 +1,7 @@
 var a03491 =
 [
-    [ "instance_trial_of_the_crusader", "d0/da9/a17209.html", "d0/da9/a17209" ],
-    [ "instance_trial_of_the_crusader::instance_trial_of_the_crusader_InstanceMapScript", "d1/dd7/a17213.html", "d1/dd7/a17213" ],
-    [ "AddSC_instance_trial_of_the_crusader", "d0/d17/a03491.html#af823cabf441f9e6a5443da42df4fda4f", null ],
-    [ "validDedicatedInsanityItems", "d0/d17/a03491.html#ad29a01125872f689fb9953e9b3beb8e8", null ]
+    [ "instance_trial_of_the_champion", "d8/d21/a16895.html", "d8/d21/a16895" ],
+    [ "instance_trial_of_the_champion::instance_trial_of_the_champion_InstanceMapScript", "d8/d06/a16899.html", "d8/d06/a16899" ],
+    [ "AddSC_instance_trial_of_the_champion", "d0/d17/a03491.html#a15e8163b6e8598d38b9f8c3b0ab9d5bd", null ],
+    [ "SpawnPosition", "d0/d17/a03491.html#a70438d12d4153aa7d510c89551abf7c9", null ]
 ];

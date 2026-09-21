@@ -1,6 +1,6 @@
 var a27359 =
 [
-    [ "CheckProc", "dc/ded/a27359.html#a4e40a3472a7dde5aaa1d6d4cda54482a", null ],
-    [ "PrepareAuraScript", "dc/ded/a27359.html#af15109e926eb717c3f3cb2f7f617428c", null ],
-    [ "Register", "dc/ded/a27359.html#aee35ceec1ffcdebf5bd712310bdf9f1c", null ]
+    [ "HandleDummy", "dc/ded/a27359.html#a86ec9b4606ae92b070edd4ca863fe93e", null ],
+    [ "PrepareSpellScript", "dc/ded/a27359.html#a4411e4317053450a0ac5217d546952b2", null ],
+    [ "Register", "dc/ded/a27359.html#a9eea8631e0723555a9c328bdfc1e30b7", null ]
 ];

@@ -1,8 +1,9 @@
 var a13027 =
 [
-    [ "boss_garr", "dc/d17/a13027.html#a12ac023b48fc20055cec9e7e8dbfa8a7", null ],
-    [ "JustEngagedWith", "dc/d17/a13027.html#abab82d2e00b373ea1f0e444de23f4987", null ],
-    [ "Reset", "dc/d17/a13027.html#a64bcae059cfa97def7e52a42d404a016", null ],
-    [ "UpdateAI", "dc/d17/a13027.html#a2a412224072b47de6780ea7b8d543743", null ],
-    [ "massEruptionTimer", "dc/d17/a13027.html#a6c428a4c92e4dcbe2fc2b97b5f377560", null ]
+    [ "npc_drakonid_spawner", "dc/d17/a13027.html#a2b657e800dc5cc30c618391413ded116", null ],
+    [ "DoAction", "dc/d17/a13027.html#ab013cff0430c09fe1045fdc735e45182", null ],
+    [ "IsSummonedBy", "dc/d17/a13027.html#a6a2170e0f20736d69006ce6d6c769476", null ],
+    [ "SummonedCreatureDies", "dc/d17/a13027.html#a57dd1fc80cfa43f6afae58e797b4091f", null ],
+    [ "UpdateAI", "dc/d17/a13027.html#a60e79dd8f56e87a2de4a203a63c6f9e3", null ],
+    [ "_owner", "dc/d17/a13027.html#a6e0f0d2f6c265f9e5206f441dead8b2f", null ]
 ];

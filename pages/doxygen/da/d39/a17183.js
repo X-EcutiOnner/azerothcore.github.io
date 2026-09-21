@@ -1,6 +1,6 @@
 var a17183 =
 [
-    [ "HandleEffectApply", "da/d39/a17183.html#aaea2c3733dadc19072c81774468e345a", null ],
-    [ "PrepareAuraScript", "da/d39/a17183.html#a3848997e9f775add50d40342b6211ff0", null ],
-    [ "Register", "da/d39/a17183.html#a775b1cf494049ed13d149ca6318142c3", null ]
+    [ "boss_eydisAI", "d3/d41/a17187.html", "d3/d41/a17187" ],
+    [ "boss_eydis", "da/d39/a17183.html#aa555f80882499bc4627e622fbb48b2a4", null ],
+    [ "GetAI", "da/d39/a17183.html#ad49a673431c479fa2f5d9b6da42bbf55", null ]
 ];

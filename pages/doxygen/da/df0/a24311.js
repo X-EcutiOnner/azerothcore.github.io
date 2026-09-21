@@ -1,9 +1,7 @@
 var a24311 =
 [
-    [ "npc_enraged_spiritAI", "da/df0/a24311.html#aa487c906c1c0d15dc7761c7288e7d3c6", null ],
-    [ "JustDied", "da/df0/a24311.html#a9322622f679dbc311bd8983f5037bd2e", null ],
-    [ "JustEngagedWith", "da/df0/a24311.html#a1d192d0dd563dc2735b23a171b2bf659", null ],
-    [ "Reset", "da/df0/a24311.html#a2d56572acf042ba34f468f0ff3b0bd1a", null ],
-    [ "UpdateAI", "da/df0/a24311.html#adc3d04d66f2b4de7a970f2cd5e476a2b", null ],
-    [ "_scheduler", "da/df0/a24311.html#afa6825696b0622849f877b392df4b326", null ]
+    [ "HandleScriptEffect", "da/df0/a24311.html#ad018d907a85ee31d3194823a4c02a1a5", null ],
+    [ "PrepareSpellScript", "da/df0/a24311.html#a50b6bc43eaeee0ec760c02ac1685454e", null ],
+    [ "Register", "da/df0/a24311.html#a2096673a3f57cc224aeb7d3ce84526cb", null ],
+    [ "Validate", "da/df0/a24311.html#a5209de3456c374010502a94f67ff4544", null ]
 ];

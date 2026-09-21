@@ -1,14 +1,21 @@
 var a10199 =
 [
-    [ "DoublePosition", "d3/d45/a10199.html#a59190a2456f052c6ffa6e181ced94a4f", null ],
-    [ "DoublePosition", "d3/d45/a10199.html#a9900e06c36c6ebc4edd0ba45264990b8", null ],
-    [ "DoublePosition", "d3/d45/a10199.html#a543ff52f7b278f68cc36ee880932e744", null ],
-    [ "GetDoubleExactDist2dSq", "d3/d45/a10199.html#ae17b4e695ff23a8ec323405801f2013a", null ],
-    [ "GetDoublePositionX", "d3/d45/a10199.html#a7c769d1762f99150a46ceaa2b2bfa8e8", null ],
-    [ "GetDoublePositionY", "d3/d45/a10199.html#a201096c85022d54b1d9dbe9264df901f", null ],
-    [ "GetDoublePositionZ", "d3/d45/a10199.html#a01fc3985229b6bd03e6d1da95f871c17", null ],
-    [ "sync", "d3/d45/a10199.html#a75e75187d6663591a39c87bc1086aebd", null ],
-    [ "DoublePosX", "d3/d45/a10199.html#a4f9ffbbe4396f3ec26a81139f5868e2e", null ],
-    [ "DoublePosY", "d3/d45/a10199.html#a90839893f3a58a72a07177d3eee1d691", null ],
-    [ "DoublePosZ", "d3/d45/a10199.html#a19af503e9623ccaeb032bfe9f0a0ed63", null ]
+    [ "LootGroup", "dd/dcb/a10179.html", "dd/dcb/a10179" ],
+    [ "LootGroups", "d3/d45/a10199.html#ae9845401121ac8712dc8dfac9c58c72e", null ],
+    [ "LootTemplate", "d3/d45/a10199.html#a533d3acacc8086a6f8f75013dd790a94", null ],
+    [ "~LootTemplate", "d3/d45/a10199.html#a90b641a69173129d7114c303cd5a31b5", null ],
+    [ "LootTemplate", "d3/d45/a10199.html#a73cc21e48ec8e63b2664a4ece9a3ab21", null ],
+    [ "addConditionItem", "d3/d45/a10199.html#afb33c896a89f0fe14e2b565bb746119e", null ],
+    [ "AddEntry", "d3/d45/a10199.html#a6efe32c6f83184ae0bf0423a7f23118a", null ],
+    [ "CheckLootRefs", "d3/d45/a10199.html#a19e8a2736ba5fd376ad3854cbc68867d", null ],
+    [ "CopyConditions", "d3/d45/a10199.html#a5935f936e90ecc860c49d256127d9726", null ],
+    [ "CopyConditions", "d3/d45/a10199.html#a477c848bcf79153cc430c8d03bbea054", null ],
+    [ "HasQuestDrop", "d3/d45/a10199.html#ae88cc77aa554940030613a15cc05c045", null ],
+    [ "HasQuestDropForPlayer", "d3/d45/a10199.html#a7835ebf003ae3d665656efcc923daaeb", null ],
+    [ "isReference", "d3/d45/a10199.html#acdf75466d9f29ff8a4532c4b6e15bd03", null ],
+    [ "operator=", "d3/d45/a10199.html#a92de3d68e0ec2ab31b1dd17279a3f832", null ],
+    [ "Process", "d3/d45/a10199.html#ae3f86961858f299f8e7ca683733bb127", null ],
+    [ "Verify", "d3/d45/a10199.html#adedb1f03278aaeac63deb3dd32e07329", null ],
+    [ "Entries", "d3/d45/a10199.html#aba1fdfb69c34a9d4a09428114d385621", null ],
+    [ "Groups", "d3/d45/a10199.html#aec4552a98c1e27935da8ef29c9449f87", null ]
 ];

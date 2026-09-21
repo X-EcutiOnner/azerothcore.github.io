@@ -1,5 +1,6 @@
 var a25979 =
 [
-    [ "PrepareSpellScript", "d6/dcc/a25979.html#a065d81d698c978bcdd234712807e9098", null ],
-    [ "Register", "d6/dcc/a25979.html#a3efcd145189b27272495110c799cf14f", null ]
+    [ "OnBaseRemove", "d6/dcc/a25979.html#aa6d10399bba721ff7a3651508fcdf449", null ],
+    [ "PrepareAuraScript", "d6/dcc/a25979.html#a34ad4890c7ce30427537e36980057e57", null ],
+    [ "Register", "d6/dcc/a25979.html#a713e694cad6f1cf533d45f5d633da36e", null ]
 ];

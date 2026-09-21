@@ -1,6 +1,6 @@
 var a26779 =
 [
-    [ "CalculateAmount", "d2/dc2/a26779.html#a9c4a38bb60cc61156da5bd1b89b3e116", null ],
-    [ "PrepareAuraScript", "d2/dc2/a26779.html#a5bd55cb8b992f7ceb52f7193bcdbf210", null ],
-    [ "Register", "d2/dc2/a26779.html#a1f717d941f8d100eb73d7e2a3b638bad", null ]
+    [ "CheckEffectProc", "d2/dc2/a26779.html#af7756cdb71cc2acc15c56fffc49609f4", null ],
+    [ "PrepareAuraScript", "d2/dc2/a26779.html#a1025c7edec455f647c5c37ffebdf7576", null ],
+    [ "Register", "d2/dc2/a26779.html#a282d4aced8b34e5d800e13dc8e71ef7b", null ]
 ];

@@ -1,5 +1,9 @@
 var a21147 =
 [
-    [ "achievement_yogg_saron_kiss_and_make_up", "d1/d6a/a21147.html#a9f2e5fe9de59a9b5a00c0e73e8f9b376", null ],
-    [ "OnCheck", "d1/d6a/a21147.html#a8ce7df713b804d5bdd5f6f47d77fc1b8", null ]
+    [ "HandleOnEffectApply", "d1/d6a/a21147.html#a3e35c98bd5867bbb6c77b16d89ab74a9", null ],
+    [ "OnPeriodic", "d1/d6a/a21147.html#a49ad44eba19416743bd26252d1b40d71", null ],
+    [ "PrepareAuraScript", "d1/d6a/a21147.html#ae0c475babb67cebb245d6d85b50cd694", null ],
+    [ "Register", "d1/d6a/a21147.html#af56875f1bb85d5524841a5bbb399d7d4", null ],
+    [ "Validate", "d1/d6a/a21147.html#ab383a0a207aa78b7efcd400765ad0838", null ],
+    [ "_targetGUID", "d1/d6a/a21147.html#a9e7c6087b1c7ce3c32be661da037f1e0", null ]
 ];

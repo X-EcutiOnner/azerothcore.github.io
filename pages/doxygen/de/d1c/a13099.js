@@ -1,6 +1,7 @@
 var a13099 =
 [
-    [ "boss_shazzrah", "de/d1c/a13099.html#a9886c4c93017936beae1babacffa76a2", null ],
-    [ "ExecuteEvent", "de/d1c/a13099.html#a2d8ab48c6abb3e0334ef54e0b918ff27", null ],
-    [ "JustEngagedWith", "de/d1c/a13099.html#aa23aecbb28a9bb1fc138691f143f8e53", null ]
+    [ "HandleAfterApply", "de/d1c/a13099.html#a8f55616f861cccf7126f7e1a7c88f3c1", null ],
+    [ "HandleAfterRemove", "de/d1c/a13099.html#a7970613f1668294f29f61c1f10a9ba37", null ],
+    [ "PrepareAuraScript", "de/d1c/a13099.html#aea2f52682e723f8dacfffa20cd0f41a5", null ],
+    [ "Register", "de/d1c/a13099.html#ae38b71adaff3b36f5d7b3007e84e620f", null ]
 ];

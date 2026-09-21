@@ -1,10 +1,8 @@
 var a03068 =
 [
-    [ "spell_utgarde_pinnacle_beast_mark", "da/ddd/a21469.html", "da/ddd/a21469" ],
-    [ "UtgardeSpells", "da/d5d/a03068.html#ae8fa29243650c07aed99f9ee3cad321a", [
-      [ "SPELL_BEAST_MARK_NORMAL", "da/d5d/a03068.html#ae8fa29243650c07aed99f9ee3cad321aa515971380a351ffe4dc21aefd7d9a8aa", null ],
-      [ "SPELL_BEAST_MARK_DAMAGE_N", "da/d5d/a03068.html#ae8fa29243650c07aed99f9ee3cad321aa519ee30eba59f71f788bd5aaa9ea8a4f", null ],
-      [ "SPELL_BEAST_MARK_DAMAGE_H", "da/d5d/a03068.html#ae8fa29243650c07aed99f9ee3cad321aa28cc83c9c8ba75d8dd51298affc35aa7", null ]
-    ] ],
-    [ "AddSC_utgarde_pinnacle", "da/d5d/a03068.html#aa865b80ad4fb44b0c96fa45f08d06d71", null ]
+    [ "instance_utgarde_pinnacle", "d7/d0f/a21479.html", "d7/d0f/a21479" ],
+    [ "instance_utgarde_pinnacle::instance_utgarde_pinnacle_InstanceMapScript", "d5/d36/a21483.html", "d5/d36/a21483" ],
+    [ "AddSC_instance_utgarde_pinnacle", "da/d5d/a03068.html#a3469cdfafe3d81dca68950e7a6a6370d", null ],
+    [ "creatureData", "da/d5d/a03068.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "summonData", "da/d5d/a03068.html#af7ba92b4a76e9cb7835c84a49f9c2052", null ]
 ];

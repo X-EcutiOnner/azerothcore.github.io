@@ -1,5 +1,7 @@
 var a20291 =
 [
-    [ "FlameLeviathanPursuedTargetSelector", "d8/da4/a20291.html#acc855eaab1e9590e1fcfae6ed8d37815", null ],
-    [ "operator()", "d8/da4/a20291.html#aaa2a49366fb651f7486b463ce597f364", null ]
+    [ "HandleScriptEffect", "d8/da4/a20291.html#a96033c335117fa39e96a2dd70c44616a", null ],
+    [ "PrepareSpellScript", "d8/da4/a20291.html#abf5f28d0fdb86a55b5b6f545a1fec633", null ],
+    [ "Register", "d8/da4/a20291.html#a0acb0e31242fda06456081ef2937157e", null ],
+    [ "Validate", "d8/da4/a20291.html#a648ce84276009cdee91c921b99193aea", null ]
 ];

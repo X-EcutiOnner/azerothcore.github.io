@@ -1,8 +1,9 @@
 var a16487 =
 [
-    [ "boss_sartharion_vesperon", "dc/dfb/a16487.html#a3ce6d2036faa108cb97ebf75bdb6ad33", null ],
-    [ "ClearInstance", "dc/dfb/a16487.html#a0c45127e9eb2be20765f92e1161e2e5a", null ],
-    [ "ExecuteEvent", "dc/dfb/a16487.html#aefc42452e75c476aef39ba0df3a03d70", null ],
-    [ "Reset", "dc/dfb/a16487.html#a948bfddea4eb3c0fe471d8f501a88d6c", null ],
-    [ "SummonedCreatureDies", "dc/dfb/a16487.html#a9df29b4c71c93da8cf7ae9f81b870345", null ]
+    [ "npc_anub_ar_crusher", "dc/dfb/a16487.html#a0520d606e8f8fa6f2c1262e025ea2c1c", null ],
+    [ "DamageTaken", "dc/dfb/a16487.html#a4fa72bcf368ddc6e8bb4cd986fa50cd2", null ],
+    [ "DoEngagedWith", "dc/dfb/a16487.html#a70238afe4b9ae58b99067581db6734c8", null ],
+    [ "DoEvent", "dc/dfb/a16487.html#ac20630563a1869f56f538968cb8bb1ea", null ],
+    [ "JustDied", "dc/dfb/a16487.html#a66dc8cb3dc096dc0aa5b464879773df7", null ],
+    [ "_hadFrenzy", "dc/dfb/a16487.html#a0e3c9d35a654e82d5f845b820de2a9a1", null ]
 ];

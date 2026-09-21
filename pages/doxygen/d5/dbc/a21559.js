@@ -1,7 +1,6 @@
 var a21559 =
 [
-    [ "npc_azure_spellbreaker", "d5/dbc/a21559.html#ae884adc9619d3458d81a2029bd490893", null ],
-    [ "Reset", "d5/dbc/a21559.html#a32e4674bac67f1a259c68c32ef0d1358", null ],
-    [ "UpdateAI", "d5/dbc/a21559.html#a938a93a71490bb42158e2215d125509f", null ],
-    [ "_events", "d5/dbc/a21559.html#a9f526cff54cb949cc68046e7816c3c89", null ]
+    [ "npc_frozen_orb_stalkerAI", "d5/dbc/a21559.html#afd8d187ecbf508d02824d1ff8f3cb5cf", null ],
+    [ "JustSummoned", "d5/dbc/a21559.html#a73d7d5e55d2a00c9aee6f595e2678b17", null ],
+    [ "Reset", "d5/dbc/a21559.html#a064ccb90afeb9b36d501850482c60bc4", null ]
 ];

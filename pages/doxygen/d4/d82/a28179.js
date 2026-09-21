@@ -1,7 +1,5 @@
 var a28179 =
 [
-    [ "npc_spirit_shadeAI", "d4/d82/a28179.html#a8b7bf7c7cc541a47be79aad76a9bbcbc", null ],
-    [ "IsSummonedBy", "d4/d82/a28179.html#a3a7fcb4af8e3b27e06b4665e8a864b38", null ],
-    [ "MovementInform", "d4/d82/a28179.html#ab001fdc09efe9f8c03ad1b7610124e6d", null ],
-    [ "_summonerGuid", "d4/d82/a28179.html#aa7c6abb848ab37f407a3553d04d0ad81", null ]
+    [ "achievement_flirt_with_disaster_perf_check", "d4/d82/a28179.html#a8cb843ed26248ceff594ef552b0ae9ae", null ],
+    [ "OnCheck", "d4/d82/a28179.html#a15e620be2f37f930477ba94293dbaf63", null ]
 ];

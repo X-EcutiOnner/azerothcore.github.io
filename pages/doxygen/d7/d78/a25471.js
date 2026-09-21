@@ -1,7 +1,7 @@
 var a25471 =
 [
-    [ "EjectPassenger", "d7/d78/a25471.html#a17ead3b25e5cebda3c9d5008f54f27ef", null ],
-    [ "PrepareSpellScript", "d7/d78/a25471.html#abada0f860ea3cd6c16fbe4d73263d95a", null ],
-    [ "Register", "d7/d78/a25471.html#ad5af65bc326aebcc1a2e19dabe624ad1", null ],
-    [ "Validate", "d7/d78/a25471.html#a24ad6ca59f4f38cfa34de16c4167944e", null ]
+    [ "CheckIfLanceEquipped", "d7/d78/a25471.html#aae1fe4d0329b7a2db5e4f2a28e3f04c5", null ],
+    [ "PrepareSpellScript", "d7/d78/a25471.html#a2af9ee2ccd34c97734c58bfcbb83c8b5", null ],
+    [ "Register", "d7/d78/a25471.html#a4421ceaedce16777f8f04b9c40855782", null ],
+    [ "Validate", "d7/d78/a25471.html#ab0908d7a15e7554c735d8e5554f7cd65", null ]
 ];

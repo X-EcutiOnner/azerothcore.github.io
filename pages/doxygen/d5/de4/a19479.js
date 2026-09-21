@@ -1,7 +1,9 @@
 var a19479 =
 [
-    [ "HandleScriptEffect", "d5/de4/a19479.html#afa9d5c6fd0666a7fa1a6f4d5acabe782", null ],
-    [ "PrepareSpellScript", "d5/de4/a19479.html#a21a3175346c9b12c02205f2d33da3b86", null ],
-    [ "Register", "d5/de4/a19479.html#af5f279ad20e9153f201262eaa7615978", null ],
-    [ "Validate", "d5/de4/a19479.html#a635ff34619767f657778016e1eb901aa", null ]
+    [ "npc_isle_of_conquest_turretAI", "d5/de4/a19479.html#a0a0f24af22e4c72e843970c0d5c1ff87", null ],
+    [ "JustDied", "d5/de4/a19479.html#a88390da94298bea9c445bb422a806d23", null ],
+    [ "SpellHit", "d5/de4/a19479.html#afc8b8a9be6b0908fcb83af57bef7a57a", null ],
+    [ "UpdateAI", "d5/de4/a19479.html#a81c039a2a230b261967842161757b6f8", null ],
+    [ "events", "d5/de4/a19479.html#aee0aa5a950b3743409fd3ae482bc94b8", null ],
+    [ "faction", "d5/de4/a19479.html#aca941c070a97278c8ec27d7e6b4edede", null ]
 ];

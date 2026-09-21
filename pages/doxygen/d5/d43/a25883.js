@@ -1,7 +1,6 @@
 var a25883 =
 [
-    [ "HandleScriptEffect", "d5/d43/a25883.html#acbcc05fa433f5bf75998b15e4e25fdad", null ],
-    [ "PrepareSpellScript", "d5/d43/a25883.html#adf5a3b94012ac871c70f5782d57ae1cd", null ],
-    [ "Register", "d5/d43/a25883.html#a00596a3f8f0699c25e52a5778d59a2b2", null ],
-    [ "SelectTarget", "d5/d43/a25883.html#a6a59b7ce696f959b2026cf8088079e89", null ]
+    [ "CheckCast", "d5/d43/a25883.html#ac1bc3f881c31c5ab90785a62a5f5b5ae", null ],
+    [ "PrepareSpellScript", "d5/d43/a25883.html#a2a9c657ccffbacfc661c6bb1dc41d9de", null ],
+    [ "Register", "d5/d43/a25883.html#a4b34bd5ce9d3e948d6c712d71ed71b2d", null ]
 ];

@@ -1,6 +1,11 @@
 var a15303 =
 [
-    [ "npc_cos_chromie_start", "d6/d79/a15303.html#ae8f810af1e593ad16958049f6ad19616", null ],
-    [ "OnGossipSelect", "d6/d79/a15303.html#a80db05062f24dd2d5bc0bb6996cf8a30", null ],
-    [ "OnQuestAccept", "d6/d79/a15303.html#a81ff4586ca64f198748aa84e1ffd9018", null ]
+    [ "npc_hyjal_ground_trash", "d6/d79/a15303.html#a06b590bf9ef983b1ef2b94058144fc7d", null ],
+    [ "AttackStart", "d6/d79/a15303.html#a0ab86d651644dcc579585176c2b5c07e", null ],
+    [ "DoAction", "d6/d79/a15303.html#aa92481bcf993c4eda5ef271145200d77", null ],
+    [ "GetNearbyFriendlyTrashCreature", "d6/d79/a15303.html#ad94fe6d4dca64fa8eec183481f82bb39", null ],
+    [ "JustEngagedWith", "d6/d79/a15303.html#a576b909d65ae862af5dcc6500d2ff7e1", null ],
+    [ "PathEndReached", "d6/d79/a15303.html#a035610284a56e690200f978b0fd496ab", null ],
+    [ "Reset", "d6/d79/a15303.html#aa38b45f63841c049a2add0a9832268ef", null ],
+    [ "UpdateAI", "d6/d79/a15303.html#a91b3ee049bf199271618afd3ad0c5f77", null ]
 ];

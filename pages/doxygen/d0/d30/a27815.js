@@ -1,8 +1,10 @@
 var a27815 =
 [
-    [ "ApplyEffect", "d0/d30/a27815.html#a0c303c58064236969e17d1f2df3e0556", null ],
-    [ "PrepareAuraScript", "d0/d30/a27815.html#a716a483282946f840ac15d73c6e21a94", null ],
-    [ "Register", "d0/d30/a27815.html#ad72816bc73bdb1cf578f3c4599ec1682", null ],
-    [ "RemoveEffect", "d0/d30/a27815.html#a571b1b19f4d5b13e54288aa89ab1e9b6", null ],
-    [ "Validate", "d0/d30/a27815.html#a99eb27ead6f5c8c8f569626600f2daf9", null ]
+    [ "CalcPeriodic", "d0/d30/a27815.html#abd23b7e24d9688dd4b9cbe70cdd45d75", null ],
+    [ "CalculateAmount", "d0/d30/a27815.html#a55aa6c6a23e4db0f407b86bcf95d3761", null ],
+    [ "HandleEffectCalcSpellMod", "d0/d30/a27815.html#a8c888218fde2176a3c3b5cb97fdce5de", null ],
+    [ "HandlePeriodic", "d0/d30/a27815.html#ae2c4de235fc727039a50f1b6ba729422", null ],
+    [ "Load", "d0/d30/a27815.html#a9e1a5a07db18f6ff238276f9e1c44321", null ],
+    [ "PrepareAuraScript", "d0/d30/a27815.html#a847c1db1bf92baeba47260ffbacbcdd9", null ],
+    [ "Register", "d0/d30/a27815.html#a9241ab85d616f4f17c52b3730c5434e1", null ]
 ];

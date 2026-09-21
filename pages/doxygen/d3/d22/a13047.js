@@ -1,10 +1,7 @@
 var a13047 =
 [
-    [ "boss_golemagg", "d3/d22/a13047.html#ac7a23be0a51bd73b5c5b8215ba31412e", null ],
-    [ "DamageTaken", "d3/d22/a13047.html#acf0917a65764074ebb11d51cb537c2f5", null ],
-    [ "Reset", "d3/d22/a13047.html#ac663539bac3bcd858dfbfba6095172dd", null ],
-    [ "UpdateAI", "d3/d22/a13047.html#aa68a9ff1858591b65ad650c18954bdea", null ],
-    [ "earthquakeTimer", "d3/d22/a13047.html#ad581b8e54e08342041886b180c139db0", null ],
-    [ "enraged", "d3/d22/a13047.html#a27a5041fcf93a3da6fe2130af24de386", null ],
-    [ "pyroblastTimer", "d3/d22/a13047.html#aae54e1e74dd44329af4f66bf26b2e277", null ]
+    [ "HandleDummy", "d3/d22/a13047.html#a7fca477ef5c86d543cd59571ad8dc7de", null ],
+    [ "PrepareSpellScript", "d3/d22/a13047.html#a6ec124990f202af0c6063c285bf04d88", null ],
+    [ "Register", "d3/d22/a13047.html#a5adf9f0bbe5b72c4c22f569086582f0f", null ],
+    [ "Validate", "d3/d22/a13047.html#ae35efa08f507aac5b72166a216d01870", null ]
 ];

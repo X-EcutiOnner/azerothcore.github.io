@@ -1,7 +1,14 @@
 var a21327 =
 [
-    [ "HandleScript", "d3/d6d/a21327.html#ac8d984ac87f51050113f7ac1a4625785", null ],
-    [ "PrepareSpellScript", "d3/d6d/a21327.html#a34f6166e27cb99e424dd081ffce704a5", null ],
-    [ "Register", "d3/d6d/a21327.html#a0dd5b7a8cf086ee3b5a6f30326874ee3", null ],
-    [ "Validate", "d3/d6d/a21327.html#a364c96f7253fde59e1a9a59a42c4d3a5", null ]
+    [ "boss_dalronn_the_controller", "d3/d6d/a21327.html#a57718e928fa273bba3c40a05d5888a3d", null ],
+    [ "DoAction", "d3/d6d/a21327.html#ad11e43d40a61f093b5e51482437467b8", null ],
+    [ "JustDied", "d3/d6d/a21327.html#a28a669b56392b599e124573778e33134", null ],
+    [ "JustEngagedWith", "d3/d6d/a21327.html#aad89cfa81c69058adc633e85ded5b4e3", null ],
+    [ "JustSummoned", "d3/d6d/a21327.html#a1d419cec78a9a8d6ceee3651c8054762", null ],
+    [ "KilledUnit", "d3/d6d/a21327.html#a96a173e30ad81c77217b0693d1d15839", null ],
+    [ "Reset", "d3/d6d/a21327.html#a452f1bd3428cc0f4b4413d253c5f29e7", null ],
+    [ "UpdateAI", "d3/d6d/a21327.html#a1c3e44fe347e9c1ec45db19865bb5110", null ],
+    [ "events", "d3/d6d/a21327.html#a44c463df3aeb8010fa1a1cc5de82b9f1", null ],
+    [ "pInstance", "d3/d6d/a21327.html#a53e17abc63ce51830c1bcd5bd47f2a95", null ],
+    [ "summons", "d3/d6d/a21327.html#ac2845d24aa036372cd0084d2b5e8090b", null ]
 ];

@@ -1,7 +1,8 @@
 var a20371 =
 [
-    [ "boss_freya_lifebinder", "dd/d59/a20371.html#a1784d6e975192a7442cabb14f688737d", null ],
-    [ "Reset", "dd/d59/a20371.html#a48a829c75000d93cfb3c6a02aa0af495", null ],
-    [ "UpdateAI", "dd/d59/a20371.html#ae43e7663ee263e223ff286ac1fedeef8", null ],
-    [ "_scheduler", "dd/d59/a20371.html#a5c19f04cec9cd899feee7ce2878563cf", null ]
+    [ "OnApply", "dd/d59/a20371.html#a5aec8606684637bbdb1e819254f5d483", null ],
+    [ "OnRemove", "dd/d59/a20371.html#add485a2fd5fdd068d7258d3c9c0d9c2b", null ],
+    [ "PrepareAuraScript", "dd/d59/a20371.html#adcc21606209dc2f32c1173c7ab4c5579", null ],
+    [ "Register", "dd/d59/a20371.html#af1db6ca387cf0733ba4b9c324172d692", null ],
+    [ "Validate", "dd/d59/a20371.html#a332d01b39295ea9a11773be9aa9c3fb3", null ]
 ];

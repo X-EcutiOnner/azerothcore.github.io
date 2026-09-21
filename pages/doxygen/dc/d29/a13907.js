@@ -1,6 +1,6 @@
 var a13907 =
 [
-    [ "instance_sunwell_plateau_InstanceMapScript", "dc/d29/a13907.html#aae99b35ff990fd7486d5b70693b6729a", null ],
-    [ "Load", "dc/d29/a13907.html#a5398f0aa153f7c4eaea390e33c400b02", null ],
-    [ "OnPlayerEnter", "dc/d29/a13907.html#ab45827eaa92aea4746378b3c11fda219", null ]
+    [ "FilterTargets", "dc/d29/a13907.html#aa6c8db9ae3ffd14e0841c98633115a9b", null ],
+    [ "PrepareSpellScript", "dc/d29/a13907.html#a502f57c8567bc7ed15035d89ea26f4a6", null ],
+    [ "Register", "dc/d29/a13907.html#aa3f50e9c6d430d3a1bc83c382c08b189", null ]
 ];

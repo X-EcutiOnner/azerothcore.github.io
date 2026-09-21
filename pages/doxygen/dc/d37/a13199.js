@@ -1,16 +1,9 @@
 var a13199 =
 [
-    [ "boss_attumen", "dc/d37/a13199.html#a394925c2a44b0bfe8931ae88dd9868ae", null ],
-    [ "DamageTaken", "dc/d37/a13199.html#a0b426b760d9ace05211c3383e7628022", null ],
-    [ "EnterEvadeMode", "dc/d37/a13199.html#af00f91294c04d0fe932c922fd270c5dc", null ],
-    [ "Initialize", "dc/d37/a13199.html#ac89445e6a04c2d8cd04e53f4aea30c58", null ],
-    [ "IsSummonedBy", "dc/d37/a13199.html#a1fa6827c323cbda15e2a438bc376e74c", null ],
-    [ "JustDied", "dc/d37/a13199.html#a375a95d46f8db8a53ea6420dd557855e", null ],
-    [ "JustSummoned", "dc/d37/a13199.html#af91018e54244864ca4cd1b9d40c569df", null ],
-    [ "KilledUnit", "dc/d37/a13199.html#ad167a1ec5ff737ad77b0c492efc022f0", null ],
-    [ "Reset", "dc/d37/a13199.html#ab8815ed9b1068e748e43346725cd9281", null ],
-    [ "ScheduleTasks", "dc/d37/a13199.html#ae63d0a3c7ae4ad755f091f2d31342a57", null ],
-    [ "SpellHit", "dc/d37/a13199.html#a1181ae1d50d6c52483b0d90423997c90", null ],
-    [ "UpdateAI", "dc/d37/a13199.html#aac982f13b35e7c37b49a4e76ace5fccd", null ],
-    [ "_phase", "dc/d37/a13199.html#a8a668537dc5b7c01e6d9d91c67d6da72", null ]
+    [ "npc_mc_core_hound", "dc/d37/a13199.html#a4768b06f344d6bbf7e3d0cef16e1b75d", null ],
+    [ "DamageTaken", "dc/d37/a13199.html#a1b9cd2776b1a3f363915fc91e1e34414", null ],
+    [ "Reset", "dc/d37/a13199.html#ab2bfa697f694b5b35129b361e171e2a4", null ],
+    [ "UpdateAI", "dc/d37/a13199.html#a9c5081e9c622eb0679cd396caed002b9", null ],
+    [ "instance", "dc/d37/a13199.html#a54da081c07184ebd5eed1ffe9a1dd8ee", null ],
+    [ "serratedBiteTimer", "dc/d37/a13199.html#afbe528a9f7d2afc6d33bf11f589d9dea", null ]
 ];

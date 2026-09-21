@@ -1,6 +1,7 @@
 var a27483 =
 [
-    [ "HandleAfterCast", "d9/df4/a27483.html#a6f21938e84e45848fad74a16f1f52c48", null ],
-    [ "PrepareSpellScript", "d9/df4/a27483.html#ac7abeee05c117595696faf1ec55e11bd", null ],
-    [ "Register", "d9/df4/a27483.html#a9e90a6fa037627ac682f4ea050f557de", null ]
+    [ "CalculateAmount", "d9/df4/a27483.html#aefeab4e58c1b5c1be87f583256d366f5", null ],
+    [ "Load", "d9/df4/a27483.html#ae2ef0eae77137c120ec61af8698677db", null ],
+    [ "PrepareAuraScript", "d9/df4/a27483.html#acaecc78c031aa436f432fd7145478de4", null ],
+    [ "Register", "d9/df4/a27483.html#afd27c8bc5fd1628b7e32bf464bfe3d48", null ]
 ];

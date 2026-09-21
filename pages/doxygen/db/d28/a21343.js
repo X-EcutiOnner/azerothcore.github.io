@@ -1,9 +1,10 @@
 var a21343 =
 [
-    [ "CastTheNextTwoSpells", "db/d28/a21343.html#a70a154ea5c19c36630e94c5214ee6722", null ],
-    [ "OnPeriodic", "db/d28/a21343.html#ac9b99d9328affec2787691f80e0cc9c3", null ],
-    [ "PrepareAuraScript", "db/d28/a21343.html#ac7450be0713ce98e7986d322a58289f6", null ],
-    [ "PushBackTheNextTwoSpells", "db/d28/a21343.html#a9e470116c80cf56b425e344d73e44533", null ],
-    [ "Register", "db/d28/a21343.html#ad948e7cb5a64ed5bd202c10b28285d9c", null ],
-    [ "_summonSpells", "db/d28/a21343.html#a578dbb8c828e3acf36b21a38628c94e1", null ]
+    [ "npc_enslaved_proto_drake", "db/d28/a21343.html#aec835fdc8b1beb270176d5341d26c265", null ],
+    [ "MovementInform", "db/d28/a21343.html#ad2a25f78a82e0f2cef1e7809cb1d7d89", null ],
+    [ "Reset", "db/d28/a21343.html#a3c1ea80e356e33c4a4b7ed5d083fc7b5", null ],
+    [ "SetData", "db/d28/a21343.html#a888219a604e4c95a5a3e442fcf8c1a39", null ],
+    [ "UpdateAI", "db/d28/a21343.html#a252f84198df610bac44b6bd9cd80602e", null ],
+    [ "_events", "db/d28/a21343.html#a89b48d6fb010bc9611b625e5f02b94d3", null ],
+    [ "_setData", "db/d28/a21343.html#adb997badd8831dea7763eaecc93b7773", null ]
 ];

@@ -1,7 +1,6 @@
 var a13979 =
 [
-    [ "npc_eris_hevenfireAI", "d3/d21/a13983.html", "d3/d21/a13983" ],
-    [ "npc_eris_hevenfire", "df/d2e/a13979.html#a77f0836dc0b19114316b8b67839d8033", null ],
-    [ "GetAI", "df/d2e/a13979.html#ad67a81ad20fac785c199c16fea8fe6f8", null ],
-    [ "OnQuestAccept", "df/d2e/a13979.html#a1e0baec5706cfddd678b58eb9359997e", null ]
+    [ "ChangeSummonPos", "df/d2e/a13979.html#ae24a7c8279a92f1018748a0e930736ac", null ],
+    [ "PrepareSpellScript", "df/d2e/a13979.html#a7b6cd9464f27676f0c74224ef1b1a9cc", null ],
+    [ "Register", "df/d2e/a13979.html#a03a1a1e5501452eacaceadd9725f2287", null ]
 ];

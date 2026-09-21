@@ -1,6 +1,13 @@
 var a12331 =
 [
-    [ "rainChance", "d6/de9/a05083.html#ga8c3d9f1d251a9b167c9adc99101e5612", null ],
-    [ "snowChance", "d6/de9/a05083.html#ga474650c5237c4a7428e858775fea7b86", null ],
-    [ "stormChance", "d6/de9/a05083.html#gaa50e5243877e8283f30ee9376b2d519e", null ]
+    [ "PlayerDumpWriter", "d8/d8d/a12331.html#a060152c060b37c4bf1208a99edc4a840", null ],
+    [ "AppendTable", "d8/d8d/a12331.html#a7f285fddf6d33dd1664b5af801f110e9", null ],
+    [ "GetDump", "d8/d8d/a12331.html#a17457008e1262c0aed284469e55841c6", null ],
+    [ "PopulateGuids", "d8/d8d/a12331.html#aab122c84eefe801ac23211ec5a41e888", null ],
+    [ "WriteDumpToFile", "d8/d8d/a12331.html#a81612bfc0d161595f4de1a6133d5c46d", null ],
+    [ "WriteDumpToString", "d8/d8d/a12331.html#a43d30815c9b3b2608e0fecad7bba7254", null ],
+    [ "_items", "d8/d8d/a12331.html#a5da825b82a09809ded2ce2c88458cc26", null ],
+    [ "_itemSets", "d8/d8d/a12331.html#a33ff3a269064d883eff84ec83c394e92", null ],
+    [ "_mails", "d8/d8d/a12331.html#a2863e88ee13debe77e4b1d3d0960d18a", null ],
+    [ "_pets", "d8/d8d/a12331.html#a33325b0514324020bba98364a7f59de5", null ]
 ];

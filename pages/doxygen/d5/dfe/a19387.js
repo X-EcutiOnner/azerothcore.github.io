@@ -1,6 +1,9 @@
 var a19387 =
 [
-    [ "instance_icecrown_citadel_InstanceMapScript", "d2/d32/a19391.html", "d2/d32/a19391" ],
-    [ "instance_icecrown_citadel", "d5/dfe/a19387.html#a0901e23025cff08d1a7516bbef099ffa", null ],
-    [ "GetInstanceScript", "d5/dfe/a19387.html#a787c32626681f15f5515385a9ba6b848", null ]
+    [ "npc_icc_severed_essenceAI", "d5/dfe/a19387.html#a76366c33ab9ec7aa291c0df657fbef68", null ],
+    [ "CanAIAttack", "d5/dfe/a19387.html#a2cc2cfc967f9ad966d76571eb0eb630f", null ],
+    [ "DoAction", "d5/dfe/a19387.html#a938af3a7de5b26432e1ad515a326a032", null ],
+    [ "UpdateAI", "d5/dfe/a19387.html#a66e3324baa87ba109dd968a517ee82a5", null ],
+    [ "Class", "d5/dfe/a19387.html#aa627713be3a2ac01336d158d96aaccc7", null ],
+    [ "events", "d5/dfe/a19387.html#a1bab216925c4123d633d9613bb80365c", null ]
 ];

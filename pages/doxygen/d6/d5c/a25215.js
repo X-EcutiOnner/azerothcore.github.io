@@ -1,6 +1,7 @@
 var a25215 =
 [
-    [ "HandleScript", "d6/d5c/a25215.html#aa6104370d5700e43223c7138e941ba05", null ],
-    [ "PrepareSpellScript", "d6/d5c/a25215.html#ae4177c84bf0c63aadaa7486603df04d0", null ],
-    [ "Register", "d6/d5c/a25215.html#a88a8534a1dd825a14fd6b10933986eb7", null ]
+    [ "HandleApply", "d6/d5c/a25215.html#a75f7fc139cf72aeaa2cc09ba30a8f119", null ],
+    [ "HandlePeriodicTimer", "d6/d5c/a25215.html#ae9f438dd0833b2ad214acef0e558a8be", null ],
+    [ "PrepareAuraScript", "d6/d5c/a25215.html#ac2040d944e47a4f1cc7721ead44aca77", null ],
+    [ "Register", "d6/d5c/a25215.html#abc9eb056267c7effcc7f68a3ad7891da", null ]
 ];

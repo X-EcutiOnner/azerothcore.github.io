@@ -1,8 +1,20 @@
 var a21075 =
 [
-    [ "Absorb", "d3/de3/a21075.html#a36a7237d7bcd50626e7a07a32c91cfb4", null ],
-    [ "CalculateAmount", "d3/de3/a21075.html#afe50bf22d07e68757caffb056ad55811", null ],
-    [ "PrepareAuraScript", "d3/de3/a21075.html#afa4ef1f7faa36a521c208dde10d09437", null ],
-    [ "Register", "d3/de3/a21075.html#aae020936d42da81c445f7d296660987b", null ],
-    [ "Validate", "d3/de3/a21075.html#a5852135c5214ee3938603632b0f21917", null ]
+    [ "boss_yoggsaron", "d3/de3/a21075.html#a28abd29c2f570dd5f6f56289a6cc5e9e", null ],
+    [ "AttackStart", "d3/de3/a21075.html#a8110dc78a8e60d25df6195107960365a", null ],
+    [ "DamageTaken", "d3/de3/a21075.html#a7b8ec3010f0137d8330c7062ffd35e86", null ],
+    [ "DoAction", "d3/de3/a21075.html#a647c5cf55081ec4d66ae75be5d471210", null ],
+    [ "GetData", "d3/de3/a21075.html#a68bb5622ddd9bd74f2eaefce3a0ac54f", null ],
+    [ "JustDied", "d3/de3/a21075.html#afa4914458cbcf03ae8e305b2d2c40131", null ],
+    [ "JustSummoned", "d3/de3/a21075.html#af641e349634bc2977fd2fe7b7edad310", null ],
+    [ "SetData", "d3/de3/a21075.html#a449d1e3b3e2bf883254b9714df4a3ac5", null ],
+    [ "SpellHit", "d3/de3/a21075.html#ab477975d288844051b22991649bdedd4", null ],
+    [ "SummonImmortalGuardian", "d3/de3/a21075.html#ad8ba569e58047dcfff8d764489f024ad", null ],
+    [ "UpdateAI", "d3/de3/a21075.html#a395114524b73f0176aa9ed331cc0683f", null ],
+    [ "_defeated", "d3/de3/a21075.html#a280278471444ecfaf6a24be36a097cbf", null ],
+    [ "_instance", "d3/de3/a21075.html#aa9878513823c8f3f71a5dd5b80ae20f4", null ],
+    [ "_thirdPhase", "d3/de3/a21075.html#a0d76e9ae977a2165d52413807897604e", null ],
+    [ "_usedInsane", "d3/de3/a21075.html#a28191094a0252d5af48f5b046013eb3e", null ],
+    [ "events", "d3/de3/a21075.html#ac27bba5841f4c50a01a8e2b434ee56cf", null ],
+    [ "summons", "d3/de3/a21075.html#a0a11e2b828a90ca1ba72d7c19804e654", null ]
 ];

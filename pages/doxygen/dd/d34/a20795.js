@@ -1,7 +1,9 @@
 var a20795 =
 [
-    [ "HandleScript", "dd/d34/a20795.html#ab2cfe77248b3e0e3d04c203635f2f4fa", null ],
-    [ "PrepareSpellScript", "dd/d34/a20795.html#a07041d1278d7c12ca40e341fdf0a0b4e", null ],
-    [ "Register", "dd/d34/a20795.html#af75bed8e253cb372f1bceb0ae1e54e1a", null ],
-    [ "Validate", "dd/d34/a20795.html#aa2d5bae5c41f6975aecc4d951a565e81", null ]
+    [ "npc_ulduar_emergency_fire_bot", "dd/d34/a20795.html#ae6e7e18bae098db633de891ab52ca0d3", null ],
+    [ "AttackStart", "dd/d34/a20795.html#ab319353cab89d6f1bcb9be7f8e273600", null ],
+    [ "MoveInLineOfSight", "dd/d34/a20795.html#a1d217847b4aa4d199bc7060820b2d0fb", null ],
+    [ "MovementInform", "dd/d34/a20795.html#a6f7306e3da54511ddbef772044f76950", null ],
+    [ "UpdateAI", "dd/d34/a20795.html#a653df31873aca5acb86020cc1e14f4a0", null ],
+    [ "_events", "dd/d34/a20795.html#a99f051bd7a1136375103005f0615c4f2", null ]
 ];

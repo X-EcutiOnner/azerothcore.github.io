@@ -1,20 +1,13 @@
 var a14175 =
 [
-    [ "Events", "de/da0/a14175.html#a12c4bdf68162eba82d4563c2108ce1d2", [
-      [ "EVENT_START_RITUAL", "de/da0/a14175.html#a12c4bdf68162eba82d4563c2108ce1d2a02fcb61eb2865c2931b343279c576bdf", null ],
-      [ "EVENT_GHOULPLOSION", "de/da0/a14175.html#a12c4bdf68162eba82d4563c2108ce1d2aca9db407c87adeb91205451a67ffffc5", null ],
-      [ "EVENT_RAISE_GHOUL", "de/da0/a14175.html#a12c4bdf68162eba82d4563c2108ce1d2a516304af17aecc599764eba99a2d72ec", null ],
-      [ "EVENT_RESUME_WP", "de/da0/a14175.html#a12c4bdf68162eba82d4563c2108ce1d2aff67cf343aa56c92996f9d55cd622a98", null ]
-    ] ],
-    [ "Points", "de/da0/a14175.html#a91ed69a6a7042da16e17b639cfd11539", [
-      [ "POINT_CORPSE_REACHED", "de/da0/a14175.html#a91ed69a6a7042da16e17b639cfd11539a7254b9ca92a51e4beb89bc0dea09d6e8", null ]
-    ] ],
-    [ "npc_acherus_necromancer", "de/da0/a14175.html#aa9805145b09ec5abced7207220e5261c", null ],
-    [ "MovementInform", "de/da0/a14175.html#a575ad749490b1eb3d2008edc617dac29", null ],
-    [ "Reset", "de/da0/a14175.html#af7b896a75a62e948a6a4e02eec2e4471", null ],
-    [ "UpdateAI", "de/da0/a14175.html#ab911195c28abe5272e55f46eafc43e75", null ],
-    [ "events", "de/da0/a14175.html#a760c67141517cc43cfd7f0fce3ca4c00", null ],
-    [ "geistGUID", "de/da0/a14175.html#a85d1d46abb4703ad814e2069c3252966", null ],
-    [ "isOnRitual", "de/da0/a14175.html#aa41bfe2339960c4f229083b52c33ecf2", null ],
-    [ "targetCorpseGUID", "de/da0/a14175.html#abbdce81693f05dd84eeba1c933866bb0", null ]
+    [ "npc_ravenclaw_apparitionAI", "de/da0/a14175.html#a2a8a6cdb3d74e55cc3d6786ebcfb5328", null ],
+    [ "EmoteCrowd", "de/da0/a14175.html#a7a407c9b00bb24c4c3d057ec2a4b0fdc", null ],
+    [ "JustDied", "de/da0/a14175.html#a88f9d4e72273f8f835e809b27d5b52d8", null ],
+    [ "JustSummoned", "de/da0/a14175.html#a1ab2f2a6b0514d192a7962cf8315ee16", null ],
+    [ "SummonCrowd", "de/da0/a14175.html#af3f6ea6094b82e06ce7ef2d4432bd88a", null ],
+    [ "UpdateAI", "de/da0/a14175.html#ab3c6c27a31f12443efcad314cbfa1129", null ],
+    [ "events", "de/da0/a14175.html#a27522107b5e1f54909294f800f26663f", null ],
+    [ "HasEnded", "de/da0/a14175.html#a1b7a57b7204f51304ef05ee3d2265774", null ],
+    [ "summons", "de/da0/a14175.html#a85cde0a9d4903c89b29f68318730ab7f", null ],
+    [ "TalkRNG", "de/da0/a14175.html#a4b41f348e6756298d6a13b09fbf13fd0", null ]
 ];

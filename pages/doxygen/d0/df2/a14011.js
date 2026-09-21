@@ -1,9 +1,6 @@
 var a14011 =
 [
-    [ "npc_partygoer", "d0/df2/a14011.html#af053caedfd1fa8173b875f521d279418", null ],
-    [ "Initialize", "d0/df2/a14011.html#a9012ff95e5cead3c02f9eeb30f29a9f6", null ],
-    [ "Reset", "d0/df2/a14011.html#ad1936099ec5696a2a593e5041b0360c6", null ],
-    [ "UpdateAI", "d0/df2/a14011.html#a423df8a3de7d23221ea4d62a0c65fefc", null ],
-    [ "_events", "d0/df2/a14011.html#ad5095ee005ecb89ca54b0663d41e20ac", null ],
-    [ "_facing", "d0/df2/a14011.html#a9e934091894987ec091b03090bf733e5", null ]
+    [ "instance_the_stockade_InstanceMapScript", "d4/d53/a14015.html", "d4/d53/a14015" ],
+    [ "instance_the_stockade", "d0/df2/a14011.html#a533049c10a72da4b94f9807017f28c0d", null ],
+    [ "GetInstanceScript", "d0/df2/a14011.html#a7a5a4adcd71ae5d22e6729a2d11d68d3", null ]
 ];

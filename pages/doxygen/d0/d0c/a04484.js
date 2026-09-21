@@ -1,11 +1,14 @@
 var a04484 =
 [
-    [ "SpellCritDamageBonusOrderTest", "d6/d43/a30045.html", null ],
-    [ "CorrectCritOrder", "d0/d0c/a04484.html#ab55aeffce172b7e667fdcb86ba06d954", null ],
-    [ "OldWrongCritOrder", "d0/d0c/a04484.html#ae0ad4b3cd3c2381976fd6106fc4f8088", null ],
-    [ "TEST_F", "d0/d0c/a04484.html#aa932f572f1a8831ecf4bc5475b7598fb", null ],
-    [ "TEST_F", "d0/d0c/a04484.html#a2f98b8f734392902e0cd2dc96a8ef637", null ],
-    [ "TEST_F", "d0/d0c/a04484.html#ae30b40dccd8a24d78d006e8e9ac63f19", null ],
-    [ "TEST_F", "d0/d0c/a04484.html#a4172aa23985d10af03e6a92c7fa9dd2e", null ],
-    [ "TEST_F", "d0/d0c/a04484.html#ad8c6026ca0167ae177e227997c8e2388", null ]
+    [ "SpellProcTargetResolutionTest", "db/d3f/a30171.html", null ],
+    [ "ResolveProcTriggerTarget", "d0/d0c/a04484.html#ae0ceced3da7b46834d403b94be7bd498", null ],
+    [ "TEST_F", "d0/d0c/a04484.html#a94bb580a1521b12b0dc26d91b4d9e3ca", null ],
+    [ "TEST_F", "d0/d0c/a04484.html#adc4f7536f5fbc531ee25c5e2e8aa823c", null ],
+    [ "TEST_F", "d0/d0c/a04484.html#a6349a6956dcb722f54714e939b3ccb12", null ],
+    [ "TEST_F", "d0/d0c/a04484.html#a8d1c35ebc225b6f64d08e5748e6adbfe", null ],
+    [ "TEST_F", "d0/d0c/a04484.html#ac01a72b5a8b9e24ce8306b05cca87dbb", null ],
+    [ "TEST_F", "d0/d0c/a04484.html#adc3e9713f51dc9d0659472c769da1073", null ],
+    [ "TEST_F", "d0/d0c/a04484.html#a65154972e92d7ebcbd52504ba1d20322", null ],
+    [ "FAKE_ENEMY", "d0/d0c/a04484.html#a44641e393e88c869080a70e5d49c017c", null ],
+    [ "FAKE_ROGUE", "d0/d0c/a04484.html#aa56828182e47a5c051cfcc0318167b79", null ]
 ];

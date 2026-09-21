@@ -1,6 +1,6 @@
 var a27347 =
 [
-    [ "HandleSendEvent", "d4/d3e/a27347.html#a8126102215aa6eedd638b89d1a6b7110", null ],
-    [ "PrepareSpellScript", "d4/d3e/a27347.html#abc57ba05637e2c51bf2d1fb918a93667", null ],
-    [ "Register", "d4/d3e/a27347.html#ac37abad48c398bdb22529c1a44327d34", null ]
+    [ "HandleTriggerSpell", "d4/d3e/a27347.html#acd2d96959b0d8e9bf9968662218f36a1", null ],
+    [ "PrepareAuraScript", "d4/d3e/a27347.html#afea43ae4a9b9e64ed8e85627d5523a1e", null ],
+    [ "Register", "d4/d3e/a27347.html#ace951b4fcd48b7d4434a387d666bed9b", null ]
 ];

@@ -1,6 +1,6 @@
 var a23107 =
 [
-    [ "HandleSchoolDamage", "d7/d72/a23107.html#ab105ff1efd0fe20585ac3dc6c60f81a2", null ],
-    [ "PrepareSpellScript", "d7/d72/a23107.html#a0296aa3d00d0d12e213d95b8520c50dc", null ],
-    [ "Register", "d7/d72/a23107.html#a4cd7135ff9e4ef605635f1eccc01ba65", null ]
+    [ "FilterTargets", "d7/d72/a23107.html#a04973145ed594b88afe2acc0cacb10c6", null ],
+    [ "PrepareSpellScript", "d7/d72/a23107.html#a90c0513a6dba2f2e6619dd8c77544991", null ],
+    [ "Register", "d7/d72/a23107.html#a7c8ca525cd6822d21551331ce37ce5dd", null ]
 ];

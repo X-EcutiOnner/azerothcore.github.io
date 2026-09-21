@@ -1,8 +1,12 @@
 var a14083 =
 [
-    [ "npc_deathstalker_erlandAI", "df/dd9/a14083.html#aa3c6822db09bc40dc87d556f6b3cc880", null ],
-    [ "JustEngagedWith", "df/dd9/a14083.html#ae4789c26cbb00b4ac04d646617a48a40", null ],
-    [ "Reset", "df/dd9/a14083.html#a3def0a0dd57ed732242a09d6390ab1f0", null ],
-    [ "WaypointReached", "df/dd9/a14083.html#af200e269d3f4b51bb5cfd08e9bf7ecc5", null ],
-    [ "WaypointReached", "df/dd9/a14083.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "npc_eastvale_peasent", "df/dd9/a14083.html#a5282dac41228569d4431d84c1f160f05", null ],
+    [ "Initialize", "df/dd9/a14083.html#a8b73aa30b0b4a984d8644e6d9541461d", null ],
+    [ "PathEndReached", "df/dd9/a14083.html#a002ec21e0715b020aa19cd0839408033", null ],
+    [ "Reset", "df/dd9/a14083.html#a7eb6cf174a46fd31c8c5241649fcebdc", null ],
+    [ "SetData", "df/dd9/a14083.html#add14d9505880727e208e7ef9428f5acd", null ],
+    [ "UpdateAI", "df/dd9/a14083.html#a868eb38757bf7bc02d5b3ffa66feb375", null ],
+    [ "_events", "df/dd9/a14083.html#a1b310b07481366042dc45f7a27ce6408", null ],
+    [ "_path", "df/dd9/a14083.html#a907db8e6148947248b5bcfdb35023e16", null ],
+    [ "_realenGUID", "df/dd9/a14083.html#aad06364be8698b5ba69cd229e2a5085b", null ]
 ];

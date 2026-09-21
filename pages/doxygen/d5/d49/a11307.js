@@ -1,9 +1,7 @@
 var a11307 =
 [
-    [ "SwapItem", "d5/d49/a11307.html#a603871bfd69a2bcc2083de350f48875a", null ],
-    [ "Read", "d5/d49/a11307.html#a475122a155c96446ecad1b92ef5c7a19", null ],
-    [ "DestinationBag", "d5/d49/a11307.html#a30a5a1fccf9c028fa207e58dd0ff82b6", null ],
-    [ "DestinationSlot", "d5/d49/a11307.html#a0cf0b21ebfccb843ee23831e17982081", null ],
-    [ "SourceBag", "d5/d49/a11307.html#a19d0895bf7a25da8d8bdaceed14ff0a1", null ],
-    [ "SourceSlot", "d5/d49/a11307.html#ab080d55f63eb07c8db090123260bee23", null ]
+    [ "GuildBankTextQueryResult", "d5/d49/a11307.html#aa1e25895e246c3a688d7850e517858d3", null ],
+    [ "Write", "d5/d49/a11307.html#acb6b28dcf56b821e3c0d5b58f6baa2dd", null ],
+    [ "Tab", "d5/d49/a11307.html#abfc5522a0f94086474493db85ed1ef73", null ],
+    [ "Text", "d5/d49/a11307.html#ae78c1d1b802e12efd058987117158ec3", null ]
 ];

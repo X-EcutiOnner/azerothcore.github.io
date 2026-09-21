@@ -1,9 +1,10 @@
 var a05311 =
 [
-    [ "MMapMgr", "d7/df8/a05311.html#abd4bd2ef84d57be5000ab37ed36ded8c", null ],
-    [ "~MMapMgr", "d7/df8/a05311.html#a0891f2313f7c78182334b43e304bafd0", null ],
-    [ "CreateNavMeshQuery", "d7/df8/a05311.html#affca526b45b63f9c827a52baa212f02c", null ],
-    [ "LoadNavMesh", "d7/df8/a05311.html#aead5607e8f61161464c388c889ca9938", null ],
-    [ "LoadTile", "d7/df8/a05311.html#a2b1efdb836189224a7ac1247b6c397e5", null ],
-    [ "packTileID", "d7/df8/a05311.html#ace3265c248ccf2a34ca4b7c43f294e43", null ]
+    [ "DynamicTreeLocationInfoCallback", "d7/df8/a05311.html#a3fcb6d535b2207e2bfedb961de856e6d", null ],
+    [ "GetHitModel", "d7/df8/a05311.html#ac939625c44c7be8ba8b96d55545b657c", null ],
+    [ "GetLocationInfo", "d7/df8/a05311.html#ac1c3839aa1f0e9b64390502c4ce7bb3e", null ],
+    [ "operator()", "d7/df8/a05311.html#a4d2569c48cfa431282119ed5bd53ffb4", null ],
+    [ "_hitModel", "d7/df8/a05311.html#adef79d7627daa66d88c7146704984622", null ],
+    [ "_locationInfo", "d7/df8/a05311.html#a3c9be93de73520942a8d52b78fe72438", null ],
+    [ "_phaseMask", "d7/df8/a05311.html#aebe4c7cfc47b3bd2701b2b9cda2ed71e", null ]
 ];

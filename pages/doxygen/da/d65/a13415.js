@@ -1,6 +1,14 @@
 var a13415 =
 [
-    [ "HandleProc", "da/d65/a13415.html#a945dad46d3c11ee4720c939390a9dc1b", null ],
-    [ "PrepareAuraScript", "da/d65/a13415.html#a43953f2950d9a92db66a2c65a045ff6e", null ],
-    [ "Register", "da/d65/a13415.html#a24df76ff0933685bade58deff98856d2", null ]
+    [ "boss_strawman", "da/d65/a13415.html#a1789cdafc2ce03e156ac686e6859e25f", null ],
+    [ "DoAction", "da/d65/a13415.html#a57f9519f87bc8e7446632a49f56a02ca", null ],
+    [ "EnterEvadeMode", "da/d65/a13415.html#a67fd9b85406512cef4f3ae581461f0c4", null ],
+    [ "JustDied", "da/d65/a13415.html#ab175b0104d316b8929e32d9eb939780f", null ],
+    [ "JustEngagedWith", "da/d65/a13415.html#a40657516c4f1b049dd0514a50e299a10", null ],
+    [ "JustReachedHome", "da/d65/a13415.html#a4235b2de2540199f9570cbadb7326871", null ],
+    [ "KilledUnit", "da/d65/a13415.html#a06b92dbb6907ace60df7e10893be7af0", null ],
+    [ "SpellHit", "da/d65/a13415.html#a5bf558765b59a7950bd55ece14c07a4f", null ],
+    [ "UpdateAI", "da/d65/a13415.html#adcb7db7cb3f938b492a28c3540251ea9", null ],
+    [ "_scheduler", "da/d65/a13415.html#a409539c771b373c165bdbccac8a59e7f", null ],
+    [ "instance", "da/d65/a13415.html#a157a6faacf83432b8227173f6b14a7d3", null ]
 ];

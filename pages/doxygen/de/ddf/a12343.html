@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: CliCommandHolder Struct Reference</title>
+<title>AzerothCore: keyData Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,269 +105,133 @@ $(document).ready(function(){initNavTree('de/ddf/a12343.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-types">Public Types</a> &#124;
-<a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pub-attribs">Public Attributes</a> &#124;
-<a href="#pri-methods">Private Member Functions</a> &#124;
 <a href="../../d0/d21/a12340.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">CliCommandHolder Struct Reference</div></div>
+  <div class="headertitle"><div class="title">keyData Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
-
-<p>Storage class for commands issued for delayed execution.  
- <a href="../../de/ddf/a12343.html#details">More...</a></p>
-
-<p><code>#include &quot;<a class="el" href="../../">IWorld.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
-Public Types</h2></td></tr>
-<tr class="memitem:ab10379cf266b38f4d81e2477b727471e"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/ddf/a12343.html#ab10379cf266b38f4d81e2477b727471e">Print</a> = void(*)(void *, std::string_view)</td></tr>
-<tr class="separator:ab10379cf266b38f4d81e2477b727471e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af7ce6ffac9fa11ce0db6fd10919c4e4a"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/ddf/a12343.html#af7ce6ffac9fa11ce0db6fd10919c4e4a">CommandFinished</a> = void(*)(void *, bool success)</td></tr>
-<tr class="separator:af7ce6ffac9fa11ce0db6fd10919c4e4a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
-Public Member Functions</h2></td></tr>
-<tr class="memitem:a5a45e891607114cd070721fd51926cd5"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/ddf/a12343.html#a5a45e891607114cd070721fd51926cd5">CliCommandHolder</a> (void *callbackArg, char const *command, <a class="el" href="../../de/ddf/a12343.html#ab10379cf266b38f4d81e2477b727471e">Print</a> zprint, <a class="el" href="../../de/ddf/a12343.html#af7ce6ffac9fa11ce0db6fd10919c4e4a">CommandFinished</a> <a class="el" href="../../d5/d65/a05081.html#gaf86bc63df807e80b7a14688e48340fea">commandFinished</a>)</td></tr>
-<tr class="separator:a5a45e891607114cd070721fd51926cd5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a44ca7e8af5c717b1cff7b143afc077ee"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/ddf/a12343.html#a44ca7e8af5c717b1cff7b143afc077ee">~CliCommandHolder</a> ()</td></tr>
-<tr class="separator:a44ca7e8af5c717b1cff7b143afc077ee"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a4579ce86ff43da89524b62eefe308a59"><td class="memItemLeft" align="right" valign="top">void *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/ddf/a12343.html#a4579ce86ff43da89524b62eefe308a59">m_callbackArg</a></td></tr>
-<tr class="separator:a4579ce86ff43da89524b62eefe308a59"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae333918e09a9de4c9e402c334e076674"><td class="memItemLeft" align="right" valign="top">char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/ddf/a12343.html#ae333918e09a9de4c9e402c334e076674">m_command</a></td></tr>
-<tr class="separator:ae333918e09a9de4c9e402c334e076674"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa49897105905b9812fcf962326486d5d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/ddf/a12343.html#ab10379cf266b38f4d81e2477b727471e">Print</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/ddf/a12343.html#aa49897105905b9812fcf962326486d5d">m_print</a></td></tr>
-<tr class="separator:aa49897105905b9812fcf962326486d5d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a416a66ac78f1d2cb1ee2d0d93f276f43"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/ddf/a12343.html#af7ce6ffac9fa11ce0db6fd10919c4e4a">CommandFinished</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/ddf/a12343.html#a416a66ac78f1d2cb1ee2d0d93f276f43">m_commandFinished</a></td></tr>
-<tr class="separator:a416a66ac78f1d2cb1ee2d0d93f276f43"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
-Private Member Functions</h2></td></tr>
-<tr class="memitem:ad9c7b2da92d97c464fb14ad1e0b9a4a9"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/ddf/a12343.html#ad9c7b2da92d97c464fb14ad1e0b9a4a9">CliCommandHolder</a> (<a class="el" href="../../de/ddf/a12343.html">CliCommandHolder</a> const &amp;right)=delete</td></tr>
-<tr class="separator:ad9c7b2da92d97c464fb14ad1e0b9a4a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aaca241ecd81dc25788eaccbdc4aa5f60"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/ddf/a12343.html">CliCommandHolder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/ddf/a12343.html#aaca241ecd81dc25788eaccbdc4aa5f60">operator=</a> (<a class="el" href="../../de/ddf/a12343.html">CliCommandHolder</a> const &amp;right)=delete</td></tr>
-<tr class="separator:aaca241ecd81dc25788eaccbdc4aa5f60"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3a2997d203c186bc3cd54a9ba4235319"><td class="memItemLeft" align="right" valign="top">std::array&lt; <a class="el" href="../../de/d69/a04679.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>, 20 &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/ddf/a12343.html#a3a2997d203c186bc3cd54a9ba4235319">bytes</a></td></tr>
+<tr class="separator:a3a2997d203c186bc3cd54a9ba4235319"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0518eb4b0a91697500a5a370068425a8"><td class="memItemLeft" align="right" valign="top">std::array&lt; <a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, 5 &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/ddf/a12343.html#a0518eb4b0a91697500a5a370068425a8">ints</a></td></tr>
+<tr class="separator:a0518eb4b0a91697500a5a370068425a8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6f5f9442c54b6040ee5107765c24d808"><td class="memItemLeft" >union {</td></tr>
+<tr class="memitem:a4ebb1769644310794781715bf58c3330"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:ac4471a8b8c6e9af448487361a40a6dd4"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;<a class="el" href="../../de/d69/a04679.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;&#160;&#160;<a class="el" href="../../de/ddf/a12343.html#a8484412ccb13cf396a4dc28b86f65b4e">bytes</a> [16]</td></tr>
+<tr class="separator:ac4471a8b8c6e9af448487361a40a6dd4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4ebb1769644310794781715bf58c3330"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../de/ddf/a12343.html#a811f59fc775a37c7c9eaaae2f175c864">bytes</a></td></tr>
+<tr class="separator:a4ebb1769644310794781715bf58c3330"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae94bad5c21eb8d02785fbb911cd11df9"><td class="memItemLeft" >&#160;&#160;&#160;struct {</td></tr>
+<tr class="memitem:a30ce360925bcb8b7f854aff3b1555b80"><td class="memItemLeft" >&#160;&#160;&#160;&#160;&#160;&#160;int&#160;&#160;&#160;<a class="el" href="../../de/ddf/a12343.html#a08efba5e78b64fef020453f689bcc5f0">ints</a> [4]</td></tr>
+<tr class="separator:a30ce360925bcb8b7f854aff3b1555b80"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae94bad5c21eb8d02785fbb911cd11df9"><td class="memItemLeft" valign="top">&#160;&#160;&#160;}&#160;&#160;&#160;<a class="el" href="../../de/ddf/a12343.html#a6b901fe41612a05e97dff474fbeff7f6">ints</a></td></tr>
+<tr class="separator:ae94bad5c21eb8d02785fbb911cd11df9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6f5f9442c54b6040ee5107765c24d808"><td class="memItemLeft" valign="top">};&#160;</td><td class="memItemRight" valign="bottom"></td></tr>
+<tr class="separator:a6f5f9442c54b6040ee5107765c24d808"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p >Storage class for commands issued for delayed execution. </p>
-</div><h2 class="groupheader">Member Typedef Documentation</h2>
-<a id="af7ce6ffac9fa11ce0db6fd10919c4e4a" name="af7ce6ffac9fa11ce0db6fd10919c4e4a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af7ce6ffac9fa11ce0db6fd10919c4e4a">&#9670;&#160;</a></span>CommandFinished</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Data Documentation</h2>
+<a id="a6f5f9442c54b6040ee5107765c24d808" name="a6f5f9442c54b6040ee5107765c24d808"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6f5f9442c54b6040ee5107765c24d808">&#9670;&#160;</a></span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">using <a class="el" href="../../de/ddf/a12343.html#af7ce6ffac9fa11ce0db6fd10919c4e4a">CliCommandHolder::CommandFinished</a> =  void(*)(void*, bool success)</td>
+          <td class="memname">union  { ... }  keyData::@305</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
 </div>
 </div>
-<a id="ab10379cf266b38f4d81e2477b727471e" name="ab10379cf266b38f4d81e2477b727471e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab10379cf266b38f4d81e2477b727471e">&#9670;&#160;</a></span>Print</h2>
+<a id="a3a2997d203c186bc3cd54a9ba4235319" name="a3a2997d203c186bc3cd54a9ba4235319"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3a2997d203c186bc3cd54a9ba4235319">&#9670;&#160;</a></span>bytes <span class="overload">[1/3]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">using <a class="el" href="../../de/ddf/a12343.html#ab10379cf266b38f4d81e2477b727471e">CliCommandHolder::Print</a> =  void(*)(void*, std::string_view)</td>
+          <td class="memname">std::array&lt;<a class="el" href="../../de/d69/a04679.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>, 20&gt; keyData::bytes</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00170">Warden::BuildChecksum()</a>.</p>
+
+</div>
+</div>
+<a id="a8484412ccb13cf396a4dc28b86f65b4e" name="a8484412ccb13cf396a4dc28b86f65b4e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8484412ccb13cf396a4dc28b86f65b4e">&#9670;&#160;</a></span>bytes <span class="overload">[2/3]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../de/d69/a04679.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> keyData::bytes[16]</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
 </div>
 </div>
-<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a5a45e891607114cd070721fd51926cd5" name="a5a45e891607114cd070721fd51926cd5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5a45e891607114cd070721fd51926cd5">&#9670;&#160;</a></span>CliCommandHolder() <span class="overload">[1/2]</span></h2>
+<a id="a811f59fc775a37c7c9eaaae2f175c864" name="a811f59fc775a37c7c9eaaae2f175c864"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a811f59fc775a37c7c9eaaae2f175c864">&#9670;&#160;</a></span> <span class="overload">[3/3]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">CliCommandHolder::CliCommandHolder </td>
-          <td>(</td>
-          <td class="paramtype">void *&#160;</td>
-          <td class="paramname"><em>callbackArg</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">char const *&#160;</td>
-          <td class="paramname"><em>command</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../de/ddf/a12343.html#ab10379cf266b38f4d81e2477b727471e">Print</a>&#160;</td>
-          <td class="paramname"><em>zprint</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../de/ddf/a12343.html#af7ce6ffac9fa11ce0db6fd10919c4e4a">CommandFinished</a>&#160;</td>
-          <td class="paramname"><em>commandFinished</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="memname">struct  { ... }  keyData::bytes</td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1928</span>    : <a class="code hl_variable" href="../../de/ddf/a12343.html#a4579ce86ff43da89524b62eefe308a59">m_callbackArg</a>(callbackArg), <a class="code hl_variable" href="../../de/ddf/a12343.html#ae333918e09a9de4c9e402c334e076674">m_command</a>(strdup(command)), <a class="code hl_variable" href="../../de/ddf/a12343.html#aa49897105905b9812fcf962326486d5d">m_print</a>(zprint), <a class="code hl_variable" href="../../de/ddf/a12343.html#a416a66ac78f1d2cb1ee2d0d93f276f43">m_commandFinished</a>(<a class="code hl_function" href="../../d5/d65/a05081.html#gaf86bc63df807e80b7a14688e48340fea">commandFinished</a>)</div>
-<div class="line"><span class="lineno"> 1929</span>{</div>
-<div class="line"><span class="lineno"> 1930</span>}</div>
-<div class="ttc" id="aa05081_html_gaf86bc63df807e80b7a14688e48340fea"><div class="ttname"><a href="../../d5/d65/a05081.html#gaf86bc63df807e80b7a14688e48340fea">commandFinished</a></div><div class="ttdeci">void commandFinished(void *, bool)</div><div class="ttdef"><b>Definition:</b> CliRunnable.cpp:89</div></div>
-<div class="ttc" id="aa12343_html_a416a66ac78f1d2cb1ee2d0d93f276f43"><div class="ttname"><a href="../../de/ddf/a12343.html#a416a66ac78f1d2cb1ee2d0d93f276f43">CliCommandHolder::m_commandFinished</a></div><div class="ttdeci">CommandFinished m_commandFinished</div><div class="ttdef"><b>Definition:</b> IWorld.h:42</div></div>
-<div class="ttc" id="aa12343_html_a4579ce86ff43da89524b62eefe308a59"><div class="ttname"><a href="../../de/ddf/a12343.html#a4579ce86ff43da89524b62eefe308a59">CliCommandHolder::m_callbackArg</a></div><div class="ttdeci">void * m_callbackArg</div><div class="ttdef"><b>Definition:</b> IWorld.h:39</div></div>
-<div class="ttc" id="aa12343_html_aa49897105905b9812fcf962326486d5d"><div class="ttname"><a href="../../de/ddf/a12343.html#aa49897105905b9812fcf962326486d5d">CliCommandHolder::m_print</a></div><div class="ttdeci">Print m_print</div><div class="ttdef"><b>Definition:</b> IWorld.h:41</div></div>
-<div class="ttc" id="aa12343_html_ae333918e09a9de4c9e402c334e076674"><div class="ttname"><a href="../../de/ddf/a12343.html#ae333918e09a9de4c9e402c334e076674">CliCommandHolder::m_command</a></div><div class="ttdeci">char * m_command</div><div class="ttdef"><b>Definition:</b> IWorld.h:40</div></div>
-</div><!-- fragment -->
+
 </div>
 </div>
-<a id="a44ca7e8af5c717b1cff7b143afc077ee" name="a44ca7e8af5c717b1cff7b143afc077ee"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a44ca7e8af5c717b1cff7b143afc077ee">&#9670;&#160;</a></span>~CliCommandHolder()</h2>
+<a id="a0518eb4b0a91697500a5a370068425a8" name="a0518eb4b0a91697500a5a370068425a8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0518eb4b0a91697500a5a370068425a8">&#9670;&#160;</a></span>ints <span class="overload">[1/3]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">CliCommandHolder::~CliCommandHolder </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td class="memname">std::array&lt;<a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, 5&gt; keyData::ints</td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1933</span>{</div>
-<div class="line"><span class="lineno"> 1934</span>    free(<a class="code hl_variable" href="../../de/ddf/a12343.html#ae333918e09a9de4c9e402c334e076674">m_command</a>);</div>
-<div class="line"><span class="lineno"> 1935</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00040">m_command</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00125">WardenMac::HandleHashResult()</a>.</p>
 
 </div>
 </div>
-<a id="ad9c7b2da92d97c464fb14ad1e0b9a4a9" name="ad9c7b2da92d97c464fb14ad1e0b9a4a9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad9c7b2da92d97c464fb14ad1e0b9a4a9">&#9670;&#160;</a></span>CliCommandHolder() <span class="overload">[2/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">CliCommandHolder::CliCommandHolder </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../de/ddf/a12343.html">CliCommandHolder</a> const &amp;&#160;</td>
-          <td class="paramname"><em>right</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span><span class="mlabel">delete</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="aaca241ecd81dc25788eaccbdc4aa5f60" name="aaca241ecd81dc25788eaccbdc4aa5f60"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aaca241ecd81dc25788eaccbdc4aa5f60">&#9670;&#160;</a></span>operator=()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../de/ddf/a12343.html">CliCommandHolder</a> &amp; CliCommandHolder::operator= </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../de/ddf/a12343.html">CliCommandHolder</a> const &amp;&#160;</td>
-          <td class="paramname"><em>right</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span><span class="mlabel">delete</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Member Data Documentation</h2>
-<a id="a4579ce86ff43da89524b62eefe308a59" name="a4579ce86ff43da89524b62eefe308a59"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4579ce86ff43da89524b62eefe308a59">&#9670;&#160;</a></span>m_callbackArg</h2>
+<a id="a08efba5e78b64fef020453f689bcc5f0" name="a08efba5e78b64fef020453f689bcc5f0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a08efba5e78b64fef020453f689bcc5f0">&#9670;&#160;</a></span>ints <span class="overload">[2/3]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void* CliCommandHolder::m_callbackArg</td>
+          <td class="memname">int keyData::ints[4]</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01636">World::ProcessCliCommands()</a>.</p>
-
 </div>
 </div>
-<a id="ae333918e09a9de4c9e402c334e076674" name="ae333918e09a9de4c9e402c334e076674"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae333918e09a9de4c9e402c334e076674">&#9670;&#160;</a></span>m_command</h2>
+<a id="a6b901fe41612a05e97dff474fbeff7f6" name="a6b901fe41612a05e97dff474fbeff7f6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6b901fe41612a05e97dff474fbeff7f6">&#9670;&#160;</a></span> <span class="overload">[3/3]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">char* CliCommandHolder::m_command</td>
+          <td class="memname">struct  { ... }  keyData::ints</td>
         </tr>
       </table>
 </div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l01636">World::ProcessCliCommands()</a>, and <a class="el" href="../../#l01932">~CliCommandHolder()</a>.</p>
-
-</div>
-</div>
-<a id="a416a66ac78f1d2cb1ee2d0d93f276f43" name="a416a66ac78f1d2cb1ee2d0d93f276f43"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a416a66ac78f1d2cb1ee2d0d93f276f43">&#9670;&#160;</a></span>m_commandFinished</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../de/ddf/a12343.html#af7ce6ffac9fa11ce0db6fd10919c4e4a">CommandFinished</a> CliCommandHolder::m_commandFinished</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l01636">World::ProcessCliCommands()</a>.</p>
-
-</div>
-</div>
-<a id="aa49897105905b9812fcf962326486d5d" name="aa49897105905b9812fcf962326486d5d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa49897105905b9812fcf962326486d5d">&#9670;&#160;</a></span>m_print</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../de/ddf/a12343.html#ab10379cf266b38f4d81e2477b727471e">Print</a> CliCommandHolder::m_print</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l01636">World::ProcessCliCommands()</a>.</p>
 
 </div>
 </div>
@@ -376,8 +240,8 @@ Private Member Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../de/ddf/a12343.html">CliCommandHolder</a></li>
-    <li class="footer">Generated on Tue Sep 1 2026 00:08:58 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../de/ddf/a12343.html">keyData</a></li>
+    <li class="footer">Generated on Mon Sep 21 2026 23:33:54 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

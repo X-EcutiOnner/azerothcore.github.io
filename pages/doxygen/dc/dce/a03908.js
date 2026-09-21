@@ -1,14 +1,22 @@
 var a03908 =
 [
-    [ "npc_tapoke_slim_jahn", "d6/dad/a14373.html", "d6/dad/a14373" ],
-    [ "npc_tapoke_slim_jahn::npc_tapoke_slim_jahnAI", "dc/deb/a14377.html", "dc/deb/a14377" ],
-    [ "npc_mikhail", "d2/db5/a14381.html", "d2/db5/a14381" ],
-    [ "TapokeSlim", "dc/dce/a03908.html#ad5b3ef2d2393f509f0cbf4e70303fab9", [
-      [ "QUEST_MISSING_DIPLO_PT11", "dc/dce/a03908.html#ad5b3ef2d2393f509f0cbf4e70303fab9afdacf3720ad6627ab1c120619b4628a2", null ],
-      [ "SPELL_STEALTH", "dc/dce/a03908.html#ad5b3ef2d2393f509f0cbf4e70303fab9ab05b1ff486cc81800d4e40014eae5576", null ],
-      [ "SPELL_CALL_FRIENDS", "dc/dce/a03908.html#ad5b3ef2d2393f509f0cbf4e70303fab9a6cc72f5b401e64cbeb4986e9dc90c779", null ],
-      [ "NPC_SLIMS_FRIEND", "dc/dce/a03908.html#ad5b3ef2d2393f509f0cbf4e70303fab9afc7e4b6611738777f37002c70bb946c1", null ],
-      [ "NPC_TAPOKE_SLIM_JAHN", "dc/dce/a03908.html#ad5b3ef2d2393f509f0cbf4e70303fab9a2853dfe2482cee57da6a01e6bc030bda", null ]
+    [ "npc_eris_hevenfire", "de/d1f/a14059.html", "de/d1f/a14059" ],
+    [ "npc_eris_hevenfire::npc_eris_hevenfireAI", "d8/dd4/a14063.html", "d8/dd4/a14063" ],
+    [ "npc_balance_of_light_and_shadow", "dc/d90/a14067.html", "dc/d90/a14067" ],
+    [ "npc_balance_of_light_and_shadow::npc_balance_of_light_and_shadowAI", "dd/d5d/a14071.html", "dd/d5d/a14071" ],
+    [ "eEris", "dc/dce/a03908.html#a0846b7169aa45fd1ef72775a5f6e36fe", [
+      [ "QUEST_BALANCE_OF_LIGHT_AND_SHADOW", "dc/dce/a03908.html#a0846b7169aa45fd1ef72775a5f6e36fea893fed7c9aba464b46eda93ba0ff910e", null ],
+      [ "ITEM_EYE_OF_DIVINITY", "dc/dce/a03908.html#a0846b7169aa45fd1ef72775a5f6e36feaa330f1e90d7e18c5cec4f6ac9eccbf9b", null ],
+      [ "NPC_INJURED_PEASANT", "dc/dce/a03908.html#a0846b7169aa45fd1ef72775a5f6e36feaae13148e0ec5731f2bc25c5cd83fb54a", null ],
+      [ "NPC_PLAGUED_PEASANT", "dc/dce/a03908.html#a0846b7169aa45fd1ef72775a5f6e36fea2e04645dc1fe7fae413d5c2c903c89d2", null ],
+      [ "NPC_SCOURGE_ARCHER", "dc/dce/a03908.html#a0846b7169aa45fd1ef72775a5f6e36fea50dd59f1eeb08594a61c6ad576ad2814", null ],
+      [ "EVENT_SUMMON_PEASANTS", "dc/dce/a03908.html#a0846b7169aa45fd1ef72775a5f6e36fea499f23b6c79690c613e046b3e6394937", null ],
+      [ "EVENT_CHECK_PLAYER", "dc/dce/a03908.html#a0846b7169aa45fd1ef72775a5f6e36fea3d3d147dbdefaa5a8280f3d1bcc15ea8", null ],
+      [ "EVENT_SUMMON_ARCHERS", "dc/dce/a03908.html#a0846b7169aa45fd1ef72775a5f6e36fea84afa1291830b37278989be41610fb72", null ],
+      [ "SPELL_SHOOT", "dc/dce/a03908.html#a0846b7169aa45fd1ef72775a5f6e36fea1b728fa1bb0194534b5b491d35ed871c", null ],
+      [ "SPELL_DEATHS_DOOR", "dc/dce/a03908.html#a0846b7169aa45fd1ef72775a5f6e36fea59bc5812f6dcf3f0e45b673f923490e7", null ],
+      [ "SPELL_SEETHING_PLAGUE", "dc/dce/a03908.html#a0846b7169aa45fd1ef72775a5f6e36feac366f4ed224210fd4352c0ac9fb1c12a", null ],
+      [ "SPELL_ERIS_BLESSING", "dc/dce/a03908.html#a0846b7169aa45fd1ef72775a5f6e36feaaedc6f0db3ab3db342fe3379082ce633", null ]
     ] ],
-    [ "AddSC_wetlands", "dc/dce/a03908.html#a96be3075a4a99658d93ffe3d69ba369a", null ]
+    [ "AddSC_eastern_plaguelands", "dc/dce/a03908.html#aaef7747656518bf0ce052d780430ed88", null ]
 ];

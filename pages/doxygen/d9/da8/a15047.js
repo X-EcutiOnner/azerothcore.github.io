@@ -1,9 +1,7 @@
 var a15047 =
 [
-    [ "HandlePeriodic", "d9/da8/a15047.html#ae5f611f0643cdfc3d403cee89667b0f6", null ],
-    [ "Load", "d9/da8/a15047.html#aa90cfb5fdb96e8670fa35dd3c16350c0", null ],
-    [ "PrepareAuraScript", "d9/da8/a15047.html#afeb65196cbafc813bb02eb3907e59fc2", null ],
-    [ "Register", "d9/da8/a15047.html#ac331de3219ae7da9e35e962011540bdf", null ],
-    [ "Validate", "d9/da8/a15047.html#a7de36e3ee777b02ab6fc4671e4e9f5ab", null ],
-    [ "_buffGiven", "d9/da8/a15047.html#aec2476ad5e046213b90af04ad91f0230", null ]
+    [ "OnApply", "d9/da8/a15047.html#a42148069675e663456bb5495fa5c8702", null ],
+    [ "OnPeriodic", "d9/da8/a15047.html#ad3582b02b369e3029e20817dd19aede0", null ],
+    [ "PrepareAuraScript", "d9/da8/a15047.html#a4e53e6cc02ce44d85fdf5497c006d7d9", null ],
+    [ "Register", "d9/da8/a15047.html#a8970b2ae63e0ba2e238aa6309d713b62", null ]
 ];

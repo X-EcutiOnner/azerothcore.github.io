@@ -1,7 +1,6 @@
 var a13599 =
 [
-    [ "HandleScript", "d3/d7d/a13599.html#ab705220b48be16090107135f9e2272cf", null ],
-    [ "PrepareSpellScript", "d3/d7d/a13599.html#a8bf22d62d6e7f50315e4c14714b8457f", null ],
-    [ "Register", "d3/d7d/a13599.html#ac969bf9f37d02f2b3d78d31d7f8c4625", null ],
-    [ "Validate", "d3/d7d/a13599.html#ad1d90693a427a52fa728e5ae455932a3", null ]
+    [ "boss_kirtonos_the_heraldAI", "dd/d2b/a13603.html", "dd/d2b/a13603" ],
+    [ "boss_kirtonos_the_herald", "d3/d7d/a13599.html#a0e81153a0da7910cda4c9b6d32544318", null ],
+    [ "GetAI", "d3/d7d/a13599.html#aa5e0fe2386aae52fd53ff309282db652", null ]
 ];

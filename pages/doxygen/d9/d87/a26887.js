@@ -1,8 +1,9 @@
 var a26887 =
 [
-    [ "CheckCast", "d9/d87/a26887.html#a5fc226206c08aa65459c144cd5f34c6c", null ],
-    [ "PrepareSpellScript", "d9/d87/a26887.html#a1c0f324c7c2f2799990dcc116edd69cf", null ],
-    [ "Register", "d9/d87/a26887.html#a35239e58eb76c0ffe74e0feee2250fa1", null ],
-    [ "TriggerDebuffs", "d9/d87/a26887.html#a1579b28071e2194625f722a29ded39b8", null ],
-    [ "Validate", "d9/d87/a26887.html#a767853d4b05e055cb32991bfe8c6516a", null ]
+    [ "CheckCast", "d9/d87/a26887.html#ad7bfc65b26013ad259679ae8b4a5dd9a", null ],
+    [ "HandleTriggerSpellHit", "d9/d87/a26887.html#aca027bb2995456bfcedd33c06966eb88", null ],
+    [ "HandleTriggerSpellLaunch", "d9/d87/a26887.html#aa67bf9f81086a3837037d67306979072", null ],
+    [ "PrepareSpellScript", "d9/d87/a26887.html#a9247b5f3a376bebdcf857565b5049944", null ],
+    [ "Register", "d9/d87/a26887.html#aaf056806d72da6aa2e3e6e70d46d6933", null ],
+    [ "Validate", "d9/d87/a26887.html#a4fc8f6a7ecd041dcfca4fd51d71e725c", null ]
 ];

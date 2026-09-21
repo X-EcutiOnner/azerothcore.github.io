@@ -1,6 +1,7 @@
 var a24023 =
 [
-    [ "instance_mechanar_InstanceMapScript", "d5/deb/a24027.html", "d5/deb/a24027" ],
-    [ "instance_mechanar", "d5/d1b/a24023.html#ab31a66a0eb8b9ac6f79af479528ff4fd", null ],
-    [ "GetInstanceScript", "d5/d1b/a24023.html#ae8e9810a9bfd6b0ec256dd6a288392ed", null ]
+    [ "HandleEffect", "d5/d1b/a24023.html#ac0fb38f62cc9a41eb70b2ca951f9d1dc", null ],
+    [ "PrepareSpellScript", "d5/d1b/a24023.html#abbbffa0a53dc2a55df5e7b17a7f4d38f", null ],
+    [ "Register", "d5/d1b/a24023.html#ac406946bb793125d49006e3a877c9638", null ],
+    [ "SelectTarget", "d5/d1b/a24023.html#ac36f3d88a0ef8ccaee5bac17bffcaf49", null ]
 ];

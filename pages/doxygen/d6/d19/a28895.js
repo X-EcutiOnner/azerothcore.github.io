@@ -1,6 +1,6 @@
 var a28895 =
 [
-    [ "Id", "d6/d19/a28895.html#a5d7f2d5a2890593554ea841deb38abb2", null ],
-    [ "Order", "d6/d19/a28895.html#a16fca42d9a0a98e034a93984c4362b53", null ],
-    [ "TypeFlags", "d6/d19/a28895.html#ac7246adc7c6c3217de8ac093983b7553", null ]
+    [ "X", "d6/d19/a28895.html#a55bda49b2eb919415afaf780ca1977de", null ],
+    [ "Y", "d6/d19/a28895.html#a0bf22799258050a9b12ddc14bb2b4b11", null ],
+    [ "Z", "d6/d19/a28895.html#a7f0ceece775146d825d19a3cd22e5da3", null ]
 ];

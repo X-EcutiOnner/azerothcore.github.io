@@ -1,6 +1,6 @@
 var a24935 =
 [
-    [ "HandleAfterCast", "d0/d41/a24935.html#a39572ebbeee6fe39bc4454088c622bcd", null ],
-    [ "PrepareSpellScript", "d0/d41/a24935.html#a602d7c920aa73a9c3c69222854093036", null ],
-    [ "Register", "d0/d41/a24935.html#addbbf508a0e1074c23ebd325dd62bbe9", null ]
+    [ "HandleEffectCalcSpellMod", "d0/d41/a24935.html#aaf21dafa72b58245f548ed946a49659d", null ],
+    [ "PrepareAuraScript", "d0/d41/a24935.html#ac05d3ae466ad64ac590f399827aac0c9", null ],
+    [ "Register", "d0/d41/a24935.html#a46a643985647d8a8e033b637b31214a5", null ]
 ];

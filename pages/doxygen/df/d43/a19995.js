@@ -1,5 +1,7 @@
 var a19995 =
 [
-    [ "at_hol_hall_of_watchers", "df/d43/a19995.html#aeb6a3edb75d3592b2e3df32fa61829d0", null ],
-    [ "_OnTrigger", "df/d43/a19995.html#adc0ed221142741010c5607f9473ed2f1", null ]
+    [ "HandleProc", "df/d43/a19995.html#a84255cd31ebaa7c70de93d569258c709", null ],
+    [ "PrepareAuraScript", "df/d43/a19995.html#a8d9c8122b105b28b88c4297d3a9acf7f", null ],
+    [ "Register", "df/d43/a19995.html#a6bc166d2e1455537fa78c4223da17746", null ],
+    [ "Validate", "df/d43/a19995.html#ab38bde2ed642dcf4fda1893a131aa6fe", null ]
 ];

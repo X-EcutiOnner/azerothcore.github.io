@@ -1,8 +1,8 @@
 var a26963 =
 [
-    [ "CalculateAmount", "d2/dd3/a26963.html#aa1810db9a7b8fbc3572621ff35e0eeb1", null ],
-    [ "PrepareAuraScript", "d2/dd3/a26963.html#ad40d44271840b8e2bd1dc22b6a04290e", null ],
-    [ "ReflectDamage", "d2/dd3/a26963.html#ad8b5f9a7952fc33d7e1fee28e4872212", null ],
-    [ "Register", "d2/dd3/a26963.html#a18b19ee8823e2d1747caeefaf457ad8d", null ],
-    [ "Validate", "d2/dd3/a26963.html#af2936ba4a29fc8735a3cabe805c77355", null ]
+    [ "HandleProc", "d2/dd3/a26963.html#a95553bc0c973be3a2e3911602e4067c8", null ],
+    [ "PrepareAuraScript", "d2/dd3/a26963.html#a99ea6943a3e8d4105b4187d8ea1a298d", null ],
+    [ "Register", "d2/dd3/a26963.html#aad50f19b0c854b7f9c5d81cd2e86bdfa", null ],
+    [ "Validate", "d2/dd3/a26963.html#aad1324e94920136258c419094cfca4c3", null ],
+    [ "_cooldownEnd", "d2/dd3/a26963.html#a4f19a965ed8ddab712633abdb761d210", null ]
 ];

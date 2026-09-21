@@ -1,8 +1,8 @@
 var a21347 =
 [
-    [ "CountTargets", "de/d45/a21347.html#aaf8528038c6b3172d4810ed773f71644", null ],
-    [ "HandleDummy", "de/d45/a21347.html#ac5fa1dd078656f7ae182ec18eddacfe3", null ],
-    [ "PrepareSpellScript", "de/d45/a21347.html#a1f31273cb1826cd07196eacfbdc46673", null ],
-    [ "Register", "de/d45/a21347.html#adce6a5d920ac616dc0579fcd96c49288", null ],
-    [ "_targetCount", "de/d45/a21347.html#acfd8832cb9a197dddb034a003b318911", null ]
+    [ "CheckProc", "de/d45/a21347.html#a93a45a442c2527468a5bfd4136bb53a0", null ],
+    [ "HandleProc", "de/d45/a21347.html#a8641ddd1b6722a30b167d170adb47fd8", null ],
+    [ "PrepareAuraScript", "de/d45/a21347.html#a55ce8f27fa326da9b68db7f4cd4bc334", null ],
+    [ "Register", "de/d45/a21347.html#a04df3b39b6a80592b6b2afe76e85a1e0", null ],
+    [ "Validate", "de/d45/a21347.html#ad4176f188412053b9205820fb6183d38", null ]
 ];

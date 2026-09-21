@@ -1,6 +1,6 @@
 var a22131 =
 [
-    [ "npc_llod_genericAI", "dd/d86/a22135.html", "dd/d86/a22135" ],
-    [ "npc_llod_generic", "db/d24/a22131.html#a97a3957c4881808facf7910e4ae4ffd4", null ],
-    [ "GetAI", "db/d24/a22131.html#aeb2e7d9de871686e436d1e55f47085a2", null ]
+    [ "HandleOnEffectRemove", "db/d24/a22131.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51", null ],
+    [ "PrepareAuraScript", "db/d24/a22131.html#af415e4d7ea0b4b881af94eb7ea0c3f4c", null ],
+    [ "Register", "db/d24/a22131.html#a242faa8822f9cdb7762d8ec3b6245b30", null ]
 ];

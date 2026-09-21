@@ -1,7 +1,9 @@
 var a13387 =
 [
-    [ "HandleDummy", "d3/d54/a13387.html#a02b89ff0a3ea53bb2740c7deb51279c2", null ],
-    [ "PrepareSpellScript", "d3/d54/a13387.html#a55a794dbaf76a549bd11fbe2a2432609", null ],
-    [ "Register", "d3/d54/a13387.html#a17784359e300e9d66c0c22bc5e7b6f6c", null ],
-    [ "Validate", "d3/d54/a13387.html#af12eb55064f7f1f1063ec0ce2863bc57", null ]
+    [ "go_blood_drenched_doorAI", "d3/d54/a13387.html#af431fff2778278cbd3e27b3906201373", null ],
+    [ "GossipHello", "d3/d54/a13387.html#aa3d9c4ee80d6fb42103a3f02abdd8d20", null ],
+    [ "UpdateAI", "d3/d54/a13387.html#a644ac9ce05242714d1b87150852539f3", null ],
+    [ "events", "d3/d54/a13387.html#a2c51ffa6a3992fe55c2e22cb783409c9", null ],
+    [ "mirkblood", "d3/d54/a13387.html#a07e1b098c31efe45e2df4f85f71109e4", null ],
+    [ "opener", "d3/d54/a13387.html#aa70272eb79e875ba7d7767a1bf82afe9", null ]
 ];

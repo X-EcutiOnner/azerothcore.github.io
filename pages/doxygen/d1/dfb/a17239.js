@@ -1,6 +1,10 @@
 var a17239 =
 [
-    [ "instance_drak_tharon_keep", "d1/dfb/a17239.html#ac3aca003330592eae06a1d843c0ae9ce", null ],
-    [ "OnGameObjectCreate", "d1/dfb/a17239.html#acf6da22dd55ac945360a6c40d2b55ccf", null ],
-    [ "OnGameObjectRemove", "d1/dfb/a17239.html#a0acbb86696d31eb2ef4bdd868ca03351", null ]
+    [ "boss_dredAI", "d1/dfb/a17239.html#a4ad04fe31990a37fd6d3a23329350248", null ],
+    [ "GetData", "d1/dfb/a17239.html#a7a93506d77eaf40c6f7be9e433f211e1", null ],
+    [ "JustEngagedWith", "d1/dfb/a17239.html#ae6e1181dcdea763460ca72148abfcb3f", null ],
+    [ "Reset", "d1/dfb/a17239.html#a5fe153ab58b1feedce5afa6b10a0d3de", null ],
+    [ "ScheduleTasks", "d1/dfb/a17239.html#aaea229cebd3d82b01c4577e58a06de2d", null ],
+    [ "SetData", "d1/dfb/a17239.html#a884f48aabc26b054dcd303a91cb88301", null ],
+    [ "_raptorCount", "d1/dfb/a17239.html#a95aa63c18d7e1f2dec2491ac4649a378", null ]
 ];

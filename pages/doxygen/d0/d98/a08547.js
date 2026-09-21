@@ -1,10 +1,11 @@
 var a08547 =
 [
-    [ "IsCastable", "d0/d98/a08547.html#a677b21866e24d2c94de28d96db07aafd", null ],
-    [ "MoneyCost", "d0/d98/a08547.html#af20caa962ba1f5edb376b78b6b35b119", null ],
-    [ "ReqAbility", "d0/d98/a08547.html#a101686190208be6fb46a46768ca779f9", null ],
-    [ "ReqLevel", "d0/d98/a08547.html#a45e87439b1ae356ccb9ff381f58f942e", null ],
-    [ "ReqSkillLine", "d0/d98/a08547.html#a008ff0df36f2e19534a5fda97616f14f", null ],
-    [ "ReqSkillRank", "d0/d98/a08547.html#aa151d559cb276797a39dd203fd1b24c2", null ],
-    [ "SpellId", "d0/d98/a08547.html#ac289744925387c199fde756867bbfc57", null ]
+    [ "FormationInfo", "d0/d98/a08547.html#ad00d7dd0ac811a3805a8ba2c9c1e73df", null ],
+    [ "HasGroupFlag", "d0/d98/a08547.html#afc612acf30e8d0a047aac5b0fc2dc07b", null ],
+    [ "follow_angle", "d0/d98/a08547.html#a928ce7047d511c316a5367faf7f96673", null ],
+    [ "follow_dist", "d0/d98/a08547.html#a3b59ee5129e208cc3df407a921362393", null ],
+    [ "groupAI", "d0/d98/a08547.html#af9f6dc52999efef6f0819bb8d1670fec", null ],
+    [ "leaderGUID", "d0/d98/a08547.html#ad5af23397ae1ae835a72ce125d102ef0", null ],
+    [ "point_1", "d0/d98/a08547.html#a84298ff533bebc633689742c7f9299ae", null ],
+    [ "point_2", "d0/d98/a08547.html#acc308b497de18211b99eec4311b256a4", null ]
 ];

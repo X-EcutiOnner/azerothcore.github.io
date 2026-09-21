@@ -1,6 +1,7 @@
 var a23471 =
 [
-    [ "instance_steam_vault_InstanceMapScript", "d9/d88/a23475.html", "d9/d88/a23475" ],
-    [ "instance_steam_vault", "d2/d2a/a23471.html#aa3417083841ccb50c8a2f29ba343e115", null ],
-    [ "GetInstanceScript", "d2/d2a/a23471.html#a3a2edb84cc7067d3c8fa2151b4763c5a", null ]
+    [ "npc_ahune_ice_spear_bunny", "d2/d2a/a23471.html#aecc30efddcf4ae9bd93504e1d727ee87", null ],
+    [ "InitializeAI", "d2/d2a/a23471.html#a5e7eb38f6bf4a947bd1e09ee198eb45d", null ],
+    [ "UpdateAI", "d2/d2a/a23471.html#ac7fd9b174f2ee1b1adf9d20d59c67bc2", null ],
+    [ "_scheduler", "d2/d2a/a23471.html#a1a1a8b066a3cab9e15710fa97a8c83e6", null ]
 ];

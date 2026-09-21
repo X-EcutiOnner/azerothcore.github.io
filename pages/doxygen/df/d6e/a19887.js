@@ -1,6 +1,5 @@
 var a19887 =
 [
-    [ "npc_oculus_drakeAI", "d6/d43/a19891.html", "d6/d43/a19891" ],
-    [ "npc_oculus_drake", "df/d6e/a19887.html#ad2897dd72e9337af53ef2f043cd07d55", null ],
-    [ "GetAI", "df/d6e/a19887.html#afd2f1678a7faef76a231e4c16bd015e5", null ]
+    [ "achievement_split_personality", "df/d6e/a19887.html#aac29ae7c321306a663e55493987af45d", null ],
+    [ "OnCheck", "df/d6e/a19887.html#ab5379f3c1191eeb747cb6762fc42ce01", null ]
 ];

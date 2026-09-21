@@ -1,14 +1,8 @@
 var a20191 =
 [
-    [ "boss_auriaya", "dc/d25/a20191.html#a2d946ada185a29bf00dc49d28089e64e", null ],
-    [ "DespawnFormationMembers", "dc/d25/a20191.html#a46dcb873d4101174687b4189d0494403", null ],
-    [ "DoAction", "dc/d25/a20191.html#aa58503020e3382e0c541047b233945a7", null ],
-    [ "ExecuteEvent", "dc/d25/a20191.html#ad8623f7f0dcda5532893c966cb216fc0", null ],
-    [ "GetData", "dc/d25/a20191.html#a44781b758392f8f519b9684617757620", null ],
-    [ "JustDied", "dc/d25/a20191.html#aa68d15f57a1ef545572f6d14a0541f4f", null ],
-    [ "JustEngagedWith", "dc/d25/a20191.html#ac80d7bbc334e20df9e85540556b8714e", null ],
-    [ "KilledUnit", "dc/d25/a20191.html#a6a3d2a4c2ae460da8db6b92b85bed45f", null ],
-    [ "Reset", "dc/d25/a20191.html#a4e2d1f982b2d5cb34ec8f77f869e8bad", null ],
-    [ "_feralDied", "dc/d25/a20191.html#a6e9a34f197964061752d7fd8283b1bf0", null ],
-    [ "_nineLives", "dc/d25/a20191.html#a26d80573eda1aa1005e1bc5453c182af", null ]
+    [ "HandlePeriodic", "dc/d25/a20191.html#a2724a85983561a14db8b06ae492ead55", null ],
+    [ "OnRemove", "dc/d25/a20191.html#a6d0f941f30d8c850e48396fffd13768d", null ],
+    [ "PrepareAuraScript", "dc/d25/a20191.html#aea9d38dc7fdff6d38d252bb5ded57d78", null ],
+    [ "Register", "dc/d25/a20191.html#a85270947972be9c299a642b31969ef68", null ],
+    [ "Validate", "dc/d25/a20191.html#a91ebb4e69d02deb5129965f543c474d1", null ]
 ];

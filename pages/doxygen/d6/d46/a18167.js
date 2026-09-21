@@ -1,6 +1,6 @@
 var a18167 =
 [
-    [ "npc_cult_fanaticAI", "df/d67/a18171.html", "df/d67/a18171" ],
-    [ "npc_cult_fanatic", "d6/d46/a18167.html#af29ab8f7628b96b0f192bccab74ca02e", null ],
-    [ "GetAI", "d6/d46/a18167.html#ae4d22bac12d17d79669d3fccd4029952", null ]
+    [ "PrepareSpellScript", "d6/d46/a18167.html#a4878ffa30feb16e98d3945f8a6e3c863", null ],
+    [ "Register", "d6/d46/a18167.html#a651f52f7d242251ff69d100fd69376e4", null ],
+    [ "SelectTarget", "d6/d46/a18167.html#aede083ebebe38deb5898ff028564ef95", null ]
 ];

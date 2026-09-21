@@ -1,9 +1,7 @@
 var a27759 =
 [
-    [ "CheckCast", "df/d04/a27759.html#a441927e0d8d7304030440c19458eb34d", null ],
-    [ "HandleScriptEffect", "df/d04/a27759.html#a10e9691aa15869c82fba79072a314d7e", null ],
-    [ "PrepareSpellScript", "df/d04/a27759.html#a90b8ae945aeb85ad6e8a120501288979", null ],
-    [ "Register", "df/d04/a27759.html#aac95bd6f7409e1ae9d3f9cf0c7212990", null ],
-    [ "Validate", "df/d04/a27759.html#a00c67b65bcfdeaf56295da6a64689d58", null ],
-    [ "iTypes", "df/d04/a27759.html#ae852b9df34612c074eab23b025c86870", null ]
+    [ "HandleBonus", "df/d04/a27759.html#a2bf167d8561f2ef36e44fa9754f0d9a3", null ],
+    [ "PrepareAuraScript", "df/d04/a27759.html#aebf4afa25b50be9b99900ef830f26f04", null ],
+    [ "Register", "df/d04/a27759.html#ad69315b8eca4173a1e0db21cd98e9c3c", null ],
+    [ "Validate", "df/d04/a27759.html#aef0e4a0474718f61f89ff4c825923fc1", null ]
 ];

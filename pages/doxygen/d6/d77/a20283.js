@@ -1,8 +1,12 @@
 var a20283 =
 [
-    [ "FilterTargets", "d6/d77/a20283.html#a93b41db0e89710c6e0e3c764d51d37ad", null ],
-    [ "HandleScript", "d6/d77/a20283.html#a0c7d9007a9401b96a3c1f8614dc1a2db", null ],
-    [ "PrepareSpellScript", "d6/d77/a20283.html#aea46762f43b31923617f740e0545fe98", null ],
-    [ "Register", "d6/d77/a20283.html#a6ccde780ea9fba273b96d6fd9558a2d1", null ],
-    [ "Validate", "d6/d77/a20283.html#af526a7a7a82ec7621f8842e884d7b14f", null ]
+    [ "npc_auriaya_feral_defender", "d6/d77/a20283.html#a84425204b0ad06789edb331ed8495774", null ],
+    [ "DamageTaken", "d6/d77/a20283.html#aaebbf27345a546bf66e4ab7ed8eae556", null ],
+    [ "DoAction", "d6/d77/a20283.html#aea39a90b4e66796c37dde02687a9b2ad", null ],
+    [ "JustDied", "d6/d77/a20283.html#aa86cb08096ba0e43280f23d9acd0bfa1", null ],
+    [ "JustEngagedWith", "d6/d77/a20283.html#a3d91f99b57ba4d72b526a13f671961ce", null ],
+    [ "JustSummoned", "d6/d77/a20283.html#acea3175bcd4df4cf88dc9561c01bee64", null ],
+    [ "Reset", "d6/d77/a20283.html#a02b09b7dfdd4036827bb474a57296491", null ],
+    [ "UpdateAI", "d6/d77/a20283.html#a7b40afef6b58e7a41b2d00bccbdfe311", null ],
+    [ "_summons", "d6/d77/a20283.html#a0b7960f590ba76068c377cf08291ce35", null ]
 ];

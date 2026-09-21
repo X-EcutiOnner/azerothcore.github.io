@@ -1,6 +1,10 @@
 var a28671 =
 [
-    [ "npc_stable_masterAI", "d2/d4c/a28675.html", "d2/d4c/a28675" ],
-    [ "npc_stable_master", "de/de8/a28671.html#ad327340f47e10bec7f077192227b0899", null ],
-    [ "GetAI", "de/de8/a28671.html#a7e34e18d2dad465eb88b0388fa830490", null ]
+    [ "npc_dancing_flamesAI", "de/de8/a28671.html#a3d597b2ee826c86b5a8feb3aa144a459", null ],
+    [ "JustEngagedWith", "de/de8/a28671.html#ae0d71d4f9074c05ea76951ede6c7702a", null ],
+    [ "ReceiveEmote", "de/de8/a28671.html#a13aae489e8b03121c8fbae12e83bdfaa", null ],
+    [ "Reset", "de/de8/a28671.html#a53b49dadc70e3e134ca49cd239b569d6", null ],
+    [ "UpdateAI", "de/de8/a28671.html#a555f2ed0d762c5c183ec87580bae46b1", null ],
+    [ "Active", "de/de8/a28671.html#aa79036bed206327847bf5ad2e768e8f6", null ],
+    [ "CanIteract", "de/de8/a28671.html#a866bfc106fc33433b4eb13fabd9c39c6", null ]
 ];

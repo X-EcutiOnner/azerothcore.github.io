@@ -1,5 +1,6 @@
 var a04397 =
 [
-    [ "ProcEventInfoBuilder", "de/d94/a29781.html", "de/d94/a29781" ],
-    [ "SpellProcEntryBuilder", "d5/db2/a29785.html", "d5/db2/a29785" ]
+    [ "UnitStub", "d6/dd5/a29831.html", "d6/dd5/a29831" ],
+    [ "UnitStub::CastRecord", "dc/dfd/a29835.html", "dc/dfd/a29835" ],
+    [ "MockUnitStub", "d7/d70/a29839.html", "d7/d70/a29839" ]
 ];

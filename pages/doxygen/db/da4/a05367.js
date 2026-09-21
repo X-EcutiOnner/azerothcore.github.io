@@ -1,11 +1,9 @@
 var a05367 =
 [
-    [ "ModelPosition", "db/da4/a05367.html#ac611d964ae36e4ccd5a3bf385457a0ac", null ],
-    [ "init", "db/da4/a05367.html#a5b7df306c28a7985fd3ab17d48350a27", null ],
-    [ "moveToBasePos", "db/da4/a05367.html#adb4da027178ca086fe72b4ccf4ea327a", null ],
-    [ "transform", "db/da4/a05367.html#a7e72fc425ad6aae4844090760c1938df", null ],
-    [ "iDir", "db/da4/a05367.html#a24ba62281166e60036ac8a57b26c6abd", null ],
-    [ "iPos", "db/da4/a05367.html#a36a3bd930273e0313e3b09c1289e9317", null ],
-    [ "iRotation", "db/da4/a05367.html#ae53c5b044021f5ef04ecb5d8898fd8b3", null ],
-    [ "iScale", "db/da4/a05367.html#a81bb029dce2aadec2f147a1329ee285e", null ]
+    [ "MapRayCallback", "db/da4/a05367.html#a1a4a654bc929dab5b5a2804c4b88389d", null ],
+    [ "didHit", "db/da4/a05367.html#a9d9abb0a5ffff131d2c19e88c3c8b836", null ],
+    [ "operator()", "db/da4/a05367.html#ad8ab3eee3fc3a1888a9ff11edfd946b8", null ],
+    [ "flags", "db/da4/a05367.html#a88d1e6d6fa43608bcee21a822488f061", null ],
+    [ "hit", "db/da4/a05367.html#a6fc14ac7ae20effec9d2657a46b838fc", null ],
+    [ "prims", "db/da4/a05367.html#a389d8ee31e0cb665bfd9084d786750c5", null ]
 ];

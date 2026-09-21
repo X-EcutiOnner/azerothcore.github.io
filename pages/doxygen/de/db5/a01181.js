@@ -1,6 +1,5 @@
 var a01181 =
 [
-    [ "ArenaSeasonTeamRewarder", "df/dfc/a07657.html", "df/dfc/a07657" ],
-    [ "ArenaSeasonTeamRewarderImpl", "d2/dd0/a07661.html", "d2/dd0/a07661" ],
-    [ "ArenaSeasonRewardDistributor", "d5/d58/a07665.html", "d5/d58/a07665" ]
+    [ "GetLowLevelsMinPlayersOverride", "de/db5/a01181.html#a37cb97319fde2ce5eaaef583591063a9", null ],
+    [ "GetMinPlayersPerTeam", "de/db5/a01181.html#ab22bdb52b0357434faced9df19db9d81", null ]
 ];

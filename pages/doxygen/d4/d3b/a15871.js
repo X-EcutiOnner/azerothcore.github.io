@@ -1,11 +1,7 @@
 var a15871 =
 [
-    [ "npc_stillpine_capitiveAI", "d4/d3b/a15871.html#a98560e7fc360dbfa3166805d9ab3feb4", null ],
-    [ "MovementInform", "d4/d3b/a15871.html#a1e930b49da85a64aa87ba79b5fe72391", null ],
-    [ "Reset", "d4/d3b/a15871.html#a9c884f892e64044057d477bdc0f89eed", null ],
-    [ "StartMoving", "d4/d3b/a15871.html#a2552a79cf384cca1203afa7f241c1cb9", null ],
-    [ "UpdateAI", "d4/d3b/a15871.html#a25dc06767382b5fee2a7098b58726fb2", null ],
-    [ "_events", "d4/d3b/a15871.html#a93dd55d392836d8d085e34293344b700", null ],
-    [ "_movementComplete", "d4/d3b/a15871.html#ae8e39ca782aee412e39d65a33d14014e", null ],
-    [ "_playerGUID", "d4/d3b/a15871.html#a3fe9a4f01aebb602095d60eb606ce763", null ]
+    [ "npc_anubisath_warder", "d4/d3b/a15871.html#aebe14673e5c31000a9626e39d87c6775", null ],
+    [ "JustEngagedWith", "d4/d3b/a15871.html#a579318fa519eb669573b2cea78c2fee3", null ],
+    [ "Reset", "d4/d3b/a15871.html#aea0fac8f1eb28591b141ace55c49beeb", null ],
+    [ "UpdateAI", "d4/d3b/a15871.html#aba428f1f1a016191aa4f168c616c3a29", null ]
 ];

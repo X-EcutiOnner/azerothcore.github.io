@@ -1,6 +1,8 @@
 var a25871 =
 [
-    [ "HandlePreventAura", "d7/dd8/a25871.html#a62b9a62f5379f4ca98921c7fe4278b58", null ],
-    [ "PrepareSpellScript", "d7/dd8/a25871.html#a61b2f1d5634219f9c48a9ea75e90d423", null ],
-    [ "Register", "d7/dd8/a25871.html#ab1a90b7939c146b40badfd6424c35cf7", null ]
+    [ "HandleFinish", "d7/dd8/a25871.html#aac1981a16cbb61bfaf20c865bcfaf6a8", null ],
+    [ "PrepareSpellScript", "d7/dd8/a25871.html#a73865997890d4f58cc09d54c2c4e5243", null ],
+    [ "Register", "d7/dd8/a25871.html#a106cf5d53956b66f8f548caceda41dc8", null ],
+    [ "SelectTarget", "d7/dd8/a25871.html#ab33513df20e942ba354932df5082efa8", null ],
+    [ "_target", "d7/dd8/a25871.html#af25d11fc93423ee6e1678ebb5dcf1276", null ]
 ];

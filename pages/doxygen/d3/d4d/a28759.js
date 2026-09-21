@@ -1,7 +1,6 @@
 var a28759 =
 [
-    [ "HandleDummy", "d3/d4d/a28759.html#ade9ff4db63fecf726776f6e4b36bb437", null ],
-    [ "PrepareSpellScript", "d3/d4d/a28759.html#a0375b541f2a90e337fee61ced6d8f3ec", null ],
-    [ "Register", "d3/d4d/a28759.html#a66c530b497e4952b457bbfa50a036c07", null ],
-    [ "Validate", "d3/d4d/a28759.html#a968333dcfe0553ad73879f3042db5511", null ]
+    [ "npc_stable_masterAI", "d3/d4e/a28763.html", "d3/d4e/a28763" ],
+    [ "npc_stable_master", "d3/d4d/a28759.html#ad327340f47e10bec7f077192227b0899", null ],
+    [ "GetAI", "d3/d4d/a28759.html#a7e34e18d2dad465eb88b0388fa830490", null ]
 ];

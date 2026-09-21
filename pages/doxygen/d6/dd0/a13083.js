@@ -1,6 +1,7 @@
 var a13083 =
 [
-    [ "HandleHit", "d6/dd0/a13083.html#a5245f935c0cafd14e492214a51d85ad3", null ],
-    [ "PrepareSpellScript", "d6/dd0/a13083.html#a074b9e23de0a9b24776c7e361791c6ff", null ],
-    [ "Register", "d6/dd0/a13083.html#a12f7db2345ce0d19a18791a2e63e7450", null ]
+    [ "HandleEffectScriptEffect", "d6/dd0/a13083.html#a8157c4b213b3b4e260222976e283e2ae", null ],
+    [ "PrepareSpellScript", "d6/dd0/a13083.html#aa8a4fdd0dc5c06a836ac05cec0dccd75", null ],
+    [ "Register", "d6/dd0/a13083.html#aeda056b568b4956ba35b32a3f20c053e", null ],
+    [ "Validate", "d6/dd0/a13083.html#a29a7f51f01e1ccf71dcc53ad68f032ae", null ]
 ];

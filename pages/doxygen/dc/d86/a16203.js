@@ -1,6 +1,6 @@
 var a16203 =
 [
-    [ "HandleDummy", "dc/d86/a16203.html#a2750ae788168e7496ea2345c5535509c", null ],
-    [ "PrepareSpellScript", "dc/d86/a16203.html#a66b4187decbfb0b5623ce5630a8fa9d3", null ],
-    [ "Register", "dc/d86/a16203.html#ab6c961d89d22761402eb4f5881cbd318", null ]
+    [ "npc_custodian_of_timeAI", "dd/d1b/a16207.html", "dd/d1b/a16207" ],
+    [ "npc_custodian_of_time", "dc/d86/a16203.html#a6018b30119ce819853a3c662b3d5347e", null ],
+    [ "GetAI", "dc/d86/a16203.html#a57217b2dab1cab110f1c59526ca13c86", null ]
 ];

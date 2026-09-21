@@ -1,7 +1,9 @@
 var a17443 =
 [
-    [ "HandlePeriodicTick", "d6/d4b/a17443.html#ac8b3f1a826e3491d4315983a89d23d2e", null ],
-    [ "PrepareAuraScript", "d6/d4b/a17443.html#ad54c3014195c5b848ab1f9cc978f72b3", null ],
-    [ "Register", "d6/d4b/a17443.html#af8e1ee8ddf7ed8290eb71fb7697428fb", null ],
-    [ "Validate", "d6/d4b/a17443.html#a6de2140f17790b63314f653b7dd0ddd3", null ]
+    [ "npc_hor_spiritual_reflection", "d6/d4b/a17443.html#ade6e6c1f32f4353c131fce054d6b94c4", null ],
+    [ "EnterEvadeMode", "d6/d4b/a17443.html#a3973e83b013df723849939635071324f", null ],
+    [ "JustDied", "d6/d4b/a17443.html#a913d17e1534a5940b7841e38eae246f7", null ],
+    [ "JustEngagedWith", "d6/d4b/a17443.html#ad47d12654c88cc94b7c17906e4096115", null ],
+    [ "Reset", "d6/d4b/a17443.html#aa7dad28bbe53286ec298ba5480717e69", null ],
+    [ "UpdateAI", "d6/d4b/a17443.html#a5093b6502bca95c22b2b0f0117f86047", null ]
 ];

@@ -1,7 +1,6 @@
 var a20171 =
 [
-    [ "OnRemove", "df/daa/a20171.html#a4d7ec990112b4ed602bcacf5a6de6722", null ],
-    [ "PrepareAuraScript", "df/daa/a20171.html#a7cc9f0d6882b713c7b0a2585d6008437", null ],
-    [ "Register", "df/daa/a20171.html#ad3a66fdfb2a159461bb3deeab6f71c13", null ],
-    [ "Validate", "df/daa/a20171.html#a8bd121743d1153ae3fd8eb124e475d0f", null ]
+    [ "npc_collapsing_star", "df/daa/a20171.html#a6660bd7f397d7a3cd7ee5d3580b6bb78", null ],
+    [ "DamageTaken", "df/daa/a20171.html#ad19c1a3c033b0d97fe42c492634f9cd4", null ],
+    [ "JustSummoned", "df/daa/a20171.html#a56e0bb55d903b6e7e5c493292512bebe", null ]
 ];

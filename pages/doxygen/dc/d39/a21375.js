@@ -1,13 +1,13 @@
 var a21375 =
 [
-    [ "MoveX", "dc/d39/a21375.html#aaae6e8ea168850a934b887ec006d7d8b", null ],
-    [ "MoveY", "dc/d39/a21375.html#a62cd7f778cea049a1a6a4c34d21545a7", null ],
-    [ "MoveZ", "dc/d39/a21375.html#a80b842f55108fec58fe04cf02e8e0b35", null ],
-    [ "npc", "dc/d39/a21375.html#a4bdccc14156f7e5822c9a8eefc29adaa", null ],
-    [ "say", "dc/d39/a21375.html#adcd8647fc0ee9799e24173780209f2d9", null ],
-    [ "SpawnO", "dc/d39/a21375.html#a3b6b89143c8a875cda01b000cea6a7c7", null ],
-    [ "SpawnX", "dc/d39/a21375.html#af3ae27adaecafe9a09802bc202973d68", null ],
-    [ "SpawnY", "dc/d39/a21375.html#a749e9c6edcc87f258f250344d652145c", null ],
-    [ "SpawnZ", "dc/d39/a21375.html#a06a0f8e5a7d63204d57992dc9623f83b", null ],
-    [ "trigger", "dc/d39/a21375.html#ad2291d89a874c79859b3140754594ed7", null ]
+    [ "npc_ferocious_rhinoAI", "dc/d39/a21375.html#ad70d0aeba4b73330c5087bc84a533389", null ],
+    [ "DoAction", "dc/d39/a21375.html#a10395930fed95fb7809a0b5ffe224c4d", null ],
+    [ "JustDied", "dc/d39/a21375.html#a2b1af0402dc1b4940534d2e60d7ef33e", null ],
+    [ "JustEngagedWith", "dc/d39/a21375.html#aab35078fe4518b6647f98e316d02898a", null ],
+    [ "JustReachedHome", "dc/d39/a21375.html#ab8105d6c8c70037c208c83c13c35242d", null ],
+    [ "MoveInLineOfSight", "dc/d39/a21375.html#a97e32d32a692f223b96746f3ef1086c5", null ],
+    [ "Reset", "dc/d39/a21375.html#a6d317407c2de2f954b5dd2a6db137304", null ],
+    [ "UpdateAI", "dc/d39/a21375.html#a09b80e739e4df6e751c9c2846f3fb999", null ],
+    [ "events", "dc/d39/a21375.html#af23061de7d8566c7435c2c64c53dff89", null ],
+    [ "m_pInstance", "dc/d39/a21375.html#a97e00db40792c559dd06327c9960abe4", null ]
 ];

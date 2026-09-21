@@ -1,8 +1,7 @@
 var a19119 =
 [
-    [ "npc_arthas_teleport_visualAI", "d3/dd9/a19119.html#a9b9b2ba725cde9aec898244a9e50c394", null ],
-    [ "Reset", "d3/dd9/a19119.html#a27155b8880a2a86b733bcd074e977b59", null ],
-    [ "UpdateAI", "d3/dd9/a19119.html#a23c200f2c7b9f5d02bed7af37bc69c33", null ],
-    [ "_events", "d3/dd9/a19119.html#a986f19145e46f5975f22a84a3e1b10ee", null ],
-    [ "_instance", "d3/dd9/a19119.html#a25bc023e061a0845421a652b571a6e1e", null ]
+    [ "npc_frost_freeze_trapAI", "d3/dd9/a19119.html#a95c64fbbc97f55e4d0cd0b239939fdc6", null ],
+    [ "DoAction", "d3/dd9/a19119.html#a8dbe0fc5c84f49363254562166c8c0a7", null ],
+    [ "UpdateAI", "d3/dd9/a19119.html#ae8efccb090f38968f3c0ca51f022013b", null ],
+    [ "_events", "d3/dd9/a19119.html#ae0abd3d7fcb51ac02f8d325efa93b2f2", null ]
 ];

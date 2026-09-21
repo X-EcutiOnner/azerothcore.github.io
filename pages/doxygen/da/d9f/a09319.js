@@ -1,6 +1,9 @@
 var a09319 =
 [
-    [ "lang_id", "da/d9f/a09319.html#a1fa900a467834103ac595a8a96dd28c0", null ],
-    [ "skill_id", "da/d9f/a09319.html#a37ffc91876a998fe354ca1b7dffc512a", null ],
-    [ "spell_id", "da/d9f/a09319.html#ac0acb5dfb8af32b382b3b51db4daa0f0", null ]
+    [ "day", "da/d9f/a09319.html#a50a70dfa2fdb407101edf051eeacbad6", null ],
+    [ "holidayId", "da/d9f/a09319.html#a2105d2c9d4b2867650f0a3b67b035416", null ],
+    [ "month", "da/d9f/a09319.html#a55e1cf64111db7eeeec72c594b76c56d", null ],
+    [ "offset", "da/d9f/a09319.html#aaa9bf14668239ea561aecc33104e245a", null ],
+    [ "type", "da/d9f/a09319.html#a25f2529332f23c93b37e5c918032eb3d", null ],
+    [ "weekday", "da/d9f/a09319.html#ac431dcdf2d64ae5e31d72971d208ef5b", null ]
 ];

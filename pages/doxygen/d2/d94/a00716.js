@@ -1,6 +1,6 @@
 var a00716 =
 [
-    [ "BattlefieldScript", "db/d79/a10789.html", "db/d79/a10789" ],
+    [ "BattlefieldScript", "d3/dee/a10799.html", "d3/dee/a10799" ],
     [ "BattlefieldHook", "d2/d94/a00716.html#ad9fb0d66e6cd28e54d79830f1d725089", [
       [ "BATTLEFIELDHOOK_ON_PLAYER_ENTER_ZONE", "d2/d94/a00716.html#ad9fb0d66e6cd28e54d79830f1d725089a67b6bd7873a35e7e27c70dacc5e52235", null ],
       [ "BATTLEFIELDHOOK_ON_PLAYER_LEAVE_ZONE", "d2/d94/a00716.html#ad9fb0d66e6cd28e54d79830f1d725089a428ace8bd338bf9389559c879d992007", null ],

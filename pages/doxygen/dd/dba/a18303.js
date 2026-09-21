@@ -1,6 +1,7 @@
 var a18303 =
 [
-    [ "PrepareSpellScript", "dd/dba/a18303.html#a16eadb50b6038f16ea28464d00df3381", null ],
-    [ "Register", "dd/dba/a18303.html#ac6e304d391011863b8eff8105fab5191", null ],
-    [ "SelectDest", "dd/dba/a18303.html#a8ff5d684c0b91d0f068d03698c1ee92c", null ]
+    [ "npc_coldflameAI", "dd/dba/a18303.html#a2a8420b79357f7a2167dddbd68ec8bc0", null ],
+    [ "IsSummonedBy", "dd/dba/a18303.html#a1a330428ac8f17dc673fb1ae4d57035a", null ],
+    [ "UpdateAI", "dd/dba/a18303.html#a5a847ae7c15b309cb1393b6d16a6e220", null ],
+    [ "events", "dd/dba/a18303.html#af3b7d4ca1b268fe0d786eee83c0a3596", null ]
 ];

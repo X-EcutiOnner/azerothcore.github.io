@@ -1,5 +1,7 @@
 var a22563 =
 [
-    [ "OutdoorPvP_eastern_plaguelands", "d1/d91/a22563.html#a5178152ee493eb90b1c1c0f611c6cd92", null ],
-    [ "GetOutdoorPvP", "d1/d91/a22563.html#abc4e99dfa8a600ef578b77ffc3956ada", null ]
+    [ "npc_wg_siege_machineAI", "d1/d91/a22563.html#aaeca9e73520701ce28f2cc9d1483cc6b", null ],
+    [ "CanControlVehicle", "d1/d91/a22563.html#a7ce79406da48e245a0baa2fdd23622b9", null ],
+    [ "UpdateAI", "d1/d91/a22563.html#a8ddd21047a857facc767a9edc0ec5408", null ],
+    [ "checkTimer", "d1/d91/a22563.html#abf4b06eae50adeefedba02e2186ea48a", null ]
 ];

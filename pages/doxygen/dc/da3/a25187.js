@@ -1,6 +1,6 @@
 var a25187 =
 [
-    [ "HandleOnEffectHit", "dc/da3/a25187.html#a07b15e180ee79149cad15b32b3c94359", null ],
-    [ "PrepareSpellScript", "dc/da3/a25187.html#afbea54d2dad7a969d7e7558d43ecbc95", null ],
-    [ "Register", "dc/da3/a25187.html#ad2426cf9076d3fe4f33984ab28df11f6", null ]
+    [ "CheckAreaTarget", "dc/da3/a25187.html#aab7e3693e5744cf444e643f7cdfdf738", null ],
+    [ "PrepareAuraScript", "dc/da3/a25187.html#a551d8d6dd43c83d9a693c5971fa5c224", null ],
+    [ "Register", "dc/da3/a25187.html#a6647a8e35009cf8559e4957a666f037a", null ]
 ];

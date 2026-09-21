@@ -1,10 +1,7 @@
 var a13915 =
 [
-    [ "npc_sunblade_scout", "d1/d06/a13915.html#ab8ecb0d2fb7dfd482b2cba4ed11ababc", null ],
-    [ "JustEngagedWith", "d1/d06/a13915.html#ab57b63a624458a9fa598062e61c5fa0e", null ],
-    [ "Reset", "d1/d06/a13915.html#a8c7f442118fced8a2efac3b9fe0035f5", null ],
-    [ "ScheduleCombat", "d1/d06/a13915.html#ae4ca796fa8fd4aae6ac8f184638b3f97", null ],
-    [ "ScheduleOOC", "d1/d06/a13915.html#ae06c1d7b43cc170f3a3b5f4835822d57", null ],
-    [ "UpdateAI", "d1/d06/a13915.html#aca75482085b72070487c24feefa23fd6", null ],
-    [ "_protectorGUID", "d1/d06/a13915.html#a753f7fbbea33f7fc49f5d6e733a8f833", null ]
+    [ "HandleRemove", "d1/d06/a13915.html#a4484cf33e423f23cad9559a6a16ed9b4", null ],
+    [ "PrepareAuraScript", "d1/d06/a13915.html#a6fa407996b59d98d0eeef877ee89784d", null ],
+    [ "Register", "d1/d06/a13915.html#a7dc81b47954ee8c10b99f389740de0be", null ],
+    [ "Validate", "d1/d06/a13915.html#afd94a159c0f429f2a63ffbd0a38d32e3", null ]
 ];

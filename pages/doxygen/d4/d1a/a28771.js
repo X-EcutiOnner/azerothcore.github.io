@@ -1,5 +1,6 @@
 var a28771 =
 [
-    [ "npc_suns_reach_reclamation", "d4/d1a/a28771.html#aa66b75aa1a4a96a97c4d2c4e42e3d6bb", null ],
-    [ "OnQuestReward", "d4/d1a/a28771.html#aa403d14fccda7adbec1ffeb765079c25", null ]
+    [ "npc_venomhide_hatchlingAI", "d4/d1a/a28771.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
+    [ "IsSummonedBy", "d4/d1a/a28771.html#a6e1b76f43217f1eb855b50d58a069518", null ],
+    [ "SpellHit", "d4/d1a/a28771.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
 ];

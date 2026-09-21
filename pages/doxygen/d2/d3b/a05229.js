@@ -1,6 +1,5 @@
 var a05229 =
 [
-    [ "Resolver", "d2/d3b/a05229.html#ad1a3a95744d64df722a6fb4b267316e6", null ],
-    [ "Resolve", "d2/d3b/a05229.html#ab190f885c84753fe65405db6fb04bf7c", null ],
-    [ "_impl", "d2/d3b/a05229.html#a08ed9183a6338606524c44f0fd5695a0", null ]
+    [ "MDDF", "d6/df4/a30415.html", "d6/df4/a30415" ],
+    [ "MODF", "d2/d1f/a30419.html", "d2/d1f/a30419" ]
 ];

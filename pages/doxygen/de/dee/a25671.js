@@ -1,6 +1,6 @@
 var a25671 =
 [
-    [ "FilterTargets", "de/dee/a25671.html#a80d2ffcd64161e53fd795bd40d2b38e0", null ],
-    [ "PrepareSpellScript", "de/dee/a25671.html#a9fb910382c89750e38cb36bed48a1597", null ],
-    [ "Register", "de/dee/a25671.html#a667b10129d2d23f72712be523dc93180", null ]
+    [ "OnProc", "de/dee/a25671.html#ac7f0a86f2d0c5dcb945eb7ccb9cd5c88", null ],
+    [ "PrepareAuraScript", "de/dee/a25671.html#a6a7b011f151ff81672221b84eb4456b8", null ],
+    [ "Register", "de/dee/a25671.html#a15b05d352f94d2aabeb75a6bfd996fc6", null ]
 ];

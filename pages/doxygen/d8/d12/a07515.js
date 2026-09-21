@@ -1,6 +1,9 @@
 var a07515 =
 [
-    [ "AuctionSearchListRequest", "d8/d12/a07515.html#ac619da4568504e2d25a0f90a4f8d1f0a", null ],
-    [ "playerInfo", "d8/d12/a07515.html#a73178eac3df25fd103b20b5894e8c4d8", null ],
-    [ "searchInfo", "d8/d12/a07515.html#a1e9d71ab67e1a9eb50333d620c4b170c", null ]
+    [ "SmartWaypointMgr", "d8/d12/a07515.html#ad9168edcc4fd16260178d4a9277f71ba", null ],
+    [ "~SmartWaypointMgr", "d8/d12/a07515.html#a7299029b0e2063740fd2fe9d9b218749", null ],
+    [ "GetPath", "d8/d12/a07515.html#ab3fb0cb109b9bf28ee09173f4340c351", null ],
+    [ "instance", "d8/d12/a07515.html#a7ae477d4d210d938e167453d9085e520", null ],
+    [ "LoadFromDB", "d8/d12/a07515.html#a9b5cdb29d31e7de0a407f600aef482af", null ],
+    [ "waypoint_map", "d8/d12/a07515.html#ac34eb4bd79106db2574cce0208a785e5", null ]
 ];

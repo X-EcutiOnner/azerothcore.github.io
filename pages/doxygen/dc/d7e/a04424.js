@@ -1,7 +1,6 @@
 var a04424 =
 [
-    [ "DamageInfoStub", "db/d0f/a29713.html", "db/d0f/a29713" ],
-    [ "HealInfoStub", "d2/d9c/a29717.html", "d2/d9c/a29717" ],
-    [ "DamageInfoStubBuilder", "d7/dff/a29721.html", "d7/dff/a29721" ],
-    [ "HealInfoStubBuilder", "da/da6/a29725.html", "da/da6/a29725" ]
+    [ "IntegrationTestFixture", "d9/d64/a29751.html", "d9/d64/a29751" ],
+    [ "TEST_FACTION_HOSTILE_TO_ALL", "dc/d7e/a04424.html#a2ba0fc21bd7fc2eb0be55b83f098c883", null ],
+    [ "TEST_FACTION_HOSTILE_TO_MONSTERS", "dc/d7e/a04424.html#af72a10157e381ef81a175a8ac4844d73", null ]
 ];

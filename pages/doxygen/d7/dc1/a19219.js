@@ -1,5 +1,5 @@
 var a19219 =
 [
-    [ "at_icc_saurfang_portal", "d7/dc1/a19219.html#a7f30058251c520634a0b7bad08380e5d", null ],
-    [ "OnTrigger", "d7/dc1/a19219.html#a8980fe0e67aa33335f0fdb947a294213", null ]
+    [ "npc_darkfallen_noble", "d7/dc1/a19219.html#a566c1938cadfb6fd9d171f84529e9495", null ],
+    [ "ScheduleSpells", "d7/dc1/a19219.html#a0f7de7ee2cf7d4eacccd42bd63b8cf6f", null ]
 ];

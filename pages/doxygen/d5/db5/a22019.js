@@ -1,7 +1,7 @@
 var a22019 =
 [
-    [ "HandleAfterEffectApply", "d5/db5/a22019.html#ab54795dc49ca453db40494a694158a98", null ],
-    [ "PrepareAuraScript", "d5/db5/a22019.html#a3e5902a79b9d2c5cad69ad2ece8592ec", null ],
-    [ "Register", "d5/db5/a22019.html#addd4fac4cc8a93d800abacb144e3303c", null ],
-    [ "Validate", "d5/db5/a22019.html#a3ee65a1391c340e471adfc7ac653dd50", null ]
+    [ "HandleDummy", "d5/db5/a22019.html#ae180aea347e73fcce44e9ac3ff33d0ce", null ],
+    [ "PrepareSpellScript", "d5/db5/a22019.html#a9d863ad1d44a9d5dc2b212ef0c414626", null ],
+    [ "Register", "d5/db5/a22019.html#a45f80e0436f93a597deb4653852df6a1", null ],
+    [ "Validate", "d5/db5/a22019.html#ad13fdade1fb7455485bfd68687de53c5", null ]
 ];

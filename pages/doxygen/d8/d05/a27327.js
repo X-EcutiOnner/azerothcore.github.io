@@ -1,6 +1,9 @@
 var a27327 =
 [
-    [ "HandleScript", "d8/d05/a27327.html#acde0ae837d0cd3af0f38481027200291", null ],
-    [ "PrepareSpellScript", "d8/d05/a27327.html#ac1237e0af7f88f75ebc551af52fc301c", null ],
-    [ "Register", "d8/d05/a27327.html#a2dc2628984358628afe7d9b62ced7794", null ]
+    [ "CheckCast", "d8/d05/a27327.html#ae99a2b4b582c8a2c8921b8921400ffbe", null ],
+    [ "HandleActiveObject", "d8/d05/a27327.html#a79a51387f0a515ed07fcc1ac9e428290", null ],
+    [ "HandleDummy", "d8/d05/a27327.html#a39dd06ae92d04060ee41897318a701fd", null ],
+    [ "Load", "d8/d05/a27327.html#a76fff3a9d20f48e4814ee0f258be07b8", null ],
+    [ "PrepareSpellScript", "d8/d05/a27327.html#a016e480d7b2267c9bf824c9cb029f134", null ],
+    [ "Register", "d8/d05/a27327.html#aa05d48c35f748d93f5d8ff1defe2d3c9", null ]
 ];

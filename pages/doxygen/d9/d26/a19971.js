@@ -1,12 +1,12 @@
 var a19971 =
 [
-    [ "boss_loken", "d9/d26/a19971.html#a50ba322cf0adb3030444bf8fde4dba0c", null ],
-    [ "JustDied", "d9/d26/a19971.html#a6bf8e999ebb5581dd1bd03ed6b96a1dc", null ],
-    [ "JustEngagedWith", "d9/d26/a19971.html#aca09a816f57dea1c7c132258a6d0e5ba", null ],
-    [ "KilledUnit", "d9/d26/a19971.html#a85ae3094927f7484216b44582f9a2bf6", null ],
-    [ "MoveInLineOfSight", "d9/d26/a19971.html#ac9f3115629e5595d06c213d3e04afa68", null ],
-    [ "OnAuraRemove", "d9/d26/a19971.html#adc35dee5a25820bd080b4d610d6cfc37", null ],
-    [ "Reset", "d9/d26/a19971.html#abe6a1192eb9e4d5afa65dcc01b4472ec", null ],
-    [ "ScheduleTasks", "d9/d26/a19971.html#a600e211be40226679212a7078b26f3ed", null ],
-    [ "_introDone", "d9/d26/a19971.html#a348b7ef60fb815fb160e7f348b8f7af4", null ]
+    [ "npc_oculus_drakeAI", "d9/d26/a19971.html#a214d9b77a5653f1a5f60106081eaf683", null ],
+    [ "IsSummonedBy", "d9/d26/a19971.html#a151e59f7b6032d5ed62f9f0ed2923f40", null ],
+    [ "MovementInform", "d9/d26/a19971.html#a5f6de11b9cd3c0d6593d7d249cb59555", null ],
+    [ "PassengerBoarded", "d9/d26/a19971.html#a5efc6f166b5fd77fa329b17e1e143379", null ],
+    [ "SpellHitTarget", "d9/d26/a19971.html#aebb8fb75777d7fc3ddc69dc558b08f7e", null ],
+    [ "UpdateAI", "d9/d26/a19971.html#a8ecaebfcf1c1fbe8ed263be6148ccef6", null ],
+    [ "despawnTimer", "d9/d26/a19971.html#a560dc0936a78267a4036b209c6718732", null ],
+    [ "JustSummoned", "d9/d26/a19971.html#a8b656a464525e881944e72e9486b0eb9", null ],
+    [ "m_pInstance", "d9/d26/a19971.html#a4df6c06ec857086f7a2747cab2c4703c", null ]
 ];

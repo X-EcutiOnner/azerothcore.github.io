@@ -1,7 +1,13 @@
 var a21827 =
 [
-    [ "CheckCast", "d9/dbe/a21827.html#af0eb00a8dbff89d780beb07f3a714fff", null ],
-    [ "HandleScript", "d9/dbe/a21827.html#a8128bb2d7588409dae73bed78d5285a7", null ],
-    [ "PrepareSpellScript", "d9/dbe/a21827.html#aee17a8a21ec5df027082c6990189dccc", null ],
-    [ "Register", "d9/dbe/a21827.html#a2a97265e102e9ce31997d99275b42973", null ]
+    [ "npc_shandy_dalaranAI", "d9/dbe/a21827.html#ae93b853e4852ce71c4d588d4621b16a1", null ],
+    [ "Reset", "d9/dbe/a21827.html#a38f0630d4e18cea01de343afdcb96db3", null ],
+    [ "RollTask", "d9/dbe/a21827.html#acd1daa5bc99f281bd1ca78d4cdaf5a9e", null ],
+    [ "SetData", "d9/dbe/a21827.html#a5c8a0e6e0729d872c230aa72d41236a3", null ],
+    [ "UpdateAI", "d9/dbe/a21827.html#ac7c8e87b784d8738b8aacbcb58f471b1", null ],
+    [ "_aquanosGUID", "d9/dbe/a21827.html#aa1dfb61fbaae6ab2e25dd9779ec63ed1", null ],
+    [ "_canWash", "d9/dbe/a21827.html#af5b1aae6b2dd82c8199caedec3a8fdec", null ],
+    [ "_events", "d9/dbe/a21827.html#a3fbae63669c8382097b0bcb936301945", null ],
+    [ "_lCount", "d9/dbe/a21827.html#ad55bea5f33de226ff230f99059dc9ec3", null ],
+    [ "_lSource", "d9/dbe/a21827.html#a9e01cee4a79bfac56b1d1ecdac17ca3f", null ]
 ];

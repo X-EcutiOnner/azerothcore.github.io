@@ -1,10 +1,6 @@
 var a19423 =
 [
-    [ "boss_isle_of_conquestAI", "de/d1e/a19423.html#a7880ea86e7a03f5b14875065a83a206a", null ],
-    [ "CheckRageBuff", "de/d1e/a19423.html#a6d60480e39fa89dbcc0facce9f0b69a3", null ],
-    [ "JustEngagedWith", "de/d1e/a19423.html#a878635ef0673325943e6026ad76c2b06", null ],
-    [ "Reset", "de/d1e/a19423.html#add59669e5f6c3c882ac008c720349573", null ],
-    [ "UpdateAI", "de/d1e/a19423.html#ab33aa7e735c5837428a4cf2b76e4275e", null ],
-    [ "events", "de/d1e/a19423.html#a38e308b66b0f35d3efe6916b03e4391c", null ],
-    [ "rage", "de/d1e/a19423.html#aa16ebdd6e2f486d3a6e4b58f4cb5e696", null ]
+    [ "npc_icc_putricades_trapAI", "db/d3b/a19427.html", "db/d3b/a19427" ],
+    [ "npc_icc_putricades_trap", "de/d1e/a19423.html#ae022f2991fee4143fb965c53e4d4da5c", null ],
+    [ "GetAI", "de/d1e/a19423.html#a42ab1cb27234ebd10755dbbedce5f187", null ]
 ];

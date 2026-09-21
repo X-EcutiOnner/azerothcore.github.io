@@ -1,10 +1,8 @@
 var a06063 =
 [
-    [ "BasicStatementTask", "d3/ddd/a06063.html#a11c6f1259d1d6d9c50211784636e45c4", null ],
-    [ "~BasicStatementTask", "d3/ddd/a06063.html#a0db608b5bae77e5f83b0e1bf5850719f", null ],
-    [ "Execute", "d3/ddd/a06063.html#a7f500736cc0ec4cddf94510927989d4d", null ],
-    [ "GetFuture", "d3/ddd/a06063.html#aa574f8cc00ac956d23f93c7e96864fc9", null ],
-    [ "m_has_result", "d3/ddd/a06063.html#a8bfae5e5695a6bf6bf796d95efa21e7e", null ],
-    [ "m_result", "d3/ddd/a06063.html#af70bc95cbf0df481dacf034ff78d2eb8", null ],
-    [ "m_sql", "d3/ddd/a06063.html#a9320235413d1c4736301070e1faeb161", null ]
+    [ "cmd", "d3/ddd/a06063.html#a14df856ae931474a7c58d0e35caf6ad0", null ],
+    [ "number_of_keys", "d3/ddd/a06063.html#aaa44734bb96b91894c038b3f34b4db0d", null ],
+    [ "R1", "d3/ddd/a06063.html#a054648a96d1c66bae6fdb9a174e7b1e6", null ],
+    [ "R2", "d3/ddd/a06063.html#a72fa4a4d0b6098fdf8e5c8f9a33f08ad", null ],
+    [ "R3", "d3/ddd/a06063.html#a819a5ba3a19583fd0cfd0558cf218e54", null ]
 ];

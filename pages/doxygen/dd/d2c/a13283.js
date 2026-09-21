@@ -1,6 +1,8 @@
 var a13283 =
 [
-    [ "npc_sanguine_spirit", "dd/d2c/a13283.html#a1e9a9a8dfaf5475b99d53b6b14db25f0", null ],
-    [ "Reset", "dd/d2c/a13283.html#ab92451fe70fd8c444a1c9d0bc318f624", null ],
-    [ "UpdateAI", "dd/d2c/a13283.html#abb07fe0308c3cce7ab5e239e66d65c52", null ]
+    [ "HandleEffectRemove", "dd/d2c/a13283.html#a5e5a218cb491b830ec8d50609a3d54ae", null ],
+    [ "if", "dd/d2c/a13283.html#a9e9aec7bc2773270c1063b1a3c44c07a", null ],
+    [ "PrepareAuraScript", "dd/d2c/a13283.html#a4055f781a914de631187b00ba7aefeef", null ],
+    [ "Register", "dd/d2c/a13283.html#aefb4bbae43558abde871548088784613", null ],
+    [ "AuraEffectHandleModes", "dd/d2c/a13283.html#a7d419ba41e68b70740a867a2265824bd", null ]
 ];

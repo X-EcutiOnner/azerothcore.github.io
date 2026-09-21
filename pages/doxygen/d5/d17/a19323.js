@@ -1,5 +1,7 @@
 var a19323 =
 [
-    [ "npc_icc_buff_switcher", "d5/d17/a19323.html#aeabc3d97c88bf12177b824524af3ae1d", null ],
-    [ "OnGossipSelect", "d5/d17/a19323.html#abb3310d3eb5cf4f1c2a0a3ac46ddd7ba", null ]
+    [ "HandleEffectPeriodic", "d5/d17/a19323.html#a208c4d59e20cd802cf2f4643fa0d6253", null ],
+    [ "PrepareAuraScript", "d5/d17/a19323.html#af1d284c4686f739b02b350a6c0a166c2", null ],
+    [ "Register", "d5/d17/a19323.html#a006a97823ac07346771ec4ab61bd0763", null ],
+    [ "Validate", "d5/d17/a19323.html#ae1f5555dcadb48ba59bf9571073f4a99", null ]
 ];

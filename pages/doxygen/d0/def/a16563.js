@@ -1,6 +1,7 @@
 var a16563 =
 [
-    [ "npc_onyx_flamecallerAI", "d7/d7a/a16567.html", "d7/d7a/a16567" ],
-    [ "npc_onyx_flamecaller", "d0/def/a16563.html#af27af3cb3bbaba0801481ba77a94f9c6", null ],
-    [ "GetAI", "d0/def/a16563.html#a712284f1997635aaf7ecd7ca0a263c05", null ]
+    [ "boss_sartharion_shadron", "d0/def/a16563.html#ab4a7991c276a12af0b54936c271bfd0b", null ],
+    [ "ExecuteEvent", "d0/def/a16563.html#a1f1a235d4d5654e273ef821ebf962491", null ],
+    [ "Reset", "d0/def/a16563.html#a8511eb55a486665a248d555337c25002", null ],
+    [ "SummonedCreatureDies", "d0/def/a16563.html#a3967c70698675d2c925a1a0366bf1d00", null ]
 ];

@@ -1,8 +1,7 @@
 var a24487 =
 [
-    [ "npc_pet_darting_hatchling", "d4/d06/a24487.html#a7ae5973061068396bf382dc21e88cd44", null ],
-    [ "SpellHit", "d4/d06/a24487.html#a29ea5438bab7e606175c02165a607f9b", null ],
-    [ "UpdateAI", "d4/d06/a24487.html#a23196d05aebe5fa4a65455c55368820a", null ],
-    [ "checkTimer", "d4/d06/a24487.html#a3539276158abb5fd183ed1aa03a8ead8", null ],
-    [ "goFast", "d4/d06/a24487.html#aaf80b40200f2b8eb2861c69b1dbd2dde", null ]
+    [ "npc_isla_starmaneAI", "df/dca/a24491.html", "df/dca/a24491" ],
+    [ "npc_isla_starmane", "d4/d06/a24487.html#af30b3658d8f19be0dc07cb35eeb04668", null ],
+    [ "GetAI", "d4/d06/a24487.html#a0ea2dbaab4115772f92849e06aa85575", null ],
+    [ "OnQuestAccept", "d4/d06/a24487.html#afeda3da3761e96e2901ea06c5a26fa3a", null ]
 ];

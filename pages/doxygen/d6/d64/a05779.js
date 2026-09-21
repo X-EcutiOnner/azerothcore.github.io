@@ -1,6 +1,12 @@
 var a05779 =
 [
-    [ "Lock", "d6/d64/a05779.html#a0f0b6620e023294fface21ac3f893bdf", null ],
-    [ "Lock", "d6/d64/a05779.html#ac75099d31a74b697073a85278d3399ab", null ],
-    [ "Lock", "d6/d64/a05779.html#a695004403b0a3c61481948a95c30bbba", null ]
+    [ "Node", "d6/d37/a05783.html", "d6/d37/a05783" ],
+    [ "MPSCQueueNonIntrusive", "d6/d64/a05779.html#a962c10fff5c86b00cc2e847ae758b9ce", null ],
+    [ "~MPSCQueueNonIntrusive", "d6/d64/a05779.html#a599e2093215f70dc4f2f7db08965d816", null ],
+    [ "MPSCQueueNonIntrusive", "d6/d64/a05779.html#a2d543ed2b5d1ab7f23ad82ee156e42ea", null ],
+    [ "Dequeue", "d6/d64/a05779.html#abadcc4a4ff97f4fa132978fbd0f37e1d", null ],
+    [ "Enqueue", "d6/d64/a05779.html#a63d8a4e4c085467d33d56fd3adf0f751", null ],
+    [ "operator=", "d6/d64/a05779.html#a75063e89049903fb5305d67ea1a02034", null ],
+    [ "_head", "d6/d64/a05779.html#a2fb1ef015f7b9a790ba1af73dc80ba35", null ],
+    [ "_tail", "d6/d64/a05779.html#a8a568d842fc8da8e39b325b459cdb44d", null ]
 ];

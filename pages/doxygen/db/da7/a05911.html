@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Acore::Impl::StringConvertImpl::For&lt; bool, void &gt; Struct Reference</title>
+<title>AzerothCore: Acore::Impl::EnumUtilsImpl::EnumUtils&lt; Enum &gt; Struct Template Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -107,113 +107,143 @@ $(document).ready(function(){initNavTree('db/da7/a05911.html','../../'); initRes
   <div class="summary">
 <a href="#pub-static-methods">Static Public Member Functions</a> &#124;
 <a href="../../d0/d71/a05908.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">Acore::Impl::StringConvertImpl::For&lt; bool, void &gt; Struct Reference</div></div>
+  <div class="headertitle"><div class="title">Acore::Impl::EnumUtilsImpl::EnumUtils&lt; Enum &gt; Struct Template Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">StringConvert.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">SmartEnum.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
 Static Public Member Functions</h2></td></tr>
-<tr class="memitem:acfabf7e368302aa32ae96367f836edd2"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../db/d7b/a00296.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; bool &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/da7/a05911.html#acfabf7e368302aa32ae96367f836edd2">FromString</a> (std::string_view str, int strict=0)</td></tr>
-<tr class="separator:acfabf7e368302aa32ae96367f836edd2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3a97bead5d1614412948b41fe499d50c"><td class="memItemLeft" align="right" valign="top">static std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/da7/a05911.html#a3a97bead5d1614412948b41fe499d50c">ToString</a> (bool val)</td></tr>
-<tr class="separator:a3a97bead5d1614412948b41fe499d50c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aeeb13e953eff5fde8c9edff41ee17806"><td class="memItemLeft" align="right" valign="top">static std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/da7/a05911.html#aeeb13e953eff5fde8c9edff41ee17806">Count</a> ()</td></tr>
+<tr class="separator:aeeb13e953eff5fde8c9edff41ee17806"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8d3379c79f103655dd49d993402b741d"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../da/d2e/a05907.html">EnumText</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/da7/a05911.html#a8d3379c79f103655dd49d993402b741d">ToString</a> (Enum value)</td></tr>
+<tr class="separator:a8d3379c79f103655dd49d993402b741d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8c6cb9f0a8d3488956904e2141405cf7"><td class="memItemLeft" align="right" valign="top">static Enum&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/da7/a05911.html#a8c6cb9f0a8d3488956904e2141405cf7">FromIndex</a> (std::size_t index)</td></tr>
+<tr class="separator:a8c6cb9f0a8d3488956904e2141405cf7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a25cc4ea08020adcf6deac42e2912b1f9"><td class="memItemLeft" align="right" valign="top">static std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/da7/a05911.html#a25cc4ea08020adcf6deac42e2912b1f9">ToIndex</a> (Enum index)</td></tr>
+<tr class="separator:a25cc4ea08020adcf6deac42e2912b1f9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="acfabf7e368302aa32ae96367f836edd2" name="acfabf7e368302aa32ae96367f836edd2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acfabf7e368302aa32ae96367f836edd2">&#9670;&#160;</a></span>FromString()</h2>
+<div class="textblock"><div class="compoundTemplParams">template&lt;typename Enum&gt;<br />
+struct Acore::Impl::EnumUtilsImpl::EnumUtils&lt; Enum &gt;</div></div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="aeeb13e953eff5fde8c9edff41ee17806" name="aeeb13e953eff5fde8c9edff41ee17806"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aeeb13e953eff5fde8c9edff41ee17806">&#9670;&#160;</a></span>Count()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;typename Enum &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static <a class="el" href="../../db/d7b/a00296.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; bool &gt; <a class="el" href="../../db/d12/a05903.html">Acore::Impl::StringConvertImpl::For</a>&lt; bool, void &gt;::FromString </td>
+          <td class="memname">static std::size_t <a class="el" href="../../db/da7/a05911.html">Acore::Impl::EnumUtilsImpl::EnumUtils</a>&lt; Enum &gt;::Count </td>
           <td>(</td>
-          <td class="paramtype">std::string_view&#160;</td>
-          <td class="paramname"><em>str</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>strict</em> = <code>0</code>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   97</span>        {</div>
-<div class="line"><span class="lineno">   98</span>            <span class="keywordflow">if</span> (strict)</div>
-<div class="line"><span class="lineno">   99</span>            {</div>
-<div class="line"><span class="lineno">  100</span>                <span class="keywordflow">if</span> (str == <span class="stringliteral">&quot;1&quot;</span>)</div>
-<div class="line"><span class="lineno">  101</span>                {</div>
-<div class="line"><span class="lineno">  102</span>                    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  103</span>                }</div>
-<div class="line"><span class="lineno">  104</span>                <span class="keywordflow">if</span> (str == <span class="stringliteral">&quot;0&quot;</span>)</div>
-<div class="line"><span class="lineno">  105</span>                {</div>
-<div class="line"><span class="lineno">  106</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  107</span>                }</div>
-<div class="line"><span class="lineno">  108</span>                <span class="keywordflow">return</span> std::nullopt;</div>
-<div class="line"><span class="lineno">  109</span>            }</div>
-<div class="line"><span class="lineno">  110</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  111</span>            {</div>
-<div class="line"><span class="lineno">  112</span>                <span class="keywordflow">if</span> ((str == <span class="stringliteral">&quot;1&quot;</span>) || <a class="code hl_function" href="../../d2/d04/a00281.html#a131b997858d0d4c6825222d64948db73">StringEqualI</a>(str, <span class="stringliteral">&quot;y&quot;</span>) || <a class="code hl_function" href="../../d2/d04/a00281.html#a131b997858d0d4c6825222d64948db73">StringEqualI</a>(str, <span class="stringliteral">&quot;on&quot;</span>) || <a class="code hl_function" href="../../d2/d04/a00281.html#a131b997858d0d4c6825222d64948db73">StringEqualI</a>(str, <span class="stringliteral">&quot;yes&quot;</span>) || <a class="code hl_function" href="../../d2/d04/a00281.html#a131b997858d0d4c6825222d64948db73">StringEqualI</a>(str, <span class="stringliteral">&quot;true&quot;</span>))</div>
-<div class="line"><span class="lineno">  113</span>                {</div>
-<div class="line"><span class="lineno">  114</span>                    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  115</span>                }</div>
-<div class="line"><span class="lineno">  116</span>                <span class="keywordflow">if</span> ((str == <span class="stringliteral">&quot;0&quot;</span>) || <a class="code hl_function" href="../../d2/d04/a00281.html#a131b997858d0d4c6825222d64948db73">StringEqualI</a>(str, <span class="stringliteral">&quot;n&quot;</span>) || <a class="code hl_function" href="../../d2/d04/a00281.html#a131b997858d0d4c6825222d64948db73">StringEqualI</a>(str, <span class="stringliteral">&quot;off&quot;</span>) || <a class="code hl_function" href="../../d2/d04/a00281.html#a131b997858d0d4c6825222d64948db73">StringEqualI</a>(str, <span class="stringliteral">&quot;no&quot;</span>) || <a class="code hl_function" href="../../d2/d04/a00281.html#a131b997858d0d4c6825222d64948db73">StringEqualI</a>(str, <span class="stringliteral">&quot;false&quot;</span>))</div>
-<div class="line"><span class="lineno">  117</span>                {</div>
-<div class="line"><span class="lineno">  118</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  119</span>                }</div>
-<div class="line"><span class="lineno">  120</span>                <span class="keywordflow">return</span> std::nullopt;</div>
-<div class="line"><span class="lineno">  121</span>            }</div>
-<div class="line"><span class="lineno">  122</span>        }</div>
-<div class="ttc" id="aa00281_html_a131b997858d0d4c6825222d64948db73"><div class="ttname"><a href="../../d2/d04/a00281.html#a131b997858d0d4c6825222d64948db73">StringEqualI</a></div><div class="ttdeci">bool StringEqualI(std::string_view a, std::string_view b)</div><div class="ttdef"><b>Definition:</b> Util.cpp:592</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00592">StringEqualI()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00050">EnumUtils::Count()</a>.</p>
 
 </div>
 </div>
-<a id="a3a97bead5d1614412948b41fe499d50c" name="a3a97bead5d1614412948b41fe499d50c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3a97bead5d1614412948b41fe499d50c">&#9670;&#160;</a></span>ToString()</h2>
+<a id="a8c6cb9f0a8d3488956904e2141405cf7" name="a8c6cb9f0a8d3488956904e2141405cf7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8c6cb9f0a8d3488956904e2141405cf7">&#9670;&#160;</a></span>FromIndex()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;typename Enum &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static std::string <a class="el" href="../../db/d12/a05903.html">Acore::Impl::StringConvertImpl::For</a>&lt; bool, void &gt;::ToString </td>
+          <td class="memname">static Enum <a class="el" href="../../db/da7/a05911.html">Acore::Impl::EnumUtilsImpl::EnumUtils</a>&lt; Enum &gt;::FromIndex </td>
           <td>(</td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>val</em></td><td>)</td>
+          <td class="paramtype">std::size_t&#160;</td>
+          <td class="paramname"><em>index</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  125</span>        {</div>
-<div class="line"><span class="lineno">  126</span>            <span class="keywordflow">return</span> (val ? <span class="stringliteral">&quot;1&quot;</span> : <span class="stringliteral">&quot;0&quot;</span>);</div>
-<div class="line"><span class="lineno">  127</span>        }</div>
-</div><!-- fragment -->
+
+<p class="reference">Referenced by <a class="el" href="../../#l00054">EnumUtils::FromIndex()</a>.</p>
+
+</div>
+</div>
+<a id="a25cc4ea08020adcf6deac42e2912b1f9" name="a25cc4ea08020adcf6deac42e2912b1f9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a25cc4ea08020adcf6deac42e2912b1f9">&#9670;&#160;</a></span>ToIndex()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename Enum &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static std::size_t <a class="el" href="../../db/da7/a05911.html">Acore::Impl::EnumUtilsImpl::EnumUtils</a>&lt; Enum &gt;::ToIndex </td>
+          <td>(</td>
+          <td class="paramtype">Enum&#160;</td>
+          <td class="paramname"><em>index</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00059">EnumUtils::IsValid()</a>, and <a class="el" href="../../#l00056">EnumUtils::ToIndex()</a>.</p>
+
+</div>
+</div>
+<a id="a8d3379c79f103655dd49d993402b741d" name="a8d3379c79f103655dd49d993402b741d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8d3379c79f103655dd49d993402b741d">&#9670;&#160;</a></span>ToString()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename Enum &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static <a class="el" href="../../da/d2e/a05907.html">EnumText</a> <a class="el" href="../../db/da7/a05911.html">Acore::Impl::EnumUtilsImpl::EnumUtils</a>&lt; Enum &gt;::ToString </td>
+          <td>(</td>
+          <td class="paramtype">Enum&#160;</td>
+          <td class="paramname"><em>value</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00052">EnumUtils::ToString()</a>.</p>
+
 </div>
 </div>
 </div><!-- contents -->
@@ -221,8 +251,8 @@ Static Public Member Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d3/d82/a05088.html">Acore</a></li><li class="navelem"><a class="el" href="../../d6/da5/a05100.html">Impl</a></li><li class="navelem"><a class="el" href="../../db/da9/a05110.html">StringConvertImpl</a></li><li class="navelem"><a class="el" href="../../db/da7/a05911.html">For&lt; bool, void &gt;</a></li>
-    <li class="footer">Generated on Tue Sep 1 2026 00:10:09 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d5/d87/a05118.html">Acore</a></li><li class="navelem"><a class="el" href="../../d5/d8c/a05130.html">Impl</a></li><li class="navelem"><a class="el" href="../../dd/dce/a05135.html">EnumUtilsImpl</a></li><li class="navelem"><a class="el" href="../../db/da7/a05911.html">EnumUtils</a></li>
+    <li class="footer">Generated on Mon Sep 21 2026 23:35:00 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

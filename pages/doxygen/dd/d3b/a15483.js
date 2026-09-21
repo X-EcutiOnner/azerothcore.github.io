@@ -1,14 +1,12 @@
 var a15483 =
 [
-    [ "boss_ayamiss", "dd/d3b/a15483.html#a0e923d4fa8bd6623ec58d7f64b5ea261", null ],
-    [ "DoAction", "dd/d3b/a15483.html#a0114a79274c34fe3dfbc8a34f39920bc", null ],
-    [ "EnterEvadeMode", "dd/d3b/a15483.html#a52f584da6d3d1b87fe91528dc25b8c5e", null ],
-    [ "JustDied", "dd/d3b/a15483.html#acddcbb06b7d5980e199ef11103fabf7c", null ],
-    [ "JustEngagedWith", "dd/d3b/a15483.html#aaaf1b765256f4a6342d16bd7767f92cf", null ],
-    [ "JustSummoned", "dd/d3b/a15483.html#a4281f761256cd93c19aea0a76239512d", null ],
-    [ "MovementInform", "dd/d3b/a15483.html#a6bc1f0767785efb5a5fb005b49338032", null ],
-    [ "Reset", "dd/d3b/a15483.html#a10111f97236c2846181aa20f7d9b64fd", null ],
-    [ "ScheduleTasks", "dd/d3b/a15483.html#a166238b9395a426a7333cf71a38c6c5c", null ],
-    [ "_swarmers", "dd/d3b/a15483.html#aa6dd99f8085d1424acf07cc124ac210c", null ],
-    [ "homePos", "dd/d3b/a15483.html#ab098ee0f8872d1cf9d34993c01971921", null ]
+    [ "boss_isalien", "dd/d3b/a15483.html#a736a25e60ae367a45c7d6451be96126d", null ],
+    [ "DamageTaken", "dd/d3b/a15483.html#a95d461e099193b5e2c1363acb1b5939a", null ],
+    [ "JustDied", "dd/d3b/a15483.html#a6544b5eb398eb2fc9cae05709e4a5cc1", null ],
+    [ "JustEngagedWith", "dd/d3b/a15483.html#ad6714da515db77c7299ee80b3268433e", null ],
+    [ "JustSummoned", "dd/d3b/a15483.html#a84a94a1a8889b48cd02d5cb6a205a487", null ],
+    [ "Reset", "dd/d3b/a15483.html#a4995c18e2baa62d05717617d0b1e3529", null ],
+    [ "UpdateAI", "dd/d3b/a15483.html#aa067bea34557a4b2fe840ef305852bc0", null ],
+    [ "_phase", "dd/d3b/a15483.html#a954bbd32948e6c416197199d96142056", null ],
+    [ "_scheduler", "dd/d3b/a15483.html#a8eb56a907e3395b9e81588aab7c07ca6", null ]
 ];

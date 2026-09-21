@@ -1,6 +1,9 @@
 var a21767 =
 [
-    [ "npc_dalaran_warriorAI", "d1/d79/a21771.html", "d1/d79/a21771" ],
-    [ "npc_dalaran_warrior", "d6/d6a/a21767.html#a13d44b85173232ddedcc35184d50549c", null ],
-    [ "GetAI", "d6/d6a/a21767.html#a1e84676d2a76bac728a1f23f5f9fc25e", null ]
+    [ "npc_bloodmage_laurithAI", "d6/d6a/a21767.html#a75dca4f2e90318f334e7e6385d4f7a6f", null ],
+    [ "Reset", "d6/d6a/a21767.html#afe9b10dfcee3b241a48e6f2e40eec657", null ],
+    [ "SetGUID", "d6/d6a/a21767.html#a6fa0d042dda8b709925aa04a3d0a17c8", null ],
+    [ "UpdateAI", "d6/d6a/a21767.html#a9752f518441071dd4a60cd63423bf9a3", null ],
+    [ "_events", "d6/d6a/a21767.html#a35facab84094071d952792a4c3e5015d", null ],
+    [ "_playerGUID", "d6/d6a/a21767.html#a6aab8db1d55d4fe3251b544c292711e8", null ]
 ];

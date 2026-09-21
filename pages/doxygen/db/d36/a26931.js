@@ -1,6 +1,9 @@
 var a26931 =
 [
-    [ "FilterTargets", "db/d36/a26931.html#a17626abdbc4066956b76945b11b3f0c6", null ],
-    [ "PrepareSpellScript", "db/d36/a26931.html#abfeb75060c1f930b33003dd1e458f882", null ],
-    [ "Register", "db/d36/a26931.html#a8e5146a57f181b17280d198bcd2e216d", null ]
+    [ "CheckProc", "db/d36/a26931.html#a1ea48d77c2bb5b26c12384e4e11411ff", null ],
+    [ "HandleProc", "db/d36/a26931.html#afe1282b6df7593066469f3ddf7ff8a33", null ],
+    [ "PrepareAuraScript", "db/d36/a26931.html#a9585ecde57ccfa26f59174732e3132fc", null ],
+    [ "Register", "db/d36/a26931.html#aff856108cd0b92c3a4eaeb4c354ee56f", null ],
+    [ "Validate", "db/d36/a26931.html#a65e88419d625dc6e8033b573ce7f18ee", null ],
+    [ "_triggeredSpellId", "db/d36/a26931.html#a560ade778e046213f60f48364ea3800c", null ]
 ];

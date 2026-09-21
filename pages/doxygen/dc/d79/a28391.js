@@ -1,5 +1,7 @@
 var a28391 =
 [
-    [ "go_massive_seaforium_charge", "dc/d79/a28391.html#adae43b764f237932923cd18207e4d23c", null ],
-    [ "OnGossipHello", "dc/d79/a28391.html#a187e28c773ad904f245d11d3f5b9d7e3", null ]
+    [ "go_darkmoon_faire_musicAI", "dc/d79/a28391.html#a2ee13dd1260c1ad5b810c25665c9ec87", null ],
+    [ "UpdateAI", "dc/d79/a28391.html#af3d802bd852fc0483f72781edb13b5d5", null ],
+    [ "_events", "dc/d79/a28391.html#acc7e15d2b286b7df262623acf7ea7f03", null ],
+    [ "rnd", "dc/d79/a28391.html#a9a4c983f11c4d912f31eaaf351afc016", null ]
 ];

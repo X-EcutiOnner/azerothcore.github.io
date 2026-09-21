@@ -1,14 +1,11 @@
 var a02504 =
 [
-    [ "guard_shattrath_scryer", "d1/dbe/a28485.html", "d1/dbe/a28485" ],
-    [ "guard_shattrath_scryer::guard_shattrath_scryerAI", "dd/dff/a28489.html", "dd/dff/a28489" ],
-    [ "guard_shattrath_aldor", "d7/dab/a28493.html", "d7/dab/a28493" ],
-    [ "guard_shattrath_aldor::guard_shattrath_aldorAI", "d5/d55/a28497.html", "d5/d55/a28497" ],
-    [ "GuardShattrath", "d3/df4/a02504.html#a7c8fcdd86e1aa9eab132e6321290e79c", [
-      [ "SPELL_BANISHED_SHATTRATH_A", "d3/df4/a02504.html#a7c8fcdd86e1aa9eab132e6321290e79ca958387dd7fcdedf036a81cf2ab4f56fe", null ],
-      [ "SPELL_BANISHED_SHATTRATH_S", "d3/df4/a02504.html#a7c8fcdd86e1aa9eab132e6321290e79ca78bb081a2031299d661fbce8fd5a3d48", null ],
-      [ "SPELL_BANISH_TELEPORT", "d3/df4/a02504.html#a7c8fcdd86e1aa9eab132e6321290e79ca7aecffca2feb1502c591610fee5566e0", null ],
-      [ "SPELL_EXILE", "d3/df4/a02504.html#a7c8fcdd86e1aa9eab132e6321290e79ca6758cdbc7bb8447df1f7b3073833463d", null ]
-    ] ],
-    [ "AddSC_guards", "d3/df4/a02504.html#acba582cbc90c710c629dd30926acdca4", null ]
+    [ "npc_innkeeper", "d9/d40/a28551.html", "d9/d40/a28551" ],
+    [ "AddSC_npc_innkeeper", "d3/df4/a02504.html#a3ffce1ea6cca981888af85ba67364df9", null ],
+    [ "GOSSIP_MENU", "d3/df4/a02504.html#a3115623eb3e0408aad7cd637686aaaee", null ],
+    [ "GOSSIP_MENU_EVENT", "d3/df4/a02504.html#a6bb09725b9e6b10b76686a9059038e6b", null ],
+    [ "HALLOWEEN_EVENTID", "d3/df4/a02504.html#a2e23760d3d379f3fa92c139f067b5984", null ],
+    [ "SPELL_TREAT", "d3/df4/a02504.html#a072a033da374692139d9d33e63be89ca", null ],
+    [ "SPELL_TRICK", "d3/df4/a02504.html#ad2b2ba30383cca3be221f38a809e2da1", null ],
+    [ "SPELL_TRICKED_OR_TREATED", "d3/df4/a02504.html#a022e344eaf73aa8ab6655d2c6aaac688", null ]
 ];

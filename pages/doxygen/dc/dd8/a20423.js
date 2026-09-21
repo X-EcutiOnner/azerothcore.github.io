@@ -1,6 +1,5 @@
 var a20423 =
 [
-    [ "FilterTargets", "dc/dd8/a20423.html#adb438b9bcf4be347aeabf6608fbfb8a4", null ],
-    [ "PrepareSpellScript", "dc/dd8/a20423.html#a88f5ca3aaa575cff0ba778f9b575d656", null ],
-    [ "Register", "dc/dd8/a20423.html#ac7337b4ee8511f72b129fccc83b3241e", null ]
+    [ "achievement_flame_leviathan_shutout", "dc/dd8/a20423.html#a555e0d206b7f730665d301c7e03b23e6", null ],
+    [ "OnCheck", "dc/dd8/a20423.html#af548232f563fd387bc8ee25b696a2f99", null ]
 ];

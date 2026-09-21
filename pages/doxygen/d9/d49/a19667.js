@@ -1,8 +1,6 @@
 var a19667 =
 [
-    [ "HandleDamage", "d9/d49/a19667.html#ab8948b09b685ad970f5292ca4c5d97ba", null ],
-    [ "HandleTargets", "d9/d49/a19667.html#ac36e689bad93aa17738f390680764a7e", null ],
-    [ "PrepareSpellScript", "d9/d49/a19667.html#a149db071722ce12cded16087c8eec1df", null ],
-    [ "Register", "d9/d49/a19667.html#abd073f34a414fab7ee23ee933863f1c7", null ],
-    [ "Validate", "d9/d49/a19667.html#a177320de9c3a2c2f29120fcaa413ab13", null ]
+    [ "boss_maexxnaAI", "de/d3a/a19671.html", "de/d3a/a19671" ],
+    [ "boss_maexxna", "d9/d49/a19667.html#ae47a789ac8abe50932b9e000c83b02b2", null ],
+    [ "GetAI", "d9/d49/a19667.html#ab438df4cb61625da35552ca7c867dc64", null ]
 ];

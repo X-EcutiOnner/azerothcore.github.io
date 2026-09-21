@@ -1,6 +1,9 @@
 var a19367 =
 [
-    [ "icecrown_citadel_teleport", "dd/d6a/a19367.html#ab74d5962073dcf3b4488c33aaa935377", null ],
-    [ "OnGossipHello", "dd/d6a/a19367.html#a97b0d94a5c7388a5dfce76f3bd3be24f", null ],
-    [ "OnGossipSelect", "dd/d6a/a19367.html#a0b160bd86341542ddb1c80f3d4bd691f", null ]
+    [ "npc_icc_skybreaker_luminaryAI", "dd/d6a/a19367.html#a91868021309239f5582bb7ee89baec13", null ],
+    [ "AttackStart", "dd/d6a/a19367.html#acf8d1eaebdc68cb53866155d8aad6e48", null ],
+    [ "JustEngagedWith", "dd/d6a/a19367.html#a12927240144022174e3d190be6b34976", null ],
+    [ "Reset", "dd/d6a/a19367.html#ac925b84b81ec1d1e118f3e62edfbdd15", null ],
+    [ "UpdateAI", "dd/d6a/a19367.html#a969a36e147006971a93711349f90c193", null ],
+    [ "events", "dd/d6a/a19367.html#a8521aef674b9a295c27f7e5725af4ffe", null ]
 ];

@@ -1,5 +1,6 @@
 var a13579 =
 [
-    [ "npc_apothecary_frye", "da/d8e/a13579.html#a5546099958a9a267d237e65720588456", null ],
-    [ "JustDied", "da/d8e/a13579.html#ab1dc310e90c591b44ce4d5bcf1bac930", null ]
+    [ "HandleAfterHit", "da/d8e/a13579.html#a52864ee174e34f16827cbe863d152789", null ],
+    [ "PrepareSpellScript", "da/d8e/a13579.html#a0cbcdcae0c2e5736ce3f750fb1738d36", null ],
+    [ "Register", "da/d8e/a13579.html#a8efcb11b1dacbf2f7fb840d94fccecb4", null ]
 ];

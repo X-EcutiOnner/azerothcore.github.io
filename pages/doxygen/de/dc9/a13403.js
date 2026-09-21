@@ -1,6 +1,17 @@
 var a13403 =
 [
-    [ "npc_image_of_medivhAI", "de/d8c/a13407.html", "de/d8c/a13407" ],
-    [ "npc_image_of_medivh", "de/dc9/a13403.html#a55ee6f97bc7f144209927a2813cab6a9", null ],
-    [ "GetAI", "de/dc9/a13403.html#a11769c47fda3f1c4d8d80329f70d1957", null ]
+    [ "boss_dorothee", "de/dc9/a13403.html#a8bd5b4753c2d8f8aced0c036912f10f1", null ],
+    [ "DoAction", "de/dc9/a13403.html#a1b9cf1e58d68d249249a8b0d082b725a", null ],
+    [ "EnterEvadeMode", "de/dc9/a13403.html#a6dfc4109370d4e932e7376a443bd64ad", null ],
+    [ "JustDied", "de/dc9/a13403.html#a289dfa1f257ca25acba9487908e6223c", null ],
+    [ "JustEngagedWith", "de/dc9/a13403.html#aa35dafeb9faf8eeea55caa0eeb669db3", null ],
+    [ "JustReachedHome", "de/dc9/a13403.html#a762209d2bf78cc21c48a426732f2354e", null ],
+    [ "Reset", "de/dc9/a13403.html#ae3f123a6a9223b7928295812326b0cb4", null ],
+    [ "SummonedCreatureDies", "de/dc9/a13403.html#a0e76c828a1c7c49741963b6e98003a66", null ],
+    [ "SummonTito", "de/dc9/a13403.html#a5c04074aab40ecaeeb84b33205b40144", null ],
+    [ "UpdateAI", "de/dc9/a13403.html#a30fbcc5e7ca4ed74b9d2895b94a9a19e", null ],
+    [ "_scheduler", "de/dc9/a13403.html#a840bcbad78ff881ef3a803ffa23d3c6e", null ],
+    [ "_startIntro", "de/dc9/a13403.html#a20e6555e2117a62fce3af7f7fb7167cc", null ],
+    [ "instance", "de/dc9/a13403.html#ac6a6f1c9074697f761e4e09550cfea71", null ],
+    [ "titoDied", "de/dc9/a13403.html#a258cc9ce32f314e723d5345ac18336bf", null ]
 ];

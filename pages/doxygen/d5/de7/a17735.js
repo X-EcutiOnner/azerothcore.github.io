@@ -1,13 +1,11 @@
 var a17735 =
 [
-    [ "npc_kinetic_bombAI", "d5/de7/a17735.html#a0f3852f332d4027b5a00a67e20ec886b", null ],
-    [ "DoAction", "d5/de7/a17735.html#a52e913b244e58f99745926d021dc0d95", null ],
-    [ "IsSummonedBy", "d5/de7/a17735.html#a03dc3870b23105bb1d0d207adefe2541", null ],
-    [ "Reset", "d5/de7/a17735.html#abf30320da7f6fc6a4f213b0c4b2b24ce", null ],
-    [ "UpdateAI", "d5/de7/a17735.html#a1ce9bf99879796652878990a773e6a2c", null ],
-    [ "_events", "d5/de7/a17735.html#a7b14483f361a90b1ff2c5de06d6dbbaf", null ],
-    [ "_groundZ", "d5/de7/a17735.html#ac4de8610671b000bdff5cf47f2aecd0f", null ],
-    [ "_x", "d5/de7/a17735.html#a5780cb1c041d7a57f75e0dbeadc27814", null ],
-    [ "_y", "d5/de7/a17735.html#a5d9f4039c87e1e57234af51cd4617022", null ],
-    [ "exploded", "d5/de7/a17735.html#a1391f0fffa2f57cbb630b34bfc78aa64", null ]
+    [ "boss_slad_ranAI", "d5/de7/a17735.html#ad85e2fd51d67739026a96bc757bc7801", null ],
+    [ "GetData", "d5/de7/a17735.html#a58e1188a418acdc1f327e7df90c5c122", null ],
+    [ "JustDied", "d5/de7/a17735.html#a636ca76497c33a5175986e80bbcda44a", null ],
+    [ "JustEngagedWith", "d5/de7/a17735.html#ac30b38805d0421b1be509c7d5609c648", null ],
+    [ "KilledUnit", "d5/de7/a17735.html#a4700f8c06e5fa43fc1719c19cfe79b24", null ],
+    [ "Reset", "d5/de7/a17735.html#a8759163de40d04d53c5e5ed8d8192aa7", null ],
+    [ "SetData", "d5/de7/a17735.html#a3b91eb7c2aa2aeb356c51e81f449b0a5", null ],
+    [ "_achievement", "d5/de7/a17735.html#a3ab4f94e13d414fd6c9eb0ba63941ca9", null ]
 ];

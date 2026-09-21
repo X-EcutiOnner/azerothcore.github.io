@@ -1,12 +1,21 @@
 var a01988 =
 [
-    [ "AggressorAI", "d0/de9/a06465.html", "d0/de9/a06465" ],
-    [ "CombatAI", "d6/d1b/a06469.html", "d6/d1b/a06469" ],
-    [ "CasterAI", "d9/d8c/a06473.html", "d9/d8c/a06473" ],
-    [ "ArcherAI", "df/dcb/a06477.html", "df/dcb/a06477" ],
-    [ "TurretAI", "dc/ddb/a06481.html", "dc/ddb/a06481" ],
-    [ "VehicleAI", "df/d98/a06485.html", "df/d98/a06485" ],
-    [ "VEHICLE_CONDITION_CHECK_TIME", "d5/da1/a01988.html#a2842973ff947088648cd327dc9e1d379", null ],
-    [ "VEHICLE_DISMISS_TIME", "d5/da1/a01988.html#a9b232fec810abbe5eaf5536e608b6e38", null ],
-    [ "SpellVct", "d5/da1/a01988.html#aef8ccdd14344d9c395d613c21bafd91e", null ]
+    [ "DefaultTargetSelector", "da/d07/a06583.html", "da/d07/a06583" ],
+    [ "SpellTargetSelector", "df/d90/a06587.html", "df/d90/a06587" ],
+    [ "NonTankTargetSelector", "d1/d7f/a06591.html", "d1/d7f/a06591" ],
+    [ "PowerUsersSelector", "d0/dd4/a06595.html", "d0/dd4/a06595" ],
+    [ "RangeSelector", "d7/d0a/a06599.html", "d7/d0a/a06599" ],
+    [ "UnitAI", "d2/db9/a06603.html", "d2/db9/a06603" ],
+    [ "PlayerAI", "de/dc7/a06607.html", "de/dc7/a06607" ],
+    [ "SimpleCharmedAI", "dc/d81/a06611.html", "dc/d81/a06611" ],
+    [ "CAST_AI", "d5/da1/a01988.html#a0476b18cfebeb691aabb4344ec4f8af3", null ],
+    [ "ENSURE_AI", "d5/da1/a01988.html#afbd9552e4d9ae2fb45fe846c8e9775cf", null ],
+    [ "SelectTargetMethod", "d5/da1/a01988.html#a482ee472018cb5f0e11addaabad35c3d", [
+      [ "Random", "d5/da1/a01988.html#a482ee472018cb5f0e11addaabad35c3da64663f4646781c9c0110838b905daa23", null ],
+      [ "MaxThreat", "d5/da1/a01988.html#a482ee472018cb5f0e11addaabad35c3da8a65bf968cbf5bef0f097c4f6cc842c0", null ],
+      [ "MinThreat", "d5/da1/a01988.html#a482ee472018cb5f0e11addaabad35c3da01cd0e3f1d186cc67cb2235ac1e02fa4", null ],
+      [ "MaxDistance", "d5/da1/a01988.html#a482ee472018cb5f0e11addaabad35c3da26566fa367c162fcc3c6639f66c6b611", null ],
+      [ "MinDistance", "d5/da1/a01988.html#a482ee472018cb5f0e11addaabad35c3da334b6577674b84a8854d5281a52e48b1", null ]
+    ] ],
+    [ "EnsureAI", "d5/da1/a01988.html#a1c66b73f1d3e1e8031c25ae739f094e6", null ]
 ];

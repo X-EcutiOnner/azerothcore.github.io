@@ -1,7 +1,8 @@
 var a25827 =
 [
-    [ "HandleProc", "dd/dcd/a25827.html#a675a17a574539f2da85a5401afc18fec", null ],
-    [ "PrepareAuraScript", "dd/dcd/a25827.html#a9e5ea1da302356a41b4eff338956ab93", null ],
-    [ "Register", "dd/dcd/a25827.html#a2bade504b1ab2c2869ecaf8873864d19", null ],
-    [ "Validate", "dd/dcd/a25827.html#aec327c219229ae9d59cb491eef2d95d3", null ]
+    [ "HandlePeriodic", "dd/dcd/a25827.html#acba5d68c19e68361c088e50f9b831bff", null ],
+    [ "HandleUpdatePeriodic", "dd/dcd/a25827.html#af27c6dfccb12f1ba52d170da5d9228f9", null ],
+    [ "PrepareAuraScript", "dd/dcd/a25827.html#a8fa9d7c1f8e95c2e50bd2178f4f58c04", null ],
+    [ "Register", "dd/dcd/a25827.html#a2be03ae04a562b2c908fcdb0c052ca5f", null ],
+    [ "Validate", "dd/dcd/a25827.html#ab467c3b759ac1e276d6a4815d20f5ff0", null ]
 ];

@@ -1,6 +1,8 @@
 var a27051 =
 [
-    [ "CheckCast", "d2/dd5/a27051.html#a624ee45c92b37da12204dcc95dc815ca", null ],
-    [ "PrepareSpellScript", "d2/dd5/a27051.html#acdbb427ed3ebe9e2b8089a5bb50489a9", null ],
-    [ "Register", "d2/dd5/a27051.html#abc4e276c4759bad63b692a467f2f88f2", null ]
+    [ "CalculateAmount", "d2/dd5/a27051.html#aa1810db9a7b8fbc3572621ff35e0eeb1", null ],
+    [ "PrepareAuraScript", "d2/dd5/a27051.html#ad40d44271840b8e2bd1dc22b6a04290e", null ],
+    [ "ReflectDamage", "d2/dd5/a27051.html#ad8b5f9a7952fc33d7e1fee28e4872212", null ],
+    [ "Register", "d2/dd5/a27051.html#a18b19ee8823e2d1747caeefaf457ad8d", null ],
+    [ "Validate", "d2/dd5/a27051.html#af2936ba4a29fc8735a3cabe805c77355", null ]
 ];

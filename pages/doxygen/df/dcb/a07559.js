@@ -1,14 +1,8 @@
 var a07559 =
 [
-    [ "AutobroadcastsMap", "df/dcb/a07559.html#a9064ad588e8a02d9b60974af4da1c7cf", null ],
-    [ "AutobroadcastsWeightMap", "df/dcb/a07559.html#a75e5b978794a7010c8d9d3390d8690f9", null ],
-    [ "instance", "df/dcb/a07559.html#aead196df7f590d43c89f179ca0bd4a68", null ],
-    [ "LoadAutobroadcasts", "df/dcb/a07559.html#a48748969b122aee47d03697b6e9a2ee1", null ],
-    [ "LoadAutobroadcastsLocalized", "df/dcb/a07559.html#a105fa2c33da0662785551027430d40c6", null ],
-    [ "SendAutobroadcasts", "df/dcb/a07559.html#a225907be4944713af11c312185c8aea7", null ],
-    [ "SendNotificationAnnouncement", "df/dcb/a07559.html#ace584bb6b66c8944e1405ec0af686d3a", null ],
-    [ "SendWorldAnnouncement", "df/dcb/a07559.html#a8be8fd36f843ffd435989c99ce0f9229", null ],
-    [ "_announceType", "df/dcb/a07559.html#a3889edc4001e26519d9df042a8b477fc", null ],
-    [ "_autobroadcasts", "df/dcb/a07559.html#a06d42010fea307a03aac0ca4e6886f1d", null ],
-    [ "_autobroadcastsWeights", "df/dcb/a07559.html#aadbd8ca926a64be4fbbe832fd633ee88", null ]
+    [ "faction", "df/dcb/a07559.html#acb80e9b49dda9771679b871cf862d876", null ],
+    [ "loc_idx", "df/dcb/a07559.html#ac88c2c37d92c9e4a8502a870a580fa01", null ],
+    [ "locdbc_idx", "df/dcb/a07559.html#a572c98b3437aff883f68d0eea4b26eb6", null ],
+    [ "playerGuid", "df/dcb/a07559.html#a6aaee409b729275b9089d7db5145ba58", null ],
+    [ "usablePlayerInfo", "df/dcb/a07559.html#a0a2be15a1a7c4d84fe53930c15571157", null ]
 ];

@@ -1,10 +1,7 @@
 var a29575 =
 [
-    [ "BugfixVersion", "d6/d99/a29575.html#a461f8c749a874405584dc1fd3fe1d805", null ],
-    [ "Build", "d6/d99/a29575.html#a6cc7aff1b397df7333b9bb0003282abd", null ],
-    [ "HotfixVersion", "d6/d99/a29575.html#a0df61c036a57b8a3efde5d180dc38131", null ],
-    [ "MacHash", "d6/d99/a29575.html#ad59772e86371318fe975760e303fa7d9", null ],
-    [ "MajorVersion", "d6/d99/a29575.html#a0eb78564680f771e325536a0ab77382a", null ],
-    [ "MinorVersion", "d6/d99/a29575.html#a7140f7ef9540eff08fabf74ded68b9cc", null ],
-    [ "WindowsHash", "d6/d99/a29575.html#a96abd69a458dfc4363c4e545fc7fabab", null ]
+    [ "from", "d6/d99/a29575.html#a8e87b02059c2c1e4b1dd2760c99cb004", null ],
+    [ "ID", "d6/d99/a29575.html#a4375feed48ce5ac7291dced992c9bbf4", null ],
+    [ "price", "d6/d99/a29575.html#a44fc4c13d3426fcbc7b1108e513973de", null ],
+    [ "to", "d6/d99/a29575.html#a6b24cdac137b2b8d9472b5d1aca4178f", null ]
 ];

@@ -1,4 +1,4 @@
 var a04400 =
 [
-    [ "TestPlayer", "d7/d08/a29805.html", "d7/d08/a29805" ]
+    [ "TestMap", "dd/d86/a29823.html", "dd/d86/a29823" ]
 ];

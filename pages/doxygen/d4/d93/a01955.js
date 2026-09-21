@@ -1,5 +1,5 @@
 var a01955 =
 [
-    [ "GuildMgr", "d2/d89/a10053.html", "d2/d89/a10053" ],
-    [ "sGuildMgr", "d4/d93/a01955.html#aef171903a38e30c347ff11360f682f81", null ]
+    [ "MotdMgr", "d3/d4e/a10443.html", "d3/d4e/a10443" ],
+    [ "sMotdMgr", "d4/d93/a01955.html#a0ad6ba4db6e433e72e172e659af2cada", null ]
 ];

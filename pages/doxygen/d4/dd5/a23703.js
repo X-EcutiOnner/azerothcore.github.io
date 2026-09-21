@@ -1,6 +1,7 @@
 var a23703 =
 [
-    [ "instance_magtheridons_lair_InstanceMapScript", "de/d26/a23707.html", "de/d26/a23707" ],
-    [ "instance_magtheridons_lair", "d4/dd5/a23703.html#a9bc61758478dc18ba413264eec2e3ca3", null ],
-    [ "GetInstanceScript", "d4/dd5/a23703.html#a6c9cc959cf4f294e6173d244f54bcd02", null ]
+    [ "PeriodicTick", "d4/dd5/a23703.html#a53541105e40202e4a73ecc38d84e9eca", null ],
+    [ "PrepareAuraScript", "d4/dd5/a23703.html#a79c8829a86db535e254db009d5286430", null ],
+    [ "Register", "d4/dd5/a23703.html#a58cd762eb10d224bb188aaf167c816b9", null ],
+    [ "Validate", "d4/dd5/a23703.html#a0a4a1c0b460f7a0ade6ddbbedc893c6f", null ]
 ];

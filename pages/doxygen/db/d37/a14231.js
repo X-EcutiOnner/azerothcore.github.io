@@ -1,11 +1,11 @@
 var a14231 =
 [
-    [ "npc_highborne_lamenterAI", "db/d37/a14231.html#ad91cd657166a12d3c34adcf7b11d076f", null ],
-    [ "JustEngagedWith", "db/d37/a14231.html#a77a978fdb0ba0de506f66ec0b2906229", null ],
-    [ "Reset", "db/d37/a14231.html#a7cf9338767e8edf0a87a5552703de87a", null ],
-    [ "UpdateAI", "db/d37/a14231.html#a1048c558b825b58dbc7a3d97869a3e88", null ],
-    [ "EventCast", "db/d37/a14231.html#a02ed3216c8b71e3d2be695866dbc0089", null ],
-    [ "EventCastTimer", "db/d37/a14231.html#afc490ae2382fd7097b3877c7f9eadf6b", null ],
-    [ "EventMove", "db/d37/a14231.html#aca22c73db989f0393926067506794e43", null ],
-    [ "EventMoveTimer", "db/d37/a14231.html#a36d1993262eb0a7200e2bec625f5b4d1", null ]
+    [ "npc_scarlet_ghoul", "db/d37/a14231.html#aa256e50446b0511a0412442245be2e82", null ],
+    [ "InitializeAI", "db/d37/a14231.html#a5e98c4a1e9a31124dc6ca67c612db1c9", null ],
+    [ "MovementInform", "db/d37/a14231.html#a06f14ccde727b7c875f3be8243dec2a8", null ],
+    [ "OwnerAttackedBy", "db/d37/a14231.html#aacf81b86947124cea21fc6d2e906487f", null ],
+    [ "SetGUID", "db/d37/a14231.html#ab3840f1d6b1e63b4707d5139b63281cc", null ],
+    [ "UpdateAI", "db/d37/a14231.html#af8637b2a7644b917aa6ef10b31a1d1e0", null ],
+    [ "events", "db/d37/a14231.html#ad2b3d650e151a13159e119cb3fda88a4", null ],
+    [ "gothikGUID", "db/d37/a14231.html#a9275cf7efde4c77ce114448777f25f1e", null ]
 ];

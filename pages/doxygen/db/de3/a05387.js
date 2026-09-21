@@ -1,7 +1,10 @@
 var a05387 =
 [
-    [ "GameobjectModelData", "db/de3/a05387.html#a7d259df5a5541f95e0f548674d023fc8", null ],
-    [ "bound", "db/de3/a05387.html#ab133a32c9eefff0a35acaa4e157a3f05", null ],
-    [ "isWmo", "db/de3/a05387.html#ac51305f0d800ff993e9a9cba2ccb6939", null ],
-    [ "name", "db/de3/a05387.html#ac8a053b6f01a9917ee6b1fc2a738bb4e", null ]
+    [ "AreaInfo", "db/de3/a05387.html#a1f45e5e030aaf5b16fb6c58097fa8b14", null ],
+    [ "adtId", "db/de3/a05387.html#a95c1c986b14dfeba867fa55e77553499", null ],
+    [ "flags", "db/de3/a05387.html#a780bdbb606fe694941d2105e14a29d70", null ],
+    [ "ground_Z", "db/de3/a05387.html#aca4fada3b2062f74cf66cd34a63c0c86", null ],
+    [ "groupId", "db/de3/a05387.html#a76ac6ccec6ff67f16689a6735e644e07", null ],
+    [ "result", "db/de3/a05387.html#ab9e9a7658d5fb76be208835f786036b0", null ],
+    [ "rootId", "db/de3/a05387.html#a6f60501d22be8c1d374a46e598d0f2e3", null ]
 ];

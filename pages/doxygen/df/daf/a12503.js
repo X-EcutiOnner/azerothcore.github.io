@@ -1,11 +1,9 @@
 var a12503 =
 [
-    [ "lfg_commandscript", "df/daf/a12503.html#a90faaca821e4162e0aea40a4d98af62c", null ],
-    [ "GetCommands", "df/daf/a12503.html#a324310f9b04675c277ceae44ea09fbaf", null ],
-    [ "HandleLfgCleanCommand", "df/daf/a12503.html#a93db689dbdb97a0318d62409a863767e", null ],
-    [ "HandleLfgCooldownClearCommand", "df/daf/a12503.html#a0e399ec509b9f419b7f034cc95409f7b", null ],
-    [ "HandleLfgGroupInfoCommand", "df/daf/a12503.html#a2376288a2ef82d8a19602cd66ff880f2", null ],
-    [ "HandleLfgOptionsCommand", "df/daf/a12503.html#a73187a97c883d8d1bb3765943dd98c39", null ],
-    [ "HandleLfgPlayerInfoCommand", "df/daf/a12503.html#acdf12aff45f16904df5724ab158e3b97", null ],
-    [ "HandleLfgQueueInfoCommand", "df/daf/a12503.html#a54dcdf133cc5b22961c34eda62a4f2fc", null ]
+    [ "accountId", "df/daf/a12503.html#ad146b84be01ec07a5fee8184f0cc2da9", null ],
+    [ "accountName", "df/daf/a12503.html#a4849bd1f43fd15eea1991948abdc576d", null ],
+    [ "deleteDate", "df/daf/a12503.html#a65a101727094841d34e8775bb7504cba", null ],
+    [ "level", "df/daf/a12503.html#a3eb08758389ea4d3e2329ffb7af9fff4", null ],
+    [ "lowGuid", "df/daf/a12503.html#a11fd07e662184f750ac0a5e547a22437", null ],
+    [ "name", "df/daf/a12503.html#a0e85dce38305e222c5654315ed68bfc1", null ]
 ];

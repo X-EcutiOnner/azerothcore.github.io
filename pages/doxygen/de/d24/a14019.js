@@ -1,8 +1,6 @@
 var a14019 =
 [
-    [ "npc_ranger_lilatha", "de/d24/a14019.html#abd13a89b41a289edefb9bc21588f8d29", null ],
-    [ "Reset", "de/d24/a14019.html#a3e804e483b51961193ee1079caba40be", null ],
-    [ "sQuestAccept", "de/d24/a14019.html#acc38d4feacb5e7fa5ce9658b10447c4d", null ],
-    [ "WaypointReached", "de/d24/a14019.html#a193bd47c7d7c4fb3d832a59bf55e8412", null ],
-    [ "WaypointReached", "de/d24/a14019.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "instance_uldaman_InstanceMapScript", "dc/dff/a14023.html", "dc/dff/a14023" ],
+    [ "instance_uldaman", "de/d24/a14019.html#a854807db729d15aa4a09aad051fe3bda", null ],
+    [ "GetInstanceScript", "de/d24/a14019.html#a672bb8b5a16d29d25a191ab90d8007b4", null ]
 ];

@@ -1,7 +1,7 @@
 var a11239 =
 [
-    [ "GuildBankTextQueryResult", "db/d7a/a11239.html#aa1e25895e246c3a688d7850e517858d3", null ],
-    [ "Write", "db/d7a/a11239.html#acb6b28dcf56b821e3c0d5b58f6baa2dd", null ],
-    [ "Tab", "db/d7a/a11239.html#abfc5522a0f94086474493db85ed1ef73", null ],
-    [ "Text", "db/d7a/a11239.html#ae78c1d1b802e12efd058987117158ec3", null ]
+    [ "GuildBankActivate", "db/d7a/a11239.html#a5b27541a26ada694d9635f6d6873ef20", null ],
+    [ "Read", "db/d7a/a11239.html#a8dbde75aaa3102024aa0ff3a8f3625da", null ],
+    [ "Banker", "db/d7a/a11239.html#a9b79075c6ee6a4f73ae18c6956eead7c", null ],
+    [ "FullUpdate", "db/d7a/a11239.html#a50b9a5333e2296e654c90fc6394bdbd3", null ]
 ];

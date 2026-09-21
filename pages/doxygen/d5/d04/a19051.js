@@ -1,6 +1,6 @@
 var a19051 =
 [
-    [ "boss_sister_svalnaAI", "d6/d51/a19055.html", "d6/d51/a19055" ],
-    [ "boss_sister_svalna", "d5/d04/a19051.html#a233a9606db61f6ab945350e98a0929ff", null ],
-    [ "GetAI", "d5/d04/a19051.html#a5eb89badd75104dfe1dc3e03d372adc0", null ]
+    [ "HandleScript", "d5/d04/a19051.html#a930b8a515b5d156c16925dc218cf8172", null ],
+    [ "PrepareSpellScript", "d5/d04/a19051.html#a892b0ba0f6541b3557a0200be5028479", null ],
+    [ "Register", "d5/d04/a19051.html#a1eb85bc675a89ef9679e673c1fea9a08", null ]
 ];

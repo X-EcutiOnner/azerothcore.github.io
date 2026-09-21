@@ -1,7 +1,6 @@
 var a15791 =
 [
-    [ "npc_anubisath_warder", "df/d7a/a15791.html#aebe14673e5c31000a9626e39d87c6775", null ],
-    [ "JustEngagedWith", "df/d7a/a15791.html#a579318fa519eb669573b2cea78c2fee3", null ],
-    [ "Reset", "df/d7a/a15791.html#aea0fac8f1eb28591b141ace55c49beeb", null ],
-    [ "UpdateAI", "df/d7a/a15791.html#aba428f1f1a016191aa4f168c616c3a29", null ]
+    [ "FilterTargets", "df/d7a/a15791.html#a1ceb8f97a19b7c0434c430b388d0f76b", null ],
+    [ "PrepareSpellScript", "df/d7a/a15791.html#a4a376e2a30c79ee2819c695e72535c0a", null ],
+    [ "Register", "df/d7a/a15791.html#aaf7b4fba94d94331f6b35add2b836061", null ]
 ];

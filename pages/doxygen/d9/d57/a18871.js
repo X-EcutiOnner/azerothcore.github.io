@@ -1,6 +1,6 @@
 var a18871 =
 [
-    [ "ManaVoidSelector", "d9/d57/a18871.html#aa57a0960e7ce90b8de23f01ae72a1fff", null ],
-    [ "operator()", "d9/d57/a18871.html#a464d63f2cf8cfe7d0c6bb5293e788a28", null ],
-    [ "_source", "d9/d57/a18871.html#ae45c999db51bc153bba7f2fdfb99f6ba", null ]
+    [ "npc_strangulate_vehicleAI", "d8/d8c/a18875.html", "d8/d8c/a18875" ],
+    [ "npc_strangulate_vehicle", "d9/d57/a18871.html#a04532bc5902af45b1e9c76cf1cec9add", null ],
+    [ "GetAI", "d9/d57/a18871.html#aa5813442234d7b18fc4e7ed44a0b30bc", null ]
 ];

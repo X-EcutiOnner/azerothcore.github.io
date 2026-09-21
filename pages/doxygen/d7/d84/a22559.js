@@ -1,6 +1,6 @@
 var a22559 =
 [
-    [ "FilterTargets", "d7/d84/a22559.html#a4d81860c41daab44851da605d38b4753", null ],
-    [ "PrepareSpellScript", "d7/d84/a22559.html#a99a7b95b1cf5835aeebe85f398f6e9a4", null ],
-    [ "Register", "d7/d84/a22559.html#a80baaf9b470d7bd5e91dffb3f0442a57", null ]
+    [ "npc_wg_siege_machineAI", "d1/d91/a22563.html", "d1/d91/a22563" ],
+    [ "npc_wg_siege_machine", "d7/d84/a22559.html#a23dc1bbeaa396cad781ec177881e7d2a", null ],
+    [ "GetAI", "d7/d84/a22559.html#ae8b2a71378565ad5428f1ae582cacca1", null ]
 ];

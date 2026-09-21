@@ -1,8 +1,19 @@
 var a19743 =
 [
-    [ "Load", "dc/d1b/a19743.html#a7bb0a7c71fb3b9958226069ed6e3399b", null ],
-    [ "OnRemove", "dc/d1b/a19743.html#a1d9a8a8b289f565712ab79e9857f6eb7", null ],
-    [ "PrepareAuraScript", "dc/d1b/a19743.html#aae6c3a215b09fd2270976190600e2cc4", null ],
-    [ "Register", "dc/d1b/a19743.html#aa2c970e4e5b84d79960023c79e95f9c3", null ],
-    [ "Validate", "dc/d1b/a19743.html#ae4ac76269793280335d76a78e5dced91", null ]
+    [ "boss_thaddius_summonAI", "dc/d1b/a19743.html#aa5050ea97f0f92a39f3db856af5cd28e", null ],
+    [ "DamageTaken", "dc/d1b/a19743.html#a1a5eccca2b8c898ae0ed8ce6007fe0b9", null ],
+    [ "DoAction", "dc/d1b/a19743.html#a3b95513bd72806a928c0f57cf6ceb45a", null ],
+    [ "EnterEvadeMode", "dc/d1b/a19743.html#ad2258d2039a789f99ad4c0766726df85", null ],
+    [ "JustDied", "dc/d1b/a19743.html#a1629c28098312defb57611967adf34fe", null ],
+    [ "JustEngagedWith", "dc/d1b/a19743.html#af96f6054547e377f401972273e6e86aa", null ],
+    [ "KilledUnit", "dc/d1b/a19743.html#a16771a7a854f85dcc26e3510d31454af", null ],
+    [ "Reset", "dc/d1b/a19743.html#a762fb33bd8fe4ac457b9b7b9c44b5d4c", null ],
+    [ "UpdateAI", "dc/d1b/a19743.html#a6f99135eb20d77cca69ec20fe4fbd002", null ],
+    [ "events", "dc/d1b/a19743.html#a18dd6a61746effdf03cd0afbadd8a368", null ],
+    [ "instance", "dc/d1b/a19743.html#a122582c974aa1e68638ea196ea2f6771", null ],
+    [ "isFeignDeath", "dc/d1b/a19743.html#a098bc04dc52b7a731cd2e72e2766700a", null ],
+    [ "myCoil", "dc/d1b/a19743.html#a2c21b7023f7396566f7486591a653079", null ],
+    [ "overload", "dc/d1b/a19743.html#a6d054ec2a0f26f9f3a5b142bacca0ae5", null ],
+    [ "pullTimer", "dc/d1b/a19743.html#a6080f32e1d90fa3e2e7bd9447abbad87", null ],
+    [ "visualTimer", "dc/d1b/a19743.html#a3587b09a23d7aad81effd14bbda03291", null ]
 ];

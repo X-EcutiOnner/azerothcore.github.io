@@ -1,5 +1,5 @@
 var a08151 =
 [
-    [ "IsColorValid", "d4/dcc/a08151.html#a4e2a1ab20d086987429174f41887bc45", null ],
-    [ "IsTextValid", "d4/dcc/a08151.html#a4704555f7e926f8facce237de6772a3d", null ]
+    [ "value_type", "d4/dcc/a08151.html#ae75362e108b0a7323fe92cae75c4729c", null ],
+    [ "TryConsume", "d4/dcc/a08151.html#a19112294c2e36c8e36fb3f77f2ccabba", null ]
 ];

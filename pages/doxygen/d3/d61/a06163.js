@@ -1,11 +1,10 @@
 var a06163 =
 [
-    [ "SQLQueryHolderBase", "d3/d61/a06163.html#a05946ea4a26798e5567f632cf9f66eff", null ],
-    [ "~SQLQueryHolderBase", "d3/d61/a06163.html#aa9e2407821d0c40a728337f174571fc5", null ],
-    [ "GetPreparedResult", "d3/d61/a06163.html#a402f961642eaa239ff8726ad66e78640", null ],
-    [ "SetPreparedQueryImpl", "d3/d61/a06163.html#a6657bb34fab696a26af9751ded41f1d7", null ],
-    [ "SetPreparedResult", "d3/d61/a06163.html#a34bcdec6591ce40a58667197f240fbe0", null ],
-    [ "SetSize", "d3/d61/a06163.html#a9e62f0171bd39a13348d097ee99cb17c", null ],
-    [ "SQLQueryHolderTask", "d3/d61/a06163.html#a4d6be4ca13ec7a0d213da9d1e6ec922b", null ],
-    [ "m_queries", "d3/d61/a06163.html#a432a52e6f9dc7f51cbc8f2877d0894e1", null ]
+    [ "MySQLConnectionInfo", "d3/d61/a06163.html#ae60c54053d71eb9325df10701b1f42d3", null ],
+    [ "database", "d3/d61/a06163.html#a7e65a418ad668772e4ce1b298d92f10a", null ],
+    [ "host", "d3/d61/a06163.html#a2659372561aae5feb8da121984354ef3", null ],
+    [ "password", "d3/d61/a06163.html#af5a51bd38ce1d58f65444d69b0283966", null ],
+    [ "port_or_socket", "d3/d61/a06163.html#a37b89660afb3ee085e817836e9d1d01f", null ],
+    [ "ssl", "d3/d61/a06163.html#a90e5a934b4ec46e5783248a1a80a4830", null ],
+    [ "user", "d3/d61/a06163.html#a6bf4166ebb99ea30a3894e3d8833bde6", null ]
 ];

@@ -1,12 +1,12 @@
 var a29895 =
 [
-    [ "TestVisibilityScript", "d0/db2/a29895.html#af45bf0b44aa15f43caf35b37ffd0c73d", null ],
-    [ "EnsureRegistered", "d0/db2/a29895.html#a0d804be5b25476f6883b5fc9d4582f31", null ],
-    [ "OnPlayerSetServerSideVisibility", "d0/db2/a29895.html#a6b3701188303b644b28a52ec42bec846", null ],
-    [ "Reset", "d0/db2/a29895.html#a26ef73c940ccbf6fbcfce0b59900c887", null ],
-    [ "CallCount", "d0/db2/a29895.html#afc108ad7a9b6734a45e52bf8ecfaae9f", null ],
-    [ "Instance", "d0/db2/a29895.html#adcf0326aa1e32db109ec920857868138", null ],
-    [ "LastPlayer", "d0/db2/a29895.html#ae5ef9d343ed754282b99fd3b951659ff", null ],
-    [ "LastSecurity", "d0/db2/a29895.html#a788ffb301e1351e45248a6b8686aaa6b", null ],
-    [ "LastType", "d0/db2/a29895.html#aae555f8cabfcd443b0e078fa75bf5104", null ]
+    [ "SetUp", "d0/db2/a29895.html#a67c12a7a60e9c4a17ddddd7f2825b029", null ],
+    [ "TearDown", "d0/db2/a29895.html#aaf740c51d0319f7116097a94fa55b8be", null ],
+    [ "PERM_BAN", "d0/db2/a29895.html#a865f9650e6ce11f3feb66ee87969d402", null ],
+    [ "PERM_KICK", "d0/db2/a29895.html#a5ac4c3503b0daa3280b097858380e8b5", null ],
+    [ "PERM_MUTE", "d0/db2/a29895.html#a467f6ed1f2c9296bc6d630a13860c09b", null ],
+    [ "PERM_SHUTDOWN", "d0/db2/a29895.html#a1b891d364bcc7786a9a3f3f8c2dbccf4", null ],
+    [ "rbacData", "d0/db2/a29895.html#ace7a8836853498b4785b85eca7c71e96", null ],
+    [ "ROLE_ADMIN", "d0/db2/a29895.html#a2f66e37c22a953a8f9c8cd831a7e6b93", null ],
+    [ "ROLE_MOD", "d0/db2/a29895.html#ac9e1278f18b05d1ed0be1f277813c939", null ]
 ];

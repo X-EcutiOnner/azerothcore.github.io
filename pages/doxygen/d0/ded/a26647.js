@@ -1,7 +1,5 @@
 var a26647 =
 [
-    [ "HandleProc", "d0/ded/a26647.html#ad97c3b5df293ed8afae3e662467088c2", null ],
-    [ "PrepareAuraScript", "d0/ded/a26647.html#a691f14220a619e1915636417927aaa13", null ],
-    [ "Register", "d0/ded/a26647.html#a4f3c644a91dab0641ef489fd2da171a2", null ],
-    [ "Validate", "d0/ded/a26647.html#a6fee4af68a8d312bcb543e0c67932cc9", null ]
+    [ "Trigger", "d0/ded/a26647.html#aa16aba75a066e83cb56660a0e29e7453", null ],
+    [ "Validate", "d0/ded/a26647.html#a6c38df91dbe0cf277d1d50a40edd4589", null ]
 ];

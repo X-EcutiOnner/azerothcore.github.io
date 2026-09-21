@@ -1,7 +1,6 @@
 var a21043 =
 [
-    [ "OnRemove", "df/da4/a21043.html#ad3f482f9fff9798cc6e7a06183344742", null ],
-    [ "PrepareAuraScript", "df/da4/a21043.html#ab830a7a6c5ed432f8718071345c99b57", null ],
-    [ "Register", "df/da4/a21043.html#ac83a8d085d02feec64b6012cacb60dce", null ],
-    [ "Validate", "df/da4/a21043.html#a69a3e0a6c06e3c4085bf0ad25e40edf9", null ]
+    [ "HandleScript", "df/da4/a21043.html#a679cf770e38e1fda66f8a64fff53f968", null ],
+    [ "PrepareSpellScript", "df/da4/a21043.html#a89fe5ca5efcc45278bdd9017cfeaaf3f", null ],
+    [ "Register", "df/da4/a21043.html#adc76a70e73cba42c0f9935b3b43d17cd", null ]
 ];

@@ -1,11 +1,7 @@
 var a11763 =
 [
-    [ "Player", "d2/dae/a11763.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
-    [ "WorldSession", "d2/dae/a11763.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
-    [ "Face", "d2/dae/a11763.html#a6334464eea38be514f3faa7538b39a5a", null ],
-    [ "FacialHair", "d2/dae/a11763.html#a44643270b211d275eb94283842791407", null ],
-    [ "Gender", "d2/dae/a11763.html#a14321ea3595debe2836eceab8a82f944", null ],
-    [ "HairColor", "d2/dae/a11763.html#aeaa7ce4ecea7f42def63049424a2dd6b", null ],
-    [ "HairStyle", "d2/dae/a11763.html#ade5b2dff213547ab4d707070f8979085", null ],
-    [ "Skin", "d2/dae/a11763.html#a2876110e687e7248e8c64fcb3a3a80db", null ]
+    [ "OpcodeHandler", "dc/dcd/a05112.html#gad7dc8101b537abe699b18ae8de444a81", null ],
+    [ "~OpcodeHandler", "dc/dcd/a05112.html#ga5400057a3d849035aedda259828a5af5", null ],
+    [ "Name", "dc/dcd/a05112.html#ga0f1d1acde7c65e2b5c29357b232a7061", null ],
+    [ "Status", "dc/dcd/a05112.html#gace7959058ad5b5e617c7b043f5c63b7c", null ]
 ];

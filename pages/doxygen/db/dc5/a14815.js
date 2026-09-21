@@ -1,11 +1,9 @@
 var a14815 =
 [
-    [ "npc_high_oracle_soo_roo", "db/dc5/a14815.html#a86f5f3c3869e9fa7afcfc9425dfdfdde", null ],
-    [ "MoveInLineOfSight", "db/dc5/a14815.html#ae3b4da2d6b888cf6325bb93b3fdbde7f", null ],
-    [ "Reset", "db/dc5/a14815.html#a89a60a83a46e0095045b2353e50483ed", null ],
-    [ "UpdateAI", "db/dc5/a14815.html#ac22cfa519e478da643a51ae887f306fd", null ],
-    [ "orphanGUID", "db/dc5/a14815.html#acd6636eb290a2fe4470b04d467ff7fa1", null ],
-    [ "phase", "db/dc5/a14815.html#abeec923d25d21773f9d8f8ba1deb0148", null ],
-    [ "playerGUID", "db/dc5/a14815.html#a329832491f86c6fcc9ccc4c98b19991e", null ],
-    [ "timer", "db/dc5/a14815.html#aa5238d3ee361374681947de874391a1f", null ]
+    [ "CheckCast", "db/dc5/a14815.html#a02965b55e8efadbd21e5afdd824f1dec", null ],
+    [ "FilterTargets", "db/dc5/a14815.html#a9638048b4107db116474abf8e18d7760", null ],
+    [ "HandleBeforeHit", "db/dc5/a14815.html#a3567c72e999ad6ca9db15b4d6ddadafb", null ],
+    [ "HandleScriptEffect", "db/dc5/a14815.html#a47d6a6c1fcb2b04782e54d3797c1f42c", null ],
+    [ "PrepareSpellScript", "db/dc5/a14815.html#aab9211291bd9dab8255d94e4eb07bf8e", null ],
+    [ "Register", "db/dc5/a14815.html#a73e6c9c91dccb309207fa3aeb6bd9d6f", null ]
 ];

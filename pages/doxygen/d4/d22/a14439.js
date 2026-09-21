@@ -1,9 +1,15 @@
 var a14439 =
 [
-    [ "npc_amanishi_scout", "d4/d22/a14439.html#a74bed56c21c184e661f62c30ce6d9140", null ],
-    [ "JustEngagedWith", "d4/d22/a14439.html#a5969fadd871094e993c4d3fe0b08054c", null ],
-    [ "Reset", "d4/d22/a14439.html#ac527a3a656888f7ac3d13636a0de7aad", null ],
-    [ "ScheduleCombat", "d4/d22/a14439.html#acb736dc42c5f9afbd92c97bfa8293606", null ],
-    [ "UpdateAI", "d4/d22/a14439.html#a3740a4fde31e1e81edb34dde61403acc", null ],
-    [ "_drumGUID", "d4/d22/a14439.html#afd9a1a57c413d5857331ac90665cc1e0", null ]
+    [ "npc_janalai_hatcher", "d4/d22/a14439.html#a337e21f5a014d0f9d7a1f614b7245f36", null ],
+    [ "AttackStart", "d4/d22/a14439.html#a5a7826964349ed9adbbdeb7c733dd915", null ],
+    [ "JustEngagedWith", "d4/d22/a14439.html#a54c251278dcfa22052b6c6e49a4abd89", null ],
+    [ "MoveInLineOfSight", "d4/d22/a14439.html#a4ae2157e37bb93b7465e029e526a6ce4", null ],
+    [ "MovementInform", "d4/d22/a14439.html#a3a0170bc53f9f8f96090e34097b90c2c", null ],
+    [ "MoveToNewWaypoint", "d4/d22/a14439.html#ab775a888ae1002eed3ed548ab89ca2e4", null ],
+    [ "Reset", "d4/d22/a14439.html#ab1c3945160c55b2b2d63763eacced473", null ],
+    [ "UpdateAI", "d4/d22/a14439.html#ab5cc0c5f73593128b6d6e023aa4ce609", null ],
+    [ "_isHatching", "d4/d22/a14439.html#aae712db69c870d00d07a37b8611ecaf4", null ],
+    [ "_repeatCount", "d4/d22/a14439.html#acaf411fe3f6ea66d1ed2cd2da2ccaf12", null ],
+    [ "_side", "d4/d22/a14439.html#a177ddd5ff96902363ab708f0c737fc20", null ],
+    [ "_waypoint", "d4/d22/a14439.html#ab39ab27d8057b52b77637faefd48e8e6", null ]
 ];

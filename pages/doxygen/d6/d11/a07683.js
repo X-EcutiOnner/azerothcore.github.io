@@ -1,9 +1,9 @@
 var a07683 =
 [
-    [ "Rank", "d6/d11/a07683.html#a9bcd8dc00437bcf015565eeb43263578", null ],
-    [ "Rating", "d6/d11/a07683.html#ab43875cc3ae58eb636a490c2c0f5c1f6", null ],
-    [ "SeasonGames", "d6/d11/a07683.html#a124c6d64f22c13707764eedd79fe1912", null ],
-    [ "SeasonWins", "d6/d11/a07683.html#ad274601b85ea634524b1c00979e09465", null ],
-    [ "WeekGames", "d6/d11/a07683.html#a1d0092200b2c9428e821473949cfda77", null ],
-    [ "WeekWins", "d6/d11/a07683.html#a313afef901bd5a9347f2074a7ca1bfe0", null ]
+    [ "ArenaScore", "d6/d11/a07683.html#a58f1391de4e67750dad211b10704499f", null ],
+    [ "AppendToPacket", "d6/d11/a07683.html#a3fe2ab34a9abc4d8c4ff863334cf2c84", null ],
+    [ "BuildObjectivesBlock", "d6/d11/a07683.html#ac96461b865fc7a9ba0cdfad6ae3fa96f", null ],
+    [ "ToString", "d6/d11/a07683.html#ab04b30f4bfa6b1aa89e08e3195ad3b0b", null ],
+    [ "Arena", "d6/d11/a07683.html#a5f488c25aa439166d145713c67e7d085", null ],
+    [ "PvPTeamId", "d6/d11/a07683.html#a486ee0e05ac5160f0fb174e2a1e061bb", null ]
 ];

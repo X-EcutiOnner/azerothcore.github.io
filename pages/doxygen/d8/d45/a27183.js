@@ -1,7 +1,9 @@
 var a27183 =
 [
-    [ "HandleDummy", "d8/d45/a27183.html#aa9b579a8a7a23b94d9a2c8c7f932ff78", null ],
-    [ "PrepareSpellScript", "d8/d45/a27183.html#ae1dfa086c89a4180d42d231064d88602", null ],
-    [ "Register", "d8/d45/a27183.html#a256c152beadbfce6bf245779295b8758", null ],
-    [ "Validate", "d8/d45/a27183.html#acb4144be3326bcaae9c559d8e7b9d7ec", null ]
+    [ "HandleAfterCast", "d8/d45/a27183.html#ac08e632064c407346649f525d030d335", null ],
+    [ "HandleDummy", "d8/d45/a27183.html#a9c1dadd5a3e2e039b50a414ac589ebf4", null ],
+    [ "Load", "d8/d45/a27183.html#a177525c755b036a79263c0fa6fa4082e", null ],
+    [ "PrepareSpellScript", "d8/d45/a27183.html#aed99b07a53068b19bddb4daff3449a52", null ],
+    [ "Register", "d8/d45/a27183.html#a946e56a325d83656d9b43af80d065e45", null ],
+    [ "_triggerSpellId", "d8/d45/a27183.html#a6697a22b684784853cb1999d41fcaaa7", null ]
 ];

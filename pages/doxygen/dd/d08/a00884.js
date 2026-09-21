@@ -1,4 +1,4 @@
 var a00884 =
 [
-    [ "AllGameObjectScript", "d1/d64/a10753.html", "d1/d64/a10753" ]
+    [ "ScriptRegistry< CommandScript >", "dd/d08/a00884.html#a2d714ec85ac23255244ecf61e4f48244", null ]
 ];

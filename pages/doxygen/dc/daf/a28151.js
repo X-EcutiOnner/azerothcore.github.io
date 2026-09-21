@@ -1,6 +1,5 @@
 var a28151 =
 [
-    [ "npc_dream_fogAI", "d2/d9a/a28155.html", "d2/d9a/a28155" ],
-    [ "npc_dream_fog", "dc/daf/a28151.html#ae50306be88f15c9dfc4d0f12c63c68e6", null ],
-    [ "GetAI", "dc/daf/a28151.html#a48c45fec086e3a50462deed44734ba38", null ]
+    [ "achievement_sickly_gazelle", "dc/daf/a28151.html#abb613cb222c727923c4c5ce843db3a5f", null ],
+    [ "OnCheck", "dc/daf/a28151.html#a5a4fcd30c92c10a9c0fb8fc1372f3857", null ]
 ];

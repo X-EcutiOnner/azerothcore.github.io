@@ -1,6 +1,8 @@
 var a27799 =
 [
-    [ "HandleAfterHit", "d6/d2e/a27799.html#a177bcf10d6b8fa586ff0cac3834367f9", null ],
-    [ "PrepareSpellScript", "d6/d2e/a27799.html#ac16ef2ff92440deab6c69f4824bdd619", null ],
-    [ "Register", "d6/d2e/a27799.html#a46fe3d7ebd663d1cb27aa473a56e81eb", null ]
+    [ "CheckProc", "d6/d2e/a27799.html#aa78fae71c932b791104d7d2e6f4fb489", null ],
+    [ "HandleProc", "d6/d2e/a27799.html#a6fc689cee1b24bbd227beafd774c7fa0", null ],
+    [ "PrepareAuraScript", "d6/d2e/a27799.html#a32cfe704365230d40b02567c8a365e89", null ],
+    [ "Register", "d6/d2e/a27799.html#a252f09e27d1a9f17d1a6bb2ceb76cb68", null ],
+    [ "Validate", "d6/d2e/a27799.html#a74420515d0f05ae1414db1059effb3c0", null ]
 ];

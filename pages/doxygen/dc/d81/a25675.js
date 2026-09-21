@@ -1,8 +1,9 @@
 var a25675 =
 [
-    [ "HandleEffectApply", "dc/d81/a25675.html#a4af5930ce6445088070495765c78361c", null ],
-    [ "HandleEffectRemove", "dc/d81/a25675.html#a6073ef880b4fa786b8f97567278904d8", null ],
-    [ "Load", "dc/d81/a25675.html#a3e27cef303df9bc16e895ab65c7764b6", null ],
-    [ "PrepareAuraScript", "dc/d81/a25675.html#a7b40247e633e734f7152352cd22599d9", null ],
-    [ "Register", "dc/d81/a25675.html#a833b246d44bf09fda626eff0c11f6ee8", null ]
+    [ "spell_gen_translocate", "dc/d81/a25675.html#a56a3df0eba3e1521aa2898194c39e919", null ],
+    [ "HandleScript", "dc/d81/a25675.html#a67684fb76da60fdc13dbece055dae157", null ],
+    [ "PrepareSpellScript", "dc/d81/a25675.html#a6f0986e54ad410c2f42a7935645485ed", null ],
+    [ "Register", "dc/d81/a25675.html#abbbcd1fdefbbd1778667ee69d449d63b", null ],
+    [ "Validate", "dc/d81/a25675.html#a0ae40ad6153a98dcd98cdfebeb515faf", null ],
+    [ "_spellId", "dc/d81/a25675.html#a01e4c84404734b7da1bf5f31cb097e58", null ]
 ];

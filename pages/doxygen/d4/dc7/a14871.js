@@ -1,9 +1,7 @@
 var a14871 =
 [
-    [ "npc_love_in_air_snivel", "d4/dc7/a14871.html#ab04596fb96292f54cf2a10f662dc94a3", null ],
-    [ "AllowAction", "d4/dc7/a14871.html#af1097317f62bbb8f8456124001c73576", null ],
-    [ "MoveInLineOfSight", "d4/dc7/a14871.html#ae6537707109b95fad20e521d07867cdd", null ],
-    [ "Reset", "d4/dc7/a14871.html#a2385ea44d9f44735b193add4a0d0485b", null ],
-    [ "UpdateAI", "d4/dc7/a14871.html#a9e712994663e3442359d2f574ebc812c", null ],
-    [ "delay", "d4/dc7/a14871.html#a548db6245ef875ec47279246e437934c", null ]
+    [ "PeriodicTick", "d4/dc7/a14871.html#ac8b584ffbb1a8787f70370d94586ed77", null ],
+    [ "PrepareAuraScript", "d4/dc7/a14871.html#a4e860850bbab0f14eb8a160bb5e6799e", null ],
+    [ "Register", "d4/dc7/a14871.html#a5def2685cedc4fb78c1a5c534c764ee9", null ],
+    [ "Validate", "d4/dc7/a14871.html#a68247c2afa553411fac34582e83635c9", null ]
 ];

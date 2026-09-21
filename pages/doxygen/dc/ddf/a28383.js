@@ -1,6 +1,7 @@
 var a28383 =
 [
-    [ "go_amberpine_outhouse", "dc/ddf/a28383.html#a953ea72b3954c89b6c391de5aca3b6ce", null ],
-    [ "OnGossipHello", "dc/ddf/a28383.html#a7cbfc3a091ad2332fd46140a24ac4e37", null ],
-    [ "OnGossipSelect", "dc/ddf/a28383.html#aa55fe049ba43dbd548ba55d982d89d51", null ]
+    [ "go_pirate_day_musicAI", "dc/ddf/a28383.html#a1abe263949b7a07e5143779efcddc7eb", null ],
+    [ "UpdateAI", "dc/ddf/a28383.html#a5373bb46c866df31a3827ceb8ee4ef9b", null ],
+    [ "_events", "dc/ddf/a28383.html#a233ae55a05876c665455b106ef50d57e", null ],
+    [ "rnd", "dc/ddf/a28383.html#ad0ced4b4f569b91b5dde4ad93a298568", null ]
 ];

@@ -1,5 +1,6 @@
 var a12847 =
 [
-    [ "at_trigger_the_beast_movement", "db/d84/a12847.html#a9534f4b71deab4a2a9a94a36e2946fc7", null ],
-    [ "OnTrigger", "db/d84/a12847.html#a333d685d765497a950fde35067d876a1", null ]
+    [ "RestoreAttack", "db/d84/a12847.html#a8c5b3b0cbe7f5bfebb1c09987c4066e3", null ],
+    [ "Execute", "db/d84/a12847.html#a633e5abe4a3a9353df63d3778b8d71bc", null ],
+    [ "_boss", "db/d84/a12847.html#a493ef909da834b0befd90f57f54fb10c", null ]
 ];

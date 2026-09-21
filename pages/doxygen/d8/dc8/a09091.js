@@ -1,9 +1,9 @@
 var a09091 =
 [
-    [ "GlobalCooldownMgr", "d8/dc8/a09091.html#a116f4af13a4e10dc5eb3c3c6a17ad863", null ],
-    [ "AddGlobalCooldown", "d8/dc8/a09091.html#acc0291e56fe4d3594d079e357f6ea3ed", null ],
-    [ "CancelGlobalCooldown", "d8/dc8/a09091.html#aed6b479416104dc536116fdb1e24fcf3", null ],
-    [ "GetGlobalCooldown", "d8/dc8/a09091.html#ae44caed35e93f834ff68394c1ab6434b", null ],
-    [ "HasGlobalCooldown", "d8/dc8/a09091.html#a7487d19ae8c59e5c5e871b2e1afabfba", null ],
-    [ "m_GlobalCooldowns", "d8/dc8/a09091.html#a80d03691d36758733f326b65992f266e", null ]
+    [ "PendingSpellCastRequest", "d8/dc8/a09091.html#aa09e9b9fcaec6d10dff4916bec15ab04", null ],
+    [ "cancelInProgress", "d8/dc8/a09091.html#a726b6e423b23f8c12c65e07809462ad1", null ],
+    [ "category", "d8/dc8/a09091.html#a51a702f257b784dac4556397dd1c0be4", null ],
+    [ "isItem", "d8/dc8/a09091.html#a9e50a954b3da1f3b39894f1d3d7a932f", null ],
+    [ "requestPacket", "d8/dc8/a09091.html#a6ee868c6161e49dc8774ab357f313116", null ],
+    [ "spellId", "d8/dc8/a09091.html#a28f12287e339fd0c6cc9ea8c89c26113", null ]
 ];

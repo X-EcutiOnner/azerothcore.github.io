@@ -1,6 +1,6 @@
 var a18367 =
 [
-    [ "FilterTargetsInitial", "df/d69/a18367.html#a92cc71f268793c616bed66d9a489a145", null ],
-    [ "PrepareSpellScript", "df/d69/a18367.html#ae27e6ceab6b92e59c97307ed10f24ab2", null ],
-    [ "Register", "df/d69/a18367.html#a91b96940a9e72e632989b49f7e475dba", null ]
+    [ "npc_gas_cloudAI", "d3/dad/a18371.html", "d3/dad/a18371" ],
+    [ "npc_gas_cloud", "df/d69/a18367.html#a99c887cb8a5cc87bbfca026447368b8e", null ],
+    [ "GetAI", "df/d69/a18367.html#a1c76a148f9c1acec473f102b6a24e3bb", null ]
 ];

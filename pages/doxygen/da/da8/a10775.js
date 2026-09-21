@@ -1,13 +1,20 @@
 var a10775 =
 [
-    [ "FormulaScript", "da/da8/a10775.html#a6d945a3c85aada82cdeb86e0aea63bde", null ],
-    [ "OnAfterArenaRatingCalculation", "da/da8/a10775.html#aa3510b1cfb4661cf6028e1b9f443c865", null ],
-    [ "OnBaseGainCalculation", "da/da8/a10775.html#ab154eaf469d5fe3e86c364940816270a", null ],
-    [ "OnBeforeUpdatingPersonalRating", "da/da8/a10775.html#a2208a5684c95b936aa9ca1ae863d9682", null ],
-    [ "OnColorCodeCalculation", "da/da8/a10775.html#a83893099062d1fb7ce69fe38bf8c4699", null ],
-    [ "OnGainCalculation", "da/da8/a10775.html#aa83fab65cc89bd03021da2805e935ffb", null ],
-    [ "OnGrayLevelCalculation", "da/da8/a10775.html#affeb57234f961b9e01f5898c7738f38f", null ],
-    [ "OnGroupRateCalculation", "da/da8/a10775.html#a1098d29595b4f9206cccf3c3c1dad5f3", null ],
-    [ "OnHonorCalculation", "da/da8/a10775.html#a54a5e523ad5a9d3eb2dd061ced2d209f", null ],
-    [ "OnZeroDifferenceCalculation", "da/da8/a10775.html#a7755c35bc56e6645e36de08c12a4847d", null ]
+    [ "AllSpellScript", "da/da8/a10775.html#a8c4266bf7a21c199eac02b5422c358e8", null ],
+    [ "CanPrepare", "da/da8/a10775.html#aeb2d438fdd7ca823ce670a94941bafff", null ],
+    [ "CanScalingEverything", "da/da8/a10775.html#a026842dcd2d8c0e0c3f99718b04e86b0", null ],
+    [ "CanSelectSpecTalent", "da/da8/a10775.html#a3cf7b45d8e9f5b23e2753d1624c4af78", null ],
+    [ "IsDatabaseBound", "da/da8/a10775.html#a0854a57b62e310575a3e5cd8d35e8532", null ],
+    [ "OnBeforeAuraRankForLevel", "da/da8/a10775.html#ae5a4590e4fb49d4cfe73c5ce307773ca", null ],
+    [ "OnCalcMaxDuration", "da/da8/a10775.html#a5d02de785a4e1cf5103110828fac5e75", null ],
+    [ "OnDummyEffect", "da/da8/a10775.html#a54e0b823c538c41507c541db025d5295", null ],
+    [ "OnDummyEffect", "da/da8/a10775.html#a36061e5bcec2ef4dea35d1b5c9e703b4", null ],
+    [ "OnDummyEffect", "da/da8/a10775.html#afe06aa2578b89fbc5ed5784aed38912a", null ],
+    [ "OnIsAuraExclusiveBySpecificWith", "da/da8/a10775.html#a861468896a9a29ababed2077be1c9242", null ],
+    [ "OnRemoveAuraScaleTargets", "da/da8/a10775.html#aa055f00fe76ba2768f97e23ecf379a18", null ],
+    [ "OnScaleAuraUnitAdd", "da/da8/a10775.html#abf3758ff33e5be1492ed4e45979a7a8d", null ],
+    [ "OnSpellCast", "da/da8/a10775.html#aac6481ca905c3f44f85c55aaf694afca", null ],
+    [ "OnSpellCastCancel", "da/da8/a10775.html#ad5dd3e0f697edb93df6ee764fe2a1d99", null ],
+    [ "OnSpellCheckCast", "da/da8/a10775.html#aae718678bb7d9a7ed1e0cbbc59db3049", null ],
+    [ "OnSpellPrepare", "da/da8/a10775.html#addb78dc29f771ec376922a4a2bff558b", null ]
 ];

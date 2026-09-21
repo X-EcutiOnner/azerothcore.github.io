@@ -1,6 +1,7 @@
 var a21307 =
 [
-    [ "boss_skadiAI", "dc/d0e/a21311.html", "dc/d0e/a21311" ],
-    [ "boss_skadi", "d1/d11/a21307.html#a124c1c1de7ba232b3256a65547370464", null ],
-    [ "GetAI", "d1/d11/a21307.html#ac2986670096fdd69a2e584bb9fcc1bbb", null ]
+    [ "npc_frost_tomb", "d1/d11/a21307.html#a9c7abe1dc25b807d34f1ed818ab639ef", null ],
+    [ "JustDied", "d1/d11/a21307.html#a40a14647eaf9f2c5bd11c094f0aadb79", null ],
+    [ "UpdateAI", "d1/d11/a21307.html#af2122e9c8cb206151f631659c7d167da", null ],
+    [ "PrisonerGUID", "d1/d11/a21307.html#a456fcd5dd3f504954a74fc068f253dc2", null ]
 ];

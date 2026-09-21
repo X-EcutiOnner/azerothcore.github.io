@@ -1,6 +1,8 @@
 var a16415 =
 [
-    [ "npc_anub_ar_crusher_crypt_fiend", "d2/df0/a16415.html#a89abbce738f115c26dae9dacb065cc3d", null ],
-    [ "DoEngagedWith", "d2/df0/a16415.html#a20cdbe7eb580cd9f9763019d8927182f", null ],
-    [ "DoEvent", "d2/df0/a16415.html#a276eca6e65b32905f6919d49530ccc2f", null ]
+    [ "HandleScriptEffect", "d2/df0/a16415.html#af3e18fa5befc7124f2a3dbcd36259e6b", null ],
+    [ "Load", "d2/df0/a16415.html#ab293f8b536957558fa8886e1f4a23e74", null ],
+    [ "PrepareSpellScript", "d2/df0/a16415.html#ae4a1abf2e39c6806d804dea9ce5808ef", null ],
+    [ "Register", "d2/df0/a16415.html#a9fb54f0662982dec90c2e6f8568421ed", null ],
+    [ "Validate", "d2/df0/a16415.html#a2bee81d684c4739bb6247bfbdb74a21b", null ]
 ];

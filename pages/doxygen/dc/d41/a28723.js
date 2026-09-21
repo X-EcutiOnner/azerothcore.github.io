@@ -1,6 +1,7 @@
 var a28723 =
 [
-    [ "npc_necropolis_proxy", "dc/d41/a28723.html#a73f92ee73673172989d48064e5984db0", null ],
-    [ "SpellHit", "dc/d41/a28723.html#a90d1ab55683a6409403e24291643cca5", null ],
-    [ "SpellHitTarget", "dc/d41/a28723.html#a79ee941ff32f8bbb1b93242f46a91c1a", null ]
+    [ "npc_wormholeAI", "dc/d41/a28723.html#a75c28ce9bcbb5ef6fb4213d000d5596a", null ],
+    [ "GetData", "dc/d41/a28723.html#ad4c9f2265f126c7f2b5538bab6b75cb3", null ],
+    [ "InitializeAI", "dc/d41/a28723.html#aa0a903014ec7243036604ffcc67e0a36", null ],
+    [ "_showUnderground", "dc/d41/a28723.html#a6a2fbf623b8fc55cfd48a12e2c515134", null ]
 ];

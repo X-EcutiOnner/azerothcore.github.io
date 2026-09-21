@@ -1,7 +1,7 @@
 var a26139 =
 [
-    [ "Load", "de/d53/a26139.html#a8be944ae201f4f8406948aff78f982d9", null ],
-    [ "OnDummyEffect", "de/d53/a26139.html#adcb707400963e549a295e115d6f3583b", null ],
-    [ "PrepareSpellScript", "de/d53/a26139.html#a5b2175a933df10d775bc3381f515aa96", null ],
-    [ "Register", "de/d53/a26139.html#a6e41bf15401c540887dd321e4b2cc7d3", null ]
+    [ "HandleDummy", "de/d53/a26139.html#a3f9d43d11b344e3eb02fdc088506008e", null ],
+    [ "PrepareSpellScript", "de/d53/a26139.html#a1fb13b562c5d4f905739e193bc5292dd", null ],
+    [ "Register", "de/d53/a26139.html#a581e04721eb9564d1300ddd78c805368", null ],
+    [ "Validate", "de/d53/a26139.html#a18a648ebf1dbc9a11d09e457a33d0e33", null ]
 ];

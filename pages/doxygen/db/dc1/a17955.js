@@ -1,9 +1,9 @@
 var a17955 =
 [
-    [ "BattleExperienceEvent", "db/dc1/a17955.html#a3091b403089533ce2ebbb40fa38f28c9", null ],
-    [ "Execute", "db/dc1/a17955.html#a3971962ec90f682baeae96fe6098fa97", null ],
-    [ "_creature", "db/dc1/a17955.html#a0155536d5c2be329a1f3b57c4d852098", null ],
-    [ "_level", "db/dc1/a17955.html#a22f0d7e59f579362be4576180d0977b8", null ],
-    [ "ExperiencedSpells", "db/dc1/a17955.html#a5e2e06a386059ba2d9aff676648fa56b", null ],
-    [ "ExperiencedTimes", "db/dc1/a17955.html#af682cc246c7fdae39cc2a1e57110badc", null ]
+    [ "CheckProc", "db/dc1/a17955.html#a13426f7a45e9434f980b42f174b22da8", null ],
+    [ "HandlePeriodicTick", "db/dc1/a17955.html#a6380b4d03e4c48cd1a1f89227a1ebae8", null ],
+    [ "HandleProc", "db/dc1/a17955.html#abf744d64dae5835bff3877eeaa919af3", null ],
+    [ "PrepareAuraScript", "db/dc1/a17955.html#a5836fb240ae612d36a9e80c88bebdc48", null ],
+    [ "Register", "db/dc1/a17955.html#a1b72c10256365de71b8f9fadf5886338", null ],
+    [ "Validate", "db/dc1/a17955.html#acc3a0e0ae60291646514c1ae6f41f421", null ]
 ];

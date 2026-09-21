@@ -1,7 +1,11 @@
 var a27463 =
 [
-    [ "HandleProc", "df/dc1/a27463.html#adec7010a0de4ab9e8756d345c4adff14", null ],
-    [ "PrepareAuraScript", "df/dc1/a27463.html#a16986cb0bf0e46d44a640486580480aa", null ],
-    [ "Register", "df/dc1/a27463.html#a093cac6e19a12d01b7dba974b595502e", null ],
-    [ "Validate", "df/dc1/a27463.html#a558005f2d0ed6d42705a3e0ee940ffcc", null ]
+    [ "AddTarget", "df/dc1/a27463.html#a18875ef707271a77c0c5867fa8de7ff7", null ],
+    [ "HandleApply", "df/dc1/a27463.html#afad10ab0f64e688a18ed749c294a2fbe", null ],
+    [ "HandleEffectPeriodic", "df/dc1/a27463.html#a339b71689056a61e4eebf77f1abcb3dd", null ],
+    [ "HandleRemove", "df/dc1/a27463.html#a1bd9806323ad6b26a0c1fb8773596c98", null ],
+    [ "PrepareAuraScript", "df/dc1/a27463.html#abd535f756fae06c9fae613d69ef4e353", null ],
+    [ "Register", "df/dc1/a27463.html#a0f41f9287f5eb5046e6679d22c65416a", null ],
+    [ "Validate", "df/dc1/a27463.html#a47351141df5e5e15a2d454cc653a9cf5", null ],
+    [ "_targets", "df/dc1/a27463.html#ad2467bc150cb08766c57cca23d4d9843", null ]
 ];

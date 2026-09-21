@@ -1,7 +1,6 @@
 var a14327 =
 [
-    [ "Load", "d7/d92/a14327.html#a9888c598c4d6cf77c49e15f68c3db225", null ],
-    [ "OnRemove", "d7/d92/a14327.html#ad4044dcd8c88eba88d032a96ca79dc4c", null ],
-    [ "PrepareAuraScript", "d7/d92/a14327.html#a07abb27367cc0a59bdf60a30dfb7cfb0", null ],
-    [ "Register", "d7/d92/a14327.html#ac2db8f8d9b778a0a36081c897f4149cb", null ]
+    [ "npc_jaina_proudmoore_bfuAI", "da/dba/a14331.html", "da/dba/a14331" ],
+    [ "npc_jaina_proudmoore_bfu", "d7/d92/a14327.html#af96c4fac318f44cf6e70817b6960999f", null ],
+    [ "GetAI", "d7/d92/a14327.html#a4ed6349a5ebdd90053f9d67d24ab6991", null ]
 ];

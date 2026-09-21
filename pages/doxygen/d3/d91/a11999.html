@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: SpellLearnSkillNode Struct Reference</title>
+<title>AzerothCore: CastSpellExtraArgs Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,88 +105,570 @@ $(document).ready(function(){initNavTree('d3/d91/a11999.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
+<a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d7/d7c/a11996.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">SpellLearnSkillNode Struct Reference</div></div>
+  <div class="headertitle"><div class="title">CastSpellExtraArgs Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">SpellMgr.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">SpellDefines.h</a>&quot;</code></p>
 <table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:acc0d26e24a5bc6a319d93595479ad5a7"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d91/a11999.html#acc0d26e24a5bc6a319d93595479ad5a7">CastSpellExtraArgs</a> ()=default</td></tr>
+<tr class="separator:acc0d26e24a5bc6a319d93595479ad5a7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa04558f6c057199be6e2a29757415a33"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d91/a11999.html#aa04558f6c057199be6e2a29757415a33">CastSpellExtraArgs</a> (bool triggered)</td></tr>
+<tr class="separator:aa04558f6c057199be6e2a29757415a33"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4a17c18662901b27dac8f8d13ee9135c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d91/a11999.html#a4a17c18662901b27dac8f8d13ee9135c">CastSpellExtraArgs</a> (<a class="el" href="../../d1/dde/a01496.html#a9f3c49d8db7e142b86eba36bc8951967">TriggerCastFlags</a> trigger)</td></tr>
+<tr class="separator:a4a17c18662901b27dac8f8d13ee9135c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a51557cea86937c12a0b17348cba2ced8"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d91/a11999.html#a51557cea86937c12a0b17348cba2ced8">CastSpellExtraArgs</a> (<a class="el" href="../../d1/d39/a08803.html">Item</a> *item)</td></tr>
+<tr class="separator:a51557cea86937c12a0b17348cba2ced8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a357b88e94fc54c52c677f248d5d679ed"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d91/a11999.html#a357b88e94fc54c52c677f248d5d679ed">CastSpellExtraArgs</a> (<a class="el" href="../../de/d67/a11895.html">AuraEffect</a> const *eff)</td></tr>
+<tr class="separator:a357b88e94fc54c52c677f248d5d679ed"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7f5e5133a161e38b890b4c3987656ccf"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d91/a11999.html#a7f5e5133a161e38b890b4c3987656ccf">CastSpellExtraArgs</a> (<a class="el" href="../../d8/d0c/a08895.html">ObjectGuid</a> const &amp;origCaster)</td></tr>
+<tr class="separator:a7f5e5133a161e38b890b4c3987656ccf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8a88c84c5e59e6e2321a47d0d19f3e4b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d91/a11999.html#a8a88c84c5e59e6e2321a47d0d19f3e4b">CastSpellExtraArgs</a> (<a class="el" href="../../de/d67/a11895.html">AuraEffect</a> const *eff, <a class="el" href="../../d8/d0c/a08895.html">ObjectGuid</a> const &amp;origCaster)</td></tr>
+<tr class="separator:a8a88c84c5e59e6e2321a47d0d19f3e4b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab3f36c827883d9d3fee7855d2ba7cdba"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d91/a11999.html#ab3f36c827883d9d3fee7855d2ba7cdba">CastSpellExtraArgs</a> (<a class="el" href="../../d1/dde/a01496.html#a4ad87b8c967acbbcb154a32bc123371b">SpellValueMod</a> mod, <a class="el" href="../../de/d69/a04679.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> val)</td></tr>
+<tr class="separator:ab3f36c827883d9d3fee7855d2ba7cdba"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a69a2dd620aa1df727931451ea0db48ac"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d91/a11999.html">CastSpellExtraArgs</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d91/a11999.html#a69a2dd620aa1df727931451ea0db48ac">SetTriggerFlags</a> (<a class="el" href="../../d1/dde/a01496.html#a9f3c49d8db7e142b86eba36bc8951967">TriggerCastFlags</a> flag)</td></tr>
+<tr class="separator:a69a2dd620aa1df727931451ea0db48ac"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab17825377e5a0e07b99d72fbec4e2a27"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d91/a11999.html">CastSpellExtraArgs</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d91/a11999.html#ab17825377e5a0e07b99d72fbec4e2a27">SetCastItem</a> (<a class="el" href="../../d1/d39/a08803.html">Item</a> *item)</td></tr>
+<tr class="separator:ab17825377e5a0e07b99d72fbec4e2a27"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3b6b9c02778e0b5a6be0f8feddbb21a9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d91/a11999.html">CastSpellExtraArgs</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d91/a11999.html#a3b6b9c02778e0b5a6be0f8feddbb21a9">SetTriggeringAura</a> (<a class="el" href="../../de/d67/a11895.html">AuraEffect</a> const *eff)</td></tr>
+<tr class="separator:a3b6b9c02778e0b5a6be0f8feddbb21a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6344b91798c84a8462da40cc87a26852"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d91/a11999.html">CastSpellExtraArgs</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d91/a11999.html#a6344b91798c84a8462da40cc87a26852">SetOriginalCaster</a> (<a class="el" href="../../d8/d0c/a08895.html">ObjectGuid</a> const &amp;guid)</td></tr>
+<tr class="separator:a6344b91798c84a8462da40cc87a26852"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8678546c5b7f2e9df5f6bdab8ecaa3d5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d91/a11999.html">CastSpellExtraArgs</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d91/a11999.html#a8678546c5b7f2e9df5f6bdab8ecaa3d5">AddSpellMod</a> (<a class="el" href="../../d1/dde/a01496.html#a4ad87b8c967acbbcb154a32bc123371b">SpellValueMod</a> mod, <a class="el" href="../../de/d69/a04679.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> val)</td></tr>
+<tr class="separator:a8678546c5b7f2e9df5f6bdab8ecaa3d5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6a2107d1c9ab21b51e810a32a5c6f165"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d91/a11999.html">CastSpellExtraArgs</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d91/a11999.html#a6a2107d1c9ab21b51e810a32a5c6f165">AddSpellBP0</a> (<a class="el" href="../../de/d69/a04679.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> val)</td></tr>
+<tr class="separator:a6a2107d1c9ab21b51e810a32a5c6f165"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a8bcbe05ff6a3220f9f05f52b16925f5d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/ddd/a00380.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d91/a11999.html#a8bcbe05ff6a3220f9f05f52b16925f5d">skill</a></td></tr>
-<tr class="separator:a8bcbe05ff6a3220f9f05f52b16925f5d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1c882f7d43c65954cb99566225660312"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/ddd/a00380.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d91/a11999.html#a1c882f7d43c65954cb99566225660312">step</a></td></tr>
-<tr class="separator:a1c882f7d43c65954cb99566225660312"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a064fece53cdaf07b072510b14200a968"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/ddd/a00380.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d91/a11999.html#a064fece53cdaf07b072510b14200a968">value</a></td></tr>
-<tr class="separator:a064fece53cdaf07b072510b14200a968"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1dd2289b0d3505cb50e8613595ad8c8e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/ddd/a00380.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d91/a11999.html#a1dd2289b0d3505cb50e8613595ad8c8e">maxvalue</a></td></tr>
-<tr class="separator:a1dd2289b0d3505cb50e8613595ad8c8e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2f222ea6cb2fd04134c5e6200e6f8d4c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dde/a01496.html#a9f3c49d8db7e142b86eba36bc8951967">TriggerCastFlags</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d91/a11999.html#a2f222ea6cb2fd04134c5e6200e6f8d4c">TriggerFlags</a> = <a class="el" href="../../d1/dde/a01496.html#a9f3c49d8db7e142b86eba36bc8951967ad2e82d2342b545f831dfe79d922a3b20">TRIGGERED_NONE</a></td></tr>
+<tr class="separator:a2f222ea6cb2fd04134c5e6200e6f8d4c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9908c55d024699d2c6caa3af941c6ade"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/d39/a08803.html">Item</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d91/a11999.html#a9908c55d024699d2c6caa3af941c6ade">CastItem</a> = nullptr</td></tr>
+<tr class="separator:a9908c55d024699d2c6caa3af941c6ade"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa7fbeb6c0f2d4062874214c9844f9fc3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d67/a11895.html">AuraEffect</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d91/a11999.html#aa7fbeb6c0f2d4062874214c9844f9fc3">TriggeringAura</a> = nullptr</td></tr>
+<tr class="separator:aa7fbeb6c0f2d4062874214c9844f9fc3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8d0b1a195529e936707382b6137a7236"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d0c/a08895.html">ObjectGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d91/a11999.html#a8d0b1a195529e936707382b6137a7236">OriginalCaster</a> = <a class="el" href="../../d8/d0c/a08895.html#a14039d3f3df79203693f713495503165">ObjectGuid::Empty</a></td></tr>
+<tr class="separator:a8d0b1a195529e936707382b6137a7236"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a08601ff6f3454775b3502c0f872a5287"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/d50/a11987.html">CustomSpellValues</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d91/a11999.html#a08601ff6f3454775b3502c0f872a5287">SpellValueOverrides</a></td></tr>
+<tr class="separator:a08601ff6f3454775b3502c0f872a5287"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Data Documentation</h2>
-<a id="a1dd2289b0d3505cb50e8613595ad8c8e" name="a1dd2289b0d3505cb50e8613595ad8c8e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1dd2289b0d3505cb50e8613595ad8c8e">&#9670;&#160;</a></span>maxvalue</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="acc0d26e24a5bc6a319d93595479ad5a7" name="acc0d26e24a5bc6a319d93595479ad5a7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acc0d26e24a5bc6a319d93595479ad5a7">&#9670;&#160;</a></span>CastSpellExtraArgs() <span class="overload">[1/8]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">CastSpellExtraArgs::CastSpellExtraArgs </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">default</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aa04558f6c057199be6e2a29757415a33" name="aa04558f6c057199be6e2a29757415a33"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa04558f6c057199be6e2a29757415a33">&#9670;&#160;</a></span>CastSpellExtraArgs() <span class="overload">[2/8]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">CastSpellExtraArgs::CastSpellExtraArgs </td>
+          <td>(</td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>triggered</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  222</span>        : <a class="code hl_variable" href="../../d3/d91/a11999.html#a2f222ea6cb2fd04134c5e6200e6f8d4c">TriggerFlags</a>(triggered ? <a class="code hl_enumvalue" href="../../d1/dde/a01496.html#a9f3c49d8db7e142b86eba36bc8951967a10578b171eb74dc9851866cc6eb53f3a">TRIGGERED_FULL_MASK</a> : <a class="code hl_enumvalue" href="../../d1/dde/a01496.html#a9f3c49d8db7e142b86eba36bc8951967ad2e82d2342b545f831dfe79d922a3b20">TRIGGERED_NONE</a>) {}</div>
+<div class="ttc" id="aa01496_html_a9f3c49d8db7e142b86eba36bc8951967a10578b171eb74dc9851866cc6eb53f3a"><div class="ttname"><a href="../../d1/dde/a01496.html#a9f3c49d8db7e142b86eba36bc8951967a10578b171eb74dc9851866cc6eb53f3a">TRIGGERED_FULL_MASK</a></div><div class="ttdeci">@ TRIGGERED_FULL_MASK</div><div class="ttdoc">Will return SPELL_FAILED_DONT_REPORT in CheckCast functions.</div><div class="ttdef"><b>Definition:</b> SpellDefines.h:158</div></div>
+<div class="ttc" id="aa01496_html_a9f3c49d8db7e142b86eba36bc8951967ad2e82d2342b545f831dfe79d922a3b20"><div class="ttname"><a href="../../d1/dde/a01496.html#a9f3c49d8db7e142b86eba36bc8951967ad2e82d2342b545f831dfe79d922a3b20">TRIGGERED_NONE</a></div><div class="ttdeci">@ TRIGGERED_NONE</div><div class="ttdef"><b>Definition:</b> SpellDefines.h:141</div></div>
+<div class="ttc" id="aa11999_html_a2f222ea6cb2fd04134c5e6200e6f8d4c"><div class="ttname"><a href="../../d3/d91/a11999.html#a2f222ea6cb2fd04134c5e6200e6f8d4c">CastSpellExtraArgs::TriggerFlags</a></div><div class="ttdeci">TriggerCastFlags TriggerFlags</div><div class="ttdef"><b>Definition:</b> SpellDefines.h:244</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a4a17c18662901b27dac8f8d13ee9135c" name="a4a17c18662901b27dac8f8d13ee9135c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4a17c18662901b27dac8f8d13ee9135c">&#9670;&#160;</a></span>CastSpellExtraArgs() <span class="overload">[3/8]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">CastSpellExtraArgs::CastSpellExtraArgs </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d1/dde/a01496.html#a9f3c49d8db7e142b86eba36bc8951967">TriggerCastFlags</a>&#160;</td>
+          <td class="paramname"><em>trigger</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  223</span>: <a class="code hl_variable" href="../../d3/d91/a11999.html#a2f222ea6cb2fd04134c5e6200e6f8d4c">TriggerFlags</a>(trigger) {}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a51557cea86937c12a0b17348cba2ced8" name="a51557cea86937c12a0b17348cba2ced8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a51557cea86937c12a0b17348cba2ced8">&#9670;&#160;</a></span>CastSpellExtraArgs() <span class="overload">[4/8]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">CastSpellExtraArgs::CastSpellExtraArgs </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d1/d39/a08803.html">Item</a> *&#160;</td>
+          <td class="paramname"><em>item</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  225</span>        : <a class="code hl_variable" href="../../d3/d91/a11999.html#a2f222ea6cb2fd04134c5e6200e6f8d4c">TriggerFlags</a>(<a class="code hl_enumvalue" href="../../d1/dde/a01496.html#a9f3c49d8db7e142b86eba36bc8951967a10578b171eb74dc9851866cc6eb53f3a">TRIGGERED_FULL_MASK</a>), <a class="code hl_variable" href="../../d3/d91/a11999.html#a9908c55d024699d2c6caa3af941c6ade">CastItem</a>(item) {}</div>
+<div class="ttc" id="aa11999_html_a9908c55d024699d2c6caa3af941c6ade"><div class="ttname"><a href="../../d3/d91/a11999.html#a9908c55d024699d2c6caa3af941c6ade">CastSpellExtraArgs::CastItem</a></div><div class="ttdeci">Item * CastItem</div><div class="ttdef"><b>Definition:</b> SpellDefines.h:245</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a357b88e94fc54c52c677f248d5d679ed" name="a357b88e94fc54c52c677f248d5d679ed"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a357b88e94fc54c52c677f248d5d679ed">&#9670;&#160;</a></span>CastSpellExtraArgs() <span class="overload">[5/8]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">CastSpellExtraArgs::CastSpellExtraArgs </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../de/d67/a11895.html">AuraEffect</a> const *&#160;</td>
+          <td class="paramname"><em>eff</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  227</span>        : <a class="code hl_variable" href="../../d3/d91/a11999.html#a2f222ea6cb2fd04134c5e6200e6f8d4c">TriggerFlags</a>(<a class="code hl_enumvalue" href="../../d1/dde/a01496.html#a9f3c49d8db7e142b86eba36bc8951967a10578b171eb74dc9851866cc6eb53f3a">TRIGGERED_FULL_MASK</a>), <a class="code hl_variable" href="../../d3/d91/a11999.html#aa7fbeb6c0f2d4062874214c9844f9fc3">TriggeringAura</a>(eff) {}</div>
+<div class="ttc" id="aa11999_html_aa7fbeb6c0f2d4062874214c9844f9fc3"><div class="ttname"><a href="../../d3/d91/a11999.html#aa7fbeb6c0f2d4062874214c9844f9fc3">CastSpellExtraArgs::TriggeringAura</a></div><div class="ttdeci">AuraEffect const  * TriggeringAura</div><div class="ttdef"><b>Definition:</b> SpellDefines.h:246</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a7f5e5133a161e38b890b4c3987656ccf" name="a7f5e5133a161e38b890b4c3987656ccf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7f5e5133a161e38b890b4c3987656ccf">&#9670;&#160;</a></span>CastSpellExtraArgs() <span class="overload">[6/8]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">CastSpellExtraArgs::CastSpellExtraArgs </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/d0c/a08895.html">ObjectGuid</a> const &amp;&#160;</td>
+          <td class="paramname"><em>origCaster</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  229</span>        : <a class="code hl_variable" href="../../d3/d91/a11999.html#a2f222ea6cb2fd04134c5e6200e6f8d4c">TriggerFlags</a>(<a class="code hl_enumvalue" href="../../d1/dde/a01496.html#a9f3c49d8db7e142b86eba36bc8951967a10578b171eb74dc9851866cc6eb53f3a">TRIGGERED_FULL_MASK</a>), <a class="code hl_variable" href="../../d3/d91/a11999.html#a8d0b1a195529e936707382b6137a7236">OriginalCaster</a>(origCaster) {}</div>
+<div class="ttc" id="aa11999_html_a8d0b1a195529e936707382b6137a7236"><div class="ttname"><a href="../../d3/d91/a11999.html#a8d0b1a195529e936707382b6137a7236">CastSpellExtraArgs::OriginalCaster</a></div><div class="ttdeci">ObjectGuid OriginalCaster</div><div class="ttdef"><b>Definition:</b> SpellDefines.h:247</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a8a88c84c5e59e6e2321a47d0d19f3e4b" name="a8a88c84c5e59e6e2321a47d0d19f3e4b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8a88c84c5e59e6e2321a47d0d19f3e4b">&#9670;&#160;</a></span>CastSpellExtraArgs() <span class="overload">[7/8]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">CastSpellExtraArgs::CastSpellExtraArgs </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../de/d67/a11895.html">AuraEffect</a> const *&#160;</td>
+          <td class="paramname"><em>eff</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d8/d0c/a08895.html">ObjectGuid</a> const &amp;&#160;</td>
+          <td class="paramname"><em>origCaster</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  231</span>        : <a class="code hl_variable" href="../../d3/d91/a11999.html#a2f222ea6cb2fd04134c5e6200e6f8d4c">TriggerFlags</a>(<a class="code hl_enumvalue" href="../../d1/dde/a01496.html#a9f3c49d8db7e142b86eba36bc8951967a10578b171eb74dc9851866cc6eb53f3a">TRIGGERED_FULL_MASK</a>), <a class="code hl_variable" href="../../d3/d91/a11999.html#aa7fbeb6c0f2d4062874214c9844f9fc3">TriggeringAura</a>(eff), <a class="code hl_variable" href="../../d3/d91/a11999.html#a8d0b1a195529e936707382b6137a7236">OriginalCaster</a>(origCaster) {}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="ab3f36c827883d9d3fee7855d2ba7cdba" name="ab3f36c827883d9d3fee7855d2ba7cdba"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab3f36c827883d9d3fee7855d2ba7cdba">&#9670;&#160;</a></span>CastSpellExtraArgs() <span class="overload">[8/8]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">CastSpellExtraArgs::CastSpellExtraArgs </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d1/dde/a01496.html#a4ad87b8c967acbbcb154a32bc123371b">SpellValueMod</a>&#160;</td>
+          <td class="paramname"><em>mod</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../de/d69/a04679.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td>
+          <td class="paramname"><em>val</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  233</span>    {</div>
+<div class="line"><span class="lineno">  234</span>        <a class="code hl_variable" href="../../d3/d91/a11999.html#a08601ff6f3454775b3502c0f872a5287">SpellValueOverrides</a>.<a class="code hl_function" href="../../d5/d50/a11987.html#a1c14e27dd094be2fccff3d74a1414a80">AddSpellMod</a>(mod, val);</div>
+<div class="line"><span class="lineno">  235</span>    }</div>
+<div class="ttc" id="aa11987_html_a1c14e27dd094be2fccff3d74a1414a80"><div class="ttname"><a href="../../d5/d50/a11987.html#a1c14e27dd094be2fccff3d74a1414a80">CustomSpellValues::AddSpellMod</a></div><div class="ttdeci">void AddSpellMod(SpellValueMod mod, int32 value)</div><div class="ttdef"><b>Definition:</b> SpellDefines.h:175</div></div>
+<div class="ttc" id="aa11999_html_a08601ff6f3454775b3502c0f872a5287"><div class="ttname"><a href="../../d3/d91/a11999.html#a08601ff6f3454775b3502c0f872a5287">CastSpellExtraArgs::SpellValueOverrides</a></div><div class="ttdeci">CustomSpellValues SpellValueOverrides</div><div class="ttdef"><b>Definition:</b> SpellDefines.h:248</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a6a2107d1c9ab21b51e810a32a5c6f165" name="a6a2107d1c9ab21b51e810a32a5c6f165"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6a2107d1c9ab21b51e810a32a5c6f165">&#9670;&#160;</a></span>AddSpellBP0()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d3/d91/a11999.html">CastSpellExtraArgs</a> &amp; CastSpellExtraArgs::AddSpellBP0 </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../de/d69/a04679.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td>
+          <td class="paramname"><em>val</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  242</span>{ <span class="keywordflow">return</span> <a class="code hl_function" href="../../d3/d91/a11999.html#a8678546c5b7f2e9df5f6bdab8ecaa3d5">AddSpellMod</a>(<a class="code hl_enumvalue" href="../../d1/dde/a01496.html#a4ad87b8c967acbbcb154a32bc123371bae5c19f392b2ebda372a39538fa9b592a">SPELLVALUE_BASE_POINT0</a>, val); }</div>
+<div class="ttc" id="aa01496_html_a4ad87b8c967acbbcb154a32bc123371bae5c19f392b2ebda372a39538fa9b592a"><div class="ttname"><a href="../../d1/dde/a01496.html#a4ad87b8c967acbbcb154a32bc123371bae5c19f392b2ebda372a39538fa9b592a">SPELLVALUE_BASE_POINT0</a></div><div class="ttdeci">@ SPELLVALUE_BASE_POINT0</div><div class="ttdef"><b>Definition:</b> SpellDefines.h:121</div></div>
+<div class="ttc" id="aa11999_html_a8678546c5b7f2e9df5f6bdab8ecaa3d5"><div class="ttname"><a href="../../d3/d91/a11999.html#a8678546c5b7f2e9df5f6bdab8ecaa3d5">CastSpellExtraArgs::AddSpellMod</a></div><div class="ttdeci">CastSpellExtraArgs &amp; AddSpellMod(SpellValueMod mod, int32 val)</div><div class="ttdef"><b>Definition:</b> SpellDefines.h:241</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00121">SPELLVALUE_BASE_POINT0</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00064">TEST()</a>.</p>
+
+</div>
+</div>
+<a id="a8678546c5b7f2e9df5f6bdab8ecaa3d5" name="a8678546c5b7f2e9df5f6bdab8ecaa3d5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8678546c5b7f2e9df5f6bdab8ecaa3d5">&#9670;&#160;</a></span>AddSpellMod()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d3/d91/a11999.html">CastSpellExtraArgs</a> &amp; CastSpellExtraArgs::AddSpellMod </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d1/dde/a01496.html#a4ad87b8c967acbbcb154a32bc123371b">SpellValueMod</a>&#160;</td>
+          <td class="paramname"><em>mod</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../de/d69/a04679.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td>
+          <td class="paramname"><em>val</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  241</span>{ <a class="code hl_variable" href="../../d3/d91/a11999.html#a08601ff6f3454775b3502c0f872a5287">SpellValueOverrides</a>.<a class="code hl_function" href="../../d5/d50/a11987.html#a1c14e27dd094be2fccff3d74a1414a80">AddSpellMod</a>(mod, val); <span class="keywordflow">return</span> *<span class="keyword">this</span>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00241">AddSpellMod()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00241">AddSpellMod()</a>, <a class="el" href="../../#l01056">Spell::EffectForceCast()</a>, <a class="el" href="../../#l00997">Spell::EffectTriggerMissileSpell()</a>, <a class="el" href="../../#l00821">Spell::EffectTriggerSpell()</a>, and <a class="el" href="../../#l00064">TEST()</a>.</p>
+
+</div>
+</div>
+<a id="ab17825377e5a0e07b99d72fbec4e2a27" name="ab17825377e5a0e07b99d72fbec4e2a27"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab17825377e5a0e07b99d72fbec4e2a27">&#9670;&#160;</a></span>SetCastItem()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d3/d91/a11999.html">CastSpellExtraArgs</a> &amp; CastSpellExtraArgs::SetCastItem </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d1/d39/a08803.html">Item</a> *&#160;</td>
+          <td class="paramname"><em>item</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  238</span>{ <a class="code hl_variable" href="../../d3/d91/a11999.html#a9908c55d024699d2c6caa3af941c6ade">CastItem</a> = item; <span class="keywordflow">return</span> *<span class="keyword">this</span>; }</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a6344b91798c84a8462da40cc87a26852" name="a6344b91798c84a8462da40cc87a26852"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6344b91798c84a8462da40cc87a26852">&#9670;&#160;</a></span>SetOriginalCaster()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d3/d91/a11999.html">CastSpellExtraArgs</a> &amp; CastSpellExtraArgs::SetOriginalCaster </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/d0c/a08895.html">ObjectGuid</a> const &amp;&#160;</td>
+          <td class="paramname"><em>guid</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  240</span>{ <a class="code hl_variable" href="../../d3/d91/a11999.html#a8d0b1a195529e936707382b6137a7236">OriginalCaster</a> = guid; <span class="keywordflow">return</span> *<span class="keyword">this</span>; }</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00064">TEST()</a>.</p>
+
+</div>
+</div>
+<a id="a69a2dd620aa1df727931451ea0db48ac" name="a69a2dd620aa1df727931451ea0db48ac"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a69a2dd620aa1df727931451ea0db48ac">&#9670;&#160;</a></span>SetTriggerFlags()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d3/d91/a11999.html">CastSpellExtraArgs</a> &amp; CastSpellExtraArgs::SetTriggerFlags </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d1/dde/a01496.html#a9f3c49d8db7e142b86eba36bc8951967">TriggerCastFlags</a>&#160;</td>
+          <td class="paramname"><em>flag</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  237</span>{ <a class="code hl_variable" href="../../d3/d91/a11999.html#a2f222ea6cb2fd04134c5e6200e6f8d4c">TriggerFlags</a> = flag; <span class="keywordflow">return</span> *<span class="keyword">this</span>; }</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00821">Spell::EffectTriggerSpell()</a>, and <a class="el" href="../../#l00064">TEST()</a>.</p>
+
+</div>
+</div>
+<a id="a3b6b9c02778e0b5a6be0f8feddbb21a9" name="a3b6b9c02778e0b5a6be0f8feddbb21a9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3b6b9c02778e0b5a6be0f8feddbb21a9">&#9670;&#160;</a></span>SetTriggeringAura()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d3/d91/a11999.html">CastSpellExtraArgs</a> &amp; CastSpellExtraArgs::SetTriggeringAura </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../de/d67/a11895.html">AuraEffect</a> const *&#160;</td>
+          <td class="paramname"><em>eff</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  239</span>{ <a class="code hl_variable" href="../../d3/d91/a11999.html#aa7fbeb6c0f2d4062874214c9844f9fc3">TriggeringAura</a> = eff; <span class="keywordflow">return</span> *<span class="keyword">this</span>; }</div>
+</div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="a9908c55d024699d2c6caa3af941c6ade" name="a9908c55d024699d2c6caa3af941c6ade"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9908c55d024699d2c6caa3af941c6ade">&#9670;&#160;</a></span>CastItem</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> SpellLearnSkillNode::maxvalue</td>
+          <td class="memname"><a class="el" href="../../d1/d39/a08803.html">Item</a>* CastSpellExtraArgs::CastItem = nullptr</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l03234">Player::_addSpell()</a>, <a class="el" href="../../#l01455">SpellMgr::LoadSpellLearnSkills()</a>, and <a class="el" href="../../#l03494">Player::removeSpell()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l03284">WorldObject::CastSpell()</a>, and <a class="el" href="../../#l00032">TEST()</a>.</p>
 
 </div>
 </div>
-<a id="a8bcbe05ff6a3220f9f05f52b16925f5d" name="a8bcbe05ff6a3220f9f05f52b16925f5d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8bcbe05ff6a3220f9f05f52b16925f5d">&#9670;&#160;</a></span>skill</h2>
+<a id="a8d0b1a195529e936707382b6137a7236" name="a8d0b1a195529e936707382b6137a7236"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8d0b1a195529e936707382b6137a7236">&#9670;&#160;</a></span>OriginalCaster</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> SpellLearnSkillNode::skill</td>
+          <td class="memname"><a class="el" href="../../d8/d0c/a08895.html">ObjectGuid</a> CastSpellExtraArgs::OriginalCaster = <a class="el" href="../../d8/d0c/a08895.html#a14039d3f3df79203693f713495503165">ObjectGuid::Empty</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l03234">Player::_addSpell()</a>, <a class="el" href="../../#l01455">SpellMgr::LoadSpellLearnSkills()</a>, and <a class="el" href="../../#l03494">Player::removeSpell()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l03284">WorldObject::CastSpell()</a>, and <a class="el" href="../../#l00032">TEST()</a>.</p>
 
 </div>
 </div>
-<a id="a1c882f7d43c65954cb99566225660312" name="a1c882f7d43c65954cb99566225660312"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1c882f7d43c65954cb99566225660312">&#9670;&#160;</a></span>step</h2>
+<a id="a08601ff6f3454775b3502c0f872a5287" name="a08601ff6f3454775b3502c0f872a5287"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a08601ff6f3454775b3502c0f872a5287">&#9670;&#160;</a></span>SpellValueOverrides</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> SpellLearnSkillNode::step</td>
+          <td class="memname"><a class="el" href="../../d5/d50/a11987.html">CustomSpellValues</a> CastSpellExtraArgs::SpellValueOverrides</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l03234">Player::_addSpell()</a>, <a class="el" href="../../#l01455">SpellMgr::LoadSpellLearnSkills()</a>, and <a class="el" href="../../#l03494">Player::removeSpell()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l03284">WorldObject::CastSpell()</a>, and <a class="el" href="../../#l00064">TEST()</a>.</p>
 
 </div>
 </div>
-<a id="a064fece53cdaf07b072510b14200a968" name="a064fece53cdaf07b072510b14200a968"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a064fece53cdaf07b072510b14200a968">&#9670;&#160;</a></span>value</h2>
+<a id="a2f222ea6cb2fd04134c5e6200e6f8d4c" name="a2f222ea6cb2fd04134c5e6200e6f8d4c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2f222ea6cb2fd04134c5e6200e6f8d4c">&#9670;&#160;</a></span>TriggerFlags</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> SpellLearnSkillNode::value</td>
+          <td class="memname"><a class="el" href="../../d1/dde/a01496.html#a9f3c49d8db7e142b86eba36bc8951967">TriggerCastFlags</a> CastSpellExtraArgs::TriggerFlags = <a class="el" href="../../d1/dde/a01496.html#a9f3c49d8db7e142b86eba36bc8951967ad2e82d2342b545f831dfe79d922a3b20">TRIGGERED_NONE</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l03234">Player::_addSpell()</a>, <a class="el" href="../../#l01455">SpellMgr::LoadSpellLearnSkills()</a>, and <a class="el" href="../../#l03494">Player::removeSpell()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l03284">WorldObject::CastSpell()</a>, and <a class="el" href="../../#l00032">TEST()</a>.</p>
+
+</div>
+</div>
+<a id="aa7fbeb6c0f2d4062874214c9844f9fc3" name="aa7fbeb6c0f2d4062874214c9844f9fc3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa7fbeb6c0f2d4062874214c9844f9fc3">&#9670;&#160;</a></span>TriggeringAura</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../de/d67/a11895.html">AuraEffect</a> const* CastSpellExtraArgs::TriggeringAura = nullptr</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03284">WorldObject::CastSpell()</a>, and <a class="el" href="../../#l00032">TEST()</a>.</p>
 
 </div>
 </div>
@@ -195,8 +677,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d3/d91/a11999.html">SpellLearnSkillNode</a></li>
-    <li class="footer">Generated on Tue Sep 1 2026 00:10:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d3/d91/a11999.html">CastSpellExtraArgs</a></li>
+    <li class="footer">Generated on Mon Sep 21 2026 23:33:45 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

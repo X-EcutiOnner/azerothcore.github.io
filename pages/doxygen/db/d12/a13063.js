@@ -1,7 +1,5 @@
 var a13063 =
 [
-    [ "HandleDummy", "db/d12/a13063.html#acbf0fa3d73de0cec47928fc0dda0c724", null ],
-    [ "PrepareSpellScript", "db/d12/a13063.html#a76d395449ed9fb26914aa9ff0488f1be", null ],
-    [ "Register", "db/d12/a13063.html#a7d094ce258e3dc28cc30d5fb644d5a1e", null ],
-    [ "Validate", "db/d12/a13063.html#a24447c4367d8e8713ba7d05ea53681ee", null ]
+    [ "go_orb_of_domination", "db/d12/a13063.html#ad1378efcf7a54adac256a44bbdfe4357", null ],
+    [ "GossipHello", "db/d12/a13063.html#a95628cbeeb6b2af6a79546ff3661815e", null ]
 ];

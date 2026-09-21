@@ -1,8 +1,8 @@
 var a13103 =
 [
-    [ "FilterTargets", "d8/d77/a13103.html#ac47cfe2bf2782202ac69ea7a91290c2f", null ],
-    [ "HandleScript", "d8/d77/a13103.html#a47dcb727b8e467044602b2a3d54ec1de", null ],
-    [ "PrepareSpellScript", "d8/d77/a13103.html#a2319460465cefa69b1b81ce50b1d7b85", null ],
-    [ "Register", "d8/d77/a13103.html#a72b3bbddf931fee1a12700c867b47f3d", null ],
-    [ "Validate", "d8/d77/a13103.html#a66d0a1ab1a3dae5242a7396a750e73ad", null ]
+    [ "boss_garr", "d8/d77/a13103.html#a12ac023b48fc20055cec9e7e8dbfa8a7", null ],
+    [ "JustEngagedWith", "d8/d77/a13103.html#abab82d2e00b373ea1f0e444de23f4987", null ],
+    [ "Reset", "d8/d77/a13103.html#a64bcae059cfa97def7e52a42d404a016", null ],
+    [ "UpdateAI", "d8/d77/a13103.html#a2a412224072b47de6780ea7b8d543743", null ],
+    [ "massEruptionTimer", "d8/d77/a13103.html#a6c428a4c92e4dcbe2fc2b97b5f377560", null ]
 ];

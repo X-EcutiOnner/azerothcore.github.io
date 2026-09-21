@@ -1,9 +1,7 @@
 var a21171 =
 [
-    [ "npc_ulduar_keeperAI", "d1/d63/a21171.html#ac69d21f3820f2c01a80ff664c317d111", null ],
-    [ "DoAction", "d1/d63/a21171.html#a03011d04761926d67e43c0bea5a0901f", null ],
-    [ "Reset", "d1/d63/a21171.html#a86971339e6fcbffb3c019e4dc29972b3", null ],
-    [ "SpellHit", "d1/d63/a21171.html#a18f22ca155646a6f40e0627f9d6dc337", null ],
-    [ "UpdateAI", "d1/d63/a21171.html#a9af455266dd2a843ac1a2c4e56d50e78", null ],
-    [ "_keeper", "d1/d63/a21171.html#ad8cd47f6c75042d589fc6fae4603c9f2", null ]
+    [ "OnPeriodic", "d1/d63/a21171.html#a529e89c1ae0074370da174defc086719", null ],
+    [ "PrepareAuraScript", "d1/d63/a21171.html#a587652095a5dfae229787a0c0ceacfbe", null ],
+    [ "Register", "d1/d63/a21171.html#acd5551b09882d720608bdec6036dee9a", null ],
+    [ "Validate", "d1/d63/a21171.html#aaed6604e39dd977f4e7c671052d718e8", null ]
 ];

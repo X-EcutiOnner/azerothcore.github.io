@@ -1,9 +1,7 @@
 var a13871 =
 [
-    [ "npc_dark_fiend", "d5/d48/a13871.html#a8c4ebf7ba2f991df7053d40108330609", null ],
-    [ "DamageTaken", "d5/d48/a13871.html#a39daa01688ec4ddadf9f1d185faa3f48", null ],
-    [ "Reset", "d5/d48/a13871.html#a5622d14f84ad8e47da773852f1778d56", null ],
-    [ "UpdateAI", "d5/d48/a13871.html#ab4a7cbc09f4b830039cf4c6f59b2b30e", null ],
-    [ "_lastVictimGUID", "d5/d48/a13871.html#abcccb35701f21d417e3c13709cc24281", null ],
-    [ "_spellCast", "d5/d48/a13871.html#a4cde5fbbeedfc7ed2907a2b797f6aafa", null ]
+    [ "OnRemove", "d5/d48/a13871.html#a2438d8c85ff2a446572286b0d058ecf1", null ],
+    [ "PrepareAuraScript", "d5/d48/a13871.html#ade353aafb960cabdb615718f41f485e8", null ],
+    [ "Register", "d5/d48/a13871.html#af1c312778a13f7fe8d174247f69258ac", null ],
+    [ "Validate", "d5/d48/a13871.html#afd75cdeb9430833fa6a59d7913c86a97", null ]
 ];

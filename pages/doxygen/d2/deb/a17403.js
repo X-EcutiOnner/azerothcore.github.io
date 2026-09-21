@@ -1,5 +1,7 @@
 var a17403 =
 [
-    [ "at_hor_battered_hilt_throw", "d2/deb/a17403.html#a857812bd67ee2e62c5e450fae591cd9d", null ],
-    [ "OnTrigger", "d2/deb/a17403.html#a30c72b4dc7e48fc87374cbfc2cdf0f50", null ]
+    [ "OnRemove", "d2/deb/a17403.html#a4b95717cb19116b81f3eec798089abad", null ],
+    [ "PrepareAuraScript", "d2/deb/a17403.html#a581645fa151531aaf7b562a8739d5616", null ],
+    [ "Register", "d2/deb/a17403.html#a01304c556d79001e290707551bee7622", null ],
+    [ "Validate", "d2/deb/a17403.html#a96e4b9cae1f016bf87c9a09ceb6da561", null ]
 ];

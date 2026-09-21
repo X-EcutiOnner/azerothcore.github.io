@@ -1,9 +1,6 @@
 var a23795 =
 [
-    [ "boss_dalliah_the_doomsayer", "d0/d60/a23795.html#ad6edf9623942297b28bc7420ec0cc733", null ],
-    [ "InitializeAI", "d0/d60/a23795.html#a85342ef80a64ce05f87cf7d90a8bfe79", null ],
-    [ "JustDied", "d0/d60/a23795.html#a431edc9c25fb125d7d267073eb1c1423", null ],
-    [ "JustEngagedWith", "d0/d60/a23795.html#a6d3d8d027ddb08417dd11f1606a1418f", null ],
-    [ "KilledUnit", "d0/d60/a23795.html#af28bfc1166ad45bf7bc046f5906a8b11", null ],
-    [ "Reset", "d0/d60/a23795.html#a5b4f186225a55afdf1de80b7126d10eb", null ]
+    [ "instance_magtheridons_lair_InstanceMapScript", "de/d30/a23799.html", "de/d30/a23799" ],
+    [ "instance_magtheridons_lair", "d0/d60/a23795.html#a9bc61758478dc18ba413264eec2e3ca3", null ],
+    [ "GetInstanceScript", "d0/d60/a23795.html#a6c9cc959cf4f294e6173d244f54bcd02", null ]
 ];

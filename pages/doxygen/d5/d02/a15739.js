@@ -1,7 +1,6 @@
 var a15739 =
 [
-    [ "boss_glob_of_viscidus", "d5/d02/a15739.html#a1ba72393766110382dc4ce4122dfd1ee", null ],
-    [ "InitializeAI", "d5/d02/a15739.html#a0247055fc4f3a60c880ffb78e96edcb9", null ],
-    [ "MovementInform", "d5/d02/a15739.html#abe0cd95930fe52fdb5a40c704d092b90", null ],
-    [ "UpdateAI", "d5/d02/a15739.html#a2e8e38ccdf4ab5e32bd750d73daf1605", null ]
+    [ "OnPeriodic", "d5/d02/a15739.html#a08dce8b98afadc134166a615b4496151", null ],
+    [ "PrepareAuraScript", "d5/d02/a15739.html#a9ebb34665b176e4e60f085da65183d8e", null ],
+    [ "Register", "d5/d02/a15739.html#a6a04dbb7c66324e701a8db0ee0334123", null ]
 ];

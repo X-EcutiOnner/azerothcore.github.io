@@ -1,9 +1,10 @@
 var a20679 =
 [
-    [ "OnApply", "d4/d29/a20679.html#aaf6e89fc5d101b1622666a6fe15f20e7", null ],
-    [ "OnRemove", "d4/d29/a20679.html#a9bfdefb3e212cca086dec752687e2b93", null ],
-    [ "OnRemoveSelf", "d4/d29/a20679.html#a3076446d6761263fdb7f973f01be3cf2", null ],
-    [ "PrepareAuraScript", "d4/d29/a20679.html#a685d6c0ffcc258f9d6857242cb28f6a8", null ],
-    [ "Register", "d4/d29/a20679.html#a1369972dfbf969cb39efa88075fc13df", null ],
-    [ "Validate", "d4/d29/a20679.html#ada8c858f70beb71765fd0f796209677b", null ]
+    [ "boss_kologarn_eyebeam", "d4/d29/a20679.html#ae51ea98b22b3a0734347825b3a0346be", null ],
+    [ "DamageDealt", "d4/d29/a20679.html#ab5dfd2cd38ee64a2cd94d8dec28ccc0d", null ],
+    [ "IsSummonedBy", "d4/d29/a20679.html#a1640ef2ca2a58803786a6c675191676c", null ],
+    [ "UpdateAI", "d4/d29/a20679.html#a7c64f096f0c9eb4c1bb9f63a0cf907a3", null ],
+    [ "_damaged", "d4/d29/a20679.html#a62d025ceaa080f78e587ee08c6f780ef", null ],
+    [ "_instance", "d4/d29/a20679.html#a600467b5bb551022d7e0b12ce739b672", null ],
+    [ "_timer", "d4/d29/a20679.html#a0d324467d4d02d7bd204f66fcadc52ea", null ]
 ];

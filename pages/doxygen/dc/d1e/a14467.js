@@ -1,12 +1,7 @@
 var a14467 =
 [
-    [ "npc_zulian_prowlerAI", "dc/d1e/a14467.html#a367613efead335b060173011267ddcff", null ],
-    [ "JustDied", "dc/d1e/a14467.html#a31258aadddfbf6c6e9e1d729452dd8b2", null ],
-    [ "JustEngagedWith", "dc/d1e/a14467.html#a207504b15ecd22b78088593b80433581", null ],
-    [ "Reset", "dc/d1e/a14467.html#a62d14bae970d8a70a997c683e0e94259", null ],
-    [ "SpellHit", "dc/d1e/a14467.html#a4051cd786d8c1974cf80c28f907cc02a", null ],
-    [ "UpdateAI", "dc/d1e/a14467.html#a708df3a95395f99f6ba3eebcc90a22ab", null ],
-    [ "_events", "dc/d1e/a14467.html#a994ae5b4e72429141155d1342830e5ad", null ],
-    [ "_instance", "dc/d1e/a14467.html#ad37ba6b6ff7f52a88d2a96dc4ea00c34", null ],
-    [ "_sideData", "dc/d1e/a14467.html#afa44e09c5677c2fc567be6a67b766bde", null ]
+    [ "OnPeriodic", "dc/d1e/a14467.html#aa541a8bc034517d1f5d034ac51bd8dac", null ],
+    [ "PrepareAuraScript", "dc/d1e/a14467.html#abc166e4dc33e7bffd1d53c2ef8272efa", null ],
+    [ "Register", "dc/d1e/a14467.html#a60313d4ba992b1dc81e7cdae942f1b3d", null ],
+    [ "Validate", "dc/d1e/a14467.html#a7ed214de6769314a45540e9afdb82949", null ]
 ];

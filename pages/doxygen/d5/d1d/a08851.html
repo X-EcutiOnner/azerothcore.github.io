@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: ObjectPosSelector Struct Reference</title>
+<title>AzerothCore: MovementInfo Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,212 +106,121 @@ $(document).ready(function(){initNavTree('d5/d1d/a08851.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#pub-types">Public Types</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d5/d7c/a08848.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">ObjectPosSelector Struct Reference</div></div>
+  <div class="headertitle"><div class="title">MovementInfo Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">ObjectPosSelector.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">Object.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d22/a08855.html">UsedPos</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d9e/a08859.html">JumpInfo</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
-Public Types</h2></td></tr>
-<tr class="memitem:a76a3553e006171560baf7aa7cc2bc163"><td class="memItemLeft" align="right" valign="top">typedef std::multimap&lt; float, <a class="el" href="../../de/d22/a08855.html">UsedPos</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d1d/a08851.html#a76a3553e006171560baf7aa7cc2bc163">UsedPosList</a></td></tr>
-<tr class="separator:a76a3553e006171560baf7aa7cc2bc163"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d22/a08855.html">TransportInfo</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a353fa17ca519ace0ba637271e8dc1e8b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d1d/a08851.html#a353fa17ca519ace0ba637271e8dc1e8b">ObjectPosSelector</a> (float x, float y, float size, float dist)</td></tr>
-<tr class="separator:a353fa17ca519ace0ba637271e8dc1e8b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abb77ce4bf44b926a4bc1db59e7b84e36"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d1d/a08851.html#abb77ce4bf44b926a4bc1db59e7b84e36">AddUsedPos</a> (float size, float angle, float dist)</td></tr>
-<tr class="separator:abb77ce4bf44b926a4bc1db59e7b84e36"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac58836fb3671cf87b156072910b811c2"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d1d/a08851.html#ac58836fb3671cf87b156072910b811c2">InitializeAngle</a> ()</td></tr>
-<tr class="separator:ac58836fb3671cf87b156072910b811c2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a34a49751e6810835d4e4f2828d7c8b0c"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d1d/a08851.html#a34a49751e6810835d4e4f2828d7c8b0c">FirstAngle</a> (float &amp;angle)</td></tr>
-<tr class="separator:a34a49751e6810835d4e4f2828d7c8b0c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae45835290af001233a7d76e1a5be6df0"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d1d/a08851.html#ae45835290af001233a7d76e1a5be6df0">NextAngle</a> (float &amp;angle)</td></tr>
-<tr class="separator:ae45835290af001233a7d76e1a5be6df0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a779268da0c5b089c9752601543a0f856"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d1d/a08851.html#a779268da0c5b089c9752601543a0f856">NextUsedAngle</a> (float &amp;angle)</td></tr>
-<tr class="separator:a779268da0c5b089c9752601543a0f856"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3ca2304f7f268685b22db941d70fab36"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d1d/a08851.html#a3ca2304f7f268685b22db941d70fab36">NextPosibleAngle</a> (float &amp;angle)</td></tr>
-<tr class="separator:a3ca2304f7f268685b22db941d70fab36"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a678445810801988c429489ba187b28f0"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d1d/a08851.html#a678445810801988c429489ba187b28f0">CheckAngle</a> (UsedPosList::value_type const &amp;<a class="el" href="../../d5/d1d/a08851.html#a93e3a877fef90a3fa933addeb53e3e8e">nextUsedPos</a>, float sign, float angle) const</td></tr>
-<tr class="separator:a678445810801988c429489ba187b28f0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab5ea7dc197cac7156a5feaf965afe902"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d1d/a08851.html#ab5ea7dc197cac7156a5feaf965afe902">CheckOriginal</a> () const</td></tr>
-<tr class="separator:ab5ea7dc197cac7156a5feaf965afe902"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a092252be70aef7ba47a2e81d183d68ab"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d1d/a08851.html#a092252be70aef7ba47a2e81d183d68ab">IsNonBalanced</a> () const</td></tr>
-<tr class="separator:a092252be70aef7ba47a2e81d183d68ab"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1d792bc79d1646eae7651705bc0afdd5"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d1d/a08851.html#a1d792bc79d1646eae7651705bc0afdd5">NextAngleFor</a> (UsedPosList::value_type const &amp;usedPos, float sign, <a class="el" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397">UsedPosType</a> uptype, float &amp;angle)</td></tr>
-<tr class="separator:a1d792bc79d1646eae7651705bc0afdd5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a81959e17cd93eb5590dc3533ffa2217b"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d1d/a08851.html#a81959e17cd93eb5590dc3533ffa2217b">NextSmallStepAngle</a> (float sign, <a class="el" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397">UsedPosType</a> uptype, float &amp;angle)</td></tr>
-<tr class="separator:a81959e17cd93eb5590dc3533ffa2217b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a93e3a877fef90a3fa933addeb53e3e8e"><td class="memItemLeft" align="right" valign="top">UsedPosList::value_type const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d1d/a08851.html#a93e3a877fef90a3fa933addeb53e3e8e">nextUsedPos</a> (<a class="el" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397">UsedPosType</a> uptype)</td></tr>
-<tr class="separator:a93e3a877fef90a3fa933addeb53e3e8e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad0fc5c7a577bd9584d7a81346ff78c14"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d1d/a08851.html#ad0fc5c7a577bd9584d7a81346ff78c14">GetAngle</a> (<a class="el" href="../../de/d22/a08855.html">UsedPos</a> const &amp;usedPos) const</td></tr>
-<tr class="separator:ad0fc5c7a577bd9584d7a81346ff78c14"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a809340998de55a9ffa895f7b27e1f2c3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d1d/a08851.html#a809340998de55a9ffa895f7b27e1f2c3">MovementInfo</a> ()</td></tr>
+<tr class="separator:a809340998de55a9ffa895f7b27e1f2c3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ade08354701baa32b9ff232d6b07e6097"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d1d/a08851.html#ade08354701baa32b9ff232d6b07e6097">GetMovementFlags</a> () const</td></tr>
+<tr class="separator:ade08354701baa32b9ff232d6b07e6097"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ace324e7171c3520efdce76d2bbc75c67"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d1d/a08851.html#ace324e7171c3520efdce76d2bbc75c67">SetMovementFlags</a> (<a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> flag)</td></tr>
+<tr class="separator:ace324e7171c3520efdce76d2bbc75c67"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae02908de40bf25e5d07d3bb248448a68"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d1d/a08851.html#ae02908de40bf25e5d07d3bb248448a68">AddMovementFlag</a> (<a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> flag)</td></tr>
+<tr class="separator:ae02908de40bf25e5d07d3bb248448a68"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab38114c14a8848a082b4f265eab11c72"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d1d/a08851.html#ab38114c14a8848a082b4f265eab11c72">RemoveMovementFlag</a> (<a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> flag)</td></tr>
+<tr class="separator:ab38114c14a8848a082b4f265eab11c72"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad9571cb899d58cc60fbe2412be79116e"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d1d/a08851.html#ad9571cb899d58cc60fbe2412be79116e">HasMovementFlag</a> (<a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> flag) const</td></tr>
+<tr class="separator:ad9571cb899d58cc60fbe2412be79116e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6f0c8141058d03f214afbd779a3420ee"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/ddc/a01802.html#af91f7580a89722b7dc45a018bb46fce4">UnitMoveType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d1d/a08851.html#a6f0c8141058d03f214afbd779a3420ee">GetSpeedType</a> () const</td></tr>
+<tr class="separator:a6f0c8141058d03f214afbd779a3420ee"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7a9353ff367c80cddeaddd63fcd32ddb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d69/a04679.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d1d/a08851.html#a7a9353ff367c80cddeaddd63fcd32ddb">GetExtraMovementFlags</a> () const</td></tr>
+<tr class="separator:a7a9353ff367c80cddeaddd63fcd32ddb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aff0e449eb1567041f1a44c34e5fa85bc"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d1d/a08851.html#aff0e449eb1567041f1a44c34e5fa85bc">AddExtraMovementFlag</a> (<a class="el" href="../../de/d69/a04679.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> flag)</td></tr>
+<tr class="separator:aff0e449eb1567041f1a44c34e5fa85bc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afad84c80474a806e8abb4626ccfbcfaf"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d1d/a08851.html#afad84c80474a806e8abb4626ccfbcfaf">HasExtraMovementFlag</a> (<a class="el" href="../../de/d69/a04679.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> flag) const</td></tr>
+<tr class="separator:afad84c80474a806e8abb4626ccfbcfaf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a683565ad0865709083e81d07a8ce1395"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d1d/a08851.html#a683565ad0865709083e81d07a8ce1395">SetFallTime</a> (<a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> newFallTime)</td></tr>
+<tr class="separator:a683565ad0865709083e81d07a8ce1395"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af8c4c6db42364ec712398b317238c90b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d1d/a08851.html#af8c4c6db42364ec712398b317238c90b">OutDebug</a> ()</td></tr>
+<tr class="separator:af8c4c6db42364ec712398b317238c90b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
+Static Public Member Functions</h2></td></tr>
+<tr class="memitem:a01585307a3db62a34f7d2e243dd52265"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../dd/ddc/a01802.html#af91f7580a89722b7dc45a018bb46fce4">UnitMoveType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d1d/a08851.html#a01585307a3db62a34f7d2e243dd52265">GetSpeedType</a> (<a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> moveFlags)</td></tr>
+<tr class="separator:a01585307a3db62a34f7d2e243dd52265"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a25ec0d7656c52f0a9c4b24ea81e37771"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d1d/a08851.html#a25ec0d7656c52f0a9c4b24ea81e37771">m_center_x</a></td></tr>
-<tr class="separator:a25ec0d7656c52f0a9c4b24ea81e37771"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa0d25b2794648c6a1f6895632e8a10ea"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d1d/a08851.html#aa0d25b2794648c6a1f6895632e8a10ea">m_center_y</a></td></tr>
-<tr class="separator:aa0d25b2794648c6a1f6895632e8a10ea"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3a61d5b8187c602ba5a2213283b5139c"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d1d/a08851.html#a3a61d5b8187c602ba5a2213283b5139c">m_size</a></td></tr>
-<tr class="separator:a3a61d5b8187c602ba5a2213283b5139c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7b6cf79a4806aff044b3f6b7d9181aaf"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d1d/a08851.html#a7b6cf79a4806aff044b3f6b7d9181aaf">m_dist</a></td></tr>
-<tr class="separator:a7b6cf79a4806aff044b3f6b7d9181aaf"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad33b5ad5af8ebfd14851085b5c67cc95"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d1d/a08851.html#ad33b5ad5af8ebfd14851085b5c67cc95">m_anglestep</a></td></tr>
-<tr class="separator:ad33b5ad5af8ebfd14851085b5c67cc95"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afa4cdf73a3473398e0fa2106b6680e55"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/d1d/a08851.html#a76a3553e006171560baf7aa7cc2bc163">UsedPosList</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d1d/a08851.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a> [2]</td></tr>
-<tr class="separator:afa4cdf73a3473398e0fa2106b6680e55"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a56ff73252996b988d6d1ea384dad1de8"><td class="memItemLeft" align="right" valign="top">UsedPosList::const_iterator&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d1d/a08851.html#a56ff73252996b988d6d1ea384dad1de8">m_nextUsedPos</a> [2]</td></tr>
-<tr class="separator:a56ff73252996b988d6d1ea384dad1de8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a39bfdb4e3b3e3e3d902387c548bf81ff"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d1d/a08851.html#a39bfdb4e3b3e3e3d902387c548bf81ff">m_smallStepAngle</a> [2]</td></tr>
-<tr class="separator:a39bfdb4e3b3e3e3d902387c548bf81ff"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7f798861b78a0b54ad121e6acb5e442c"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d1d/a08851.html#a7f798861b78a0b54ad121e6acb5e442c">m_smallStepOk</a> [2]</td></tr>
-<tr class="separator:a7f798861b78a0b54ad121e6acb5e442c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa98dfa81684059fe8f96f64d228e8d6b"><td class="memItemLeft" align="right" valign="top">UsedPosList::value_type const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d1d/a08851.html#aa98dfa81684059fe8f96f64d228e8d6b">m_smallStepNextUsedPos</a> [2]</td></tr>
-<tr class="separator:aa98dfa81684059fe8f96f64d228e8d6b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a10c1c9721558fd98d33bb43b3bfff837"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d0c/a08895.html">ObjectGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d1d/a08851.html#a10c1c9721558fd98d33bb43b3bfff837">guid</a></td></tr>
+<tr class="separator:a10c1c9721558fd98d33bb43b3bfff837"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab64213c21ac3cdfd769a5acdc7fce200"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d1d/a08851.html#ab64213c21ac3cdfd769a5acdc7fce200">flags</a> {0}</td></tr>
+<tr class="separator:ab64213c21ac3cdfd769a5acdc7fce200"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa8dc40a9829334f2ca7fa4e7347f91a5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d69/a04679.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d1d/a08851.html#aa8dc40a9829334f2ca7fa4e7347f91a5">flags2</a> {0}</td></tr>
+<tr class="separator:aa8dc40a9829334f2ca7fa4e7347f91a5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afc5605f3e357e6ca4f2c681329bb0302"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/de5/a08927.html">Position</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d1d/a08851.html#afc5605f3e357e6ca4f2c681329bb0302">pos</a></td></tr>
+<tr class="separator:afc5605f3e357e6ca4f2c681329bb0302"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a90c332cb1b99ce1ac6eab39bc2a6e4b2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d1d/a08851.html#a90c332cb1b99ce1ac6eab39bc2a6e4b2">time</a> {0}</td></tr>
+<tr class="separator:a90c332cb1b99ce1ac6eab39bc2a6e4b2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac2b0f738ec695f4c9f032daad3e1f041"><td class="memItemLeft" align="right" valign="top">struct <a class="el" href="../../de/d22/a08855.html">MovementInfo::TransportInfo</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d1d/a08851.html#ac2b0f738ec695f4c9f032daad3e1f041">transport</a></td></tr>
+<tr class="separator:ac2b0f738ec695f4c9f032daad3e1f041"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af2945943a91efc4cd5f2f9a0b86424cf"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d1d/a08851.html#af2945943a91efc4cd5f2f9a0b86424cf">pitch</a> {0.0f}</td></tr>
+<tr class="separator:af2945943a91efc4cd5f2f9a0b86424cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abcf42fcf7d61044fd9fb5e6857e21ab5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d1d/a08851.html#abcf42fcf7d61044fd9fb5e6857e21ab5">fallTime</a> {0}</td></tr>
+<tr class="separator:abcf42fcf7d61044fd9fb5e6857e21ab5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a920a536b873fcc63dd6bb22882a7a8ea"><td class="memItemLeft" align="right" valign="top">struct <a class="el" href="../../d3/d9e/a08859.html">MovementInfo::JumpInfo</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d1d/a08851.html#a920a536b873fcc63dd6bb22882a7a8ea">jump</a></td></tr>
+<tr class="separator:a920a536b873fcc63dd6bb22882a7a8ea"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac524b47fa52b05e7c6a6b7c577c9291f"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d1d/a08851.html#ac524b47fa52b05e7c6a6b7c577c9291f">splineElevation</a> {0.0f}</td></tr>
+<tr class="separator:ac524b47fa52b05e7c6a6b7c577c9291f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Typedef Documentation</h2>
-<a id="a76a3553e006171560baf7aa7cc2bc163" name="a76a3553e006171560baf7aa7cc2bc163"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a76a3553e006171560baf7aa7cc2bc163">&#9670;&#160;</a></span>UsedPosList</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a809340998de55a9ffa895f7b27e1f2c3" name="a809340998de55a9ffa895f7b27e1f2c3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a809340998de55a9ffa895f7b27e1f2c3">&#9670;&#160;</a></span>MovementInfo()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">typedef std::multimap&lt;float, <a class="el" href="../../de/d22/a08855.html">UsedPos</a>&gt; <a class="el" href="../../d5/d1d/a08851.html#a76a3553e006171560baf7aa7cc2bc163">ObjectPosSelector::UsedPosList</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a353fa17ca519ace0ba637271e8dc1e8b" name="a353fa17ca519ace0ba637271e8dc1e8b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a353fa17ca519ace0ba637271e8dc1e8b">&#9670;&#160;</a></span>ObjectPosSelector()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">ObjectPosSelector::ObjectPosSelector </td>
+          <td class="memname">MovementInfo::MovementInfo </td>
           <td>(</td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>x</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>y</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>size</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>dist</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   21</span>    : <a class="code hl_variable" href="../../d5/d1d/a08851.html#a25ec0d7656c52f0a9c4b24ea81e37771">m_center_x</a>(x), <a class="code hl_variable" href="../../d5/d1d/a08851.html#aa0d25b2794648c6a1f6895632e8a10ea">m_center_y</a>(y), <a class="code hl_variable" href="../../d5/d1d/a08851.html#a3a61d5b8187c602ba5a2213283b5139c">m_size</a>(size), <a class="code hl_variable" href="../../d5/d1d/a08851.html#a7b6cf79a4806aff044b3f6b7d9181aaf">m_dist</a>(dist)</div>
-<div class="line"><span class="lineno">   22</span>{</div>
-<div class="line"><span class="lineno">   23</span>    <a class="code hl_variable" href="../../d5/d1d/a08851.html#ad33b5ad5af8ebfd14851085b5c67cc95">m_anglestep</a> = acos(<a class="code hl_variable" href="../../d5/d1d/a08851.html#a7b6cf79a4806aff044b3f6b7d9181aaf">m_dist</a> / (<a class="code hl_variable" href="../../d5/d1d/a08851.html#a7b6cf79a4806aff044b3f6b7d9181aaf">m_dist</a> + 2 * <a class="code hl_variable" href="../../d5/d1d/a08851.html#a3a61d5b8187c602ba5a2213283b5139c">m_size</a>));</div>
-<div class="line"><span class="lineno">   24</span> </div>
-<div class="line"><span class="lineno">   25</span>    <a class="code hl_variable" href="../../d5/d1d/a08851.html#a56ff73252996b988d6d1ea384dad1de8">m_nextUsedPos</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>]  = <a class="code hl_variable" href="../../d5/d1d/a08851.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>].end();</div>
-<div class="line"><span class="lineno">   26</span>    <a class="code hl_variable" href="../../d5/d1d/a08851.html#a56ff73252996b988d6d1ea384dad1de8">m_nextUsedPos</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>] = <a class="code hl_variable" href="../../d5/d1d/a08851.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>].end();</div>
-<div class="line"><span class="lineno">   27</span> </div>
-<div class="line"><span class="lineno">   28</span>    <a class="code hl_variable" href="../../d5/d1d/a08851.html#a39bfdb4e3b3e3e3d902387c548bf81ff">m_smallStepAngle</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>]  = 0;</div>
-<div class="line"><span class="lineno">   29</span>    <a class="code hl_variable" href="../../d5/d1d/a08851.html#a39bfdb4e3b3e3e3d902387c548bf81ff">m_smallStepAngle</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>] = 0;</div>
-<div class="line"><span class="lineno">   30</span> </div>
-<div class="line"><span class="lineno">   31</span>    <a class="code hl_variable" href="../../d5/d1d/a08851.html#a7f798861b78a0b54ad121e6acb5e442c">m_smallStepOk</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>]  = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   32</span>    <a class="code hl_variable" href="../../d5/d1d/a08851.html#a7f798861b78a0b54ad121e6acb5e442c">m_smallStepOk</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>] = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   33</span> </div>
-<div class="line"><span class="lineno">   34</span>    <a class="code hl_variable" href="../../d5/d1d/a08851.html#aa98dfa81684059fe8f96f64d228e8d6b">m_smallStepNextUsedPos</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>]  = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">   35</span>    <a class="code hl_variable" href="../../d5/d1d/a08851.html#aa98dfa81684059fe8f96f64d228e8d6b">m_smallStepNextUsedPos</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>] = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">   36</span>}</div>
-<div class="ttc" id="aa01559_html_a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e"><div class="ttname"><a href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a></div><div class="ttdeci">@ USED_POS_PLUS</div><div class="ttdef"><b>Definition:</b> ObjectPosSelector.h:25</div></div>
-<div class="ttc" id="aa01559_html_a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816"><div class="ttname"><a href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a></div><div class="ttdeci">@ USED_POS_MINUS</div><div class="ttdef"><b>Definition:</b> ObjectPosSelector.h:25</div></div>
-<div class="ttc" id="aa08851_html_a25ec0d7656c52f0a9c4b24ea81e37771"><div class="ttname"><a href="../../d5/d1d/a08851.html#a25ec0d7656c52f0a9c4b24ea81e37771">ObjectPosSelector::m_center_x</a></div><div class="ttdeci">float m_center_x</div><div class="ttdef"><b>Definition:</b> ObjectPosSelector.h:140</div></div>
-<div class="ttc" id="aa08851_html_a39bfdb4e3b3e3e3d902387c548bf81ff"><div class="ttname"><a href="../../d5/d1d/a08851.html#a39bfdb4e3b3e3e3d902387c548bf81ff">ObjectPosSelector::m_smallStepAngle</a></div><div class="ttdeci">float m_smallStepAngle[2]</div><div class="ttdef"><b>Definition:</b> ObjectPosSelector.h:150</div></div>
-<div class="ttc" id="aa08851_html_a3a61d5b8187c602ba5a2213283b5139c"><div class="ttname"><a href="../../d5/d1d/a08851.html#a3a61d5b8187c602ba5a2213283b5139c">ObjectPosSelector::m_size</a></div><div class="ttdeci">float m_size</div><div class="ttdef"><b>Definition:</b> ObjectPosSelector.h:142</div></div>
-<div class="ttc" id="aa08851_html_a56ff73252996b988d6d1ea384dad1de8"><div class="ttname"><a href="../../d5/d1d/a08851.html#a56ff73252996b988d6d1ea384dad1de8">ObjectPosSelector::m_nextUsedPos</a></div><div class="ttdeci">UsedPosList::const_iterator m_nextUsedPos[2]</div><div class="ttdef"><b>Definition:</b> ObjectPosSelector.h:147</div></div>
-<div class="ttc" id="aa08851_html_a7b6cf79a4806aff044b3f6b7d9181aaf"><div class="ttname"><a href="../../d5/d1d/a08851.html#a7b6cf79a4806aff044b3f6b7d9181aaf">ObjectPosSelector::m_dist</a></div><div class="ttdeci">float m_dist</div><div class="ttdef"><b>Definition:</b> ObjectPosSelector.h:143</div></div>
-<div class="ttc" id="aa08851_html_a7f798861b78a0b54ad121e6acb5e442c"><div class="ttname"><a href="../../d5/d1d/a08851.html#a7f798861b78a0b54ad121e6acb5e442c">ObjectPosSelector::m_smallStepOk</a></div><div class="ttdeci">bool m_smallStepOk[2]</div><div class="ttdef"><b>Definition:</b> ObjectPosSelector.h:151</div></div>
-<div class="ttc" id="aa08851_html_aa0d25b2794648c6a1f6895632e8a10ea"><div class="ttname"><a href="../../d5/d1d/a08851.html#aa0d25b2794648c6a1f6895632e8a10ea">ObjectPosSelector::m_center_y</a></div><div class="ttdeci">float m_center_y</div><div class="ttdef"><b>Definition:</b> ObjectPosSelector.h:141</div></div>
-<div class="ttc" id="aa08851_html_aa98dfa81684059fe8f96f64d228e8d6b"><div class="ttname"><a href="../../d5/d1d/a08851.html#aa98dfa81684059fe8f96f64d228e8d6b">ObjectPosSelector::m_smallStepNextUsedPos</a></div><div class="ttdeci">UsedPosList::value_type const  * m_smallStepNextUsedPos[2]</div><div class="ttdef"><b>Definition:</b> ObjectPosSelector.h:152</div></div>
-<div class="ttc" id="aa08851_html_ad33b5ad5af8ebfd14851085b5c67cc95"><div class="ttname"><a href="../../d5/d1d/a08851.html#ad33b5ad5af8ebfd14851085b5c67cc95">ObjectPosSelector::m_anglestep</a></div><div class="ttdeci">float m_anglestep</div><div class="ttdef"><b>Definition:</b> ObjectPosSelector.h:144</div></div>
-<div class="ttc" id="aa08851_html_afa4cdf73a3473398e0fa2106b6680e55"><div class="ttname"><a href="../../d5/d1d/a08851.html#afa4cdf73a3473398e0fa2106b6680e55">ObjectPosSelector::m_UsedPosLists</a></div><div class="ttdeci">UsedPosList m_UsedPosLists[2]</div><div class="ttdef"><b>Definition:</b> ObjectPosSelector.h:146</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  343</span>    {</div>
+<div class="line"><span class="lineno">  344</span>        <a class="code hl_variable" href="../../d5/d1d/a08851.html#afc5605f3e357e6ca4f2c681329bb0302">pos</a>.<a class="code hl_function" href="../../dc/de5/a08927.html#afdbf0a257fcd7a48066fd92c4eacae3b">Relocate</a>(0.0f, 0.0f, 0.0f, 0.0f);</div>
+<div class="line"><span class="lineno">  345</span>        <a class="code hl_variable" href="../../d5/d1d/a08851.html#ac2b0f738ec695f4c9f032daad3e1f041">transport</a>.<a class="code hl_function" href="../../de/d22/a08855.html#a9c210ff536b49481f71bc6c3f60ee864">Reset</a>();</div>
+<div class="line"><span class="lineno">  346</span>        <a class="code hl_variable" href="../../d5/d1d/a08851.html#a920a536b873fcc63dd6bb22882a7a8ea">jump</a>.<a class="code hl_function" href="../../d3/d9e/a08859.html#a28a5bd110553457c86d7f77e78041713">Reset</a>();</div>
+<div class="line"><span class="lineno">  347</span>    }</div>
+<div class="ttc" id="aa08851_html_a920a536b873fcc63dd6bb22882a7a8ea"><div class="ttname"><a href="../../d5/d1d/a08851.html#a920a536b873fcc63dd6bb22882a7a8ea">MovementInfo::jump</a></div><div class="ttdeci">struct MovementInfo::JumpInfo jump</div></div>
+<div class="ttc" id="aa08851_html_ac2b0f738ec695f4c9f032daad3e1f041"><div class="ttname"><a href="../../d5/d1d/a08851.html#ac2b0f738ec695f4c9f032daad3e1f041">MovementInfo::transport</a></div><div class="ttdeci">struct MovementInfo::TransportInfo transport</div></div>
+<div class="ttc" id="aa08851_html_afc5605f3e357e6ca4f2c681329bb0302"><div class="ttname"><a href="../../d5/d1d/a08851.html#afc5605f3e357e6ca4f2c681329bb0302">MovementInfo::pos</a></div><div class="ttdeci">Position pos</div><div class="ttdef"><b>Definition:</b> Object.h:300</div></div>
+<div class="ttc" id="aa08855_html_a9c210ff536b49481f71bc6c3f60ee864"><div class="ttname"><a href="../../de/d22/a08855.html#a9c210ff536b49481f71bc6c3f60ee864">MovementInfo::TransportInfo::Reset</a></div><div class="ttdeci">void Reset()</div><div class="ttdef"><b>Definition:</b> Object.h:306</div></div>
+<div class="ttc" id="aa08859_html_a28a5bd110553457c86d7f77e78041713"><div class="ttname"><a href="../../d3/d9e/a08859.html#a28a5bd110553457c86d7f77e78041713">MovementInfo::JumpInfo::Reset</a></div><div class="ttdeci">void Reset()</div><div class="ttdef"><b>Definition:</b> Object.h:331</div></div>
+<div class="ttc" id="aa08927_html_afdbf0a257fcd7a48066fd92c4eacae3b"><div class="ttname"><a href="../../dc/de5/a08927.html#afdbf0a257fcd7a48066fd92c4eacae3b">Position::Relocate</a></div><div class="ttdeci">void Relocate(float x, float y)</div><div class="ttdef"><b>Definition:</b> Position.h:77</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00144">m_anglestep</a>, <a class="el" href="../../#l00143">m_dist</a>, <a class="el" href="../../#l00147">m_nextUsedPos</a>, <a class="el" href="../../#l00142">m_size</a>, <a class="el" href="../../#l00150">m_smallStepAngle</a>, <a class="el" href="../../#l00152">m_smallStepNextUsedPos</a>, <a class="el" href="../../#l00151">m_smallStepOk</a>, <a class="el" href="../../#l00146">m_UsedPosLists</a>, <a class="el" href="../../#l00025">USED_POS_MINUS</a>, and <a class="el" href="../../#l00025">USED_POS_PLUS</a>.</p>
+<p class="reference">References <a class="el" href="../../d5/d1d/a08851.html#a920a536b873fcc63dd6bb22882a7a8ea">jump</a>, <a class="el" href="../../#l00300">pos</a>, <a class="el" href="../../#l00077">Position::Relocate()</a>, <a class="el" href="../../#l00306">MovementInfo::TransportInfo::Reset()</a>, <a class="el" href="../../#l00331">MovementInfo::JumpInfo::Reset()</a>, and <a class="el" href="../../d5/d1d/a08851.html#ac2b0f738ec695f4c9f032daad3e1f041">transport</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="abb77ce4bf44b926a4bc1db59e7b84e36" name="abb77ce4bf44b926a4bc1db59e7b84e36"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abb77ce4bf44b926a4bc1db59e7b84e36">&#9670;&#160;</a></span>AddUsedPos()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void ObjectPosSelector::AddUsedPos </td>
-          <td>(</td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>size</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>angle</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>dist</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   56</span>{</div>
-<div class="line"><span class="lineno">   57</span>    <span class="keywordflow">if</span> (angle &gt;= 0)</div>
-<div class="line"><span class="lineno">   58</span>        <a class="code hl_variable" href="../../d5/d1d/a08851.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>].insert(UsedPosList::value_type(angle, UsedPos(1.0f, size, dist)));</div>
-<div class="line"><span class="lineno">   59</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">   60</span>        <a class="code hl_variable" href="../../d5/d1d/a08851.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>].insert(UsedPosList::value_type(-angle, UsedPos(-1.0f, size, dist)));</div>
-<div class="line"><span class="lineno">   61</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00146">m_UsedPosLists</a>, <a class="el" href="../../#l00025">USED_POS_MINUS</a>, and <a class="el" href="../../#l00025">USED_POS_PLUS</a>.</p>
-
-</div>
-</div>
-<a id="a678445810801988c429489ba187b28f0" name="a678445810801988c429489ba187b28f0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a678445810801988c429489ba187b28f0">&#9670;&#160;</a></span>CheckAngle()</h2>
+<a id="aff0e449eb1567041f1a44c34e5fa85bc" name="aff0e449eb1567041f1a44c34e5fa85bc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aff0e449eb1567041f1a44c34e5fa85bc">&#9670;&#160;</a></span>AddExtraMovementFlag()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -320,27 +229,11 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool ObjectPosSelector::CheckAngle </td>
+          <td class="memname">void MovementInfo::AddExtraMovementFlag </td>
           <td>(</td>
-          <td class="paramtype">UsedPosList::value_type const &amp;&#160;</td>
-          <td class="paramname"><em>nextUsedPos</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramtype"><a class="el" href="../../de/d69/a04679.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td>
+          <td class="paramname"><em>flag</em></td><td>)</td>
           <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>sign</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>angle</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td> const</td>
         </tr>
       </table>
   </td>
@@ -349,26 +242,15 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   58</span>    {</div>
-<div class="line"><span class="lineno">   59</span>        <span class="keywordtype">float</span> angle_step2  = <a class="code hl_function" href="../../d5/d1d/a08851.html#ad0fc5c7a577bd9584d7a81346ff78c14">GetAngle</a>(<a class="code hl_function" href="../../d5/d1d/a08851.html#a93e3a877fef90a3fa933addeb53e3e8e">nextUsedPos</a>.second);</div>
-<div class="line"><span class="lineno">   60</span> </div>
-<div class="line"><span class="lineno">   61</span>        <span class="keywordtype">float</span> next_angle = <a class="code hl_function" href="../../d5/d1d/a08851.html#a93e3a877fef90a3fa933addeb53e3e8e">nextUsedPos</a>.first;</div>
-<div class="line"><span class="lineno">   62</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d5/d1d/a08851.html#a93e3a877fef90a3fa933addeb53e3e8e">nextUsedPos</a>.second.sign * sign &lt; 0)             <span class="comment">// last node from diff. list (-pi+alpha)</span></div>
-<div class="line"><span class="lineno">   63</span>            next_angle = 2 * M_PI - next_angle;             <span class="comment">// move to positive</span></div>
-<div class="line"><span class="lineno">   64</span> </div>
-<div class="line"><span class="lineno">   65</span>        <span class="keywordflow">return</span> std::fabs(angle) + angle_step2 &lt;= next_angle;</div>
-<div class="line"><span class="lineno">   66</span>    }</div>
-<div class="ttc" id="aa08851_html_a93e3a877fef90a3fa933addeb53e3e8e"><div class="ttname"><a href="../../d5/d1d/a08851.html#a93e3a877fef90a3fa933addeb53e3e8e">ObjectPosSelector::nextUsedPos</a></div><div class="ttdeci">UsedPosList::value_type const * nextUsedPos(UsedPosType uptype)</div><div class="ttdef"><b>Definition:</b> ObjectPosSelector.cpp:38</div></div>
-<div class="ttc" id="aa08851_html_ad0fc5c7a577bd9584d7a81346ff78c14"><div class="ttname"><a href="../../d5/d1d/a08851.html#ad0fc5c7a577bd9584d7a81346ff78c14">ObjectPosSelector::GetAngle</a></div><div class="ttdeci">float GetAngle(UsedPos const &amp;usedPos) const</div><div class="ttdef"><b>Definition:</b> ObjectPosSelector.h:138</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  359</span>{ <a class="code hl_variable" href="../../d5/d1d/a08851.html#aa8dc40a9829334f2ca7fa4e7347f91a5">flags2</a> |= flag; }</div>
+<div class="ttc" id="aa08851_html_aa8dc40a9829334f2ca7fa4e7347f91a5"><div class="ttname"><a href="../../d5/d1d/a08851.html#aa8dc40a9829334f2ca7fa4e7347f91a5">MovementInfo::flags2</a></div><div class="ttdeci">uint16 flags2</div><div class="ttdef"><b>Definition:</b> Object.h:299</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00138">GetAngle()</a>, and <a class="el" href="../../#l00038">nextUsedPos()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00068">CheckOriginal()</a>, <a class="el" href="../../#l00076">NextAngleFor()</a>, and <a class="el" href="../../#l00102">NextSmallStepAngle()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00299">flags2</a>.</p>
 
 </div>
 </div>
-<a id="ab5ea7dc197cac7156a5feaf965afe902" name="ab5ea7dc197cac7156a5feaf965afe902"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab5ea7dc197cac7156a5feaf965afe902">&#9670;&#160;</a></span>CheckOriginal()</h2>
+<a id="ae02908de40bf25e5d07d3bb248448a68" name="ae02908de40bf25e5d07d3bb248448a68"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae02908de40bf25e5d07d3bb248448a68">&#9670;&#160;</a></span>AddMovementFlag()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -377,7 +259,39 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool ObjectPosSelector::CheckOriginal </td>
+          <td class="memname">void MovementInfo::AddMovementFlag </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>flag</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  351</span>{ <a class="code hl_variable" href="../../d5/d1d/a08851.html#ab64213c21ac3cdfd769a5acdc7fce200">flags</a> |= flag; }</div>
+<div class="ttc" id="aa08851_html_ab64213c21ac3cdfd769a5acdc7fce200"><div class="ttname"><a href="../../d5/d1d/a08851.html#ab64213c21ac3cdfd769a5acdc7fce200">MovementInfo::flags</a></div><div class="ttdeci">uint32 flags</div><div class="ttdef"><b>Definition:</b> Object.h:298</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00298">flags</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00026">WorldSession::HandleDismissControlledVehicle()</a>, <a class="el" href="../../#l14057">Unit::SendMoveRoot()</a>, <a class="el" href="../../#l16139">Unit::SetCanFly()</a>, <a class="el" href="../../#l16079">Unit::SetDisableGravity()</a>, <a class="el" href="../../#l16175">Unit::SetFeatherFall()</a>, <a class="el" href="../../#l16216">Unit::SetHover()</a>, and <a class="el" href="../../#l16269">Unit::SetWaterWalking()</a>.</p>
+
+</div>
+</div>
+<a id="a7a9353ff367c80cddeaddd63fcd32ddb" name="a7a9353ff367c80cddeaddd63fcd32ddb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7a9353ff367c80cddeaddd63fcd32ddb">&#9670;&#160;</a></span>GetExtraMovementFlags()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../de/d69/a04679.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> MovementInfo::GetExtraMovementFlags </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td> const</td>
@@ -389,47 +303,14 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   69</span>    {</div>
-<div class="line"><span class="lineno">   70</span>        <span class="keywordflow">return</span> (<a class="code hl_variable" href="../../d5/d1d/a08851.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>].empty() || <a class="code hl_function" href="../../d5/d1d/a08851.html#a678445810801988c429489ba187b28f0">CheckAngle</a>(*<a class="code hl_variable" href="../../d5/d1d/a08851.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>].begin(), 1.0f, 0)) &amp;&amp;</div>
-<div class="line"><span class="lineno">   71</span>               (<a class="code hl_variable" href="../../d5/d1d/a08851.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>].empty() || <a class="code hl_function" href="../../d5/d1d/a08851.html#a678445810801988c429489ba187b28f0">CheckAngle</a>(*<a class="code hl_variable" href="../../d5/d1d/a08851.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>].begin(), -1.0f, 0));</div>
-<div class="line"><span class="lineno">   72</span>    }</div>
-<div class="ttc" id="aa08851_html_a678445810801988c429489ba187b28f0"><div class="ttname"><a href="../../d5/d1d/a08851.html#a678445810801988c429489ba187b28f0">ObjectPosSelector::CheckAngle</a></div><div class="ttdeci">bool CheckAngle(UsedPosList::value_type const &amp;nextUsedPos, float sign, float angle) const</div><div class="ttdef"><b>Definition:</b> ObjectPosSelector.h:57</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  358</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d5/d1d/a08851.html#aa8dc40a9829334f2ca7fa4e7347f91a5">flags2</a>; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00057">CheckAngle()</a>, <a class="el" href="../../#l00146">m_UsedPosLists</a>, <a class="el" href="../../#l00025">USED_POS_MINUS</a>, and <a class="el" href="../../#l00025">USED_POS_PLUS</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00299">flags2</a>.</p>
 
 </div>
 </div>
-<a id="a34a49751e6810835d4e4f2828d7c8b0c" name="a34a49751e6810835d4e4f2828d7c8b0c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a34a49751e6810835d4e4f2828d7c8b0c">&#9670;&#160;</a></span>FirstAngle()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool ObjectPosSelector::FirstAngle </td>
-          <td>(</td>
-          <td class="paramtype">float &amp;&#160;</td>
-          <td class="paramname"><em>angle</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   76</span>{</div>
-<div class="line"><span class="lineno">   77</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d1d/a08851.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>].empty() &amp;&amp; !<a class="code hl_variable" href="../../d5/d1d/a08851.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>].empty())</div>
-<div class="line"><span class="lineno">   78</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../d5/d1d/a08851.html#a1d792bc79d1646eae7651705bc0afdd5">NextAngleFor</a>(*<a class="code hl_variable" href="../../d5/d1d/a08851.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>].begin(), 1.0f, <a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>, angle);</div>
-<div class="line"><span class="lineno">   79</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d1d/a08851.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>].empty() &amp;&amp; !<a class="code hl_variable" href="../../d5/d1d/a08851.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>].empty())</div>
-<div class="line"><span class="lineno">   80</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../d5/d1d/a08851.html#a1d792bc79d1646eae7651705bc0afdd5">NextAngleFor</a>(*<a class="code hl_variable" href="../../d5/d1d/a08851.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>].begin(), -1.0f, <a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>, angle);</div>
-<div class="line"><span class="lineno">   81</span> </div>
-<div class="line"><span class="lineno">   82</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   83</span>}</div>
-<div class="ttc" id="aa08851_html_a1d792bc79d1646eae7651705bc0afdd5"><div class="ttname"><a href="../../d5/d1d/a08851.html#a1d792bc79d1646eae7651705bc0afdd5">ObjectPosSelector::NextAngleFor</a></div><div class="ttdeci">bool NextAngleFor(UsedPosList::value_type const &amp;usedPos, float sign, UsedPosType uptype, float &amp;angle)</div><div class="ttdef"><b>Definition:</b> ObjectPosSelector.h:76</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00146">m_UsedPosLists</a>, <a class="el" href="../../#l00076">NextAngleFor()</a>, <a class="el" href="../../#l00025">USED_POS_MINUS</a>, and <a class="el" href="../../#l00025">USED_POS_PLUS</a>.</p>
-
-</div>
-</div>
-<a id="ad0fc5c7a577bd9584d7a81346ff78c14" name="ad0fc5c7a577bd9584d7a81346ff78c14"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad0fc5c7a577bd9584d7a81346ff78c14">&#9670;&#160;</a></span>GetAngle()</h2>
+<a id="ade08354701baa32b9ff232d6b07e6097" name="ade08354701baa32b9ff232d6b07e6097"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ade08354701baa32b9ff232d6b07e6097">&#9670;&#160;</a></span>GetMovementFlags()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -438,67 +319,7 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">float ObjectPosSelector::GetAngle </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../de/d22/a08855.html">UsedPos</a> const &amp;&#160;</td>
-          <td class="paramname"><em>usedPos</em></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  138</span>{ <span class="keywordflow">return</span> acos(<a class="code hl_variable" href="../../d5/d1d/a08851.html#a7b6cf79a4806aff044b3f6b7d9181aaf">m_dist</a> / (usedPos.dist + usedPos.size + <a class="code hl_variable" href="../../d5/d1d/a08851.html#a3a61d5b8187c602ba5a2213283b5139c">m_size</a>)); }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00041">ObjectPosSelector::UsedPos::dist</a>, <a class="el" href="../../#l00143">m_dist</a>, <a class="el" href="../../#l00142">m_size</a>, and <a class="el" href="../../#l00040">ObjectPosSelector::UsedPos::size</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00057">CheckAngle()</a>, and <a class="el" href="../../#l00076">NextAngleFor()</a>.</p>
-
-</div>
-</div>
-<a id="ac58836fb3671cf87b156072910b811c2" name="ac58836fb3671cf87b156072910b811c2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac58836fb3671cf87b156072910b811c2">&#9670;&#160;</a></span>InitializeAngle()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void ObjectPosSelector::InitializeAngle </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   64</span>{</div>
-<div class="line"><span class="lineno">   65</span>    <a class="code hl_variable" href="../../d5/d1d/a08851.html#a56ff73252996b988d6d1ea384dad1de8">m_nextUsedPos</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>]  = <a class="code hl_variable" href="../../d5/d1d/a08851.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>].begin();</div>
-<div class="line"><span class="lineno">   66</span>    <a class="code hl_variable" href="../../d5/d1d/a08851.html#a56ff73252996b988d6d1ea384dad1de8">m_nextUsedPos</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>] = <a class="code hl_variable" href="../../d5/d1d/a08851.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>].begin();</div>
-<div class="line"><span class="lineno">   67</span> </div>
-<div class="line"><span class="lineno">   68</span>    <a class="code hl_variable" href="../../d5/d1d/a08851.html#a39bfdb4e3b3e3e3d902387c548bf81ff">m_smallStepAngle</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>]  = 0;</div>
-<div class="line"><span class="lineno">   69</span>    <a class="code hl_variable" href="../../d5/d1d/a08851.html#a39bfdb4e3b3e3e3d902387c548bf81ff">m_smallStepAngle</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>] = 0;</div>
-<div class="line"><span class="lineno">   70</span> </div>
-<div class="line"><span class="lineno">   71</span>    <a class="code hl_variable" href="../../d5/d1d/a08851.html#a7f798861b78a0b54ad121e6acb5e442c">m_smallStepOk</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>]  = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">   72</span>    <a class="code hl_variable" href="../../d5/d1d/a08851.html#a7f798861b78a0b54ad121e6acb5e442c">m_smallStepOk</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>] = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">   73</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00147">m_nextUsedPos</a>, <a class="el" href="../../#l00150">m_smallStepAngle</a>, <a class="el" href="../../#l00151">m_smallStepOk</a>, <a class="el" href="../../#l00146">m_UsedPosLists</a>, <a class="el" href="../../#l00025">USED_POS_MINUS</a>, and <a class="el" href="../../#l00025">USED_POS_PLUS</a>.</p>
-
-</div>
-</div>
-<a id="a092252be70aef7ba47a2e81d183d68ab" name="a092252be70aef7ba47a2e81d183d68ab"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a092252be70aef7ba47a2e81d183d68ab">&#9670;&#160;</a></span>IsNonBalanced()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool ObjectPosSelector::IsNonBalanced </td>
+          <td class="memname"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> MovementInfo::GetMovementFlags </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td> const</td>
@@ -510,47 +331,16 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   74</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d5/d1d/a08851.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>].empty() != <a class="code hl_variable" href="../../d5/d1d/a08851.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>].empty(); }</div>
+<div class="fragment"><div class="line"><span class="lineno">  349</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d5/d1d/a08851.html#ab64213c21ac3cdfd769a5acdc7fce200">flags</a>; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00146">m_UsedPosLists</a>, <a class="el" href="../../#l00025">USED_POS_MINUS</a>, and <a class="el" href="../../#l00025">USED_POS_PLUS</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00298">flags</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00341">Object::BuildMovementUpdate()</a>, <a class="el" href="../../#l01496">WorldSession::HandleMoveFlagChangeOpcode()</a>, <a class="el" href="../../#l00974">Creature::IsFreeToMove()</a>, <a class="el" href="../../#l00035">Movement::MoveSplineInit::Launch()</a>, and <a class="el" href="../../#l00614">WorldSession::ProcessMovementInfo()</a>.</p>
 
 </div>
 </div>
-<a id="ae45835290af001233a7d76e1a5be6df0" name="ae45835290af001233a7d76e1a5be6df0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae45835290af001233a7d76e1a5be6df0">&#9670;&#160;</a></span>NextAngle()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool ObjectPosSelector::NextAngle </td>
-          <td>(</td>
-          <td class="paramtype">float &amp;&#160;</td>
-          <td class="paramname"><em>angle</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   86</span>{</div>
-<div class="line"><span class="lineno">   87</span>    <span class="keywordflow">while</span> (<a class="code hl_variable" href="../../d5/d1d/a08851.html#a56ff73252996b988d6d1ea384dad1de8">m_nextUsedPos</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>] != <a class="code hl_variable" href="../../d5/d1d/a08851.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>].end() ||</div>
-<div class="line"><span class="lineno">   88</span>            <a class="code hl_variable" href="../../d5/d1d/a08851.html#a56ff73252996b988d6d1ea384dad1de8">m_nextUsedPos</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>] != <a class="code hl_variable" href="../../d5/d1d/a08851.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>].end() ||</div>
-<div class="line"><span class="lineno">   89</span>            <a class="code hl_variable" href="../../d5/d1d/a08851.html#a7f798861b78a0b54ad121e6acb5e442c">m_smallStepOk</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>] || <a class="code hl_variable" href="../../d5/d1d/a08851.html#a7f798861b78a0b54ad121e6acb5e442c">m_smallStepOk</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>] )</div>
-<div class="line"><span class="lineno">   90</span>    {</div>
-<div class="line"><span class="lineno">   91</span>        <span class="comment">// calculate next possible angle</span></div>
-<div class="line"><span class="lineno">   92</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d5/d1d/a08851.html#a3ca2304f7f268685b22db941d70fab36">NextPosibleAngle</a>(angle))</div>
-<div class="line"><span class="lineno">   93</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">   94</span>    }</div>
-<div class="line"><span class="lineno">   95</span> </div>
-<div class="line"><span class="lineno">   96</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   97</span>}</div>
-<div class="ttc" id="aa08851_html_a3ca2304f7f268685b22db941d70fab36"><div class="ttname"><a href="../../d5/d1d/a08851.html#a3ca2304f7f268685b22db941d70fab36">ObjectPosSelector::NextPosibleAngle</a></div><div class="ttdeci">bool NextPosibleAngle(float &amp;angle)</div><div class="ttdef"><b>Definition:</b> ObjectPosSelector.cpp:112</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00147">m_nextUsedPos</a>, <a class="el" href="../../#l00151">m_smallStepOk</a>, <a class="el" href="../../#l00146">m_UsedPosLists</a>, <a class="el" href="../../#l00112">NextPosibleAngle()</a>, <a class="el" href="../../#l00025">USED_POS_MINUS</a>, and <a class="el" href="../../#l00025">USED_POS_PLUS</a>.</p>
-
-</div>
-</div>
-<a id="a1d792bc79d1646eae7651705bc0afdd5" name="a1d792bc79d1646eae7651705bc0afdd5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1d792bc79d1646eae7651705bc0afdd5">&#9670;&#160;</a></span>NextAngleFor()</h2>
+<a id="a6f0c8141058d03f214afbd779a3420ee" name="a6f0c8141058d03f214afbd779a3420ee"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6f0c8141058d03f214afbd779a3420ee">&#9670;&#160;</a></span>GetSpeedType() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -559,33 +349,10 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool ObjectPosSelector::NextAngleFor </td>
+          <td class="memname"><a class="el" href="../../dd/ddc/a01802.html#af91f7580a89722b7dc45a018bb46fce4">UnitMoveType</a> MovementInfo::GetSpeedType </td>
           <td>(</td>
-          <td class="paramtype">UsedPosList::value_type const &amp;&#160;</td>
-          <td class="paramname"><em>usedPos</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>sign</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397">UsedPosType</a>&#160;</td>
-          <td class="paramname"><em>uptype</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float &amp;&#160;</td>
-          <td class="paramname"><em>angle</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
         </tr>
       </table>
   </td>
@@ -594,102 +361,17 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   77</span>    {</div>
-<div class="line"><span class="lineno">   78</span>        <span class="keywordtype">float</span> angle_step  = <a class="code hl_function" href="../../d5/d1d/a08851.html#ad0fc5c7a577bd9584d7a81346ff78c14">GetAngle</a>(usedPos.second);</div>
-<div class="line"><span class="lineno">   79</span> </div>
-<div class="line"><span class="lineno">   80</span>        <span class="comment">// next possible angle</span></div>
-<div class="line"><span class="lineno">   81</span>        angle  = usedPos.first * usedPos.second.sign + angle_step * sign;</div>
-<div class="line"><span class="lineno">   82</span> </div>
-<div class="line"><span class="lineno">   83</span>        UsedPosList::value_type <span class="keyword">const</span>* nextNode = <a class="code hl_function" href="../../d5/d1d/a08851.html#a93e3a877fef90a3fa933addeb53e3e8e">nextUsedPos</a>(uptype);</div>
-<div class="line"><span class="lineno">   84</span>        <span class="keywordflow">if</span> (nextNode)</div>
-<div class="line"><span class="lineno">   85</span>        {</div>
-<div class="line"><span class="lineno">   86</span>            <span class="comment">// if next node permit use selected angle, then do it</span></div>
-<div class="line"><span class="lineno">   87</span>            <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d5/d1d/a08851.html#a678445810801988c429489ba187b28f0">CheckAngle</a>(*nextNode, sign, angle))</div>
-<div class="line"><span class="lineno">   88</span>            {</div>
-<div class="line"><span class="lineno">   89</span>                <a class="code hl_variable" href="../../d5/d1d/a08851.html#a7f798861b78a0b54ad121e6acb5e442c">m_smallStepOk</a>[uptype] = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   90</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   91</span>            }</div>
-<div class="line"><span class="lineno">   92</span>        }</div>
-<div class="line"><span class="lineno">   93</span> </div>
-<div class="line"><span class="lineno">   94</span>        <span class="comment">// possible more points</span></div>
-<div class="line"><span class="lineno">   95</span>        <a class="code hl_variable" href="../../d5/d1d/a08851.html#a7f798861b78a0b54ad121e6acb5e442c">m_smallStepOk</a>[uptype] = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">   96</span>        <a class="code hl_variable" href="../../d5/d1d/a08851.html#a39bfdb4e3b3e3e3d902387c548bf81ff">m_smallStepAngle</a>[uptype] = angle;</div>
-<div class="line"><span class="lineno">   97</span>        <a class="code hl_variable" href="../../d5/d1d/a08851.html#aa98dfa81684059fe8f96f64d228e8d6b">m_smallStepNextUsedPos</a>[uptype] = nextNode;</div>
-<div class="line"><span class="lineno">   98</span> </div>
-<div class="line"><span class="lineno">   99</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  100</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  355</span>{ <span class="keywordflow">return</span> <a class="code hl_function" href="../../d5/d1d/a08851.html#a6f0c8141058d03f214afbd779a3420ee">GetSpeedType</a>(<a class="code hl_variable" href="../../d5/d1d/a08851.html#ab64213c21ac3cdfd769a5acdc7fce200">flags</a>); }</div>
+<div class="ttc" id="aa08851_html_a6f0c8141058d03f214afbd779a3420ee"><div class="ttname"><a href="../../d5/d1d/a08851.html#a6f0c8141058d03f214afbd779a3420ee">MovementInfo::GetSpeedType</a></div><div class="ttdeci">UnitMoveType GetSpeedType() const</div><div class="ttdef"><b>Definition:</b> Object.h:355</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00057">CheckAngle()</a>, <a class="el" href="../../#l00138">GetAngle()</a>, <a class="el" href="../../#l00150">m_smallStepAngle</a>, <a class="el" href="../../#l00152">m_smallStepNextUsedPos</a>, <a class="el" href="../../#l00151">m_smallStepOk</a>, and <a class="el" href="../../#l00038">nextUsedPos()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00298">flags</a>, and <a class="el" href="../../#l00355">GetSpeedType()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00075">FirstAngle()</a>, and <a class="el" href="../../#l00112">NextPosibleAngle()</a>.</p>
-
-</div>
-</div>
-<a id="a3ca2304f7f268685b22db941d70fab36" name="a3ca2304f7f268685b22db941d70fab36"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3ca2304f7f268685b22db941d70fab36">&#9670;&#160;</a></span>NextPosibleAngle()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool ObjectPosSelector::NextPosibleAngle </td>
-          <td>(</td>
-          <td class="paramtype">float &amp;&#160;</td>
-          <td class="paramname"><em>angle</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  113</span>{</div>
-<div class="line"><span class="lineno">  114</span>    <span class="comment">// ++ direction less updated</span></div>
-<div class="line"><span class="lineno">  115</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d1d/a08851.html#a56ff73252996b988d6d1ea384dad1de8">m_nextUsedPos</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>] != <a class="code hl_variable" href="../../d5/d1d/a08851.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>].end() &amp;&amp;</div>
-<div class="line"><span class="lineno">  116</span>            (<a class="code hl_variable" href="../../d5/d1d/a08851.html#a56ff73252996b988d6d1ea384dad1de8">m_nextUsedPos</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>] == <a class="code hl_variable" href="../../d5/d1d/a08851.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>].end() || <a class="code hl_variable" href="../../d5/d1d/a08851.html#a56ff73252996b988d6d1ea384dad1de8">m_nextUsedPos</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>]-&gt;first &lt;= <a class="code hl_variable" href="../../d5/d1d/a08851.html#a56ff73252996b988d6d1ea384dad1de8">m_nextUsedPos</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>]-&gt;first))</div>
-<div class="line"><span class="lineno">  117</span>    {</div>
-<div class="line"><span class="lineno">  118</span>        <span class="keywordtype">bool</span> ok;</div>
-<div class="line"><span class="lineno">  119</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d1d/a08851.html#a7f798861b78a0b54ad121e6acb5e442c">m_smallStepOk</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>])</div>
-<div class="line"><span class="lineno">  120</span>            ok = <a class="code hl_function" href="../../d5/d1d/a08851.html#a81959e17cd93eb5590dc3533ffa2217b">NextSmallStepAngle</a>(1.0f, <a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>, angle);</div>
-<div class="line"><span class="lineno">  121</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  122</span>            ok = <a class="code hl_function" href="../../d5/d1d/a08851.html#a1d792bc79d1646eae7651705bc0afdd5">NextAngleFor</a>(*<a class="code hl_variable" href="../../d5/d1d/a08851.html#a56ff73252996b988d6d1ea384dad1de8">m_nextUsedPos</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>], 1.0f, <a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>, angle);</div>
-<div class="line"><span class="lineno">  123</span> </div>
-<div class="line"><span class="lineno">  124</span>        <span class="keywordflow">if</span> (!ok)</div>
-<div class="line"><span class="lineno">  125</span>            ++<a class="code hl_variable" href="../../d5/d1d/a08851.html#a56ff73252996b988d6d1ea384dad1de8">m_nextUsedPos</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>];                 <span class="comment">// increase. only at fail (original or checked)</span></div>
-<div class="line"><span class="lineno">  126</span>        <span class="keywordflow">return</span> ok;</div>
-<div class="line"><span class="lineno">  127</span>    }</div>
-<div class="line"><span class="lineno">  128</span>    <span class="comment">// -- direction less updated</span></div>
-<div class="line"><span class="lineno">  129</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d1d/a08851.html#a56ff73252996b988d6d1ea384dad1de8">m_nextUsedPos</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>] != <a class="code hl_variable" href="../../d5/d1d/a08851.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>].end())</div>
-<div class="line"><span class="lineno">  130</span>    {</div>
-<div class="line"><span class="lineno">  131</span>        <span class="keywordtype">bool</span> ok;</div>
-<div class="line"><span class="lineno">  132</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d1d/a08851.html#a7f798861b78a0b54ad121e6acb5e442c">m_smallStepOk</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>])</div>
-<div class="line"><span class="lineno">  133</span>            ok = <a class="code hl_function" href="../../d5/d1d/a08851.html#a81959e17cd93eb5590dc3533ffa2217b">NextSmallStepAngle</a>(-1.0f, <a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>, angle);</div>
-<div class="line"><span class="lineno">  134</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  135</span>            ok = <a class="code hl_function" href="../../d5/d1d/a08851.html#a1d792bc79d1646eae7651705bc0afdd5">NextAngleFor</a>(*<a class="code hl_variable" href="../../d5/d1d/a08851.html#a56ff73252996b988d6d1ea384dad1de8">m_nextUsedPos</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>], -1.0f, <a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>, angle);</div>
-<div class="line"><span class="lineno">  136</span> </div>
-<div class="line"><span class="lineno">  137</span>        <span class="keywordflow">if</span> (!ok)</div>
-<div class="line"><span class="lineno">  138</span>            ++<a class="code hl_variable" href="../../d5/d1d/a08851.html#a56ff73252996b988d6d1ea384dad1de8">m_nextUsedPos</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>];</div>
-<div class="line"><span class="lineno">  139</span>        <span class="keywordflow">return</span> ok;</div>
-<div class="line"><span class="lineno">  140</span>    }</div>
-<div class="line"><span class="lineno">  141</span>    <span class="keywordflow">else</span>                                                    <span class="comment">// both list empty</span></div>
-<div class="line"><span class="lineno">  142</span>    {</div>
-<div class="line"><span class="lineno">  143</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d1d/a08851.html#a7f798861b78a0b54ad121e6acb5e442c">m_smallStepOk</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>] &amp;&amp; (!<a class="code hl_variable" href="../../d5/d1d/a08851.html#a7f798861b78a0b54ad121e6acb5e442c">m_smallStepOk</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>] || <a class="code hl_variable" href="../../d5/d1d/a08851.html#a39bfdb4e3b3e3e3d902387c548bf81ff">m_smallStepAngle</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>] &lt;= <a class="code hl_variable" href="../../d5/d1d/a08851.html#a39bfdb4e3b3e3e3d902387c548bf81ff">m_smallStepAngle</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>]))</div>
-<div class="line"><span class="lineno">  144</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="../../d5/d1d/a08851.html#a81959e17cd93eb5590dc3533ffa2217b">NextSmallStepAngle</a>(1.0f, <a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>, angle);</div>
-<div class="line"><span class="lineno">  145</span>        <span class="comment">// -- direction less updated</span></div>
-<div class="line"><span class="lineno">  146</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d1d/a08851.html#a7f798861b78a0b54ad121e6acb5e442c">m_smallStepOk</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>])</div>
-<div class="line"><span class="lineno">  147</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="../../d5/d1d/a08851.html#a81959e17cd93eb5590dc3533ffa2217b">NextSmallStepAngle</a>(-1.0f, <a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>, angle);</div>
-<div class="line"><span class="lineno">  148</span>    }</div>
-<div class="line"><span class="lineno">  149</span> </div>
-<div class="line"><span class="lineno">  150</span>    <span class="comment">// no angles</span></div>
-<div class="line"><span class="lineno">  151</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  152</span>}</div>
-<div class="ttc" id="aa08851_html_a81959e17cd93eb5590dc3533ffa2217b"><div class="ttname"><a href="../../d5/d1d/a08851.html#a81959e17cd93eb5590dc3533ffa2217b">ObjectPosSelector::NextSmallStepAngle</a></div><div class="ttdeci">bool NextSmallStepAngle(float sign, UsedPosType uptype, float &amp;angle)</div><div class="ttdef"><b>Definition:</b> ObjectPosSelector.h:102</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00147">m_nextUsedPos</a>, <a class="el" href="../../#l00150">m_smallStepAngle</a>, <a class="el" href="../../#l00151">m_smallStepOk</a>, <a class="el" href="../../#l00146">m_UsedPosLists</a>, <a class="el" href="../../#l00076">NextAngleFor()</a>, <a class="el" href="../../#l00102">NextSmallStepAngle()</a>, <a class="el" href="../../#l00025">USED_POS_MINUS</a>, and <a class="el" href="../../#l00025">USED_POS_PLUS</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00085">NextAngle()</a>, and <a class="el" href="../../#l00099">NextUsedAngle()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00355">GetSpeedType()</a>, <a class="el" href="../../#l00490">GetTargetSpeedInMotion()</a>, <a class="el" href="../../#l00525">PredictPosition()</a>, and <a class="el" href="../../#l00030">Movement::SelectSpeedType()</a>.</p>
 
 </div>
 </div>
-<a id="a81959e17cd93eb5590dc3533ffa2217b" name="a81959e17cd93eb5590dc3533ffa2217b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a81959e17cd93eb5590dc3533ffa2217b">&#9670;&#160;</a></span>NextSmallStepAngle()</h2>
+<a id="a01585307a3db62a34f7d2e243dd52265" name="a01585307a3db62a34f7d2e243dd52265"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a01585307a3db62a34f7d2e243dd52265">&#9670;&#160;</a></span>GetSpeedType() <span class="overload">[2/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -698,27 +380,72 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool ObjectPosSelector::NextSmallStepAngle </td>
+          <td class="memname"><a class="el" href="../../dd/ddc/a01802.html#af91f7580a89722b7dc45a018bb46fce4">UnitMoveType</a> MovementInfo::GetSpeedType </td>
           <td>(</td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>sign</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramtype"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>moveFlags</em></td><td>)</td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397">UsedPosType</a>&#160;</td>
-          <td class="paramname"><em>uptype</em>, </td>
         </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 1008</span>{</div>
+<div class="line"><span class="lineno"> 1009</span>    <span class="keywordflow">if</span> (moveFlags &amp; <a class="code hl_enumvalue" href="../../dd/ddc/a01802.html#a083358a25d084fb928e170c453128f9da8a3d672d9f1139c8c0b1a21f9b71ed7a">MOVEMENTFLAG_FLYING</a>)</div>
+<div class="line"><span class="lineno"> 1010</span>    {</div>
+<div class="line"><span class="lineno"> 1011</span>        <span class="keywordflow">if</span> (moveFlags &amp; <a class="code hl_enumvalue" href="../../dd/ddc/a01802.html#a083358a25d084fb928e170c453128f9da4f594eeed0c7872fe36c885b032a4d00">MOVEMENTFLAG_BACKWARD</a>)</div>
+<div class="line"><span class="lineno"> 1012</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../dd/ddc/a01802.html#af91f7580a89722b7dc45a018bb46fce4aace23680916adc6b61fe44054c841e57">MOVE_FLIGHT_BACK</a>;</div>
+<div class="line"><span class="lineno"> 1013</span> </div>
+<div class="line"><span class="lineno"> 1014</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../dd/ddc/a01802.html#af91f7580a89722b7dc45a018bb46fce4a2461b4a7be489c54989eff2c87ae1961">MOVE_FLIGHT</a>;</div>
+<div class="line"><span class="lineno"> 1015</span>    }</div>
+<div class="line"><span class="lineno"> 1016</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (moveFlags &amp; <a class="code hl_enumvalue" href="../../dd/ddc/a01802.html#a083358a25d084fb928e170c453128f9dac6db714f7fe6974e2ea3a3c45cbd92c4">MOVEMENTFLAG_SWIMMING</a>)</div>
+<div class="line"><span class="lineno"> 1017</span>    {</div>
+<div class="line"><span class="lineno"> 1018</span>        <span class="keywordflow">if</span> (moveFlags &amp; <a class="code hl_enumvalue" href="../../dd/ddc/a01802.html#a083358a25d084fb928e170c453128f9da4f594eeed0c7872fe36c885b032a4d00">MOVEMENTFLAG_BACKWARD</a>)</div>
+<div class="line"><span class="lineno"> 1019</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../dd/ddc/a01802.html#af91f7580a89722b7dc45a018bb46fce4ac2a44df3d73187f2e899d731f1e84908">MOVE_SWIM_BACK</a>;</div>
+<div class="line"><span class="lineno"> 1020</span> </div>
+<div class="line"><span class="lineno"> 1021</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../dd/ddc/a01802.html#af91f7580a89722b7dc45a018bb46fce4a611a24e7db53ef46584dcfb70d8343e5">MOVE_SWIM</a>;</div>
+<div class="line"><span class="lineno"> 1022</span>    }</div>
+<div class="line"><span class="lineno"> 1023</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (moveFlags &amp; <a class="code hl_enumvalue" href="../../dd/ddc/a01802.html#a083358a25d084fb928e170c453128f9daf3910f63fbfc30d508a4fd6a461ab84d">MOVEMENTFLAG_WALKING</a>)</div>
+<div class="line"><span class="lineno"> 1024</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../dd/ddc/a01802.html#af91f7580a89722b7dc45a018bb46fce4af13a74f1c064b7481beaace4e25531f1">MOVE_WALK</a>;</div>
+<div class="line"><span class="lineno"> 1025</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (moveFlags &amp; <a class="code hl_enumvalue" href="../../dd/ddc/a01802.html#a083358a25d084fb928e170c453128f9da4f594eeed0c7872fe36c885b032a4d00">MOVEMENTFLAG_BACKWARD</a>)</div>
+<div class="line"><span class="lineno"> 1026</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../dd/ddc/a01802.html#af91f7580a89722b7dc45a018bb46fce4ae5032445bbfb822102cc813971fbb6e2">MOVE_RUN_BACK</a>;</div>
+<div class="line"><span class="lineno"> 1027</span> </div>
+<div class="line"><span class="lineno"> 1028</span>    <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../dd/ddc/a01802.html#af91f7580a89722b7dc45a018bb46fce4ad231571a48b7742c2a432eb7a8a849de">MOVE_RUN</a>;</div>
+<div class="line"><span class="lineno"> 1029</span>}</div>
+<div class="ttc" id="aa01802_html_a083358a25d084fb928e170c453128f9da4f594eeed0c7872fe36c885b032a4d00"><div class="ttname"><a href="../../dd/ddc/a01802.html#a083358a25d084fb928e170c453128f9da4f594eeed0c7872fe36c885b032a4d00">MOVEMENTFLAG_BACKWARD</a></div><div class="ttdeci">@ MOVEMENTFLAG_BACKWARD</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:373</div></div>
+<div class="ttc" id="aa01802_html_a083358a25d084fb928e170c453128f9da8a3d672d9f1139c8c0b1a21f9b71ed7a"><div class="ttname"><a href="../../dd/ddc/a01802.html#a083358a25d084fb928e170c453128f9da8a3d672d9f1139c8c0b1a21f9b71ed7a">MOVEMENTFLAG_FLYING</a></div><div class="ttdeci">@ MOVEMENTFLAG_FLYING</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:397</div></div>
+<div class="ttc" id="aa01802_html_a083358a25d084fb928e170c453128f9dac6db714f7fe6974e2ea3a3c45cbd92c4"><div class="ttname"><a href="../../dd/ddc/a01802.html#a083358a25d084fb928e170c453128f9dac6db714f7fe6974e2ea3a3c45cbd92c4">MOVEMENTFLAG_SWIMMING</a></div><div class="ttdeci">@ MOVEMENTFLAG_SWIMMING</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:393</div></div>
+<div class="ttc" id="aa01802_html_a083358a25d084fb928e170c453128f9daf3910f63fbfc30d508a4fd6a461ab84d"><div class="ttname"><a href="../../dd/ddc/a01802.html#a083358a25d084fb928e170c453128f9daf3910f63fbfc30d508a4fd6a461ab84d">MOVEMENTFLAG_WALKING</a></div><div class="ttdeci">@ MOVEMENTFLAG_WALKING</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:380</div></div>
+<div class="ttc" id="aa01802_html_af91f7580a89722b7dc45a018bb46fce4a2461b4a7be489c54989eff2c87ae1961"><div class="ttname"><a href="../../dd/ddc/a01802.html#af91f7580a89722b7dc45a018bb46fce4a2461b4a7be489c54989eff2c87ae1961">MOVE_FLIGHT</a></div><div class="ttdeci">@ MOVE_FLIGHT</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:362</div></div>
+<div class="ttc" id="aa01802_html_af91f7580a89722b7dc45a018bb46fce4a611a24e7db53ef46584dcfb70d8343e5"><div class="ttname"><a href="../../dd/ddc/a01802.html#af91f7580a89722b7dc45a018bb46fce4a611a24e7db53ef46584dcfb70d8343e5">MOVE_SWIM</a></div><div class="ttdeci">@ MOVE_SWIM</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:359</div></div>
+<div class="ttc" id="aa01802_html_af91f7580a89722b7dc45a018bb46fce4aace23680916adc6b61fe44054c841e57"><div class="ttname"><a href="../../dd/ddc/a01802.html#af91f7580a89722b7dc45a018bb46fce4aace23680916adc6b61fe44054c841e57">MOVE_FLIGHT_BACK</a></div><div class="ttdeci">@ MOVE_FLIGHT_BACK</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:363</div></div>
+<div class="ttc" id="aa01802_html_af91f7580a89722b7dc45a018bb46fce4ac2a44df3d73187f2e899d731f1e84908"><div class="ttname"><a href="../../dd/ddc/a01802.html#af91f7580a89722b7dc45a018bb46fce4ac2a44df3d73187f2e899d731f1e84908">MOVE_SWIM_BACK</a></div><div class="ttdeci">@ MOVE_SWIM_BACK</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:360</div></div>
+<div class="ttc" id="aa01802_html_af91f7580a89722b7dc45a018bb46fce4ad231571a48b7742c2a432eb7a8a849de"><div class="ttname"><a href="../../dd/ddc/a01802.html#af91f7580a89722b7dc45a018bb46fce4ad231571a48b7742c2a432eb7a8a849de">MOVE_RUN</a></div><div class="ttdeci">@ MOVE_RUN</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:357</div></div>
+<div class="ttc" id="aa01802_html_af91f7580a89722b7dc45a018bb46fce4ae5032445bbfb822102cc813971fbb6e2"><div class="ttname"><a href="../../dd/ddc/a01802.html#af91f7580a89722b7dc45a018bb46fce4ae5032445bbfb822102cc813971fbb6e2">MOVE_RUN_BACK</a></div><div class="ttdeci">@ MOVE_RUN_BACK</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:358</div></div>
+<div class="ttc" id="aa01802_html_af91f7580a89722b7dc45a018bb46fce4af13a74f1c064b7481beaace4e25531f1"><div class="ttname"><a href="../../dd/ddc/a01802.html#af91f7580a89722b7dc45a018bb46fce4af13a74f1c064b7481beaace4e25531f1">MOVE_WALK</a></div><div class="ttdeci">@ MOVE_WALK</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:356</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00362">MOVE_FLIGHT</a>, <a class="el" href="../../#l00363">MOVE_FLIGHT_BACK</a>, <a class="el" href="../../#l00357">MOVE_RUN</a>, <a class="el" href="../../#l00358">MOVE_RUN_BACK</a>, <a class="el" href="../../#l00359">MOVE_SWIM</a>, <a class="el" href="../../#l00360">MOVE_SWIM_BACK</a>, <a class="el" href="../../#l00356">MOVE_WALK</a>, <a class="el" href="../../#l00373">MOVEMENTFLAG_BACKWARD</a>, <a class="el" href="../../#l00397">MOVEMENTFLAG_FLYING</a>, <a class="el" href="../../#l00393">MOVEMENTFLAG_SWIMMING</a>, and <a class="el" href="../../#l00380">MOVEMENTFLAG_WALKING</a>.</p>
+
+</div>
+</div>
+<a id="afad84c80474a806e8abb4626ccfbcfaf" name="afad84c80474a806e8abb4626ccfbcfaf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afad84c80474a806e8abb4626ccfbcfaf">&#9670;&#160;</a></span>HasExtraMovementFlag()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
         <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float &amp;&#160;</td>
-          <td class="paramname"><em>angle</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="memname">bool MovementInfo::HasExtraMovementFlag </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../de/d69/a04679.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td>
+          <td class="paramname"><em>flag</em></td><td>)</td>
+          <td> const</td>
         </tr>
       </table>
   </td>
@@ -727,265 +454,370 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  103</span>    {</div>
-<div class="line"><span class="lineno">  104</span>        <span class="comment">// next possible angle</span></div>
-<div class="line"><span class="lineno">  105</span>        angle  = <a class="code hl_variable" href="../../d5/d1d/a08851.html#a39bfdb4e3b3e3e3d902387c548bf81ff">m_smallStepAngle</a>[uptype] + <a class="code hl_variable" href="../../d5/d1d/a08851.html#ad33b5ad5af8ebfd14851085b5c67cc95">m_anglestep</a> * sign;</div>
-<div class="line"><span class="lineno">  106</span> </div>
-<div class="line"><span class="lineno">  107</span>        <span class="keywordflow">if</span> (std::fabs(angle) &gt; M_PI)</div>
-<div class="line"><span class="lineno">  108</span>        {</div>
-<div class="line"><span class="lineno">  109</span>            <a class="code hl_variable" href="../../d5/d1d/a08851.html#a7f798861b78a0b54ad121e6acb5e442c">m_smallStepOk</a>[uptype] = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  110</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  111</span>        }</div>
-<div class="line"><span class="lineno">  112</span> </div>
-<div class="line"><span class="lineno">  113</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d1d/a08851.html#aa98dfa81684059fe8f96f64d228e8d6b">m_smallStepNextUsedPos</a>[uptype])</div>
-<div class="line"><span class="lineno">  114</span>        {</div>
-<div class="line"><span class="lineno">  115</span>            <span class="keywordflow">if</span> (std::fabs(angle) &gt;= <a class="code hl_variable" href="../../d5/d1d/a08851.html#aa98dfa81684059fe8f96f64d228e8d6b">m_smallStepNextUsedPos</a>[uptype]-&gt;first)</div>
-<div class="line"><span class="lineno">  116</span>            {</div>
-<div class="line"><span class="lineno">  117</span>                <a class="code hl_variable" href="../../d5/d1d/a08851.html#a7f798861b78a0b54ad121e6acb5e442c">m_smallStepOk</a>[uptype] = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  118</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  119</span>            }</div>
-<div class="line"><span class="lineno">  120</span> </div>
-<div class="line"><span class="lineno">  121</span>            <span class="comment">// if next node permit use selected angle, then do it</span></div>
-<div class="line"><span class="lineno">  122</span>            <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d5/d1d/a08851.html#a678445810801988c429489ba187b28f0">CheckAngle</a>(*<a class="code hl_variable" href="../../d5/d1d/a08851.html#aa98dfa81684059fe8f96f64d228e8d6b">m_smallStepNextUsedPos</a>[uptype], sign, angle))</div>
-<div class="line"><span class="lineno">  123</span>            {</div>
-<div class="line"><span class="lineno">  124</span>                <a class="code hl_variable" href="../../d5/d1d/a08851.html#a7f798861b78a0b54ad121e6acb5e442c">m_smallStepOk</a>[uptype] = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  125</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  126</span>            }</div>
-<div class="line"><span class="lineno">  127</span>        }</div>
-<div class="line"><span class="lineno">  128</span> </div>
-<div class="line"><span class="lineno">  129</span>        <span class="comment">// possible more points</span></div>
-<div class="line"><span class="lineno">  130</span>        <a class="code hl_variable" href="../../d5/d1d/a08851.html#a39bfdb4e3b3e3e3d902387c548bf81ff">m_smallStepAngle</a>[uptype] = angle;</div>
-<div class="line"><span class="lineno">  131</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  132</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  360</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d5/d1d/a08851.html#aa8dc40a9829334f2ca7fa4e7347f91a5">flags2</a> &amp; flag; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00057">CheckAngle()</a>, <a class="el" href="../../#l00144">m_anglestep</a>, <a class="el" href="../../#l00150">m_smallStepAngle</a>, <a class="el" href="../../#l00152">m_smallStepNextUsedPos</a>, and <a class="el" href="../../#l00151">m_smallStepOk</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00299">flags2</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00112">NextPosibleAngle()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01082">WorldSession::ReadMovementInfo()</a>, and <a class="el" href="../../#l01196">WorldSession::WriteMovementInfo()</a>.</p>
 
 </div>
 </div>
-<a id="a779268da0c5b089c9752601543a0f856" name="a779268da0c5b089c9752601543a0f856"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a779268da0c5b089c9752601543a0f856">&#9670;&#160;</a></span>NextUsedAngle()</h2>
+<a id="ad9571cb899d58cc60fbe2412be79116e" name="ad9571cb899d58cc60fbe2412be79116e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad9571cb899d58cc60fbe2412be79116e">&#9670;&#160;</a></span>HasMovementFlag()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool MovementInfo::HasMovementFlag </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>flag</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  353</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d5/d1d/a08851.html#ab64213c21ac3cdfd769a5acdc7fce200">flags</a> &amp; flag; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00298">flags</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l02618">Player::CanFly()</a>, <a class="el" href="../../#l00556">npc_escortAI::GenerateWaypointArray()</a>, <a class="el" href="../../#l00173">SmartAI::GenerateWayPointArray()</a>, <a class="el" href="../../#l01496">WorldSession::HandleMoveFlagChangeOpcode()</a>, <a class="el" href="../../#l00997">WorldSession::HandleMoveRootAck()</a>, <a class="el" href="../../#l00430">WorldSession::HandleMoverRelocation()</a>, <a class="el" href="../../#l00204">WorldSession::HandleMoveSplineDoneOpcode()</a>, <a class="el" href="../../#l15505">Unit::IsFalling()</a>, <a class="el" href="../../#l01720">Unit::IsFlying()</a>, <a class="el" href="../../#l01717">Unit::IsHovering()</a>, <a class="el" href="../../#l01713">Unit::IsLevitating()</a>, <a class="el" href="../../#l01715">Unit::isMoving()</a>, <a class="el" href="../../#l01722">Unit::IsRooted()</a>, <a class="el" href="../../#l01718">Unit::isSwimming()</a>, <a class="el" href="../../#l01716">Unit::isTurning()</a>, <a class="el" href="../../#l01714">Unit::IsWalking()</a>, <a class="el" href="../../#l00173">Movement::MoveSplineInit::MoveSplineInit()</a>, <a class="el" href="../../#l00572">FollowMovementGenerator&lt; T &gt;::PositionOkay()</a>, <a class="el" href="../../#l00525">PredictPosition()</a>, <a class="el" href="../../#l01082">WorldSession::ReadMovementInfo()</a>, <a class="el" href="../../#l03495">Creature::UpdateMovementFlags()</a>, <a class="el" href="../../#l00531">WorldSession::VerifyMovementInfo()</a>, and <a class="el" href="../../#l01196">WorldSession::WriteMovementInfo()</a>.</p>
+
+</div>
+</div>
+<a id="af8c4c6db42364ec712398b317238c90b" name="af8c4c6db42364ec712398b317238c90b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af8c4c6db42364ec712398b317238c90b">&#9670;&#160;</a></span>OutDebug()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">bool ObjectPosSelector::NextUsedAngle </td>
+          <td class="memname">void MovementInfo::OutDebug </td>
           <td>(</td>
-          <td class="paramtype">float &amp;&#160;</td>
-          <td class="paramname"><em>angle</em></td><td>)</td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  100</span>{</div>
-<div class="line"><span class="lineno">  101</span>    <span class="keywordflow">while</span> (<a class="code hl_variable" href="../../d5/d1d/a08851.html#a56ff73252996b988d6d1ea384dad1de8">m_nextUsedPos</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>] != <a class="code hl_variable" href="../../d5/d1d/a08851.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e">USED_POS_PLUS</a>].end() ||</div>
-<div class="line"><span class="lineno">  102</span>            <a class="code hl_variable" href="../../d5/d1d/a08851.html#a56ff73252996b988d6d1ea384dad1de8">m_nextUsedPos</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>] != <a class="code hl_variable" href="../../d5/d1d/a08851.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[<a class="code hl_enumvalue" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816">USED_POS_MINUS</a>].end())</div>
-<div class="line"><span class="lineno">  103</span>    {</div>
-<div class="line"><span class="lineno">  104</span>        <span class="comment">// calculate next possible angle</span></div>
-<div class="line"><span class="lineno">  105</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d5/d1d/a08851.html#a3ca2304f7f268685b22db941d70fab36">NextPosibleAngle</a>(angle))</div>
-<div class="line"><span class="lineno">  106</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  107</span>    }</div>
-<div class="line"><span class="lineno">  108</span> </div>
-<div class="line"><span class="lineno">  109</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  110</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1032</span>{</div>
+<div class="line"><span class="lineno"> 1033</span>    <a class="code hl_define" href="../../dd/dcf/a04913.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;movement&quot;</span>, <span class="stringliteral">&quot;MOVEMENT INFO&quot;</span>);</div>
+<div class="line"><span class="lineno"> 1034</span>    <a class="code hl_define" href="../../dd/dcf/a04913.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;movement&quot;</span>, <span class="stringliteral">&quot;guid {}&quot;</span>, <a class="code hl_variable" href="../../d5/d1d/a08851.html#a10c1c9721558fd98d33bb43b3bfff837">guid</a>.<a class="code hl_function" href="../../d8/d0c/a08895.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>());</div>
+<div class="line"><span class="lineno"> 1035</span>    <a class="code hl_define" href="../../dd/dcf/a04913.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;movement&quot;</span>, <span class="stringliteral">&quot;flags {}&quot;</span>, <a class="code hl_variable" href="../../d5/d1d/a08851.html#ab64213c21ac3cdfd769a5acdc7fce200">flags</a>);</div>
+<div class="line"><span class="lineno"> 1036</span>    <a class="code hl_define" href="../../dd/dcf/a04913.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;movement&quot;</span>, <span class="stringliteral">&quot;flags2 {}&quot;</span>, <a class="code hl_variable" href="../../d5/d1d/a08851.html#aa8dc40a9829334f2ca7fa4e7347f91a5">flags2</a>);</div>
+<div class="line"><span class="lineno"> 1037</span>    <a class="code hl_define" href="../../dd/dcf/a04913.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;movement&quot;</span>, <span class="stringliteral">&quot;time {} current time {}&quot;</span>, <a class="code hl_variable" href="../../d5/d1d/a08851.html#aa8dc40a9829334f2ca7fa4e7347f91a5">flags2</a>, <a class="code hl_typedef" href="../../de/d69/a04679.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>(<a class="code hl_function" href="../../d6/d3b/a05202.html#adbe1785d1327dedf2ac403b7cc8e99c2">::GameTime::GetGameTime</a>().count()));</div>
+<div class="line"><span class="lineno"> 1038</span>    <a class="code hl_define" href="../../dd/dcf/a04913.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;movement&quot;</span>, <span class="stringliteral">&quot;position: `{}`&quot;</span>, <a class="code hl_variable" href="../../d5/d1d/a08851.html#afc5605f3e357e6ca4f2c681329bb0302">pos</a>.<a class="code hl_function" href="../../dc/de5/a08927.html#a3a41e36588db20c750b48569894a2753">ToString</a>());</div>
+<div class="line"><span class="lineno"> 1039</span> </div>
+<div class="line"><span class="lineno"> 1040</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d1d/a08851.html#ab64213c21ac3cdfd769a5acdc7fce200">flags</a> &amp; <a class="code hl_enumvalue" href="../../dd/ddc/a01802.html#a083358a25d084fb928e170c453128f9da4e14e61d036d1d8edeb90a5bae80c7e1">MOVEMENTFLAG_ONTRANSPORT</a>)</div>
+<div class="line"><span class="lineno"> 1041</span>    {</div>
+<div class="line"><span class="lineno"> 1042</span>        <a class="code hl_define" href="../../dd/dcf/a04913.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;movement&quot;</span>, <span class="stringliteral">&quot;TRANSPORT:&quot;</span>);</div>
+<div class="line"><span class="lineno"> 1043</span>        <a class="code hl_define" href="../../dd/dcf/a04913.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;movement&quot;</span>, <span class="stringliteral">&quot;guid: {}&quot;</span>, <a class="code hl_variable" href="../../d5/d1d/a08851.html#ac2b0f738ec695f4c9f032daad3e1f041">transport</a>.<a class="code hl_variable" href="../../de/d22/a08855.html#ac115013e34f67bc1444fef4fc96c843e">guid</a>.<a class="code hl_function" href="../../d8/d0c/a08895.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>());</div>
+<div class="line"><span class="lineno"> 1044</span>        <a class="code hl_define" href="../../dd/dcf/a04913.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;movement&quot;</span>, <span class="stringliteral">&quot;position: `{}`&quot;</span>, <a class="code hl_variable" href="../../d5/d1d/a08851.html#ac2b0f738ec695f4c9f032daad3e1f041">transport</a>.<a class="code hl_variable" href="../../de/d22/a08855.html#adff317cbf0c2d159d8ffddf52b4751b3">pos</a>.<a class="code hl_function" href="../../dc/de5/a08927.html#a3a41e36588db20c750b48569894a2753">ToString</a>());</div>
+<div class="line"><span class="lineno"> 1045</span>        <a class="code hl_define" href="../../dd/dcf/a04913.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;movement&quot;</span>, <span class="stringliteral">&quot;seat: {}&quot;</span>, <a class="code hl_variable" href="../../d5/d1d/a08851.html#ac2b0f738ec695f4c9f032daad3e1f041">transport</a>.<a class="code hl_variable" href="../../de/d22/a08855.html#ad57bea2ae3beb6a086a116989b0d528f">seat</a>);</div>
+<div class="line"><span class="lineno"> 1046</span>        <a class="code hl_define" href="../../dd/dcf/a04913.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;movement&quot;</span>, <span class="stringliteral">&quot;time: {}&quot;</span>, <a class="code hl_variable" href="../../d5/d1d/a08851.html#ac2b0f738ec695f4c9f032daad3e1f041">transport</a>.<a class="code hl_variable" href="../../de/d22/a08855.html#acec3991f0d19fd9f72e9837eef516057">time</a>);</div>
+<div class="line"><span class="lineno"> 1047</span> </div>
+<div class="line"><span class="lineno"> 1048</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d1d/a08851.html#aa8dc40a9829334f2ca7fa4e7347f91a5">flags2</a> &amp; <a class="code hl_enumvalue" href="../../dd/ddc/a01802.html#ad49d5d051bf6daf8c3608ad96b3d472fa359bb032784d5fa35746ee093d60abee">MOVEMENTFLAG2_INTERPOLATED_MOVEMENT</a>)</div>
+<div class="line"><span class="lineno"> 1049</span>        {</div>
+<div class="line"><span class="lineno"> 1050</span>            <a class="code hl_define" href="../../dd/dcf/a04913.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;movement&quot;</span>, <span class="stringliteral">&quot;time2: {}&quot;</span>, <a class="code hl_variable" href="../../d5/d1d/a08851.html#ac2b0f738ec695f4c9f032daad3e1f041">transport</a>.<a class="code hl_variable" href="../../de/d22/a08855.html#a426c651d2f359847b033a4d7f278a191">time2</a>);</div>
+<div class="line"><span class="lineno"> 1051</span>        }</div>
+<div class="line"><span class="lineno"> 1052</span>    }</div>
+<div class="line"><span class="lineno"> 1053</span> </div>
+<div class="line"><span class="lineno"> 1054</span>    <span class="keywordflow">if</span> ((<a class="code hl_variable" href="../../d5/d1d/a08851.html#ab64213c21ac3cdfd769a5acdc7fce200">flags</a> &amp; (<a class="code hl_enumvalue" href="../../dd/ddc/a01802.html#a083358a25d084fb928e170c453128f9dac6db714f7fe6974e2ea3a3c45cbd92c4">MOVEMENTFLAG_SWIMMING</a> | <a class="code hl_enumvalue" href="../../dd/ddc/a01802.html#a083358a25d084fb928e170c453128f9da8a3d672d9f1139c8c0b1a21f9b71ed7a">MOVEMENTFLAG_FLYING</a>)) || (<a class="code hl_variable" href="../../d5/d1d/a08851.html#aa8dc40a9829334f2ca7fa4e7347f91a5">flags2</a> &amp; <a class="code hl_enumvalue" href="../../dd/ddc/a01802.html#ad49d5d051bf6daf8c3608ad96b3d472fa2518e1d8b4542a671b7273ec8ac3fbca">MOVEMENTFLAG2_ALWAYS_ALLOW_PITCHING</a>))</div>
+<div class="line"><span class="lineno"> 1055</span>        <a class="code hl_define" href="../../dd/dcf/a04913.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;movement&quot;</span>, <span class="stringliteral">&quot;pitch: {}&quot;</span>, <a class="code hl_variable" href="../../d5/d1d/a08851.html#af2945943a91efc4cd5f2f9a0b86424cf">pitch</a>);</div>
+<div class="line"><span class="lineno"> 1056</span> </div>
+<div class="line"><span class="lineno"> 1057</span>    <a class="code hl_define" href="../../dd/dcf/a04913.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;movement&quot;</span>, <span class="stringliteral">&quot;fallTime: {}&quot;</span>, <a class="code hl_variable" href="../../d5/d1d/a08851.html#abcf42fcf7d61044fd9fb5e6857e21ab5">fallTime</a>);</div>
+<div class="line"><span class="lineno"> 1058</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d1d/a08851.html#ab64213c21ac3cdfd769a5acdc7fce200">flags</a> &amp; <a class="code hl_enumvalue" href="../../dd/ddc/a01802.html#a083358a25d084fb928e170c453128f9daa6566f4343ab1e0e02ec416a01c328c1">MOVEMENTFLAG_FALLING</a>)</div>
+<div class="line"><span class="lineno"> 1059</span>        <a class="code hl_define" href="../../dd/dcf/a04913.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;movement&quot;</span>, <span class="stringliteral">&quot;j_zspeed: {} j_sinAngle: {} j_cosAngle: {} j_xyspeed: {}&quot;</span>, <a class="code hl_variable" href="../../d5/d1d/a08851.html#a920a536b873fcc63dd6bb22882a7a8ea">jump</a>.<a class="code hl_variable" href="../../d3/d9e/a08859.html#ad0a5a36aeabc9b8d8ea27cecae30ae31">zspeed</a>, <a class="code hl_variable" href="../../d5/d1d/a08851.html#a920a536b873fcc63dd6bb22882a7a8ea">jump</a>.<a class="code hl_variable" href="../../d3/d9e/a08859.html#af2a184b7c8e7f324607a0b7468bcb8f6">sinAngle</a>, <a class="code hl_variable" href="../../d5/d1d/a08851.html#a920a536b873fcc63dd6bb22882a7a8ea">jump</a>.<a class="code hl_variable" href="../../d3/d9e/a08859.html#a37f49fc816f37dff8c1947f4de7f04d5">cosAngle</a>, <a class="code hl_variable" href="../../d5/d1d/a08851.html#a920a536b873fcc63dd6bb22882a7a8ea">jump</a>.<a class="code hl_variable" href="../../d3/d9e/a08859.html#a6fada60d677d89580c3a718d42a75d17">xyspeed</a>);</div>
+<div class="line"><span class="lineno"> 1060</span> </div>
+<div class="line"><span class="lineno"> 1061</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d1d/a08851.html#ab64213c21ac3cdfd769a5acdc7fce200">flags</a> &amp; <a class="code hl_enumvalue" href="../../dd/ddc/a01802.html#a083358a25d084fb928e170c453128f9dae5a84de70adc1c0e0ee4b27234af047a">MOVEMENTFLAG_SPLINE_ELEVATION</a>)</div>
+<div class="line"><span class="lineno"> 1062</span>        <a class="code hl_define" href="../../dd/dcf/a04913.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;movement&quot;</span>, <span class="stringliteral">&quot;splineElevation: {}&quot;</span>, <a class="code hl_variable" href="../../d5/d1d/a08851.html#ac524b47fa52b05e7c6a6b7c577c9291f">splineElevation</a>);</div>
+<div class="line"><span class="lineno"> 1063</span>}</div>
+<div class="ttc" id="aa01802_html_a083358a25d084fb928e170c453128f9da4e14e61d036d1d8edeb90a5bae80c7e1"><div class="ttname"><a href="../../dd/ddc/a01802.html#a083358a25d084fb928e170c453128f9da4e14e61d036d1d8edeb90a5bae80c7e1">MOVEMENTFLAG_ONTRANSPORT</a></div><div class="ttdeci">@ MOVEMENTFLAG_ONTRANSPORT</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:381</div></div>
+<div class="ttc" id="aa01802_html_a083358a25d084fb928e170c453128f9daa6566f4343ab1e0e02ec416a01c328c1"><div class="ttname"><a href="../../dd/ddc/a01802.html#a083358a25d084fb928e170c453128f9daa6566f4343ab1e0e02ec416a01c328c1">MOVEMENTFLAG_FALLING</a></div><div class="ttdeci">@ MOVEMENTFLAG_FALLING</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:384</div></div>
+<div class="ttc" id="aa01802_html_a083358a25d084fb928e170c453128f9dae5a84de70adc1c0e0ee4b27234af047a"><div class="ttname"><a href="../../dd/ddc/a01802.html#a083358a25d084fb928e170c453128f9dae5a84de70adc1c0e0ee4b27234af047a">MOVEMENTFLAG_SPLINE_ELEVATION</a></div><div class="ttdeci">@ MOVEMENTFLAG_SPLINE_ELEVATION</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:398</div></div>
+<div class="ttc" id="aa01802_html_ad49d5d051bf6daf8c3608ad96b3d472fa2518e1d8b4542a671b7273ec8ac3fbca"><div class="ttname"><a href="../../dd/ddc/a01802.html#ad49d5d051bf6daf8c3608ad96b3d472fa2518e1d8b4542a671b7273ec8ac3fbca">MOVEMENTFLAG2_ALWAYS_ALLOW_PITCHING</a></div><div class="ttdeci">@ MOVEMENTFLAG2_ALWAYS_ALLOW_PITCHING</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:435</div></div>
+<div class="ttc" id="aa01802_html_ad49d5d051bf6daf8c3608ad96b3d472fa359bb032784d5fa35746ee093d60abee"><div class="ttname"><a href="../../dd/ddc/a01802.html#ad49d5d051bf6daf8c3608ad96b3d472fa359bb032784d5fa35746ee093d60abee">MOVEMENTFLAG2_INTERPOLATED_MOVEMENT</a></div><div class="ttdeci">@ MOVEMENTFLAG2_INTERPOLATED_MOVEMENT</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:440</div></div>
+<div class="ttc" id="aa04679_html_ac4dd6ce78ce3b840c53bd4b3c63ed09b"><div class="ttname"><a href="../../de/d69/a04679.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a></div><div class="ttdeci">std::uint64_t uint64</div><div class="ttdef"><b>Definition:</b> Define.h:106</div></div>
+<div class="ttc" id="aa04913_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../dd/dcf/a04913.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:153</div></div>
+<div class="ttc" id="aa05202_html_adbe1785d1327dedf2ac403b7cc8e99c2"><div class="ttname"><a href="../../d6/d3b/a05202.html#adbe1785d1327dedf2ac403b7cc8e99c2">GameTime::GetGameTime</a></div><div class="ttdeci">Seconds GetGameTime()</div><div class="ttdef"><b>Definition:</b> GameTime.cpp:38</div></div>
+<div class="ttc" id="aa08851_html_a10c1c9721558fd98d33bb43b3bfff837"><div class="ttname"><a href="../../d5/d1d/a08851.html#a10c1c9721558fd98d33bb43b3bfff837">MovementInfo::guid</a></div><div class="ttdeci">ObjectGuid guid</div><div class="ttdef"><b>Definition:</b> Object.h:297</div></div>
+<div class="ttc" id="aa08851_html_abcf42fcf7d61044fd9fb5e6857e21ab5"><div class="ttname"><a href="../../d5/d1d/a08851.html#abcf42fcf7d61044fd9fb5e6857e21ab5">MovementInfo::fallTime</a></div><div class="ttdeci">uint32 fallTime</div><div class="ttdef"><b>Definition:</b> Object.h:326</div></div>
+<div class="ttc" id="aa08851_html_ac524b47fa52b05e7c6a6b7c577c9291f"><div class="ttname"><a href="../../d5/d1d/a08851.html#ac524b47fa52b05e7c6a6b7c577c9291f">MovementInfo::splineElevation</a></div><div class="ttdeci">float splineElevation</div><div class="ttdef"><b>Definition:</b> Object.h:340</div></div>
+<div class="ttc" id="aa08851_html_af2945943a91efc4cd5f2f9a0b86424cf"><div class="ttname"><a href="../../d5/d1d/a08851.html#af2945943a91efc4cd5f2f9a0b86424cf">MovementInfo::pitch</a></div><div class="ttdeci">float pitch</div><div class="ttdef"><b>Definition:</b> Object.h:323</div></div>
+<div class="ttc" id="aa08855_html_a426c651d2f359847b033a4d7f278a191"><div class="ttname"><a href="../../de/d22/a08855.html#a426c651d2f359847b033a4d7f278a191">MovementInfo::TransportInfo::time2</a></div><div class="ttdeci">uint32 time2</div><div class="ttdef"><b>Definition:</b> Object.h:319</div></div>
+<div class="ttc" id="aa08855_html_ac115013e34f67bc1444fef4fc96c843e"><div class="ttname"><a href="../../de/d22/a08855.html#ac115013e34f67bc1444fef4fc96c843e">MovementInfo::TransportInfo::guid</a></div><div class="ttdeci">ObjectGuid guid</div><div class="ttdef"><b>Definition:</b> Object.h:315</div></div>
+<div class="ttc" id="aa08855_html_acec3991f0d19fd9f72e9837eef516057"><div class="ttname"><a href="../../de/d22/a08855.html#acec3991f0d19fd9f72e9837eef516057">MovementInfo::TransportInfo::time</a></div><div class="ttdeci">uint32 time</div><div class="ttdef"><b>Definition:</b> Object.h:318</div></div>
+<div class="ttc" id="aa08855_html_ad57bea2ae3beb6a086a116989b0d528f"><div class="ttname"><a href="../../de/d22/a08855.html#ad57bea2ae3beb6a086a116989b0d528f">MovementInfo::TransportInfo::seat</a></div><div class="ttdeci">int8 seat</div><div class="ttdef"><b>Definition:</b> Object.h:317</div></div>
+<div class="ttc" id="aa08855_html_adff317cbf0c2d159d8ffddf52b4751b3"><div class="ttname"><a href="../../de/d22/a08855.html#adff317cbf0c2d159d8ffddf52b4751b3">MovementInfo::TransportInfo::pos</a></div><div class="ttdeci">Position pos</div><div class="ttdef"><b>Definition:</b> Object.h:316</div></div>
+<div class="ttc" id="aa08859_html_a37f49fc816f37dff8c1947f4de7f04d5"><div class="ttname"><a href="../../d3/d9e/a08859.html#a37f49fc816f37dff8c1947f4de7f04d5">MovementInfo::JumpInfo::cosAngle</a></div><div class="ttdeci">float cosAngle</div><div class="ttdef"><b>Definition:</b> Object.h:336</div></div>
+<div class="ttc" id="aa08859_html_a6fada60d677d89580c3a718d42a75d17"><div class="ttname"><a href="../../d3/d9e/a08859.html#a6fada60d677d89580c3a718d42a75d17">MovementInfo::JumpInfo::xyspeed</a></div><div class="ttdeci">float xyspeed</div><div class="ttdef"><b>Definition:</b> Object.h:336</div></div>
+<div class="ttc" id="aa08859_html_ad0a5a36aeabc9b8d8ea27cecae30ae31"><div class="ttname"><a href="../../d3/d9e/a08859.html#ad0a5a36aeabc9b8d8ea27cecae30ae31">MovementInfo::JumpInfo::zspeed</a></div><div class="ttdeci">float zspeed</div><div class="ttdef"><b>Definition:</b> Object.h:336</div></div>
+<div class="ttc" id="aa08859_html_af2a184b7c8e7f324607a0b7468bcb8f6"><div class="ttname"><a href="../../d3/d9e/a08859.html#af2a184b7c8e7f324607a0b7468bcb8f6">MovementInfo::JumpInfo::sinAngle</a></div><div class="ttdeci">float sinAngle</div><div class="ttdef"><b>Definition:</b> Object.h:336</div></div>
+<div class="ttc" id="aa08895_html_a78f5fb47e3b35addf8984000c175125b"><div class="ttname"><a href="../../d8/d0c/a08895.html#a78f5fb47e3b35addf8984000c175125b">ObjectGuid::ToString</a></div><div class="ttdeci">std::string ToString() const</div><div class="ttdef"><b>Definition:</b> ObjectGuid.cpp:48</div></div>
+<div class="ttc" id="aa08927_html_a3a41e36588db20c750b48569894a2753"><div class="ttname"><a href="../../dc/de5/a08927.html#a3a41e36588db20c750b48569894a2753">Position::ToString</a></div><div class="ttdeci">std::string ToString() const</div><div class="ttdef"><b>Definition:</b> Position.cpp:59</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00147">m_nextUsedPos</a>, <a class="el" href="../../#l00146">m_UsedPosLists</a>, <a class="el" href="../../#l00112">NextPosibleAngle()</a>, <a class="el" href="../../#l00025">USED_POS_MINUS</a>, and <a class="el" href="../../#l00025">USED_POS_PLUS</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00336">MovementInfo::JumpInfo::cosAngle</a>, <a class="el" href="../../#l00326">fallTime</a>, <a class="el" href="../../#l00298">flags</a>, <a class="el" href="../../#l00299">flags2</a>, <a class="el" href="../../#l00038">GameTime::GetGameTime()</a>, <a class="el" href="../../#l00297">guid</a>, <a class="el" href="../../#l00315">MovementInfo::TransportInfo::guid</a>, <a class="el" href="../../d5/d1d/a08851.html#a920a536b873fcc63dd6bb22882a7a8ea">jump</a>, <a class="el" href="../../#l00153">LOG_INFO</a>, <a class="el" href="../../#l00435">MOVEMENTFLAG2_ALWAYS_ALLOW_PITCHING</a>, <a class="el" href="../../#l00440">MOVEMENTFLAG2_INTERPOLATED_MOVEMENT</a>, <a class="el" href="../../#l00384">MOVEMENTFLAG_FALLING</a>, <a class="el" href="../../#l00397">MOVEMENTFLAG_FLYING</a>, <a class="el" href="../../#l00381">MOVEMENTFLAG_ONTRANSPORT</a>, <a class="el" href="../../#l00398">MOVEMENTFLAG_SPLINE_ELEVATION</a>, <a class="el" href="../../#l00393">MOVEMENTFLAG_SWIMMING</a>, <a class="el" href="../../#l00323">pitch</a>, <a class="el" href="../../#l00300">pos</a>, <a class="el" href="../../#l00316">MovementInfo::TransportInfo::pos</a>, <a class="el" href="../../#l00317">MovementInfo::TransportInfo::seat</a>, <a class="el" href="../../#l00336">MovementInfo::JumpInfo::sinAngle</a>, <a class="el" href="../../#l00340">splineElevation</a>, <a class="el" href="../../#l00318">MovementInfo::TransportInfo::time</a>, <a class="el" href="../../#l00319">MovementInfo::TransportInfo::time2</a>, <a class="el" href="../../#l00048">ObjectGuid::ToString()</a>, <a class="el" href="../../#l00059">Position::ToString()</a>, <a class="el" href="../../d5/d1d/a08851.html#ac2b0f738ec695f4c9f032daad3e1f041">transport</a>, <a class="el" href="../../#l00336">MovementInfo::JumpInfo::xyspeed</a>, and <a class="el" href="../../#l00336">MovementInfo::JumpInfo::zspeed</a>.</p>
 
 </div>
 </div>
-<a id="a93e3a877fef90a3fa933addeb53e3e8e" name="a93e3a877fef90a3fa933addeb53e3e8e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a93e3a877fef90a3fa933addeb53e3e8e">&#9670;&#160;</a></span>nextUsedPos()</h2>
+<a id="ab38114c14a8848a082b4f265eab11c72" name="ab38114c14a8848a082b4f265eab11c72"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab38114c14a8848a082b4f265eab11c72">&#9670;&#160;</a></span>RemoveMovementFlag()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">ObjectPosSelector::UsedPosList::value_type const  * ObjectPosSelector::nextUsedPos </td>
+          <td class="memname">void MovementInfo::RemoveMovementFlag </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../de/d1a/a01559.html#a2f1e7723f9d73cff4490d29d2b3df397">UsedPosType</a>&#160;</td>
-          <td class="paramname"><em>uptype</em></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>flag</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   39</span>{</div>
-<div class="line"><span class="lineno">   40</span>    UsedPosList::const_iterator itr = <a class="code hl_variable" href="../../d5/d1d/a08851.html#a56ff73252996b988d6d1ea384dad1de8">m_nextUsedPos</a>[uptype];</div>
-<div class="line"><span class="lineno">   41</span>    <span class="keywordflow">if</span> (itr != <a class="code hl_variable" href="../../d5/d1d/a08851.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[uptype].end())</div>
-<div class="line"><span class="lineno">   42</span>        ++itr;</div>
-<div class="line"><span class="lineno">   43</span> </div>
-<div class="line"><span class="lineno">   44</span>    <span class="keywordflow">if</span> (itr == <a class="code hl_variable" href="../../d5/d1d/a08851.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[uptype].end())</div>
-<div class="line"><span class="lineno">   45</span>    {</div>
-<div class="line"><span class="lineno">   46</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d5/d1d/a08851.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[~uptype].empty())</div>
-<div class="line"><span class="lineno">   47</span>            <span class="keywordflow">return</span> &amp;*<a class="code hl_variable" href="../../d5/d1d/a08851.html#afa4cdf73a3473398e0fa2106b6680e55">m_UsedPosLists</a>[~uptype].rbegin();</div>
-<div class="line"><span class="lineno">   48</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">   49</span>            <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">   50</span>    }</div>
-<div class="line"><span class="lineno">   51</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">   52</span>        <span class="keywordflow">return</span> &amp;*itr;</div>
-<div class="line"><span class="lineno">   53</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  352</span>{ <a class="code hl_variable" href="../../d5/d1d/a08851.html#ab64213c21ac3cdfd769a5acdc7fce200">flags</a> &amp;= ~flag; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00147">m_nextUsedPos</a>, and <a class="el" href="../../#l00146">m_UsedPosLists</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00298">flags</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00057">CheckAngle()</a>, and <a class="el" href="../../#l00076">NextAngleFor()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00045">DynamicObject::CleanupsBeforeDelete()</a>, <a class="el" href="../../#l00120">GameObject::CleanupsBeforeDelete()</a>, <a class="el" href="../../#l00189">MotionTransport::CleanupsBeforeDelete()</a>, <a class="el" href="../../#l00942">StaticTransport::CleanupsBeforeDelete()</a>, <a class="el" href="../../#l12196">Unit::CleanupsBeforeDelete()</a>, <a class="el" href="../../#l00763">Unit::DisableSpline()</a>, <a class="el" href="../../#l00430">WorldSession::HandleMoverRelocation()</a>, <a class="el" href="../../#l00051">WorldSession::HandleMoveWorldportAck()</a>, <a class="el" href="../../#l00807">WorldSession::HandlePlayerLoginFromDB()</a>, <a class="el" href="../../#l01147">WorldSession::HandlePlayerLoginToCharInWorld()</a>, <a class="el" href="../../#l05023">Player::LoadFromDB()</a>, <a class="el" href="../../#l14057">Unit::SendMoveRoot()</a>, <a class="el" href="../../#l16139">Unit::SetCanFly()</a>, <a class="el" href="../../#l16079">Unit::SetDisableGravity()</a>, <a class="el" href="../../#l16175">Unit::SetFeatherFall()</a>, <a class="el" href="../../#l16216">Unit::SetHover()</a>, <a class="el" href="../../#l16269">Unit::SetWaterWalking()</a>, <a class="el" href="../../#l00129">Movement::MoveSplineInit::Stop()</a>, and <a class="el" href="../../#l01401">Player::TeleportTo()</a>.</p>
+
+</div>
+</div>
+<a id="a683565ad0865709083e81d07a8ce1395" name="a683565ad0865709083e81d07a8ce1395"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a683565ad0865709083e81d07a8ce1395">&#9670;&#160;</a></span>SetFallTime()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void MovementInfo::SetFallTime </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>newFallTime</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  362</span>{ <a class="code hl_variable" href="../../d5/d1d/a08851.html#abcf42fcf7d61044fd9fb5e6857e21ab5">fallTime</a> = newFallTime; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00326">fallTime</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00698">MotionMaster::MoveFall()</a>.</p>
+
+</div>
+</div>
+<a id="ace324e7171c3520efdce76d2bbc75c67" name="ace324e7171c3520efdce76d2bbc75c67"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ace324e7171c3520efdce76d2bbc75c67">&#9670;&#160;</a></span>SetMovementFlags()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void MovementInfo::SetMovementFlags </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>flag</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  350</span>{ <a class="code hl_variable" href="../../d5/d1d/a08851.html#ab64213c21ac3cdfd769a5acdc7fce200">flags</a> = flag; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00298">flags</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00035">Movement::MoveSplineInit::Launch()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="ad33b5ad5af8ebfd14851085b5c67cc95" name="ad33b5ad5af8ebfd14851085b5c67cc95"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad33b5ad5af8ebfd14851085b5c67cc95">&#9670;&#160;</a></span>m_anglestep</h2>
+<a id="abcf42fcf7d61044fd9fb5e6857e21ab5" name="abcf42fcf7d61044fd9fb5e6857e21ab5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abcf42fcf7d61044fd9fb5e6857e21ab5">&#9670;&#160;</a></span>fallTime</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">float ObjectPosSelector::m_anglestep</td>
+          <td class="memname"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> MovementInfo::fallTime {0}</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00102">NextSmallStepAngle()</a>, and <a class="el" href="../../#l00020">ObjectPosSelector()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l15453">Unit::BuildMovementPacket()</a>, <a class="el" href="../../#l14196">Player::HandleFall()</a>, <a class="el" href="../../#l01031">OutDebug()</a>, <a class="el" href="../../#l01082">WorldSession::ReadMovementInfo()</a>, <a class="el" href="../../#l00362">SetFallTime()</a>, <a class="el" href="../../#l02210">Player::UpdateFallInformationIfNeed()</a>, and <a class="el" href="../../#l01196">WorldSession::WriteMovementInfo()</a>.</p>
 
 </div>
 </div>
-<a id="a25ec0d7656c52f0a9c4b24ea81e37771" name="a25ec0d7656c52f0a9c4b24ea81e37771"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a25ec0d7656c52f0a9c4b24ea81e37771">&#9670;&#160;</a></span>m_center_x</h2>
+<a id="ab64213c21ac3cdfd769a5acdc7fce200" name="ab64213c21ac3cdfd769a5acdc7fce200"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab64213c21ac3cdfd769a5acdc7fce200">&#9670;&#160;</a></span>flags</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">float ObjectPosSelector::m_center_x</td>
+          <td class="memname"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> MovementInfo::flags {0}</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
+<p class="reference">Referenced by <a class="el" href="../../#l00351">AddMovementFlag()</a>, <a class="el" href="../../#l00349">MotionTransport::AddPassenger()</a>, <a class="el" href="../../#l01123">StaticTransport::AddPassenger()</a>, <a class="el" href="../../#l00773">Unit::AddUnitMovementFlag()</a>, <a class="el" href="../../#l00349">GetMovementFlags()</a>, <a class="el" href="../../#l00355">GetSpeedType()</a>, <a class="el" href="../../#l00776">Unit::GetUnitMovementFlags()</a>, <a class="el" href="../../#l01496">WorldSession::HandleMoveFlagChangeOpcode()</a>, <a class="el" href="../../#l00430">WorldSession::HandleMoverRelocation()</a>, <a class="el" href="../../#l00353">HasMovementFlag()</a>, <a class="el" href="../../#l00775">Unit::HasUnitMovementFlag()</a>, <a class="el" href="../../#l01031">OutDebug()</a>, <a class="el" href="../../#l00614">WorldSession::ProcessMovementInfo()</a>, <a class="el" href="../../#l01082">WorldSession::ReadMovementInfo()</a>, <a class="el" href="../../#l00352">RemoveMovementFlag()</a>, <a class="el" href="../../#l00378">MotionTransport::RemovePassenger()</a>, <a class="el" href="../../#l01147">StaticTransport::RemovePassenger()</a>, <a class="el" href="../../#l00774">Unit::RemoveUnitMovementFlag()</a>, <a class="el" href="../../#l00350">SetMovementFlags()</a>, <a class="el" href="../../#l00777">Unit::SetUnitMovementFlags()</a>, and <a class="el" href="../../#l01196">WorldSession::WriteMovementInfo()</a>.</p>
+
 </div>
 </div>
-<a id="aa0d25b2794648c6a1f6895632e8a10ea" name="aa0d25b2794648c6a1f6895632e8a10ea"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa0d25b2794648c6a1f6895632e8a10ea">&#9670;&#160;</a></span>m_center_y</h2>
+<a id="aa8dc40a9829334f2ca7fa4e7347f91a5" name="aa8dc40a9829334f2ca7fa4e7347f91a5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa8dc40a9829334f2ca7fa4e7347f91a5">&#9670;&#160;</a></span>flags2</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">float ObjectPosSelector::m_center_y</td>
+          <td class="memname"><a class="el" href="../../de/d69/a04679.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> MovementInfo::flags2 {0}</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
+<p class="reference">Referenced by <a class="el" href="../../#l00359">AddExtraMovementFlag()</a>, <a class="el" href="../../#l00779">Unit::AddExtraUnitMovementFlag()</a>, <a class="el" href="../../#l15453">Unit::BuildMovementPacket()</a>, <a class="el" href="../../#l00358">GetExtraMovementFlags()</a>, <a class="el" href="../../#l00782">Unit::GetExtraUnitMovementFlags()</a>, <a class="el" href="../../#l00360">HasExtraMovementFlag()</a>, <a class="el" href="../../#l00781">Unit::HasExtraUnitMovementFlag()</a>, <a class="el" href="../../#l01031">OutDebug()</a>, <a class="el" href="../../#l01082">WorldSession::ReadMovementInfo()</a>, <a class="el" href="../../#l00780">Unit::RemoveExtraUnitMovementFlag()</a>, <a class="el" href="../../#l00783">Unit::SetExtraUnitMovementFlags()</a>, and <a class="el" href="../../#l01196">WorldSession::WriteMovementInfo()</a>.</p>
+
 </div>
 </div>
-<a id="a7b6cf79a4806aff044b3f6b7d9181aaf" name="a7b6cf79a4806aff044b3f6b7d9181aaf"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7b6cf79a4806aff044b3f6b7d9181aaf">&#9670;&#160;</a></span>m_dist</h2>
+<a id="a10c1c9721558fd98d33bb43b3bfff837" name="a10c1c9721558fd98d33bb43b3bfff837"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a10c1c9721558fd98d33bb43b3bfff837">&#9670;&#160;</a></span>guid</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">float ObjectPosSelector::m_dist</td>
+          <td class="memname"><a class="el" href="../../d8/d0c/a08895.html">ObjectGuid</a> MovementInfo::guid</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00138">GetAngle()</a>, and <a class="el" href="../../#l00020">ObjectPosSelector()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00061">WorldSession::HandleChangeSeatsOnControlledVehicle()</a>, <a class="el" href="../../#l00026">WorldSession::HandleDismissControlledVehicle()</a>, <a class="el" href="../../#l00678">WorldSession::HandleForceSpeedChangeAck()</a>, <a class="el" href="../../#l01496">WorldSession::HandleMoveFlagChangeOpcode()</a>, <a class="el" href="../../#l00824">WorldSession::HandleMoveKnockBackAck()</a>, <a class="el" href="../../#l00362">WorldSession::HandleMovementOpcodes()</a>, <a class="el" href="../../#l00795">WorldSession::HandleMoveNotActiveMover()</a>, <a class="el" href="../../#l00997">WorldSession::HandleMoveRootAck()</a>, <a class="el" href="../../#l01031">OutDebug()</a>, and <a class="el" href="../../#l01196">WorldSession::WriteMovementInfo()</a>.</p>
 
 </div>
 </div>
-<a id="a56ff73252996b988d6d1ea384dad1de8" name="a56ff73252996b988d6d1ea384dad1de8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a56ff73252996b988d6d1ea384dad1de8">&#9670;&#160;</a></span>m_nextUsedPos</h2>
+<a id="a920a536b873fcc63dd6bb22882a7a8ea" name="a920a536b873fcc63dd6bb22882a7a8ea"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a920a536b873fcc63dd6bb22882a7a8ea">&#9670;&#160;</a></span>jump</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">UsedPosList::const_iterator ObjectPosSelector::m_nextUsedPos[2]</td>
+          <td class="memname">struct <a class="el" href="../../d3/d9e/a08859.html">MovementInfo::JumpInfo</a> MovementInfo::jump</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00063">InitializeAngle()</a>, <a class="el" href="../../#l00085">NextAngle()</a>, <a class="el" href="../../#l00112">NextPosibleAngle()</a>, <a class="el" href="../../#l00099">NextUsedAngle()</a>, <a class="el" href="../../#l00038">nextUsedPos()</a>, and <a class="el" href="../../#l00020">ObjectPosSelector()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l15453">Unit::BuildMovementPacket()</a>, <a class="el" href="../../#l00342">MovementInfo()</a>, <a class="el" href="../../#l01031">OutDebug()</a>, <a class="el" href="../../#l01082">WorldSession::ReadMovementInfo()</a>, and <a class="el" href="../../#l01196">WorldSession::WriteMovementInfo()</a>.</p>
 
 </div>
 </div>
-<a id="a3a61d5b8187c602ba5a2213283b5139c" name="a3a61d5b8187c602ba5a2213283b5139c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3a61d5b8187c602ba5a2213283b5139c">&#9670;&#160;</a></span>m_size</h2>
+<a id="af2945943a91efc4cd5f2f9a0b86424cf" name="af2945943a91efc4cd5f2f9a0b86424cf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af2945943a91efc4cd5f2f9a0b86424cf">&#9670;&#160;</a></span>pitch</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">float ObjectPosSelector::m_size</td>
+          <td class="memname">float MovementInfo::pitch {0.0f}</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00138">GetAngle()</a>, and <a class="el" href="../../#l00020">ObjectPosSelector()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l15453">Unit::BuildMovementPacket()</a>, <a class="el" href="../../#l01031">OutDebug()</a>, <a class="el" href="../../#l01082">WorldSession::ReadMovementInfo()</a>, and <a class="el" href="../../#l01196">WorldSession::WriteMovementInfo()</a>.</p>
 
 </div>
 </div>
-<a id="a39bfdb4e3b3e3e3d902387c548bf81ff" name="a39bfdb4e3b3e3e3d902387c548bf81ff"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a39bfdb4e3b3e3e3d902387c548bf81ff">&#9670;&#160;</a></span>m_smallStepAngle</h2>
+<a id="afc5605f3e357e6ca4f2c681329bb0302" name="afc5605f3e357e6ca4f2c681329bb0302"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afc5605f3e357e6ca4f2c681329bb0302">&#9670;&#160;</a></span>pos</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">float ObjectPosSelector::m_smallStepAngle[2]</td>
+          <td class="memname"><a class="el" href="../../dc/de5/a08927.html">Position</a> MovementInfo::pos</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00063">InitializeAngle()</a>, <a class="el" href="../../#l00076">NextAngleFor()</a>, <a class="el" href="../../#l00112">NextPosibleAngle()</a>, <a class="el" href="../../#l00102">NextSmallStepAngle()</a>, and <a class="el" href="../../#l00020">ObjectPosSelector()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l14196">Player::HandleFall()</a>, <a class="el" href="../../#l00430">WorldSession::HandleMoverRelocation()</a>, <a class="el" href="../../#l00342">MovementInfo()</a>, <a class="el" href="../../#l01031">OutDebug()</a>, <a class="el" href="../../#l00614">WorldSession::ProcessMovementInfo()</a>, <a class="el" href="../../#l01082">WorldSession::ReadMovementInfo()</a>, <a class="el" href="../../#l02210">Player::UpdateFallInformationIfNeed()</a>, <a class="el" href="../../#l00531">WorldSession::VerifyMovementInfo()</a>, and <a class="el" href="../../#l01196">WorldSession::WriteMovementInfo()</a>.</p>
 
 </div>
 </div>
-<a id="aa98dfa81684059fe8f96f64d228e8d6b" name="aa98dfa81684059fe8f96f64d228e8d6b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa98dfa81684059fe8f96f64d228e8d6b">&#9670;&#160;</a></span>m_smallStepNextUsedPos</h2>
+<a id="ac524b47fa52b05e7c6a6b7c577c9291f" name="ac524b47fa52b05e7c6a6b7c577c9291f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac524b47fa52b05e7c6a6b7c577c9291f">&#9670;&#160;</a></span>splineElevation</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">UsedPosList::value_type const* ObjectPosSelector::m_smallStepNextUsedPos[2]</td>
+          <td class="memname">float MovementInfo::splineElevation {0.0f}</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00076">NextAngleFor()</a>, <a class="el" href="../../#l00102">NextSmallStepAngle()</a>, and <a class="el" href="../../#l00020">ObjectPosSelector()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l15453">Unit::BuildMovementPacket()</a>, <a class="el" href="../../#l01031">OutDebug()</a>, <a class="el" href="../../#l01082">WorldSession::ReadMovementInfo()</a>, and <a class="el" href="../../#l01196">WorldSession::WriteMovementInfo()</a>.</p>
 
 </div>
 </div>
-<a id="a7f798861b78a0b54ad121e6acb5e442c" name="a7f798861b78a0b54ad121e6acb5e442c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7f798861b78a0b54ad121e6acb5e442c">&#9670;&#160;</a></span>m_smallStepOk</h2>
+<a id="a90c332cb1b99ce1ac6eab39bc2a6e4b2" name="a90c332cb1b99ce1ac6eab39bc2a6e4b2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a90c332cb1b99ce1ac6eab39bc2a6e4b2">&#9670;&#160;</a></span>time</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">bool ObjectPosSelector::m_smallStepOk[2]</td>
+          <td class="memname"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> MovementInfo::time {0}</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00063">InitializeAngle()</a>, <a class="el" href="../../#l00085">NextAngle()</a>, <a class="el" href="../../#l00076">NextAngleFor()</a>, <a class="el" href="../../#l00112">NextPosibleAngle()</a>, <a class="el" href="../../#l00102">NextSmallStepAngle()</a>, and <a class="el" href="../../#l00020">ObjectPosSelector()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00894">WorldSession::HandleMoveTimeSkippedOpcode()</a>, <a class="el" href="../../#l01082">WorldSession::ReadMovementInfo()</a>, <a class="el" href="../../#l00416">WorldSession::SynchronizeMovement()</a>, and <a class="el" href="../../#l01196">WorldSession::WriteMovementInfo()</a>.</p>
 
 </div>
 </div>
-<a id="afa4cdf73a3473398e0fa2106b6680e55" name="afa4cdf73a3473398e0fa2106b6680e55"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afa4cdf73a3473398e0fa2106b6680e55">&#9670;&#160;</a></span>m_UsedPosLists</h2>
+<a id="ac2b0f738ec695f4c9f032daad3e1f041" name="ac2b0f738ec695f4c9f032daad3e1f041"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac2b0f738ec695f4c9f032daad3e1f041">&#9670;&#160;</a></span>transport</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d5/d1d/a08851.html#a76a3553e006171560baf7aa7cc2bc163">UsedPosList</a> ObjectPosSelector::m_UsedPosLists[2]</td>
+          <td class="memname">struct <a class="el" href="../../de/d22/a08855.html">MovementInfo::TransportInfo</a> MovementInfo::transport</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00055">AddUsedPos()</a>, <a class="el" href="../../#l00068">CheckOriginal()</a>, <a class="el" href="../../#l00075">FirstAngle()</a>, <a class="el" href="../../#l00063">InitializeAngle()</a>, <a class="el" href="../../#l00074">IsNonBalanced()</a>, <a class="el" href="../../#l00085">NextAngle()</a>, <a class="el" href="../../#l00112">NextPosibleAngle()</a>, <a class="el" href="../../#l00099">NextUsedAngle()</a>, <a class="el" href="../../#l00038">nextUsedPos()</a>, and <a class="el" href="../../#l00020">ObjectPosSelector()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01261">WorldObject::_IsWithinDist()</a>, <a class="el" href="../../#l00346">Vehicle::AddPassenger()</a>, <a class="el" href="../../#l00349">MotionTransport::AddPassenger()</a>, <a class="el" href="../../#l01123">StaticTransport::AddPassenger()</a>, <a class="el" href="../../#l15453">Unit::BuildMovementPacket()</a>, <a class="el" href="../../#l00817">WorldSession::BuildPartyMemberStatsChangedPacket()</a>, <a class="el" href="../../#l00045">DynamicObject::CleanupsBeforeDelete()</a>, <a class="el" href="../../#l00120">GameObject::CleanupsBeforeDelete()</a>, <a class="el" href="../../#l00189">MotionTransport::CleanupsBeforeDelete()</a>, <a class="el" href="../../#l00942">StaticTransport::CleanupsBeforeDelete()</a>, <a class="el" href="../../#l12196">Unit::CleanupsBeforeDelete()</a>, <a class="el" href="../../#l00454">MotionTransport::CreateGOPassenger()</a>, <a class="el" href="../../#l00403">MotionTransport::CreateNPCPassenger()</a>, <a class="el" href="../../#l00642">MotionTransport::DelayedTeleportTransport()</a>, <a class="el" href="../../#l00705">WorldObject::GetTransOffsetO()</a>, <a class="el" href="../../#l00702">WorldObject::GetTransOffsetX()</a>, <a class="el" href="../../#l00703">WorldObject::GetTransOffsetY()</a>, <a class="el" href="../../#l00704">WorldObject::GetTransOffsetZ()</a>, <a class="el" href="../../#l00707">WorldObject::GetTransSeat()</a>, <a class="el" href="../../#l00706">WorldObject::GetTransTime()</a>, <a class="el" href="../../#l00756">misc_commandscript::HandleAppearCommand()</a>, <a class="el" href="../../#l00565">misc_commandscript::HandleGPSCommand()</a>, <a class="el" href="../../#l00430">WorldSession::HandleMoverRelocation()</a>, <a class="el" href="../../#l00051">WorldSession::HandleMoveWorldportAck()</a>, <a class="el" href="../../#l00807">WorldSession::HandlePlayerLoginFromDB()</a>, <a class="el" href="../../#l01003">WorldSession::HandleRequestPartyMemberStatsOpcode()</a>, <a class="el" href="../../#l00035">Movement::MoveSplineInit::Launch()</a>, <a class="el" href="../../#l05023">Player::LoadFromDB()</a>, <a class="el" href="../../#l00342">MovementInfo()</a>, <a class="el" href="../../#l01031">OutDebug()</a>, <a class="el" href="../../#l00614">WorldSession::ProcessMovementInfo()</a>, <a class="el" href="../../#l01082">WorldSession::ReadMovementInfo()</a>, <a class="el" href="../../#l02056">spell_igb_teleport_to_enemy_ship::RelocateTransportOffset()</a>, <a class="el" href="../../#l00489">Vehicle::RemovePassenger()</a>, <a class="el" href="../../#l00378">MotionTransport::RemovePassenger()</a>, <a class="el" href="../../#l01147">StaticTransport::RemovePassenger()</a>, <a class="el" href="../../#l00129">Movement::MoveSplineInit::Stop()</a>, <a class="el" href="../../#l01401">Player::TeleportTo()</a>, <a class="el" href="../../#l01079">StaticTransport::UpdatePassengerPositions()</a>, <a class="el" href="../../#l00726">MotionTransport::UpdatePassengerPositions()</a>, <a class="el" href="../../#l00734">Unit::UpdateSplinePosition()</a>, <a class="el" href="../../#l00531">WorldSession::VerifyMovementInfo()</a>, and <a class="el" href="../../#l01196">WorldSession::WriteMovementInfo()</a>.</p>
 
 </div>
 </div>
@@ -994,8 +826,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d5/d1d/a08851.html">ObjectPosSelector</a></li>
-    <li class="footer">Generated on Tue Sep 1 2026 00:09:30 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d5/d1d/a08851.html">MovementInfo</a></li>
+    <li class="footer">Generated on Mon Sep 21 2026 23:33:56 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

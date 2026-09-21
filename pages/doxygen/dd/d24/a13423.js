@@ -1,8 +1,13 @@
 var a13423 =
 [
-    [ "CheckProc", "dd/d24/a13423.html#a085f6affd2bf76fe66f9023e67725848", null ],
-    [ "HandleProc", "dd/d24/a13423.html#ae5c0f54c072fa5f4bb69af0acd74053c", null ],
-    [ "PrepareAuraScript", "dd/d24/a13423.html#a001de2ce29c768b328b93c66c6aca2f9", null ],
-    [ "Register", "dd/d24/a13423.html#ad4db3b85cab89e4922ac4935b0cdcbd5", null ],
-    [ "Validate", "dd/d24/a13423.html#a42ae1d2f846815480dc02e7e5f92527e", null ]
+    [ "boss_crone", "dd/d24/a13423.html#a710bdf6fac05be54cf10e40cd661c837", null ],
+    [ "EnterEvadeMode", "dd/d24/a13423.html#a4dcdde0b699f445cfa6be7e0c7dbb8d0", null ],
+    [ "JustDied", "dd/d24/a13423.html#a545de2a25b48590d11896c41b6e94df0", null ],
+    [ "JustEngagedWith", "dd/d24/a13423.html#a9801cd39667d1a08770820bd17beac00", null ],
+    [ "JustReachedHome", "dd/d24/a13423.html#a59d40cda923cb8b72413b9d5f267f52a", null ],
+    [ "KilledUnit", "dd/d24/a13423.html#ae4d343636955589d740d1df4e21fba99", null ],
+    [ "Reset", "dd/d24/a13423.html#a247db7fc1329ef00e48fd9bd09fb27a1", null ],
+    [ "UpdateAI", "dd/d24/a13423.html#a8bd505acd55ca5292d29c96916a461e5", null ],
+    [ "_scheduler", "dd/d24/a13423.html#a7f9e2e45c0bbb60fc19dd54bc380f814", null ],
+    [ "instance", "dd/d24/a13423.html#a3795fe3185005693ed9bba49177bb35a", null ]
 ];

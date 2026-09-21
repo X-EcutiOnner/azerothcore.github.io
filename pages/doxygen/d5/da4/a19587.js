@@ -1,6 +1,12 @@
 var a19587 =
 [
-    [ "boss_maexxnaAI", "d5/d9c/a19591.html", "d5/d9c/a19591" ],
-    [ "boss_maexxna", "d5/da4/a19587.html#ae47a789ac8abe50932b9e000c83b02b2", null ],
-    [ "GetAI", "d5/da4/a19587.html#ab438df4cb61625da35552ca7c867dc64", null ]
+    [ "npc_gothik_triggerAI", "d5/da4/a19587.html#ae45c6de238755eb069e0c182943da58c", null ],
+    [ "DamageTaken", "d5/da4/a19587.html#ada8e501edfadbb55162532f081a4b48b", null ],
+    [ "EnterEvadeMode", "d5/da4/a19587.html#aae212c3aecdf82f509ed0bf841f16e59", null ],
+    [ "JustEngagedWith", "d5/da4/a19587.html#ab5403383f1fcd539cacf975dffbe2817", null ],
+    [ "JustSummoned", "d5/da4/a19587.html#a35be0135b77a3e62ac8d421910cf0674", null ],
+    [ "SelectRandomSkullPile", "d5/da4/a19587.html#aeafc63047c9059afdf668b8c22d2937f", null ],
+    [ "SpellHit", "d5/da4/a19587.html#a18a8135ab0395991afc4896950783ae5", null ],
+    [ "SummonedCreatureDespawn", "d5/da4/a19587.html#ad7ed092509dd41fddd44a4024c011364", null ],
+    [ "UpdateAI", "d5/da4/a19587.html#a388a20d6d720f5f44a67073fc40e98b6", null ]
 ];

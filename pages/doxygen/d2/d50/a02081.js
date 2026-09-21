@@ -1,8 +1,8 @@
 var a02081 =
 [
-    [ "SelectableAI", "dd/db0/a06609.html", "dd/db0/a06609" ],
-    [ "CreatureAIFactory< REAL_AI >", "dc/d96/a06613.html", "dc/d96/a06613" ],
-    [ "sCreatureAIRegistry", "d2/d50/a02081.html#a08e073e90e01d97b74e2331f15bf6122", null ],
-    [ "CreatureAICreator", "d2/d50/a02081.html#a0979444cdc957651f0b4bc9e3c24934b", null ],
-    [ "CreatureAIRegistry", "d2/d50/a02081.html#a3eebee4b886bee76d38357a472a9a5ae", null ]
+    [ "ePoints", "d2/d50/a02081.html#a2604bd06487e34b78d3e50cd892f3c4d", [
+      [ "POINT_LAST_POINT", "d2/d50/a02081.html#a2604bd06487e34b78d3e50cd892f3c4da7d10089a0c5a8c42786b90cd3ba643cb", null ],
+      [ "POINT_HOME", "d2/d50/a02081.html#a2604bd06487e34b78d3e50cd892f3c4da032be97ee26935943c3313fb24491162", null ],
+      [ "POINT_COMBAT_START", "da/d14/a02066.html#a2604bd06487e34b78d3e50cd892f3c4da91adf90069f0b0a515897fbdc91e20b4", null ]
+    ] ]
 ];

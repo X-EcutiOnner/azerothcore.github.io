@@ -1,14 +1,7 @@
 var a10191 =
 [
-    [ "ServerMailMgr", "dd/d4e/a10191.html#aeec2235e9dd9b36b868634d850f02a5b", null ],
-    [ "~ServerMailMgr", "dd/d4e/a10191.html#adba54af38e90ecae21e79835910ba195", null ],
-    [ "ConditionTypeUsesConditionState", "dd/d4e/a10191.html#a2e7a8cdc7ebdb51204823fd30a0449b3", null ],
-    [ "GetAllServerMailStore", "dd/d4e/a10191.html#acb4521f696c6f11c977dc9d8b76e0c16", null ],
-    [ "GetServerMailConditionType", "dd/d4e/a10191.html#a57f8aea4b5bb15ff77b9ebd8e65e8092", null ],
-    [ "instance", "dd/d4e/a10191.html#abc85cb07f717384fac09f4e2b0f59af1", null ],
-    [ "LoadMailServerTemplates", "dd/d4e/a10191.html#a1a01dd7a8e5c45bc7c97203e4a04a768", null ],
-    [ "LoadMailServerTemplatesConditions", "dd/d4e/a10191.html#a6bb75bdb34a25dd01fdc7e81b4e9b897", null ],
-    [ "LoadMailServerTemplatesItems", "dd/d4e/a10191.html#a49aea924f27804d21fbe06e72e159df3", null ],
-    [ "SendServerMail", "dd/d4e/a10191.html#a85c3556138304b75ad3dec0014e56def", null ],
-    [ "_serverMailStore", "dd/d4e/a10191.html#a96ae3a78694ca97d112c5d92884f2415", null ]
+    [ "QuestItem", "dd/d4e/a10191.html#a1d6e1d5de83a397b17115dbeba2a58b3", null ],
+    [ "QuestItem", "dd/d4e/a10191.html#a51b978ee64ec979ebe097f3b3f4c3cd0", null ],
+    [ "index", "dd/d4e/a10191.html#a0e48289882a1eabb6c8ff30032193bd2", null ],
+    [ "is_looted", "dd/d4e/a10191.html#a48f2baabd2d5a07313dc38a27c6f4713", null ]
 ];

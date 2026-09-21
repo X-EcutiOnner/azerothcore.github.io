@@ -1,6 +1,6 @@
 var a06579 =
 [
-    [ "PermissibleOrderPred", "de/d5f/a06579.html#a0f99979c533fb388a2086f419c110f2b", null ],
-    [ "operator()", "de/d5f/a06579.html#a42027be1e7cb7a3589caeafea25d2f75", null ],
-    [ "_obj", "de/d5f/a06579.html#a5872cf90e79107749c4900cb471b2f16", null ]
+    [ "KillMagnetEvent", "de/d5f/a06579.html#a1f044cb51674faebe45c0e2119601b59", null ],
+    [ "Execute", "de/d5f/a06579.html#a2905731d24060dfa7c2069b05adfa2b2", null ],
+    [ "_self", "de/d5f/a06579.html#a0fe06efbc00b38f98f2e077d7dfb1941", null ]
 ];

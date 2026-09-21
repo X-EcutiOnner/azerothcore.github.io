@@ -1,6 +1,8 @@
 var a21659 =
 [
-    [ "npc_hidden_cultistAI", "d3/d28/a21663.html", "d3/d28/a21663" ],
-    [ "npc_hidden_cultist", "d3/d2e/a21659.html#ab455b35fea966360e01fb8975adad989", null ],
-    [ "GetAI", "d3/d2e/a21659.html#a4897006d9416f1177b0bc0e41df60293", null ]
+    [ "npc_azure_sorceror", "d3/d2e/a21659.html#afd53ae322f8387b5e5fe55e28612ce2f", null ],
+    [ "Reset", "d3/d2e/a21659.html#af4bc0ff9b938302c399bff528dd06769", null ],
+    [ "UpdateAI", "d3/d2e/a21659.html#a36675e89aab24a92589a33f88fbec2bd", null ],
+    [ "_arcaneStreamOnCooldown", "d3/d2e/a21659.html#a462d57b8e8cd01a9ec1bd59a453f6ab5", null ],
+    [ "_events", "d3/d2e/a21659.html#a3bd018057b31c90afd19ac6943d44591", null ]
 ];

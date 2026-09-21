@@ -1,7 +1,6 @@
 var a21107 =
 [
-    [ "HandleScriptEffect", "d0/db2/a21107.html#a173ee086127655cdfcca507fd5b15b2e", null ],
-    [ "PrepareSpellScript", "d0/db2/a21107.html#a005d47b18a820c35ec596b5539db94eb", null ],
-    [ "Register", "d0/db2/a21107.html#a20a0d554e80707c1517422cb747f38e8", null ],
-    [ "Validate", "d0/db2/a21107.html#a5ca44686e26def56adc2b98d88145235", null ]
+    [ "boss_yoggsaron_descend_portal", "d0/db2/a21107.html#aa64788351819e9c7f5505c929818770d", null ],
+    [ "OnSpellClick", "d0/db2/a21107.html#af72e8c3611b5e134e39ab9695405e08e", null ],
+    [ "_instance", "d0/db2/a21107.html#a6b430a5f4045cdf3c3524208f02d53d2", null ]
 ];

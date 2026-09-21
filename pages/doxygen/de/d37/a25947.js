@@ -1,6 +1,5 @@
 var a25947 =
 [
-    [ "PrepareSpellScript", "de/d37/a25947.html#a72e57e8a4bdb9a4fcd73e3519b6025ea", null ],
-    [ "Register", "de/d37/a25947.html#aac4d3c8ecde3652c65c05abad5c8eaeb", null ],
-    [ "SelectTarget", "de/d37/a25947.html#a3153b6c6814922cd7220e19b06f2a602", null ]
+    [ "PrepareSpellScript", "de/d37/a25947.html#acb39fd85035670fb98dcea66c29b2ff7", null ],
+    [ "Register", "de/d37/a25947.html#a7fe416070962ba582d59ddff70c13590", null ]
 ];

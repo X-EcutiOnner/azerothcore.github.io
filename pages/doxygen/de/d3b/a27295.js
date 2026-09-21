@@ -1,8 +1,8 @@
 var a27295 =
 [
-    [ "HandleScript", "de/d3b/a27295.html#a1e096b2b2f5a285e660f64fb133f4f8b", null ],
-    [ "Load", "de/d3b/a27295.html#ad4e3fecb64bbb0f5c63b90d445c0b9f3", null ],
-    [ "PrepareSpellScript", "de/d3b/a27295.html#a5c4b2a46dfd6bdc2d14ee02f673628c1", null ],
-    [ "Register", "de/d3b/a27295.html#aa823af94e3366ae799ebaf03e52411dd", null ],
-    [ "Validate", "de/d3b/a27295.html#ad6985954002f88436a2681e758f41fb2", null ]
+    [ "Load", "de/d3b/a27295.html#a510f81e77597ef55a87b4f77fa324b2b", null ],
+    [ "OnRemove", "de/d3b/a27295.html#a8b3a3678d1864e630173ab8eb4d504da", null ],
+    [ "PrepareAuraScript", "de/d3b/a27295.html#a1a98b0d8059d5ae47688c2c9bd0486bd", null ],
+    [ "Register", "de/d3b/a27295.html#ae7ed739883e30015e99b6ab5d6cb3f39", null ],
+    [ "Validate", "de/d3b/a27295.html#a3820e716d20809896c84c1ca781af4d1", null ]
 ];

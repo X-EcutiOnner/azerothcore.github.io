@@ -1,6 +1,7 @@
 var a16955 =
 [
-    [ "npc_toc_boomkinAI", "d8/d6a/a16959.html", "d8/d6a/a16959" ],
-    [ "npc_toc_boomkin", "df/d80/a16955.html#a17274ff748cd364592a551ad2c547eac", null ],
-    [ "GetAI", "df/d80/a16955.html#a626fe854faade9bd96cd60b9e6e970bd", null ]
+    [ "HandleEffectPeriodic", "df/d80/a16955.html#a7d6d15b8eecfcfb4c36d6504920bd119", null ],
+    [ "PrepareAuraScript", "df/d80/a16955.html#a4506f7d723b85c7555296f5ade11cd29", null ],
+    [ "Register", "df/d80/a16955.html#aeac7e6abc89209e14451439cdf1d416e", null ],
+    [ "Validate", "df/d80/a16955.html#a9d6f9cd0495de03878ed5137542ea89d", null ]
 ];

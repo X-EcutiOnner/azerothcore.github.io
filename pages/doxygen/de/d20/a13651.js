@@ -1,6 +1,7 @@
 var a13651 =
 [
-    [ "instance_sunken_temple_InstanceMapScript", "d5/d78/a13655.html", "d5/d78/a13655" ],
-    [ "instance_sunken_temple", "de/d20/a13651.html#a123b052c1cd1487588c88bf2611bc53b", null ],
-    [ "GetInstanceScript", "de/d20/a13651.html#a1a783056b681f1f3b90e2e33e6a4a86d", null ]
+    [ "npc_apothecary_genericAI", "de/d20/a13651.html#afb2b04b51e28d0795e7781effa68dffd", null ],
+    [ "DoAction", "de/d20/a13651.html#a59074beefbd3d80104b64f8ecc2ef8e0", null ],
+    [ "MovementInform", "de/d20/a13651.html#a63530bd7c3ebcd66521a268e11bf2f93", null ],
+    [ "_movePos", "de/d20/a13651.html#a53d10ab64df212b043cc21e054f6528c", null ]
 ];

@@ -1,8 +1,8 @@
 var a26731 =
 [
-    [ "HandleApply", "d9/d4f/a26731.html#aafdf3712f163919f010d11d0becb398f", null ],
-    [ "HandleRemove", "d9/d4f/a26731.html#ac3e33cb37d13b633f3938a48917a4975", null ],
-    [ "PrepareAuraScript", "d9/d4f/a26731.html#a42590a0ef43a48c5309f995f9bec5c9b", null ],
-    [ "Register", "d9/d4f/a26731.html#a84e7337494dc2e1772ca10dea26c675f", null ],
-    [ "Validate", "d9/d4f/a26731.html#ac2558aafb3ce66ca7bbfd718eb8c6338", null ]
+    [ "HandleProc", "d9/d4f/a26731.html#ab98571b7f614d66c44c25d0d2c6aa738", null ],
+    [ "PrepareAuraScript", "d9/d4f/a26731.html#a194c83ebc29c4522b5fc313a3ab4d1dd", null ],
+    [ "Register", "d9/d4f/a26731.html#a6dfd4dc774e58a8881b20a31d4c1be56", null ],
+    [ "Validate", "d9/d4f/a26731.html#a886d2b1a2bf2f25bde5248edcef9733d", null ],
+    [ "_critStreak", "d9/d4f/a26731.html#a4a8e3c9d8754844d74e72cb328c44221", null ]
 ];

@@ -1,7 +1,9 @@
 var a09771 =
 [
-    [ "AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck", "d8/d88/a09771.html#a038f512c564e4ae18571ac1836897edb", null ],
-    [ "operator()", "d8/d88/a09771.html#a3bc09bf6fc4481c67190f57dc4198f6e", null ],
-    [ "i_funit", "d8/d88/a09771.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6", null ],
-    [ "i_range", "d8/d88/a09771.html#a953943e53e25b6887bfab8cc1c19620a", null ]
+    [ "PlayerDistWorker", "d8/d88/a09771.html#a53c207607485724ba7c3aa5e9fd02b51", null ],
+    [ "Visit", "d8/d88/a09771.html#a6cb5d9bdf26bc96a24e5660ca3b3758b", null ],
+    [ "Visit", "d8/d88/a09771.html#a2658f12f90953f1057a9377b21824879", null ],
+    [ "i_dist", "d8/d88/a09771.html#aad16511b6a9aaa3eb561f636475ffe97", null ],
+    [ "i_do", "d8/d88/a09771.html#a0e1738a71d7feda9f607ee964ff1fff2", null ],
+    [ "i_searcher", "d8/d88/a09771.html#a3a3bf9b1a4bd06c54c99ceb7ba39941f", null ]
 ];

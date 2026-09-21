@@ -1,6 +1,10 @@
 var a25791 =
 [
-    [ "CheckProc", "d7/d2f/a25791.html#a393946dd3404c4b03a9a8ced7913ccaa", null ],
-    [ "PrepareAuraScript", "d7/d2f/a25791.html#ae28075d0d66c99fb77a2c7fef678f4e2", null ],
-    [ "Register", "d7/d2f/a25791.html#a3e0279f7dc724b4d49bfda4f0e417353", null ]
+    [ "Load", "d7/d2f/a25791.html#a04526f30ad35af3f629cdd0c8312e33c", null ],
+    [ "OnApply", "d7/d2f/a25791.html#a83d922c434442e22482410d61aa0198f", null ],
+    [ "OnPetApply", "d7/d2f/a25791.html#a6df5e59e29cb89310a1c78bf93029545", null ],
+    [ "OnRemove", "d7/d2f/a25791.html#aa4efa4ed7d98c63989353c398bb2b128", null ],
+    [ "PrepareAuraScript", "d7/d2f/a25791.html#a1b4d8f636c01f01bc9380c290de91a0e", null ],
+    [ "Register", "d7/d2f/a25791.html#a265726c9bfa180c3b8f470eb1eee837b", null ],
+    [ "Validate", "d7/d2f/a25791.html#ab318472ea9f4aaa79e45f18783586eed", null ]
 ];

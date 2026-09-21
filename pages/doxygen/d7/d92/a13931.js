@@ -1,6 +1,6 @@
 var a13931 =
 [
-    [ "instance_the_stockade_InstanceMapScript", "d4/d4b/a13935.html", "d4/d4b/a13935" ],
-    [ "instance_the_stockade", "d7/d92/a13931.html#a533049c10a72da4b94f9807017f28c0d", null ],
-    [ "GetInstanceScript", "d7/d92/a13931.html#a7a5a4adcd71ae5d22e6729a2d11d68d3", null ]
+    [ "PrepareSpellScript", "d7/d92/a13931.html#a6a9436d744865971e635f23c2b331688", null ],
+    [ "Register", "d7/d92/a13931.html#a5f8a755040c9972e1bd6f68ceacf3dff", null ],
+    [ "SetDest", "d7/d92/a13931.html#a2d43c0d5230f7be2d9a33e8527fd8c02", null ]
 ];

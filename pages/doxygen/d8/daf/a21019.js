@@ -1,6 +1,9 @@
 var a21019 =
 [
-    [ "boss_yoggsaron_influence_tentacle", "d8/daf/a21019.html#ac5908d64a4749303a08d352d470995dd", null ],
-    [ "DamageTaken", "d8/daf/a21019.html#a0e76ab78b378ba4262dfb603e7634dfb", null ],
-    [ "JustDied", "d8/daf/a21019.html#a9fac83d89c8c5810b2b5a25d0228c741", null ]
+    [ "GetRandomToyPile", "d8/daf/a21019.html#a4e119696b212c6a57f11b284c2bb0c82", null ],
+    [ "HandleScript", "d8/daf/a21019.html#a62eb106c6a55406adc682b372a94aaef", null ],
+    [ "PrepareSpellScript", "d8/daf/a21019.html#acb19b4f65324ce419004e969274c4816", null ],
+    [ "Register", "d8/daf/a21019.html#aba572e339d50b51cb33d04270d29b733", null ],
+    [ "Validate", "d8/daf/a21019.html#a59acb2775caa76c05797d7c8dfd0f3fb", null ],
+    [ "ToyPileSearchDistance", "d8/daf/a21019.html#aa7c7f5e7298e89e431464105d5d8bbdf", null ]
 ];

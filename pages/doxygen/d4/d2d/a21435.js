@@ -1,7 +1,9 @@
 var a21435 =
 [
-    [ "HandleDummy", "d4/d2d/a21435.html#af524c771ef3a314f3c1dbaacae4f4538", null ],
-    [ "PrepareSpellScript", "d4/d2d/a21435.html#a2ad8abf39847c79ac5bc53093c487fc0", null ],
-    [ "Register", "d4/d2d/a21435.html#a45a33c0b51ed6c1dfed8d52d2f99e239", null ],
-    [ "Validate", "d4/d2d/a21435.html#a92f99501ee1582873586d2405b224f4f", null ]
+    [ "CastTheNextTwoSpells", "d4/d2d/a21435.html#a70a154ea5c19c36630e94c5214ee6722", null ],
+    [ "OnPeriodic", "d4/d2d/a21435.html#ac9b99d9328affec2787691f80e0cc9c3", null ],
+    [ "PrepareAuraScript", "d4/d2d/a21435.html#ac7450be0713ce98e7986d322a58289f6", null ],
+    [ "PushBackTheNextTwoSpells", "d4/d2d/a21435.html#a9e470116c80cf56b425e344d73e44533", null ],
+    [ "Register", "d4/d2d/a21435.html#ad948e7cb5a64ed5bd202c10b28285d9c", null ],
+    [ "_summonSpells", "d4/d2d/a21435.html#a578dbb8c828e3acf36b21a38628c94e1", null ]
 ];

@@ -1,17 +1,8 @@
 var a19055 =
 [
-    [ "boss_sister_svalnaAI", "d6/d51/a19055.html#a8ffe7c40e6de53455caa86e1487c1234", null ],
-    [ "DoAction", "d6/d51/a19055.html#a43c5be9641399b1fec35ef9b34d4fa7b", null ],
-    [ "InitializeAI", "d6/d51/a19055.html#a6b709adc055b4be2824319d9ee881993", null ],
-    [ "JustDied", "d6/d51/a19055.html#ab397adda97c8b21e9a53edccdadb8760", null ],
-    [ "JustEngagedWith", "d6/d51/a19055.html#af930733e0f143c7fd0f214043b7fa9ef", null ],
-    [ "JustExitedCombat", "d6/d51/a19055.html#a0555e77ec8a37965ff32d5b4e58ab12b", null ],
-    [ "JustReachedHome", "d6/d51/a19055.html#a48aa3470b84686a6277616ed1b2d8364", null ],
-    [ "KilledUnit", "d6/d51/a19055.html#a95c259d62cd4aab4a0b8a38ba98feb7a", null ],
-    [ "MovementInform", "d6/d51/a19055.html#a4f1da0ead975b554704f4a068b1edb1d", null ],
-    [ "Reset", "d6/d51/a19055.html#a4ba1ac914a7ae5c3b229d648b8fac9ee", null ],
-    [ "SpellHit", "d6/d51/a19055.html#a9b5533f2f3a985f42bac098cc08e4cd1", null ],
-    [ "SpellHitTarget", "d6/d51/a19055.html#a5236b715548c9c1b310a3227f8bf2bc8", null ],
-    [ "UpdateAI", "d6/d51/a19055.html#a87e4f558db85e2c1ec192d35bde1eb8a", null ],
-    [ "_isEventInProgress", "d6/d51/a19055.html#a0da237e729301c8db3ceccea2b0988b1", null ]
+    [ "Load", "d6/d51/a19055.html#a3a5fa4814a7724db0ba7be5c5158798b", null ],
+    [ "PeriodicTick", "d6/d51/a19055.html#a4ff0ab22db0bbd4483ddb379de069c48", null ],
+    [ "PrepareAuraScript", "d6/d51/a19055.html#a029820fbfc34af4d0ccb825a9f9d2b0d", null ],
+    [ "Register", "d6/d51/a19055.html#a909819dde9d5154f3d2cf04b04fa33f7", null ],
+    [ "_instance", "d6/d51/a19055.html#aebebb858f2ae41f2260d6843b3da8052", null ]
 ];

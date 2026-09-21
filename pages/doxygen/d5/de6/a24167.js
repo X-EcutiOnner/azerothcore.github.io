@@ -1,5 +1,5 @@
 var a24167 =
 [
-    [ "go_warmaul_prison", "d5/de6/a24167.html#adffbb532d7ee3c5a67543fe15ce5b67b", null ],
-    [ "OnGossipHello", "d5/de6/a24167.html#ac9e66eeb30bf951d37f2d0917a295705", null ]
+    [ "go_simon_cluster", "d5/de6/a24167.html#adac53a8451abd6ace227a66afc7e61e8", null ],
+    [ "OnGossipHello", "d5/de6/a24167.html#a9fd9799604de44c91803511c45b67786", null ]
 ];

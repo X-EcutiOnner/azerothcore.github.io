@@ -1,7 +1,7 @@
 var a13039 =
 [
-    [ "HandleHit", "d4/dbc/a13039.html#a18f86449945ade16140ee934a7d8703e", null ],
-    [ "PrepareSpellScript", "d4/dbc/a13039.html#abaf09043858db27b05fbe544d7a15a8f", null ],
-    [ "Register", "d4/dbc/a13039.html#abe0733be2e32ff616c48acaeeb1d39e9", null ],
-    [ "Validate", "d4/dbc/a13039.html#abc970a8b4a8f27f81f392cebf81dc574", null ]
+    [ "HandlePeriodic", "d4/dbc/a13039.html#ac2196cc9de34e286581d44d147fe9d04", null ],
+    [ "PrepareAuraScript", "d4/dbc/a13039.html#a149c974371f23268d2d929b483637b14", null ],
+    [ "Register", "d4/dbc/a13039.html#a6a2f42867a7082d2b8406c651d5dc484", null ],
+    [ "Validate", "d4/dbc/a13039.html#ab77b8a7dca3dc9bbd20cdb498d1d317e", null ]
 ];

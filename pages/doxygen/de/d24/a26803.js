@@ -1,8 +1,16 @@
 var a26803 =
 [
-    [ "CheckProc", "de/d24/a26803.html#a7796d6b90bb3452d75d28e5a6a3e6287", null ],
-    [ "HandleProc", "de/d24/a26803.html#ab456eb468477ae465f058b05ea45aaeb", null ],
-    [ "PrepareAuraScript", "de/d24/a26803.html#a9d255b2878f11e0ce9f9ffa81f7e4b0e", null ],
-    [ "Register", "de/d24/a26803.html#a9c285da0ae22011d01eeed7415d37d42", null ],
-    [ "Validate", "de/d24/a26803.html#a714d9b7afc9ae0dd190030309f1e83ca", null ]
+    [ "Spell", "de/d24/a26803.html#ae62bcfdf7168a58818ffc8b302cffcb7", [
+      [ "PAL_SPELL_ARDENT_DEFENDER_DEBUFF", "de/d24/a26803.html#ae62bcfdf7168a58818ffc8b302cffcb7a85895054b57340dab995dc14f826314b", null ],
+      [ "PAL_SPELL_ARDENT_DEFENDER_HEAL", "de/d24/a26803.html#ae62bcfdf7168a58818ffc8b302cffcb7a717b484434bc8fda128b67bd90a123fe", null ]
+    ] ],
+    [ "spell_pal_ardent_defender", "de/d24/a26803.html#a9bc7f72089287dbac352b308489c7781", null ],
+    [ "Absorb", "de/d24/a26803.html#aee6b0b00078a880dc5ed6684991ee8c8", null ],
+    [ "CalculateAmount", "de/d24/a26803.html#a749742ceb8be20f5d327becbea7c64d5", null ],
+    [ "Load", "de/d24/a26803.html#a3718265890fad2a6c6d53b5f401d16dd", null ],
+    [ "PrepareAuraScript", "de/d24/a26803.html#a33dd57579e724aee0c6f2a8d767fc3c8", null ],
+    [ "Register", "de/d24/a26803.html#af405994d4be5f11ce63028d0dba1e1da", null ],
+    [ "Validate", "de/d24/a26803.html#a74fafd4bde88c2e581cac555a131b39d", null ],
+    [ "absorbPct", "de/d24/a26803.html#a408fe2ab57ae0adcf803c71b5f6cd724", null ],
+    [ "healPct", "de/d24/a26803.html#a325024973959856c000f380b0bfc3bda", null ]
 ];

@@ -1,6 +1,10 @@
 var a21723 =
 [
-    [ "npc_mei_francis_mountAI", "d5/d11/a21727.html", "d5/d11/a21727" ],
-    [ "npc_mei_francis_mount", "d8/dc2/a21723.html#ab34facb1d4d9a542710340493488eaa8", null ],
-    [ "GetAI", "d8/dc2/a21723.html#ac1f14e0b94662432b399d6dfeb8a8107", null ]
+    [ "npc_imprisoned_beryl_sorcererAI", "d8/dc2/a21723.html#a0a8159a84689dbfd8c69ed523ce03817", null ],
+    [ "GotStinged", "d8/dc2/a21723.html#a0729c584c3b65e5f25f4445de378f0ea", null ],
+    [ "JustEngagedWith", "d8/dc2/a21723.html#a2f3e45b3f762ede62aa94a6ae3f2909f", null ],
+    [ "Reset", "d8/dc2/a21723.html#aedc82ee3bfa193a838d5af62533e19b4", null ],
+    [ "SpellHit", "d8/dc2/a21723.html#a2010b53b3a8ad1e0aa6ecb5a26c8b6c9", null ],
+    [ "UpdateAI", "d8/dc2/a21723.html#a21def23073eeec051c1c97a813e0ea84", null ],
+    [ "rebuff", "d8/dc2/a21723.html#ac83c25091fdd3c7876a88927b758261f", null ]
 ];

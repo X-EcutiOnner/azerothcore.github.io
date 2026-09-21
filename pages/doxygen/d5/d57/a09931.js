@@ -1,8 +1,8 @@
 var a09931 =
 [
-    [ "flags", "d5/d57/a09931.html#a7ecce103d428ed7f91aa12fa5547561c", null ],
-    [ "group", "d5/d57/a09931.html#a0902606d44c8baa1a20b5b2cdd9b4787", null ],
-    [ "guid", "d5/d57/a09931.html#a97a20b4ccf1978165a5f5c7ff4ffb2b4", null ],
-    [ "name", "d5/d57/a09931.html#ab0719bb9805048b58a3e4c75e09d1ee7", null ],
-    [ "roles", "d5/d57/a09931.html#a2109aae0b3ebf74b065b97cc929c2954", null ]
+    [ "MostHPMissingGroupInRange", "d5/d57/a09931.html#ab7cd80daa30d8a39289c704cc0a2064f", null ],
+    [ "operator()", "d5/d57/a09931.html#ad1b4a4894dd652237a7a789ef5619f4b", null ],
+    [ "i_hp", "d5/d57/a09931.html#ae61cafc52cb6d33cd78422c41bd3bb08", null ],
+    [ "i_obj", "d5/d57/a09931.html#ae0d85f9738301b40c3e950b02ee20026", null ],
+    [ "i_range", "d5/d57/a09931.html#a712e9b1ff341ccde4a6d6962ba6002a4", null ]
 ];

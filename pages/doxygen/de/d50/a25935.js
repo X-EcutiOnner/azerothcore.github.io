@@ -1,6 +1,5 @@
 var a25935 =
 [
-    [ "HandleScriptEffect", "de/d50/a25935.html#a94bbfc928beab8c8f27d84d1c9ab1558", null ],
-    [ "PrepareSpellScript", "de/d50/a25935.html#a479832175a4c77ce0c0a2f3d3f98f08c", null ],
-    [ "Register", "de/d50/a25935.html#aff9efad03d94958c29c84ea3c0d19fdb", null ]
+    [ "PrepareSpellScript", "de/d50/a25935.html#a9137654c01f41c735f477b85e4ec6d73", null ],
+    [ "Register", "de/d50/a25935.html#af1002e90bc0801c0759393d2d4af8778", null ]
 ];

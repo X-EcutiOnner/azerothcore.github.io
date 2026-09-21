@@ -1,6 +1,10 @@
 var a24723 =
 [
-    [ "CalculateAmount", "dd/db3/a24723.html#ada4514ba7769ebceeed1e0ab1c3a33e8", null ],
-    [ "PrepareAuraScript", "dd/db3/a24723.html#a1faa084b17776e826242293e2aaef2f4", null ],
-    [ "Register", "dd/db3/a24723.html#a94b21c91954385201d4bad6aff2205fc", null ]
+    [ "CheckProc", "dd/db3/a24723.html#a7bab1f02db05ce2c7b52ad9a2f5f6f02", null ],
+    [ "HandleProc", "dd/db3/a24723.html#ac90b54e946baa80589cab2f66aca1f5f", null ],
+    [ "Load", "dd/db3/a24723.html#ada85014de8a3602e83912d5e1a0165c5", null ],
+    [ "PrepareAuraScript", "dd/db3/a24723.html#a769f2b77b2972c40e3e43e70d2ff5820", null ],
+    [ "Register", "dd/db3/a24723.html#ab8a35292c0d4d392d9dd9db438d59cc4", null ],
+    [ "Validate", "dd/db3/a24723.html#aba8bd9ae5ec9e92eccb04163114c4802", null ],
+    [ "_procTargetGUID", "dd/db3/a24723.html#ac9685f00854f4cf67a1fffada0b9461b", null ]
 ];

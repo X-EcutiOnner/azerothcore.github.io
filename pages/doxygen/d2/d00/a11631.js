@@ -1,8 +1,7 @@
 var a11631 =
 [
-    [ "QuestUpdateAddPvPKill", "d2/d00/a11631.html#a22b1143d1ee7c28f0ae63c0d215e64ce", null ],
-    [ "Write", "d2/d00/a11631.html#ab58c8dc6918834caa654e05992abde6a", null ],
-    [ "CurrentCount", "d2/d00/a11631.html#a4c6df4b5647d8b71084c4495548cdd58", null ],
-    [ "QuestId", "d2/d00/a11631.html#ae80d16619ecac6b381b89483ce96b810", null ],
-    [ "RequiredCount", "d2/d00/a11631.html#a95d2c68a8383bcac985a891de7771274", null ]
+    [ "PetActionSound", "d2/d00/a11631.html#ae20a837d2b3f647d2a1d7c5e398b7b56", null ],
+    [ "Write", "d2/d00/a11631.html#a8627631f2eb7d93cda52ce09a749fb0c", null ],
+    [ "Action", "d2/d00/a11631.html#a25b3a4b44bcda9bec898aca1a88b90ed", null ],
+    [ "UnitGUID", "d2/d00/a11631.html#a32b15c490da02bc5020653a9e9bfbd68", null ]
 ];

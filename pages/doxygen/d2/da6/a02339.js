@@ -1,5 +1,5 @@
 var a02339 =
 [
-    [ "list_commandscript", "d3/d63/a12569.html", "d3/d63/a12569" ],
-    [ "AddSC_list_commandscript", "d2/da6/a02339.html#a81af00772e7a06ad952109222b1f53a3", null ]
+    [ "bf_commandscript", "df/d41/a12487.html", "df/d41/a12487" ],
+    [ "AddSC_bf_commandscript", "d2/da6/a02339.html#a55cfeb06fb5af5d31e3c2627d0db8da8", null ]
 ];

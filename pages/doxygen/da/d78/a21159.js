@@ -1,6 +1,7 @@
 var a21159 =
 [
-    [ "instance_ulduar_InstanceMapScript", "d7/d38/a21163.html", "d7/d38/a21163" ],
-    [ "instance_ulduar", "da/d78/a21159.html#a32c2a76d1cd20f2ad1ab441eafe1b682", null ],
-    [ "GetInstanceScript", "da/d78/a21159.html#ae263428f4229c75b22f990dabe6b3c06", null ]
+    [ "FilterTargets", "da/d78/a21159.html#a4e27a01b87e6f003ed52da45a4bda403", null ],
+    [ "HandleDummyEffect", "da/d78/a21159.html#abfe7ff12346d54fe3a0c1450897e58ee", null ],
+    [ "PrepareSpellScript", "da/d78/a21159.html#a0c31912e28eaa5922edb1ca4c7689883", null ],
+    [ "Register", "da/d78/a21159.html#a337cdb940a2001ac370768b02126d3c0", null ]
 ];

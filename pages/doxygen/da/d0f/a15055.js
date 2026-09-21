@@ -1,5 +1,5 @@
 var a15055 =
 [
-    [ "npc_pilgrims_bounty_plate", "da/d0f/a15055.html#ac0217b8fb3a0fbf418ce2d3ca286f2eb", null ],
-    [ "SpellHit", "da/d0f/a15055.html#a7797b7a532336542ef37f0643df8dec0", null ]
+    [ "MidsummerPlayerScript", "da/d0f/a15055.html#ace19c3dfaec5aa5bdfab46552a759306", null ],
+    [ "OnPlayerUpdateZone", "da/d0f/a15055.html#af512e1744264ac69fe2b7f7ba3836760", null ]
 ];

@@ -1,17 +1,17 @@
 var a22315 =
 [
-    [ "npc_frosthound", "d2/d51/a22315.html#a90dc4d1debb64354154760b52f8b1129", null ],
-    [ "AttackStart", "d2/d51/a22315.html#adf6969c7670584747e407a3bede8c928", null ],
-    [ "EnterEvadeMode", "d2/d51/a22315.html#ad0a16989c8c65eaa58deec6f885719f3", null ],
-    [ "JustDied", "d2/d51/a22315.html#a5a20cbca9da2f80c02d0697c84689c7a", null ],
-    [ "JustEngagedWith", "d2/d51/a22315.html#a8c9d22bfd32c12b3cf60f89f6856b5a5", null ],
-    [ "JustSummoned", "d2/d51/a22315.html#a93858959a06e4f1aa014fca3044949bc", null ],
-    [ "OnCharmed", "d2/d51/a22315.html#aaf081193bdae7ef30c153a3d40dcefe7", null ],
-    [ "PassengerBoarded", "d2/d51/a22315.html#a0126be35e4bbb613c9e0a1a04bef3681", null ],
-    [ "Reset", "d2/d51/a22315.html#ac2056fafcb04a827c83bc199a89a8a74", null ],
-    [ "UpdateAI", "d2/d51/a22315.html#ab163e819369b6b90b5782ab8d1cecbaf", null ],
-    [ "WaypointReached", "d2/d51/a22315.html#a9f6238bd211a1a465815c8cdd9bac1d2", null ],
-    [ "WaypointReached", "d2/d51/a22315.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "_completionWaypoint", "d2/d51/a22315.html#adfeb6a7a2755ebc0d1252cedf0f54727", null ],
-    [ "_summons", "d2/d51/a22315.html#a103a499ecce73bc4505a85a21c143e73", null ]
+    [ "npc_blessed_bannerAI", "d2/d51/a22315.html#a563cd394d72a900d735f8639074deae1", null ],
+    [ "JustDied", "d2/d51/a22315.html#a06e0e0c1e673c13488bd47e130098915", null ],
+    [ "JustEngagedWith", "d2/d51/a22315.html#abfdd9e554fbbe16f6058d5cb10394a84", null ],
+    [ "JustSummoned", "d2/d51/a22315.html#a446dc0b76eb3549b0e86b02e541f6296", null ],
+    [ "MoveInLineOfSight", "d2/d51/a22315.html#a34a0a856a4a4c05954ba300d8031e374", null ],
+    [ "Reset", "d2/d51/a22315.html#a6fe7e49f2077ed549a6406592aec345e", null ],
+    [ "UpdateAI", "d2/d51/a22315.html#a8ca070c63dd48e22823ac26d11da75be", null ],
+    [ "events", "d2/d51/a22315.html#a79b7fbee1492860fe64d42928e494e3d", null ],
+    [ "guidDalfors", "d2/d51/a22315.html#a369a837b6fa57d0960f24d9ea629ed04", null ],
+    [ "guidHalof", "d2/d51/a22315.html#aef28a7624fb88e65a7f79fe34c320a29", null ],
+    [ "guidMason", "d2/d51/a22315.html#a05e6dc20409e2271de8fe4f4b3ae7bfa", null ],
+    [ "guidPriest", "d2/d51/a22315.html#a25f4056b2d7fda02885f58502f809a9c", null ],
+    [ "PhaseCount", "d2/d51/a22315.html#a983110caf86d94374a299d7268f7458c", null ],
+    [ "Summons", "d2/d51/a22315.html#a92d7543e31c5cb367379711cb767ebd6", null ]
 ];

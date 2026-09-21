@@ -1,6 +1,6 @@
 var a17715 =
 [
-    [ "npc_dark_nucleusAI", "d0/df3/a17719.html", "d0/df3/a17719" ],
-    [ "npc_dark_nucleus", "dc/ded/a17715.html#a14459f4f41ef568decbc952fdcd4ffd5", null ],
-    [ "GetAI", "dc/ded/a17715.html#a1f59ae45c1a84a6faca5a8bb62fc16fc", null ]
+    [ "boss_moorabiAI", "d0/df3/a17719.html", "d0/df3/a17719" ],
+    [ "boss_moorabi", "dc/ded/a17715.html#a94e14b2a9b06143985f785e781d1c302", null ],
+    [ "GetAI", "dc/ded/a17715.html#ae90c7dd46fb1335a525c3c3e27040420", null ]
 ];

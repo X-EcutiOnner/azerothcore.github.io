@@ -1,8 +1,10 @@
 var a29387 =
 [
-    [ "ClassMask", "d1/d31/a29387.html#a563ba1618ffefa5470696e37f65c70d4", null ],
-    [ "Flags", "d1/d31/a29387.html#af89c32a22f018557fe016e0784a82384", null ],
-    [ "RaceMask", "d1/d31/a29387.html#acff47bf5c075d669f95b0d229674f9bc", null ],
-    [ "SkillID", "d1/d31/a29387.html#ab9237a8776aa854e0f81cf228a247ef0", null ],
-    [ "SkillTierID", "d1/d31/a29387.html#ab6153043461b71336e12b00957499075", null ]
+    [ "ID", "d1/d31/a29387.html#a906c42770a619884f08b67e2870bff93", null ],
+    [ "reqarenapoints", "d1/d31/a29387.html#a5d45007a832d6120e29c7821c07646de", null ],
+    [ "reqarenaslot", "d1/d31/a29387.html#ad1e4b8f94a743bac02bbadbc8d62ad0b", null ],
+    [ "reqhonorpoints", "d1/d31/a29387.html#aca509fb7e234bc54632ff988bf37e6ad", null ],
+    [ "reqitem", "d1/d31/a29387.html#a9cba8872c909260a55dcfdf7f4726899", null ],
+    [ "reqitemcount", "d1/d31/a29387.html#a615c5fe0966b5054303ebe1290adc9b6", null ],
+    [ "reqpersonalarenarating", "d1/d31/a29387.html#af4ff8d55234b03637e4b2fbd10778e97", null ]
 ];

@@ -1,21 +1,8 @@
 var a01415 =
 [
-    [ "CleaningFlags", "de/d70/a01415.html#ad8ba5c50a4cd2d5193e35ccc83798c67", [
-      [ "CLEANING_FLAG_ACHIEVEMENT_PROGRESS", "de/d70/a01415.html#ad8ba5c50a4cd2d5193e35ccc83798c67afdcd00f9b75d683b143cbbe0ac22d748", null ],
-      [ "CLEANING_FLAG_SKILLS", "de/d70/a01415.html#ad8ba5c50a4cd2d5193e35ccc83798c67ac23b2648d4cf0fe8d9ff4cd96722a714", null ],
-      [ "CLEANING_FLAG_SPELLS", "de/d70/a01415.html#ad8ba5c50a4cd2d5193e35ccc83798c67a39fa10b14e68e92b74ab6697d0e1d564", null ],
-      [ "CLEANING_FLAG_TALENTS", "de/d70/a01415.html#ad8ba5c50a4cd2d5193e35ccc83798c67a06a3fa1596c0c32ec619b9b9cb1d1550", null ],
-      [ "CLEANING_FLAG_QUESTSTATUS", "de/d70/a01415.html#ad8ba5c50a4cd2d5193e35ccc83798c67ae0367424104049d29ca9dcf3d5b7273c", null ]
-    ] ],
-    [ "AchievementProgressCheck", "de/d70/a01415.html#afe5cf638b3ba626c9dc18258d4c528fa", null ],
-    [ "CheckUnique", "de/d70/a01415.html#a4bdf9f5cb65f0bc9c5227d484cd5446f", null ],
-    [ "CleanCharacterAchievementProgress", "de/d70/a01415.html#ae5939466cf9b4fbb63eb136baf62767f", null ],
-    [ "CleanCharacterQuestStatus", "de/d70/a01415.html#a9f512823f852120bf4c3ec78eb4bbeaa", null ],
-    [ "CleanCharacterSkills", "de/d70/a01415.html#ae8c5d4dc123b8a900254bcbc82c1ffbe", null ],
-    [ "CleanCharacterSpell", "de/d70/a01415.html#aca5826d283031348e5d6ae6eb75ad605", null ],
-    [ "CleanCharacterTalent", "de/d70/a01415.html#a344f61fb209b507b775a0bbfb1315fac", null ],
-    [ "CleanDatabase", "de/d70/a01415.html#a357c8a07f912c6efb55a13cc9bc089b9", null ],
-    [ "SkillCheck", "de/d70/a01415.html#a0f72cf24646d1ece0eb793890840992d", null ],
-    [ "SpellCheck", "de/d70/a01415.html#a02688f57778d28a7bcc4ca6cee2074ad", null ],
-    [ "TalentCheck", "de/d70/a01415.html#aac707369555aa95807c11b1578ae80d2", null ]
+    [ "VisibilitySettingData", "d8/d87/a10423.html", "d8/d87/a10423" ],
+    [ "DynamicVisibilityMgr", "d1/dd2/a10427.html", "d1/dd2/a10427" ],
+    [ "VISIBILITY_SETTINGS_MAX_INTERVAL_NUM", "de/d70/a01415.html#ae515340ce2037b26a80e4db46e653b59", null ],
+    [ "VISIBILITY_SETTINGS_PLAYER_INTERVAL", "de/d70/a01415.html#a2733c1a6a4018078df00a4c426661436", null ],
+    [ "VisibilitySettings", "de/d70/a01415.html#ab01e98c3eef9241e381bb20d29d66cbd", null ]
 ];

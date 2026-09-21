@@ -1,6 +1,6 @@
 var a14691 =
 [
-    [ "npc_brewfest_bark_trigger", "d5/d3a/a14691.html#a110d654792e1f5dae8b17f014ea3d425", null ],
-    [ "GetTextFor", "d5/d3a/a14691.html#aca27445a1d9868a2cbd3a6a89dd806df", null ],
-    [ "MoveInLineOfSight", "d5/d3a/a14691.html#a271a440f21b4abddd9aa087e1e64a3d0", null ]
+    [ "LaunchHit", "d5/d3a/a14691.html#a10bb54a1a0cd992e9e944870684f3a21", null ],
+    [ "PrepareSpellScript", "d5/d3a/a14691.html#a95e85ecfcc5b72c250a0bc184b1d32a7", null ],
+    [ "Register", "d5/d3a/a14691.html#a19c6111ea0c3506ddc2d8459c192f04f", null ]
 ];

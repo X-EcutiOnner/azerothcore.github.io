@@ -1,6 +1,6 @@
 var a28263 =
 [
-    [ "go_heatAI", "d5/dbe/a28263.html#a40e4ec3294126aaf3fc6875aa8b39f0a", null ],
-    [ "UpdateAI", "d5/dbe/a28263.html#a2332206ee47b2cea9e4707d16ea79325", null ],
-    [ "timer", "d5/dbe/a28263.html#a4f01692c9f39e2a40d2d5f9c22e0ac43", null ]
+    [ "npc_spirit_shadeAI", "d6/d99/a28267.html", "d6/d99/a28267" ],
+    [ "npc_spirit_shade", "d5/dbe/a28263.html#a891ede5651789274496d6426daf9937d", null ],
+    [ "GetAI", "d5/dbe/a28263.html#a166f6a9abf7c0e33374c2f998c0524c3", null ]
 ];

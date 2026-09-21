@@ -1,7 +1,6 @@
 var a22875 =
 [
-    [ "HandleScriptEffect", "d7/d95/a22875.html#a16f131e42272bc75c99df2a9cf43470e", null ],
-    [ "PrepareSpellScript", "d7/d95/a22875.html#a510e80ef85ae3057e30c7c710aaf187b", null ],
-    [ "Register", "d7/d95/a22875.html#ae26ff6be3b2d4a1975ace3734603ab41", null ],
-    [ "Validate", "d7/d95/a22875.html#a58ff628906f3077a354ed486d3c56d23", null ]
+    [ "PrepareSpellScript", "d7/d95/a22875.html#abd6b61e7efbed1427b7603640ac7d474", null ],
+    [ "RecalculateDamage", "d7/d95/a22875.html#a02b59e5ac84c8556c9a9441ff6414461", null ],
+    [ "Register", "d7/d95/a22875.html#ab6183bf9e49d3c11c256e54053c13aa2", null ]
 ];

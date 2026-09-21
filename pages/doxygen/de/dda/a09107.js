@@ -1,6 +1,10 @@
 var a09107 =
 [
-    [ "spellIdImmunityPredicate", "de/dda/a09107.html#a04893e34d418a0649d51dfa82b559d9c", null ],
-    [ "operator()", "de/dda/a09107.html#ae97afff7a6b3ea5dca917d3dbb9ef818", null ],
-    [ "_type", "de/dda/a09107.html#a125dfe727d668b5b9820adf1f7f0e0a8", null ]
+    [ "PlayerSetting", "de/dda/a09107.html#a77d1fb11aa0039bbdae3ccc523f391ea", null ],
+    [ "PlayerSetting", "de/dda/a09107.html#a93a30a0d6104bdda8fd9b5778179a353", null ],
+    [ "AddFlag", "de/dda/a09107.html#a1e81343732cd86cdf9974a1d96b73ba7", null ],
+    [ "HasFlag", "de/dda/a09107.html#af6e3149ff40b6b4ea2310b5c3254fce0", null ],
+    [ "IsEnabled", "de/dda/a09107.html#a3621021d9c0c41c08b6300cd5dfcaf71", null ],
+    [ "RemoveFlag", "de/dda/a09107.html#a4ca3645233a466345d6be217d7a0df2b", null ],
+    [ "value", "de/dda/a09107.html#a74592e45f8ae4c5f411a982227f809f3", null ]
 ];

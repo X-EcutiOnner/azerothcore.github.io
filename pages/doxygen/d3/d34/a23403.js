@@ -1,7 +1,6 @@
 var a23403 =
 [
-    [ "PeriodicTick", "d3/d34/a23403.html#a94bee50f214d0a61fa81c4cca1b38fb2", null ],
-    [ "PrepareAuraScript", "d3/d34/a23403.html#a2c34fbc5c12be43b1c054cf4b23542cb", null ],
-    [ "Register", "d3/d34/a23403.html#ae1479b53d8c0575947a7ce7cae4747c4", null ],
-    [ "Validate", "d3/d34/a23403.html#ade8d57db324f02734e1752f49976dc9d", null ]
+    [ "FilterTargets", "d3/d34/a23403.html#af545460920658bc8ee0444f7c0d51970", null ],
+    [ "PrepareSpellScript", "d3/d34/a23403.html#a0bf365a43b99905fb7ae8152fe5b2687", null ],
+    [ "Register", "d3/d34/a23403.html#ac12cde698f5b0bbcdf433821772c7519", null ]
 ];

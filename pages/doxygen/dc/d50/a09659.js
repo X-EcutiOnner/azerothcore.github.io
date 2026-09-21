@@ -1,10 +1,12 @@
 var a09659 =
 [
-    [ "UnitSearcher", "dc/d50/a09659.html#a4c50b4594650d9f3f83a40ac02f1a954", null ],
-    [ "Visit", "dc/d50/a09659.html#a5e419d2cb0de5ae58373e521d3a84ac6", null ],
-    [ "Visit", "dc/d50/a09659.html#a4bf8a315ab9464bbc5b0c8cae5c27fed", null ],
-    [ "Visit", "dc/d50/a09659.html#ac65516ed337b509ff5c316fb29727854", null ],
-    [ "i_check", "dc/d50/a09659.html#a3618df5a6ae33e76b802eae9cac1e1bd", null ],
-    [ "i_object", "dc/d50/a09659.html#a3029760131a6f50883246afe2533c062", null ],
-    [ "i_phaseMask", "dc/d50/a09659.html#ab94911f3f275de6a9ce9f15f1169c81c", null ]
+    [ "VisibleNotifier", "dc/d50/a09659.html#ae449b96de3eff1759869438dd90f6513", null ],
+    [ "SendToSelf", "dc/d50/a09659.html#a95d1c60911cfed9e4f0e034afbf11482", null ],
+    [ "Visit", "dc/d50/a09659.html#a77d110af6b97c2a4d93ff53a8771273d", null ],
+    [ "Visit", "dc/d50/a09659.html#a8dafcbc64e004aea196aec47fb2bb175", null ],
+    [ "Visit", "dc/d50/a09659.html#a49da99cbbcf8f839d810d6ac6a2502e0", null ],
+    [ "i_data", "dc/d50/a09659.html#a6cfba0f042e117cfdb7bdf1f1168c0ce", null ],
+    [ "i_gobjOnly", "dc/d50/a09659.html#a019182fa8a629d796982f9cc565d9bc3", null ],
+    [ "i_player", "dc/d50/a09659.html#aaa324b9a9cffd59c7cbab0c08cf68395", null ],
+    [ "i_visibleNow", "dc/d50/a09659.html#a34d766816baaad7b1b3623360ec9abeb", null ]
 ];

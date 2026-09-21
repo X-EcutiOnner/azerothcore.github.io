@@ -1,14 +1,10 @@
 var a19795 =
 [
-    [ "boss_magus_telestra", "d9/db5/a19795.html#ac8ee0c8ac0bafa479ef6c3669c8aa430", null ],
-    [ "AttackStart", "d9/db5/a19795.html#a9ef67f8a53c5dceaf74bc156e0c6edad", null ],
-    [ "GetData", "d9/db5/a19795.html#a713f93edc709edabe003c305efdd709c", null ],
-    [ "JustDied", "d9/db5/a19795.html#ac69759755637749a58f712b86d3bf9ac", null ],
-    [ "JustEngagedWith", "d9/db5/a19795.html#a91b4569027b3414814bf1f2e86441fc6", null ],
-    [ "JustSummoned", "d9/db5/a19795.html#a1fc0f30287916d6606829987d29d9387", null ],
-    [ "KilledUnit", "d9/db5/a19795.html#a85b333905e5dcd34dbe001306924529a", null ],
-    [ "Reset", "d9/db5/a19795.html#a82dd720fe591ac1e72ce302087ea64c7", null ],
-    [ "SpellHit", "d9/db5/a19795.html#ac48bb325de6641a1f2f980f15b8e3eb4", null ],
-    [ "UpdateAI", "d9/db5/a19795.html#acd365d6bcc1e526e59344c1a907d0eeb", null ],
-    [ "achievement", "d9/db5/a19795.html#a00c4e862101679d5aa36b8e5dba4e5a2", null ]
+    [ "npc_power_spark", "d9/db5/a19795.html#a97ec0ed1157578fb7e1d8c4e146b2a4f", null ],
+    [ "DamageTaken", "d9/db5/a19795.html#afe33d511823666929232bfd0179ee72a", null ],
+    [ "DoAction", "d9/db5/a19795.html#ab99a859ee718d49ce59171e7e7159abc", null ],
+    [ "UpdateAI", "d9/db5/a19795.html#ab36e75c87aa262a57be1594289284730", null ],
+    [ "_checkTimer", "d9/db5/a19795.html#ae63f0f359037363b840fe51a797969b5", null ],
+    [ "_instance", "d9/db5/a19795.html#a776b7fef26fd67961b0fdf0596d7beb2", null ],
+    [ "_moveTimer", "d9/db5/a19795.html#a52c953a524bb7f26c6713ac5d83eb068", null ]
 ];

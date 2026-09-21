@@ -1,5 +1,6 @@
 var a28051 =
 [
-    [ "achievement_bg_ic_mowed_down", "df/d68/a28051.html#ab05387d1e14958e87123bd0fc2188445", null ],
-    [ "OnCheck", "df/d68/a28051.html#a385e09c605084900f374090e5e19c24f", null ]
+    [ "HandleScript", "df/d68/a28051.html#ab2bad52272a5cd7167a7601fdfa02b1d", null ],
+    [ "PrepareSpellScript", "df/d68/a28051.html#a60454f2c1ba8d1ea160350b5e02bf56d", null ],
+    [ "Register", "df/d68/a28051.html#a22b9877e2cd27c925ae7b351d3d6f41b", null ]
 ];

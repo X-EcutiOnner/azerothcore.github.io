@@ -1,4 +1,5 @@
 var a04367 =
 [
-    [ "CliThread", "dd/d94/a05102.html#ga2a2e263e5224262317a4728b5a4c18ac", null ]
+    [ "RASession", "d0/d1b/a06091.html", "d0/d1b/a06091" ],
+    [ "bufferSize", "dd/db4/a04367.html#af86f08ffe713b38f728cb02c7f06c0e1", null ]
 ];

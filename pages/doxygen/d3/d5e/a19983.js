@@ -1,10 +1,7 @@
 var a19983 =
 [
-    [ "npc_molten_golem", "d3/d5e/a19983.html#a38350948396b7df97837780531f79515", null ],
-    [ "DamageTaken", "d3/d5e/a19983.html#aa3521246b0c2bed18b5466879ec1d107", null ],
-    [ "DoAction", "d3/d5e/a19983.html#a1936beed47707f2f0e560d7d3b3440ba", null ],
-    [ "Reset", "d3/d5e/a19983.html#a24e23d0959bcda5be05786381a35ac77", null ],
-    [ "UpdateAI", "d3/d5e/a19983.html#ac62f71bc6b3fa8ab6c1a5fc73915d64e", null ],
-    [ "events", "d3/d5e/a19983.html#a2a552e27aca0e188a4d5ae46f639cbef", null ],
-    [ "m_pInstance", "d3/d5e/a19983.html#af46ccffa6a7fcf3cbee893eba6435159", null ]
+    [ "Apply", "d3/d5e/a19983.html#add8e95d38b0c437833c11cded72fe2a7", null ],
+    [ "PrepareAuraScript", "d3/d5e/a19983.html#ad2112b571d97e537983b4d11207015e6", null ],
+    [ "Register", "d3/d5e/a19983.html#accf85a0d8b2fad19bb0709013caa9f1b", null ],
+    [ "Validate", "d3/d5e/a19983.html#a0b89b10ee22d02655ad08a348ab91ecd", null ]
 ];

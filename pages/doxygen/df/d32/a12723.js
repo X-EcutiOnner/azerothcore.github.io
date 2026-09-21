@@ -1,8 +1,12 @@
 var a12723 =
 [
-    [ "boss_eviscerator", "df/d32/a12723.html#a2228d79b63df840eb4cb28117f24dcf9", null ],
-    [ "DamageTaken", "df/d32/a12723.html#af31de4643026e44c80252e156a39bc69", null ],
-    [ "JustEngagedWith", "df/d32/a12723.html#a14ec212beaa553f8f68e7718e29dcbd9", null ],
-    [ "UpdateAI", "df/d32/a12723.html#af974908902d30b8144d1b734e795d6ea", null ],
-    [ "SpellShieldReady", "df/d32/a12723.html#abeac01454b05ca88a89093b0f74c4a1f", null ]
+    [ "npc_av_marshal_or_warmasterAI", "df/d32/a12723.html#af3620678992778edbb859622e057893a", null ],
+    [ "AttackStart", "df/d32/a12723.html#aed39eaed8648ce78349c49ee33918b93", null ],
+    [ "EnterEvadeMode", "df/d32/a12723.html#a4ac6045b3f3dfd6e3f9e0ea757f4d2c6", null ],
+    [ "JustRespawned", "df/d32/a12723.html#a460c6912063587214ba0f2e01878d827", null ],
+    [ "Reset", "df/d32/a12723.html#a56d99bcf5038c372399f16a07a2e5d31", null ],
+    [ "UpdateAI", "df/d32/a12723.html#a7bf1631810c8446bc157f8ff220199b7", null ],
+    [ "_attacked", "df/d32/a12723.html#a56d7211a3565c19b499f7de2eda6c862", null ],
+    [ "_hasAura", "df/d32/a12723.html#a1c0049100cde1c62daf80779d1135156", null ],
+    [ "events", "df/d32/a12723.html#a49b8e01897cd5347bbd06cac254163f4", null ]
 ];

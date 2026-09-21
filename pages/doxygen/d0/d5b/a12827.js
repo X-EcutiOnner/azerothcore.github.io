@@ -1,10 +1,7 @@
 var a12827 =
 [
-    [ "npc_rookery_hatcher", "d0/d5b/a12827.html#ab4740540a6fc2661c3c99bd2569a0bfa", null ],
-    [ "InitializeAI", "d0/d5b/a12827.html#a58d6bb3ba8d39c0e92d30f4c124e3734", null ],
-    [ "JustEngagedWith", "d0/d5b/a12827.html#a9d2e256f8df44254cc0301fe2b1fa628", null ],
-    [ "UpdateAI", "d0/d5b/a12827.html#a011cf0384a7bf6dd502a767d6667140a", null ],
-    [ "events", "d0/d5b/a12827.html#ab49d35c9d22408b01e27c8c7933433e0", null ],
-    [ "targetEgg", "d0/d5b/a12827.html#a4fd5ed979e2c3d600e89e4592b7da98c", null ],
-    [ "targetPosition", "d0/d5b/a12827.html#ac49345c80e58f7c0094fe1b62ac4bf84", null ]
+    [ "boss_moira_bronzebeard", "d0/d5b/a12827.html#aaab4b597fd97619c2a41e2a6425810de", null ],
+    [ "CastOnEmperorIfPossible", "d0/d5b/a12827.html#a413aab0c096319ea17d6c6a078b056ea", null ],
+    [ "JustEngagedWith", "d0/d5b/a12827.html#a6bf08072a59fe72ce4a3e27a9e289d3c", null ],
+    [ "UpdateAI", "d0/d5b/a12827.html#a8319c70b3391721164ac1a01d8f6be9c", null ]
 ];

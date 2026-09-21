@@ -1,7 +1,12 @@
 var a10511 =
 [
-    [ "WriteCommonMonsterMovePart", "d5/db0/a10511.html#a5f460aac5726580ed4d053f97ce4b95a", null ],
-    [ "WriteCreate", "d5/db0/a10511.html#a255a4de5c8cdf224e822a4e7ffe0ee5a", null ],
-    [ "WriteMonsterMove", "d5/db0/a10511.html#a7681143d50955bda880fbae74671a684", null ],
-    [ "WriteStopMovement", "d5/db0/a10511.html#a1b960c1141ab9b4dca932e0eddaee204", null ]
+    [ "RotateMovementGenerator", "d5/db0/a10511.html#a89a6559b4380210972e82c6ca6d5a9db", null ],
+    [ "Finalize", "d5/db0/a10511.html#afd7588c7877b116cc9626a774b89d584", null ],
+    [ "GetMovementGeneratorType", "d5/db0/a10511.html#a20677803edf5d93ceae3bf76ef426a81", null ],
+    [ "Initialize", "d5/db0/a10511.html#a18fea8760bb24912af9349a06ff7b596", null ],
+    [ "Reset", "d5/db0/a10511.html#a3e177762fcfc11ac47aa820b46b93ed0", null ],
+    [ "Update", "d5/db0/a10511.html#a0dc8600e3aa862a81735dfb927232e53", null ],
+    [ "m_direction", "d5/db0/a10511.html#a8717e890670d9f4e2ff66c0981d14aa6", null ],
+    [ "m_duration", "d5/db0/a10511.html#a2cb8d5fc3d26c24e62c7373f1ce49b13", null ],
+    [ "m_maxDuration", "d5/db0/a10511.html#a7cf10886bdd50ccbc5900b9229958e01", null ]
 ];

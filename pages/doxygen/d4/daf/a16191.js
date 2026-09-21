@@ -1,8 +1,8 @@
 var a16191 =
 [
-    [ "npc_paoka_swiftmountainAI", "d4/daf/a16191.html#a92a229f76de3bc46ae14910439db0004", null ],
-    [ "DoSpawnWyvern", "d4/daf/a16191.html#a7997a3d398db82c205e3a8af77ac1684", null ],
-    [ "Reset", "d4/daf/a16191.html#acae0427957aba04a54e6001823bc7eb4", null ],
-    [ "WaypointReached", "d4/daf/a16191.html#a262781c90fe1b5a5af2c6f94e4cc52e2", null ],
+    [ "npc_kaya_flathoofAI", "d4/daf/a16191.html#a3b43992dfeeb7b3b19e777b9629c55ce", null ],
+    [ "JustSummoned", "d4/daf/a16191.html#ac365753a428009f4fc4d01ead8fe46fd", null ],
+    [ "Reset", "d4/daf/a16191.html#af9be00be9867622a16103bd21311327f", null ],
+    [ "WaypointReached", "d4/daf/a16191.html#a8fcbb19279b925138ba96d2a450fc404", null ],
     [ "WaypointReached", "d4/daf/a16191.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

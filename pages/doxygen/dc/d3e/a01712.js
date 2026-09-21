@@ -1,8 +1,7 @@
 var a01712 =
 [
-    [ "CorpseUpdateFieldFlags", "dc/d3e/a01712.html#a4ba9132e74378f888b4724dbbaf147f3", null ],
-    [ "DynamicObjectUpdateFieldFlags", "dc/d3e/a01712.html#aefe3be44e608ab4935e11ea44f8e0ce6", null ],
-    [ "GameObjectUpdateFieldFlags", "dc/d3e/a01712.html#aee13b862f51557c371d3d93341128895", null ],
-    [ "ItemUpdateFieldFlags", "dc/d3e/a01712.html#ac1cca7ecf1650663132e3e220d771adf", null ],
-    [ "UnitUpdateFieldFlags", "dc/d3e/a01712.html#a310c5b2e3065e40ce04fe5ccd84fb51b", null ]
+    [ "operator<<", "dc/d3e/a01712.html#a71323635f122d24189054da615cb39e1", null ],
+    [ "operator<<", "dc/d3e/a01712.html#ab63323f8a9ade40ddd90338538b5c9b5", null ],
+    [ "operator>>", "dc/d3e/a01712.html#a72e22c3226b5f361848aef2c75a6d3fb", null ],
+    [ "operator>>", "dc/d3e/a01712.html#af223d782e9dcf0f80ed4009360aa0d80", null ]
 ];

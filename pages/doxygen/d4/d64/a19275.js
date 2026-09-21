@@ -1,6 +1,8 @@
 var a19275 =
 [
-    [ "npc_icc_skybreaker_vicarAI", "df/dda/a19279.html", "df/dda/a19279" ],
-    [ "npc_icc_skybreaker_vicar", "d4/d64/a19275.html#a40451cc6fba0cae59e47fa38e4fb79d3", null ],
-    [ "GetAI", "d4/d64/a19275.html#a6884bb7e54b78abee0cc995c4fbb501d", null ]
+    [ "CountTargets", "d4/d64/a19275.html#a3000d234134bb3d4b2e17fd1eff8f4f0", null ],
+    [ "HandleScript", "d4/d64/a19275.html#af058a0c458463bdba4a4eb73aa91c113", null ],
+    [ "PrepareSpellScript", "d4/d64/a19275.html#a83b2fad7cdc189a17129e25a015952ff", null ],
+    [ "Register", "d4/d64/a19275.html#af5e214ab418ca05ddd637c83d7a7e71a", null ],
+    [ "Validate", "d4/d64/a19275.html#a63e8e899cb1469dca26cd5fa34b85408", null ]
 ];

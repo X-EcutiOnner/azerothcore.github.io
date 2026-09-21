@@ -1,6 +1,8 @@
 var a25919 =
 [
-    [ "HandleDummy", "db/d5c/a25919.html#aafc9efb0f8070566579724853a88ab03", null ],
-    [ "PrepareSpellScript", "db/d5c/a25919.html#a248c1203a4f15b2cd60afed9fa33cb59", null ],
-    [ "Register", "db/d5c/a25919.html#a362e2ab6921aaa0c10b70795a5eda0de", null ]
+    [ "HandleRapidFireProc", "db/d5c/a25919.html#a174eb1d766c0ae7f59fabdefe565e1de", null ],
+    [ "HandleRapidKillingProc", "db/d5c/a25919.html#a12f24814d41837c8ddb8a42c8e932077", null ],
+    [ "PrepareAuraScript", "db/d5c/a25919.html#aa75ea03f718a90a49d81ff49d765c74d", null ],
+    [ "Register", "db/d5c/a25919.html#af1d93d8ea32a74f7bb6c115f21c5c6c3", null ],
+    [ "Validate", "db/d5c/a25919.html#a01598fbd355dfdd4517d4221ad5ae323", null ]
 ];

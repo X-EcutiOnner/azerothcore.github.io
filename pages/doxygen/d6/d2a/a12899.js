@@ -1,12 +1,20 @@
 var a12899 =
 [
-    [ "go_suppression_device", "d6/d2a/a12899.html#ae8d3a5e9ca0bd621065bad9b8ee2733b", null ],
-    [ "Activate", "d6/d2a/a12899.html#aab10f7c30f4c7fcf89aa295d830da56f", null ],
-    [ "Deactivate", "d6/d2a/a12899.html#aaf01b7e3317e4b032e7c202ebfcb9a68", null ],
-    [ "DoAction", "d6/d2a/a12899.html#a036467db9b2661e7048216b03451861b", null ],
-    [ "InitializeAI", "d6/d2a/a12899.html#a6f40d8e47699b711466d8d36bdaa424c", null ],
-    [ "UpdateAI", "d6/d2a/a12899.html#a00fb90b16c82f9d968cc29275c05675a", null ],
-    [ "_active", "d6/d2a/a12899.html#a1accabc06137c07e9f74ea91d068672c", null ],
-    [ "_events", "d6/d2a/a12899.html#a43fc9da45057e18811a0efc69e01edc8", null ],
-    [ "_instance", "d6/d2a/a12899.html#a8c6b389e2df34d5f47b2599fc78ad072", null ]
+    [ "boss_rend_blackhand", "d6/d2a/a12899.html#a978a2a5262df73afa1e661b23c27a57a", null ],
+    [ "EnterEvadeMode", "d6/d2a/a12899.html#a21ca0c54590356cc58675e71add93c3a", null ],
+    [ "IsSummonedBy", "d6/d2a/a12899.html#aa9d1bfa716b0427d7f23578b8ca954e1", null ],
+    [ "JustDied", "d6/d2a/a12899.html#a498218ab4298cdab728b8a5403d98de1", null ],
+    [ "JustEngagedWith", "d6/d2a/a12899.html#a494550b92a25c99470c72697e87eff87", null ],
+    [ "JustSummoned", "d6/d2a/a12899.html#aeebd94ed5b08587dfab88b8826f64173", null ],
+    [ "MovementInform", "d6/d2a/a12899.html#ae8869425b1f03f6f430585d563de0b27", null ],
+    [ "Reset", "d6/d2a/a12899.html#afcea6a09eabe661051fc58d5de9a3802", null ],
+    [ "SetData", "d6/d2a/a12899.html#abe31d366de24aefd9c0c9c534494af11", null ],
+    [ "SummonedCreatureDespawn", "d6/d2a/a12899.html#ae5a8775c0cf1ad5dee501a50a22e25f9", null ],
+    [ "SummonedCreatureDies", "d6/d2a/a12899.html#a49d4011af4ee01ff3dc8708d0950b03b", null ],
+    [ "SummonWave", "d6/d2a/a12899.html#a127365a60504f988bcd7bc1858e0fb94", null ],
+    [ "UpdateAI", "d6/d2a/a12899.html#afdca704e8aca473986037ab2bc16194e", null ],
+    [ "_currentWave", "d6/d2a/a12899.html#a9e4ffc20609e50188e0f5a552b164590", null ],
+    [ "_gythEvent", "d6/d2a/a12899.html#a3699984d920375e9631105bf0a47469b", null ],
+    [ "_victorGUID", "d6/d2a/a12899.html#a8337c912349eb2798c33fd5794a28437", null ],
+    [ "_waveDoorGUID", "d6/d2a/a12899.html#a5a4085439515aeed3f3f6aba0764ba68", null ]
 ];

@@ -1,5 +1,7 @@
 var a22511 =
 [
-    [ "achievement_wg_vehicular_gnomeslaughter", "d4/d62/a22511.html#a441b8db113ef4843f433c1ea3f3052b5", null ],
-    [ "OnCheck", "d4/d62/a22511.html#ab23a2d90e536a3a9ecbb3b64c5b0e18f", null ]
+    [ "HandleDummy", "d4/d62/a22511.html#aac2e8e5e00bf25846f36f920acf98dca", null ],
+    [ "PrepareAuraScript", "d4/d62/a22511.html#aefda37f79ba45361ad91bd79f4e8a486", null ],
+    [ "Register", "d4/d62/a22511.html#a446c71ed3f5fa2ce653148f9567fd199", null ],
+    [ "Validate", "d4/d62/a22511.html#a1a2a6547d994cdd8b375a45226b7c36f", null ]
 ];

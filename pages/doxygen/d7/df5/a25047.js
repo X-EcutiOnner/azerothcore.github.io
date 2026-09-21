@@ -1,8 +1,8 @@
 var a25047 =
 [
-    [ "HandleSchoolDMG", "d7/df5/a25047.html#ab273304fdbeea8768622c3e6b222aaf2", null ],
-    [ "HandleScriptEffect", "d7/df5/a25047.html#a06f9cf29387b49f3e5950661173c77eb", null ],
-    [ "PrepareSpellScript", "d7/df5/a25047.html#ac1a2b89eda37ed4e6c5946a93e7a58a2", null ],
-    [ "Register", "d7/df5/a25047.html#a9bdbf7578509976d482a26869e9068aa", null ],
-    [ "Validate", "d7/df5/a25047.html#a20a7b3a25711a90ab5f0e14991112ea0", null ]
+    [ "CheckProc", "d7/df5/a25047.html#ab960abbaa9d2728ff1c471e491844e2f", null ],
+    [ "HandleProc", "d7/df5/a25047.html#a23746c343ca01160b73822e3457514d5", null ],
+    [ "PrepareAuraScript", "d7/df5/a25047.html#a2ddb4cb53c7aabb8e1e09eb1036fafe0", null ],
+    [ "Register", "d7/df5/a25047.html#a78dbfa8833c8f8958e8e9a38cc9812a7", null ],
+    [ "Validate", "d7/df5/a25047.html#a715de16d0510d8b2cbd9e281c3e3274a", null ]
 ];

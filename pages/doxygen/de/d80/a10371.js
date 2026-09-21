@@ -1,6 +1,9 @@
 var a10371 =
 [
-    [ "IsNeutralOrFriendlyToTeam", "de/d80/a10371.html#aeeea8efaff8fe3f5044a7d5627a89cb6", null ],
-    [ "safeLocId", "de/d80/a10371.html#a4f6003cc76b70c83fbb8301cc9d5a7ad", null ],
-    [ "teamId", "de/d80/a10371.html#a287b04900d70f8ff8c6f6542edbd40a6", null ]
+    [ "MapUpdateRequest", "de/d80/a10371.html#af71812e502bb1ceb60a286ff0d676ccd", null ],
+    [ "call", "de/d80/a10371.html#a2cb96db357347d47596725e5c345b02f", null ],
+    [ "m_diff", "de/d80/a10371.html#a3f8ff355ac6efb0a6039c7ee5bfc053b", null ],
+    [ "m_map", "de/d80/a10371.html#a3612f3e64bb1d2f266c8724c398f5de5", null ],
+    [ "m_updater", "de/d80/a10371.html#aeb063738175aa8ddc751290f922ffef2", null ],
+    [ "s_diff", "de/d80/a10371.html#a533a8c8a99f82e15dae0d4513c811b01", null ]
 ];

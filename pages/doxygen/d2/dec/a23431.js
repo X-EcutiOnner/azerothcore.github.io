@@ -1,5 +1,6 @@
 var a23431 =
 [
-    [ "boss_quagmirran", "d2/dec/a23431.html#a7f6289b86216b052f434a1417023e22c", null ],
-    [ "JustEngagedWith", "d2/dec/a23431.html#a28253b6653bd2e26e7f246c71a88b625", null ]
+    [ "HandleEffectRemove", "d2/dec/a23431.html#ac74d25501690970c607a146eec02ab24", null ],
+    [ "PrepareAuraScript", "d2/dec/a23431.html#a858929800089fee1a06948bda1c8806f", null ],
+    [ "Register", "d2/dec/a23431.html#a003e9c77e59008ea78b3f1e9977ab5d6", null ]
 ];

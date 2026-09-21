@@ -1,6 +1,7 @@
 var a22191 =
 [
-    [ "ChangeSummonPos", "db/df1/a22191.html#aeb2cf0a5d2e563e4983ddd237a2b1001", null ],
-    [ "PrepareSpellScript", "db/df1/a22191.html#a1654fec971696e613b5102b3ca5030f1", null ],
-    [ "Register", "db/df1/a22191.html#ab1e7d44914952dfb7f7ccf2de4da286f", null ]
+    [ "HandleScript", "db/df1/a22191.html#a5e6265ae9928e204d429c3c1750f472d", null ],
+    [ "PrepareSpellScript", "db/df1/a22191.html#a554846f934c3e14a404fec3ba534eb63", null ],
+    [ "Register", "db/df1/a22191.html#aafd581ede5184abfe9033d7ad75c7780", null ],
+    [ "Validate", "db/df1/a22191.html#a03ee24e2d9c784ca83515412246e836f", null ]
 ];

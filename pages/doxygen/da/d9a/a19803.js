@@ -1,7 +1,8 @@
 var a19803 =
 [
-    [ "HandlePull", "da/d9a/a19803.html#a05e6155abeb2720923ddf0d8cae54feb", null ],
-    [ "PrepareSpellScript", "da/d9a/a19803.html#ac192245513e162a2842e47f5b0d64338", null ],
-    [ "Register", "da/d9a/a19803.html#af6c7a881c2fcf07461006fef63074e5e", null ],
-    [ "SelectTarget", "da/d9a/a19803.html#aabee5b6b8f3ba7e2cf91bcb05ce7929d", null ]
+    [ "npc_scion_of_eternity", "da/d9a/a19803.html#ac1a9111bc835a3d2cffc43b840985763", null ],
+    [ "AttackStart", "da/d9a/a19803.html#a86b5e235096ad107217f36150c618d73", null ],
+    [ "JustDied", "da/d9a/a19803.html#aff0f8d0d57afb6ef3df7b259ec5860fa", null ],
+    [ "MoveInLineOfSight", "da/d9a/a19803.html#a25424c349fc39f7b42d36ac055f91ad9", null ],
+    [ "UpdateAI", "da/d9a/a19803.html#a49be60ccd03d75cf56931b870ddf086c", null ]
 ];

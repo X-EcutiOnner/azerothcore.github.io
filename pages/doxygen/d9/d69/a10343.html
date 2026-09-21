@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: TransportAnimation Struct Reference</title>
+<title>AzerothCore: MMapData Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,36 +106,38 @@ $(document).ready(function(){initNavTree('d9/d69/a10343.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pro-attribs">Protected Attributes</a> &#124;
+<a href="#friends">Friends</a> &#124;
 <a href="../../d1/dac/a10340.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">TransportAnimation Struct Reference</div></div>
+  <div class="headertitle"><div class="title">MMapData Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">TransportMgr.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">MapCollisionData.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a775b84b54deefd38af40222afd82d572"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d69/a10343.html#a775b84b54deefd38af40222afd82d572">TransportAnimation</a> ()</td></tr>
-<tr class="separator:a775b84b54deefd38af40222afd82d572"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a73b56750c90afce38dbf57793bae16f3"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d69/a10343.html#a73b56750c90afce38dbf57793bae16f3">GetAnimNode</a> (<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> time, <a class="el" href="../../d6/db0/a29495.html">TransportAnimationEntry</a> const *&amp;curr, <a class="el" href="../../d6/db0/a29495.html">TransportAnimationEntry</a> const *&amp;next, float &amp;percPos) const</td></tr>
-<tr class="separator:a73b56750c90afce38dbf57793bae16f3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa2c892f14712828acaa85fa6e6d919bb"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d69/a10343.html#aa2c892f14712828acaa85fa6e6d919bb">GetAnimRotation</a> (<a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> time, G3D::Quat &amp;curr, G3D::Quat &amp;next, float &amp;percRot) const</td></tr>
-<tr class="separator:aa2c892f14712828acaa85fa6e6d919bb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a81e3e8249f22accbd06f9e80aa3fccf9"><td class="memItemLeft" align="right" valign="top">dtNavMesh const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d69/a10343.html#a81e3e8249f22accbd06f9e80aa3fccf9">GetNavMesh</a> () const</td></tr>
+<tr class="separator:a81e3e8249f22accbd06f9e80aa3fccf9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af524ac62385fdd4d4c6a4f01afafbb49"><td class="memItemLeft" align="right" valign="top">dtNavMeshQuery const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d69/a10343.html#af524ac62385fdd4d4c6a4f01afafbb49">GetNavMeshQuery</a> ()</td></tr>
+<tr class="separator:af524ac62385fdd4d4c6a4f01afafbb49"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:a7c45df781dda8058d281a2cf7e5fe5fb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/d59/a01013.html#a7905b31432c2140de30ffc9363c3e9b9">TransportPathContainer</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d69/a10343.html#a7c45df781dda8058d281a2cf7e5fe5fb">Path</a></td></tr>
-<tr class="separator:a7c45df781dda8058d281a2cf7e5fe5fb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5fa771fb487c437d7d6229eadf7d90c3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/d59/a01013.html#a58adfcebbe67029f647a3db4897a6558">TransportPathRotationContainer</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d69/a10343.html#a5fa771fb487c437d7d6229eadf7d90c3">Rotations</a></td></tr>
-<tr class="separator:a5fa771fb487c437d7d6229eadf7d90c3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a59a31ffc2e642a3950b0509130a76ad4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d69/a10343.html#a59a31ffc2e642a3950b0509130a76ad4">TotalTime</a></td></tr>
-<tr class="separator:a59a31ffc2e642a3950b0509130a76ad4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-attribs" name="pro-attribs"></a>
+Protected Attributes</h2></td></tr>
+<tr class="memitem:ae41a024489dbe5d11ba6dceed6b7442f"><td class="memItemLeft" align="right" valign="top">std::shared_ptr&lt; dtNavMesh &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d69/a10343.html#ae41a024489dbe5d11ba6dceed6b7442f">_navMesh</a></td></tr>
+<tr class="separator:ae41a024489dbe5d11ba6dceed6b7442f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a237375e56702f7e83c9e13e1f959cfdb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/de6/a05126.html#aa9864ce68a669d59d8baee4cb742900b">MMAP::ManagedNavMeshQuery</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d69/a10343.html#a237375e56702f7e83c9e13e1f959cfdb">_navMeshQuery</a></td></tr>
+<tr class="separator:a237375e56702f7e83c9e13e1f959cfdb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="friends" name="friends"></a>
+Friends</h2></td></tr>
+<tr class="memitem:a472038a89678719bf8868ab0c75e394f"><td class="memItemLeft" align="right" valign="top">class&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d69/a10343.html#a472038a89678719bf8868ab0c75e394f">MapCollisionData</a></td></tr>
+<tr class="separator:a472038a89678719bf8868ab0c75e394f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a775b84b54deefd38af40222afd82d572" name="a775b84b54deefd38af40222afd82d572"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a775b84b54deefd38af40222afd82d572">&#9670;&#160;</a></span>TransportAnimation()</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="a81e3e8249f22accbd06f9e80aa3fccf9" name="a81e3e8249f22accbd06f9e80aa3fccf9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a81e3e8249f22accbd06f9e80aa3fccf9">&#9670;&#160;</a></span>GetNavMesh()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -144,10 +146,10 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">TransportAnimation::TransportAnimation </td>
+          <td class="memname">dtNavMesh const  * MMapData::GetNavMesh </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td> const</td>
         </tr>
       </table>
   </td>
@@ -156,200 +158,113 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   89</span>: <a class="code hl_variable" href="../../d9/d69/a10343.html#a59a31ffc2e642a3950b0509130a76ad4">TotalTime</a>(0) { }</div>
-<div class="ttc" id="aa10343_html_a59a31ffc2e642a3950b0509130a76ad4"><div class="ttname"><a href="../../d9/d69/a10343.html#a59a31ffc2e642a3950b0509130a76ad4">TransportAnimation::TotalTime</a></div><div class="ttdeci">uint32 TotalTime</div><div class="ttdef"><b>Definition:</b> TransportMgr.h:93</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   62</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d9/d69/a10343.html#ae41a024489dbe5d11ba6dceed6b7442f">_navMesh</a>.get(); }</div>
+<div class="ttc" id="aa10343_html_ae41a024489dbe5d11ba6dceed6b7442f"><div class="ttname"><a href="../../d9/d69/a10343.html#ae41a024489dbe5d11ba6dceed6b7442f">MMapData::_navMesh</a></div><div class="ttdeci">std::shared_ptr&lt; dtNavMesh &gt; _navMesh</div><div class="ttdef"><b>Definition:</b> MapCollisionData.h:67</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00067">_navMesh</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00565">misc_commandscript::HandleGPSCommand()</a>, <a class="el" href="../../#l00229">mmaps_commandscript::HandleMmapLoadedTilesCommand()</a>, <a class="el" href="../../#l00131">mmaps_commandscript::HandleMmapLocCommand()</a>, <a class="el" href="../../#l00063">mmaps_commandscript::HandleMmapPathCommand()</a>, <a class="el" href="../../#l00254">mmaps_commandscript::HandleMmapStatsCommand()</a>, and <a class="el" href="../../#l00126">PathGenerator::PathGenerator()</a>.</p>
+
 </div>
 </div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a73b56750c90afce38dbf57793bae16f3" name="a73b56750c90afce38dbf57793bae16f3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a73b56750c90afce38dbf57793bae16f3">&#9670;&#160;</a></span>GetAnimNode()</h2>
+<a id="af524ac62385fdd4d4c6a4f01afafbb49" name="af524ac62385fdd4d4c6a4f01afafbb49"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af524ac62385fdd4d4c6a4f01afafbb49">&#9670;&#160;</a></span>GetNavMeshQuery()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">bool TransportAnimation::GetAnimNode </td>
+          <td class="memname">dtNavMeshQuery const  * MMapData::GetNavMeshQuery </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>time</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d6/db0/a29495.html">TransportAnimationEntry</a> const *&amp;&#160;</td>
-          <td class="paramname"><em>curr</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d6/db0/a29495.html">TransportAnimationEntry</a> const *&amp;&#160;</td>
-          <td class="paramname"><em>next</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float &amp;&#160;</td>
-          <td class="paramname"><em>percPos</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td> const</td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  510</span>{</div>
-<div class="line"><span class="lineno">  511</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d9/d69/a10343.html#a7c45df781dda8058d281a2cf7e5fe5fb">Path</a>.empty())</div>
-<div class="line"><span class="lineno">  512</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  513</span> </div>
-<div class="line"><span class="lineno">  514</span>    <span class="keywordflow">for</span> (TransportPathContainer::const_reverse_iterator itr = <a class="code hl_variable" href="../../d9/d69/a10343.html#a7c45df781dda8058d281a2cf7e5fe5fb">Path</a>.rbegin(); itr != <a class="code hl_variable" href="../../d9/d69/a10343.html#a7c45df781dda8058d281a2cf7e5fe5fb">Path</a>.rend(); ++itr)</div>
-<div class="line"><span class="lineno">  515</span>        <span class="keywordflow">if</span> (time &gt;= itr-&gt;first)</div>
-<div class="line"><span class="lineno">  516</span>        {</div>
-<div class="line"><span class="lineno">  517</span>            curr = itr-&gt;second;</div>
-<div class="line"><span class="lineno">  518</span>            <a class="code hl_define" href="../../db/d10/a00350.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(itr != <a class="code hl_variable" href="../../d9/d69/a10343.html#a7c45df781dda8058d281a2cf7e5fe5fb">Path</a>.rbegin());</div>
-<div class="line"><span class="lineno">  519</span>            --itr;</div>
-<div class="line"><span class="lineno">  520</span>            next = itr-&gt;second;</div>
-<div class="line"><span class="lineno">  521</span>            percPos = float(time - curr-&gt;TimeSeg) / float(next-&gt;TimeSeg - curr-&gt;TimeSeg);</div>
-<div class="line"><span class="lineno">  522</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  523</span>        }</div>
-<div class="line"><span class="lineno">  524</span> </div>
-<div class="line"><span class="lineno">  525</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  526</span>}</div>
-<div class="ttc" id="aa00350_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../db/d10/a00350.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
-<div class="ttc" id="aa10343_html_a7c45df781dda8058d281a2cf7e5fe5fb"><div class="ttname"><a href="../../d9/d69/a10343.html#a7c45df781dda8058d281a2cf7e5fe5fb">TransportAnimation::Path</a></div><div class="ttdeci">TransportPathContainer Path</div><div class="ttdef"><b>Definition:</b> TransportMgr.h:91</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  178</span>{</div>
+<div class="line"><span class="lineno">  179</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d9/d69/a10343.html#ae41a024489dbe5d11ba6dceed6b7442f">_navMesh</a> &amp;&amp; !<a class="code hl_variable" href="../../d9/d69/a10343.html#a237375e56702f7e83c9e13e1f959cfdb">_navMeshQuery</a>)</div>
+<div class="line"><span class="lineno">  180</span>        <a class="code hl_variable" href="../../d9/d69/a10343.html#a237375e56702f7e83c9e13e1f959cfdb">_navMeshQuery</a> = <a class="code hl_function" href="../../dd/dd5/a05343.html#affca526b45b63f9c827a52baa212f02c">MMAP::MMapMgr::CreateNavMeshQuery</a>(<a class="code hl_variable" href="../../d9/d69/a10343.html#ae41a024489dbe5d11ba6dceed6b7442f">_navMesh</a>.get());</div>
+<div class="line"><span class="lineno">  181</span> </div>
+<div class="line"><span class="lineno">  182</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d9/d69/a10343.html#a237375e56702f7e83c9e13e1f959cfdb">_navMeshQuery</a>.get();</div>
+<div class="line"><span class="lineno">  183</span>}</div>
+<div class="ttc" id="aa05343_html_affca526b45b63f9c827a52baa212f02c"><div class="ttname"><a href="../../dd/dd5/a05343.html#affca526b45b63f9c827a52baa212f02c">MMAP::MMapMgr::CreateNavMeshQuery</a></div><div class="ttdeci">static ManagedNavMeshQuery CreateNavMeshQuery(dtNavMesh *navMesh)</div><div class="ttdef"><b>Definition:</b> MMapMgr.cpp:124</div></div>
+<div class="ttc" id="aa10343_html_a237375e56702f7e83c9e13e1f959cfdb"><div class="ttname"><a href="../../d9/d69/a10343.html#a237375e56702f7e83c9e13e1f959cfdb">MMapData::_navMeshQuery</a></div><div class="ttdeci">MMAP::ManagedNavMeshQuery _navMeshQuery</div><div class="ttdef"><b>Definition:</b> MapCollisionData.h:69</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00091">Path</a>, and <a class="el" href="../../#l02006">TransportAnimationEntry::TimeSeg</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00067">_navMesh</a>, <a class="el" href="../../#l00069">_navMeshQuery</a>, and <a class="el" href="../../#l00124">MMAP::MMapMgr::CreateNavMeshQuery()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01021">StaticTransport::RelocateToProgress()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00229">mmaps_commandscript::HandleMmapLoadedTilesCommand()</a>, <a class="el" href="../../#l00131">mmaps_commandscript::HandleMmapLocCommand()</a>, and <a class="el" href="../../#l00126">PathGenerator::PathGenerator()</a>.</p>
 
 </div>
 </div>
-<a id="aa2c892f14712828acaa85fa6e6d919bb" name="aa2c892f14712828acaa85fa6e6d919bb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa2c892f14712828acaa85fa6e6d919bb">&#9670;&#160;</a></span>GetAnimRotation()</h2>
+<h2 class="groupheader">Friends And Related Function Documentation</h2>
+<a id="a472038a89678719bf8868ab0c75e394f" name="a472038a89678719bf8868ab0c75e394f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a472038a89678719bf8868ab0c75e394f">&#9670;&#160;</a></span>MapCollisionData</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void TransportAnimation::GetAnimRotation </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>time</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">G3D::Quat &amp;&#160;</td>
-          <td class="paramname"><em>curr</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">G3D::Quat &amp;&#160;</td>
-          <td class="paramname"><em>next</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float &amp;&#160;</td>
-          <td class="paramname"><em>percRot</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td> const</td>
+          <td class="memname">friend class <a class="el" href="../../d2/dc1/a10347.html">MapCollisionData</a></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  529</span>{</div>
-<div class="line"><span class="lineno">  530</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d9/d69/a10343.html#a5fa771fb487c437d7d6229eadf7d90c3">Rotations</a>.empty())</div>
-<div class="line"><span class="lineno">  531</span>    {</div>
-<div class="line"><span class="lineno">  532</span>        curr = G3D::Quat(0.0f, 0.0f, 0.0f, 1.0f);</div>
-<div class="line"><span class="lineno">  533</span>        next = G3D::Quat(0.0f, 0.0f, 0.0f, 1.0f);</div>
-<div class="line"><span class="lineno">  534</span>        percRot = 0.0f;</div>
-<div class="line"><span class="lineno">  535</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  536</span>    }</div>
-<div class="line"><span class="lineno">  537</span> </div>
-<div class="line"><span class="lineno">  538</span>    <span class="keywordflow">for</span> (TransportPathRotationContainer::const_reverse_iterator itr = <a class="code hl_variable" href="../../d9/d69/a10343.html#a5fa771fb487c437d7d6229eadf7d90c3">Rotations</a>.rbegin(); itr != <a class="code hl_variable" href="../../d9/d69/a10343.html#a5fa771fb487c437d7d6229eadf7d90c3">Rotations</a>.rend(); ++itr)</div>
-<div class="line"><span class="lineno">  539</span>        <span class="keywordflow">if</span> (time &gt;= itr-&gt;first)</div>
-<div class="line"><span class="lineno">  540</span>        {</div>
-<div class="line"><span class="lineno">  541</span>            <a class="code hl_typedef" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> currSeg = itr-&gt;second-&gt;TimeSeg, nextSeg;</div>
-<div class="line"><span class="lineno">  542</span>            curr = G3D::Quat(itr-&gt;second-&gt;X, itr-&gt;second-&gt;Y, itr-&gt;second-&gt;Z, itr-&gt;second-&gt;W);</div>
-<div class="line"><span class="lineno">  543</span>            <span class="keywordflow">if</span> (itr != <a class="code hl_variable" href="../../d9/d69/a10343.html#a5fa771fb487c437d7d6229eadf7d90c3">Rotations</a>.rbegin())</div>
-<div class="line"><span class="lineno">  544</span>            {</div>
-<div class="line"><span class="lineno">  545</span>                --itr;</div>
-<div class="line"><span class="lineno">  546</span>                next = G3D::Quat(itr-&gt;second-&gt;X, itr-&gt;second-&gt;Y, itr-&gt;second-&gt;Z, itr-&gt;second-&gt;W);</div>
-<div class="line"><span class="lineno">  547</span>                nextSeg = itr-&gt;second-&gt;TimeSeg;</div>
-<div class="line"><span class="lineno">  548</span>            }</div>
-<div class="line"><span class="lineno">  549</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  550</span>            {</div>
-<div class="line"><span class="lineno">  551</span>                next = G3D::Quat(<a class="code hl_variable" href="../../d9/d69/a10343.html#a5fa771fb487c437d7d6229eadf7d90c3">Rotations</a>.begin()-&gt;second-&gt;X, <a class="code hl_variable" href="../../d9/d69/a10343.html#a5fa771fb487c437d7d6229eadf7d90c3">Rotations</a>.begin()-&gt;second-&gt;Y, <a class="code hl_variable" href="../../d9/d69/a10343.html#a5fa771fb487c437d7d6229eadf7d90c3">Rotations</a>.begin()-&gt;second-&gt;Z, <a class="code hl_variable" href="../../d9/d69/a10343.html#a5fa771fb487c437d7d6229eadf7d90c3">Rotations</a>.begin()-&gt;second-&gt;W);</div>
-<div class="line"><span class="lineno">  552</span>                nextSeg = this-&gt;<a class="code hl_variable" href="../../d9/d69/a10343.html#a59a31ffc2e642a3950b0509130a76ad4">TotalTime</a>;</div>
-<div class="line"><span class="lineno">  553</span>            }</div>
-<div class="line"><span class="lineno">  554</span>            percRot = float(time - currSeg) / float(nextSeg - currSeg);</div>
-<div class="line"><span class="lineno">  555</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  556</span>        }</div>
-<div class="line"><span class="lineno">  557</span> </div>
-<div class="line"><span class="lineno">  558</span>    curr = G3D::Quat(0.0f, 0.0f, 0.0f, 1.0f);</div>
-<div class="line"><span class="lineno">  559</span>    next = G3D::Quat(0.0f, 0.0f, 0.0f, 1.0f);</div>
-<div class="line"><span class="lineno">  560</span>    percRot = 0.0f;</div>
-<div class="line"><span class="lineno">  561</span>}</div>
-<div class="ttc" id="aa00380_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
-<div class="ttc" id="aa10343_html_a5fa771fb487c437d7d6229eadf7d90c3"><div class="ttname"><a href="../../d9/d69/a10343.html#a5fa771fb487c437d7d6229eadf7d90c3">TransportAnimation::Rotations</a></div><div class="ttdeci">TransportPathRotationContainer Rotations</div><div class="ttdef"><b>Definition:</b> TransportMgr.h:92</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00092">Rotations</a>, and <a class="el" href="../../#l00093">TotalTime</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l01021">StaticTransport::RelocateToProgress()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a7c45df781dda8058d281a2cf7e5fe5fb" name="a7c45df781dda8058d281a2cf7e5fe5fb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7c45df781dda8058d281a2cf7e5fe5fb">&#9670;&#160;</a></span>Path</h2>
+<a id="ae41a024489dbe5d11ba6dceed6b7442f" name="ae41a024489dbe5d11ba6dceed6b7442f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae41a024489dbe5d11ba6dceed6b7442f">&#9670;&#160;</a></span>_navMesh</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d7/d59/a01013.html#a7905b31432c2140de30ffc9363c3e9b9">TransportPathContainer</a> TransportAnimation::Path</td>
+          <td class="memname">std::shared_ptr&lt;dtNavMesh&gt; MMapData::_navMesh</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00353">TransportMgr::AddPathNodeToTransport()</a>, and <a class="el" href="../../#l00509">GetAnimNode()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00090">MapCollisionData::GetMMapNavMeshSharedPtr()</a>, <a class="el" href="../../#l00062">GetNavMesh()</a>, <a class="el" href="../../#l00177">GetNavMeshQuery()</a>, <a class="el" href="../../#l00063">MapCollisionData::LoadMMapTile()</a>, and <a class="el" href="../../#l00031">MapCollisionData::MapCollisionData()</a>.</p>
 
 </div>
 </div>
-<a id="a5fa771fb487c437d7d6229eadf7d90c3" name="a5fa771fb487c437d7d6229eadf7d90c3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5fa771fb487c437d7d6229eadf7d90c3">&#9670;&#160;</a></span>Rotations</h2>
+<a id="a237375e56702f7e83c9e13e1f959cfdb" name="a237375e56702f7e83c9e13e1f959cfdb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a237375e56702f7e83c9e13e1f959cfdb">&#9670;&#160;</a></span>_navMeshQuery</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d7/d59/a01013.html#a58adfcebbe67029f647a3db4897a6558">TransportPathRotationContainer</a> TransportAnimation::Rotations</td>
+          <td class="memname"><a class="el" href="../../dc/de6/a05126.html#aa9864ce68a669d59d8baee4cb742900b">MMAP::ManagedNavMeshQuery</a> MMapData::_navMeshQuery</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00528">GetAnimRotation()</a>.</p>
-
-</div>
-</div>
-<a id="a59a31ffc2e642a3950b0509130a76ad4" name="a59a31ffc2e642a3950b0509130a76ad4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a59a31ffc2e642a3950b0509130a76ad4">&#9670;&#160;</a></span>TotalTime</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> TransportAnimation::TotalTime</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00353">TransportMgr::AddPathNodeToTransport()</a>, <a class="el" href="../../#l00833">StaticTransport::Create()</a>, <a class="el" href="../../#l00528">GetAnimRotation()</a>, and <a class="el" href="../../#l00141">StaticTransport::GetPeriod()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00177">GetNavMeshQuery()</a>.</p>
 
 </div>
 </div>
@@ -358,8 +273,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d9/d69/a10343.html">TransportAnimation</a></li>
-    <li class="footer">Generated on Tue Sep 1 2026 00:10:03 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d9/d69/a10343.html">MMapData</a></li>
+    <li class="footer">Generated on Mon Sep 21 2026 23:33:56 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

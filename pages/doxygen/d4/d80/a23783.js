@@ -1,6 +1,6 @@
 var a23783 =
 [
-    [ "npc_warden_mellicharAI", "da/d08/a23787.html", "da/d08/a23787" ],
-    [ "npc_warden_mellichar", "d4/d80/a23783.html#aba5c3d005097430941bd40bbbb0d3562", null ],
-    [ "GetAI", "d4/d80/a23783.html#a7cb7437a61b49d8110c3b7fee43e495b", null ]
+    [ "HandleHit", "d4/d80/a23783.html#ab948b958955c2413ad6e15dfa09fd3cd", null ],
+    [ "PrepareSpellScript", "d4/d80/a23783.html#a37ff09e6b82d69c85b5bd98e84968569", null ],
+    [ "Register", "d4/d80/a23783.html#acb1b681f587817614c2b3684585369db", null ]
 ];

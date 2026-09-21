@@ -1,6 +1,7 @@
 var a27643 =
 [
-    [ "CheckProc", "df/d2b/a27643.html#a705be9d078a9c7b04bcec0594cab9ac5", null ],
-    [ "PrepareAuraScript", "df/d2b/a27643.html#a68fd79f1f62bcc748f9cce4423632f7f", null ],
-    [ "Register", "df/d2b/a27643.html#acac1c6d063090bf191fcd202d7d07c20", null ]
+    [ "HandleDispel", "df/d2b/a27643.html#aeab02cfd37c20aaf57e70aca62c82d99", null ],
+    [ "PrepareAuraScript", "df/d2b/a27643.html#a9dc5d5dc34bc9aed6094c0c55533ad5e", null ],
+    [ "Register", "df/d2b/a27643.html#a9cfb0fe1465c55b97032ae528ce00bcb", null ],
+    [ "Validate", "df/d2b/a27643.html#ad29fdb4b99e9782cf8bace07384fa87c", null ]
 ];

@@ -1,8 +1,10 @@
 var a27015 =
 [
-    [ "CheckProc", "da/ddd/a27015.html#a0c649a70d0413fd24f29d3f2a03d3b4b", null ],
-    [ "HandleProc", "da/ddd/a27015.html#ae9e9ef38c6cdf57eccbeafb9f8c5cac0", null ],
-    [ "PrepareAuraScript", "da/ddd/a27015.html#adc8f29fd41def510195365f40fd5340b", null ],
-    [ "Register", "da/ddd/a27015.html#add7ed115ee403870f46e25614fac3840", null ],
-    [ "Validate", "da/ddd/a27015.html#aa9e341cbf35a4a6c2f42f55a216241b8", null ]
+    [ "Absorb", "da/ddd/a27015.html#ab4006b00d415a94e6a49856cee7e272b", null ],
+    [ "CalculateAmount", "da/ddd/a27015.html#a57bfd4e7178e9e7c3df12c025d0c7d9e", null ],
+    [ "Load", "da/ddd/a27015.html#a88aa9623f587bb7b5e91da83c76f562a", null ],
+    [ "PrepareAuraScript", "da/ddd/a27015.html#a456c1bd5b284f642d1e040de52eee24b", null ],
+    [ "Register", "da/ddd/a27015.html#a905994099dcc4ac9512d5f27b78a778c", null ],
+    [ "Validate", "da/ddd/a27015.html#ad99966111a1919c610a942a8eb133ea1", null ],
+    [ "healPct", "da/ddd/a27015.html#a3b0527ce7f1fd6afaa57f942275ec81b", null ]
 ];

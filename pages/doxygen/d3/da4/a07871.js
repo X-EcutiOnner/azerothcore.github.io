@@ -1,14 +1,9 @@
 var a07871 =
 [
-    [ "AccountId", "d3/da4/a07871.html#ae1921d1e949cec70ebbd52779b775df6", null ],
-    [ "ArenaTeamId", "d3/da4/a07871.html#a1d094e514af9970b0239cc8e27da06bc", null ],
-    [ "Class", "d3/da4/a07871.html#a19dbbbdce9dbf9993d57edbebeeaf425", null ],
-    [ "GroupGuid", "d3/da4/a07871.html#a4b6f5540de2e47959a053696698e8e05", null ],
-    [ "Guid", "d3/da4/a07871.html#ae0d1c9151ec4f2401b2d9fdd1c1d1532", null ],
-    [ "GuildId", "d3/da4/a07871.html#a4fba749bb66642a1601c5cb37c756222", null ],
-    [ "Level", "d3/da4/a07871.html#a41ea77c9e690336b709259bfccbd939f", null ],
-    [ "MailCount", "d3/da4/a07871.html#a6ed31437554dab26387118cb1d1783b1", null ],
-    [ "Name", "d3/da4/a07871.html#a7d2bae6994c96b2b2ac2eefbab4b8f8b", null ],
-    [ "Race", "d3/da4/a07871.html#aa57c5abbbd7218d26e4156b310229766", null ],
-    [ "Sex", "d3/da4/a07871.html#a91c17eef26be0a18823a9834853c296a", null ]
+    [ "entry", "d3/da4/a07871.html#a4c6980a035279ca45e88a2ddc0beb0b5", null ],
+    [ "o", "d3/da4/a07871.html#a785703f50dcafda5888fb76af82a09da", null ],
+    [ "type", "d3/da4/a07871.html#aa21624a51b1fbfc474d0c64f4996cb9b", null ],
+    [ "x", "d3/da4/a07871.html#a55bd18cb9ea27748a07dd91f6783de23", null ],
+    [ "y", "d3/da4/a07871.html#a908fbf198d908963e77630b42deea147", null ],
+    [ "z", "d3/da4/a07871.html#a4a49f5cbb58764ea9c137fc010e898c6", null ]
 ];

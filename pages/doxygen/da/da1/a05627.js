@@ -1,11 +1,12 @@
 var a05627 =
 [
-    [ "Decode", "da/da1/a05627.html#a1017c0ca9db8f38832271dbe04a6c22c", null ],
-    [ "DecodedSize", "da/da1/a05627.html#ae7f09527200686c22611e59e995a17ef", null ],
-    [ "Encode", "da/da1/a05627.html#a9132df0434948b03df8f79b6cc48252c", null ],
-    [ "EncodedSize", "da/da1/a05627.html#ab6808fd4c674e10ce28153394189abf5", null ],
-    [ "BITS_PER_CHAR", "da/da1/a05627.html#a04facbd14c7d876af5154cb200d74e6b", null ],
-    [ "DECODE_ERROR", "da/da1/a05627.html#ab52b675a0956909cdac9413443551086", null ],
-    [ "PAD_TO", "da/da1/a05627.html#a8cec4e14ca170842d1eadf8b7b42b12b", null ],
-    [ "PADDING", "da/da1/a05627.html#a328b2cd9dc377fb8d5b6740cde162b92", null ]
+    [ "RegistryMapType", "da/da1/a05627.html#ab6a131bc0c7d0ddcb9ad34044b9c8ac2", null ],
+    [ "ObjectRegistry", "da/da1/a05627.html#aa3bcc30791e82bc900eacf1c5833b7f8", null ],
+    [ "~ObjectRegistry", "da/da1/a05627.html#a2734a0e6001f597b43e006bc9d84a6b1", null ],
+    [ "GetRegisteredItems", "da/da1/a05627.html#aba4a4fcc7ee59afbb4dea6df7410dc02", null ],
+    [ "GetRegistryItem", "da/da1/a05627.html#a474bdff0ab0f0a3db5f914b9dfaa48d1", null ],
+    [ "HasItem", "da/da1/a05627.html#a3c95897734a780c1f299d24a058b3595", null ],
+    [ "InsertItem", "da/da1/a05627.html#a55416824a5dff4138f5d828e352e3d7c", null ],
+    [ "instance", "da/da1/a05627.html#a7a6582a84361d5ad1142f29c9e1d9cb5", null ],
+    [ "_registeredObjects", "da/da1/a05627.html#a61e6a6eb75512241e82092abfeba7a65", null ]
 ];

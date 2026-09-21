@@ -1,6 +1,20 @@
 var a15459 =
 [
-    [ "npc_belnistraszAI", "d2/d58/a15463.html", "d2/d58/a15463" ],
-    [ "npc_belnistrasz", "df/d7e/a15459.html#a7aa0e9bfcfaf74febe67cbcb94c01ddb", null ],
-    [ "GetAI", "df/d7e/a15459.html#aac9d4389ec1c88be9afb6b9a828da511", null ]
+    [ "instance_the_black_morass_InstanceMapScript", "df/d7e/a15459.html#aa44359378462c0e0de9aad778bb67b6c", null ],
+    [ "CleanupInstance", "df/d7e/a15459.html#afa6718d4aba7ed4f2cf3da1552bff6f0", null ],
+    [ "GetData", "df/d7e/a15459.html#ae8e2aa62fd1e96aef87cd4ef00d3bf5c", null ],
+    [ "OnCreatureCreate", "df/d7e/a15459.html#a024b2c41699ec1ee40b5adbfe355c498", null ],
+    [ "OnCreatureRemove", "df/d7e/a15459.html#af9f5df1e16ca32705fb66d39f5c2526b", null ],
+    [ "OnPlayerEnter", "df/d7e/a15459.html#a151c4f2b0e2210d261a29c2c5f8512c9", null ],
+    [ "ScheduleNextPortal", "df/d7e/a15459.html#aa6187583d1a821cb8c60544566637885", null ],
+    [ "SetBossState", "df/d7e/a15459.html#a8d08e9d50547706579e2eb313583fa12", null ],
+    [ "SetData", "df/d7e/a15459.html#af6b8897ec076a9efa9c8dac8d39398a3", null ],
+    [ "Update", "df/d7e/a15459.html#aa92607dccc1d83c0bbcfd98b6b420042", null ],
+    [ "_availableRiftPositions", "df/d7e/a15459.html#a12c33ad0c493997995b13c2bf6a7271c", null ],
+    [ "_currentRift", "df/d7e/a15459.html#aa994df6a0d7f6c5547ce7c9d0e643ef5", null ],
+    [ "_encounterNPCs", "df/d7e/a15459.html#a50b6d6bf47994ae4d69c9ca26540c814", null ],
+    [ "_eventStatus", "df/d7e/a15459.html#a351f6e209d99e0a4c63e26bd9cf55646", null ],
+    [ "_noBossSpawnDelay", "df/d7e/a15459.html#a70d2a49424c250b761858a3102e37e39", null ],
+    [ "_scheduler", "df/d7e/a15459.html#ac176dc2a8851a3f8a98663037757a380", null ],
+    [ "_shieldPercent", "df/d7e/a15459.html#a8ef05e2031267a5dc21c0999e181344b", null ]
 ];

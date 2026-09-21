@@ -1,5 +1,7 @@
 var a11167 =
 [
-    [ "GuildLeave", "db/d46/a11167.html#a6a09ab5c50b7185a91e76f428e28f402", null ],
-    [ "Read", "db/d46/a11167.html#a0ea07ca846a92b5357276b5868d98e5f", null ]
+    [ "GuildInvite", "db/d46/a11167.html#a7b5ef96e9a9d4c6665b280bb844b6d54", null ],
+    [ "Write", "db/d46/a11167.html#a4ed1c240a53fa6268eb07b3c77d68757", null ],
+    [ "GuildName", "db/d46/a11167.html#ac3ae572bb65d5ea156151e5fc7abf5b8", null ],
+    [ "InviterName", "db/d46/a11167.html#a8a91b3f9a94776da4b23c38220c6fc3d", null ]
 ];

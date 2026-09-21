@@ -1,8 +1,11 @@
 var a18771 =
 [
-    [ "Load", "dd/dd1/a18771.html#add67e02f44e3658bff98faf7a9466ba3", null ],
-    [ "OnPeriodic", "dd/dd1/a18771.html#a3e523e0bb23e4aba279ba6704206bfc4", null ],
-    [ "PrepareAuraScript", "dd/dd1/a18771.html#a399fc30c23c03d3c4964ec23faed7c18", null ],
-    [ "Register", "dd/dd1/a18771.html#a4ee6fe23e45481eea16f77d8de72742e", null ],
-    [ "_is25Man", "dd/dd1/a18771.html#ab7776e2d8eff0de1176d5d5efa853c6d", null ]
+    [ "AddMissingStack", "dd/dd1/a18771.html#ae23dc772e58db8648a7ddbf5255bd917", null ],
+    [ "CheckAura", "dd/dd1/a18771.html#a9d9e5620f61c92d35b08bec100b5a12a", null ],
+    [ "FilterTargets", "dd/dd1/a18771.html#ab6c86c3680823329d5f3aad985aa316a", null ],
+    [ "Load", "dd/dd1/a18771.html#a823e600ee1a350ab60ea69043e4fbef9", null ],
+    [ "PrepareSpellScript", "dd/dd1/a18771.html#aff3b52df65504d7d4928b1ff69c1fa4b", null ],
+    [ "Register", "dd/dd1/a18771.html#af0e6f1fc6687de1abcc1689116150088", null ],
+    [ "_hadInitialAura", "dd/dd1/a18771.html#a1b553c0ad5fc4e86f02829b5284db709", null ],
+    [ "_hadJumpingAura", "dd/dd1/a18771.html#ade3c2e5f78cbfbc34a3cbc8259e241db", null ]
 ];

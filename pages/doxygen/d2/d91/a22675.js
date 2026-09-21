@@ -1,12 +1,13 @@
 var a22675 =
 [
-    [ "boss_exarch_maladaar", "d2/d91/a22675.html#a5dac68e3dc6fc37736bf85b84eadd417", null ],
-    [ "JustDied", "d2/d91/a22675.html#ab1179a19af8948d430559db4074c41ed", null ],
-    [ "JustEngagedWith", "d2/d91/a22675.html#a69427e7a0ca70253ad8035b5e6b1e01e", null ],
-    [ "JustSummoned", "d2/d91/a22675.html#a8f59e1b093af8c85da8c2fd38e01ca1b", null ],
-    [ "KilledUnit", "d2/d91/a22675.html#adf35cb8b039676500d4040baa08b0d48", null ],
-    [ "MoveInLineOfSight", "d2/d91/a22675.html#a14baacd30b9186c7492c981313421d5b", null ],
-    [ "Reset", "d2/d91/a22675.html#accb21d3c4a6856d2de9641cf84c42ce9", null ],
-    [ "UpdateAI", "d2/d91/a22675.html#a7646c4477135d3d3b8580432902babd4", null ],
-    [ "_talked", "d2/d91/a22675.html#a15c4f122529b9f52823ea407c43433c5", null ]
+    [ "OPvPCapturePointEP_PWT", "d2/d91/a22675.html#a17e3d11c9b282f203bb0e1511fb5af02", null ],
+    [ "ChangeState", "d2/d91/a22675.html#a1e26a3ed8d700533df0a51d8db510a4f", null ],
+    [ "FillInitialWorldStates", "d2/d91/a22675.html#ab5faf124f53394a4a54a86a7bf5d0626", null ],
+    [ "HandlePlayerEnter", "d2/d91/a22675.html#ab9bf289c0814e60fd75902b4e87d1e46", null ],
+    [ "HandlePlayerLeave", "d2/d91/a22675.html#a5772e54263c613eee365856def5e74e6", null ],
+    [ "SendChangePhase", "d2/d91/a22675.html#af1cffc64adac5b64c04175ad1685d0b8", null ],
+    [ "SummonFlightMaster", "d2/d91/a22675.html#ab3808f8d756cc5f0b48db9375ae2fa1c", null ],
+    [ "UpdateTowerState", "d2/d91/a22675.html#af30325b43d2861eb667b33dcb23ffc1e", null ],
+    [ "m_FlightMasterSpawnedId", "d2/d91/a22675.html#afeefd804849b925e6d0a880d8efb5319", null ],
+    [ "m_TowerState", "d2/d91/a22675.html#a914dcbb37baf457750cfe9829d95d88c", null ]
 ];

@@ -1,6 +1,7 @@
 var a15243 =
 [
-    [ "boss_epochAI", "d6/d28/a15247.html", "d6/d28/a15247" ],
-    [ "boss_epoch", "d3/d66/a15243.html#a78b7d775bc3fc44496e41c58f2ed534d", null ],
-    [ "GetAI", "d3/d66/a15243.html#a2673a4fb8c70d62009dfdc6daf23aee2", null ]
+    [ "PeriodicTick", "d3/d66/a15243.html#aa94e4d6a31a08959a5287b863737c2e2", null ],
+    [ "PrepareAuraScript", "d3/d66/a15243.html#a59a9c4dfe06859daac5bb69fa5d20e95", null ],
+    [ "Register", "d3/d66/a15243.html#a24058b120f4fa06b89f6d582c53a365a", null ],
+    [ "Validate", "d3/d66/a15243.html#a093b09be5abde91a1487d67a7a554d30", null ]
 ];

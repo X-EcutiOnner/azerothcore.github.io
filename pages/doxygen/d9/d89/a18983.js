@@ -1,8 +1,6 @@
 var a18983 =
 [
-    [ "DecayPeriodicTimer", "d9/d89/a18983.html#a314ac33692cc352c490ec3d87177d67a", null ],
-    [ "Load", "d9/d89/a18983.html#af5a498253c4c382df3b2462a30448a64", null ],
-    [ "PrepareAuraScript", "d9/d89/a18983.html#ac5d4ee199b49e04499997355ac054554", null ],
-    [ "Register", "d9/d89/a18983.html#a1b59480ce384f09cecd47872b39cf3c5", null ],
-    [ "_decayRate", "d9/d89/a18983.html#a20c696ff06f9b48451d9eac43ccf5416", null ]
+    [ "npc_the_lich_king_controllerAI", "df/d83/a18987.html", "df/d83/a18987" ],
+    [ "npc_the_lich_king_controller", "d9/d89/a18983.html#a32b14d699737497ba7c90d8ef17557d7", null ],
+    [ "GetAI", "d9/d89/a18983.html#ae9b6dacb0f4e8e6f12f187ab0dfd2165", null ]
 ];

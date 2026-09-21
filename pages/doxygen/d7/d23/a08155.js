@@ -1,5 +1,5 @@
 var a08155 =
 [
-    [ "IsColorValid", "d7/d23/a08155.html#a4bb1cd2a247136daadfa36f85b50a65d", null ],
-    [ "IsTextValid", "d7/d23/a08155.html#a25b0d16c232ab67fc75a81a494fb5815", null ]
+    [ "value_type", "d7/d23/a08155.html#ab102122dc913801a43be2fc6e4d5b2b4", null ],
+    [ "TryConsume", "d7/d23/a08155.html#a4916376e89113eea20071f4f584c6a75", null ]
 ];

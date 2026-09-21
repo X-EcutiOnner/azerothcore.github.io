@@ -1,6 +1,6 @@
 var a21903 =
 [
-    [ "npc_q24545_vegardAI", "de/d3e/a21907.html", "de/d3e/a21907" ],
-    [ "npc_q24545_vegard", "d1/d0a/a21903.html#ac12e2f143fab6b93950eaea06f5f7d85", null ],
-    [ "GetAI", "d1/d0a/a21903.html#a9a7accfb3eea9f08efbb82fbd4bd7e76", null ]
+    [ "npc_mindless_ghoulAI", "d1/d0a/a21903.html#a4cc0dbd4aa2366115348bc1db273a5e2", null ],
+    [ "CanAIAttack", "d1/d0a/a21903.html#a18fbc44ad760a69d952d003622ec75b2", null ],
+    [ "JustDied", "d1/d0a/a21903.html#a272067bef6dbab24024f7de990c10b64", null ]
 ];

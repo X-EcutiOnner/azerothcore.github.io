@@ -1,7 +1,7 @@
 var a28635 =
 [
-    [ "npc_wormholeAI", "d8/d4a/a28635.html#a75c28ce9bcbb5ef6fb4213d000d5596a", null ],
-    [ "GetData", "d8/d4a/a28635.html#ad4c9f2265f126c7f2b5538bab6b75cb3", null ],
-    [ "InitializeAI", "d8/d4a/a28635.html#aa0a903014ec7243036604ffcc67e0a36", null ],
-    [ "_showUnderground", "d8/d4a/a28635.html#a6a2fbf623b8fc55cfd48a12e2c515134", null ]
+    [ "npc_riggle_bassbaitAI", "d8/d4a/a28635.html#ad7a1a7a6f4c4ebb7ab93878ebb3a9a5b", null ],
+    [ "CheckTournamentState", "d8/d4a/a28635.html#aa7b4393b93be92fbb595648cede832be", null ],
+    [ "UpdateAI", "d8/d4a/a28635.html#ad0fca96e2c770ef179d98dcdd9aaca6e", null ],
+    [ "m_uiTimer", "d8/d4a/a28635.html#aec45a971a5b7aa574e905e9a2338fe90", null ]
 ];

@@ -1,7 +1,10 @@
 var a10943 =
 [
-    [ "AutoStoreBankItem", "df/dd8/a10943.html#a1cdb7e9c7da7e646af14ac4ac3b7e950", null ],
-    [ "Read", "df/dd8/a10943.html#a2a482b716f537866a815085ead9cfd38", null ],
-    [ "Bag", "df/dd8/a10943.html#a08d2992816ee94b6757c2811b54ed437", null ],
-    [ "Slot", "df/dd8/a10943.html#aaf2cd8c1c3d67301cc40af78f138daa0", null ]
+    [ "VehicleScript", "df/dd8/a10943.html#a35a301eed5615f07831eb840ca48d469", null ],
+    [ "OnAddPassenger", "df/dd8/a10943.html#a4495f8900ecb85546ac23ebe4783ae7c", null ],
+    [ "OnInstall", "df/dd8/a10943.html#abbb42dcbc5fad97ed1df45ea7b3afe54", null ],
+    [ "OnInstallAccessory", "df/dd8/a10943.html#ad59ae4c47404abb86e05ae983704f6ea", null ],
+    [ "OnRemovePassenger", "df/dd8/a10943.html#ad4094366aba1fb6a1ff19361d1be9210", null ],
+    [ "OnReset", "df/dd8/a10943.html#a38fca3fec8785f015084b832f9e3b08c", null ],
+    [ "OnUninstall", "df/dd8/a10943.html#a7d4bafe42756ee73b5ce79783842c243", null ]
 ];

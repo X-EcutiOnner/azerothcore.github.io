@@ -1,7 +1,11 @@
 var a10239 =
 [
-    [ "ownerGUID", "dd/d7a/a10239.html#a3c89974ea78b732cbffb8a9d482d403b", null ],
-    [ "script", "dd/d7a/a10239.html#ad995c862431acd9d45cc12c9d5c8b319", null ],
-    [ "sourceGUID", "dd/d7a/a10239.html#acafb40cbd1e73152f9dbf390f1fc98f3", null ],
-    [ "targetGUID", "dd/d7a/a10239.html#a1505a3b9a6de23dcd6b2847207a279ca", null ]
+    [ "DeleteEmptyExpiredMail", "dd/d7a/a10239.html#a3cd0e2570c8c684d09931331dfb5837f", null ],
+    [ "instance", "dd/d7a/a10239.html#abe24c4d840d5f2b05958a44cd63b8b35", null ],
+    [ "LoadMailCounts", "dd/d7a/a10239.html#a6786cc5036259c23256b669da1146012", null ],
+    [ "OnMailDeleted", "dd/d7a/a10239.html#a699bf593d7f00470878504141e7fe3df", null ],
+    [ "OnMailReturned", "dd/d7a/a10239.html#ac355df32c38e8619cf18cee283894c64", null ],
+    [ "OnMailSent", "dd/d7a/a10239.html#ad22a9a0cf09a5dc7acaf14dfdd0bcdbf", null ],
+    [ "RecountMailCount", "dd/d7a/a10239.html#a595b8b31c9695c8bbec64e2f982853d0", null ],
+    [ "ReturnOrDeleteOldMails", "dd/d7a/a10239.html#ab4ef5f6ca91286c732b257f267b06f14", null ]
 ];

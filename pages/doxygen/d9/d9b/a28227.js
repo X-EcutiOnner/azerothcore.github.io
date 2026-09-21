@@ -1,6 +1,6 @@
 var a28227 =
 [
-    [ "go_witherbark_totem_bundleAI", "d9/d9b/a28227.html#a955625e2315008a2e36936d44f825060", null ],
-    [ "UpdateAI", "d9/d9b/a28227.html#af688bab2dc3d938951adb303e8b8d88b", null ],
-    [ "_timer", "d9/d9b/a28227.html#a509e6d8401380c326a0f565a6b903d7a", null ]
+    [ "AreaTrigger_at_brewfest", "d9/d9b/a28227.html#ad7e2916aefc6efbfb9f747a75a4a14a3", null ],
+    [ "OnTrigger", "d9/d9b/a28227.html#a17e4a8d671136466c7673789e4f69a84", null ],
+    [ "_triggerTimes", "d9/d9b/a28227.html#ab763765427796ad17338bcc8d63cf891", null ]
 ];

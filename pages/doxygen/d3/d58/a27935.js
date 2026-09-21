@@ -1,8 +1,7 @@
 var a27935 =
 [
-    [ "HandleEffect", "d3/d58/a27935.html#a1c1a06362742abcf83e1817c468de3d3", null ],
-    [ "PrepareSpellScript", "d3/d58/a27935.html#a0e2cce13a3b2c8b8e9ace8876def8b9c", null ],
-    [ "Register", "d3/d58/a27935.html#a56108b37bc69809ce80d424e2bcb3f55", null ],
-    [ "SendMiss", "d3/d58/a27935.html#afda727460aebc8fe97d5c18d0195ea2c", null ],
-    [ "Validate", "d3/d58/a27935.html#ab9533351a176f4e0d641a6e36a75d6b9", null ]
+    [ "HandleProc", "d3/d58/a27935.html#a79bcdad48c19c0db70960552f6b4e2d3", null ],
+    [ "PrepareAuraScript", "d3/d58/a27935.html#a760f228c118e9a89a3adc2767290f6f5", null ],
+    [ "Register", "d3/d58/a27935.html#ace2673bc17210f349e47586c0e626dc5", null ],
+    [ "Validate", "d3/d58/a27935.html#acdc499d8cae2de0edcfd2c19319e0175", null ]
 ];

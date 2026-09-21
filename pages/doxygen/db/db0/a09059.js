@@ -1,18 +1,10 @@
 var a09059 =
 [
-    [ "PlayerSocialMap", "db/db0/a09059.html#abfb2167fc86ea41b8cf66eebdaa95ceb", null ],
-    [ "PlayerSocial", "db/db0/a09059.html#ad505f01fad548b70cf070a86dce40278", null ],
-    [ "_checkContact", "db/db0/a09059.html#a1c94f00cd1955a8c93dea5d4e67f166a", null ],
-    [ "AddToSocialList", "db/db0/a09059.html#af7bf3dd0cddc41715d5122829aa5f281", null ],
-    [ "GetNumberOfSocialsWithFlag", "db/db0/a09059.html#ad4b6d7563aa448307c71fd01d0b748c3", null ],
-    [ "GetPlayerGUID", "db/db0/a09059.html#a253736ece6f1b1ec6617929ca92d2e77", null ],
-    [ "HasFriend", "db/db0/a09059.html#a8c5e3e13b6e912de5048c6a1d6e4003a", null ],
-    [ "HasIgnore", "db/db0/a09059.html#afdda7de77a9c5b48730b9b7fca36b080", null ],
-    [ "RemoveFromSocialList", "db/db0/a09059.html#a422b92edba3d2b3a7eaa5749dbceea4f", null ],
-    [ "SendSocialList", "db/db0/a09059.html#aa31ca078f363c5d5f6cfabcc4126fa9b", null ],
-    [ "SetFriendNote", "db/db0/a09059.html#ace28c99a43b6c9645550d0c30f8184df", null ],
-    [ "SetPlayerGUID", "db/db0/a09059.html#a1206fafb9f3ea29ee954e4f7684e0051", null ],
-    [ "SocialMgr", "db/db0/a09059.html#ac90a13e772eca1f96d98f76cfc8bf396", null ],
-    [ "m_playerGUID", "db/db0/a09059.html#accf6a40286cca75dd9d5eed8cc3c6790", null ],
-    [ "m_playerSocialMap", "db/db0/a09059.html#a608444605a276e67a868b7ceac94a954", null ]
+    [ "EquipmentSet", "db/db0/a09059.html#acd3085c12c795daceae86e94448109e2", null ],
+    [ "Guid", "db/db0/a09059.html#aae529ea61a2ad4f114b6a108564f5474", null ],
+    [ "IconName", "db/db0/a09059.html#a40233dfcc23f125ff88693d6c7d7fab5", null ],
+    [ "IgnoreMask", "db/db0/a09059.html#af116e824d23f000f424f3b261618e827", null ],
+    [ "Items", "db/db0/a09059.html#a113e6e5883afe38d446a6d435cd34a01", null ],
+    [ "Name", "db/db0/a09059.html#a2b4691a1b44ae47e7d3c2e63f88d78ba", null ],
+    [ "state", "db/db0/a09059.html#a7e2270a6041dda26f8bc7f8c82597e7f", null ]
 ];

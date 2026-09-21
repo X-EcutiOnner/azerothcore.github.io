@@ -1,7 +1,6 @@
 var a25555 =
 [
-    [ "OnApply", "d0/d5c/a25555.html#a455a885611978a390cd4bfa76b05f82b", null ],
-    [ "PrepareAuraScript", "d0/d5c/a25555.html#ac8f269db5d77cf38bdfcbcfef75a62ff", null ],
-    [ "Register", "d0/d5c/a25555.html#a4b1a28052f11b47646dafbcd60b9dad8", null ],
-    [ "Validate", "d0/d5c/a25555.html#af1174bbbaab1d170a0dcd030d2f1e990", null ]
+    [ "PrepareSpellScript", "d0/d5c/a25555.html#abb178100d4e5fa4032118f86aa34127d", null ],
+    [ "Register", "d0/d5c/a25555.html#a50e902cc281b909259097a8bed5651f2", null ],
+    [ "RemoveVehicleAuras", "d0/d5c/a25555.html#a4ec803f3164d6e38ddf10f4a0ca392e0", null ]
 ];

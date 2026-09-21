@@ -1,6 +1,7 @@
 var a14059 =
 [
-    [ "npc_grand_magister_rommathAI", "d8/dd4/a14063.html", "d8/dd4/a14063" ],
-    [ "npc_grand_magister_rommath", "de/d1f/a14059.html#a63b9786bfbd9c7b462b0549e2f6941ea", null ],
-    [ "GetAI", "de/d1f/a14059.html#abd64eff4712e8209e39e938b1813250c", null ]
+    [ "npc_eris_hevenfireAI", "d8/dd4/a14063.html", "d8/dd4/a14063" ],
+    [ "npc_eris_hevenfire", "de/d1f/a14059.html#a77f0836dc0b19114316b8b67839d8033", null ],
+    [ "GetAI", "de/d1f/a14059.html#ad67a81ad20fac785c199c16fea8fe6f8", null ],
+    [ "OnQuestAccept", "de/d1f/a14059.html#a1e0baec5706cfddd678b58eb9359997e", null ]
 ];

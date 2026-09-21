@@ -1,7 +1,7 @@
 var a23047 =
 [
-    [ "npc_ashtongue_channeler", "df/d95/a23047.html#af7217d00f87e56e5cdb411fcad161b51", null ],
-    [ "Reset", "df/d95/a23047.html#ab935559c19b18f9c94dd36c85be5b3b2", null ],
-    [ "UpdateAI", "df/d95/a23047.html#af855dfa521404c4e6127a9bf12a75604", null ],
-    [ "scheduler", "df/d95/a23047.html#a4f58bbd2c44f7a3f9835fd55408ffaf4", null ]
+    [ "PrepareAuraScript", "df/d95/a23047.html#afb2e94c1e67b12b7350d83241b3f2864", null ],
+    [ "Register", "df/d95/a23047.html#a0a5ac432eca09206ac032317e8aa8cfc", null ],
+    [ "Update", "df/d95/a23047.html#aa0da369c2047df144c4a9af37a2ea13c", null ],
+    [ "Validate", "df/d95/a23047.html#a70248cfa468dfb3a97ea7f8b6848bc5f", null ]
 ];

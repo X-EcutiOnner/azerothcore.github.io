@@ -1,10 +1,7 @@
 var a23615 =
 [
-    [ "boss_kelidan_the_breaker", "d1/d1d/a23615.html#a6774e4a0315b30266f6c55da608cd193", null ],
-    [ "ApplyImmunities", "d1/d1d/a23615.html#adc84fae23d68c0c75ac21c3f3b32973a", null ],
-    [ "DoAction", "d1/d1d/a23615.html#a3fa0117ce1079f651025116684f5e2f4", null ],
-    [ "JustDied", "d1/d1d/a23615.html#a4d3f0171b7889a96f19999b28e549866", null ],
-    [ "JustEngagedWith", "d1/d1d/a23615.html#a12eb8fb73353042e4bb4ea31cbdc1c3c", null ],
-    [ "KilledUnit", "d1/d1d/a23615.html#a1c1613b165c25025a2a11bf3c38d6747", null ],
-    [ "Reset", "d1/d1d/a23615.html#a46c592f6c46ea568ad368702e1640e06", null ]
+    [ "HandleScript", "d1/d1d/a23615.html#a42052a416290a54d5479a402de578a73", null ],
+    [ "PrepareSpellScript", "d1/d1d/a23615.html#a5f6aa972879b65c0207e47435d436a33", null ],
+    [ "Register", "d1/d1d/a23615.html#a98efb2a9a68d7878af9d6f9d46db88c9", null ],
+    [ "Validate", "d1/d1d/a23615.html#a0d10ed00f11ede2b63665e4cfe53a70c", null ]
 ];

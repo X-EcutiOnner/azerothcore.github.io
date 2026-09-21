@@ -1,12 +1,11 @@
 var a21495 =
 [
-    [ "npc_ichor_globule", "dd/d4b/a21495.html#a59443a6748d81ef27a030f8656697fc1", null ],
-    [ "AttackStart", "dd/d4b/a21495.html#a1e52599fab1b7e33d958f9815f73c6eb", null ],
-    [ "JustDied", "dd/d4b/a21495.html#af740ee64b1f8510b0bacba4bcfe6d418", null ],
-    [ "MoveInLineOfSight", "dd/d4b/a21495.html#af14fada689a1a6a780ae44865d16e465", null ],
-    [ "Reset", "dd/d4b/a21495.html#a78030360fcd39754744384cdba17fd9e", null ],
-    [ "SpellHit", "dd/d4b/a21495.html#a3d1e68f4b809286d57355de7d4482ae6", null ],
-    [ "UpdateAI", "dd/d4b/a21495.html#acccc54db59a18e78330011465e109439", null ],
-    [ "_events", "dd/d4b/a21495.html#a221c58177666ea1eb4a6b831916297eb", null ],
-    [ "_instance", "dd/d4b/a21495.html#a5d56f5468b146ab2f8905b807bb22edc", null ]
+    [ "boss_archavonAI", "dd/d4b/a21495.html#a101518193c0fb6bbd6892362a6f09b9c", null ],
+    [ "AttackStart", "dd/d4b/a21495.html#ac9f82f61ee7fe945cb3fba23a69e704c", null ],
+    [ "JustDied", "dd/d4b/a21495.html#a3974065a80dedf3e673452e7f6f8e449", null ],
+    [ "JustEngagedWith", "dd/d4b/a21495.html#ace4a10f62eaa21ecd997ad1dbe15f3c8", null ],
+    [ "Reset", "dd/d4b/a21495.html#a7d101626f39947dd54b574491a5e6d72", null ],
+    [ "UpdateAI", "dd/d4b/a21495.html#a5abb4c2b4149172d2e7bf0d539237323", null ],
+    [ "events", "dd/d4b/a21495.html#a8d7fef6dfcdc5be20f0531c34b09fc13", null ],
+    [ "pInstance", "dd/d4b/a21495.html#ab51f09b76054d8bdb13f3c27396db87e", null ]
 ];

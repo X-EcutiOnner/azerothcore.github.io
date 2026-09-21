@@ -1,6 +1,4 @@
 var a30039 =
 [
-    [ "CreateArmorProcConfig", "d0/dc2/a30039.html#aae16272567352cb8730edcba3908a08f", null ],
-    [ "CreateWeaponProcConfig", "d0/dc2/a30039.html#adf86db9c66739b705bde4daf1fd0efd1", null ],
-    [ "SetUp", "d0/dc2/a30039.html#aaf1d0e6aed255fca2ec0b37e75e9b231", null ]
+    [ "SetUp", "d0/dc2/a30039.html#ad6602a4579ff5c20d4a8a4a0bec0a155", null ]
 ];

@@ -1,5 +1,5 @@
 var a28327 =
 [
-    [ "go_jump_a_tron", "d9/dec/a28327.html#a23306caf54a4282d290eec5daa3bfbc5", null ],
-    [ "OnGossipHello", "d9/dec/a28327.html#ae45085de26fc6ad4c3fa2bddf0bf20ec", null ]
+    [ "go_resonite_cask", "d9/dec/a28327.html#a5a89aa97a4cd31d7ae183649ee750b74", null ],
+    [ "OnGossipHello", "d9/dec/a28327.html#aae8591d53a6983886b52d404acdba293", null ]
 ];

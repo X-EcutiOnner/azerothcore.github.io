@@ -1,5 +1,6 @@
 var a17171 =
 [
-    [ "achievement_better_off_dred", "d1/d14/a17171.html#a1ff3442ab3e166a4001c4c10777bdf8a", null ],
-    [ "OnCheck", "d1/d14/a17171.html#a9aab68b43fbf9f3c71c237b149f23b2d", null ]
+    [ "boss_icehowlAI", "d1/dd8/a17175.html", "d1/dd8/a17175" ],
+    [ "boss_icehowl", "d1/d14/a17171.html#ab3c9711fa6af17be9dc7331b42c408be", null ],
+    [ "GetAI", "d1/d14/a17171.html#ac77bf3b9d954b8c6be01d0209a80cc6a", null ]
 ];

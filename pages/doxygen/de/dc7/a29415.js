@@ -1,5 +1,7 @@
 var a29415 =
 [
-    [ "Flags", "de/dc7/a29415.html#a0cb97c73af91dcfdd151c38aa46828cc", null ],
-    [ "Id", "de/dc7/a29415.html#a85e0e36dbc79f309d7f50b087ebcd166", null ]
+    [ "Id", "de/dc7/a29415.html#a94843a6f0cb39332f39a9630945f1fc8", null ],
+    [ "SoundBank", "de/dc7/a29415.html#a1dd2e40caf515186c831dc8cc82c095b", null ],
+    [ "SpellId", "de/dc7/a29415.html#aa010947f5fbec6867b005b25728e720b", null ],
+    [ "Type", "de/dc7/a29415.html#a7f610dd6a9944b4634bb981c0cb8e230", null ]
 ];

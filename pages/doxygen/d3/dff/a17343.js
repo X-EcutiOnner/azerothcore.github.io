@@ -1,8 +1,7 @@
 var a17343 =
 [
-    [ "npc_phantom_hallucination", "d3/dff/a17343.html#a55dc1bf20a0714bbe3bd2bf98978c127", null ],
-    [ "EnterEvadeMode", "d3/dff/a17343.html#a0e45cbe40a3118d17f403c48c91f630e", null ],
-    [ "JustDied", "d3/dff/a17343.html#a14c91f9f3a1f654fed3fc11685d41da7", null ],
-    [ "UpdateAI", "d3/dff/a17343.html#af03cb9c2f062e14e6333c8c889d3c8df", null ],
-    [ "numOfUpd", "d3/dff/a17343.html#a2cc47caafdc22de25f820a78f632ee4b", null ]
+    [ "HandlePeriodicTick", "d3/dff/a17343.html#a7fa0334a0a33b15758b6362aa0a9bd7d", null ],
+    [ "PrepareAuraScript", "d3/dff/a17343.html#aabaef31a3c699c322e24e064f357f82f", null ],
+    [ "Register", "d3/dff/a17343.html#ae9602bc623422c124dfc37a18c0dbfec", null ],
+    [ "Validate", "d3/dff/a17343.html#a18d92a82760992bc5d8503e3f774f208", null ]
 ];

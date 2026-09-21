@@ -1,6 +1,8 @@
 var a14099 =
 [
-    [ "npc_lord_gregor_lescovarAI", "d0/d42/a14103.html", "d0/d42/a14103" ],
-    [ "npc_lord_gregor_lescovar", "d9/d72/a14099.html#a6164425b7bb6bc8aa95a6665b7d1c55c", null ],
-    [ "GetAI", "d9/d72/a14099.html#a4cf39729bb687c7db3538575a799283e", null ]
+    [ "npc_ranger_lilatha", "d9/d72/a14099.html#abd13a89b41a289edefb9bc21588f8d29", null ],
+    [ "Reset", "d9/d72/a14099.html#a3e804e483b51961193ee1079caba40be", null ],
+    [ "sQuestAccept", "d9/d72/a14099.html#acc38d4feacb5e7fa5ce9658b10447c4d", null ],
+    [ "WaypointReached", "d9/d72/a14099.html#a193bd47c7d7c4fb3d832a59bf55e8412", null ],
+    [ "WaypointReached", "d9/d72/a14099.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

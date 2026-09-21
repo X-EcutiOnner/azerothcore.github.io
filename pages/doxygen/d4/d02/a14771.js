@@ -1,6 +1,6 @@
 var a14771 =
 [
-    [ "go_direbrew_mole_machineAI", "d1/d2c/a14775.html", "d1/d2c/a14775" ],
-    [ "go_direbrew_mole_machine", "d4/d02/a14771.html#a759d291a5be227d8beae3bbc779e56f4", null ],
-    [ "GetAI", "d4/d02/a14771.html#a793e5e544664d6c2c3897161c9cccbbb", null ]
+    [ "npc_brewfest_bark_trigger", "d4/d02/a14771.html#a110d654792e1f5dae8b17f014ea3d425", null ],
+    [ "GetTextFor", "d4/d02/a14771.html#aca27445a1d9868a2cbd3a6a89dd806df", null ],
+    [ "MoveInLineOfSight", "d4/d02/a14771.html#a271a440f21b4abddd9aa087e1e64a3d0", null ]
 ];

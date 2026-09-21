@@ -1,10 +1,7 @@
 var a18411 =
 [
-    [ "FilterTargets", "d0/d43/a18411.html#aefba5226671b6217549bd34059519179", null ],
-    [ "Load", "d0/d43/a18411.html#af8a2b651782783dc29ac7266ed02c028", null ],
-    [ "NotifyTargets", "d0/d43/a18411.html#a618e98fbd5c6ae21047cc4f911099730", null ],
-    [ "PrepareSpellScript", "d0/d43/a18411.html#a0cd63fa27a1ee853c5d73c766d1c4de6", null ],
-    [ "Register", "d0/d43/a18411.html#ae72a470c87f7d90e4bd635e239d09f9b", null ],
-    [ "ReplaceTargets", "d0/d43/a18411.html#a5d3df9715d04ea4b663b061c7c02ae03", null ],
-    [ "_target", "d0/d43/a18411.html#a10c85fd3909e56f457d73add8021c0b7", null ]
+    [ "HandleTriggerSpell", "d0/d43/a18411.html#a109dc4f189a64ac3b5949191d6abd2be", null ],
+    [ "OnRemove", "d0/d43/a18411.html#a238adc96e80c1890934b23dd4a2685b4", null ],
+    [ "PrepareAuraScript", "d0/d43/a18411.html#af9ce7433b620fdf1dea570561c514b3b", null ],
+    [ "Register", "d0/d43/a18411.html#ab36a001ea8cd87703e2694e0765635c0", null ]
 ];

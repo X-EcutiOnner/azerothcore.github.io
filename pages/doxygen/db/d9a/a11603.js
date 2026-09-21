@@ -1,7 +1,6 @@
 var a11603 =
 [
-    [ "QuestGiverQuestFailed", "db/d9a/a11603.html#aec524e18a6a0fb666061bd08b17ff9cb", null ],
-    [ "Write", "db/d9a/a11603.html#a97d19e4fe5ccc50afaf91d58321d31ec", null ],
-    [ "FailureReason", "db/d9a/a11603.html#a5c4d887fd352e97c10a52bb095d8e33d", null ],
-    [ "QuestId", "db/d9a/a11603.html#a1c09d090cd3b7fc73becca4f523141f6", null ]
+    [ "DismissCritter", "db/d9a/a11603.html#a87e35583063b340f014d21cd02c54cab", null ],
+    [ "Read", "db/d9a/a11603.html#a411b65505e8a332ecf9291a670dc38c4", null ],
+    [ "CritterGUID", "db/d9a/a11603.html#a89c071e81c9d39c099c32c4976f15304", null ]
 ];

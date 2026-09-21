@@ -1,12 +1,8 @@
 var a14003 =
 [
-    [ "npc_eastvale_peasent", "d2/d78/a14003.html#a5282dac41228569d4431d84c1f160f05", null ],
-    [ "Initialize", "d2/d78/a14003.html#a8b73aa30b0b4a984d8644e6d9541461d", null ],
-    [ "PathEndReached", "d2/d78/a14003.html#a002ec21e0715b020aa19cd0839408033", null ],
-    [ "Reset", "d2/d78/a14003.html#a7eb6cf174a46fd31c8c5241649fcebdc", null ],
-    [ "SetData", "d2/d78/a14003.html#add14d9505880727e208e7ef9428f5acd", null ],
-    [ "UpdateAI", "d2/d78/a14003.html#a868eb38757bf7bc02d5b3ffa66feb375", null ],
-    [ "_events", "d2/d78/a14003.html#a1b310b07481366042dc45f7a27ce6408", null ],
-    [ "_path", "d2/d78/a14003.html#a907db8e6148947248b5bcfdb35023e16", null ],
-    [ "_realenGUID", "d2/d78/a14003.html#aad06364be8698b5ba69cd229e2a5085b", null ]
+    [ "npc_sunblade_arch_mage", "d2/d78/a14003.html#a25cc45033c55f1099b50eab4b4f497ee", null ],
+    [ "JustEngagedWith", "d2/d78/a14003.html#aadeae32d691229b7b7b531175b8a5018", null ],
+    [ "Reset", "d2/d78/a14003.html#a0d0349ea507b1f8431014c55eef5ce0e", null ],
+    [ "UpdateAI", "d2/d78/a14003.html#a3289fbad5f987a3d5d9986a31a1c442f", null ],
+    [ "scheduler", "d2/d78/a14003.html#aa6680f06651316996868907b1d28126c", null ]
 ];

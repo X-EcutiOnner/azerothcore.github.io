@@ -1,16 +1,11 @@
 var a12299 =
 [
-    [ "CheckContainer", "d8/d4c/a12299.html#a08e083224760d2bca1996da9cd9cb014", null ],
-    [ "CheckResultContainer", "d8/d4c/a12299.html#a6ce6feb03f6e0250bc03fea4612098df", null ],
-    [ "WardenCheckMgr", "d8/d4c/a12299.html#a2de08c0613dd688f4bbbb4cc572f3d72", null ],
-    [ "~WardenCheckMgr", "d8/d4c/a12299.html#a0d89190f580435337c328da4bf2497b8", null ],
-    [ "GetMaxValidCheckId", "d8/d4c/a12299.html#a79926d8228c3252fc0eabe295f6e78a8", null ],
-    [ "GetWardenDataById", "d8/d4c/a12299.html#a290e74857c1b1a50ced0a46b7477fa4c", null ],
-    [ "GetWardenResultById", "d8/d4c/a12299.html#a8c06b4f57a84a8229ad1674a5048ced9", null ],
-    [ "instance", "d8/d4c/a12299.html#aba9de1e123070338dc0049db8d8f0663", null ],
-    [ "LoadWardenChecks", "d8/d4c/a12299.html#ad02847547a06d98c582d09992dce9d11", null ],
-    [ "LoadWardenOverrides", "d8/d4c/a12299.html#a0a82e118a8f8236fecf1b00de0e2071c", null ],
-    [ "CheckIdPool", "d8/d4c/a12299.html#ac1d20dec3028cdff0f475c4aff8af928", null ],
-    [ "CheckResultStore", "d8/d4c/a12299.html#a4f0224b8377827aced304b28fdefbda7", null ],
-    [ "CheckStore", "d8/d4c/a12299.html#aac59e154d81b838f27c577af87b86bd1", null ]
+    [ "WorldUpdateTime", "d8/d4c/a12299.html#a97552c4ce99bd40919f199c17fe203ed", null ],
+    [ "LoadFromConfig", "d8/d4c/a12299.html#acb2b9d56504fc760e7df1c93621ab788", null ],
+    [ "RecordUpdateTime", "d8/d4c/a12299.html#a88d773c8029cebeab6b99444c25c8379", null ],
+    [ "RecordUpdateTimeDuration", "d8/d4c/a12299.html#a3ae299cfba6adcbb4e38af40313428fc", null ],
+    [ "SetRecordUpdateTimeInterval", "d8/d4c/a12299.html#ada81050229ccacc49d5b6a9f6101174c", null ],
+    [ "_lastRecordTime", "d8/d4c/a12299.html#a7bc68a1a700deb4bc4d19992edf3ffa7", null ],
+    [ "_recordUpdateTimeInverval", "d8/d4c/a12299.html#a5486477b0a604f0207336e423f42c2b1", null ],
+    [ "_recordUpdateTimeMin", "d8/d4c/a12299.html#a6b8a8d1b61f9ecec591165fa334972fc", null ]
 ];

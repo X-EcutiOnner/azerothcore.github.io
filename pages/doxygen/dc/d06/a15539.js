@@ -1,7 +1,6 @@
 var a15539 =
 [
-    [ "FilterTargets", "dc/d06/a15539.html#a59e477333a54ec828a429d15b35d4936", null ],
-    [ "HandleScript", "dc/d06/a15539.html#a983fe53aa52e53a45685055fde04a3b7", null ],
-    [ "PrepareSpellScript", "dc/d06/a15539.html#a873e7766aa1cb6ebabbc77c31db6701c", null ],
-    [ "Register", "dc/d06/a15539.html#a45ac61990990f16c98eaa7136297afc5", null ]
+    [ "npc_belnistraszAI", "d9/df2/a15543.html", "d9/df2/a15543" ],
+    [ "npc_belnistrasz", "dc/d06/a15539.html#a7aa0e9bfcfaf74febe67cbcb94c01ddb", null ],
+    [ "GetAI", "dc/d06/a15539.html#aac9d4389ec1c88be9afb6b9a828da511", null ]
 ];

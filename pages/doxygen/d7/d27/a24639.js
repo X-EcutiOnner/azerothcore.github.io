@@ -1,7 +1,6 @@
 var a24639 =
 [
-    [ "CorpseExplosionCheck", "d7/d27/a24639.html#aa8b7957705df1d878f5123ffa31a7fd7", null ],
-    [ "operator()", "d7/d27/a24639.html#aeab379880a8d912d6d0f7b41639edbd4", null ],
-    [ "_allowGhoul", "d7/d27/a24639.html#abd42a0731af969ceccdfceae722ba276", null ],
-    [ "_casterGUID", "d7/d27/a24639.html#a497df87745f452716c652e9b1be6d46f", null ]
+    [ "HandlePeriodic", "d7/d27/a24639.html#a9d94b55656848d5b9f943b9b3bbfd889", null ],
+    [ "PrepareAuraScript", "d7/d27/a24639.html#a6b76add02d3a1eeddd845c4f97d0632a", null ],
+    [ "Register", "d7/d27/a24639.html#aa8c6fc66e1483370681ae6f7fdf5b676", null ]
 ];

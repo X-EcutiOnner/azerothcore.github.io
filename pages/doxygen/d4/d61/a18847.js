@@ -1,8 +1,7 @@
 var a18847 =
 [
-    [ "npc_lk_spirit_bombAI", "d4/d61/a18847.html#a366fb54e68c0e603000183cd68daf6b7", null ],
-    [ "IsSummonedBy", "d4/d61/a18847.html#a9b3de8c6e2006a19ee1289455163f52c", null ],
-    [ "MovementInform", "d4/d61/a18847.html#a0e4aa94a199439962095c1d2026b2a5f", null ],
-    [ "UpdateAI", "d4/d61/a18847.html#a61b4f7c3a1dd9b9b2850b05f2117e55a", null ],
-    [ "timer", "d4/d61/a18847.html#aa0d370113b753127d4f0fd7bd3a3ba11", null ]
+    [ "PrepareSpellScript", "d4/d61/a18847.html#a3283e829757b50bb52f66ee1e64033ae", null ],
+    [ "Register", "d4/d61/a18847.html#a0162c92c32210f2873686610f4f00b87", null ],
+    [ "TriggerHeal", "d4/d61/a18847.html#a3cdfca33a535bad0942beea24aefa1bb", null ],
+    [ "Validate", "d4/d61/a18847.html#a6545fe9f40c0aed036192008a2d6e28e", null ]
 ];

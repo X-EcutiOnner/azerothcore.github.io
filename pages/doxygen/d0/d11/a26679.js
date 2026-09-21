@@ -1,7 +1,7 @@
 var a26679 =
 [
-    [ "PrepareSpellScript", "d0/d11/a26679.html#ade3a3f956ae8be922bd1d2204919d360", null ],
-    [ "Register", "d0/d11/a26679.html#a71d397da4a4804cf6023806c15e8bedf", null ],
-    [ "TriggerHypothermia", "d0/d11/a26679.html#af40f92afae93778e477c50ddf18c8adc", null ],
-    [ "Validate", "d0/d11/a26679.html#a1f0cef532c2bd13d94e647722f85457a", null ]
+    [ "AfterRemove", "d0/d11/a26679.html#a9dc5ef5c5545fc382e221ca9473ac3bd", null ],
+    [ "PrepareAuraScript", "d0/d11/a26679.html#a0fd3e297a66df888f6e30f93b9f60947", null ],
+    [ "Register", "d0/d11/a26679.html#a2b1872fa0342e0f530b61fc7a5bf876b", null ],
+    [ "Validate", "d0/d11/a26679.html#ae08f33e0271166afa87208faa30684c4", null ]
 ];

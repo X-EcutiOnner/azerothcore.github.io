@@ -1,10 +1,11 @@
 var a24695 =
 [
-    [ "HandleEffectRemove", "d3/dc9/a24695.html#a3b43cfcbbfa8fdbf170c76dd12b72074", null ],
-    [ "HandleImprovedBloodPresence", "d3/dc9/a24695.html#a020c0ae1f74856ae070ab2104232a079", null ],
-    [ "HandleImprovedFrostPresence", "d3/dc9/a24695.html#a262bfd40ee2f2d8ed793f999f660ba28", null ],
-    [ "HandleImprovedUnholyPresence", "d3/dc9/a24695.html#a5da86bb3686327787da5f46fc756f0a0", null ],
-    [ "PrepareAuraScript", "d3/dc9/a24695.html#a96453bb078359e46665e0eaa2a6cf6d1", null ],
-    [ "Register", "d3/dc9/a24695.html#a6534d2b5bca9a50830d20b08bfc1b84e", null ],
-    [ "Validate", "d3/dc9/a24695.html#afc23187a3a6dd48f2ad84ef354e36f3a", null ]
+    [ "CalcPeriodic", "d3/dc9/a24695.html#a330ab5ee4c9b16928b3fae701c80acd4", null ],
+    [ "CalculateHasteAmount", "d3/dc9/a24695.html#a75d428e0b3619d53bd9436712d2e394e", null ],
+    [ "CalculateSPAmount", "d3/dc9/a24695.html#a81805b43a47065281f83889d8be95c54", null ],
+    [ "CalculateStatAmount", "d3/dc9/a24695.html#a763276aaa00bb6953e0b52118662e7a8", null ],
+    [ "HandleEffectApply", "d3/dc9/a24695.html#ad5595d4a32336568ac143e1ee1823ab3", null ],
+    [ "HandlePeriodic", "d3/dc9/a24695.html#ab3c7d479eae88ab4a59b06610af19429", null ],
+    [ "PrepareAuraScript", "d3/dc9/a24695.html#a8dc2c51f3cccb640286fb081a34d90d2", null ],
+    [ "Register", "d3/dc9/a24695.html#a6b3e219b03f89bf20f0d394c14cfe8cd", null ]
 ];

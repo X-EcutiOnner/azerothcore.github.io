@@ -1,6 +1,6 @@
 var a23527 =
 [
-    [ "instance_the_underbog_InstanceMapScript", "d9/d57/a23531.html", "d9/d57/a23531" ],
-    [ "instance_the_underbog", "df/d6a/a23527.html#afaf8740a3e367a1a54eaa3e76ffa483e", null ],
-    [ "GetInstanceScript", "df/d6a/a23527.html#ace939fb7fd89e7c9c84c17d3ca31208b", null ]
+    [ "boss_rokmar_the_crackler", "df/d6a/a23527.html#a0aca6a30d045bbea6f434979f4f1d2e9", null ],
+    [ "JustEngagedWith", "df/d6a/a23527.html#ae376e6a96fa07136790f3ed04ee1023b", null ],
+    [ "Reset", "df/d6a/a23527.html#aed9cf4a866d5e70647125a08885fb809", null ]
 ];

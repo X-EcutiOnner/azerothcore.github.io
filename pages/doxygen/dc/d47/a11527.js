@@ -1,17 +1,11 @@
 var a11527 =
 [
-    [ "CompactArray", "dc/d47/a11527.html#a167096f1966862ec92556b6f5d3aa3b8", null ],
-    [ "CompactArray", "dc/d47/a11527.html#a70adda7a73d5c54b1d29668f23778c9f", null ],
-    [ "CompactArray", "dc/d47/a11527.html#a757f7d94e52fa821dc1fdb03877574f3", null ],
-    [ "Clear", "dc/d47/a11527.html#ae213ad313a4b0688763e882a2010c494", null ],
-    [ "GetMask", "dc/d47/a11527.html#a3a421d4ee2e7459cbc945c6c70c1993f", null ],
-    [ "GetSize", "dc/d47/a11527.html#a656c3568cd73d10dd6f9cda1809ff509", null ],
-    [ "Insert", "dc/d47/a11527.html#a313aedf5c623505860a227149cb64b5a", null ],
-    [ "operator!=", "dc/d47/a11527.html#adaade1e09d979a6e98b90253f442a9e5", null ],
-    [ "operator=", "dc/d47/a11527.html#a75f0995b55269fc2d0bca87a0294fcb3", null ],
-    [ "operator=", "dc/d47/a11527.html#a14d76ffa09769e341dea769424ac586c", null ],
-    [ "operator==", "dc/d47/a11527.html#a24c7c9794991ec3bf4ecefa93f8ee23e", null ],
-    [ "operator[]", "dc/d47/a11527.html#af146d3e880ec34358ff6a07247f741d8", null ],
-    [ "_contents", "dc/d47/a11527.html#a1e0ff07a4905517dc6e92a3615bc36d0", null ],
-    [ "_mask", "dc/d47/a11527.html#a85ef9a03e561e385f41de88e6e0f98c0", null ]
+    [ "MoneyCost", "dc/d47/a11527.html#a8f88c27f149bf304f46b00dec2aa4a30", null ],
+    [ "PointCost", "dc/d47/a11527.html#aebcad3f23dbca753ad970081af0a78c9", null ],
+    [ "ReqAbility", "dc/d47/a11527.html#acc13f04eb19a4555ae1a54594f1d858b", null ],
+    [ "ReqLevel", "dc/d47/a11527.html#a9478dc1065bc10ebc591ff8022e43993", null ],
+    [ "ReqSkillLine", "dc/d47/a11527.html#a5267f4615e01571a4a16d17d6914981b", null ],
+    [ "ReqSkillRank", "dc/d47/a11527.html#ae6f9640e257d83d633c48168edc658b6", null ],
+    [ "SpellID", "dc/d47/a11527.html#accf0f9aa4c8f2130f6926235dca69476", null ],
+    [ "Usable", "dc/d47/a11527.html#a35d7186073a231f0dd1fe5920eec175b", null ]
 ];

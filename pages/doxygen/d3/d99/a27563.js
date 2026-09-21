@@ -1,8 +1,8 @@
 var a27563 =
 [
-    [ "ApplyDebuff", "d3/d99/a27563.html#a76ecb96d27c54b18f3628476dae4cc73", null ],
-    [ "PrepareSpellScript", "d3/d99/a27563.html#aeff4dce89b0d893b90571e0ff63e1aaa", null ],
-    [ "Register", "d3/d99/a27563.html#ae53dfd7f60a1c4132c441f7cd1595b95", null ],
-    [ "RemoveInvalidTargets", "d3/d99/a27563.html#a1374c764b20b95febbca44c593bde218", null ],
-    [ "Validate", "d3/d99/a27563.html#a2eb14ea281b41b08acd4514c01aa938f", null ]
+    [ "CheckProc", "d3/d99/a27563.html#a2e564758a050827108955f73a08e72e7", null ],
+    [ "PrepareAuraScript", "d3/d99/a27563.html#a5993871d8837b43580818fa94e1bccc2", null ],
+    [ "Register", "d3/d99/a27563.html#a24faa9992523bc87df7f5ebccfb42233", null ],
+    [ "WasUsedByMutilate", "d3/d99/a27563.html#af31c8d77307f3cf3acee06e0b159925e", null ],
+    [ "_usedByMutilate", "d3/d99/a27563.html#a3f5cde7b3af5c3a6b75d76b742cae54b", null ]
 ];

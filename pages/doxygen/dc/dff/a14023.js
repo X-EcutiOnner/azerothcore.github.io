@@ -1,10 +1,14 @@
 var a14023 =
 [
-    [ "npc_sentinel_leader", "dc/dff/a14023.html#a583c43b047dd5c172938d60ef647ecd5", null ],
-    [ "JustEngagedWith", "dc/dff/a14023.html#a92c83a7fcc04df1db3be1d16f4a461d0", null ],
-    [ "MovementInform", "dc/dff/a14023.html#a6d51ada16fac1f5eda8b09aede746a4b", null ],
-    [ "Reset", "dc/dff/a14023.html#ad638ba6ce33753af6a0165c053a90d78", null ],
-    [ "UpdateAI", "dc/dff/a14023.html#aa689bb8189eb8cf842a0aa63bb9f1a73", null ],
-    [ "_events", "dc/dff/a14023.html#ada65bdf153ae9b3262b0f55fb540be17", null ],
-    [ "_helpCalled", "dc/dff/a14023.html#a803c324e790cd74e90ff6c2adde37ba3", null ]
+    [ "instance_uldaman_InstanceMapScript", "dc/dff/a14023.html#ab2607f229d1e34852c82139ddb597712", null ],
+    [ "GetData", "dc/dff/a14023.html#adef5f6d2dcaa50dbb615c4c134e7ecfb", null ],
+    [ "Initialize", "dc/dff/a14023.html#a2424bcb1aec0ffc6235a8e8b384f0ed1", null ],
+    [ "OnCreatureCreate", "dc/dff/a14023.html#a49b5562743910dc1b6b55efa8c44b6a0", null ],
+    [ "OnGameObjectCreate", "dc/dff/a14023.html#aacb9db5f66f1f9be0d993aacc3cf4348", null ],
+    [ "ReadSaveDataMore", "dc/dff/a14023.html#a8e0e03189463039dd31d883ad9c40e51", null ],
+    [ "SetData", "dc/dff/a14023.html#ab24fc2db74ef83f2b3be9603d4728385", null ],
+    [ "WriteSaveDataMore", "dc/dff/a14023.html#a3345c117f5e2ceca773843c3f51cb76f", null ],
+    [ "_encounters", "dc/dff/a14023.html#a6840bd04d25fd1f365e0c28c725cde97", null ],
+    [ "ancientVaultDoorGUID", "dc/dff/a14023.html#adf83ba0b0a1650462dbc3bc56182bed9", null ],
+    [ "archaedasTempleDoorGUID", "dc/dff/a14023.html#a6bad33c43ceaa23990544e4a8feefb34", null ]
 ];

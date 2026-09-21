@@ -1,8 +1,7 @@
 var a28847 =
 [
-    [ "DamagedDisplayId", "d2/dad/a28847.html#a84d606d69c51f5e1fdecf9bc0f5705be", null ],
-    [ "DestroyedDisplayId", "d2/dad/a28847.html#afc891df0c9491a34f784e8f141434be5", null ],
-    [ "Id", "d2/dad/a28847.html#a65d7e0933cb53864413781cdeb56b6c2", null ],
-    [ "RebuildingDisplayId", "d2/dad/a28847.html#aa4e1e6be7b5b1d15872fb310c1c299af", null ],
-    [ "SmokeDisplayId", "d2/dad/a28847.html#a1a06c3e04bc2bb7d5bc29592d40b9239", null ]
+    [ "HandleDummy", "d2/dad/a28847.html#ade9ff4db63fecf726776f6e4b36bb437", null ],
+    [ "PrepareSpellScript", "d2/dad/a28847.html#a0375b541f2a90e337fee61ced6d8f3ec", null ],
+    [ "Register", "d2/dad/a28847.html#a66c530b497e4952b457bbfa50a036c07", null ],
+    [ "Validate", "d2/dad/a28847.html#a968333dcfe0553ad73879f3042db5511", null ]
 ];

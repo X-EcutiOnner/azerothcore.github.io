@@ -1,5 +1,8 @@
 var a12867 =
 [
-    [ "at_dragonspire_hall", "d6/dbe/a12867.html#a6adb22f328a7324b2ecf70204ab26a6d", null ],
-    [ "OnTrigger", "d6/dbe/a12867.html#a1a7bd95653e84b7fd436d71c162c087e", null ]
+    [ "boss_halycon", "d6/dbe/a12867.html#a8a88f0d26b4702fd1b4f015cc1366362", null ],
+    [ "JustDied", "d6/dbe/a12867.html#a48bd1245ac5b76dac543a4389a8b37be", null ],
+    [ "JustEngagedWith", "d6/dbe/a12867.html#a3f6ca689777e1aa43a214e8082897db1", null ],
+    [ "Reset", "d6/dbe/a12867.html#a3b972bfcac3498c921978eab1d8fec4f", null ],
+    [ "UpdateAI", "d6/dbe/a12867.html#acc375743131ce5643d04ae355b6d68b4", null ]
 ];

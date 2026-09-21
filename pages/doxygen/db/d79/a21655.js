@@ -1,9 +1,7 @@
 var a21655 =
 [
-    [ "npc_warmage_coldarraAI", "db/d79/a21655.html#a9a8c2afff61ad8457aab8a9c23a4b755", null ],
-    [ "AttackStart", "db/d79/a21655.html#a41277824ae3f6bd9a099894b6dfc7537", null ],
-    [ "JustEngagedWith", "db/d79/a21655.html#a23a8999e34142201c6ceadc64a3df6c2", null ],
-    [ "Reset", "db/d79/a21655.html#adf5094ba2bee34ec793124e798d5af8f", null ],
-    [ "UpdateAI", "db/d79/a21655.html#a14b221265cc38b4061c52b687274a398", null ],
-    [ "m_uiTimer", "db/d79/a21655.html#a338ad26d40d395dfc6ed7e8fedcc6d60", null ]
+    [ "npc_azure_captain", "db/d79/a21655.html#abbdba89267506b8dd1e93ea0e059979c", null ],
+    [ "Reset", "db/d79/a21655.html#ae9b8cc434f2b5690f3abc55d557cbd54", null ],
+    [ "UpdateAI", "db/d79/a21655.html#a9aacf1533414ade27973ddcc46434978", null ],
+    [ "_events", "db/d79/a21655.html#a6a69ea3d3eb75601f723a10eab68c260", null ]
 ];

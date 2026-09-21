@@ -1,7 +1,6 @@
 var a16895 =
 [
-    [ "npc_toc_druidAI", "d8/d21/a16895.html#adb456f1f93be5329174a3199c9092825", null ],
-    [ "myCanCast", "d8/d21/a16895.html#af82baa22ae49ba268f494cb07287845e", null ],
-    [ "UpdateAI", "d8/d21/a16895.html#a82a22a557db647f73690d8838a635eaf", null ],
-    [ "events", "d8/d21/a16895.html#a6bb27baf17f0286db3222287a8073bd7", null ]
+    [ "instance_trial_of_the_champion_InstanceMapScript", "d8/d06/a16899.html", "d8/d06/a16899" ],
+    [ "instance_trial_of_the_champion", "d8/d21/a16895.html#a7b97e3da119a7ad33a87c74647407bd8", null ],
+    [ "GetInstanceScript", "d8/d21/a16895.html#a9227119fc47f38cd82a1fc07c04b0c86", null ]
 ];

@@ -1,6 +1,11 @@
 var a26967 =
 [
-    [ "CheckCast", "d9/d6e/a26967.html#a2edd0bcaa3b026cc70f9f6b58f53f486", null ],
-    [ "PrepareSpellScript", "d9/d6e/a26967.html#aaf1e16dbc8d33aadcbf74dc4cebe715b", null ],
-    [ "Register", "d9/d6e/a26967.html#a32aaab12105c9b1c09edfa8a444ced9c", null ]
+    [ "CheckProc", "d9/d6e/a26967.html#aeeb075a2dcaf57b328e4196959c40390", null ],
+    [ "HandleApplyDoT", "d9/d6e/a26967.html#a4f832f97ae2f777c659876e20b7515a5", null ],
+    [ "HandleSeal", "d9/d6e/a26967.html#aca82977aa1ee943bc557a76d09dba147", null ],
+    [ "Load", "d9/d6e/a26967.html#a16545533c0a45b6bde0da3fbeaed75ae", null ],
+    [ "PrepareAuraScript", "d9/d6e/a26967.html#a9d33b5c75d975f6e7f0accdf7eb10155", null ],
+    [ "Register", "d9/d6e/a26967.html#a3030a2b5bb530abe673ab2cfae8351ce", null ],
+    [ "Validate", "d9/d6e/a26967.html#ade8e79f41a0ec1904f33b2628eac966e", null ],
+    [ "_isVengeance", "d9/d6e/a26967.html#a194bdf6e15ecf61533d40c0990e392a4", null ]
 ];

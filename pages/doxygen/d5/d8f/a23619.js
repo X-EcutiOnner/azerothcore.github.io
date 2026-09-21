@@ -1,7 +1,6 @@
 var a23619 =
 [
-    [ "boss_the_maker", "d5/d8f/a23619.html#a478c48f225e8fdf14cde5b1f144cb6c4", null ],
-    [ "JustDied", "d5/d8f/a23619.html#a564abd0a8f52c8c58a305f9c47d8475c", null ],
-    [ "JustEngagedWith", "d5/d8f/a23619.html#a6b0a4442dbabde69ca9352017ee23675", null ],
-    [ "KilledUnit", "d5/d8f/a23619.html#a40643ca00fe7d7029a291335e47c722a", null ]
+    [ "instance_the_underbog_InstanceMapScript", "d7/da9/a23623.html", "d7/da9/a23623" ],
+    [ "instance_the_underbog", "d5/d8f/a23619.html#afaf8740a3e367a1a54eaa3e76ffa483e", null ],
+    [ "GetInstanceScript", "d5/d8f/a23619.html#ace939fb7fd89e7c9c84c17d3ca31208b", null ]
 ];

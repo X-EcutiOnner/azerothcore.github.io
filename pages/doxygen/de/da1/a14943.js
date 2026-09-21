@@ -1,5 +1,9 @@
 var a14943 =
 [
-    [ "go_pumpkin_shrine", "de/da1/a14943.html#ab9b05caa7ef7d740a0c46171c2160a19", null ],
-    [ "OnGossipSelect", "de/da1/a14943.html#a35763a67d39c1d68974a9602ce26b699", null ]
+    [ "entries", "de/da1/a14943.html#a8c55bbd253d6bea01e83c0aa7380dee5", null ],
+    [ "entries", "de/da1/a14943.html#a953850b267eb6f599bb49d82080bdf64", null ],
+    [ "revelerId", "de/da1/a14943.html#a9e4069ef00c8b4e31d8af06f34e12ad5", null ],
+    [ "schedule", "de/da1/a14943.html#abf912f0df4468a233292020c71d70f78", null ],
+    [ "size", "de/da1/a14943.html#ae6a3fa59e1eb384255c247abadc962d5", null ],
+    [ "spawns", "de/da1/a14943.html#a09a3d07fa1b5ce5026b6191d43e8682c", null ]
 ];

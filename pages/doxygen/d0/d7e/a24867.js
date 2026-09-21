@@ -1,9 +1,7 @@
 var a24867 =
 [
-    [ "Absorb", "d0/d7e/a24867.html#a5d4b54569b16175ae84d3c94a1a6fcff", null ],
-    [ "CalculateAmount", "d0/d7e/a24867.html#a3800ed0d14eacf39a3930c1b5e139f85", null ],
-    [ "Load", "d0/d7e/a24867.html#a79e3012cb5c78851809d9f4c4d6c4487", null ],
-    [ "PrepareAuraScript", "d0/d7e/a24867.html#a1bdab939c229c466ce6b71a7e00dedf9", null ],
-    [ "Register", "d0/d7e/a24867.html#a47bd5ef93255a2d926874d6d70861374", null ],
-    [ "absorbPct", "d0/d7e/a24867.html#a0c067ba7bbfd5cde53f1323b5c2f47cb", null ]
+    [ "HandleProc", "d0/d7e/a24867.html#af3169e55f8dea7f0efffd11fbe8e06fe", null ],
+    [ "PrepareAuraScript", "d0/d7e/a24867.html#abe4d50c9839defc99ca9806cd9d5445f", null ],
+    [ "Register", "d0/d7e/a24867.html#a2eb1b84ad1af2437e298255b0499b03d", null ],
+    [ "Validate", "d0/d7e/a24867.html#ae8fa6922908b4204e16a81b739d01fb1", null ]
 ];

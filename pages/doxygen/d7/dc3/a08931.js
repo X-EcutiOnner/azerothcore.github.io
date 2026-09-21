@@ -1,9 +1,5 @@
 var a08931 =
 [
-    [ "category", "d7/dc3/a08931.html#af3cd722cf59d844dcaba2d20f20d2933", null ],
-    [ "end", "d7/dc3/a08931.html#a8cc857ef51745900398765164a450a50", null ],
-    [ "itemid", "d7/dc3/a08931.html#a42ef844fdd55e8bf67eb5cd90c627817", null ],
-    [ "maxduration", "d7/dc3/a08931.html#a94b98afb7651e2c6b99ee79f85702259", null ],
-    [ "needSendToClient", "d7/dc3/a08931.html#a678f56b6723567f984a0188b85a6f9df", null ],
-    [ "sendToSpectator", "d7/dc3/a08931.html#a4b5bc2c63587dd8ce5d4971ad51895cd", null ]
+    [ "PositionXYStreamer", "d7/dc3/a08931.html#a6f165ea30ccb7cdeba0c4e197b3a0e5b", null ],
+    [ "Pos", "d7/dc3/a08931.html#afb17e60540233b8861b6e967d0e44e07", null ]
 ];

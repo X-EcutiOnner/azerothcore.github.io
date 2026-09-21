@@ -1,9 +1,13 @@
 var a13019 =
 [
-    [ "HandleAfterApply", "dd/d71/a13019.html#ab5dea2b9154ea73e9f159f6899f71d1d", null ],
-    [ "HandleAfterRemove", "dd/d71/a13019.html#a07bfb9395c738a197bafbaa0a43b9d48", null ],
-    [ "PeriodicTick", "dd/d71/a13019.html#a1ea9275cf310f95e9f8351892dce0a21", null ],
-    [ "PrepareAuraScript", "dd/d71/a13019.html#a8f13734ec4eb2dfda64be4ed3410e9a7", null ],
-    [ "Register", "dd/d71/a13019.html#a778da1e0ae7d5cab576b55bff93c923f", null ],
-    [ "Validate", "dd/d71/a13019.html#a205b4cc0f5c513680573b41a786a0b5e", null ]
+    [ "boss_nefarian", "dd/d71/a13019.html#ac8ea4f24ed97cace4630d4720b1acf47", null ],
+    [ "JustDied", "dd/d71/a13019.html#a4a0a4cf4ee63ce744ffb580747f992b9", null ],
+    [ "JustEngagedWith", "dd/d71/a13019.html#a6a547ba5aea4d5af2a621e5d97ceae43", null ],
+    [ "KilledUnit", "dd/d71/a13019.html#a6fdf265e453deb8f9a4214beacf3dbab", null ],
+    [ "MovementInform", "dd/d71/a13019.html#a0eea749c0392a7713e372cc1f236cdcd", null ],
+    [ "PathEndReached", "dd/d71/a13019.html#a45ec4ab3cdf9b4de91a9ae682f3335e8", null ],
+    [ "Reset", "dd/d71/a13019.html#a5d687fce34b17e22c605c263395e823b", null ],
+    [ "UpdateAI", "dd/d71/a13019.html#a205c9b1d4116fbd0a1ca972f39094abc", null ],
+    [ "_introDone", "dd/d71/a13019.html#a5710c721f3a24762b8cc3e79e6a14951", null ],
+    [ "classesPresent", "dd/d71/a13019.html#acffc9b31a0a50ee5701c272e32c912c6", null ]
 ];

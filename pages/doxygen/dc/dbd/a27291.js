@@ -1,6 +1,6 @@
 var a27291 =
 [
-    [ "PrepareSpellScript", "dc/dbd/a27291.html#ac0322966abdb57fbe19c3e2117caa56b", null ],
-    [ "Register", "dc/dbd/a27291.html#a7ddfa827654b6bb0a11aaddf41dc62f9", null ],
-    [ "SetDest", "dc/dbd/a27291.html#ad1012e0f8ae1cf2ff18d886e10d6fca6", null ]
+    [ "HandleEffectApply", "dc/dbd/a27291.html#a111ce5c9e70ed563bc7b9c2ec8e79b76", null ],
+    [ "PrepareAuraScript", "dc/dbd/a27291.html#a707504eccf42af77f6e6e927d208bc8c", null ],
+    [ "Register", "dc/dbd/a27291.html#a7aeaa28997bbe966274a738cf45323ed", null ]
 ];

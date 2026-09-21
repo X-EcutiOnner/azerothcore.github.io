@@ -1,14 +1,12 @@
 var a11791 =
 [
-    [ "Account", "d5/d1d/a11791.html#acb9382abe66dd43176fb7af1f3020388", null ],
-    [ "AddonInfo", "d5/d1d/a11791.html#ad39c1b9e73d5bbbe45114e3358126d73", null ],
-    [ "BattlegroupID", "d5/d1d/a11791.html#aa09cd28d82e9d96d96a1ccefc4a313ca", null ],
-    [ "Build", "d5/d1d/a11791.html#ae4a83f8e8c81c1d797512245392fd582", null ],
-    [ "Digest", "d5/d1d/a11791.html#a6b795f38fb996534f502e1fa5de9e48e", null ],
-    [ "DosResponse", "d5/d1d/a11791.html#afe2b4146ef592a7067ddaeac449b0644", null ],
-    [ "LocalChallenge", "d5/d1d/a11791.html#a5c8c57127a0b1cd3cfa63503018c8ae3", null ],
-    [ "LoginServerID", "d5/d1d/a11791.html#a155f8107ac5a637501a169cfaf43c4b9", null ],
-    [ "LoginServerType", "d5/d1d/a11791.html#aea79adfcdb6acd5b6bf34fc9175cca3c", null ],
-    [ "RealmID", "d5/d1d/a11791.html#a944915bd95665075fdf4b6fa01de9a9f", null ],
-    [ "RegionID", "d5/d1d/a11791.html#a4052be051b41e931747b1956dc145d64", null ]
+    [ "PacketLog", "d5/d1d/a11791.html#a75215d454393ecd3fce0ea07b5d673ee", null ],
+    [ "~PacketLog", "d5/d1d/a11791.html#a595a42f9aaa94d6c46d185955df801e0", null ],
+    [ "CanLogPacket", "d5/d1d/a11791.html#a322cf3a0d8707becb9dcc64548d4cce5", null ],
+    [ "Initialize", "d5/d1d/a11791.html#aea6ccfd41bc147557b7c5066fe18afa6", null ],
+    [ "instance", "d5/d1d/a11791.html#a484418a51ca0bf150d17b23d97979bf4", null ],
+    [ "LogPacket", "d5/d1d/a11791.html#ac0323a6ac3856412b765d0b31dbbb37e", null ],
+    [ "_file", "d5/d1d/a11791.html#a03346a709f7586f6445e03b9a3b6af04", null ],
+    [ "_initializeFlag", "d5/d1d/a11791.html#a490cafe009f7b2ecb303a76c781f8960", null ],
+    [ "_logPacketLock", "d5/d1d/a11791.html#aeffb6309ef859cbb346b15dc1fca5cbe", null ]
 ];

@@ -1,6 +1,14 @@
 var a24603 =
 [
-    [ "CheckProc", "dc/dc0/a24603.html#ace3662e092d02de975929741c470230d", null ],
-    [ "PrepareAuraScript", "dc/dc0/a24603.html#aed547ead2b8822f08eb1530f4b29e2f8", null ],
-    [ "Register", "dc/dc0/a24603.html#ae6432106538261827c3eac3dde1450f2", null ]
+    [ "npc_pet_mage_mirror_image", "dc/dc0/a24603.html#a2761cc9bf3a8bb7908d3db6d929721ba", null ],
+    [ "EnterEvadeMode", "dc/dc0/a24603.html#a858b070fb53112dc78554f0b20cd876a", null ],
+    [ "InitializeAI", "dc/dc0/a24603.html#a66d513908aa88504d0cbe4ce9bf222be", null ],
+    [ "MySelectNextTarget", "dc/dc0/a24603.html#a49d57ba93cd88816f68c16d56d3b8cd2", null ],
+    [ "Reset", "dc/dc0/a24603.html#a79a8c153ab61c619d928ec5535e67077", null ],
+    [ "UpdateAI", "dc/dc0/a24603.html#aa219b3adc38b625c6885089895b941b4", null ],
+    [ "_delayAttack", "dc/dc0/a24603.html#ab65a74ef0f1e253bf9df4e4f7c6856a3", null ],
+    [ "_ebonGargoyleGUID", "dc/dc0/a24603.html#a8be57d06114f108e74b850ce66722bf3", null ],
+    [ "checktarget", "dc/dc0/a24603.html#a074611355768dc2072da69ed9d72242b", null ],
+    [ "dist", "dc/dc0/a24603.html#a7fcde453faf05a64e4c7099d840c0e2b", null ],
+    [ "selectionTimer", "dc/dc0/a24603.html#a7d7a6ebd88afecd7ae7aaeda0cee6cf7", null ]
 ];

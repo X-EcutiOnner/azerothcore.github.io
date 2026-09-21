@@ -1,18 +1,11 @@
 var a13399 =
 [
-    [ "npc_barnesAI", "d7/dec/a13399.html#acf165009e5b2164d8244e709043eba09", null ],
-    [ "JustEngagedWith", "d7/dec/a13399.html#a1f24ea5604563c9a16c5a2a91ae078f1", null ],
-    [ "PrepareEncounter", "d7/dec/a13399.html#acdefdf68be1d870f76cbd0e329e3c890", null ],
-    [ "Reset", "d7/dec/a13399.html#a67ee1ef5c6012e499a9d9d7b77938fbe", null ],
-    [ "StartEvent", "d7/dec/a13399.html#ab5ed76e189150b2bb8a57095289246fe", null ],
-    [ "Talk", "d7/dec/a13399.html#a8a5c4a97e9093220a5d8642fcf6ceece", null ],
-    [ "UpdateAI", "d7/dec/a13399.html#a19c6ac3829ae4c38263eda116d56df88", null ],
-    [ "WaypointReached", "d7/dec/a13399.html#acae5cbc4bcbe91b6810d649385a889a9", null ],
-    [ "WaypointReached", "d7/dec/a13399.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "instance", "d7/dec/a13399.html#a9094deb17c0c77c968bbfb4f9f05e521", null ],
-    [ "m_uiEventId", "d7/dec/a13399.html#a47ac00c081635aeba9ef02a7f1bbd645", null ],
-    [ "m_uiSpotlightGUID", "d7/dec/a13399.html#aceae6d1588aec9035fb80678af32e96c", null ],
-    [ "PerformanceReady", "d7/dec/a13399.html#a27a8ceb27724f074de840d24dcf0e284", null ],
-    [ "TalkCount", "d7/dec/a13399.html#a555a152b2f4981dc824a6fb0f66b5702", null ],
-    [ "TalkTimer", "d7/dec/a13399.html#afa7fd12da57b887f1254e24d444f43d1", null ]
+    [ "boss_terestian_illhoof", "d7/dec/a13399.html#a5750bf4f12ac01216335a926f885e136", null ],
+    [ "JustDied", "d7/dec/a13399.html#a9039c0fb905e72e659ce62f9d36593ce", null ],
+    [ "JustEngagedWith", "d7/dec/a13399.html#a1c48b03152be7188e471399fad8979d7", null ],
+    [ "JustSummoned", "d7/dec/a13399.html#a8b156654dbd75a4a7626edf30a8aae78", null ],
+    [ "KilledUnit", "d7/dec/a13399.html#ab7de8b406de200eec981fab79a56dcd7", null ],
+    [ "Reset", "d7/dec/a13399.html#a685b00f0e3317740412adfc48df1c3fb", null ],
+    [ "SpellHit", "d7/dec/a13399.html#a2f25021cfbc9e466d73c13de8116d8f1", null ],
+    [ "SummonKilrek", "d7/dec/a13399.html#a0007e35a38efce5edada2f47a9bb89c6", null ]
 ];

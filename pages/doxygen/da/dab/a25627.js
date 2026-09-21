@@ -1,5 +1,5 @@
 var a25627 =
 [
-    [ "PrepareSpellScript", "da/dab/a25627.html#a800936a311c05236dbd0c9c2f0edd5d9", null ],
-    [ "Register", "da/dab/a25627.html#ae176a1f643797b5367a593bbb2acc506", null ]
+    [ "PrepareSpellScript", "da/dab/a25627.html#a096ce1292821f201af5f294877ee25e0", null ],
+    [ "Register", "da/dab/a25627.html#a804d6dec38ea4e59a72ed09882dc9e95", null ]
 ];

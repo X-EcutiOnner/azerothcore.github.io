@@ -1,14 +1,9 @@
 var a09075 =
 [
-    [ "PassengerSet", "d2/db0/a09075.html#aa6421ebd51e84c819604e18e93729d27", null ],
-    [ "Transport", "d2/db0/a09075.html#a36928c178aa490c02aa25b4b12e2bf63", null ],
-    [ "AddPassenger", "d2/db0/a09075.html#ac5c328f816b0358a68265322219357c1", null ],
-    [ "CalculatePassengerOffset", "d2/db0/a09075.html#a327d37eef797c4197b8bba503bd8a3f8", null ],
-    [ "CalculatePassengerPosition", "d2/db0/a09075.html#ae4e716194ce5e9c466a8fe5c53ee0980", null ],
-    [ "DelayedUpdate", "d2/db0/a09075.html#aabc885fccc7a4a4d6a98f9ed8b39cd43", null ],
-    [ "GetPassengers", "d2/db0/a09075.html#a3f70c977ba2450d4244e54e4260f6ea1", null ],
-    [ "GetPathProgress", "d2/db0/a09075.html#a4ecab9f8617918aea3a26cc0feb9c021", null ],
-    [ "RemovePassenger", "d2/db0/a09075.html#a1d70745a16a1cbf3307a25ff4a53c75d", null ],
-    [ "SetPathProgress", "d2/db0/a09075.html#acb68e75a78fa196a4b514abd24c0e322", null ],
-    [ "_passengers", "d2/db0/a09075.html#adc2089495aadaab23414ecae3b2df180", null ]
+    [ "achievements", "d2/db0/a09075.html#acfdabccf4f66aa7ebfbae0bfe185f6dc", null ],
+    [ "items", "d2/db0/a09075.html#a2873836588f37b9a5cf691da2b6fa715", null ],
+    [ "levelMax", "d2/db0/a09075.html#a7430d852e5426c1a32e49c77d747f4e6", null ],
+    [ "levelMin", "d2/db0/a09075.html#a823016216268e13116a46bcb40ea0e70", null ],
+    [ "quests", "d2/db0/a09075.html#a6150aa58762a13dcbfcb55507df77809", null ],
+    [ "reqItemLevel", "d2/db0/a09075.html#a97f262e488e178dad0c33f228808f69e", null ]
 ];

@@ -1,11 +1,6 @@
 var a12831 =
 [
-    [ "boss_solakar_flamewreath", "d6/d3e/a12831.html#aff732901de1306b363e5a3d9994b3c9b", null ],
-    [ "ExecuteEvent", "d6/d3e/a12831.html#a72bf587aae341ba70bd219c8d97fe9a1", null ],
-    [ "InitializeAI", "d6/d3e/a12831.html#a21875946b8e9cfa8711f36f98a61a034", null ],
-    [ "JustDied", "d6/d3e/a12831.html#ae4d59238a359487e44985e040ee27732", null ],
-    [ "JustEngagedWith", "d6/d3e/a12831.html#af6a0c97341547ea852d9a09d3b66358e", null ],
-    [ "Reset", "d6/d3e/a12831.html#ae83c926a718af8ee0d90b8a9be800031", null ],
-    [ "UpdateAI", "d6/d3e/a12831.html#ad211f24ce4019724060441529ceaa780", null ],
-    [ "resetTimer", "d6/d3e/a12831.html#a602092d8262420bc51eef286b7c96d84", null ]
+    [ "boss_high_priestess_thaurissan", "d6/d3e/a12831.html#a72b25580dc84301be59d72df45a3ac87", null ],
+    [ "JustEngagedWith", "d6/d3e/a12831.html#aa8ba467dd5633e96a20c634880710936", null ],
+    [ "UpdateAI", "d6/d3e/a12831.html#a66612582a2362e4f07d7a2bda529af06", null ]
 ];

@@ -1,6 +1,13 @@
 var a10975 =
 [
-    [ "ShowingCloak", "d5/df0/a10975.html#ac8fcfe92c148787a07b77d0b9ebb45cb", null ],
-    [ "Read", "d5/df0/a10975.html#ad72ae43efc070655aa078d9985369442", null ],
-    [ "ShowCloak", "d5/df0/a10975.html#aa9eda46557031d67b4a675bd998e5b7d", null ]
+    [ "ScriptObject", "d5/df0/a10975.html#a494e983ccabd1d2311fe3afe0c2afbe5", null ],
+    [ "~ScriptObject", "d5/df0/a10975.html#a80c704c939f54eee6655d68509598c42", null ],
+    [ "checkValidity", "d5/df0/a10975.html#a585e75e34aed7aa32205daad85f8fe08", null ],
+    [ "GetName", "d5/df0/a10975.html#a3f66eb7597f020167b7d75202d28b83a", null ],
+    [ "GetTotalAvailableHooks", "d5/df0/a10975.html#a69ee35ec7d54226264efef558022c1c0", null ],
+    [ "isAfterLoadScript", "d5/df0/a10975.html#a2f66339b1cdf1fde795c61cd24c8b0a2", null ],
+    [ "IsDatabaseBound", "d5/df0/a10975.html#a37da453729d5c8fbe2d06f905563f47c", null ],
+    [ "ScriptMgr", "d5/df0/a10975.html#a7a753f61d57353451e90f3f23fec4851", null ],
+    [ "_name", "d5/df0/a10975.html#a90b63e382cac17922ae57fe22b84718c", null ],
+    [ "_totalAvailableHooks", "d5/df0/a10975.html#ab9ecac7620b4319c634d7e5f30c30f49", null ]
 ];

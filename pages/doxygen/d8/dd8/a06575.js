@@ -1,9 +1,12 @@
 var a06575 =
 [
-    [ "AISpellInfoType", "d8/dd8/a06575.html#a3b6d2057522e7b79c87a16d4b9cced98", null ],
-    [ "condition", "d8/dd8/a06575.html#af357bcc7eaeaf88a107a6309c468d53d", null ],
-    [ "cooldown", "d8/dd8/a06575.html#a6ea49fdc98ece29ceee63352424e9366", null ],
-    [ "maxRange", "d8/dd8/a06575.html#ab421f918f3cb479d2d0390cd98cdeae3", null ],
-    [ "realCooldown", "d8/dd8/a06575.html#a3ee8081ca5749ef9b5991a5505104ee9", null ],
-    [ "target", "d8/dd8/a06575.html#a8f9c1d3fbbabc73f4b47ffe21e7a06c4", null ]
+    [ "TotemAI", "d8/dd8/a06575.html#ad57f973e52d22f45b5171faeb28f2e91", null ],
+    [ "AttackStart", "d8/dd8/a06575.html#aa5bb81b51ec79a4328016cca34363880", null ],
+    [ "DoAction", "d8/dd8/a06575.html#a9457dae982b3c1d411aa42ff2f30feac", null ],
+    [ "EnterEvadeMode", "d8/dd8/a06575.html#acd8ed4528ac7c16182a0470e49b422f6", null ],
+    [ "MoveInLineOfSight", "d8/dd8/a06575.html#a796d05b45b4ba4dc23f04897fc2ce253", null ],
+    [ "Permissible", "d8/dd8/a06575.html#a75a0cdb27da98b47cf3ccbd2e594cd18", null ],
+    [ "SpellHit", "d8/dd8/a06575.html#a7a5fc1dc37708fab628bc78bb28575be", null ],
+    [ "UpdateAI", "d8/dd8/a06575.html#a2b5b3c8bb51d83bfa8f3474a868fcb19", null ],
+    [ "i_victimGuid", "d8/dd8/a06575.html#ae651f8f7a02261c1a0e37a6c7ddde4be", null ]
 ];

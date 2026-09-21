@@ -1,61 +1,21 @@
 var a02456 =
 [
-    [ "AreaTrigger_at_coilfang_waterfall", "d0/dbe/a28185.html", "d0/dbe/a28185" ],
-    [ "AreaTrigger_at_legion_teleporter", "dd/d8c/a28189.html", "dd/d8c/a28189" ],
-    [ "AreaTrigger_at_stormwright_shelf", "dd/d1a/a28193.html", "dd/d1a/a28193" ],
-    [ "AreaTrigger_at_scent_larkorwi", "d1/d19/a28197.html", "d1/d19/a28197" ],
-    [ "AreaTrigger_at_last_rites", "d5/d67/a28201.html", "d5/d67/a28201" ],
-    [ "AreaTrigger_at_nats_landing", "da/d41/a28205.html", "da/d41/a28205" ],
-    [ "AreaTrigger_at_sentry_point", "d1/ddf/a28209.html", "d1/ddf/a28209" ],
-    [ "AreaTrigger_at_brewfest", "de/d25/a28213.html", "de/d25/a28213" ],
-    [ "AreaTrigger_at_area_52_entrance", "d8/d46/a28217.html", "d8/d46/a28217" ],
-    [ "Area52Entrance", "d5/dcb/a02456.html#a7ef276a75040392ab3315082a3518c67", [
-      [ "SPELL_A52_NEURALYZER", "d5/dcb/a02456.html#a7ef276a75040392ab3315082a3518c67afa491a434774607e1e712c2f79ac322a", null ],
-      [ "NPC_SPOTLIGHT", "d5/dcb/a02456.html#a7ef276a75040392ab3315082a3518c67acded8211c601c5b237d60a58f65b56ac", null ],
-      [ "SUMMON_COOLDOWN", "d5/dcb/a02456.html#a7ef276a75040392ab3315082a3518c67aa4b7173ec61f2859f8649f0adcbb37d1", null ],
-      [ "AT_AREA_52_SOUTH", "d5/dcb/a02456.html#a7ef276a75040392ab3315082a3518c67ac9b6a7b98c7a4b2013ccd61f637851f9", null ],
-      [ "AT_AREA_52_NORTH", "d5/dcb/a02456.html#a7ef276a75040392ab3315082a3518c67a7eb1ed4b6c4f3ef99e5cdd9b1505a09e", null ],
-      [ "AT_AREA_52_WEST", "d5/dcb/a02456.html#a7ef276a75040392ab3315082a3518c67a69d8c4647a15efe238a70b1f049ff97f", null ],
-      [ "AT_AREA_52_EAST", "d5/dcb/a02456.html#a7ef276a75040392ab3315082a3518c67a3173f419da9cf80efa68ca3e99c10528", null ]
+    [ "item_only_for_flight", "de/d70/a28515.html", "de/d70/a28515" ],
+    [ "item_incendiary_explosives", "df/d0f/a28519.html", "df/d0f/a28519" ],
+    [ "item_mysterious_egg", "da/dad/a28523.html", "da/dad/a28523" ],
+    [ "item_disgusting_jar", "d4/d1e/a28527.html", "d4/d1e/a28527" ],
+    [ "item_petrov_cluster_bombs", "d6/d42/a28531.html", "d6/d42/a28531" ],
+    [ "item_captured_frog", "d2/ddc/a28535.html", "d2/ddc/a28535" ],
+    [ "item_generic_limit_chance_above_60", "d6/d88/a28539.html", "d6/d88/a28539" ],
+    [ "CapturedFrog", "d5/dcb/a02456.html#a3a51d3f5cfd1964cbec23fcba5046cca", [
+      [ "QUEST_THE_PERFECT_SPIES", "d5/dcb/a02456.html#a3a51d3f5cfd1964cbec23fcba5046ccaac3f8eeb86f6f3fe350b15b7a2d86bb04", null ],
+      [ "NPC_VANIRAS_SENTRY_TOTEM", "d5/dcb/a02456.html#a3a51d3f5cfd1964cbec23fcba5046ccaac387e8b467655f50a7dbaa8bcd0de57f", null ]
     ] ],
-    [ "AtLastRites", "d5/dcb/a02456.html#aedd9d40d0b524b4a5da323938c6f1c99", [
-      [ "QUEST_LAST_RITES", "d5/dcb/a02456.html#aedd9d40d0b524b4a5da323938c6f1c99af622e93bef1f891f43c910aec65feef2", null ],
-      [ "QUEST_BREAKING_THROUGH", "d5/dcb/a02456.html#aedd9d40d0b524b4a5da323938c6f1c99a0d528966459def04c2372cb96fb03057", null ]
+    [ "OnlyForFlight", "d5/dcb/a02456.html#afa5a0f3082f0a49fcc796209c7828151", [
+      [ "SPELL_ARCANE_CHARGES", "d5/dcb/a02456.html#afa5a0f3082f0a49fcc796209c7828151aeefbb491736447da40481cf5a8742e2d", null ]
     ] ],
-    [ "Brewfest", "d5/dcb/a02456.html#a9b234b18092b711f6f11cda755fe0bfd", [
-      [ "NPC_TAPPER_SWINDLEKEG", "d5/dcb/a02456.html#a9b234b18092b711f6f11cda755fe0bfda91dfef2ce070232ed51a69d9c6399130", null ],
-      [ "NPC_IPFELKOFER_IRONKEG", "d5/dcb/a02456.html#a9b234b18092b711f6f11cda755fe0bfda39440d09522df095e726cb1da7ab817e", null ],
-      [ "AT_BREWFEST_DUROTAR", "d5/dcb/a02456.html#a9b234b18092b711f6f11cda755fe0bfda6dbf4e730fdb44d7ceb232e60cee3091", null ],
-      [ "AT_BREWFEST_DUN_MOROGH", "d5/dcb/a02456.html#a9b234b18092b711f6f11cda755fe0bfda91d9e35e7360f1d853d2f54f54548c61", null ],
-      [ "SAY_WELCOME", "d5/dcb/a02456.html#a9b234b18092b711f6f11cda755fe0bfda53e43b5d6a57facfdbe1b6559295a32f", null ],
-      [ "AREATRIGGER_TALK_COOLDOWN", "d5/dcb/a02456.html#a9b234b18092b711f6f11cda755fe0bfda7105e5d2474e31860a9bc9f5075c31e4", null ]
+    [ "PetrovClusterBombs", "d5/dcb/a02456.html#a5481d2bf1b9efa370833eed302f6f94c", [
+      [ "SPELL_PETROV_BOMB", "d5/dcb/a02456.html#a5481d2bf1b9efa370833eed302f6f94ca52897b7254f1ac012c7e278d8dcbd8b6", null ]
     ] ],
-    [ "CoilfangGOs", "d5/dcb/a02456.html#a9670aee8aef02c60b84d4c3d11c963b5", [
-      [ "GO_COILFANG_WATERFALL", "d5/dcb/a02456.html#a9670aee8aef02c60b84d4c3d11c963b5a30520dfb9388b8cc7b4cbc9b3420d65d", null ]
-    ] ],
-    [ "LegionTeleporter", "d5/dcb/a02456.html#ad9a6ea877cb24dbb530ccf0e03cb7012", [
-      [ "SPELL_TELE_A_TO", "d5/dcb/a02456.html#ad9a6ea877cb24dbb530ccf0e03cb7012a09569d3491e5bf73c2d9e897077cd162", null ],
-      [ "QUEST_GAINING_ACCESS_A", "d5/dcb/a02456.html#ad9a6ea877cb24dbb530ccf0e03cb7012a1746dcba888866f4914d5fa112323879", null ],
-      [ "SPELL_TELE_H_TO", "d5/dcb/a02456.html#ad9a6ea877cb24dbb530ccf0e03cb7012a0373689ced7bf6fcd5453719eff7dff9", null ],
-      [ "QUEST_GAINING_ACCESS_H", "d5/dcb/a02456.html#ad9a6ea877cb24dbb530ccf0e03cb7012a90bff047b5c92fa8418685d95440c5ea", null ]
-    ] ],
-    [ "NatsLanding", "d5/dcb/a02456.html#a5ee4c50b08414290f73ada43c1c71151", [
-      [ "QUEST_NATS_BARGAIN", "d5/dcb/a02456.html#a5ee4c50b08414290f73ada43c1c71151aeff02bfb540090dbb759b896b3b3627e", null ],
-      [ "SPELL_FISH_PASTE", "d5/dcb/a02456.html#a5ee4c50b08414290f73ada43c1c71151a84c85ea415f324f0acec6a0e8d8eb8a6", null ],
-      [ "NPC_LURKING_SHARK", "d5/dcb/a02456.html#a5ee4c50b08414290f73ada43c1c71151af67d7adb069812fe8e3d79aff3f18900", null ]
-    ] ],
-    [ "ScentLarkorwi", "d5/dcb/a02456.html#a743ca0b810fe5b376233e725f346d416", [
-      [ "QUEST_SCENT_OF_LARKORWI", "d5/dcb/a02456.html#a743ca0b810fe5b376233e725f346d416a105afbe1f1e3510efdd8ef9fbfe153ee", null ],
-      [ "NPC_LARKORWI_MATE", "d5/dcb/a02456.html#a743ca0b810fe5b376233e725f346d416adb746f23675f0b248d264a0557ceff5d", null ]
-    ] ],
-    [ "SentryPoint", "d5/dcb/a02456.html#a24ef89c28423d02750eff95a35b3a275", [
-      [ "SPELL_TELEPORT_VISUAL", "d5/dcb/a02456.html#a24ef89c28423d02750eff95a35b3a275a73cc106ecf58fcd3a75fa23f9ff7a21c", null ],
-      [ "QUEST_MISSING_DIPLO_PT14", "d5/dcb/a02456.html#a24ef89c28423d02750eff95a35b3a275a378a874d36260f01327d51d537b33d94", null ],
-      [ "NPC_TERVOSH", "d5/dcb/a02456.html#a24ef89c28423d02750eff95a35b3a275a0ef56679b82214bad2e052fb8e979c50", null ]
-    ] ],
-    [ "StormwrightShelf", "d5/dcb/a02456.html#abdd676bd524ed3ea6915b8b1348861dd", [
-      [ "QUEST_STRENGTH_OF_THE_TEMPEST", "d5/dcb/a02456.html#abdd676bd524ed3ea6915b8b1348861ddae6b91cb73e581fe9558469357a90ec24", null ],
-      [ "SPELL_CREATE_TRUE_POWER_OF_THE_TEMPEST", "d5/dcb/a02456.html#abdd676bd524ed3ea6915b8b1348861dda55079b9b218f67c0dcae1b7da0dcb277", null ]
-    ] ],
-    [ "AddSC_areatrigger_scripts", "d5/dcb/a02456.html#a992f2da647f1f8748c7c9239b52079ad", null ]
+    [ "AddSC_item_scripts", "d5/dcb/a02456.html#a3e28ebf5a580887bb117f786689a34c6", null ]
 ];

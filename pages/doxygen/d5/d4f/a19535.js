@@ -1,7 +1,12 @@
 var a19535 =
 [
-    [ "HandleRemove", "d5/d4f/a19535.html#a7c81c567ae10bf4fd4d3c1eb480b5761", null ],
-    [ "PrepareAuraScript", "d5/d4f/a19535.html#aaefd5b15f7a3725b2663c0717fe22c92", null ],
-    [ "Register", "d5/d4f/a19535.html#ad7ba015a7878adad0820cf378d2632ca", null ],
-    [ "Validate", "d5/d4f/a19535.html#a570bb63c6ed7af58b0b886e8a954dea9", null ]
+    [ "boss_faerlinaAI", "d5/d4f/a19535.html#a3a97178599b9053c23a079ed1a2ed163", null ],
+    [ "JustDied", "d5/d4f/a19535.html#a7ac2e510568a9dad710beaad42db0544", null ],
+    [ "JustEngagedWith", "d5/d4f/a19535.html#a830dfa4fed62b4588ea8866174d3653a", null ],
+    [ "KilledUnit", "d5/d4f/a19535.html#a6f7a6e66abcf4f4dd685bbb805920900", null ],
+    [ "MoveInLineOfSight", "d5/d4f/a19535.html#aa5cd735c22d46e1b756f87f3952033a1", null ],
+    [ "Reset", "d5/d4f/a19535.html#acee81492b9b751df587a3a2cdd691ab3", null ],
+    [ "SpellHit", "d5/d4f/a19535.html#aa4fac163e31dcd9353238f993259d5ec", null ],
+    [ "SummonHelpers", "d5/d4f/a19535.html#af2fbf866f87d568ee6028f0931d3b74e", null ],
+    [ "_introDone", "d5/d4f/a19535.html#a9febd1d69c27140ddd2ac018181c67ec", null ]
 ];

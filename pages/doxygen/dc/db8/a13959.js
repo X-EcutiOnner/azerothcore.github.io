@@ -1,6 +1,8 @@
 var a13959 =
 [
-    [ "npc_professor_phizzlethorpeAI", "d1/d47/a13963.html", "d1/d47/a13963" ],
-    [ "npc_professor_phizzlethorpe", "dc/db8/a13959.html#a8d32b4a107533c81033c617b0b97027d", null ],
-    [ "GetAI", "dc/db8/a13959.html#a5eb540d16b2dd123d553ea4ae24d8b53", null ]
+    [ "HandleApply", "dc/db8/a13959.html#a9dce02909356193476e66586aee87f1d", null ],
+    [ "OnPeriodic", "dc/db8/a13959.html#add4f000f81d5d4112719c6dd7464163c", null ],
+    [ "PrepareAuraScript", "dc/db8/a13959.html#a1a9dfb50cec61386c5e3a3556f5d2f53", null ],
+    [ "Register", "dc/db8/a13959.html#abc349f12f375b1f284eb78a363e8172a", null ],
+    [ "Validate", "dc/db8/a13959.html#a83195ac3c9536a3485e41bf2c04884f6", null ]
 ];

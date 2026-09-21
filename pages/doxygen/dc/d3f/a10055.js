@@ -1,7 +1,10 @@
 var a10055 =
 [
-    [ "extended", "dc/d3f/a10055.html#a6cd2390616ebbc07b0fa55886d1e545d", null ],
-    [ "guidLow", "dc/d3f/a10055.html#a6d6358cd25aaf909fb02e01b994a6a92", null ],
-    [ "instanceId", "dc/d3f/a10055.html#a3f4f3f829d354ccc92491445d1efd1b2", null ],
-    [ "perm", "dc/d3f/a10055.html#a73b641d14a2d5d9781f706ccc2865415", null ]
+    [ "PlayerMoveItemData", "dc/d3f/a10055.html#a2f707719b409975ddd3023d2239403d6", null ],
+    [ "CanStore", "dc/d3f/a10055.html#a00680db86d45ad8e8652218fce05139d", null ],
+    [ "InitItem", "dc/d3f/a10055.html#a34298fd6ac20ab0e02c6350dcc5a4d33", null ],
+    [ "IsBank", "dc/d3f/a10055.html#ae4d45104dccf78581b4228a31fe192ad", null ],
+    [ "LogBankEvent", "dc/d3f/a10055.html#a36516c5ca1aaa13afa9e61831a175068", null ],
+    [ "RemoveItem", "dc/d3f/a10055.html#a482460f04b20349e909bac36f893a35a", null ],
+    [ "StoreItem", "dc/d3f/a10055.html#a017e3bd414548e66f980587e81e598e5", null ]
 ];

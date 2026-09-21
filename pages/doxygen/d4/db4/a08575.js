@@ -1,9 +1,12 @@
 var a08575 =
 [
-    [ "artKits", "d4/db4/a08575.html#a7ae038f7051f3da177d3cdc95ef608d2", null ],
-    [ "entry", "d4/db4/a08575.html#ae1378dcb4327a4d000c3299a32f9d23f", null ],
-    [ "faction", "d4/db4/a08575.html#a77e0b2613b7a1cda1bd306f066e63a39", null ],
-    [ "flags", "d4/db4/a08575.html#a4120c9184b4cfab7afada48ccf8e713e", null ],
-    [ "maxgold", "d4/db4/a08575.html#ae80fd304ee4d02d5e0d13ec6136ec736", null ],
-    [ "mingold", "d4/db4/a08575.html#a3b1c3dd6f223bd93cda6e993a64b61d1", null ]
+    [ "QuestMenu", "d4/db4/a08575.html#a60ba5b35499c6a9ed510300d3300421e", null ],
+    [ "~QuestMenu", "d4/db4/a08575.html#a14df9b6699c327853121ae032704db8d", null ],
+    [ "AddMenuItem", "d4/db4/a08575.html#ac8735756bbf9f2fa799c505bd740e070", null ],
+    [ "ClearMenu", "d4/db4/a08575.html#ab3d3881aabe000694acab37a3774507e", null ],
+    [ "Empty", "d4/db4/a08575.html#a1a850cb70956f299ea91cb0d732ad202", null ],
+    [ "GetItem", "d4/db4/a08575.html#a08240a8d18dce0cb96db19f54c67dd2c", null ],
+    [ "GetMenuItemCount", "d4/db4/a08575.html#a2338a6fb88c32bfb66fe524a8ffaa0d7", null ],
+    [ "HasItem", "d4/db4/a08575.html#a7fe36e4a4acfc66a00f08034c470b5e3", null ],
+    [ "_questMenuItems", "d4/db4/a08575.html#a49279a3943009f2d1475d792c2c3d21a", null ]
 ];

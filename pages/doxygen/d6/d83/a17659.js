@@ -1,7 +1,6 @@
 var a17659 =
 [
-    [ "HandlePeriodic", "d6/d83/a17659.html#a2087e4de62f7aabb72315e92c28c7bd6", null ],
-    [ "PrepareAuraScript", "d6/d83/a17659.html#ab71db011b1cc1f3a2e85cd6b6f115242", null ],
-    [ "Register", "d6/d83/a17659.html#ad8a16d599a11fa4409d132f66e37e04e", null ],
-    [ "Validate", "d6/d83/a17659.html#afe821a7eb4eaf959d803c7c846f3bdf0", null ]
+    [ "boss_drakkari_colossusAI", "d8/de9/a17663.html", "d8/de9/a17663" ],
+    [ "boss_drakkari_colossus", "d6/d83/a17659.html#abe1bf28b9147b72c81e5c5efcdeeaf84", null ],
+    [ "GetAI", "d6/d83/a17659.html#a75c6c9c56fe11342dd8aece031059e77", null ]
 ];

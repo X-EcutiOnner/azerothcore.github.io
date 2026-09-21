@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: KeyFrame Struct Reference</title>
+<title>AzerothCore: StaticVMapCollisionData Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,58 +106,44 @@ $(document).ready(function(){initNavTree('d0/d80/a10335.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pro-attribs">Protected Attributes</a> &#124;
+<a href="#friends">Friends</a> &#124;
 <a href="../../dd/db3/a10332.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">KeyFrame Struct Reference</div></div>
+  <div class="headertitle"><div class="title">StaticVMapCollisionData Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">TransportMgr.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">MapCollisionData.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a29de8ef0d2ba8671a00557782b5b3ba0"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d80/a10335.html#a29de8ef0d2ba8671a00557782b5b3ba0">KeyFrame</a> (<a class="el" href="../../da/ded/a29483.html">TaxiPathNodeEntry</a> const *node)</td></tr>
-<tr class="separator:a29de8ef0d2ba8671a00557782b5b3ba0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4197d8450563a6abd2826be37a2d0c0e"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d80/a10335.html#a4197d8450563a6abd2826be37a2d0c0e">IsTeleportFrame</a> () const</td></tr>
-<tr class="separator:a4197d8450563a6abd2826be37a2d0c0e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5e5b3e61a5734a8cfcba1c8e9cfb6e33"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d80/a10335.html#a5e5b3e61a5734a8cfcba1c8e9cfb6e33">IsStopFrame</a> () const</td></tr>
-<tr class="separator:a5e5b3e61a5734a8cfcba1c8e9cfb6e33"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5955532316bc6409c104197b086d3e3b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d80/a10335.html#a5955532316bc6409c104197b086d3e3b">StaticVMapCollisionData</a> (<a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> mapId)</td></tr>
+<tr class="separator:a5955532316bc6409c104197b086d3e3b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a79f47e4eafe0db4e449ec202ad3ef580"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d80/a10335.html#a79f47e4eafe0db4e449ec202ad3ef580">isInLineOfSight</a> (float x1, float y1, float z1, float x2, float y2, float z2, <a class="el" href="../../d9/d0b/a05125.html#a6996c44f3ac72cd9dc04515186d2da28">VMAP::ModelIgnoreFlags</a> ignoreFlags) const</td></tr>
+<tr class="separator:a79f47e4eafe0db4e449ec202ad3ef580"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aacf3e526a4e52c8515b3a8004e6b0a1a"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d80/a10335.html#aacf3e526a4e52c8515b3a8004e6b0a1a">GetObjectHitPos</a> (float x1, float y1, float z1, float x2, float y2, float z2, float &amp;rx, float &amp;ry, float &amp;rz, float modifyDist) const</td></tr>
+<tr class="separator:aacf3e526a4e52c8515b3a8004e6b0a1a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad5b245ec62bf370a479c8fdb0eec1f40"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d80/a10335.html#ad5b245ec62bf370a479c8fdb0eec1f40">getHeight</a> (float x, float y, float z, float maxSearchDist) const</td></tr>
+<tr class="separator:ad5b245ec62bf370a479c8fdb0eec1f40"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afcbfd82bc43ad5dbce5edc35608a0d38"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d80/a10335.html#afcbfd82bc43ad5dbce5edc35608a0d38">GetAreaAndLiquidData</a> (float x, float y, float z, <a class="el" href="../../db/de9/a04955.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; <a class="el" href="../../de/d69/a04679.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &gt; reqLiquidType, <a class="el" href="../../da/d97/a05319.html">VMAP::AreaAndLiquidData</a> &amp;data) const</td></tr>
+<tr class="separator:afcbfd82bc43ad5dbce5edc35608a0d38"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:a1176b2e4067a4e330db280514ca66d43"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d80/a10335.html#a1176b2e4067a4e330db280514ca66d43">Index</a></td></tr>
-<tr class="separator:a1176b2e4067a4e330db280514ca66d43"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac628c537d5854ddf54d516eaf4471d7f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/ded/a29483.html">TaxiPathNodeEntry</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d80/a10335.html#ac628c537d5854ddf54d516eaf4471d7f">Node</a></td></tr>
-<tr class="separator:ac628c537d5854ddf54d516eaf4471d7f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9af26b07943f22473526463f7a0f7c6b"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d80/a10335.html#a9af26b07943f22473526463f7a0f7c6b">InitialOrientation</a></td></tr>
-<tr class="separator:a9af26b07943f22473526463f7a0f7c6b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a60502cefa4387ffd815ba88530123ac6"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d80/a10335.html#a60502cefa4387ffd815ba88530123ac6">DistSinceStop</a></td></tr>
-<tr class="separator:a60502cefa4387ffd815ba88530123ac6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a03f76647aa0c383bcd4b26ae93abe465"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d80/a10335.html#a03f76647aa0c383bcd4b26ae93abe465">DistUntilStop</a></td></tr>
-<tr class="separator:a03f76647aa0c383bcd4b26ae93abe465"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4271d37fac21d8c41758fc5edbf793e2"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d80/a10335.html#a4271d37fac21d8c41758fc5edbf793e2">DistFromPrev</a></td></tr>
-<tr class="separator:a4271d37fac21d8c41758fc5edbf793e2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae12ac1910a4aa13557e69bd5e066214b"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d80/a10335.html#ae12ac1910a4aa13557e69bd5e066214b">TimeFrom</a></td></tr>
-<tr class="separator:ae12ac1910a4aa13557e69bd5e066214b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae4e0c37d26edb99017bf0042b3e0bad4"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d80/a10335.html#ae4e0c37d26edb99017bf0042b3e0bad4">TimeTo</a></td></tr>
-<tr class="separator:ae4e0c37d26edb99017bf0042b3e0bad4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad57abe67a7e4771a35621b4204bfe347"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d80/a10335.html#ad57abe67a7e4771a35621b4204bfe347">Teleport</a></td></tr>
-<tr class="separator:ad57abe67a7e4771a35621b4204bfe347"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afc5d26078e42a2170d43c864542f676f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d80/a10335.html#afc5d26078e42a2170d43c864542f676f">ArriveTime</a></td></tr>
-<tr class="separator:afc5d26078e42a2170d43c864542f676f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac243e42c49063db26557d96b5fdf8a8f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d80/a10335.html#ac243e42c49063db26557d96b5fdf8a8f">DepartureTime</a></td></tr>
-<tr class="separator:ac243e42c49063db26557d96b5fdf8a8f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aee298cdd32a7593baf6ad00234120781"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/d59/a01013.html#a05990a03a3ab902d6d79e9f33385b605">TransportSpline</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d80/a10335.html#aee298cdd32a7593baf6ad00234120781">Spline</a></td></tr>
-<tr class="separator:aee298cdd32a7593baf6ad00234120781"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a23823648385abc72ffd8372468b98915"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d80/a10335.html#a23823648385abc72ffd8372468b98915">NextDistFromPrev</a></td></tr>
-<tr class="separator:a23823648385abc72ffd8372468b98915"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a51fb15713126d4890bfe99dc00e421f7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d80/a10335.html#a51fb15713126d4890bfe99dc00e421f7">NextArriveTime</a></td></tr>
-<tr class="separator:a51fb15713126d4890bfe99dc00e421f7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-attribs" name="pro-attribs"></a>
+Protected Attributes</h2></td></tr>
+<tr class="memitem:a4d73d970aa85dbbd9c70633addcdaf13"><td class="memItemLeft" align="right" valign="top">std::shared_ptr&lt; <a class="el" href="../../db/d18/a05383.html">VMAP::StaticMapTree</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d80/a10335.html#a4d73d970aa85dbbd9c70633addcdaf13">_staticTree</a></td></tr>
+<tr class="separator:a4d73d970aa85dbbd9c70633addcdaf13"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9ea6ece2bfd70cb74cbd4f6a9060e5eb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d80/a10335.html#a9ea6ece2bfd70cb74cbd4f6a9060e5eb">_mapId</a></td></tr>
+<tr class="separator:a9ea6ece2bfd70cb74cbd4f6a9060e5eb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="friends" name="friends"></a>
+Friends</h2></td></tr>
+<tr class="memitem:a472038a89678719bf8868ab0c75e394f"><td class="memItemLeft" align="right" valign="top">class&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d80/a10335.html#a472038a89678719bf8868ab0c75e394f">MapCollisionData</a></td></tr>
+<tr class="separator:a472038a89678719bf8868ab0c75e394f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a29de8ef0d2ba8671a00557782b5b3ba0" name="a29de8ef0d2ba8671a00557782b5b3ba0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a29de8ef0d2ba8671a00557782b5b3ba0">&#9670;&#160;</a></span>KeyFrame()</h2>
+<a id="a5955532316bc6409c104197b086d3e3b" name="a5955532316bc6409c104197b086d3e3b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5955532316bc6409c104197b086d3e3b">&#9670;&#160;</a></span>StaticVMapCollisionData()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -166,44 +152,375 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">KeyFrame::KeyFrame </td>
+          <td class="memname">StaticVMapCollisionData::StaticVMapCollisionData </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../da/ded/a29483.html">TaxiPathNodeEntry</a> const *&#160;</td>
-          <td class="paramname"><em>node</em></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>mapId</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">explicit</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   43</span>                                                     : <a class="code hl_variable" href="../../d0/d80/a10335.html#a1176b2e4067a4e330db280514ca66d43">Index</a>(0), <a class="code hl_variable" href="../../d0/d80/a10335.html#ac628c537d5854ddf54d516eaf4471d7f">Node</a>(node), <a class="code hl_variable" href="../../d0/d80/a10335.html#a9af26b07943f22473526463f7a0f7c6b">InitialOrientation</a>(0.0f),</div>
-<div class="line"><span class="lineno">   44</span>        <a class="code hl_variable" href="../../d0/d80/a10335.html#a60502cefa4387ffd815ba88530123ac6">DistSinceStop</a>(-1.0f), <a class="code hl_variable" href="../../d0/d80/a10335.html#a03f76647aa0c383bcd4b26ae93abe465">DistUntilStop</a>(-1.0f), <a class="code hl_variable" href="../../d0/d80/a10335.html#a4271d37fac21d8c41758fc5edbf793e2">DistFromPrev</a>(-1.0f), <a class="code hl_variable" href="../../d0/d80/a10335.html#ae12ac1910a4aa13557e69bd5e066214b">TimeFrom</a>(0.0f), <a class="code hl_variable" href="../../d0/d80/a10335.html#ae4e0c37d26edb99017bf0042b3e0bad4">TimeTo</a>(0.0f),</div>
-<div class="line"><span class="lineno">   45</span>        <a class="code hl_variable" href="../../d0/d80/a10335.html#ad57abe67a7e4771a35621b4204bfe347">Teleport</a>(<span class="keyword">false</span>), <a class="code hl_variable" href="../../d0/d80/a10335.html#afc5d26078e42a2170d43c864542f676f">ArriveTime</a>(0), <a class="code hl_variable" href="../../d0/d80/a10335.html#ac243e42c49063db26557d96b5fdf8a8f">DepartureTime</a>(0), <a class="code hl_variable" href="../../d0/d80/a10335.html#aee298cdd32a7593baf6ad00234120781">Spline</a>(<span class="keyword">nullptr</span>), <a class="code hl_variable" href="../../d0/d80/a10335.html#a23823648385abc72ffd8372468b98915">NextDistFromPrev</a>(0.0f), <a class="code hl_variable" href="../../d0/d80/a10335.html#a51fb15713126d4890bfe99dc00e421f7">NextArriveTime</a>(0)</div>
-<div class="line"><span class="lineno">   46</span>    {</div>
-<div class="line"><span class="lineno">   47</span>    }</div>
-<div class="ttc" id="aa10335_html_a03f76647aa0c383bcd4b26ae93abe465"><div class="ttname"><a href="../../d0/d80/a10335.html#a03f76647aa0c383bcd4b26ae93abe465">KeyFrame::DistUntilStop</a></div><div class="ttdeci">float DistUntilStop</div><div class="ttdef"><b>Definition:</b> TransportMgr.h:53</div></div>
-<div class="ttc" id="aa10335_html_a1176b2e4067a4e330db280514ca66d43"><div class="ttname"><a href="../../d0/d80/a10335.html#a1176b2e4067a4e330db280514ca66d43">KeyFrame::Index</a></div><div class="ttdeci">uint32 Index</div><div class="ttdef"><b>Definition:</b> TransportMgr.h:49</div></div>
-<div class="ttc" id="aa10335_html_a23823648385abc72ffd8372468b98915"><div class="ttname"><a href="../../d0/d80/a10335.html#a23823648385abc72ffd8372468b98915">KeyFrame::NextDistFromPrev</a></div><div class="ttdeci">float NextDistFromPrev</div><div class="ttdef"><b>Definition:</b> TransportMgr.h:63</div></div>
-<div class="ttc" id="aa10335_html_a4271d37fac21d8c41758fc5edbf793e2"><div class="ttname"><a href="../../d0/d80/a10335.html#a4271d37fac21d8c41758fc5edbf793e2">KeyFrame::DistFromPrev</a></div><div class="ttdeci">float DistFromPrev</div><div class="ttdef"><b>Definition:</b> TransportMgr.h:54</div></div>
-<div class="ttc" id="aa10335_html_a51fb15713126d4890bfe99dc00e421f7"><div class="ttname"><a href="../../d0/d80/a10335.html#a51fb15713126d4890bfe99dc00e421f7">KeyFrame::NextArriveTime</a></div><div class="ttdeci">uint32 NextArriveTime</div><div class="ttdef"><b>Definition:</b> TransportMgr.h:64</div></div>
-<div class="ttc" id="aa10335_html_a60502cefa4387ffd815ba88530123ac6"><div class="ttname"><a href="../../d0/d80/a10335.html#a60502cefa4387ffd815ba88530123ac6">KeyFrame::DistSinceStop</a></div><div class="ttdeci">float DistSinceStop</div><div class="ttdef"><b>Definition:</b> TransportMgr.h:52</div></div>
-<div class="ttc" id="aa10335_html_a9af26b07943f22473526463f7a0f7c6b"><div class="ttname"><a href="../../d0/d80/a10335.html#a9af26b07943f22473526463f7a0f7c6b">KeyFrame::InitialOrientation</a></div><div class="ttdeci">float InitialOrientation</div><div class="ttdef"><b>Definition:</b> TransportMgr.h:51</div></div>
-<div class="ttc" id="aa10335_html_ac243e42c49063db26557d96b5fdf8a8f"><div class="ttname"><a href="../../d0/d80/a10335.html#ac243e42c49063db26557d96b5fdf8a8f">KeyFrame::DepartureTime</a></div><div class="ttdeci">uint32 DepartureTime</div><div class="ttdef"><b>Definition:</b> TransportMgr.h:59</div></div>
-<div class="ttc" id="aa10335_html_ac628c537d5854ddf54d516eaf4471d7f"><div class="ttname"><a href="../../d0/d80/a10335.html#ac628c537d5854ddf54d516eaf4471d7f">KeyFrame::Node</a></div><div class="ttdeci">TaxiPathNodeEntry const  * Node</div><div class="ttdef"><b>Definition:</b> TransportMgr.h:50</div></div>
-<div class="ttc" id="aa10335_html_ad57abe67a7e4771a35621b4204bfe347"><div class="ttname"><a href="../../d0/d80/a10335.html#ad57abe67a7e4771a35621b4204bfe347">KeyFrame::Teleport</a></div><div class="ttdeci">bool Teleport</div><div class="ttdef"><b>Definition:</b> TransportMgr.h:57</div></div>
-<div class="ttc" id="aa10335_html_ae12ac1910a4aa13557e69bd5e066214b"><div class="ttname"><a href="../../d0/d80/a10335.html#ae12ac1910a4aa13557e69bd5e066214b">KeyFrame::TimeFrom</a></div><div class="ttdeci">float TimeFrom</div><div class="ttdef"><b>Definition:</b> TransportMgr.h:55</div></div>
-<div class="ttc" id="aa10335_html_ae4e0c37d26edb99017bf0042b3e0bad4"><div class="ttname"><a href="../../d0/d80/a10335.html#ae4e0c37d26edb99017bf0042b3e0bad4">KeyFrame::TimeTo</a></div><div class="ttdeci">float TimeTo</div><div class="ttdef"><b>Definition:</b> TransportMgr.h:56</div></div>
-<div class="ttc" id="aa10335_html_aee298cdd32a7593baf6ad00234120781"><div class="ttname"><a href="../../d0/d80/a10335.html#aee298cdd32a7593baf6ad00234120781">KeyFrame::Spline</a></div><div class="ttdeci">TransportSpline * Spline</div><div class="ttdef"><b>Definition:</b> TransportMgr.h:60</div></div>
-<div class="ttc" id="aa10335_html_afc5d26078e42a2170d43c864542f676f"><div class="ttname"><a href="../../d0/d80/a10335.html#afc5d26078e42a2170d43c864542f676f">KeyFrame::ArriveTime</a></div><div class="ttdeci">uint32 ArriveTime</div><div class="ttdef"><b>Definition:</b> TransportMgr.h:58</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   39</span>: <a class="code hl_variable" href="../../d0/d80/a10335.html#a9ea6ece2bfd70cb74cbd4f6a9060e5eb">_mapId</a>(mapId) {}</div>
+<div class="ttc" id="aa10335_html_a9ea6ece2bfd70cb74cbd4f6a9060e5eb"><div class="ttname"><a href="../../d0/d80/a10335.html#a9ea6ece2bfd70cb74cbd4f6a9060e5eb">StaticVMapCollisionData::_mapId</a></div><div class="ttdeci">uint32 _mapId</div><div class="ttdef"><b>Definition:</b> MapCollisionData.h:48</div></div>
 </div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a5e5b3e61a5734a8cfcba1c8e9cfb6e33" name="a5e5b3e61a5734a8cfcba1c8e9cfb6e33"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5e5b3e61a5734a8cfcba1c8e9cfb6e33">&#9670;&#160;</a></span>IsStopFrame()</h2>
+<a id="afcbfd82bc43ad5dbce5edc35608a0d38" name="afcbfd82bc43ad5dbce5edc35608a0d38"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afcbfd82bc43ad5dbce5edc35608a0d38">&#9670;&#160;</a></span>GetAreaAndLiquidData()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool StaticVMapCollisionData::GetAreaAndLiquidData </td>
+          <td>(</td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>x</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>y</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>z</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../db/de9/a04955.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; <a class="el" href="../../de/d69/a04679.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &gt;&#160;</td>
+          <td class="paramname"><em>reqLiquidType</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../da/d97/a05319.html">VMAP::AreaAndLiquidData</a> &amp;&#160;</td>
+          <td class="paramname"><em>data</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  137</span>{</div>
+<div class="line"><span class="lineno">  138</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d0/d80/a10335.html#a4d73d970aa85dbbd9c70633addcdaf13">_staticTree</a>)</div>
+<div class="line"><span class="lineno">  139</span>    {</div>
+<div class="line"><span class="lineno">  140</span>        <a class="code hl_struct" href="../../dd/d3d/a05379.html">VMAP::LocationInfo</a> info;</div>
+<div class="line"><span class="lineno">  141</span>        G3D::Vector3 <span class="keyword">const</span> pos = <a class="code hl_function" href="../../df/d5e/a05351.html#ade8ab3f66eb603aae40a80fab7c52e67">VMAP::VMapMgr2::convertPositionToInternalRep</a>(x, y, z);</div>
+<div class="line"><span class="lineno">  142</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d0/d80/a10335.html#a4d73d970aa85dbbd9c70633addcdaf13">_staticTree</a>-&gt;GetLocationInfo(pos, info))</div>
+<div class="line"><span class="lineno">  143</span>        {</div>
+<div class="line"><span class="lineno">  144</span>            data.<a class="code hl_variable" href="../../da/d97/a05319.html#af7c8710b5d296c1d792b4fc34302278f">floorZ</a> = info.<a class="code hl_variable" href="../../dd/d3d/a05379.html#a0ffbfcfc677809dda6250855d9594ca5">ground_Z</a>;</div>
+<div class="line"><span class="lineno">  145</span>            <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../df/d8c/a08351.html#a38b182e1836b2197303b2809006f5148">DisableMgr::IsVMAPDisabledFor</a>(<a class="code hl_variable" href="../../d0/d80/a10335.html#a9ea6ece2bfd70cb74cbd4f6a9060e5eb">_mapId</a>, <a class="code hl_enumvalue" href="../../d9/d0b/a05125.html#ae6fa86a61cff3bac928739b18ffb8c1ba191004652b9fbcccb26c14ce81a94cec">VMAP::VMAP_DISABLE_LIQUIDSTATUS</a>))</div>
+<div class="line"><span class="lineno">  146</span>            {</div>
+<div class="line"><span class="lineno">  147</span>                <a class="code hl_typedef" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> liquidType = info.<a class="code hl_variable" href="../../dd/d3d/a05379.html#a17eef5c7a0ebf9b9963740a10fca459f">hitModel</a>-&gt;<a class="code hl_function" href="../../db/d89/a05467.html#a18a06e1abd1bd1631252d984fc6523bf">GetLiquidType</a>(); <span class="comment">// entry from LiquidType.dbc</span></div>
+<div class="line"><span class="lineno">  148</span>                <span class="keywordtype">float</span> liquidLevel;</div>
+<div class="line"><span class="lineno">  149</span>                <span class="keywordflow">if</span> (!reqLiquidType || (<a class="code hl_function" href="../../da/d79/a01310.html#a60ccc706663a742ab1d59698f00be5fd">GetLiquidFlags</a>(liquidType) &amp; *reqLiquidType))</div>
+<div class="line"><span class="lineno">  150</span>                    <span class="keywordflow">if</span> (info.<a class="code hl_variable" href="../../dd/d3d/a05379.html#ab59b10bde437cca895b69c2035174b6d">hitInstance</a>-&gt;<a class="code hl_function" href="../../d1/dd6/a05435.html#a7d938e37825b61d9206c0e98d1352b5f">GetLiquidLevel</a>(pos, info, liquidLevel))</div>
+<div class="line"><span class="lineno">  151</span>                        data.<a class="code hl_variable" href="../../da/d97/a05319.html#ae59e1e7fdf4913c48a0d82e1d19366a7">liquidInfo</a>.emplace(liquidType, liquidLevel);</div>
+<div class="line"><span class="lineno">  152</span>            }</div>
+<div class="line"><span class="lineno">  153</span> </div>
+<div class="line"><span class="lineno">  154</span>            <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../df/d8c/a08351.html#a38b182e1836b2197303b2809006f5148">DisableMgr::IsVMAPDisabledFor</a>(<a class="code hl_variable" href="../../d0/d80/a10335.html#a9ea6ece2bfd70cb74cbd4f6a9060e5eb">_mapId</a>, <a class="code hl_enumvalue" href="../../d9/d0b/a05125.html#ae6fa86a61cff3bac928739b18ffb8c1ba4fc4dc95e6df57c161e146d8da4b4a19">VMAP::VMAP_DISABLE_AREAFLAG</a>))</div>
+<div class="line"><span class="lineno">  155</span>                data.<a class="code hl_variable" href="../../da/d97/a05319.html#a0d30ac3fa0cefd6eafc1690c75f46f0f">areaInfo</a>.emplace(info.<a class="code hl_variable" href="../../dd/d3d/a05379.html#a17eef5c7a0ebf9b9963740a10fca459f">hitModel</a>-&gt;<a class="code hl_function" href="../../db/d89/a05467.html#a688249a2be14b24567ec46628c9f54b3">GetWmoID</a>(), info.<a class="code hl_variable" href="../../dd/d3d/a05379.html#ab59b10bde437cca895b69c2035174b6d">hitInstance</a>-&gt;<a class="code hl_variable" href="../../d7/d4f/a05431.html#a4ebcfe8326eff028e722c9972a16200b">adtId</a>, info.<a class="code hl_variable" href="../../dd/d3d/a05379.html#aae82d7d8518db5e131d6a327927c75a2">rootId</a>, info.<a class="code hl_variable" href="../../dd/d3d/a05379.html#a17eef5c7a0ebf9b9963740a10fca459f">hitModel</a>-&gt;<a class="code hl_function" href="../../db/d89/a05467.html#a3a9097772a45d937f95bd2388fca9832">GetMogpFlags</a>(), info.<a class="code hl_variable" href="../../dd/d3d/a05379.html#ab59b10bde437cca895b69c2035174b6d">hitInstance</a>-&gt;<a class="code hl_variable" href="../../d7/d4f/a05431.html#ab2fdb441870d6ac7ddc05640ec1d0598">ID</a>);</div>
+<div class="line"><span class="lineno">  156</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  157</span>        }</div>
+<div class="line"><span class="lineno">  158</span>    }</div>
+<div class="line"><span class="lineno">  159</span> </div>
+<div class="line"><span class="lineno">  160</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  161</span>}</div>
+<div class="ttc" id="aa01310_html_a60ccc706663a742ab1d59698f00be5fd"><div class="ttname"><a href="../../da/d79/a01310.html#a60ccc706663a742ab1d59698f00be5fd">GetLiquidFlags</a></div><div class="ttdeci">uint32 GetLiquidFlags(uint32 liquidType)</div><div class="ttdef"><b>Definition:</b> DBCStores.cpp:846</div></div>
+<div class="ttc" id="aa04679_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa05125_html_ae6fa86a61cff3bac928739b18ffb8c1ba191004652b9fbcccb26c14ce81a94cec"><div class="ttname"><a href="../../d9/d0b/a05125.html#ae6fa86a61cff3bac928739b18ffb8c1ba191004652b9fbcccb26c14ce81a94cec">VMAP::VMAP_DISABLE_LIQUIDSTATUS</a></div><div class="ttdeci">@ VMAP_DISABLE_LIQUIDSTATUS</div><div class="ttdef"><b>Definition:</b> VMapMgr2.h:51</div></div>
+<div class="ttc" id="aa05125_html_ae6fa86a61cff3bac928739b18ffb8c1ba4fc4dc95e6df57c161e146d8da4b4a19"><div class="ttname"><a href="../../d9/d0b/a05125.html#ae6fa86a61cff3bac928739b18ffb8c1ba4fc4dc95e6df57c161e146d8da4b4a19">VMAP::VMAP_DISABLE_AREAFLAG</a></div><div class="ttdeci">@ VMAP_DISABLE_AREAFLAG</div><div class="ttdef"><b>Definition:</b> VMapMgr2.h:48</div></div>
+<div class="ttc" id="aa05319_html_a0d30ac3fa0cefd6eafc1690c75f46f0f"><div class="ttname"><a href="../../da/d97/a05319.html#a0d30ac3fa0cefd6eafc1690c75f46f0f">VMAP::AreaAndLiquidData::areaInfo</a></div><div class="ttdeci">Optional&lt; AreaInfo &gt; areaInfo</div><div class="ttdef"><b>Definition:</b> IVMapMgr.h:77</div></div>
+<div class="ttc" id="aa05319_html_ae59e1e7fdf4913c48a0d82e1d19366a7"><div class="ttname"><a href="../../da/d97/a05319.html#ae59e1e7fdf4913c48a0d82e1d19366a7">VMAP::AreaAndLiquidData::liquidInfo</a></div><div class="ttdeci">Optional&lt; LiquidInfo &gt; liquidInfo</div><div class="ttdef"><b>Definition:</b> IVMapMgr.h:78</div></div>
+<div class="ttc" id="aa05319_html_af7c8710b5d296c1d792b4fc34302278f"><div class="ttname"><a href="../../da/d97/a05319.html#af7c8710b5d296c1d792b4fc34302278f">VMAP::AreaAndLiquidData::floorZ</a></div><div class="ttdeci">float floorZ</div><div class="ttdef"><b>Definition:</b> IVMapMgr.h:76</div></div>
+<div class="ttc" id="aa05351_html_ade8ab3f66eb603aae40a80fab7c52e67"><div class="ttname"><a href="../../df/d5e/a05351.html#ade8ab3f66eb603aae40a80fab7c52e67">VMAP::VMapMgr2::convertPositionToInternalRep</a></div><div class="ttdeci">static G3D::Vector3 convertPositionToInternalRep(float x, float y, float z)</div><div class="ttdef"><b>Definition:</b> VMapMgr2.cpp:41</div></div>
+<div class="ttc" id="aa05379_html"><div class="ttname"><a href="../../dd/d3d/a05379.html">VMAP::LocationInfo</a></div><div class="ttdef"><b>Definition:</b> MapTree.h:40</div></div>
+<div class="ttc" id="aa05379_html_a0ffbfcfc677809dda6250855d9594ca5"><div class="ttname"><a href="../../dd/d3d/a05379.html#a0ffbfcfc677809dda6250855d9594ca5">VMAP::LocationInfo::ground_Z</a></div><div class="ttdeci">float ground_Z</div><div class="ttdef"><b>Definition:</b> MapTree.h:44</div></div>
+<div class="ttc" id="aa05379_html_a17eef5c7a0ebf9b9963740a10fca459f"><div class="ttname"><a href="../../dd/d3d/a05379.html#a17eef5c7a0ebf9b9963740a10fca459f">VMAP::LocationInfo::hitModel</a></div><div class="ttdeci">GroupModel const  * hitModel</div><div class="ttdef"><b>Definition:</b> MapTree.h:43</div></div>
+<div class="ttc" id="aa05379_html_aae82d7d8518db5e131d6a327927c75a2"><div class="ttname"><a href="../../dd/d3d/a05379.html#aae82d7d8518db5e131d6a327927c75a2">VMAP::LocationInfo::rootId</a></div><div class="ttdeci">int32 rootId</div><div class="ttdef"><b>Definition:</b> MapTree.h:45</div></div>
+<div class="ttc" id="aa05379_html_ab59b10bde437cca895b69c2035174b6d"><div class="ttname"><a href="../../dd/d3d/a05379.html#ab59b10bde437cca895b69c2035174b6d">VMAP::LocationInfo::hitInstance</a></div><div class="ttdeci">ModelInstance const  * hitInstance</div><div class="ttdef"><b>Definition:</b> MapTree.h:42</div></div>
+<div class="ttc" id="aa05431_html_a4ebcfe8326eff028e722c9972a16200b"><div class="ttname"><a href="../../d7/d4f/a05431.html#a4ebcfe8326eff028e722c9972a16200b">VMAP::ModelSpawn::adtId</a></div><div class="ttdeci">uint16 adtId</div><div class="ttdef"><b>Definition:</b> ModelInstance.h:47</div></div>
+<div class="ttc" id="aa05431_html_ab2fdb441870d6ac7ddc05640ec1d0598"><div class="ttname"><a href="../../d7/d4f/a05431.html#ab2fdb441870d6ac7ddc05640ec1d0598">VMAP::ModelSpawn::ID</a></div><div class="ttdeci">uint32 ID</div><div class="ttdef"><b>Definition:</b> ModelInstance.h:48</div></div>
+<div class="ttc" id="aa05435_html_a7d938e37825b61d9206c0e98d1352b5f"><div class="ttname"><a href="../../d1/dd6/a05435.html#a7d938e37825b61d9206c0e98d1352b5f">VMAP::ModelInstance::GetLiquidLevel</a></div><div class="ttdeci">bool GetLiquidLevel(G3D::Vector3 const &amp;p, LocationInfo &amp;info, float &amp;liqHeight) const</div><div class="ttdef"><b>Definition:</b> ModelInstance.cpp:110</div></div>
+<div class="ttc" id="aa05467_html_a18a06e1abd1bd1631252d984fc6523bf"><div class="ttname"><a href="../../db/d89/a05467.html#a18a06e1abd1bd1631252d984fc6523bf">VMAP::GroupModel::GetLiquidType</a></div><div class="ttdeci">uint32 GetLiquidType() const</div><div class="ttdef"><b>Definition:</b> WorldModel.cpp:505</div></div>
+<div class="ttc" id="aa05467_html_a3a9097772a45d937f95bd2388fca9832"><div class="ttname"><a href="../../db/d89/a05467.html#a3a9097772a45d937f95bd2388fca9832">VMAP::GroupModel::GetMogpFlags</a></div><div class="ttdeci">uint32 GetMogpFlags() const</div><div class="ttdef"><b>Definition:</b> WorldModel.h:93</div></div>
+<div class="ttc" id="aa05467_html_a688249a2be14b24567ec46628c9f54b3"><div class="ttname"><a href="../../db/d89/a05467.html#a688249a2be14b24567ec46628c9f54b3">VMAP::GroupModel::GetWmoID</a></div><div class="ttdeci">uint32 GetWmoID() const</div><div class="ttdef"><b>Definition:</b> WorldModel.h:94</div></div>
+<div class="ttc" id="aa08351_html_a38b182e1836b2197303b2809006f5148"><div class="ttname"><a href="../../df/d8c/a08351.html#a38b182e1836b2197303b2809006f5148">DisableMgr::IsVMAPDisabledFor</a></div><div class="ttdeci">static bool IsVMAPDisabledFor(uint32 entry, uint8 flags)</div><div class="ttdef"><b>Definition:</b> DisableMgr.cpp:440</div></div>
+<div class="ttc" id="aa10335_html_a4d73d970aa85dbbd9c70633addcdaf13"><div class="ttname"><a href="../../d0/d80/a10335.html#a4d73d970aa85dbbd9c70633addcdaf13">StaticVMapCollisionData::_staticTree</a></div><div class="ttdeci">std::shared_ptr&lt; VMAP::StaticMapTree &gt; _staticTree</div><div class="ttdef"><b>Definition:</b> MapCollisionData.h:47</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00048">_mapId</a>, <a class="el" href="../../#l00047">_staticTree</a>, <a class="el" href="../../#l00047">VMAP::ModelSpawn::adtId</a>, <a class="el" href="../../#l00077">VMAP::AreaAndLiquidData::areaInfo</a>, <a class="el" href="../../#l00041">VMAP::VMapMgr2::convertPositionToInternalRep()</a>, <a class="el" href="../../#l00076">VMAP::AreaAndLiquidData::floorZ</a>, <a class="el" href="../../#l00846">GetLiquidFlags()</a>, <a class="el" href="../../#l00110">VMAP::ModelInstance::GetLiquidLevel()</a>, <a class="el" href="../../#l00505">VMAP::GroupModel::GetLiquidType()</a>, <a class="el" href="../../#l00093">VMAP::GroupModel::GetMogpFlags()</a>, <a class="el" href="../../#l00094">VMAP::GroupModel::GetWmoID()</a>, <a class="el" href="../../#l00044">VMAP::LocationInfo::ground_Z</a>, <a class="el" href="../../#l00042">VMAP::LocationInfo::hitInstance</a>, <a class="el" href="../../#l00043">VMAP::LocationInfo::hitModel</a>, <a class="el" href="../../#l00048">VMAP::ModelSpawn::ID</a>, <a class="el" href="../../#l00440">DisableMgr::IsVMAPDisabledFor()</a>, <a class="el" href="../../#l00078">VMAP::AreaAndLiquidData::liquidInfo</a>, <a class="el" href="../../#l00045">VMAP::LocationInfo::rootId</a>, <a class="el" href="../../#l00048">VMAP::VMAP_DISABLE_AREAFLAG</a>, and <a class="el" href="../../#l00051">VMAP::VMAP_DISABLE_LIQUIDSTATUS</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l01243">Map::GetAreaInfo()</a>, <a class="el" href="../../#l01419">Map::GetFullTerrainStatusForPosition()</a>, and <a class="el" href="../../#l01336">Map::GetLiquidData()</a>.</p>
+
+</div>
+</div>
+<a id="ad5b245ec62bf370a479c8fdb0eec1f40" name="ad5b245ec62bf370a479c8fdb0eec1f40"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad5b245ec62bf370a479c8fdb0eec1f40">&#9670;&#160;</a></span>getHeight()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float StaticVMapCollisionData::getHeight </td>
+          <td>(</td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>x</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>y</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>z</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>maxSearchDist</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  117</span>{</div>
+<div class="line"><span class="lineno">  118</span><span class="preprocessor">#if defined(ENABLE_VMAP_CHECKS)</span></div>
+<div class="line"><span class="lineno">  119</span>    <span class="keywordflow">if</span> (<a class="code hl_define" href="../../d1/dbd/a05113.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getBoolConfig(<a class="code hl_enumvalue" href="../../d4/d27/a00392.html#a468ad15992691eb97dd20680046832e0a2eb324b6d6b3c89ef97d72117c25e186">CONFIG_VMAP_ENABLE_HEIGHT</a>) &amp;&amp; !<a class="code hl_function" href="../../df/d8c/a08351.html#a38b182e1836b2197303b2809006f5148">DisableMgr::IsVMAPDisabledFor</a>(<a class="code hl_variable" href="../../d0/d80/a10335.html#a9ea6ece2bfd70cb74cbd4f6a9060e5eb">_mapId</a>, <a class="code hl_enumvalue" href="../../d9/d0b/a05125.html#ae6fa86a61cff3bac928739b18ffb8c1ba2f9e18e9b167ecc25202f607e29af926">VMAP::VMAP_DISABLE_HEIGHT</a>))</div>
+<div class="line"><span class="lineno">  120</span><span class="preprocessor">#endif</span></div>
+<div class="line"><span class="lineno">  121</span>    {</div>
+<div class="line"><span class="lineno">  122</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d0/d80/a10335.html#a4d73d970aa85dbbd9c70633addcdaf13">_staticTree</a>)</div>
+<div class="line"><span class="lineno">  123</span>        {</div>
+<div class="line"><span class="lineno">  124</span>            G3D::Vector3 <span class="keyword">const</span> pos = <a class="code hl_function" href="../../df/d5e/a05351.html#ade8ab3f66eb603aae40a80fab7c52e67">VMAP::VMapMgr2::convertPositionToInternalRep</a>(x, y, z);</div>
+<div class="line"><span class="lineno">  125</span>            <span class="keywordtype">float</span> height = <a class="code hl_variable" href="../../d0/d80/a10335.html#a4d73d970aa85dbbd9c70633addcdaf13">_staticTree</a>-&gt;getHeight(pos, maxSearchDist);</div>
+<div class="line"><span class="lineno">  126</span>            <span class="keywordflow">if</span> (height &gt;= G3D::finf())</div>
+<div class="line"><span class="lineno">  127</span>                <span class="keywordflow">return</span> <a class="code hl_define" href="../../df/dc6/a04793.html#a6d0d846568e1fbb60e05aacfa9c1c73c">VMAP_INVALID_HEIGHT_VALUE</a>; <span class="comment">// No height</span></div>
+<div class="line"><span class="lineno">  128</span> </div>
+<div class="line"><span class="lineno">  129</span>            <span class="keywordflow">return</span> height;</div>
+<div class="line"><span class="lineno">  130</span>        }</div>
+<div class="line"><span class="lineno">  131</span>    }</div>
+<div class="line"><span class="lineno">  132</span> </div>
+<div class="line"><span class="lineno">  133</span>    <span class="keywordflow">return</span> <a class="code hl_define" href="../../df/dc6/a04793.html#a6d0d846568e1fbb60e05aacfa9c1c73c">VMAP_INVALID_HEIGHT_VALUE</a>;</div>
+<div class="line"><span class="lineno">  134</span>}</div>
+<div class="ttc" id="aa00392_html_a468ad15992691eb97dd20680046832e0a2eb324b6d6b3c89ef97d72117c25e186"><div class="ttname"><a href="../../d4/d27/a00392.html#a468ad15992691eb97dd20680046832e0a2eb324b6d6b3c89ef97d72117c25e186">CONFIG_VMAP_ENABLE_HEIGHT</a></div><div class="ttdeci">@ CONFIG_VMAP_ENABLE_HEIGHT</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:83</div></div>
+<div class="ttc" id="aa04793_html_a6d0d846568e1fbb60e05aacfa9c1c73c"><div class="ttname"><a href="../../df/dc6/a04793.html#a6d0d846568e1fbb60e05aacfa9c1c73c">VMAP_INVALID_HEIGHT_VALUE</a></div><div class="ttdeci">#define VMAP_INVALID_HEIGHT_VALUE</div><div class="ttdef"><b>Definition:</b> IVMapMgr.h:51</div></div>
+<div class="ttc" id="aa05113_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../d1/dbd/a05113.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition:</b> World.h:318</div></div>
+<div class="ttc" id="aa05125_html_ae6fa86a61cff3bac928739b18ffb8c1ba2f9e18e9b167ecc25202f607e29af926"><div class="ttname"><a href="../../d9/d0b/a05125.html#ae6fa86a61cff3bac928739b18ffb8c1ba2f9e18e9b167ecc25202f607e29af926">VMAP::VMAP_DISABLE_HEIGHT</a></div><div class="ttdeci">@ VMAP_DISABLE_HEIGHT</div><div class="ttdef"><b>Definition:</b> VMapMgr2.h:49</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00048">_mapId</a>, <a class="el" href="../../#l00047">_staticTree</a>, <a class="el" href="../../#l00083">CONFIG_VMAP_ENABLE_HEIGHT</a>, <a class="el" href="../../#l00041">VMAP::VMapMgr2::convertPositionToInternalRep()</a>, <a class="el" href="../../#l00440">DisableMgr::IsVMAPDisabledFor()</a>, <a class="el" href="../../#l00318">sWorld</a>, <a class="el" href="../../#l00049">VMAP::VMAP_DISABLE_HEIGHT</a>, and <a class="el" href="../../#l00051">VMAP_INVALID_HEIGHT_VALUE</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l01188">Map::GetHeight()</a>.</p>
+
+</div>
+</div>
+<a id="aacf3e526a4e52c8515b3a8004e6b0a1a" name="aacf3e526a4e52c8515b3a8004e6b0a1a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aacf3e526a4e52c8515b3a8004e6b0a1a">&#9670;&#160;</a></span>GetObjectHitPos()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool StaticVMapCollisionData::GetObjectHitPos </td>
+          <td>(</td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>x1</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>y1</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>z1</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>x2</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>y2</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>z2</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float &amp;&#160;</td>
+          <td class="paramname"><em>rx</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float &amp;&#160;</td>
+          <td class="paramname"><em>ry</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float &amp;&#160;</td>
+          <td class="paramname"><em>rz</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>modifyDist</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   90</span>{</div>
+<div class="line"><span class="lineno">   91</span><span class="preprocessor">#if defined(ENABLE_VMAP_CHECKS)</span></div>
+<div class="line"><span class="lineno">   92</span>    <span class="keywordflow">if</span> (<a class="code hl_define" href="../../d1/dbd/a05113.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getBoolConfig(<a class="code hl_enumvalue" href="../../d4/d27/a00392.html#a468ad15992691eb97dd20680046832e0a199d3fc5f2280cea07467eec6d894f02">CONFIG_VMAP_ENABLE_LOS</a>) &amp;&amp; !<a class="code hl_function" href="../../df/d8c/a08351.html#a38b182e1836b2197303b2809006f5148">DisableMgr::IsVMAPDisabledFor</a>(<a class="code hl_variable" href="../../d0/d80/a10335.html#a9ea6ece2bfd70cb74cbd4f6a9060e5eb">_mapId</a>, <a class="code hl_enumvalue" href="../../d9/d0b/a05125.html#ae6fa86a61cff3bac928739b18ffb8c1ba26f8933b26a6ce62d8bddafde8ebb108">VMAP::VMAP_DISABLE_LOS</a>))</div>
+<div class="line"><span class="lineno">   93</span><span class="preprocessor">#endif</span></div>
+<div class="line"><span class="lineno">   94</span>    {</div>
+<div class="line"><span class="lineno">   95</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d0/d80/a10335.html#a4d73d970aa85dbbd9c70633addcdaf13">_staticTree</a>)</div>
+<div class="line"><span class="lineno">   96</span>        {</div>
+<div class="line"><span class="lineno">   97</span>            G3D::Vector3 <span class="keyword">const</span> pos1 = <a class="code hl_function" href="../../df/d5e/a05351.html#ade8ab3f66eb603aae40a80fab7c52e67">VMAP::VMapMgr2::convertPositionToInternalRep</a>(x1, y1, z1);</div>
+<div class="line"><span class="lineno">   98</span>            G3D::Vector3 <span class="keyword">const</span> pos2 = <a class="code hl_function" href="../../df/d5e/a05351.html#ade8ab3f66eb603aae40a80fab7c52e67">VMAP::VMapMgr2::convertPositionToInternalRep</a>(x2, y2, z2);</div>
+<div class="line"><span class="lineno">   99</span>            G3D::Vector3 resultPos;</div>
+<div class="line"><span class="lineno">  100</span>            <span class="keywordtype">bool</span> result = <a class="code hl_variable" href="../../d0/d80/a10335.html#a4d73d970aa85dbbd9c70633addcdaf13">_staticTree</a>-&gt;GetObjectHitPos(pos1, pos2, resultPos, modifyDist);</div>
+<div class="line"><span class="lineno">  101</span>            resultPos = <a class="code hl_function" href="../../df/d5e/a05351.html#ade8ab3f66eb603aae40a80fab7c52e67">VMAP::VMapMgr2::convertPositionToInternalRep</a>(resultPos.x, resultPos.y, resultPos.z);</div>
+<div class="line"><span class="lineno">  102</span>            rx = resultPos.x;</div>
+<div class="line"><span class="lineno">  103</span>            ry = resultPos.y;</div>
+<div class="line"><span class="lineno">  104</span>            rz = resultPos.z;</div>
+<div class="line"><span class="lineno">  105</span>            <span class="keywordflow">return</span> result;</div>
+<div class="line"><span class="lineno">  106</span>        }</div>
+<div class="line"><span class="lineno">  107</span>    }</div>
+<div class="line"><span class="lineno">  108</span> </div>
+<div class="line"><span class="lineno">  109</span>    rx = x2;</div>
+<div class="line"><span class="lineno">  110</span>    ry = y2;</div>
+<div class="line"><span class="lineno">  111</span>    rz = z2;</div>
+<div class="line"><span class="lineno">  112</span> </div>
+<div class="line"><span class="lineno">  113</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  114</span>}</div>
+<div class="ttc" id="aa00392_html_a468ad15992691eb97dd20680046832e0a199d3fc5f2280cea07467eec6d894f02"><div class="ttname"><a href="../../d4/d27/a00392.html#a468ad15992691eb97dd20680046832e0a199d3fc5f2280cea07467eec6d894f02">CONFIG_VMAP_ENABLE_LOS</a></div><div class="ttdeci">@ CONFIG_VMAP_ENABLE_LOS</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:82</div></div>
+<div class="ttc" id="aa05125_html_ae6fa86a61cff3bac928739b18ffb8c1ba26f8933b26a6ce62d8bddafde8ebb108"><div class="ttname"><a href="../../d9/d0b/a05125.html#ae6fa86a61cff3bac928739b18ffb8c1ba26f8933b26a6ce62d8bddafde8ebb108">VMAP::VMAP_DISABLE_LOS</a></div><div class="ttdeci">@ VMAP_DISABLE_LOS</div><div class="ttdef"><b>Definition:</b> VMapMgr2.h:50</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00048">_mapId</a>, <a class="el" href="../../#l00047">_staticTree</a>, <a class="el" href="../../#l00082">CONFIG_VMAP_ENABLE_LOS</a>, <a class="el" href="../../#l00041">VMAP::VMapMgr2::convertPositionToInternalRep()</a>, <a class="el" href="../../#l00440">DisableMgr::IsVMAPDisabledFor()</a>, <a class="el" href="../../#l00318">sWorld</a>, and <a class="el" href="../../#l00050">VMAP::VMAP_DISABLE_LOS</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l03443">Map::CheckCollisionAndGetValidCoords()</a>, <a class="el" href="../../#l00430">spell_entropius_black_hole_effect::RaycastToObstacle()</a>, and <a class="el" href="../../#l01431">Spell::SelectImplicitCasterDestTargets()</a>.</p>
+
+</div>
+</div>
+<a id="a79f47e4eafe0db4e449ec202ad3ef580" name="a79f47e4eafe0db4e449ec202ad3ef580"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a79f47e4eafe0db4e449ec202ad3ef580">&#9670;&#160;</a></span>isInLineOfSight()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool StaticVMapCollisionData::isInLineOfSight </td>
+          <td>(</td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>x1</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>y1</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>z1</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>x2</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>y2</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>z2</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d9/d0b/a05125.html#a6996c44f3ac72cd9dc04515186d2da28">VMAP::ModelIgnoreFlags</a>&#160;</td>
+          <td class="paramname"><em>ignoreFlags</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   72</span>{</div>
+<div class="line"><span class="lineno">   73</span><span class="preprocessor">#if defined(ENABLE_VMAP_CHECKS)</span></div>
+<div class="line"><span class="lineno">   74</span>    <span class="keywordflow">if</span> (!<a class="code hl_define" href="../../d1/dbd/a05113.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getBoolConfig(<a class="code hl_enumvalue" href="../../d4/d27/a00392.html#a468ad15992691eb97dd20680046832e0a199d3fc5f2280cea07467eec6d894f02">CONFIG_VMAP_ENABLE_LOS</a>) || <a class="code hl_function" href="../../df/d8c/a08351.html#a38b182e1836b2197303b2809006f5148">DisableMgr::IsVMAPDisabledFor</a>(<a class="code hl_variable" href="../../d0/d80/a10335.html#a9ea6ece2bfd70cb74cbd4f6a9060e5eb">_mapId</a>, <a class="code hl_enumvalue" href="../../d9/d0b/a05125.html#ae6fa86a61cff3bac928739b18ffb8c1ba26f8933b26a6ce62d8bddafde8ebb108">VMAP::VMAP_DISABLE_LOS</a>))</div>
+<div class="line"><span class="lineno">   75</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   76</span><span class="preprocessor">#endif</span></div>
+<div class="line"><span class="lineno">   77</span> </div>
+<div class="line"><span class="lineno">   78</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d0/d80/a10335.html#a4d73d970aa85dbbd9c70633addcdaf13">_staticTree</a>)</div>
+<div class="line"><span class="lineno">   79</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   80</span> </div>
+<div class="line"><span class="lineno">   81</span>    G3D::Vector3 <span class="keyword">const</span> pos1 = <a class="code hl_function" href="../../df/d5e/a05351.html#ade8ab3f66eb603aae40a80fab7c52e67">VMAP::VMapMgr2::convertPositionToInternalRep</a>(x1, y1, z1);</div>
+<div class="line"><span class="lineno">   82</span>    G3D::Vector3 <span class="keyword">const</span> pos2 = <a class="code hl_function" href="../../df/d5e/a05351.html#ade8ab3f66eb603aae40a80fab7c52e67">VMAP::VMapMgr2::convertPositionToInternalRep</a>(x2, y2, z2);</div>
+<div class="line"><span class="lineno">   83</span>    <span class="keywordflow">if</span> (pos1 != pos2)</div>
+<div class="line"><span class="lineno">   84</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d0/d80/a10335.html#a4d73d970aa85dbbd9c70633addcdaf13">_staticTree</a>-&gt;isInLineOfSight(pos1, pos2, ignoreFlags);</div>
+<div class="line"><span class="lineno">   85</span> </div>
+<div class="line"><span class="lineno">   86</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   87</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00048">_mapId</a>, <a class="el" href="../../#l00047">_staticTree</a>, <a class="el" href="../../#l00082">CONFIG_VMAP_ENABLE_LOS</a>, <a class="el" href="../../#l00041">VMAP::VMapMgr2::convertPositionToInternalRep()</a>, <a class="el" href="../../#l00440">DisableMgr::IsVMAPDisabledFor()</a>, <a class="el" href="../../#l00318">sWorld</a>, and <a class="el" href="../../#l00050">VMAP::VMAP_DISABLE_LOS</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l01567">Map::isInLineOfSight()</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Friends And Related Function Documentation</h2>
+<a id="a472038a89678719bf8868ab0c75e394f" name="a472038a89678719bf8868ab0c75e394f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a472038a89678719bf8868ab0c75e394f">&#9670;&#160;</a></span>MapCollisionData</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -212,265 +529,64 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool KeyFrame::IsStopFrame </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
+          <td class="memname">friend class <a class="el" href="../../d2/dc1/a10347.html">MapCollisionData</a></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   67</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d0/d80/a10335.html#ac628c537d5854ddf54d516eaf4471d7f">Node</a>-&gt;<a class="code hl_variable" href="../../da/ded/a29483.html#a6257ae486eff937cf12be64f0e850ca6">actionFlag</a> == 2; }</div>
-<div class="ttc" id="aa29483_html_a6257ae486eff937cf12be64f0e850ca6"><div class="ttname"><a href="../../da/ded/a29483.html#a6257ae486eff937cf12be64f0e850ca6">TaxiPathNodeEntry::actionFlag</a></div><div class="ttdeci">uint32 actionFlag</div><div class="ttdef"><b>Definition:</b> DBCStructure.h:1981</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01981">TaxiPathNodeEntry::actionFlag</a>, and <a class="el" href="../../#l00050">Node</a>.</p>
-
-</div>
-</div>
-<a id="a4197d8450563a6abd2826be37a2d0c0e" name="a4197d8450563a6abd2826be37a2d0c0e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4197d8450563a6abd2826be37a2d0c0e">&#9670;&#160;</a></span>IsTeleportFrame()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool KeyFrame::IsTeleportFrame </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   66</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d0/d80/a10335.html#ad57abe67a7e4771a35621b4204bfe347">Teleport</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00057">Teleport</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="afc5d26078e42a2170d43c864542f676f" name="afc5d26078e42a2170d43c864542f676f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afc5d26078e42a2170d43c864542f676f">&#9670;&#160;</a></span>ArriveTime</h2>
+<a id="a9ea6ece2bfd70cb74cbd4f6a9060e5eb" name="a9ea6ece2bfd70cb74cbd4f6a9060e5eb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9ea6ece2bfd70cb74cbd4f6a9060e5eb">&#9670;&#160;</a></span>_mapId</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> KeyFrame::ArriveTime</td>
+          <td class="memname"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> StaticVMapCollisionData::_mapId</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00136">GetAreaAndLiquidData()</a>, <a class="el" href="../../#l00116">getHeight()</a>, <a class="el" href="../../#l00089">GetObjectHitPos()</a>, and <a class="el" href="../../#l00071">isInLineOfSight()</a>.</p>
 
 </div>
 </div>
-<a id="ac243e42c49063db26557d96b5fdf8a8f" name="ac243e42c49063db26557d96b5fdf8a8f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac243e42c49063db26557d96b5fdf8a8f">&#9670;&#160;</a></span>DepartureTime</h2>
+<a id="a4d73d970aa85dbbd9c70633addcdaf13" name="a4d73d970aa85dbbd9c70633addcdaf13"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4d73d970aa85dbbd9c70633addcdaf13">&#9670;&#160;</a></span>_staticTree</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> KeyFrame::DepartureTime</td>
+          <td class="memname">std::shared_ptr&lt;<a class="el" href="../../db/d18/a05383.html">VMAP::StaticMapTree</a>&gt; StaticVMapCollisionData::_staticTree</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00581">MotionTransport::CalculateSegmentPos()</a>.</p>
-
-</div>
-</div>
-<a id="a4271d37fac21d8c41758fc5edbf793e2" name="a4271d37fac21d8c41758fc5edbf793e2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4271d37fac21d8c41758fc5edbf793e2">&#9670;&#160;</a></span>DistFromPrev</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">float KeyFrame::DistFromPrev</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a60502cefa4387ffd815ba88530123ac6" name="a60502cefa4387ffd815ba88530123ac6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a60502cefa4387ffd815ba88530123ac6">&#9670;&#160;</a></span>DistSinceStop</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">float KeyFrame::DistSinceStop</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00581">MotionTransport::CalculateSegmentPos()</a>.</p>
-
-</div>
-</div>
-<a id="a03f76647aa0c383bcd4b26ae93abe465" name="a03f76647aa0c383bcd4b26ae93abe465"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a03f76647aa0c383bcd4b26ae93abe465">&#9670;&#160;</a></span>DistUntilStop</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">float KeyFrame::DistUntilStop</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00581">MotionTransport::CalculateSegmentPos()</a>.</p>
-
-</div>
-</div>
-<a id="a1176b2e4067a4e330db280514ca66d43" name="a1176b2e4067a4e330db280514ca66d43"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1176b2e4067a4e330db280514ca66d43">&#9670;&#160;</a></span>Index</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> KeyFrame::Index</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a9af26b07943f22473526463f7a0f7c6b" name="a9af26b07943f22473526463f7a0f7c6b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9af26b07943f22473526463f7a0f7c6b">&#9670;&#160;</a></span>InitialOrientation</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">float KeyFrame::InitialOrientation</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00118">TransportMgr::GeneratePath()</a>.</p>
-
-</div>
-</div>
-<a id="a51fb15713126d4890bfe99dc00e421f7" name="a51fb15713126d4890bfe99dc00e421f7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a51fb15713126d4890bfe99dc00e421f7">&#9670;&#160;</a></span>NextArriveTime</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> KeyFrame::NextArriveTime</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a23823648385abc72ffd8372468b98915" name="a23823648385abc72ffd8372468b98915"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a23823648385abc72ffd8372468b98915">&#9670;&#160;</a></span>NextDistFromPrev</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">float KeyFrame::NextDistFromPrev</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00581">MotionTransport::CalculateSegmentPos()</a>.</p>
-
-</div>
-</div>
-<a id="ac628c537d5854ddf54d516eaf4471d7f" name="ac628c537d5854ddf54d516eaf4471d7f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac628c537d5854ddf54d516eaf4471d7f">&#9670;&#160;</a></span>Node</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../da/ded/a29483.html">TaxiPathNodeEntry</a> const* KeyFrame::Node</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00777">MotionTransport::DoEventIfAny()</a>, <a class="el" href="../../#l00118">TransportMgr::GeneratePath()</a>, and <a class="el" href="../../#l00067">IsStopFrame()</a>.</p>
-
-</div>
-</div>
-<a id="aee298cdd32a7593baf6ad00234120781" name="aee298cdd32a7593baf6ad00234120781"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aee298cdd32a7593baf6ad00234120781">&#9670;&#160;</a></span>Spline</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d7/d59/a01013.html#a05990a03a3ab902d6d79e9f33385b605">TransportSpline</a>* KeyFrame::Spline</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ad57abe67a7e4771a35621b4204bfe347" name="ad57abe67a7e4771a35621b4204bfe347"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad57abe67a7e4771a35621b4204bfe347">&#9670;&#160;</a></span>Teleport</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool KeyFrame::Teleport</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00066">IsTeleportFrame()</a>.</p>
-
-</div>
-</div>
-<a id="ae12ac1910a4aa13557e69bd5e066214b" name="ae12ac1910a4aa13557e69bd5e066214b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae12ac1910a4aa13557e69bd5e066214b">&#9670;&#160;</a></span>TimeFrom</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">float KeyFrame::TimeFrom</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00581">MotionTransport::CalculateSegmentPos()</a>.</p>
-
-</div>
-</div>
-<a id="ae4e0c37d26edb99017bf0042b3e0bad4" name="ae4e0c37d26edb99017bf0042b3e0bad4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae4e0c37d26edb99017bf0042b3e0bad4">&#9670;&#160;</a></span>TimeTo</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">float KeyFrame::TimeTo</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00581">MotionTransport::CalculateSegmentPos()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00136">GetAreaAndLiquidData()</a>, <a class="el" href="../../#l00116">getHeight()</a>, <a class="el" href="../../#l00089">GetObjectHitPos()</a>, <a class="el" href="../../#l00089">MapCollisionData::GetStaticTreeSharedPtr()</a>, <a class="el" href="../../#l00071">isInLineOfSight()</a>, <a class="el" href="../../#l00052">MapCollisionData::LoadVMapTile()</a>, and <a class="el" href="../../#l00031">MapCollisionData::MapCollisionData()</a>.</p>
 
 </div>
 </div>
@@ -479,8 +595,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d0/d80/a10335.html">KeyFrame</a></li>
-    <li class="footer">Generated on Tue Sep 1 2026 00:09:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d0/d80/a10335.html">StaticVMapCollisionData</a></li>
+    <li class="footer">Generated on Mon Sep 21 2026 23:34:52 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

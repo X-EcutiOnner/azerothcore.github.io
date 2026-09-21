@@ -1,8 +1,6 @@
 var a21331 =
 [
-    [ "FilterTargets", "db/d3c/a21331.html#a6f3d275e5ff06a6fc37f143d6394bf45", null ],
-    [ "HandleScript", "db/d3c/a21331.html#aa97e0b2f4a8e33d412501f6625ab1504", null ],
-    [ "PrepareSpellScript", "db/d3c/a21331.html#a0db5183ec1aa7f490202ac41cd00b153", null ],
-    [ "Register", "db/d3c/a21331.html#acd4b270dbe27be417892e0a4183ffa0d", null ],
-    [ "Validate", "db/d3c/a21331.html#abb3ca41a50087763d731d1f911065e14", null ]
+    [ "instance_utgarde_keep_InstanceMapScript", "d3/d72/a21335.html", "d3/d72/a21335" ],
+    [ "instance_utgarde_keep", "db/d3c/a21331.html#abe013e4f086f63722a6398b2b7928c80", null ],
+    [ "GetInstanceScript", "db/d3c/a21331.html#a9a42e0dde1c7598eb2ef665f11e25e92", null ]
 ];

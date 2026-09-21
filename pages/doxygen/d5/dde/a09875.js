@@ -1,7 +1,9 @@
 var a09875 =
 [
-    [ "PlayerAtMinimumRangeAway", "d5/dde/a09875.html#a12eb5ff486232f88c7303741ebd8e65e", null ],
-    [ "operator()", "d5/dde/a09875.html#a1cfda97a0590e033f9b6043c8de2d0a0", null ],
-    [ "fRange", "d5/dde/a09875.html#a0c58929de429694f24877525287f15a6", null ],
-    [ "unit", "d5/dde/a09875.html#a4ea0f83c3287079cff40fac15272fa94", null ]
+    [ "NearestHostileUnitCheck", "d5/dde/a09875.html#aa1d706a1eb1de6168b568e70008e2d3b", null ],
+    [ "NearestHostileUnitCheck", "d5/dde/a09875.html#a2fe620370289850eb0362823de2072d1", null ],
+    [ "operator()", "d5/dde/a09875.html#a04c85a77d660bbc74279d1062dabc375", null ],
+    [ "i_playerOnly", "d5/dde/a09875.html#a64c5fce466521a6d6d78eeda0708d65e", null ],
+    [ "m_range", "d5/dde/a09875.html#a801d56a180e196943cfc2cefb6c5dda5", null ],
+    [ "me", "d5/dde/a09875.html#a67cef25e6f725ea42f0377df34d48495", null ]
 ];

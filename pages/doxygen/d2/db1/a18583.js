@@ -1,8 +1,7 @@
 var a18583 =
 [
-    [ "FilterTargets", "d2/db1/a18583.html#a14e392760361b95578bc95de10cdd8aa", null ],
-    [ "HandleForcedCast", "d2/db1/a18583.html#afbf6d0ee66d192a81ed12f2e28e195f1", null ],
-    [ "PrepareSpellScript", "d2/db1/a18583.html#a8bb53a933c5a2ec33966c6acd1a6da65", null ],
-    [ "Register", "d2/db1/a18583.html#ac2105e66f692c6a991ac9190b1901505", null ],
-    [ "Validate", "d2/db1/a18583.html#a1746786ad6daaac11aefd32e00c8d1ea", null ]
+    [ "HandleScript", "d2/db1/a18583.html#a5fbb1d26c4e7d5d21745004e477b3c1e", null ],
+    [ "PrepareSpellScript", "d2/db1/a18583.html#a7e6b56f426be7925255da3ebc239f909", null ],
+    [ "Register", "d2/db1/a18583.html#a0eb2d734ac99d3a036b95b6daa39b9f5", null ],
+    [ "Validate", "d2/db1/a18583.html#a86b4296eab73fc63b38558871f16a889", null ]
 ];

@@ -1,7 +1,6 @@
 var a26383 =
 [
-    [ "AfterRemove", "d7/dbd/a26383.html#a554e2ab9dfd9d157eee13b7a5c33cf2e", null ],
-    [ "PrepareAuraScript", "d7/dbd/a26383.html#a13f11ec412f18d805282b3810aff5e90", null ],
-    [ "Register", "d7/dbd/a26383.html#ac9a6a96da8387d3c51fece7f0a968779", null ],
-    [ "Validate", "d7/dbd/a26383.html#a2863c81b02f0b08430d9e713e7b644f7", null ]
+    [ "OnPeriodic", "d7/dbd/a26383.html#a3368e8fad4a5ecd242056da38ad8f23a", null ],
+    [ "PrepareAuraScript", "d7/dbd/a26383.html#ad3d091510685ebc2d87aadb658cacf58", null ],
+    [ "Register", "d7/dbd/a26383.html#a9552ba0f4c18623b6b00ababa034942c", null ]
 ];

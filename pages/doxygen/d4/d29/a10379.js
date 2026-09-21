@@ -1,10 +1,7 @@
 var a10379 =
 [
-    [ "CreateWorldPacket", "d4/d29/a10379.html#a0acc39f8c58f6446a337e2d33f15731a", null ],
-    [ "GetMotd", "d4/d29/a10379.html#ab589dd8bfad950e02ee716ea9005253f", null ],
-    [ "GetMotdPacket", "d4/d29/a10379.html#a1eb1b16519bafaffe3b48b9835aab11e", null ],
-    [ "instance", "d4/d29/a10379.html#a0eac0994f742f9a5cbd912abc308d1a7", null ],
-    [ "LoadMotd", "d4/d29/a10379.html#a1a6ce19decdaf6cd778cf331bdc0c1ef", null ],
-    [ "LoadMotdLocale", "d4/d29/a10379.html#a21aa89787d5b0bbf69158f799122edd5", null ],
-    [ "SetMotd", "d4/d29/a10379.html#a7e317c2855b4ff96c2796081988bdf4f", null ]
+    [ "LFGUpdateRequest", "d4/d29/a10379.html#a85900fc44d5dfb5595fbe7dc3422dfaa", null ],
+    [ "call", "d4/d29/a10379.html#a15258001db5870a0f52bb0c72cba3587", null ],
+    [ "m_diff", "d4/d29/a10379.html#a27e818e5d985ac91be6eca14a1ebd73f", null ],
+    [ "m_updater", "d4/d29/a10379.html#a1bb4423241495aebab83ebc1acf66510", null ]
 ];

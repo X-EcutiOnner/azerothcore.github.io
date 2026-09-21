@@ -1,13 +1,11 @@
 var a10907 =
 [
-    [ "ScriptObject", "d9/d6d/a10907.html#a494e983ccabd1d2311fe3afe0c2afbe5", null ],
-    [ "~ScriptObject", "d9/d6d/a10907.html#a80c704c939f54eee6655d68509598c42", null ],
-    [ "checkValidity", "d9/d6d/a10907.html#a585e75e34aed7aa32205daad85f8fe08", null ],
-    [ "GetName", "d9/d6d/a10907.html#a3f66eb7597f020167b7d75202d28b83a", null ],
-    [ "GetTotalAvailableHooks", "d9/d6d/a10907.html#a69ee35ec7d54226264efef558022c1c0", null ],
-    [ "isAfterLoadScript", "d9/d6d/a10907.html#a2f66339b1cdf1fde795c61cd24c8b0a2", null ],
-    [ "IsDatabaseBound", "d9/d6d/a10907.html#a37da453729d5c8fbe2d06f905563f47c", null ],
-    [ "ScriptMgr", "d9/d6d/a10907.html#a7a753f61d57353451e90f3f23fec4851", null ],
-    [ "_name", "d9/d6d/a10907.html#a90b63e382cac17922ae57fe22b84718c", null ],
-    [ "_totalAvailableHooks", "d9/d6d/a10907.html#ab9ecac7620b4319c634d7e5f30c30f49", null ]
+    [ "PetScript", "d9/d6d/a10907.html#a8acfb58efba8975dbfdfd36e34dd667e", null ],
+    [ "CanResetTalents", "d9/d6d/a10907.html#ab4e5e0b19285573753ef6e9b7e8fd535", null ],
+    [ "CanUnlearnSpellDefault", "d9/d6d/a10907.html#af150efd719bbb619df792ebc6705bb0a", null ],
+    [ "CanUnlearnSpellSet", "d9/d6d/a10907.html#a84cba94813ffa26e1a245b814feb0349", null ],
+    [ "IsDatabaseBound", "d9/d6d/a10907.html#a16fae7cdf068c6e3d9e46882548d4c20", null ],
+    [ "OnCalculateMaxTalentPointsForLevel", "d9/d6d/a10907.html#a1263b06233902fbede9fc5df80cc8ad4", null ],
+    [ "OnInitStatsForLevel", "d9/d6d/a10907.html#a65a33c4f374f2e9739680ad172118c26", null ],
+    [ "OnPetAddToWorld", "d9/d6d/a10907.html#a3012323c5c1424512b611b6956a32554", null ]
 ];

@@ -1,17 +1,13 @@
 var a22667 =
 [
-    [ "OPvPCapturePointZM_Graveyard", "d4/d28/a22667.html#a78fe433ee7f86e42d9b9c24d4c47f870", null ],
-    [ "CanTalkTo", "d4/d28/a22667.html#ae16e1448e5c21daea0a56ede78b3174a", null ],
-    [ "ChangeState", "d4/d28/a22667.html#a6a066c902c6e8ac58950037e6c4934b6", null ],
-    [ "FillInitialWorldStates", "d4/d28/a22667.html#a8aea9e4a005f5c88e2c71cfd46d10058", null ],
-    [ "GetGraveyardState", "d4/d28/a22667.html#ac10fc817ba6d3c68310a6b0d68e52342", null ],
-    [ "HandleDropFlag", "d4/d28/a22667.html#a87fb109fcc88099406d9f189333aef7c", null ],
-    [ "HandleGossipOption", "d4/d28/a22667.html#a132a6beb8a265dc614763a5f8e510173", null ],
-    [ "HandleOpenGo", "d4/d28/a22667.html#abef3d9dfff4688e0c5a87cd7b2a847c4", null ],
-    [ "SetBeaconState", "d4/d28/a22667.html#a7d7fc3041c753918c6e13e49a691674a", null ],
-    [ "Update", "d4/d28/a22667.html#a19d09f296598b83079eb2545b3d2caff", null ],
-    [ "UpdateTowerState", "d4/d28/a22667.html#ae907325621c0c0a40fc1e7761b81e832", null ],
-    [ "m_BothControllingFactionId", "d4/d28/a22667.html#ad501fe77b1d678cb593be6a0a8afd0a8", null ],
-    [ "m_FlagCarrierGUID", "d4/d28/a22667.html#acb0c4738c28d48f2f0ccec090e4b96d4", null ],
-    [ "m_GraveyardState", "d4/d28/a22667.html#a20e5b236d87c0942d15a60d2eba1af83", null ]
+    [ "OPvPCapturePointEP_NPT", "d4/d28/a22667.html#a2cb0929c3acb81530a0bd7ea57bcc298", null ],
+    [ "ChangeState", "d4/d28/a22667.html#a9e046ace6129ce67568ed7c15130b617", null ],
+    [ "FillInitialWorldStates", "d4/d28/a22667.html#add8f3c1b1a1e5600a05a639520b0a1dc", null ],
+    [ "HandlePlayerEnter", "d4/d28/a22667.html#ace643b7f7bc793934972c61c618045eb", null ],
+    [ "HandlePlayerLeave", "d4/d28/a22667.html#a950cd355c808f40ca95c0e5a46bac0a2", null ],
+    [ "SendChangePhase", "d4/d28/a22667.html#aef84a9917d5f40cfff48acb45ffdf0aa", null ],
+    [ "SummonGO", "d4/d28/a22667.html#a08a54abf3668074b5878c165bd2f8ddd", null ],
+    [ "UpdateTowerState", "d4/d28/a22667.html#ad8cfefcc567346273914e8039b039835", null ],
+    [ "m_SummonedGOSideId", "d4/d28/a22667.html#aa034240d169c9ab7276786bb188abc70", null ],
+    [ "m_TowerState", "d4/d28/a22667.html#a703b68024362d13ceaf9012202b72e7d", null ]
 ];

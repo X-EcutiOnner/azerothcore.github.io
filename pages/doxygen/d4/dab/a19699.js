@@ -1,5 +1,10 @@
 var a19699 =
 [
-    [ "npc_living_poison", "d4/dab/a19699.html#a277440068846eac71c795880a16475dd", null ],
-    [ "UpdateAI", "d4/dab/a19699.html#a2a6af8a9ef14e65ba9e44f2228b09ba5", null ]
+    [ "boss_patchwerkAI", "d4/dab/a19699.html#a74dfcf9ef921aa2a53d877c0e5ee9a34", null ],
+    [ "JustDied", "d4/dab/a19699.html#aaed18187aa8e0058c70b29b1ccbe955f", null ],
+    [ "JustEngagedWith", "d4/dab/a19699.html#a1317cb819d6247f62e0c6c725157db30", null ],
+    [ "KilledUnit", "d4/dab/a19699.html#a17ccb5b2a1841656813a9408f5a05c4e", null ],
+    [ "Reset", "d4/dab/a19699.html#a1d03058bf53e670f4fe9384e9f047891", null ],
+    [ "UpdateAI", "d4/dab/a19699.html#a2db0df50a0faa88ebeaa035ea048157e", null ],
+    [ "events", "d4/dab/a19699.html#a00c98ee5cdb3c512ba0d92a48d441006", null ]
 ];

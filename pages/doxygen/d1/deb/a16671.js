@@ -1,7 +1,6 @@
 var a16671 =
 [
-    [ "HandleDummy", "d1/deb/a16671.html#a96b430cb0546fb599da22cd675660187", null ],
-    [ "PrepareSpellScript", "d1/deb/a16671.html#ad0330cb78a330f05c18f33375f231fbc", null ],
-    [ "Register", "d1/deb/a16671.html#a70a36683a235dec6044a8a32f20c606c", null ],
-    [ "Validate", "d1/deb/a16671.html#affa7ccf869e98eacd3a153cc645d704e", null ]
+    [ "npc_halion_controllerAI", "d3/d23/a16675.html", "d3/d23/a16675" ],
+    [ "npc_halion_controller", "d1/deb/a16671.html#ac88ff15ce4d89d737eb6dd6b649e1218", null ],
+    [ "GetAI", "d1/deb/a16671.html#a3c5ea3f0597c070005744ea788a05383", null ]
 ];

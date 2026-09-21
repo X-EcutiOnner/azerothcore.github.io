@@ -1,5 +1,8 @@
 var a13471 =
 [
-    [ "boss_zelfan", "df/d54/a13471.html#a169e72dfe50c5199bf0053828888095b", null ],
-    [ "JustEngagedWith", "df/d54/a13471.html#a4e83c11ad95ea4dbea893a08671f17af", null ]
+    [ "npc_barnesAI", "dc/d99/a13475.html", "dc/d99/a13475" ],
+    [ "npc_barnes", "df/d54/a13471.html#aacdc737a94397a90b48b635293fe9c80", null ],
+    [ "GetAI", "df/d54/a13471.html#a4e349ede566d9be90b82e7ebd9d71de3", null ],
+    [ "OnGossipHello", "df/d54/a13471.html#a47cafa3628d2ca99582140f2a72ff8db", null ],
+    [ "OnGossipSelect", "df/d54/a13471.html#aa04d577e318f16f581f82761b6014eb5", null ]
 ];

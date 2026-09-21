@@ -1,8 +1,6 @@
 var a24171 =
 [
-    [ "npc_captain_saeedAI", "d4/d10/a24175.html", "d4/d10/a24175" ],
-    [ "npc_captain_saeed", "d8/df2/a24171.html#a8a5bee9f908b10451b8d4720dff85670", null ],
-    [ "GetAI", "d8/df2/a24171.html#aa6a232f6c2dd39483273cac41af9a7d7", null ],
-    [ "OnGossipHello", "d8/df2/a24171.html#a7db9b76578743d4ee96b2c4f11dc265c", null ],
-    [ "OnGossipSelect", "d8/df2/a24171.html#a8ace4d924b6f33312d914fb6ce1e0ea6", null ]
+    [ "go_apexis_relic", "d8/df2/a24171.html#a91ff5a986ee62b628456e9f5c75f6bc9", null ],
+    [ "OnGossipHello", "d8/df2/a24171.html#ae8f7167ba5b973881e32d604691dc15a", null ],
+    [ "OnGossipSelect", "d8/df2/a24171.html#a025cc7cc9c69f0eb461445170972ab52", null ]
 ];

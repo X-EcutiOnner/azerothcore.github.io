@@ -1,5 +1,6 @@
 var a19483 =
 [
-    [ "PrepareSpellScript", "da/ddf/a19483.html#a09b852666752f6adde3f9e5bb1f107bc", null ],
-    [ "Register", "da/ddf/a19483.html#a80c3077f8f689367276e1054a6236681", null ]
+    [ "npc_four_car_garageAI", "da/d6c/a19487.html", "da/d6c/a19487" ],
+    [ "npc_four_car_garage", "da/ddf/a19483.html#ae9b811544ab5cbdcb9c44abdc2da41a8", null ],
+    [ "GetAI", "da/ddf/a19483.html#ac55346f9733c5502a9e9f2d6d48feefb", null ]
 ];

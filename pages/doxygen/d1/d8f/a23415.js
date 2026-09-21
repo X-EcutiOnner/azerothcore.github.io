@@ -1,7 +1,7 @@
 var a23415 =
 [
-    [ "HandleProc", "d1/d8f/a23415.html#a03b2be5894d489a6021aff2744aee0e0", null ],
-    [ "PrepareAuraScript", "d1/d8f/a23415.html#a0ff401cd6d8e32ff458b7383b76a92a1", null ],
-    [ "Register", "d1/d8f/a23415.html#a804e1bc3d570d28cb2e06155054f3169", null ],
-    [ "Validate", "d1/d8f/a23415.html#a8d18e9ed9fa851f1c4d36c1f0bed8fcb", null ]
+    [ "FilterTargets", "d1/d8f/a23415.html#adb8581b4b92aa49eda8f531e6d6de1ea", null ],
+    [ "HandleDummy", "d1/d8f/a23415.html#a2fe7441bd9753cb912d11f8d36632f44", null ],
+    [ "PrepareSpellScript", "d1/d8f/a23415.html#ae7714acbe0a08781e3bc297847c47870", null ],
+    [ "Register", "d1/d8f/a23415.html#ade51d4cb00b63c46582c7a5e6e031e9d", null ]
 ];

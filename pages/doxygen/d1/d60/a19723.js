@@ -1,8 +1,21 @@
 var a19723 =
 [
-    [ "npc_scion_of_eternity", "d1/d60/a19723.html#ac1a9111bc835a3d2cffc43b840985763", null ],
-    [ "AttackStart", "d1/d60/a19723.html#a86b5e235096ad107217f36150c618d73", null ],
-    [ "JustDied", "d1/d60/a19723.html#aff0f8d0d57afb6ef3df7b259ec5860fa", null ],
-    [ "MoveInLineOfSight", "d1/d60/a19723.html#a25424c349fc39f7b42d36ac055f91ad9", null ],
-    [ "UpdateAI", "d1/d60/a19723.html#a49be60ccd03d75cf56931b870ddf086c", null ]
+    [ "boss_sapphironAI", "d1/d60/a19723.html#a96866122f159f818b2a4312fb7d3057c", null ],
+    [ "DoAction", "d1/d60/a19723.html#acf45e7c200afb41f90784e75066c2ef4", null ],
+    [ "EnterCombatSelfFunction", "d1/d60/a19723.html#a62e6b1482b2fa791813b9a5520a234e4", null ],
+    [ "InitializeAI", "d1/d60/a19723.html#a38c4586095aeaf404914369ae5414351", null ],
+    [ "IsInRoom", "d1/d60/a19723.html#a18ae5aa0e2fa5a5a37359fed5a16f4be", null ],
+    [ "IsValidExplosionTarget", "d1/d60/a19723.html#a0b147e8392fba250499e0cdd7d9ff39b", null ],
+    [ "JustDied", "d1/d60/a19723.html#aebb211a381a74128489986e32954c089", null ],
+    [ "JustEngagedWith", "d1/d60/a19723.html#a197b4add6d328ebdfb3f0c051f216cd5", null ],
+    [ "KilledUnit", "d1/d60/a19723.html#a7e4fd2ad6735419b34484c46ec2ef421", null ],
+    [ "MovementInform", "d1/d60/a19723.html#abc8f71849ac2e21a4612fbab9239829f", null ],
+    [ "Reset", "d1/d60/a19723.html#ae0e4559477f26660b20ce5de5f295c54", null ],
+    [ "SpellHitTarget", "d1/d60/a19723.html#a8da157b4da551b96f534ad80fcf2f8e1", null ],
+    [ "UpdateAI", "d1/d60/a19723.html#a3c7c9a032233d381c942bbb29a4a39e9", null ],
+    [ "blockList", "d1/d60/a19723.html#a82d135980280477372324da270e3e6a1", null ],
+    [ "currentTarget", "d1/d60/a19723.html#a9557df2556d86c50f41d066ce3373eaf", null ],
+    [ "events", "d1/d60/a19723.html#a9fc4dbd88390dbb455150144f4604ccb", null ],
+    [ "iceboltCount", "d1/d60/a19723.html#a765c041f412c4d20023b0cc435d4bc4f", null ],
+    [ "spawnTimer", "d1/d60/a19723.html#adef834e9b17d7cff0aaed9c36b7c7684", null ]
 ];

@@ -1,7 +1,7 @@
 var a27115 =
 [
-    [ "CheckTarget", "d7/dd6/a27115.html#abaef73201d2e0bd1d6789309442019e0", null ],
-    [ "HandleScriptEffect", "d7/dd6/a27115.html#a545196cd976bfabbd85ba48942012e1e", null ],
-    [ "PrepareSpellScript", "d7/dd6/a27115.html#add5c1ecaa5a75af6e91a0df5d63bbc42", null ],
-    [ "Register", "d7/dd6/a27115.html#a36563a197b7377660b7c3f9e85d478bd", null ]
+    [ "HandleProc", "d7/dd6/a27115.html#af27f9408725ff9c7ec17e8ae352234a9", null ],
+    [ "PrepareAuraScript", "d7/dd6/a27115.html#a11c2e125d7a583966be3f8a64064a5ad", null ],
+    [ "Register", "d7/dd6/a27115.html#a283f05b3649e3c137679ab92386f7a84", null ],
+    [ "Validate", "d7/dd6/a27115.html#a4805c758dc85e065cdb9550a5856fe31", null ]
 ];

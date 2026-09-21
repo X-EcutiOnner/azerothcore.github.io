@@ -1,13 +1,6 @@
 var a29695 =
 [
-    [ "AuraConfig", "db/dcf/a29699.html", "db/dcf/a29699" ],
-    [ "ProcRecord", "d1/df7/a29703.html", "d1/df7/a29703" ],
-    [ "ProcChainGuardSimulator", "d8/da4/a29695.html#ad729e5f44922b9b6c44c9a4d732818e7", null ],
-    [ "CanProc", "d8/da4/a29695.html#a267703c4a51bf3e8020e3298c85b74b3", null ],
-    [ "GetProcDeep", "d8/da4/a29695.html#afe8e4320a882c474f883347860ad4d47", null ],
-    [ "GetRecords", "d8/da4/a29695.html#ae21baa9f43fb78e30dedfc6608684e9e", null ],
-    [ "SetCantProc", "d8/da4/a29695.html#ab479d1a30e547ce04775abe397cfea14", null ],
-    [ "SimulateTriggerAurasProc", "d8/da4/a29695.html#ab0a0af1461f0f94a87273f468bc5454d", null ],
-    [ "_procDeep", "d8/da4/a29695.html#a5fd0de564b32520971082df9620d40b4", null ],
-    [ "_records", "d8/da4/a29695.html#abdecfb4d1da86f5a5d4cd7c92c228617", null ]
+    [ "SetUp", "d8/da4/a29695.html#af04bbb2661f10d3bf442c590ebdf1a2b", null ],
+    [ "TearDown", "d8/da4/a29695.html#a3bc271279472966f9dae906f9f77119b", null ],
+    [ "confFilePath", "d8/da4/a29695.html#aaaccdda1669c76b94483bf2db2615d4e", null ]
 ];

@@ -1,8 +1,13 @@
 var a18039 =
 [
-    [ "npc_gunship_mageAI", "dc/d05/a18039.html#ac79cb67f21820ef88ac9cd671ca9e4c7", null ],
-    [ "AttackStart", "dc/d05/a18039.html#a41bd517c360538f568fb56bc9d2f5e55", null ],
-    [ "CanAIAttack", "dc/d05/a18039.html#aadcb217a9df96bee02287d75a23e32c2", null ],
-    [ "MovementInform", "dc/d05/a18039.html#ac0f233fa5a34cd6e080f44c798b4fc62", null ],
-    [ "UpdateAI", "dc/d05/a18039.html#aa767fc4cb2f7eba37fedaec57c4bc175", null ]
+    [ "PassengerController", "dc/d05/a18039.html#ab834deac8dfd9a7ddd1bcb37b1e5c354", null ],
+    [ "ClearSlot", "dc/d05/a18039.html#ae10f0917fb6fd395c3bb4428cbb617cb", null ],
+    [ "ResetSlots", "dc/d05/a18039.html#a2302ac8b9fac75ba58ced41e2b5236f0", null ],
+    [ "SelectSpawnPoint", "dc/d05/a18039.html#a4a4d575417a7c7940471f21e32d48b5c", null ],
+    [ "SummonCreatures", "dc/d05/a18039.html#a287e4cafc1d3739edf90c00ad91e2c64", null ],
+    [ "_controlledSlots", "dc/d05/a18039.html#af4271e53792477394a5c1022ed8fb30f", null ],
+    [ "_respawnCooldowns", "dc/d05/a18039.html#a98a6d819ec193d5a1e96739ac507b146", null ],
+    [ "_slotInfo", "dc/d05/a18039.html#a9c8fa44394c10eb2a7fec3c4f273f448", null ],
+    [ "_spawnPoint", "dc/d05/a18039.html#ab168baee9c4d6343c7adb6978a3a56d2", null ],
+    [ "_transport", "dc/d05/a18039.html#ac2c664d3b5941c673c13f7e36aa2d974", null ]
 ];

@@ -1,7 +1,7 @@
 var a08983 =
 [
-    [ "SetRuneState", "d4/d51/a08983.html#a920d32d04ec7e872680a89b0c0a9b0ef", null ],
-    [ "lastUsedRune", "d4/d51/a08983.html#a88c702716eb3032c20ae5ed74922d923", null ],
-    [ "runes", "d4/d51/a08983.html#aac485530bfa81d54d9da3213fe917c29", null ],
-    [ "runeState", "d4/d51/a08983.html#ae58297e0766578b234604a97641501a1", null ]
+    [ "IsInSpec", "d4/d51/a08983.html#a17668f5b6ea479c9e6c0fd2593853a1d", null ],
+    [ "Active", "d4/d51/a08983.html#a7ddfb4a1cbd77fe84e49b42b9a28bb90", null ],
+    [ "specMask", "d4/d51/a08983.html#af178fb95c99f0c961bf12435fc7a3fd5", null ],
+    [ "State", "d4/d51/a08983.html#a54331e3ecac0d39a4fc7a6b8c2c9f532", null ]
 ];

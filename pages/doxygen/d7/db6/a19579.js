@@ -1,13 +1,12 @@
 var a19579 =
 [
-    [ "boss_loathebAI", "d7/db6/a19579.html#a60256114947b0e9c01f5308108485935", null ],
-    [ "IsInRoom", "d7/db6/a19579.html#a617d45ab3bde4184aa31c1b2c70c1a6f", null ],
-    [ "JustDied", "d7/db6/a19579.html#acf24e563d4876fb9f899a4250b19b6f5", null ],
-    [ "JustEngagedWith", "d7/db6/a19579.html#a1abcf157e05eeb634f8e857a2de35538", null ],
-    [ "JustSummoned", "d7/db6/a19579.html#a8a28f9fe6c087c230103d1139ddb73dc", null ],
-    [ "KilledUnit", "d7/db6/a19579.html#a4dac78bba24069050dd9df729dd58b45", null ],
-    [ "Reset", "d7/db6/a19579.html#a709a4c2fe45fd757ecae6afa402e4728", null ],
-    [ "SummonedCreatureDies", "d7/db6/a19579.html#aeddc6bd981a13ec133e5481b36668b0e", null ],
-    [ "UpdateAI", "d7/db6/a19579.html#ab009008f892493b822e5ea5491c58525", null ],
-    [ "doomCounter", "d7/db6/a19579.html#aed5c631ede2eea27451a74ae21221325", null ]
+    [ "npc_boss_gothik_minionAI", "d7/db6/a19579.html#aa719d87c65294fc483b424b125619a10", null ],
+    [ "IsOnSameSide", "d7/db6/a19579.html#a7d305be5e3d66c1317fa91e588223da0", null ],
+    [ "JustDied", "d7/db6/a19579.html#a752b6eab9cf1b016962c6f535586b59d", null ],
+    [ "JustEngagedWith", "d7/db6/a19579.html#ad86778d5a0e883a839b4a43425a57d7f", null ],
+    [ "KilledUnit", "d7/db6/a19579.html#a6a09440d623dcee51b7e0d4ed77d624e", null ],
+    [ "Reset", "d7/db6/a19579.html#a309401236c254cd850759a0cbb4004e0", null ],
+    [ "UpdateAI", "d7/db6/a19579.html#a43744e96be00d8bc0afc34a570e79947", null ],
+    [ "events", "d7/db6/a19579.html#ae2dde7b4fc655b1ae27410d299776c49", null ],
+    [ "livingSide", "d7/db6/a19579.html#a2545d00e04bae9ee0a1bf9f9d6162c74", null ]
 ];

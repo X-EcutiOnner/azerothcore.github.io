@@ -1,11 +1,7 @@
 var a16303 =
 [
-    [ "boss_amanitar", "da/d46/a16303.html#a660bdf8dd64bbffda4ee1ec603c41402", null ],
-    [ "EnterEvadeMode", "da/d46/a16303.html#a6b3cf0ea01ce34b4281116ca8387732d", null ],
-    [ "JustDied", "da/d46/a16303.html#a138049712649ff414950d9d0ca05d712", null ],
-    [ "JustEngagedWith", "da/d46/a16303.html#ae2bace7f649626c68560d4a6d5aa4ea3", null ],
-    [ "Reset", "da/d46/a16303.html#aab3faca4526947a72d8ca049a605f5be", null ],
-    [ "SummonedCreatureDespawn", "da/d46/a16303.html#a4b9dccf5b2fe46ac9f6d5eab54ba5d43", null ],
-    [ "SummonMushroom", "da/d46/a16303.html#afc5b4942931f6020b2894b901650fc35", null ],
-    [ "_mushroomsDeque", "da/d46/a16303.html#a4ba2415d6134cdc435114cd3af235b6d", null ]
+    [ "npc_ringoAI", "d7/d3e/a16307.html", "d7/d3e/a16307" ],
+    [ "npc_ringo", "da/d46/a16303.html#aabccd10a446986487bbb09fc2d33cfd9", null ],
+    [ "GetAI", "da/d46/a16303.html#aee6c9988f0c038c74b0deb3d44617ef1", null ],
+    [ "OnQuestAccept", "da/d46/a16303.html#a9bb46a7574306da2e75dd9867ef6037a", null ]
 ];

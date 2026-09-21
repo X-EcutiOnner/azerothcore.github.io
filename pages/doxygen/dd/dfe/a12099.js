@@ -1,6 +1,7 @@
 var a12099 =
 [
-    [ "EffectCalcPeriodicHandler", "dd/dfe/a12099.html#a17288ee3b2951f1f2a8dc36a598b9a27", null ],
-    [ "Call", "dd/dfe/a12099.html#a6a7eeb9599a10aa4ab918a2c2456a186", null ],
-    [ "pEffectHandlerScript", "dd/dfe/a12099.html#a57673f457c08edfbf7fc1877aa071721", null ]
+    [ "EffectNameCheck", "dd/dfe/a12099.html#aa82307388bdda7864bb085a349b63f29", null ],
+    [ "Check", "dd/dfe/a12099.html#a729d7f07669dedec50f009a87b8f32a4", null ],
+    [ "ToString", "dd/dfe/a12099.html#a31e545b0ae22cad4be815ea9e3b44377", null ],
+    [ "effName", "dd/dfe/a12099.html#a905224fb028ea0eab350773b7230f871", null ]
 ];

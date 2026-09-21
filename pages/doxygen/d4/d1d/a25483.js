@@ -1,6 +1,6 @@
 var a25483 =
 [
-    [ "OnApply", "d4/d1d/a25483.html#a476bf6fc1a91784dbc8534c0e57005d6", null ],
-    [ "PrepareAuraScript", "d4/d1d/a25483.html#a159ee8a9b0af729ed01f7632adb58863", null ],
-    [ "Register", "d4/d1d/a25483.html#a0f33043317402119aa14e50a1eb6c227", null ]
+    [ "HandleScript", "d4/d1d/a25483.html#af6d3dd97d3254dbfcd6b611b26e0e61d", null ],
+    [ "PrepareSpellScript", "d4/d1d/a25483.html#a59b5637aa8a29611463fbaabc6db2bb8", null ],
+    [ "Register", "d4/d1d/a25483.html#a54bb0fe145f99ea484724052c8bb1227", null ]
 ];

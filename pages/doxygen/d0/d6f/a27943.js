@@ -1,8 +1,8 @@
 var a27943 =
 [
-    [ "HandleDamage", "d0/d6f/a27943.html#a371d3112e619453b7c92933a145bf4d2", null ],
-    [ "HandleDummy", "d0/d6f/a27943.html#a051f68946f3c246b410bbaa2ac14e4b1", null ],
-    [ "PrepareSpellScript", "d0/d6f/a27943.html#a41d69ed3f8372c4e157aefbec6ad525c", null ],
-    [ "Register", "d0/d6f/a27943.html#aaa1e53f38a2ba835c12fa726c030ab08", null ],
-    [ "Validate", "d0/d6f/a27943.html#a180ab99bc257b841e0bbbfc0ddb83814", null ]
+    [ "CheckProc", "d0/d6f/a27943.html#a4713f3cdce1ee793a8f2232202314ff7", null ],
+    [ "HandleProc", "d0/d6f/a27943.html#ab892bc268feccba594a5b4b0be3e86f7", null ],
+    [ "PrepareAuraScript", "d0/d6f/a27943.html#a92a141fcf24f63bc41f6f828f72bf277", null ],
+    [ "Register", "d0/d6f/a27943.html#a93806efcc1e5976cca2eab57c9e55a7e", null ],
+    [ "Validate", "d0/d6f/a27943.html#a28801b99335380a7e366e766b6aaea2c", null ]
 ];

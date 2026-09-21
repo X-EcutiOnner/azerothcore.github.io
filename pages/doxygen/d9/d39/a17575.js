@@ -1,6 +1,11 @@
 var a17575 =
 [
-    [ "entry", "d9/d39/a17575.html#af2cf5df64adf9ac1575a8217b103e738", null ],
-    [ "x", "d9/d39/a17575.html#aad21475d521921ea30cc0ae5d260ce69", null ],
-    [ "y", "d9/d39/a17575.html#abd69e1c28ad36466c82807ea0ffb0fb7", null ]
+    [ "npc_pos_tyrannus_eventsAI", "d9/d39/a17575.html#a51769d22a4cb448fae90d827e2494581", null ],
+    [ "MovementInform", "d9/d39/a17575.html#ac0d1550855988fe6f562e8a0a6ada80f", null ],
+    [ "SetData", "d9/d39/a17575.html#a8f8bbb06c50215c90cf11ddbc925ba5d", null ],
+    [ "UpdateAI", "d9/d39/a17575.html#a6c4d82c46547bbb2f86dd7f9fa88c743", null ],
+    [ "deathbringerGUID", "d9/d39/a17575.html#a21ea8c66374403d0eca83e4d24c80a7a", null ],
+    [ "events", "d9/d39/a17575.html#a317d48c75a93ef5abaa3329ab10a1c8e", null ],
+    [ "killsLeft", "d9/d39/a17575.html#ac81d85e0ceb0b571373f44475baa36df", null ],
+    [ "pInstance", "d9/d39/a17575.html#a44460335986bcedf35dc295c242df6da", null ]
 ];

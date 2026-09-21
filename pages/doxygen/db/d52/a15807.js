@@ -1,6 +1,5 @@
 var a15807 =
 [
-    [ "HandleApply", "db/d52/a15807.html#aefef61bc68c13b20e9b41a6f148a9599", null ],
-    [ "PrepareAuraScript", "db/d52/a15807.html#aabe8dc8b99dc455dfcfaf58b64fa3f18", null ],
-    [ "Register", "db/d52/a15807.html#ade5c710416516760cc69f77750aa2a1f", null ]
+    [ "at_twin_emperors", "db/d52/a15807.html#a343d482857fa0a45c42f593e591f7754", null ],
+    [ "_OnTrigger", "db/d52/a15807.html#a466ba3bbf21b33f064a056eef63291ce", null ]
 ];

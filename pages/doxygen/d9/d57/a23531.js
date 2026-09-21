@@ -1,5 +1,6 @@
 var a23531 =
 [
-    [ "instance_the_underbog_InstanceMapScript", "d9/d57/a23531.html#ae7668c7c4432b74caa3ea46a7c7364e3", null ],
-    [ "Initialize", "d9/d57/a23531.html#a9c7c10020eef3db4794283c0f946d086", null ]
+    [ "instance_the_slave_pens_InstanceMapScript", "da/d63/a23535.html", "da/d63/a23535" ],
+    [ "instance_the_slave_pens", "d9/d57/a23531.html#a765f7b66ad3bed1828524ecb143742f2", null ],
+    [ "GetInstanceScript", "d9/d57/a23531.html#a0eedcecf1ddc27e139898cacf6f48965", null ]
 ];

@@ -1,6 +1,7 @@
 var a16267 =
 [
-    [ "HandleOpenLock", "d7/db4/a16267.html#a32bfb203e9ecfbcfa75f6c3e7a17fade", null ],
-    [ "PrepareSpellScript", "d7/db4/a16267.html#a646a42455b6a46c9f7cbb4b0229122cd", null ],
-    [ "Register", "d7/db4/a16267.html#a5dcac6f609ec93074ec3ce195101f592", null ]
+    [ "npc_paoka_swiftmountainAI", "dc/d22/a16271.html", "dc/d22/a16271" ],
+    [ "npc_paoka_swiftmountain", "d7/db4/a16267.html#abb3f6fab7cca158c2e139159430f880a", null ],
+    [ "GetAI", "d7/db4/a16267.html#a3f41d2caae5acb4b79bcc75780db03d2", null ],
+    [ "OnQuestAccept", "d7/db4/a16267.html#a3340cca58bdad2f5681725f9ba3b6bfd", null ]
 ];

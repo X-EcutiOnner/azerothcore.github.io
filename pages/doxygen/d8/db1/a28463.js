@@ -1,6 +1,5 @@
 var a28463 =
 [
-    [ "npc_innkeeper", "d8/db1/a28463.html#a006f27d898ead8827d8b98d8b93d430d", null ],
-    [ "OnGossipHello", "d8/db1/a28463.html#ae65c5cd7d3e270b2e50f80c0e12a72ff", null ],
-    [ "OnGossipSelect", "d8/db1/a28463.html#ab6cf511f5b032050336a77d1e4598dda", null ]
+    [ "go_soulwellAI", "d8/db1/a28463.html#af8c28f9d3ddf5fa3591433268d14fc98", null ],
+    [ "GossipHello", "d8/db1/a28463.html#a3df147478af8930d9b6108a183e9478f", null ]
 ];

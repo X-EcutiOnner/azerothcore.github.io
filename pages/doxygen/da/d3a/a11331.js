@@ -1,11 +1,7 @@
 var a11331 =
 [
-    [ "BuyItemInSlot", "da/d3a/a11331.html#a9a15be940d8eb216614dca5055be094a", null ],
-    [ "Read", "da/d3a/a11331.html#a2608e83a41fb44c8469d2b9196702627", null ],
-    [ "BagGuid", "da/d3a/a11331.html#abb9a1c7ac98c1cd848e4da8faf4e3925", null ],
-    [ "BagSlot", "da/d3a/a11331.html#abdcb3b7e8a633b59d264ff1c860ec9c9", null ],
-    [ "Count", "da/d3a/a11331.html#a3d057f2bdafb46887a97dbba8bb5aa04", null ],
-    [ "Item", "da/d3a/a11331.html#a1fdfad3b4dd000c0f6d6d60f30bdd981", null ],
-    [ "Slot", "da/d3a/a11331.html#aae1dba7644a82933a801f581551479bc", null ],
-    [ "VendorGuid", "da/d3a/a11331.html#ac65b0fc2609531c8657c4d83cf50dbfe", null ]
+    [ "InstanceResetFailed", "da/d3a/a11331.html#a246b4ab5e9567b99ba83b2a3c9b6c039", null ],
+    [ "Write", "da/d3a/a11331.html#a29506768ce5a5312e659ec787dbc2f8e", null ],
+    [ "MapId", "da/d3a/a11331.html#a3a14b2f4eb5e6d1ce768fe45881e2206", null ],
+    [ "Reason", "da/d3a/a11331.html#a3c629d5db1fb3a4f82ec9dc047a1b9f0", null ]
 ];

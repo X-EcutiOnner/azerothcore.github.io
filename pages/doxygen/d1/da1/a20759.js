@@ -1,6 +1,7 @@
 var a20759 =
 [
-    [ "npc_razorscale_devouring_flame", "d1/da1/a20759.html#a86c3d4cdf0d9757612264f62fd9e283e", null ],
-    [ "EnterEvadeMode", "d1/da1/a20759.html#a7d32fe90b53b3d681627d84bf3825bc2", null ],
-    [ "Reset", "d1/da1/a20759.html#adb6acc83d528f71a69e854e46b2405c3", null ]
+    [ "PrepareSpellScript", "d1/da1/a20759.html#afae92a0d4e41fc2fd00b1fd0b6b11a22", null ],
+    [ "PreventSummon", "d1/da1/a20759.html#a57fcc7a0e078c344e50863ba1951f244", null ],
+    [ "Register", "d1/da1/a20759.html#a3813bf7e198f5f3c146b4639fa83a067", null ],
+    [ "SetDest", "d1/da1/a20759.html#a4d49ebdf1dab3b4952e4f4c7c50ca16b", null ]
 ];

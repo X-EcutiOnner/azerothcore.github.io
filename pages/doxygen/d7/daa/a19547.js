@@ -1,6 +1,7 @@
 var a19547 =
 [
-    [ "boss_kelthuzadAI", "d7/d4d/a19551.html", "d7/d4d/a19551" ],
-    [ "boss_kelthuzad", "d7/daa/a19547.html#a52b0988d0ee9e41c8a7911f2d2460442", null ],
-    [ "GetAI", "d7/daa/a19547.html#acf19b29d6c1eb0052baa7ff491f6a050", null ]
+    [ "OnApply", "d7/daa/a19547.html#a72a01dea703436b2a220a9976da60fa6", null ],
+    [ "PrepareAuraScript", "d7/daa/a19547.html#adb17425258d4fb2c0c464236e15f32d7", null ],
+    [ "Register", "d7/daa/a19547.html#af026c126029c68ed8b7c6c1886720e4c", null ],
+    [ "Validate", "d7/daa/a19547.html#a5674396828adf4e80102ed2277f1e08a", null ]
 ];

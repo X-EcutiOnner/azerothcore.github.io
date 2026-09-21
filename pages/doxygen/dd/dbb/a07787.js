@@ -1,14 +1,10 @@
 var a07787 =
 [
-    [ "BattlegroundDS", "dd/dbb/a07787.html#a041cd3c81d341ff12e2e103da44c19b8", null ],
-    [ "FillInitialWorldStates", "dd/dbb/a07787.html#a0c7a45aa22e390d2760bf32720435d5e", null ],
-    [ "HandleAreaTrigger", "dd/dbb/a07787.html#a91e0be32f0169b9ac8749003ae3cdae7", null ],
-    [ "HandlePlayerUnderMap", "dd/dbb/a07787.html#a97ed6f531b1de3eaf93c585e205e7f54", null ],
-    [ "PostUpdateImpl", "dd/dbb/a07787.html#a57cfca32a361d43f19163dc6e7408e96", null ],
-    [ "SetupBattleground", "dd/dbb/a07787.html#ae008bf979e6984856237938dfe743ec7", null ],
-    [ "StartingEventCloseDoors", "dd/dbb/a07787.html#ae215043c2c10df9f9339e2a6dbcb185e", null ],
-    [ "StartingEventOpenDoors", "dd/dbb/a07787.html#ab9ab60253daa5318dcdb6675c8919cd5", null ],
-    [ "_events", "dd/dbb/a07787.html#a79112a1631ec6541cf19ecef712bb66f", null ],
-    [ "_pipeKnockBackCount", "dd/dbb/a07787.html#a32490dab9fd8ea9ae9afd8cf66feb087", null ],
-    [ "_pipeKnockBackTimer", "dd/dbb/a07787.html#aaef0cac1f3283c56117efcc484a0abfc", null ]
+    [ "SelectionPool", "dd/dbb/a07787.html#a9ddcca26fb3f4c635d7bcbb045542885", null ],
+    [ "AddGroup", "dd/dbb/a07787.html#a87fe4747536355ad7affda76640a082e", null ],
+    [ "GetPlayerCount", "dd/dbb/a07787.html#af344a6e6bb42609887ee8a3022e9d8e5", null ],
+    [ "Init", "dd/dbb/a07787.html#a84c3fe684033e8744ce6d6bc50526ee7", null ],
+    [ "KickGroup", "dd/dbb/a07787.html#a74fb708546a8612ca52b24b8472b71ef", null ],
+    [ "PlayerCount", "dd/dbb/a07787.html#a0c08c47f68dbb45175efc524f4553e16", null ],
+    [ "SelectedGroups", "dd/dbb/a07787.html#a4387ef77c341f90758d6c64c4ef2c475", null ]
 ];

@@ -1,16 +1,8 @@
 var a30203 =
 [
-    [ "Iterator", "d7/ddd/a30203.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1", null ],
-    [ "Iterator", "d7/ddd/a30203.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1", null ],
-    [ "operator!=", "d7/ddd/a30203.html#a5a6ff8d913effe13f7b5e25d8224bbd1", null ],
-    [ "operator!=", "d7/ddd/a30203.html#a5a6ff8d913effe13f7b5e25d8224bbd1", null ],
-    [ "operator*", "d7/ddd/a30203.html#a7b3de0d9987b834eaf6e909dd22f2528", null ],
-    [ "operator*", "d7/ddd/a30203.html#a7b3de0d9987b834eaf6e909dd22f2528", null ],
-    [ "operator++", "d7/ddd/a30203.html#af7dc5aae457d264ebe4aa42f5b700589", null ],
-    [ "operator++", "d7/ddd/a30203.html#af7dc5aae457d264ebe4aa42f5b700589", null ],
-    [ "operator->", "d7/ddd/a30203.html#a3885f293a5dba744603beffbf9f8b640", null ],
-    [ "operator->", "d7/ddd/a30203.html#a3885f293a5dba744603beffbf9f8b640", null ],
-    [ "operator==", "d7/ddd/a30203.html#a72733f262c3850fa0a0a51a3bf4e549c", null ],
-    [ "operator==", "d7/ddd/a30203.html#a72733f262c3850fa0a0a51a3bf4e549c", null ],
-    [ "record", "d7/ddd/a30203.html#a948512c44e53dfa177b85f82e9fd6160", null ]
+    [ "prepareLoadedData", "d7/ddd/a30203.html#a696cfebd8fe66840b316919519e9b319", null ],
+    [ "fcc", "d7/ddd/a30203.html#a83cb69fb9eb6eff82a513c75301e5bf6", null ],
+    [ "fcc_txt", "d7/ddd/a30203.html#a9c7e27f948978d771115ca4f88f70b5d", null ],
+    [ "height_map", "d7/ddd/a30203.html#a50a7fa80b59ba9c0fcd8d93bd924a13f", null ],
+    [ "size", "d7/ddd/a30203.html#add2809c6e520cf4aa43807d61f973f0e", null ]
 ];

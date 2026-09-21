@@ -1,6 +1,7 @@
 var a27963 =
 [
-    [ "HandleScript", "dd/db6/a27963.html#ab2bad52272a5cd7167a7601fdfa02b1d", null ],
-    [ "PrepareSpellScript", "dd/db6/a27963.html#a60454f2c1ba8d1ea160350b5e02bf56d", null ],
-    [ "Register", "dd/db6/a27963.html#a22b9877e2cd27c925ae7b351d3d6f41b", null ]
+    [ "HandleProc", "dd/db6/a27963.html#a1ebfd477399cbac2cba33cfd90db72e6", null ],
+    [ "PrepareAuraScript", "dd/db6/a27963.html#aadbaea984fedb04e77b92174efd5e83d", null ],
+    [ "Register", "dd/db6/a27963.html#aedd1652a571275a305db70fbbe6f725c", null ],
+    [ "Validate", "dd/db6/a27963.html#a28c281aeef80409b419753f71da80f92", null ]
 ];

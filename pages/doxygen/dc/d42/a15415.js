@@ -1,6 +1,12 @@
 var a15415 =
 [
-    [ "instance_maraudon_InstanceMapScript", "de/ddd/a15419.html", "de/ddd/a15419" ],
-    [ "instance_maraudon", "dc/d42/a15415.html#aaae11d2569d04b42840b101a5702cf24", null ],
-    [ "GetInstanceScript", "dc/d42/a15415.html#ac4f5c7c3ee755226449c96b3e351f12d", null ]
+    [ "boss_lieutenant_drake", "dc/d42/a15415.html#a67e00ef68d5b07023cc9dc7bd6a2289b", null ],
+    [ "InitializeAI", "dc/d42/a15415.html#a2b3eb857c0711b89b6e7a6f3f5f05441", null ],
+    [ "JustDied", "dc/d42/a15415.html#aca7654e30aac96fa509f99f3447121ec", null ],
+    [ "JustEngagedWith", "dc/d42/a15415.html#ae31ac13106d09b8b447aa8fd9d864e41", null ],
+    [ "KilledUnit", "dc/d42/a15415.html#a833c889c28ea35a6198fe753b604a8ed", null ],
+    [ "MovementInform", "dc/d42/a15415.html#aec6e332bc5739552cbbec27569c55759", null ],
+    [ "UpdateAI", "dc/d42/a15415.html#ad898722dfe01c2e4f814fc5af9f057b8", null ],
+    [ "pathId", "dc/d42/a15415.html#ac63f9c885296a797799c0cd83b0ade64", null ],
+    [ "runSecondPath", "dc/d42/a15415.html#a3ea53e2048224ac3bbc4dceda316d7c4", null ]
 ];

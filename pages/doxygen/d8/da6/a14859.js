@@ -1,6 +1,7 @@
 var a14859 =
 [
-    [ "gameobjectId", "d8/da6/a14859.html#a5cebf652fccc66cb5f98968036405d14", null ],
-    [ "spawnIndex", "d8/da6/a14859.html#a5e8b95d6ecf69db8736941b67e2478d8", null ],
-    [ "timestamp", "d8/da6/a14859.html#a0c49f62b35e906637890fee896c74951", null ]
+    [ "HandleScriptEffect", "d8/da6/a14859.html#aaad3c8870d8ad748e3ac07287da32e84", null ],
+    [ "PrepareSpellScript", "d8/da6/a14859.html#a3d906994c11e52e89c842189be73ddfd", null ],
+    [ "Register", "d8/da6/a14859.html#a4cdab36e2265c696207a39e16549ab13", null ],
+    [ "Validate", "d8/da6/a14859.html#a8aaf57bd54d3b2beb48b4e29053c1125", null ]
 ];

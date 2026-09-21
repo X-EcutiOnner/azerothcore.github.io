@@ -1,6 +1,7 @@
 var a11651 =
 [
-    [ "QuestConfirmAcceptClient", "dd/d43/a11651.html#ac45767c9cf0e197e185a8936598fc9ea", null ],
-    [ "Read", "dd/d43/a11651.html#a483980152418879fd1a55db2fa4bf68a", null ],
-    [ "QuestId", "dd/d43/a11651.html#a25b4b779fdf9e642b2fe13faf03d50b1", null ]
+    [ "TimeQueryResponse", "dd/d43/a11651.html#abefcc15670a85ae023d24bfa5dc26a11", null ],
+    [ "Write", "dd/d43/a11651.html#a5fbfca11889684a0ab6b437eb30527cc", null ],
+    [ "ServerTime", "dd/d43/a11651.html#a9dfc03a60bb8a1f20eb850e3f8a00b88", null ],
+    [ "TimeResponse", "dd/d43/a11651.html#a4f528e5c08dc67a2c6f7826b21a771ed", null ]
 ];

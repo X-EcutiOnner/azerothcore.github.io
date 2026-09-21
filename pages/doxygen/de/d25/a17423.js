@@ -1,9 +1,8 @@
 var a17423 =
 [
-    [ "FilterTargets", "de/d25/a17423.html#aefebf504286394cf3caffa566543e4a4", null ],
-    [ "FilterTargetsNext", "de/d25/a17423.html#a356b6ace97d07df22a232d2287072b5e", null ],
-    [ "PrepareSpellScript", "de/d25/a17423.html#a893e0eb620e19909b2f2a715ea946f6b", null ],
-    [ "Register", "de/d25/a17423.html#a962651920a94190f4864a3b1c7fcd1d3", null ],
-    [ "Unload", "de/d25/a17423.html#a6adc9b6ca86da6cd9465fa0da150dcca", null ],
-    [ "targetList", "de/d25/a17423.html#a3c839185938e0b67b97f652d1d15e213", null ]
+    [ "npc_phantom_hallucination", "de/d25/a17423.html#a55dc1bf20a0714bbe3bd2bf98978c127", null ],
+    [ "EnterEvadeMode", "de/d25/a17423.html#a0e45cbe40a3118d17f403c48c91f630e", null ],
+    [ "JustDied", "de/d25/a17423.html#a14c91f9f3a1f654fed3fc11685d41da7", null ],
+    [ "UpdateAI", "de/d25/a17423.html#af03cb9c2f062e14e6333c8c889d3c8df", null ],
+    [ "numOfUpd", "de/d25/a17423.html#a2cc47caafdc22de25f820a78f632ee4b", null ]
 ];

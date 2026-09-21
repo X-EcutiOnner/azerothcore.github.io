@@ -1,5 +1,6 @@
 var a20499 =
 [
-    [ "FlashFreezeCheck", "d1/de6/a20499.html#a47d07a686a7c74dc8914a98762b16fe3", null ],
-    [ "operator()", "d1/de6/a20499.html#a87475dc9e2f1b0eb508e9f56aa5c1e2f", null ]
+    [ "npc_ulduar_saronite_vapors", "d1/de6/a20499.html#af8d7e273a01b54bd5b96f186501f38c5", null ],
+    [ "JustDied", "d1/de6/a20499.html#a64254becffe74a7d06c09a3b0e2b4428", null ],
+    [ "_instance", "d1/de6/a20499.html#ad304110ff1bfc33066cd17f04cf40181", null ]
 ];

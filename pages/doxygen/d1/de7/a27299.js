@@ -1,9 +1,7 @@
 var a27299 =
 [
-    [ "HandleKnockBack", "d1/de7/a27299.html#acaa8f445874270f34ea5b42a506671db", null ],
-    [ "HandleScript", "d1/de7/a27299.html#a29e47298601cb55c5442a3fa59bb3646", null ],
-    [ "Load", "d1/de7/a27299.html#a45700aba665b601b2c860af5a869d1af", null ],
-    [ "PrepareSpellScript", "d1/de7/a27299.html#aad1c175a2611152278d847ac59f93090", null ],
-    [ "Register", "d1/de7/a27299.html#ad790d435f422fabd128e601fb2dff103", null ],
-    [ "Validate", "d1/de7/a27299.html#a889a129ddc3ea6fcd7f440fc7c163e08", null ]
+    [ "HandleScript", "d1/de7/a27299.html#a1b20a7fb4487876f305aa3a8d493ed17", null ],
+    [ "PrepareSpellScript", "d1/de7/a27299.html#a5ac848029ef03f6779cf094f4b80dd24", null ],
+    [ "Register", "d1/de7/a27299.html#a3d378e0eac09b00792b293b2cd7f3192", null ],
+    [ "Validate", "d1/de7/a27299.html#a36963610ad939ec36848ff70185f47a2", null ]
 ];

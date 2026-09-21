@@ -1,17 +1,9 @@
 var a01610 =
 [
-    [ "Acore::Impl::ChatCommands::tag_base< T, typename >", "de/dac/a08097.html", "de/dac/a08097" ],
-    [ "Acore::Impl::ChatCommands::TokenizeResult", "d8/dda/a08101.html", "d8/dda/a08101" ],
-    [ "Acore::Impl::ChatCommands::are_all_assignable< T, Ts >", "d3/d6e/a08105.html", "d3/d6e/a08105" ],
-    [ "Acore::Impl::ChatCommands::are_all_assignable< void, Ts... >", "df/d07/a08109.html", "df/d07/a08109" ],
-    [ "Acore::Impl::ChatCommands::get_nth< index, T1, Ts >", "d3/d6a/a08113.html", null ],
-    [ "Acore::Impl::ChatCommands::get_nth< 0, T1, Ts... >", "d8/d48/a08117.html", "d8/d48/a08117" ],
-    [ "Acore::Impl::ChatCommands::ChatCommandResult", "d8/dc3/a08121.html", "d8/dc3/a08121" ],
-    [ "get_nth_t", "d9/dfd/a01610.html#acf7271fa50990dbd40fd90f127b9fb3b", null ],
-    [ "tag_base_t", "d9/dfd/a01610.html#a61f1a636e46a7d78161298ae28844703", null ],
-    [ "FormatAcoreString", "d9/dfd/a01610.html#a496bce28eb0bf0ac4b5e1c54c19193b7", null ],
-    [ "GetAcoreString", "d9/dfd/a01610.html#a1106e69269315156c6019b7812547ce9", null ],
-    [ "SendErrorMessageToHandler", "d9/dfd/a01610.html#aae4c9556d5cc172144fa280ca820226d", null ],
-    [ "tokenize", "d9/dfd/a01610.html#aeca95018e8d551d917cf69e0764ccef7", null ],
-    [ "COMMAND_DELIMITER", "d9/dfd/a01610.html#a068db55731856ca7770e1b09a4225aa2", null ]
+    [ "AchievementVisitor", "de/d63/a08027.html", "de/d63/a08027" ],
+    [ "GameTeleVisitor", "d3/d83/a08031.html", "d3/d83/a08031" ],
+    [ "ItemTemplateVisitor", "dd/dfa/a08035.html", "dd/dfa/a08035" ],
+    [ "SpellInfoVisitor", "dc/dbf/a08039.html", "dc/dbf/a08039" ],
+    [ "QuestVisitor", "d3/d30/a08043.html", "d3/d30/a08043" ],
+    [ "ChatCommandResult", "d9/dfd/a01610.html#ad9c9d483b96ed400318aed8441ebe7f1", null ]
 ];

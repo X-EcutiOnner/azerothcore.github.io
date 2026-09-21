@@ -1,6 +1,7 @@
 var a15275 =
 [
-    [ "boss_salrammAI", "d1/d69/a15279.html", "d1/d69/a15279" ],
-    [ "boss_salramm", "d8/dd3/a15275.html#a62c629a03f0c7ca7f3bf14b5209342d1", null ],
-    [ "GetAI", "d8/dd3/a15275.html#ab6b400f0d329d4def074d012de47f53d", null ]
+    [ "hyjalJainaAI", "d1/d69/a15279.html", "d1/d69/a15279" ],
+    [ "npc_hyjal_jaina", "d8/dd3/a15275.html#a6616aa6c38818770610259312a392a3f", null ],
+    [ "GetAI", "d8/dd3/a15275.html#ab1891f5a2aacf5d9aeb9377bd92393ed", null ],
+    [ "OnGossipSelect", "d8/dd3/a15275.html#a47853fa317b1a9325fcbe555867139f6", null ]
 ];

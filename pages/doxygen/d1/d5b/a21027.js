@@ -1,11 +1,7 @@
 var a21027 =
 [
-    [ "boss_yoggsaron_lich_king", "d1/d5b/a21027.html#a3c20d6227f0f13d46b9841369d55a43e", null ],
-    [ "NextStep", "d1/d5b/a21027.html#aec4b71c80d6793443145ebe3d1094d1b", null ],
-    [ "Reset", "d1/d5b/a21027.html#a4210fa70a3c22efa213cb6e6b6cd7d24", null ],
-    [ "Say", "d1/d5b/a21027.html#ac7687fe1253701c702cf2c17986727ec", null ],
-    [ "UpdateAI", "d1/d5b/a21027.html#a79a25a561dc2b19cdf18aa105a50ecd9", null ],
-    [ "_checkTimer", "d1/d5b/a21027.html#a196ffc443569494bed79f623dd9cdca3", null ],
-    [ "_running", "d1/d5b/a21027.html#aae9e4b456b2bca4a9b43b98419ec60e0", null ],
-    [ "_step", "d1/d5b/a21027.html#a97244534b8c6a69807388b620df2263f", null ]
+    [ "FilterTargets", "d1/d5b/a21027.html#a582691eca81b6db6d78ca925ad8fb084", null ],
+    [ "PrepareSpellScript", "d1/d5b/a21027.html#a28ce9d2750c79b2b0061b00df5ae9e8b", null ],
+    [ "RecalculateDamage", "d1/d5b/a21027.html#a02c1af0414de344056b2375488f23c01", null ],
+    [ "Register", "d1/d5b/a21027.html#a1e030067944878000b731edf456d6bc8", null ]
 ];

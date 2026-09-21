@@ -1,6 +1,10 @@
 var a26271 =
 [
-    [ "HandleEffect", "d4/db2/a26271.html#a41b46d8918b59a1617f383b3eedfe343", null ],
-    [ "PrepareSpellScript", "d4/db2/a26271.html#acfc69e6323292e6c64fbe8d2e10efcdc", null ],
-    [ "Register", "d4/db2/a26271.html#a78f1476ed28eb1e80356dbf3d32918f5", null ]
+    [ "CalcPeriodic", "d4/db2/a26271.html#a6ec300503503fa6f12a48a8494d41edd", null ],
+    [ "Load", "d4/db2/a26271.html#a349827fe659ff3bee0a5dfc677c04825", null ],
+    [ "PrepareAuraScript", "d4/db2/a26271.html#a8c12c4ae3835322602347b654d96a8b7", null ],
+    [ "Register", "d4/db2/a26271.html#aeba6dda1114bc738cddff4d40d48ccd7", null ],
+    [ "Update", "d4/db2/a26271.html#afa9e6eec798c354231b5f95e260c7111", null ],
+    [ "Validate", "d4/db2/a26271.html#adb891e80c5bf15b4a0798aa01a45c9e0", null ],
+    [ "_spell_id", "d4/db2/a26271.html#a2836863ea4bafc73f2adbb9176cbec60", null ]
 ];

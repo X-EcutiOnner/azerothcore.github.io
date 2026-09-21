@@ -1,8 +1,8 @@
 var a22031 =
 [
-    [ "HandleEffectApply", "da/d0f/a22031.html#a8ebf9488a7eed99c3651424754cc95c5", null ],
-    [ "HandleEffectPeriodic", "da/d0f/a22031.html#a183976530ebf604656db12e41449427e", null ],
-    [ "PrepareAuraScript", "da/d0f/a22031.html#a03faa2eda84ac74dcff9a7a6a4e57440", null ],
-    [ "Register", "da/d0f/a22031.html#a76be53d506933d4b3c758578b7c33d5f", null ],
-    [ "_posZ", "da/d0f/a22031.html#a488ded8ff40240fe8fbef1567eb091b9", null ]
+    [ "AfterApply", "da/d0f/a22031.html#a57279552b867251e9d2ee6a4ff5d7914", null ],
+    [ "PeriodicTick", "da/d0f/a22031.html#a2e86aa6efe6ab137926c1dfd1bd26a95", null ],
+    [ "PrepareAuraScript", "da/d0f/a22031.html#a9e1b74bf2d28a367caefdc90c34743c8", null ],
+    [ "Register", "da/d0f/a22031.html#a69eb0ca43a15d4995ad219459c2b39d6", null ],
+    [ "Validate", "da/d0f/a22031.html#a946248656cb755f85dd93fd4d607c9a7", null ]
 ];

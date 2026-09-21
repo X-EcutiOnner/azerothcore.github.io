@@ -1,6 +1,6 @@
 var a11655 =
 [
-    [ "PushQuestToParty", "d7/d93/a11655.html#a3c49c83653ef26f2dcaf5c73c29066e0", null ],
-    [ "Read", "d7/d93/a11655.html#aacb4c91a7fa1cd2c7db6dd9b7825e70c", null ],
-    [ "QuestId", "d7/d93/a11655.html#a0d30347159622093b52d0936d93a63bf", null ]
+    [ "CorpseMapPositionQuery", "d7/d93/a11655.html#a14bfe5f386800785ae3f4f39aea9ea83", null ],
+    [ "Read", "d7/d93/a11655.html#a0adb3889b6bc53646cb54163f7b04a6b", null ],
+    [ "unk", "d7/d93/a11655.html#ab7edc2e1ef196f05aef9ea1c8427f877", null ]
 ];

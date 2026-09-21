@@ -1,6 +1,5 @@
 var a21811 =
 [
-    [ "npc_mindless_ghoulAI", "db/dd4/a21811.html#a4cc0dbd4aa2366115348bc1db273a5e2", null ],
-    [ "CanAIAttack", "db/dd4/a21811.html#a18fbc44ad760a69d952d003622ec75b2", null ],
-    [ "JustDied", "db/dd4/a21811.html#a272067bef6dbab24024f7de990c10b64", null ]
+    [ "npc_steam_powered_auctioneerAI", "db/dd4/a21811.html#a5ef3dfd385ee3e5a49bd5c0e165103fc", null ],
+    [ "CanBeSeen", "db/dd4/a21811.html#a3352588abda326f7c72d0764a3f53370", null ]
 ];

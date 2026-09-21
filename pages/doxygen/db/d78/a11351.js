@@ -1,9 +1,6 @@
 var a11351 =
 [
-    [ "ItemEnchantTimeUpdate", "db/d78/a11351.html#ade76f6fcc5a2f4032ba1f6a10022de53", null ],
-    [ "Write", "db/d78/a11351.html#ade148bd152f0708ed90d549d8f9feb0a", null ],
-    [ "Duration", "db/d78/a11351.html#ad576ce6011716519a70c6e00e0753a49", null ],
-    [ "ItemGuid", "db/d78/a11351.html#aeff05f6bb1235655b81d21a2f7aecdc8", null ],
-    [ "PlayerGuid", "db/d78/a11351.html#a4623875e38909d8b7300e7d9c703b216", null ],
-    [ "Slot", "db/d78/a11351.html#ad8ddb0dfbe2c07385cc2c95a456086b5", null ]
+    [ "SetRaidDifficultyClient", "db/d78/a11351.html#afba49b9e3994eb461ac1b827d0c0fac7", null ],
+    [ "Read", "db/d78/a11351.html#a347a86f33f0c31a1c3279028d7dfc46c", null ],
+    [ "Mode", "db/d78/a11351.html#a445a55f5069f60a184b119c57cfedf9a", null ]
 ];

@@ -1,4 +1,9 @@
 var a15447 =
 [
-    [ "instance_ragefire_chasm_InstanceMapScript", "d5/d17/a15447.html#a4b55a59943c798b203a0a3c811588e7d", null ]
+    [ "boss_chrono_lord_deja", "d5/d17/a15447.html#a85f82d4bde99b7e1d05fba82177916e6", null ],
+    [ "JustDied", "d5/d17/a15447.html#a68eb4941364f9fac121aa3d610d45f48", null ],
+    [ "JustEngagedWith", "d5/d17/a15447.html#ab5324b2993f2fd1ec3290eb962ef6065", null ],
+    [ "KilledUnit", "d5/d17/a15447.html#a02c279fb1cfccd38dc60ba7c610cf859", null ],
+    [ "MoveInLineOfSight", "d5/d17/a15447.html#a535c0c157c60804188ad8c4413c277dd", null ],
+    [ "OwnTalk", "d5/d17/a15447.html#acdef53bd447c30d87bd15af3bf4200bc", null ]
 ];

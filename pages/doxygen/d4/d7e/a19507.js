@@ -1,12 +1,7 @@
 var a19507 =
 [
-    [ "npc_gothik_triggerAI", "d4/d7e/a19507.html#ae45c6de238755eb069e0c182943da58c", null ],
-    [ "DamageTaken", "d4/d7e/a19507.html#ada8e501edfadbb55162532f081a4b48b", null ],
-    [ "EnterEvadeMode", "d4/d7e/a19507.html#aae212c3aecdf82f509ed0bf841f16e59", null ],
-    [ "JustEngagedWith", "d4/d7e/a19507.html#ab5403383f1fcd539cacf975dffbe2817", null ],
-    [ "JustSummoned", "d4/d7e/a19507.html#a35be0135b77a3e62ac8d421910cf0674", null ],
-    [ "SelectRandomSkullPile", "d4/d7e/a19507.html#aeafc63047c9059afdf668b8c22d2937f", null ],
-    [ "SpellHit", "d4/d7e/a19507.html#a18a8135ab0395991afc4896950783ae5", null ],
-    [ "SummonedCreatureDespawn", "d4/d7e/a19507.html#ad7ed092509dd41fddd44a4024c011364", null ],
-    [ "UpdateAI", "d4/d7e/a19507.html#a388a20d6d720f5f44a67073fc40e98b6", null ]
+    [ "OnRemove", "d4/d7e/a19507.html#a4e6a66934a01d01c50208459f6771353", null ],
+    [ "PrepareAuraScript", "d4/d7e/a19507.html#a2320044c6c81a89af0fefd4f90c05bd5", null ],
+    [ "Register", "d4/d7e/a19507.html#a4890d35f2b0889156a437c95e49f528c", null ],
+    [ "Validate", "d4/d7e/a19507.html#a1b90f1288b3b45267edd4da2b3418b21", null ]
 ];

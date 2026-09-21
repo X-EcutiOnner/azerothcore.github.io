@@ -1,6 +1,7 @@
 var a22391 =
 [
-    [ "HandleScript", "d8/d46/a22391.html#abe018ab20f948bf5ddb47a724dfb9553", null ],
-    [ "PrepareSpellScript", "d8/d46/a22391.html#af0f5206d98dbc9de355abbeb03709c05", null ],
-    [ "Register", "d8/d46/a22391.html#a53d9d7de4922ed6509b6036921640352", null ]
+    [ "HandleSendEvent", "d8/d46/a22391.html#afd34935d8ab7d66589ca3c99ba0bfe48", null ],
+    [ "PrepareSpellScript", "d8/d46/a22391.html#af698a946e07235c18c8b785a1f775ec9", null ],
+    [ "Register", "d8/d46/a22391.html#a3f6a7e6265221e9536728256f1ec88c0", null ],
+    [ "Validate", "d8/d46/a22391.html#a72d441fdeb7e2fdc37ab9868f9f8ee04", null ]
 ];

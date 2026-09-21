@@ -1,5 +1,7 @@
 var a28767 =
 [
-    [ "ServerMailReward", "de/d2a/a28767.html#aba48b4c171e8e8a40fca2d3bed6b7f63", null ],
-    [ "OnPlayerLogin", "de/d2a/a28767.html#ada945e805278d54746b6fabaf48b4546", null ]
+    [ "npc_venomhide_hatchlingAI", "d4/d1a/a28771.html", "d4/d1a/a28771" ],
+    [ "npc_venomhide_hatchling", "de/d2a/a28767.html#a4dc217dd5950db7b270b7cce3e594e4d", null ],
+    [ "GetAI", "de/d2a/a28767.html#a96110b752965d751ab7b466c4f67e333", null ],
+    [ "OnGossipHello", "de/d2a/a28767.html#a404d875592b847ddb9f3250c9d954bfc", null ]
 ];

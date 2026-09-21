@@ -1,5 +1,10 @@
 var a29999 =
 [
-    [ "SetUp", "db/dbe/a29999.html#ae940d909b8f828dc9715954b469b6408", null ],
-    [ "_sim", "db/dbe/a29999.html#a5e053e184f84db65e68cd45de684cb61", null ]
+    [ "FakeAura", "db/dbe/a29999.html#a72674203b5aa768aaec46bc824c66ad8", null ],
+    [ "IsExpired", "db/dbe/a29999.html#af55fe68d7548abe43fbbe391163dcbf4", null ],
+    [ "IsRemoved", "db/dbe/a29999.html#ad4b4a547d5596ad39d46125ded1c0863", null ],
+    [ "expired", "db/dbe/a29999.html#a9de4d15b90ea8e89a5a3dd95122f5ff9", null ],
+    [ "removed", "db/dbe/a29999.html#a0ea41ca4e60c4c56228687ca6038695f", null ],
+    [ "spellId", "db/dbe/a29999.html#ab08e902dae2b24d869c2befe1e9a74a2", null ],
+    [ "updated", "db/dbe/a29999.html#aacbde7f93cb160ed272a4b3ddd18f1ee", null ]
 ];

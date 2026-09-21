@@ -1,6 +1,8 @@
 var a19027 =
 [
-    [ "npc_rotting_frost_giantAI", "d0/def/a19031.html", "d0/def/a19031" ],
-    [ "npc_rotting_frost_giant", "d9/da5/a19027.html#ad4440216e11a00d97af43dc5f3957e95", null ],
-    [ "GetAI", "d9/da5/a19027.html#aabc388b3690f2d03e903c7f480d52842", null ]
+    [ "npc_suppresserAI", "d9/da5/a19027.html#a5787ec6eadae1fc23b84129933ea14e8", null ],
+    [ "AttackStart", "d9/da5/a19027.html#ae36105de1df1dd9841332d9a8e7799be", null ],
+    [ "IsSummonedBy", "d9/da5/a19027.html#a35ec340b2d02a14707fc353428b1298d", null ],
+    [ "UpdateAI", "d9/da5/a19027.html#a1443e8311b6e2d61d6f9abd2e5f40793", null ],
+    [ "_instance", "d9/da5/a19027.html#a3e171216b2d53e00f8e504f47759d9a6", null ]
 ];

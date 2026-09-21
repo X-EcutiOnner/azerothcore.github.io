@@ -1,6 +1,6 @@
 var a14611 =
 [
-    [ "LaunchHit", "df/dcf/a14611.html#a10bb54a1a0cd992e9e944870684f3a21", null ],
-    [ "PrepareSpellScript", "df/dcf/a14611.html#a95e85ecfcc5b72c250a0bc184b1d32a7", null ],
-    [ "Register", "df/dcf/a14611.html#a19c6111ea0c3506ddc2d8459c192f04f", null ]
+    [ "HandleOnHit", "df/dcf/a14611.html#a1f133ab9e85f80c225276bf744da6898", null ],
+    [ "PrepareSpellScript", "df/dcf/a14611.html#ae554f8be36eabc6d23f823e6d153be2b", null ],
+    [ "Register", "df/dcf/a14611.html#a1063358ed71ded8454f35f43442354ab", null ]
 ];

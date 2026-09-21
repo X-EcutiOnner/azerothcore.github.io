@@ -1,7 +1,8 @@
 var a26807 =
 [
-    [ "HandleProc", "df/d60/a26807.html#a342163af13b2282b97792972da490f98", null ],
-    [ "PrepareAuraScript", "df/d60/a26807.html#a2d72ba251ca9ccfd1e2d84a23c539719", null ],
-    [ "Register", "df/d60/a26807.html#ac474d006203de8eceb93e50c6430e603", null ],
-    [ "Validate", "df/d60/a26807.html#a831d13676b4ef44f44cb17ba077b7943", null ]
+    [ "HandleEffectApply", "df/d60/a26807.html#a1182bd57a03ad093b53e3864bdff127c", null ],
+    [ "HandleEffectRemove", "df/d60/a26807.html#a6374ece2a04c3d5bc81bb31cc5bc78e1", null ],
+    [ "PrepareAuraScript", "df/d60/a26807.html#acbe4a19f4f2502fc1ae4e13a2c8906ab", null ],
+    [ "Register", "df/d60/a26807.html#ac3a9249da3071736026d66a9551ca16d", null ],
+    [ "Validate", "df/d60/a26807.html#a0ebac0cb6933ac4c562c3c91e06614dd", null ]
 ];

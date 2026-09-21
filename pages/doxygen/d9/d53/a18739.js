@@ -1,7 +1,8 @@
 var a18739 =
 [
-    [ "OnPeriodic", "d9/d53/a18739.html#a9635bf496ee3098e412ba7de633250b3", null ],
-    [ "PrepareAuraScript", "d9/d53/a18739.html#accb775d3a9c4ae40f5d8644c366ec39e", null ],
-    [ "Register", "d9/d53/a18739.html#aa44bb97a0d3af32b90a133582f064b0e", null ],
-    [ "Validate", "d9/d53/a18739.html#a5675fef373315edd34d096bb91c733b0", null ]
+    [ "FilterTargets", "d9/d53/a18739.html#a242fa53c2da9ac557623281bccf2af92", null ],
+    [ "HandleSendEvent", "d9/d53/a18739.html#a6120e057e2ee39d34eaeab79782add8d", null ],
+    [ "Load", "d9/d53/a18739.html#af48cdbf87d61cf6d8392f65ae4c9b18a", null ],
+    [ "PrepareSpellScript", "d9/d53/a18739.html#a0846e73f467d9c3a63b5e9a5d795aa37", null ],
+    [ "Register", "d9/d53/a18739.html#ae83950dfc35f7c1e64806d6ec273083c", null ]
 ];

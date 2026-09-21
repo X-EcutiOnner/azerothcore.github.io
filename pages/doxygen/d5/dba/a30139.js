@@ -1,7 +1,6 @@
 var a30139 =
 [
-    [ "asyncId", "d5/dba/a30139.html#afd18849875b4562e4a532903676ce25d", null ],
-    [ "flags", "d5/dba/a30139.html#a9b9c3cec4acbd87911aa047dd52ae443", null ],
-    [ "offsMCNK", "d5/dba/a30139.html#a063c5dc62c44038e882340221bf8228a", null ],
-    [ "size", "d5/dba/a30139.html#a47a5eeb595d53de009651ae02d2b416d", null ]
+    [ "CreateArmorProcConfig", "d5/dba/a30139.html#aae16272567352cb8730edcba3908a08f", null ],
+    [ "CreateWeaponProcConfig", "d5/dba/a30139.html#adf86db9c66739b705bde4daf1fd0efd1", null ],
+    [ "SetUp", "d5/dba/a30139.html#aaf1d0e6aed255fca2ec0b37e75e9b231", null ]
 ];

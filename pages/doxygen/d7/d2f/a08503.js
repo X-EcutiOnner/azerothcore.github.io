@@ -1,5 +1,5 @@
 var a08503 =
 [
-    [ "QuestIcon", "d7/d2f/a08503.html#ad8bbfe08780eaa68a8205e2634d211b8", null ],
-    [ "QuestId", "d7/d2f/a08503.html#a522a4fcb28daec3e1a620b6f02c3d8fe", null ]
+    [ "Name", "d7/d2f/a08503.html#aa971d38e5169f2b7b610cf6cf0aec928", null ],
+    [ "Title", "d7/d2f/a08503.html#a344cbaef4846d4c9c76e1d783dd2b4fc", null ]
 ];

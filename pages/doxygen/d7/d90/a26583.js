@@ -1,7 +1,8 @@
 var a26583 =
 [
-    [ "CalculateSpellAmount", "d7/d90/a26583.html#ae99e08e78cf8192ea2d6210432d7a72d", null ],
-    [ "CheckCast", "d7/d90/a26583.html#af043f7ee0f80baf667e64225effd57d1", null ],
-    [ "PrepareSpellScript", "d7/d90/a26583.html#a233ac4020722078d865cf980d7fa76cf", null ],
-    [ "Register", "d7/d90/a26583.html#a3648ecd94430e21dd014795156c1eb98", null ]
+    [ "HandleProc", "d7/d90/a26583.html#ad470545a3c3f1ffaad2d895f122522e1", null ],
+    [ "OnRemove", "d7/d90/a26583.html#adc9b9b988aa1342c34a49622f54d8484", null ],
+    [ "PrepareAuraScript", "d7/d90/a26583.html#ab3008bcdeb90825213d2352812ff21d5", null ],
+    [ "Register", "d7/d90/a26583.html#a9ee52d89eeff45a4f9df1982da6f7d78", null ],
+    [ "Validate", "d7/d90/a26583.html#a0ea66a92b78e59b50181b54ab285b9db", null ]
 ];

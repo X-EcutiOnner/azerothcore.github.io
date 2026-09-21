@@ -1,13 +1,13 @@
 var a14303 =
 [
-    [ "npc_daphne_stilwellAI", "d1/dd3/a14303.html#ac2e9f940bc64a70ff8a386e4f483a65e", null ],
-    [ "AttackStart", "d1/dd3/a14303.html#a30056a45adb91a12cf7bcc4e9f0b2d54", null ],
-    [ "JustSummoned", "d1/dd3/a14303.html#ae56554d30e9de7644efab891555c57e0", null ],
-    [ "Reset", "d1/dd3/a14303.html#ae6f0b271478aecf7fd1f3e1c733d77f0", null ],
-    [ "SummonedCreatureDies", "d1/dd3/a14303.html#aa6fdcf9e09031522d342b603b4c70aed", null ],
-    [ "Update", "d1/dd3/a14303.html#a4099d75c4a6bca1525781a5753ef9972", null ],
-    [ "WaypointReached", "d1/dd3/a14303.html#a1035eb0a1696730d8304593b5fb079e4", null ],
-    [ "WaypointReached", "d1/dd3/a14303.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "summons", "d1/dd3/a14303.html#a0cbf5aaf1cb2f234e725074de0acc7e6", null ],
-    [ "textCounter", "d1/dd3/a14303.html#a62ab24169c1b7c3028ab33303b217f63", null ]
+    [ "npc_lady_sylvanas_windrunnerAI", "d1/dd3/a14303.html#ad6eefe9a14ce64b12b65a22c3ebb4db0", null ],
+    [ "JustDied", "d1/dd3/a14303.html#a410c84a1fcf50b50e6ebc340c1b58939", null ],
+    [ "JustEngagedWith", "d1/dd3/a14303.html#a36324482fb264cc3cacf11c3ed542eee", null ],
+    [ "JustSummoned", "d1/dd3/a14303.html#a456ee6f4b5b8cdd79647a42185265be8", null ],
+    [ "Reset", "d1/dd3/a14303.html#ad4c6cb31a8d3dc280e689d5d29e27479", null ],
+    [ "SetGUID", "d1/dd3/a14303.html#a10ecf7bf7551be186e1c00390eaad203", null ],
+    [ "UpdateAI", "d1/dd3/a14303.html#ab704e4f3af8aa734910efd259db31407", null ],
+    [ "_events", "d1/dd3/a14303.html#a621d4db4fac3a7c3d08defa2a8ed06d0", null ],
+    [ "LamentEvent", "d1/dd3/a14303.html#ace9e901a965665e0f97cb9646af308aa", null ],
+    [ "playerGUID", "d1/dd3/a14303.html#aa125ab2a33dbf9f1d40f238e7d45000d", null ]
 ];

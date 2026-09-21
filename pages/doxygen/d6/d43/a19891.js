@@ -1,12 +1,11 @@
 var a19891 =
 [
-    [ "npc_oculus_drakeAI", "d6/d43/a19891.html#a214d9b77a5653f1a5f60106081eaf683", null ],
-    [ "IsSummonedBy", "d6/d43/a19891.html#a151e59f7b6032d5ed62f9f0ed2923f40", null ],
-    [ "MovementInform", "d6/d43/a19891.html#a5f6de11b9cd3c0d6593d7d249cb59555", null ],
-    [ "PassengerBoarded", "d6/d43/a19891.html#a5efc6f166b5fd77fa329b17e1e143379", null ],
-    [ "SpellHitTarget", "d6/d43/a19891.html#aebb8fb75777d7fc3ddc69dc558b08f7e", null ],
-    [ "UpdateAI", "d6/d43/a19891.html#a8ecaebfcf1c1fbe8ed263be6148ccef6", null ],
-    [ "despawnTimer", "d6/d43/a19891.html#a560dc0936a78267a4036b209c6718732", null ],
-    [ "JustSummoned", "d6/d43/a19891.html#a8b656a464525e881944e72e9486b0eb9", null ],
-    [ "m_pInstance", "d6/d43/a19891.html#a4df6c06ec857086f7a2747cab2c4703c", null ]
+    [ "boss_ormorok", "d6/d43/a19891.html#aa4862339ed41d5c593a93ef605d85a39", null ],
+    [ "JustDied", "d6/d43/a19891.html#af84a958b2f16b082fe3b2e1dc70dd8fa", null ],
+    [ "JustEngagedWith", "d6/d43/a19891.html#a22ac203db7c3b445e653798743e48764", null ],
+    [ "JustSummoned", "d6/d43/a19891.html#acc149b49e6658454610a7871e3c82b5e", null ],
+    [ "KilledUnit", "d6/d43/a19891.html#a65a1512bad7c773a0aede6ba2cb9700e", null ],
+    [ "Reset", "d6/d43/a19891.html#a88a1c308790e45a6fa09f0d740116f4e", null ],
+    [ "UpdateAI", "d6/d43/a19891.html#a15f2e30fa1780aadba6673f6537fc16f", null ],
+    [ "_spikesCount", "d6/d43/a19891.html#a29cc8c3db5ba3d528ea873d66be619cd", null ]
 ];

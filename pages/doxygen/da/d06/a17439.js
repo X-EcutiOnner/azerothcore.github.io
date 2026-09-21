@@ -1,8 +1,10 @@
 var a17439 =
 [
-    [ "boss_krickAI", "da/d06/a17439.html#ac085bae551fd4d9e48b05481a86cca9f", null ],
-    [ "DoAction", "da/d06/a17439.html#ace248881cb71c1e91f33ff93489b6f3f", null ],
-    [ "UpdateAI", "da/d06/a17439.html#aea8dd89c8e4de1bebd94a26ead852119", null ],
-    [ "events", "da/d06/a17439.html#a75349e2fc35832e7944fa4f772380baa", null ],
-    [ "pInstance", "da/d06/a17439.html#aecc2cdee32c4e4fa14ecaeca9b3eb65f", null ]
+    [ "boss_frostsworn_general", "da/d06/a17439.html#adae1b1d60e78a33b875ac08312a454cf", null ],
+    [ "EnterEvadeMode", "da/d06/a17439.html#a20949ffa7c4a308fbcafbdec6602e623", null ],
+    [ "JustDied", "da/d06/a17439.html#a14741cafce857fa819418ec3208c62fc", null ],
+    [ "JustEngagedWith", "da/d06/a17439.html#aaeb45f61ee90fc231e893bc83a01e2ff", null ],
+    [ "Reset", "da/d06/a17439.html#a1576562e5fe2247235b152029aa8edce", null ],
+    [ "UpdateAI", "da/d06/a17439.html#ab1378c39cdfeccda862a4ccc093ffd97", null ],
+    [ "instance", "da/d06/a17439.html#ab04347cee4d7542171d622cfde936cb1", null ]
 ];

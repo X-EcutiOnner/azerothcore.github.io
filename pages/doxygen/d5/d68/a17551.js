@@ -1,6 +1,15 @@
 var a17551 =
 [
-    [ "HandleDummy", "d5/d68/a17551.html#a5b56eabdba4e6c9e23fe5a40b20417fe", null ],
-    [ "PrepareSpellScript", "d5/d68/a17551.html#a6c53fed364a1a31cd170102d4d6878b1", null ],
-    [ "Register", "d5/d68/a17551.html#ac49eaa96ebb95a38f54a9bb6321f5585", null ]
+    [ "npc_pos_leaderAI", "d5/d68/a17551.html#a21973bccde394785f8619df7cae5270b", null ],
+    [ "AttackStart", "d5/d68/a17551.html#a6dc4161441752b8ea9baab642d6a0684", null ],
+    [ "JustSummoned", "d5/d68/a17551.html#a03bfcd0ea38073ff8481188d1b570553", null ],
+    [ "MoveInLineOfSight", "d5/d68/a17551.html#ad28f607b313f7729649261969912eba5", null ],
+    [ "Reset", "d5/d68/a17551.html#aee23a2835b84ac060a29b41c10116904", null ],
+    [ "SetData", "d5/d68/a17551.html#a2b49d5045e0d1e25e7a05b1e3ce65b4f", null ],
+    [ "SummonedCreatureDespawn", "d5/d68/a17551.html#a9a35459cf7b83c9f0afc557d1b0b40e7", null ],
+    [ "UpdateAI", "d5/d68/a17551.html#a1507ab4bdade501cf92f843cec20842d", null ],
+    [ "counter", "d5/d68/a17551.html#a7012a08c6409a40646dcd91a47eb6886", null ],
+    [ "events", "d5/d68/a17551.html#a7ea570e98c7a70ae604861c2166eb429", null ],
+    [ "pInstance", "d5/d68/a17551.html#a1ba3692738d6bd474d54fe8910a7f316", null ],
+    [ "summons", "d5/d68/a17551.html#a44b5ee694d96644da91167c7d793eeb3", null ]
 ];

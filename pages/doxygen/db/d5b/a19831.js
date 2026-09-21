@@ -1,6 +1,8 @@
 var a19831 =
 [
-    [ "boss_drakosAI", "d0/d93/a19835.html", "d0/d93/a19835" ],
-    [ "boss_drakos", "db/d5b/a19831.html#aa70ae2809af4f24eea0b83b42d695448", null ],
-    [ "GetAI", "db/d5b/a19831.html#a16dcc7f9da254d0bddc19394a1cd4ab0", null ]
+    [ "Load", "db/d5b/a19831.html#af8ef90a44a5405e58dbb3003642c078b", null ],
+    [ "PrepareSpellScript", "db/d5b/a19831.html#a40649371440d62e4ba8af1b077880d0b", null ],
+    [ "Register", "db/d5b/a19831.html#ae2e6dbec0ace878477b6024e45d8dac0", null ],
+    [ "SendThreeTargets", "db/d5b/a19831.html#ab16b83839ce9136da84691640020f846", null ],
+    [ "Validate", "db/d5b/a19831.html#a27686bfd0d6029cc4667738b0af4bec4", null ]
 ];

@@ -1,5 +1,5 @@
 var a28323 =
 [
-    [ "go_tablet_of_the_seven", "da/d59/a28323.html#aa5bcd36c6d0250571f6721f71864ab59", null ],
-    [ "OnGossipHello", "da/d59/a28323.html#a54d27dc2a52d69d8fd9605c358a855fc", null ]
+    [ "go_ethereum_stasis", "da/d59/a28323.html#aaa8fc5733678a17a37c60c9853f91e62", null ],
+    [ "OnGossipHello", "da/d59/a28323.html#ac36da8dccbebcaee605a878df3904c60", null ]
 ];

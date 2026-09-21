@@ -1,6 +1,7 @@
 var a17903 =
 [
-    [ "npc_icc_blood_beastAI", "da/dd8/a17907.html", "da/dd8/a17907" ],
-    [ "npc_icc_blood_beast", "d1/dc5/a17903.html#ac6de0dfe16f39d192f1e49d3ab444d5a", null ],
-    [ "GetAI", "d1/dc5/a17903.html#adf18d561b5d1c4c89e7f2ccb10f99492", null ]
+    [ "OnProc", "d1/dc5/a17903.html#a5b6e96abb900da33657cdbbd137138e3", null ],
+    [ "PrepareAuraScript", "d1/dc5/a17903.html#a5502476536a923e77af67c4bbcf005e3", null ],
+    [ "Register", "d1/dc5/a17903.html#aca08edf219504156d6157c95702bb815", null ],
+    [ "Validate", "d1/dc5/a17903.html#a52b1231f37e8b3d810614365659a98b6", null ]
 ];

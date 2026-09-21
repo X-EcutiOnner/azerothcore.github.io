@@ -1,6 +1,8 @@
 var a22231 =
 [
-    [ "PrepareSpellScript", "da/da1/a22231.html#aa26d34552b04dca1db32390e769ff4dc", null ],
-    [ "RecalculateDamage", "da/da1/a22231.html#a1b3458fc865d320050fae1ffeb4c7b5d", null ],
-    [ "Register", "da/da1/a22231.html#a58d28dea272b1237cf60efb45d67765d", null ]
+    [ "npc_llod_genericAI", "da/da1/a22231.html#ac75d85ae4b59416952788102cd1db132", null ],
+    [ "Reset", "da/da1/a22231.html#a15bd7442fef36a551cc8797f7919f57c", null ],
+    [ "UpdateAI", "da/da1/a22231.html#aa7dce553fb699127f63281b2c47a2f02", null ],
+    [ "attackTimer", "da/da1/a22231.html#a28a6e700d24995e477e7e7c4cc8b5d68", null ],
+    [ "summonTimer", "da/da1/a22231.html#aeeeef545aee565c14d86d8587923c677", null ]
 ];

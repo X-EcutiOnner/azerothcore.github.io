@@ -1,13 +1,16 @@
 var a20231 =
 [
-    [ "boss_flame_leviathan_seat", "d5/d6a/a20231.html#a2fc2adc846b2939cf633bf47b4307896", null ],
-    [ "AttackStart", "d5/d6a/a20231.html#a88d8a972e5f079c0111c0f189d599e8c", null ],
-    [ "EnterEvadeMode", "d5/d6a/a20231.html#ac0f5d43d4be0773fdae62d0ab433713f", null ],
-    [ "PassengerBoarded", "d5/d6a/a20231.html#a490fdbcb665f37f0b40a35a6cebe77cf", null ],
-    [ "Reset", "d5/d6a/a20231.html#aec34fec1a6a3857ea7895a2762bf82d0", null ],
-    [ "UpdateAI", "d5/d6a/a20231.html#a303c50b5684410013f95b0202ea33c8e", null ],
-    [ "_despawnCheckTimer", "d5/d6a/a20231.html#ad902023776db0a5d846168167974f694", null ],
-    [ "_pending10ManDespawn", "d5/d6a/a20231.html#a147da457d02a4977439c635fb150f005", null ],
-    [ "DESPAWN_DELAY_10MAN", "d5/d6a/a20231.html#a1bda734e377ce71dd3c7f1257ab89d20", null ],
-    [ "vehicle", "d5/d6a/a20231.html#a9772b52283f16120dbefb5d218844c38", null ]
+    [ "boss_steelbreaker", "d5/d6a/a20231.html#a724e315f9508b02cadc5560f6525afc7", null ],
+    [ "DoAction", "d5/d6a/a20231.html#a2f945dac566b3d24009b486cb4e37cd3", null ],
+    [ "JustDied", "d5/d6a/a20231.html#af69b423bd844f946dede44e136344077", null ],
+    [ "JustEngagedWith", "d5/d6a/a20231.html#afa14e6571e7772d9c978d45a94a40afa", null ],
+    [ "JustReachedHome", "d5/d6a/a20231.html#ad73d9abcfdf9a2fcf3345a024db1f653", null ],
+    [ "KilledUnit", "d5/d6a/a20231.html#a153f72f75fc0758591b418fe82c2628d", null ],
+    [ "Reset", "d5/d6a/a20231.html#a66e5f9c30d30ed7dc42b8ae3ef4f46b6", null ],
+    [ "SpellHit", "d5/d6a/a20231.html#adf32e50b2fc6f8d373933cc0295c7d54", null ],
+    [ "UpdateAI", "d5/d6a/a20231.html#ad96ac1dcde103ddf71b2ded15e757834", null ],
+    [ "UpdatePhase", "d5/d6a/a20231.html#a42ab7be0d80ece19dd726ed29d425183", null ],
+    [ "_phase", "d5/d6a/a20231.html#a1b94dfb3b76278475aae50720a2e85c0", null ],
+    [ "events", "d5/d6a/a20231.html#add48973c02460691e0f32a3ae3897836", null ],
+    [ "pInstance", "d5/d6a/a20231.html#acf1e2229be9f931d0825ce252116b499", null ]
 ];

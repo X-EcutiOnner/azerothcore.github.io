@@ -1,6 +1,7 @@
 var a17523 =
 [
-    [ "npc_pos_freed_slaveAI", "d5/de2/a17527.html", "d5/de2/a17527" ],
-    [ "npc_pos_freed_slave", "d4/dc3/a17523.html#a19fd79279646cb1c49c04056636615fc", null ],
-    [ "GetAI", "d4/dc3/a17523.html#ac798c2584d48892162cc2bc779701e16", null ]
+    [ "HandlePeriodicTick", "d4/dc3/a17523.html#ac8b3f1a826e3491d4315983a89d23d2e", null ],
+    [ "PrepareAuraScript", "d4/dc3/a17523.html#ad54c3014195c5b848ab1f9cc978f72b3", null ],
+    [ "Register", "d4/dc3/a17523.html#af8e1ee8ddf7ed8290eb71fb7697428fb", null ],
+    [ "Validate", "d4/dc3/a17523.html#a6de2140f17790b63314f653b7dd0ddd3", null ]
 ];

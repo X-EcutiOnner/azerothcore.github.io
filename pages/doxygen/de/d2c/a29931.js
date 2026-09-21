@@ -1,9 +1,9 @@
 var a29931 =
 [
-    [ "CountQuestOnCreature", "de/d2c/a29931.html#a4bf05b65d940e61567667d0939e177e5", null ],
-    [ "SetUp", "de/d2c/a29931.html#a4788953a58bbea222cf59662b4427e72", null ],
-    [ "SimulateReload", "de/d2c/a29931.html#a8eab2618428296763f8fd3d2159ce7a3", null ],
-    [ "SimulateSpawn1Object", "de/d2c/a29931.html#a82c53349ba3754a75b2c1570fe413d09", null ],
-    [ "TearDown", "de/d2c/a29931.html#acf6a952f91cf2eaeea693aaf761cde91", null ],
-    [ "creatureQuestMap", "de/d2c/a29931.html#a7bdf871c2e47b693c1ede58c1f596ae1", null ]
+    [ "SetUp", "de/d2c/a29931.html#a4347f48d02c94f49010af69139906e55", null ],
+    [ "TearDown", "de/d2c/a29931.html#a9bd0ab9c01db6f9fc6538c5aad454ac1", null ],
+    [ "PERM_DANGLING", "de/d2c/a29931.html#afa69b7fc315147806018e36f01971509", null ],
+    [ "PERM_VALID", "de/d2c/a29931.html#a77dfab95ef63118a33e2c2aae57c8578", null ],
+    [ "rbacData", "de/d2c/a29931.html#a30f37bd4d7e16a92551224c524cb5ca4", null ],
+    [ "ROLE_WITH_DANGLING", "de/d2c/a29931.html#aec146baa1151e73bac2686a4b6aacc06", null ]
 ];

@@ -1,6 +1,6 @@
 var a20183 =
 [
-    [ "achievement_assembly_of_iron", "df/dd7/a20183.html#ae90d193b039d88ce38108b6617b5b8e9", null ],
-    [ "OnCheck", "df/dd7/a20183.html#ae66b3e708b38bfe685f9d28c14c2d3f5", null ],
-    [ "_targetEntry", "df/dd7/a20183.html#a20e8938ff30b18737fb96cf0277b5680", null ]
+    [ "go_celestial_planetarium_accessAI", "d6/df9/a20187.html", "d6/df9/a20187" ],
+    [ "go_celestial_planetarium_access", "df/dd7/a20183.html#a20b7c895dd0fc2cb37bf3c113bf91278", null ],
+    [ "GetAI", "df/dd7/a20183.html#a4fc9ac64f7dceefbdda02297f7dfc42b", null ]
 ];

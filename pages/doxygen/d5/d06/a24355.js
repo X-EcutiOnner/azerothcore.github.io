@@ -1,7 +1,5 @@
 var a24355 =
 [
-    [ "HandleEffectRemove", "d5/d06/a24355.html#a63c0fede080591df9ebf8b3de2cd2fc3", null ],
-    [ "PrepareAuraScript", "d5/d06/a24355.html#a19ce53b5731b0789896612fa55f38849", null ],
-    [ "Register", "d5/d06/a24355.html#a7d60c5b18bbf77a18ab683a101782ada", null ],
-    [ "Validate", "d5/d06/a24355.html#ae3c3c1bce38882cd5de32295813b1a47", null ]
+    [ "npc_karynaku", "d5/d06/a24355.html#aa6a3cb409cdbc990f1eee4137c7519d2", null ],
+    [ "OnQuestAccept", "d5/d06/a24355.html#a4cae1950fe3b7b4ae6f2e6691800ec47", null ]
 ];

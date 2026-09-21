@@ -1,5 +1,9 @@
 var a08303 =
 [
-    [ "number", "dc/deb/a08303.html#af111e542d7a276e27d2b14757293bc42", null ],
-    [ "offset_elements", "dc/deb/a08303.html#ad633b2e9afc82762c6b43675844f8fea", null ]
+    [ "PvPCombatReference", "dc/deb/a08303.html#a1439519e8f8665e345cd1bd3d28031aa", null ],
+    [ "RefreshTimer", "dc/deb/a08303.html#ad8d05318d995aca2196c06768695b48e", null ],
+    [ "Update", "dc/deb/a08303.html#a88d3291f9e29fa72f610b6c2a224fa4a", null ],
+    [ "CombatManager", "dc/deb/a08303.html#ae013513b37e5f4a92a90f8c59f9291c1", null ],
+    [ "_combatTimer", "dc/deb/a08303.html#accd9e37fa63f110daebb0086027f8ab6", null ],
+    [ "PVP_COMBAT_TIMEOUT", "dc/deb/a08303.html#ae7026b02e2701be7a84d6da26bd3a432", null ]
 ];

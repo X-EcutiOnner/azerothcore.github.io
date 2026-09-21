@@ -1,12 +1,8 @@
 var a13427 =
 [
-    [ "boss_felblood_kaelthas", "d0/dfd/a13427.html#a85abfb330ccc1fed5b9dc851d780f386", null ],
-    [ "DamageTaken", "d0/dfd/a13427.html#ae29fb38a2f7dcf778b4443bc56f10e84", null ],
-    [ "DoAction", "d0/dfd/a13427.html#a984dcde8d78adbce00e307eb3c4d32b8", null ],
-    [ "GravityLapseSequence", "d0/dfd/a13427.html#aae902304d9e7ef27bdb9bde8cdf85605", null ],
-    [ "JustDied", "d0/dfd/a13427.html#affea155d0eb2b4dda1b9dc8847fc2444", null ],
-    [ "JustEngagedWith", "d0/dfd/a13427.html#a1d8806d7813d11aa61e043e420852218", null ],
-    [ "LapseAction", "d0/dfd/a13427.html#ae1ac5b5da2a548f5b1dc1bdffb303b25", null ],
-    [ "Reset", "d0/dfd/a13427.html#abde9a26abd8eef0b8cd25cbd6522d899", null ],
-    [ "_gravityLapseCounter", "d0/dfd/a13427.html#ab4e884a341fa25a555c160f6978861fc", null ]
+    [ "npc_cyclone", "d0/dfd/a13427.html#afdc4f98b031f832702929c6a7f192ab5", null ],
+    [ "JustEngagedWith", "d0/dfd/a13427.html#a61d0710868c91f707643a436c0d79485", null ],
+    [ "Reset", "d0/dfd/a13427.html#a60b74a96fccc12333b9dc3ed67a54637", null ],
+    [ "UpdateAI", "d0/dfd/a13427.html#a224795b4ea46fc2c9346e361410f0c0f", null ],
+    [ "_scheduler", "d0/dfd/a13427.html#a77f4d42ff45e0565f2d9ee5b27787ffd", null ]
 ];

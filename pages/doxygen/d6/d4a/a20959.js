@@ -1,5 +1,6 @@
 var a20959 =
 [
-    [ "achievement_heartbreaker", "d6/d4a/a20959.html#ad81925fc32d7cf914b7be44aabe49b39", null ],
-    [ "OnCheck", "d6/d4a/a20959.html#ab3a2539ae5dc74743beb0dc0ea0147af", null ]
+    [ "PrepareSpellScript", "d6/d4a/a20959.html#a3c8337cc17ec735fc97f5195a1e820b6", null ],
+    [ "Register", "d6/d4a/a20959.html#ae0cc2794b1d2b8de442dbf30f7da8883", null ],
+    [ "SelectPillar", "d6/d4a/a20959.html#a2eaa34f9f3b3d255fc5091fb5b48f60a", null ]
 ];

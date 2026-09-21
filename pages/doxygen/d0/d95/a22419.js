@@ -1,7 +1,11 @@
 var a22419 =
 [
-    [ "HandleScript", "d0/d95/a22419.html#abd4542dc4fd3e21a25c5c3fe5cc6e534", null ],
-    [ "PrepareSpellScript", "d0/d95/a22419.html#a8400fb2e0955444aee21b994d78b78c3", null ],
-    [ "Register", "d0/d95/a22419.html#ae3b2b7d9745ed8b83268a8f57e66eb31", null ],
-    [ "Validate", "d0/d95/a22419.html#aa9c2280cbb38db2620db9869e4959153", null ]
+    [ "npc_iron_watcherAI", "d0/d95/a22419.html#a5f0c3d759dfba81cb2010d2a0b479909", null ],
+    [ "MovementInform", "d0/d95/a22419.html#aaf329f0160efa778abdebf86b1cf230b", null ],
+    [ "Reset", "d0/d95/a22419.html#a878f26cd41ccb9d777f9db00e2e30568", null ],
+    [ "SpellHit", "d0/d95/a22419.html#afce7cebdb4a49d9e5618ac211b235c6b", null ],
+    [ "UpdateAI", "d0/d95/a22419.html#a50391c9950fbbaf170600f13bab1e6bb", null ],
+    [ "charging", "d0/d95/a22419.html#af5be6fc6d7d234cfd2ac78f636b0ad7c", null ],
+    [ "hpTimer", "d0/d95/a22419.html#afcbb113387345361baf0351a19e6eb1d", null ],
+    [ "spellTimer", "d0/d95/a22419.html#a9bcd8d80b0a74c7abf0fc8b3bb32aa30", null ]
 ];

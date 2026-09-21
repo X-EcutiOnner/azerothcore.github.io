@@ -1,9 +1,9 @@
 var a27095 =
 [
-    [ "HandleAfterCast", "d0/d2b/a27095.html#ac08e632064c407346649f525d030d335", null ],
-    [ "HandleDummy", "d0/d2b/a27095.html#a9c1dadd5a3e2e039b50a414ac589ebf4", null ],
-    [ "Load", "d0/d2b/a27095.html#a177525c755b036a79263c0fa6fa4082e", null ],
-    [ "PrepareSpellScript", "d0/d2b/a27095.html#aed99b07a53068b19bddb4daff3449a52", null ],
-    [ "Register", "d0/d2b/a27095.html#a946e56a325d83656d9b43af80d065e45", null ],
-    [ "_triggerSpellId", "d0/d2b/a27095.html#a6697a22b684784853cb1999d41fcaaa7", null ]
+    [ "CheckProcDummy", "d0/d2b/a27095.html#ae4e6d0683039ca5e8ff1877248048b3b", null ],
+    [ "CheckProcTriggerSpell", "d0/d2b/a27095.html#affbff48ab9421bda51b3a5781188546d", null ],
+    [ "HandleProcDummy", "d0/d2b/a27095.html#a0113a45bd4c28d1769df7b675de697ed", null ],
+    [ "PrepareAuraScript", "d0/d2b/a27095.html#af7d9ac7e014bbda32275bb584f5e2660", null ],
+    [ "Register", "d0/d2b/a27095.html#aa575597dab0670e768e20a3a06c6dc0a", null ],
+    [ "Validate", "d0/d2b/a27095.html#a63844728796945e892985720296d0c07", null ]
 ];

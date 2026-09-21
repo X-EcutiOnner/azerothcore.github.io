@@ -1,8 +1,6 @@
 var a25523 =
 [
-    [ "HandleApply", "d9/d71/a25523.html#af20f30fe2bfc7a370b166a6200b44ca9", null ],
-    [ "OnPeriodic", "d9/d71/a25523.html#a6b3223ef23854f22b9a3baba0d42cb11", null ],
-    [ "PrepareAuraScript", "d9/d71/a25523.html#a344d1a92623865876174c0e88ce8ab4b", null ],
-    [ "Register", "d9/d71/a25523.html#a352ff0e85eee6e51e9f2eea5cdd9108c", null ],
-    [ "Validate", "d9/d71/a25523.html#ac4fd8fdde53f947082b23852ce149ea9", null ]
+    [ "HandleScript", "d9/d71/a25523.html#a1055ce8e5cbcc9d475bd9dab1f99cf92", null ],
+    [ "PrepareSpellScript", "d9/d71/a25523.html#a460823e5ad006c08d5b6378b7df279f0", null ],
+    [ "Register", "d9/d71/a25523.html#a7099938c5f14238b5afdadb6d040f931", null ]
 ];

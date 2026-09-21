@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Acore::GameObjectFocusCheck Class Reference</title>
+<title>AzerothCore: Acore::UnitSearcher&lt; Check &gt; Struct Template Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,9 +106,9 @@ $(document).ready(function(){initNavTree('d4/d76/a09723.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d5/d19/a09720.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">Acore::GameObjectFocusCheck Class Reference</div></div>
+  <div class="headertitle"><div class="title">Acore::UnitSearcher&lt; Check &gt; Struct Template Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
@@ -116,40 +116,56 @@ $(document).ready(function(){initNavTree('d4/d76/a09723.html','../../'); initRes
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a06607ffa0ebf51c230f4584632a7444a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d76/a09723.html#a06607ffa0ebf51c230f4584632a7444a">GameObjectFocusCheck</a> (<a class="el" href="../../d5/d74/a09163.html">Unit</a> const *unit, <a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> focusId)</td></tr>
-<tr class="separator:a06607ffa0ebf51c230f4584632a7444a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af5c0b63b8bfe112c9a8a43d7e49e1f7b"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d76/a09723.html#af5c0b63b8bfe112c9a8a43d7e49e1f7b">operator()</a> (<a class="el" href="../../d2/d95/a08583.html">GameObject</a> *go) const</td></tr>
-<tr class="separator:af5c0b63b8bfe112c9a8a43d7e49e1f7b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4c50b4594650d9f3f83a40ac02f1a954"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d76/a09723.html#a4c50b4594650d9f3f83a40ac02f1a954">UnitSearcher</a> (<a class="el" href="../../d1/d83/a08879.html">WorldObject</a> const *searcher, <a class="el" href="../../d9/d33/a09227.html">Unit</a> *&amp;result, Check &amp;check)</td></tr>
+<tr class="separator:a4c50b4594650d9f3f83a40ac02f1a954"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5e419d2cb0de5ae58373e521d3a84ac6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d76/a09723.html#a5e419d2cb0de5ae58373e521d3a84ac6">Visit</a> (<a class="el" href="../../da/d06/a01403.html#ac60ef2e7adf9bc71b50d675b4b74980b">CreatureMapType</a> &amp;m)</td></tr>
+<tr class="separator:a5e419d2cb0de5ae58373e521d3a84ac6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac65516ed337b509ff5c316fb29727854"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d76/a09723.html#ac65516ed337b509ff5c316fb29727854">Visit</a> (<a class="el" href="../../da/d06/a01403.html#ae35a7f6754cf9950d0027369ada820e7">PlayerMapType</a> &amp;m)</td></tr>
+<tr class="separator:ac65516ed337b509ff5c316fb29727854"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4bf8a315ab9464bbc5b0c8cae5c27fed"><td class="memTemplParams" colspan="2">template&lt;class NOT_INTERESTED &gt; </td></tr>
+<tr class="memitem:a4bf8a315ab9464bbc5b0c8cae5c27fed"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d4/d76/a09723.html#a4bf8a315ab9464bbc5b0c8cae5c27fed">Visit</a> (<a class="el" href="../../db/dff/a09583.html">GridRefMgr</a>&lt; NOT_INTERESTED &gt; &amp;)</td></tr>
+<tr class="separator:a4bf8a315ab9464bbc5b0c8cae5c27fed"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
-Private Attributes</h2></td></tr>
-<tr class="memitem:a0afc07e086f5aa3301c2b46a0004213e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/d74/a09163.html">Unit</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d76/a09723.html#a0afc07e086f5aa3301c2b46a0004213e">i_unit</a></td></tr>
-<tr class="separator:a0afc07e086f5aa3301c2b46a0004213e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ace009546c2dcc6dac5de98b3c34152a5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d76/a09723.html#ace009546c2dcc6dac5de98b3c34152a5">i_focusId</a></td></tr>
-<tr class="separator:ace009546c2dcc6dac5de98b3c34152a5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:ab94911f3f275de6a9ce9f15f1169c81c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d76/a09723.html#ab94911f3f275de6a9ce9f15f1169c81c">i_phaseMask</a></td></tr>
+<tr class="separator:ab94911f3f275de6a9ce9f15f1169c81c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3029760131a6f50883246afe2533c062"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d33/a09227.html">Unit</a> *&amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d76/a09723.html#a3029760131a6f50883246afe2533c062">i_object</a></td></tr>
+<tr class="separator:a3029760131a6f50883246afe2533c062"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3618df5a6ae33e76b802eae9cac1e1bd"><td class="memItemLeft" align="right" valign="top">Check &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d76/a09723.html#a3618df5a6ae33e76b802eae9cac1e1bd">i_check</a></td></tr>
+<tr class="separator:a3618df5a6ae33e76b802eae9cac1e1bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a06607ffa0ebf51c230f4584632a7444a" name="a06607ffa0ebf51c230f4584632a7444a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a06607ffa0ebf51c230f4584632a7444a">&#9670;&#160;</a></span>GameObjectFocusCheck()</h2>
+<div class="textblock"><div class="compoundTemplParams">template&lt;class Check&gt;<br />
+struct Acore::UnitSearcher&lt; Check &gt;</div></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a4c50b4594650d9f3f83a40ac02f1a954" name="a4c50b4594650d9f3f83a40ac02f1a954"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4c50b4594650d9f3f83a40ac02f1a954">&#9670;&#160;</a></span>UnitSearcher()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;class Check &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">Acore::GameObjectFocusCheck::GameObjectFocusCheck </td>
+          <td class="memname"><a class="el" href="../../d4/d76/a09723.html">Acore::UnitSearcher</a>&lt; Check &gt;::UnitSearcher </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d5/d74/a09163.html">Unit</a> const *&#160;</td>
-          <td class="paramname"><em>unit</em>, </td>
+          <td class="paramtype"><a class="el" href="../../d1/d83/a08879.html">WorldObject</a> const *&#160;</td>
+          <td class="paramname"><em>searcher</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>focusId</em>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d9/d33/a09227.html">Unit</a> *&amp;&#160;</td>
+          <td class="paramname"><em>result</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Check &amp;&#160;</td>
+          <td class="paramname"><em>check</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -163,28 +179,75 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  682</span>: <a class="code hl_variable" href="../../d4/d76/a09723.html#a0afc07e086f5aa3301c2b46a0004213e">i_unit</a>(unit), <a class="code hl_variable" href="../../d4/d76/a09723.html#ace009546c2dcc6dac5de98b3c34152a5">i_focusId</a>(focusId) {}</div>
-<div class="ttc" id="aa09723_html_a0afc07e086f5aa3301c2b46a0004213e"><div class="ttname"><a href="../../d4/d76/a09723.html#a0afc07e086f5aa3301c2b46a0004213e">Acore::GameObjectFocusCheck::i_unit</a></div><div class="ttdeci">Unit const  * i_unit</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:699</div></div>
-<div class="ttc" id="aa09723_html_ace009546c2dcc6dac5de98b3c34152a5"><div class="ttname"><a href="../../d4/d76/a09723.html#ace009546c2dcc6dac5de98b3c34152a5">Acore::GameObjectFocusCheck::i_focusId</a></div><div class="ttdeci">uint32 i_focusId</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:700</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  418</span>            : <a class="code hl_variable" href="../../d4/d76/a09723.html#ab94911f3f275de6a9ce9f15f1169c81c">i_phaseMask</a>(searcher-&gt;GetPhaseMask()), <a class="code hl_variable" href="../../d4/d76/a09723.html#a3029760131a6f50883246afe2533c062">i_object</a>(result), <a class="code hl_variable" href="../../d4/d76/a09723.html#a3618df5a6ae33e76b802eae9cac1e1bd">i_check</a>(check) {}</div>
+<div class="ttc" id="aa09723_html_a3029760131a6f50883246afe2533c062"><div class="ttname"><a href="../../d4/d76/a09723.html#a3029760131a6f50883246afe2533c062">Acore::UnitSearcher::i_object</a></div><div class="ttdeci">Unit *&amp; i_object</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:414</div></div>
+<div class="ttc" id="aa09723_html_a3618df5a6ae33e76b802eae9cac1e1bd"><div class="ttname"><a href="../../d4/d76/a09723.html#a3618df5a6ae33e76b802eae9cac1e1bd">Acore::UnitSearcher::i_check</a></div><div class="ttdeci">Check &amp; i_check</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:415</div></div>
+<div class="ttc" id="aa09723_html_ab94911f3f275de6a9ce9f15f1169c81c"><div class="ttname"><a href="../../d4/d76/a09723.html#ab94911f3f275de6a9ce9f15f1169c81c">Acore::UnitSearcher::i_phaseMask</a></div><div class="ttdeci">uint32 i_phaseMask</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:413</div></div>
 </div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="af5c0b63b8bfe112c9a8a43d7e49e1f7b" name="af5c0b63b8bfe112c9a8a43d7e49e1f7b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af5c0b63b8bfe112c9a8a43d7e49e1f7b">&#9670;&#160;</a></span>operator()()</h2>
+<a id="a5e419d2cb0de5ae58373e521d3a84ac6" name="a5e419d2cb0de5ae58373e521d3a84ac6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5e419d2cb0de5ae58373e521d3a84ac6">&#9670;&#160;</a></span>Visit() <span class="overload">[1/3]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;class Check &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">void <a class="el" href="../../d4/d76/a09723.html">Acore::UnitSearcher</a>&lt; Check &gt;::Visit </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/d06/a01403.html#ac60ef2e7adf9bc71b50d675b4b74980b">CreatureMapType</a> &amp;&#160;</td>
+          <td class="paramname"><em>m</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  348</span>{</div>
+<div class="line"><span class="lineno">  349</span>    <span class="comment">// already found</span></div>
+<div class="line"><span class="lineno">  350</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d4/d76/a09723.html#a3029760131a6f50883246afe2533c062">i_object</a>)</div>
+<div class="line"><span class="lineno">  351</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  352</span> </div>
+<div class="line"><span class="lineno">  353</span>    <span class="keywordflow">for</span> (<a class="code hl_class" href="../../da/d5c/a05615.html">CreatureMapType::iterator</a> itr = m.<a class="code hl_function" href="../../db/dff/a09583.html#a1e4e67ba11ac8da077942a6581647bf3">begin</a>(); itr != m.<a class="code hl_function" href="../../db/dff/a09583.html#a266acb421cfc6ccc56dc2acff3202971">end</a>(); ++itr)</div>
+<div class="line"><span class="lineno">  354</span>    {</div>
+<div class="line"><span class="lineno">  355</span>        <span class="keywordflow">if</span> (!itr-&gt;GetSource()-&gt;InSamePhase(<a class="code hl_variable" href="../../d4/d76/a09723.html#ab94911f3f275de6a9ce9f15f1169c81c">i_phaseMask</a>))</div>
+<div class="line"><span class="lineno">  356</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  357</span> </div>
+<div class="line"><span class="lineno">  358</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d4/d76/a09723.html#a3618df5a6ae33e76b802eae9cac1e1bd">i_check</a>(itr-&gt;GetSource()))</div>
+<div class="line"><span class="lineno">  359</span>        {</div>
+<div class="line"><span class="lineno">  360</span>            <a class="code hl_variable" href="../../d4/d76/a09723.html#a3029760131a6f50883246afe2533c062">i_object</a> = itr-&gt;GetSource();</div>
+<div class="line"><span class="lineno">  361</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  362</span>        }</div>
+<div class="line"><span class="lineno">  363</span>    }</div>
+<div class="line"><span class="lineno">  364</span>}</div>
+<div class="ttc" id="aa05615_html"><div class="ttname"><a href="../../da/d5c/a05615.html">LinkedListHead::Iterator</a></div><div class="ttdef"><b>Definition:</b> LinkedList.h:139</div></div>
+<div class="ttc" id="aa09583_html_a1e4e67ba11ac8da077942a6581647bf3"><div class="ttname"><a href="../../db/dff/a09583.html#a1e4e67ba11ac8da077942a6581647bf3">GridRefMgr::begin</a></div><div class="ttdeci">iterator begin()</div><div class="ttdef"><b>Definition:</b> GridRefMgr.h:35</div></div>
+<div class="ttc" id="aa09583_html_a266acb421cfc6ccc56dc2acff3202971"><div class="ttname"><a href="../../db/dff/a09583.html#a266acb421cfc6ccc56dc2acff3202971">GridRefMgr::end</a></div><div class="ttdeci">iterator end()</div><div class="ttdef"><b>Definition:</b> GridRefMgr.h:36</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00035">GridRefMgr&lt; OBJECT &gt;::begin()</a>, and <a class="el" href="../../#l00036">GridRefMgr&lt; OBJECT &gt;::end()</a>.</p>
+
+</div>
+</div>
+<a id="a4bf8a315ab9464bbc5b0c8cae5c27fed" name="a4bf8a315ab9464bbc5b0c8cae5c27fed"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4bf8a315ab9464bbc5b0c8cae5c27fed">&#9670;&#160;</a></span>Visit() <span class="overload">[2/3]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class Check &gt; </div>
+<div class="memtemplate">
+template&lt;class NOT_INTERESTED &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool Acore::GameObjectFocusCheck::operator() </td>
+          <td class="memname">void <a class="el" href="../../d4/d76/a09723.html">Acore::UnitSearcher</a>&lt; Check &gt;::Visit </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/d95/a08583.html">GameObject</a> *&#160;</td>
-          <td class="paramname"><em>go</em></td><td>)</td>
-          <td> const</td>
+          <td class="paramtype"><a class="el" href="../../db/dff/a09583.html">GridRefMgr</a>&lt; NOT_INTERESTED &gt; &amp;&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
         </tr>
       </table>
   </td>
@@ -193,79 +256,95 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  684</span>        {</div>
-<div class="line"><span class="lineno">  685</span>            <span class="keywordflow">if</span> (go-&gt;<a class="code hl_function" href="../../d2/d95/a08583.html#a1415b5cb9b3b3f4f6691584c5b6d7324">GetGOInfo</a>()-&gt;<a class="code hl_variable" href="../../d7/dbe/a08587.html#a1c78664b7272010dac83e9f4ea132330">type</a> != <a class="code hl_enumvalue" href="../../da/de8/a02852.html#a0233096c29a8a39f15373e06434985f9a19da3e0d6d3baeb2f62b2f2fc8b35405">GAMEOBJECT_TYPE_SPELL_FOCUS</a>)</div>
-<div class="line"><span class="lineno">  686</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  687</span> </div>
-<div class="line"><span class="lineno">  688</span>            <span class="keywordflow">if</span> (!go-&gt;<a class="code hl_function" href="../../d2/d95/a08583.html#a462386b3457bdd1da4821cd6e6f9c64c">isSpawned</a>()) <span class="comment">// xinef: dont allow to count deactivated objects</span></div>
-<div class="line"><span class="lineno">  689</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  690</span> </div>
-<div class="line"><span class="lineno">  691</span>            <span class="keywordflow">if</span> (go-&gt;<a class="code hl_function" href="../../d2/d95/a08583.html#a1415b5cb9b3b3f4f6691584c5b6d7324">GetGOInfo</a>()-&gt;<a class="code hl_variable" href="../../d7/dbe/a08587.html#a22bc76089fb51bff1e32ab9a8736153c">spellFocus</a>.<a class="code hl_variable" href="../../d7/dbe/a08587.html#aba1538c08713a616500b51650896cd5b">focusId</a> != <a class="code hl_variable" href="../../d4/d76/a09723.html#ace009546c2dcc6dac5de98b3c34152a5">i_focusId</a>)</div>
-<div class="line"><span class="lineno">  692</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  693</span> </div>
-<div class="line"><span class="lineno">  694</span>            <span class="keywordtype">float</span> <span class="keyword">const</span> dist = go-&gt;<a class="code hl_function" href="../../d2/d95/a08583.html#a1415b5cb9b3b3f4f6691584c5b6d7324">GetGOInfo</a>()-&gt;<a class="code hl_variable" href="../../d7/dbe/a08587.html#a22bc76089fb51bff1e32ab9a8736153c">spellFocus</a>.<a class="code hl_variable" href="../../d7/dbe/a08587.html#a0ac32f94eef325076f8c17868af2559e">dist</a>;</div>
-<div class="line"><span class="lineno">  695</span> </div>
-<div class="line"><span class="lineno">  696</span>            <span class="keywordflow">return</span> go-&gt;<a class="code hl_function" href="../../d2/d95/a08583.html#a0e472403802c7a862e22c769ef4f8378">IsWithinDistInMap</a>(<a class="code hl_variable" href="../../d4/d76/a09723.html#a0afc07e086f5aa3301c2b46a0004213e">i_unit</a>, dist);</div>
-<div class="line"><span class="lineno">  697</span>        }</div>
-<div class="ttc" id="aa02852_html_a0233096c29a8a39f15373e06434985f9a19da3e0d6d3baeb2f62b2f2fc8b35405"><div class="ttname"><a href="../../da/de8/a02852.html#a0233096c29a8a39f15373e06434985f9a19da3e0d6d3baeb2f62b2f2fc8b35405">GAMEOBJECT_TYPE_SPELL_FOCUS</a></div><div class="ttdeci">@ GAMEOBJECT_TYPE_SPELL_FOCUS</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1572</div></div>
-<div class="ttc" id="aa08583_html_a0e472403802c7a862e22c769ef4f8378"><div class="ttname"><a href="../../d2/d95/a08583.html#a0e472403802c7a862e22c769ef4f8378">GameObject::IsWithinDistInMap</a></div><div class="ttdeci">bool IsWithinDistInMap(Player const *player) const</div><div class="ttdef"><b>Definition:</b> GameObject.cpp:3030</div></div>
-<div class="ttc" id="aa08583_html_a1415b5cb9b3b3f4f6691584c5b6d7324"><div class="ttname"><a href="../../d2/d95/a08583.html#a1415b5cb9b3b3f4f6691584c5b6d7324">GameObject::GetGOInfo</a></div><div class="ttdeci">GameObjectTemplate const * GetGOInfo() const</div><div class="ttdef"><b>Definition:</b> GameObject.h:136</div></div>
-<div class="ttc" id="aa08583_html_a462386b3457bdd1da4821cd6e6f9c64c"><div class="ttname"><a href="../../d2/d95/a08583.html#a462386b3457bdd1da4821cd6e6f9c64c">GameObject::isSpawned</a></div><div class="ttdeci">bool isSpawned() const</div><div class="ttdef"><b>Definition:</b> GameObject.h:190</div></div>
-<div class="ttc" id="aa08587_html_a0ac32f94eef325076f8c17868af2559e"><div class="ttname"><a href="../../d7/dbe/a08587.html#a0ac32f94eef325076f8c17868af2559e">GameObjectTemplate::dist</a></div><div class="ttdeci">uint32 dist</div><div class="ttdef"><b>Definition:</b> GameObjectData.h:144</div></div>
-<div class="ttc" id="aa08587_html_a1c78664b7272010dac83e9f4ea132330"><div class="ttname"><a href="../../d7/dbe/a08587.html#a1c78664b7272010dac83e9f4ea132330">GameObjectTemplate::type</a></div><div class="ttdeci">uint32 type</div><div class="ttdef"><b>Definition:</b> GameObjectData.h:34</div></div>
-<div class="ttc" id="aa08587_html_a22bc76089fb51bff1e32ab9a8736153c"><div class="ttname"><a href="../../d7/dbe/a08587.html#a22bc76089fb51bff1e32ab9a8736153c">GameObjectTemplate::spellFocus</a></div><div class="ttdeci">struct GameObjectTemplate::@236::@245 spellFocus</div></div>
-<div class="ttc" id="aa08587_html_aba1538c08713a616500b51650896cd5b"><div class="ttname"><a href="../../d7/dbe/a08587.html#aba1538c08713a616500b51650896cd5b">GameObjectTemplate::focusId</a></div><div class="ttdeci">uint32 focusId</div><div class="ttdef"><b>Definition:</b> GameObjectData.h:143</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  423</span>{}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00144">GameObjectTemplate::dist</a>, <a class="el" href="../../#l00143">GameObjectTemplate::focusId</a>, <a class="el" href="../../#l01572">GAMEOBJECT_TYPE_SPELL_FOCUS</a>, <a class="el" href="../../#l00136">GameObject::GetGOInfo()</a>, <a class="el" href="../../#l00700">i_focusId</a>, <a class="el" href="../../#l00699">i_unit</a>, <a class="el" href="../../#l00190">GameObject::isSpawned()</a>, <a class="el" href="../../#l03030">GameObject::IsWithinDistInMap()</a>, <a class="el" href="../../d7/dbe/a08587.html#a22bc76089fb51bff1e32ab9a8736153c">GameObjectTemplate::spellFocus</a>, and <a class="el" href="../../#l00034">GameObjectTemplate::type</a>.</p>
+</div>
+</div>
+<a id="ac65516ed337b509ff5c316fb29727854" name="ac65516ed337b509ff5c316fb29727854"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac65516ed337b509ff5c316fb29727854">&#9670;&#160;</a></span>Visit() <span class="overload">[3/3]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class Check &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">void <a class="el" href="../../d4/d76/a09723.html">Acore::UnitSearcher</a>&lt; Check &gt;::Visit </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/d06/a01403.html#ae35a7f6754cf9950d0027369ada820e7">PlayerMapType</a> &amp;&#160;</td>
+          <td class="paramname"><em>m</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  368</span>{</div>
+<div class="line"><span class="lineno">  369</span>    <span class="comment">// already found</span></div>
+<div class="line"><span class="lineno">  370</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d4/d76/a09723.html#a3029760131a6f50883246afe2533c062">i_object</a>)</div>
+<div class="line"><span class="lineno">  371</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  372</span> </div>
+<div class="line"><span class="lineno">  373</span>    <span class="keywordflow">for</span> (<a class="code hl_class" href="../../da/d5c/a05615.html">PlayerMapType::iterator</a> itr = m.<a class="code hl_function" href="../../db/dff/a09583.html#a1e4e67ba11ac8da077942a6581647bf3">begin</a>(); itr != m.<a class="code hl_function" href="../../db/dff/a09583.html#a266acb421cfc6ccc56dc2acff3202971">end</a>(); ++itr)</div>
+<div class="line"><span class="lineno">  374</span>    {</div>
+<div class="line"><span class="lineno">  375</span>        <span class="keywordflow">if</span> (!itr-&gt;GetSource()-&gt;InSamePhase(<a class="code hl_variable" href="../../d4/d76/a09723.html#ab94911f3f275de6a9ce9f15f1169c81c">i_phaseMask</a>))</div>
+<div class="line"><span class="lineno">  376</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  377</span> </div>
+<div class="line"><span class="lineno">  378</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d4/d76/a09723.html#a3618df5a6ae33e76b802eae9cac1e1bd">i_check</a>(itr-&gt;GetSource()))</div>
+<div class="line"><span class="lineno">  379</span>        {</div>
+<div class="line"><span class="lineno">  380</span>            <a class="code hl_variable" href="../../d4/d76/a09723.html#a3029760131a6f50883246afe2533c062">i_object</a> = itr-&gt;GetSource();</div>
+<div class="line"><span class="lineno">  381</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  382</span>        }</div>
+<div class="line"><span class="lineno">  383</span>    }</div>
+<div class="line"><span class="lineno">  384</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00035">GridRefMgr&lt; OBJECT &gt;::begin()</a>, and <a class="el" href="../../#l00036">GridRefMgr&lt; OBJECT &gt;::end()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="ace009546c2dcc6dac5de98b3c34152a5" name="ace009546c2dcc6dac5de98b3c34152a5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ace009546c2dcc6dac5de98b3c34152a5">&#9670;&#160;</a></span>i_focusId</h2>
+<a id="a3618df5a6ae33e76b802eae9cac1e1bd" name="a3618df5a6ae33e76b802eae9cac1e1bd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3618df5a6ae33e76b802eae9cac1e1bd">&#9670;&#160;</a></span>i_check</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
+<div class="memtemplate">
+template&lt;class Check &gt; </div>
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d8/ddd/a00380.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> Acore::GameObjectFocusCheck::i_focusId</td>
+          <td class="memname">Check&amp; <a class="el" href="../../d4/d76/a09723.html">Acore::UnitSearcher</a>&lt; Check &gt;::i_check</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00683">operator()()</a>.</p>
-
 </div>
 </div>
-<a id="a0afc07e086f5aa3301c2b46a0004213e" name="a0afc07e086f5aa3301c2b46a0004213e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0afc07e086f5aa3301c2b46a0004213e">&#9670;&#160;</a></span>i_unit</h2>
+<a id="a3029760131a6f50883246afe2533c062" name="a3029760131a6f50883246afe2533c062"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3029760131a6f50883246afe2533c062">&#9670;&#160;</a></span>i_object</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
+<div class="memtemplate">
+template&lt;class Check &gt; </div>
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d5/d74/a09163.html">Unit</a> const* Acore::GameObjectFocusCheck::i_unit</td>
+          <td class="memname"><a class="el" href="../../d9/d33/a09227.html">Unit</a>*&amp; <a class="el" href="../../d4/d76/a09723.html">Acore::UnitSearcher</a>&lt; Check &gt;::i_object</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00683">operator()()</a>.</p>
+</div>
+</div>
+<a id="ab94911f3f275de6a9ce9f15f1169c81c" name="ab94911f3f275de6a9ce9f15f1169c81c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab94911f3f275de6a9ce9f15f1169c81c">&#9670;&#160;</a></span>i_phaseMask</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class Check &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <a class="el" href="../../d4/d76/a09723.html">Acore::UnitSearcher</a>&lt; Check &gt;::i_phaseMask</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
 
 </div>
 </div>
@@ -274,8 +353,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d3/d82/a05088.html">Acore</a></li><li class="navelem"><a class="el" href="../../d4/d76/a09723.html">GameObjectFocusCheck</a></li>
-    <li class="footer">Generated on Tue Sep 1 2026 00:10:09 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d5/d87/a05118.html">Acore</a></li><li class="navelem"><a class="el" href="../../d4/d76/a09723.html">UnitSearcher</a></li>
+    <li class="footer">Generated on Mon Sep 21 2026 23:34:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

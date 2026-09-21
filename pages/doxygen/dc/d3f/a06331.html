@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Member List</title>
+<title>AzerothCore: DBUpdater&lt; T &gt; Class Template Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -78,7 +78,7 @@ $(function() {
 </div>
 <script type="text/javascript">
 /* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
-$(document).ready(function(){initNavTree('df/de8/a06334.html','../../'); initResizable(); });
+$(document).ready(function(){initNavTree('dc/d3f/a06331.html','../../'); initResizable(); });
 /* @license-end */
 </script>
 <div id="doc-content">
@@ -104,24 +104,901 @@ $(document).ready(function(){initNavTree('df/de8/a06334.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">AchievementReward Member List</div></div>
+  <div class="summary">
+<a href="#pub-types">Public Types</a> &#124;
+<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
+<a href="#pri-static-methods">Static Private Member Functions</a> &#124;
+<a href="../../db/d2f/a06328.html">List of all members</a>  </div>
+  <div class="headertitle"><div class="title">DBUpdater&lt; T &gt; Class Template Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>This is the complete list of members for <a class="el" href="../../df/de8/a06334.html">AchievementReward</a>, including all inherited members.</p>
-<table class="directory">
-  <tr class="even"><td class="entry"><a class="el" href="../../df/de8/a06334.html#adc6041f4426ca3d377644b18a0ba22f9">itemId</a></td><td class="entry"><a class="el" href="../../df/de8/a06334.html">AchievementReward</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../df/de8/a06334.html#adc59ba563519ed9e673b734c4e40e7b8">mailTemplate</a></td><td class="entry"><a class="el" href="../../df/de8/a06334.html">AchievementReward</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../df/de8/a06334.html#a9a4e0b2063f2c03f8783681cca41b5d7">sender</a></td><td class="entry"><a class="el" href="../../df/de8/a06334.html">AchievementReward</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../df/de8/a06334.html#a45644f308278529f822080f8274180d8">subject</a></td><td class="entry"><a class="el" href="../../df/de8/a06334.html">AchievementReward</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../df/de8/a06334.html#a4d57dcb4d130552f5bf756308d79307c">text</a></td><td class="entry"><a class="el" href="../../df/de8/a06334.html">AchievementReward</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../df/de8/a06334.html#a94440f7e5c023d929e0e7f7d821bb309">titleId</a></td><td class="entry"><a class="el" href="../../df/de8/a06334.html">AchievementReward</a></td><td class="entry"></td></tr>
-</table></div><!-- contents -->
+<p><code>#include &quot;<a class="el" href="../../">DBUpdater.h</a>&quot;</code></p>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
+Public Types</h2></td></tr>
+<tr class="memitem:a8e14a1b2501580674ae1e2f4baed3b31"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d3f/a06331.html#a8e14a1b2501580674ae1e2f4baed3b31">Path</a> = std::filesystem::path</td></tr>
+<tr class="separator:a8e14a1b2501580674ae1e2f4baed3b31"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:a282cdca4b55f72a462ee778437dbc916"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d3f/a06331.html#a282cdca4b55f72a462ee778437dbc916">GetConfigEntry</a> ()</td></tr>
+<tr class="separator:a282cdca4b55f72a462ee778437dbc916"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad0caf6c5d7ba28efadc14a9ebac43c9e"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d3f/a06331.html#ad0caf6c5d7ba28efadc14a9ebac43c9e">GetTableName</a> ()</td></tr>
+<tr class="separator:ad0caf6c5d7ba28efadc14a9ebac43c9e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0aee52e68ffa7268aebcb5b10ca33e05"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d3f/a06331.html#a0aee52e68ffa7268aebcb5b10ca33e05">GetSourceDirectory</a> ()</td></tr>
+<tr class="separator:a0aee52e68ffa7268aebcb5b10ca33e05"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac9174a612ddd80249ff6f7dd6ba72e3b"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d3f/a06331.html#ac9174a612ddd80249ff6f7dd6ba72e3b">GetBaseFilesDirectory</a> ()</td></tr>
+<tr class="separator:ac9174a612ddd80249ff6f7dd6ba72e3b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a832f3d52780e35a67486c3028aa5c5bb"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d3f/a06331.html#a832f3d52780e35a67486c3028aa5c5bb">IsEnabled</a> (<a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> const updateMask)</td></tr>
+<tr class="separator:a832f3d52780e35a67486c3028aa5c5bb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a268d07bd85dea1b16f6ffc0409084ba3"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d3f/a06331.html#a268d07bd85dea1b16f6ffc0409084ba3">GetDBModuleName</a> ()</td></tr>
+<tr class="separator:a268d07bd85dea1b16f6ffc0409084ba3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7bd94ca6b27ae5253a42cdd5cf3317c9"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d3f/a06331.html#a7bd94ca6b27ae5253a42cdd5cf3317c9">GetConfigEntry</a> ()</td></tr>
+<tr class="separator:a7bd94ca6b27ae5253a42cdd5cf3317c9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2e6794ed3f52fa52e03bcf4792d4c194"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d3f/a06331.html#a2e6794ed3f52fa52e03bcf4792d4c194">GetTableName</a> ()</td></tr>
+<tr class="separator:a2e6794ed3f52fa52e03bcf4792d4c194"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9d08202a651710393fdc8a4c1cc743fc"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d3f/a06331.html#a9d08202a651710393fdc8a4c1cc743fc">GetSourceDirectory</a> ()</td></tr>
+<tr class="separator:a9d08202a651710393fdc8a4c1cc743fc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae791a0ab4068b76860a5503e94028b90"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d3f/a06331.html#ae791a0ab4068b76860a5503e94028b90">GetBaseFilesDirectory</a> ()</td></tr>
+<tr class="separator:ae791a0ab4068b76860a5503e94028b90"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afb3804b72ca248745c88fdcf6708dd83"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d3f/a06331.html#afb3804b72ca248745c88fdcf6708dd83">IsEnabled</a> (<a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> const updateMask)</td></tr>
+<tr class="separator:afb3804b72ca248745c88fdcf6708dd83"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a62f2e1fea15869b61b4be76c4dd9cb75"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d3f/a06331.html#a62f2e1fea15869b61b4be76c4dd9cb75">GetDBModuleName</a> ()</td></tr>
+<tr class="separator:a62f2e1fea15869b61b4be76c4dd9cb75"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a167281c797c975a635294c3f5f2484ff"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d3f/a06331.html#a167281c797c975a635294c3f5f2484ff">GetConfigEntry</a> ()</td></tr>
+<tr class="separator:a167281c797c975a635294c3f5f2484ff"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abde87bf69cbf0aa48e2c7be6799f3754"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d3f/a06331.html#abde87bf69cbf0aa48e2c7be6799f3754">GetTableName</a> ()</td></tr>
+<tr class="separator:abde87bf69cbf0aa48e2c7be6799f3754"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0477309b4aacc78d26b656a98e04c813"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d3f/a06331.html#a0477309b4aacc78d26b656a98e04c813">GetSourceDirectory</a> ()</td></tr>
+<tr class="separator:a0477309b4aacc78d26b656a98e04c813"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a874771e05b9451b12b985209dca83d67"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d3f/a06331.html#a874771e05b9451b12b985209dca83d67">GetBaseFilesDirectory</a> ()</td></tr>
+<tr class="separator:a874771e05b9451b12b985209dca83d67"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adbdd53aa05764d55960e87b8911723b7"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d3f/a06331.html#adbdd53aa05764d55960e87b8911723b7">IsEnabled</a> (<a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> const updateMask)</td></tr>
+<tr class="separator:adbdd53aa05764d55960e87b8911723b7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a307a8c73dca871a5ef551ac6fc6f6c9f"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d3f/a06331.html#a307a8c73dca871a5ef551ac6fc6f6c9f">GetDBModuleName</a> ()</td></tr>
+<tr class="separator:a307a8c73dca871a5ef551ac6fc6f6c9f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
+Static Public Member Functions</h2></td></tr>
+<tr class="memitem:af2caad6f711a6f4d42f2f82bc91efa49"><td class="memItemLeft" align="right" valign="top">static std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d3f/a06331.html#af2caad6f711a6f4d42f2f82bc91efa49">GetConfigEntry</a> ()</td></tr>
+<tr class="separator:af2caad6f711a6f4d42f2f82bc91efa49"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a61e8308a7e8feaec9ddcd9cc9d952a63"><td class="memItemLeft" align="right" valign="top">static std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d3f/a06331.html#a61e8308a7e8feaec9ddcd9cc9d952a63">GetTableName</a> ()</td></tr>
+<tr class="separator:a61e8308a7e8feaec9ddcd9cc9d952a63"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2188d076f3bd9757b40408b6f576fe38"><td class="memItemLeft" align="right" valign="top">static std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d3f/a06331.html#a2188d076f3bd9757b40408b6f576fe38">GetSourceDirectory</a> ()</td></tr>
+<tr class="separator:a2188d076f3bd9757b40408b6f576fe38"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9719496c0b1271cf96178b9dc8025106"><td class="memItemLeft" align="right" valign="top">static std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d3f/a06331.html#a9719496c0b1271cf96178b9dc8025106">GetBaseFilesDirectory</a> ()</td></tr>
+<tr class="separator:a9719496c0b1271cf96178b9dc8025106"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa4bd2974f787e0ef294e82863f0b11c8"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d3f/a06331.html#aa4bd2974f787e0ef294e82863f0b11c8">IsEnabled</a> (<a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> const updateMask)</td></tr>
+<tr class="separator:aa4bd2974f787e0ef294e82863f0b11c8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0dc68f83bce10c3e1cd26cb3924909df"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d1/d5d/a00311.html#a0c382fe144b0dc101a8b2b9d4ef51010">BaseLocation</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d3f/a06331.html#a0dc68f83bce10c3e1cd26cb3924909df">GetBaseLocationType</a> ()</td></tr>
+<tr class="separator:a0dc68f83bce10c3e1cd26cb3924909df"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5d74c8144ba217bd72baa89549bc7985"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d3f/a06331.html#a5d74c8144ba217bd72baa89549bc7985">Create</a> (<a class="el" href="../../dc/dda/a06111.html">DatabaseWorkerPool</a>&lt; T &gt; &amp;pool)</td></tr>
+<tr class="separator:a5d74c8144ba217bd72baa89549bc7985"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5cafc768301dbfa02e79afa5c0d07ecb"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d3f/a06331.html#a5cafc768301dbfa02e79afa5c0d07ecb">Update</a> (<a class="el" href="../../dc/dda/a06111.html">DatabaseWorkerPool</a>&lt; T &gt; &amp;pool, std::string_view modulesList={})</td></tr>
+<tr class="separator:a5cafc768301dbfa02e79afa5c0d07ecb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a261c8c0fbf6d0532436ce0457617f238"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d3f/a06331.html#a261c8c0fbf6d0532436ce0457617f238">Update</a> (<a class="el" href="../../dc/dda/a06111.html">DatabaseWorkerPool</a>&lt; T &gt; &amp;pool, std::vector&lt; std::string &gt; const *setDirectories)</td></tr>
+<tr class="separator:a261c8c0fbf6d0532436ce0457617f238"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:accc1bcaf3ec3cabc8bfbd976b6804e3e"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d3f/a06331.html#accc1bcaf3ec3cabc8bfbd976b6804e3e">Populate</a> (<a class="el" href="../../dc/dda/a06111.html">DatabaseWorkerPool</a>&lt; T &gt; &amp;pool)</td></tr>
+<tr class="separator:accc1bcaf3ec3cabc8bfbd976b6804e3e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af1edc78d5fff2964c8aeade0914627a0"><td class="memItemLeft" align="right" valign="top">static std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d3f/a06331.html#af1edc78d5fff2964c8aeade0914627a0">GetDBModuleName</a> ()</td></tr>
+<tr class="separator:af1edc78d5fff2964c8aeade0914627a0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-static-methods" name="pri-static-methods"></a>
+Static Private Member Functions</h2></td></tr>
+<tr class="memitem:aa316dec4c91143f3bfc9253c0cd0bbd3"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d4/d7c/a06327.html">DBUpdaterInfo</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d3f/a06331.html#aa316dec4c91143f3bfc9253c0cd0bbd3">GetUpdaterInfo</a> ()</td></tr>
+<tr class="separator:aa316dec4c91143f3bfc9253c0cd0bbd3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><div class="compoundTemplParams">template&lt;class T&gt;<br />
+class DBUpdater&lt; T &gt;</div></div><h2 class="groupheader">Member Typedef Documentation</h2>
+<a id="a8e14a1b2501580674ae1e2f4baed3b31" name="a8e14a1b2501580674ae1e2f4baed3b31"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8e14a1b2501580674ae1e2f4baed3b31">&#9670;&#160;</a></span>Path</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="../../dc/d3f/a06331.html">DBUpdater</a>&lt; T &gt;::Path =  std::filesystem::path</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a5d74c8144ba217bd72baa89549bc7985" name="a5d74c8144ba217bd72baa89549bc7985"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5d74c8144ba217bd72baa89549bc7985">&#9670;&#160;</a></span>Create()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool <a class="el" href="../../dc/d3f/a06331.html">DBUpdater</a>&lt; T &gt;::Create </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dc/dda/a06111.html">DatabaseWorkerPool</a>&lt; T &gt; &amp;&#160;</td>
+          <td class="paramname"><em>pool</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  594</span>{</div>
+<div class="line"><span class="lineno">  595</span>    <a class="code hl_class" href="../../d4/d84/a06131.html">DatabaseWorkerPoolAdapter&lt;T&gt;</a> adapter(pool);</div>
+<div class="line"><span class="lineno">  596</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/d48/a05150.html#a23cdd10a64e2e376416e93949b5644ea">CreateDatabase</a>(adapter);</div>
+<div class="line"><span class="lineno">  597</span>}</div>
+<div class="ttc" id="aa05150_html_a23cdd10a64e2e376416e93949b5644ea"><div class="ttname"><a href="../../dd/d48/a05150.html#a23cdd10a64e2e376416e93949b5644ea">anonymous_namespace{DBUpdater.cpp}::CreateDatabase</a></div><div class="ttdeci">bool CreateDatabase(DatabaseUpdatePool &amp;pool)</div><div class="ttdef"><b>Definition:</b> DBUpdater.cpp:220</div></div>
+<div class="ttc" id="aa06131_html"><div class="ttname"><a href="../../d4/d84/a06131.html">DatabaseWorkerPoolAdapter</a></div><div class="ttdef"><b>Definition:</b> DatabaseWorkerPoolAdapter.h:26</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00220">anonymous_namespace{DBUpdater.cpp}::CreateDatabase()</a>.</p>
+
+</div>
+</div>
+<a id="ac9174a612ddd80249ff6f7dd6ba72e3b" name="ac9174a612ddd80249ff6f7dd6ba72e3b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac9174a612ddd80249ff6f7dd6ba72e3b">&#9670;&#160;</a></span>GetBaseFilesDirectory() <span class="overload">[1/4]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string <a class="el" href="../../dc/d3f/a06331.html">DBUpdater</a>&lt; <a class="el" href="../../d2/dc1/a06151.html">LoginDatabaseConnection</a> &gt;::GetBaseFilesDirectory </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  105</span>{</div>
+<div class="line"><span class="lineno">  106</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../dc/d3f/a06331.html#a2188d076f3bd9757b40408b6f576fe38">DBUpdater&lt;LoginDatabaseConnection&gt;::GetSourceDirectory</a>() + <span class="stringliteral">&quot;/data/sql/base/db_auth/&quot;</span>;</div>
+<div class="line"><span class="lineno">  107</span>}</div>
+<div class="ttc" id="aa06331_html_a2188d076f3bd9757b40408b6f576fe38"><div class="ttname"><a href="../../dc/d3f/a06331.html#a2188d076f3bd9757b40408b6f576fe38">DBUpdater::GetSourceDirectory</a></div><div class="ttdeci">static std::string GetSourceDirectory()</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../dc/d3f/a06331.html#a2188d076f3bd9757b40408b6f576fe38">DBUpdater&lt; T &gt;::GetSourceDirectory()</a>.</p>
+
+</div>
+</div>
+<a id="ae791a0ab4068b76860a5503e94028b90" name="ae791a0ab4068b76860a5503e94028b90"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae791a0ab4068b76860a5503e94028b90">&#9670;&#160;</a></span>GetBaseFilesDirectory() <span class="overload">[2/4]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string <a class="el" href="../../dc/d3f/a06331.html">DBUpdater</a>&lt; <a class="el" href="../../de/d49/a06155.html">WorldDatabaseConnection</a> &gt;::GetBaseFilesDirectory </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  144</span>{</div>
+<div class="line"><span class="lineno">  145</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../dc/d3f/a06331.html#a2188d076f3bd9757b40408b6f576fe38">DBUpdater&lt;WorldDatabaseConnection&gt;::GetSourceDirectory</a>() + <span class="stringliteral">&quot;/data/sql/base/db_world/&quot;</span>;</div>
+<div class="line"><span class="lineno">  146</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../dc/d3f/a06331.html#a2188d076f3bd9757b40408b6f576fe38">DBUpdater&lt; T &gt;::GetSourceDirectory()</a>.</p>
+
+</div>
+</div>
+<a id="a874771e05b9451b12b985209dca83d67" name="a874771e05b9451b12b985209dca83d67"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a874771e05b9451b12b985209dca83d67">&#9670;&#160;</a></span>GetBaseFilesDirectory() <span class="overload">[3/4]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string <a class="el" href="../../dc/d3f/a06331.html">DBUpdater</a>&lt; <a class="el" href="../../d1/d10/a06147.html">CharacterDatabaseConnection</a> &gt;::GetBaseFilesDirectory </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  183</span>{</div>
+<div class="line"><span class="lineno">  184</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../dc/d3f/a06331.html#a2188d076f3bd9757b40408b6f576fe38">DBUpdater&lt;CharacterDatabaseConnection&gt;::GetSourceDirectory</a>() + <span class="stringliteral">&quot;/data/sql/base/db_characters/&quot;</span>;</div>
+<div class="line"><span class="lineno">  185</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../dc/d3f/a06331.html#a2188d076f3bd9757b40408b6f576fe38">DBUpdater&lt; T &gt;::GetSourceDirectory()</a>.</p>
+
+</div>
+</div>
+<a id="a9719496c0b1271cf96178b9dc8025106" name="a9719496c0b1271cf96178b9dc8025106"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9719496c0b1271cf96178b9dc8025106">&#9670;&#160;</a></span>GetBaseFilesDirectory() <span class="overload">[4/4]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static std::string <a class="el" href="../../dc/d3f/a06331.html">DBUpdater</a>&lt; T &gt;::GetBaseFilesDirectory </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a0dc68f83bce10c3e1cd26cb3924909df" name="a0dc68f83bce10c3e1cd26cb3924909df"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0dc68f83bce10c3e1cd26cb3924909df">&#9670;&#160;</a></span>GetBaseLocationType()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d1/d5d/a00311.html#a0c382fe144b0dc101a8b2b9d4ef51010">BaseLocation</a> <a class="el" href="../../dc/d3f/a06331.html">DBUpdater</a>&lt; T &gt;::GetBaseLocationType</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  204</span>{</div>
+<div class="line"><span class="lineno">  205</span>    <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d1/d5d/a00311.html#a0c382fe144b0dc101a8b2b9d4ef51010a7c7f50c7daf1a5f1773676cc90cc9550">LOCATION_REPOSITORY</a>;</div>
+<div class="line"><span class="lineno">  206</span>}</div>
+<div class="ttc" id="aa00311_html_a0c382fe144b0dc101a8b2b9d4ef51010a7c7f50c7daf1a5f1773676cc90cc9550"><div class="ttname"><a href="../../d1/d5d/a00311.html#a0c382fe144b0dc101a8b2b9d4ef51010a7c7f50c7daf1a5f1773676cc90cc9550">LOCATION_REPOSITORY</a></div><div class="ttdeci">@ LOCATION_REPOSITORY</div><div class="ttdef"><b>Definition:</b> DBUpdater.h:52</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00052">LOCATION_REPOSITORY</a>.</p>
+
+</div>
+</div>
+<a id="a282cdca4b55f72a462ee778437dbc916" name="a282cdca4b55f72a462ee778437dbc916"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a282cdca4b55f72a462ee778437dbc916">&#9670;&#160;</a></span>GetConfigEntry() <span class="overload">[1/4]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string <a class="el" href="../../dc/d3f/a06331.html">DBUpdater</a>&lt; <a class="el" href="../../d2/dc1/a06151.html">LoginDatabaseConnection</a> &gt;::GetConfigEntry </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   87</span>{</div>
+<div class="line"><span class="lineno">   88</span>    <span class="keywordflow">return</span> <span class="stringliteral">&quot;Updates.Auth&quot;</span>;</div>
+<div class="line"><span class="lineno">   89</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a7bd94ca6b27ae5253a42cdd5cf3317c9" name="a7bd94ca6b27ae5253a42cdd5cf3317c9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7bd94ca6b27ae5253a42cdd5cf3317c9">&#9670;&#160;</a></span>GetConfigEntry() <span class="overload">[2/4]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string <a class="el" href="../../dc/d3f/a06331.html">DBUpdater</a>&lt; <a class="el" href="../../de/d49/a06155.html">WorldDatabaseConnection</a> &gt;::GetConfigEntry </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  126</span>{</div>
+<div class="line"><span class="lineno">  127</span>    <span class="keywordflow">return</span> <span class="stringliteral">&quot;Updates.World&quot;</span>;</div>
+<div class="line"><span class="lineno">  128</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a167281c797c975a635294c3f5f2484ff" name="a167281c797c975a635294c3f5f2484ff"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a167281c797c975a635294c3f5f2484ff">&#9670;&#160;</a></span>GetConfigEntry() <span class="overload">[3/4]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string <a class="el" href="../../dc/d3f/a06331.html">DBUpdater</a>&lt; <a class="el" href="../../d1/d10/a06147.html">CharacterDatabaseConnection</a> &gt;::GetConfigEntry </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  165</span>{</div>
+<div class="line"><span class="lineno">  166</span>    <span class="keywordflow">return</span> <span class="stringliteral">&quot;Updates.Character&quot;</span>;</div>
+<div class="line"><span class="lineno">  167</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="af2caad6f711a6f4d42f2f82bc91efa49" name="af2caad6f711a6f4d42f2f82bc91efa49"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af2caad6f711a6f4d42f2f82bc91efa49">&#9670;&#160;</a></span>GetConfigEntry() <span class="overload">[4/4]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static std::string <a class="el" href="../../dc/d3f/a06331.html">DBUpdater</a>&lt; T &gt;::GetConfigEntry </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a268d07bd85dea1b16f6ffc0409084ba3" name="a268d07bd85dea1b16f6ffc0409084ba3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a268d07bd85dea1b16f6ffc0409084ba3">&#9670;&#160;</a></span>GetDBModuleName() <span class="overload">[1/4]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string <a class="el" href="../../dc/d3f/a06331.html">DBUpdater</a>&lt; <a class="el" href="../../d2/dc1/a06151.html">LoginDatabaseConnection</a> &gt;::GetDBModuleName </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  118</span>{</div>
+<div class="line"><span class="lineno">  119</span>    <span class="comment">// must be lowercase</span></div>
+<div class="line"><span class="lineno">  120</span>    <span class="keywordflow">return</span> <span class="stringliteral">&quot;auth&quot;</span>;</div>
+<div class="line"><span class="lineno">  121</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a62f2e1fea15869b61b4be76c4dd9cb75" name="a62f2e1fea15869b61b4be76c4dd9cb75"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a62f2e1fea15869b61b4be76c4dd9cb75">&#9670;&#160;</a></span>GetDBModuleName() <span class="overload">[2/4]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string <a class="el" href="../../dc/d3f/a06331.html">DBUpdater</a>&lt; <a class="el" href="../../de/d49/a06155.html">WorldDatabaseConnection</a> &gt;::GetDBModuleName </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  157</span>{</div>
+<div class="line"><span class="lineno">  158</span>    <span class="comment">// must be lowercase</span></div>
+<div class="line"><span class="lineno">  159</span>    <span class="keywordflow">return</span> <span class="stringliteral">&quot;world&quot;</span>;</div>
+<div class="line"><span class="lineno">  160</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a307a8c73dca871a5ef551ac6fc6f6c9f" name="a307a8c73dca871a5ef551ac6fc6f6c9f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a307a8c73dca871a5ef551ac6fc6f6c9f">&#9670;&#160;</a></span>GetDBModuleName() <span class="overload">[3/4]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string <a class="el" href="../../dc/d3f/a06331.html">DBUpdater</a>&lt; <a class="el" href="../../d1/d10/a06147.html">CharacterDatabaseConnection</a> &gt;::GetDBModuleName </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  196</span>{</div>
+<div class="line"><span class="lineno">  197</span>    <span class="comment">// must be lowercase</span></div>
+<div class="line"><span class="lineno">  198</span>    <span class="keywordflow">return</span> <span class="stringliteral">&quot;characters&quot;</span>;</div>
+<div class="line"><span class="lineno">  199</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="af1edc78d5fff2964c8aeade0914627a0" name="af1edc78d5fff2964c8aeade0914627a0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af1edc78d5fff2964c8aeade0914627a0">&#9670;&#160;</a></span>GetDBModuleName() <span class="overload">[4/4]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static std::string <a class="el" href="../../dc/d3f/a06331.html">DBUpdater</a>&lt; T &gt;::GetDBModuleName </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a0aee52e68ffa7268aebcb5b10ca33e05" name="a0aee52e68ffa7268aebcb5b10ca33e05"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0aee52e68ffa7268aebcb5b10ca33e05">&#9670;&#160;</a></span>GetSourceDirectory() <span class="overload">[1/4]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string <a class="el" href="../../dc/d3f/a06331.html">DBUpdater</a>&lt; <a class="el" href="../../d2/dc1/a06151.html">LoginDatabaseConnection</a> &gt;::GetSourceDirectory </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   99</span>{</div>
+<div class="line"><span class="lineno">  100</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../d0/d42/a05127.html#a84544d0c16175b62a0894c34fee2b6d7">BuiltInConfig::GetSourceDirectory</a>();</div>
+<div class="line"><span class="lineno">  101</span>}</div>
+<div class="ttc" id="aa05127_html_a84544d0c16175b62a0894c34fee2b6d7"><div class="ttname"><a href="../../d0/d42/a05127.html#a84544d0c16175b62a0894c34fee2b6d7">BuiltInConfig::GetSourceDirectory</a></div><div class="ttdeci">AC_COMMON_API std::string GetSourceDirectory()</div><div class="ttdef"><b>Definition:</b> BuiltInConfig.cpp:42</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00042">BuiltInConfig::GetSourceDirectory()</a>.</p>
+
+</div>
+</div>
+<a id="a9d08202a651710393fdc8a4c1cc743fc" name="a9d08202a651710393fdc8a4c1cc743fc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9d08202a651710393fdc8a4c1cc743fc">&#9670;&#160;</a></span>GetSourceDirectory() <span class="overload">[2/4]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string <a class="el" href="../../dc/d3f/a06331.html">DBUpdater</a>&lt; <a class="el" href="../../de/d49/a06155.html">WorldDatabaseConnection</a> &gt;::GetSourceDirectory </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  138</span>{</div>
+<div class="line"><span class="lineno">  139</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../d0/d42/a05127.html#a84544d0c16175b62a0894c34fee2b6d7">BuiltInConfig::GetSourceDirectory</a>();</div>
+<div class="line"><span class="lineno">  140</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00042">BuiltInConfig::GetSourceDirectory()</a>.</p>
+
+</div>
+</div>
+<a id="a0477309b4aacc78d26b656a98e04c813" name="a0477309b4aacc78d26b656a98e04c813"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0477309b4aacc78d26b656a98e04c813">&#9670;&#160;</a></span>GetSourceDirectory() <span class="overload">[3/4]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string <a class="el" href="../../dc/d3f/a06331.html">DBUpdater</a>&lt; <a class="el" href="../../d1/d10/a06147.html">CharacterDatabaseConnection</a> &gt;::GetSourceDirectory </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  177</span>{</div>
+<div class="line"><span class="lineno">  178</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../d0/d42/a05127.html#a84544d0c16175b62a0894c34fee2b6d7">BuiltInConfig::GetSourceDirectory</a>();</div>
+<div class="line"><span class="lineno">  179</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00042">BuiltInConfig::GetSourceDirectory()</a>.</p>
+
+</div>
+</div>
+<a id="a2188d076f3bd9757b40408b6f576fe38" name="a2188d076f3bd9757b40408b6f576fe38"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2188d076f3bd9757b40408b6f576fe38">&#9670;&#160;</a></span>GetSourceDirectory() <span class="overload">[4/4]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static std::string <a class="el" href="../../dc/d3f/a06331.html">DBUpdater</a>&lt; T &gt;::GetSourceDirectory </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00104">DBUpdater&lt; T &gt;::GetBaseFilesDirectory()</a>.</p>
+
+</div>
+</div>
+<a id="ad0caf6c5d7ba28efadc14a9ebac43c9e" name="ad0caf6c5d7ba28efadc14a9ebac43c9e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad0caf6c5d7ba28efadc14a9ebac43c9e">&#9670;&#160;</a></span>GetTableName() <span class="overload">[1/4]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string <a class="el" href="../../dc/d3f/a06331.html">DBUpdater</a>&lt; <a class="el" href="../../d2/dc1/a06151.html">LoginDatabaseConnection</a> &gt;::GetTableName </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   93</span>{</div>
+<div class="line"><span class="lineno">   94</span>    <span class="keywordflow">return</span> <span class="stringliteral">&quot;Auth&quot;</span>;</div>
+<div class="line"><span class="lineno">   95</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a2e6794ed3f52fa52e03bcf4792d4c194" name="a2e6794ed3f52fa52e03bcf4792d4c194"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2e6794ed3f52fa52e03bcf4792d4c194">&#9670;&#160;</a></span>GetTableName() <span class="overload">[2/4]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string <a class="el" href="../../dc/d3f/a06331.html">DBUpdater</a>&lt; <a class="el" href="../../de/d49/a06155.html">WorldDatabaseConnection</a> &gt;::GetTableName </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  132</span>{</div>
+<div class="line"><span class="lineno">  133</span>    <span class="keywordflow">return</span> <span class="stringliteral">&quot;World&quot;</span>;</div>
+<div class="line"><span class="lineno">  134</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="abde87bf69cbf0aa48e2c7be6799f3754" name="abde87bf69cbf0aa48e2c7be6799f3754"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abde87bf69cbf0aa48e2c7be6799f3754">&#9670;&#160;</a></span>GetTableName() <span class="overload">[3/4]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string <a class="el" href="../../dc/d3f/a06331.html">DBUpdater</a>&lt; <a class="el" href="../../d1/d10/a06147.html">CharacterDatabaseConnection</a> &gt;::GetTableName </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  171</span>{</div>
+<div class="line"><span class="lineno">  172</span>    <span class="keywordflow">return</span> <span class="stringliteral">&quot;Character&quot;</span>;</div>
+<div class="line"><span class="lineno">  173</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a61e8308a7e8feaec9ddcd9cc9d952a63" name="a61e8308a7e8feaec9ddcd9cc9d952a63"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a61e8308a7e8feaec9ddcd9cc9d952a63">&#9670;&#160;</a></span>GetTableName() <span class="overload">[4/4]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static std::string <a class="el" href="../../dc/d3f/a06331.html">DBUpdater</a>&lt; T &gt;::GetTableName </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aa316dec4c91143f3bfc9253c0cd0bbd3" name="aa316dec4c91143f3bfc9253c0cd0bbd3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa316dec4c91143f3bfc9253c0cd0bbd3">&#9670;&#160;</a></span>GetUpdaterInfo()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d4/d7c/a06327.html">DBUpdaterInfo</a> <a class="el" href="../../dc/d3f/a06331.html">DBUpdater</a>&lt; T &gt;::GetUpdaterInfo</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  588</span>{</div>
+<div class="line"><span class="lineno">  589</span>    <span class="keywordflow">return</span> { <a class="code hl_function" href="../../dc/d3f/a06331.html#a61e8308a7e8feaec9ddcd9cc9d952a63">GetTableName</a>(), <a class="code hl_function" href="../../dc/d3f/a06331.html#a2188d076f3bd9757b40408b6f576fe38">GetSourceDirectory</a>(), <a class="code hl_function" href="../../dc/d3f/a06331.html#a9719496c0b1271cf96178b9dc8025106">GetBaseFilesDirectory</a>(), <a class="code hl_function" href="../../dc/d3f/a06331.html#af1edc78d5fff2964c8aeade0914627a0">GetDBModuleName</a>() };</div>
+<div class="line"><span class="lineno">  590</span>}</div>
+<div class="ttc" id="aa06331_html_a61e8308a7e8feaec9ddcd9cc9d952a63"><div class="ttname"><a href="../../dc/d3f/a06331.html#a61e8308a7e8feaec9ddcd9cc9d952a63">DBUpdater::GetTableName</a></div><div class="ttdeci">static std::string GetTableName()</div></div>
+<div class="ttc" id="aa06331_html_a9719496c0b1271cf96178b9dc8025106"><div class="ttname"><a href="../../dc/d3f/a06331.html#a9719496c0b1271cf96178b9dc8025106">DBUpdater::GetBaseFilesDirectory</a></div><div class="ttdeci">static std::string GetBaseFilesDirectory()</div></div>
+<div class="ttc" id="aa06331_html_af1edc78d5fff2964c8aeade0914627a0"><div class="ttname"><a href="../../dc/d3f/a06331.html#af1edc78d5fff2964c8aeade0914627a0">DBUpdater::GetDBModuleName</a></div><div class="ttdeci">static std::string GetDBModuleName()</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00418">GetTableName()</a>.</p>
+
+</div>
+</div>
+<a id="a832f3d52780e35a67486c3028aa5c5bb" name="a832f3d52780e35a67486c3028aa5c5bb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a832f3d52780e35a67486c3028aa5c5bb">&#9670;&#160;</a></span>IsEnabled() <span class="overload">[1/4]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool <a class="el" href="../../dc/d3f/a06331.html">DBUpdater</a>&lt; <a class="el" href="../../d2/dc1/a06151.html">LoginDatabaseConnection</a> &gt;::IsEnabled </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> const&#160;</td>
+          <td class="paramname"><em>updateMask</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  111</span>{</div>
+<div class="line"><span class="lineno">  112</span>    <span class="comment">// This way silences warnings under msvc</span></div>
+<div class="line"><span class="lineno">  113</span>    <span class="keywordflow">return</span> (updateMask &amp; <a class="code hl_enumvalue" href="../../db/d41/a06115.html#a48b4a16db3575bc0e3885a6ffd11a8e5ac000a77a66232f40f1ed5877b3d6e163">DatabaseLoader::DATABASE_LOGIN</a>) ? true : <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  114</span>}</div>
+<div class="ttc" id="aa06115_html_a48b4a16db3575bc0e3885a6ffd11a8e5ac000a77a66232f40f1ed5877b3d6e163"><div class="ttname"><a href="../../db/d41/a06115.html#a48b4a16db3575bc0e3885a6ffd11a8e5ac000a77a66232f40f1ed5877b3d6e163">DatabaseLoader::DATABASE_LOGIN</a></div><div class="ttdeci">@ DATABASE_LOGIN</div><div class="ttdef"><b>Definition:</b> DatabaseLoader.h:48</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00048">DatabaseLoader::DATABASE_LOGIN</a>.</p>
+
+</div>
+</div>
+<a id="afb3804b72ca248745c88fdcf6708dd83" name="afb3804b72ca248745c88fdcf6708dd83"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afb3804b72ca248745c88fdcf6708dd83">&#9670;&#160;</a></span>IsEnabled() <span class="overload">[2/4]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool <a class="el" href="../../dc/d3f/a06331.html">DBUpdater</a>&lt; <a class="el" href="../../de/d49/a06155.html">WorldDatabaseConnection</a> &gt;::IsEnabled </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> const&#160;</td>
+          <td class="paramname"><em>updateMask</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  150</span>{</div>
+<div class="line"><span class="lineno">  151</span>    <span class="comment">// This way silences warnings under msvc</span></div>
+<div class="line"><span class="lineno">  152</span>    <span class="keywordflow">return</span> (updateMask &amp; <a class="code hl_enumvalue" href="../../db/d41/a06115.html#a48b4a16db3575bc0e3885a6ffd11a8e5a714c8ecb6138cd56a8b1547ec0ad9886">DatabaseLoader::DATABASE_WORLD</a>) ? true : <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  153</span>}</div>
+<div class="ttc" id="aa06115_html_a48b4a16db3575bc0e3885a6ffd11a8e5a714c8ecb6138cd56a8b1547ec0ad9886"><div class="ttname"><a href="../../db/d41/a06115.html#a48b4a16db3575bc0e3885a6ffd11a8e5a714c8ecb6138cd56a8b1547ec0ad9886">DatabaseLoader::DATABASE_WORLD</a></div><div class="ttdeci">@ DATABASE_WORLD</div><div class="ttdef"><b>Definition:</b> DatabaseLoader.h:50</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00050">DatabaseLoader::DATABASE_WORLD</a>.</p>
+
+</div>
+</div>
+<a id="adbdd53aa05764d55960e87b8911723b7" name="adbdd53aa05764d55960e87b8911723b7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adbdd53aa05764d55960e87b8911723b7">&#9670;&#160;</a></span>IsEnabled() <span class="overload">[3/4]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool <a class="el" href="../../dc/d3f/a06331.html">DBUpdater</a>&lt; <a class="el" href="../../d1/d10/a06147.html">CharacterDatabaseConnection</a> &gt;::IsEnabled </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> const&#160;</td>
+          <td class="paramname"><em>updateMask</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  189</span>{</div>
+<div class="line"><span class="lineno">  190</span>    <span class="comment">// This way silences warnings under msvc</span></div>
+<div class="line"><span class="lineno">  191</span>    <span class="keywordflow">return</span> (updateMask &amp; <a class="code hl_enumvalue" href="../../db/d41/a06115.html#a48b4a16db3575bc0e3885a6ffd11a8e5a5161a0e808becff885fa27e98cb5341c">DatabaseLoader::DATABASE_CHARACTER</a>) ? true : <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  192</span>}</div>
+<div class="ttc" id="aa06115_html_a48b4a16db3575bc0e3885a6ffd11a8e5a5161a0e808becff885fa27e98cb5341c"><div class="ttname"><a href="../../db/d41/a06115.html#a48b4a16db3575bc0e3885a6ffd11a8e5a5161a0e808becff885fa27e98cb5341c">DatabaseLoader::DATABASE_CHARACTER</a></div><div class="ttdeci">@ DATABASE_CHARACTER</div><div class="ttdef"><b>Definition:</b> DatabaseLoader.h:49</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00049">DatabaseLoader::DATABASE_CHARACTER</a>.</p>
+
+</div>
+</div>
+<a id="aa4bd2974f787e0ef294e82863f0b11c8" name="aa4bd2974f787e0ef294e82863f0b11c8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa4bd2974f787e0ef294e82863f0b11c8">&#9670;&#160;</a></span>IsEnabled() <span class="overload">[4/4]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static bool <a class="el" href="../../dc/d3f/a06331.html">DBUpdater</a>&lt; T &gt;::IsEnabled </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> const&#160;</td>
+          <td class="paramname"><em>updateMask</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00053">DatabaseLoader::AddDatabase()</a>.</p>
+
+</div>
+</div>
+<a id="accc1bcaf3ec3cabc8bfbd976b6804e3e" name="accc1bcaf3ec3cabc8bfbd976b6804e3e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#accc1bcaf3ec3cabc8bfbd976b6804e3e">&#9670;&#160;</a></span>Populate()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool <a class="el" href="../../dc/d3f/a06331.html">DBUpdater</a>&lt; T &gt;::Populate </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dc/dda/a06111.html">DatabaseWorkerPool</a>&lt; T &gt; &amp;&#160;</td>
+          <td class="paramname"><em>pool</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  615</span>{</div>
+<div class="line"><span class="lineno">  616</span>    <a class="code hl_class" href="../../d4/d84/a06131.html">DatabaseWorkerPoolAdapter&lt;T&gt;</a> adapter(pool);</div>
+<div class="line"><span class="lineno">  617</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/d48/a05150.html#a656a0a6d93f58d7d4cc2b1f99edb0c44">PopulateDatabase</a>(adapter, <a class="code hl_function" href="../../dc/d3f/a06331.html#aa316dec4c91143f3bfc9253c0cd0bbd3">GetUpdaterInfo</a>());</div>
+<div class="line"><span class="lineno">  618</span>}</div>
+<div class="ttc" id="aa05150_html_a656a0a6d93f58d7d4cc2b1f99edb0c44"><div class="ttname"><a href="../../dd/d48/a05150.html#a656a0a6d93f58d7d4cc2b1f99edb0c44">anonymous_namespace{DBUpdater.cpp}::PopulateDatabase</a></div><div class="ttdeci">bool PopulateDatabase(DatabaseUpdatePool &amp;pool, DBUpdaterInfo const &amp;info)</div><div class="ttdef"><b>Definition:</b> DBUpdater.cpp:405</div></div>
+<div class="ttc" id="aa06331_html_aa316dec4c91143f3bfc9253c0cd0bbd3"><div class="ttname"><a href="../../dc/d3f/a06331.html#aa316dec4c91143f3bfc9253c0cd0bbd3">DBUpdater::GetUpdaterInfo</a></div><div class="ttdeci">static DBUpdaterInfo GetUpdaterInfo()</div><div class="ttdef"><b>Definition:</b> DBUpdater.cpp:587</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00405">anonymous_namespace{DBUpdater.cpp}::PopulateDatabase()</a>.</p>
+
+</div>
+</div>
+<a id="a5cafc768301dbfa02e79afa5c0d07ecb" name="a5cafc768301dbfa02e79afa5c0d07ecb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5cafc768301dbfa02e79afa5c0d07ecb">&#9670;&#160;</a></span>Update() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool <a class="el" href="../../dc/d3f/a06331.html">DBUpdater</a>&lt; T &gt;::Update </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dc/dda/a06111.html">DatabaseWorkerPool</a>&lt; T &gt; &amp;&#160;</td>
+          <td class="paramname"><em>pool</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::string_view&#160;</td>
+          <td class="paramname"><em>modulesList</em> = <code>{}</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  601</span>{</div>
+<div class="line"><span class="lineno">  602</span>    <a class="code hl_class" href="../../d4/d84/a06131.html">DatabaseWorkerPoolAdapter&lt;T&gt;</a> adapter(pool);</div>
+<div class="line"><span class="lineno">  603</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/d48/a05150.html#abb1541bb142924d077074a145a6dc9d1">UpdateDatabase</a>(adapter, <a class="code hl_function" href="../../dc/d3f/a06331.html#aa316dec4c91143f3bfc9253c0cd0bbd3">GetUpdaterInfo</a>(), modulesList);</div>
+<div class="line"><span class="lineno">  604</span>}</div>
+<div class="ttc" id="aa05150_html_abb1541bb142924d077074a145a6dc9d1"><div class="ttname"><a href="../../dd/d48/a05150.html#abb1541bb142924d077074a145a6dc9d1">anonymous_namespace{DBUpdater.cpp}::UpdateDatabase</a></div><div class="ttdeci">bool UpdateDatabase(DatabaseUpdatePool &amp;pool, DBUpdaterInfo const &amp;info, std::string_view modulesList)</div><div class="ttdef"><b>Definition:</b> DBUpdater.cpp:270</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00270">anonymous_namespace{DBUpdater.cpp}::UpdateDatabase()</a>.</p>
+
+</div>
+</div>
+<a id="a261c8c0fbf6d0532436ce0457617f238" name="a261c8c0fbf6d0532436ce0457617f238"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a261c8c0fbf6d0532436ce0457617f238">&#9670;&#160;</a></span>Update() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool <a class="el" href="../../dc/d3f/a06331.html">DBUpdater</a>&lt; T &gt;::Update </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dc/dda/a06111.html">DatabaseWorkerPool</a>&lt; T &gt; &amp;&#160;</td>
+          <td class="paramname"><em>pool</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::vector&lt; std::string &gt; const *&#160;</td>
+          <td class="paramname"><em>setDirectories</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  608</span>{</div>
+<div class="line"><span class="lineno">  609</span>    <a class="code hl_class" href="../../d4/d84/a06131.html">DatabaseWorkerPoolAdapter&lt;T&gt;</a> adapter(pool);</div>
+<div class="line"><span class="lineno">  610</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/d48/a05150.html#abb1541bb142924d077074a145a6dc9d1">UpdateDatabase</a>(adapter, <a class="code hl_function" href="../../dc/d3f/a06331.html#aa316dec4c91143f3bfc9253c0cd0bbd3">GetUpdaterInfo</a>(), setDirectories);</div>
+<div class="line"><span class="lineno">  611</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00270">anonymous_namespace{DBUpdater.cpp}::UpdateDatabase()</a>.</p>
+
+</div>
+</div>
+</div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon May 25 2026 21:49:34 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dc/d3f/a06331.html">DBUpdater</a></li>
+    <li class="footer">Generated on Mon Sep 21 2026 23:33:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

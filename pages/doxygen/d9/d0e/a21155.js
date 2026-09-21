@@ -1,6 +1,8 @@
 var a21155 =
 [
-    [ "entry", "d9/d0e/a21155.html#aa9907022aea07d150223562376672353", null ],
-    [ "guid", "d9/d0e/a21155.html#af6bd3717f5e809607edd72ed4c9200ef", null ],
-    [ "index", "d9/d0e/a21155.html#a004f733fe69f93716e2280977be5dfb8", null ]
+    [ "FilterTargets", "d9/d0e/a21155.html#a3d92ca79a15efaff3c4dd28f0c7ede2c", null ],
+    [ "HandleDummyEffect", "d9/d0e/a21155.html#afbf3aab6724d12426ab0197fb9459562", null ],
+    [ "PrepareSpellScript", "d9/d0e/a21155.html#a7ec441904bc100c6b15ee219617489ff", null ],
+    [ "Register", "d9/d0e/a21155.html#a2796cc02d7c029f3f99264162a19e1d2", null ],
+    [ "Validate", "d9/d0e/a21155.html#a85388adbc15d449e687f9f463cce3833", null ]
 ];

@@ -1,8 +1,10 @@
 var a09859 =
 [
-    [ "AllCreaturesOfEntryInRange", "da/de6/a09859.html#a02aca6b65bd5ea49d510bb8d901e1322", null ],
-    [ "operator()", "da/de6/a09859.html#a99f472f33c0e5a6a76d6ffc08af2783b", null ],
-    [ "m_fRange", "da/de6/a09859.html#a0cb7d140b51d52e0db5b8d9f70250ced", null ],
-    [ "m_pObject", "da/de6/a09859.html#ade8cc66e1cd421550d2674e3ad960f48", null ],
-    [ "m_uiEntry", "da/de6/a09859.html#abf653360d2ee482728fb137a37fe0512", null ]
+    [ "AnyAoETargetUnitInObjectRangeCheck", "da/de6/a09859.html#a93d850e2d5f094b97ca5c09bf1d236a9", null ],
+    [ "operator()", "da/de6/a09859.html#af9a0c32593544a73aae22cd397eef63a", null ],
+    [ "_spellInfo", "da/de6/a09859.html#a1317c9df0d5792ad3122ff1ed1a31458", null ],
+    [ "i_funit", "da/de6/a09859.html#aa00b184a24ea73293114f92126f58f24", null ],
+    [ "i_obj", "da/de6/a09859.html#aa4acf0089c978408e30b08d539f2512f", null ],
+    [ "i_range", "da/de6/a09859.html#ad386efa8206906fd99816694a6a8d69b", null ],
+    [ "i_targetForPlayer", "da/de6/a09859.html#af5ce329f3493b97f59c61c3e87af48b1", null ]
 ];

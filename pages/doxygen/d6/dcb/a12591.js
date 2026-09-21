@@ -1,12 +1,10 @@
 var a12591 =
 [
-    [ "rbac_commandscript", "d6/dcb/a12591.html#ad5d80b189a8ddaf6b5927c81668a7d74", null ],
-    [ "GetCommands", "d6/dcb/a12591.html#a79aea8dac765cfb1a2f12264b58b4227", null ],
-    [ "GetRBACData", "d6/dcb/a12591.html#a00da7ed9027950938ec869e678111502", null ],
-    [ "GetSecurityLevelName", "d6/dcb/a12591.html#afcfc224e4b39db42ed6efeb5e49ecc7a", null ],
-    [ "HandleRBACListPermissionsCommand", "d6/dcb/a12591.html#a80f84e8eeebfd70b4ac7bc049bf4759c", null ],
-    [ "HandleRBACPermDenyCommand", "d6/dcb/a12591.html#acc074437ff26c253cf91772de9117fbf", null ],
-    [ "HandleRBACPermGrantCommand", "d6/dcb/a12591.html#ad4254acff93e13b7218b086281d13676", null ],
-    [ "HandleRBACPermListCommand", "d6/dcb/a12591.html#a324227f3398500ca0a5b7dd141698951", null ],
-    [ "HandleRBACPermRevokeCommand", "d6/dcb/a12591.html#adf8932879f77b25833cf55dc2924ac29", null ]
+    [ "mail_commandscript", "d6/dcb/a12591.html#a213bedb9d8fd8cb3c4b5928b2c193c58", null ],
+    [ "GetCommands", "d6/dcb/a12591.html#a931c5f4d66e598886984458a4a7fd3b0", null ],
+    [ "GetItemListString", "d6/dcb/a12591.html#a6d5fc2ef156b3d6be01b3b62f9efb2c9", null ],
+    [ "GetMailStationeryString", "d6/dcb/a12591.html#af016c0c682c94250cdb26eea3377ec6e", null ],
+    [ "GetMailTypeString", "d6/dcb/a12591.html#aeadf09762c52e71d4b6ef2b248e21077", null ],
+    [ "HandleMailListCommand", "d6/dcb/a12591.html#aea68c55c26314abf0bb4040ad6de8e1b", null ],
+    [ "HandleMailReturnCommand", "d6/dcb/a12591.html#acbdb7a0ea15ed5202866355d4839948c", null ]
 ];

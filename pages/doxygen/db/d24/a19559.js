@@ -1,15 +1,7 @@
 var a19559 =
 [
-    [ "boss_kelthuzad_minionAI", "db/d24/a19559.html#addeb3112e8b6da5713e6c25878c7e785", null ],
-    [ "AttackStart", "db/d24/a19559.html#ae6e2b0dd529f819b5b62348059dacb02", null ],
-    [ "DoAction", "db/d24/a19559.html#acd08aa78c1620f5552bbbc77c06b4344", null ],
-    [ "JustDied", "db/d24/a19559.html#abc6db76c9dcdbdb1c51b7f67d4c39551", null ],
-    [ "JustEngagedWith", "db/d24/a19559.html#a135dd028f95eeb34b2852e8dafebbe63", null ],
-    [ "JustReachedHome", "db/d24/a19559.html#aedfaf037ddf66d0e3aa990b4ea5b171c", null ],
-    [ "KilledUnit", "db/d24/a19559.html#ac8a2297a89310f4902fdc544ef71b673", null ],
-    [ "MoveInLineOfSight", "db/d24/a19559.html#aee871ff356bcfd38162a5f6c9bd3c994", null ],
-    [ "Reset", "db/d24/a19559.html#a01db0df4ec5f49d0915e90c418ebba75", null ],
-    [ "UpdateAI", "db/d24/a19559.html#ad60ec485144e447fd9d43b0cd5d6c87c", null ],
-    [ "callHelp", "db/d24/a19559.html#a6c6935e058bc18c013bc31f03f5a914b", null ],
-    [ "events", "db/d24/a19559.html#a2885d65bfaf345e7c3dfa42d8c80a892", null ]
+    [ "HandleScriptEffect", "db/d24/a19559.html#afa9d5c6fd0666a7fa1a6f4d5acabe782", null ],
+    [ "PrepareSpellScript", "db/d24/a19559.html#a21a3175346c9b12c02205f2d33da3b86", null ],
+    [ "Register", "db/d24/a19559.html#af5f279ad20e9153f201262eaa7615978", null ],
+    [ "Validate", "db/d24/a19559.html#a635ff34619767f657778016e1eb901aa", null ]
 ];

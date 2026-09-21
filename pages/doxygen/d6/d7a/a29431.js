@@ -1,7 +1,8 @@
 var a29431 =
 [
-    [ "Flags", "d6/d7a/a29431.html#a12b3cb0e28ed0f47ff5ccea09fc8b860", null ],
-    [ "ID", "d6/d7a/a29431.html#ab6ccf4a64672a6ade01f59cdeeeb85cb", null ],
-    [ "RangeMax", "d6/d7a/a29431.html#a9691134e5cb1e15e3c93ea05a653975d", null ],
-    [ "RangeMin", "d6/d7a/a29431.html#a127a46f2382edea750ca567d5ea3d304", null ]
+    [ "areaTriggerText", "d6/d7a/a29431.html#a32bb8c4a4defce661d108627e25b645a", null ],
+    [ "Difficulty", "d6/d7a/a29431.html#add8ed75cd6aaa3412e6222b869bb4113", null ],
+    [ "MapId", "d6/d7a/a29431.html#aa107ad302ec2aa3ce2289ba392e1c32e", null ],
+    [ "maxPlayers", "d6/d7a/a29431.html#a7ab33229ffee11a27861439053c79831", null ],
+    [ "resetTime", "d6/d7a/a29431.html#a891a741efb049b51996e1a6110efc52d", null ]
 ];

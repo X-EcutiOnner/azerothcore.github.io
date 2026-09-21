@@ -1,9 +1,6 @@
 var a21751 =
 [
-    [ "npc_mageguard_dalaranAI", "df/dbb/a21751.html#adb9c8b0003c070114b63f3b8e538bceb", null ],
-    [ "AttackStart", "df/dbb/a21751.html#ac1e73ad92bd5db0d3b9fe23b36cd8dd7", null ],
-    [ "JustEngagedWith", "df/dbb/a21751.html#aac463689ae5a488ec2acb8a0310689d8", null ],
-    [ "MoveInLineOfSight", "df/dbb/a21751.html#aafb32462693e0efd9c80cf335f489754", null ],
-    [ "Reset", "df/dbb/a21751.html#aa6dde0732bac407a62403bb8f0f24c26", null ],
-    [ "UpdateAI", "df/dbb/a21751.html#a4d6ce701a4cc463a7e9c295c664d4440", null ]
+    [ "npc_hidden_cultistAI", "d6/dec/a21755.html", "d6/dec/a21755" ],
+    [ "npc_hidden_cultist", "df/dbb/a21751.html#ab455b35fea966360e01fb8975adad989", null ],
+    [ "GetAI", "df/dbb/a21751.html#a4897006d9416f1177b0bc0e41df60293", null ]
 ];

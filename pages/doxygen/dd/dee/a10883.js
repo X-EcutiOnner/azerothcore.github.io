@@ -1,6 +1,6 @@
 var a10883 =
 [
-    [ "WorldMapScript", "dd/dee/a10883.html#a87448909610514b3a7d75f9ef5076696", null ],
-    [ "checkValidity", "dd/dee/a10883.html#aa212e582764d2cfbc5e7e600a54f2cb4", null ],
-    [ "isAfterLoadScript", "dd/dee/a10883.html#a6aeda6e4c8328d7334527cbe69311ddc", null ]
+    [ "LootScript", "dd/dee/a10883.html#acb6898fdb67e5bdcf0de945da5ec667d", null ],
+    [ "IsDatabaseBound", "dd/dee/a10883.html#ad60b605eac89be48efd339127e9cb9cd", null ],
+    [ "OnLootMoney", "dd/dee/a10883.html#a56a57baead49f6815a9979b181a55375", null ]
 ];

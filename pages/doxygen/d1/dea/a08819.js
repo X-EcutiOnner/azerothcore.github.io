@@ -1,7 +1,10 @@
 var a08819 =
 [
-    [ "ObjectDistanceOrderPred", "d1/dea/a08819.html#adced3fdc6d99b7506361eb7700fa4cec", null ],
-    [ "operator()", "d1/dea/a08819.html#aaa5023735568f6df28a177fbd9ed866e", null ],
-    [ "m_ascending", "d1/dea/a08819.html#a313cd0450096e49716bfb52f8f238bfc", null ],
-    [ "m_refObj", "d1/dea/a08819.html#aec421fd45a60545bf92b7236e0d0b360", null ]
+    [ "SpellCategory", "d1/dea/a08819.html#ad170ffceb499879a4b0d638e9c922703", null ],
+    [ "SpellCategoryCooldown", "d1/dea/a08819.html#a8a33274d71b410f24f110e9a5921ff18", null ],
+    [ "SpellCharges", "d1/dea/a08819.html#a16909465a3a20dbab6e3ca2e3c807f17", null ],
+    [ "SpellCooldown", "d1/dea/a08819.html#a8ef7106595ed25ce23ca2163258d769a", null ],
+    [ "SpellId", "d1/dea/a08819.html#af6973a8a9a258a87a916bcd431c33d8d", null ],
+    [ "SpellPPMRate", "d1/dea/a08819.html#a5b208a667802e4c3766619c96d267287", null ],
+    [ "SpellTrigger", "d1/dea/a08819.html#a39657ff9e561a3c86a671f7b3c78ef98", null ]
 ];

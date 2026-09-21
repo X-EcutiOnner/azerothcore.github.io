@@ -1,10 +1,7 @@
 var a13963 =
 [
-    [ "npc_professor_phizzlethorpeAI", "d1/d47/a13963.html#a92af4732575008c1a4f061cef0f23902", null ],
-    [ "JustEngagedWith", "d1/d47/a13963.html#a8864031e3c7a32cde57ca6efbf785d53", null ],
-    [ "JustSummoned", "d1/d47/a13963.html#af8e4e706925d8837cacdc0b5a6d1f10d", null ],
-    [ "sQuestAccept", "d1/d47/a13963.html#ad4a4bd9af581abe832933da69b18d76f", null ],
-    [ "UpdateAI", "d1/d47/a13963.html#a1c62cd07da5f0da91ef572bb00619d26", null ],
-    [ "WaypointReached", "d1/d47/a13963.html#a7be58c6ecc4e5ba23ec35cc1864f19e6", null ],
-    [ "WaypointReached", "d1/d47/a13963.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "OnPeriodic", "d1/d47/a13963.html#a25e7a59384f262a36c74696a1befa01d", null ],
+    [ "PrepareAuraScript", "d1/d47/a13963.html#a9b82fde3e38054b686f9b2a110cfaa1e", null ],
+    [ "Register", "d1/d47/a13963.html#a65e469ba04d8cd2aa23d934bf2915721", null ],
+    [ "Validate", "d1/d47/a13963.html#a6843deda5be8b684c06a86920714f255", null ]
 ];

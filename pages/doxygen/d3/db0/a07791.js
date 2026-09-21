@@ -1,7 +1,12 @@
 var a07791 =
 [
-    [ "BattlegroundEYPointIconsStruct", "d3/db0/a07791.html#a322379024d155d293d1c0083c510d232", null ],
-    [ "WorldStateAllianceControlledIndex", "d3/db0/a07791.html#a449932bc2357e26c79520fcf01a71a2a", null ],
-    [ "WorldStateControlIndex", "d3/db0/a07791.html#a82e87048f934b67821bc8ba308ed101d", null ],
-    [ "WorldStateHordeControlledIndex", "d3/db0/a07791.html#a1118c998cf9a319f9c81c100d23c25d3", null ]
+    [ "BGQueueInviteEvent", "d3/db0/a07791.html#acee27900339fdcebbfd21bb0e602654d", null ],
+    [ "~BGQueueInviteEvent", "d3/db0/a07791.html#a09f9f27ecbc273b25e5941966a4fa925", null ],
+    [ "Abort", "d3/db0/a07791.html#a07f5520ab61cdfd4eadc5d0815067135", null ],
+    [ "Execute", "d3/db0/a07791.html#a444aceb1c29c951271bab5186a7f3064", null ],
+    [ "m_ArenaType", "d3/db0/a07791.html#a1b7d1161d46578606396efd515ab1739", null ],
+    [ "m_BgInstanceGUID", "d3/db0/a07791.html#ad9adc44cc1cde3b0b820740852bdb3ce", null ],
+    [ "m_BgTypeId", "d3/db0/a07791.html#a608c24288f24bc4da77124257320c741", null ],
+    [ "m_PlayerGuid", "d3/db0/a07791.html#a200b4bcd336846df60ec11de8d829d7d", null ],
+    [ "m_RemoveTime", "d3/db0/a07791.html#a4c78e5a74eaf859db40772008557201f", null ]
 ];

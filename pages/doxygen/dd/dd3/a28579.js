@@ -1,6 +1,11 @@
 var a28579 =
 [
-    [ "npc_dancing_flamesAI", "d6/d18/a28583.html", "d6/d18/a28583" ],
-    [ "npc_dancing_flames", "dd/dd3/a28579.html#adec0401f876ddf159f28fdda8bc4d563", null ],
-    [ "GetAI", "dd/dd3/a28579.html#a1000d0b95dab3a6e73efa0ca088ce4e6", null ]
+    [ "npc_artoriusAI", "dd/dd3/a28579.html#a71056d1f537671a9f790ebbc1c2baf9c", null ],
+    [ "DamageTaken", "dd/dd3/a28579.html#acaa6f32e1cfba98ec4dd06245a41d321", null ],
+    [ "DoAction", "dd/dd3/a28579.html#abbfc9ee752d97f1694dbd739719843c2", null ],
+    [ "JustEngagedWith", "dd/dd3/a28579.html#ab5760ad8dc87f7ccbea615ff2eb809c8", null ],
+    [ "Reset", "dd/dd3/a28579.html#a862cc52a9251e2dfe486f1152dae9500", null ],
+    [ "SpellHit", "dd/dd3/a28579.html#ac6ce7235c4399a5a8f2e771f5cd652ba", null ],
+    [ "UpdateAI", "dd/dd3/a28579.html#afdd2821ce916b65ed33fe7ab75ef56a5", null ],
+    [ "events", "dd/dd3/a28579.html#a6c8adf35504caf0cfea9a353833d4c4e", null ]
 ];

@@ -1,9 +1,17 @@
 var a10391 =
 [
-    [ "ChaseAngle", "d4/d2b/a10391.html#a0744c615f437514a52b5a26fb717013a", null ],
-    [ "IsAngleOkay", "d4/d2b/a10391.html#aec86c653850655b723e5224ea20b0e21", null ],
-    [ "LowerBound", "d4/d2b/a10391.html#a2f8296cadbada4322ec9c754aed4a5ec", null ],
-    [ "UpperBound", "d4/d2b/a10391.html#a275d01ce57b23d42d4150b10c8433dee", null ],
-    [ "RelativeAngle", "d4/d2b/a10391.html#a810a730ae905bfa296dbe6c1e4b86416", null ],
-    [ "Tolerance", "d4/d2b/a10391.html#a2bb42885da594380cb742c29b6518ea3", null ]
+    [ "SpawnData", "d4/d2b/a10391.html#af108bd4f8d7080f008f1f3263e575311", null ],
+    [ "dbData", "d4/d2b/a10391.html#a32037d54d1c8dfd74e18b8b501843e93", null ],
+    [ "mapid", "d4/d2b/a10391.html#ac23de576d628ec0dde71be9a06976c83", null ],
+    [ "orientation", "d4/d2b/a10391.html#a645082615abc236e61a409595afca3e4", null ],
+    [ "phaseMask", "d4/d2b/a10391.html#a1d08a4a00b3ffe3eaaf260c7a447c861", null ],
+    [ "poolId", "d4/d2b/a10391.html#ae3790bdeab5bd664665f9a991ec15107", null ],
+    [ "posX", "d4/d2b/a10391.html#a038b864df6fc5db9a47ae565a5e8d627", null ],
+    [ "posY", "d4/d2b/a10391.html#a13dc41e4c6b296b6b7a0a1ca402f407b", null ],
+    [ "posZ", "d4/d2b/a10391.html#ae911f34522832f2842ea7450c55e264c", null ],
+    [ "ScriptId", "d4/d2b/a10391.html#acb2ca11212667789bbd41a285cf708d6", null ],
+    [ "spawnGroupId", "d4/d2b/a10391.html#aa608bdbe2112f69e2c96ee45830cc3f8", null ],
+    [ "spawnId", "d4/d2b/a10391.html#a589f8c64b4d22ee6a638a4bb4674c6ca", null ],
+    [ "spawnMask", "d4/d2b/a10391.html#a236e4a809883421cb2c5d4c4d607621b", null ],
+    [ "type", "d4/d2b/a10391.html#abb2ece9629d63141de2702acd5383564", null ]
 ];

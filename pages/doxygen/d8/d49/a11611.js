@@ -1,6 +1,6 @@
 var a11611 =
 [
-    [ "QuestGiverQuestInvalid", "d8/d49/a11611.html#a7220ac375523d524f905042722522bfb", null ],
-    [ "Write", "d8/d49/a11611.html#aed56e88c0fc568d524913c0863a45622", null ],
-    [ "FailureReason", "d8/d49/a11611.html#a7c2cc4153399abfbaa4b2b2811d2fde2", null ]
+    [ "PetStopAttack", "d8/d49/a11611.html#a4a68127f3290d4f2e288600757dd3282", null ],
+    [ "Read", "d8/d49/a11611.html#a22dd8d9fcbadbec5ba046812f5cdac51", null ],
+    [ "PetGUID", "d8/d49/a11611.html#af7b95e5b976af2fa7bb4c61319f7eb97", null ]
 ];

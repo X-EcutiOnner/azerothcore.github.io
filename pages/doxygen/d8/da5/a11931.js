@@ -1,10 +1,11 @@
 var a11931 =
 [
-    [ "ApplyHarmfulAuraImmuneMask", "d8/da5/a11931.html#afb005a71205a573357afae14481cf5a4", null ],
-    [ "AuraTypeImmune", "d8/da5/a11931.html#ad585a49cd0b72b84e2146b8d6acdb2fc", null ],
-    [ "DamageSchoolMask", "d8/da5/a11931.html#a0917b0bacb75c03a527e170ef08f0811", null ],
-    [ "DispelImmuneMask", "d8/da5/a11931.html#a142a794d2927b25592fece914f7a40fa", null ],
-    [ "MechanicImmuneMask", "d8/da5/a11931.html#ad001d68adbf9c985f26476dda31898ad", null ],
-    [ "SchoolImmuneMask", "d8/da5/a11931.html#a4b4b786ef6fe3bb4247eff61416d3400", null ],
-    [ "SpellEffectImmune", "d8/da5/a11931.html#afd9f307ea408ac6f88fae8bcde2f1ce7", null ]
+    [ "SpellValue", "d8/da5/a11931.html#a2aebedc86822634a0a80de7a4c16dd7f", null ],
+    [ "AuraDuration", "d8/da5/a11931.html#af44c190ba8a8636d78f8d271656bdd02", null ],
+    [ "AuraStackAmount", "d8/da5/a11931.html#af9d7a902bd7d6a24f2ef9480e725d8e8", null ],
+    [ "EffectBasePoints", "d8/da5/a11931.html#a4de44adea4dc620f0871215e4d4f611d", null ],
+    [ "ForcedCritResult", "d8/da5/a11931.html#a14f0fd1b3351297e5c71e34e0c9a44fb", null ],
+    [ "MaxAffectedTargets", "d8/da5/a11931.html#a69ea555bb8ae6642a0c9c85b3f9b373c", null ],
+    [ "MiscVal", "d8/da5/a11931.html#af81b9a29e521e28a4e88b8677f05a93f", null ],
+    [ "RadiusMod", "d8/da5/a11931.html#a135bbce8300101411e87a70467dbbd57", null ]
 ];

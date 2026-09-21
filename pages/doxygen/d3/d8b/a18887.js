@@ -1,6 +1,7 @@
 var a18887 =
 [
-    [ "boss_valithria_dreamwalkerAI", "d5/d27/a18891.html", "d5/d27/a18891" ],
-    [ "boss_valithria_dreamwalker", "d3/d8b/a18887.html#afcc6dc92d94330d3aed67f71452f9cd2", null ],
-    [ "GetAI", "d3/d8b/a18887.html#a0f0bacefa7e3d682a5db81a14f2ff947", null ]
+    [ "CalculateBonus", "d3/d8b/a18887.html#ae149a739150cb7eb9fb67f19130c0510", null ],
+    [ "OnPeriodic", "d3/d8b/a18887.html#a19697bd65a325870becc1c30d7deff36", null ],
+    [ "PrepareAuraScript", "d3/d8b/a18887.html#a77c272d4a26323c421e4b264f79d5b66", null ],
+    [ "Register", "d3/d8b/a18887.html#aecd8670e3a079c8460cddd5ce0b4f79b", null ]
 ];

@@ -1,7 +1,6 @@
 var a09911 =
 [
-    [ "RaidCheck", "d5/d14/a09911.html#ad8c3717b9a645c7806c8c027a8d90ef5", null ],
-    [ "operator()", "d5/d14/a09911.html#a0c076b737e8e1eacb9aab0981ff66f51", null ],
-    [ "_compare", "d5/d14/a09911.html#a5fffdd5901fb03c5e9a9adfb58e3d759", null ],
-    [ "_equals", "d5/d14/a09911.html#a7d253c94403bd50012722a9a9b113c3a", null ]
+    [ "AllFriendlyCreaturesInGrid", "d5/d14/a09911.html#a6ad66997d093ffa52e2d80337dcb5460", null ],
+    [ "operator()", "d5/d14/a09911.html#aca2b8ed7de69c57bb270e0c663781f97", null ],
+    [ "unit", "d5/d14/a09911.html#a3842fa1eceabaa2d40b2bab4393cb431", null ]
 ];

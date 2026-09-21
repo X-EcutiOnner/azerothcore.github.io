@@ -1,6 +1,12 @@
 var a21587 =
 [
-    [ "npc_sinkhole_kill_creditAI", "d7/d10/a21591.html", "d7/d10/a21591" ],
-    [ "npc_sinkhole_kill_credit", "d5/d07/a21587.html#a627d01aaaa3408986f2b4d171624e680", null ],
-    [ "GetAI", "d5/d07/a21587.html#a4d734432f132bea2c4525d049fbcfa67", null ]
+    [ "npc_ichor_globule", "d5/d07/a21587.html#a59443a6748d81ef27a030f8656697fc1", null ],
+    [ "AttackStart", "d5/d07/a21587.html#a1e52599fab1b7e33d958f9815f73c6eb", null ],
+    [ "JustDied", "d5/d07/a21587.html#af740ee64b1f8510b0bacba4bcfe6d418", null ],
+    [ "MoveInLineOfSight", "d5/d07/a21587.html#af14fada689a1a6a780ae44865d16e465", null ],
+    [ "Reset", "d5/d07/a21587.html#a78030360fcd39754744384cdba17fd9e", null ],
+    [ "SpellHit", "d5/d07/a21587.html#a3d1e68f4b809286d57355de7d4482ae6", null ],
+    [ "UpdateAI", "d5/d07/a21587.html#acccc54db59a18e78330011465e109439", null ],
+    [ "_events", "d5/d07/a21587.html#a221c58177666ea1eb4a6b831916297eb", null ],
+    [ "_instance", "d5/d07/a21587.html#a5d56f5468b146ab2f8905b807bb22edc", null ]
 ];

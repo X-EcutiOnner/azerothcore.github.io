@@ -1,8 +1,10 @@
 var a09799 =
 [
-    [ "AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck", "d6/da5/a09799.html#ab3a1ebf25ef0da5df75a5a6a8bbf3ddf", null ],
-    [ "operator()", "d6/da5/a09799.html#a2b38f9e66b1ba3bb678d763937852e02", null ],
-    [ "i_funit", "d6/da5/a09799.html#aed6fe2e6d17e2076a373b32de071cd18", null ],
-    [ "i_obj", "d6/da5/a09799.html#a65245ce627d5ccfde557f2d7e744ead6", null ],
-    [ "i_range", "d6/da5/a09799.html#aff91ead572f2ed0d1912dbd0180196d5", null ]
+    [ "NearestGameObjectEntryInObjectRangeCheck", "d6/da5/a09799.html#a7d57ae865868d4848caf088c4520b2a7", null ],
+    [ "NearestGameObjectEntryInObjectRangeCheck", "d6/da5/a09799.html#a28d97af524c2bab39e1bd2e5508e434b", null ],
+    [ "operator()", "d6/da5/a09799.html#ad0c6798e28784ed547102414f4c6a31f", null ],
+    [ "i_entry", "d6/da5/a09799.html#a5d19a23e7da2e5e5ed417d0a9623ffbb", null ],
+    [ "i_obj", "d6/da5/a09799.html#a104b8bece6ea78ba049dc592e54311be", null ],
+    [ "i_onlySpawned", "d6/da5/a09799.html#a2a58a6bcff73142e21c082bf2c11eff2", null ],
+    [ "i_range", "d6/da5/a09799.html#a94fc995a14f84060f3bfe5827f17b95e", null ]
 ];

@@ -1,9 +1,9 @@
 var a18899 =
 [
-    [ "npc_green_dragon_combat_triggerAI", "df/d3c/a18899.html#a4d4bd899a40ff44f8ee517b2a0328538", null ],
-    [ "DoAction", "df/d3c/a18899.html#abbd08537ed245084ca7d4cf852a749a2", null ],
-    [ "JustEnteredCombat", "df/d3c/a18899.html#ae25ca99139f8bb0082b97599cb924bd9", null ],
-    [ "JustExitedCombat", "df/d3c/a18899.html#add8ce38b4a75947dc0170c7aba9c5589", null ],
-    [ "MoveInLineOfSight", "df/d3c/a18899.html#ab2465cf3e5950d827eb0a30e9fc2ea47", null ],
-    [ "Reset", "df/d3c/a18899.html#a3dfe1f28c9301c30186beb27ab76f9a9", null ]
+    [ "npc_spirit_wardenAI", "df/d3c/a18899.html#a3391168478345d8b5c1fee151f6e9f04", null ],
+    [ "JustDied", "df/d3c/a18899.html#aa762c0bea6361107312e8231508dc655", null ],
+    [ "Reset", "df/d3c/a18899.html#ad6076663f65f43874feb0ecfc57718a4", null ],
+    [ "UpdateAI", "df/d3c/a18899.html#af845e3e2c38af5baa84c94f6074c0caf", null ],
+    [ "_events", "df/d3c/a18899.html#a1bc5cfdee62efdd622e0fe1aa503c260", null ],
+    [ "_instance", "df/d3c/a18899.html#a58ebb8e42e77add79fc888248013eb24", null ]
 ];

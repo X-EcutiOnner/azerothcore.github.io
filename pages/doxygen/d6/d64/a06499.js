@@ -1,14 +1,9 @@
 var a06499 =
 [
-    [ "PossessedAI", "d6/d64/a06499.html#a29bfe06f4f6f0398e3a0a385b179cdbe", null ],
-    [ "AttackStart", "d6/d64/a06499.html#a293a49d5cffd58dff103b0aacc558cde", null ],
-    [ "EnterEvadeMode", "d6/d64/a06499.html#ad99b9c297289b819157be56d8049320e", null ],
-    [ "JustDied", "d6/d64/a06499.html#aae94a4a6d6e67d05d18573845ecebfd7", null ],
-    [ "JustEnteredCombat", "d6/d64/a06499.html#a0e6c1036adcc5c27ddc8b3d1ab066659", null ],
-    [ "JustExitedCombat", "d6/d64/a06499.html#a3facfbb176dfcf2b4cba9d373f707eaa", null ],
-    [ "JustStartedThreateningMe", "d6/d64/a06499.html#a48c81735e921d8f0206e1f2b9ddb346e", null ],
-    [ "KilledUnit", "d6/d64/a06499.html#a8e6d316c08dd6fba53c8ed2edab9ea34", null ],
-    [ "MoveInLineOfSight", "d6/d64/a06499.html#a7d81135d9c23cb9b9ec48b441dd050e2", null ],
-    [ "Permissible", "d6/d64/a06499.html#aafc2d20dff60c6e5401eaa579844430d", null ],
-    [ "UpdateAI", "d6/d64/a06499.html#a3ce62a71e3f963f0b660bc987bf85051", null ]
+    [ "AddonInfo", "d6/d64/a06499.html#a60ea66ed93b64c9e182226954a514f53", null ],
+    [ "CRC", "d6/d64/a06499.html#a7f0f2d817a2189b3acee5999f154ba60", null ],
+    [ "Enabled", "d6/d64/a06499.html#ace9f109c395ed84cc01ca4381222c25b", null ],
+    [ "Name", "d6/d64/a06499.html#a45692257c72286e670ab8c9c50014335", null ],
+    [ "State", "d6/d64/a06499.html#a5301b19e44d68540434574f023e62f46", null ],
+    [ "UsePublicKeyOrCRC", "d6/d64/a06499.html#a75e016fa7abee24757c89b97330a6192", null ]
 ];

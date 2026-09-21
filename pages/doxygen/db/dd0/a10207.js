@@ -1,8 +1,10 @@
 var a10207 =
 [
-    [ "CircleBoundary", "db/dd0/a10207.html#a1f58f718ac4e4f6de029a0d46954012e", null ],
-    [ "CircleBoundary", "db/dd0/a10207.html#a10387b9a70013ecc15ae4f31dd1f21f3", null ],
-    [ "IsWithinBoundaryArea", "db/dd0/a10207.html#ad8eef3c2c98ee71a7d28d1e5d93ee508", null ],
-    [ "_center", "db/dd0/a10207.html#a65edd0aef7b73b176e5e311bb0d63738", null ],
-    [ "_radiusSq", "db/dd0/a10207.html#acbb3cc0c546f0e557a48a45425355950", null ]
+    [ "iterator", "db/dd0/a10207.html#a9fada63aa17222fc5e216f3904affafd", null ],
+    [ "begin", "db/dd0/a10207.html#aee3a4701c5bc51f4028fe53f18675989", null ],
+    [ "end", "db/dd0/a10207.html#ad61defd77296790a6c5d0a43bacbbe4b", null ],
+    [ "getFirst", "db/dd0/a10207.html#ae47bba95a17db31a42231da948245387", null ],
+    [ "getLast", "db/dd0/a10207.html#ac03e93ac8ad6fc91ec9d2961b8904217", null ],
+    [ "rbegin", "db/dd0/a10207.html#af68f1d93a80e13976798dfed0063a1e4", null ],
+    [ "rend", "db/dd0/a10207.html#a92c30fb269bc99820b6964a99ee86d98", null ]
 ];

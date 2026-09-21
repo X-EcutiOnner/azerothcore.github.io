@@ -1,10 +1,6 @@
 var a30191 =
 [
-    [ "Exception", "d1/d52/a30191.html#a414c3d1a58dc27f84f70db7372c71394", null ],
-    [ "~Exception", "d1/d52/a30191.html#a1af5fa940a44522664bf8032b0ec164a", null ],
-    [ "Exception", "d1/d52/a30191.html#a414c3d1a58dc27f84f70db7372c71394", null ],
-    [ "~Exception", "d1/d52/a30191.html#a1af5fa940a44522664bf8032b0ec164a", null ],
-    [ "getMessage", "d1/d52/a30191.html#abb24944d5d6ea7b18be30f8bd9741ae2", null ],
-    [ "getMessage", "d1/d52/a30191.html#abb24944d5d6ea7b18be30f8bd9741ae2", null ],
-    [ "message", "d1/d52/a30191.html#aeb732542a0ba63cde3d9b3bff93f4eda", null ]
+    [ "RunStatisticalTest", "d1/d52/a30191.html#a5dadc645a4cae9bf9e9ed990616118be", null ],
+    [ "SetUp", "d1/d52/a30191.html#afa15552d260ab744d178e1c1b7ed23bb", null ],
+    [ "TearDown", "d1/d52/a30191.html#a894d832a3ee006179de45e944d25a732", null ]
 ];

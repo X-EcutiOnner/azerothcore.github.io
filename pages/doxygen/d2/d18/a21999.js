@@ -1,6 +1,8 @@
 var a21999 =
 [
-    [ "npc_venture_co_stragglerAI", "d1/d3f/a22003.html", "d1/d3f/a22003" ],
-    [ "npc_venture_co_straggler", "d2/d18/a21999.html#a9d928b33dfcd3a6ccb7e1f7a1964762f", null ],
-    [ "GetAI", "d2/d18/a21999.html#a5f95d20c67553ae8a27f00ebb92e3627", null ]
+    [ "npc_q24545_vegardAI", "d2/d18/a21999.html#a6a86b56508a86bf32ab5fb2bd46248c9", null ],
+    [ "JustDied", "d2/d18/a21999.html#a1f7784242bbaf39d0fb105d2930da37c", null ],
+    [ "KilledUnit", "d2/d18/a21999.html#a2d78117a6c2a29f52f1905595425964a", null ],
+    [ "UpdateAI", "d2/d18/a21999.html#a79cc34760b58ad4b29c6a0a496971f0a", null ],
+    [ "events", "d2/d18/a21999.html#a68f48d92cc5559025e635d599c2882e3", null ]
 ];

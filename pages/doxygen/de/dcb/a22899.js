@@ -1,13 +1,6 @@
 var a22899 =
 [
-    [ "boss_illidari_council_memberAI", "de/dcb/a22899.html#ac32366dfad13cd37ced2428d041e25c9", null ],
-    [ "DamageTaken", "de/dcb/a22899.html#a1006bbdb6e39b6ceb52037e1b3cdb788", null ],
-    [ "DoAction", "de/dcb/a22899.html#a203310b84d71a24145b1c39e7faff182", null ],
-    [ "EnterEvadeMode", "de/dcb/a22899.html#a9bf2376cd75e0dc825de3839eda857eb", null ],
-    [ "JustDied", "de/dcb/a22899.html#a135c8e8f4113b1c9c05e5b26e61e639c", null ],
-    [ "JustEngagedWith", "de/dcb/a22899.html#a5c43bfb6e1781a83bfad36668ac724f2", null ],
-    [ "KilledUnit", "de/dcb/a22899.html#aa0cb7a373d521038e8e41e354f6bc3f7", null ],
-    [ "Reset", "de/dcb/a22899.html#a8e75d47f56d14d9b66d10b74c3479839", null ],
-    [ "events", "de/dcb/a22899.html#ad47a350f5ed066e04816e72961a80bd0", null ],
-    [ "instance", "de/dcb/a22899.html#adb11720cd0fd87a42b9a78490a70251e", null ]
+    [ "HandleScriptEffect", "de/dcb/a22899.html#a21740b341acce23e284a3d4ceea9b6e0", null ],
+    [ "PrepareSpellScript", "de/dcb/a22899.html#addcd30a673390ca8b76eab5ccb5f4245", null ],
+    [ "Register", "de/dcb/a22899.html#aad6959f74932db219e991efd3b3af44a", null ]
 ];

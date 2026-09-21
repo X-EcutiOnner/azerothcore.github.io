@@ -1,6 +1,6 @@
 var a26407 =
 [
-    [ "HandleStackDrop", "d7/d9f/a26407.html#a8e452c968558f3bd273b18a8055745d2", null ],
-    [ "PrepareAuraScript", "d7/d9f/a26407.html#aa18e4975db4e2831c61f38d990886676", null ],
-    [ "Register", "d7/d9f/a26407.html#a04ebc4be3fea42ca2352fd441841f76e", null ]
+    [ "OnRemove", "d7/d9f/a26407.html#a3803e6bbdb17e9a848376481581c993d", null ],
+    [ "PrepareAuraScript", "d7/d9f/a26407.html#a6f1340b824af4604e310666e89d05b7a", null ],
+    [ "Register", "d7/d9f/a26407.html#a3b361a478f1c035b706ac2e17499fb37", null ]
 ];

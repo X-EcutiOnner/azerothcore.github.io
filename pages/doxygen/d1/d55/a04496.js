@@ -1,9 +1,12 @@
 var a04496 =
 [
-    [ "TEST", "d1/d55/a04496.html#a2133d97c331f187afb39c2d4e9835b98", null ],
-    [ "TEST", "d1/d55/a04496.html#adf1ceea2f633c1b60074439ff4934077", null ],
-    [ "TEST", "d1/d55/a04496.html#ac42a03fce8265bf78bd0d0a7f9ff8382", null ],
-    [ "TEST", "d1/d55/a04496.html#a2d7908b1aa6a59d64e9b37da57afd807", null ],
-    [ "TEST", "d1/d55/a04496.html#a928eecf9f26ee31408df253f9c3a24f2", null ],
-    [ "TEST", "d1/d55/a04496.html#a35303df3258825fd9d29b14977b9ff89", null ]
+    [ "SpellProcSpellTypeMaskTest", "da/dac/a30167.html", "da/dac/a30167" ],
+    [ "TEST_F", "d1/d55/a04496.html#a0e299f1164a6c1e0f315da2c5551e58a", null ],
+    [ "TEST_F", "d1/d55/a04496.html#ae1ae997d3f0f1ba7825ae4b2e5436d44", null ],
+    [ "TEST_F", "d1/d55/a04496.html#a7a5da3689f4cd8516f8998a3eb8516f1", null ],
+    [ "TEST_F", "d1/d55/a04496.html#a0b4b6b9b08a21068764a01b658ede70d", null ],
+    [ "TEST_F", "d1/d55/a04496.html#abd75b3776c8e55bbc898c408aad3f34d", null ],
+    [ "TEST_F", "d1/d55/a04496.html#ab03489d280d80145880f52bc0a09c584", null ],
+    [ "TEST_F", "d1/d55/a04496.html#a6ae8c3849f8042eeff0379c4ea6d2adc", null ],
+    [ "TEST_F", "d1/d55/a04496.html#a790970fbe1cfb4df4e5ba38abf4c9bae", null ]
 ];

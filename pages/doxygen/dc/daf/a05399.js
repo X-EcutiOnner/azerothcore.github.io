@@ -1,15 +1,11 @@
 var a05399 =
 [
-    [ "GetBounds", "dc/daf/a05399.html#a74182e3f2b6cd6eb1ec9a09a76749537", null ],
-    [ "operator==", "dc/daf/a05399.html#aa32a53f51fd441bb19c4e3f6a269f33e", null ],
-    [ "readFromFile", "dc/daf/a05399.html#a35d7880eb3e295ed3148ca05a2f4520e", null ],
-    [ "writeToFile", "dc/daf/a05399.html#af7ab85f7ab03ed4c9eadde9bba1a1857", null ],
-    [ "adtId", "dc/daf/a05399.html#a4ebcfe8326eff028e722c9972a16200b", null ],
-    [ "flags", "dc/daf/a05399.html#acfc7a76db09013abfad8e42aaae59f52", null ],
-    [ "iBound", "dc/daf/a05399.html#ae1dac1aa360c4d49b61a0cd8af92399c", null ],
-    [ "ID", "dc/daf/a05399.html#ab2fdb441870d6ac7ddc05640ec1d0598", null ],
-    [ "iPos", "dc/daf/a05399.html#abb5966f87710bc6a1f5da766c99b3e12", null ],
-    [ "iRot", "dc/daf/a05399.html#a6d0b4f6bde1a20b246e4b22cc43e25af", null ],
-    [ "iScale", "dc/daf/a05399.html#aad355d0fb09ff0360ed19610bef92d8e", null ],
-    [ "name", "dc/daf/a05399.html#a66e19a4a28f8fc0c537f1315d9bddcfb", null ]
+    [ "ModelPosition", "dc/daf/a05399.html#ac611d964ae36e4ccd5a3bf385457a0ac", null ],
+    [ "init", "dc/daf/a05399.html#a5b7df306c28a7985fd3ab17d48350a27", null ],
+    [ "moveToBasePos", "dc/daf/a05399.html#adb4da027178ca086fe72b4ccf4ea327a", null ],
+    [ "transform", "dc/daf/a05399.html#a7e72fc425ad6aae4844090760c1938df", null ],
+    [ "iDir", "dc/daf/a05399.html#a24ba62281166e60036ac8a57b26c6abd", null ],
+    [ "iPos", "dc/daf/a05399.html#a36a3bd930273e0313e3b09c1289e9317", null ],
+    [ "iRotation", "dc/daf/a05399.html#ae53c5b044021f5ef04ecb5d8898fd8b3", null ],
+    [ "iScale", "dc/daf/a05399.html#a81bb029dce2aadec2f147a1329ee285e", null ]
 ];

@@ -1,6 +1,7 @@
 var a14531 =
 [
-    [ "HandleOnHit", "d2/d3c/a14531.html#a1f133ab9e85f80c225276bf744da6898", null ],
-    [ "PrepareSpellScript", "d2/d3c/a14531.html#ae554f8be36eabc6d23f823e6d153be2b", null ],
-    [ "Register", "d2/d3c/a14531.html#a1063358ed71ded8454f35f43442354ab", null ]
+    [ "HandleEffect", "d2/d3c/a14531.html#a8cda8eff109af7441d6990a236a52b80", null ],
+    [ "PrepareSpellScript", "d2/d3c/a14531.html#acc2698ba702be211bef63cefa41005f4", null ],
+    [ "Register", "d2/d3c/a14531.html#a5d6dccbb44a5d95055755673ad70707f", null ],
+    [ "Validate", "d2/d3c/a14531.html#a0b106298aa550e4fe9e8a449ed7eaa51", null ]
 ];

@@ -1,9 +1,6 @@
 var a24479 =
 [
-    [ "npc_pet_gen_fetch_ball", "de/d03/a24479.html#a4cd4dabd5df72ad1e64bdc8d6efb2f1b", null ],
-    [ "IsSummonedBy", "de/d03/a24479.html#abaf6308f7c47fd05acb86055bec0aea8", null ],
-    [ "SpellHitTarget", "de/d03/a24479.html#a87bdded236f6584d9b71507a1253f7d0", null ],
-    [ "UpdateAI", "de/d03/a24479.html#a1e0f75d5cd438d500ad94c5024bf83ae", null ],
-    [ "checkTimer", "de/d03/a24479.html#ab8d0a3a9ba2a8e0d6f58b3867f20974e", null ],
-    [ "targetGUID", "de/d03/a24479.html#ae474374af7c2270e218ed236d90c789c", null ]
+    [ "npc_unkor_the_ruthlessAI", "df/d24/a24483.html", "df/d24/a24483" ],
+    [ "npc_unkor_the_ruthless", "de/d03/a24479.html#a4eb173932f39c5503d1db91d55f3a5b7", null ],
+    [ "GetAI", "de/d03/a24479.html#a552a19b9a48e90f3b093e2b9e16ec867", null ]
 ];

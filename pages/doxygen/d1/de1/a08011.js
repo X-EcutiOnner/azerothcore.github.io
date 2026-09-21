@@ -1,4 +1,7 @@
 var a08011 =
 [
-    [ "TryConsume", "d1/de1/a08011.html#a8f2b6448f80a4fac69d0157c9f556dc4", null ]
+    [ "CommandPermissions", "d1/de1/a08011.html#ad1242d9067778298c44501b5d5a962f8", null ],
+    [ "CommandPermissions", "d1/de1/a08011.html#a47f284c63f10b6c3479624845b696aa6", null ],
+    [ "AllowConsole", "d1/de1/a08011.html#a8b419033e8dff0307a22a32bc57a1dc8", null ],
+    [ "RequiredLevel", "d1/de1/a08011.html#a4918f2c3b1913eb76d09d859479ebbae", null ]
 ];

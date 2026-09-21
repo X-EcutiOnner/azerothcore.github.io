@@ -1,23 +1,8 @@
 var a15427 =
 [
-    [ "boss_onyxia", "d7/d38/a15427.html#a529d07414467a41b67ec9e79ded31810", null ],
-    [ "CheckInRoom", "d7/d38/a15427.html#a4278354db54db2190f8e5639d51f180e", null ],
-    [ "DamageTaken", "d7/d38/a15427.html#abf2607b4eb644bd42edc9e723ec92ef4", null ],
-    [ "DoAction", "d7/d38/a15427.html#a9e6a94b225caf455f9072c3a430ba49e", null ],
-    [ "HandleWhelpSpam", "d7/d38/a15427.html#a53c242fdf9037ad3fb2309b180c9ce7c", null ],
-    [ "Initialize", "d7/d38/a15427.html#ae64cfe5c532c4eae8e76c4ddd845e278", null ],
-    [ "JustEngagedWith", "d7/d38/a15427.html#a1dff56a293babebe82b3947c53a1e0e9", null ],
-    [ "JustSummoned", "d7/d38/a15427.html#a424a1815a0f51097c184f7582f1b2f45", null ],
-    [ "MovementInform", "d7/d38/a15427.html#a1413f44b212b651f276ecb1e2f01c36a", null ],
-    [ "Reset", "d7/d38/a15427.html#a837fb19b4c85d87ebf026b2f692696bb", null ],
-    [ "SetPhase", "d7/d38/a15427.html#a7b0df8fb7524d223c14f360c2eb9e282", null ],
-    [ "SpellHitTarget", "d7/d38/a15427.html#ace3d7dd677a4716e13f4c0c1c5944471", null ],
-    [ "SummonWhelps", "d7/d38/a15427.html#ac417c5c9d900660b437aaabe9f0191d7", null ],
-    [ "UpdateAI", "d7/d38/a15427.html#ad04fc48bd1aa5ffa5570c0e44b2a112c", null ],
-    [ "_currentWP", "d7/d38/a15427.html#a2d6ecdf66f3f8093a938628958fbf932", null ],
-    [ "_manyWhelpsAvailable", "d7/d38/a15427.html#aef1cdea4637777c08766bf77d70ad39a", null ],
-    [ "_phase", "d7/d38/a15427.html#a0bb7d3995b497ff691529c8b5b067d83", null ],
-    [ "_whelpCount", "d7/d38/a15427.html#a3b07857369d671f65658950a73c736c3", null ],
-    [ "_whelpSpam", "d7/d38/a15427.html#af5e9dcc26925e479593939b843164723", null ],
-    [ "_whelpSpamTimer", "d7/d38/a15427.html#afe32cf65b1e879fff98e9eee8f2d04d8", null ]
+    [ "npc_thrall_old_hillsbradAI", "dd/d26/a15431.html", "dd/d26/a15431" ],
+    [ "npc_thrall_old_hillsbrad", "d7/d38/a15427.html#a3e6fa750b095af3beac806a619e18328", null ],
+    [ "GetAI", "d7/d38/a15427.html#a7b7baeb3e2e33dcb4ffb0af5d1f5930c", null ],
+    [ "OnGossipHello", "d7/d38/a15427.html#a9b3f622ab9c0dc06011cb36cd084f2e7", null ],
+    [ "OnGossipSelect", "d7/d38/a15427.html#a17fcb00850503903f430506654e035c0", null ]
 ];

@@ -1,6 +1,6 @@
 var a18467 =
 [
-    [ "boss_sindragosaAI", "d3/d88/a18471.html", "d3/d88/a18471" ],
-    [ "boss_sindragosa", "d9/d35/a18467.html#af5cdf4798b8b87467fa45dbda7fcbee1", null ],
-    [ "GetAI", "d9/d35/a18467.html#a005a6da9f4f9690416a108872b3c2b36", null ]
+    [ "boss_rotfaceAI", "d3/d88/a18471.html", "d3/d88/a18471" ],
+    [ "boss_rotface", "d9/d35/a18467.html#a8896f5ed16c728d72a123b2e92a174fb", null ],
+    [ "GetAI", "d9/d35/a18467.html#a8a3ff9ef99da7d72ce2f7827bfc2564b", null ]
 ];

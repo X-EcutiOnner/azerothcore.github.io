@@ -1,8 +1,9 @@
 var a26875 =
 [
-    [ "HandleProc", "d4/db0/a26875.html#a95553bc0c973be3a2e3911602e4067c8", null ],
-    [ "PrepareAuraScript", "d4/db0/a26875.html#a99ea6943a3e8d4105b4187d8ea1a298d", null ],
-    [ "Register", "d4/db0/a26875.html#aad50f19b0c854b7f9c5d81cd2e86bdfa", null ],
-    [ "Validate", "d4/db0/a26875.html#aad1324e94920136258c419094cfca4c3", null ],
-    [ "_cooldownEnd", "d4/db0/a26875.html#a4f19a965ed8ddab712633abdb761d210", null ]
+    [ "spell_pal_judgement", "d4/db0/a26875.html#a497aed8c1d8c6a2af22e9e8daae96e14", null ],
+    [ "HandleScriptEffect", "d4/db0/a26875.html#add419a824dbebdc168d2b6dc49d07913", null ],
+    [ "PrepareSpellScript", "d4/db0/a26875.html#a2cffed69c16a1a6189048ed52af35152", null ],
+    [ "Register", "d4/db0/a26875.html#ad8e65beb41a1bb41a2dd307f3b1da839", null ],
+    [ "Validate", "d4/db0/a26875.html#a3971c195a279338253771675131b4802", null ],
+    [ "_spellId", "d4/db0/a26875.html#ad49ea02800078c672747f4fdbbab1d20", null ]
 ];

@@ -1,6 +1,8 @@
 var a21427 =
 [
-    [ "boss_koralonAI", "d6/d30/a21431.html", "d6/d30/a21431" ],
-    [ "boss_koralon", "d9/da3/a21427.html#a43b9fb1224abeba44080fb02062451b0", null ],
-    [ "GetAI", "d9/da3/a21427.html#a7afd462b2c43ee088c09fcb7ddcb141d", null ]
+    [ "FilterTargets", "d9/da3/a21427.html#a028ef84c884536a28650ace1e56f8061", null ],
+    [ "HandleScript", "d9/da3/a21427.html#a16466b4c07c06c57493082b0e84b3c66", null ],
+    [ "PrepareSpellScript", "d9/da3/a21427.html#ad43892487ca38342a61522548b34cd2c", null ],
+    [ "Register", "d9/da3/a21427.html#a90470761baccdcf8c5430006004abf29", null ],
+    [ "Validate", "d9/da3/a21427.html#a1664dcb92887f6974e1750472c02d168", null ]
 ];

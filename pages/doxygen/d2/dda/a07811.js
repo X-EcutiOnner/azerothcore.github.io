@@ -1,12 +1,11 @@
 var a07811 =
 [
-    [ "CapturePointInfo", "d2/dda/a07811.html#a8bd80d9a019a5579d32051c6c3f91c0b", null ],
-    [ "IsUncontrolled", "d2/dda/a07811.html#a4a4dbb61dd3ae83084ee518830fb7db0", null ],
-    [ "IsUnderControl", "d2/dda/a07811.html#a3f33897525f5104e2e7733dd6247c090", null ],
-    [ "IsUnderControl", "d2/dda/a07811.html#af6b021020b120b87c300981b8bb60992", null ],
-    [ "_areaTrigger", "d2/dda/a07811.html#aca64138e11e9e29a55bfedeee5b7e7ea", null ],
-    [ "_barStatus", "d2/dda/a07811.html#a02da5cc40ac6e97e63380d6f66e10d7e", null ],
-    [ "_ownerTeamId", "d2/dda/a07811.html#a5f0019635c5d05489f1ef97a95a7f01d", null ],
-    [ "_playersCount", "d2/dda/a07811.html#a7316d0eccaa25b9f30a39c48635e4c16", null ],
-    [ "player", "d2/dda/a07811.html#a97c5da6401e8423c1314ad1186e1dfeb", null ]
+    [ "BattlegroundABScore", "d2/dda/a07811.html#ae219ecb551c89ad5a5cb22f1996a598b", null ],
+    [ "BuildObjectivesBlock", "d2/dda/a07811.html#a86ac6e9b19eaa7ed257f25f9f73c22cf", null ],
+    [ "GetAttr1", "d2/dda/a07811.html#af0f066f76f4d84e844946862ae819b4f", null ],
+    [ "GetAttr2", "d2/dda/a07811.html#a8ac00679dd8dfeef81f159b7a2b22027", null ],
+    [ "UpdateScore", "d2/dda/a07811.html#a43aaefd97c8880cbf70381282d81f7cf", null ],
+    [ "BattlegroundAB", "d2/dda/a07811.html#ad5365fcb2edd84180065badd1572ba8e", null ],
+    [ "BasesAssaulted", "d2/dda/a07811.html#a25643abf67d1ae2f8498951c11833994", null ],
+    [ "BasesDefended", "d2/dda/a07811.html#a450504481d335230b3e035d4337694be", null ]
 ];

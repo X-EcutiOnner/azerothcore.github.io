@@ -1,6 +1,7 @@
 var a13679 =
 [
-    [ "HandleActivateObject", "d7/d3f/a13679.html#afd73a7f5ec26c9ecb0424ee09ce638fe", null ],
-    [ "PrepareSpellScript", "d7/d3f/a13679.html#ad55914fdc6771e09a508572d59ad30ed", null ],
-    [ "Register", "d7/d3f/a13679.html#a6a0fe507ca7a382122d55e04d3c021d9", null ]
+    [ "OnPeriodic", "d7/d3f/a13679.html#aa48b6f35302a8857465c6567f811dec6", null ],
+    [ "PrepareAuraScript", "d7/d3f/a13679.html#ad606a06f64b85c762f3c83bc9ca5b7b3", null ],
+    [ "Register", "d7/d3f/a13679.html#aa7708067531131738b86077638eda7ac", null ],
+    [ "Validate", "d7/d3f/a13679.html#a665698b54201184185d96bd33f53e584", null ]
 ];

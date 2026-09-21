@@ -1,5 +1,5 @@
 var a19227 =
 [
-    [ "at_icc_start_blood_quickening", "d2/d7d/a19227.html#a544b0591b19a62e5c8a6efcfffd98326", null ],
-    [ "OnTrigger", "d2/d7d/a19227.html#a814670e127b1eace6068a553b23d00f7", null ]
+    [ "npc_darkfallen_archmage", "d2/d7d/a19227.html#a8d21215aba6a282cf6d6450551876813", null ],
+    [ "ScheduleSpells", "d2/d7d/a19227.html#a9a0e12d3d69a7c409d5c32ec68c51f60", null ]
 ];

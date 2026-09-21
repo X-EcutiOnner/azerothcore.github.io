@@ -1,6 +1,6 @@
 var a12127 =
 [
-    [ "CheckEffectProcHandler", "d6/de1/a12127.html#ac91e234c2ec9d458a70f501e9b672af0", null ],
-    [ "Call", "d6/de1/a12127.html#aca4c845623e63c38310986b86e312247", null ],
-    [ "_HandlerScript", "d6/de1/a12127.html#a0bb540e91e691b31191983614fa737dc", null ]
+    [ "HitHandler", "d6/de1/a12127.html#a41c5a6853bf72c113388995dc3ebaba7", null ],
+    [ "Call", "d6/de1/a12127.html#a157baaa3ceba62a9910cba5377bd7699", null ],
+    [ "pHitHandlerScript", "d6/de1/a12127.html#ac24144e49930a01a3049740a4072f626", null ]
 ];

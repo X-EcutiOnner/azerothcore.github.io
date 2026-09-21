@@ -1,7 +1,6 @@
 var a14135 =
 [
-    [ "HandleScriptEffect", "d2/d07/a14135.html#a1cdba27f7311021407307bcd35235fed", null ],
-    [ "PrepareSpellScript", "d2/d07/a14135.html#a9c97b6702a02fe78e1f6e76d8a00c598", null ],
-    [ "Register", "d2/d07/a14135.html#a9794991aa1710ce37112888eeb572796", null ],
-    [ "Validate", "d2/d07/a14135.html#a1e7c77b45c1abf4aee5491f02d75b6d1", null ]
+    [ "OnEffect", "d2/d07/a14135.html#a41903586310ec274dd10537ccb8655f3", null ],
+    [ "PrepareSpellScript", "d2/d07/a14135.html#a17240b9d80e5f30cd4638e2ec5b92d0b", null ],
+    [ "Register", "d2/d07/a14135.html#a64ef9effcdeaf13b58aeef889d777f22", null ]
 ];

@@ -1,7 +1,7 @@
 var a09451 =
 [
-    [ "QuestPOIPoint", "d1/dff/a09451.html#a99aaafe1fdae391c6fba20e0c623ff99", null ],
-    [ "QuestPOIPoint", "d1/dff/a09451.html#a2e80e5a83ab336a8b019f38297862efa", null ],
-    [ "x", "d1/dff/a09451.html#a5e9592283b28cd6ff0610ec0438b2a2d", null ],
-    [ "y", "d1/dff/a09451.html#a45211fd0fbeeb5d9fced2b2c31502851", null ]
+    [ "IsFitToRequirements", "d1/dff/a09451.html#ac175634ed2eab2911c3749fa208a073a", null ],
+    [ "castFlags", "d1/dff/a09451.html#a03cd65a460ea252818de9230cb656c1c", null ],
+    [ "spellId", "d1/dff/a09451.html#a34641755a5267b7a907d320cc5b4ddb4", null ],
+    [ "userType", "d1/dff/a09451.html#adcf285572403481cb418bddebc5f4bfa", null ]
 ];

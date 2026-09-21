@@ -1,5 +1,6 @@
 var a07539 =
 [
-    [ "AuctionSearchRemove", "d2/df8/a07539.html#a5a93de23f32eb653e9df2df3e2d11bcb", null ],
-    [ "auctionId", "d2/df8/a07539.html#a6e18c3999d22c1972314b4a20ed8b62f", null ]
+    [ "charges", "d2/df8/a07539.html#a583aee5baaad873bcbcc2acad403d0bf", null ],
+    [ "duration", "d2/df8/a07539.html#a36445b0d9d75886a0697c75513eb6c41", null ],
+    [ "id", "d2/df8/a07539.html#ab19975d2dd203aa1124f2e06fb637171", null ]
 ];

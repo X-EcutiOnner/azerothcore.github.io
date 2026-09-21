@@ -1,7 +1,7 @@
 var a29527 =
 [
-    [ "TalentSpellPos", "d9/d9d/a29527.html#a1f28fdb07c5f3bc3a417a2d50d57481c", null ],
-    [ "TalentSpellPos", "d9/d9d/a29527.html#afcdb60f43c619209f8c7d9d8d118a89d", null ],
-    [ "rank", "d9/d9d/a29527.html#a46a495cd1d17302d074037ad5ea9c89e", null ],
-    [ "talent_id", "d9/d9d/a29527.html#a06421cba633b9ea52cb4b95d4ce4527d", null ]
+    [ "Flags", "d9/d9d/a29527.html#a12b3cb0e28ed0f47ff5ccea09fc8b860", null ],
+    [ "ID", "d9/d9d/a29527.html#ab6ccf4a64672a6ade01f59cdeeeb85cb", null ],
+    [ "RangeMax", "d9/d9d/a29527.html#a9691134e5cb1e15e3c93ea05a653975d", null ],
+    [ "RangeMin", "d9/d9d/a29527.html#a127a46f2382edea750ca567d5ea3d304", null ]
 ];

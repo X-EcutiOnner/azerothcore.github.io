@@ -1,6 +1,6 @@
 var a14567 =
 [
-    [ "HandleOnHit", "d9/d76/a14567.html#a76b09288d14d399735250607e2105eb3", null ],
-    [ "PrepareSpellScript", "d9/d76/a14567.html#a2270ce546ae286ffa701d094df591aa2", null ],
-    [ "Register", "d9/d76/a14567.html#a710f2a60bf6ae00909d279b98ac6b7d6", null ]
+    [ "boss_grilekAI", "d5/dcb/a14571.html", "d5/dcb/a14571" ],
+    [ "boss_grilek", "d9/d76/a14567.html#acffe0061db18c5725c8c290822c5fed7", null ],
+    [ "GetAI", "d9/d76/a14567.html#aa346fa8807069d8fc94bd4d81a014c76", null ]
 ];

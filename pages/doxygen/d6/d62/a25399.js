@@ -1,7 +1,10 @@
 var a25399 =
 [
-    [ "PrepareSpellScript", "d6/d62/a25399.html#aad8061898087fbf5eb6527cbaa70927d", null ],
-    [ "RecalculateDamage", "d6/d62/a25399.html#a6f03ccb77ce43c4e36996ae344780ee3", null ],
-    [ "Register", "d6/d62/a25399.html#abc7e406244a1a5ea9d7c3d8feb10b8ae", null ],
-    [ "_damagePct", "d6/d62/a25399.html#a3ab5f5ec279f30dda50fa3ca3f5e6715", null ]
+    [ "Load", "d6/d62/a25399.html#a6ae104e97dc9c0aa50e115fe1f17e161", null ],
+    [ "OnPeriodic", "d6/d62/a25399.html#ab1dc8acb8072f70625375480742fee5e", null ],
+    [ "PrepareAuraScript", "d6/d62/a25399.html#a2e81d03893b23aa8dc9c615683206f75", null ],
+    [ "Register", "d6/d62/a25399.html#ac2f2c8359487ad8c619e9faf8535b927", null ],
+    [ "Validate", "d6/d62/a25399.html#a0c88acf48d0ea7dd7ac3ac85aa3a126d", null ],
+    [ "_applyTimes", "d6/d62/a25399.html#a1bf9f3a1eb52bb64df59b381c412552f", null ],
+    [ "stackAmount", "d6/d62/a25399.html#ac8d762bdb40366c93602497e9aaa42eb", null ]
 ];

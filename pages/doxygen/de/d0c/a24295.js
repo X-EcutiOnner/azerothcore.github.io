@@ -1,6 +1,11 @@
 var a24295 =
 [
-    [ "npc_illidari_spawnAI", "d5/dda/a24299.html", "d5/dda/a24299" ],
-    [ "npc_illidari_spawn", "de/d0c/a24295.html#ac8dbb30fe7f40d29a3434c8a888ace60", null ],
-    [ "GetAI", "de/d0c/a24295.html#a7198f506b0d4fd55d22fc72a90f42a09", null ]
+    [ "npc_maxx_a_million_escortAI", "de/d0c/a24295.html#ab827933527ed7b4a04b162034876ced8", null ],
+    [ "JustDied", "de/d0c/a24295.html#a2106ab4d32d0f221f62eeffd93f71380", null ],
+    [ "Reset", "de/d0c/a24295.html#a6b9b2ed76e26f908ff2272ad8744a59e", null ],
+    [ "UpdateAI", "de/d0c/a24295.html#a3b022feb2303875d32ad981e84f66854", null ],
+    [ "WaypointReached", "de/d0c/a24295.html#acd6f45abb93f3f043cd85647405a50f6", null ],
+    [ "WaypointReached", "de/d0c/a24295.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "bTake", "de/d0c/a24295.html#ac697fc6cbc20c7f316845ed26436049b", null ],
+    [ "uiTakeTimer", "de/d0c/a24295.html#a5d4826dcf893f444a42dedba57460110", null ]
 ];

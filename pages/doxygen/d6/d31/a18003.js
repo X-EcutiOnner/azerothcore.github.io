@@ -1,6 +1,8 @@
 var a18003 =
 [
-    [ "npc_igb_ship_crewAI", "dc/d9f/a18007.html", "dc/d9f/a18007" ],
-    [ "npc_igb_ship_crew", "d6/d31/a18003.html#a5f4380aba94766a6a75b97026998b881", null ],
-    [ "GetAI", "d6/d31/a18003.html#a48955817e21a01a726b50685b467c229", null ]
+    [ "HandleHit", "d6/d31/a18003.html#ace9793d64d5378ef33bf30e8d0be8bd6", null ],
+    [ "HandleScript", "d6/d31/a18003.html#a5fe0b684473bd5dd1ff9b12432ff3de8", null ],
+    [ "Load", "d6/d31/a18003.html#ab1d81386ae3ccd332c01864d7f456017", null ],
+    [ "PrepareSpellScript", "d6/d31/a18003.html#ae3ef753ff4c99aa8bed20ce3369a7e0f", null ],
+    [ "Register", "d6/d31/a18003.html#a7edb44f70501c2e760d29c8f78a4e087", null ]
 ];

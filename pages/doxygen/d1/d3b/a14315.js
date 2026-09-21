@@ -1,5 +1,7 @@
 var a14315 =
 [
-    [ "npc_mikhail", "d1/d3b/a14315.html#ab63d49e91b0d4b6ca0f00ff0992f5bad", null ],
-    [ "OnQuestAccept", "d1/d3b/a14315.html#a94733a942550f64c741f47e56fd43778", null ]
+    [ "o", "d1/d3b/a14315.html#a455ab33d372dd2aeac9d591f3cce1013", null ],
+    [ "x", "d1/d3b/a14315.html#a49ad07d6ecb902ae4818923a6414f3c1", null ],
+    [ "y", "d1/d3b/a14315.html#a45ec9c234e9d909eb8fcc0db6e0d641e", null ],
+    [ "z", "d1/d3b/a14315.html#abf42d988d416ebe409100c4b860d26db", null ]
 ];

@@ -1,5 +1,6 @@
 var a01790 =
 [
-    [ "_ModifyUInt32", "d2/d20/a01790.html#ab53d40bc3b1cf5c14440f3e212aa4f08", null ],
-    [ "m_diminishing_k", "d2/d20/a01790.html#a826ceb2644eb2661137e2983dd779164", null ]
+    [ "calculateNextDepartureTime", "d2/d20/a01790.html#a385e4650cdda06aa445485dc66ce13b0", null ],
+    [ "startTimestamp", "d2/d20/a01790.html#afe6429daa475f408bae10dd6f2525b01", null ],
+    [ "transportStartDate", "d2/d20/a01790.html#aaffdf4c6f140e5c339726ba9e134e6f9", null ]
 ];

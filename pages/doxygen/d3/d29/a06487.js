@@ -1,6 +1,5 @@
 var a06487 =
 [
-    [ "NullGameObjectAI", "d3/d29/a06487.html#a54f6ae6e03fbe423d895ec306fe091db", null ],
-    [ "Permissible", "d3/d29/a06487.html#a850b58bfcc5e613f31fc95e556ed7f91", null ],
-    [ "UpdateAI", "d3/d29/a06487.html#a01b2b14306c75fafe58295a30e5d01e0", null ]
+    [ "changed", "d3/d29/a06487.html#a98ad429a8aa7a190e94f943a2ec5edf2", null ],
+    [ "date", "d3/d29/a06487.html#a3c6c1cca7f125fc98323669e4e9c775d", null ]
 ];

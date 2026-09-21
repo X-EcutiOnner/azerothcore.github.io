@@ -1,6 +1,6 @@
 var a20491 =
 [
-    [ "FilterTargets", "da/d03/a20491.html#a4f77f654ef8bb589fbb81e8cb1ec6ce6", null ],
-    [ "PrepareSpellScript", "da/d03/a20491.html#a52c6b32ab01a68b258d4fe89730ec32b", null ],
-    [ "Register", "da/d03/a20491.html#a2e9ee7705a950d6a500ac472ff783b3a", null ]
+    [ "FilterTargets", "da/d03/a20491.html#a977f0687005cdbd585be0704e5ce20d8", null ],
+    [ "PrepareSpellScript", "da/d03/a20491.html#a96f279fbc08f23f0b7e7f807dc0ddd7a", null ],
+    [ "Register", "da/d03/a20491.html#a1038ca2384a31671dab1d72e1232cfe1", null ]
 ];

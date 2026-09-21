@@ -1,7 +1,6 @@
 var a26339 =
 [
-    [ "HandleProc", "d1/d35/a26339.html#a0a0dad1c639499963a61d18fe78af1c1", null ],
-    [ "PrepareAuraScript", "d1/d35/a26339.html#aa5e12d556fef142f96c8f03dda4a4c80", null ],
-    [ "Register", "d1/d35/a26339.html#ac8790ac907c6aa798575e2460c272f17", null ],
-    [ "Validate", "d1/d35/a26339.html#a4020daf9d601eb53fe84f9cdbcf96626", null ]
+    [ "CalculateDamage", "d1/d35/a26339.html#a05c6a249b32f41d8d33b40d07bd3c44d", null ],
+    [ "PrepareSpellScript", "d1/d35/a26339.html#ace682a64f3ca32e4f4151034ad936ea6", null ],
+    [ "Register", "d1/d35/a26339.html#a6dc3beb1f857c2c2a719bd882cc3568d", null ]
 ];

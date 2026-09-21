@@ -1,5 +1,6 @@
 var a21363 =
 [
-    [ "npc_ritual_channelerAI", "d5/d5e/a21363.html#aa770f8f2b9dd5fca86f9e63de7b4000f", null ],
-    [ "AttackStart", "d5/d5e/a21363.html#aff09fbdc1e701853c9953882ca73ce2a", null ]
+    [ "npc_massive_jormungarAI", "d1/d29/a21367.html", "d1/d29/a21367" ],
+    [ "npc_massive_jormungar", "d5/d5e/a21363.html#ad17b632fcfe78019dcb9e6b58fa1ac01", null ],
+    [ "GetAI", "d5/d5e/a21363.html#a68e3557e967ef633ba59fa81e661b80c", null ]
 ];

@@ -1,8 +1,9 @@
 var a27387 =
 [
-    [ "HandleDummy", "d2/daf/a27387.html#a308880cf9c61c76de0fdee05fff2b463", null ],
-    [ "Load", "d2/daf/a27387.html#acafb9d6ac4fde694dc44cbf13b7f97ad", null ],
-    [ "PrepareSpellScript", "d2/daf/a27387.html#a3a2672c39f36229c0dd6cdea0fad3299", null ],
-    [ "Register", "d2/daf/a27387.html#a1857b342ae34a57f079f45019645c688", null ],
-    [ "Validate", "d2/daf/a27387.html#a121c30045281eab5fee4f65d38d1dfc3", null ]
+    [ "HandleKnockBack", "d2/daf/a27387.html#acaa8f445874270f34ea5b42a506671db", null ],
+    [ "HandleScript", "d2/daf/a27387.html#a29e47298601cb55c5442a3fa59bb3646", null ],
+    [ "Load", "d2/daf/a27387.html#a45700aba665b601b2c860af5a869d1af", null ],
+    [ "PrepareSpellScript", "d2/daf/a27387.html#aad1c175a2611152278d847ac59f93090", null ],
+    [ "Register", "d2/daf/a27387.html#ad790d435f422fabd128e601fb2dff103", null ],
+    [ "Validate", "d2/daf/a27387.html#a889a129ddc3ea6fcd7f440fc7c163e08", null ]
 ];

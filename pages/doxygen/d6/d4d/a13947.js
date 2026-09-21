@@ -1,6 +1,9 @@
 var a13947 =
 [
-    [ "HandleSendEvent", "d6/d4d/a13947.html#af62c176d53589228d5e0077c9fc268a3", null ],
-    [ "PrepareSpellScript", "d6/d4d/a13947.html#acea8e256f267dd496e5f573e982dba5f", null ],
-    [ "Register", "d6/d4d/a13947.html#a0827e177a8268994bb4e63f07993a354", null ]
+    [ "boss_entropius", "d6/d4d/a13947.html#a458deaa80c9694cd2608150bc5519c76", null ],
+    [ "EnterEvadeMode", "d6/d4d/a13947.html#a01889b192525af082471d092bff28c88", null ],
+    [ "JustDied", "d6/d4d/a13947.html#aed1313073a44bc15f87432a85e6c2d8e", null ],
+    [ "JustEngagedWith", "d6/d4d/a13947.html#afb07fc44fd14b9f78fbc97b2670b8b5e", null ],
+    [ "Reset", "d6/d4d/a13947.html#ad9da990a540703d38cb45dd2da72c179", null ],
+    [ "UpdateAI", "d6/d4d/a13947.html#ab7fbeb67059c48b5f1aff071990ece5e", null ]
 ];

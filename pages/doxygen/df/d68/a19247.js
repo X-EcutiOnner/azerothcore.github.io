@@ -1,7 +1,8 @@
 var a19247 =
 [
-    [ "HandleEffectPeriodic", "df/d68/a19247.html#a57615f1d8b891ab5a5c01de1543235cb", null ],
-    [ "PrepareAuraScript", "df/d68/a19247.html#ae040da0db1147652266e1f373838df37", null ],
-    [ "Register", "df/d68/a19247.html#ab11b84522134ee4d13504df3c19f69b8", null ],
-    [ "Validate", "df/d68/a19247.html#af3c3c90256913ffe188c11a21fc2dcc8", null ]
+    [ "OnApply", "df/d68/a19247.html#addeb4f3b2a06666b36f4dee1874b6e8d", null ],
+    [ "OnRemove", "df/d68/a19247.html#ae4ecf698d999969aceca3c307b44d9bd", null ],
+    [ "PrepareAuraScript", "df/d68/a19247.html#a74a552ea94c56fd22b8fea792617a537", null ],
+    [ "Register", "df/d68/a19247.html#a90041bb6ad83973a894638630642dd62", null ],
+    [ "Validate", "df/d68/a19247.html#a051c1544da173e50ae6642b1b14c923e", null ]
 ];

@@ -1,9 +1,6 @@
 var a18523 =
 [
-    [ "FilterTargets", "db/dae/a18523.html#ae0c0320b523076e03c01f69b9d0df4bd", null ],
-    [ "FilterTargetsSubseq", "db/dae/a18523.html#a88a53a855e01b550fbd106ac318a891e", null ],
-    [ "PrepareSpellScript", "db/dae/a18523.html#ae5c08d71d0e1d30f0b126ca593763697", null ],
-    [ "Register", "db/dae/a18523.html#a27e8768422b311f6db16757e167f4102", null ],
-    [ "Validate", "db/dae/a18523.html#a96ef76527449a138685830b52fa95146", null ],
-    [ "_targetList", "db/dae/a18523.html#afcfbcf16c29b3bda1d7b85f79c624db1", null ]
+    [ "npc_precious_iccAI", "d1/dce/a18527.html", "d1/dce/a18527" ],
+    [ "npc_precious_icc", "db/dae/a18523.html#a463eb0df1edb17e154658dac131f0898", null ],
+    [ "GetAI", "db/dae/a18523.html#aa63840c5968a089bff41dcd9c86d5849", null ]
 ];

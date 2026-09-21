@@ -1,7 +1,7 @@
 var a23939 =
 [
-    [ "Load", "d8/daf/a23939.html#aba7e1a0b87607386649bb842b5058c3e", null ],
-    [ "OnRemove", "d8/daf/a23939.html#ac2f7a4532f62fb49f54c60b79aceb2e8", null ],
-    [ "PrepareAuraScript", "d8/daf/a23939.html#ac62b18eedbadb0b3581d772909175e96", null ],
-    [ "Register", "d8/daf/a23939.html#a17e8be131f01b2434b18740b20a08d6e", null ]
+    [ "boss_warp_splinter", "d8/daf/a23939.html#a1d0e8720baaadd1f6f4f6026597c9f63", null ],
+    [ "JustDied", "d8/daf/a23939.html#a7e7850cf545e57f9fcd8d1aff42f8eb3", null ],
+    [ "JustEngagedWith", "d8/daf/a23939.html#afc05b2f366e518d5e9ea3fbbfcba05cc", null ],
+    [ "KilledUnit", "d8/daf/a23939.html#a0e974eb2bfae50383040fe9c7ccf74c1", null ]
 ];

@@ -1,7 +1,8 @@
 var a14443 =
 [
-    [ "HandleTriggerSpell", "df/d34/a14443.html#a66b366f4989d99a58b331e56024e4520", null ],
-    [ "PrepareAuraScript", "df/d34/a14443.html#a4b00497e095b5c43571b543252b31e58", null ],
-    [ "Register", "df/d34/a14443.html#abacee7689888bf8c5d21b534a6d71b40", null ],
-    [ "Validate", "df/d34/a14443.html#a6bef0ac760a319deed6f71fee213e885", null ]
+    [ "FilterTargets", "df/d34/a14443.html#a43e45471ad3b8a0583aeb413d48a0f01", null ],
+    [ "OnHit", "df/d34/a14443.html#ac25886536c353f09838188362fb8ae84", null ],
+    [ "PrepareSpellScript", "df/d34/a14443.html#aab0e63163b8d84f20bbe0bcdc60c9a85", null ],
+    [ "Register", "df/d34/a14443.html#afa419365236c09914f758846978e2cbb", null ],
+    [ "Validate", "df/d34/a14443.html#ae62334ed5f46641def4a38ee178cd9d0", null ]
 ];

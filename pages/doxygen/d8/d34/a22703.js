@@ -1,8 +1,17 @@
 var a22703 =
 [
-    [ "npc_yor", "d8/d34/a22703.html#a43ed8720d06c035085d481dbe6539dca", null ],
-    [ "JustEngagedWith", "d8/d34/a22703.html#a74d5cd95b98a2057f78ee9e9b12aec42", null ],
-    [ "Reset", "d8/d34/a22703.html#aa698540b646fd870b33afbaf19ddbe07", null ],
-    [ "UpdateAI", "d8/d34/a22703.html#a46a2cf8ff94b830348641d94e3d9cd57", null ],
-    [ "_scheduler", "d8/d34/a22703.html#a4ce1e1558c9b8aa5d50b1df1a903d776", null ]
+    [ "OutdoorPvPHP", "d8/d34/a22703.html#a19118d7facc4a745e391491fb7d95421", null ],
+    [ "FillInitialWorldStates", "d8/d34/a22703.html#a4ecc55395f1f792075e07026e1ccd171", null ],
+    [ "GetAllianceTowersControlled", "d8/d34/a22703.html#ae6d3a1561b94d92539a5dd8b5ac56689", null ],
+    [ "GetHordeTowersControlled", "d8/d34/a22703.html#a9395b6966bcdd36b448ca1c403f17873", null ],
+    [ "HandleKillImpl", "d8/d34/a22703.html#aad7804f10c42f6643397d673ba4e9bee", null ],
+    [ "HandlePlayerEnterZone", "d8/d34/a22703.html#a117149e3db7fa02fdcfab05a6ff6de18", null ],
+    [ "HandlePlayerLeaveZone", "d8/d34/a22703.html#abf21499824ad64aa7a26a4b33090783e", null ],
+    [ "SendRemoveWorldStates", "d8/d34/a22703.html#ac94c44783b2141c751d5c16a24bce8d4", null ],
+    [ "SetAllianceTowersControlled", "d8/d34/a22703.html#a1f9bbc083ae0bb7c00a303909ab043f5", null ],
+    [ "SetHordeTowersControlled", "d8/d34/a22703.html#ae5de375e1ec88dc5ce0059490596a935", null ],
+    [ "SetupOutdoorPvP", "d8/d34/a22703.html#aee60f1d1da4d6eecd0e66cf975272979", null ],
+    [ "Update", "d8/d34/a22703.html#aeec44f41e6d6fe7c768bb738a3eafb47", null ],
+    [ "m_AllianceTowersControlled", "d8/d34/a22703.html#a90c41df874abfee0a4861cf923de9ab5", null ],
+    [ "m_HordeTowersControlled", "d8/d34/a22703.html#ada8244f57fe3a693d167689d3f921025", null ]
 ];

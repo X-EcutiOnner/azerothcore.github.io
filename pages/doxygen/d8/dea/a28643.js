@@ -1,5 +1,6 @@
 var a28643 =
 [
-    [ "npc_pet_trainerAI", "d8/dea/a28643.html#aa5c01fd7cf2b9fad15a3059b4fe38d13", null ],
-    [ "sGossipSelect", "d8/dea/a28643.html#a6768c8f8f5e37058f85cb40d35caad72", null ]
+    [ "npc_target_dummy", "d8/dea/a28643.html#a097033431f3bfa2e5e05ab1c76b0a4fa", null ],
+    [ "Reset", "d8/dea/a28643.html#a3fcccbe2c48bf5e076e8b016195e1469", null ],
+    [ "UpdateAI", "d8/dea/a28643.html#a32e9e139a54375b336c112deee3687cd", null ]
 ];

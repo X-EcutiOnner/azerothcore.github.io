@@ -1,9 +1,11 @@
 var a12891 =
 [
-    [ "npc_vaelastrasz_the_red", "da/d8e/a12891.html#a28ba5ca91e61707360c8a1f9a8550567", null ],
-    [ "IsSummonedBy", "da/d8e/a12891.html#ad5f2aeaee704c436e60bc5c5400c0f75", null ],
-    [ "UpdateAI", "da/d8e/a12891.html#a95b48026759f9e5e5f0c452a8019ef03", null ],
-    [ "_combatEnabled", "da/d8e/a12891.html#a373fe15d1e754f11db59186517783a40", null ],
-    [ "_events2", "da/d8e/a12891.html#acecc982854e9d587112e9117e7d7a3fa", null ],
-    [ "_victorGUID", "da/d8e/a12891.html#a0e5d6bd095c980a45dcfe68faf2c7b3f", null ]
+    [ "npc_blackhand_incarcerator", "da/d8e/a12891.html#af44831badd703bf8c5275c749fd61d2a", null ],
+    [ "DamageTaken", "da/d8e/a12891.html#af28b787db83769685d90cf7950d8f825", null ],
+    [ "JustEngagedWith", "da/d8e/a12891.html#a9f4ab7c404a71da418c81b37dd14a7da", null ],
+    [ "Reset", "da/d8e/a12891.html#a89befac34c050f9229961782156c7adf", null ],
+    [ "SetData", "da/d8e/a12891.html#a9716a5bcc7101e9a39280ab7afd26540", null ],
+    [ "UpdateAI", "da/d8e/a12891.html#a83bad94665e11bcb55498bad5fb055a9", null ],
+    [ "_events", "da/d8e/a12891.html#a2c980622c898df77f3ed46cae1224c2f", null ],
+    [ "_fleedForAssistance", "da/d8e/a12891.html#abb52cd563252e5d00e256faf6e3cd3d3", null ]
 ];

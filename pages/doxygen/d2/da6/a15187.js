@@ -1,7 +1,6 @@
 var a15187 =
 [
-    [ "OnPeriodic", "d2/da6/a15187.html#a4ed63f32afe3831d7fb08333ff1d379f", null ],
-    [ "PrepareAuraScript", "d2/da6/a15187.html#a74be4e2b0f9c6254a87a7cfb8159fc9b", null ],
-    [ "Register", "d2/da6/a15187.html#aeb388d608830aeb3b30f707304403b41", null ],
-    [ "Validate", "d2/da6/a15187.html#af27768000c5c3232a1264f4f1f2bd7b3", null ]
+    [ "HandleScriptEffect", "d2/da6/a15187.html#a2acaaf3716237f147429cb07779ae49e", null ],
+    [ "PrepareSpellScript", "d2/da6/a15187.html#a55df717ede47b17a32ae33ecd64617cd", null ],
+    [ "Register", "d2/da6/a15187.html#ac515af62f7e42cafecc4afdf7ba15ddf", null ]
 ];

@@ -1,7 +1,6 @@
 var a27155 =
 [
-    [ "HandleEffectPeriodic", "d1/dbd/a27155.html#a9347200565cb858cf0cc9cdb897fe1dc", null ],
-    [ "PrepareAuraScript", "d1/dbd/a27155.html#a5fc89b09fb226d0d9315081d64f4103e", null ],
-    [ "Register", "d1/dbd/a27155.html#ac3741617faacf83a707f1359aab1886e", null ],
-    [ "Validate", "d1/dbd/a27155.html#a9378252b6711cc0bec3e63efce026495", null ]
+    [ "HandleDummyEffect", "d1/dbd/a27155.html#ad5421ca3dd5bf802952f98e6d1170003", null ],
+    [ "PrepareSpellScript", "d1/dbd/a27155.html#a9489556e1e16cd2e0d5c43b38d7ea5ee", null ],
+    [ "Register", "d1/dbd/a27155.html#a2ad2c00807d07aeb55a8fd848a69f9d1", null ]
 ];

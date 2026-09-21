@@ -1,9 +1,8 @@
 var a24839 =
 [
-    [ "HandleApply", "d1/d6a/a24839.html#a1a612d0b35ed6e67042b4d038f8927ca", null ],
-    [ "HandleRemove", "d1/d6a/a24839.html#a54b5ffcf247f7385b50b401bc82f43ce", null ],
-    [ "PrepareAuraScript", "d1/d6a/a24839.html#af2b8e669737cd4282beb6a5035f496fc", null ],
-    [ "RecalculateBaseArmor", "d1/d6a/a24839.html#a693720558c7b2b22c41a49a402522014", null ],
-    [ "Register", "d1/d6a/a24839.html#aff9bc58342383afe5a08be696cddedf6", null ],
-    [ "Validate", "d1/d6a/a24839.html#ad712e1e05d94372defdfa4fe67e65716", null ]
+    [ "CheckProc", "d1/d6a/a24839.html#a1b2746e9013ecfbbc112d74a9229719f", null ],
+    [ "HandleProc", "d1/d6a/a24839.html#ad100e3d9794da0fac5802e9d059609a8", null ],
+    [ "PrepareAuraScript", "d1/d6a/a24839.html#a3867a6c8278dc85b3a429652a7b5e81c", null ],
+    [ "Register", "d1/d6a/a24839.html#ab38f961abbef4271df4ddce139d890df", null ],
+    [ "Validate", "d1/d6a/a24839.html#ac5020d66d7fca6246a4ccbbf5c681fee", null ]
 ];

@@ -1,12 +1,10 @@
 var a19963 =
 [
-    [ "npc_spark_of_ionar", "d4/dcb/a19963.html#a93df0828e409a44008257294855f8d7a", null ],
-    [ "AttackStart", "d4/dcb/a19963.html#a36181ef97213713c104edf4b085bc46e", null ],
-    [ "DamageTaken", "d4/dcb/a19963.html#a8588089b67b8b53a9e3dead149aaa5f7", null ],
-    [ "DoAction", "d4/dcb/a19963.html#ac9f1cb076f8d9072c88343f2deb7c0a0", null ],
-    [ "MoveInLineOfSight", "d4/dcb/a19963.html#a1316e69a928d28c805a94bb2bb6f557a", null ],
-    [ "Reset", "d4/dcb/a19963.html#a1a7c2e034333efdc80117b03f2e6740e", null ],
-    [ "UpdateAI", "d4/dcb/a19963.html#ae251d676f0505db2383e61ef007932a0", null ],
-    [ "_events", "d4/dcb/a19963.html#a73265e8783c32a09c9d4ee13f1ecba58", null ],
-    [ "returning", "d4/dcb/a19963.html#acd1c868f422a7758ce19f6ef7f5bda17", null ]
+    [ "npc_oculus_drakegiverAI", "d4/dcb/a19963.html#a4bba380256a0ede70b8d90611249b444", null ],
+    [ "MovementInform", "d4/dcb/a19963.html#adc86ecd4ed7b4b7b42968a0e09fa29a0", null ],
+    [ "UpdateAI", "d4/dcb/a19963.html#a652a8c364687d51de62356964f6f33f9", null ],
+    [ "m_pInstance", "d4/dcb/a19963.html#a04e43a623d16b4cf8d80552d649d90ca", null ],
+    [ "moved", "d4/dcb/a19963.html#a069e202a84d99cd757862bd1a43b5562", null ],
+    [ "resetPosition", "d4/dcb/a19963.html#a8ef6c480846d08d8a6225a7124320cbf", null ],
+    [ "timer", "d4/dcb/a19963.html#a461b45ab959e71699cf1543ecbcbd91f", null ]
 ];

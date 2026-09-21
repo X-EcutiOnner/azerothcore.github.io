@@ -1,8 +1,12 @@
 var a20107 =
 [
-    [ "go_celestial_planetarium_accessAI", "d9/d75/a20107.html#aca4d0e9babd6eefe84edc281f8a44cf2", null ],
-    [ "GossipHello", "d9/d75/a20107.html#af159df46fecf2cd74ac4ec9fa006dc03", null ],
-    [ "UpdateAI", "d9/d75/a20107.html#a9b2bfb74a12e3258476387fc78cde574", null ],
-    [ "_locked", "d9/d75/a20107.html#a37f83dbbb05e461d613a4c38001f785c", null ],
-    [ "events", "d9/d75/a20107.html#aa03b8d270054f2b71c1d625abe322fb8", null ]
+    [ "boss_sjonnirAI", "d9/d75/a20107.html#a53127766553d1bee4d7331e6f4fcda05", null ],
+    [ "ActivatePipe", "d9/d75/a20107.html#aa3a3e765284cd29cef1d54a9390c3986", null ],
+    [ "DoAction", "d9/d75/a20107.html#afb2f73908bc17c763a8028af4b499481", null ],
+    [ "JustDied", "d9/d75/a20107.html#aac572b45c50d0e9c0e7fb3a036053859", null ],
+    [ "JustEngagedWith", "d9/d75/a20107.html#aade776baf55155bb3814129ddc2f9632", null ],
+    [ "KilledUnit", "d9/d75/a20107.html#ac79740a8c5e4263f2917647c74e995aa", null ],
+    [ "Reset", "d9/d75/a20107.html#a8a5f0c22eb6c1d3501c2abdabfc5a77c", null ],
+    [ "ScheduleTasks", "d9/d75/a20107.html#a5c3c31c5be424795e4e96291c910c73c", null ],
+    [ "SlugeCount", "d9/d75/a20107.html#ad1e05c8b4dbba7a73a368dc07ad94aaf", null ]
 ];

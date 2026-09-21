@@ -1,7 +1,7 @@
 var a18319 =
 [
-    [ "HandleExtraEffect", "d8/d29/a18319.html#a8fbfac8e62d2534daf40194f7fe31945", null ],
-    [ "PrepareAuraScript", "d8/d29/a18319.html#a45e83b3bfa344391bb87c8088ae1c6a7", null ],
-    [ "Register", "d8/d29/a18319.html#a5ec23a02a4e617e6db8cf17d2bd36aff", null ],
-    [ "Validate", "d8/d29/a18319.html#a2e7253cfc18b66d663457c2fb7ab3302", null ]
+    [ "HandleSpikes", "d8/d29/a18319.html#a012d61aacf79b9b1f5b4b5c5c81b5ed4", null ],
+    [ "PrepareSpellScript", "d8/d29/a18319.html#a6ffb6454eb4c58a1b66356814c13b659", null ],
+    [ "Register", "d8/d29/a18319.html#a893345cf191d084a0f97a8464b7d381a", null ],
+    [ "Validate", "d8/d29/a18319.html#aa6545760706d8695aefd4064c3c71c6b", null ]
 ];

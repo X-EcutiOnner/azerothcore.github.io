@@ -1,6 +1,6 @@
 var a19687 =
 [
-    [ "DespawnTime", "d0/d46/a19687.html#ae14c357137f16666c74e5f7e3f77aed5", null ],
-    [ "End", "d0/d46/a19687.html#ac87ea314ccf946eb1fa35985e35c81fd", null ],
-    [ "Start", "d0/d46/a19687.html#a985271de503fa704a58abe3e64c3b268", null ]
+    [ "boss_nothAI", "df/d15/a19691.html", "df/d15/a19691" ],
+    [ "boss_noth", "d0/d46/a19687.html#a2760f1ec46a21f22de0e57527cbe9768", null ],
+    [ "GetAI", "d0/d46/a19687.html#a534f30792c051ab44c6c07c9347893e5", null ]
 ];

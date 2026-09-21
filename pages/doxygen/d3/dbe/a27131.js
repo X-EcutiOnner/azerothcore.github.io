@@ -1,5 +1,6 @@
 var a27131 =
 [
-    [ "PrepareSpellScript", "d3/dbe/a27131.html#aa2d9d885e55c1685c2ce9cbc5b4d4279", null ],
-    [ "Register", "d3/dbe/a27131.html#a721430db1738b255f114483bdddef5e2", null ]
+    [ "CheckDummy", "d3/dbe/a27131.html#ad2f75ba479a8523b0fffaae86204a25c", null ],
+    [ "PrepareAuraScript", "d3/dbe/a27131.html#a7cd3757fddecca39b1b0bd95bb2b8e5b", null ],
+    [ "Register", "d3/dbe/a27131.html#af0b1e469fec71b28ca349b9be9c6fdd7", null ]
 ];

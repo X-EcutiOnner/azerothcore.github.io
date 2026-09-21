@@ -1,6 +1,6 @@
 var a24875 =
 [
-    [ "PrepareAuraScript", "dc/dae/a24875.html#a31bde31b6db4f71ce65c6e1a862df771", null ],
-    [ "Register", "dc/dae/a24875.html#aebe64c4760d13d8afaebcf4a4b1196fa", null ],
-    [ "UpdateAmount", "dc/dae/a24875.html#a621e73a09438f3f9cbaa232125df3b87", null ]
+    [ "HandleScriptEffect", "dc/dae/a24875.html#ad9863535a38094779e765fe65450ce55", null ],
+    [ "PrepareSpellScript", "dc/dae/a24875.html#a653061d36c204fbd0d2dc1f983864bf1", null ],
+    [ "Register", "dc/dae/a24875.html#a5019887a078af86682eea3974bacf6dc", null ]
 ];

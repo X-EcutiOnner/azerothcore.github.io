@@ -1,6 +1,4 @@
 var a11555 =
 [
-    [ "PetUnlearnedSpell", "d5/d92/a11555.html#aa2b125a271228aee0d942a207de170b7", null ],
-    [ "Write", "d5/d92/a11555.html#a11cf7780eba530026a0898bfafd27109", null ],
-    [ "SpellID", "d5/d92/a11555.html#adfca5feb5be2408e489edc44e9cd215b", null ]
+    [ "InvalidHyperlinkException", "d5/d92/a11555.html#a4e30376bb16ea56434e65761a2f4a55d", null ]
 ];

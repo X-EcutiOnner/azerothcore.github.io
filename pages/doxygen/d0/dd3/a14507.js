@@ -1,5 +1,9 @@
 var a14507 =
 [
-    [ "at_zulgurub_bridge_speech", "d0/dd3/a14507.html#a0ef9d44dc98ddee8fe5133862339808d", null ],
-    [ "_OnTrigger", "d0/dd3/a14507.html#a1a3dbb3cbfbeb50c653134b8bae773f0", null ]
+    [ "npc_amanishi_lookout", "d0/dd3/a14507.html#adf34c160c531164a459092f45588a7be", null ],
+    [ "DoAction", "d0/dd3/a14507.html#ab43e3372000af268c81e2701070e1b03", null ],
+    [ "MoveInLineOfSight", "d0/dd3/a14507.html#ab94c8563d7c79279ed4922f1d0411ec9", null ],
+    [ "MovementInform", "d0/dd3/a14507.html#ae9e6d22a781392107a7e50e5815c116c", null ],
+    [ "Reset", "d0/dd3/a14507.html#a42f8e96876f07e37fc4533b7eb732db3", null ],
+    [ "_instance", "d0/dd3/a14507.html#ab1557ad1a2cc6574c200ef691596b0c6", null ]
 ];

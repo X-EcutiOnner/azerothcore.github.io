@@ -1,8 +1,14 @@
 var a29183 =
 [
-    [ "difficulty", "d2/d30/a29183.html#a2a04df701c13dc49053b09a9587a72a8", null ],
-    [ "encounterIndex", "d2/d30/a29183.html#a3d35560824a3aaeecb8db4bf8628ebfd", null ],
-    [ "encounterName", "d2/d30/a29183.html#af4f26f56526b945e392ddaf6b2d43fa1", null ],
-    [ "id", "d2/d30/a29183.html#aa9828ccc644a11f9cb35fbcc7d31a827", null ],
-    [ "mapId", "d2/d30/a29183.html#a61c1ac724c8eb96907d2ea9402a8f9ce", null ]
+    [ "IsFlyable", "d2/d30/a29183.html#a2a59297a617c9d3b582ede2a028bd07e", null ],
+    [ "IsSanctuary", "d2/d30/a29183.html#ad239b4e381b6af858a181e9c361d6cbb", null ],
+    [ "area_level", "d2/d30/a29183.html#a23434848cf8b2eab4de1b6530b8d5f8d", null ],
+    [ "area_name", "d2/d30/a29183.html#a87653e6b7f7368a59af7adaf77a49e10", null ],
+    [ "exploreFlag", "d2/d30/a29183.html#a78cf3009cd0fe49dc7870c7f65c79251", null ],
+    [ "flags", "d2/d30/a29183.html#a5854e3f565d827dbad3d9a36f99e9a25", null ],
+    [ "ID", "d2/d30/a29183.html#ad02bb9fce21f464e38223581074a9e21", null ],
+    [ "LiquidTypeOverride", "d2/d30/a29183.html#abe743a4b542c4356aab9d41f3fae7457", null ],
+    [ "mapid", "d2/d30/a29183.html#a048ac249318efd9aa35bb705bfb92dc8", null ],
+    [ "team", "d2/d30/a29183.html#ae18e0efef83e663452715f6be15ecaef", null ],
+    [ "zone", "d2/d30/a29183.html#a3b4f9e187629db5ced9a06c601fc7f78", null ]
 ];

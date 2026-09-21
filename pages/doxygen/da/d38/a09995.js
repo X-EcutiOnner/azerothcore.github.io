@@ -1,16 +1,8 @@
 var a09995 =
 [
-    [ "BankMoveItemData", "da/d38/a09995.html#a9edb987f4866e8bc473fe853597bebae", null ],
-    [ "_ReserveSpace", "da/d38/a09995.html#a109e8d55108b005426110626815ba866", null ],
-    [ "_StoreItem", "da/d38/a09995.html#aa11267f5d6202753310da567c0be0e57", null ],
-    [ "CanStore", "da/d38/a09995.html#ade47c73460329ca1af752921173ca75e", null ],
-    [ "CanStoreItemInTab", "da/d38/a09995.html#a5ca7975887e5583466d066c86b3a205f", null ],
-    [ "HasStoreRights", "da/d38/a09995.html#acd684824cab9ccb4d8fd9cbb1f1782e1", null ],
-    [ "HasWithdrawRights", "da/d38/a09995.html#ae9d8f497b4459c982ac73ee8b5742aad", null ],
-    [ "InitItem", "da/d38/a09995.html#a69d6b28ccdda7790f821f5181da0db96", null ],
-    [ "IsBank", "da/d38/a09995.html#a6f1787e15918092ba000ee8bd0852b09", null ],
-    [ "LogAction", "da/d38/a09995.html#a4f23cdffba39ffa78c38851ff7aa7d0c", null ],
-    [ "LogBankEvent", "da/d38/a09995.html#a054ca0f7eecfd404651c11b886d106bf", null ],
-    [ "RemoveItem", "da/d38/a09995.html#abd15e25136ec2a00bcddbc0e81978a78", null ],
-    [ "StoreItem", "da/d38/a09995.html#a9367b938768eefcaf5bb88e74dde9aa3", null ]
+    [ "flags", "da/d38/a09995.html#a7ecce103d428ed7f91aa12fa5547561c", null ],
+    [ "group", "da/d38/a09995.html#a0902606d44c8baa1a20b5b2cdd9b4787", null ],
+    [ "guid", "da/d38/a09995.html#a97a20b4ccf1978165a5f5c7ff4ffb2b4", null ],
+    [ "name", "da/d38/a09995.html#ab0719bb9805048b58a3e4c75e09d1ee7", null ],
+    [ "roles", "da/d38/a09995.html#a2109aae0b3ebf74b065b97cc929c2954", null ]
 ];

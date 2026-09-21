@@ -1,10 +1,6 @@
 var a08335 =
 [
-    [ "LfgUpdateData", "d6/d21/a08335.html#a01326fafaa2ce562b5710d1d7ca75330", null ],
-    [ "LfgUpdateData", "d6/d21/a08335.html#a656873ea6ef9b3f23791827617a000c6", null ],
-    [ "LfgUpdateData", "d6/d21/a08335.html#a248682a712dd43b8c4601830aae4ddec", null ],
-    [ "comment", "d6/d21/a08335.html#a398f1b9ce0737d833fe4566ecea20e31", null ],
-    [ "dungeons", "d6/d21/a08335.html#a0e9b49693248b438dbc508e230a870db", null ],
-    [ "state", "d6/d21/a08335.html#ad9c270e37acaa105b9e12ec73158c7e3", null ],
-    [ "updateType", "d6/d21/a08335.html#a146e43854f66bf57f703d7089a24481e", null ]
+    [ "ConditionSourceInfo", "d6/d21/a08335.html#adc6441ec52fab3ab8d2b58a146a3fef3", null ],
+    [ "mConditionTargets", "d6/d21/a08335.html#acb67deba44021698a447e8288bca0bd4", null ],
+    [ "mLastFailedCondition", "d6/d21/a08335.html#a099d3457a0a15d8feeacc0dc8c32d439", null ]
 ];

@@ -1,4 +1,5 @@
 var a02018 =
 [
-    [ "Initialize", "da/d2d/a02018.html#a9ddfbc9345acf19d3b4bcb7ce7804c94", null ]
+    [ "GameObjectAI", "d0/d64/a06535.html", "d0/d64/a06535" ],
+    [ "NullGameObjectAI", "da/d97/a06539.html", "da/d97/a06539" ]
 ];

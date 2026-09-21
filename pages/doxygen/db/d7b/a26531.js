@@ -1,7 +1,7 @@
 var a26531 =
 [
-    [ "CalcPeriodic", "db/d7b/a26531.html#a404e5309016cfcaa3071c0216978699e", null ],
-    [ "PrepareAuraScript", "db/d7b/a26531.html#a9675e5c417e5e9a5a358a3ffb371073e", null ],
-    [ "Register", "db/d7b/a26531.html#a60ffc059d00fd58abe7e758f06bbf35c", null ],
-    [ "AuraEffectHandleModes", "db/d7b/a26531.html#aa66ee788b7e09815b827a0f4ac954e1f", null ]
+    [ "HandleProc", "db/d7b/a26531.html#aa8b3ab8c3027e9f671524a6b6e3079ed", null ],
+    [ "PrepareAuraScript", "db/d7b/a26531.html#a4f7bc2f98b11c48f52b1c0e565719e21", null ],
+    [ "Register", "db/d7b/a26531.html#ac21e7cd4db59ff255cf169c9bd93ddba", null ],
+    [ "Validate", "db/d7b/a26531.html#a82409493338c846bf34ac0b34903a5eb", null ]
 ];

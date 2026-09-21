@@ -1,7 +1,6 @@
 var a11231 =
 [
-    [ "GuildBankLogQueryResults", "d0/dd6/a11231.html#a878f9545b3141a327de85771de4f1779", null ],
-    [ "Write", "d0/dd6/a11231.html#aafdb5114c7d0e8a2d18a848f3c94aa38", null ],
-    [ "Entry", "d0/dd6/a11231.html#a5f3704df5311f06833c3243201d35930", null ],
-    [ "Tab", "d0/dd6/a11231.html#a214db612bb08e557dd41d3962c827dca", null ]
+    [ "GuildOfficerRemoveMember", "d0/dd6/a11231.html#acd0f767ff61006c7b3c78f3dbb6da558", null ],
+    [ "Read", "d0/dd6/a11231.html#aa0c3cd629b73cb079cc3cf90bf6f8067", null ],
+    [ "Removee", "d0/dd6/a11231.html#a18ece7d865fa1b5da005c7c03397b4e2", null ]
 ];

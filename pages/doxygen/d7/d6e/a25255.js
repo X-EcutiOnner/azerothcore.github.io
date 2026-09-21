@@ -1,7 +1,6 @@
 var a25255 =
 [
-    [ "HandleScript", "d7/d6e/a25255.html#a9fb69011ce5245925eb6a4fd011d18b2", null ],
-    [ "PrepareSpellScript", "d7/d6e/a25255.html#ab9300ff0efc4a36d652a1b56c031dc2f", null ],
-    [ "Register", "d7/d6e/a25255.html#aa0828fa1a3cf75e8222607a4f2fff950", null ],
-    [ "Validate", "d7/d6e/a25255.html#a9469ebca2d40dd2944f2fb7286fc64ff", null ]
+    [ "ModDest", "d7/d6e/a25255.html#a99d08536d2555390a7399a6d2fc199e6", null ],
+    [ "PrepareSpellScript", "d7/d6e/a25255.html#a361aed7e74a9f01d665018fd0c3addb1", null ],
+    [ "Register", "d7/d6e/a25255.html#aa96b1ff5297d670481d1d8afa9356ef9", null ]
 ];

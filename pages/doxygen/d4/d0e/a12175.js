@@ -1,10 +1,6 @@
 var a12175 =
 [
-    [ "AcoreStringChatBuilder", "d4/d0e/a12175.html#a7e280083c80fd119d365649fd4578fc9", null ],
-    [ "operator()", "d4/d0e/a12175.html#a09a2a03dca2b8470cd1d1f7c8273868b", null ],
-    [ "_args", "d4/d0e/a12175.html#aa92a28b7d6a7dd59ea7da3a76c1fb4cc", null ],
-    [ "_msgType", "d4/d0e/a12175.html#adbabf871f33692b0ecddc8cc0fb75586", null ],
-    [ "_source", "d4/d0e/a12175.html#ac5222737ea1b95b6d75afc532838f8be", null ],
-    [ "_target", "d4/d0e/a12175.html#ab659b7c7bd6426a023cf8668322327b8", null ],
-    [ "_textId", "d4/d0e/a12175.html#a3d29de9c5d80c3df488aa01fa380a84a", null ]
+    [ "EffectCalcPeriodicHandler", "d4/d0e/a12175.html#a17288ee3b2951f1f2a8dc36a598b9a27", null ],
+    [ "Call", "d4/d0e/a12175.html#a6a7eeb9599a10aa4ab918a2c2456a186", null ],
+    [ "pEffectHandlerScript", "d4/d0e/a12175.html#a57673f457c08edfbf7fc1877aa071721", null ]
 ];

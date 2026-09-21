@@ -1,6 +1,6 @@
 var a19539 =
 [
-    [ "HandleHit", "d6/d27/a19539.html#aa6302d9372bf6ea514d49d8c8e280781", null ],
-    [ "PrepareSpellScript", "d6/d27/a19539.html#a87b57541a36d711ecbca6f485915c9ab", null ],
-    [ "Register", "d6/d27/a19539.html#ad7290a8d786f64fdf7b5b04a7770ff6d", null ]
+    [ "boss_four_horsemenAI", "dc/d3c/a19543.html", "dc/d3c/a19543" ],
+    [ "boss_four_horsemen", "d6/d27/a19539.html#a6bcaf9a12d854a322f50ac2f98dbb72b", null ],
+    [ "GetAI", "d6/d27/a19539.html#a3ee27da1d0da48306cc10c17c9411d1a", null ]
 ];

@@ -1,6 +1,7 @@
 var a13627 =
 [
-    [ "boss_baroness_anastariAI", "df/d66/a13631.html", "df/d66/a13631" ],
-    [ "boss_baroness_anastari", "dd/d48/a13627.html#a60f04c10d9b942cacf74a1dc8364dbbe", null ],
-    [ "GetAI", "dd/d48/a13627.html#a38073f80afbceb5535cc18ab524378a6", null ]
+    [ "HandleEffectApply", "dd/d48/a13627.html#a710536e0a3bacf173d037041e755bd82", null ],
+    [ "HandleEffectRemove", "dd/d48/a13627.html#a16623b3187e98fc50f5a3b8e0297b0ea", null ],
+    [ "PrepareAuraScript", "dd/d48/a13627.html#ab1d5eb39b503f7e08a404cf172b8de96", null ],
+    [ "Register", "dd/d48/a13627.html#a9092818bdb15a12163aae633049cb7f6", null ]
 ];

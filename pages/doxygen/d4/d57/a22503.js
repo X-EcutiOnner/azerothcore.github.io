@@ -1,6 +1,7 @@
 var a22503 =
 [
-    [ "PrepareSpellScript", "d4/d57/a22503.html#ae9a4734c9b12473f86c91a49860d56dd", null ],
-    [ "RecalculateDamage", "d4/d57/a22503.html#ad47d51e68c6ffe60f15beceaffc60b19", null ],
-    [ "Register", "d4/d57/a22503.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39", null ]
+    [ "OnApply", "d4/d57/a22503.html#ad026db5f19c376d9a87f7a1554502809", null ],
+    [ "OnRemove", "d4/d57/a22503.html#a0264c6f6f41da3644a803265399f1d82", null ],
+    [ "PrepareAuraScript", "d4/d57/a22503.html#ab5d21484b078aee6eeff3738ef7c5a10", null ],
+    [ "Register", "d4/d57/a22503.html#ae9822fa0f191ac4eeca1061c22abf319", null ]
 ];

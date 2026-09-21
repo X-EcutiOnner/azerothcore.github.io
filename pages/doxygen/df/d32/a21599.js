@@ -1,5 +1,6 @@
 var a21599 =
 [
-    [ "npc_khunok_the_behemothAI", "df/d32/a21599.html#a435ac0418fe4bba1d2877ce6bea6451c", null ],
-    [ "MoveInLineOfSight", "df/d32/a21599.html#a5d54954a159da764aa7b83579e03688c", null ]
+    [ "HandleEffectPeriodic", "df/d32/a21599.html#a508ff9e362d586497839aa29ceae1227", null ],
+    [ "PrepareAuraScript", "df/d32/a21599.html#a4e7d5317d28207136b1fd3477a51ae06", null ],
+    [ "Register", "df/d32/a21599.html#a4b08cefe7d334635b70d389cc9df4901", null ]
 ];

@@ -1,8 +1,13 @@
 var a14155 =
 [
-    [ "npc_dkc1_gothik", "d0/d80/a14155.html#ac55410228faf60379873234d7322c488", null ],
-    [ "DoAction", "d0/d80/a14155.html#aba7e9c3326400012162402d3ead2837f", null ],
-    [ "MoveInLineOfSight", "d0/d80/a14155.html#aa409a5ecaa71388131a2be4c62d2cf85", null ],
-    [ "UpdateAI", "d0/d80/a14155.html#a7fbe2d52d179bcc8113407054befae00", null ],
-    [ "spoken", "d0/d80/a14155.html#a4ed4b960104211c61067b1e66752eb74", null ]
+    [ "npc_corporal_keeshanAI", "d0/d80/a14155.html#aac5b72ede6e1496f80c4c2520e886efd", null ],
+    [ "Reset", "d0/d80/a14155.html#a311488932a3de9153490d41e3fae92fb", null ],
+    [ "sQuestAccept", "d0/d80/a14155.html#a52dd95c74b1457ad5b496b28fd183b06", null ],
+    [ "UpdateAI", "d0/d80/a14155.html#a973cf65978e531dc8bd7db20fc2809b6", null ],
+    [ "WaypointReached", "d0/d80/a14155.html#a3edc9ab54068e47f955116db70454f6c", null ],
+    [ "WaypointReached", "d0/d80/a14155.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "mockingBlowTimer", "d0/d80/a14155.html#a21cd1ca86864b8507d43e5a1c4c13e0c", null ],
+    [ "phase", "d0/d80/a14155.html#ae79dcfdb10738d673e8c1aebc6abdee6", null ],
+    [ "shieldBashTimer", "d0/d80/a14155.html#abb5eaa25a77dd3e6dfff7aaa0aa6c375", null ],
+    [ "timer", "d0/d80/a14155.html#a3107368f175aa7f4e8c405248ef917df", null ]
 ];

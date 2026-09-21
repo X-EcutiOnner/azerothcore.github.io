@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: ProcChanceTestHelper::PPMModifierConfig Struct Reference</title>
+<title>AzerothCore: RealmBuildInfo Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -107,90 +107,140 @@ $(document).ready(function(){initNavTree('df/de7/a29671.html','../../'); initRes
   <div class="summary">
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d4/dc9/a29668.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">ProcChanceTestHelper::PPMModifierConfig Struct Reference</div></div>
+  <div class="headertitle"><div class="title">RealmBuildInfo Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>PPM modifier configuration for testing SPELLMOD_PROC_PER_MINUTE.  
- <a href="../../df/de7/a29671.html#details">More...</a></p>
-
-<p><code>#include &quot;<a class="el" href="../../">ProcChanceTestHelper.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">RealmList.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a781485dfaede63716eddba66971600e3"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/de7/a29671.html#a781485dfaede63716eddba66971600e3">flatModifier</a> = 0.0f</td></tr>
-<tr class="separator:a781485dfaede63716eddba66971600e3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aaf5a1e1118b0dcd155529978bdc172db"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/de7/a29671.html#aaf5a1e1118b0dcd155529978bdc172db">pctModifier</a> = 1.0f</td></tr>
-<tr class="separator:aaf5a1e1118b0dcd155529978bdc172db"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa80132f8b5cb980a4a703810fe3fa1a4"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/de7/a29671.html#aa80132f8b5cb980a4a703810fe3fa1a4">hasSpellModOwner</a> = true</td></tr>
-<tr class="separator:aa80132f8b5cb980a4a703810fe3fa1a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a96607da311b5774eeaa01674d32ab22e"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/de7/a29671.html#a96607da311b5774eeaa01674d32ab22e">hasSpellProto</a> = true</td></tr>
-<tr class="separator:a96607da311b5774eeaa01674d32ab22e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6cc7aff1b397df7333b9bb0003282abd"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/de7/a29671.html#a6cc7aff1b397df7333b9bb0003282abd">Build</a></td></tr>
+<tr class="separator:a6cc7aff1b397df7333b9bb0003282abd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0eb78564680f771e325536a0ab77382a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/de7/a29671.html#a0eb78564680f771e325536a0ab77382a">MajorVersion</a></td></tr>
+<tr class="separator:a0eb78564680f771e325536a0ab77382a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7140f7ef9540eff08fabf74ded68b9cc"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/de7/a29671.html#a7140f7ef9540eff08fabf74ded68b9cc">MinorVersion</a></td></tr>
+<tr class="separator:a7140f7ef9540eff08fabf74ded68b9cc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a461f8c749a874405584dc1fd3fe1d805"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/de7/a29671.html#a461f8c749a874405584dc1fd3fe1d805">BugfixVersion</a></td></tr>
+<tr class="separator:a461f8c749a874405584dc1fd3fe1d805"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0df61c036a57b8a3efde5d180dc38131"><td class="memItemLeft" align="right" valign="top">std::array&lt; char, 4 &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/de7/a29671.html#a0df61c036a57b8a3efde5d180dc38131">HotfixVersion</a></td></tr>
+<tr class="separator:a0df61c036a57b8a3efde5d180dc38131"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a96abd69a458dfc4363c4e545fc7fabab"><td class="memItemLeft" align="right" valign="top">std::array&lt; <a class="el" href="../../de/d69/a04679.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>, 20 &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/de7/a29671.html#a96abd69a458dfc4363c4e545fc7fabab">WindowsHash</a></td></tr>
+<tr class="separator:a96abd69a458dfc4363c4e545fc7fabab"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad59772e86371318fe975760e303fa7d9"><td class="memItemLeft" align="right" valign="top">std::array&lt; <a class="el" href="../../de/d69/a04679.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>, 20 &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/de7/a29671.html#ad59772e86371318fe975760e303fa7d9">MacHash</a></td></tr>
+<tr class="separator:ad59772e86371318fe975760e303fa7d9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p >PPM modifier configuration for testing SPELLMOD_PROC_PER_MINUTE. </p>
-</div><h2 class="groupheader">Member Data Documentation</h2>
-<a id="a781485dfaede63716eddba66971600e3" name="a781485dfaede63716eddba66971600e3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a781485dfaede63716eddba66971600e3">&#9670;&#160;</a></span>flatModifier</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Data Documentation</h2>
+<a id="a461f8c749a874405584dc1fd3fe1d805" name="a461f8c749a874405584dc1fd3fe1d805"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a461f8c749a874405584dc1fd3fe1d805">&#9670;&#160;</a></span>BugfixVersion</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">float ProcChanceTestHelper::PPMModifierConfig::flatModifier = 0.0f</td>
+          <td class="memname"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> RealmBuildInfo::BugfixVersion</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00381">ProcChanceTestHelper::CalculatePPMChanceWithModifiers()</a>, and <a class="el" href="../../#l00108">TEST_F()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00054">RealmList::LoadBuildInfo()</a>, and <a class="el" href="../../#l00739">AuthSession::RealmListCallback()</a>.</p>
 
 </div>
 </div>
-<a id="aa80132f8b5cb980a4a703810fe3fa1a4" name="aa80132f8b5cb980a4a703810fe3fa1a4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa80132f8b5cb980a4a703810fe3fa1a4">&#9670;&#160;</a></span>hasSpellModOwner</h2>
+<a id="a6cc7aff1b397df7333b9bb0003282abd" name="a6cc7aff1b397df7333b9bb0003282abd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6cc7aff1b397df7333b9bb0003282abd">&#9670;&#160;</a></span>Build</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">bool ProcChanceTestHelper::PPMModifierConfig::hasSpellModOwner = true</td>
+          <td class="memname"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> RealmBuildInfo::Build</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00381">ProcChanceTestHelper::CalculatePPMChanceWithModifiers()</a>, and <a class="el" href="../../#l00246">TEST_F()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00054">RealmList::LoadBuildInfo()</a>, and <a class="el" href="../../#l00739">AuthSession::RealmListCallback()</a>.</p>
 
 </div>
 </div>
-<a id="a96607da311b5774eeaa01674d32ab22e" name="a96607da311b5774eeaa01674d32ab22e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a96607da311b5774eeaa01674d32ab22e">&#9670;&#160;</a></span>hasSpellProto</h2>
+<a id="a0df61c036a57b8a3efde5d180dc38131" name="a0df61c036a57b8a3efde5d180dc38131"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0df61c036a57b8a3efde5d180dc38131">&#9670;&#160;</a></span>HotfixVersion</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">bool ProcChanceTestHelper::PPMModifierConfig::hasSpellProto = true</td>
+          <td class="memname">std::array&lt;char, 4&gt; RealmBuildInfo::HotfixVersion</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00381">ProcChanceTestHelper::CalculatePPMChanceWithModifiers()</a>, and <a class="el" href="../../#l00267">TEST_F()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00054">RealmList::LoadBuildInfo()</a>.</p>
 
 </div>
 </div>
-<a id="aaf5a1e1118b0dcd155529978bdc172db" name="aaf5a1e1118b0dcd155529978bdc172db"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aaf5a1e1118b0dcd155529978bdc172db">&#9670;&#160;</a></span>pctModifier</h2>
+<a id="ad59772e86371318fe975760e303fa7d9" name="ad59772e86371318fe975760e303fa7d9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad59772e86371318fe975760e303fa7d9">&#9670;&#160;</a></span>MacHash</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">float ProcChanceTestHelper::PPMModifierConfig::pctModifier = 1.0f</td>
+          <td class="memname">std::array&lt;<a class="el" href="../../de/d69/a04679.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>, 20&gt; RealmBuildInfo::MacHash</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00381">ProcChanceTestHelper::CalculatePPMChanceWithModifiers()</a>, and <a class="el" href="../../#l00160">TEST_F()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00054">RealmList::LoadBuildInfo()</a>, and <a class="el" href="../../#l00841">AuthSession::VerifyVersion()</a>.</p>
+
+</div>
+</div>
+<a id="a0eb78564680f771e325536a0ab77382a" name="a0eb78564680f771e325536a0ab77382a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0eb78564680f771e325536a0ab77382a">&#9670;&#160;</a></span>MajorVersion</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> RealmBuildInfo::MajorVersion</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00054">RealmList::LoadBuildInfo()</a>, and <a class="el" href="../../#l00739">AuthSession::RealmListCallback()</a>.</p>
+
+</div>
+</div>
+<a id="a7140f7ef9540eff08fabf74ded68b9cc" name="a7140f7ef9540eff08fabf74ded68b9cc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7140f7ef9540eff08fabf74ded68b9cc">&#9670;&#160;</a></span>MinorVersion</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> RealmBuildInfo::MinorVersion</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00054">RealmList::LoadBuildInfo()</a>, and <a class="el" href="../../#l00739">AuthSession::RealmListCallback()</a>.</p>
+
+</div>
+</div>
+<a id="a96abd69a458dfc4363c4e545fc7fabab" name="a96abd69a458dfc4363c4e545fc7fabab"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a96abd69a458dfc4363c4e545fc7fabab">&#9670;&#160;</a></span>WindowsHash</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::array&lt;<a class="el" href="../../de/d69/a04679.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>, 20&gt; RealmBuildInfo::WindowsHash</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00054">RealmList::LoadBuildInfo()</a>, and <a class="el" href="../../#l00841">AuthSession::VerifyVersion()</a>.</p>
 
 </div>
 </div>
@@ -199,8 +249,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d2/d1a/a29659.html">ProcChanceTestHelper</a></li><li class="navelem"><a class="el" href="../../df/de7/a29671.html">PPMModifierConfig</a></li>
-    <li class="footer">Generated on Tue Sep 1 2026 00:09:35 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../df/de7/a29671.html">RealmBuildInfo</a></li>
+    <li class="footer">Generated on Mon Sep 21 2026 23:34:23 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

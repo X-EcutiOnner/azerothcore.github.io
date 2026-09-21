@@ -1,6 +1,9 @@
 var a09847 =
 [
-    [ "AllFriendlyCreaturesInGrid", "d6/d2f/a09847.html#a6ad66997d093ffa52e2d80337dcb5460", null ],
-    [ "operator()", "d6/d2f/a09847.html#aca2b8ed7de69c57bb270e0c663781f97", null ],
-    [ "unit", "d6/d2f/a09847.html#a3842fa1eceabaa2d40b2bab4393cb431", null ]
+    [ "AnyGroupedUnitInObjectRangeCheck", "d6/d2f/a09847.html#a2c775f62eeabcb8af5306cbcedae322e", null ],
+    [ "operator()", "d6/d2f/a09847.html#a3c316eacdd1c74c69d8297871f84d7b9", null ],
+    [ "_raid", "d6/d2f/a09847.html#a6a9cffd02435913a5d7ee53cd1e8cc0b", null ],
+    [ "_range", "d6/d2f/a09847.html#a01b4592ac61d58ff39e5bb2eb1a1b997", null ],
+    [ "_refUnit", "d6/d2f/a09847.html#ad083243ef5487aa374b19e3c82b0457c", null ],
+    [ "_source", "d6/d2f/a09847.html#a91de967d2376ea96b1fc0838094915cf", null ]
 ];

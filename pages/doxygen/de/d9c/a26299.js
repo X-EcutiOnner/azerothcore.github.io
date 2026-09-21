@@ -1,5 +1,7 @@
 var a26299 =
 [
-    [ "PrepareSpellScript", "de/d9c/a26299.html#ad7b3235062959af1f28bb6c7b2f929c3", null ],
-    [ "Register", "de/d9c/a26299.html#ae35dad0d33ee0dd571a8f5fcccd2ce58", null ]
+    [ "HandleDummy", "de/d9c/a26299.html#addfcb17cbbb56bda88997b34ce3e3ddd", null ],
+    [ "PrepareSpellScript", "de/d9c/a26299.html#a22614b06c6f1853f02a992dcab027a60", null ],
+    [ "Register", "de/d9c/a26299.html#a9ad5691f6049078c45052d07513b35a2", null ],
+    [ "Validate", "de/d9c/a26299.html#a3fab2057be5de9e2f7703b8f43a99ed5", null ]
 ];

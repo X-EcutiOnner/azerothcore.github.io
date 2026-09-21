@@ -1,9 +1,9 @@
 var a26195 =
 [
-    [ "CheckCast", "d9/dce/a26195.html#af92fe276563a8ca0d939d881dba8adda", null ],
-    [ "HandleDummy", "d9/dce/a26195.html#a86b4413dd25f96fb197604007171a8d1", null ],
-    [ "Load", "d9/dce/a26195.html#ab1800d2550b944dcfa9967cc0e79c5ee", null ],
-    [ "PrepareSpellScript", "d9/dce/a26195.html#a47aa868fbabee8a3988bcc93402b8cfb", null ],
-    [ "Register", "d9/dce/a26195.html#a1b4ff1b3b518a2e4bad1836de6793561", null ],
-    [ "Validate", "d9/dce/a26195.html#a8d0c2f18927e811f3d3cdee94e3623c0", null ]
+    [ "CheckProc", "d9/dce/a26195.html#a185159a5c83e8c65ef5b82f49a89dd8a", null ],
+    [ "HandleProc", "d9/dce/a26195.html#a67db21e0293f336a31bf518c0fac85d1", null ],
+    [ "OnRemove", "d9/dce/a26195.html#a1b51483738d5d3b73f50a78ef9fc1c57", null ],
+    [ "PrepareAuraScript", "d9/dce/a26195.html#a3e549b8764c0f8efc5d110543c9944c7", null ],
+    [ "Register", "d9/dce/a26195.html#abc4b88f104253b2b141ab0e3e22ee338", null ],
+    [ "Validate", "d9/dce/a26195.html#a0b5b97081b7c897d451ef70c810bd7f1", null ]
 ];

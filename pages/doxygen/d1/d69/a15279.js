@@ -1,13 +1,10 @@
 var a15279 =
 [
-    [ "boss_salrammAI", "d1/d69/a15279.html#ae1055878b3919e29d44ee26efcbe044f", null ],
-    [ "ExplodeGhoul", "d1/d69/a15279.html#adc64d8b10b28b98254c528732fff0516", null ],
-    [ "JustDied", "d1/d69/a15279.html#a59bc42afcbb0ed2c2629bd0280836194", null ],
-    [ "JustEngagedWith", "d1/d69/a15279.html#a8d3287cc74cc9d756a879c4ac796f860", null ],
-    [ "JustSummoned", "d1/d69/a15279.html#afd70403a8644f310f37335c6c9bf5b55", null ],
-    [ "KilledUnit", "d1/d69/a15279.html#ad3f4161c0e18c911a931d65e25693cdd", null ],
-    [ "Reset", "d1/d69/a15279.html#a9ddecc950cac3fc392078df2810ec2a2", null ],
-    [ "UpdateAI", "d1/d69/a15279.html#aa2350dc05884593b1361f9f09b8d9392", null ],
-    [ "events", "d1/d69/a15279.html#a55c0bba93a90b5a3770c81b9c4d2fe5b", null ],
-    [ "summons", "d1/d69/a15279.html#a813c09e121730d4ae2e623ac3c37d570", null ]
+    [ "hyjalJainaAI", "d1/d69/a15279.html#aa7532b691e85fd9bd467e20db39c59da", null ],
+    [ "IsSummonedBy", "d1/d69/a15279.html#a5003e3a1ccb955b209c1ab91a49d217f", null ],
+    [ "JustDied", "d1/d69/a15279.html#a605687080e5149b3f08ce8349ba9b336", null ],
+    [ "JustEngagedWith", "d1/d69/a15279.html#a187efe775b1e2a35637638507e77352e", null ],
+    [ "PathEndReached", "d1/d69/a15279.html#a0f7dd1512694d284c1f83b3403c421e6", null ],
+    [ "Reset", "d1/d69/a15279.html#a585baff53f5d57ca0dc9002181e8d2bc", null ],
+    [ "UpdateAI", "d1/d69/a15279.html#ac86fb8a5a55654ff7697abd9162135c1", null ]
 ];

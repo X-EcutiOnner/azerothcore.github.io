@@ -1,5 +1,5 @@
 var a04928 =
 [
-    [ "EventMap", "d3/d6a/a05857.html", "d3/d6a/a05857" ],
-    [ "EventMap::Event", "d6/d2b/a05861.html", "d6/d2b/a05861" ]
+    [ "getOutOfWater", "db/d15/a04928.html#a92646d631d9334b64b0b487ebf87d769", null ],
+    [ "getWeight", "db/d15/a04928.html#a44526122378fe7ee8622f1ffc822dc20", null ]
 ];

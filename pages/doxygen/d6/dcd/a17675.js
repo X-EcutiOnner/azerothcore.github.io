@@ -1,6 +1,6 @@
 var a17675 =
 [
-    [ "StandUpEvent", "d6/dcd/a17675.html#a2f68b19898c65b9229159d9133b3d7cf", null ],
-    [ "Execute", "d6/dcd/a17675.html#a56bc1071300ff8f81e62839685e8f53a", null ],
-    [ "_owner", "d6/dcd/a17675.html#a456a494140657d81b203834f7b88d5d1", null ]
+    [ "npc_living_mojoAI", "d2/d27/a17679.html", "d2/d27/a17679" ],
+    [ "npc_living_mojo", "d6/dcd/a17675.html#af24190023549b4ec5fa47b5959618a8a", null ],
+    [ "GetAI", "d6/dcd/a17675.html#a2b8ca6e1b26debfafd74e022825c889e", null ]
 ];

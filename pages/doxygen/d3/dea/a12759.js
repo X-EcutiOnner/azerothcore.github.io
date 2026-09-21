@@ -1,7 +1,8 @@
 var a12759 =
 [
-    [ "boss_okthor", "d3/dea/a12759.html#a10c5868b555e6f7edc11de179eccb151", null ],
-    [ "JustEngagedWith", "d3/dea/a12759.html#a40909de030f186531a8cfe1993b6aa40", null ],
-    [ "UpdateAI", "d3/dea/a12759.html#ab63a797da2b3f93da32b078b9731b1de", null ],
-    [ "_nextArcaneExplosionTime", "d3/dea/a12759.html#aa7c9edda4aee7ed257b3cb1334c4e899", null ]
+    [ "brd_ironhand_guardian", "d3/dea/a12759.html#a635a59a53948b6e252a15384d784a969", null ],
+    [ "SetData", "d3/dea/a12759.html#a7677681c4d39ed73f4143caa66a1a5de", null ],
+    [ "UpdateAI", "d3/dea/a12759.html#a8840ead9b577888ec2ac15d68ddffe71", null ],
+    [ "_flamesEnabled", "d3/dea/a12759.html#a1b162039fc21a7eddddd22ed9c97e9cb", null ],
+    [ "events", "d3/dea/a12759.html#a01047164b0728cb6d08a7f41cf092a58", null ]
 ];

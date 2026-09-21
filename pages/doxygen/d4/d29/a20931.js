@@ -1,8 +1,14 @@
 var a20931 =
 [
-    [ "npc_xt_toy_pile", "d4/d29/a20931.html#a843e7d05cf62baa5c006077f8dad107d", null ],
-    [ "SpellHit", "d4/d29/a20931.html#a82af3830eaf524c587334e8eb193925f", null ],
-    [ "_lastSummonTime", "d4/d29/a20931.html#aaa8e3581f39206c30f1b7de9a81f1387", null ],
-    [ "SummonCooldown", "d4/d29/a20931.html#ab0924af7ecfd54f1744b11af76ca2834", null ],
-    [ "SummonDistance", "d4/d29/a20931.html#a3adcb7a8f6ad7b515719794e0ddca964", null ]
+    [ "boss_thorim_start_npcs", "d4/d29/a20931.html#a3ed7da48fc86ea00124181bb943a778d", null ],
+    [ "DamageTaken", "d4/d29/a20931.html#a4821ee0619dac4cdcd9434f57d83f0c9", null ],
+    [ "JustEngagedWith", "d4/d29/a20931.html#a636dd7264dd01aa5fc3c69af17425103", null ],
+    [ "JustReachedHome", "d4/d29/a20931.html#a1a297f2937ab9ca9a13de939ba6f6522", null ],
+    [ "Reset", "d4/d29/a20931.html#a37092466e579fe54a1dffe2ae0a2f689", null ],
+    [ "SetGUID", "d4/d29/a20931.html#aed0b8ed5c502b47e7274af920b9e927b", null ],
+    [ "StartMockBattle", "d4/d29/a20931.html#aa5566eb0feda227eb150ffe61fc3c67d", null ],
+    [ "UpdateAI", "d4/d29/a20931.html#a7cca60ceab19727e68fcd4a3629978c4", null ],
+    [ "_isCaster", "d4/d29/a20931.html#aa3c48c6d8d548cb39a6c7eea8f807dde", null ],
+    [ "_playerAttack", "d4/d29/a20931.html#ab1bf0c011692377fc591610c5131d5e2", null ],
+    [ "events", "d4/d29/a20931.html#affdeecbfa6bb62659c4a2f5ef1d1fafa", null ]
 ];

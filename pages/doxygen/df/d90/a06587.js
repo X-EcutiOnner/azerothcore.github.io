@@ -1,6 +1,7 @@
 var a06587 =
 [
-    [ "GameObjectAIFactory", "df/d90/a06587.html#a2f658540a81d207694b6d2d783009380", null ],
-    [ "Create", "df/d90/a06587.html#a94fa057baafbbad4b81b97aea34354a3", null ],
-    [ "Permit", "df/d90/a06587.html#ae8b7e45a73f87249e27a4dae596b0d52", null ]
+    [ "SpellTargetSelector", "df/d90/a06587.html#a9f1f441e542500dc43c58b97729f7f51", null ],
+    [ "operator()", "df/d90/a06587.html#a53c27c23f2d9846903e1ff9b479a36b1", null ],
+    [ "_caster", "df/d90/a06587.html#ac5b0844c975a6b3ff3c14a843fd28fba", null ],
+    [ "_spellInfo", "df/d90/a06587.html#a309ed04630cfb92810b7f51376b3917c", null ]
 ];

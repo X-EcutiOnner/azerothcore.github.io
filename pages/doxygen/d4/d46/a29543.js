@@ -1,16 +1,16 @@
 var a29543 =
 [
-    [ "~SocketMgr", "d4/d46/a29543.html#a8c8b979692599a68d6f9dbe864e58645", null ],
-    [ "SocketMgr", "d4/d46/a29543.html#a7582b914e42af5d67e4a4e968fd99b4a", null ],
-    [ "CreateThreads", "d4/d46/a29543.html#ac712a459d409da9e8f21603da8aa0305", null ],
-    [ "GetNetworkThreadCount", "d4/d46/a29543.html#ac1afac1d7f3e5092e9fe4425412186fc", null ],
-    [ "GetSocketForAccept", "d4/d46/a29543.html#acc5fbaea6228d5d5122e22472c79476e", null ],
-    [ "OnSocketOpen", "d4/d46/a29543.html#ad0830a83c94a940b254b71b4c7c979c2", null ],
-    [ "SelectThreadWithMinConnections", "d4/d46/a29543.html#abf161238fa7dcf2ee8b3a4ef3c71d5fd", null ],
-    [ "StartNetwork", "d4/d46/a29543.html#a81fc5b0c7bc9750b67ca607ae0cf2c81", null ],
-    [ "StopNetwork", "d4/d46/a29543.html#a7966832a9ef2151033ac9eeeadffff34", null ],
-    [ "Wait", "d4/d46/a29543.html#aace37f1c8fa4c4c4dd378ba2da496b50", null ],
-    [ "_acceptor", "d4/d46/a29543.html#af397e6129662d41adeeef25d27a980ea", null ],
-    [ "_threadCount", "d4/d46/a29543.html#abeae5090b8ea81e39465a20c7b960885", null ],
-    [ "_threads", "d4/d46/a29543.html#a0802f42ee5a7c8fec400e5034d87caac", null ]
+    [ "amount", "d4/d46/a29543.html#a3086819447f7ae23bf5697a45cbc6f93", null ],
+    [ "aura_id", "d4/d46/a29543.html#a5866d4e8ce373b6eb9af1d27e2db2c1b", null ],
+    [ "charges", "d4/d46/a29543.html#ade74be0906ef080347ac81ed48379cd1", null ],
+    [ "description", "d4/d46/a29543.html#a7dc66c82551a59750d6294f3503a3dbc", null ],
+    [ "EnchantmentCondition", "d4/d46/a29543.html#a2416afe9ae8371b9d284dd3c176c98d1", null ],
+    [ "GemID", "d4/d46/a29543.html#a324fd42b7184f5c626c33323a4d72b07", null ],
+    [ "ID", "d4/d46/a29543.html#af46fa8808024e75705b812b695bd1590", null ],
+    [ "requiredLevel", "d4/d46/a29543.html#a53bf562ea4dfccb14bfb627c831b477e", null ],
+    [ "requiredSkill", "d4/d46/a29543.html#a6ca7dac0e1f497b3c96887a6c09097bc", null ],
+    [ "requiredSkillValue", "d4/d46/a29543.html#a7a57764dad60c9369826638c1355127e", null ],
+    [ "slot", "d4/d46/a29543.html#af64b13ce2e81d5be7e73763cd5c5e4b8", null ],
+    [ "spellid", "d4/d46/a29543.html#a694edc79cf8ba571338bff2a3aad512d", null ],
+    [ "type", "d4/d46/a29543.html#adb693b7ada8d1a65c1d8091d1055c7bf", null ]
 ];

@@ -1,7 +1,11 @@
 var a21611 =
 [
-    [ "npc_lurgglbrAI", "db/d90/a21615.html", "db/d90/a21615" ],
-    [ "npc_lurgglbr", "d0/d84/a21611.html#a7df52667e4d789391820a4c2182db8d2", null ],
-    [ "GetAI", "d0/d84/a21611.html#a2795346371e7b474c53dcacb9daf2001", null ],
-    [ "OnQuestAccept", "d0/d84/a21611.html#a1b3ba7b0782dc91ff268b7044cf13e82", null ]
+    [ "npc_vh_void_sentry", "d0/d84/a21611.html#adeb66953fb7540aab5190b825ff98ec8", null ],
+    [ "DoAction", "d0/d84/a21611.html#a37ed72c221f23cd653694c10d536eec4", null ],
+    [ "JustDied", "d0/d84/a21611.html#aabf96934586d38d6f958c1571c0b3b56", null ],
+    [ "SummonedCreatureDespawn", "d0/d84/a21611.html#aa0ac1eb51911672653ec6fd48d2ef316", null ],
+    [ "UpdateAI", "d0/d84/a21611.html#a417af2ca21310ca105d7561e3ab21272", null ],
+    [ "_events", "d0/d84/a21611.html#a30899a2d4d8a82b26251911dc3b48008", null ],
+    [ "_instance", "d0/d84/a21611.html#a80dc77a2deaf0f922f3f096f40b253e1", null ],
+    [ "_summonedGuid", "d0/d84/a21611.html#a223e85ca87d89c51d0bc02e00d591aec", null ]
 ];

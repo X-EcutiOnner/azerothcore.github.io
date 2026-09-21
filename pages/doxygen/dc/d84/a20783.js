@@ -1,6 +1,5 @@
 var a20783 =
 [
-    [ "go_razorscale_mole_machineAI", "da/d71/a20787.html", "da/d71/a20787" ],
-    [ "go_razorscale_mole_machine", "dc/d84/a20783.html#a94d4c7900c139202cd0e57489ecb5a02", null ],
-    [ "GetAI", "dc/d84/a20783.html#a56de10f80d50b667bfae81994a618304", null ]
+    [ "go_ulduar_do_not_push_this_button", "dc/d84/a20783.html#aa204af213a643c001161e0c2f173ee6b", null ],
+    [ "OnGossipHello", "dc/d84/a20783.html#ae11efa54b496ab21600a9c62e50b5fbe", null ]
 ];

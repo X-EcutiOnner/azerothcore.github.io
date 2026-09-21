@@ -1,4 +1,5 @@
 var a29267 =
 [
-    [ "ratio", "d5/d69/a29267.html#ad3cdf9a27817d39d05b8b785f5ba5ac7", null ]
+    [ "BitIndex", "d5/d69/a29267.html#a55fdf966aec0ca687cd6074683af6e7f", null ],
+    [ "ItemId", "d5/d69/a29267.html#a998c1f6dadb823fbba56bb2154396635", null ]
 ];

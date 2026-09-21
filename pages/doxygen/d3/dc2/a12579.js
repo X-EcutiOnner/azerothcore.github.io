@@ -1,11 +1,11 @@
 var a12579 =
 [
-    [ "pooltools_commandscript", "d3/dc2/a12579.html#a3428978e91000cbe46dd2b84a30eee2d", null ],
-    [ "GetCommands", "d3/dc2/a12579.html#aebd69a3ae0a0e0833f3eaeeb637d97e6", null ],
-    [ "HandlePoolAdd", "d3/dc2/a12579.html#afb113b7673dbddf804f9384fbc400d67", null ],
-    [ "HandlePoolClear", "d3/dc2/a12579.html#a4bde765f2949ae2db1601e8f5a103ed2", null ],
-    [ "HandlePoolDef", "d3/dc2/a12579.html#a12edd3f4697bba8e03594ceed8c6c289", null ],
-    [ "HandlePoolEnd", "d3/dc2/a12579.html#a039862a0ca89201187f4e06ce792cae8", null ],
-    [ "HandlePoolRemove", "d3/dc2/a12579.html#a158f83f814cba8328dcb81f02525dcdb", null ],
-    [ "HandlePoolStart", "d3/dc2/a12579.html#a13629c50653c80b949bdf80485e51d59", null ]
+    [ "lfg_commandscript", "d3/dc2/a12579.html#a90faaca821e4162e0aea40a4d98af62c", null ],
+    [ "GetCommands", "d3/dc2/a12579.html#a324310f9b04675c277ceae44ea09fbaf", null ],
+    [ "HandleLfgCleanCommand", "d3/dc2/a12579.html#a93db689dbdb97a0318d62409a863767e", null ],
+    [ "HandleLfgCooldownClearCommand", "d3/dc2/a12579.html#a0e399ec509b9f419b7f034cc95409f7b", null ],
+    [ "HandleLfgGroupInfoCommand", "d3/dc2/a12579.html#a2376288a2ef82d8a19602cd66ff880f2", null ],
+    [ "HandleLfgOptionsCommand", "d3/dc2/a12579.html#a73187a97c883d8d1bb3765943dd98c39", null ],
+    [ "HandleLfgPlayerInfoCommand", "d3/dc2/a12579.html#acdf12aff45f16904df5724ab158e3b97", null ],
+    [ "HandleLfgQueueInfoCommand", "d3/dc2/a12579.html#a54dcdf133cc5b22961c34eda62a4f2fc", null ]
 ];

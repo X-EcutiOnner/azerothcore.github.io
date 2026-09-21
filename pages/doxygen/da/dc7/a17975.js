@@ -1,14 +1,7 @@
 var a17975 =
 [
-    [ "npc_gunshipAI", "da/dc7/a17975.html#a75444497ffd6b7365827eea57fd946f9", null ],
-    [ "DamageTaken", "da/dc7/a17975.html#a9c1825ec51aaecedd1035ae9a1ded6a0", null ],
-    [ "GetData", "da/dc7/a17975.html#a0142bec2427c1256431e55d3f74b8948", null ],
-    [ "JustDied", "da/dc7/a17975.html#aa19c815ad64f81fb5240c5e0667bccc9", null ],
-    [ "SetGUID", "da/dc7/a17975.html#a7f336843c54de072cf58bc87ff08b068", null ],
-    [ "UpdateAI", "da/dc7/a17975.html#a8bab1a755c2262e9f36f295781d30909", null ],
-    [ "_died", "da/dc7/a17975.html#af4480427460748bccae214737469ddb7", null ],
-    [ "_instance", "da/dc7/a17975.html#a21f9c24e80145db0c6847c81261d0e8d", null ],
-    [ "_shipVisits", "da/dc7/a17975.html#a6f9730b746e195a99dc11357fd0387ba", null ],
-    [ "_summonedFirstMage", "da/dc7/a17975.html#a721cc96cc76a27574a1a4eb1996b100e", null ],
-    [ "_teamIdInInstance", "da/dc7/a17975.html#a195ff7ab2c2e96ab0bcd0a96c1e21512", null ]
+    [ "FilterTargets", "da/dc7/a17975.html#aeae290d20ade37eb839c1bf3c9ae59bf", null ],
+    [ "Load", "da/dc7/a17975.html#a38bf6d96c6a78e5105d0369eb993e58c", null ],
+    [ "PrepareSpellScript", "da/dc7/a17975.html#a815c99e9ef570287af5d45c32bdc5b8c", null ],
+    [ "Register", "da/dc7/a17975.html#a33342cc676adaabe5e3896fa559631b7", null ]
 ];

@@ -1,6 +1,6 @@
 var a27415 =
 [
-    [ "CheckCast", "da/da0/a27415.html#a97f479cccecc6f37c75b47122b47e333", null ],
-    [ "PrepareSpellScript", "da/da0/a27415.html#a7033ad7dbdab5eec532ea6f860f97427", null ],
-    [ "Register", "da/da0/a27415.html#a4c8f84e1a2cc89064ec5963321fecce7", null ]
+    [ "HandleScript", "da/da0/a27415.html#acde0ae837d0cd3af0f38481027200291", null ],
+    [ "PrepareSpellScript", "da/da0/a27415.html#ac1237e0af7f88f75ebc551af52fc301c", null ],
+    [ "Register", "da/da0/a27415.html#a2dc2628984358628afe7d9b62ced7794", null ]
 ];

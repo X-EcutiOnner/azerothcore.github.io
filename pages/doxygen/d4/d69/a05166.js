@@ -1,23 +1,21 @@
 var a05166 =
 [
-    [ "AutoEquipItem", "d4/ddb/a11317.html", "d4/ddb/a11317" ],
-    [ "AutoEquipItemSlot", "d8/dce/a11309.html", "d8/dce/a11309" ],
-    [ "AutoStoreBagItem", "de/d3e/a11349.html", "de/d3e/a11349" ],
-    [ "BuybackItem", "d8/dd1/a11333.html", "d8/dd1/a11333" ],
-    [ "BuyItem", "d4/db8/a11341.html", "d4/db8/a11341" ],
-    [ "BuyItemInSlot", "d3/ddf/a11337.html", "d3/ddf/a11337" ],
-    [ "CancelTempEnchantment", "df/d07/a11369.html", "df/d07/a11369" ],
-    [ "DestroyItem", "d8/d11/a11321.html", "d8/d11/a11321" ],
-    [ "EnchantmentLog", "de/d77/a11353.html", "de/d77/a11353" ],
-    [ "ItemEnchantTimeUpdate", "da/d90/a11357.html", "da/d90/a11357" ],
-    [ "ItemRefund", "da/da4/a11377.html", "da/da4/a11377" ],
-    [ "ItemRefundInfo", "d0/d5e/a11373.html", "d0/d5e/a11373" ],
-    [ "ListInventory", "df/d75/a11345.html", "df/d75/a11345" ],
-    [ "ReadItem", "d9/d58/a11325.html", "d9/d58/a11325" ],
-    [ "SellItem", "d4/d5b/a11329.html", "d4/d5b/a11329" ],
-    [ "SocketGems", "db/dbd/a11365.html", "db/dbd/a11365" ],
-    [ "SplitItem", "d8/d35/a11301.html", "d8/d35/a11301" ],
-    [ "SwapInventoryItem", "d0/dbf/a11305.html", "d0/dbf/a11305" ],
-    [ "SwapItem", "d4/d21/a11313.html", "d4/d21/a11313" ],
-    [ "WrapItem", "d3/d97/a11361.html", "d3/d97/a11361" ]
+    [ "Spell", "d8/d73/a08611.html", "d8/d73/a08611" ],
+    [ "Trainer", "db/dd6/a08615.html", "db/dd6/a08615" ],
+    [ "FailReason", "d4/d69/a05166.html#ae4935022d4e3c686a8b51cd68a4f2b66", [
+      [ "Unavailable", "d4/d69/a05166.html#ae4935022d4e3c686a8b51cd68a4f2b66a453e6aa38d87b28ccae545967c53004f", null ],
+      [ "NotEnoughMoney", "d4/d69/a05166.html#ae4935022d4e3c686a8b51cd68a4f2b66a261cca2ac483068d987c38cfa8fd6094", null ],
+      [ "NotEnoughSkill", "d4/d69/a05166.html#ae4935022d4e3c686a8b51cd68a4f2b66a5ba2f62395296316a2a2222477988264", null ]
+    ] ],
+    [ "SpellState", "d4/d69/a05166.html#a34dc7b354e539f94e4c8a4cbd0711758", [
+      [ "Available", "d4/d69/a05166.html#a34dc7b354e539f94e4c8a4cbd0711758a78945de8de090e90045d299651a68a9b", null ],
+      [ "Unavailable", "d4/d69/a05166.html#a34dc7b354e539f94e4c8a4cbd0711758a453e6aa38d87b28ccae545967c53004f", null ],
+      [ "Known", "d4/d69/a05166.html#a34dc7b354e539f94e4c8a4cbd0711758a2f5650e484fa195949ac6c8d11dca4fd", null ]
+    ] ],
+    [ "Type", "d4/d69/a05166.html#a636cc62a0635fc1566fb574ebe9941a9", [
+      [ "Class", "d4/d69/a05166.html#a636cc62a0635fc1566fb574ebe9941a9a9bd81329febf6efe22788e03ddeaf0af", null ],
+      [ "Mount", "d4/d69/a05166.html#a636cc62a0635fc1566fb574ebe9941a9aeace16d66cdd93ad876c620db7456077", null ],
+      [ "Tradeskill", "d4/d69/a05166.html#a636cc62a0635fc1566fb574ebe9941a9a7f36331b1b83871b2bd2773a286f54cd", null ],
+      [ "Pet", "d4/d69/a05166.html#a636cc62a0635fc1566fb574ebe9941a9a7c986af4cf8f6e55a1f846dc498ce91d", null ]
+    ] ]
 ];

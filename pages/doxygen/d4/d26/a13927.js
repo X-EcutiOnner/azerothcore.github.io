@@ -1,6 +1,6 @@
 var a13927 =
 [
-    [ "OnApply", "d4/d26/a13927.html#a53fceaa5187f6dbc93f4d0d589086ca9", null ],
-    [ "PrepareAuraScript", "d4/d26/a13927.html#a236892b4fd6cf081a907becab6187069", null ],
-    [ "Register", "d4/d26/a13927.html#aa37819b82692df8a21cbbda8833ad492", null ]
+    [ "HandlePeriodic", "d4/d26/a13927.html#ae090fc1fc8eab18cf6f744d9385fb713", null ],
+    [ "PrepareAuraScript", "d4/d26/a13927.html#a2722b97e12e9371745d7f38504d9efdf", null ],
+    [ "Register", "d4/d26/a13927.html#acb892b1e0281da08af07b2dd2a04ca03", null ]
 ];

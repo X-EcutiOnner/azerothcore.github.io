@@ -1,8 +1,11 @@
 var a23455 =
 [
-    [ "boss_mekgineer_steamrigger", "de/d83/a23455.html#a930dcbade7135d0c689bcc0718815547", null ],
-    [ "JustDied", "de/d83/a23455.html#a79272c233bc0256cca62700fc7a01421", null ],
-    [ "JustEngagedWith", "de/d83/a23455.html#aa75dea00ffd73b45ba5115ea1e48a006", null ],
-    [ "JustSummoned", "de/d83/a23455.html#a7a55a9dffaf239e73962356eb0fa88ad", null ],
-    [ "KilledUnit", "de/d83/a23455.html#a84374438458cb7e034f91d4b65cd22f1", null ]
+    [ "boss_ahune", "de/d83/a23455.html#aa3d15e1ab37843761d9f7c56d2e5a319", null ],
+    [ "DoAction", "de/d83/a23455.html#a9e197e8a5ecbad8487c7bad7647e6d2c", null ],
+    [ "Emerge", "de/d83/a23455.html#a6404a8255566f2eaa061a89025e2bdcd", null ],
+    [ "EnterEvadeMode", "de/d83/a23455.html#a2b906881621e59143a916c588beb70e7", null ],
+    [ "ExecuteEvent", "de/d83/a23455.html#a46b477aef635de1d3ec88baa2465089f", null ],
+    [ "JustDied", "de/d83/a23455.html#af2fc7c071321653a644ee569ead67d63", null ],
+    [ "JustEngagedWith", "de/d83/a23455.html#aaffc4f54544c8aa4529b249560ddeeec", null ],
+    [ "Submerge", "de/d83/a23455.html#aad68758720cc1cb703f8f2dc72c09af2", null ]
 ];

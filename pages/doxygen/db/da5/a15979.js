@@ -1,7 +1,10 @@
 var a15979 =
 [
-    [ "HandleDummy", "db/da5/a15979.html#a38dafff805471b19ca3cca4ff5273a87", null ],
-    [ "PrepareSpellScript", "db/da5/a15979.html#a40db5a46491aa22b5347f99b0251f1b8", null ],
-    [ "Register", "db/da5/a15979.html#a2f297ab67d5e2e990658706f7c508bd4", null ],
-    [ "Validate", "db/da5/a15979.html#abb7946f53e6271ae69d34caacef61f47", null ]
+    [ "npc_murkdeepAI", "db/da5/a15979.html#abe78235ecb94e4735a6f8eaad7fe6adc", null ],
+    [ "JustEngagedWith", "db/da5/a15979.html#ad33de7cb0caffcd255db38204ecfbb1c", null ],
+    [ "Reset", "db/da5/a15979.html#aa89316a0fe4f99630a4a129aed305e24", null ],
+    [ "UpdateAI", "db/da5/a15979.html#aeca85a1324791d18ac825401fb8a31e8", null ],
+    [ "events", "db/da5/a15979.html#ae3d344829aeba22ef0c5947863720390", null ],
+    [ "phase", "db/da5/a15979.html#a74a3a16cb3f2993aea9c5d6736a6914e", null ],
+    [ "spawnTimer", "db/da5/a15979.html#a6b139fb5cc0776103934f14be15c34d1", null ]
 ];

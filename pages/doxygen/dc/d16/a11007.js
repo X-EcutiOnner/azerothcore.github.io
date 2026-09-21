@@ -1,6 +1,7 @@
 var a11007 =
 [
-    [ "PlayedTimeClient", "dc/d16/a11007.html#a1c82d4d153606da9887d64599f319883", null ],
-    [ "Read", "dc/d16/a11007.html#a0d25fccc9fb4fdaa5ba3bb11851a14f3", null ],
-    [ "TriggerScriptEvent", "dc/d16/a11007.html#a092b32f76df529a4f1284d7231b8fc6b", null ]
+    [ "AutoBankItem", "dc/d16/a11007.html#a02d39ddc9eda90be709b2fa9c1f6023d", null ],
+    [ "Read", "dc/d16/a11007.html#a8651192c6040cdf5d257c134dde1208c", null ],
+    [ "Bag", "dc/d16/a11007.html#a69f9b65ecb778c94c6e9278e5f98d31b", null ],
+    [ "Slot", "dc/d16/a11007.html#a970f2ca85a76de1a25ad40a9ebf0029f", null ]
 ];

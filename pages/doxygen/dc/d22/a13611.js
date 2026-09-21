@@ -1,6 +1,7 @@
 var a13611 =
 [
-    [ "instance_shadowfang_keep_InstanceMapScript", "d4/d8a/a13615.html", "d4/d8a/a13615" ],
-    [ "instance_shadowfang_keep", "dc/d22/a13611.html#aa6817df7270fbf9397c6b66b28d0f6f8", null ],
-    [ "GetInstanceScript", "dc/d22/a13611.html#a5c076ed86470247de5b4e3733b70fa25", null ]
+    [ "HandleScript", "dc/d22/a13611.html#a6ce169d6c1b106195f787b52ea433311", null ],
+    [ "PrepareSpellScript", "dc/d22/a13611.html#a4f71583df2193274365944e6d228247c", null ],
+    [ "Register", "dc/d22/a13611.html#aad8978dc0505d1fb80e2416f5525cbc7", null ],
+    [ "Validate", "dc/d22/a13611.html#a51025308f88001f1f66d7f68f174f325", null ]
 ];

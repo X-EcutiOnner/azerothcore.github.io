@@ -1,14 +1,20 @@
 var a10399 =
 [
-    [ "~MovementGenerator", "d7/d53/a10399.html#a13c3c432ac2a91dd4d07b090ec06b903", null ],
-    [ "Finalize", "d7/d53/a10399.html#aef4cf800aa06dddac4efd36e3c058d2b", null ],
-    [ "GetMovementGeneratorType", "d7/d53/a10399.html#a60bac341b438ea7258986f234a952324", null ],
-    [ "GetResetPosition", "d7/d53/a10399.html#a60ac9e99f41d1f5c320441cf78b4b46a", null ],
-    [ "GetSplineId", "d7/d53/a10399.html#a99865a1b7cf84b02784bfa8df958585f", null ],
-    [ "Initialize", "d7/d53/a10399.html#a0040e427ac4a09273641a96a13fd4c1f", null ],
-    [ "Pause", "d7/d53/a10399.html#a37530e5cd743faecabd21eba08dce939", null ],
-    [ "Reset", "d7/d53/a10399.html#aa6641fa1182551421fc8572afad8e083", null ],
-    [ "Resume", "d7/d53/a10399.html#a51988a8b0a45459242467e38ca46303c", null ],
-    [ "unitSpeedChanged", "d7/d53/a10399.html#a0f9c4fd52947688dcda1161924e829bb", null ],
-    [ "Update", "d7/d53/a10399.html#ae3014d8c6e728799c86134ef64737ed5", null ]
+    [ "KeyFrame", "d7/d53/a10399.html#a29de8ef0d2ba8671a00557782b5b3ba0", null ],
+    [ "IsStopFrame", "d7/d53/a10399.html#a5e5b3e61a5734a8cfcba1c8e9cfb6e33", null ],
+    [ "IsTeleportFrame", "d7/d53/a10399.html#a4197d8450563a6abd2826be37a2d0c0e", null ],
+    [ "ArriveTime", "d7/d53/a10399.html#afc5d26078e42a2170d43c864542f676f", null ],
+    [ "DepartureTime", "d7/d53/a10399.html#ac243e42c49063db26557d96b5fdf8a8f", null ],
+    [ "DistFromPrev", "d7/d53/a10399.html#a4271d37fac21d8c41758fc5edbf793e2", null ],
+    [ "DistSinceStop", "d7/d53/a10399.html#a60502cefa4387ffd815ba88530123ac6", null ],
+    [ "DistUntilStop", "d7/d53/a10399.html#a03f76647aa0c383bcd4b26ae93abe465", null ],
+    [ "Index", "d7/d53/a10399.html#a1176b2e4067a4e330db280514ca66d43", null ],
+    [ "InitialOrientation", "d7/d53/a10399.html#a9af26b07943f22473526463f7a0f7c6b", null ],
+    [ "NextArriveTime", "d7/d53/a10399.html#a51fb15713126d4890bfe99dc00e421f7", null ],
+    [ "NextDistFromPrev", "d7/d53/a10399.html#a23823648385abc72ffd8372468b98915", null ],
+    [ "Node", "d7/d53/a10399.html#ac628c537d5854ddf54d516eaf4471d7f", null ],
+    [ "Spline", "d7/d53/a10399.html#aee298cdd32a7593baf6ad00234120781", null ],
+    [ "Teleport", "d7/d53/a10399.html#ad57abe67a7e4771a35621b4204bfe347", null ],
+    [ "TimeFrom", "d7/d53/a10399.html#ae12ac1910a4aa13557e69bd5e066214b", null ],
+    [ "TimeTo", "d7/d53/a10399.html#ae4e0c37d26edb99017bf0042b3e0bad4", null ]
 ];

@@ -1,7 +1,6 @@
 var a24223 =
 [
-    [ "HandleEffectApply", "dd/dbb/a24223.html#a362b5b818ab0029956fd22bd10b4b9ac", null ],
-    [ "HandleEffectRemove", "dd/dbb/a24223.html#a96769390468dc132df62b5a0ec3a2da4", null ],
-    [ "PrepareAuraScript", "dd/dbb/a24223.html#a7bad0d577281829e60c0fb577d6a7d6e", null ],
-    [ "Register", "dd/dbb/a24223.html#a95905ec163c42463314a5f5bb023b4d6", null ]
+    [ "go_beaconAI", "de/d90/a24227.html", "de/d90/a24227" ],
+    [ "go_beacon", "dd/dbb/a24223.html#ad4224cabdc7210d9a0a46fb1eed1a23b", null ],
+    [ "GetAI", "dd/dbb/a24223.html#abd168f0c1ac9a64cece280758f3120d4", null ]
 ];

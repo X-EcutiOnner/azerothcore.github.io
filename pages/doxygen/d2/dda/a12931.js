@@ -1,6 +1,7 @@
 var a12931 =
 [
-    [ "boss_flamegor", "d2/dda/a12931.html#a721c23d631d305c102117566f609f10a", null ],
-    [ "JustEngagedWith", "d2/dda/a12931.html#aebbcd35868c64d2a0b1f660720f84575", null ],
-    [ "UpdateAI", "d2/dda/a12931.html#a086f8bd08ba22fff7e399bf9588cbffd", null ]
+    [ "boss_urok_doomhowl", "d2/dda/a12931.html#af1ee215f3d8d6471587ef184bdb0d47c", null ],
+    [ "InitializeAI", "d2/dda/a12931.html#acb14f233eff038e0cc2ef0b44cac5357", null ],
+    [ "JustEngagedWith", "d2/dda/a12931.html#acf6c649e69b5e7104aa2ffca01fef6dc", null ],
+    [ "UpdateAI", "d2/dda/a12931.html#aff302dd58a2f0ef8d801b0b6813d3233", null ]
 ];

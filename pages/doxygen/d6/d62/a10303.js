@@ -1,6 +1,7 @@
 var a10303 =
 [
-    [ "UpdateRequest", "d6/d62/a10303.html#a23b3dbcff54691b2710109a822a486a0", null ],
-    [ "~UpdateRequest", "d6/d62/a10303.html#a240bdc56685c270c597588231c3bf8f8", null ],
-    [ "call", "d6/d62/a10303.html#a8221fa415f828a4866f85f3983f7dab9", null ]
+    [ "ownerGUID", "d6/d62/a10303.html#a3c89974ea78b732cbffb8a9d482d403b", null ],
+    [ "script", "d6/d62/a10303.html#ad995c862431acd9d45cc12c9d5c8b319", null ],
+    [ "sourceGUID", "d6/d62/a10303.html#acafb40cbd1e73152f9dbf390f1fc98f3", null ],
+    [ "targetGUID", "d6/d62/a10303.html#a1505a3b9a6de23dcd6b2847207a279ca", null ]
 ];

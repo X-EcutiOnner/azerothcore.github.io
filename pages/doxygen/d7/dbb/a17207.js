@@ -1,8 +1,9 @@
 var a17207 =
 [
-    [ "HandleEffectApply", "d7/dbb/a17207.html#a92b98d9b9be98c330b6efbe34dae235b", null ],
-    [ "HandleEffectRemove", "d7/dbb/a17207.html#a04504220319ec562b1b6691f471c1b8d", null ],
-    [ "PrepareAuraScript", "d7/dbb/a17207.html#a10fd29809373bcfaf38fd587fcdd1dee", null ],
-    [ "Register", "d7/dbb/a17207.html#a9160c940913e4829bd0a6fe269c3b5d3", null ],
-    [ "Validate", "d7/dbb/a17207.html#a7f7750933e122e8c672b6b93f4801cd7", null ]
+    [ "npc_concentrated_ballAI", "d7/dbb/a17207.html#a5aae1554934d8e2aaa59d420a13517b6", null ],
+    [ "DoAction", "d7/dbb/a17207.html#ad3284ed37cdc503a688aa6fb2537387e", null ],
+    [ "MovementInform", "d7/dbb/a17207.html#a07845a436ded9c799b742ac9e27cc1bd", null ],
+    [ "MoveToNextPoint", "d7/dbb/a17207.html#a89d2697d5ccf6d783e973efc3b4669aa", null ],
+    [ "UpdateAI", "d7/dbb/a17207.html#a6509ff14639bca29b6877db54102d004", null ],
+    [ "despawning", "d7/dbb/a17207.html#a24145c6c4c38b5a1853647d24871090d", null ]
 ];

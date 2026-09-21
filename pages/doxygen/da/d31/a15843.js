@@ -1,8 +1,6 @@
 var a15843 =
 [
-    [ "npc_injured_draeneiAI", "da/d31/a15843.html#a6832ec8b005e75ff66b0fd04e5ff3daa", null ],
-    [ "JustEngagedWith", "da/d31/a15843.html#adcc5750f0ab037a7ac38b9fa64b75a74", null ],
-    [ "MoveInLineOfSight", "da/d31/a15843.html#a514556f4a81c6f1f8b7caaa526c08662", null ],
-    [ "Reset", "da/d31/a15843.html#adcb601f739a91ce71926791885152471", null ],
-    [ "UpdateAI", "da/d31/a15843.html#af4d723ac0a95f9dad12e82d5bc987f50", null ]
+    [ "aqsentinelAI", "d5/d68/a15847.html", "d5/d68/a15847" ],
+    [ "npc_anubisath_sentinel", "da/d31/a15843.html#ada1ab0d1857fe52020e798d9710a66cb", null ],
+    [ "GetAI", "da/d31/a15843.html#ae19b8ba3766ede8f715dad5ff8d4b2d2", null ]
 ];

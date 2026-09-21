@@ -1,10 +1,13 @@
 var a11995 =
 [
-    [ "Aura", "dd/d78/a11995.html#ab87ff32c7b9d25f238245df1b646c49a", null ],
-    [ "DispelType", "dd/d78/a11995.html#a964f9e427d50b8630ef1221914adad89", null ],
-    [ "Effect", "dd/d78/a11995.html#a61a5bcfce9d99c09aa58fd99afb97e5c", null ],
-    [ "ImmuneAoE", "dd/d78/a11995.html#a2b195291886ba333efd63d0edded1bb4", null ],
-    [ "ImmuneChain", "dd/d78/a11995.html#a81a36e982f45209bfd6d1b0bad843cc1", null ],
-    [ "Mechanic", "dd/d78/a11995.html#a01290d95abdbcf391557c7d72be05ebe", null ],
-    [ "School", "dd/d78/a11995.html#a587a27eae3c94be00522b6b84521ed3c", null ]
+    [ "CastSpellTargetArg", "dd/d78/a11995.html#a54a5c35a6d6c38e55362731f90fd080f", null ],
+    [ "CastSpellTargetArg", "dd/d78/a11995.html#a53899a47ac7114d882b47ee8cd1218f7", null ],
+    [ "CastSpellTargetArg", "dd/d78/a11995.html#a18415e98021976a4983d995f2a5b61b0", null ],
+    [ "CastSpellTargetArg", "dd/d78/a11995.html#a4ddff57daeada6042582bc2de5f3a927", null ],
+    [ "CastSpellTargetArg", "dd/d78/a11995.html#aa7905671f11fe44be9dc86bc7a4d88cf", null ],
+    [ "CastSpellTargetArg", "dd/d78/a11995.html#aea9d2ecfb6fd0f84abe55a80b1994203", null ],
+    [ "CastSpellTargetArg", "dd/d78/a11995.html#aa0f1c23d0881b4d4aec61641eed34fbc", null ],
+    [ "~CastSpellTargetArg", "dd/d78/a11995.html#a996e20990119ca494ec8d6dc2b3cda0e", null ],
+    [ "operator=", "dd/d78/a11995.html#a3c34a7c703bfe8c70d0e081dec57ce16", null ],
+    [ "Targets", "dd/d78/a11995.html#a25bda508ba86ff03f8d4195067bf8760", null ]
 ];

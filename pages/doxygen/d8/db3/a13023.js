@@ -1,7 +1,10 @@
 var a13023 =
 [
-    [ "HandleAfterApply", "d8/db3/a13023.html#a8f55616f861cccf7126f7e1a7c88f3c1", null ],
-    [ "HandleAfterRemove", "d8/db3/a13023.html#a7970613f1668294f29f61c1f10a9ba37", null ],
-    [ "PrepareAuraScript", "d8/db3/a13023.html#aea2f52682e723f8dacfffa20cd0f41a5", null ],
-    [ "Register", "d8/db3/a13023.html#ae38b71adaff3b36f5d7b3007e84e620f", null ]
+    [ "npc_corrupted_totem", "d8/db3/a13023.html#a5e0c58b341fe25a5d682b68e9eee207f", null ],
+    [ "IsSummonedBy", "d8/db3/a13023.html#ae8314903c9006b7bca94a47115a0d05b", null ],
+    [ "JustDied", "d8/db3/a13023.html#aa3c6b1a3df61c9e98c62efadff637578", null ],
+    [ "Reset", "d8/db3/a13023.html#a0bc8df2b8266b7b3a5f40f1ede0e10b4", null ],
+    [ "SetAura", "d8/db3/a13023.html#a509688befda49f789f77ee0e4170a74e", null ],
+    [ "UpdateAI", "d8/db3/a13023.html#ac128625268820d2e9b1f0ef5ead975e9", null ],
+    [ "_auraAdded", "d8/db3/a13023.html#a953cf5af625b9b5a4ab6704d5b1b664c", null ]
 ];

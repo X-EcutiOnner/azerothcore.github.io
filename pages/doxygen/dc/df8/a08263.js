@@ -1,14 +1,6 @@
 var a08263 =
 [
-    [ "ThreatListIterator", "dc/df8/a08263.html#a6fd3aa74e738a871fc79292789fe8002", null ],
-    [ "operator!=", "dc/df8/a08263.html#ab048192b55edc518d7e88a16ef3fe75c", null ],
-    [ "operator!=", "dc/df8/a08263.html#adfa9c371d231a572a2ea728163e34614", null ],
-    [ "operator*", "dc/df8/a08263.html#a4d45ae04b885844bd84fc8ba13316991", null ],
-    [ "operator++", "dc/df8/a08263.html#aff62dfcc3d94c8355a42693ab1b97774", null ],
-    [ "operator->", "dc/df8/a08263.html#a78606724fb7081a2e3e579f0ce71a43f", null ],
-    [ "operator==", "dc/df8/a08263.html#ac6f2a13304c433d61d1b69bb6d649347", null ],
-    [ "operator==", "dc/df8/a08263.html#a95c5850a5ce04c18451df6c610814fc3", null ],
-    [ "_current", "dc/df8/a08263.html#a8f3e33ae4fb15668fbf5d562bfa793d7", null ],
-    [ "_generator", "dc/df8/a08263.html#ab777887451473dfe77f428d40f8359ba", null ],
-    [ "ThreatManager", "dc/df8/a08263.html#a974a09cd8ac71d4298b01f019ef7e63b", null ]
+    [ "value_type", "dc/df8/a08263.html#a9297944511f34279a6439ade9d83b0c6", null ],
+    [ "StoreTo", "dc/df8/a08263.html#a1f5494d3c3472abbf8783026015b5f70", null ],
+    [ "tag", "dc/df8/a08263.html#a08484916162055a368e768b9f5300047", null ]
 ];

@@ -1,6 +1,6 @@
 var a27343 =
 [
-    [ "HandleScript", "d6/d83/a27343.html#a54c724bd8786c894ecaa584c164c2e53", null ],
-    [ "PrepareSpellScript", "d6/d83/a27343.html#a4505b9196609ae9339fe7e5948963663", null ],
-    [ "Register", "d6/d83/a27343.html#ae293d6a2a477f716f357516781246069", null ]
+    [ "HandleScript", "d6/d83/a27343.html#a8866d650b96c4cae3201a2829cbeff3d", null ],
+    [ "PrepareSpellScript", "d6/d83/a27343.html#aa16f51aa8a4fea2a84cadbb01d18b635", null ],
+    [ "Register", "d6/d83/a27343.html#aeaa094c8d1f3407bf56d58d88c2238a1", null ]
 ];

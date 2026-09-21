@@ -1,8 +1,7 @@
 var a29523 =
 [
-    [ "MapDifficulty", "db/d24/a29523.html#abf514d1105541d5c5aaf52a91330a1e2", null ],
-    [ "MapDifficulty", "db/d24/a29523.html#a227aec55b5b774076882ea34f70d5d88", null ],
-    [ "hasErrorMessage", "db/d24/a29523.html#a8dd5436eaec4d0e67f8b41c8dd071148", null ],
-    [ "maxPlayers", "db/d24/a29523.html#af82ad844bc4ac9585cb9df1963697e1b", null ],
-    [ "resetTime", "db/d24/a29523.html#a7190131620b9eee0897ac7b4dd62949e", null ]
+    [ "ID", "db/d24/a29523.html#aa5db020808990dc98fc143e4a5e0d2b2", null ],
+    [ "RadiusMax", "db/d24/a29523.html#ab82c1acb9309b17104958182d80b01d1", null ],
+    [ "RadiusMin", "db/d24/a29523.html#acaee7da373b94a262e01d4bd3bea4f08", null ],
+    [ "RadiusPerLevel", "db/d24/a29523.html#a74bb59afb808af45ceff6367468fca1e", null ]
 ];

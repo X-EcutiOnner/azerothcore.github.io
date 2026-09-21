@@ -1,6 +1,6 @@
 var a21371 =
 [
-    [ "CalculateAmount", "d3/da8/a21371.html#a79019ef395c9b66f6a88759b0517005d", null ],
-    [ "PrepareAuraScript", "d3/da8/a21371.html#a1336ab2b7f560deeeeaaf017578bd524", null ],
-    [ "Register", "d3/da8/a21371.html#a9bce52699983fe798c903385faa42462", null ]
+    [ "npc_ferocious_rhinoAI", "dc/d39/a21375.html", "dc/d39/a21375" ],
+    [ "npc_ferocious_rhino", "d3/da8/a21371.html#a480c1d0c24cdbe7cd3c47332ee925466", null ],
+    [ "GetAI", "d3/da8/a21371.html#aa5c3cba6b1ed6cffaac578c5449b9b4e", null ]
 ];

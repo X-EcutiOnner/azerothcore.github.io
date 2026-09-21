@@ -1,12 +1,5 @@
 var a12767 =
 [
-    [ "boss_doomrel", "d6/de1/a12767.html#adc8f26522b88ada86c2ee937daa8fbd1", null ],
-    [ "EnterEvadeMode", "d6/de1/a12767.html#a5f6c139a7be348abeda3b883c2b3f5be", null ],
-    [ "JustEngagedWith", "d6/de1/a12767.html#a559c1619a97e50b03db6c8abc7190f91", null ],
-    [ "Reset", "d6/de1/a12767.html#af30f3385bb1ca366f335ca3e19849704", null ],
-    [ "sGossipSelect", "d6/de1/a12767.html#ad80c97c7d8d8cd4db466d65ecda8dd4f", null ],
-    [ "UpdateAI", "d6/de1/a12767.html#a92cdad912f54235ab9c4cd788f17e293", null ],
-    [ "_events", "d6/de1/a12767.html#a1687755cadc484d431497a320e9509f3", null ],
-    [ "instance", "d6/de1/a12767.html#aa0d131530564cc40af48bc31f9f67a7d", null ],
-    [ "Voidwalkers", "d6/de1/a12767.html#afb365d8b32d2610b3d398b6f3a1f1bc6", null ]
+    [ "at_ring_of_law", "d6/de1/a12767.html#ad9bb44e898f90fb489b50cad0a711976", null ],
+    [ "OnTrigger", "d6/de1/a12767.html#a650536f556e248944921a09a110ef414", null ]
 ];

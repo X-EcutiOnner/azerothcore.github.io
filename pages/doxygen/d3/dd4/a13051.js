@@ -1,10 +1,7 @@
 var a13051 =
 [
-    [ "npc_core_rager", "d3/dd4/a13051.html#a91aec4d96359a88ee8ac70b58353d488", null ],
-    [ "DamageTaken", "d3/dd4/a13051.html#a7ad38b40dc33a8c875f11c4143bf9786", null ],
-    [ "Reset", "d3/dd4/a13051.html#a5a565f93e2b60ee0883d740cf751c143", null ],
-    [ "UpdateAI", "d3/dd4/a13051.html#a17466612b59d94d7f2e157d2b716cfe9", null ],
-    [ "instance", "d3/dd4/a13051.html#adb63c559f01ac8da42213bb8ddaf9ce0", null ],
-    [ "mangleTimer", "d3/dd4/a13051.html#a21bb04f15b5ffbfa4ea954922cb917ab", null ],
-    [ "rangeCheckTimer", "d3/dd4/a13051.html#abac888dc4c885921540ba7107d0bd732", null ]
+    [ "HandleDummy", "d3/dd4/a13051.html#a2299a8b99013fb9f9c2b8e81cfc541cc", null ],
+    [ "PrepareSpellScript", "d3/dd4/a13051.html#ad07165f81a7f407c716f90691ecb9817", null ],
+    [ "Register", "d3/dd4/a13051.html#a28fb28ca049b87dd76fddc3af222fd9c", null ],
+    [ "Validate", "d3/dd4/a13051.html#a8ce6773c7d0fd501fa7b26f04fd22796", null ]
 ];

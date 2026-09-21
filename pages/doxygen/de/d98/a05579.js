@@ -1,19 +1,11 @@
 var a05579 =
 [
-    [ "Iterator", "d0/d52/a05583.html", "d0/d52/a05583" ],
-    [ "iterator", "de/d98/a05579.html#a57ec2565e503df8ef86e1df2889c8ee3", null ],
-    [ "LinkedListHead", "de/d98/a05579.html#ab9a10897505b9315f7abef37ca53ae3d", null ],
-    [ "decSize", "de/d98/a05579.html#ada0bbfaadb9944b904fd023291d7454e", null ],
-    [ "getFirst", "de/d98/a05579.html#a3bdb6df345043767ce9b319593102371", null ],
-    [ "getFirst", "de/d98/a05579.html#a2b67ea8030683685e442b534f6ac14ae", null ],
-    [ "getLast", "de/d98/a05579.html#a523c918451eb358014e821b11f000b9b", null ],
-    [ "getLast", "de/d98/a05579.html#a4f858b06a17f5bc17db10aebd3493142", null ],
-    [ "getSize", "de/d98/a05579.html#aa9c03e05aa61c1fc9fad84efd8f82db7", null ],
-    [ "incSize", "de/d98/a05579.html#a46d97d5710de2958555d37687df58fcb", null ],
-    [ "insertFirst", "de/d98/a05579.html#af28714c2195a3609871f42fa7a9dc74b", null ],
-    [ "insertLast", "de/d98/a05579.html#a20c91c0ace1d4404b55802fbc7704bb5", null ],
-    [ "IsEmpty", "de/d98/a05579.html#a5f450b83a615d010bedc7b0c6aa18d70", null ],
-    [ "iFirst", "de/d98/a05579.html#aee68918c2ddc42306a60a6858a2994f1", null ],
-    [ "iLast", "de/d98/a05579.html#a6b9e8b60fdabf4780567265f5e1ba9fa", null ],
-    [ "iSize", "de/d98/a05579.html#a7ebab224bc9412426c18fa3a8a9ea345", null ]
+    [ "Record", "de/d98/a05579.html#a3303a6b7ba364777e368158052dbe1db", null ],
+    [ "getFloat", "de/d98/a05579.html#a1647694079553a20a7c6621aa6d4ecf6", null ],
+    [ "getString", "de/d98/a05579.html#af7b7a8dd685bac5a93e3299d85aab784", null ],
+    [ "getUInt", "de/d98/a05579.html#a6f22775adc36b8955009f3f0bd51f355", null ],
+    [ "getUInt8", "de/d98/a05579.html#af6a95de37b34f0204f57323d9a39d110", null ],
+    [ "DBCFileLoader", "de/d98/a05579.html#aa9814b507b472e781e08c803e025cc72", null ],
+    [ "file", "de/d98/a05579.html#a146dc23a5f24a0d8a1a34f29375b9bcd", null ],
+    [ "offset", "de/d98/a05579.html#a06e2c90771be91d9ca948840a07125e8", null ]
 ];

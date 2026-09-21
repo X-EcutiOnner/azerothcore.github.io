@@ -1,7 +1,8 @@
 var a15879 =
 [
-    [ "HandleEffectRemove", "d7/dcc/a15879.html#aa07e0bdaac9cad239bae1b24d16b433c", null ],
-    [ "PrepareAuraScript", "d7/dcc/a15879.html#a8ab8433afb22bbca79e028e8f082da2b", null ],
-    [ "Register", "d7/dcc/a15879.html#a2ee3afd6fdcb0991e419396ed65e6d4a", null ],
-    [ "AuraEffectHandleModes", "d7/dcc/a15879.html#af8a46c99290ce700e765c7ad5e8c866c", null ]
+    [ "npc_ahnqiraji_critter", "d7/dcc/a15879.html#a60e2dc1c52579a410d3435126bf39684", null ],
+    [ "JustDied", "d7/dcc/a15879.html#a71d3d5262bde847a18932fea89cb6648", null ],
+    [ "JustEngagedWith", "d7/dcc/a15879.html#aca1df706306f9181db26cd77e5b66452", null ],
+    [ "Reset", "d7/dcc/a15879.html#a645e16e9da29f6579320394201d0ada7", null ],
+    [ "UpdateAI", "d7/dcc/a15879.html#a68c5ded8563c2de9429a13cdb7d38f89", null ]
 ];

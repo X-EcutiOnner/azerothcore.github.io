@@ -1,11 +1,11 @@
 var a23003 =
 [
-    [ "boss_essence_of_angerAI", "d5/d7f/a23003.html#a25eed717395b4e1ca5504d2d473e2500", null ],
-    [ "DoAction", "d5/d7f/a23003.html#a81576aaf465dfc99d199aaf6a182df52", null ],
-    [ "JustDied", "d5/d7f/a23003.html#a997d75ad388e790f9863e1b15fa1c899", null ],
-    [ "JustEngagedWith", "d5/d7f/a23003.html#a16d2b13fcf3dfa513813669b44712c4c", null ],
-    [ "KilledUnit", "d5/d7f/a23003.html#a6a900f9a9dc5509c36e5bdaaaacc197d", null ],
-    [ "Reset", "d5/d7f/a23003.html#ade57a575bd84e8e095b1ab5a5c81d3f6", null ],
-    [ "UpdateAI", "d5/d7f/a23003.html#a67e9f5a361894aa227f2a74f9222740d", null ],
-    [ "targetGUID", "d5/d7f/a23003.html#adc3867a4446375f1217809299f3dd9bb", null ]
+    [ "boss_high_nethermancer_zerevor", "d5/d7f/a23003.html#a2d3ce1a6d972c0b58efe5aad31014c09", null ],
+    [ "AttackStart", "d5/d7f/a23003.html#a270961bd3af6ce65eebc79130f4e3d47", null ],
+    [ "CastDampenMagicIfPossible", "d5/d7f/a23003.html#ab0af23baf43d377935811c52a346c566", null ],
+    [ "JustEngagedWith", "d5/d7f/a23003.html#a390f939ba01ee189fc55670eb4ff1a7e", null ],
+    [ "OnAuraRemove", "d5/d7f/a23003.html#a7dd31808dbf00f77b59fce84249778fe", null ],
+    [ "Reset", "d5/d7f/a23003.html#afd7a419de217b3d129f783ddc87780af", null ],
+    [ "UpdateAI", "d5/d7f/a23003.html#ae1ec04a655525cbb2a6a3c7e382cf078", null ],
+    [ "_canCastDampenMagic", "d5/d7f/a23003.html#a72c89454c2b0754690ae72fd7aacb0e8", null ]
 ];

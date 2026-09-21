@@ -1,10 +1,9 @@
 var a14347 =
 [
-    [ "boss_alyson_antille", "d8/da0/a14347.html#a8b95891ced3f17f67470d1ec7b1a9a3e", null ],
-    [ "GetNearbyFriendlies", "d8/da0/a14347.html#ab99596d5c2eafac8c678378d509bf585", null ],
-    [ "JustEngagedWith", "d8/da0/a14347.html#a7a7d62c52a403ac1d8e5d275a74cad6e", null ],
-    [ "RandomReverseFriendlyList", "d8/da0/a14347.html#afef27de229ba2c3b8beb30809a313237", null ],
-    [ "Reset", "d8/da0/a14347.html#a40d901bde9f8419a1c73aa073f6fb334", null ],
-    [ "UpdateAI", "d8/da0/a14347.html#a15157be42d166a239ab658fc04292e44", null ],
-    [ "_friendlyList", "d8/da0/a14347.html#a0168c4a0f1e9862fe0d83ffac89aa634", null ]
+    [ "npc_thrall_bfuAI", "de/d37/a14351.html", "de/d37/a14351" ],
+    [ "npc_thrall_bfu", "d8/da0/a14347.html#a43eb37b9a0cf06be0e2cb6180730b09f", null ],
+    [ "GetAI", "d8/da0/a14347.html#a28b4030d189e4d967a1b16f3464c14ba", null ],
+    [ "OnGossipHello", "d8/da0/a14347.html#a71a7108464de9245879c8a1c08932e2a", null ],
+    [ "OnGossipSelect", "d8/da0/a14347.html#aea62ed8489bea23772a52ddefbf9c60e", null ],
+    [ "OnQuestReward", "d8/da0/a14347.html#aee56e54615e2696dcd0e7299e4f416b5", null ]
 ];

@@ -1,6 +1,7 @@
 var a21919 =
 [
-    [ "npc_commander_eligor_dawnbringerAI", "d8/d5f/a21923.html", "d8/d5f/a21923" ],
-    [ "npc_commander_eligor_dawnbringer", "da/d38/a21919.html#a71d919af98464d6d63f948507f3ff08c", null ],
-    [ "GetAI", "da/d38/a21919.html#a759b9b1aeb8cce983fe8b6d2f3d9c33d", null ]
+    [ "CheckCast", "da/d38/a21919.html#af0eb00a8dbff89d780beb07f3a714fff", null ],
+    [ "HandleScript", "da/d38/a21919.html#a8128bb2d7588409dae73bed78d5285a7", null ],
+    [ "PrepareSpellScript", "da/d38/a21919.html#aee17a8a21ec5df027082c6990189dccc", null ],
+    [ "Register", "da/d38/a21919.html#a2a97265e102e9ce31997d99275b42973", null ]
 ];

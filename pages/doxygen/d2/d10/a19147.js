@@ -1,5 +1,7 @@
 var a19147 =
 [
-    [ "npc_darkfallen_archmage", "d2/d10/a19147.html#a8d21215aba6a282cf6d6450551876813", null ],
-    [ "ScheduleSpells", "d2/d10/a19147.html#a9a0e12d3d69a7c409d5c32ec68c51f60", null ]
+    [ "npc_captain_arnathAI", "d2/d10/a19147.html#a34e3d17b89010569bf7e9cb28361c2af", null ],
+    [ "FindFriendlyCreature", "d2/d10/a19147.html#ad6411d2a87d2552bea2051f80ca16e14", null ],
+    [ "Reset", "d2/d10/a19147.html#a016fbe51f31e1c5ec1636e8d20d8cb30", null ],
+    [ "UpdateAI", "d2/d10/a19147.html#a020efd7adc0d60152007906e3229988d", null ]
 ];

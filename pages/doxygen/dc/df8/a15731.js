@@ -1,7 +1,9 @@
 var a15731 =
 [
-    [ "FilterTargets", "dc/df8/a15731.html#a76e8285baf1d14d560ad764eeab86cd5", null ],
-    [ "HandleOnHit", "dc/df8/a15731.html#a587db6fa1dc5788e0cc9ec5e486e9393", null ],
-    [ "PrepareSpellScript", "dc/df8/a15731.html#ad7372e543391a23c003b4121e0dd8a09", null ],
-    [ "Register", "dc/df8/a15731.html#a9749c72e2c7964cd4a2b2f9a77da69ec", null ]
+    [ "npc_giant_eye_tentacle", "dc/df8/a15731.html#a1adebf586a8a4413bb048936b90ddd3c", null ],
+    [ "JustDied", "dc/df8/a15731.html#a72cac50a711868256a41c543d0cef3da", null ],
+    [ "JustEngagedWith", "dc/df8/a15731.html#ac26b16e709e62c429b7ca88815bbc4cd", null ],
+    [ "Reset", "dc/df8/a15731.html#a4e605a585099d136d8f6bd42b6450f1d", null ],
+    [ "UpdateAI", "dc/df8/a15731.html#aacae6ea2616af2ad9515167fc1bab61d", null ],
+    [ "_portalGUID", "dc/df8/a15731.html#af9784b6d00e50ec28ed27361aaf3442f", null ]
 ];

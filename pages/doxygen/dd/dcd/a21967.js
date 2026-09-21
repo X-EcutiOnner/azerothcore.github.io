@@ -1,6 +1,6 @@
 var a21967 =
 [
-    [ "npc_mrfloppyAI", "d7/d84/a21971.html", "d7/d84/a21971" ],
-    [ "npc_mrfloppy", "dd/dcd/a21967.html#a0515ca75aba9b7f6f5577b53e7520f6e", null ],
-    [ "GetAI", "dd/dcd/a21967.html#a88590566309f3fc155eb6dc26055a161", null ]
+    [ "SACDeactivateEvent", "dd/dcd/a21967.html#a14f1db2f3bf7e82d0e5c5b5135d46cf9", null ],
+    [ "Execute", "dd/dcd/a21967.html#a12179c55d1999b3cd0cfc5d51d039a31", null ],
+    [ "_owner", "dd/dcd/a21967.html#acc87b2f689bf2e6a3f19440dceb6ea6d", null ]
 ];

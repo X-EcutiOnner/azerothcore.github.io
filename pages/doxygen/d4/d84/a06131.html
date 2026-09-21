@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: MySQLResult Struct Reference</title>
+<title>AzerothCore: DatabaseWorkerPoolAdapter&lt; T &gt; Class Template Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -104,25 +104,222 @@ $(document).ready(function(){initNavTree('d4/d84/a06131.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">MySQLResult Struct Reference</div></div>
+  <div class="summary">
+<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="../../de/da4/a06128.html">List of all members</a>  </div>
+  <div class="headertitle"><div class="title">DatabaseWorkerPoolAdapter&lt; T &gt; Class Template Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">MySQLHacks.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">DatabaseWorkerPoolAdapter.h</a>&quot;</code></p>
 <div class="dynheader">
-Inheritance diagram for MySQLResult:</div>
+Inheritance diagram for DatabaseWorkerPoolAdapter&lt; T &gt;:</div>
 <div class="dyncontent">
  <div class="center">
-  <img src="../../d4/d84/a06131.png" alt=""/>
- </div></div>
+  <img src="../../d4/d84/a06131.png" usemap="#DatabaseWorkerPoolAdapter_3C_20T_20_3E_map" alt=""/>
+  <map id="DatabaseWorkerPoolAdapter_3C_20T_20_3E_map" name="DatabaseWorkerPoolAdapter_3C_20T_20_3E_map">
+<area href="../../db/d9d/a06119.html" alt="DatabaseUpdatePool" shape="rect" coords="0,0,207,24"/>
+  </map>
+</div></div>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:afaf15e7b5a8305b7766452f68b0e5763"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d84/a06131.html#afaf15e7b5a8305b7766452f68b0e5763">DatabaseWorkerPoolAdapter</a> (<a class="el" href="../../dc/dda/a06111.html">DatabaseWorkerPool</a>&lt; T &gt; &amp;pool)</td></tr>
+<tr class="separator:afaf15e7b5a8305b7766452f68b0e5763"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a001df1f9dead46304cad902e1e7689d1"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d84/a06131.html#a001df1f9dead46304cad902e1e7689d1">DirectExecute</a> (std::string_view query) override</td></tr>
+<tr class="separator:a001df1f9dead46304cad902e1e7689d1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abe05d7ef60e96d2a054c430af6913c3f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/dd5/a00215.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d84/a06131.html#abe05d7ef60e96d2a054c430af6913c3f">Query</a> (std::string_view query) override</td></tr>
+<tr class="separator:abe05d7ef60e96d2a054c430af6913c3f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab823ad038f84c114cb85764320a3f546"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d61/a06163.html">MySQLConnectionInfo</a> const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d84/a06131.html#ab823ad038f84c114cb85764320a3f546">GetConnectionInfo</a> () const override</td></tr>
+<tr class="separator:ab823ad038f84c114cb85764320a3f546"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_methods_a06119"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a06119')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../db/d9d/a06119.html">DatabaseUpdatePool</a></td></tr>
+<tr class="memitem:ac0431838d5a43c5323356b4c93c21157 inherit pub_methods_a06119"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d9d/a06119.html#ac0431838d5a43c5323356b4c93c21157">~DatabaseUpdatePool</a> ()=default</td></tr>
+<tr class="separator:ac0431838d5a43c5323356b4c93c21157 inherit pub_methods_a06119"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a271fb5dffc1a589deaa5dd2fca756f82 inherit pub_methods_a06119"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d9d/a06119.html#a271fb5dffc1a589deaa5dd2fca756f82">DirectExecute</a> (std::string_view query)=0</td></tr>
+<tr class="separator:a271fb5dffc1a589deaa5dd2fca756f82 inherit pub_methods_a06119"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a982c56cafb05142ed68d3e8a36a15ccd inherit pub_methods_a06119"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="../../d3/dd5/a00215.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d9d/a06119.html#a982c56cafb05142ed68d3e8a36a15ccd">Query</a> (std::string_view query)=0</td></tr>
+<tr class="separator:a982c56cafb05142ed68d3e8a36a15ccd inherit pub_methods_a06119"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aab5bbf60204663389a536ea84c885538 inherit pub_methods_a06119"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="../../d3/d61/a06163.html">MySQLConnectionInfo</a> const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d9d/a06119.html#aab5bbf60204663389a536ea84c885538">GetConnectionInfo</a> () const =0</td></tr>
+<tr class="separator:aab5bbf60204663389a536ea84c885538 inherit pub_methods_a06119"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:acffa90573e6f9d4889d62f4c9d57b28b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/dda/a06111.html">DatabaseWorkerPool</a>&lt; T &gt; &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d84/a06131.html#acffa90573e6f9d4889d62f4c9d57b28b">_pool</a></td></tr>
+<tr class="separator:acffa90573e6f9d4889d62f4c9d57b28b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div></div><!-- contents -->
+<div class="textblock"><div class="compoundTemplParams">template&lt;class T&gt;<br />
+class DatabaseWorkerPoolAdapter&lt; T &gt;</div></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="afaf15e7b5a8305b7766452f68b0e5763" name="afaf15e7b5a8305b7766452f68b0e5763"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afaf15e7b5a8305b7766452f68b0e5763">&#9670;&#160;</a></span>DatabaseWorkerPoolAdapter()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d4/d84/a06131.html">DatabaseWorkerPoolAdapter</a>&lt; T &gt;<a class="el" href="../../d4/d84/a06131.html">::DatabaseWorkerPoolAdapter</a> </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dc/dda/a06111.html">DatabaseWorkerPool</a>&lt; T &gt; &amp;&#160;</td>
+          <td class="paramname"><em>pool</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   28</span>: <a class="code hl_variable" href="../../d4/d84/a06131.html#acffa90573e6f9d4889d62f4c9d57b28b">_pool</a>(pool) {}</div>
+<div class="ttc" id="aa06131_html_acffa90573e6f9d4889d62f4c9d57b28b"><div class="ttname"><a href="../../d4/d84/a06131.html#acffa90573e6f9d4889d62f4c9d57b28b">DatabaseWorkerPoolAdapter::_pool</a></div><div class="ttdeci">DatabaseWorkerPool&lt; T &gt; &amp; _pool</div><div class="ttdef"><b>Definition:</b> DatabaseWorkerPoolAdapter.h:46</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a001df1f9dead46304cad902e1e7689d1" name="a001df1f9dead46304cad902e1e7689d1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a001df1f9dead46304cad902e1e7689d1">&#9670;&#160;</a></span>DirectExecute()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void <a class="el" href="../../d4/d84/a06131.html">DatabaseWorkerPoolAdapter</a>&lt; T &gt;::DirectExecute </td>
+          <td>(</td>
+          <td class="paramtype">std::string_view&#160;</td>
+          <td class="paramname"><em>query</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implements <a class="el" href="../../db/d9d/a06119.html#a271fb5dffc1a589deaa5dd2fca756f82">DatabaseUpdatePool</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">   31</span>    {</div>
+<div class="line"><span class="lineno">   32</span>        <a class="code hl_variable" href="../../d4/d84/a06131.html#acffa90573e6f9d4889d62f4c9d57b28b">_pool</a>.DirectExecute(query);</div>
+<div class="line"><span class="lineno">   33</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00046">DatabaseWorkerPoolAdapter&lt; T &gt;::_pool</a>.</p>
+
+</div>
+</div>
+<a id="ab823ad038f84c114cb85764320a3f546" name="ab823ad038f84c114cb85764320a3f546"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab823ad038f84c114cb85764320a3f546">&#9670;&#160;</a></span>GetConnectionInfo()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d3/d61/a06163.html">MySQLConnectionInfo</a> const  * <a class="el" href="../../d4/d84/a06131.html">DatabaseWorkerPoolAdapter</a>&lt; T &gt;::GetConnectionInfo </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implements <a class="el" href="../../db/d9d/a06119.html#aab5bbf60204663389a536ea84c885538">DatabaseUpdatePool</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">   41</span>    {</div>
+<div class="line"><span class="lineno">   42</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d4/d84/a06131.html#acffa90573e6f9d4889d62f4c9d57b28b">_pool</a>.GetConnectionInfo();</div>
+<div class="line"><span class="lineno">   43</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00046">DatabaseWorkerPoolAdapter&lt; T &gt;::_pool</a>.</p>
+
+</div>
+</div>
+<a id="abe05d7ef60e96d2a054c430af6913c3f" name="abe05d7ef60e96d2a054c430af6913c3f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abe05d7ef60e96d2a054c430af6913c3f">&#9670;&#160;</a></span>Query()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d3/dd5/a00215.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a> <a class="el" href="../../d4/d84/a06131.html">DatabaseWorkerPoolAdapter</a>&lt; T &gt;::Query </td>
+          <td>(</td>
+          <td class="paramtype">std::string_view&#160;</td>
+          <td class="paramname"><em>query</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implements <a class="el" href="../../db/d9d/a06119.html#a982c56cafb05142ed68d3e8a36a15ccd">DatabaseUpdatePool</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">   36</span>    {</div>
+<div class="line"><span class="lineno">   37</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d4/d84/a06131.html#acffa90573e6f9d4889d62f4c9d57b28b">_pool</a>.Query(query);</div>
+<div class="line"><span class="lineno">   38</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00046">DatabaseWorkerPoolAdapter&lt; T &gt;::_pool</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="acffa90573e6f9d4889d62f4c9d57b28b" name="acffa90573e6f9d4889d62f4c9d57b28b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acffa90573e6f9d4889d62f4c9d57b28b">&#9670;&#160;</a></span>_pool</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../dc/dda/a06111.html">DatabaseWorkerPool</a>&lt;T&gt;&amp; <a class="el" href="../../d4/d84/a06131.html">DatabaseWorkerPoolAdapter</a>&lt; T &gt;::_pool</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00030">DatabaseWorkerPoolAdapter&lt; T &gt;::DirectExecute()</a>, <a class="el" href="../../#l00040">DatabaseWorkerPoolAdapter&lt; T &gt;::GetConnectionInfo()</a>, and <a class="el" href="../../#l00035">DatabaseWorkerPoolAdapter&lt; T &gt;::Query()</a>.</p>
+
+</div>
+</div>
+</div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d4/d84/a06131.html">MySQLResult</a></li>
-    <li class="footer">Generated on Tue Sep 1 2026 00:09:08 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d4/d84/a06131.html">DatabaseWorkerPoolAdapter</a></li>
+    <li class="footer">Generated on Mon Sep 21 2026 23:33:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

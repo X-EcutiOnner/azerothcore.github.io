@@ -1,5 +1,7 @@
 var a25599 =
 [
-    [ "PrepareSpellScript", "d8/d0a/a25599.html#a53fe40a7d280c5fcc733d2647ef09b41", null ],
-    [ "Register", "d8/d0a/a25599.html#ae2d3eb8ff055aa66a00567af75c65138", null ]
+    [ "ModDest", "d8/d0a/a25599.html#afe0fb68de61a657ce6900e71973e4d77", null ],
+    [ "ModifyCookingSkill", "d8/d0a/a25599.html#a42dea7b58aed704a6aacd5d0aa0028d4", null ],
+    [ "PrepareSpellScript", "d8/d0a/a25599.html#a7b0446133750fce7eda19dbde5abb3b1", null ],
+    [ "Register", "d8/d0a/a25599.html#a6919079b43a816eb601a68c51ad39794", null ]
 ];

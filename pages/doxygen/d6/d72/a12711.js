@@ -1,8 +1,12 @@
 var a12711 =
 [
-    [ "npc_burning_spirit", "d6/d72/a12711.html#acb0a685ea9aaddd23580ebeb4a0f1e45", null ],
-    [ "EnterEvadeMode", "d6/d72/a12711.html#a162d280d1fc53de0655c99efce81c539", null ],
-    [ "IsSummonedBy", "d6/d72/a12711.html#a3ef47ad5f1697f3a890469412e43c452", null ],
-    [ "MovementInform", "d6/d72/a12711.html#a4c001de653aa8b096552247f5cbf1573", null ],
-    [ "_flamelasherGUID", "d6/d72/a12711.html#aea694b777b8437b5909bd668279837b1", null ]
+    [ "wp_commandscript", "d6/d72/a12711.html#a152610b5faf3ee05bb830bbf820b7162", null ],
+    [ "GetCommands", "d6/d72/a12711.html#a55ecc8d67d7c240df1b177f755fc5850", null ],
+    [ "HandleWpAddCommand", "d6/d72/a12711.html#a345a8c5a2b449dc228433b2922caab0e", null ],
+    [ "HandleWpEventCommand", "d6/d72/a12711.html#a7b9355e52cb6870e7cdec7206f800832", null ],
+    [ "HandleWpLoadCommand", "d6/d72/a12711.html#a5849689f5cd186e8fc1f91ebd5f5a21a", null ],
+    [ "HandleWpModifyCommand", "d6/d72/a12711.html#a9a3e68e19f2324783bbe9ed9fe1c3ac6", null ],
+    [ "HandleWpReloadCommand", "d6/d72/a12711.html#ae7015c0f94ca5688210d890b636a586d", null ],
+    [ "HandleWpShowCommand", "d6/d72/a12711.html#a265f60ddec02a2f24b011ccdebefa89e", null ],
+    [ "HandleWpUnLoadCommand", "d6/d72/a12711.html#a4f0a252f625e49593ad6a03086a8c7ad", null ]
 ];

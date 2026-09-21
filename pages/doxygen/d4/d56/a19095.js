@@ -1,6 +1,6 @@
 var a19095 =
 [
-    [ "npc_frostwing_vrykulAI", "df/d29/a19099.html", "df/d29/a19099" ],
-    [ "npc_frostwing_vrykul", "d4/d56/a19095.html#ab915aa094ddebd9201a1c626e6427409", null ],
-    [ "GetAI", "d4/d56/a19095.html#a11678e59b6db9a41c7b6a575339995fd", null ]
+    [ "CaptainSurviveTalk", "d4/d56/a19095.html#a43a1b1da17ed41ae765aabc47c858f80", null ],
+    [ "Execute", "d4/d56/a19095.html#a871cf08e8c7fced2971cae8abbc20454", null ],
+    [ "_owner", "d4/d56/a19095.html#ac8de506afb4688560ea637918d07b01e", null ]
 ];

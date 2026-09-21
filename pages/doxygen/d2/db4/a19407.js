@@ -1,6 +1,6 @@
 var a19407 =
 [
-    [ "npc_four_car_garageAI", "d2/db4/a19407.html#a2eedf5934e12d33cda0ac173d82220d5", null ],
-    [ "JustDied", "d2/db4/a19407.html#a1fba9f03dca2db37b5cb969079b25d22", null ],
-    [ "PassengerBoarded", "d2/db4/a19407.html#a144bc36a5c4ff227c8a7dc146d4167b6", null ]
+    [ "npc_icc_nerubar_broodkeeperAI", "d1/db7/a19411.html", "d1/db7/a19411" ],
+    [ "npc_icc_nerubar_broodkeeper", "d2/db4/a19407.html#adf9c3bfb444fed50420c2e780b373f34", null ],
+    [ "GetAI", "d2/db4/a19407.html#ad12186da36f7bbf99275a746bc874bfc", null ]
 ];

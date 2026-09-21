@@ -1,7 +1,5 @@
 var a28863 =
 [
-    [ "EmoteType", "dd/d86/a28863.html#a2d319652021081fdb02472c32a28e318", null ],
-    [ "Flags", "dd/d86/a28863.html#aa1794d3ffd7f7da82f5754e1be580fe9", null ],
-    [ "Id", "dd/d86/a28863.html#a3b3b641fbdb8dc88afc2421e358a75a1", null ],
-    [ "UnitStandState", "dd/d86/a28863.html#ada83e548faa01917a5db19eaa15dbbec", null ]
+    [ "npc_sunwell_gate", "dd/d86/a28863.html#a70643c475fe4aa6f47e0a47222b1faad", null ],
+    [ "OnQuestReward", "dd/d86/a28863.html#a760f5bef0c1f45f21698b0dcdf2d2236", null ]
 ];

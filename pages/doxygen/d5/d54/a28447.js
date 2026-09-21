@@ -1,5 +1,5 @@
 var a28447 =
 [
-    [ "item_captured_frog", "d5/d54/a28447.html#ad41b743c98c9534453eca8cf1f367366", null ],
-    [ "OnUse", "d5/d54/a28447.html#a1156467ca046a077ea494f92c488bf54", null ]
+    [ "go_arcane_prison", "d5/d54/a28447.html#ad73ac33d843027de0e516de8f90c45a0", null ],
+    [ "OnGossipHello", "d5/d54/a28447.html#a0f9d414ce1f3f3e734cb79a554f7523e", null ]
 ];

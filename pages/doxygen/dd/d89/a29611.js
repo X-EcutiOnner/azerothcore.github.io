@@ -1,13 +1,10 @@
 var a29611 =
 [
-    [ "Context", "dd/d89/a29611.html#a0dd9f22f9528a05b229828e4a2c97757", null ],
-    [ "CreateEventInfo", "dd/d89/a29611.html#a81032fc22ce45902d34cf897606bd966", null ],
-    [ "CreateProcEntry", "dd/d89/a29611.html#a26531bd3f3256075455b32b42a172f6a", null ],
-    [ "CreateSpellInfo", "dd/d89/a29611.html#adee75944dc2e9a3fff7848d0ccfff527", null ],
-    [ "SetUp", "dd/d89/a29611.html#a65b0d4a0beb4c2f986f71ff5732e0f3c", null ],
-    [ "TearDown", "dd/d89/a29611.html#a782580d41f8233b93d51fe347601e730", null ],
-    [ "TestCanProc", "dd/d89/a29611.html#a409ccb130f529cb20e5164b465e05ca6", null ],
-    [ "TestSpellFamilyMatch", "dd/d89/a29611.html#a97d06c4fdf207051543fbf8c9207242e", null ],
-    [ "_context", "dd/d89/a29611.html#a0b5925a6df47ba704bfc196cc89c4919", null ],
-    [ "_spellInfos", "dd/d89/a29611.html#a30ebff666ac835168f1bf7d6aa771e0c", null ]
+    [ "area_id", "dd/d89/a29611.html#acbd77950bf9548d266e568640cf38458", null ],
+    [ "map_id", "dd/d89/a29611.html#abeabdc3d225dcd6626a641d6792d7ff8", null ],
+    [ "virtual_map_id", "dd/d89/a29611.html#afe75f114a3aa74a0589cc575e372f1b1", null ],
+    [ "x1", "dd/d89/a29611.html#a78967fef40841f705c2564a177cb36f3", null ],
+    [ "x2", "dd/d89/a29611.html#a037dca812715df0b4f2551f8684b537c", null ],
+    [ "y1", "dd/d89/a29611.html#a7f90073656e1cd00a88add9f8d881d11", null ],
+    [ "y2", "dd/d89/a29611.html#ad8e0164952e5565488d5443f269ec79e", null ]
 ];

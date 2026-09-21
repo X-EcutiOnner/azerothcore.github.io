@@ -1,6 +1,6 @@
 var a19927 =
 [
-    [ "PrepareSpellScript", "d1/df4/a19927.html#a65c3b2c9a416b7d1bbd3c14057e5f8fc", null ],
-    [ "Register", "d1/df4/a19927.html#ad8470ed0d09c2b7e79fa4ecb1867e9bf", null ],
-    [ "SetDest", "d1/df4/a19927.html#a24341aae14ed77101d4c31f2fbe11463", null ]
+    [ "boss_eregosAI", "d0/dd2/a19931.html", "d0/dd2/a19931" ],
+    [ "boss_eregos", "d1/df4/a19927.html#a105820f29aa1391d77a56e024c4b5637", null ],
+    [ "GetAI", "d1/df4/a19927.html#aee43f0dfee70ab9618c560a27504cb02", null ]
 ];

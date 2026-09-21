@@ -1,8 +1,7 @@
 var a29663 =
 [
-    [ "auraHasCanProcFromProcs", "da/d40/a29663.html#af3e394eb5563aa4a76bd51d6c52f6db2", null ],
-    [ "isTriggered", "da/d40/a29663.html#aae527e9b8a2969ef67e9c4fbaf43c381", null ],
-    [ "procAuraSpellId", "da/d40/a29663.html#ae198c80e6c72eeb72da0abcde8a0f13a", null ],
-    [ "spellHasNotAProc", "da/d40/a29663.html#ab2f859d45c5a9a02301ecc117bf3e25e", null ],
-    [ "triggeredByAuraSpellId", "da/d40/a29663.html#ad62562e342e1d090e3f26f7c40a35795", null ]
+    [ "RealmHandle", "da/d40/a29663.html#a120fb45f2301188a843ab2e712f768e4", null ],
+    [ "RealmHandle", "da/d40/a29663.html#ac3e04e9790e1ae75b9701f1a84b9f6e2", null ],
+    [ "operator<", "da/d40/a29663.html#ad414bab23a3ecfb3cabb146d5f43bf3e", null ],
+    [ "Realm", "da/d40/a29663.html#a31af0d9064a295b1579fce3c80217bfd", null ]
 ];

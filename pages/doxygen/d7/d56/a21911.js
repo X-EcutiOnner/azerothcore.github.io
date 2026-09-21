@@ -1,6 +1,6 @@
 var a21911 =
 [
-    [ "npc_spiritual_insightAI", "da/db5/a21915.html", "da/db5/a21915" ],
-    [ "npc_spiritual_insight", "d7/d56/a21911.html#afe7b9d5953462719407f03b33b8de564", null ],
-    [ "GetAI", "d7/d56/a21911.html#ab2884e1160ccad9adb8e3ae69db55bc4", null ]
+    [ "npc_injured_7th_legion_soldierAI", "d7/d56/a21911.html#a6929ef42a003f1337d71f9b23fa37c6e", null ],
+    [ "MovementInform", "d7/d56/a21911.html#a999bc868db485578fcc70ae7e056b778", null ],
+    [ "Reset", "d7/d56/a21911.html#a3021c037acdb141fc3ca4d6f3b146bbf", null ]
 ];

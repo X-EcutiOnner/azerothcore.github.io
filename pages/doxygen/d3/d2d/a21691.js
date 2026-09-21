@@ -1,7 +1,5 @@
 var a21691 =
 [
-    [ "HandleScriptEffect", "d3/d2d/a21691.html#adc89459d7b6c073b8a60e08a9e3281cf", null ],
-    [ "PrepareSpellScript", "d3/d2d/a21691.html#a8f15bf27d9e54c1ee6c84f99f1f83d48", null ],
-    [ "Register", "d3/d2d/a21691.html#a86ef787e1db46e578a10ca25ac84ba87", null ],
-    [ "Validate", "d3/d2d/a21691.html#abeb8baf7dabf2d3acea4df79535770d2", null ]
+    [ "npc_khunok_the_behemothAI", "d3/d2d/a21691.html#a435ac0418fe4bba1d2877ce6bea6451c", null ],
+    [ "MoveInLineOfSight", "d3/d2d/a21691.html#a5d54954a159da764aa7b83579e03688c", null ]
 ];

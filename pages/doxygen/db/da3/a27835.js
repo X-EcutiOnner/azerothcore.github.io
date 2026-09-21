@@ -1,7 +1,10 @@
 var a27835 =
 [
-    [ "CalculateAmount", "db/da3/a27835.html#a893842dfe5e1d6f7977e2fc97471b265", null ],
-    [ "PrepareAuraScript", "db/da3/a27835.html#a20dad49a99420556f393a16525eb14b4", null ],
-    [ "Register", "db/da3/a27835.html#ad7d339ab137ebd640981f7789e1757f0", null ],
-    [ "Validate", "db/da3/a27835.html#a341acb2dd25c1db94777f7036f3338ac", null ]
+    [ "CalculateAPAmount", "db/da3/a27835.html#ae76d10c68df1f149f83d4247122b47a7", null ],
+    [ "CalculateResistanceAmount", "db/da3/a27835.html#ab21a4b135dfd70963f75eff7bffbf476", null ],
+    [ "CalculateSPAmount", "db/da3/a27835.html#a421996ca946d5b04c264718e6dd63fa9", null ],
+    [ "CalculateStatAmount", "db/da3/a27835.html#ae695515c915f2452dccb71aeb018f3a3", null ],
+    [ "HandleEffectApply", "db/da3/a27835.html#a207864c73e485e0db0fe47bde97d87a2", null ],
+    [ "PrepareAuraScript", "db/da3/a27835.html#a4179be48195872410bda69cac3454812", null ],
+    [ "Register", "db/da3/a27835.html#a94b34a7e4c36bf1336b5611e82e2dd58", null ]
 ];

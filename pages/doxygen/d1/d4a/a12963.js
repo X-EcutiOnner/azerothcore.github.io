@@ -1,7 +1,6 @@
 var a12963 =
 [
-    [ "HandlePeriodic", "d1/d4a/a12963.html#ac2196cc9de34e286581d44d147fe9d04", null ],
-    [ "PrepareAuraScript", "d1/d4a/a12963.html#a149c974371f23268d2d929b483637b14", null ],
-    [ "Register", "d1/d4a/a12963.html#a6a2f42867a7082d2b8406c651d5dc484", null ],
-    [ "Validate", "d1/d4a/a12963.html#ab77b8a7dca3dc9bbd20cdb498d1d317e", null ]
+    [ "OnEffect", "d1/d4a/a12963.html#a1b5999f392cec9fea4431c3f746ee034", null ],
+    [ "PrepareSpellScript", "d1/d4a/a12963.html#a4748a82fcc7b3794850461092ee6b2e4", null ],
+    [ "Register", "d1/d4a/a12963.html#acfa32dfc22778576d0dd3096c456ebe0", null ]
 ];

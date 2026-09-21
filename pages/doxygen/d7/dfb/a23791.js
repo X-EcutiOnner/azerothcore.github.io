@@ -1,8 +1,5 @@
 var a23791 =
 [
-    [ "HandleEffectApply", "d7/dfb/a23791.html#ad75c8c6279e606d6a557a61d97ee8f42", null ],
-    [ "HandleEffectRemove", "d7/dfb/a23791.html#a7cd59f7ca82a6507024842ebcb1ba093", null ],
-    [ "PrepareAuraScript", "d7/dfb/a23791.html#a438a8ba3688e0832853bae4183695494", null ],
-    [ "Register", "d7/dfb/a23791.html#a52a86cce0afa66203cc5982ddbe5de4f", null ],
-    [ "Validate", "d7/dfb/a23791.html#ab07b244e53b397bc9e9842655617a80d", null ]
+    [ "go_manticron_cube", "d7/dfb/a23791.html#a87d9571aea57f16d38067ebd9e22200d", null ],
+    [ "OnGossipHello", "d7/dfb/a23791.html#accab4a61f00f5e465fb795b4cbe672bf", null ]
 ];

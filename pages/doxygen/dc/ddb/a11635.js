@@ -1,8 +1,7 @@
 var a11635 =
 [
-    [ "QuestPushResultClient", "dc/ddb/a11635.html#a900078368c8626a81dc4718f5aed7b71", null ],
-    [ "Read", "dc/ddb/a11635.html#a63dcedbd02a64775a60c45cb2b30eea7", null ],
-    [ "PlayerGuid", "dc/ddb/a11635.html#afafc0742bc5d17222b981142fc10a9c5", null ],
-    [ "QuestId", "dc/ddb/a11635.html#ada7d9d3d874403ffb3472affb40c0f2b", null ],
-    [ "QuestShareMessage", "dc/ddb/a11635.html#a83d8ff8ab8c8e3e883066cc6035ec307", null ]
+    [ "PetDismissSound", "dc/ddb/a11635.html#a035aeb40e5de8b5d3d5d9703ad0f19c9", null ],
+    [ "Write", "dc/ddb/a11635.html#a06f3c97d815a3e8de55bcd2b3eecdb64", null ],
+    [ "ModelId", "dc/ddb/a11635.html#aba65e6547adde55978ce7b2abb779d51", null ],
+    [ "ModelPosition", "dc/ddb/a11635.html#a06e6bff9d70996ba890c31ea74363dad", null ]
 ];

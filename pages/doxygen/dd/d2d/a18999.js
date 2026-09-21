@@ -1,7 +1,6 @@
 var a18999 =
 [
-    [ "OnApply", "dd/d2d/a18999.html#ac35f5d98980f54470a75a72b3578681f", null ],
-    [ "OnRemove", "dd/d2d/a18999.html#a9844b3d82680bfc9756b141fcf29e1f9", null ],
-    [ "PrepareAuraScript", "dd/d2d/a18999.html#a83c90d16fa151026a1e02927e31922ee", null ],
-    [ "Register", "dd/d2d/a18999.html#a255e44ac6db7fd779d98fc3660ee91c6", null ]
+    [ "npc_valithria_portalAI", "dd/d0a/a19003.html", "dd/d0a/a19003" ],
+    [ "npc_valithria_portal", "dd/d2d/a18999.html#a6014d7a57dfe5d21f63c03b3efcbdfc8", null ],
+    [ "GetAI", "dd/d2d/a18999.html#a9770ad0bc3732f2271876bbc84885dc0", null ]
 ];

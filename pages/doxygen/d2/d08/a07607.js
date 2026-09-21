@@ -1,10 +1,15 @@
 var a07607 =
 [
-    [ "CreatureBottom", "d2/d08/a07607.html#aaa8fe59aa58bf02934bf87f636582637", null ],
-    [ "CreatureTop", "d2/d08/a07607.html#a98a71fcf0d3a1f98ba4dab56d1a3c64b", null ],
-    [ "GameObject", "d2/d08/a07607.html#abc26a328692fc048d9040c44f360f4c4", null ],
-    [ "nbCreatureBottom", "d2/d08/a07607.html#ade8af6bff39a72f7052b7b0db14b207d", null ],
-    [ "nbCreatureTop", "d2/d08/a07607.html#a38ab7536e0682efd7080b823569d504b", null ],
-    [ "nbObject", "d2/d08/a07607.html#ad1e431e7205aee7fa7f8f0dd9a155c97", null ],
-    [ "towerEntry", "d2/d08/a07607.html#a1c0edf97a599773b688954f2e966e794", null ]
+    [ "AuctionHouseSearcher", "d2/d08/a07607.html#adee77153a7b9efeac149e6c951082986", null ],
+    [ "~AuctionHouseSearcher", "d2/d08/a07607.html#a84842935539c5ef8b02815cc8697e568", null ],
+    [ "AddAuction", "d2/d08/a07607.html#a09e01dd8840a50f6b6dd5f70ad9ec10c", null ],
+    [ "NotifyAllWorkers", "d2/d08/a07607.html#a443577cfba0af003e7e0e8834474a6c1", null ],
+    [ "NotifyOneWorker", "d2/d08/a07607.html#a1b70b786bf6e57d9d9cae8f34f0d779b", null ],
+    [ "QueueSearchRequest", "d2/d08/a07607.html#a53caf3298638d325a8b9e97584296ad3", null ],
+    [ "RemoveAuction", "d2/d08/a07607.html#a145da4d009d9814a4e76fae0d02f33e4", null ],
+    [ "Update", "d2/d08/a07607.html#ac8c7b88346dc99bed5fe8d0efb28eebb", null ],
+    [ "UpdateBid", "d2/d08/a07607.html#a7bb50e3e903c73a83469e7323917d40d", null ],
+    [ "_requestQueue", "d2/d08/a07607.html#ac221abeb9a760c90d6110310970e6463", null ],
+    [ "_responseQueue", "d2/d08/a07607.html#a772e65025ae498b8837222ae98f49c28", null ],
+    [ "_workerThreads", "d2/d08/a07607.html#aa1cedd8cb22b840599b97bf7c7df0949", null ]
 ];

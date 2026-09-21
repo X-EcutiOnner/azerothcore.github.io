@@ -1,5 +1,6 @@
 var a17563 =
 [
-    [ "at_tyrannus_event_starter", "d4/d44/a17563.html#a1aef2522c20dd242e749d93a6bee66d8", null ],
-    [ "OnTrigger", "d4/d44/a17563.html#adccf396220ef7de47e7afeca791de894", null ]
+    [ "npc_pos_after_first_bossAI", "d5/d87/a17567.html", "d5/d87/a17567" ],
+    [ "npc_pos_after_first_boss", "d4/d44/a17563.html#a76ae57195ceca454928245f2db12f68c", null ],
+    [ "GetAI", "d4/d44/a17563.html#a3f807335f79218ecc70c32f5496267a6", null ]
 ];

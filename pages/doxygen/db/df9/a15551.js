@@ -1,6 +1,5 @@
 var a15551 =
 [
-    [ "go_ossirian_crystalAI", "d3/d09/a15555.html", "d3/d09/a15555" ],
-    [ "go_ossirian_crystal", "db/df9/a15551.html#a783f0f0570ee0f667920e29613b565b2", null ],
-    [ "GetAI", "db/df9/a15551.html#a2f7b12eddc6504917614913e347ec0a0", null ]
+    [ "npc_idol_room_spawnerAI", "db/df9/a15551.html#a77c4aa88d213271166158c8e75d41a69", null ],
+    [ "SetData", "db/df9/a15551.html#aa0626c837086b4a275f4d51d1659a242", null ]
 ];

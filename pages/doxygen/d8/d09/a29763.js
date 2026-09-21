@@ -1,6 +1,6 @@
 var a29763 =
 [
-    [ "SetUp", "d8/d09/a29763.html#a3b073d640ac36d1a7ca92db5bc96bfde", null ],
-    [ "TearDown", "d8/d09/a29763.html#a558a475bde12e46cc17b6246bf2dc223", null ],
-    [ "rbacData", "d8/d09/a29763.html#a75551f5a3e94383cbc31bc1af4dbf19a", null ]
+    [ "lastExtraAttackSpell", "d8/d09/a29763.html#a0b7c47a0c1a328703648936a1da3245f", null ],
+    [ "triggeredSpellHasExtraAttacks", "d8/d09/a29763.html#ad58a8f2f91c6a32371feab14e51e8e29", null ],
+    [ "triggerSpellId", "d8/d09/a29763.html#a01a4d76e7e2bf15a3ae06926fa1189c9", null ]
 ];

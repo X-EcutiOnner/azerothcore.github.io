@@ -1,8 +1,7 @@
 var a04727 =
 [
-    [ "LIQUID_TILE_SIZE", "dc/d43/a04727.html#a1596e8a465c0638086c77467a2dde3a6", null ],
-    [ "readChunk", "dc/d43/a04727.html#aa923966c6cf6ce644b8335506d5f1fce", null ],
-    [ "GAMEOBJECT_MODELS", "dc/d43/a04727.html#ada4191301386f881525b3f0b0760cb60", null ],
-    [ "RAW_VMAP_MAGIC", "dc/d43/a04727.html#ab44884fb6c05cb4ae128d5882a2c4b7c", null ],
-    [ "VMAP_MAGIC", "dc/d43/a04727.html#aa7e5a571fdcb9d62ceefdcf5744746cb", null ]
+    [ "VMAP::GroupLocationInfo", "d3/d97/a05375.html", "d3/d97/a05375" ],
+    [ "VMAP::LocationInfo", "dd/d3d/a05379.html", "dd/d3d/a05379" ],
+    [ "VMAP::StaticMapTree", "db/d18/a05383.html", "db/d18/a05383" ],
+    [ "VMAP::AreaInfo", "db/de3/a05387.html", "db/de3/a05387" ]
 ];

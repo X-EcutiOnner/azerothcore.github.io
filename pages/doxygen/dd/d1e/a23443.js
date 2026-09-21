@@ -1,15 +1,7 @@
 var a23443 =
 [
-    [ "instance_the_slave_pens_InstanceMapScript", "dd/d1e/a23443.html#a70db3eeeb55784250a13032728220005", null ],
-    [ "GetGuidData", "dd/d1e/a23443.html#a77e77209e779b774608f739b258ae419", null ],
-    [ "OnCreatureCreate", "dd/d1e/a23443.html#aca6b8148602b8fb95c9a467dc9400b8b", null ],
-    [ "SetGuidData", "dd/d1e/a23443.html#a21a29973bcf5ef6925239213ce50bab0", null ],
-    [ "AhuneBunnyGUID", "dd/d1e/a23443.html#ad57cefe116f2da6e7c85f36091fe0e94", null ],
-    [ "AhuneGUID", "dd/d1e/a23443.html#a8ad4dab281db87bb2d14b925b450f09c", null ],
-    [ "BeamBunnyGUIDs", "dd/d1e/a23443.html#a09e3d1ca5d040268578fa770b7153a81", null ],
-    [ "BonfireBunnyGUIDs", "dd/d1e/a23443.html#a9de605ffd8092f83af8df5c1725c5d2b", null ],
-    [ "counter", "dd/d1e/a23443.html#a4ea85debc35e91668723222e8ea90071", null ],
-    [ "FlameCallerGUIDs", "dd/d1e/a23443.html#a50af0f1eaaa4e40d729e797212cf3ba0", null ],
-    [ "FrozenCoreGUID", "dd/d1e/a23443.html#a6ac47d1f3eb4d199afdda9ad2a2cc73e", null ],
-    [ "LumaGUID", "dd/d1e/a23443.html#a0e9e294b4140dc8b8a5567a54d7b0c42", null ]
+    [ "HandleEffectRemove", "dd/d1e/a23443.html#abfd43cd8e9df873e6c0867779bad13c1", null ],
+    [ "HandlePeriodic", "dd/d1e/a23443.html#a5137e24394fa14129c44d92c79eef117", null ],
+    [ "PrepareAuraScript", "dd/d1e/a23443.html#ac1f10b9e9d9883c25e28ae313242d41e", null ],
+    [ "Register", "dd/d1e/a23443.html#a69108d90f7c3fa95adfc29c14bd8c9fe", null ]
 ];

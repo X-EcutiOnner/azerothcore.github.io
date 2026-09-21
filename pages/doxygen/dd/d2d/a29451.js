@@ -1,8 +1,5 @@
 var a29451 =
 [
-    [ "Color", "dd/d2d/a29451.html#a670fb4e2a31958f81d46047f74d9916f", null ],
-    [ "Comparator", "dd/d2d/a29451.html#ace0bdad11edd9db12e45d374da623793", null ],
-    [ "CompareColor", "dd/d2d/a29451.html#a801e2221bbb1b6aab67a57381901cf08", null ],
-    [ "ID", "dd/d2d/a29451.html#aae73769db40326d298bb1d04eef38871", null ],
-    [ "Value", "dd/d2d/a29451.html#ac314a9a6b447d386e31a286811f66538", null ]
+    [ "Id", "dd/d2d/a29451.html#a44532f8af054ae5224f5e816c3c9a8a7", null ],
+    [ "PowerType", "dd/d2d/a29451.html#ab6c17a5a3ba9f2f3a8fac125104703c4", null ]
 ];

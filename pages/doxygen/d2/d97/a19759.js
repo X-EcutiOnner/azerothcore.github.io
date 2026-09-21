@@ -1,7 +1,8 @@
 var a19759 =
 [
-    [ "Load", "d2/d97/a19759.html#a76c4a5c9b3bbed286a9d724c521944fd", null ],
-    [ "PrepareSpellScript", "d2/d97/a19759.html#a10fd04468a4de402f2d2d1d4b003a5c9", null ],
-    [ "Register", "d2/d97/a19759.html#a86259dfc100541aec0f9c7e744bbf24d", null ],
-    [ "SetDest", "d2/d97/a19759.html#a231a75702f4a98f51d1be45510c5d05f", null ]
+    [ "npc_teslaAI", "d2/d97/a19759.html#a7281220648af1357b1377d6f7874d663", null ],
+    [ "DamageTaken", "d2/d97/a19759.html#aa3ab570e86261bc3178e17109d76af12", null ],
+    [ "EnterEvadeMode", "d2/d97/a19759.html#acc8115216989b34593a9435eeb051eda", null ],
+    [ "JustEngagedWith", "d2/d97/a19759.html#add93f68bc96b3c93dc0a3271543711e6", null ],
+    [ "UpdateAI", "d2/d97/a19759.html#a962745569b07e368067ee483d2379840", null ]
 ];

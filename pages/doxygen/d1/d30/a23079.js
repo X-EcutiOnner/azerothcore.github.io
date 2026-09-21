@@ -1,7 +1,6 @@
 var a23079 =
 [
-    [ "Absorb", "d1/d30/a23079.html#a227cf7329d7dee564c3f8f9f67378ffe", null ],
-    [ "HandleEffectRemove", "d1/d30/a23079.html#a3d4026e5208acb948c089a4bedba0de8", null ],
-    [ "PrepareAuraScript", "d1/d30/a23079.html#af66dc1cba6aa7511c11a071ea9a381bb", null ],
-    [ "Register", "d1/d30/a23079.html#a983cf678001efcbccc4b34a9ad919881", null ]
+    [ "boss_essence_of_sufferingAI", "de/dbe/a23083.html", "de/dbe/a23083" ],
+    [ "boss_essence_of_suffering", "d1/d30/a23079.html#a1237f428657f0e9a0218695264358384", null ],
+    [ "GetAI", "d1/d30/a23079.html#adb54519bdf220cb3e30c81627c1ba11a", null ]
 ];

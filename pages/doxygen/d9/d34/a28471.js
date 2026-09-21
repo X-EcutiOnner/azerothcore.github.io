@@ -1,10 +1,6 @@
 var a28471 =
 [
-    [ "npc_prof_blacksmith", "d9/d34/a28471.html#af9bd62c4c2514d79daf467e4d6d7a92e", null ],
-    [ "HasWeaponSub", "d9/d34/a28471.html#a7ee47d061de5e2f482406469b4eaac3b", null ],
-    [ "OnGossipHello", "d9/d34/a28471.html#a9a432c1ec33578949110c877fc6a686d", null ],
-    [ "OnGossipSelect", "d9/d34/a28471.html#ab1edaf3dc0a8dddf064368d26930a2af", null ],
-    [ "SendActionMenu", "d9/d34/a28471.html#af2ac8f9bfa212c34be3e45cc358dd773", null ],
-    [ "SendConfirmLearn", "d9/d34/a28471.html#acbec7fe3eebf7eaed09e5755c6775eaa", null ],
-    [ "SendConfirmUnlearn", "d9/d34/a28471.html#a851dc241d944bc888a00df85bff17e3a", null ]
+    [ "go_amberpine_outhouse", "d9/d34/a28471.html#a953ea72b3954c89b6c391de5aca3b6ce", null ],
+    [ "OnGossipHello", "d9/d34/a28471.html#a7cbfc3a091ad2332fd46140a24ac4e37", null ],
+    [ "OnGossipSelect", "d9/d34/a28471.html#aa55fe049ba43dbd548ba55d982d89d51", null ]
 ];

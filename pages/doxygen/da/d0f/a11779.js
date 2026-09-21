@@ -1,19 +1,12 @@
 var a11779 =
 [
-    [ "PacketThrottlingMap", "da/d0f/a11779.html#aa41dd21032403490c49a400651c98855", null ],
-    [ "Policy", "da/d0f/a11779.html#abdee2870dbaa3341ecd6f682f87a63aa", [
-      [ "Process", "da/d0f/a11779.html#abdee2870dbaa3341ecd6f682f87a63aaab6ec7abeb6ae29cc35a4b47475e12afe", null ],
-      [ "Kick", "da/d0f/a11779.html#abdee2870dbaa3341ecd6f682f87a63aaa3e07960fcc45408894cf1402257bd9fd", null ],
-      [ "Ban", "da/d0f/a11779.html#abdee2870dbaa3341ecd6f682f87a63aaa5c664f50adcaaf94d8c8d01b4eb754e9", null ],
-      [ "Log", "da/d0f/a11779.html#abdee2870dbaa3341ecd6f682f87a63aaace0be71e33226e4c1db2bcea5959f16b", null ],
-      [ "BlockingThrottle", "da/d0f/a11779.html#abdee2870dbaa3341ecd6f682f87a63aaa1974493f69f8fbf2eb0a63a852d132bb", null ],
-      [ "DropPacket", "da/d0f/a11779.html#abdee2870dbaa3341ecd6f682f87a63aaa3bd03342168b3845d34fccaf6543c970", null ]
-    ] ],
-    [ "DosProtection", "da/d0f/a11779.html#a8e43f21b9c729db604c9afd90f68dc20", null ],
-    [ "DosProtection", "da/d0f/a11779.html#a8850d18ae254633f6bde5c85cbcef830", null ],
-    [ "EvaluateOpcode", "da/d0f/a11779.html#a575c7bcb895ad0a3d0456f0a99ee5ec7", null ],
-    [ "operator=", "da/d0f/a11779.html#a98394089b867ff6e8107b7975a67737d", null ],
-    [ "World", "da/d0f/a11779.html#a7b4bcdf992c21ae83363f25df05b1d25", null ],
-    [ "_PacketThrottlingMap", "da/d0f/a11779.html#ab74f0cf257d3db9076e3a8771de63eb3", null ],
-    [ "Session", "da/d0f/a11779.html#a3f3f5397fb30cdf14141480659b18208", null ]
+    [ "Build", "da/d0f/a11779.html#aa5ed2806342a36723f1317105ebc13fa", null ],
+    [ "FormatVersion", "da/d0f/a11779.html#abf0c90aa56c9f74e4139b4a1ead3115e", null ],
+    [ "Locale", "da/d0f/a11779.html#acdcbe4c10ad6143b756638349c185ae5", null ],
+    [ "OptionalDataSize", "da/d0f/a11779.html#a88c79f6e69197e23ce191bcef187c0fe", null ],
+    [ "SessionKey", "da/d0f/a11779.html#aff4e4f46725d72923bac3e197ae7d2e3", null ],
+    [ "Signature", "da/d0f/a11779.html#a34b88d6d83daeee7827176993c152de4", null ],
+    [ "SnifferId", "da/d0f/a11779.html#a95d3f116ef30a096970ee4f3dd10e2ed", null ],
+    [ "SniffStartTicks", "da/d0f/a11779.html#a1884076ea4fe5af08964471d0058fd4d", null ],
+    [ "SniffStartUnixtime", "da/d0f/a11779.html#a8923983e21b7a7f1dd3ee4f21b7df592", null ]
 ];

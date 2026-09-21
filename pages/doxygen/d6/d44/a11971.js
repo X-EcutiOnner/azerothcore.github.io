@@ -1,6 +1,9 @@
 var a11971 =
 [
-    [ "apPctMod", "d6/d44/a11971.html#a35f5f8f7a3ac33768299913fecc1cf8d", null ],
-    [ "flatMod", "d6/d44/a11971.html#a0d66e48d986f246e6aea08dd00837158", null ],
-    [ "pctMod", "d6/d44/a11971.html#af13802a7f6872cfce3a1d14655f30287", null ]
+    [ "WorldObjectSpellAreaTargetCheck", "d6/d44/a11971.html#a27df2d4c2d8c39b06a3e11681e16876e", null ],
+    [ "operator()", "d6/d44/a11971.html#a36a7194e3ffbdc2ea1c4bd5ed5997da4", null ],
+    [ "_position", "d6/d44/a11971.html#a680c45dd148161657da011a1772375ca", null ],
+    [ "_range", "d6/d44/a11971.html#a4ee3762b4a7f35d252cbb5337d61d92c", null ],
+    [ "_referenceType", "d6/d44/a11971.html#a87252b8b2dd0d38417c236718aadaa98", null ],
+    [ "_searchReason", "d6/d44/a11971.html#aad544cdfe9423a7967dfed64aeaed995", null ]
 ];

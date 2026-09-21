@@ -1,6 +1,6 @@
 var a22007 =
 [
-    [ "npc_lake_frogAI", "da/d32/a22011.html", "da/d32/a22011" ],
-    [ "npc_lake_frog", "df/db8/a22007.html#ac7c56b2a6443356523b468c05c36bc6c", null ],
-    [ "GetAI", "df/db8/a22007.html#a9730da684a81fced304f10b2806c10e5", null ]
+    [ "npc_spiritual_insightAI", "df/db8/a22007.html#ab173cd8b623fcf8c36406155c91bc4db", null ],
+    [ "GetSpeachId", "df/db8/a22007.html#ad2dd22651470f47e7a7ba6f687ba54e9", null ],
+    [ "IsSummonedBy", "df/db8/a22007.html#ab6b39190d1195915ea0b4b191d864da6", null ]
 ];

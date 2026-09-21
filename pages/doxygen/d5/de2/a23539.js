@@ -1,7 +1,5 @@
 var a23539 =
 [
-    [ "OnApply", "d5/de2/a23539.html#a6189a5ea90b1951b21a7e9ef36700ed9", null ],
-    [ "PeriodicTick", "d5/de2/a23539.html#a1c79b1016361eabb5cef57a893bccfcf", null ],
-    [ "PrepareAuraScript", "d5/de2/a23539.html#acfa6b5217a0e0e2654b7fa9c4092abd5", null ],
-    [ "Register", "d5/de2/a23539.html#adddddd0689f4686a40b1db142b5d6ce2", null ]
+    [ "at_quagmirran_lair", "d5/de2/a23539.html#a1f8cb1f59e7a179d9e4a987f716ab26f", null ],
+    [ "OnTrigger", "d5/de2/a23539.html#aa0aab42516efaf842923b8a820942ac4", null ]
 ];
