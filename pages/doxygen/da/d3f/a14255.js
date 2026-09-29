@@ -1,20 +1,12 @@
 var a14255 =
 [
-    [ "Events", "da/d3f/a14255.html#a12c4bdf68162eba82d4563c2108ce1d2", [
-      [ "EVENT_START_RITUAL", "da/d3f/a14255.html#a12c4bdf68162eba82d4563c2108ce1d2a02fcb61eb2865c2931b343279c576bdf", null ],
-      [ "EVENT_GHOULPLOSION", "da/d3f/a14255.html#a12c4bdf68162eba82d4563c2108ce1d2aca9db407c87adeb91205451a67ffffc5", null ],
-      [ "EVENT_RAISE_GHOUL", "da/d3f/a14255.html#a12c4bdf68162eba82d4563c2108ce1d2a516304af17aecc599764eba99a2d72ec", null ],
-      [ "EVENT_RESUME_WP", "da/d3f/a14255.html#a12c4bdf68162eba82d4563c2108ce1d2aff67cf343aa56c92996f9d55cd622a98", null ]
-    ] ],
-    [ "Points", "da/d3f/a14255.html#a91ed69a6a7042da16e17b639cfd11539", [
-      [ "POINT_CORPSE_REACHED", "da/d3f/a14255.html#a91ed69a6a7042da16e17b639cfd11539a7254b9ca92a51e4beb89bc0dea09d6e8", null ]
-    ] ],
-    [ "npc_acherus_necromancer", "da/d3f/a14255.html#aa9805145b09ec5abced7207220e5261c", null ],
-    [ "MovementInform", "da/d3f/a14255.html#a575ad749490b1eb3d2008edc617dac29", null ],
-    [ "Reset", "da/d3f/a14255.html#af7b896a75a62e948a6a4e02eec2e4471", null ],
-    [ "UpdateAI", "da/d3f/a14255.html#ab911195c28abe5272e55f46eafc43e75", null ],
-    [ "events", "da/d3f/a14255.html#a760c67141517cc43cfd7f0fce3ca4c00", null ],
-    [ "geistGUID", "da/d3f/a14255.html#a85d1d46abb4703ad814e2069c3252966", null ],
-    [ "isOnRitual", "da/d3f/a14255.html#aa41bfe2339960c4f229083b52c33ecf2", null ],
-    [ "targetCorpseGUID", "da/d3f/a14255.html#abbdce81693f05dd84eeba1c933866bb0", null ]
+    [ "npc_koltira_deathweaver", "da/d3f/a14255.html#a4d71e3da1340693b08127d9647efb7bb", null ],
+    [ "MovementInform", "da/d3f/a14255.html#a708ed9530e94397252d28b0f25e5f0c0", null ],
+    [ "Reset", "da/d3f/a14255.html#a5997672bc9bea9d119b79fdc9bd70b2e", null ],
+    [ "sGossipSelect", "da/d3f/a14255.html#a23a56674749f287a59fa34fe3027a800", null ],
+    [ "sQuestAccept", "da/d3f/a14255.html#a099e6f33720417ff376343ad9e64abae", null ],
+    [ "StartEvent", "da/d3f/a14255.html#a8c40b2c1d232d2cf4cc4e1f2e99a431c", null ],
+    [ "SummonedCreatureDies", "da/d3f/a14255.html#abd016ea1f5bc6e2167e5e09d1d05bf27", null ],
+    [ "UpdateAI", "da/d3f/a14255.html#a110d20298f724095b1c526714268c98e", null ],
+    [ "_valrothGUID", "da/d3f/a14255.html#ab2f9e13993b7b0a357a3264c487e77aa", null ]
 ];

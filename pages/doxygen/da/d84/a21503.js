@@ -1,6 +1,6 @@
 var a21503 =
 [
-    [ "boss_emalonAI", "d4/d14/a21507.html", "d4/d14/a21507" ],
-    [ "boss_emalon", "da/d84/a21503.html#a2dd481292e02337bebd450f5c9821886", null ],
-    [ "GetAI", "da/d84/a21503.html#a345b0663ba89de5e37b87a436c48e446", null ]
+    [ "boss_archavonAI", "d4/d14/a21507.html", "d4/d14/a21507" ],
+    [ "boss_archavon", "da/d84/a21503.html#a44e20480f8d86cf763afe67de49c6c33", null ],
+    [ "GetAI", "da/d84/a21503.html#a5eb62d54fe1559ef9df51c2bd01f7de4", null ]
 ];

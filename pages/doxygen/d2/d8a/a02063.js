@@ -1,21 +1,35 @@
 var a02063 =
 [
-    [ "SummonList", "d8/d17/a06647.html", "d8/d17/a06647" ],
-    [ "EntryCheckPredicate", "d1/d57/a06651.html", "d1/d57/a06651" ],
-    [ "PlayerOrPetCheck", "dc/d32/a06655.html", "dc/d32/a06655" ],
-    [ "ScriptedAI", "d1/d15/a06659.html", "d1/d15/a06659" ],
-    [ "HealthCheckEventData", "d0/d95/a06663.html", "d0/d95/a06663" ],
-    [ "BossAI", "da/d9e/a06667.html", "da/d9e/a06667" ],
-    [ "WorldBossAI", "d6/d3c/a06671.html", "d6/d3c/a06671" ],
-    [ "ObjectList", "d2/d8a/a02063.html#acc68161fe019b33e9356ea1473fba71d", null ],
-    [ "HealthCheckStatus", "d2/d8a/a02063.html#a1384618281f5e166102c6c947f81ddee", [
-      [ "HEALTH_CHECK_PROCESSED", "d2/d8a/a02063.html#a1384618281f5e166102c6c947f81ddeeac0619e7e216f157ecace46cdd98b4b6d", null ],
-      [ "HEALTH_CHECK_SCHEDULED", "d2/d8a/a02063.html#a1384618281f5e166102c6c947f81ddeeadd90ee3dba1f8df8726a251aeb1cbc9c", null ],
-      [ "HEALTH_CHECK_PENDING", "d2/d8a/a02063.html#a1384618281f5e166102c6c947f81ddeeaa1fd3ee62e2876302ec5bd08ff822ec7", null ]
+    [ "NpcRunToHome", "d2/d0f/a15467.html", "d2/d0f/a15467" ],
+    [ "npc_medivh_bm", "d3/dbc/a15471.html", "d3/dbc/a15471" ],
+    [ "npc_time_rift", "de/dad/a15475.html", "de/dad/a15475" ],
+    [ "npc_black_morass_summoned_add", "d0/d5d/a15479.html", "d0/d5d/a15479" ],
+    [ "spell_black_morass_corrupt_medivh", "dd/d3b/a15483.html", "dd/d3b/a15483" ],
+    [ "medivhMisc", "d2/d8a/a02063.html#a7d484fa8ee0c999014d29246b9ebffb3", [
+      [ "NPC_SHADOW_COUNCIL_ENFORCER", "d2/d8a/a02063.html#a7d484fa8ee0c999014d29246b9ebffb3a6f4bccf9e53aef576344b1521c24e411", null ],
+      [ "GO_DARK_PORTAL", "d2/d8a/a02063.html#a7d484fa8ee0c999014d29246b9ebffb3a34fd16f7266bcf80297889c35fe880c3", null ],
+      [ "EVENT_CHECK_HEALTH_25", "d2/d8a/a02063.html#a7d484fa8ee0c999014d29246b9ebffb3ab4c8308b4dc44a86daf5ee851c990687", null ],
+      [ "EVENT_CHECK_HEALTH_50", "d2/d8a/a02063.html#a7d484fa8ee0c999014d29246b9ebffb3a279f4abf2411c8e70eb459d7644bc65b", null ],
+      [ "EVENT_CHECK_HEALTH_75", "d2/d8a/a02063.html#a7d484fa8ee0c999014d29246b9ebffb3a80f173b323e09c2480f3e15dbf3cf191", null ],
+      [ "EVENT_SUMMON_CRYSTAL", "d2/d8a/a02063.html#a7d484fa8ee0c999014d29246b9ebffb3a83aaa8976010cea5ab359229b71d206b", null ],
+      [ "EVENT_SUMMON_FLYING_CRYSTAL", "d2/d8a/a02063.html#a7d484fa8ee0c999014d29246b9ebffb3a087df17dd123dd098bd6effa3cac4adf", null ],
+      [ "EVENT_OUTRO_1", "d2/d8a/a02063.html#a7d484fa8ee0c999014d29246b9ebffb3acb340c9de3b567d6e1f1e9e5b90ec90d", null ],
+      [ "EVENT_OUTRO_2", "d2/d8a/a02063.html#a7d484fa8ee0c999014d29246b9ebffb3a20c3614363fa241f02fede94adfb3ae6", null ],
+      [ "EVENT_OUTRO_3", "d2/d8a/a02063.html#a7d484fa8ee0c999014d29246b9ebffb3a267ae47905d29e505c96215636419e87", null ],
+      [ "EVENT_OUTRO_4", "d2/d8a/a02063.html#a7d484fa8ee0c999014d29246b9ebffb3afaefee2aa96b9039635b6a80708a82da", null ],
+      [ "EVENT_OUTRO_5", "d2/d8a/a02063.html#a7d484fa8ee0c999014d29246b9ebffb3a5e30e089c85fc4c0318c390d70997e32", null ],
+      [ "EVENT_OUTRO_6", "d2/d8a/a02063.html#a7d484fa8ee0c999014d29246b9ebffb3a99f13835f6b2a5a4e44cd837c0a44680", null ],
+      [ "EVENT_OUTRO_7", "d2/d8a/a02063.html#a7d484fa8ee0c999014d29246b9ebffb3a343360a691f406e01bb1372a17b5b2cc", null ],
+      [ "EVENT_OUTRO_8", "d2/d8a/a02063.html#a7d484fa8ee0c999014d29246b9ebffb3a6697031d7959ad49f58bffe18fb91611", null ]
     ] ],
-    [ "GetClosestCreatureWithEntry", "d2/d8a/a02063.html#a9ffd6f6c01576a8d3369c3a4f6dbaa0b", null ],
-    [ "GetClosestGameObjectWithEntry", "d2/d8a/a02063.html#acaba34b4ac104e5289c265c1f8524b15", null ],
-    [ "GetCreatureListWithEntryInGrid", "d2/d8a/a02063.html#ab6a8246d473139627106be4651f6329d", null ],
-    [ "GetDeadCreatureListInGrid", "d2/d8a/a02063.html#a4a92c9585e18b56cdbe0d0c0976de7d1", null ],
-    [ "GetGameObjectListWithEntryInGrid", "d2/d8a/a02063.html#ae9abb80c4e811509bca88e65cf817276", null ]
+    [ "timeRift", "d2/d8a/a02063.html#a88ef578bedf8b5cbdefba9b27f2566b3", [
+      [ "EVENT_SUMMON_AT_RIFT", "d2/d8a/a02063.html#a88ef578bedf8b5cbdefba9b27f2566b3ad3b69472cb7814dc0d55baa46caef4e2", null ],
+      [ "EVENT_CHECK_DEATH", "d2/d8a/a02063.html#a88ef578bedf8b5cbdefba9b27f2566b3a7001385aaa3b09d1fd905da6dce0bd7b", null ],
+      [ "EVENT_SUMMON_BOSS", "d2/d8a/a02063.html#a88ef578bedf8b5cbdefba9b27f2566b3aa50dbf77d563d2fa849566efb87feb60", null ],
+      [ "SAY_RIFT_MOB_SUMMONED", "d2/d8a/a02063.html#a88ef578bedf8b5cbdefba9b27f2566b3a060162f05198bbed56abe4eb9781b2ec", null ]
+    ] ],
+    [ "AddSC_the_black_morass", "d2/d8a/a02063.html#a40d83565d4b54b30e895e0b76768246b", null ],
+    [ "firstWave", "d2/d8a/a02063.html#a60bd1cccea53e743620a4b2f0e9b1f8b", null ],
+    [ "secondWave", "d2/d8a/a02063.html#ab5bc0c48fcfe78d0b75a06c16fdc5353", null ],
+    [ "thirdWave", "d2/d8a/a02063.html#adb16e5a74a0d80b396b60d986cc49d4d", null ]
 ];

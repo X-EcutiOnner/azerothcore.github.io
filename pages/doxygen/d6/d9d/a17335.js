@@ -1,8 +1,7 @@
 var a17335 =
 [
-    [ "npc_fos_corrupted_soul_fragment", "d6/d9d/a17335.html#a1fef6c180e9fc6e8d8d316d45b5066f9", null ],
-    [ "Reset", "d6/d9d/a17335.html#ad318f80454cf17b2b9d39a02a83e6e92", null ],
-    [ "UpdateAI", "d6/d9d/a17335.html#a8dd94bd36392c75c4971aa50b83a5ada", null ],
-    [ "Instance", "d6/d9d/a17335.html#a34d1912b83f9da8335ab3e7d527e5e01", null ],
-    [ "Timer", "d6/d9d/a17335.html#a82a7ce4a8d07e7d4dab30d4f11aeb006", null ]
+    [ "HandleEffectRemove", "d6/d9d/a17335.html#aa6a118f956cbdc5ad1ce0109c3a0e8e3", null ],
+    [ "Load", "d6/d9d/a17335.html#a71a31b421f192662c14bd6bf3d5eed9f", null ],
+    [ "PrepareAuraScript", "d6/d9d/a17335.html#a97411ddf89a10a962ba74d294eb653e7", null ],
+    [ "Register", "d6/d9d/a17335.html#a1207c9b2ba2e110c3f6c1309f5329d2a", null ]
 ];

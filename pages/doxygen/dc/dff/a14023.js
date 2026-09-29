@@ -1,14 +1,6 @@
 var a14023 =
 [
-    [ "instance_uldaman_InstanceMapScript", "dc/dff/a14023.html#ab2607f229d1e34852c82139ddb597712", null ],
-    [ "GetData", "dc/dff/a14023.html#adef5f6d2dcaa50dbb615c4c134e7ecfb", null ],
-    [ "Initialize", "dc/dff/a14023.html#a2424bcb1aec0ffc6235a8e8b384f0ed1", null ],
-    [ "OnCreatureCreate", "dc/dff/a14023.html#a49b5562743910dc1b6b55efa8c44b6a0", null ],
-    [ "OnGameObjectCreate", "dc/dff/a14023.html#aacb9db5f66f1f9be0d993aacc3cf4348", null ],
-    [ "ReadSaveDataMore", "dc/dff/a14023.html#a8e0e03189463039dd31d883ad9c40e51", null ],
-    [ "SetData", "dc/dff/a14023.html#ab24fc2db74ef83f2b3be9603d4728385", null ],
-    [ "WriteSaveDataMore", "dc/dff/a14023.html#a3345c117f5e2ceca773843c3f51cb76f", null ],
-    [ "_encounters", "dc/dff/a14023.html#a6840bd04d25fd1f365e0c28c725cde97", null ],
-    [ "ancientVaultDoorGUID", "dc/dff/a14023.html#adf83ba0b0a1650462dbc3bc56182bed9", null ],
-    [ "archaedasTempleDoorGUID", "dc/dff/a14023.html#a6bad33c43ceaa23990544e4a8feefb34", null ]
+    [ "instance_uldaman_InstanceMapScript", "d4/d64/a14027.html", "d4/d64/a14027" ],
+    [ "instance_uldaman", "dc/dff/a14023.html#a854807db729d15aa4a09aad051fe3bda", null ],
+    [ "GetInstanceScript", "dc/dff/a14023.html#a672bb8b5a16d29d25a191ab90d8007b4", null ]
 ];

@@ -1,7 +1,5 @@
 var a20087 =
 [
-    [ "HandleScript", "dc/dc6/a20087.html#a5d778f906e1ee820cc97b0b32839cc78", null ],
-    [ "PrepareSpellScript", "dc/dc6/a20087.html#a34337690029eedb60a17572dbbf1e1f9", null ],
-    [ "Register", "dc/dc6/a20087.html#ad554d79e1a98490085b22f5038d058da", null ],
-    [ "Validate", "dc/dc6/a20087.html#a0932ccc5652bc4901aacbe2cf8d6c7d8", null ]
+    [ "at_hol_hall_of_watchers", "dc/dc6/a20087.html#aeb6a3edb75d3592b2e3df32fa61829d0", null ],
+    [ "_OnTrigger", "dc/dc6/a20087.html#adc0ed221142741010c5607f9473ed2f1", null ]
 ];

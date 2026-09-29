@@ -1,13 +1,22 @@
 var a11995 =
 [
-    [ "CastSpellTargetArg", "dd/d78/a11995.html#a54a5c35a6d6c38e55362731f90fd080f", null ],
-    [ "CastSpellTargetArg", "dd/d78/a11995.html#a53899a47ac7114d882b47ee8cd1218f7", null ],
-    [ "CastSpellTargetArg", "dd/d78/a11995.html#a18415e98021976a4983d995f2a5b61b0", null ],
-    [ "CastSpellTargetArg", "dd/d78/a11995.html#a4ddff57daeada6042582bc2de5f3a927", null ],
-    [ "CastSpellTargetArg", "dd/d78/a11995.html#aa7905671f11fe44be9dc86bc7a4d88cf", null ],
-    [ "CastSpellTargetArg", "dd/d78/a11995.html#aea9d2ecfb6fd0f84abe55a80b1994203", null ],
-    [ "CastSpellTargetArg", "dd/d78/a11995.html#aa0f1c23d0881b4d4aec61641eed34fbc", null ],
-    [ "~CastSpellTargetArg", "dd/d78/a11995.html#a996e20990119ca494ec8d6dc2b3cda0e", null ],
-    [ "operator=", "dd/d78/a11995.html#a3c34a7c703bfe8c70d0e081dec57ce16", null ],
-    [ "Targets", "dd/d78/a11995.html#a25bda508ba86ff03f8d4195067bf8760", null ]
+    [ "CastSpellExtraArgs", "dd/d78/a11995.html#acc0d26e24a5bc6a319d93595479ad5a7", null ],
+    [ "CastSpellExtraArgs", "dd/d78/a11995.html#aa04558f6c057199be6e2a29757415a33", null ],
+    [ "CastSpellExtraArgs", "dd/d78/a11995.html#a4a17c18662901b27dac8f8d13ee9135c", null ],
+    [ "CastSpellExtraArgs", "dd/d78/a11995.html#a51557cea86937c12a0b17348cba2ced8", null ],
+    [ "CastSpellExtraArgs", "dd/d78/a11995.html#a357b88e94fc54c52c677f248d5d679ed", null ],
+    [ "CastSpellExtraArgs", "dd/d78/a11995.html#a7f5e5133a161e38b890b4c3987656ccf", null ],
+    [ "CastSpellExtraArgs", "dd/d78/a11995.html#a8a88c84c5e59e6e2321a47d0d19f3e4b", null ],
+    [ "CastSpellExtraArgs", "dd/d78/a11995.html#ab3f36c827883d9d3fee7855d2ba7cdba", null ],
+    [ "AddSpellBP0", "dd/d78/a11995.html#a6a2107d1c9ab21b51e810a32a5c6f165", null ],
+    [ "AddSpellMod", "dd/d78/a11995.html#a8678546c5b7f2e9df5f6bdab8ecaa3d5", null ],
+    [ "SetCastItem", "dd/d78/a11995.html#ab17825377e5a0e07b99d72fbec4e2a27", null ],
+    [ "SetOriginalCaster", "dd/d78/a11995.html#a6344b91798c84a8462da40cc87a26852", null ],
+    [ "SetTriggerFlags", "dd/d78/a11995.html#a69a2dd620aa1df727931451ea0db48ac", null ],
+    [ "SetTriggeringAura", "dd/d78/a11995.html#a3b6b9c02778e0b5a6be0f8feddbb21a9", null ],
+    [ "CastItem", "dd/d78/a11995.html#a9908c55d024699d2c6caa3af941c6ade", null ],
+    [ "OriginalCaster", "dd/d78/a11995.html#a8d0b1a195529e936707382b6137a7236", null ],
+    [ "SpellValueOverrides", "dd/d78/a11995.html#a08601ff6f3454775b3502c0f872a5287", null ],
+    [ "TriggerFlags", "dd/d78/a11995.html#a2f222ea6cb2fd04134c5e6200e6f8d4c", null ],
+    [ "TriggeringAura", "dd/d78/a11995.html#aa7fbeb6c0f2d4062874214c9844f9fc3", null ]
 ];

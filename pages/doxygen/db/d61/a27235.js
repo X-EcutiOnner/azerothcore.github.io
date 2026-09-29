@@ -1,5 +1,5 @@
 var a27235 =
 [
-    [ "spell_q55_sacred_cleansing", "db/d61/a27235.html#a4aa8a16350a7a55706841471fd985ca2", null ],
-    [ "GetSpellScript", "db/d61/a27235.html#a50a8f2d777169aaeef88533b66b88fb2", null ]
+    [ "PrepareSpellScript", "db/d61/a27235.html#aee9595d4716fb2ea1bd9e2a66d26c39e", null ],
+    [ "Register", "db/d61/a27235.html#a6318da4bfeb63dee75a971106bdc2146", null ]
 ];

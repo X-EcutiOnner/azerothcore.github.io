@@ -1,6 +1,6 @@
 var a20499 =
 [
-    [ "npc_ulduar_saronite_vapors", "d1/de6/a20499.html#af8d7e273a01b54bd5b96f186501f38c5", null ],
-    [ "JustDied", "d1/de6/a20499.html#a64254becffe74a7d06c09a3b0e2b4428", null ],
-    [ "_instance", "d1/de6/a20499.html#ad304110ff1bfc33066cd17f04cf40181", null ]
+    [ "FilterTargets", "d1/de6/a20499.html#a3ebface91881b903886ea9a10041da70", null ],
+    [ "PrepareSpellScript", "d1/de6/a20499.html#a50d5f046f75c431f9323e225ed795ea3", null ],
+    [ "Register", "d1/de6/a20499.html#aa037424d0f72823d0651f84c6d2c7449", null ]
 ];

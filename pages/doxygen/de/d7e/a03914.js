@@ -1,14 +1,19 @@
 var a03914 =
 [
-    [ "npc_tapoke_slim_jahn", "d0/d27/a14387.html", "d0/d27/a14387" ],
-    [ "npc_tapoke_slim_jahn::npc_tapoke_slim_jahnAI", "d1/d18/a14391.html", "d1/d18/a14391" ],
-    [ "npc_mikhail", "d7/de1/a14395.html", "d7/de1/a14395" ],
-    [ "TapokeSlim", "de/d7e/a03914.html#ad5b3ef2d2393f509f0cbf4e70303fab9", [
-      [ "QUEST_MISSING_DIPLO_PT11", "de/d7e/a03914.html#ad5b3ef2d2393f509f0cbf4e70303fab9afdacf3720ad6627ab1c120619b4628a2", null ],
-      [ "SPELL_STEALTH", "de/d7e/a03914.html#ad5b3ef2d2393f509f0cbf4e70303fab9ab05b1ff486cc81800d4e40014eae5576", null ],
-      [ "SPELL_CALL_FRIENDS", "de/d7e/a03914.html#ad5b3ef2d2393f509f0cbf4e70303fab9a6cc72f5b401e64cbeb4986e9dc90c779", null ],
-      [ "NPC_SLIMS_FRIEND", "de/d7e/a03914.html#ad5b3ef2d2393f509f0cbf4e70303fab9afc7e4b6611738777f37002c70bb946c1", null ],
-      [ "NPC_TAPOKE_SLIM_JAHN", "de/d7e/a03914.html#ad5b3ef2d2393f509f0cbf4e70303fab9a2853dfe2482cee57da6a01e6bc030bda", null ]
-    ] ],
-    [ "AddSC_wetlands", "de/d7e/a03914.html#a96be3075a4a99658d93ffe3d69ba369a", null ]
+    [ "GuildScript", "d0/da5/a10863.html", "d0/da5/a10863" ],
+    [ "GuildHook", "de/d7e/a03914.html#a5cb9f5f21f7f7d0e793d70058163507e", [
+      [ "GUILDHOOK_ON_ADD_MEMBER", "de/d7e/a03914.html#a5cb9f5f21f7f7d0e793d70058163507eae55dad40010dcbf6c50672cae2f0106d", null ],
+      [ "GUILDHOOK_ON_REMOVE_MEMBER", "de/d7e/a03914.html#a5cb9f5f21f7f7d0e793d70058163507eac79cc93d3ab4677a9801e213686e2b51", null ],
+      [ "GUILDHOOK_ON_MOTD_CHANGED", "de/d7e/a03914.html#a5cb9f5f21f7f7d0e793d70058163507ea909770c2a1fe124c3fa21f83ff55c0d5", null ],
+      [ "GUILDHOOK_ON_INFO_CHANGED", "de/d7e/a03914.html#a5cb9f5f21f7f7d0e793d70058163507eaf9949399a22fa1e1ed088bfa6952d23f", null ],
+      [ "GUILDHOOK_ON_CREATE", "de/d7e/a03914.html#a5cb9f5f21f7f7d0e793d70058163507ea9d64b482c3d8be9681ab83722c84316e", null ],
+      [ "GUILDHOOK_ON_DISBAND", "de/d7e/a03914.html#a5cb9f5f21f7f7d0e793d70058163507eac23a3058a5a051613b6970bad9a38f58", null ],
+      [ "GUILDHOOK_ON_MEMBER_WITDRAW_MONEY", "de/d7e/a03914.html#a5cb9f5f21f7f7d0e793d70058163507ea3a78e5195fdbecb916d9f9510175381b", null ],
+      [ "GUILDHOOK_ON_MEMBER_DEPOSIT_MONEY", "de/d7e/a03914.html#a5cb9f5f21f7f7d0e793d70058163507ea2663578fa69784d19d4833584d1a1fdc", null ],
+      [ "GUILDHOOK_ON_ITEM_MOVE", "de/d7e/a03914.html#a5cb9f5f21f7f7d0e793d70058163507ea6ef9bfbc009fd877098120f95d6a3fa8", null ],
+      [ "GUILDHOOK_ON_EVENT", "de/d7e/a03914.html#a5cb9f5f21f7f7d0e793d70058163507eac20b467223e978c03559c967fec760a7", null ],
+      [ "GUILDHOOK_ON_BANK_EVENT", "de/d7e/a03914.html#a5cb9f5f21f7f7d0e793d70058163507eaa5be911ea4c307508ba407ac09cd82d9", null ],
+      [ "GUILDHOOK_CAN_GUILD_SEND_BANK_LIST", "de/d7e/a03914.html#a5cb9f5f21f7f7d0e793d70058163507eaec99ae82238d8260ba512b23abc70b5b", null ],
+      [ "GUILDHOOK_END", "de/d7e/a03914.html#a5cb9f5f21f7f7d0e793d70058163507ea85e0e175b03a5491dec2498ff4c415bb", null ]
+    ] ]
 ];

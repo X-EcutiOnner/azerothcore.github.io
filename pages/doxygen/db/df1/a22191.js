@@ -1,7 +1,7 @@
 var a22191 =
 [
-    [ "HandleScript", "db/df1/a22191.html#a5e6265ae9928e204d429c3c1750f472d", null ],
-    [ "PrepareSpellScript", "db/df1/a22191.html#a554846f934c3e14a404fec3ba534eb63", null ],
-    [ "Register", "db/df1/a22191.html#aafd581ede5184abfe9033d7ad75c7780", null ],
-    [ "Validate", "db/df1/a22191.html#a03ee24e2d9c784ca83515412246e836f", null ]
+    [ "HandleScript", "db/df1/a22191.html#a359814a44d4fe58c9f6e7a31c75d7c49", null ],
+    [ "PrepareSpellScript", "db/df1/a22191.html#a4c6c0903180f3f18d6d9e715efc9f391", null ],
+    [ "Register", "db/df1/a22191.html#a713b82bc3d82a8324ce4dd090059f463", null ],
+    [ "Validate", "db/df1/a22191.html#ac8e362d9f76350da106e128138737c5c", null ]
 ];

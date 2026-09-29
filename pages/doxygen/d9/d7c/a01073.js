@@ -1,8 +1,8 @@
 var a01073 =
 [
-    [ "WorldPackets::Query::NameQuery", "d0/ddc/a11625.html", "d0/ddc/a11625" ],
-    [ "WorldPackets::Query::NameQueryResponse", "d3/d20/a11629.html", "d3/d20/a11629" ],
-    [ "WorldPackets::Query::TimeQuery", "d7/d9e/a11633.html", "d7/d9e/a11633" ],
-    [ "WorldPackets::Query::TimeQueryResponse", "db/d17/a11637.html", "db/d17/a11637" ],
-    [ "WorldPackets::Query::CorpseMapPositionQuery", "d7/ddf/a11641.html", "d7/ddf/a11641" ]
+    [ "UtherBatteredHiltEvent", "d5/d27/a17499.html", "d5/d27/a17499" ],
+    [ "instance_halls_of_reflection", "da/dee/a17503.html", "da/dee/a17503" ],
+    [ "AddSC_instance_halls_of_reflection", "d9/d7c/a01073.html#a0f581d4a1a046db6b8b7729c87457646", null ],
+    [ "creatureData", "d9/d7c/a01073.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "gameObjectData", "d9/d7c/a01073.html#a1461582839e3b7fdbb7397e5d2086e31", null ]
 ];

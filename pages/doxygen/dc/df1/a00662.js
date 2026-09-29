@@ -1,4 +1,4 @@
 var a00662 =
 [
-    [ "ScriptRegistry< AccountScript >", "dc/df1/a00662.html#a737db11e5096ba1c596f469d64c2cc97", null ]
+    [ "AddScripts", "dc/df1/a00662.html#abb65cb085124c346fd32ac4b92f0baa9", null ]
 ];

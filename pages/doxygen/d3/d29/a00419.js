@@ -1,23 +1,18 @@
 var a00419 =
 [
-    [ "CreatureTextEntry", "d1/d3b/a12263.html", "d1/d3b/a12263" ],
-    [ "CreatureTextLocale", "db/d1b/a12267.html", "db/d1b/a12267" ],
-    [ "CreatureTextId", "d9/d24/a12271.html", "d9/d24/a12271" ],
-    [ "CreatureTextOptions", "de/d9f/a12275.html", "de/d9f/a12275" ],
-    [ "CreatureTextMgr", "d6/d91/a12279.html", "d6/d91/a12279" ],
-    [ "CreatureTextLocalizer< Builder >", "dd/d82/a12283.html", "dd/d82/a12283" ],
-    [ "sCreatureTextMgr", "d3/d29/a00419.html#a2dc428da007cefe454220dcb355a1cde", null ],
-    [ "CreatureTextGroup", "d3/d29/a00419.html#a9baeb5ff5e542c90d9058942cf0b4bbd", null ],
-    [ "CreatureTextHolder", "d3/d29/a00419.html#aad09b58ddf486cb766cdeb242824cd2d", null ],
-    [ "CreatureTextMap", "d3/d29/a00419.html#ac48698bcbe36b82577c41f42f3f23f09", null ],
-    [ "CreatureTextOptionsContainer", "d3/d29/a00419.html#a16523356dcf17205f4e4e62a26c4a609", null ],
-    [ "CreatureTextOptionsMap", "d3/d29/a00419.html#a43b3f3c87b43b80913e2a03023b5e89f", null ],
-    [ "LocaleCreatureTextMap", "d3/d29/a00419.html#ab39b2d82775a84108d19ed009bd14747", null ],
-    [ "CreatureTextRange", "d3/d29/a00419.html#adf847039afbebeda9e21210c1f4eb052", [
-      [ "TEXT_RANGE_NORMAL", "d3/d29/a00419.html#adf847039afbebeda9e21210c1f4eb052a649e811a5e8853fa24088dbb708ce9ab", null ],
-      [ "TEXT_RANGE_AREA", "d3/d29/a00419.html#adf847039afbebeda9e21210c1f4eb052a1982e7a678f4ba541ea6ecbfec493385", null ],
-      [ "TEXT_RANGE_ZONE", "d3/d29/a00419.html#adf847039afbebeda9e21210c1f4eb052a182bd5362916ba67bcf6660ce37fae0a", null ],
-      [ "TEXT_RANGE_MAP", "d3/d29/a00419.html#adf847039afbebeda9e21210c1f4eb052a90bf8cfe8ac6e4bac224bd3dd9fbc3a3", null ],
-      [ "TEXT_RANGE_WORLD", "d3/d29/a00419.html#adf847039afbebeda9e21210c1f4eb052a3a88078985d9e80a4543acf0acde52d9", null ]
-    ] ]
+    [ "instance_serpent_shrine", "d2/dec/a23431.html", "d2/dec/a23431" ],
+    [ "instance_serpent_shrine::instance_serpentshrine_cavern_InstanceMapScript", "dc/d6d/a23435.html", "dc/d6d/a23435" ],
+    [ "spell_serpentshrine_cavern_serpentshrine_parasite", "de/d08/a23439.html", "de/d08/a23439" ],
+    [ "spell_serpentshrine_cavern_serpentshrine_parasite_trigger_aura", "dd/d1e/a23443.html", "dd/d1e/a23443" ],
+    [ "spell_serpentshrine_cavern_serpentshrine_parasite_trigger", "d3/d6c/a23447.html", "d3/d6c/a23447" ],
+    [ "spell_serpentshrine_cavern_infection", "d0/d30/a23451.html", "d0/d30/a23451" ],
+    [ "spell_serpentshrine_cavern_coilfang_water", "de/d83/a23455.html", "de/d83/a23455" ],
+    [ "npc_rancid_mushroom", "df/d82/a23459.html", "df/d82/a23459" ],
+    [ "spell_rancid_spore_cloud", "dd/d13/a23463.html", "dd/d13/a23463" ],
+    [ "AddSC_instance_serpentshrine_cavern", "d3/d29/a00419.html#accf317168271361913093466ba7f8f0e", null ],
+    [ "boundaries", "d3/d29/a00419.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
+    [ "creatureData", "d3/d29/a00419.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "gameObjectData", "d3/d29/a00419.html#a1461582839e3b7fdbb7397e5d2086e31", null ],
+    [ "minionData", "d3/d29/a00419.html#a6720238df140a3c574a711042b7f5bd3", null ],
+    [ "summonData", "d3/d29/a00419.html#af7ba92b4a76e9cb7835c84a49f9c2052", null ]
 ];

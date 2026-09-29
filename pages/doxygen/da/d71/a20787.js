@@ -1,12 +1,7 @@
 var a20787 =
 [
-    [ "npc_ulduar_flames_initial", "da/d71/a20787.html#ac0ba4a5631f580b23be30f6d19545a1f", null ],
-    [ "DoAction", "da/d71/a20787.html#ae0b262371dfc00ca168afc9e4d28b133", null ],
-    [ "RemoveAll", "da/d71/a20787.html#a604fee1e371ffd6efe8f80c6db61318f", null ],
-    [ "RemoveFlame", "da/d71/a20787.html#ad676a542b40b554027fc2ab491fa083d", null ],
-    [ "SpreadFlame", "da/d71/a20787.html#af50c950610f5277a755d1786b596b9d7", null ],
-    [ "UpdateAI", "da/d71/a20787.html#a34c1ffd2bc07c2a736a7d6dc103a8afe", null ],
-    [ "_createTime", "da/d71/a20787.html#aa73a9fa2110bd5abdff9b509e13ce333", null ],
-    [ "_events", "da/d71/a20787.html#a0f99d43d373b61e9c665bd6c0d389afb", null ],
-    [ "_flameList", "da/d71/a20787.html#a50a26001f8bfe87a3a4f1feb544cf521", null ]
+    [ "HandleEffectPeriodic", "da/d71/a20787.html#a0fc0cf6cd635249a10aefd284d9ae789", null ],
+    [ "PrepareAuraScript", "da/d71/a20787.html#af432e810a46e35f95bb0b3b2eaada132", null ],
+    [ "Register", "da/d71/a20787.html#a41c3846c03ce1e37fc6858a676f61c48", null ],
+    [ "Validate", "da/d71/a20787.html#ac8e9521a6b8ab9a4642361085dbe517d", null ]
 ];

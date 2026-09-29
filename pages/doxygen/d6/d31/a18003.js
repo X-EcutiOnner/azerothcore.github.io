@@ -1,8 +1,7 @@
 var a18003 =
 [
-    [ "HandleHit", "d6/d31/a18003.html#ace9793d64d5378ef33bf30e8d0be8bd6", null ],
-    [ "HandleScript", "d6/d31/a18003.html#a5fe0b684473bd5dd1ff9b12432ff3de8", null ],
-    [ "Load", "d6/d31/a18003.html#ab1d81386ae3ccd332c01864d7f456017", null ],
-    [ "PrepareSpellScript", "d6/d31/a18003.html#ae3ef753ff4c99aa8bed20ce3369a7e0f", null ],
-    [ "Register", "d6/d31/a18003.html#a7edb44f70501c2e760d29c8f78a4e087", null ]
+    [ "HandleProc", "d6/d31/a18003.html#a235f04bd360ba7219aa2e1bc1a249047", null ],
+    [ "PrepareAuraScript", "d6/d31/a18003.html#a7cfa73ed3280d518baee1b0fa6bb4e76", null ],
+    [ "Register", "d6/d31/a18003.html#acc0881cf7379525a0841426867d2d850", null ],
+    [ "Validate", "d6/d31/a18003.html#a9be1b3b57bd2ee5995ad101369dac17c", null ]
 ];

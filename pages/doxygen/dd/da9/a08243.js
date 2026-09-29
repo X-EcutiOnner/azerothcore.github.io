@@ -1,5 +1,8 @@
 var a08243 =
 [
-    [ "Entry", "dd/da9/a08243.html#a057a5b8b65db8b8084b79a217a95308d", null ],
-    [ "RawGuid", "dd/da9/a08243.html#a0167a663fcde7c1de2b15e3622f90c7c", null ]
+    [ "CurValue", "dd/da9/a08243.html#a110169c51e3dac271b4ba6d10bbbadac", null ],
+    [ "KnownRecipes", "dd/da9/a08243.html#a1a44c7eb6dbf3a16e8d2db47821bb39a", null ],
+    [ "MaxValue", "dd/da9/a08243.html#a6c48d3a6afddf895b97ec9b964dfd86c", null ],
+    [ "Owner", "dd/da9/a08243.html#a085e0aa9f79129920af96046c4fc29b1", null ],
+    [ "Spell", "dd/da9/a08243.html#a2b0ca4fecc7ba965a329afa6a184cf07", null ]
 ];

@@ -1,6 +1,8 @@
 var a22139 =
 [
-    [ "HandleScriptEffect", "df/dc9/a22139.html#a0d6a2eda99d95b1ee3403d8c63415800", null ],
-    [ "PrepareSpellScript", "df/dc9/a22139.html#a68920ab07d955763e8a627e6cb35638c", null ],
-    [ "Register", "df/dc9/a22139.html#a918cf6968f6eec5a4025324bd7f78747", null ]
+    [ "HandleEffectApply", "df/dc9/a22139.html#a8ebf9488a7eed99c3651424754cc95c5", null ],
+    [ "HandleEffectPeriodic", "df/dc9/a22139.html#a183976530ebf604656db12e41449427e", null ],
+    [ "PrepareAuraScript", "df/dc9/a22139.html#a03faa2eda84ac74dcff9a7a6a4e57440", null ],
+    [ "Register", "df/dc9/a22139.html#a76be53d506933d4b3c758578b7c33d5f", null ],
+    [ "_posZ", "df/dc9/a22139.html#a488ded8ff40240fe8fbef1567eb091b9", null ]
 ];

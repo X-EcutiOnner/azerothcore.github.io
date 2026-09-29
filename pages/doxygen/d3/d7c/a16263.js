@@ -1,8 +1,7 @@
 var a16263 =
 [
-    [ "npc_lakota_windsongAI", "d3/d7c/a16263.html#a922172a38ca75adef66a2653eda7fa98", null ],
-    [ "DoSpawnBandits", "d3/d7c/a16263.html#aa63601ac87b674cb5d0594213d1e7ea9", null ],
-    [ "Reset", "d3/d7c/a16263.html#aee7a86275f93021e0e5db249b636bcd4", null ],
-    [ "WaypointReached", "d3/d7c/a16263.html#a6435c8b1521206789131889e5fa527a6", null ],
-    [ "WaypointReached", "d3/d7c/a16263.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "npc_wizzlecrank_shredderAI", "d7/db4/a16267.html", "d7/db4/a16267" ],
+    [ "npc_wizzlecrank_shredder", "d3/d7c/a16263.html#a56a29a61d6f1a5981019f6c059b4da64", null ],
+    [ "GetAI", "d3/d7c/a16263.html#a5c42cc6d8cf2642333731138077af66e", null ],
+    [ "OnQuestAccept", "d3/d7c/a16263.html#afcd5aaea5234b6510825d9ce5e809aa6", null ]
 ];

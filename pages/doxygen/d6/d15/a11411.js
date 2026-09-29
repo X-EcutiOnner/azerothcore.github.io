@@ -1,8 +1,9 @@
 var a11411 =
 [
-    [ "AutoStoreBagItem", "d6/d15/a11411.html#a09e4b117d8789d513a0e766986340140", null ],
-    [ "Read", "d6/d15/a11411.html#a172832ec72012278b000f38d761823b4", null ],
-    [ "DestinationBag", "d6/d15/a11411.html#a7472dfd7ccd78051bc8808832f8e74cb", null ],
-    [ "SourceBag", "d6/d15/a11411.html#a27e27653e6f00869070de7354adff52d", null ],
-    [ "SourceSlot", "d6/d15/a11411.html#a517202ccb270d78289630404beb61afc", null ]
+    [ "EnchantmentLog", "d6/d15/a11411.html#a4427184d166b18e984dc301a6786aac3", null ],
+    [ "Write", "d6/d15/a11411.html#a17752d3e862c1915f8479058a4be1eb7", null ],
+    [ "Caster", "d6/d15/a11411.html#ae35a0c689357cf4b5a031f40314a7045", null ],
+    [ "EnchantId", "d6/d15/a11411.html#a72a85b9f0d40c9406d64a9bf0b06581e", null ],
+    [ "ItemId", "d6/d15/a11411.html#ad393d5f227bb81738582572bd2601650", null ],
+    [ "Target", "d6/d15/a11411.html#a9ef981f750bee2101c1f886fa2514913", null ]
 ];

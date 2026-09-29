@@ -1,11 +1,6 @@
 var a18403 =
 [
-    [ "Load", "de/d94/a18403.html#a0dab3a666abd6d8c1486a6e71ce98c20", null ],
-    [ "PrepareSpellScript", "de/d94/a18403.html#a8338cc31a3c494c1cb24d015a11fbd64", null ],
-    [ "Register", "de/d94/a18403.html#a9adbad7cc2185b22fb16135e78114548", null ],
-    [ "SelectTarget", "de/d94/a18403.html#a296ec09cec9661123ea5c86f3f262f32", null ],
-    [ "SetTarget", "de/d94/a18403.html#a15373dc2a0767e011faf504f6377e24d", null ],
-    [ "StartAttack", "de/d94/a18403.html#a17b20a391d70ae487774d52ed0e5dbd7", null ],
-    [ "Validate", "de/d94/a18403.html#a7619f7ec6dc0ce14293414729731ed00", null ],
-    [ "_target", "de/d94/a18403.html#abe6d3ad0f06b2370f1a5985878d6af3d", null ]
+    [ "HandleScript", "de/d94/a18403.html#aefdd306b81b44a0a5564eab5a0491e09", null ],
+    [ "PrepareSpellScript", "de/d94/a18403.html#a68c0462bd108b04621f8288328f78b18", null ],
+    [ "Register", "de/d94/a18403.html#aedaec0afc414800bc481a434592ffb5d", null ]
 ];

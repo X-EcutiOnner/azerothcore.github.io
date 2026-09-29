@@ -1,14 +1,17 @@
 var a02483 =
 [
-    [ "npc_artorius", "d4/d8a/a28575.html", "d4/d8a/a28575" ],
-    [ "npc_artorius::npc_artoriusAI", "dd/dd3/a28579.html", "dd/dd3/a28579" ],
-    [ "npc_precious", "d6/d18/a28583.html", "d6/d18/a28583" ],
-    [ "npc_precious::npc_preciousAI", "dc/d40/a28587.html", "dc/d40/a28587" ],
-    [ "npc_simone", "db/d35/a28591.html", "db/d35/a28591" ],
-    [ "npc_simone::npc_simoneAI", "d4/d09/a28595.html", "d4/d09/a28595" ],
-    [ "npc_nelson", "d6/d93/a28599.html", "d6/d93/a28599" ],
-    [ "npc_nelson::npc_nelsonAI", "d8/d13/a28603.html", "d8/d13/a28603" ],
-    [ "npc_franklin", "d8/d5b/a28607.html", "d8/d5b/a28607" ],
-    [ "npc_franklin::npc_franklinAI", "d6/dfb/a28611.html", "d6/dfb/a28611" ],
-    [ "AddSC_npc_stave_of_ancients", "d3/de3/a02483.html#a81e200e5d045a2403cd76a0559a6fd8c", null ]
+    [ "Arena", "d6/d11/a07683.html", "d6/d11/a07683" ],
+    [ "ArenaBroadcastTexts", "d3/de3/a02483.html#a407f2036481e3d9e2def3daa50546c71", [
+      [ "ARENA_TEXT_START_ONE_MINUTE", "d3/de3/a02483.html#a407f2036481e3d9e2def3daa50546c71a12b484d249dd320cfc39bdf39279d854", null ],
+      [ "ARENA_TEXT_START_THIRTY_SECONDS", "d3/de3/a02483.html#a407f2036481e3d9e2def3daa50546c71a49cdd0c5a035f182212d6fe53a1e2084", null ],
+      [ "ARENA_TEXT_START_FIFTEEN_SECONDS", "d3/de3/a02483.html#a407f2036481e3d9e2def3daa50546c71a96636e959a178535f5d886c81ec6a8d9", null ],
+      [ "ARENA_TEXT_START_BATTLE_HAS_BEGUN", "d3/de3/a02483.html#a407f2036481e3d9e2def3daa50546c71a60ff93f414424628c66faf8f424f1dcd", null ]
+    ] ],
+    [ "ArenaSpellIds", "d3/de3/a02483.html#a05b7784b7a9a1ce8e6367f6f9bb875d9", [
+      [ "SPELL_ALLIANCE_GOLD_FLAG", "d3/de3/a02483.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a310e16f368a3a7d80eeecbaecd5c489c", null ],
+      [ "SPELL_ALLIANCE_GREEN_FLAG", "d3/de3/a02483.html#a05b7784b7a9a1ce8e6367f6f9bb875d9aeae9474d707e5496dfdf0fd49871bb9f", null ],
+      [ "SPELL_HORDE_GOLD_FLAG", "d3/de3/a02483.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a83058f9219943bb8b4d4a3024d172af0", null ],
+      [ "SPELL_HORDE_GREEN_FLAG", "d3/de3/a02483.html#a05b7784b7a9a1ce8e6367f6f9bb875d9ad76f572a30c966179ca9c2c2c26f4222", null ],
+      [ "SPELL_LAST_MAN_STANDING", "d3/de3/a02483.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a20018007a38c253b1c4d00d9b0b375bd", null ]
+    ] ]
 ];

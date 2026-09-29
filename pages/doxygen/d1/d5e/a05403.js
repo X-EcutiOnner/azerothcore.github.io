@@ -1,5 +1,11 @@
 var a05403 =
 [
-    [ "TileEntries", "d1/d5e/a05403.html#ac982af8210389fe769d161a12d4cdb5f", null ],
-    [ "UniqueEntries", "d1/d5e/a05403.html#a5ba6c948eedc6c070a7eb6aa3816d85c", null ]
+    [ "ModelPosition", "d1/d5e/a05403.html#ac611d964ae36e4ccd5a3bf385457a0ac", null ],
+    [ "init", "d1/d5e/a05403.html#a5b7df306c28a7985fd3ab17d48350a27", null ],
+    [ "moveToBasePos", "d1/d5e/a05403.html#adb4da027178ca086fe72b4ccf4ea327a", null ],
+    [ "transform", "d1/d5e/a05403.html#a7e72fc425ad6aae4844090760c1938df", null ],
+    [ "iDir", "d1/d5e/a05403.html#a24ba62281166e60036ac8a57b26c6abd", null ],
+    [ "iPos", "d1/d5e/a05403.html#a36a3bd930273e0313e3b09c1289e9317", null ],
+    [ "iRotation", "d1/d5e/a05403.html#ae53c5b044021f5ef04ecb5d8898fd8b3", null ],
+    [ "iScale", "d1/d5e/a05403.html#a81bb029dce2aadec2f147a1329ee285e", null ]
 ];

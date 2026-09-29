@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: QueryResultFieldMetadata Struct Reference</title>
+<title>AzerothCore: DatabaseWorkerPoolAdapter&lt; T &gt; Class Template Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,142 +105,211 @@ $(document).ready(function(){initNavTree('d8/d3d/a06135.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../d0/d80/a06132.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">QueryResultFieldMetadata Struct Reference</div></div>
+  <div class="headertitle"><div class="title">DatabaseWorkerPoolAdapter&lt; T &gt; Class Template Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">Field.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">DatabaseWorkerPoolAdapter.h</a>&quot;</code></p>
+<div class="dynheader">
+Inheritance diagram for DatabaseWorkerPoolAdapter&lt; T &gt;:</div>
+<div class="dyncontent">
+ <div class="center">
+  <img src="../../d8/d3d/a06135.png" usemap="#DatabaseWorkerPoolAdapter_3C_20T_20_3E_map" alt=""/>
+  <map id="DatabaseWorkerPoolAdapter_3C_20T_20_3E_map" name="DatabaseWorkerPoolAdapter_3C_20T_20_3E_map">
+<area href="../../d4/d17/a06123.html" alt="DatabaseUpdatePool" shape="rect" coords="0,0,207,24"/>
+  </map>
+</div></div>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:ada6594cc2aa67c8d34bdb45e757fda8c"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d3d/a06135.html#ada6594cc2aa67c8d34bdb45e757fda8c">TableName</a> {}</td></tr>
-<tr class="separator:ada6594cc2aa67c8d34bdb45e757fda8c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa9ca2448829defe395b479a9a4ca3c3e"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d3d/a06135.html#aa9ca2448829defe395b479a9a4ca3c3e">TableAlias</a> {}</td></tr>
-<tr class="separator:aa9ca2448829defe395b479a9a4ca3c3e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af8b9f87733157401cff6b0846a545fa4"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d3d/a06135.html#af8b9f87733157401cff6b0846a545fa4">Name</a> {}</td></tr>
-<tr class="separator:af8b9f87733157401cff6b0846a545fa4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac885c365760ade7b0c74e5fead82a210"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d3d/a06135.html#ac885c365760ade7b0c74e5fead82a210">Alias</a> {}</td></tr>
-<tr class="separator:ac885c365760ade7b0c74e5fead82a210"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aba1b90e43c4f4c545f76568cae86ad43"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d3d/a06135.html#aba1b90e43c4f4c545f76568cae86ad43">TypeName</a> {}</td></tr>
-<tr class="separator:aba1b90e43c4f4c545f76568cae86ad43"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad841e71a9394fc114a35f0234ef581b6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d3d/a06135.html#ad841e71a9394fc114a35f0234ef581b6">Index</a> = 0</td></tr>
-<tr class="separator:ad841e71a9394fc114a35f0234ef581b6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a76dec8aee42dce6698e4fda0ee1e3eba"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/df1/a00206.html#a52858f4c2cc23ac9372ab466fb82c091">DatabaseFieldTypes</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d3d/a06135.html#a76dec8aee42dce6698e4fda0ee1e3eba">Type</a> = DatabaseFieldTypes::Null</td></tr>
-<tr class="separator:a76dec8aee42dce6698e4fda0ee1e3eba"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:afaf15e7b5a8305b7766452f68b0e5763"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d3d/a06135.html#afaf15e7b5a8305b7766452f68b0e5763">DatabaseWorkerPoolAdapter</a> (<a class="el" href="../../db/d41/a06115.html">DatabaseWorkerPool</a>&lt; T &gt; &amp;pool)</td></tr>
+<tr class="separator:afaf15e7b5a8305b7766452f68b0e5763"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a001df1f9dead46304cad902e1e7689d1"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d3d/a06135.html#a001df1f9dead46304cad902e1e7689d1">DirectExecute</a> (std::string_view query) override</td></tr>
+<tr class="separator:a001df1f9dead46304cad902e1e7689d1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abe05d7ef60e96d2a054c430af6913c3f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/d79/a02402.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d3d/a06135.html#abe05d7ef60e96d2a054c430af6913c3f">Query</a> (std::string_view query) override</td></tr>
+<tr class="separator:abe05d7ef60e96d2a054c430af6913c3f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab823ad038f84c114cb85764320a3f546"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/da9/a06167.html">MySQLConnectionInfo</a> const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d3d/a06135.html#ab823ad038f84c114cb85764320a3f546">GetConnectionInfo</a> () const override</td></tr>
+<tr class="separator:ab823ad038f84c114cb85764320a3f546"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_methods_a06123"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a06123')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d4/d17/a06123.html">DatabaseUpdatePool</a></td></tr>
+<tr class="memitem:ac0431838d5a43c5323356b4c93c21157 inherit pub_methods_a06123"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d17/a06123.html#ac0431838d5a43c5323356b4c93c21157">~DatabaseUpdatePool</a> ()=default</td></tr>
+<tr class="separator:ac0431838d5a43c5323356b4c93c21157 inherit pub_methods_a06123"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a271fb5dffc1a589deaa5dd2fca756f82 inherit pub_methods_a06123"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d17/a06123.html#a271fb5dffc1a589deaa5dd2fca756f82">DirectExecute</a> (std::string_view query)=0</td></tr>
+<tr class="separator:a271fb5dffc1a589deaa5dd2fca756f82 inherit pub_methods_a06123"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a982c56cafb05142ed68d3e8a36a15ccd inherit pub_methods_a06123"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="../../df/d79/a02402.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d17/a06123.html#a982c56cafb05142ed68d3e8a36a15ccd">Query</a> (std::string_view query)=0</td></tr>
+<tr class="separator:a982c56cafb05142ed68d3e8a36a15ccd inherit pub_methods_a06123"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aab5bbf60204663389a536ea84c885538 inherit pub_methods_a06123"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="../../da/da9/a06167.html">MySQLConnectionInfo</a> const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d17/a06123.html#aab5bbf60204663389a536ea84c885538">GetConnectionInfo</a> () const =0</td></tr>
+<tr class="separator:aab5bbf60204663389a536ea84c885538 inherit pub_methods_a06123"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:acffa90573e6f9d4889d62f4c9d57b28b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d41/a06115.html">DatabaseWorkerPool</a>&lt; T &gt; &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d3d/a06135.html#acffa90573e6f9d4889d62f4c9d57b28b">_pool</a></td></tr>
+<tr class="separator:acffa90573e6f9d4889d62f4c9d57b28b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Data Documentation</h2>
-<a id="ac885c365760ade7b0c74e5fead82a210" name="ac885c365760ade7b0c74e5fead82a210"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac885c365760ade7b0c74e5fead82a210">&#9670;&#160;</a></span>Alias</h2>
+<div class="textblock"><div class="compoundTemplParams">template&lt;class T&gt;<br />
+class DatabaseWorkerPoolAdapter&lt; T &gt;</div></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="afaf15e7b5a8305b7766452f68b0e5763" name="afaf15e7b5a8305b7766452f68b0e5763"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afaf15e7b5a8305b7766452f68b0e5763">&#9670;&#160;</a></span>DatabaseWorkerPoolAdapter()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::string QueryResultFieldMetadata::Alias {}</td>
+          <td class="memname"><a class="el" href="../../d8/d3d/a06135.html">DatabaseWorkerPoolAdapter</a>&lt; T &gt;<a class="el" href="../../d8/d3d/a06135.html">::DatabaseWorkerPoolAdapter</a> </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/d41/a06115.html">DatabaseWorkerPool</a>&lt; T &gt; &amp;&#160;</td>
+          <td class="paramname"><em>pool</em></td><td>)</td>
+          <td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00195">Field::GetData()</a>, <a class="el" href="../../#l00155">anonymous_namespace{QueryResult.cpp}::InitializeDatabaseFieldMetadata()</a>, and <a class="el" href="../../#l00183">Field::LogWrongType()</a>.</p>
-
+<div class="fragment"><div class="line"><span class="lineno">   28</span>: <a class="code hl_variable" href="../../d8/d3d/a06135.html#acffa90573e6f9d4889d62f4c9d57b28b">_pool</a>(pool) {}</div>
+<div class="ttc" id="aa06135_html_acffa90573e6f9d4889d62f4c9d57b28b"><div class="ttname"><a href="../../d8/d3d/a06135.html#acffa90573e6f9d4889d62f4c9d57b28b">DatabaseWorkerPoolAdapter::_pool</a></div><div class="ttdeci">DatabaseWorkerPool&lt; T &gt; &amp; _pool</div><div class="ttdef"><b>Definition:</b> DatabaseWorkerPoolAdapter.h:46</div></div>
+</div><!-- fragment -->
 </div>
 </div>
-<a id="ad841e71a9394fc114a35f0234ef581b6" name="ad841e71a9394fc114a35f0234ef581b6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad841e71a9394fc114a35f0234ef581b6">&#9670;&#160;</a></span>Index</h2>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a001df1f9dead46304cad902e1e7689d1" name="a001df1f9dead46304cad902e1e7689d1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a001df1f9dead46304cad902e1e7689d1">&#9670;&#160;</a></span>DirectExecute()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> QueryResultFieldMetadata::Index = 0</td>
+          <td class="memname">void <a class="el" href="../../d8/d3d/a06135.html">DatabaseWorkerPoolAdapter</a>&lt; T &gt;::DirectExecute </td>
+          <td>(</td>
+          <td class="paramtype">std::string_view&#160;</td>
+          <td class="paramname"><em>query</em></td><td>)</td>
+          <td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00155">anonymous_namespace{QueryResult.cpp}::InitializeDatabaseFieldMetadata()</a>, and <a class="el" href="../../#l00183">Field::LogWrongType()</a>.</p>
+<p>Implements <a class="el" href="../../d4/d17/a06123.html#a271fb5dffc1a589deaa5dd2fca756f82">DatabaseUpdatePool</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">   31</span>    {</div>
+<div class="line"><span class="lineno">   32</span>        <a class="code hl_variable" href="../../d8/d3d/a06135.html#acffa90573e6f9d4889d62f4c9d57b28b">_pool</a>.DirectExecute(query);</div>
+<div class="line"><span class="lineno">   33</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00046">DatabaseWorkerPoolAdapter&lt; T &gt;::_pool</a>.</p>
 
 </div>
 </div>
-<a id="af8b9f87733157401cff6b0846a545fa4" name="af8b9f87733157401cff6b0846a545fa4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af8b9f87733157401cff6b0846a545fa4">&#9670;&#160;</a></span>Name</h2>
+<a id="ab823ad038f84c114cb85764320a3f546" name="ab823ad038f84c114cb85764320a3f546"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab823ad038f84c114cb85764320a3f546">&#9670;&#160;</a></span>GetConnectionInfo()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::string QueryResultFieldMetadata::Name {}</td>
+          <td class="memname"><a class="el" href="../../da/da9/a06167.html">MySQLConnectionInfo</a> const  * <a class="el" href="../../d8/d3d/a06135.html">DatabaseWorkerPoolAdapter</a>&lt; T &gt;::GetConnectionInfo </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00195">Field::GetData()</a>, <a class="el" href="../../#l00155">anonymous_namespace{QueryResult.cpp}::InitializeDatabaseFieldMetadata()</a>, and <a class="el" href="../../#l00183">Field::LogWrongType()</a>.</p>
+<p>Implements <a class="el" href="../../d4/d17/a06123.html#aab5bbf60204663389a536ea84c885538">DatabaseUpdatePool</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">   41</span>    {</div>
+<div class="line"><span class="lineno">   42</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d8/d3d/a06135.html#acffa90573e6f9d4889d62f4c9d57b28b">_pool</a>.GetConnectionInfo();</div>
+<div class="line"><span class="lineno">   43</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00046">DatabaseWorkerPoolAdapter&lt; T &gt;::_pool</a>.</p>
 
 </div>
 </div>
-<a id="aa9ca2448829defe395b479a9a4ca3c3e" name="aa9ca2448829defe395b479a9a4ca3c3e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa9ca2448829defe395b479a9a4ca3c3e">&#9670;&#160;</a></span>TableAlias</h2>
+<a id="abe05d7ef60e96d2a054c430af6913c3f" name="abe05d7ef60e96d2a054c430af6913c3f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abe05d7ef60e96d2a054c430af6913c3f">&#9670;&#160;</a></span>Query()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::string QueryResultFieldMetadata::TableAlias {}</td>
+          <td class="memname"><a class="el" href="../../df/d79/a02402.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a> <a class="el" href="../../d8/d3d/a06135.html">DatabaseWorkerPoolAdapter</a>&lt; T &gt;::Query </td>
+          <td>(</td>
+          <td class="paramtype">std::string_view&#160;</td>
+          <td class="paramname"><em>query</em></td><td>)</td>
+          <td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00155">anonymous_namespace{QueryResult.cpp}::InitializeDatabaseFieldMetadata()</a>, and <a class="el" href="../../#l00183">Field::LogWrongType()</a>.</p>
+<p>Implements <a class="el" href="../../d4/d17/a06123.html#a982c56cafb05142ed68d3e8a36a15ccd">DatabaseUpdatePool</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">   36</span>    {</div>
+<div class="line"><span class="lineno">   37</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d8/d3d/a06135.html#acffa90573e6f9d4889d62f4c9d57b28b">_pool</a>.Query(query);</div>
+<div class="line"><span class="lineno">   38</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00046">DatabaseWorkerPoolAdapter&lt; T &gt;::_pool</a>.</p>
 
 </div>
 </div>
-<a id="ada6594cc2aa67c8d34bdb45e757fda8c" name="ada6594cc2aa67c8d34bdb45e757fda8c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ada6594cc2aa67c8d34bdb45e757fda8c">&#9670;&#160;</a></span>TableName</h2>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="acffa90573e6f9d4889d62f4c9d57b28b" name="acffa90573e6f9d4889d62f4c9d57b28b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acffa90573e6f9d4889d62f4c9d57b28b">&#9670;&#160;</a></span>_pool</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::string QueryResultFieldMetadata::TableName {}</td>
+          <td class="memname"><a class="el" href="../../db/d41/a06115.html">DatabaseWorkerPool</a>&lt;T&gt;&amp; <a class="el" href="../../d8/d3d/a06135.html">DatabaseWorkerPoolAdapter</a>&lt; T &gt;::_pool</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00195">Field::GetData()</a>, <a class="el" href="../../#l00155">anonymous_namespace{QueryResult.cpp}::InitializeDatabaseFieldMetadata()</a>, and <a class="el" href="../../#l00183">Field::LogWrongType()</a>.</p>
-
-</div>
-</div>
-<a id="a76dec8aee42dce6698e4fda0ee1e3eba" name="a76dec8aee42dce6698e4fda0ee1e3eba"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a76dec8aee42dce6698e4fda0ee1e3eba">&#9670;&#160;</a></span>Type</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d5/df1/a00206.html#a52858f4c2cc23ac9372ab466fb82c091">DatabaseFieldTypes</a> QueryResultFieldMetadata::Type = DatabaseFieldTypes::Null</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00195">Field::GetData()</a>, <a class="el" href="../../#l00321">Field::GetDataBinary()</a>, <a class="el" href="../../#l00155">anonymous_namespace{QueryResult.cpp}::InitializeDatabaseFieldMetadata()</a>, <a class="el" href="../../#l00173">Field::IsNumeric()</a>, and <a class="el" href="../../#l00168">Field::IsType()</a>.</p>
-
-</div>
-</div>
-<a id="aba1b90e43c4f4c545f76568cae86ad43" name="aba1b90e43c4f4c545f76568cae86ad43"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aba1b90e43c4f4c545f76568cae86ad43">&#9670;&#160;</a></span>TypeName</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::string QueryResultFieldMetadata::TypeName {}</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00155">anonymous_namespace{QueryResult.cpp}::InitializeDatabaseFieldMetadata()</a>, and <a class="el" href="../../#l00183">Field::LogWrongType()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00030">DatabaseWorkerPoolAdapter&lt; T &gt;::DirectExecute()</a>, <a class="el" href="../../#l00040">DatabaseWorkerPoolAdapter&lt; T &gt;::GetConnectionInfo()</a>, and <a class="el" href="../../#l00035">DatabaseWorkerPoolAdapter&lt; T &gt;::Query()</a>.</p>
 
 </div>
 </div>
@@ -249,8 +318,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d8/d3d/a06135.html">QueryResultFieldMetadata</a></li>
-    <li class="footer">Generated on Mon Sep 21 2026 23:34:23 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d8/d3d/a06135.html">DatabaseWorkerPoolAdapter</a></li>
+    <li class="footer">Generated on Tue Sep 29 2026 01:13:10 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

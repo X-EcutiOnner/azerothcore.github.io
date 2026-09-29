@@ -1,7 +1,6 @@
 var a26419 =
 [
-    [ "HandleProc", "d6/d5c/a26419.html#ac162e47e5334e15865a315b1a30fc645", null ],
-    [ "PrepareAuraScript", "d6/d5c/a26419.html#a0d30a007e3f67b78197ac0cae83e2976", null ],
-    [ "Register", "d6/d5c/a26419.html#aad337f75e2132940ed3cfef209e1c73b", null ],
-    [ "Validate", "d6/d5c/a26419.html#afc4741f952c253924de7397d991a24ac", null ]
+    [ "OnRemove", "d6/d5c/a26419.html#a3803e6bbdb17e9a848376481581c993d", null ],
+    [ "PrepareAuraScript", "d6/d5c/a26419.html#a6f1340b824af4604e310666e89d05b7a", null ],
+    [ "Register", "d6/d5c/a26419.html#a3b361a478f1c035b706ac2e17499fb37", null ]
 ];

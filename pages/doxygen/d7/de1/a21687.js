@@ -1,6 +1,8 @@
 var a21687 =
 [
-    [ "npc_khunok_the_behemothAI", "d3/d2d/a21691.html", "d3/d2d/a21691" ],
-    [ "npc_khunok_the_behemoth", "d7/de1/a21687.html#a0370959631c00581495dbd7c37263236", null ],
-    [ "GetAI", "d7/de1/a21687.html#a201aa35dd119d23126b192a1e3786c09", null ]
+    [ "HandleEffectRemove", "d7/de1/a21687.html#aa2b05befb775244423264f6b5e2387c1", null ],
+    [ "Load", "d7/de1/a21687.html#a02ea4c29f2c7e15a5039b93d7a0d3c5e", null ],
+    [ "PrepareAuraScript", "d7/de1/a21687.html#a632e81cc39bdcd0f5adcc684231d1171", null ],
+    [ "Register", "d7/de1/a21687.html#aba5483b1d35c1b58841fad2b1086f07c", null ],
+    [ "Validate", "d7/de1/a21687.html#ada90e1f06ced8f4e353fe2bda3d31637", null ]
 ];

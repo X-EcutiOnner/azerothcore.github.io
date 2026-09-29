@@ -1,7 +1,8 @@
 var a05491 =
 [
-    [ "operator()", "df/d51/a05491.html#ac07872b93851fa7a4e3ec643652b44cf", null ],
-    [ "closestEntity", "df/d51/a05491.html#ab377424b7edd0274f61967619700f841", null ],
-    [ "hitLocation", "df/d51/a05491.html#a00e778dd78dca96391d200e18dfc2c9d", null ],
-    [ "hitNormal", "df/d51/a05491.html#a57f40f48c26829f7da9e48efd839d773", null ]
+    [ "ComputeCell", "df/d51/a05491.html#a32a8b5ab15a28fb06672fcf62ac63d1e", null ],
+    [ "isValid", "df/d51/a05491.html#afe64d87e738675f1c8cb0fa6d440029c", null ],
+    [ "operator==", "df/d51/a05491.html#afd79442d37d0a98d85ba2c366350156a", null ],
+    [ "x", "df/d51/a05491.html#a8435f7d7b8f529dfe397ada59e3405a1", null ],
+    [ "y", "df/d51/a05491.html#af3d5ae020727d58286ef7725958063a9", null ]
 ];

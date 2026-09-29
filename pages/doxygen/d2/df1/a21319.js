@@ -1,7 +1,7 @@
 var a21319 =
 [
-    [ "HandleEffectPeriodic", "d2/df1/a21319.html#a5741a78ba0cc8c723e80b1847b3eb1bc", null ],
-    [ "PrepareAuraScript", "d2/df1/a21319.html#a748cd347867557b5048d9ba0c112cd80", null ],
-    [ "Register", "d2/df1/a21319.html#a3c24d37ab4a6e16a577983c3f6bc2722", null ],
-    [ "Validate", "d2/df1/a21319.html#afa86789ef14b1d06094705ba6cfb9205", null ]
+    [ "npc_frost_tomb", "d2/df1/a21319.html#a9c7abe1dc25b807d34f1ed818ab639ef", null ],
+    [ "JustDied", "d2/df1/a21319.html#a40a14647eaf9f2c5bd11c094f0aadb79", null ],
+    [ "UpdateAI", "d2/df1/a21319.html#af2122e9c8cb206151f631659c7d167da", null ],
+    [ "PrisonerGUID", "d2/df1/a21319.html#a456fcd5dd3f504954a74fc068f253dc2", null ]
 ];

@@ -1,21 +1,19 @@
 var a04721 =
 [
-    [ "MmapTileRecastConfig", "d1/dab/a05359.html", "d1/dab/a05359" ],
-    [ "MmapTileHeader", "d3/dea/a05363.html", "d3/dea/a05363" ],
-    [ "MAX_NUMBER_OF_CELLS", "d0/dae/a04721.html#a2c6994ea025f427f1485c1c7aaee01fe", null ],
-    [ "MAX_NUMBER_OF_GRIDS", "d0/dae/a04721.html#a857252154f120575d940ffbdf63bace6", null ],
-    [ "MMAP_MAGIC", "d0/dae/a04721.html#af7a9a5e840ab3ad1c160e832500016d1", null ],
-    [ "MMAP_VERSION", "d0/dae/a04721.html#aea71555fdd0af33ccc21c76c67574421", null ],
-    [ "SIZE_OF_GRIDS", "d0/dae/a04721.html#a55c9adba46c0c14cd4ac80ab51228816", null ],
-    [ "NavTerrain", "d0/dae/a04721.html#a8a4d0b36dd46d60b691b894fb8c1c5db", [
-      [ "NAV_EMPTY", "d0/dae/a04721.html#a8a4d0b36dd46d60b691b894fb8c1c5dba7e7367494e3519c95f1b756726fec9a5", null ],
-      [ "NAV_GROUND", "d0/dae/a04721.html#a8a4d0b36dd46d60b691b894fb8c1c5dbac2c74d40490a8ea42121c00a8249bd98", null ],
-      [ "NAV_MAGMA", "d0/dae/a04721.html#a8a4d0b36dd46d60b691b894fb8c1c5dba9ea5d0550a08be7bb291557f1fc4f670", null ],
-      [ "NAV_SLIME", "d0/dae/a04721.html#a8a4d0b36dd46d60b691b894fb8c1c5dbad892c321d39d49cdb700eb27fc249f75", null ],
-      [ "NAV_WATER", "d0/dae/a04721.html#a8a4d0b36dd46d60b691b894fb8c1c5dbae258322a4a7d7928a89ac183ecf137d1", null ],
-      [ "NAV_UNUSED1", "d0/dae/a04721.html#a8a4d0b36dd46d60b691b894fb8c1c5dba55b6c76a11113bfd585b61366a3f6d03", null ],
-      [ "NAV_UNUSED2", "d0/dae/a04721.html#a8a4d0b36dd46d60b691b894fb8c1c5dba4c61900269be6dee2e26cbeb4e09d0bb", null ],
-      [ "NAV_UNUSED3", "d0/dae/a04721.html#a8a4d0b36dd46d60b691b894fb8c1c5dba3055dd71ec523facb0cba2976316d530", null ],
-      [ "NAV_UNUSED4", "d0/dae/a04721.html#a8a4d0b36dd46d60b691b894fb8c1c5dba94351935a3c7389b4667144d53923d56", null ]
-    ] ]
+    [ "Find", "d0/dae/a04721.html#ae166e7e76c33c81464ce6c03126a9851", null ],
+    [ "Find", "d0/dae/a04721.html#ab4dd23a037acbbdef4d1614ca6508d9d", null ],
+    [ "Find", "d0/dae/a04721.html#a6c9d620966c3418af1971dc8326ccb4a", null ],
+    [ "Find", "d0/dae/a04721.html#a5c0b223bf6b53a35ca9fa836f05599d6", null ],
+    [ "Find", "d0/dae/a04721.html#a5ebe906ee0f2f706bcc950236459a7f8", null ],
+    [ "Find", "d0/dae/a04721.html#a084123cd73051b9db0c9c4cf4ca819be", null ],
+    [ "Find", "d0/dae/a04721.html#a63a0d0d14ac1e3ecbed175c4206b87f2", null ],
+    [ "Find", "d0/dae/a04721.html#a4ddfdda016b2e56d7c68ef703400a77c", null ],
+    [ "Insert", "d0/dae/a04721.html#ae7e83af9675f10ea565b725be25b8c5e", null ],
+    [ "Insert", "d0/dae/a04721.html#a2cb738cb02deb5f4d7d30a7d860a45ff", null ],
+    [ "Insert", "d0/dae/a04721.html#a9113786a11594dfcecc6d3bb4e1aadb2", null ],
+    [ "Insert", "d0/dae/a04721.html#a3bc394692e5fd3b096a149b1208e3675", null ],
+    [ "Remove", "d0/dae/a04721.html#a3714737e66e682a43beb71292ccd564e", null ],
+    [ "Remove", "d0/dae/a04721.html#ac344e92ea8d73f94dc08c6a52001ec3e", null ],
+    [ "Remove", "d0/dae/a04721.html#aecc909b333bb7f55f438bfcf1ea3085f", null ],
+    [ "Remove", "d0/dae/a04721.html#a36e61ba9bc4e287e215444ea9314a656", null ]
 ];

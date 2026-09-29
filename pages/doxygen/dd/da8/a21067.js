@@ -1,15 +1,5 @@
 var a21067 =
 [
-    [ "boss_yoggsaron_cloud", "dd/da8/a21067.html#a4efbeab85d5770784f1474176a23fd74", null ],
-    [ "AttackStart", "dd/da8/a21067.html#a280ad77f30f06c01ee16434794814767", null ],
-    [ "DoAction", "dd/da8/a21067.html#ad7452d20420fc1fc30088e455a9cdfc3", null ],
-    [ "InitWaypoint", "dd/da8/a21067.html#a390c25b21c29aafb616bd2c827352ffe", null ],
-    [ "JustSummoned", "dd/da8/a21067.html#a2c321419548e8ce151d639c3fbd7b1b4", null ],
-    [ "MoveInLineOfSight", "dd/da8/a21067.html#a798009bca30677a645529b1313cc89ae", null ],
-    [ "Reset", "dd/da8/a21067.html#ad548ae65a05f600487a57899760ebab0", null ],
-    [ "UpdateEscortAI", "dd/da8/a21067.html#aba8043fca75864e583da9c5167efce3b", null ],
-    [ "WaypointReached", "dd/da8/a21067.html#aae9f3ac55a3008fcc88d78c907056827", null ],
-    [ "WaypointReached", "dd/da8/a21067.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "_checkTimer", "dd/da8/a21067.html#aa6fda2f2b1d3405bd1aca66e37abbcd8", null ],
-    [ "_isSummoning", "dd/da8/a21067.html#a339bf4c5ef6449d42aa3c36759a99aa4", null ]
+    [ "achievement_nerf_gravity_bombs", "dd/da8/a21067.html#a8aefe3a8836e38c9133e7baf724dc469", null ],
+    [ "OnCheck", "dd/da8/a21067.html#a3a1f9dc7218dfd8345412b338e447b72", null ]
 ];

@@ -1,6 +1,7 @@
 var a15975 =
 [
-    [ "npc_murkdeepAI", "db/da5/a15979.html", "db/da5/a15979" ],
-    [ "npc_murkdeep", "d9/d13/a15975.html#a72d44d786bcba4dea5ccedd33e7dbd3c", null ],
-    [ "GetAI", "d9/d13/a15975.html#ab9f8faa3adaf1f251e1248fbe0f46468", null ]
+    [ "npc_prophet_velen", "d9/d13/a15975.html#a6f35fa9af478e1bb8fbbdda97845d067", null ],
+    [ "JustDied", "d9/d13/a15975.html#a8f1e689b5597bc1c8c810bafe2ad0330", null ],
+    [ "Reset", "d9/d13/a15975.html#a5beec39fd545129d0f124bb19524f95c", null ],
+    [ "UpdateAI", "d9/d13/a15975.html#a2d016ecfedc5c7e886e7412081b54792", null ]
 ];

@@ -1,6 +1,6 @@
 var a19767 =
 [
-    [ "DespawnTime", "d8/d0d/a19767.html#ae14c357137f16666c74e5f7e3f77aed5", null ],
-    [ "End", "d8/d0d/a19767.html#ac87ea314ccf946eb1fa35985e35c81fd", null ],
-    [ "Start", "d8/d0d/a19767.html#a985271de503fa704a58abe3e64c3b268", null ]
+    [ "npc_teslaAI", "d1/d2b/a19771.html", "d1/d2b/a19771" ],
+    [ "npc_tesla", "d8/d0d/a19767.html#ae74ad52adbf4a160ef0c7cf97e4faea0", null ],
+    [ "GetAI", "d8/d0d/a19767.html#a00d0e2ee0a8c20ed64dd2012f244a760", null ]
 ];

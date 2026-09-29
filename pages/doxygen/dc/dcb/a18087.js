@@ -1,6 +1,6 @@
 var a18087 =
 [
-    [ "npc_igb_ship_crewAI", "dc/dcb/a18087.html#a3ca741b305e3235b0521f094d7abe732", null ],
-    [ "CanAIAttack", "dc/dcb/a18087.html#a2c834dc151493957fc116865699ae7f5", null ],
-    [ "_instance", "dc/dcb/a18087.html#a288bd5f8b4eaed7b1a960ed738330ae4", null ]
+    [ "npc_zafod_boomboxAI", "d9/dc0/a18091.html", "d9/dc0/a18091" ],
+    [ "npc_zafod_boombox", "dc/dcb/a18087.html#a7124746ed3f25ae6d96a2fa1910d98d0", null ],
+    [ "GetAI", "dc/dcb/a18087.html#af80f6913cef53d39cafdcd47b2cd07f0", null ]
 ];

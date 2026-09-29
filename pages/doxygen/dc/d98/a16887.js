@@ -1,6 +1,8 @@
 var a16887 =
 [
-    [ "boss_grand_championAI", "dd/da6/a16891.html", "dd/da6/a16891" ],
-    [ "boss_grand_champion", "dc/d98/a16887.html#a9577f8af5e234b3aebd7567841b867e2", null ],
-    [ "GetAI", "dc/d98/a16887.html#aa60972482ef16329d7ffc0a7ccf2d03e", null ]
+    [ "npc_toc5_player_vehicleAI", "dc/d98/a16887.html#afa00a6254b482aae5397be04860ac8ba", null ],
+    [ "BeforeSpellClick", "dc/d98/a16887.html#aac7db7f40b47a9c098c98bacb7569faf", null ],
+    [ "OnCharmed", "dc/d98/a16887.html#ace805882a25a9d075d811714e607fa2b", null ],
+    [ "PassengerBoarded", "dc/d98/a16887.html#aca35804df751185193ff5865255d3687", null ],
+    [ "Reset", "dc/d98/a16887.html#a5439b98d544124836d2cf9762f764cea", null ]
 ];

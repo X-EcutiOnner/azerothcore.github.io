@@ -1,5 +1,5 @@
 var a28875 =
 [
-    [ "go_transport_the_purple_princess", "d4/d15/a28875.html#ab0c79197964857d578036693a2c18e8a", null ],
-    [ "EventInform", "d4/d15/a28875.html#ac5b73f1bea180797169138f8e9228783", null ]
+    [ "npc_sunwell_gate", "d4/d15/a28875.html#a70643c475fe4aa6f47e0a47222b1faad", null ],
+    [ "OnQuestReward", "d4/d15/a28875.html#a760f5bef0c1f45f21698b0dcdf2d2236", null ]
 ];

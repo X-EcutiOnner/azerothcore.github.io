@@ -1,6 +1,6 @@
 var a17839 =
 [
-    [ "HandleStackDrop", "d9/d6f/a17839.html#a5c1064d764a6bfa4b3fde8bf57316e44", null ],
-    [ "PrepareAuraScript", "d9/d6f/a17839.html#a294db521fc56c4fe5e50317fedd8a86d", null ],
-    [ "Register", "d9/d6f/a17839.html#a45b1fd2c1896023d71a0916100376e57", null ]
+    [ "HandleScript", "d9/d6f/a17839.html#ace45b0d9ce3815046e842d462fdcc9b6", null ],
+    [ "PrepareSpellScript", "d9/d6f/a17839.html#a0257968b3a4d9ef3241420bbc5abb63a", null ],
+    [ "Register", "d9/d6f/a17839.html#aed524436eacc6f1dddcc2f3cb6f502fc", null ]
 ];

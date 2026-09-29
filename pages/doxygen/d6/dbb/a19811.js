@@ -1,7 +1,9 @@
 var a19811 =
 [
-    [ "npc_alexstrasza", "d6/dbb/a19811.html#a38c68ff4e0ba73218ff18c8bf95c8d4c", null ],
-    [ "AttackStart", "d6/dbb/a19811.html#ab47f439968b7e9358158eae3e31f4e29", null ],
-    [ "MoveInLineOfSight", "d6/dbb/a19811.html#acadf7b1ff63e266fd1f6eeaf533f9514", null ],
-    [ "UpdateAI", "d6/dbb/a19811.html#aec1c93eee408ecefbceec22be4b90dba", null ]
+    [ "npc_nexus_lord", "d6/dbb/a19811.html#ab66ba12059e8a028972d21afc11fb309", null ],
+    [ "AttackStart", "d6/dbb/a19811.html#aefd1ce41b00825bb81ddb6a59d835d21", null ],
+    [ "JustDied", "d6/dbb/a19811.html#ae97f816c5fcb71343d8483345723c300", null ],
+    [ "JustEngagedWith", "d6/dbb/a19811.html#a9a5c55b8c2f85908739d68c7487f629f", null ],
+    [ "UpdateAI", "d6/dbb/a19811.html#acdd7954382f0de84e90d329ec0720a6d", null ],
+    [ "timer", "d6/dbb/a19811.html#a42a9c4d7b1251357cd73a7ad2c410d82", null ]
 ];

@@ -1,7 +1,7 @@
 var a12935 =
 [
-    [ "boss_warmaster_voone", "df/d09/a12935.html#a5dd3b0140dda8ef141c9598a427f6633", null ],
-    [ "DamageTaken", "df/d09/a12935.html#a48e135857ef9e7e524e07ed979f137e6", null ],
-    [ "ExecuteEvent", "df/d09/a12935.html#a2ff38398f38e61f91bd1aa7222867fd3", null ],
-    [ "JustEngagedWith", "df/d09/a12935.html#a961113ecf4c46f52001d153a60ea238a", null ]
+    [ "boss_urok_doomhowl", "df/d09/a12935.html#af1ee215f3d8d6471587ef184bdb0d47c", null ],
+    [ "InitializeAI", "df/d09/a12935.html#acb14f233eff038e0cc2ef0b44cac5357", null ],
+    [ "JustEngagedWith", "df/d09/a12935.html#acf6c649e69b5e7104aa2ffca01fef6dc", null ],
+    [ "UpdateAI", "df/d09/a12935.html#aff302dd58a2f0ef8d801b0b6813d3233", null ]
 ];

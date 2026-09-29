@@ -1,11 +1,8 @@
 var a14295 =
 [
-    [ "npc_valkyr_battle_maiden", "d7/d01/a14295.html#a718f5058fd6d6f1d27b88991b91ef42e", null ],
-    [ "Reset", "d7/d01/a14295.html#a98bdd53f82cb30908485de8834106ef8", null ],
-    [ "UpdateAI", "d7/d01/a14295.html#a981237a3192d65117864daed0ac83197", null ],
-    [ "FlyBackTimer", "d7/d01/a14295.html#ab6843fb900cebc4659a98837a6d678a7", null ],
-    [ "phase", "d7/d01/a14295.html#a83cf215a2f4c8fea4c87c4dc43398298", null ],
-    [ "x", "d7/d01/a14295.html#a26087a56f66a399c4b444a7e226d82f3", null ],
-    [ "y", "d7/d01/a14295.html#a55eb219c646ecd63b99745792c1c8a03", null ],
-    [ "z", "d7/d01/a14295.html#af9781f785ebde34cab533cff9cf2b8db", null ]
+    [ "HandleHit", "d7/d01/a14295.html#a6a2811ee701a254e2857ae5923ec9f5f", null ],
+    [ "PrepareSpellScript", "d7/d01/a14295.html#a53f170244b390f7035e131fb5c79cb3f", null ],
+    [ "Register", "d7/d01/a14295.html#a248124b837cf71f7d422154db4581747", null ],
+    [ "Validate", "d7/d01/a14295.html#a3061dcd7b831a13b1d270732d0ee8a7e", null ],
+    [ "_emote", "d7/d01/a14295.html#a43e28dbdfcd034a2a08f6d57171462ee", null ]
 ];

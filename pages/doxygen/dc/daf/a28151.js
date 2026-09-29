@@ -1,5 +1,5 @@
 var a28151 =
 [
-    [ "achievement_sickly_gazelle", "dc/daf/a28151.html#abb613cb222c727923c4c5ce843db3a5f", null ],
-    [ "OnCheck", "dc/daf/a28151.html#a5a4fcd30c92c10a9c0fb8fc1372f3857", null ]
+    [ "achievement_bg_ic_mowed_down", "dc/daf/a28151.html#ab05387d1e14958e87123bd0fc2188445", null ],
+    [ "OnCheck", "dc/daf/a28151.html#a385e09c605084900f374090e5e19c24f", null ]
 ];

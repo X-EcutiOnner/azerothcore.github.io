@@ -1,13 +1,9 @@
 var a20859 =
 [
-    [ "npc_razorscale_dark_rune_guardian", "d2/d66/a20859.html#a539b905da508869adcc7bad601490c9f", null ],
-    [ "CanAIAttack", "d2/d66/a20859.html#a096058710ee0d02583c4402081da9f18", null ],
-    [ "GetData", "d2/d66/a20859.html#ac1bb7e2ac921fa542ec414a204117f98", null ],
-    [ "JustEngagedWith", "d2/d66/a20859.html#ac7fb0480f94e0e8ca0061947ec7fdebb", null ],
-    [ "Reset", "d2/d66/a20859.html#afd7fcb578ea65c7a060215257bcc5589", null ],
-    [ "SetData", "d2/d66/a20859.html#a7adbb5b9fa95e7ab73ac5acf81ffefdc", null ],
-    [ "UpdateAI", "d2/d66/a20859.html#ab4ab3b501994c55ce6c2a7b01b8ca70b", null ],
-    [ "_events", "d2/d66/a20859.html#a6faba05e56bdbd4453ee44f9de7dca2d", null ],
-    [ "_instance", "d2/d66/a20859.html#aa392619b8e14ec4092e78cfdfe367858", null ],
-    [ "_killed", "d2/d66/a20859.html#af9dafde2780d5be7a6e22025299dc013", null ]
+    [ "npc_razorscale_harpoon_fire_state", "d2/d66/a20859.html#a5bcb95382dc80bae1f4f05c306fb52bf", null ],
+    [ "DoAction", "d2/d66/a20859.html#aa7a12bae703c1a7d215dc0181f9ad532", null ],
+    [ "GetData", "d2/d66/a20859.html#ae552669fbd1a66a457cc30a2ed13c8fd", null ],
+    [ "Reset", "d2/d66/a20859.html#aad5f2d32fffaacec3485b0743f4267aa", null ],
+    [ "SpellHit", "d2/d66/a20859.html#a660573750d12c82394a9f911a3973e02", null ],
+    [ "_repairProgress", "d2/d66/a20859.html#af1c14d6762f9fc9f3a78f040a544bde4", null ]
 ];

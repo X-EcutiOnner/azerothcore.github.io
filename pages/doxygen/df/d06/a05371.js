@@ -1,8 +1,9 @@
 var a05371 =
 [
-    [ "LocationInfoCallback", "df/d06/a05371.html#a81b8c00fcc0a1780445ffbdf85decfdf", null ],
-    [ "operator()", "df/d06/a05371.html#abd524e5a87daa798258d7851c526cd88", null ],
-    [ "locInfo", "df/d06/a05371.html#a9a8b8529a571b3652cd898b2888d8027", null ],
-    [ "prims", "df/d06/a05371.html#a19c87ad1c9665c3ddfbfa89ccdee5c10", null ],
-    [ "result", "df/d06/a05371.html#a1ada8b8a1742f02b2d1f28ee82903246", null ]
+    [ "MapRayCallback", "df/d06/a05371.html#a1a4a654bc929dab5b5a2804c4b88389d", null ],
+    [ "didHit", "df/d06/a05371.html#a9d9abb0a5ffff131d2c19e88c3c8b836", null ],
+    [ "operator()", "df/d06/a05371.html#ad8ab3eee3fc3a1888a9ff11edfd946b8", null ],
+    [ "flags", "df/d06/a05371.html#a88d1e6d6fa43608bcee21a822488f061", null ],
+    [ "hit", "df/d06/a05371.html#a6fc14ac7ae20effec9d2657a46b838fc", null ],
+    [ "prims", "df/d06/a05371.html#a389d8ee31e0cb665bfd9084d786750c5", null ]
 ];

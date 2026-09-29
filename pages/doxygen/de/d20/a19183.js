@@ -1,6 +1,6 @@
 var a19183 =
 [
-    [ "npc_impaling_spearAI", "db/dc4/a19187.html", "db/dc4/a19187" ],
-    [ "npc_impaling_spear", "de/d20/a19183.html#af546ed9684fc085ad651bf5bd93e5bf7", null ],
-    [ "GetAI", "de/d20/a19183.html#aad49164a3e7541b755c1c622b996bb9a", null ]
+    [ "npc_captain_rupertAI", "de/d20/a19183.html#ae91de64c440e71e612f34e37b90076d5", null ],
+    [ "Reset", "de/d20/a19183.html#a8ebaca725aba2c3aed8856fb23228ae1", null ],
+    [ "UpdateAI", "de/d20/a19183.html#a2edf4e51c9a5bde61a1875c067e963f2", null ]
 ];

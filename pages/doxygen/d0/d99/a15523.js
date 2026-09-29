@@ -1,6 +1,7 @@
 var a15523 =
 [
-    [ "instance_ragefire_chasm_InstanceMapScript", "dc/d4f/a15527.html", "dc/d4f/a15527" ],
-    [ "instance_ragefire_chasm", "d0/d99/a15523.html#ab7f27d3e73b24d16dcf9b114f7dd4b36", null ],
-    [ "GetInstanceScript", "d0/d99/a15523.html#a0568996a61ef91688b9f223cb3782e5a", null ]
+    [ "FilterFissures", "d0/d99/a15523.html#a5c88837cfdfce5cc197d63067850ce3b", null ],
+    [ "HandleActivateObject", "d0/d99/a15523.html#ac43b70df32192567486491684806332f", null ],
+    [ "PrepareSpellScript", "d0/d99/a15523.html#acb2e787b262a09ecdf9595cb51373084", null ],
+    [ "Register", "d0/d99/a15523.html#a1d44f41719e467a001468b73306d9556", null ]
 ];

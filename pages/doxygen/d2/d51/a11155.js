@@ -1,5 +1,5 @@
 var a11155 =
 [
-    [ "AcceptGuildInvite", "d2/d51/a11155.html#a4453fc550871082f6295d9229eef265a", null ],
-    [ "Read", "d2/d51/a11155.html#a3d39b917ca2650f645ccce12cdc1a1e0", null ]
+    [ "GuildDeclineInvitation", "d2/d51/a11155.html#a11a70a9974bb139e53f76c8b78944fe7", null ],
+    [ "Read", "d2/d51/a11155.html#ad034438e18a7feddbac376a599c1e01a", null ]
 ];

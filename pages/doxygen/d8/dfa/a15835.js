@@ -1,6 +1,5 @@
 var a15835 =
 [
-    [ "instance_temple_of_ahnqiraj_InstanceMapScript", "d5/d28/a15839.html", "d5/d28/a15839" ],
-    [ "instance_temple_of_ahnqiraj", "d8/dfa/a15835.html#a316c5e2cac59f2ee2520fba1b97407e3", null ],
-    [ "GetInstanceScript", "d8/dfa/a15835.html#a9e3060d9f2188f410da8aa3e9526e79d", null ]
+    [ "npc_toxic_slime", "d8/dfa/a15835.html#a4c3a03916280342ec9aec07049de161f", null ],
+    [ "InitializeAI", "d8/dfa/a15835.html#ae69f228040aaa5bc4df40a652f551992", null ]
 ];

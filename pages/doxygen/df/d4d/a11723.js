@@ -1,6 +1,6 @@
 var a11723 =
 [
-    [ "PushQuestToParty", "df/d4d/a11723.html#a3c49c83653ef26f2dcaf5c73c29066e0", null ],
-    [ "Read", "df/d4d/a11723.html#aacb4c91a7fa1cd2c7db6dd9b7825e70c", null ],
-    [ "QuestId", "df/d4d/a11723.html#a0d30347159622093b52d0936d93a63bf", null ]
+    [ "TotemDestroyed", "df/d4d/a11723.html#a3bcaa030b2c15d54617564cf0f5e4c36", null ],
+    [ "Read", "df/d4d/a11723.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2", null ],
+    [ "Slot", "df/d4d/a11723.html#a41eebde65aa696c2dec812da0aeab633", null ]
 ];

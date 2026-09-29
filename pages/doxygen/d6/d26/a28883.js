@@ -1,5 +1,5 @@
 var a28883 =
 [
-    [ "npc_harrowmeiser", "d6/d26/a28883.html#a30a44ae739447e14ded0c0af6c73e76e", null ],
-    [ "OnGossipHello", "d6/d26/a28883.html#a3d4b6bc9a85315b0f31347068b3c5317", null ]
+    [ "go_transport_the_thundercaller", "d6/d26/a28883.html#a79d5ed60a112c5f352f9f0b94f9f3a17", null ],
+    [ "EventInform", "d6/d26/a28883.html#ad2e981ff6223ec2cbd8a897485a61204", null ]
 ];

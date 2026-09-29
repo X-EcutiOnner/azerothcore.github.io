@@ -1,7 +1,5 @@
 var a29211 =
 [
-    [ "Class", "dc/db1/a29211.html#abaaa0cd4d1b7f3ef5b297c5afdbc99fe", null ],
-    [ "Gender", "dc/db1/a29211.html#aba6251a7020c6e66b9fc7a21859df271", null ],
-    [ "ItemId", "dc/db1/a29211.html#a7d17ef6151f6b746223e44164ab5c20d", null ],
-    [ "Race", "dc/db1/a29211.html#aee768679c4b8ee7cd28ea3fa899206e3", null ]
+    [ "ID", "dc/db1/a29211.html#a4f030d8b8b87aff67e0d8319c6b53310", null ],
+    [ "price", "dc/db1/a29211.html#a9b81ec4b4638763b738862d6c184e2a9", null ]
 ];

@@ -1,8 +1,6 @@
 var a28823 =
 [
-    [ "npc_minion_spawner", "db/dec/a28823.html#ab49641074ae46f21a3fdc1c2f71396ba", null ],
-    [ "CanSpawnRareMinion", "db/dec/a28823.html#a007376c8f66a3963651f81ddd14cbbfc", null ],
-    [ "JustSummoned", "db/dec/a28823.html#a1742c98edca62e3d80a32f33d6ed2f97", null ],
-    [ "Reset", "db/dec/a28823.html#a0b55c1648c37399ad99d340bdf20cb49", null ],
-    [ "UpdateAI", "db/dec/a28823.html#a24f93f1314bb73edb369e188eda83104", null ]
+    [ "npc_necropolis_proxy", "db/dec/a28823.html#a73f92ee73673172989d48064e5984db0", null ],
+    [ "SpellHit", "db/dec/a28823.html#a90d1ab55683a6409403e24291643cca5", null ],
+    [ "SpellHitTarget", "db/dec/a28823.html#a79ee941ff32f8bbb1b93242f46a91c1a", null ]
 ];

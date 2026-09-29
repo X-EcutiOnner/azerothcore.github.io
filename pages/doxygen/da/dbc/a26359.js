@@ -1,6 +1,6 @@
 var a26359 =
 [
-    [ "HandleEffect", "da/dbc/a26359.html#a41b46d8918b59a1617f383b3eedfe343", null ],
-    [ "PrepareSpellScript", "da/dbc/a26359.html#acfc69e6323292e6c64fbe8d2e10efcdc", null ],
-    [ "Register", "da/dbc/a26359.html#a78f1476ed28eb1e80356dbf3d32918f5", null ]
+    [ "CheckCast", "da/dbc/a26359.html#a14bd28450fb989b1deb1854e2118cb6b", null ],
+    [ "PrepareSpellScript", "da/dbc/a26359.html#a2a53af0cc911e1a68b365d692df1f0af", null ],
+    [ "Register", "da/dbc/a26359.html#a67c43c4dabfb72ca54c160228b4b21c0", null ]
 ];

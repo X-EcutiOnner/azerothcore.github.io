@@ -1,6 +1,8 @@
 var a21451 =
 [
-    [ "npc_ritual_channelerAI", "d7/d62/a21455.html", "d7/d62/a21455" ],
-    [ "npc_ritual_channeler", "de/d81/a21451.html#adab372002549b009e3f937ec67e49f3f", null ],
-    [ "GetAI", "de/d81/a21451.html#aa416545438d701cbfc2567ba5ae536c8", null ]
+    [ "CountTargets", "de/d81/a21451.html#aaf8528038c6b3172d4810ed773f71644", null ],
+    [ "HandleDummy", "de/d81/a21451.html#ac5fa1dd078656f7ae182ec18eddacfe3", null ],
+    [ "PrepareSpellScript", "de/d81/a21451.html#a1f31273cb1826cd07196eacfbdc46673", null ],
+    [ "Register", "de/d81/a21451.html#adce6a5d920ac616dc0579fcd96c49288", null ],
+    [ "_targetCount", "de/d81/a21451.html#acfd8832cb9a197dddb034a003b318911", null ]
 ];

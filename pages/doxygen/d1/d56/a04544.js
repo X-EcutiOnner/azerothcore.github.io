@@ -1,15 +1,11 @@
 var a04544 =
 [
-    [ "SpellProcCooldownTest", "dc/d28/a30115.html", "dc/d28/a30115" ],
-    [ "TEST_F", "d1/d56/a04544.html#ac30c03da32748e0bf7f658b9eff19f67", null ],
-    [ "TEST_F", "d1/d56/a04544.html#a877730b0890fd65b53503d867be13db2", null ],
-    [ "TEST_F", "d1/d56/a04544.html#a46fee264bedefac5bf751dc80e5175ca", null ],
-    [ "TEST_F", "d1/d56/a04544.html#a370529a902674d7c3d85a958b68f014a", null ],
-    [ "TEST_F", "d1/d56/a04544.html#a63a215a846e19ee49b60cd43e3a95dbb", null ],
-    [ "TEST_F", "d1/d56/a04544.html#af3b499c25e76cc981b8b7c898e661285", null ],
-    [ "TEST_F", "d1/d56/a04544.html#aa2595c13ca0ad6ce6afda0196d0c86ae", null ],
-    [ "TEST_F", "d1/d56/a04544.html#afba7de9d87f646093469d0f6820b2217", null ],
-    [ "TEST_F", "d1/d56/a04544.html#a64a32de59b301ddb3b2a8827bacd43cf", null ],
-    [ "TEST_F", "d1/d56/a04544.html#a4828c96b86819a1f862c5c123463c3f6", null ],
-    [ "TEST_F", "d1/d56/a04544.html#a980784573aa4ae1d2fda4349c9290425", null ]
+    [ "SpellCritDamageBonusOrderTest", "df/d15/a30087.html", null ],
+    [ "CorrectCritOrder", "d1/d56/a04544.html#ab55aeffce172b7e667fdcb86ba06d954", null ],
+    [ "OldWrongCritOrder", "d1/d56/a04544.html#ae0ad4b3cd3c2381976fd6106fc4f8088", null ],
+    [ "TEST_F", "d1/d56/a04544.html#aa932f572f1a8831ecf4bc5475b7598fb", null ],
+    [ "TEST_F", "d1/d56/a04544.html#a2f98b8f734392902e0cd2dc96a8ef637", null ],
+    [ "TEST_F", "d1/d56/a04544.html#ae30b40dccd8a24d78d006e8e9ac63f19", null ],
+    [ "TEST_F", "d1/d56/a04544.html#a4172aa23985d10af03e6a92c7fa9dd2e", null ],
+    [ "TEST_F", "d1/d56/a04544.html#ad8c6026ca0167ae177e227997c8e2388", null ]
 ];

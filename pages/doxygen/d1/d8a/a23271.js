@@ -1,6 +1,6 @@
 var a23271 =
 [
-    [ "boss_doomlordkazzakAI", "d7/d2f/a23275.html", "d7/d2f/a23275" ],
-    [ "boss_doomlord_kazzak", "d1/d8a/a23271.html#ae4e4844d584ba71ebd3d8a341ba91462", null ],
-    [ "GetAI", "d1/d8a/a23271.html#a460a32ce37aae852b48f1990406da9a4", null ]
+    [ "OnPeriodic", "d1/d8a/a23271.html#aef6afe014ce90711cd7628563aada2a4", null ],
+    [ "PrepareAuraScript", "d1/d8a/a23271.html#a40a98b79b445d3cebe3f195cb9c03a80", null ],
+    [ "Register", "d1/d8a/a23271.html#a44c261ff549ddf0b1dad5ae6d0ff2432", null ]
 ];

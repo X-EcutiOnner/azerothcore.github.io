@@ -1,6 +1,10 @@
 var a10311 =
 [
-    [ "AllowMount", "da/d70/a10311.html#a611108f0c1f623bb0761a174e477df22", null ],
-    [ "Parent", "da/d70/a10311.html#a6298c3dd0c8939b1cf228727c363918e", null ],
-    [ "ScriptId", "da/d70/a10311.html#ac9cdaf7fc486bc89b5c5d95ac13146da", null ]
+    [ "ZoneDynamicInfo", "da/d70/a10311.html#a0542940fdcc273a4ff8a8e8bb6a40b1f", null ],
+    [ "DefaultWeather", "da/d70/a10311.html#a8c2c7772596ec58413bee2077e46790f", null ],
+    [ "LightFadeInTime", "da/d70/a10311.html#a0be8cff9a7e74add7bba8af3be993e48", null ],
+    [ "MusicId", "da/d70/a10311.html#a3ab0244b34c30cc7d929b418da31d7d3", null ],
+    [ "OverrideLightId", "da/d70/a10311.html#a0d43acd5539d3449b7c36ee88518346e", null ],
+    [ "WeatherGrade", "da/d70/a10311.html#a923c3231c49554addd1522f0ccc50e2d", null ],
+    [ "WeatherId", "da/d70/a10311.html#a4df1e694992a3c2638460601e4c4d7c9", null ]
 ];

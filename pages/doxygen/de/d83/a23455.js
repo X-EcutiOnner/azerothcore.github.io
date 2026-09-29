@@ -1,11 +1,7 @@
 var a23455 =
 [
-    [ "boss_ahune", "de/d83/a23455.html#aa3d15e1ab37843761d9f7c56d2e5a319", null ],
-    [ "DoAction", "de/d83/a23455.html#a9e197e8a5ecbad8487c7bad7647e6d2c", null ],
-    [ "Emerge", "de/d83/a23455.html#a6404a8255566f2eaa061a89025e2bdcd", null ],
-    [ "EnterEvadeMode", "de/d83/a23455.html#a2b906881621e59143a916c588beb70e7", null ],
-    [ "ExecuteEvent", "de/d83/a23455.html#a46b477aef635de1d3ec88baa2465089f", null ],
-    [ "JustDied", "de/d83/a23455.html#af2fc7c071321653a644ee569ead67d63", null ],
-    [ "JustEngagedWith", "de/d83/a23455.html#aaffc4f54544c8aa4529b249560ddeeec", null ],
-    [ "Submerge", "de/d83/a23455.html#aad68758720cc1cb703f8f2dc72c09af2", null ]
+    [ "HandleEffectRemove", "de/d83/a23455.html#abfd43cd8e9df873e6c0867779bad13c1", null ],
+    [ "HandlePeriodic", "de/d83/a23455.html#a5137e24394fa14129c44d92c79eef117", null ],
+    [ "PrepareAuraScript", "de/d83/a23455.html#ac1f10b9e9d9883c25e28ae313242d41e", null ],
+    [ "Register", "de/d83/a23455.html#a69108d90f7c3fa95adfc29c14bd8c9fe", null ]
 ];

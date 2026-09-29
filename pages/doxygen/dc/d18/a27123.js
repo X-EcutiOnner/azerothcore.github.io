@@ -1,8 +1,7 @@
 var a27123 =
 [
-    [ "CheckProc", "dc/d18/a27123.html#ae431b65ed505bbc483244ef50c2d35c8", null ],
-    [ "HandleProc", "dc/d18/a27123.html#ab744f28533935c4a236f0635bbe6465c", null ],
-    [ "PrepareAuraScript", "dc/d18/a27123.html#a7a531ef1c65bdb0d8001956454a43cd3", null ],
-    [ "Register", "dc/d18/a27123.html#a8919dc1d487413f54e4a99002350f8d8", null ],
-    [ "Validate", "dc/d18/a27123.html#aad134b5ef026a8a58ae233090ca01986", null ]
+    [ "CheckProc", "dc/d18/a27123.html#adc34c24521c893499c72bc0fe8a946eb", null ],
+    [ "PrepareAuraScript", "dc/d18/a27123.html#a1e7cf41ceb818d7d234c1b998e7280be", null ],
+    [ "Register", "dc/d18/a27123.html#a60a2902196abf3239fe6b8f7defcd609", null ],
+    [ "Validate", "dc/d18/a27123.html#a13e108f88a07f0b46291cdc718022437", null ]
 ];

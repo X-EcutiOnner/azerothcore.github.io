@@ -1,7 +1,5 @@
 var a19883 =
 [
-    [ "HandlePull", "d0/d13/a19883.html#a05e6155abeb2720923ddf0d8cae54feb", null ],
-    [ "PrepareSpellScript", "d0/d13/a19883.html#ac192245513e162a2842e47f5b0d64338", null ],
-    [ "Register", "d0/d13/a19883.html#af6c7a881c2fcf07461006fef63074e5e", null ],
-    [ "SelectTarget", "d0/d13/a19883.html#aabee5b6b8f3ba7e2cf91bcb05ce7929d", null ]
+    [ "achievement_intense_cold", "d0/d13/a19883.html#a2377357d6bfc03e5b91354428d3da3de", null ],
+    [ "OnCheck", "d0/d13/a19883.html#ab8a774af80a7fb1764df97c9eea57ffc", null ]
 ];

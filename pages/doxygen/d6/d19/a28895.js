@@ -1,6 +1,5 @@
 var a28895 =
 [
-    [ "X", "d6/d19/a28895.html#a55bda49b2eb919415afaf780ca1977de", null ],
-    [ "Y", "d6/d19/a28895.html#a0bf22799258050a9b12ddc14bb2b4b11", null ],
-    [ "Z", "d6/d19/a28895.html#a7f0ceece775146d825d19a3cd22e5da3", null ]
+    [ "npc_harrowmeiser", "d6/d19/a28895.html#a30a44ae739447e14ded0c0af6c73e76e", null ],
+    [ "OnGossipHello", "d6/d19/a28895.html#a3d4b6bc9a85315b0f31347068b3c5317", null ]
 ];

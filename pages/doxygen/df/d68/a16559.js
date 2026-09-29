@@ -1,10 +1,7 @@
 var a16559 =
 [
-    [ "boss_sartharion_tenebron", "df/d68/a16559.html#aed0f47aa2ed463ae0d2219e54e7b91bc", null ],
-    [ "ClearInstance", "df/d68/a16559.html#ac21b27a510d6c087d19bebe2b2a5426b", null ],
-    [ "ExecuteEvent", "df/d68/a16559.html#ad61c290ccbd36d9b1bb24d6c44f390c3", null ],
-    [ "JustDied", "df/d68/a16559.html#aa57a9180c2fbc2441622a6b3b4fd1fb1", null ],
-    [ "JustSummoned", "df/d68/a16559.html#ae4e49d7bee95c929ece64beeca940a0a", null ],
-    [ "Reset", "df/d68/a16559.html#a5bd12ada3fc396478ebbe39329aaf74b", null ],
-    [ "summons2", "df/d68/a16559.html#a59b131fcd2298640390fcd0f662f132d", null ]
+    [ "HandleScriptEffect", "df/d68/a16559.html#a6f21f546303327f2d32f1dbc03dc21d9", null ],
+    [ "PrepareSpellScript", "df/d68/a16559.html#a392c40d469c3c1e816d5dc364fde824c", null ],
+    [ "Register", "df/d68/a16559.html#aa59c26b25ca0f440de36e450adf050a5", null ],
+    [ "Validate", "df/d68/a16559.html#a370f83112d901f9565734b11d12858f4", null ]
 ];

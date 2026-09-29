@@ -1,6 +1,7 @@
 var a03617 =
 [
-    [ "instance_maraudon", "d1/d9b/a15495.html", "d1/d9b/a15495" ],
-    [ "instance_maraudon::instance_maraudon_InstanceMapScript", "d7/d24/a15499.html", "d7/d24/a15499" ],
-    [ "AddSC_instance_maraudon", "d4/d35/a03617.html#a6ab7baf162a5cf99b16fb0a26d7973cb", null ]
+    [ "CompareThreatLessThan", "df/dd4/a08323.html", "df/dd4/a08323" ],
+    [ "ThreatManager", "de/dfe/a08327.html", "de/dfe/a08327" ],
+    [ "ThreatManager::ThreatListIterator", "d5/d2f/a08331.html", "d5/d2f/a08331" ],
+    [ "ThreatReference", "d6/d21/a08335.html", "d6/d21/a08335" ]
 ];

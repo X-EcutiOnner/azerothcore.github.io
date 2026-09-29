@@ -1,5 +1,6 @@
 var a19563 =
 [
-    [ "PrepareSpellScript", "dd/db5/a19563.html#a09b852666752f6adde3f9e5bb1f107bc", null ],
-    [ "Register", "dd/db5/a19563.html#a80c3077f8f689367276e1054a6236681", null ]
+    [ "boss_gluthAI", "d5/dea/a19567.html", "d5/dea/a19567" ],
+    [ "boss_gluth", "dd/db5/a19563.html#a3ff6e361cd6799f41d00fa75784c4f76", null ],
+    [ "GetAI", "dd/db5/a19563.html#a3b19c938aaecc897d6552715064be7f8", null ]
 ];

@@ -1,5 +1,8 @@
 var a15955 =
 [
-    [ "go_bristlelimb_cage", "d4/dc9/a15955.html#ab965b9c529577a5e58639285fa35d3d7", null ],
-    [ "OnGossipHello", "d4/dc9/a15955.html#a6f29e07550767c1c0610f46e4921503f", null ]
+    [ "npc_death_ravagerAI", "d4/dc9/a15955.html#ad18242b078db0883029537562a41cc20", null ],
+    [ "Reset", "d4/dc9/a15955.html#ac0fdbfe2f324785569fa742e0b244b83", null ],
+    [ "UpdateAI", "d4/dc9/a15955.html#ac3dce7d79e67f20d7a8fe161da9d5279", null ],
+    [ "EnragingBiteTimer", "d4/dc9/a15955.html#af33898ebd9bea6b1a58b673373de3c64", null ],
+    [ "RendTimer", "d4/dc9/a15955.html#ad7ff02fe6e11a0fb0d8a3ae869ed5f6d", null ]
 ];

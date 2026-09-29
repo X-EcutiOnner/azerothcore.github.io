@@ -1,11 +1,19 @@
 var a00482 =
 [
-    [ "Movement::counter< T, limit >", "d4/d3b/a10579.html", "d4/d3b/a10579" ],
-    [ "UInt32Counter", "db/d8e/a00482.html#adebd21803156b193f9b8a733b6cbd3c7", null ],
-    [ "computeFallElevation", "db/d8e/a00482.html#a87260372150c8322b45e75bfaa445f14", null ],
-    [ "computeFallTime", "db/d8e/a00482.html#a40f989c23fe19e12628da3cd9e64edf4", null ],
-    [ "MSToSec", "db/d8e/a00482.html#aefc83834e7badc5f8450322da9567bd6", null ],
-    [ "SecToMS", "db/d8e/a00482.html#a418fff34f8aed72d6d80876be5a33c58", null ],
-    [ "gravity", "db/d8e/a00482.html#a15b376933a666c7f7c4600e62d7afe91", null ],
-    [ "splineIdGen", "db/d8e/a00482.html#a5149db3325f467381006d8d5df24a2a8", null ]
+    [ "boss_mekgineer_steamrigger", "d7/dfb/a23559.html", "d7/dfb/a23559" ],
+    [ "MekgineerSteamrigger", "db/d8e/a00482.html#a4766bad7859befee09dc2ce208e1c4dd", [
+      [ "SAY_MECHANICS", "db/d8e/a00482.html#a4766bad7859befee09dc2ce208e1c4ddac616ae8f03c32cc59f26b5337aae84ba", null ],
+      [ "SAY_AGGRO", "db/d8e/a00482.html#a4766bad7859befee09dc2ce208e1c4dda47c752fff069f3e55065795eef2a9bfe", null ],
+      [ "SAY_SLAY", "db/d8e/a00482.html#a4766bad7859befee09dc2ce208e1c4dda9e64f6e600dd42567d18006912811f75", null ],
+      [ "SAY_DEATH", "db/d8e/a00482.html#a4766bad7859befee09dc2ce208e1c4dda04c962d9b6aaafde54ff92a54369135e", null ],
+      [ "SPELL_SUPER_SHRINK_RAY", "db/d8e/a00482.html#a4766bad7859befee09dc2ce208e1c4dda4499c6dfeb4c15552b20d4bdc0e63edd", null ],
+      [ "SPELL_SAW_BLADE", "db/d8e/a00482.html#a4766bad7859befee09dc2ce208e1c4ddabe5ec412b26a2ffb5cd6071f90620e58", null ],
+      [ "SPELL_ELECTRIFIED_NET", "db/d8e/a00482.html#a4766bad7859befee09dc2ce208e1c4dda8af7ec94d6adf009820da95c833d041a", null ],
+      [ "SPELL_ENRAGE", "db/d8e/a00482.html#a4766bad7859befee09dc2ce208e1c4dda2a20f56307679be4d4f01a0d3d93cc7e", null ],
+      [ "SPELL_SUMMON_MECHANICS_1", "db/d8e/a00482.html#a4766bad7859befee09dc2ce208e1c4dda48f35e8fc2aae6e24c0616e4c1b13d01", null ],
+      [ "SPELL_SUMMON_MECHANICS_2", "db/d8e/a00482.html#a4766bad7859befee09dc2ce208e1c4ddae60e2ad853b074c2f53e31ca1e5f8ff1", null ],
+      [ "SPELL_SUMMON_MECHANICS_3", "db/d8e/a00482.html#a4766bad7859befee09dc2ce208e1c4dda5059715773c9ffed1b3ef2ff2c8f289c", null ],
+      [ "NPC_STREAMRIGGER_MECHANIC", "db/d8e/a00482.html#a4766bad7859befee09dc2ce208e1c4dda6eb80a7e6891ababaf4ac14b1d9f890e", null ]
+    ] ],
+    [ "AddSC_boss_mekgineer_steamrigger", "db/d8e/a00482.html#a9aa3518f4196a7c844ab6ffafbc91068", null ]
 ];

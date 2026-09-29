@@ -1,11 +1,6 @@
 var a16503 =
 [
-    [ "spell_hadronox_summon_periodic_aura", "d7/df9/a16503.html#a80cbba741e8005a89a1bbf47a5fc82fb", null ],
-    [ "HandlePeriodic", "d7/df9/a16503.html#a048695baf71d307e5aaa00e54586c9f7", null ],
-    [ "OnApply", "d7/df9/a16503.html#a4466547bc1a5259a33354f2008d6cce7", null ],
-    [ "PrepareAuraScript", "d7/df9/a16503.html#a4205560054e5baed86aecba3b98fc202", null ],
-    [ "Register", "d7/df9/a16503.html#a09efdcddaed4af2833139ca20ef94376", null ],
-    [ "Validate", "d7/df9/a16503.html#a20827683249c17625242e205bb51f9e8", null ],
-    [ "_delay", "d7/df9/a16503.html#abdcc08812e4cf771d4d845ebbbf68790", null ],
-    [ "_spellEntry", "d7/df9/a16503.html#a52e45512e2bbe34b0bdbfaa273aeb997", null ]
+    [ "npc_anub_ar_crusher_champion", "d7/df9/a16503.html#a8b8dc51f529d361b40447f6f1b398a4d", null ],
+    [ "DoEngagedWith", "d7/df9/a16503.html#a2dcef4fe57880ba725dff52455a7a428", null ],
+    [ "DoEvent", "d7/df9/a16503.html#a6dc41c4fa5531bd1999daaef3972c5a2", null ]
 ];

@@ -1,10 +1,6 @@
 var a02261 =
 [
-    [ "AutobroadcastMgr", "d3/dda/a07601.html", "d3/dda/a07601" ],
-    [ "sAutobroadcastMgr", "d7/d24/a02261.html#a34abff2dadcb74370b0749fe9fda3878", null ],
-    [ "AnnounceType", "d7/d24/a02261.html#a28a4ef2f64643c76d8be05bf9eafc731", [
-      [ "World", "d7/d24/a02261.html#a28a4ef2f64643c76d8be05bf9eafc731af5a7924e621e84c9280a9a27e1bcb7f6", null ],
-      [ "Notification", "d7/d24/a02261.html#a28a4ef2f64643c76d8be05bf9eafc731a96d008db67fc0b5551a926842bbb6a71", null ],
-      [ "Both", "d7/d24/a02261.html#a28a4ef2f64643c76d8be05bf9eafc731a130c5b3473c57faa76e2a1c54e26f88e", null ]
-    ] ]
+    [ "fireworkShowGameobjectOrgrimmar", "d7/d24/a02261.html#aa00988212bcd8875445e2b120c00025c", null ],
+    [ "fireworkShowOrgrimmar", "d7/d24/a02261.html#a20e15c8e61c734af478a4849bd54c9d3", null ],
+    [ "fireworkShowScheduleOrgrimmar", "d7/d24/a02261.html#a2e2ca4fa893601a2122f94a72c18401f", null ]
 ];

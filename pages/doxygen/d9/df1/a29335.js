@@ -1,4 +1,6 @@
 var a29335 =
 [
-    [ "base", "d9/df1/a29335.html#aecccbaadaaf541b2bbdb85d8ea08d0bd", null ]
+    [ "Id", "d9/df1/a29335.html#a5d7f2d5a2890593554ea841deb38abb2", null ],
+    [ "Order", "d9/df1/a29335.html#a16fca42d9a0a98e034a93984c4362b53", null ],
+    [ "TypeFlags", "d9/df1/a29335.html#ac7246adc7c6c3217de8ac093983b7553", null ]
 ];

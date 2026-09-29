@@ -1,9 +1,6 @@
 var a21263 =
 [
-    [ "npc_ulduar_keeperAI", "d3/d6f/a21263.html#ac69d21f3820f2c01a80ff664c317d111", null ],
-    [ "DoAction", "d3/d6f/a21263.html#a03011d04761926d67e43c0bea5a0901f", null ],
-    [ "Reset", "d3/d6f/a21263.html#a86971339e6fcbffb3c019e4dc29972b3", null ],
-    [ "SpellHit", "d3/d6f/a21263.html#a18f22ca155646a6f40e0627f9d6dc337", null ],
-    [ "UpdateAI", "d3/d6f/a21263.html#a9af455266dd2a843ac1a2c4e56d50e78", null ],
-    [ "_keeper", "d3/d6f/a21263.html#ad8cd47f6c75042d589fc6fae4603c9f2", null ]
+    [ "instance_ulduar_InstanceMapScript", "dc/d9b/a21267.html", "dc/d9b/a21267" ],
+    [ "instance_ulduar", "d3/d6f/a21263.html#a32c2a76d1cd20f2ad1ab441eafe1b682", null ],
+    [ "GetInstanceScript", "d3/d6f/a21263.html#ae263428f4229c75b22f990dabe6b3c06", null ]
 ];

@@ -1,19 +1,8 @@
 var a20031 =
 [
-    [ "boss_bjarngrim", "df/db7/a20031.html#a1bf90864479939ba3f251c38b173e23a", null ],
-    [ "InitializeWaypoints", "df/db7/a20031.html#a87eab2b27b48d98b94a030936722781e", null ],
-    [ "JustDied", "df/db7/a20031.html#a5a1ea3f7825d5a90feabc2b18865e75f", null ],
-    [ "JustEngagedWith", "df/db7/a20031.html#ad150ab7d9837861e8c4673a78978bb11", null ],
-    [ "JustRespawned", "df/db7/a20031.html#ab698e8ea0de311b167d95c01ef1bee69", null ],
-    [ "KilledUnit", "df/db7/a20031.html#abd4d83ebc59cac8cf97fa495d42675f8", null ],
-    [ "RemoveStanceAura", "df/db7/a20031.html#a55a695e27192313c6cbe263a739e669e", null ],
-    [ "Reset", "df/db7/a20031.html#a1f61ac153bb78129c89e6caba7dc7522", null ],
-    [ "RollStance", "df/db7/a20031.html#acd511435f9d77aa4839e1c856382ea51", null ],
-    [ "UpdateEscortAI", "df/db7/a20031.html#ab0c5aea43ef8c40c0af6a336dccd2b97", null ],
-    [ "WaypointReached", "df/db7/a20031.html#a9706ccb196a09fe5f16efb20578f83f0", null ],
-    [ "WaypointReached", "df/db7/a20031.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "events", "df/db7/a20031.html#ac72b38eced65a3246b4c83a82caf44cb", null ],
-    [ "m_pInstance", "df/db7/a20031.html#ad72abbd2eaa7d56fd1b409ffd2980d87", null ],
-    [ "m_uiStance", "df/db7/a20031.html#aec11755c71f056c8294a8af1c1084353", null ],
-    [ "summons", "df/db7/a20031.html#a9cacb3d985fb9e4b2501ab4b4334cdab", null ]
+    [ "HandleEffectPeriodic", "df/db7/a20031.html#abb453e3d38677be7082f2cd4e43134cc", null ],
+    [ "HandleOnEffectApply", "df/db7/a20031.html#a3ec47d5d9fdbdcfe671e02c3b0f55980", null ],
+    [ "PrepareAuraScript", "df/db7/a20031.html#ac00c6d9b1cccb38b5d87b3139295614c", null ],
+    [ "Register", "df/db7/a20031.html#ae4de4f0f2f4dc4ac98706ddd898df7c5", null ],
+    [ "Validate", "df/db7/a20031.html#a09481646f8ec90b0135d93d83cc18929", null ]
 ];

@@ -1,7 +1,6 @@
 var a19263 =
 [
-    [ "OnApply", "dc/d9c/a19263.html#a5f62c11ef96edbf6f2906bd5f41109d5", null ],
-    [ "OnRemove", "dc/d9c/a19263.html#a697a7c76f944b5df956a9de07746b7a9", null ],
-    [ "PrepareAuraScript", "dc/d9c/a19263.html#a338d0fa22368d01fe7523b7cc1acea4b", null ],
-    [ "Register", "dc/d9c/a19263.html#ab915b3ede10526b3e7ccbe33f2568fae", null ]
+    [ "OnRemove", "dc/d9c/a19263.html#a748868eb89f1fb3ccfec5ea9f8603168", null ],
+    [ "PrepareAuraScript", "dc/d9c/a19263.html#a9033a0ef5963800d13b898f7c02ff7b2", null ],
+    [ "Register", "dc/d9c/a19263.html#a7ac0cff5f8f918e7a61bbc600419d3c3", null ]
 ];

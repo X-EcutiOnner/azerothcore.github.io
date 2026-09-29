@@ -1,12 +1,9 @@
 var a02006 =
 [
-    [ "AggressorAI", "dc/d23/a06511.html", "dc/d23/a06511" ],
-    [ "CombatAI", "d6/dbd/a06515.html", "d6/dbd/a06515" ],
-    [ "CasterAI", "d9/d4b/a06519.html", "d9/d4b/a06519" ],
-    [ "ArcherAI", "d0/d65/a06523.html", "d0/d65/a06523" ],
-    [ "TurretAI", "db/d35/a06527.html", "db/d35/a06527" ],
-    [ "VehicleAI", "d5/d96/a06531.html", "d5/d96/a06531" ],
-    [ "VEHICLE_CONDITION_CHECK_TIME", "d9/de8/a02006.html#a2842973ff947088648cd327dc9e1d379", null ],
-    [ "VEHICLE_DISMISS_TIME", "d9/de8/a02006.html#a9b232fec810abbe5eaf5536e608b6e38", null ],
-    [ "SpellVct", "d9/de8/a02006.html#aef8ccdd14344d9c395d613c21bafd91e", null ]
+    [ "spell_gordunni_trap", "df/d8d/a16095.html", "df/d8d/a16095" ],
+    [ "GordunniTrapSpells", "d9/de8/a02006.html#a9070084706f8f406bab249f3de3ab1e5", [
+      [ "SPELL_GORDUNNI_DIRT_MOUND_CHEST", "d9/de8/a02006.html#a9070084706f8f406bab249f3de3ab1e5a64eb574b6b4376c663ae3a98d44cf3a6", null ],
+      [ "SPELL_GORDUNNI_DIRT_MOUND_JUNK", "d9/de8/a02006.html#a9070084706f8f406bab249f3de3ab1e5a9ea4bcd1bfa060af96a1f901c1ddfd57", null ]
+    ] ],
+    [ "AddSC_feralas", "d9/de8/a02006.html#a06e54e3edc2df068be660ac788b402e3", null ]
 ];

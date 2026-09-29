@@ -1,6 +1,9 @@
 var a20479 =
 [
-    [ "HandleScript", "d4/d33/a20479.html#a269167ff78ae3110193f7cfe4b4c0ef4", null ],
-    [ "PrepareSpellScript", "d4/d33/a20479.html#a79975a7f3e523c0feb87d3e084f98808", null ],
-    [ "Register", "d4/d33/a20479.html#aec017333dfc19701472dad3987538e69", null ]
+    [ "boss_freya_nature_bomb", "d4/d33/a20479.html#a050672942ab467557d21a930ab22827c", null ],
+    [ "Reset", "d4/d33/a20479.html#ad2a679ba554a44f28d1f09a10fc88ec9", null ],
+    [ "UpdateAI", "d4/d33/a20479.html#aae8b388dfa69896dd82557c1a4dcd135", null ],
+    [ "_explodeTimer", "d4/d33/a20479.html#a09292e899ad771d9b15d2bc21ccd5b8d", null ],
+    [ "_goGUID", "d4/d33/a20479.html#a18e66d31a4bd243ec3f7d438beacad77", null ],
+    [ "Timer", "d4/d33/a20479.html#affadb797817ddf512209d1d71097baf3", null ]
 ];

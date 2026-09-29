@@ -1,6 +1,7 @@
 var a22095 =
 [
-    [ "npc_venture_co_stragglerAI", "d3/d1a/a22099.html", "d3/d1a/a22099" ],
-    [ "npc_venture_co_straggler", "dd/d62/a22095.html#a9d928b33dfcd3a6ccb7e1f7a1964762f", null ],
-    [ "GetAI", "dd/d62/a22095.html#a5f95d20c67553ae8a27f00ebb92e3627", null ]
+    [ "HandleScriptEffect", "dd/d62/a22095.html#a2d39a073c351860db735301b4cf9c79f", null ],
+    [ "PrepareSpellScript", "dd/d62/a22095.html#a3674adaef23f1531af360a65c14efadd", null ],
+    [ "Register", "dd/d62/a22095.html#a11b217c0066217f2da5ff42ce35c9a0a", null ],
+    [ "Validate", "dd/d62/a22095.html#a3dadb61ca7dd8195ba5fdac5bf49583c", null ]
 ];

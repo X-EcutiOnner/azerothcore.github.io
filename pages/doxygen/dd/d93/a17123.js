@@ -1,10 +1,6 @@
 var a17123 =
 [
-    [ "npc_mistress_of_painAI", "dd/d93/a17123.html#ae5fd3c974a3f32540b2dee6b92cd4f7c", null ],
-    [ "EnterEvadeMode", "dd/d93/a17123.html#a31ea8955ad44ea2db0a5a208fd2efc61", null ],
-    [ "JustDied", "dd/d93/a17123.html#ae60f294f902a2f687446f7599d071e42", null ],
-    [ "Reset", "dd/d93/a17123.html#ab3c1c19817576cc4348fd2020a6aad14", null ],
-    [ "SpellHit", "dd/d93/a17123.html#a077843a7ead2034da695be816de42f9e", null ],
-    [ "UpdateAI", "dd/d93/a17123.html#a1976a80f37a0935926508f9ad6cc7bbb", null ],
-    [ "events", "dd/d93/a17123.html#a941ae1faab010551db6a8e6749993357", null ]
+    [ "npc_fel_infernalAI", "d6/d6f/a17127.html", "d6/d6f/a17127" ],
+    [ "npc_fel_infernal", "dd/d93/a17123.html#a2d2ed8cf09c97d30b6c79dcdf9153ed9", null ],
+    [ "GetAI", "dd/d93/a17123.html#a768201a7516c9972800c941cf2079a11", null ]
 ];

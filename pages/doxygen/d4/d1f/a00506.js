@@ -1,11 +1,9 @@
 var a00506 =
 [
-    [ "ChaseMovementGenerator< T >", "db/d56/a10489.html", "db/d56/a10489" ],
-    [ "FollowMovementGenerator< T >", "d5/d4a/a10493.html", "d5/d4a/a10493" ],
-    [ "ChaseMovementMode", "d4/d1f/a00506.html#af39517224af91107d618ec9d8131101d", [
-      [ "CHASE_MODE_NORMAL", "d4/d1f/a00506.html#af39517224af91107d618ec9d8131101dad82b9b74d55fa53dfd547c94f1a92cd3", null ],
-      [ "CHASE_MODE_BACKPEDAL", "d4/d1f/a00506.html#af39517224af91107d618ec9d8131101da4d0b7e85b5d121658e67d6a04c5ed0bd", null ],
-      [ "CHASE_MODE_DISTANCING", "d4/d1f/a00506.html#af39517224af91107d618ec9d8131101da216aafcb8ec8951233b472fa74108337", null ],
-      [ "CHASE_MODE_FANNING", "d4/d1f/a00506.html#af39517224af91107d618ec9d8131101dad3363c812ead03b0c7ae11cec5dfa618", null ]
-    ] ]
+    [ "instance_gruuls_lair", "de/d02/a23699.html", "de/d02/a23699" ],
+    [ "instance_gruuls_lair::instance_gruuls_lair_InstanceMapScript", "d4/dd5/a23703.html", "d4/dd5/a23703" ],
+    [ "AddSC_instance_gruuls_lair", "d4/d1f/a00506.html#a6c9bd5a761d9018e8be9e0c11b8db2c5", null ],
+    [ "creatureData", "d4/d1f/a00506.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "d4/d1f/a00506.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "minionData", "d4/d1f/a00506.html#a6720238df140a3c574a711042b7f5bd3", null ]
 ];

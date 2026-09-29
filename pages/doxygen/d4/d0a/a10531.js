@@ -1,30 +1,6 @@
 var a10531 =
 [
-    [ "PointMovementGenerator", "d4/d0a/a10531.html#a3dd92026da16159b6b53a9074c45a9ec", null ],
-    [ "DoFinalize", "d4/d0a/a10531.html#af1f16559c7683a4f6841c597d81ac310", null ],
-    [ "DoInitialize", "d4/d0a/a10531.html#af9e5b0c6f330f1a8e6382556d4c719f0", null ],
-    [ "DoReset", "d4/d0a/a10531.html#a6bcb5aa00fd281df102b3fb34dcbfea6", null ],
-    [ "DoUpdate", "d4/d0a/a10531.html#a4d1db29c07ae319f6f76d06cc4eca525", null ],
-    [ "GetDestination", "d4/d0a/a10531.html#af49ef70c422e7acbeb5cb6a55130ab61", null ],
-    [ "GetMovementGeneratorType", "d4/d0a/a10531.html#a84998a5e4e6628b4f2374fd2990fea68", null ],
-    [ "MovementInform", "d4/d0a/a10531.html#a6bb0bf8d9225906331756383ef0bb418", null ],
-    [ "Pause", "d4/d0a/a10531.html#a7605fcf7552ebc5f353eebee1a165695", null ],
-    [ "Resume", "d4/d0a/a10531.html#a6fc876bfef21154dceb3f5ceba5c148b", null ],
-    [ "unitSpeedChanged", "d4/d0a/a10531.html#a5884c1b3288f076bbc3faed37c167d5e", null ],
-    [ "_animTier", "d4/d0a/a10531.html#a091c487af48837e82f546f4be6c824e1", null ],
-    [ "_chargeTargetGUID", "d4/d0a/a10531.html#a26496f8fcfeb2097d7c4c35bfdbdb357", null ],
-    [ "_forceDestination", "d4/d0a/a10531.html#aa6a7aa15e4ea21a73bbc674da87f3f0b", null ],
-    [ "_forcedMovement", "d4/d0a/a10531.html#a64c9d44a05702654b79d035bcc65032c", null ],
-    [ "_generatePath", "d4/d0a/a10531.html#a74611835dfb7cbaeaf177caec56be417", null ],
-    [ "_hasBeenStalled", "d4/d0a/a10531.html#ae391133673b9907bc73966479bc71e95", null ],
-    [ "_pauseTime", "d4/d0a/a10531.html#af9838148fecfdb51a017c12f808fb563", null ],
-    [ "_stalled", "d4/d0a/a10531.html#ab2aa66a088a7bcf06c2b4fe6b5acf824", null ],
-    [ "i_orientation", "d4/d0a/a10531.html#a8c63903feea52d65dd4d013133207308", null ],
-    [ "i_recalculateSpeed", "d4/d0a/a10531.html#a5247656bbf2460cd4b60c207022581ec", null ],
-    [ "i_x", "d4/d0a/a10531.html#aa34a4a7d3459bb21b30bf1b242dcb306", null ],
-    [ "i_y", "d4/d0a/a10531.html#af728b5d511fde310fcc249ef26b59267", null ],
-    [ "i_z", "d4/d0a/a10531.html#a4444b62b04d24b8b77cac0ef70bed4fc", null ],
-    [ "id", "d4/d0a/a10531.html#ae5ccfacff01eae1ac14009ced2eb3fc0", null ],
-    [ "m_precomputedPath", "d4/d0a/a10531.html#a97a653d40f44d778b1ad30fd0bfba753", null ],
-    [ "speed", "d4/d0a/a10531.html#a802a423ddcd370a1f45813142070b5fd", null ]
+    [ "AssistanceMovementGenerator", "d4/d0a/a10531.html#a649b7d2833aaf895a5f6f290131c88f5", null ],
+    [ "Finalize", "d4/d0a/a10531.html#af92bc6f83b1f4b1262736bf582b13ac3", null ],
+    [ "GetMovementGeneratorType", "d4/d0a/a10531.html#a0791e081895efd553ba2048fc5b851ea", null ]
 ];

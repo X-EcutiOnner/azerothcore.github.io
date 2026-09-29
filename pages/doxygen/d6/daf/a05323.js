@@ -1,10 +1,8 @@
 var a05323 =
 [
-    [ "AreaInfo", "d6/daf/a05323.html#a7cd6d0845a1fea33d4f51deb5890f9f1", null ],
-    [ "AreaInfo", "d6/daf/a05323.html#acdd6c482f37134fdc962a55771003b5c", null ],
-    [ "adtId", "d6/daf/a05323.html#aee38e987da24645d36792a1024235035", null ],
-    [ "groupId", "d6/daf/a05323.html#a6472ad95a025769da84943fc490860e1", null ],
-    [ "mogpFlags", "d6/daf/a05323.html#ae97f4c32ecee4844f2cb0fec92cb21ec", null ],
-    [ "rootId", "d6/daf/a05323.html#a5af47da55bdcb6a92356a33112a41da5", null ],
-    [ "uniqueId", "d6/daf/a05323.html#a4496a2c21c4bca0e8acbd563de282338", null ]
+    [ "AreaInfo", "d0/d31/a05327.html", "d0/d31/a05327" ],
+    [ "LiquidInfo", "dc/d4e/a05331.html", "dc/d4e/a05331" ],
+    [ "areaInfo", "d6/daf/a05323.html#a0d30ac3fa0cefd6eafc1690c75f46f0f", null ],
+    [ "floorZ", "d6/daf/a05323.html#af7c8710b5d296c1d792b4fc34302278f", null ],
+    [ "liquidInfo", "d6/daf/a05323.html#ae59e1e7fdf4913c48a0d82e1d19366a7", null ]
 ];

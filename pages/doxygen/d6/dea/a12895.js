@@ -1,11 +1,11 @@
 var a12895 =
 [
-    [ "boss_quartermaster_zigris", "d6/dea/a12895.html#a1d2f68327cc9b88fdd82d44ac8446d57", null ],
-    [ "DamageTaken", "d6/dea/a12895.html#a61d7f1c4e5a2901812f1175ccce69ab2", null ],
-    [ "JustDied", "d6/dea/a12895.html#a9295bbcffd7968051a789e8dfb634e23", null ],
-    [ "JustEngagedWith", "d6/dea/a12895.html#af482c06e00e7f6c15b290115998a27a9", null ],
-    [ "Reset", "d6/dea/a12895.html#a71e911bb91b7447e8aed28cdccfda8db", null ],
-    [ "SpellHitTarget", "d6/dea/a12895.html#a38197746cc73ada1378e6e1a5555ef79", null ],
-    [ "UpdateAI", "d6/dea/a12895.html#a400f7ace05cd5c4d127aecf5d771c616", null ],
-    [ "_hasDrunkPotion", "d6/dea/a12895.html#a25335533bc43171687e03f1ed22d4fb3", null ]
+    [ "npc_blackhand_incarcerator", "d6/dea/a12895.html#af44831badd703bf8c5275c749fd61d2a", null ],
+    [ "DamageTaken", "d6/dea/a12895.html#af28b787db83769685d90cf7950d8f825", null ],
+    [ "JustEngagedWith", "d6/dea/a12895.html#a9f4ab7c404a71da418c81b37dd14a7da", null ],
+    [ "Reset", "d6/dea/a12895.html#a89befac34c050f9229961782156c7adf", null ],
+    [ "SetData", "d6/dea/a12895.html#a9716a5bcc7101e9a39280ab7afd26540", null ],
+    [ "UpdateAI", "d6/dea/a12895.html#a83bad94665e11bcb55498bad5fb055a9", null ],
+    [ "_events", "d6/dea/a12895.html#a2c980622c898df77f3ed46cae1224c2f", null ],
+    [ "_fleedForAssistance", "d6/dea/a12895.html#abb52cd563252e5d00e256faf6e3cd3d3", null ]
 ];

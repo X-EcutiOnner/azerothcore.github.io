@@ -1,8 +1,7 @@
 var a17695 =
 [
-    [ "boss_eck", "d6/db7/a17695.html#a665b54f72e674c8f65dd09daba5413db", null ],
-    [ "InitializeAI", "d6/db7/a17695.html#a92e5117337d372e1700d074f02c06df6", null ],
-    [ "JustEngagedWith", "d6/db7/a17695.html#ac719d6bbebe6c1c3e70d54f4bd48e116", null ],
-    [ "MovementInform", "d6/db7/a17695.html#aeaa0388d9fee4c6a025f823cd9e7e650", null ],
-    [ "SpellHitTarget", "d6/db7/a17695.html#a63125d970933d6fa1f196aa28c588f40", null ]
+    [ "HandleDummy", "d6/db7/a17695.html#ab614c27fbeb0fc6cac42c3e8f981e11d", null ],
+    [ "PrepareSpellScript", "d6/db7/a17695.html#a3ef0564565ea49265800422c835432b0", null ],
+    [ "Register", "d6/db7/a17695.html#a7b685926a8d511397889616e97bbd563", null ],
+    [ "Validate", "d6/db7/a17695.html#aecd40c136e44dfc9c5e4dd572d577578", null ]
 ];

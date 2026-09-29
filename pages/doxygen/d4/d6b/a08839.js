@@ -1,4 +1,5 @@
 var a08839 =
 [
-    [ "Name", "d4/d6b/a08839.html#aab0b8fc04dcd6a8c551f5dfc4846b290", null ]
+    [ "InventoryType", "d4/d6b/a08839.html#a5d2733f6b8e3fda906f18fb45330d437", null ],
+    [ "name", "d4/d6b/a08839.html#a67245cff18aad700717b7b7af9f07458", null ]
 ];

@@ -1,5 +1,8 @@
 var a23863 =
 [
-    [ "at_shattered_halls_execution", "da/d3b/a23863.html#a73f1d1f03960acd070b7996257f7a526", null ],
-    [ "OnTrigger", "da/d3b/a23863.html#ad35f9736371b091dc0780e5bf0caf9f5", null ]
+    [ "FilterTargets", "da/d3b/a23863.html#ae366594b668331a19f384ceb48654c0c", null ],
+    [ "HandleOnHit", "da/d3b/a23863.html#abe5665fde7f01fafdfb55c58d8edbcf1", null ],
+    [ "PrepareSpellScript", "da/d3b/a23863.html#a71aa4018d293391a73d3317c1e80951d", null ],
+    [ "Register", "da/d3b/a23863.html#a3da162fd2cafc2e1236db0c6d4f65440", null ],
+    [ "Validate", "da/d3b/a23863.html#a3747ad271dc659436ae7a8203b964554", null ]
 ];

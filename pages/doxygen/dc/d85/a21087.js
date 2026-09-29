@@ -1,8 +1,20 @@
 var a21087 =
 [
-    [ "boss_yoggsaron_death_ray", "dc/d85/a21087.html#a03a5a1845d217c2e59fc491f1f0a36a2", null ],
-    [ "IsSummonedBy", "dc/d85/a21087.html#a631bb4727b876c0ce782c1d3d206ae13", null ],
-    [ "UpdateAI", "dc/d85/a21087.html#a424f116aa76fa470cb393250e571c021", null ],
-    [ "_movementLegs", "dc/d85/a21087.html#ac548ed487090506768236ff1519d4938", null ],
-    [ "events", "dc/d85/a21087.html#af79f0ec03cc3eb6c803c4793842b0c71", null ]
+    [ "boss_yoggsaron", "dc/d85/a21087.html#a28abd29c2f570dd5f6f56289a6cc5e9e", null ],
+    [ "AttackStart", "dc/d85/a21087.html#a8110dc78a8e60d25df6195107960365a", null ],
+    [ "DamageTaken", "dc/d85/a21087.html#a7b8ec3010f0137d8330c7062ffd35e86", null ],
+    [ "DoAction", "dc/d85/a21087.html#a647c5cf55081ec4d66ae75be5d471210", null ],
+    [ "GetData", "dc/d85/a21087.html#a68bb5622ddd9bd74f2eaefce3a0ac54f", null ],
+    [ "JustDied", "dc/d85/a21087.html#afa4914458cbcf03ae8e305b2d2c40131", null ],
+    [ "JustSummoned", "dc/d85/a21087.html#af641e349634bc2977fd2fe7b7edad310", null ],
+    [ "SetData", "dc/d85/a21087.html#a449d1e3b3e2bf883254b9714df4a3ac5", null ],
+    [ "SpellHit", "dc/d85/a21087.html#ab477975d288844051b22991649bdedd4", null ],
+    [ "SummonImmortalGuardian", "dc/d85/a21087.html#ad8ba569e58047dcfff8d764489f024ad", null ],
+    [ "UpdateAI", "dc/d85/a21087.html#a395114524b73f0176aa9ed331cc0683f", null ],
+    [ "_defeated", "dc/d85/a21087.html#a280278471444ecfaf6a24be36a097cbf", null ],
+    [ "_instance", "dc/d85/a21087.html#aa9878513823c8f3f71a5dd5b80ae20f4", null ],
+    [ "_thirdPhase", "dc/d85/a21087.html#a0d76e9ae977a2165d52413807897604e", null ],
+    [ "_usedInsane", "dc/d85/a21087.html#a28191094a0252d5af48f5b046013eb3e", null ],
+    [ "events", "dc/d85/a21087.html#ac27bba5841f4c50a01a8e2b434ee56cf", null ],
+    [ "summons", "dc/d85/a21087.html#a0a11e2b828a90ca1ba72d7c19804e654", null ]
 ];

@@ -1,12 +1,6 @@
 var a15931 =
 [
-    [ "npc_magwinAI", "d1/d5c/a15931.html#ad4a352dd0c7c6f76e74f110b00ec9053", null ],
-    [ "JustEngagedWith", "d1/d5c/a15931.html#aea2ab8bf79d6fcc3d2036d160274fab8", null ],
-    [ "Reset", "d1/d5c/a15931.html#a883ef3cd1b097847de148ccb9bd3e903", null ],
-    [ "sQuestAccept", "d1/d5c/a15931.html#aafef28bc7879e29d1fa79ec08f58da55", null ],
-    [ "UpdateEscortAI", "d1/d5c/a15931.html#a34236331be8842a9e2a98036ea382e18", null ],
-    [ "WaypointReached", "d1/d5c/a15931.html#a7278a3cff406af2ecb3d29c7bf90febc", null ],
-    [ "WaypointReached", "d1/d5c/a15931.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "_events", "d1/d5c/a15931.html#a32dad2bde92efab7e0f0d16e809df665", null ],
-    [ "_player", "d1/d5c/a15931.html#ac3d7059ee67abcafa0586f0bed5df9cc", null ]
+    [ "npc_injured_draeneiAI", "d6/dbb/a15935.html", "d6/dbb/a15935" ],
+    [ "npc_injured_draenei", "d1/d5c/a15931.html#a660c0f0c4ed41d70ad0a50cde25c1d14", null ],
+    [ "GetAI", "d1/d5c/a15931.html#a753bd4a5bb1ddc9feb540a3bedc7d7bb", null ]
 ];

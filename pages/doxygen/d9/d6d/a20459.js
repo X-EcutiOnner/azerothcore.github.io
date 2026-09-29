@@ -1,7 +1,10 @@
 var a20459 =
 [
-    [ "boss_freya_healthy_spore", "d9/d6d/a20459.html#abc2492b9cf96cb00940b18fac549fb00", null ],
-    [ "Reset", "d9/d6d/a20459.html#abe3f794707aa722e73b1728700876083", null ],
-    [ "UpdateAI", "d9/d6d/a20459.html#ac8c952848687cd883aaefe466b799e3b", null ],
-    [ "_despawnTimer", "d9/d6d/a20459.html#a8d8b6fe5895efb48750a65c2dfe8a1df", null ]
+    [ "boss_freya_elder_ironbranch", "d9/d6d/a20459.html#ae488bddfe330ca5e0bab0c37c001c217", null ],
+    [ "JustDied", "d9/d6d/a20459.html#a0e76b663697086ddaeb804f6fe9ce9cf", null ],
+    [ "JustEngagedWith", "d9/d6d/a20459.html#a34d87135b8dac114a8783941dba69559", null ],
+    [ "KilledUnit", "d9/d6d/a20459.html#a20b5a622ac233d1280169f54942c894f", null ],
+    [ "Reset", "d9/d6d/a20459.html#ad2c65b696a63a63b3443fe1c436bbac1", null ],
+    [ "UpdateAI", "d9/d6d/a20459.html#a00dade8af24a2240187fb4e52138c0d1", null ],
+    [ "events", "d9/d6d/a20459.html#a8693a800da6890004f3ae82fd9898480", null ]
 ];

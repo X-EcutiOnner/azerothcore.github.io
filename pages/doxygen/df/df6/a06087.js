@@ -1,10 +1,14 @@
 var a06087 =
 [
-    [ "FreezeDetector", "dd/df7/a05111.html#gae4bea4699ff716ee22295d12bc9f1b9b", null ],
-    [ "Handler", "dd/df7/a05111.html#gad4c4e5b291e0c6c2dc169a7dbffdfabb", null ],
-    [ "Start", "dd/df7/a05111.html#ga6a90ff702a8d363bd23334c81e2e5770", null ],
-    [ "_lastChangeMsTime", "dd/df7/a05111.html#ga0a2b971b7ea733d846be71abf7b5dc1d", null ],
-    [ "_maxCoreStuckTimeInMs", "dd/df7/a05111.html#ga54077eab38ea5d0db27f08c50fd0652e", null ],
-    [ "_timer", "dd/df7/a05111.html#ga2377cec7cca6dbb9133a3d48b4d376c3", null ],
-    [ "_worldLoopCounter", "dd/df7/a05111.html#ga0ea988a0e070d056c16d7c9f3b1035f4", null ]
+    [ "SOAPCommand", "df/df6/a06087.html#a56d5e1a4b0e3abb0284c668e175a8d4b", null ],
+    [ "~SOAPCommand", "df/df6/a06087.html#ab0a07da0bb379751d0d2812dfa98b607", null ],
+    [ "appendToPrintBuffer", "df/df6/a06087.html#a116d4a9d85c536ca3866bf340b64b9d9", null ],
+    [ "commandFinished", "df/df6/a06087.html#a18310d831429b084dc5cbf6310195001", null ],
+    [ "hasCommandSucceeded", "df/df6/a06087.html#a251a0999a4b74ca8db7bbaa634f1d361", null ],
+    [ "print", "df/df6/a06087.html#a69a3287df41392488dbcb1be2f0349f3", null ],
+    [ "setCommandSuccess", "df/df6/a06087.html#ae6849ecbf940ac2baf92f3b7ca3d6cd2", null ],
+    [ "finishedPromise", "df/df6/a06087.html#aec2e336644d004a59ad21431fbf80c83", null ],
+    [ "m_printBuffer", "df/df6/a06087.html#aa823e9c8d3048d5780b11d168f5be0d9", null ],
+    [ "m_self", "df/df6/a06087.html#a4276b0d56ac60b507902d32395cb1885", null ],
+    [ "m_success", "df/df6/a06087.html#aab7299bceae48c2066f1885b90a34c60", null ]
 ];

@@ -1,11 +1,12 @@
 var a20923 =
 [
-    [ "boss_thorim_sif_blizzard", "d9/d60/a20923.html#a7d4054eb43079fe13e5a7a6c85b461ec", null ],
-    [ "AttackStart", "d9/d60/a20923.html#ab41c744d8573b1f8ce5e82e798c9bd4f", null ],
-    [ "InitWaypoint", "d9/d60/a20923.html#a55424c77633aaa62e12581a818736441", null ],
-    [ "JustEngagedWith", "d9/d60/a20923.html#a019b50cc265dff0e92417482b85ccf64", null ],
-    [ "MoveInLineOfSight", "d9/d60/a20923.html#a6e5333d6a87956d2052c2212a3dcb0fa", null ],
-    [ "Reset", "d9/d60/a20923.html#a347fcc28a0bc660b9fa93fe7fc54eea0", null ],
-    [ "WaypointReached", "d9/d60/a20923.html#af69dfd0ec232c7e45d13b117988ba924", null ],
-    [ "WaypointReached", "d9/d60/a20923.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "boss_thorim_sif", "d9/d60/a20923.html#a9762a5d386897bcd6d42b3c36d9fc18f", null ],
+    [ "AttackStart", "d9/d60/a20923.html#a3da2809c4e7aa0c051647be354ade759", null ],
+    [ "DoAction", "d9/d60/a20923.html#a61fec6c7b91d5f34339ebabd18b94e5d", null ],
+    [ "IsSummonedBy", "d9/d60/a20923.html#a126b546655d4438bf25d0870f5c550b8", null ],
+    [ "MoveInLineOfSight", "d9/d60/a20923.html#a5c1dfc697a84d4eb3ea6074514034343", null ],
+    [ "Reset", "d9/d60/a20923.html#a3f747b6da8db72fd61c50a24096834c2", null ],
+    [ "UpdateAI", "d9/d60/a20923.html#adbe7effa0bab5046f26f8d7df0f82a04", null ],
+    [ "_allowCast", "d9/d60/a20923.html#a6081345415b9ae3892d4f150a195908c", null ],
+    [ "events", "d9/d60/a20923.html#a5d64d273a6aefdd9359b71963271b4ee", null ]
 ];

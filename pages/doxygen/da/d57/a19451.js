@@ -1,5 +1,5 @@
 var a19451 =
 [
-    [ "at_frozen_throne_teleport", "da/d57/a19451.html#a8065b9f9b55b267be1757775f84de349", null ],
-    [ "OnTrigger", "da/d57/a19451.html#ae1f9476b7f47320f545e702e9317bd03", null ]
+    [ "at_icc_spire_frostwyrm", "da/d57/a19451.html#ac3da2c0bc3e8b1c31832fcbb4e8ceae8", null ],
+    [ "_OnTrigger", "da/d57/a19451.html#a67e320fb8ada7cb2c87f5944395fa174", null ]
 ];

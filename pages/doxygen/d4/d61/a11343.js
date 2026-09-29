@@ -1,6 +1,8 @@
 var a11343 =
 [
-    [ "ResetFailedNotify", "d4/d61/a11343.html#a82e12a0f207590b6176253cf36a22d2f", null ],
-    [ "Write", "d4/d61/a11343.html#af03055514ef0e1e97f24c66d2cd94185", null ],
-    [ "MapId", "d4/d61/a11343.html#a17f065fc6d5438d74f38bde67a841be7", null ]
+    [ "SetRaidDifficulty", "d4/d61/a11343.html#af8d6189ed0209b4f70e32f92c00e13fb", null ],
+    [ "Write", "d4/d61/a11343.html#a3da812593b22ef506a9d61e16b5485d1", null ],
+    [ "Difficulty", "d4/d61/a11343.html#a1952e2d54b77437731b693f4eace83ac", null ],
+    [ "IsInGroup", "d4/d61/a11343.html#a8833543c4f179be97476a26152ec049b", null ],
+    [ "Unk", "d4/d61/a11343.html#a61a4f0fb74db04cdc11c0729bc104f7a", null ]
 ];

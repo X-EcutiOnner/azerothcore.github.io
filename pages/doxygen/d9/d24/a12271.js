@@ -1,8 +1,6 @@
 var a12271 =
 [
-    [ "CreatureTextId", "d9/d24/a12271.html#ae8058e922bafc69b718ca4be1be39688", null ],
-    [ "operator<", "d9/d24/a12271.html#ae0c693f6cf1959c79e1b3773a2f54db9", null ],
-    [ "entry", "d9/d24/a12271.html#ad69afcf7be87d1f96611fe925b68f26a", null ],
-    [ "textGroup", "d9/d24/a12271.html#af1d1f3f310c219c32ca9b8917d8fb67d", null ],
-    [ "textId", "d9/d24/a12271.html#a5d45808a0b84ca11c8d05c25d26341a2", null ]
+    [ "cooldown", "d9/d24/a12271.html#affc13f6cd029447df6cb1db56df42147", null ],
+    [ "playerOnly", "d9/d24/a12271.html#a183ae9fd6863cbc9afe1f690c87f54e2", null ],
+    [ "triggerChance", "d9/d24/a12271.html#a3430fbb945b281cb5c2820130d4444a8", null ]
 ];

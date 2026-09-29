@@ -1,4 +1,5 @@
 var a00782 =
 [
-    [ "ScriptRegistry< BattlegroundScript >", "da/d96/a00782.html#a954046a61096ecb9db321b0a35da5f77", null ]
+    [ "gear_commandscript", "df/dbc/a12539.html", "df/dbc/a12539" ],
+    [ "AddSC_gear_commandscript", "da/d96/a00782.html#a8f5ae2609cea7d63d76141e1a5feaf27", null ]
 ];

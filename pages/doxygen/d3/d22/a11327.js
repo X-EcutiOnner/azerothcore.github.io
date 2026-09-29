@@ -1,6 +1,7 @@
 var a11327 =
 [
-    [ "InstanceReset", "d3/d22/a11327.html#ab1ff5009dc40f18c30941e327e5c3863", null ],
-    [ "Write", "d3/d22/a11327.html#a0809c4de226d3aaab9817c393cef6055", null ],
-    [ "MapId", "d3/d22/a11327.html#a7b80bb32e524fe1d0ddadf955f1ec4a2", null ]
+    [ "InstanceResetFailed", "d3/d22/a11327.html#a246b4ab5e9567b99ba83b2a3c9b6c039", null ],
+    [ "Write", "d3/d22/a11327.html#a29506768ce5a5312e659ec787dbc2f8e", null ],
+    [ "MapId", "d3/d22/a11327.html#a3a14b2f4eb5e6d1ce768fe45881e2206", null ],
+    [ "Reason", "d3/d22/a11327.html#a3c629d5db1fb3a4f82ec9dc047a1b9f0", null ]
 ];

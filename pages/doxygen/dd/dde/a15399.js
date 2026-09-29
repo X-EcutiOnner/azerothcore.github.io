@@ -1,6 +1,22 @@
 var a15399 =
 [
-    [ "instance_culling_of_stratholme_InstanceMapScript", "d6/da0/a15403.html", "d6/da0/a15403" ],
-    [ "instance_culling_of_stratholme", "dd/dde/a15399.html#a0b07e751032e15e7fcf2f86bf29a39be", null ],
-    [ "GetInstanceScript", "dd/dde/a15399.html#ad8cbcb198666d44d79d6255d066c8315", null ]
+    [ "npc_cos_stratholme_citizienAI", "dd/dde/a15399.html#a591aaf16ef5befada12378acfbef9465", null ],
+    [ "DoAction", "dd/dde/a15399.html#af9d6fa1dfa83a75194797e99ee80ae0e", null ],
+    [ "InfectMe", "dd/dde/a15399.html#a9517132eeaf1a0ffd5cb8b5879ed5d5b", null ],
+    [ "MoveInLineOfSight", "dd/dde/a15399.html#ab7a8f6423e12ca0ea9bcb085594013a2", null ],
+    [ "Reset", "dd/dde/a15399.html#a0dbb5f295aa9061fa3457c9590ea9b10", null ],
+    [ "SpellHit", "dd/dde/a15399.html#aa8b9a05d3c7d89aa054af919672a69ec", null ],
+    [ "UpdateAI", "dd/dde/a15399.html#a81a1382493091a99cae1c2bb580a7f32", null ],
+    [ "allowTimer", "dd/dde/a15399.html#ae92384763b3cfe4a4bc4180d1c404456", null ],
+    [ "ambientTalkTimer", "dd/dde/a15399.html#aaa8eef94d1707207d241010d066d02fc", null ],
+    [ "changeTimer", "dd/dde/a15399.html#aa757ab2eef813dceaaad65d84681099b", null ],
+    [ "emoteTimer", "dd/dde/a15399.html#a6d0d8325a190f50e0c64eaccbc59ad3e", null ],
+    [ "isBrandonCrowd", "dd/dde/a15399.html#a7ded1c196b311e5b61686ba9f22efd20", null ],
+    [ "isPatriciaCrowd", "dd/dde/a15399.html#a22a78166929dbed5ea37ecf8f9010533", null ],
+    [ "isStephanieCrowd", "dd/dde/a15399.html#a211859fa8f83c08d6150f9fb5730e409", null ],
+    [ "locked", "dd/dde/a15399.html#aa644050a5fc0b3cd04573e8b3def87ee", null ],
+    [ "pInstance", "dd/dde/a15399.html#aadae06c487a7755114f856a835d48c7e", null ],
+    [ "stephanieDialoguePhase", "dd/dde/a15399.html#a5cadb975125ec915dcc1899d159c2aa3", null ],
+    [ "stephanieDialogueTimer", "dd/dde/a15399.html#a61fa61e81acfc543353312914a99d841", null ],
+    [ "talkTimer", "dd/dde/a15399.html#a903c8eca8c2bfe695770c3c5736662c5", null ]
 ];

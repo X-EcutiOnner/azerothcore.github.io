@@ -1,9 +1,5 @@
 var a13091 =
 [
-    [ "boss_baron_geddon", "dd/d05/a13091.html#a1e7cf41aff13c376dafa35a992c378d8", null ],
-    [ "DamageTaken", "dd/d05/a13091.html#a2a5a0ca6e40ac736171a8b80b0e66dad", null ],
-    [ "ExecuteEvent", "dd/d05/a13091.html#af81a1ef4345e55f3d537baeb0e9528f4", null ],
-    [ "JustEngagedWith", "dd/d05/a13091.html#ad0e720b1ea3e92fabeea8b78a6416f3f", null ],
-    [ "Reset", "dd/d05/a13091.html#aee0a2c6587a7f743491f3a3e31ed6527", null ],
-    [ "armageddonCasted", "dd/d05/a13091.html#a4ea01568770a91e6734d45e3730c62cc", null ]
+    [ "at_orb_of_command", "dd/d05/a13091.html#a1f0b196362b76e050eba66d3ce612623", null ],
+    [ "OnTrigger", "dd/d05/a13091.html#a8d30d303c72d5eaf59222c890ab13ca3", null ]
 ];

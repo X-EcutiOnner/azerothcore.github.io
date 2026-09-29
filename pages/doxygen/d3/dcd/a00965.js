@@ -1,36 +1,109 @@
 var a00965 =
 [
-    [ "BfCapturePoint", "dd/de2/a07615.html", "dd/de2/a07615" ],
-    [ "BfGraveyard", "da/da3/a07619.html", "da/da3/a07619" ],
-    [ "Battlefield", "d4/d4f/a07623.html", "d4/d4f/a07623" ],
-    [ "GraveyardVect", "d3/dcd/a00965.html#a9d81160ef5262b2f7a9dc65170d7f3e5", null ],
-    [ "PlayerTimerMap", "d3/dcd/a00965.html#afedbb171b4e4bd0bce549b015440ce95", null ],
-    [ "BattlefieldIDs", "d3/dcd/a00965.html#aff53bf428d550c270744c9a188d4187f", [
-      [ "BATTLEFIELD_BATTLEID_WG", "d3/dcd/a00965.html#aff53bf428d550c270744c9a188d4187fa38e75e8c40750cb29f0d478d19974010", null ]
+    [ "npc_vh_teleportation_portal", "db/d53/a21635.html", "db/d53/a21635" ],
+    [ "violet_hold_trashAI", "d6/d98/a21639.html", "d6/d98/a21639" ],
+    [ "npc_azure_invader", "d9/da5/a21643.html", "d9/da5/a21643" ],
+    [ "npc_azure_binder", "dd/d30/a21647.html", "dd/d30/a21647" ],
+    [ "npc_azure_mage_slayer", "d4/d9c/a21651.html", "d4/d9c/a21651" ],
+    [ "npc_azure_raider", "db/d79/a21655.html", "db/d79/a21655" ],
+    [ "npc_azure_stalker", "d3/d2e/a21659.html", "d3/d2e/a21659" ],
+    [ "npc_azure_spellbreaker", "d3/d28/a21663.html", "d3/d28/a21663" ],
+    [ "npc_azure_captain", "d3/d79/a21667.html", "d3/d79/a21667" ],
+    [ "npc_azure_sorceror", "d9/d37/a21671.html", "d9/d37/a21671" ],
+    [ "npc_azure_saboteur", "d7/d7c/a21675.html", "d7/d7c/a21675" ],
+    [ "spell_destroy_door_seal_aura", "db/d61/a21679.html", "db/d61/a21679" ],
+    [ "npc_violet_hold_defense_system", "d2/d69/a21683.html", "d2/d69/a21683" ],
+    [ "AzureBinderSpells", "d3/dcd/a00965.html#ac8ac5bae2b6aba2c00fdae1c893e94f0", [
+      [ "SPELL_ARCANE_BARRAGE", "d3/dcd/a00965.html#ac8ac5bae2b6aba2c00fdae1c893e94f0a3afb459a719cb129b98a146ade206c97", null ],
+      [ "SPELL_ARCANE_EXPLOSION", "d3/dcd/a00965.html#ac8ac5bae2b6aba2c00fdae1c893e94f0a6cef4c5e88133771f6b27aec8b8cfdce", null ],
+      [ "SPELL_FROST_NOVA", "d3/dcd/a00965.html#ac8ac5bae2b6aba2c00fdae1c893e94f0ab913503b67c5b8f901cfc4f207bcba03", null ],
+      [ "SPELL_FROSTBOLT", "d3/dcd/a00965.html#ac8ac5bae2b6aba2c00fdae1c893e94f0a1c6a7f86c2818960d6f6f23a4554e39e", null ]
     ] ],
-    [ "BattlefieldObjectiveStates", "d3/dcd/a00965.html#af6db5a1d93982b261639cd12634a2798", [
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL", "d3/dcd/a00965.html#af6db5a1d93982b261639cd12634a2798afafb6299c9f30c2bd0d2caac21577178", null ],
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_ALLIANCE", "d3/dcd/a00965.html#af6db5a1d93982b261639cd12634a2798ac05149e43f48e8fbe687c2cb48a88ac7", null ],
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_HORDE", "d3/dcd/a00965.html#af6db5a1d93982b261639cd12634a2798a683078aa231d432a72923b9eff4d5a29", null ],
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL_ALLIANCE_CHALLENGE", "d3/dcd/a00965.html#af6db5a1d93982b261639cd12634a2798a47f8021bf59a901b2a512d28cc044c7f", null ],
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL_HORDE_CHALLENGE", "d3/dcd/a00965.html#af6db5a1d93982b261639cd12634a2798a28c520f0b5997a10c6e8c040d803a9d5", null ],
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_ALLIANCE_HORDE_CHALLENGE", "d3/dcd/a00965.html#af6db5a1d93982b261639cd12634a2798a9c9e1d966e139a18ba54ee2c2fa0bc2b", null ],
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_HORDE_ALLIANCE_CHALLENGE", "d3/dcd/a00965.html#af6db5a1d93982b261639cd12634a2798af7b31d0894d6b9bd950d9a48c86da7c4", null ]
+    [ "AzureCaptainSpells", "d3/dcd/a00965.html#af46bd9d15b0cae9e73316c52a10611b9", [
+      [ "SPELL_MORTAL_STRIKE", "d3/dcd/a00965.html#af46bd9d15b0cae9e73316c52a10611b9a7794ace87705e2898f8b60f1f5228110", null ],
+      [ "SPELL_WHIRLWIND_OF_STEEL", "d3/dcd/a00965.html#af46bd9d15b0cae9e73316c52a10611b9ad699aed428dc8515d66185aefa658efd", null ]
     ] ],
-    [ "BattlefieldSounds", "d3/dcd/a00965.html#a7c3836172413cb3b2cdabeb20b99f1b4", [
-      [ "BF_HORDE_WINS", "d3/dcd/a00965.html#a7c3836172413cb3b2cdabeb20b99f1b4af85d42c135f0c26853ba8465193e8f3a", null ],
-      [ "BF_ALLIANCE_WINS", "d3/dcd/a00965.html#a7c3836172413cb3b2cdabeb20b99f1b4ae1455c543e0df55993ddfe9e73cdc138", null ],
-      [ "BF_START", "d3/dcd/a00965.html#a7c3836172413cb3b2cdabeb20b99f1b4a586da22ef0e5767a451125b0ca064007", null ]
+    [ "AzureInvaderSpells", "d3/dcd/a00965.html#ae59925ffe1ee1844f14b8f5192b50e50", [
+      [ "SPELL_CLEAVE", "d3/dcd/a00965.html#ae59925ffe1ee1844f14b8f5192b50e50a0de0a536dbf18ec5c2e76cfee1d751eb", null ],
+      [ "SPELL_IMPALE", "d3/dcd/a00965.html#ae59925ffe1ee1844f14b8f5192b50e50aed97c932510c91b6057175b2df166f63", null ],
+      [ "SPELL_BRUTAL_STRIKE", "d3/dcd/a00965.html#ae59925ffe1ee1844f14b8f5192b50e50abd5215af7b4cc0aa95176300a5e47b0d", null ],
+      [ "SPELL_SUNDER_ARMOR", "d3/dcd/a00965.html#ae59925ffe1ee1844f14b8f5192b50e50a99eaf912c120c7fa6d85748ebf96aebb", null ]
     ] ],
-    [ "BattlefieldTimerGroups", "d3/dcd/a00965.html#a77a99318a19e388592eb16534ef2005a", [
-      [ "BATTLEFIELD_TIMER_GROUP_RESURRECT", "d3/dcd/a00965.html#a77a99318a19e388592eb16534ef2005aa2af7f1dd6b4f9748b1f6b523cb6ac117", null ],
-      [ "BATTLEFIELD_TIMER_GROUP_WAR", "d3/dcd/a00965.html#a77a99318a19e388592eb16534ef2005aac21d9aa508e0c587d18daaf8fbdf7cf2", null ],
-      [ "BATTLEFIELD_TIMER_GROUP_SAVE", "d3/dcd/a00965.html#a77a99318a19e388592eb16534ef2005aac940a59178a27dc5a2e77238ca2efd55", null ]
+    [ "AzureMageSlayerSpells", "d3/dcd/a00965.html#ac78605d6efa18baead82e805c7f0f20f", [
+      [ "SPELL_ARCANE_EMPOWERMENT", "d3/dcd/a00965.html#ac78605d6efa18baead82e805c7f0f20fa2a0c7483481c9f46b5abace7844ce0c1", null ],
+      [ "SPELL_SPELL_LOCK", "d3/dcd/a00965.html#ac78605d6efa18baead82e805c7f0f20fa224d41981eead3a852d629c3d9a3c734", null ]
     ] ],
-    [ "BattlefieldTypes", "d3/dcd/a00965.html#a6f435417da35c7d1b51c95e516fc6b2d", [
-      [ "BATTLEFIELD_WG", "d3/dcd/a00965.html#a6f435417da35c7d1b51c95e516fc6b2da1fc74ab91b471d0c59f02fea08cb2efd", null ],
-      [ "BATTLEFIELD_TB", "d3/dcd/a00965.html#a6f435417da35c7d1b51c95e516fc6b2daf6a0681946ddb59a6623fb1d76f4f610", null ]
+    [ "AzureRaiderSpells", "d3/dcd/a00965.html#a4d1c4ff51073f003f5d430153811d5d6", [
+      [ "SPELL_CONCUSSION_BLOW", "d3/dcd/a00965.html#a4d1c4ff51073f003f5d430153811d5d6a24c8037a8967fd1efcb106b022a3aa5b", null ],
+      [ "SPELL_MAGIC_REFLECTION", "d3/dcd/a00965.html#a4d1c4ff51073f003f5d430153811d5d6afd79f0e7035448d8f649e3282deb75dd", null ]
     ] ],
-    [ "BATTLEFIELD_OBJECTIVE_UPDATE_INTERVAL", "d3/dcd/a00965.html#a79df696836c3edc53ca1868aab7f6e76", null ],
-    [ "BattlefieldFactions", "d3/dcd/a00965.html#af5e231859535c4e1e6bd27ee42753f63", null ]
+    [ "AzureSaboteurSpells", "d3/dcd/a00965.html#a77eb14328c7227c669ae9a03984a5b97", [
+      [ "SABOTEUR_SHIELD_DISRUPTION", "d3/dcd/a00965.html#a77eb14328c7227c669ae9a03984a5b97ad925124be9a18f2a765337503fe1ffed", null ],
+      [ "SABOTEUR_SHIELD_EFFECT", "d3/dcd/a00965.html#a77eb14328c7227c669ae9a03984a5b97ac1041b30568f58695d6f34546f88b75c", null ],
+      [ "SPELL_TELEPORT_VISUAL", "d3/dcd/a00965.html#a77eb14328c7227c669ae9a03984a5b97a73cc106ecf58fcd3a75fa23f9ff7a21c", null ]
+    ] ],
+    [ "AzureSorcerorSpells", "d3/dcd/a00965.html#a234a6cf28e39a194632aa43a77e92096", [
+      [ "SPELL_ARCANE_STREAM", "d3/dcd/a00965.html#a234a6cf28e39a194632aa43a77e92096a30a51557ca182650489da485f07a82b7", null ],
+      [ "SPELL_MANA_DETONATION", "d3/dcd/a00965.html#a234a6cf28e39a194632aa43a77e92096ae1f24b34bd2d1354627cad7f887d8b85", null ]
+    ] ],
+    [ "AzureSpellbreakerSpells", "d3/dcd/a00965.html#a158603b6fe3ddb2baf3e95de37a5dcc2", [
+      [ "SPELL_ARCANE_BLAST", "d3/dcd/a00965.html#a158603b6fe3ddb2baf3e95de37a5dcc2af122c6c3fe00bd98cedb873409dc4803", null ],
+      [ "SPELL_SLOW", "d3/dcd/a00965.html#a158603b6fe3ddb2baf3e95de37a5dcc2a8c3d41eb1b68da0f3943e5df04bfcb5c", null ],
+      [ "SPELL_CHAINS_OF_ICE", "d3/dcd/a00965.html#a158603b6fe3ddb2baf3e95de37a5dcc2ae1f0efa4026f86ebb692786585cec455", null ],
+      [ "SPELL_CONE_OF_COLD", "d3/dcd/a00965.html#a158603b6fe3ddb2baf3e95de37a5dcc2ab066547e004691aae6b23d39f4c0da4b", null ]
+    ] ],
+    [ "AzureStalkerSpells", "d3/dcd/a00965.html#a79fc2957bc9c07cbe31064cd981b5663", [
+      [ "SPELL_BACKSTAB", "d3/dcd/a00965.html#a79fc2957bc9c07cbe31064cd981b5663a4ff7524487add866a452db82c2791b68", null ],
+      [ "SPELL_TACTICAL_BLINK", "d3/dcd/a00965.html#a79fc2957bc9c07cbe31064cd981b5663a5f9f321e45ec4cf0e5e156021cd85402", null ]
+    ] ],
+    [ "BinderEvents", "d3/dcd/a00965.html#a4bb0a56f6436235bc98f40cfac8409e9", [
+      [ "EVENT_BINDER_ARCANE_EXPLOSION", "d3/dcd/a00965.html#a4bb0a56f6436235bc98f40cfac8409e9a63afe7fe626556d60ef561edbb5fd974", null ],
+      [ "EVENT_BINDER_ARCANE_BARRAGE", "d3/dcd/a00965.html#a4bb0a56f6436235bc98f40cfac8409e9ae6b06bad71b78733cf920fdeb54d9a97", null ],
+      [ "EVENT_BINDER_FROST_NOVA", "d3/dcd/a00965.html#a4bb0a56f6436235bc98f40cfac8409e9a5a64ff8ed1fd826b2619d44bec99dbe6", null ],
+      [ "EVENT_BINDER_FROSTBOLT", "d3/dcd/a00965.html#a4bb0a56f6436235bc98f40cfac8409e9a24c7bf49518fa324f3942699466e34df", null ]
+    ] ],
+    [ "CaptainEvents", "d3/dcd/a00965.html#a4dde00ab236b1d0505feebe5a51ece3c", [
+      [ "EVENT_CAPTAIN_MORTAL_STRIKE", "d3/dcd/a00965.html#a4dde00ab236b1d0505feebe5a51ece3caa792ffda443764c85bfe20bd3eb87172", null ],
+      [ "EVENT_CAPTAIN_WHIRLWIND", "d3/dcd/a00965.html#a4dde00ab236b1d0505feebe5a51ece3ca7b5e919f6bc10d86f528c593c08b60ae", null ]
+    ] ],
+    [ "InvaderEvents", "d3/dcd/a00965.html#a8b58b2b60d173f6f0229ce98da0f576d", [
+      [ "EVENT_INVADER_CLEAVE", "d3/dcd/a00965.html#a8b58b2b60d173f6f0229ce98da0f576dacab09c7df503347d7760f4d02e83472a", null ],
+      [ "EVENT_INVADER_IMPALE", "d3/dcd/a00965.html#a8b58b2b60d173f6f0229ce98da0f576dacc59cf0e666f4c5b8fadd48a5950d459", null ],
+      [ "EVENT_INVADER_BRUTAL_STRIKE", "d3/dcd/a00965.html#a8b58b2b60d173f6f0229ce98da0f576daace97d0d0843f602c01e225b1e1f990f", null ],
+      [ "EVENT_INVADER_SUNDER_ARMOR", "d3/dcd/a00965.html#a8b58b2b60d173f6f0229ce98da0f576daf5925e0fb11d845fe4f68963eb7121fd", null ]
+    ] ],
+    [ "MageSlayerEvents", "d3/dcd/a00965.html#a6006a65ff2a4b2635101fb8008f35437", [
+      [ "EVENT_MAGE_SLAYER_ARCANE_EMPOWERMENT", "d3/dcd/a00965.html#a6006a65ff2a4b2635101fb8008f35437aeb7e20e3f4f167e2468893cac3605e4a", null ],
+      [ "EVENT_MAGE_SLAYER_SPELL_LOCK", "d3/dcd/a00965.html#a6006a65ff2a4b2635101fb8008f35437ae5ca84c6982ea7e9178e71ea01b849fb", null ]
+    ] ],
+    [ "PortalEvents", "d3/dcd/a00965.html#a19f2c5217c4e583e2a2e3d499977a177", [
+      [ "EVENT_SUMMON_KEEPER_OR_GUARDIAN", "d3/dcd/a00965.html#a19f2c5217c4e583e2a2e3d499977a177aa892d532cfe73089b573009999e49707", null ],
+      [ "EVENT_SUMMON_KEEPER_TRASH", "d3/dcd/a00965.html#a19f2c5217c4e583e2a2e3d499977a177a518ebaf6b566ed755b032625f8ac973e", null ],
+      [ "EVENT_SUMMON_ELITES", "d3/dcd/a00965.html#a19f2c5217c4e583e2a2e3d499977a177a451936542d4fe56f8f10993c956007bc", null ],
+      [ "EVENT_SUMMON_SABOTEOUR", "d3/dcd/a00965.html#a19f2c5217c4e583e2a2e3d499977a177a94822388f728c343ac073a90c5d3a4f1", null ],
+      [ "EVENT_CHECK_DEATHS", "d3/dcd/a00965.html#a19f2c5217c4e583e2a2e3d499977a177a73f521266f6a8c0188f7ea4b61843c96", null ]
+    ] ],
+    [ "RaiderEvents", "d3/dcd/a00965.html#a06b78ef34eb909dec4b4e0770bf24120", [
+      [ "EVENT_RAIDER_CONCUSSION_BLOW", "d3/dcd/a00965.html#a06b78ef34eb909dec4b4e0770bf24120acf995c92e9446a8b511b40b1879ad123", null ],
+      [ "EVENT_RAIDER_MAGIC_REFLECTION", "d3/dcd/a00965.html#a06b78ef34eb909dec4b4e0770bf24120a0f7e587264c7b59c4b1079927493e3e3", null ]
+    ] ],
+    [ "SaboteurEvents", "d3/dcd/a00965.html#a61f0eb737d2d6575416d40c84f7d23ac", [
+      [ "EVENT_SABOTEUR_SHIELD_DISRUPTION", "d3/dcd/a00965.html#a61f0eb737d2d6575416d40c84f7d23aca3ba481a4a2d4cf944a28a5d7b532e84a", null ],
+      [ "EVENT_SABOTEUR_RELEASE_BOSS", "d3/dcd/a00965.html#a61f0eb737d2d6575416d40c84f7d23aca7a8d5de06f3e31793e053472a621017a", null ],
+      [ "EVENT_SABOTEUR_DISAPPEAR", "d3/dcd/a00965.html#a61f0eb737d2d6575416d40c84f7d23acad43be551fd59090d924f1dec36e7c5f6", null ]
+    ] ],
+    [ "SorcerorEvents", "d3/dcd/a00965.html#abc0f0004442b009bb45ce8c8843895f4", [
+      [ "EVENT_SORCEROR_ARCANE_STREAM", "d3/dcd/a00965.html#abc0f0004442b009bb45ce8c8843895f4a2eecd36baf3de97c8974655fd463d485", null ],
+      [ "EVENT_SORCEROR_MANA_DETONATION", "d3/dcd/a00965.html#abc0f0004442b009bb45ce8c8843895f4a005f809af6de7d14c536ca7c8b33a892", null ]
+    ] ],
+    [ "SpellbreakerEvents", "d3/dcd/a00965.html#a2b26d6e966b782d434f5f6b09f28259b", [
+      [ "EVENT_SPELLBREAKER_ARCANE_BLAST", "d3/dcd/a00965.html#a2b26d6e966b782d434f5f6b09f28259badc907fd55c6cef4620119afc8cd851f0", null ],
+      [ "EVENT_SPELLBREAKER_SLOW", "d3/dcd/a00965.html#a2b26d6e966b782d434f5f6b09f28259ba3765b2ca50fa7227baa4a70c376729da", null ],
+      [ "EVENT_SPELLBREAKER_CHAINS_OF_ICE", "d3/dcd/a00965.html#a2b26d6e966b782d434f5f6b09f28259baf193860ad6054383d811d863edd011d3", null ],
+      [ "EVENT_SPELLBREAKER_CONE_OF_COLD", "d3/dcd/a00965.html#a2b26d6e966b782d434f5f6b09f28259ba2f026f68218ae4e52c52f9549c8efc32", null ]
+    ] ],
+    [ "StalkerEvents", "d3/dcd/a00965.html#a0f792309511e4c2acaa38c7c4cacacbc", [
+      [ "EVENT_STALKER_BACKSTAB", "d3/dcd/a00965.html#a0f792309511e4c2acaa38c7c4cacacbcafb21de37e607c0dd2186c6d88819338f", null ]
+    ] ],
+    [ "AddSC_violet_hold", "d3/dcd/a00965.html#a11e49713c62a5c479f14ca4d3e845eab", null ]
 ];

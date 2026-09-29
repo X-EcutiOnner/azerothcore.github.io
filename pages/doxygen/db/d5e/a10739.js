@@ -1,6 +1,10 @@
 var a10739 =
 [
-    [ "AchievementCriteriaScript", "db/d5e/a10739.html#a09da24737dee882300a5e268688b94e6", null ],
-    [ "IsDatabaseBound", "db/d5e/a10739.html#a2fe9a4224304d62c5c4920dbf09aab52", null ],
-    [ "OnCheck", "db/d5e/a10739.html#a9fab6f158219db6d5a65b0b302cf285e", null ]
+    [ "AchievementScript", "db/d5e/a10739.html#ab09a80bc238814358e1397da529e9584", null ],
+    [ "CanCheckCriteria", "db/d5e/a10739.html#aca4cb16b55f7990c676267b8f10b4e57", null ],
+    [ "IsCompletedCriteria", "db/d5e/a10739.html#a33d7ba1a6bf82da8e2de367553c0fb52", null ],
+    [ "IsDatabaseBound", "db/d5e/a10739.html#a9ea2ed91c281e881404c31a948de0fc9", null ],
+    [ "IsRealmCompleted", "db/d5e/a10739.html#abc54c295c1bcad45e21aed99e43a3713", null ],
+    [ "OnBeforeCheckCriteria", "db/d5e/a10739.html#afac6fc03c2ba91165fbdf2ccc5422063", null ],
+    [ "SetRealmCompleted", "db/d5e/a10739.html#acf6a63ba96da7b33a92d48a95a549d4e", null ]
 ];

@@ -1,7 +1,6 @@
 var a19647 =
 [
-    [ "HandleScript", "db/d6a/a19647.html#a66db3976fe6ec7ee8712c5788ce5f3ec", null ],
-    [ "PrepareAuraScript", "db/d6a/a19647.html#aa3053519be0101f55450d76b1291f0f7", null ],
-    [ "Register", "db/d6a/a19647.html#ada596a7f19115c7178fd07fb9e956f58", null ],
-    [ "Validate", "db/d6a/a19647.html#a768dec18bc0e879c457a64135ec27ad9", null ]
+    [ "boss_kelthuzad_minionAI", "d4/d16/a19651.html", "d4/d16/a19651" ],
+    [ "boss_kelthuzad_minion", "db/d6a/a19647.html#a4c6d430035c964b4063139c0cda6bfff", null ],
+    [ "GetAI", "db/d6a/a19647.html#ab951068fedced148653ebf9124ba5e3d", null ]
 ];

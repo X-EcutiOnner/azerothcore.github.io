@@ -1,11 +1,10 @@
 var a12907 =
 [
-    [ "boss_solakar_flamewreath", "dd/df2/a12907.html#aff732901de1306b363e5a3d9994b3c9b", null ],
-    [ "ExecuteEvent", "dd/df2/a12907.html#a72bf587aae341ba70bd219c8d97fe9a1", null ],
-    [ "InitializeAI", "dd/df2/a12907.html#a21875946b8e9cfa8711f36f98a61a034", null ],
-    [ "JustDied", "dd/df2/a12907.html#ae4d59238a359487e44985e040ee27732", null ],
-    [ "JustEngagedWith", "dd/df2/a12907.html#af6a0c97341547ea852d9a09d3b66358e", null ],
-    [ "Reset", "dd/df2/a12907.html#ae83c926a718af8ee0d90b8a9be800031", null ],
-    [ "UpdateAI", "dd/df2/a12907.html#ad211f24ce4019724060441529ceaa780", null ],
-    [ "resetTimer", "dd/df2/a12907.html#a602092d8262420bc51eef286b7c96d84", null ]
+    [ "npc_rookery_hatcher", "dd/df2/a12907.html#ab4740540a6fc2661c3c99bd2569a0bfa", null ],
+    [ "InitializeAI", "dd/df2/a12907.html#a58d6bb3ba8d39c0e92d30f4c124e3734", null ],
+    [ "JustEngagedWith", "dd/df2/a12907.html#a9d2e256f8df44254cc0301fe2b1fa628", null ],
+    [ "UpdateAI", "dd/df2/a12907.html#a011cf0384a7bf6dd502a767d6667140a", null ],
+    [ "events", "dd/df2/a12907.html#ab49d35c9d22408b01e27c8c7933433e0", null ],
+    [ "targetEgg", "dd/df2/a12907.html#a4fd5ed979e2c3d600e89e4592b7da98c", null ],
+    [ "targetPosition", "dd/df2/a12907.html#ac49345c80e58f7c0094fe1b62ac4bf84", null ]
 ];

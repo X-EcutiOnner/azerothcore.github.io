@@ -116,14 +116,14 @@ $(document).ready(function(){initNavTree('d4/db5/a09935.html','../../'); initRes
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a31b4976c3ea6203b9a1e7f7970a97977"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db5/a09935.html#a31b4976c3ea6203b9a1e7f7970a97977">AllDeadCreaturesInRange</a> (<a class="el" href="../../d1/d83/a08879.html">WorldObject</a> const *obj, float range, bool reqAlive=true)</td></tr>
+<tr class="memitem:a31b4976c3ea6203b9a1e7f7970a97977"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db5/a09935.html#a31b4976c3ea6203b9a1e7f7970a97977">AllDeadCreaturesInRange</a> (<a class="el" href="../../d4/d08/a08883.html">WorldObject</a> const *obj, float range, bool reqAlive=true)</td></tr>
 <tr class="separator:a31b4976c3ea6203b9a1e7f7970a97977"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3638a8d3c5791b590ec717e4f1ba9cef"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db5/a09935.html#a3638a8d3c5791b590ec717e4f1ba9cef">operator()</a> (<a class="el" href="../../d9/d33/a09227.html">Unit</a> *unit) const</td></tr>
 <tr class="separator:a3638a8d3c5791b590ec717e4f1ba9cef"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:a4ca7fcf9945e698a790d01d3fadae98e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/d83/a08879.html">WorldObject</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db5/a09935.html#a4ca7fcf9945e698a790d01d3fadae98e">_obj</a></td></tr>
+<tr class="memitem:a4ca7fcf9945e698a790d01d3fadae98e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d08/a08883.html">WorldObject</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db5/a09935.html#a4ca7fcf9945e698a790d01d3fadae98e">_obj</a></td></tr>
 <tr class="separator:a4ca7fcf9945e698a790d01d3fadae98e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a431ada86a2b864d53773a85b05d8da4f"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db5/a09935.html#a431ada86a2b864d53773a85b05d8da4f">_range</a></td></tr>
 <tr class="separator:a431ada86a2b864d53773a85b05d8da4f"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -144,7 +144,7 @@ Private Attributes</h2></td></tr>
         <tr>
           <td class="memname">Acore::AllDeadCreaturesInRange::AllDeadCreaturesInRange </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d1/d83/a08879.html">WorldObject</a> const *&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d4/d08/a08883.html">WorldObject</a> const *&#160;</td>
           <td class="paramname"><em>obj</em>, </td>
         </tr>
         <tr>
@@ -207,16 +207,16 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno"> 1597</span>            {</div>
 <div class="line"><span class="lineno"> 1598</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno"> 1599</span>            }</div>
-<div class="line"><span class="lineno"> 1600</span>            <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d4/db5/a09935.html#a4ca7fcf9945e698a790d01d3fadae98e">_obj</a>-&gt;<a class="code hl_function" href="../../d1/d83/a08879.html#aaeea293a6966a717f17113370d364168">IsWithinDistInMap</a>(unit, <a class="code hl_variable" href="../../d4/db5/a09935.html#a431ada86a2b864d53773a85b05d8da4f">_range</a>))</div>
+<div class="line"><span class="lineno"> 1600</span>            <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d4/db5/a09935.html#a4ca7fcf9945e698a790d01d3fadae98e">_obj</a>-&gt;<a class="code hl_function" href="../../d4/d08/a08883.html#aaeea293a6966a717f17113370d364168">IsWithinDistInMap</a>(unit, <a class="code hl_variable" href="../../d4/db5/a09935.html#a431ada86a2b864d53773a85b05d8da4f">_range</a>))</div>
 <div class="line"><span class="lineno"> 1601</span>            {</div>
 <div class="line"><span class="lineno"> 1602</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno"> 1603</span>            }</div>
 <div class="line"><span class="lineno"> 1604</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno"> 1605</span>        }</div>
-<div class="ttc" id="aa08879_html_aaeea293a6966a717f17113370d364168"><div class="ttname"><a href="../../d1/d83/a08879.html#aaeea293a6966a717f17113370d364168">WorldObject::IsWithinDistInMap</a></div><div class="ttdeci">bool IsWithinDistInMap(WorldObject const *obj, float dist2compare, bool is3D=true, bool incOwnRadius=true, bool incTargetRadius=true) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1386</div></div>
-<div class="ttc" id="aa09227_html_a5ea3f54af571493f7889220724667189"><div class="ttname"><a href="../../d9/d33/a09227.html#a5ea3f54af571493f7889220724667189">Unit::IsAlive</a></div><div class="ttdeci">bool IsAlive() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1796</div></div>
+<div class="ttc" id="aa08883_html_aaeea293a6966a717f17113370d364168"><div class="ttname"><a href="../../d4/d08/a08883.html#aaeea293a6966a717f17113370d364168">WorldObject::IsWithinDistInMap</a></div><div class="ttdeci">bool IsWithinDistInMap(WorldObject const *obj, float dist2compare, bool is3D=true, bool incOwnRadius=true, bool incTargetRadius=true) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1386</div></div>
+<div class="ttc" id="aa09227_html_a5ea3f54af571493f7889220724667189"><div class="ttname"><a href="../../d9/d33/a09227.html#a5ea3f54af571493f7889220724667189">Unit::IsAlive</a></div><div class="ttdeci">bool IsAlive() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1798</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01608">_obj</a>, <a class="el" href="../../#l01609">_range</a>, <a class="el" href="../../#l01610">_reqAlive</a>, <a class="el" href="../../#l01796">Unit::IsAlive()</a>, and <a class="el" href="../../#l01386">WorldObject::IsWithinDistInMap()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01608">_obj</a>, <a class="el" href="../../#l01609">_range</a>, <a class="el" href="../../#l01610">_reqAlive</a>, <a class="el" href="../../#l01798">Unit::IsAlive()</a>, and <a class="el" href="../../#l01386">WorldObject::IsWithinDistInMap()</a>.</p>
 
 </div>
 </div>
@@ -231,7 +231,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d1/d83/a08879.html">WorldObject</a> const* Acore::AllDeadCreaturesInRange::_obj</td>
+          <td class="memname"><a class="el" href="../../d4/d08/a08883.html">WorldObject</a> const* Acore::AllDeadCreaturesInRange::_obj</td>
         </tr>
       </table>
   </td>
@@ -298,8 +298,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d5/d87/a05118.html">Acore</a></li><li class="navelem"><a class="el" href="../../d4/db5/a09935.html">AllDeadCreaturesInRange</a></li>
-    <li class="footer">Generated on Mon Sep 21 2026 23:34:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dd/db3/a05121.html">Acore</a></li><li class="navelem"><a class="el" href="../../d4/db5/a09935.html">AllDeadCreaturesInRange</a></li>
+    <li class="footer">Generated on Tue Sep 29 2026 01:14:19 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

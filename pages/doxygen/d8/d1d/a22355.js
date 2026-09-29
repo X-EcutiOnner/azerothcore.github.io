@@ -1,6 +1,6 @@
 var a22355 =
 [
-    [ "npc_vekjik", "d8/d1d/a22355.html#a7439c6038237b77ba8623ae92d6cf708", null ],
-    [ "OnGossipHello", "d8/d1d/a22355.html#acdbba5b4970049e72477eccf6672b0e8", null ],
-    [ "OnGossipSelect", "d8/d1d/a22355.html#a0bcdcb6cd57264e664c449e261d3580b", null ]
+    [ "npc_mcmanus", "d8/d1d/a22355.html#a4e9da3fa22b74f51f72c58cbf22dc683", null ],
+    [ "OnGossipHello", "d8/d1d/a22355.html#acb8f8b9c10387c0bb45b7d68f7f9821f", null ],
+    [ "OnGossipSelect", "d8/d1d/a22355.html#a5e8c37ebcfa737ee3066ab8df3e453f8", null ]
 ];

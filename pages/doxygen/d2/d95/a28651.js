@@ -1,6 +1,8 @@
 var a28651 =
 [
-    [ "npc_air_force_botsAI", "d0/dfc/a28655.html", "d0/dfc/a28655" ],
-    [ "npc_air_force_bots", "d2/d95/a28651.html#a00b8f274bde3260a113ea21e0f68cdf8", null ],
-    [ "GetAI", "d2/d95/a28651.html#ae971e34d61b0f960d8f5940f9015523d", null ]
+    [ "npc_training_dummy", "d2/d95/a28651.html#a7cf3b633e444d67dfaea6308e3ed2dc1", null ],
+    [ "DamageTaken", "d2/d95/a28651.html#accd7c39cd7b22b30e654288b034f1319", null ],
+    [ "JustEnteredCombat", "d2/d95/a28651.html#a2dad51de23663e7b0bf6bcd2ce86a290", null ],
+    [ "UpdateAI", "d2/d95/a28651.html#abd6941fcfd3bdff557b38017bc74e83c", null ],
+    [ "_combatTimer", "d2/d95/a28651.html#a6e2ed26a35fecc3fe6e1957c3ed47124", null ]
 ];

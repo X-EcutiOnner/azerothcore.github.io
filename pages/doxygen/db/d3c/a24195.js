@@ -1,11 +1,7 @@
 var a24195 =
 [
-    [ "npc_aeranasAI", "db/d3c/a24195.html#a2142cebc84e64919fa5c2ef630453282", null ],
-    [ "JustReachedHome", "db/d3c/a24195.html#a0c48e1cebec95e6de0b7d02a22658c40", null ],
-    [ "Reset", "db/d3c/a24195.html#a2c1bbe079c065745782adfa13b030515", null ],
-    [ "UpdateAI", "db/d3c/a24195.html#ae192a3b38c0ec65cddfce3b95d15555a", null ],
-    [ "_defeated", "db/d3c/a24195.html#a2c604dfa9deaaff7b71116b5b54c8771", null ],
-    [ "envelopingWinds_Timer", "db/d3c/a24195.html#a566b5d648abe630efc191f9d6d4938a2", null ],
-    [ "faction_Timer", "db/d3c/a24195.html#aac071887c100f91cc7ffc545ea6439d9", null ],
-    [ "shock_Timer", "db/d3c/a24195.html#aba8ad016f0e470b07163fef07b603380", null ]
+    [ "HandleEffect", "db/d3c/a24195.html#acb353dbdd050bfc6aa4b4b5f6433dc03", null ],
+    [ "PrepareSpellScript", "db/d3c/a24195.html#ad95bc33917e1aa968eedc636f6e3ddcb", null ],
+    [ "Register", "db/d3c/a24195.html#ac2b2bd2581a638553167d5c8099a70cd", null ],
+    [ "Validate", "db/d3c/a24195.html#a7702b0e876ab5ccd750d1072ee70ed69", null ]
 ];

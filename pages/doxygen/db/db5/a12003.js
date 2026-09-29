@@ -1,7 +1,10 @@
 var a12003 =
 [
-    [ "DiminishDurationLimit", "db/db5/a12003.html#a18e94b40a8746c854b2fcca37ceb14f6", null ],
-    [ "DiminishGroup", "db/db5/a12003.html#ad48e4fbc6984602d0196accea51867de", null ],
-    [ "DiminishMaxLevel", "db/db5/a12003.html#a4b04f3f569b5b73d2f8a9eda429c3f5d", null ],
-    [ "DiminishReturnType", "db/db5/a12003.html#a64a6fc19521245f1145ab6c769175803", null ]
+    [ "ApplyHarmfulAuraImmuneMask", "db/db5/a12003.html#afb005a71205a573357afae14481cf5a4", null ],
+    [ "AuraTypeImmune", "db/db5/a12003.html#ad585a49cd0b72b84e2146b8d6acdb2fc", null ],
+    [ "DamageSchoolMask", "db/db5/a12003.html#a0917b0bacb75c03a527e170ef08f0811", null ],
+    [ "DispelImmuneMask", "db/db5/a12003.html#a142a794d2927b25592fece914f7a40fa", null ],
+    [ "MechanicImmuneMask", "db/db5/a12003.html#ad001d68adbf9c985f26476dda31898ad", null ],
+    [ "SchoolImmuneMask", "db/db5/a12003.html#a4b4b786ef6fe3bb4247eff61416d3400", null ],
+    [ "SpellEffectImmune", "db/db5/a12003.html#afd9f307ea408ac6f88fae8bcde2f1ce7", null ]
 ];

@@ -1,25 +1,19 @@
 var a01439 =
 [
-    [ "PlayerDump", "d6/dba/a12327.html", "d6/dba/a12327" ],
-    [ "PlayerDumpWriter", "d8/d8d/a12331.html", "d8/d8d/a12331" ],
-    [ "PlayerDumpReader", "d0/d34/a12335.html", "d0/d34/a12335" ],
-    [ "DumpReturn", "d7/dfd/a01439.html#a4471667403db9bc7532f371d28743866", [
-      [ "DUMP_SUCCESS", "d7/dfd/a01439.html#a4471667403db9bc7532f371d28743866a6516d3543697022dbf635913b248e48e", null ],
-      [ "DUMP_FILE_OPEN_ERROR", "d7/dfd/a01439.html#a4471667403db9bc7532f371d28743866a01a5aec7fbe2bac9208d139b46a23656", null ],
-      [ "DUMP_TOO_MANY_CHARS", "d7/dfd/a01439.html#a4471667403db9bc7532f371d28743866a73b27eff0adff2ab7bfd73e34aeb307d", null ],
-      [ "DUMP_FILE_BROKEN", "d7/dfd/a01439.html#a4471667403db9bc7532f371d28743866a86acf22616e301a2ffef9ba80e227ed6", null ],
-      [ "DUMP_CHARACTER_DELETED", "d7/dfd/a01439.html#a4471667403db9bc7532f371d28743866a08aa6d880c4d2da0ad4c8c1b27a5cc47", null ]
-    ] ],
-    [ "DumpTableType", "d7/dfd/a01439.html#ad4739d865080bb5590831b606365e7ef", [
-      [ "DTT_CHARACTER", "d7/dfd/a01439.html#ad4739d865080bb5590831b606365e7efaea3cb16043024e5fdfc4f3301d2df323", null ],
-      [ "DTT_CHAR_TABLE", "d7/dfd/a01439.html#ad4739d865080bb5590831b606365e7efa3c784c38ccd07be78692e3e03bb53d94", null ],
-      [ "DTT_EQSET_TABLE", "d7/dfd/a01439.html#ad4739d865080bb5590831b606365e7efa0588b27b8e9c5cd1cd20d4324cad45de", null ],
-      [ "DTT_INVENTORY", "d7/dfd/a01439.html#ad4739d865080bb5590831b606365e7efa137a1112df8b9582403fec12c50fea7f", null ],
-      [ "DTT_MAIL", "d7/dfd/a01439.html#ad4739d865080bb5590831b606365e7efa581ecbcaf9623d952b28fd4e964ae67d", null ],
-      [ "DTT_MAIL_ITEM", "d7/dfd/a01439.html#ad4739d865080bb5590831b606365e7efa917099d0dd625e7aa46b6358fb4c036b", null ],
-      [ "DTT_ITEM", "d7/dfd/a01439.html#ad4739d865080bb5590831b606365e7efad5be0dba7076e09532f3eb8760b8501d", null ],
-      [ "DTT_ITEM_GIFT", "d7/dfd/a01439.html#ad4739d865080bb5590831b606365e7efadead833bce15df38e80b9eee85b1d847", null ],
-      [ "DTT_PET", "d7/dfd/a01439.html#ad4739d865080bb5590831b606365e7efacb52988d860dbf41c2e2a5e2650d95c8", null ],
-      [ "DTT_PET_TABLE", "d7/dfd/a01439.html#ad4739d865080bb5590831b606365e7efa4b50591bf81a27c7f6300f7733b14ac4", null ]
-    ] ]
+    [ "LivingPoisonData", "dc/d18/a19779.html", "dc/d18/a19779" ],
+    [ "instance_naxxramas", "d3/d87/a19783.html", "d3/d87/a19783" ],
+    [ "npc_mr_bigglesworth", "d9/de9/a19787.html", "d9/de9/a19787" ],
+    [ "npc_living_poison", "d7/d8a/a19791.html", "d7/d8a/a19791" ],
+    [ "npc_naxxramas_trigger", "d9/db5/a19795.html", "d9/db5/a19795" ],
+    [ "at_naxxramas_hub_portal", "d3/d57/a19799.html", "d3/d57/a19799" ],
+    [ "AddSC_instance_naxxramas", "d7/dfd/a01439.html#aba1e1afda4423e51a1849a33da49a334", null ],
+    [ "boundaries", "d7/dfd/a01439.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
+    [ "creatureData", "d7/dfd/a01439.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "d7/dfd/a01439.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "gameObjectData", "d7/dfd/a01439.html#a1461582839e3b7fdbb7397e5d2086e31", null ],
+    [ "HeiganEruptionSlope", "d7/dfd/a01439.html#afc813e25da4423b11b3f71a4c3434b43", null ],
+    [ "HeiganPos", "d7/dfd/a01439.html#a329c88a19bf7f6ee06251fb30b96aa80", null ],
+    [ "HorsemanDataGroup", "d7/dfd/a01439.html#a78f519adea6cb5310c9cf098d905aa7b", null ],
+    [ "LivingPoisonDataList", "d7/dfd/a01439.html#a7adc6b584916ee1544c8ff38ab6327a9", null ],
+    [ "SapphironTeleportPos", "d7/dfd/a01439.html#a4b033537221c1c9063ff056950ac6fdb", null ]
 ];

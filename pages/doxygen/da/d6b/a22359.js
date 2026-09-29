@@ -1,6 +1,5 @@
 var a22359 =
 [
-    [ "npc_bushwhackerAI", "d5/d73/a22363.html", "d5/d73/a22363" ],
-    [ "npc_bushwhacker", "da/d6b/a22359.html#ad87a9fdec3d5dbaef429c88905a5f6e8", null ],
-    [ "GetAI", "da/d6b/a22359.html#ab3190b66069e820abf3637bb877066a0", null ]
+    [ "go_pressure_valve", "da/d6b/a22359.html#a43a91a1379001ecd3e825d7d4fcd3c6b", null ],
+    [ "OnGossipHello", "da/d6b/a22359.html#a6b81a04a33cd5e1e577fc80a3b1f706c", null ]
 ];

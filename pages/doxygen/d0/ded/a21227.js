@@ -1,5 +1,7 @@
 var a21227 =
 [
-    [ "achievement_yogg_saron_drive_me_crazy", "d0/ded/a21227.html#a381d8fd2e7b4806181959a1b915f3a8c", null ],
-    [ "OnCheck", "d0/ded/a21227.html#a029fdd68e0643b53971efbb1056f19d8", null ]
+    [ "OnApply", "d0/ded/a21227.html#a458871e0d2c1969a91ce9474b3ad87d0", null ],
+    [ "PrepareAuraScript", "d0/ded/a21227.html#a3a6b71d35bfcf681c98bb3bb4331e91c", null ],
+    [ "Register", "d0/ded/a21227.html#a4d6bb68d17bbc1b10d828b1d70155f65", null ],
+    [ "Validate", "d0/ded/a21227.html#a1ffe527d33de10a7dc8431311f4d738e", null ]
 ];

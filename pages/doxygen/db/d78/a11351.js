@@ -1,6 +1,5 @@
 var a11351 =
 [
-    [ "SetRaidDifficultyClient", "db/d78/a11351.html#afba49b9e3994eb461ac1b827d0c0fac7", null ],
-    [ "Read", "db/d78/a11351.html#a347a86f33f0c31a1c3279028d7dfc46c", null ],
-    [ "Mode", "db/d78/a11351.html#a445a55f5069f60a184b119c57cfedf9a", null ]
+    [ "ResetInstances", "db/d78/a11351.html#a64d9627a48ae2bfcda68b7d04273fe18", null ],
+    [ "Read", "db/d78/a11351.html#a7f190f2bb133fa18e46830f68695b050", null ]
 ];

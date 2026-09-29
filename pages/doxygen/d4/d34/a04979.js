@@ -1,4 +1,4 @@
 var a04979 =
 [
-    [ "Acore::SignalHandler", "db/d12/a05903.html", "db/d12/a05903" ]
+    [ "MessageBuffer", "d0/d49/a05895.html", "d0/d49/a05895" ]
 ];

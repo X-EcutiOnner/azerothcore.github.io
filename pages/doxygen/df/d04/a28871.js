@@ -1,5 +1,5 @@
 var a28871 =
 [
-    [ "go_transport_the_thundercaller", "df/d04/a28871.html#a79d5ed60a112c5f352f9f0b94f9f3a17", null ],
-    [ "EventInform", "df/d04/a28871.html#ad2e981ff6223ec2cbd8a897485a61204", null ]
+    [ "npc_suns_reach_reclamation", "df/d04/a28871.html#aa66b75aa1a4a96a97c4d2c4e42e3d6bb", null ],
+    [ "OnQuestReward", "df/d04/a28871.html#aa403d14fccda7adbec1ffeb765079c25", null ]
 ];

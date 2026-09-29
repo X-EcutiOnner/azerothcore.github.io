@@ -1,7 +1,8 @@
 var a11331 =
 [
-    [ "InstanceResetFailed", "da/d3a/a11331.html#a246b4ab5e9567b99ba83b2a3c9b6c039", null ],
-    [ "Write", "da/d3a/a11331.html#a29506768ce5a5312e659ec787dbc2f8e", null ],
-    [ "MapId", "da/d3a/a11331.html#a3a14b2f4eb5e6d1ce768fe45881e2206", null ],
-    [ "Reason", "da/d3a/a11331.html#a3c629d5db1fb3a4f82ec9dc047a1b9f0", null ]
+    [ "SetDungeonDifficulty", "da/d3a/a11331.html#a3adea4e58ba48bc438e11056cb49e5ab", null ],
+    [ "Write", "da/d3a/a11331.html#a9e3eaebd002b3ed9599c9c2671f9b78e", null ],
+    [ "Difficulty", "da/d3a/a11331.html#a5e216ba7ada0d073b5aebaaa3f221752", null ],
+    [ "IsInGroup", "da/d3a/a11331.html#aff9bae997a9ff6dc64b7b60f736527d7", null ],
+    [ "Unk", "da/d3a/a11331.html#aea436cf338c4bd6b0d2dbc11edda9e3e", null ]
 ];

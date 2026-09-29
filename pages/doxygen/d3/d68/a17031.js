@@ -1,8 +1,6 @@
 var a17031 =
 [
-    [ "npc_toc_hunterAI", "d3/d68/a17031.html#a80f80231bfe5b71bf415da3202c2e6fb", null ],
-    [ "JustSummoned", "d3/d68/a17031.html#aa270248ad9e0c319234ff0741270b465", null ],
-    [ "myCanCast", "d3/d68/a17031.html#a4e599ae2ee4e892795889bd57dd29e27", null ],
-    [ "UpdateAI", "d3/d68/a17031.html#a81f384607ab7e8c4ed7385bdcddfd7a5", null ],
-    [ "events", "d3/d68/a17031.html#a0cf5ecd9d7b3c92e2da836983323f378", null ]
+    [ "npc_toc_mageAI", "d5/db3/a17035.html", "d5/db3/a17035" ],
+    [ "npc_toc_mage", "d3/d68/a17031.html#a8270875c1da3e2e96f767362ef90cdc6", null ],
+    [ "GetAI", "d3/d68/a17031.html#a64b5b8b3a5933a0264537f2187e81e15", null ]
 ];

@@ -1,6 +1,8 @@
 var a18059 =
 [
-    [ "npc_high_overlord_saurfang_igbAI", "d1/d67/a18063.html", "d1/d67/a18063" ],
-    [ "npc_high_overlord_saurfang_igb", "d7/d82/a18059.html#ae68d42f65851a753874705511bb83330", null ],
-    [ "GetAI", "d7/d82/a18059.html#a54b6da97a40665232d28a20bac9b7ef3", null ]
+    [ "ResetEncounterEvent", "d7/d82/a18059.html#aaa1bc6d3d529524df6b0ed6be6e0966f", null ],
+    [ "Execute", "d7/d82/a18059.html#ae8d52fc7c0689620bcef8c04643191f5", null ],
+    [ "_caster", "d7/d82/a18059.html#abb37778222749b27791baa329e268c32", null ],
+    [ "_otherTransport", "d7/d82/a18059.html#a7f2d0aaade5833381e3e7624745fc504", null ],
+    [ "_spellId", "d7/d82/a18059.html#ad4c57e519201e15e23e0f56f4fbe70cb", null ]
 ];

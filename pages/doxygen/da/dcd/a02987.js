@@ -1,39 +1,33 @@
 var a02987 =
 [
-    [ "spell_winter_veil_mistletoe", "d3/df5/a15171.html", "d3/df5/a15171" ],
-    [ "spell_winter_wondervolt_trap", "db/d13/a15175.html", "db/d13/a15175" ],
-    [ "spell_winter_veil_racer_rocket_slam", "dc/d4a/a15179.html", "dc/d4a/a15179" ],
-    [ "spell_winter_veil_racer_slam_hit", "dd/d37/a15183.html", "dd/d37/a15183" ],
-    [ "spell_winter_veil_shoot_air_rifle", "d2/da6/a15187.html", "d2/da6/a15187" ],
-    [ "airRifle", "da/dcd/a02987.html#a0a0aa9e1464024e9f2c7b6ec598e13ff", [
-      [ "SPELL_AIR_RIFLE_RIGHT_IN_THE_EYE", "da/dcd/a02987.html#a0a0aa9e1464024e9f2c7b6ec598e13ffa5a3aacd3d3eb74e1020f0e24c3de3d64", null ],
-      [ "SPELL_AIR_RIFLE_STARLED", "da/dcd/a02987.html#a0a0aa9e1464024e9f2c7b6ec598e13ffaab4b4a71800d5b266ac17392701535bd", null ],
-      [ "SPELL_AIR_RIFLE_HIT", "da/dcd/a02987.html#a0a0aa9e1464024e9f2c7b6ec598e13ffadebbc458f6f97c23c78a5d77355557a0", null ],
-      [ "SPELL_AIR_RIFLE_HIT_TRIGGER", "da/dcd/a02987.html#a0a0aa9e1464024e9f2c7b6ec598e13ffaef31b2903ed373a76624e81b5928b3af", null ],
-      [ "SPELL_AIR_RIFLE_PELTED_DAMAGE", "da/dcd/a02987.html#a0a0aa9e1464024e9f2c7b6ec598e13ffada448247eeb3a3e93e78e6d367af2ea4", null ]
+    [ "WardenModuleUse", "de/ddf/a12343.html", "de/ddf/a12343" ],
+    [ "WardenModuleTransfer", "d2/d4c/a12347.html", "d2/d4c/a12347" ],
+    [ "WardenHashRequest", "da/d2c/a12351.html", "da/d2c/a12351" ],
+    [ "ClientWardenModule", "d1/dc9/a12355.html", "d1/dc9/a12355" ],
+    [ "Warden", "df/dfe/a12359.html", "df/dfe/a12359" ],
+    [ "WardenCheckType", "da/dcd/a02987.html#a7598131f87414a66259189a0518ca6f2", [
+      [ "MEM_CHECK", "da/dcd/a02987.html#a7598131f87414a66259189a0518ca6f2aba449b452d425f871a9c01be028b5074", null ],
+      [ "PAGE_CHECK_A", "da/dcd/a02987.html#a7598131f87414a66259189a0518ca6f2a331b64b77a83e62b070746aab1ea995f", null ],
+      [ "PAGE_CHECK_B", "da/dcd/a02987.html#a7598131f87414a66259189a0518ca6f2a366d33d737ecb1b63b92e5c4fc13ed87", null ],
+      [ "MPQ_CHECK", "da/dcd/a02987.html#a7598131f87414a66259189a0518ca6f2ab22116b6a319b5c4ad88eaf90291090b", null ],
+      [ "LUA_EVAL_CHECK", "da/dcd/a02987.html#a7598131f87414a66259189a0518ca6f2a88364ba9c51997e2baa92428922caada", null ],
+      [ "DRIVER_CHECK", "da/dcd/a02987.html#a7598131f87414a66259189a0518ca6f2a2b63e52f1c3146183a59fffa98919c93", null ],
+      [ "TIMING_CHECK", "da/dcd/a02987.html#a7598131f87414a66259189a0518ca6f2ad11a9e323f324f0c3b2b439fec521018", null ],
+      [ "PROC_CHECK", "da/dcd/a02987.html#a7598131f87414a66259189a0518ca6f2a19186939917116389af429c3c658293d", null ],
+      [ "MODULE_CHECK", "da/dcd/a02987.html#a7598131f87414a66259189a0518ca6f2adc2e09d27e8f622121d11ba931c4ff77", null ]
     ] ],
-    [ "crashinTrashin", "da/dcd/a02987.html#a91189806a3728bf253348c6acff4d44a", [
-      [ "SPELL_BLUE_CAR_VISUAL", "da/dcd/a02987.html#a91189806a3728bf253348c6acff4d44aa2a1df012693fca95e41c96fe1dcfc303", null ],
-      [ "SPELL_RED_CAR_VISUAL", "da/dcd/a02987.html#a91189806a3728bf253348c6acff4d44aa83ccfea77911f91274ab6b76a13ebae9", null ],
-      [ "NPC_RED_RACER", "da/dcd/a02987.html#a91189806a3728bf253348c6acff4d44aa3a540ecf55e0e9719a7b1ecc0d089e83", null ],
-      [ "NPC_BLUE_RACER", "da/dcd/a02987.html#a91189806a3728bf253348c6acff4d44aa29832a92f722fc5ef6e6e0e28c43ace3", null ],
-      [ "SPELL_RACER_DEATH_VISUAL", "da/dcd/a02987.html#a91189806a3728bf253348c6acff4d44aa20ebf97f0f750e11499595b1e7908b4e", null ],
-      [ "SPELL_RACER_CHARGE_TO_OBJECT", "da/dcd/a02987.html#a91189806a3728bf253348c6acff4d44aa16c954e8ddff4772f6cc38ccdaa4537a", null ],
-      [ "SPELL_RACER_KILL_COUNTER", "da/dcd/a02987.html#a91189806a3728bf253348c6acff4d44aad39b98fd63372c2d7f9b59e290a38a68", null ],
-      [ "SPELL_RACER_SLAM_HIT", "da/dcd/a02987.html#a91189806a3728bf253348c6acff4d44aaf80af723709c8607c78c552286259f0b", null ],
-      [ "SPELL_RACER_FLAMES", "da/dcd/a02987.html#a91189806a3728bf253348c6acff4d44aac4f06456e8aa8d185db27f65280e3410", null ],
-      [ "RACER_ACHI_CRITERIA", "da/dcd/a02987.html#a91189806a3728bf253348c6acff4d44aa0c0977d0fa0c060c272d5a9f59f63f5d", null ]
-    ] ],
-    [ "Mistletoe", "da/dcd/a02987.html#a9ae560d3a366e6f163d4fbfd29d339ac", [
-      [ "SPELL_CREATE_MISTLETOE", "da/dcd/a02987.html#a9ae560d3a366e6f163d4fbfd29d339acafdfb3de4159c5083ea35693ceae8b4cc", null ],
-      [ "SPELL_CREATE_HOLLY", "da/dcd/a02987.html#a9ae560d3a366e6f163d4fbfd29d339aca3935eb67c5b7dbbdca5783cb17586508", null ],
-      [ "SPELL_CREATE_SNOWFLAKES", "da/dcd/a02987.html#a9ae560d3a366e6f163d4fbfd29d339aca6fe4f2b2975d9ebf9ed4f806f9c8427a", null ]
-    ] ],
-    [ "winterWondervoltTrap", "da/dcd/a02987.html#a09023d9a36f692674809d983e0b46bb5", [
-      [ "SPELL_WINTER_WONDERVOLT_GREEN_WOMEN", "da/dcd/a02987.html#a09023d9a36f692674809d983e0b46bb5a584ffc066b04a87863dd3bdaa091d6b6", null ],
-      [ "SPELL_WINTER_WONDERVOLT_GREEN_MAN", "da/dcd/a02987.html#a09023d9a36f692674809d983e0b46bb5a962c9fffba35e4a119f563b8656912db", null ],
-      [ "SPELL_WINTER_WONDERVOLT_RED_WOMEN", "da/dcd/a02987.html#a09023d9a36f692674809d983e0b46bb5a08177bc4e663c11752af81f832011bf6", null ],
-      [ "SPELL_WINTER_WONDERVOLT_RED_MAN", "da/dcd/a02987.html#a09023d9a36f692674809d983e0b46bb5a7892046e23913f511b843d5a766e4dd0", null ]
-    ] ],
-    [ "AddSC_event_winter_veil_scripts", "da/dcd/a02987.html#a56e93f0f5c0f4763c439d5ea4cdf6c5e", null ]
+    [ "WardenOpcodes", "da/dcd/a02987.html#a8d0de714c4a4cf7a125c6187a7d19e51", [
+      [ "WARDEN_CMSG_MODULE_MISSING", "da/dcd/a02987.html#a8d0de714c4a4cf7a125c6187a7d19e51a334622303a3ea504196a3807f5da22f4", null ],
+      [ "WARDEN_CMSG_MODULE_OK", "da/dcd/a02987.html#a8d0de714c4a4cf7a125c6187a7d19e51a7636fd5a47dd45d2bf69a4625d77939c", null ],
+      [ "WARDEN_CMSG_CHEAT_CHECKS_RESULT", "da/dcd/a02987.html#a8d0de714c4a4cf7a125c6187a7d19e51a713a20be2d2cf1fa7d46ee2b788bc6f5", null ],
+      [ "WARDEN_CMSG_MEM_CHECKS_RESULT", "da/dcd/a02987.html#a8d0de714c4a4cf7a125c6187a7d19e51adaac6c4f6f3ac87386438a5228ba617f", null ],
+      [ "WARDEN_CMSG_HASH_RESULT", "da/dcd/a02987.html#a8d0de714c4a4cf7a125c6187a7d19e51a51c0070c4347129060a6714ae0f483ed", null ],
+      [ "WARDEN_CMSG_MODULE_FAILED", "da/dcd/a02987.html#a8d0de714c4a4cf7a125c6187a7d19e51a5a2e35d214965eb7dccec345e261fadc", null ],
+      [ "WARDEN_SMSG_MODULE_USE", "da/dcd/a02987.html#a8d0de714c4a4cf7a125c6187a7d19e51ad8b63ed3f3ec8941563402a5eacf9d30", null ],
+      [ "WARDEN_SMSG_MODULE_CACHE", "da/dcd/a02987.html#a8d0de714c4a4cf7a125c6187a7d19e51aa12b4718a7515d81608ba46205625a11", null ],
+      [ "WARDEN_SMSG_CHEAT_CHECKS_REQUEST", "da/dcd/a02987.html#a8d0de714c4a4cf7a125c6187a7d19e51ae5eafc7b23b0d14c934e9eb48fa73709", null ],
+      [ "WARDEN_SMSG_MODULE_INITIALIZE", "da/dcd/a02987.html#a8d0de714c4a4cf7a125c6187a7d19e51aafdff6ee4abd8ad4511d527f09154da8", null ],
+      [ "WARDEN_SMSG_MEM_CHECKS_REQUEST", "da/dcd/a02987.html#a8d0de714c4a4cf7a125c6187a7d19e51a41d76534b91d6af9e1b3ca116c4eda82", null ],
+      [ "WARDEN_SMSG_HASH_REQUEST", "da/dcd/a02987.html#a8d0de714c4a4cf7a125c6187a7d19e51a69c3028f1b435c282c384008e49eb451", null ]
+    ] ]
 ];

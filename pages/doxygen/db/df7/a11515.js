@@ -1,6 +1,7 @@
 var a11515 =
 [
-    [ "ComplainResult", "db/df7/a11515.html#a9c0f7cf8600887fdbc5283fa23f77857", null ],
-    [ "Write", "db/df7/a11515.html#a1b74c82acbfae8d62c7b1d6ef59caa1e", null ],
-    [ "Unk", "db/df7/a11515.html#a88445c8e01e64f89176dd6c1ebb1a986", null ]
+    [ "PlayTimeWarning", "db/df7/a11515.html#a807f58276f79a3cd44276ae13bec996a", null ],
+    [ "Write", "db/df7/a11515.html#ac82f865e5d1bec61be8d1417fa1f864c", null ],
+    [ "Flag", "db/df7/a11515.html#aa6cfe76266f1ee83e72661ccd29223b7", null ],
+    [ "PlayTimeRemaining", "db/df7/a11515.html#a8b540e6721fa017284783e0d510aac2f", null ]
 ];

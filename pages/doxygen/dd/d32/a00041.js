@@ -1,8 +1,8 @@
 var a00041 =
 [
-    [ "ModelIgnoreFlags", "dd/d32/a00041.html#a6996c44f3ac72cd9dc04515186d2da28", [
-      [ "Nothing", "dd/d32/a00041.html#a6996c44f3ac72cd9dc04515186d2da28af80a4ad87fee7c9fdc19b7769495fdb5", null ],
-      [ "M2", "dd/d32/a00041.html#a6996c44f3ac72cd9dc04515186d2da28a9d8322530b67e2366e5b1ba67081ded9", null ]
-    ] ],
-    [ "operator&", "dd/d32/a00041.html#a3c25bdb4d30c345cd6760935e2c456f4", null ]
+    [ "Vec3D", "de/d44/a30455.html", "de/d44/a30455" ],
+    [ "AaBox3D", "d3/d22/a30459.html", "d3/d22/a30459" ],
+    [ "Vec2D", "d6/d77/a30463.html", "d6/d77/a30463" ],
+    [ "Quaternion", "d3/ddb/a30467.html", "d3/ddb/a30467" ],
+    [ "rotate", "dd/d32/a00041.html#a36f9f3de1d3e6935da68df2c6e347a4d", null ]
 ];

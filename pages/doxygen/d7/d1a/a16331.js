@@ -1,6 +1,7 @@
 var a16331 =
 [
-    [ "creatureID", "d7/d1a/a16331.html#a44a9f5e58bfa58e2e2325e116e988f07", null ],
-    [ "pos", "d7/d1a/a16331.html#a9705a858cc2c3867e104514d3a0a1866", null ],
-    [ "waveID", "d7/d1a/a16331.html#a09b48f7f6da7e203ed50a8abc7f24e56", null ]
+    [ "npc_ranshallaAI", "d9/def/a16335.html", "d9/def/a16335" ],
+    [ "npc_ranshalla", "d7/d1a/a16331.html#a0b9848c68cf955d24024071ae9beb8e5", null ],
+    [ "GetAI", "d7/d1a/a16331.html#a1a81651366cc05d3ad6e9929160fe059", null ],
+    [ "OnQuestAccept", "d7/d1a/a16331.html#a4ed77a4c0a48dc4922fa5ebb71949e28", null ]
 ];

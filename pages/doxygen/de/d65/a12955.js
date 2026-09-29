@@ -1,6 +1,5 @@
 var a12955 =
 [
-    [ "near_scarshield_infiltrator", "de/d65/a12955.html#a38d2e75946c429b4d80b007f190406bc", null ],
-    [ "OnTrigger", "de/d65/a12955.html#a59c0e7bcddabbbbecb32f38434899144", null ],
-    [ "whisperedTargets", "de/d65/a12955.html#a5655e241d2551798a960cb6375c7df23", null ]
+    [ "go_father_flame", "de/d65/a12955.html#aa23829f617c48bb6da57ff7977886e75", null ],
+    [ "OnStateChanged", "de/d65/a12955.html#ad0e85a66d65d908c532c2bfde0605b39", null ]
 ];

@@ -1,6 +1,6 @@
 var a20151 =
 [
-    [ "instance_halls_of_stone_InstanceMapScript", "d6/d6e/a20155.html", "d6/d6e/a20155" ],
-    [ "instance_halls_of_stone", "d1/de1/a20151.html#ad0237cfaf2e48036f45181fd7746df2b", null ],
-    [ "GetInstanceScript", "d1/de1/a20151.html#a784906c7710a216016101cf7a6a915f3", null ]
+    [ "HandleScript", "d1/de1/a20151.html#a992dbad02eab01824d870bdd3fca93d0", null ],
+    [ "PrepareSpellScript", "d1/de1/a20151.html#a0e6b4d1f59896a255929556baa943bdb", null ],
+    [ "Register", "d1/de1/a20151.html#a6bd2b3f20ee88fbba18ea6da6e8a23ab", null ]
 ];

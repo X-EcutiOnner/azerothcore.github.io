@@ -1,8 +1,15 @@
 var a17367 =
 [
-    [ "npc_fos_leaderAI", "d5/dd6/a17367.html#ae6a80f77558e0f5a62efc3b5ef1f61d6", null ],
-    [ "DoAction", "d5/dd6/a17367.html#a1fd8cea6f8a6d8f76ba3c484b15c4054", null ],
-    [ "Reset", "d5/dd6/a17367.html#a33364da3af4681de9f9e21b9dcf7f16c", null ],
-    [ "UpdateAI", "d5/dd6/a17367.html#ac6f2aedc40e415ac0f7e8c212d4deae5", null ],
-    [ "events", "d5/dd6/a17367.html#ac02a0c34096086e7baf1dc004811f4c1", null ]
+    [ "boss_devourer_of_souls", "d5/dd6/a17367.html#a8d089de7236e18003bfd484e34f77ea3", null ],
+    [ "CanAIAttack", "d5/dd6/a17367.html#a6e84fb1104ce99448f2aea819fc7748f", null ],
+    [ "EnterEvadeMode", "d5/dd6/a17367.html#adce881b46c1a9de4f0eee8dd2cbadff1", null ],
+    [ "GetData", "d5/dd6/a17367.html#a6df46af55679a009c7f6a30d1f1185f6", null ],
+    [ "JustDied", "d5/dd6/a17367.html#a8d58c994b2a0428b723bd2528c312f72", null ],
+    [ "JustEngagedWith", "d5/dd6/a17367.html#a25af638ab8e5c8348e5e910cfb52a1fd", null ],
+    [ "JustSummoned", "d5/dd6/a17367.html#ac985b112bf87341b4c0b132502517bfb", null ],
+    [ "KilledUnit", "d5/dd6/a17367.html#ae8ba70f003d792e499b095f2030b58b1", null ],
+    [ "Reset", "d5/dd6/a17367.html#a57cc2f21324c38cdc9c87adf3b425ed4", null ],
+    [ "SpellHitTarget", "d5/dd6/a17367.html#ad8215797d3bbd05efd93b04ae8b3cad2", null ],
+    [ "UpdateAI", "d5/dd6/a17367.html#a47b6ff4e3edad4f1d5a4974a5a84696a", null ],
+    [ "AchievementCompleted", "d5/dd6/a17367.html#a7f19641d3c3496e8cf4c86e736607441", null ]
 ];

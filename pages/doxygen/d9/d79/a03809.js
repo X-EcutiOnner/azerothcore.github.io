@@ -1,25 +1,9 @@
 var a03809 =
 [
-    [ "npc_shenthul", "d1/d06/a16119.html", "d1/d06/a16119" ],
-    [ "npc_shenthul::npc_shenthulAI", "d0/d69/a16123.html", "d0/d69/a16123" ],
-    [ "npc_thrall_warchief", "dc/d3a/a16127.html", "dc/d3a/a16127" ],
-    [ "npc_thrall_warchief::npc_thrall_warchiefAI", "d1/db1/a16131.html", "d1/db1/a16131" ],
-    [ "Shenthul", "d9/d79/a03809.html#a032512bb2693fda342f4d77dba794fbe", [
-      [ "QUEST_SHATTERED_SALUTE", "d9/d79/a03809.html#a032512bb2693fda342f4d77dba794fbea38993f500c01e7bc0ae8dd3a83848ff0", null ]
-    ] ],
-    [ "ThrallWarchief", "d9/d79/a03809.html#a1cdad3bda3b93500c342a64dce6d15d9", [
-      [ "SPELL_CHAIN_LIGHTNING", "d9/d79/a03809.html#a1cdad3bda3b93500c342a64dce6d15d9ac0997e72929070d8e30cc0f49cc4539d", null ],
-      [ "SPELL_SHOCK", "d9/d79/a03809.html#a1cdad3bda3b93500c342a64dce6d15d9a30aa4cac2f70a310466b3fb0f2d10eab", null ],
-      [ "QUEST_FOR_THE_HORDE", "d9/d79/a03809.html#a1cdad3bda3b93500c342a64dce6d15d9aed442141280385194a0a8b73d7e489af", null ],
-      [ "SPELL_WARCHIEF_BLESSING", "d9/d79/a03809.html#a1cdad3bda3b93500c342a64dce6d15d9a567e6044eaae260d8ab29c346613b225", null ],
-      [ "NPC_HERALD_OF_THRALL", "d9/d79/a03809.html#a1cdad3bda3b93500c342a64dce6d15d9a3533aba0519168d4cfb3446a1bbde5bc", null ],
-      [ "ACTION_START_TALKING", "d9/d79/a03809.html#a1cdad3bda3b93500c342a64dce6d15d9a322b9b49cd88bc70c039be2aa4e0c7fd", null ],
-      [ "SAY_THRALL_ON_QUEST_REWARD_0", "d9/d79/a03809.html#a1cdad3bda3b93500c342a64dce6d15d9a64ac3588375f611524513fd4d4293a1b", null ],
-      [ "SAY_THRALL_ON_QUEST_REWARD_1", "d9/d79/a03809.html#a1cdad3bda3b93500c342a64dce6d15d9a3a6a88801e0a276bd78e5299ffb76302", null ],
-      [ "GO_UNADORNED_SPIKE", "d9/d79/a03809.html#a1cdad3bda3b93500c342a64dce6d15d9a544ea295d906cebdf38aecb93e7ac153", null ],
-      [ "QUEST_WHAT_THE_WIND_CARRIES", "d9/d79/a03809.html#a1cdad3bda3b93500c342a64dce6d15d9a5bc18876e7da8ddfc493ea155bb75287", null ],
-      [ "QUEST_WARCHIEFS_BLESSING", "d9/d79/a03809.html#a1cdad3bda3b93500c342a64dce6d15d9ab698e2206a77782e1893a2230085a047", null ]
-    ] ],
-    [ "AddSC_orgrimmar", "d9/d79/a03809.html#aec4388ea6d2e4bbc1d279b3a4687c4c6", null ],
-    [ "heraldOfThrallPos", "d9/d79/a03809.html#a016aeee1d0eac9c78c522520663670f0", null ]
+    [ "PathMovementBase< T, P >", "dd/d0d/a10551.html", "dd/d0d/a10551" ],
+    [ "WaypointMovementGenerator< Creature >", "d9/d1a/a10559.html", "d9/d1a/a10559" ],
+    [ "FlightPathMovementGenerator", "d9/dda/a10563.html", "d9/dda/a10563" ],
+    [ "FlightPathMovementGenerator::TaxiNodeChangeInfo", "d7/d07/a10567.html", "d7/d07/a10567" ],
+    [ "FLIGHT_TRAVEL_UPDATE", "d9/d79/a03809.html#af2d292bdefbb6db76ff3201ac0c0cdd6", null ],
+    [ "TIMEDIFF_NEXT_WP", "d9/d79/a03809.html#afcff81f45a877feac68bf5bcae913560", null ]
 ];

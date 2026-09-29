@@ -1,8 +1,6 @@
 var a16599 =
 [
-    [ "RestoreFight", "d1/d03/a16599.html#a0149cccce8c3120b1e988e9a7c96f75c", null ],
-    [ "RestoreFight", "d1/d03/a16599.html#a0149cccce8c3120b1e988e9a7c96f75c", null ],
-    [ "Execute", "d1/d03/a16599.html#a019eb3c08dc8c3b97fc27b989ec8ab77", null ],
-    [ "Execute", "d1/d03/a16599.html#a019eb3c08dc8c3b97fc27b989ec8ab77", null ],
-    [ "_owner", "d1/d03/a16599.html#ae35c9b4547fcd7e8ea0f4b6ee4c637a0", null ]
+    [ "instance_obsidian_sanctum_InstanceMapScript", "d8/d8c/a16603.html", "d8/d8c/a16603" ],
+    [ "instance_obsidian_sanctum", "d1/d03/a16599.html#a6cf2121c4167156f5748c144372b3c0b", null ],
+    [ "GetInstanceScript", "d1/d03/a16599.html#a67acb36f65c1bc3d6eca59bf71a5c220", null ]
 ];

@@ -1,6 +1,7 @@
 var a22091 =
 [
-    [ "CheckRequirement", "db/d95/a22091.html#ad58d71b5c2bc10d9ffbfe472bd5b1a32", null ],
-    [ "PrepareSpellScript", "db/d95/a22091.html#ae621e95feb69b54f9aef5d77577a15ae", null ],
-    [ "Register", "db/d95/a22091.html#ab0b03fd2d1a0ed6720acc45221a582f6", null ]
+    [ "HandleScriptEffect", "db/d95/a22091.html#ad3f1231ac90b96650b5c8c3403d69195", null ],
+    [ "PrepareSpellScript", "db/d95/a22091.html#a1fdd85c5833bf6f17395f56e2ea11fed", null ],
+    [ "Register", "db/d95/a22091.html#a278206630f9f45f2dba50b259a6115c1", null ],
+    [ "Validate", "db/d95/a22091.html#a8f6332b2d4e7ac7ba6a68331b1d4512f", null ]
 ];

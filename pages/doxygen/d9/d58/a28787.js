@@ -1,8 +1,9 @@
 var a28787 =
 [
-    [ "npc_traveler_mammoth_vendor", "d9/d58/a28787.html#af3b5fc14371eb03e8259799b296967c1", null ],
-    [ "Reset", "d9/d58/a28787.html#a2b8cf527d2a42b4884f0a4e03a15e8ef", null ],
-    [ "UpdateAI", "d9/d58/a28787.html#a98129bb78476ddc0b1a09593b8894fff", null ],
-    [ "_hasEjected", "d9/d58/a28787.html#af801e9849a795358c812fddf69ec8434", null ],
-    [ "_playerGuid", "d9/d58/a28787.html#a9e657a91bedc5643b2de6a135e97d89c", null ]
+    [ "npc_arcanite_dragonling", "d9/d58/a28787.html#a9b7e4cefa312a16c90018d655ad94758", null ],
+    [ "CanAIAttack", "d9/d58/a28787.html#a374e127ef749dc72ec70137bcd13a0b9", null ],
+    [ "IsSummonedBy", "d9/d58/a28787.html#a921b35a91c4f21258efdb41fd87413db", null ],
+    [ "JustEngagedWith", "d9/d58/a28787.html#a65f6d779681861117f750b70154b3e0d", null ],
+    [ "Reset", "d9/d58/a28787.html#a4468d91430add821bf7a7ab11d8063da", null ],
+    [ "UpdateAI", "d9/d58/a28787.html#aebe430b9a3079a5ccbfd979a74e532f3", null ]
 ];

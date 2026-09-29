@@ -1,6 +1,9 @@
 var a17515 =
 [
-    [ "boss_krickAI", "d9/df3/a17519.html", "d9/df3/a17519" ],
-    [ "boss_krick", "df/dd8/a17515.html#a8921ff79c0af7db7f7910634239bcd0c", null ],
-    [ "GetAI", "df/dd8/a17515.html#a9aa994da7c667b20c00b1bd1e994fed1", null ]
+    [ "FilterTargets", "df/dd8/a17515.html#aefebf504286394cf3caffa566543e4a4", null ],
+    [ "FilterTargetsNext", "df/dd8/a17515.html#a356b6ace97d07df22a232d2287072b5e", null ],
+    [ "PrepareSpellScript", "df/dd8/a17515.html#a893e0eb620e19909b2f2a715ea946f6b", null ],
+    [ "Register", "df/dd8/a17515.html#a962651920a94190f4864a3b1c7fcd1d3", null ],
+    [ "Unload", "df/dd8/a17515.html#a6adc9b6ca86da6cd9465fa0da150dcca", null ],
+    [ "targetList", "df/dd8/a17515.html#a3c839185938e0b67b97f652d1d15e213", null ]
 ];

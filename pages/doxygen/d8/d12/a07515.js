@@ -1,9 +1,9 @@
 var a07515 =
 [
-    [ "SmartWaypointMgr", "d8/d12/a07515.html#ad9168edcc4fd16260178d4a9277f71ba", null ],
-    [ "~SmartWaypointMgr", "d8/d12/a07515.html#a7299029b0e2063740fd2fe9d9b218749", null ],
-    [ "GetPath", "d8/d12/a07515.html#ab3fb0cb109b9bf28ee09173f4340c351", null ],
-    [ "instance", "d8/d12/a07515.html#a7ae477d4d210d938e167453d9085e520", null ],
-    [ "LoadFromDB", "d8/d12/a07515.html#a9b5cdb29d31e7de0a407f600aef482af", null ],
-    [ "waypoint_map", "d8/d12/a07515.html#ac34eb4bd79106db2574cce0208a785e5", null ]
+    [ "ObjectGuidVector", "d8/d12/a07515.html#aa49ab82006c390e7110013b44c018c0f", null ],
+    [ "~ObjectGuidVector", "d8/d12/a07515.html#a07fe3304a0edffa1f17a0ce5f97d01e6", null ],
+    [ "GetObjectVector", "d8/d12/a07515.html#a94ee201dcf0750edb84cedb151e9ff22", null ],
+    [ "UpdateObjects", "d8/d12/a07515.html#a8b6dad1739f51bba936257410a968c6e", null ],
+    [ "_guidVector", "d8/d12/a07515.html#aefce0edc7881ca01ba8c8c98067e165d", null ],
+    [ "_objectVector", "d8/d12/a07515.html#a78137cb1ae9930c11f87a4a8ed5e7e26", null ]
 ];

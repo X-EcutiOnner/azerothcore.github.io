@@ -1,12 +1,8 @@
 var a20083 =
 [
-    [ "boss_krystallusAI", "de/d53/a20083.html#adfa2ab8498279937bf497292d6e7cba5", null ],
-    [ "JustDied", "de/d53/a20083.html#a5b77186f7c0920142a64a03c508dcc3e", null ],
-    [ "JustEngagedWith", "de/d53/a20083.html#aaba17094bfe43c9ad63076f84d10a83a", null ],
-    [ "KilledUnit", "de/d53/a20083.html#acf9101c5b776820039fd80e5d6e0c138", null ],
-    [ "RemoveStonedEffect", "de/d53/a20083.html#ae8bdb2bca7c01c564adab93f1dd67720", null ],
-    [ "Reset", "de/d53/a20083.html#ae163fbd682f09f2a49fa71309284ed3b", null ],
-    [ "UpdateAI", "de/d53/a20083.html#a79095e25f1d9dac927f63cef67db60ec", null ],
-    [ "events", "de/d53/a20083.html#afcd06280f8c7640ff9a56223f5bf3555", null ],
-    [ "pInstance", "de/d53/a20083.html#aec9cf7053476298f72dccf3bd1579c63", null ]
+    [ "instance_halls_of_lightning_InstanceMapScript", "de/d53/a20083.html#a9c82cd25354abaf7707c1dabd62c9fe3", null ],
+    [ "CheckAchievementCriteriaMeet", "de/d53/a20083.html#ad6db51b0ae7de338264d07a61daf21cc", null ],
+    [ "SetData", "de/d53/a20083.html#a26bd9da74d0d29e50b61df62b205f5e6", null ],
+    [ "_bjarngrimAchievement", "de/d53/a20083.html#aba06463eb70c68716f571951395c6e2a", null ],
+    [ "_volkhanAchievement", "de/d53/a20083.html#a52db8081961566ef2002424f00b60189", null ]
 ];

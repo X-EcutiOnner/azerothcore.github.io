@@ -1,9 +1,9 @@
 var a05039 =
 [
-    [ "Acore::Impl::StringConvertImpl::For< T, typename >", "d3/d01/a05935.html", null ],
-    [ "Acore::Impl::StringConvertImpl::For< T, std::enable_if_t< std::is_integral_v< T > &&!std::is_same_v< T, bool > > >", "dd/d7b/a05939.html", "dd/d7b/a05939" ],
-    [ "Acore::Impl::StringConvertImpl::For< bool, void >", "d3/d4c/a05943.html", "d3/d4c/a05943" ],
-    [ "Acore::Impl::StringConvertImpl::For< T, std::enable_if_t< std::is_floating_point_v< T > > >", "d1/d1f/a05947.html", "d1/d1f/a05947" ],
-    [ "StringTo", "d4/d6b/a05039.html#a71739ada07c2f1b12bcd0aa811eea903", null ],
-    [ "ToString", "d4/d6b/a05039.html#ac2cb308fb001c35fbaa90489ea6cf478", null ]
+    [ "localtime_r", "d4/d6b/a05039.html#a17fdb8f2104b98bad5d9fb343d0a043a", null ],
+    [ "DAYS", "d4/d6b/a05039.html#ac9bde42940b2570f3865385200b56af8", null ],
+    [ "HOURS", "d4/d6b/a05039.html#a18161a3aeba136aeffb54a07f08f08f6", null ],
+    [ "MILLISECONDS", "d4/d6b/a05039.html#a2624e61008f0e89d91c7c55161f9bcd8", null ],
+    [ "MINUTES", "d4/d6b/a05039.html#abbd89694b6a3e24a701ce6971b2cd37d", null ],
+    [ "SECONDS", "d4/d6b/a05039.html#a5fb1c8d14d370751c6202fc87b27bf96", null ]
 ];

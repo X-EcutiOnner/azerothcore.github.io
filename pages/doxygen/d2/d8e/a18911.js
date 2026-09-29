@@ -1,6 +1,9 @@
 var a18911 =
 [
-    [ "npc_icc_lk_checktargetAI", "d4/d3f/a18915.html", "d4/d3f/a18915" ],
-    [ "npc_icc_lk_checktarget", "d2/d8e/a18911.html#a3a2cc943e731e472694dcb13417090da", null ],
-    [ "GetAI", "d2/d8e/a18911.html#a2cd9a5c7fec791ba8786cf1bb5b7c8bd", null ]
+    [ "npc_spirit_wardenAI", "d2/d8e/a18911.html#a3391168478345d8b5c1fee151f6e9f04", null ],
+    [ "JustDied", "d2/d8e/a18911.html#aa762c0bea6361107312e8231508dc655", null ],
+    [ "Reset", "d2/d8e/a18911.html#ad6076663f65f43874feb0ecfc57718a4", null ],
+    [ "UpdateAI", "d2/d8e/a18911.html#af845e3e2c38af5baa84c94f6074c0caf", null ],
+    [ "_events", "d2/d8e/a18911.html#a1bc5cfdee62efdd622e0fe1aa503c260", null ],
+    [ "_instance", "d2/d8e/a18911.html#a58ebb8e42e77add79fc888248013eb24", null ]
 ];

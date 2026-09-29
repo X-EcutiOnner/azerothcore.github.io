@@ -1,9 +1,14 @@
 var a04451 =
 [
-    [ "ArenaTeamTest", "d1/d18/a29967.html", "d1/d18/a29967" ],
-    [ "ArenaTeamFilterTest", "df/d96/a29971.html", "df/d96/a29971" ],
-    [ "ArenaTeamWithType", "d0/d73/a04451.html#a9ce4d88bf97ee463db69de183769f18e", null ],
-    [ "TEST_F", "d0/d73/a04451.html#a37c0d226ff50c702fc70274ea77f1f09", null ],
-    [ "TEST_F", "d0/d73/a04451.html#a0f9cf98a51ec8c4db75724bf81ef8c7c", null ],
-    [ "TEST_F", "d0/d73/a04451.html#a03a46ff29d075ef3207bb12d9a539b5b", null ]
+    [ "SpellProcTargetResolutionTest", "d7/df4/a30187.html", null ],
+    [ "ResolveProcTriggerTarget", "d0/d73/a04451.html#ae0ceced3da7b46834d403b94be7bd498", null ],
+    [ "TEST_F", "d0/d73/a04451.html#a94bb580a1521b12b0dc26d91b4d9e3ca", null ],
+    [ "TEST_F", "d0/d73/a04451.html#adc4f7536f5fbc531ee25c5e2e8aa823c", null ],
+    [ "TEST_F", "d0/d73/a04451.html#a6349a6956dcb722f54714e939b3ccb12", null ],
+    [ "TEST_F", "d0/d73/a04451.html#a8d1c35ebc225b6f64d08e5748e6adbfe", null ],
+    [ "TEST_F", "d0/d73/a04451.html#ac01a72b5a8b9e24ce8306b05cca87dbb", null ],
+    [ "TEST_F", "d0/d73/a04451.html#adc3e9713f51dc9d0659472c769da1073", null ],
+    [ "TEST_F", "d0/d73/a04451.html#a65154972e92d7ebcbd52504ba1d20322", null ],
+    [ "FAKE_ENEMY", "d0/d73/a04451.html#a44641e393e88c869080a70e5d49c017c", null ],
+    [ "FAKE_ROGUE", "d0/d73/a04451.html#aa56828182e47a5c051cfcc0318167b79", null ]
 ];

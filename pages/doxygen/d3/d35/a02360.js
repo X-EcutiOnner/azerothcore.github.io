@@ -1,5 +1,6 @@
 var a02360 =
 [
-    [ "message_commandscript", "dc/d02/a12595.html", "dc/d02/a12595" ],
-    [ "AddSC_message_commandscript", "d3/d35/a02360.html#a85760eb92ac87e8dcb18c91d31f09fc0", null ]
+    [ "DatabaseWorkerPool< T >", "db/d41/a06115.html", "db/d41/a06115" ],
+    [ "MIN_MYSQL_CLIENT_VERSION", "d3/d35/a02360.html#abfde8cf59610848eff4ea61d09bb8ca7", null ],
+    [ "MIN_MYSQL_SERVER_VERSION", "d3/d35/a02360.html#acd4a83e86313ca0bb35cb66497bc79b2", null ]
 ];

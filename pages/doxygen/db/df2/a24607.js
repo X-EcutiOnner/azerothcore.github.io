@@ -1,5 +1,6 @@
 var a24607 =
 [
-    [ "npc_pet_pri_lightwell", "db/df2/a24607.html#aebeb192e66c7d5b4201cbaa81d46703c", null ],
-    [ "InitializeAI", "db/df2/a24607.html#a5244bcfab27ccad603f80c6f2b2fcd3a", null ]
+    [ "CheckProc", "db/df2/a24607.html#a5c7245398c005a133576493366010e58", null ],
+    [ "PrepareAuraScript", "db/df2/a24607.html#ac2a2d20470e7fa3df8491c7c81330a52", null ],
+    [ "Register", "db/df2/a24607.html#a4f6bcdb58b02d351aee9efcd37af3492", null ]
 ];

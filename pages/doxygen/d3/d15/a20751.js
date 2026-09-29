@@ -1,7 +1,11 @@
 var a20751 =
 [
-    [ "FilterTargets", "d3/d15/a20751.html#a4ea7a7ee257a74c7ae1da47b9a75f852", null ],
-    [ "HandleScript", "d3/d15/a20751.html#a3b5fa94cdc2da133ae0cfaab9f949a57", null ],
-    [ "PrepareSpellScript", "d3/d15/a20751.html#a9e29a54a0c4bbc32b5d9fffe6d34a41d", null ],
-    [ "Register", "d3/d15/a20751.html#a53f90eb4dc7cdeab5bee4ab1a21691ac", null ]
+    [ "npc_ulduar_proximity_mine", "d3/d15/a20751.html#a4d8a6ab45b259e42d33d5114d1f7e947", null ],
+    [ "AttackStart", "d3/d15/a20751.html#ae88f3a9cb40aebb469849799e7b7c7c0", null ],
+    [ "CanAIAttack", "d3/d15/a20751.html#a18311072271a18b279c5bf21f7da2482", null ],
+    [ "MoveInLineOfSight", "d3/d15/a20751.html#a6a406f8098dac7038173f51e9f85a79b", null ],
+    [ "UpdateAI", "d3/d15/a20751.html#ad014e0aa8125ef13cfea039acfe0c76f", null ],
+    [ "_exploded", "d3/d15/a20751.html#ad1cd15a93a35f4034c0d690e8d1713ea", null ],
+    [ "_timer", "d3/d15/a20751.html#afe009de55826305826105bd29458d0eb", null ],
+    [ "_timer2", "d3/d15/a20751.html#a08afb215eeaa5e0ec4d9543bc474d392", null ]
 ];

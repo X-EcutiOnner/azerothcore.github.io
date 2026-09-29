@@ -1,6 +1,6 @@
 var a16831 =
 [
-    [ "FilterTargets", "df/d49/a16831.html#a40c4d2b624fe87e21263d1b137994cc3", null ],
-    [ "PrepareSpellScript", "df/d49/a16831.html#a697a52cbc50eafd2b0377621afb01557", null ],
-    [ "Register", "df/d49/a16831.html#a3d523f92cb8123f30cb068cbac39a9c3", null ]
+    [ "npc_argent_soldierAI", "d8/d13/a16835.html", "d8/d13/a16835" ],
+    [ "npc_argent_soldier", "df/d49/a16831.html#aa308b4cf1df6edf0666d06e0ddab0797", null ],
+    [ "GetAI", "df/d49/a16831.html#adfeed3d533104b9617dfbb06925a3d44", null ]
 ];

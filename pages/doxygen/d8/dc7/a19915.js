@@ -1,13 +1,12 @@
 var a19915 =
 [
-    [ "boss_drakosAI", "d8/dc7/a19915.html#a75d771095897081457353be898b332c3", null ],
-    [ "JustDied", "d8/dc7/a19915.html#a7235760bd407f49802bc9e26e8f3f22c", null ],
-    [ "JustEngagedWith", "d8/dc7/a19915.html#a4bc15075d9e9a913783da482a7a167c7", null ],
-    [ "JustSummoned", "d8/dc7/a19915.html#a06e21c4e5bd1a882ada074b9595d4088", null ],
-    [ "KilledUnit", "d8/dc7/a19915.html#a4bd3e45b45660311d7510f58a1850648", null ],
-    [ "MoveInLineOfSight", "d8/dc7/a19915.html#a10b2ca39887e906e6e1e33df82afc1da", null ],
-    [ "Reset", "d8/dc7/a19915.html#a6fd78f4f45b9f2104acc481fb0f2763f", null ],
-    [ "UpdateAI", "d8/dc7/a19915.html#abf761c7cda4031c31354d8c8d42963e0", null ],
-    [ "events", "d8/dc7/a19915.html#ae86ad4fcc57cc1137411c881355f2f51", null ],
-    [ "pInstance", "d8/dc7/a19915.html#adc9461ae5334634a9140f338547688b4", null ]
+    [ "instance_nexus_InstanceMapScript", "d8/dc7/a19915.html#a6803f233d730f33e5af7dc9d8ecd9775", null ],
+    [ "Initialize", "d8/dc7/a19915.html#a2c6c42e73de2a155c04f80e37aa5d442", null ],
+    [ "KillAllFrayers", "d8/dc7/a19915.html#a7c696467deba7a2f15d5175e3427bd20", null ],
+    [ "OnCreatureCreate", "d8/dc7/a19915.html#a04806dc42aa0b171fa99eb1d8492ff61", null ],
+    [ "OnGameObjectCreate", "d8/dc7/a19915.html#a85c3ac915970d68a192414ca4ff8ad1f", null ],
+    [ "OnGameObjectRemove", "d8/dc7/a19915.html#ac148c67823484eee38ab6646dfb68530", null ],
+    [ "SetBossState", "d8/dc7/a19915.html#a11ac1fbc7c699084e7da5e4bf0595651", null ],
+    [ "SetData", "d8/dc7/a19915.html#a351052b1d3ea4ddb5d36ce69818c7e67", null ],
+    [ "_frayerGUIDs", "d8/dc7/a19915.html#ab85b5379b6c177dc1d61ccd14106a325", null ]
 ];

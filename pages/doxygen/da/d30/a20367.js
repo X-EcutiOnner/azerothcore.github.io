@@ -1,8 +1,6 @@
 var a20367 =
 [
-    [ "FilterTargets", "da/d30/a20367.html#a93b41db0e89710c6e0e3c764d51d37ad", null ],
-    [ "HandleScript", "da/d30/a20367.html#a0c7d9007a9401b96a3c1f8614dc1a2db", null ],
-    [ "PrepareSpellScript", "da/d30/a20367.html#aea46762f43b31923617f740e0545fe98", null ],
-    [ "Register", "da/d30/a20367.html#a6ccde780ea9fba273b96d6fd9558a2d1", null ],
-    [ "Validate", "da/d30/a20367.html#af526a7a7a82ec7621f8842e884d7b14f", null ]
+    [ "npc_salvaged_chopper", "da/d30/a20367.html#ad2d875ba3e7de8e44213cd8fdf383df0", null ],
+    [ "PassengerBoarded", "da/d30/a20367.html#a12e63e4a2ce543293a398bfe3e9635ad", null ],
+    [ "SwapActionButton", "da/d30/a20367.html#afe67864f4315ad1fa876572c840cc190", null ]
 ];

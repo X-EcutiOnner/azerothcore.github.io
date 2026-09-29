@@ -1,6 +1,6 @@
 var a11715 =
 [
-    [ "QuestLogRemoveQuest", "d3/d65/a11715.html#afeb3eec9774e69822f3b5f9bf7b5f905", null ],
-    [ "Read", "d3/d65/a11715.html#a22e2ff4a700f9db48518cf5a9aec18f6", null ],
-    [ "Slot", "d3/d65/a11715.html#ae1d6a81d589533b15c0358b4896afd91", null ]
+    [ "QuestConfirmAcceptClient", "d3/d65/a11715.html#ac45767c9cf0e197e185a8936598fc9ea", null ],
+    [ "Read", "d3/d65/a11715.html#a483980152418879fd1a55db2fa4bf68a", null ],
+    [ "QuestId", "d3/d65/a11715.html#a25b4b779fdf9e642b2fe13faf03d50b1", null ]
 ];

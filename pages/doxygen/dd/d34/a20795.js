@@ -1,9 +1,5 @@
 var a20795 =
 [
-    [ "npc_ulduar_emergency_fire_bot", "dd/d34/a20795.html#ae6e7e18bae098db633de891ab52ca0d3", null ],
-    [ "AttackStart", "dd/d34/a20795.html#ab319353cab89d6f1bcb9be7f8e273600", null ],
-    [ "MoveInLineOfSight", "dd/d34/a20795.html#a1d217847b4aa4d199bc7060820b2d0fb", null ],
-    [ "MovementInform", "dd/d34/a20795.html#a6f7306e3da54511ddbef772044f76950", null ],
-    [ "UpdateAI", "dd/d34/a20795.html#a653df31873aca5acb86020cc1e14f4a0", null ],
-    [ "_events", "dd/d34/a20795.html#a99f051bd7a1136375103005f0615c4f2", null ]
+    [ "go_ulduar_do_not_push_this_button", "dd/d34/a20795.html#aa204af213a643c001161e0c2f173ee6b", null ],
+    [ "OnGossipHello", "dd/d34/a20795.html#ae11efa54b496ab21600a9c62e50b5fbe", null ]
 ];

@@ -1,7 +1,5 @@
 var a04727 =
 [
-    [ "VMAP::GroupLocationInfo", "d3/d97/a05375.html", "d3/d97/a05375" ],
-    [ "VMAP::LocationInfo", "dd/d3d/a05379.html", "dd/d3d/a05379" ],
-    [ "VMAP::StaticMapTree", "db/d18/a05383.html", "db/d18/a05383" ],
-    [ "VMAP::AreaInfo", "db/de3/a05387.html", "db/de3/a05387" ]
+    [ "BIHWrap< T, BoundsFunc >", "d9/dba/a05287.html", "d9/dba/a05287" ],
+    [ "BIHWrap< T, BoundsFunc >::MDLCallback< RayCallback >", "d8/dbd/a05291.html", "d8/dbd/a05291" ]
 ];

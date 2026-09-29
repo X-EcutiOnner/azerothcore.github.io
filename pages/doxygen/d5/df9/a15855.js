@@ -1,6 +1,6 @@
 var a15855 =
 [
-    [ "HandleDummy", "d5/df9/a15855.html#ac06b2b8e07ebc51a281c70663796dcc3", null ],
-    [ "PrepareSpellScript", "d5/df9/a15855.html#aa60cc00f33e329fe8d010c0e1c00989a", null ],
-    [ "Register", "d5/df9/a15855.html#aee9d14b3f45cb43478f970e9e6e173fd", null ]
+    [ "aqsentinelAI", "dd/d3e/a15859.html", "dd/d3e/a15859" ],
+    [ "npc_anubisath_sentinel", "d5/df9/a15855.html#ada1ab0d1857fe52020e798d9710a66cb", null ],
+    [ "GetAI", "d5/df9/a15855.html#ae19b8ba3766ede8f715dad5ff8d4b2d2", null ]
 ];

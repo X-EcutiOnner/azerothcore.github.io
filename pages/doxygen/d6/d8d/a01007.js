@@ -1,21 +1,33 @@
 var a01007 =
 [
-    [ "WorldPackets::Misc::Weather", "dd/da7/a11451.html", "dd/da7/a11451" ],
-    [ "WorldPackets::Misc::LevelUpInfo", "d9/d63/a11455.html", "d9/d63/a11455" ],
-    [ "WorldPackets::Misc::PlayMusic", "de/d80/a11459.html", "de/d80/a11459" ],
-    [ "WorldPackets::Misc::PlayObjectSound", "d1/d27/a11463.html", "d1/d27/a11463" ],
-    [ "WorldPackets::Misc::Playsound", "d5/d79/a11467.html", "d5/d79/a11467" ],
-    [ "WorldPackets::Misc::MinimapPingClient", "d2/d52/a11471.html", "d2/d52/a11471" ],
-    [ "WorldPackets::Misc::MinimapPing", "df/dab/a11475.html", "df/dab/a11475" ],
-    [ "WorldPackets::Misc::RandomRollClient", "de/d86/a11479.html", "de/d86/a11479" ],
-    [ "WorldPackets::Misc::RandomRoll", "d5/d07/a11483.html", "d5/d07/a11483" ],
-    [ "WorldPackets::Misc::StartMirrorTimer", "d9/dc3/a11487.html", "d9/dc3/a11487" ],
-    [ "WorldPackets::Misc::PauseMirrorTimer", "da/d64/a11491.html", "da/d64/a11491" ],
-    [ "WorldPackets::Misc::StopMirrorTimer", "dd/dd9/a11495.html", "dd/dd9/a11495" ],
-    [ "WorldPackets::Misc::DurabilityDamageDeath", "d9/d06/a11499.html", "d9/d06/a11499" ],
-    [ "WorldPackets::Misc::CrossedInebriationThreshold", "d2/d12/a11503.html", "d2/d12/a11503" ],
-    [ "WorldPackets::Misc::UITime", "d7/d23/a11507.html", "d7/d23/a11507" ],
-    [ "WorldPackets::Misc::Complain", "dd/d61/a11511.html", "dd/d61/a11511" ],
-    [ "WorldPackets::Misc::ComplainResult", "db/df7/a11515.html", "db/df7/a11515" ],
-    [ "WorldPackets::Misc::PlayTimeWarning", "dc/d96/a11519.html", "dc/d96/a11519" ]
+    [ "npc_dragonflayer_forge_master", "d4/dcd/a21351.html", "d4/dcd/a21351" ],
+    [ "npc_enslaved_proto_drake", "d2/de7/a21355.html", "d2/de7/a21355" ],
+    [ "spell_uk_second_wind", "df/dc4/a21359.html", "df/dc4/a21359" ],
+    [ "spell_ticking_time_bomb_aura", "d5/d5e/a21363.html", "d5/d5e/a21363" ],
+    [ "EnslavedProtoDrake", "d6/d8d/a01007.html#a5858242a9c3f514606e1286c62fcf278", [
+      [ "SPELL_REND", "d6/d8d/a01007.html#a5858242a9c3f514606e1286c62fcf278ac553ad24710435636bd9736df18484c6", null ],
+      [ "SPELL_FLAME_BREATH", "d6/d8d/a01007.html#a5858242a9c3f514606e1286c62fcf278a4ee087423aeceb0f7c0aa5108e9b443b", null ],
+      [ "SPELL_KNOCK_AWAY", "d6/d8d/a01007.html#a5858242a9c3f514606e1286c62fcf278aa72ede58fa3714726fab8d4b7252f5fa", null ],
+      [ "EVENT_REND", "d6/d8d/a01007.html#a5858242a9c3f514606e1286c62fcf278a4330423ee013a070a273cb7ffefebd5d", null ],
+      [ "EVENT_FLAME_BREATH", "d6/d8d/a01007.html#a5858242a9c3f514606e1286c62fcf278a150e396f9798bfba68078c51afc82d40", null ],
+      [ "EVENT_KNOCKAWAY", "d6/d8d/a01007.html#a5858242a9c3f514606e1286c62fcf278ae40c8bf9c431d3b6ad432c7193166517", null ],
+      [ "EVENT_PRE_LAND", "d6/d8d/a01007.html#a5858242a9c3f514606e1286c62fcf278a3c6c4fa36c983015b9f6940af594f4a2", null ],
+      [ "EVENT_LAND", "d6/d8d/a01007.html#a5858242a9c3f514606e1286c62fcf278aef91952064652c12e6294be214ba63da", null ],
+      [ "TYPE_PROTODRAKE_AT", "d6/d8d/a01007.html#a5858242a9c3f514606e1286c62fcf278a67b1878880ae995cdbaec79457546a56", null ],
+      [ "DATA_PROTODRAKE_MOVE", "d6/d8d/a01007.html#a5858242a9c3f514606e1286c62fcf278a70a656538162760f8556efa23d8e4aad", null ],
+      [ "POINT_TAKE_OFF", "d6/d8d/a01007.html#a5858242a9c3f514606e1286c62fcf278a5d2a7910d1b37d273b0cf215d624b394", null ],
+      [ "POINT_PRE_LAND", "d6/d8d/a01007.html#a5858242a9c3f514606e1286c62fcf278a603e20f341c92e8e34d4417d2284e7e3", null ],
+      [ "POINT_LAND", "d6/d8d/a01007.html#a5858242a9c3f514606e1286c62fcf278a858ba1dc5b34b3ff5f41a194feea519f", null ]
+    ] ],
+    [ "SecondWind", "d6/d8d/a01007.html#aad6ea2c0a908d8b75abb381baf0c2045", [
+      [ "SPELL_SECOND_WIND_TRIGGER", "d6/d8d/a01007.html#aad6ea2c0a908d8b75abb381baf0c2045a266ceade00fbff527d0e22c9bcfa2efe", null ]
+    ] ],
+    [ "TickingTimeBomb", "d6/d8d/a01007.html#a9126ee26be77d9dcf83d14c8abae1cca", [
+      [ "SPELL_TICKING_TIME_BOMB_EXPLODE", "d6/d8d/a01007.html#a9126ee26be77d9dcf83d14c8abae1ccaa7a62cc5b3c327da89b890c8c1ecac56b", null ]
+    ] ],
+    [ "AddSC_utgarde_keep", "d6/d8d/a01007.html#a3252f1bf2be160c6d8960f41e595db47", null ],
+    [ "protodrakeCheckPos", "d6/d8d/a01007.html#a0a556a898032cb18eabb6df4a3f482e1", null ],
+    [ "protodrakeLandPos", "d6/d8d/a01007.html#a1a48021562fd573e8e0e970124788afd", null ],
+    [ "protodrakePreLandPos", "d6/d8d/a01007.html#aa19590ca509e049e2c92b727b48b6649", null ],
+    [ "protodrakeTakeOffPos", "d6/d8d/a01007.html#a2f05c0a81b85a72d1ba01e87e103e895", null ]
 ];

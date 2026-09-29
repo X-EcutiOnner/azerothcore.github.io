@@ -1,5 +1,8 @@
 var a05375 =
 [
-    [ "hitModel", "d3/d97/a05375.html#a4d0c56a02fb5f454753a3dba17e9d67b", null ],
-    [ "rootId", "d3/d97/a05375.html#aa855bd49800e7a3b6713d72f0cf629d5", null ]
+    [ "LocationInfoCallback", "d3/d97/a05375.html#a81b8c00fcc0a1780445ffbdf85decfdf", null ],
+    [ "operator()", "d3/d97/a05375.html#abd524e5a87daa798258d7851c526cd88", null ],
+    [ "locInfo", "d3/d97/a05375.html#a9a8b8529a571b3652cd898b2888d8027", null ],
+    [ "prims", "d3/d97/a05375.html#a19c87ad1c9665c3ddfbfa89ccdee5c10", null ],
+    [ "result", "d3/d97/a05375.html#a1ada8b8a1742f02b2d1f28ee82903246", null ]
 ];

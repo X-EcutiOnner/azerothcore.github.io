@@ -1,5 +1,6 @@
 var a02270 =
 [
-    [ "go_commandscript", "d0/ded/a12529.html", "d0/ded/a12529" ],
-    [ "AddSC_go_commandscript", "d4/de7/a02270.html#a95fcb467686a27e069827ed3775df197", null ]
+    [ "fireworkShowGameobjectShattrath", "d4/de7/a02270.html#a2a4be2c9e5e5d0d215bc1bf7e3ea592c", null ],
+    [ "fireworkShowScheduleShattrath", "d4/de7/a02270.html#ad36558abe06e5db19b60204279c4606e", null ],
+    [ "fireworkShowShattrath", "d4/de7/a02270.html#a5fcd036e2fe28c58f38d59d0ade0e4ed", null ]
 ];

@@ -1,25 +1,11 @@
 var a04550 =
 [
-    [ "SpellProcChanceTest", "d6/d41/a30103.html", "d6/d41/a30103" ],
-    [ "TEST_F", "d2/df8/a04550.html#a0067cc2d2c7eeb55ec8f33d368fd033f", null ],
-    [ "TEST_F", "d2/df8/a04550.html#a47c99d67681c44af53a6492d5994eed7", null ],
-    [ "TEST_F", "d2/df8/a04550.html#a19f98cdb20306306e21a5cb7a72c7e49", null ],
-    [ "TEST_F", "d2/df8/a04550.html#aac1c57c49df9c3786548c5015e7ecbe2", null ],
-    [ "TEST_F", "d2/df8/a04550.html#ab83aac3c76d2d716126a24b32d7b3740", null ],
-    [ "TEST_F", "d2/df8/a04550.html#aa332c8542cc81c4bcfa3ea38de4d883e", null ],
-    [ "TEST_F", "d2/df8/a04550.html#ab58756777d57b081474738fcddf9c3d9", null ],
-    [ "TEST_F", "d2/df8/a04550.html#a90b7470654e74b5d5fbf79e58877f945", null ],
-    [ "TEST_F", "d2/df8/a04550.html#af95c1f926cfd5f0172818790e5a8dad0", null ],
-    [ "TEST_F", "d2/df8/a04550.html#ab9118e66468f5514a8367af924d17feb", null ],
-    [ "TEST_F", "d2/df8/a04550.html#a02f44e4de6636d121ff789783600c3d4", null ],
-    [ "TEST_F", "d2/df8/a04550.html#aa9a26d0333cdaf95363de72d974cf71d", null ],
-    [ "TEST_F", "d2/df8/a04550.html#ab15f9630cd331b465b287ea7d494d38d", null ],
-    [ "TEST_F", "d2/df8/a04550.html#a3f40e343661b10279c3e3adb0e7dde6e", null ],
-    [ "TEST_F", "d2/df8/a04550.html#a33fb9c0f8fe1a60008d10c9561570517", null ],
-    [ "TEST_F", "d2/df8/a04550.html#aeef06ffd03eb849db7c9ea03090d7089", null ],
-    [ "TEST_F", "d2/df8/a04550.html#ae6e514aa2a436af03383f9b655859038", null ],
-    [ "TEST_F", "d2/df8/a04550.html#a197cec06d246dbae06fda663eedf12a0", null ],
-    [ "TEST_F", "d2/df8/a04550.html#abe575be9b92937bf10c472abe91ab32f", null ],
-    [ "TEST_F", "d2/df8/a04550.html#ab8b90a08b9339c826e3ea4e9985238c9", null ],
-    [ "TEST_F", "d2/df8/a04550.html#a252b150cbb92f8bc5cc7b595ce129f2b", null ]
+    [ "anonymous_namespace{AuraLoadedStateTest.cpp}::AuraLoadedStateTest", "df/d43/a30051.html", "df/d43/a30051" ],
+    [ "TEST_F", "d2/df8/a04550.html#a3c2cf023118b4939342706355b5e3e23", null ],
+    [ "TEST_F", "d2/df8/a04550.html#a895af5f48da5209f7d733deb9891ed14", null ],
+    [ "TEST_F", "d2/df8/a04550.html#a548b1d31d026d08300cee3bdae2fd6d6", null ],
+    [ "AURA_DURATION", "d2/df8/a04550.html#a3518f795a6c55dbdde7cc0ece4a705e1", null ],
+    [ "BASE_AMOUNT", "d2/df8/a04550.html#ad5f15dfa412737c696115d53ae943a5e", null ],
+    [ "SAVED_AMOUNT", "d2/df8/a04550.html#ae35607bfd8bc471969f34f8f743ff210", null ],
+    [ "TEST_AURA_SPELL_ID", "d2/df8/a04550.html#a1372aab52ee88af350f43d4b126245d5", null ]
 ];

@@ -1,13 +1,5 @@
 var a30323 =
 [
-    [ "MPQArchive", "df/d5e/a30323.html#a01c755d82896f5eff33101151ee78fda", null ],
-    [ "~MPQArchive", "df/d5e/a30323.html#a5bce22525ca16381fbb4729540a165e2", null ],
-    [ "MPQArchive", "df/d5e/a30323.html#a01c755d82896f5eff33101151ee78fda", null ],
-    [ "~MPQArchive", "df/d5e/a30323.html#a5bce22525ca16381fbb4729540a165e2", null ],
-    [ "close", "df/d5e/a30323.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
-    [ "close", "df/d5e/a30323.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
-    [ "GetFileListTo", "df/d5e/a30323.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
-    [ "GetFileListTo", "df/d5e/a30323.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
-    [ "isOpened", "df/d5e/a30323.html#a2026335b9ede29197acfaac8513456d5", null ],
-    [ "mpq_a", "df/d5e/a30323.html#a72b9fb96b1e3db6c7be652e426978b4a", null ]
+    [ "fcc", "df/d5e/a30323.html#a828a2845e666d6eb47d6d4705a663a3d", null ],
+    [ "fcc_txt", "df/d5e/a30323.html#acf0f4449ab5a64822833b86b41e2487c", null ]
 ];

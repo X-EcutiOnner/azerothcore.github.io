@@ -1,13 +1,18 @@
 var a13019 =
 [
-    [ "boss_nefarian", "dd/d71/a13019.html#ac8ea4f24ed97cace4630d4720b1acf47", null ],
-    [ "JustDied", "dd/d71/a13019.html#a4a0a4cf4ee63ce744ffb580747f992b9", null ],
-    [ "JustEngagedWith", "dd/d71/a13019.html#a6a547ba5aea4d5af2a621e5d97ceae43", null ],
-    [ "KilledUnit", "dd/d71/a13019.html#a6fdf265e453deb8f9a4214beacf3dbab", null ],
-    [ "MovementInform", "dd/d71/a13019.html#a0eea749c0392a7713e372cc1f236cdcd", null ],
-    [ "PathEndReached", "dd/d71/a13019.html#a45ec4ab3cdf9b4de91a9ae682f3335e8", null ],
-    [ "Reset", "dd/d71/a13019.html#a5d687fce34b17e22c605c263395e823b", null ],
-    [ "UpdateAI", "dd/d71/a13019.html#a205c9b1d4116fbd0a1ca972f39094abc", null ],
-    [ "_introDone", "dd/d71/a13019.html#a5710c721f3a24762b8cc3e79e6a14951", null ],
-    [ "classesPresent", "dd/d71/a13019.html#acffc9b31a0a50ee5701c272e32c912c6", null ]
+    [ "boss_victor_nefarius", "dd/d71/a13019.html#a9d4a7d8fd46382e6f0f538dd426f760d", null ],
+    [ "BeginEvent", "dd/d71/a13019.html#afdd6dfe4ad32135f8aeaa2e9963ccaf4", null ],
+    [ "DoAction", "dd/d71/a13019.html#ad6d5d43db3e2abbc1ca9cf796e94f6fe", null ],
+    [ "Initialize", "dd/d71/a13019.html#a9af31a337899d1fc089db542c9980512", null ],
+    [ "JustDied", "dd/d71/a13019.html#a2ff548e6fd5df2877772e425d9354415", null ],
+    [ "JustReachedHome", "dd/d71/a13019.html#a49eecb765afd0ad88bbe93ca664d67cc", null ],
+    [ "JustSummoned", "dd/d71/a13019.html#aac1786270619ae0a40d5bc20e036b34e", null ],
+    [ "Reset", "dd/d71/a13019.html#aac8e08f7c731890edfdf9664873ec83c", null ],
+    [ "SetData", "dd/d71/a13019.html#adfdcaeb8047b728eeee28b32136d02ab", null ],
+    [ "sGossipSelect", "dd/d71/a13019.html#a238965424e584e1ed97e831ab125bc23", null ],
+    [ "SummonedCreatureDies", "dd/d71/a13019.html#a97f23bbb8ee7fa322bde2c3c36ef2083", null ],
+    [ "UpdateAI", "dd/d71/a13019.html#a782353216a18dda7c0afb6c1d2fa9e6a", null ],
+    [ "_killedAdds", "dd/d71/a13019.html#a17528d290fc57596969d4ac8020d0520", null ],
+    [ "_nefarianLeftTunnel", "dd/d71/a13019.html#a7b6018c7b8b7d8080ffb90f99c732090", null ],
+    [ "_nefarianRightTunnel", "dd/d71/a13019.html#a22a9f85d12a129db428ef63fd4f4c6db", null ]
 ];

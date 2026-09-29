@@ -1,5 +1,7 @@
 var a17271 =
 [
-    [ "achievement_oh_novos", "de/d22/a17271.html#a31ca1f458c384401af107cb8f709ef61", null ],
-    [ "OnCheck", "de/d22/a17271.html#a3b922d9ed709ed46edca794f5ccf858f", null ]
+    [ "HandleScriptEffect", "de/d22/a17271.html#a51064b3a11f453724ae0879c80eaf8df", null ],
+    [ "PrepareSpellScript", "de/d22/a17271.html#aac26002ff107e609fb7258306b430f1b", null ],
+    [ "Register", "de/d22/a17271.html#a0efef7644706940e3929ce99cd162c91", null ],
+    [ "Validate", "de/d22/a17271.html#a7110d4136337d44aa0300ec82e5a6511", null ]
 ];

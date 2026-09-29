@@ -1,7 +1,6 @@
 var a16055 =
 [
-    [ "HandleDummy", "d3/d41/a16055.html#a7657ffcc0b055b838408de4dd5f778f3", null ],
-    [ "PrepareSpellScript", "d3/d41/a16055.html#ace2c23ec11d09cfb6f101a2dbd8b9d89", null ],
-    [ "Register", "d3/d41/a16055.html#ae9be2e8124edf50b98824c584aaa32cf", null ],
-    [ "Validate", "d3/d41/a16055.html#a041c84fd605abd36b8f774903a5200dc", null ]
+    [ "npc_troll_volunteerAI", "d5/da5/a16059.html", "d5/da5/a16059" ],
+    [ "npc_troll_volunteer", "d3/d41/a16055.html#a3c5eb7108dc0480e07b77eceb01cd18a", null ],
+    [ "GetAI", "d3/d41/a16055.html#aba0208b0910ace75686941c462ecca56", null ]
 ];

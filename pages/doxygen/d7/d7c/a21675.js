@@ -1,8 +1,15 @@
 var a21675 =
 [
-    [ "HandleEffectRemove", "d7/d7c/a21675.html#aa2b05befb775244423264f6b5e2387c1", null ],
-    [ "Load", "d7/d7c/a21675.html#a02ea4c29f2c7e15a5039b93d7a0d3c5e", null ],
-    [ "PrepareAuraScript", "d7/d7c/a21675.html#a632e81cc39bdcd0f5adcc684231d1171", null ],
-    [ "Register", "d7/d7c/a21675.html#aba5483b1d35c1b58841fad2b1086f07c", null ],
-    [ "Validate", "d7/d7c/a21675.html#ada90e1f06ced8f4e353fe2bda3d31637", null ]
+    [ "npc_azure_saboteur", "d7/d7c/a21675.html#a051e99f11de367f810d9404a723173fd", null ],
+    [ "FinishPointReached", "d7/d7c/a21675.html#a451777273b76e4651b1f4309e8477c9f", null ],
+    [ "InitializeAI", "d7/d7c/a21675.html#acf28368986b940b571f493bd663e8e09", null ],
+    [ "MoveInLineOfSight", "d7/d7c/a21675.html#a1a65d5100befd33a104a13eef0800ae7", null ],
+    [ "UpdateAI", "d7/d7c/a21675.html#af5cf21e08a62b09793e99a92df1ef1b7", null ],
+    [ "WaypointReached", "d7/d7c/a21675.html#a7c6f44f0dcdb0d5abc18e304383d3b96", null ],
+    [ "WaypointReached", "d7/d7c/a21675.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_boss", "d7/d7c/a21675.html#ab23d685ca979bba79a3d9a14117350f8", null ],
+    [ "_count", "d7/d7c/a21675.html#aa431780ab6b90976494058a602377825", null ],
+    [ "_events", "d7/d7c/a21675.html#a7ee513b49f09971f5fea099e8c9b7bc7", null ],
+    [ "_instance", "d7/d7c/a21675.html#ab220c76d2fd72df36b5b92ee897d9d14", null ],
+    [ "_isOpening", "d7/d7c/a21675.html#a59ecc6687f1d5d948c6988d14f577ffd", null ]
 ];

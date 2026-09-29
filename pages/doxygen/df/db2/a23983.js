@@ -1,6 +1,6 @@
 var a23983 =
 [
-    [ "AfterRemove", "df/db2/a23983.html#a1794dcf8ebca0bd0c4fce5acb8b45de0", null ],
-    [ "PrepareAuraScript", "df/db2/a23983.html#ad5871ce865820456177362c6b790778f", null ],
-    [ "Register", "df/db2/a23983.html#a41e19fb2509051bbd2d9e43c59f16486", null ]
+    [ "HandleCast", "df/db2/a23983.html#a912dc3b17ab7d0818089c32610d82a16", null ],
+    [ "PrepareSpellScript", "df/db2/a23983.html#a6590aab70049aa5e94ed48aeb99ab1d0", null ],
+    [ "Register", "df/db2/a23983.html#a09d4af96e2d5a69b1b61a6055bcb04d4", null ]
 ];

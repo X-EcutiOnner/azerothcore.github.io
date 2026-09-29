@@ -1,13 +1,13 @@
 var a12223 =
 [
-    [ "AsyncFunction", "d2/deb/a12223.html#a2addfa1b63edc880ca54fc46e0a6d94b", null ],
-    [ "CallbackFunction", "d2/deb/a12223.html#ab2d6148aad6c533ac787ebef69250357", null ],
-    [ "AsyncTask", "d2/deb/a12223.html#ad6f8ee54d3e1b0736e34362cd30f1365", null ],
-    [ "~AsyncTask", "d2/deb/a12223.html#a553b3c1b778f9dadea8b764f210b8d8c", null ],
-    [ "ExecuteAsync", "d2/deb/a12223.html#a1cdc60ddffaa431d19c992c0e389b85d", null ],
-    [ "InvokeIfReady", "d2/deb/a12223.html#aecfe1b8d9ab2be59f564939dde44cfb9", null ],
-    [ "asyncFunc", "d2/deb/a12223.html#a835a7b06185916adfb632d27ef73c9ce", null ],
-    [ "asyncTask", "d2/deb/a12223.html#a81e22f584cc7d48594751038ac113ab2", null ],
-    [ "callbackFunc", "d2/deb/a12223.html#a9eb4e4b1eddea03bc0197758d34f9325", null ],
-    [ "isReady", "d2/deb/a12223.html#af4b96cd278382c34dbaaa3782df8371b", null ]
+    [ "ToCloud9GroupHooks", "d2/deb/a12223.html#a56b706ee7923e004bc1097887d645793", null ],
+    [ "~ToCloud9GroupHooks", "d2/deb/a12223.html#a05fc2da0da6f565a0bc4bc234a92046f", null ],
+    [ "OnGroupConvertedToRaid", "d2/deb/a12223.html#a104b63c83abe82809e16bc86b9649011", null ],
+    [ "OnGroupCreated", "d2/deb/a12223.html#a7fa6a2d72e6891d9ab41fc113c1a27dd", null ],
+    [ "OnGroupDisbanded", "d2/deb/a12223.html#ae47dee5f18aea4827a1b320c3ba9f607", null ],
+    [ "OnGroupDungeonDifficultyChanged", "d2/deb/a12223.html#a829c7d428363bf0720f0e27e84747b88", null ],
+    [ "OnGroupLootTypeChanged", "d2/deb/a12223.html#adad70b61a54071c25a9e1950f4b656bf", null ],
+    [ "OnGroupMemberAdded", "d2/deb/a12223.html#ad001911251ec8d9f280d5aa1ab291b7e", null ],
+    [ "OnGroupMemberRemoved", "d2/deb/a12223.html#a0c63904979beb754131797a163000ec5", null ],
+    [ "OnGroupRaidDifficultyChanged", "d2/deb/a12223.html#a0c066c39c344d750164735a4f549cf69", null ]
 ];

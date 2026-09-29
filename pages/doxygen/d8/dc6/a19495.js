@@ -1,7 +1,6 @@
 var a19495 =
 [
-    [ "npc_ioc_gunship_captainAI", "d8/dc6/a19495.html#a23477a6f29b13308067c1f42ced1e9fe", null ],
-    [ "DoAction", "d8/dc6/a19495.html#a89fb251869d6bfbefbca1e2d3178178a", null ],
-    [ "UpdateAI", "d8/dc6/a19495.html#a222b304633143bba47d3edde67ea093b", null ],
-    [ "_events", "d8/dc6/a19495.html#aa8b7c262641a5f1f86c5ae39f8b62dca", null ]
+    [ "npc_four_car_garageAI", "dc/df1/a19499.html", "dc/df1/a19499" ],
+    [ "npc_four_car_garage", "d8/dc6/a19495.html#ae9b811544ab5cbdcb9c44abdc2da41a8", null ],
+    [ "GetAI", "d8/dc6/a19495.html#ac55346f9733c5502a9e9f2d6d48feefb", null ]
 ];

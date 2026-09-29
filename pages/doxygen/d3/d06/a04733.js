@@ -1,11 +1,12 @@
 var a04733 =
 [
-    [ "VMAP::ModelPosition", "dc/daf/a05399.html", "dc/daf/a05399" ],
-    [ "VMAP::MapSpawns", "d1/d5e/a05403.html", "d1/d5e/a05403" ],
-    [ "VMAP::GroupModel_Raw", "dc/d06/a05407.html", "dc/d06/a05407" ],
-    [ "VMAP::WorldModel_Raw", "d8/d4f/a05411.html", "d8/d4f/a05411" ],
-    [ "VMAP::TileAssembler", "d8/ddb/a05415.html", "d8/ddb/a05415" ],
-    [ "MapData", "d3/d06/a04733.html#a28dc2e567f8620fed1128b6c4cf5b749", null ],
-    [ "TileMap", "d3/d06/a04733.html#abfe766a1b58bbf69ce3b17ff14d1c101", null ],
-    [ "UniqueEntryMap", "d3/d06/a04733.html#a3424b44a092b5f3d8074649ae11ee481", null ]
+    [ "VMAP::VMapMgr2", "dd/dc9/a05355.html", "dd/dc9/a05355" ],
+    [ "FILENAMEBUFFER_SIZE", "d3/d06/a04733.html#aebe91d3f560a4221b135ef03b21a485f", null ],
+    [ "MAP_FILENAME_EXTENSION2", "d3/d06/a04733.html#aad39c14e5fae9fd5141df154332ae6fd", null ],
+    [ "DisableTypes", "d3/d06/a04733.html#ae6fa86a61cff3bac928739b18ffb8c1b", [
+      [ "VMAP_DISABLE_AREAFLAG", "d3/d06/a04733.html#ae6fa86a61cff3bac928739b18ffb8c1ba4fc4dc95e6df57c161e146d8da4b4a19", null ],
+      [ "VMAP_DISABLE_HEIGHT", "d3/d06/a04733.html#ae6fa86a61cff3bac928739b18ffb8c1ba2f9e18e9b167ecc25202f607e29af926", null ],
+      [ "VMAP_DISABLE_LOS", "d3/d06/a04733.html#ae6fa86a61cff3bac928739b18ffb8c1ba26f8933b26a6ce62d8bddafde8ebb108", null ],
+      [ "VMAP_DISABLE_LIQUIDSTATUS", "d3/d06/a04733.html#ae6fa86a61cff3bac928739b18ffb8c1ba191004652b9fbcccb26c14ce81a94cec", null ]
+    ] ]
 ];

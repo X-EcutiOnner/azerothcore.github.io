@@ -1,7 +1,6 @@
 var a26143 =
 [
-    [ "HandleDummy", "dc/d58/a26143.html#a7a8016e1403caa0432242c5c3240f107", null ],
-    [ "PrepareSpellScript", "dc/d58/a26143.html#ae2d2de36cceb037006eb4126f8e1778c", null ],
-    [ "Register", "dc/d58/a26143.html#abd09f5df3f31af619f24214f90791a53", null ],
-    [ "Validate", "dc/d58/a26143.html#ab14aedfdb61d54334f60e57968fcf081", null ]
+    [ "FilterTargets", "dc/d58/a26143.html#abe299fbad07f800e90b1614ec661c185", null ],
+    [ "PrepareSpellScript", "dc/d58/a26143.html#a53bae2b6575436705adff74caf9225b7", null ],
+    [ "Register", "dc/d58/a26143.html#a35fd5a1c8ab2400940da2d9f8f3ce9c2", null ]
 ];

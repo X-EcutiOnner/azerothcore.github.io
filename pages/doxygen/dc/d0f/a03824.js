@@ -1,6 +1,15 @@
 var a03824 =
 [
-    [ "instance_razorfen_downs", "dc/de0/a15531.html", "dc/de0/a15531" ],
-    [ "instance_razorfen_downs::instance_razorfen_downs_InstanceMapScript", "dc/d2d/a15535.html", "dc/d2d/a15535" ],
-    [ "AddSC_instance_razorfen_downs", "dc/d0f/a03824.html#a0db4d34b8ea594cf2808b93c362a49c4", null ]
+    [ "STR", "dc/d0f/a03824.html#a18d295a837ac71add5578860b55e5502", null ],
+    [ "computeFallElevation", "dc/d0f/a03824.html#a87260372150c8322b45e75bfaa445f14", null ],
+    [ "computeFallTime", "dc/d0f/a03824.html#a40f989c23fe19e12628da3cd9e64edf4", null ],
+    [ "print_flags", "dc/d0f/a03824.html#a189485de5eba32c5b18dbb5c579b60d9", null ],
+    [ "g_MovementFlag_names", "dc/d0f/a03824.html#a2982e1b6388bf8b29797b16969b64173", null ],
+    [ "g_SplineFlag_names", "dc/d0f/a03824.html#aa6a1b38cb6e1507d88f0f45a4820990b", null ],
+    [ "terminal_fallTime", "dc/d0f/a03824.html#aa927e4ada20ca56ce951239357407270", null ],
+    [ "terminal_length", "dc/d0f/a03824.html#a7d1eb637bb6ae4a1859504fb84872808", null ],
+    [ "terminal_safeFall_fallTime", "dc/d0f/a03824.html#a2fc34c9abcc5822e12037c23c2ecbfe0", null ],
+    [ "terminal_safeFall_length", "dc/d0f/a03824.html#a4e816239736800d4508c1fc14e624ddc", null ],
+    [ "terminalSafefallVelocity", "dc/d0f/a03824.html#a654673c77f53f27a80309b050d44d38d", null ],
+    [ "terminalVelocity", "dc/d0f/a03824.html#a98cc74e5667e1057f334f02a28abcb01", null ]
 ];

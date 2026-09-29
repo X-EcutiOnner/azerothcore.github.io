@@ -1,21 +1,21 @@
 var a02495 =
 [
-    [ "AccountActionIpLogger", "d9/d76/a28187.html", "d9/d76/a28187" ],
-    [ "CharacterActionIpLogger", "d2/d11/a28191.html", "d2/d11/a28191" ],
-    [ "CharacterDeleteActionIpLogger", "df/dc8/a28195.html", "df/dc8/a28195" ],
-    [ "IPLoggingTypes", "d5/d56/a02495.html#a3b67d8dbf539fa5519b3e33da9d0137b", [
-      [ "ACCOUNT_LOGIN", "d5/d56/a02495.html#a3b67d8dbf539fa5519b3e33da9d0137ba8f9e397f01ecf6030118a21051f37eb8", null ],
-      [ "ACCOUNT_FAIL_LOGIN", "d5/d56/a02495.html#a3b67d8dbf539fa5519b3e33da9d0137baf5dfdd830d71ca55c98a2a6bbc49895f", null ],
-      [ "ACCOUNT_CHANGE_PW", "d5/d56/a02495.html#a3b67d8dbf539fa5519b3e33da9d0137ba38e1a216027e5110edeced016ff5c059", null ],
-      [ "ACCOUNT_CHANGE_PW_FAIL", "d5/d56/a02495.html#a3b67d8dbf539fa5519b3e33da9d0137baa0990c000cd17b2abe8225b66cac6b53", null ],
-      [ "ACCOUNT_CHANGE_EMAIL", "d5/d56/a02495.html#a3b67d8dbf539fa5519b3e33da9d0137baf435090459154eb1ba7b8c994842b06c", null ],
-      [ "ACCOUNT_CHANGE_EMAIL_FAIL", "d5/d56/a02495.html#a3b67d8dbf539fa5519b3e33da9d0137ba4bd2be99e9a5252be0bbf26a71541e30", null ],
-      [ "CHARACTER_CREATE", "d5/d56/a02495.html#a3b67d8dbf539fa5519b3e33da9d0137ba64dc5a829a5cecf5f19b805d05a32b85", null ],
-      [ "CHARACTER_LOGIN", "d5/d56/a02495.html#a3b67d8dbf539fa5519b3e33da9d0137ba69b7162ca378f801be6e30e2e4b86363", null ],
-      [ "CHARACTER_LOGOUT", "d5/d56/a02495.html#a3b67d8dbf539fa5519b3e33da9d0137ba742b5af30e35f2927eaa20bdf504b607", null ],
-      [ "CHARACTER_DELETE", "d5/d56/a02495.html#a3b67d8dbf539fa5519b3e33da9d0137ba04c86cce0401c766b99edbef52a91162", null ],
-      [ "CHARACTER_FAILED_DELETE", "d5/d56/a02495.html#a3b67d8dbf539fa5519b3e33da9d0137baf8aedeaf82227741e50fdf6be12a35e7", null ],
-      [ "UNKNOWN_ACTION", "d5/d56/a02495.html#a3b67d8dbf539fa5519b3e33da9d0137bae16d79bf07a3994731f4ac1a6ece5ec8", null ]
+    [ "BattlegroundNA", "d9/db3/a07895.html", "d9/db3/a07895" ],
+    [ "BattlegroundNAGameObjects", "d5/d56/a02495.html#add49f720fa08ffa96e26473cae2b61a9", [
+      [ "BG_NA_OBJECT_TYPE_DOOR_1", "d5/d56/a02495.html#add49f720fa08ffa96e26473cae2b61a9a1316dbe197353489e03213d3277f32ff", null ],
+      [ "BG_NA_OBJECT_TYPE_DOOR_2", "d5/d56/a02495.html#add49f720fa08ffa96e26473cae2b61a9a20f05476fbcb6371766b7ae3ed489890", null ],
+      [ "BG_NA_OBJECT_TYPE_DOOR_3", "d5/d56/a02495.html#add49f720fa08ffa96e26473cae2b61a9ae0d1716599d048803d55154e63f7a3a5", null ],
+      [ "BG_NA_OBJECT_TYPE_DOOR_4", "d5/d56/a02495.html#add49f720fa08ffa96e26473cae2b61a9af563fe3ddbb78a9d4d6f2a22479077db", null ],
+      [ "BG_NA_OBJECT_TYPE_BUFF_1", "d5/d56/a02495.html#add49f720fa08ffa96e26473cae2b61a9aba131a1275e72b2445749ef2c5689f96", null ],
+      [ "BG_NA_OBJECT_TYPE_BUFF_2", "d5/d56/a02495.html#add49f720fa08ffa96e26473cae2b61a9a7c0aab8f173d7f00439a05931bd2925c", null ]
     ] ],
-    [ "AddSC_action_ip_logger", "d5/d56/a02495.html#a530be5efb251d5ca58e97804e48ad953", null ]
+    [ "BattlegroundNAObjectTypes", "d5/d56/a02495.html#aa6ddc80a19a5d68782bca5f23b651ffc", [
+      [ "BG_NA_OBJECT_DOOR_1", "d5/d56/a02495.html#aa6ddc80a19a5d68782bca5f23b651ffca51bc6ecc32ca4cab5dfc799e14edfdc9", null ],
+      [ "BG_NA_OBJECT_DOOR_2", "d5/d56/a02495.html#aa6ddc80a19a5d68782bca5f23b651ffcaa22fe8f33675b8eac05c69224d71fc5f", null ],
+      [ "BG_NA_OBJECT_DOOR_3", "d5/d56/a02495.html#aa6ddc80a19a5d68782bca5f23b651ffcac72fe751e3b1f451e48ee8ac82c78370", null ],
+      [ "BG_NA_OBJECT_DOOR_4", "d5/d56/a02495.html#aa6ddc80a19a5d68782bca5f23b651ffca5690093aa04635e30731d6b165331299", null ],
+      [ "BG_NA_OBJECT_BUFF_1", "d5/d56/a02495.html#aa6ddc80a19a5d68782bca5f23b651ffcac1c0e18a004c1daaae690b77cb61e340", null ],
+      [ "BG_NA_OBJECT_BUFF_2", "d5/d56/a02495.html#aa6ddc80a19a5d68782bca5f23b651ffca87f6c8115cba6b3e3c8f30d7845108de", null ],
+      [ "BG_NA_OBJECT_MAX", "d5/d56/a02495.html#aa6ddc80a19a5d68782bca5f23b651ffca68f38c2d23db000bca22be2fb9cc9f8b", null ]
+    ] ]
 ];

@@ -1,12 +1,17 @@
 var a19555 =
 [
-    [ "boss_gluthAI", "d5/d6b/a19555.html#a3ae0608d19cbc7ce5a561e0ae3e66d0d", null ],
-    [ "JustEngagedWith", "d5/d6b/a19555.html#a25cf670d7254cc8331752987a854c63b", null ],
-    [ "JustSummoned", "d5/d6b/a19555.html#acc09328210fbf1a6e81999d548676ae4", null ],
-    [ "KilledUnit", "d5/d6b/a19555.html#a691d46055b922efc9d1ec93a8b0fb842", null ],
-    [ "MoveInLineOfSight", "d5/d6b/a19555.html#a2aaf43f7d1555a005ef263ceaad8304c", null ],
-    [ "Reset", "d5/d6b/a19555.html#acb9f68205a2a210737d43893a414ca52", null ],
-    [ "SelectPlayerInRoom", "d5/d6b/a19555.html#aa8782d6d198ee8fa2a48ef2cde2c25c9", null ],
-    [ "SummonedCreatureDies", "d5/d6b/a19555.html#a115a1f1327a931067223734dbf414675", null ],
-    [ "UpdateAI", "d5/d6b/a19555.html#a2505f7ebda7b623edfedf96979a4a920", null ]
+    [ "boss_four_horsemenAI", "d5/d6b/a19555.html#a828a858c3337791bd2acb3d6ba730233", null ],
+    [ "AttackStart", "d5/d6b/a19555.html#aeb7e82fe20d4f6c4c5379c060beee161", null ],
+    [ "EnterEvadeMode", "d5/d6b/a19555.html#a86f458f0413cab4c8129affff1b73a70", null ],
+    [ "JustDied", "d5/d6b/a19555.html#a3ba69ed84d129a1a48952880c77bcf53", null ],
+    [ "JustEngagedWith", "d5/d6b/a19555.html#a17b8ca30ceb0efb87be77f970c526444", null ],
+    [ "KilledUnit", "d5/d6b/a19555.html#a87bdde27a69a020a26da31f01286593a", null ],
+    [ "MovementInform", "d5/d6b/a19555.html#aa900c075c04673341b3100488c45f9e7", null ],
+    [ "MoveToCorner", "d5/d6b/a19555.html#a7891dc79980c67d82867f6181685b359", null ],
+    [ "Reset", "d5/d6b/a19555.html#a8f41a8eadb6b01d32b177640b91d929f", null ],
+    [ "UpdateAI", "d5/d6b/a19555.html#ac3a1f33bf9823e2171180c3311f647f1", null ],
+    [ "currentWaypoint", "d5/d6b/a19555.html#ab3c2643e1b3c58452661255979e67e63", null ],
+    [ "events", "d5/d6b/a19555.html#a5c135d69b30853e2eb8a52a1a5e230f7", null ],
+    [ "horsemanId", "d5/d6b/a19555.html#ab0c4162177096e7bd007996e8677fd8b", null ],
+    [ "movementPhase", "d5/d6b/a19555.html#a09b826c28e9bf6c417a650dfe710a2dd", null ]
 ];

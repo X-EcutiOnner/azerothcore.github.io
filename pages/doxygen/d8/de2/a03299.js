@@ -1,13 +1,20 @@
 var a03299 =
 [
-    [ "instance_halls_of_lightning", "d4/d77/a20067.html", "d4/d77/a20067" ],
-    [ "instance_halls_of_lightning::instance_halls_of_lightning_InstanceMapScript", "dc/da6/a20071.html", "dc/da6/a20071" ],
-    [ "at_hol_hall_of_watchers", "d2/dd5/a20075.html", "d2/dd5/a20075" ],
-    [ "TitaniumHallwaySpells", "d8/de2/a03299.html#acb18ad00890035d01ae1c735f67fd0c8", [
-      [ "SPELL_FREEZE_ANIM", "d8/de2/a03299.html#acb18ad00890035d01ae1c735f67fd0c8a09463e66b152e3f856401806af0a4823", null ],
-      [ "SPELL_AWAKEN", "d8/de2/a03299.html#acb18ad00890035d01ae1c735f67fd0c8a76e1fd225869c359917096a4030f4799", null ]
+    [ "Corpse", "d5/d25/a08467.html", "d5/d25/a08467" ],
+    [ "CORPSE_RECLAIM_RADIUS", "d8/de2/a03299.html#a1cebf109f41dcdac8a90086696642782", null ],
+    [ "MAX_CORPSE_TYPE", "d8/de2/a03299.html#aec0512ffe7d6a8f7dd8330c334bb4fc3", null ],
+    [ "CorpseFlags", "d8/de2/a03299.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537c", [
+      [ "CORPSE_FLAG_NONE", "d8/de2/a03299.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca30260079b14373a47aef21b99e8757a2", null ],
+      [ "CORPSE_FLAG_BONES", "d8/de2/a03299.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca47ec12fa0520573d7d8ff9231ca4eb8b", null ],
+      [ "CORPSE_FLAG_UNK1", "d8/de2/a03299.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca043171119fe69fae07f3668763d40c7c", null ],
+      [ "CORPSE_FLAG_UNK2", "d8/de2/a03299.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca769ec96151b713170c051ee6236bbd5e", null ],
+      [ "CORPSE_FLAG_HIDE_HELM", "d8/de2/a03299.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca830d0cde7665a938cd48d4018ae0df79", null ],
+      [ "CORPSE_FLAG_HIDE_CLOAK", "d8/de2/a03299.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca25bc5b9c02c2cce38be9bb32c2ad335a", null ],
+      [ "CORPSE_FLAG_LOOTABLE", "d8/de2/a03299.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537caeb7f1630dc7c0b062b809e65cd4e5f80", null ]
     ] ],
-    [ "AddSC_instance_halls_of_lightning", "d8/de2/a03299.html#acb5e7d848388449d05e307ed07fbcfc6", null ],
-    [ "doorData", "d8/de2/a03299.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "gameObjectData", "d8/de2/a03299.html#a1461582839e3b7fdbb7397e5d2086e31", null ]
+    [ "CorpseType", "d8/de2/a03299.html#a43260eb47484e62a16a868f79646c683", [
+      [ "CORPSE_BONES", "d8/de2/a03299.html#a43260eb47484e62a16a868f79646c683ae7046aabaa7e6f435370eb1c49335356", null ],
+      [ "CORPSE_RESURRECTABLE_PVE", "d8/de2/a03299.html#a43260eb47484e62a16a868f79646c683a79e10cac636d94dc5aa8379ecce5cc78", null ],
+      [ "CORPSE_RESURRECTABLE_PVP", "d8/de2/a03299.html#a43260eb47484e62a16a868f79646c683a90cccb41a96804ac3340b13ff68241ba", null ]
+    ] ]
 ];

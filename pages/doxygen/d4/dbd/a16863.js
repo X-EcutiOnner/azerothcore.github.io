@@ -1,6 +1,9 @@
 var a16863 =
 [
-    [ "HandleSpellHit", "d4/dbd/a16863.html#a8c801b92f6e405668edae54989dd58e8", null ],
-    [ "PrepareSpellScript", "d4/dbd/a16863.html#abae02a74f626b890f61df551318dcc81", null ],
-    [ "Register", "d4/dbd/a16863.html#a2d5b57bbf51aadfc3eb56f8f756d04ef", null ]
+    [ "npc_black_knight_skeletal_gryphonAI", "d4/dbd/a16863.html#ada99dced1e560aebc908a0efb6c23d0a", null ],
+    [ "DoAction", "d4/dbd/a16863.html#af38e129cdf4af99e99c41b6a98448e56", null ],
+    [ "Reset", "d4/dbd/a16863.html#a5e20d5e17baaac92a560a5b2fe15fe7b", null ],
+    [ "UpdateAI", "d4/dbd/a16863.html#a851008790128831c5c10710b4cccb196", null ],
+    [ "WaypointReached", "d4/dbd/a16863.html#a74b5fb1d3631c404e7797085e45e6159", null ],
+    [ "WaypointReached", "d4/dbd/a16863.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

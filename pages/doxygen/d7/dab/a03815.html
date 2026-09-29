@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Kalimdor/zone_thunder_bluff.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Movement/MovementGenerators/WaypointMovementGenerator.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,106 +105,191 @@ $(document).ready(function(){initNavTree('d7/dab/a03815.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
-<a href="#enum-members">Enumerations</a> &#124;
+<a href="#define-members">Macros</a> &#124;
 <a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">zone_thunder_bluff.cpp File Reference</div></div>
+  <div class="headertitle"><div class="title">WaypointMovementGenerator.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">CreatureScript.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">WaypointMovementGenerator.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Creature.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">CreatureAI.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">CreatureGroups.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GameTime.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">MapMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">MoveSpline.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">MoveSplineInit.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ObjectMgr.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptedCreature.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Spell.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Transport.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SmartScriptMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">World.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/ddd/a16287.html">npc_cairne_bloodhoof</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d5b/a16291.html">npc_cairne_bloodhoof::npc_cairne_bloodhoofAI</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
-Enumerations</h2></td></tr>
-<tr class="memitem:a1d11da63be1309061cba3b5e10f2bbd9"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dab/a03815.html#a1d11da63be1309061cba3b5e10f2bbd9">CairneBloodhoof</a> { <br />
-&#160;&#160;<a class="el" href="../../d7/dab/a03815.html#a1d11da63be1309061cba3b5e10f2bbd9ae34e5e229d0caf06536a990d65605f66">SPELL_BERSERKER_CHARGE</a> = 16636
-, <br />
-&#160;&#160;<a class="el" href="../../d7/dab/a03815.html#a1d11da63be1309061cba3b5e10f2bbd9a0de0a536dbf18ec5c2e76cfee1d751eb">SPELL_CLEAVE</a> = 16044
-, <br />
-&#160;&#160;<a class="el" href="../../d7/dab/a03815.html#a1d11da63be1309061cba3b5e10f2bbd9a7794ace87705e2898f8b60f1f5228110">SPELL_MORTAL_STRIKE</a> = 16856
-, <br />
-&#160;&#160;<a class="el" href="../../d7/dab/a03815.html#a1d11da63be1309061cba3b5e10f2bbd9a7f4e66bb0a1b5b2705975420f645b16e">SPELL_THUNDERCLAP</a> = 23931
-, <br />
-&#160;&#160;<a class="el" href="../../d7/dab/a03815.html#a1d11da63be1309061cba3b5e10f2bbd9aec5ad6f4170f697acf9499e4e06bb065">SPELL_UPPERCUT</a> = 22916
-, <br />
-&#160;&#160;<a class="el" href="../../d7/dab/a03815.html#a1d11da63be1309061cba3b5e10f2bbd9aa5dbce7c49b1794438bd8cfc874c7104">SPELL_CAIRNES_HOOFPRINT</a> = 23123
-<br />
- }</td></tr>
-<tr class="separator:a1d11da63be1309061cba3b5e10f2bbd9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
+Macros</h2></td></tr>
+<tr class="memitem:a55b33fb4c6265551b0327903da9bff4c"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dab/a03815.html#a55b33fb4c6265551b0327903da9bff4c">SKIP_SPLINE_POINT_DISTANCE_SQ</a>&#160;&#160;&#160;(40.0f * 40.0f)</td></tr>
+<tr class="separator:a55b33fb4c6265551b0327903da9bff4c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:ae5d674fbd346082d81f6f6720eed1081"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dab/a03815.html#ae5d674fbd346082d81f6f6720eed1081">AddSC_thunder_bluff</a> ()</td></tr>
-<tr class="separator:ae5d674fbd346082d81f6f6720eed1081"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac0d2ec1868bbb7a72904410f1efeaaca"><td class="memItemLeft" align="right" valign="top">G3D::Vector3&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dab/a03815.html#ac0d2ec1868bbb7a72904410f1efeaaca">PositionToVector3</a> (<a class="el" href="../../d7/dc3/a08931.html">Position</a> const &amp;p)</td></tr>
+<tr class="separator:ac0d2ec1868bbb7a72904410f1efeaaca"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2cfd2302ba925854b6edc6af49bcb40a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dab/a03815.html#a2cfd2302ba925854b6edc6af49bcb40a">UpdateHomePosition</a> (<a class="el" href="../../d5/d6c/a08471.html">Creature</a> *creature, <a class="el" href="../../de/df9/a10631.html">WaypointNode</a> const &amp;waypointNode)</td></tr>
+<tr class="separator:a2cfd2302ba925854b6edc6af49bcb40a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a47a5affa854677472690918c4d16f998"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dab/a03815.html#a47a5affa854677472690918c4d16f998">IsNodeIncludedInShortenedPath</a> (<a class="el" href="../../da/d0e/a29591.html">TaxiPathNodeEntry</a> const *p1, <a class="el" href="../../da/d0e/a29591.html">TaxiPathNodeEntry</a> const *p2)</td></tr>
+<tr class="separator:a47a5affa854677472690918c4d16f998"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a1d11da63be1309061cba3b5e10f2bbd9" name="a1d11da63be1309061cba3b5e10f2bbd9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1d11da63be1309061cba3b5e10f2bbd9">&#9670;&#160;</a></span>CairneBloodhoof</h2>
+<h2 class="groupheader">Macro Definition Documentation</h2>
+<a id="a55b33fb4c6265551b0327903da9bff4c" name="a55b33fb4c6265551b0327903da9bff4c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a55b33fb4c6265551b0327903da9bff4c">&#9670;&#160;</a></span>SKIP_SPLINE_POINT_DISTANCE_SQ</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d7/dab/a03815.html#a1d11da63be1309061cba3b5e10f2bbd9">CairneBloodhoof</a></td>
+          <td class="memname">#define SKIP_SPLINE_POINT_DISTANCE_SQ&#160;&#160;&#160;(40.0f * 40.0f)</td>
         </tr>
       </table>
 </div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a1d11da63be1309061cba3b5e10f2bbd9ae34e5e229d0caf06536a990d65605f66" name="a1d11da63be1309061cba3b5e10f2bbd9ae34e5e229d0caf06536a990d65605f66"></a>SPELL_BERSERKER_CHARGE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a1d11da63be1309061cba3b5e10f2bbd9a0de0a536dbf18ec5c2e76cfee1d751eb" name="a1d11da63be1309061cba3b5e10f2bbd9a0de0a536dbf18ec5c2e76cfee1d751eb"></a>SPELL_CLEAVE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a1d11da63be1309061cba3b5e10f2bbd9a7794ace87705e2898f8b60f1f5228110" name="a1d11da63be1309061cba3b5e10f2bbd9a7794ace87705e2898f8b60f1f5228110"></a>SPELL_MORTAL_STRIKE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a1d11da63be1309061cba3b5e10f2bbd9a7f4e66bb0a1b5b2705975420f645b16e" name="a1d11da63be1309061cba3b5e10f2bbd9a7f4e66bb0a1b5b2705975420f645b16e"></a>SPELL_THUNDERCLAP&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a1d11da63be1309061cba3b5e10f2bbd9aec5ad6f4170f697acf9499e4e06bb065" name="a1d11da63be1309061cba3b5e10f2bbd9aec5ad6f4170f697acf9499e4e06bb065"></a>SPELL_UPPERCUT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a1d11da63be1309061cba3b5e10f2bbd9aa5dbce7c49b1794438bd8cfc874c7104" name="a1d11da63be1309061cba3b5e10f2bbd9aa5dbce7c49b1794438bd8cfc874c7104"></a>SPELL_CAIRNES_HOOFPRINT&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   24</span>{</div>
-<div class="line"><span class="lineno">   25</span>    <a class="code hl_enumvalue" href="../../d7/dab/a03815.html#a1d11da63be1309061cba3b5e10f2bbd9ae34e5e229d0caf06536a990d65605f66">SPELL_BERSERKER_CHARGE</a>  = 16636,</div>
-<div class="line"><span class="lineno">   26</span>    <a class="code hl_enumvalue" href="../../d7/dab/a03815.html#a1d11da63be1309061cba3b5e10f2bbd9a0de0a536dbf18ec5c2e76cfee1d751eb">SPELL_CLEAVE</a>            = 16044,</div>
-<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../d7/dab/a03815.html#a1d11da63be1309061cba3b5e10f2bbd9a7794ace87705e2898f8b60f1f5228110">SPELL_MORTAL_STRIKE</a>     = 16856,</div>
-<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../d7/dab/a03815.html#a1d11da63be1309061cba3b5e10f2bbd9a7f4e66bb0a1b5b2705975420f645b16e">SPELL_THUNDERCLAP</a>       = 23931,</div>
-<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../d7/dab/a03815.html#a1d11da63be1309061cba3b5e10f2bbd9aec5ad6f4170f697acf9499e4e06bb065">SPELL_UPPERCUT</a>          = 22916,</div>
-<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../d7/dab/a03815.html#a1d11da63be1309061cba3b5e10f2bbd9aa5dbce7c49b1794438bd8cfc874c7104">SPELL_CAIRNES_HOOFPRINT</a> = 23123</div>
-<div class="line"><span class="lineno">   31</span>};</div>
-<div class="ttc" id="aa03815_html_a1d11da63be1309061cba3b5e10f2bbd9a0de0a536dbf18ec5c2e76cfee1d751eb"><div class="ttname"><a href="../../d7/dab/a03815.html#a1d11da63be1309061cba3b5e10f2bbd9a0de0a536dbf18ec5c2e76cfee1d751eb">SPELL_CLEAVE</a></div><div class="ttdeci">@ SPELL_CLEAVE</div><div class="ttdef"><b>Definition:</b> zone_thunder_bluff.cpp:26</div></div>
-<div class="ttc" id="aa03815_html_a1d11da63be1309061cba3b5e10f2bbd9a7794ace87705e2898f8b60f1f5228110"><div class="ttname"><a href="../../d7/dab/a03815.html#a1d11da63be1309061cba3b5e10f2bbd9a7794ace87705e2898f8b60f1f5228110">SPELL_MORTAL_STRIKE</a></div><div class="ttdeci">@ SPELL_MORTAL_STRIKE</div><div class="ttdef"><b>Definition:</b> zone_thunder_bluff.cpp:27</div></div>
-<div class="ttc" id="aa03815_html_a1d11da63be1309061cba3b5e10f2bbd9a7f4e66bb0a1b5b2705975420f645b16e"><div class="ttname"><a href="../../d7/dab/a03815.html#a1d11da63be1309061cba3b5e10f2bbd9a7f4e66bb0a1b5b2705975420f645b16e">SPELL_THUNDERCLAP</a></div><div class="ttdeci">@ SPELL_THUNDERCLAP</div><div class="ttdef"><b>Definition:</b> zone_thunder_bluff.cpp:28</div></div>
-<div class="ttc" id="aa03815_html_a1d11da63be1309061cba3b5e10f2bbd9aa5dbce7c49b1794438bd8cfc874c7104"><div class="ttname"><a href="../../d7/dab/a03815.html#a1d11da63be1309061cba3b5e10f2bbd9aa5dbce7c49b1794438bd8cfc874c7104">SPELL_CAIRNES_HOOFPRINT</a></div><div class="ttdeci">@ SPELL_CAIRNES_HOOFPRINT</div><div class="ttdef"><b>Definition:</b> zone_thunder_bluff.cpp:30</div></div>
-<div class="ttc" id="aa03815_html_a1d11da63be1309061cba3b5e10f2bbd9ae34e5e229d0caf06536a990d65605f66"><div class="ttname"><a href="../../d7/dab/a03815.html#a1d11da63be1309061cba3b5e10f2bbd9ae34e5e229d0caf06536a990d65605f66">SPELL_BERSERKER_CHARGE</a></div><div class="ttdeci">@ SPELL_BERSERKER_CHARGE</div><div class="ttdef"><b>Definition:</b> zone_thunder_bluff.cpp:25</div></div>
-<div class="ttc" id="aa03815_html_a1d11da63be1309061cba3b5e10f2bbd9aec5ad6f4170f697acf9499e4e06bb065"><div class="ttname"><a href="../../d7/dab/a03815.html#a1d11da63be1309061cba3b5e10f2bbd9aec5ad6f4170f697acf9499e4e06bb065">SPELL_UPPERCUT</a></div><div class="ttdeci">@ SPELL_UPPERCUT</div><div class="ttdef"><b>Definition:</b> zone_thunder_bluff.cpp:29</div></div>
-</div><!-- fragment -->
+
 </div>
 </div>
 <h2 class="groupheader">Function Documentation</h2>
-<a id="ae5d674fbd346082d81f6f6720eed1081" name="ae5d674fbd346082d81f6f6720eed1081"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae5d674fbd346082d81f6f6720eed1081">&#9670;&#160;</a></span>AddSC_thunder_bluff()</h2>
+<a id="a47a5affa854677472690918c4d16f998" name="a47a5affa854677472690918c4d16f998"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a47a5affa854677472690918c4d16f998">&#9670;&#160;</a></span>IsNodeIncludedInShortenedPath()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void AddSC_thunder_bluff </td>
+          <td class="memname">bool IsNodeIncludedInShortenedPath </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../da/d0e/a29591.html">TaxiPathNodeEntry</a> const *&#160;</td>
+          <td class="paramname"><em>p1</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype"><a class="el" href="../../da/d0e/a29591.html">TaxiPathNodeEntry</a> const *&#160;</td>
+          <td class="paramname"><em>p2</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  140</span>{</div>
-<div class="line"><span class="lineno">  141</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../dd/ddd/a16287.html">npc_cairne_bloodhoof</a>();</div>
-<div class="line"><span class="lineno">  142</span>}</div>
-<div class="ttc" id="aa16287_html"><div class="ttname"><a href="../../dd/ddd/a16287.html">npc_cairne_bloodhoof</a></div><div class="ttdef"><b>Definition:</b> zone_thunder_bluff.cpp:35</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  575</span>{</div>
+<div class="line"><span class="lineno">  576</span>    <span class="keywordflow">return</span> p1-&gt;mapid != p2-&gt;mapid || std::pow(p1-&gt;x - p2-&gt;x, 2) + std::pow(p1-&gt;y - p2-&gt;y, 2) &gt; <a class="code hl_define" href="../../d7/dab/a03815.html#a55b33fb4c6265551b0327903da9bff4c">SKIP_SPLINE_POINT_DISTANCE_SQ</a>;</div>
+<div class="line"><span class="lineno">  577</span>}</div>
+<div class="ttc" id="aa03815_html_a55b33fb4c6265551b0327903da9bff4c"><div class="ttname"><a href="../../d7/dab/a03815.html#a55b33fb4c6265551b0327903da9bff4c">SKIP_SPLINE_POINT_DISTANCE_SQ</a></div><div class="ttdeci">#define SKIP_SPLINE_POINT_DISTANCE_SQ</div><div class="ttdef"><b>Definition:</b> WaypointMovementGenerator.cpp:572</div></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00100">AddKalimdorScripts()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02013">TaxiPathNodeEntry::mapid</a>, <a class="el" href="../../#l00572">SKIP_SPLINE_POINT_DISTANCE_SQ</a>, <a class="el" href="../../#l02014">TaxiPathNodeEntry::x</a>, and <a class="el" href="../../#l02015">TaxiPathNodeEntry::y</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00579">FlightPathMovementGenerator::LoadPath()</a>.</p>
+
+</div>
+</div>
+<a id="ac0d2ec1868bbb7a72904410f1efeaaca" name="ac0d2ec1868bbb7a72904410f1efeaaca"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac0d2ec1868bbb7a72904410f1efeaaca">&#9670;&#160;</a></span>PositionToVector3()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">G3D::Vector3 PositionToVector3 </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d7/dc3/a08931.html">Position</a> const &amp;&#160;</td>
+          <td class="paramname"><em>p</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   33</span>{ <span class="keywordflow">return</span> { p.GetPositionX(), p.GetPositionY(), p.GetPositionZ() }; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00121">Position::GetPositionX()</a>, <a class="el" href="../../#l00122">Position::GetPositionY()</a>, and <a class="el" href="../../#l00123">Position::GetPositionZ()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00208">WaypointMovementGenerator&lt; Creature &gt;::StartMove()</a>.</p>
+
+</div>
+</div>
+<a id="a2cfd2302ba925854b6edc6af49bcb40a" name="a2cfd2302ba925854b6edc6af49bcb40a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2cfd2302ba925854b6edc6af49bcb40a">&#9670;&#160;</a></span>UpdateHomePosition()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void UpdateHomePosition </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d5/d6c/a08471.html">Creature</a> *&#160;</td>
+          <td class="paramname"><em>creature</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../de/df9/a10631.html">WaypointNode</a> const &amp;&#160;</td>
+          <td class="paramname"><em>waypointNode</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  114</span>{</div>
+<div class="line"><span class="lineno">  115</span>    <span class="keywordtype">float</span> x = waypointNode.X;</div>
+<div class="line"><span class="lineno">  116</span>    <span class="keywordtype">float</span> y = waypointNode.Y;</div>
+<div class="line"><span class="lineno">  117</span>    <span class="keywordtype">float</span> z = waypointNode.Z;</div>
+<div class="line"><span class="lineno">  118</span>    <span class="keywordtype">float</span> o = creature-&gt;<a class="code hl_function" href="../../d7/dc3/a08931.html#a74cabfb8f441acb38e1abd5bf6ecdc84">GetOrientation</a>();</div>
+<div class="line"><span class="lineno">  119</span> </div>
+<div class="line"><span class="lineno">  120</span>    <span class="keywordtype">bool</span> transportPath = creature-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#a924b296aeb24186da0b821b8b47bb712">HasUnitMovementFlag</a>(<a class="code hl_enumvalue" href="../../d9/d33/a03269.html#a083358a25d084fb928e170c453128f9da4e14e61d036d1d8edeb90a5bae80c7e1">MOVEMENTFLAG_ONTRANSPORT</a>) &amp;&amp; creature-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#ab38bf07f849039068d02971f5e006d29">GetTransGUID</a>();</div>
+<div class="line"><span class="lineno">  121</span>    <span class="keywordflow">if</span> (!transportPath)</div>
+<div class="line"><span class="lineno">  122</span>        creature-&gt;<a class="code hl_function" href="../../d5/d6c/a08471.html#a0ab9e2649cc4b0103aea6a52e8f1a5ea">SetHomePosition</a>(x, y, z, o);</div>
+<div class="line"><span class="lineno">  123</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  124</span>    {</div>
+<div class="line"><span class="lineno">  125</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d76/a09143.html">Transport</a>* trans = (creature-&gt;<a class="code hl_function" href="../../d4/d08/a08883.html#a9ffd4691b1ebdb5011e800739b4dd4f5">GetTransport</a>() ? creature-&gt;<a class="code hl_function" href="../../d4/d08/a08883.html#a9ffd4691b1ebdb5011e800739b4dd4f5">GetTransport</a>()-&gt;<a class="code hl_function" href="../../d7/d00/a08651.html#a5aae646746017d2cab8aa0f625cb4d42">ToMotionTransport</a>() : <span class="keyword">nullptr</span>))</div>
+<div class="line"><span class="lineno">  126</span>        {</div>
+<div class="line"><span class="lineno">  127</span>            o -= trans-&gt;GetOrientation();</div>
+<div class="line"><span class="lineno">  128</span>            creature-&gt;<a class="code hl_function" href="../../d5/d6c/a08471.html#ac92978c32c3b66af03eadfa1b565d4ca">SetTransportHomePosition</a>(x, y, z, o);</div>
+<div class="line"><span class="lineno">  129</span>            trans-&gt;CalculatePassengerPosition(x, y, z, &amp;o);</div>
+<div class="line"><span class="lineno">  130</span>            creature-&gt;<a class="code hl_function" href="../../d5/d6c/a08471.html#a0ab9e2649cc4b0103aea6a52e8f1a5ea">SetHomePosition</a>(x, y, z, o);</div>
+<div class="line"><span class="lineno">  131</span>        }</div>
+<div class="line"><span class="lineno">  132</span>    }</div>
+<div class="line"><span class="lineno">  133</span>}</div>
+<div class="ttc" id="aa03269_html_a083358a25d084fb928e170c453128f9da4e14e61d036d1d8edeb90a5bae80c7e1"><div class="ttname"><a href="../../d9/d33/a03269.html#a083358a25d084fb928e170c453128f9da4e14e61d036d1d8edeb90a5bae80c7e1">MOVEMENTFLAG_ONTRANSPORT</a></div><div class="ttdeci">@ MOVEMENTFLAG_ONTRANSPORT</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:381</div></div>
+<div class="ttc" id="aa08471_html_a0ab9e2649cc4b0103aea6a52e8f1a5ea"><div class="ttname"><a href="../../d5/d6c/a08471.html#a0ab9e2649cc4b0103aea6a52e8f1a5ea">Creature::SetHomePosition</a></div><div class="ttdeci">void SetHomePosition(float x, float y, float z, float o)</div><div class="ttdef"><b>Definition:</b> Creature.h:347</div></div>
+<div class="ttc" id="aa08471_html_ac92978c32c3b66af03eadfa1b565d4ca"><div class="ttname"><a href="../../d5/d6c/a08471.html#ac92978c32c3b66af03eadfa1b565d4ca">Creature::SetTransportHomePosition</a></div><div class="ttdeci">void SetTransportHomePosition(float x, float y, float z, float o)</div><div class="ttdef"><b>Definition:</b> Creature.h:352</div></div>
+<div class="ttc" id="aa08651_html_a5aae646746017d2cab8aa0f625cb4d42"><div class="ttname"><a href="../../d7/d00/a08651.html#a5aae646746017d2cab8aa0f625cb4d42">GameObject::ToMotionTransport</a></div><div class="ttdeci">MotionTransport * ToMotionTransport()</div><div class="ttdef"><b>Definition:</b> GameObject.h:331</div></div>
+<div class="ttc" id="aa08883_html_a9ffd4691b1ebdb5011e800739b4dd4f5"><div class="ttname"><a href="../../d4/d08/a08883.html#a9ffd4691b1ebdb5011e800739b4dd4f5">WorldObject::GetTransport</a></div><div class="ttdeci">Transport * GetTransport() const</div><div class="ttdef"><b>Definition:</b> Object.h:701</div></div>
+<div class="ttc" id="aa08931_html_a74cabfb8f441acb38e1abd5bf6ecdc84"><div class="ttname"><a href="../../d7/dc3/a08931.html#a74cabfb8f441acb38e1abd5bf6ecdc84">Position::GetOrientation</a></div><div class="ttdeci">float GetOrientation() const</div><div class="ttdef"><b>Definition:</b> Position.h:124</div></div>
+<div class="ttc" id="aa09143_html"><div class="ttname"><a href="../../d2/d76/a09143.html">Transport</a></div><div class="ttdef"><b>Definition:</b> Transport.h:30</div></div>
+<div class="ttc" id="aa09227_html_a924b296aeb24186da0b821b8b47bb712"><div class="ttname"><a href="../../d9/d33/a09227.html#a924b296aeb24186da0b821b8b47bb712">Unit::HasUnitMovementFlag</a></div><div class="ttdeci">bool HasUnitMovementFlag(uint32 f) const</div><div class="ttdef"><b>Definition:</b> Unit.h:777</div></div>
+<div class="ttc" id="aa09227_html_ab38bf07f849039068d02971f5e006d29"><div class="ttname"><a href="../../d9/d33/a09227.html#ab38bf07f849039068d02971f5e006d29">Unit::GetTransGUID</a></div><div class="ttdeci">ObjectGuid GetTransGUID() const override</div><div class="ttdef"><b>Definition:</b> Unit.cpp:14644</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00124">Position::GetOrientation()</a>, <a class="el" href="../../#l14644">Unit::GetTransGUID()</a>, <a class="el" href="../../#l00701">WorldObject::GetTransport()</a>, <a class="el" href="../../#l00777">Unit::HasUnitMovementFlag()</a>, <a class="el" href="../../#l00381">MOVEMENTFLAG_ONTRANSPORT</a>, <a class="el" href="../../#l00347">Creature::SetHomePosition()</a>, <a class="el" href="../../#l00352">Creature::SetTransportHomePosition()</a>, <a class="el" href="../../#l00331">GameObject::ToMotionTransport()</a>, <a class="el" href="../../#l00048">WaypointNode::X</a>, <a class="el" href="../../#l00048">WaypointNode::Y</a>, and <a class="el" href="../../#l00048">WaypointNode::Z</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00360">WaypointMovementGenerator&lt; Creature &gt;::DoUpdate()</a>, and <a class="el" href="../../#l00135">WaypointMovementGenerator&lt; Creature &gt;::ProcessWaypointArrival()</a>.</p>
 
 </div>
 </div>
@@ -213,8 +298,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_5ee14a0f6ab8ad29bd27b6821baacc69.html">Kalimdor</a></li><li class="navelem"><a class="el" href="../../d7/dab/a03815.html">zone_thunder_bluff.cpp</a></li>
-    <li class="footer">Generated on Mon Sep 21 2026 23:32:55 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_0787b0a4fdc11b0654465feaa92c32a3.html">Movement</a></li><li class="navelem"><a class="el" href="../../dir_5b912817ccf0063e74cbee75ff3a7169.html">MovementGenerators</a></li><li class="navelem"><a class="el" href="../../d7/dab/a03815.html">WaypointMovementGenerator.cpp</a></li>
+    <li class="footer">Generated on Tue Sep 29 2026 01:11:52 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

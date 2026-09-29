@@ -1,7 +1,14 @@
 var a00479 =
 [
-    [ "Acore::AsyncProcessResult", "d8/d88/a05899.html", "d8/d88/a05899" ],
-    [ "SearchExecutableInPath", "d9/d4a/a00479.html#a9de098dac5e38f8c2cdbeb1d4d706881", null ],
-    [ "StartAsyncProcess", "d9/d4a/a00479.html#a021f51138f5726e712f00bdddf9be729", null ],
-    [ "StartProcess", "d9/d4a/a00479.html#acfaf2f89a55d299aa04c494719dfedc8", null ]
+    [ "go_main_chambers_access_panel", "d7/dfe/a23571.html", "d7/dfe/a23571" ],
+    [ "instance_steam_vault", "d6/dc9/a23575.html", "d6/dc9/a23575" ],
+    [ "instance_steam_vault::instance_steam_vault_InstanceMapScript", "d7/d36/a23579.html", "d7/d36/a23579" ],
+    [ "MainChambersAccessPanelSays", "d9/d4a/a00479.html#aa8d293574a308aad41f620556eb63b6a", [
+      [ "SAY_FAINT_ECHO", "d9/d4a/a00479.html#aa8d293574a308aad41f620556eb63b6aadbbafef44899cd7d93e10aaa27f52992", null ],
+      [ "SAY_LOUD_RUMBLE", "d9/d4a/a00479.html#aa8d293574a308aad41f620556eb63b6aa420e4ca090aea66dfe08994ddce97884", null ]
+    ] ],
+    [ "AddSC_instance_steam_vault", "d9/d4a/a00479.html#a944f7f7f41e047f2a4f82fb9af0b4829", null ],
+    [ "creatureData", "d9/d4a/a00479.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "minionData", "d9/d4a/a00479.html#a6720238df140a3c574a711042b7f5bd3", null ],
+    [ "objectData", "d9/d4a/a00479.html#a59ddfa91084111da23b5d47482e4ff8d", null ]
 ];

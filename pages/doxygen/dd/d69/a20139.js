@@ -1,6 +1,6 @@
 var a20139 =
 [
-    [ "HandleScript", "dd/d69/a20139.html#a992dbad02eab01824d870bdd3fca93d0", null ],
-    [ "PrepareSpellScript", "dd/d69/a20139.html#a0e6b4d1f59896a255929556baa943bdb", null ],
-    [ "Register", "dd/d69/a20139.html#a6bd2b3f20ee88fbba18ea6da6e8a23ab", null ]
+    [ "boss_sjonnir_malformed_oozeAI", "d7/dd2/a20143.html", "d7/dd2/a20143" ],
+    [ "boss_sjonnir_malformed_ooze", "dd/d69/a20139.html#ad151bc07b032b6cceed046d1b25ecc08", null ],
+    [ "GetAI", "dd/d69/a20139.html#a22807bb07692511c5ec87073d98c2604", null ]
 ];

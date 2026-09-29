@@ -1,8 +1,6 @@
 var a13179 =
 [
-    [ "FilterTargets", "d0/d8b/a13179.html#ac47cfe2bf2782202ac69ea7a91290c2f", null ],
-    [ "HandleScript", "d0/d8b/a13179.html#a47dcb727b8e467044602b2a3d54ec1de", null ],
-    [ "PrepareSpellScript", "d0/d8b/a13179.html#a2319460465cefa69b1b81ce50b1d7b85", null ],
-    [ "Register", "d0/d8b/a13179.html#a72b3bbddf931fee1a12700c867b47f3d", null ],
-    [ "Validate", "d0/d8b/a13179.html#a66d0a1ab1a3dae5242a7396a750e73ad", null ]
+    [ "boss_shazzrah", "d0/d8b/a13179.html#a9886c4c93017936beae1babacffa76a2", null ],
+    [ "ExecuteEvent", "d0/d8b/a13179.html#a2d8ab48c6abb3e0334ef54e0b918ff27", null ],
+    [ "JustEngagedWith", "d0/d8b/a13179.html#aa23aecbb28a9bb1fc138691f143f8e53", null ]
 ];

@@ -1,6 +1,5 @@
 var a02951 =
 [
-    [ "fireworkShowBootyBay", "d4/d32/a02951.html#ade8881c3a797a7937c46526f8c8adf99", null ],
-    [ "FireworkShowGameobjectBootyBay", "d4/d32/a02951.html#aeff31f29bacaf8ca10d5caee61627422", null ],
-    [ "fireworkShowScheduleBootyBay", "d4/d32/a02951.html#aed5048221cf1d35ad3d4989da8786617", null ]
+    [ "WardenInitModuleRequest", "d0/d7c/a12395.html", "d0/d7c/a12395" ],
+    [ "WardenWin", "df/d72/a12399.html", "df/d72/a12399" ]
 ];

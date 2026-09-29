@@ -1,9 +1,9 @@
 var a20847 =
 [
-    [ "npc_razorscale_harpoon_fire_state", "dd/dba/a20847.html#a5bcb95382dc80bae1f4f05c306fb52bf", null ],
-    [ "DoAction", "dd/dba/a20847.html#aa7a12bae703c1a7d215dc0181f9ad532", null ],
-    [ "GetData", "dd/dba/a20847.html#ae552669fbd1a66a457cc30a2ed13c8fd", null ],
-    [ "Reset", "dd/dba/a20847.html#aad5f2d32fffaacec3485b0743f4267aa", null ],
-    [ "SpellHit", "dd/dba/a20847.html#a660573750d12c82394a9f911a3973e02", null ],
-    [ "_repairProgress", "dd/dba/a20847.html#af1c14d6762f9fc9f3a78f040a544bde4", null ]
+    [ "npc_expedition_trapper", "dd/dba/a20847.html#ac924a9b9e23624de1460b0cdfe8c8a1b", null ],
+    [ "DoAction", "dd/dba/a20847.html#a094ecbf1a719223d50c7d070989aa782", null ],
+    [ "MovementInform", "dd/dba/a20847.html#ae2a0c15b4a7d59f4222e818d0fcf303b", null ],
+    [ "SetData", "dd/dba/a20847.html#a11241b1513209a9964569ab29eb5dc64", null ],
+    [ "UpdateAI", "dd/dba/a20847.html#a16a39f855263ebde21ddb03d4fe60460", null ],
+    [ "_idx", "dd/dba/a20847.html#ae24ec016a0f29f7bcb41935e1991f9fa", null ]
 ];

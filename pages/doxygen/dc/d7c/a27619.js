@@ -1,9 +1,9 @@
 var a27619 =
 [
-    [ "CalculateAmount", "dc/d7c/a27619.html#a55d778b049e26c28bfa9d2e08d7920a8", null ],
-    [ "CheckProc", "dc/d7c/a27619.html#aa0144f9a0260a74010ced913dd8cadbd", null ],
-    [ "HandleProc", "dc/d7c/a27619.html#a741570ba77f70d90b437198f63e565f3", null ],
-    [ "PrepareAuraScript", "dc/d7c/a27619.html#af4e49e2362994f247c119c16c013e4b3", null ],
-    [ "Register", "dc/d7c/a27619.html#a06a3c11618cbdf15427bbaa6ac8a4273", null ],
-    [ "Validate", "dc/d7c/a27619.html#a939d6815bcaee9b9d2b062313aac912a", null ]
+    [ "HandleHeal", "dc/d7c/a27619.html#ad2d854d275dc6f8b67b866d864b6febe", null ],
+    [ "Load", "dc/d7c/a27619.html#a507a7a4ff11f8bf1157e034d086cd9ad", null ],
+    [ "PrepareSpellScript", "dc/d7c/a27619.html#a91eb46af707897f228e5d1bbd199a833", null ],
+    [ "Register", "dc/d7c/a27619.html#ae28f1b0c23511153eafc037cae067bc0", null ],
+    [ "firstHeal", "dc/d7c/a27619.html#a405326e6e1cd82816aef1712fdf335a0", null ],
+    [ "riptide", "dc/d7c/a27619.html#acaec32f6730bc2e04e613aa982d285bf", null ]
 ];

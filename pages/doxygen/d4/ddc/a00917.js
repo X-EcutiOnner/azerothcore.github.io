@@ -1,59 +1,69 @@
 var a00917 =
 [
-    [ "AchievementOfflinePlayerUpdate", "d2/d3d/a06371.html", "d2/d3d/a06371" ],
-    [ "CriteriaProgress", "de/da2/a06375.html", "de/da2/a06375" ],
-    [ "AchievementCriteriaData", "dc/d1d/a06379.html", "dc/d1d/a06379" ],
-    [ "AchievementCriteriaDataSet", "d8/d6f/a06475.html", "d8/d6f/a06475" ],
-    [ "AchievementReward", "d9/d53/a06479.html", "d9/d53/a06479" ],
-    [ "AchievementRewardLocale", "d5/dc6/a06483.html", "d5/dc6/a06483" ],
-    [ "CompletedAchievementData", "d3/d29/a06487.html", "d3/d29/a06487" ],
-    [ "AchievementMgr", "d2/d1f/a06491.html", "d2/d1f/a06491" ],
-    [ "AchievementGlobalMgr", "df/d24/a06495.html", "df/d24/a06495" ],
-    [ "MAX_ACHIEVEMENT_CRITERIA_DATA_TYPE", "d4/ddc/a00917.html#aa36806d2931b69d34909b50f40ca8c0e", null ],
-    [ "sAchievementMgr", "d4/ddc/a00917.html#af422afe119839b631fd67247eddff1e6", null ],
-    [ "AchievementCriteriaDataMap", "d4/ddc/a00917.html#ac16b4d5f47fe0db16d59dc67e86e42be", null ],
-    [ "AchievementCriteriaEntryList", "d4/ddc/a00917.html#a7a5f365d092f508da6ae8d510f0e3117", null ],
-    [ "AchievementCriteriaListByAchievement", "d4/ddc/a00917.html#ad5e4b1cd98f21804a508642d8475033f", null ],
-    [ "AchievementEntryList", "d4/ddc/a00917.html#a9d70fd67a3069b6a55c0145265bffc4b", null ],
-    [ "AchievementListByReferencedId", "d4/ddc/a00917.html#af3b606f4c218a7e68902cd9ff9470f5b", null ],
-    [ "AchievementRewardLocales", "d4/ddc/a00917.html#a3d51ce6b9e37b72772cea78f064e5a77", null ],
-    [ "AchievementRewards", "d4/ddc/a00917.html#a471572afc0467790ccff565b39f61720", null ],
-    [ "CompletedAchievementMap", "d4/ddc/a00917.html#aee097fd9426b25c1101af73a551a37e1", null ],
-    [ "CriteriaProgressMap", "d4/ddc/a00917.html#a649527d8ab61f39ad17fe709d2b1aabc", null ],
-    [ "AchievementCommonCategories", "d4/ddc/a00917.html#ac0bc114e07c706c7192e14e80355a213", [
-      [ "ACHIEVEMENT_CATEOGRY_GENERAL", "d4/ddc/a00917.html#ac0bc114e07c706c7192e14e80355a213a4c91db703d7b5c8f8756bc6136bc5207", null ],
-      [ "ACHIEVEMENT_CATEGORY_STATISTICS", "d4/ddc/a00917.html#ac0bc114e07c706c7192e14e80355a213a142173b7c79b8a90cd7854fd7b03509a", null ]
+    [ "npc_pet_gen_soul_trader_beacon", "d1/d2d/a24539.html", "d1/d2d/a24539" ],
+    [ "argentPonyBanner", "de/d55/a24543.html", "de/d55/a24543" ],
+    [ "npc_pet_gen_argent_pony_bridle", "d9/d22/a24547.html", "d9/d22/a24547" ],
+    [ "npc_pet_gen_target_following_bomb", "db/d85/a24551.html", "db/d85/a24551" ],
+    [ "npc_pet_gen_gnomish_flame_turret", "df/dec/a24555.html", "df/dec/a24555" ],
+    [ "npc_pet_gen_valkyr_guardian", "d3/de1/a24559.html", "d3/de1/a24559" ],
+    [ "spell_pet_gen_valkyr_guardian_smite", "d5/d75/a24563.html", "d5/d75/a24563" ],
+    [ "npc_pet_gen_imp_in_a_bottle", "dd/d46/a24567.html", "dd/d46/a24567" ],
+    [ "npc_pet_gen_wind_rider_cub", "df/dd1/a24571.html", "df/dd1/a24571" ],
+    [ "npc_pet_gen_plump_turkey", "da/d36/a24575.html", "da/d36/a24575" ],
+    [ "npc_pet_gen_toxic_wasteling", "db/d67/a24579.html", "db/d67/a24579" ],
+    [ "npc_pet_gen_fetch_ball", "d3/d6f/a24583.html", "d3/d6f/a24583" ],
+    [ "npc_pet_gen_moth", "d9/de1/a24587.html", "d9/de1/a24587" ],
+    [ "npc_pet_darting_hatchling", "d9/d50/a24591.html", "d9/d50/a24591" ],
+    [ "Darting", "d4/ddc/a00917.html#ac6c326501143f3fd2f576f3bed6d1801", [
+      [ "SPELL_DARTING_ON_SPAWN", "d4/ddc/a00917.html#ac6c326501143f3fd2f576f3bed6d1801a3f54a1482e0a9d44e40a656213c2aab5", null ],
+      [ "SPELL_DARTING_FEAR", "d4/ddc/a00917.html#ac6c326501143f3fd2f576f3bed6d1801aabe22d3443647ba410026bb6e4a83928", null ]
     ] ],
-    [ "AchievementCriteriaDataType", "d4/ddc/a00917.html#a72f8a725cd1b257556ae7aa080f477c0", [
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_NONE", "d4/ddc/a00917.html#a72f8a725cd1b257556ae7aa080f477c0ae9d5b8759c2ee53b9e210a15ad049943", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_T_CREATURE", "d4/ddc/a00917.html#a72f8a725cd1b257556ae7aa080f477c0abc70f9063061689cbf95c04df5a9a448", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_T_PLAYER_CLASS_RACE", "d4/ddc/a00917.html#a72f8a725cd1b257556ae7aa080f477c0a22786f73e7cc8966c60614e88f0d5cb1", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_T_PLAYER_LESS_HEALTH", "d4/ddc/a00917.html#a72f8a725cd1b257556ae7aa080f477c0ac6775a92c029d4c2be529461e23e4ca3", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_T_PLAYER_DEAD", "d4/ddc/a00917.html#a72f8a725cd1b257556ae7aa080f477c0adc76e0c15e881d6848994a911d1a8ef6", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_S_AURA", "d4/ddc/a00917.html#a72f8a725cd1b257556ae7aa080f477c0a9507639d721e63f182ebd53d593d5465", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_S_AREA", "d4/ddc/a00917.html#a72f8a725cd1b257556ae7aa080f477c0a19b830790eb46adb27e8a65b85eceed1", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_T_AURA", "d4/ddc/a00917.html#a72f8a725cd1b257556ae7aa080f477c0aa0b32101ef67881083e58a6a6c55c75b", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_VALUE", "d4/ddc/a00917.html#a72f8a725cd1b257556ae7aa080f477c0a3fd659753b9d41caa4b58c51d2cb6ea7", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_T_LEVEL", "d4/ddc/a00917.html#a72f8a725cd1b257556ae7aa080f477c0ab055e5273ac4250d273fa5592af3ed39", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_T_GENDER", "d4/ddc/a00917.html#a72f8a725cd1b257556ae7aa080f477c0a10fc4cfb0da2c0c72c12d5e6e4a1bdd6", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_SCRIPT", "d4/ddc/a00917.html#a72f8a725cd1b257556ae7aa080f477c0a0578b3122b1b69df3af04c2d45df266c", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_MAP_DIFFICULTY", "d4/ddc/a00917.html#a72f8a725cd1b257556ae7aa080f477c0a5813a09c9977d3d5f80595d529f7f420", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_MAP_PLAYER_COUNT", "d4/ddc/a00917.html#a72f8a725cd1b257556ae7aa080f477c0a1046e477766a7c60f4446fef1b13a6f5", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_T_TEAM", "d4/ddc/a00917.html#a72f8a725cd1b257556ae7aa080f477c0ad5967db594cc30c247c785d5c753cc18", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_S_DRUNK", "d4/ddc/a00917.html#a72f8a725cd1b257556ae7aa080f477c0a7fcb85cf04be09a3a5f1214553bf329a", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_HOLIDAY", "d4/ddc/a00917.html#a72f8a725cd1b257556ae7aa080f477c0a9dba74c8f01c9292cf8afa6b77be2a34", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_BG_LOSS_TEAM_SCORE", "d4/ddc/a00917.html#a72f8a725cd1b257556ae7aa080f477c0aab81f29c4cb17f066e8d2bd95f37d954", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_INSTANCE_SCRIPT", "d4/ddc/a00917.html#a72f8a725cd1b257556ae7aa080f477c0adb7d56866cf7afe8c4145c300a06ec4c", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_S_EQUIPPED_ITEM", "d4/ddc/a00917.html#a72f8a725cd1b257556ae7aa080f477c0a77677f4d00c6fab053e7f632ef59b4e5", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_MAP_ID", "d4/ddc/a00917.html#a72f8a725cd1b257556ae7aa080f477c0a84b46b516fde8adcd492cb856d32e722", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_S_PLAYER_CLASS_RACE", "d4/ddc/a00917.html#a72f8a725cd1b257556ae7aa080f477c0aaa861458fcfe5aed7f8714be2b68a1db", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_NTH_BIRTHDAY", "d4/ddc/a00917.html#a72f8a725cd1b257556ae7aa080f477c0a003a15517532a95903cb8c6673db418f", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_S_KNOWN_TITLE", "d4/ddc/a00917.html#a72f8a725cd1b257556ae7aa080f477c0a158d186341dd9798da3921a4a6bd2fda", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_BG_TEAMS_SCORES", "d4/ddc/a00917.html#a72f8a725cd1b257556ae7aa080f477c0af734713c1c6764e61fddab192904518a", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_S_ITEM_QUALITY", "d4/ddc/a00917.html#a72f8a725cd1b257556ae7aa080f477c0af53705f7958654cf4ca99c99dd320735", null ]
+    [ "eArgentPony", "d4/ddc/a00917.html#afde75de2d7c41e82e7b05714b217ab25", [
+      [ "ARGENT_PONY_STATE_NONE", "d4/ddc/a00917.html#afde75de2d7c41e82e7b05714b217ab25a7c7bbd0022800380396fe663f59b0cac", null ],
+      [ "ARGENT_PONY_STATE_ENCH", "d4/ddc/a00917.html#afde75de2d7c41e82e7b05714b217ab25a9d808ab60e22f4f80d4ef4422b36b4c2", null ],
+      [ "ARGENT_PONY_STATE_VENDOR", "d4/ddc/a00917.html#afde75de2d7c41e82e7b05714b217ab25a7b2084753d0318692685355df13f76c8", null ],
+      [ "ARGENT_PONY_STATE_BANK", "d4/ddc/a00917.html#afde75de2d7c41e82e7b05714b217ab25a681f72bc8ca8b18c76f6214c68cd2d7a", null ],
+      [ "ARGENT_PONY_STATE_MAILBOX", "d4/ddc/a00917.html#afde75de2d7c41e82e7b05714b217ab25a0ae46a4bf3a4c63b1a7c42ed49d127f3", null ],
+      [ "SPELL_PONY_MOUNT", "d4/ddc/a00917.html#afde75de2d7c41e82e7b05714b217ab25a7053bcf0c5b72708b25ede3614a9e994", null ],
+      [ "SPELL_AURA_POSTMAN_S", "d4/ddc/a00917.html#afde75de2d7c41e82e7b05714b217ab25a593c83162852e10d48847cbb5d6f8190", null ],
+      [ "SPELL_AURA_SHOP_S", "d4/ddc/a00917.html#afde75de2d7c41e82e7b05714b217ab25a78ccec40f569ff7033fcc5972c22e875", null ],
+      [ "SPELL_AURA_BANK_S", "d4/ddc/a00917.html#afde75de2d7c41e82e7b05714b217ab25aac98b13b8f429a9315adadb57e7df51e", null ],
+      [ "SPELL_AURA_TIRED_S", "d4/ddc/a00917.html#afde75de2d7c41e82e7b05714b217ab25ac569629bfb2bc1e4b43207504f69cc62", null ],
+      [ "SPELL_AURA_BANK_G", "d4/ddc/a00917.html#afde75de2d7c41e82e7b05714b217ab25a1cb3a2bde84f922951731a594b27f41f", null ],
+      [ "SPELL_AURA_POSTMAN_G", "d4/ddc/a00917.html#afde75de2d7c41e82e7b05714b217ab25ac9a4b7f9083bec38085857b02cf035c3", null ],
+      [ "SPELL_AURA_SHOP_G", "d4/ddc/a00917.html#afde75de2d7c41e82e7b05714b217ab25aaec84cc2dd0f10e8c3014af4a81053b2", null ],
+      [ "SPELL_AURA_TIRED_G", "d4/ddc/a00917.html#afde75de2d7c41e82e7b05714b217ab25a95b8c0f443e980939026dade51ca7704", null ],
+      [ "ACHIEVEMENT_PONY_UP", "d4/ddc/a00917.html#afde75de2d7c41e82e7b05714b217ab25a15932687a7f0651effb9b9ee2872108b", null ],
+      [ "GOSSIP_ACTION_MAILBOX", "d4/ddc/a00917.html#afde75de2d7c41e82e7b05714b217ab25ae5789201628400bb29b4ff44df5bf6aa", null ],
+      [ "NPC_ARGENT_SQUIRE", "d4/ddc/a00917.html#afde75de2d7c41e82e7b05714b217ab25aa7c39387e050223e87be9617cd1675d9", null ],
+      [ "NPC_ARGENT_GRUNTLING", "d4/ddc/a00917.html#afde75de2d7c41e82e7b05714b217ab25a87d163201c6a5c5c2844e2ccdfb6820d", null ]
     ] ],
-    [ "AchievementOfflinePlayerUpdateType", "d4/ddc/a00917.html#a9c52752c50b87261f43020b3cfaa06e6", [
-      [ "ACHIEVEMENT_OFFLINE_PLAYER_UPDATE_TYPE_COMPLETE_ACHIEVEMENT", "d4/ddc/a00917.html#a9c52752c50b87261f43020b3cfaa06e6a2976d6d0cc93ac389d7683d092aff8ee", null ],
-      [ "ACHIEVEMENT_OFFLINE_PLAYER_UPDATE_TYPE_UPDATE_CRITERIA", "d4/ddc/a00917.html#a9c52752c50b87261f43020b3cfaa06e6a7d91d50e1acd06739fbc20bd87c8a4a3", null ]
-    ] ]
+    [ "eTargetFollowingBomb", "d4/ddc/a00917.html#a8fa8cac3b35ac78f077e32527c565dc5", [
+      [ "NPC_EXPLOSIVE_SHEEP", "d4/ddc/a00917.html#a8fa8cac3b35ac78f077e32527c565dc5a7fcfaaabbf679f0b666bf3373415ab08", null ],
+      [ "SPELL_EXPLOSIVE_SHEEP", "d4/ddc/a00917.html#a8fa8cac3b35ac78f077e32527c565dc5a458604e277b00331a23677dbcebe736c", null ],
+      [ "NPC_GOBLIN_BOMB", "d4/ddc/a00917.html#a8fa8cac3b35ac78f077e32527c565dc5a499465812239027532d496194535225b", null ],
+      [ "SPELL_EXPLOSIVE_GOBLIN", "d4/ddc/a00917.html#a8fa8cac3b35ac78f077e32527c565dc5ac8b8bff1dcac01fbc76888faedba2c4b", null ],
+      [ "NPC_HIGH_EXPLOSIVE_SHEEP", "d4/ddc/a00917.html#a8fa8cac3b35ac78f077e32527c565dc5a574940f707e088207860b7cf5831499a", null ],
+      [ "SPELL_HIGH_EXPLOSIVE_SHEEP", "d4/ddc/a00917.html#a8fa8cac3b35ac78f077e32527c565dc5a7d827992f43d628f53f5e20a47e70076", null ]
+    ] ],
+    [ "FetchBall", "d4/ddc/a00917.html#aac7a99c8fbbfd38ee1397e32e458b7ee", [
+      [ "SPELL_PET_TOY_FETCH_BALL_COME_HERE", "d4/ddc/a00917.html#aac7a99c8fbbfd38ee1397e32e458b7eeaa7b1515cbe9db27b4fdcd71fc12bbe57", null ],
+      [ "SPELL_PET_TOY_FETCH_BALL_HAS_BALL", "d4/ddc/a00917.html#aac7a99c8fbbfd38ee1397e32e458b7eeaf9371f563d2fba21dfa7a84ae163b06a", null ]
+    ] ],
+    [ "soulTrader", "d4/ddc/a00917.html#a0c62231deec62afa90de133fc889cf1d", [
+      [ "SPELL_STEAL_ESSENCE_VISUAL", "d4/ddc/a00917.html#a0c62231deec62afa90de133fc889cf1daf517a573d5d8d63de97a1a34d3aeee17", null ],
+      [ "SPELL_CREATE_TOKEN", "d4/ddc/a00917.html#a0c62231deec62afa90de133fc889cf1daa47b1a9e0b76f60a5fa03890f9f79656", null ],
+      [ "SPELL_PROC_TRIGGER_ON_KILL_AURA", "d4/ddc/a00917.html#a0c62231deec62afa90de133fc889cf1da09016acbb1f04797cba77c84929850d3", null ],
+      [ "SPELL_OWNER_KILLED_INFORM", "d4/ddc/a00917.html#a0c62231deec62afa90de133fc889cf1da7c4c179e4500563c9ef85d8df2f0e43a", null ],
+      [ "SPELL_EMOTE_STATE_SWIM_RUN", "d4/ddc/a00917.html#a0c62231deec62afa90de133fc889cf1da5f9cda28210ee1c037798c12ca801c3a", null ],
+      [ "EVENT_INITIAL_TALK", "d4/ddc/a00917.html#a0c62231deec62afa90de133fc889cf1daec0204ac67484a720309c13d441d6b0c", null ],
+      [ "EVENT_ADD_TOKEN", "d4/ddc/a00917.html#a0c62231deec62afa90de133fc889cf1da03e1aa2fc99d035a294f1596fd58851b", null ]
+    ] ],
+    [ "turkey", "d4/ddc/a00917.html#a8bc1d91a992db83fed0477b2a50adca3", [
+      [ "GO_BASIC_CAMPFIRE", "d4/ddc/a00917.html#a8bc1d91a992db83fed0477b2a50adca3abd474e7bd7da6a35853def0dcd7e2c97", null ],
+      [ "SPELL_TURKEY_STARTS_TO_BURN", "d4/ddc/a00917.html#a8bc1d91a992db83fed0477b2a50adca3acae2431d12566203a4dd6826000d74c5", null ]
+    ] ],
+    [ "AddSC_generic_pet_scripts", "d4/ddc/a00917.html#a9852812a043673e45884dca938eff157", null ],
+    [ "argentBanners", "d4/ddc/a00917.html#a186564f573420d5c2e6647a2f9b1096e", null ],
+    [ "argentPonyService", "d4/ddc/a00917.html#a4fcf1a55583a661981f5b5fda27a7eab", null ]
 ];

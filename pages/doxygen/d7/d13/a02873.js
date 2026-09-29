@@ -1,12 +1,7 @@
 var a02873 =
 [
-    [ "ACScriptName", "d7/d13/a02873.html#a44e28f969fff2c33cf76b8eaaff1898c", null ],
-    [ "DataHeader", "d7/d13/a02873.html#a042491ef36459046f3866e90f15aae0d", null ],
-    [ "RegisterAuchenaiCryptsCreatureAI", "d7/d13/a02873.html#abf97bec93b670890ad0eaa7d6b4bd4b9", null ],
-    [ "ACDataTypes", "d7/d13/a02873.html#aae3060cf5aa0b4d27bcbbfeee3db2856", [
-      [ "DATA_SHIRRAK_THE_DEAD_WATCHER", "d7/d13/a02873.html#aae3060cf5aa0b4d27bcbbfeee3db2856a5d80917a3a5f108f9e625372181b85fe", null ],
-      [ "DATA_EXARCH_MALADAAR", "d7/d13/a02873.html#aae3060cf5aa0b4d27bcbbfeee3db2856aa54edd3601b7953b0bf046fa8b1bd3f8", null ]
-    ] ],
-    [ "GetAuchenaiCryptsAI", "d7/d13/a02873.html#a8c9b9cbd7dca7c2e86d7ad3fe7bfd961", null ],
-    [ "EncounterCount", "d7/d13/a02873.html#a31d630c40753c29f94ceac2db5e451a8", null ]
+    [ "canCreateExtraItems", "d7/d13/a02873.html#a49687e255d65fa15dac5e6a428c5739d", null ],
+    [ "CanCreatePerfectItem", "d7/d13/a02873.html#a818c557864790091814604b6d2175e52", null ],
+    [ "LoadSkillExtraItemTable", "d7/d13/a02873.html#a3244d04018405bafe21acc8bc96cc743", null ],
+    [ "LoadSkillPerfectItemTable", "d7/d13/a02873.html#a121df170a82be5ab5b05999a6be27b69", null ]
 ];

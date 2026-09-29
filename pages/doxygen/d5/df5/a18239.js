@@ -1,6 +1,5 @@
 var a18239 =
 [
-    [ "boss_lady_deathwhisperAI", "db/d31/a18243.html", "db/d31/a18243" ],
-    [ "boss_lady_deathwhisper", "d5/df5/a18239.html#a979411cb834611b1239f3bf9058d316d", null ],
-    [ "GetAI", "d5/df5/a18239.html#ac0b86fee1e2e9dbf794ed1b53aab11d2", null ]
+    [ "achievement_im_on_a_boat", "d5/df5/a18239.html#aa25d330534aab023ec798e86976a6d50", null ],
+    [ "OnCheck", "d5/df5/a18239.html#ab4fffc061b9ff77563e7e0a5a796be1e", null ]
 ];

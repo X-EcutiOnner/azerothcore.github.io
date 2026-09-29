@@ -1,8 +1,7 @@
 var a16063 =
 [
-    [ "CheckRequirement", "d1/dc5/a16063.html#ae2b5e9accd0df2cc99e976eaab2d3f35", null ],
-    [ "HandleDummy", "d1/dc5/a16063.html#a6d2c75ad53f0e0f7be2df037f385d686", null ],
-    [ "PrepareSpellScript", "d1/dc5/a16063.html#a5b0a5f957a7b996cbe6b219a9803069e", null ],
-    [ "Register", "d1/dc5/a16063.html#a46f4aec6f7786d0abc8ded21ef16e6f6", null ],
-    [ "Validate", "d1/dc5/a16063.html#ab3f8d94f3b8d44e668743cb821430a92", null ]
+    [ "HandleEffectPeriodic", "d1/dc5/a16063.html#ac47c157dbd193bc131d281666ae2097f", null ],
+    [ "PrepareAuraScript", "d1/dc5/a16063.html#ac650ece6e2d9e9e7ff9b863d77f84975", null ],
+    [ "Register", "d1/dc5/a16063.html#ac3c158fdddd007d1d7986470032bfc25", null ],
+    [ "Validate", "d1/dc5/a16063.html#a26b117dc8a3b104dec9de27597fbe55d", null ]
 ];

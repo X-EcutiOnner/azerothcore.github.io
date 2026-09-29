@@ -1,6 +1,10 @@
 var a11291 =
 [
-    [ "GuildBankLogQuery", "da/dd0/a11291.html#ab094e91a48d0259b4247157b92997bb2", null ],
-    [ "Read", "da/dd0/a11291.html#a5eed269e9285a33ffc61fcfa7d639083", null ],
-    [ "Tab", "da/dd0/a11291.html#ae966e3ac144b86e20f65b742ff3be9e3", null ]
+    [ "Count", "da/dd0/a11291.html#a97b56650a40ff3d39c6281d43261f06f", null ],
+    [ "EntryType", "da/dd0/a11291.html#a7c4db5da5d5e501172b8581e4e7bb865", null ],
+    [ "ItemID", "da/dd0/a11291.html#a1daad03864355f94d90315fea68892d4", null ],
+    [ "Money", "da/dd0/a11291.html#a856d32f52e85b2b7329f85b8e04ad0ee", null ],
+    [ "OtherTab", "da/dd0/a11291.html#a359c633cc0034dc8ae8b7db69d3dd739", null ],
+    [ "PlayerGUID", "da/dd0/a11291.html#a90e01e455d373204617b2747ca95fe04", null ],
+    [ "TimeOffset", "da/dd0/a11291.html#a11cf13b65aafbd4dc70399362f4f87fe", null ]
 ];

@@ -1,6 +1,6 @@
 var a18371 =
 [
-    [ "npc_gas_cloudAI", "d3/dad/a18371.html#a44e6f92ed3731beb8a36db66da9fbdef", null ],
-    [ "CastMainSpell", "d3/dad/a18371.html#a61681f6f9616fe33274302d4160c709b", null ],
-    [ "_newTargetSelectTimer", "d3/dad/a18371.html#a6989b904abaa5b71362e43664f4b084d", null ]
+    [ "npc_volatile_oozeAI", "db/d68/a18375.html", "db/d68/a18375" ],
+    [ "npc_volatile_ooze", "d3/dad/a18371.html#a22847e44812a0b13b92cfcca3a70204e", null ],
+    [ "GetAI", "d3/dad/a18371.html#a66b4918c14d90d5550ddc8dbe90c2e01", null ]
 ];

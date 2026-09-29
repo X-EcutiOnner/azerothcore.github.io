@@ -1,4 +1,5 @@
 var a00743 =
 [
-    [ "ScriptRegistry< AchievementCriteriaScript >", "d0/d0a/a00743.html#a691565a1335cabfa534300dece8e65e8", null ]
+    [ "gm_commandscript", "dd/d1f/a12543.html", "dd/d1f/a12543" ],
+    [ "AddSC_gm_commandscript", "d0/d0a/a00743.html#a65c7b128fdf4dd9807ef514c24918e7b", null ]
 ];

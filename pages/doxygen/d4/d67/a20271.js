@@ -1,14 +1,8 @@
 var a20271 =
 [
-    [ "boss_auriaya", "d4/d67/a20271.html#a2d946ada185a29bf00dc49d28089e64e", null ],
-    [ "DespawnFormationMembers", "d4/d67/a20271.html#a46dcb873d4101174687b4189d0494403", null ],
-    [ "DoAction", "d4/d67/a20271.html#aa58503020e3382e0c541047b233945a7", null ],
-    [ "ExecuteEvent", "d4/d67/a20271.html#ad8623f7f0dcda5532893c966cb216fc0", null ],
-    [ "GetData", "d4/d67/a20271.html#a44781b758392f8f519b9684617757620", null ],
-    [ "JustDied", "d4/d67/a20271.html#aa68d15f57a1ef545572f6d14a0541f4f", null ],
-    [ "JustEngagedWith", "d4/d67/a20271.html#ac80d7bbc334e20df9e85540556b8714e", null ],
-    [ "KilledUnit", "d4/d67/a20271.html#a6a3d2a4c2ae460da8db6b92b85bed45f", null ],
-    [ "Reset", "d4/d67/a20271.html#a4e2d1f982b2d5cb34ec8f77f869e8bad", null ],
-    [ "_feralDied", "d4/d67/a20271.html#a6e9a34f197964061752d7fd8283b1bf0", null ],
-    [ "_nineLives", "d4/d67/a20271.html#a26d80573eda1aa1005e1bc5453c182af", null ]
+    [ "OnPeriodic", "d4/d67/a20271.html#a56d101b26b220994aeb035e5fbc1f26e", null ],
+    [ "OnRemove", "d4/d67/a20271.html#ac6d961793ddb6423540da9d97e016b82", null ],
+    [ "PrepareAuraScript", "d4/d67/a20271.html#a9384a764bf9c48d12e7f62af99897ce4", null ],
+    [ "Register", "d4/d67/a20271.html#a69f5474dacdf220ffebe18bd5cf8a32f", null ],
+    [ "Validate", "d4/d67/a20271.html#a11d985c5e17c8b3cb34096000fda66ac", null ]
 ];

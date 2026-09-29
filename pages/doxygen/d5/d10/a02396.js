@@ -1,5 +1,7 @@
 var a02396 =
 [
-    [ "quest_commandscript", "da/de0/a12659.html", "da/de0/a12659" ],
-    [ "AddSC_quest_commandscript", "d5/d10/a02396.html#ae9edb5f21eaacbfd73cc01543cb2fcdd", null ]
+    [ "FieldTypeToString", "d5/d10/a02396.html#a9b1d39b7abfe176191c0ed27188ed310", null ],
+    [ "InitializeDatabaseFieldMetadata", "d5/d10/a02396.html#a5e0e57902060d1fcd32688acb949b98e", null ],
+    [ "MysqlTypeToFieldType", "d5/d10/a02396.html#a1a26932646b97d033efdf53078561a90", null ],
+    [ "SizeForType", "d5/d10/a02396.html#ae077e892df09ce687a0a50be949ad69f", null ]
 ];

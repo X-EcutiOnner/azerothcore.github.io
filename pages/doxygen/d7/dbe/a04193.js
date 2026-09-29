@@ -1,17 +1,14 @@
 var a04193 =
 [
-    [ "instance_zulgurub", "d1/d1e/a14747.html", "d1/d1e/a14747" ],
-    [ "instance_zulgurub::instance_zulgurub_InstanceMapScript", "d2/dff/a14751.html", "d2/dff/a14751" ],
-    [ "go_brazier_of_madness", "d0/d64/a14755.html", "d0/d64/a14755" ],
-    [ "EdgeOfMadnessEnum", "d7/dbe/a04193.html#a45822838f1310b1a812eba191cb3d416", [
-      [ "EVENT_EDGE_OF_MADNESS_GRILEK", "d7/dbe/a04193.html#a45822838f1310b1a812eba191cb3d416ad02945634d7affb86fe4a6fa1baee9e7", null ],
-      [ "EVENT_EDGE_OF_MADNESS_HAZZARAH", "d7/dbe/a04193.html#a45822838f1310b1a812eba191cb3d416a8ec0daec449beba98b500943bcacc8e4", null ],
-      [ "EVENT_EDGE_OF_MADNESS_RENATAKI", "d7/dbe/a04193.html#a45822838f1310b1a812eba191cb3d416a4d7aeb529f52ed41b6c933726f9e2e1d", null ],
-      [ "EVENT_EDGE_OF_MADNESS_WUSHOOLAY", "d7/dbe/a04193.html#a45822838f1310b1a812eba191cb3d416ac13476b6183a6ba6aad91191ef3c1073", null ]
-    ] ],
-    [ "AddSC_instance_zulgurub", "d7/dbe/a04193.html#a224e147b1990c0996e0ac61a1865e34c", null ],
-    [ "BrazierOfMadnessContainer", "d7/dbe/a04193.html#a808ff75d7f4ab6555cdc154544ef727f", null ],
-    [ "creatureData", "d7/dbe/a04193.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "d7/dbe/a04193.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "edgeOfMagnessSummonPos", "d7/dbe/a04193.html#a352683729da59da9923d0f67d510f73c", null ]
+    [ "GroupScript", "df/d28/a10859.html", "df/d28/a10859" ],
+    [ "GroupHook", "d7/dbe/a04193.html#a373b3fe6b402e8321892b8c1be74ab5d", [
+      [ "GROUPHOOK_ON_ADD_MEMBER", "d7/dbe/a04193.html#a373b3fe6b402e8321892b8c1be74ab5da3800aeea2a91eebb3ccdd533a8dfc681", null ],
+      [ "GROUPHOOK_ON_INVITE_MEMBER", "d7/dbe/a04193.html#a373b3fe6b402e8321892b8c1be74ab5da4f30d67b987f0ade961e34bce95e85fe", null ],
+      [ "GROUPHOOK_ON_REMOVE_MEMBER", "d7/dbe/a04193.html#a373b3fe6b402e8321892b8c1be74ab5daee0f42175b42d95f45380c1b70c786c3", null ],
+      [ "GROUPHOOK_ON_CHANGE_LEADER", "d7/dbe/a04193.html#a373b3fe6b402e8321892b8c1be74ab5da32d5ef38f2a877e2d36cdf20e9bb6d23", null ],
+      [ "GROUPHOOK_ON_DISBAND", "d7/dbe/a04193.html#a373b3fe6b402e8321892b8c1be74ab5dafe9e82d7bdea3097607de1e375b0e353", null ],
+      [ "GROUPHOOK_CAN_GROUP_JOIN_BATTLEGROUND_QUEUE", "d7/dbe/a04193.html#a373b3fe6b402e8321892b8c1be74ab5da9b4d04fe85f908719f1412cb9b88e61c", null ],
+      [ "GROUPHOOK_ON_CREATE", "d7/dbe/a04193.html#a373b3fe6b402e8321892b8c1be74ab5da0cc7b93ed018172ab0c6f191681e5f6c", null ],
+      [ "GROUPHOOK_END", "d7/dbe/a04193.html#a373b3fe6b402e8321892b8c1be74ab5da71a6d6ef47c3bda7d088f579b6f3a5f2", null ]
+    ] ]
 ];

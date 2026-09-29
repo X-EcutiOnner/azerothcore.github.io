@@ -1,26 +1,10 @@
 var a09111 =
 [
-    [ "PlayerTaxi", "da/dac/a09111.html#a33cfc1b5bf7cc5eb253855967a532d8b", null ],
-    [ "~PlayerTaxi", "da/dac/a09111.html#ab8ba2e4cebd37f540e45d1f41cf46fb4", null ],
-    [ "AddTaxiDestination", "da/dac/a09111.html#a1ecef7f42bb7197ce7c6ca35c7010ec3", null ],
-    [ "AppendTaximaskTo", "da/dac/a09111.html#ab18bdbd8b7e04949d6d4b9adfabf8451", null ],
-    [ "ClearTaxiDestinations", "da/dac/a09111.html#ab4422be16e69b1f32bce002ab71ab5a5", null ],
-    [ "empty", "da/dac/a09111.html#a76919e4ba603f6a1b88a3c213767e09d", null ],
-    [ "GetCurrentTaxiPath", "da/dac/a09111.html#ae4a6a1a97932c90ca79a282f131711e7", null ],
-    [ "GetFlightMasterFactionTemplate", "da/dac/a09111.html#a487e2760da8446a3c34dddc2d4c5c0f5", null ],
-    [ "GetPath", "da/dac/a09111.html#a031051c85f1ce8fb8ab172c86bb4382b", null ],
-    [ "GetTaxiDestination", "da/dac/a09111.html#aa54293e7ea1125b0e7dd2a79f9a7e0a0", null ],
-    [ "GetTaxiSource", "da/dac/a09111.html#a4313e575d9bd2a60852f5e944f79ac71", null ],
-    [ "InitTaxiNodesForLevel", "da/dac/a09111.html#ae63c6941e0e8b7c0920cc1f255641e4d", null ],
-    [ "IsTaximaskNodeKnown", "da/dac/a09111.html#a76220474a42fc4207bb6f40b589a6511", null ],
-    [ "LoadTaxiDestinationsFromString", "da/dac/a09111.html#a6261b2b052d1a8385a480372450c7191", null ],
-    [ "LoadTaxiMask", "da/dac/a09111.html#a010941cce9bf3b9c37d951c2ece4b3d4", null ],
-    [ "NextTaxiDestination", "da/dac/a09111.html#aa417f33d57d94db8c8aa9df56e329835", null ],
-    [ "SaveTaxiDestinationsToString", "da/dac/a09111.html#a0cffd730b09becde5f65882bc5c0832c", null ],
-    [ "SetFlightMasterFactionTemplateId", "da/dac/a09111.html#a2be37f977bdf5dc787e1923b4d1ed12e", null ],
-    [ "SetTaximaskNode", "da/dac/a09111.html#a34a9653fbdc2b4a7c86a990fcc080e64", null ],
-    [ "operator<<", "da/dac/a09111.html#aa8a947319a6f00895a3c443f5cb258ad", null ],
-    [ "m_flightMasterFactionId", "da/dac/a09111.html#a52ed114d167bcc8079fe37c410b25b31", null ],
-    [ "m_TaxiDestinations", "da/dac/a09111.html#a3aff323ba6dfee2f8776efb49e3ebfbf", null ],
-    [ "m_taximask", "da/dac/a09111.html#abf0d776badac2d25cf823609d5fec799", null ]
+    [ "PlayerSetting", "da/dac/a09111.html#a77d1fb11aa0039bbdae3ccc523f391ea", null ],
+    [ "PlayerSetting", "da/dac/a09111.html#a93a30a0d6104bdda8fd9b5778179a353", null ],
+    [ "AddFlag", "da/dac/a09111.html#a1e81343732cd86cdf9974a1d96b73ba7", null ],
+    [ "HasFlag", "da/dac/a09111.html#af6e3149ff40b6b4ea2310b5c3254fce0", null ],
+    [ "IsEnabled", "da/dac/a09111.html#a3621021d9c0c41c08b6300cd5dfcaf71", null ],
+    [ "RemoveFlag", "da/dac/a09111.html#a4ca3645233a466345d6be217d7a0df2b", null ],
+    [ "value", "da/dac/a09111.html#a74592e45f8ae4c5f411a982227f809f3", null ]
 ];

@@ -1,11 +1,6 @@
 var a21119 =
 [
-    [ "boss_yoggsaron_lich_king", "de/d3c/a21119.html#a3c20d6227f0f13d46b9841369d55a43e", null ],
-    [ "NextStep", "de/d3c/a21119.html#aec4b71c80d6793443145ebe3d1094d1b", null ],
-    [ "Reset", "de/d3c/a21119.html#a4210fa70a3c22efa213cb6e6b6cd7d24", null ],
-    [ "Say", "de/d3c/a21119.html#ac7687fe1253701c702cf2c17986727ec", null ],
-    [ "UpdateAI", "de/d3c/a21119.html#a79a25a561dc2b19cdf18aa105a50ecd9", null ],
-    [ "_checkTimer", "de/d3c/a21119.html#a196ffc443569494bed79f623dd9cdca3", null ],
-    [ "_running", "de/d3c/a21119.html#aae9e4b456b2bca4a9b43b98419ec60e0", null ],
-    [ "_step", "de/d3c/a21119.html#a97244534b8c6a69807388b620df2263f", null ]
+    [ "boss_yoggsaron_descend_portal", "de/d3c/a21119.html#aa64788351819e9c7f5505c929818770d", null ],
+    [ "OnSpellClick", "de/d3c/a21119.html#af72e8c3611b5e134e39ab9695405e08e", null ],
+    [ "_instance", "de/d3c/a21119.html#a6b430a5f4045cdf3c3524208f02d53d2", null ]
 ];

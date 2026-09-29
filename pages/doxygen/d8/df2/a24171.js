@@ -1,6 +1,6 @@
 var a24171 =
 [
-    [ "go_apexis_relic", "d8/df2/a24171.html#a91ff5a986ee62b628456e9f5c75f6bc9", null ],
-    [ "OnGossipHello", "d8/df2/a24171.html#ae8f7167ba5b973881e32d604691dc15a", null ],
-    [ "OnGossipSelect", "d8/df2/a24171.html#a025cc7cc9c69f0eb461445170972ab52", null ]
+    [ "npc_simon_bunnyAI", "d4/d10/a24175.html", "d4/d10/a24175" ],
+    [ "npc_simon_bunny", "d8/df2/a24171.html#afd3f3a24450bc8b748c0ff5b05b10da1", null ],
+    [ "GetAI", "d8/df2/a24171.html#ac0c97609916321a1599c0722803a050f", null ]
 ];

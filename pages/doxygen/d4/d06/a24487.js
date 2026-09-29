@@ -1,7 +1,6 @@
 var a24487 =
 [
-    [ "npc_isla_starmaneAI", "df/dca/a24491.html", "df/dca/a24491" ],
-    [ "npc_isla_starmane", "d4/d06/a24487.html#af30b3658d8f19be0dc07cb35eeb04668", null ],
-    [ "GetAI", "d4/d06/a24487.html#a0ea2dbaab4115772f92849e06aa85575", null ],
-    [ "OnQuestAccept", "d4/d06/a24487.html#afeda3da3761e96e2901ea06c5a26fa3a", null ]
+    [ "PrepareSpellScript", "d4/d06/a24487.html#ac781a5ff389268d1f18867ff5585ca71", null ],
+    [ "Register", "d4/d06/a24487.html#a5cb9e02774ea6c307e76183253ffb472", null ],
+    [ "SetDest", "d4/d06/a24487.html#a5fec9885b1dd6cf80fb47af321fad98e", null ]
 ];

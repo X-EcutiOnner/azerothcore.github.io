@@ -1,5 +1,7 @@
 var a30083 =
 [
-    [ "damageApplied", "d2/d38/a30083.html#a69a7cfd95e3e3b43879eae37963d1e14", null ],
-    [ "slowApplied", "d2/d38/a30083.html#a2d99cc2f9c6aedfeef6e18885ff2675d", null ]
+    [ "SetUp", "d2/d38/a30083.html#a63d060f7643fc3d35eb4f0fd082f1af4", null ],
+    [ "TearDown", "d2/d38/a30083.html#a685e2dbb620ab792ed3e952cf2b5dab8", null ],
+    [ "_originalWorld", "d2/d38/a30083.html#aec7f3f7af8f936fb2419cee4be837eb7", null ],
+    [ "_worldMock", "d2/d38/a30083.html#a2d10e74ba4f778b395a48eb68a586711", null ]
 ];

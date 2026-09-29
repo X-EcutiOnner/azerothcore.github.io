@@ -1,7 +1,7 @@
 var a19839 =
 [
-    [ "Load", "d2/dcb/a19839.html#a76c4a5c9b3bbed286a9d724c521944fd", null ],
-    [ "PrepareSpellScript", "d2/dcb/a19839.html#a10fd04468a4de402f2d2d1d4b003a5c9", null ],
-    [ "Register", "d2/dcb/a19839.html#a86259dfc100541aec0f9c7e744bbf24d", null ],
-    [ "SetDest", "d2/dcb/a19839.html#a231a75702f4a98f51d1be45510c5d05f", null ]
+    [ "FilterTargets", "d2/dcb/a19839.html#af6700817fd92dbe495e20d5c43b5d6b5", null ],
+    [ "Load", "d2/dcb/a19839.html#a639105c26214d9887b84a482ca93eb26", null ],
+    [ "PrepareSpellScript", "d2/dcb/a19839.html#a354ae20be436528b16095d4cd8d37859", null ],
+    [ "Register", "d2/dcb/a19839.html#a5fcc9cc654d6495f535600a6eef4c968", null ]
 ];

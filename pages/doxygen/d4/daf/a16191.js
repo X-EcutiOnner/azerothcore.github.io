@@ -1,8 +1,6 @@
 var a16191 =
 [
-    [ "npc_kaya_flathoofAI", "d4/daf/a16191.html#a3b43992dfeeb7b3b19e777b9629c55ce", null ],
-    [ "JustSummoned", "d4/daf/a16191.html#ac365753a428009f4fc4d01ead8fe46fd", null ],
-    [ "Reset", "d4/daf/a16191.html#af9be00be9867622a16103bd21311327f", null ],
-    [ "WaypointReached", "d4/daf/a16191.html#a8fcbb19279b925138ba96d2a450fc404", null ],
-    [ "WaypointReached", "d4/daf/a16191.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "go_wind_stoneAI", "db/dfc/a16195.html", "db/dfc/a16195" ],
+    [ "go_wind_stone", "d4/daf/a16191.html#a70c4bcb743b0d587caad4b574c589e3e", null ],
+    [ "GetAI", "d4/daf/a16191.html#ab7add0fe4e58eec422e37ae04b9338df", null ]
 ];

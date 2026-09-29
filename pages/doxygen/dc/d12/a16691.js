@@ -1,8 +1,6 @@
 var a16691 =
 [
-    [ "OnApply", "dc/d12/a16691.html#a96321003a002be0e4838901f03f8a5d8", null ],
-    [ "OnRemove", "dc/d12/a16691.html#af616afe7bf87eb7fdb44bf15e9ad85d4", null ],
-    [ "PrepareAuraScript", "dc/d12/a16691.html#ae5c880210cb50cf5320ee3595791eaa8", null ],
-    [ "Register", "dc/d12/a16691.html#aaa2a16cff2e9aae77cdc1bb75c38f26a", null ],
-    [ "Validate", "dc/d12/a16691.html#ad09a31813a7a03f8abf6dc9c151bb002", null ]
+    [ "npc_orb_carrierAI", "d3/d47/a16695.html", "d3/d47/a16695" ],
+    [ "npc_orb_carrier", "dc/d12/a16691.html#a69fdd8cb2f0cdf7cf6cf0bdabbc0cd03", null ],
+    [ "GetAI", "dc/d12/a16691.html#ab5b7bbffc43b840c686dc889805ea401", null ]
 ];

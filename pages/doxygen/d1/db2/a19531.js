@@ -1,6 +1,7 @@
 var a19531 =
 [
-    [ "boss_faerlinaAI", "d5/d4f/a19535.html", "d5/d4f/a19535" ],
-    [ "boss_faerlina", "d1/db2/a19531.html#a86543ac855287e3de2e3ffcde66fb1cb", null ],
-    [ "GetAI", "d1/db2/a19531.html#aed8214323ff5b792d9bd6aae478e7848", null ]
+    [ "HandleTriggerSpell", "d1/db2/a19531.html#a0e75076c2aed1544c544b976ee9cfbcd", null ],
+    [ "PrepareAuraScript", "d1/db2/a19531.html#a6ce4c5c2b6797b38225ac3348aad5892", null ],
+    [ "Register", "d1/db2/a19531.html#af87272995f6eeb3bc53cf472f5c3e9d3", null ],
+    [ "Validate", "d1/db2/a19531.html#a813bad39641956fff697580f271416d2", null ]
 ];

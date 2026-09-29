@@ -1,5 +1,8 @@
 var a30035 =
 [
-    [ "SetUp", "da/d2b/a30035.html#ad1d8aa4b381ae8f570e70741628c7e10", null ],
-    [ "_spellInfo", "da/d2b/a30035.html#a377087158568c35ed7896f7fa31a7437", null ]
+    [ "TestOocPlayerScript", "da/d2b/a30035.html#ad8a63387a46b252a555b5d48b0f73d55", null ],
+    [ "EnsureRegistered", "da/d2b/a30035.html#a485c732b5cc87e418e1e8b0fdb80e5b7", null ],
+    [ "OnPlayerCompleteQuest", "da/d2b/a30035.html#a7288e4227b28edebe4723c14ef56bce1", null ],
+    [ "OnPlayerLevelChanged", "da/d2b/a30035.html#a0d2fa7743649d3443f49654d55ca1558", null ],
+    [ "Instance", "da/d2b/a30035.html#a58269b1a038bfbdc8c9dafd058d16b5e", null ]
 ];

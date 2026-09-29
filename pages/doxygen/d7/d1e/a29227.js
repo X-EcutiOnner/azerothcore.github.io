@@ -1,9 +1,9 @@
 var a29227 =
 [
-    [ "CinematicSequence", "d7/d1e/a29227.html#a7a0a35bbb69320565d991f4a349dc01b", null ],
-    [ "ClassID", "d7/d1e/a29227.html#a9da8d8d20126e9dc161b1dd64a19fe59", null ],
-    [ "expansion", "d7/d1e/a29227.html#a7c57eabd8d94849cd8536b013a8d4138", null ],
-    [ "name", "d7/d1e/a29227.html#a2d0b7155b03af29bd982f31eba26ec24", null ],
-    [ "powerType", "d7/d1e/a29227.html#a74aec35dc161a7e830453b9365a6f107", null ],
-    [ "spellfamily", "d7/d1e/a29227.html#a43fbe48c99e297ea09e9e1f2edd6a4ea", null ]
+    [ "BaseSection", "d7/d1e/a29227.html#a218d178327a97a16f0a38fe8f5e887df", null ],
+    [ "ColorIndex", "d7/d1e/a29227.html#a55c0d2ffba5bb3462796e863da19568b", null ],
+    [ "Flags", "d7/d1e/a29227.html#a666d68526db28defdfb5bf63248ec360", null ],
+    [ "RaceID", "d7/d1e/a29227.html#a23b6456d6bf9ce651dc52e953aa775ca", null ],
+    [ "SexID", "d7/d1e/a29227.html#a9d4674f6177acc4d1dbda3b574f14c10", null ],
+    [ "VariationIndex", "d7/d1e/a29227.html#aa817db158cc623bb33152d2a79b4bef2", null ]
 ];

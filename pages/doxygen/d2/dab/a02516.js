@@ -1,10 +1,17 @@
 var a02516 =
 [
-    [ "OutdoorPvP_nagrand", "d2/db6/a22707.html", "d2/db6/a22707" ],
-    [ "outdoorpvp_na_halaa_creatures", "dc/d6d/a22711.html", "dc/d6d/a22711" ],
-    [ "AddSC_outdoorpvp_na", "d2/dab/a02516.html#a03015585e7619177355fefd05f85e1c7", null ],
-    [ "FlagPlayerPvP", "d2/dab/a02516.html#ab1d33448696056a0951a0c306a511f1e", null ],
-    [ "UpdateCreatureHalaa", "d2/dab/a02516.html#a37af66c813e135cc11bd1dc663b35697", null ],
-    [ "halaaNPCAlly", "d2/dab/a02516.html#a3428675268608e5372767fc629259d5c", null ],
-    [ "halaaNPCHorde", "d2/dab/a02516.html#a531a4e8a5291c048ad0f3b0fc64b29d9", null ]
+    [ "BattlegroundRL", "de/d53/a07899.html", "de/d53/a07899" ],
+    [ "BattlegroundRLObjects", "d2/dab/a02516.html#a07ba947d37c83568823ee5313377497a", [
+      [ "BG_RL_OBJECT_TYPE_DOOR_1", "d2/dab/a02516.html#a07ba947d37c83568823ee5313377497aa4af54ddc0fa71a41b26c859580db7fb0", null ],
+      [ "BG_RL_OBJECT_TYPE_DOOR_2", "d2/dab/a02516.html#a07ba947d37c83568823ee5313377497aa13210caaf34c5aa100455cf4f74d43d1", null ],
+      [ "BG_RL_OBJECT_TYPE_BUFF_1", "d2/dab/a02516.html#a07ba947d37c83568823ee5313377497aaf7212d012d9018e008f475bd21bae934", null ],
+      [ "BG_RL_OBJECT_TYPE_BUFF_2", "d2/dab/a02516.html#a07ba947d37c83568823ee5313377497aa5e706f8c7f110903f7301b47b0487921", null ]
+    ] ],
+    [ "BattlegroundRLObjectTypes", "d2/dab/a02516.html#a5b40294f7ef8f041d61eaa6911993b24", [
+      [ "BG_RL_OBJECT_DOOR_1", "d2/dab/a02516.html#a5b40294f7ef8f041d61eaa6911993b24ab647ed9553d4e532699cd1b551014636", null ],
+      [ "BG_RL_OBJECT_DOOR_2", "d2/dab/a02516.html#a5b40294f7ef8f041d61eaa6911993b24a9dfe9b550ad26c408445bfe72f064058", null ],
+      [ "BG_RL_OBJECT_BUFF_1", "d2/dab/a02516.html#a5b40294f7ef8f041d61eaa6911993b24a793477ef5d11b6f41cfb62d8c354e8d4", null ],
+      [ "BG_RL_OBJECT_BUFF_2", "d2/dab/a02516.html#a5b40294f7ef8f041d61eaa6911993b24a670a77d5efbe30024d0ffb16acd5dfac", null ],
+      [ "BG_RL_OBJECT_MAX", "d2/dab/a02516.html#a5b40294f7ef8f041d61eaa6911993b24a7b6737d574968476c6ecb6d1bbf03813", null ]
+    ] ]
 ];

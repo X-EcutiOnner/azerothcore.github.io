@@ -1,6 +1,7 @@
 var a22279 =
 [
-    [ "npc_infra_green_bomber_genericAI", "d2/de2/a22283.html", "d2/de2/a22283" ],
-    [ "npc_infra_green_bomber_generic", "d4/dff/a22279.html#a39134a09376c35f15e99377cd28ac6ff", null ],
-    [ "GetAI", "d4/dff/a22279.html#ad21ce86a9c88f2ee77acb1d130fd4696", null ]
+    [ "Absorb", "d4/dff/a22279.html#a784b48553696734abac77545df2fc045", null ],
+    [ "CalculateAmount", "d4/dff/a22279.html#a456ee99a71062f6217bda7561e4e7766", null ],
+    [ "PrepareAuraScript", "d4/dff/a22279.html#a456b1b70fd6d9b6642ec959677fe08ff", null ],
+    [ "Register", "d4/dff/a22279.html#aa3260fa9a1a918e13ccfc9cd57f59d19", null ]
 ];

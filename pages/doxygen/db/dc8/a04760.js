@@ -1,10 +1,9 @@
 var a04760 =
 [
-    [ "BoundsTrait< VMAP::GroupModel >", "d6/d39/a05439.html", "d6/d39/a05439" ],
-    [ "VMAP::TriBoundFunc", "dd/d83/a05443.html", "dd/d83/a05443" ],
-    [ "VMAP::GModelRayCallback", "d1/db0/a05447.html", "d1/db0/a05447" ],
-    [ "VMAP::WModelRayCallBack", "dc/d83/a05451.html", "dc/d83/a05451" ],
-    [ "VMAP::WModelAreaCallback", "d3/dd4/a05455.html", "d3/dd4/a05455" ],
-    [ "IntersectTriangle", "db/dc8/a04760.html#a1dfba6966e499a368a393b5b52e5c6f8", null ],
-    [ "IsInsideOrAboveBound", "db/dc8/a04760.html#af71b89398ed4323940f67baaf58f2cd7", null ]
+    [ "BoundsTrait< VMAP::ModelSpawn * >", "d7/dd1/a05395.html", "d7/dd1/a05395" ],
+    [ "VMAP::WMOLiquidHeader", "dc/daf/a05399.html", "dc/daf/a05399" ],
+    [ "CMP_OR_RETURN", "db/dc8/a04760.html#abb356574335eee18efd5e1f4ed707637", null ],
+    [ "READ_OR_RETURN", "db/dc8/a04760.html#ab09a5bc19f9a9f62a1f60dd7741b4d6d", null ],
+    [ "READ_OR_RETURN_WITH_DELETE", "db/dc8/a04760.html#aaf506ecfd782214a75bd609db9bef004", null ],
+    [ "readChunk", "db/dc8/a04760.html#aa923966c6cf6ce644b8335506d5f1fce", null ]
 ];

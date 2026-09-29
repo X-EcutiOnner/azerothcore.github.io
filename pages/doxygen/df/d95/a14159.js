@@ -1,7 +1,13 @@
 var a14159 =
 [
-    [ "npc_deathstalker_erlandAI", "de/d13/a14163.html", "de/d13/a14163" ],
-    [ "npc_deathstalker_erland", "df/d95/a14159.html#ad49faf068e982f245f0d1e21f0700c40", null ],
-    [ "GetAI", "df/d95/a14159.html#ab59235f212ddb985056cb8e32719b723", null ],
-    [ "OnQuestAccept", "df/d95/a14159.html#a81b20bc8c7249a59d69ba63ab32a5f06", null ]
+    [ "npc_corporal_keeshanAI", "df/d95/a14159.html#aac5b72ede6e1496f80c4c2520e886efd", null ],
+    [ "Reset", "df/d95/a14159.html#a311488932a3de9153490d41e3fae92fb", null ],
+    [ "sQuestAccept", "df/d95/a14159.html#a52dd95c74b1457ad5b496b28fd183b06", null ],
+    [ "UpdateAI", "df/d95/a14159.html#a973cf65978e531dc8bd7db20fc2809b6", null ],
+    [ "WaypointReached", "df/d95/a14159.html#a3edc9ab54068e47f955116db70454f6c", null ],
+    [ "WaypointReached", "df/d95/a14159.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "mockingBlowTimer", "df/d95/a14159.html#a21cd1ca86864b8507d43e5a1c4c13e0c", null ],
+    [ "phase", "df/d95/a14159.html#ae79dcfdb10738d673e8c1aebc6abdee6", null ],
+    [ "shieldBashTimer", "df/d95/a14159.html#abb5eaa25a77dd3e6dfff7aaa0aa6c375", null ],
+    [ "timer", "df/d95/a14159.html#a3107368f175aa7f4e8c405248ef917df", null ]
 ];

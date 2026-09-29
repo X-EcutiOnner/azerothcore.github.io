@@ -1,6 +1,11 @@
 var a20959 =
 [
-    [ "PrepareSpellScript", "d6/d4a/a20959.html#a3c8337cc17ec735fc97f5195a1e820b6", null ],
-    [ "Register", "d6/d4a/a20959.html#ae0cc2794b1d2b8de442dbf30f7da8883", null ],
-    [ "SelectPillar", "d6/d4a/a20959.html#a2eaa34f9f3b3d255fc5091fb5b48f60a", null ]
+    [ "boss_thorim_arena_npcs", "d6/d4a/a20959.html#a849567e412254aa8d0d7da33b6b1522f", null ],
+    [ "CanAIAttack", "d6/d4a/a20959.html#aa4f90aadf8a9705fea03433195d41ad0", null ],
+    [ "JustEngagedWith", "d6/d4a/a20959.html#a2f23cddcf5a0db42ba24730dfbe54976", null ],
+    [ "Reset", "d6/d4a/a20959.html#a7b118ec6fa25c0f452419d1f5b4a698f", null ],
+    [ "SelectT", "d6/d4a/a20959.html#a3fa38189c886a486aabb39a372834938", null ],
+    [ "UpdateAI", "d6/d4a/a20959.html#a6a8489763ca223c749aa71c2da05b3cf", null ],
+    [ "_isCaster", "d6/d4a/a20959.html#abfd184437df3983659a9ae21a13638fb", null ],
+    [ "events", "d6/d4a/a20959.html#aad99dd6ca7d3595222ce42b5b859e462", null ]
 ];

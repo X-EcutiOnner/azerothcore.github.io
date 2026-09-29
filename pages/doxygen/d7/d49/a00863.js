@@ -1,5 +1,5 @@
 var a00863 =
 [
-    [ "ScriptRegistry< AllItemScript >", "d7/d49/a00863.html#a0f69164743e657905c670df85e97a29c", null ],
-    [ "ScriptRegistry< ItemScript >", "d7/d49/a00863.html#a9f258d1e2f9fb6ce144923451b63f995", null ]
+    [ "instance_commandscript", "de/d35/a12567.html", "de/d35/a12567" ],
+    [ "AddSC_instance_commandscript", "d7/d49/a00863.html#a3d7dc88b6e95322f2f3dc69ad367fa0c", null ]
 ];

@@ -1,7 +1,7 @@
 var a21727 =
 [
-    [ "npc_mootoo_the_youngerAI", "d4/db8/a21731.html", "d4/db8/a21731" ],
-    [ "npc_mootoo_the_younger", "d5/d11/a21727.html#a91e10489ed6a98cfa764fd4de8448317", null ],
-    [ "GetAI", "d5/d11/a21727.html#ac49b3454afa4a3fbedd0887e3ff831b3", null ],
-    [ "OnQuestAccept", "d5/d11/a21727.html#a5fce360ef989f5b2fe42cd04361e33bc", null ]
+    [ "HandleScriptEffect", "d5/d11/a21727.html#a23d220613a4133e01fb3d7cbacb3aa1c", null ],
+    [ "PrepareSpellScript", "d5/d11/a21727.html#a73b5af95ee4f593337c3803574d190db", null ],
+    [ "Register", "d5/d11/a21727.html#a930de2343532feb50b86304f32269e4c", null ],
+    [ "Validate", "d5/d11/a21727.html#ae9bfedf7e89487217ad927459e259c04", null ]
 ];

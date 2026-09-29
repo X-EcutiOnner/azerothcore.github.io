@@ -1,7 +1,6 @@
 var a27755 =
 [
-    [ "HandleProc", "d2/d9e/a27755.html#a8f2bbc26b297039a02a7f1a8ce7d79e3", null ],
-    [ "PrepareAuraScript", "d2/d9e/a27755.html#aa55d2774f59d8e8435facba876521236", null ],
-    [ "Register", "d2/d9e/a27755.html#a3fb6281aa70ce55d4b020e24c747a7f3", null ],
-    [ "Validate", "d2/d9e/a27755.html#a09492d02ca945634ca8c4620debbefa8", null ]
+    [ "HandleProc", "d2/d9e/a27755.html#a933975b17f340d9f458dc95b77aa43ac", null ],
+    [ "PrepareAuraScript", "d2/d9e/a27755.html#ad9df49f481d936068ebee0d2f6179e9f", null ],
+    [ "Register", "d2/d9e/a27755.html#a54dd9a2a6646282897cabec00f092525", null ]
 ];

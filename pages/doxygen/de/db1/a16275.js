@@ -1,8 +1,8 @@
 var a16275 =
 [
-    [ "npc_pluckyAI", "d3/d09/a16279.html", "d3/d09/a16279" ],
-    [ "npc_plucky", "de/db1/a16275.html#a86bb2992b8af5893987145117aaf3608", null ],
-    [ "GetAI", "de/db1/a16275.html#a51e73f4e1f618aee5a000e31328efefc", null ],
-    [ "OnGossipHello", "de/db1/a16275.html#a3443f3e8c2b3fcc96955ab2e55e7fd61", null ],
-    [ "OnGossipSelect", "de/db1/a16275.html#a88fa465246b4c657b921ebdc96f7a112", null ]
+    [ "npc_lakota_windsongAI", "de/db1/a16275.html#a922172a38ca75adef66a2653eda7fa98", null ],
+    [ "DoSpawnBandits", "de/db1/a16275.html#aa63601ac87b674cb5d0594213d1e7ea9", null ],
+    [ "Reset", "de/db1/a16275.html#aee7a86275f93021e0e5db249b636bcd4", null ],
+    [ "WaypointReached", "de/db1/a16275.html#a6435c8b1521206789131889e5fa527a6", null ],
+    [ "WaypointReached", "de/db1/a16275.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

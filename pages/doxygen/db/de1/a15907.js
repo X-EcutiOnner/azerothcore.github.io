@@ -1,17 +1,6 @@
 var a15907 =
 [
-    [ "npc_muglashAI", "db/de1/a15907.html#af1988703aaaac04e5853c33e5b915ca2", null ],
-    [ "DoAction", "db/de1/a15907.html#afba6c4441ff4da54f89709b3c2bcd4d4", null ],
-    [ "DoWaveSummon", "db/de1/a15907.html#aaf862468f5ba0c6f99056a81a472c6e2", null ],
-    [ "JustDied", "db/de1/a15907.html#a5936dd183091c462e4835a00f81020f5", null ],
-    [ "JustEngagedWith", "db/de1/a15907.html#a587c8cb4562e93cecccb20e93cabba05", null ],
-    [ "JustSummoned", "db/de1/a15907.html#a07e451149dbf6b72e01f94dc8f07edf3", null ],
-    [ "Reset", "db/de1/a15907.html#a98933c32f2550989356b3e876d302b88", null ],
-    [ "sQuestAccept", "db/de1/a15907.html#a6c93a53a7b8bcd200ebca0e9d366f6fe", null ],
-    [ "UpdateAI", "db/de1/a15907.html#a6b479f50428536997faef96e510dbd84", null ],
-    [ "WaypointReached", "db/de1/a15907.html#a8f91b74c0d8778a73e0bc95dce339f2b", null ],
-    [ "WaypointReached", "db/de1/a15907.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "_isBrazierExtinguished", "db/de1/a15907.html#aeec098d6a65b6852598a4e4b6888a410", null ],
-    [ "eventTimer", "db/de1/a15907.html#a548e142bb509b4606b6fcf98d926cd44", null ],
-    [ "waveId", "db/de1/a15907.html#a06c0af398e53b5ea6bfd6fa80256f845", null ]
+    [ "instance_wailing_caverns_InstanceMapScript", "d8/d43/a15911.html", "d8/d43/a15911" ],
+    [ "instance_wailing_caverns", "db/de1/a15907.html#a906f59c39f59237e9eedb479dfc7d825", null ],
+    [ "GetInstanceScript", "db/de1/a15907.html#a0f1020e86443d6902b3c4d8726f3e610", null ]
 ];

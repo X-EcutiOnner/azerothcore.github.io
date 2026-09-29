@@ -1,11 +1,8 @@
 var a18151 =
 [
-    [ "CountTargets", "d6/dcd/a18151.html#a54f6526359fba124a988ba35c2876fd1", null ],
-    [ "Load", "d6/dcd/a18151.html#a32a76ca53528bbfabfcefd2dc6aef4cc", null ],
-    [ "PrepareSpellScript", "d6/dcd/a18151.html#a4991d88429ea951c55ef08a90f364d31", null ],
-    [ "Register", "d6/dcd/a18151.html#a8bac27d885c8ea0c659c22599c4e97b4", null ],
-    [ "TeleportPlayer", "d6/dcd/a18151.html#ac886eae598b55ed4aa9ddbf9ce3a01bd", null ],
-    [ "TriggerWipe", "d6/dcd/a18151.html#a0f79722e00e6255d1ed1bf5846d5c839", null ],
-    [ "Validate", "d6/dcd/a18151.html#ad2e586d688b413f9ef9a5688d203106a", null ],
-    [ "_playerCount", "d6/dcd/a18151.html#a7c116e74c485ca44e5e6e710cfeb5bba", null ]
+    [ "HandlePeriodic", "d6/dcd/a18151.html#a5ff571c616b69bb50c736622feb9ed96", null ],
+    [ "HandleRemove", "d6/dcd/a18151.html#a624887bb5e6d8b72d6c0591661d6ba38", null ],
+    [ "PrepareAuraScript", "d6/dcd/a18151.html#a1b140274e283dd95e28fcb773e30f965", null ],
+    [ "Register", "d6/dcd/a18151.html#abcce83ef6ecbe539a3d8eaef83fb2d33", null ],
+    [ "Validate", "d6/dcd/a18151.html#a94c644e730c51c8edb6a74d68d6228a8", null ]
 ];

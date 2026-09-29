@@ -1,9 +1,8 @@
 var a15599 =
 [
-    [ "npc_buru_egg", "d8/d27/a15599.html#a6aa2896342b802caecde1c1dffcf4907", null ],
-    [ "JustDied", "d8/d27/a15599.html#a3de169b252374f0b2daed3ecb5a11502", null ],
-    [ "JustEngagedWith", "d8/d27/a15599.html#a8cde6848569671876a17b00d75228ebe", null ],
-    [ "JustSummoned", "d8/d27/a15599.html#abebb96dcb3d653bddd4210da6567fb87", null ],
-    [ "UpdateAI", "d8/d27/a15599.html#a4d77f8b40ea8e936c9388aeff4927420", null ],
-    [ "_instance", "d8/d27/a15599.html#a5b168226755a57368f17827e3457a0ca", null ]
+    [ "HandleScript", "d8/d27/a15599.html#ac58aef1b295e32c8a44852278edc18f8", null ],
+    [ "Load", "d8/d27/a15599.html#a2f7b9372dd36444c5161f3bc50424d99", null ],
+    [ "PrepareSpellScript", "d8/d27/a15599.html#adc1301a318f86b4e147a191f4c63e3bf", null ],
+    [ "Register", "d8/d27/a15599.html#a95f4abd67d6baf75980ff28a7518503d", null ],
+    [ "Validate", "d8/d27/a15599.html#a98271e7adb17b11e39241154a83b0d0d", null ]
 ];

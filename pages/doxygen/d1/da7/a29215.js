@@ -1,9 +1,8 @@
 var a29215 =
 [
-    [ "BaseSection", "d1/da7/a29215.html#a218d178327a97a16f0a38fe8f5e887df", null ],
-    [ "ColorIndex", "d1/da7/a29215.html#a55c0d2ffba5bb3462796e863da19568b", null ],
-    [ "Flags", "d1/da7/a29215.html#a666d68526db28defdfb5bf63248ec360", null ],
-    [ "RaceID", "d1/da7/a29215.html#a23b6456d6bf9ce651dc52e953aa775ca", null ],
-    [ "SexID", "d1/da7/a29215.html#a9d4674f6177acc4d1dbda3b574f14c10", null ],
-    [ "VariationIndex", "d1/da7/a29215.html#aa817db158cc623bb33152d2a79b4bef2", null ]
+    [ "gender", "d1/da7/a29215.html#a571684c3aa6f2b0192b545d2a38ab333", null ],
+    [ "hair_id", "d1/da7/a29215.html#af4646a9adb0a1dc18b34158de2116b84", null ],
+    [ "Id", "d1/da7/a29215.html#a05de87081cf628e806d6518eef1424e4", null ],
+    [ "race", "d1/da7/a29215.html#a458f5a1e2aca1fd34bb1afadeb5f6db2", null ],
+    [ "type", "d1/da7/a29215.html#a289bb362ba13235c754647ba67be1e56", null ]
 ];

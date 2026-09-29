@@ -1,8 +1,6 @@
 var a11615 =
 [
-    [ "PetSpellAutocast", "d5/d4a/a11615.html#ab858647d14031a2a6109d1e923402d08", null ],
-    [ "Read", "d5/d4a/a11615.html#a5c94e7acc04efbb2a50695ed4fdf7036", null ],
-    [ "AutocastEnabled", "d5/d4a/a11615.html#a3c04543dcd5382682654b3860b84c6a3", null ],
-    [ "PetGUID", "d5/d4a/a11615.html#aeed828abebf683078ee61204c91e28c9", null ],
-    [ "SpellID", "d5/d4a/a11615.html#a9afcd8b8bbd2e2fd07bc59219b1a80da", null ]
+    [ "PetLearnedSpell", "d5/d4a/a11615.html#a5d105cca08515b9550998f2c86b13a1a", null ],
+    [ "Write", "d5/d4a/a11615.html#a6fd7d4bc907b0bb78c438e6a9159dc69", null ],
+    [ "SpellID", "d5/d4a/a11615.html#a6ab11b614f13d518a2a007adfbe00ab7", null ]
 ];

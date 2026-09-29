@@ -1,15 +1,6 @@
 var a19855 =
 [
-    [ "boss_anomalus", "df/de4/a19855.html#aa4dd8fac7c360beb834382f624ed2246", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "df/de4/a19855.html#ada0735330bff29a8c04706c980e6bbfc", null ],
-    [ "GetData", "df/de4/a19855.html#ad48aebb50cda7ee621f71803669f04c2", null ],
-    [ "JustDied", "df/de4/a19855.html#a41e257481921a122dba30348559e05fb", null ],
-    [ "JustEngagedWith", "df/de4/a19855.html#a7224e8cf6e849d7115f88c7198fdb023", null ],
-    [ "JustSummoned", "df/de4/a19855.html#a3c0413f30d96268cab724856334e61ee", null ],
-    [ "Reset", "df/de4/a19855.html#a80bec5060c1b6747f2b418b90bcc18eb", null ],
-    [ "SetData", "df/de4/a19855.html#aa79ec9829862b573cd0f38f965d737e8", null ],
-    [ "UpdateAI", "df/de4/a19855.html#a5d3d77b49e256e09bbb613e810dfc60b", null ],
-    [ "_empowered", "df/de4/a19855.html#a067c4b5dfb5e68a3d91f043d34ea0929", null ],
-    [ "achievement", "df/de4/a19855.html#a2db4d6d2d6a19642607560e93ae8bd77", null ],
-    [ "activeRifts", "df/de4/a19855.html#ac7632bd47c4d64ac032fd066138f22cf", null ]
+    [ "HandleScript", "df/de4/a19855.html#aaa7bd24d0b1245e0c2b04c21fa4ef85c", null ],
+    [ "PrepareSpellScript", "df/de4/a19855.html#ad1eae4d206e9e9e48230f60a2961fddb", null ],
+    [ "Register", "df/de4/a19855.html#ae6685e7fd80373f2fc9a37cd4065f8b6", null ]
 ];

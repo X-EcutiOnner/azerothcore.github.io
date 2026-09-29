@@ -1,5 +1,7 @@
 var a18019 =
 [
-    [ "achievement_flu_shot_shortage", "df/d40/a18019.html#af448c773bcdf31cec7ae9d7c85e9e595", null ],
-    [ "OnCheck", "df/d40/a18019.html#a3195af1d4504ffc200c99bef84eaaa5a", null ]
+    [ "ExtraEffect", "df/d40/a18019.html#a65b5bc8d053a69325f42a7f23ae4dbdc", null ],
+    [ "PrepareAuraScript", "df/d40/a18019.html#a53d6013e5ec473854e1537969cb31988", null ],
+    [ "Register", "df/d40/a18019.html#a85be360bb15482ff34b7f1d04d949b1d", null ],
+    [ "Validate", "df/d40/a18019.html#ab14e7410cf542d9f4043800a3b86c664", null ]
 ];

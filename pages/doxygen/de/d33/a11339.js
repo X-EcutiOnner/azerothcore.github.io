@@ -1,6 +1,6 @@
 var a11339 =
 [
-    [ "SetDungeonDifficultyClient", "de/d33/a11339.html#ae3bb2ac16b8712a3eb731913af26961c", null ],
-    [ "Read", "de/d33/a11339.html#a6f92ee86dc73b1a51a9c4683997e6c4f", null ],
-    [ "Mode", "de/d33/a11339.html#a3cb1f62fba1849dfb59c9b8f46fe4c27", null ]
+    [ "ResetFailedNotify", "de/d33/a11339.html#a82e12a0f207590b6176253cf36a22d2f", null ],
+    [ "Write", "de/d33/a11339.html#af03055514ef0e1e97f24c66d2cd94185", null ],
+    [ "MapId", "de/d33/a11339.html#a17f065fc6d5438d74f38bde67a841be7", null ]
 ];

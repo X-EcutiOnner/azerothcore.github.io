@@ -1,5 +1,6 @@
 var a20815 =
 [
-    [ "achievement_mimiron_set_up_us_the_bomb_12", "d9/dee/a20815.html#adc7f5769894c59710fa70604878b1e2c", null ],
-    [ "OnCheck", "d9/dee/a20815.html#ad604fa41b8c8d34b996dbdc709faac66", null ]
+    [ "HandlePeriodic", "d9/dee/a20815.html#ab3f6a58bcea3fc75ccbac99cd911e7f8", null ],
+    [ "PrepareAuraScript", "d9/dee/a20815.html#a09d6fccb19df088780c5baa0ef656da7", null ],
+    [ "Register", "d9/dee/a20815.html#abbf60dac3d36d0833e6509aac83f2b49", null ]
 ];

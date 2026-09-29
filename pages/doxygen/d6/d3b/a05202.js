@@ -1,7 +1,5 @@
 var a05202 =
 [
-    [ "SnakeTrapEvadeTest", "d9/df6/a29961.html", "d9/df6/a29961" ],
-    [ "TEST_F", "d6/d3b/a05202.html#a01af681e20eff16b713dfdfe3b68721a", null ],
-    [ "TEST_F", "d6/d3b/a05202.html#a9e98f2b89f631331e38138b445fb77c2", null ],
-    [ "TEST_F", "d6/d3b/a05202.html#a5ce83093ca2163b3d1d02187741247d3", null ]
+    [ "TotemCreated", "da/d7e/a11727.html", "da/d7e/a11727" ],
+    [ "TotemDestroyed", "df/d4d/a11723.html", "df/d4d/a11723" ]
 ];

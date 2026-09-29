@@ -1,7 +1,10 @@
 var a16955 =
 [
-    [ "HandleEffectPeriodic", "df/d80/a16955.html#a7d6d15b8eecfcfb4c36d6504920bd119", null ],
-    [ "PrepareAuraScript", "df/d80/a16955.html#a4506f7d723b85c7555296f5ade11cd29", null ],
-    [ "Register", "df/d80/a16955.html#aeac7e6abc89209e14451439cdf1d416e", null ],
-    [ "Validate", "df/d80/a16955.html#a9d6f9cd0495de03878ed5137542ea89d", null ]
+    [ "npc_nerubian_burrowerAI", "df/d80/a16955.html#a7673709e7b16a6573d9c7392ba556313", null ],
+    [ "CanAIAttack", "df/d80/a16955.html#a82e4a5ca23ae2a94212b214aad1c69df", null ],
+    [ "JustDied", "df/d80/a16955.html#ab5182ad65187c472b306e2177530d7b6", null ],
+    [ "Reset", "df/d80/a16955.html#a4491965d9c08ed1d888cad6f7b06352d", null ],
+    [ "SpellHitTarget", "df/d80/a16955.html#a64fa2c8276f7418542190e833dd72c51", null ],
+    [ "UpdateAI", "df/d80/a16955.html#abd2c7333625ded502a00848b09ee9a40", null ],
+    [ "events", "df/d80/a16955.html#ab45e8c6dd9ea3552fed4b926136f80e6", null ]
 ];

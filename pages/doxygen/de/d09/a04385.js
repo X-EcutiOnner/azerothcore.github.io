@@ -1,58 +1,24 @@
 var a04385 =
 [
-    [ "AuthResult", "de/d09/a04385.html#a87ba9bd5edfd749f4729620dbadd5fce", [
-      [ "WOW_SUCCESS", "de/d09/a04385.html#a87ba9bd5edfd749f4729620dbadd5fcea17cfb08be7c0da21b3a4ec0fb76ed688", null ],
-      [ "WOW_FAIL_BANNED", "de/d09/a04385.html#a87ba9bd5edfd749f4729620dbadd5fcea550e2d0697129df245f04a9c28454630", null ],
-      [ "WOW_FAIL_UNKNOWN_ACCOUNT", "de/d09/a04385.html#a87ba9bd5edfd749f4729620dbadd5fcea4614f07045c585583364e857c3421114", null ],
-      [ "WOW_FAIL_INCORRECT_PASSWORD", "de/d09/a04385.html#a87ba9bd5edfd749f4729620dbadd5fcea435627e6ceddf5214798b0ffee9379f3", null ],
-      [ "WOW_FAIL_ALREADY_ONLINE", "de/d09/a04385.html#a87ba9bd5edfd749f4729620dbadd5fcea71848ab60dcf958e95af1caaa1060a5c", null ],
-      [ "WOW_FAIL_NO_TIME", "de/d09/a04385.html#a87ba9bd5edfd749f4729620dbadd5fceac6b47ed0785815782ffcaa9ddcc61f34", null ],
-      [ "WOW_FAIL_DB_BUSY", "de/d09/a04385.html#a87ba9bd5edfd749f4729620dbadd5fcea8a6d51e1086aa22c9409807b01e8db96", null ],
-      [ "WOW_FAIL_VERSION_INVALID", "de/d09/a04385.html#a87ba9bd5edfd749f4729620dbadd5fceaf7e9abc937534a7f909fcb07b744942d", null ],
-      [ "WOW_FAIL_VERSION_UPDATE", "de/d09/a04385.html#a87ba9bd5edfd749f4729620dbadd5fcea6ff71ce07c1a0c0d5321d82cd9803aae", null ],
-      [ "WOW_FAIL_INVALID_SERVER", "de/d09/a04385.html#a87ba9bd5edfd749f4729620dbadd5fceae2aacd0fb4634fa66489baa619e4955d", null ],
-      [ "WOW_FAIL_SUSPENDED", "de/d09/a04385.html#a87ba9bd5edfd749f4729620dbadd5fcea2686cc24f58e96f7956d5d6ef9f18e04", null ],
-      [ "WOW_FAIL_FAIL_NOACCESS", "de/d09/a04385.html#a87ba9bd5edfd749f4729620dbadd5fcea7335fc931139834357fb93d3fdde0ee8", null ],
-      [ "WOW_SUCCESS_SURVEY", "de/d09/a04385.html#a87ba9bd5edfd749f4729620dbadd5fcea664860e55648321e7ef00ffd2b26013a", null ],
-      [ "WOW_FAIL_PARENTCONTROL", "de/d09/a04385.html#a87ba9bd5edfd749f4729620dbadd5fcea5e8d5fb949ecfd0cafdc81cee3b7f81d", null ],
-      [ "WOW_FAIL_LOCKED_ENFORCED", "de/d09/a04385.html#a87ba9bd5edfd749f4729620dbadd5fcea18dcd4a3797de3f107178a0a6d6389b3", null ],
-      [ "WOW_FAIL_TRIAL_ENDED", "de/d09/a04385.html#a87ba9bd5edfd749f4729620dbadd5fcea22f7a1ff157487225ffc1261a977a3a6", null ],
-      [ "WOW_FAIL_USE_BATTLENET", "de/d09/a04385.html#a87ba9bd5edfd749f4729620dbadd5fcea8ed1410eefb917a04764590ea82b447c", null ],
-      [ "WOW_FAIL_ANTI_INDULGENCE", "de/d09/a04385.html#a87ba9bd5edfd749f4729620dbadd5fcea6a965940cfced1a61d60b74e87f083c3", null ],
-      [ "WOW_FAIL_EXPIRED", "de/d09/a04385.html#a87ba9bd5edfd749f4729620dbadd5fceaaa299fabdc18e5c6c89cf53c18f039b9", null ],
-      [ "WOW_FAIL_NO_GAME_ACCOUNT", "de/d09/a04385.html#a87ba9bd5edfd749f4729620dbadd5fcea3fc06700ec90ca46aa67b5b0d5facfdf", null ],
-      [ "WOW_FAIL_CHARGEBACK", "de/d09/a04385.html#a87ba9bd5edfd749f4729620dbadd5fcea38ff8e9b9d3dee3d43ab419735a83a05", null ],
-      [ "WOW_FAIL_INTERNET_GAME_ROOM_WITHOUT_BNET", "de/d09/a04385.html#a87ba9bd5edfd749f4729620dbadd5fceaa30377fa80b0edb3b9826f7294c009d9", null ],
-      [ "WOW_FAIL_GAME_ACCOUNT_LOCKED", "de/d09/a04385.html#a87ba9bd5edfd749f4729620dbadd5fcea3cb53338783b02f6f4adbd6d4cf8de55", null ],
-      [ "WOW_FAIL_UNLOCKABLE_LOCK", "de/d09/a04385.html#a87ba9bd5edfd749f4729620dbadd5fceaa49aaf129ee38c581c43adac5e0dc47e", null ],
-      [ "WOW_FAIL_CONVERSION_REQUIRED", "de/d09/a04385.html#a87ba9bd5edfd749f4729620dbadd5fceaa57c56a0afc1fe774f661feddaaa1739", null ],
-      [ "WOW_FAIL_DISCONNECTED", "de/d09/a04385.html#a87ba9bd5edfd749f4729620dbadd5fcea45adfe6f21bb136d789120fb4ade5d65", null ]
+    [ "HolidayRule", "da/d9f/a09319.html", "da/d9f/a09319" ],
+    [ "HolidayDateCalculator", "d6/d31/a09323.html", "d6/d31/a09323" ],
+    [ "HolidayCalculationType", "de/d09/a04385.html#a5ecfaf291957bc268c8975a08797a5cb", [
+      [ "FIXED_DATE", "de/d09/a04385.html#a5ecfaf291957bc268c8975a08797a5cbac2f1d03fc1ea7f97ce600804f08e4387", null ],
+      [ "NTH_WEEKDAY", "de/d09/a04385.html#a5ecfaf291957bc268c8975a08797a5cba64e96cdced43819307b413690eea15f1", null ],
+      [ "EASTER_OFFSET", "de/d09/a04385.html#a5ecfaf291957bc268c8975a08797a5cbacd2633cacbd26593f1bee00669e7d19e", null ],
+      [ "LUNAR_NEW_YEAR", "de/d09/a04385.html#a5ecfaf291957bc268c8975a08797a5cbafd92595c4d49b81e4639056460d15ba5", null ],
+      [ "WEEKDAY_ON_OR_AFTER", "de/d09/a04385.html#a5ecfaf291957bc268c8975a08797a5cba94830ad690c0fa44fa8625efd71c66e4", null ],
+      [ "AUTUMN_EQUINOX", "de/d09/a04385.html#a5ecfaf291957bc268c8975a08797a5cba518200d671a574bbbc71b408d64f95ca", null ],
+      [ "WINTER_SOLSTICE", "de/d09/a04385.html#a5ecfaf291957bc268c8975a08797a5cbaf69c202170bfdb27a6beefa060b8bb06", null ],
+      [ "DARKMOON_FAIRE", "de/d09/a04385.html#a5ecfaf291957bc268c8975a08797a5cba947b7c3be0b3967f88c881172df9c6c6", null ]
     ] ],
-    [ "ExpansionFlags", "de/d09/a04385.html#aa4677c9d14c49d7eb90bf81f278756e2", [
-      [ "POST_BC_EXP_FLAG", "de/d09/a04385.html#aa4677c9d14c49d7eb90bf81f278756e2ac848c9323f3ff5625ac2122c586c09bb", null ],
-      [ "PRE_BC_EXP_FLAG", "de/d09/a04385.html#aa4677c9d14c49d7eb90bf81f278756e2aeee886490e199b04b3ef987de2fefb64", null ],
-      [ "NO_VALID_EXP_FLAG", "de/d09/a04385.html#aa4677c9d14c49d7eb90bf81f278756e2ad8e812d2ea9331912047df7fce86831d", null ]
-    ] ],
-    [ "LoginResult", "de/d09/a04385.html#a3b6904b8a00ed8f7a67396dee6e9aef5", [
-      [ "LOGIN_OK", "de/d09/a04385.html#a3b6904b8a00ed8f7a67396dee6e9aef5a9da8cbfbe2c1a4f3ebd3d44a961adabb", null ],
-      [ "LOGIN_FAILED", "de/d09/a04385.html#a3b6904b8a00ed8f7a67396dee6e9aef5ad57e6995e0b5105bfeb9bde15ed0a7a0", null ],
-      [ "LOGIN_FAILED2", "de/d09/a04385.html#a3b6904b8a00ed8f7a67396dee6e9aef5a501cd3d3224142afdb0ddd84933f7b56", null ],
-      [ "LOGIN_BANNED", "de/d09/a04385.html#a3b6904b8a00ed8f7a67396dee6e9aef5abd5993385d5cc24dd420523a27166005", null ],
-      [ "LOGIN_UNKNOWN_ACCOUNT", "de/d09/a04385.html#a3b6904b8a00ed8f7a67396dee6e9aef5a09d810ee618be6b94e3f65997504e6b3", null ],
-      [ "LOGIN_UNKNOWN_ACCOUNT3", "de/d09/a04385.html#a3b6904b8a00ed8f7a67396dee6e9aef5a9cd182cb4b751e7fb72928ec376b15bc", null ],
-      [ "LOGIN_ALREADYONLINE", "de/d09/a04385.html#a3b6904b8a00ed8f7a67396dee6e9aef5a9a53be7e776883d12703dcbb4ed651e5", null ],
-      [ "LOGIN_NOTIME", "de/d09/a04385.html#a3b6904b8a00ed8f7a67396dee6e9aef5a2ce8ce1e836148b73775ad265ab0f342", null ],
-      [ "LOGIN_DBBUSY", "de/d09/a04385.html#a3b6904b8a00ed8f7a67396dee6e9aef5af4f0024867276f532e675c24aadcfce8", null ],
-      [ "LOGIN_BADVERSION", "de/d09/a04385.html#a3b6904b8a00ed8f7a67396dee6e9aef5ae585e165f05e752918e316544b78a91c", null ],
-      [ "LOGIN_DOWNLOAD_FILE", "de/d09/a04385.html#a3b6904b8a00ed8f7a67396dee6e9aef5a37d9b65d118199e570e0dbfc227bd309", null ],
-      [ "LOGIN_FAILED3", "de/d09/a04385.html#a3b6904b8a00ed8f7a67396dee6e9aef5af97075f074e84f11375e22e912235aa3", null ],
-      [ "LOGIN_SUSPENDED", "de/d09/a04385.html#a3b6904b8a00ed8f7a67396dee6e9aef5a401d988d19cea26726562ab92417060b", null ],
-      [ "LOGIN_FAILED4", "de/d09/a04385.html#a3b6904b8a00ed8f7a67396dee6e9aef5a09338db3247d56c3cc7e41d4de1ed06e", null ],
-      [ "LOGIN_CONNECTED", "de/d09/a04385.html#a3b6904b8a00ed8f7a67396dee6e9aef5a1bbff3f5057ee056e293eb7ca46968ae", null ],
-      [ "LOGIN_PARENTALCONTROL", "de/d09/a04385.html#a3b6904b8a00ed8f7a67396dee6e9aef5afcb2d09c101442419ef3262095e9b860", null ],
-      [ "LOGIN_LOCKED_ENFORCED", "de/d09/a04385.html#a3b6904b8a00ed8f7a67396dee6e9aef5a683788d94491faa7b0ce45a64e0a2c02", null ]
-    ] ],
-    [ "IsAcceptedClientBuild", "de/d09/a04385.html#a50a906b5a3fdca3508aee0997881a717", null ],
-    [ "IsPostBCAcceptedClientBuild", "de/d09/a04385.html#ad4f22daf9d88367d90d92416f470a28c", null ],
-    [ "IsPreBCAcceptedClientBuild", "de/d09/a04385.html#a96896fc9dad2c304f681a24776f6726b", null ]
+    [ "Weekday", "de/d09/a04385.html#aec3d5ec6653b2c392d449500b8f5cb3a", [
+      [ "SUNDAY", "de/d09/a04385.html#aec3d5ec6653b2c392d449500b8f5cb3aa95fa12cb2100ce7081b71f7c44bc12a5", null ],
+      [ "MONDAY", "de/d09/a04385.html#aec3d5ec6653b2c392d449500b8f5cb3aa98617021b249af0ace0f84ee92ccc7cd", null ],
+      [ "TUESDAY", "de/d09/a04385.html#aec3d5ec6653b2c392d449500b8f5cb3aa5f5140afce13197a89e848004f292f14", null ],
+      [ "WEDNESDAY", "de/d09/a04385.html#aec3d5ec6653b2c392d449500b8f5cb3aaaaebdc947e9f7d4ea362e5dc4fe7f825", null ],
+      [ "THURSDAY", "de/d09/a04385.html#aec3d5ec6653b2c392d449500b8f5cb3aa7a61b324afb4dd8b2fb4a38afc34f755", null ],
+      [ "FRIDAY", "de/d09/a04385.html#aec3d5ec6653b2c392d449500b8f5cb3aa86fb6d343289267f3e9edb9b7403d936", null ],
+      [ "SATURDAY", "de/d09/a04385.html#aec3d5ec6653b2c392d449500b8f5cb3aafd5ae113ac00b67f69541bc8c7f21ef7", null ]
+    ] ]
 ];

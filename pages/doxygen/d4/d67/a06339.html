@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: UpdateFetcher::DirectoryEntry Struct Reference</title>
+<title>AzerothCore: ModuleDBUpdater Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,29 +105,27 @@ $(document).ready(function(){initNavTree('d4/d67/a06339.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
 <a href="../../dd/d2b/a06336.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">UpdateFetcher::DirectoryEntry Struct Reference</div></div>
+  <div class="headertitle"><div class="title">ModuleDBUpdater Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
+
+<p><code>#include &quot;<a class="el" href="../../">DBUpdater.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
-Public Member Functions</h2></td></tr>
-<tr class="memitem:a02538aefc1b014b60957d4c67793000f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d67/a06339.html#a02538aefc1b014b60957d4c67793000f">DirectoryEntry</a> (<a class="el" href="../../d0/d18/a06347.html#a557f248b248b5cd62606f843eda0bc00">Path</a> const &amp;path_, <a class="el" href="../../d0/d18/a06347.html#a67e1565cbdd009909badb09d67eea1cb">State</a> state_)</td></tr>
-<tr class="separator:a02538aefc1b014b60957d4c67793000f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:aca34dff6659f2da63f31e12bb41cf3d0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d18/a06347.html#a557f248b248b5cd62606f843eda0bc00">Path</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d67/a06339.html#aca34dff6659f2da63f31e12bb41cf3d0">path</a></td></tr>
-<tr class="separator:aca34dff6659f2da63f31e12bb41cf3d0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aeddd31e8fbb23e54549e985f09c4ea96"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d18/a06347.html#a67e1565cbdd009909badb09d67eea1cb">State</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d67/a06339.html#aeddd31e8fbb23e54549e985f09c4ea96">state</a></td></tr>
-<tr class="separator:aeddd31e8fbb23e54549e985f09c4ea96"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
+Static Public Member Functions</h2></td></tr>
+<tr class="memitem:a2d3e38cdbdb9bdece3814297c36e6be9"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d67/a06339.html#a2d3e38cdbdb9bdece3814297c36e6be9">Create</a> (<a class="el" href="../../d4/d17/a06123.html">DatabaseUpdatePool</a> &amp;pool)</td></tr>
+<tr class="separator:a2d3e38cdbdb9bdece3814297c36e6be9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a45ecac66b2bae03db4b6688b0c08ab62"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d67/a06339.html#a45ecac66b2bae03db4b6688b0c08ab62">Update</a> (<a class="el" href="../../d4/d17/a06123.html">DatabaseUpdatePool</a> &amp;pool, <a class="el" href="../../dc/d3f/a06331.html">DBUpdaterInfo</a> const &amp;info, std::string_view modulesList={})</td></tr>
+<tr class="separator:a45ecac66b2bae03db4b6688b0c08ab62"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a21a3910e779a54d953de6b1c44e40442"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d67/a06339.html#a21a3910e779a54d953de6b1c44e40442">Populate</a> (<a class="el" href="../../d4/d17/a06123.html">DatabaseUpdatePool</a> &amp;pool, <a class="el" href="../../dc/d3f/a06331.html">DBUpdaterInfo</a> const &amp;info)</td></tr>
+<tr class="separator:a21a3910e779a54d953de6b1c44e40442"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a02538aefc1b014b60957d4c67793000f" name="a02538aefc1b014b60957d4c67793000f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a02538aefc1b014b60957d4c67793000f">&#9670;&#160;</a></span>DirectoryEntry()</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="a2d3e38cdbdb9bdece3814297c36e6be9" name="a2d3e38cdbdb9bdece3814297c36e6be9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2d3e38cdbdb9bdece3814297c36e6be9">&#9670;&#160;</a></span>Create()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -136,16 +134,46 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">UpdateFetcher::DirectoryEntry::DirectoryEntry </td>
+          <td class="memname">bool ModuleDBUpdater::Create </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d18/a06347.html#a557f248b248b5cd62606f843eda0bc00">Path</a> const &amp;&#160;</td>
-          <td class="paramname"><em>path_</em>, </td>
+          <td class="paramtype"><a class="el" href="../../d4/d17/a06123.html">DatabaseUpdatePool</a> &amp;&#160;</td>
+          <td class="paramname"><em>pool</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  621</span>{</div>
+<div class="line"><span class="lineno">  622</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../d0/d88/a05153.html#a23cdd10a64e2e376416e93949b5644ea">CreateDatabase</a>(pool);</div>
+<div class="line"><span class="lineno">  623</span>}</div>
+<div class="ttc" id="aa05153_html_a23cdd10a64e2e376416e93949b5644ea"><div class="ttname"><a href="../../d0/d88/a05153.html#a23cdd10a64e2e376416e93949b5644ea">anonymous_namespace{DBUpdater.cpp}::CreateDatabase</a></div><div class="ttdeci">bool CreateDatabase(DatabaseUpdatePool &amp;pool)</div><div class="ttdef"><b>Definition:</b> DBUpdater.cpp:220</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a21a3910e779a54d953de6b1c44e40442" name="a21a3910e779a54d953de6b1c44e40442"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a21a3910e779a54d953de6b1c44e40442">&#9670;&#160;</a></span>Populate()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool ModuleDBUpdater::Populate </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d4/d17/a06123.html">DatabaseUpdatePool</a> &amp;&#160;</td>
+          <td class="paramname"><em>pool</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d0/d18/a06347.html#a67e1565cbdd009909badb09d67eea1cb">State</a>&#160;</td>
-          <td class="paramname"><em>state_</em>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../dc/d3f/a06331.html">DBUpdaterInfo</a> const &amp;&#160;</td>
+          <td class="paramname"><em>info</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -155,43 +183,61 @@ Public Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   34</span>: <a class="code hl_variable" href="../../d4/d67/a06339.html#aca34dff6659f2da63f31e12bb41cf3d0">path</a>(path_), <a class="code hl_variable" href="../../d4/d67/a06339.html#aeddd31e8fbb23e54549e985f09c4ea96">state</a>(state_) { }</div>
-<div class="ttc" id="aa06339_html_aca34dff6659f2da63f31e12bb41cf3d0"><div class="ttname"><a href="../../d4/d67/a06339.html#aca34dff6659f2da63f31e12bb41cf3d0">UpdateFetcher::DirectoryEntry::path</a></div><div class="ttdeci">Path const path</div><div class="ttdef"><b>Definition:</b> UpdateFetcher.cpp:36</div></div>
-<div class="ttc" id="aa06339_html_aeddd31e8fbb23e54549e985f09c4ea96"><div class="ttname"><a href="../../d4/d67/a06339.html#aeddd31e8fbb23e54549e985f09c4ea96">UpdateFetcher::DirectoryEntry::state</a></div><div class="ttdeci">State const state</div><div class="ttdef"><b>Definition:</b> UpdateFetcher.cpp:37</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  632</span>{</div>
+<div class="line"><span class="lineno">  633</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../d0/d88/a05153.html#a656a0a6d93f58d7d4cc2b1f99edb0c44">PopulateDatabase</a>(pool, info);</div>
+<div class="line"><span class="lineno">  634</span>}</div>
+<div class="ttc" id="aa05153_html_a656a0a6d93f58d7d4cc2b1f99edb0c44"><div class="ttname"><a href="../../d0/d88/a05153.html#a656a0a6d93f58d7d4cc2b1f99edb0c44">anonymous_namespace{DBUpdater.cpp}::PopulateDatabase</a></div><div class="ttdeci">bool PopulateDatabase(DatabaseUpdatePool &amp;pool, DBUpdaterInfo const &amp;info)</div><div class="ttdef"><b>Definition:</b> DBUpdater.cpp:405</div></div>
 </div><!-- fragment -->
 </div>
 </div>
-<h2 class="groupheader">Member Data Documentation</h2>
-<a id="aca34dff6659f2da63f31e12bb41cf3d0" name="aca34dff6659f2da63f31e12bb41cf3d0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aca34dff6659f2da63f31e12bb41cf3d0">&#9670;&#160;</a></span>path</h2>
+<a id="a45ecac66b2bae03db4b6688b0c08ab62" name="a45ecac66b2bae03db4b6688b0c08ab62"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a45ecac66b2bae03db4b6688b0c08ab62">&#9670;&#160;</a></span>Update()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/d18/a06347.html#a557f248b248b5cd62606f843eda0bc00">Path</a> const UpdateFetcher::DirectoryEntry::path</td>
+          <td class="memname">bool ModuleDBUpdater::Update </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d4/d17/a06123.html">DatabaseUpdatePool</a> &amp;&#160;</td>
+          <td class="paramname"><em>pool</em>, </td>
         </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="aeddd31e8fbb23e54549e985f09c4ea96" name="aeddd31e8fbb23e54549e985f09c4ea96"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aeddd31e8fbb23e54549e985f09c4ea96">&#9670;&#160;</a></span>state</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/d18/a06347.html#a67e1565cbdd009909badb09d67eea1cb">State</a> const UpdateFetcher::DirectoryEntry::state</td>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../dc/d3f/a06331.html">DBUpdaterInfo</a> const &amp;&#160;</td>
+          <td class="paramname"><em>info</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::string_view&#160;</td>
+          <td class="paramname"><em>modulesList</em> = <code>{}</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-
+<div class="fragment"><div class="line"><span class="lineno">  627</span>{</div>
+<div class="line"><span class="lineno">  628</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../d0/d88/a05153.html#abb1541bb142924d077074a145a6dc9d1">UpdateDatabase</a>(pool, info, modulesList);</div>
+<div class="line"><span class="lineno">  629</span>}</div>
+<div class="ttc" id="aa05153_html_abb1541bb142924d077074a145a6dc9d1"><div class="ttname"><a href="../../d0/d88/a05153.html#abb1541bb142924d077074a145a6dc9d1">anonymous_namespace{DBUpdater.cpp}::UpdateDatabase</a></div><div class="ttdeci">bool UpdateDatabase(DatabaseUpdatePool &amp;pool, DBUpdaterInfo const &amp;info, std::string_view modulesList)</div><div class="ttdef"><b>Definition:</b> DBUpdater.cpp:270</div></div>
+</div><!-- fragment -->
 </div>
 </div>
 </div><!-- contents -->
@@ -199,8 +245,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d0/d18/a06347.html">UpdateFetcher</a></li><li class="navelem"><a class="el" href="../../d4/d67/a06339.html">DirectoryEntry</a></li>
-    <li class="footer">Generated on Mon Sep 21 2026 23:34:56 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d4/d67/a06339.html">ModuleDBUpdater</a></li>
+    <li class="footer">Generated on Tue Sep 29 2026 01:13:18 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

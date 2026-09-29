@@ -1,8 +1,10 @@
 var a10447 =
 [
-    [ "AbstractFollower", "dc/d17/a10447.html#a08d292896f2419dd73ae68c8e1238d4b", null ],
-    [ "~AbstractFollower", "dc/d17/a10447.html#acb394f5326ab5ea5146c79788a085647", null ],
-    [ "GetTarget", "dc/d17/a10447.html#a43f037557454528a956c379d9efb42ac", null ],
-    [ "SetTarget", "dc/d17/a10447.html#ad49748abec4bb2fe06cc8ba2699bdbd0", null ],
-    [ "_target", "dc/d17/a10447.html#aa4e43d8e60442eee41398648fd7fd45d", null ]
+    [ "ChaseRange", "dc/d17/a10447.html#acd43ed01c9e4845d82e4d240b5c35167", null ],
+    [ "ChaseRange", "dc/d17/a10447.html#aaf19c63398d31699ed1703ae1ba5f1b6", null ],
+    [ "ChaseRange", "dc/d17/a10447.html#a397b3789449b1c178f11f64313498c4d", null ],
+    [ "MaxRange", "dc/d17/a10447.html#ae2a846630e79f3a15a5d93b18c68c915", null ],
+    [ "MaxTolerance", "dc/d17/a10447.html#a7909b18028d43c84eca5feee3e41469c", null ],
+    [ "MinRange", "dc/d17/a10447.html#a0e2c69e20d6a38d056505c3b5b0d9fd6", null ],
+    [ "MinTolerance", "dc/d17/a10447.html#a7b640ecfc0e80921ab36c2c33f0b10fd", null ]
 ];

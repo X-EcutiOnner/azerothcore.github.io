@@ -1,7 +1,9 @@
 var a10111 =
 [
-    [ "BindRow", "d0/dc2/a10119.html", "d0/dc2/a10119" ],
-    [ "InstanceRow", "d8/dc8/a10115.html", "d8/dc8/a10115" ],
-    [ "binds", "da/de4/a10111.html#a919bd3014a6ed66fe249a1726abdd625", null ],
-    [ "instances", "da/de4/a10111.html#a61ada11aeaf8d4c9f6b7355674d2a9ef", null ]
+    [ "completedEncounters", "da/de4/a10111.html#acd444d68aab9efa6aace6f3964a40206", null ],
+    [ "data", "da/de4/a10111.html#a50d57b4d7d0ba162ae1cc53ee4c4462c", null ],
+    [ "difficulty", "da/de4/a10111.html#a31694740b0a3af858c12c51f0659fe3c", null ],
+    [ "instanceId", "da/de4/a10111.html#aefe57dc77cf3043b6c187fdb676d9c51", null ],
+    [ "mapId", "da/de4/a10111.html#a14cbda11b8b949fe647a6851d15d6465", null ],
+    [ "resetTime", "da/de4/a10111.html#af7c9d7b1fee85de40aade9576e8c49ff", null ]
 ];

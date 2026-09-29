@@ -1,6 +1,8 @@
 var a05188 =
 [
-    [ "ChatServerMessage", "d1/db7/a11091.html", "d1/db7/a11091" ],
-    [ "Emote", "d5/d89/a11083.html", "d5/d89/a11083" ],
-    [ "EmoteClient", "de/d87/a11087.html", "de/d87/a11087" ]
+    [ "AutoBankItem", "dc/d65/a11003.html", "dc/d65/a11003" ],
+    [ "AutoStoreBankItem", "dc/d16/a11007.html", "dc/d16/a11007" ],
+    [ "BuyBankSlot", "d3/d4c/a11011.html", "d3/d4c/a11011" ],
+    [ "BuyBankSlotResult", "df/dc5/a11015.html", "df/dc5/a11015" ],
+    [ "ShowBank", "dd/d69/a11019.html", "dd/d69/a11019" ]
 ];

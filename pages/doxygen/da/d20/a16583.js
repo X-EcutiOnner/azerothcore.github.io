@@ -1,6 +1,8 @@
 var a16583 =
 [
-    [ "HandleLeapBack", "da/d20/a16583.html#a71a9b9967528c1153ad1215635bc7d01", null ],
-    [ "PrepareSpellScript", "da/d20/a16583.html#a25a2db5c19e721b112b7bc84b3ac0968", null ],
-    [ "Register", "da/d20/a16583.html#a6ef11d0538616315fa7cf098748aa01f", null ]
+    [ "npc_twilight_summon", "da/d20/a16583.html#a34697edd1af94814862a50a038625f93", null ],
+    [ "DoAction", "da/d20/a16583.html#a78ef5af35959e8bedbf7a23569a2f8bd", null ],
+    [ "Reset", "da/d20/a16583.html#aa909fac05e93a78d3f70222fb82a6841", null ],
+    [ "UpdateAI", "da/d20/a16583.html#afe47f7af23aa7ef5b59473579c649859", null ],
+    [ "fadeArmorTimer", "da/d20/a16583.html#a998e2efd9e25915d32b953d684352511", null ]
 ];

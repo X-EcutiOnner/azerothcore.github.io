@@ -1,6 +1,6 @@
 var a10947 =
 [
-    [ "WeatherScript", "d3/dbd/a10947.html#af0b38389d1e149a332186e10358ba74e", null ],
-    [ "IsDatabaseBound", "d3/dbd/a10947.html#a2547902149ce080711ccacb709b10e8a", null ],
-    [ "OnChange", "d3/dbd/a10947.html#a10c105f1e1bff1e9fe484e98b00cf76c", null ]
+    [ "WorldMapScript", "d3/dbd/a10947.html#a87448909610514b3a7d75f9ef5076696", null ],
+    [ "checkValidity", "d3/dbd/a10947.html#aa212e582764d2cfbc5e7e600a54f2cb4", null ],
+    [ "isAfterLoadScript", "d3/dbd/a10947.html#a6aeda6e4c8328d7334527cbe69311ddc", null ]
 ];

@@ -1,8 +1,11 @@
 var a04769 =
 [
-    [ "ModelIgnoreFlags", "da/d86/a04769.html#a6996c44f3ac72cd9dc04515186d2da28", [
-      [ "Nothing", "da/d86/a04769.html#a6996c44f3ac72cd9dc04515186d2da28af80a4ad87fee7c9fdc19b7769495fdb5", null ],
-      [ "M2", "da/d86/a04769.html#a6996c44f3ac72cd9dc04515186d2da28a9d8322530b67e2366e5b1ba67081ded9", null ]
-    ] ],
-    [ "operator&", "da/d86/a04769.html#a3c25bdb4d30c345cd6760935e2c456f4", null ]
+    [ "VMAP::ModelPosition", "d1/d5e/a05403.html", "d1/d5e/a05403" ],
+    [ "VMAP::MapSpawns", "dc/d06/a05407.html", "dc/d06/a05407" ],
+    [ "VMAP::GroupModel_Raw", "d8/d4f/a05411.html", "d8/d4f/a05411" ],
+    [ "VMAP::WorldModel_Raw", "d8/ddb/a05415.html", "d8/ddb/a05415" ],
+    [ "VMAP::TileAssembler", "d5/dc5/a05419.html", "d5/dc5/a05419" ],
+    [ "MapData", "da/d86/a04769.html#a28dc2e567f8620fed1128b6c4cf5b749", null ],
+    [ "TileMap", "da/d86/a04769.html#abfe766a1b58bbf69ce3b17ff14d1c101", null ],
+    [ "UniqueEntryMap", "da/d86/a04769.html#a3424b44a092b5f3d8074649ae11ee481", null ]
 ];

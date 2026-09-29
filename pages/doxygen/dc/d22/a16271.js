@@ -1,8 +1,7 @@
 var a16271 =
 [
-    [ "npc_paoka_swiftmountainAI", "dc/d22/a16271.html#a92a229f76de3bc46ae14910439db0004", null ],
-    [ "DoSpawnWyvern", "dc/d22/a16271.html#a7997a3d398db82c205e3a8af77ac1684", null ],
-    [ "Reset", "dc/d22/a16271.html#acae0427957aba04a54e6001823bc7eb4", null ],
-    [ "WaypointReached", "dc/d22/a16271.html#a262781c90fe1b5a5af2c6f94e4cc52e2", null ],
-    [ "WaypointReached", "dc/d22/a16271.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "npc_lakota_windsongAI", "de/db1/a16275.html", "de/db1/a16275" ],
+    [ "npc_lakota_windsong", "dc/d22/a16271.html#a08a585ac36189ec23354c7acb26d223d", null ],
+    [ "GetAI", "dc/d22/a16271.html#af2f27ed2c4bd7298a9478495d2d7ca65", null ],
+    [ "OnQuestAccept", "dc/d22/a16271.html#adceebea6e5c52433ab5d048628bcc7a2", null ]
 ];

@@ -1,7 +1,8 @@
 var a21007 =
 [
-    [ "OnRemove", "de/d25/a21007.html#ae99b372d0894e0c7aafc44f2a3cfac4f", null ],
-    [ "PrepareAuraScript", "de/d25/a21007.html#ae99f88a63656d0b48ca4b85548cc736b", null ],
-    [ "Register", "de/d25/a21007.html#a27c5665b64c50df5d9c67d5136ab7567", null ],
-    [ "Validate", "de/d25/a21007.html#a3d351d7e9ac022ea1bd912843fe66891", null ]
+    [ "npc_life_spark", "de/d25/a21007.html#a76bbbdc610dbc433007930c7a45d03be", null ],
+    [ "JustEngagedWith", "de/d25/a21007.html#af4111bf747f0d5c510f72f32d42f90e3", null ],
+    [ "Reset", "de/d25/a21007.html#a3c5b0ee2fac3bc444cc3c58e70284b72", null ],
+    [ "UpdateAI", "de/d25/a21007.html#a3dffda7a220e41302b928f55995d4dce", null ],
+    [ "_scheduler", "de/d25/a21007.html#a7e77d71508031a75655db8aaa34d0f9d", null ]
 ];

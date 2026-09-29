@@ -1,14 +1,7 @@
 var a17139 =
 [
-    [ "npc_snobold_vassalAI", "de/d5c/a17139.html#a2ecc5e8289252b2936f36de9921294e0", null ],
-    [ "AttackStart", "de/d5c/a17139.html#a50afc82c80cede8dcf3240a116463411", null ],
-    [ "DoAction", "de/d5c/a17139.html#a8beac97ea5f7c797d2ae52e2f3c3be50", null ],
-    [ "JustDied", "de/d5c/a17139.html#aef408460584a17f15a84e8a6435c6348", null ],
-    [ "JustEngagedWith", "de/d5c/a17139.html#a60c1704617e99239d60d24d6b7513c1a", null ],
-    [ "MoveInLineOfSight", "de/d5c/a17139.html#aae75a4e69e27c1e4778a7f76caff04ba", null ],
-    [ "Reset", "de/d5c/a17139.html#af794f46b1a7af97b52683954b556c27d", null ],
-    [ "UpdateAI", "de/d5c/a17139.html#ac1d282da6f2d9133619a212a349c777f", null ],
-    [ "events", "de/d5c/a17139.html#adfb6df0ee8ab19b58de24da8d4e6d9df", null ],
-    [ "pInstance", "de/d5c/a17139.html#afc140e6f9fc1ec78914aecc5150345b0", null ],
-    [ "TargetGUID", "de/d5c/a17139.html#a0d36e4903448c5a03115df0dff3480c8", null ]
+    [ "HandleEffectPeriodic", "de/d5c/a17139.html#ae5749a43f37f0eb3f049d8804845f61e", null ],
+    [ "PrepareAuraScript", "de/d5c/a17139.html#a66dcb98f38ed6b040928543015f59c9b", null ],
+    [ "Register", "de/d5c/a17139.html#abbebe9c5ad44db61e80ce3707e744ab6", null ],
+    [ "Validate", "de/d5c/a17139.html#a1131f0014f298b87483412d960bc0221", null ]
 ];

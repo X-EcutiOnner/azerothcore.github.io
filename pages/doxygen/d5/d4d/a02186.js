@@ -1,11 +1,12 @@
 var a02186 =
 [
-    [ "StableResultCode", "d5/d4d/a02186.html#abee8740a43e35bc796d1287225999514", [
-      [ "STABLE_ERR_MONEY", "d5/d4d/a02186.html#abee8740a43e35bc796d1287225999514a2e1a0a641b8771fd5ac124129e76b8c2", null ],
-      [ "STABLE_ERR_STABLE", "d5/d4d/a02186.html#abee8740a43e35bc796d1287225999514af3160ddc997ae8fc32c4420aa8169898", null ],
-      [ "STABLE_SUCCESS_STABLE", "d5/d4d/a02186.html#abee8740a43e35bc796d1287225999514a87d687b90cdb7cc884567156b95da61e", null ],
-      [ "STABLE_SUCCESS_UNSTABLE", "d5/d4d/a02186.html#abee8740a43e35bc796d1287225999514afb9c62c9485c5e5f50c502a61a8f0ab1", null ],
-      [ "STABLE_SUCCESS_BUY_SLOT", "d5/d4d/a02186.html#abee8740a43e35bc796d1287225999514aaa2a19926ebaa7372be4a798c5513317", null ],
-      [ "STABLE_ERR_EXOTIC", "d5/d4d/a02186.html#abee8740a43e35bc796d1287225999514ac96f0f7b1cccb7a29b30b8152c780f47", null ]
-    ] ]
+    [ "npc_webbed_creature", "db/da5/a15979.html", "db/da5/a15979" ],
+    [ "npc_webbed_creature::npc_webbed_creatureAI", "d7/ddb/a15983.html", "d7/ddb/a15983" ],
+    [ "WebbedCreature", "d5/d4d/a02186.html#aa14073eff8de36ab4c416f5ae7bd8cd0", [
+      [ "SPELL_FREE_WEBBED_CREATURE_HOSTILE_START", "d5/d4d/a02186.html#aa14073eff8de36ab4c416f5ae7bd8cd0a805bd712057d54d1e7aa0df25591e614", null ],
+      [ "SPELL_FREE_WEBBED_CREATURE_HOSTILE_END", "d5/d4d/a02186.html#aa14073eff8de36ab4c416f5ae7bd8cd0a8c879cd674ceba49c398aa160ab6432e", null ],
+      [ "SPELL_FREE_WEBBED_CREATURE_RESEARCHER", "d5/d4d/a02186.html#aa14073eff8de36ab4c416f5ae7bd8cd0ab537460526db8a8c87c52ee41e0e20c4", null ],
+      [ "NPC_EXPEDITION_RESEARCHER", "d5/d4d/a02186.html#aa14073eff8de36ab4c416f5ae7bd8cd0afbd11004b44bf2d153ac8e084395b3b3", null ]
+    ] ],
+    [ "AddSC_bloodmyst_isle", "d5/d4d/a02186.html#a6b9832f4bb6cfefde5bab6937fd46fae", null ]
 ];

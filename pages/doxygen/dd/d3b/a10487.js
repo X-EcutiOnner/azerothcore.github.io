@@ -1,17 +1,8 @@
 var a10487 =
 [
-    [ "FleeingMovementGenerator", "dd/d3b/a10487.html#a84808dc91baadc114a6c283dd0ba6caa", null ],
-    [ "DoFinalize", "dd/d3b/a10487.html#a89dd4d270b35e855c268374d8bfc3ebb", null ],
-    [ "DoFinalize", "dd/d3b/a10487.html#a693ec24e9d51ea0f63d15e1c07afdb2d", null ],
-    [ "DoInitialize", "dd/d3b/a10487.html#adeb978816b67ec9542ccd131da1403be", null ],
-    [ "DoReset", "dd/d3b/a10487.html#a0e84bc32b599040c7f8ed9cdf92679e8", null ],
-    [ "DoUpdate", "dd/d3b/a10487.html#ad78ed87cc8d2569a2744ef43957ba498", null ],
-    [ "GetMovementGeneratorType", "dd/d3b/a10487.html#aa739940493313028f17d306c1b23da52", null ],
-    [ "GetPoint", "dd/d3b/a10487.html#a77d3ae9533947a538220f9340ed7a907", null ],
-    [ "SetTargetLocation", "dd/d3b/a10487.html#ab0e0f55df28f7cbcf108191e1e129634", null ],
-    [ "_fleeTargetGUID", "dd/d3b/a10487.html#ade625570dc07a778a2089c986fac38f7", null ],
-    [ "_interrupt", "dd/d3b/a10487.html#a1b71b8e2f29109b5dee1e1661d54f74a", null ],
-    [ "_invalidPathsCount", "dd/d3b/a10487.html#a56cbd33bf6cd8152f4586b2298c8fdf8", null ],
-    [ "_path", "dd/d3b/a10487.html#a4955c5c4b2d18c11da2b9d2a75524c16", null ],
-    [ "_timer", "dd/d3b/a10487.html#a33bbc20fc564b7166965ca2f8e9b9211", null ]
+    [ "TimedFleeingMovementGenerator", "dd/d3b/a10487.html#ae3eed5f4b5a8d11ad4eed67ce5329742", null ],
+    [ "Finalize", "dd/d3b/a10487.html#a1a18f033663fa93ef0b9885aae21f766", null ],
+    [ "GetMovementGeneratorType", "dd/d3b/a10487.html#a1533d13f4e786e498353805a2a2daf85", null ],
+    [ "Update", "dd/d3b/a10487.html#a53688aae55bfdd3a33eb24484fcc157e", null ],
+    [ "i_totalFleeTime", "dd/d3b/a10487.html#a2858047459ff675383e7b86805702369", null ]
 ];

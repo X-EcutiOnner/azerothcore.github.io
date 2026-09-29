@@ -1,7 +1,8 @@
 var a27615 =
 [
-    [ "CalculateAmount", "d3/da2/a27615.html#adc34e5742173d039f6050d5ccc0a2cae", null ],
-    [ "PrepareAuraScript", "d3/da2/a27615.html#aa966d001c3687403dfa2b13e998ca241", null ],
-    [ "Register", "d3/da2/a27615.html#aeecb9756d4304ed2316b6d2a8f0d6ac4", null ],
-    [ "Validate", "d3/da2/a27615.html#af1eee4d8e966d66fea04173e7481b5ce", null ]
+    [ "ApplyDebuff", "d3/da2/a27615.html#ac22ae27019de6bd951bb00262c6df9a3", null ],
+    [ "PrepareSpellScript", "d3/da2/a27615.html#aa37525d089348f58e3d871830caa3417", null ],
+    [ "Register", "d3/da2/a27615.html#ac37a48d9742ab6b07c5e6a8dd7f23bd9", null ],
+    [ "RemoveInvalidTargets", "d3/da2/a27615.html#a0451b75aa962065a01a5806992e01b16", null ],
+    [ "Validate", "d3/da2/a27615.html#ac69d777fdf7a2d3c527621dee256690c", null ]
 ];

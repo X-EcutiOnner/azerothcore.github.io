@@ -1,8 +1,11 @@
 var a14235 =
 [
-    [ "npc_dkc1_gothik", "d8/d40/a14235.html#ac55410228faf60379873234d7322c488", null ],
-    [ "DoAction", "d8/d40/a14235.html#aba7e9c3326400012162402d3ead2837f", null ],
-    [ "MoveInLineOfSight", "d8/d40/a14235.html#aa409a5ecaa71388131a2be4c62d2cf85", null ],
-    [ "UpdateAI", "d8/d40/a14235.html#a7fbe2d52d179bcc8113407054befae00", null ],
-    [ "spoken", "d8/d40/a14235.html#a4ed4b960104211c61067b1e66752eb74", null ]
+    [ "npc_scarlet_ghoul", "d8/d40/a14235.html#aa256e50446b0511a0412442245be2e82", null ],
+    [ "InitializeAI", "d8/d40/a14235.html#a5e98c4a1e9a31124dc6ca67c612db1c9", null ],
+    [ "MovementInform", "d8/d40/a14235.html#a06f14ccde727b7c875f3be8243dec2a8", null ],
+    [ "OwnerAttackedBy", "d8/d40/a14235.html#aacf81b86947124cea21fc6d2e906487f", null ],
+    [ "SetGUID", "d8/d40/a14235.html#ab3840f1d6b1e63b4707d5139b63281cc", null ],
+    [ "UpdateAI", "d8/d40/a14235.html#af8637b2a7644b917aa6ef10b31a1d1e0", null ],
+    [ "events", "d8/d40/a14235.html#ad2b3d650e151a13159e119cb3fda88a4", null ],
+    [ "gothikGUID", "d8/d40/a14235.html#a9275cf7efde4c77ce114448777f25f1e", null ]
 ];

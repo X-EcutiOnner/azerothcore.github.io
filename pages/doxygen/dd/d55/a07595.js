@@ -1,7 +1,5 @@
 var a07595 =
 [
-    [ "AuctionSearchUpdateBid", "dd/d55/a07595.html#ad7ecaf272e5cc8fe61e0b448d05b6d27", null ],
-    [ "auctionId", "dd/d55/a07595.html#a6ebbff1fcebe77ed4735483ad481fd00", null ],
-    [ "bid", "dd/d55/a07595.html#a14b7f79b2aa0b020c8c940d6b01c4efc", null ],
-    [ "bidderGuid", "dd/d55/a07595.html#a843bcff41f694075ea056d9a3c71467f", null ]
+    [ "AuctionSearchRemove", "dd/d55/a07595.html#a5a93de23f32eb653e9df2df3e2d11bcb", null ],
+    [ "auctionId", "dd/d55/a07595.html#a6e18c3999d22c1972314b4a20ed8b62f", null ]
 ];

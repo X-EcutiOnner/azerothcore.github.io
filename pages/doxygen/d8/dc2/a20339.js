@@ -1,9 +1,9 @@
 var a20339 =
 [
-    [ "npc_thorims_hammer", "d8/dc2/a20339.html#ae22f7278bd68011dc8f593ac4ccfc5ff", null ],
-    [ "Reset", "d8/dc2/a20339.html#a6b7a294849ffd4a75e7f9e0ce3c7314b", null ],
-    [ "UpdateAI", "d8/dc2/a20339.html#a006414298b31eb0cfb964916298d66ce", null ],
-    [ "_beamTimer", "d8/dc2/a20339.html#adcd5af2b86d1d8f119514f799c42444b", null ],
-    [ "_finishTime", "d8/dc2/a20339.html#aa6366b2ba9158a8560ed7289b51e96fc", null ],
-    [ "_removeTimer", "d8/dc2/a20339.html#a7b9a2435b0953c12e693c562193d45e0", null ]
+    [ "npc_freya_ward_summon", "d8/dc2/a20339.html#ad88b954bbbb68988915ec165ccb0a3dd", null ],
+    [ "CanAIAttack", "d8/dc2/a20339.html#a6b91ab899f11e3d6f9907b73476fa61f", null ],
+    [ "IsSummonedBy", "d8/dc2/a20339.html#ab6c7cab698470dafd14a0ed2ddd94eca", null ],
+    [ "JustEngagedWith", "d8/dc2/a20339.html#a52ca4242be249900f94d918dbc4df6c3", null ],
+    [ "Reset", "d8/dc2/a20339.html#ae2e600ad8cae543bdb4b7f7b9c4c626a", null ],
+    [ "UpdateAI", "d8/dc2/a20339.html#a175d2ca7a28ab998860fdce324c48c7e", null ]
 ];

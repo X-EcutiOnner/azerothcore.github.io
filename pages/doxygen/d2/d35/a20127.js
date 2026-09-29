@@ -1,6 +1,5 @@
 var a20127 =
 [
-    [ "boss_sjonnir_malformed_oozeAI", "de/d9b/a20131.html", "de/d9b/a20131" ],
-    [ "boss_sjonnir_malformed_ooze", "d2/d35/a20127.html#ad151bc07b032b6cceed046d1b25ecc08", null ],
-    [ "GetAI", "d2/d35/a20127.html#a22807bb07692511c5ec87073d98c2604", null ]
+    [ "boss_sjonnir_dwarfAI", "d2/d35/a20127.html#aee7608282bef500a7eb3e0d3130fa01c", null ],
+    [ "UpdateAI", "d2/d35/a20127.html#afef50cec19e4cb2018c7c8a9e36ef41c", null ]
 ];

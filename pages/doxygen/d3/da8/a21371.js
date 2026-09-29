@@ -1,6 +1,18 @@
 var a21371 =
 [
-    [ "npc_ferocious_rhinoAI", "dc/d39/a21375.html", "dc/d39/a21375" ],
-    [ "npc_ferocious_rhino", "d3/da8/a21371.html#a480c1d0c24cdbe7cd3c47332ee925466", null ],
-    [ "GetAI", "d3/da8/a21371.html#aa5c3cba6b1ed6cffaac578c5449b9b4e", null ]
+    [ "boss_palehoofAI", "d3/da8/a21371.html#aa49a4e6e2f942ab0efeb83d0fe672f9f", null ],
+    [ "DoAction", "d3/da8/a21371.html#ae94606f2b382e07cd3f4b9be48b1ca2d", null ],
+    [ "JustDied", "d3/da8/a21371.html#a1484b82afc3072d1b1fc5e2c9b0204b0", null ],
+    [ "JustEngagedWith", "d3/da8/a21371.html#abd00a0b514c11d8fa3786e1e61333138", null ],
+    [ "JustReachedHome", "d3/da8/a21371.html#aae6517c4816eb9bbc5dfe245d69edd87", null ],
+    [ "KilledUnit", "d3/da8/a21371.html#abf68aba465731a0ea7de305861ad4875", null ],
+    [ "MoveInLineOfSight", "d3/da8/a21371.html#ae969093bfb3466e332c1de7e65ceeb5d", null ],
+    [ "Reset", "d3/da8/a21371.html#a61d1cedcc30fbccbebbdc768d6a18900", null ],
+    [ "UpdateAI", "d3/da8/a21371.html#ac7da92990a0d48e418115943ba7bdd51", null ],
+    [ "Counter", "d3/da8/a21371.html#a5b8c197cd3c482d5a4d5a14f9c5019e7", null ],
+    [ "events", "d3/da8/a21371.html#a18325a2a5cca9910bf7e35a21c16400b", null ],
+    [ "m_pInstance", "d3/da8/a21371.html#abffb9efc207c98a30e1bfcf7b87fdb6d", null ],
+    [ "OrbGUID", "d3/da8/a21371.html#ab75e8eea72bde1bd15fe40e347373ab4", null ],
+    [ "RandomUnfreeze", "d3/da8/a21371.html#a02d34d4cd26706e1108c99cc0b4afbba", null ],
+    [ "summons", "d3/da8/a21371.html#a098d738ccbc2764867643bf4336c04da", null ]
 ];

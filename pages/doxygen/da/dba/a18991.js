@@ -1,6 +1,9 @@
 var a18991 =
 [
-    [ "npc_risen_archmageAI", "d6/d4d/a18995.html", "d6/d4d/a18995" ],
-    [ "npc_risen_archmage", "da/dba/a18991.html#adf6dfe2a00325955939c84bcc1e4eb68", null ],
-    [ "GetAI", "da/dba/a18991.html#a8e8c4913e163c5d649fa79c2eb424864", null ]
+    [ "npc_green_dragon_combat_triggerAI", "da/dba/a18991.html#a4d4bd899a40ff44f8ee517b2a0328538", null ],
+    [ "DoAction", "da/dba/a18991.html#abbd08537ed245084ca7d4cf852a749a2", null ],
+    [ "JustEnteredCombat", "da/dba/a18991.html#ae25ca99139f8bb0082b97599cb924bd9", null ],
+    [ "JustExitedCombat", "da/dba/a18991.html#add8ce38b4a75947dc0170c7aba9c5589", null ],
+    [ "MoveInLineOfSight", "da/dba/a18991.html#ab2465cf3e5950d827eb0a30e9fc2ea47", null ],
+    [ "Reset", "da/dba/a18991.html#a3dfe1f28c9301c30186beb27ab76f9a9", null ]
 ];

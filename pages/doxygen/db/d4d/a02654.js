@@ -1,10 +1,7 @@
 var a02654 =
 [
-    [ "instance_the_eye", "da/d7a/a24067.html", "da/d7a/a24067" ],
-    [ "instance_the_eye::instance_the_eye_InstanceMapScript", "dd/d96/a24071.html", "dd/d96/a24071" ],
-    [ "AddSC_instance_the_eye", "db/d4d/a02654.html#a2edbd129d024cabd379cca055dd3e341", null ],
-    [ "boundaries", "db/d4d/a02654.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
-    [ "creatureData", "db/d4d/a02654.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "db/d4d/a02654.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "gameObjectData", "db/d4d/a02654.html#a1461582839e3b7fdbb7397e5d2086e31", null ]
+    [ "StaticVMapCollisionData", "d6/d32/a10331.html", "d6/d32/a10331" ],
+    [ "DynamicVMapCollisionData", "d0/d80/a10335.html", "d0/d80/a10335" ],
+    [ "MMapData", "d9/d98/a10339.html", "d9/d98/a10339" ],
+    [ "MapCollisionData", "d9/d69/a10343.html", "d9/d69/a10343" ]
 ];

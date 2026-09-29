@@ -1,15 +1,17 @@
 var a06255 =
 [
-    [ "TransactionBase", "de/dac/a06255.html#a663d13ba0b22e0711d135073ff80ee47", null ],
-    [ "~TransactionBase", "de/dac/a06255.html#a6ce7e6ef81bb466463bace35cdd49476", null ],
-    [ "Append", "de/dac/a06255.html#a867b7a92080104278aef5fb4975a4a52", null ],
-    [ "Append", "de/dac/a06255.html#aa0a81814abe26d456018c3bc9153cd4d", null ],
-    [ "AppendPreparedStatement", "de/dac/a06255.html#a8e099a4f8775b5e5e3b95ad0273a716f", null ],
-    [ "Cleanup", "de/dac/a06255.html#a35e0ce11de325a1b286d90a2936d4aa3", null ],
-    [ "GetSize", "de/dac/a06255.html#a261ad9d7423562ccbe2cac6d75c203bd", null ],
-    [ "DatabaseWorkerPool", "de/dac/a06255.html#a5d89109a06fa4fca3057b99bbfa84e58", null ],
-    [ "MySQLConnection", "de/dac/a06255.html#a06fa417f69e0a67da8f249333b1d189d", null ],
-    [ "TransactionTask", "de/dac/a06255.html#a377add6d6b5e34e774d2497d58f4a180", null ],
-    [ "_cleanedUp", "de/dac/a06255.html#aa82af96128bfcee997423a54396d40d4", null ],
-    [ "m_queries", "de/dac/a06255.html#a156f1a8316358c05285778e5734eade1", null ]
+    [ "QueryCallbackData", "de/dac/a06255.html#a43aa5b63c21480a9a02e5b1705f5e46a", null ],
+    [ "QueryCallbackData", "de/dac/a06255.html#af3d8b55a1a392e1f471bcf7ce16d8f45", null ],
+    [ "QueryCallbackData", "de/dac/a06255.html#a81f06a2940c72077d0f8bbe0d6292c5e", null ],
+    [ "~QueryCallbackData", "de/dac/a06255.html#a7a748ec0f04555caf696be1792701134", null ],
+    [ "QueryCallbackData", "de/dac/a06255.html#aea307606758c54a99e020421acaa5697", null ],
+    [ "operator=", "de/dac/a06255.html#a135161ac21cd4f11f2178acc8316afea", null ],
+    [ "operator=", "de/dac/a06255.html#a5b4baade8dd78ab3dc00e1003f679fb3", null ],
+    [ "ConstructActiveMember", "de/dac/a06255.html#a63276ee687270e668e7c51876ced5fb1", null ],
+    [ "DestroyActiveMember", "de/dac/a06255.html#aac0ba6a0017441eb25c4b294fde99186", null ],
+    [ "MoveFrom", "de/dac/a06255.html#a4ef783bc4f06f2cbaec3f4b6ca2c49aa", null ],
+    [ "QueryCallback", "de/dac/a06255.html#a3bf0675bb0e337d06f1e7ef31d7622fe", null ],
+    [ "_isPrepared", "de/dac/a06255.html#ad4e5dcd8f5648dfa36116b9944813ec6", null ],
+    [ "_prepared", "de/dac/a06255.html#ab87a39965f1ca9d48d6e5a88fde51976", null ],
+    [ "_string", "de/dac/a06255.html#a384db60c65e7823fdbc0ff430ac8dfe1", null ]
 ];

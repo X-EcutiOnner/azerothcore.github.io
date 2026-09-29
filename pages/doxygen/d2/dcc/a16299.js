@@ -1,11 +1,6 @@
 var a16299 =
 [
-    [ "npc_ameAI", "d2/dcc/a16299.html#ad3d0ee584859b2b0fb7c6c5dbf204ad6", null ],
-    [ "JustDied", "d2/dcc/a16299.html#a9b77f94f112477509c3163945ceb8201", null ],
-    [ "JustSummoned", "d2/dcc/a16299.html#ab09c72c4ea50313c23a53d3862aeddea", null ],
-    [ "Reset", "d2/dcc/a16299.html#a0bda0f95bd97b9e755a745a8ea41ba49", null ],
-    [ "UpdateAI", "d2/dcc/a16299.html#a0a073e4c216985607aa51099044ff6c5", null ],
-    [ "WaypointReached", "d2/dcc/a16299.html#a44b06a6a977d20b03ed663f1090ed43c", null ],
-    [ "WaypointReached", "d2/dcc/a16299.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "DemoralizingShoutTimer", "d2/dcc/a16299.html#ab5d1786735adea4bce1bba8adf42a877", null ]
+    [ "npc_cairne_bloodhoofAI", "da/d46/a16303.html", "da/d46/a16303" ],
+    [ "npc_cairne_bloodhoof", "d2/dcc/a16299.html#a3519d94c5fcdc3d55e31c49c7773e56c", null ],
+    [ "GetAI", "d2/dcc/a16299.html#a1c34470c46ae9e98684de0e786be28b7", null ]
 ];

@@ -1,6 +1,6 @@
 var a14223 =
 [
-    [ "CheckRequirement", "de/d7a/a14223.html#a31d69034f463d552afa4063bf89271da", null ],
-    [ "PrepareSpellScript", "de/d7a/a14223.html#adc2176d25d25167b8a1fa9517e2ab945", null ],
-    [ "Register", "de/d7a/a14223.html#a5bb1eff829db1f7ecd3dbf61b821c328", null ]
+    [ "ModDestHeight", "de/d7a/a14223.html#ae5e63f8d6e9e3fa05a82cd5708b44527", null ],
+    [ "PrepareSpellScript", "de/d7a/a14223.html#a7447499330dc583210b7a172265dbb69", null ],
+    [ "Register", "de/d7a/a14223.html#a75e577bbe27b2742f6209b7d295dcafa", null ]
 ];

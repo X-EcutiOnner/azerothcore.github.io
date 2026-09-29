@@ -1,5 +1,9 @@
 var a20783 =
 [
-    [ "go_ulduar_do_not_push_this_button", "dc/d84/a20783.html#aa204af213a643c001161e0c2f173ee6b", null ],
-    [ "OnGossipHello", "dc/d84/a20783.html#ae11efa54b496ab21600a9c62e50b5fbe", null ]
+    [ "OnApply", "dc/d84/a20783.html#aaf6e89fc5d101b1622666a6fe15f20e7", null ],
+    [ "OnRemove", "dc/d84/a20783.html#a9bfdefb3e212cca086dec752687e2b93", null ],
+    [ "OnRemoveSelf", "dc/d84/a20783.html#a3076446d6761263fdb7f973f01be3cf2", null ],
+    [ "PrepareAuraScript", "dc/d84/a20783.html#a685d6c0ffcc258f9d6857242cb28f6a8", null ],
+    [ "Register", "dc/d84/a20783.html#a1369972dfbf969cb39efa88075fc13df", null ],
+    [ "Validate", "dc/d84/a20783.html#ada8c858f70beb71765fd0f796209677b", null ]
 ];

@@ -1,10 +1,9 @@
 var a05687 =
 [
-    [ "Find", "d2/de1/a05687.html#a1d6a7cd1596aa03a8e53609c7d7b6e33", null ],
-    [ "GetElements", "d2/de1/a05687.html#a653b00a9d570ae9d9276a061beda3f35", null ],
-    [ "GetElements", "d2/de1/a05687.html#a209cbb9e5ba70b9f5f66e64e2c36411d", null ],
-    [ "Insert", "d2/de1/a05687.html#ad61d9aa314133d8eba934fe56cff48e0", null ],
-    [ "Remove", "d2/de1/a05687.html#a5a9666fc5f0136a778d8c542a386d4bf", null ],
-    [ "Size", "d2/de1/a05687.html#a289258c9015016a70d2867df7e113def", null ],
-    [ "_elements", "d2/de1/a05687.html#adda6657e9a0fd08b105cd4d6b2baa9d3", null ]
+    [ "Count", "d2/de1/a05687.html#a05f606f459c905632d1452727bc93a0d", null ],
+    [ "GetElements", "d2/de1/a05687.html#a260f2bd14ae022a5810539ba87cec51e", null ],
+    [ "GetElements", "d2/de1/a05687.html#ab67e427fb3f82553e2253288e036d1ae", null ],
+    [ "Insert", "d2/de1/a05687.html#a791a9c0d1c878323960e529e0c7b66c8", null ],
+    [ "Remove", "d2/de1/a05687.html#abfb5e987b1c711d259896708887ca6d7", null ],
+    [ "i_elements", "d2/de1/a05687.html#a095f3a1caf74ca4e9e12ecca538a0cc4", null ]
 ];

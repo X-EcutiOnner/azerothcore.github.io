@@ -1,8 +1,10 @@
 var a16571 =
 [
-    [ "npc_twilight_summon", "db/dfc/a16571.html#a34697edd1af94814862a50a038625f93", null ],
-    [ "DoAction", "db/dfc/a16571.html#a78ef5af35959e8bedbf7a23569a2f8bd", null ],
-    [ "Reset", "db/dfc/a16571.html#aa909fac05e93a78d3f70222fb82a6841", null ],
-    [ "UpdateAI", "db/dfc/a16571.html#afe47f7af23aa7ef5b59473579c649859", null ],
-    [ "fadeArmorTimer", "db/dfc/a16571.html#a998e2efd9e25915d32b953d684352511", null ]
+    [ "boss_sartharion_tenebron", "db/dfc/a16571.html#aed0f47aa2ed463ae0d2219e54e7b91bc", null ],
+    [ "ClearInstance", "db/dfc/a16571.html#ac21b27a510d6c087d19bebe2b2a5426b", null ],
+    [ "ExecuteEvent", "db/dfc/a16571.html#ad61c290ccbd36d9b1bb24d6c44f390c3", null ],
+    [ "JustDied", "db/dfc/a16571.html#aa57a9180c2fbc2441622a6b3b4fd1fb1", null ],
+    [ "JustSummoned", "db/dfc/a16571.html#ae4e49d7bee95c929ece64beeca940a0a", null ],
+    [ "Reset", "db/dfc/a16571.html#a5bd12ada3fc396478ebbe39329aaf74b", null ],
+    [ "summons2", "db/dfc/a16571.html#a59b131fcd2298640390fcd0f662f132d", null ]
 ];

@@ -1,23 +1,10 @@
 var a05183 =
 [
-    [ "AutoEquipItem", "db/dbd/a11365.html", "db/dbd/a11365" ],
-    [ "AutoEquipItemSlot", "da/d90/a11357.html", "da/d90/a11357" ],
-    [ "AutoStoreBagItem", "d6/d22/a11397.html", "d6/d22/a11397" ],
-    [ "BuybackItem", "d2/d50/a11381.html", "d2/d50/a11381" ],
-    [ "BuyItem", "d2/dbf/a11389.html", "d2/dbf/a11389" ],
-    [ "BuyItemInSlot", "d9/dab/a11385.html", "d9/dab/a11385" ],
-    [ "CancelTempEnchantment", "d6/d2e/a11417.html", "d6/d2e/a11417" ],
-    [ "DestroyItem", "df/d07/a11369.html", "df/d07/a11369" ],
-    [ "EnchantmentLog", "d5/dc9/a11401.html", "d5/dc9/a11401" ],
-    [ "ItemEnchantTimeUpdate", "d6/d5e/a11405.html", "d6/d5e/a11405" ],
-    [ "ItemRefund", "dd/d54/a11425.html", "dd/d54/a11425" ],
-    [ "ItemRefundInfo", "d7/d62/a11421.html", "d7/d62/a11421" ],
-    [ "ListInventory", "d7/d3b/a11393.html", "d7/d3b/a11393" ],
-    [ "ReadItem", "d0/d5e/a11373.html", "d0/d5e/a11373" ],
-    [ "SellItem", "da/da4/a11377.html", "da/da4/a11377" ],
-    [ "SocketGems", "d2/d2d/a11413.html", "d2/d2d/a11413" ],
-    [ "SplitItem", "de/d3e/a11349.html", "de/d3e/a11349" ],
-    [ "SwapInventoryItem", "de/d77/a11353.html", "de/d77/a11353" ],
-    [ "SwapItem", "d3/d97/a11361.html", "d3/d97/a11361" ],
-    [ "WrapItem", "d0/da2/a11409.html", "d0/da2/a11409" ]
+    [ "BladeEdgeArenaRope", "d1/ddd/a10519.html", "d1/ddd/a10519" ],
+    [ "GetClosestPointOnBladeEdgeArenaRope", "d7/d48/a05183.html#ad6fb8ac315aae658ae30abe0ed4b0536", null ],
+    [ "IsOutsideExpandedXYBounds", "d7/d48/a05183.html#a71f129f45def5530dd577d961f33ff75", null ],
+    [ "TrySnapToBladeEdgeArenaRope", "d7/d48/a05183.html#a7545d55edb64810e769569909d3f22cc", null ],
+    [ "BLADE_EDGE_ROPE_SNAP_DIST", "d7/d48/a05183.html#a4bd7d9d834123be5931eda51fb882654", null ],
+    [ "BLADE_EDGE_ROPE_SNAP_DIST2", "d7/d48/a05183.html#aab9750e7a18e090ee53c16bb42eb1873", null ],
+    [ "BladeEdgeArenaRopes", "d7/d48/a05183.html#a5bd7b066b349914a5d42899d3c1f7ce8", null ]
 ];

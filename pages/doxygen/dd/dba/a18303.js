@@ -1,7 +1,6 @@
 var a18303 =
 [
-    [ "npc_coldflameAI", "dd/dba/a18303.html#a2a8420b79357f7a2167dddbd68ec8bc0", null ],
-    [ "IsSummonedBy", "dd/dba/a18303.html#a1a330428ac8f17dc673fb1ae4d57035a", null ],
-    [ "UpdateAI", "dd/dba/a18303.html#a5a847ae7c15b309cb1393b6d16a6e220", null ],
-    [ "events", "dd/dba/a18303.html#af3b7d4ca1b268fe0d786eee83c0a3596", null ]
+    [ "BoneStormMoveTargetSelector", "dd/dba/a18303.html#acd13e67fbbc29137ca2b77aaf9dc0e77", null ],
+    [ "operator()", "dd/dba/a18303.html#a5b53c140d38db0df8faef3dfaf5c458d", null ],
+    [ "_source", "dd/dba/a18303.html#a03d8b1ec5f18398fe2963418bb319973", null ]
 ];

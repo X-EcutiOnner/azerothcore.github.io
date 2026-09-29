@@ -1,16 +1,18 @@
 var a05006 =
 [
-    [ "frand", "d5/dc0/a05006.html#a19bd31014583536af788a65b398e4406", null ],
-    [ "GetRng", "d5/dc0/a05006.html#a8602a67daa881e92c3eb9204c88b7733", null ],
-    [ "irand", "d5/dc0/a05006.html#a6ae07d2bb0593d8339e65c136f63ecc0", null ],
-    [ "rand32", "d5/dc0/a05006.html#ac699324b85bb2266ea8978796967c541", null ],
-    [ "rand_chance", "d5/dc0/a05006.html#a66621d09a8cc2aa9476391004fe2c427", null ],
-    [ "rand_norm", "d5/dc0/a05006.html#af2f9363ceebb6f78067b4a146d1de9df", null ],
-    [ "randtime", "d5/dc0/a05006.html#a9ecda65ea9686c86f47934d04d38ec69", null ],
-    [ "randtime", "d5/dc0/a05006.html#a7c8533961af63b720553e868fdaabd85", null ],
-    [ "urand", "d5/dc0/a05006.html#ab17def34ccbbd868dc87a16bf35acdbd", null ],
-    [ "urandms", "d5/dc0/a05006.html#af901d57f29ff48f701a375e44a0f1261", null ],
-    [ "urandweighted", "d5/dc0/a05006.html#a3f7e714c8fc3a6f6ccbe91d524a84f23", null ],
-    [ "engine", "d5/dc0/a05006.html#a8ab11e2fa939d9f333dfa1a858e7690b", null ],
-    [ "sfmtRand", "d5/dc0/a05006.html#a131ba7587aa544a7e73ff9884d6bc784", null ]
+    [ "Days", "d5/dc0/a05006.html#af5dc5e7ad7b3f6d8e84530de842d125b", null ],
+    [ "Hours", "d5/dc0/a05006.html#aa0f87984d2b3835a61dffc22ae8bf083", null ],
+    [ "Microseconds", "d5/dc0/a05006.html#a201a83ed0d59d2baf946daf42dac834f", null ],
+    [ "Milliseconds", "d5/dc0/a05006.html#a1c3834b9e3853535027d58bf21bec81f", null ],
+    [ "Minutes", "d5/dc0/a05006.html#af2161f9db850581e2228078614990df8", null ],
+    [ "Months", "d5/dc0/a05006.html#a5f2ffeea2459944dfaa4443f1efb7f42", null ],
+    [ "Seconds", "d5/dc0/a05006.html#a3cd82f1c195a0b935b4d66b02a41acd8", null ],
+    [ "SystemTimePoint", "d5/dc0/a05006.html#ada798961abc5a533d616ff780f567bb6", null ],
+    [ "TimePoint", "d5/dc0/a05006.html#ae5ca775e8d8c664b6edef818ce1251b9", null ],
+    [ "Weeks", "d5/dc0/a05006.html#a983745490d3d3a0322c4ccf0f418f179", null ],
+    [ "Years", "d5/dc0/a05006.html#ab4fa20b33a9b5ee358963159b01d72f3", null ],
+    [ "operator\"\"_days", "d5/dc0/a05006.html#ae62919aa53468bfadd4984bdd0498c03", null ],
+    [ "operator\"\"_months", "d5/dc0/a05006.html#a7f38d5f5e7db75251b49712f910059ac", null ],
+    [ "operator\"\"_weeks", "d5/dc0/a05006.html#a7ff3ff81243ee7b2ce873364bb7ad676", null ],
+    [ "operator\"\"_years", "d5/dc0/a05006.html#a25baa64022678f43cf423c945dbd0226", null ]
 ];

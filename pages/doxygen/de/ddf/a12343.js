@@ -1,9 +1,7 @@
 var a12343 =
 [
-    [ "bytes", "de/ddf/a12343.html#a3a2997d203c186bc3cd54a9ba4235319", null ],
-    [ "bytes", "de/ddf/a12343.html#a8484412ccb13cf396a4dc28b86f65b4e", null ],
-    [ "bytes", "de/ddf/a12343.html#a811f59fc775a37c7c9eaaae2f175c864", null ],
-    [ "ints", "de/ddf/a12343.html#a0518eb4b0a91697500a5a370068425a8", null ],
-    [ "ints", "de/ddf/a12343.html#a08efba5e78b64fef020453f689bcc5f0", null ],
-    [ "ints", "de/ddf/a12343.html#a6b901fe41612a05e97dff474fbeff7f6", null ]
+    [ "Command", "de/ddf/a12343.html#a6042a93c52d18e3a74d3cd46ac3d940f", null ],
+    [ "ModuleId", "de/ddf/a12343.html#aa2e1c1cee71fc1eb887511c655de0516", null ],
+    [ "ModuleKey", "de/ddf/a12343.html#aba0f236c39186022816bd86f8e8e9093", null ],
+    [ "Size", "de/ddf/a12343.html#a6912224c1ef6fd117a5ed02d394254d9", null ]
 ];

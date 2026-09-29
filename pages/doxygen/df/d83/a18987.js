@@ -1,12 +1,6 @@
 var a18987 =
 [
-    [ "npc_the_lich_king_controllerAI", "df/d83/a18987.html#a211c370e9c370e00fba3c83e51738886", null ],
-    [ "AttackStart", "df/d83/a18987.html#a58e11746c14f6bbb1b5c56c1d0136d9f", null ],
-    [ "DoAction", "df/d83/a18987.html#aaf940a0ca812d84dbde81fc7e41feaca", null ],
-    [ "JustSummoned", "df/d83/a18987.html#aa610e24316505165cbb826ff5bece5c5", null ],
-    [ "MoveInLineOfSight", "df/d83/a18987.html#a0ee33ab5733c12163e92213376e893e4", null ],
-    [ "Reset", "df/d83/a18987.html#a2c4410cc2ad995452f742f79e8e4af8b", null ],
-    [ "UpdateAI", "df/d83/a18987.html#a34a0295ad1a45a9bc060ff8595c22e14", null ],
-    [ "_events", "df/d83/a18987.html#a90c3d818318004c7c21ec66d4d080615", null ],
-    [ "_instance", "df/d83/a18987.html#a480a284881ba5f56bc6222607bd01a76", null ]
+    [ "npc_green_dragon_combat_triggerAI", "da/dba/a18991.html", "da/dba/a18991" ],
+    [ "npc_green_dragon_combat_trigger", "df/d83/a18987.html#acec675494f5e5e9609bf34b7f25cb569", null ],
+    [ "GetAI", "df/d83/a18987.html#a945b7cd0084873c17d52b3c2cc3ede22", null ]
 ];

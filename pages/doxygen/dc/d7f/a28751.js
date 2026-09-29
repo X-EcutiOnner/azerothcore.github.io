@@ -1,6 +1,6 @@
 var a28751 =
 [
-    [ "npc_spring_rabbitAI", "dc/d82/a28755.html", "dc/d82/a28755" ],
-    [ "npc_spring_rabbit", "dc/d7f/a28751.html#a4e2ed1f556edd535a8d262d7e0bdfa1a", null ],
-    [ "GetAI", "dc/d7f/a28751.html#a968933658fbcc7f7cbdfca90fd9a68dc", null ]
+    [ "npc_experience", "dc/d7f/a28751.html#a48ea13099fd32bcae1543a152de0bdf4", null ],
+    [ "OnGossipHello", "dc/d7f/a28751.html#a78fccaa36d1c42e33774a9b23f867a72", null ],
+    [ "OnGossipSelect", "dc/d7f/a28751.html#a140ece91c8b6d91bd91d64d6e9b625e8", null ]
 ];

@@ -1,6 +1,6 @@
 var a24431 =
 [
-    [ "npc_kservantAI", "da/d6e/a24435.html", "da/d6e/a24435" ],
-    [ "npc_kservant", "df/d96/a24431.html#af04c8a87516e41f7d35071664034af9d", null ],
-    [ "GetAI", "df/d96/a24431.html#a3ae7327ec2ead5a2d3ffb043f18ccc09", null ]
+    [ "PrepareSpellScript", "df/d96/a24431.html#aa858fff409e5c75d865c91cb5fbef679", null ],
+    [ "Register", "df/d96/a24431.html#a0deddf7497d3bdb82901d612dce28dc9", null ],
+    [ "SetDest", "df/d96/a24431.html#a7b9a31e79d13af130566cda1fcb5dac1", null ]
 ];

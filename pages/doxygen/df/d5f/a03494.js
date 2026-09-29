@@ -1,11 +1,9 @@
 var a03494 =
 [
-    [ "npc_announcer_toc10", "d9/dc3/a17231.html", "d9/dc3/a17231" ],
-    [ "MenuTexts", "df/d5f/a03494.html#a5e87c460d493df2d4629af8c1a30fc5a", [
-      [ "MSG_TESTED", "df/d5f/a03494.html#a5e87c460d493df2d4629af8c1a30fc5aa462de44eca88c95eb9e412dcabc36185", null ],
-      [ "MSG_NEXT_STAGE", "df/d5f/a03494.html#a5e87c460d493df2d4629af8c1a30fc5aafb4b982343fbe7bdd8db85adec53db80", null ],
-      [ "MSG_CRUSADERS", "df/d5f/a03494.html#a5e87c460d493df2d4629af8c1a30fc5aa0f20061fedbed395c6723105b82e091d", null ],
-      [ "MSG_ANUBARAK", "df/d5f/a03494.html#a5e87c460d493df2d4629af8c1a30fc5aad43353382c7c2b60068aa5b306b62643", null ]
-    ] ],
-    [ "AddSC_trial_of_the_crusader", "df/d5f/a03494.html#aae8fa1928137dde06462a753ceebcca6", null ]
+    [ "FactorySelector::PermissibleOrderPred< T >", "db/deb/a06635.html", "db/deb/a06635" ],
+    [ "GetPermitFor", "df/d5f/a03494.html#aaf9c138ae6c123d03859db553a39892d", null ],
+    [ "SelectAI", "df/d5f/a03494.html#a10fef1ff3335f4642179ee423b1ff0d6", null ],
+    [ "SelectFactory", "df/d5f/a03494.html#ad553c2186f078e696768d40d217738f8", null ],
+    [ "SelectGameObjectAI", "df/d5f/a03494.html#a2ce404e9b85f551638d8783c01a19860", null ],
+    [ "SelectMovementGenerator", "df/d5f/a03494.html#a203d17bf72c42c0d3fdb77626b01b679", null ]
 ];

@@ -1,6 +1,7 @@
 var a16847 =
 [
-    [ "npc_black_knight_skeletal_gryphonAI", "d8/dc2/a16851.html", "d8/dc2/a16851" ],
-    [ "npc_black_knight_skeletal_gryphon", "d1/da3/a16847.html#a5dc83a92fbe2eb4d6faa30f23a9ac777", null ],
-    [ "GetAI", "d1/da3/a16847.html#aad244f95877a208b56a2b6544984d724", null ]
+    [ "HandleAfterEffectAbsorb", "d1/da3/a16847.html#ab3d9f3679931b4b3b29713602d08701d", null ],
+    [ "PrepareAuraScript", "d1/da3/a16847.html#a10ee3cda9edfec8140b94e13b88266bd", null ],
+    [ "Register", "d1/da3/a16847.html#ab68a5ccfb0d96390bb83c329eb849cdd", null ],
+    [ "Validate", "d1/da3/a16847.html#a87750183d2b2d6adb67bba4a1f767029", null ]
 ];

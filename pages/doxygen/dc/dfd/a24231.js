@@ -1,6 +1,9 @@
 var a24231 =
 [
-    [ "go_magtheridons_head", "dc/dfd/a24231.html#af5816b083f1856196bec7a75f0a995f3", null ],
-    [ "InitializeAI", "dc/dfd/a24231.html#a84fd97c0dfc2826a0b7795a9fbd70cd5", null ],
-    [ "OnStateChanged", "dc/dfd/a24231.html#a28682d161074b71e1f2d70236ff2b897", null ]
+    [ "npc_fel_guard_houndAI", "dc/dfd/a24231.html#af8b3a9b56e4bdf8d8b654ecccd096651", null ],
+    [ "MovementInform", "dc/dfd/a24231.html#a127a0d7b61fde64c0ced52192f438f12", null ],
+    [ "Reset", "dc/dfd/a24231.html#ab979c3602897b1148ffd5d4a81941197", null ],
+    [ "UpdateAI", "dc/dfd/a24231.html#a97a59eec672d7dfe36264d34b922d0c8", null ],
+    [ "checkTimer", "dc/dfd/a24231.html#ad22bb6efafb4396cd0137c1384240029", null ],
+    [ "helboarGUID", "dc/dfd/a24231.html#aadcf9b51dbcaa1e62b6619b89d865814", null ]
 ];

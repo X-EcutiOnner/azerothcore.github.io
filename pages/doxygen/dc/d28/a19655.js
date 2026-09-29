@@ -1,6 +1,7 @@
 var a19655 =
 [
-    [ "boss_loathebAI", "d7/d31/a19659.html", "d7/d31/a19659" ],
-    [ "boss_loatheb", "dc/d28/a19655.html#a93bf8055a9ed900c880ef8b81b87bafd", null ],
-    [ "GetAI", "dc/d28/a19655.html#aca9b3a2515777f81b354c01a9727276e", null ]
+    [ "FilterTargets", "dc/d28/a19655.html#af92aec0df6c962a10ccbebb366081cfd", null ],
+    [ "PrepareSpellScript", "dc/d28/a19655.html#ad7ccb2b2024887ec0a9802454a8bfaec", null ],
+    [ "Register", "dc/d28/a19655.html#af59416debfc7685bec92541a00e1dafe", null ],
+    [ "Validate", "dc/d28/a19655.html#abbe7ae557fb510457504f72adfa0aedc", null ]
 ];

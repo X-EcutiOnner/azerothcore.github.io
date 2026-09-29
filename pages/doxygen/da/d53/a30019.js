@@ -1,8 +1,7 @@
 var a30019 =
 [
-    [ "TestOocPlayerScript", "da/d53/a30019.html#ad8a63387a46b252a555b5d48b0f73d55", null ],
-    [ "EnsureRegistered", "da/d53/a30019.html#a485c732b5cc87e418e1e8b0fdb80e5b7", null ],
-    [ "OnPlayerCompleteQuest", "da/d53/a30019.html#a7288e4227b28edebe4723c14ef56bce1", null ],
-    [ "OnPlayerLevelChanged", "da/d53/a30019.html#a0d2fa7743649d3443f49654d55ca1558", null ],
-    [ "Instance", "da/d53/a30019.html#a58269b1a038bfbdc8c9dafd058d16b5e", null ]
+    [ "ExpectDate", "da/d53/a30019.html#a4d45a7190580f2191020d031ad0aab10", null ],
+    [ "IsLeapYear", "da/d53/a30019.html#af80c133dce034eed150593681fba594d", null ],
+    [ "IsValidDate", "da/d53/a30019.html#af1ee91196bfb749605bf98f4441a03a4", null ],
+    [ "NormalizeTm", "da/d53/a30019.html#af4587d4154c059f5e472f00f141a771a", null ]
 ];

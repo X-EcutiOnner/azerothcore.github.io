@@ -1,7 +1,8 @@
 var a17707 =
 [
-    [ "HandleScriptEffect", "d5/d1e/a17707.html#a6469efa0e1fabaf1cb366f119a1158c1", null ],
-    [ "PrepareSpellScript", "d5/d1e/a17707.html#aac410690d906867216b40a49d8f15318", null ],
-    [ "Register", "d5/d1e/a17707.html#ae8c7acabe93fc33d13f0b8848415eabf", null ],
-    [ "Validate", "d5/d1e/a17707.html#a88c3961d5757dd0c75be4acc7de6e45b", null ]
+    [ "boss_eck", "d5/d1e/a17707.html#a665b54f72e674c8f65dd09daba5413db", null ],
+    [ "InitializeAI", "d5/d1e/a17707.html#a92e5117337d372e1700d074f02c06df6", null ],
+    [ "JustEngagedWith", "d5/d1e/a17707.html#ac719d6bbebe6c1c3e70d54f4bd48e116", null ],
+    [ "MovementInform", "d5/d1e/a17707.html#aeaa0388d9fee4c6a025f823cd9e7e650", null ],
+    [ "SpellHitTarget", "d5/d1e/a17707.html#a63125d970933d6fa1f196aa28c588f40", null ]
 ];

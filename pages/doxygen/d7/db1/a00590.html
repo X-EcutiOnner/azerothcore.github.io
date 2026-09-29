@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Scripting/ScriptMgr.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/scripts/OutdoorPvP/OutdoorPvPGH.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,59 +106,76 @@ $(document).ready(function(){initNavTree('d7/db1/a00590.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#namespaces">Namespaces</a> &#124;
-<a href="#typedef-members">Typedefs</a> &#124;
-<a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">ScriptMgr.cpp File Reference</div></div>
+<a href="#enum-members">Enumerations</a>  </div>
+  <div class="headertitle"><div class="title">OutdoorPvPGH.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">ScriptMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">AllScriptsObjects.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">InstanceScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">LFGScripts.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptSystem.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SmartAI.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Utilities/TypeList.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">UnitAI.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">OutdoorPvP.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d9d/a10963.html">anonymous_namespace{ScriptMgr.cpp}::ScriptTypeInfo&lt; Script, EnabledHookCountValue, PromotedAfterDbLoadValue, LegacyDbValidationValue &gt;</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dc7/a22699.html">OutdoorPvPGH</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d9b/a06643.html">TSpellSummary</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
-Namespaces</h2></td></tr>
-<tr class="memitem:dc/ded/a05184"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/ded/a05184.html">anonymous_namespace{ScriptMgr.cpp}</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d34/a22703.html">OPvPCapturePointGH</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
-Typedefs</h2></td></tr>
-<tr class="memitem:a0e91545a04304e85e47b9e1697318ecb"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/ded/a05184.html#a0e91545a04304e85e47b9e1697318ecb">anonymous_namespace{ScriptMgr.cpp}::ScriptRegistryTypes</a> = <a class="el" href="../../d3/d59/a06003.html">Acore::type_list</a>&lt; ScriptTypeInfo&lt; <a class="el" href="../../d2/d53/a10735.html">AccountScript</a>, <a class="el" href="../../d6/dc0/a00734.html#a4b5c567266fc875ca26b1f3c273a0e3fafdbdba3262877bcac001a3013cdd4f5f">ACCOUNTHOOK_END</a> &gt;, ScriptTypeInfo&lt; <a class="el" href="../../db/d5e/a10739.html">AchievementCriteriaScript</a>, 0, true, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d3/d47/a10743.html">AchievementScript</a>, <a class="el" href="../../d1/d93/a00875.html#a62b7eadebfd59858b2e2f1a8713a3ae1a2df8c3284122e09fda0d8f4b7789732c">ACHIEVEMENTHOOK_END</a>, false, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d7/dfd/a10759.html">AllCreatureScript</a> &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d9/ded/a10763.html">AllGameObjectScript</a> &gt;, ScriptTypeInfo&lt; <a class="el" href="../../dd/d77/a10767.html">AllItemScript</a> &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d9/d35/a10771.html">AllMapScript</a>, <a class="el" href="../../d5/dae/a00767.html#a78db4e64fe232d8b547270090d8e3b92a51af3c739d320ca228fb73e3d7c48b95">ALLMAPHOOK_END</a> &gt;, ScriptTypeInfo&lt; <a class="el" href="../../db/d4a/a10779.html">AreaTriggerScript</a>, 0, true, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d0/d9a/a10787.html">ArenaScript</a>, <a class="el" href="../../d5/d8a/a00599.html#a93515f145fed15b3645f2240f39214baa2958c395c6475e07a7dff62d1014ae58">ARENAHOOK_END</a>, false, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d4/daf/a10791.html">ArenaTeamScript</a>, <a class="el" href="../../d5/d72/a00803.html#adfb7077026efd17516d6b85637c2b218a5fe29b394fe4fe74fffe7988b90ccaf7">ARENATEAMHOOK_END</a>, false, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../dd/ddf/a10795.html">AuctionHouseScript</a>, <a class="el" href="../../d3/d00/a00785.html#a12159e90d998de411ceb193c223f26c9af4325d8b8ea36fcf62bcf309a84918fc">AUCTIONHOUSEHOOK_END</a>, false, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d3/dee/a10799.html">BattlefieldScript</a>, <a class="el" href="../../d2/d94/a00716.html#ad9fb0d66e6cd28e54d79830f1d725089a9cf810f91cd96143031bfde1f463ebac">BATTLEFIELDHOOK_END</a> &gt;, ScriptTypeInfo&lt; <a class="el" href="../../df/d0e/a00800.html#ae9cb670a445a9cb3089a66cdcc822d0e">BGScript</a>, <a class="el" href="../../df/d0e/a00800.html#a17a6e2af65c8cf024623d584c7f3a11fa0e3bc87a05b030bbdb15eda213d5b6af">ALLBATTLEGROUNDHOOK_END</a>, false, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d9/df4/a10803.html">BattlegroundMapScript</a>, 0, true, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../dd/d19/a10807.html">BattlegroundScript</a>, 0, true, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../dc/d6e/a00833.html#a0c35d8c2fdd730a0360fd00502881c03">CommandSC</a>, <a class="el" href="../../dc/d6e/a00833.html#a57c7df35e0370887ade698d62704997bac10a14231ce403ff1812e0ec03700812">ALLCOMMANDHOOK_END</a>, false, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d7/d50/a10811.html">CommandScript</a>, 0, false, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../dc/d33/a10815.html">ConditionScript</a>, 0, true, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d0/dc2/a10819.html">CreatureScript</a>, 0, true, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d0/d7c/a10831.html">DatabaseScript</a>, <a class="el" href="../../d9/d0f/a00644.html#a5f7dd71299279ad5a845d4d4030e707eaf2e5c468c0dfdec9fc3dea4359a93d04">DATABASEHOOK_END</a>, false, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../de/d5c/a10835.html">DynamicObjectScript</a>, 0, false, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d5/d28/a10747.html">ALEScript</a> &gt;, ScriptTypeInfo&lt; <a class="el" href="../../db/da7/a10839.html">FormulaScript</a>, <a class="el" href="../../d4/d2a/a00632.html#a201bafc9783763d9953381d3aa09bf69a9a1299486f5025ac19ec955832a0813f">FORMULAHOOK_END</a>, false, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d5/d88/a10843.html">GameEventScript</a>, <a class="el" href="../../db/d77/a00683.html#a6f634b591917b5ff2ab57f9739afa44baef9ad9e7c26fbfcea336dddf0e16d395">GAMEEVENTHOOK_END</a> &gt;, ScriptTypeInfo&lt; <a class="el" href="../../db/d81/a10847.html">GameObjectScript</a>, 0, true, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../df/d28/a10859.html">GlobalScript</a>, <a class="el" href="../../df/d9e/a00686.html#a9442fcdfa182319eedd41c65183aa54faaf8763605020a918c2880562446d020a">GLOBALHOOK_END</a> &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d0/da5/a10863.html">GroupScript</a>, <a class="el" href="../../dd/db2/a00866.html#a373b3fe6b402e8321892b8c1be74ab5da71a6d6ef47c3bda7d088f579b6f3a5f2">GROUPHOOK_END</a>, false, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d3/d64/a10867.html">GuildScript</a>, <a class="el" href="../../d0/dad/a00806.html#a5cb9f5f21f7f7d0e793d70058163507ea85e0e175b03a5491dec2498ff4c415bb">GUILDHOOK_END</a>, false, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d8/d9a/a10871.html">InstanceMapScript</a>, 0, true, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d2/d8d/a10879.html">ItemScript</a>, 0, true, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../dd/dee/a10883.html">LootScript</a>, <a class="el" href="../../db/d7c/a00722.html#a39ce94de1e8ce6b7055130ac7f40632bab03a0874b2fda00aeb19e4b5ab077fea">LOOTHOOK_END</a> &gt;, ScriptTypeInfo&lt; <a class="el" href="../../de/def/a10887.html">MailScript</a>, <a class="el" href="../../dd/db2/a00737.html#a7a2fb0cc0937712e8aff65574e1068d6a97af521f76b0d427812db0ac3303f285">MAILHOOK_END</a> &gt;, ScriptTypeInfo&lt; <a class="el" href="../../dd/db5/a10891.html">MiscScript</a>, <a class="el" href="../../df/d0c/a00788.html#af37f873b1735a7e1f78da6f2f334c134ae8c3fca40135e387a84d7156f26a16c9">MISCHOOK_END</a>, false, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d6/d5a/a10899.html">MovementHandlerScript</a>, <a class="el" href="../../d0/d82/a00857.html#a5763e953c65ba38409a14469a1fe2842ae0cf6cfe134c99cc596bac2607905b9c">MOVEMENTHOOK_END</a> &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d3/d77/a10903.html">OutdoorPvPScript</a>, 0, true, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d9/d6d/a10907.html">PetScript</a>, <a class="el" href="../../d5/de8/a00749.html#a2e6398af59b176e045eece50b1a5d404aa71e862274b6066ffe8af41bccdac911">PETHOOK_END</a>, false, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../df/d82/a10911.html">PlayerScript</a>, <a class="el" href="../../da/d36/a00650.html#a7d525e751616f7554a64c9ae6e12a357a50b5e2c75225d4ec9a0c5f9f32b889b9">PLAYERHOOK_END</a>, false, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d2/d93/a10915.html">ServerScript</a>, <a class="el" href="../../d4/d10/a00635.html#af8cee964a488266c6dec6c3b76b1a2d9a9292463242a21cee981d7f24a964e6dc">SERVERHOOK_END</a>, false, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d1/df8/a10919.html">SessionScript</a>, <a class="el" href="../../d0/d11/a00842.html#abcfe5f953b681332b6fa0ec61a1af767a888b2d645a564e5396656ccbcb90bcd6">SESSIONHOOK_END</a> &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d5/d5b/a00695.html#a743e879dd1df387001a0db3b0bf31d0e">SpellSC</a>, <a class="el" href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbca2bbf250e329e80a9f113eadfe4aab98f">ALLSPELLHOOK_END</a>, false, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d9/dc6/a10923.html">SpellScriptLoader</a>, 0, true, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d0/d35/a10931.html">TicketScript</a>, <a class="el" href="../../d6/d2f/a00854.html#af2de2d4afd6c8a1968e6e4b055620b72a12665f6e053ad59e5e6cb0ca56d92222">TICKETHOOK_END</a>, false, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../db/ddc/a10935.html">TransportScript</a>, 0, true, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d7/de2/a10939.html">UnitScript</a>, <a class="el" href="../../da/dd1/a00629.html#a4eaefcbbd1058569f55194299c218c26af159e92a1ac42831ecbad7dbb708f352">UNITHOOK_END</a> &gt;, ScriptTypeInfo&lt; <a class="el" href="../../df/dd8/a10943.html">VehicleScript</a>, 0, false, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d3/dbd/a10947.html">WeatherScript</a>, 0, true, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../df/ddd/a10951.html">WorldMapScript</a>, 0, true, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../db/df7/a10955.html">WorldObjectScript</a>, <a class="el" href="../../d1/d87/a00689.html#ab8a14556853bd2637a19973d68ba6d1ca4efa80e98b34555980ec0b06142a4c59">WORLDOBJECTHOOK_END</a> &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d6/d4c/a10959.html">WorldScript</a>, <a class="el" href="../../d1/d56/a00707.html#a4d497fc434376a9edca1897eabc39493a1a7e32e7ba7aec9dc7b8edd43a903800">WORLDHOOK_END</a>, false, true &gt; &gt;</td></tr>
-<tr class="separator:a0e91545a04304e85e47b9e1697318ecb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
-Variables</h2></td></tr>
-<tr class="memitem:ae56af266ccaa1794f1f014938b07e9cc"><td class="memItemLeft" align="right" valign="top">struct <a class="el" href="../../dd/d9b/a06643.html">TSpellSummary</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db1/a00590.html#ae56af266ccaa1794f1f014938b07e9cc">SpellSummary</a></td></tr>
-<tr class="separator:ae56af266ccaa1794f1f014938b07e9cc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
+Enumerations</h2></td></tr>
+<tr class="memitem:a68fd4e51a6ab53a5f6bc93fe7800623b"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db1/a00590.html#a68fd4e51a6ab53a5f6bc93fe7800623b">OutdoorPvPGHenum</a> { <br />
+&#160;&#160;<a class="el" href="../../d7/db1/a00590.html#a68fd4e51a6ab53a5f6bc93fe7800623ba4d9e1d2fb4e064d2ec502e86046044c3">GH_ALLIANCE_DEFENSE_EVENT</a> = 65
+, <br />
+&#160;&#160;<a class="el" href="../../d7/db1/a00590.html#a68fd4e51a6ab53a5f6bc93fe7800623babf83508167d0dcdfb12a95048d098d10">GH_HORDE_DEFENSE_EVENT</a> = 66
+, <br />
+&#160;&#160;<a class="el" href="../../d7/db1/a00590.html#a68fd4e51a6ab53a5f6bc93fe7800623ba5b111447969af668c37b96bdcb8e4e0f">GH_ZONE</a> = 394
+, <br />
+&#160;&#160;<a class="el" href="../../d7/db1/a00590.html#a68fd4e51a6ab53a5f6bc93fe7800623ba093fd7e4f043a87bac91a6d698f44b58">GH_QUEST_KEEP_EM_ON_THEIR_HEELS</a> = 12284
+, <br />
+&#160;&#160;<a class="el" href="../../d7/db1/a00590.html#a68fd4e51a6ab53a5f6bc93fe7800623bab570a16e35f63643cd666e8e9c67dce6">GH_QUEST_KICK_EM_WHILE_THEYRE_DOWN</a> = 12289
+, <br />
+&#160;&#160;<a class="el" href="../../d7/db1/a00590.html#a68fd4e51a6ab53a5f6bc93fe7800623ba611910e455b02d10a37996956708a414">GH_CREATURE_QUEST_BUNNY</a> = 27453
+<br />
+ }</td></tr>
+<tr class="separator:a68fd4e51a6ab53a5f6bc93fe7800623b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Variable Documentation</h2>
-<a id="ae56af266ccaa1794f1f014938b07e9cc" name="ae56af266ccaa1794f1f014938b07e9cc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae56af266ccaa1794f1f014938b07e9cc">&#9670;&#160;</a></span>SpellSummary</h2>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="a68fd4e51a6ab53a5f6bc93fe7800623b" name="a68fd4e51a6ab53a5f6bc93fe7800623b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a68fd4e51a6ab53a5f6bc93fe7800623b">&#9670;&#160;</a></span>OutdoorPvPGHenum</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">struct <a class="el" href="../../dd/d9b/a06643.html">TSpellSummary</a>* SpellSummary</td>
+          <td class="memname">enum <a class="el" href="../../d7/db1/a00590.html#a68fd4e51a6ab53a5f6bc93fe7800623b">OutdoorPvPGHenum</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
-
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a68fd4e51a6ab53a5f6bc93fe7800623ba4d9e1d2fb4e064d2ec502e86046044c3" name="a68fd4e51a6ab53a5f6bc93fe7800623ba4d9e1d2fb4e064d2ec502e86046044c3"></a>GH_ALLIANCE_DEFENSE_EVENT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a68fd4e51a6ab53a5f6bc93fe7800623babf83508167d0dcdfb12a95048d098d10" name="a68fd4e51a6ab53a5f6bc93fe7800623babf83508167d0dcdfb12a95048d098d10"></a>GH_HORDE_DEFENSE_EVENT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a68fd4e51a6ab53a5f6bc93fe7800623ba5b111447969af668c37b96bdcb8e4e0f" name="a68fd4e51a6ab53a5f6bc93fe7800623ba5b111447969af668c37b96bdcb8e4e0f"></a>GH_ZONE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a68fd4e51a6ab53a5f6bc93fe7800623ba093fd7e4f043a87bac91a6d698f44b58" name="a68fd4e51a6ab53a5f6bc93fe7800623ba093fd7e4f043a87bac91a6d698f44b58"></a>GH_QUEST_KEEP_EM_ON_THEIR_HEELS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a68fd4e51a6ab53a5f6bc93fe7800623bab570a16e35f63643cd666e8e9c67dce6" name="a68fd4e51a6ab53a5f6bc93fe7800623bab570a16e35f63643cd666e8e9c67dce6"></a>GH_QUEST_KICK_EM_WHILE_THEYRE_DOWN&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a68fd4e51a6ab53a5f6bc93fe7800623ba611910e455b02d10a37996956708a414" name="a68fd4e51a6ab53a5f6bc93fe7800623ba611910e455b02d10a37996956708a414"></a>GH_CREATURE_QUEST_BUNNY&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   24</span>{</div>
+<div class="line"><span class="lineno">   25</span>    <a class="code hl_enumvalue" href="../../d7/db1/a00590.html#a68fd4e51a6ab53a5f6bc93fe7800623ba4d9e1d2fb4e064d2ec502e86046044c3">GH_ALLIANCE_DEFENSE_EVENT</a>           = 65,</div>
+<div class="line"><span class="lineno">   26</span>    <a class="code hl_enumvalue" href="../../d7/db1/a00590.html#a68fd4e51a6ab53a5f6bc93fe7800623babf83508167d0dcdfb12a95048d098d10">GH_HORDE_DEFENSE_EVENT</a>              = 66,</div>
+<div class="line"><span class="lineno">   27</span> </div>
+<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../d7/db1/a00590.html#a68fd4e51a6ab53a5f6bc93fe7800623ba5b111447969af668c37b96bdcb8e4e0f">GH_ZONE</a>                             = 394,</div>
+<div class="line"><span class="lineno">   29</span> </div>
+<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../d7/db1/a00590.html#a68fd4e51a6ab53a5f6bc93fe7800623ba093fd7e4f043a87bac91a6d698f44b58">GH_QUEST_KEEP_EM_ON_THEIR_HEELS</a>     = 12284,</div>
+<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d7/db1/a00590.html#a68fd4e51a6ab53a5f6bc93fe7800623bab570a16e35f63643cd666e8e9c67dce6">GH_QUEST_KICK_EM_WHILE_THEYRE_DOWN</a>  = 12289,</div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d7/db1/a00590.html#a68fd4e51a6ab53a5f6bc93fe7800623ba611910e455b02d10a37996956708a414">GH_CREATURE_QUEST_BUNNY</a>             = 27453,</div>
+<div class="line"><span class="lineno">   33</span>};</div>
+<div class="ttc" id="aa00590_html_a68fd4e51a6ab53a5f6bc93fe7800623ba093fd7e4f043a87bac91a6d698f44b58"><div class="ttname"><a href="../../d7/db1/a00590.html#a68fd4e51a6ab53a5f6bc93fe7800623ba093fd7e4f043a87bac91a6d698f44b58">GH_QUEST_KEEP_EM_ON_THEIR_HEELS</a></div><div class="ttdeci">@ GH_QUEST_KEEP_EM_ON_THEIR_HEELS</div><div class="ttdef"><b>Definition:</b> OutdoorPvPGH.h:30</div></div>
+<div class="ttc" id="aa00590_html_a68fd4e51a6ab53a5f6bc93fe7800623ba4d9e1d2fb4e064d2ec502e86046044c3"><div class="ttname"><a href="../../d7/db1/a00590.html#a68fd4e51a6ab53a5f6bc93fe7800623ba4d9e1d2fb4e064d2ec502e86046044c3">GH_ALLIANCE_DEFENSE_EVENT</a></div><div class="ttdeci">@ GH_ALLIANCE_DEFENSE_EVENT</div><div class="ttdef"><b>Definition:</b> OutdoorPvPGH.h:25</div></div>
+<div class="ttc" id="aa00590_html_a68fd4e51a6ab53a5f6bc93fe7800623ba5b111447969af668c37b96bdcb8e4e0f"><div class="ttname"><a href="../../d7/db1/a00590.html#a68fd4e51a6ab53a5f6bc93fe7800623ba5b111447969af668c37b96bdcb8e4e0f">GH_ZONE</a></div><div class="ttdeci">@ GH_ZONE</div><div class="ttdef"><b>Definition:</b> OutdoorPvPGH.h:28</div></div>
+<div class="ttc" id="aa00590_html_a68fd4e51a6ab53a5f6bc93fe7800623ba611910e455b02d10a37996956708a414"><div class="ttname"><a href="../../d7/db1/a00590.html#a68fd4e51a6ab53a5f6bc93fe7800623ba611910e455b02d10a37996956708a414">GH_CREATURE_QUEST_BUNNY</a></div><div class="ttdeci">@ GH_CREATURE_QUEST_BUNNY</div><div class="ttdef"><b>Definition:</b> OutdoorPvPGH.h:32</div></div>
+<div class="ttc" id="aa00590_html_a68fd4e51a6ab53a5f6bc93fe7800623bab570a16e35f63643cd666e8e9c67dce6"><div class="ttname"><a href="../../d7/db1/a00590.html#a68fd4e51a6ab53a5f6bc93fe7800623bab570a16e35f63643cd666e8e9c67dce6">GH_QUEST_KICK_EM_WHILE_THEYRE_DOWN</a></div><div class="ttdeci">@ GH_QUEST_KICK_EM_WHILE_THEYRE_DOWN</div><div class="ttdef"><b>Definition:</b> OutdoorPvPGH.h:31</div></div>
+<div class="ttc" id="aa00590_html_a68fd4e51a6ab53a5f6bc93fe7800623babf83508167d0dcdfb12a95048d098d10"><div class="ttname"><a href="../../d7/db1/a00590.html#a68fd4e51a6ab53a5f6bc93fe7800623babf83508167d0dcdfb12a95048d098d10">GH_HORDE_DEFENSE_EVENT</a></div><div class="ttdeci">@ GH_HORDE_DEFENSE_EVENT</div><div class="ttdef"><b>Definition:</b> OutdoorPvPGH.h:26</div></div>
+</div><!-- fragment -->
 </div>
 </div>
 </div><!-- contents -->
@@ -166,8 +183,8 @@ Variables</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_824c567499771b11a8d1959386aa27e6.html">Scripting</a></li><li class="navelem"><a class="el" href="../../d7/db1/a00590.html">ScriptMgr.cpp</a></li>
-    <li class="footer">Generated on Mon Sep 21 2026 23:32:30 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_5ad9d2bd1e1e418dea010d25c4d4f5d3.html">OutdoorPvP</a></li><li class="navelem"><a class="el" href="../../d7/db1/a00590.html">OutdoorPvPGH.h</a></li>
+    <li class="footer">Generated on Tue Sep 29 2026 01:12:34 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

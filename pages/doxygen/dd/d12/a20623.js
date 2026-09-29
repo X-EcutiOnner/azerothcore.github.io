@@ -1,5 +1,8 @@
 var a20623 =
 [
-    [ "achievement_getting_cold_in_here", "dd/d12/a20623.html#a57fe7262a09036ffa88e985cb7e2f123", null ],
-    [ "OnCheck", "dd/d12/a20623.html#aeafd382d378381f754da6ee04d382276", null ]
+    [ "HandleAfterEffectApply", "dd/d12/a20623.html#ac8b5cddcf66c1f43c4ab0461354e97f1", null ],
+    [ "HandleProc", "dd/d12/a20623.html#a2ee2121d3d55bf6067de985e8d999de2", null ],
+    [ "PrepareAuraScript", "dd/d12/a20623.html#a439799df0d6ca43e6a81930e3e4b5334", null ],
+    [ "Register", "dd/d12/a20623.html#adce13201dd11c6ba83883b12ad32d1f6", null ],
+    [ "Validate", "dd/d12/a20623.html#a30733bf8ca4d619d6eafafa78df4c0f7", null ]
 ];

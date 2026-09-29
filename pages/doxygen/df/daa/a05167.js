@@ -1,6 +1,26 @@
 var a05167 =
 [
-    [ "hash< ObjectGuid >", "dc/daf/a08911.html", "dc/daf/a08911" ],
-    [ "hash< SpellGroup >", "d3/deb/a12043.html", "d3/deb/a12043" ],
-    [ "hash< std::pair< uint32_t, uint32_t > >", "d3/dda/a30359.html", "d3/dda/a30359" ]
+    [ "achievement", "d8/da3/a08255.html", "d8/da3/a08255" ],
+    [ "base_tag", "de/dad/a08251.html", "de/dad/a08251" ],
+    [ "enchant", "d7/df3/a08259.html", "d7/df3/a08259" ],
+    [ "found", "dc/df8/a08263.html", "dc/df8/a08263" ],
+    [ "glyph", "dc/d79/a08267.html", "dc/d79/a08267" ],
+    [ "item", "d2/ded/a08271.html", "d2/ded/a08271" ],
+    [ "quest", "d2/df4/a08275.html", "d2/df4/a08275" ],
+    [ "spell", "de/d87/a08279.html", "de/d87/a08279" ],
+    [ "talent", "dc/d63/a08283.html", "dc/d63/a08283" ],
+    [ "trade", "da/dd1/a08287.html", "da/dd1/a08287" ],
+    [ "make_base_tag", "df/daa/a05167.html#a6ebb455ff3abbea4ad68bd1d7d05fd3a", null ],
+    [ "make_base_tag", "df/daa/a05167.html#a0803de4bbc9edad4f5bb2afc3c242dca", null ],
+    [ "make_base_tag", "df/daa/a05167.html#aa8156f2996632fd42a2e39b974426995", null ],
+    [ "make_base_tag", "df/daa/a05167.html#a321da5d63921d41c561a1460929ac730", null ],
+    [ "make_base_tag", "df/daa/a05167.html#afc9dbd840048c0031231bcdb7b2fcf04", null ],
+    [ "make_base_tag", "df/daa/a05167.html#a7083d48423b83ff39095030678b29877", null ],
+    [ "make_base_tag", "df/daa/a05167.html#aae3a6cd0fbf426755d93a387882ff767", null ],
+    [ "make_base_tag", "df/daa/a05167.html#aa0ca4a111a856da9091a377934f8de93", null ],
+    [ "make_base_tag", "df/daa/a05167.html#a9990339040b491e108594df755f03a6c", null ],
+    [ "make_base_tag", "df/daa/a05167.html#aa0200f5ae02cb0b03a9ab7097ca2a2ec", null ],
+    [ "make_base_tag", "df/daa/a05167.html#a32cfa3bc188d1b731f3e9e5dcc2de664", null ],
+    [ "make_base_tag", "df/daa/a05167.html#ae0c637d10c728f04dc2468c15c3f8dca", null ],
+    [ "make_base_tag", "df/daa/a05167.html#abe0a588f1c0e66d33c8bc7a7d0a04459", null ]
 ];

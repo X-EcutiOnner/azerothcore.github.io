@@ -1,6 +1,7 @@
 var a02711 =
 [
-    [ "instance_hellfire_ramparts", "d9/d92/a23755.html", "d9/d92/a23755" ],
-    [ "instance_hellfire_ramparts::instance_hellfire_ramparts_InstanceMapScript", "d8/d30/a23759.html", "d8/d30/a23759" ],
-    [ "AddSC_instance_hellfire_ramparts", "d8/dd0/a02711.html#a4172290a7e1e8ffcbf19519225978acf", null ]
+    [ "AuraApplication", "d2/d5a/a11903.html", "d2/d5a/a11903" ],
+    [ "Aura", "d7/dff/a11907.html", "d7/dff/a11907" ],
+    [ "UnitAura", "d1/d2c/a11911.html", "d1/d2c/a11911" ],
+    [ "DynObjAura", "d4/d51/a11915.html", "d4/d51/a11915" ]
 ];

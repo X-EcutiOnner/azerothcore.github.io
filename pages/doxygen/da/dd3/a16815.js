@@ -1,9 +1,6 @@
 var a16815 =
 [
-    [ "npc_memoryAI", "da/dd3/a16815.html#ad927d377d60b44f43808469042f5feb9", null ],
-    [ "JustDied", "da/dd3/a16815.html#a7b0484919d671877f29dfa05ca1265d9", null ],
-    [ "Reset", "da/dd3/a16815.html#a985c51bbfa2cceeb7601432491253aaf", null ],
-    [ "UpdateAI", "da/dd3/a16815.html#a6cb74389f5aea91d2062e007ea08acd7", null ],
-    [ "events", "da/dd3/a16815.html#a2ed2993e89728a3723456a67e13581f7", null ],
-    [ "pInstance", "da/dd3/a16815.html#a31bcb5041844ea5e3a076ad1366897e1", null ]
+    [ "boss_paletressAI", "d3/d64/a16819.html", "d3/d64/a16819" ],
+    [ "boss_paletress", "da/dd3/a16815.html#a04cbd31e71cc349b8c1058780ee6f673", null ],
+    [ "GetAI", "da/dd3/a16815.html#a2c20ff397d115cf0e8a1801184e5a3f9", null ]
 ];

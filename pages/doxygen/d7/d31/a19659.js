@@ -1,13 +1,7 @@
 var a19659 =
 [
-    [ "boss_loathebAI", "d7/d31/a19659.html#a60256114947b0e9c01f5308108485935", null ],
-    [ "IsInRoom", "d7/d31/a19659.html#a617d45ab3bde4184aa31c1b2c70c1a6f", null ],
-    [ "JustDied", "d7/d31/a19659.html#acf24e563d4876fb9f899a4250b19b6f5", null ],
-    [ "JustEngagedWith", "d7/d31/a19659.html#a1abcf157e05eeb634f8e857a2de35538", null ],
-    [ "JustSummoned", "d7/d31/a19659.html#a8a28f9fe6c087c230103d1139ddb73dc", null ],
-    [ "KilledUnit", "d7/d31/a19659.html#a4dac78bba24069050dd9df729dd58b45", null ],
-    [ "Reset", "d7/d31/a19659.html#a709a4c2fe45fd757ecae6afa402e4728", null ],
-    [ "SummonedCreatureDies", "d7/d31/a19659.html#aeddc6bd981a13ec133e5481b36668b0e", null ],
-    [ "UpdateAI", "d7/d31/a19659.html#ab009008f892493b822e5ea5491c58525", null ],
-    [ "doomCounter", "d7/d31/a19659.html#aed5c631ede2eea27451a74ae21221325", null ]
+    [ "HandleScript", "d7/d31/a19659.html#a66db3976fe6ec7ee8712c5788ce5f3ec", null ],
+    [ "PrepareAuraScript", "d7/d31/a19659.html#aa3053519be0101f55450d76b1291f0f7", null ],
+    [ "Register", "d7/d31/a19659.html#ada596a7f19115c7178fd07fb9e956f58", null ],
+    [ "Validate", "d7/d31/a19659.html#a768dec18bc0e879c457a64135ec27ad9", null ]
 ];

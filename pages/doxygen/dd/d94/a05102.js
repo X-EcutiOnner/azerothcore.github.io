@@ -1,9 +1,4 @@
 var a05102 =
 [
-    [ "CleanStringForMysqlQuery", "dd/d94/a05102.html#a4750695bf6f728da1b0356af3ddaabc9", null ],
-    [ "GetLocaleByName", "dd/d94/a05102.html#a3193e61abf2ddeae08f61cd4f13c6250", null ],
-    [ "GetNameByLocaleConstant", "dd/d94/a05102.html#a3a6dbe16dbe45905c1f3aabc858c1fe1", null ],
-    [ "IsLocaleValid", "dd/d94/a05102.html#ac2f3763b8ee770808af7ecec42dfaa76", null ],
-    [ "accountFlagNames", "dd/d94/a05102.html#a77b8b95357d9fd48d99c7e82eb567fc0", null ],
-    [ "localeNames", "dd/d94/a05102.html#a32b3de4eb98b686cc6472385a449e4e9", null ]
+    [ "GUARD_RETURN", "dd/d94/a05102.html#a545bfab3f5e5f49c7d68774189728da8", null ]
 ];

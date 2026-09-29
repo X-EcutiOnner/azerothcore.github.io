@@ -1,8 +1,9 @@
 var a21031 =
 [
-    [ "CheckProc", "d8/dc0/a21031.html#a2bbcd3aca15eb271759c2a64276bb9d3", null ],
-    [ "HandleProc", "d8/dc0/a21031.html#a6761dd910808090d78c9b9ad88ba7bda", null ],
-    [ "PrepareAuraScript", "d8/dc0/a21031.html#ab9f98c6a93f31b2c76ca75c8fe7c2c60", null ],
-    [ "Register", "d8/dc0/a21031.html#a430a5c4d0e3f77d4d966a4bf8f629e1e", null ],
-    [ "Validate", "d8/dc0/a21031.html#a683a37c787ae5797d8c68aca1af0742a", null ]
+    [ "GetRandomToyPile", "d8/dc0/a21031.html#a4e119696b212c6a57f11b284c2bb0c82", null ],
+    [ "HandleScript", "d8/dc0/a21031.html#a62eb106c6a55406adc682b372a94aaef", null ],
+    [ "PrepareSpellScript", "d8/dc0/a21031.html#acb19b4f65324ce419004e969274c4816", null ],
+    [ "Register", "d8/dc0/a21031.html#aba572e339d50b51cb33d04270d29b733", null ],
+    [ "Validate", "d8/dc0/a21031.html#a59acb2775caa76c05797d7c8dfd0f3fb", null ],
+    [ "ToyPileSearchDistance", "d8/dc0/a21031.html#aa7c7f5e7298e89e431464105d5d8bbdf", null ]
 ];

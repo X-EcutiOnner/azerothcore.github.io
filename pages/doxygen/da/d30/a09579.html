@@ -115,9 +115,9 @@ $(document).ready(function(){initNavTree('da/d30/a09579.html','../../'); initRes
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:ae01a3252ecf5083da0c5be5d4a845636"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d30/a09579.html#ae01a3252ecf5083da0c5be5d4a845636">Visit</a> (<a class="el" href="../../da/d06/a01403.html#a8e87d05ee9fb2b4f64470fce9231de12">CorpseMapType</a> &amp;)</td></tr>
+<tr class="memitem:ae01a3252ecf5083da0c5be5d4a845636"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d30/a09579.html#ae01a3252ecf5083da0c5be5d4a845636">Visit</a> (<a class="el" href="../../dd/d77/a03659.html#a8e87d05ee9fb2b4f64470fce9231de12">CorpseMapType</a> &amp;)</td></tr>
 <tr class="separator:ae01a3252ecf5083da0c5be5d4a845636"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a412c9cbe22dc645c87e002ddb1772a90"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d30/a09579.html#a412c9cbe22dc645c87e002ddb1772a90">Visit</a> (<a class="el" href="../../da/d06/a01403.html#ae35a7f6754cf9950d0027369ada820e7">PlayerMapType</a> &amp;)</td></tr>
+<tr class="memitem:a412c9cbe22dc645c87e002ddb1772a90"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d30/a09579.html#a412c9cbe22dc645c87e002ddb1772a90">Visit</a> (<a class="el" href="../../dd/d77/a03659.html#ae35a7f6754cf9950d0027369ada820e7">PlayerMapType</a> &amp;)</td></tr>
 <tr class="separator:a412c9cbe22dc645c87e002ddb1772a90"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7624bb11d51edffdc49fc9a95df847ef"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
 <tr class="memitem:a7624bb11d51edffdc49fc9a95df847ef"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../da/d30/a09579.html#a7624bb11d51edffdc49fc9a95df847ef">Visit</a> (<a class="el" href="../../db/dff/a09583.html">GridRefMgr</a>&lt; T &gt; &amp;m)</td></tr>
@@ -137,7 +137,7 @@ Public Member Functions</h2></td></tr>
         <tr>
           <td class="memname">void GridObjectUnloader::Visit </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../da/d06/a01403.html#a8e87d05ee9fb2b4f64470fce9231de12">CorpseMapType</a> &amp;&#160;</td>
+          <td class="paramtype"><a class="el" href="../../dd/d77/a03659.html#a8e87d05ee9fb2b4f64470fce9231de12">CorpseMapType</a> &amp;&#160;</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
@@ -173,9 +173,9 @@ template&lt;class T &gt; </div>
 <li>object will get delinked from the manager when deleted</li>
 </ul>
 <div class="fragment"><div class="line"><span class="lineno">  136</span>{</div>
-<div class="line"><span class="lineno">  137</span>    <span class="keywordflow">while</span> (!m.<a class="code hl_function" href="../../d6/df6/a05611.html#a5f450b83a615d010bedc7b0c6aa18d70">IsEmpty</a>())</div>
+<div class="line"><span class="lineno">  137</span>    <span class="keywordflow">while</span> (!m.<a class="code hl_function" href="../../da/d5c/a05615.html#a5f450b83a615d010bedc7b0c6aa18d70">IsEmpty</a>())</div>
 <div class="line"><span class="lineno">  138</span>    {</div>
-<div class="line"><span class="lineno">  139</span>        T* obj = m.<a class="code hl_function" href="../../db/dff/a09583.html#aa0156c2ad3ec5ca0df6f6a4c55d71a05">getFirst</a>()-&gt;<a class="code hl_function" href="../../de/dba/a05619.html#a95ef762721fcc58e9655c57fab05899b">GetSource</a>();</div>
+<div class="line"><span class="lineno">  139</span>        T* obj = m.<a class="code hl_function" href="../../db/dff/a09583.html#aa0156c2ad3ec5ca0df6f6a4c55d71a05">getFirst</a>()-&gt;<a class="code hl_function" href="../../d3/d4e/a05623.html#a95ef762721fcc58e9655c57fab05899b">GetSource</a>();</div>
 <div class="line"><span class="lineno">  140</span>        <span class="comment">// if option set then object already saved at this moment</span></div>
 <div class="line"><span class="lineno">  141</span>        <span class="comment">//if (!sWorld-&gt;getBoolConfig(CONFIG_SAVE_RESPAWN_TIME_IMMEDIATELY))</span></div>
 <div class="line"><span class="lineno">  142</span>        <span class="comment">//    obj-&gt;SaveRespawnTime();</span></div>
@@ -190,8 +190,8 @@ template&lt;class T &gt; </div>
 <div class="line"><span class="lineno">  152</span>        <span class="keyword">delete</span> obj;</div>
 <div class="line"><span class="lineno">  153</span>    }</div>
 <div class="line"><span class="lineno">  154</span>}</div>
-<div class="ttc" id="aa05611_html_a5f450b83a615d010bedc7b0c6aa18d70"><div class="ttname"><a href="../../d6/df6/a05611.html#a5f450b83a615d010bedc7b0c6aa18d70">LinkedListHead::IsEmpty</a></div><div class="ttdeci">bool IsEmpty() const</div><div class="ttdef"><b>Definition:</b> LinkedList.h:97</div></div>
-<div class="ttc" id="aa05619_html_a95ef762721fcc58e9655c57fab05899b"><div class="ttname"><a href="../../de/dba/a05619.html#a95ef762721fcc58e9655c57fab05899b">Reference::GetSource</a></div><div class="ttdeci">FROM * GetSource() const</div><div class="ttdef"><b>Definition:</b> Reference.h:97</div></div>
+<div class="ttc" id="aa05615_html_a5f450b83a615d010bedc7b0c6aa18d70"><div class="ttname"><a href="../../da/d5c/a05615.html#a5f450b83a615d010bedc7b0c6aa18d70">LinkedListHead::IsEmpty</a></div><div class="ttdeci">bool IsEmpty() const</div><div class="ttdef"><b>Definition:</b> LinkedList.h:97</div></div>
+<div class="ttc" id="aa05623_html_a95ef762721fcc58e9655c57fab05899b"><div class="ttname"><a href="../../d3/d4e/a05623.html#a95ef762721fcc58e9655c57fab05899b">Reference::GetSource</a></div><div class="ttdeci">FROM * GetSource() const</div><div class="ttdef"><b>Definition:</b> Reference.h:97</div></div>
 <div class="ttc" id="aa09583_html_aa0156c2ad3ec5ca0df6f6a4c55d71a05"><div class="ttname"><a href="../../db/dff/a09583.html#aa0156c2ad3ec5ca0df6f6a4c55d71a05">GridRefMgr::getFirst</a></div><div class="ttdeci">GridReference&lt; OBJECT &gt; * getFirst()</div><div class="ttdef"><b>Definition:</b> GridRefMgr.h:32</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00032">GridRefMgr&lt; OBJECT &gt;::getFirst()</a>, and <a class="el" href="../../#l00097">LinkedListHead::IsEmpty()</a>.</p>
@@ -210,7 +210,7 @@ template&lt;class T &gt; </div>
         <tr>
           <td class="memname">void GridObjectUnloader::Visit </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../da/d06/a01403.html#ae35a7f6754cf9950d0027369ada820e7">PlayerMapType</a> &amp;&#160;</td>
+          <td class="paramtype"><a class="el" href="../../dd/d77/a03659.html#ae35a7f6754cf9950d0027369ada820e7">PlayerMapType</a> &amp;&#160;</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
@@ -231,7 +231,7 @@ template&lt;class T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../da/d30/a09579.html">GridObjectUnloader</a></li>
-    <li class="footer">Generated on Mon Sep 21 2026 23:33:51 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Tue Sep 29 2026 01:13:13 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

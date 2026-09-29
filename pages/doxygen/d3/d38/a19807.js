@@ -1,11 +1,10 @@
 var a19807 =
 [
-    [ "npc_hover_disk", "d3/d38/a19807.html#af6f8ef0df4b64540f99adebdd709b00e", null ],
-    [ "AttackStart", "d3/d38/a19807.html#a3ea3d44f74f26115f0a29fad134fcfc8", null ],
-    [ "DoAction", "d3/d38/a19807.html#ae4141e5aed3cfdbf8d76ad55ce4463d9", null ],
-    [ "MoveInLineOfSight", "d3/d38/a19807.html#a0ad97e511bd01c269c04d2ccfe007f91", null ],
-    [ "MovementInform", "d3/d38/a19807.html#a9d1c7ac28f2c597864cf2c70ab0fb943", null ],
-    [ "PassengerBoarded", "d3/d38/a19807.html#ab7e712a9d5aec7c3112796316a7fe534", null ],
-    [ "UpdateAI", "d3/d38/a19807.html#add98702312084df553e24bcd4b632bb3", null ],
-    [ "events", "d3/d38/a19807.html#a073e1161eda3b714ad0d7ea96f865b6d", null ]
+    [ "npc_power_spark", "d3/d38/a19807.html#a97ec0ed1157578fb7e1d8c4e146b2a4f", null ],
+    [ "DamageTaken", "d3/d38/a19807.html#afe33d511823666929232bfd0179ee72a", null ],
+    [ "DoAction", "d3/d38/a19807.html#ab99a859ee718d49ce59171e7e7159abc", null ],
+    [ "UpdateAI", "d3/d38/a19807.html#ab36e75c87aa262a57be1594289284730", null ],
+    [ "_checkTimer", "d3/d38/a19807.html#ae63f0f359037363b840fe51a797969b5", null ],
+    [ "_instance", "d3/d38/a19807.html#a776b7fef26fd67961b0fdf0596d7beb2", null ],
+    [ "_moveTimer", "d3/d38/a19807.html#a52c953a524bb7f26c6713ac5d83eb068", null ]
 ];

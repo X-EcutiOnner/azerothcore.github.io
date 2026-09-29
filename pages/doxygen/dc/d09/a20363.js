@@ -1,8 +1,7 @@
 var a20363 =
 [
-    [ "OnApply", "dc/d09/a20363.html#a3f2ef4882bcd52e091a0bcfabfc352cd", null ],
-    [ "OnRemove", "dc/d09/a20363.html#ab967233994aa3ff07b272f010b2c1545", null ],
-    [ "PrepareAuraScript", "dc/d09/a20363.html#a788480ec4aaa57e643f55daca17c6ded", null ],
-    [ "Register", "dc/d09/a20363.html#a63a3e30704b282a430dcdbb9073a66df", null ],
-    [ "Validate", "dc/d09/a20363.html#a6ccb698445ce30c5224dcacc3dc8136b", null ]
+    [ "boss_flame_leviathan_safety_container", "dc/d09/a20363.html#a4519a6bf9c96ff13df4ae019b02f3593", null ],
+    [ "MovementInform", "dc/d09/a20363.html#a42842de299fd9346cc0d61b649b652a4", null ],
+    [ "UpdateAI", "dc/d09/a20363.html#a55119d077f905a8207ad2afbe31f17a4", null ],
+    [ "_allowTimer", "dc/d09/a20363.html#a70134398c054c837407d6a22591a2d96", null ]
 ];

@@ -1,15 +1,5 @@
 var a00767 =
 [
-    [ "AllMapScript", "d9/d35/a10771.html", "d9/d35/a10771" ],
-    [ "AllMapHook", "d5/dae/a00767.html#a78db4e64fe232d8b547270090d8e3b92", [
-      [ "ALLMAPHOOK_ON_PLAYER_ENTER_ALL", "d5/dae/a00767.html#a78db4e64fe232d8b547270090d8e3b92afd97726f6bef6f766e85787ec7f03dfa", null ],
-      [ "ALLMAPHOOK_ON_PLAYER_LEAVE_ALL", "d5/dae/a00767.html#a78db4e64fe232d8b547270090d8e3b92acb0a85f676691164c5745f89720426ae", null ],
-      [ "ALLMAPHOOK_ON_BEFORE_CREATE_INSTANCE_SCRIPT", "d5/dae/a00767.html#a78db4e64fe232d8b547270090d8e3b92aaedb63ed509b91e62a54f71648956182", null ],
-      [ "ALLMAPHOOK_ON_DESTROY_INSTANCE", "d5/dae/a00767.html#a78db4e64fe232d8b547270090d8e3b92aed47c964869552afdecaa285111a2ac0", null ],
-      [ "ALLMAPHOOK_ON_CREATE_MAP", "d5/dae/a00767.html#a78db4e64fe232d8b547270090d8e3b92ae8c905ed5a1df193a9dd91640d43de02", null ],
-      [ "ALLMAPHOOK_ON_DESTROY_MAP", "d5/dae/a00767.html#a78db4e64fe232d8b547270090d8e3b92a2bd9320aa3f2418da854778f1dbbc3b5", null ],
-      [ "ALLMAPHOOK_ON_MAP_UPDATE", "d5/dae/a00767.html#a78db4e64fe232d8b547270090d8e3b92a192adf70dc3f5a3873df8e56a2c3dcfb", null ],
-      [ "ALLMAPHOOK_CAN_SEND_OBJECT_UPDATES_TO_PLAYER", "d5/dae/a00767.html#a78db4e64fe232d8b547270090d8e3b92ab71f788a9cdc8f8d9168caa5584d9a47", null ],
-      [ "ALLMAPHOOK_END", "d5/dae/a00767.html#a78db4e64fe232d8b547270090d8e3b92a51af3c739d320ca228fb73e3d7c48b95", null ]
-    ] ]
+    [ "cast_commandscript", "d4/dca/a12499.html", "d4/dca/a12499" ],
+    [ "AddSC_cast_commandscript", "d5/dae/a00767.html#a7b374923a29bdbff68b6e78d2ef4a3e0", null ]
 ];

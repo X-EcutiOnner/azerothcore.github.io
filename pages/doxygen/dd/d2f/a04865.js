@@ -1,23 +1,29 @@
 var a04865 =
 [
-    [ "MetricData", "d8/dbc/a05759.html", "d8/dbc/a05759" ],
-    [ "Metric", "d8/d36/a05763.html", "d8/d36/a05763" ],
-    [ "MetricStopWatch< LoggerType >", "d5/d1a/a05767.html", "d5/d1a/a05767" ],
-    [ "METRIC_CONCAT", "dd/d2f/a04865.html#ad81585df46d4cee988a1222012dbabf1", null ],
-    [ "METRIC_DETAILED_EVENT", "dd/d2f/a04865.html#ac782d1c3265f7b707782545777d49d05", null ],
-    [ "METRIC_DETAILED_NO_THRESHOLD_TIMER", "dd/d2f/a04865.html#a281633f6f8b252d96029ce8fd29da746", null ],
-    [ "METRIC_DETAILED_TIMER", "dd/d2f/a04865.html#a22dcbf78f0d280a4b2b4e0662034efe9", null ],
-    [ "METRIC_DO_CONCAT", "dd/d2f/a04865.html#aa861206b38b55c4f39f1ed649defb338", null ],
-    [ "METRIC_EVENT", "dd/d2f/a04865.html#ad57573999508dbc7a2c953379996b542", null ],
-    [ "METRIC_TAG", "dd/d2f/a04865.html#ab81b5769123c1e5e3870b9b05f25fe0a", null ],
-    [ "METRIC_TIMER", "dd/d2f/a04865.html#ad88ae7d281622a32a700443aa3dc51f9", null ],
-    [ "METRIC_UNIQUE_NAME", "dd/d2f/a04865.html#adf91483a75eca0531263536ce38d9339", null ],
-    [ "METRIC_VALUE", "dd/d2f/a04865.html#a92aedc832ddfc479ecc61289f12be449", null ],
-    [ "sMetric", "dd/d2f/a04865.html#a4e89926204845a9c9e315d6f0abec5ef", null ],
-    [ "MetricTag", "dd/d2f/a04865.html#a8fdc9a93c03faef11e4c36679e79e3f1", null ],
-    [ "MetricDataType", "dd/d2f/a04865.html#a0bb9cc086e32544cb0e43338f83d8e62", [
-      [ "METRIC_DATA_VALUE", "dd/d2f/a04865.html#a0bb9cc086e32544cb0e43338f83d8e62a62f4e964751c180f1ab400ee1852b155", null ],
-      [ "METRIC_DATA_EVENT", "dd/d2f/a04865.html#a0bb9cc086e32544cb0e43338f83d8e62a599565c733d02dcd1c4676c2ad463af2", null ]
+    [ "AppenderFlags", "dd/d2f/a04865.html#a94c1c25ceab6db205eb6a5d5a2e0e803", [
+      [ "APPENDER_FLAGS_NONE", "dd/d2f/a04865.html#a94c1c25ceab6db205eb6a5d5a2e0e803a184efa87bd2e31eb7cbcb9d9d9da282b", null ],
+      [ "APPENDER_FLAGS_PREFIX_TIMESTAMP", "dd/d2f/a04865.html#a94c1c25ceab6db205eb6a5d5a2e0e803abd5b7165060ec5de7b8db0619e2f2a46", null ],
+      [ "APPENDER_FLAGS_PREFIX_LOGLEVEL", "dd/d2f/a04865.html#a94c1c25ceab6db205eb6a5d5a2e0e803adc9e7db7404463919a903d8acfeff94e", null ],
+      [ "APPENDER_FLAGS_PREFIX_LOGFILTERTYPE", "dd/d2f/a04865.html#a94c1c25ceab6db205eb6a5d5a2e0e803ac133c721eb5548b0845595467e081c5b", null ],
+      [ "APPENDER_FLAGS_USE_TIMESTAMP", "dd/d2f/a04865.html#a94c1c25ceab6db205eb6a5d5a2e0e803a6aec71fc9bc28024147cf9f5291c08c3", null ],
+      [ "APPENDER_FLAGS_MAKE_FILE_BACKUP", "dd/d2f/a04865.html#a94c1c25ceab6db205eb6a5d5a2e0e803a6a4fbf813da7a71ddfd24f9336a7e5a2", null ]
     ] ],
-    [ "MakeMetricStopWatch", "dd/d2f/a04865.html#ab339934305abce426aa1d43c99d65e9f", null ]
+    [ "AppenderType", "dd/d2f/a04865.html#aacbd2dccb14fcb75d2651dce582364df", [
+      [ "APPENDER_NONE", "dd/d2f/a04865.html#aacbd2dccb14fcb75d2651dce582364dfaceddd86331dd45bd7dbd5f8bae6c8852", null ],
+      [ "APPENDER_CONSOLE", "dd/d2f/a04865.html#aacbd2dccb14fcb75d2651dce582364dfa8cc0efa84bbb87aa8207ba11f369b78a", null ],
+      [ "APPENDER_FILE", "dd/d2f/a04865.html#aacbd2dccb14fcb75d2651dce582364dfa2420e38b426dcb22e37a90b6a97cc65d", null ],
+      [ "APPENDER_DB", "dd/d2f/a04865.html#aacbd2dccb14fcb75d2651dce582364dfacac80dc510e850226c250af5a5600394", null ],
+      [ "APPENDER_INVALID", "dd/d2f/a04865.html#aacbd2dccb14fcb75d2651dce582364dfa7cb05f13eacfc1d54ef111d7b8375301", null ]
+    ] ],
+    [ "LogLevel", "dd/d2f/a04865.html#ad26ed09e30f81a5d2172b4793a3f2781", [
+      [ "LOG_LEVEL_DISABLED", "dd/d2f/a04865.html#ad26ed09e30f81a5d2172b4793a3f2781ae44988e4cdc992741e4a39b3734e1f61", null ],
+      [ "LOG_LEVEL_FATAL", "dd/d2f/a04865.html#ad26ed09e30f81a5d2172b4793a3f2781a779dc8dd26898fb0f88cd5f6e02ba1e5", null ],
+      [ "LOG_LEVEL_ERROR", "dd/d2f/a04865.html#ad26ed09e30f81a5d2172b4793a3f2781a5b40f003febbc3b535649d63f4b8a44f", null ],
+      [ "LOG_LEVEL_WARN", "dd/d2f/a04865.html#ad26ed09e30f81a5d2172b4793a3f2781a99c1e5c8e6d557f3993b9ab54a0107f4", null ],
+      [ "LOG_LEVEL_INFO", "dd/d2f/a04865.html#ad26ed09e30f81a5d2172b4793a3f2781aedee1e3159bfe7d918b6e29873c5aee4", null ],
+      [ "LOG_LEVEL_DEBUG", "dd/d2f/a04865.html#ad26ed09e30f81a5d2172b4793a3f2781a538b2b6e011479d408ecd2be0f6d6177", null ],
+      [ "LOG_LEVEL_TRACE", "dd/d2f/a04865.html#ad26ed09e30f81a5d2172b4793a3f2781a8fa9f12103da446ab4f3d3dc2fcf7f5d", null ],
+      [ "NUM_ENABLED_LOG_LEVELS", "dd/d2f/a04865.html#ad26ed09e30f81a5d2172b4793a3f2781a02115b12f9d2c08405f3ea32fb8dea7d", null ],
+      [ "LOG_LEVEL_INVALID", "dd/d2f/a04865.html#ad26ed09e30f81a5d2172b4793a3f2781a385a9fffad0d67363b55e833e0395c96", null ]
+    ] ]
 ];

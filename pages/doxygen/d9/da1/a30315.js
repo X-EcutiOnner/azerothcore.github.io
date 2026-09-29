@@ -1,9 +1,20 @@
 var a30315 =
 [
-    [ "Flags", "d9/da1/a30315.html#a4471edebd870d3dfaaf34292341e5f60", null ],
-    [ "Id", "d9/da1/a30315.html#a6a25126338a8c3aa7d36c02c979639dd", null ],
-    [ "Position", "d9/da1/a30315.html#a8fa9a49b3195ffe74dcf1872d0fb05c1", null ],
-    [ "Rotation", "d9/da1/a30315.html#a986c3ea05d510db03ec969f0d116fb34", null ],
-    [ "Scale", "d9/da1/a30315.html#af8bcb02c541b9261dbf879353ba6893a", null ],
-    [ "UniqueId", "d9/da1/a30315.html#a374c9893af515badc54b22b2a4d5e024", null ]
+    [ "Record", "d9/da1/a30315.html#a51a9cc006bb8530fe76452c1bbe7985c", null ],
+    [ "Record", "d9/da1/a30315.html#a51a9cc006bb8530fe76452c1bbe7985c", null ],
+    [ "getByte", "d9/da1/a30315.html#ab1897952fa01e930caffa262519645c5", null ],
+    [ "getFloat", "d9/da1/a30315.html#a3e6402dcebb5adc1becccdc2bbf39758", null ],
+    [ "getFloat", "d9/da1/a30315.html#a3e6402dcebb5adc1becccdc2bbf39758", null ],
+    [ "getInt", "d9/da1/a30315.html#a80c4d8d3ae4a5a42ed1dc9a9edcd6747", null ],
+    [ "getInt", "d9/da1/a30315.html#a80c4d8d3ae4a5a42ed1dc9a9edcd6747", null ],
+    [ "getString", "d9/da1/a30315.html#a268ecb804f3a4c852a898a928a846f0a", null ],
+    [ "getString", "d9/da1/a30315.html#a268ecb804f3a4c852a898a928a846f0a", null ],
+    [ "getUInt", "d9/da1/a30315.html#ace0215b88ffbaf83c69a82cde51cd45f", null ],
+    [ "getUInt", "d9/da1/a30315.html#ace0215b88ffbaf83c69a82cde51cd45f", null ],
+    [ "operator=", "d9/da1/a30315.html#a1f7968eeee027251427a7f41dc7f948e", null ],
+    [ "DBCFile", "d9/da1/a30315.html#a6c4f02b14caa99337bbe77b30e5615ab", null ],
+    [ "DBCFile::Iterator", "d9/da1/a30315.html#a56d48f82a62e25038bf9cf339e608083", null ],
+    [ "Iterator", "d9/da1/a30315.html#a9830fc407400559db7e7783cc10a9394", null ],
+    [ "file", "d9/da1/a30315.html#adffc3b9545883356dd9bed0a0613a1fe", null ],
+    [ "offset", "d9/da1/a30315.html#ae76eb8b329fb6d580aa42484de46c95e", null ]
 ];

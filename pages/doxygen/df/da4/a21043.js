@@ -1,6 +1,8 @@
 var a21043 =
 [
-    [ "HandleScript", "df/da4/a21043.html#a679cf770e38e1fda66f8a64fff53f968", null ],
-    [ "PrepareSpellScript", "df/da4/a21043.html#a89fe5ca5efcc45278bdd9017cfeaaf3f", null ],
-    [ "Register", "df/da4/a21043.html#adc76a70e73cba42c0f9935b3b43d17cd", null ]
+    [ "CheckProc", "df/da4/a21043.html#a2bbcd3aca15eb271759c2a64276bb9d3", null ],
+    [ "HandleProc", "df/da4/a21043.html#a6761dd910808090d78c9b9ad88ba7bda", null ],
+    [ "PrepareAuraScript", "df/da4/a21043.html#ab9f98c6a93f31b2c76ca75c8fe7c2c60", null ],
+    [ "Register", "df/da4/a21043.html#a430a5c4d0e3f77d4d966a4bf8f629e1e", null ],
+    [ "Validate", "df/da4/a21043.html#a683a37c787ae5797d8c68aca1af0742a", null ]
 ];

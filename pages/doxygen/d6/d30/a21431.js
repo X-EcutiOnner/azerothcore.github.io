@@ -1,6 +1,7 @@
 var a21431 =
 [
-    [ "CanBeAppliedOn", "d6/d30/a21431.html#ad92126f58e8ac8c83449725bc29fda8b", null ],
-    [ "PrepareAuraScript", "d6/d30/a21431.html#aaa7631a3d8a5476da6e051de90f34ee4", null ],
-    [ "Register", "d6/d30/a21431.html#a9a3e0c1a86cfc1b9747810cfca76f784", null ]
+    [ "HandleScript", "d6/d30/a21431.html#ac8d984ac87f51050113f7ac1a4625785", null ],
+    [ "PrepareSpellScript", "d6/d30/a21431.html#a34f6166e27cb99e424dd081ffce704a5", null ],
+    [ "Register", "d6/d30/a21431.html#a0dd5b7a8cf086ee3b5a6f30326874ee3", null ],
+    [ "Validate", "d6/d30/a21431.html#a364c96f7253fde59e1a9a59a42c4d3a5", null ]
 ];

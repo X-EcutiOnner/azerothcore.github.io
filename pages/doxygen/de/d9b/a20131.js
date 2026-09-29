@@ -1,9 +1,6 @@
 var a20131 =
 [
-    [ "boss_sjonnir_malformed_oozeAI", "de/d9b/a20131.html#a0624f769d0ce5a95ea2bb877811b0409", null ],
-    [ "JustEngagedWith", "de/d9b/a20131.html#a9e6527bc46d7b685d938833d18796cee", null ],
-    [ "MoveInLineOfSight", "de/d9b/a20131.html#a7449e135f088a2d4b22a423c71118093", null ],
-    [ "MovementInform", "de/d9b/a20131.html#ac04d90e974f85282737bb5081a123106", null ],
-    [ "UpdateAI", "de/d9b/a20131.html#afccd77c8e90d129fb3a347205a2102db", null ],
-    [ "events", "de/d9b/a20131.html#a73c135ec94b41a752fc203c5e20128d0", null ]
+    [ "boss_sjonnir_iron_sludgeAI", "dd/dc1/a20135.html", "dd/dc1/a20135" ],
+    [ "boss_sjonnir_iron_sludge", "de/d9b/a20131.html#ae1c523266aab3e8e2c337dede7390c7b", null ],
+    [ "GetAI", "de/d9b/a20131.html#a2d077bfeac6479d83240ee00ca5aa0e0", null ]
 ];

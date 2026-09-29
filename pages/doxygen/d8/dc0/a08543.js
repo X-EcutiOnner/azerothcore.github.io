@@ -1,7 +1,7 @@
 var a08543 =
 [
-    [ "CreatureSpellCooldown", "d8/dc0/a08543.html#a6d234a93951992640df5720a2885be3e", null ],
-    [ "CreatureSpellCooldown", "d8/dc0/a08543.html#a53364a501b0ce66e05ec0e6638f6cb6e", null ],
-    [ "category", "d8/dc0/a08543.html#a27330a80d711087f1894b2ce816c33b8", null ],
-    [ "end", "d8/dc0/a08543.html#a9c1c5f2b6e9a6cd015085e79b043e483", null ]
+    [ "VendorItemCount", "d8/dc0/a08543.html#abdf2d2900f75bb2b8d9727bab8fcbbc3", null ],
+    [ "count", "d8/dc0/a08543.html#aff4c062138792ffb37dadb19b725c87c", null ],
+    [ "itemId", "d8/dc0/a08543.html#a225158bbb56d6666ba4918155f08f993", null ],
+    [ "lastIncrementTime", "d8/dc0/a08543.html#a0b88ba4ea590abbdc9234ff4a2a335fa", null ]
 ];

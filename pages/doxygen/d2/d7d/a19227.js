@@ -1,5 +1,5 @@
 var a19227 =
 [
-    [ "npc_darkfallen_archmage", "d2/d7d/a19227.html#a8d21215aba6a282cf6d6450551876813", null ],
-    [ "ScheduleSpells", "d2/d7d/a19227.html#a9a0e12d3d69a7c409d5c32ec68c51f60", null ]
+    [ "npc_darkfallen_blood_knight", "d2/d7d/a19227.html#ad5b43cff525dc18855a0b51a23fa6fd0", null ],
+    [ "ScheduleSpells", "d2/d7d/a19227.html#ad275e8b9562587a61b8db4440eaf43b3", null ]
 ];

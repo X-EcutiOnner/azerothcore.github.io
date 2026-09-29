@@ -1,8 +1,6 @@
 var a15803 =
 [
-    [ "boss_veklor", "df/de5/a15803.html#acbbe1a2e6ffcb00a28f7ae5413cd02c1", null ],
-    [ "AttackStart", "df/de5/a15803.html#a7ecfff13457bf177c1ec250bbee75cbf", null ],
-    [ "IAmVeklor", "df/de5/a15803.html#a4c43713c24b5537f292be1e0fcaee703", null ],
-    [ "JustEngagedWith", "df/de5/a15803.html#a05913da666b1715eac68441195dd9df4", null ],
-    [ "SpellHit", "df/de5/a15803.html#ab5d9ec12c18e360ce2c8749dd97f2ab0", null ]
+    [ "FilterTargets", "df/de5/a15803.html#a1ceb8f97a19b7c0434c430b388d0f76b", null ],
+    [ "PrepareSpellScript", "df/de5/a15803.html#a4a376e2a30c79ee2819c695e72535c0a", null ],
+    [ "Register", "df/de5/a15803.html#aaf7b4fba94d94331f6b35add2b836061", null ]
 ];

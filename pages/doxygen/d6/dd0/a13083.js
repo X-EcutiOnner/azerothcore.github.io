@@ -1,7 +1,28 @@
 var a13083 =
 [
-    [ "HandleEffectScriptEffect", "d6/dd0/a13083.html#a8157c4b213b3b4e260222976e283e2ae", null ],
-    [ "PrepareSpellScript", "d6/dd0/a13083.html#aa8a4fdd0dc5c06a836ac05cec0dccd75", null ],
-    [ "Register", "d6/dd0/a13083.html#aeda056b568b4956ba35b32a3f20c053e", null ],
-    [ "Validate", "d6/dd0/a13083.html#a29a7f51f01e1ccf71dcc53ad68f032ae", null ]
+    [ "instance_blackwing_lair", "d6/dd0/a13083.html#acc616ac1ebc0a30b223b56db6d1d194d", null ],
+    [ "CheckRequiredBosses", "d6/dd0/a13083.html#a5fe103f254c8eff91732c8241e564e6b", null ],
+    [ "GetData", "d6/dd0/a13083.html#a8aa2cb3ec0fb6ac894fe2386bb587cd6", null ],
+    [ "GetGuidData", "d6/dd0/a13083.html#a83845db9412c9db9020fe5cb916f15ed", null ],
+    [ "Initialize", "d6/dd0/a13083.html#a897fb61d904ece635288d79823847f19", null ],
+    [ "OnCreatureCreate", "d6/dd0/a13083.html#ab9d92beeef2b4cff728b3b07628be143", null ],
+    [ "OnGameObjectCreate", "d6/dd0/a13083.html#afadc17e8273352507021fe801540cfea", null ],
+    [ "OnGameObjectRemove", "d6/dd0/a13083.html#ad17a7e6c445a33ccf504e3346f4337d5", null ],
+    [ "OnUnitDeath", "d6/dd0/a13083.html#aa7d4423a1d3de7d1f28e03e1242ab29f", null ],
+    [ "ReadSaveDataMore", "d6/dd0/a13083.html#a44fc3e4344c72fa859f87ebec10f391a", null ],
+    [ "SetBossState", "d6/dd0/a13083.html#a71e2889ad19c4d445b1a9e3e852f5408", null ],
+    [ "SetData", "d6/dd0/a13083.html#a1a51777e7bdffcd5633d435c65aec5ad", null ],
+    [ "Update", "d6/dd0/a13083.html#abd4fe01494c20a4b413392011ee8b901", null ],
+    [ "WriteSaveDataMore", "d6/dd0/a13083.html#a9b5f810bdaacd35144a3a054f706fca2", null ],
+    [ "_events", "d6/dd0/a13083.html#a069b3a56def2564f026a3404bf0fd1c6", null ],
+    [ "addsCount", "d6/dd0/a13083.html#adb5f0436eca9ff1ae539590416a93994", null ],
+    [ "EggCount", "d6/dd0/a13083.html#a1ac13e5d1453f4ea0d01ccef32cdde04", null ],
+    [ "EggEvent", "d6/dd0/a13083.html#a7477504fa86afb6380234cf659c5f7d2", null ],
+    [ "EggList", "d6/dd0/a13083.html#a2e78bb7c91616d00af59b29af160d311", null ],
+    [ "guardList", "d6/dd0/a13083.html#ac396d405834c12dee713f9367a4d12db", null ],
+    [ "nefarianDoorGUID", "d6/dd0/a13083.html#a286d20f905bab05fae40019d2193169c", null ],
+    [ "nefarianGUID", "d6/dd0/a13083.html#af5e25c709a68da078cbaca38e4f692d8", null ],
+    [ "NefarianLeftTunnel", "d6/dd0/a13083.html#ae9dfe41953a427db9c3d87825dc4123b", null ],
+    [ "NefarianRightTunnel", "d6/dd0/a13083.html#aeb857871a07bea6822da067041c0a126", null ],
+    [ "razorgoreGUID", "d6/dd0/a13083.html#a96ca7c618cdf5d604e4b5700bffefadb", null ]
 ];

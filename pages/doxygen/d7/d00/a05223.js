@@ -1,6 +1,12 @@
 var a05223 =
 [
-    [ "Resolver", "d7/d00/a05223.html#ad1a3a95744d64df722a6fb4b267316e6", null ],
-    [ "Resolve", "d7/d00/a05223.html#ab190f885c84753fe65405db6fb04bf7c", null ],
-    [ "_impl", "d7/d00/a05223.html#a08ed9183a6338606524c44f0fd5695a0", null ]
+    [ "FrostboltPvPTest", "db/df3/a30079.html", "db/df3/a30079" ],
+    [ "TEST_F", "d7/d00/a05223.html#a505e9af595a807914a390aa3fe2b5a3f", null ],
+    [ "TEST_F", "d7/d00/a05223.html#a3a2bcf2a861c5ae0aa63621f4768abd6", null ],
+    [ "TEST_F", "d7/d00/a05223.html#ac1d8ca954bc5412a7a494f77aae4ed64", null ],
+    [ "TEST_F", "d7/d00/a05223.html#a1baefe138ddf5a4c83ade03ad1e71835", null ],
+    [ "FROSTBOLT_BASE_DAMAGE", "d7/d00/a05223.html#a620444164ecdf992df4d10b61454d3cf", null ],
+    [ "FROSTBOLT_DURATION_MS", "d7/d00/a05223.html#a6d55f8f70ec9e5652a08520d2533600f", null ],
+    [ "FROSTBOLT_SLOW_PCT", "d7/d00/a05223.html#a21ce900035aa8f72aef05d123f52ee4a", null ],
+    [ "FROSTBOLT_SPELL_ID", "d7/d00/a05223.html#a896c09069ad88a91db2f3b2182109078", null ]
 ];

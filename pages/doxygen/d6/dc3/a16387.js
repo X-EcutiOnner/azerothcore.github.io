@@ -1,6 +1,6 @@
 var a16387 =
 [
-    [ "HandleApply", "d6/dc3/a16387.html#aee4d5908035d06be2f1469a50db02e26", null ],
-    [ "PrepareAuraScript", "d6/dc3/a16387.html#ac8349deb2e9c8861194e80132bd72fc5", null ],
-    [ "Register", "d6/dc3/a16387.html#ac83962bef84b68cef6d7937769730598", null ]
+    [ "npc_shadowpriest_sezzizAI", "dd/d57/a16391.html", "dd/d57/a16391" ],
+    [ "npc_shadowpriest_sezziz", "d6/dc3/a16387.html#a1be46acc9d8f1405f925f7b7f87592ea", null ],
+    [ "GetAI", "d6/dc3/a16387.html#a1513b766f18dbc290b6682582fd33b1d", null ]
 ];

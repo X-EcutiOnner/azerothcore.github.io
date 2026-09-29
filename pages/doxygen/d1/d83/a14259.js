@@ -1,25 +1,20 @@
 var a14259 =
 [
-    [ "Events", "d1/d83/a14259.html#afac1efc815f9bcd99c712750add03d03", [
-      [ "EVENT_START_RITUAL", "d1/d83/a14259.html#afac1efc815f9bcd99c712750add03d03addf57401bf3a4a7a29cb666329c870bc", null ],
-      [ "EVENT_GHOULPLOSION", "d1/d83/a14259.html#afac1efc815f9bcd99c712750add03d03a5f505da38dd1ec77501cd8388617acf1", null ],
-      [ "EVENT_RAISE_DEAD", "d1/d83/a14259.html#afac1efc815f9bcd99c712750add03d03adbf5c1e1e03fbb8646814f5a1b9b1750", null ],
-      [ "EVENT_RESUME_WP", "d1/d83/a14259.html#afac1efc815f9bcd99c712750add03d03a78d794f7871ab05a5100d939227c249d", null ]
+    [ "Events", "d1/d83/a14259.html#a12c4bdf68162eba82d4563c2108ce1d2", [
+      [ "EVENT_START_RITUAL", "d1/d83/a14259.html#a12c4bdf68162eba82d4563c2108ce1d2a02fcb61eb2865c2931b343279c576bdf", null ],
+      [ "EVENT_GHOULPLOSION", "d1/d83/a14259.html#a12c4bdf68162eba82d4563c2108ce1d2aca9db407c87adeb91205451a67ffffc5", null ],
+      [ "EVENT_RAISE_GHOUL", "d1/d83/a14259.html#a12c4bdf68162eba82d4563c2108ce1d2a516304af17aecc599764eba99a2d72ec", null ],
+      [ "EVENT_RESUME_WP", "d1/d83/a14259.html#a12c4bdf68162eba82d4563c2108ce1d2aff67cf343aa56c92996f9d55cd622a98", null ]
     ] ],
-    [ "Points", "d1/d83/a14259.html#ada82a8d5097799a78f1c44a38e6b5050", [
-      [ "POINT_CORPSE_REACHED", "d1/d83/a14259.html#ada82a8d5097799a78f1c44a38e6b5050a8c8a1329ee01466b4cc26f8b5542f486", null ]
+    [ "Points", "d1/d83/a14259.html#a91ed69a6a7042da16e17b639cfd11539", [
+      [ "POINT_CORPSE_REACHED", "d1/d83/a14259.html#a91ed69a6a7042da16e17b639cfd11539a7254b9ca92a51e4beb89bc0dea09d6e8", null ]
     ] ],
-    [ "Says", "d1/d83/a14259.html#a3e29fc5682d354eab8ac5e9cbc8fd0d3", [
-      [ "SAY_GRYPHON", "d1/d83/a14259.html#a3e29fc5682d354eab8ac5e9cbc8fd0d3a204b617281fb4bd9cb06622e9aadc2cb", null ],
-      [ "SAY_GHOUL", "d1/d83/a14259.html#a3e29fc5682d354eab8ac5e9cbc8fd0d3a722503c3ccad9de979ea2083143d7557", null ],
-      [ "SAY_GEIST", "d1/d83/a14259.html#a3e29fc5682d354eab8ac5e9cbc8fd0d3a4d9ac8b5eae01b8506ce301cb59391eb", null ]
-    ] ],
-    [ "npc_gothik_the_harvester", "d1/d83/a14259.html#a7543dc4ee15b1e80a3de57f454d909e5", null ],
-    [ "MovementInform", "d1/d83/a14259.html#a5941a60cd0f7c7358b18a060d6c1aaec", null ],
-    [ "Reset", "d1/d83/a14259.html#a0932d0971a0c9e10236d8c13994143ee", null ],
-    [ "UpdateAI", "d1/d83/a14259.html#a0a2e71818b3a894927ed61191c63323e", null ],
-    [ "events", "d1/d83/a14259.html#a65d21454301a5ac4ba29fc3c1c415852", null ],
-    [ "geistGUID", "d1/d83/a14259.html#a0360b0fbaf1a37445fb760067c493c45", null ],
-    [ "isOnRitual", "d1/d83/a14259.html#a9093378e71150865f95d05065378c35b", null ],
-    [ "targetCorpseGUID", "d1/d83/a14259.html#a453a6f122eb4e9a079949bf53fd76067", null ]
+    [ "npc_acherus_necromancer", "d1/d83/a14259.html#aa9805145b09ec5abced7207220e5261c", null ],
+    [ "MovementInform", "d1/d83/a14259.html#a575ad749490b1eb3d2008edc617dac29", null ],
+    [ "Reset", "d1/d83/a14259.html#af7b896a75a62e948a6a4e02eec2e4471", null ],
+    [ "UpdateAI", "d1/d83/a14259.html#ab911195c28abe5272e55f46eafc43e75", null ],
+    [ "events", "d1/d83/a14259.html#a760c67141517cc43cfd7f0fce3ca4c00", null ],
+    [ "geistGUID", "d1/d83/a14259.html#a85d1d46abb4703ad814e2069c3252966", null ],
+    [ "isOnRitual", "d1/d83/a14259.html#aa41bfe2339960c4f229083b52c33ecf2", null ],
+    [ "targetCorpseGUID", "d1/d83/a14259.html#abbdce81693f05dd84eeba1c933866bb0", null ]
 ];

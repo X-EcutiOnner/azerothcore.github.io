@@ -1,6 +1,7 @@
 var a26479 =
 [
-    [ "PrepareSpellScript", "df/d50/a26479.html#ad77d816c82714fe2cafb4dbf48691937", null ],
-    [ "Register", "df/d50/a26479.html#a313abe6367e5494bd81a557ab42f9f50", null ],
-    [ "SecondaryEffect", "df/d50/a26479.html#ac12d466f3aeb86a30dc498f10082aab1", null ]
+    [ "HandleScript", "df/d50/a26479.html#a899d96d5fdf1fa7c46a35b681ec90daa", null ],
+    [ "PrepareSpellScript", "df/d50/a26479.html#a8b49884cc187b32368ac5493bc65d339", null ],
+    [ "Register", "df/d50/a26479.html#a591928501bc5b0d4c43b04ec6fa8972d", null ],
+    [ "Validate", "df/d50/a26479.html#aba754e86c9c87f251a1fa2dff955018e", null ]
 ];

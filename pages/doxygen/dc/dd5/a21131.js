@@ -1,11 +1,11 @@
 var a21131 =
 [
-    [ "boss_yoggsaron_voice", "dc/dd5/a21131.html#ae9baa030c275b7f80d084f4e5d44aed2", null ],
-    [ "DoAction", "dc/dd5/a21131.html#a094522e81d1d19de660b75fb06ea4224", null ],
-    [ "Reset", "dc/dd5/a21131.html#a05a59e5c1e05f40fed219a2927e8006d", null ],
-    [ "SpellHitTarget", "dc/dd5/a21131.html#aae3b82dbb871f0f297bdacf975958492", null ],
-    [ "UpdateAI", "dc/dd5/a21131.html#aa3570bf74b7caee5dcf844853a73d7e5", null ],
-    [ "_current", "dc/dd5/a21131.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b", null ],
-    [ "_targets", "dc/dd5/a21131.html#a52bf7b9b560f600b5b3647fefb3830bf", null ],
-    [ "events", "dc/dd5/a21131.html#abd4829f72aea74d3f9be6df3e40b08b5", null ]
+    [ "boss_yoggsaron_lich_king", "dc/dd5/a21131.html#a3c20d6227f0f13d46b9841369d55a43e", null ],
+    [ "NextStep", "dc/dd5/a21131.html#aec4b71c80d6793443145ebe3d1094d1b", null ],
+    [ "Reset", "dc/dd5/a21131.html#a4210fa70a3c22efa213cb6e6b6cd7d24", null ],
+    [ "Say", "dc/dd5/a21131.html#ac7687fe1253701c702cf2c17986727ec", null ],
+    [ "UpdateAI", "dc/dd5/a21131.html#a79a25a561dc2b19cdf18aa105a50ecd9", null ],
+    [ "_checkTimer", "dc/dd5/a21131.html#a196ffc443569494bed79f623dd9cdca3", null ],
+    [ "_running", "dc/dd5/a21131.html#aae9e4b456b2bca4a9b43b98419ec60e0", null ],
+    [ "_step", "dc/dd5/a21131.html#a97244534b8c6a69807388b620df2263f", null ]
 ];

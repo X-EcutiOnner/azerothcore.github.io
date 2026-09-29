@@ -1,6 +1,6 @@
 var a01052 =
 [
-    [ "WorldPackets::WorldState::InitWorldStates", "d2/df9/a11735.html", "d2/df9/a11735" ],
-    [ "WorldPackets::WorldState::InitWorldStates::WorldStateInfo", "d1/d7f/a11739.html", "d1/d7f/a11739" ],
-    [ "WorldPackets::WorldState::UpdateWorldState", "dc/d7a/a11743.html", "dc/d7a/a11743" ]
+    [ "instance_pit_of_saron", "d5/d68/a17551.html", "d5/d68/a17551" ],
+    [ "instance_pit_of_saron::instance_pit_of_saron_InstanceScript", "d7/da7/a17555.html", "d7/da7/a17555" ],
+    [ "AddSC_instance_pit_of_saron", "d9/dce/a01052.html#a0793b7a11993f477eea1066a2da4bbb2", null ]
 ];

@@ -1,8 +1,6 @@
 var a20275 =
 [
-    [ "npc_auriaya_sanctum_sentry", "dc/dcc/a20275.html#ae5ed159c476c8b4569de7e2730edf447", null ],
-    [ "JustDied", "dc/dcc/a20275.html#a553aa98a00fd8999578d71911f231bb2", null ],
-    [ "JustEngagedWith", "dc/dcc/a20275.html#a5475b653a9c1fa78f2fcab8abed00863", null ],
-    [ "Reset", "dc/dcc/a20275.html#a540cb8f5c53c3648d49ec88efed8a43d", null ],
-    [ "UpdateAI", "dc/dcc/a20275.html#a93ed6a0205a042ef1fc065fc6cfd94ee", null ]
+    [ "achievement_assembly_of_iron", "dc/dcc/a20275.html#ae90d193b039d88ce38108b6617b5b8e9", null ],
+    [ "OnCheck", "dc/dcc/a20275.html#ae66b3e708b38bfe685f9d28c14c2d3f5", null ],
+    [ "_targetEntry", "dc/dcc/a20275.html#a20e8938ff30b18737fb96cf0277b5680", null ]
 ];

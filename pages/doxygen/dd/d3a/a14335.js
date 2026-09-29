@@ -1,6 +1,7 @@
 var a14335 =
 [
-    [ "boss_blight_wormAI", "d9/da1/a14339.html", "d9/da1/a14339" ],
-    [ "boss_blight_worm", "dd/d3a/a14335.html#a6dea51baebc6b44ef94342565136e56d", null ],
-    [ "GetAI", "dd/d3a/a14335.html#a1cb9043482e9b3c3eff3fd75057a2fb2", null ]
+    [ "npc_jaina_proudmoore_bfuAI", "dd/d3a/a14335.html#ad5ad1d05ef8210409c700e47b5442e24", null ],
+    [ "Reset", "dd/d3a/a14335.html#a18de805428ce0954a5fbfffbf5975342", null ],
+    [ "UpdateAI", "dd/d3a/a14335.html#a48b191d0812bfe3212511a52ef0df817", null ],
+    [ "_events", "dd/d3a/a14335.html#a87e99e0b5fd0a3823b009025019b1fa4", null ]
 ];

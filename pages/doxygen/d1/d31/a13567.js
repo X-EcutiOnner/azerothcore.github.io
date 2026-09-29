@@ -1,6 +1,5 @@
 var a13567 =
 [
-    [ "instance_scarlet_monastery_InstanceMapScript", "d5/d5b/a13571.html", "d5/d5b/a13571" ],
-    [ "instance_scarlet_monastery", "d1/d31/a13567.html#a8f068ebd98bd81dbb60dbccd795f1f3f", null ],
-    [ "GetInstanceScript", "d1/d31/a13567.html#a1c66031217457809fbe56303085715a0", null ]
+    [ "instance_magisters_terrace_InstanceMapScript", "d1/d31/a13567.html#ad083ab5aa00902987e18f4e9423a705a", null ],
+    [ "ProcessEvent", "d1/d31/a13567.html#a8dbe1537ea00412a6fa366891204d645", null ]
 ];

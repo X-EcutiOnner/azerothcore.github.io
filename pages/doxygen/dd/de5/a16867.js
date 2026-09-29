@@ -1,6 +1,6 @@
 var a16867 =
 [
-    [ "HandleSpellHit", "dd/de5/a16867.html#a11b9bb078e5c38b8db8b3e3fcd5114d8", null ],
-    [ "PrepareSpellScript", "dd/de5/a16867.html#a75a2441ca6b4fb7928c4d14f44c08ba3", null ],
-    [ "Register", "dd/de5/a16867.html#a9322b834fadc89b4fbc19dbbc762f205", null ]
+    [ "npc_black_knight_ghoulAI", "d1/d46/a16871.html", "d1/d46/a16871" ],
+    [ "npc_black_knight_ghoul", "dd/de5/a16867.html#a8e62b1070f0ed4e5b917fcaaeb2da8d0", null ],
+    [ "GetAI", "dd/de5/a16867.html#a52308f8d168e1ccea22de653813b7f6f", null ]
 ];

@@ -1,8 +1,13 @@
 var a24495 =
 [
-    [ "go_skull_pile", "df/d7d/a24495.html#a9cf8dfef432c4967c60f66e645585770", null ],
-    [ "OnGossipHello", "df/d7d/a24495.html#ac95d39ea03e78fee2a10603d8c7f8840", null ],
-    [ "OnGossipSelect", "df/d7d/a24495.html#afb8e8db2705355e975fa48c98e09f20b", null ],
-    [ "SendActionMenu", "df/d7d/a24495.html#a048dd224b46ead864958ad524d76167f", null ],
-    [ "_result", "df/d7d/a24495.html#af74fcd75404c0886128401d661067394", null ]
+    [ "npc_unkor_the_ruthlessAI", "df/d7d/a24495.html#a965b0f182570a54ee4c0a6a54ba8fafb", null ],
+    [ "DamageTaken", "df/d7d/a24495.html#a88b5e4b43171be8cc62d2a10f188e363", null ],
+    [ "HasQuestActive", "df/d7d/a24495.html#ad97ea6721dcea4058167ea327dc0c515", null ],
+    [ "JustEngagedWith", "df/d7d/a24495.html#a537225016bfeba51b607d250c0a09be5", null ],
+    [ "Reset", "df/d7d/a24495.html#a14ca75417c623d6d6e5fce50521963da", null ],
+    [ "Submit", "df/d7d/a24495.html#a26872858bfb4aeda1b4af445033995db", null ],
+    [ "UpdateAI", "df/d7d/a24495.html#a744ea41d7f9450965419085a296c8df2", null ],
+    [ "PulverizeTimer", "df/d7d/a24495.html#a43324c095d4f98b97b39b5eb86c4c783", null ],
+    [ "Submitted", "df/d7d/a24495.html#a47777bb2dd47764c9cb01dc3f3e25f39", null ],
+    [ "UnfriendlyTimer", "df/d7d/a24495.html#a21559a315c812b50b74fc22dc32a2930", null ]
 ];

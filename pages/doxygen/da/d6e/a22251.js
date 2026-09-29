@@ -1,7 +1,9 @@
 var a22251 =
 [
-    [ "npc_tirions_gambit_tirionAI", "d9/d3f/a22255.html", "d9/d3f/a22255" ],
-    [ "npc_tirions_gambit_tirion", "da/d6e/a22251.html#ad52abd46ccdd3b4409671679434c193c", null ],
-    [ "GetAI", "da/d6e/a22251.html#a222c092c2e2136dbd7057a3f7ad7b5f4", null ],
-    [ "OnGossipSelect", "da/d6e/a22251.html#a5af904a3394de9b3eedb52009bd6b0a9", null ]
+    [ "npc_lord_areteAI", "da/d6e/a22251.html#aebdbf8f4c2fe6948c78315e6b404119b", null ],
+    [ "InitializeAI", "da/d6e/a22251.html#a22d0c3e2445bff2d742b28bd99f37394", null ],
+    [ "UpdateAI", "da/d6e/a22251.html#a5cba8d4429ae191dd5b90ca5a4fe2866", null ],
+    [ "_landgrenGUID", "da/d6e/a22251.html#ac0e3753096dfe779024acc8400791171", null ],
+    [ "_landgrenSoulGUID", "da/d6e/a22251.html#aaa28c67691610136f0b418b30892f3cd", null ],
+    [ "events", "da/d6e/a22251.html#ae4ec90b30320cf0aeaec4415c4125605", null ]
 ];

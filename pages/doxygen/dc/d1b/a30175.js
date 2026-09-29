@@ -1,9 +1,7 @@
 var a30175 =
 [
-    [ "CreateSpellInfo", "dc/d1b/a30175.html#a83fe2676ce2ae1374600de46967aeae5", null ],
-    [ "SetUp", "dc/d1b/a30175.html#abd89fcaf8f8c38b5d992a21430f9ecdb", null ],
-    [ "TearDown", "dc/d1b/a30175.html#acb5697251398888a4cc282c359cfc4ec", null ],
-    [ "_originalWorld", "dc/d1b/a30175.html#ae44f699ee1acedae6ead179c3f012594", null ],
-    [ "_spellInfos", "dc/d1b/a30175.html#ac06654664782d249c4233f79990c817b", null ],
-    [ "_worldMock", "dc/d1b/a30175.html#a98d5f98dfc4d63705920b7b164530022", null ]
+    [ "SetUp", "dc/d1b/a30175.html#ab58c026bc6bbcf94aaec896c654e949f", null ],
+    [ "DAGGER_SPEED", "dc/d1b/a30175.html#a2e9b2005f350f0aec0a905eef5bc0bb6", null ],
+    [ "SWORD_SPEED", "dc/d1b/a30175.html#ac960eb9c5e15274b63b684d8908ed68b", null ],
+    [ "TWO_HANDED_SPEED", "dc/d1b/a30175.html#a7dbbfc5825a36bf3950a8dff54e0ca5a", null ]
 ];

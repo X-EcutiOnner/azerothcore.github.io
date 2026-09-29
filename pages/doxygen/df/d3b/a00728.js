@@ -1,4 +1,21 @@
 var a00728 =
 [
-    [ "ScriptRegistry< WorldMapScript >", "df/d3b/a00728.html#a729e333e6d0c4e5e353dd22c9612f446", null ]
+    [ "item_only_for_flight", "d4/d1e/a28527.html", "d4/d1e/a28527" ],
+    [ "item_incendiary_explosives", "d6/d42/a28531.html", "d6/d42/a28531" ],
+    [ "item_mysterious_egg", "d2/ddc/a28535.html", "d2/ddc/a28535" ],
+    [ "item_disgusting_jar", "d6/d88/a28539.html", "d6/d88/a28539" ],
+    [ "item_petrov_cluster_bombs", "d7/d2a/a28543.html", "d7/d2a/a28543" ],
+    [ "item_captured_frog", "d8/d33/a28547.html", "d8/d33/a28547" ],
+    [ "item_generic_limit_chance_above_60", "d9/d40/a28551.html", "d9/d40/a28551" ],
+    [ "CapturedFrog", "df/d3b/a00728.html#a3a51d3f5cfd1964cbec23fcba5046cca", [
+      [ "QUEST_THE_PERFECT_SPIES", "df/d3b/a00728.html#a3a51d3f5cfd1964cbec23fcba5046ccaac3f8eeb86f6f3fe350b15b7a2d86bb04", null ],
+      [ "NPC_VANIRAS_SENTRY_TOTEM", "df/d3b/a00728.html#a3a51d3f5cfd1964cbec23fcba5046ccaac387e8b467655f50a7dbaa8bcd0de57f", null ]
+    ] ],
+    [ "OnlyForFlight", "df/d3b/a00728.html#afa5a0f3082f0a49fcc796209c7828151", [
+      [ "SPELL_ARCANE_CHARGES", "df/d3b/a00728.html#afa5a0f3082f0a49fcc796209c7828151aeefbb491736447da40481cf5a8742e2d", null ]
+    ] ],
+    [ "PetrovClusterBombs", "df/d3b/a00728.html#a5481d2bf1b9efa370833eed302f6f94c", [
+      [ "SPELL_PETROV_BOMB", "df/d3b/a00728.html#a5481d2bf1b9efa370833eed302f6f94ca52897b7254f1ac012c7e278d8dcbd8b6", null ]
+    ] ],
+    [ "AddSC_item_scripts", "df/d3b/a00728.html#a3e28ebf5a580887bb117f786689a34c6", null ]
 ];

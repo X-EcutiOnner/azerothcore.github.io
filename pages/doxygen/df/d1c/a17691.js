@@ -1,6 +1,11 @@
 var a17691 =
 [
-    [ "HandleScriptEffect", "df/d1c/a17691.html#ab9c289e946cfaf2b63f2526914d79812", null ],
-    [ "PrepareSpellScript", "df/d1c/a17691.html#a832f8ab737254760fe2b91f19d119781", null ],
-    [ "Register", "df/d1c/a17691.html#a86f620a16780cef2c09f45eefb6dad9c", null ]
+    [ "npc_living_mojoAI", "df/d1c/a17691.html#ab0e6dd5db0c358ff4fefc4797a622b8c", null ],
+    [ "AttackStart", "df/d1c/a17691.html#ad3f73a040176cd804f9715141063d176", null ],
+    [ "DoAction", "df/d1c/a17691.html#a9d942e99f358a7488d473969ab461d6f", null ],
+    [ "JustEngagedWith", "df/d1c/a17691.html#adbc665cfba933007e3f630676ab75656", null ],
+    [ "MoveInLineOfSight", "df/d1c/a17691.html#a7981568666269e25580ae839f1f97f09", null ],
+    [ "Reset", "df/d1c/a17691.html#a139df1207438dbd3793a2fbc58c2396c", null ],
+    [ "UpdateAI", "df/d1c/a17691.html#a418d7eee72f0a8506357eee3f1fbaf6c", null ],
+    [ "events", "df/d1c/a17691.html#acc7fd42cf4ea4b0203ad7ba4f775e3f2", null ]
 ];

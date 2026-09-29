@@ -1,5 +1,11 @@
 var a17447 =
 [
-    [ "at_hor_shadow_throne", "dc/dfe/a17447.html#a342808808be75079acf6a2f930afe930", null ],
-    [ "OnTrigger", "dc/dfe/a17447.html#a47deb4d6506e859d90fcf16d72e43d9c", null ]
+    [ "npc_tortured_rifleman", "dc/dfe/a17447.html#a5ab42b048c14838b6992716f62200c57", null ],
+    [ "AttackStart", "dc/dfe/a17447.html#a82f84e5b66d8cbcb25267e0eeb5ce65c", null ],
+    [ "DoAction", "dc/dfe/a17447.html#aafd02b19ba0280db3eacc21b24d3ceaa", null ],
+    [ "EnterEvadeMode", "dc/dfe/a17447.html#a1eddbbfa45174c05a24ad01f200983e3", null ],
+    [ "JustDied", "dc/dfe/a17447.html#abb8349f4f1c19a60c7566f1801ae3087", null ],
+    [ "JustEngagedWith", "dc/dfe/a17447.html#ab60cf1d4e6a58613a032b25b043aceea", null ],
+    [ "Reset", "dc/dfe/a17447.html#a04210cb211db92a1be6de7bc28953953", null ],
+    [ "UpdateAI", "dc/dfe/a17447.html#aa794584f9a842f9725f1f926b4099181", null ]
 ];

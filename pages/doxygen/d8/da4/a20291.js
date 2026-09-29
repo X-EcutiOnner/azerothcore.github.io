@@ -1,7 +1,8 @@
 var a20291 =
 [
-    [ "HandleScriptEffect", "d8/da4/a20291.html#a96033c335117fa39e96a2dd70c44616a", null ],
-    [ "PrepareSpellScript", "d8/da4/a20291.html#abf5f28d0fdb86a55b5b6f545a1fec633", null ],
-    [ "Register", "d8/da4/a20291.html#a0acb0e31242fda06456081ef2937157e", null ],
-    [ "Validate", "d8/da4/a20291.html#a648ce84276009cdee91c921b99193aea", null ]
+    [ "CatsTargetSelector", "d8/da4/a20291.html#a48068e5fb4d835303d1d0fbbc4a7e66e", null ],
+    [ "operator()", "d8/da4/a20291.html#a86e65be219bb8f1fdbebba21ba16884a", null ],
+    [ "_maxDist", "d8/da4/a20291.html#a569a1fc697a16c55ef0d087993461a01", null ],
+    [ "_me", "d8/da4/a20291.html#a510937836db06bf70f2bd3737efa4369", null ],
+    [ "_minDist", "d8/da4/a20291.html#a28f5ca413d51073294888cfc97c21b04", null ]
 ];

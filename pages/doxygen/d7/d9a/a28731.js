@@ -1,5 +1,8 @@
 var a28731 =
 [
-    [ "npc_pet_trainerAI", "d7/d9a/a28731.html#aa5c01fd7cf2b9fad15a3059b4fe38d13", null ],
-    [ "sGossipSelect", "d7/d9a/a28731.html#a6768c8f8f5e37058f85cb40d35caad72", null ]
+    [ "npc_wormholeAI", "d1/dc0/a28735.html", "d1/dc0/a28735" ],
+    [ "npc_wormhole", "d7/d9a/a28731.html#aeace4cbf665409786b86140709191cb0", null ],
+    [ "GetAI", "d7/d9a/a28731.html#af43ec809ce2efe2cd7127029f3c3ec45", null ],
+    [ "OnGossipHello", "d7/d9a/a28731.html#a6ae1a84557f8dc0f0631b9cc7e88d78e", null ],
+    [ "OnGossipSelect", "d7/d9a/a28731.html#a73e441bf05f8a4ea7f57d767945e2d5d", null ]
 ];

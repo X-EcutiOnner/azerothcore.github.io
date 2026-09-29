@@ -1,13 +1,6 @@
 var a16667 =
 [
-    [ "boss_twilight_halionAI", "dd/dff/a16667.html#aab05bab963d603c3cb70edfd62a84b49", null ],
-    [ "DamageTaken", "dd/dff/a16667.html#a0c62ac244e57b1b90101e1ba89a60d27", null ],
-    [ "EnterEvadeMode", "dd/dff/a16667.html#af7076251fc1fad1dc259d747934910e2", null ],
-    [ "JustDied", "dd/dff/a16667.html#a2874474a1dbc9b30a4ff77d2d7bfd8fd", null ],
-    [ "JustEngagedWith", "dd/dff/a16667.html#a136b51ede30d63d87228d35e8b6f2c7a", null ],
-    [ "KilledUnit", "dd/dff/a16667.html#ada770d51f63c841c500ffc3197a7a89f", null ],
-    [ "Reset", "dd/dff/a16667.html#a9c945841926d5b08f37c6a720dd25a14", null ],
-    [ "UpdateAI", "dd/dff/a16667.html#a6ab1d215ed077883781b0c0188282c5e", null ],
-    [ "_events", "dd/dff/a16667.html#a22a8a7696fb23b9eab01d42cd45644de", null ],
-    [ "_instance", "dd/dff/a16667.html#a033f10bba4ba89aa0111d4cb520540e6", null ]
+    [ "boss_halionAI", "d1/deb/a16671.html", "d1/deb/a16671" ],
+    [ "boss_halion", "dd/dff/a16667.html#a94b35248cedbf08b0a1f219c4c28c269", null ],
+    [ "GetAI", "dd/dff/a16667.html#a142314efb4f45ec146ab0225271d29b1", null ]
 ];

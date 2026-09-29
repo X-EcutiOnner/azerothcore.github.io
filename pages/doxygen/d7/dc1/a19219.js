@@ -1,5 +1,15 @@
 var a19219 =
 [
-    [ "npc_darkfallen_noble", "d7/dc1/a19219.html#a566c1938cadfb6fd9d171f84529e9495", null ],
-    [ "ScheduleSpells", "d7/dc1/a19219.html#a0f7de7ee2cf7d4eacccd42bd63b8cf6f", null ]
+    [ "npc_icc_orb_controller", "d7/dc1/a19219.html#af78f3356f39b112ce37a17c735d5c625", null ],
+    [ "DoAction", "d7/dc1/a19219.html#a2c8a835fd79c247852fb49f0e9aa6649", null ],
+    [ "Reset", "d7/dc1/a19219.html#a2018189abc547c96b5e6cfad32b0394d", null ],
+    [ "ScheduleVisualChannel", "d7/dc1/a19219.html#ae387fdfb241e9954b80f8a960184fd52", null ],
+    [ "SetGUID", "d7/dc1/a19219.html#a03291421296f26d1074dc8624e47ee5c", null ],
+    [ "SpellHit", "d7/dc1/a19219.html#a1b939a16c94e04f0c0d211c7525067bf", null ],
+    [ "UpdateAI", "d7/dc1/a19219.html#ace711f4d706596bbc6e7e5e2a71fe7b5", null ],
+    [ "UpdateValidGuids", "d7/dc1/a19219.html#a4e9c20a096c6c0b6eab6499360afa580", null ],
+    [ "_isInCombat", "d7/dc1/a19219.html#ad01a3b4fa5235ffe760da4bad32597b0", null ],
+    [ "_isLongRepeat", "d7/dc1/a19219.html#a991b496578a1a527bc5852dea3d0b8b0", null ],
+    [ "_minionGuids", "d7/dc1/a19219.html#a75c655bb0bb9af2cded799caa5d437fa", null ],
+    [ "_scheduler", "d7/dc1/a19219.html#aca716eb91bed808919ac5bd415b36397", null ]
 ];

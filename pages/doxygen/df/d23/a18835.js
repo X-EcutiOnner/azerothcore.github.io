@@ -1,6 +1,6 @@
 var a18835 =
 [
-    [ "ModDest", "df/d23/a18835.html#a71638bdecb0f580dceff7858441056d8", null ],
-    [ "PrepareSpellScript", "df/d23/a18835.html#a741227928e07585b156ec716ae8b13da", null ],
-    [ "Register", "df/d23/a18835.html#a19221c8453f23a7d384f6a2cb24c2fc2", null ]
+    [ "npc_valkyr_shadowguardAI", "d9/d7d/a18839.html", "d9/d7d/a18839" ],
+    [ "npc_valkyr_shadowguard", "df/d23/a18835.html#a8ee90e21499eebf240c57419454c3829", null ],
+    [ "GetAI", "df/d23/a18835.html#ad84cb094a17e4fb88d3e883c98ce7f5a", null ]
 ];

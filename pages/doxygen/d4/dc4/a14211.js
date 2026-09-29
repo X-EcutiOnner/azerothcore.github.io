@@ -1,7 +1,7 @@
 var a14211 =
 [
-    [ "HandleScriptEffect", "d4/dc4/a14211.html#a1b196f3817c16fac48392981b58c1a05", null ],
-    [ "PrepareSpellScript", "d4/dc4/a14211.html#ad44566ff9a44057679e7ce8e1959776d", null ],
-    [ "Register", "d4/dc4/a14211.html#aef3bfdaff9f0b5080d83805a1a962a79", null ],
-    [ "Validate", "d4/dc4/a14211.html#a70a1f0d2666921ccbad62c1fd06fe4b6", null ]
+    [ "npc_king_varian_wrynn", "d4/dc4/a14211.html#ab62609f2e468d1d173d9c9ea4c05d164", null ],
+    [ "JustDied", "d4/dc4/a14211.html#ae1b1aca3df1398a4f86f7b1deba5fd14", null ],
+    [ "OnQuestReward", "d4/dc4/a14211.html#a3f461d73130945e2287c5ea46b8bdce9", null ],
+    [ "UpdateAI", "d4/dc4/a14211.html#a37bdb5c5c286b2c34e55ef9e8e1aff77", null ]
 ];

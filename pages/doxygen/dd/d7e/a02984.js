@@ -1,6 +1,5 @@
 var a02984 =
 [
-    [ "fireworkShowGameobjectOrgrimmar", "dd/d7e/a02984.html#aa00988212bcd8875445e2b120c00025c", null ],
-    [ "fireworkShowOrgrimmar", "dd/d7e/a02984.html#a20e15c8e61c734af478a4849bd54c9d3", null ],
-    [ "fireworkShowScheduleOrgrimmar", "dd/d7e/a02984.html#a2e2ca4fa893601a2122f94a72c18401f", null ]
+    [ "Module_0DBBF209A27B1E279A9FEC5C168A15F7_Data", "dd/d7e/a02984.html#a650e9d2ed03f4896b697097e2116298e", null ],
+    [ "Module_0DBBF209A27B1E279A9FEC5C168A15F7_Key", "dd/d7e/a02984.html#aba4af9417ad91ebf078cf0ff83ecf503", null ]
 ];

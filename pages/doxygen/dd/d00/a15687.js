@@ -1,5 +1,8 @@
 var a15687 =
 [
-    [ "boss_kri", "dd/d00/a15687.html#a0a95f8d2a380ab48ffd5a034e012cc2c", null ],
-    [ "JustEngagedWith", "dd/d00/a15687.html#ab2169ec49ecbff2ee1460e38bd1a163e", null ]
+    [ "npc_obsidian_destroyer", "dd/d00/a15687.html#abd8b1614a9da9fbe9c9898246b0822b8", null ],
+    [ "JustDied", "dd/d00/a15687.html#adc54ac02383f5e5bf6af980f5ba301e8", null ],
+    [ "JustEngagedWith", "dd/d00/a15687.html#aaf95dd2c92a5d1745311e4162aee8dbc", null ],
+    [ "Reset", "dd/d00/a15687.html#a08c6b9ec0e2f4207d48f95eedf2c26ab", null ],
+    [ "UpdateAI", "dd/d00/a15687.html#a79ba48d421a636f99ea65c0e34d084e1", null ]
 ];

@@ -1,6 +1,16 @@
 var a29799 =
 [
-    [ "canProcDuringTrigger", "da/d62/a29799.html#a10e8ad619c9766fdf49cd29662c3d9e0", null ],
-    [ "procDeepDuringTrigger", "da/d62/a29799.html#a5df33ebca29ea3ce1088307c138a28e4", null ],
-    [ "spellId", "da/d62/a29799.html#ac63803a380695f311a39cd62a4f298b4", null ]
+    [ "ProcTestScenario", "da/d62/a29799.html#aba69369df56d3d631a9a62bcde791537", null ],
+    [ "AdvanceTime", "da/d62/a29799.html#a3b6e8c7f5207be98b7696b478559b24a", null ],
+    [ "GetActor", "da/d62/a29799.html#a52dcbfa52c49f54ce29cb73253746f70", null ],
+    [ "GetActor", "da/d62/a29799.html#a7b2084c740b51289f6e2f7ec74dacf17", null ],
+    [ "GetAura", "da/d62/a29799.html#aa5e30fdf4a8b4912a48ce12aa7763624", null ],
+    [ "GetNow", "da/d62/a29799.html#a014a9082421c022c2fac91070f8f062e", null ],
+    [ "SimulateProc", "da/d62/a29799.html#af3f83abbfbd4a902689b232853fdbcfb", null ],
+    [ "WithActorLevel", "da/d62/a29799.html#ad0ca3530818d3091ab420bd76aab8dcb", null ],
+    [ "WithAura", "da/d62/a29799.html#a6c6dc6438b7503dcda2a89f1e53bc324", null ],
+    [ "WithWeaponSpeed", "da/d62/a29799.html#a05d00a17b60c3fd94e85c75d896ca2bb", null ],
+    [ "_actor", "da/d62/a29799.html#a8928fbb771f94e66af2a24c6c2a3351d", null ],
+    [ "_aura", "da/d62/a29799.html#a81e71f6e78e8c715899c85dcb9423589", null ],
+    [ "_now", "da/d62/a29799.html#ae20c57ecb893219e52fe055d1662e527", null ]
 ];

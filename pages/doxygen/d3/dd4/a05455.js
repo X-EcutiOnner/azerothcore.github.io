@@ -1,7 +1,7 @@
 var a05455 =
 [
-    [ "WModelAreaCallback", "d3/dd4/a05455.html#aef7e8c21f6be4d6889faddda6b3be326", null ],
-    [ "operator()", "d3/dd4/a05455.html#a8024f924c258932c874c0ac3539d2755", null ],
-    [ "hit", "d3/dd4/a05455.html#a92b907262a6e2fa630148580da43c612", null ],
-    [ "prims", "d3/dd4/a05455.html#abe509366e68fff92e07c1aacb90da04f", null ]
+    [ "WModelRayCallBack", "d3/dd4/a05455.html#ac19908f21c5b0ab0b2ee756a14c0f9bc", null ],
+    [ "operator()", "d3/dd4/a05455.html#a72cdf8414d32846375122393b9911861", null ],
+    [ "hit", "d3/dd4/a05455.html#a014e322fc087c2f07617361e0bc585e3", null ],
+    [ "models", "d3/dd4/a05455.html#aaad14391ed1379dc3c367e6e522b1150", null ]
 ];

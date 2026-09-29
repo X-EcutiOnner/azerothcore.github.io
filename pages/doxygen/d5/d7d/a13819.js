@@ -1,8 +1,16 @@
 var a13819 =
 [
-    [ "npc_demonic_vapor", "d5/d7d/a13819.html#aee2e1b7372b8125b49e8466a2406ff00", null ],
-    [ "IsSummonedBy", "d5/d7d/a13819.html#ace56fe54dc6d3f597df0d1e28924082f", null ],
-    [ "Reset", "d5/d7d/a13819.html#a7d2b88ab26904cedaac34f03567806bc", null ],
-    [ "UpdateAI", "d5/d7d/a13819.html#a6637d2d5fc6615c2d76aa0d04c36a047", null ],
-    [ "_timer", "d5/d7d/a13819.html#ab067f5b9b9f37db4db9ab6e5295e5d52", null ]
+    [ "boss_felmyst", "d5/d7d/a13819.html#a96aa8f038e3f93aa7628ce3f28ef39ff", null ],
+    [ "InitializeAI", "d5/d7d/a13819.html#af29021c428a9c7ffcea517d91b1d4b39", null ],
+    [ "JustDied", "d5/d7d/a13819.html#a2269784b565f6a9d18bd9124cf4b8472", null ],
+    [ "JustEngagedWith", "d5/d7d/a13819.html#a6fc19cd8b8c7891a912a50fcd673d96f", null ],
+    [ "KilledUnit", "d5/d7d/a13819.html#a0233ebbcbb21d100425ac76223e839be", null ],
+    [ "MovementInform", "d5/d7d/a13819.html#adf8cd17c20be6acbe381777e8c0efdba", null ],
+    [ "Reset", "d5/d7d/a13819.html#ae5181c789809a859edb40488e206c0d3", null ],
+    [ "ScheduleGroundAbilities", "d5/d7d/a13819.html#a2d77aab0f9c403e130f0513a0b3013ce", null ],
+    [ "SpellHitTarget", "d5/d7d/a13819.html#a511e7741b10087cc9bb2be68042898e7", null ],
+    [ "StartIntro", "d5/d7d/a13819.html#a55e6defd1bc7f8f1dfd2376cb4589356", null ],
+    [ "UpdateAI", "d5/d7d/a13819.html#a0e429d8cf49946c0232b9c405c340356", null ],
+    [ "_currentLane", "d5/d7d/a13819.html#a7b4230a28ad7d8136ae16ada9d471a39", null ],
+    [ "_strafeCount", "d5/d7d/a13819.html#adc58c6e8aef0debe6689e42cebff5aa2", null ]
 ];

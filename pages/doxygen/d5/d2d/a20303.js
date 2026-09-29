@@ -1,5 +1,7 @@
 var a20303 =
 [
-    [ "achievement_auriaya_nine_lives", "d5/d2d/a20303.html#a750304bc946a7ecefec29dc18c429d3b", null ],
-    [ "OnCheck", "d5/d2d/a20303.html#ae1b7ee75a3e7343c3f5f8043b4e39362", null ]
+    [ "HandleScriptEffect", "d5/d2d/a20303.html#a96033c335117fa39e96a2dd70c44616a", null ],
+    [ "PrepareSpellScript", "d5/d2d/a20303.html#abf5f28d0fdb86a55b5b6f545a1fec633", null ],
+    [ "Register", "d5/d2d/a20303.html#a0acb0e31242fda06456081ef2937157e", null ],
+    [ "Validate", "d5/d2d/a20303.html#a648ce84276009cdee91c921b99193aea", null ]
 ];

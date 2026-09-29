@@ -201,6 +201,7 @@ var a11895 =
     [ "HandleWaterBreathing", "de/d67/a11895.html#ae0e6dfd8b1d19f6f3ab0d60f65e4427a", null ],
     [ "HasSpellClassMask", "de/d67/a11895.html#ac47f45d58ef676d9e242852a80c96b01", null ],
     [ "IsAffectedOnSpell", "de/d67/a11895.html#a71cd3938d8e16b4f6363e6978077aa8f", null ],
+    [ "IsEnabled", "de/d67/a11895.html#ab882fb08ac37a212412de87051701b0d", null ],
     [ "IsPeriodic", "de/d67/a11895.html#a7d45367044e196745676c63d61fbd89d", null ],
     [ "PeriodicTick", "de/d67/a11895.html#af498cc64849486b0001f558da9c5c9ef", null ],
     [ "RecalculateAmount", "de/d67/a11895.html#adc38a016285e442a485c9b9bc17a6105", null ],

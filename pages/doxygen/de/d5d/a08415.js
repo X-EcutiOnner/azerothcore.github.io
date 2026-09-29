@@ -1,7 +1,7 @@
 var a08415 =
 [
-    [ "LfgProposalPlayer", "de/d5d/a08415.html#a80f7d0f3597201dc7fca4d08dd3b7a38", null ],
-    [ "accept", "de/d5d/a08415.html#acbf0ce1e12307569487096dc5ca544a6", null ],
-    [ "group", "de/d5d/a08415.html#a900f24e9caaa1569eeea93b4284139a1", null ],
-    [ "role", "de/d5d/a08415.html#a54ab4a0f32cc3abc7489fc9c3655fe99", null ]
+    [ "LfgReward", "de/d5d/a08415.html#afe2ea037fa24064c2bf04cfc6303d903", null ],
+    [ "firstQuest", "de/d5d/a08415.html#a28162b1e43a5309ab01ca99b45d29799", null ],
+    [ "maxLevel", "de/d5d/a08415.html#aae6e46155dc790ed7c63f5f0b8e08395", null ],
+    [ "otherQuest", "de/d5d/a08415.html#a96de83c64efc3009d7d5cd04a61e71b2", null ]
 ];

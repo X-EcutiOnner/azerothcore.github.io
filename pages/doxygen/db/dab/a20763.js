@@ -1,9 +1,7 @@
 var a20763 =
 [
-    [ "npc_ulduar_bot_summon_trigger", "db/dab/a20763.html#a16d36c154b6851c0081cc05f838b0fed", null ],
-    [ "DoAction", "db/dab/a20763.html#a776782a85892d2d674773573be25bfa0", null ],
-    [ "Reset", "db/dab/a20763.html#a4ec8487028b188347cf0c9a080076fe6", null ],
-    [ "UpdateAI", "db/dab/a20763.html#a788d3eaba382e3af897678f6709a0242", null ],
-    [ "_option", "db/dab/a20763.html#a39c909b67fcdc81542470b6e96256fd5", null ],
-    [ "_timer", "db/dab/a20763.html#a2530742a19275efe92eeded4dce67567", null ]
+    [ "FilterTargets", "db/dab/a20763.html#a4ea7a7ee257a74c7ae1da47b9a75f852", null ],
+    [ "HandleScript", "db/dab/a20763.html#a3b5fa94cdc2da133ae0cfaab9f949a57", null ],
+    [ "PrepareSpellScript", "db/dab/a20763.html#a9e29a54a0c4bbc32b5d9fffe6d34a41d", null ],
+    [ "Register", "db/dab/a20763.html#a53f90eb4dc7cdeab5bee4ab1a21691ac", null ]
 ];

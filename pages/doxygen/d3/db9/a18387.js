@@ -1,7 +1,6 @@
 var a18387 =
 [
-    [ "HandleTriggerSpell", "d3/db9/a18387.html#a7d7f1731c453e5d0b70e6093aeedea87", null ],
-    [ "PrepareAuraScript", "d3/db9/a18387.html#afff0c81696ddcb427ce105d510ef93b1", null ],
-    [ "Register", "d3/db9/a18387.html#aa50c6066115d7b60704eff48e77d10bd", null ],
-    [ "Validate", "d3/db9/a18387.html#a6ef56d3d18bab2f81c810160ecf3ae96", null ]
+    [ "npc_putricide_mutated_abomination", "d3/db9/a18387.html#ae8aa90f98296c10cbbb54570304892ca", null ],
+    [ "AttackStart", "d3/db9/a18387.html#a4ab01c14094f37de91591ff3a81e5c23", null ],
+    [ "UpdateAI", "d3/db9/a18387.html#a84e6eed6db698c6dfa0a2e73c30c1505", null ]
 ];

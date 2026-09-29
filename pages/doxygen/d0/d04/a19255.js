@@ -1,9 +1,8 @@
 var a19255 =
 [
-    [ "FilterTargets", "d0/d04/a19255.html#a3acf306a9cae592d93a909ee0162777f", null ],
-    [ "HandleMirror", "d0/d04/a19255.html#aa37be5d7e140afe7ad9ef51b5d173b98", null ],
-    [ "PrepareSpellScript", "d0/d04/a19255.html#a5344b059a1e2543e0da03dfce3d36bf4", null ],
-    [ "Register", "d0/d04/a19255.html#a7e90d4e97a3e9a07edd6a482e8faa5c7", null ],
-    [ "Validate", "d0/d04/a19255.html#a0e3138957535ddfebe25aa44d917d942", null ],
-    [ "_targets", "d0/d04/a19255.html#a93afed08cf6714c896d2619e0fa0536f", null ]
+    [ "OnApply", "d0/d04/a19255.html#ab36c99093a1659e65cd7e41524fdeeff", null ],
+    [ "OnRemove", "d0/d04/a19255.html#a433df999703d10b8d5001af75e8b2c97", null ],
+    [ "PrepareAuraScript", "d0/d04/a19255.html#af6c809fb292cafd052b22b345df23b7f", null ],
+    [ "Register", "d0/d04/a19255.html#ad116dbd8b69a1f7e8951a170b1872d97", null ],
+    [ "Validate", "d0/d04/a19255.html#a9d122f2335fdab34791e2eedff022aef", null ]
 ];

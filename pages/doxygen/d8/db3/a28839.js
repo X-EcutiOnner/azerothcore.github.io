@@ -1,4 +1,8 @@
 var a28839 =
 [
-    [ "operator()", "d8/db3/a28839.html#a76ede7ef27a41a284821e690c88375c9", null ]
+    [ "npc_cultist_engineer", "d8/db3/a28839.html#a02675a96d20902d147b0370fa1715d81", null ],
+    [ "JustDied", "d8/db3/a28839.html#a4b4d561f827553998caa204e0e1b9e54", null ],
+    [ "Reset", "d8/db3/a28839.html#a6f84d224a959c06fbb7a48197dd4cbdd", null ],
+    [ "sGossipSelect", "d8/db3/a28839.html#ab26d124cbfdc4d649fef6058e9637845", null ],
+    [ "UpdateAI", "d8/db3/a28839.html#a47b1b08959b8cd02ba92fcf3a55e32d2", null ]
 ];

@@ -1,12 +1,14 @@
 var a20283 =
 [
-    [ "npc_auriaya_feral_defender", "d6/d77/a20283.html#a84425204b0ad06789edb331ed8495774", null ],
-    [ "DamageTaken", "d6/d77/a20283.html#aaebbf27345a546bf66e4ab7ed8eae556", null ],
-    [ "DoAction", "d6/d77/a20283.html#aea39a90b4e66796c37dde02687a9b2ad", null ],
-    [ "JustDied", "d6/d77/a20283.html#aa86cb08096ba0e43280f23d9acd0bfa1", null ],
-    [ "JustEngagedWith", "d6/d77/a20283.html#a3d91f99b57ba4d72b526a13f671961ce", null ],
-    [ "JustSummoned", "d6/d77/a20283.html#acea3175bcd4df4cf88dc9561c01bee64", null ],
-    [ "Reset", "d6/d77/a20283.html#a02b09b7dfdd4036827bb474a57296491", null ],
-    [ "UpdateAI", "d6/d77/a20283.html#a7b40afef6b58e7a41b2d00bccbdfe311", null ],
-    [ "_summons", "d6/d77/a20283.html#a0b7960f590ba76068c377cf08291ce35", null ]
+    [ "boss_auriaya", "d6/d77/a20283.html#a2d946ada185a29bf00dc49d28089e64e", null ],
+    [ "DespawnFormationMembers", "d6/d77/a20283.html#a46dcb873d4101174687b4189d0494403", null ],
+    [ "DoAction", "d6/d77/a20283.html#aa58503020e3382e0c541047b233945a7", null ],
+    [ "ExecuteEvent", "d6/d77/a20283.html#ad8623f7f0dcda5532893c966cb216fc0", null ],
+    [ "GetData", "d6/d77/a20283.html#a44781b758392f8f519b9684617757620", null ],
+    [ "JustDied", "d6/d77/a20283.html#aa68d15f57a1ef545572f6d14a0541f4f", null ],
+    [ "JustEngagedWith", "d6/d77/a20283.html#ac80d7bbc334e20df9e85540556b8714e", null ],
+    [ "KilledUnit", "d6/d77/a20283.html#a6a3d2a4c2ae460da8db6b92b85bed45f", null ],
+    [ "Reset", "d6/d77/a20283.html#a4e2d1f982b2d5cb34ec8f77f869e8bad", null ],
+    [ "_feralDied", "d6/d77/a20283.html#a6e9a34f197964061752d7fd8283b1bf0", null ],
+    [ "_nineLives", "d6/d77/a20283.html#a26d80573eda1aa1005e1bc5453c182af", null ]
 ];

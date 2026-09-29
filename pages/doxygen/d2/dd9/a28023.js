@@ -1,8 +1,7 @@
 var a28023 =
 [
-    [ "HandleEffect", "d2/dd9/a28023.html#a1c1a06362742abcf83e1817c468de3d3", null ],
-    [ "PrepareSpellScript", "d2/dd9/a28023.html#a0e2cce13a3b2c8b8e9ace8876def8b9c", null ],
-    [ "Register", "d2/dd9/a28023.html#a56108b37bc69809ce80d424e2bcb3f55", null ],
-    [ "SendMiss", "d2/dd9/a28023.html#afda727460aebc8fe97d5c18d0195ea2c", null ],
-    [ "Validate", "d2/dd9/a28023.html#ab9533351a176f4e0d641a6e36a75d6b9", null ]
+    [ "HandleDummy", "d2/dd9/a28023.html#a3af91500357eb127f813334bdf538dbd", null ],
+    [ "PrepareSpellScript", "d2/dd9/a28023.html#ae34ff5e6027efecc34fa770690df5887", null ],
+    [ "Register", "d2/dd9/a28023.html#add4e4d484008d1e1cf63e36c6b6e9757", null ],
+    [ "Validate", "d2/dd9/a28023.html#a0b107442c0b76a018cc019f776c0b785", null ]
 ];

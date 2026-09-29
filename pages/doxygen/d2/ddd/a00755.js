@@ -1,4 +1,5 @@
 var a00755 =
 [
-    [ "ScriptRegistry< OutdoorPvPScript >", "d2/ddd/a00755.html#a87dac516981f5c502b37a0500f6f7882", null ]
+    [ "titles_commandscript", "d1/d8b/a12707.html", "d1/d8b/a12707" ],
+    [ "AddSC_titles_commandscript", "d2/ddd/a00755.html#abd13948cbed6e10bdbf797847a0f6839", null ]
 ];

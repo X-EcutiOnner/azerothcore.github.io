@@ -1,11 +1,7 @@
 var a11667 =
 [
-    [ "QuestGiverQuestComplete", "d4/de2/a11667.html#ad7cf8778e608128fad236f9eb7448c66", null ],
-    [ "Write", "d4/de2/a11667.html#ad9a328ee5bc7890bbd904a4d7e60f0ef", null ],
-    [ "Experience", "d4/de2/a11667.html#a2c9b1c07b5a52a5526643a6894290e0c", null ],
-    [ "QuestId", "d4/de2/a11667.html#adc349dfbefc0b5a4c13af4b7746dbfe4", null ],
-    [ "RewardArena", "d4/de2/a11667.html#a035223abc4d17df598dfcbc05f7f0770", null ],
-    [ "RewardHonor", "d4/de2/a11667.html#ab7f2f90b0132e3945f84bf36ba926417", null ],
-    [ "RewardMoney", "d4/de2/a11667.html#ab488d663cb52d92dc0d6c39f1d2e7388", null ],
-    [ "RewardTalents", "d4/de2/a11667.html#a43ee482017cfde3cf8f9f36f2dadf3f0", null ]
+    [ "QuestGiverQuestFailed", "d4/de2/a11667.html#aec524e18a6a0fb666061bd08b17ff9cb", null ],
+    [ "Write", "d4/de2/a11667.html#a97d19e4fe5ccc50afaf91d58321d31ec", null ],
+    [ "FailureReason", "d4/de2/a11667.html#a5c4d887fd352e97c10a52bb095d8e33d", null ],
+    [ "QuestId", "d4/de2/a11667.html#a1c09d090cd3b7fc73becca4f523141f6", null ]
 ];

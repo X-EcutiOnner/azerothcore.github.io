@@ -1,23 +1,18 @@
 var a02474 =
 [
-    [ "AddSC_achievement_scripts", "d5/d61/a02474.html#a5091d6f933800f3313078304ad5c38ca", null ],
-    [ "AddSC_action_ip_logger", "d5/d61/a02474.html#a530be5efb251d5ca58e97804e48ad953", null ],
-    [ "AddSC_areatrigger_scripts", "d5/d61/a02474.html#a992f2da647f1f8748c7c9239b52079ad", null ],
-    [ "AddSC_chat_log", "d5/d61/a02474.html#ae796ad81a78a552e5c31fcf6c5c135fa", null ],
-    [ "AddSC_emerald_dragons", "d5/d61/a02474.html#aabef9c5c7a434027ce4d3af6e2b77430", null ],
-    [ "AddSC_generic_creature", "d5/d61/a02474.html#a50f66c4d6429b38157e35a75a0daa31d", null ],
-    [ "AddSC_go_scripts", "d5/d61/a02474.html#a279b19d9fff015d16fc8bbd2fbc9325a", null ],
-    [ "AddSC_guards", "d5/d61/a02474.html#acba582cbc90c710c629dd30926acdca4", null ],
-    [ "AddSC_item_scripts", "d5/d61/a02474.html#a3e28ebf5a580887bb117f786689a34c6", null ],
-    [ "AddSC_npc_innkeeper", "d5/d61/a02474.html#a3ffce1ea6cca981888af85ba67364df9", null ],
-    [ "AddSC_npc_professions", "d5/d61/a02474.html#a428ec531a2dc4e479b5c73e0d0694091", null ],
-    [ "AddSC_npc_stave_of_ancients", "d5/d61/a02474.html#a81e200e5d045a2403cd76a0559a6fd8c", null ],
-    [ "AddSC_npc_taxi", "d5/d61/a02474.html#a36f8a13e2844278c955f3a8155e7a11c", null ],
-    [ "AddSC_npcs_special", "d5/d61/a02474.html#aac822f73be6c9bf1dfaa4bbaec0e5aef", null ],
-    [ "AddSC_player_scripts", "d5/d61/a02474.html#a1f476a8466c12651b57fd55bf13b9617", null ],
-    [ "AddSC_scourge_invasion", "d5/d61/a02474.html#a5e9656f80b8e7b4176a6271aadc2d8e7", null ],
-    [ "AddSC_server_mail", "d5/d61/a02474.html#a8c20fa2f42eb423e39f2aaafe8fadafc", null ],
-    [ "AddSC_suns_reach_reclamation", "d5/d61/a02474.html#ae3e186d64e39803c404f1afb2144557b", null ],
-    [ "AddSC_transport_zeppelins", "d5/d61/a02474.html#a29051596b0a3382db98c6b72f7ff3173", null ],
-    [ "AddWorldScripts", "d5/d61/a02474.html#a5e7b18db76511725a47c51e9ce748575", null ]
+    [ "GroupQueueInfo", "da/dff/a07783.html", "da/dff/a07783" ],
+    [ "BattlegroundQueue", "dd/dbb/a07787.html", "dd/dbb/a07787" ],
+    [ "BattlegroundQueue::SelectionPool", "d3/db0/a07791.html", "d3/db0/a07791" ],
+    [ "BGQueueInviteEvent", "d2/dc5/a07795.html", "d2/dc5/a07795" ],
+    [ "BGQueueRemoveEvent", "dd/d7d/a07799.html", "dd/d7d/a07799" ],
+    [ "BattlegroundQueueGroupTypes", "d5/d61/a02474.html#a589e9d4a3badd48f91fddc2afa661b17", [
+      [ "BG_QUEUE_PREMADE_ALLIANCE", "d5/d61/a02474.html#a589e9d4a3badd48f91fddc2afa661b17a8f1f06d0124e05efcb390e0e9a29ddf4", null ],
+      [ "BG_QUEUE_PREMADE_HORDE", "d5/d61/a02474.html#a589e9d4a3badd48f91fddc2afa661b17a39d0b398e1bcd59620eb0f8701139d1c", null ],
+      [ "BG_QUEUE_NORMAL_ALLIANCE", "d5/d61/a02474.html#a589e9d4a3badd48f91fddc2afa661b17a4b31b889f93f89bfaacde424717c2697", null ],
+      [ "BG_QUEUE_NORMAL_HORDE", "d5/d61/a02474.html#a589e9d4a3badd48f91fddc2afa661b17aea585c62a155542b2d643e25d554f15d", null ],
+      [ "BG_QUEUE_CFBG", "d5/d61/a02474.html#a589e9d4a3badd48f91fddc2afa661b17ab87d2294b56bc938b1c7bc14c5040239", null ],
+      [ "BG_QUEUE_MAX", "d5/d61/a02474.html#a589e9d4a3badd48f91fddc2afa661b17adc82de1f737fd5356f21d83ade1ff992", null ]
+    ] ],
+    [ "BG_QUEUE_ANNOUNCER_IMMEDIATE_DEBOUNCE", "d5/d61/a02474.html#a532cb5269831c504ba78101c6f3d61c9", null ],
+    [ "COUNT_OF_PLAYERS_TO_AVERAGE_WAIT_TIME", "d5/d61/a02474.html#aebc536d6c303d31049ad05f333c275ba", null ]
 ];

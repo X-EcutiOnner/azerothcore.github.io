@@ -1,9 +1,7 @@
 var a18027 =
 [
-    [ "npc_stinky_iccAI", "dc/d8c/a18027.html#a545356eb2b77cfae7af3d470e95ea2d6", null ],
-    [ "JustDied", "dc/d8c/a18027.html#a7fa392980e2d30c935b79377df8dc694", null ],
-    [ "JustEngagedWith", "dc/d8c/a18027.html#afd1cd4fc387ff7cdad58c9db60841c7a", null ],
-    [ "Reset", "dc/d8c/a18027.html#ac66e3398598576fdc889a7b56646eecf", null ],
-    [ "UpdateAI", "dc/d8c/a18027.html#af6e04824ea1682c529e8579a306d34ca", null ],
-    [ "events", "dc/d8c/a18027.html#a3ab7ae11b7f5ef5877febbd384014ce2", null ]
+    [ "HandleScript", "dc/d8c/a18027.html#a276018baa590b942d90c457faea10040", null ],
+    [ "PrepareSpellScript", "dc/d8c/a18027.html#a0bdef74dbd65d938eb5eac32f6612fe1", null ],
+    [ "Register", "dc/d8c/a18027.html#a7afc131b5dd31ec6b225fdd38f0edf34", null ],
+    [ "Validate", "dc/d8c/a18027.html#a4d16e1aec2b24cd70366308f25619cf2", null ]
 ];

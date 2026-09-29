@@ -1,9 +1,21 @@
 var a05169 =
 [
-    [ "Hello", "d1/d62/a11461.html", "d1/d62/a11461" ],
-    [ "TrainerBuyFailed", "dd/d5a/a11477.html", "dd/d5a/a11477" ],
-    [ "TrainerBuySpell", "db/d04/a11473.html", "db/d04/a11473" ],
-    [ "TrainerBuySucceeded", "db/d9c/a11481.html", "db/d9c/a11481" ],
-    [ "TrainerList", "d1/ddf/a11469.html", "d1/ddf/a11469" ],
-    [ "TrainerListSpell", "d9/d1c/a11465.html", "d9/d1c/a11465" ]
+    [ "Spell", "db/dd6/a08615.html", "db/dd6/a08615" ],
+    [ "Trainer", "d7/d39/a08619.html", "d7/d39/a08619" ],
+    [ "FailReason", "d1/da1/a05169.html#ae4935022d4e3c686a8b51cd68a4f2b66", [
+      [ "Unavailable", "d1/da1/a05169.html#ae4935022d4e3c686a8b51cd68a4f2b66a453e6aa38d87b28ccae545967c53004f", null ],
+      [ "NotEnoughMoney", "d1/da1/a05169.html#ae4935022d4e3c686a8b51cd68a4f2b66a261cca2ac483068d987c38cfa8fd6094", null ],
+      [ "NotEnoughSkill", "d1/da1/a05169.html#ae4935022d4e3c686a8b51cd68a4f2b66a5ba2f62395296316a2a2222477988264", null ]
+    ] ],
+    [ "SpellState", "d1/da1/a05169.html#a34dc7b354e539f94e4c8a4cbd0711758", [
+      [ "Available", "d1/da1/a05169.html#a34dc7b354e539f94e4c8a4cbd0711758a78945de8de090e90045d299651a68a9b", null ],
+      [ "Unavailable", "d1/da1/a05169.html#a34dc7b354e539f94e4c8a4cbd0711758a453e6aa38d87b28ccae545967c53004f", null ],
+      [ "Known", "d1/da1/a05169.html#a34dc7b354e539f94e4c8a4cbd0711758a2f5650e484fa195949ac6c8d11dca4fd", null ]
+    ] ],
+    [ "Type", "d1/da1/a05169.html#a636cc62a0635fc1566fb574ebe9941a9", [
+      [ "Class", "d1/da1/a05169.html#a636cc62a0635fc1566fb574ebe9941a9a9bd81329febf6efe22788e03ddeaf0af", null ],
+      [ "Mount", "d1/da1/a05169.html#a636cc62a0635fc1566fb574ebe9941a9aeace16d66cdd93ad876c620db7456077", null ],
+      [ "Tradeskill", "d1/da1/a05169.html#a636cc62a0635fc1566fb574ebe9941a9a7f36331b1b83871b2bd2773a286f54cd", null ],
+      [ "Pet", "d1/da1/a05169.html#a636cc62a0635fc1566fb574ebe9941a9a7c986af4cf8f6e55a1f846dc498ce91d", null ]
+    ] ]
 ];

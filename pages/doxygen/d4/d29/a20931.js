@@ -1,14 +1,7 @@
 var a20931 =
 [
-    [ "boss_thorim_start_npcs", "d4/d29/a20931.html#a3ed7da48fc86ea00124181bb943a778d", null ],
-    [ "DamageTaken", "d4/d29/a20931.html#a4821ee0619dac4cdcd9434f57d83f0c9", null ],
-    [ "JustEngagedWith", "d4/d29/a20931.html#a636dd7264dd01aa5fc3c69af17425103", null ],
-    [ "JustReachedHome", "d4/d29/a20931.html#a1a297f2937ab9ca9a13de939ba6f6522", null ],
-    [ "Reset", "d4/d29/a20931.html#a37092466e579fe54a1dffe2ae0a2f689", null ],
-    [ "SetGUID", "d4/d29/a20931.html#aed0b8ed5c502b47e7274af920b9e927b", null ],
-    [ "StartMockBattle", "d4/d29/a20931.html#aa5566eb0feda227eb150ffe61fc3c67d", null ],
-    [ "UpdateAI", "d4/d29/a20931.html#a7cca60ceab19727e68fcd4a3629978c4", null ],
-    [ "_isCaster", "d4/d29/a20931.html#aa3c48c6d8d548cb39a6c7eea8f807dde", null ],
-    [ "_playerAttack", "d4/d29/a20931.html#ab1bf0c011692377fc591610c5131d5e2", null ],
-    [ "events", "d4/d29/a20931.html#affdeecbfa6bb62659c4a2f5ef1d1fafa", null ]
+    [ "boss_thorim_trap", "d4/d29/a20931.html#a793ce64835292b63f81cbb7140b3c6f9", null ],
+    [ "Reset", "d4/d29/a20931.html#a841cd9769b0875d01c2e65dddce0d1ef", null ],
+    [ "UpdateAI", "d4/d29/a20931.html#abd5ae669c1b1ecaaa567eedb7feaad16", null ],
+    [ "_checkTimer", "d4/d29/a20931.html#acb5ba7af429c9c0bdb8bed7cd411c655", null ]
 ];

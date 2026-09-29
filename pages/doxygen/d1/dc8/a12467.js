@@ -1,7 +1,27 @@
 var a12467 =
 [
-    [ "achievement_commandscript", "d1/dc8/a12467.html#ac1c40d7b3b628cc206c44eae18592292", null ],
-    [ "GetCommands", "d1/dc8/a12467.html#adeac4e6f74f006daa76b0ebb8ea1469c", null ],
-    [ "HandleAchievementAddCommand", "d1/dc8/a12467.html#a81a8dc82481b38763d846444b9846da7", null ],
-    [ "HandleAchievementCheckAllCommand", "d1/dc8/a12467.html#a0e3b83961ff20899a8492c8d8b7c13be", null ]
+    [ "account_commandscript", "d1/dc8/a12467.html#acfea28449f30913389ab2eddfc512dbb", null ],
+    [ "ChangeAccountFlag", "d1/dc8/a12467.html#a40959a2fe4768af0c01522482b90484b", null ],
+    [ "GetCommands", "d1/dc8/a12467.html#a28baac859fcc2ee8bbf00dcdf7b38f4d", null ],
+    [ "HandleAccount2FARemoveCommand", "d1/dc8/a12467.html#a9cba65441f9e594e14ff55537f7f83f0", null ],
+    [ "HandleAccount2FASetupCommand", "d1/dc8/a12467.html#aedfc70990dd6211938baad8b11a45e8c", null ],
+    [ "HandleAccountAddonCommand", "d1/dc8/a12467.html#ac05636d86ea945c48fdf2c8565029e2e", null ],
+    [ "HandleAccountCommand", "d1/dc8/a12467.html#aca24ee7a088839552cdf75c0a418d4e3", null ],
+    [ "HandleAccountCreateCommand", "d1/dc8/a12467.html#af8b6cb76e8a6f762b86c3a8d7134d056", null ],
+    [ "HandleAccountDeleteCommand", "d1/dc8/a12467.html#a4bb0b76ef822011054d699df31f60d7e", null ],
+    [ "HandleAccountFlagAddCommand", "d1/dc8/a12467.html#a7808acde3baa83c399ca6bf936065cf2", null ],
+    [ "HandleAccountFlagListCommand", "d1/dc8/a12467.html#a12e56ff772b3ed2997dc979203c05e48", null ],
+    [ "HandleAccountFlagRemoveCommand", "d1/dc8/a12467.html#afba345af5a9da1ff68c7333015730ef3", null ],
+    [ "HandleAccountInfoCommand", "d1/dc8/a12467.html#aa4f1f4513e0ce2e17d1bb5aee8a28ad2", null ],
+    [ "HandleAccountLockCountryCommand", "d1/dc8/a12467.html#a35e6b959596f1d9a32d39af117d2b95e", null ],
+    [ "HandleAccountLockIpCommand", "d1/dc8/a12467.html#a14e0d3fefc18f003c0079250e5c06b18", null ],
+    [ "HandleAccountOnlineListCommand", "d1/dc8/a12467.html#a36cb5b885d6c0745303b386ad42541f6", null ],
+    [ "HandleAccountPasswordCommand", "d1/dc8/a12467.html#a5cbbc397cd816e82963c7e2e352c90e5", null ],
+    [ "HandleAccountRemoveLockCountryCommand", "d1/dc8/a12467.html#a6a40319f52f00881a5be4a50f812b337", null ],
+    [ "HandleAccountSet2FACommand", "d1/dc8/a12467.html#a195e5037d3c4886ca8e69a56daadd028", null ],
+    [ "HandleAccountSetAddonCommand", "d1/dc8/a12467.html#aca017dc33dab7c379d8203569775f21b", null ],
+    [ "HandleAccountSetEmailCommand", "d1/dc8/a12467.html#ad4f26277c3484e8091e5f23ddbd45a2f", null ],
+    [ "HandleAccountSetGmLevelCommand", "d1/dc8/a12467.html#a1aaee019de3b7802281e25e926fa4821", null ],
+    [ "HandleAccountSetPasswordCommand", "d1/dc8/a12467.html#a77e9bb9f0f82b19ec9306533cab0d7bd", null ],
+    [ "ParseAccountFlagBit", "d1/dc8/a12467.html#a48924a519a26aca2d4558df9e696ec47", null ]
 ];

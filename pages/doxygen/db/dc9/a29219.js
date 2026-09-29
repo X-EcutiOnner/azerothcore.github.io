@@ -1,7 +1,9 @@
 var a29219 =
 [
-    [ "bit_index", "db/dc9/a29219.html#a1e5cb3fc001169a204507a084435a211", null ],
-    [ "ID", "db/dc9/a29219.html#a63fe7a87e019780d20e86e48efb02eac", null ],
-    [ "nameFemale", "db/dc9/a29219.html#ad0380caf2526715faaddc9330062d90a", null ],
-    [ "nameMale", "db/dc9/a29219.html#a74a767731c96d3d815ddde5a06f68599", null ]
+    [ "HolidayWorldStateId", "db/dc9/a29219.html#a3f70ffbb1abb5a96fe91c2eec3682c8b", null ],
+    [ "id", "db/dc9/a29219.html#a52f7840f9247d2af63062dd280b37341", null ],
+    [ "mapid", "db/dc9/a29219.html#a11e1326eeb24b436b10db53acc323c13", null ],
+    [ "maxGroupSize", "db/dc9/a29219.html#adbdae47b424c3b61b76b48ea5798f52d", null ],
+    [ "name", "db/dc9/a29219.html#a9a56ca930ff8425d4b77066e47a1e09f", null ],
+    [ "type", "db/dc9/a29219.html#a647669b97599d7edf02b5a38dd1d5116", null ]
 ];

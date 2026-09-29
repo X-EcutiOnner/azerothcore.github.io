@@ -1,9 +1,8 @@
 var a05683 =
 [
-    [ "Count", "d6/d3e/a05683.html#a05f606f459c905632d1452727bc93a0d", null ],
-    [ "GetElements", "d6/d3e/a05683.html#a260f2bd14ae022a5810539ba87cec51e", null ],
-    [ "GetElements", "d6/d3e/a05683.html#ab67e427fb3f82553e2253288e036d1ae", null ],
-    [ "Insert", "d6/d3e/a05683.html#a791a9c0d1c878323960e529e0c7b66c8", null ],
-    [ "Remove", "d6/d3e/a05683.html#abfb5e987b1c711d259896708887ca6d7", null ],
-    [ "i_elements", "d6/d3e/a05683.html#a095f3a1caf74ca4e9e12ecca538a0cc4", null ]
+    [ "Count", "d6/d3e/a05683.html#a4ab8f061208d7733ee65ba768f85f513", null ],
+    [ "GetElements", "d6/d3e/a05683.html#af75467b56830b1447bebbf974b2747b6", null ],
+    [ "GetElements", "d6/d3e/a05683.html#a04e403e4e051d7885806e05a408f4329", null ],
+    [ "insert", "d6/d3e/a05683.html#a026880bb3378687143ed19fa7b99b41b", null ],
+    [ "i_elements", "d6/d3e/a05683.html#a8ef4a180d448dcba2141fc389621433d", null ]
 ];

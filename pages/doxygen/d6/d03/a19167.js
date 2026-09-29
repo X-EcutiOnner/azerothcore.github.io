@@ -1,6 +1,6 @@
 var a19167 =
 [
-    [ "npc_captain_rupertAI", "d1/d17/a19171.html", "d1/d17/a19171" ],
-    [ "npc_captain_rupert", "d6/d03/a19167.html#a7a4535a6b784b460c79722e9a50c3ff6", null ],
-    [ "GetAI", "d6/d03/a19167.html#a20afc31fc1a8bb09692ab0cc47af3c1b", null ]
+    [ "npc_captain_brandonAI", "d6/d03/a19167.html#a1fe09b93be658660ba3c127c142e2ee6", null ],
+    [ "Reset", "d6/d03/a19167.html#a13226b321707eee9faf5f073c81403e4", null ],
+    [ "UpdateAI", "d6/d03/a19167.html#a721f8f7395cd57d4dba74f66ae40169f", null ]
 ];

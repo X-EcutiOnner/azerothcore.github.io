@@ -1,6 +1,6 @@
 var a16103 =
 [
-    [ "npc_omenAI", "d0/d73/a16107.html", "d0/d73/a16107" ],
-    [ "npc_omen", "d7/dc7/a16103.html#aff955303a8b9741838779a59dd496f62", null ],
-    [ "GetAI", "d7/dc7/a16103.html#a8023ad3298000d9819c46f46a93166d4", null ]
+    [ "npc_silva_filnaveth", "d7/dc7/a16103.html#a5998381865214a7b3af7823bd2557cb0", null ],
+    [ "OnGossipHello", "d7/dc7/a16103.html#a32019c17271a3f504d86cd694262fd53", null ],
+    [ "OnGossipSelect", "d7/dc7/a16103.html#a10f81dce3dbc3ef0a84c8c33c2cb2e29", null ]
 ];

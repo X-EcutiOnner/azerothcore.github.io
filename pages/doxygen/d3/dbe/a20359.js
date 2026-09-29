@@ -1,5 +1,7 @@
 var a20359 =
 [
-    [ "go_ulduar_tower", "d3/dbe/a20359.html#afc1add1a0543921f52afe1eb907f5de3", null ],
-    [ "OnDestroyed", "d3/dbe/a20359.html#aa72ebefe52d49e5b07fb36232efd7e95", null ]
+    [ "npc_storm_beacon_spawn", "d3/dbe/a20359.html#a999b6421a0ef6eec2987716a60352a5e", null ],
+    [ "UpdateAI", "d3/dbe/a20359.html#a93dbd7a26d6333f18329142280cc743d", null ],
+    [ "_amount", "d3/dbe/a20359.html#acb5d1f2b6590da32f36882339729c4e9", null ],
+    [ "_checkTimer", "d3/dbe/a20359.html#a9717b52f26045707fd852b955d29a5e6", null ]
 ];

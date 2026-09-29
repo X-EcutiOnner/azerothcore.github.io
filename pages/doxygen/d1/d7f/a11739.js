@@ -1,6 +1,7 @@
 var a11739 =
 [
-    [ "WorldStateInfo", "d1/d7f/a11739.html#a64fd2e4da7035ea6c01b8ab0819d2f86", null ],
-    [ "Value", "d1/d7f/a11739.html#afe5a0e98713c986a17f431795c488c6c", null ],
-    [ "VariableID", "d1/d7f/a11739.html#a627bba237bce23aff74fd2bf7a274657", null ]
+    [ "UpdateWorldState", "d1/d7f/a11739.html#a1ccdf24be9a20c824b479af014f4fcb0", null ],
+    [ "Write", "d1/d7f/a11739.html#a76a4c5d6a06ce8d86a2d3f04f68e838d", null ],
+    [ "Value", "d1/d7f/a11739.html#a51fa2401d8af4c1c7848b423cb6f056f", null ],
+    [ "VariableID", "d1/d7f/a11739.html#aa73278b324822f509f48e6edcdaed457", null ]
 ];

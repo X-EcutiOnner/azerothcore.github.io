@@ -1,5 +1,7 @@
 var a19299 =
 [
-    [ "at_icc_saurfang_portal", "d9/d7c/a19299.html#a7f30058251c520634a0b7bad08380e5d", null ],
-    [ "OnTrigger", "d9/d7c/a19299.html#a8980fe0e67aa33335f0fdb947a294213", null ]
+    [ "Land", "d9/d7c/a19299.html#ad2fd3d7c81e3ef22cb3767914f649fd0", null ],
+    [ "PrepareSpellScript", "d9/d7c/a19299.html#a31e45adb87719c311fb5b94b2b744487", null ],
+    [ "Register", "d9/d7c/a19299.html#a652eca6ec8079b2835d911807857c8a8", null ],
+    [ "RemoveAliveTarget", "d9/d7c/a19299.html#abdb5f624b30a046eed9ca6ad7c347010", null ]
 ];

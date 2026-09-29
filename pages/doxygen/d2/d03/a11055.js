@@ -1,7 +1,5 @@
 var a11055 =
 [
-    [ "LogoutResponse", "d2/d03/a11055.html#a434ee19fbc4d3e336444b1c62ac2be84", null ],
-    [ "Write", "d2/d03/a11055.html#a0b08225b6ac303afd20ec213aafe4bcb", null ],
-    [ "Instant", "d2/d03/a11055.html#aad6819dc426b91b6ad43f180a53e12ef", null ],
-    [ "LogoutResult", "d2/d03/a11055.html#a5543bf1a6342e9a217cd906e4a185b2e", null ]
+    [ "LogoutComplete", "d2/d03/a11055.html#a94f3ea0cd30d1eb44733c1c5aef05ec7", null ],
+    [ "Write", "d2/d03/a11055.html#a0d958bc07b674ed3339833351fec7d3a", null ]
 ];

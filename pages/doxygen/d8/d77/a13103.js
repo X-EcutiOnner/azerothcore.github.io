@@ -1,8 +1,7 @@
 var a13103 =
 [
-    [ "boss_garr", "d8/d77/a13103.html#a12ac023b48fc20055cec9e7e8dbfa8a7", null ],
-    [ "JustEngagedWith", "d8/d77/a13103.html#abab82d2e00b373ea1f0e444de23f4987", null ],
-    [ "Reset", "d8/d77/a13103.html#a64bcae059cfa97def7e52a42d404a016", null ],
-    [ "UpdateAI", "d8/d77/a13103.html#a2a412224072b47de6780ea7b8d543743", null ],
-    [ "massEruptionTimer", "d8/d77/a13103.html#a6c428a4c92e4dcbe2fc2b97b5f377560", null ]
+    [ "HandleAfterApply", "d8/d77/a13103.html#a8f55616f861cccf7126f7e1a7c88f3c1", null ],
+    [ "HandleAfterRemove", "d8/d77/a13103.html#a7970613f1668294f29f61c1f10a9ba37", null ],
+    [ "PrepareAuraScript", "d8/d77/a13103.html#aea2f52682e723f8dacfffa20cd0f41a5", null ],
+    [ "Register", "d8/d77/a13103.html#ae38b71adaff3b36f5d7b3007e84e620f", null ]
 ];

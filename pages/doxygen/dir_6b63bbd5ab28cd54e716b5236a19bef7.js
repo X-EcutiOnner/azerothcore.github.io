@@ -1,7 +1,7 @@
 var dir_6b63bbd5ab28cd54e716b5236a19bef7 =
 [
-    [ "CombatManager.cpp", "da/dd5/a01580.html", null ],
-    [ "CombatManager.h", "d9/d1b/a01583.html", "d9/d1b/a01583" ],
-    [ "ThreatManager.cpp", "d7/d29/a01589.html", "d7/d29/a01589" ],
-    [ "ThreatManager.h", "d2/d2f/a01586.html", "d2/d2f/a01586" ]
+    [ "CombatManager.cpp", "d0/da2/a03620.html", null ],
+    [ "CombatManager.h", "d3/df2/a03614.html", "d3/df2/a03614" ],
+    [ "ThreatManager.cpp", "df/d42/a03623.html", "df/d42/a03623" ],
+    [ "ThreatManager.h", "d4/d35/a03617.html", "d4/d35/a03617" ]
 ];

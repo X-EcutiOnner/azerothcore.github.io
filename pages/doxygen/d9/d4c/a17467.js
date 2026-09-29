@@ -1,8 +1,7 @@
 var a17467 =
 [
-    [ "npc_hor_risen_witch_doctor", "d9/d4c/a17467.html#a68e2913f88427b1d6cb35351d9b749a0", null ],
-    [ "JustDied", "d9/d4c/a17467.html#ac742da67a5624aebdbbbdc51378cfc82", null ],
-    [ "JustEngagedWith", "d9/d4c/a17467.html#ae612bec2e909abb2574298f4a34116f3", null ],
-    [ "Reset", "d9/d4c/a17467.html#a63b9343146a8c950f5d31f21cd5f4838", null ],
-    [ "UpdateAI", "d9/d4c/a17467.html#a87948e1bac92033fa700e1c0ce27cbf5", null ]
+    [ "npc_hor_leader_secondAI", "d7/df9/a17471.html", "d7/df9/a17471" ],
+    [ "npc_hor_leader_second", "d9/d4c/a17467.html#a9fa1f38ab8a0b5d2207857b75e272ee0", null ],
+    [ "GetAI", "d9/d4c/a17467.html#af5b97ecca35501a75658919d384a18f7", null ],
+    [ "OnGossipSelect", "d9/d4c/a17467.html#a8355f7f2f8e7655c7ebc7145a847ab87", null ]
 ];

@@ -1,5 +1,7 @@
 var a28859 =
 [
-    [ "npc_suns_reach_reclamation", "db/d74/a28859.html#aa66b75aa1a4a96a97c4d2c4e42e3d6bb", null ],
-    [ "OnQuestReward", "db/d74/a28859.html#aa403d14fccda7adbec1ffeb765079c25", null ]
+    [ "HandleDummy", "db/d74/a28859.html#ade9ff4db63fecf726776f6e4b36bb437", null ],
+    [ "PrepareSpellScript", "db/d74/a28859.html#a0375b541f2a90e337fee61ced6d8f3ec", null ],
+    [ "Register", "db/d74/a28859.html#a66c530b497e4952b457bbfa50a036c07", null ],
+    [ "Validate", "db/d74/a28859.html#a968333dcfe0553ad73879f3042db5511", null ]
 ];

@@ -1,8 +1,7 @@
 var a28031 =
 [
-    [ "HandleDamage", "de/dec/a28031.html#a371d3112e619453b7c92933a145bf4d2", null ],
-    [ "HandleDummy", "de/dec/a28031.html#a051f68946f3c246b410bbaa2ac14e4b1", null ],
-    [ "PrepareSpellScript", "de/dec/a28031.html#a41d69ed3f8372c4e157aefbec6ad525c", null ],
-    [ "Register", "de/dec/a28031.html#aaa1e53f38a2ba835c12fa726c030ab08", null ],
-    [ "Validate", "de/dec/a28031.html#a180ab99bc257b841e0bbbfc0ddb83814", null ]
+    [ "OnProc", "de/dec/a28031.html#a7ab183d734c543be2866c57f1e5cc508", null ],
+    [ "PrepareAuraScript", "de/dec/a28031.html#a31118cda9f29318f4620caf38c09522a", null ],
+    [ "Register", "de/dec/a28031.html#ac27f99aafa92ae85a247c6f25ece8c7b", null ],
+    [ "Validate", "de/dec/a28031.html#aa193bddd2ba9efe70343c5501d737fa4", null ]
 ];

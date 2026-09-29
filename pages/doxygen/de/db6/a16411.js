@@ -1,8 +1,7 @@
 var a16411 =
 [
-    [ "HandleAfterCast", "de/db6/a16411.html#aa85852ff5e5d03637d1dcc43a446843e", null ],
-    [ "HandleDummyEffect", "de/db6/a16411.html#a539c233fc820248930e1988c4074b9c8", null ],
-    [ "Load", "de/db6/a16411.html#a4fc295b4d8775dce16d913fe4a8ce8cb", null ],
-    [ "PrepareSpellScript", "de/db6/a16411.html#aad6f7f1d29414475b5e678e7bd94737f", null ],
-    [ "Register", "de/db6/a16411.html#ae90184fd34636b33755b732ec82fd52f", null ]
+    [ "HandleDummy", "de/db6/a16411.html#a5d619c13c620fedeea803a0802fd9ee6", null ],
+    [ "PrepareSpellScript", "de/db6/a16411.html#a04ed0daa21e66b842b8443b5e102ec1d", null ],
+    [ "Register", "de/db6/a16411.html#a4359ad73b513a368509a066a039ddf53", null ],
+    [ "_targetCount", "de/db6/a16411.html#a3ba108d63ef38af0a8730c1bf1aa69e9", null ]
 ];

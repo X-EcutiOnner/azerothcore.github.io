@@ -1,6 +1,6 @@
 var a20011 =
 [
-    [ "HandlePeriodic", "d2/d20/a20011.html#a08717e9e8e974fcd7051c45fd1d26893", null ],
-    [ "PrepareAuraScript", "d2/d20/a20011.html#abf7b2d81ee81ff27388678e9a5433eac", null ],
-    [ "Register", "d2/d20/a20011.html#ac98109fe8d9192ae97e4aa5dc10463cf", null ]
+    [ "HandleDamageCalc", "d2/d20/a20011.html#a71b88fbad5acbba47028dd1ff82b4836", null ],
+    [ "PrepareSpellScript", "d2/d20/a20011.html#a754da297cd5801616e24bf2d802d0b38", null ],
+    [ "Register", "d2/d20/a20011.html#a231f29ea69a354ddb2963cb4ef9a3f4e", null ]
 ];

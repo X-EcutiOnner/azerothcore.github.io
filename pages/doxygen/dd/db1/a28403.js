@@ -1,6 +1,7 @@
 var a28403 =
 [
-    [ "go_gilded_brazierAI", "d0/d39/a28407.html", "d0/d39/a28407" ],
-    [ "go_gilded_brazier", "dd/db1/a28403.html#a778c753a8432131601371da8849ef004", null ],
-    [ "GetAI", "dd/db1/a28403.html#a2c8ced3e29c05c9d55745c4f10c9202d", null ]
+    [ "go_darkmoon_faire_musicAI", "dd/db1/a28403.html#a2ee13dd1260c1ad5b810c25665c9ec87", null ],
+    [ "UpdateAI", "dd/db1/a28403.html#af3d802bd852fc0483f72781edb13b5d5", null ],
+    [ "_events", "dd/db1/a28403.html#acc7e15d2b286b7df262623acf7ea7f03", null ],
+    [ "rnd", "dd/db1/a28403.html#a9a4c983f11c4d912f31eaaf351afc016", null ]
 ];

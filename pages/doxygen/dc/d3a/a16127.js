@@ -1,7 +1,7 @@
 var a16127 =
 [
-    [ "npc_thrall_warchiefAI", "d1/db1/a16131.html", "d1/db1/a16131" ],
-    [ "npc_thrall_warchief", "dc/d3a/a16127.html#a3958f0b444537ac8a5ebf55de44e3590", null ],
-    [ "GetAI", "dc/d3a/a16127.html#a4fc3d5410b959b4289f1ced17d412c03", null ],
-    [ "OnQuestReward", "dc/d3a/a16127.html#a6576664c201d62cab1fa2f073cddee6e", null ]
+    [ "npc_giant_spotlightAI", "dc/d3a/a16127.html#ae0f6686aaeacafce193e0d4590cf8c09", null ],
+    [ "Reset", "dc/d3a/a16127.html#a79f6703107eed52a3aeae30393507c0f", null ],
+    [ "UpdateAI", "dc/d3a/a16127.html#a8567f936dd15933300497d5abe80a272", null ],
+    [ "events", "dc/d3a/a16127.html#a20d1087e59daae9189d78f04ea2b2d05", null ]
 ];

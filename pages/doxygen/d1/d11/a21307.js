@@ -1,7 +1,5 @@
 var a21307 =
 [
-    [ "npc_frost_tomb", "d1/d11/a21307.html#a9c7abe1dc25b807d34f1ed818ab639ef", null ],
-    [ "JustDied", "d1/d11/a21307.html#a40a14647eaf9f2c5bd11c094f0aadb79", null ],
-    [ "UpdateAI", "d1/d11/a21307.html#af2122e9c8cb206151f631659c7d167da", null ],
-    [ "PrisonerGUID", "d1/d11/a21307.html#a456fcd5dd3f504954a74fc068f253dc2", null ]
+    [ "npc_salvaged_siege_engine", "d1/d11/a21307.html#aa8cde891a19ebb1e53be2a81a2432442", null ],
+    [ "BeforeSpellClick", "d1/d11/a21307.html#aed2500b2315b5e508ea3d06a2355d023", null ]
 ];

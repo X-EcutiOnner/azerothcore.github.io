@@ -1,23 +1,12 @@
 var a08379 =
 [
-    [ "Lfg5Guids", "d5/de5/a08379.html#ae3c4d14ffe3bd3824efd53d3e66a5b30", null ],
-    [ "Lfg5Guids", "d5/de5/a08379.html#a9bb6a28de6b87b5de2de4d78c27eb345", null ],
-    [ "Lfg5Guids", "d5/de5/a08379.html#aeb018ae41f1ab39481a103c01c96d5de", null ],
-    [ "Lfg5Guids", "d5/de5/a08379.html#a74e7afce30fb2e2ca99b78df29e6975e", null ],
-    [ "~Lfg5Guids", "d5/de5/a08379.html#ad956189426a61abf0d9058b5b9f7549e", null ],
-    [ "addRoles", "d5/de5/a08379.html#a13337aa8eadfc10987ead13ea8209ea5", null ],
-    [ "clear", "d5/de5/a08379.html#aff9d7632f888db252956bbfaa9dc2f62", null ],
-    [ "empty", "d5/de5/a08379.html#a14538fb8efd8e177d47dae2d9fca912f", null ],
-    [ "force_insert_front", "d5/de5/a08379.html#adcd2e3ad9803aefc477af73d6bac86a5", null ],
-    [ "front", "d5/de5/a08379.html#a822a9a4b5d82e11d34d2c1c22266bc0c", null ],
-    [ "hasGuid", "d5/de5/a08379.html#adddd27d8a9faefc2ad26c34770d9061c", null ],
-    [ "insert", "d5/de5/a08379.html#a15c5ff12eba3032c08d1754cee59c850", null ],
-    [ "operator<", "d5/de5/a08379.html#a151d368b51e6690ba015a5fa0cc4eecc", null ],
-    [ "operator=", "d5/de5/a08379.html#a7587fc1eb2d53273da399f7120717a5a", null ],
-    [ "operator==", "d5/de5/a08379.html#ab0ddda51a2126d4ce78235ae1e4d39c4", null ],
-    [ "remove", "d5/de5/a08379.html#a64308b7b2387017993f4a527ea6d5d9d", null ],
-    [ "size", "d5/de5/a08379.html#aa92daa0cdace672d751a3f10a8b8a6ff", null ],
-    [ "toString", "d5/de5/a08379.html#a19fd7ca444d3114e0fc8c46c460e1249", null ],
-    [ "guids", "d5/de5/a08379.html#a34c689c4c3e7f3754fa5d30cc95f524b", null ],
-    [ "roles", "d5/de5/a08379.html#a254e125e26aa95f51bf8f226507e71c6", null ]
+    [ "far_clip", "d5/de5/a08379.html#af70a06bda2dffbf2d3c49cb696beea2f", null ],
+    [ "fov", "d5/de5/a08379.html#ae553ef5e28cc3af3acd45b9efd309fbe", null ],
+    [ "near_clip", "d5/de5/a08379.html#a9426497de885b901d364c0b3ddd487d9", null ],
+    [ "position_base", "d5/de5/a08379.html#abf0892be5ecf6d1e1021e101832396f3", null ],
+    [ "positions", "d5/de5/a08379.html#a5d23816339fea0ac1e2c6fdad5fe58d8", null ],
+    [ "rolldata", "d5/de5/a08379.html#ad3428dcc0b93e509c9225fa86ea2d691", null ],
+    [ "target_position_base", "d5/de5/a08379.html#a2515ee6fa2fc41f7fca531b55cf0dc61", null ],
+    [ "target_positions", "d5/de5/a08379.html#a12132e4bcc881cab134851938c45e05a", null ],
+    [ "type", "d5/de5/a08379.html#afd67c926b538e189b036d88a9a277a2f", null ]
 ];

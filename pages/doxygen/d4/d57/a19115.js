@@ -1,6 +1,13 @@
 var a19115 =
 [
-    [ "npc_frost_freeze_trapAI", "d3/dd9/a19119.html", "d3/dd9/a19119" ],
-    [ "npc_frost_freeze_trap", "d4/d57/a19115.html#ac58ed2598fd4250f220208a91343f9b8", null ],
-    [ "GetAI", "d4/d57/a19115.html#a88ed9aeb0403b3b625c858cd1e44a99f", null ]
+    [ "npc_highlord_tirion_fordringAI", "d4/d57/a19115.html#a8852f9196a6609f317b6113ac2eee9ee", null ],
+    [ "Reset", "d4/d57/a19115.html#a80051b1b2a663997304b1754a3f9ff25", null ],
+    [ "SetData", "d4/d57/a19115.html#a5642aab7afc50a7494c43ae7a130d571", null ],
+    [ "UpdateAI", "d4/d57/a19115.html#ac3c8dc2e5bf6e0c3f380f395a785ad49", null ],
+    [ "_bolvarFordragon", "d4/d57/a19115.html#a8e8ae990a6e70a70ce6de3a13300261c", null ],
+    [ "_damnedKills", "d4/d57/a19115.html#a56e035884d2ab94629c133efc1fc8feb", null ],
+    [ "_events", "d4/d57/a19115.html#a8d8d6f1b8dc65b28a8117426e3767762", null ],
+    [ "_factionNPC", "d4/d57/a19115.html#acf9a436edcbfe3fcf47f56c5cf90cfb2", null ],
+    [ "_instance", "d4/d57/a19115.html#acd16d6200b08df23576aa9ccbb060d31", null ],
+    [ "_theLichKing", "d4/d57/a19115.html#afbe85d7002e34cfcb9414f2beda4e0a2", null ]
 ];

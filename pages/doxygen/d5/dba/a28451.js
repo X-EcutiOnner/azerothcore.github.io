@@ -1,5 +1,6 @@
 var a28451 =
 [
-    [ "go_jotunheim_cage", "d5/dba/a28451.html#a28c9312de97a822e34f05c7358b42df4", null ],
-    [ "OnGossipHello", "d5/dba/a28451.html#a5598fcb4df9c7d0a610ea064af8095d3", null ]
+    [ "go_bashir_crystalforge", "d5/dba/a28451.html#a8b68a63933e14d82198580912fddc280", null ],
+    [ "OnGossipHello", "d5/dba/a28451.html#a4aa941ae78a17eecc5593d6ccd17ff63", null ],
+    [ "OnGossipSelect", "d5/dba/a28451.html#ac7e1b6db4ae2bee766b95049a8b0c320", null ]
 ];

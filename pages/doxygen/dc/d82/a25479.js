@@ -1,7 +1,7 @@
 var a25479 =
 [
-    [ "HandleApplyEffect", "dc/d82/a25479.html#a4e2f6d414aea8ed1339ef3caa24fc17b", null ],
-    [ "Load", "dc/d82/a25479.html#a47a4f15ab02ba3c6ac4dbfd7c4552900", null ],
-    [ "PrepareAuraScript", "dc/d82/a25479.html#a101d38f5ffb34f90ba9af4f787445f2e", null ],
-    [ "Register", "dc/d82/a25479.html#aed57fbbf473b8f15fa177261e4678e96", null ]
+    [ "HandleScriptEffect", "dc/d82/a25479.html#a4444d5f146e875bae40edbcc8ed408cb", null ],
+    [ "PrepareSpellScript", "dc/d82/a25479.html#af4320dd6567d8c9cb2a1492095a98459", null ],
+    [ "Register", "dc/d82/a25479.html#ab9360c3a883dd5a7df9836306d9762ec", null ],
+    [ "Validate", "dc/d82/a25479.html#a51ebef5e7fff9dfaab553ecae7be732f", null ]
 ];

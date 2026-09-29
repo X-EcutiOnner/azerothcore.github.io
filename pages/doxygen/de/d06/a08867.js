@@ -1,13 +1,7 @@
 var a08867 =
 [
-    [ "FlaggedValuesArray32", "de/d06/a08867.html#a0680f7b67001783f20d89989a49cbead", null ],
-    [ "AddFlag", "de/d06/a08867.html#a273ab3607b23881628eb0c5d6a4da288", null ],
-    [ "AddValue", "de/d06/a08867.html#aacca1261b2a22525e5fd40e5f479aa06", null ],
-    [ "DelFlag", "de/d06/a08867.html#a3a674b2a7b8d5874f7210372b3e92123", null ],
-    [ "GetFlags", "de/d06/a08867.html#a314a315eb1c1a76116fe3a31f7be9c68", null ],
-    [ "GetValue", "de/d06/a08867.html#a87e5949bc041f15449331aceb277e8c4", null ],
-    [ "HasFlag", "de/d06/a08867.html#a0ea5d977caef5152c71c515259a91f06", null ],
-    [ "SetValue", "de/d06/a08867.html#ad0d385589befe52103f077723fa2463c", null ],
-    [ "m_flags", "de/d06/a08867.html#abab31b77efb46fa796275c36964eab91", null ],
-    [ "m_values", "de/d06/a08867.html#aabd025f47ad522e574f603eb559500f0", null ]
+    [ "AddToGrid", "de/d06/a08867.html#a178e3cc30d983d739e1f3f98d9eefbf0", null ],
+    [ "IsInGrid", "de/d06/a08867.html#a996724d21d62e478f50031faa7637cd5", null ],
+    [ "RemoveFromGrid", "de/d06/a08867.html#a29740a98fea7db66cdffd824940a2ec2", null ],
+    [ "_gridRef", "de/d06/a08867.html#aa44ba47734267ac07b733f218623f3c5", null ]
 ];

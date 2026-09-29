@@ -1,5 +1,6 @@
 var a11659 =
 [
-    [ "QuestLogFull", "d6/d6a/a11659.html#ac268090c33720d1975c3538acfe0ce7f", null ],
-    [ "Write", "d6/d6a/a11659.html#aab5d1b5ceb0e9fffd588d95d92640897", null ]
+    [ "QuestUpdateComplete", "d6/d6a/a11659.html#a1e6d102e4063facad1230b55d4048702", null ],
+    [ "Write", "d6/d6a/a11659.html#a2ec714ac25e784446e8a614587bd79b3", null ],
+    [ "QuestId", "d6/d6a/a11659.html#ac44a95d88d2970ee3e8bf0a8c57d578d", null ]
 ];

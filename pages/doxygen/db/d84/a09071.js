@@ -1,8 +1,6 @@
 var a09071 =
 [
-    [ "checkLeaderOnly", "db/d84/a09071.html#ade8f2e22abe69a9a32085e4d901bc83b", null ],
-    [ "faction", "db/d84/a09071.html#a23c649e494795b27856b67225370a820", null ],
-    [ "id", "db/d84/a09071.html#a5d5b8f6fe0bfc5ae98c2fb10e3a18360", null ],
-    [ "note", "db/d84/a09071.html#a0e800dd8869fedbe71e5b14aa3c79d8a", null ],
-    [ "priority", "db/d84/a09071.html#a3a66018ae4e7a7e755962f1edae58d29", null ]
+    [ "SavedItem", "db/d84/a09071.html#a7261d44eefdbd56df651a57a71f5af6e", null ],
+    [ "dstpos", "db/d84/a09071.html#af844c8b955858b1ead94798c6326fa03", null ],
+    [ "item", "db/d84/a09071.html#afaa651441e306c13acc3cd1aa3084170", null ]
 ];

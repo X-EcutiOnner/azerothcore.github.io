@@ -1,6 +1,7 @@
 var a23527 =
 [
-    [ "boss_rokmar_the_crackler", "df/d6a/a23527.html#a0aca6a30d045bbea6f434979f4f1d2e9", null ],
-    [ "JustEngagedWith", "df/d6a/a23527.html#ae376e6a96fa07136790f3ed04ee1023b", null ],
-    [ "Reset", "df/d6a/a23527.html#aed9cf4a866d5e70647125a08885fb809", null ]
+    [ "HandleScriptEffect", "df/d6a/a23527.html#ace1bb0dd5a76aa75038060af16b2e09f", null ],
+    [ "PrepareSpellScript", "df/d6a/a23527.html#ab3f6d24643b75482d5f96779a5bdda11", null ],
+    [ "Register", "df/d6a/a23527.html#a14772c25b70078c0034b8de17de5b77a", null ],
+    [ "Validate", "df/d6a/a23527.html#a8318385367bf6c6b09e0978c461f5d59", null ]
 ];

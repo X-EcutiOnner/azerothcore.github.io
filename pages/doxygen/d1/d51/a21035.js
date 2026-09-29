@@ -1,9 +1,8 @@
 var a21035 =
 [
-    [ "OnProc", "d1/d51/a21035.html#a94de5901e43000e99b478e9194d59ecd", null ],
-    [ "PrepareAuraScript", "d1/d51/a21035.html#a1b4efd5e774d4bd561a30830c3be8045", null ],
-    [ "Register", "d1/d51/a21035.html#acc8a07807e5c306af285cb5889ef2c41", null ],
-    [ "Validate", "d1/d51/a21035.html#ad17cfc0369da547475e43bd2970cf3f2", null ],
-    [ "_lastOrbTime", "d1/d51/a21035.html#a4522510d836abf625b019674c1c5281f", null ],
-    [ "OrbCooldown", "d1/d51/a21035.html#a4a0204623a0db8d1474d0e72e71226eb", null ]
+    [ "npc_xt_toy_pile", "d1/d51/a21035.html#a843e7d05cf62baa5c006077f8dad107d", null ],
+    [ "SpellHit", "d1/d51/a21035.html#a82af3830eaf524c587334e8eb193925f", null ],
+    [ "_lastSummonTime", "d1/d51/a21035.html#aaa8e3581f39206c30f1b7de9a81f1387", null ],
+    [ "SummonCooldown", "d1/d51/a21035.html#ab0924af7ecfd54f1744b11af76ca2834", null ],
+    [ "SummonDistance", "d1/d51/a21035.html#a3adcb7a8f6ad7b515719794e0ddca964", null ]
 ];

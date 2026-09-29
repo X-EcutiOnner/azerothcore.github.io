@@ -1,6 +1,6 @@
 var a18435 =
 [
-    [ "OnRemove", "d6/d23/a18435.html#ab9c21998c71991ff74e6dfcf4d32f126", null ],
-    [ "PrepareAuraScript", "d6/d23/a18435.html#a8fb5803b07022f9bd3d246216bac5abb", null ],
-    [ "Register", "d6/d23/a18435.html#afa993cb14444989feac16c9fa2d7b8df", null ]
+    [ "HandleScript", "d6/d23/a18435.html#a54ecb69bf0c54c170b12c9a4b88b55fb", null ],
+    [ "PrepareSpellScript", "d6/d23/a18435.html#a50560d754709e6b9ec6863142c1ffce3", null ],
+    [ "Register", "d6/d23/a18435.html#ab29deadceb953d6fb5d997b21ee4bb1c", null ]
 ];

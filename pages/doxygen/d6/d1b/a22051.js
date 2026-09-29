@@ -1,7 +1,8 @@
 var a22051 =
 [
-    [ "HandlePeriodic", "d6/d1b/a22051.html#a39e103c4bd60ce54eb7ecbdb37013e04", null ],
-    [ "PrepareAuraScript", "d6/d1b/a22051.html#ac198489764c878822e38a1ea225ab287", null ],
-    [ "Register", "d6/d1b/a22051.html#a66933e6f4b5689b0b05de63aa7402354", null ],
-    [ "Validate", "d6/d1b/a22051.html#a0db3843573837c53aeeaca69a6019d06", null ]
+    [ "OnRemove", "d6/d1b/a22051.html#a9c6c35aa7a245857b0c8685a8e100836", null ],
+    [ "PrepareAuraScript", "d6/d1b/a22051.html#a183b5a3b1332695e3c047bb63435389a", null ],
+    [ "Register", "d6/d1b/a22051.html#aad41ab76cc0a882f272e8f79867a7015", null ],
+    [ "Validate", "d6/d1b/a22051.html#a8ba007e6b4e9e32743a6fae8db08c666", null ],
+    [ "spellIds", "d6/d1b/a22051.html#aca236f4ebe60767f2a4a83cdcc6e31bb", null ]
 ];

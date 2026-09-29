@@ -1,13 +1,7 @@
 var a14303 =
 [
-    [ "npc_lady_sylvanas_windrunnerAI", "d1/dd3/a14303.html#ad6eefe9a14ce64b12b65a22c3ebb4db0", null ],
-    [ "JustDied", "d1/dd3/a14303.html#a410c84a1fcf50b50e6ebc340c1b58939", null ],
-    [ "JustEngagedWith", "d1/dd3/a14303.html#a36324482fb264cc3cacf11c3ed542eee", null ],
-    [ "JustSummoned", "d1/dd3/a14303.html#a456ee6f4b5b8cdd79647a42185265be8", null ],
-    [ "Reset", "d1/dd3/a14303.html#ad4c6cb31a8d3dc280e689d5d29e27479", null ],
-    [ "SetGUID", "d1/dd3/a14303.html#a10ecf7bf7551be186e1c00390eaad203", null ],
-    [ "UpdateAI", "d1/dd3/a14303.html#ab704e4f3af8aa734910efd259db31407", null ],
-    [ "_events", "d1/dd3/a14303.html#a621d4db4fac3a7c3d08defa2a8ed06d0", null ],
-    [ "LamentEvent", "d1/dd3/a14303.html#ace9e901a965665e0f97cb9646af308aa", null ],
-    [ "playerGUID", "d1/dd3/a14303.html#aa125ab2a33dbf9f1d40f238e7d45000d", null ]
+    [ "npc_lady_sylvanas_windrunnerAI", "d6/d87/a14307.html", "d6/d87/a14307" ],
+    [ "npc_lady_sylvanas_windrunner", "d1/dd3/a14303.html#ab3da21f58b68003f50cf0c3d5ce22028", null ],
+    [ "GetAI", "d1/dd3/a14303.html#abc382c04be0a8ed46299d1c4b2d008dc", null ],
+    [ "OnQuestReward", "d1/dd3/a14303.html#aa3aedfe4c546842e64f5358a19614659", null ]
 ];

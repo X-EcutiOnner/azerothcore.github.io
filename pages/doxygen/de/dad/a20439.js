@@ -1,12 +1,7 @@
 var a20439 =
 [
-    [ "boss_freya_elder_stonebark", "de/dad/a20439.html#ad379afe772ff29d689bc763786d28793", null ],
-    [ "DamageTaken", "de/dad/a20439.html#a1a6b9897ffff95b29de351d02411f216", null ],
-    [ "JustDied", "de/dad/a20439.html#a32df2ec9d4e24c6a8f7fddefc4b5e61f", null ],
-    [ "JustEngagedWith", "de/dad/a20439.html#a363a639d65fb746cca3410427f8a1e10", null ],
-    [ "KilledUnit", "de/dad/a20439.html#ae10b5a8a477107432cbcc93c4da9c3ec", null ],
-    [ "Reset", "de/dad/a20439.html#ac1edb11c975123a59bc4099acdefcd0f", null ],
-    [ "UpdateAI", "de/dad/a20439.html#a913cd147d5a88189e183d817357946e3", null ],
-    [ "_chargesCount", "de/dad/a20439.html#adc75d1735bc32fad8cad2abf4d8712fa", null ],
-    [ "events", "de/dad/a20439.html#a5d88a59b9c98981c3f7f049701fc76e3", null ]
+    [ "achievement_flame_leviathan_garage", "de/dad/a20439.html#a1893b4059d7212d023c45bb828bb1905", null ],
+    [ "OnCheck", "de/dad/a20439.html#aa5897eb1fadeda4dda9f2390053d89b6", null ],
+    [ "_entry1", "de/dad/a20439.html#af482d6c1b2681b9fec572281620a86b7", null ],
+    [ "_entry2", "de/dad/a20439.html#a41e83b47c411dc6a6aff310ae7059f4e", null ]
 ];

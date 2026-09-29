@@ -1,12 +1,10 @@
 var a03938 =
 [
-    [ "boss_grizzle", "de/d9d/a12811.html", "de/d9d/a12811" ],
-    [ "Grizzle", "d4/dc4/a03938.html#acfff5d4b983e4db1d5efb6bd5da7e7aa", [
-      [ "SPELL_GROUNDTREMOR", "d4/dc4/a03938.html#acfff5d4b983e4db1d5efb6bd5da7e7aaa4426ae7fabf4ddb0d8355b0049b5a6bb", null ],
-      [ "SPELL_FRENZY", "d4/dc4/a03938.html#acfff5d4b983e4db1d5efb6bd5da7e7aaab54f261ba282273bed875abe6642a293", null ],
-      [ "EMOTE_FRENZY_KILL", "d4/dc4/a03938.html#acfff5d4b983e4db1d5efb6bd5da7e7aaaebdb26e3a90dde560c1c4f7fd5615f63", null ]
-    ] ],
-    [ "AddSC_boss_grizzle", "d4/dc4/a03938.html#adb6c19fe584b9ecd11ab67084570a0be", null ],
-    [ "TIMER_FRENZY", "d4/dc4/a03938.html#a57b77ddbaec70c1bfcf7f1ccbf0715a1", null ],
-    [ "TIMER_GROUNDTREMOR", "d4/dc4/a03938.html#abc54daa3a30dab6dcbd53b460e55a15a", null ]
+    [ "GameEventScript", "db/da7/a10839.html", "db/da7/a10839" ],
+    [ "GameEventHook", "d4/dc4/a03938.html#a6f634b591917b5ff2ab57f9739afa44b", [
+      [ "GAMEEVENTHOOK_ON_START", "d4/dc4/a03938.html#a6f634b591917b5ff2ab57f9739afa44ba82c1717fbd1ba7a6739ce48d1fb3bab6", null ],
+      [ "GAMEEVENTHOOK_ON_STOP", "d4/dc4/a03938.html#a6f634b591917b5ff2ab57f9739afa44ba598d3e2c3c0ff442208e1df830a02e5d", null ],
+      [ "GAMEEVENTHOOK_ON_EVENT_CHECK", "d4/dc4/a03938.html#a6f634b591917b5ff2ab57f9739afa44ba584cbf2008c774dd76adfd51e416663f", null ],
+      [ "GAMEEVENTHOOK_END", "d4/dc4/a03938.html#a6f634b591917b5ff2ab57f9739afa44baef9ad9e7c26fbfcea336dddf0e16d395", null ]
+    ] ]
 ];

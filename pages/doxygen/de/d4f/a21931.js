@@ -1,6 +1,7 @@
 var a21931 =
 [
-    [ "npc_heated_battleAI", "d0/d36/a21935.html", "d0/d36/a21935" ],
-    [ "npc_heated_battle", "de/d4f/a21931.html#aceafde04a60940c1027a6e838ffdc137", null ],
-    [ "GetAI", "de/d4f/a21931.html#af73fc1f330bf2fd224e53be39da1c9d3", null ]
+    [ "CheckCast", "de/d4f/a21931.html#af0eb00a8dbff89d780beb07f3a714fff", null ],
+    [ "HandleScript", "de/d4f/a21931.html#a8128bb2d7588409dae73bed78d5285a7", null ],
+    [ "PrepareSpellScript", "de/d4f/a21931.html#aee17a8a21ec5df027082c6990189dccc", null ],
+    [ "Register", "de/d4f/a21931.html#a2a97265e102e9ce31997d99275b42973", null ]
 ];

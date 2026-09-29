@@ -1,6 +1,7 @@
 var a20399 =
 [
-    [ "CheckAreaTarget", "d4/d96/a20399.html#ad1930e308f450cb84dba4f4b28b19f58", null ],
-    [ "PrepareAuraScript", "d4/d96/a20399.html#a921b2f67c417244310398bd93061d61c", null ],
-    [ "Register", "d4/d96/a20399.html#ab21972706bae9fdc3fc6859da2f3f63e", null ]
+    [ "OnPeriodic", "d4/d96/a20399.html#a1dff4c7e181c86a9c6ac7df5304214c8", null ],
+    [ "PrepareAuraScript", "d4/d96/a20399.html#a93b006b762bd757c606ed44da5178134", null ],
+    [ "Register", "d4/d96/a20399.html#ac528c63dedbf16f1f88c3d6ffdb9ef69", null ],
+    [ "Validate", "d4/d96/a20399.html#a2ee1dbb056430b9db5e9e3ead05014a5", null ]
 ];

@@ -1,4 +1,4 @@
 var a04682 =
 [
-    [ "Acore::Asio::Strand", "d1/d56/a05259.html", "d1/d56/a05259" ]
+    [ "SessionKeyGenerator< Hash >", "d6/d3f/a05571.html", "d6/d3f/a05571" ]
 ];

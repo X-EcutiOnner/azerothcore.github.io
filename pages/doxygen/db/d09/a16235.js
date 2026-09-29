@@ -1,6 +1,6 @@
 var a16235 =
 [
-    [ "npc_taskmaster_fizzuleAI", "da/d23/a16239.html", "da/d23/a16239" ],
-    [ "npc_taskmaster_fizzule", "db/d09/a16235.html#aa42e6cc1a3ac58ea79f5184f7bb293a9", null ],
-    [ "GetAI", "db/d09/a16235.html#a6281de7424932fe6580ffefa199498d9", null ]
+    [ "npc_tyrande_whisperwind", "db/d09/a16235.html#af716e954e59221d26ee88032e895fa18", null ],
+    [ "JustDied", "db/d09/a16235.html#a707f6167de4eafc6d81613d0edc29436", null ],
+    [ "UpdateAI", "db/d09/a16235.html#a598bd2dec22715413dcbd7ed6ca3be3c", null ]
 ];

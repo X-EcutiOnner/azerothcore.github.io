@@ -1,7 +1,7 @@
 var a26447 =
 [
-    [ "HandleDummy", "de/df0/a26447.html#a334563491c3cbb9daa9d97dad738e9e5", null ],
-    [ "PrepareSpellScript", "de/df0/a26447.html#a69fe453f3c6764c3977c539d5fc71049", null ],
-    [ "Register", "de/df0/a26447.html#af81469f371224a3180d73b3cf8cf001a", null ],
-    [ "Validate", "de/df0/a26447.html#af0ab473a4ec7f1eebb70d0f2344de8ca", null ]
+    [ "HandleDummy", "de/df0/a26447.html#a4dde221fa768ef5c6b99c981969f35fe", null ],
+    [ "PrepareSpellScript", "de/df0/a26447.html#a85333c5f493b70037bcc1a1d42e97e9c", null ],
+    [ "Register", "de/df0/a26447.html#acfafbf43e12f72131e58434051dcc510", null ],
+    [ "Validate", "de/df0/a26447.html#a73458b57dc107b3215cf5d44567d330f", null ]
 ];

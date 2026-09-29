@@ -1,9 +1,7 @@
 var a20467 =
 [
-    [ "boss_freya_nature_bomb", "d7/d78/a20467.html#a050672942ab467557d21a930ab22827c", null ],
-    [ "Reset", "d7/d78/a20467.html#ad2a679ba554a44f28d1f09a10fc88ec9", null ],
-    [ "UpdateAI", "d7/d78/a20467.html#aae8b388dfa69896dd82557c1a4dcd135", null ],
-    [ "_explodeTimer", "d7/d78/a20467.html#a09292e899ad771d9b15d2bc21ccd5b8d", null ],
-    [ "_goGUID", "d7/d78/a20467.html#a18e66d31a4bd243ec3f7d438beacad77", null ],
-    [ "Timer", "d7/d78/a20467.html#affadb797817ddf512209d1d71097baf3", null ]
+    [ "boss_freya_lifebinder", "d7/d78/a20467.html#a1784d6e975192a7442cabb14f688737d", null ],
+    [ "Reset", "d7/d78/a20467.html#a48a829c75000d93cfb3c6a02aa0af495", null ],
+    [ "UpdateAI", "d7/d78/a20467.html#ae43e7663ee263e223ff286ac1fedeef8", null ],
+    [ "_scheduler", "d7/d78/a20467.html#a5c19f04cec9cd899feee7ce2878563cf", null ]
 ];

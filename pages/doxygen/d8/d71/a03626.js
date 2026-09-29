@@ -1,6 +1,19 @@
 var a03626 =
 [
-    [ "instance_ragefire_chasm", "d0/d99/a15523.html", "d0/d99/a15523" ],
-    [ "instance_ragefire_chasm::instance_ragefire_chasm_InstanceMapScript", "dc/d4f/a15527.html", "dc/d4f/a15527" ],
-    [ "AddSC_instance_ragefire_chasm", "d8/d71/a03626.html#ace0e54ffe3a81b932d5ce1977698f5ac", null ]
+    [ "AccountMgr", "db/d2c/a06363.html", "db/d2c/a06363" ],
+    [ "MAX_ACCOUNT_STR", "d8/d71/a03626.html#a134ebf22666a6525929447b2d869d400", null ],
+    [ "MAX_EMAIL_STR", "d8/d71/a03626.html#ad64d9bd18bac10ab1af09b042d734c64", null ],
+    [ "MAX_PASS_STR", "d8/d71/a03626.html#a45827712253b6d66092106cef5ae724b", null ],
+    [ "sAccountMgr", "d8/d71/a03626.html#aea3ae93168116461b6c0a7a984112175", null ],
+    [ "RBACDefaultPermissionsContainer", "d8/d71/a03626.html#ac0b6edf00d4a9c1e3c496e98fdf865aa", null ],
+    [ "RBACPermissionsContainer", "d8/d71/a03626.html#a1296774e1021cb68d7829832d153b2e3", null ],
+    [ "AccountOpResult", "d8/d71/a03626.html#a0161874ada0cecbbd1fd5d31da73703e", [
+      [ "AOR_OK", "d8/d71/a03626.html#a0161874ada0cecbbd1fd5d31da73703ea73449863bb0d97def55bd65307e97f18", null ],
+      [ "AOR_NAME_TOO_LONG", "d8/d71/a03626.html#a0161874ada0cecbbd1fd5d31da73703eaec4fb519d9e6032adc269ca4a27c38f4", null ],
+      [ "AOR_PASS_TOO_LONG", "d8/d71/a03626.html#a0161874ada0cecbbd1fd5d31da73703eaed91b79b9e639b8f988c5f06fcfd901c", null ],
+      [ "AOR_EMAIL_TOO_LONG", "d8/d71/a03626.html#a0161874ada0cecbbd1fd5d31da73703eaaf639a81cbf8cf6bd685e34d73e895a1", null ],
+      [ "AOR_NAME_ALREADY_EXIST", "d8/d71/a03626.html#a0161874ada0cecbbd1fd5d31da73703eae0b6297de7a7e8b516f5fc98a4d8750c", null ],
+      [ "AOR_NAME_NOT_EXIST", "d8/d71/a03626.html#a0161874ada0cecbbd1fd5d31da73703ea05e659ba76ce9dd582551a24f2923b24", null ],
+      [ "AOR_DB_INTERNAL_ERROR", "d8/d71/a03626.html#a0161874ada0cecbbd1fd5d31da73703ea368516df3522ada12ce8a39c789a687d", null ]
+    ] ]
 ];

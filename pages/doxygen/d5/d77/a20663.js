@@ -1,8 +1,7 @@
 var a20663 =
 [
-    [ "CheckProc", "d5/d77/a20663.html#ad609f81da8229b5f8c219b3dce4e7602", null ],
-    [ "HandleProc", "d5/d77/a20663.html#aa3fae300f8738edeb5d68de2608462ab", null ],
-    [ "PrepareAuraScript", "d5/d77/a20663.html#a21c070876fa64fa8d65db71c90c73747", null ],
-    [ "Register", "d5/d77/a20663.html#a3aa412142b1809933cc9c2616f9b4ce5", null ],
-    [ "Validate", "d5/d77/a20663.html#a930130b75796d42866e0459832e7841b", null ]
+    [ "HandleEffectPeriodic", "d5/d77/a20663.html#a8d2e75ee2869dc135fe83c782ec6e223", null ],
+    [ "PrepareAuraScript", "d5/d77/a20663.html#a0996c661dbc4e9a4bd35c1368247c7eb", null ],
+    [ "Register", "d5/d77/a20663.html#aed86a298340cc05fbe2a8a68396423bb", null ],
+    [ "Validate", "d5/d77/a20663.html#a1c3ecaebf11d1040fde4ce5cb80f315c", null ]
 ];

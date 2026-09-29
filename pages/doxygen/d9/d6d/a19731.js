@@ -1,6 +1,6 @@
 var a19731 =
 [
-    [ "boss_thaddiusAI", "d8/db2/a19735.html", "d8/db2/a19735" ],
-    [ "boss_thaddius", "d9/d6d/a19731.html#aff97b030b861feb646e1b22f60ee3605", null ],
-    [ "GetAI", "d9/d6d/a19731.html#acf841c6897396f517a74932fc3480e69", null ]
+    [ "boss_sapphironAI", "d8/db2/a19735.html", "d8/db2/a19735" ],
+    [ "boss_sapphiron", "d9/d6d/a19731.html#a87a70204dd727f92d035ad98e2ab9010", null ],
+    [ "GetAI", "d9/d6d/a19731.html#a31209287faa721bef341388ae4383b6c", null ]
 ];

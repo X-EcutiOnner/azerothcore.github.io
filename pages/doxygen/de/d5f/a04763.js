@@ -1,6 +1,7 @@
 var a04763 =
 [
-    [ "GameObjectModelOwnerBase", "df/d5a/a05423.html", "df/d5a/a05423" ],
-    [ "GameObjectModel", "d7/d41/a05427.html", "d7/d41/a05427" ],
-    [ "LoadGameObjectModelList", "de/d5f/a04763.html#a5a80774080fc05f90c7d92213fda6788", null ]
+    [ "VMAP::GroupLocationInfo", "dd/d3d/a05379.html", "dd/d3d/a05379" ],
+    [ "VMAP::LocationInfo", "db/d18/a05383.html", "db/d18/a05383" ],
+    [ "VMAP::StaticMapTree", "db/de3/a05387.html", "db/de3/a05387" ],
+    [ "VMAP::AreaInfo", "d2/dc7/a05391.html", "d2/dc7/a05391" ]
 ];

@@ -1,6 +1,7 @@
 var a19159 =
 [
-    [ "npc_captain_grondelAI", "d3/dc7/a19163.html", "d3/dc7/a19163" ],
-    [ "npc_captain_grondel", "d5/d99/a19159.html#a54a53f8e3cde87405219c815a56d523c", null ],
-    [ "GetAI", "d5/d99/a19159.html#a2a7725e81294e80701b7742d2605ec00", null ]
+    [ "npc_captain_arnathAI", "d5/d99/a19159.html#a34e3d17b89010569bf7e9cb28361c2af", null ],
+    [ "FindFriendlyCreature", "d5/d99/a19159.html#ad6411d2a87d2552bea2051f80ca16e14", null ],
+    [ "Reset", "d5/d99/a19159.html#a016fbe51f31e1c5ec1636e8d20d8cb30", null ],
+    [ "UpdateAI", "d5/d99/a19159.html#a020efd7adc0d60152007906e3229988d", null ]
 ];

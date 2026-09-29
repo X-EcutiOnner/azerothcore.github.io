@@ -1,5 +1,9 @@
 var a05603 =
 [
-    [ "~Permissible", "db/dd0/a05603.html#a9ed19d14dda478fe1ff6cb092d684be2", null ],
-    [ "Permit", "db/dd0/a05603.html#a0fccdbc46c9bafea63757ceee62b0385", null ]
+    [ "FactoryHolderRegistry", "db/dd0/a05603.html#a5384598eca62a35bc617a4c395353ecd", null ],
+    [ "FactoryHolder", "db/dd0/a05603.html#a5e7097c2a475378023f33ec430f4ca85", null ],
+    [ "~FactoryHolder", "db/dd0/a05603.html#a78673bd2f3d857127c1a91c49e3cd62f", null ],
+    [ "Create", "db/dd0/a05603.html#a7072fb7dfe99890dea89b1ba661eb3ce", null ],
+    [ "RegisterSelf", "db/dd0/a05603.html#a9e173f9daaf5c2de36bb8b46da4249e1", null ],
+    [ "_key", "db/dd0/a05603.html#a98c0e66f8caaa207771efd82b2c2f9aa", null ]
 ];

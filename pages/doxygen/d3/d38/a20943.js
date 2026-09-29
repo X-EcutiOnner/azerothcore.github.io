@@ -1,11 +1,14 @@
 var a20943 =
 [
-    [ "boss_thorim_ancient_rune_giant", "d3/d38/a20943.html#a0af1f7772d93899651d93fdc4a690b7d", null ],
-    [ "DoAction", "d3/d38/a20943.html#a615eb1cf45c8e09af0f9a248f1c6bbe8", null ],
-    [ "JustDied", "d3/d38/a20943.html#a64b0ab5d6e3a51a926eaef236754b7bf", null ],
-    [ "JustEngagedWith", "d3/d38/a20943.html#a98fa309963245a0c57676ff019085fac", null ],
-    [ "Reset", "d3/d38/a20943.html#a66c30135e900b4b9e6d43d08e5e14f24", null ],
-    [ "UpdateAI", "d3/d38/a20943.html#a903d7448d9441866475d77fce8ca6d37", null ],
-    [ "_isInCombat", "d3/d38/a20943.html#a148ff1fa8010466de069032f660cd08e", null ],
-    [ "events", "d3/d38/a20943.html#adb60fcfd3cde775f06e883d2e62b5ba1", null ]
+    [ "boss_thorim_start_npcs", "d3/d38/a20943.html#a3ed7da48fc86ea00124181bb943a778d", null ],
+    [ "DamageTaken", "d3/d38/a20943.html#a4821ee0619dac4cdcd9434f57d83f0c9", null ],
+    [ "JustEngagedWith", "d3/d38/a20943.html#a636dd7264dd01aa5fc3c69af17425103", null ],
+    [ "JustReachedHome", "d3/d38/a20943.html#a1a297f2937ab9ca9a13de939ba6f6522", null ],
+    [ "Reset", "d3/d38/a20943.html#a37092466e579fe54a1dffe2ae0a2f689", null ],
+    [ "SetGUID", "d3/d38/a20943.html#aed0b8ed5c502b47e7274af920b9e927b", null ],
+    [ "StartMockBattle", "d3/d38/a20943.html#aa5566eb0feda227eb150ffe61fc3c67d", null ],
+    [ "UpdateAI", "d3/d38/a20943.html#a7cca60ceab19727e68fcd4a3629978c4", null ],
+    [ "_isCaster", "d3/d38/a20943.html#aa3c48c6d8d548cb39a6c7eea8f807dde", null ],
+    [ "_playerAttack", "d3/d38/a20943.html#ab1bf0c011692377fc591610c5131d5e2", null ],
+    [ "events", "d3/d38/a20943.html#affdeecbfa6bb62659c4a2f5ef1d1fafa", null ]
 ];

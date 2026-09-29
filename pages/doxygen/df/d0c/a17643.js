@@ -1,5 +1,6 @@
 var a17643 =
 [
-    [ "at_tyrannus_event_starter", "df/d0c/a17643.html#a1aef2522c20dd242e749d93a6bee66d8", null ],
-    [ "OnTrigger", "df/d0c/a17643.html#adccf396220ef7de47e7afeca791de894", null ]
+    [ "HandleDummy", "df/d0c/a17643.html#a5b56eabdba4e6c9e23fe5a40b20417fe", null ],
+    [ "PrepareSpellScript", "df/d0c/a17643.html#a6c53fed364a1a31cd170102d4d6878b1", null ],
+    [ "Register", "df/d0c/a17643.html#ac49eaa96ebb95a38f54a9bb6321f5585", null ]
 ];

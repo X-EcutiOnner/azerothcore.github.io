@@ -1,14 +1,13 @@
 var a12783 =
 [
-    [ "boss_ambassador_flamelash", "dd/d2b/a12783.html#a4eec2a22080fb99671d4596a131957b1", null ],
-    [ "DoAction", "dd/d2b/a12783.html#ae34494448f93104750da92ff20730dc1", null ],
-    [ "getValidRandomPosition", "dd/d2b/a12783.html#a4585ec9b91b506fd78f344c1e8e83697", null ],
-    [ "JustDied", "dd/d2b/a12783.html#afdf68272e1acd47a8c6e4a0c18f0b6bf", null ],
-    [ "JustEngagedWith", "dd/d2b/a12783.html#a1629ac221933d038d71c256de914121b", null ],
-    [ "Reset", "dd/d2b/a12783.html#aa6e66bf78c714fad816e654ed37801e5", null ],
-    [ "SummonSpirits", "dd/d2b/a12783.html#a2674933aca19741e3c27eee7636e6774", null ],
-    [ "TurnRunes", "dd/d2b/a12783.html#a1332d0405911dcba90420a49936502aa", null ],
-    [ "UpdateAI", "dd/d2b/a12783.html#a891ab6cb21b16f9a6bd08934bbe7257d", null ],
-    [ "_foundValidPosition", "dd/d2b/a12783.html#ac6c1674f7e6b5c9f2f4be052cdf509a1", null ],
-    [ "_validPosition", "dd/d2b/a12783.html#a2a11c3d01e99c6737c8b7459336bb021", null ]
+    [ "npc_rocknot", "dd/d2b/a12783.html#a890eaac55162130b05c7d2dba26cc872", null ],
+    [ "DoGo", "dd/d2b/a12783.html#a242e871de8e19462fcab6fb9eae1039e", null ],
+    [ "Reset", "dd/d2b/a12783.html#afaa1977f370fe699c75ebb83c0d291dd", null ],
+    [ "sQuestReward", "dd/d2b/a12783.html#a633123eb64bd6d46ace12fd0e1853aef", null ],
+    [ "UpdateAI", "dd/d2b/a12783.html#a15755c98f937784f538d547b15c2d192", null ],
+    [ "WaypointReached", "dd/d2b/a12783.html#a3711cae23b14dcce2ac1938aaeb9b961", null ],
+    [ "WaypointReached", "dd/d2b/a12783.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_breakDoorTimer", "dd/d2b/a12783.html#a44955a4ef0e730f72848e582892380b5", null ],
+    [ "_breakKegTimer", "dd/d2b/a12783.html#ad6e48e6f81521b89da9f528e079c1c90", null ],
+    [ "instance", "dd/d2b/a12783.html#a71e6532128131a10aae575d1bac023d0", null ]
 ];

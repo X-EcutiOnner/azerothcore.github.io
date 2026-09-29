@@ -1,12 +1,17 @@
 var a10863 =
 [
-    [ "GroupScript", "d0/da5/a10863.html#a6fd439e90bee7e42c2bd493497eb418c", null ],
-    [ "CanGroupJoinBattlegroundQueue", "d0/da5/a10863.html#a931b4a94a2f95958579b37c0af6ece03", null ],
-    [ "IsDatabaseBound", "d0/da5/a10863.html#acb561e8a2d5b3542e228a7beb8122fbf", null ],
-    [ "OnAddMember", "d0/da5/a10863.html#adb279c4c0ba60ffea994f35cd7e91ad1", null ],
-    [ "OnChangeLeader", "d0/da5/a10863.html#a64a1441fd3db3f25236691efcff4a80b", null ],
-    [ "OnCreate", "d0/da5/a10863.html#a18973a7e5f260712f032ca1129d4a0bc", null ],
-    [ "OnDisband", "d0/da5/a10863.html#a3cb94966ba1d02180fb3e7cf95000e5f", null ],
-    [ "OnInviteMember", "d0/da5/a10863.html#a2ae925dc27708fdaa4d5909b582b77a7", null ],
-    [ "OnRemoveMember", "d0/da5/a10863.html#a55410c643fdeed3fd270d6f3a7826d4d", null ]
+    [ "GuildScript", "d0/da5/a10863.html#ab482400793113562c371df7f08938159", null ],
+    [ "CanGuildSendBankList", "d0/da5/a10863.html#a293f3d822ae075246f1a7552ce9b0424", null ],
+    [ "IsDatabaseBound", "d0/da5/a10863.html#aae0601f04ec90533bb7699c68f68fe8f", null ],
+    [ "OnAddMember", "d0/da5/a10863.html#a908df71c0d9be1258e624f4e977e8d75", null ],
+    [ "OnBankEvent", "d0/da5/a10863.html#a8f29c847a68fb41dd3bca4ac257ee159", null ],
+    [ "OnCreate", "d0/da5/a10863.html#a7c4073ba56cbba6bfebd5859bcc3c416", null ],
+    [ "OnDisband", "d0/da5/a10863.html#a5c840084ca74af0556ac5d6256bfd75d", null ],
+    [ "OnEvent", "d0/da5/a10863.html#ad0733568cee8ded5c89d8404166201bb", null ],
+    [ "OnInfoChanged", "d0/da5/a10863.html#afbd07b4c6f90476a722229fd55598dc9", null ],
+    [ "OnItemMove", "d0/da5/a10863.html#a2309a1ae2828cb7c758a5cf0329f1f5a", null ],
+    [ "OnMemberDepositMoney", "d0/da5/a10863.html#a64d676d964b408b6fde7ab9185951eb0", null ],
+    [ "OnMemberWitdrawMoney", "d0/da5/a10863.html#a503c5116512f8ac45506732674aa5635", null ],
+    [ "OnMOTDChanged", "d0/da5/a10863.html#a27bb08cee36f5a095d7aee828a23e971", null ],
+    [ "OnRemoveMember", "d0/da5/a10863.html#a0231be74a2625a91fc617980dfc41ca3", null ]
 ];

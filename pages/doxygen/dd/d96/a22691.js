@@ -1,9 +1,15 @@
 var a22691 =
 [
-    [ "OPvPCapturePointGH", "dd/d96/a22691.html#a6e46100e50212310af4301c492d5773e", null ],
-    [ "ChangeState", "dd/d96/a22691.html#afe53e37a3a1dc4a7068c03302f26b981", null ],
-    [ "FillInitialWorldStates", "dd/d96/a22691.html#a11d305d6f50ce2535bd5d7b2e7a3389f", null ],
-    [ "HandlePlayerEnter", "dd/d96/a22691.html#afea733c44d129d9a5af78a8337d9e04a", null ],
-    [ "HandlePlayerLeave", "dd/d96/a22691.html#a1e5d9c6f02eb02dfed654078c910635b", null ],
-    [ "SendChangePhase", "dd/d96/a22691.html#aec741b9102829bf77850dc06a49bb8da", null ]
+    [ "OutdoorPvPEP", "dd/d96/a22691.html#ab4915dfc03de08cad83eb48c4c789cb8", null ],
+    [ "BuffTeams", "dd/d96/a22691.html#ac6a61c19ba96ca843eb12952d0c09078", null ],
+    [ "FillInitialWorldStates", "dd/d96/a22691.html#ac1b185125fa1f8864d1062b65be24bdc", null ],
+    [ "HandlePlayerEnterZone", "dd/d96/a22691.html#a9e7404160b1220dc3cc2766a07f42ad2", null ],
+    [ "HandlePlayerLeaveZone", "dd/d96/a22691.html#a251b154abfaec9cbfb1a56e657ac5214", null ],
+    [ "SendRemoveWorldStates", "dd/d96/a22691.html#afad47628bb4cfcc6060ce35396e33d9d", null ],
+    [ "SetControlledState", "dd/d96/a22691.html#abef30d5cbe7c2cd52cd32ae29da1c9ce", null ],
+    [ "SetupOutdoorPvP", "dd/d96/a22691.html#acecc8126180c027cb3d685231e55d873", null ],
+    [ "Update", "dd/d96/a22691.html#a974910b2f7f2d8cfaf43b6694bf4c2c7", null ],
+    [ "EP_ControlsId", "dd/d96/a22691.html#a7e8fcf50f88bdb56b189877721a1f006", null ],
+    [ "m_AllianceTowersControlled", "dd/d96/a22691.html#a09e5cf029656af3fc740b236596d42ee", null ],
+    [ "m_HordeTowersControlled", "dd/d96/a22691.html#a325c16f6b5f40bd5dd5f63a9d93a8cd1", null ]
 ];

@@ -1,7 +1,7 @@
 var a20215 =
 [
-    [ "HandlePeriodic", "d4/d31/a20215.html#a14fd25f78c9e2bfbdaeb07f3233628b6", null ],
-    [ "PrepareAuraScript", "d4/d31/a20215.html#ad78b06733a8609dd39e885db2f23edba", null ],
-    [ "Register", "d4/d31/a20215.html#ac9ae9be546964752869163896c4045dd", null ],
-    [ "Validate", "d4/d31/a20215.html#afcca84d03b29ef7569c03f973a6c191b", null ]
+    [ "HandleDummyEffect", "d4/d31/a20215.html#ae95c1ce60db79c360e9c1431f27705cb", null ],
+    [ "PrepareSpellScript", "d4/d31/a20215.html#a84a4f52928873e58b1fc49e783c5083a", null ],
+    [ "Register", "d4/d31/a20215.html#a90c00bcb1768d696addab407425e406a", null ],
+    [ "SelectTarget", "d4/d31/a20215.html#a2e7a7c05a30ae1e0c5aa14dc2af19345", null ]
 ];

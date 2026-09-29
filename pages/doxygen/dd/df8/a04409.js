@@ -1,8 +1,6 @@
 var a04409 =
 [
-    [ "AuraEffectStub", "de/d78/a29715.html", "de/d78/a29715" ],
-    [ "AuraApplicationStub", "da/d98/a29719.html", "da/d98/a29719" ],
-    [ "AuraStub", "db/d80/a29723.html", "db/d80/a29723" ],
-    [ "MockAuraStub", "d5/dc4/a29727.html", "d5/dc4/a29727" ],
-    [ "AuraStubBuilder", "d0/d42/a29731.html", "d0/d42/a29731" ]
+    [ "IntegrationTestFixture", "d8/d09/a29763.html", "d8/d09/a29763" ],
+    [ "TEST_FACTION_HOSTILE_TO_ALL", "dd/df8/a04409.html#a2ba0fc21bd7fc2eb0be55b83f098c883", null ],
+    [ "TEST_FACTION_HOSTILE_TO_MONSTERS", "dd/df8/a04409.html#af72a10157e381ef81a175a8ac4844d73", null ]
 ];

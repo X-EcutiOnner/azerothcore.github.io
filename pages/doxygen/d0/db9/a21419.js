@@ -1,7 +1,6 @@
 var a21419 =
 [
-    [ "HandleScript", "d0/db9/a21419.html#ac8d984ac87f51050113f7ac1a4625785", null ],
-    [ "PrepareSpellScript", "d0/db9/a21419.html#a34f6166e27cb99e424dd081ffce704a5", null ],
-    [ "Register", "d0/db9/a21419.html#a0dd5b7a8cf086ee3b5a6f30326874ee3", null ],
-    [ "Validate", "d0/db9/a21419.html#a364c96f7253fde59e1a9a59a42c4d3a5", null ]
+    [ "boss_skadi_graufAI", "d0/db1/a21423.html", "d0/db1/a21423" ],
+    [ "boss_skadi_grauf", "d0/db9/a21419.html#a571db2d2ae21f38b7051319da0f042f6", null ],
+    [ "GetAI", "d0/db9/a21419.html#ab464e605bf001eee5517ad805066af57", null ]
 ];

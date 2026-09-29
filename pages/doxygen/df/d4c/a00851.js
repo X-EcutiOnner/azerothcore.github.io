@@ -1,4 +1,5 @@
 var a00851 =
 [
-    [ "ScriptRegistry< MovementHandlerScript >", "df/d4c/a00851.html#adecbf467a875ee8886c336d96a2f97dc", null ]
+    [ "disable_commandscript", "df/dbe/a12531.html", "df/dbe/a12531" ],
+    [ "AddSC_disable_commandscript", "df/d4c/a00851.html#a232e1ddbf34ceae5a317df69255bc8de", null ]
 ];

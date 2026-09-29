@@ -1,7 +1,6 @@
 var a22155 =
 [
-    [ "npc_plaguehound_trackerAI", "d0/d54/a22155.html#a7530f500b42ad9bb38593193d3113da8", null ],
-    [ "Reset", "d0/d54/a22155.html#a05c351ab3aca0cd18209405075bb0f47", null ],
-    [ "WaypointReached", "d0/d54/a22155.html#a67c345f49572cde76d9109a1baff6788", null ],
-    [ "WaypointReached", "d0/d54/a22155.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "npc_attracted_reef_bullAI", "da/d6e/a22159.html", "da/d6e/a22159" ],
+    [ "npc_attracted_reef_bull", "d0/d54/a22155.html#acd0ade9e7ce5492c11be0b3f2696418e", null ],
+    [ "GetAI", "d0/d54/a22155.html#af705e2768cd41c955af7f944c670ac85", null ]
 ];

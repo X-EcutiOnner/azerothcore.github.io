@@ -1,8 +1,8 @@
 var a21023 =
 [
-    [ "npc_xt_toy_pile", "d8/dff/a21023.html#a843e7d05cf62baa5c006077f8dad107d", null ],
-    [ "SpellHit", "d8/dff/a21023.html#a82af3830eaf524c587334e8eb193925f", null ],
-    [ "_lastSummonTime", "d8/dff/a21023.html#aaa8e3581f39206c30f1b7de9a81f1387", null ],
-    [ "SummonCooldown", "d8/dff/a21023.html#ab0924af7ecfd54f1744b11af76ca2834", null ],
-    [ "SummonDistance", "d8/dff/a21023.html#a3adcb7a8f6ad7b515719794e0ddca964", null ]
+    [ "OnPeriodic", "d8/dff/a21023.html#aa49d1186ca6f5cdd628728a8a30c06a0", null ],
+    [ "OnRemove", "d8/dff/a21023.html#ad3a81506d71ed3d6ddffce7d8f902eb4", null ],
+    [ "PrepareAuraScript", "d8/dff/a21023.html#a63b654cf540e331e4d2b4f4ece5c1fcc", null ],
+    [ "Register", "d8/dff/a21023.html#a004ba2e0e83a14bef3cae208a45f222b", null ],
+    [ "Validate", "d8/dff/a21023.html#aa56622a1e57c157260940023a6c70a35", null ]
 ];

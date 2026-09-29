@@ -1,6 +1,10 @@
 var a21735 =
 [
-    [ "npc_valiance_keep_cannoneerAI", "d7/d9c/a21739.html", "d7/d9c/a21739" ],
-    [ "npc_valiance_keep_cannoneer", "dc/d7b/a21735.html#a11f6060a7c6cd7be60001f5c259c94d3", null ],
-    [ "GetAI", "dc/d7b/a21735.html#a8bfc1505dedee28d1517ba6a7738ffd5", null ]
+    [ "npc_imprisoned_beryl_sorcererAI", "dc/d7b/a21735.html#a0a8159a84689dbfd8c69ed523ce03817", null ],
+    [ "GotStinged", "dc/d7b/a21735.html#a0729c584c3b65e5f25f4445de378f0ea", null ],
+    [ "JustEngagedWith", "dc/d7b/a21735.html#a2f3e45b3f762ede62aa94a6ae3f2909f", null ],
+    [ "Reset", "dc/d7b/a21735.html#aedc82ee3bfa193a838d5af62533e19b4", null ],
+    [ "SpellHit", "dc/d7b/a21735.html#a2010b53b3a8ad1e0aa6ecb5a26c8b6c9", null ],
+    [ "UpdateAI", "dc/d7b/a21735.html#a21def23073eeec051c1c97a813e0ea84", null ],
+    [ "rebuff", "dc/d7b/a21735.html#ac83c25091fdd3c7876a88927b758261f", null ]
 ];

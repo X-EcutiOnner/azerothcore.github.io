@@ -1,4 +1,5 @@
 var a00194 =
 [
-    [ "DEADLOCK_MAX_RETRY_TIME_MS", "dc/d57/a00194.html#ac0b52915e8b31344cafb9042ab92e830", null ]
+    [ "RASession", "db/d00/a06095.html", "db/d00/a06095" ],
+    [ "bufferSize", "dc/d57/a00194.html#af86f08ffe713b38f728cb02c7f06c0e1", null ]
 ];

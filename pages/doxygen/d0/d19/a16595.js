@@ -1,7 +1,6 @@
 var a16595 =
 [
-    [ "DelayedTalk", "d0/d19/a16595.html#a8a7ea9e6ddebd73996cfe8d9723276bc", null ],
-    [ "Execute", "d0/d19/a16595.html#a88c1915e73bcbd8ec253a537c416caf7", null ],
-    [ "_owner", "d0/d19/a16595.html#a9d13769bb3fbaed32919fc919da35006", null ],
-    [ "_talkId", "d0/d19/a16595.html#a3f3a1688a36807c653a5d071dd2bb389", null ]
+    [ "HandleLeapBack", "d0/d19/a16595.html#a71a9b9967528c1153ad1215635bc7d01", null ],
+    [ "PrepareSpellScript", "d0/d19/a16595.html#a25a2db5c19e721b112b7bc84b3ac0968", null ],
+    [ "Register", "d0/d19/a16595.html#a6ef11d0538616315fa7cf098748aa01f", null ]
 ];

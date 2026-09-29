@@ -1,6 +1,5 @@
 var a21971 =
 [
-    [ "npc_q24545_wretched_ghoulAI", "db/d98/a21975.html", "db/d98/a21975" ],
-    [ "npc_q24545_wretched_ghoul", "d7/d84/a21971.html#a3842b5bd89c911d29d561307113fb032", null ],
-    [ "GetAI", "d7/d84/a21971.html#ada973de0ff7295f0441cbd6b6aaca9ac", null ]
+    [ "at_q24545_frostmourne_cavern", "d7/d84/a21971.html#a76e2d8424b5fcd037fabfa9b878d21e1", null ],
+    [ "OnTrigger", "d7/d84/a21971.html#a9016ef31fde1bbcaf57a17e64ea8d503", null ]
 ];

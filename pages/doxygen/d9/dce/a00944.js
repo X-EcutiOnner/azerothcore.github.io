@@ -1,6 +1,8 @@
 var a00944 =
 [
-    [ "lfg::LFGPlayerScript", "d5/dac/a08455.html", "d5/dac/a08455" ],
-    [ "lfg::LFGGroupScript", "d1/d9d/a08459.html", "d1/d9d/a08459" ],
-    [ "AddSC_LFGScripts", "d9/dce/a00944.html#a9624b9328e26a9f420a4a3f07e253763", null ]
+    [ "instance_drak_tharon_keep", "d7/dee/a17331.html", "d7/dee/a17331" ],
+    [ "spell_dtk_raise_dead_aura", "d6/d9d/a17335.html", "d6/d9d/a17335" ],
+    [ "spell_dtk_summon_random_drakkari", "dd/d30/a17339.html", "dd/d30/a17339" ],
+    [ "AddSC_instance_drak_tharon_keep", "d9/dce/a00944.html#a5644ddec1299c3c3988ffb003d0c3367", null ],
+    [ "doorData", "d9/dce/a00944.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
 ];

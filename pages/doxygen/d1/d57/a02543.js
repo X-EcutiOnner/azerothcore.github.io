@@ -1,28 +1,21 @@
 var a02543 =
 [
-    [ "tf_tower_world_state", "d1/dcc/a22739.html", "d1/dcc/a22739" ],
-    [ "OPvPCapturePointTF", "d0/dc6/a22743.html", "d0/dc6/a22743" ],
-    [ "OutdoorPvPTF", "da/d46/a22747.html", "da/d46/a22747" ],
-    [ "TF_CAPTURE_BUFF", "d1/d57/a02543.html#a82bc235ec6d43b48511d1b3d903a934b", null ],
-    [ "OutdoorPvPTF_TowerType", "d1/d57/a02543.html#a7a4347e10a530d56e3c3ae66a5eae999", [
-      [ "TF_TOWER_NW", "d1/d57/a02543.html#a7a4347e10a530d56e3c3ae66a5eae999ac95ea754e0befd303c7912671ff54b16", null ],
-      [ "TF_TOWER_N", "d1/d57/a02543.html#a7a4347e10a530d56e3c3ae66a5eae999a034d81c6a66a32fef95c75235cb39d2b", null ],
-      [ "TF_TOWER_NE", "d1/d57/a02543.html#a7a4347e10a530d56e3c3ae66a5eae999a210d598966bbca14ece80eb1e00bae97", null ],
-      [ "TF_TOWER_SE", "d1/d57/a02543.html#a7a4347e10a530d56e3c3ae66a5eae999a01f2c2e0a883f8355bf433a96b52bd65", null ],
-      [ "TF_TOWER_S", "d1/d57/a02543.html#a7a4347e10a530d56e3c3ae66a5eae999af3a17ac5cc35927939c90503027342f0", null ],
-      [ "TF_TOWER_NUM", "d1/d57/a02543.html#a7a4347e10a530d56e3c3ae66a5eae999ad6085f7af14a95c2f7331b50721ff5a3", null ]
+    [ "BattlegroundBE", "d1/d1b/a07839.html", "d1/d1b/a07839" ],
+    [ "BattlegroundBEGameObjects", "d1/d57/a02543.html#a1b0280d2208da5214e6132c85687575e", [
+      [ "BG_BE_OBJECT_TYPE_DOOR_1", "d1/d57/a02543.html#a1b0280d2208da5214e6132c85687575ea7668b0cb45bb8fcb5d169d52601f8ffc", null ],
+      [ "BG_BE_OBJECT_TYPE_DOOR_2", "d1/d57/a02543.html#a1b0280d2208da5214e6132c85687575ea4f5f05ba355663c10696918af17e7285", null ],
+      [ "BG_BE_OBJECT_TYPE_DOOR_3", "d1/d57/a02543.html#a1b0280d2208da5214e6132c85687575ea46f638ce865d69bfd79373d8105a8e83", null ],
+      [ "BG_BE_OBJECT_TYPE_DOOR_4", "d1/d57/a02543.html#a1b0280d2208da5214e6132c85687575eabd8ea2d0bde54698184bcfff07ffb6f6", null ],
+      [ "BG_BE_OBJECT_TYPE_BUFF_1", "d1/d57/a02543.html#a1b0280d2208da5214e6132c85687575ea828640a929b6a7559e1828cfdbf95f10", null ],
+      [ "BG_BE_OBJECT_TYPE_BUFF_2", "d1/d57/a02543.html#a1b0280d2208da5214e6132c85687575eac4122fbc499fb8d6ca4de47dfa6f3bab", null ]
     ] ],
-    [ "TFTowerStates", "d1/d57/a02543.html#a5815248809b8fd06bd664886846a7126", [
-      [ "TF_TOWERSTATE_N", "d1/d57/a02543.html#a5815248809b8fd06bd664886846a7126a1bf771ad2a93c40a6d0d5312167a046f", null ],
-      [ "TF_TOWERSTATE_H", "d1/d57/a02543.html#a5815248809b8fd06bd664886846a7126a133214fb55c09ba0030cc76b1d2082c1", null ],
-      [ "TF_TOWERSTATE_A", "d1/d57/a02543.html#a5815248809b8fd06bd664886846a7126acde31be20bbd32d3bf71bd3352e7e43d", null ]
-    ] ],
-    [ "OutdoorPvPTFBuffZones", "d1/d57/a02543.html#a6b09030102f8c0dbb4b0e6bbfdee9b24", null ],
-    [ "OutdoorPvPTFBuffZonesNum", "d1/d57/a02543.html#acde5c9331776adb4ed27c2319476e550", null ],
-    [ "TF_ALLY_QUEST", "d1/d57/a02543.html#a3967b7bb2df0e330fbd21a68d557b19a", null ],
-    [ "TF_HORDE_QUEST", "d1/d57/a02543.html#a1bbe00a4cf0ae9f6750d23ef10539c0a", null ],
-    [ "TF_LOCK_TIME", "d1/d57/a02543.html#a925c2f6bf9c7a6d1b694382b888fa85f", null ],
-    [ "TF_LOCK_TIME_UPDATE", "d1/d57/a02543.html#a9ef7be226d98726081fd3cb435d223b5", null ],
-    [ "TFCapturePoints", "d1/d57/a02543.html#a19e9cf9859a7578f154dcdcfa0670620", null ],
-    [ "TFTowerWorldStates", "d1/d57/a02543.html#ac5dbb8989285178cfea88af6f03dd6a6", null ]
+    [ "BattlegroundBEObjectTypes", "d1/d57/a02543.html#ac30a97954fa7cc5e46429c1b15e02aa6", [
+      [ "BG_BE_OBJECT_DOOR_1", "d1/d57/a02543.html#ac30a97954fa7cc5e46429c1b15e02aa6a0df93d02d5b293963bebae8c18c3ae17", null ],
+      [ "BG_BE_OBJECT_DOOR_2", "d1/d57/a02543.html#ac30a97954fa7cc5e46429c1b15e02aa6a1bc43e32d61d4d2a6e605214b3498d0e", null ],
+      [ "BG_BE_OBJECT_DOOR_3", "d1/d57/a02543.html#ac30a97954fa7cc5e46429c1b15e02aa6a65b47239921b2cc82d549ec06684dcbb", null ],
+      [ "BG_BE_OBJECT_DOOR_4", "d1/d57/a02543.html#ac30a97954fa7cc5e46429c1b15e02aa6ac892d4ba71d39d87a754d48158edafc5", null ],
+      [ "BG_BE_OBJECT_BUFF_1", "d1/d57/a02543.html#ac30a97954fa7cc5e46429c1b15e02aa6a7467355220ec6cd486b4d31f2017b176", null ],
+      [ "BG_BE_OBJECT_BUFF_2", "d1/d57/a02543.html#ac30a97954fa7cc5e46429c1b15e02aa6ac11771a5f0517038daf7fe96e7cf00eb", null ],
+      [ "BG_BE_OBJECT_MAX", "d1/d57/a02543.html#ac30a97954fa7cc5e46429c1b15e02aa6a4f887547bcc1f47df4522c823c507d6f", null ]
+    ] ]
 ];

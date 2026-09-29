@@ -1,25 +1,13 @@
 var a08951 =
 [
-    [ "ClientUpdateMaskType", "d2/dd8/a08951.html#a7638c508cfb0f5480eec2f9d650b0eb4", null ],
-    [ "UpdateMaskCount", "d2/dd8/a08951.html#a667c2f210ee4a2417a2a3ba486d1332f", [
-      [ "CLIENT_UPDATE_MASK_BITS", "d2/dd8/a08951.html#a667c2f210ee4a2417a2a3ba486d1332fac06e5fd027ae17cd4eaf7faa2580098b", null ]
-    ] ],
-    [ "UpdateMask", "d2/dd8/a08951.html#a72e9de07108361222addde025ea8362f", null ],
-    [ "UpdateMask", "d2/dd8/a08951.html#ae0cefda1282f8c29a6557e1c25e007de", null ],
-    [ "~UpdateMask", "d2/dd8/a08951.html#a986a2b81e0b4f86486ccc455ff6ad79a", null ],
-    [ "AppendToPacket", "d2/dd8/a08951.html#afe89109ca16f687072062408e311f793", null ],
-    [ "Clear", "d2/dd8/a08951.html#a39cffd3822966011d83d7241ee3c5548", null ],
-    [ "GetBit", "d2/dd8/a08951.html#a69f7c72de49699d5730f3a10d55f30e2", null ],
-    [ "GetBlockCount", "d2/dd8/a08951.html#a5c0d2086346e4522e422add9622e1117", null ],
-    [ "GetCount", "d2/dd8/a08951.html#a1f6e2b930533b303c173166bf3588613", null ],
-    [ "operator&=", "d2/dd8/a08951.html#af15db8c732b94437fd1323a911eab5ce", null ],
-    [ "operator=", "d2/dd8/a08951.html#a3c94144194d52a00888b8bb0760e2d5a", null ],
-    [ "operator|", "d2/dd8/a08951.html#a487d62a6a039803da615d265a176f138", null ],
-    [ "operator|=", "d2/dd8/a08951.html#a81b64e6574c61533b07491920eddf413", null ],
-    [ "SetBit", "d2/dd8/a08951.html#af3390cfa31c39629968a871be2c763fc", null ],
-    [ "SetCount", "d2/dd8/a08951.html#ad6ec4d5a2b6a85a2ec72b559efbdeb35", null ],
-    [ "UnsetBit", "d2/dd8/a08951.html#aaac0596975c08d04736996c608eff29f", null ],
-    [ "_bits", "d2/dd8/a08951.html#ab34e66bf840ac230da0cfa35ef332145", null ],
-    [ "_blockCount", "d2/dd8/a08951.html#ad58cc5d2dbf8854f36ef4a19f5b6f51b", null ],
-    [ "_fieldCount", "d2/dd8/a08951.html#a6c7ed53833620c2754b1e0db85a96ece", null ]
+    [ "UpdateData", "d2/dd8/a08951.html#a7164bb9338d6362f427d75025c9026b6", null ],
+    [ "AddOutOfRangeGUID", "d2/dd8/a08951.html#a4c68f187e2f6e65da3bdb6a443ebcacf", null ],
+    [ "AddUpdateBlock", "d2/dd8/a08951.html#a742f2bc2f8c78f0a4fb0871efa309382", null ],
+    [ "AddUpdateBlock", "d2/dd8/a08951.html#a66fd30f02a3c70a4a4de5be8e87d19df", null ],
+    [ "BuildPacket", "d2/dd8/a08951.html#a3bea592b01b6c9e41b863c26fd602d45", null ],
+    [ "Clear", "d2/dd8/a08951.html#adc0750db190d94fed3bfef72da75066c", null ],
+    [ "HasData", "d2/dd8/a08951.html#a067577372028ad59aea7942f0cd4a5c2", null ],
+    [ "m_blockCount", "d2/dd8/a08951.html#a791f9606867a40d018f67600e338a08e", null ],
+    [ "m_data", "d2/dd8/a08951.html#ac21a3bda51f8d1d2b71be6d00d760e38", null ],
+    [ "m_outOfRangeGUIDs", "d2/dd8/a08951.html#a60f7b1745f84b24b25c94625145dd5a2", null ]
 ];

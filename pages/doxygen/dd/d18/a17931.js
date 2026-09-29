@@ -1,8 +1,7 @@
 var a17931 =
 [
-    [ "npc_high_overlord_saurfangAI", "d0/d9f/a17935.html", "d0/d9f/a17935" ],
-    [ "npc_high_overlord_saurfang_icc", "dd/d18/a17931.html#ac02fe80550572e142406c2d80c0392df", null ],
-    [ "GetAI", "dd/d18/a17931.html#a21c04ab5b8d747c28c7355cc483ac6e3", null ],
-    [ "OnGossipHello", "dd/d18/a17931.html#a515a87f751527412222cfdd968febe7c", null ],
-    [ "OnGossipSelect", "dd/d18/a17931.html#a39c33a3b2e7037ca6f0f40ba65cb55db", null ]
+    [ "achievement_once_bitten_twice_shy", "dd/d18/a17931.html#a20cefbd70b242168bbfb1228eb8b4f9b", null ],
+    [ "OnCheck", "dd/d18/a17931.html#aa2e3ac3e8a14b06446174e475ac18af3", null ],
+    [ "_spawnMode", "dd/d18/a17931.html#a6f02f5ab07143ddff553279049714902", null ],
+    [ "_wasVampire", "dd/d18/a17931.html#a297cf6da45b0cddb4dc9fc888919bdda", null ]
 ];

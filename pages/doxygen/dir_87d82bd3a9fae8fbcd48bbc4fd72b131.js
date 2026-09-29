@@ -1,6 +1,6 @@
 var dir_87d82bd3a9fae8fbcd48bbc4fd72b131 =
 [
-    [ "boss_magtheridon.cpp", "d0/df8/a02717.html", "d0/df8/a02717" ],
-    [ "instance_magtheridons_lair.cpp", "d5/d95/a02720.html", "d5/d95/a02720" ],
-    [ "magtheridons_lair.h", "d1/d3c/a02714.html", "d1/d3c/a02714" ]
+    [ "boss_magtheridon.cpp", "d0/d39/a00314.html", "d0/d39/a00314" ],
+    [ "instance_magtheridons_lair.cpp", "dd/de2/a00320.html", "dd/de2/a00320" ],
+    [ "magtheridons_lair.h", "da/de0/a00317.html", "da/de0/a00317" ]
 ];

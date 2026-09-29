@@ -1,8 +1,17 @@
 var a02720 =
 [
-    [ "instance_magtheridons_lair", "d0/d60/a23795.html", "d0/d60/a23795" ],
-    [ "instance_magtheridons_lair::instance_magtheridons_lair_InstanceMapScript", "de/d30/a23799.html", "de/d30/a23799" ],
-    [ "AddSC_instance_magtheridons_lair", "d5/d95/a02720.html#a77e256ce8ca932c8d162a30715dc7c6f", null ],
-    [ "boundaries", "d5/d95/a02720.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
-    [ "doorData", "d5/d95/a02720.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
+    [ "DeleteSpellFromAllPlayers", "d5/d95/a02720.html#af0dec25ac7c118b67a71a0356eb37877", null ],
+    [ "GetDiminishingReturnsGroupForSpell", "d5/d95/a02720.html#a35697cceaf39daf069d06c53e8e3cdf7", null ],
+    [ "GetDiminishingReturnsGroupType", "d5/d95/a02720.html#ab0fdc6c7b1e9317d6f6c0480d734b4f1", null ],
+    [ "GetDiminishingReturnsLimitDuration", "d5/d95/a02720.html#a2ba27d428865ac3f87bf6f6843271d3f", null ],
+    [ "GetDiminishingReturnsMaxLevel", "d5/d95/a02720.html#ad621262d491c800fb5ddd016250dd46f", null ],
+    [ "InitTriggerAuraData", "d5/d95/a02720.html#a70fb722e03fe637ce7c9979a00725a3c", null ],
+    [ "IsDiminishingReturnsGroupDurationLimited", "d5/d95/a02720.html#a423a80c889a3456a2b55e0e9c22ad060", null ],
+    [ "IsPartOfSkillLine", "d5/d95/a02720.html#a18102741b602d3b4473f75d4f619a09b", null ],
+    [ "IsPrimaryProfessionSkill", "d5/d95/a02720.html#a09c4e23bd85fab812b67beafbbf1b7b3", null ],
+    [ "LoadPetDefaultSpells_helper", "d5/d95/a02720.html#a26626d5f5404864fcd622872f5cd8af1", null ],
+    [ "isAlwaysTriggeredAura", "d5/d95/a02720.html#a59735a3ed46ce3add4f949e4c9e041f8", null ],
+    [ "isTriggerAura", "d5/d95/a02720.html#ad51bed43268eefcceebdda05d85c6a61", null ],
+    [ "procPrepared", "d5/d95/a02720.html#a11410c456e972de7cfb44bbe17709cc4", null ],
+    [ "spellTypeMask", "d5/d95/a02720.html#aacbfece2441a495ad1e709acd28bc9b7", null ]
 ];

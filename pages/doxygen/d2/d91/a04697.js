@@ -1,4 +1,5 @@
 var a04697 =
 [
-    [ "GetExpirationTime", "d2/d91/a04697.html#a546bd84b57be90f3ceb4cfc0fb92ae1c", null ]
+    [ "FactoryHolder< T, O, Key >", "db/dd0/a05603.html", "db/dd0/a05603" ],
+    [ "Permissible< T >", "db/de6/a05607.html", "db/de6/a05607" ]
 ];

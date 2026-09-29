@@ -1,7 +1,9 @@
 var a13271 =
 [
-    [ "boss_maiden_of_virtue", "da/d0f/a13271.html#a4cd0c7a566e23e5c3a43466214f35dd3", null ],
-    [ "JustDied", "da/d0f/a13271.html#a6eded246318f6b47b46f45168e4a8069", null ],
-    [ "JustEngagedWith", "da/d0f/a13271.html#a6ff1b9e0a17218ad4871bc5fc3748671", null ],
-    [ "KilledUnit", "da/d0f/a13271.html#a32dd66a297d11f5ffac1841bae15727a", null ]
+    [ "boss_curator", "da/d0f/a13271.html#a41b65078d0822ba87f3e40fc7bb10a40", null ],
+    [ "JustDied", "da/d0f/a13271.html#a5617f51f51304682d48af11fdb0c6b8b", null ],
+    [ "JustEngagedWith", "da/d0f/a13271.html#a848f477a101956662389cab5ffcc0727", null ],
+    [ "JustSummoned", "da/d0f/a13271.html#ac779d275e03e6ba190617d215b217ce5", null ],
+    [ "KilledUnit", "da/d0f/a13271.html#a9bfb89a8747251e4a84eb2f94a547f0d", null ],
+    [ "Reset", "da/d0f/a13271.html#af6fbf3c3d77f9f052f11974f7b54feab", null ]
 ];

@@ -1,20 +1,14 @@
 var a01826 =
 [
-    [ "Corpse", "d9/da0/a08463.html", "d9/da0/a08463" ],
-    [ "CORPSE_RECLAIM_RADIUS", "d2/d45/a01826.html#a1cebf109f41dcdac8a90086696642782", null ],
-    [ "MAX_CORPSE_TYPE", "d2/d45/a01826.html#aec0512ffe7d6a8f7dd8330c334bb4fc3", null ],
-    [ "CorpseFlags", "d2/d45/a01826.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537c", [
-      [ "CORPSE_FLAG_NONE", "d2/d45/a01826.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca30260079b14373a47aef21b99e8757a2", null ],
-      [ "CORPSE_FLAG_BONES", "d2/d45/a01826.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca47ec12fa0520573d7d8ff9231ca4eb8b", null ],
-      [ "CORPSE_FLAG_UNK1", "d2/d45/a01826.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca043171119fe69fae07f3668763d40c7c", null ],
-      [ "CORPSE_FLAG_UNK2", "d2/d45/a01826.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca769ec96151b713170c051ee6236bbd5e", null ],
-      [ "CORPSE_FLAG_HIDE_HELM", "d2/d45/a01826.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca830d0cde7665a938cd48d4018ae0df79", null ],
-      [ "CORPSE_FLAG_HIDE_CLOAK", "d2/d45/a01826.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca25bc5b9c02c2cce38be9bb32c2ad335a", null ],
-      [ "CORPSE_FLAG_LOOTABLE", "d2/d45/a01826.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537caeb7f1630dc7c0b062b809e65cd4e5f80", null ]
-    ] ],
-    [ "CorpseType", "d2/d45/a01826.html#a43260eb47484e62a16a868f79646c683", [
-      [ "CORPSE_BONES", "d2/d45/a01826.html#a43260eb47484e62a16a868f79646c683ae7046aabaa7e6f435370eb1c49335356", null ],
-      [ "CORPSE_RESURRECTABLE_PVE", "d2/d45/a01826.html#a43260eb47484e62a16a868f79646c683a79e10cac636d94dc5aa8379ecce5cc78", null ],
-      [ "CORPSE_RESURRECTABLE_PVP", "d2/d45/a01826.html#a43260eb47484e62a16a868f79646c683a90cccb41a96804ac3340b13ff68241ba", null ]
-    ] ]
+    [ "instance_karazhan", "df/da6/a13451.html", "df/da6/a13451" ],
+    [ "instance_karazhan::instance_karazhan_InstanceMapScript", "d0/df8/a13455.html", "d0/df8/a13455" ],
+    [ "spell_karazhan_brittle_bones_aura", "db/d08/a13459.html", "db/d08/a13459" ],
+    [ "spell_karazhan_overload_aura", "dd/d11/a13463.html", "dd/d11/a13463" ],
+    [ "spell_karazhan_blink", "d2/d9f/a13467.html", "d2/d9f/a13467" ],
+    [ "AddSC_instance_karazhan", "d2/d45/a01826.html#adc62e82adedf1c9e8d47332aaa7a4cf5", null ],
+    [ "boundaries", "d2/d45/a01826.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
+    [ "creatureData", "d2/d45/a01826.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "d2/d45/a01826.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "gameObjectData", "d2/d45/a01826.html#a1461582839e3b7fdbb7397e5d2086e31", null ],
+    [ "OptionalSpawn", "d2/d45/a01826.html#a9dacd53568280ba4bb7d0a7c7f65f6cf", null ]
 ];

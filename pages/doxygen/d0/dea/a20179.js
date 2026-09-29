@@ -1,8 +1,9 @@
 var a20179 =
 [
-    [ "npc_algalon_worm_hole", "d0/dea/a20179.html#a546bd0ede2586fcbe3812698b68528d4", null ],
-    [ "JustSummoned", "d0/dea/a20179.html#a077425b35d86c007daa93fc8b1fd9717", null ],
-    [ "Reset", "d0/dea/a20179.html#a363814abdee714faddfd966b11a4fddc", null ],
-    [ "UpdateAI", "d0/dea/a20179.html#a16f644be53169adc67fc971bdeaa7263", null ],
-    [ "_summonTimer", "d0/dea/a20179.html#a033382dbd57714e815eed8ef6e4adfaf", null ]
+    [ "npc_brann_bronzebeard_algalon", "d0/dea/a20179.html#ac00755dca7e187b55516be889386c499", null ],
+    [ "DoAction", "d0/dea/a20179.html#a6d44478868a74ed7baac757258334806", null ],
+    [ "MovementInform", "d0/dea/a20179.html#a33af1a38ab2827aec38f95e57e54f589", null ],
+    [ "UpdateAI", "d0/dea/a20179.html#ad74f8f8a31431dd2eaa4279e6a8fae36", null ],
+    [ "_currentPoint", "d0/dea/a20179.html#a5403badf59f96111aefaddf78379e65f", null ],
+    [ "events", "d0/dea/a20179.html#ae63e7d3c53c3039186221c8b59c43e3e", null ]
 ];

@@ -1,8 +1,6 @@
 var a22651 =
 [
-    [ "HandleApply", "d2/d4d/a22651.html#ad8ee9a50314c900b1507e25eaa70ece7", null ],
-    [ "HandleRemove", "d2/d4d/a22651.html#a06c7c65d973fcf348f5c929503902520", null ],
-    [ "PrepareAuraScript", "d2/d4d/a22651.html#a48b20c0f1997acd0f9f0800bf4b63bd0", null ],
-    [ "Register", "d2/d4d/a22651.html#a7018a16262b94a573405e1bdc9fbdd10", null ],
-    [ "Validate", "d2/d4d/a22651.html#a8135c492638557eec71189282e7f78a2", null ]
+    [ "npc_crusade_recruitAI", "da/d5c/a22655.html", "da/d5c/a22655" ],
+    [ "npc_crusade_recruit", "d2/d4d/a22651.html#a6e130f153c506255ef5ece1baf006028", null ],
+    [ "GetAI", "d2/d4d/a22651.html#a412f0d153676758fda8c1f7f1e9dda44", null ]
 ];

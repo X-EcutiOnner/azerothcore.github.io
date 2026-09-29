@@ -1,11 +1,21 @@
 var a00083 =
 [
-    [ "ADT::MDDF", "d6/df4/a30415.html", "d6/df4/a30415" ],
-    [ "ADT::MODF", "d2/d1f/a30419.html", "d2/d1f/a30419" ],
-    [ "ADTFile", "df/d43/a30423.html", "df/d43/a30423" ],
-    [ "fixname2", "d2/d1f/a00083.html#ac0029be4572a61d00eb1435db5526a74", null ],
-    [ "fixnamen", "d2/d1f/a00083.html#abdc56edc46e0804c456749761cff8daf", null ],
-    [ "GetExtension", "d2/d1f/a00083.html#ac3f75fc482c41471364c2c3e8bd1dd96", null ],
-    [ "GetPlainName", "d2/d1f/a00083.html#a5e577b4c8e75312883ba4e8c571908ca", null ],
-    [ "GetPlainName", "d2/d1f/a00083.html#a939d4568b4058bf826a517f55cb963af", null ]
+    [ "map_fileheader", "d1/ddd/a09595.html", "d1/ddd/a09595" ],
+    [ "map_heightHeader", "df/da2/a09603.html", "df/da2/a09603" ],
+    [ "map_liquidHeader", "d5/d9e/a09607.html", "d5/d9e/a09607" ],
+    [ "MAP_HEIGHT_AS_INT16", "d2/d1f/a00083.html#aefa74fa33f3eba2d39b407c2fd2e8aba", null ],
+    [ "MAP_HEIGHT_AS_INT8", "d2/d1f/a00083.html#a15a9245a53c00f1a8a89dd2d798cea9d", null ],
+    [ "MAP_HEIGHT_NO_HEIGHT", "d2/d1f/a00083.html#aa5c2437972b2be5c5ff23a7ac04e2680", null ],
+    [ "MAP_LIQUID_NO_HEIGHT", "d2/d1f/a00083.html#a59daadc7c96729526e05982ec6600bb1", null ],
+    [ "MAP_LIQUID_NO_TYPE", "d2/d1f/a00083.html#a42b8b790a3d284e7116bcad1c391b8f9", null ],
+    [ "MAP_LIQUID_TYPE_DARK_WATER", "d2/d1f/a00083.html#a661f965d11d7da56890b64484d871441", null ],
+    [ "MAP_LIQUID_TYPE_MAGMA", "d2/d1f/a00083.html#a14e2a0a2291347b0ef877bc9d70f7384", null ],
+    [ "MAP_LIQUID_TYPE_NO_WATER", "d2/d1f/a00083.html#a17d4c5ea32412f0fbe04a27f63d50e13", null ],
+    [ "MAP_LIQUID_TYPE_OCEAN", "d2/d1f/a00083.html#a6d257e0effb928fba7534eeee5de602d", null ],
+    [ "MAP_LIQUID_TYPE_SLIME", "d2/d1f/a00083.html#aa56f76510545ed9c706b8fee3061b6cb", null ],
+    [ "MAP_LIQUID_TYPE_WATER", "d2/d1f/a00083.html#a5ec110bd30ec47fcd087aaf5d572de28", null ],
+    [ "holetab_h", "d2/d1f/a00083.html#abeb39e913287295598939165f99abe3b", null ],
+    [ "holetab_v", "d2/d1f/a00083.html#a8c5ddef856ef804076860bb176c6d9e1", null ],
+    [ "MAP_FILE_NAME_FORMAT", "d2/d1f/a00083.html#a1d57d156046bda88886b7488ab0b83bc", null ],
+    [ "MAP_VERSION_MAGIC", "d2/d1f/a00083.html#aee23c8e21c084824373ce587f8fe1f04", null ]
 ];

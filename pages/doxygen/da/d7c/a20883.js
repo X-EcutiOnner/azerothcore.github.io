@@ -1,6 +1,7 @@
 var a20883 =
 [
-    [ "HandleHit", "da/d7c/a20883.html#adbb57403c65e84ab217788ee3a9261b7", null ],
-    [ "PrepareSpellScript", "da/d7c/a20883.html#a324717ff0843627151dd23fe565a80ab", null ],
-    [ "Register", "da/d7c/a20883.html#a30c67c5c533add48412d6a9e1f6fc6b0", null ]
+    [ "go_razorscale_harpoonAI", "da/d7c/a20883.html#afff12f330538843c477f75500f731ea3", null ],
+    [ "Reset", "da/d7c/a20883.html#aae5f0f7ff2b206872c02bd7da90afdc0", null ],
+    [ "UpdateAI", "da/d7c/a20883.html#a906b14e1bc6b71f95aa2fcde83846f0a", null ],
+    [ "_scheduler", "da/d7c/a20883.html#a6f6e325b1b1599f90173e8c8a68c7956", null ]
 ];

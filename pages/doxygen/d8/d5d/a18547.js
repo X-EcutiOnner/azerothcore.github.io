@@ -1,6 +1,7 @@
 var a18547 =
 [
-    [ "boss_sindragosaAI", "d7/d47/a18551.html", "d7/d47/a18551" ],
-    [ "boss_sindragosa", "d8/d5d/a18547.html#af5cdf4798b8b87467fa45dbda7fcbee1", null ],
-    [ "GetAI", "d8/d5d/a18547.html#a005a6da9f4f9690416a108872b3c2b36", null ]
+    [ "FrostBombExplosion", "d8/d5d/a18547.html#ac7d318e241e6442e8aa084b27ea50236", null ],
+    [ "Execute", "d8/d5d/a18547.html#a0b6521266f18b621260286c530ff3f36", null ],
+    [ "_owner", "d8/d5d/a18547.html#aa9ff39ce43c351e8815f895896fa759b", null ],
+    [ "_sindragosaGUID", "d8/d5d/a18547.html#a5afc3d543c8fa457c90735f841aa161c", null ]
 ];

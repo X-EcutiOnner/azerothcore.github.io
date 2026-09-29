@@ -1,6 +1,5 @@
 var a19575 =
 [
-    [ "npc_boss_gothik_minionAI", "d7/db6/a19579.html", "d7/db6/a19579" ],
-    [ "npc_boss_gothik_minion", "d9/dc4/a19575.html#a6cabeae812639ac179133245d85a0e15", null ],
-    [ "GetAI", "d9/dc4/a19575.html#a8abb1ec265f9eeb646a858bee06cfb92", null ]
+    [ "PrepareSpellScript", "d9/dc4/a19575.html#a09b852666752f6adde3f9e5bb1f107bc", null ],
+    [ "Register", "d9/dc4/a19575.html#a80c3077f8f689367276e1054a6236681", null ]
 ];

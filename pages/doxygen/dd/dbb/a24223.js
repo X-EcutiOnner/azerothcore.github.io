@@ -1,6 +1,10 @@
 var a24223 =
 [
-    [ "go_beaconAI", "de/d90/a24227.html", "de/d90/a24227" ],
-    [ "go_beacon", "dd/dbb/a24223.html#ad4224cabdc7210d9a0a46fb1eed1a23b", null ],
-    [ "GetAI", "dd/dbb/a24223.html#abd168f0c1ac9a64cece280758f3120d4", null ]
+    [ "npc_wounded_blood_elfAI", "dd/dbb/a24223.html#a2dfcd5fa17b56c44f4056ecf4861af6e", null ],
+    [ "JustEngagedWith", "dd/dbb/a24223.html#aba950ba77ff71508263cc54b28c7725b", null ],
+    [ "JustSummoned", "dd/dbb/a24223.html#aa97f5294981c44b530efca1411458a97", null ],
+    [ "Reset", "dd/dbb/a24223.html#a8e6be35a3079998f3bab829f5d963c71", null ],
+    [ "sQuestAccept", "dd/dbb/a24223.html#a56c157928c24daae6edacd5a126ef171", null ],
+    [ "WaypointReached", "dd/dbb/a24223.html#a5affcb00e28a582f8926ab2226001cd0", null ],
+    [ "WaypointReached", "dd/dbb/a24223.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

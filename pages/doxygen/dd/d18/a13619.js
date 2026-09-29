@@ -1,6 +1,7 @@
 var a13619 =
 [
-    [ "instance_scholomance_InstanceMapScript", "d6/d55/a13623.html", "d6/d55/a13623" ],
-    [ "instance_scholomance", "dd/d18/a13619.html#ace7a781c45623419daad6143480d8fe2", null ],
-    [ "GetInstanceScript", "dd/d18/a13619.html#a9e2030e41154c92dbe45d7895ddf37b8", null ]
+    [ "HandleScript", "dd/d18/a13619.html#a03f8c24445ee4ac82a4cf2caece38f90", null ],
+    [ "PrepareSpellScript", "dd/d18/a13619.html#a034195e58f02225c172b70c3967fe3ad", null ],
+    [ "Register", "dd/d18/a13619.html#afaf3a6fd54f499982bd1cfd6e4c6c1a2", null ],
+    [ "Validate", "dd/d18/a13619.html#a8ac78c00c49b1eb2fade4100a810d367", null ]
 ];

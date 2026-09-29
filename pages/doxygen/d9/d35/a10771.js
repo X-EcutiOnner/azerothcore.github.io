@@ -1,12 +1,20 @@
 var a10771 =
 [
-    [ "AllMapScript", "d9/d35/a10771.html#a84f63a79158f667f291070d0cbb553ea", null ],
-    [ "CanSendObjectUpdatesToPlayer", "d9/d35/a10771.html#a9748ad2d03db713c1f5d856ebf1329ad", null ],
-    [ "OnBeforeCreateInstanceScript", "d9/d35/a10771.html#a1a4b75a1845923bcf68481ecc0d6b77c", null ],
-    [ "OnCreateMap", "d9/d35/a10771.html#a56aa53bfb0a1cb7ad7cb677771739b46", null ],
-    [ "OnDestroyInstance", "d9/d35/a10771.html#a990130b4cd594c1cd04368aea300a49e", null ],
-    [ "OnDestroyMap", "d9/d35/a10771.html#a6bebd1e6e36b5714598439a6c6dfaad6", null ],
-    [ "OnMapUpdate", "d9/d35/a10771.html#a6edbb719d998c57caba09eef7ad559e0", null ],
-    [ "OnPlayerEnterAll", "d9/d35/a10771.html#a42e4af596effb07a00b353164f32cec9", null ],
-    [ "OnPlayerLeaveAll", "d9/d35/a10771.html#adcfd501bee055317bff2a63ef28c3eab", null ]
+    [ "AllSpellScript", "d9/d35/a10771.html#a8c4266bf7a21c199eac02b5422c358e8", null ],
+    [ "CanPrepare", "d9/d35/a10771.html#aeb2d438fdd7ca823ce670a94941bafff", null ],
+    [ "CanScalingEverything", "d9/d35/a10771.html#a026842dcd2d8c0e0c3f99718b04e86b0", null ],
+    [ "CanSelectSpecTalent", "d9/d35/a10771.html#a3cf7b45d8e9f5b23e2753d1624c4af78", null ],
+    [ "IsDatabaseBound", "d9/d35/a10771.html#a0854a57b62e310575a3e5cd8d35e8532", null ],
+    [ "OnBeforeAuraRankForLevel", "d9/d35/a10771.html#ae5a4590e4fb49d4cfe73c5ce307773ca", null ],
+    [ "OnCalcMaxDuration", "d9/d35/a10771.html#a5d02de785a4e1cf5103110828fac5e75", null ],
+    [ "OnDummyEffect", "d9/d35/a10771.html#a54e0b823c538c41507c541db025d5295", null ],
+    [ "OnDummyEffect", "d9/d35/a10771.html#a36061e5bcec2ef4dea35d1b5c9e703b4", null ],
+    [ "OnDummyEffect", "d9/d35/a10771.html#afe06aa2578b89fbc5ed5784aed38912a", null ],
+    [ "OnIsAuraExclusiveBySpecificWith", "d9/d35/a10771.html#a861468896a9a29ababed2077be1c9242", null ],
+    [ "OnRemoveAuraScaleTargets", "d9/d35/a10771.html#aa055f00fe76ba2768f97e23ecf379a18", null ],
+    [ "OnScaleAuraUnitAdd", "d9/d35/a10771.html#abf3758ff33e5be1492ed4e45979a7a8d", null ],
+    [ "OnSpellCast", "d9/d35/a10771.html#aac6481ca905c3f44f85c55aaf694afca", null ],
+    [ "OnSpellCastCancel", "d9/d35/a10771.html#ad5dd3e0f697edb93df6ee764fe2a1d99", null ],
+    [ "OnSpellCheckCast", "d9/d35/a10771.html#aae718678bb7d9a7ed1e0cbbc59db3049", null ],
+    [ "OnSpellPrepare", "d9/d35/a10771.html#addb78dc29f771ec376922a4a2bff558b", null ]
 ];

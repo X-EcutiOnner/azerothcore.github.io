@@ -1,9 +1,10 @@
 var a25675 =
 [
-    [ "spell_gen_translocate", "dc/d81/a25675.html#a56a3df0eba3e1521aa2898194c39e919", null ],
-    [ "HandleScript", "dc/d81/a25675.html#a67684fb76da60fdc13dbece055dae157", null ],
-    [ "PrepareSpellScript", "dc/d81/a25675.html#a6f0986e54ad410c2f42a7935645485ed", null ],
-    [ "Register", "dc/d81/a25675.html#abbbcd1fdefbbd1778667ee69d449d63b", null ],
-    [ "Validate", "dc/d81/a25675.html#a0ae40ad6153a98dcd98cdfebeb515faf", null ],
-    [ "_spellId", "dc/d81/a25675.html#a01e4c84404734b7da1bf5f31cb097e58", null ]
+    [ "CalcPeriodic", "dc/d81/a25675.html#a4c5793639ad7715b0dc52a803546e7cf", null ],
+    [ "CalculateSpiritAmount", "dc/d81/a25675.html#a5749d91e27de05f67110178f57c214e4", null ],
+    [ "HandleEffectApply", "dc/d81/a25675.html#a0de0ba95c09c87054d63974943750805", null ],
+    [ "HandlePeriodic", "dc/d81/a25675.html#a2ff4241cf4535a6cb8361b9f54d7a23c", null ],
+    [ "PrepareAuraScript", "dc/d81/a25675.html#aaa2c2fea4310cdba1739f02afa48a318", null ],
+    [ "Register", "dc/d81/a25675.html#ae9df15062a8bd776e9a5a4a5a53fac8f", null ],
+    [ "amount", "dc/d81/a25675.html#af07c7c4a2f6a4d59bee8d44b46be5552", null ]
 ];

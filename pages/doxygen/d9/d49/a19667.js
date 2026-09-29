@@ -1,6 +1,6 @@
 var a19667 =
 [
-    [ "boss_maexxnaAI", "de/d3a/a19671.html", "de/d3a/a19671" ],
-    [ "boss_maexxna", "d9/d49/a19667.html#ae47a789ac8abe50932b9e000c83b02b2", null ],
-    [ "GetAI", "d9/d49/a19667.html#ab438df4cb61625da35552ca7c867dc64", null ]
+    [ "boss_loathebAI", "de/d3a/a19671.html", "de/d3a/a19671" ],
+    [ "boss_loatheb", "d9/d49/a19667.html#a93bf8055a9ed900c880ef8b81b87bafd", null ],
+    [ "GetAI", "d9/d49/a19667.html#aca9b3a2515777f81b354c01a9727276e", null ]
 ];

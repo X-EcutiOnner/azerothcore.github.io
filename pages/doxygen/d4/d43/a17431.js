@@ -1,11 +1,11 @@
 var a17431 =
 [
-    [ "npc_spectral_footman", "d4/d43/a17431.html#ab12174cbf246178b52c074024453015e", null ],
-    [ "AttackStart", "d4/d43/a17431.html#a0fe7529c47d56f67b15023bc432f0498", null ],
-    [ "DoAction", "d4/d43/a17431.html#a9a81be4f5c159e64ba0f8926ea095f81", null ],
-    [ "EnterEvadeMode", "d4/d43/a17431.html#afc51e0562045028af7161ea66e7be9f0", null ],
-    [ "JustDied", "d4/d43/a17431.html#ae4292ffa4b9e142b41e58d31338b97b5", null ],
-    [ "JustEngagedWith", "d4/d43/a17431.html#a9d8d723b403035660b78c332d5813d3f", null ],
-    [ "Reset", "d4/d43/a17431.html#a1c3612a7d9ac3076392c5c22e4e0a73e", null ],
-    [ "UpdateAI", "d4/d43/a17431.html#af76de9237937199dfa715a445b0060c3", null ]
+    [ "npc_phantom_mage", "d4/d43/a17431.html#a96702110e1bd587aaa88a076773cac72", null ],
+    [ "AttackStart", "d4/d43/a17431.html#a79170c6d6aa434d291e50cd2153ee25a", null ],
+    [ "DoAction", "d4/d43/a17431.html#a8adf87e600eeab3678f369ab48b73927", null ],
+    [ "EnterEvadeMode", "d4/d43/a17431.html#a270f664ad9545f672405d051d1a8932a", null ],
+    [ "JustDied", "d4/d43/a17431.html#a9728d3deb8c8ef6ab82b76f79de20732", null ],
+    [ "JustEngagedWith", "d4/d43/a17431.html#a4cd8e7ba55317eb6ed2e0a7fbbebc80a", null ],
+    [ "Reset", "d4/d43/a17431.html#a3900181fe1328a3450e2e71bf30abbd7", null ],
+    [ "UpdateAI", "d4/d43/a17431.html#a919416fd6b52060e271e79afaaf14085", null ]
 ];

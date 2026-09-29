@@ -1,6 +1,8 @@
 var a11099 =
 [
-    [ "SetSheathed", "d1/d88/a11099.html#a0c6ff5057d2ee0c424c8539c0bf99857", null ],
-    [ "Read", "d1/d88/a11099.html#ae2158689450e3a9207b6992ea5223106", null ],
-    [ "CurrentSheathState", "d1/d88/a11099.html#a8363787ac7959f19234def2707ef0b32", null ]
+    [ "SAttackStop", "d1/d88/a11099.html#ad3ca327e00c9df8d947cdda3eb2f5eb3", null ],
+    [ "Write", "d1/d88/a11099.html#ae2143b20488064400c306004ee678a89", null ],
+    [ "Attacker", "d1/d88/a11099.html#a18e66148dc50a7ea7f98a57a122285ee", null ],
+    [ "NowDead", "d1/d88/a11099.html#a25cd247bb50f752c3230ad4b5f777b2d", null ],
+    [ "Victim", "d1/d88/a11099.html#a9ca02aaaab5d223a64f8ba0cec320e8e", null ]
 ];

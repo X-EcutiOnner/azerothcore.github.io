@@ -1,7 +1,11 @@
 var a14299 =
 [
-    [ "npc_lady_sylvanas_windrunnerAI", "d1/dd3/a14303.html", "d1/dd3/a14303" ],
-    [ "npc_lady_sylvanas_windrunner", "d8/d56/a14299.html#ab3da21f58b68003f50cf0c3d5ce22028", null ],
-    [ "GetAI", "d8/d56/a14299.html#abc382c04be0a8ed46299d1c4b2d008dc", null ],
-    [ "OnQuestReward", "d8/d56/a14299.html#aa3aedfe4c546842e64f5358a19614659", null ]
+    [ "npc_valkyr_battle_maiden", "d8/d56/a14299.html#a718f5058fd6d6f1d27b88991b91ef42e", null ],
+    [ "Reset", "d8/d56/a14299.html#a98bdd53f82cb30908485de8834106ef8", null ],
+    [ "UpdateAI", "d8/d56/a14299.html#a981237a3192d65117864daed0ac83197", null ],
+    [ "FlyBackTimer", "d8/d56/a14299.html#ab6843fb900cebc4659a98837a6d678a7", null ],
+    [ "phase", "d8/d56/a14299.html#a83cf215a2f4c8fea4c87c4dc43398298", null ],
+    [ "x", "d8/d56/a14299.html#a26087a56f66a399c4b444a7e226d82f3", null ],
+    [ "y", "d8/d56/a14299.html#a55eb219c646ecd63b99745792c1c8a03", null ],
+    [ "z", "d8/d56/a14299.html#af9781f785ebde34cab533cff9cf2b8db", null ]
 ];

@@ -1,6 +1,5 @@
 var a25555 =
 [
-    [ "PrepareSpellScript", "d0/d5c/a25555.html#abb178100d4e5fa4032118f86aa34127d", null ],
-    [ "Register", "d0/d5c/a25555.html#a50e902cc281b909259097a8bed5651f2", null ],
-    [ "RemoveVehicleAuras", "d0/d5c/a25555.html#a4ec803f3164d6e38ddf10f4a0ca392e0", null ]
+    [ "PrepareSpellScript", "d0/d5c/a25555.html#ae49ad5a4ad43099c4510e1666ff6415b", null ],
+    [ "Register", "d0/d5c/a25555.html#ad31fa6c2099d984389c3fb12e53a5bd8", null ]
 ];

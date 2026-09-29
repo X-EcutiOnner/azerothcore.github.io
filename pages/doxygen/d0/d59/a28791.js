@@ -1,5 +1,7 @@
 var a28791 =
 [
-    [ "QuestApprenticeAnglerPlayerScript", "d0/d59/a28791.html#afaa929276f8b131005c9b94daa9a09f9", null ],
-    [ "OnPlayerCompleteQuest", "d0/d59/a28791.html#a029ef1ccdd42af2ff9223ab699c3942f", null ]
+    [ "npc_crashin_thrashin_robot", "d0/d59/a28791.html#ad21336d212498b1c9ef5d46979d147ab", null ],
+    [ "IsSummonedBy", "d0/d59/a28791.html#a0652cd455791461f613ab4ebf77d2c3c", null ],
+    [ "UpdateAI", "d0/d59/a28791.html#a1d21cd2075f3aeba2c7f1e735a33dfec", null ],
+    [ "_scheduler", "d0/d59/a28791.html#a55778501d154d0a9e77f76054e926f85", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Scripting/ScriptDefines/AllSpellScript.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/scripts/World/action_ip_logger.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,144 +106,149 @@ $(document).ready(function(){initNavTree('d5/d5b/a00695.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#typedef-members">Typedefs</a> &#124;
-<a href="#enum-members">Enumerations</a>  </div>
-  <div class="headertitle"><div class="title">AllSpellScript.h File Reference</div></div>
+<a href="#enum-members">Enumerations</a> &#124;
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle"><div class="title">action_ip_logger.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">ScriptObject.h</a>&quot;</code><br />
-<code>#include &lt;vector&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">AccountScript.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Channel.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Group.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Guild.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">PlayerScript.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/da8/a10775.html">AllSpellScript</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d7f/a28199.html">AccountActionIpLogger</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
-Typedefs</h2></td></tr>
-<tr class="memitem:a743e879dd1df387001a0db3b0bf31d0e"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d5b/a00695.html#a743e879dd1df387001a0db3b0bf31d0e">SpellSC</a> = <a class="el" href="../../da/da8/a10775.html">AllSpellScript</a></td></tr>
-<tr class="separator:a743e879dd1df387001a0db3b0bf31d0e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d8a/a28203.html">CharacterActionIpLogger</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/de3/a28207.html">CharacterDeleteActionIpLogger</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
 Enumerations</h2></td></tr>
-<tr class="memitem:afe0b21412f82a634ffd412b1aca51cbc"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbc">AllSpellHook</a> { <br />
-&#160;&#160;<a class="el" href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbca003b0894329b4fa8a3e4ae168f133a97">ALLSPELLHOOK_ON_CALC_MAX_DURATION</a>
+<tr class="memitem:a3b67d8dbf539fa5519b3e33da9d0137b"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d5b/a00695.html#a3b67d8dbf539fa5519b3e33da9d0137b">IPLoggingTypes</a> { <br />
+&#160;&#160;<a class="el" href="../../d5/d5b/a00695.html#a3b67d8dbf539fa5519b3e33da9d0137ba8f9e397f01ecf6030118a21051f37eb8">ACCOUNT_LOGIN</a> = 0
 , <br />
-&#160;&#160;<a class="el" href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbca27dc31d1611037bc1a735d2721d14f24">ALLSPELLHOOK_ON_SPELL_CHECK_CAST</a>
+&#160;&#160;<a class="el" href="../../d5/d5b/a00695.html#a3b67d8dbf539fa5519b3e33da9d0137baf5dfdd830d71ca55c98a2a6bbc49895f">ACCOUNT_FAIL_LOGIN</a> = 1
 , <br />
-&#160;&#160;<a class="el" href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbca9b56cdc7a082dbc19397db93d100a354">ALLSPELLHOOK_CAN_PREPARE</a>
+&#160;&#160;<a class="el" href="../../d5/d5b/a00695.html#a3b67d8dbf539fa5519b3e33da9d0137ba38e1a216027e5110edeced016ff5c059">ACCOUNT_CHANGE_PW</a> = 2
 , <br />
-&#160;&#160;<a class="el" href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbcab8e5a308ec8a0896e88c9214b27cc24a">ALLSPELLHOOK_CAN_SCALING_EVERYTHING</a>
+&#160;&#160;<a class="el" href="../../d5/d5b/a00695.html#a3b67d8dbf539fa5519b3e33da9d0137baa0990c000cd17b2abe8225b66cac6b53">ACCOUNT_CHANGE_PW_FAIL</a> = 3
 , <br />
-&#160;&#160;<a class="el" href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbcae96f89c2d5231319bcb6e7ee408ba770">ALLSPELLHOOK_CAN_SELECT_SPEC_TALENT</a>
+&#160;&#160;<a class="el" href="../../d5/d5b/a00695.html#a3b67d8dbf539fa5519b3e33da9d0137baf435090459154eb1ba7b8c994842b06c">ACCOUNT_CHANGE_EMAIL</a> = 4
 , <br />
-&#160;&#160;<a class="el" href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbca401d32a5b3e9077a4ba6d6616fde11b1">ALLSPELLHOOK_ON_SCALE_AURA_UNIT_ADD</a>
+&#160;&#160;<a class="el" href="../../d5/d5b/a00695.html#a3b67d8dbf539fa5519b3e33da9d0137ba4bd2be99e9a5252be0bbf26a71541e30">ACCOUNT_CHANGE_EMAIL_FAIL</a> = 5
 , <br />
-&#160;&#160;<a class="el" href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbca171eb504c992f47238f139ee97e3a44c">ALLSPELLHOOK_ON_REMOVE_AURA_SCALE_TARGETS</a>
+&#160;&#160;<a class="el" href="../../d5/d5b/a00695.html#a3b67d8dbf539fa5519b3e33da9d0137ba64dc5a829a5cecf5f19b805d05a32b85">CHARACTER_CREATE</a> = 7
 , <br />
-&#160;&#160;<a class="el" href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbca94df2e8d5aa06ea451e4271dfbc4c808">ALLSPELLHOOK_ON_BEFORE_AURA_RANK_FOR_LEVEL</a>
+&#160;&#160;<a class="el" href="../../d5/d5b/a00695.html#a3b67d8dbf539fa5519b3e33da9d0137ba69b7162ca378f801be6e30e2e4b86363">CHARACTER_LOGIN</a> = 8
 , <br />
-&#160;&#160;<a class="el" href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbcaa327077f9d0fac21f2a738ab97c1463f">ALLSPELLHOOK_ON_DUMMY_EFFECT_GAMEOBJECT</a>
+&#160;&#160;<a class="el" href="../../d5/d5b/a00695.html#a3b67d8dbf539fa5519b3e33da9d0137ba742b5af30e35f2927eaa20bdf504b607">CHARACTER_LOGOUT</a> = 9
 , <br />
-&#160;&#160;<a class="el" href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbca1ade505fcc41e631580a6e0e6256a034">ALLSPELLHOOK_ON_DUMMY_EFFECT_CREATURE</a>
+&#160;&#160;<a class="el" href="../../d5/d5b/a00695.html#a3b67d8dbf539fa5519b3e33da9d0137ba04c86cce0401c766b99edbef52a91162">CHARACTER_DELETE</a> = 10
 , <br />
-&#160;&#160;<a class="el" href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbca3b9b961851d5db88a1c04f914440a7a1">ALLSPELLHOOK_ON_DUMMY_EFFECT_ITEM</a>
+&#160;&#160;<a class="el" href="../../d5/d5b/a00695.html#a3b67d8dbf539fa5519b3e33da9d0137baf8aedeaf82227741e50fdf6be12a35e7">CHARACTER_FAILED_DELETE</a> = 11
 , <br />
-&#160;&#160;<a class="el" href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbca8609d846ffb50c947ba7ce276574eb1b">ALLSPELLHOOK_ON_CAST_CANCEL</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbcad5907139bae1d7c4e54bbefc0ba2736e">ALLSPELLHOOK_ON_CAST</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbca30ba5433856bdc6314c33882855a0058">ALLSPELLHOOK_ON_PREPARE</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbca116a156ccd5421f6083e7c6bf4be1abb">ALLSPELLHOOK_ON_IS_AURA_EXCLUSIVE_BY_SPECIFIC_WITH</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbca2bbf250e329e80a9f113eadfe4aab98f">ALLSPELLHOOK_END</a>
+&#160;&#160;<a class="el" href="../../d5/d5b/a00695.html#a3b67d8dbf539fa5519b3e33da9d0137bae16d79bf07a3994731f4ac1a6ece5ec8">UNKNOWN_ACTION</a> = 12
 <br />
  }</td></tr>
-<tr class="separator:afe0b21412f82a634ffd412b1aca51cbc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:a3b67d8dbf539fa5519b3e33da9d0137b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:a530be5efb251d5ca58e97804e48ad953"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d5b/a00695.html#a530be5efb251d5ca58e97804e48ad953">AddSC_action_ip_logger</a> ()</td></tr>
+<tr class="separator:a530be5efb251d5ca58e97804e48ad953"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Typedef Documentation</h2>
-<a id="a743e879dd1df387001a0db3b0bf31d0e" name="a743e879dd1df387001a0db3b0bf31d0e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a743e879dd1df387001a0db3b0bf31d0e">&#9670;&#160;</a></span>SpellSC</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">using <a class="el" href="../../d5/d5b/a00695.html#a743e879dd1df387001a0db3b0bf31d0e">SpellSC</a> =  <a class="el" href="../../da/da8/a10775.html">AllSpellScript</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
 <h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="afe0b21412f82a634ffd412b1aca51cbc" name="afe0b21412f82a634ffd412b1aca51cbc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afe0b21412f82a634ffd412b1aca51cbc">&#9670;&#160;</a></span>AllSpellHook</h2>
+<a id="a3b67d8dbf539fa5519b3e33da9d0137b" name="a3b67d8dbf539fa5519b3e33da9d0137b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3b67d8dbf539fa5519b3e33da9d0137b">&#9670;&#160;</a></span>IPLoggingTypes</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbc">AllSpellHook</a></td>
+          <td class="memname">enum <a class="el" href="../../d5/d5b/a00695.html#a3b67d8dbf539fa5519b3e33da9d0137b">IPLoggingTypes</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbca003b0894329b4fa8a3e4ae168f133a97" name="afe0b21412f82a634ffd412b1aca51cbca003b0894329b4fa8a3e4ae168f133a97"></a>ALLSPELLHOOK_ON_CALC_MAX_DURATION&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbca27dc31d1611037bc1a735d2721d14f24" name="afe0b21412f82a634ffd412b1aca51cbca27dc31d1611037bc1a735d2721d14f24"></a>ALLSPELLHOOK_ON_SPELL_CHECK_CAST&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbca9b56cdc7a082dbc19397db93d100a354" name="afe0b21412f82a634ffd412b1aca51cbca9b56cdc7a082dbc19397db93d100a354"></a>ALLSPELLHOOK_CAN_PREPARE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbcab8e5a308ec8a0896e88c9214b27cc24a" name="afe0b21412f82a634ffd412b1aca51cbcab8e5a308ec8a0896e88c9214b27cc24a"></a>ALLSPELLHOOK_CAN_SCALING_EVERYTHING&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbcae96f89c2d5231319bcb6e7ee408ba770" name="afe0b21412f82a634ffd412b1aca51cbcae96f89c2d5231319bcb6e7ee408ba770"></a>ALLSPELLHOOK_CAN_SELECT_SPEC_TALENT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbca401d32a5b3e9077a4ba6d6616fde11b1" name="afe0b21412f82a634ffd412b1aca51cbca401d32a5b3e9077a4ba6d6616fde11b1"></a>ALLSPELLHOOK_ON_SCALE_AURA_UNIT_ADD&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbca171eb504c992f47238f139ee97e3a44c" name="afe0b21412f82a634ffd412b1aca51cbca171eb504c992f47238f139ee97e3a44c"></a>ALLSPELLHOOK_ON_REMOVE_AURA_SCALE_TARGETS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbca94df2e8d5aa06ea451e4271dfbc4c808" name="afe0b21412f82a634ffd412b1aca51cbca94df2e8d5aa06ea451e4271dfbc4c808"></a>ALLSPELLHOOK_ON_BEFORE_AURA_RANK_FOR_LEVEL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbcaa327077f9d0fac21f2a738ab97c1463f" name="afe0b21412f82a634ffd412b1aca51cbcaa327077f9d0fac21f2a738ab97c1463f"></a>ALLSPELLHOOK_ON_DUMMY_EFFECT_GAMEOBJECT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbca1ade505fcc41e631580a6e0e6256a034" name="afe0b21412f82a634ffd412b1aca51cbca1ade505fcc41e631580a6e0e6256a034"></a>ALLSPELLHOOK_ON_DUMMY_EFFECT_CREATURE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbca3b9b961851d5db88a1c04f914440a7a1" name="afe0b21412f82a634ffd412b1aca51cbca3b9b961851d5db88a1c04f914440a7a1"></a>ALLSPELLHOOK_ON_DUMMY_EFFECT_ITEM&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbca8609d846ffb50c947ba7ce276574eb1b" name="afe0b21412f82a634ffd412b1aca51cbca8609d846ffb50c947ba7ce276574eb1b"></a>ALLSPELLHOOK_ON_CAST_CANCEL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbcad5907139bae1d7c4e54bbefc0ba2736e" name="afe0b21412f82a634ffd412b1aca51cbcad5907139bae1d7c4e54bbefc0ba2736e"></a>ALLSPELLHOOK_ON_CAST&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbca30ba5433856bdc6314c33882855a0058" name="afe0b21412f82a634ffd412b1aca51cbca30ba5433856bdc6314c33882855a0058"></a>ALLSPELLHOOK_ON_PREPARE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbca116a156ccd5421f6083e7c6bf4be1abb" name="afe0b21412f82a634ffd412b1aca51cbca116a156ccd5421f6083e7c6bf4be1abb"></a>ALLSPELLHOOK_ON_IS_AURA_EXCLUSIVE_BY_SPECIFIC_WITH&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afe0b21412f82a634ffd412b1aca51cbca2bbf250e329e80a9f113eadfe4aab98f" name="afe0b21412f82a634ffd412b1aca51cbca2bbf250e329e80a9f113eadfe4aab98f"></a>ALLSPELLHOOK_END&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a3b67d8dbf539fa5519b3e33da9d0137ba8f9e397f01ecf6030118a21051f37eb8" name="a3b67d8dbf539fa5519b3e33da9d0137ba8f9e397f01ecf6030118a21051f37eb8"></a>ACCOUNT_LOGIN&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a3b67d8dbf539fa5519b3e33da9d0137baf5dfdd830d71ca55c98a2a6bbc49895f" name="a3b67d8dbf539fa5519b3e33da9d0137baf5dfdd830d71ca55c98a2a6bbc49895f"></a>ACCOUNT_FAIL_LOGIN&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a3b67d8dbf539fa5519b3e33da9d0137ba38e1a216027e5110edeced016ff5c059" name="a3b67d8dbf539fa5519b3e33da9d0137ba38e1a216027e5110edeced016ff5c059"></a>ACCOUNT_CHANGE_PW&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a3b67d8dbf539fa5519b3e33da9d0137baa0990c000cd17b2abe8225b66cac6b53" name="a3b67d8dbf539fa5519b3e33da9d0137baa0990c000cd17b2abe8225b66cac6b53"></a>ACCOUNT_CHANGE_PW_FAIL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a3b67d8dbf539fa5519b3e33da9d0137baf435090459154eb1ba7b8c994842b06c" name="a3b67d8dbf539fa5519b3e33da9d0137baf435090459154eb1ba7b8c994842b06c"></a>ACCOUNT_CHANGE_EMAIL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a3b67d8dbf539fa5519b3e33da9d0137ba4bd2be99e9a5252be0bbf26a71541e30" name="a3b67d8dbf539fa5519b3e33da9d0137ba4bd2be99e9a5252be0bbf26a71541e30"></a>ACCOUNT_CHANGE_EMAIL_FAIL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a3b67d8dbf539fa5519b3e33da9d0137ba64dc5a829a5cecf5f19b805d05a32b85" name="a3b67d8dbf539fa5519b3e33da9d0137ba64dc5a829a5cecf5f19b805d05a32b85"></a>CHARACTER_CREATE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a3b67d8dbf539fa5519b3e33da9d0137ba69b7162ca378f801be6e30e2e4b86363" name="a3b67d8dbf539fa5519b3e33da9d0137ba69b7162ca378f801be6e30e2e4b86363"></a>CHARACTER_LOGIN&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a3b67d8dbf539fa5519b3e33da9d0137ba742b5af30e35f2927eaa20bdf504b607" name="a3b67d8dbf539fa5519b3e33da9d0137ba742b5af30e35f2927eaa20bdf504b607"></a>CHARACTER_LOGOUT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a3b67d8dbf539fa5519b3e33da9d0137ba04c86cce0401c766b99edbef52a91162" name="a3b67d8dbf539fa5519b3e33da9d0137ba04c86cce0401c766b99edbef52a91162"></a>CHARACTER_DELETE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a3b67d8dbf539fa5519b3e33da9d0137baf8aedeaf82227741e50fdf6be12a35e7" name="a3b67d8dbf539fa5519b3e33da9d0137baf8aedeaf82227741e50fdf6be12a35e7"></a>CHARACTER_FAILED_DELETE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a3b67d8dbf539fa5519b3e33da9d0137bae16d79bf07a3994731f4ac1a6ece5ec8" name="a3b67d8dbf539fa5519b3e33da9d0137bae16d79bf07a3994731f4ac1a6ece5ec8"></a>UNKNOWN_ACTION&#160;</td><td class="fielddoc"></td></tr>
 </table>
 <div class="fragment"><div class="line"><span class="lineno">   25</span>{</div>
-<div class="line"><span class="lineno">   26</span>    <a class="code hl_enumvalue" href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbca003b0894329b4fa8a3e4ae168f133a97">ALLSPELLHOOK_ON_CALC_MAX_DURATION</a>,</div>
-<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbca27dc31d1611037bc1a735d2721d14f24">ALLSPELLHOOK_ON_SPELL_CHECK_CAST</a>,</div>
-<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbca9b56cdc7a082dbc19397db93d100a354">ALLSPELLHOOK_CAN_PREPARE</a>,</div>
-<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbcab8e5a308ec8a0896e88c9214b27cc24a">ALLSPELLHOOK_CAN_SCALING_EVERYTHING</a>,</div>
-<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbcae96f89c2d5231319bcb6e7ee408ba770">ALLSPELLHOOK_CAN_SELECT_SPEC_TALENT</a>,</div>
-<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbca401d32a5b3e9077a4ba6d6616fde11b1">ALLSPELLHOOK_ON_SCALE_AURA_UNIT_ADD</a>,</div>
-<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbca171eb504c992f47238f139ee97e3a44c">ALLSPELLHOOK_ON_REMOVE_AURA_SCALE_TARGETS</a>,</div>
-<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbca94df2e8d5aa06ea451e4271dfbc4c808">ALLSPELLHOOK_ON_BEFORE_AURA_RANK_FOR_LEVEL</a>,</div>
-<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbcaa327077f9d0fac21f2a738ab97c1463f">ALLSPELLHOOK_ON_DUMMY_EFFECT_GAMEOBJECT</a>,</div>
-<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbca1ade505fcc41e631580a6e0e6256a034">ALLSPELLHOOK_ON_DUMMY_EFFECT_CREATURE</a>,</div>
-<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbca3b9b961851d5db88a1c04f914440a7a1">ALLSPELLHOOK_ON_DUMMY_EFFECT_ITEM</a>,</div>
-<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbca8609d846ffb50c947ba7ce276574eb1b">ALLSPELLHOOK_ON_CAST_CANCEL</a>,</div>
-<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbcad5907139bae1d7c4e54bbefc0ba2736e">ALLSPELLHOOK_ON_CAST</a>,</div>
-<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbca30ba5433856bdc6314c33882855a0058">ALLSPELLHOOK_ON_PREPARE</a>,</div>
-<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbca116a156ccd5421f6083e7c6bf4be1abb">ALLSPELLHOOK_ON_IS_AURA_EXCLUSIVE_BY_SPECIFIC_WITH</a>,</div>
-<div class="line"><span class="lineno">   41</span>    <a class="code hl_enumvalue" href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbca2bbf250e329e80a9f113eadfe4aab98f">ALLSPELLHOOK_END</a></div>
-<div class="line"><span class="lineno">   42</span>};</div>
-<div class="ttc" id="aa00695_html_afe0b21412f82a634ffd412b1aca51cbca003b0894329b4fa8a3e4ae168f133a97"><div class="ttname"><a href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbca003b0894329b4fa8a3e4ae168f133a97">ALLSPELLHOOK_ON_CALC_MAX_DURATION</a></div><div class="ttdeci">@ ALLSPELLHOOK_ON_CALC_MAX_DURATION</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:26</div></div>
-<div class="ttc" id="aa00695_html_afe0b21412f82a634ffd412b1aca51cbca116a156ccd5421f6083e7c6bf4be1abb"><div class="ttname"><a href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbca116a156ccd5421f6083e7c6bf4be1abb">ALLSPELLHOOK_ON_IS_AURA_EXCLUSIVE_BY_SPECIFIC_WITH</a></div><div class="ttdeci">@ ALLSPELLHOOK_ON_IS_AURA_EXCLUSIVE_BY_SPECIFIC_WITH</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:40</div></div>
-<div class="ttc" id="aa00695_html_afe0b21412f82a634ffd412b1aca51cbca171eb504c992f47238f139ee97e3a44c"><div class="ttname"><a href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbca171eb504c992f47238f139ee97e3a44c">ALLSPELLHOOK_ON_REMOVE_AURA_SCALE_TARGETS</a></div><div class="ttdeci">@ ALLSPELLHOOK_ON_REMOVE_AURA_SCALE_TARGETS</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:32</div></div>
-<div class="ttc" id="aa00695_html_afe0b21412f82a634ffd412b1aca51cbca1ade505fcc41e631580a6e0e6256a034"><div class="ttname"><a href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbca1ade505fcc41e631580a6e0e6256a034">ALLSPELLHOOK_ON_DUMMY_EFFECT_CREATURE</a></div><div class="ttdeci">@ ALLSPELLHOOK_ON_DUMMY_EFFECT_CREATURE</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:35</div></div>
-<div class="ttc" id="aa00695_html_afe0b21412f82a634ffd412b1aca51cbca27dc31d1611037bc1a735d2721d14f24"><div class="ttname"><a href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbca27dc31d1611037bc1a735d2721d14f24">ALLSPELLHOOK_ON_SPELL_CHECK_CAST</a></div><div class="ttdeci">@ ALLSPELLHOOK_ON_SPELL_CHECK_CAST</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:27</div></div>
-<div class="ttc" id="aa00695_html_afe0b21412f82a634ffd412b1aca51cbca2bbf250e329e80a9f113eadfe4aab98f"><div class="ttname"><a href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbca2bbf250e329e80a9f113eadfe4aab98f">ALLSPELLHOOK_END</a></div><div class="ttdeci">@ ALLSPELLHOOK_END</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:41</div></div>
-<div class="ttc" id="aa00695_html_afe0b21412f82a634ffd412b1aca51cbca30ba5433856bdc6314c33882855a0058"><div class="ttname"><a href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbca30ba5433856bdc6314c33882855a0058">ALLSPELLHOOK_ON_PREPARE</a></div><div class="ttdeci">@ ALLSPELLHOOK_ON_PREPARE</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:39</div></div>
-<div class="ttc" id="aa00695_html_afe0b21412f82a634ffd412b1aca51cbca3b9b961851d5db88a1c04f914440a7a1"><div class="ttname"><a href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbca3b9b961851d5db88a1c04f914440a7a1">ALLSPELLHOOK_ON_DUMMY_EFFECT_ITEM</a></div><div class="ttdeci">@ ALLSPELLHOOK_ON_DUMMY_EFFECT_ITEM</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:36</div></div>
-<div class="ttc" id="aa00695_html_afe0b21412f82a634ffd412b1aca51cbca401d32a5b3e9077a4ba6d6616fde11b1"><div class="ttname"><a href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbca401d32a5b3e9077a4ba6d6616fde11b1">ALLSPELLHOOK_ON_SCALE_AURA_UNIT_ADD</a></div><div class="ttdeci">@ ALLSPELLHOOK_ON_SCALE_AURA_UNIT_ADD</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:31</div></div>
-<div class="ttc" id="aa00695_html_afe0b21412f82a634ffd412b1aca51cbca8609d846ffb50c947ba7ce276574eb1b"><div class="ttname"><a href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbca8609d846ffb50c947ba7ce276574eb1b">ALLSPELLHOOK_ON_CAST_CANCEL</a></div><div class="ttdeci">@ ALLSPELLHOOK_ON_CAST_CANCEL</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:37</div></div>
-<div class="ttc" id="aa00695_html_afe0b21412f82a634ffd412b1aca51cbca94df2e8d5aa06ea451e4271dfbc4c808"><div class="ttname"><a href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbca94df2e8d5aa06ea451e4271dfbc4c808">ALLSPELLHOOK_ON_BEFORE_AURA_RANK_FOR_LEVEL</a></div><div class="ttdeci">@ ALLSPELLHOOK_ON_BEFORE_AURA_RANK_FOR_LEVEL</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:33</div></div>
-<div class="ttc" id="aa00695_html_afe0b21412f82a634ffd412b1aca51cbca9b56cdc7a082dbc19397db93d100a354"><div class="ttname"><a href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbca9b56cdc7a082dbc19397db93d100a354">ALLSPELLHOOK_CAN_PREPARE</a></div><div class="ttdeci">@ ALLSPELLHOOK_CAN_PREPARE</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:28</div></div>
-<div class="ttc" id="aa00695_html_afe0b21412f82a634ffd412b1aca51cbcaa327077f9d0fac21f2a738ab97c1463f"><div class="ttname"><a href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbcaa327077f9d0fac21f2a738ab97c1463f">ALLSPELLHOOK_ON_DUMMY_EFFECT_GAMEOBJECT</a></div><div class="ttdeci">@ ALLSPELLHOOK_ON_DUMMY_EFFECT_GAMEOBJECT</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:34</div></div>
-<div class="ttc" id="aa00695_html_afe0b21412f82a634ffd412b1aca51cbcab8e5a308ec8a0896e88c9214b27cc24a"><div class="ttname"><a href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbcab8e5a308ec8a0896e88c9214b27cc24a">ALLSPELLHOOK_CAN_SCALING_EVERYTHING</a></div><div class="ttdeci">@ ALLSPELLHOOK_CAN_SCALING_EVERYTHING</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:29</div></div>
-<div class="ttc" id="aa00695_html_afe0b21412f82a634ffd412b1aca51cbcad5907139bae1d7c4e54bbefc0ba2736e"><div class="ttname"><a href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbcad5907139bae1d7c4e54bbefc0ba2736e">ALLSPELLHOOK_ON_CAST</a></div><div class="ttdeci">@ ALLSPELLHOOK_ON_CAST</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:38</div></div>
-<div class="ttc" id="aa00695_html_afe0b21412f82a634ffd412b1aca51cbcae96f89c2d5231319bcb6e7ee408ba770"><div class="ttname"><a href="../../d5/d5b/a00695.html#afe0b21412f82a634ffd412b1aca51cbcae96f89c2d5231319bcb6e7ee408ba770">ALLSPELLHOOK_CAN_SELECT_SPEC_TALENT</a></div><div class="ttdeci">@ ALLSPELLHOOK_CAN_SELECT_SPEC_TALENT</div><div class="ttdef"><b>Definition:</b> AllSpellScript.h:30</div></div>
+<div class="line"><span class="lineno">   26</span>    <span class="comment">// AccountActionIpLogger();</span></div>
+<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../d5/d5b/a00695.html#a3b67d8dbf539fa5519b3e33da9d0137ba8f9e397f01ecf6030118a21051f37eb8">ACCOUNT_LOGIN</a> = 0,</div>
+<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../d5/d5b/a00695.html#a3b67d8dbf539fa5519b3e33da9d0137baf5dfdd830d71ca55c98a2a6bbc49895f">ACCOUNT_FAIL_LOGIN</a> = 1,</div>
+<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../d5/d5b/a00695.html#a3b67d8dbf539fa5519b3e33da9d0137ba38e1a216027e5110edeced016ff5c059">ACCOUNT_CHANGE_PW</a> = 2,</div>
+<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../d5/d5b/a00695.html#a3b67d8dbf539fa5519b3e33da9d0137baa0990c000cd17b2abe8225b66cac6b53">ACCOUNT_CHANGE_PW_FAIL</a> = 3, <span class="comment">// Only two types of account changes exist...</span></div>
+<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d5/d5b/a00695.html#a3b67d8dbf539fa5519b3e33da9d0137baf435090459154eb1ba7b8c994842b06c">ACCOUNT_CHANGE_EMAIL</a> = 4,</div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d5/d5b/a00695.html#a3b67d8dbf539fa5519b3e33da9d0137ba4bd2be99e9a5252be0bbf26a71541e30">ACCOUNT_CHANGE_EMAIL_FAIL</a> = 5, <span class="comment">// ...so we log them individually</span></div>
+<div class="line"><span class="lineno">   33</span>    <span class="comment">// OBSOLETE - ACCOUNT_LOGOUT = 6, /* Can not be logged. We still keep the type however */</span></div>
+<div class="line"><span class="lineno">   34</span>    <span class="comment">// CharacterActionIpLogger();</span></div>
+<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../d5/d5b/a00695.html#a3b67d8dbf539fa5519b3e33da9d0137ba64dc5a829a5cecf5f19b805d05a32b85">CHARACTER_CREATE</a> = 7,</div>
+<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../d5/d5b/a00695.html#a3b67d8dbf539fa5519b3e33da9d0137ba69b7162ca378f801be6e30e2e4b86363">CHARACTER_LOGIN</a> = 8,</div>
+<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../d5/d5b/a00695.html#a3b67d8dbf539fa5519b3e33da9d0137ba742b5af30e35f2927eaa20bdf504b607">CHARACTER_LOGOUT</a> = 9,</div>
+<div class="line"><span class="lineno">   38</span>    <span class="comment">// CharacterDeleteActionIpLogger();</span></div>
+<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../d5/d5b/a00695.html#a3b67d8dbf539fa5519b3e33da9d0137ba04c86cce0401c766b99edbef52a91162">CHARACTER_DELETE</a> = 10,</div>
+<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../d5/d5b/a00695.html#a3b67d8dbf539fa5519b3e33da9d0137baf8aedeaf82227741e50fdf6be12a35e7">CHARACTER_FAILED_DELETE</a> = 11,</div>
+<div class="line"><span class="lineno">   41</span>    <span class="comment">// AccountActionIpLogger(), CharacterActionIpLogger(), CharacterActionIpLogger();</span></div>
+<div class="line"><span class="lineno">   42</span>    <a class="code hl_enumvalue" href="../../d5/d5b/a00695.html#a3b67d8dbf539fa5519b3e33da9d0137bae16d79bf07a3994731f4ac1a6ece5ec8">UNKNOWN_ACTION</a> = 12</div>
+<div class="line"><span class="lineno">   43</span>};</div>
+<div class="ttc" id="aa00695_html_a3b67d8dbf539fa5519b3e33da9d0137ba04c86cce0401c766b99edbef52a91162"><div class="ttname"><a href="../../d5/d5b/a00695.html#a3b67d8dbf539fa5519b3e33da9d0137ba04c86cce0401c766b99edbef52a91162">CHARACTER_DELETE</a></div><div class="ttdeci">@ CHARACTER_DELETE</div><div class="ttdef"><b>Definition:</b> action_ip_logger.cpp:39</div></div>
+<div class="ttc" id="aa00695_html_a3b67d8dbf539fa5519b3e33da9d0137ba38e1a216027e5110edeced016ff5c059"><div class="ttname"><a href="../../d5/d5b/a00695.html#a3b67d8dbf539fa5519b3e33da9d0137ba38e1a216027e5110edeced016ff5c059">ACCOUNT_CHANGE_PW</a></div><div class="ttdeci">@ ACCOUNT_CHANGE_PW</div><div class="ttdef"><b>Definition:</b> action_ip_logger.cpp:29</div></div>
+<div class="ttc" id="aa00695_html_a3b67d8dbf539fa5519b3e33da9d0137ba4bd2be99e9a5252be0bbf26a71541e30"><div class="ttname"><a href="../../d5/d5b/a00695.html#a3b67d8dbf539fa5519b3e33da9d0137ba4bd2be99e9a5252be0bbf26a71541e30">ACCOUNT_CHANGE_EMAIL_FAIL</a></div><div class="ttdeci">@ ACCOUNT_CHANGE_EMAIL_FAIL</div><div class="ttdef"><b>Definition:</b> action_ip_logger.cpp:32</div></div>
+<div class="ttc" id="aa00695_html_a3b67d8dbf539fa5519b3e33da9d0137ba64dc5a829a5cecf5f19b805d05a32b85"><div class="ttname"><a href="../../d5/d5b/a00695.html#a3b67d8dbf539fa5519b3e33da9d0137ba64dc5a829a5cecf5f19b805d05a32b85">CHARACTER_CREATE</a></div><div class="ttdeci">@ CHARACTER_CREATE</div><div class="ttdef"><b>Definition:</b> action_ip_logger.cpp:35</div></div>
+<div class="ttc" id="aa00695_html_a3b67d8dbf539fa5519b3e33da9d0137ba69b7162ca378f801be6e30e2e4b86363"><div class="ttname"><a href="../../d5/d5b/a00695.html#a3b67d8dbf539fa5519b3e33da9d0137ba69b7162ca378f801be6e30e2e4b86363">CHARACTER_LOGIN</a></div><div class="ttdeci">@ CHARACTER_LOGIN</div><div class="ttdef"><b>Definition:</b> action_ip_logger.cpp:36</div></div>
+<div class="ttc" id="aa00695_html_a3b67d8dbf539fa5519b3e33da9d0137ba742b5af30e35f2927eaa20bdf504b607"><div class="ttname"><a href="../../d5/d5b/a00695.html#a3b67d8dbf539fa5519b3e33da9d0137ba742b5af30e35f2927eaa20bdf504b607">CHARACTER_LOGOUT</a></div><div class="ttdeci">@ CHARACTER_LOGOUT</div><div class="ttdef"><b>Definition:</b> action_ip_logger.cpp:37</div></div>
+<div class="ttc" id="aa00695_html_a3b67d8dbf539fa5519b3e33da9d0137ba8f9e397f01ecf6030118a21051f37eb8"><div class="ttname"><a href="../../d5/d5b/a00695.html#a3b67d8dbf539fa5519b3e33da9d0137ba8f9e397f01ecf6030118a21051f37eb8">ACCOUNT_LOGIN</a></div><div class="ttdeci">@ ACCOUNT_LOGIN</div><div class="ttdef"><b>Definition:</b> action_ip_logger.cpp:27</div></div>
+<div class="ttc" id="aa00695_html_a3b67d8dbf539fa5519b3e33da9d0137baa0990c000cd17b2abe8225b66cac6b53"><div class="ttname"><a href="../../d5/d5b/a00695.html#a3b67d8dbf539fa5519b3e33da9d0137baa0990c000cd17b2abe8225b66cac6b53">ACCOUNT_CHANGE_PW_FAIL</a></div><div class="ttdeci">@ ACCOUNT_CHANGE_PW_FAIL</div><div class="ttdef"><b>Definition:</b> action_ip_logger.cpp:30</div></div>
+<div class="ttc" id="aa00695_html_a3b67d8dbf539fa5519b3e33da9d0137bae16d79bf07a3994731f4ac1a6ece5ec8"><div class="ttname"><a href="../../d5/d5b/a00695.html#a3b67d8dbf539fa5519b3e33da9d0137bae16d79bf07a3994731f4ac1a6ece5ec8">UNKNOWN_ACTION</a></div><div class="ttdeci">@ UNKNOWN_ACTION</div><div class="ttdef"><b>Definition:</b> action_ip_logger.cpp:42</div></div>
+<div class="ttc" id="aa00695_html_a3b67d8dbf539fa5519b3e33da9d0137baf435090459154eb1ba7b8c994842b06c"><div class="ttname"><a href="../../d5/d5b/a00695.html#a3b67d8dbf539fa5519b3e33da9d0137baf435090459154eb1ba7b8c994842b06c">ACCOUNT_CHANGE_EMAIL</a></div><div class="ttdeci">@ ACCOUNT_CHANGE_EMAIL</div><div class="ttdef"><b>Definition:</b> action_ip_logger.cpp:31</div></div>
+<div class="ttc" id="aa00695_html_a3b67d8dbf539fa5519b3e33da9d0137baf5dfdd830d71ca55c98a2a6bbc49895f"><div class="ttname"><a href="../../d5/d5b/a00695.html#a3b67d8dbf539fa5519b3e33da9d0137baf5dfdd830d71ca55c98a2a6bbc49895f">ACCOUNT_FAIL_LOGIN</a></div><div class="ttdeci">@ ACCOUNT_FAIL_LOGIN</div><div class="ttdef"><b>Definition:</b> action_ip_logger.cpp:28</div></div>
+<div class="ttc" id="aa00695_html_a3b67d8dbf539fa5519b3e33da9d0137baf8aedeaf82227741e50fdf6be12a35e7"><div class="ttname"><a href="../../d5/d5b/a00695.html#a3b67d8dbf539fa5519b3e33da9d0137baf8aedeaf82227741e50fdf6be12a35e7">CHARACTER_FAILED_DELETE</a></div><div class="ttdeci">@ CHARACTER_FAILED_DELETE</div><div class="ttdef"><b>Definition:</b> action_ip_logger.cpp:40</div></div>
 </div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="a530be5efb251d5ca58e97804e48ad953" name="a530be5efb251d5ca58e97804e48ad953"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a530be5efb251d5ca58e97804e48ad953">&#9670;&#160;</a></span>AddSC_action_ip_logger()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_action_ip_logger </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  333</span>{</div>
+<div class="line"><span class="lineno">  334</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d9/d7f/a28199.html">AccountActionIpLogger</a>();</div>
+<div class="line"><span class="lineno">  335</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../df/d8a/a28203.html">CharacterActionIpLogger</a>();</div>
+<div class="line"><span class="lineno">  336</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d2/de3/a28207.html">CharacterDeleteActionIpLogger</a>();</div>
+<div class="line"><span class="lineno">  337</span>}</div>
+<div class="ttc" id="aa28199_html"><div class="ttname"><a href="../../d9/d7f/a28199.html">AccountActionIpLogger</a></div><div class="ttdef"><b>Definition:</b> action_ip_logger.cpp:46</div></div>
+<div class="ttc" id="aa28203_html"><div class="ttname"><a href="../../df/d8a/a28203.html">CharacterActionIpLogger</a></div><div class="ttdef"><b>Definition:</b> action_ip_logger.cpp:169</div></div>
+<div class="ttc" id="aa28207_html"><div class="ttname"><a href="../../d2/de3/a28207.html">CharacterDeleteActionIpLogger</a></div><div class="ttdef"><b>Definition:</b> action_ip_logger.cpp:264</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00041">AddWorldScripts()</a>.</p>
+
 </div>
 </div>
 </div><!-- contents -->
@@ -251,8 +256,8 @@ Enumerations</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_824c567499771b11a8d1959386aa27e6.html">Scripting</a></li><li class="navelem"><a class="el" href="../../dir_a0aac0519f50cbe40c54d5948ed285d0.html">ScriptDefines</a></li><li class="navelem"><a class="el" href="../../d5/d5b/a00695.html">AllSpellScript.h</a></li>
-    <li class="footer">Generated on Mon Sep 21 2026 23:32:30 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_0a0414616ece51a8570c4e36029d4e29.html">World</a></li><li class="navelem"><a class="el" href="../../d5/d5b/a00695.html">action_ip_logger.cpp</a></li>
+    <li class="footer">Generated on Tue Sep 29 2026 01:12:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

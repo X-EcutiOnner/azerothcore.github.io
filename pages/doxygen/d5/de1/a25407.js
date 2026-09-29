@@ -1,6 +1,8 @@
 var a25407 =
 [
-    [ "CheckRequirement", "d5/de1/a25407.html#a8a1367ad6c51a74e7cefbc2440eab697", null ],
-    [ "PrepareSpellScript", "d5/de1/a25407.html#a859ac50e6774471c232113e5c007f602", null ],
-    [ "Register", "d5/de1/a25407.html#aceafb7d6cfa300011935026f4d7ac491", null ]
+    [ "AchievementCredit", "d5/de1/a25407.html#ab0ec836feb53875de355330e05367fe8", null ],
+    [ "Load", "d5/de1/a25407.html#ae48c67f363e399f076122cb6eee10ffb", null ],
+    [ "PrepareSpellScript", "d5/de1/a25407.html#af0bb22c618af5dca7f534bea32e7ee7f", null ],
+    [ "Register", "d5/de1/a25407.html#a793921687c96a39f7dd872b9721096ca", null ],
+    [ "Validate", "d5/de1/a25407.html#a5be222c322714ec62f8beaf69faab257", null ]
 ];

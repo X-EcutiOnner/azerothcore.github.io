@@ -1,7 +1,8 @@
 var a17475 =
 [
-    [ "HandleEffectPeriodic", "dc/d05/a17475.html#aaefcf8ace7c109648c9220fb0ff9d4de", null ],
-    [ "PrepareAuraScript", "dc/d05/a17475.html#ae0ccb7d4566777e52b71e99a908d13fa", null ],
-    [ "Register", "dc/d05/a17475.html#a73e8ef9dbd3dd3dc332d4b3a2eb2c5ea", null ],
-    [ "Validate", "dc/d05/a17475.html#ab3fcbe5386e9529824228e8f3b6be797", null ]
+    [ "npc_hor_raging_ghoul", "dc/d05/a17475.html#a733d4ad92566a13ace3427aae6696bac", null ],
+    [ "JustDied", "dc/d05/a17475.html#a14c0937fdd3c25df74f0a09efc1c5122", null ],
+    [ "Reset", "dc/d05/a17475.html#aad6424be7dd53b59016963cefffe40e5", null ],
+    [ "UpdateAI", "dc/d05/a17475.html#af4024393b318ca702c6652e042036b26", null ],
+    [ "leaped", "dc/d05/a17475.html#a69dea538a87ae47de221768b6de42315", null ]
 ];

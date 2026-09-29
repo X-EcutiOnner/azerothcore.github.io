@@ -1,11 +1,11 @@
 var a12659 =
 [
-    [ "quest_commandscript", "da/de0/a12659.html#a98804583ded14bc50d252475289dda4f", null ],
-    [ "GetCommands", "da/de0/a12659.html#afaf8c4b169a2bc7457b8ab97d13a367c", null ],
-    [ "HandleQuestAdd", "da/de0/a12659.html#acd1410f224a1d69bba1321999ebf25bc", null ],
-    [ "HandleQuestComplete", "da/de0/a12659.html#a044c30fdaedd07060284bd37fd2e226c", null ],
-    [ "HandleQuestRemove", "da/de0/a12659.html#ac0a87854f99c510c8309e9e337d1e71f", null ],
-    [ "HandleQuestReward", "da/de0/a12659.html#ab8d38057b3630b75cf21c8e88c1ebaf0", null ],
-    [ "HandleQuestStatus", "da/de0/a12659.html#adbba92d0cf47879e94710c971fd994ff", null ],
-    [ "QuestStatusToString", "da/de0/a12659.html#a179c2aec0a6bf010a83841ef089134ad", null ]
+    [ "pooltools_commandscript", "da/de0/a12659.html#a3428978e91000cbe46dd2b84a30eee2d", null ],
+    [ "GetCommands", "da/de0/a12659.html#aebd69a3ae0a0e0833f3eaeeb637d97e6", null ],
+    [ "HandlePoolAdd", "da/de0/a12659.html#afb113b7673dbddf804f9384fbc400d67", null ],
+    [ "HandlePoolClear", "da/de0/a12659.html#a4bde765f2949ae2db1601e8f5a103ed2", null ],
+    [ "HandlePoolDef", "da/de0/a12659.html#a12edd3f4697bba8e03594ceed8c6c289", null ],
+    [ "HandlePoolEnd", "da/de0/a12659.html#a039862a0ca89201187f4e06ce792cae8", null ],
+    [ "HandlePoolRemove", "da/de0/a12659.html#a158f83f814cba8328dcb81f02525dcdb", null ],
+    [ "HandlePoolStart", "da/de0/a12659.html#a13629c50653c80b949bdf80485e51d59", null ]
 ];

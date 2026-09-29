@@ -1,4 +1,5 @@
 var a04661 =
 [
-    [ "AuthCrypt", "d7/dbb/a05535.html", "d7/dbb/a05535" ]
+    [ "SessionKey", "d6/d12/a04661.html#a7cbcb71452529a2addaab3b112dba4d7", null ],
+    [ "SESSION_KEY_LENGTH", "d6/d12/a04661.html#accf22e06a217bb405f0ee6f240d2e263", null ]
 ];

@@ -1,4 +1,4 @@
 var a04706 =
 [
-    [ "ConfigValueCache< ConfigEnum >", "da/d38/a05509.html", "da/d38/a05509" ]
+    [ "ObjectRegistry< T, Key >", "dc/d03/a05631.html", "dc/d03/a05631" ]
 ];

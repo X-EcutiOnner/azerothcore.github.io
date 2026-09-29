@@ -1,7 +1,6 @@
 var a21151 =
 [
-    [ "OnApply", "dd/d65/a21151.html#a7dd5b6217db77373dfba5958a2376ff1", null ],
-    [ "OnRemove", "dd/d65/a21151.html#a39510971a0e1dbd800efc37c2e09c74f", null ],
-    [ "PrepareAuraScript", "dd/d65/a21151.html#a35c1e8f81229565e5d333ec42aa2e92c", null ],
-    [ "Register", "dd/d65/a21151.html#a27fdfe00e5201b6472a282f4589a66cc", null ]
+    [ "HandleProc", "dd/d65/a21151.html#a207dcb7134a23ca5a6e86acbdc283a27", null ],
+    [ "PrepareAuraScript", "dd/d65/a21151.html#a110cd9e8c18665e1e7b1ec4bc690ce75", null ],
+    [ "Register", "dd/d65/a21151.html#a867fa7224ccd0fe3b449d36b4607ba1e", null ]
 ];

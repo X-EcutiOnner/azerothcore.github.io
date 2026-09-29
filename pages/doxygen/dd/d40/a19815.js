@@ -1,7 +1,8 @@
 var a19815 =
 [
-    [ "npc_eoe_wyrmrest_skytalon", "dd/d40/a19815.html#a8a2c264c200336b9f49f2a86f6953ff6", null ],
-    [ "IsSummonedBy", "dd/d40/a19815.html#a647ba18085c9522d8075c62ed9ce5b18", null ],
-    [ "JustDied", "dd/d40/a19815.html#a65df31829e801154ee20d55ad1c15721", null ],
-    [ "PassengerBoarded", "dd/d40/a19815.html#a350828bdc56029dcbfb863efef4d9d8e", null ]
+    [ "npc_scion_of_eternity", "dd/d40/a19815.html#ac1a9111bc835a3d2cffc43b840985763", null ],
+    [ "AttackStart", "dd/d40/a19815.html#a86b5e235096ad107217f36150c618d73", null ],
+    [ "JustDied", "dd/d40/a19815.html#aff0f8d0d57afb6ef3df7b259ec5860fa", null ],
+    [ "MoveInLineOfSight", "dd/d40/a19815.html#a25424c349fc39f7b42d36ac055f91ad9", null ],
+    [ "UpdateAI", "dd/d40/a19815.html#a49be60ccd03d75cf56931b870ddf086c", null ]
 ];

@@ -1,7 +1,9 @@
 var a06327 =
 [
-    [ "baseFilesDirectory", "d4/d7c/a06327.html#a5e5118773a1b9e24e5596a7f10619d25", null ],
-    [ "dbModuleName", "d4/d7c/a06327.html#a5a485515422456042698ea7c032ed787", null ],
-    [ "displayName", "d4/d7c/a06327.html#a57927cddcbf6173d7439f1ff95e6a090", null ],
-    [ "sourceDirectory", "d4/d7c/a06327.html#a9d6b5f07a3d4671a674bca583a1410b6", null ]
+    [ "CheckExecutable", "d4/d7c/a06327.html#a65cf44a18a72ba92f91a667e41f9da80", null ],
+    [ "corrected_path", "d4/d7c/a06327.html#a31499b458f0ff0ec518980f51d6a242a", null ],
+    [ "failed_updates", "d4/d7c/a06327.html#a19ef6f04dc5827b04a8cdcb34329464d", null ],
+    [ "GetCorrectedMySQLExecutable", "d4/d7c/a06327.html#a8ab8efffe5408f97f438e06766f65ec9", null ],
+    [ "GetFailedUpdateCount", "d4/d7c/a06327.html#a8653546fe6b32d170da7350700c19613", null ],
+    [ "MarkUpdateFailed", "d4/d7c/a06327.html#a99eb37994b14f350308d174d1c04c7fe", null ]
 ];

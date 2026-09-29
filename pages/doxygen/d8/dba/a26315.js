@@ -1,6 +1,6 @@
 var a26315 =
 [
-    [ "HandleDummy", "d8/dba/a26315.html#af306009f2c418e898478720b9c4ad6ab", null ],
-    [ "PrepareSpellScript", "d8/dba/a26315.html#a44cb481fe93fd1c691495cc1ead35e5e", null ],
-    [ "Register", "d8/dba/a26315.html#af51e3b3cbfb469fa6230a36d8d5fcec7", null ]
+    [ "HandleDummy", "d8/dba/a26315.html#a9530db7f75987879285d224fb8381c2b", null ],
+    [ "PrepareSpellScript", "d8/dba/a26315.html#ad1c1bdb577739f769802127960aaf9e5", null ],
+    [ "Register", "d8/dba/a26315.html#ae3a340132caf3f8839631c92015d47a0", null ]
 ];

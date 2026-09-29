@@ -1,7 +1,6 @@
 var a12991 =
 [
-    [ "HandleScript", "d5/d7c/a12991.html#a0d244cc1785b136bae0960d697dc761d", null ],
-    [ "PrepareSpellScript", "d5/d7c/a12991.html#a13f3ebef30c315c02090ee3a19a156e4", null ],
-    [ "Register", "d5/d7c/a12991.html#a3871fb036ec6e0ea006f869c21e88c8f", null ],
-    [ "Validate", "d5/d7c/a12991.html#a1413754f3a79caf8ec57d394c68f3499", null ]
+    [ "go_chromaggus_lever", "d5/d7c/a12991.html#aa592f93028e323ed10102121d2d6b20e", null ],
+    [ "GossipHello", "d5/d7c/a12991.html#abfb91ccfeb90152dc252f0110fb51715", null ],
+    [ "_instance", "d5/d7c/a12991.html#a481373f4c49d76d3d0a41efcf2821f8f", null ]
 ];

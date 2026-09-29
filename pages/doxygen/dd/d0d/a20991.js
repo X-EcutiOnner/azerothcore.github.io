@@ -1,10 +1,8 @@
 var a20991 =
 [
-    [ "npc_boombot", "dd/d0d/a20991.html#a6747aef56fd6710020c8aa5b4d96e0a1", null ],
-    [ "DamageTaken", "dd/d0d/a20991.html#a9f657c3f979b1f35f1cd5129474b33f1", null ],
-    [ "Reset", "dd/d0d/a20991.html#af47d7810bfe4f4ad7185ec7167cd49bf", null ],
-    [ "UpdateAI", "dd/d0d/a20991.html#a11b997bea629230932a1e01e89a556f2", null ],
-    [ "_boomed", "dd/d0d/a20991.html#a3e08d47064301a42e71fa33f9d58a5a3", null ],
-    [ "_instance", "dd/d0d/a20991.html#aeacd93855b35591fbfc54a8c1f622621", null ],
-    [ "_scheduler", "dd/d0d/a20991.html#af45ea755ec5c6a16b2b1fde7ef0e93f8", null ]
+    [ "npc_xt002_heart", "dd/d0d/a20991.html#aa4a3c9e4a66f1d6adab07282961685e9", null ],
+    [ "DoAction", "dd/d0d/a20991.html#a3150ab74ea50c9de6d937b3271e782de", null ],
+    [ "JustDied", "dd/d0d/a20991.html#a4f62cabc74ad43cf53f2257902982dff", null ],
+    [ "Reset", "dd/d0d/a20991.html#a0b60b84d9fc0abcb44d3f432420a7865", null ],
+    [ "_instance", "dd/d0d/a20991.html#a90edf95809c2d8a25b3f75526d2d3db7", null ]
 ];

@@ -1,8 +1,7 @@
 var a18715 =
 [
-    [ "NecroticPlagueTargetCheck", "de/d23/a18715.html#abf9c21cc0041e5981a91abce8fb0a58f", null ],
-    [ "operator()", "de/d23/a18715.html#a801a176e367a9f4446fe080845477654", null ],
-    [ "_notAura1", "de/d23/a18715.html#a4f52417f233e1ab06210726670f719f3", null ],
-    [ "_notAura2", "de/d23/a18715.html#affa9b300cd7a7469b0bdf2a72d380dd6", null ],
-    [ "_sourceObj", "de/d23/a18715.html#a7cf2e485e65f2396cfdbfe8e646e4d53", null ]
+    [ "TriggerWickedSpirit", "de/d23/a18715.html#ace62bc037a2bd8ca9c9c56202eb811e7", null ],
+    [ "Execute", "de/d23/a18715.html#a7c8f1b5c33fac4d6a7cd89e3e71aa36d", null ],
+    [ "_counter", "de/d23/a18715.html#a24b85a62208f881418f97b0a8cb10f27", null ],
+    [ "_owner", "de/d23/a18715.html#ab460675158bfedd7f17a4b8e1cc06b3c", null ]
 ];

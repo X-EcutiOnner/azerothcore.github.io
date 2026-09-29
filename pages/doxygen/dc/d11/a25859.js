@@ -1,6 +1,7 @@
 var a25859 =
 [
-    [ "CheckCast", "dc/d11/a25859.html#a7fa12be149f0cb2202142d7f44cde0a6", null ],
-    [ "PrepareSpellScript", "dc/d11/a25859.html#ad6867dad8bda358bd1479935c80b82e7", null ],
-    [ "Register", "dc/d11/a25859.html#a0ab2f1f2a87db93e54dc883c4e53d7ba", null ]
+    [ "HandleProc", "dc/d11/a25859.html#a68f17c864f8b2138c73a2fea42b8a252", null ],
+    [ "PrepareAuraScript", "dc/d11/a25859.html#a3722c927cf522685c08886338433964d", null ],
+    [ "Register", "dc/d11/a25859.html#a38985baeb0c24c948747492bf1d1f546", null ],
+    [ "Validate", "dc/d11/a25859.html#ac8bdbf36f0ccfa77de664d630540957d", null ]
 ];

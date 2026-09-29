@@ -1,6 +1,6 @@
 var a17383 =
 [
-    [ "entry", "da/da9/a17383.html#a80e1510436336f4ed17748a06b27178d", null ],
-    [ "pathId", "da/da9/a17383.html#a0b7e499d633e11b314852fb1154ea8e6", null ],
-    [ "startPosition", "da/da9/a17383.html#ac8c0dd74d76778aa2f5948b5c8c5ada4", null ]
+    [ "npc_fos_leader_secondAI", "d8/d87/a17387.html", "d8/d87/a17387" ],
+    [ "npc_fos_leader_second", "da/da9/a17383.html#a0e24659ef6e834da5a3adc8d79f0db4e", null ],
+    [ "GetAI", "da/da9/a17383.html#a96082888ccbb1c81be8327e5e0d84e03", null ]
 ];

@@ -1,6 +1,7 @@
 var a17091 =
 [
-    [ "npc_toc_pet_hunterAI", "df/dd1/a17095.html", "df/dd1/a17095" ],
-    [ "npc_toc_pet_hunter", "d1/d58/a17091.html#a1aa59cca8cd71e9f17fb9f55cf03c1da", null ],
-    [ "GetAI", "d1/d58/a17091.html#a9febc3086b0627324277f45d49cdd03f", null ]
+    [ "npc_toc_retro_paladinAI", "d1/d58/a17091.html#afe933281cea61c9a4f3ded76290a3b72", null ],
+    [ "myCanCast", "d1/d58/a17091.html#a271b1d0855dbd2e38ecb6ea62140012f", null ],
+    [ "UpdateAI", "d1/d58/a17091.html#a105d6b9c133c1147b310826d7be416f5", null ],
+    [ "events", "d1/d58/a17091.html#a7078c28d5392bc77d577fa7a6f96b9d7", null ]
 ];

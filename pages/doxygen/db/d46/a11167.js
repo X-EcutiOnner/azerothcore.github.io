@@ -1,7 +1,8 @@
 var a11167 =
 [
-    [ "GuildInvite", "db/d46/a11167.html#a7b5ef96e9a9d4c6665b280bb844b6d54", null ],
-    [ "Write", "db/d46/a11167.html#a4ed1c240a53fa6268eb07b3c77d68757", null ],
-    [ "GuildName", "db/d46/a11167.html#ac3ae572bb65d5ea156151e5fc7abf5b8", null ],
-    [ "InviterName", "db/d46/a11167.html#a8a91b3f9a94776da4b23c38220c6fc3d", null ]
+    [ "GuildEvent", "db/d46/a11167.html#a78be16122c01d4c68d67e050ede92006", null ],
+    [ "Write", "db/d46/a11167.html#a4ae1c0daaec964981ad982b97c1b0408", null ],
+    [ "Guid", "db/d46/a11167.html#a35bcac3da7db22a22b4e8dba21ae1d0a", null ],
+    [ "Params", "db/d46/a11167.html#a8f0faa70581ca04c26f87ebcd25cee80", null ],
+    [ "Type", "db/d46/a11167.html#a961ae90991fa23bfc94a054dba357392", null ]
 ];

@@ -1,7 +1,6 @@
 var a11671 =
 [
-    [ "QuestGiverQuestFailed", "d5/d7d/a11671.html#aec524e18a6a0fb666061bd08b17ff9cb", null ],
-    [ "Write", "d5/d7d/a11671.html#a97d19e4fe5ccc50afaf91d58321d31ec", null ],
-    [ "FailureReason", "d5/d7d/a11671.html#a5c4d887fd352e97c10a52bb095d8e33d", null ],
-    [ "QuestId", "d5/d7d/a11671.html#a1c09d090cd3b7fc73becca4f523141f6", null ]
+    [ "QuestUpdateFailedTimer", "d5/d7d/a11671.html#ae31656f1e3b3d145809113a8b7ce4400", null ],
+    [ "Write", "d5/d7d/a11671.html#a35a0b6609205c7eaa1ea6c3e4e1486ac", null ],
+    [ "QuestId", "d5/d7d/a11671.html#afce18ee4eea44b6c223ff2efc782d31d", null ]
 ];

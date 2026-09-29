@@ -1,6 +1,6 @@
 var a19155 =
 [
-    [ "npc_captain_brandonAI", "d1/dff/a19155.html#a1fe09b93be658660ba3c127c142e2ee6", null ],
-    [ "Reset", "d1/dff/a19155.html#a13226b321707eee9faf5f073c81403e4", null ],
-    [ "UpdateAI", "d1/dff/a19155.html#a721f8f7395cd57d4dba74f66ae40169f", null ]
+    [ "npc_captain_arnathAI", "d5/d99/a19159.html", "d5/d99/a19159" ],
+    [ "npc_captain_arnath", "d1/dff/a19155.html#ab96afce64a7714ea84bab932f80c9302", null ],
+    [ "GetAI", "d1/dff/a19155.html#a302ec007389e677011334d78f410207b", null ]
 ];

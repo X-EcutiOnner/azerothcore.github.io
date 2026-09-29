@@ -1,4 +1,4 @@
 var a04823 =
 [
-    [ "ObjectRegistry< T, Key >", "da/da1/a05627.html", "da/da1/a05627" ]
+    [ "B32Impl", "d3/d30/a05703.html", "d3/d30/a05703" ]
 ];

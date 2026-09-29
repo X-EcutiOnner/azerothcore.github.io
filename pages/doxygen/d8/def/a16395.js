@@ -1,7 +1,11 @@
 var a16395 =
 [
-    [ "npc_ahnkahar_nerubian", "d8/def/a16395.html#ae18cdf09bae50751e266e95caf165f8e", null ],
-    [ "Reset", "d8/def/a16395.html#a387831015ec8e4bc65cff8c8550bb176", null ],
-    [ "UpdateAI", "d8/def/a16395.html#a9a773127e4f94bcdf142718355eae0e8", null ],
-    [ "uiSprintTimer", "d8/def/a16395.html#a27a6f57a6b145cc595896d1ad453064f", null ]
+    [ "boss_amanitar", "d8/def/a16395.html#a660bdf8dd64bbffda4ee1ec603c41402", null ],
+    [ "EnterEvadeMode", "d8/def/a16395.html#a6b3cf0ea01ce34b4281116ca8387732d", null ],
+    [ "JustDied", "d8/def/a16395.html#a138049712649ff414950d9d0ca05d712", null ],
+    [ "JustEngagedWith", "d8/def/a16395.html#ae2bace7f649626c68560d4a6d5aa4ea3", null ],
+    [ "Reset", "d8/def/a16395.html#aab3faca4526947a72d8ca049a605f5be", null ],
+    [ "SummonedCreatureDespawn", "d8/def/a16395.html#a4b9dccf5b2fe46ac9f6d5eab54ba5d43", null ],
+    [ "SummonMushroom", "d8/def/a16395.html#afc5b4942931f6020b2894b901650fc35", null ],
+    [ "_mushroomsDeque", "d8/def/a16395.html#a4ba2415d6134cdc435114cd3af235b6d", null ]
 ];

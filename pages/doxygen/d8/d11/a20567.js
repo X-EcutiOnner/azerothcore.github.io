@@ -1,15 +1,15 @@
 var a20567 =
 [
-    [ "npc_ulduar_hodir_mage", "d8/d11/a20567.html#a1f16ae119ae7819348b3013bac867b68", null ],
-    [ "AttackStart", "d8/d11/a20567.html#aa486b501aefeb70beb325feece5ec34c", null ],
-    [ "CanAIAttack", "d8/d11/a20567.html#afe11d15da8769f50db470460cf759c2d", null ],
-    [ "DoAction", "d8/d11/a20567.html#abe5801b4b042dbc363dacbb3290b43e1", null ],
-    [ "EnterEvadeMode", "d8/d11/a20567.html#a7c942a1ad420731a6e57ede7720d164b", null ],
-    [ "JustDied", "d8/d11/a20567.html#a411b6a3b456fb216f96a9426a13e3369", null ],
-    [ "MoveInLineOfSight", "d8/d11/a20567.html#aab476b5a585b30d429bdcae64a18424c", null ],
-    [ "ScheduleAbilities", "d8/d11/a20567.html#add40de5492e4ec9bd19260669b4bbb22", null ],
-    [ "SpellHit", "d8/d11/a20567.html#af35bcc1ee03dd8128ff0fe7329eb980d", null ],
-    [ "UpdateAI", "d8/d11/a20567.html#ae9aa4904f3deaa6cae56853f8541eb40", null ],
-    [ "_instance", "d8/d11/a20567.html#a75528e6ce772183e63a9a415932b05cf", null ],
-    [ "events", "d8/d11/a20567.html#a8c89348ce80bc9e4ac72dec41855db8a", null ]
+    [ "npc_ulduar_hodir_priest", "d8/d11/a20567.html#af18269ae027e71f86796e723111227b4", null ],
+    [ "AttackStart", "d8/d11/a20567.html#ad86f47516d9f245a4ae241bba26b37a4", null ],
+    [ "CanAIAttack", "d8/d11/a20567.html#a8545bd2492bd32d333e8d144b3d548a5", null ],
+    [ "DoAction", "d8/d11/a20567.html#a73f077b4436e06a13e59944cebd5cca0", null ],
+    [ "EnterEvadeMode", "d8/d11/a20567.html#a9d3f3e950b0f9c9a7b85ba3835000a80", null ],
+    [ "JustDied", "d8/d11/a20567.html#a3ac7967a61a774670e25aa3c0477d7ac", null ],
+    [ "MoveInLineOfSight", "d8/d11/a20567.html#abc0c766a88dd64e8f5bbcc2afd883552", null ],
+    [ "ScheduleAbilities", "d8/d11/a20567.html#a10b5f3575c2de311d54c15220c68f4b7", null ],
+    [ "SpellHit", "d8/d11/a20567.html#a2dd6faeb45ba2278e1b4693d20550d4e", null ],
+    [ "UpdateAI", "d8/d11/a20567.html#a450b21ab190ec335d910b38a6a2d9329", null ],
+    [ "_instance", "d8/d11/a20567.html#adb189dbf0e536f469f1a0d82d42de6de", null ],
+    [ "events", "d8/d11/a20567.html#a803e3f35c784716170f9fa8c4484b66c", null ]
 ];

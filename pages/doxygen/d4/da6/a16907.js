@@ -1,8 +1,6 @@
 var a16907 =
 [
-    [ "npc_announcer_toc5AI", "d4/da6/a16907.html#a96e1bd089dfd21fa252bc6422d20bada", null ],
-    [ "DamageTaken", "d4/da6/a16907.html#a53458483699ac026ff2cd36b5f061571", null ],
-    [ "MovementInform", "d4/da6/a16907.html#acdcf4110b3815635ad173a70e7a1e603", null ],
-    [ "Reset", "d4/da6/a16907.html#ab3dca17e0350d6d46a9069f97f2d12ef", null ],
-    [ "UpdateAI", "d4/da6/a16907.html#ad2c596253d67d051f497a8d77859846d", null ]
+    [ "instance_trial_of_the_champion_InstanceMapScript", "d3/daa/a16911.html", "d3/daa/a16911" ],
+    [ "instance_trial_of_the_champion", "d4/da6/a16907.html#a7b97e3da119a7ad33a87c74647407bd8", null ],
+    [ "GetInstanceScript", "d4/da6/a16907.html#a9227119fc47f38cd82a1fc07c04b0c86", null ]
 ];

@@ -1,7 +1,8 @@
 var a17347 =
 [
-    [ "HandlePeriodicTick", "d7/d85/a17347.html#abe9cc0a87d84504ee029cc565dd97ef5", null ],
-    [ "PrepareAuraScript", "d7/d85/a17347.html#a93e894c642101160dd51f30952c82d24", null ],
-    [ "Register", "d7/d85/a17347.html#a49172ede0f888e391b9b4a835475220a", null ],
-    [ "Validate", "d7/d85/a17347.html#a3b9998ef5ee0931afbe5b04430da10a0", null ]
+    [ "npc_fos_corrupted_soul_fragment", "d7/d85/a17347.html#a1fef6c180e9fc6e8d8d316d45b5066f9", null ],
+    [ "Reset", "d7/d85/a17347.html#ad318f80454cf17b2b9d39a02a83e6e92", null ],
+    [ "UpdateAI", "d7/d85/a17347.html#a8dd94bd36392c75c4971aa50b83a5ada", null ],
+    [ "Instance", "d7/d85/a17347.html#a34d1912b83f9da8335ab3e7d527e5e01", null ],
+    [ "Timer", "d7/d85/a17347.html#a82a7ce4a8d07e7d4dab30d4f11aeb006", null ]
 ];

@@ -1,6 +1,7 @@
 var a18523 =
 [
-    [ "npc_precious_iccAI", "d1/dce/a18527.html", "d1/dce/a18527" ],
-    [ "npc_precious_icc", "db/dae/a18523.html#a463eb0df1edb17e154658dac131f0898", null ],
-    [ "GetAI", "db/dae/a18523.html#aa63840c5968a089bff41dcd9c86d5849", null ]
+    [ "HandleCast", "db/dae/a18523.html#aaa3262bc782e342825d4caba2954e95d", null ],
+    [ "PrepareSpellScript", "db/dae/a18523.html#ae4d1f05b978e2a46d7dc3410def73978", null ],
+    [ "Register", "db/dae/a18523.html#ac59fb77c6a52d7a603dbb27e933a6814", null ],
+    [ "Validate", "db/dae/a18523.html#a6ca80316fe7bcbb4ebda095d633bb1bc", null ]
 ];

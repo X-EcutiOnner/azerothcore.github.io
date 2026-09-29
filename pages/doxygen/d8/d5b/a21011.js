@@ -1,8 +1,7 @@
 var a21011 =
 [
-    [ "OnPeriodic", "d8/d5b/a21011.html#aa49d1186ca6f5cdd628728a8a30c06a0", null ],
-    [ "OnRemove", "d8/d5b/a21011.html#ad3a81506d71ed3d6ddffce7d8f902eb4", null ],
-    [ "PrepareAuraScript", "d8/d5b/a21011.html#a63b654cf540e331e4d2b4f4ece5c1fcc", null ],
-    [ "Register", "d8/d5b/a21011.html#a004ba2e0e83a14bef3cae208a45f222b", null ],
-    [ "Validate", "d8/d5b/a21011.html#aa56622a1e57c157260940023a6c70a35", null ]
+    [ "npc_xt_void_zone", "d8/d5b/a21011.html#ac392b70098ff8a486d1eb42c4dcd1551", null ],
+    [ "Reset", "d8/d5b/a21011.html#a72b02a51f71370f83b58d3fdb32dccd2", null ],
+    [ "UpdateAI", "d8/d5b/a21011.html#a7b49046e49cdf6b94ed6368197daeace", null ],
+    [ "_scheduler", "d8/d5b/a21011.html#acfd9e9a23c88e74ad96a14f8fb560612", null ]
 ];

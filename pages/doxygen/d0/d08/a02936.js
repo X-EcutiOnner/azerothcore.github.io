@@ -1,196 +1,162 @@
 var a02936 =
 [
-    [ "npc_brewfest_keg_thrower", "d8/d3c/a14763.html", "d8/d3c/a14763" ],
-    [ "npc_brewfest_keg_reciver", "d0/d4f/a14767.html", "d0/d4f/a14767" ],
-    [ "npc_brewfest_bark_trigger", "d4/d02/a14771.html", "d4/d02/a14771" ],
-    [ "npc_dark_iron_attack_generator", "d1/d2c/a14775.html", "d1/d2c/a14775" ],
-    [ "npc_dark_iron_attack_mole_machine", "d9/d29/a14779.html", "d9/d29/a14779" ],
-    [ "npc_dark_iron_guzzler", "d8/d1a/a14783.html", "d8/d1a/a14783" ],
-    [ "npc_brewfest_super_brew_trigger", "d6/d65/a14787.html", "d6/d65/a14787" ],
-    [ "spell_brewfest_main_ram_buff", "d8/d36/a14791.html", "d8/d36/a14791" ],
-    [ "spell_brewfest_ram_fatigue", "df/db4/a14795.html", "df/db4/a14795" ],
-    [ "spell_brewfest_apple_trap", "d2/d6f/a14799.html", "d2/d6f/a14799" ],
-    [ "spell_catch_the_wild_wolpertinger", "de/dca/a14803.html", "de/dca/a14803" ],
-    [ "spell_brewfest_fill_keg", "d8/d9b/a14807.html", "d8/d9b/a14807" ],
-    [ "spell_brewfest_unfill_keg", "de/d06/a14811.html", "de/d06/a14811" ],
-    [ "spell_brewfest_toss_mug", "db/dc5/a14815.html", "db/dc5/a14815" ],
-    [ "spell_brewfest_add_mug", "dc/d50/a14819.html", "dc/d50/a14819" ],
-    [ "npc_brew_bubble", "d8/ddd/a14823.html", "d8/ddd/a14823" ],
-    [ "spell_brewfest_reveler_transform", "d7/d7d/a14827.html", "d7/d7d/a14827" ],
-    [ "spell_brewfest_relay_race_force_cast", "d0/db5/a14831.html", "d0/db5/a14831" ],
-    [ "npc_coren_direbrew", "d7/d56/a14835.html", "d7/d56/a14835" ],
-    [ "npc_coren_direbrew_sisters", "d8/dae/a14839.html", "d8/dae/a14839" ],
-    [ "npc_direbrew_minion", "da/db0/a14843.html", "da/db0/a14843" ],
-    [ "npc_direbrew_antagonist", "d7/d9a/a14847.html", "d7/d9a/a14847" ],
-    [ "go_direbrew_mole_machine", "d3/d9c/a14851.html", "d3/d9c/a14851" ],
-    [ "go_direbrew_mole_machine::go_direbrew_mole_machineAI", "d6/d85/a14855.html", "d6/d85/a14855" ],
-    [ "spell_direbrew_summon_mole_machine_target_picker", "d8/da6/a14859.html", "d8/da6/a14859" ],
-    [ "spell_send_mug_target_picker", "db/df1/a14863.html", "db/df1/a14863" ],
-    [ "spell_request_second_mug", "d4/d07/a14867.html", "d4/d07/a14867" ],
-    [ "spell_send_mug_control_aura", "d4/dc7/a14871.html", "d4/dc7/a14871" ],
-    [ "spell_barreled_control_aura", "d3/dca/a14875.html", "d3/dca/a14875" ],
-    [ "spell_direbrew_disarm", "d9/db4/a14879.html", "d9/db4/a14879" ],
-    [ "barkTrigger", "d0/d08/a02936.html#a6549548cdb3ada527a0bd16635d61b6d", [
-      [ "QUEST_BARK_FOR_DROHN", "d0/d08/a02936.html#a6549548cdb3ada527a0bd16635d61b6da08150c311936b1b69b145916b6bc3350", null ],
-      [ "QUEST_BARK_FOR_VOODOO", "d0/d08/a02936.html#a6549548cdb3ada527a0bd16635d61b6da12c82f45b86197dd890afecf13ff0f54", null ],
-      [ "QUEST_BARK_FOR_BARLEY", "d0/d08/a02936.html#a6549548cdb3ada527a0bd16635d61b6dad9a15738ffeb4bf6f8eab5e9dd25f7d4", null ],
-      [ "QUEST_BARK_FOR_THUNDERBREW", "d0/d08/a02936.html#a6549548cdb3ada527a0bd16635d61b6dad64f9bf98d7b9fc7cd56ff59b0e7b201", null ]
+    [ "ScourgeInvasionData", "dc/d13/a12447.html", "dc/d13/a12447" ],
+    [ "ScourgeInvasionData::InvasionZone", "da/d98/a12451.html", "da/d98/a12451" ],
+    [ "ScourgeInvasionData::CityAttack", "d6/d3c/a12455.html", "d6/d3c/a12455" ],
+    [ "SunsReachReclamationData", "df/d15/a12459.html", "df/d15/a12459" ],
+    [ "WorldState", "d1/d3b/a12463.html", "d1/d3b/a12463" ],
+    [ "sWorldState", "d0/d08/a02936.html#a3a4f495a024c9f1774c913dd8ac4929f", null ],
+    [ "SICityTimers", "d0/d08/a02936.html#af7ef7f40d622ea6710b785d8b251ff2a", [
+      [ "ZONE_ATTACK_TIMER_MIN", "d0/d08/a02936.html#af7ef7f40d622ea6710b785d8b251ff2aa55c39bb2d19b6331e7e6bd0d68185646", null ],
+      [ "ZONE_ATTACK_TIMER_MAX", "d0/d08/a02936.html#af7ef7f40d622ea6710b785d8b251ff2aa82607be8e58d081e58041f01b0f47018", null ],
+      [ "CITY_ATTACK_TIMER_MIN", "d0/d08/a02936.html#af7ef7f40d622ea6710b785d8b251ff2aa7832721e7a62b7aca2d5ceb4359d1c8c", null ],
+      [ "CITY_ATTACK_TIMER_MAX", "d0/d08/a02936.html#af7ef7f40d622ea6710b785d8b251ff2aa5f1ef8b4d92183372361d77f01f7ee29", null ]
     ] ],
-    [ "brewBubble", "d0/d08/a02936.html#aa820fe8b7057ccd679b967932db9f9ca", [
-      [ "SPELL_BUBBLE_BUILD_UP", "d0/d08/a02936.html#aa820fe8b7057ccd679b967932db9f9caa3296b396df4d795d678648eaa432eb6a", null ]
+    [ "SIMisc", "d0/d08/a02936.html#ad0c8fcbd6054089a8ad5ce31f8856ff3", [
+      [ "EVENT_HERALD_OF_THE_LICH_KING_ZONE_START", "d0/d08/a02936.html#ad0c8fcbd6054089a8ad5ce31f8856ff3af71cb6c51675592ad400b429e342792c", null ],
+      [ "EVENT_HERALD_OF_THE_LICH_KING_ZONE_STOP", "d0/d08/a02936.html#ad0c8fcbd6054089a8ad5ce31f8856ff3a72a2664917ac7e9b711866fdc6313e54", null ],
+      [ "NPC_PALLID_HORROR", "d0/d08/a02936.html#ad0c8fcbd6054089a8ad5ce31f8856ff3a1256128f8b85c97132416fbd057ac897", null ],
+      [ "NPC_PATCHWORK_TERROR", "d0/d08/a02936.html#ad0c8fcbd6054089a8ad5ce31f8856ff3a57a0f8d508d934e8f51ab1ee4a017912", null ],
+      [ "NPC_HERALD_OF_THE_LICH_KING", "d0/d08/a02936.html#ad0c8fcbd6054089a8ad5ce31f8856ff3aafbec9fe50b47209831be55c8c8097e5", null ],
+      [ "ITEM_A_LETTER_FROM_THE_KEEPER_OF_THE_ROLLS", "d0/d08/a02936.html#ad0c8fcbd6054089a8ad5ce31f8856ff3a6108ee117d157992efff6b5f59265453", null ],
+      [ "NPC_ARGENT_EMISSARY", "d0/d08/a02936.html#ad0c8fcbd6054089a8ad5ce31f8856ff3ae3129ded3c64bc0778910f4c39b6e7f6", null ],
+      [ "MAIL_TEMPLATE_ARGENT_DAWN_NEEDS_YOUR_HELP", "d0/d08/a02936.html#ad0c8fcbd6054089a8ad5ce31f8856ff3a2974be3cfeb1ec4b4e539d565ef85cba", null ]
     ] ],
-    [ "BrewfestRevelerEnum", "d0/d08/a02936.html#afd53a868088ef0d578cc351b05ab9df8", [
-      [ "FACTION_ALLIANCE", "d0/d08/a02936.html#afd53a868088ef0d578cc351b05ab9df8a12b83bc54e5cd1250dc5c24578af5c68", null ],
-      [ "FACTION_HORDE", "d0/d08/a02936.html#afd53a868088ef0d578cc351b05ab9df8ab009f6e52ebbe43a5f354ac86cba2540", null ],
-      [ "SPELL_BREWFEST_REVELER_TRANSFORM_GOBLIN_MALE", "d0/d08/a02936.html#afd53a868088ef0d578cc351b05ab9df8a0eadd178341893fb53ddcc9d835b191f", null ],
-      [ "SPELL_BREWFEST_REVELER_TRANSFORM_GOBLIN_FEMALE", "d0/d08/a02936.html#afd53a868088ef0d578cc351b05ab9df8a7eddef42bae072663cd19ff05c32e720", null ],
-      [ "SPELL_BREWFEST_REVELER_TRANSFORM_BE", "d0/d08/a02936.html#afd53a868088ef0d578cc351b05ab9df8a8f4df5b3207fedb818a208651ce87de9", null ],
-      [ "SPELL_BREWFEST_REVELER_TRANSFORM_ORC", "d0/d08/a02936.html#afd53a868088ef0d578cc351b05ab9df8a8814a55a3046f8d5b12ae92edad188e6", null ],
-      [ "SPELL_BREWFEST_REVELER_TRANSFORM_TAUREN", "d0/d08/a02936.html#afd53a868088ef0d578cc351b05ab9df8a4288e74f4fd3978d4af9ada35238fd81", null ],
-      [ "SPELL_BREWFEST_REVELER_TRANSFORM_TROLL", "d0/d08/a02936.html#afd53a868088ef0d578cc351b05ab9df8a3365c4940364c71cdecd3455f1fcaaa9", null ],
-      [ "SPELL_BREWFEST_REVELER_TRANSFORM_UNDEAD", "d0/d08/a02936.html#afd53a868088ef0d578cc351b05ab9df8a95f5bd27925c7cac826ae1065091f3f3", null ],
-      [ "SPELL_DRUNKEN_BREWFEST_REVELER_TRANSFORM_GOBLIN_MALE", "d0/d08/a02936.html#afd53a868088ef0d578cc351b05ab9df8ae5f91b4756b7b36ad49c0ea4a70a29cc", null ]
+    [ "SIRemaining", "d0/d08/a02936.html#a3fb19d2d868c1633a094f84570f4a6ee", [
+      [ "SI_REMAINING_AZSHARA", "d0/d08/a02936.html#a3fb19d2d868c1633a094f84570f4a6eeac12501f2dfc2e92462231a9171a4a192", null ],
+      [ "SI_REMAINING_BLASTED_LANDS", "d0/d08/a02936.html#a3fb19d2d868c1633a094f84570f4a6eeaa749bb9df442ebee816047ad078ad876", null ],
+      [ "SI_REMAINING_BURNING_STEPPES", "d0/d08/a02936.html#a3fb19d2d868c1633a094f84570f4a6eea6e93dbfb45c3c30c9c8d6c2efdf4df04", null ],
+      [ "SI_REMAINING_EASTERN_PLAGUELANDS", "d0/d08/a02936.html#a3fb19d2d868c1633a094f84570f4a6eea6edea7eb295c687aab2d49f538b7ff66", null ],
+      [ "SI_REMAINING_TANARIS", "d0/d08/a02936.html#a3fb19d2d868c1633a094f84570f4a6eea91588368688397c3757fd568872cc23b", null ],
+      [ "SI_REMAINING_WINTERSPRING", "d0/d08/a02936.html#a3fb19d2d868c1633a094f84570f4a6eeaf588d257fc56fb070049cde06af24005", null ],
+      [ "SI_REMAINING_MAX", "d0/d08/a02936.html#a3fb19d2d868c1633a094f84570f4a6eea0abbcd0daa00c858c12ab1824d026514", null ]
     ] ],
-    [ "Catch", "d0/d08/a02936.html#ae458906a10ee141c4da9f10c8a0862d5", [
-      [ "NPC_WILD_WOLPERTINGER", "d0/d08/a02936.html#ae458906a10ee141c4da9f10c8a0862d5af39cb0faaf2433c776cc28a5d0f21820", null ],
-      [ "ITEM_STUNNED_WOLPERTINGER", "d0/d08/a02936.html#ae458906a10ee141c4da9f10c8a0862d5afe8ded371b5e366b0dfdb77c2ec3eb11", null ]
+    [ "SIState", "d0/d08/a02936.html#aecf9527110a7255a02e5f9add33dd690", [
+      [ "STATE_0_DISABLED", "d0/d08/a02936.html#aecf9527110a7255a02e5f9add33dd690a647b0f36eda55bfcd44ea079847f4b39", null ],
+      [ "STATE_1_ENABLED", "d0/d08/a02936.html#aecf9527110a7255a02e5f9add33dd690a27acc7e6cdaaad5f13ed4df7be56defc", null ],
+      [ "SI_STATE_MAX", "d0/d08/a02936.html#aecf9527110a7255a02e5f9add33dd690a18a3aa8c7a1474797f609b125e9e10a3", null ]
     ] ],
-    [ "darkIronAttack", "d0/d08/a02936.html#a810128d55b244da5d6f3e1244e683973", [
-      [ "GO_MOLE_MACHINE", "d0/d08/a02936.html#a810128d55b244da5d6f3e1244e683973af7789dfb34842dafd3b47f68f9665870", null ],
-      [ "NPC_BARLEYBREW_KEG", "d0/d08/a02936.html#a810128d55b244da5d6f3e1244e683973af7ada19ef9f0a41cfbe3fa5f82d539b7", null ],
-      [ "NPC_THUNDERBREW_KEG", "d0/d08/a02936.html#a810128d55b244da5d6f3e1244e683973aea09b2fd8d846296ff9ce22fe37a8167", null ],
-      [ "NPC_GORDOK_KEG", "d0/d08/a02936.html#a810128d55b244da5d6f3e1244e683973a6896a841976747ea72e668dc45c3be80", null ],
-      [ "NPC_VOODOO_KEG", "d0/d08/a02936.html#a810128d55b244da5d6f3e1244e683973ae1fe9c1b5acba6996a127e6db1258bf2", null ],
-      [ "NPC_DROHN_KEG", "d0/d08/a02936.html#a810128d55b244da5d6f3e1244e683973a0205e563ef02a63cc107e98c2ae143de", null ],
-      [ "NPC_MOLE_MACHINE_TRIGGER", "d0/d08/a02936.html#a810128d55b244da5d6f3e1244e683973a0eabeeae0a975034ece1e8c0f113949d", null ],
-      [ "NPC_DARK_IRON_GUZZLER", "d0/d08/a02936.html#a810128d55b244da5d6f3e1244e683973a4ddc3fa72814249abe1d196db50a95d8", null ],
-      [ "NPC_NORMAL_DROHN", "d0/d08/a02936.html#a810128d55b244da5d6f3e1244e683973aa9e0103d320395c7b3d83478e004268a", null ],
-      [ "NPC_NORMAL_VOODOO", "d0/d08/a02936.html#a810128d55b244da5d6f3e1244e683973a44e4038a93ffbb5d0f0c2d0bd9c54900", null ],
-      [ "NPC_NORMAL_BARLEYBREW", "d0/d08/a02936.html#a810128d55b244da5d6f3e1244e683973a4b7406bd8a96f5d467ea06e30b4da07b", null ],
-      [ "NPC_NORMAL_THUNDERBREW", "d0/d08/a02936.html#a810128d55b244da5d6f3e1244e683973a0390a90037471f50b78d999c6a161a97", null ],
-      [ "NPC_NORMAL_GORDOK", "d0/d08/a02936.html#a810128d55b244da5d6f3e1244e683973a66c88a484b7bdbd129edb825a77e1507", null ],
-      [ "NPC_EVENT_GENERATOR", "d0/d08/a02936.html#a810128d55b244da5d6f3e1244e683973ad4f0054d3e790654adb539e4abf8e186", null ],
-      [ "NPC_SUPER_BREW_TRIGGER", "d0/d08/a02936.html#a810128d55b244da5d6f3e1244e683973af919e7c5177f7362a608a27d96cefb5c", null ],
-      [ "NPC_DARK_IRON_HERALD", "d0/d08/a02936.html#a810128d55b244da5d6f3e1244e683973a65b93824c36a55586019a3415d299717", null ],
-      [ "NPC_BREWFEST_REVELER", "d0/d08/a02936.html#a810128d55b244da5d6f3e1244e683973a920684b659bfe3e2b90cc363f95f01bd", null ],
-      [ "EVENT_CHECK_HOUR", "d0/d08/a02936.html#a810128d55b244da5d6f3e1244e683973afad8b82466cd7a695591579dbc20d0c7", null ],
-      [ "EVENT_SPAWN_MOLE_MACHINE", "d0/d08/a02936.html#a810128d55b244da5d6f3e1244e683973aada263555448f72c6353399b21bfb84c", null ],
-      [ "EVENT_PRE_FINISH_ATTACK", "d0/d08/a02936.html#a810128d55b244da5d6f3e1244e683973a54950a2839c3b98117d387711b67e6ca", null ],
-      [ "EVENT_FINISH_ATTACK", "d0/d08/a02936.html#a810128d55b244da5d6f3e1244e683973a2f3e155a7c252d8c8ecbda4b25da7914", null ],
-      [ "EVENT_BARTENDER_SAY", "d0/d08/a02936.html#a810128d55b244da5d6f3e1244e683973a41c019acf116d746bd18ecaa05a63bfb", null ],
-      [ "SPELL_THROW_MUG_TO_PLAYER", "d0/d08/a02936.html#a810128d55b244da5d6f3e1244e683973afc3e716c0747870baa0816576d4a16af", null ],
-      [ "SPELL_ADD_MUG", "d0/d08/a02936.html#a810128d55b244da5d6f3e1244e683973aa8a554932a30e9159de25f854e900802", null ],
-      [ "SPELL_SPAWN_MOLE_MACHINE", "d0/d08/a02936.html#a810128d55b244da5d6f3e1244e683973a18ceb4b834e4055eafff7c87cc3982b3", null ],
-      [ "SPELL_KEG_MARKER", "d0/d08/a02936.html#a810128d55b244da5d6f3e1244e683973a28d0aa8ef3be216bdd5b49951aa0b84a", null ],
-      [ "SPELL_PLAYER_MUG", "d0/d08/a02936.html#a810128d55b244da5d6f3e1244e683973ac8b56add24989032c805e09b8adb71d9", null ],
-      [ "SPELL_REPORT_DEATH", "d0/d08/a02936.html#a810128d55b244da5d6f3e1244e683973a583db8b9d8d3c80e48f3287a2202f29f", null ],
-      [ "SPELL_CREATE_SUPER_BREW", "d0/d08/a02936.html#a810128d55b244da5d6f3e1244e683973a20801a420279ee89ae3b528c04aed13b", null ],
-      [ "SPELL_DRUNKEN_MASTER", "d0/d08/a02936.html#a810128d55b244da5d6f3e1244e683973ab5e919448c2ee68b813a2115ca30a83c", null ],
-      [ "SPELL_SUMMON_PLANS_A", "d0/d08/a02936.html#a810128d55b244da5d6f3e1244e683973a4fa17be920e46d2869e7b934d7a4ef0c", null ],
-      [ "SPELL_SUMMON_PLANS_H", "d0/d08/a02936.html#a810128d55b244da5d6f3e1244e683973a61f76e6dcc1379d4b649ebea605e192a", null ],
-      [ "SPELL_WEAK_ALCOHOL", "d0/d08/a02936.html#a810128d55b244da5d6f3e1244e683973a54a22d48143854a145e2d4f33971dcc3", null ],
-      [ "SPELL_ATTACK_KEG", "d0/d08/a02936.html#a810128d55b244da5d6f3e1244e683973af2e3fc25967c2a43a976586bde02ce9b", null ],
-      [ "SPELL_KNOCKBACK_AURA", "d0/d08/a02936.html#a810128d55b244da5d6f3e1244e683973a45325eacecaa4fdb4c25e9e356338c73", null ],
-      [ "SPELL_MUG_BOUNCE_BACK", "d0/d08/a02936.html#a810128d55b244da5d6f3e1244e683973ae63f338250f29c4f56556abc076784f8", null ]
+    [ "SITimers", "d0/d08/a02936.html#a785ea701ad6ed657955501468a40e99e", [
+      [ "SI_TIMER_AZSHARA", "d0/d08/a02936.html#a785ea701ad6ed657955501468a40e99ea7e70bc925a4eb641a96cec8e9fcac7d8", null ],
+      [ "SI_TIMER_BLASTED_LANDS", "d0/d08/a02936.html#a785ea701ad6ed657955501468a40e99ea532499014508a368d7047092f279707d", null ],
+      [ "SI_TIMER_BURNING_STEPPES", "d0/d08/a02936.html#a785ea701ad6ed657955501468a40e99ea8e1db7192af80f8edb51db2a23f1a23a", null ],
+      [ "SI_TIMER_EASTERN_PLAGUELANDS", "d0/d08/a02936.html#a785ea701ad6ed657955501468a40e99ea9e3c2bac63f9ec687deb109e579cdc81", null ],
+      [ "SI_TIMER_TANARIS", "d0/d08/a02936.html#a785ea701ad6ed657955501468a40e99ea832c45419d88e7550c9c2be9e9f80a6d", null ],
+      [ "SI_TIMER_WINTERSPRING", "d0/d08/a02936.html#a785ea701ad6ed657955501468a40e99ea9432f2ec7be5888384363ca926e965c6", null ],
+      [ "SI_TIMER_STORMWIND", "d0/d08/a02936.html#a785ea701ad6ed657955501468a40e99ea62abd4548974545032422538cb50e7ac", null ],
+      [ "SI_TIMER_UNDERCITY", "d0/d08/a02936.html#a785ea701ad6ed657955501468a40e99ea1ed9e8fd06f5592cbf0d6e1b11020188", null ],
+      [ "SI_TIMER_MAX", "d0/d08/a02936.html#a785ea701ad6ed657955501468a40e99ea7191361d832875bb172d35d73e709fc8", null ]
     ] ],
-    [ "DirebrewActions", "d0/d08/a02936.html#a14ebf7554847176e636b96243a89f663", [
-      [ "ACTION_START_FIGHT", "d0/d08/a02936.html#a14ebf7554847176e636b96243a89f663afd2662e5ad45793954d7eca931443e2a", null ],
-      [ "ACTION_ANTAGONIST_SAY_1", "d0/d08/a02936.html#a14ebf7554847176e636b96243a89f663a027d4077cde87fd4a1ae2ed918c72887", null ],
-      [ "ACTION_ANTAGONIST_SAY_2", "d0/d08/a02936.html#a14ebf7554847176e636b96243a89f663ab974bef4b163b78c262252509b9352c1", null ],
-      [ "ACTION_ANTAGONIST_HOSTILE", "d0/d08/a02936.html#a14ebf7554847176e636b96243a89f663a8ee82bf806ca0d2d14e8e91877942bc4", null ]
+    [ "SIZoneIds", "d0/d08/a02936.html#a7073adb35dc267e2d6a3086ec5c607d8", [
+      [ "SI_ZONE_AZSHARA", "d0/d08/a02936.html#a7073adb35dc267e2d6a3086ec5c607d8a77b28318e4ca21eb4cd36c1a9fb74f63", null ],
+      [ "SI_ZONE_BLASTED_LANDS", "d0/d08/a02936.html#a7073adb35dc267e2d6a3086ec5c607d8aac89922b39ff3f86ed8f4b023f15ac08", null ],
+      [ "SI_ZONE_BURNING_STEPPES", "d0/d08/a02936.html#a7073adb35dc267e2d6a3086ec5c607d8aad28d71d1cd42f38fed8288571607e19", null ],
+      [ "SI_ZONE_EASTERN_PLAGUELANDS", "d0/d08/a02936.html#a7073adb35dc267e2d6a3086ec5c607d8a0ebcab930583bf84159383b75e4162bb", null ],
+      [ "SI_ZONE_TANARIS", "d0/d08/a02936.html#a7073adb35dc267e2d6a3086ec5c607d8a9da39cfe20184768a9c7988ed17ab01d", null ],
+      [ "SI_ZONE_WINTERSPRING", "d0/d08/a02936.html#a7073adb35dc267e2d6a3086ec5c607d8a4957757eabc8da5ed9b89defc865b068", null ],
+      [ "SI_ZONE_STORMWIND", "d0/d08/a02936.html#a7073adb35dc267e2d6a3086ec5c607d8aff276d792e7dacdc26805e381d7b6006", null ],
+      [ "SI_ZONE_UNDERCITY", "d0/d08/a02936.html#a7073adb35dc267e2d6a3086ec5c607d8a4f8d0977575b2db09b15ef3df7deae11", null ]
     ] ],
-    [ "DirebrewEvents", "d0/d08/a02936.html#a98e46eba63ac814c8a4cda4543639a92", [
-      [ "EVENT_INTRO_1", "d0/d08/a02936.html#a98e46eba63ac814c8a4cda4543639a92a256fd25f172fa42871e6171e67568f28", null ],
-      [ "EVENT_INTRO_2", "d0/d08/a02936.html#a98e46eba63ac814c8a4cda4543639a92a33886550fcce093bd39450d188489113", null ],
-      [ "EVENT_INTRO_3", "d0/d08/a02936.html#a98e46eba63ac814c8a4cda4543639a92ad59301158e6d930fd6318326d74e141c", null ],
-      [ "EVENT_DIREBREW_DISARM", "d0/d08/a02936.html#a98e46eba63ac814c8a4cda4543639a92af83258e7e8426f53cf743dbd27957aa5", null ],
-      [ "EVENT_SUMMON_MOLE_MACHINE", "d0/d08/a02936.html#a98e46eba63ac814c8a4cda4543639a92a3269e8cecce222ec626b0dd9538e1ad3", null ],
-      [ "EVENT_RESPAWN_ILSA", "d0/d08/a02936.html#a98e46eba63ac814c8a4cda4543639a92a1696f23ce1666381858aa20ce59c4879", null ],
-      [ "EVENT_RESPAWN_URSULA", "d0/d08/a02936.html#a98e46eba63ac814c8a4cda4543639a92a2a1e824d2d9c51bad877f5fb83878dee", null ]
+    [ "SunsReachCounters", "d0/d08/a02936.html#aaf07f00f32588714a5bb8a6b3662211c", [
+      [ "COUNTER_ERRATIC_BEHAVIOR", "d0/d08/a02936.html#aaf07f00f32588714a5bb8a6b3662211ca23b1e2d313de5eb6487c856608b41641", null ],
+      [ "COUNTER_SANCTUM_WARDS", "d0/d08/a02936.html#aaf07f00f32588714a5bb8a6b3662211caea0b3ede048b8fe9d88385bfb4dbb6de", null ],
+      [ "COUNTER_BATTLE_FOR_THE_SUNS_REACH_ARMORY", "d0/d08/a02936.html#aaf07f00f32588714a5bb8a6b3662211ca76338d51f6eec0825ff259bbd34dc5a2", null ],
+      [ "COUNTER_DISTRACTION_AT_THE_DEAD_SCAR", "d0/d08/a02936.html#aaf07f00f32588714a5bb8a6b3662211cae99c00ceb33ce528fc0de353f5449b86", null ],
+      [ "COUNTER_INTERCEPTING_THE_MANA_CELLS", "d0/d08/a02936.html#aaf07f00f32588714a5bb8a6b3662211ca7ccae68e35a5ab24f91a3572989c08ec", null ],
+      [ "COUNTER_INTERCEPT_THE_REINFORCEMENTS", "d0/d08/a02936.html#aaf07f00f32588714a5bb8a6b3662211cad58884bfc099d112c39cd40d06fca2f7", null ],
+      [ "COUNTER_TAKING_THE_HARBOR", "d0/d08/a02936.html#aaf07f00f32588714a5bb8a6b3662211ca9a71b7eefaf4fc97215caf53721a8593", null ],
+      [ "COUNTER_MAKING_READY", "d0/d08/a02936.html#aaf07f00f32588714a5bb8a6b3662211ca8cf21d7284a4dcb4d48b8130cc3f4671", null ],
+      [ "COUNTER_DISCOVERING_YOUR_ROOTS", "d0/d08/a02936.html#aaf07f00f32588714a5bb8a6b3662211cadf87923459d77536d46ddd23bc3d5dfb", null ],
+      [ "COUNTER_A_CHARITABLE_DONATION", "d0/d08/a02936.html#aaf07f00f32588714a5bb8a6b3662211caba33bffee42a380d259c5af14e6e700f", null ],
+      [ "COUNTERS_MAX", "d0/d08/a02936.html#aaf07f00f32588714a5bb8a6b3662211ca24ad3fca42f73e77a99c93e0c788a4e8", null ]
     ] ],
-    [ "DirebrewMisc", "d0/d08/a02936.html#ad0fcc3268b0d04cfc8231f0143d898c4", [
-      [ "GOSSIP_ID", "d0/d08/a02936.html#ad0fcc3268b0d04cfc8231f0143d898c4af1faeb7f45a958be04b8e98454512450", null ],
-      [ "GO_MOLE_MACHINE_TRAP", "d0/d08/a02936.html#ad0fcc3268b0d04cfc8231f0143d898c4a57581aa65d3e7ddc3cf53b81c9cf6da0", null ],
-      [ "GOSSIP_OPTION_FIGHT", "d0/d08/a02936.html#ad0fcc3268b0d04cfc8231f0143d898c4ab76eef903f89cb3da333d64dd4f9ce90", null ],
-      [ "GOSSIP_OPTION_APOLOGIZE", "d0/d08/a02936.html#ad0fcc3268b0d04cfc8231f0143d898c4a42290007a38ddc31942a6705a3ff79bf", null ],
-      [ "DATA_TARGET_GUID", "d0/d08/a02936.html#ad0fcc3268b0d04cfc8231f0143d898c4a2f0d7897edbeeb73848984e8f03fae75", null ],
-      [ "MAX_ANTAGONISTS", "d0/d08/a02936.html#ad0fcc3268b0d04cfc8231f0143d898c4a708862ad6ea39c18e76cfd2767e0d3f6", null ],
-      [ "DATA_COREN", "d0/d08/a02936.html#ad0fcc3268b0d04cfc8231f0143d898c4a38ce179d25dc3db7fd1b2e6ccb0f148d", null ],
-      [ "GO_MACHINE_SUMMONER", "d0/d08/a02936.html#ad0fcc3268b0d04cfc8231f0143d898c4a86c92dd979c36cd76fd7a16b6776866c", null ]
+    [ "SunsReachPhases", "d0/d08/a02936.html#aa3e8fbd653500f90fa1ebe182d4891d6", [
+      [ "SUNS_REACH_PHASE_1_STAGING_AREA", "d0/d08/a02936.html#aa3e8fbd653500f90fa1ebe182d4891d6ab65a732a0c383bd3d043a34e29c558ed", null ],
+      [ "SUNS_REACH_PHASE_2_SANCTUM", "d0/d08/a02936.html#aa3e8fbd653500f90fa1ebe182d4891d6a83392af6406c346fcc27d7ac61925c60", null ],
+      [ "SUNS_REACH_PHASE_3_ARMORY", "d0/d08/a02936.html#aa3e8fbd653500f90fa1ebe182d4891d6a0ea20d0c1efef719695c8d2a6959b4a2", null ],
+      [ "SUNS_REACH_PHASE_4_HARBOR", "d0/d08/a02936.html#aa3e8fbd653500f90fa1ebe182d4891d6ad46034efa280e589b555f346debbb938", null ]
     ] ],
-    [ "DirebrewNpcs", "d0/d08/a02936.html#ac0f691e5e38d07f709b42c1f70418f00", [
-      [ "NPC_ILSA_DIREBREW", "d0/d08/a02936.html#ac0f691e5e38d07f709b42c1f70418f00abcd093fc25119756257f7f5b65900e3b", null ],
-      [ "NPC_URSULA_DIREBREW", "d0/d08/a02936.html#ac0f691e5e38d07f709b42c1f70418f00a944f5d79c4cd160d36636a1e8c999a28", null ],
-      [ "NPC_ANTAGONIST", "d0/d08/a02936.html#ac0f691e5e38d07f709b42c1f70418f00a9c788bc64844a20b7ac96b8ad18ae556", null ]
+    [ "SunsReachSubPhases", "d0/d08/a02936.html#a1a971b6e72e7e5cd29d560dfaa9fdfe8", [
+      [ "SUBPHASE_PORTAL", "d0/d08/a02936.html#a1a971b6e72e7e5cd29d560dfaa9fdfe8ad4a4e1b4e65a4f58b9e10c41e1783956", null ],
+      [ "SUBPHASE_ANVIL", "d0/d08/a02936.html#a1a971b6e72e7e5cd29d560dfaa9fdfe8a4d77060db8b4d0bcdf14befefe656f13", null ],
+      [ "SUBPHASE_ALCHEMY_LAB", "d0/d08/a02936.html#a1a971b6e72e7e5cd29d560dfaa9fdfe8a2de7705acf58b5c9490bf1e95e3ead73", null ],
+      [ "SUBPHASE_MONUMENT", "d0/d08/a02936.html#a1a971b6e72e7e5cd29d560dfaa9fdfe8ac29321ac9e23150a2e3acb0dcc0b1764", null ],
+      [ "SUBPHASE_ALL", "d0/d08/a02936.html#a1a971b6e72e7e5cd29d560dfaa9fdfe8a449fd29e38beaff4aaa5c96915aa459f", null ]
     ] ],
-    [ "DirebrewPhases", "d0/d08/a02936.html#a83398fbaa7c84eaab41278d70b013d88", [
-      [ "PHASE_ALL", "d0/d08/a02936.html#a83398fbaa7c84eaab41278d70b013d88a5a174c07b8602efe54b08ead7652a3fe", null ],
-      [ "PHASE_INTRO", "d0/d08/a02936.html#a83398fbaa7c84eaab41278d70b013d88a4759cf00b99e3a6f4a2f65af817bd203", null ],
-      [ "PHASE_ONE", "d0/d08/a02936.html#a83398fbaa7c84eaab41278d70b013d88a010c34255c53692507f4cf089853cd05", null ],
-      [ "PHASE_TWO", "d0/d08/a02936.html#a83398fbaa7c84eaab41278d70b013d88ad306b605b01d26aee45d81b8a241cb65", null ],
-      [ "PHASE_THREE", "d0/d08/a02936.html#a83398fbaa7c84eaab41278d70b013d88ab240c367c5e45c91ba387ac010e238bf", null ]
+    [ "SunwellGateCounters", "d0/d08/a02936.html#a4a3013381173d98f6b2e1b401f7bd34f", [
+      [ "COUNTER_AGAMATH_THE_FIRST_GATE", "d0/d08/a02936.html#a4a3013381173d98f6b2e1b401f7bd34fac5a40f22c82be22eb0ee2e6b1414a95c", null ],
+      [ "COUNTER_ROHENDOR_THE_SECOND_GATE", "d0/d08/a02936.html#a4a3013381173d98f6b2e1b401f7bd34fa19cae29dd7ad9ef6c31296f891eff82f", null ],
+      [ "COUNTER_ARCHONISUS_THE_FINAL_GATE", "d0/d08/a02936.html#a4a3013381173d98f6b2e1b401f7bd34fa7af124883dce8a02d45f5cfbb7b13c5d", null ],
+      [ "COUNTERS_MAX_GATES", "d0/d08/a02936.html#a4a3013381173d98f6b2e1b401f7bd34fa0247ea5e5a42ee81a890e65bc7876d78", null ]
     ] ],
-    [ "DirebrewSays", "d0/d08/a02936.html#a0b1768ced5432e6bc04e07393305784c", [
-      [ "SAY_INTRO", "d0/d08/a02936.html#a0b1768ced5432e6bc04e07393305784caf5bc3db04213b3bf118af6ce85b5a637", null ],
-      [ "SAY_INTRO1", "d0/d08/a02936.html#a0b1768ced5432e6bc04e07393305784ca17383917acea21c7a408d5e02de97873", null ],
-      [ "SAY_INTRO2", "d0/d08/a02936.html#a0b1768ced5432e6bc04e07393305784cafc9c1989ff6b959b21add6f92af072d8", null ],
-      [ "SAY_INSULT", "d0/d08/a02936.html#a0b1768ced5432e6bc04e07393305784ca2c4d79de099eba7bc6b0698b65705ded", null ],
-      [ "SAY_ANTAGONIST_1", "d0/d08/a02936.html#a0b1768ced5432e6bc04e07393305784ca10c8bfd73eb8715dbfb00d15fbfbb10f", null ],
-      [ "SAY_ANTAGONIST_2", "d0/d08/a02936.html#a0b1768ced5432e6bc04e07393305784ca36ad54bbee5d57f9f7f912a8ed3a140a", null ],
-      [ "SAY_ANTAGONIST_COMBAT", "d0/d08/a02936.html#a0b1768ced5432e6bc04e07393305784caf2538d75def0c158b7a28c33187f39d0", null ]
+    [ "SunwellGates", "d0/d08/a02936.html#a30222a7d596ba08b5141b96da67ec7eb", [
+      [ "SUNWELL_ALL_GATES_CLOSED", "d0/d08/a02936.html#a30222a7d596ba08b5141b96da67ec7eba8e9efb46ed96537c672046bd063481c4", null ],
+      [ "SUNWELL_AGAMATH_GATE1_OPEN", "d0/d08/a02936.html#a30222a7d596ba08b5141b96da67ec7ebab502da8d18813b99e43f7b4584f6e574", null ],
+      [ "SUNWELL_ROHENDOR_GATE2_OPEN", "d0/d08/a02936.html#a30222a7d596ba08b5141b96da67ec7ebad194a9ec7ca0ffecdcabcb6d7d8ebdb7", null ],
+      [ "SUNWELL_ARCHONISUS_GATE3_OPEN", "d0/d08/a02936.html#a30222a7d596ba08b5141b96da67ec7eba2c50969cc9ec8d5d0f0e217e85764fc4", null ]
     ] ],
-    [ "DirebrewSpells", "d0/d08/a02936.html#acf86a0bbb7e655957dd212f3aea686d0", [
-      [ "SPELL_MOLE_MACHINE_EMERGE", "d0/d08/a02936.html#acf86a0bbb7e655957dd212f3aea686d0a28639d4e8aa2f3a174fd993670d495f7", null ],
-      [ "SPELL_DIREBREW_DISARM_PRE_CAST", "d0/d08/a02936.html#acf86a0bbb7e655957dd212f3aea686d0ab892967fecfc5baa81356e43994a3404", null ],
-      [ "SPELL_MOLE_MACHINE_TARGET_PICKER", "d0/d08/a02936.html#acf86a0bbb7e655957dd212f3aea686d0a03d47a92be79c9d7022fa3a5b5f1078e", null ],
-      [ "SPELL_MOLE_MACHINE_MINION_SUMMONER", "d0/d08/a02936.html#acf86a0bbb7e655957dd212f3aea686d0a196b969291bfcf50b7ba9d1b3499d361", null ],
-      [ "SPELL_DIREBREW_DISARM_GROW", "d0/d08/a02936.html#acf86a0bbb7e655957dd212f3aea686d0ae265da0b161965fa78e8290a65d189dd", null ],
-      [ "SPELL_DIREBREW_DISARM", "d0/d08/a02936.html#acf86a0bbb7e655957dd212f3aea686d0a0818af9e31e68213e6fcce65a7aa7a75", null ],
-      [ "SPELL_CHUCK_MUG", "d0/d08/a02936.html#acf86a0bbb7e655957dd212f3aea686d0a8631c8d0b41e24ea4731240038765f16", null ],
-      [ "SPELL_PORT_TO_COREN", "d0/d08/a02936.html#acf86a0bbb7e655957dd212f3aea686d0a743ff1167884afff634529ef21704d7a", null ],
-      [ "SPELL_SEND_MUG_CONTROL_AURA", "d0/d08/a02936.html#acf86a0bbb7e655957dd212f3aea686d0a3e19a5a040db85ae93cb393673de5cfb", null ],
-      [ "SPELL_SEND_MUG_TARGET_PICKER", "d0/d08/a02936.html#acf86a0bbb7e655957dd212f3aea686d0a537dd6abfcbbd3912dc6f96b8a70acc9", null ],
-      [ "SPELL_SEND_FIRST_MUG", "d0/d08/a02936.html#acf86a0bbb7e655957dd212f3aea686d0a5cc37edef70d55bfa80d32fde663b986", null ],
-      [ "SPELL_SEND_SECOND_MUG", "d0/d08/a02936.html#acf86a0bbb7e655957dd212f3aea686d0a7b311b26485feed1b6a8b11ad3c19214", null ],
-      [ "SPELL_REQUEST_SECOND_MUG", "d0/d08/a02936.html#acf86a0bbb7e655957dd212f3aea686d0a18c6c147f0cf6e2de6f356c6f23a63b8", null ],
-      [ "SPELL_HAS_DARK_BREWMAIDENS_BREW", "d0/d08/a02936.html#acf86a0bbb7e655957dd212f3aea686d0aff062d4f8fa16b6d72f2ce3b54a4fbbd", null ],
-      [ "SPELL_BARRELED_CONTROL_AURA", "d0/d08/a02936.html#acf86a0bbb7e655957dd212f3aea686d0ada3218f6bfaf55db59562a2e92649adc", null ],
-      [ "SPELL_BARRELED", "d0/d08/a02936.html#acf86a0bbb7e655957dd212f3aea686d0a22ae90e9a08788715188a35c7f291124", null ]
+    [ "WorldStateCondition", "d0/d08/a02936.html#afa57b7026eb6e127e388f149e349ccb6", [
+      [ "WORLD_STATE_CONDITION_TROLLBANES_COMMAND", "d0/d08/a02936.html#afa57b7026eb6e127e388f149e349ccb6af5369c5be7548a1e9ec08b006e73feeb", null ],
+      [ "WORLD_STATE_CONDITION_NAZGRELS_FAVOR", "d0/d08/a02936.html#afa57b7026eb6e127e388f149e349ccb6ab8441229f6aecd4dc9dd1e3f3f835f8e", null ],
+      [ "WORLD_STATE_CONDITION_THE_THUNDERCALLER", "d0/d08/a02936.html#afa57b7026eb6e127e388f149e349ccb6a5d0ef449051867fa252bdaaecb6f7e1f", null ],
+      [ "WORLD_STATE_CONDITION_THE_IRON_EAGLE", "d0/d08/a02936.html#afa57b7026eb6e127e388f149e349ccb6a9665ded148821c41501866620a5ba50f", null ],
+      [ "WORLD_STATE_CONDITION_THE_PURPLE_PRINCESS", "d0/d08/a02936.html#afa57b7026eb6e127e388f149e349ccb6af4db95d45b322084d64483ad02f862ff", null ]
     ] ],
-    [ "fillKeg", "d0/d08/a02936.html#ad82f6d939f1c81b9d74ac98677680b1f", [
-      [ "GREEN_EMPTY_KEG", "d0/d08/a02936.html#ad82f6d939f1c81b9d74ac98677680b1faeeed8e128d71d3a9cbd05ac752f558c6", null ],
-      [ "BLUE_EMPTY_KEG", "d0/d08/a02936.html#ad82f6d939f1c81b9d74ac98677680b1fa778bc53e8a5095f25c826037984a87f9", null ],
-      [ "YELLOW_EMPTY_KEG", "d0/d08/a02936.html#ad82f6d939f1c81b9d74ac98677680b1fa4010b39236a9ad1f180684eac57e2b1e", null ]
+    [ "WorldStateConditionState", "d0/d08/a02936.html#a4ecea2a2bb4e9623ef98bf8c32d546a4", [
+      [ "WORLD_STATE_CONDITION_STATE_NONE", "d0/d08/a02936.html#a4ecea2a2bb4e9623ef98bf8c32d546a4a0ecc6b01d71dceaffaf31c7620bea0de", null ]
     ] ],
-    [ "kegThrowers", "d0/d08/a02936.html#aab2e4119dcd498416f0a3220e243e486", [
-      [ "QUEST_THERE_AND_BACK_AGAIN_A", "d0/d08/a02936.html#aab2e4119dcd498416f0a3220e243e486a22c846995b2cfeb816c4d25d4d4dd165", null ],
-      [ "QUEST_THERE_AND_BACK_AGAIN_H", "d0/d08/a02936.html#aab2e4119dcd498416f0a3220e243e486a1b594e8564f9eb50f05f6105f5655627", null ],
-      [ "RAM_DISPLAY_ID", "d0/d08/a02936.html#aab2e4119dcd498416f0a3220e243e486a122677f40c388416fc6533f1e95ee560", null ],
-      [ "NPC_FLYNN_FIREBREW", "d0/d08/a02936.html#aab2e4119dcd498416f0a3220e243e486a8de9b03a1e7223d97094c29df3ebcb83", null ],
-      [ "NPC_BOK_DROPCERTAIN", "d0/d08/a02936.html#aab2e4119dcd498416f0a3220e243e486ad332331eed6ca8a8f666ef05095e2d6c", null ],
-      [ "ITEM_PORTABLE_BREWFEST_KEG", "d0/d08/a02936.html#aab2e4119dcd498416f0a3220e243e486a0220cc3b03f1da529e7b1fe0ba0b682f", null ],
-      [ "SPELL_THROW_KEG", "d0/d08/a02936.html#aab2e4119dcd498416f0a3220e243e486a882b2907f8b3572ec1935d7e93547700", null ],
-      [ "SPELL_RAM_AURA", "d0/d08/a02936.html#aab2e4119dcd498416f0a3220e243e486a13406c6b7df92db99d8d2f4ae956ab3b", null ],
-      [ "SPELL_ADD_TOKENS", "d0/d08/a02936.html#aab2e4119dcd498416f0a3220e243e486a4ab819de7c4f6c6008401ca3eaf44d04", null ],
-      [ "SPELL_RAM_RACING_CROP", "d0/d08/a02936.html#aab2e4119dcd498416f0a3220e243e486a62e530dbbf3f050d534803de757aa208", null ],
-      [ "SPELL_COOLDOWN_CHECKER", "d0/d08/a02936.html#aab2e4119dcd498416f0a3220e243e486ae4588567b067c7abb0cbc5f272864a64", null ],
-      [ "NPC_RAM_MASTER_RAY", "d0/d08/a02936.html#aab2e4119dcd498416f0a3220e243e486a87d358aacdb8d87ad2215e4adb5283db", null ],
-      [ "NPC_NEILL_RAMSTEIN", "d0/d08/a02936.html#aab2e4119dcd498416f0a3220e243e486a7668631ecf9569dcc22d893d2b5525c3", null ],
-      [ "KEG_KILL_CREDIT", "d0/d08/a02936.html#aab2e4119dcd498416f0a3220e243e486a488cc7f002d880cfbbde95ac80ff5243", null ],
-      [ "GOSSIP_NEIL", "d0/d08/a02936.html#aab2e4119dcd498416f0a3220e243e486a2cc1b2bc167fac78f4dd69b48829495a", null ],
-      [ "GOSSIP_RAY", "d0/d08/a02936.html#aab2e4119dcd498416f0a3220e243e486a2954b452a8b4f4afc1346bb37adabe4b", null ]
+    [ "WorldStateEvent", "d0/d08/a02936.html#adc7b7b38a655f2354624ac5335163266", [
+      [ "WORLD_STATE_CUSTOM_EVENT_ON_ADALS_SONG_OF_BATTLE", "d0/d08/a02936.html#adc7b7b38a655f2354624ac5335163266aa2c3350c135eec4653e10f9a416d4ae8", null ],
+      [ "WORLD_STATE_CUSTOM_EVENT_ON_MAGTHERIDON_HEAD_SPAWN", "d0/d08/a02936.html#adc7b7b38a655f2354624ac5335163266ae87a6f363d942d1928ba2b052ab2f88e", null ],
+      [ "WORLD_STATE_CUSTOM_EVENT_ON_MAGTHERIDON_HEAD_DESPAWN", "d0/d08/a02936.html#adc7b7b38a655f2354624ac5335163266a4c5ce93e17daa3d8df5b892b3d76af2b", null ]
     ] ],
-    [ "ramRacing", "d0/d08/a02936.html#ad4b3aaf9f254862105723498475a0e8e", [
-      [ "SPELL_TROT", "d0/d08/a02936.html#ad4b3aaf9f254862105723498475a0e8ea82564c43d592033e9e8bfc6181450928", null ],
-      [ "SPELL_CANTER", "d0/d08/a02936.html#ad4b3aaf9f254862105723498475a0e8ea390ab2cfc30916ec5b00ae56f5502e68", null ],
-      [ "SPELL_GALLOP", "d0/d08/a02936.html#ad4b3aaf9f254862105723498475a0e8ea705362846c84af3c7965bdb23caffe14", null ],
-      [ "SPELL_RAM_FATIGUE", "d0/d08/a02936.html#ad4b3aaf9f254862105723498475a0e8eadddc942268210bdb243ecdb59e76fb74", null ],
-      [ "SPELL_RAM_EXHAUSTED", "d0/d08/a02936.html#ad4b3aaf9f254862105723498475a0e8ea09de7ce3b856ca5205416e36f8572cd8", null ],
-      [ "CREDIT_TROT", "d0/d08/a02936.html#ad4b3aaf9f254862105723498475a0e8ea4c699153018141923bc67370ea550fc2", null ],
-      [ "CREDIT_CANTER", "d0/d08/a02936.html#ad4b3aaf9f254862105723498475a0e8ea7832ee7e0c769012c8b8736099b6b227", null ],
-      [ "CREDIT_GALLOP", "d0/d08/a02936.html#ad4b3aaf9f254862105723498475a0e8ea5bc3bbf967481311be4408e109d3984a", null ],
-      [ "RACING_RAM_MODEL", "d0/d08/a02936.html#ad4b3aaf9f254862105723498475a0e8ea812240450bf07c5c29c219d953665fa5", null ]
+    [ "WorldStateGameEvents", "d0/d08/a02936.html#a7f47feca28234245c0857650572c5780", [
+      [ "GAME_EVENT_SCOURGE_INVASION", "d0/d08/a02936.html#a7f47feca28234245c0857650572c5780a35299752ef87a4482d58ec87ff9067ea", null ],
+      [ "GAME_EVENT_SCOURGE_INVASION_BOSSES", "d0/d08/a02936.html#a7f47feca28234245c0857650572c5780a625213bc617985b42a09ef37e4e06fda", null ],
+      [ "GAME_EVENT_SCOURGE_INVASION_WINTERSPRING", "d0/d08/a02936.html#a7f47feca28234245c0857650572c5780a42da395d5c683f22aec0cb0c1c8c7528", null ],
+      [ "GAME_EVENT_SCOURGE_INVASION_TANARIS", "d0/d08/a02936.html#a7f47feca28234245c0857650572c5780a585669bddff3e4d441379aa0060d8232", null ],
+      [ "GAME_EVENT_SCOURGE_INVASION_AZSHARA", "d0/d08/a02936.html#a7f47feca28234245c0857650572c5780a28ebd1b230bb8a2e19b88347b605cf70", null ],
+      [ "GAME_EVENT_SCOURGE_INVASION_BLASTED_LANDS", "d0/d08/a02936.html#a7f47feca28234245c0857650572c5780a10dfc746d32befa4fbef16852081c989", null ],
+      [ "GAME_EVENT_SCOURGE_INVASION_EASTERN_PLAGUELANDS", "d0/d08/a02936.html#a7f47feca28234245c0857650572c5780ab8c7b13c0aa2d6b6f796eaca2bf1f9c1", null ],
+      [ "GAME_EVENT_SCOURGE_INVASION_BURNING_STEPPES", "d0/d08/a02936.html#a7f47feca28234245c0857650572c5780a3f73a9acf9158358b1c8e8809881998a", null ],
+      [ "GAME_EVENT_SCOURGE_INVASION_50_INVASIONS", "d0/d08/a02936.html#a7f47feca28234245c0857650572c5780ad34d4ccb375f8684c1fa36005edbceb9", null ],
+      [ "GAME_EVENT_SCOURGE_INVASION_100_INVASIONS", "d0/d08/a02936.html#a7f47feca28234245c0857650572c5780aebd21704d642e8c639d27c629e0f2cec", null ],
+      [ "GAME_EVENT_SCOURGE_INVASION_150_INVASIONS", "d0/d08/a02936.html#a7f47feca28234245c0857650572c5780a59cd78d1eaeb1a9230d809b097a6db91", null ],
+      [ "GAME_EVENT_SCOURGE_INVASION_INVASIONS_DONE", "d0/d08/a02936.html#a7f47feca28234245c0857650572c5780a720302fea42989e522858f081bd3e81a", null ],
+      [ "GAME_EVENT_ZOMBIE_INFESTATION_PHASE_1", "d0/d08/a02936.html#a7f47feca28234245c0857650572c5780a2320f504c627efe24ba658a63a567ddb", null ],
+      [ "GAME_EVENT_ZOMBIE_INFESTATION_PHASE_2", "d0/d08/a02936.html#a7f47feca28234245c0857650572c5780a07163bee23085343e22bc320691f64ca", null ],
+      [ "GAME_EVENT_ZOMBIE_INFESTATION_PHASE_3", "d0/d08/a02936.html#a7f47feca28234245c0857650572c5780a9d145b5961ef8d40ceb2a89a42efe737", null ],
+      [ "GAME_EVENT_ZOMBIE_INFESTATION_PHASE_4", "d0/d08/a02936.html#a7f47feca28234245c0857650572c5780abe3bc1461233c717b8bd0c621e02df82", null ],
+      [ "GAME_EVENT_ZOMBIE_INFESTATION_PHASE_5", "d0/d08/a02936.html#a7f47feca28234245c0857650572c5780ad25ee48989ef11b8e677d7960a9e590a", null ],
+      [ "GAME_EVENT_ZOMBIE_INFESTATION_PHASE_6", "d0/d08/a02936.html#a7f47feca28234245c0857650572c5780a36f67cbb26c2593bf92b629e2ef4f81c", null ],
+      [ "GAME_EVENT_QUEL_DANAS_PHASE_1", "d0/d08/a02936.html#a7f47feca28234245c0857650572c5780ae5520992190d7cad4d3003679f654164", null ],
+      [ "GAME_EVENT_QUEL_DANAS_PHASE_2_ONLY", "d0/d08/a02936.html#a7f47feca28234245c0857650572c5780ac5cb6f79cbb24ebcb7f9c508826b8f32", null ],
+      [ "GAME_EVENT_QUEL_DANAS_PHASE_2_PERMANENT", "d0/d08/a02936.html#a7f47feca28234245c0857650572c5780a865824023c30d8881ad0d473fc74d850", null ],
+      [ "GAME_EVENT_QUEL_DANAS_PHASE_2_NO_PORTAL", "d0/d08/a02936.html#a7f47feca28234245c0857650572c5780a955ffa53767730c30e65fb0b1a19cd2e", null ],
+      [ "GAME_EVENT_QUEL_DANAS_PHASE_2_PORTAL", "d0/d08/a02936.html#a7f47feca28234245c0857650572c5780a098f13784dc87ba5eb03fdb180918bd3", null ],
+      [ "GAME_EVENT_QUEL_DANAS_PHASE_3_ONLY", "d0/d08/a02936.html#a7f47feca28234245c0857650572c5780a3bbe84b7ad256db4c8a69f40d1d9906f", null ],
+      [ "GAME_EVENT_QUEL_DANAS_PHASE_3_PERMANENT", "d0/d08/a02936.html#a7f47feca28234245c0857650572c5780abc22f906ec988e522bb3fbd9d5f49b2b", null ],
+      [ "GAME_EVENT_QUEL_DANAS_PHASE_3_NO_ANVIL", "d0/d08/a02936.html#a7f47feca28234245c0857650572c5780a982866fd1ea3dc7295b56478278dcc6d", null ],
+      [ "GAME_EVENT_QUEL_DANAS_PHASE_3_ANVIL", "d0/d08/a02936.html#a7f47feca28234245c0857650572c5780a858498a06e8dad4b35e61d229573239f", null ],
+      [ "GAME_EVENT_QUEL_DANAS_PHASE_4", "d0/d08/a02936.html#a7f47feca28234245c0857650572c5780a98d4bd3e61e229b461dc177eece1e83a", null ],
+      [ "GAME_EVENT_QUEL_DANAS_PHASE_4_NO_MONUMENT", "d0/d08/a02936.html#a7f47feca28234245c0857650572c5780a9974731c2acb170f5647424100e43c7a", null ],
+      [ "GAME_EVENT_QUEL_DANAS_PHASE_4_MONUMENT", "d0/d08/a02936.html#a7f47feca28234245c0857650572c5780a2fbc409aeb61c5d20ff2393062741bff", null ],
+      [ "GAME_EVENT_QUEL_DANAS_PHASE_4_NO_ALCHEMY_LAB", "d0/d08/a02936.html#a7f47feca28234245c0857650572c5780a34ba50ef842ffe3bb0b34660b6da6c86", null ],
+      [ "GAME_EVENT_QUEL_DANAS_PHASE_4_ALCHEMY_LAB", "d0/d08/a02936.html#a7f47feca28234245c0857650572c5780afa50c0d5d0af7ac2567dca5d916f842c", null ],
+      [ "GAME_EVENT_QUEL_DANAS_PHASE_4_KIRU", "d0/d08/a02936.html#a7f47feca28234245c0857650572c5780a8272eb3e0a97f786160757d670d64b21", null ],
+      [ "GAME_EVENT_SWP_GATES_PHASE_0", "d0/d08/a02936.html#a7f47feca28234245c0857650572c5780ae77dd18a9c0bb1d3f2194ae6d402b423", null ],
+      [ "GAME_EVENT_SWP_GATES_PHASE_1", "d0/d08/a02936.html#a7f47feca28234245c0857650572c5780a9dfc64311fa072d23db3fd0f2602ec9b", null ],
+      [ "GAME_EVENT_SWP_GATES_PHASE_2", "d0/d08/a02936.html#a7f47feca28234245c0857650572c5780aef10a818749572edf44cfa356ecd4e2c", null ],
+      [ "GAME_EVENT_SWP_GATES_PHASE_3", "d0/d08/a02936.html#a7f47feca28234245c0857650572c5780ac22176a2f30abaea84dd6dd7d01cd3e8", null ]
     ] ],
-    [ "AddSC_event_brewfest_scripts", "d0/d08/a02936.html#a7b95e86ce715aad734d059cfc0cf88d7", null ],
-    [ "AntagonistPos", "d0/d08/a02936.html#ae08d67fac7772287f656a8ac94adbfb1", null ]
+    [ "WorldStateSaveIds", "d0/d08/a02936.html#affad9750ec1568c3314d687af290f2ac", [
+      [ "SAVE_ID_SCOURGE_INVASION", "d0/d08/a02936.html#affad9750ec1568c3314d687af290f2acad1cfed631a6d170354306de21a9c8e10", null ],
+      [ "SAVE_ID_QUEL_DANAS", "d0/d08/a02936.html#affad9750ec1568c3314d687af290f2acaef8c621060f45cd17565368474467453", null ]
+    ] ],
+    [ "WorldStateSpells", "d0/d08/a02936.html#a882a758e503627632aa1d2a878086d91", [
+      [ "SPELL_ADAL_SONG_OF_BATTLE", "d0/d08/a02936.html#a882a758e503627632aa1d2a878086d91aee000da68d862de5291b513ea52734f8", null ],
+      [ "SPELL_TROLLBANES_COMMAND", "d0/d08/a02936.html#a882a758e503627632aa1d2a878086d91a73c7be494acfdbd7532eaf802ab4598d", null ],
+      [ "SPELL_NAZGRELS_FAVOR", "d0/d08/a02936.html#a882a758e503627632aa1d2a878086d91a02b7508a9e44658cb4bf28d1bb487d60", null ],
+      [ "SPELL_KIRU_SONG_OF_VICTORY", "d0/d08/a02936.html#a882a758e503627632aa1d2a878086d91ace9722c8f1cdbfc30998ca2e9cfbc5a3", null ]
+    ] ]
 ];

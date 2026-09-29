@@ -1,7 +1,11 @@
 var a11379 =
 [
-    [ "AutoEquipItem", "d6/d75/a11379.html#a60accc2bf5c484753f94a8fe947e8f36", null ],
-    [ "Read", "d6/d75/a11379.html#a187bcedbc110adc332c0cb1de2bd7d9c", null ],
-    [ "SourceBag", "d6/d75/a11379.html#ad8fe37595168bc57fcd4af46bdbfafdc", null ],
-    [ "SourceSlot", "d6/d75/a11379.html#aee1f081b0775d7fc9eb67764a9249ec5", null ]
+    [ "DestroyItem", "d6/d75/a11379.html#a581e8c0f5f580e812bc0988e35786ee2", null ],
+    [ "Read", "d6/d75/a11379.html#a9f7fa7614db176262437478b4d92e9f9", null ],
+    [ "Bag", "d6/d75/a11379.html#aef97bbc66f92d73b4ebd3fcf0a81c0d6", null ],
+    [ "Count", "d6/d75/a11379.html#af18875aa85f12191a47d97380f459c45", null ],
+    [ "Data1", "d6/d75/a11379.html#a34fa30122f101e15de6252c289b82680", null ],
+    [ "Data2", "d6/d75/a11379.html#a227470a5932383e0ab7b9a369dfb3445", null ],
+    [ "Data3", "d6/d75/a11379.html#a019a891e4906ce9dafef6e276d635df7", null ],
+    [ "Slot", "d6/d75/a11379.html#af8274f1ded5565dc0f79e28948825ea2", null ]
 ];

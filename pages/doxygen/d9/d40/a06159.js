@@ -1,27 +1,8 @@
 var a06159 =
 [
-    [ "ModuleDatabasePool", "d9/d40/a06159.html#af8d18de072ca4201af4b4c1b48c415df", null ],
-    [ "~ModuleDatabasePool", "d9/d40/a06159.html#a750bd8c6be7d1949c7d9e27ba658d946", null ],
-    [ "Close", "d9/d40/a06159.html#ac47fd61a348375a51c8e070a8ea94a55", null ],
-    [ "CreateConnection", "d9/d40/a06159.html#adc22762e968e149eb1e7d50e42be4124", null ],
-    [ "DirectCommitTransaction", "d9/d40/a06159.html#a08e7e387d0b0ab0413004e3941b7857d", null ],
-    [ "DirectExecute", "d9/d40/a06159.html#a41794a51df70123abc407551dc8a6ef9", null ],
-    [ "DirectExecute", "d9/d40/a06159.html#aa807cd32e5867e10e2d1b9a638aa0d2f", null ],
-    [ "Execute", "d9/d40/a06159.html#a8af523a864c896ce603d78c8ad4efae1", null ],
-    [ "Execute", "d9/d40/a06159.html#acbd82376dc24d7f8d95610cd36b75d35", null ],
-    [ "Execute", "d9/d40/a06159.html#a01ea55a23a096053d0fe9735d210a806", null ],
-    [ "GetConnectionInfo", "d9/d40/a06159.html#af2e47f7001895efcf21b492ae617fa7a", null ],
-    [ "GetFreeConnection", "d9/d40/a06159.html#a23176a81d378561f8764e9bbc89c7590", null ],
-    [ "GetPreparedStatementParamCount", "d9/d40/a06159.html#a116331c957129716f017efe2f2ccbe32", null ],
-    [ "KeepAlive", "d9/d40/a06159.html#a4ec964d95a6ac6ea768f4928cc1cfb4d", null ],
-    [ "Open", "d9/d40/a06159.html#a6d9c5b8070d823098be7c16f2b7e1943", null ],
-    [ "PrepareStatements", "d9/d40/a06159.html#acedcae17842e201c844e37f58a410a00", null ],
-    [ "Query", "d9/d40/a06159.html#a55b2ceed634b8426a41b3e884eabe886", null ],
-    [ "Query", "d9/d40/a06159.html#a252303af9c35d25fd44f1859b734cfe7", null ],
-    [ "Query", "d9/d40/a06159.html#a510e47bea4d2c0d29fdc22a54851d4d0", null ],
-    [ "SetConnectionInfo", "d9/d40/a06159.html#a7d43fbdfed2552b4a573bdb7c770586b", null ],
-    [ "_connectionInfo", "d9/d40/a06159.html#a82555d89b9d6199f0812d49c83c7ee6a", null ],
-    [ "_connections", "d9/d40/a06159.html#ae5ae538b51fc2b38f16078c6d5f4b596", null ],
-    [ "_preparedStatementSize", "d9/d40/a06159.html#aa9bf3a39aaa558e8c2a4fd0261b2953f", null ],
-    [ "_synchThreads", "d9/d40/a06159.html#a51d965114abce5a18d063ac82b32af76", null ]
+    [ "Statements", "d9/d40/a06159.html#adaf49f7cb45d90cb041f979b1821e4a1", null ],
+    [ "WorldDatabaseConnection", "d9/d40/a06159.html#a0c03387d2c019c86d1fe4933eca6aae5", null ],
+    [ "WorldDatabaseConnection", "d9/d40/a06159.html#a015f79a049d37f742232bc5ac10e9551", null ],
+    [ "~WorldDatabaseConnection", "d9/d40/a06159.html#a2feafa80fe8e838587d8f7b641c0ab09", null ],
+    [ "DoPrepareStatements", "d9/d40/a06159.html#a280aa4a4571581c5cef8f9967631b484", null ]
 ];

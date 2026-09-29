@@ -1,10 +1,7 @@
 var a19795 =
 [
-    [ "npc_power_spark", "d9/db5/a19795.html#a97ec0ed1157578fb7e1d8c4e146b2a4f", null ],
-    [ "DamageTaken", "d9/db5/a19795.html#afe33d511823666929232bfd0179ee72a", null ],
-    [ "DoAction", "d9/db5/a19795.html#ab99a859ee718d49ce59171e7e7159abc", null ],
-    [ "UpdateAI", "d9/db5/a19795.html#ab36e75c87aa262a57be1594289284730", null ],
-    [ "_checkTimer", "d9/db5/a19795.html#ae63f0f359037363b840fe51a797969b5", null ],
-    [ "_instance", "d9/db5/a19795.html#a776b7fef26fd67961b0fdf0596d7beb2", null ],
-    [ "_moveTimer", "d9/db5/a19795.html#a52c953a524bb7f26c6713ac5d83eb068", null ]
+    [ "npc_naxxramas_trigger", "d9/db5/a19795.html#a62fd64468daf378fbe2e8f18b1f002f8", null ],
+    [ "Reset", "d9/db5/a19795.html#a5bf85ab6027ca5101df32cda6df29b28", null ],
+    [ "UpdateAI", "d9/db5/a19795.html#acd051dd7790aa37cd2375479433509cb", null ],
+    [ "_events", "d9/db5/a19795.html#a1ab25fd0b40f373d30b0f60462dd276b", null ]
 ];

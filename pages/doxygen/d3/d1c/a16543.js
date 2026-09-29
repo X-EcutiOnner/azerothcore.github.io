@@ -1,7 +1,6 @@
 var a16543 =
 [
-    [ "OnRemove", "d3/d1c/a16543.html#afb0821bc8774e634eefdd87efe6af945", null ],
-    [ "PrepareAuraScript", "d3/d1c/a16543.html#a54b1de501bdf3193cdb89125bc1ceb0e", null ],
-    [ "Register", "d3/d1c/a16543.html#a985ad6d7eca06fbaf869e591136f46a3", null ],
-    [ "Validate", "d3/d1c/a16543.html#aa794b76c4d9590b867dda57f02724d95", null ]
+    [ "instance_azjol_nerub_InstanceScript", "d7/d8e/a16547.html", "d7/d8e/a16547" ],
+    [ "instance_azjol_nerub", "d3/d1c/a16543.html#a61476a0d15136d2bdb3a65eca72963da", null ],
+    [ "GetInstanceScript", "d3/d1c/a16543.html#a8bb8477669c6369afe508a400bd4d489", null ]
 ];

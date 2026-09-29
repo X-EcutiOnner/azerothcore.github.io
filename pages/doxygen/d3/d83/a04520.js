@@ -1,12 +1,9 @@
 var a04520 =
 [
-    [ "BinarySpellDetectionTest", "d0/dc2/a30039.html", "d0/dc2/a30039" ],
-    [ "ShouldMarkBinary", "d3/d83/a04520.html#ab2154405a408271aa60863454b0303fe", null ],
-    [ "TEST_F", "d3/d83/a04520.html#ae8ecca79d16f8a89b183cf4611dad5d0", null ],
-    [ "TEST_F", "d3/d83/a04520.html#afb1918ddefeb036bd6be1fbde953b78b", null ],
-    [ "TEST_F", "d3/d83/a04520.html#a1dc398eff0ed30b3e1997c3b27980bed", null ],
-    [ "TEST_F", "d3/d83/a04520.html#ad56defbc63a988ba5126194ff9cea5ec", null ],
-    [ "TEST_F", "d3/d83/a04520.html#a54fa8a3ce4060060ece3f2a2d9e852e7", null ],
-    [ "TEST_F", "d3/d83/a04520.html#aa1b8d26dc43fa9eaf1d827a0c4308dd1", null ],
-    [ "TEST_F", "d3/d83/a04520.html#a4e6cbd19c7f85354ce9a5f5a9a1bafe6", null ]
+    [ "PeriodicAbsorbStealthProcTest", "d2/d38/a30083.html", "d2/d38/a30083" ],
+    [ "TEST_F", "d3/d83/a04520.html#a7b28cb80729f223f6772fd88f7441c0b", null ],
+    [ "TEST_F", "d3/d83/a04520.html#af38e03c4149e38394abfe3d5406f75f1", null ],
+    [ "TEST_F", "d3/d83/a04520.html#afd68d87fc4d1d7cc374fc6b9ff683a15", null ],
+    [ "TEST_F", "d3/d83/a04520.html#a92938638e5fd7cecefeef4d8793fc666", null ],
+    [ "TEST_F", "d3/d83/a04520.html#a21b7dc27da143cb66ebe44eb44b932cc", null ]
 ];

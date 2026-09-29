@@ -1,8 +1,5 @@
 var a20979 =
 [
-    [ "npc_xt002_heart", "db/d08/a20979.html#aa4a3c9e4a66f1d6adab07282961685e9", null ],
-    [ "DoAction", "db/d08/a20979.html#a3150ab74ea50c9de6d937b3271e782de", null ],
-    [ "JustDied", "db/d08/a20979.html#a4f62cabc74ad43cf53f2257902982dff", null ],
-    [ "Reset", "db/d08/a20979.html#a0b60b84d9fc0abcb44d3f432420a7865", null ],
-    [ "_instance", "db/d08/a20979.html#a90edf95809c2d8a25b3f75526d2d3db7", null ]
+    [ "achievement_thorim_stand_in_the_lightning", "db/d08/a20979.html#a9339e89e4eb76151fdeacb6bcd53d7bc", null ],
+    [ "OnCheck", "db/d08/a20979.html#ade1aec4de4c503be5a62da3e6c35e90f", null ]
 ];

@@ -1,6 +1,6 @@
 var a27355 =
 [
-    [ "HandleEffectPeriodic", "d9/d70/a27355.html#ab283b40ceb6dcd0a835550531321ce92", null ],
-    [ "PrepareAuraScript", "d9/d70/a27355.html#a6d6efe0be7cefeb20c386c83dee561d4", null ],
-    [ "Register", "d9/d70/a27355.html#a4c69f350a68c1f4dd429ab52a791f3cd", null ]
+    [ "HandleScript", "d9/d70/a27355.html#a8866d650b96c4cae3201a2829cbeff3d", null ],
+    [ "PrepareSpellScript", "d9/d70/a27355.html#aa16f51aa8a4fea2a84cadbb01d18b635", null ],
+    [ "Register", "d9/d70/a27355.html#aeaa094c8d1f3407bf56d58d88c2238a1", null ]
 ];

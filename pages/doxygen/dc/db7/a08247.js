@@ -1,7 +1,5 @@
 var a08247 =
 [
-    [ "StoreTo", "dc/db7/a08247.html#a1f368b832f95ce4acc6ed47ad4ca2e8d", null ],
-    [ "StoreTo", "dc/db7/a08247.html#a3d9382dd50447477f9f04bc0f055e55c", null ],
-    [ "StoreTo", "dc/db7/a08247.html#a071922c9c431637de3cb2d6b52def7bd", null ],
-    [ "StoreTo", "dc/db7/a08247.html#a45556cc3ac64a6692ef08d6d93d48a4d", null ]
+    [ "Entry", "dc/db7/a08247.html#a057a5b8b65db8b8084b79a217a95308d", null ],
+    [ "RawGuid", "dc/db7/a08247.html#a0167a663fcde7c1de2b15e3622f90c7c", null ]
 ];

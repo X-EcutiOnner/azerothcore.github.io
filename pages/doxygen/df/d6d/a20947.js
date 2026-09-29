@@ -1,11 +1,9 @@
 var a20947 =
 [
-    [ "boss_thorim_arena_npcs", "df/d6d/a20947.html#a849567e412254aa8d0d7da33b6b1522f", null ],
-    [ "CanAIAttack", "df/d6d/a20947.html#aa4f90aadf8a9705fea03433195d41ad0", null ],
-    [ "JustEngagedWith", "df/d6d/a20947.html#a2f23cddcf5a0db42ba24730dfbe54976", null ],
-    [ "Reset", "df/d6d/a20947.html#a7b118ec6fa25c0f452419d1f5b4a698f", null ],
-    [ "SelectT", "df/d6d/a20947.html#a3fa38189c886a486aabb39a372834938", null ],
-    [ "UpdateAI", "df/d6d/a20947.html#a6a8489763ca223c749aa71c2da05b3cf", null ],
-    [ "_isCaster", "df/d6d/a20947.html#abfd184437df3983659a9ae21a13638fb", null ],
-    [ "events", "df/d6d/a20947.html#aad99dd6ca7d3595222ce42b5b859e462", null ]
+    [ "boss_thorim_gauntlet_npcs", "df/d6d/a20947.html#a72ed22f7536d488f886fb42ab3fc84bb", null ],
+    [ "JustEngagedWith", "df/d6d/a20947.html#af10a444bada5743c837a9979726c79c9", null ],
+    [ "Reset", "df/d6d/a20947.html#a22fcffcc05f155524cadade389ec3607", null ],
+    [ "UpdateAI", "df/d6d/a20947.html#a86cec45bbbb8e904200ee0bcc6e44822", null ],
+    [ "_isCaster", "df/d6d/a20947.html#a1562e3ba5a7559f6eba9c3a0240a1e20", null ],
+    [ "events", "df/d6d/a20947.html#aec35e2b91841c386f083681673e15598", null ]
 ];

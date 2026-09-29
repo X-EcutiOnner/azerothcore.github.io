@@ -1,8 +1,7 @@
 var a19823 =
 [
-    [ "Load", "d3/d7b/a19823.html#a7bb0a7c71fb3b9958226069ed6e3399b", null ],
-    [ "OnRemove", "d3/d7b/a19823.html#a1d9a8a8b289f565712ab79e9857f6eb7", null ],
-    [ "PrepareAuraScript", "d3/d7b/a19823.html#aae6c3a215b09fd2270976190600e2cc4", null ],
-    [ "Register", "d3/d7b/a19823.html#aa2c970e4e5b84d79960023c79e95f9c3", null ],
-    [ "Validate", "d3/d7b/a19823.html#ae4ac76269793280335d76a78e5dced91", null ]
+    [ "npc_alexstrasza", "d3/d7b/a19823.html#a38c68ff4e0ba73218ff18c8bf95c8d4c", null ],
+    [ "AttackStart", "d3/d7b/a19823.html#ab47f439968b7e9358158eae3e31f4e29", null ],
+    [ "MoveInLineOfSight", "d3/d7b/a19823.html#acadf7b1ff63e266fd1f6eeaf533f9514", null ],
+    [ "UpdateAI", "d3/d7b/a19823.html#aec1c93eee408ecefbceec22be4b90dba", null ]
 ];

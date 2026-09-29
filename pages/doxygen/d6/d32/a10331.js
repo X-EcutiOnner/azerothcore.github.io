@@ -1,14 +1,11 @@
 var a10331 =
 [
-    [ "BattlegroundMap", "d6/d32/a10331.html#a3a9af8a69ac8d188d7fb86f2a9dda2c3", null ],
-    [ "~BattlegroundMap", "d6/d32/a10331.html#a327d241fd7930e9b3a98ba50014d5131", null ],
-    [ "AddPlayerToMap", "d6/d32/a10331.html#a0325279a2affc7b20a415a3b90a32fc0", null ],
-    [ "CannotEnter", "d6/d32/a10331.html#a493a1932eee44c346d9cfb7d13789bb6", null ],
-    [ "GetBG", "d6/d32/a10331.html#a2fcb965981bb03571f12c11cdbac54a4", null ],
-    [ "InitVisibilityDistance", "d6/d32/a10331.html#af2d6847765d10fab527d77b26dd770ad", null ],
-    [ "RemoveAllPlayers", "d6/d32/a10331.html#a5093cbf8005d06452eeb202513323c1e", null ],
-    [ "RemovePlayerFromMap", "d6/d32/a10331.html#aeddb9dfae8601e95b0a93cefc12c2612", null ],
-    [ "SetBG", "d6/d32/a10331.html#aaa9e5f830953b1a37a684ac566e9b768", null ],
-    [ "SetUnload", "d6/d32/a10331.html#a4c03b1aa9c4c53697ad6284825a1b9c1", null ],
-    [ "m_bg", "d6/d32/a10331.html#aa38fff695728ddedc94dd6eb6bd7bf3b", null ]
+    [ "StaticVMapCollisionData", "d6/d32/a10331.html#a5955532316bc6409c104197b086d3e3b", null ],
+    [ "GetAreaAndLiquidData", "d6/d32/a10331.html#afcbfd82bc43ad5dbce5edc35608a0d38", null ],
+    [ "getHeight", "d6/d32/a10331.html#ad5b245ec62bf370a479c8fdb0eec1f40", null ],
+    [ "GetObjectHitPos", "d6/d32/a10331.html#aacf3e526a4e52c8515b3a8004e6b0a1a", null ],
+    [ "isInLineOfSight", "d6/d32/a10331.html#a79f47e4eafe0db4e449ec202ad3ef580", null ],
+    [ "MapCollisionData", "d6/d32/a10331.html#a472038a89678719bf8868ab0c75e394f", null ],
+    [ "_mapId", "d6/d32/a10331.html#a9ea6ece2bfd70cb74cbd4f6a9060e5eb", null ],
+    [ "_staticTree", "d6/d32/a10331.html#a4d73d970aa85dbbd9c70633addcdaf13", null ]
 ];

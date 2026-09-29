@@ -1,26 +1,9 @@
 var a00101 =
 [
-    [ "map_id", "d6/d9c/a30331.html", "d6/d9c/a30331" ],
-    [ "_CRT_SECURE_NO_DEPRECATE", "d4/d3a/a00101.html#a411c46599e926f8cdf49c63957255359", null ],
-    [ "MPQ_BLOCK_SIZE", "d4/d3a/a00101.html#a402d9c2814f85cee14f9bc8dbc999de8", null ],
-    [ "ExtractSingleWmo", "d4/d3a/a00101.html#afc9839262206eb10094c1769141ae146", null ],
-    [ "FileExists", "d4/d3a/a00101.html#a874186e82eed7dae3208c2d8500c5cb7", null ],
-    [ "fillArchiveNameVector", "d4/d3a/a00101.html#a32b84e03161e7056f809d12d8b7b71b2", null ],
-    [ "GenerateUniqueObjectId", "d4/d3a/a00101.html#a6a3d179f34597554b17a122f27cd6be5", null ],
-    [ "getGamePath", "d4/d3a/a00101.html#a6bb580270fe96b7e6ccb585658850d17", null ],
-    [ "main", "d4/d3a/a00101.html#a3c04138a5bfe5d72780bb7e82a18e627", null ],
-    [ "ParsMapFiles", "d4/d3a/a00101.html#a50c73ad000da4df06ae438373eeaf60e", null ],
-    [ "processArgv", "d4/d3a/a00101.html#a4a7a50243192510edc0c333ede861d50", null ],
-    [ "scan_patches", "d4/d3a/a00101.html#a995d89b97dfb31a6a8c1c4e1c96d47f4", null ],
-    [ "strToLower", "d4/d3a/a00101.html#ac9e88429cc2168db83793cb7074bc69f", null ],
-    [ "gOpenArchives", "d4/d3a/a00101.html#a8ae40ebe73635e831bc65b70e7f97f3c", null ],
-    [ "hasInputPathParam", "d4/d3a/a00101.html#a5ef7a611bb56bdaa370aaf1770059365", null ],
-    [ "input_path", "d4/d3a/a00101.html#a773984b4a48966b7ea95d0586db0210b", null ],
-    [ "map_count", "d4/d3a/a00101.html#a6fcdefd114e6ec71964d6539163fc055", null ],
-    [ "map_ids", "d4/d3a/a00101.html#a12b965536bcabf2e2edd7db2196630cd", null ],
-    [ "output_path", "d4/d3a/a00101.html#aeb9ec80db9cddb3d9ab2303f2a825d0b", null ],
-    [ "preciseVectorData", "d4/d3a/a00101.html#a2191d2ffb8973cd0ddb269bcaa06a31d", null ],
-    [ "szWorkDirWmo", "d4/d3a/a00101.html#ae79cb6c3493a63f0e1058be3bd5ba328", null ],
-    [ "uniqueObjectIds", "d4/d3a/a00101.html#a78dd87d3ceb9a2d97c7a1d0caa8d4154", null ],
-    [ "WmoDoodads", "d4/d3a/a00101.html#a17b22c7645963c9e5c277b72605a4966", null ]
+    [ "MMAP::MapTiles", "d5/ddf/a30403.html", "d5/ddf/a30403" ],
+    [ "MMAP::Tile", "de/d0c/a30407.html", "de/d0c/a30407" ],
+    [ "MMAP::TileInfo", "d6/d39/a30411.html", "d6/d39/a30411" ],
+    [ "MMAP::TileBuilder", "d6/df4/a30415.html", "d6/df4/a30415" ],
+    [ "MMAP::MapBuilder", "d2/d1f/a30419.html", "d2/d1f/a30419" ],
+    [ "TileList", "d4/d3a/a00101.html#aa2aae6f254337f29866a5d240d5ec2b1", null ]
 ];

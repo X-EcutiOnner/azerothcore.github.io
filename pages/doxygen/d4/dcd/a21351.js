@@ -1,7 +1,10 @@
 var a21351 =
 [
-    [ "HandleOnEffectRemove", "d4/dcd/a21351.html#acccd790c53f567f93e64afa7b7d1fe6f", null ],
-    [ "PrepareAuraScript", "d4/dcd/a21351.html#a72e6468602d40eb479a80c611d60eb2e", null ],
-    [ "Register", "d4/dcd/a21351.html#a213b50ebb7ce248a36dd78167d1190bb", null ],
-    [ "Validate", "d4/dcd/a21351.html#a8f3ec40c0c2e38dc32db30ce36129684", null ]
+    [ "npc_dragonflayer_forge_master", "d4/dcd/a21351.html#a642c0fb5a5010c48403b8c3dc8bc14eb", null ],
+    [ "JustDied", "d4/dcd/a21351.html#aa107e88bbc5b55a6ece5124c4081706e", null ],
+    [ "JustEngagedWith", "d4/dcd/a21351.html#a3dfb76bb5cb13624e0709f1b25414360", null ],
+    [ "Reset", "d4/dcd/a21351.html#af2c844c926b94456df796b4252e899c2", null ],
+    [ "dataId", "d4/dcd/a21351.html#a35962dcbbef32dbc7f63dfa33cffd4b4", null ],
+    [ "pInstance", "d4/dcd/a21351.html#a27b5988d777347832795581b0186c09f", null ],
+    [ "prevDataId", "d4/dcd/a21351.html#aa057cb5ae681b4b802031151ea1a3529", null ]
 ];

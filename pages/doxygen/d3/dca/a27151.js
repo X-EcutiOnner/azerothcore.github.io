@@ -1,8 +1,6 @@
 var a27151 =
 [
-    [ "HandleEffectApply", "d3/dca/a27151.html#aed959961fcd07649cd4914fcd38a3214", null ],
-    [ "if", "d3/dca/a27151.html#a1518c08cb3b5cb716b8bd01692a5160d", null ],
-    [ "PrepareAuraScript", "d3/dca/a27151.html#a42167bc6bf7992debea8582680251da4", null ],
-    [ "Register", "d3/dca/a27151.html#aa2c23abd2b90a276bd7980cadc0397a4", null ],
-    [ "AuraEffectHandleModes", "d3/dca/a27151.html#ac886dec8a2ce55af4ec58ab068c589fa", null ]
+    [ "CheckCast", "d3/dca/a27151.html#a624ee45c92b37da12204dcc95dc815ca", null ],
+    [ "PrepareSpellScript", "d3/dca/a27151.html#acdbb427ed3ebe9e2b8089a5bb50489a9", null ],
+    [ "Register", "d3/dca/a27151.html#abc4e276c4759bad63b692a467f2f88f2", null ]
 ];

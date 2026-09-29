@@ -1,7 +1,16 @@
 var a20575 =
 [
-    [ "HandleEffectPeriodic", "d6/d12/a20575.html#a428d1251465cc9947e7474eab83494e3", null ],
-    [ "PrepareAuraScript", "d6/d12/a20575.html#aa6bfb37f305531f67fa5fad67c83acb9", null ],
-    [ "Register", "d6/d12/a20575.html#a3ccee6d2c8ac244f5370d11b6a4492b6", null ],
-    [ "Validate", "d6/d12/a20575.html#a7d4ede9af946be71bbc5531164ed3f17", null ]
+    [ "npc_ulduar_hodir_shaman", "d6/d12/a20575.html#a3277cda17d5409be3426bdaa61e092cd", null ],
+    [ "AttackStart", "d6/d12/a20575.html#a933908d61afac33002411874060c0f74", null ],
+    [ "CanAIAttack", "d6/d12/a20575.html#a8907c7300cef735a70b088de3c16cfb9", null ],
+    [ "DoAction", "d6/d12/a20575.html#ae27325cc9b794a84d82faa0f410fa844", null ],
+    [ "EnterEvadeMode", "d6/d12/a20575.html#afa6124e630cd878659172a06df68d39f", null ],
+    [ "JustDied", "d6/d12/a20575.html#a08af85d3446c86443ff5a620b159d000", null ],
+    [ "MoveInLineOfSight", "d6/d12/a20575.html#a29de52dcae485f00403dae8e28ff1395", null ],
+    [ "ScheduleAbilities", "d6/d12/a20575.html#ab9aa67f07721c0bf60e9db75b5b3e888", null ],
+    [ "SpellHit", "d6/d12/a20575.html#a02476e4ddb2287c647a2a4bd7e342150", null ],
+    [ "SpellHitTarget", "d6/d12/a20575.html#a29dcb1ff2d532fa491fcdbdfcac4fbfa", null ],
+    [ "UpdateAI", "d6/d12/a20575.html#adf8d9895cdd35712fa44e4a19de1315a", null ],
+    [ "_instance", "d6/d12/a20575.html#aa09753bc9b54ea8dcc9b61a9ace77ae3", null ],
+    [ "events", "d6/d12/a20575.html#a7e147f6f230513cfb666473c61ab4be4", null ]
 ];

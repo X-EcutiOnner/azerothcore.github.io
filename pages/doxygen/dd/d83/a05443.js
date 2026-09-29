@@ -1,6 +1,4 @@
 var a05443 =
 [
-    [ "TriBoundFunc", "dd/d83/a05443.html#a42711c10595c048420a09e35e3345229", null ],
-    [ "operator()", "dd/d83/a05443.html#a29cfc8652bb5dbba5260e4faea0af2d7", null ],
-    [ "vertices", "dd/d83/a05443.html#a3c5d3e61f9a963eacf4aff4e90d8e1bb", null ]
+    [ "GetBounds", "dd/d83/a05443.html#a18367901bcdf982ed7390aa1f80b5a1a", null ]
 ];

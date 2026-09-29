@@ -1,10 +1,5 @@
 var a00683 =
 [
-    [ "GameEventScript", "d5/d88/a10843.html", "d5/d88/a10843" ],
-    [ "GameEventHook", "db/d77/a00683.html#a6f634b591917b5ff2ab57f9739afa44b", [
-      [ "GAMEEVENTHOOK_ON_START", "db/d77/a00683.html#a6f634b591917b5ff2ab57f9739afa44ba82c1717fbd1ba7a6739ce48d1fb3bab6", null ],
-      [ "GAMEEVENTHOOK_ON_STOP", "db/d77/a00683.html#a6f634b591917b5ff2ab57f9739afa44ba598d3e2c3c0ff442208e1df830a02e5d", null ],
-      [ "GAMEEVENTHOOK_ON_EVENT_CHECK", "db/d77/a00683.html#a6f634b591917b5ff2ab57f9739afa44ba584cbf2008c774dd76adfd51e416663f", null ],
-      [ "GAMEEVENTHOOK_END", "db/d77/a00683.html#a6f634b591917b5ff2ab57f9739afa44baef9ad9e7c26fbfcea336dddf0e16d395", null ]
-    ] ]
+    [ "ChatLogScript", "d2/d5e/a28315.html", "d2/d5e/a28315" ],
+    [ "AddSC_chat_log", "db/d77/a00683.html#ae796ad81a78a552e5c31fcf6c5c135fa", null ]
 ];

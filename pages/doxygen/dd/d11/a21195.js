@@ -1,8 +1,6 @@
 var a21195 =
 [
-    [ "FilterTargets", "dd/d11/a21195.html#a9079f7163e23814eccfadd393f857c22", null ],
-    [ "HandleScriptEffect", "dd/d11/a21195.html#aae469190c1edc1fe45914bad1dac4e93", null ],
-    [ "PrepareSpellScript", "dd/d11/a21195.html#a1bced7e9364a1abb7b718b6786eada9f", null ],
-    [ "Register", "dd/d11/a21195.html#a97265071f226fbd17c37d432cf9e2350", null ],
-    [ "Validate", "dd/d11/a21195.html#aeec0bdd2e39db2da657247376ddcd195", null ]
+    [ "ModSanityStacks", "dd/d11/a21195.html#a38b8425689f91b91e23096d658b462cf", null ],
+    [ "PrepareSpellScript", "dd/d11/a21195.html#a43362033f7422a0b9918ddd3b7e480cc", null ],
+    [ "Register", "dd/d11/a21195.html#a6d5e27f728ee3980d33d417fb437c9c6", null ]
 ];

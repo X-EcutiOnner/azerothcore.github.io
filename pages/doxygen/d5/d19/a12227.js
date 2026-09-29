@@ -1,13 +1,16 @@
 var a12227 =
 [
-    [ "ToCloud9GroupHooks", "d5/d19/a12227.html#a56b706ee7923e004bc1097887d645793", null ],
-    [ "~ToCloud9GroupHooks", "d5/d19/a12227.html#a05fc2da0da6f565a0bc4bc234a92046f", null ],
-    [ "OnGroupConvertedToRaid", "d5/d19/a12227.html#a104b63c83abe82809e16bc86b9649011", null ],
-    [ "OnGroupCreated", "d5/d19/a12227.html#a7fa6a2d72e6891d9ab41fc113c1a27dd", null ],
-    [ "OnGroupDisbanded", "d5/d19/a12227.html#ae47dee5f18aea4827a1b320c3ba9f607", null ],
-    [ "OnGroupDungeonDifficultyChanged", "d5/d19/a12227.html#a829c7d428363bf0720f0e27e84747b88", null ],
-    [ "OnGroupLootTypeChanged", "d5/d19/a12227.html#adad70b61a54071c25a9e1950f4b656bf", null ],
-    [ "OnGroupMemberAdded", "d5/d19/a12227.html#ad001911251ec8d9f280d5aa1ab291b7e", null ],
-    [ "OnGroupMemberRemoved", "d5/d19/a12227.html#a0c63904979beb754131797a163000ec5", null ],
-    [ "OnGroupRaidDifficultyChanged", "d5/d19/a12227.html#a0c066c39c344d750164735a4f549cf69", null ]
+    [ "ToCloud9GrpcHandler", "d5/d19/a12227.html#af858b78bb20162f5e18a5bffa6969e48", null ],
+    [ "~ToCloud9GrpcHandler", "d5/d19/a12227.html#a3f80ef49eed92d916188368b3a9f4a7d", null ],
+    [ "AddExistingItemToPlayer", "d5/d19/a12227.html#a4d97be6aec34406de54b66a7a56d3c6f", null ],
+    [ "AddPlayersToBattleground", "d5/d19/a12227.html#a8e044973ee2e3b33b2e9264f4c670ff5", null ],
+    [ "CanPlayerInteractWithGOAndType", "d5/d19/a12227.html#a3aca8d91b2bc8e6e2863f98b14cded96", null ],
+    [ "CanPlayerInteractWithNPCAndFlags", "d5/d19/a12227.html#a060a3e9719b0a01ac77550918920f5ed", null ],
+    [ "CanPlayerJoinBattlegroundQueue", "d5/d19/a12227.html#a4d9788b0d33040f0489634388c8d6100", null ],
+    [ "CanPlayerTeleportToBattleground", "d5/d19/a12227.html#ab5081c4ac20efbe5e6a93529ccd4cbc6", null ],
+    [ "GetMoneyForPlayer", "d5/d19/a12227.html#a7f0acf0cd4ec8b1e90c00e93426306cb", null ],
+    [ "GetPlayerItemsByGuids", "d5/d19/a12227.html#abc1e855186271452a1a1397d7f4ddd5b", null ],
+    [ "ModifyMoneyForPlayer", "d5/d19/a12227.html#a0e12218affdae47b44b998995a8ef806", null ],
+    [ "RemoveItemsWithGuidsFromPlayer", "d5/d19/a12227.html#ab6775d1820c7725d616c8298ccb96ced", null ],
+    [ "StartBattleground", "d5/d19/a12227.html#ade8f8c5088f62566ed6f77129719a06e", null ]
 ];

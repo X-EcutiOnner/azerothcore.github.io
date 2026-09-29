@@ -1,6 +1,12 @@
 var a17947 =
 [
-    [ "npc_saurfang_eventAI", "db/d21/a17951.html", "db/d21/a17951" ],
-    [ "npc_saurfang_event", "dc/d12/a17947.html#a3bfce5457466360458498833098d660c", null ],
-    [ "GetAI", "dc/d12/a17947.html#a953842d2fa3380a8331faf3a42cb3177", null ]
+    [ "npc_high_overlord_saurfangAI", "dc/d12/a17947.html#a5c31259d9eb26e09d2b645d826e75328", null ],
+    [ "DoAction", "dc/d12/a17947.html#a4a372a14c960c48c51a1c8e34ebffc53", null ],
+    [ "MovementInform", "dc/d12/a17947.html#a6a46f99ffb67a699ef9adb2a1afcbe13", null ],
+    [ "Reset", "dc/d12/a17947.html#a28899c61f9b4d3612535d1a01dc05f4a", null ],
+    [ "SpellHit", "dc/d12/a17947.html#a6399e9c9ecdb8c01fbd2bcd1b081811f", null ],
+    [ "UpdateAI", "dc/d12/a17947.html#a92124e7490a066bf63836397a3bdc71b", null ],
+    [ "_events", "dc/d12/a17947.html#a12bbe13cf8fd1eda0cb8aa75ecafddc4", null ],
+    [ "_guardList", "dc/d12/a17947.html#ac1496627bdf326163256045bd068bc4f", null ],
+    [ "_instance", "dc/d12/a17947.html#a4181022e52fc10e2d5d98dcffe9ced62", null ]
 ];

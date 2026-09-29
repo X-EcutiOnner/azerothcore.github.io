@@ -1,4 +1,5 @@
 var a00872 =
 [
-    [ "ScriptRegistry< GuildScript >", "dc/d17/a00872.html#af7c126caabb7b664b2a28086b5f7737e", null ]
+    [ "reset_commandscript", "de/d82/a12679.html", "de/d82/a12679" ],
+    [ "AddSC_reset_commandscript", "dc/d17/a00872.html#ae4c7679595ac3aac5f03426eb6e0e6e4", null ]
 ];

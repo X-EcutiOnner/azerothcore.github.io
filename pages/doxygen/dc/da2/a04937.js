@@ -1,5 +1,5 @@
 var a04937 =
 [
-    [ "EventMap", "de/d29/a05867.html", "de/d29/a05867" ],
-    [ "EventMap::Event", "d5/dfd/a05871.html", "d5/dfd/a05871" ]
+    [ "Acore::AhoCorasick< CharT >", "df/d51/a05835.html", "df/d51/a05835" ],
+    [ "Acore::AhoCorasick< CharT >::Node", "dd/d49/a05839.html", "dd/d49/a05839" ]
 ];

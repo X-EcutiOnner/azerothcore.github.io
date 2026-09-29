@@ -1,7 +1,6 @@
 var a18135 =
 [
-    [ "npc_gunship_rocketeerAI", "d5/d46/a18135.html#aa9e722f32cd95fff8c72db5a41d0e84c", null ],
-    [ "CanAIAttack", "d5/d46/a18135.html#a4b4e2839e426bdb752beea09394f13dc", null ],
-    [ "MovementInform", "d5/d46/a18135.html#a7dd7f3625b177a96bcfdc5e46d944562", null ],
-    [ "UpdateAI", "d5/d46/a18135.html#af73d71750f116fb90be1c2acba75ca70", null ]
+    [ "npc_gunship_gunnerAI", "df/d35/a18139.html", "df/d35/a18139" ],
+    [ "npc_gunship_gunner", "d5/d46/a18135.html#a409711f22b35eae0c0d48bc23545e592", null ],
+    [ "GetAI", "d5/d46/a18135.html#a2b28f5edfddf7a8c94a2a5475ec575dc", null ]
 ];

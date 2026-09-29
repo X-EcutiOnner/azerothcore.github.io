@@ -1,6 +1,7 @@
 var a21039 =
 [
-    [ "HandleScript", "d7/d15/a21039.html#aade3cab1f80d1762bfad48407f4b91cc", null ],
-    [ "PrepareSpellScript", "d7/d15/a21039.html#ab20e548d7c0a837ee4cb7198c09e53ee", null ],
-    [ "Register", "d7/d15/a21039.html#a48a0a37b8e6f799ee9035bb766fd6db2", null ]
+    [ "FilterTargets", "d7/d15/a21039.html#a582691eca81b6db6d78ca925ad8fb084", null ],
+    [ "PrepareSpellScript", "d7/d15/a21039.html#a28ce9d2750c79b2b0061b00df5ae9e8b", null ],
+    [ "RecalculateDamage", "d7/d15/a21039.html#a02c1af0414de344056b2375488f23c01", null ],
+    [ "Register", "d7/d15/a21039.html#a1e030067944878000b731edf456d6bc8", null ]
 ];

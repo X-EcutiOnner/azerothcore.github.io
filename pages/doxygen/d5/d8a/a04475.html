@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/test/server/game/Spells/VehicleScalingUlduarTest.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/test/server/game/Spells/SpellScriptMissileBarrageTest.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -107,109 +107,117 @@ $(document).ready(function(){initNavTree('d5/d8a/a04475.html','../../'); initRes
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
 <a href="#namespaces">Namespaces</a> &#124;
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">VehicleScalingUlduarTest.cpp File Reference</div></div>
+<a href="#func-members">Functions</a> &#124;
+<a href="#var-members">Variables</a>  </div>
+  <div class="headertitle"><div class="title">SpellScriptMissileBarrageTest.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>Tests for Ulduar vehicle gear scaling formula.  
+<p><a class="el" href="../../d9/d33/a09227.html">Unit</a> tests for Missile Barrage (44404-44408) proc behavior.  
 <a href="#details">More...</a></p>
 <div class="textblock"><code>#include &quot;gtest/gtest.h&quot;</code><br />
-<code>#include &lt;algorithm&gt;</code><br />
-<code>#include &lt;cmath&gt;</code><br />
-<code>#include &lt;cstdint&gt;</code><br />
+<code>#include &quot;<a class="el" href="../../">SpellInfo.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SpellMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SharedDefines.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dbf/a30195.html">UlduarVehicleScaleTest</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d19/a30207.html">MissileBarrageTest</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
 Namespaces</h2></td></tr>
-<tr class="memitem:d3/d6e/a05227"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d6e/a05227.html">anonymous_namespace{VehicleScalingUlduarTest.cpp}</a></td></tr>
+<tr class="memitem:d7/d03/a05230"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d03/a05230.html">MageSpellFlags</a></td></tr>
+<tr class="memdesc:d7/d03/a05230"><td class="mdescLeft">&#160;</td><td class="mdescRight">Get the SpellFamilyFlags[0] for common Mage spells. <br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:acdecfc5cf74175c6a000957c02da9cc4"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d6e/a05227.html#acdecfc5cf74175c6a000957c02da9cc4">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale</a> (float totalAdjustedILvl)</td></tr>
-<tr class="memdesc:acdecfc5cf74175c6a000957c02da9cc4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Mirrors the Ulduar vehicle scaling formula from <a class="el" href="../../d8/ddf/a25415.html#a40ba021accd581745f07f2586545853c">spell_gen_vehicle_scaling_aura::CalculateAmount</a>.  <a href="../../d3/d6e/a05227.html#acdecfc5cf74175c6a000957c02da9cc4">More...</a><br /></td></tr>
-<tr class="separator:acdecfc5cf74175c6a000957c02da9cc4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7bee56888580618bb23f42cc8f9edc92"><td class="memItemLeft" align="right" valign="top">int32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d6e/a05227.html#a7bee56888580618bb23f42cc8f9edc92">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount</a> (float totalAdjustedILvl)</td></tr>
-<tr class="memdesc:a7bee56888580618bb23f42cc8f9edc92"><td class="mdescLeft">&#160;</td><td class="mdescRight">Mirrors the final int32 amount stored on the aura effect (a percent).  <a href="../../d3/d6e/a05227.html#a7bee56888580618bb23f42cc8f9edc92">More...</a><br /></td></tr>
-<tr class="separator:a7bee56888580618bb23f42cc8f9edc92"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa21e2162e63f4227effb0e9524258f2d"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d6e/a05227.html#aa21e2162e63f4227effb0e9524258f2d">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcScaledVehicleValue</a> (float baseValue, float totalAdjustedILvl)</td></tr>
-<tr class="memdesc:aa21e2162e63f4227effb0e9524258f2d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Resulting vehicle stat after the aura: base * (1 + amount / 100).  <a href="../../d3/d6e/a05227.html#aa21e2162e63f4227effb0e9524258f2d">More...</a><br /></td></tr>
-<tr class="separator:aa21e2162e63f4227effb0e9524258f2d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a98ca9fe59822ecd339c6fb8329340dde"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8a/a04475.html#a98ca9fe59822ecd339c6fb8329340dde">TEST_F</a> (<a class="el" href="../../d9/dbf/a30195.html">UlduarVehicleScaleTest</a>, BaselineNoGear)</td></tr>
-<tr class="separator:a98ca9fe59822ecd339c6fb8329340dde"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adfff5b21f8a78f9d8ddbd3dd6dc678a9"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8a/a04475.html#adfff5b21f8a78f9d8ddbd3dd6dc678a9">TEST_F</a> (<a class="el" href="../../d9/dbf/a30195.html">UlduarVehicleScaleTest</a>, MinimumScalingThreshold)</td></tr>
-<tr class="separator:adfff5b21f8a78f9d8ddbd3dd6dc678a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a77f70e6e60572369f011d499de48499f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8a/a04475.html#a77f70e6e60572369f011d499de48499f">TEST_F</a> (<a class="el" href="../../d9/dbf/a30195.html">UlduarVehicleScaleTest</a>, NaxxramasEntryGear)</td></tr>
-<tr class="separator:a77f70e6e60572369f011d499de48499f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af96e2f92094886a5993a36d06aa584c0"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8a/a04475.html#af96e2f92094886a5993a36d06aa584c0">TEST_F</a> (<a class="el" href="../../d9/dbf/a30195.html">UlduarVehicleScaleTest</a>, NaxxramasBiSGear)</td></tr>
-<tr class="separator:af96e2f92094886a5993a36d06aa584c0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae17af8669e2b2e53739a593bca36f20b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8a/a04475.html#ae17af8669e2b2e53739a593bca36f20b">TEST_F</a> (<a class="el" href="../../d9/dbf/a30195.html">UlduarVehicleScaleTest</a>, Ulduar10Gear)</td></tr>
-<tr class="separator:ae17af8669e2b2e53739a593bca36f20b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1ae53b56b33568cec2c078a3e9e32ea6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8a/a04475.html#a1ae53b56b33568cec2c078a3e9e32ea6">TEST_F</a> (<a class="el" href="../../d9/dbf/a30195.html">UlduarVehicleScaleTest</a>, Ulduar25Gear)</td></tr>
-<tr class="separator:a1ae53b56b33568cec2c078a3e9e32ea6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa79cf02be088752762c99510284dc0fa"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8a/a04475.html#aa79cf02be088752762c99510284dc0fa">TEST_F</a> (<a class="el" href="../../d9/dbf/a30195.html">UlduarVehicleScaleTest</a>, UlduarBiSGear)</td></tr>
-<tr class="separator:aa79cf02be088752762c99510284dc0fa"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acbc00d4e2188706ec391791695b23e0c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8a/a04475.html#acbc00d4e2188706ec391791695b23e0c">TEST_F</a> (<a class="el" href="../../d9/dbf/a30195.html">UlduarVehicleScaleTest</a>, ToCBiSGear)</td></tr>
-<tr class="separator:acbc00d4e2188706ec391791695b23e0c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6204c0ebff39e559940d5bfd14410b00"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8a/a04475.html#a6204c0ebff39e559940d5bfd14410b00">TEST_F</a> (<a class="el" href="../../d9/dbf/a30195.html">UlduarVehicleScaleTest</a>, ICCBiSGear)</td></tr>
-<tr class="separator:a6204c0ebff39e559940d5bfd14410b00"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a691b1f51530aefd24b776a186d3edf9d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8a/a04475.html#a691b1f51530aefd24b776a186d3edf9d">TEST_F</a> (<a class="el" href="../../d9/dbf/a30195.html">UlduarVehicleScaleTest</a>, RSBiSGear)</td></tr>
-<tr class="separator:a691b1f51530aefd24b776a186d3edf9d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8418c7e94d66e6a5c9f61c9dd5deeb43"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8a/a04475.html#a8418c7e94d66e6a5c9f61c9dd5deeb43">TEST_F</a> (<a class="el" href="../../d9/dbf/a30195.html">UlduarVehicleScaleTest</a>, AllEpicNoPenalty)</td></tr>
-<tr class="separator:a8418c7e94d66e6a5c9f61c9dd5deeb43"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aee7adb4d2a4892c3cd902c1cd248eb11"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8a/a04475.html#aee7adb4d2a4892c3cd902c1cd248eb11">TEST_F</a> (<a class="el" href="../../d9/dbf/a30195.html">UlduarVehicleScaleTest</a>, OneRareItemPenalty)</td></tr>
-<tr class="separator:aee7adb4d2a4892c3cd902c1cd248eb11"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6984febda90dbdc1cdda96a3cd5af830"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8a/a04475.html#a6984febda90dbdc1cdda96a3cd5af830">TEST_F</a> (<a class="el" href="../../d9/dbf/a30195.html">UlduarVehicleScaleTest</a>, OneUncommonItemPenalty)</td></tr>
-<tr class="separator:a6984febda90dbdc1cdda96a3cd5af830"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4fbf14b61deee8b36f80b0133f24edf3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8a/a04475.html#a4fbf14b61deee8b36f80b0133f24edf3">TEST_F</a> (<a class="el" href="../../d9/dbf/a30195.html">UlduarVehicleScaleTest</a>, MixedQualityPenalty)</td></tr>
-<tr class="separator:a4fbf14b61deee8b36f80b0133f24edf3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a41d0ab57629ac19ea2d4b553a4653fe9"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8a/a04475.html#a41d0ab57629ac19ea2d4b553a4653fe9">TEST_F</a> (<a class="el" href="../../d9/dbf/a30195.html">UlduarVehicleScaleTest</a>, FloorAtLowItemLevel)</td></tr>
-<tr class="separator:a41d0ab57629ac19ea2d4b553a4653fe9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae018eecb05f49542ee23caca3b50c2f0"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8a/a04475.html#ae018eecb05f49542ee23caca3b50c2f0">TEST_F</a> (<a class="el" href="../../d9/dbf/a30195.html">UlduarVehicleScaleTest</a>, FloorWithQualityPenalty)</td></tr>
-<tr class="separator:ae018eecb05f49542ee23caca3b50c2f0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a51b639d3be67c69499ebcc4139f0107f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8a/a04475.html#a51b639d3be67c69499ebcc4139f0107f">TEST_F</a> (<a class="el" href="../../d9/dbf/a30195.html">UlduarVehicleScaleTest</a>, DemolisherHealthMatchesCsv)</td></tr>
-<tr class="separator:a51b639d3be67c69499ebcc4139f0107f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a58efc260628541882a11c0cc04c45466"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8a/a04475.html#a58efc260628541882a11c0cc04c45466">TEST_F</a> (<a class="el" href="../../d9/dbf/a30195.html">UlduarVehicleScaleTest</a>, DemolisherDoTMatchesCsv)</td></tr>
-<tr class="separator:a58efc260628541882a11c0cc04c45466"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1f2bec1d8256ffb081dbbceb10dc82cf"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8a/a04475.html#a1f2bec1d8256ffb081dbbceb10dc82cf">TEST_F</a> (<a class="el" href="../../d9/dbf/a30195.html">UlduarVehicleScaleTest</a>, SiegeHealthMatchesCsv)</td></tr>
-<tr class="separator:a1f2bec1d8256ffb081dbbceb10dc82cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a229410306b074e71e9bde46c25c399f6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8a/a04475.html#a229410306b074e71e9bde46c25c399f6">TEST_F</a> (<a class="el" href="../../d9/dbf/a30195.html">UlduarVehicleScaleTest</a>, ChopperHealthMatchesCsv)</td></tr>
-<tr class="separator:a229410306b074e71e9bde46c25c399f6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acdc1451df7c7bd7b2b7119df4c3751c2"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8a/a04475.html#acdc1451df7c7bd7b2b7119df4c3751c2">TEST_F</a> (<a class="el" href="../../d9/dbf/a30195.html">UlduarVehicleScaleTest</a>, MonotonicWithSameQuality)</td></tr>
-<tr class="separator:acdc1451df7c7bd7b2b7119df4c3751c2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae58086665d96daf405bf70d388d1cae1"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8a/a04475.html#ae58086665d96daf405bf70d388d1cae1">TEST_F</a> (<a class="el" href="../../d9/dbf/a30195.html">UlduarVehicleScaleTest</a>, MonotonicAmountWithSameQuality)</td></tr>
-<tr class="separator:ae58086665d96daf405bf70d388d1cae1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aefcad72982a8fa6f771f8bef56c3070c"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8a/a04475.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a> (<a class="el" href="../../d6/d12/a04691.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> spellFamilyFlags0, int rollResult)</td></tr>
+<tr class="memdesc:aefcad72982a8fa6f771f8bef56c3070c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Simulates the CheckProc logic from <a class="el" href="../../d3/df8/a26755.html">spell_mage_missile_barrage</a>.  <a href="../../d5/d8a/a04475.html#aefcad72982a8fa6f771f8bef56c3070c">More...</a><br /></td></tr>
+<tr class="separator:aefcad72982a8fa6f771f8bef56c3070c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7adabded91ba82360d8d9b6b1d5132ea"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8a/a04475.html#a7adabded91ba82360d8d9b6b1d5132ea">TEST_F</a> (<a class="el" href="../../de/d19/a30207.html">MissileBarrageTest</a>, ArcaneBlast_AlwaysProcs_RegardlessOfRoll)</td></tr>
+<tr class="separator:a7adabded91ba82360d8d9b6b1d5132ea"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8fa33be2273b532d781422d25e8b6672"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8a/a04475.html#a8fa33be2273b532d781422d25e8b6672">TEST_F</a> (<a class="el" href="../../de/d19/a30207.html">MissileBarrageTest</a>, ArcaneBlast_Returns100PercentRate)</td></tr>
+<tr class="separator:a8fa33be2273b532d781422d25e8b6672"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aeab0a3a6edde33d54feef5dd9ceea629"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8a/a04475.html#aeab0a3a6edde33d54feef5dd9ceea629">TEST_F</a> (<a class="el" href="../../de/d19/a30207.html">MissileBarrageTest</a>, Fireball_ProcsOnLowRoll)</td></tr>
+<tr class="separator:aeab0a3a6edde33d54feef5dd9ceea629"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaae02d3218c11e06e93c5ee51f073546"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8a/a04475.html#aaae02d3218c11e06e93c5ee51f073546">TEST_F</a> (<a class="el" href="../../de/d19/a30207.html">MissileBarrageTest</a>, Fireball_FailsOnHighRoll)</td></tr>
+<tr class="separator:aaae02d3218c11e06e93c5ee51f073546"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab581bb40fc8c18dc8273db253cad2d44"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8a/a04475.html#ab581bb40fc8c18dc8273db253cad2d44">TEST_F</a> (<a class="el" href="../../de/d19/a30207.html">MissileBarrageTest</a>, Fireball_Returns50PercentRate)</td></tr>
+<tr class="separator:ab581bb40fc8c18dc8273db253cad2d44"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5db2f0c8c8e20002a5c60de95fbecda3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8a/a04475.html#a5db2f0c8c8e20002a5c60de95fbecda3">TEST_F</a> (<a class="el" href="../../de/d19/a30207.html">MissileBarrageTest</a>, ArcaneMissiles_Returns50PercentRate)</td></tr>
+<tr class="separator:a5db2f0c8c8e20002a5c60de95fbecda3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad0e7264881bbb5fe5752d47c56930961"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8a/a04475.html#ad0e7264881bbb5fe5752d47c56930961">TEST_F</a> (<a class="el" href="../../de/d19/a30207.html">MissileBarrageTest</a>, OtherSpells_Returns50PercentRate)</td></tr>
+<tr class="separator:ad0e7264881bbb5fe5752d47c56930961"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac2dda4615e476c49664c332dfe3e309b"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8a/a04475.html#ac2dda4615e476c49664c332dfe3e309b">CalculateEffectiveProcRate</a> (float dbcChance, float checkProcRate)</td></tr>
+<tr class="memdesc:ac2dda4615e476c49664c332dfe3e309b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Calculate the effective proc rate combining DBC chance and CheckProc.  <a href="../../d5/d8a/a04475.html#ac2dda4615e476c49664c332dfe3e309b">More...</a><br /></td></tr>
+<tr class="separator:ac2dda4615e476c49664c332dfe3e309b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acd2cc80be83d1ce20f5f41d590dcbd82"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8a/a04475.html#acd2cc80be83d1ce20f5f41d590dcbd82">TEST_F</a> (<a class="el" href="../../de/d19/a30207.html">MissileBarrageTest</a>, EffectiveRate_ArcaneBlast_Rank5)</td></tr>
+<tr class="separator:acd2cc80be83d1ce20f5f41d590dcbd82"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab39746f7c4ec98445dc62c1bc5cb7265"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8a/a04475.html#ab39746f7c4ec98445dc62c1bc5cb7265">TEST_F</a> (<a class="el" href="../../de/d19/a30207.html">MissileBarrageTest</a>, EffectiveRate_Fireball_Rank5)</td></tr>
+<tr class="separator:ab39746f7c4ec98445dc62c1bc5cb7265"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab4a6da10f775c2bfa3a120cf6ec09973"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8a/a04475.html#ab4a6da10f775c2bfa3a120cf6ec09973">TEST_F</a> (<a class="el" href="../../de/d19/a30207.html">MissileBarrageTest</a>, EffectiveRate_ArcaneBlast_Rank1)</td></tr>
+<tr class="separator:ab4a6da10f775c2bfa3a120cf6ec09973"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a574495213ded418bae43ebae94186bd0"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8a/a04475.html#a574495213ded418bae43ebae94186bd0">TEST_F</a> (<a class="el" href="../../de/d19/a30207.html">MissileBarrageTest</a>, EffectiveRate_Fireball_Rank1)</td></tr>
+<tr class="separator:a574495213ded418bae43ebae94186bd0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9d499aeaaf23a19ea19dd0175bc5df38"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8a/a04475.html#a9d499aeaaf23a19ea19dd0175bc5df38">TEST_F</a> (<a class="el" href="../../de/d19/a30207.html">MissileBarrageTest</a>, DBCProcChances_MatchExpectedValues)</td></tr>
+<tr class="separator:a9d499aeaaf23a19ea19dd0175bc5df38"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a70c0b2737c1badc539277422564cad49"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8a/a04475.html#a70c0b2737c1badc539277422564cad49">TEST_F</a> (<a class="el" href="../../de/d19/a30207.html">MissileBarrageTest</a>, BoundaryRoll_49_Succeeds)</td></tr>
+<tr class="separator:a70c0b2737c1badc539277422564cad49"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9c89bbafdb493683c8e42950deff3582"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8a/a04475.html#a9c89bbafdb493683c8e42950deff3582">TEST_F</a> (<a class="el" href="../../de/d19/a30207.html">MissileBarrageTest</a>, BoundaryRoll_50_Fails)</td></tr>
+<tr class="separator:a9c89bbafdb493683c8e42950deff3582"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a06d413749aa2d93773f002946e384e45"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8a/a04475.html#a06d413749aa2d93773f002946e384e45">TEST_F</a> (<a class="el" href="../../de/d19/a30207.html">MissileBarrageTest</a>, ArcaneBlastFlag_ExactMatch)</td></tr>
+<tr class="separator:a06d413749aa2d93773f002946e384e45"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:a3cf9b20a3fe729ee462b2431e9ba830f"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d6/d12/a04691.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d03/a05230.html#a3cf9b20a3fe729ee462b2431e9ba830f">MageSpellFlags::ARCANE_BLAST</a> = 0x20000000</td></tr>
+<tr class="separator:a3cf9b20a3fe729ee462b2431e9ba830f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab9ece6fbb0862f8f3dce9aa99843c805"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d6/d12/a04691.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d03/a05230.html#ab9ece6fbb0862f8f3dce9aa99843c805">MageSpellFlags::ARCANE_MISSILES</a> = 0x00000020</td></tr>
+<tr class="separator:ab9ece6fbb0862f8f3dce9aa99843c805"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae58d0c097ed2d1cccbf272f42b835d52"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d6/d12/a04691.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d03/a05230.html#ae58d0c097ed2d1cccbf272f42b835d52">MageSpellFlags::FIREBALL</a> = 0x00000001</td></tr>
+<tr class="separator:ae58d0c097ed2d1cccbf272f42b835d52"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p >Tests for Ulduar vehicle gear scaling formula. </p>
-<p >Formula (from <a class="el" href="../../d8/ddf/a25415.html">spell_gen_vehicle_scaling_aura</a> in <a class="el" href="../../dd/de9/a03590.html">spell_generic.cpp</a>): Vehicles: Salvaged Demolisher (33109), Salvaged Siege Engine, Salvaged Chopper </p>
+<div class="textblock"><p ><a class="el" href="../../d9/d33/a09227.html">Unit</a> tests for Missile Barrage (44404-44408) proc behavior. </p>
+<p >Missile Barrage talent should proc:</p><ul>
+<li>100% chance when casting Arcane Blast (SpellFamilyFlags[0] &amp; 0x20000000)</li>
+<li>50% reduced chance when casting other spells (Arcane Barrage, Frostfire Bolt, etc.)</li>
+</ul>
+<p >DBC Base proc chances by rank:</p><ul>
+<li>Rank 1 (44404): 4%</li>
+<li>Rank 2 (44405): 8%</li>
+<li>Rank 3 (44406): 12%</li>
+<li>Rank 4 (44407): 16%</li>
+<li>Rank 5 (44408): 20%</li>
+</ul>
+<p >Effective proc rates:</p><ul>
+<li>Arcane Blast: Full DBC chance (4-20%)</li>
+<li>Other spells: 50% of DBC chance (2-10%) </li>
+</ul>
 
-<p class="definition">Definition in file <a class="el" href="../../">VehicleScalingUlduarTest.cpp</a>.</p>
+<p class="definition">Definition in file <a class="el" href="../../">SpellScriptMissileBarrageTest.cpp</a>.</p>
 </div><h2 class="groupheader">Function Documentation</h2>
-<a id="a8418c7e94d66e6a5c9f61c9dd5deeb43" name="a8418c7e94d66e6a5c9f61c9dd5deeb43"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8418c7e94d66e6a5c9f61c9dd5deeb43">&#9670;&#160;</a></span>TEST_F() <span class="overload">[1/22]</span></h2>
+<a id="ac2dda4615e476c49664c332dfe3e309b" name="ac2dda4615e476c49664c332dfe3e309b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac2dda4615e476c49664c332dfe3e309b">&#9670;&#160;</a></span>CalculateEffectiveProcRate()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">TEST_F </td>
+          <td class="memname">float CalculateEffectiveProcRate </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/dbf/a30195.html">UlduarVehicleScaleTest</a>&#160;</td>
-          <td class="paramname">, </td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>dbcChance</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">AllEpicNoPenalty&#160;</td>
-          <td class="paramname">&#160;</td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>checkProcRate</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -218,37 +226,41 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  150</span>{</div>
-<div class="line"><span class="lineno">  151</span>    <span class="comment">// 15 epic items at avg 200: totalAdjustedILvl = 15 * 200 = 3000</span></div>
-<div class="line"><span class="lineno">  152</span>    <span class="comment">// (3000 - 2500) / 500 = 1.0 -&gt; 0% baseline</span></div>
-<div class="line"><span class="lineno">  153</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../d3/d6e/a05227.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(3000.0f);</div>
-<div class="line"><span class="lineno">  154</span>    EXPECT_FLOAT_EQ(result, 1.0f);</div>
-<div class="line"><span class="lineno">  155</span>    EXPECT_EQ(<a class="code hl_function" href="../../d3/d6e/a05227.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(3000.0f), 0);</div>
-<div class="line"><span class="lineno">  156</span>}</div>
-<div class="ttc" id="aa05227_html_a7bee56888580618bb23f42cc8f9edc92"><div class="ttname"><a href="../../d3/d6e/a05227.html#a7bee56888580618bb23f42cc8f9edc92">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount</a></div><div class="ttdeci">int32_t CalcUlduarVehicleScaleAmount(float totalAdjustedILvl)</div><div class="ttdoc">Mirrors the final int32 amount stored on the aura effect (a percent).</div><div class="ttdef"><b>Definition:</b> VehicleScalingUlduarTest.cpp:43</div></div>
-<div class="ttc" id="aa05227_html_acdecfc5cf74175c6a000957c02da9cc4"><div class="ttname"><a href="../../d3/d6e/a05227.html#acdecfc5cf74175c6a000957c02da9cc4">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale</a></div><div class="ttdeci">float CalcUlduarVehicleScale(float totalAdjustedILvl)</div><div class="ttdoc">Mirrors the Ulduar vehicle scaling formula from spell_gen_vehicle_scaling_aura::CalculateAmount.</div><div class="ttdef"><b>Definition:</b> VehicleScalingUlduarTest.cpp:35</div></div>
+
+<p>Calculate the effective proc rate combining DBC chance and CheckProc. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">dbcChance</td><td>Base proc chance from DBC (e.g., 20 for rank 5) </td></tr>
+    <tr><td class="paramname">checkProcRate</td><td>CheckProc pass rate (100 for Arcane Blast, 50 for others) </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>Effective proc rate as percentage </dd></dl>
+<div class="fragment"><div class="line"><span class="lineno">  183</span>{</div>
+<div class="line"><span class="lineno">  184</span>    <span class="keywordflow">return</span> dbcChance * (checkProcRate / 100.0f);</div>
+<div class="line"><span class="lineno">  185</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00035">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>, and <a class="el" href="../../#l00043">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00187">TEST_F()</a>.</p>
 
 </div>
 </div>
-<a id="a98ca9fe59822ecd339c6fb8329340dde" name="a98ca9fe59822ecd339c6fb8329340dde"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a98ca9fe59822ecd339c6fb8329340dde">&#9670;&#160;</a></span>TEST_F() <span class="overload">[2/22]</span></h2>
+<a id="aefcad72982a8fa6f771f8bef56c3070c" name="aefcad72982a8fa6f771f8bef56c3070c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aefcad72982a8fa6f771f8bef56c3070c">&#9670;&#160;</a></span>SimulateMissileBarrageCheckProc()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">TEST_F </td>
+          <td class="memname">bool SimulateMissileBarrageCheckProc </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/dbf/a30195.html">UlduarVehicleScaleTest</a>&#160;</td>
-          <td class="paramname">, </td>
+          <td class="paramtype"><a class="el" href="../../d6/d12/a04691.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>spellFamilyFlags0</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">BaselineNoGear&#160;</td>
-          <td class="paramname">&#160;</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>rollResult</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -257,20 +269,34 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   59</span>{</div>
-<div class="line"><span class="lineno">   60</span>    <span class="comment">// totalILvl = 2500 (e.g. 15 items at avg 166.67)</span></div>
-<div class="line"><span class="lineno">   61</span>    <span class="comment">// Raw scaling 0, floored to 0.1 -&gt; -90% (10% of base)</span></div>
-<div class="line"><span class="lineno">   62</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../d3/d6e/a05227.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(2500.0f);</div>
-<div class="line"><span class="lineno">   63</span>    EXPECT_FLOAT_EQ(result, 0.1f);</div>
-<div class="line"><span class="lineno">   64</span>    EXPECT_EQ(<a class="code hl_function" href="../../d3/d6e/a05227.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(2500.0f), -90);</div>
-<div class="line"><span class="lineno">   65</span>}</div>
+
+<p>Simulates the CheckProc logic from <a class="el" href="../../d3/df8/a26755.html">spell_mage_missile_barrage</a>. </p>
+<p >This mirrors the actual script at: <a class="el" href="../../de/ddd/a00653.html">src/server/scripts/Spells/spell_mage.cpp</a>:1325-1338</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">spellFamilyFlags0</td><td>The SpellFamilyFlags[0] of the triggering spell </td></tr>
+    <tr><td class="paramname">rollResult</td><td>The result of roll_chance_i(50) - pass 0-49 to succeed, 50-99 to fail </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>true if the proc check passes </dd></dl>
+<div class="fragment"><div class="line"><span class="lineno">   58</span>{</div>
+<div class="line"><span class="lineno">   59</span>    <span class="comment">// Arcane Blast - full proc chance (100%)</span></div>
+<div class="line"><span class="lineno">   60</span>    <span class="comment">// Arcane Blast spell family flags: 0x20000000</span></div>
+<div class="line"><span class="lineno">   61</span>    <span class="keywordflow">if</span> (spellFamilyFlags0 &amp; 0x20000000)</div>
+<div class="line"><span class="lineno">   62</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   63</span> </div>
+<div class="line"><span class="lineno">   64</span>    <span class="comment">// Other spells - 50% proc chance</span></div>
+<div class="line"><span class="lineno">   65</span>    <span class="comment">// Simulates: return roll_chance_i(50);</span></div>
+<div class="line"><span class="lineno">   66</span>    <span class="keywordflow">return</span> rollResult &lt; 50;</div>
+<div class="line"><span class="lineno">   67</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00035">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>, and <a class="el" href="../../#l00043">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00095">MissileBarrageTest::RunStatisticalTest()</a>, and <a class="el" href="../../#l00113">TEST_F()</a>.</p>
 
 </div>
 </div>
-<a id="a229410306b074e71e9bde46c25c399f6" name="a229410306b074e71e9bde46c25c399f6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a229410306b074e71e9bde46c25c399f6">&#9670;&#160;</a></span>TEST_F() <span class="overload">[3/22]</span></h2>
+<a id="a7adabded91ba82360d8d9b6b1d5132ea" name="a7adabded91ba82360d8d9b6b1d5132ea"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7adabded91ba82360d8d9b6b1d5132ea">&#9670;&#160;</a></span>TEST_F() <span class="overload">[1/15]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -278,13 +304,13 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/dbf/a30195.html">UlduarVehicleScaleTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../de/d19/a30207.html">MissileBarrageTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">ChopperHealthMatchesCsv&#160;</td>
+          <td class="paramtype">ArcaneBlast_AlwaysProcs_RegardlessOfRoll&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -294,19 +320,23 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  230</span>{</div>
-<div class="line"><span class="lineno">  231</span>    EXPECT_FLOAT_EQ(<a class="code hl_function" href="../../d3/d6e/a05227.html#aa21e2162e63f4227effb0e9524258f2d">CalcScaledVehicleValue</a>(504000.0f, 2550.0f), 50400.0f);</div>
-<div class="line"><span class="lineno">  232</span>    EXPECT_FLOAT_EQ(<a class="code hl_function" href="../../d3/d6e/a05227.html#aa21e2162e63f4227effb0e9524258f2d">CalcScaledVehicleValue</a>(504000.0f, 3195.0f), 700560.0f);</div>
-<div class="line"><span class="lineno">  233</span>    EXPECT_FLOAT_EQ(<a class="code hl_function" href="../../d3/d6e/a05227.html#aa21e2162e63f4227effb0e9524258f2d">CalcScaledVehicleValue</a>(504000.0f, 3390.0f), 897120.0f);</div>
-<div class="line"><span class="lineno">  234</span>}</div>
-<div class="ttc" id="aa05227_html_aa21e2162e63f4227effb0e9524258f2d"><div class="ttname"><a href="../../d3/d6e/a05227.html#aa21e2162e63f4227effb0e9524258f2d">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcScaledVehicleValue</a></div><div class="ttdeci">float CalcScaledVehicleValue(float baseValue, float totalAdjustedILvl)</div><div class="ttdoc">Resulting vehicle stat after the aura: base * (1 + amount / 100).</div><div class="ttdef"><b>Definition:</b> VehicleScalingUlduarTest.cpp:50</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  114</span>{</div>
+<div class="line"><span class="lineno">  115</span>    <span class="comment">// Arcane Blast should always pass CheckProc, regardless of the roll result</span></div>
+<div class="line"><span class="lineno">  116</span>    <span class="keywordflow">for</span> (<span class="keywordtype">int</span> roll = 0; roll &lt; 100; roll++)</div>
+<div class="line"><span class="lineno">  117</span>    {</div>
+<div class="line"><span class="lineno">  118</span>        EXPECT_TRUE(<a class="code hl_function" href="../../d5/d8a/a04475.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a>(<a class="code hl_variable" href="../../d7/d03/a05230.html#a3cf9b20a3fe729ee462b2431e9ba830f">MageSpellFlags::ARCANE_BLAST</a>, roll))</div>
+<div class="line"><span class="lineno">  119</span>            &lt;&lt; <span class="stringliteral">&quot;Arcane Blast should always proc, but failed with roll=&quot;</span> &lt;&lt; roll;</div>
+<div class="line"><span class="lineno">  120</span>    }</div>
+<div class="line"><span class="lineno">  121</span>}</div>
+<div class="ttc" id="aa04475_html_aefcad72982a8fa6f771f8bef56c3070c"><div class="ttname"><a href="../../d5/d8a/a04475.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a></div><div class="ttdeci">bool SimulateMissileBarrageCheckProc(uint32 spellFamilyFlags0, int rollResult)</div><div class="ttdoc">Simulates the CheckProc logic from spell_mage_missile_barrage.</div><div class="ttdef"><b>Definition:</b> SpellScriptMissileBarrageTest.cpp:57</div></div>
+<div class="ttc" id="aa05230_html_a3cf9b20a3fe729ee462b2431e9ba830f"><div class="ttname"><a href="../../d7/d03/a05230.html#a3cf9b20a3fe729ee462b2431e9ba830f">MageSpellFlags::ARCANE_BLAST</a></div><div class="ttdeci">constexpr uint32 ARCANE_BLAST</div><div class="ttdef"><b>Definition:</b> SpellScriptMissileBarrageTest.cpp:74</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00050">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcScaledVehicleValue()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00074">MageSpellFlags::ARCANE_BLAST</a>, and <a class="el" href="../../#l00057">SimulateMissileBarrageCheckProc()</a>.</p>
 
 </div>
 </div>
-<a id="a58efc260628541882a11c0cc04c45466" name="a58efc260628541882a11c0cc04c45466"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a58efc260628541882a11c0cc04c45466">&#9670;&#160;</a></span>TEST_F() <span class="overload">[4/22]</span></h2>
+<a id="a8fa33be2273b532d781422d25e8b6672" name="a8fa33be2273b532d781422d25e8b6672"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8fa33be2273b532d781422d25e8b6672">&#9670;&#160;</a></span>TEST_F() <span class="overload">[2/15]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -314,13 +344,13 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/dbf/a30195.html">UlduarVehicleScaleTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../de/d19/a30207.html">MissileBarrageTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">DemolisherDoTMatchesCsv&#160;</td>
+          <td class="paramtype">ArcaneBlast_Returns100PercentRate&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -330,17 +360,17 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  217</span>{</div>
-<div class="line"><span class="lineno">  218</span>    EXPECT_FLOAT_EQ(<a class="code hl_function" href="../../d3/d6e/a05227.html#aa21e2162e63f4227effb0e9524258f2d">CalcScaledVehicleValue</a>(120000.0f, 3195.0f), 166800.0f);</div>
-<div class="line"><span class="lineno">  219</span>    EXPECT_FLOAT_EQ(<a class="code hl_function" href="../../d3/d6e/a05227.html#aa21e2162e63f4227effb0e9524258f2d">CalcScaledVehicleValue</a>(120000.0f, 3390.0f), 213600.0f);</div>
-<div class="line"><span class="lineno">  220</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  124</span>{</div>
+<div class="line"><span class="lineno">  125</span>    <span class="keywordtype">float</span> rate = RunStatisticalTest(<a class="code hl_variable" href="../../d7/d03/a05230.html#a3cf9b20a3fe729ee462b2431e9ba830f">MageSpellFlags::ARCANE_BLAST</a>);</div>
+<div class="line"><span class="lineno">  126</span>    EXPECT_NEAR(rate, 100.0f, 0.01f) &lt;&lt; <span class="stringliteral">&quot;Arcane Blast should have 100% CheckProc pass rate&quot;</span>;</div>
+<div class="line"><span class="lineno">  127</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00050">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcScaledVehicleValue()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00074">MageSpellFlags::ARCANE_BLAST</a>.</p>
 
 </div>
 </div>
-<a id="a51b639d3be67c69499ebcc4139f0107f" name="a51b639d3be67c69499ebcc4139f0107f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a51b639d3be67c69499ebcc4139f0107f">&#9670;&#160;</a></span>TEST_F() <span class="overload">[5/22]</span></h2>
+<a id="a06d413749aa2d93773f002946e384e45" name="a06d413749aa2d93773f002946e384e45"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a06d413749aa2d93773f002946e384e45">&#9670;&#160;</a></span>TEST_F() <span class="overload">[3/15]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -348,13 +378,13 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/dbf/a30195.html">UlduarVehicleScaleTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../de/d19/a30207.html">MissileBarrageTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">DemolisherHealthMatchesCsv&#160;</td>
+          <td class="paramtype">ArcaneBlastFlag_ExactMatch&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -364,20 +394,22 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  208</span>{</div>
-<div class="line"><span class="lineno">  209</span>    EXPECT_FLOAT_EQ(<a class="code hl_function" href="../../d3/d6e/a05227.html#aa21e2162e63f4227effb0e9524258f2d">CalcScaledVehicleValue</a>(630000.0f, 2550.0f), 63000.0f);</div>
-<div class="line"><span class="lineno">  210</span>    EXPECT_FLOAT_EQ(<a class="code hl_function" href="../../d3/d6e/a05227.html#aa21e2162e63f4227effb0e9524258f2d">CalcScaledVehicleValue</a>(630000.0f, 3000.0f), 630000.0f);</div>
-<div class="line"><span class="lineno">  211</span>    EXPECT_FLOAT_EQ(<a class="code hl_function" href="../../d3/d6e/a05227.html#aa21e2162e63f4227effb0e9524258f2d">CalcScaledVehicleValue</a>(630000.0f, 3195.0f), 875700.0f);</div>
-<div class="line"><span class="lineno">  212</span>    EXPECT_FLOAT_EQ(<a class="code hl_function" href="../../d3/d6e/a05227.html#aa21e2162e63f4227effb0e9524258f2d">CalcScaledVehicleValue</a>(630000.0f, 3390.0f), 1121400.0f);</div>
-<div class="line"><span class="lineno">  213</span>    EXPECT_FLOAT_EQ(<a class="code hl_function" href="../../d3/d6e/a05227.html#aa21e2162e63f4227effb0e9524258f2d">CalcScaledVehicleValue</a>(630000.0f, 3780.0f), 1612800.0f);</div>
-<div class="line"><span class="lineno">  214</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  264</span>{</div>
+<div class="line"><span class="lineno">  265</span>    <span class="comment">// Test that exactly the Arcane Blast flag triggers 100% rate</span></div>
+<div class="line"><span class="lineno">  266</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d5/d8a/a04475.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a>(0x20000000, 99));</div>
+<div class="line"><span class="lineno">  267</span> </div>
+<div class="line"><span class="lineno">  268</span>    <span class="comment">// Combined flags should also work if Arcane Blast is present</span></div>
+<div class="line"><span class="lineno">  269</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d5/d8a/a04475.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a>(0x20000001, 99));</div>
+<div class="line"><span class="lineno">  270</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d5/d8a/a04475.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a>(0x20000020, 99));</div>
+<div class="line"><span class="lineno">  271</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d5/d8a/a04475.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a>(0xFFFFFFFF, 99));</div>
+<div class="line"><span class="lineno">  272</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00050">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcScaledVehicleValue()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00057">SimulateMissileBarrageCheckProc()</a>.</p>
 
 </div>
 </div>
-<a id="a41d0ab57629ac19ea2d4b553a4653fe9" name="a41d0ab57629ac19ea2d4b553a4653fe9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a41d0ab57629ac19ea2d4b553a4653fe9">&#9670;&#160;</a></span>TEST_F() <span class="overload">[6/22]</span></h2>
+<a id="a5db2f0c8c8e20002a5c60de95fbecda3" name="a5db2f0c8c8e20002a5c60de95fbecda3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5db2f0c8c8e20002a5c60de95fbecda3">&#9670;&#160;</a></span>TEST_F() <span class="overload">[4/15]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -385,13 +417,13 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/dbf/a30195.html">UlduarVehicleScaleTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../de/d19/a30207.html">MissileBarrageTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">FloorAtLowItemLevel&#160;</td>
+          <td class="paramtype">ArcaneMissiles_Returns50PercentRate&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -401,19 +433,18 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  191</span>{</div>
-<div class="line"><span class="lineno">  192</span>    <span class="comment">// totalILvl &lt; 2500 → result would be negative, floor to 0.1 -&gt; -90%</span></div>
-<div class="line"><span class="lineno">  193</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../d3/d6e/a05227.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(2400.0f);</div>
-<div class="line"><span class="lineno">  194</span>    EXPECT_FLOAT_EQ(result, 0.1f);</div>
-<div class="line"><span class="lineno">  195</span>    EXPECT_EQ(<a class="code hl_function" href="../../d3/d6e/a05227.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(2400.0f), -90);</div>
-<div class="line"><span class="lineno">  196</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  160</span>{</div>
+<div class="line"><span class="lineno">  161</span>    <span class="keywordtype">float</span> rate = RunStatisticalTest(<a class="code hl_variable" href="../../d7/d03/a05230.html#ab9ece6fbb0862f8f3dce9aa99843c805">MageSpellFlags::ARCANE_MISSILES</a>);</div>
+<div class="line"><span class="lineno">  162</span>    EXPECT_NEAR(rate, 50.0f, 0.01f) &lt;&lt; <span class="stringliteral">&quot;Arcane Missiles should have 50% CheckProc pass rate&quot;</span>;</div>
+<div class="line"><span class="lineno">  163</span>}</div>
+<div class="ttc" id="aa05230_html_ab9ece6fbb0862f8f3dce9aa99843c805"><div class="ttname"><a href="../../d7/d03/a05230.html#ab9ece6fbb0862f8f3dce9aa99843c805">MageSpellFlags::ARCANE_MISSILES</a></div><div class="ttdeci">constexpr uint32 ARCANE_MISSILES</div><div class="ttdef"><b>Definition:</b> SpellScriptMissileBarrageTest.cpp:75</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00035">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>, and <a class="el" href="../../#l00043">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00075">MageSpellFlags::ARCANE_MISSILES</a>.</p>
 
 </div>
 </div>
-<a id="ae018eecb05f49542ee23caca3b50c2f0" name="ae018eecb05f49542ee23caca3b50c2f0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae018eecb05f49542ee23caca3b50c2f0">&#9670;&#160;</a></span>TEST_F() <span class="overload">[7/22]</span></h2>
+<a id="a70c0b2737c1badc539277422564cad49" name="a70c0b2737c1badc539277422564cad49"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a70c0b2737c1badc539277422564cad49">&#9670;&#160;</a></span>TEST_F() <span class="overload">[5/15]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -421,13 +452,13 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/dbf/a30195.html">UlduarVehicleScaleTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../de/d19/a30207.html">MissileBarrageTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">FloorWithQualityPenalty&#160;</td>
+          <td class="paramtype">BoundaryRoll_49_Succeeds&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -437,20 +468,18 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  199</span>{</div>
-<div class="line"><span class="lineno">  200</span>    <span class="comment">// totalAdjustedILvl = 2400 (e.g. sum of quality-adjusted iLvl below 2500)</span></div>
-<div class="line"><span class="lineno">  201</span>    <span class="comment">// (2400 - 2500) / 500 = -0.2 → floor to 0.1 -&gt; -90%</span></div>
-<div class="line"><span class="lineno">  202</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../d3/d6e/a05227.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(2400.0f);</div>
-<div class="line"><span class="lineno">  203</span>    EXPECT_FLOAT_EQ(result, 0.1f);</div>
-<div class="line"><span class="lineno">  204</span>    EXPECT_EQ(<a class="code hl_function" href="../../d3/d6e/a05227.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(2400.0f), -90);</div>
-<div class="line"><span class="lineno">  205</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  252</span>{</div>
+<div class="line"><span class="lineno">  253</span>    <span class="comment">// Roll of 49 should succeed (&lt; 50)</span></div>
+<div class="line"><span class="lineno">  254</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d5/d8a/a04475.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a>(<a class="code hl_variable" href="../../d7/d03/a05230.html#ae58d0c097ed2d1cccbf272f42b835d52">MageSpellFlags::FIREBALL</a>, 49));</div>
+<div class="line"><span class="lineno">  255</span>}</div>
+<div class="ttc" id="aa05230_html_ae58d0c097ed2d1cccbf272f42b835d52"><div class="ttname"><a href="../../d7/d03/a05230.html#ae58d0c097ed2d1cccbf272f42b835d52">MageSpellFlags::FIREBALL</a></div><div class="ttdeci">constexpr uint32 FIREBALL</div><div class="ttdef"><b>Definition:</b> SpellScriptMissileBarrageTest.cpp:76</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00035">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>, and <a class="el" href="../../#l00043">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00076">MageSpellFlags::FIREBALL</a>, and <a class="el" href="../../#l00057">SimulateMissileBarrageCheckProc()</a>.</p>
 
 </div>
 </div>
-<a id="a6204c0ebff39e559940d5bfd14410b00" name="a6204c0ebff39e559940d5bfd14410b00"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6204c0ebff39e559940d5bfd14410b00">&#9670;&#160;</a></span>TEST_F() <span class="overload">[8/22]</span></h2>
+<a id="a9c89bbafdb493683c8e42950deff3582" name="a9c89bbafdb493683c8e42950deff3582"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9c89bbafdb493683c8e42950deff3582">&#9670;&#160;</a></span>TEST_F() <span class="overload">[6/15]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -458,13 +487,13 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/dbf/a30195.html">UlduarVehicleScaleTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../de/d19/a30207.html">MissileBarrageTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">ICCBiSGear&#160;</td>
+          <td class="paramtype">BoundaryRoll_50_Fails&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -474,21 +503,17 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  131</span>{</div>
-<div class="line"><span class="lineno">  132</span>    <span class="comment">// totalILvl = 4162 (avg 277.5 * 15 items, ICC BiS)</span></div>
-<div class="line"><span class="lineno">  133</span>    <span class="comment">// (4162 - 2500) / 500 = 3.324 -&gt; +232%</span></div>
-<div class="line"><span class="lineno">  134</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../d3/d6e/a05227.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(4162.0f);</div>
-<div class="line"><span class="lineno">  135</span>    EXPECT_FLOAT_EQ(result, 3.324f);</div>
-<div class="line"><span class="lineno">  136</span>    EXPECT_EQ(<a class="code hl_function" href="../../d3/d6e/a05227.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(4162.0f), 232);</div>
-<div class="line"><span class="lineno">  137</span>    EXPECT_FLOAT_EQ(<a class="code hl_function" href="../../d3/d6e/a05227.html#aa21e2162e63f4227effb0e9524258f2d">CalcScaledVehicleValue</a>(630000.0f, 4162.0f), 2091600.0f);</div>
-<div class="line"><span class="lineno">  138</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  258</span>{</div>
+<div class="line"><span class="lineno">  259</span>    <span class="comment">// Roll of 50 should fail (&gt;= 50)</span></div>
+<div class="line"><span class="lineno">  260</span>    EXPECT_FALSE(<a class="code hl_function" href="../../d5/d8a/a04475.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a>(<a class="code hl_variable" href="../../d7/d03/a05230.html#ae58d0c097ed2d1cccbf272f42b835d52">MageSpellFlags::FIREBALL</a>, 50));</div>
+<div class="line"><span class="lineno">  261</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00050">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcScaledVehicleValue()</a>, <a class="el" href="../../#l00035">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>, and <a class="el" href="../../#l00043">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00076">MageSpellFlags::FIREBALL</a>, and <a class="el" href="../../#l00057">SimulateMissileBarrageCheckProc()</a>.</p>
 
 </div>
 </div>
-<a id="adfff5b21f8a78f9d8ddbd3dd6dc678a9" name="adfff5b21f8a78f9d8ddbd3dd6dc678a9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#adfff5b21f8a78f9d8ddbd3dd6dc678a9">&#9670;&#160;</a></span>TEST_F() <span class="overload">[9/22]</span></h2>
+<a id="a9d499aeaaf23a19ea19dd0175bc5df38" name="a9d499aeaaf23a19ea19dd0175bc5df38"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9d499aeaaf23a19ea19dd0175bc5df38">&#9670;&#160;</a></span>TEST_F() <span class="overload">[7/15]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -496,13 +521,13 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/dbf/a30195.html">UlduarVehicleScaleTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../de/d19/a30207.html">MissileBarrageTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">MinimumScalingThreshold&#160;</td>
+          <td class="paramtype">DBCProcChances_MatchExpectedValues&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -512,136 +537,38 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   68</span>{</div>
-<div class="line"><span class="lineno">   69</span>    <span class="comment">// totalILvl = 2550 -&gt; (2550-2500)/500 = 0.1, exactly at the floor</span></div>
-<div class="line"><span class="lineno">   70</span>    <span class="comment">// -90% = 10% of base (CSV Demolisher HP 63000)</span></div>
-<div class="line"><span class="lineno">   71</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../d3/d6e/a05227.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(2550.0f);</div>
-<div class="line"><span class="lineno">   72</span>    EXPECT_FLOAT_EQ(result, 0.1f);</div>
-<div class="line"><span class="lineno">   73</span>    EXPECT_EQ(<a class="code hl_function" href="../../d3/d6e/a05227.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(2550.0f), -90);</div>
-<div class="line"><span class="lineno">   74</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00035">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>, and <a class="el" href="../../#l00043">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount()</a>.</p>
-
-</div>
-</div>
-<a id="a4fbf14b61deee8b36f80b0133f24edf3" name="a4fbf14b61deee8b36f80b0133f24edf3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4fbf14b61deee8b36f80b0133f24edf3">&#9670;&#160;</a></span>TEST_F() <span class="overload">[10/22]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/dbf/a30195.html">UlduarVehicleScaleTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">MixedQualityPenalty&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  177</span>{</div>
-<div class="line"><span class="lineno">  178</span>    <span class="comment">// 10 epic (200) + 3 rare (187) + 2 uncommon (174):</span></div>
-<div class="line"><span class="lineno">  179</span>    <span class="comment">// totalAdjustedILvl = 10*200 + 3*187 + 2*174 = 2000 + 561 + 348 = 2909</span></div>
-<div class="line"><span class="lineno">  180</span>    <span class="comment">// (2909 - 2500) / 500 = 409/500 = 0.818 -&gt; round(-18.2) = -18%</span></div>
-<div class="line"><span class="lineno">  181</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../d3/d6e/a05227.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(2909.0f);</div>
-<div class="line"><span class="lineno">  182</span>    EXPECT_FLOAT_EQ(result, 0.818f);</div>
-<div class="line"><span class="lineno">  183</span>    EXPECT_EQ(<a class="code hl_function" href="../../d3/d6e/a05227.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(2909.0f), -18);</div>
-<div class="line"><span class="lineno">  184</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00035">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>, and <a class="el" href="../../#l00043">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount()</a>.</p>
-
-</div>
-</div>
-<a id="ae58086665d96daf405bf70d388d1cae1" name="ae58086665d96daf405bf70d388d1cae1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae58086665d96daf405bf70d388d1cae1">&#9670;&#160;</a></span>TEST_F() <span class="overload">[11/22]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/dbf/a30195.html">UlduarVehicleScaleTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">MonotonicAmountWithSameQuality&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  248</span>{</div>
-<div class="line"><span class="lineno">  249</span>    int32_t prev = <a class="code hl_function" href="../../d3/d6e/a05227.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(2500.0f);</div>
-<div class="line"><span class="lineno">  250</span>    <span class="keywordflow">for</span> (<span class="keywordtype">float</span> totalILvl = 2510.0f; totalILvl &lt;= 4000.0f; totalILvl += 10.0f)</div>
-<div class="line"><span class="lineno">  251</span>    {</div>
-<div class="line"><span class="lineno">  252</span>        int32_t curr = <a class="code hl_function" href="../../d3/d6e/a05227.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(totalILvl);</div>
-<div class="line"><span class="lineno">  253</span>        EXPECT_GE(curr, prev) &lt;&lt; <span class="stringliteral">&quot;Amount dropped at totalILvl=&quot;</span> &lt;&lt; totalILvl;</div>
-<div class="line"><span class="lineno">  254</span>        prev = curr;</div>
-<div class="line"><span class="lineno">  255</span>    }</div>
-<div class="line"><span class="lineno">  256</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00043">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount()</a>.</p>
-
-</div>
-</div>
-<a id="acdc1451df7c7bd7b2b7119df4c3751c2" name="acdc1451df7c7bd7b2b7119df4c3751c2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acdc1451df7c7bd7b2b7119df4c3751c2">&#9670;&#160;</a></span>TEST_F() <span class="overload">[12/22]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/dbf/a30195.html">UlduarVehicleScaleTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">MonotonicWithSameQuality&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  237</span>{</div>
-<div class="line"><span class="lineno">  238</span>    <span class="keywordtype">float</span> prev = <a class="code hl_function" href="../../d3/d6e/a05227.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(2500.0f);</div>
-<div class="line"><span class="lineno">  239</span>    <span class="keywordflow">for</span> (<span class="keywordtype">float</span> totalILvl = 2510.0f; totalILvl &lt;= 4000.0f; totalILvl += 10.0f)</div>
-<div class="line"><span class="lineno">  240</span>    {</div>
-<div class="line"><span class="lineno">  241</span>        <span class="keywordtype">float</span> curr = <a class="code hl_function" href="../../d3/d6e/a05227.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(totalILvl);</div>
-<div class="line"><span class="lineno">  242</span>        EXPECT_GE(curr, prev) &lt;&lt; <span class="stringliteral">&quot;Scaling dropped at totalILvl=&quot;</span> &lt;&lt; totalILvl;</div>
-<div class="line"><span class="lineno">  243</span>        prev = curr;</div>
+<div class="fragment"><div class="line"><span class="lineno">  220</span>{</div>
+<div class="line"><span class="lineno">  221</span>    <span class="comment">// Expected DBC proc chances for each rank</span></div>
+<div class="line"><span class="lineno">  222</span>    <span class="comment">// Note: These should match the actual DBC values</span></div>
+<div class="line"><span class="lineno">  223</span>    <span class="keyword">struct </span>RankData</div>
+<div class="line"><span class="lineno">  224</span>    {</div>
+<div class="line"><span class="lineno">  225</span>        <a class="code hl_typedef" href="../../d6/d12/a04691.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> spellId;</div>
+<div class="line"><span class="lineno">  226</span>        <span class="keywordtype">int</span> expectedChance;</div>
+<div class="line"><span class="lineno">  227</span>    };</div>
+<div class="line"><span class="lineno">  228</span> </div>
+<div class="line"><span class="lineno">  229</span>    std::vector&lt;RankData&gt; ranks = {</div>
+<div class="line"><span class="lineno">  230</span>        { 44404, 4 },   <span class="comment">// Rank 1: 4% (actually 8% in some versions)</span></div>
+<div class="line"><span class="lineno">  231</span>        { 44405, 8 },   <span class="comment">// Rank 2</span></div>
+<div class="line"><span class="lineno">  232</span>        { 44406, 12 },  <span class="comment">// Rank 3</span></div>
+<div class="line"><span class="lineno">  233</span>        { 44407, 16 },  <span class="comment">// Rank 4</span></div>
+<div class="line"><span class="lineno">  234</span>        { 44408, 20 },  <span class="comment">// Rank 5</span></div>
+<div class="line"><span class="lineno">  235</span>    };</div>
+<div class="line"><span class="lineno">  236</span> </div>
+<div class="line"><span class="lineno">  237</span>    <span class="comment">// This documents the expected values - actual verification would require SpellMgr</span></div>
+<div class="line"><span class="lineno">  238</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; rank : ranks)</div>
+<div class="line"><span class="lineno">  239</span>    {</div>
+<div class="line"><span class="lineno">  240</span>        SCOPED_TRACE(<span class="stringliteral">&quot;Spell ID: &quot;</span> + std::to_string(rank.spellId));</div>
+<div class="line"><span class="lineno">  241</span>        <span class="comment">// The actual DBC lookup would be:</span></div>
+<div class="line"><span class="lineno">  242</span>        <span class="comment">// SpellInfo const* spellInfo = sSpellMgr-&gt;GetSpellInfo(rank.spellId);</span></div>
+<div class="line"><span class="lineno">  243</span>        <span class="comment">// EXPECT_EQ(spellInfo-&gt;ProcChance, rank.expectedChance);</span></div>
 <div class="line"><span class="lineno">  244</span>    }</div>
 <div class="line"><span class="lineno">  245</span>}</div>
+<div class="ttc" id="aa04691_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d6/d12/a04691.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00035">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>.</p>
-
 </div>
 </div>
-<a id="af96e2f92094886a5993a36d06aa584c0" name="af96e2f92094886a5993a36d06aa584c0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af96e2f92094886a5993a36d06aa584c0">&#9670;&#160;</a></span>TEST_F() <span class="overload">[13/22]</span></h2>
+<a id="ab4a6da10f775c2bfa3a120cf6ec09973" name="ab4a6da10f775c2bfa3a120cf6ec09973"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab4a6da10f775c2bfa3a120cf6ec09973">&#9670;&#160;</a></span>TEST_F() <span class="overload">[8/15]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -649,13 +576,13 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/dbf/a30195.html">UlduarVehicleScaleTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../de/d19/a30207.html">MissileBarrageTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">NaxxramasBiSGear&#160;</td>
+          <td class="paramtype">EffectiveRate_ArcaneBlast_Rank1&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -665,20 +592,19 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   86</span>{</div>
-<div class="line"><span class="lineno">   87</span>    <span class="comment">// totalILvl = 3000 (avg 200 * 15 items, Naxx BiS / Ulduar entry)</span></div>
-<div class="line"><span class="lineno">   88</span>    <span class="comment">// (3000 - 2500) / 500 = 1.0 -&gt; 0% (baseline, no change)</span></div>
-<div class="line"><span class="lineno">   89</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../d3/d6e/a05227.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(3000.0f);</div>
-<div class="line"><span class="lineno">   90</span>    EXPECT_FLOAT_EQ(result, 1.0f);</div>
-<div class="line"><span class="lineno">   91</span>    EXPECT_EQ(<a class="code hl_function" href="../../d3/d6e/a05227.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(3000.0f), 0);</div>
-<div class="line"><span class="lineno">   92</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  202</span>{</div>
+<div class="line"><span class="lineno">  203</span>    <span class="comment">// Rank 1: 4% base chance * 100% CheckProc = 4% effective</span></div>
+<div class="line"><span class="lineno">  204</span>    <span class="keywordtype">float</span> effective = <a class="code hl_function" href="../../d5/d8a/a04475.html#ac2dda4615e476c49664c332dfe3e309b">CalculateEffectiveProcRate</a>(4.0f, 100.0f);</div>
+<div class="line"><span class="lineno">  205</span>    EXPECT_NEAR(effective, 4.0f, 0.01f);</div>
+<div class="line"><span class="lineno">  206</span>}</div>
+<div class="ttc" id="aa04475_html_ac2dda4615e476c49664c332dfe3e309b"><div class="ttname"><a href="../../d5/d8a/a04475.html#ac2dda4615e476c49664c332dfe3e309b">CalculateEffectiveProcRate</a></div><div class="ttdeci">float CalculateEffectiveProcRate(float dbcChance, float checkProcRate)</div><div class="ttdoc">Calculate the effective proc rate combining DBC chance and CheckProc.</div><div class="ttdef"><b>Definition:</b> SpellScriptMissileBarrageTest.cpp:182</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00035">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>, and <a class="el" href="../../#l00043">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00182">CalculateEffectiveProcRate()</a>.</p>
 
 </div>
 </div>
-<a id="a77f70e6e60572369f011d499de48499f" name="a77f70e6e60572369f011d499de48499f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a77f70e6e60572369f011d499de48499f">&#9670;&#160;</a></span>TEST_F() <span class="overload">[14/22]</span></h2>
+<a id="acd2cc80be83d1ce20f5f41d590dcbd82" name="acd2cc80be83d1ce20f5f41d590dcbd82"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acd2cc80be83d1ce20f5f41d590dcbd82">&#9670;&#160;</a></span>TEST_F() <span class="overload">[9/15]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -686,13 +612,13 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/dbf/a30195.html">UlduarVehicleScaleTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../de/d19/a30207.html">MissileBarrageTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">NaxxramasEntryGear&#160;</td>
+          <td class="paramtype">EffectiveRate_ArcaneBlast_Rank5&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -702,20 +628,18 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   77</span>{</div>
-<div class="line"><span class="lineno">   78</span>    <span class="comment">// totalILvl = 2805 (avg 187 * 15 items, typical Naxx entry)</span></div>
-<div class="line"><span class="lineno">   79</span>    <span class="comment">// (2805 - 2500) / 500 = 0.61 -&gt; -39%</span></div>
-<div class="line"><span class="lineno">   80</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../d3/d6e/a05227.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(2805.0f);</div>
-<div class="line"><span class="lineno">   81</span>    EXPECT_FLOAT_EQ(result, 0.61f);</div>
-<div class="line"><span class="lineno">   82</span>    EXPECT_EQ(<a class="code hl_function" href="../../d3/d6e/a05227.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(2805.0f), -39);</div>
-<div class="line"><span class="lineno">   83</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  188</span>{</div>
+<div class="line"><span class="lineno">  189</span>    <span class="comment">// Rank 5: 20% base chance * 100% CheckProc = 20% effective</span></div>
+<div class="line"><span class="lineno">  190</span>    <span class="keywordtype">float</span> effective = <a class="code hl_function" href="../../d5/d8a/a04475.html#ac2dda4615e476c49664c332dfe3e309b">CalculateEffectiveProcRate</a>(20.0f, 100.0f);</div>
+<div class="line"><span class="lineno">  191</span>    EXPECT_NEAR(effective, 20.0f, 0.01f);</div>
+<div class="line"><span class="lineno">  192</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00035">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>, and <a class="el" href="../../#l00043">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00182">CalculateEffectiveProcRate()</a>.</p>
 
 </div>
 </div>
-<a id="aee7adb4d2a4892c3cd902c1cd248eb11" name="aee7adb4d2a4892c3cd902c1cd248eb11"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aee7adb4d2a4892c3cd902c1cd248eb11">&#9670;&#160;</a></span>TEST_F() <span class="overload">[15/22]</span></h2>
+<a id="a574495213ded418bae43ebae94186bd0" name="a574495213ded418bae43ebae94186bd0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a574495213ded418bae43ebae94186bd0">&#9670;&#160;</a></span>TEST_F() <span class="overload">[10/15]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -723,13 +647,13 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/dbf/a30195.html">UlduarVehicleScaleTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../de/d19/a30207.html">MissileBarrageTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">OneRareItemPenalty&#160;</td>
+          <td class="paramtype">EffectiveRate_Fireball_Rank1&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -739,20 +663,18 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  159</span>{</div>
-<div class="line"><span class="lineno">  160</span>    <span class="comment">// 14 epic (200) + 1 rare (200 - 13 = 187): totalAdjustedILvl = 14*200 + 187 = 2987</span></div>
-<div class="line"><span class="lineno">  161</span>    <span class="comment">// (2987 - 2500) / 500 = 487/500 = 0.974 -&gt; round(-2.6) = -3%</span></div>
-<div class="line"><span class="lineno">  162</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../d3/d6e/a05227.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(2987.0f);</div>
-<div class="line"><span class="lineno">  163</span>    EXPECT_FLOAT_EQ(result, 0.974f);</div>
-<div class="line"><span class="lineno">  164</span>    EXPECT_EQ(<a class="code hl_function" href="../../d3/d6e/a05227.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(2987.0f), -3);</div>
-<div class="line"><span class="lineno">  165</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  209</span>{</div>
+<div class="line"><span class="lineno">  210</span>    <span class="comment">// Rank 1: 4% base chance * 50% CheckProc = 2% effective</span></div>
+<div class="line"><span class="lineno">  211</span>    <span class="keywordtype">float</span> effective = <a class="code hl_function" href="../../d5/d8a/a04475.html#ac2dda4615e476c49664c332dfe3e309b">CalculateEffectiveProcRate</a>(4.0f, 50.0f);</div>
+<div class="line"><span class="lineno">  212</span>    EXPECT_NEAR(effective, 2.0f, 0.01f);</div>
+<div class="line"><span class="lineno">  213</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00035">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>, and <a class="el" href="../../#l00043">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00182">CalculateEffectiveProcRate()</a>.</p>
 
 </div>
 </div>
-<a id="a6984febda90dbdc1cdda96a3cd5af830" name="a6984febda90dbdc1cdda96a3cd5af830"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6984febda90dbdc1cdda96a3cd5af830">&#9670;&#160;</a></span>TEST_F() <span class="overload">[16/22]</span></h2>
+<a id="ab39746f7c4ec98445dc62c1bc5cb7265" name="ab39746f7c4ec98445dc62c1bc5cb7265"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab39746f7c4ec98445dc62c1bc5cb7265">&#9670;&#160;</a></span>TEST_F() <span class="overload">[11/15]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -760,13 +682,13 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/dbf/a30195.html">UlduarVehicleScaleTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../de/d19/a30207.html">MissileBarrageTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">OneUncommonItemPenalty&#160;</td>
+          <td class="paramtype">EffectiveRate_Fireball_Rank5&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -776,20 +698,18 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  168</span>{</div>
-<div class="line"><span class="lineno">  169</span>    <span class="comment">// 14 epic (200) + 1 uncommon (200 - 26 = 174): totalAdjustedILvl = 14*200 + 174 = 2974</span></div>
-<div class="line"><span class="lineno">  170</span>    <span class="comment">// (2974 - 2500) / 500 = 474/500 = 0.948 -&gt; round(-5.2) = -5%</span></div>
-<div class="line"><span class="lineno">  171</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../d3/d6e/a05227.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(2974.0f);</div>
-<div class="line"><span class="lineno">  172</span>    EXPECT_FLOAT_EQ(result, 0.948f);</div>
-<div class="line"><span class="lineno">  173</span>    EXPECT_EQ(<a class="code hl_function" href="../../d3/d6e/a05227.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(2974.0f), -5);</div>
-<div class="line"><span class="lineno">  174</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  195</span>{</div>
+<div class="line"><span class="lineno">  196</span>    <span class="comment">// Rank 5: 20% base chance * 50% CheckProc = 10% effective</span></div>
+<div class="line"><span class="lineno">  197</span>    <span class="keywordtype">float</span> effective = <a class="code hl_function" href="../../d5/d8a/a04475.html#ac2dda4615e476c49664c332dfe3e309b">CalculateEffectiveProcRate</a>(20.0f, 50.0f);</div>
+<div class="line"><span class="lineno">  198</span>    EXPECT_NEAR(effective, 10.0f, 0.01f);</div>
+<div class="line"><span class="lineno">  199</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00035">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>, and <a class="el" href="../../#l00043">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00182">CalculateEffectiveProcRate()</a>.</p>
 
 </div>
 </div>
-<a id="a691b1f51530aefd24b776a186d3edf9d" name="a691b1f51530aefd24b776a186d3edf9d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a691b1f51530aefd24b776a186d3edf9d">&#9670;&#160;</a></span>TEST_F() <span class="overload">[17/22]</span></h2>
+<a id="aaae02d3218c11e06e93c5ee51f073546" name="aaae02d3218c11e06e93c5ee51f073546"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aaae02d3218c11e06e93c5ee51f073546">&#9670;&#160;</a></span>TEST_F() <span class="overload">[12/15]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -797,13 +717,13 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/dbf/a30195.html">UlduarVehicleScaleTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../de/d19/a30207.html">MissileBarrageTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">RSBiSGear&#160;</td>
+          <td class="paramtype">Fireball_FailsOnHighRoll&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -813,20 +733,21 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  141</span>{</div>
-<div class="line"><span class="lineno">  142</span>    <span class="comment">// totalILvl = 4204 (avg 280.3 * 15 items, RS BiS)</span></div>
-<div class="line"><span class="lineno">  143</span>    <span class="comment">// (4204 - 2500) / 500 = 3.408 -&gt; round(240.8) = +241%</span></div>
-<div class="line"><span class="lineno">  144</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../d3/d6e/a05227.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(4204.0f);</div>
-<div class="line"><span class="lineno">  145</span>    EXPECT_FLOAT_EQ(result, 3.408f);</div>
-<div class="line"><span class="lineno">  146</span>    EXPECT_EQ(<a class="code hl_function" href="../../d3/d6e/a05227.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(4204.0f), 241);</div>
-<div class="line"><span class="lineno">  147</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  144</span>{</div>
+<div class="line"><span class="lineno">  145</span>    <span class="comment">// Rolls 50-99 should fail</span></div>
+<div class="line"><span class="lineno">  146</span>    <span class="keywordflow">for</span> (<span class="keywordtype">int</span> roll = 50; roll &lt; 100; roll++)</div>
+<div class="line"><span class="lineno">  147</span>    {</div>
+<div class="line"><span class="lineno">  148</span>        EXPECT_FALSE(<a class="code hl_function" href="../../d5/d8a/a04475.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a>(<a class="code hl_variable" href="../../d7/d03/a05230.html#ae58d0c097ed2d1cccbf272f42b835d52">MageSpellFlags::FIREBALL</a>, roll))</div>
+<div class="line"><span class="lineno">  149</span>            &lt;&lt; <span class="stringliteral">&quot;Fireball should NOT proc with roll=&quot;</span> &lt;&lt; roll &lt;&lt; <span class="stringliteral">&quot; (&gt;= 50)&quot;</span>;</div>
+<div class="line"><span class="lineno">  150</span>    }</div>
+<div class="line"><span class="lineno">  151</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00035">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>, and <a class="el" href="../../#l00043">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00076">MageSpellFlags::FIREBALL</a>, and <a class="el" href="../../#l00057">SimulateMissileBarrageCheckProc()</a>.</p>
 
 </div>
 </div>
-<a id="a1f2bec1d8256ffb081dbbceb10dc82cf" name="a1f2bec1d8256ffb081dbbceb10dc82cf"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1f2bec1d8256ffb081dbbceb10dc82cf">&#9670;&#160;</a></span>TEST_F() <span class="overload">[18/22]</span></h2>
+<a id="aeab0a3a6edde33d54feef5dd9ceea629" name="aeab0a3a6edde33d54feef5dd9ceea629"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aeab0a3a6edde33d54feef5dd9ceea629">&#9670;&#160;</a></span>TEST_F() <span class="overload">[13/15]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -834,13 +755,13 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/dbf/a30195.html">UlduarVehicleScaleTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../de/d19/a30207.html">MissileBarrageTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">SiegeHealthMatchesCsv&#160;</td>
+          <td class="paramtype">Fireball_ProcsOnLowRoll&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -850,18 +771,21 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  223</span>{</div>
-<div class="line"><span class="lineno">  224</span>    EXPECT_FLOAT_EQ(<a class="code hl_function" href="../../d3/d6e/a05227.html#aa21e2162e63f4227effb0e9524258f2d">CalcScaledVehicleValue</a>(1134000.0f, 2550.0f), 113400.0f);</div>
-<div class="line"><span class="lineno">  225</span>    EXPECT_FLOAT_EQ(<a class="code hl_function" href="../../d3/d6e/a05227.html#aa21e2162e63f4227effb0e9524258f2d">CalcScaledVehicleValue</a>(1134000.0f, 3195.0f), 1576260.0f);</div>
-<div class="line"><span class="lineno">  226</span>    EXPECT_FLOAT_EQ(<a class="code hl_function" href="../../d3/d6e/a05227.html#aa21e2162e63f4227effb0e9524258f2d">CalcScaledVehicleValue</a>(1134000.0f, 3390.0f), 2018520.0f);</div>
-<div class="line"><span class="lineno">  227</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  134</span>{</div>
+<div class="line"><span class="lineno">  135</span>    <span class="comment">// Rolls 0-49 should succeed</span></div>
+<div class="line"><span class="lineno">  136</span>    <span class="keywordflow">for</span> (<span class="keywordtype">int</span> roll = 0; roll &lt; 50; roll++)</div>
+<div class="line"><span class="lineno">  137</span>    {</div>
+<div class="line"><span class="lineno">  138</span>        EXPECT_TRUE(<a class="code hl_function" href="../../d5/d8a/a04475.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a>(<a class="code hl_variable" href="../../d7/d03/a05230.html#ae58d0c097ed2d1cccbf272f42b835d52">MageSpellFlags::FIREBALL</a>, roll))</div>
+<div class="line"><span class="lineno">  139</span>            &lt;&lt; <span class="stringliteral">&quot;Fireball should proc with roll=&quot;</span> &lt;&lt; roll &lt;&lt; <span class="stringliteral">&quot; (&lt; 50)&quot;</span>;</div>
+<div class="line"><span class="lineno">  140</span>    }</div>
+<div class="line"><span class="lineno">  141</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00050">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcScaledVehicleValue()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00076">MageSpellFlags::FIREBALL</a>, and <a class="el" href="../../#l00057">SimulateMissileBarrageCheckProc()</a>.</p>
 
 </div>
 </div>
-<a id="acbc00d4e2188706ec391791695b23e0c" name="acbc00d4e2188706ec391791695b23e0c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acbc00d4e2188706ec391791695b23e0c">&#9670;&#160;</a></span>TEST_F() <span class="overload">[19/22]</span></h2>
+<a id="ab581bb40fc8c18dc8273db253cad2d44" name="ab581bb40fc8c18dc8273db253cad2d44"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab581bb40fc8c18dc8273db253cad2d44">&#9670;&#160;</a></span>TEST_F() <span class="overload">[14/15]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -869,13 +793,13 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/dbf/a30195.html">UlduarVehicleScaleTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../de/d19/a30207.html">MissileBarrageTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">ToCBiSGear&#160;</td>
+          <td class="paramtype">Fireball_Returns50PercentRate&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -885,20 +809,17 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  122</span>{</div>
-<div class="line"><span class="lineno">  123</span>    <span class="comment">// totalILvl = 3884 (avg 258.9 * 15 items, ToGC BiS)</span></div>
-<div class="line"><span class="lineno">  124</span>    <span class="comment">// (3884 - 2500) / 500 = 2.768 -&gt; round(176.8) = +177%</span></div>
-<div class="line"><span class="lineno">  125</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../d3/d6e/a05227.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(3884.0f);</div>
-<div class="line"><span class="lineno">  126</span>    EXPECT_FLOAT_EQ(result, 2.768f);</div>
-<div class="line"><span class="lineno">  127</span>    EXPECT_EQ(<a class="code hl_function" href="../../d3/d6e/a05227.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(3884.0f), 177);</div>
-<div class="line"><span class="lineno">  128</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  154</span>{</div>
+<div class="line"><span class="lineno">  155</span>    <span class="keywordtype">float</span> rate = RunStatisticalTest(<a class="code hl_variable" href="../../d7/d03/a05230.html#ae58d0c097ed2d1cccbf272f42b835d52">MageSpellFlags::FIREBALL</a>);</div>
+<div class="line"><span class="lineno">  156</span>    EXPECT_NEAR(rate, 50.0f, 0.01f) &lt;&lt; <span class="stringliteral">&quot;Fireball should have 50% CheckProc pass rate&quot;</span>;</div>
+<div class="line"><span class="lineno">  157</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00035">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>, and <a class="el" href="../../#l00043">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00076">MageSpellFlags::FIREBALL</a>.</p>
 
 </div>
 </div>
-<a id="ae17af8669e2b2e53739a593bca36f20b" name="ae17af8669e2b2e53739a593bca36f20b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae17af8669e2b2e53739a593bca36f20b">&#9670;&#160;</a></span>TEST_F() <span class="overload">[20/22]</span></h2>
+<a id="ad0e7264881bbb5fe5752d47c56930961" name="ad0e7264881bbb5fe5752d47c56930961"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad0e7264881bbb5fe5752d47c56930961">&#9670;&#160;</a></span>TEST_F() <span class="overload">[15/15]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -906,13 +827,13 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/dbf/a30195.html">UlduarVehicleScaleTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../de/d19/a30207.html">MissileBarrageTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">Ulduar10Gear&#160;</td>
+          <td class="paramtype">OtherSpells_Returns50PercentRate&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -922,90 +843,12 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   95</span>{</div>
-<div class="line"><span class="lineno">   96</span>    <span class="comment">// totalILvl = 3195 (avg 213 * 15 items, Ulduar 10)</span></div>
-<div class="line"><span class="lineno">   97</span>    <span class="comment">// (3195 - 2500) / 500 = 1.39 -&gt; +39%</span></div>
-<div class="line"><span class="lineno">   98</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../d3/d6e/a05227.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(3195.0f);</div>
-<div class="line"><span class="lineno">   99</span>    EXPECT_FLOAT_EQ(result, 1.39f);</div>
-<div class="line"><span class="lineno">  100</span>    EXPECT_EQ(<a class="code hl_function" href="../../d3/d6e/a05227.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(3195.0f), 39);</div>
-<div class="line"><span class="lineno">  101</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  166</span>{</div>
+<div class="line"><span class="lineno">  167</span>    <span class="comment">// Any spell that doesn&#39;t have the Arcane Blast flag should get 50% rate</span></div>
+<div class="line"><span class="lineno">  168</span>    <span class="keywordtype">float</span> rate = RunStatisticalTest(0x00000000);</div>
+<div class="line"><span class="lineno">  169</span>    EXPECT_NEAR(rate, 50.0f, 0.01f) &lt;&lt; <span class="stringliteral">&quot;Other spells should have 50% CheckProc pass rate&quot;</span>;</div>
+<div class="line"><span class="lineno">  170</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00035">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>, and <a class="el" href="../../#l00043">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount()</a>.</p>
-
-</div>
-</div>
-<a id="a1ae53b56b33568cec2c078a3e9e32ea6" name="a1ae53b56b33568cec2c078a3e9e32ea6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1ae53b56b33568cec2c078a3e9e32ea6">&#9670;&#160;</a></span>TEST_F() <span class="overload">[21/22]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/dbf/a30195.html">UlduarVehicleScaleTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">Ulduar25Gear&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  104</span>{</div>
-<div class="line"><span class="lineno">  105</span>    <span class="comment">// totalILvl = 3390 (avg 226 * 15 items, Ulduar 25)</span></div>
-<div class="line"><span class="lineno">  106</span>    <span class="comment">// (3390 - 2500) / 500 = 1.78 -&gt; +78%</span></div>
-<div class="line"><span class="lineno">  107</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../d3/d6e/a05227.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(3390.0f);</div>
-<div class="line"><span class="lineno">  108</span>    EXPECT_FLOAT_EQ(result, 1.78f);</div>
-<div class="line"><span class="lineno">  109</span>    EXPECT_EQ(<a class="code hl_function" href="../../d3/d6e/a05227.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(3390.0f), 78);</div>
-<div class="line"><span class="lineno">  110</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00035">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>, and <a class="el" href="../../#l00043">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount()</a>.</p>
-
-</div>
-</div>
-<a id="aa79cf02be088752762c99510284dc0fa" name="aa79cf02be088752762c99510284dc0fa"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa79cf02be088752762c99510284dc0fa">&#9670;&#160;</a></span>TEST_F() <span class="overload">[22/22]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/dbf/a30195.html">UlduarVehicleScaleTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">UlduarBiSGear&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  113</span>{</div>
-<div class="line"><span class="lineno">  114</span>    <span class="comment">// totalILvl = 3780 (avg 252 * 15 items, Ulduar BiS)</span></div>
-<div class="line"><span class="lineno">  115</span>    <span class="comment">// (3780 - 2500) / 500 = 2.56 -&gt; +156%</span></div>
-<div class="line"><span class="lineno">  116</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../d3/d6e/a05227.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(3780.0f);</div>
-<div class="line"><span class="lineno">  117</span>    EXPECT_FLOAT_EQ(result, 2.56f);</div>
-<div class="line"><span class="lineno">  118</span>    EXPECT_EQ(<a class="code hl_function" href="../../d3/d6e/a05227.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a>(3780.0f), 156);</div>
-<div class="line"><span class="lineno">  119</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00035">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale()</a>, and <a class="el" href="../../#l00043">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount()</a>.</p>
-
 </div>
 </div>
 </div><!-- contents -->
@@ -1013,8 +856,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_7ee4929d46277e5eb29eea0f8a31fa60.html">Spells</a></li><li class="navelem"><a class="el" href="../../d5/d8a/a04475.html">VehicleScalingUlduarTest.cpp</a></li>
-    <li class="footer">Generated on Mon Sep 21 2026 23:33:23 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_7ee4929d46277e5eb29eea0f8a31fa60.html">Spells</a></li><li class="navelem"><a class="el" href="../../d5/d8a/a04475.html">SpellScriptMissileBarrageTest.cpp</a></li>
+    <li class="footer">Generated on Tue Sep 29 2026 01:12:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

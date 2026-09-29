@@ -1,11 +1,22 @@
 var a20739 =
 [
-    [ "npc_ulduar_proximity_mine", "dc/d30/a20739.html#a4d8a6ab45b259e42d33d5114d1f7e947", null ],
-    [ "AttackStart", "dc/d30/a20739.html#ae88f3a9cb40aebb469849799e7b7c7c0", null ],
-    [ "CanAIAttack", "dc/d30/a20739.html#a18311072271a18b279c5bf21f7da2482", null ],
-    [ "MoveInLineOfSight", "dc/d30/a20739.html#a6a406f8098dac7038173f51e9f85a79b", null ],
-    [ "UpdateAI", "dc/d30/a20739.html#ad014e0aa8125ef13cfea039acfe0c76f", null ],
-    [ "_exploded", "dc/d30/a20739.html#ad1cd15a93a35f4034c0d690e8d1713ea", null ],
-    [ "_timer", "dc/d30/a20739.html#afe009de55826305826105bd29458d0eb", null ],
-    [ "_timer2", "dc/d30/a20739.html#a08afb215eeaa5e0ec4d9543bc474d392", null ]
+    [ "npc_ulduar_leviathan_mkii", "dc/d30/a20739.html#a90485942ab092db2f28b165f761eb495", null ],
+    [ "AttackStart", "dc/d30/a20739.html#a35ab8ffefb3717fa26c554e8d48ff2ac", null ],
+    [ "DamageTaken", "dc/d30/a20739.html#ac2443db8d15b5ee3597fefdc6389f114", null ],
+    [ "EnterEvadeMode", "dc/d30/a20739.html#a47ceec21f91030a1810392ecc0adafd2", null ],
+    [ "GetS3", "dc/d30/a20739.html#aba4be715815acca2ace025002750277e", null ],
+    [ "JustSummoned", "dc/d30/a20739.html#ab6a514f6bddd77cce81e117a3fa18036", null ],
+    [ "KilledUnit", "dc/d30/a20739.html#a8f40ca6bd9515e6d645e6140f21adb06", null ],
+    [ "MoveInLineOfSight", "dc/d30/a20739.html#abb2cbb6e0999fbd0eacba4c414458b8a", null ],
+    [ "PassengerBoarded", "dc/d30/a20739.html#a2ea5689299a108e729bde24de63e71aa", null ],
+    [ "Reset", "dc/d30/a20739.html#afaa3072c296341693ef4803330a13929", null ],
+    [ "SetData", "dc/d30/a20739.html#a83a6d7d5c94c4cf8b76474ef8f3b0608", null ],
+    [ "SpellHit", "dc/d30/a20739.html#a790900963d9e073f4f8e4a0546721f52", null ],
+    [ "SummonedCreatureDespawn", "dc/d30/a20739.html#a21bc59eafdd3459ce419bacb224a4895", null ],
+    [ "UpdateAI", "dc/d30/a20739.html#a79b9146be412e5862b47cd34073a2fd7", null ],
+    [ "_events", "dc/d30/a20739.html#a8569f601aa9a6963d41d00e30f041727", null ],
+    [ "_isEvading", "dc/d30/a20739.html#a61fed1e77c98422cda155255dc7730d7", null ],
+    [ "_phase", "dc/d30/a20739.html#aadcf5849e2a2098e8183aebbc3c16c91", null ],
+    [ "_summons", "dc/d30/a20739.html#af1f619b4b408fb3610f1216005d20088", null ],
+    [ "instance", "dc/d30/a20739.html#a1756b869c05920f3b9d64931c036fdb7", null ]
 ];

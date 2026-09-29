@@ -1,6 +1,5 @@
 var a10883 =
 [
-    [ "LootScript", "dd/dee/a10883.html#acb6898fdb67e5bdcf0de945da5ec667d", null ],
-    [ "IsDatabaseBound", "dd/dee/a10883.html#ad60b605eac89be48efd339127e9cb9cd", null ],
-    [ "OnLootMoney", "dd/dee/a10883.html#a56a57baead49f6815a9979b181a55375", null ]
+    [ "MailScript", "dd/dee/a10883.html#ac88f68e8ad89f950d7d3b486b03770d9", null ],
+    [ "OnBeforeMailDraftSendMailTo", "dd/dee/a10883.html#ab4e3f0552ffc705ef44e8ca6c36f2be7", null ]
 ];

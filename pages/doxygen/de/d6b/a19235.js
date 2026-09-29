@@ -1,5 +1,8 @@
 var a19235 =
 [
-    [ "npc_darkfallen_tactician", "de/d6b/a19235.html#a946ccdf41d93a3477204e303c3404c5c", null ],
-    [ "ScheduleSpells", "de/d6b/a19235.html#a26dcb830533771faf8ebc90995ea010b", null ]
+    [ "npc_vampiric_fiend", "de/d6b/a19235.html#a4ddef98ac3b9d166980243b0dbe821f7", null ],
+    [ "EnterEvadeMode", "de/d6b/a19235.html#ac9f90234d1f100c671f70b249a339314", null ],
+    [ "JustEngagedWith", "de/d6b/a19235.html#a6167d1529b88c3b85cf21547b89bbc98", null ],
+    [ "UpdateAI", "de/d6b/a19235.html#aba3a8c1bfaa1f841f820e9540bc2267a", null ],
+    [ "_scheduler", "de/d6b/a19235.html#a8978bf1ffc6009b29c738ebe3232887f", null ]
 ];

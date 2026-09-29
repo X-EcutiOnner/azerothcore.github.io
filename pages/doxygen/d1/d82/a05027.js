@@ -1,10 +1,16 @@
 var a05027 =
 [
-    [ "Acore::has_type< T, std::tuple< Us... > >", "de/d2b/a05991.html", null ],
-    [ "Acore::is_tuple< typename >", "d2/d10/a05995.html", null ],
-    [ "Acore::is_tuple< std::tuple< Ts... > >", "d1/d05/a05999.html", null ],
-    [ "new_from_tuple", "d1/d82/a05027.html#aac12e702d41e9aa126f7d39f0f295252", null ],
-    [ "new_from_tuple", "d1/d82/a05027.html#a028fc93107022ad23a763503c9b0bbdb", null ],
-    [ "has_type_v", "d1/d82/a05027.html#aa4e7bc2a96e641dd1642a3c61cfc96b0", null ],
-    [ "is_tuple_v", "d1/d82/a05027.html#a4104f84ad757b701a6ffbd51f5d10b9f", null ]
+    [ "frand", "d1/d82/a05027.html#a19bd31014583536af788a65b398e4406", null ],
+    [ "GetRng", "d1/d82/a05027.html#a8602a67daa881e92c3eb9204c88b7733", null ],
+    [ "irand", "d1/d82/a05027.html#a6ae07d2bb0593d8339e65c136f63ecc0", null ],
+    [ "rand32", "d1/d82/a05027.html#ac699324b85bb2266ea8978796967c541", null ],
+    [ "rand_chance", "d1/d82/a05027.html#a66621d09a8cc2aa9476391004fe2c427", null ],
+    [ "rand_norm", "d1/d82/a05027.html#af2f9363ceebb6f78067b4a146d1de9df", null ],
+    [ "randtime", "d1/d82/a05027.html#a9ecda65ea9686c86f47934d04d38ec69", null ],
+    [ "randtime", "d1/d82/a05027.html#a7c8533961af63b720553e868fdaabd85", null ],
+    [ "urand", "d1/d82/a05027.html#ab17def34ccbbd868dc87a16bf35acdbd", null ],
+    [ "urandms", "d1/d82/a05027.html#af901d57f29ff48f701a375e44a0f1261", null ],
+    [ "urandweighted", "d1/d82/a05027.html#a3f7e714c8fc3a6f6ccbe91d524a84f23", null ],
+    [ "engine", "d1/d82/a05027.html#a8ab11e2fa939d9f333dfa1a858e7690b", null ],
+    [ "sfmtRand", "d1/d82/a05027.html#a131ba7587aa544a7e73ff9884d6bc784", null ]
 ];

@@ -1,7 +1,6 @@
 var a23491 =
 [
-    [ "PeriodicTick", "df/d5d/a23491.html#afb5cc6129423cb4f7c3da50977da01f2", null ],
-    [ "PrepareAuraScript", "df/d5d/a23491.html#aea6ca9c5d490f62ae737bfc07751da42", null ],
-    [ "Register", "df/d5d/a23491.html#ad0eb66e0bab8441e1bb3db42967df7ff", null ],
-    [ "Validate", "df/d5d/a23491.html#ae07f6e7de08ada74b4cb9ac890c70c35", null ]
+    [ "go_ahune_ice_stone", "df/d5d/a23491.html#ab7b665f01da80751ea97705c5113bde7", null ],
+    [ "GossipSelect", "df/d5d/a23491.html#aadb4db41ed84922c0a2d0463b8616876", null ],
+    [ "_instance", "df/d5d/a23491.html#a43651f471ac777b59fb8ba67b830cd35", null ]
 ];

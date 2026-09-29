@@ -1,6 +1,7 @@
 var a03833 =
 [
-    [ "instance_wailing_caverns", "dd/d67/a15895.html", "dd/d67/a15895" ],
-    [ "instance_wailing_caverns::instance_wailing_caverns_InstanceMapScript", "d2/d76/a15899.html", "d2/d76/a15899" ],
-    [ "AddSC_instance_wailing_caverns", "de/d6a/a03833.html#a67427453c8ec357648c276eaed523225", null ]
+    [ "Movement::FallInitializer", "d4/d3b/a10579.html", "d4/d3b/a10579" ],
+    [ "Movement::CommonInitializer", "d0/d5a/a10583.html", "d0/d5a/a10583" ],
+    [ "CHECK", "de/d6a/a03833.html#a4005b3acaa5011bfc2cc027562c04dfb", null ],
+    [ "computeDuration", "de/d6a/a03833.html#a0f9e26b66bd86bb9701c366e4f9529c3", null ]
 ];

@@ -1,6 +1,10 @@
 var a18323 =
 [
-    [ "HandleScriptEffect", "db/d8c/a18323.html#ac6017cbe86b328aef00f707051c67e5f", null ],
-    [ "PrepareSpellScript", "db/d8c/a18323.html#a3e21794652b0ffea67571f9b294b4961", null ],
-    [ "Register", "db/d8c/a18323.html#a4d070dff98fed842e0a3839e918f7c5a", null ]
+    [ "npc_bone_spikeAI", "db/d8c/a18323.html#a1b54aaa7b5ed142561fbc02e9593e87c", null ],
+    [ "DoAction", "db/d8c/a18323.html#a38b2944fb4e9d7fcc7205423faa8a994", null ],
+    [ "IsSummonedBy", "db/d8c/a18323.html#af2794484ee3ebf0579ce7357d222240d", null ],
+    [ "JustDied", "db/d8c/a18323.html#ae9c8fa649ba9fac74187913d29be9dd6", null ],
+    [ "UpdateAI", "db/d8c/a18323.html#a8eff2bcc6507c65e563ed272977f224e", null ],
+    [ "events", "db/d8c/a18323.html#a6a35900435d41d0603919f29415667a5", null ],
+    [ "hasTrappedUnit", "db/d8c/a18323.html#aeb7236ef0d313fd3799458f3d50276f7", null ]
 ];

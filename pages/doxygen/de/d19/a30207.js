@@ -1,5 +1,6 @@
 var a30207 =
 [
-    [ "fcc", "de/d19/a30207.html#a828a2845e666d6eb47d6d4705a663a3d", null ],
-    [ "fcc_txt", "de/d19/a30207.html#acf0f4449ab5a64822833b86b41e2487c", null ]
+    [ "RunStatisticalTest", "de/d19/a30207.html#a5dadc645a4cae9bf9e9ed990616118be", null ],
+    [ "SetUp", "de/d19/a30207.html#afa15552d260ab744d178e1c1b7ed23bb", null ],
+    [ "TearDown", "de/d19/a30207.html#a894d832a3ee006179de45e944d25a732", null ]
 ];

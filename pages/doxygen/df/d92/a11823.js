@@ -1,5 +1,6 @@
 var a11823 =
 [
+    [ "CharacterCreateInfo", "df/d92/a11823.html#a9b19c0f868654d27235e0d0291a5603c", null ],
     [ "Player", "df/d92/a11823.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
     [ "WorldSession", "df/d92/a11823.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
     [ "CharCount", "df/d92/a11823.html#aad61b8ca0caf09d6b62ee9fffd78cceb", null ],

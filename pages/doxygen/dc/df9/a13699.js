@@ -1,10 +1,8 @@
 var a13699 =
 [
-    [ "HandleDummyTick", "dc/df9/a13699.html#a036291aee8b08212ecead4afce01adf4", null ],
-    [ "Load", "dc/df9/a13699.html#aaecea41af42790dfe9aeba3c56480668", null ],
-    [ "OnApply", "dc/df9/a13699.html#a37b425f877e7415b245c119c29521c4b", null ],
-    [ "PrepareAuraScript", "dc/df9/a13699.html#ade7bfbc3400fb620956d1e8dff7d4a8a", null ],
-    [ "Register", "dc/df9/a13699.html#a9b32995b6e324a6c779bbd742de6cce2", null ],
-    [ "Validate", "dc/df9/a13699.html#a72595ee3cd995d7bed2bcf8c9f5199fb", null ],
-    [ "_forsakenSpell", "dc/df9/a13699.html#ae2aee05482e4854120fc581ecec41f95", null ]
+    [ "CalcPeriodic", "dc/df9/a13699.html#a9aaca3bb1d762c9bddf3b91205f48d00", null ],
+    [ "HandleDummyTick", "dc/df9/a13699.html#acd3616df94f888ad5fb1c5b0607f6f25", null ],
+    [ "HandleUpdatePeriodic", "dc/df9/a13699.html#a70ef86fd58eec1422bac6b61a4123842", null ],
+    [ "PrepareAuraScript", "dc/df9/a13699.html#a9a97a6ab249728dbad4d3603640a7963", null ],
+    [ "Register", "dc/df9/a13699.html#ab6b223ed68a521ea9a3cbc2a6e21ac49", null ]
 ];

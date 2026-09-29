@@ -1,20 +1,16 @@
 var a30319 =
 [
-    [ "FileLoader", "d7/df4/a30319.html#a51313b536560d1d89d8350475d2bc749", null ],
-    [ "~FileLoader", "d7/df4/a30319.html#a0954776182dd01364bdb216539ce398b", null ],
-    [ "FileLoader", "d7/df4/a30319.html#a51313b536560d1d89d8350475d2bc749", null ],
-    [ "~FileLoader", "d7/df4/a30319.html#a0954776182dd01364bdb216539ce398b", null ],
-    [ "free", "d7/df4/a30319.html#a738aeb2ebe751c9fc75013dbce30dcc4", null ],
-    [ "free", "d7/df4/a30319.html#aef98564821c8e63b6d484179cda0b380", null ],
-    [ "GetData", "d7/df4/a30319.html#aed85cdbd6a4e52096292c6ed8578f7bd", null ],
-    [ "GetData", "d7/df4/a30319.html#aed85cdbd6a4e52096292c6ed8578f7bd", null ],
-    [ "GetDataSize", "d7/df4/a30319.html#a2a07adb0692a51af06ccd31d449ae444", null ],
-    [ "GetDataSize", "d7/df4/a30319.html#a2a07adb0692a51af06ccd31d449ae444", null ],
-    [ "loadFile", "d7/df4/a30319.html#a11908109042f93ddde393e7a874683c9", null ],
-    [ "loadFile", "d7/df4/a30319.html#a11908109042f93ddde393e7a874683c9", null ],
-    [ "prepareLoadedData", "d7/df4/a30319.html#ab66347098d7c9ac470339c232f9b7588", null ],
-    [ "prepareLoadedData", "d7/df4/a30319.html#a498a33d80768843b4ab1ff2d5ffe68d9", null ],
-    [ "data", "d7/df4/a30319.html#aff1880ac2038f17f4d1f63bc9f7d9afd", null ],
-    [ "data_size", "d7/df4/a30319.html#a355891fc980538e74080b9b83a95dec8", null ],
-    [ "version", "d7/df4/a30319.html#a41cedec185e5909d83c8a185d1476dee", null ]
+    [ "Iterator", "d7/df4/a30319.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1", null ],
+    [ "Iterator", "d7/df4/a30319.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1", null ],
+    [ "operator!=", "d7/df4/a30319.html#a5a6ff8d913effe13f7b5e25d8224bbd1", null ],
+    [ "operator!=", "d7/df4/a30319.html#a5a6ff8d913effe13f7b5e25d8224bbd1", null ],
+    [ "operator*", "d7/df4/a30319.html#a7b3de0d9987b834eaf6e909dd22f2528", null ],
+    [ "operator*", "d7/df4/a30319.html#a7b3de0d9987b834eaf6e909dd22f2528", null ],
+    [ "operator++", "d7/df4/a30319.html#af7dc5aae457d264ebe4aa42f5b700589", null ],
+    [ "operator++", "d7/df4/a30319.html#af7dc5aae457d264ebe4aa42f5b700589", null ],
+    [ "operator->", "d7/df4/a30319.html#a3885f293a5dba744603beffbf9f8b640", null ],
+    [ "operator->", "d7/df4/a30319.html#a3885f293a5dba744603beffbf9f8b640", null ],
+    [ "operator==", "d7/df4/a30319.html#a72733f262c3850fa0a0a51a3bf4e549c", null ],
+    [ "operator==", "d7/df4/a30319.html#a72733f262c3850fa0a0a51a3bf4e549c", null ],
+    [ "record", "d7/df4/a30319.html#a948512c44e53dfa177b85f82e9fd6160", null ]
 ];

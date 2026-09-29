@@ -1,7 +1,8 @@
 var a13871 =
 [
-    [ "OnRemove", "d5/d48/a13871.html#a2438d8c85ff2a446572286b0d058ecf1", null ],
-    [ "PrepareAuraScript", "d5/d48/a13871.html#ade353aafb960cabdb615718f41f485e8", null ],
-    [ "Register", "d5/d48/a13871.html#af1c312778a13f7fe8d174247f69258ac", null ],
-    [ "Validate", "d5/d48/a13871.html#afd75cdeb9430833fa6a59d7913c86a97", null ]
+    [ "CheckCast", "d5/d48/a13871.html#a414c603646c1a6be9bbb7059abbb7e71", null ],
+    [ "HandleScriptEffect", "d5/d48/a13871.html#a22f630cb9df4b435a5624f2865915753", null ],
+    [ "PrepareSpellScript", "d5/d48/a13871.html#a6e6b27ade1cac743946a976dbf343066", null ],
+    [ "Register", "d5/d48/a13871.html#a4afae0bafceeb6e6a9a26aea2162d4d9", null ],
+    [ "Validate", "d5/d48/a13871.html#a85779288126b21f516f2feb0238ee65b", null ]
 ];

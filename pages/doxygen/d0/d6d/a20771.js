@@ -1,9 +1,7 @@
 var a20771 =
 [
-    [ "OnApply", "d0/d6d/a20771.html#aaf6e89fc5d101b1622666a6fe15f20e7", null ],
-    [ "OnRemove", "d0/d6d/a20771.html#a9bfdefb3e212cca086dec752687e2b93", null ],
-    [ "OnRemoveSelf", "d0/d6d/a20771.html#a3076446d6761263fdb7f973f01be3cf2", null ],
-    [ "PrepareAuraScript", "d0/d6d/a20771.html#a685d6c0ffcc258f9d6857242cb28f6a8", null ],
-    [ "Register", "d0/d6d/a20771.html#a1369972dfbf969cb39efa88075fc13df", null ],
-    [ "Validate", "d0/d6d/a20771.html#ada8c858f70beb71765fd0f796209677b", null ]
+    [ "PrepareSpellScript", "d0/d6d/a20771.html#afae92a0d4e41fc2fd00b1fd0b6b11a22", null ],
+    [ "PreventSummon", "d0/d6d/a20771.html#a57fcc7a0e078c344e50863ba1951f244", null ],
+    [ "Register", "d0/d6d/a20771.html#a3813bf7e198f5f3c146b4639fa83a067", null ],
+    [ "SetDest", "d0/d6d/a20771.html#a4d49ebdf1dab3b4952e4f4c7c50ca16b", null ]
 ];

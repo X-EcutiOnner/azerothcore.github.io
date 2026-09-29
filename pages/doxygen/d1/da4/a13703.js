@@ -1,6 +1,10 @@
 var a13703 =
 [
-    [ "boss_baroness_anastariAI", "db/d8e/a13707.html", "db/d8e/a13707" ],
-    [ "boss_baroness_anastari", "d1/da4/a13703.html#a60f04c10d9b942cacf74a1dc8364dbbe", null ],
-    [ "GetAI", "d1/da4/a13703.html#a38073f80afbceb5535cc18ab524378a6", null ]
+    [ "HandleDummyTick", "d1/da4/a13703.html#a036291aee8b08212ecead4afce01adf4", null ],
+    [ "Load", "d1/da4/a13703.html#aaecea41af42790dfe9aeba3c56480668", null ],
+    [ "OnApply", "d1/da4/a13703.html#a37b425f877e7415b245c119c29521c4b", null ],
+    [ "PrepareAuraScript", "d1/da4/a13703.html#ade7bfbc3400fb620956d1e8dff7d4a8a", null ],
+    [ "Register", "d1/da4/a13703.html#a9b32995b6e324a6c779bbd742de6cce2", null ],
+    [ "Validate", "d1/da4/a13703.html#a72595ee3cd995d7bed2bcf8c9f5199fb", null ],
+    [ "_forsakenSpell", "d1/da4/a13703.html#ae2aee05482e4854120fc581ecec41f95", null ]
 ];

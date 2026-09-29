@@ -1,6 +1,18 @@
 var a10619 =
 [
-    [ "Description", "d9/dd2/a10619.html#a1d49e1ff4533507cb64dfc8fc6790c37", null ],
-    [ "MapId", "d9/dd2/a10619.html#a252400abf9080866cdf2eebba16df4dc", null ],
-    [ "MaxLimit", "d9/dd2/a10619.html#a38ba12a67e99cabba2388a63f12a2b53", null ]
+    [ "MoveSplineInitArgs", "d9/dd2/a10619.html#aa2b6c8940e7dc8bdd4ea6047a5ff1a68", null ],
+    [ "_checkPathBounds", "d9/dd2/a10619.html#a984db18cdbd061605a9d486b061dc7c0", null ],
+    [ "Validate", "d9/dd2/a10619.html#a17beca23a7a7eaa298debb5e9638daca", null ],
+    [ "facing", "d9/dd2/a10619.html#a8800fca5b50ab5123e92b28e921ec8b0", null ],
+    [ "flags", "d9/dd2/a10619.html#ac4271ed0434fc8e7f7a70e8869d81a0e", null ],
+    [ "HasVelocity", "d9/dd2/a10619.html#acad05815ff039fe1fea3d7cf56afb4f2", null ],
+    [ "initialOrientation", "d9/dd2/a10619.html#ab0b66cba791fc206be5b64310480cb88", null ],
+    [ "parabolic_amplitude", "d9/dd2/a10619.html#a133d1d0172fde0564a58a004cb354ed0", null ],
+    [ "path", "d9/dd2/a10619.html#a3857df1ab2d6dafef4a6d796e6593341", null ],
+    [ "path_Idx_offset", "d9/dd2/a10619.html#a6b6aaf43685649798db46d7b409d3e32", null ],
+    [ "splineId", "d9/dd2/a10619.html#ac8c84e828c23801a68524c9811f0336b", null ],
+    [ "time_perc", "d9/dd2/a10619.html#afe51d24d71b71e87015eeb4851418503", null ],
+    [ "TransformForTransport", "d9/dd2/a10619.html#ad9e8518e61b2f5f6ff8380518a6ad0cc", null ],
+    [ "velocity", "d9/dd2/a10619.html#af042454593bfd4dc888c1700af437933", null ],
+    [ "walk", "d9/dd2/a10619.html#aa58f23e75134e46a9ccbb2c563ecdc22", null ]
 ];

@@ -1,10 +1,11 @@
 var a01835 =
 [
-    [ "GraveyardStruct", "da/da4/a10367.html", "da/da4/a10367" ],
-    [ "GraveyardData", "de/d80/a10371.html", "de/d80/a10371" ],
-    [ "Graveyard", "dd/dd8/a10375.html", "dd/dd8/a10375" ],
-    [ "sGraveyard", "da/dcd/a01835.html#ac68c2a63982a6142e1931450d7b6115c", null ],
-    [ "GraveyardMapBounds", "da/dcd/a01835.html#aa5ea0c376a2e44483f8c5cb084b3b186", null ],
-    [ "GraveyardMapBoundsNonConst", "da/dcd/a01835.html#a6a551a1219fa9a26b5ed21656c2f9dd1", null ],
-    [ "WGGraveyardContainer", "da/dcd/a01835.html#a484cb47c00fe9b952853e3b04212437c", null ]
+    [ "npc_the_scourge_cauldron", "de/d3d/a14367.html", "de/d3d/a14367" ],
+    [ "npc_the_scourge_cauldron::npc_the_scourge_cauldronAI", "d0/d2f/a14371.html", "d0/d2f/a14371" ],
+    [ "npc_andorhal_tower", "da/d02/a14375.html", "da/d02/a14375" ],
+    [ "npc_andorhal_tower::npc_andorhal_towerAI", "d8/d16/a14379.html", "d8/d16/a14379" ],
+    [ "AndorhalTower", "da/dcd/a01835.html#a07061f0cf471fb1cb236b428c31965c8", [
+      [ "GO_BEACON_TORCH", "da/dcd/a01835.html#a07061f0cf471fb1cb236b428c31965c8ace3e47469a19c76e79a7ae1ca2b4f798", null ]
+    ] ],
+    [ "AddSC_western_plaguelands", "da/dcd/a01835.html#a978fbc9b0f23371fedcca17926c637cb", null ]
 ];

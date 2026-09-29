@@ -1,7 +1,9 @@
 var a20047 =
 [
-    [ "OnRemove", "da/d00/a20047.html#adf6b3d56199ad5a4545ce3874d1223db", null ],
-    [ "PrepareAuraScript", "da/d00/a20047.html#a2d278e60b34870110dab188896109e24", null ],
-    [ "Register", "da/d00/a20047.html#ac15847527cc4d162b3b34b8ca8628864", null ],
-    [ "Validate", "da/d00/a20047.html#ac573e5bd171c97af1905b4a57a45e1f4", null ]
+    [ "npc_stormforged_lieutenant", "da/d00/a20047.html#aef5101b1f28ccec1fc60ccb2981623b9", null ],
+    [ "JustEngagedWith", "da/d00/a20047.html#a262ac995279b1a936534c858e21122a9", null ],
+    [ "Reset", "da/d00/a20047.html#abc359564370152b28a002a801ba1ab3d", null ],
+    [ "UpdateAI", "da/d00/a20047.html#a4c207f0ef172585b97695b63e119d1bc", null ],
+    [ "BjarngrimGUID", "da/d00/a20047.html#ad56f4d2a06f3a3e5fc4d813b9036e0aa", null ],
+    [ "events", "da/d00/a20047.html#ae721c276ba7413974d25449ef2c5f1a9", null ]
 ];

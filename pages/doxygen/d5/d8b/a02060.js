@@ -1,10 +1,8 @@
 var a02060 =
 [
-    [ "AddGossipItemFor", "d5/d8b/a02060.html#a21e32e886a589c9093660b3c4c58f72c", null ],
-    [ "AddGossipItemFor", "d5/d8b/a02060.html#a1d54254ae4ddb1bb0e9e2c74dffe5bf5", null ],
-    [ "AddGossipItemFor", "d5/d8b/a02060.html#acd7e8e52a911742a99728cf9408e23b8", null ],
-    [ "ClearGossipMenuFor", "d5/d8b/a02060.html#af077a82741577a63a075c7d40b3b3dc5", null ],
-    [ "CloseGossipMenuFor", "d5/d8b/a02060.html#af8f7e54dac5ecc86e92d780c3918cb09", null ],
-    [ "SendGossipMenuFor", "d5/d8b/a02060.html#ad893abf2b09592b57715ef4a3222a2b3", null ],
-    [ "SendGossipMenuFor", "d5/d8b/a02060.html#ab43ecd551b53630add88fbf882236f78", null ]
+    [ "instance_the_black_morass", "df/d7e/a15459.html", "df/d7e/a15459" ],
+    [ "instance_the_black_morass::instance_the_black_morass_InstanceMapScript", "d2/d58/a15463.html", "d2/d58/a15463" ],
+    [ "AddSC_instance_the_black_morass", "d5/d8b/a02060.html#a665f808519def7182fa25d9c0a4525f6", null ],
+    [ "creatureData", "d5/d8b/a02060.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "PortalLocation", "d5/d8b/a02060.html#a744b7235a198467a51550de127971bb1", null ]
 ];

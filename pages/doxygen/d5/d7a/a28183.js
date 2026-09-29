@@ -1,5 +1,5 @@
 var a28183 =
 [
-    [ "achievement_fa_la_la_la_ogrila", "d5/d7a/a28183.html#ab98a8ab33fec62936bf3c235659c1445", null ],
-    [ "OnCheck", "d5/d7a/a28183.html#ad9f33606fcacfd698ed3a9fa22545022", null ]
+    [ "achievement_not_even_a_scratch", "d5/d7a/a28183.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
+    [ "OnCheck", "d5/d7a/a28183.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
 ];

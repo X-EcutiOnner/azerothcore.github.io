@@ -1,6 +1,9 @@
 var a24191 =
 [
-    [ "npc_aeranasAI", "db/d3c/a24195.html", "db/d3c/a24195" ],
-    [ "npc_aeranas", "d1/d7f/a24191.html#a6ea71481ef6a223a329b805081122537", null ],
-    [ "GetAI", "d1/d7f/a24191.html#a81167df6665bdca81ee13468dec19643", null ]
+    [ "npc_oscillating_frequency_scanner_master_bunnyAI", "d1/d7f/a24191.html#a273d585416dc92d39d5ec3824c08504d", null ],
+    [ "IsSummonedBy", "d1/d7f/a24191.html#a5f002d36c492ed2caf2290f4a073a7d0", null ],
+    [ "Reset", "d1/d7f/a24191.html#a06fa50580efeab8d847a05f20956d175", null ],
+    [ "UpdateAI", "d1/d7f/a24191.html#a8261a259cfbee0d3610ee441406fafcd", null ],
+    [ "playerGuid", "d1/d7f/a24191.html#aab717dd49284c483759a6223dbd7e6ea", null ],
+    [ "timer", "d1/d7f/a24191.html#afba1b71178c563a3db906057cd20de45", null ]
 ];

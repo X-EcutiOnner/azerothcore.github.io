@@ -1,9 +1,15 @@
 var a14519 =
 [
-    [ "npc_amanishi_scout", "d8/df4/a14519.html#a74bed56c21c184e661f62c30ce6d9140", null ],
-    [ "JustEngagedWith", "d8/df4/a14519.html#a5969fadd871094e993c4d3fe0b08054c", null ],
-    [ "Reset", "d8/df4/a14519.html#ac527a3a656888f7ac3d13636a0de7aad", null ],
-    [ "ScheduleCombat", "d8/df4/a14519.html#acb736dc42c5f9afbd92c97bfa8293606", null ],
-    [ "UpdateAI", "d8/df4/a14519.html#a3740a4fde31e1e81edb34dde61403acc", null ],
-    [ "_drumGUID", "d8/df4/a14519.html#afd9a1a57c413d5857331ac90665cc1e0", null ]
+    [ "npc_amanishi_tempest", "d8/df4/a14519.html#a8e15b39501998e9f8c45baef0963d160", null ],
+    [ "DoAction", "d8/df4/a14519.html#a50963cc0aac2560f6ddbf81000943ac3", null ],
+    [ "EnterEvadeMode", "d8/df4/a14519.html#a66c787bd318fdcad83b7b5008b4979f9", null ],
+    [ "JustDied", "d8/df4/a14519.html#aadda903d17a5f4560ce2db896bd7b257", null ],
+    [ "JustEngagedWith", "d8/df4/a14519.html#af277f5d1f73cf79ea8cfcb1e4fc744e3", null ],
+    [ "JustSummoned", "d8/df4/a14519.html#aac72fdc33051370c3cffa388f466b6be", null ],
+    [ "Reset", "d8/df4/a14519.html#aa921f85142f9103bea839bdc0330e1cc", null ],
+    [ "ScheduleEvents", "d8/df4/a14519.html#a09ba0ce51ad981578adcc1950c89d5ae", null ],
+    [ "SummonedCreatureEvade", "d8/df4/a14519.html#a61eebb122c9288c826cdf352c17e0590", null ],
+    [ "UpdateAI", "d8/df4/a14519.html#ad8f6b32c3f08eb2a4ac36a8d91434a4d", null ],
+    [ "_instance", "d8/df4/a14519.html#ab88e1d1ad979192f0519045d8ed2e14f", null ],
+    [ "_summons", "d8/df4/a14519.html#a4337b2bc417d8dafc4a6d5d10bbd0db9", null ]
 ];

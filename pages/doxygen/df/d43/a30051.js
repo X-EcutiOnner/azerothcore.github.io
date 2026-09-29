@@ -1,6 +1,5 @@
 var a30051 =
 [
-    [ "hasAttr", "df/d43/a30051.html#aec6e687803471c9e36fb371be3994db9", null ],
-    [ "name", "df/d43/a30051.html#acb40ba3ca029314d1efd8d4499428e4b", null ],
-    [ "spellId", "df/d43/a30051.html#a6b7e7e5d028fb5c006f8785a53394535", null ]
+    [ "SetUp", "df/d43/a30051.html#ad1d8aa4b381ae8f570e70741628c7e10", null ],
+    [ "_spellInfo", "df/d43/a30051.html#a377087158568c35ed7896f7fa31a7437", null ]
 ];

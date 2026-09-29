@@ -1,10 +1,10 @@
 var a21723 =
 [
-    [ "npc_imprisoned_beryl_sorcererAI", "d8/dc2/a21723.html#a0a8159a84689dbfd8c69ed523ce03817", null ],
-    [ "GotStinged", "d8/dc2/a21723.html#a0729c584c3b65e5f25f4445de378f0ea", null ],
-    [ "JustEngagedWith", "d8/dc2/a21723.html#a2f3e45b3f762ede62aa94a6ae3f2909f", null ],
-    [ "Reset", "d8/dc2/a21723.html#aedc82ee3bfa193a838d5af62533e19b4", null ],
-    [ "SpellHit", "d8/dc2/a21723.html#a2010b53b3a8ad1e0aa6ecb5a26c8b6c9", null ],
-    [ "UpdateAI", "d8/dc2/a21723.html#a21def23073eeec051c1c97a813e0ea84", null ],
-    [ "rebuff", "d8/dc2/a21723.html#ac83c25091fdd3c7876a88927b758261f", null ]
+    [ "npc_jenny", "d8/dc2/a21723.html#ab845ba4551900a03c5a995d348a1be55", null ],
+    [ "DamageTaken", "d8/dc2/a21723.html#a8700091c82bfff473f3d5563deb69e0b", null ],
+    [ "Initialize", "d8/dc2/a21723.html#aab8c540ebb90ebbaef961b1feb3013a3", null ],
+    [ "MoveInLineOfSight", "d8/dc2/a21723.html#acd0939cee3ecb9d961d09815d9c50f71", null ],
+    [ "UpdateFollowerAI", "d8/dc2/a21723.html#afbd142855602bcf7a8cd8e4cc4760cf0", null ],
+    [ "_events", "d8/dc2/a21723.html#aa98caf8b706551470c943b4b722a85ae", null ],
+    [ "_fezzix", "d8/dc2/a21723.html#ac2115c122c2eac2d5a36d1795d1e6bf0", null ]
 ];

@@ -1,6 +1,13 @@
 var a12979 =
 [
-    [ "FilterTargets", "da/d94/a12979.html#ac630fb5f068e4d26adb078b118994c45", null ],
-    [ "PrepareSpellScript", "da/d94/a12979.html#a5f4986bfad79573e65d56ff276c49914", null ],
-    [ "Register", "da/d94/a12979.html#aa1f5838d43871fd7908ea3b914666000", null ]
+    [ "go_suppression_device", "da/d94/a12979.html#ae8d3a5e9ca0bd621065bad9b8ee2733b", null ],
+    [ "Activate", "da/d94/a12979.html#aab10f7c30f4c7fcf89aa295d830da56f", null ],
+    [ "Deactivate", "da/d94/a12979.html#aaf01b7e3317e4b032e7c202ebfcb9a68", null ],
+    [ "DoAction", "da/d94/a12979.html#a036467db9b2661e7048216b03451861b", null ],
+    [ "InitializeAI", "da/d94/a12979.html#a6f40d8e47699b711466d8d36bdaa424c", null ],
+    [ "OnStateChanged", "da/d94/a12979.html#aa4690aee138b9cdda0d2c98045bcb443", null ],
+    [ "UpdateAI", "da/d94/a12979.html#a00fb90b16c82f9d968cc29275c05675a", null ],
+    [ "_active", "da/d94/a12979.html#a1accabc06137c07e9f74ea91d068672c", null ],
+    [ "_events", "da/d94/a12979.html#a43fc9da45057e18811a0efc69e01edc8", null ],
+    [ "_instance", "da/d94/a12979.html#a8c6b389e2df34d5f47b2599fc78ad072", null ]
 ];

@@ -1,11 +1,13 @@
 var a20323 =
 [
-    [ "npc_freya_ward", "de/dba/a20323.html#aeb5b3a3495622b05faf41d2ec0a82e3f", null ],
-    [ "DoAction", "de/dba/a20323.html#ac52ff5e24ff5361808fce4d8d1574ada", null ],
-    [ "JustSummoned", "de/dba/a20323.html#a71cd4c583a1f33168d12bbe473d0482e", null ],
-    [ "Reset", "de/dba/a20323.html#a134ff84f2cfa3a00cdd6158da6641369", null ],
-    [ "SummonedCreatureDespawn", "de/dba/a20323.html#a20fde559565c47f4451581e5d1a61e99", null ],
-    [ "UpdateAI", "de/dba/a20323.html#a62122abe02ae9351617eb3af9e36e88e", null ],
-    [ "_castTimer", "de/dba/a20323.html#afe313ebbc5c711183a9e623d8213ae64", null ],
-    [ "summons", "de/dba/a20323.html#abf3d2443c9badc35097b6e5c818f1c88", null ]
+    [ "boss_flame_leviathan_seat", "de/dba/a20323.html#a2fc2adc846b2939cf633bf47b4307896", null ],
+    [ "AttackStart", "de/dba/a20323.html#a88d8a972e5f079c0111c0f189d599e8c", null ],
+    [ "EnterEvadeMode", "de/dba/a20323.html#ac0f5d43d4be0773fdae62d0ab433713f", null ],
+    [ "PassengerBoarded", "de/dba/a20323.html#a490fdbcb665f37f0b40a35a6cebe77cf", null ],
+    [ "Reset", "de/dba/a20323.html#aec34fec1a6a3857ea7895a2762bf82d0", null ],
+    [ "UpdateAI", "de/dba/a20323.html#a303c50b5684410013f95b0202ea33c8e", null ],
+    [ "_despawnCheckTimer", "de/dba/a20323.html#ad902023776db0a5d846168167974f694", null ],
+    [ "_pending10ManDespawn", "de/dba/a20323.html#a147da457d02a4977439c635fb150f005", null ],
+    [ "DESPAWN_DELAY_10MAN", "de/dba/a20323.html#a1bda734e377ce71dd3c7f1257ab89d20", null ],
+    [ "vehicle", "de/dba/a20323.html#a9772b52283f16120dbefb5d218844c38", null ]
 ];

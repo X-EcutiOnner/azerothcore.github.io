@@ -1,5 +1,5 @@
 var a30183 =
 [
-    [ "CreateBasicProcEntry", "d7/d27/a30183.html#a047473844c17b28cab20159721fc9ee8", null ],
-    [ "SetUp", "d7/d27/a30183.html#ad9848a18a0b1fa950cabcfa1584e0103", null ]
+    [ "CalculateSpellTypeMask", "d7/d27/a30183.html#ad4f136e69c7553ac32b1de047bf73c59", null ],
+    [ "SetUp", "d7/d27/a30183.html#a57be47f0c3962451b527ffe247dee814", null ]
 ];

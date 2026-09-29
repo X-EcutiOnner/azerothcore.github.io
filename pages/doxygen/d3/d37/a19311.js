@@ -1,5 +1,5 @@
 var a19311 =
 [
-    [ "at_icc_start_frostwing_gauntlet", "d3/d37/a19311.html#a285cd9046d5658fc5d917c3427bbbe83", null ],
-    [ "OnTrigger", "d3/d37/a19311.html#a7137166f281876f00d4e03c846875d85", null ]
+    [ "at_icc_saurfang_portal", "d3/d37/a19311.html#a7f30058251c520634a0b7bad08380e5d", null ],
+    [ "OnTrigger", "d3/d37/a19311.html#a8980fe0e67aa33335f0fdb947a294213", null ]
 ];

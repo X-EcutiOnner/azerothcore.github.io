@@ -1,15 +1,7 @@
 var a07695 =
 [
-    [ "ArenaSeasonRewardGroup", "de/dae/a07695.html#a128e78db84f099d91e21da77b2147e82", null ],
-    [ "operator==", "de/dae/a07695.html#ae7993cfbf1cb547c92d302394105f231", null ],
-    [ "achievementRewards", "de/dae/a07695.html#a1b89c847e86b29671f86dbbef1c9a1b6", null ],
-    [ "criteriaType", "de/dae/a07695.html#a16261356df6f5aed35bc3ec06ab49560", null ],
-    [ "goldReward", "de/dae/a07695.html#a582c7d51c2ab4bb5cf0e45b773dd20ee", null ],
-    [ "itemRewards", "de/dae/a07695.html#a24e7afcf5a95fba7f2cdc5914baac392", null ],
-    [ "maxCriteria", "de/dae/a07695.html#aa3cf9a0ad2ed2170542ec360e61682e2", null ],
-    [ "minCriteria", "de/dae/a07695.html#a07507bd59265508a463aa328f343afa0", null ],
-    [ "rewardMailBody", "de/dae/a07695.html#afa55d982d4f2ef5f2eccf48ed305b649", null ],
-    [ "rewardMailSubject", "de/dae/a07695.html#a0574cf3fc910f13413ea7eb1c0f08166", null ],
-    [ "rewardMailTemplateID", "de/dae/a07695.html#ade97a1ea3355cd19aaf65ab80a26e4bf", null ],
-    [ "season", "de/dae/a07695.html#a2e6a5d2ca970d3921142b497d351c50f", null ]
+    [ "ArenaSeasonReward", "de/dae/a07695.html#ae0871effd7fcac1006d8a16f9c7d7d04", null ],
+    [ "operator==", "de/dae/a07695.html#a22d6afdbc88c47d18dc840d537ae4150", null ],
+    [ "entry", "de/dae/a07695.html#ab3144a4701e1ebd88a3a94544ee76cdf", null ],
+    [ "type", "de/dae/a07695.html#ac4c8cff64cf2eb7f34d28080a2a5528b", null ]
 ];

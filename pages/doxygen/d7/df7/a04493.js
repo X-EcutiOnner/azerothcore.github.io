@@ -1,11 +1,21 @@
 var a04493 =
 [
-    [ "SpellCritDamageBonusOrderTest", "d1/d02/a30071.html", null ],
-    [ "CorrectCritOrder", "d7/df7/a04493.html#ab55aeffce172b7e667fdcb86ba06d954", null ],
-    [ "OldWrongCritOrder", "d7/df7/a04493.html#ae0ad4b3cd3c2381976fd6106fc4f8088", null ],
-    [ "TEST_F", "d7/df7/a04493.html#aa932f572f1a8831ecf4bc5475b7598fb", null ],
-    [ "TEST_F", "d7/df7/a04493.html#a2f98b8f734392902e0cd2dc96a8ef637", null ],
-    [ "TEST_F", "d7/df7/a04493.html#ae30b40dccd8a24d78d006e8e9ac63f19", null ],
-    [ "TEST_F", "d7/df7/a04493.html#a4172aa23985d10af03e6a92c7fa9dd2e", null ],
-    [ "TEST_F", "d7/df7/a04493.html#ad8c6026ca0167ae177e227997c8e2388", null ]
+    [ "BreakableCCProcTest", "df/d91/a30059.html", "df/d91/a30059" ],
+    [ "SimulateBreakableCCProc", "d7/df7/a04493.html#ac723edcfbab6d4088bc22bd3a55be336", null ],
+    [ "SimulateCCThreshold", "d7/df7/a04493.html#a8c2ee93c5431d5bc6be13a32bfd526a2", null ],
+    [ "TEST_F", "d7/df7/a04493.html#ae7e920d7876b221bdd6ac73543ecb53b", null ],
+    [ "TEST_F", "d7/df7/a04493.html#a01bd8816e2098e1802852feddf118482", null ],
+    [ "TEST_F", "d7/df7/a04493.html#a61bb6c4f9f2867f497b42f0b9fd4053f", null ],
+    [ "TEST_F", "d7/df7/a04493.html#ab03560d7309a71818aafdeb607550070", null ],
+    [ "TEST_F", "d7/df7/a04493.html#a68fc55f89209bea457e1ebdbe830e15d", null ],
+    [ "TEST_F", "d7/df7/a04493.html#a20319952febc7ae2e31db13106a826a8", null ],
+    [ "TEST_F", "d7/df7/a04493.html#aa2604417b06444df688bcff7df6f345f", null ],
+    [ "TEST_F", "d7/df7/a04493.html#a76e648098af8f92928aeab6fdbd02d1e", null ],
+    [ "TEST_F", "d7/df7/a04493.html#a0201573a92ca945b9f425808c05dcb0a", null ],
+    [ "TEST_F", "d7/df7/a04493.html#af7ca66f638134a30e578c5b8c145d417", null ],
+    [ "TEST_F", "d7/df7/a04493.html#a12317dac65dba28b3cf394dc60b18a73", null ],
+    [ "TEST_F", "d7/df7/a04493.html#abe06520620645e8c0ae5461381433db3", null ],
+    [ "TEST_F", "d7/df7/a04493.html#ac94f9cc094df0e4830e27f3725fc7451", null ],
+    [ "TEST_F", "d7/df7/a04493.html#a05ed1d314e3aaaeab664e930ab502995", null ],
+    [ "TEST_F", "d7/df7/a04493.html#a19ce81bb45caedcfb16a29ef96b13d7d", null ]
 ];

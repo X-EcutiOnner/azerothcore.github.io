@@ -1,12 +1,20 @@
 var a12551 =
 [
-    [ "group_commandscript", "da/ded/a12551.html#ad2890427cfe3649b2e0fe0896693372c", null ],
-    [ "GetCommands", "da/ded/a12551.html#a5e7e069c58ecc5baca4ef1118e6c143e", null ],
-    [ "HandleGroupDisbandCommand", "da/ded/a12551.html#a538539340a697e02453ddcfa669fb646", null ],
-    [ "HandleGroupInvitesCommand", "da/ded/a12551.html#a614878b840aee6bab067db81fa59a8c7", null ],
-    [ "HandleGroupJoinCommand", "da/ded/a12551.html#a382e8532c653464e90b45569e813ae37", null ],
-    [ "HandleGroupLeaderCommand", "da/ded/a12551.html#a899858a63add3c68e0e1446d29216c00", null ],
-    [ "HandleGroupListCommand", "da/ded/a12551.html#a1b841d1c4bc59b56f2d166767089b93f", null ],
-    [ "HandleGroupRemoveCommand", "da/ded/a12551.html#a2bbb27e0f221ce533f0b0e94e944f7fb", null ],
-    [ "HandleGroupReviveCommand", "da/ded/a12551.html#a13968d61ec037aacc8070bc675290f94", null ]
+    [ "gobject_commandscript", "da/ded/a12551.html#a664ffe7aa07b1e08156545675ae5dc69", null ],
+    [ "GetCommands", "da/ded/a12551.html#a75124102670615a7b3a0ecd457ab631a", null ],
+    [ "HandleGameObjectActivateCommand", "da/ded/a12551.html#a2512dfca6b1ae8a2476551a02caa202a", null ],
+    [ "HandleGameObjectAddCommand", "da/ded/a12551.html#a23717867956cc0da99e3640d2b790346", null ],
+    [ "HandleGameObjectAddTempCommand", "da/ded/a12551.html#a49908d7c180d778c43702563add17d2d", null ],
+    [ "HandleGameObjectDeleteCommand", "da/ded/a12551.html#a06ef45827cefcc19f748c5940dfb4b1d", null ],
+    [ "HandleGameObjectDespawnGroupCommand", "da/ded/a12551.html#ac9683961141c3115ac9309fa07175e64", null ],
+    [ "HandleGameObjectInfoCommand", "da/ded/a12551.html#a1d6e3c850b0bc2772d3f1f09877d8a40", null ],
+    [ "HandleGameObjectLoadCommand", "da/ded/a12551.html#a1d364680fd9c8f2be42e899e9e091676", null ],
+    [ "HandleGameObjectMoveCommand", "da/ded/a12551.html#a7098a5b0c94cb09b8c6fe08eba261d93", null ],
+    [ "HandleGameObjectNearCommand", "da/ded/a12551.html#a156f293b3bf9c7439b62814ee8f27650", null ],
+    [ "HandleGameObjectRespawn", "da/ded/a12551.html#aafed57aa556c8cdc0c380185b056d705", null ],
+    [ "HandleGameObjectSetPhaseCommand", "da/ded/a12551.html#af2ac49c9fdd408be62dd4ee179c1142c", null ],
+    [ "HandleGameObjectSetStateCommand", "da/ded/a12551.html#ae6d100f51d8b08e1576092eedc4db15f", null ],
+    [ "HandleGameObjectSpawnGroupCommand", "da/ded/a12551.html#a9838f05a534f9d451fd935260ec46985", null ],
+    [ "HandleGameObjectTargetCommand", "da/ded/a12551.html#a11d33046310495c0a6d883a307c95632", null ],
+    [ "HandleGameObjectTurnCommand", "da/ded/a12551.html#a75883394613b2c3501cd48f5334199b7", null ]
 ];

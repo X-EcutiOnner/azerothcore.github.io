@@ -1,13 +1,10 @@
 var a17391 =
 [
-    [ "instance_forge_of_souls_InstanceScript", "d9/d1c/a17391.html#ae39e116a01c17592037e12185a03201a", null ],
-    [ "CheckAchievementCriteriaMeet", "d9/d1c/a17391.html#a534c7f97e7425160f9a2b1e555d0aa29", null ],
-    [ "HandleOutro", "d9/d1c/a17391.html#aadf4a99e89f354901ff63c600725b07f", null ],
-    [ "OnCreatureCreate", "d9/d1c/a17391.html#a7570ef3ca74178fec80c5018cbecf42a", null ],
-    [ "OnPlayerEnter", "d9/d1c/a17391.html#aac223f0ae25071d3323052c52c887636", null ],
-    [ "SetBossState", "d9/d1c/a17391.html#a76241f1358b8e6c7660f76c98e1556e7", null ],
-    [ "GuardFirstGUID", "d9/d1c/a17391.html#ae2e33eee94f285b9d4c2c747dec52714", null ],
-    [ "GuardSecondGUID", "d9/d1c/a17391.html#a68c2495f80ac2b53c8f46c857472709c", null ],
-    [ "LeaderFirstGUID", "d9/d1c/a17391.html#acaa05485af70315b1d091e5c9bbb7217", null ],
-    [ "LeaderSecondGUID", "d9/d1c/a17391.html#a165f784f54e178b51ac899aff6f12747", null ]
+    [ "HandleAfterEffectAbsorb", "d9/d1c/a17391.html#a4af67c41afd7843a5cfe2b2e2e9e8055", null ],
+    [ "Load", "d9/d1c/a17391.html#abab656d4ba7e14bf1ffdb1d40c395b5d", null ],
+    [ "PrepareAuraScript", "d9/d1c/a17391.html#a0856d66c801715f16cd251ddf9b25a59", null ],
+    [ "Register", "d9/d1c/a17391.html#a69d8dfebb981b51592770b7b5807bc80", null ],
+    [ "Validate", "d9/d1c/a17391.html#a55ec42ce316978220103a3a39f3939a3", null ],
+    [ "amount", "d9/d1c/a17391.html#aaf34ee04ae619a3ac108a8fd1c9dac99", null ],
+    [ "fired", "d9/d1c/a17391.html#a6a7afa99044644608b16e83328bfd5fa", null ]
 ];

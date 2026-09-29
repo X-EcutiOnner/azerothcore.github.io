@@ -1,8 +1,9 @@
 var a00302 =
 [
-    [ "TransactionBase", "d6/d5e/a06299.html", "d6/d5e/a06299" ],
-    [ "Transaction< T >", "d2/da1/a06103.html", "d2/da1/a06103" ],
-    [ "TransactionTask", "d5/d7d/a06303.html", "d5/d7d/a06303" ],
-    [ "TransactionWithResultTask", "de/d5b/a06307.html", "de/d5b/a06307" ],
-    [ "TransactionCallback", "d7/d8c/a06311.html", "d7/d8c/a06311" ]
+    [ "instance_blood_furnace", "d5/d97/a23727.html", "d5/d97/a23727" ],
+    [ "instance_blood_furnace::instance_blood_furnace_InstanceMapScript", "d4/d92/a23731.html", "d4/d92/a23731" ],
+    [ "AddSC_instance_blood_furnace", "d0/d61/a00302.html#af803a0e2dfb7f53b6682e02b90bef865", null ],
+    [ "creatureData", "d0/d61/a00302.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "d0/d61/a00302.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "gameobjectData", "d0/d61/a00302.html#a845a92716bd40c99a93eb0715cd737b0", null ]
 ];

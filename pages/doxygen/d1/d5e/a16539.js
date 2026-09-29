@@ -1,6 +1,5 @@
 var a16539 =
 [
-    [ "HandleScriptEffect", "d1/d5e/a16539.html#aaa650972803d14e4d74be977430b04f6", null ],
-    [ "PrepareSpellScript", "d1/d5e/a16539.html#a1e166c53e2051f3fae1b085a76a08c3f", null ],
-    [ "Register", "d1/d5e/a16539.html#a3405c1b04f2e623662c7acaa6810278c", null ]
+    [ "achievement_watch_him_die", "d1/d5e/a16539.html#a0d885871eac61d859780e08c8518bb15", null ],
+    [ "OnCheck", "d1/d5e/a16539.html#a6ca8851bdf8cae50084ca87c1958fb53", null ]
 ];

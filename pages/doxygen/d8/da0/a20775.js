@@ -1,7 +1,9 @@
 var a20775 =
 [
-    [ "HandleEffectPeriodic", "d8/da0/a20775.html#a0fc0cf6cd635249a10aefd284d9ae789", null ],
-    [ "PrepareAuraScript", "d8/da0/a20775.html#af432e810a46e35f95bb0b3b2eaada132", null ],
-    [ "Register", "d8/da0/a20775.html#a41c3846c03ce1e37fc6858a676f61c48", null ],
-    [ "Validate", "d8/da0/a20775.html#ac8e9521a6b8ab9a4642361085dbe517d", null ]
+    [ "npc_ulduar_bot_summon_trigger", "d8/da0/a20775.html#a16d36c154b6851c0081cc05f838b0fed", null ],
+    [ "DoAction", "d8/da0/a20775.html#a776782a85892d2d674773573be25bfa0", null ],
+    [ "Reset", "d8/da0/a20775.html#a4ec8487028b188347cf0c9a080076fe6", null ],
+    [ "UpdateAI", "d8/da0/a20775.html#a788d3eaba382e3af897678f6709a0242", null ],
+    [ "_option", "d8/da0/a20775.html#a39c909b67fcdc81542470b6e96256fd5", null ],
+    [ "_timer", "d8/da0/a20775.html#a2530742a19275efe92eeded4dce67567", null ]
 ];

@@ -1,9 +1,12 @@
 var a20799 =
 [
-    [ "npc_ulduar_rocket_strike_trigger", "d7/dd4/a20799.html#a14fc5830fe192856bd7c99f78de91070", null ],
-    [ "InitializeAI", "d7/dd4/a20799.html#a50b4312f060d62e1c4e3ff144add48d8", null ],
-    [ "SetData", "d7/dd4/a20799.html#a9d896f09483369fcca2a45223514f855", null ],
-    [ "SpellHitTarget", "d7/dd4/a20799.html#ad4a438c5143a6de2b469baa28f0893c5", null ],
-    [ "UpdateAI", "d7/dd4/a20799.html#af5e5dec908f6e0f79a7f4a508d4c4403", null ],
-    [ "_events", "d7/dd4/a20799.html#acdd7bdda1ecc5d6e5c18f1306153200a", null ]
+    [ "npc_ulduar_flames_initial", "d7/dd4/a20799.html#ac0ba4a5631f580b23be30f6d19545a1f", null ],
+    [ "DoAction", "d7/dd4/a20799.html#ae0b262371dfc00ca168afc9e4d28b133", null ],
+    [ "RemoveAll", "d7/dd4/a20799.html#a604fee1e371ffd6efe8f80c6db61318f", null ],
+    [ "RemoveFlame", "d7/dd4/a20799.html#ad676a542b40b554027fc2ab491fa083d", null ],
+    [ "SpreadFlame", "d7/dd4/a20799.html#af50c950610f5277a755d1786b596b9d7", null ],
+    [ "UpdateAI", "d7/dd4/a20799.html#a34c1ffd2bc07c2a736a7d6dc103a8afe", null ],
+    [ "_createTime", "d7/dd4/a20799.html#aa73a9fa2110bd5abdff9b509e13ce333", null ],
+    [ "_events", "d7/dd4/a20799.html#a0f99d43d373b61e9c665bd6c0d389afb", null ],
+    [ "_flameList", "d7/dd4/a20799.html#a50a26001f8bfe87a3a4f1feb544cf521", null ]
 ];

@@ -1,25 +1,8 @@
 var a00329 =
 [
-    [ "SpawnGroupTemplateData", "d1/d72/a10387.html", "d1/d72/a10387" ],
-    [ "SpawnData", "d4/d2b/a10391.html", "d4/d2b/a10391" ],
-    [ "SpawnGroupFlags", "dd/d4e/a00329.html#a4d92d9f9c1ddb3ba951f249d8c3a9567", [
-      [ "SPAWNGROUP_FLAG_NONE", "dd/d4e/a00329.html#a4d92d9f9c1ddb3ba951f249d8c3a9567a8e60132edd361c998c88ad58f487ff01", null ],
-      [ "SPAWNGROUP_FLAG_SYSTEM", "dd/d4e/a00329.html#a4d92d9f9c1ddb3ba951f249d8c3a9567ac7f000051c11e8e64e44d8e559df0769", null ],
-      [ "SPAWNGROUP_FLAG_COMPATIBILITY_MODE", "dd/d4e/a00329.html#a4d92d9f9c1ddb3ba951f249d8c3a9567a425a0006a686cbb29860ce5ada6e6dc7", null ],
-      [ "SPAWNGROUP_FLAG_MANUAL_SPAWN", "dd/d4e/a00329.html#a4d92d9f9c1ddb3ba951f249d8c3a9567a417fbb81820d8e43c7975f6e101f64da", null ],
-      [ "SPAWNGROUP_FLAG_DYNAMIC_SPAWN_RATE", "dd/d4e/a00329.html#a4d92d9f9c1ddb3ba951f249d8c3a9567a08739c177a3fc0d8fefdd0952cbdb81f", null ],
-      [ "SPAWNGROUP_FLAG_ESCORTQUESTNPC", "dd/d4e/a00329.html#a4d92d9f9c1ddb3ba951f249d8c3a9567aed165c7835a95c52ad8dd1f9b56719c1", null ],
-      [ "SPAWNGROUP_FLAG_ALL", "dd/d4e/a00329.html#a4d92d9f9c1ddb3ba951f249d8c3a9567a0d4be6bc9136b5fa19e8ba1146bfe5e6", null ]
-    ] ],
-    [ "SpawnObjectType", "dd/d4e/a00329.html#aca6d138cc8cbaa4fbb8366f26ecc6178", [
-      [ "SPAWN_TYPE_CREATURE", "dd/d4e/a00329.html#aca6d138cc8cbaa4fbb8366f26ecc6178a9c8e9a64f5a962ba5e1c699347c9a095", null ],
-      [ "SPAWN_TYPE_GAMEOBJECT", "dd/d4e/a00329.html#aca6d138cc8cbaa4fbb8366f26ecc6178a4986d513041762627e4ec53cb8ed2fa6", null ],
-      [ "SPAWN_TYPE_MAX", "dd/d4e/a00329.html#aca6d138cc8cbaa4fbb8366f26ecc6178a7fac2ccc2b6c53a62bd265c85b74278f", null ]
-    ] ],
-    [ "SpawnObjectTypeMask", "dd/d4e/a00329.html#a8d96153354cfa6d243ff15afdd439ab1", [
-      [ "SPAWN_TYPEMASK_CREATURE", "dd/d4e/a00329.html#a8d96153354cfa6d243ff15afdd439ab1a871f80356238edfc1535510a303f4ee2", null ],
-      [ "SPAWN_TYPEMASK_GAMEOBJECT", "dd/d4e/a00329.html#a8d96153354cfa6d243ff15afdd439ab1adfa26ca9fc2b3160505b0766be0da326", null ],
-      [ "SPAWN_TYPEMASK_ALL", "dd/d4e/a00329.html#a8d96153354cfa6d243ff15afdd439ab1ae97f493d106f1ed915209a294b4f4108", null ]
-    ] ],
-    [ "SPAWNGROUP_MAP_UNSET", "dd/d4e/a00329.html#a9041bb5e3b05220cb101faac61b48fd7", null ]
+    [ "instance_arcatraz", "d0/db2/a23915.html", "d0/db2/a23915" ],
+    [ "instance_arcatraz::instance_arcatraz_InstanceMapScript", "d0/dec/a23919.html", "d0/dec/a23919" ],
+    [ "AddSC_instance_arcatraz", "dd/d4e/a00329.html#a80dfeb7f0ba2aa2c6cde3f26e3c50be4", null ],
+    [ "creatureData", "dd/d4e/a00329.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "dd/d4e/a00329.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
 ];

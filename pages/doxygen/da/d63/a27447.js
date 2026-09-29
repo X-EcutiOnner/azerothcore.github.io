@@ -1,6 +1,6 @@
 var a27447 =
 [
-    [ "CheckProc", "da/d63/a27447.html#a4e40a3472a7dde5aaa1d6d4cda54482a", null ],
-    [ "PrepareAuraScript", "da/d63/a27447.html#af15109e926eb717c3f3cb2f7f617428c", null ],
-    [ "Register", "da/d63/a27447.html#aee35ceec1ffcdebf5bd712310bdf9f1c", null ]
+    [ "HandleSendEvent", "da/d63/a27447.html#a8126102215aa6eedd638b89d1a6b7110", null ],
+    [ "PrepareSpellScript", "da/d63/a27447.html#abc57ba05637e2c51bf2d1fb918a93667", null ],
+    [ "Register", "da/d63/a27447.html#ac37abad48c398bdb22529c1a44327d34", null ]
 ];

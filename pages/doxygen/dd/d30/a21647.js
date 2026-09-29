@@ -1,7 +1,7 @@
 var a21647 =
 [
-    [ "npc_azure_stalker", "dd/d30/a21647.html#a12d5ae337c0c494f751ebe14b365c0f9", null ],
-    [ "Reset", "dd/d30/a21647.html#a0e6e6b30e79f5e68ed9800f405f38d84", null ],
-    [ "UpdateAI", "dd/d30/a21647.html#a22352aad7c55a4d454b9732469395139", null ],
-    [ "_events", "dd/d30/a21647.html#ad83249d787d2f763ac2d01723ff305ef", null ]
+    [ "npc_azure_binder", "dd/d30/a21647.html#ae273e78765faeb3e9604b7ce89ef6e6c", null ],
+    [ "Reset", "dd/d30/a21647.html#a0a11617ac11bf6aacacc3b36ce90fdca", null ],
+    [ "UpdateAI", "dd/d30/a21647.html#add9f304212a1a10267e564cd939f3751", null ],
+    [ "_events", "dd/d30/a21647.html#a0026fdd57e09f02b46010d696bb0a5da", null ]
 ];

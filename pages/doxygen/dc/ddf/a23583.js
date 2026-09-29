@@ -1,7 +1,13 @@
 var a23583 =
 [
-    [ "npc_underbog_mushroom", "dc/ddf/a23583.html#a2b77b2590d46c14c783d2df4a3699c44", null ],
-    [ "InitializeAI", "dc/ddf/a23583.html#a7c192010cc63715eaa3f38b1d1372936", null ],
-    [ "UpdateAI", "dc/ddf/a23583.html#a9a8ed51b12809152ebe78dda69944d77", null ],
-    [ "_scheduler", "dc/ddf/a23583.html#a407cdb1096e5212dd0a50ea4fa401112", null ]
+    [ "boss_ghazan", "dc/ddf/a23583.html#ae730362fcf3606c67b6b85147de98fb6", null ],
+    [ "DoAction", "dc/ddf/a23583.html#ac016d5e06ca4f8f0bf2fa13ce2cd89e2", null ],
+    [ "InitializeAI", "dc/ddf/a23583.html#a6b8c975a109dc5eb8a3e3fba03fe806e", null ],
+    [ "JustEngagedWith", "dc/ddf/a23583.html#ad4136f0f63d267284f36756793c0efa7", null ],
+    [ "JustReachedHome", "dc/ddf/a23583.html#af9f2dd854036d5c8b9c6703499836199", null ],
+    [ "MovementInform", "dc/ddf/a23583.html#add9b2e60fb2ffc8a3905f063a2f3d0ae", null ],
+    [ "Reset", "dc/ddf/a23583.html#afc9522a26060643f2f9d25a8a98691b7", null ],
+    [ "UpdateAI", "dc/ddf/a23583.html#a40a6dd5ed2954be7df4612a7552e1bc0", null ],
+    [ "_movedToPlatform", "dc/ddf/a23583.html#aa6c0c391355ac0b698d67796efd63062", null ],
+    [ "_reachedPlatform", "dc/ddf/a23583.html#af3476318b4721bd52facaf735eabb1f9", null ]
 ];

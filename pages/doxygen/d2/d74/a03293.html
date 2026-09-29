@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Northrend/Ulduar/HallsOfLightning/halls_of_lightning.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Entities/Vehicle/VehicleDefines.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,116 +105,144 @@ $(document).ready(function(){initNavTree('d2/d74/a03293.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#define-members">Macros</a> &#124;
-<a href="#enum-members">Enumerations</a> &#124;
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">halls_of_lightning.h File Reference</div></div>
+<a href="#nested-classes">Classes</a> &#124;
+<a href="#typedef-members">Typedefs</a> &#124;
+<a href="#enum-members">Enumerations</a>  </div>
+  <div class="headertitle"><div class="title">VehicleDefines.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">CreatureAIImpl.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Map.h</a>&quot;</code><br />
+<code>#include &lt;map&gt;</code><br />
+<code>#include &lt;vector&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
-Macros</h2></td></tr>
-<tr class="memitem:a042491ef36459046f3866e90f15aae0d"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d74/a03293.html#a042491ef36459046f3866e90f15aae0d">DataHeader</a>&#160;&#160;&#160;&quot;HOL&quot;</td></tr>
-<tr class="separator:a042491ef36459046f3866e90f15aae0d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aba51f7e18d1bf5bcc9ac3cce40574989"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d74/a03293.html#aba51f7e18d1bf5bcc9ac3cce40574989">HallsOfLightningScriptName</a>&#160;&#160;&#160;&quot;instance_halls_of_lightning&quot;</td></tr>
-<tr class="separator:aba51f7e18d1bf5bcc9ac3cce40574989"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abc0f895e75d83443d4864eac025f5ccf"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d74/a03293.html#abc0f895e75d83443d4864eac025f5ccf">RegisterHallOfLightningCreatureAI</a>(ai_name)&#160;&#160;&#160;<a class="el" href="../../d3/d2c/a00764.html#a25cc02ecf50f52ec8cdff096060b8be1">RegisterCreatureAIWithFactory</a>(ai_name, <a class="el" href="../../d2/d74/a03293.html#ae17388a1ba919f74b2068aafe1637537">GetHallsOfLightningAI</a>)</td></tr>
-<tr class="separator:abc0f895e75d83443d4864eac025f5ccf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d3b/a09271.html">PassengerInfo</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d3b/a09275.html">VehicleSeatAddon</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d55/a09279.html">VehicleSeat</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d3a/a09283.html">VehicleAccessory</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/de3/a09287.html">TransportBase</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
+Typedefs</h2></td></tr>
+<tr class="memitem:af5d682a742080008bd21db9bba6e162f"><td class="memItemLeft" align="right" valign="top">typedef std::vector&lt; <a class="el" href="../../dc/d3a/a09283.html">VehicleAccessory</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d74/a03293.html#af5d682a742080008bd21db9bba6e162f">VehicleAccessoryList</a></td></tr>
+<tr class="separator:af5d682a742080008bd21db9bba6e162f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5b46179616c0e205a7c933e02f87160b"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../d6/d12/a04691.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d2/d74/a03293.html#af5d682a742080008bd21db9bba6e162f">VehicleAccessoryList</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d74/a03293.html#a5b46179616c0e205a7c933e02f87160b">VehicleAccessoryContainer</a></td></tr>
+<tr class="separator:a5b46179616c0e205a7c933e02f87160b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2dadb2596b27d20ebbc12696cb7b9a74"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../d6/d12/a04691.html#a3bb8a71f4ae9af551f71e9eb2c9c3325">int8</a>, <a class="el" href="../../dd/d55/a09279.html">VehicleSeat</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d74/a03293.html#a2dadb2596b27d20ebbc12696cb7b9a74">SeatMap</a></td></tr>
+<tr class="separator:a2dadb2596b27d20ebbc12696cb7b9a74"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
 Enumerations</h2></td></tr>
-<tr class="memitem:a2cb96c502604a51bf9b1878594078a89"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d74/a03293.html#a2cb96c502604a51bf9b1878594078a89">HoLBossIds</a> { <br />
-&#160;&#160;<a class="el" href="../../d2/d74/a03293.html#a2cb96c502604a51bf9b1878594078a89a9300935bfd39c01dc4f31bad0ed4d1c3">DATA_BJARNGRIM</a> = 0
+<tr class="memitem:a0d0e3226055ad5266e487b58fd01cebd"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d74/a03293.html#a0d0e3226055ad5266e487b58fd01cebd">PowerType</a> { <br />
+&#160;&#160;<a class="el" href="../../d2/d74/a03293.html#a0d0e3226055ad5266e487b58fd01cebda687679964e834b0ca1543e4dd62ad47f">POWER_STEAM</a> = 61
 , <br />
-&#160;&#160;<a class="el" href="../../d2/d74/a03293.html#a2cb96c502604a51bf9b1878594078a89a14265a28e2df32231fa3e8f37f443ba9">DATA_IONAR</a> = 1
+&#160;&#160;<a class="el" href="../../d2/d74/a03293.html#a0d0e3226055ad5266e487b58fd01cebda80a2f688d9270400c0a412df595754d9">POWER_PYRITE</a> = 41
 , <br />
-&#160;&#160;<a class="el" href="../../d2/d74/a03293.html#a2cb96c502604a51bf9b1878594078a89ab31bcb90f6216ddfd2c6b88e6bddae90">DATA_LOKEN</a> = 2
+&#160;&#160;<a class="el" href="../../d2/d74/a03293.html#a0d0e3226055ad5266e487b58fd01cebda84c681da1fcd67b223f97fd81f534434">POWER_HEAT</a> = 101
 , <br />
-&#160;&#160;<a class="el" href="../../d2/d74/a03293.html#a2cb96c502604a51bf9b1878594078a89a36dd0ae00b02a743880c859c48ea17bd">DATA_VOLKHAN</a> = 3
+&#160;&#160;<a class="el" href="../../d2/d74/a03293.html#a0d0e3226055ad5266e487b58fd01cebda9bc45bf37416c880275746bf261a4097">POWER_OOZE</a> = 121
 , <br />
-&#160;&#160;<a class="el" href="../../d2/d74/a03293.html#a2cb96c502604a51bf9b1878594078a89a9cfa5bdc17e1d5a590d300b530b36a25">MAX_ENCOUNTERS</a>
+&#160;&#160;<a class="el" href="../../d2/d74/a03293.html#a0d0e3226055ad5266e487b58fd01cebda73464121f88e583ed4c4f89280fd7d68">POWER_BLOOD</a> = 141
+, <br />
+&#160;&#160;<a class="el" href="../../d2/d74/a03293.html#a0d0e3226055ad5266e487b58fd01cebda94e6111f7ab9d0e57b77b1b3f70faab1">POWER_WRATH</a> = 142
 <br />
  }</td></tr>
-<tr class="separator:a2cb96c502604a51bf9b1878594078a89"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab2c81b52518cf9b744e344bee6558c83"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d74/a03293.html#ab2c81b52518cf9b744e344bee6558c83">HoLDataTypes</a> { <br />
-&#160;&#160;<a class="el" href="../../d2/d74/a03293.html#ab2c81b52518cf9b744e344bee6558c83a1a13537a7dab783ca08cdabaef4b698a">DATA_LOKEN_THRONE</a> = 0
+<tr class="separator:a0d0e3226055ad5266e487b58fd01cebd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6f71ae83254cc7417ec04e6ac2a55f7a"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d74/a03293.html#a6f71ae83254cc7417ec04e6ac2a55f7a">VehicleFlags</a> { <br />
+&#160;&#160;<a class="el" href="../../d2/d74/a03293.html#a6f71ae83254cc7417ec04e6ac2a55f7aa42ade3ec25a77cbf106f1da2cc732a6b">VEHICLE_FLAG_NO_STRAFE</a> = 0x00000001
 , <br />
-&#160;&#160;<a class="el" href="../../d2/d74/a03293.html#ab2c81b52518cf9b744e344bee6558c83aa53ad80b7b459e535100197347853cd0">DATA_BJARNGRIM_ACHIEVEMENT</a> = 10
+&#160;&#160;<a class="el" href="../../d2/d74/a03293.html#a6f71ae83254cc7417ec04e6ac2a55f7aa283b85a441a9087bd98ed48a34707c6f">VEHICLE_FLAG_NO_JUMPING</a> = 0x00000002
 , <br />
-&#160;&#160;<a class="el" href="../../d2/d74/a03293.html#ab2c81b52518cf9b744e344bee6558c83a7e42579182aec175c25270808bec35b0">DATA_VOLKHAN_ACHIEVEMENT</a> = 11
+&#160;&#160;<a class="el" href="../../d2/d74/a03293.html#a6f71ae83254cc7417ec04e6ac2a55f7aa8eb5fb073cde2366b27d7726b55593b1">VEHICLE_FLAG_FULLSPEEDTURNING</a> = 0x00000004
+, <br />
+&#160;&#160;<a class="el" href="../../d2/d74/a03293.html#a6f71ae83254cc7417ec04e6ac2a55f7aa929f5dba0c217566377740ffbde2195f">VEHICLE_FLAG_ALLOW_PITCHING</a> = 0x00000010
+, <br />
+&#160;&#160;<a class="el" href="../../d2/d74/a03293.html#a6f71ae83254cc7417ec04e6ac2a55f7aaeeead2f047ca8fa51f9fb779867cd2c5">VEHICLE_FLAG_FULLSPEEDPITCHING</a> = 0x00000020
+, <br />
+&#160;&#160;<a class="el" href="../../d2/d74/a03293.html#a6f71ae83254cc7417ec04e6ac2a55f7aaadfdb0e47bbca692a5cada5b07577a22">VEHICLE_FLAG_CUSTOM_PITCH</a> = 0x00000040
+, <br />
+&#160;&#160;<a class="el" href="../../d2/d74/a03293.html#a6f71ae83254cc7417ec04e6ac2a55f7aa2cdd4b1bec19233a8162dc420ecde103">VEHICLE_FLAG_ADJUST_AIM_ANGLE</a> = 0x00000400
+, <br />
+&#160;&#160;<a class="el" href="../../d2/d74/a03293.html#a6f71ae83254cc7417ec04e6ac2a55f7aadf965323e550d3307799178679544dd5">VEHICLE_FLAG_ADJUST_AIM_POWER</a> = 0x00000800
 <br />
  }</td></tr>
-<tr class="separator:ab2c81b52518cf9b744e344bee6558c83"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a142cf2087e521648bd7ea9b7495afc85"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d74/a03293.html#a142cf2087e521648bd7ea9b7495afc85">HoLNPCs</a> { <br />
-&#160;&#160;<a class="el" href="../../d2/d74/a03293.html#a142cf2087e521648bd7ea9b7495afc85ae1fe986c03c7e3ea9a413cf0831631a8">NPC_TITANIUM_THUNDERER</a> = 28965
+<tr class="separator:a6f71ae83254cc7417ec04e6ac2a55f7a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5829b6d4bd25b5c2a56495142fa8ca54"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d74/a03293.html#a5829b6d4bd25b5c2a56495142fa8ca54">VehicleSpells</a> { <br />
+&#160;&#160;<a class="el" href="../../d2/d74/a03293.html#a5829b6d4bd25b5c2a56495142fa8ca54adc19864d7c866905ca0c5bcec8b60119">VEHICLE_SPELL_RIDE_HARDCODED</a> = 46598
 , <br />
-&#160;&#160;<a class="el" href="../../d2/d74/a03293.html#a142cf2087e521648bd7ea9b7495afc85a5665655f9ffabdab88fc4a691a796023">NPC_TITANIUM_SIEGEBREAKER</a> = 28961
+&#160;&#160;<a class="el" href="../../d2/d74/a03293.html#a5829b6d4bd25b5c2a56495142fa8ca54a9d7d863fbfbc5b74e135ff1c825f2eae">VEHICLE_SPELL_PARACHUTE</a> = 45472
+, <br />
+&#160;&#160;<a class="el" href="../../d2/d74/a03293.html#a5829b6d4bd25b5c2a56495142fa8ca54ac4b6447ce07cbd236c81e6cc097a42fe">VEHICLE_SPELL_GEIST_CONTROL_END</a> = 58119
+, <br />
+&#160;&#160;<a class="el" href="../../d2/d74/a03293.html#a5829b6d4bd25b5c2a56495142fa8ca54aa4ccb8c6147a5a23c813ae796ebe267b">VEHICLE_SPELL_SHADE_CONTROL_END</a> = 58664
 <br />
  }</td></tr>
-<tr class="separator:a142cf2087e521648bd7ea9b7495afc85"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a32c56077197ba30bb4a0f7c7ed0e30ba"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d74/a03293.html#a32c56077197ba30bb4a0f7c7ed0e30ba">HoLGOs</a> { <br />
-&#160;&#160;<a class="el" href="../../d2/d74/a03293.html#a32c56077197ba30bb4a0f7c7ed0e30baa43791493fa131c96383129d276d9ebfc">GO_VOLKHAN_DOOR</a> = 191325
+<tr class="separator:a5829b6d4bd25b5c2a56495142fa8ca54"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7f17d71c7e2664769a8e8a8b40cb5116"><td class="memItemLeft" align="right" valign="top">enum class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d74/a03293.html#a7f17d71c7e2664769a8e8a8b40cb5116">VehicleExitParameters</a> { <br />
+&#160;&#160;<a class="el" href="../../d2/d74/a03293.html#a7f17d71c7e2664769a8e8a8b40cb5116aa81d7ce24590f0cf3b5de2218dc4b2eb">VehicleExitParamNone</a> = 0
 , <br />
-&#160;&#160;<a class="el" href="../../d2/d74/a03293.html#a32c56077197ba30bb4a0f7c7ed0e30baa98de6bec77b9ffcc83fbe12864534b5a">GO_IONAR_DOOR</a> = 191326
+&#160;&#160;<a class="el" href="../../d2/d74/a03293.html#a7f17d71c7e2664769a8e8a8b40cb5116aa79483bd0c086e5f24b906b5e4b28427">VehicleExitParamOffset</a> = 1
 , <br />
-&#160;&#160;<a class="el" href="../../d2/d74/a03293.html#a32c56077197ba30bb4a0f7c7ed0e30baa34f7d3fb54b571aef3f476e267de512a">GO_LOKEN_THRONE</a> = 192654
+&#160;&#160;<a class="el" href="../../d2/d74/a03293.html#a7f17d71c7e2664769a8e8a8b40cb5116a0f2b1d49adc9bb508c54af39ddb0b99d">VehicleExitParamDest</a> = 2
+, <br />
+&#160;&#160;<a class="el" href="../../d2/d74/a03293.html#a7f17d71c7e2664769a8e8a8b40cb5116a0d5345401371099713f87a738fca55c0">VehicleExitParamMax</a>
 <br />
  }</td></tr>
-<tr class="separator:a32c56077197ba30bb4a0f7c7ed0e30ba"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab693e2b3138c7164f5ab5ce33d01188a"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d74/a03293.html#ab693e2b3138c7164f5ab5ce33d01188a">HoLActions</a> { <a class="el" href="../../d2/d74/a03293.html#ab693e2b3138c7164f5ab5ce33d01188aac3701fc9a9f8c0aa21c4450036382641">ACTION_ACTIVATE_TITANIUM_VRYKUL</a>
+<tr class="separator:a7f17d71c7e2664769a8e8a8b40cb5116"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aecacfdf074f78c4655fc7b038cce5c06"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d74/a03293.html#aecacfdf074f78c4655fc7b038cce5c06">VehicleNPCs</a> { <br />
+&#160;&#160;<a class="el" href="../../d2/d74/a03293.html#aecacfdf074f78c4655fc7b038cce5c06a1ad291a45a8ceaff91f636890e29dcb8">NPC_EIDOLON_WATCHER</a> = 31110
+, <br />
+&#160;&#160;<a class="el" href="../../d2/d74/a03293.html#aecacfdf074f78c4655fc7b038cce5c06a5a7d35fc890662fca47daf84cc7c0612">NPC_LITHE_STALKER</a> = 30895
+<br />
  }</td></tr>
-<tr class="separator:ab693e2b3138c7164f5ab5ce33d01188a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
-Functions</h2></td></tr>
-<tr class="memitem:ae17388a1ba919f74b2068aafe1637537"><td class="memTemplParams" colspan="2">template&lt;class AI , class T &gt; </td></tr>
-<tr class="memitem:ae17388a1ba919f74b2068aafe1637537"><td class="memTemplItemLeft" align="right" valign="top">AI *&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d2/d74/a03293.html#ae17388a1ba919f74b2068aafe1637537">GetHallsOfLightningAI</a> (T *obj)</td></tr>
-<tr class="separator:ae17388a1ba919f74b2068aafe1637537"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:aecacfdf074f78c4655fc7b038cce5c06"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Macro Definition Documentation</h2>
-<a id="a042491ef36459046f3866e90f15aae0d" name="a042491ef36459046f3866e90f15aae0d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a042491ef36459046f3866e90f15aae0d">&#9670;&#160;</a></span>DataHeader</h2>
+<h2 class="groupheader">Typedef Documentation</h2>
+<a id="a2dadb2596b27d20ebbc12696cb7b9a74" name="a2dadb2596b27d20ebbc12696cb7b9a74"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2dadb2596b27d20ebbc12696cb7b9a74">&#9670;&#160;</a></span>SeatMap</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">#define DataHeader&#160;&#160;&#160;&quot;HOL&quot;</td>
+          <td class="memname">typedef std::map&lt;<a class="el" href="../../d6/d12/a04691.html#a3bb8a71f4ae9af551f71e9eb2c9c3325">int8</a>, <a class="el" href="../../dd/d55/a09279.html">VehicleSeat</a>&gt; <a class="el" href="../../d2/d74/a03293.html#a2dadb2596b27d20ebbc12696cb7b9a74">SeatMap</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 
 </div>
 </div>
-<a id="aba51f7e18d1bf5bcc9ac3cce40574989" name="aba51f7e18d1bf5bcc9ac3cce40574989"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aba51f7e18d1bf5bcc9ac3cce40574989">&#9670;&#160;</a></span>HallsOfLightningScriptName</h2>
+<a id="a5b46179616c0e205a7c933e02f87160b" name="a5b46179616c0e205a7c933e02f87160b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5b46179616c0e205a7c933e02f87160b">&#9670;&#160;</a></span>VehicleAccessoryContainer</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">#define HallsOfLightningScriptName&#160;&#160;&#160;&quot;instance_halls_of_lightning&quot;</td>
+          <td class="memname">typedef std::map&lt;<a class="el" href="../../d6/d12/a04691.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d2/d74/a03293.html#af5d682a742080008bd21db9bba6e162f">VehicleAccessoryList</a>&gt; <a class="el" href="../../d2/d74/a03293.html#a5b46179616c0e205a7c933e02f87160b">VehicleAccessoryContainer</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 
 </div>
 </div>
-<a id="abc0f895e75d83443d4864eac025f5ccf" name="abc0f895e75d83443d4864eac025f5ccf"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abc0f895e75d83443d4864eac025f5ccf">&#9670;&#160;</a></span>RegisterHallOfLightningCreatureAI</h2>
+<a id="af5d682a742080008bd21db9bba6e162f" name="af5d682a742080008bd21db9bba6e162f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af5d682a742080008bd21db9bba6e162f">&#9670;&#160;</a></span>VehicleAccessoryList</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">#define RegisterHallOfLightningCreatureAI</td>
-          <td>(</td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">ai_name</td><td>)</td>
-          <td>&#160;&#160;&#160;<a class="el" href="../../d3/d2c/a00764.html#a25cc02ecf50f52ec8cdff096060b8be1">RegisterCreatureAIWithFactory</a>(ai_name, <a class="el" href="../../d2/d74/a03293.html#ae17388a1ba919f74b2068aafe1637537">GetHallsOfLightningAI</a>)</td>
+          <td class="memname">typedef std::vector&lt;<a class="el" href="../../dc/d3a/a09283.html">VehicleAccessory</a>&gt; <a class="el" href="../../d2/d74/a03293.html#af5d682a742080008bd21db9bba6e162f">VehicleAccessoryList</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -222,174 +250,175 @@ Functions</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="ab693e2b3138c7164f5ab5ce33d01188a" name="ab693e2b3138c7164f5ab5ce33d01188a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab693e2b3138c7164f5ab5ce33d01188a">&#9670;&#160;</a></span>HoLActions</h2>
+<a id="a0d0e3226055ad5266e487b58fd01cebd" name="a0d0e3226055ad5266e487b58fd01cebd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0d0e3226055ad5266e487b58fd01cebd">&#9670;&#160;</a></span>PowerType</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d2/d74/a03293.html#ab693e2b3138c7164f5ab5ce33d01188a">HoLActions</a></td>
+          <td class="memname">enum <a class="el" href="../../d2/d74/a03293.html#a0d0e3226055ad5266e487b58fd01cebd">PowerType</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ab693e2b3138c7164f5ab5ce33d01188aac3701fc9a9f8c0aa21c4450036382641" name="ab693e2b3138c7164f5ab5ce33d01188aac3701fc9a9f8c0aa21c4450036382641"></a>ACTION_ACTIVATE_TITANIUM_VRYKUL&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a0d0e3226055ad5266e487b58fd01cebda687679964e834b0ca1543e4dd62ad47f" name="a0d0e3226055ad5266e487b58fd01cebda687679964e834b0ca1543e4dd62ad47f"></a>POWER_STEAM&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d0e3226055ad5266e487b58fd01cebda80a2f688d9270400c0a412df595754d9" name="a0d0e3226055ad5266e487b58fd01cebda80a2f688d9270400c0a412df595754d9"></a>POWER_PYRITE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d0e3226055ad5266e487b58fd01cebda84c681da1fcd67b223f97fd81f534434" name="a0d0e3226055ad5266e487b58fd01cebda84c681da1fcd67b223f97fd81f534434"></a>POWER_HEAT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d0e3226055ad5266e487b58fd01cebda9bc45bf37416c880275746bf261a4097" name="a0d0e3226055ad5266e487b58fd01cebda9bc45bf37416c880275746bf261a4097"></a>POWER_OOZE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d0e3226055ad5266e487b58fd01cebda73464121f88e583ed4c4f89280fd7d68" name="a0d0e3226055ad5266e487b58fd01cebda73464121f88e583ed4c4f89280fd7d68"></a>POWER_BLOOD&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d0e3226055ad5266e487b58fd01cebda94e6111f7ab9d0e57b77b1b3f70faab1" name="a0d0e3226055ad5266e487b58fd01cebda94e6111f7ab9d0e57b77b1b3f70faab1"></a>POWER_WRATH&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   60</span>{</div>
-<div class="line"><span class="lineno">   61</span>    <a class="code hl_enumvalue" href="../../d2/d74/a03293.html#ab693e2b3138c7164f5ab5ce33d01188aac3701fc9a9f8c0aa21c4450036382641">ACTION_ACTIVATE_TITANIUM_VRYKUL</a>,</div>
-<div class="line"><span class="lineno">   62</span>};</div>
-<div class="ttc" id="aa03293_html_ab693e2b3138c7164f5ab5ce33d01188aac3701fc9a9f8c0aa21c4450036382641"><div class="ttname"><a href="../../d2/d74/a03293.html#ab693e2b3138c7164f5ab5ce33d01188aac3701fc9a9f8c0aa21c4450036382641">ACTION_ACTIVATE_TITANIUM_VRYKUL</a></div><div class="ttdeci">@ ACTION_ACTIVATE_TITANIUM_VRYKUL</div><div class="ttdef"><b>Definition:</b> halls_of_lightning.h:61</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   29</span>{</div>
+<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../d2/d74/a03293.html#a0d0e3226055ad5266e487b58fd01cebda687679964e834b0ca1543e4dd62ad47f">POWER_STEAM</a>                                  = 61,</div>
+<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d2/d74/a03293.html#a0d0e3226055ad5266e487b58fd01cebda80a2f688d9270400c0a412df595754d9">POWER_PYRITE</a>                                 = 41,</div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d2/d74/a03293.html#a0d0e3226055ad5266e487b58fd01cebda84c681da1fcd67b223f97fd81f534434">POWER_HEAT</a>                                   = 101,</div>
+<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../d2/d74/a03293.html#a0d0e3226055ad5266e487b58fd01cebda9bc45bf37416c880275746bf261a4097">POWER_OOZE</a>                                   = 121,</div>
+<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../d2/d74/a03293.html#a0d0e3226055ad5266e487b58fd01cebda73464121f88e583ed4c4f89280fd7d68">POWER_BLOOD</a>                                  = 141,</div>
+<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../d2/d74/a03293.html#a0d0e3226055ad5266e487b58fd01cebda94e6111f7ab9d0e57b77b1b3f70faab1">POWER_WRATH</a>                                  = 142</div>
+<div class="line"><span class="lineno">   36</span>};</div>
+<div class="ttc" id="aa03293_html_a0d0e3226055ad5266e487b58fd01cebda687679964e834b0ca1543e4dd62ad47f"><div class="ttname"><a href="../../d2/d74/a03293.html#a0d0e3226055ad5266e487b58fd01cebda687679964e834b0ca1543e4dd62ad47f">POWER_STEAM</a></div><div class="ttdeci">@ POWER_STEAM</div><div class="ttdef"><b>Definition:</b> VehicleDefines.h:30</div></div>
+<div class="ttc" id="aa03293_html_a0d0e3226055ad5266e487b58fd01cebda73464121f88e583ed4c4f89280fd7d68"><div class="ttname"><a href="../../d2/d74/a03293.html#a0d0e3226055ad5266e487b58fd01cebda73464121f88e583ed4c4f89280fd7d68">POWER_BLOOD</a></div><div class="ttdeci">@ POWER_BLOOD</div><div class="ttdef"><b>Definition:</b> VehicleDefines.h:34</div></div>
+<div class="ttc" id="aa03293_html_a0d0e3226055ad5266e487b58fd01cebda80a2f688d9270400c0a412df595754d9"><div class="ttname"><a href="../../d2/d74/a03293.html#a0d0e3226055ad5266e487b58fd01cebda80a2f688d9270400c0a412df595754d9">POWER_PYRITE</a></div><div class="ttdeci">@ POWER_PYRITE</div><div class="ttdef"><b>Definition:</b> VehicleDefines.h:31</div></div>
+<div class="ttc" id="aa03293_html_a0d0e3226055ad5266e487b58fd01cebda84c681da1fcd67b223f97fd81f534434"><div class="ttname"><a href="../../d2/d74/a03293.html#a0d0e3226055ad5266e487b58fd01cebda84c681da1fcd67b223f97fd81f534434">POWER_HEAT</a></div><div class="ttdeci">@ POWER_HEAT</div><div class="ttdef"><b>Definition:</b> VehicleDefines.h:32</div></div>
+<div class="ttc" id="aa03293_html_a0d0e3226055ad5266e487b58fd01cebda94e6111f7ab9d0e57b77b1b3f70faab1"><div class="ttname"><a href="../../d2/d74/a03293.html#a0d0e3226055ad5266e487b58fd01cebda94e6111f7ab9d0e57b77b1b3f70faab1">POWER_WRATH</a></div><div class="ttdeci">@ POWER_WRATH</div><div class="ttdef"><b>Definition:</b> VehicleDefines.h:35</div></div>
+<div class="ttc" id="aa03293_html_a0d0e3226055ad5266e487b58fd01cebda9bc45bf37416c880275746bf261a4097"><div class="ttname"><a href="../../d2/d74/a03293.html#a0d0e3226055ad5266e487b58fd01cebda9bc45bf37416c880275746bf261a4097">POWER_OOZE</a></div><div class="ttdeci">@ POWER_OOZE</div><div class="ttdef"><b>Definition:</b> VehicleDefines.h:33</div></div>
 </div><!-- fragment -->
 </div>
 </div>
-<a id="a2cb96c502604a51bf9b1878594078a89" name="a2cb96c502604a51bf9b1878594078a89"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2cb96c502604a51bf9b1878594078a89">&#9670;&#160;</a></span>HoLBossIds</h2>
+<a id="a7f17d71c7e2664769a8e8a8b40cb5116" name="a7f17d71c7e2664769a8e8a8b40cb5116"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7f17d71c7e2664769a8e8a8b40cb5116">&#9670;&#160;</a></span>VehicleExitParameters</h2>
 
 <div class="memitem">
 <div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d2/d74/a03293.html#a2cb96c502604a51bf9b1878594078a89">HoLBossIds</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a2cb96c502604a51bf9b1878594078a89a9300935bfd39c01dc4f31bad0ed4d1c3" name="a2cb96c502604a51bf9b1878594078a89a9300935bfd39c01dc4f31bad0ed4d1c3"></a>DATA_BJARNGRIM&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a2cb96c502604a51bf9b1878594078a89a14265a28e2df32231fa3e8f37f443ba9" name="a2cb96c502604a51bf9b1878594078a89a14265a28e2df32231fa3e8f37f443ba9"></a>DATA_IONAR&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a2cb96c502604a51bf9b1878594078a89ab31bcb90f6216ddfd2c6b88e6bddae90" name="a2cb96c502604a51bf9b1878594078a89ab31bcb90f6216ddfd2c6b88e6bddae90"></a>DATA_LOKEN&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a2cb96c502604a51bf9b1878594078a89a36dd0ae00b02a743880c859c48ea17bd" name="a2cb96c502604a51bf9b1878594078a89a36dd0ae00b02a743880c859c48ea17bd"></a>DATA_VOLKHAN&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a2cb96c502604a51bf9b1878594078a89a9cfa5bdc17e1d5a590d300b530b36a25" name="a2cb96c502604a51bf9b1878594078a89a9cfa5bdc17e1d5a590d300b530b36a25"></a>MAX_ENCOUNTERS&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   28</span>{</div>
-<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../d2/d74/a03293.html#a2cb96c502604a51bf9b1878594078a89a9300935bfd39c01dc4f31bad0ed4d1c3">DATA_BJARNGRIM</a>                          = 0,</div>
-<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../d2/d74/a03293.html#a2cb96c502604a51bf9b1878594078a89a14265a28e2df32231fa3e8f37f443ba9">DATA_IONAR</a>                              = 1,</div>
-<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d2/d74/a03293.html#a2cb96c502604a51bf9b1878594078a89ab31bcb90f6216ddfd2c6b88e6bddae90">DATA_LOKEN</a>                              = 2,</div>
-<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d2/d74/a03293.html#a2cb96c502604a51bf9b1878594078a89a36dd0ae00b02a743880c859c48ea17bd">DATA_VOLKHAN</a>                            = 3,</div>
-<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../d2/d74/a03293.html#a2cb96c502604a51bf9b1878594078a89a9cfa5bdc17e1d5a590d300b530b36a25">MAX_ENCOUNTERS</a></div>
-<div class="line"><span class="lineno">   34</span>};</div>
-<div class="ttc" id="aa03293_html_a2cb96c502604a51bf9b1878594078a89a14265a28e2df32231fa3e8f37f443ba9"><div class="ttname"><a href="../../d2/d74/a03293.html#a2cb96c502604a51bf9b1878594078a89a14265a28e2df32231fa3e8f37f443ba9">DATA_IONAR</a></div><div class="ttdeci">@ DATA_IONAR</div><div class="ttdef"><b>Definition:</b> halls_of_lightning.h:30</div></div>
-<div class="ttc" id="aa03293_html_a2cb96c502604a51bf9b1878594078a89a36dd0ae00b02a743880c859c48ea17bd"><div class="ttname"><a href="../../d2/d74/a03293.html#a2cb96c502604a51bf9b1878594078a89a36dd0ae00b02a743880c859c48ea17bd">DATA_VOLKHAN</a></div><div class="ttdeci">@ DATA_VOLKHAN</div><div class="ttdef"><b>Definition:</b> halls_of_lightning.h:32</div></div>
-<div class="ttc" id="aa03293_html_a2cb96c502604a51bf9b1878594078a89a9300935bfd39c01dc4f31bad0ed4d1c3"><div class="ttname"><a href="../../d2/d74/a03293.html#a2cb96c502604a51bf9b1878594078a89a9300935bfd39c01dc4f31bad0ed4d1c3">DATA_BJARNGRIM</a></div><div class="ttdeci">@ DATA_BJARNGRIM</div><div class="ttdef"><b>Definition:</b> halls_of_lightning.h:29</div></div>
-<div class="ttc" id="aa03293_html_a2cb96c502604a51bf9b1878594078a89a9cfa5bdc17e1d5a590d300b530b36a25"><div class="ttname"><a href="../../d2/d74/a03293.html#a2cb96c502604a51bf9b1878594078a89a9cfa5bdc17e1d5a590d300b530b36a25">MAX_ENCOUNTERS</a></div><div class="ttdeci">@ MAX_ENCOUNTERS</div><div class="ttdef"><b>Definition:</b> halls_of_lightning.h:33</div></div>
-<div class="ttc" id="aa03293_html_a2cb96c502604a51bf9b1878594078a89ab31bcb90f6216ddfd2c6b88e6bddae90"><div class="ttname"><a href="../../d2/d74/a03293.html#a2cb96c502604a51bf9b1878594078a89ab31bcb90f6216ddfd2c6b88e6bddae90">DATA_LOKEN</a></div><div class="ttdeci">@ DATA_LOKEN</div><div class="ttdef"><b>Definition:</b> halls_of_lightning.h:31</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="ab2c81b52518cf9b744e344bee6558c83" name="ab2c81b52518cf9b744e344bee6558c83"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab2c81b52518cf9b744e344bee6558c83">&#9670;&#160;</a></span>HoLDataTypes</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d2/d74/a03293.html#ab2c81b52518cf9b744e344bee6558c83">HoLDataTypes</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ab2c81b52518cf9b744e344bee6558c83a1a13537a7dab783ca08cdabaef4b698a" name="ab2c81b52518cf9b744e344bee6558c83a1a13537a7dab783ca08cdabaef4b698a"></a>DATA_LOKEN_THRONE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab2c81b52518cf9b744e344bee6558c83aa53ad80b7b459e535100197347853cd0" name="ab2c81b52518cf9b744e344bee6558c83aa53ad80b7b459e535100197347853cd0"></a>DATA_BJARNGRIM_ACHIEVEMENT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab2c81b52518cf9b744e344bee6558c83a7e42579182aec175c25270808bec35b0" name="ab2c81b52518cf9b744e344bee6558c83a7e42579182aec175c25270808bec35b0"></a>DATA_VOLKHAN_ACHIEVEMENT&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   37</span>{</div>
-<div class="line"><span class="lineno">   38</span>    <span class="comment">// GameObject data</span></div>
-<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../d2/d74/a03293.html#ab2c81b52518cf9b744e344bee6558c83a1a13537a7dab783ca08cdabaef4b698a">DATA_LOKEN_THRONE</a>           = 0,</div>
-<div class="line"><span class="lineno">   40</span> </div>
-<div class="line"><span class="lineno">   41</span>    <span class="comment">// Achievement data</span></div>
-<div class="line"><span class="lineno">   42</span>    <a class="code hl_enumvalue" href="../../d2/d74/a03293.html#ab2c81b52518cf9b744e344bee6558c83aa53ad80b7b459e535100197347853cd0">DATA_BJARNGRIM_ACHIEVEMENT</a>  = 10,</div>
-<div class="line"><span class="lineno">   43</span>    <a class="code hl_enumvalue" href="../../d2/d74/a03293.html#ab2c81b52518cf9b744e344bee6558c83a7e42579182aec175c25270808bec35b0">DATA_VOLKHAN_ACHIEVEMENT</a>    = 11,</div>
-<div class="line"><span class="lineno">   44</span>};</div>
-<div class="ttc" id="aa03293_html_ab2c81b52518cf9b744e344bee6558c83a1a13537a7dab783ca08cdabaef4b698a"><div class="ttname"><a href="../../d2/d74/a03293.html#ab2c81b52518cf9b744e344bee6558c83a1a13537a7dab783ca08cdabaef4b698a">DATA_LOKEN_THRONE</a></div><div class="ttdeci">@ DATA_LOKEN_THRONE</div><div class="ttdef"><b>Definition:</b> halls_of_lightning.h:39</div></div>
-<div class="ttc" id="aa03293_html_ab2c81b52518cf9b744e344bee6558c83a7e42579182aec175c25270808bec35b0"><div class="ttname"><a href="../../d2/d74/a03293.html#ab2c81b52518cf9b744e344bee6558c83a7e42579182aec175c25270808bec35b0">DATA_VOLKHAN_ACHIEVEMENT</a></div><div class="ttdeci">@ DATA_VOLKHAN_ACHIEVEMENT</div><div class="ttdef"><b>Definition:</b> halls_of_lightning.h:43</div></div>
-<div class="ttc" id="aa03293_html_ab2c81b52518cf9b744e344bee6558c83aa53ad80b7b459e535100197347853cd0"><div class="ttname"><a href="../../d2/d74/a03293.html#ab2c81b52518cf9b744e344bee6558c83aa53ad80b7b459e535100197347853cd0">DATA_BJARNGRIM_ACHIEVEMENT</a></div><div class="ttdeci">@ DATA_BJARNGRIM_ACHIEVEMENT</div><div class="ttdef"><b>Definition:</b> halls_of_lightning.h:42</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a32c56077197ba30bb4a0f7c7ed0e30ba" name="a32c56077197ba30bb4a0f7c7ed0e30ba"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a32c56077197ba30bb4a0f7c7ed0e30ba">&#9670;&#160;</a></span>HoLGOs</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d2/d74/a03293.html#a32c56077197ba30bb4a0f7c7ed0e30ba">HoLGOs</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a32c56077197ba30bb4a0f7c7ed0e30baa43791493fa131c96383129d276d9ebfc" name="a32c56077197ba30bb4a0f7c7ed0e30baa43791493fa131c96383129d276d9ebfc"></a>GO_VOLKHAN_DOOR&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a32c56077197ba30bb4a0f7c7ed0e30baa98de6bec77b9ffcc83fbe12864534b5a" name="a32c56077197ba30bb4a0f7c7ed0e30baa98de6bec77b9ffcc83fbe12864534b5a"></a>GO_IONAR_DOOR&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a32c56077197ba30bb4a0f7c7ed0e30baa34f7d3fb54b571aef3f476e267de512a" name="a32c56077197ba30bb4a0f7c7ed0e30baa34f7d3fb54b571aef3f476e267de512a"></a>GO_LOKEN_THRONE&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   53</span>{</div>
-<div class="line"><span class="lineno">   54</span>    <a class="code hl_enumvalue" href="../../d2/d74/a03293.html#a32c56077197ba30bb4a0f7c7ed0e30baa43791493fa131c96383129d276d9ebfc">GO_VOLKHAN_DOOR</a>         = 191325,</div>
-<div class="line"><span class="lineno">   55</span>    <a class="code hl_enumvalue" href="../../d2/d74/a03293.html#a32c56077197ba30bb4a0f7c7ed0e30baa98de6bec77b9ffcc83fbe12864534b5a">GO_IONAR_DOOR</a>           = 191326,</div>
-<div class="line"><span class="lineno">   56</span>    <a class="code hl_enumvalue" href="../../d2/d74/a03293.html#a32c56077197ba30bb4a0f7c7ed0e30baa34f7d3fb54b571aef3f476e267de512a">GO_LOKEN_THRONE</a>         = 192654</div>
-<div class="line"><span class="lineno">   57</span>};</div>
-<div class="ttc" id="aa03293_html_a32c56077197ba30bb4a0f7c7ed0e30baa34f7d3fb54b571aef3f476e267de512a"><div class="ttname"><a href="../../d2/d74/a03293.html#a32c56077197ba30bb4a0f7c7ed0e30baa34f7d3fb54b571aef3f476e267de512a">GO_LOKEN_THRONE</a></div><div class="ttdeci">@ GO_LOKEN_THRONE</div><div class="ttdef"><b>Definition:</b> halls_of_lightning.h:56</div></div>
-<div class="ttc" id="aa03293_html_a32c56077197ba30bb4a0f7c7ed0e30baa43791493fa131c96383129d276d9ebfc"><div class="ttname"><a href="../../d2/d74/a03293.html#a32c56077197ba30bb4a0f7c7ed0e30baa43791493fa131c96383129d276d9ebfc">GO_VOLKHAN_DOOR</a></div><div class="ttdeci">@ GO_VOLKHAN_DOOR</div><div class="ttdef"><b>Definition:</b> halls_of_lightning.h:54</div></div>
-<div class="ttc" id="aa03293_html_a32c56077197ba30bb4a0f7c7ed0e30baa98de6bec77b9ffcc83fbe12864534b5a"><div class="ttname"><a href="../../d2/d74/a03293.html#a32c56077197ba30bb4a0f7c7ed0e30baa98de6bec77b9ffcc83fbe12864534b5a">GO_IONAR_DOOR</a></div><div class="ttdeci">@ GO_IONAR_DOOR</div><div class="ttdef"><b>Definition:</b> halls_of_lightning.h:55</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a142cf2087e521648bd7ea9b7495afc85" name="a142cf2087e521648bd7ea9b7495afc85"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a142cf2087e521648bd7ea9b7495afc85">&#9670;&#160;</a></span>HoLNPCs</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d2/d74/a03293.html#a142cf2087e521648bd7ea9b7495afc85">HoLNPCs</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a142cf2087e521648bd7ea9b7495afc85ae1fe986c03c7e3ea9a413cf0831631a8" name="a142cf2087e521648bd7ea9b7495afc85ae1fe986c03c7e3ea9a413cf0831631a8"></a>NPC_TITANIUM_THUNDERER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a142cf2087e521648bd7ea9b7495afc85a5665655f9ffabdab88fc4a691a796023" name="a142cf2087e521648bd7ea9b7495afc85a5665655f9ffabdab88fc4a691a796023"></a>NPC_TITANIUM_SIEGEBREAKER&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   47</span>{</div>
-<div class="line"><span class="lineno">   48</span>    <a class="code hl_enumvalue" href="../../d2/d74/a03293.html#a142cf2087e521648bd7ea9b7495afc85ae1fe986c03c7e3ea9a413cf0831631a8">NPC_TITANIUM_THUNDERER</a>    = 28965,</div>
-<div class="line"><span class="lineno">   49</span>    <a class="code hl_enumvalue" href="../../d2/d74/a03293.html#a142cf2087e521648bd7ea9b7495afc85a5665655f9ffabdab88fc4a691a796023">NPC_TITANIUM_SIEGEBREAKER</a> = 28961</div>
-<div class="line"><span class="lineno">   50</span>};</div>
-<div class="ttc" id="aa03293_html_a142cf2087e521648bd7ea9b7495afc85a5665655f9ffabdab88fc4a691a796023"><div class="ttname"><a href="../../d2/d74/a03293.html#a142cf2087e521648bd7ea9b7495afc85a5665655f9ffabdab88fc4a691a796023">NPC_TITANIUM_SIEGEBREAKER</a></div><div class="ttdeci">@ NPC_TITANIUM_SIEGEBREAKER</div><div class="ttdef"><b>Definition:</b> halls_of_lightning.h:49</div></div>
-<div class="ttc" id="aa03293_html_a142cf2087e521648bd7ea9b7495afc85ae1fe986c03c7e3ea9a413cf0831631a8"><div class="ttname"><a href="../../d2/d74/a03293.html#a142cf2087e521648bd7ea9b7495afc85ae1fe986c03c7e3ea9a413cf0831631a8">NPC_TITANIUM_THUNDERER</a></div><div class="ttdeci">@ NPC_TITANIUM_THUNDERER</div><div class="ttdef"><b>Definition:</b> halls_of_lightning.h:48</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="ae17388a1ba919f74b2068aafe1637537" name="ae17388a1ba919f74b2068aafe1637537"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae17388a1ba919f74b2068aafe1637537">&#9670;&#160;</a></span>GetHallsOfLightningAI()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;class AI , class T &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">AI * GetHallsOfLightningAI </td>
-          <td>(</td>
-          <td class="paramtype">T *&#160;</td>
-          <td class="paramname"><em>obj</em></td><td>)</td>
-          <td></td>
+          <td class="memname">enum class <a class="el" href="../../d2/d74/a03293.html#a7f17d71c7e2664769a8e8a8b40cb5116">VehicleExitParameters</a></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">strong</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   66</span>{</div>
-<div class="line"><span class="lineno">   67</span>    <span class="keywordflow">return</span> GetInstanceAI&lt;AI&gt;(obj, <a class="code hl_define" href="../../d2/d74/a03293.html#aba51f7e18d1bf5bcc9ac3cce40574989">HallsOfLightningScriptName</a>);</div>
-<div class="line"><span class="lineno">   68</span>}</div>
-<div class="ttc" id="aa03293_html_aba51f7e18d1bf5bcc9ac3cce40574989"><div class="ttname"><a href="../../d2/d74/a03293.html#aba51f7e18d1bf5bcc9ac3cce40574989">HallsOfLightningScriptName</a></div><div class="ttdeci">#define HallsOfLightningScriptName</div><div class="ttdef"><b>Definition:</b> halls_of_lightning.h:25</div></div>
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a7f17d71c7e2664769a8e8a8b40cb5116aa81d7ce24590f0cf3b5de2218dc4b2eb" name="a7f17d71c7e2664769a8e8a8b40cb5116aa81d7ce24590f0cf3b5de2218dc4b2eb"></a>VehicleExitParamNone&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a7f17d71c7e2664769a8e8a8b40cb5116aa79483bd0c086e5f24b906b5e4b28427" name="a7f17d71c7e2664769a8e8a8b40cb5116aa79483bd0c086e5f24b906b5e4b28427"></a>VehicleExitParamOffset&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a7f17d71c7e2664769a8e8a8b40cb5116a0f2b1d49adc9bb508c54af39ddb0b99d" name="a7f17d71c7e2664769a8e8a8b40cb5116a0f2b1d49adc9bb508c54af39ddb0b99d"></a>VehicleExitParamDest&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a7f17d71c7e2664769a8e8a8b40cb5116a0d5345401371099713f87a738fca55c0" name="a7f17d71c7e2664769a8e8a8b40cb5116a0d5345401371099713f87a738fca55c0"></a>VehicleExitParamMax&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   60</span>{</div>
+<div class="line"><span class="lineno">   61</span>    <a class="code hl_enumvalue" href="../../d2/d74/a03293.html#a7f17d71c7e2664769a8e8a8b40cb5116aa81d7ce24590f0cf3b5de2218dc4b2eb">VehicleExitParamNone</a>    = 0, <span class="comment">// provided parameters will be ignored</span></div>
+<div class="line"><span class="lineno">   62</span>    <a class="code hl_enumvalue" href="../../d2/d74/a03293.html#a7f17d71c7e2664769a8e8a8b40cb5116aa79483bd0c086e5f24b906b5e4b28427">VehicleExitParamOffset</a>  = 1, <span class="comment">// provided parameters will be used as offset values</span></div>
+<div class="line"><span class="lineno">   63</span>    <a class="code hl_enumvalue" href="../../d2/d74/a03293.html#a7f17d71c7e2664769a8e8a8b40cb5116a0f2b1d49adc9bb508c54af39ddb0b99d">VehicleExitParamDest</a>    = 2, <span class="comment">// provided parameters will be used as absolute destination</span></div>
+<div class="line"><span class="lineno">   64</span>    <a class="code hl_enumvalue" href="../../d2/d74/a03293.html#a7f17d71c7e2664769a8e8a8b40cb5116a0d5345401371099713f87a738fca55c0">VehicleExitParamMax</a></div>
+<div class="line"><span class="lineno">   65</span>};</div>
+<div class="ttc" id="aa03293_html_a7f17d71c7e2664769a8e8a8b40cb5116a0d5345401371099713f87a738fca55c0"><div class="ttname"><a href="../../d2/d74/a03293.html#a7f17d71c7e2664769a8e8a8b40cb5116a0d5345401371099713f87a738fca55c0">VehicleExitParameters::VehicleExitParamMax</a></div><div class="ttdeci">@ VehicleExitParamMax</div></div>
+<div class="ttc" id="aa03293_html_a7f17d71c7e2664769a8e8a8b40cb5116a0f2b1d49adc9bb508c54af39ddb0b99d"><div class="ttname"><a href="../../d2/d74/a03293.html#a7f17d71c7e2664769a8e8a8b40cb5116a0f2b1d49adc9bb508c54af39ddb0b99d">VehicleExitParameters::VehicleExitParamDest</a></div><div class="ttdeci">@ VehicleExitParamDest</div></div>
+<div class="ttc" id="aa03293_html_a7f17d71c7e2664769a8e8a8b40cb5116aa79483bd0c086e5f24b906b5e4b28427"><div class="ttname"><a href="../../d2/d74/a03293.html#a7f17d71c7e2664769a8e8a8b40cb5116aa79483bd0c086e5f24b906b5e4b28427">VehicleExitParameters::VehicleExitParamOffset</a></div><div class="ttdeci">@ VehicleExitParamOffset</div></div>
+<div class="ttc" id="aa03293_html_a7f17d71c7e2664769a8e8a8b40cb5116aa81d7ce24590f0cf3b5de2218dc4b2eb"><div class="ttname"><a href="../../d2/d74/a03293.html#a7f17d71c7e2664769a8e8a8b40cb5116aa81d7ce24590f0cf3b5de2218dc4b2eb">VehicleExitParameters::VehicleExitParamNone</a></div><div class="ttdeci">@ VehicleExitParamNone</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00025">HallsOfLightningScriptName</a>.</p>
+</div>
+</div>
+<a id="a6f71ae83254cc7417ec04e6ac2a55f7a" name="a6f71ae83254cc7417ec04e6ac2a55f7a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6f71ae83254cc7417ec04e6ac2a55f7a">&#9670;&#160;</a></span>VehicleFlags</h2>
 
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d2/d74/a03293.html#a6f71ae83254cc7417ec04e6ac2a55f7a">VehicleFlags</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a6f71ae83254cc7417ec04e6ac2a55f7aa42ade3ec25a77cbf106f1da2cc732a6b" name="a6f71ae83254cc7417ec04e6ac2a55f7aa42ade3ec25a77cbf106f1da2cc732a6b"></a>VEHICLE_FLAG_NO_STRAFE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a6f71ae83254cc7417ec04e6ac2a55f7aa283b85a441a9087bd98ed48a34707c6f" name="a6f71ae83254cc7417ec04e6ac2a55f7aa283b85a441a9087bd98ed48a34707c6f"></a>VEHICLE_FLAG_NO_JUMPING&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a6f71ae83254cc7417ec04e6ac2a55f7aa8eb5fb073cde2366b27d7726b55593b1" name="a6f71ae83254cc7417ec04e6ac2a55f7aa8eb5fb073cde2366b27d7726b55593b1"></a>VEHICLE_FLAG_FULLSPEEDTURNING&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a6f71ae83254cc7417ec04e6ac2a55f7aa929f5dba0c217566377740ffbde2195f" name="a6f71ae83254cc7417ec04e6ac2a55f7aa929f5dba0c217566377740ffbde2195f"></a>VEHICLE_FLAG_ALLOW_PITCHING&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a6f71ae83254cc7417ec04e6ac2a55f7aaeeead2f047ca8fa51f9fb779867cd2c5" name="a6f71ae83254cc7417ec04e6ac2a55f7aaeeead2f047ca8fa51f9fb779867cd2c5"></a>VEHICLE_FLAG_FULLSPEEDPITCHING&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a6f71ae83254cc7417ec04e6ac2a55f7aaadfdb0e47bbca692a5cada5b07577a22" name="a6f71ae83254cc7417ec04e6ac2a55f7aaadfdb0e47bbca692a5cada5b07577a22"></a>VEHICLE_FLAG_CUSTOM_PITCH&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a6f71ae83254cc7417ec04e6ac2a55f7aa2cdd4b1bec19233a8162dc420ecde103" name="a6f71ae83254cc7417ec04e6ac2a55f7aa2cdd4b1bec19233a8162dc420ecde103"></a>VEHICLE_FLAG_ADJUST_AIM_ANGLE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a6f71ae83254cc7417ec04e6ac2a55f7aadf965323e550d3307799178679544dd5" name="a6f71ae83254cc7417ec04e6ac2a55f7aadf965323e550d3307799178679544dd5"></a>VEHICLE_FLAG_ADJUST_AIM_POWER&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   39</span>{</div>
+<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../d2/d74/a03293.html#a6f71ae83254cc7417ec04e6ac2a55f7aa42ade3ec25a77cbf106f1da2cc732a6b">VEHICLE_FLAG_NO_STRAFE</a>                       = 0x00000001,           <span class="comment">// Sets MOVEFLAG2_NO_STRAFE</span></div>
+<div class="line"><span class="lineno">   41</span>    <a class="code hl_enumvalue" href="../../d2/d74/a03293.html#a6f71ae83254cc7417ec04e6ac2a55f7aa283b85a441a9087bd98ed48a34707c6f">VEHICLE_FLAG_NO_JUMPING</a>                      = 0x00000002,           <span class="comment">// Sets MOVEFLAG2_NO_JUMPING</span></div>
+<div class="line"><span class="lineno">   42</span>    <a class="code hl_enumvalue" href="../../d2/d74/a03293.html#a6f71ae83254cc7417ec04e6ac2a55f7aa8eb5fb073cde2366b27d7726b55593b1">VEHICLE_FLAG_FULLSPEEDTURNING</a>                = 0x00000004,           <span class="comment">// Sets MOVEFLAG2_FULLSPEEDTURNING</span></div>
+<div class="line"><span class="lineno">   43</span>    <a class="code hl_enumvalue" href="../../d2/d74/a03293.html#a6f71ae83254cc7417ec04e6ac2a55f7aa929f5dba0c217566377740ffbde2195f">VEHICLE_FLAG_ALLOW_PITCHING</a>                  = 0x00000010,           <span class="comment">// Sets MOVEFLAG2_ALLOW_PITCHING</span></div>
+<div class="line"><span class="lineno">   44</span>    <a class="code hl_enumvalue" href="../../d2/d74/a03293.html#a6f71ae83254cc7417ec04e6ac2a55f7aaeeead2f047ca8fa51f9fb779867cd2c5">VEHICLE_FLAG_FULLSPEEDPITCHING</a>               = 0x00000020,           <span class="comment">// Sets MOVEFLAG2_FULLSPEEDPITCHING</span></div>
+<div class="line"><span class="lineno">   45</span>    <a class="code hl_enumvalue" href="../../d2/d74/a03293.html#a6f71ae83254cc7417ec04e6ac2a55f7aaadfdb0e47bbca692a5cada5b07577a22">VEHICLE_FLAG_CUSTOM_PITCH</a>                    = 0x00000040,           <span class="comment">// If set use pitchMin and pitchMax from DBC, otherwise pitchMin = -pi/2, pitchMax = pi/2</span></div>
+<div class="line"><span class="lineno">   46</span>    <a class="code hl_enumvalue" href="../../d2/d74/a03293.html#a6f71ae83254cc7417ec04e6ac2a55f7aa2cdd4b1bec19233a8162dc420ecde103">VEHICLE_FLAG_ADJUST_AIM_ANGLE</a>                = 0x00000400,           <span class="comment">// Lua_IsVehicleAimAngleAdjustable</span></div>
+<div class="line"><span class="lineno">   47</span>    <a class="code hl_enumvalue" href="../../d2/d74/a03293.html#a6f71ae83254cc7417ec04e6ac2a55f7aadf965323e550d3307799178679544dd5">VEHICLE_FLAG_ADJUST_AIM_POWER</a>                = 0x00000800,           <span class="comment">// Lua_IsVehicleAimPowerAdjustable</span></div>
+<div class="line"><span class="lineno">   48</span>};</div>
+<div class="ttc" id="aa03293_html_a6f71ae83254cc7417ec04e6ac2a55f7aa283b85a441a9087bd98ed48a34707c6f"><div class="ttname"><a href="../../d2/d74/a03293.html#a6f71ae83254cc7417ec04e6ac2a55f7aa283b85a441a9087bd98ed48a34707c6f">VEHICLE_FLAG_NO_JUMPING</a></div><div class="ttdeci">@ VEHICLE_FLAG_NO_JUMPING</div><div class="ttdef"><b>Definition:</b> VehicleDefines.h:41</div></div>
+<div class="ttc" id="aa03293_html_a6f71ae83254cc7417ec04e6ac2a55f7aa2cdd4b1bec19233a8162dc420ecde103"><div class="ttname"><a href="../../d2/d74/a03293.html#a6f71ae83254cc7417ec04e6ac2a55f7aa2cdd4b1bec19233a8162dc420ecde103">VEHICLE_FLAG_ADJUST_AIM_ANGLE</a></div><div class="ttdeci">@ VEHICLE_FLAG_ADJUST_AIM_ANGLE</div><div class="ttdef"><b>Definition:</b> VehicleDefines.h:46</div></div>
+<div class="ttc" id="aa03293_html_a6f71ae83254cc7417ec04e6ac2a55f7aa42ade3ec25a77cbf106f1da2cc732a6b"><div class="ttname"><a href="../../d2/d74/a03293.html#a6f71ae83254cc7417ec04e6ac2a55f7aa42ade3ec25a77cbf106f1da2cc732a6b">VEHICLE_FLAG_NO_STRAFE</a></div><div class="ttdeci">@ VEHICLE_FLAG_NO_STRAFE</div><div class="ttdef"><b>Definition:</b> VehicleDefines.h:40</div></div>
+<div class="ttc" id="aa03293_html_a6f71ae83254cc7417ec04e6ac2a55f7aa8eb5fb073cde2366b27d7726b55593b1"><div class="ttname"><a href="../../d2/d74/a03293.html#a6f71ae83254cc7417ec04e6ac2a55f7aa8eb5fb073cde2366b27d7726b55593b1">VEHICLE_FLAG_FULLSPEEDTURNING</a></div><div class="ttdeci">@ VEHICLE_FLAG_FULLSPEEDTURNING</div><div class="ttdef"><b>Definition:</b> VehicleDefines.h:42</div></div>
+<div class="ttc" id="aa03293_html_a6f71ae83254cc7417ec04e6ac2a55f7aa929f5dba0c217566377740ffbde2195f"><div class="ttname"><a href="../../d2/d74/a03293.html#a6f71ae83254cc7417ec04e6ac2a55f7aa929f5dba0c217566377740ffbde2195f">VEHICLE_FLAG_ALLOW_PITCHING</a></div><div class="ttdeci">@ VEHICLE_FLAG_ALLOW_PITCHING</div><div class="ttdef"><b>Definition:</b> VehicleDefines.h:43</div></div>
+<div class="ttc" id="aa03293_html_a6f71ae83254cc7417ec04e6ac2a55f7aaadfdb0e47bbca692a5cada5b07577a22"><div class="ttname"><a href="../../d2/d74/a03293.html#a6f71ae83254cc7417ec04e6ac2a55f7aaadfdb0e47bbca692a5cada5b07577a22">VEHICLE_FLAG_CUSTOM_PITCH</a></div><div class="ttdeci">@ VEHICLE_FLAG_CUSTOM_PITCH</div><div class="ttdef"><b>Definition:</b> VehicleDefines.h:45</div></div>
+<div class="ttc" id="aa03293_html_a6f71ae83254cc7417ec04e6ac2a55f7aadf965323e550d3307799178679544dd5"><div class="ttname"><a href="../../d2/d74/a03293.html#a6f71ae83254cc7417ec04e6ac2a55f7aadf965323e550d3307799178679544dd5">VEHICLE_FLAG_ADJUST_AIM_POWER</a></div><div class="ttdeci">@ VEHICLE_FLAG_ADJUST_AIM_POWER</div><div class="ttdef"><b>Definition:</b> VehicleDefines.h:47</div></div>
+<div class="ttc" id="aa03293_html_a6f71ae83254cc7417ec04e6ac2a55f7aaeeead2f047ca8fa51f9fb779867cd2c5"><div class="ttname"><a href="../../d2/d74/a03293.html#a6f71ae83254cc7417ec04e6ac2a55f7aaeeead2f047ca8fa51f9fb779867cd2c5">VEHICLE_FLAG_FULLSPEEDPITCHING</a></div><div class="ttdeci">@ VEHICLE_FLAG_FULLSPEEDPITCHING</div><div class="ttdef"><b>Definition:</b> VehicleDefines.h:44</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="aecacfdf074f78c4655fc7b038cce5c06" name="aecacfdf074f78c4655fc7b038cce5c06"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aecacfdf074f78c4655fc7b038cce5c06">&#9670;&#160;</a></span>VehicleNPCs</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d2/d74/a03293.html#aecacfdf074f78c4655fc7b038cce5c06">VehicleNPCs</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="aecacfdf074f78c4655fc7b038cce5c06a1ad291a45a8ceaff91f636890e29dcb8" name="aecacfdf074f78c4655fc7b038cce5c06a1ad291a45a8ceaff91f636890e29dcb8"></a>NPC_EIDOLON_WATCHER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aecacfdf074f78c4655fc7b038cce5c06a5a7d35fc890662fca47daf84cc7c0612" name="aecacfdf074f78c4655fc7b038cce5c06a5a7d35fc890662fca47daf84cc7c0612"></a>NPC_LITHE_STALKER&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   68</span>{</div>
+<div class="line"><span class="lineno">   69</span>    <a class="code hl_enumvalue" href="../../d2/d74/a03293.html#aecacfdf074f78c4655fc7b038cce5c06a1ad291a45a8ceaff91f636890e29dcb8">NPC_EIDOLON_WATCHER</a>                         = 31110,</div>
+<div class="line"><span class="lineno">   70</span>    <a class="code hl_enumvalue" href="../../d2/d74/a03293.html#aecacfdf074f78c4655fc7b038cce5c06a5a7d35fc890662fca47daf84cc7c0612">NPC_LITHE_STALKER</a>                           = 30895</div>
+<div class="line"><span class="lineno">   71</span>};</div>
+<div class="ttc" id="aa03293_html_aecacfdf074f78c4655fc7b038cce5c06a1ad291a45a8ceaff91f636890e29dcb8"><div class="ttname"><a href="../../d2/d74/a03293.html#aecacfdf074f78c4655fc7b038cce5c06a1ad291a45a8ceaff91f636890e29dcb8">NPC_EIDOLON_WATCHER</a></div><div class="ttdeci">@ NPC_EIDOLON_WATCHER</div><div class="ttdef"><b>Definition:</b> VehicleDefines.h:69</div></div>
+<div class="ttc" id="aa03293_html_aecacfdf074f78c4655fc7b038cce5c06a5a7d35fc890662fca47daf84cc7c0612"><div class="ttname"><a href="../../d2/d74/a03293.html#aecacfdf074f78c4655fc7b038cce5c06a5a7d35fc890662fca47daf84cc7c0612">NPC_LITHE_STALKER</a></div><div class="ttdeci">@ NPC_LITHE_STALKER</div><div class="ttdef"><b>Definition:</b> VehicleDefines.h:70</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a5829b6d4bd25b5c2a56495142fa8ca54" name="a5829b6d4bd25b5c2a56495142fa8ca54"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5829b6d4bd25b5c2a56495142fa8ca54">&#9670;&#160;</a></span>VehicleSpells</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d2/d74/a03293.html#a5829b6d4bd25b5c2a56495142fa8ca54">VehicleSpells</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a5829b6d4bd25b5c2a56495142fa8ca54adc19864d7c866905ca0c5bcec8b60119" name="a5829b6d4bd25b5c2a56495142fa8ca54adc19864d7c866905ca0c5bcec8b60119"></a>VEHICLE_SPELL_RIDE_HARDCODED&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5829b6d4bd25b5c2a56495142fa8ca54a9d7d863fbfbc5b74e135ff1c825f2eae" name="a5829b6d4bd25b5c2a56495142fa8ca54a9d7d863fbfbc5b74e135ff1c825f2eae"></a>VEHICLE_SPELL_PARACHUTE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5829b6d4bd25b5c2a56495142fa8ca54ac4b6447ce07cbd236c81e6cc097a42fe" name="a5829b6d4bd25b5c2a56495142fa8ca54ac4b6447ce07cbd236c81e6cc097a42fe"></a>VEHICLE_SPELL_GEIST_CONTROL_END&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5829b6d4bd25b5c2a56495142fa8ca54aa4ccb8c6147a5a23c813ae796ebe267b" name="a5829b6d4bd25b5c2a56495142fa8ca54aa4ccb8c6147a5a23c813ae796ebe267b"></a>VEHICLE_SPELL_SHADE_CONTROL_END&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   51</span>{</div>
+<div class="line"><span class="lineno">   52</span>    <a class="code hl_enumvalue" href="../../d2/d74/a03293.html#a5829b6d4bd25b5c2a56495142fa8ca54adc19864d7c866905ca0c5bcec8b60119">VEHICLE_SPELL_RIDE_HARDCODED</a>                 = 46598,</div>
+<div class="line"><span class="lineno">   53</span>    <a class="code hl_enumvalue" href="../../d2/d74/a03293.html#a5829b6d4bd25b5c2a56495142fa8ca54a9d7d863fbfbc5b74e135ff1c825f2eae">VEHICLE_SPELL_PARACHUTE</a>                      = 45472,</div>
+<div class="line"><span class="lineno">   54</span> </div>
+<div class="line"><span class="lineno">   55</span>    <a class="code hl_enumvalue" href="../../d2/d74/a03293.html#a5829b6d4bd25b5c2a56495142fa8ca54ac4b6447ce07cbd236c81e6cc097a42fe">VEHICLE_SPELL_GEIST_CONTROL_END</a>              = 58119,</div>
+<div class="line"><span class="lineno">   56</span>    <a class="code hl_enumvalue" href="../../d2/d74/a03293.html#a5829b6d4bd25b5c2a56495142fa8ca54aa4ccb8c6147a5a23c813ae796ebe267b">VEHICLE_SPELL_SHADE_CONTROL_END</a>              = 58664</div>
+<div class="line"><span class="lineno">   57</span>};</div>
+<div class="ttc" id="aa03293_html_a5829b6d4bd25b5c2a56495142fa8ca54a9d7d863fbfbc5b74e135ff1c825f2eae"><div class="ttname"><a href="../../d2/d74/a03293.html#a5829b6d4bd25b5c2a56495142fa8ca54a9d7d863fbfbc5b74e135ff1c825f2eae">VEHICLE_SPELL_PARACHUTE</a></div><div class="ttdeci">@ VEHICLE_SPELL_PARACHUTE</div><div class="ttdef"><b>Definition:</b> VehicleDefines.h:53</div></div>
+<div class="ttc" id="aa03293_html_a5829b6d4bd25b5c2a56495142fa8ca54aa4ccb8c6147a5a23c813ae796ebe267b"><div class="ttname"><a href="../../d2/d74/a03293.html#a5829b6d4bd25b5c2a56495142fa8ca54aa4ccb8c6147a5a23c813ae796ebe267b">VEHICLE_SPELL_SHADE_CONTROL_END</a></div><div class="ttdeci">@ VEHICLE_SPELL_SHADE_CONTROL_END</div><div class="ttdef"><b>Definition:</b> VehicleDefines.h:56</div></div>
+<div class="ttc" id="aa03293_html_a5829b6d4bd25b5c2a56495142fa8ca54ac4b6447ce07cbd236c81e6cc097a42fe"><div class="ttname"><a href="../../d2/d74/a03293.html#a5829b6d4bd25b5c2a56495142fa8ca54ac4b6447ce07cbd236c81e6cc097a42fe">VEHICLE_SPELL_GEIST_CONTROL_END</a></div><div class="ttdeci">@ VEHICLE_SPELL_GEIST_CONTROL_END</div><div class="ttdef"><b>Definition:</b> VehicleDefines.h:55</div></div>
+<div class="ttc" id="aa03293_html_a5829b6d4bd25b5c2a56495142fa8ca54adc19864d7c866905ca0c5bcec8b60119"><div class="ttname"><a href="../../d2/d74/a03293.html#a5829b6d4bd25b5c2a56495142fa8ca54adc19864d7c866905ca0c5bcec8b60119">VEHICLE_SPELL_RIDE_HARDCODED</a></div><div class="ttdeci">@ VEHICLE_SPELL_RIDE_HARDCODED</div><div class="ttdef"><b>Definition:</b> VehicleDefines.h:52</div></div>
+</div><!-- fragment -->
 </div>
 </div>
 </div><!-- contents -->
@@ -397,8 +426,8 @@ template&lt;class AI , class T &gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_81f27dfa25f27c55a8e8044b1a11fbfb.html">Northrend</a></li><li class="navelem"><a class="el" href="../../dir_fd35eb90f0e73b64930f951fffa7a603.html">Ulduar</a></li><li class="navelem"><a class="el" href="../../dir_7e58d5bd8d8b82079418e9e537265afd.html">HallsOfLightning</a></li><li class="navelem"><a class="el" href="../../d2/d74/a03293.html">halls_of_lightning.h</a></li>
-    <li class="footer">Generated on Mon Sep 21 2026 23:33:08 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_e83c9d0a1780a629eb22febc87da63b1.html">Entities</a></li><li class="navelem"><a class="el" href="../../dir_7668c9a7a4fe0af4092e9bdba7b199c4.html">Vehicle</a></li><li class="navelem"><a class="el" href="../../d2/d74/a03293.html">VehicleDefines.h</a></li>
+    <li class="footer">Generated on Tue Sep 29 2026 01:11:51 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

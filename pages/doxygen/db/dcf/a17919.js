@@ -1,7 +1,9 @@
 var a17919 =
 [
-    [ "achievement_once_bitten_twice_shy", "db/dcf/a17919.html#a20cefbd70b242168bbfb1228eb8b4f9b", null ],
-    [ "OnCheck", "db/dcf/a17919.html#aa2e3ac3e8a14b06446174e475ac18af3", null ],
-    [ "_spawnMode", "db/dcf/a17919.html#a6f02f5ab07143ddff553279049714902", null ],
-    [ "_wasVampire", "db/dcf/a17919.html#a297cf6da45b0cddb4dc9fc888919bdda", null ]
+    [ "CheckTarget", "db/dcf/a17919.html#a43fc6a16aca217ef043fa34a58391357", null ],
+    [ "HandlePresence", "db/dcf/a17919.html#a52ea6041c5fe004c1e996a974cc59d5d", null ],
+    [ "OnCast", "db/dcf/a17919.html#a96cec6f1b51a2c0c03f89447c5306b5a", null ],
+    [ "PrepareSpellScript", "db/dcf/a17919.html#abe559b32aa82f19abb0a6d664b75c748", null ],
+    [ "Register", "db/dcf/a17919.html#ad8c7a9935e85c06f837e694ebcaffba1", null ],
+    [ "Validate", "db/dcf/a17919.html#a2301414a88dcbf4bdc8a486ec4be994e", null ]
 ];

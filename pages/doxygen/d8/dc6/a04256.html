@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/scripts/EasternKingdoms/zone_ironforge.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/TC9Sidecar/TC9Sidecar.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,96 +105,86 @@ $(document).ready(function(){initNavTree('d8/dc6/a04256.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
-<a href="#enum-members">Enumerations</a> &#124;
+<a href="#define-members">Macros</a> &#124;
 <a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">zone_ironforge.cpp File Reference</div></div>
+  <div class="headertitle"><div class="title">TC9Sidecar.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">CreatureScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptedCreature.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">TC9Sidecar.h</a>&quot;</code><br />
+<code>#include &quot;Config.h&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">InstanceSaveMgr.h</a>&quot;</code><br />
+<code>#include &quot;libsidecar.h&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Log.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">MapMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">TC9GroupHooks.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">TC9GrpcHandler.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">TC9GuildHooks.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">UpdateTime.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WorldSessionMgr.h</a>&quot;</code><br />
+<code>#include &lt;limits&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d9c/a14123.html">npc_king_magni_bronzebeard</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
-Enumerations</h2></td></tr>
-<tr class="memitem:a4b1dfd5f3e79f13d25d2d89aa1469c3e"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc6/a04256.html#a4b1dfd5f3e79f13d25d2d89aa1469c3e">KingMagniBronzebeard</a> { <br />
-&#160;&#160;<a class="el" href="../../d8/dc6/a04256.html#a4b1dfd5f3e79f13d25d2d89aa1469c3eae72b4b8d8a4056153794ae9fbdaf67aa">SOUND_AGGRO</a> = 5896
-, <br />
-&#160;&#160;<a class="el" href="../../d8/dc6/a04256.html#a4b1dfd5f3e79f13d25d2d89aa1469c3ea28574d4484fa9dddb63e423dc7194e35">SPELL_AVATAR</a> = 19135
-, <br />
-&#160;&#160;<a class="el" href="../../d8/dc6/a04256.html#a4b1dfd5f3e79f13d25d2d89aa1469c3eaa72ede58fa3714726fab8d4b7252f5fa">SPELL_KNOCK_AWAY</a> = 20686
-, <br />
-&#160;&#160;<a class="el" href="../../d8/dc6/a04256.html#a4b1dfd5f3e79f13d25d2d89aa1469c3ea49fdaa9564ae9ef8ef83312a3d3118e2">SPELL_STORM_BOLT</a> = 20685
-<br />
- }</td></tr>
-<tr class="separator:a4b1dfd5f3e79f13d25d2d89aa1469c3e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
+Macros</h2></td></tr>
+<tr class="memitem:a3ce088496ac6391921eb6558a8bfa534"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc6/a04256.html#a3ce088496ac6391921eb6558a8bfa534">AVAILABLE_MAPS_ALL_MAPS</a>&#160;&#160;&#160;&quot;&quot;</td></tr>
+<tr class="separator:a3ce088496ac6391921eb6558a8bfa534"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:aa2f983b337fe1f23e428542f1d26d0c2"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc6/a04256.html#aa2f983b337fe1f23e428542f1d26d0c2">AddSC_ironforge</a> ()</td></tr>
-<tr class="separator:aa2f983b337fe1f23e428542f1d26d0c2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abdac64925d58546fe47fef3f63e42404"><td class="memItemLeft" align="right" valign="top">MonitoringDataCollectorResponse&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc6/a04256.html#abdac64925d58546fe47fef3f63e42404">HandleMonitoringRequest</a> ()</td></tr>
+<tr class="separator:abdac64925d58546fe47fef3f63e42404"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a4b1dfd5f3e79f13d25d2d89aa1469c3e" name="a4b1dfd5f3e79f13d25d2d89aa1469c3e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4b1dfd5f3e79f13d25d2d89aa1469c3e">&#9670;&#160;</a></span>KingMagniBronzebeard</h2>
+<h2 class="groupheader">Macro Definition Documentation</h2>
+<a id="a3ce088496ac6391921eb6558a8bfa534" name="a3ce088496ac6391921eb6558a8bfa534"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3ce088496ac6391921eb6558a8bfa534">&#9670;&#160;</a></span>AVAILABLE_MAPS_ALL_MAPS</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d8/dc6/a04256.html#a4b1dfd5f3e79f13d25d2d89aa1469c3e">KingMagniBronzebeard</a></td>
+          <td class="memname">#define AVAILABLE_MAPS_ALL_MAPS&#160;&#160;&#160;&quot;&quot;</td>
         </tr>
       </table>
 </div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a4b1dfd5f3e79f13d25d2d89aa1469c3eae72b4b8d8a4056153794ae9fbdaf67aa" name="a4b1dfd5f3e79f13d25d2d89aa1469c3eae72b4b8d8a4056153794ae9fbdaf67aa"></a>SOUND_AGGRO&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4b1dfd5f3e79f13d25d2d89aa1469c3ea28574d4484fa9dddb63e423dc7194e35" name="a4b1dfd5f3e79f13d25d2d89aa1469c3ea28574d4484fa9dddb63e423dc7194e35"></a>SPELL_AVATAR&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4b1dfd5f3e79f13d25d2d89aa1469c3eaa72ede58fa3714726fab8d4b7252f5fa" name="a4b1dfd5f3e79f13d25d2d89aa1469c3eaa72ede58fa3714726fab8d4b7252f5fa"></a>SPELL_KNOCK_AWAY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4b1dfd5f3e79f13d25d2d89aa1469c3ea49fdaa9564ae9ef8ef83312a3d3118e2" name="a4b1dfd5f3e79f13d25d2d89aa1469c3ea49fdaa9564ae9ef8ef83312a3d3118e2"></a>SPELL_STORM_BOLT&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   23</span>{</div>
-<div class="line"><span class="lineno">   24</span>    <a class="code hl_enumvalue" href="../../d8/dc6/a04256.html#a4b1dfd5f3e79f13d25d2d89aa1469c3eae72b4b8d8a4056153794ae9fbdaf67aa">SOUND_AGGRO</a>      = 5896,</div>
-<div class="line"><span class="lineno">   25</span>    <a class="code hl_enumvalue" href="../../d8/dc6/a04256.html#a4b1dfd5f3e79f13d25d2d89aa1469c3ea28574d4484fa9dddb63e423dc7194e35">SPELL_AVATAR</a>     = 19135,</div>
-<div class="line"><span class="lineno">   26</span>    <a class="code hl_enumvalue" href="../../d8/dc6/a04256.html#a4b1dfd5f3e79f13d25d2d89aa1469c3eaa72ede58fa3714726fab8d4b7252f5fa">SPELL_KNOCK_AWAY</a> = 20686,</div>
-<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../d8/dc6/a04256.html#a4b1dfd5f3e79f13d25d2d89aa1469c3ea49fdaa9564ae9ef8ef83312a3d3118e2">SPELL_STORM_BOLT</a> = 20685</div>
-<div class="line"><span class="lineno">   28</span>};</div>
-<div class="ttc" id="aa04256_html_a4b1dfd5f3e79f13d25d2d89aa1469c3ea28574d4484fa9dddb63e423dc7194e35"><div class="ttname"><a href="../../d8/dc6/a04256.html#a4b1dfd5f3e79f13d25d2d89aa1469c3ea28574d4484fa9dddb63e423dc7194e35">SPELL_AVATAR</a></div><div class="ttdeci">@ SPELL_AVATAR</div><div class="ttdef"><b>Definition:</b> zone_ironforge.cpp:25</div></div>
-<div class="ttc" id="aa04256_html_a4b1dfd5f3e79f13d25d2d89aa1469c3ea49fdaa9564ae9ef8ef83312a3d3118e2"><div class="ttname"><a href="../../d8/dc6/a04256.html#a4b1dfd5f3e79f13d25d2d89aa1469c3ea49fdaa9564ae9ef8ef83312a3d3118e2">SPELL_STORM_BOLT</a></div><div class="ttdeci">@ SPELL_STORM_BOLT</div><div class="ttdef"><b>Definition:</b> zone_ironforge.cpp:27</div></div>
-<div class="ttc" id="aa04256_html_a4b1dfd5f3e79f13d25d2d89aa1469c3eaa72ede58fa3714726fab8d4b7252f5fa"><div class="ttname"><a href="../../d8/dc6/a04256.html#a4b1dfd5f3e79f13d25d2d89aa1469c3eaa72ede58fa3714726fab8d4b7252f5fa">SPELL_KNOCK_AWAY</a></div><div class="ttdeci">@ SPELL_KNOCK_AWAY</div><div class="ttdef"><b>Definition:</b> zone_ironforge.cpp:26</div></div>
-<div class="ttc" id="aa04256_html_a4b1dfd5f3e79f13d25d2d89aa1469c3eae72b4b8d8a4056153794ae9fbdaf67aa"><div class="ttname"><a href="../../d8/dc6/a04256.html#a4b1dfd5f3e79f13d25d2d89aa1469c3eae72b4b8d8a4056153794ae9fbdaf67aa">SOUND_AGGRO</a></div><div class="ttdeci">@ SOUND_AGGRO</div><div class="ttdef"><b>Definition:</b> zone_ironforge.cpp:24</div></div>
-</div><!-- fragment -->
+
 </div>
 </div>
 <h2 class="groupheader">Function Documentation</h2>
-<a id="aa2f983b337fe1f23e428542f1d26d0c2" name="aa2f983b337fe1f23e428542f1d26d0c2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa2f983b337fe1f23e428542f1d26d0c2">&#9670;&#160;</a></span>AddSC_ironforge()</h2>
+<a id="abdac64925d58546fe47fef3f63e42404" name="abdac64925d58546fe47fef3f63e42404"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abdac64925d58546fe47fef3f63e42404">&#9670;&#160;</a></span>HandleMonitoringRequest()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void AddSC_ironforge </td>
+          <td class="memname">MonitoringDataCollectorResponse HandleMonitoringRequest </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   71</span>{</div>
-<div class="line"><span class="lineno">   72</span>    <a class="code hl_define" href="../../d3/d2c/a00764.html#a5e7352841895df7117e2830448eb533f">RegisterCreatureAI</a>(<a class="code hl_struct" href="../../de/d9c/a14123.html">npc_king_magni_bronzebeard</a>);</div>
-<div class="line"><span class="lineno">   73</span>}</div>
-<div class="ttc" id="aa00764_html_a5e7352841895df7117e2830448eb533f"><div class="ttname"><a href="../../d3/d2c/a00764.html#a5e7352841895df7117e2830448eb533f">RegisterCreatureAI</a></div><div class="ttdeci">#define RegisterCreatureAI(ai_name)</div><div class="ttdef"><b>Definition:</b> CreatureScript.h:71</div></div>
-<div class="ttc" id="aa14123_html"><div class="ttname"><a href="../../de/d9c/a14123.html">npc_king_magni_bronzebeard</a></div><div class="ttdef"><b>Definition:</b> zone_ironforge.cpp:31</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  323</span>{</div>
+<div class="line"><span class="lineno">  324</span>    MonitoringDataCollectorResponse res;</div>
+<div class="line"><span class="lineno">  325</span>    res.errorCode         = MonitoringErrorCodeNoError;</div>
+<div class="line"><span class="lineno">  326</span>    res.diffMean          = <a class="code hl_variable" href="../../d1/df2/a02990.html#aa415d38dafe4c1c78c951de9fed8393b">sWorldUpdateTime</a>.<a class="code hl_function" href="../../d4/df7/a12291.html#a12ec461e5d33845ed375c0965fb024ae">GetAverageUpdateTime</a>();</div>
+<div class="line"><span class="lineno">  327</span>    res.diffMedian        = <a class="code hl_variable" href="../../d1/df2/a02990.html#aa415d38dafe4c1c78c951de9fed8393b">sWorldUpdateTime</a>.<a class="code hl_function" href="../../d4/df7/a12291.html#a45b460f5fec335763e20bfe06fa33980">GetPercentile</a>(50);</div>
+<div class="line"><span class="lineno">  328</span>    res.diff95Percentile  = <a class="code hl_variable" href="../../d1/df2/a02990.html#aa415d38dafe4c1c78c951de9fed8393b">sWorldUpdateTime</a>.<a class="code hl_function" href="../../d4/df7/a12291.html#a45b460f5fec335763e20bfe06fa33980">GetPercentile</a>(95);</div>
+<div class="line"><span class="lineno">  329</span>    res.diff99Percentile  = <a class="code hl_variable" href="../../d1/df2/a02990.html#aa415d38dafe4c1c78c951de9fed8393b">sWorldUpdateTime</a>.<a class="code hl_function" href="../../d4/df7/a12291.html#a45b460f5fec335763e20bfe06fa33980">GetPercentile</a>(99);</div>
+<div class="line"><span class="lineno">  330</span>    res.diffMaxPercentile = <a class="code hl_variable" href="../../d1/df2/a02990.html#aa415d38dafe4c1c78c951de9fed8393b">sWorldUpdateTime</a>.<a class="code hl_function" href="../../d4/df7/a12291.html#a45b460f5fec335763e20bfe06fa33980">GetPercentile</a>(100);</div>
+<div class="line"><span class="lineno">  331</span>    res.connectedPlayers  = <a class="code hl_define" href="../../d2/d50/a03473.html#a57dd9797e2282d27210248275f47ab85">sWorldSessionMgr</a>-&gt;GetActiveSessionCount();</div>
+<div class="line"><span class="lineno">  332</span>    <span class="keywordflow">return</span> res;</div>
+<div class="line"><span class="lineno">  333</span>}</div>
+<div class="ttc" id="aa02990_html_aa415d38dafe4c1c78c951de9fed8393b"><div class="ttname"><a href="../../d1/df2/a02990.html#aa415d38dafe4c1c78c951de9fed8393b">sWorldUpdateTime</a></div><div class="ttdeci">WorldUpdateTime sWorldUpdateTime</div><div class="ttdef"><b>Definition:</b> UpdateTime.cpp:27</div></div>
+<div class="ttc" id="aa03473_html_a57dd9797e2282d27210248275f47ab85"><div class="ttname"><a href="../../d2/d50/a03473.html#a57dd9797e2282d27210248275f47ab85">sWorldSessionMgr</a></div><div class="ttdeci">#define sWorldSessionMgr</div><div class="ttdef"><b>Definition:</b> WorldSessionMgr.h:118</div></div>
+<div class="ttc" id="aa12291_html_a12ec461e5d33845ed375c0965fb024ae"><div class="ttname"><a href="../../d4/df7/a12291.html#a12ec461e5d33845ed375c0965fb024ae">UpdateTime::GetAverageUpdateTime</a></div><div class="ttdeci">uint32 GetAverageUpdateTime() const</div><div class="ttdef"><b>Definition:</b> UpdateTime.cpp:41</div></div>
+<div class="ttc" id="aa12291_html_a45b460f5fec335763e20bfe06fa33980"><div class="ttname"><a href="../../d4/df7/a12291.html#a45b460f5fec335763e20bfe06fa33980">UpdateTime::GetPercentile</a></div><div class="ttdeci">uint32 GetPercentile(uint8 p)</div><div class="ttdef"><b>Definition:</b> UpdateTime.cpp:82</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00071">RegisterCreatureAI</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00041">UpdateTime::GetAverageUpdateTime()</a>, <a class="el" href="../../#l00082">UpdateTime::GetPercentile()</a>, <a class="el" href="../../#l00118">sWorldSessionMgr</a>, and <a class="el" href="../../#l00027">sWorldUpdateTime</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00165">AddEasternKingdomsScripts()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00173">ToCloud9Sidecar::SetupGrpcHandlers()</a>.</p>
 
 </div>
 </div>
@@ -203,8 +193,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_ddeb450e5fe586f747c0635391d1d1d6.html">EasternKingdoms</a></li><li class="navelem"><a class="el" href="../../d8/dc6/a04256.html">zone_ironforge.cpp</a></li>
-    <li class="footer">Generated on Mon Sep 21 2026 23:32:44 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_665ad2249ecdd6ffa5118847b893f456.html">TC9Sidecar</a></li><li class="navelem"><a class="el" href="../../d8/dc6/a04256.html">TC9Sidecar.cpp</a></li>
+    <li class="footer">Generated on Tue Sep 29 2026 01:11:52 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

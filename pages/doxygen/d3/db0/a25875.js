@@ -1,10 +1,8 @@
 var a25875 =
 [
-    [ "CheckPeriodicProc", "d3/db0/a25875.html#abd7673f268b80681b27a862bd8013de3", null ],
-    [ "CheckProc", "d3/db0/a25875.html#a439aa5395d222291fbd5943f853d8961", null ],
-    [ "CheckTrapProc", "d3/db0/a25875.html#a0cbe419bde5ebc30dc599bbdd99d04eb", null ],
-    [ "HandleProc", "d3/db0/a25875.html#a70fbabc5f07bfff080fe9af6f12d440e", null ],
-    [ "PrepareAuraScript", "d3/db0/a25875.html#a475320d20875b2d710ed3734b78f4645", null ],
-    [ "Register", "d3/db0/a25875.html#aca7649a87ace4e22793ca33705b1500c", null ],
-    [ "Validate", "d3/db0/a25875.html#a45630b6dc703996321286ff16a17e3e3", null ]
+    [ "OnApply", "d3/db0/a25875.html#aeec705e572ce6aa870bb5cc048e02e75", null ],
+    [ "OnRemove", "d3/db0/a25875.html#a38399457b6cb8ebf4c5e457e0590cb1a", null ],
+    [ "PrepareAuraScript", "d3/db0/a25875.html#a8d0f2113c0212a24e94054f3f1db0ad3", null ],
+    [ "Register", "d3/db0/a25875.html#a673dc5619a33632ba3d3f1793c5cfdb4", null ],
+    [ "Validate", "d3/db0/a25875.html#a65722a9826b14dc90cc6df47655d3d6b", null ]
 ];

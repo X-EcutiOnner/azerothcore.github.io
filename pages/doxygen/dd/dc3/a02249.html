@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Handlers/CalendarHandler.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Events/firework_show/firework_show_Ironforge.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,89 +105,84 @@ $(document).ready(function(){initNavTree('dd/dc3/a02249.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">CalendarHandler.cpp File Reference</div></div>
+<a href="#var-members">Variables</a>  </div>
+  <div class="headertitle"><div class="title">firework_show_Ironforge.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">ArenaTeamMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">CalendarMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">CalendarPackets.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">DatabaseEnv.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">DisableMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GameEventMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GameTime.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GuildMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">InstanceSaveMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Log.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ObjectAccessor.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Opcodes.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SocialMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldSession.h</a>&quot;</code><br />
-<code>#include &lt;utf8.h&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">firework_show.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
-Functions</h2></td></tr>
-<tr class="memitem:a15c437e1d990c60d0d271ab1773b7d97"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc3/a02249.html#a15c437e1d990c60d0d271ab1773b7d97">validUtf8String</a> (<a class="el" href="../../d6/d6c/a11799.html">WorldPacket</a> &amp;recvData, std::string &amp;s, std::string action, <a class="el" href="../../d8/d0c/a08895.html">ObjectGuid</a> playerGUID)</td></tr>
-<tr class="separator:a15c437e1d990c60d0d271ab1773b7d97"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:a1c510ef56353251fbd84e641155e90f8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/db5/a14939.html">FireworkShowGameobject</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc3/a02249.html#a1c510ef56353251fbd84e641155e90f8">fireworkShowGameobjectIronforge</a> []</td></tr>
+<tr class="separator:a1c510ef56353251fbd84e641155e90f8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac473aa81696d6b6374a3062efff6b146"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/da1/a14943.html">FireworkShowScheduleEntry</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc3/a02249.html#ac473aa81696d6b6374a3062efff6b146">fireworkShowScheduleIronforge</a> []</td></tr>
+<tr class="separator:ac473aa81696d6b6374a3062efff6b146"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aac2063b01976ab49960c5cde832a70dc"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d9d/a14947.html">FireworkShow</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc3/a02249.html#aac2063b01976ab49960c5cde832a70dc">fireworkShowIronforge</a></td></tr>
+<tr class="separator:aac2063b01976ab49960c5cde832a70dc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="a15c437e1d990c60d0d271ab1773b7d97" name="a15c437e1d990c60d0d271ab1773b7d97"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a15c437e1d990c60d0d271ab1773b7d97">&#9670;&#160;</a></span>validUtf8String()</h2>
+<h2 class="groupheader">Variable Documentation</h2>
+<a id="a1c510ef56353251fbd84e641155e90f8" name="a1c510ef56353251fbd84e641155e90f8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1c510ef56353251fbd84e641155e90f8">&#9670;&#160;</a></span>fireworkShowGameobjectIronforge</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">bool validUtf8String </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d6/d6c/a11799.html">WorldPacket</a> &amp;&#160;</td>
-          <td class="paramname"><em>recvData</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">std::string &amp;&#160;</td>
-          <td class="paramname"><em>s</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">std::string&#160;</td>
-          <td class="paramname"><em>action</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d8/d0c/a08895.html">ObjectGuid</a>&#160;</td>
-          <td class="paramname"><em>playerGUID</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="memname"><a class="el" href="../../d7/db5/a14939.html">FireworkShowGameobject</a> const fireworkShowGameobjectIronforge[]</td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  224</span>{</div>
-<div class="line"><span class="lineno">  225</span>    <span class="keywordflow">if</span> (!utf8::is_valid(s.begin(), s.end()))</div>
-<div class="line"><span class="lineno">  226</span>    {</div>
-<div class="line"><span class="lineno">  227</span>        <a class="code hl_define" href="../../dd/dcf/a04913.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;network.opcode&quot;</span>, <span class="stringliteral">&quot;CalendarHandler: Player ({}) attempt to {} an event with invalid name or description (packet modification)&quot;</span>,</div>
-<div class="line"><span class="lineno">  228</span>            playerGUID.<a class="code hl_function" href="../../d8/d0c/a08895.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>(), action);</div>
-<div class="line"><span class="lineno">  229</span>        recvData.<a class="code hl_function" href="../../d2/d1a/a29659.html#a68aceada27f7897fbb59c13264ad9517">rfinish</a>();</div>
-<div class="line"><span class="lineno">  230</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  231</span>    }</div>
-<div class="line"><span class="lineno">  232</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  233</span>}</div>
-<div class="ttc" id="aa04913_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../dd/dcf/a04913.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:153</div></div>
-<div class="ttc" id="aa08895_html_a78f5fb47e3b35addf8984000c175125b"><div class="ttname"><a href="../../d8/d0c/a08895.html#a78f5fb47e3b35addf8984000c175125b">ObjectGuid::ToString</a></div><div class="ttdeci">std::string ToString() const</div><div class="ttdef"><b>Definition:</b> ObjectGuid.cpp:48</div></div>
-<div class="ttc" id="aa29659_html_a68aceada27f7897fbb59c13264ad9517"><div class="ttname"><a href="../../d2/d1a/a29659.html#a68aceada27f7897fbb59c13264ad9517">ByteBuffer::rfinish</a></div><div class="ttdeci">void rfinish()</div><div class="ttdef"><b>Definition:</b> ByteBuffer.h:325</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00153">LOG_INFO</a>, <a class="el" href="../../#l00325">ByteBuffer::rfinish()</a>, and <a class="el" href="../../#l00048">ObjectGuid::ToString()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00235">WorldSession::HandleCalendarAddEvent()</a>, and <a class="el" href="../../#l00364">WorldSession::HandleCalendarUpdateEvent()</a>.</p>
+</div>
+</div>
+<a id="aac2063b01976ab49960c5cde832a70dc" name="aac2063b01976ab49960c5cde832a70dc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aac2063b01976ab49960c5cde832a70dc">&#9670;&#160;</a></span>fireworkShowIronforge</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/d9d/a14947.html">FireworkShow</a> const fireworkShowIronforge</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<b>Initial value:</b><div class="fragment"><div class="line">=</div>
+<div class="line">{</div>
+<div class="line">    .schedule =</div>
+<div class="line">    {</div>
+<div class="line">        .entries = <a class="code hl_variable" href="../../dd/dc3/a02249.html#ac473aa81696d6b6374a3062efff6b146">fireworkShowScheduleIronforge</a>,</div>
+<div class="line">        .size = <span class="keyword">sizeof</span>(<a class="code hl_variable" href="../../dd/dc3/a02249.html#ac473aa81696d6b6374a3062efff6b146">fireworkShowScheduleIronforge</a>) / <span class="keyword">sizeof</span>(<a class="code hl_variable" href="../../dd/dc3/a02249.html#ac473aa81696d6b6374a3062efff6b146">fireworkShowScheduleIronforge</a>[0])</div>
+<div class="line">    },</div>
+<div class="line">    .spawns =</div>
+<div class="line">    {</div>
+<div class="line">        .entries = <a class="code hl_variable" href="../../dd/dc3/a02249.html#a1c510ef56353251fbd84e641155e90f8">fireworkShowGameobjectIronforge</a>,</div>
+<div class="line">        .size = <span class="keyword">sizeof</span>(<a class="code hl_variable" href="../../dd/dc3/a02249.html#a1c510ef56353251fbd84e641155e90f8">fireworkShowGameobjectIronforge</a>) / <span class="keyword">sizeof</span>(<a class="code hl_variable" href="../../dd/dc3/a02249.html#a1c510ef56353251fbd84e641155e90f8">fireworkShowGameobjectIronforge</a>[0])</div>
+<div class="line">    },</div>
+<div class="line">    .revelerId =</div>
+<div class="line">    {</div>
+<div class="line">        <a class="code hl_enumvalue" href="../../d7/dc8/a02264.html#ad6101dc8b1197f1113132f0abce2b1efa19b63e50c89c9e9eb12fe6a22108c967">NPC_IRONFORGE_REVELER</a>,</div>
+<div class="line">        0</div>
+<div class="line">    }</div>
+<div class="line">}</div>
+<div class="ttc" id="aa02249_html_a1c510ef56353251fbd84e641155e90f8"><div class="ttname"><a href="../../dd/dc3/a02249.html#a1c510ef56353251fbd84e641155e90f8">fireworkShowGameobjectIronforge</a></div><div class="ttdeci">FireworkShowGameobject const fireworkShowGameobjectIronforge[]</div><div class="ttdef"><b>Definition:</b> firework_show_Ironforge.h:24</div></div>
+<div class="ttc" id="aa02249_html_ac473aa81696d6b6374a3062efff6b146"><div class="ttname"><a href="../../dd/dc3/a02249.html#ac473aa81696d6b6374a3062efff6b146">fireworkShowScheduleIronforge</a></div><div class="ttdeci">FireworkShowScheduleEntry const fireworkShowScheduleIronforge[]</div><div class="ttdef"><b>Definition:</b> firework_show_Ironforge.h:86</div></div>
+<div class="ttc" id="aa02264_html_ad6101dc8b1197f1113132f0abce2b1efa19b63e50c89c9e9eb12fe6a22108c967"><div class="ttname"><a href="../../d7/dc8/a02264.html#ad6101dc8b1197f1113132f0abce2b1efa19b63e50c89c9e9eb12fe6a22108c967">NPC_IRONFORGE_REVELER</a></div><div class="ttdeci">@ NPC_IRONFORGE_REVELER</div><div class="ttdef"><b>Definition:</b> firework_show.h:55</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="ac473aa81696d6b6374a3062efff6b146" name="ac473aa81696d6b6374a3062efff6b146"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac473aa81696d6b6374a3062efff6b146">&#9670;&#160;</a></span>fireworkShowScheduleIronforge</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../de/da1/a14943.html">FireworkShowScheduleEntry</a> const fireworkShowScheduleIronforge[]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
 
 </div>
 </div>
@@ -196,8 +191,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_c6aa1690377d4e56e32ba0c89772ac1d.html">Handlers</a></li><li class="navelem"><a class="el" href="../../dd/dc3/a02249.html">CalendarHandler.cpp</a></li>
-    <li class="footer">Generated on Mon Sep 21 2026 23:32:30 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_c818e5878076a3731e7c7d0d4061bd6b.html">Events</a></li><li class="navelem"><a class="el" href="../../dir_86b42cc1a54e6d04672764bc481d77b5.html">firework_show</a></li><li class="navelem"><a class="el" href="../../dd/dc3/a02249.html">firework_show_Ironforge.h</a></li>
+    <li class="footer">Generated on Tue Sep 29 2026 01:12:10 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

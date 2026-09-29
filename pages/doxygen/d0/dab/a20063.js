@@ -1,10 +1,12 @@
 var a20063 =
 [
-    [ "npc_molten_golem", "d0/dab/a20063.html#a38350948396b7df97837780531f79515", null ],
-    [ "DamageTaken", "d0/dab/a20063.html#aa3521246b0c2bed18b5466879ec1d107", null ],
-    [ "DoAction", "d0/dab/a20063.html#a1936beed47707f2f0e560d7d3b3440ba", null ],
-    [ "Reset", "d0/dab/a20063.html#a24e23d0959bcda5be05786381a35ac77", null ],
-    [ "UpdateAI", "d0/dab/a20063.html#ac62f71bc6b3fa8ab6c1a5fc73915d64e", null ],
-    [ "events", "d0/dab/a20063.html#a2a552e27aca0e188a4d5ae46f639cbef", null ],
-    [ "m_pInstance", "d0/dab/a20063.html#af46ccffa6a7fcf3cbee893eba6435159", null ]
+    [ "boss_loken", "d0/dab/a20063.html#a50ba322cf0adb3030444bf8fde4dba0c", null ],
+    [ "JustDied", "d0/dab/a20063.html#a6bf8e999ebb5581dd1bd03ed6b96a1dc", null ],
+    [ "JustEngagedWith", "d0/dab/a20063.html#aca09a816f57dea1c7c132258a6d0e5ba", null ],
+    [ "KilledUnit", "d0/dab/a20063.html#a85ae3094927f7484216b44582f9a2bf6", null ],
+    [ "MoveInLineOfSight", "d0/dab/a20063.html#ac9f3115629e5595d06c213d3e04afa68", null ],
+    [ "OnAuraRemove", "d0/dab/a20063.html#adc35dee5a25820bd080b4d610d6cfc37", null ],
+    [ "Reset", "d0/dab/a20063.html#abe6a1192eb9e4d5afa65dcc01b4472ec", null ],
+    [ "ScheduleTasks", "d0/dab/a20063.html#a600e211be40226679212a7078b26f3ed", null ],
+    [ "_introDone", "d0/dab/a20063.html#a348b7ef60fb815fb160e7f348b8f7af4", null ]
 ];

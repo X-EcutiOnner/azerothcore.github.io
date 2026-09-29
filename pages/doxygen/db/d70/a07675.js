@@ -1,12 +1,24 @@
 var a07675 =
 [
-    [ "WGWorkshop", "db/d70/a07675.html#a2d2d7b24ec77275f24efa54d31e98bbb", null ],
-    [ "GiveControlTo", "db/d70/a07675.html#a6b69312f4ffa562b0e8fdcf5da3568d3", null ],
-    [ "IsCapturable", "db/d70/a07675.html#a269e23cf24ca2fd133830dafbb8d02c0", null ],
-    [ "Save", "db/d70/a07675.html#adede1c780178f20dc8339320a021e4b6", null ],
-    [ "UpdateGraveyardAndWorkshop", "db/d70/a07675.html#a2ff11801fb50cd3a463c44fafbddaed4", null ],
-    [ "bf", "db/d70/a07675.html#ae2b7e050289ad5922ddcd73c6da9f5a5", null ],
-    [ "state", "db/d70/a07675.html#a279d47c85843e884edef1f82b9654cd8", null ],
-    [ "teamControl", "db/d70/a07675.html#a196c8d0094a34c18835840e046fd39ef", null ],
-    [ "workshopId", "db/d70/a07675.html#a42d7337c67e4f19886b0ec86f0e60596", null ]
+    [ "BfWGGameObjectBuilding", "db/d70/a07675.html#a69e9f758b6fc68c02a53d0a90ff2e14a", null ],
+    [ "Damaged", "db/d70/a07675.html#a48e7cf336d213225b79c2aaab57dfa8b", null ],
+    [ "Destroyed", "db/d70/a07675.html#a53c3befcba120fc19f450f6d98206114", null ],
+    [ "Init", "db/d70/a07675.html#a7b87ccb4d91971520b30815edcd478ff", null ],
+    [ "Rebuild", "db/d70/a07675.html#ae963cc5bd41ff4cd6ce08f6abbaf98af", null ],
+    [ "Save", "db/d70/a07675.html#ab2f22ba682800ff54f961b2343770907", null ],
+    [ "UpdateCreatureAndGo", "db/d70/a07675.html#ae40fdca69431e761daad935cf8130df3", null ],
+    [ "UpdateTurretAttack", "db/d70/a07675.html#aa0783e3ed8e86d3e1761d6a790211c7e", null ],
+    [ "m_Build", "db/d70/a07675.html#ae48e5946636b67fea33a6313329b4725", null ],
+    [ "m_CreatureBottomList", "db/d70/a07675.html#aa503519e630d9b12db5a2d42667dd757", null ],
+    [ "m_CreatureTopList", "db/d70/a07675.html#a26ecb2ff29a81d8bad2e5070e39a9f22", null ],
+    [ "m_damagedText", "db/d70/a07675.html#ae9da48817573f5fb94c31a347e228588", null ],
+    [ "m_destroyedText", "db/d70/a07675.html#ac66ae383f2029fe0b0190f1a6beb935c", null ],
+    [ "m_GameObjectList", "db/d70/a07675.html#a8b9e5cf4d460576f54df17edcee753d0", null ],
+    [ "m_State", "db/d70/a07675.html#a1747bf381279251232b35cd8ba47c381", null ],
+    [ "m_Team", "db/d70/a07675.html#a9a921918532376825913b79471ca43b3", null ],
+    [ "m_TowerCannonBottomList", "db/d70/a07675.html#aba34ec3fca7faafd5f6dbd51bd03daf5", null ],
+    [ "m_TurretTopList", "db/d70/a07675.html#a2f1e928509a53a7024bff2c10be306c3", null ],
+    [ "m_Type", "db/d70/a07675.html#ae770e04de54fd1a425a78bb30f57d02e", null ],
+    [ "m_WG", "db/d70/a07675.html#a038bd5a89eddff137fc085371f9d1888", null ],
+    [ "m_WorldState", "db/d70/a07675.html#a343e1dede32e1b3d89561f002355c172", null ]
 ];

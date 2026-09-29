@@ -1,10 +1,8 @@
 var a17379 =
 [
-    [ "HandleAfterEffectAbsorb", "de/d1e/a17379.html#a4af67c41afd7843a5cfe2b2e2e9e8055", null ],
-    [ "Load", "de/d1e/a17379.html#abab656d4ba7e14bf1ffdb1d40c395b5d", null ],
-    [ "PrepareAuraScript", "de/d1e/a17379.html#a0856d66c801715f16cd251ddf9b25a59", null ],
-    [ "Register", "de/d1e/a17379.html#a69d8dfebb981b51592770b7b5807bc80", null ],
-    [ "Validate", "de/d1e/a17379.html#a55ec42ce316978220103a3a39f3939a3", null ],
-    [ "amount", "de/d1e/a17379.html#aaf34ee04ae619a3ac108a8fd1c9dac99", null ],
-    [ "fired", "de/d1e/a17379.html#a6a7afa99044644608b16e83328bfd5fa", null ]
+    [ "npc_fos_leaderAI", "de/d1e/a17379.html#ae6a80f77558e0f5a62efc3b5ef1f61d6", null ],
+    [ "DoAction", "de/d1e/a17379.html#a1fd8cea6f8a6d8f76ba3c484b15c4054", null ],
+    [ "Reset", "de/d1e/a17379.html#a33364da3af4681de9f9e21b9dcf7f16c", null ],
+    [ "UpdateAI", "de/d1e/a17379.html#ac6f2aedc40e415ac0f7e8c212d4deae5", null ],
+    [ "events", "de/d1e/a17379.html#ac02a0c34096086e7baf1dc004811f4c1", null ]
 ];

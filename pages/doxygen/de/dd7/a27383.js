@@ -1,8 +1,7 @@
 var a27383 =
 [
-    [ "HandleScript", "de/dd7/a27383.html#a1e096b2b2f5a285e660f64fb133f4f8b", null ],
-    [ "Load", "de/dd7/a27383.html#ad4e3fecb64bbb0f5c63b90d445c0b9f3", null ],
-    [ "PrepareSpellScript", "de/dd7/a27383.html#a5c4b2a46dfd6bdc2d14ee02f673628c1", null ],
-    [ "Register", "de/dd7/a27383.html#aa823af94e3366ae799ebaf03e52411dd", null ],
-    [ "Validate", "de/dd7/a27383.html#ad6985954002f88436a2681e758f41fb2", null ]
+    [ "HandleEffectPeriodic", "de/dd7/a27383.html#a2fab66e86d3c0207183db72ecbb6fc6c", null ],
+    [ "PrepareAuraScript", "de/dd7/a27383.html#ae0e3b459c71933c25da8136cdcddf200", null ],
+    [ "Register", "de/dd7/a27383.html#ac924ebbc893476cabab5f05120d0cd8d", null ],
+    [ "Validate", "de/dd7/a27383.html#ada327cf500aec62fdf34f9d8a4ccd6e2", null ]
 ];

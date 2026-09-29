@@ -1,7 +1,6 @@
 var a25307 =
 [
-    [ "HandleScript", "db/d8e/a25307.html#ac1ac71413eed0c820031e1fdf554fc37", null ],
-    [ "PrepareSpellScript", "db/d8e/a25307.html#a6c20014cf0822c107b155bfa3884cd58", null ],
-    [ "Register", "db/d8e/a25307.html#a99bc45930aa373d9f4886a0745bddb66", null ],
-    [ "Validate", "db/d8e/a25307.html#a502e364a6f5097e5f022b80606db1909", null ]
+    [ "HandleEffectPeriodicUpdate", "db/d8e/a25307.html#a554353fede78b89bf488230254d7892b", null ],
+    [ "PrepareAuraScript", "db/d8e/a25307.html#adf20aaafff83bae614ff3c614a08a54b", null ],
+    [ "Register", "db/d8e/a25307.html#a6ee55cc41f7b69fc12bb3dc6c7fcbaf5", null ]
 ];

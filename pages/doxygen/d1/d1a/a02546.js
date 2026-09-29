@@ -1,49 +1,113 @@
 var a02546 =
 [
-    [ "zm_beacon", "dc/d82/a22755.html", "dc/d82/a22755" ],
-    [ "OPvPCapturePointZM_Beacon", "df/d8a/a22759.html", "df/d8a/a22759" ],
-    [ "OPvPCapturePointZM_Graveyard", "df/d4b/a22763.html", "df/d4b/a22763" ],
-    [ "OutdoorPvPZM", "dc/d17/a22767.html", "dc/d17/a22767" ],
-    [ "OutdoorPvPZMSpells", "d1/d1a/a02546.html#ac31cd7a23fe2f82e25ababd3a8b700a1", [
-      [ "ZM_CAPTURE_BUFF", "d1/d1a/a02546.html#ac31cd7a23fe2f82e25ababd3a8b700a1a5039b0bd2a7689f857a4ecc871d5b16d", null ],
-      [ "ZM_BATTLE_STANDARD_A", "d1/d1a/a02546.html#ac31cd7a23fe2f82e25ababd3a8b700a1a2b2887aade90aad310f6f859f8482aa5", null ],
-      [ "ZM_BATTLE_STANDARD_H", "d1/d1a/a02546.html#ac31cd7a23fe2f82e25ababd3a8b700a1a0513ef6309adc490c793ee1dc5bc8614", null ],
-      [ "ZM_AlliancePlayerKillReward", "d1/d1a/a02546.html#ac31cd7a23fe2f82e25ababd3a8b700a1a53fad383bb7058d8c1a272bd6d9523a3", null ],
-      [ "ZM_HordePlayerKillReward", "d1/d1a/a02546.html#ac31cd7a23fe2f82e25ababd3a8b700a1a6f9de137a24ee5d457ee7e2c093b398b", null ]
+    [ "BG_SA_RoundScore", "d6/d46/a07907.html", "d6/d46/a07907" ],
+    [ "BattlegroundSAScore", "db/d15/a07911.html", "db/d15/a07911" ],
+    [ "BattlegroundSA", "dc/d13/a07915.html", "dc/d13/a07915" ],
+    [ "BG_SA_DEMOLISHER_AMOUNT", "d1/d1a/a02546.html#aaf470646067725fcbaa2cd2244813cef", null ],
+    [ "BG_SA_FLAG_AMOUNT", "d1/d1a/a02546.html#a618d60620199e19e1cf637471ac184d4", null ],
+    [ "SPELL_SA_END_OF_ROUND", "d1/d1a/a02546.html#a10f9b0e47e9f7cab36a6148a69fd9277", null ],
+    [ "BG_SA_Boat", "d1/d1a/a02546.html#a2fdde502d58fcad4ec4e86e7d4753dee", [
+      [ "BG_SA_BOAT_ONE_A", "d1/d1a/a02546.html#a2fdde502d58fcad4ec4e86e7d4753deeac3bf23e78473f3a300ff0e560c249076", null ],
+      [ "BG_SA_BOAT_TWO_H", "d1/d1a/a02546.html#a2fdde502d58fcad4ec4e86e7d4753deea605c6cd721a5eb37b5cf987a29a23370", null ],
+      [ "BG_SA_BOAT_ONE_H", "d1/d1a/a02546.html#a2fdde502d58fcad4ec4e86e7d4753deea0872cd6b5c610a4f26c64756b4d67fd3", null ],
+      [ "BG_SA_BOAT_TWO_A", "d1/d1a/a02546.html#a2fdde502d58fcad4ec4e86e7d4753deead4839dd8ea380fcc8ee3ea2590c5c1f5", null ]
     ] ],
-    [ "ZM_BeaconType", "d1/d1a/a02546.html#a8493feec67db9c938c31465f24f60fe1", [
-      [ "ZM_BEACON_EAST", "d1/d1a/a02546.html#a8493feec67db9c938c31465f24f60fe1a034b065f7219f5b4a6d983ed694e7a80", null ],
-      [ "ZM_BEACON_WEST", "d1/d1a/a02546.html#a8493feec67db9c938c31465f24f60fe1a36b102e6d45f41b4db14e889ffac46e2", null ],
-      [ "ZM_NUM_BEACONS", "d1/d1a/a02546.html#a8493feec67db9c938c31465f24f60fe1a9e566b7b7f64cae5ea6a37a289f16ce3", null ]
+    [ "BG_SA_BroadcastTexts", "d1/d1a/a02546.html#af2b1ff3fe0a9494efd8a7e1241323ce9", [
+      [ "BG_SA_TEXT_ALLIANCE_CAPTURED_TITAN_PORTAL", "d1/d1a/a02546.html#af2b1ff3fe0a9494efd8a7e1241323ce9a9d77f0e12e8533aa15be553e91175a8f", null ],
+      [ "BG_SA_TEXT_HORDE_CAPTURED_TITAN_PORTAL", "d1/d1a/a02546.html#af2b1ff3fe0a9494efd8a7e1241323ce9ad2bb88613bdc961d95584bceaf469aea", null ],
+      [ "BG_SA_TEXT_ROUND_TWO_START_ONE_MINUTE", "d1/d1a/a02546.html#af2b1ff3fe0a9494efd8a7e1241323ce9a28297a624897a74ff7bfcedea5ee2284", null ],
+      [ "BG_SA_TEXT_ROUND_TWO_START_HALF_MINUTE", "d1/d1a/a02546.html#af2b1ff3fe0a9494efd8a7e1241323ce9ab3e87a51e7e69f5fcb922455927cf9d1", null ]
     ] ],
-    [ "Zm_GraveyardState", "d1/d1a/a02546.html#ad13518df9718347908929a97748d3636", [
-      [ "ZM_GRAVEYARD_N", "d1/d1a/a02546.html#ad13518df9718347908929a97748d3636a87f32a40b9ae4243e7977085b4dab7c0", null ],
-      [ "ZM_GRAVEYARD_A", "d1/d1a/a02546.html#ad13518df9718347908929a97748d3636aef470c9322dded10641afcc6a153e329", null ],
-      [ "ZM_GRAVEYARD_H", "d1/d1a/a02546.html#ad13518df9718347908929a97748d3636a115a6845b9e0fbabbef2f3e28599f065", null ]
+    [ "BG_SA_GateState", "d1/d1a/a02546.html#a1a5802e3e727d92fc12f7a76c13e1fff", [
+      [ "BG_SA_GATE_OK", "d1/d1a/a02546.html#a1a5802e3e727d92fc12f7a76c13e1fffab78884f340f9c3c49e77e6543bb820ec", null ],
+      [ "BG_SA_GATE_DAMAGED", "d1/d1a/a02546.html#a1a5802e3e727d92fc12f7a76c13e1fffacd2da24d75a595742cb53197a68f25c2", null ],
+      [ "BG_SA_GATE_DESTROYED", "d1/d1a/a02546.html#a1a5802e3e727d92fc12f7a76c13e1fffa02705aa2b9465e7e046a0e5db3119046", null ]
     ] ],
-    [ "ZM_TowerStateMask", "d1/d1a/a02546.html#a5d44e96b24b1f1215d1b3788b212f11c", [
-      [ "ZM_TOWERSTATE_N", "d1/d1a/a02546.html#a5d44e96b24b1f1215d1b3788b212f11ca03d2918a6a9915b33da0f120feb7d5da", null ],
-      [ "ZM_TOWERSTATE_A", "d1/d1a/a02546.html#a5d44e96b24b1f1215d1b3788b212f11cab51c5d640c62f5336ec7c5a1028f73d0", null ],
-      [ "ZM_TOWERSTATE_H", "d1/d1a/a02546.html#a5d44e96b24b1f1215d1b3788b212f11ca206f55050d03bbc30f690c7e669e1831", null ]
+    [ "BG_SA_Graveyards", "d1/d1a/a02546.html#a11d890bc33f187169c4372df4b2a2675", [
+      [ "BG_SA_BEACH_GY", "d1/d1a/a02546.html#a11d890bc33f187169c4372df4b2a2675a823821df9525e04f84fe23ebf5dd2c23", null ],
+      [ "BG_SA_DEFENDER_LAST_GY", "d1/d1a/a02546.html#a11d890bc33f187169c4372df4b2a2675a1a78f58ff71eedf3c6ab08e93805495d", null ],
+      [ "BG_SA_RIGHT_CAPTURABLE_GY", "d1/d1a/a02546.html#a11d890bc33f187169c4372df4b2a2675ae55d488f431dee5f1dce8bf7564d591d", null ],
+      [ "BG_SA_LEFT_CAPTURABLE_GY", "d1/d1a/a02546.html#a11d890bc33f187169c4372df4b2a2675ac3820dbff51304ae6b49225c5e548f38", null ],
+      [ "BG_SA_CENTRAL_CAPTURABLE_GY", "d1/d1a/a02546.html#a11d890bc33f187169c4372df4b2a2675a7e968b899dbbf87ebb69929774e731eb", null ],
+      [ "BG_SA_MAX_GY", "d1/d1a/a02546.html#a11d890bc33f187169c4372df4b2a2675abdd8e367597aaf2a5d12d211f80c2569", null ]
     ] ],
-    [ "ZMCreatureTypes", "d1/d1a/a02546.html#aa6fc4a297b329d62073dd503d4f647c5", [
-      [ "ZM_ALLIANCE_FIELD_SCOUT", "d1/d1a/a02546.html#aa6fc4a297b329d62073dd503d4f647c5ab0f9fb0eee307b47658f6742db0a4d82", null ],
-      [ "ZM_HORDE_FIELD_SCOUT", "d1/d1a/a02546.html#aa6fc4a297b329d62073dd503d4f647c5a51001197c09a749a8d042df6fc5d0d62", null ],
-      [ "ZM_CREATURE_NUM", "d1/d1a/a02546.html#aa6fc4a297b329d62073dd503d4f647c5a47e8909e9a6a41604775c672ec3587ae", null ]
+    [ "BG_SA_NPCs", "d1/d1a/a02546.html#aea1aed3c14fd6d73de4714dba32924be", [
+      [ "BG_SA_GUN_1", "d1/d1a/a02546.html#aea1aed3c14fd6d73de4714dba32924beac4146576abce67a75c7bd9ac83626024", null ],
+      [ "BG_SA_GUN_2", "d1/d1a/a02546.html#aea1aed3c14fd6d73de4714dba32924bea329adab562700210e7bc1fa2acbc497b", null ],
+      [ "BG_SA_GUN_3", "d1/d1a/a02546.html#aea1aed3c14fd6d73de4714dba32924bea07b151af8957c4730fe07f4c14290b05", null ],
+      [ "BG_SA_GUN_4", "d1/d1a/a02546.html#aea1aed3c14fd6d73de4714dba32924bea2149a4c21e32a6b98b5c52356bce9e0d", null ],
+      [ "BG_SA_GUN_5", "d1/d1a/a02546.html#aea1aed3c14fd6d73de4714dba32924bead91e87158b2006ef8b30c3a5e464e68b", null ],
+      [ "BG_SA_GUN_6", "d1/d1a/a02546.html#aea1aed3c14fd6d73de4714dba32924beaf0a9b38513b9ca778af048e0b919fb12", null ],
+      [ "BG_SA_GUN_7", "d1/d1a/a02546.html#aea1aed3c14fd6d73de4714dba32924beab5b28e7ffb35f76df37b53d2c3a01a86", null ],
+      [ "BG_SA_GUN_8", "d1/d1a/a02546.html#aea1aed3c14fd6d73de4714dba32924beac83ade9e45d805fb4aa9e95400bb5b98", null ],
+      [ "BG_SA_GUN_9", "d1/d1a/a02546.html#aea1aed3c14fd6d73de4714dba32924beae6bf211355942a078ed80a33cb903f15", null ],
+      [ "BG_SA_GUN_10", "d1/d1a/a02546.html#aea1aed3c14fd6d73de4714dba32924bea20239b336b99084edad9f45aa637fb98", null ],
+      [ "BG_SA_NPC_TRIGGER_1", "d1/d1a/a02546.html#aea1aed3c14fd6d73de4714dba32924beaf25fb3cee9a63e26fac69e0cafbc3c01", null ],
+      [ "BG_SA_NPC_TRIGGER_2", "d1/d1a/a02546.html#aea1aed3c14fd6d73de4714dba32924bea465d29324f41dc0286952d883faa2103", null ],
+      [ "BG_SA_NPC_TRIGGER_3", "d1/d1a/a02546.html#aea1aed3c14fd6d73de4714dba32924bea1c2e72b4533d78c59ed347490fe72517", null ],
+      [ "BG_SA_NPC_TRIGGER_4", "d1/d1a/a02546.html#aea1aed3c14fd6d73de4714dba32924bea50dd1c58107cfd9c7e0728536abd952e", null ],
+      [ "BG_SA_NPC_TRIGGER_5", "d1/d1a/a02546.html#aea1aed3c14fd6d73de4714dba32924bea2f98d10b9734f1faf99fe9ba1fa13c08", null ],
+      [ "BG_SA_DEMOLISHER_1", "d1/d1a/a02546.html#aea1aed3c14fd6d73de4714dba32924bea28d751da34358f47b2275f79552f141c", null ],
+      [ "BG_SA_DEMOLISHER_2", "d1/d1a/a02546.html#aea1aed3c14fd6d73de4714dba32924beaa7b9b17103e6e227b4753d3d82a1c4ff", null ],
+      [ "BG_SA_DEMOLISHER_3", "d1/d1a/a02546.html#aea1aed3c14fd6d73de4714dba32924bea02d0ac7029987e0c6c4afd37ddaae4c9", null ],
+      [ "BG_SA_DEMOLISHER_4", "d1/d1a/a02546.html#aea1aed3c14fd6d73de4714dba32924bea2cf04af92e948da7904271426dbe405f", null ],
+      [ "BG_SA_DEMOLISHER_5", "d1/d1a/a02546.html#aea1aed3c14fd6d73de4714dba32924bea839059eca54ba38023aa55cf145a7b8b", null ],
+      [ "BG_SA_DEMOLISHER_6", "d1/d1a/a02546.html#aea1aed3c14fd6d73de4714dba32924bea430f4279be64578c1343e30e9db1854e", null ],
+      [ "BG_SA_DEMOLISHER_7", "d1/d1a/a02546.html#aea1aed3c14fd6d73de4714dba32924bea4c8dacda16962033bcf544136ad60259", null ],
+      [ "BG_SA_DEMOLISHER_8", "d1/d1a/a02546.html#aea1aed3c14fd6d73de4714dba32924beaf0c8b126cd1d3de511197a7c1115797c", null ],
+      [ "BG_SA_NPC_SPARKLIGHT", "d1/d1a/a02546.html#aea1aed3c14fd6d73de4714dba32924beaa9e1c5eb5858ba48354ae39686111b64", null ],
+      [ "BG_SA_NPC_RIGSPARK", "d1/d1a/a02546.html#aea1aed3c14fd6d73de4714dba32924beaa38a0ee752c0842ff30602a6fd1d3f18", null ],
+      [ "BG_SA_MAXNPC", "d1/d1a/a02546.html#aea1aed3c14fd6d73de4714dba32924bea96ed9b8c8ee7a83223e574eb5f10a5f5", null ]
     ] ],
-    [ "OutdoorPvPZMBuffZones", "d1/d1a/a02546.html#a42debbed89bc9a37f04d7da9f1ba5362", null ],
-    [ "OutdoorPvPZMBuffZonesNum", "d1/d1a/a02546.html#afd164ef928ed19895648e76207433805", null ],
-    [ "ZM_AllianceFieldScout", "d1/d1a/a02546.html#a308db265dfb26d8d04ea2b44077d3b42", null ],
-    [ "ZM_Banner_A", "d1/d1a/a02546.html#a986fade5573769277e5c9e99dc243d78", null ],
-    [ "ZM_Banner_H", "d1/d1a/a02546.html#a5eae372f5bc43c36af04c8833002ca79", null ],
-    [ "ZM_Banner_N", "d1/d1a/a02546.html#a9bf0e9dee2e0ae4731dd302373e18542", null ],
-    [ "ZM_GRAVEYARD_ID", "d1/d1a/a02546.html#adc060a8578a0685e98f94a0d51c3613b", null ],
-    [ "ZM_GRAVEYARD_ZONE", "d1/d1a/a02546.html#a32c62572b4ea0ef1930cffc3e9e2c6fe", null ],
-    [ "ZM_HordeFieldScout", "d1/d1a/a02546.html#aa18435dfdf68c3f5ac5218ce2e4909d0", null ],
-    [ "ZMBeaconCaptureA", "d1/d1a/a02546.html#aefc7683d5c310d6513a4bc64e0562f24", null ],
-    [ "ZMBeaconCaptureH", "d1/d1a/a02546.html#a3cf4b21d832f1993b7bbef74516f4690", null ],
-    [ "ZMBeaconInfo", "d1/d1a/a02546.html#af392c2c0a8da38f6782ab0ed0501a448", null ],
-    [ "ZMBeaconLoseA", "d1/d1a/a02546.html#ace5e051bf69a2b4be978b04c832c5592", null ],
-    [ "ZMBeaconLoseH", "d1/d1a/a02546.html#a32e1a277d31ee3f4a23f291ccb4798e6", null ],
-    [ "ZMCapturePoints", "d1/d1a/a02546.html#a397f5867c1a3f99cf044124a4a621324", null ]
+    [ "BG_SA_Objects", "d1/d1a/a02546.html#abcc187f20ab36658182fcc66b4ceb701", [
+      [ "BG_SA_GREEN_GATE", "d1/d1a/a02546.html#abcc187f20ab36658182fcc66b4ceb701a39168537485f83fcaecad9ee7df5c53c", null ],
+      [ "BG_SA_YELLOW_GATE", "d1/d1a/a02546.html#abcc187f20ab36658182fcc66b4ceb701a0f22a303bdde42fd4ba2e555d8f3841c", null ],
+      [ "BG_SA_BLUE_GATE", "d1/d1a/a02546.html#abcc187f20ab36658182fcc66b4ceb701aa677dd9786ce46653d34a6530475b6ed", null ],
+      [ "BG_SA_RED_GATE", "d1/d1a/a02546.html#abcc187f20ab36658182fcc66b4ceb701a68c03205185626f56fc627f4ee900e6a", null ],
+      [ "BG_SA_PURPLE_GATE", "d1/d1a/a02546.html#abcc187f20ab36658182fcc66b4ceb701a6d74052a63d48c5200a918ef7795e0f6", null ],
+      [ "BG_SA_ANCIENT_GATE", "d1/d1a/a02546.html#abcc187f20ab36658182fcc66b4ceb701ac56f4ba86ad45e41e623e0ba08c2efa3", null ],
+      [ "BG_SA_TITAN_RELIC", "d1/d1a/a02546.html#abcc187f20ab36658182fcc66b4ceb701adcf0075eae66e8b2ceedd205472072a5", null ],
+      [ "BG_SA_BOAT_ONE", "d1/d1a/a02546.html#abcc187f20ab36658182fcc66b4ceb701a10b4cd7727e528609a0ff55b79daadd4", null ],
+      [ "BG_SA_BOAT_TWO", "d1/d1a/a02546.html#abcc187f20ab36658182fcc66b4ceb701abd9577fc76c6eeedcebf599212f060d5", null ],
+      [ "BG_SA_SIGIL_1", "d1/d1a/a02546.html#abcc187f20ab36658182fcc66b4ceb701a57e5a1290efed76eb3e6ac718d613e22", null ],
+      [ "BG_SA_SIGIL_2", "d1/d1a/a02546.html#abcc187f20ab36658182fcc66b4ceb701a1f85dcb64b1d4a625674ed40542f33d6", null ],
+      [ "BG_SA_SIGIL_3", "d1/d1a/a02546.html#abcc187f20ab36658182fcc66b4ceb701af7c5965801baa4f43aff642e07f7170a", null ],
+      [ "BG_SA_SIGIL_4", "d1/d1a/a02546.html#abcc187f20ab36658182fcc66b4ceb701ac2d12e7289110383ac3b8d0a769d1977", null ],
+      [ "BG_SA_SIGIL_5", "d1/d1a/a02546.html#abcc187f20ab36658182fcc66b4ceb701a6573237213ea097696beb6ead5caca34", null ],
+      [ "BG_SA_CENTRAL_FLAGPOLE", "d1/d1a/a02546.html#abcc187f20ab36658182fcc66b4ceb701a0515122e96d117a4a59ddb1feebb22bc", null ],
+      [ "BG_SA_RIGHT_FLAGPOLE", "d1/d1a/a02546.html#abcc187f20ab36658182fcc66b4ceb701a93e7b80ca65c61286e8dcecae63d530f", null ],
+      [ "BG_SA_LEFT_FLAGPOLE", "d1/d1a/a02546.html#abcc187f20ab36658182fcc66b4ceb701a69966db660491a3a4729604ac13b2ed1", null ],
+      [ "BG_SA_CENTRAL_FLAG", "d1/d1a/a02546.html#abcc187f20ab36658182fcc66b4ceb701a3e8f730935357ca3e65353a1f16eebc7", null ],
+      [ "BG_SA_RIGHT_FLAG", "d1/d1a/a02546.html#abcc187f20ab36658182fcc66b4ceb701a7b1c25d2dbc02248850ce278c1f7522f", null ],
+      [ "BG_SA_LEFT_FLAG", "d1/d1a/a02546.html#abcc187f20ab36658182fcc66b4ceb701ad2acd915b36102027c638ad6aa22bbdd", null ],
+      [ "BG_SA_PORTAL_DEFFENDER_BLUE", "d1/d1a/a02546.html#abcc187f20ab36658182fcc66b4ceb701a95308567d5588fc80028306730cf9935", null ],
+      [ "BG_SA_PORTAL_DEFFENDER_GREEN", "d1/d1a/a02546.html#abcc187f20ab36658182fcc66b4ceb701a633262bf7c7d5d49d3dfed140c17a773", null ],
+      [ "BG_SA_PORTAL_DEFFENDER_YELLOW", "d1/d1a/a02546.html#abcc187f20ab36658182fcc66b4ceb701aeb4e28b68f506c518ab83a78f925987c", null ],
+      [ "BG_SA_PORTAL_DEFFENDER_PURPLE", "d1/d1a/a02546.html#abcc187f20ab36658182fcc66b4ceb701a3c37fa41cf718fc83c59d582aedb8c93", null ],
+      [ "BG_SA_PORTAL_DEFFENDER_RED", "d1/d1a/a02546.html#abcc187f20ab36658182fcc66b4ceb701abbfe6fdb0124b85b630a16bce9aac795", null ],
+      [ "BG_SA_BOMB", "d1/d1a/a02546.html#abcc187f20ab36658182fcc66b4ceb701ae5cf5a33cbe1b92b63ab2deb3c71f327", null ],
+      [ "BG_SA_MAXOBJ", "d1/d1a/a02546.html#abcc187f20ab36658182fcc66b4ceb701a0a1c0e8ac3731de8d878b6d04493c594", null ]
+    ] ],
+    [ "BG_SA_Status", "d1/d1a/a02546.html#a1c65f9048b8e702610fcf00591e915d7", [
+      [ "BG_SA_NOTSTARTED", "d1/d1a/a02546.html#a1c65f9048b8e702610fcf00591e915d7ab5dc9d642a2560fceb18fc7a5fbfcb38", null ],
+      [ "BG_SA_WARMUP", "d1/d1a/a02546.html#a1c65f9048b8e702610fcf00591e915d7af900bdf476a1e5b6dd021af2bcde8d90", null ],
+      [ "BG_SA_ROUND_ONE", "d1/d1a/a02546.html#a1c65f9048b8e702610fcf00591e915d7a1f0470f40a7cab98ed879e2e7c925011", null ],
+      [ "BG_SA_SECOND_WARMUP", "d1/d1a/a02546.html#a1c65f9048b8e702610fcf00591e915d7ada7ec5fe9b0ce16520adb5f9e1ccd166", null ],
+      [ "BG_SA_ROUND_TWO", "d1/d1a/a02546.html#a1c65f9048b8e702610fcf00591e915d7a5647c0afccab28ef5348e6bf78cf4427", null ],
+      [ "BG_SA_BONUS_ROUND", "d1/d1a/a02546.html#a1c65f9048b8e702610fcf00591e915d7aeb0f1f7546ab844bd4fdd11b5be5b4f1", null ]
+    ] ],
+    [ "npc", "d1/d1a/a02546.html#aac8160a2d201984c00bdcedc6e721055", [
+      [ "NPC_ANTI_PERSONNAL_CANNON", "d1/d1a/a02546.html#aac8160a2d201984c00bdcedc6e721055af0f05d437e318e1c78552b5ed47144cb", null ],
+      [ "NPC_DEMOLISHER_SA", "d1/d1a/a02546.html#aac8160a2d201984c00bdcedc6e721055aded700e05ede868ea2e9124b0ab95b46", null ],
+      [ "NPC_RIGGER_SPARKLIGHT", "d1/d1a/a02546.html#aac8160a2d201984c00bdcedc6e721055a0414d956dd9155d1e8affe4614fd3619", null ],
+      [ "NPC_GORGRIL_RIGSPARK", "d1/d1a/a02546.html#aac8160a2d201984c00bdcedc6e721055a7fae39dbdadcbdf111a0613c9880c9ea", null ]
+    ] ],
+    [ "BG_SA_Factions", "d1/d1a/a02546.html#a9c54c79ca18c24f7ce1db7c33591e77c", null ],
+    [ "BG_SA_GYEntries", "d1/d1a/a02546.html#a53220f7ce5fdbb409918270e4f8158fd", null ],
+    [ "BG_SA_GYOrientation", "d1/d1a/a02546.html#a9309f689c2af9fc781a64e1665344a7a", null ],
+    [ "BG_SA_NpcEntries", "d1/d1a/a02546.html#af09df121eaf84723331cafc46f9eeedb", null ],
+    [ "BG_SA_NpcSpawnlocs", "d1/d1a/a02546.html#ac39afb1c6e408b6ae2290ca6d1e39e25", null ],
+    [ "BG_SA_ObjEntries", "d1/d1a/a02546.html#a6dced036258c6cf42426f1cf0cd838f9", null ],
+    [ "BG_SA_ObjSpawnlocs", "d1/d1a/a02546.html#ac80f7cc783ba19b2ad9c8eef95405e3e", null ],
+    [ "SOTADefPortalDest", "d1/d1a/a02546.html#af84cb0582fa6a8afb2000ab86b942e08", null ]
 ];

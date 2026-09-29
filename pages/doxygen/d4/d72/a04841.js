@@ -1,16 +1,12 @@
 var a04841 =
 [
-    [ "DBCFileLoader", "d5/da0/a05575.html", "d5/da0/a05575" ],
-    [ "DBCFileLoader::Record", "de/d98/a05579.html", "de/d98/a05579" ],
-    [ "DbcFieldFormat", "d4/d72/a04841.html#a969264ba91452f632e809db524c68960", [
-      [ "FT_NA", "d4/d72/a04841.html#a969264ba91452f632e809db524c68960a0f8a37a34dd644e8432e79266f8e2f8c", null ],
-      [ "FT_NA_BYTE", "d4/d72/a04841.html#a969264ba91452f632e809db524c68960a974d335432036bc88ad76f044e8fca0c", null ],
-      [ "FT_STRING", "d4/d72/a04841.html#a969264ba91452f632e809db524c68960a424189c585691c2ce732ea69a88f4f29", null ],
-      [ "FT_FLOAT", "d4/d72/a04841.html#a969264ba91452f632e809db524c68960a1091cfb22d5ff81a81948a92b96f8e9a", null ],
-      [ "FT_INT", "d4/d72/a04841.html#a969264ba91452f632e809db524c68960a9d5724546fec2b9d79741da7d3a8030a", null ],
-      [ "FT_BYTE", "d4/d72/a04841.html#a969264ba91452f632e809db524c68960ae268574ec5607a27ec940656742b2095", null ],
-      [ "FT_SORT", "d4/d72/a04841.html#a969264ba91452f632e809db524c68960a496dcb8cfc6d702d15b9a603b242a642", null ],
-      [ "FT_IND", "d4/d72/a04841.html#a969264ba91452f632e809db524c68960a0e7ef1f172d0c33a975fbda2be046036", null ],
-      [ "FT_LOGIC", "d4/d72/a04841.html#a969264ba91452f632e809db524c68960aad79cbf0ed6b926353344f5abde2e4cc", null ]
-    ] ]
+    [ "AC_COMPILER_BORLAND", "d4/d72/a04841.html#ad92d7f8e69537bfc6f28bfce27856c1f", null ],
+    [ "AC_COMPILER_GNU", "d4/d72/a04841.html#a8ffa78a105635ede693224673028c4ed", null ],
+    [ "AC_COMPILER_INTEL", "d4/d72/a04841.html#a60132e229252e2d0020a2ba6fd0309c3", null ],
+    [ "AC_COMPILER_MICROSOFT", "d4/d72/a04841.html#ac8ee3c2752751f98265e16c95cbaea47", null ],
+    [ "AC_PLATFORM", "d4/d72/a04841.html#a490dd7a4e0c23e207dd9285027ae8b33", null ],
+    [ "AC_PLATFORM_APPLE", "d4/d72/a04841.html#a4f72821a90afaf788ba291d1f6fb11b8", null ],
+    [ "AC_PLATFORM_INTEL", "d4/d72/a04841.html#a2d79201ecf9fb7b1f6d0c131f9b7b8ba", null ],
+    [ "AC_PLATFORM_UNIX", "d4/d72/a04841.html#a96b4a3022030f69221679448f34f1972", null ],
+    [ "AC_PLATFORM_WINDOWS", "d4/d72/a04841.html#a15c00b0ab8f2f092270745de87d6bd8f", null ]
 ];

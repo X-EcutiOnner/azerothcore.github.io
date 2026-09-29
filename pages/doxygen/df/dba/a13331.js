@@ -1,7 +1,7 @@
 var a13331 =
 [
-    [ "FilterTargets", "df/dba/a13331.html#ab00f1a67df39f01aa0ead3459c3c3183", null ],
-    [ "Load", "df/dba/a13331.html#a5bb1cb64090e1ebb3f6f7bcd1fa1ec21", null ],
-    [ "PrepareSpellScript", "df/dba/a13331.html#a17bebef0c4c59c3fd0ccfb28e103ee3e", null ],
-    [ "Register", "df/dba/a13331.html#ae366530ddacf45a92eaa36be7e706a84", null ]
+    [ "npc_malchezaar_axe", "df/dba/a13331.html#a1a5615f2def10add30e7917b770ebc74", null ],
+    [ "Initialize", "df/dba/a13331.html#a078e7f0997c026b73a4e0ab8a1c209b8", null ],
+    [ "JustEngagedWith", "df/dba/a13331.html#a4a9f90e66359b304622d4f79653f9fd0", null ],
+    [ "UpdateAI", "df/dba/a13331.html#a202ba6922a426f87909eefbccd070175", null ]
 ];

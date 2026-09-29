@@ -1,6 +1,8 @@
 var a17319 =
 [
-    [ "instance_drak_tharon_keep", "d4/ddf/a17319.html#ac3aca003330592eae06a1d843c0ae9ce", null ],
-    [ "OnGameObjectCreate", "d4/ddf/a17319.html#acf6da22dd55ac945360a6c40d2b55ccf", null ],
-    [ "OnGameObjectRemove", "d4/ddf/a17319.html#a0acbb86696d31eb2ef4bdd868ca03351", null ]
+    [ "HandleRemove", "d4/ddf/a17319.html#a362b16f69a19adae6b673bd9ead55a83", null ],
+    [ "PeriodicTick", "d4/ddf/a17319.html#aa432052d61dc48066433b41b84ffbe5f", null ],
+    [ "PrepareAuraScript", "d4/ddf/a17319.html#a3ffbd618820adf77b2c64a29816f5204", null ],
+    [ "Register", "d4/ddf/a17319.html#ac2ac207d2e193a9c2f9904b394113c4d", null ],
+    [ "Validate", "d4/ddf/a17319.html#abed6574398a7d005e95feba6b54243a1", null ]
 ];

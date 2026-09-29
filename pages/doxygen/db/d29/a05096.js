@@ -1,7 +1,14 @@
 var a05096 =
 [
-    [ "Crash", "db/d29/a05096.html#a510bae7d9948cf497418ec913452009f", null ],
-    [ "GetDebugInfo", "db/d29/a05096.html#a29601d3ea684d75bac9c331eb4866951", null ],
-    [ "MakeAbortMessage", "db/d29/a05096.html#a52b8a43ee2424672ac8de45dcc283eda", null ],
-    [ "MakeMessage", "db/d29/a05096.html#a31219fe016a9b170fc6ae111157ba552", null ]
+    [ "Acore::Runnable", "dc/d27/a05799.html", "dc/d27/a05799" ],
+    [ "Acore::Thread", "d5/d41/a05803.html", "d5/d41/a05803" ],
+    [ "Priority", "db/d29/a05096.html#a98ce3c3a6bb5eee03a544054eae9f9f0", [
+      [ "Priority_Idle", "db/d29/a05096.html#a98ce3c3a6bb5eee03a544054eae9f9f0a6540dbe098806722de7130f0cf978d24", null ],
+      [ "Priority_Lowest", "db/d29/a05096.html#a98ce3c3a6bb5eee03a544054eae9f9f0a2c1092f67a3addf9410ac00e8a8f62b0", null ],
+      [ "Priority_Low", "db/d29/a05096.html#a98ce3c3a6bb5eee03a544054eae9f9f0a726dc1791c20e19bbdb47763ffec6cc8", null ],
+      [ "Priority_Normal", "db/d29/a05096.html#a98ce3c3a6bb5eee03a544054eae9f9f0a9724af5d135432316625274c94d9d53c", null ],
+      [ "Priority_High", "db/d29/a05096.html#a98ce3c3a6bb5eee03a544054eae9f9f0ae26951cdc5145b7d4710a65f64fcc15d", null ],
+      [ "Priority_Highest", "db/d29/a05096.html#a98ce3c3a6bb5eee03a544054eae9f9f0afe73cf9f67a66d8eeb50511bffc0349f", null ],
+      [ "Priority_Realtime", "db/d29/a05096.html#a98ce3c3a6bb5eee03a544054eae9f9f0aea947a97dfe2d923de21531be29b1fe1", null ]
+    ] ]
 ];

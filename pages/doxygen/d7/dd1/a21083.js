@@ -1,6 +1,8 @@
 var a21083 =
 [
-    [ "boss_yoggsaron_death_orb", "d7/dd1/a21083.html#a8e967885da35381db767d941a2174a82", null ],
-    [ "IsSummonedBy", "d7/dd1/a21083.html#a86965a290bf5714fe5e81577ae80775a", null ],
-    [ "JustSummoned", "d7/dd1/a21083.html#a916588e3cdd0520fe5c1947a797c0042", null ]
+    [ "boss_yoggsaron_guardian_of_ys", "d7/dd1/a21083.html#ad66fab16b309b62895578d46e8a2e730", null ],
+    [ "JustDied", "d7/dd1/a21083.html#a12ce3fef2fba8d92945249cf8920a0b4", null ],
+    [ "Reset", "d7/dd1/a21083.html#ac803a9da5223db459b9ec48435e59c30", null ],
+    [ "UpdateAI", "d7/dd1/a21083.html#a573576eaff2cbd4f779675e19ad53dea", null ],
+    [ "_spellTimer", "d7/dd1/a21083.html#a5922d21c4606ab9a41e20948dc926cea", null ]
 ];

@@ -1,8 +1,5 @@
 var a20547 =
 [
-    [ "npc_ulduar_flash_freeze", "dd/d3e/a20547.html#a3ee1762e2e3a8a180cb38fad26b70002", null ],
-    [ "DamageTaken", "dd/d3e/a20547.html#af381d671e1b64c6135ed6c76b1eef213", null ],
-    [ "UpdateAI", "dd/d3e/a20547.html#a2e3d6fdf6366b71b6696e567da912c1d", null ],
-    [ "_instance", "dd/d3e/a20547.html#ab02f8319a4f2aa0b6c9e5a0134de73fc", null ],
-    [ "timer", "dd/d3e/a20547.html#a016272492e1843b09c7c8b40537a463a", null ]
+    [ "id", "dd/d3e/a20547.html#accc6fc59e13a0897ae168fae33ee4c7d", null ],
+    [ "pos", "dd/d3e/a20547.html#aeca90e17f8b6f5b40f0f703ef9fe2b73", null ]
 ];

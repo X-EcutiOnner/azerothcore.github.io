@@ -1,5 +1,6 @@
 var a18647 =
 [
-    [ "at_sindragosa_lair", "d5/d7f/a18647.html#a60ce46f248e66faa1f13a8b5c088bdc6", null ],
-    [ "OnTrigger", "d5/d7f/a18647.html#a07074bff20272042ed05be83dd818ee9", null ]
+    [ "npc_rimefangAI", "d3/d00/a18651.html", "d3/d00/a18651" ],
+    [ "npc_rimefang", "d5/d7f/a18647.html#af8ab4e318726b5250de56e3c6d09fcd2", null ],
+    [ "GetAI", "d5/d7f/a18647.html#a2fce9c36b7ef1861c9dcb5db2cacf438", null ]
 ];

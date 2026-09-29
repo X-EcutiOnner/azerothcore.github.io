@@ -1,6 +1,6 @@
 var a21015 =
 [
-    [ "HandleScript", "d6/da4/a21015.html#a8ebd18095bd826d4bf843961e4e8dc81", null ],
-    [ "PrepareSpellScript", "d6/da4/a21015.html#a4fd05478a145157dbd8377532033ab95", null ],
-    [ "Register", "d6/da4/a21015.html#a9b30f89493d5b8c8d1097dde5d017a93", null ]
+    [ "FilterTargets", "d6/da4/a21015.html#a766440359968faf85f60f987b5da8c70", null ],
+    [ "PrepareSpellScript", "d6/da4/a21015.html#a3f53d4e7fa30e53a1e05803a60c8b09b", null ],
+    [ "Register", "d6/da4/a21015.html#adbcc19da817ecdfad19543b70afd9e56", null ]
 ];

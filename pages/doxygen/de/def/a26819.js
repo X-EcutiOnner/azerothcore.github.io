@@ -1,8 +1,8 @@
 var a26819 =
 [
-    [ "HandleApply", "de/def/a26819.html#aafdf3712f163919f010d11d0becb398f", null ],
-    [ "HandleRemove", "de/def/a26819.html#ac3e33cb37d13b633f3938a48917a4975", null ],
-    [ "PrepareAuraScript", "de/def/a26819.html#a42590a0ef43a48c5309f995f9bec5c9b", null ],
-    [ "Register", "de/def/a26819.html#a84e7337494dc2e1772ca10dea26c675f", null ],
-    [ "Validate", "de/def/a26819.html#ac2558aafb3ce66ca7bbfd718eb8c6338", null ]
+    [ "HandleEffectApply", "de/def/a26819.html#a1182bd57a03ad093b53e3864bdff127c", null ],
+    [ "HandleEffectRemove", "de/def/a26819.html#a6374ece2a04c3d5bc81bb31cc5bc78e1", null ],
+    [ "PrepareAuraScript", "de/def/a26819.html#acbe4a19f4f2502fc1ae4e13a2c8906ab", null ],
+    [ "Register", "de/def/a26819.html#ac3a9249da3071736026d66a9551ca16d", null ],
+    [ "Validate", "de/def/a26819.html#a0ebac0cb6933ac4c562c3c91e06614dd", null ]
 ];

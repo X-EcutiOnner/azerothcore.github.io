@@ -1,5 +1,9 @@
 var a30135 =
 [
-    [ "SetUp", "d8/d96/a30135.html#a43a467bfcff58079e28fece9bfe3464c", null ],
-    [ "ALL_EFFECTS_MASK", "d8/d96/a30135.html#ac82c59da0a73f393dcef17d666ef65bf", null ]
+    [ "defaultHitMask", "d8/d96/a30135.html#a1b72ebb54d9b7e2543dd41779978fa70", null ],
+    [ "defaultSpellPhaseMask", "d8/d96/a30135.html#af927bd441959e8e122648de610398c65", null ],
+    [ "defaultSpellTypeMask", "d8/d96/a30135.html#aa64e6ad192c41998b368b908c499574d", null ],
+    [ "name", "d8/d96/a30135.html#a3916a9a0f1cb0b599b35619c1a89f6eb", null ],
+    [ "procFlag", "d8/d96/a30135.html#ab9d59a0be623f0d7e732ed2974178d88", null ],
+    [ "requiresSpellPhase", "d8/d96/a30135.html#a37a3ef1c3b19cf7a7ff70a0ca09bfcd9", null ]
 ];

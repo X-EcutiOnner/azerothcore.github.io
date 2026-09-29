@@ -1,6 +1,6 @@
 var a20183 =
 [
-    [ "go_celestial_planetarium_accessAI", "d6/df9/a20187.html", "d6/df9/a20187" ],
-    [ "go_celestial_planetarium_access", "df/dd7/a20183.html#a20b7c895dd0fc2cb37bf3c113bf91278", null ],
-    [ "GetAI", "df/dd7/a20183.html#a4fc9ac64f7dceefbdda02297f7dfc42b", null ]
+    [ "npc_collapsing_star", "df/dd7/a20183.html#a6660bd7f397d7a3cd7ee5d3580b6bb78", null ],
+    [ "DamageTaken", "df/dd7/a20183.html#ad19c1a3c033b0d97fe42c492634f9cd4", null ],
+    [ "JustSummoned", "df/dd7/a20183.html#a56e0bb55d903b6e7e5c493292512bebe", null ]
 ];

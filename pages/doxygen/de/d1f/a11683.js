@@ -1,8 +1,7 @@
 var a11683 =
 [
-    [ "QuestConfirmAccept", "de/d1f/a11683.html#a96504f0bcddeb3f339552d95052595c9", null ],
-    [ "Write", "de/d1f/a11683.html#add2f826fb7a8c9eed85e46a217dff0fc", null ],
-    [ "PlayerGuid", "de/d1f/a11683.html#a591f77f3c6de30ac07e62a5bedded7d5", null ],
-    [ "QuestId", "de/d1f/a11683.html#a4c857c0b173f5fd19f2a83123e8e0d44", null ],
-    [ "QuestTitle", "de/d1f/a11683.html#abf35fe4b947f0b645010009388d80bcd", null ]
+    [ "QuestPushResult", "de/d1f/a11683.html#a71a5435a0d9dbc648a83ec90ec99215f", null ],
+    [ "Write", "de/d1f/a11683.html#a90c79fdc1bf593e4d51f3d7a6e423eac", null ],
+    [ "PlayerGuid", "de/d1f/a11683.html#a449c6537a692edae94f173236d0d449e", null ],
+    [ "QuestShareMessage", "de/d1f/a11683.html#af80f4138f3689721f44059a9250246f0", null ]
 ];

@@ -1,9 +1,7 @@
 var a16591 =
 [
-    [ "instance_obsidian_sanctum_InstanceMapScript", "d6/da5/a16591.html#a17e64475b7433b3dc0d87028c11c9c7f", null ],
-    [ "CheckAchievementCriteriaMeet", "d6/da5/a16591.html#a62a5603b9063b4cbb773eb177aa2d0bc", null ],
-    [ "DoAction", "d6/da5/a16591.html#abc08b37f23721ff2ce7a6662605a66ab", null ],
-    [ "GetGuidData", "d6/da5/a16591.html#a01da8216f57e19b5bf8697700089118c", null ],
-    [ "m_uiPortalGUID", "d6/da5/a16591.html#a166db22fd409d0387085053852e5ad30", null ],
-    [ "portalCount", "d6/da5/a16591.html#ab7cec8a8a80713e436e4e4e80c5c1383", null ]
+    [ "HandleHit", "d6/da5/a16591.html#abd59d91ab50eb8945a4a00157d9d5564", null ],
+    [ "PrepareSpellScript", "d6/da5/a16591.html#a27549f3cacc1732bbc1e61209e0f4905", null ],
+    [ "Register", "d6/da5/a16591.html#af132eee38064c5123f4e01d52efb9314", null ],
+    [ "Validate", "d6/da5/a16591.html#accad8dfdf29a1475b6f272259f1ed9bf", null ]
 ];

@@ -1,6 +1,6 @@
 var a10011 =
 [
-    [ "EmblemInfo", "de/d3f/a10011.html#a8d053ab27856955bf6013ef4c61ed33f", null ],
+    [ "EmblemInfo", "de/d3f/a10011.html#af7ca32f8db2c64a27c84c74c28615413", null ],
     [ "GetBackgroundColor", "de/d3f/a10011.html#a66da2cd78cee9e929ff0f2439caed0e5", null ],
     [ "GetBorderColor", "de/d3f/a10011.html#ac5ea55d7fd129524630dd0d486b457a7", null ],
     [ "GetBorderStyle", "de/d3f/a10011.html#a7a791a3f467e72a3e8e941e3179d7709", null ],

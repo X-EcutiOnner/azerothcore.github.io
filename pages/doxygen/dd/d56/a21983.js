@@ -1,7 +1,6 @@
 var a21983 =
 [
-    [ "FilterTargets", "dd/d56/a21983.html#af62588a225f0b701a0f9321677ae22b8", null ],
-    [ "HandleScript", "dd/d56/a21983.html#ad68fad08b2613de096e504bb7dea61cd", null ],
-    [ "PrepareSpellScript", "dd/d56/a21983.html#a76ac3fe280585a4e2b2d599b4bcc7846", null ],
-    [ "Register", "dd/d56/a21983.html#a8fdbf1c7ab67c0ef094d738ec9a169d8", null ]
+    [ "npc_q24545_wretched_ghoulAI", "d3/d49/a21987.html", "d3/d49/a21987" ],
+    [ "npc_q24545_wretched_ghoul", "dd/d56/a21983.html#a3842b5bd89c911d29d561307113fb032", null ],
+    [ "GetAI", "dd/d56/a21983.html#ada973de0ff7295f0441cbd6b6aaca9ac", null ]
 ];

@@ -1,6 +1,11 @@
 var a16783 =
 [
-    [ "instance_ruby_sanctum_InstanceMapScript", "df/df3/a16787.html", "df/df3/a16787" ],
-    [ "instance_ruby_sanctum", "db/d8f/a16783.html#a9fc9d56cfcd7d0163f25f49e1ed0baeb", null ],
-    [ "GetInstanceScript", "db/d8f/a16783.html#ad0329f328d4be2c475d8bcd5ccefd4e1", null ]
+    [ "boss_saviana_ragefireAI", "db/d8f/a16783.html#ab4fa6a2cc57c9d110bfd3cf16a016942", null ],
+    [ "JustDied", "db/d8f/a16783.html#a30331f9cdb141cd2dbc043888b48a6eb", null ],
+    [ "JustEngagedWith", "db/d8f/a16783.html#a458eb370872c20441b5ec6ecd2c97500", null ],
+    [ "JustReachedHome", "db/d8f/a16783.html#a74abf893a37874eb98aa5ba9883e8d62", null ],
+    [ "KilledUnit", "db/d8f/a16783.html#ac07513681c72d6748246cc7c349d117c", null ],
+    [ "MovementInform", "db/d8f/a16783.html#aed4c70f571586c8cbcc044c01bdc472d", null ],
+    [ "Reset", "db/d8f/a16783.html#a4b7f103331c566cbf007a075161505af", null ],
+    [ "UpdateAI", "db/d8f/a16783.html#af36ca2a359f950a10214d07aad240324", null ]
 ];

@@ -1,6 +1,6 @@
 var a21951 =
 [
-    [ "npc_q24545_lich_kingAI", "d3/d78/a21955.html", "d3/d78/a21955" ],
-    [ "npc_q24545_lich_king", "db/da5/a21951.html#a1864564dee4f66f1b29850b8b0f6fa29", null ],
-    [ "GetAI", "db/da5/a21951.html#aade5ad8ba215d0571185596aa40cf9b2", null ]
+    [ "HandleSendEvent", "db/da5/a21951.html#a8b8276833404f3f69c3b7f97d95b6982", null ],
+    [ "PrepareSpellScript", "db/da5/a21951.html#aa632d381ac415feaf226f55fc2cd8520", null ],
+    [ "Register", "db/da5/a21951.html#a72673f5054cf269cc8da511441f7bd66", null ]
 ];

@@ -1,11 +1,9 @@
 var a24111 =
 [
-    [ "boss_pathaleon_the_calculator", "de/d9a/a24111.html#a679dc3ccc23c6def44e0f0669822e146", null ],
-    [ "CanAIAttack", "de/d9a/a24111.html#abcbb5f1236ebfbec680241ae8c5cbb00", null ],
-    [ "DoAction", "de/d9a/a24111.html#a814cb56cc18277cb4adbd7dc8a82b06d", null ],
-    [ "JustDied", "de/d9a/a24111.html#a0224d47bc85fe54c0cfded69b55e57b3", null ],
-    [ "JustEngagedWith", "de/d9a/a24111.html#a3ba024e86ceb83ebb26afcc11a75791d", null ],
-    [ "KilledUnit", "de/d9a/a24111.html#a899fd2e1e01ac1347e43bcb290babc5b", null ],
-    [ "Reset", "de/d9a/a24111.html#adc48067c3656bf768c3013ff266565c0", null ],
-    [ "_isEnraged", "de/d9a/a24111.html#ab875fb787d71eaf008b7267c81a2a4df", null ]
+    [ "boss_nethermancer_sepethrea", "de/d9a/a24111.html#aae77446e9a8f2ac41601049d3fe9ffd4", null ],
+    [ "EnterEvadeMode", "de/d9a/a24111.html#a0ac9dd29b73e8734318851ffd9a09162", null ],
+    [ "JustDied", "de/d9a/a24111.html#a2ac13176ebffa245fd9e0ba6173f30cc", null ],
+    [ "JustEngagedWith", "de/d9a/a24111.html#a89851b9f6eb94270fe22151d3a968bec", null ],
+    [ "JustSummoned", "de/d9a/a24111.html#acf98dbddcd55131cb9cdebe6d319e2c2", null ],
+    [ "KilledUnit", "de/d9a/a24111.html#ad9606ca8c1fe6f68f72ec415cc70ef2f", null ]
 ];

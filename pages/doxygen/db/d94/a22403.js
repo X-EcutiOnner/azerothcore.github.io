@@ -1,6 +1,7 @@
 var a22403 =
 [
-    [ "PrepareSpellScript", "db/d94/a22403.html#a87014fc73af805b7ad052d1f4f45d7cd", null ],
-    [ "Register", "db/d94/a22403.html#a306252bb3bc9af689400981b198f66e8", null ],
-    [ "SetDest", "db/d94/a22403.html#a0bffbc57932a2efe33a9912d608eb79d", null ]
+    [ "HandleSendEvent", "db/d94/a22403.html#afd34935d8ab7d66589ca3c99ba0bfe48", null ],
+    [ "PrepareSpellScript", "db/d94/a22403.html#af698a946e07235c18c8b785a1f775ec9", null ],
+    [ "Register", "db/d94/a22403.html#a3f6a7e6265221e9536728256f1ec88c0", null ],
+    [ "Validate", "db/d94/a22403.html#a72d441fdeb7e2fdc37ab9868f9f8ee04", null ]
 ];

@@ -1,6 +1,5 @@
 var a28339 =
 [
-    [ "go_flamesAI", "d9/dbd/a28343.html", "d9/dbd/a28343" ],
-    [ "go_flames", "de/d94/a28339.html#a75d49202eaf2078b8276e59944d1ec89", null ],
-    [ "GetAI", "de/d94/a28339.html#aea11412e7d17b744b4e70ec754a1e6cc", null ]
+    [ "go_resonite_cask", "de/d94/a28339.html#a5a89aa97a4cd31d7ae183649ee750b74", null ],
+    [ "OnGossipHello", "de/d94/a28339.html#aae8591d53a6983886b52d404acdba293", null ]
 ];

@@ -1,9 +1,9 @@
 var dir_a12bdf17fc4860c5ac78d8e274fbb711 =
 [
-    [ "ObjectAccessor.cpp", "dc/d71/a01664.html", "dc/d71/a01664" ],
-    [ "ObjectAccessor.h", "d9/d79/a01658.html", "d9/d79/a01658" ],
-    [ "ObjectMgr.cpp", "df/ddd/a01655.html", "df/ddd/a01655" ],
-    [ "ObjectMgr.h", "d4/d41/a01661.html", "d4/d41/a01661" ],
-    [ "WorldGlobals.cpp", "dd/d8d/a01667.html", null ],
-    [ "WorldGlobals.h", "d0/dc0/a01652.html", "d0/dc0/a01652" ]
+    [ "ObjectAccessor.cpp", "d9/df8/a03023.html", "d9/df8/a03023" ],
+    [ "ObjectAccessor.h", "de/dec/a03020.html", "de/dec/a03020" ],
+    [ "ObjectMgr.cpp", "d6/d97/a03011.html", "d6/d97/a03011" ],
+    [ "ObjectMgr.h", "df/d3a/a03014.html", "df/d3a/a03014" ],
+    [ "WorldGlobals.cpp", "dd/dfd/a03017.html", null ],
+    [ "WorldGlobals.h", "dd/da3/a03026.html", "dd/da3/a03026" ]
 ];

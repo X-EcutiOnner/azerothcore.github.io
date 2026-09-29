@@ -1,7 +1,6 @@
 var a22047 =
 [
-    [ "OnRemove", "d9/d8e/a22047.html#a335bc64860227122e0536f61144e2003", null ],
-    [ "PrepareAuraScript", "d9/d8e/a22047.html#ae38bdeb74493f73bed1246c011bb2076", null ],
-    [ "Register", "d9/d8e/a22047.html#ae0c02eb80cebce089d18f8465b2f8a39", null ],
-    [ "Validate", "d9/d8e/a22047.html#af29efe88b5f56c5d49f2e48c3be1d8e6", null ]
+    [ "HandleScriptEffect", "d9/d8e/a22047.html#aab68c7fac277f4da5a6cf8bf8e6256ea", null ],
+    [ "PrepareSpellScript", "d9/d8e/a22047.html#a6b7f628a138ac395a8cc122902ec38b4", null ],
+    [ "Register", "d9/d8e/a22047.html#aacf2bbf7b8396fd7cfbfaf34a66f9b61", null ]
 ];

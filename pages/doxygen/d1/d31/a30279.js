@@ -1,10 +1,10 @@
 var a30279 =
 [
-    [ "maxSimplificationError", "d1/d31/a30279.html#a010878a247d639234d2bb8571280aca6", null ],
-    [ "vertexPerMapEdge", "d1/d31/a30279.html#af620af11a09215f106fc6704c88fa411", null ],
-    [ "vertexPerTileEdge", "d1/d31/a30279.html#a5a801e68fac6d59c1a236aeaf374bc9e", null ],
-    [ "walkableClimb", "d1/d31/a30279.html#aa5f6c5daf51b6390b7146f9a8d6de7ec", null ],
-    [ "walkableHeight", "d1/d31/a30279.html#a42b9a553cb3cd5d9c39d4cb7f0f59486", null ],
-    [ "walkableRadius", "d1/d31/a30279.html#a43f00aacc5e1497c169d4ba908883140", null ],
-    [ "walkableSlopeAngle", "d1/d31/a30279.html#a9792dfe730bfc437797a359896a14528", null ]
+    [ "plane", "d2/d43/a30287.html", "d2/d43/a30287" ],
+    [ "prepareLoadedData", "d1/d31/a30279.html#a29dc30be1cb7f5439e023865ff5a4853", null ],
+    [ "fcc", "d1/d31/a30279.html#a8c64958fb4e18bc3bcfaf7dbfde9f178", null ],
+    [ "fcc_txt", "d1/d31/a30279.html#ab768fb1ba27812060cf2edeb5f4b876c", null ],
+    [ "max", "d1/d31/a30279.html#afadebfc1361985b6f5d45c27e22cb303", null ],
+    [ "min", "d1/d31/a30279.html#ac3ebf1557841088ef8912b68fe6df908", null ],
+    [ "size", "d1/d31/a30279.html#af92420cfd862486c73c35ac8a9f9fdee", null ]
 ];

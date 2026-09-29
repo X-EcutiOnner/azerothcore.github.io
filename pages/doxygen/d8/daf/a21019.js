@@ -1,9 +1,7 @@
 var a21019 =
 [
-    [ "GetRandomToyPile", "d8/daf/a21019.html#a4e119696b212c6a57f11b284c2bb0c82", null ],
-    [ "HandleScript", "d8/daf/a21019.html#a62eb106c6a55406adc682b372a94aaef", null ],
-    [ "PrepareSpellScript", "d8/daf/a21019.html#acb19b4f65324ce419004e969274c4816", null ],
-    [ "Register", "d8/daf/a21019.html#aba572e339d50b51cb33d04270d29b733", null ],
-    [ "Validate", "d8/daf/a21019.html#a59acb2775caa76c05797d7c8dfd0f3fb", null ],
-    [ "ToyPileSearchDistance", "d8/daf/a21019.html#aa7c7f5e7298e89e431464105d5d8bbdf", null ]
+    [ "OnRemove", "d8/daf/a21019.html#ae99b372d0894e0c7aafc44f2a3cfac4f", null ],
+    [ "PrepareAuraScript", "d8/daf/a21019.html#ae99f88a63656d0b48ca4b85548cc736b", null ],
+    [ "Register", "d8/daf/a21019.html#a27c5665b64c50df5d9c67d5136ab7567", null ],
+    [ "Validate", "d8/daf/a21019.html#a3d351d7e9ac022ea1bd912843fe66891", null ]
 ];

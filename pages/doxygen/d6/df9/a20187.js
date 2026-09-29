@@ -1,8 +1,11 @@
 var a20187 =
 [
-    [ "go_celestial_planetarium_accessAI", "d6/df9/a20187.html#aca4d0e9babd6eefe84edc281f8a44cf2", null ],
-    [ "GossipHello", "d6/df9/a20187.html#af159df46fecf2cd74ac4ec9fa006dc03", null ],
-    [ "UpdateAI", "d6/df9/a20187.html#a9b2bfb74a12e3258476387fc78cde574", null ],
-    [ "_locked", "d6/df9/a20187.html#a37f83dbbb05e461d613a4c38001f785c", null ],
-    [ "events", "d6/df9/a20187.html#aa03b8d270054f2b71c1d625abe322fb8", null ]
+    [ "npc_living_constellation", "d6/df9/a20187.html#afb5daeb17d2a7c1ae6093ebac41addb7", null ],
+    [ "DoAction", "d6/df9/a20187.html#a45ba20e86f9d3c041260c88130521a61", null ],
+    [ "GetData", "d6/df9/a20187.html#ad698d91c81b0872385d9c5bee9ca8dd7", null ],
+    [ "Reset", "d6/df9/a20187.html#a66e2b985ccc92ff996017ece6d4ef74c", null ],
+    [ "SpellHit", "d6/df9/a20187.html#a402c1da5e1dfbeadd8413fa0d77146d5", null ],
+    [ "UpdateAI", "d6/df9/a20187.html#a0f7faec1aa3c67b8f03076ae0a52169d", null ],
+    [ "_isActive", "d6/df9/a20187.html#a810c918ac2523f04d8364f507e6c01bb", null ],
+    [ "events", "d6/df9/a20187.html#aaa9152db699878d67e8b8288d729fca3", null ]
 ];

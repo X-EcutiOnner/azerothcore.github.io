@@ -1,6 +1,8 @@
 var a23943 =
 [
-    [ "instance_the_botanica_InstanceMapScript", "df/dbd/a23947.html", "df/dbd/a23947" ],
-    [ "instance_the_botanica", "de/dfb/a23943.html#a8f8acda65f37e45e2439707f3979cf7c", null ],
-    [ "GetInstanceScript", "de/dfb/a23943.html#a335f671443ca0fb9db5956cefdf37182", null ]
+    [ "boss_laj", "de/dfb/a23943.html#a3c9323ab4b5530504588ea62aed2edff", null ],
+    [ "Reset", "de/dfb/a23943.html#ace690a0662376addaa40093f3f119c31", null ],
+    [ "ScheduleTasks", "de/dfb/a23943.html#a6bd0db1ed4c963cdceb681c84469b06c", null ],
+    [ "_lastTransform", "de/dfb/a23943.html#a097eacaaf77a09bec087530bad587b11", null ],
+    [ "_transformContainer", "de/dfb/a23943.html#a313e66ceeb4e359251dad65383e7f568", null ]
 ];

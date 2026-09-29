@@ -1,7 +1,6 @@
 var a16507 =
 [
-    [ "HandleEffectRemove", "d3/deb/a16507.html#a45ed6d3f1c80dcef3ee6c59e744f13c6", null ],
-    [ "PrepareAuraScript", "d3/deb/a16507.html#a34b88963dd81e6a8855daaedb9c238d4", null ],
-    [ "Register", "d3/deb/a16507.html#a7c0533650e772713233ea45b0264cbff", null ],
-    [ "Validate", "d3/deb/a16507.html#a7690603bd7b01ca6da2a73ac8ed36114", null ]
+    [ "npc_anub_ar_crusher_crypt_fiend", "d3/deb/a16507.html#a89abbce738f115c26dae9dacb065cc3d", null ],
+    [ "DoEngagedWith", "d3/deb/a16507.html#a20cdbe7eb580cd9f9763019d8927182f", null ],
+    [ "DoEvent", "d3/deb/a16507.html#a276eca6e65b32905f6919d49530ccc2f", null ]
 ];

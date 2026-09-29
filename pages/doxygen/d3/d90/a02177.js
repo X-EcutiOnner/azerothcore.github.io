@@ -1,5 +1,6 @@
 var a02177 =
 [
-    [ "AddonHandler", "d5/d56/a10057.html", "d5/d56/a10057" ],
-    [ "sAddOnHandler", "d3/d90/a02177.html#a53c18d341aaa47d117be75333e4ab43d", null ]
+    [ "instance_razorfen_downs", "d9/df2/a15543.html", "d9/df2/a15543" ],
+    [ "instance_razorfen_downs::instance_razorfen_downs_InstanceMapScript", "db/d5f/a15547.html", "db/d5f/a15547" ],
+    [ "AddSC_instance_razorfen_downs", "d3/d90/a02177.html#a0db4d34b8ea594cf2808b93c362a49c4", null ]
 ];

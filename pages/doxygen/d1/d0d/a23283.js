@@ -1,7 +1,6 @@
 var a23283 =
 [
-    [ "HandleProc", "d1/d0d/a23283.html#a43892c85339867a65e992b7f17fdc61c", null ],
-    [ "PrepareAuraScript", "d1/d0d/a23283.html#ab5728e2c3df5b887c26f2485575087ff", null ],
-    [ "Register", "d1/d0d/a23283.html#aae9f80730de402ebbda918e0116e59a0", null ],
-    [ "Validate", "d1/d0d/a23283.html#a8ef20577e375a5c7d3a66824f27bf937", null ]
+    [ "boss_doomlordkazzakAI", "d2/dcb/a23287.html", "d2/dcb/a23287" ],
+    [ "boss_doomlord_kazzak", "d1/d0d/a23283.html#ae4e4844d584ba71ebd3d8a341ba91462", null ],
+    [ "GetAI", "d1/d0d/a23283.html#a460a32ce37aae852b48f1990406da9a4", null ]
 ];

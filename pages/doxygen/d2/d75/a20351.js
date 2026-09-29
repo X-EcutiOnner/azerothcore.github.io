@@ -1,7 +1,9 @@
 var a20351 =
 [
-    [ "boss_flame_leviathan_safety_container", "d2/d75/a20351.html#a4519a6bf9c96ff13df4ae019b02f3593", null ],
-    [ "MovementInform", "d2/d75/a20351.html#a42842de299fd9346cc0d61b649b652a4", null ],
-    [ "UpdateAI", "d2/d75/a20351.html#a55119d077f905a8207ad2afbe31f17a4", null ],
-    [ "_allowTimer", "d2/d75/a20351.html#a70134398c054c837407d6a22591a2d96", null ]
+    [ "npc_thorims_hammer", "d2/d75/a20351.html#ae22f7278bd68011dc8f593ac4ccfc5ff", null ],
+    [ "Reset", "d2/d75/a20351.html#a6b7a294849ffd4a75e7f9e0ce3c7314b", null ],
+    [ "UpdateAI", "d2/d75/a20351.html#a006414298b31eb0cfb964916298d66ce", null ],
+    [ "_beamTimer", "d2/d75/a20351.html#adcd5af2b86d1d8f119514f799c42444b", null ],
+    [ "_finishTime", "d2/d75/a20351.html#aa6366b2ba9158a8560ed7289b51e96fc", null ],
+    [ "_removeTimer", "d2/d75/a20351.html#a7b9a2435b0953c12e693c562193d45e0", null ]
 ];

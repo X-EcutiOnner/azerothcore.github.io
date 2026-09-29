@@ -1,5 +1,11 @@
 var a11187 =
 [
-    [ "GuildPermissionsQuery", "d6/dd6/a11187.html#a6ab30e173d26362db0065f4f9f8fa5f8", null ],
-    [ "Read", "d6/dd6/a11187.html#aec20af8c3c8236627353287fe2eaa0a7", null ]
+    [ "GuildRankTabPermissions", "d3/dfc/a11191.html", "d3/dfc/a11191" ],
+    [ "GuildPermissionsQueryResults", "d6/dd6/a11187.html#aa643af51780fc550f3947936266d54f5", null ],
+    [ "Write", "d6/dd6/a11187.html#a4a5937a8daab44b5000a5308ed0be06a", null ],
+    [ "Flags", "d6/dd6/a11187.html#a368162426ab526adafc7ecb223fdf865", null ],
+    [ "NumTabs", "d6/dd6/a11187.html#ab797ef0f0081c4520a6333afbe6cd5b4", null ],
+    [ "RankID", "d6/dd6/a11187.html#a795ba45650991bd5c1aa03c17886d86b", null ],
+    [ "Tab", "d6/dd6/a11187.html#ae54eeb1a76f5eeaf4a63bcb58bab3460", null ],
+    [ "WithdrawGoldLimit", "d6/dd6/a11187.html#a9d175a8de69f15c3f8eadf237f68e84a", null ]
 ];

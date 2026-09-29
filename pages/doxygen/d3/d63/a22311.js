@@ -1,6 +1,5 @@
 var a22311 =
 [
-    [ "npc_blessed_bannerAI", "d2/d51/a22315.html", "d2/d51/a22315" ],
-    [ "npc_blessed_banner", "d3/d63/a22311.html#a779a0c653088b2d206226e146a19101f", null ],
-    [ "GetAI", "d3/d63/a22311.html#a43dabbf2f2d54ae201cde37df792a41d", null ]
+    [ "npc_guardian_pavilionAI", "d3/d63/a22311.html#a2c116495e65c7f97063aa7dc6516f48c", null ],
+    [ "MoveInLineOfSight", "d3/d63/a22311.html#aeae26e28be93120062d9f77c069ff32a", null ]
 ];

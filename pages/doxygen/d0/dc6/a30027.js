@@ -1,9 +1,6 @@
 var a30027 =
 [
-    [ "CountQuestOnCreature", "d0/dc6/a30027.html#a4bf05b65d940e61567667d0939e177e5", null ],
-    [ "SetUp", "d0/dc6/a30027.html#a4788953a58bbea222cf59662b4427e72", null ],
-    [ "SimulateReload", "d0/dc6/a30027.html#a8eab2618428296763f8fd3d2159ce7a3", null ],
-    [ "SimulateSpawn1Object", "d0/dc6/a30027.html#a82c53349ba3754a75b2c1570fe413d09", null ],
-    [ "TearDown", "d0/dc6/a30027.html#acf6a952f91cf2eaeea693aaf761cde91", null ],
-    [ "creatureQuestMap", "d0/dc6/a30027.html#a7bdf871c2e47b693c1ede58c1f596ae1", null ]
+    [ "MakeTime", "d0/dc6/a30027.html#aafef969ff6e16b69727166c02e2d3d70", null ],
+    [ "PackAnchor", "d0/dc6/a30027.html#a3650ca0f9c8030fe4bd9ca770506e105", null ],
+    [ "OCCURENCE_MIN", "d0/dc6/a30027.html#afcc01c96e3ec426969c1f90f7b87fe5a", null ]
 ];

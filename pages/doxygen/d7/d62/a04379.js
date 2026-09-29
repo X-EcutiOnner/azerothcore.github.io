@@ -1,14 +1,21 @@
 var a04379 =
 [
-    [ "AccountInfo", "d7/d20/a06067.html", "d7/d20/a06067" ],
-    [ "AuthSession", "df/d40/a06071.html", "df/d40/a06071" ],
-    [ "AuthHandler", "db/d2e/a06075.html", "db/d2e/a06075" ],
-    [ "AuthStatus", "d7/d62/a04379.html#a9bc15a6035dd7c4983d87a5ccb3d5834", [
-      [ "STATUS_CHALLENGE", "d7/d62/a04379.html#a9bc15a6035dd7c4983d87a5ccb3d5834a90b814e742d5a0b33f968164487ecac4", null ],
-      [ "STATUS_LOGON_PROOF", "d7/d62/a04379.html#a9bc15a6035dd7c4983d87a5ccb3d5834a940d23c4c5ae99bdf01c40c4e975df16", null ],
-      [ "STATUS_RECONNECT_PROOF", "d7/d62/a04379.html#a9bc15a6035dd7c4983d87a5ccb3d5834a2a06e7508d5944327eec6c08c11db734", null ],
-      [ "STATUS_AUTHED", "d7/d62/a04379.html#a9bc15a6035dd7c4983d87a5ccb3d5834ad7eacfaf1a48a468f2383034940ef72b", null ],
-      [ "STATUS_WAITING_FOR_REALM_LIST", "d7/d62/a04379.html#a9bc15a6035dd7c4983d87a5ccb3d5834a570e0aef98212ddcd09f1ec9254ffdf0", null ],
-      [ "STATUS_CLOSED", "d7/d62/a04379.html#a9bc15a6035dd7c4983d87a5ccb3d5834a78785eb1e6f5b92eaea5c78b3cc0dd94", null ]
-    ] ]
+    [ "CleaningFlags", "d7/d62/a04379.html#ad8ba5c50a4cd2d5193e35ccc83798c67", [
+      [ "CLEANING_FLAG_ACHIEVEMENT_PROGRESS", "d7/d62/a04379.html#ad8ba5c50a4cd2d5193e35ccc83798c67afdcd00f9b75d683b143cbbe0ac22d748", null ],
+      [ "CLEANING_FLAG_SKILLS", "d7/d62/a04379.html#ad8ba5c50a4cd2d5193e35ccc83798c67ac23b2648d4cf0fe8d9ff4cd96722a714", null ],
+      [ "CLEANING_FLAG_SPELLS", "d7/d62/a04379.html#ad8ba5c50a4cd2d5193e35ccc83798c67a39fa10b14e68e92b74ab6697d0e1d564", null ],
+      [ "CLEANING_FLAG_TALENTS", "d7/d62/a04379.html#ad8ba5c50a4cd2d5193e35ccc83798c67a06a3fa1596c0c32ec619b9b9cb1d1550", null ],
+      [ "CLEANING_FLAG_QUESTSTATUS", "d7/d62/a04379.html#ad8ba5c50a4cd2d5193e35ccc83798c67ae0367424104049d29ca9dcf3d5b7273c", null ]
+    ] ],
+    [ "AchievementProgressCheck", "d7/d62/a04379.html#afe5cf638b3ba626c9dc18258d4c528fa", null ],
+    [ "CheckUnique", "d7/d62/a04379.html#a4bdf9f5cb65f0bc9c5227d484cd5446f", null ],
+    [ "CleanCharacterAchievementProgress", "d7/d62/a04379.html#ae5939466cf9b4fbb63eb136baf62767f", null ],
+    [ "CleanCharacterQuestStatus", "d7/d62/a04379.html#a9f512823f852120bf4c3ec78eb4bbeaa", null ],
+    [ "CleanCharacterSkills", "d7/d62/a04379.html#ae8c5d4dc123b8a900254bcbc82c1ffbe", null ],
+    [ "CleanCharacterSpell", "d7/d62/a04379.html#aca5826d283031348e5d6ae6eb75ad605", null ],
+    [ "CleanCharacterTalent", "d7/d62/a04379.html#a344f61fb209b507b775a0bbfb1315fac", null ],
+    [ "CleanDatabase", "d7/d62/a04379.html#a357c8a07f912c6efb55a13cc9bc089b9", null ],
+    [ "SkillCheck", "d7/d62/a04379.html#a0f72cf24646d1ece0eb793890840992d", null ],
+    [ "SpellCheck", "d7/d62/a04379.html#a02688f57778d28a7bcc4ca6cee2074ad", null ],
+    [ "TalentCheck", "d7/d62/a04379.html#aac707369555aa95807c11b1578ae80d2", null ]
 ];

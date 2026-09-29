@@ -1,7 +1,8 @@
 var a09047 =
 [
-    [ "SetRuneState", "df/d8e/a09047.html#a920d32d04ec7e872680a89b0c0a9b0ef", null ],
-    [ "lastUsedRune", "df/d8e/a09047.html#a88c702716eb3032c20ae5ed74922d923", null ],
-    [ "runes", "df/d8e/a09047.html#aac485530bfa81d54d9da3213fe917c29", null ],
-    [ "runeState", "df/d8e/a09047.html#ae58297e0766578b234604a97641501a1", null ]
+    [ "BaseRune", "df/d8e/a09047.html#ad5a4b3afd246f5a4c071e3c4f350f132", null ],
+    [ "ConvertAura", "df/d8e/a09047.html#a41c55cb4c1b3f69c6a424359f60e34e1", null ],
+    [ "Cooldown", "df/d8e/a09047.html#a8eeb0f5208c29d43ab493a22f73eb0a6", null ],
+    [ "CurrentRune", "df/d8e/a09047.html#a2cebb551231f0364a1751e5d1a37fcda", null ],
+    [ "GracePeriod", "df/d8e/a09047.html#a3fa13f205dbaaca5bdcc7406f73b4e6a", null ]
 ];

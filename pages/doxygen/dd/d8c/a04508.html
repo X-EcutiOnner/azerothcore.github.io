@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/test/server/game/Spells/CascadeProcSuppressionTest.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/test/server/game/Spells/WorldObjectCastApiTest.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,95 +105,58 @@ $(document).ready(function(){initNavTree('dd/d8c/a04508.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
 <a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">CascadeProcSuppressionTest.cpp File Reference</div></div>
+  <div class="headertitle"><div class="title">WorldObjectCastApiTest.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-
-<p><a class="el" href="../../d9/d33/a09227.html">Unit</a> tests for cascade proc suppression via SPELL_ATTR3_INSTANT_TARGET_PROCS.  
-<a href="#details">More...</a></p>
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">ProcChanceTestHelper.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellInfoTestHelper.h</a>&quot;</code><br />
-<code>#include &quot;gtest/gtest.h&quot;</code><br />
+<div class="textblock"><code>#include &quot;gtest/gtest.h&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ObjectGuid.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Position.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Spell.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SpellDefines.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d84/a30047.html">CascadeProcSuppressionTest</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d43/a30051.html">RealSpellTestCase</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/de0/a30055.html">CascadeProcRealSpellTest</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:af2c476b9074527e551bb3e269ab0e14a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d8c/a04508.html#af2c476b9074527e551bb3e269ab0e14a">TEST_F</a> (<a class="el" href="../../d3/d84/a30047.html">CascadeProcSuppressionTest</a>, NormalSpellNormalAura_NotSuppressed)</td></tr>
-<tr class="separator:af2c476b9074527e551bb3e269ab0e14a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1d712040cde4f4fc1498c86d1a8c1a2c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d8c/a04508.html#a1d712040cde4f4fc1498c86d1a8c1a2c">TEST_F</a> (<a class="el" href="../../d3/d84/a30047.html">CascadeProcSuppressionTest</a>, ProcDisabledSpell_NormalAura_Suppressed)</td></tr>
-<tr class="separator:a1d712040cde4f4fc1498c86d1a8c1a2c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab78bd7e3715bc34e2a980043d6ac2cae"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d8c/a04508.html#ab78bd7e3715bc34e2a980043d6ac2cae">TEST_F</a> (<a class="el" href="../../d3/d84/a30047.html">CascadeProcSuppressionTest</a>, ProcDisabledSpell_WithAttr_Suppressed)</td></tr>
-<tr class="separator:ab78bd7e3715bc34e2a980043d6ac2cae"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a111eadd5b4ba536e22a70ee1ac1a8010"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d8c/a04508.html#a111eadd5b4ba536e22a70ee1ac1a8010">TEST_F</a> (<a class="el" href="../../d3/d84/a30047.html">CascadeProcSuppressionTest</a>, NormalSpell_AuraWithAttr_Suppressed)</td></tr>
-<tr class="separator:a111eadd5b4ba536e22a70ee1ac1a8010"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae7f0c3a70baa5f99f17ebd2079eec6d6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d8c/a04508.html#ae7f0c3a70baa5f99f17ebd2079eec6d6">TEST_F</a> (<a class="el" href="../../d3/d84/a30047.html">CascadeProcSuppressionTest</a>, SpellInfo_WithAttr_HasAttributeReturnsTrue)</td></tr>
-<tr class="separator:ae7f0c3a70baa5f99f17ebd2079eec6d6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a16cd6603e2c42c8fb68258736fe6daf1"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d8c/a04508.html#a16cd6603e2c42c8fb68258736fe6daf1">TEST_F</a> (<a class="el" href="../../d3/d84/a30047.html">CascadeProcSuppressionTest</a>, SpellInfo_WithoutAttr_HasAttributeReturnsFalse)</td></tr>
-<tr class="separator:a16cd6603e2c42c8fb68258736fe6daf1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acdeb87fc2a70920a25f69077f5b9f3bc"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d8c/a04508.html#acdeb87fc2a70920a25f69077f5b9f3bc">TEST_F</a> (<a class="el" href="../../d3/d84/a30047.html">CascadeProcSuppressionTest</a>, SpellInfo_WithMixedBits_HasAttributeReturnsTrue)</td></tr>
-<tr class="separator:acdeb87fc2a70920a25f69077f5b9f3bc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af27813ec1b49f5d720e19dabde2474bf"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d8c/a04508.html#af27813ec1b49f5d720e19dabde2474bf">TEST_P</a> (<a class="el" href="../../d5/de0/a30055.html">CascadeProcRealSpellTest</a>, VerifySuppressionForRealSpell)</td></tr>
-<tr class="separator:af27813ec1b49f5d720e19dabde2474bf"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a567300126c458aa8f2a67a6b61cfe64b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d8c/a04508.html#a567300126c458aa8f2a67a6b61cfe64b">INSTANTIATE_TEST_SUITE_P</a> (CascadeProcSuppression, <a class="el" href="../../d5/de0/a30055.html">CascadeProcRealSpellTest</a>, ::testing::Values(<a class="el" href="../../df/d43/a30051.html">RealSpellTestCase</a>{&quot;Seal Fate&quot;, 14195, true}, <a class="el" href="../../df/d43/a30051.html">RealSpellTestCase</a>{&quot;Sword Specialization&quot;, 12281, true}, <a class="el" href="../../df/d43/a30051.html">RealSpellTestCase</a>{&quot;Reckoning&quot;, 20178, true}, <a class="el" href="../../df/d43/a30051.html">RealSpellTestCase</a>{&quot;Flurry&quot;, 16257, true}, <a class="el" href="../../df/d43/a30051.html">RealSpellTestCase</a>{&quot;Eviscerate&quot;, 26865, false}), [](testing::TestParamInfo&lt; <a class="el" href="../../df/d43/a30051.html">RealSpellTestCase</a> &gt; const &amp;info) { std::string name=info.param.name;std::replace(name.begin(), name.end(), ' ', '_');return name;})</td></tr>
-<tr class="separator:a567300126c458aa8f2a67a6b61cfe64b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0fa51afabb656e204b564ca6fb0edc9c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d8c/a04508.html#a0fa51afabb656e204b564ca6fb0edc9c">TEST_F</a> (<a class="el" href="../../d3/d84/a30047.html">CascadeProcSuppressionTest</a>, BothFlagsSet_StillSuppressed)</td></tr>
-<tr class="separator:a0fa51afabb656e204b564ca6fb0edc9c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a693bf0209a8095129fc2244a0684ad9f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d8c/a04508.html#a693bf0209a8095129fc2244a0684ad9f">TEST_F</a> (<a class="el" href="../../d3/d84/a30047.html">CascadeProcSuppressionTest</a>, OnlyOuterFlag_Suppressed)</td></tr>
-<tr class="separator:a693bf0209a8095129fc2244a0684ad9f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa63b24064ef385ae513247b6228bc97d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d8c/a04508.html#aa63b24064ef385ae513247b6228bc97d">TEST_F</a> (<a class="el" href="../../d3/d84/a30047.html">CascadeProcSuppressionTest</a>, OnlyPerAuraFlag_Suppressed)</td></tr>
-<tr class="separator:aa63b24064ef385ae513247b6228bc97d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abe5ce5a98329e492d01edf69114217c7"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d8c/a04508.html#abe5ce5a98329e492d01edf69114217c7">TEST</a> (WorldObjectCastApi, CastSpellExtraArgsDefault)</td></tr>
+<tr class="separator:abe5ce5a98329e492d01edf69114217c7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acc057911475d8dd48e98b7b465084dd1"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d8c/a04508.html#acc057911475d8dd48e98b7b465084dd1">TEST</a> (WorldObjectCastApi, CastSpellExtraArgsBoolCtor)</td></tr>
+<tr class="separator:acc057911475d8dd48e98b7b465084dd1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab5a44d20c2186fa038debaf5f581c5e1"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d8c/a04508.html#ab5a44d20c2186fa038debaf5f581c5e1">TEST</a> (WorldObjectCastApi, CastSpellExtraArgsTriggerFlagsCtor)</td></tr>
+<tr class="separator:ab5a44d20c2186fa038debaf5f581c5e1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af700f66461dce83e20feacb79eb8041a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d8c/a04508.html#af700f66461dce83e20feacb79eb8041a">TEST</a> (WorldObjectCastApi, CastSpellExtraArgsOriginalCasterCtor)</td></tr>
+<tr class="separator:af700f66461dce83e20feacb79eb8041a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae1acbddf942d9281ec92f3e0f6152d21"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d8c/a04508.html#ae1acbddf942d9281ec92f3e0f6152d21">TEST</a> (WorldObjectCastApi, CastSpellExtraArgsFluentChain)</td></tr>
+<tr class="separator:ae1acbddf942d9281ec92f3e0f6152d21"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6fa75c1e6407266dcf3580b6c15f76a6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d8c/a04508.html#a6fa75c1e6407266dcf3580b6c15f76a6">TEST</a> (WorldObjectCastApi, CastSpellExtraArgsSpellValueModCtor)</td></tr>
+<tr class="separator:a6fa75c1e6407266dcf3580b6c15f76a6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3c46901e174cee4a3b82a2090218ebae"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d8c/a04508.html#a3c46901e174cee4a3b82a2090218ebae">TEST</a> (WorldObjectCastApi, CastSpellTargetArgEmpty)</td></tr>
+<tr class="separator:a3c46901e174cee4a3b82a2090218ebae"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a01fb314ef035bf2d922afff00fce0f44"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d8c/a04508.html#a01fb314ef035bf2d922afff00fce0f44">TEST</a> (WorldObjectCastApi, CastSpellTargetArgNullptr)</td></tr>
+<tr class="separator:a01fb314ef035bf2d922afff00fce0f44"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7e66e6bf9151858baee00b95c61362bb"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d8c/a04508.html#a7e66e6bf9151858baee00b95c61362bb">TEST</a> (WorldObjectCastApi, CastSpellTargetArgPosition)</td></tr>
+<tr class="separator:a7e66e6bf9151858baee00b95c61362bb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9673606c6caaa9830460c3912bb5a3bf"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d8c/a04508.html#a9673606c6caaa9830460c3912bb5a3bf">TEST</a> (WorldObjectCastApi, CastSpellTargetArgWorldObjectNull)</td></tr>
+<tr class="separator:a9673606c6caaa9830460c3912bb5a3bf"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p ><a class="el" href="../../d9/d33/a09227.html">Unit</a> tests for cascade proc suppression via SPELL_ATTR3_INSTANT_TARGET_PROCS. </p>
-<p >Tests the logic from <a class="el" href="../../d7/d02/a01808.html">Unit.cpp</a> TriggerAurasProcOnEvent:</p><ul>
-<li>Outer check: <a class="el" href="../../d4/ddd/a11947.html#a56a6c8f6b797c49a06e33ee3e017712e">Spell::IsProcDisabled()</a> (TRIGGERED_DISALLOW_PROC_EVENTS) suppresses all cascade procs</li>
-<li>Per-aura check: SPELL_ATTR3_INSTANT_TARGET_PROCS (0x80000) suppresses cascade for that aura</li>
-<li>Normal spells/auras without these flags allow cascading</li>
-<li>Both flags set simultaneously still suppresses correctly </li>
-</ul>
-
-<p class="definition">Definition in file <a class="el" href="../../">CascadeProcSuppressionTest.cpp</a>.</p>
-</div><h2 class="groupheader">Function Documentation</h2>
-<a id="a567300126c458aa8f2a67a6b61cfe64b" name="a567300126c458aa8f2a67a6b61cfe64b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a567300126c458aa8f2a67a6b61cfe64b">&#9670;&#160;</a></span>INSTANTIATE_TEST_SUITE_P()</h2>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="acc057911475d8dd48e98b7b465084dd1" name="acc057911475d8dd48e98b7b465084dd1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acc057911475d8dd48e98b7b465084dd1">&#9670;&#160;</a></span>TEST() <span class="overload">[1/10]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">INSTANTIATE_TEST_SUITE_P </td>
+          <td class="memname">TEST </td>
           <td>(</td>
-          <td class="paramtype">CascadeProcSuppression&#160;</td>
+          <td class="paramtype">WorldObjectCastApi&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d5/de0/a30055.html">CascadeProcRealSpellTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">::testing::Values(<a class="el" href="../../df/d43/a30051.html">RealSpellTestCase</a>{&quot;Seal Fate&quot;, 14195, true}, <a class="el" href="../../df/d43/a30051.html">RealSpellTestCase</a>{&quot;Sword Specialization&quot;, 12281, true}, <a class="el" href="../../df/d43/a30051.html">RealSpellTestCase</a>{&quot;Reckoning&quot;, 20178, true}, <a class="el" href="../../df/d43/a30051.html">RealSpellTestCase</a>{&quot;Flurry&quot;, 16257, true}, <a class="el" href="../../df/d43/a30051.html">RealSpellTestCase</a>{&quot;Eviscerate&quot;, 26865, false})&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">[] (testing::TestParamInfo&lt; <a class="el" href="../../df/d43/a30051.html">RealSpellTestCase</a> &gt; const &amp;info) { std::string name=info.param.name;std::replace(name.begin(), name.end(), ' ', '_');return name;}&#160;</td>
+          <td class="paramtype">CastSpellExtraArgsBoolCtor&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -203,62 +166,37 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-
-</div>
-</div>
-<a id="a0fa51afabb656e204b564ca6fb0edc9c" name="a0fa51afabb656e204b564ca6fb0edc9c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0fa51afabb656e204b564ca6fb0edc9c">&#9670;&#160;</a></span>TEST_F() <span class="overload">[1/10]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d3/d84/a30047.html">CascadeProcSuppressionTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">BothFlagsSet_StillSuppressed&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  192</span>{</div>
-<div class="line"><span class="lineno">  193</span>    <span class="keyword">auto</span> config = MakeConfig(<span class="keyword">true</span>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  194</span> </div>
-<div class="line"><span class="lineno">  195</span>    EXPECT_TRUE(<a class="code hl_function" href="../../dc/df3/a29755.html#ac0bc4afe7ed1254af740a59add4e9e85">ProcChanceTestHelper::ShouldSuppressCascadingProc</a>(config))</div>
-<div class="line"><span class="lineno">  196</span>        &lt;&lt; <span class="stringliteral">&quot;Both IsProcDisabled and INSTANT_TARGET_PROCS set should still suppress&quot;</span>;</div>
-<div class="line"><span class="lineno">  197</span>}</div>
-<div class="ttc" id="aa29755_html_ac0bc4afe7ed1254af740a59add4e9e85"><div class="ttname"><a href="../../dc/df3/a29755.html#ac0bc4afe7ed1254af740a59add4e9e85">ProcChanceTestHelper::ShouldSuppressCascadingProc</a></div><div class="ttdeci">static bool ShouldSuppressCascadingProc(CascadeProcConfig const &amp;config)</div><div class="ttdoc">Returns true if cascading procs should be suppressed for this aura.</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:518</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   42</span>{</div>
+<div class="line"><span class="lineno">   43</span>    <a class="code hl_struct" href="../../dd/d78/a11995.html">CastSpellExtraArgs</a> triggered(<span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">   44</span>    EXPECT_EQ(triggered.TriggerFlags, <a class="code hl_enumvalue" href="../../d7/d1c/a02732.html#a9f3c49d8db7e142b86eba36bc8951967a10578b171eb74dc9851866cc6eb53f3a">TRIGGERED_FULL_MASK</a>);</div>
+<div class="line"><span class="lineno">   45</span> </div>
+<div class="line"><span class="lineno">   46</span>    <a class="code hl_struct" href="../../dd/d78/a11995.html">CastSpellExtraArgs</a> untriggered(<span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">   47</span>    EXPECT_EQ(untriggered.TriggerFlags, <a class="code hl_enumvalue" href="../../d7/d1c/a02732.html#a9f3c49d8db7e142b86eba36bc8951967ad2e82d2342b545f831dfe79d922a3b20">TRIGGERED_NONE</a>);</div>
+<div class="line"><span class="lineno">   48</span>}</div>
+<div class="ttc" id="aa02732_html_a9f3c49d8db7e142b86eba36bc8951967a10578b171eb74dc9851866cc6eb53f3a"><div class="ttname"><a href="../../d7/d1c/a02732.html#a9f3c49d8db7e142b86eba36bc8951967a10578b171eb74dc9851866cc6eb53f3a">TRIGGERED_FULL_MASK</a></div><div class="ttdeci">@ TRIGGERED_FULL_MASK</div><div class="ttdoc">Will return SPELL_FAILED_DONT_REPORT in CheckCast functions.</div><div class="ttdef"><b>Definition:</b> SpellDefines.h:158</div></div>
+<div class="ttc" id="aa02732_html_a9f3c49d8db7e142b86eba36bc8951967ad2e82d2342b545f831dfe79d922a3b20"><div class="ttname"><a href="../../d7/d1c/a02732.html#a9f3c49d8db7e142b86eba36bc8951967ad2e82d2342b545f831dfe79d922a3b20">TRIGGERED_NONE</a></div><div class="ttdeci">@ TRIGGERED_NONE</div><div class="ttdef"><b>Definition:</b> SpellDefines.h:141</div></div>
+<div class="ttc" id="aa11995_html"><div class="ttname"><a href="../../dd/d78/a11995.html">CastSpellExtraArgs</a></div><div class="ttdef"><b>Definition:</b> SpellDefines.h:208</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00518">ProcChanceTestHelper::ShouldSuppressCascadingProc()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00158">TRIGGERED_FULL_MASK</a>, <a class="el" href="../../#l00141">TRIGGERED_NONE</a>, and <a class="el" href="../../#l00233">CastSpellExtraArgs::TriggerFlags</a>.</p>
 
 </div>
 </div>
-<a id="a111eadd5b4ba536e22a70ee1ac1a8010" name="a111eadd5b4ba536e22a70ee1ac1a8010"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a111eadd5b4ba536e22a70ee1ac1a8010">&#9670;&#160;</a></span>TEST_F() <span class="overload">[2/10]</span></h2>
+<a id="abe5ce5a98329e492d01edf69114217c7" name="abe5ce5a98329e492d01edf69114217c7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abe5ce5a98329e492d01edf69114217c7">&#9670;&#160;</a></span>TEST() <span class="overload">[2/10]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">TEST_F </td>
+          <td class="memname">TEST </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d3/d84/a30047.html">CascadeProcSuppressionTest</a>&#160;</td>
+          <td class="paramtype">WorldObjectCastApi&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">NormalSpell_AuraWithAttr_Suppressed&#160;</td>
+          <td class="paramtype">CastSpellExtraArgsDefault&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -268,141 +206,38 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   85</span>{</div>
-<div class="line"><span class="lineno">   86</span>    <span class="keyword">auto</span> config = MakeConfig(<span class="keyword">false</span>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">   87</span> </div>
-<div class="line"><span class="lineno">   88</span>    EXPECT_TRUE(<a class="code hl_function" href="../../dc/df3/a29755.html#ac0bc4afe7ed1254af740a59add4e9e85">ProcChanceTestHelper::ShouldSuppressCascadingProc</a>(config))</div>
-<div class="line"><span class="lineno">   89</span>        &lt;&lt; <span class="stringliteral">&quot;Aura with SPELL_ATTR3_INSTANT_TARGET_PROCS should suppress cascading procs&quot;</span>;</div>
-<div class="line"><span class="lineno">   90</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">   33</span>{</div>
+<div class="line"><span class="lineno">   34</span>    <a class="code hl_struct" href="../../dd/d78/a11995.html">CastSpellExtraArgs</a> args;</div>
+<div class="line"><span class="lineno">   35</span>    EXPECT_EQ(args.<a class="code hl_variable" href="../../dd/d78/a11995.html#a2f222ea6cb2fd04134c5e6200e6f8d4c">TriggerFlags</a>, <a class="code hl_enumvalue" href="../../d7/d1c/a02732.html#a9f3c49d8db7e142b86eba36bc8951967ad2e82d2342b545f831dfe79d922a3b20">TRIGGERED_NONE</a>);</div>
+<div class="line"><span class="lineno">   36</span>    EXPECT_EQ(args.<a class="code hl_variable" href="../../dd/d78/a11995.html#a9908c55d024699d2c6caa3af941c6ade">CastItem</a>, <span class="keyword">nullptr</span>);</div>
+<div class="line"><span class="lineno">   37</span>    EXPECT_EQ(args.<a class="code hl_variable" href="../../dd/d78/a11995.html#aa7fbeb6c0f2d4062874214c9844f9fc3">TriggeringAura</a>, <span class="keyword">nullptr</span>);</div>
+<div class="line"><span class="lineno">   38</span>    EXPECT_FALSE(args.<a class="code hl_variable" href="../../dd/d78/a11995.html#a8d0b1a195529e936707382b6137a7236">OriginalCaster</a>);</div>
+<div class="line"><span class="lineno">   39</span>}</div>
+<div class="ttc" id="aa11995_html_a2f222ea6cb2fd04134c5e6200e6f8d4c"><div class="ttname"><a href="../../dd/d78/a11995.html#a2f222ea6cb2fd04134c5e6200e6f8d4c">CastSpellExtraArgs::TriggerFlags</a></div><div class="ttdeci">TriggerCastFlags TriggerFlags</div><div class="ttdef"><b>Definition:</b> SpellDefines.h:233</div></div>
+<div class="ttc" id="aa11995_html_a8d0b1a195529e936707382b6137a7236"><div class="ttname"><a href="../../dd/d78/a11995.html#a8d0b1a195529e936707382b6137a7236">CastSpellExtraArgs::OriginalCaster</a></div><div class="ttdeci">ObjectGuid OriginalCaster</div><div class="ttdef"><b>Definition:</b> SpellDefines.h:236</div></div>
+<div class="ttc" id="aa11995_html_a9908c55d024699d2c6caa3af941c6ade"><div class="ttname"><a href="../../dd/d78/a11995.html#a9908c55d024699d2c6caa3af941c6ade">CastSpellExtraArgs::CastItem</a></div><div class="ttdeci">Item * CastItem</div><div class="ttdef"><b>Definition:</b> SpellDefines.h:234</div></div>
+<div class="ttc" id="aa11995_html_aa7fbeb6c0f2d4062874214c9844f9fc3"><div class="ttname"><a href="../../dd/d78/a11995.html#aa7fbeb6c0f2d4062874214c9844f9fc3">CastSpellExtraArgs::TriggeringAura</a></div><div class="ttdeci">AuraEffect const  * TriggeringAura</div><div class="ttdef"><b>Definition:</b> SpellDefines.h:235</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00518">ProcChanceTestHelper::ShouldSuppressCascadingProc()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00234">CastSpellExtraArgs::CastItem</a>, <a class="el" href="../../#l00236">CastSpellExtraArgs::OriginalCaster</a>, <a class="el" href="../../#l00141">TRIGGERED_NONE</a>, <a class="el" href="../../#l00233">CastSpellExtraArgs::TriggerFlags</a>, and <a class="el" href="../../#l00235">CastSpellExtraArgs::TriggeringAura</a>.</p>
 
 </div>
 </div>
-<a id="af2c476b9074527e551bb3e269ab0e14a" name="af2c476b9074527e551bb3e269ab0e14a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af2c476b9074527e551bb3e269ab0e14a">&#9670;&#160;</a></span>TEST_F() <span class="overload">[3/10]</span></h2>
+<a id="ae1acbddf942d9281ec92f3e0f6152d21" name="ae1acbddf942d9281ec92f3e0f6152d21"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae1acbddf942d9281ec92f3e0f6152d21">&#9670;&#160;</a></span>TEST() <span class="overload">[3/10]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">TEST_F </td>
+          <td class="memname">TEST </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d3/d84/a30047.html">CascadeProcSuppressionTest</a>&#160;</td>
+          <td class="paramtype">WorldObjectCastApi&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">NormalSpellNormalAura_NotSuppressed&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   53</span>{</div>
-<div class="line"><span class="lineno">   54</span>    <span class="keyword">auto</span> config = MakeConfig(<span class="keyword">false</span>, <span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">   55</span> </div>
-<div class="line"><span class="lineno">   56</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dc/df3/a29755.html#ac0bc4afe7ed1254af740a59add4e9e85">ProcChanceTestHelper::ShouldSuppressCascadingProc</a>(config))</div>
-<div class="line"><span class="lineno">   57</span>        &lt;&lt; <span class="stringliteral">&quot;Normal spell + normal aura should not suppress cascading procs&quot;</span>;</div>
-<div class="line"><span class="lineno">   58</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00518">ProcChanceTestHelper::ShouldSuppressCascadingProc()</a>.</p>
-
-</div>
-</div>
-<a id="a693bf0209a8095129fc2244a0684ad9f" name="a693bf0209a8095129fc2244a0684ad9f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a693bf0209a8095129fc2244a0684ad9f">&#9670;&#160;</a></span>TEST_F() <span class="overload">[4/10]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d3/d84/a30047.html">CascadeProcSuppressionTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">OnlyOuterFlag_Suppressed&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  200</span>{</div>
-<div class="line"><span class="lineno">  201</span>    <span class="keyword">auto</span> config = MakeConfig(<span class="keyword">true</span>, <span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">  202</span> </div>
-<div class="line"><span class="lineno">  203</span>    EXPECT_TRUE(<a class="code hl_function" href="../../dc/df3/a29755.html#ac0bc4afe7ed1254af740a59add4e9e85">ProcChanceTestHelper::ShouldSuppressCascadingProc</a>(config))</div>
-<div class="line"><span class="lineno">  204</span>        &lt;&lt; <span class="stringliteral">&quot;Only IsProcDisabled should be sufficient to suppress&quot;</span>;</div>
-<div class="line"><span class="lineno">  205</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00518">ProcChanceTestHelper::ShouldSuppressCascadingProc()</a>.</p>
-
-</div>
-</div>
-<a id="aa63b24064ef385ae513247b6228bc97d" name="aa63b24064ef385ae513247b6228bc97d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa63b24064ef385ae513247b6228bc97d">&#9670;&#160;</a></span>TEST_F() <span class="overload">[5/10]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d3/d84/a30047.html">CascadeProcSuppressionTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">OnlyPerAuraFlag_Suppressed&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  208</span>{</div>
-<div class="line"><span class="lineno">  209</span>    <span class="keyword">auto</span> config = MakeConfig(<span class="keyword">false</span>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  210</span> </div>
-<div class="line"><span class="lineno">  211</span>    EXPECT_TRUE(<a class="code hl_function" href="../../dc/df3/a29755.html#ac0bc4afe7ed1254af740a59add4e9e85">ProcChanceTestHelper::ShouldSuppressCascadingProc</a>(config))</div>
-<div class="line"><span class="lineno">  212</span>        &lt;&lt; <span class="stringliteral">&quot;Only INSTANT_TARGET_PROCS should be sufficient to suppress&quot;</span>;</div>
-<div class="line"><span class="lineno">  213</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00518">ProcChanceTestHelper::ShouldSuppressCascadingProc()</a>.</p>
-
-</div>
-</div>
-<a id="a1d712040cde4f4fc1498c86d1a8c1a2c" name="a1d712040cde4f4fc1498c86d1a8c1a2c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1d712040cde4f4fc1498c86d1a8c1a2c">&#9670;&#160;</a></span>TEST_F() <span class="overload">[6/10]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d3/d84/a30047.html">CascadeProcSuppressionTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">ProcDisabledSpell_NormalAura_Suppressed&#160;</td>
+          <td class="paramtype">CastSpellExtraArgsFluentChain&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -413,32 +248,55 @@ Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   65</span>{</div>
-<div class="line"><span class="lineno">   66</span>    <span class="keyword">auto</span> config = MakeConfig(<span class="keyword">true</span>, <span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">   67</span> </div>
-<div class="line"><span class="lineno">   68</span>    EXPECT_TRUE(<a class="code hl_function" href="../../dc/df3/a29755.html#ac0bc4afe7ed1254af740a59add4e9e85">ProcChanceTestHelper::ShouldSuppressCascadingProc</a>(config))</div>
-<div class="line"><span class="lineno">   69</span>        &lt;&lt; <span class="stringliteral">&quot;Triggered spell with DISALLOW_PROC_EVENTS should suppress all cascading procs&quot;</span>;</div>
-<div class="line"><span class="lineno">   70</span>}</div>
+<div class="line"><span class="lineno">   66</span>    <a class="code hl_class" href="../../de/d05/a08899.html">ObjectGuid</a> guid = ObjectGuid::Create&lt;HighGuid::Unit&gt;(100, 7);</div>
+<div class="line"><span class="lineno">   67</span>    <a class="code hl_struct" href="../../dd/d78/a11995.html">CastSpellExtraArgs</a> args = <a class="code hl_struct" href="../../dd/d78/a11995.html">CastSpellExtraArgs</a>()</div>
+<div class="line"><span class="lineno">   68</span>        .<a class="code hl_function" href="../../dd/d78/a11995.html#a69a2dd620aa1df727931451ea0db48ac">SetTriggerFlags</a>(<a class="code hl_enumvalue" href="../../d7/d1c/a02732.html#a9f3c49d8db7e142b86eba36bc8951967a1186247cfc7007358221bd431b828ba0">TRIGGERED_IGNORE_POWER_AND_REAGENT_COST</a>)</div>
+<div class="line"><span class="lineno">   69</span>        .<a class="code hl_function" href="../../dd/d78/a11995.html#a6344b91798c84a8462da40cc87a26852">SetOriginalCaster</a>(guid)</div>
+<div class="line"><span class="lineno">   70</span>        .<a class="code hl_function" href="../../dd/d78/a11995.html#a8678546c5b7f2e9df5f6bdab8ecaa3d5">AddSpellMod</a>(<a class="code hl_enumvalue" href="../../d7/d1c/a02732.html#a4ad87b8c967acbbcb154a32bc123371bae5c19f392b2ebda372a39538fa9b592a">SPELLVALUE_BASE_POINT0</a>, 123)</div>
+<div class="line"><span class="lineno">   71</span>        .<a class="code hl_function" href="../../dd/d78/a11995.html#a6a2107d1c9ab21b51e810a32a5c6f165">AddSpellBP0</a>(456);</div>
+<div class="line"><span class="lineno">   72</span> </div>
+<div class="line"><span class="lineno">   73</span>    EXPECT_EQ(args.<a class="code hl_variable" href="../../dd/d78/a11995.html#a2f222ea6cb2fd04134c5e6200e6f8d4c">TriggerFlags</a>, <a class="code hl_enumvalue" href="../../d7/d1c/a02732.html#a9f3c49d8db7e142b86eba36bc8951967a1186247cfc7007358221bd431b828ba0">TRIGGERED_IGNORE_POWER_AND_REAGENT_COST</a>);</div>
+<div class="line"><span class="lineno">   74</span>    EXPECT_EQ(args.<a class="code hl_variable" href="../../dd/d78/a11995.html#a8d0b1a195529e936707382b6137a7236">OriginalCaster</a>, guid);</div>
+<div class="line"><span class="lineno">   75</span>    <span class="comment">// SpellValueOverrides is private detail of CustomSpellValues, so just</span></div>
+<div class="line"><span class="lineno">   76</span>    <span class="comment">// verify two entries were appended via the public iteration interface.</span></div>
+<div class="line"><span class="lineno">   77</span>    <span class="keywordtype">int</span> hits = 0;</div>
+<div class="line"><span class="lineno">   78</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; kv : args.<a class="code hl_variable" href="../../dd/d78/a11995.html#a08601ff6f3454775b3502c0f872a5287">SpellValueOverrides</a>)</div>
+<div class="line"><span class="lineno">   79</span>    {</div>
+<div class="line"><span class="lineno">   80</span>        EXPECT_EQ(kv.first, <a class="code hl_enumvalue" href="../../d7/d1c/a02732.html#a4ad87b8c967acbbcb154a32bc123371bae5c19f392b2ebda372a39538fa9b592a">SPELLVALUE_BASE_POINT0</a>);</div>
+<div class="line"><span class="lineno">   81</span>        <span class="keywordflow">if</span> (kv.second == 123 || kv.second == 456)</div>
+<div class="line"><span class="lineno">   82</span>            ++hits;</div>
+<div class="line"><span class="lineno">   83</span>    }</div>
+<div class="line"><span class="lineno">   84</span>    EXPECT_EQ(hits, 2);</div>
+<div class="line"><span class="lineno">   85</span>}</div>
+<div class="ttc" id="aa02732_html_a4ad87b8c967acbbcb154a32bc123371bae5c19f392b2ebda372a39538fa9b592a"><div class="ttname"><a href="../../d7/d1c/a02732.html#a4ad87b8c967acbbcb154a32bc123371bae5c19f392b2ebda372a39538fa9b592a">SPELLVALUE_BASE_POINT0</a></div><div class="ttdeci">@ SPELLVALUE_BASE_POINT0</div><div class="ttdef"><b>Definition:</b> SpellDefines.h:121</div></div>
+<div class="ttc" id="aa02732_html_a9f3c49d8db7e142b86eba36bc8951967a1186247cfc7007358221bd431b828ba0"><div class="ttname"><a href="../../d7/d1c/a02732.html#a9f3c49d8db7e142b86eba36bc8951967a1186247cfc7007358221bd431b828ba0">TRIGGERED_IGNORE_POWER_AND_REAGENT_COST</a></div><div class="ttdeci">@ TRIGGERED_IGNORE_POWER_AND_REAGENT_COST</div><div class="ttdoc">Will ignore Spell and Category cooldowns.</div><div class="ttdef"><b>Definition:</b> SpellDefines.h:144</div></div>
+<div class="ttc" id="aa08899_html"><div class="ttname"><a href="../../de/d05/a08899.html">ObjectGuid</a></div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:121</div></div>
+<div class="ttc" id="aa11995_html_a08601ff6f3454775b3502c0f872a5287"><div class="ttname"><a href="../../dd/d78/a11995.html#a08601ff6f3454775b3502c0f872a5287">CastSpellExtraArgs::SpellValueOverrides</a></div><div class="ttdeci">CustomSpellValues SpellValueOverrides</div><div class="ttdef"><b>Definition:</b> SpellDefines.h:237</div></div>
+<div class="ttc" id="aa11995_html_a6344b91798c84a8462da40cc87a26852"><div class="ttname"><a href="../../dd/d78/a11995.html#a6344b91798c84a8462da40cc87a26852">CastSpellExtraArgs::SetOriginalCaster</a></div><div class="ttdeci">CastSpellExtraArgs &amp; SetOriginalCaster(ObjectGuid const &amp;guid)</div><div class="ttdef"><b>Definition:</b> SpellDefines.h:229</div></div>
+<div class="ttc" id="aa11995_html_a69a2dd620aa1df727931451ea0db48ac"><div class="ttname"><a href="../../dd/d78/a11995.html#a69a2dd620aa1df727931451ea0db48ac">CastSpellExtraArgs::SetTriggerFlags</a></div><div class="ttdeci">CastSpellExtraArgs &amp; SetTriggerFlags(TriggerCastFlags flag)</div><div class="ttdef"><b>Definition:</b> SpellDefines.h:226</div></div>
+<div class="ttc" id="aa11995_html_a6a2107d1c9ab21b51e810a32a5c6f165"><div class="ttname"><a href="../../dd/d78/a11995.html#a6a2107d1c9ab21b51e810a32a5c6f165">CastSpellExtraArgs::AddSpellBP0</a></div><div class="ttdeci">CastSpellExtraArgs &amp; AddSpellBP0(int32 val)</div><div class="ttdef"><b>Definition:</b> SpellDefines.h:231</div></div>
+<div class="ttc" id="aa11995_html_a8678546c5b7f2e9df5f6bdab8ecaa3d5"><div class="ttname"><a href="../../dd/d78/a11995.html#a8678546c5b7f2e9df5f6bdab8ecaa3d5">CastSpellExtraArgs::AddSpellMod</a></div><div class="ttdeci">CastSpellExtraArgs &amp; AddSpellMod(SpellValueMod mod, int32 val)</div><div class="ttdef"><b>Definition:</b> SpellDefines.h:230</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00518">ProcChanceTestHelper::ShouldSuppressCascadingProc()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00231">CastSpellExtraArgs::AddSpellBP0()</a>, <a class="el" href="../../#l00230">CastSpellExtraArgs::AddSpellMod()</a>, <a class="el" href="../../#l00236">CastSpellExtraArgs::OriginalCaster</a>, <a class="el" href="../../#l00229">CastSpellExtraArgs::SetOriginalCaster()</a>, <a class="el" href="../../#l00226">CastSpellExtraArgs::SetTriggerFlags()</a>, <a class="el" href="../../#l00121">SPELLVALUE_BASE_POINT0</a>, <a class="el" href="../../#l00237">CastSpellExtraArgs::SpellValueOverrides</a>, <a class="el" href="../../#l00144">TRIGGERED_IGNORE_POWER_AND_REAGENT_COST</a>, and <a class="el" href="../../#l00233">CastSpellExtraArgs::TriggerFlags</a>.</p>
 
 </div>
 </div>
-<a id="ab78bd7e3715bc34e2a980043d6ac2cae" name="ab78bd7e3715bc34e2a980043d6ac2cae"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab78bd7e3715bc34e2a980043d6ac2cae">&#9670;&#160;</a></span>TEST_F() <span class="overload">[7/10]</span></h2>
+<a id="af700f66461dce83e20feacb79eb8041a" name="af700f66461dce83e20feacb79eb8041a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af700f66461dce83e20feacb79eb8041a">&#9670;&#160;</a></span>TEST() <span class="overload">[4/10]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">TEST_F </td>
+          <td class="memname">TEST </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d3/d84/a30047.html">CascadeProcSuppressionTest</a>&#160;</td>
+          <td class="paramtype">WorldObjectCastApi&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">ProcDisabledSpell_WithAttr_Suppressed&#160;</td>
+          <td class="paramtype">CastSpellExtraArgsOriginalCasterCtor&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -448,33 +306,33 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   73</span>{</div>
-<div class="line"><span class="lineno">   74</span>    <span class="keyword">auto</span> config = MakeConfig(<span class="keyword">true</span>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">   75</span> </div>
-<div class="line"><span class="lineno">   76</span>    EXPECT_TRUE(<a class="code hl_function" href="../../dc/df3/a29755.html#ac0bc4afe7ed1254af740a59add4e9e85">ProcChanceTestHelper::ShouldSuppressCascadingProc</a>(config))</div>
-<div class="line"><span class="lineno">   77</span>        &lt;&lt; <span class="stringliteral">&quot;Both flags set should still suppress (double-suppress doesn&#39;t break)&quot;</span>;</div>
-<div class="line"><span class="lineno">   78</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">   57</span>{</div>
+<div class="line"><span class="lineno">   58</span>    <a class="code hl_class" href="../../de/d05/a08899.html">ObjectGuid</a> guid = ObjectGuid::Create&lt;HighGuid::Player&gt;(42);</div>
+<div class="line"><span class="lineno">   59</span>    <a class="code hl_struct" href="../../dd/d78/a11995.html">CastSpellExtraArgs</a> args(guid);</div>
+<div class="line"><span class="lineno">   60</span>    EXPECT_EQ(args.OriginalCaster, guid);</div>
+<div class="line"><span class="lineno">   61</span>    EXPECT_EQ(args.TriggerFlags, <a class="code hl_enumvalue" href="../../d7/d1c/a02732.html#a9f3c49d8db7e142b86eba36bc8951967a10578b171eb74dc9851866cc6eb53f3a">TRIGGERED_FULL_MASK</a>);</div>
+<div class="line"><span class="lineno">   62</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00518">ProcChanceTestHelper::ShouldSuppressCascadingProc()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00236">CastSpellExtraArgs::OriginalCaster</a>, <a class="el" href="../../#l00158">TRIGGERED_FULL_MASK</a>, and <a class="el" href="../../#l00233">CastSpellExtraArgs::TriggerFlags</a>.</p>
 
 </div>
 </div>
-<a id="ae7f0c3a70baa5f99f17ebd2079eec6d6" name="ae7f0c3a70baa5f99f17ebd2079eec6d6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae7f0c3a70baa5f99f17ebd2079eec6d6">&#9670;&#160;</a></span>TEST_F() <span class="overload">[8/10]</span></h2>
+<a id="a6fa75c1e6407266dcf3580b6c15f76a6" name="a6fa75c1e6407266dcf3580b6c15f76a6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6fa75c1e6407266dcf3580b6c15f76a6">&#9670;&#160;</a></span>TEST() <span class="overload">[5/10]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">TEST_F </td>
+          <td class="memname">TEST </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d3/d84/a30047.html">CascadeProcSuppressionTest</a>&#160;</td>
+          <td class="paramtype">WorldObjectCastApi&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">SpellInfo_WithAttr_HasAttributeReturnsTrue&#160;</td>
+          <td class="paramtype">CastSpellExtraArgsSpellValueModCtor&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -484,41 +342,38 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   97</span>{</div>
-<div class="line"><span class="lineno">   98</span>    <span class="keyword">auto</span> spellInfo = <a class="code hl_class" href="../../d0/d26/a29815.html">SpellInfoBuilder</a>()</div>
-<div class="line"><span class="lineno">   99</span>        .<a class="code hl_function" href="../../d0/d26/a29815.html#a1f23f2372b8fd2e7ce8e6aad99868892">WithId</a>(99001)</div>
-<div class="line"><span class="lineno">  100</span>        .<a class="code hl_function" href="../../d0/d26/a29815.html#ab92a2a4b9be30a760ce90467c7dfa234">WithAttributesEx3</a>(<a class="code hl_enumvalue" href="../../d7/d3f/a00173.html#a6f95d0d447e8085b1097ac9965af2a81a8dd8792fbeeb9870bfc4285d5df29ab9">SPELL_ATTR3_INSTANT_TARGET_PROCS</a>)</div>
-<div class="line"><span class="lineno">  101</span>        .<a class="code hl_function" href="../../d0/d26/a29815.html#a96bd1eea56970fdc051fe3c494ee6396">BuildUnique</a>();</div>
-<div class="line"><span class="lineno">  102</span> </div>
-<div class="line"><span class="lineno">  103</span>    EXPECT_TRUE(spellInfo-&gt;HasAttribute(<a class="code hl_enumvalue" href="../../d7/d3f/a00173.html#a6f95d0d447e8085b1097ac9965af2a81a8dd8792fbeeb9870bfc4285d5df29ab9">SPELL_ATTR3_INSTANT_TARGET_PROCS</a>))</div>
-<div class="line"><span class="lineno">  104</span>        &lt;&lt; <span class="stringliteral">&quot;SpellInfo built with 0x80000 should report HasAttribute true&quot;</span>;</div>
-<div class="line"><span class="lineno">  105</span>}</div>
-<div class="ttc" id="aa00173_html_a6f95d0d447e8085b1097ac9965af2a81a8dd8792fbeeb9870bfc4285d5df29ab9"><div class="ttname"><a href="../../d7/d3f/a00173.html#a6f95d0d447e8085b1097ac9965af2a81a8dd8792fbeeb9870bfc4285d5df29ab9">SPELL_ATTR3_INSTANT_TARGET_PROCS</a></div><div class="ttdeci">@ SPELL_ATTR3_INSTANT_TARGET_PROCS</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:500</div></div>
-<div class="ttc" id="aa29815_html"><div class="ttname"><a href="../../d0/d26/a29815.html">SpellInfoBuilder</a></div><div class="ttdoc">Builder class for creating SpellInfo test instances.</div><div class="ttdef"><b>Definition:</b> SpellInfoTestHelper.h:180</div></div>
-<div class="ttc" id="aa29815_html_a1f23f2372b8fd2e7ce8e6aad99868892"><div class="ttname"><a href="../../d0/d26/a29815.html#a1f23f2372b8fd2e7ce8e6aad99868892">SpellInfoBuilder::WithId</a></div><div class="ttdeci">SpellInfoBuilder &amp; WithId(uint32 id)</div><div class="ttdef"><b>Definition:</b> SpellInfoTestHelper.h:184</div></div>
-<div class="ttc" id="aa29815_html_a96bd1eea56970fdc051fe3c494ee6396"><div class="ttname"><a href="../../d0/d26/a29815.html#a96bd1eea56970fdc051fe3c494ee6396">SpellInfoBuilder::BuildUnique</a></div><div class="ttdeci">std::unique_ptr&lt; SpellInfo &gt; BuildUnique()</div><div class="ttdef"><b>Definition:</b> SpellInfoTestHelper.h:294</div></div>
-<div class="ttc" id="aa29815_html_ab92a2a4b9be30a760ce90467c7dfa234"><div class="ttname"><a href="../../d0/d26/a29815.html#ab92a2a4b9be30a760ce90467c7dfa234">SpellInfoBuilder::WithAttributesEx3</a></div><div class="ttdeci">SpellInfoBuilder &amp; WithAttributesEx3(uint32 attr)</div><div class="ttdef"><b>Definition:</b> SpellInfoTestHelper.h:232</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   88</span>{</div>
+<div class="line"><span class="lineno">   89</span>    <a class="code hl_struct" href="../../dd/d78/a11995.html">CastSpellExtraArgs</a> args(<a class="code hl_enumvalue" href="../../d7/d1c/a02732.html#a4ad87b8c967acbbcb154a32bc123371baac4a68bd47fc6d4dd83453928def284b">SPELLVALUE_MAX_TARGETS</a>, 3);</div>
+<div class="line"><span class="lineno">   90</span>    <span class="keywordtype">int</span> found = 0;</div>
+<div class="line"><span class="lineno">   91</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; kv : args.SpellValueOverrides)</div>
+<div class="line"><span class="lineno">   92</span>    {</div>
+<div class="line"><span class="lineno">   93</span>        <span class="keywordflow">if</span> (kv.first == <a class="code hl_enumvalue" href="../../d7/d1c/a02732.html#a4ad87b8c967acbbcb154a32bc123371baac4a68bd47fc6d4dd83453928def284b">SPELLVALUE_MAX_TARGETS</a> &amp;&amp; kv.second == 3)</div>
+<div class="line"><span class="lineno">   94</span>            ++found;</div>
+<div class="line"><span class="lineno">   95</span>    }</div>
+<div class="line"><span class="lineno">   96</span>    EXPECT_EQ(found, 1);</div>
+<div class="line"><span class="lineno">   97</span>}</div>
+<div class="ttc" id="aa02732_html_a4ad87b8c967acbbcb154a32bc123371baac4a68bd47fc6d4dd83453928def284b"><div class="ttname"><a href="../../d7/d1c/a02732.html#a4ad87b8c967acbbcb154a32bc123371baac4a68bd47fc6d4dd83453928def284b">SPELLVALUE_MAX_TARGETS</a></div><div class="ttdeci">@ SPELLVALUE_MAX_TARGETS</div><div class="ttdef"><b>Definition:</b> SpellDefines.h:125</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00294">SpellInfoBuilder::BuildUnique()</a>, <a class="el" href="../../#l00500">SPELL_ATTR3_INSTANT_TARGET_PROCS</a>, <a class="el" href="../../#l00232">SpellInfoBuilder::WithAttributesEx3()</a>, and <a class="el" href="../../#l00184">SpellInfoBuilder::WithId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00125">SPELLVALUE_MAX_TARGETS</a>, and <a class="el" href="../../#l00237">CastSpellExtraArgs::SpellValueOverrides</a>.</p>
 
 </div>
 </div>
-<a id="acdeb87fc2a70920a25f69077f5b9f3bc" name="acdeb87fc2a70920a25f69077f5b9f3bc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acdeb87fc2a70920a25f69077f5b9f3bc">&#9670;&#160;</a></span>TEST_F() <span class="overload">[9/10]</span></h2>
+<a id="ab5a44d20c2186fa038debaf5f581c5e1" name="ab5a44d20c2186fa038debaf5f581c5e1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab5a44d20c2186fa038debaf5f581c5e1">&#9670;&#160;</a></span>TEST() <span class="overload">[6/10]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">TEST_F </td>
+          <td class="memname">TEST </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d3/d84/a30047.html">CascadeProcSuppressionTest</a>&#160;</td>
+          <td class="paramtype">WorldObjectCastApi&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">SpellInfo_WithMixedBits_HasAttributeReturnsTrue&#160;</td>
+          <td class="paramtype">CastSpellExtraArgsTriggerFlagsCtor&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -528,37 +383,32 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  119</span>{</div>
-<div class="line"><span class="lineno">  120</span>    <span class="comment">// 0x80001 = SPELL_ATTR3_INSTANT_TARGET_PROCS | SPELL_ATTR3_PVP_ENABLING (bit 0)</span></div>
-<div class="line"><span class="lineno">  121</span>    <span class="keyword">auto</span> spellInfo = <a class="code hl_class" href="../../d0/d26/a29815.html">SpellInfoBuilder</a>()</div>
-<div class="line"><span class="lineno">  122</span>        .<a class="code hl_function" href="../../d0/d26/a29815.html#a1f23f2372b8fd2e7ce8e6aad99868892">WithId</a>(99003)</div>
-<div class="line"><span class="lineno">  123</span>        .<a class="code hl_function" href="../../d0/d26/a29815.html#ab92a2a4b9be30a760ce90467c7dfa234">WithAttributesEx3</a>(0x00080001)</div>
-<div class="line"><span class="lineno">  124</span>        .<a class="code hl_function" href="../../d0/d26/a29815.html#a96bd1eea56970fdc051fe3c494ee6396">BuildUnique</a>();</div>
-<div class="line"><span class="lineno">  125</span> </div>
-<div class="line"><span class="lineno">  126</span>    EXPECT_TRUE(spellInfo-&gt;HasAttribute(<a class="code hl_enumvalue" href="../../d7/d3f/a00173.html#a6f95d0d447e8085b1097ac9965af2a81a8dd8792fbeeb9870bfc4285d5df29ab9">SPELL_ATTR3_INSTANT_TARGET_PROCS</a>))</div>
-<div class="line"><span class="lineno">  127</span>        &lt;&lt; <span class="stringliteral">&quot;Other bits in AttributesEx3 should not interfere with attribute detection&quot;</span>;</div>
-<div class="line"><span class="lineno">  128</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">   51</span>{</div>
+<div class="line"><span class="lineno">   52</span>    <a class="code hl_struct" href="../../dd/d78/a11995.html">CastSpellExtraArgs</a> args(<a class="code hl_enumvalue" href="../../d7/d1c/a02732.html#a9f3c49d8db7e142b86eba36bc8951967a899fa7df360462673111bbfbb0bbd00d">TRIGGERED_IGNORE_GCD</a>);</div>
+<div class="line"><span class="lineno">   53</span>    EXPECT_EQ(args.TriggerFlags, <a class="code hl_enumvalue" href="../../d7/d1c/a02732.html#a9f3c49d8db7e142b86eba36bc8951967a899fa7df360462673111bbfbb0bbd00d">TRIGGERED_IGNORE_GCD</a>);</div>
+<div class="line"><span class="lineno">   54</span>}</div>
+<div class="ttc" id="aa02732_html_a9f3c49d8db7e142b86eba36bc8951967a899fa7df360462673111bbfbb0bbd00d"><div class="ttname"><a href="../../d7/d1c/a02732.html#a9f3c49d8db7e142b86eba36bc8951967a899fa7df360462673111bbfbb0bbd00d">TRIGGERED_IGNORE_GCD</a></div><div class="ttdeci">@ TRIGGERED_IGNORE_GCD</div><div class="ttdoc">Not triggered.</div><div class="ttdef"><b>Definition:</b> SpellDefines.h:142</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00294">SpellInfoBuilder::BuildUnique()</a>, <a class="el" href="../../#l00500">SPELL_ATTR3_INSTANT_TARGET_PROCS</a>, <a class="el" href="../../#l00232">SpellInfoBuilder::WithAttributesEx3()</a>, and <a class="el" href="../../#l00184">SpellInfoBuilder::WithId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00142">TRIGGERED_IGNORE_GCD</a>, and <a class="el" href="../../#l00233">CastSpellExtraArgs::TriggerFlags</a>.</p>
 
 </div>
 </div>
-<a id="a16cd6603e2c42c8fb68258736fe6daf1" name="a16cd6603e2c42c8fb68258736fe6daf1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a16cd6603e2c42c8fb68258736fe6daf1">&#9670;&#160;</a></span>TEST_F() <span class="overload">[10/10]</span></h2>
+<a id="a3c46901e174cee4a3b82a2090218ebae" name="a3c46901e174cee4a3b82a2090218ebae"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3c46901e174cee4a3b82a2090218ebae">&#9670;&#160;</a></span>TEST() <span class="overload">[7/10]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">TEST_F </td>
+          <td class="memname">TEST </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d3/d84/a30047.html">CascadeProcSuppressionTest</a>&#160;</td>
+          <td class="paramtype">WorldObjectCastApi&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">SpellInfo_WithoutAttr_HasAttributeReturnsFalse&#160;</td>
+          <td class="paramtype">CastSpellTargetArgEmpty&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -568,36 +418,34 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  108</span>{</div>
-<div class="line"><span class="lineno">  109</span>    <span class="keyword">auto</span> spellInfo = <a class="code hl_class" href="../../d0/d26/a29815.html">SpellInfoBuilder</a>()</div>
-<div class="line"><span class="lineno">  110</span>        .<a class="code hl_function" href="../../d0/d26/a29815.html#a1f23f2372b8fd2e7ce8e6aad99868892">WithId</a>(99002)</div>
-<div class="line"><span class="lineno">  111</span>        .<a class="code hl_function" href="../../d0/d26/a29815.html#ab92a2a4b9be30a760ce90467c7dfa234">WithAttributesEx3</a>(0)</div>
-<div class="line"><span class="lineno">  112</span>        .<a class="code hl_function" href="../../d0/d26/a29815.html#a96bd1eea56970fdc051fe3c494ee6396">BuildUnique</a>();</div>
-<div class="line"><span class="lineno">  113</span> </div>
-<div class="line"><span class="lineno">  114</span>    EXPECT_FALSE(spellInfo-&gt;HasAttribute(<a class="code hl_enumvalue" href="../../d7/d3f/a00173.html#a6f95d0d447e8085b1097ac9965af2a81a8dd8792fbeeb9870bfc4285d5df29ab9">SPELL_ATTR3_INSTANT_TARGET_PROCS</a>))</div>
-<div class="line"><span class="lineno">  115</span>        &lt;&lt; <span class="stringliteral">&quot;SpellInfo built with 0 should report HasAttribute false&quot;</span>;</div>
-<div class="line"><span class="lineno">  116</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  100</span>{</div>
+<div class="line"><span class="lineno">  101</span>    <a class="code hl_struct" href="../../d7/d9d/a11991.html">CastSpellTargetArg</a> t;</div>
+<div class="line"><span class="lineno">  102</span>    ASSERT_TRUE(t.<a class="code hl_variable" href="../../d7/d9d/a11991.html#a25bda508ba86ff03f8d4195067bf8760">Targets</a>); <span class="comment">// default ctor populates a non-null SpellCastTargets</span></div>
+<div class="line"><span class="lineno">  103</span>    EXPECT_EQ(t.<a class="code hl_variable" href="../../d7/d9d/a11991.html#a25bda508ba86ff03f8d4195067bf8760">Targets</a>-&gt;GetTargetMask(), 0u);</div>
+<div class="line"><span class="lineno">  104</span>}</div>
+<div class="ttc" id="aa11991_html"><div class="ttname"><a href="../../d7/d9d/a11991.html">CastSpellTargetArg</a></div><div class="ttdef"><b>Definition:</b> SpellDefines.h:193</div></div>
+<div class="ttc" id="aa11991_html_a25bda508ba86ff03f8d4195067bf8760"><div class="ttname"><a href="../../d7/d9d/a11991.html#a25bda508ba86ff03f8d4195067bf8760">CastSpellTargetArg::Targets</a></div><div class="ttdeci">std::unique_ptr&lt; SpellCastTargets &gt; Targets</div><div class="ttdef"><b>Definition:</b> SpellDefines.h:204</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00294">SpellInfoBuilder::BuildUnique()</a>, <a class="el" href="../../#l00500">SPELL_ATTR3_INSTANT_TARGET_PROCS</a>, <a class="el" href="../../#l00232">SpellInfoBuilder::WithAttributesEx3()</a>, and <a class="el" href="../../#l00184">SpellInfoBuilder::WithId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00204">CastSpellTargetArg::Targets</a>.</p>
 
 </div>
 </div>
-<a id="af27813ec1b49f5d720e19dabde2474bf" name="af27813ec1b49f5d720e19dabde2474bf"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af27813ec1b49f5d720e19dabde2474bf">&#9670;&#160;</a></span>TEST_P()</h2>
+<a id="a01fb314ef035bf2d922afff00fce0f44" name="a01fb314ef035bf2d922afff00fce0f44"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a01fb314ef035bf2d922afff00fce0f44">&#9670;&#160;</a></span>TEST() <span class="overload">[8/10]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">TEST_P </td>
+          <td class="memname">TEST </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d5/de0/a30055.html">CascadeProcRealSpellTest</a>&#160;</td>
+          <td class="paramtype">WorldObjectCastApi&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">VerifySuppressionForRealSpell&#160;</td>
+          <td class="paramtype">CastSpellTargetArgNullptr&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -607,33 +455,87 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  145</span>{</div>
-<div class="line"><span class="lineno">  146</span>    <span class="keyword">auto</span> <span class="keyword">const</span>&amp; tc = GetParam();</div>
-<div class="line"><span class="lineno">  147</span> </div>
-<div class="line"><span class="lineno">  148</span>    <span class="comment">// Build a SpellInfo mimicking the real spell&#39;s AttributesEx3</span></div>
-<div class="line"><span class="lineno">  149</span>    <span class="keyword">auto</span> spellInfo = <a class="code hl_class" href="../../d0/d26/a29815.html">SpellInfoBuilder</a>()</div>
-<div class="line"><span class="lineno">  150</span>        .<a class="code hl_function" href="../../d0/d26/a29815.html#a1f23f2372b8fd2e7ce8e6aad99868892">WithId</a>(tc.spellId)</div>
-<div class="line"><span class="lineno">  151</span>        .<a class="code hl_function" href="../../d0/d26/a29815.html#ab92a2a4b9be30a760ce90467c7dfa234">WithAttributesEx3</a>(tc.hasAttr ? <span class="keyword">static_cast&lt;</span><a class="code hl_typedef" href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a><span class="keyword">&gt;</span>(<a class="code hl_enumvalue" href="../../d7/d3f/a00173.html#a6f95d0d447e8085b1097ac9965af2a81a8dd8792fbeeb9870bfc4285d5df29ab9">SPELL_ATTR3_INSTANT_TARGET_PROCS</a>) : 0u)</div>
-<div class="line"><span class="lineno">  152</span>        .<a class="code hl_function" href="../../d0/d26/a29815.html#a96bd1eea56970fdc051fe3c494ee6396">BuildUnique</a>();</div>
-<div class="line"><span class="lineno">  153</span> </div>
-<div class="line"><span class="lineno">  154</span>    <span class="comment">// Verify attribute detection matches expectation</span></div>
-<div class="line"><span class="lineno">  155</span>    EXPECT_EQ(spellInfo-&gt;HasAttribute(<a class="code hl_enumvalue" href="../../d7/d3f/a00173.html#a6f95d0d447e8085b1097ac9965af2a81a8dd8792fbeeb9870bfc4285d5df29ab9">SPELL_ATTR3_INSTANT_TARGET_PROCS</a>), tc.hasAttr)</div>
-<div class="line"><span class="lineno">  156</span>        &lt;&lt; tc.name &lt;&lt; <span class="stringliteral">&quot; (spell &quot;</span> &lt;&lt; tc.spellId &lt;&lt; <span class="stringliteral">&quot;) attribute detection mismatch&quot;</span>;</div>
-<div class="line"><span class="lineno">  157</span> </div>
-<div class="line"><span class="lineno">  158</span>    <span class="comment">// Verify cascade suppression matches attribute presence</span></div>
-<div class="line"><span class="lineno">  159</span>    <a class="code hl_struct" href="../../d6/d23/a29775.html">ProcChanceTestHelper::CascadeProcConfig</a> config;</div>
-<div class="line"><span class="lineno">  160</span>    config.<a class="code hl_variable" href="../../d6/d23/a29775.html#a38c3523c80d30ed10b8c3b5e19c083f6">triggeringSpellIsProcDisabled</a> = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  161</span>    config.<a class="code hl_variable" href="../../d6/d23/a29775.html#aec81d4f80c7cb7749f860601c9e5aac8">auraHasDisableProcAttr</a> = tc.hasAttr;</div>
-<div class="line"><span class="lineno">  162</span> </div>
-<div class="line"><span class="lineno">  163</span>    EXPECT_EQ(<a class="code hl_function" href="../../dc/df3/a29755.html#ac0bc4afe7ed1254af740a59add4e9e85">ProcChanceTestHelper::ShouldSuppressCascadingProc</a>(config), tc.hasAttr)</div>
-<div class="line"><span class="lineno">  164</span>        &lt;&lt; tc.name &lt;&lt; <span class="stringliteral">&quot; (spell &quot;</span> &lt;&lt; tc.spellId &lt;&lt; <span class="stringliteral">&quot;) cascade suppression mismatch&quot;</span>;</div>
-<div class="line"><span class="lineno">  165</span>}</div>
-<div class="ttc" id="aa04679_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../de/d69/a04679.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
-<div class="ttc" id="aa29775_html"><div class="ttname"><a href="../../d6/d23/a29775.html">ProcChanceTestHelper::CascadeProcConfig</a></div><div class="ttdoc">Configuration for simulating cascade proc suppression.</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:507</div></div>
-<div class="ttc" id="aa29775_html_a38c3523c80d30ed10b8c3b5e19c083f6"><div class="ttname"><a href="../../d6/d23/a29775.html#a38c3523c80d30ed10b8c3b5e19c083f6">ProcChanceTestHelper::CascadeProcConfig::triggeringSpellIsProcDisabled</a></div><div class="ttdeci">bool triggeringSpellIsProcDisabled</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:508</div></div>
-<div class="ttc" id="aa29775_html_aec81d4f80c7cb7749f860601c9e5aac8"><div class="ttname"><a href="../../d6/d23/a29775.html#aec81d4f80c7cb7749f860601c9e5aac8">ProcChanceTestHelper::CascadeProcConfig::auraHasDisableProcAttr</a></div><div class="ttdeci">bool auraHasDisableProcAttr</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:509</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  107</span>{</div>
+<div class="line"><span class="lineno">  108</span>    <a class="code hl_struct" href="../../d7/d9d/a11991.html">CastSpellTargetArg</a> t(<span class="keyword">nullptr</span>);</div>
+<div class="line"><span class="lineno">  109</span>    ASSERT_TRUE(t.Targets);</div>
+<div class="line"><span class="lineno">  110</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00509">ProcChanceTestHelper::CascadeProcConfig::auraHasDisableProcAttr</a>, <a class="el" href="../../#l00294">SpellInfoBuilder::BuildUnique()</a>, <a class="el" href="../../#l00518">ProcChanceTestHelper::ShouldSuppressCascadingProc()</a>, <a class="el" href="../../#l00500">SPELL_ATTR3_INSTANT_TARGET_PROCS</a>, <a class="el" href="../../#l00508">ProcChanceTestHelper::CascadeProcConfig::triggeringSpellIsProcDisabled</a>, <a class="el" href="../../#l00232">SpellInfoBuilder::WithAttributesEx3()</a>, and <a class="el" href="../../#l00184">SpellInfoBuilder::WithId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00204">CastSpellTargetArg::Targets</a>.</p>
+
+</div>
+</div>
+<a id="a7e66e6bf9151858baee00b95c61362bb" name="a7e66e6bf9151858baee00b95c61362bb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7e66e6bf9151858baee00b95c61362bb">&#9670;&#160;</a></span>TEST() <span class="overload">[9/10]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST </td>
+          <td>(</td>
+          <td class="paramtype">WorldObjectCastApi&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">CastSpellTargetArgPosition&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  113</span>{</div>
+<div class="line"><span class="lineno">  114</span>    <a class="code hl_struct" href="../../d7/dc3/a08931.html">Position</a> pos(1.0f, 2.0f, 3.0f, 0.5f);</div>
+<div class="line"><span class="lineno">  115</span>    <a class="code hl_struct" href="../../d7/d9d/a11991.html">CastSpellTargetArg</a> t(pos);</div>
+<div class="line"><span class="lineno">  116</span>    ASSERT_TRUE(t.Targets);</div>
+<div class="line"><span class="lineno">  117</span>    EXPECT_NE(t.Targets-&gt;GetTargetMask() &amp; <a class="code hl_enumvalue" href="../../dd/d01/a02729.html#a3c11f0d0cd9689554b34ccbc325da54fa6743615e8912aefb100fe3f804c162be">TARGET_FLAG_DEST_LOCATION</a>, 0u);</div>
+<div class="line"><span class="lineno">  118</span>}</div>
+<div class="ttc" id="aa02729_html_a3c11f0d0cd9689554b34ccbc325da54fa6743615e8912aefb100fe3f804c162be"><div class="ttname"><a href="../../dd/d01/a02729.html#a3c11f0d0cd9689554b34ccbc325da54fa6743615e8912aefb100fe3f804c162be">TARGET_FLAG_DEST_LOCATION</a></div><div class="ttdeci">@ TARGET_FLAG_DEST_LOCATION</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:53</div></div>
+<div class="ttc" id="aa08931_html"><div class="ttname"><a href="../../d7/dc3/a08931.html">Position</a></div><div class="ttdef"><b>Definition:</b> Position.h:27</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00053">TARGET_FLAG_DEST_LOCATION</a>, and <a class="el" href="../../#l00204">CastSpellTargetArg::Targets</a>.</p>
+
+</div>
+</div>
+<a id="a9673606c6caaa9830460c3912bb5a3bf" name="a9673606c6caaa9830460c3912bb5a3bf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9673606c6caaa9830460c3912bb5a3bf">&#9670;&#160;</a></span>TEST() <span class="overload">[10/10]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST </td>
+          <td>(</td>
+          <td class="paramtype">WorldObjectCastApi&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">CastSpellTargetArgWorldObjectNull&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  121</span>{</div>
+<div class="line"><span class="lineno">  122</span>    <span class="comment">// A null target yields an error-state CastSpellTargetArg (Targets stays</span></div>
+<div class="line"><span class="lineno">  123</span>    <span class="comment">// empty so WorldObject::CastSpell returns SPELL_FAILED_BAD_TARGETS).</span></div>
+<div class="line"><span class="lineno">  124</span>    <a class="code hl_struct" href="../../d7/d9d/a11991.html">CastSpellTargetArg</a> t(<span class="keyword">static_cast&lt;</span><a class="code hl_class" href="../../d4/d08/a08883.html">WorldObject</a>*<span class="keyword">&gt;</span>(<span class="keyword">nullptr</span>));</div>
+<div class="line"><span class="lineno">  125</span>    EXPECT_FALSE(t.Targets);</div>
+<div class="line"><span class="lineno">  126</span>}</div>
+<div class="ttc" id="aa08883_html"><div class="ttname"><a href="../../d4/d08/a08883.html">WorldObject</a></div><div class="ttdef"><b>Definition:</b> Object.h:482</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00204">CastSpellTargetArg::Targets</a>.</p>
 
 </div>
 </div>
@@ -642,8 +544,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_7ee4929d46277e5eb29eea0f8a31fa60.html">Spells</a></li><li class="navelem"><a class="el" href="../../dd/d8c/a04508.html">CascadeProcSuppressionTest.cpp</a></li>
-    <li class="footer">Generated on Mon Sep 21 2026 23:33:23 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_7ee4929d46277e5eb29eea0f8a31fa60.html">Spells</a></li><li class="navelem"><a class="el" href="../../dd/d8c/a04508.html">WorldObjectCastApiTest.cpp</a></li>
+    <li class="footer">Generated on Tue Sep 29 2026 01:12:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

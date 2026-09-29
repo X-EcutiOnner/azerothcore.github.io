@@ -1,7 +1,6 @@
 var a16215 =
 [
-    [ "npc_toogaAI", "d7/dd2/a16219.html", "d7/dd2/a16219" ],
-    [ "npc_tooga", "dd/d5c/a16215.html#a6ea6a9e4dea1ab98475dae13680ceeaf", null ],
-    [ "GetAI", "dd/d5c/a16215.html#a7847577589f3bdc1c3ea5ee0f1f9232f", null ],
-    [ "OnQuestAccept", "dd/d5c/a16215.html#a45ae4f9be8d69553d557b33df9fbde3b", null ]
+    [ "npc_custodian_of_timeAI", "d7/dd2/a16219.html", "d7/dd2/a16219" ],
+    [ "npc_custodian_of_time", "dd/d5c/a16215.html#a6018b30119ce819853a3c662b3d5347e", null ],
+    [ "GetAI", "dd/d5c/a16215.html#a57217b2dab1cab110f1c59526ca13c86", null ]
 ];

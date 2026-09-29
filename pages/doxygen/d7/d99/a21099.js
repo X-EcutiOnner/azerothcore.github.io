@@ -1,11 +1,8 @@
 var a21099 =
 [
-    [ "boss_yoggsaron_constrictor_tentacle", "d7/d99/a21099.html#a543b785ba3033ab378fcb77d39db2ab1", null ],
-    [ "DoAction", "d7/d99/a21099.html#acf3ab23043ac116dd3f410b361a5b9f4", null ],
-    [ "GrabPlayer", "d7/d99/a21099.html#a0ae04ac300d4f08b12f7edaa75dbe208", null ],
-    [ "IsSummonedBy", "d7/d99/a21099.html#a404e4ab66a757b6ff4fa492219198b91", null ],
-    [ "JustDied", "d7/d99/a21099.html#aac8f5a80248c4616074e7ef88fb10395", null ],
-    [ "PassengerBoarded", "d7/d99/a21099.html#afdef8417bffb0a2079199060b0c26980", null ],
-    [ "SelectConstrictTarget", "d7/d99/a21099.html#a12103bc4e58febfdcb9fbbc31aab9ad7", null ],
-    [ "_playerGUID", "d7/d99/a21099.html#a381b56eb1c81f893fd061cf4aead0bc4", null ]
+    [ "boss_yoggsaron_death_ray", "d7/d99/a21099.html#a03a5a1845d217c2e59fc491f1f0a36a2", null ],
+    [ "IsSummonedBy", "d7/d99/a21099.html#a631bb4727b876c0ce782c1d3d206ae13", null ],
+    [ "UpdateAI", "d7/d99/a21099.html#a424f116aa76fa470cb393250e571c021", null ],
+    [ "_movementLegs", "d7/d99/a21099.html#ac548ed487090506768236ff1519d4938", null ],
+    [ "events", "d7/d99/a21099.html#af79f0ec03cc3eb6c803c4793842b0c71", null ]
 ];

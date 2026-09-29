@@ -1,9 +1,14 @@
 var a12883 =
 [
-    [ "boss_overlord_wyrmthalak", "dc/d6b/a12883.html#a412ced7f6cbb2c02b174824b57132ab3", null ],
-    [ "JustDied", "dc/d6b/a12883.html#a66f2bda1b2352c42a15be505f6d610c6", null ],
-    [ "JustEngagedWith", "dc/d6b/a12883.html#a4673b2e6c3b7143ab088b699c7f41d8a", null ],
-    [ "Reset", "dc/d6b/a12883.html#a8c4bff3d35d4ddb5c6c8994cb4ee9d67", null ],
-    [ "UpdateAI", "dc/d6b/a12883.html#afcca6360598b40df4c35bff752eee3f4", null ],
-    [ "_summoned", "dc/d6b/a12883.html#a4ccbe2c20ef1303141005a79ec418705", null ]
+    [ "boss_mor_grayhoof", "dc/d6b/a12883.html#aef1001233a51ad3bb9963c540d39d79b", null ],
+    [ "CastRandomSpell", "dc/d6b/a12883.html#a00756d64d24088ebf408153fcb59ff13", null ],
+    [ "DamageTaken", "dc/d6b/a12883.html#a164a911eb9a86964a61866c05d44512f", null ],
+    [ "JustDied", "dc/d6b/a12883.html#aa98fbfc5cc4ee94e0323d8586dae1e1c", null ],
+    [ "JustEngagedWith", "dc/d6b/a12883.html#a043f6ee099efd0d49982b2966604e65a", null ],
+    [ "Reset", "dc/d6b/a12883.html#af313bd8509a76cd6b6fbc197f15afbff", null ],
+    [ "UpdateAI", "dc/d6b/a12883.html#aaa6a1a9b6e4259aea46d2f25bca3b809", null ],
+    [ "_phase", "dc/d6b/a12883.html#a40bf6a66aefe7a605d94526b5a586ba6", null ],
+    [ "_scheduler", "dc/d6b/a12883.html#ad2a897281d308475957e2636c6536fdd", null ],
+    [ "_sleepTargetGUID", "dc/d6b/a12883.html#a8baa606696dc8acf532e8badfc6c624b", null ],
+    [ "_sleepTargetThreat", "dc/d6b/a12883.html#ac62d7d30b12d0c2da9553b9689091e0e", null ]
 ];

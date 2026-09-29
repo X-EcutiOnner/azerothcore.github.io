@@ -116,14 +116,14 @@ $(document).ready(function(){initNavTree('d0/d32/a09823.html','../../'); initRes
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a2d83b68a7991d3b3dc2355ecde1efa5d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d32/a09823.html#a2d83b68a7991d3b3dc2355ecde1efa5d">AnyUnfriendlyUnitInObjectRangeCheck</a> (<a class="el" href="../../d1/d83/a08879.html">WorldObject</a> const *obj, <a class="el" href="../../d9/d33/a09227.html">Unit</a> const *funit, float range)</td></tr>
+<tr class="memitem:a2d83b68a7991d3b3dc2355ecde1efa5d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d32/a09823.html#a2d83b68a7991d3b3dc2355ecde1efa5d">AnyUnfriendlyUnitInObjectRangeCheck</a> (<a class="el" href="../../d4/d08/a08883.html">WorldObject</a> const *obj, <a class="el" href="../../d9/d33/a09227.html">Unit</a> const *funit, float range)</td></tr>
 <tr class="separator:a2d83b68a7991d3b3dc2355ecde1efa5d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5b02b45b937d6b2b0b141967c70f93d9"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d32/a09823.html#a5b02b45b937d6b2b0b141967c70f93d9">operator()</a> (<a class="el" href="../../d9/d33/a09227.html">Unit</a> *u)</td></tr>
 <tr class="separator:a5b02b45b937d6b2b0b141967c70f93d9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:a5d7e5e8898bd092c1055739fae82f693"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/d83/a08879.html">WorldObject</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d32/a09823.html#a5d7e5e8898bd092c1055739fae82f693">i_obj</a></td></tr>
+<tr class="memitem:a5d7e5e8898bd092c1055739fae82f693"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d08/a08883.html">WorldObject</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d32/a09823.html#a5d7e5e8898bd092c1055739fae82f693">i_obj</a></td></tr>
 <tr class="separator:a5d7e5e8898bd092c1055739fae82f693"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a55222acf6dbb538a213eb604f67f40ce"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d33/a09227.html">Unit</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d32/a09823.html#a55222acf6dbb538a213eb604f67f40ce">i_funit</a></td></tr>
 <tr class="separator:a55222acf6dbb538a213eb604f67f40ce"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -144,7 +144,7 @@ Private Attributes</h2></td></tr>
         <tr>
           <td class="memname">Acore::AnyUnfriendlyUnitInObjectRangeCheck::AnyUnfriendlyUnitInObjectRangeCheck </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d1/d83/a08879.html">WorldObject</a> const *&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d4/d08/a08883.html">WorldObject</a> const *&#160;</td>
           <td class="paramname"><em>obj</em>, </td>
         </tr>
         <tr>
@@ -203,21 +203,21 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  888</span>        {</div>
-<div class="line"><span class="lineno">  889</span>            <span class="keywordflow">if</span> (u-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#a5ea3f54af571493f7889220724667189">IsAlive</a>() &amp;&amp; !u-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#ab5ce6785e6d3f8ea3ca62a46d9d89ed1">IsCritter</a>() &amp;&amp; <a class="code hl_variable" href="../../d0/d32/a09823.html#a5d7e5e8898bd092c1055739fae82f693">i_obj</a>-&gt;<a class="code hl_function" href="../../d1/d83/a08879.html#aaeea293a6966a717f17113370d364168">IsWithinDistInMap</a>(u, <a class="code hl_variable" href="../../d0/d32/a09823.html#aa1c728ceea2ddc2e88ea07132a3fe250">i_range</a>) &amp;&amp; !<a class="code hl_variable" href="../../d0/d32/a09823.html#a55222acf6dbb538a213eb604f67f40ce">i_funit</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#abdfe022523c40277d917754f75edb722">IsFriendlyTo</a>(u) &amp;&amp;</div>
-<div class="line"><span class="lineno">  890</span>                    (!<a class="code hl_variable" href="../../d0/d32/a09823.html#a55222acf6dbb538a213eb604f67f40ce">i_funit</a>-&gt;<a class="code hl_function" href="../../d1/d76/a08843.html#aacc8ee332f66effdc0d77c126dae1961">IsCreature</a>() || !<a class="code hl_variable" href="../../d0/d32/a09823.html#a55222acf6dbb538a213eb604f67f40ce">i_funit</a>-&gt;<a class="code hl_function" href="../../d1/d76/a08843.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>()-&gt;<a class="code hl_function" href="../../d5/d25/a08467.html#a4f6d3cf41d5f547bbcc37034e16bfb94">IsAvoidingAOE</a>())) <span class="comment">// pussywizard</span></div>
+<div class="line"><span class="lineno">  889</span>            <span class="keywordflow">if</span> (u-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#a5ea3f54af571493f7889220724667189">IsAlive</a>() &amp;&amp; !u-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#ab5ce6785e6d3f8ea3ca62a46d9d89ed1">IsCritter</a>() &amp;&amp; <a class="code hl_variable" href="../../d0/d32/a09823.html#a5d7e5e8898bd092c1055739fae82f693">i_obj</a>-&gt;<a class="code hl_function" href="../../d4/d08/a08883.html#aaeea293a6966a717f17113370d364168">IsWithinDistInMap</a>(u, <a class="code hl_variable" href="../../d0/d32/a09823.html#aa1c728ceea2ddc2e88ea07132a3fe250">i_range</a>) &amp;&amp; !<a class="code hl_variable" href="../../d0/d32/a09823.html#a55222acf6dbb538a213eb604f67f40ce">i_funit</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#abdfe022523c40277d917754f75edb722">IsFriendlyTo</a>(u) &amp;&amp;</div>
+<div class="line"><span class="lineno">  890</span>                    (!<a class="code hl_variable" href="../../d0/d32/a09823.html#a55222acf6dbb538a213eb604f67f40ce">i_funit</a>-&gt;<a class="code hl_function" href="../../d9/d6f/a08847.html#aacc8ee332f66effdc0d77c126dae1961">IsCreature</a>() || !<a class="code hl_variable" href="../../d0/d32/a09823.html#a55222acf6dbb538a213eb604f67f40ce">i_funit</a>-&gt;<a class="code hl_function" href="../../d9/d6f/a08847.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>()-&gt;<a class="code hl_function" href="../../d5/d6c/a08471.html#a4f6d3cf41d5f547bbcc37034e16bfb94">IsAvoidingAOE</a>())) <span class="comment">// pussywizard</span></div>
 <div class="line"><span class="lineno">  891</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">  892</span>            <span class="keywordflow">else</span></div>
 <div class="line"><span class="lineno">  893</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  894</span>        }</div>
-<div class="ttc" id="aa08467_html_a4f6d3cf41d5f547bbcc37034e16bfb94"><div class="ttname"><a href="../../d5/d25/a08467.html#a4f6d3cf41d5f547bbcc37034e16bfb94">Creature::IsAvoidingAOE</a></div><div class="ttdeci">bool IsAvoidingAOE() const</div><div class="ttdef"><b>Definition:</b> Creature.h:134</div></div>
-<div class="ttc" id="aa08843_html_aacc8ee332f66effdc0d77c126dae1961"><div class="ttname"><a href="../../d1/d76/a08843.html#aacc8ee332f66effdc0d77c126dae1961">Object::IsCreature</a></div><div class="ttdeci">bool IsCreature() const</div><div class="ttdef"><b>Definition:</b> Object.h:211</div></div>
-<div class="ttc" id="aa08843_html_ab0e2ef1ac1daa91476f749e0ec6ad3c6"><div class="ttname"><a href="../../d1/d76/a08843.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">Object::ToCreature</a></div><div class="ttdeci">Creature * ToCreature()</div><div class="ttdef"><b>Definition:</b> Object.h:212</div></div>
-<div class="ttc" id="aa08879_html_aaeea293a6966a717f17113370d364168"><div class="ttname"><a href="../../d1/d83/a08879.html#aaeea293a6966a717f17113370d364168">WorldObject::IsWithinDistInMap</a></div><div class="ttdeci">bool IsWithinDistInMap(WorldObject const *obj, float dist2compare, bool is3D=true, bool incOwnRadius=true, bool incTargetRadius=true) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1386</div></div>
-<div class="ttc" id="aa09227_html_a5ea3f54af571493f7889220724667189"><div class="ttname"><a href="../../d9/d33/a09227.html#a5ea3f54af571493f7889220724667189">Unit::IsAlive</a></div><div class="ttdeci">bool IsAlive() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1796</div></div>
-<div class="ttc" id="aa09227_html_ab5ce6785e6d3f8ea3ca62a46d9d89ed1"><div class="ttname"><a href="../../d9/d33/a09227.html#ab5ce6785e6d3f8ea3ca62a46d9d89ed1">Unit::IsCritter</a></div><div class="ttdeci">bool IsCritter() const</div><div class="ttdef"><b>Definition:</b> Unit.h:834</div></div>
-<div class="ttc" id="aa09227_html_abdfe022523c40277d917754f75edb722"><div class="ttname"><a href="../../d9/d33/a09227.html#abdfe022523c40277d917754f75edb722">Unit::IsFriendlyTo</a></div><div class="ttdeci">bool IsFriendlyTo(Unit const *unit) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:7015</div></div>
+<div class="ttc" id="aa08471_html_a4f6d3cf41d5f547bbcc37034e16bfb94"><div class="ttname"><a href="../../d5/d6c/a08471.html#a4f6d3cf41d5f547bbcc37034e16bfb94">Creature::IsAvoidingAOE</a></div><div class="ttdeci">bool IsAvoidingAOE() const</div><div class="ttdef"><b>Definition:</b> Creature.h:134</div></div>
+<div class="ttc" id="aa08847_html_aacc8ee332f66effdc0d77c126dae1961"><div class="ttname"><a href="../../d9/d6f/a08847.html#aacc8ee332f66effdc0d77c126dae1961">Object::IsCreature</a></div><div class="ttdeci">bool IsCreature() const</div><div class="ttdef"><b>Definition:</b> Object.h:211</div></div>
+<div class="ttc" id="aa08847_html_ab0e2ef1ac1daa91476f749e0ec6ad3c6"><div class="ttname"><a href="../../d9/d6f/a08847.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">Object::ToCreature</a></div><div class="ttdeci">Creature * ToCreature()</div><div class="ttdef"><b>Definition:</b> Object.h:212</div></div>
+<div class="ttc" id="aa08883_html_aaeea293a6966a717f17113370d364168"><div class="ttname"><a href="../../d4/d08/a08883.html#aaeea293a6966a717f17113370d364168">WorldObject::IsWithinDistInMap</a></div><div class="ttdeci">bool IsWithinDistInMap(WorldObject const *obj, float dist2compare, bool is3D=true, bool incOwnRadius=true, bool incTargetRadius=true) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1386</div></div>
+<div class="ttc" id="aa09227_html_a5ea3f54af571493f7889220724667189"><div class="ttname"><a href="../../d9/d33/a09227.html#a5ea3f54af571493f7889220724667189">Unit::IsAlive</a></div><div class="ttdeci">bool IsAlive() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1798</div></div>
+<div class="ttc" id="aa09227_html_ab5ce6785e6d3f8ea3ca62a46d9d89ed1"><div class="ttname"><a href="../../d9/d33/a09227.html#ab5ce6785e6d3f8ea3ca62a46d9d89ed1">Unit::IsCritter</a></div><div class="ttdeci">bool IsCritter() const</div><div class="ttdef"><b>Definition:</b> Unit.h:836</div></div>
+<div class="ttc" id="aa09227_html_abdfe022523c40277d917754f75edb722"><div class="ttname"><a href="../../d9/d33/a09227.html#abdfe022523c40277d917754f75edb722">Unit::IsFriendlyTo</a></div><div class="ttdeci">bool IsFriendlyTo(Unit const *unit) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:7043</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00897">i_funit</a>, <a class="el" href="../../#l00896">i_obj</a>, <a class="el" href="../../#l00898">i_range</a>, <a class="el" href="../../#l01796">Unit::IsAlive()</a>, <a class="el" href="../../#l00134">Creature::IsAvoidingAOE()</a>, <a class="el" href="../../#l00211">Object::IsCreature()</a>, <a class="el" href="../../#l00834">Unit::IsCritter()</a>, <a class="el" href="../../#l07015">Unit::IsFriendlyTo()</a>, <a class="el" href="../../#l01386">WorldObject::IsWithinDistInMap()</a>, and <a class="el" href="../../#l00212">Object::ToCreature()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00897">i_funit</a>, <a class="el" href="../../#l00896">i_obj</a>, <a class="el" href="../../#l00898">i_range</a>, <a class="el" href="../../#l01798">Unit::IsAlive()</a>, <a class="el" href="../../#l00134">Creature::IsAvoidingAOE()</a>, <a class="el" href="../../#l00211">Object::IsCreature()</a>, <a class="el" href="../../#l00836">Unit::IsCritter()</a>, <a class="el" href="../../#l07043">Unit::IsFriendlyTo()</a>, <a class="el" href="../../#l01386">WorldObject::IsWithinDistInMap()</a>, and <a class="el" href="../../#l00212">Object::ToCreature()</a>.</p>
 
 </div>
 </div>
@@ -256,7 +256,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d1/d83/a08879.html">WorldObject</a> const* Acore::AnyUnfriendlyUnitInObjectRangeCheck::i_obj</td>
+          <td class="memname"><a class="el" href="../../d4/d08/a08883.html">WorldObject</a> const* Acore::AnyUnfriendlyUnitInObjectRangeCheck::i_obj</td>
         </tr>
       </table>
   </td>
@@ -299,8 +299,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d5/d87/a05118.html">Acore</a></li><li class="navelem"><a class="el" href="../../d0/d32/a09823.html">AnyUnfriendlyUnitInObjectRangeCheck</a></li>
-    <li class="footer">Generated on Mon Sep 21 2026 23:34:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dd/db3/a05121.html">Acore</a></li><li class="navelem"><a class="el" href="../../d0/d32/a09823.html">AnyUnfriendlyUnitInObjectRangeCheck</a></li>
+    <li class="footer">Generated on Tue Sep 29 2026 01:14:19 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

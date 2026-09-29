@@ -1,8 +1,7 @@
 var a26423 =
 [
-    [ "HandleProc", "d3/d43/a26423.html#a2d5eff84e8df9c34fd4be6a98c2f5eb0", null ],
-    [ "OnRemove", "d3/d43/a26423.html#aec98f9b3b6fb458becb215d2c0e62149", null ],
-    [ "PrepareAuraScript", "d3/d43/a26423.html#af498da6d5732c51cf7b3e95633341107", null ],
-    [ "Register", "d3/d43/a26423.html#a846a3dd6335fc2830e51fff2e5d82ee2", null ],
-    [ "Validate", "d3/d43/a26423.html#a49218a89f9915a14b3a98f073d382f91", null ]
+    [ "HandleProc", "d3/d43/a26423.html#ac3ee18bf705b107ec87ce6974a7442a5", null ],
+    [ "PrepareAuraScript", "d3/d43/a26423.html#ab4b5f754ced5843a753e8dd6a6ba779c", null ],
+    [ "Register", "d3/d43/a26423.html#a4fc4de06c7906d95a45635b418c7d760", null ],
+    [ "Validate", "d3/d43/a26423.html#a7ec7e886d7757163e5ae81b579a0ef04", null ]
 ];

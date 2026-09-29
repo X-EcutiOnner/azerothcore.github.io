@@ -1,12 +1,8 @@
 var a17299 =
 [
-    [ "boss_trollgoreAI", "d7/dd1/a17299.html#a958deb54a8460cc2dc61958bd9acb338", null ],
-    [ "CheckInRoom", "d7/dd1/a17299.html#a6428a1c4fc7d3da4e016ed17ea3684df", null ],
-    [ "JustDied", "d7/dd1/a17299.html#a32a309084b6b7c4b4e5db10d9c8a95bd", null ],
-    [ "JustEngagedWith", "d7/dd1/a17299.html#a25414dc1b13aa1372e397c5cb11afdaa", null ],
-    [ "JustSummoned", "d7/dd1/a17299.html#abd2199877e0e1465a7e5783b80ad2a44", null ],
-    [ "KilledUnit", "d7/dd1/a17299.html#aa65d03d8879c6177753b8316c1343ad4", null ],
-    [ "Reset", "d7/dd1/a17299.html#a4fe22aebe6e814196ac1914d158a62de", null ],
-    [ "UpdateAI", "d7/dd1/a17299.html#a3fa3247442edb81136647f7fdf5834cf", null ],
-    [ "events2", "d7/dd1/a17299.html#a94e8c9616ac332f33f2b976c074092af", null ]
+    [ "HandleEffectApply", "d7/dd1/a17299.html#a92b98d9b9be98c330b6efbe34dae235b", null ],
+    [ "HandleEffectRemove", "d7/dd1/a17299.html#a04504220319ec562b1b6691f471c1b8d", null ],
+    [ "PrepareAuraScript", "d7/dd1/a17299.html#a10fd29809373bcfaf38fd587fcdd1dee", null ],
+    [ "Register", "d7/dd1/a17299.html#a9160c940913e4829bd0a6fe269c3b5d3", null ],
+    [ "Validate", "d7/dd1/a17299.html#a7f7750933e122e8c672b6b93f4801cd7", null ]
 ];

@@ -116,14 +116,14 @@ $(document).ready(function(){initNavTree('db/da5/a09863.html','../../'); initRes
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:ab3a1ebf25ef0da5df75a5a6a8bbf3ddf"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/da5/a09863.html#ab3a1ebf25ef0da5df75a5a6a8bbf3ddf">AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck</a> (<a class="el" href="../../d1/d83/a08879.html">WorldObject</a> const *obj, <a class="el" href="../../d9/d33/a09227.html">Unit</a> const *funit, float range)</td></tr>
+<tr class="memitem:ab3a1ebf25ef0da5df75a5a6a8bbf3ddf"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/da5/a09863.html#ab3a1ebf25ef0da5df75a5a6a8bbf3ddf">AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck</a> (<a class="el" href="../../d4/d08/a08883.html">WorldObject</a> const *obj, <a class="el" href="../../d9/d33/a09227.html">Unit</a> const *funit, float range)</td></tr>
 <tr class="separator:ab3a1ebf25ef0da5df75a5a6a8bbf3ddf"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2b38f9e66b1ba3bb678d763937852e02"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/da5/a09863.html#a2b38f9e66b1ba3bb678d763937852e02">operator()</a> (<a class="el" href="../../d9/d33/a09227.html">Unit</a> *u)</td></tr>
 <tr class="separator:a2b38f9e66b1ba3bb678d763937852e02"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:a65245ce627d5ccfde557f2d7e744ead6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/d83/a08879.html">WorldObject</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/da5/a09863.html#a65245ce627d5ccfde557f2d7e744ead6">i_obj</a></td></tr>
+<tr class="memitem:a65245ce627d5ccfde557f2d7e744ead6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d08/a08883.html">WorldObject</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/da5/a09863.html#a65245ce627d5ccfde557f2d7e744ead6">i_obj</a></td></tr>
 <tr class="separator:a65245ce627d5ccfde557f2d7e744ead6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aed6fe2e6d17e2076a373b32de071cd18"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d33/a09227.html">Unit</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/da5/a09863.html#aed6fe2e6d17e2076a373b32de071cd18">i_funit</a></td></tr>
 <tr class="separator:aed6fe2e6d17e2076a373b32de071cd18"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -144,7 +144,7 @@ Private Attributes</h2></td></tr>
         <tr>
           <td class="memname">Acore::AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck::AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d1/d83/a08879.html">WorldObject</a> const *&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d4/d08/a08883.html">WorldObject</a> const *&#160;</td>
           <td class="paramname"><em>obj</em>, </td>
         </tr>
         <tr>
@@ -204,26 +204,26 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno"> 1153</span>        {</div>
-<div class="line"><span class="lineno"> 1154</span>            <span class="keywordflow">if</span> (!u-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#a5ea3f54af571493f7889220724667189">IsAlive</a>() || u-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#a4af419c3eef4085ecaad8fd08e536800">HasUnitFlag</a>(<a class="code hl_enumvalue" href="../../dd/ddc/a01802.html#affdd0d554c8bcaaa85a879f5a9d60934a2ecf000dcea1c08aeb8721570707f922">UNIT_FLAG_NON_ATTACKABLE</a> | <a class="code hl_enumvalue" href="../../dd/ddc/a01802.html#affdd0d554c8bcaaa85a879f5a9d60934a8b7b8fe906282847f5f337728d4a534f">UNIT_FLAG_NOT_SELECTABLE</a>) || (u-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#aeed924120267a3f71ceea1851ba33022">IsImmuneToPC</a>() &amp;&amp; !u-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#af5e75d013dfa8a8b888d7714992e3f2a">IsInCombat</a>()))</div>
+<div class="line"><span class="lineno"> 1154</span>            <span class="keywordflow">if</span> (!u-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#a5ea3f54af571493f7889220724667189">IsAlive</a>() || u-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#a4af419c3eef4085ecaad8fd08e536800">HasUnitFlag</a>(<a class="code hl_enumvalue" href="../../d9/d33/a03269.html#affdd0d554c8bcaaa85a879f5a9d60934a2ecf000dcea1c08aeb8721570707f922">UNIT_FLAG_NON_ATTACKABLE</a> | <a class="code hl_enumvalue" href="../../d9/d33/a03269.html#affdd0d554c8bcaaa85a879f5a9d60934a8b7b8fe906282847f5f337728d4a534f">UNIT_FLAG_NOT_SELECTABLE</a>) || (u-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#aeed924120267a3f71ceea1851ba33022">IsImmuneToPC</a>() &amp;&amp; !u-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#af5e75d013dfa8a8b888d7714992e3f2a">IsInCombat</a>()))</div>
 <div class="line"><span class="lineno"> 1155</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1156</span>            <span class="keywordflow">if</span> (u-&gt;<a class="code hl_function" href="../../d1/d76/a08843.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>() == <a class="code hl_variable" href="../../db/da5/a09863.html#aed6fe2e6d17e2076a373b32de071cd18">i_funit</a>-&gt;<a class="code hl_function" href="../../d1/d76/a08843.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>())</div>
+<div class="line"><span class="lineno"> 1156</span>            <span class="keywordflow">if</span> (u-&gt;<a class="code hl_function" href="../../d9/d6f/a08847.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>() == <a class="code hl_variable" href="../../db/da5/a09863.html#aed6fe2e6d17e2076a373b32de071cd18">i_funit</a>-&gt;<a class="code hl_function" href="../../d9/d6f/a08847.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>())</div>
 <div class="line"><span class="lineno"> 1157</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno"> 1158</span> </div>
-<div class="line"><span class="lineno"> 1159</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/da5/a09863.html#a65245ce627d5ccfde557f2d7e744ead6">i_obj</a>-&gt;<a class="code hl_function" href="../../d1/d83/a08879.html#aaeea293a6966a717f17113370d364168">IsWithinDistInMap</a>(u, <a class="code hl_variable" href="../../db/da5/a09863.html#aff91ead572f2ed0d1912dbd0180196d5">i_range</a>))</div>
+<div class="line"><span class="lineno"> 1159</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/da5/a09863.html#a65245ce627d5ccfde557f2d7e744ead6">i_obj</a>-&gt;<a class="code hl_function" href="../../d4/d08/a08883.html#aaeea293a6966a717f17113370d364168">IsWithinDistInMap</a>(u, <a class="code hl_variable" href="../../db/da5/a09863.html#aff91ead572f2ed0d1912dbd0180196d5">i_range</a>))</div>
 <div class="line"><span class="lineno"> 1160</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno"> 1161</span> </div>
 <div class="line"><span class="lineno"> 1162</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno"> 1163</span>        }</div>
-<div class="ttc" id="aa01802_html_affdd0d554c8bcaaa85a879f5a9d60934a2ecf000dcea1c08aeb8721570707f922"><div class="ttname"><a href="../../dd/ddc/a01802.html#affdd0d554c8bcaaa85a879f5a9d60934a2ecf000dcea1c08aeb8721570707f922">UNIT_FLAG_NON_ATTACKABLE</a></div><div class="ttdeci">@ UNIT_FLAG_NON_ATTACKABLE</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:258</div></div>
-<div class="ttc" id="aa01802_html_affdd0d554c8bcaaa85a879f5a9d60934a8b7b8fe906282847f5f337728d4a534f"><div class="ttname"><a href="../../dd/ddc/a01802.html#affdd0d554c8bcaaa85a879f5a9d60934a8b7b8fe906282847f5f337728d4a534f">UNIT_FLAG_NOT_SELECTABLE</a></div><div class="ttdeci">@ UNIT_FLAG_NOT_SELECTABLE</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:282</div></div>
-<div class="ttc" id="aa08843_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../d1/d76/a08843.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition:</b> Object.h:120</div></div>
-<div class="ttc" id="aa08879_html_aaeea293a6966a717f17113370d364168"><div class="ttname"><a href="../../d1/d83/a08879.html#aaeea293a6966a717f17113370d364168">WorldObject::IsWithinDistInMap</a></div><div class="ttdeci">bool IsWithinDistInMap(WorldObject const *obj, float dist2compare, bool is3D=true, bool incOwnRadius=true, bool incTargetRadius=true) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1386</div></div>
-<div class="ttc" id="aa09227_html_a4af419c3eef4085ecaad8fd08e536800"><div class="ttname"><a href="../../d9/d33/a09227.html#a4af419c3eef4085ecaad8fd08e536800">Unit::HasUnitFlag</a></div><div class="ttdeci">bool HasUnitFlag(UnitFlags flags) const</div><div class="ttdef"><b>Definition:</b> Unit.h:748</div></div>
-<div class="ttc" id="aa09227_html_a5ea3f54af571493f7889220724667189"><div class="ttname"><a href="../../d9/d33/a09227.html#a5ea3f54af571493f7889220724667189">Unit::IsAlive</a></div><div class="ttdeci">bool IsAlive() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1796</div></div>
-<div class="ttc" id="aa09227_html_aeed924120267a3f71ceea1851ba33022"><div class="ttname"><a href="../../d9/d33/a09227.html#aeed924120267a3f71ceea1851ba33022">Unit::IsImmuneToPC</a></div><div class="ttdeci">bool IsImmuneToPC() const</div><div class="ttdef"><b>Definition:</b> Unit.h:933</div></div>
-<div class="ttc" id="aa09227_html_af5e75d013dfa8a8b888d7714992e3f2a"><div class="ttname"><a href="../../d9/d33/a09227.html#af5e75d013dfa8a8b888d7714992e3f2a">Unit::IsInCombat</a></div><div class="ttdeci">bool IsInCombat() const</div><div class="ttdef"><b>Definition:</b> Unit.h:941</div></div>
+<div class="ttc" id="aa03269_html_affdd0d554c8bcaaa85a879f5a9d60934a2ecf000dcea1c08aeb8721570707f922"><div class="ttname"><a href="../../d9/d33/a03269.html#affdd0d554c8bcaaa85a879f5a9d60934a2ecf000dcea1c08aeb8721570707f922">UNIT_FLAG_NON_ATTACKABLE</a></div><div class="ttdeci">@ UNIT_FLAG_NON_ATTACKABLE</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:258</div></div>
+<div class="ttc" id="aa03269_html_affdd0d554c8bcaaa85a879f5a9d60934a8b7b8fe906282847f5f337728d4a534f"><div class="ttname"><a href="../../d9/d33/a03269.html#affdd0d554c8bcaaa85a879f5a9d60934a8b7b8fe906282847f5f337728d4a534f">UNIT_FLAG_NOT_SELECTABLE</a></div><div class="ttdeci">@ UNIT_FLAG_NOT_SELECTABLE</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:282</div></div>
+<div class="ttc" id="aa08847_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../d9/d6f/a08847.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition:</b> Object.h:120</div></div>
+<div class="ttc" id="aa08883_html_aaeea293a6966a717f17113370d364168"><div class="ttname"><a href="../../d4/d08/a08883.html#aaeea293a6966a717f17113370d364168">WorldObject::IsWithinDistInMap</a></div><div class="ttdeci">bool IsWithinDistInMap(WorldObject const *obj, float dist2compare, bool is3D=true, bool incOwnRadius=true, bool incTargetRadius=true) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1386</div></div>
+<div class="ttc" id="aa09227_html_a4af419c3eef4085ecaad8fd08e536800"><div class="ttname"><a href="../../d9/d33/a09227.html#a4af419c3eef4085ecaad8fd08e536800">Unit::HasUnitFlag</a></div><div class="ttdeci">bool HasUnitFlag(UnitFlags flags) const</div><div class="ttdef"><b>Definition:</b> Unit.h:750</div></div>
+<div class="ttc" id="aa09227_html_a5ea3f54af571493f7889220724667189"><div class="ttname"><a href="../../d9/d33/a09227.html#a5ea3f54af571493f7889220724667189">Unit::IsAlive</a></div><div class="ttdeci">bool IsAlive() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1798</div></div>
+<div class="ttc" id="aa09227_html_aeed924120267a3f71ceea1851ba33022"><div class="ttname"><a href="../../d9/d33/a09227.html#aeed924120267a3f71ceea1851ba33022">Unit::IsImmuneToPC</a></div><div class="ttdeci">bool IsImmuneToPC() const</div><div class="ttdef"><b>Definition:</b> Unit.h:935</div></div>
+<div class="ttc" id="aa09227_html_af5e75d013dfa8a8b888d7714992e3f2a"><div class="ttname"><a href="../../d9/d33/a09227.html#af5e75d013dfa8a8b888d7714992e3f2a">Unit::IsInCombat</a></div><div class="ttdeci">bool IsInCombat() const</div><div class="ttdef"><b>Definition:</b> Unit.h:943</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00120">Object::GetGUID()</a>, <a class="el" href="../../#l00748">Unit::HasUnitFlag()</a>, <a class="el" href="../../#l01166">i_funit</a>, <a class="el" href="../../#l01165">i_obj</a>, <a class="el" href="../../#l01167">i_range</a>, <a class="el" href="../../#l01796">Unit::IsAlive()</a>, <a class="el" href="../../#l00933">Unit::IsImmuneToPC()</a>, <a class="el" href="../../#l00941">Unit::IsInCombat()</a>, <a class="el" href="../../#l01386">WorldObject::IsWithinDistInMap()</a>, <a class="el" href="../../#l00258">UNIT_FLAG_NON_ATTACKABLE</a>, and <a class="el" href="../../#l00282">UNIT_FLAG_NOT_SELECTABLE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00120">Object::GetGUID()</a>, <a class="el" href="../../#l00750">Unit::HasUnitFlag()</a>, <a class="el" href="../../#l01166">i_funit</a>, <a class="el" href="../../#l01165">i_obj</a>, <a class="el" href="../../#l01167">i_range</a>, <a class="el" href="../../#l01798">Unit::IsAlive()</a>, <a class="el" href="../../#l00935">Unit::IsImmuneToPC()</a>, <a class="el" href="../../#l00943">Unit::IsInCombat()</a>, <a class="el" href="../../#l01386">WorldObject::IsWithinDistInMap()</a>, <a class="el" href="../../#l00258">UNIT_FLAG_NON_ATTACKABLE</a>, and <a class="el" href="../../#l00282">UNIT_FLAG_NOT_SELECTABLE</a>.</p>
 
 </div>
 </div>
@@ -262,7 +262,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d1/d83/a08879.html">WorldObject</a> const* Acore::AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck::i_obj</td>
+          <td class="memname"><a class="el" href="../../d4/d08/a08883.html">WorldObject</a> const* Acore::AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck::i_obj</td>
         </tr>
       </table>
   </td>
@@ -305,8 +305,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d5/d87/a05118.html">Acore</a></li><li class="navelem"><a class="el" href="../../db/da5/a09863.html">AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck</a></li>
-    <li class="footer">Generated on Mon Sep 21 2026 23:34:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dd/db3/a05121.html">Acore</a></li><li class="navelem"><a class="el" href="../../db/da5/a09863.html">AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck</a></li>
+    <li class="footer">Generated on Tue Sep 29 2026 01:14:19 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

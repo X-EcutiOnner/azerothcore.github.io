@@ -1,6 +1,8 @@
 var a22243 =
 [
-    [ "npc_boneguard_footmanAI", "de/d08/a22247.html", "de/d08/a22247" ],
-    [ "npc_boneguard_footman", "d4/d8a/a22243.html#aba17f89b9546deff5401ad33224b2b3e", null ],
-    [ "GetAI", "d4/d8a/a22243.html#ab0b28f61e26f701db17a0d19bbde4492", null ]
+    [ "npc_llod_genericAI", "d4/d8a/a22243.html#ac75d85ae4b59416952788102cd1db132", null ],
+    [ "Reset", "d4/d8a/a22243.html#a15bd7442fef36a551cc8797f7919f57c", null ],
+    [ "UpdateAI", "d4/d8a/a22243.html#aa7dce553fb699127f63281b2c47a2f02", null ],
+    [ "attackTimer", "d4/d8a/a22243.html#a28a6e700d24995e477e7e7c4cc8b5d68", null ],
+    [ "summonTimer", "d4/d8a/a22243.html#aeeeef545aee565c14d86d8587923c677", null ]
 ];

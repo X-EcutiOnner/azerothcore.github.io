@@ -1,8 +1,13 @@
 var a16023 =
 [
-    [ "npc_aged_dying_ancient_kodo", "d6/dde/a16023.html#a8707efb78e29b5a3443b0f4d9ee1798b", null ],
-    [ "JustRespawned", "d6/dde/a16023.html#ab401f9002bd49b26cc0526112e715d1e", null ],
-    [ "MoveInLineOfSight", "d6/dde/a16023.html#a2bed1b0965414682dec6f6e4b2872d33", null ],
-    [ "sGossipHello", "d6/dde/a16023.html#a8bd41050426cdee7da37d1370e5a7363", null ],
-    [ "SpellHit", "d6/dde/a16023.html#a24a0324d7a6bd4d05da76469b14720ac", null ]
+    [ "npc_tharnarianAI", "d6/dde/a16023.html#a8e22d45f6420aa8079f8fb7150a2a53a", null ],
+    [ "Initialize", "d6/dde/a16023.html#ad1d89491b42a56406273a04045e7e91d", null ],
+    [ "Reset", "d6/dde/a16023.html#a7de1f46bee4e79effc5dbb405854a7da", null ],
+    [ "SetGUID", "d6/dde/a16023.html#a8717a30828b91853ceba1b5e62126f29", null ],
+    [ "sGossipSelect", "d6/dde/a16023.html#a33b5898def48e17ba27363b98f51849b", null ],
+    [ "UpdateAI", "d6/dde/a16023.html#a1e58a89064bdfb69e4445db72184d8b3", null ],
+    [ "_bearGUID", "d6/dde/a16023.html#af7a116b8226ddb51e9f0f118f2d8fa22", null ],
+    [ "_events", "d6/dde/a16023.html#aff73052a4b7407d760af3dde09fa8a07", null ],
+    [ "_facing", "d6/dde/a16023.html#ad2120fffc0ffa93d4fca1e9e8c0a4371", null ],
+    [ "_scriptRunning", "d6/dde/a16023.html#a5be50b02cc8ce2e7b4dd334e923a7c10", null ]
 ];

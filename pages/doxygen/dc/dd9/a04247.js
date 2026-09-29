@@ -1,43 +1,36 @@
 var a04247 =
 [
-    [ "npc_ranger_lilatha", "d9/d72/a14099.html", "d9/d72/a14099" ],
-    [ "npc_sentinel_leader", "d0/d42/a14103.html", "d0/d42/a14103" ],
-    [ "npc_sentinel_infiltrator", "d0/d52/a14107.html", "d0/d52/a14107" ],
-    [ "RangerLilatha", "dc/dd9/a04247.html#a74dc890829d87be230ff5350c12e090a", [
-      [ "SAY_START", "dc/dd9/a04247.html#a74dc890829d87be230ff5350c12e090aa2eae21cbf7d110ee89a9798ef6f00239", null ],
-      [ "SAY_PROGRESS1", "dc/dd9/a04247.html#a74dc890829d87be230ff5350c12e090aa1a7ff39fa30eb8719e4a1d4d8eea41bd", null ],
-      [ "SAY_PROGRESS2", "dc/dd9/a04247.html#a74dc890829d87be230ff5350c12e090aa6b66c233baa6dd334abb1b7798066894", null ],
-      [ "SAY_PROGRESS3", "dc/dd9/a04247.html#a74dc890829d87be230ff5350c12e090aa541cce8e829316638c92542a766209b6", null ],
-      [ "SAY_END1", "dc/dd9/a04247.html#a74dc890829d87be230ff5350c12e090aa944891a3d2f715c9e1c8f47d65f16eca", null ],
-      [ "SAY_END2", "dc/dd9/a04247.html#a74dc890829d87be230ff5350c12e090aaa0efc3eab3d2447cc17568f7ceed8cba", null ],
-      [ "SAY_CAPTAIN_ANSWER", "dc/dd9/a04247.html#a74dc890829d87be230ff5350c12e090aaf92ec5f68682db4db5c776edd0e207c0", null ],
-      [ "QUEST_ESCAPE_FROM_THE_CATACOMBS", "dc/dd9/a04247.html#a74dc890829d87be230ff5350c12e090aaf838b4afb069e6a501691db32ccd1e16", null ],
-      [ "GO_CAGE", "dc/dd9/a04247.html#a74dc890829d87be230ff5350c12e090aab8d35951eed2c9e47bed2aa4da3fab8b", null ],
-      [ "NPC_CAPTAIN_HELIOS", "dc/dd9/a04247.html#a74dc890829d87be230ff5350c12e090aaf9140f9834cba6679a2dd4d3dccc02a8", null ],
-      [ "NPC_MUMMIFIED_HEADHUNTER", "dc/dd9/a04247.html#a74dc890829d87be230ff5350c12e090aa981d62936965028299a53927f91db057", null ],
-      [ "NPC_SHADOWPINE_ORACLE", "dc/dd9/a04247.html#a74dc890829d87be230ff5350c12e090aa84adb37d4c2fc9348d6fc31abfd0306a", null ]
+    [ "BfCapturePoint", "da/da3/a07619.html", "da/da3/a07619" ],
+    [ "BfGraveyard", "d4/d4f/a07623.html", "d4/d4f/a07623" ],
+    [ "Battlefield", "d9/d95/a07627.html", "d9/d95/a07627" ],
+    [ "GraveyardVect", "dc/dd9/a04247.html#a9d81160ef5262b2f7a9dc65170d7f3e5", null ],
+    [ "PlayerTimerMap", "dc/dd9/a04247.html#afedbb171b4e4bd0bce549b015440ce95", null ],
+    [ "BattlefieldIDs", "dc/dd9/a04247.html#aff53bf428d550c270744c9a188d4187f", [
+      [ "BATTLEFIELD_BATTLEID_WG", "dc/dd9/a04247.html#aff53bf428d550c270744c9a188d4187fa38e75e8c40750cb29f0d478d19974010", null ]
     ] ],
-    [ "SentinelInfiltrator", "dc/dd9/a04247.html#a0b373714eadff6852c9ed5560abd70e5", [
-      [ "EMOTE_FLEE", "dc/dd9/a04247.html#a0b373714eadff6852c9ed5560abd70e5a9d88a2f0a0929d045f07a5386f6a4431", null ],
-      [ "EVENT_TALK2", "dc/dd9/a04247.html#a0b373714eadff6852c9ed5560abd70e5a5fbd3336be08db01eeeefc355f4fa541", null ],
-      [ "EVENT_QUESTION2", "dc/dd9/a04247.html#a0b373714eadff6852c9ed5560abd70e5a16f3686cedbbcd372b458f36b8fef69d", null ],
-      [ "EVENT_EXCLAMATION", "dc/dd9/a04247.html#a0b373714eadff6852c9ed5560abd70e5a235ba44e8ac06bf6c5da1072784d2736", null ],
-      [ "EVENT_SALUTE", "dc/dd9/a04247.html#a0b373714eadff6852c9ed5560abd70e5a20c28745aea8562e2f30166e0ceec0ea", null ],
-      [ "EVENT_GOUGE2", "dc/dd9/a04247.html#a0b373714eadff6852c9ed5560abd70e5a9c0323353380c86a1dd4583ba40430da", null ],
-      [ "EVENT_BACKSTAB2", "dc/dd9/a04247.html#a0b373714eadff6852c9ed5560abd70e5aaf1d9b7bb592c2a5e42e3e0f3e2671cc", null ],
-      [ "NPC_SENTINEL_INFILTRATOR", "dc/dd9/a04247.html#a0b373714eadff6852c9ed5560abd70e5a7cb437b950b46596afc196f0864a74fe", null ],
-      [ "PATH_ONE", "dc/dd9/a04247.html#a0b373714eadff6852c9ed5560abd70e5a9dabcd3a092570c71edfb732f847d854", null ],
-      [ "PATH_TWO", "dc/dd9/a04247.html#a0b373714eadff6852c9ed5560abd70e5a5c1049e5a354a320e8c4ead179675760", null ],
-      [ "SPELL_GOUGE", "dc/dd9/a04247.html#a0b373714eadff6852c9ed5560abd70e5ad29cb58b32c3fccaec3fde84e2355de6", null ]
+    [ "BattlefieldObjectiveStates", "dc/dd9/a04247.html#af6db5a1d93982b261639cd12634a2798", [
+      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL", "dc/dd9/a04247.html#af6db5a1d93982b261639cd12634a2798afafb6299c9f30c2bd0d2caac21577178", null ],
+      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_ALLIANCE", "dc/dd9/a04247.html#af6db5a1d93982b261639cd12634a2798ac05149e43f48e8fbe687c2cb48a88ac7", null ],
+      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_HORDE", "dc/dd9/a04247.html#af6db5a1d93982b261639cd12634a2798a683078aa231d432a72923b9eff4d5a29", null ],
+      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL_ALLIANCE_CHALLENGE", "dc/dd9/a04247.html#af6db5a1d93982b261639cd12634a2798a47f8021bf59a901b2a512d28cc044c7f", null ],
+      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL_HORDE_CHALLENGE", "dc/dd9/a04247.html#af6db5a1d93982b261639cd12634a2798a28c520f0b5997a10c6e8c040d803a9d5", null ],
+      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_ALLIANCE_HORDE_CHALLENGE", "dc/dd9/a04247.html#af6db5a1d93982b261639cd12634a2798a9c9e1d966e139a18ba54ee2c2fa0bc2b", null ],
+      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_HORDE_ALLIANCE_CHALLENGE", "dc/dd9/a04247.html#af6db5a1d93982b261639cd12634a2798af7b31d0894d6b9bd950d9a48c86da7c4", null ]
     ] ],
-    [ "SentinelLeader", "dc/dd9/a04247.html#acb58e7629bec88c770da1efed549d96c", [
-      [ "EVENT_QUESTION", "dc/dd9/a04247.html#acb58e7629bec88c770da1efed549d96cae7206febd87cb3058c3f99ed717131a7", null ],
-      [ "EVENT_TALK", "dc/dd9/a04247.html#acb58e7629bec88c770da1efed549d96cad8d5fcaf7b3bfdd91e6337d222c1620f", null ],
-      [ "EVENT_SINISTER_STRIKE", "dc/dd9/a04247.html#acb58e7629bec88c770da1efed549d96ca23b5677e1eb390f2bbe16d2b30a05498", null ],
-      [ "EVENT_BACKSTAB", "dc/dd9/a04247.html#acb58e7629bec88c770da1efed549d96ca1c1d8055d31bb2fb8238437b243852ca", null ],
-      [ "NPC_SENTINEL_SPY", "dc/dd9/a04247.html#acb58e7629bec88c770da1efed549d96cae75b24a241dff855e6dc0e3d51e0c9e9", null ],
-      [ "SPELL_SINISTER_STRIKE", "dc/dd9/a04247.html#acb58e7629bec88c770da1efed549d96ca3217132d497cc70e674432067fd431a7", null ],
-      [ "SPELL_BACKSTAB", "dc/dd9/a04247.html#acb58e7629bec88c770da1efed549d96ca4ff7524487add866a452db82c2791b68", null ]
+    [ "BattlefieldSounds", "dc/dd9/a04247.html#a7c3836172413cb3b2cdabeb20b99f1b4", [
+      [ "BF_HORDE_WINS", "dc/dd9/a04247.html#a7c3836172413cb3b2cdabeb20b99f1b4af85d42c135f0c26853ba8465193e8f3a", null ],
+      [ "BF_ALLIANCE_WINS", "dc/dd9/a04247.html#a7c3836172413cb3b2cdabeb20b99f1b4ae1455c543e0df55993ddfe9e73cdc138", null ],
+      [ "BF_START", "dc/dd9/a04247.html#a7c3836172413cb3b2cdabeb20b99f1b4a586da22ef0e5767a451125b0ca064007", null ]
     ] ],
-    [ "AddSC_ghostlands", "dc/dd9/a04247.html#a1093517f6bb08d3a1c9e52cf36b6a054", null ]
+    [ "BattlefieldTimerGroups", "dc/dd9/a04247.html#a77a99318a19e388592eb16534ef2005a", [
+      [ "BATTLEFIELD_TIMER_GROUP_RESURRECT", "dc/dd9/a04247.html#a77a99318a19e388592eb16534ef2005aa2af7f1dd6b4f9748b1f6b523cb6ac117", null ],
+      [ "BATTLEFIELD_TIMER_GROUP_WAR", "dc/dd9/a04247.html#a77a99318a19e388592eb16534ef2005aac21d9aa508e0c587d18daaf8fbdf7cf2", null ],
+      [ "BATTLEFIELD_TIMER_GROUP_SAVE", "dc/dd9/a04247.html#a77a99318a19e388592eb16534ef2005aac940a59178a27dc5a2e77238ca2efd55", null ]
+    ] ],
+    [ "BattlefieldTypes", "dc/dd9/a04247.html#a6f435417da35c7d1b51c95e516fc6b2d", [
+      [ "BATTLEFIELD_WG", "dc/dd9/a04247.html#a6f435417da35c7d1b51c95e516fc6b2da1fc74ab91b471d0c59f02fea08cb2efd", null ],
+      [ "BATTLEFIELD_TB", "dc/dd9/a04247.html#a6f435417da35c7d1b51c95e516fc6b2daf6a0681946ddb59a6623fb1d76f4f610", null ]
+    ] ],
+    [ "BATTLEFIELD_OBJECTIVE_UPDATE_INTERVAL", "dc/dd9/a04247.html#a79df696836c3edc53ca1868aab7f6e76", null ],
+    [ "BattlefieldFactions", "dc/dd9/a04247.html#af5e231859535c4e1e6bd27ee42753f63", null ]
 ];

@@ -1,8 +1,8 @@
 var a12871 =
 [
-    [ "boss_highlord_omokk", "d2/dee/a12871.html#a31dd2c47b3ed33fa65d3b6a7a5cb384c", null ],
-    [ "JustDied", "d2/dee/a12871.html#a2a8931227eb65759ceebd27919976cb5", null ],
-    [ "JustEngagedWith", "d2/dee/a12871.html#a0bd4e1e0f72a0b6a8792d508c401caf8", null ],
-    [ "Reset", "d2/dee/a12871.html#ada6bf702dc1827e60b558b4fb752b789", null ],
-    [ "UpdateAI", "d2/dee/a12871.html#a131ebd1dd8d95c7d910af1b21442c861", null ]
+    [ "boss_halycon", "d2/dee/a12871.html#a8a88f0d26b4702fd1b4f015cc1366362", null ],
+    [ "JustDied", "d2/dee/a12871.html#a48bd1245ac5b76dac543a4389a8b37be", null ],
+    [ "JustEngagedWith", "d2/dee/a12871.html#a3f6ca689777e1aa43a214e8082897db1", null ],
+    [ "Reset", "d2/dee/a12871.html#a3b972bfcac3498c921978eab1d8fec4f", null ],
+    [ "UpdateAI", "d2/dee/a12871.html#acc375743131ce5643d04ae355b6d68b4", null ]
 ];

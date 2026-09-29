@@ -1,6 +1,6 @@
 var a20195 =
 [
-    [ "HandlePeriodic", "de/de0/a20195.html#a0a77c0b232e24e5cb8b3392ac8adbd3a", null ],
-    [ "PrepareAuraScript", "de/de0/a20195.html#a7c6b6839da4a93f656800c9ae174c832", null ],
-    [ "Register", "de/de0/a20195.html#ae28e67baa12488e248efd46ef5a7cb11", null ]
+    [ "go_celestial_planetarium_accessAI", "d2/d86/a20199.html", "d2/d86/a20199" ],
+    [ "go_celestial_planetarium_access", "de/de0/a20195.html#a20b7c895dd0fc2cb37bf3c113bf91278", null ],
+    [ "GetAI", "de/de0/a20195.html#a4fc9ac64f7dceefbdda02297f7dfc42b", null ]
 ];

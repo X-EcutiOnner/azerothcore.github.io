@@ -1,7 +1,11 @@
 var a19683 =
 [
-    [ "OnPeriodic", "d9/dbd/a19683.html#ae685e9d36b85af8a7e33cefbd439a2f4", null ],
-    [ "PrepareAuraScript", "d9/dbd/a19683.html#a1362103840db4b3c40ef7d6b0aa5226c", null ],
-    [ "Register", "d9/dbd/a19683.html#a39b03ebd7f6233f373f52e34f18dad10", null ],
-    [ "Validate", "d9/dbd/a19683.html#a54cfed486827216817adb740efa6646e", null ]
+    [ "boss_maexxnaAI", "d9/dbd/a19683.html#a3bf898911798eaa891ef7638a3a2cc20", null ],
+    [ "DoCastWebWrap", "d9/dbd/a19683.html#a5d78455f5ba6e30df6644897b4e6ad7e", null ],
+    [ "IsInRoom", "d9/dbd/a19683.html#a957bd38232c020611fc24dd8a6e55640", null ],
+    [ "JustEngagedWith", "d9/dbd/a19683.html#a9974fc771b3663878964aeb20914fe43", null ],
+    [ "JustSummoned", "d9/dbd/a19683.html#ab45b74b3067b42089fee804844ea41dd", null ],
+    [ "KilledUnit", "d9/dbd/a19683.html#a11cda2b905ef2381c317a01e4163be00", null ],
+    [ "UpdateAI", "d9/dbd/a19683.html#a6f0453babfa84764467970369894eb97", null ],
+    [ "wraps", "d9/dbd/a19683.html#a3bfe3ab90ff6f401c3f7b8655e3abc05", null ]
 ];

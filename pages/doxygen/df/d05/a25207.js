@@ -1,6 +1,5 @@
 var a25207 =
 [
-    [ "CheckProc", "df/d05/a25207.html#ad1678a96784add01965d67c3d86bcd77", null ],
-    [ "PrepareAuraScript", "df/d05/a25207.html#a6e164a8e3482b566b776c5ffeeb1b6ac", null ],
-    [ "Register", "df/d05/a25207.html#a148f3fe7ee4bdc8e148fe71100779e56", null ]
+    [ "PrepareSpellScript", "df/d05/a25207.html#a2d0e411f3b4a9efed35ee34c7bf03252", null ],
+    [ "Register", "df/d05/a25207.html#a560ff22e718e8a975a2e2dc2340da917", null ]
 ];

@@ -1,6 +1,6 @@
 var a26019 =
 [
-    [ "HandleDummy", "d1/dd8/a26019.html#a7b56d07d46647a2790553d40e75da79d", null ],
-    [ "PrepareSpellScript", "d1/dd8/a26019.html#aad36c108f4531c19ba552064ba0d3248", null ],
-    [ "Register", "d1/dd8/a26019.html#a754fcf618f53b4b17c2bcae4740e561f", null ]
+    [ "HandleDummy", "d1/dd8/a26019.html#aafc9efb0f8070566579724853a88ab03", null ],
+    [ "PrepareSpellScript", "d1/dd8/a26019.html#a248c1203a4f15b2cd60afed9fa33cb59", null ],
+    [ "Register", "d1/dd8/a26019.html#a362e2ab6921aaa0c10b70795a5eda0de", null ]
 ];

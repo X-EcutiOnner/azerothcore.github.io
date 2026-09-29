@@ -1,12 +1,15 @@
 var a12711 =
 [
-    [ "wp_commandscript", "d6/d72/a12711.html#a152610b5faf3ee05bb830bbf820b7162", null ],
-    [ "GetCommands", "d6/d72/a12711.html#a55ecc8d67d7c240df1b177f755fc5850", null ],
-    [ "HandleWpAddCommand", "d6/d72/a12711.html#a345a8c5a2b449dc228433b2922caab0e", null ],
-    [ "HandleWpEventCommand", "d6/d72/a12711.html#a7b9355e52cb6870e7cdec7206f800832", null ],
-    [ "HandleWpLoadCommand", "d6/d72/a12711.html#a5849689f5cd186e8fc1f91ebd5f5a21a", null ],
-    [ "HandleWpModifyCommand", "d6/d72/a12711.html#a9a3e68e19f2324783bbe9ed9fe1c3ac6", null ],
-    [ "HandleWpReloadCommand", "d6/d72/a12711.html#ae7015c0f94ca5688210d890b636a586d", null ],
-    [ "HandleWpShowCommand", "d6/d72/a12711.html#a265f60ddec02a2f24b011ccdebefa89e", null ],
-    [ "HandleWpUnLoadCommand", "d6/d72/a12711.html#a4f0a252f625e49593ad6a03086a8c7ad", null ]
+    [ "worldstate_commandscript", "d6/d72/a12711.html#aa409f7a2baed14a591d9567d1fb1ffcf", null ],
+    [ "GetCommands", "d6/d72/a12711.html#a9c2b9e6f00727da760ca2be2c0c1aff7", null ],
+    [ "HandleScourgeInvasionBattlesWonCommand", "d6/d72/a12711.html#a1c2167ce554327d674161b7c4f63585c", null ],
+    [ "HandleScourgeInvasionCommand", "d6/d72/a12711.html#a11aeedef82a93f8799fd788a8c492335", null ],
+    [ "HandleScourgeInvasionStartZone", "d6/d72/a12711.html#af242372bd32ed79d839af82f82423837", null ],
+    [ "HandleScourgeInvasionStateCommand", "d6/d72/a12711.html#a5ba0b973087f921dbb764037c8b36134", null ],
+    [ "HandleSunsReachReclamationCounterCommand", "d6/d72/a12711.html#a78ccd5fd1fe4562d93f69199112044d2", null ],
+    [ "HandleSunsReachReclamationPhaseCommand", "d6/d72/a12711.html#a4b7049c1c9932b098441a3af4d7cd03c", null ],
+    [ "HandleSunsReachReclamationStatusCommand", "d6/d72/a12711.html#a1534e35532bc29b8d03594af30e4cdfa", null ],
+    [ "HandleSunsReachReclamationSubPhaseCommand", "d6/d72/a12711.html#a2307687ae1d3cb3f6e5237af4d8f8595", null ],
+    [ "HandleSunwellGateCommand", "d6/d72/a12711.html#a45b73e47c8e9b21063d02922a83e103b", null ],
+    [ "HandleSunwellGateCounterCommand", "d6/d72/a12711.html#a805ab7fa1900feeb3e3034263c3a0a4d", null ]
 ];

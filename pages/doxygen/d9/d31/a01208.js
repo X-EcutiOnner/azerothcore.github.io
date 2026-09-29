@@ -1,19 +1,9 @@
 var a01208 =
 [
-    [ "ArenaSeasonReward", "d3/d07/a07691.html", "d3/d07/a07691" ],
-    [ "ArenaSeasonRewardGroup", "de/dae/a07695.html", "de/dae/a07695" ],
-    [ "ArenaSeasonMgr", "d2/d61/a07699.html", "d2/d61/a07699" ],
-    [ "sArenaSeasonMgr", "d9/d31/a01208.html#ac46c94dc4c6cf0de37233cdd42a97ccf", null ],
-    [ "ArenaSeasonRewardGroupCriteriaType", "d9/d31/a01208.html#a983281e9aada2538d6bc53ae4dd4d266", [
-      [ "ARENA_SEASON_REWARD_CRITERIA_TYPE_PERCENT_VALUE", "d9/d31/a01208.html#a983281e9aada2538d6bc53ae4dd4d266a39f434bc965a3f4fafe78ece7d3f6422", null ],
-      [ "ARENA_SEASON_REWARD_CRITERIA_TYPE_ABSOLUTE_VALUE", "d9/d31/a01208.html#a983281e9aada2538d6bc53ae4dd4d266a80897ebd11175aa1dd3435611c86dd63", null ]
-    ] ],
-    [ "ArenaSeasonRewardType", "d9/d31/a01208.html#a89a1f93759bb943ff9ef0e4991579265", [
-      [ "ARENA_SEASON_REWARD_TYPE_ITEM", "d9/d31/a01208.html#a89a1f93759bb943ff9ef0e4991579265a124351d53a1d14813bc7af90043d8a32", null ],
-      [ "ARENA_SEASON_REWARD_TYPE_ACHIEVEMENT", "d9/d31/a01208.html#a89a1f93759bb943ff9ef0e4991579265ad12571a956e334946d72aa118f464444", null ]
-    ] ],
-    [ "ArenaSeasonState", "d9/d31/a01208.html#a64f8715fead51dc9727d105bce4d0e38", [
-      [ "ARENA_SEASON_STATE_DISABLED", "d9/d31/a01208.html#a64f8715fead51dc9727d105bce4d0e38ac019cd8397ba38ebc1d327c337d48017", null ],
-      [ "ARENA_SEASON_STATE_IN_PROGRESS", "d9/d31/a01208.html#a64f8715fead51dc9727d105bce4d0e38a455a35a5e6e89efd32818e52ca82f5f8", null ]
-    ] ]
+    [ "instance_ruby_sanctum", "dd/d69/a16795.html", "dd/d69/a16795" ],
+    [ "instance_ruby_sanctum::instance_ruby_sanctum_InstanceMapScript", "dc/dc7/a16799.html", "dc/dc7/a16799" ],
+    [ "spell_ruby_sanctum_rallying_shout", "db/db9/a16803.html", "db/db9/a16803" ],
+    [ "AddSC_instance_ruby_sanctum", "d9/d31/a01208.html#a93f8126d2e36ad7caab980f1c3f83a14", null ],
+    [ "boundaries", "d9/d31/a01208.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
+    [ "doorData", "d9/d31/a01208.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
 ];

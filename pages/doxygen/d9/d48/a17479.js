@@ -1,5 +1,8 @@
 var a17479 =
 [
-    [ "at_hor_battered_hilt_start", "d9/d48/a17479.html#a1b9e6d892525cf28d71757f7861e1d1a", null ],
-    [ "OnTrigger", "d9/d48/a17479.html#a5d2d0a05b17dafe7ebb5447cfd168f69", null ]
+    [ "npc_hor_risen_witch_doctor", "d9/d48/a17479.html#a68e2913f88427b1d6cb35351d9b749a0", null ],
+    [ "JustDied", "d9/d48/a17479.html#ac742da67a5624aebdbbbdc51378cfc82", null ],
+    [ "JustEngagedWith", "d9/d48/a17479.html#ae612bec2e909abb2574298f4a34116f3", null ],
+    [ "Reset", "d9/d48/a17479.html#a63b9343146a8c950f5d31f21cd5f4838", null ],
+    [ "UpdateAI", "d9/d48/a17479.html#a87948e1bac92033fa700e1c0ce27cbf5", null ]
 ];

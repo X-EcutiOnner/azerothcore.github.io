@@ -1,5 +1,11 @@
 var a30007 =
 [
-    [ "MakeTime", "d2/d6f/a30007.html#a26f7c5c9395291b98facf91b7ba9530b", null ],
-    [ "PackTwoDates", "d2/d6f/a30007.html#a62c6e33dcbd3970319b3f8a791063d15", null ]
+    [ "SetUp", "d2/d6f/a30007.html#a236c5547ff9855b39315642ec2e79c4e", null ],
+    [ "SimulateGmVisibleOff", "d2/d6f/a30007.html#a9276b43219f395a537a0ee51ab00905c", null ],
+    [ "SimulateGmVisibleOn", "d2/d6f/a30007.html#afc09b0c8806fbf445e25f8f194a8228b", null ],
+    [ "TearDown", "d2/d6f/a30007.html#a8fe66b3b0b3ba0d6f3393eb9a4fef3f2", null ],
+    [ "originalWorld", "d2/d6f/a30007.html#a8f7396466d2b20742f66e14462de96a4", null ],
+    [ "player", "d2/d6f/a30007.html#a97049ae029c9354fdf3194be77f36dfa", null ],
+    [ "session", "d2/d6f/a30007.html#a2f87ec522777defa8b023274b1d78c35", null ],
+    [ "worldMock", "d2/d6f/a30007.html#ae4caf6ccdfce680cce07d4759b2a4b54", null ]
 ];
