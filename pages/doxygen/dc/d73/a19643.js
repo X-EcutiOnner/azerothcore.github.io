@@ -1,17 +1,6 @@
 var a19643 =
 [
-    [ "boss_kelthuzadAI", "dc/d73/a19643.html#a3fa1e67bf942824cd40c5591f4e63a08", null ],
-    [ "EnterEvadeMode", "dc/d73/a19643.html#ac99064d95afff73680df1fe96749665a", null ],
-    [ "JustDied", "dc/d73/a19643.html#a49066a2fa1dc424a27262706c8af046a", null ],
-    [ "JustEngagedWith", "dc/d73/a19643.html#a8fd3938c0e91a0773eacba9fbdb4a60e", null ],
-    [ "JustSummoned", "dc/d73/a19643.html#a0b305ec3029d149c3ca273cb7ba52e1b", null ],
-    [ "KilledUnit", "dc/d73/a19643.html#ad2fa9b4d11b158e3fadf0c304be6b431", null ],
-    [ "MoveInLineOfSight", "dc/d73/a19643.html#a440b758486cd95b7884fe2ce9bdfb28f", null ],
-    [ "NormalizeOrientation", "dc/d73/a19643.html#a21ac290b79119d47b7509b04b34ea16e", null ],
-    [ "Reset", "dc/d73/a19643.html#a5df92ebc5bd4ee8d06b17e31381be8c4", null ],
-    [ "SpawnHelpers", "dc/d73/a19643.html#ad81fa9c3449ba347de09b1519be6d408", null ],
-    [ "SummonHelper", "dc/d73/a19643.html#a3a21a45072144b6f0421733466770267", null ],
-    [ "UpdateAI", "dc/d73/a19643.html#a3004d23e6eaa3f2ef5942e96e0c17308", null ],
-    [ "events", "dc/d73/a19643.html#a1ac1341c022c65f46b30a9c70b3f37ba", null ],
-    [ "summons", "dc/d73/a19643.html#a4b8a2fcda2e9f4e3944c3527dd6afb1e", null ]
+    [ "boss_kelthuzad_minionAI", "db/d6a/a19647.html", "db/d6a/a19647" ],
+    [ "boss_kelthuzad_minion", "dc/d73/a19643.html#a4c6d430035c964b4063139c0cda6bfff", null ],
+    [ "GetAI", "dc/d73/a19643.html#ab951068fedced148653ebf9124ba5e3d", null ]
 ];

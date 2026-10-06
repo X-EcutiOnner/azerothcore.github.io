@@ -1,6 +1,5 @@
 var a24611 =
 [
-    [ "DeathEvent", "d6/db9/a24611.html#a2fb9a98c077d715c4648aede6597276e", null ],
-    [ "Execute", "d6/db9/a24611.html#a497ac46ab1acf95816020fc6be8ce03a", null ],
-    [ "_owner", "d6/db9/a24611.html#a099d0d5ae50126f00220b3ed90907617", null ]
+    [ "npc_pet_pri_lightwell", "d6/db9/a24611.html#aebeb192e66c7d5b4201cbaa81d46703c", null ],
+    [ "InitializeAI", "d6/db9/a24611.html#a5244bcfab27ccad603f80c6f2b2fcd3a", null ]
 ];

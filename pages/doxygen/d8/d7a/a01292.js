@@ -1,8 +1,8 @@
 var a01292 =
 [
-    [ "boss_krik_thir", "d2/d1f/a16531.html", "d2/d1f/a16531" ],
-    [ "boss_krik_thir::boss_krik_thirAI", "da/dd3/a16535.html", "da/dd3/a16535" ],
-    [ "achievement_watch_him_die", "d1/d5e/a16539.html", "d1/d5e/a16539" ],
+    [ "boss_krik_thir", "d6/d5d/a16527.html", "d6/d5d/a16527" ],
+    [ "boss_krik_thir::boss_krik_thirAI", "d2/d1f/a16531.html", "d2/d1f/a16531" ],
+    [ "achievement_watch_him_die", "da/dd3/a16535.html", "da/dd3/a16535" ],
     [ "MiscActions", "d8/d7a/a01292.html#aa7ec8fb438fd13c8679ba17beac7d9a5", [
       [ "ACTION_MINION_ENGAGED", "d8/d7a/a01292.html#aa7ec8fb438fd13c8679ba17beac7d9a5a9773723ff03bcd3ed3dc47316b389d41", null ],
       [ "GROUP_SWARM", "d8/d7a/a01292.html#aa7ec8fb438fd13c8679ba17beac7d9a5ad254017654a1155ba1741f803917e01c", null ],
@@ -1507,6 +1507,9 @@ var a01292 =
       [ "SPELL_SUMMON_ANUBAR_CHAMPION", "d4/d34/a01298.html#a5bd342133be8c2137b831460acc9298ca955222dec7f2d59479819a182bd3ac76", null ],
       [ "SPELL_SUMMON_ANUBAR_CRYPT_FIEND", "d4/d34/a01298.html#a5bd342133be8c2137b831460acc9298caffad25e7761a107389a6d7c6486ec2c6", null ],
       [ "SPELL_SUMMON_ANUBAR_NECROMANCER", "d4/d34/a01298.html#a5bd342133be8c2137b831460acc9298caf07838be352ede03f94aa88b2ff632f0", null ],
+      [ "SPELL_SUMMON_ANUBAR_CHAMPION_LOWER", "d4/d34/a01298.html#a5bd342133be8c2137b831460acc9298cac36ff29f3b1e8b4527b0178d9e8a9ddd", null ],
+      [ "SPELL_SUMMON_ANUBAR_CRYPT_FIEND_LOWER", "d4/d34/a01298.html#a5bd342133be8c2137b831460acc9298ca3f22f063f72d9e3db3c81bdfbb87d320", null ],
+      [ "SPELL_SUMMON_ANUBAR_NECROMANCER_LOWER", "d4/d34/a01298.html#a5bd342133be8c2137b831460acc9298ca6f805b79f66c39af5dd9da9e9a347586", null ],
       [ "SPELL_SUMMON_ANUBAR_CHAMPION_PERIODIC", "d4/d34/a01298.html#a5bd342133be8c2137b831460acc9298ca78885d55af571d0af9d211ba340c50b0", null ],
       [ "SPELL_SUMMON_ANUBAR_NECROMANCER_PERIODIC", "d4/d34/a01298.html#a5bd342133be8c2137b831460acc9298ca5cb34a7f99ba66aac48ee6df415415e9", null ],
       [ "SPELL_SUMMON_ANUBAR_CRYPT_FIEND_PERIODIC", "d4/d34/a01298.html#a5bd342133be8c2137b831460acc9298cadb4ae793c57efbb7f028f379e7e6979b", null ],
@@ -3443,8 +3446,7 @@ var a01292 =
       [ "SAY_SEND_GROUP", "d8/d7a/a01292.html#a34a1b224b8db54cacd01d75b910f04e3ac4696d8fcb3bb196c5efdb756c5533a5", null ],
       [ "EMOTE_SNOBOLLED", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3a8d41398e97a91de8de78bf8ac9e0b09b", null ],
       [ "EMOTE_ENRAGE", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3a81024d2fa77c20eddf3d080ee9947126", null ],
-      [ "EMOTE_SUBMERGE", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3a2de75a94c63b35b7198bd89cf36a943e", null ],
-      [ "EMOTE_EMERGE", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3ab6eecfa42f3bdac4bf4c6e235545a252", null ],
+      [ "WHISPER_PARALYTIC_TOXIN", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3a9f30cd12b1e4592413f87b56c75bfbbb", null ],
       [ "EMOTE_TRAMPLE_STARE", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3a55eeb707d5a1d02aeaba2a8df6f388e6", null ],
       [ "EMOTE_TRAMPLE_CRASH", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3afa538decb9ebb5608387548209c84cf6", null ],
       [ "EMOTE_TRAMPLE_FAIL", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3aac5c85f7acc8f9da718c8818106bb9ff", null ],

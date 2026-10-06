@@ -1,6 +1,6 @@
 var a22331 =
 [
-    [ "npc_frostbrood_skytalonAI", "d5/dc7/a22335.html", "d5/dc7/a22335" ],
-    [ "npc_frostbrood_skytalon", "d6/d68/a22331.html#a1bc95edf0e624709e3836bdcfb0c503c", null ],
-    [ "GetAI", "d6/d68/a22331.html#af5b1c3e52076fb84b83e785762ff6b6d", null ]
+    [ "PrepareSpellScript", "d6/d68/a22331.html#aa26d34552b04dca1db32390e769ff4dc", null ],
+    [ "RecalculateDamage", "d6/d68/a22331.html#a1b3458fc865d320050fae1ffeb4c7b5d", null ],
+    [ "Register", "d6/d68/a22331.html#a58d28dea272b1237cf60efb45d67765d", null ]
 ];

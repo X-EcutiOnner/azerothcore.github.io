@@ -1,9 +1,7 @@
 var a15275 =
 [
-    [ "boss_rage_winterchill", "d8/dd3/a15275.html#a66fed2a7cc6135d41a2c40bdf4ffe02e", null ],
-    [ "DoAction", "d8/dd3/a15275.html#a45333aea6d6a180473ca4823ea83920a", null ],
-    [ "JustDied", "d8/dd3/a15275.html#ab10c7df81a9e71b2c114465c30e40a9b", null ],
-    [ "JustEngagedWith", "d8/dd3/a15275.html#ad36a840c65949c54d5ee3ae8cb6f1f7b", null ],
-    [ "KilledUnit", "d8/dd3/a15275.html#a69d69530a080379add7be73c552f4937", null ],
-    [ "PathEndReached", "d8/dd3/a15275.html#aec47befdf3246710a5158780fa797fa7", null ]
+    [ "hyjalJainaAI", "d1/d69/a15279.html", "d1/d69/a15279" ],
+    [ "npc_hyjal_jaina", "d8/dd3/a15275.html#a6616aa6c38818770610259312a392a3f", null ],
+    [ "GetAI", "d8/dd3/a15275.html#ab1891f5a2aacf5d9aeb9377bd92393ed", null ],
+    [ "OnGossipSelect", "d8/dd3/a15275.html#a47853fa317b1a9325fcbe555867139f6", null ]
 ];

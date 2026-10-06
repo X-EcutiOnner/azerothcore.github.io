@@ -1,6 +1,6 @@
 var a16503 =
 [
-    [ "npc_anub_ar_crusher_champion", "d7/df9/a16503.html#a8b8dc51f529d361b40447f6f1b398a4d", null ],
-    [ "DoEngagedWith", "d7/df9/a16503.html#a2dcef4fe57880ba725dff52455a7a428", null ],
-    [ "DoEvent", "d7/df9/a16503.html#a6dc41c4fa5531bd1999daaef3972c5a2", null ]
+    [ "npc_anub_ar_crusher_crypt_fiend", "d7/df9/a16503.html#a89abbce738f115c26dae9dacb065cc3d", null ],
+    [ "DoEngagedWith", "d7/df9/a16503.html#a20cdbe7eb580cd9f9763019d8927182f", null ],
+    [ "DoEvent", "d7/df9/a16503.html#a276eca6e65b32905f6919d49530ccc2f", null ]
 ];

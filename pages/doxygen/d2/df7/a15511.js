@@ -1,29 +1,6 @@
 var a15511 =
 [
-    [ "boss_onyxia", "d2/df7/a15511.html#a529d07414467a41b67ec9e79ded31810", null ],
-    [ "DoAction", "d2/df7/a15511.html#a9e6a94b225caf455f9072c3a430ba49e", null ],
-    [ "EnterEvadeMode", "d2/df7/a15511.html#a07a5cd9f8cf3027b3029431c867134e8", null ],
-    [ "GetEggsNearestFirst", "d2/df7/a15511.html#a096e1b574339a98b83c0569ec5d75ea8", null ],
-    [ "HatchNearestEgg", "d2/df7/a15511.html#a4c5436268c8fa41ded9f2577475c0662", null ],
-    [ "Initialize", "d2/df7/a15511.html#ae64cfe5c532c4eae8e76c4ddd845e278", null ],
-    [ "JustEngagedWith", "d2/df7/a15511.html#a1dff56a293babebe82b3947c53a1e0e9", null ],
-    [ "JustSummoned", "d2/df7/a15511.html#a424a1815a0f51097c184f7582f1b2f45", null ],
-    [ "MovementInform", "d2/df7/a15511.html#a1413f44b212b651f276ecb1e2f01c36a", null ],
-    [ "MoveToWaypoint", "d2/df7/a15511.html#a55211461c86b48987087959b96e3ee10", null ],
-    [ "OnSpellCast", "d2/df7/a15511.html#a610a50365bb823bda0617ce5d8323c55", null ],
-    [ "Reset", "d2/df7/a15511.html#a837fb19b4c85d87ebf026b2f692696bb", null ],
-    [ "SetPhase", "d2/df7/a15511.html#a6b814213c31d3b2a2071da222399cdd8", null ],
-    [ "SpellHitTarget", "d2/df7/a15511.html#ace3d7dd677a4716e13f4c0c1c5944471", null ],
-    [ "SummonedCreatureDies", "d2/df7/a15511.html#a477913933faf50c3a4366ec4bc4a2b74", null ],
-    [ "SummonPointWhelp", "d2/df7/a15511.html#a98002157d583eb9039ca257fafe67c9d", null ],
-    [ "UpdateAI", "d2/df7/a15511.html#ad04fc48bd1aa5ffa5570c0e44b2a112c", null ],
-    [ "_currentWP", "d2/df7/a15511.html#ae1ff8beb6c04e5537dae1bdfe66669ae", null ],
-    [ "_fireballsBeforeMoving", "d2/df7/a15511.html#ae4c3074368722edfea7dba9a9bc5abda", null ],
-    [ "_fireballsCast", "d2/df7/a15511.html#af940fda277e3ec00c963e5eb3090822d", null ],
-    [ "_lairGuardTriggerGUID", "d2/df7/a15511.html#a13b51f7387aab4bcafecf9666eec1976", null ],
-    [ "_landingPending", "d2/df7/a15511.html#aae92d9f56be8a8417f03fbf5a96d3624", null ],
-    [ "_manyWhelpsAvailable", "d2/df7/a15511.html#aef1cdea4637777c08766bf77d70ad39a", null ],
-    [ "_phase", "d2/df7/a15511.html#a844b876d1e8568ecac3151c99215e166", null ],
-    [ "_pointWhelpGUIDs", "d2/df7/a15511.html#ac8f310f39f08947262d45778f6d15901", null ],
-    [ "_whelpsRespawn", "d2/df7/a15511.html#a0be641cf079e59cd8a25fd4bcb3eae25", null ]
+    [ "npc_onyxian_lair_guard", "d2/df7/a15511.html#ae72d86cddafd8829fc9edd479a01ab1d", null ],
+    [ "JustEngagedWith", "d2/df7/a15511.html#a7b1d3bc68684202f9b4b95f6dc078be0", null ],
+    [ "UpdateAI", "d2/df7/a15511.html#ac8649636d5847813e49d2ada05f78645", null ]
 ];

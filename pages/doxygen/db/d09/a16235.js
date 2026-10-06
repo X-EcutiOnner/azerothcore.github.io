@@ -1,6 +1,7 @@
 var a16235 =
 [
-    [ "npc_tyrande_whisperwind", "db/d09/a16235.html#af716e954e59221d26ee88032e895fa18", null ],
-    [ "JustDied", "db/d09/a16235.html#a707f6167de4eafc6d81613d0edc29436", null ],
-    [ "UpdateAI", "db/d09/a16235.html#a598bd2dec22715413dcbd7ed6ca3be3c", null ]
+    [ "npc_giltharesAI", "da/d23/a16239.html", "da/d23/a16239" ],
+    [ "npc_gilthares", "db/d09/a16235.html#af1e0746350b32b68825710e1c3ed91a5", null ],
+    [ "GetAI", "db/d09/a16235.html#a96293e28237a092c64f6a91d91bc7ff3", null ],
+    [ "OnQuestAccept", "db/d09/a16235.html#aa165513a4d25a6d1d704c226903e9271", null ]
 ];

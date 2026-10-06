@@ -1,6 +1,7 @@
 var a19027 =
 [
-    [ "npc_blazing_skeletonAI", "d0/def/a19031.html", "d0/def/a19031" ],
-    [ "npc_blazing_skeleton", "d9/da5/a19027.html#a158720704479946048472ffe0beec492", null ],
-    [ "GetAI", "d9/da5/a19027.html#af29ea4620ebafaa4d47ec9f37758af77", null ]
+    [ "npc_blazing_skeletonAI", "d9/da5/a19027.html#ad4f997a7a4cc0fa96594da35434fd921", null ],
+    [ "Reset", "d9/da5/a19027.html#a3bbc4cf7b6dbe11d6768a0fb0626e84a", null ],
+    [ "UpdateAI", "d9/da5/a19027.html#a0010c4befd13ec6beada0de1607f3f7a", null ],
+    [ "_events", "d9/da5/a19027.html#aab1b04989d5e3fc289f00bc121df193d", null ]
 ];

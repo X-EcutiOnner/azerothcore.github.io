@@ -1,10 +1,10 @@
 var a01253 =
 [
-    [ "WeeklyQuest", "df/de7/a19467.html", "df/de7/a19467" ],
-    [ "RespawnEvent", "db/de5/a19471.html", "db/de5/a19471" ],
-    [ "DelayedCastMincharEvent", "d7/db7/a19475.html", "d7/db7/a19475" ],
-    [ "instance_icecrown_citadel", "d5/de4/a19479.html", "d5/de4/a19479" ],
-    [ "instance_icecrown_citadel::instance_icecrown_citadel_InstanceMapScript", "da/ddf/a19483.html", "da/ddf/a19483" ],
+    [ "WeeklyQuest", "d6/d18/a19463.html", "d6/d18/a19463" ],
+    [ "RespawnEvent", "df/de7/a19467.html", "df/de7/a19467" ],
+    [ "DelayedCastMincharEvent", "db/de5/a19471.html", "db/de5/a19471" ],
+    [ "instance_icecrown_citadel", "d7/db7/a19475.html", "d7/db7/a19475" ],
+    [ "instance_icecrown_citadel::instance_icecrown_citadel_InstanceMapScript", "d5/de4/a19479.html", "d5/de4/a19479" ],
     [ "EventIds", "d3/d0b/a01253.html#acb64662cd19d8282959c12081cb2b4b4", [
       [ "EVENT_DRAGONSPIRE_ROOM_STORE", "de/d14/a01640.html#acb64662cd19d8282959c12081cb2b4b4ab5e1f4a5290781237c4337916b99a96a", null ],
       [ "EVENT_DRAGONSPIRE_ROOM_CHECK", "de/d14/a01640.html#acb64662cd19d8282959c12081cb2b4b4adeb0aa4435158cf9a960477680a6cb50", null ],
@@ -1588,6 +1588,9 @@ var a01253 =
       [ "SPELL_SUMMON_ANUBAR_CHAMPION", "d4/d34/a01298.html#a5bd342133be8c2137b831460acc9298ca955222dec7f2d59479819a182bd3ac76", null ],
       [ "SPELL_SUMMON_ANUBAR_CRYPT_FIEND", "d4/d34/a01298.html#a5bd342133be8c2137b831460acc9298caffad25e7761a107389a6d7c6486ec2c6", null ],
       [ "SPELL_SUMMON_ANUBAR_NECROMANCER", "d4/d34/a01298.html#a5bd342133be8c2137b831460acc9298caf07838be352ede03f94aa88b2ff632f0", null ],
+      [ "SPELL_SUMMON_ANUBAR_CHAMPION_LOWER", "d4/d34/a01298.html#a5bd342133be8c2137b831460acc9298cac36ff29f3b1e8b4527b0178d9e8a9ddd", null ],
+      [ "SPELL_SUMMON_ANUBAR_CRYPT_FIEND_LOWER", "d4/d34/a01298.html#a5bd342133be8c2137b831460acc9298ca3f22f063f72d9e3db3c81bdfbb87d320", null ],
+      [ "SPELL_SUMMON_ANUBAR_NECROMANCER_LOWER", "d4/d34/a01298.html#a5bd342133be8c2137b831460acc9298ca6f805b79f66c39af5dd9da9e9a347586", null ],
       [ "SPELL_SUMMON_ANUBAR_CHAMPION_PERIODIC", "d4/d34/a01298.html#a5bd342133be8c2137b831460acc9298ca78885d55af571d0af9d211ba340c50b0", null ],
       [ "SPELL_SUMMON_ANUBAR_NECROMANCER_PERIODIC", "d4/d34/a01298.html#a5bd342133be8c2137b831460acc9298ca5cb34a7f99ba66aac48ee6df415415e9", null ],
       [ "SPELL_SUMMON_ANUBAR_CRYPT_FIEND_PERIODIC", "d4/d34/a01298.html#a5bd342133be8c2137b831460acc9298cadb4ae793c57efbb7f028f379e7e6979b", null ],

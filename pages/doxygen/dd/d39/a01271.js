@@ -1,7 +1,7 @@
 var a01271 =
 [
-    [ "boss_amanitar", "d8/def/a16395.html", "d8/def/a16395" ],
-    [ "spell_amanitar_remove_mushroom_power", "d5/df8/a16399.html", "d5/df8/a16399" ],
+    [ "boss_amanitar", "dd/d57/a16391.html", "dd/d57/a16391" ],
+    [ "spell_amanitar_remove_mushroom_power", "d8/def/a16395.html", "d8/def/a16395" ],
     [ "Creatures", "dd/d39/a01271.html#a25a619e6b66096a4f05d048e4a96df08", [
       [ "NPC_NORTH_MARSHAL", "de/dca/a01907.html#a25a619e6b66096a4f05d048e4a96df08abeb6d3b1ff8238f7c57911ab8acde69e", null ],
       [ "NPC_SOUTH_MARSHAL", "de/dca/a01907.html#a25a619e6b66096a4f05d048e4a96df08a9a3360dc10641daabdef8158f42ee00e", null ],
@@ -2942,6 +2942,9 @@ var a01271 =
       [ "SPELL_SUMMON_ANUBAR_CHAMPION", "d4/d34/a01298.html#a5bd342133be8c2137b831460acc9298ca955222dec7f2d59479819a182bd3ac76", null ],
       [ "SPELL_SUMMON_ANUBAR_CRYPT_FIEND", "d4/d34/a01298.html#a5bd342133be8c2137b831460acc9298caffad25e7761a107389a6d7c6486ec2c6", null ],
       [ "SPELL_SUMMON_ANUBAR_NECROMANCER", "d4/d34/a01298.html#a5bd342133be8c2137b831460acc9298caf07838be352ede03f94aa88b2ff632f0", null ],
+      [ "SPELL_SUMMON_ANUBAR_CHAMPION_LOWER", "d4/d34/a01298.html#a5bd342133be8c2137b831460acc9298cac36ff29f3b1e8b4527b0178d9e8a9ddd", null ],
+      [ "SPELL_SUMMON_ANUBAR_CRYPT_FIEND_LOWER", "d4/d34/a01298.html#a5bd342133be8c2137b831460acc9298ca3f22f063f72d9e3db3c81bdfbb87d320", null ],
+      [ "SPELL_SUMMON_ANUBAR_NECROMANCER_LOWER", "d4/d34/a01298.html#a5bd342133be8c2137b831460acc9298ca6f805b79f66c39af5dd9da9e9a347586", null ],
       [ "SPELL_SUMMON_ANUBAR_CHAMPION_PERIODIC", "d4/d34/a01298.html#a5bd342133be8c2137b831460acc9298ca78885d55af571d0af9d211ba340c50b0", null ],
       [ "SPELL_SUMMON_ANUBAR_NECROMANCER_PERIODIC", "d4/d34/a01298.html#a5bd342133be8c2137b831460acc9298ca5cb34a7f99ba66aac48ee6df415415e9", null ],
       [ "SPELL_SUMMON_ANUBAR_CRYPT_FIEND_PERIODIC", "d4/d34/a01298.html#a5bd342133be8c2137b831460acc9298cadb4ae793c57efbb7f028f379e7e6979b", null ],

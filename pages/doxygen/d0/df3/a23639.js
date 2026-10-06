@@ -1,8 +1,7 @@
 var a23639 =
 [
-    [ "npc_underbat", "d0/df3/a23639.html#a710a010d3425b7171ee45d8465fd6b2b", null ],
-    [ "JustEngagedWith", "d0/df3/a23639.html#ae137b6b763b3df6096c3bfd4dd7ee676", null ],
-    [ "Reset", "d0/df3/a23639.html#aae771ad526e8f72a90fe70ebbd91b472", null ],
-    [ "UpdateAI", "d0/df3/a23639.html#ab3a9b97543aee3fdf22c17e94f768c0e", null ],
-    [ "_scheduler", "d0/df3/a23639.html#a7644a73c2a5bcbbe0a3db5c782169752", null ]
+    [ "CalcPeriodic", "d0/df3/a23639.html#aeae100fb3ab86b9064c3923472fbd45d", null ],
+    [ "PrepareAuraScript", "d0/df3/a23639.html#a290913502dfe3dfb42b44a964468b97c", null ],
+    [ "Register", "d0/df3/a23639.html#aea7a6e4bcbc97d19393d790a28a4483a", null ],
+    [ "Update", "d0/df3/a23639.html#ab3bdb3a14c6d130d295553e635acb47c", null ]
 ];

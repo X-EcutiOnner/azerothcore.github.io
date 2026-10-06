@@ -1,6 +1,5 @@
 var a23175 =
 [
-    [ "ShadowOfDeathSelector", "db/d49/a23175.html#a1190094fbde74ccffd954fea742ab0ae", null ],
-    [ "operator()", "db/d49/a23175.html#a3c91b315ce6d6c523d4bdb8a8206a3c8", null ],
-    [ "_tank", "db/d49/a23175.html#adc238645eec306e00918dbab05549fc8", null ]
+    [ "npc_vengeful_spirit", "db/d49/a23175.html#a06bd2b08a7719ae35dd6ad844ce3b3bd", null ],
+    [ "OnCharmed", "db/d49/a23175.html#a8aec87a3e6a7af96253035dbd9e813ad", null ]
 ];

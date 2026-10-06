@@ -1,10 +1,8 @@
 var a24595 =
 [
-    [ "npc_pet_hunter_snake_trap", "d6/df6/a24595.html#aaf5df574c4ac53661c0bb1968f84c6ea", null ],
-    [ "InitializeAI", "d6/df6/a24595.html#a91931c2ac0fd4981f9bf8a2f8f7db672", null ],
-    [ "JustEngagedWith", "d6/df6/a24595.html#a695af9c49daa05c787dac03c4af91645", null ],
-    [ "MoveInLineOfSight", "d6/df6/a24595.html#a099a34f12399fe24349644da3dafe7a4", null ],
-    [ "UpdateAI", "d6/df6/a24595.html#a41a37efe6d39c6d97b3dcc5fabbcc812", null ],
-    [ "_isViper", "d6/df6/a24595.html#ab49c69ca25014ef63e775b236255e4c1", null ],
-    [ "_spellTimer", "d6/df6/a24595.html#ab9397451e2e8320ca77560a19baeee3f", null ]
+    [ "CheckProc", "d6/df6/a24595.html#a746a3e24e07ef9a6ddecef80621768f0", null ],
+    [ "HandleProc", "d6/df6/a24595.html#aa0c2bbb60940982e14ae98799fb220a6", null ],
+    [ "PrepareAuraScript", "d6/df6/a24595.html#a0d9decd8a0901b7ab35de6af120baf34", null ],
+    [ "Register", "d6/df6/a24595.html#aae146676b2ca0f29b1712b774b7f9148", null ],
+    [ "Validate", "d6/df6/a24595.html#a7725ff69907bb8328c5f7dffaf941478", null ]
 ];

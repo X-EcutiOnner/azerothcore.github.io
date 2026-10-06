@@ -1,8 +1,9 @@
 var a24075 =
 [
-    [ "boss_void_reaver", "d2/d63/a24075.html#aa6373ef5b27255eca4d85345ae5fa729", null ],
-    [ "JustDied", "d2/d63/a24075.html#a49e6f52b11177bdac07adff92c2675f5", null ],
-    [ "JustEngagedWith", "d2/d63/a24075.html#a9260d05e11f4dec6fc25432a0524706b", null ],
-    [ "KilledUnit", "d2/d63/a24075.html#adc234fc43308771a42d99049876cad1b", null ],
-    [ "Reset", "d2/d63/a24075.html#a02c36ea960de24991f879943991a93c6", null ]
+    [ "instance_the_eye_InstanceMapScript", "d2/d63/a24075.html#a0c2b90c0f155e279aece7cd36d9de6d7", null ],
+    [ "GetGuidData", "d2/d63/a24075.html#a882432d126cc9e90322eaa16f5ef15c8", null ],
+    [ "OnGameObjectCreate", "d2/d63/a24075.html#a56c6933c2c231c228ca147107fbfc930", null ],
+    [ "BridgeWindowGUID", "d2/d63/a24075.html#a1fa987352d6c4c5f11d5415d4b886aaa", null ],
+    [ "KaelStateLeftGUID", "d2/d63/a24075.html#ab2ca710f119fbfc1a7b57a88462d145b", null ],
+    [ "KaelStateRightGUID", "d2/d63/a24075.html#a25ba703325800d2976eff860437f3d57", null ]
 ];

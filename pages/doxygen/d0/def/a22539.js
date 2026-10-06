@@ -1,6 +1,7 @@
 var a22539 =
 [
-    [ "HandleEffectRemove", "d0/def/a22539.html#a08c55501b95d4c92971fd5c95aaef1a7", null ],
-    [ "PrepareAuraScript", "d0/def/a22539.html#aa0df1c7c112cf44fbe5a89894a1292b3", null ],
-    [ "Register", "d0/def/a22539.html#a6f6ae6c012090337eb3f9ca4fd39749d", null ]
+    [ "npc_wg_demolisher_engineer", "d0/def/a22539.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
+    [ "canBuild", "d0/def/a22539.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
+    [ "OnGossipHello", "d0/def/a22539.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
+    [ "OnGossipSelect", "d0/def/a22539.html#a3ecf69f45918bef0cb51023327ac9693", null ]
 ];

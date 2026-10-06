@@ -1,8 +1,6 @@
 var a19047 =
 [
-    [ "npc_blistering_zombieAI", "dd/d01/a19047.html#acf278cd2249ac45a4b043427ba36b3ce", null ],
-    [ "DamageTaken", "dd/d01/a19047.html#adf031992078214f90d859df2b54aac91", null ],
-    [ "UpdateAI", "dd/d01/a19047.html#ae081898b8dcaf45cd3069e79021de452", null ],
-    [ "casted", "dd/d01/a19047.html#a0f70f5d58ef0bb20f64b0aec4df04905", null ],
-    [ "timer", "dd/d01/a19047.html#a8b865c2a87b1fc020d8250767febab0a", null ]
+    [ "npc_gluttonous_abominationAI", "d5/d04/a19051.html", "d5/d04/a19051" ],
+    [ "npc_gluttonous_abomination", "dd/d01/a19047.html#a895d1afcfc62bcaac6cc0d20465f1e7a", null ],
+    [ "GetAI", "dd/d01/a19047.html#aedbd808da5e8ea0e2111e78be9d846ce", null ]
 ];

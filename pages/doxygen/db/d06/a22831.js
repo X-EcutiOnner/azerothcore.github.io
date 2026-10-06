@@ -1,12 +1,8 @@
 var a22831 =
 [
-    [ "boss_anzu", "db/d06/a22831.html#aef8c5c57afa95936d8c2809fa1257799", null ],
-    [ "JustEngagedWith", "db/d06/a22831.html#a2384a1ea128ad5a43d3b8fb36fe39aba", null ],
-    [ "Reset", "db/d06/a22831.html#a61c75d6d96aa5cfb41e87faa74ec2fa5", null ],
-    [ "SummonBroods", "db/d06/a22831.html#a7f3f8868a5648bdeccd03d08203e4cf1", null ],
-    [ "SummonedCreatureDies", "db/d06/a22831.html#a2e35df609db069c8d31afffabcfead34", null ],
-    [ "SummonSpirits", "db/d06/a22831.html#a23e03d1718fba49a3bd57609abb77c6a", null ],
-    [ "UpdateAI", "db/d06/a22831.html#a06373460d454bfaf8db793e591cc0abd", null ],
-    [ "AnzuSpiritPos", "db/d06/a22831.html#a64e42ce8856b9d10c7f24fefc0c1e0b2", null ],
-    [ "talkTimer", "db/d06/a22831.html#a2afae53534d9e777c90d09456f834b5d", null ]
+    [ "boss_darkweaver_syth", "db/d06/a22831.html#a4f719165e07206c5a378412b3f82ff86", null ],
+    [ "JustDied", "db/d06/a22831.html#adf7e44e3fdc7241baa5f9eddafcb6d40", null ],
+    [ "JustEngagedWith", "db/d06/a22831.html#aaf6dab75e66734e930c5732749f3d69a", null ],
+    [ "KilledUnit", "db/d06/a22831.html#a1904c2596dd455f84625974beec4a2c8", null ],
+    [ "Reset", "db/d06/a22831.html#a484a6dea12ca9e5a20f0a0761461c1f5", null ]
 ];

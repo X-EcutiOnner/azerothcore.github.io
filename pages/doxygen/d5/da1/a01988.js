@@ -1,10 +1,10 @@
 var a01988 =
 [
-    [ "PyramidEventData", "de/d77/a16343.html", "de/d77/a16343" ],
-    [ "instance_zulfarrak", "de/d2e/a16347.html", "de/d2e/a16347" ],
-    [ "instance_zulfarrak::instance_zulfarrak_InstanceMapScript", "dc/d0d/a16351.html", "dc/d0d/a16351" ],
-    [ "spell_zulfarrak_summon_zulfarrak_zombies", "df/d88/a16355.html", "df/d88/a16355" ],
-    [ "spell_zulfarrak_unlocking", "dd/d29/a16359.html", "dd/d29/a16359" ],
+    [ "PyramidEventData", "d0/d34/a16339.html", "d0/d34/a16339" ],
+    [ "instance_zulfarrak", "de/d77/a16343.html", "de/d77/a16343" ],
+    [ "instance_zulfarrak::instance_zulfarrak_InstanceMapScript", "de/d2e/a16347.html", "de/d2e/a16347" ],
+    [ "spell_zulfarrak_summon_zulfarrak_zombies", "dc/d0d/a16351.html", "dc/d0d/a16351" ],
+    [ "spell_zulfarrak_unlocking", "df/d88/a16355.html", "df/d88/a16355" ],
     [ "Misc", "d5/da1/a01988.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "NEFARIUS_PATH_2", "dd/d8d/a01667.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],
       [ "NEFARIUS_PATH_3", "dd/d8d/a01667.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6596b4c264ab163a34c17c6ea798adcb", null ],
@@ -77,6 +77,7 @@ var a01988 =
       [ "ACTION_START_POST_EVENT", "de/dfb/a01874.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4846ee5436abffae218febaa5b90ba2e", null ],
       [ "ACTION_NO_KILL_TALK", "de/dfb/a01874.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad9b074709a30fe1d57f69ef5c6da3fea", null ],
       [ "ACTION_START_AERIAL_SUPPORT", "de/dfb/a01874.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a08400c5d00469990b5f5bc15383f7fcd", null ],
+      [ "DATA_HAND_ENGAGED", "de/dfb/a01874.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa8fec8fb53260b90c504ef0668b41e52", null ],
       [ "ITEM_FRAGMENT", "d4/dff/a01910.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a8c167711f76366adc8cf61625480f6da", null ],
       [ "NPC_TWILIGHT_CORRUPTER", "d4/dff/a01910.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afb7e438d6473a60fc5b3033d846b8cc3", null ],
       [ "ACTION_STORM_EXPIRE", "d1/d6b/a01775.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a360211d7a4df1b69d09453ebe4c76dea", null ],
@@ -423,6 +424,7 @@ var a01988 =
       [ "SUMMON_GROUP_CHAMBER_TENTACLES", "df/dd5/a01115.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad33400240976b8ea60ebc33984dd17ce", null ],
       [ "SUMMON_GROUP_ICECROWN_TENTACLES", "df/dd5/a01115.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a435e4dde2b1557a4594e2f7b83a718d8", null ],
       [ "SUMMON_GROUP_STORMWIND_TENTACLES", "df/dd5/a01115.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1af23f25aa7c2149e7ded111edda8716", null ],
+      [ "SUMMON_GROUP_CLOUDS", "df/dd5/a01115.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa1412997ae74d2dbaea0f7b90fc7ac98", null ],
       [ "EVENT_PHASE_ONE", "df/dd5/a01115.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6b9ce13a0146076fc808a80ed99ccac7", null ],
       [ "EVENT_PHASE_TWO", "df/dd5/a01115.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1bb0a83e28cfe9a4b28e66a80d9d5750", null ],
       [ "EVENT_PHASE_THREE", "df/dd5/a01115.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a399f435f01db5b6781c8ab55b185c10b", null ],

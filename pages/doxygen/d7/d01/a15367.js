@@ -1,7 +1,8 @@
 var a15367 =
 [
-    [ "OnRemove", "d7/d01/a15367.html#a98bf88bd917b441d2ad81716dcd38ec1", null ],
-    [ "PrepareAuraScript", "d7/d01/a15367.html#ab082adc51983f124d0467cbff63cffb7", null ],
-    [ "Register", "d7/d01/a15367.html#a2feb8adaad212ee29d9ec6d9957575a4", null ],
-    [ "Validate", "d7/d01/a15367.html#a73421b82f483e73314dbb862fb0a11c7", null ]
+    [ "npc_arthasAI", "d9/de5/a15371.html", "d9/de5/a15371" ],
+    [ "npc_arthas", "d7/d01/a15367.html#a87c280ff9861187b0a713f795e657266", null ],
+    [ "GetAI", "d7/d01/a15367.html#a4a613dd76cde27f7df834b9bb837ab6c", null ],
+    [ "OnGossipHello", "d7/d01/a15367.html#a4bd3d5dd8eebe48b525e2bd162787172", null ],
+    [ "OnGossipSelect", "d7/d01/a15367.html#aeca2f4baa3c943281c676c6498393165", null ]
 ];

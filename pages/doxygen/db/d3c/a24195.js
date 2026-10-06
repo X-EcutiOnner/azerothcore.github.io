@@ -1,7 +1,6 @@
 var a24195 =
 [
-    [ "HandleEffect", "db/d3c/a24195.html#acb353dbdd050bfc6aa4b4b5f6433dc03", null ],
-    [ "PrepareSpellScript", "db/d3c/a24195.html#ad95bc33917e1aa968eedc636f6e3ddcb", null ],
-    [ "Register", "db/d3c/a24195.html#ac2b2bd2581a638553167d5c8099a70cd", null ],
-    [ "Validate", "db/d3c/a24195.html#a7702b0e876ab5ccd750d1072ee70ed69", null ]
+    [ "npc_aeranasAI", "d1/d53/a24199.html", "d1/d53/a24199" ],
+    [ "npc_aeranas", "db/d3c/a24195.html#a6ea71481ef6a223a329b805081122537", null ],
+    [ "GetAI", "db/d3c/a24195.html#a81167df6665bdca81ee13468dec19643", null ]
 ];

@@ -1,9 +1,5 @@
 var a17455 =
 [
-    [ "npc_hor_spiritual_reflection", "d9/d84/a17455.html#ade6e6c1f32f4353c131fce054d6b94c4", null ],
-    [ "EnterEvadeMode", "d9/d84/a17455.html#a3973e83b013df723849939635071324f", null ],
-    [ "JustDied", "d9/d84/a17455.html#a913d17e1534a5940b7841e38eae246f7", null ],
-    [ "JustEngagedWith", "d9/d84/a17455.html#ad47d12654c88cc94b7c17906e4096115", null ],
-    [ "Reset", "d9/d84/a17455.html#aa7dad28bbe53286ec298ba5480717e69", null ],
-    [ "UpdateAI", "d9/d84/a17455.html#a5093b6502bca95c22b2b0f0117f86047", null ]
+    [ "at_hor_shadow_throne", "d9/d84/a17455.html#a342808808be75079acf6a2f930afe930", null ],
+    [ "OnTrigger", "d9/d84/a17455.html#a47deb4d6506e859d90fcf16d72e43d9c", null ]
 ];

@@ -1,6 +1,6 @@
 var a28751 =
 [
-    [ "npc_experience", "dc/d7f/a28751.html#a48ea13099fd32bcae1543a152de0bdf4", null ],
-    [ "OnGossipHello", "dc/d7f/a28751.html#a78fccaa36d1c42e33774a9b23f867a72", null ],
-    [ "OnGossipSelect", "dc/d7f/a28751.html#a140ece91c8b6d91bd91d64d6e9b625e8", null ]
+    [ "npc_fireworkAI", "dc/d82/a28755.html", "dc/d82/a28755" ],
+    [ "npc_firework", "dc/d7f/a28751.html#a9efb6ed098e4eb3e24c30393cb5cb45d", null ],
+    [ "GetAI", "dc/d7f/a28751.html#a9732f7b6eb8b3638bb6280ff7a71bcf7", null ]
 ];

@@ -1,8 +1,10 @@
 var a30035 =
 [
-    [ "TestOocPlayerScript", "da/d2b/a30035.html#ad8a63387a46b252a555b5d48b0f73d55", null ],
-    [ "EnsureRegistered", "da/d2b/a30035.html#a485c732b5cc87e418e1e8b0fdb80e5b7", null ],
-    [ "OnPlayerCompleteQuest", "da/d2b/a30035.html#a7288e4227b28edebe4723c14ef56bce1", null ],
-    [ "OnPlayerLevelChanged", "da/d2b/a30035.html#a0d2fa7743649d3443f49654d55ca1558", null ],
-    [ "Instance", "da/d2b/a30035.html#a58269b1a038bfbdc8c9dafd058d16b5e", null ]
+    [ "SetUp", "da/d2b/a30035.html#a3fdec2bf96f4e567b3ed2a8103d175ec", null ],
+    [ "SimulateGlyphsForLevel", "da/d2b/a30035.html#ac0b04d88968102ac5cf34be21a44eed9", null ],
+    [ "TearDown", "da/d2b/a30035.html#aa381706733e71ee3d426c4e0d0c4b4e9", null ],
+    [ "originalWorld", "da/d2b/a30035.html#a5e142dc81a057b4ecc3084177942b91d", null ],
+    [ "player", "da/d2b/a30035.html#ac57623d8e963cdb8de2258f36c1281bd", null ],
+    [ "session", "da/d2b/a30035.html#ac92bad60994d699564da54739ac0b4f0", null ],
+    [ "worldMock", "da/d2b/a30035.html#af4605e78650f67c3a3af4d91e1e485c5", null ]
 ];

@@ -18,7 +18,7 @@ var searchData=
   ['tilelist_15',['TileList',['../d5/df0/a05129.html#aa2aae6f254337f29866a5d240d5ec2b1',1,'MMAP']]],
   ['tilemap_16',['TileMap',['../d8/d2c/a05128.html#abfe766a1b58bbf69ce3b17ff14d1c101',1,'VMAP']]],
   ['timedachievementmap_17',['TimedAchievementMap',['../df/d24/a06495.html#a3bb53cc1efc73b3162fc41f45d0fe767',1,'AchievementMgr']]],
-  ['timepoint_18',['TimePoint',['../d5/dc0/a05006.html#ae5ca775e8d8c664b6edef818ce1251b9',1,'TimePoint():&#160;Duration.h'],['../de/d09/a29735.html#ae25821c46e0e5524c524f9862140eb7d',1,'AuraStub::TimePoint()']]],
+  ['timepoint_18',['TimePoint',['../d5/dc0/a05006.html#ae5ca775e8d8c664b6edef818ce1251b9',1,'TimePoint():&#160;Duration.h'],['../d0/d42/a29731.html#ae25821c46e0e5524c524f9862140eb7d',1,'AuraStub::TimePoint()']]],
   ['timepoint_5ft_19',['timepoint_t',['../d0/d5d/a05955.html#a0e14d7b24d018a41c9dc849e1421d5e7',1,'TaskScheduler']]],
   ['tobeteleportedmap_20',['ToBeTeleportedMap',['../d7/d72/a07767.html#adc966f868d10d74229b0b522f0ccdc32',1,'Battleground']]],
   ['transactionfuture_21',['TransactionFuture',['../df/d79/a02402.html#ad8826e834522c9cacfd021d4529b4f87',1,'DatabaseEnvFwd.h']]],

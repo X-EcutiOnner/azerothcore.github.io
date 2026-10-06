@@ -1,8 +1,9 @@
 var a22243 =
 [
-    [ "npc_llod_genericAI", "d4/d8a/a22243.html#ac75d85ae4b59416952788102cd1db132", null ],
-    [ "Reset", "d4/d8a/a22243.html#a15bd7442fef36a551cc8797f7919f57c", null ],
-    [ "UpdateAI", "d4/d8a/a22243.html#aa7dce553fb699127f63281b2c47a2f02", null ],
-    [ "attackTimer", "d4/d8a/a22243.html#a28a6e700d24995e477e7e7c4cc8b5d68", null ],
-    [ "summonTimer", "d4/d8a/a22243.html#aeeeef545aee565c14d86d8587923c677", null ]
+    [ "npc_lord_areteAI", "d4/d8a/a22243.html#aebdbf8f4c2fe6948c78315e6b404119b", null ],
+    [ "InitializeAI", "d4/d8a/a22243.html#a22d0c3e2445bff2d742b28bd99f37394", null ],
+    [ "UpdateAI", "d4/d8a/a22243.html#a5cba8d4429ae191dd5b90ca5a4fe2866", null ],
+    [ "_landgrenGUID", "d4/d8a/a22243.html#ac0e3753096dfe779024acc8400791171", null ],
+    [ "_landgrenSoulGUID", "d4/d8a/a22243.html#aaa28c67691610136f0b418b30892f3cd", null ],
+    [ "events", "d4/d8a/a22243.html#ae4ec90b30320cf0aeaec4415c4125605", null ]
 ];

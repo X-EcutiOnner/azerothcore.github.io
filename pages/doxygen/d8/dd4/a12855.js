@@ -59,6 +59,7 @@ var a12855 =
     [ "MagmusGUID", "d8/dd4/a12855.html#a12583ba0684077da9463d2457142d95c", null ],
     [ "MoiraGUID", "d8/dd4/a12855.html#ab683ac2ce211a8b674ec8a8598bc8875", null ],
     [ "OpenedCoofers", "d8/dd4/a12855.html#a284c8fe8b879979afcc376d19fcd76fc", null ],
+    [ "PhalanxActivationState", "d8/dd4/a12855.html#a6491153346873435eac9cd998b846d41", null ],
     [ "PhalanxGUID", "d8/dd4/a12855.html#a4d194b034dad5655ec474e6a8b1d9639", null ],
     [ "PriestessGUID", "d8/dd4/a12855.html#ac1733be99347c846156c9c77d25b6431", null ],
     [ "str_data", "d8/dd4/a12855.html#af848bc32ca0f209e6c7cb3c2a448df61", null ],

@@ -1,9 +1,6 @@
 var a28675 =
 [
-    [ "npc_chicken_cluckAI", "d2/d4c/a28675.html#a4f2eaa107e2a8b4900fac54780ac9693", null ],
-    [ "JustEngagedWith", "d2/d4c/a28675.html#a854eae196c68cb1e4dd1c1773870ef9a", null ],
-    [ "ReceiveEmote", "d2/d4c/a28675.html#aa5d6d3ea3ad4d0f81781581a39933fc8", null ],
-    [ "Reset", "d2/d4c/a28675.html#a5a32f458a7f09282e7ac53fa7d6255b4", null ],
-    [ "UpdateAI", "d2/d4c/a28675.html#a86c8f74d0a55b9a041a789f16de8189d", null ],
-    [ "ResetFlagTimer", "d2/d4c/a28675.html#a0d0507ae7a1eca369df288515856e1b5", null ]
+    [ "npc_dancing_flamesAI", "d7/d04/a28679.html", "d7/d04/a28679" ],
+    [ "npc_dancing_flames", "d2/d4c/a28675.html#adec0401f876ddf159f28fdda8bc4d563", null ],
+    [ "GetAI", "d2/d4c/a28675.html#a1000d0b95dab3a6e73efa0ca088ce4e6", null ]
 ];

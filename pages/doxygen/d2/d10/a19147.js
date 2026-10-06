@@ -1,17 +1,17 @@
 var a19147 =
 [
-    [ "boss_sister_svalnaAI", "d2/d10/a19147.html#a8ffe7c40e6de53455caa86e1487c1234", null ],
-    [ "DoAction", "d2/d10/a19147.html#a43c5be9641399b1fec35ef9b34d4fa7b", null ],
-    [ "InitializeAI", "d2/d10/a19147.html#a6b709adc055b4be2824319d9ee881993", null ],
-    [ "JustDied", "d2/d10/a19147.html#ab397adda97c8b21e9a53edccdadb8760", null ],
-    [ "JustEngagedWith", "d2/d10/a19147.html#af930733e0f143c7fd0f214043b7fa9ef", null ],
-    [ "JustExitedCombat", "d2/d10/a19147.html#a0555e77ec8a37965ff32d5b4e58ab12b", null ],
-    [ "JustReachedHome", "d2/d10/a19147.html#a48aa3470b84686a6277616ed1b2d8364", null ],
-    [ "KilledUnit", "d2/d10/a19147.html#a95c259d62cd4aab4a0b8a38ba98feb7a", null ],
-    [ "MovementInform", "d2/d10/a19147.html#a4f1da0ead975b554704f4a068b1edb1d", null ],
-    [ "Reset", "d2/d10/a19147.html#a4ba1ac914a7ae5c3b229d648b8fac9ee", null ],
-    [ "SpellHit", "d2/d10/a19147.html#a9b5533f2f3a985f42bac098cc08e4cd1", null ],
-    [ "SpellHitTarget", "d2/d10/a19147.html#a5236b715548c9c1b310a3227f8bf2bc8", null ],
-    [ "UpdateAI", "d2/d10/a19147.html#a87e4f558db85e2c1ec192d35bde1eb8a", null ],
-    [ "_isEventInProgress", "d2/d10/a19147.html#a0da237e729301c8db3ceccea2b0988b1", null ]
+    [ "npc_argent_captainAI", "d2/d10/a19147.html#a4e9d65fa7c870c98d79ff30ae262385d", null ],
+    [ "CanAIAttack", "d2/d10/a19147.html#a542075fcf2d487dedc6f11672e3507ba", null ],
+    [ "DoAction", "d2/d10/a19147.html#a77f0b2d41d631f3ff7a3ea8d13716de1", null ],
+    [ "EnterEvadeMode", "d2/d10/a19147.html#afaebff86ad9be5835c2e289625c07d16", null ],
+    [ "JustDied", "d2/d10/a19147.html#a7f132fa843ba292cc89a64c77ce48bc4", null ],
+    [ "JustEngagedWith", "d2/d10/a19147.html#a43818e75274cad597fd883f75119d63c", null ],
+    [ "KilledUnit", "d2/d10/a19147.html#abc2dbc233082f9d7626759fbcccb34a2", null ],
+    [ "Reset", "d2/d10/a19147.html#a0709350a6841b6008935c050a1db7784", null ],
+    [ "SpellHit", "d2/d10/a19147.html#a8aee635d2739564281b5af04955e4d4a", null ],
+    [ "Events", "d2/d10/a19147.html#a1cffce3d371bef959d76270608247def", null ],
+    [ "FollowAngle", "d2/d10/a19147.html#a059c34261439fc80b0bff9d62b537489", null ],
+    [ "FollowDist", "d2/d10/a19147.html#a4fde069032f7c6578f7f518b45f141d2", null ],
+    [ "instance", "d2/d10/a19147.html#a131f11a8a67e3eb60759c699fc2cec1b", null ],
+    [ "IsUndead", "d2/d10/a19147.html#a9eaf5d2c9e52650c28b8f7feef0e681c", null ]
 ];

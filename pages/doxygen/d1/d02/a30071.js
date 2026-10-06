@@ -1,5 +1,4 @@
 var a30071 =
 [
-    [ "CreateBasicProcEntry", "d1/d02/a30071.html#a047473844c17b28cab20159721fc9ee8", null ],
-    [ "SetUp", "d1/d02/a30071.html#ad9848a18a0b1fa950cabcfa1584e0103", null ]
+    [ "MakeConfig", "d1/d02/a30071.html#af13a52623068599431891319a5a9e417", null ]
 ];

@@ -1,8 +1,9 @@
 var a26987 =
 [
-    [ "CheckCast", "d7/d2c/a26987.html#a5fc226206c08aa65459c144cd5f34c6c", null ],
-    [ "PrepareSpellScript", "d7/d2c/a26987.html#a1c0f324c7c2f2799990dcc116edd69cf", null ],
-    [ "Register", "d7/d2c/a26987.html#a35239e58eb76c0ffe74e0feee2250fa1", null ],
-    [ "TriggerDebuffs", "d7/d2c/a26987.html#a1579b28071e2194625f722a29ded39b8", null ],
-    [ "Validate", "d7/d2c/a26987.html#a767853d4b05e055cb32991bfe8c6516a", null ]
+    [ "spell_pal_improved_aura_effect", "d7/d2c/a26987.html#a8b413208ee8842e844e4129725e8c99e", null ],
+    [ "CheckAreaTarget", "d7/d2c/a26987.html#a0e61a579344eb8e91d0dd58554fc6ecb", null ],
+    [ "PrepareAuraScript", "d7/d2c/a26987.html#a1aa9d9c753032febf7cc86ce53ad2a99", null ],
+    [ "Register", "d7/d2c/a26987.html#acd92f952c3aeede5c7131fb84aa6334d", null ],
+    [ "Validate", "d7/d2c/a26987.html#a553e45e2963e915fb5a2e123160af83a", null ],
+    [ "_auraSpellId", "d7/d2c/a26987.html#a960fabe394cdf4666b637a7d65b90645", null ]
 ];

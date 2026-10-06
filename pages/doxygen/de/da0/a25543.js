@@ -1,6 +1,7 @@
 var a25543 =
 [
-    [ "CalculateAmount", "de/da0/a25543.html#a0522f4bf54b4a71df4e09f97a28fda45", null ],
-    [ "PrepareAuraScript", "de/da0/a25543.html#acf699e467734499dd992f401da38cf88", null ],
-    [ "Register", "de/da0/a25543.html#a6e6396a162a532ff25b9bd7c551f05d8", null ]
+    [ "CalculateAmount", "de/da0/a25543.html#a074a7de6cd4d930c1f23f6398c738bad", null ],
+    [ "Load", "de/da0/a25543.html#a777803a61286e0eba31246d4771630df", null ],
+    [ "PrepareAuraScript", "de/da0/a25543.html#ab76bc3927d3ce31ae061fe8577ca25f0", null ],
+    [ "Register", "de/da0/a25543.html#a335e1629b98bfacf6e4e565b94d4991e", null ]
 ];

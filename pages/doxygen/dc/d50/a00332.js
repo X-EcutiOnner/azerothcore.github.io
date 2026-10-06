@@ -1,6 +1,6 @@
 var a00332 =
 [
-    [ "boss_zereketh_the_unbound", "d3/deb/a23911.html", "d3/deb/a23911" ],
+    [ "boss_zereketh_the_unbound", "d9/dfd/a23903.html", "d9/dfd/a23903" ],
     [ "Say", "dc/d50/a00332.html#aa58e311eb19c72984d1fb3bcf9ae2a68", [
       [ "SAY_AGGRO", "de/d1a/a01559.html#aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe", null ],
       [ "SAY_LEASH", "de/d1a/a01559.html#aa58e311eb19c72984d1fb3bcf9ae2a68a7d67e29b0f8ef4c0df41e318ab764d9a", null ],
@@ -1559,6 +1559,9 @@ var a00332 =
       [ "SPELL_SUMMON_ANUBAR_CHAMPION", "d4/d34/a01298.html#a5bd342133be8c2137b831460acc9298ca955222dec7f2d59479819a182bd3ac76", null ],
       [ "SPELL_SUMMON_ANUBAR_CRYPT_FIEND", "d4/d34/a01298.html#a5bd342133be8c2137b831460acc9298caffad25e7761a107389a6d7c6486ec2c6", null ],
       [ "SPELL_SUMMON_ANUBAR_NECROMANCER", "d4/d34/a01298.html#a5bd342133be8c2137b831460acc9298caf07838be352ede03f94aa88b2ff632f0", null ],
+      [ "SPELL_SUMMON_ANUBAR_CHAMPION_LOWER", "d4/d34/a01298.html#a5bd342133be8c2137b831460acc9298cac36ff29f3b1e8b4527b0178d9e8a9ddd", null ],
+      [ "SPELL_SUMMON_ANUBAR_CRYPT_FIEND_LOWER", "d4/d34/a01298.html#a5bd342133be8c2137b831460acc9298ca3f22f063f72d9e3db3c81bdfbb87d320", null ],
+      [ "SPELL_SUMMON_ANUBAR_NECROMANCER_LOWER", "d4/d34/a01298.html#a5bd342133be8c2137b831460acc9298ca6f805b79f66c39af5dd9da9e9a347586", null ],
       [ "SPELL_SUMMON_ANUBAR_CHAMPION_PERIODIC", "d4/d34/a01298.html#a5bd342133be8c2137b831460acc9298ca78885d55af571d0af9d211ba340c50b0", null ],
       [ "SPELL_SUMMON_ANUBAR_NECROMANCER_PERIODIC", "d4/d34/a01298.html#a5bd342133be8c2137b831460acc9298ca5cb34a7f99ba66aac48ee6df415415e9", null ],
       [ "SPELL_SUMMON_ANUBAR_CRYPT_FIEND_PERIODIC", "d4/d34/a01298.html#a5bd342133be8c2137b831460acc9298cadb4ae793c57efbb7f028f379e7e6979b", null ],

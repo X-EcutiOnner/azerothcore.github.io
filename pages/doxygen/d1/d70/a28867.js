@@ -1,5 +1,5 @@
 var a28867 =
 [
-    [ "ServerMailReward", "d1/d70/a28867.html#aba48b4c171e8e8a40fca2d3bed6b7f63", null ],
-    [ "OnPlayerLogin", "d1/d70/a28867.html#ada945e805278d54746b6fabaf48b4546", null ]
+    [ "npc_suns_reach_reclamation", "d1/d70/a28867.html#aa66b75aa1a4a96a97c4d2c4e42e3d6bb", null ],
+    [ "OnQuestReward", "d1/d70/a28867.html#aa403d14fccda7adbec1ffeb765079c25", null ]
 ];

@@ -1,8 +1,6 @@
 var a29771 =
 [
-    [ "auraHasCanProcFromProcs", "d8/d4b/a29771.html#af3e394eb5563aa4a76bd51d6c52f6db2", null ],
-    [ "isTriggered", "d8/d4b/a29771.html#aae527e9b8a2969ef67e9c4fbaf43c381", null ],
-    [ "procAuraSpellId", "d8/d4b/a29771.html#ae198c80e6c72eeb72da0abcde8a0f13a", null ],
-    [ "spellHasNotAProc", "d8/d4b/a29771.html#ab2f859d45c5a9a02301ecc117bf3e25e", null ],
-    [ "triggeredByAuraSpellId", "d8/d4b/a29771.html#ad62562e342e1d090e3f26f7c40a35795", null ]
+    [ "lastExtraAttackSpell", "d8/d4b/a29771.html#a0b7c47a0c1a328703648936a1da3245f", null ],
+    [ "triggeredSpellHasExtraAttacks", "d8/d4b/a29771.html#ad58a8f2f91c6a32371feab14e51e8e29", null ],
+    [ "triggerSpellId", "d8/d4b/a29771.html#a01a4d76e7e2bf15a3ae06926fa1189c9", null ]
 ];

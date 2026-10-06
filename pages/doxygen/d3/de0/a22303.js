@@ -1,7 +1,5 @@
 var a22303 =
 [
-    [ "HandleScriptEffect", "d3/de0/a22303.html#ad20cf97a7dd442d5670a22095b487a01", null ],
-    [ "PrepareSpellScript", "d3/de0/a22303.html#ab0f6da0cb3115e54dbb59f0e6f823d02", null ],
-    [ "Register", "d3/de0/a22303.html#a996ea344ea2a3312cb8886565b80972d", null ],
-    [ "Validate", "d3/de0/a22303.html#a29bf5a9615e02281f426bf521a045567", null ]
+    [ "npc_guardian_pavilionAI", "d3/de0/a22303.html#a2c116495e65c7f97063aa7dc6516f48c", null ],
+    [ "MoveInLineOfSight", "d3/de0/a22303.html#aeae26e28be93120062d9f77c069ff32a", null ]
 ];

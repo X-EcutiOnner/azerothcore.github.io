@@ -1,7 +1,6 @@
 var a19603 =
 [
-    [ "FilterTargets", "d8/d24/a19603.html#a56ff062a6014099623466145a66284cc", null ],
-    [ "PrepareSpellScript", "d8/d24/a19603.html#aa14623bb948ff457e52979facf74ffab", null ],
-    [ "Register", "d8/d24/a19603.html#a9494bea35088161c9a520395d714fde1", null ],
-    [ "Validate", "d8/d24/a19603.html#a6a02bc1a79a5f4fefe3b1e2900eaf0b4", null ]
+    [ "boss_grobbulusAI", "da/db8/a19607.html", "da/db8/a19607" ],
+    [ "boss_grobbulus", "d8/d24/a19603.html#acf1b781e86e33a363b68354d34d3c015", null ],
+    [ "GetAI", "d8/d24/a19603.html#ae918614566a0b9979aef4e1aeaac394c", null ]
 ];

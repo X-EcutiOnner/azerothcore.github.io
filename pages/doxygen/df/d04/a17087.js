@@ -1,6 +1,7 @@
 var a17087 =
 [
-    [ "npc_toc_retro_paladinAI", "d1/d58/a17091.html", "d1/d58/a17091" ],
-    [ "npc_toc_retro_paladin", "df/d04/a17087.html#abfb15148aefe186447cfdb3a2c8749c4", null ],
-    [ "GetAI", "df/d04/a17087.html#a1213c99792aa4362275bc827aa2f037e", null ]
+    [ "npc_toc_retro_paladinAI", "df/d04/a17087.html#afe933281cea61c9a4f3ded76290a3b72", null ],
+    [ "myCanCast", "df/d04/a17087.html#a271b1d0855dbd2e38ecb6ea62140012f", null ],
+    [ "UpdateAI", "df/d04/a17087.html#a105d6b9c133c1147b310826d7be416f5", null ],
+    [ "events", "df/d04/a17087.html#a7078c28d5392bc77d577fa7a6f96b9d7", null ]
 ];

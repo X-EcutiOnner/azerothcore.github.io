@@ -1,10 +1,7 @@
 var a16571 =
 [
-    [ "boss_sartharion_tenebron", "db/dfc/a16571.html#aed0f47aa2ed463ae0d2219e54e7b91bc", null ],
-    [ "ClearInstance", "db/dfc/a16571.html#ac21b27a510d6c087d19bebe2b2a5426b", null ],
-    [ "ExecuteEvent", "db/dfc/a16571.html#ad61c290ccbd36d9b1bb24d6c44f390c3", null ],
-    [ "JustDied", "db/dfc/a16571.html#aa57a9180c2fbc2441622a6b3b4fd1fb1", null ],
-    [ "JustSummoned", "db/dfc/a16571.html#ae4e49d7bee95c929ece64beeca940a0a", null ],
-    [ "Reset", "db/dfc/a16571.html#a5bd12ada3fc396478ebbe39329aaf74b", null ],
-    [ "summons2", "db/dfc/a16571.html#a59b131fcd2298640390fcd0f662f132d", null ]
+    [ "boss_sartharion_shadron", "db/dfc/a16571.html#ab4a7991c276a12af0b54936c271bfd0b", null ],
+    [ "ExecuteEvent", "db/dfc/a16571.html#a1f1a235d4d5654e273ef821ebf962491", null ],
+    [ "Reset", "db/dfc/a16571.html#a8511eb55a486665a248d555337c25002", null ],
+    [ "SummonedCreatureDies", "db/dfc/a16571.html#a3967c70698675d2c925a1a0366bf1d00", null ]
 ];

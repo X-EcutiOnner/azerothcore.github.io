@@ -1,6 +1,6 @@
 var a22075 =
 [
-    [ "npc_mrfloppyAI", "d7/dac/a22079.html", "d7/dac/a22079" ],
-    [ "npc_mrfloppy", "da/d67/a22075.html#a0515ca75aba9b7f6f5577b53e7520f6e", null ],
-    [ "GetAI", "da/d67/a22075.html#a88590566309f3fc155eb6dc26055a161", null ]
+    [ "npc_ravenous_worgAI", "d7/dac/a22079.html", "d7/dac/a22079" ],
+    [ "npc_ravenous_worg", "da/d67/a22075.html#ad7f8da1c82072367fe4a537620df9ac0", null ],
+    [ "GetAI", "da/d67/a22075.html#ac966ae31d3a86c9435b14d9f50a5f4cb", null ]
 ];

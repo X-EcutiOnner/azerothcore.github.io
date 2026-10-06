@@ -1,6 +1,9 @@
 var a16823 =
 [
-    [ "npc_memoryAI", "d5/d11/a16827.html", "d5/d11/a16827" ],
-    [ "npc_memory", "d9/d94/a16823.html#acebf31813025d323f9486d6575a60483", null ],
-    [ "GetAI", "d9/d94/a16823.html#ad8e532d029217a06d11ae39810498976", null ]
+    [ "npc_memoryAI", "d9/d94/a16823.html#ad927d377d60b44f43808469042f5feb9", null ],
+    [ "JustDied", "d9/d94/a16823.html#a7b0484919d671877f29dfa05ca1265d9", null ],
+    [ "Reset", "d9/d94/a16823.html#a985c51bbfa2cceeb7601432491253aaf", null ],
+    [ "UpdateAI", "d9/d94/a16823.html#a6cb74389f5aea91d2062e007ea08acd7", null ],
+    [ "events", "d9/d94/a16823.html#a2ed2993e89728a3723456a67e13581f7", null ],
+    [ "pInstance", "d9/d94/a16823.html#a31bcb5041844ea5e3a076ad1366897e1", null ]
 ];

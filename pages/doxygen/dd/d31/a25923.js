@@ -1,6 +1,8 @@
 var a25923 =
 [
-    [ "CheckCast", "dd/d31/a25923.html#a1fbbba8bdc9f775963a999aa00a5a256", null ],
-    [ "PrepareSpellScript", "dd/d31/a25923.html#a481f9d36567607697c3ad5d9501bba48", null ],
-    [ "Register", "dd/d31/a25923.html#afff66ccf4f6596475f4b58c529472f26", null ]
+    [ "HandleRapidFireProc", "dd/d31/a25923.html#a174eb1d766c0ae7f59fabdefe565e1de", null ],
+    [ "HandleRapidKillingProc", "dd/d31/a25923.html#a12f24814d41837c8ddb8a42c8e932077", null ],
+    [ "PrepareAuraScript", "dd/d31/a25923.html#aa75ea03f718a90a49d81ff49d765c74d", null ],
+    [ "Register", "dd/d31/a25923.html#af1d93d8ea32a74f7bb6c115f21c5c6c3", null ],
+    [ "Validate", "dd/d31/a25923.html#a01598fbd355dfdd4517d4221ad5ae323", null ]
 ];

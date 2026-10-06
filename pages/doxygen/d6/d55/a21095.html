@@ -511,10 +511,10 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1559</span>                                                 : <a class="code hl_class" href="../../d5/d4e/a06559.html">NullCreatureAI</a>(creature)</div>
-<div class="line"><span class="lineno"> 1560</span>    {</div>
-<div class="line"><span class="lineno"> 1561</span>        <a class="code hl_variable" href="../../dc/d4f/a06619.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../dc/d4f/a06619.html#aee5bf3d421199445de241a34798ae819">me</a>, <a class="code hl_enumvalue" href="../../df/dd5/a01115.html#a1b30ee7b66756f07902ec6940e772f08a1b79d584917496f2cdd711fc126a6c02">SPELL_DEATH_RAY_ORIGIN_VISUAL</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno"> 1562</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1558</span>                                                 : <a class="code hl_class" href="../../d5/d4e/a06559.html">NullCreatureAI</a>(creature)</div>
+<div class="line"><span class="lineno"> 1559</span>    {</div>
+<div class="line"><span class="lineno"> 1560</span>        <a class="code hl_variable" href="../../dc/d4f/a06619.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../dc/d4f/a06619.html#aee5bf3d421199445de241a34798ae819">me</a>, <a class="code hl_enumvalue" href="../../df/dd5/a01115.html#a1b30ee7b66756f07902ec6940e772f08a1b79d584917496f2cdd711fc126a6c02">SPELL_DEATH_RAY_ORIGIN_VISUAL</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno"> 1561</span>    }</div>
 <div class="ttc" id="aa01115_html_a1b30ee7b66756f07902ec6940e772f08a1b79d584917496f2cdd711fc126a6c02"><div class="ttname"><a href="../../df/dd5/a01115.html#a1b30ee7b66756f07902ec6940e772f08a1b79d584917496f2cdd711fc126a6c02">SPELL_DEATH_RAY_ORIGIN_VISUAL</a></div><div class="ttdeci">@ SPELL_DEATH_RAY_ORIGIN_VISUAL</div><div class="ttdef"><b>Definition:</b> boss_yoggsaron.cpp:90</div></div>
 <div class="ttc" id="aa06559_html"><div class="ttname"><a href="../../d5/d4e/a06559.html">NullCreatureAI</a></div><div class="ttdef"><b>Definition:</b> PassiveAI.h:56</div></div>
 <div class="ttc" id="aa06619_html_aee5bf3d421199445de241a34798ae819"><div class="ttname"><a href="../../dc/d4f/a06619.html#aee5bf3d421199445de241a34798ae819">CreatureAI::me</a></div><div class="ttdeci">Creature *const me</div><div class="ttdef"><b>Definition:</b> CreatureAI.h:71</div></div>
@@ -550,14 +550,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dc/d4f/a06619.html#ae994802040dee85cb8b020d8629b9f94">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1565</span>    {</div>
-<div class="line"><span class="lineno"> 1566</span>        <span class="comment">// Sniffed: each ray comes from its own serverside summon spell, falls from the orb</span></div>
-<div class="line"><span class="lineno"> 1567</span>        <span class="comment">// to the ground below it, and the orb winks out when their damage phase ends</span></div>
-<div class="line"><span class="lineno"> 1568</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d6/d12/a04691.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> spellId = <a class="code hl_enumvalue" href="../../df/dd5/a01115.html#a1b30ee7b66756f07902ec6940e772f08adb46a3f44e4a2713ead3b074134ef216">SPELL_DEATH_RAY_SUMMON_1</a>; spellId &lt;= <a class="code hl_enumvalue" href="../../df/dd5/a01115.html#a1b30ee7b66756f07902ec6940e772f08a731f042e05f0b9e9b7f3f0b1cfca2a16">SPELL_DEATH_RAY_SUMMON_4</a>; ++spellId)</div>
-<div class="line"><span class="lineno"> 1569</span>            <a class="code hl_variable" href="../../dc/d4f/a06619.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../dc/d4f/a06619.html#aee5bf3d421199445de241a34798ae819">me</a>, spellId, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno"> 1570</span> </div>
-<div class="line"><span class="lineno"> 1571</span>        <a class="code hl_variable" href="../../dc/d4f/a06619.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d5/d6c/a08471.html#ab5bbc9b5cedb702466f5d0c1fcddb8f9">DespawnOrUnsummon</a>(18400ms);</div>
-<div class="line"><span class="lineno"> 1572</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1564</span>    {</div>
+<div class="line"><span class="lineno"> 1565</span>        <span class="comment">// Sniffed: each ray comes from its own serverside summon spell, falls from the orb</span></div>
+<div class="line"><span class="lineno"> 1566</span>        <span class="comment">// to the ground below it, and the orb winks out when their damage phase ends</span></div>
+<div class="line"><span class="lineno"> 1567</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d6/d12/a04691.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> spellId = <a class="code hl_enumvalue" href="../../df/dd5/a01115.html#a1b30ee7b66756f07902ec6940e772f08adb46a3f44e4a2713ead3b074134ef216">SPELL_DEATH_RAY_SUMMON_1</a>; spellId &lt;= <a class="code hl_enumvalue" href="../../df/dd5/a01115.html#a1b30ee7b66756f07902ec6940e772f08a731f042e05f0b9e9b7f3f0b1cfca2a16">SPELL_DEATH_RAY_SUMMON_4</a>; ++spellId)</div>
+<div class="line"><span class="lineno"> 1568</span>            <a class="code hl_variable" href="../../dc/d4f/a06619.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../dc/d4f/a06619.html#aee5bf3d421199445de241a34798ae819">me</a>, spellId, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno"> 1569</span> </div>
+<div class="line"><span class="lineno"> 1570</span>        <a class="code hl_variable" href="../../dc/d4f/a06619.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d5/d6c/a08471.html#ab5bbc9b5cedb702466f5d0c1fcddb8f9">DespawnOrUnsummon</a>(18400ms);</div>
+<div class="line"><span class="lineno"> 1571</span>    }</div>
 <div class="ttc" id="aa01115_html_a1b30ee7b66756f07902ec6940e772f08a731f042e05f0b9e9b7f3f0b1cfca2a16"><div class="ttname"><a href="../../df/dd5/a01115.html#a1b30ee7b66756f07902ec6940e772f08a731f042e05f0b9e9b7f3f0b1cfca2a16">SPELL_DEATH_RAY_SUMMON_4</a></div><div class="ttdeci">@ SPELL_DEATH_RAY_SUMMON_4</div><div class="ttdef"><b>Definition:</b> boss_yoggsaron.cpp:97</div></div>
 <div class="ttc" id="aa01115_html_a1b30ee7b66756f07902ec6940e772f08adb46a3f44e4a2713ead3b074134ef216"><div class="ttname"><a href="../../df/dd5/a01115.html#a1b30ee7b66756f07902ec6940e772f08adb46a3f44e4a2713ead3b074134ef216">SPELL_DEATH_RAY_SUMMON_1</a></div><div class="ttdeci">@ SPELL_DEATH_RAY_SUMMON_1</div><div class="ttdef"><b>Definition:</b> boss_yoggsaron.cpp:94</div></div>
 <div class="ttc" id="aa04691_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d6/d12/a04691.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
@@ -592,11 +592,11 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dc/d4f/a06619.html#a3a55253d96d72f1df305b2ccfa7284ca">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1575</span>    {</div>
-<div class="line"><span class="lineno"> 1576</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../da/d3a/a10159.html">InstanceScript</a>* instance = <a class="code hl_variable" href="../../dc/d4f/a06619.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d4/d08/a08883.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>())</div>
-<div class="line"><span class="lineno"> 1577</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d5/d6c/a08471.html">Creature</a>* sara = instance-&gt;GetCreature(<a class="code hl_enumvalue" href="../../d9/d5b/a01127.html#a637b611fb0e8ff96b12cacdde24ac9b2a06f41a511c243ae0da7873a35c0d3fae">DATA_SARA</a>))</div>
-<div class="line"><span class="lineno"> 1578</span>                sara-&gt;AI()-&gt;JustSummoned(summon);</div>
-<div class="line"><span class="lineno"> 1579</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1574</span>    {</div>
+<div class="line"><span class="lineno"> 1575</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../da/d3a/a10159.html">InstanceScript</a>* instance = <a class="code hl_variable" href="../../dc/d4f/a06619.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d4/d08/a08883.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>())</div>
+<div class="line"><span class="lineno"> 1576</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d5/d6c/a08471.html">Creature</a>* sara = instance-&gt;GetCreature(<a class="code hl_enumvalue" href="../../d9/d5b/a01127.html#a637b611fb0e8ff96b12cacdde24ac9b2a06f41a511c243ae0da7873a35c0d3fae">DATA_SARA</a>))</div>
+<div class="line"><span class="lineno"> 1577</span>                sara-&gt;AI()-&gt;JustSummoned(summon);</div>
+<div class="line"><span class="lineno"> 1578</span>    }</div>
 <div class="ttc" id="aa01127_html_a637b611fb0e8ff96b12cacdde24ac9b2a06f41a511c243ae0da7873a35c0d3fae"><div class="ttname"><a href="../../d9/d5b/a01127.html#a637b611fb0e8ff96b12cacdde24ac9b2a06f41a511c243ae0da7873a35c0d3fae">DATA_SARA</a></div><div class="ttdeci">@ DATA_SARA</div><div class="ttdef"><b>Definition:</b> ulduar.h:129</div></div>
 <div class="ttc" id="aa08471_html"><div class="ttname"><a href="../../d5/d6c/a08471.html">Creature</a></div><div class="ttdef"><b>Definition:</b> Creature.h:47</div></div>
 <div class="ttc" id="aa08883_html_a29762f86d0726e4d229df51281b9d710"><div class="ttname"><a href="../../d4/d08/a08883.html#a29762f86d0726e4d229df51281b9d710">WorldObject::GetInstanceScript</a></div><div class="ttdeci">InstanceScript * GetInstanceScript() const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1247</div></div>
@@ -612,7 +612,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d6/d55/a21095.html">boss_yoggsaron_death_orb</a></li>
-    <li class="footer">Generated on Tue Sep 29 2026 01:13:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Tue Oct 6 2026 01:26:24 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,9 +1,17 @@
 var a29415 =
 [
-    [ "itemId", "de/dc7/a29415.html#ae125712e5569c9699b4748b6a15fbc12", null ],
-    [ "items_to_triggerspell", "de/dc7/a29415.html#a8496a2f3fa3e230def04b996fc585760", null ],
-    [ "name", "de/dc7/a29415.html#a9b62f843833d524f200782d44151503d", null ],
-    [ "required_skill_id", "de/dc7/a29415.html#ab3058ac725fb8f105b9359d5a5147942", null ],
-    [ "required_skill_value", "de/dc7/a29415.html#a58d0997a73cf48061545edbc0201f544", null ],
-    [ "spells", "de/dc7/a29415.html#a8aac032992efe1bfbba0e49693562c7f", null ]
+    [ "Entry", "de/dc7/a29415.html#a4e8689fabe6b3ef5c495bf84fa1945b7", null ],
+    [ "Difficulty", "de/dc7/a29415.html#aa85e97ced86b0d27c753ca924eba074b", null ],
+    [ "ExpansionLevel", "de/dc7/a29415.html#a5bbacc248aa127b889d60b3a25b12b83", null ],
+    [ "Flags", "de/dc7/a29415.html#a9481c296a064ec400b0f050097903557", null ],
+    [ "GroupID", "de/dc7/a29415.html#a7a6c2971a61b171d00c885ce452601ce", null ],
+    [ "ID", "de/dc7/a29415.html#ae0fdf0d9afd2f99e9b7e6094960e86e0", null ],
+    [ "MapID", "de/dc7/a29415.html#a6c947b111d7d356ba02eb6fffc77f5cb", null ],
+    [ "MaxLevel", "de/dc7/a29415.html#aa4fbfd45d4319c9e8319508821bf4a65", null ],
+    [ "MinLevel", "de/dc7/a29415.html#a17ae5fe60486c54a3becb2b14d5953c9", null ],
+    [ "Name", "de/dc7/a29415.html#a7cb21e4e996be24d531b03fea66ecd27", null ],
+    [ "TargetLevel", "de/dc7/a29415.html#a2e6456d16cce98666b0ac63cebf0eb82", null ],
+    [ "TargetLevelMax", "de/dc7/a29415.html#ae4a27f7bc0563f606f40d955a40fab1e", null ],
+    [ "TargetLevelMin", "de/dc7/a29415.html#a7558f3dc7d695fb17bc3b64e0c381de7", null ],
+    [ "TypeID", "de/dc7/a29415.html#a84a498b44063cc95ba1a3b565c44a81b", null ]
 ];

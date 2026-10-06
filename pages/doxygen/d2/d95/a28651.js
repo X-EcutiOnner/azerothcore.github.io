@@ -1,8 +1,6 @@
 var a28651 =
 [
-    [ "npc_training_dummy", "d2/d95/a28651.html#a7cf3b633e444d67dfaea6308e3ed2dc1", null ],
-    [ "DamageTaken", "d2/d95/a28651.html#accd7c39cd7b22b30e654288b034f1319", null ],
-    [ "JustEnteredCombat", "d2/d95/a28651.html#a2dad51de23663e7b0bf6bcd2ce86a290", null ],
-    [ "UpdateAI", "d2/d95/a28651.html#abd6941fcfd3bdff557b38017bc74e83c", null ],
-    [ "_combatTimer", "d2/d95/a28651.html#a6e2ed26a35fecc3fe6e1957c3ed47124", null ]
+    [ "npc_target_dummy", "d2/d95/a28651.html#a097033431f3bfa2e5e05ab1c76b0a4fa", null ],
+    [ "Reset", "d2/d95/a28651.html#a3fcccbe2c48bf5e076e8b016195e1469", null ],
+    [ "UpdateAI", "d2/d95/a28651.html#a32e9e139a54375b336c112deee3687cd", null ]
 ];

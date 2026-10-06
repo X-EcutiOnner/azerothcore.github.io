@@ -1,7 +1,6 @@
 var a27335 =
 [
-    [ "HandleScriptEffect", "de/d30/a27335.html#ae7bfcdf3306fe4c8532649ff7e892c57", null ],
-    [ "PrepareSpellScript", "de/d30/a27335.html#ad2bfab00a973366af32388e40b9d2566", null ],
-    [ "Register", "de/d30/a27335.html#acbf74d85d9d8ce8e9ce0546c90cb7efa", null ],
-    [ "Validate", "de/d30/a27335.html#a487fa0e6b5f2682349b22737ceeae50c", null ]
+    [ "OnApply", "de/d30/a27335.html#a50ced6d5a475ccad9429dfbb05130394", null ],
+    [ "PrepareAuraScript", "de/d30/a27335.html#abd02e129b1201449d473a66aea77d569", null ],
+    [ "Register", "de/d30/a27335.html#a8c09775f642335252c6e548900dc9d3a", null ]
 ];

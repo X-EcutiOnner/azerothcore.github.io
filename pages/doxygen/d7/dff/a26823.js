@@ -1,7 +1,8 @@
 var a26823 =
 [
-    [ "CheckAreaTarget", "d7/dff/a26823.html#a2d240518259d2452d263fc436de5056e", null ],
-    [ "PrepareAuraScript", "d7/dff/a26823.html#a0b97b273f13805f027e5f5113d4a8e40", null ],
-    [ "Register", "d7/dff/a26823.html#a50406feea1b2cf34ad101a3b1fd25d7c", null ],
-    [ "Validate", "d7/dff/a26823.html#adfd1ccae4029680415409df737aa2533", null ]
+    [ "HandleApply", "d7/dff/a26823.html#aafdf3712f163919f010d11d0becb398f", null ],
+    [ "HandleRemove", "d7/dff/a26823.html#ac3e33cb37d13b633f3938a48917a4975", null ],
+    [ "PrepareAuraScript", "d7/dff/a26823.html#a42590a0ef43a48c5309f995f9bec5c9b", null ],
+    [ "Register", "d7/dff/a26823.html#a84e7337494dc2e1772ca10dea26c675f", null ],
+    [ "Validate", "d7/dff/a26823.html#ac2558aafb3ce66ca7bbfd718eb8c6338", null ]
 ];

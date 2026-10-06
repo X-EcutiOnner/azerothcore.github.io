@@ -1,5 +1,5 @@
 var a25699 =
 [
-    [ "PrepareSpellScript", "dc/deb/a25699.html#a53fe40a7d280c5fcc733d2647ef09b41", null ],
-    [ "Register", "dc/deb/a25699.html#ae2d3eb8ff055aa66a00567af75c65138", null ]
+    [ "PrepareSpellScript", "dc/deb/a25699.html#af2a8cfb5f732691622b4c633f4dde253", null ],
+    [ "Register", "dc/deb/a25699.html#ae171d4b40e72498a5dbb4ac65ee1619d", null ]
 ];

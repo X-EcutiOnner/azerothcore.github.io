@@ -1,6 +1,7 @@
 var a15979 =
 [
-    [ "npc_webbed_creatureAI", "d7/ddb/a15983.html", "d7/ddb/a15983" ],
-    [ "npc_webbed_creature", "db/da5/a15979.html#ae52152939766c411e45e827e9ab52d4f", null ],
-    [ "GetAI", "db/da5/a15979.html#a30fd53b81260b7fd6ca06881930b79e9", null ]
+    [ "npc_webbed_creatureAI", "db/da5/a15979.html#a6b7507eda84c29d6bd557b1b424ee10a", null ],
+    [ "JustDied", "db/da5/a15979.html#a5b6d5acdc124cba74229b20b2628c3c3", null ],
+    [ "JustEngagedWith", "db/da5/a15979.html#ac52ad6512bcaee35932f856abdac80d4", null ],
+    [ "Reset", "db/da5/a15979.html#a459eaadd7f0145b7a1a6caf99d1e8a5d", null ]
 ];

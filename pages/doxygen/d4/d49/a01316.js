@@ -1,6 +1,7 @@
 var a01316 =
 [
     [ "DataHeader", "d4/d49/a01316.html#a042491ef36459046f3866e90f15aae0d", null ],
+    [ "RegisterTrialOfTheCrusaderCreatureAI", "d4/d49/a01316.html#a9c51a9b0706b9488a820b5643179b0c1", null ],
     [ "TrialOfTheCrusaderScriptName", "d4/d49/a01316.html#ae640f61e906842f9877d3e8040bc13e3", null ],
     [ "DataTypes", "d4/d49/a01316.html#afb6eb4f28419b652027fad41104a6d22", [
       [ "TYPE_RING_OF_LAW", "d2/d2f/a01586.html#afb6eb4f28419b652027fad41104a6d22a1c9f95dc82dd6ef7017753b231810d01", null ],
@@ -40,6 +41,7 @@ var a01316 =
       [ "DATA_TIME_RING_FAIL", "d2/d2f/a01586.html#afb6eb4f28419b652027fad41104a6d22a4abb3f6d8e6340e60ec7d3c735631bc3", null ],
       [ "DATA_ARENA_MOBS", "d2/d2f/a01586.html#afb6eb4f28419b652027fad41104a6d22ae405a4644ad229ef399425964bcbee9a", null ],
       [ "DATA_ARENA_BOSS", "d2/d2f/a01586.html#afb6eb4f28419b652027fad41104a6d22a6b452f1118390453a0a198a0e77b222b", null ],
+      [ "DATA_PHALANX_ACTIVATED", "d2/d2f/a01586.html#afb6eb4f28419b652027fad41104a6d22a9aed024b657527edf9f6006b8f06992f", null ],
       [ "DATA_HIGHLORD_OMOKK", "d0/da4/a01631.html#afb6eb4f28419b652027fad41104a6d22a29fa1d405bc9731e434075c768473977", null ],
       [ "DATA_SHADOW_HUNTER_VOSHGAJIN", "d0/da4/a01631.html#afb6eb4f28419b652027fad41104a6d22abd19159ba9f15227b78769ce3caa0155", null ],
       [ "DATA_WARMASTER_VOONE", "d0/da4/a01631.html#afb6eb4f28419b652027fad41104a6d22a472ea134fff9835642ba91ae5167b76c", null ],
@@ -1789,7 +1791,8 @@ var a01316 =
       [ "SPELL_FACTION_CHAMPIONS_KILL_CREDIT", "d4/d49/a01316.html#ab07d2c2f03457c67895bdafb642ac363a4d0271d2d6d513b919ffb9355f031b0f", null ],
       [ "SPELL_RESILIENCE_WILL_FIX_IT_CREDIT", "d4/d49/a01316.html#ab07d2c2f03457c67895bdafb642ac363a5aa843ad3fcfec217734301abc17287f", null ],
       [ "SPELL_TRAITOR_KING", "d4/d49/a01316.html#ab07d2c2f03457c67895bdafb642ac363a515549c9ef6d13a9cad71151edd9f22f", null ],
-      [ "SPELL_PORTAL_TO_DALARAN", "d4/d49/a01316.html#ab07d2c2f03457c67895bdafb642ac363a170ab1bb87c99be682c4c031a4c35cc1", null ]
+      [ "SPELL_PORTAL_TO_DALARAN", "d4/d49/a01316.html#ab07d2c2f03457c67895bdafb642ac363a170ab1bb87c99be682c4c031a4c35cc1", null ],
+      [ "SPELL_JARAXXUS_CHAINS", "d4/d49/a01316.html#ab07d2c2f03457c67895bdafb642ac363ac83d8ffdffa64cf12ef9ebe0cefbdabe", null ]
     ] ],
     [ "GOs", "d4/d49/a01316.html#a0e34bfee1d19a882b3f839910a0df5c5", [
       [ "GO_ELUNE_ALTAR", "d5/dd7/a01970.html#a0e34bfee1d19a882b3f839910a0df5c5ab8819a90bc3dd0214db7840a3969485b", null ],
@@ -1903,6 +1906,7 @@ var a01316 =
       [ "NPC_ACIDMAW", "d4/d49/a01316.html#a6986ec7b2d3274669934af9795f26d5ca7963a5c6123551188537a1f9cf5a13d5", null ],
       [ "NPC_ICEHOWL", "d4/d49/a01316.html#a6986ec7b2d3274669934af9795f26d5ca71f485d2c53a459dac063ef7d281acef", null ],
       [ "NPC_JARAXXUS", "d4/d49/a01316.html#a6986ec7b2d3274669934af9795f26d5caac25095e3ea26543a51245351b82d3d7", null ],
+      [ "NPC_MISTRESS_OF_PAIN", "d4/d49/a01316.html#a6986ec7b2d3274669934af9795f26d5ca1d4846e8c3400fd4728fb92351b215cc", null ],
       [ "NPC_PURPLE_GROUND", "d4/d49/a01316.html#a6986ec7b2d3274669934af9795f26d5ca2b97ccf88d83f82ac619a6d4e2077d81", null ],
       [ "NPC_WORLD_TRIGGER", "d4/d49/a01316.html#a6986ec7b2d3274669934af9795f26d5ca2de54d34271fcadd2d72ee13d7e0ce48", null ],
       [ "NPC_ALLIANCE_DEATH_KNIGHT", "d4/d49/a01316.html#a6986ec7b2d3274669934af9795f26d5cac814570020251c58c21064800d5b1531", null ],

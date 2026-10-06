@@ -1,5 +1,5 @@
 var a04400 =
 [
-    [ "TestSpellEntryHelper", "dd/d86/a29823.html", "dd/d86/a29823" ],
-    [ "SpellInfoBuilder", "dc/daa/a29827.html", "dc/daa/a29827" ]
+    [ "TestSpellEntryHelper", "d2/dcb/a29819.html", "d2/dcb/a29819" ],
+    [ "SpellInfoBuilder", "dd/d86/a29823.html", "dd/d86/a29823" ]
 ];

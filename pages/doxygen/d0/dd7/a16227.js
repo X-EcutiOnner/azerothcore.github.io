@@ -1,7 +1,12 @@
 var a16227 =
 [
-    [ "npc_toogaAI", "d2/d7e/a16231.html", "d2/d7e/a16231" ],
-    [ "npc_tooga", "d0/dd7/a16227.html#a6ea6a9e4dea1ab98475dae13680ceeaf", null ],
-    [ "GetAI", "d0/dd7/a16227.html#a7847577589f3bdc1c3ea5ee0f1f9232f", null ],
-    [ "OnQuestAccept", "d0/dd7/a16227.html#a45ae4f9be8d69553d557b33df9fbde3b", null ]
+    [ "npc_toogaAI", "d0/dd7/a16227.html#a4db363c7e787f5fbbd61b418cfa87367", null ],
+    [ "MoveInLineOfSight", "d0/dd7/a16227.html#aff15508b97bce5f5fad9cf9750e89ff1", null ],
+    [ "MovementInform", "d0/dd7/a16227.html#a9315e8ba2688903aaf5b871a7490a700", null ],
+    [ "Reset", "d0/dd7/a16227.html#acfedaf5cc989451a4259a65661685f66", null ],
+    [ "UpdateFollowerAI", "d0/dd7/a16227.html#a742791e714be1ff713ab87e7d515bd9e", null ],
+    [ "CheckSpeechTimer", "d0/dd7/a16227.html#a938852d834c5eb8ba4abceaf49e9a5da", null ],
+    [ "PhasePostEvent", "d0/dd7/a16227.html#a4996291afa64e35f3604b2a85ea03dda", null ],
+    [ "PostEventTimer", "d0/dd7/a16227.html#abea9fa4d2623dab4f14978a7f94b595f", null ],
+    [ "TortaGUID", "d0/dd7/a16227.html#a4531aa0e2c7fe7f3207e56fc2ed67c25", null ]
 ];

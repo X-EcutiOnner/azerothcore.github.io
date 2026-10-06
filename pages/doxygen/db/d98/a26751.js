@@ -1,7 +1,8 @@
 var a26751 =
 [
-    [ "HandleProc", "db/d98/a26751.html#a8ef5ced5c1078116dd4b4a1015798ccf", null ],
-    [ "PrepareAuraScript", "db/d98/a26751.html#a4dccd6d5422fa64a52103dad76c99b6b", null ],
-    [ "Register", "db/d98/a26751.html#a208025fdf008145564719bd3a0c35097", null ],
-    [ "Validate", "db/d98/a26751.html#a8bf0bbc831bbd6c476fc8f018402ec3c", null ]
+    [ "CheckProc", "db/d98/a26751.html#a180edf3dd9f3abd42ae6cd43353451fe", null ],
+    [ "HandleProc", "db/d98/a26751.html#a9d6daf153d86cf93e35c43d05dda2459", null ],
+    [ "PrepareAuraScript", "db/d98/a26751.html#a874672016641a737a197588ea980c2c3", null ],
+    [ "Register", "db/d98/a26751.html#a3578470f10bb4c10868d02d62cafceac", null ],
+    [ "Validate", "db/d98/a26751.html#a4f496a310941e40c9c841772be3e6414", null ]
 ];

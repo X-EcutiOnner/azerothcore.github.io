@@ -340,17 +340,17 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 3011</span>    {</div>
-<div class="line"><span class="lineno"> 3012</span>        <span class="comment">// Spawns the tentacle on the marked player so it grabs them on the spot.</span></div>
-<div class="line"><span class="lineno"> 3013</span>        <a class="code hl_function" href="../../d7/dce/a12143.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_function" href="../../d7/dce/a12143.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>(), <a class="code hl_enumvalue" href="../../df/dd5/a01115.html#a1b30ee7b66756f07902ec6940e772f08a9b2938c47c7b0bbea0df742bf78c9061">SPELL_CONSTRICTOR_TENTACLE_SUMMON</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno"> 3014</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 3010</span>    {</div>
+<div class="line"><span class="lineno"> 3011</span>        <span class="comment">// Spawns the tentacle on the marked player so it grabs them on the spot.</span></div>
+<div class="line"><span class="lineno"> 3012</span>        <a class="code hl_function" href="../../d7/dce/a12143.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_function" href="../../d7/dce/a12143.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>(), <a class="code hl_enumvalue" href="../../df/dd5/a01115.html#a1b30ee7b66756f07902ec6940e772f08a9b2938c47c7b0bbea0df742bf78c9061">SPELL_CONSTRICTOR_TENTACLE_SUMMON</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno"> 3013</span>    }</div>
 <div class="ttc" id="aa01115_html_a1b30ee7b66756f07902ec6940e772f08a9b2938c47c7b0bbea0df742bf78c9061"><div class="ttname"><a href="../../df/dd5/a01115.html#a1b30ee7b66756f07902ec6940e772f08a9b2938c47c7b0bbea0df742bf78c9061">SPELL_CONSTRICTOR_TENTACLE_SUMMON</a></div><div class="ttdeci">@ SPELL_CONSTRICTOR_TENTACLE_SUMMON</div><div class="ttdef"><b>Definition:</b> boss_yoggsaron.cpp:116</div></div>
 <div class="ttc" id="aa09227_html_aa3ca95f7a14041f562ed69c3994afdfc"><div class="ttname"><a href="../../d9/d33/a09227.html#aa3ca95f7a14041f562ed69c3994afdfc">Unit::CastSpell</a></div><div class="ttdeci">SpellCastResult CastSpell(SpellCastTargets const &amp;targets, SpellInfo const *spellInfo, CustomSpellValues const *value, TriggerCastFlags triggerFlags=TRIGGERED_NONE, Item *castItem=nullptr, AuraEffect const *triggeredByAura=nullptr, ObjectGuid originalCaster=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:1372</div></div>
 <div class="ttc" id="aa12143_html_a9b2ee1254bdbef7f6ee93f6fae6eb912"><div class="ttname"><a href="../../d7/dce/a12143.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">AuraScript::GetTarget</a></div><div class="ttdeci">Unit * GetTarget() const</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:1185</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01372">Unit::CastSpell()</a>, <a class="el" href="../../#l01185">AuraScript::GetTarget()</a>, and <a class="el" href="../../#l00116">SPELL_CONSTRICTOR_TENTACLE_SUMMON</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l03016">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l03015">Register()</a>.</p>
 
 </div>
 </div>
@@ -404,17 +404,17 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../df/d22/a12087.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 3017</span>    {</div>
-<div class="line"><span class="lineno"> 3018</span>        <a class="code hl_variable" href="../../d7/dce/a12143.html#a509262d9721d83783e19142eee1645df">AfterEffectApply</a> += <a class="code hl_define" href="../../d8/da6/a02696.html#ac47070c5a13a5436cc5d204a1445c993">AuraEffectApplyFn</a>(<a class="code hl_function" href="../../d0/ded/a21227.html#a458871e0d2c1969a91ce9474b3ad87d0">spell_yogg_saron_constrictor_tentacle_aura::OnApply</a>, <a class="code hl_enumvalue" href="../../d4/d81/a00110.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d28/a02705.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf">SPELL_AURA_DUMMY</a>, <a class="code hl_enumvalue" href="../../da/d28/a02705.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
-<div class="line"><span class="lineno"> 3019</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 3016</span>    {</div>
+<div class="line"><span class="lineno"> 3017</span>        <a class="code hl_variable" href="../../d7/dce/a12143.html#a509262d9721d83783e19142eee1645df">AfterEffectApply</a> += <a class="code hl_define" href="../../d8/da6/a02696.html#ac47070c5a13a5436cc5d204a1445c993">AuraEffectApplyFn</a>(<a class="code hl_function" href="../../d0/ded/a21227.html#a458871e0d2c1969a91ce9474b3ad87d0">spell_yogg_saron_constrictor_tentacle_aura::OnApply</a>, <a class="code hl_enumvalue" href="../../d4/d81/a00110.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d28/a02705.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf">SPELL_AURA_DUMMY</a>, <a class="code hl_enumvalue" href="../../da/d28/a02705.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
+<div class="line"><span class="lineno"> 3018</span>    }</div>
 <div class="ttc" id="aa00110_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../d4/d81/a00110.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aa02696_html_ac47070c5a13a5436cc5d204a1445c993"><div class="ttname"><a href="../../d8/da6/a02696.html#ac47070c5a13a5436cc5d204a1445c993">AuraEffectApplyFn</a></div><div class="ttdeci">#define AuraEffectApplyFn(F, I, N, M)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:755</div></div>
 <div class="ttc" id="aa02705_html_a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf"><div class="ttname"><a href="../../da/d28/a02705.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf">SPELL_AURA_DUMMY</a></div><div class="ttdeci">@ SPELL_AURA_DUMMY</div><div class="ttdef"><b>Definition:</b> SpellAuraDefines.h:67</div></div>
 <div class="ttc" id="aa02705_html_a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b"><div class="ttname"><a href="../../da/d28/a02705.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a></div><div class="ttdeci">@ AURA_EFFECT_HANDLE_REAL</div><div class="ttdef"><b>Definition:</b> SpellAuraDefines.h:42</div></div>
 <div class="ttc" id="aa12143_html_a509262d9721d83783e19142eee1645df"><div class="ttname"><a href="../../d7/dce/a12143.html#a509262d9721d83783e19142eee1645df">AuraScript::AfterEffectApply</a></div><div class="ttdeci">HookList&lt; EffectApplyHandler &gt; AfterEffectApply</div><div class="ttdef"><b>Definition:</b> SpellScript.h:754</div></div>
-<div class="ttc" id="aa21227_html_a458871e0d2c1969a91ce9474b3ad87d0"><div class="ttname"><a href="../../d0/ded/a21227.html#a458871e0d2c1969a91ce9474b3ad87d0">spell_yogg_saron_constrictor_tentacle_aura::OnApply</a></div><div class="ttdeci">void OnApply(AuraEffect const *, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition:</b> boss_yoggsaron.cpp:3010</div></div>
+<div class="ttc" id="aa21227_html_a458871e0d2c1969a91ce9474b3ad87d0"><div class="ttname"><a href="../../d0/ded/a21227.html#a458871e0d2c1969a91ce9474b3ad87d0">spell_yogg_saron_constrictor_tentacle_aura::OnApply</a></div><div class="ttdeci">void OnApply(AuraEffect const *, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition:</b> boss_yoggsaron.cpp:3009</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00754">AuraScript::AfterEffectApply</a>, <a class="el" href="../../#l00042">AURA_EFFECT_HANDLE_REAL</a>, <a class="el" href="../../#l00755">AuraEffectApplyFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l03010">OnApply()</a>, and <a class="el" href="../../#l00067">SPELL_AURA_DUMMY</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00754">AuraScript::AfterEffectApply</a>, <a class="el" href="../../#l00042">AURA_EFFECT_HANDLE_REAL</a>, <a class="el" href="../../#l00755">AuraEffectApplyFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l03009">OnApply()</a>, and <a class="el" href="../../#l00067">SPELL_AURA_DUMMY</a>.</p>
 
 </div>
 </div>
@@ -443,9 +443,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../df/d22/a12087.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 3006</span>    {</div>
-<div class="line"><span class="lineno"> 3007</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../df/d22/a12087.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../df/dd5/a01115.html#a1b30ee7b66756f07902ec6940e772f08a9b2938c47c7b0bbea0df742bf78c9061">SPELL_CONSTRICTOR_TENTACLE_SUMMON</a> });</div>
-<div class="line"><span class="lineno"> 3008</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 3005</span>    {</div>
+<div class="line"><span class="lineno"> 3006</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../df/d22/a12087.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../df/dd5/a01115.html#a1b30ee7b66756f07902ec6940e772f08a9b2938c47c7b0bbea0df742bf78c9061">SPELL_CONSTRICTOR_TENTACLE_SUMMON</a> });</div>
+<div class="line"><span class="lineno"> 3007</span>    }</div>
 <div class="ttc" id="aa12087_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../df/d22/a12087.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00116">SPELL_CONSTRICTOR_TENTACLE_SUMMON</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
@@ -458,7 +458,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d0/ded/a21227.html">spell_yogg_saron_constrictor_tentacle_aura</a></li>
-    <li class="footer">Generated on Tue Sep 29 2026 01:14:10 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Tue Oct 6 2026 01:27:15 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

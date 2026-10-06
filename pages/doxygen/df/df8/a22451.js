@@ -1,9 +1,8 @@
 var a22451 =
 [
-    [ "npc_brunnhildar_prisonerAI", "df/df8/a22451.html#ad650885c7f615f8b27ba20203c9fbb6f", null ],
-    [ "JustRespawned", "df/df8/a22451.html#a15843fcdc5d9eb34df7869b56a0b16ac", null ],
-    [ "Reset", "df/df8/a22451.html#ac9ba0806b9702cebe9171d9ba8962b0f", null ],
-    [ "SpellHit", "df/df8/a22451.html#af2835ec5b951e2f4bb176ebe6bb958fd", null ],
-    [ "UpdateAI", "df/df8/a22451.html#a0702d4cf577ac00688a7b93bfe656952", null ],
-    [ "freed", "df/df8/a22451.html#a46e03a19bac91a800154e3c873235800", null ]
+    [ "npc_freed_protodrakeAI", "df/df8/a22451.html#a9e80808035be749c87a1170f37ac3daf", null ],
+    [ "MovementInform", "df/df8/a22451.html#af056f3c12a314acd8a7e8c6c381b9436", null ],
+    [ "Reset", "df/df8/a22451.html#ab5781438300442bb7bcb4510aec9d233", null ],
+    [ "UpdateAI", "df/df8/a22451.html#a9e83b133444e977c35e90b700149472c", null ],
+    [ "events", "df/df8/a22451.html#ac2e34b9a53ff55d177327ec95dca5466", null ]
 ];

@@ -1,6 +1,7 @@
 var a22579 =
 [
-    [ "go_wg_vehicle_teleporterAI", "d7/dc7/a22583.html", "d7/dc7/a22583" ],
-    [ "go_wg_vehicle_teleporter", "dd/d7f/a22579.html#a074ead770a3da6e9ffa4180a3525f4c8", null ],
-    [ "GetAI", "dd/d7f/a22579.html#a113aaf42c095000c1a016bfe60df11e7", null ]
+    [ "HandleScript", "dd/d7f/a22579.html#a26eb647b6c938df3aeff7981571dc475", null ],
+    [ "PrepareSpellScript", "dd/d7f/a22579.html#a10114d8fa956aabff64aa0df7708f635", null ],
+    [ "Register", "dd/d7f/a22579.html#a0c6c379f5dcbb417d94d8e6315aa49dd", null ],
+    [ "Validate", "dd/d7f/a22579.html#adb477d34d8012c6fb45c5548fc49e127", null ]
 ];

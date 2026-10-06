@@ -1,6 +1,5 @@
 var a24359 =
 [
-    [ "npc_dragonmaw_peonAI", "dd/d76/a24363.html", "dd/d76/a24363" ],
-    [ "npc_dragonmaw_peon", "da/d2a/a24359.html#a356f8f1181d62dd5a4bc41c98ab21720", null ],
-    [ "GetAI", "da/d2a/a24359.html#aab1e4aee65a5465bc545a9c067200d2a", null ]
+    [ "npc_karynaku", "da/d2a/a24359.html#aa6a3cb409cdbc990f1eee4137c7519d2", null ],
+    [ "OnQuestAccept", "da/d2a/a24359.html#a4cae1950fe3b7b4ae6f2e6691800ec47", null ]
 ];

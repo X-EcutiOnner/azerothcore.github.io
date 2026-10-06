@@ -1,7 +1,9 @@
 var a22487 =
 [
-    [ "HandleOnEffectHit", "dd/d44/a22487.html#a909ec44339061a114697cacee5fba5b2", null ],
-    [ "PrepareSpellScript", "dd/d44/a22487.html#ac1bfb2b49cd335ca5961b984fadfffb8", null ],
-    [ "Register", "dd/d44/a22487.html#aa241c97b4e895d07fe89d03edca29912", null ],
-    [ "Validate", "dd/d44/a22487.html#aa84f4c29ca00789bb47661267549cda6", null ]
+    [ "HandlePeriodic", "dd/d44/a22487.html#a0943e7887ff935ccea21d913429e25a0", null ],
+    [ "OnRemove", "dd/d44/a22487.html#a46ae9f9c7b31fa46e0968dc521a2511b", null ],
+    [ "PrepareAuraScript", "dd/d44/a22487.html#a07ce1c801c8d770d639b8ffe05830c3b", null ],
+    [ "Register", "dd/d44/a22487.html#afa2a6d4653311d2f76831ef14d34c0dd", null ],
+    [ "_tickNumber", "dd/d44/a22487.html#a3f8943e288e96f639fb805869749879b", null ],
+    [ "_warning", "dd/d44/a22487.html#a19ffd2ca76a020ca8ca4b2ff91538888", null ]
 ];

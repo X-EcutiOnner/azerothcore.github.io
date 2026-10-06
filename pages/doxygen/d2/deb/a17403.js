@@ -1,13 +1,13 @@
 var a17403 =
 [
-    [ "instance_forge_of_souls_InstanceScript", "d2/deb/a17403.html#ae39e116a01c17592037e12185a03201a", null ],
-    [ "CheckAchievementCriteriaMeet", "d2/deb/a17403.html#a534c7f97e7425160f9a2b1e555d0aa29", null ],
-    [ "HandleOutro", "d2/deb/a17403.html#aadf4a99e89f354901ff63c600725b07f", null ],
-    [ "OnCreatureCreate", "d2/deb/a17403.html#a7570ef3ca74178fec80c5018cbecf42a", null ],
-    [ "OnPlayerEnter", "d2/deb/a17403.html#aac223f0ae25071d3323052c52c887636", null ],
-    [ "SetBossState", "d2/deb/a17403.html#a76241f1358b8e6c7660f76c98e1556e7", null ],
-    [ "GuardFirstGUID", "d2/deb/a17403.html#ae2e33eee94f285b9d4c2c747dec52714", null ],
-    [ "GuardSecondGUID", "d2/deb/a17403.html#a68c2495f80ac2b53c8f46c857472709c", null ],
-    [ "LeaderFirstGUID", "d2/deb/a17403.html#acaa05485af70315b1d091e5c9bbb7217", null ],
-    [ "LeaderSecondGUID", "d2/deb/a17403.html#a165f784f54e178b51ac899aff6f12747", null ]
+    [ "boss_falric", "d2/deb/a17403.html#ad157b74477a84d13ab1a5bd5d9275d17", null ],
+    [ "DoAction", "d2/deb/a17403.html#a9acd7854d725b07df53ae60538df27b1", null ],
+    [ "EnterEvadeMode", "d2/deb/a17403.html#addda2f3fe13801f533069c8e5b83cdbd", null ],
+    [ "JustDied", "d2/deb/a17403.html#a4ade4a16095031988e2ae50602cd0da8", null ],
+    [ "JustEngagedWith", "d2/deb/a17403.html#a68c6b3012bbb1e7542c9b4db2f596463", null ],
+    [ "KilledUnit", "d2/deb/a17403.html#aa53d57dee3482ac2d186ecfdf4fa232d", null ],
+    [ "Reset", "d2/deb/a17403.html#aa8c392ab5c6463e4061e381d2a6586ab", null ],
+    [ "UpdateAI", "d2/deb/a17403.html#a03d91f53cb716d0ff1a6c8f7e9ecee7a", null ],
+    [ "_hopelessnessCount", "d2/deb/a17403.html#aaf36f9748993381c39b6b26bdfa33dca", null ],
+    [ "_startingFight", "d2/deb/a17403.html#a099280eb7f2b40df3fbecfa9fe35fac4", null ]
 ];

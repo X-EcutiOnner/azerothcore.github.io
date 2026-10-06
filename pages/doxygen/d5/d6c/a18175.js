@@ -1,6 +1,6 @@
 var a18175 =
 [
-    [ "IgbExplosionCheck", "d5/d6c/a18175.html#ae67cca111f26a275614810cbe053bcd8", null ],
-    [ "operator()", "d5/d6c/a18175.html#a28ce6685366e99db2aa1e4022012f943", null ],
-    [ "_source", "d5/d6c/a18175.html#a413ee8f2218621d274d118aea967dc9b", null ]
+    [ "PrepareSpellScript", "d5/d6c/a18175.html#a4878ffa30feb16e98d3945f8a6e3c863", null ],
+    [ "Register", "d5/d6c/a18175.html#a651f52f7d242251ff69d100fd69376e4", null ],
+    [ "SelectTarget", "d5/d6c/a18175.html#aede083ebebe38deb5898ff028564ef95", null ]
 ];

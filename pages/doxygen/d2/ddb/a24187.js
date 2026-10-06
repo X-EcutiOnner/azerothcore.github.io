@@ -1,6 +1,7 @@
 var a24187 =
 [
-    [ "npc_oscillating_frequency_scanner_master_bunnyAI", "d1/d7f/a24191.html", "d1/d7f/a24191" ],
-    [ "npc_oscillating_frequency_scanner_master_bunny", "d2/ddb/a24187.html#a8ae11cadbd5e883bf12f8f5201700b4e", null ],
-    [ "GetAI", "d2/ddb/a24187.html#a60d55e2eda4484ceea4e475ac8653977", null ]
+    [ "HandleEffect", "d2/ddb/a24187.html#acb353dbdd050bfc6aa4b4b5f6433dc03", null ],
+    [ "PrepareSpellScript", "d2/ddb/a24187.html#ad95bc33917e1aa968eedc636f6e3ddcb", null ],
+    [ "Register", "d2/ddb/a24187.html#ac2b2bd2581a638553167d5c8099a70cd", null ],
+    [ "Validate", "d2/ddb/a24187.html#a7702b0e876ab5ccd750d1072ee70ed69", null ]
 ];

@@ -1,6 +1,8 @@
 var a17103 =
 [
-    [ "npc_toc_pet_hunterAI", "df/dca/a17107.html", "df/dca/a17107" ],
-    [ "npc_toc_pet_hunter", "d5/dfd/a17103.html#a1aa59cca8cd71e9f17fb9f55cf03c1da", null ],
-    [ "GetAI", "d5/dfd/a17103.html#a9febc3086b0627324277f45d49cdd03f", null ]
+    [ "npc_toc_pet_hunterAI", "d5/dfd/a17103.html#a751e37388df10abf4bf9df5d3f373fa3", null ],
+    [ "EnterEvadeMode", "d5/dfd/a17103.html#a7f60ea2596fa4af2209333696dbe00e0", null ],
+    [ "myCanCast", "d5/dfd/a17103.html#aefaa41a92000d8915853988ce3fd5bc4", null ],
+    [ "UpdateAI", "d5/dfd/a17103.html#aec1d16cdcb7d86d7de4de10ca34f491d", null ],
+    [ "events", "d5/dfd/a17103.html#ade038312363f976b34868ed2cbebb58d", null ]
 ];

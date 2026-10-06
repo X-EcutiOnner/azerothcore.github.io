@@ -1,6 +1,6 @@
 var a16103 =
 [
-    [ "npc_silva_filnaveth", "d7/dc7/a16103.html#a5998381865214a7b3af7823bd2557cb0", null ],
-    [ "OnGossipHello", "d7/dc7/a16103.html#a32019c17271a3f504d86cd694262fd53", null ],
-    [ "OnGossipSelect", "d7/dc7/a16103.html#a10f81dce3dbc3ef0a84c8c33c2cb2e29", null ]
+    [ "npc_clintar_spiritAI", "d0/d73/a16107.html", "d0/d73/a16107" ],
+    [ "npc_clintar_spirit", "d7/dc7/a16103.html#a416f5eea882f2c13c4c0f7dd81d36a2b", null ],
+    [ "GetAI", "d7/dc7/a16103.html#a118198504f6f93c86302275a11582d60", null ]
 ];

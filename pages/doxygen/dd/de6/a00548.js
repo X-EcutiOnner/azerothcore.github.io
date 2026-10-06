@@ -10,6 +10,12 @@ var a00548 =
       [ "GO_THE_TALON_KINGS_COFFER", "dd/de6/a00548.html#a69c4601e4dd1496f746404c6abe87291a7957c3a97be229f195e4375af7b06e2c", null ]
     ] ],
     [ "Encounters", "dd/de6/a00548.html#abf7d0c9385f088b09a017ee50e9db6ee", [
+      [ "BOSS_MEATHOOK", "da/dbe/a02084.html#abf7d0c9385f088b09a017ee50e9db6eea25d1747b57f14d33ef5375647ff92ec4", null ],
+      [ "BOSS_SALRAMM", "da/dbe/a02084.html#abf7d0c9385f088b09a017ee50e9db6eea16c4d3a66b42c1e0e579dd4d589b3ac6", null ],
+      [ "BOSS_EPOCH", "da/dbe/a02084.html#abf7d0c9385f088b09a017ee50e9db6eeaab9ebe6f2c23e402dc235051d4a10a82", null ],
+      [ "BOSS_MAL_GANIS", "da/dbe/a02084.html#abf7d0c9385f088b09a017ee50e9db6eeaf457b3fe690a5fd76ade3d0cca5998af", null ],
+      [ "BOSS_INFINITE_CORRUPTOR", "da/dbe/a02084.html#abf7d0c9385f088b09a017ee50e9db6eea9a4e453317d0aeea399c9ea6a62a9625", null ],
+      [ "MAX_ENCOUNTERS", "da/dbe/a02084.html#abf7d0c9385f088b09a017ee50e9db6eea9cfa5bdc17e1d5a590d300b530b36a25", null ],
       [ "DATA_DARKWEAVER_SYTH", "dd/de6/a00548.html#abf7d0c9385f088b09a017ee50e9db6eea6dbed6ec6697669d80047612efd58da9", null ],
       [ "DATA_ANZU", "dd/de6/a00548.html#abf7d0c9385f088b09a017ee50e9db6eeac072367637c0d4080d6d25a349b54a54", null ],
       [ "DATA_IKISS", "dd/de6/a00548.html#abf7d0c9385f088b09a017ee50e9db6eea354bfb39a3150d5f75a42abc68cbcc83", null ]

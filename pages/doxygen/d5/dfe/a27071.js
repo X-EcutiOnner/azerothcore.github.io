@@ -1,7 +1,6 @@
 var a27071 =
 [
-    [ "HandleHeal", "d5/dfe/a27071.html#a22e3dd3ac57c7cb95162ee56ab43bc93", null ],
-    [ "PrepareSpellScript", "d5/dfe/a27071.html#a9de9260bc1e2582138c58a708e5d899c", null ],
-    [ "Register", "d5/dfe/a27071.html#ab613ce86521f1381b79f6f9f3eaea3cc", null ],
-    [ "Validate", "d5/dfe/a27071.html#aa300822cf5455404482124a6853fb314", null ]
+    [ "HandleDamage", "d5/dfe/a27071.html#ae34b85a4830066e21069e5ab8373e5c4", null ],
+    [ "PrepareSpellScript", "d5/dfe/a27071.html#a86fd53d1f9a2ecf22c4969e2f8506acf", null ],
+    [ "Register", "d5/dfe/a27071.html#a1a679fb0be26228f5fcdb45da2b994ff", null ]
 ];

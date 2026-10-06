@@ -1,15 +1,16 @@
 var a19219 =
 [
-    [ "npc_icc_orb_controller", "d7/dc1/a19219.html#af78f3356f39b112ce37a17c735d5c625", null ],
-    [ "DoAction", "d7/dc1/a19219.html#a2c8a835fd79c247852fb49f0e9aa6649", null ],
-    [ "Reset", "d7/dc1/a19219.html#a2018189abc547c96b5e6cfad32b0394d", null ],
-    [ "ScheduleVisualChannel", "d7/dc1/a19219.html#ae387fdfb241e9954b80f8a960184fd52", null ],
-    [ "SetGUID", "d7/dc1/a19219.html#a03291421296f26d1074dc8624e47ee5c", null ],
-    [ "SpellHit", "d7/dc1/a19219.html#a1b939a16c94e04f0c0d211c7525067bf", null ],
-    [ "UpdateAI", "d7/dc1/a19219.html#ace711f4d706596bbc6e7e5e2a71fe7b5", null ],
-    [ "UpdateValidGuids", "d7/dc1/a19219.html#a4e9c20a096c6c0b6eab6499360afa580", null ],
-    [ "_isInCombat", "d7/dc1/a19219.html#ad01a3b4fa5235ffe760da4bad32597b0", null ],
-    [ "_isLongRepeat", "d7/dc1/a19219.html#a991b496578a1a527bc5852dea3d0b8b0", null ],
-    [ "_minionGuids", "d7/dc1/a19219.html#a75c655bb0bb9af2cded799caa5d437fa", null ],
-    [ "_scheduler", "d7/dc1/a19219.html#aca716eb91bed808919ac5bd415b36397", null ]
+    [ "DarkFallenAI", "d7/dc1/a19219.html#a0be0c32a52d954700c0677d111b82694", null ],
+    [ "DoAction", "d7/dc1/a19219.html#a5c1ba5dde31aa4d1f2f1e5fc45eb4b48", null ],
+    [ "EnterEvadeMode", "d7/dc1/a19219.html#a365a5d5aa68ce35963e180f36b23ffe9", null ],
+    [ "JustDied", "d7/dc1/a19219.html#a59df972ab6f5a00df0217a984f5904de", null ],
+    [ "JustEngagedWith", "d7/dc1/a19219.html#a21705f88c5a6e25709b6f0db049379bd", null ],
+    [ "Reset", "d7/dc1/a19219.html#acaf883142e1620a84f8bf29801dd860c", null ],
+    [ "ScheduleSpells", "d7/dc1/a19219.html#adafce856498f47b13a8ed9438b2a00c7", null ],
+    [ "SetGUID", "d7/dc1/a19219.html#a4cb8e0efdc9e5b96fd6a43f3488cf41e", null ],
+    [ "UpdateAI", "d7/dc1/a19219.html#a3f5eedc3dc2acc99022986d60884db2f", null ],
+    [ "AttackSpellId", "d7/dc1/a19219.html#a9bca7b1181e8227009d6b6403cc319e5", null ],
+    [ "IsDoingEmotes", "d7/dc1/a19219.html#a458d3c30754219de8a4a0e9acd661d11", null ],
+    [ "Scheduler", "d7/dc1/a19219.html#a3c91e48243ed3f35ba2951ed6e63b116", null ],
+    [ "TriggerGuid", "d7/dc1/a19219.html#a7ac28f3199786f5e75f11f19c8353cbc", null ]
 ];

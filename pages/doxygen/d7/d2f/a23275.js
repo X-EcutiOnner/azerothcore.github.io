@@ -1,7 +1,6 @@
 var a23275 =
 [
-    [ "HandleScriptEffect", "d7/d2f/a23275.html#a0038e566bc5054e4208fd727fcc266fa", null ],
-    [ "PrepareSpellScript", "d7/d2f/a23275.html#abb661bacf4cec1f2e15f4aeda2ab991e", null ],
-    [ "Register", "d7/d2f/a23275.html#a416b811c2676c598df0ac0e5906a94d3", null ],
-    [ "Validate", "d7/d2f/a23275.html#a11e82a2b40dbbd9949a1dda3bd715679", null ]
+    [ "boss_doomlordkazzakAI", "d2/d3b/a23279.html", "d2/d3b/a23279" ],
+    [ "boss_doomlord_kazzak", "d7/d2f/a23275.html#ae4e4844d584ba71ebd3d8a341ba91462", null ],
+    [ "GetAI", "d7/d2f/a23275.html#a460a32ce37aae852b48f1990406da9a4", null ]
 ];

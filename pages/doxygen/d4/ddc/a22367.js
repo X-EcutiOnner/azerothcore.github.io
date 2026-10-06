@@ -1,6 +1,6 @@
 var a22367 =
 [
-    [ "npc_vekjik", "d4/ddc/a22367.html#a7439c6038237b77ba8623ae92d6cf708", null ],
-    [ "OnGossipHello", "d4/ddc/a22367.html#acdbba5b4970049e72477eccf6672b0e8", null ],
-    [ "OnGossipSelect", "d4/ddc/a22367.html#a0bcdcb6cd57264e664c449e261d3580b", null ]
+    [ "npc_bushwhackerAI", "d4/ddc/a22367.html#a0cf480b75aa45a9f3572c4a65df2daee", null ],
+    [ "InitializeAI", "d4/ddc/a22367.html#a18db5870e62378ff49472f7a5881861c", null ],
+    [ "UpdateAI", "d4/ddc/a22367.html#aadc3384626d728942897fe93750f0c02", null ]
 ];

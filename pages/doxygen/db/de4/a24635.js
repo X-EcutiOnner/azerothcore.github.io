@@ -1,7 +1,6 @@
 var a24635 =
 [
-    [ "CheckCast", "db/de4/a24635.html#a0e4e62a9b1763619170b6da8487e7ee1", null ],
-    [ "HandleDummy", "db/de4/a24635.html#ac7084a563e98760d58dfbcafdd7cde11", null ],
-    [ "PrepareSpellScript", "db/de4/a24635.html#a465da282630352a289d5daae7ccb1d01", null ],
-    [ "Register", "db/de4/a24635.html#ae668f0c45a74d56d1be5be29309c9f6d", null ]
+    [ "FilterTargets", "db/de4/a24635.html#a991a944f31680e4d53cc2a46d8c8b8bf", null ],
+    [ "PrepareSpellScript", "db/de4/a24635.html#aea49df3f6b93223ed72c3a9875232b74", null ],
+    [ "Register", "db/de4/a24635.html#a8f0e0b6363303def780d35415c88b4d6", null ]
 ];

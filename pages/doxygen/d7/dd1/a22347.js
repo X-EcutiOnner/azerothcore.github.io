@@ -1,6 +1,6 @@
 var a22347 =
 [
-    [ "npc_still_at_it_triggerAI", "dd/dfd/a22351.html", "dd/dfd/a22351" ],
-    [ "npc_still_at_it_trigger", "d7/dd1/a22347.html#a23366d00bd3b8217bdca7f0fca05d9bd", null ],
-    [ "GetAI", "d7/dd1/a22347.html#ae273ea6295f50248d303983d4b4137df", null ]
+    [ "npc_mcmanus", "d7/dd1/a22347.html#a4e9da3fa22b74f51f72c58cbf22dc683", null ],
+    [ "OnGossipHello", "d7/dd1/a22347.html#acb8f8b9c10387c0bb45b7d68f7f9821f", null ],
+    [ "OnGossipSelect", "d7/dd1/a22347.html#a5e8c37ebcfa737ee3066ab8df3e453f8", null ]
 ];

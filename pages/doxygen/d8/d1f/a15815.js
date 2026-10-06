@@ -1,8 +1,5 @@
 var a15815 =
 [
-    [ "boss_veklor", "d8/d1f/a15815.html#acbbe1a2e6ffcb00a28f7ae5413cd02c1", null ],
-    [ "AttackStart", "d8/d1f/a15815.html#a7ecfff13457bf177c1ec250bbee75cbf", null ],
-    [ "IAmVeklor", "d8/d1f/a15815.html#a4c43713c24b5537f292be1e0fcaee703", null ],
-    [ "JustEngagedWith", "d8/d1f/a15815.html#a05913da666b1715eac68441195dd9df4", null ],
-    [ "SpellHit", "d8/d1f/a15815.html#ab5d9ec12c18e360ce2c8749dd97f2ab0", null ]
+    [ "at_twin_emperors", "d8/d1f/a15815.html#a343d482857fa0a45c42f593e591f7754", null ],
+    [ "_OnTrigger", "d8/d1f/a15815.html#a466ba3bbf21b33f064a056eef63291ce", null ]
 ];

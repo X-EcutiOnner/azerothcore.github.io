@@ -1,14 +1,6 @@
 var a15807 =
 [
-    [ "boss_twinemperorsAI", "db/d52/a15807.html#ae0857b191dbbf086533062aee5885237", null ],
-    [ "DamageTaken", "db/d52/a15807.html#a118151851f36de9dfc22971a965cb047", null ],
-    [ "DoAction", "db/d52/a15807.html#a2b5e585749b7a59663813c7a9d56c223", null ],
-    [ "EnterEvadeMode", "db/d52/a15807.html#ab5a1b28405c38ece65f5ee145e472de8", null ],
-    [ "GetTwin", "db/d52/a15807.html#af23aa54bca9752c242e80331862ace4d", null ],
-    [ "IAmVeklor", "db/d52/a15807.html#acdccdde2ee573f51e1783ea493577258", null ],
-    [ "JustDied", "db/d52/a15807.html#a9cc74619908c2aa9f8deda2689616735", null ],
-    [ "JustEngagedWith", "db/d52/a15807.html#ab9a279e9ba3bb057268602be7368ffe4", null ],
-    [ "KilledUnit", "db/d52/a15807.html#aaa52e01bfeff824345f7b9c7346e8aef", null ],
-    [ "UpdateAI", "db/d52/a15807.html#a4d9e07fd3f682a24332d0aabe6c55f8f", null ],
-    [ "_introDone", "db/d52/a15807.html#a1b4689b0c403f7246ae100e4f716b138", null ]
+    [ "boss_veknilash", "db/d52/a15807.html#a73a4095c3dd0ffbd9d7ef5a8a837f13f", null ],
+    [ "IAmVeklor", "db/d52/a15807.html#a454027d829b962ee0feebb6fd5687714", null ],
+    [ "JustEngagedWith", "db/d52/a15807.html#ace8de3d9a397d0571da1f5bdd2ba84d5", null ]
 ];

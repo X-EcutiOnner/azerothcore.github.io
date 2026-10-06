@@ -1,6 +1,6 @@
 var a24063 =
 [
-    [ "FilterTargets", "da/dc6/a24063.html#a0b0a4e033a1410a5b0def33cf87c853c", null ],
-    [ "PrepareSpellScript", "da/dc6/a24063.html#afa186c0b0728e3462f8984189613f9a7", null ],
-    [ "Register", "da/dc6/a24063.html#a14aafc65b554c0ada5684c46ae1f57c8", null ]
+    [ "HandleScriptEffect", "da/dc6/a24063.html#a9a7f29cde26344fb9af222a69ddbd4fa", null ],
+    [ "PrepareSpellScript", "da/dc6/a24063.html#af475c0968aabaf56e8ca38950ad651f0", null ],
+    [ "Register", "da/dc6/a24063.html#a86cd62582cc8b7c7fa10e0cd2da63822", null ]
 ];

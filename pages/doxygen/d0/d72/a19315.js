@@ -1,5 +1,5 @@
 var a19315 =
 [
-    [ "at_icc_shutdown_traps", "d0/d72/a19315.html#aa13f5d78d3032e8114e9978f42468f64", null ],
-    [ "OnTrigger", "d0/d72/a19315.html#abb31b3f6d0b159b625d731ac47127005", null ]
+    [ "at_icc_start_blood_quickening", "d0/d72/a19315.html#a544b0591b19a62e5c8a6efcfffd98326", null ],
+    [ "OnTrigger", "d0/d72/a19315.html#a814670e127b1eace6068a553b23d00f7", null ]
 ];

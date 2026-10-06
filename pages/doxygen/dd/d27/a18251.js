@@ -1,6 +1,22 @@
 var a18251 =
 [
-    [ "boss_lady_deathwhisperAI", "de/d8f/a18255.html", "de/d8f/a18255" ],
-    [ "boss_lady_deathwhisper", "dd/d27/a18251.html#a979411cb834611b1239f3bf9058d316d", null ],
-    [ "GetAI", "dd/d27/a18251.html#ac0b86fee1e2e9dbf794ed1b53aab11d2", null ]
+    [ "boss_lady_deathwhisperAI", "dd/d27/a18251.html#a277180410090d1857bcc8962e22d965d", null ],
+    [ "AttackStart", "dd/d27/a18251.html#a95268fc3088ecb1e0689bc502389eed1", null ],
+    [ "DamageTaken", "dd/d27/a18251.html#a929dea6ce420f201341a20ab5d9273ed", null ],
+    [ "DoAction", "dd/d27/a18251.html#a563f30e5e2a46c514cb114ef72dfa9e8", null ],
+    [ "EmpowerCultist", "dd/d27/a18251.html#afc8a2df592e16bbac65a7aee4e6c7c95", null ],
+    [ "JustDied", "dd/d27/a18251.html#a974094ecbdc1149ca3d1eec9211438df", null ],
+    [ "JustEngagedWith", "dd/d27/a18251.html#ac56045f2aa26423bd69e97d8f279cf5e", null ],
+    [ "JustSummoned", "dd/d27/a18251.html#a6ab4dc86911debb47e9d1784cb65dbb8", null ],
+    [ "KilledUnit", "dd/d27/a18251.html#a325834b73d181e0506e1ea40380cddac", null ],
+    [ "Reset", "dd/d27/a18251.html#a7eec8900602522cf39dd3a8dba733649", null ],
+    [ "SpellHitTarget", "dd/d27/a18251.html#a868b18df67744868a8f694e7df7f1e66", null ],
+    [ "Summon", "dd/d27/a18251.html#ae5000dbf09948dd63dbcb057430a2b7e", null ],
+    [ "SummonedCreatureDespawn", "dd/d27/a18251.html#aa630ff1884cf1ebaa189c094d2278a1f", null ],
+    [ "SummonWaveP1", "dd/d27/a18251.html#ad0cf8e10b041409868b8b75558f07e1b", null ],
+    [ "SummonWaveP2", "dd/d27/a18251.html#a72971bdfe394da6fe94ce340143ab060", null ],
+    [ "UpdateAI", "dd/d27/a18251.html#af602295a448fca10719861983a567d99", null ],
+    [ "_darnavanGUID", "dd/d27/a18251.html#af4f251406b3a4ae3db32e83005993dfa", null ],
+    [ "_introDone", "dd/d27/a18251.html#a162870aad6c99276f760b2e37b42c6c9", null ],
+    [ "_waveCounter", "dd/d27/a18251.html#ab2819e4ade2c7a07d1d0a67d86063f16", null ]
 ];

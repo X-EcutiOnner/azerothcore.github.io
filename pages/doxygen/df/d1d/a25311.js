@@ -1,8 +1,7 @@
 var a25311 =
 [
-    [ "CheckIfCorpseNear", "df/d1d/a25311.html#afdf1bca2e23057d99962fb1000e9245e", null ],
-    [ "HandleDummy", "df/d1d/a25311.html#a9e1bf4884a32e515d8e6b3edf7f5d462", null ],
-    [ "PrepareSpellScript", "df/d1d/a25311.html#af4a1aa22ed9ccf4df29d05d3f7fb0214", null ],
-    [ "Register", "df/d1d/a25311.html#a22f4c5321769384b2b708f19edea1a66", null ],
-    [ "Validate", "df/d1d/a25311.html#a855fdba79c4fa087253505ed419b9966", null ]
+    [ "HandleScript", "df/d1d/a25311.html#ac1ac71413eed0c820031e1fdf554fc37", null ],
+    [ "PrepareSpellScript", "df/d1d/a25311.html#a6c20014cf0822c107b155bfa3884cd58", null ],
+    [ "Register", "df/d1d/a25311.html#a99bc45930aa373d9f4886a0745bddb66", null ],
+    [ "Validate", "df/d1d/a25311.html#a502e364a6f5097e5f022b80606db1909", null ]
 ];

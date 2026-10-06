@@ -1,6 +1,7 @@
 var a25419 =
 [
-    [ "CheckRequirement", "d1/dc4/a25419.html#a8a1367ad6c51a74e7cefbc2440eab697", null ],
-    [ "PrepareSpellScript", "d1/dc4/a25419.html#a859ac50e6774471c232113e5c007f602", null ],
-    [ "Register", "d1/dc4/a25419.html#aceafb7d6cfa300011935026f4d7ac491", null ]
+    [ "CalculateAmount", "d1/dc4/a25419.html#a40ba021accd581745f07f2586545853c", null ],
+    [ "Load", "d1/dc4/a25419.html#aa963b658637360305bb5f3d59eb9d061", null ],
+    [ "PrepareAuraScript", "d1/dc4/a25419.html#a8fedbff305709145a7c004787ee50402", null ],
+    [ "Register", "d1/dc4/a25419.html#ade9b6a408a1d5a83bdadd5bd2b0fbb2a", null ]
 ];

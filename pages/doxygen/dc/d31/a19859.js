@@ -1,15 +1,6 @@
 var a19859 =
 [
-    [ "instance_eye_of_eternity", "dc/d31/a19859.html#a8b8bccd4969d18cf0c56742c65150ef1", null ],
-    [ "CheckAchievementCriteriaMeet", "dc/d31/a19859.html#ae2cbbc353f1dfcb24346fb707b15e19d", null ],
-    [ "GetGuidData", "dc/d31/a19859.html#a9a8a000c1f3a4139e280c7b20711dbcc", null ],
-    [ "OnCreatureCreate", "dc/d31/a19859.html#a72ede46385cd3f4d36e360ed67d5634f", null ],
-    [ "OnGameObjectCreate", "dc/d31/a19859.html#a276b14a880ac762439213f85b17c5b8b", null ],
-    [ "OnPlayerEnter", "dc/d31/a19859.html#a1f525d686ec2447a0aa9c2b9631b2e2f", null ],
-    [ "ProcessEvent", "dc/d31/a19859.html#a1408e66a14a7af228d7dfa40d09133f7", null ],
-    [ "SetBossState", "dc/d31/a19859.html#a1d4ea255b6f65abd63a69e04ec43ab90", null ],
-    [ "SetData", "dc/d31/a19859.html#a361bf36921e723ff38005d43be1c900b", null ],
-    [ "VortexHandling", "dc/d31/a19859.html#aa413a00eeba3fa864c104b6475b72d7c", null ],
-    [ "_pokeAchievementValid", "dc/d31/a19859.html#ab2d2e6d8f1117cf91646dd2634dc6014", null ],
-    [ "_vortexTriggers", "dc/d31/a19859.html#a21b0f26e2bf09d875b3708c594e652bc", null ]
+    [ "ChargeRifts", "dc/d31/a19859.html#aec98a12dec1f2ad98e00d399b0e2a1d5", null ],
+    [ "Execute", "dc/d31/a19859.html#a8d01bf861d37c25413dc14eee16a2939", null ],
+    [ "_caster", "dc/d31/a19859.html#a3cbf5f7e26de337dadd9d96a43d728b0", null ]
 ];

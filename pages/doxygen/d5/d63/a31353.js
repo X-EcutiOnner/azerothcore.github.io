@@ -1,6 +1,7 @@
 var a31353 =
 [
-    [ "ComputeBaseUnitDim", "d5/d63/a31353.html#ac84de12da6296e2f505870fda60891b1", null ],
-    [ "isCurrentDirectory", "d5/d63/a31353.html#ad9121353c9023aea25c21180346e97ad", null ],
-    [ "MakeTileKey", "d5/d63/a31353.html#a45540263b1795bfc48c91a117c239a6c", null ]
+    [ "MPQArchive", "db/df8/a30335.html", "db/df8/a30335" ],
+    [ "MPQFile", "d1/d01/a30339.html", "d1/d01/a30339" ],
+    [ "ArchiveSet", "d5/d63/a31353.html#a8d76af4bfff910da40b4f93a1c465744", null ],
+    [ "flipcc", "d5/d63/a31353.html#aff3add09c98fece7ace91b0e7c90435e", null ]
 ];

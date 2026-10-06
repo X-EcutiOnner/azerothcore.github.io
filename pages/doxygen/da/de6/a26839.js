@@ -1,10 +1,9 @@
 var a26839 =
 [
-    [ "CheckProc", "da/de6/a26839.html#a23dfb39522f7a5437af439ef567d6ec6", null ],
-    [ "HandleEffectApply", "da/de6/a26839.html#ab83f17b45edc5dba8f4b3f3fbc88c626", null ],
-    [ "HandleEffectRemove", "da/de6/a26839.html#a7bab07fde0fb18e89388e1bc4c72c165", null ],
-    [ "HandleProc", "da/de6/a26839.html#a8352d7d9376f149fa227f7ca983e2660", null ],
-    [ "PrepareAuraScript", "da/de6/a26839.html#a309dabfa452d3279e7fb47a8e4784779", null ],
-    [ "Register", "da/de6/a26839.html#a3d020d3025f0ad086c43b4239205cd94", null ],
-    [ "Validate", "da/de6/a26839.html#ac3a5505808b3a7e718071f1202805ac5", null ]
+    [ "Load", "da/de6/a26839.html#ae8329a18e94b3830e19bcbcbdf055dd2", null ],
+    [ "PrepareSpellScript", "da/de6/a26839.html#a7a082f577937bf9f794bfb21bbc416f1", null ],
+    [ "Register", "da/de6/a26839.html#a7b8f209bff9c2f1dff96f3d90c66cad4", null ],
+    [ "TriggerHeal", "da/de6/a26839.html#acad9295c5c6b46bd969a4fb528a8ec25", null ],
+    [ "Validate", "da/de6/a26839.html#a5f53a97e97f7959c51e1b5947f7c4418", null ],
+    [ "healPct", "da/de6/a26839.html#a33b4d26c34903e45b7274e369f096ce1", null ]
 ];

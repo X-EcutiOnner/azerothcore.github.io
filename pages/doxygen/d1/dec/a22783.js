@@ -1,12 +1,12 @@
 var a22783 =
 [
-    [ "boss_exarch_maladaar", "d1/dec/a22783.html#a5dac68e3dc6fc37736bf85b84eadd417", null ],
-    [ "JustDied", "d1/dec/a22783.html#ab1179a19af8948d430559db4074c41ed", null ],
-    [ "JustEngagedWith", "d1/dec/a22783.html#a69427e7a0ca70253ad8035b5e6b1e01e", null ],
-    [ "JustSummoned", "d1/dec/a22783.html#a8f59e1b093af8c85da8c2fd38e01ca1b", null ],
-    [ "KilledUnit", "d1/dec/a22783.html#adf35cb8b039676500d4040baa08b0d48", null ],
-    [ "MoveInLineOfSight", "d1/dec/a22783.html#a14baacd30b9186c7492c981313421d5b", null ],
-    [ "Reset", "d1/dec/a22783.html#accb21d3c4a6856d2de9641cf84c42ce9", null ],
-    [ "UpdateAI", "d1/dec/a22783.html#a7646c4477135d3d3b8580432902babd4", null ],
-    [ "_talked", "d1/dec/a22783.html#a15c4f122529b9f52823ea407c43433c5", null ]
+    [ "boss_shirrak_the_dead_watcher", "d1/dec/a22783.html#aaa6826de3b6563342b89544b38386d93", null ],
+    [ "EnterEvadeMode", "d1/dec/a22783.html#a23768629c4ab48954880c3c29099f432", null ],
+    [ "getStackCount", "d1/dec/a22783.html#aabca8240dfdc6603f0c244286a4d2cfe", null ],
+    [ "JustEngagedWith", "d1/dec/a22783.html#a095ce3401bf0e40255e3104c01ce5fb0", null ],
+    [ "JustSummoned", "d1/dec/a22783.html#a0a8e0d5126d14bd6d15004320b311f36", null ],
+    [ "Reset", "d1/dec/a22783.html#aa16810aeadfac21c53a28ffbca3babdc", null ],
+    [ "SpellHitTarget", "d1/dec/a22783.html#a7cb51a74e53dd6a22a3dbfe4e2220d37", null ],
+    [ "UpdateAI", "d1/dec/a22783.html#a855505f949f53f979187abcb5b2f617f", null ],
+    [ "focusGUID", "d1/dec/a22783.html#a81a7eade42ef595c173d7828ce59ef88", null ]
 ];

@@ -261,14 +261,14 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   83</span>{</div>
-<div class="line"><span class="lineno">   84</span>    std::string logsDir = <a class="code hl_define" href="../../d3/ddf/a31372.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(<span class="stringliteral">&quot;LogsDir&quot;</span>, <span class="stringliteral">&quot;&quot;</span>);</div>
+<div class="line"><span class="lineno">   84</span>    std::string logsDir = <a class="code hl_define" href="../../d0/dd4/a31368.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(<span class="stringliteral">&quot;LogsDir&quot;</span>, <span class="stringliteral">&quot;&quot;</span>);</div>
 <div class="line"><span class="lineno">   85</span> </div>
 <div class="line"><span class="lineno">   86</span>    <span class="keywordflow">if</span> (!logsDir.empty() &amp;&amp; (logsDir.at(logsDir.length() - 1) != <span class="charliteral">&#39;/&#39;</span>) &amp;&amp; (logsDir.at(logsDir.length() - 1) != <span class="charliteral">&#39;\\&#39;</span>))</div>
 <div class="line"><span class="lineno">   87</span>    {</div>
 <div class="line"><span class="lineno">   88</span>        logsDir.push_back(<span class="charliteral">&#39;/&#39;</span>);</div>
 <div class="line"><span class="lineno">   89</span>    }</div>
 <div class="line"><span class="lineno">   90</span> </div>
-<div class="line"><span class="lineno">   91</span>    std::string logname = <a class="code hl_define" href="../../d3/ddf/a31372.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(<span class="stringliteral">&quot;PacketLogFile&quot;</span>, <span class="stringliteral">&quot;&quot;</span>);</div>
+<div class="line"><span class="lineno">   91</span>    std::string logname = <a class="code hl_define" href="../../d0/dd4/a31368.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(<span class="stringliteral">&quot;PacketLogFile&quot;</span>, <span class="stringliteral">&quot;&quot;</span>);</div>
 <div class="line"><span class="lineno">   92</span>    <span class="keywordflow">if</span> (!logname.empty())</div>
 <div class="line"><span class="lineno">   93</span>    {</div>
 <div class="line"><span class="lineno">   94</span>        <a class="code hl_variable" href="../../dd/d27/a11787.html#a03346a709f7586f6445e03b9a3b6af04">_file</a> = fopen((logsDir + logname).c_str(), <span class="stringliteral">&quot;wb&quot;</span>);</div>
@@ -291,7 +291,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  111</span>    }</div>
 <div class="line"><span class="lineno">  112</span>}</div>
 <div class="ttc" id="aa04985_html_a4476c8e13ea790c3536f2749105f9cb9"><div class="ttname"><a href="../../da/da3/a04985.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a></div><div class="ttdeci">uint32 getMSTime()</div><div class="ttdef"><b>Definition:</b> Timer.h:103</div></div>
-<div class="ttc" id="aa05205_html_adbe1785d1327dedf2ac403b7cc8e99c2"><div class="ttname"><a href="../../d6/d88/a05205.html#adbe1785d1327dedf2ac403b7cc8e99c2">GameTime::GetGameTime</a></div><div class="ttdeci">Seconds GetGameTime()</div><div class="ttdef"><b>Definition:</b> GameTime.cpp:38</div></div>
+<div class="ttc" id="aa05205_html_adbe1785d1327dedf2ac403b7cc8e99c2"><div class="ttname"><a href="../../d6/d88/a05205.html#adbe1785d1327dedf2ac403b7cc8e99c2">GameTime::GetGameTime</a></div><div class="ttdeci">Seconds GetGameTime()</div><div class="ttdef"><b>Definition:</b> GameTime.cpp:39</div></div>
 <div class="ttc" id="aa11775_html"><div class="ttname"><a href="../../dc/df2/a11775.html">LogHeader</a></div><div class="ttdef"><b>Definition:</b> PacketLog.cpp:29</div></div>
 <div class="ttc" id="aa11775_html_a1884076ea4fe5af08964471d0058fd4d"><div class="ttname"><a href="../../dc/df2/a11775.html#a1884076ea4fe5af08964471d0058fd4d">LogHeader::SniffStartTicks</a></div><div class="ttdeci">uint32 SniffStartTicks</div><div class="ttdef"><b>Definition:</b> PacketLog.cpp:37</div></div>
 <div class="ttc" id="aa11775_html_a34b88d6d83daeee7827176993c152de4"><div class="ttname"><a href="../../dc/df2/a11775.html#a34b88d6d83daeee7827176993c152de4">LogHeader::Signature</a></div><div class="ttdeci">char Signature[3]</div><div class="ttdef"><b>Definition:</b> PacketLog.cpp:30</div></div>
@@ -303,9 +303,9 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aa11775_html_acdcbe4c10ad6143b756638349c185ae5"><div class="ttname"><a href="../../dc/df2/a11775.html#acdcbe4c10ad6143b756638349c185ae5">LogHeader::Locale</a></div><div class="ttdeci">char Locale[4]</div><div class="ttdef"><b>Definition:</b> PacketLog.cpp:34</div></div>
 <div class="ttc" id="aa11775_html_aff4e4f46725d72923bac3e197ae7d2e3"><div class="ttname"><a href="../../dc/df2/a11775.html#aff4e4f46725d72923bac3e197ae7d2e3">LogHeader::SessionKey</a></div><div class="ttdeci">uint8 SessionKey[40]</div><div class="ttdef"><b>Definition:</b> PacketLog.cpp:35</div></div>
 <div class="ttc" id="aa11787_html_a322cf3a0d8707becb9dcc64548d4cce5"><div class="ttname"><a href="../../dd/d27/a11787.html#a322cf3a0d8707becb9dcc64548d4cce5">PacketLog::CanLogPacket</a></div><div class="ttdeci">bool CanLogPacket() const</div><div class="ttdef"><b>Definition:</b> PacketLog.h:45</div></div>
-<div class="ttc" id="aa31372_html_a7236988e98bdd405bf435a029b70a26f"><div class="ttname"><a href="../../d3/ddf/a31372.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a></div><div class="ttdeci">#define sConfigMgr</div><div class="ttdef"><b>Definition:</b> Config.h:93</div></div>
+<div class="ttc" id="aa31368_html_a7236988e98bdd405bf435a029b70a26f"><div class="ttname"><a href="../../d0/dd4/a31368.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a></div><div class="ttdeci">#define sConfigMgr</div><div class="ttdef"><b>Definition:</b> Config.h:93</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00049">_file</a>, <a class="el" href="../../#l00033">LogHeader::Build</a>, <a class="el" href="../../#l00045">CanLogPacket()</a>, <a class="el" href="../../#l00031">LogHeader::FormatVersion</a>, <a class="el" href="../../#l00038">GameTime::GetGameTime()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00034">LogHeader::Locale</a>, <a class="el" href="../../#l00038">LogHeader::OptionalDataSize</a>, <a class="el" href="../../#l00093">sConfigMgr</a>, <a class="el" href="../../#l00035">LogHeader::SessionKey</a>, <a class="el" href="../../#l00030">LogHeader::Signature</a>, <a class="el" href="../../#l00032">LogHeader::SnifferId</a>, <a class="el" href="../../#l00037">LogHeader::SniffStartTicks</a>, and <a class="el" href="../../#l00036">LogHeader::SniffStartUnixtime</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00049">_file</a>, <a class="el" href="../../#l00033">LogHeader::Build</a>, <a class="el" href="../../#l00045">CanLogPacket()</a>, <a class="el" href="../../#l00031">LogHeader::FormatVersion</a>, <a class="el" href="../../#l00039">GameTime::GetGameTime()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00034">LogHeader::Locale</a>, <a class="el" href="../../#l00038">LogHeader::OptionalDataSize</a>, <a class="el" href="../../#l00093">sConfigMgr</a>, <a class="el" href="../../#l00035">LogHeader::SessionKey</a>, <a class="el" href="../../#l00030">LogHeader::Signature</a>, <a class="el" href="../../#l00032">LogHeader::SnifferId</a>, <a class="el" href="../../#l00037">LogHeader::SniffStartTicks</a>, and <a class="el" href="../../#l00036">LogHeader::SniffStartUnixtime</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00061">PacketLog()</a>.</p>
 
@@ -514,7 +514,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dd/d27/a11787.html">PacketLog</a></li>
-    <li class="footer">Generated on Tue Sep 29 2026 01:13:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Tue Oct 6 2026 01:26:49 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

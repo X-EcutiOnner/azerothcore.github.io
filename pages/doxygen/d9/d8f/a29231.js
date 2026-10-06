@@ -1,7 +1,6 @@
 var a29231 =
 [
-    [ "bit_index", "d9/d8f/a29231.html#a1e5cb3fc001169a204507a084435a211", null ],
-    [ "ID", "d9/d8f/a29231.html#a63fe7a87e019780d20e86e48efb02eac", null ],
-    [ "nameFemale", "d9/d8f/a29231.html#ad0380caf2526715faaddc9330062d90a", null ],
-    [ "nameMale", "d9/d8f/a29231.html#a74a767731c96d3d815ddde5a06f68599", null ]
+    [ "ChannelID", "d9/d8f/a29231.html#a51753c36711e100fd8dca1cd5b1e7e94", null ],
+    [ "flags", "d9/d8f/a29231.html#aa77db644555e336ccbb8dd138c192425", null ],
+    [ "pattern", "d9/d8f/a29231.html#ad8b550cf444d66eede00abcf2cefec22", null ]
 ];

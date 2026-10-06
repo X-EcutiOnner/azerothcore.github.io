@@ -1,8 +1,7 @@
 var a26787 =
 [
-    [ "CheckProc", "db/ded/a26787.html#a05580997d10960d8a8186c42b008894f", null ],
-    [ "OnRemove", "db/ded/a26787.html#a55cc4caf383fa643dd9df6c335937063", null ],
-    [ "PrepareAuraScript", "db/ded/a26787.html#a19bbc19f6a8f2e59903319eb56afacea", null ],
-    [ "Register", "db/ded/a26787.html#a2caaa38b44038e58f1715deb2af1a7ec", null ],
-    [ "Validate", "db/ded/a26787.html#a93fe3df6878e3edb540a70871dd98e7d", null ]
+    [ "CheckProc", "db/ded/a26787.html#a2052750b91de67b330a2ae6a190a5d4e", null ],
+    [ "HandleProc", "db/ded/a26787.html#a5b404a07ccb13cabf5fa6ab90db92129", null ],
+    [ "PrepareAuraScript", "db/ded/a26787.html#af16eec48ab0f469ca3cefd149bb0d925", null ],
+    [ "Register", "db/ded/a26787.html#a4f31c76184e4ae5bc03763e04cdac72e", null ]
 ];

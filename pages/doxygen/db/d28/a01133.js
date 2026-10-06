@@ -135,8 +135,6 @@ var a01133 =
     ] ],
     [ "SlagPot", "db/d28/a01133.html#a943c5a3fae15cbe412506de21dfc60e5", [
       [ "SPELL_SLAG_POT_DAMAGE", "db/d28/a01133.html#a943c5a3fae15cbe412506de21dfc60e5aef948b02f8d59207a7cf40543057092a", null ],
-      [ "SPELL_SCORCH_DAMAGE_1", "db/d28/a01133.html#a943c5a3fae15cbe412506de21dfc60e5a3d915bb5007870bd98e778758ab59695", null ],
-      [ "SPELL_SCORCH_DAMAGE_2", "db/d28/a01133.html#a943c5a3fae15cbe412506de21dfc60e5a021bf3c515f0bd7d83f12e5dccc9cb34", null ],
       [ "SPELL_SLAG_IMBUED", "db/d28/a01133.html#a943c5a3fae15cbe412506de21dfc60e5a5df9edb7ebda9b0b6d5ea214294ee9ee", null ]
     ] ],
     [ "Texts", "db/d28/a01133.html#aa80bce1d0ea05213c0d6c327126caf31", [

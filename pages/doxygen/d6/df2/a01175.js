@@ -1,7 +1,7 @@
 var a01175 =
 [
-    [ "boss_volkhan", "dc/da6/a20071.html", "dc/da6/a20071" ],
-    [ "npc_molten_golem", "d2/dd5/a20075.html", "d2/dd5/a20075" ],
+    [ "boss_volkhan", "d4/d77/a20067.html", "d4/d77/a20067" ],
+    [ "npc_molten_golem", "dc/da6/a20071.html", "dc/da6/a20071" ],
     [ "VolkahnSpells", "d6/df2/a01175.html#a3d8eeb9f7fe68b166b8a2f065a81d72d", [
       [ "SPELL_HEAT", "d6/df2/a01175.html#a3d8eeb9f7fe68b166b8a2f065a81d72da9329da13a5cbfa0d7dad14d7aeceeac7", null ],
       [ "SPELL_SHATTERING_STOMP", "d6/df2/a01175.html#a3d8eeb9f7fe68b166b8a2f065a81d72daec9ae5b4353163fe5840d94c9371bd80", null ],
@@ -202,8 +202,7 @@ var a01175 =
       [ "SAY_SEND_GROUP", "d8/d7a/a01292.html#a34a1b224b8db54cacd01d75b910f04e3ac4696d8fcb3bb196c5efdb756c5533a5", null ],
       [ "EMOTE_SNOBOLLED", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3a8d41398e97a91de8de78bf8ac9e0b09b", null ],
       [ "EMOTE_ENRAGE", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3a81024d2fa77c20eddf3d080ee9947126", null ],
-      [ "EMOTE_SUBMERGE", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3a2de75a94c63b35b7198bd89cf36a943e", null ],
-      [ "EMOTE_EMERGE", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3ab6eecfa42f3bdac4bf4c6e235545a252", null ],
+      [ "WHISPER_PARALYTIC_TOXIN", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3a9f30cd12b1e4592413f87b56c75bfbbb", null ],
       [ "EMOTE_TRAMPLE_STARE", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3a55eeb707d5a1d02aeaba2a8df6f388e6", null ],
       [ "EMOTE_TRAMPLE_CRASH", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3afa538decb9ebb5608387548209c84cf6", null ],
       [ "EMOTE_TRAMPLE_FAIL", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3aac5c85f7acc8f9da718c8818106bb9ff", null ],

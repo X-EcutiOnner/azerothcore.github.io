@@ -1,7 +1,8 @@
 var a24759 =
 [
-    [ "CheckCast", "db/d8e/a24759.html#ab215bbeea333d250ecbff0482f4f0966", null ],
-    [ "FilterTargets", "db/d8e/a24759.html#a6ee8387c7fed3fd3042852a2f542c5bd", null ],
-    [ "PrepareSpellScript", "db/d8e/a24759.html#a83447d184bb2299987d0c54d5af4c910", null ],
-    [ "Register", "db/d8e/a24759.html#a6107ba00471dd346c363db80fe81b698", null ]
+    [ "HandleDamage", "db/d8e/a24759.html#a2c5149eb0b6698240c25b63e71af0854", null ],
+    [ "PrepareSpellScript", "db/d8e/a24759.html#a8a19b594de9ba23a59e22db7d05eb60d", null ],
+    [ "Register", "db/d8e/a24759.html#ad29179d9159700b52b0c21a779cd060b", null ],
+    [ "Suicide", "db/d8e/a24759.html#a981f8547eae9b317111bf9a7016510ab", null ],
+    [ "Validate", "db/d8e/a24759.html#aa2c3399146b15f754e073e4fa08f3d5a", null ]
 ];

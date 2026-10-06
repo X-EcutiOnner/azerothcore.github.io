@@ -1,7 +1,7 @@
 var a01385 =
 [
-    [ "boss_keristrasza", "da/d9b/a19879.html", "da/d9b/a19879" ],
-    [ "achievement_intense_cold", "d0/d13/a19883.html", "d0/d13/a19883" ],
+    [ "boss_keristrasza", "d2/d2e/a19875.html", "d2/d2e/a19875" ],
+    [ "achievement_intense_cold", "da/d9b/a19879.html", "da/d9b/a19879" ],
     [ "eEnums", "df/d68/a01385.html#a0ec08fe05ebfdddfa34c747c9c62a165", [
       [ "SPELL_FROZEN_PRISON", "df/d68/a01385.html#a0ec08fe05ebfdddfa34c747c9c62a165a874864078de8743889d364bbecadcee6", null ],
       [ "SPELL_TAIL_SWEEP", "df/d68/a01385.html#a0ec08fe05ebfdddfa34c747c9c62a165addcb3daa6cdc61ef04c65580e44ef823", null ],
@@ -1437,8 +1437,7 @@ var a01385 =
       [ "SAY_SEND_GROUP", "d8/d7a/a01292.html#a34a1b224b8db54cacd01d75b910f04e3ac4696d8fcb3bb196c5efdb756c5533a5", null ],
       [ "EMOTE_SNOBOLLED", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3a8d41398e97a91de8de78bf8ac9e0b09b", null ],
       [ "EMOTE_ENRAGE", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3a81024d2fa77c20eddf3d080ee9947126", null ],
-      [ "EMOTE_SUBMERGE", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3a2de75a94c63b35b7198bd89cf36a943e", null ],
-      [ "EMOTE_EMERGE", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3ab6eecfa42f3bdac4bf4c6e235545a252", null ],
+      [ "WHISPER_PARALYTIC_TOXIN", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3a9f30cd12b1e4592413f87b56c75bfbbb", null ],
       [ "EMOTE_TRAMPLE_STARE", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3a55eeb707d5a1d02aeaba2a8df6f388e6", null ],
       [ "EMOTE_TRAMPLE_CRASH", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3afa538decb9ebb5608387548209c84cf6", null ],
       [ "EMOTE_TRAMPLE_FAIL", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3aac5c85f7acc8f9da718c8818106bb9ff", null ],

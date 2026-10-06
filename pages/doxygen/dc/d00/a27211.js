@@ -1,6 +1,10 @@
 var a27211 =
 [
-    [ "HandleDummy", "dc/d00/a27211.html#a42f48b9d7d657da75c8a4f5b6468011e", null ],
-    [ "PrepareSpellScript", "dc/d00/a27211.html#a5efc666af2cb73c376706c20e41ace68", null ],
-    [ "Register", "dc/d00/a27211.html#a46e61697212a43532e148ccb12a7d8e5", null ]
+    [ "GetTarget", "dc/d00/a27211.html#a1bfcb90731a93e4897c9d4fbf46d2a01", null ],
+    [ "HandleEffectPeriodicPlatform", "dc/d00/a27211.html#ac499c8adcd74206ad60a7fc24d32cc3c", null ],
+    [ "HandleEffectPeriodicSelf", "dc/d00/a27211.html#a2272a970ca5edca6f7353beb2279c29c", null ],
+    [ "PerformKick", "dc/d00/a27211.html#aa192aa92cc5c55f8bf2306c4463a3efc", null ],
+    [ "PrepareAuraScript", "dc/d00/a27211.html#a489f1da8f8008db8f096470f28455ef9", null ],
+    [ "Register", "dc/d00/a27211.html#a164c94c63cf03b98ee085b18a0a8af9a", null ],
+    [ "AuraEffectHandleModes", "dc/d00/a27211.html#a91d53900d8c6d0dd2a7519a4836aa05b", null ]
 ];

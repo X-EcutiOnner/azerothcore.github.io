@@ -1,6 +1,7 @@
 var a16983 =
 [
-    [ "npc_toc_druidAI", "d7/d7e/a16987.html", "d7/d7e/a16987" ],
-    [ "npc_toc_druid", "de/d7d/a16983.html#a07321d5ee164b8e47f652f9bad65216b", null ],
-    [ "GetAI", "de/d7d/a16983.html#a4f33e8f3649c0b398448cd01666cf92b", null ]
+    [ "npc_toc_druidAI", "de/d7d/a16983.html#adb456f1f93be5329174a3199c9092825", null ],
+    [ "myCanCast", "de/d7d/a16983.html#af82baa22ae49ba268f494cb07287845e", null ],
+    [ "UpdateAI", "de/d7d/a16983.html#a82a22a557db647f73690d8838a635eaf", null ],
+    [ "events", "de/d7d/a16983.html#a6bb27baf17f0286db3222287a8073bd7", null ]
 ];

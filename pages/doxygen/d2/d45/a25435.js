@@ -1,8 +1,7 @@
 var a25435 =
 [
-    [ "OnApply", "d2/d45/a25435.html#a9ea247d39fa51d9722c17e6ea83a0e55", null ],
-    [ "OnRemove", "d2/d45/a25435.html#abd45d59ecd41274bd02c17fb066a521e", null ],
-    [ "PrepareAuraScript", "d2/d45/a25435.html#af30811301599459bf2a99a68608a053f", null ],
-    [ "Register", "d2/d45/a25435.html#a0eb56dc80c02932a0d7cf4cca7079c75", null ],
-    [ "Validate", "d2/d45/a25435.html#a29c5049e4455737ff96596a18af118d0", null ]
+    [ "HandleDummy", "d2/d45/a25435.html#ab00358dc50fa943685fdd87e5a8ac224", null ],
+    [ "Load", "d2/d45/a25435.html#a31075533c24011797bd0f99dce5e8330", null ],
+    [ "PrepareSpellScript", "d2/d45/a25435.html#abf0acc8765f6e02674b8e93aca575a98", null ],
+    [ "Register", "d2/d45/a25435.html#ad1bd05a154b506424954ef879e5b9fba", null ]
 ];

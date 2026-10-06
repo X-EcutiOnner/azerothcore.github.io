@@ -338,12 +338,12 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2393</span>    {</div>
-<div class="line"><span class="lineno"> 2394</span>        <a class="code hl_function" href="../../d7/dce/a12143.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
-<div class="line"><span class="lineno"> 2395</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d4/ddd/a11947.html">Spell</a>* spell = <a class="code hl_function" href="../../d7/dce/a12143.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;GetCurrentSpell(<a class="code hl_enumvalue" href="../../d6/d8d/a03266.html#ab791040bd6d685b1fd2cfd12c96d0a1fa960a792eef11d7eca70b058265e3cca6">CURRENT_CHANNELED_SPELL</a>))</div>
-<div class="line"><span class="lineno"> 2396</span>            <span class="keywordflow">if</span> (spell-&gt;getState() == <a class="code hl_enumvalue" href="../../d6/d95/a02726.html#a821bd91389a0f4046989739b12e84f0aae175109189bc7f989a42de7f088cb6fa">SPELL_STATE_CASTING</a>)</div>
-<div class="line"><span class="lineno"> 2397</span>                <a class="code hl_function" href="../../d7/dce/a12143.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#a080cb9749e810cdb61c36430b179c26f">InterruptSpell</a>(<a class="code hl_enumvalue" href="../../d6/d8d/a03266.html#ab791040bd6d685b1fd2cfd12c96d0a1fa960a792eef11d7eca70b058265e3cca6">CURRENT_CHANNELED_SPELL</a>);</div>
-<div class="line"><span class="lineno"> 2398</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2392</span>    {</div>
+<div class="line"><span class="lineno"> 2393</span>        <a class="code hl_function" href="../../d7/dce/a12143.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
+<div class="line"><span class="lineno"> 2394</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d4/ddd/a11947.html">Spell</a>* spell = <a class="code hl_function" href="../../d7/dce/a12143.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;GetCurrentSpell(<a class="code hl_enumvalue" href="../../d6/d8d/a03266.html#ab791040bd6d685b1fd2cfd12c96d0a1fa960a792eef11d7eca70b058265e3cca6">CURRENT_CHANNELED_SPELL</a>))</div>
+<div class="line"><span class="lineno"> 2395</span>            <span class="keywordflow">if</span> (spell-&gt;getState() == <a class="code hl_enumvalue" href="../../d6/d95/a02726.html#a821bd91389a0f4046989739b12e84f0aae175109189bc7f989a42de7f088cb6fa">SPELL_STATE_CASTING</a>)</div>
+<div class="line"><span class="lineno"> 2396</span>                <a class="code hl_function" href="../../d7/dce/a12143.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#a080cb9749e810cdb61c36430b179c26f">InterruptSpell</a>(<a class="code hl_enumvalue" href="../../d6/d8d/a03266.html#ab791040bd6d685b1fd2cfd12c96d0a1fa960a792eef11d7eca70b058265e3cca6">CURRENT_CHANNELED_SPELL</a>);</div>
+<div class="line"><span class="lineno"> 2397</span>    }</div>
 <div class="ttc" id="aa02726_html_a821bd91389a0f4046989739b12e84f0aae175109189bc7f989a42de7f088cb6fa"><div class="ttname"><a href="../../d6/d95/a02726.html#a821bd91389a0f4046989739b12e84f0aae175109189bc7f989a42de7f088cb6fa">SPELL_STATE_CASTING</a></div><div class="ttdeci">@ SPELL_STATE_CASTING</div><div class="ttdef"><b>Definition:</b> Spell.h:238</div></div>
 <div class="ttc" id="aa03266_html_ab791040bd6d685b1fd2cfd12c96d0a1fa960a792eef11d7eca70b058265e3cca6"><div class="ttname"><a href="../../d6/d8d/a03266.html#ab791040bd6d685b1fd2cfd12c96d0a1fa960a792eef11d7eca70b058265e3cca6">CURRENT_CHANNELED_SPELL</a></div><div class="ttdeci">@ CURRENT_CHANNELED_SPELL</div><div class="ttdef"><b>Definition:</b> Unit.h:560</div></div>
 <div class="ttc" id="aa09227_html_a080cb9749e810cdb61c36430b179c26f"><div class="ttname"><a href="../../d9/d33/a09227.html#a080cb9749e810cdb61c36430b179c26f">Unit::InterruptSpell</a></div><div class="ttdeci">void InterruptSpell(CurrentSpellTypes spellType, bool withDelayed=true, bool withInstant=true, bool bySelf=false)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:3975</div></div>
@@ -353,7 +353,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00560">CURRENT_CHANNELED_SPELL</a>, <a class="el" href="../../#l01185">AuraScript::GetTarget()</a>, <a class="el" href="../../#l03975">Unit::InterruptSpell()</a>, <a class="el" href="../../#l01005">AuraScript::PreventDefaultAction()</a>, and <a class="el" href="../../#l00238">SPELL_STATE_CASTING</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02400">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02399">Register()</a>.</p>
 
 </div>
 </div>
@@ -407,16 +407,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../df/d22/a12087.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2401</span>    {</div>
-<div class="line"><span class="lineno"> 2402</span>        <a class="code hl_variable" href="../../d7/dce/a12143.html#ae01a6d3f559913b72bd67a145c668457">OnEffectProc</a> += <a class="code hl_define" href="../../d8/da6/a02696.html#a477ed5ca0e8da0b293428f4596802c0b">AuraEffectProcFn</a>(<a class="code hl_function" href="../../dd/d65/a21151.html#a207dcb7134a23ca5a6e86acbdc283a27">spell_yogg_saron_diminish_power_aura::HandleProc</a>, <a class="code hl_enumvalue" href="../../d4/d81/a00110.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d28/a02705.html#a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b">SPELL_AURA_PROC_TRIGGER_SPELL</a>);</div>
-<div class="line"><span class="lineno"> 2403</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2400</span>    {</div>
+<div class="line"><span class="lineno"> 2401</span>        <a class="code hl_variable" href="../../d7/dce/a12143.html#ae01a6d3f559913b72bd67a145c668457">OnEffectProc</a> += <a class="code hl_define" href="../../d8/da6/a02696.html#a477ed5ca0e8da0b293428f4596802c0b">AuraEffectProcFn</a>(<a class="code hl_function" href="../../dd/d65/a21151.html#a207dcb7134a23ca5a6e86acbdc283a27">spell_yogg_saron_diminish_power_aura::HandleProc</a>, <a class="code hl_enumvalue" href="../../d4/d81/a00110.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d28/a02705.html#a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b">SPELL_AURA_PROC_TRIGGER_SPELL</a>);</div>
+<div class="line"><span class="lineno"> 2402</span>    }</div>
 <div class="ttc" id="aa00110_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../d4/d81/a00110.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aa02696_html_a477ed5ca0e8da0b293428f4596802c0b"><div class="ttname"><a href="../../d8/da6/a02696.html#a477ed5ca0e8da0b293428f4596802c0b">AuraEffectProcFn</a></div><div class="ttdeci">#define AuraEffectProcFn(F, I, N)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:868</div></div>
 <div class="ttc" id="aa02705_html_a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b"><div class="ttname"><a href="../../da/d28/a02705.html#a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b">SPELL_AURA_PROC_TRIGGER_SPELL</a></div><div class="ttdeci">@ SPELL_AURA_PROC_TRIGGER_SPELL</div><div class="ttdef"><b>Definition:</b> SpellAuraDefines.h:105</div></div>
 <div class="ttc" id="aa12143_html_ae01a6d3f559913b72bd67a145c668457"><div class="ttname"><a href="../../d7/dce/a12143.html#ae01a6d3f559913b72bd67a145c668457">AuraScript::OnEffectProc</a></div><div class="ttdeci">HookList&lt; EffectProcHandler &gt; OnEffectProc</div><div class="ttdef"><b>Definition:</b> SpellScript.h:863</div></div>
-<div class="ttc" id="aa21151_html_a207dcb7134a23ca5a6e86acbdc283a27"><div class="ttname"><a href="../../dd/d65/a21151.html#a207dcb7134a23ca5a6e86acbdc283a27">spell_yogg_saron_diminish_power_aura::HandleProc</a></div><div class="ttdeci">void HandleProc(AuraEffect const *, ProcEventInfo &amp;)</div><div class="ttdef"><b>Definition:</b> boss_yoggsaron.cpp:2392</div></div>
+<div class="ttc" id="aa21151_html_a207dcb7134a23ca5a6e86acbdc283a27"><div class="ttname"><a href="../../dd/d65/a21151.html#a207dcb7134a23ca5a6e86acbdc283a27">spell_yogg_saron_diminish_power_aura::HandleProc</a></div><div class="ttdeci">void HandleProc(AuraEffect const *, ProcEventInfo &amp;)</div><div class="ttdef"><b>Definition:</b> boss_yoggsaron.cpp:2391</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00868">AuraEffectProcFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l02392">HandleProc()</a>, <a class="el" href="../../#l00863">AuraScript::OnEffectProc</a>, and <a class="el" href="../../#l00105">SPELL_AURA_PROC_TRIGGER_SPELL</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00868">AuraEffectProcFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l02391">HandleProc()</a>, <a class="el" href="../../#l00863">AuraScript::OnEffectProc</a>, and <a class="el" href="../../#l00105">SPELL_AURA_PROC_TRIGGER_SPELL</a>.</p>
 
 </div>
 </div>
@@ -426,7 +426,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dd/d65/a21151.html">spell_yogg_saron_diminish_power_aura</a></li>
-    <li class="footer">Generated on Tue Sep 29 2026 01:14:10 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Tue Oct 6 2026 01:27:15 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

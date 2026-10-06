@@ -1,11 +1,6 @@
 var a22903 =
 [
-    [ "boss_gurtogg_bloodboil", "d6/d62/a22903.html#af6abec4e4db5ce939e4c9593656d16fb", null ],
-    [ "CanAIAttack", "d6/d62/a22903.html#a60e6439bab689eb88a18612b6b46c713", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "d6/d62/a22903.html#a42db4d9fab6edfc392e1886c7d2770cb", null ],
-    [ "JustDied", "d6/d62/a22903.html#a10456695efc6ea0b8eace24b94c37cc3", null ],
-    [ "JustEngagedWith", "d6/d62/a22903.html#a0847173efbae252c2fbbaf1be17097cb", null ],
-    [ "JustSummoned", "d6/d62/a22903.html#ae718666a1da0e93cb0965c42c40b51df", null ],
-    [ "KilledUnit", "d6/d62/a22903.html#ab2b8131fc06f0ff6dd9e3ac7799e72db", null ],
-    [ "Reset", "d6/d62/a22903.html#add25677d422b8bddcb753465451f0584", null ]
+    [ "HandleScriptEffect", "d6/d62/a22903.html#a21740b341acce23e284a3d4ceea9b6e0", null ],
+    [ "PrepareSpellScript", "d6/d62/a22903.html#addcd30a673390ca8b76eab5ccb5f4245", null ],
+    [ "Register", "d6/d62/a22903.html#aad6959f74932db219e991efd3b3af44a", null ]
 ];

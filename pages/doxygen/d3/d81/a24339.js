@@ -1,6 +1,6 @@
 var a24339 =
 [
-    [ "npc_infernal_attackerAI", "df/d7c/a24343.html", "df/d7c/a24343" ],
-    [ "npc_infernal_attacker", "d3/d81/a24339.html#ac6fbfcf8fc918b48d6b9416a71cfe3fa", null ],
-    [ "GetAI", "d3/d81/a24339.html#ad1d9186c186de36efbe102a07fe89de4", null ]
+    [ "npc_mature_netherwing_drakeAI", "df/d7c/a24343.html", "df/d7c/a24343" ],
+    [ "npc_mature_netherwing_drake", "d3/d81/a24339.html#a3369bd143ff9e46a4ad4c44b6d8c0ec5", null ],
+    [ "GetAI", "d3/d81/a24339.html#ac5a1dad24920396156f22ab02bfab84b", null ]
 ];

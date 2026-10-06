@@ -1,5 +1,9 @@
 var a19451 =
 [
-    [ "at_icc_spire_frostwyrm", "da/d57/a19451.html#ac3da2c0bc3e8b1c31832fcbb4e8ceae8", null ],
-    [ "_OnTrigger", "da/d57/a19451.html#a67e320fb8ada7cb2c87f5944395fa174", null ]
+    [ "spell_trigger_spell_from_caster", "da/d57/a19451.html#a0dc389ab8bd51fcfd839250a3bbc2dcd", null ],
+    [ "HandleTrigger", "da/d57/a19451.html#afc11c9408ea11cb04e476999a9bdf522", null ],
+    [ "PrepareSpellScript", "da/d57/a19451.html#a24a9bd70a58f051cd6c4ceaff5d7fffe", null ],
+    [ "Register", "da/d57/a19451.html#ae44cc1a87267c1d08603d1aff2384957", null ],
+    [ "Validate", "da/d57/a19451.html#a3aace9a309bc848b887b03c949c921bd", null ],
+    [ "_triggerId", "da/d57/a19451.html#a29af52a9035f18936515a464889fefe5", null ]
 ];

@@ -1,6 +1,7 @@
 var a27559 =
 [
-    [ "HandleEffectApply", "db/d44/a27559.html#ab77ea5638ea12f2e305487b1080d0b0b", null ],
-    [ "PrepareAuraScript", "db/d44/a27559.html#aed642c73ab31fb63aa497ada45863ae6", null ],
-    [ "Register", "db/d44/a27559.html#ab9c68d7368ed71d2c5585df31b09cdd7", null ]
+    [ "HandleProc", "db/d44/a27559.html#adec7010a0de4ab9e8756d345c4adff14", null ],
+    [ "PrepareAuraScript", "db/d44/a27559.html#a16986cb0bf0e46d44a640486580480aa", null ],
+    [ "Register", "db/d44/a27559.html#a093cac6e19a12d01b7dba974b595502e", null ],
+    [ "Validate", "db/d44/a27559.html#a558005f2d0ed6d42705a3e0ee940ffcc", null ]
 ];

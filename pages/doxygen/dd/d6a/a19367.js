@@ -1,6 +1,9 @@
 var a19367 =
 [
-    [ "npc_icc_skybreaker_vicarAI", "d8/d2a/a19371.html", "d8/d2a/a19371" ],
-    [ "npc_icc_skybreaker_vicar", "dd/d6a/a19367.html#a40451cc6fba0cae59e47fa38e4fb79d3", null ],
-    [ "GetAI", "dd/d6a/a19367.html#a6884bb7e54b78abee0cc995c4fbb501d", null ]
+    [ "npc_icc_skybreaker_vicarAI", "dd/d6a/a19367.html#ae74a306850b328f536b55e5c24c040ab", null ],
+    [ "AttackStart", "dd/d6a/a19367.html#a52b753e1f599eb02385d980a78cd3c78", null ],
+    [ "JustEngagedWith", "dd/d6a/a19367.html#afdb4215cd0578de7342b152783666ed6", null ],
+    [ "Reset", "dd/d6a/a19367.html#aeb11687534fa7c1e76ea22cc07deb73d", null ],
+    [ "UpdateAI", "dd/d6a/a19367.html#af1726169fe63eb3ff1ed95eb0e10d2f0", null ],
+    [ "events", "dd/d6a/a19367.html#a711d9571b4edb87f77eeebbd12e248b3", null ]
 ];

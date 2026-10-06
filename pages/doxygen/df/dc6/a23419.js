@@ -1,9 +1,7 @@
 var a23419 =
 [
-    [ "boss_morogrim_tidewalker", "df/dc6/a23419.html#a138a200da298f64697e2e47fb8004ccb", null ],
-    [ "JustDied", "df/dc6/a23419.html#a139d87e7cffe03183538eb493e063195", null ],
-    [ "JustEngagedWith", "df/dc6/a23419.html#a3244672aeb994673e1f46708699bcc2c", null ],
-    [ "JustSummoned", "df/dc6/a23419.html#a2b669007520094948138c95468b77f9f", null ],
-    [ "KilledUnit", "df/dc6/a23419.html#a2db94919e6d6f3d4eda4addc4248976e", null ],
-    [ "Reset", "df/dc6/a23419.html#a78ed1d1f8c55407497a4fb679587975d", null ]
+    [ "FilterTargets", "df/dc6/a23419.html#adb8581b4b92aa49eda8f531e6d6de1ea", null ],
+    [ "HandleDummy", "df/dc6/a23419.html#a2fe7441bd9753cb912d11f8d36632f44", null ],
+    [ "PrepareSpellScript", "df/dc6/a23419.html#ae7714acbe0a08781e3bc297847c47870", null ],
+    [ "Register", "df/dc6/a23419.html#ade51d4cb00b63c46582c7a5e6e031e9d", null ]
 ];

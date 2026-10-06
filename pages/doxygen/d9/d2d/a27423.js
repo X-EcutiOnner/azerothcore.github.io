@@ -1,7 +1,6 @@
 var a27423 =
 [
-    [ "HandleScript", "d9/d2d/a27423.html#ad22b87be8f47886650d7bf9e98eee495", null ],
-    [ "PrepareSpellScript", "d9/d2d/a27423.html#a806f934cd684039425ce3fca037b0e8c", null ],
-    [ "Register", "d9/d2d/a27423.html#a9bd3ea5aa5fb16aac87f6097db31e113", null ],
-    [ "Validate", "d9/d2d/a27423.html#a96d189c452a969850121323faef1d9c1", null ]
+    [ "PrepareAuraScript", "d9/d2d/a27423.html#a059fe9aa1ea5ea4d0fa797e70a146fc5", null ],
+    [ "Register", "d9/d2d/a27423.html#a91f4b2b8796c7efab2f622893a393619", null ],
+    [ "AuraEffectHandleModes", "d9/d2d/a27423.html#ab93d08a85de86b0efdec59006ebbdf97", null ]
 ];

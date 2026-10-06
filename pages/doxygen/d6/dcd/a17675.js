@@ -1,14 +1,6 @@
 var a17675 =
 [
-    [ "boss_drakkari_colossusAI", "d6/dcd/a17675.html#a28594cf76c5b1977a4f70ba0c3811646", null ],
-    [ "DoAction", "d6/dcd/a17675.html#a8e72a38f6a605cafa2667ca585cf0761", null ],
-    [ "JustReachedHome", "d6/dcd/a17675.html#a93f73f204d07b4805f4a7dd240a96d13", null ],
-    [ "JustSummoned", "d6/dcd/a17675.html#ab58d286bb6f0ea94c2eb70e52e513ad4", null ],
-    [ "MoveInLineOfSight", "d6/dcd/a17675.html#ae1151f6fc9f9ca011a7d476f7d1c6927", null ],
-    [ "Reset", "d6/dcd/a17675.html#a5e9c6da15df58a206533a7c718056c3e", null ],
-    [ "ScheduleTasks", "d6/dcd/a17675.html#afefbba70f93142110dcf9d7940d91d2c", null ],
-    [ "SummonedCreatureDespawn", "d6/dcd/a17675.html#a58658947c4fc115ea9c1d6f1edd1332e", null ],
-    [ "SummonedCreatureDies", "d6/dcd/a17675.html#a59f9efbc2964eec057606d69458b4402", null ],
-    [ "UpdateAI", "d6/dcd/a17675.html#afc816b7d1c2705675560ddd13ecce22d", null ],
-    [ "_secondEmerge", "d6/dcd/a17675.html#a2e97f8f1f5c53efba04afc213f410870", null ]
+    [ "boss_drakkari_elementalAI", "d2/d27/a17679.html", "d2/d27/a17679" ],
+    [ "boss_drakkari_elemental", "d6/dcd/a17675.html#a143dd5d52ea7bb3c3c1d96da45af81ee", null ],
+    [ "GetAI", "d6/dcd/a17675.html#aab2f9c71ddb77164bd644d18b9e88313", null ]
 ];

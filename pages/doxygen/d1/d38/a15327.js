@@ -1,6 +1,11 @@
 var a15327 =
 [
-    [ "boss_epochAI", "df/d23/a15331.html", "df/d23/a15331" ],
-    [ "boss_epoch", "d1/d38/a15327.html#a78b7d775bc3fc44496e41c58f2ed534d", null ],
-    [ "GetAI", "d1/d38/a15327.html#a2673a4fb8c70d62009dfdc6daf23aee2", null ]
+    [ "boss_epochAI", "d1/d38/a15327.html#a35d80bf8032fba5908132ad29f372293", null ],
+    [ "JustDied", "d1/d38/a15327.html#a780aa5bc86c80aaeeffad441b2873121", null ],
+    [ "JustEngagedWith", "d1/d38/a15327.html#ae742dceac5979faebb58a133e9bd91f0", null ],
+    [ "KilledUnit", "d1/d38/a15327.html#af41946feab7b86d812f706bd7abbf1bd", null ],
+    [ "Reset", "d1/d38/a15327.html#a98cf5d8aded78694117af64ccdb6cd83", null ],
+    [ "SpellHitTarget", "d1/d38/a15327.html#ab87dfcf635a65b02be29186d2990fef3", null ],
+    [ "UpdateAI", "d1/d38/a15327.html#a651b11c4cc5f92881b4dd5b7f22c9d85", null ],
+    [ "warps", "d1/d38/a15327.html#a478113af1ce565c729604c6039f55551", null ]
 ];

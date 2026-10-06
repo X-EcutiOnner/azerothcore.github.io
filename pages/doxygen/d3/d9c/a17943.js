@@ -1,8 +1,12 @@
 var a17943 =
 [
-    [ "npc_high_overlord_saurfangAI", "dc/d12/a17947.html", "dc/d12/a17947" ],
-    [ "npc_high_overlord_saurfang_icc", "d3/d9c/a17943.html#ac02fe80550572e142406c2d80c0392df", null ],
-    [ "GetAI", "d3/d9c/a17943.html#a21c04ab5b8d747c28c7355cc483ac6e3", null ],
-    [ "OnGossipHello", "d3/d9c/a17943.html#a515a87f751527412222cfdd968febe7c", null ],
-    [ "OnGossipSelect", "d3/d9c/a17943.html#a39c33a3b2e7037ca6f0f40ba65cb55db", null ]
+    [ "npc_high_overlord_saurfangAI", "d3/d9c/a17943.html#a5c31259d9eb26e09d2b645d826e75328", null ],
+    [ "DoAction", "d3/d9c/a17943.html#a4a372a14c960c48c51a1c8e34ebffc53", null ],
+    [ "MovementInform", "d3/d9c/a17943.html#a6a46f99ffb67a699ef9adb2a1afcbe13", null ],
+    [ "Reset", "d3/d9c/a17943.html#a28899c61f9b4d3612535d1a01dc05f4a", null ],
+    [ "SpellHit", "d3/d9c/a17943.html#a6399e9c9ecdb8c01fbd2bcd1b081811f", null ],
+    [ "UpdateAI", "d3/d9c/a17943.html#a92124e7490a066bf63836397a3bdc71b", null ],
+    [ "_events", "d3/d9c/a17943.html#a12bbe13cf8fd1eda0cb8aa75ecafddc4", null ],
+    [ "_guardList", "d3/d9c/a17943.html#ac1496627bdf326163256045bd068bc4f", null ],
+    [ "_instance", "d3/d9c/a17943.html#a4181022e52fc10e2d5d98dcffe9ced62", null ]
 ];

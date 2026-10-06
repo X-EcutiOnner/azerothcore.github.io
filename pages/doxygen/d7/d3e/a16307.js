@@ -1,7 +1,11 @@
 var a16307 =
 [
-    [ "npc_ameAI", "da/d4d/a16311.html", "da/d4d/a16311" ],
-    [ "npc_ame", "d7/d3e/a16307.html#a6b4a20b06bc88393dd08b4eae83c1d50", null ],
-    [ "GetAI", "d7/d3e/a16307.html#a09f7688c38d56319791f7543eb32f317", null ],
-    [ "OnQuestAccept", "d7/d3e/a16307.html#a69b8ec6558e70e34f7e405b397b09f43", null ]
+    [ "npc_ameAI", "d7/d3e/a16307.html#ad3d0ee584859b2b0fb7c6c5dbf204ad6", null ],
+    [ "JustDied", "d7/d3e/a16307.html#a9b77f94f112477509c3163945ceb8201", null ],
+    [ "JustSummoned", "d7/d3e/a16307.html#ab09c72c4ea50313c23a53d3862aeddea", null ],
+    [ "Reset", "d7/d3e/a16307.html#a0bda0f95bd97b9e755a745a8ea41ba49", null ],
+    [ "UpdateAI", "d7/d3e/a16307.html#a0a073e4c216985607aa51099044ff6c5", null ],
+    [ "WaypointReached", "d7/d3e/a16307.html#a44b06a6a977d20b03ed663f1090ed43c", null ],
+    [ "WaypointReached", "d7/d3e/a16307.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "DemoralizingShoutTimer", "d7/d3e/a16307.html#ab5d1786735adea4bce1bba8adf42a877", null ]
 ];

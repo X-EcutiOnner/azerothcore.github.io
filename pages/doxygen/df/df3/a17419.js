@@ -1,8 +1,10 @@
 var a17419 =
 [
-    [ "npc_hor_leaderAI", "de/d25/a17423.html", "de/d25/a17423" ],
-    [ "npc_hor_leader", "df/df3/a17419.html#a5c8d6cce242d144755fb14879f7f17d3", null ],
-    [ "GetAI", "df/df3/a17419.html#a55e7357aa6dff1efdff08541e88413e9", null ],
-    [ "OnGossipHello", "df/df3/a17419.html#afb46ea0b6926ad5d9b87b1d6a5e04591", null ],
-    [ "OnGossipSelect", "df/df3/a17419.html#ab5d01ae2803bab43b2c701d0cb1d4280", null ]
+    [ "npc_hor_leaderAI", "df/df3/a17419.html#a2072f9facbc476bb97f1a3ca9c24fcb7", null ],
+    [ "DoAction", "df/df3/a17419.html#a610700732a6cc197a40106adef654a62", null ],
+    [ "Reset", "df/df3/a17419.html#a40749d0294400e15bc28f6e728c6cb3c", null ],
+    [ "UpdateAI", "df/df3/a17419.html#acb29a6ddb6d06616e79f7431b66f167a", null ],
+    [ "events", "df/df3/a17419.html#a94128223bddd84b8a678e49f3189cb75", null ],
+    [ "instance", "df/df3/a17419.html#aaf5ee73e8d3a52c51cbc64853843ed4e", null ],
+    [ "shortver", "df/df3/a17419.html#a6e7b5d6f1b73bacb54d9aa1eb21fe6ee", null ]
 ];

@@ -1,7 +1,7 @@
 var a01187 =
 [
-    [ "boss_bjarngrim", "d4/d54/a20043.html", "d4/d54/a20043" ],
-    [ "npc_stormforged_lieutenant", "da/d00/a20047.html", "da/d00/a20047" ],
+    [ "boss_bjarngrim", "db/dc7/a20039.html", "db/dc7/a20039" ],
+    [ "npc_stormforged_lieutenant", "d4/d54/a20043.html", "d4/d54/a20043" ],
     [ "BjarngrimEvents", "dc/d70/a01187.html#aa8c3e344bed87b5cb609d644244a84dc", [
       [ "EVENT_BJARNGRIM_CHANGE_STANCE", "dc/d70/a01187.html#aa8c3e344bed87b5cb609d644244a84dca86c4301f1389fc68ef05ba6f2fcec688", null ],
       [ "EVENT_BJARNGRIM_REFLECTION", "dc/d70/a01187.html#aa8c3e344bed87b5cb609d644244a84dca248b5d28ba71eaca7bebb2db0e87af8b", null ],
@@ -219,8 +219,7 @@ var a01187 =
       [ "SAY_SEND_GROUP", "d8/d7a/a01292.html#a34a1b224b8db54cacd01d75b910f04e3ac4696d8fcb3bb196c5efdb756c5533a5", null ],
       [ "EMOTE_SNOBOLLED", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3a8d41398e97a91de8de78bf8ac9e0b09b", null ],
       [ "EMOTE_ENRAGE", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3a81024d2fa77c20eddf3d080ee9947126", null ],
-      [ "EMOTE_SUBMERGE", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3a2de75a94c63b35b7198bd89cf36a943e", null ],
-      [ "EMOTE_EMERGE", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3ab6eecfa42f3bdac4bf4c6e235545a252", null ],
+      [ "WHISPER_PARALYTIC_TOXIN", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3a9f30cd12b1e4592413f87b56c75bfbbb", null ],
       [ "EMOTE_TRAMPLE_STARE", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3a55eeb707d5a1d02aeaba2a8df6f388e6", null ],
       [ "EMOTE_TRAMPLE_CRASH", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3afa538decb9ebb5608387548209c84cf6", null ],
       [ "EMOTE_TRAMPLE_FAIL", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3aac5c85f7acc8f9da718c8818106bb9ff", null ],

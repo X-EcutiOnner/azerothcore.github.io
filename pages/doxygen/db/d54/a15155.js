@@ -1,6 +1,6 @@
 var a15155 =
 [
-    [ "OnAuraRemove", "db/d54/a15155.html#ad16e8b64999771154360afad71454c07", null ],
-    [ "PrepareAuraScript", "db/d54/a15155.html#a70963be80861e10ecd093e40b77e7078", null ],
-    [ "Register", "db/d54/a15155.html#a7381cbea873fb57485e4539aa478d236", null ]
+    [ "PrepareAuraScript", "db/d54/a15155.html#a80660b1417ab33edaf2c4cd517e10e30", null ],
+    [ "RecalculateHook", "db/d54/a15155.html#af3952993947dfb24381083d21a9e64cb", null ],
+    [ "Register", "db/d54/a15155.html#ab7f0aa924dfe8043e44cd794f72e4555", null ]
 ];

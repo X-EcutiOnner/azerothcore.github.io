@@ -1,6 +1,6 @@
 var a16547 =
 [
-    [ "instance_azjol_nerub_InstanceScript", "d7/d8e/a16547.html#a886ed4c1485fdedcc176341210eee31a", null ],
-    [ "OnCreatureEvade", "d7/d8e/a16547.html#af163238686bf22f11908f64ffb5cacca", null ],
-    [ "OnUnitDeath", "d7/d8e/a16547.html#a45792f7c2d1a042d68907a0f475634d1", null ]
+    [ "HandleScriptEffect", "d7/d8e/a16547.html#aaa650972803d14e4d74be977430b04f6", null ],
+    [ "PrepareSpellScript", "d7/d8e/a16547.html#a1e166c53e2051f3fae1b085a76a08c3f", null ],
+    [ "Register", "d7/d8e/a16547.html#a3405c1b04f2e623662c7acaa6810278c", null ]
 ];

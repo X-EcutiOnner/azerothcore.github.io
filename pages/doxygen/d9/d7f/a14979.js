@@ -1,6 +1,8 @@
 var a14979 =
 [
-    [ "HandleScript", "d9/d7f/a14979.html#a4077b809530d28bed0a9419b5a745f42", null ],
-    [ "PrepareSpellScript", "d9/d7f/a14979.html#a97eb6d1fcdcf0628433e5bec68785932", null ],
-    [ "Register", "d9/d7f/a14979.html#ac09b1c86655eef0febaccff86533b28f", null ]
+    [ "HandleDummy", "d9/d7f/a14979.html#a47b5a6741f2782359449dcaebd40fe1c", null ],
+    [ "Load", "d9/d7f/a14979.html#a7877187ad7afb2dfbd28fb7c74d40478", null ],
+    [ "PrepareSpellScript", "d9/d7f/a14979.html#af1d1ad32d41d79008d650b388353346b", null ],
+    [ "Register", "d9/d7f/a14979.html#a53a7c4c025324b205a29f92dd48aefde", null ],
+    [ "handled", "d9/d7f/a14979.html#acf3a9296a36f131f852afbf60beb7ea4", null ]
 ];

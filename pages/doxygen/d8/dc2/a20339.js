@@ -1,9 +1,9 @@
 var a20339 =
 [
-    [ "npc_freya_ward_summon", "d8/dc2/a20339.html#ad88b954bbbb68988915ec165ccb0a3dd", null ],
-    [ "CanAIAttack", "d8/dc2/a20339.html#a6b91ab899f11e3d6f9907b73476fa61f", null ],
-    [ "IsSummonedBy", "d8/dc2/a20339.html#ab6c7cab698470dafd14a0ed2ddd94eca", null ],
-    [ "JustEngagedWith", "d8/dc2/a20339.html#a52ca4242be249900f94d918dbc4df6c3", null ],
-    [ "Reset", "d8/dc2/a20339.html#ae2e600ad8cae543bdb4b7f7b9c4c626a", null ],
-    [ "UpdateAI", "d8/dc2/a20339.html#a175d2ca7a28ab998860fdce324c48c7e", null ]
+    [ "npc_hodirs_fury", "d8/dc2/a20339.html#abda902842d76a0a5a17196a11654f5ab", null ],
+    [ "MovementInform", "d8/dc2/a20339.html#a4d82007c5b70edad74b461948629b9fb", null ],
+    [ "Reset", "d8/dc2/a20339.html#a8f50cc6b79ba7feab8ac2f83f82a598f", null ],
+    [ "UpdateAI", "d8/dc2/a20339.html#a58a8b1664bb00b930cce86e856facb8b", null ],
+    [ "_switchTargetTimer", "d8/dc2/a20339.html#a9736332e6f3d163f04aa12cbd6829670", null ],
+    [ "_timeToHit", "d8/dc2/a20339.html#a611d171dc27bd78d298040eabfc00e5f", null ]
 ];

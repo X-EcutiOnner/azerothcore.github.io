@@ -1,11 +1,6 @@
 var a24307 =
 [
-    [ "npc_maxx_a_million_escortAI", "d9/df1/a24307.html#ab827933527ed7b4a04b162034876ced8", null ],
-    [ "JustDied", "d9/df1/a24307.html#a2106ab4d32d0f221f62eeffd93f71380", null ],
-    [ "Reset", "d9/df1/a24307.html#a6b9b2ed76e26f908ff2272ad8744a59e", null ],
-    [ "UpdateAI", "d9/df1/a24307.html#a3b022feb2303875d32ad981e84f66854", null ],
-    [ "WaypointReached", "d9/df1/a24307.html#acd6f45abb93f3f043cd85647405a50f6", null ],
-    [ "WaypointReached", "d9/df1/a24307.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "bTake", "d9/df1/a24307.html#ac697fc6cbc20c7f316845ed26436049b", null ],
-    [ "uiTakeTimer", "d9/df1/a24307.html#a5d4826dcf893f444a42dedba57460110", null ]
+    [ "HandleEffectRemove", "d9/df1/a24307.html#a2e73fd55dd7e6e658bc6c6623b650732", null ],
+    [ "PrepareAuraScript", "d9/df1/a24307.html#a9aabae3a6c57be9b17394d4a39fe24ec", null ],
+    [ "Register", "d9/df1/a24307.html#ac02217c103db141d75377e233e1e4242", null ]
 ];

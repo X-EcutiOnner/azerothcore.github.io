@@ -1,12 +1,7 @@
 var a16327 =
 [
-    [ "DialogueHelper", "da/de1/a16327.html#a3566655e8781bf5f9dff514fcd659421", null ],
-    [ "DialogueUpdate", "da/de1/a16327.html#aaac3463d91a0cdbe2622b4fd85b34ed0", null ],
-    [ "DoNextDialogueStep", "da/de1/a16327.html#a6e23a56ba5c5e4d4ab3b4c6be5cb09af", null ],
-    [ "GetSpeakerByEntry", "da/de1/a16327.html#a50e652ca2cff035d8c79517fdbcfc67a", null ],
-    [ "JustDidDialogueStep", "da/de1/a16327.html#a79e80634f1780895669f5c810958fd4f", null ],
-    [ "StartNextDialogueText", "da/de1/a16327.html#ac16b8b9b50e8b35980d21f161bf33340", null ],
-    [ "_actionTimer", "da/de1/a16327.html#a33b8551c136bcbc896b29d935c155a75", null ],
-    [ "_currentEntry", "da/de1/a16327.html#a89ca5e8d25372bd8ab32322a0a9999f2", null ],
-    [ "_dialogueArray", "da/de1/a16327.html#a489b8cd1c75ced0ec8e34b8051899dd7", null ]
+    [ "npc_ranshallaAI", "d7/d1a/a16331.html", "d7/d1a/a16331" ],
+    [ "npc_ranshalla", "da/de1/a16327.html#a0b9848c68cf955d24024071ae9beb8e5", null ],
+    [ "GetAI", "da/de1/a16327.html#a1a81651366cc05d3ad6e9929160fe059", null ],
+    [ "OnQuestAccept", "da/de1/a16327.html#a4ed77a4c0a48dc4922fa5ebb71949e28", null ]
 ];

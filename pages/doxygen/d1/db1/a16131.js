@@ -1,7 +1,13 @@
 var a16131 =
 [
-    [ "npc_shenthulAI", "d7/dab/a16135.html", "d7/dab/a16135" ],
-    [ "npc_shenthul", "d1/db1/a16131.html#a77815503c7d9c811fe3821232e308714", null ],
-    [ "GetAI", "d1/db1/a16131.html#a1683f8c89add6270277c59951c74027e", null ],
-    [ "OnQuestAccept", "d1/db1/a16131.html#a3a63fec338dca74eb7d071dfcc9c95b5", null ]
+    [ "npc_shenthulAI", "d1/db1/a16131.html#ae056474022c27be5565bf018a1b56f0b", null ],
+    [ "JustEngagedWith", "d1/db1/a16131.html#acb202ef530bc11ea807f580ff5dfc621", null ],
+    [ "ReceiveEmote", "d1/db1/a16131.html#ab2ddc3e447b36cb0fceffdaff0fca592", null ],
+    [ "Reset", "d1/db1/a16131.html#af077e96eb8bf89af2d6eb79907444a17", null ],
+    [ "UpdateAI", "d1/db1/a16131.html#a2ae643c11c6ea3808be922de96a24e8f", null ],
+    [ "CanEmote", "d1/db1/a16131.html#a920209c374e611e96347d209337c044f", null ],
+    [ "CanTalk", "d1/db1/a16131.html#a82ea8d2ee50538135add120be7616f86", null ],
+    [ "PlayerGUID", "d1/db1/a16131.html#a4b262388aca789d19231426a8cb73379", null ],
+    [ "ResetTimer", "d1/db1/a16131.html#a475a141d639f0136ac943e6afb1ecd15", null ],
+    [ "SaluteTimer", "d1/db1/a16131.html#ae76b4bbde77b6029a788abfbbbe84df8", null ]
 ];

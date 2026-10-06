@@ -1,6 +1,6 @@
 var a22151 =
 [
-    [ "HandleScriptEffect", "d8/de2/a22151.html#a0d6a2eda99d95b1ee3403d8c63415800", null ],
-    [ "PrepareSpellScript", "d8/de2/a22151.html#a68920ab07d955763e8a627e6cb35638c", null ],
-    [ "Register", "d8/de2/a22151.html#a918cf6968f6eec5a4025324bd7f78747", null ]
+    [ "npc_attracted_reef_bullAI", "d8/de2/a22151.html#aa8917a912fb31a5987332e53e8d268e7", null ],
+    [ "MovementInform", "d8/de2/a22151.html#a79d9539243f178a2989f017c5f9ebc8c", null ],
+    [ "SpellHit", "d8/de2/a22151.html#ab06ee7ef84d881262ae682b69fae3135", null ]
 ];

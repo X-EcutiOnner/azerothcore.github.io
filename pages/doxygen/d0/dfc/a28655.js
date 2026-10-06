@@ -1,6 +1,6 @@
 var a28655 =
 [
-    [ "npc_target_dummy", "d0/dfc/a28655.html#a097033431f3bfa2e5e05ab1c76b0a4fa", null ],
-    [ "Reset", "d0/dfc/a28655.html#a3fcccbe2c48bf5e076e8b016195e1469", null ],
-    [ "UpdateAI", "d0/dfc/a28655.html#a32e9e139a54375b336c112deee3687cd", null ]
+    [ "spawnedCreatureEntry", "d0/dfc/a28655.html#a32b390dfff99d5fd3c49359779718af4", null ],
+    [ "spawnType", "d0/dfc/a28655.html#a056dabf4092da4ef3155a661607ca772", null ],
+    [ "thisCreatureEntry", "d0/dfc/a28655.html#a97d3cd7c2751fe85d9724ff1f808ba98", null ]
 ];

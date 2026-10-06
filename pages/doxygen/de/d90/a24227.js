@@ -1,6 +1,6 @@
 var a24227 =
 [
-    [ "npc_fel_guard_houndAI", "dc/dfd/a24231.html", "dc/dfd/a24231" ],
-    [ "npc_fel_guard_hound", "de/d90/a24227.html#a324179695f04a31b233b0ce94a46634c", null ],
-    [ "GetAI", "de/d90/a24227.html#a5f5c20ec379994e7d0b65133d772e18f", null ]
+    [ "go_beaconAI", "dc/dfd/a24231.html", "dc/dfd/a24231" ],
+    [ "go_beacon", "de/d90/a24227.html#ad4224cabdc7210d9a0a46fb1eed1a23b", null ],
+    [ "GetAI", "de/d90/a24227.html#abd168f0c1ac9a64cece280758f3120d4", null ]
 ];

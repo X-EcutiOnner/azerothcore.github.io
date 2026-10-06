@@ -1,8 +1,6 @@
 var a19763 =
 [
-    [ "HandleAfterCast", "d3/dea/a19763.html#ac816f81a668ac3018be8f5dc4698039b", null ],
-    [ "HandleDummy", "d3/dea/a19763.html#a3009faa525c22779a0b2534b96821cfd", null ],
-    [ "PrepareSpellScript", "d3/dea/a19763.html#aca38f23f080314ab73ec2494bf877716", null ],
-    [ "Register", "d3/dea/a19763.html#aa87e57dabec6e83029f4dd84913f22ca", null ],
-    [ "Validate", "d3/dea/a19763.html#af945e399992deb3aef5c81ad393ee50f", null ]
+    [ "npc_teslaAI", "d8/d0d/a19767.html", "d8/d0d/a19767" ],
+    [ "npc_tesla", "d3/dea/a19763.html#ae74ad52adbf4a160ef0c7cf97e4faea0", null ],
+    [ "GetAI", "d3/dea/a19763.html#a00d0e2ee0a8c20ed64dd2012f244a760", null ]
 ];

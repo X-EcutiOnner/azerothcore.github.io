@@ -1,7 +1,5 @@
 var a15831 =
 [
-    [ "boss_glob_of_viscidus", "dc/dcc/a15831.html#a1ba72393766110382dc4ce4122dfd1ee", null ],
-    [ "InitializeAI", "dc/dcc/a15831.html#a0247055fc4f3a60c880ffb78e96edcb9", null ],
-    [ "MovementInform", "dc/dcc/a15831.html#abe0cd95930fe52fdb5a40c704d092b90", null ],
-    [ "UpdateAI", "dc/dcc/a15831.html#a2e8e38ccdf4ab5e32bd750d73daf1605", null ]
+    [ "npc_toxic_slime", "dc/dcc/a15831.html#a4c3a03916280342ec9aec07049de161f", null ],
+    [ "InitializeAI", "dc/dcc/a15831.html#ae69f228040aaa5bc4df40a652f551992", null ]
 ];

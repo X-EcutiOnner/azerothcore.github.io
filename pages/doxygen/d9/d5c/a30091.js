@@ -1,5 +1,4 @@
 var a30091 =
 [
-    [ "aura", "d9/d5c/a30091.html#a6a57282648f4792e6dfaf4c892be90eb", null ],
-    [ "effect", "d9/d5c/a30091.html#a24ce38279cb514bab8ef9924d93b5dfc", null ]
+    [ "effects", "d9/d5c/a30091.html#a00a2f9a365f421985e426c8cdf3ece91", null ]
 ];

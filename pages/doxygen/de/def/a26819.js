@@ -1,8 +1,7 @@
 var a26819 =
 [
-    [ "HandleEffectApply", "de/def/a26819.html#a1182bd57a03ad093b53e3864bdff127c", null ],
-    [ "HandleEffectRemove", "de/def/a26819.html#a6374ece2a04c3d5bc81bb31cc5bc78e1", null ],
-    [ "PrepareAuraScript", "de/def/a26819.html#acbe4a19f4f2502fc1ae4e13a2c8906ab", null ],
-    [ "Register", "de/def/a26819.html#ac3a9249da3071736026d66a9551ca16d", null ],
-    [ "Validate", "de/def/a26819.html#a0ebac0cb6933ac4c562c3c91e06614dd", null ]
+    [ "PeriodicTick", "de/def/a26819.html#a4fcdb073b4140311f31c5965ea7d1316", null ],
+    [ "PrepareAuraScript", "de/def/a26819.html#ad332660b3b30ecb7b5c949c702574879", null ],
+    [ "Register", "de/def/a26819.html#ad752eaecf8b0b3efcc7f61d88fb447d9", null ],
+    [ "Validate", "de/def/a26819.html#a426b39c9733464c5d69d707d4e931f64", null ]
 ];

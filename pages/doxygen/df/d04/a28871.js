@@ -1,5 +1,5 @@
 var a28871 =
 [
-    [ "npc_suns_reach_reclamation", "df/d04/a28871.html#aa66b75aa1a4a96a97c4d2c4e42e3d6bb", null ],
-    [ "OnQuestReward", "df/d04/a28871.html#aa403d14fccda7adbec1ffeb765079c25", null ]
+    [ "npc_sunwell_gate", "df/d04/a28871.html#a70643c475fe4aa6f47e0a47222b1faad", null ],
+    [ "OnQuestReward", "df/d04/a28871.html#a760f5bef0c1f45f21698b0dcdf2d2236", null ]
 ];

@@ -340,9 +340,9 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2374</span>    {</div>
-<div class="line"><span class="lineno"> 2375</span>        <a class="code hl_function" href="../../d7/dce/a12143.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>()-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#a51ec81e114bf82a2485ba9f66200afd2">CastCustomSpell</a>(<a class="code hl_enumvalue" href="../../df/dd5/a01115.html#a1b30ee7b66756f07902ec6940e772f08ac61ebdbb5f18a34d8e9796f3dd8e8025">SPELL_MALADY_OF_THE_MIND_TRIGGER</a>, <a class="code hl_enumvalue" href="../../d7/d1c/a02732.html#a4ad87b8c967acbbcb154a32bc123371baac4a68bd47fc6d4dd83453928def284b">SPELLVALUE_MAX_TARGETS</a>, 1, <a class="code hl_function" href="../../d7/dce/a12143.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>(), <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno"> 2376</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2373</span>    {</div>
+<div class="line"><span class="lineno"> 2374</span>        <a class="code hl_function" href="../../d7/dce/a12143.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>()-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#a51ec81e114bf82a2485ba9f66200afd2">CastCustomSpell</a>(<a class="code hl_enumvalue" href="../../df/dd5/a01115.html#a1b30ee7b66756f07902ec6940e772f08ac61ebdbb5f18a34d8e9796f3dd8e8025">SPELL_MALADY_OF_THE_MIND_TRIGGER</a>, <a class="code hl_enumvalue" href="../../d7/d1c/a02732.html#a4ad87b8c967acbbcb154a32bc123371baac4a68bd47fc6d4dd83453928def284b">SPELLVALUE_MAX_TARGETS</a>, 1, <a class="code hl_function" href="../../d7/dce/a12143.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>(), <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno"> 2375</span>    }</div>
 <div class="ttc" id="aa01115_html_a1b30ee7b66756f07902ec6940e772f08ac61ebdbb5f18a34d8e9796f3dd8e8025"><div class="ttname"><a href="../../df/dd5/a01115.html#a1b30ee7b66756f07902ec6940e772f08ac61ebdbb5f18a34d8e9796f3dd8e8025">SPELL_MALADY_OF_THE_MIND_TRIGGER</a></div><div class="ttdeci">@ SPELL_MALADY_OF_THE_MIND_TRIGGER</div><div class="ttdef"><b>Definition:</b> boss_yoggsaron.cpp:83</div></div>
 <div class="ttc" id="aa02732_html_a4ad87b8c967acbbcb154a32bc123371baac4a68bd47fc6d4dd83453928def284b"><div class="ttname"><a href="../../d7/d1c/a02732.html#a4ad87b8c967acbbcb154a32bc123371baac4a68bd47fc6d4dd83453928def284b">SPELLVALUE_MAX_TARGETS</a></div><div class="ttdeci">@ SPELLVALUE_MAX_TARGETS</div><div class="ttdef"><b>Definition:</b> SpellDefines.h:125</div></div>
 <div class="ttc" id="aa09227_html_a51ec81e114bf82a2485ba9f66200afd2"><div class="ttname"><a href="../../d9/d33/a09227.html#a51ec81e114bf82a2485ba9f66200afd2">Unit::CastCustomSpell</a></div><div class="ttdeci">SpellCastResult CastCustomSpell(Unit *victim, uint32 spellId, int32 const *bp0, int32 const *bp1, int32 const *bp2, bool triggered, Item *castItem=nullptr, AuraEffect const *triggeredByAura=nullptr, ObjectGuid originalCaster=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:1429</div></div>
@@ -350,7 +350,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01429">Unit::CastCustomSpell()</a>, <a class="el" href="../../#l01050">AuraScript::GetUnitOwner()</a>, <a class="el" href="../../#l00083">SPELL_MALADY_OF_THE_MIND_TRIGGER</a>, and <a class="el" href="../../#l00125">SPELLVALUE_MAX_TARGETS</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02378">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02377">Register()</a>.</p>
 
 </div>
 </div>
@@ -404,17 +404,17 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../df/d22/a12087.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2379</span>    {</div>
-<div class="line"><span class="lineno"> 2380</span>        <a class="code hl_variable" href="../../d7/dce/a12143.html#ab9127bc3610a6a30fa9bbf22f7339bcc">OnEffectRemove</a> += <a class="code hl_define" href="../../d8/da6/a02696.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a>(<a class="code hl_function" href="../../d1/d6a/a21147.html#ad3f482f9fff9798cc6e7a06183344742">spell_yogg_saron_malady_of_the_mind_aura::OnRemove</a>, <a class="code hl_enumvalue" href="../../d4/d81/a00110.html#a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791">EFFECT_1</a>, <a class="code hl_enumvalue" href="../../da/d28/a02705.html#a538cdc259460b365f406fe0b3a981799a44cf043145f5a78c5a4e36ecff8a034d">SPELL_AURA_MOD_FEAR</a>, <a class="code hl_enumvalue" href="../../da/d28/a02705.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
-<div class="line"><span class="lineno"> 2381</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2378</span>    {</div>
+<div class="line"><span class="lineno"> 2379</span>        <a class="code hl_variable" href="../../d7/dce/a12143.html#ab9127bc3610a6a30fa9bbf22f7339bcc">OnEffectRemove</a> += <a class="code hl_define" href="../../d8/da6/a02696.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a>(<a class="code hl_function" href="../../d1/d6a/a21147.html#ad3f482f9fff9798cc6e7a06183344742">spell_yogg_saron_malady_of_the_mind_aura::OnRemove</a>, <a class="code hl_enumvalue" href="../../d4/d81/a00110.html#a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791">EFFECT_1</a>, <a class="code hl_enumvalue" href="../../da/d28/a02705.html#a538cdc259460b365f406fe0b3a981799a44cf043145f5a78c5a4e36ecff8a034d">SPELL_AURA_MOD_FEAR</a>, <a class="code hl_enumvalue" href="../../da/d28/a02705.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
+<div class="line"><span class="lineno"> 2380</span>    }</div>
 <div class="ttc" id="aa00110_html_a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791"><div class="ttname"><a href="../../d4/d81/a00110.html#a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791">EFFECT_1</a></div><div class="ttdeci">@ EFFECT_1</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:32</div></div>
 <div class="ttc" id="aa02696_html_af8f20adad60abdb901d6e7310afea31b"><div class="ttname"><a href="../../d8/da6/a02696.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a></div><div class="ttdeci">#define AuraEffectRemoveFn(F, I, N, M)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:766</div></div>
 <div class="ttc" id="aa02705_html_a538cdc259460b365f406fe0b3a981799a44cf043145f5a78c5a4e36ecff8a034d"><div class="ttname"><a href="../../da/d28/a02705.html#a538cdc259460b365f406fe0b3a981799a44cf043145f5a78c5a4e36ecff8a034d">SPELL_AURA_MOD_FEAR</a></div><div class="ttdeci">@ SPELL_AURA_MOD_FEAR</div><div class="ttdef"><b>Definition:</b> SpellAuraDefines.h:70</div></div>
 <div class="ttc" id="aa02705_html_a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b"><div class="ttname"><a href="../../da/d28/a02705.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a></div><div class="ttdeci">@ AURA_EFFECT_HANDLE_REAL</div><div class="ttdef"><b>Definition:</b> SpellAuraDefines.h:42</div></div>
 <div class="ttc" id="aa12143_html_ab9127bc3610a6a30fa9bbf22f7339bcc"><div class="ttname"><a href="../../d7/dce/a12143.html#ab9127bc3610a6a30fa9bbf22f7339bcc">AuraScript::OnEffectRemove</a></div><div class="ttdeci">HookList&lt; EffectApplyHandler &gt; OnEffectRemove</div><div class="ttdef"><b>Definition:</b> SpellScript.h:761</div></div>
-<div class="ttc" id="aa21147_html_ad3f482f9fff9798cc6e7a06183344742"><div class="ttname"><a href="../../d1/d6a/a21147.html#ad3f482f9fff9798cc6e7a06183344742">spell_yogg_saron_malady_of_the_mind_aura::OnRemove</a></div><div class="ttdeci">void OnRemove(AuraEffect const *, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition:</b> boss_yoggsaron.cpp:2373</div></div>
+<div class="ttc" id="aa21147_html_ad3f482f9fff9798cc6e7a06183344742"><div class="ttname"><a href="../../d1/d6a/a21147.html#ad3f482f9fff9798cc6e7a06183344742">spell_yogg_saron_malady_of_the_mind_aura::OnRemove</a></div><div class="ttdeci">void OnRemove(AuraEffect const *, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition:</b> boss_yoggsaron.cpp:2372</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00042">AURA_EFFECT_HANDLE_REAL</a>, <a class="el" href="../../#l00766">AuraEffectRemoveFn</a>, <a class="el" href="../../#l00032">EFFECT_1</a>, <a class="el" href="../../#l00761">AuraScript::OnEffectRemove</a>, <a class="el" href="../../#l02373">OnRemove()</a>, and <a class="el" href="../../#l00070">SPELL_AURA_MOD_FEAR</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00042">AURA_EFFECT_HANDLE_REAL</a>, <a class="el" href="../../#l00766">AuraEffectRemoveFn</a>, <a class="el" href="../../#l00032">EFFECT_1</a>, <a class="el" href="../../#l00761">AuraScript::OnEffectRemove</a>, <a class="el" href="../../#l02372">OnRemove()</a>, and <a class="el" href="../../#l00070">SPELL_AURA_MOD_FEAR</a>.</p>
 
 </div>
 </div>
@@ -443,9 +443,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../df/d22/a12087.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2369</span>    {</div>
-<div class="line"><span class="lineno"> 2370</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../df/d22/a12087.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../df/dd5/a01115.html#a1b30ee7b66756f07902ec6940e772f08ac61ebdbb5f18a34d8e9796f3dd8e8025">SPELL_MALADY_OF_THE_MIND_TRIGGER</a> });</div>
-<div class="line"><span class="lineno"> 2371</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2368</span>    {</div>
+<div class="line"><span class="lineno"> 2369</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../df/d22/a12087.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../df/dd5/a01115.html#a1b30ee7b66756f07902ec6940e772f08ac61ebdbb5f18a34d8e9796f3dd8e8025">SPELL_MALADY_OF_THE_MIND_TRIGGER</a> });</div>
+<div class="line"><span class="lineno"> 2370</span>    }</div>
 <div class="ttc" id="aa12087_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../df/d22/a12087.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00083">SPELL_MALADY_OF_THE_MIND_TRIGGER</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
@@ -458,7 +458,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d1/d6a/a21147.html">spell_yogg_saron_malady_of_the_mind_aura</a></li>
-    <li class="footer">Generated on Tue Sep 29 2026 01:14:11 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Tue Oct 6 2026 01:27:15 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

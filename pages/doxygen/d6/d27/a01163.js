@@ -1,9 +1,9 @@
 var a01163 =
 [
-    [ "boss_krystallus", "d4/d61/a20091.html", "d4/d61/a20091" ],
-    [ "boss_krystallus::boss_krystallusAI", "d1/de3/a20095.html", "d1/de3/a20095" ],
-    [ "spell_krystallus_shatter", "d3/d66/a20099.html", "d3/d66/a20099" ],
-    [ "spell_krystallus_shatter_effect", "d9/d94/a20103.html", "d9/d94/a20103" ],
+    [ "boss_krystallus", "dc/dc6/a20087.html", "dc/dc6/a20087" ],
+    [ "boss_krystallus::boss_krystallusAI", "d4/d61/a20091.html", "d4/d61/a20091" ],
+    [ "spell_krystallus_shatter", "d1/de3/a20095.html", "d1/de3/a20095" ],
+    [ "spell_krystallus_shatter_effect", "d3/d66/a20099.html", "d3/d66/a20099" ],
     [ "events", "d6/d27/a01163.html#ad29858f6d8ab73f2970f41cb21a76b84", [
       [ "EVENT_SARTURA_WHIRLWIND", "db/d26/a02129.html#ad29858f6d8ab73f2970f41cb21a76b84ab9ca33cc16c2b82d1ff2f4361607d180", null ],
       [ "EVENT_SARTURA_WHIRLWIND_RANDOM", "db/d26/a02129.html#ad29858f6d8ab73f2970f41cb21a76b84a0963f59968bcf20bcda9da76e151f691", null ],
@@ -217,8 +217,7 @@ var a01163 =
       [ "SAY_SEND_GROUP", "d8/d7a/a01292.html#a34a1b224b8db54cacd01d75b910f04e3ac4696d8fcb3bb196c5efdb756c5533a5", null ],
       [ "EMOTE_SNOBOLLED", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3a8d41398e97a91de8de78bf8ac9e0b09b", null ],
       [ "EMOTE_ENRAGE", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3a81024d2fa77c20eddf3d080ee9947126", null ],
-      [ "EMOTE_SUBMERGE", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3a2de75a94c63b35b7198bd89cf36a943e", null ],
-      [ "EMOTE_EMERGE", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3ab6eecfa42f3bdac4bf4c6e235545a252", null ],
+      [ "WHISPER_PARALYTIC_TOXIN", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3a9f30cd12b1e4592413f87b56c75bfbbb", null ],
       [ "EMOTE_TRAMPLE_STARE", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3a55eeb707d5a1d02aeaba2a8df6f388e6", null ],
       [ "EMOTE_TRAMPLE_CRASH", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3afa538decb9ebb5608387548209c84cf6", null ],
       [ "EMOTE_TRAMPLE_FAIL", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3aac5c85f7acc8f9da718c8818106bb9ff", null ],

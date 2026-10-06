@@ -1,12 +1,6 @@
 var a15419 =
 [
-    [ "boss_lieutenant_drake", "de/ddd/a15419.html#a67e00ef68d5b07023cc9dc7bd6a2289b", null ],
-    [ "InitializeAI", "de/ddd/a15419.html#a2b3eb857c0711b89b6e7a6f3f5f05441", null ],
-    [ "JustDied", "de/ddd/a15419.html#aca7654e30aac96fa509f99f3447121ec", null ],
-    [ "JustEngagedWith", "de/ddd/a15419.html#ae31ac13106d09b8b447aa8fd9d864e41", null ],
-    [ "KilledUnit", "de/ddd/a15419.html#a833c889c28ea35a6198fe753b604a8ed", null ],
-    [ "MovementInform", "de/ddd/a15419.html#aec6e332bc5739552cbbec27569c55759", null ],
-    [ "UpdateAI", "de/ddd/a15419.html#ad898722dfe01c2e4f814fc5af9f057b8", null ],
-    [ "pathId", "de/ddd/a15419.html#ac63f9c885296a797799c0cd83b0ade64", null ],
-    [ "runSecondPath", "de/ddd/a15419.html#a3ea53e2048224ac3bbc4dceda316d7c4", null ]
+    [ "instance_old_hillsbrad_InstanceMapScript", "d5/d8f/a15423.html", "d5/d8f/a15423" ],
+    [ "instance_old_hillsbrad", "de/ddd/a15419.html#a1ba2d39ae8f9209055de4b944cc535d8", null ],
+    [ "GetInstanceScript", "de/ddd/a15419.html#a1929c38b1c745b2df1ccaf462113e220", null ]
 ];

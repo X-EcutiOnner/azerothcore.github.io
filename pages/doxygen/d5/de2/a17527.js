@@ -1,6 +1,8 @@
 var a17527 =
 [
-    [ "boss_krickAI", "d1/da7/a17531.html", "d1/da7/a17531" ],
-    [ "boss_krick", "d5/de2/a17527.html#a8921ff79c0af7db7f7910634239bcd0c", null ],
-    [ "GetAI", "d5/de2/a17527.html#a9aa994da7c667b20c00b1bd1e994fed1", null ]
+    [ "boss_krickAI", "d5/de2/a17527.html#ac085bae551fd4d9e48b05481a86cca9f", null ],
+    [ "DoAction", "d5/de2/a17527.html#ace248881cb71c1e91f33ff93489b6f3f", null ],
+    [ "UpdateAI", "d5/de2/a17527.html#aea8dd89c8e4de1bebd94a26ead852119", null ],
+    [ "events", "d5/de2/a17527.html#a75349e2fc35832e7944fa4f772380baa", null ],
+    [ "pInstance", "d5/de2/a17527.html#aecc2cdee32c4e4fa14ecaeca9b3eb65f", null ]
 ];

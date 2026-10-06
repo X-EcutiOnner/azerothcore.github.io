@@ -1,7 +1,13 @@
 var a16263 =
 [
-    [ "npc_wizzlecrank_shredderAI", "d7/db4/a16267.html", "d7/db4/a16267" ],
-    [ "npc_wizzlecrank_shredder", "d3/d7c/a16263.html#a56a29a61d6f1a5981019f6c059b4da64", null ],
-    [ "GetAI", "d3/d7c/a16263.html#a5c42cc6d8cf2642333731138077af66e", null ],
-    [ "OnQuestAccept", "d3/d7c/a16263.html#afcd5aaea5234b6510825d9ce5e809aa6", null ]
+    [ "npc_wizzlecrank_shredderAI", "d3/d7c/a16263.html#a055c4b426219aa3372a83d2e2021d916", null ],
+    [ "JustSummoned", "d3/d7c/a16263.html#a7cad21f0b3286ed75256a49c315069ce", null ],
+    [ "Reset", "d3/d7c/a16263.html#a86929e8a2f3433f37e4dda03e3011193", null ],
+    [ "UpdateEscortAI", "d3/d7c/a16263.html#acb95eeebd0317f1d95bc48d6b9e7e962", null ],
+    [ "WaypointReached", "d3/d7c/a16263.html#a369ae3d62d1289a1c840bdc3184b463d", null ],
+    [ "WaypointReached", "d3/d7c/a16263.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "WaypointStart", "d3/d7c/a16263.html#a00857e372e53950338ed71d672edb780", null ],
+    [ "IsPostEvent", "d3/d7c/a16263.html#a9207ffdb39627b1262ec209fe41d6d0a", null ],
+    [ "PostEventCount", "d3/d7c/a16263.html#aa5284a284c074f32cee85d29aea00f2f", null ],
+    [ "PostEventTimer", "d3/d7c/a16263.html#a3c43ede2df7b1ea61b0f1625e2e1461c", null ]
 ];

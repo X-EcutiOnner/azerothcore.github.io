@@ -1,9 +1,7 @@
 var a24755 =
 [
-    [ "CheckCast", "dd/d25/a24755.html#ad68a099d3167534be3d9978d1fc2b4fe", null ],
-    [ "EntryCheck", "dd/d25/a24755.html#a8e8578447aafeea4a62e028dbe6c7419", null ],
-    [ "HandleBaseDummy", "dd/d25/a24755.html#a8534cc52f42f0598088bf8500dd5e0e5", null ],
-    [ "HandleDummy", "dd/d25/a24755.html#a34d9f5699f306b27830ced2129be506c", null ],
-    [ "PrepareSpellScript", "dd/d25/a24755.html#af7aff878540dd34138aa479f532611b6", null ],
-    [ "Register", "dd/d25/a24755.html#a78321d1589e8d7f7fe8957a4939b6197", null ]
+    [ "HandleDummy", "dd/d25/a24755.html#a54f7f56a9122b623855eb9d11e34dfca", null ],
+    [ "PrepareSpellScript", "dd/d25/a24755.html#a2fe4b009fa3741c180e18730af5853e3", null ],
+    [ "Register", "dd/d25/a24755.html#a762c2320ab8d48e1284d81962a4b078f", null ],
+    [ "Validate", "dd/d25/a24755.html#a42fbc381d7ae89f1ac265fb15ebd864f", null ]
 ];

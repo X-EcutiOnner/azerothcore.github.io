@@ -1,4 +1,5 @@
 var a30095 =
 [
-    [ "effects", "d9/d7e/a30095.html#a00a2f9a365f421985e426c8cdf3ece91", null ]
+    [ "damageApplied", "d9/d7e/a30095.html#a69a7cfd95e3e3b43879eae37963d1e14", null ],
+    [ "slowApplied", "d9/d7e/a30095.html#a2d99cc2f9c6aedfeef6e18885ff2675d", null ]
 ];

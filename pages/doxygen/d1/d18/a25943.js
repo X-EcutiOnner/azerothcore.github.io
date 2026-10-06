@@ -1,6 +1,7 @@
 var a25943 =
 [
-    [ "HandleItemRemove", "d1/d18/a25943.html#a28f8f8e6823bad14900d08ba10cab7e6", null ],
-    [ "PrepareSpellScript", "d1/d18/a25943.html#a8b43e146724a2c8b3c495e886a79d021", null ],
-    [ "Register", "d1/d18/a25943.html#af8b02c31b81dce516ea47d6a1235d683", null ]
+    [ "OnDummyEffect", "d1/d18/a25943.html#a333c11c7ee2821bcc4d74d316f55bf5a", null ],
+    [ "PrepareSpellScript", "d1/d18/a25943.html#aa15334f23b837a005a34a12d238fc9d5", null ],
+    [ "Register", "d1/d18/a25943.html#a1b83195bdc148434f10a6c1ba3c0af0d", null ],
+    [ "Validate", "d1/d18/a25943.html#a359fba1475e52b24635cc8dda51cc922", null ]
 ];

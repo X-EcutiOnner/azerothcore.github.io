@@ -242,6 +242,7 @@ var namespaces_dup =
       [ "GameTime", "d6/d88/a05205.html#a9a28ffdb4bb387919d2dd70a51080ce0", null ],
       [ "GameTimeSteadyPoint", "d6/d88/a05205.html#a874057035d37aa57afc5064acffba119", null ],
       [ "GameTimeSystemPoint", "d6/d88/a05205.html#aa393fef2187ebdd6aa34379b0f1504d7", null ],
+      [ "StartSteadyPoint", "d6/d88/a05205.html#a5d35a6ba984a07c98aad70bb266989cf", null ],
       [ "StartTime", "d6/d88/a05205.html#a78088a0637670a1ab5125a1388f7ca52", null ]
     ] ],
     [ "GitRevision", "d0/d6f/a05137.html", [

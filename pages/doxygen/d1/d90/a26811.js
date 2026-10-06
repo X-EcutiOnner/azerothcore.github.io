@@ -1,6 +1,8 @@
 var a26811 =
 [
-    [ "CalculateAmount", "d1/d90/a26811.html#acc2c4cea16dfa30c49387ac166cef560", null ],
-    [ "PrepareAuraScript", "d1/d90/a26811.html#a8d7e840994ba5034a249171dbfc016a6", null ],
-    [ "Register", "d1/d90/a26811.html#a018d2a8a106a621730fcaa1d500df7b1", null ]
+    [ "HandleEffectApply", "d1/d90/a26811.html#a1182bd57a03ad093b53e3864bdff127c", null ],
+    [ "HandleEffectRemove", "d1/d90/a26811.html#a6374ece2a04c3d5bc81bb31cc5bc78e1", null ],
+    [ "PrepareAuraScript", "d1/d90/a26811.html#acbe4a19f4f2502fc1ae4e13a2c8906ab", null ],
+    [ "Register", "d1/d90/a26811.html#ac3a9249da3071736026d66a9551ca16d", null ],
+    [ "Validate", "d1/d90/a26811.html#a0ebac0cb6933ac4c562c3c91e06614dd", null ]
 ];

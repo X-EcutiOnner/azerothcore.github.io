@@ -1,8 +1,15 @@
 var a17707 =
 [
-    [ "boss_eck", "d5/d1e/a17707.html#a665b54f72e674c8f65dd09daba5413db", null ],
-    [ "InitializeAI", "d5/d1e/a17707.html#a92e5117337d372e1700d074f02c06df6", null ],
-    [ "JustEngagedWith", "d5/d1e/a17707.html#ac719d6bbebe6c1c3e70d54f4bd48e116", null ],
-    [ "MovementInform", "d5/d1e/a17707.html#aeaa0388d9fee4c6a025f823cd9e7e650", null ],
-    [ "SpellHitTarget", "d5/d1e/a17707.html#a63125d970933d6fa1f196aa28c588f40", null ]
+    [ "boss_gal_darah", "d5/d1e/a17707.html#a036b5f96ecf5096040f16e0205e4d57c", null ],
+    [ "GetData", "d5/d1e/a17707.html#a1f8ec6a0a95b10953506e08275db7a2c", null ],
+    [ "JustDied", "d5/d1e/a17707.html#a98f53f7131155114da1eeb19f5a50daa", null ],
+    [ "JustEngagedWith", "d5/d1e/a17707.html#acf7696bdfa868808f29a90dbec4b0688", null ],
+    [ "JustReachedHome", "d5/d1e/a17707.html#aba3c2011a01d4e00b7e1c28f0c4326b9", null ],
+    [ "JustSummoned", "d5/d1e/a17707.html#a490e259cf452c417864c978510d06fd2", null ],
+    [ "KilledUnit", "d5/d1e/a17707.html#a799e52cfe029164149017ea7f963937f", null ],
+    [ "Reset", "d5/d1e/a17707.html#a712339fe4a06d6a4836f4cbb5bd01625", null ],
+    [ "ScheduleEvents", "d5/d1e/a17707.html#ad5acba3d3bc049bb5bdcb95d31ef06d6", null ],
+    [ "SpellHit", "d5/d1e/a17707.html#a3f8cbe22aa2e0d39272b5b4dbfc5f06b", null ],
+    [ "_stampedeVictim", "d5/d1e/a17707.html#a0d34c4486c4188fcc6eb75e904d52a61", null ],
+    [ "impaledList", "d5/d1e/a17707.html#a08f311b7b7cec3bc4056b7d7071bfbf0", null ]
 ];

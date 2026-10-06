@@ -1,16 +1,19 @@
 var a29311 =
 [
-    [ "CanBeSetAtWar", "d8/d8a/a29311.html#ae165dc23f25386eb086e1fa2cb820153", null ],
-    [ "CanHaveReputation", "d8/d8a/a29311.html#ab3da6918e197c1098a932418d5c51799", null ],
-    [ "BaseRepClassMask", "d8/d8a/a29311.html#ae73655de567de3766fcb3bbfb7f9eed3", null ],
-    [ "BaseRepRaceMask", "d8/d8a/a29311.html#aa8e1c08416d07882af7075fbb020ae5a", null ],
-    [ "BaseRepValue", "d8/d8a/a29311.html#a52f0753d1e1e69a4994eb6b1eab6824c", null ],
-    [ "ID", "d8/d8a/a29311.html#a1953f7a343201113dae80cdd97e1ac90", null ],
-    [ "name", "d8/d8a/a29311.html#ad9d326ed1aac5ea66825775665dfea00", null ],
-    [ "ReputationFlags", "d8/d8a/a29311.html#ae23a3c94554b2043928d6e1ea748e709", null ],
-    [ "reputationListID", "d8/d8a/a29311.html#aee99121c2d7298e16540229923391aee", null ],
-    [ "spilloverMaxRankIn", "d8/d8a/a29311.html#a14cea5365f14880850e788ba328d0c8e", null ],
-    [ "spilloverRateIn", "d8/d8a/a29311.html#a7a72bc65fb3fe76ffa1d072800c5daed", null ],
-    [ "spilloverRateOut", "d8/d8a/a29311.html#a7cea150843bf48277aa9cc917d210fcb", null ],
-    [ "team", "d8/d8a/a29311.html#a6210fabf2688f26a0a0050f6c148485d", null ]
+    [ "FactionRespondsToCallForHelp", "d8/d8a/a29311.html#af0d102e7e7ae480b2c61cf121bcd012a", null ],
+    [ "IsContestedGuardFaction", "d8/d8a/a29311.html#a52d5e1e5b01946a3d6d66158910e9f6d", null ],
+    [ "IsFriendlyTo", "d8/d8a/a29311.html#ac70cef62b2ec646d593d8742a3c02f08", null ],
+    [ "IsHostileTo", "d8/d8a/a29311.html#a1aadbf23c1c81a958665d96e5bf76093", null ],
+    [ "IsHostileToAlliancePlayers", "d8/d8a/a29311.html#a4d3bfc9845c9d20f2e9e42f3247e1977", null ],
+    [ "IsHostileToHordePlayers", "d8/d8a/a29311.html#a1734226996b76623df70f6fd0fe8a1c0", null ],
+    [ "IsHostileToPlayers", "d8/d8a/a29311.html#a349650c7af717e3c67392a0b9d1970e1", null ],
+    [ "IsNeutralToAll", "d8/d8a/a29311.html#a99cb471bcc9071a3c152266caa4579ae", null ],
+    [ "enemyFaction", "d8/d8a/a29311.html#ae53f6799be5ae4bf7ab047fd97a4a969", null ],
+    [ "faction", "d8/d8a/a29311.html#a2cb03ed38c15f6e6db7b556200282541", null ],
+    [ "factionFlags", "d8/d8a/a29311.html#af20e4983d34c419b4a14c60d8049d9f4", null ],
+    [ "friendFaction", "d8/d8a/a29311.html#a9c89b58067e28de89cedf2572b5e0e31", null ],
+    [ "friendlyMask", "d8/d8a/a29311.html#a6842badfb5e7e0ad3a26d250426c64b6", null ],
+    [ "hostileMask", "d8/d8a/a29311.html#ab395ab86c3e553ea4a9b1ae901c6e7cb", null ],
+    [ "ID", "d8/d8a/a29311.html#a22657898486c71df39da27b968e405d5", null ],
+    [ "ourMask", "d8/d8a/a29311.html#a822685376430441eeb85c24fd26473b0", null ]
 ];

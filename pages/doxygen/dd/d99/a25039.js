@@ -1,6 +1,8 @@
 var a25039 =
 [
-    [ "CheckProc", "dd/d99/a25039.html#a67f31710f6a3e843b9d3539710100898", null ],
-    [ "PrepareAuraScript", "dd/d99/a25039.html#ad59ef816bd24f6215cc853386859dbb4", null ],
-    [ "Register", "dd/d99/a25039.html#af499437b1af535488792f44c18ad9bf7", null ]
+    [ "CheckProc", "dd/d99/a25039.html#a465402287949b12e5f4a4fe5405c32ce", null ],
+    [ "HandleProc", "dd/d99/a25039.html#a11329d2093e30e91d7582c5eb34228ab", null ],
+    [ "PrepareAuraScript", "dd/d99/a25039.html#a0c17de6a23adf74e32cf7c50b09762fc", null ],
+    [ "Register", "dd/d99/a25039.html#ade6720401687c7ad102e51572351705c", null ],
+    [ "Validate", "dd/d99/a25039.html#a71c224e13289673e5d2ed700cde6cd6a", null ]
 ];

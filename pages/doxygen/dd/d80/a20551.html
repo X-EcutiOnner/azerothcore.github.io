@@ -800,14 +800,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../de/dc7/a06607.html#a5a2ee2c8c34726e0dd7d2e7a25047690">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  556</span>    {</div>
-<div class="line"><span class="lineno">  557</span>        <span class="keywordflow">if</span> (t-&gt;IsPlayer())</div>
-<div class="line"><span class="lineno">  558</span>            <span class="keywordflow">return</span> !t-&gt;HasAura(<a class="code hl_enumvalue" href="../../db/d17/a01148.html#a0a6ae4eb8bbfccba730ab3001c4690d7a3c8db6a48af8468afe81db75583f4603">SPELL_FLASH_FREEZE_TRAPPED_PLAYER</a>);</div>
-<div class="line"><span class="lineno">  559</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (t-&gt;IsCreature())</div>
-<div class="line"><span class="lineno">  560</span>            <span class="keywordflow">return</span> !t-&gt;HasAura(<a class="code hl_enumvalue" href="../../db/d17/a01148.html#a0a6ae4eb8bbfccba730ab3001c4690d7a91a030bf0f2165e02ee413bd3e141cb8">SPELL_FLASH_FREEZE_TRAPPED_NPC</a>);</div>
-<div class="line"><span class="lineno">  561</span> </div>
-<div class="line"><span class="lineno">  562</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  563</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  551</span>    {</div>
+<div class="line"><span class="lineno">  552</span>        <span class="keywordflow">if</span> (t-&gt;IsPlayer())</div>
+<div class="line"><span class="lineno">  553</span>            <span class="keywordflow">return</span> !t-&gt;HasAura(<a class="code hl_enumvalue" href="../../db/d17/a01148.html#a0a6ae4eb8bbfccba730ab3001c4690d7a3c8db6a48af8468afe81db75583f4603">SPELL_FLASH_FREEZE_TRAPPED_PLAYER</a>);</div>
+<div class="line"><span class="lineno">  554</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (t-&gt;IsCreature())</div>
+<div class="line"><span class="lineno">  555</span>            <span class="keywordflow">return</span> !t-&gt;HasAura(<a class="code hl_enumvalue" href="../../db/d17/a01148.html#a0a6ae4eb8bbfccba730ab3001c4690d7a91a030bf0f2165e02ee413bd3e141cb8">SPELL_FLASH_FREEZE_TRAPPED_NPC</a>);</div>
+<div class="line"><span class="lineno">  556</span> </div>
+<div class="line"><span class="lineno">  557</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  558</span>    }</div>
 <div class="ttc" id="aa01148_html_a0a6ae4eb8bbfccba730ab3001c4690d7a3c8db6a48af8468afe81db75583f4603"><div class="ttname"><a href="../../db/d17/a01148.html#a0a6ae4eb8bbfccba730ab3001c4690d7a3c8db6a48af8468afe81db75583f4603">SPELL_FLASH_FREEZE_TRAPPED_PLAYER</a></div><div class="ttdeci">@ SPELL_FLASH_FREEZE_TRAPPED_PLAYER</div><div class="ttdef"><b>Definition:</b> boss_hodir.cpp:43</div></div>
 <div class="ttc" id="aa01148_html_a0a6ae4eb8bbfccba730ab3001c4690d7a91a030bf0f2165e02ee413bd3e141cb8"><div class="ttname"><a href="../../db/d17/a01148.html#a0a6ae4eb8bbfccba730ab3001c4690d7a91a030bf0f2165e02ee413bd3e141cb8">SPELL_FLASH_FREEZE_TRAPPED_NPC</a></div><div class="ttdeci">@ SPELL_FLASH_FREEZE_TRAPPED_NPC</div><div class="ttdef"><b>Definition:</b> boss_hodir.cpp:44</div></div>
 </div><!-- fragment -->
@@ -934,10 +934,10 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa09227_html_aee07e22b70ed433a845b0673579d5fee"><div class="ttname"><a href="../../d9/d33/a09227.html#aee07e22b70ed433a845b0673579d5fee">Unit::AttackStop</a></div><div class="ttdeci">bool AttackStop()</div><div class="ttdoc">Force the unit to stop attacking. This will clear UNIT_STATE_MELEE_ATTACKING, Interrupt current spell...</div><div class="ttdef"><b>Definition:</b> Unit.cpp:7240</div></div>
 <div class="ttc" id="aa10159_html_a5a3faff18c32a8f4da68b00489b7e480"><div class="ttname"><a href="../../da/d3a/a10159.html#a5a3faff18c32a8f4da68b00489b7e480">InstanceScript::DoRemoveAurasDueToSpellOnPlayers</a></div><div class="ttdeci">void DoRemoveAurasDueToSpellOnPlayers(uint32 spell)</div><div class="ttdef"><b>Definition:</b> InstanceScript.cpp:707</div></div>
 <div class="ttc" id="aa10455_html_afa6ffa9c5d6897f3aad3ac524c7bb35a"><div class="ttname"><a href="../../da/d0f/a10455.html#afa6ffa9c5d6897f3aad3ac524c7bb35a">MotionMaster::Clear</a></div><div class="ttdeci">void Clear(bool reset=true)</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:194</div></div>
-<div class="ttc" id="aa20551_html_a60b899abe9b1ab2c04be675d3ce54f68"><div class="ttname"><a href="../../dd/d80/a20551.html#a60b899abe9b1ab2c04be675d3ce54f68">boss_hodir::DoHelperVictoryEmotes</a></div><div class="ttdeci">void DoHelperVictoryEmotes()</div><div class="ttdef"><b>Definition:</b> boss_hodir.cpp:519</div></div>
+<div class="ttc" id="aa20551_html_a60b899abe9b1ab2c04be675d3ce54f68"><div class="ttname"><a href="../../dd/d80/a20551.html#a60b899abe9b1ab2c04be675d3ce54f68">boss_hodir::DoHelperVictoryEmotes</a></div><div class="ttdeci">void DoHelperVictoryEmotes()</div><div class="ttdef"><b>Definition:</b> boss_hodir.cpp:514</div></div>
 <div class="ttc" id="aa20551_html_aa0d0e0eb72500f5c99285fcf90a727c0"><div class="ttname"><a href="../../dd/d80/a20551.html#aa0d0e0eb72500f5c99285fcf90a727c0">boss_hodir::Helpers</a></div><div class="ttdeci">ObjectGuid Helpers[8]</div><div class="ttdef"><b>Definition:</b> boss_hodir.cpp:220</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l07240">Unit::AttackStop()</a>, <a class="el" href="../../#l00039">BOSS_HODIR</a>, <a class="el" href="../../#l01372">Unit::CastSpell()</a>, <a class="el" href="../../#l00194">MotionMaster::Clear()</a>, <a class="el" href="../../#l07273">Unit::CombatStop()</a>, <a class="el" href="../../#l00097">SummonList::DespawnIf()</a>, <a class="el" href="../../#l00399">UnitAI::DoCastSelf()</a>, <a class="el" href="../../#l00519">DoHelperVictoryEmotes()</a>, <a class="el" href="../../#l00061">DONE</a>, <a class="el" href="../../#l00707">InstanceScript::DoRemoveAurasDueToSpellOnPlayers()</a>, <a class="el" href="../../#l00189">FACTION_FRIENDLY</a>, <a class="el" href="../../#l01116">Unit::GetHealth()</a>, <a class="el" href="../../#l01763">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l00750">Unit::HasUnitFlag()</a>, <a class="el" href="../../#l00220">Helpers</a>, <a class="el" href="../../#l00492">BossAI::instance</a>, <a class="el" href="../../#l04047">Unit::InterruptNonMeleeSpells()</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l00569">REACT_PASSIVE</a>, <a class="el" href="../../#l05359">Unit::RemoveAllAuras()</a>, <a class="el" href="../../#l00233">TaskScheduler::Schedule()</a>, <a class="el" href="../../#l00074">CreatureAI::scheduler</a>, <a class="el" href="../../#l00406">InstanceScript::SetBossState()</a>, <a class="el" href="../../#l06850">Unit::SetFaction()</a>, <a class="el" href="../../#l00100">Creature::SetReactState()</a>, <a class="el" href="../../#l00751">Unit::SetUnitFlag()</a>, <a class="el" href="../../#l00036">SPELL_BITING_COLD_PLAYER_AURA</a>, <a class="el" href="../../#l00036">SPELL_TELEPORT</a>, <a class="el" href="../../#l00539">BossAI::summons</a>, <a class="el" href="../../#l00154">TEXT_DEATH</a>, and <a class="el" href="../../#l00258">UNIT_FLAG_NON_ATTACKABLE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l07240">Unit::AttackStop()</a>, <a class="el" href="../../#l00039">BOSS_HODIR</a>, <a class="el" href="../../#l01372">Unit::CastSpell()</a>, <a class="el" href="../../#l00194">MotionMaster::Clear()</a>, <a class="el" href="../../#l07273">Unit::CombatStop()</a>, <a class="el" href="../../#l00097">SummonList::DespawnIf()</a>, <a class="el" href="../../#l00399">UnitAI::DoCastSelf()</a>, <a class="el" href="../../#l00514">DoHelperVictoryEmotes()</a>, <a class="el" href="../../#l00061">DONE</a>, <a class="el" href="../../#l00707">InstanceScript::DoRemoveAurasDueToSpellOnPlayers()</a>, <a class="el" href="../../#l00189">FACTION_FRIENDLY</a>, <a class="el" href="../../#l01116">Unit::GetHealth()</a>, <a class="el" href="../../#l01763">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l00750">Unit::HasUnitFlag()</a>, <a class="el" href="../../#l00220">Helpers</a>, <a class="el" href="../../#l00492">BossAI::instance</a>, <a class="el" href="../../#l04047">Unit::InterruptNonMeleeSpells()</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l00569">REACT_PASSIVE</a>, <a class="el" href="../../#l05359">Unit::RemoveAllAuras()</a>, <a class="el" href="../../#l00233">TaskScheduler::Schedule()</a>, <a class="el" href="../../#l00074">CreatureAI::scheduler</a>, <a class="el" href="../../#l00406">InstanceScript::SetBossState()</a>, <a class="el" href="../../#l06850">Unit::SetFaction()</a>, <a class="el" href="../../#l00100">Creature::SetReactState()</a>, <a class="el" href="../../#l00751">Unit::SetUnitFlag()</a>, <a class="el" href="../../#l00036">SPELL_BITING_COLD_PLAYER_AURA</a>, <a class="el" href="../../#l00036">SPELL_TELEPORT</a>, <a class="el" href="../../#l00539">BossAI::summons</a>, <a class="el" href="../../#l00154">TEXT_DEATH</a>, and <a class="el" href="../../#l00258">UNIT_FLAG_NON_ATTACKABLE</a>.</p>
 
 </div>
 </div>
@@ -1014,34 +1014,34 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  520</span>    {</div>
-<div class="line"><span class="lineno">  521</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d6/d12/a04691.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; 8; ++i)</div>
-<div class="line"><span class="lineno">  522</span>        {</div>
-<div class="line"><span class="lineno">  523</span>            <a class="code hl_class" href="../../d5/d6c/a08471.html">Creature</a>* helper = <a class="code hl_function" href="../../dd/d80/a20551.html#a7cdb38932e616696f96008c321f9189c">GetHelper</a>(i);</div>
-<div class="line"><span class="lineno">  524</span>            <span class="keywordflow">if</span> (!helper)</div>
+<div class="fragment"><div class="line"><span class="lineno">  515</span>    {</div>
+<div class="line"><span class="lineno">  516</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d6/d12/a04691.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; 8; ++i)</div>
+<div class="line"><span class="lineno">  517</span>        {</div>
+<div class="line"><span class="lineno">  518</span>            <a class="code hl_class" href="../../d5/d6c/a08471.html">Creature</a>* helper = <a class="code hl_function" href="../../dd/d80/a20551.html#a7cdb38932e616696f96008c321f9189c">GetHelper</a>(i);</div>
+<div class="line"><span class="lineno">  519</span>            <span class="keywordflow">if</span> (!helper)</div>
+<div class="line"><span class="lineno">  520</span>                <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  521</span> </div>
+<div class="line"><span class="lineno">  522</span>            <span class="keywordflow">if</span> (!helper-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#a5ea3f54af571493f7889220724667189">IsAlive</a>())</div>
+<div class="line"><span class="lineno">  523</span>            {</div>
+<div class="line"><span class="lineno">  524</span>                helper-&gt;<a class="code hl_function" href="../../d5/d6c/a08471.html#ab5bbc9b5cedb702466f5d0c1fcddb8f9">DespawnOrUnsummon</a>();</div>
 <div class="line"><span class="lineno">  525</span>                <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  526</span> </div>
-<div class="line"><span class="lineno">  527</span>            <span class="keywordflow">if</span> (!helper-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#a5ea3f54af571493f7889220724667189">IsAlive</a>())</div>
-<div class="line"><span class="lineno">  528</span>            {</div>
-<div class="line"><span class="lineno">  529</span>                helper-&gt;<a class="code hl_function" href="../../d5/d6c/a08471.html#ab5bbc9b5cedb702466f5d0c1fcddb8f9">DespawnOrUnsummon</a>();</div>
-<div class="line"><span class="lineno">  530</span>                <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  531</span>            }</div>
-<div class="line"><span class="lineno">  532</span> </div>
-<div class="line"><span class="lineno">  533</span>            <span class="comment">// Stop combat behavior and start victory emote chain</span></div>
-<div class="line"><span class="lineno">  534</span>            helper-&gt;<a class="code hl_function" href="../../d5/d6c/a08471.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../de/dc7/a06607.html#a165d336cb3423f9665ed612d2dec76ed">DoAction</a>(<a class="code hl_enumvalue" href="../../db/d17/a01148.html#a60ddf4a10cef039765c94ccc1a5cee30aa99678f70aeb0390cb816f7119d043cd">ACTION_VICTORY_EMOTE</a>);</div>
-<div class="line"><span class="lineno">  535</span> </div>
-<div class="line"><span class="lineno">  536</span>            <span class="comment">// Thaw if still frozen</span></div>
-<div class="line"><span class="lineno">  537</span>            <span class="keywordflow">if</span> (helper-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#a69c5ac45b65cf0dede6e0ee837361f61">HasAura</a>(<a class="code hl_enumvalue" href="../../db/d17/a01148.html#a0a6ae4eb8bbfccba730ab3001c4690d7a91a030bf0f2165e02ee413bd3e141cb8">SPELL_FLASH_FREEZE_TRAPPED_NPC</a>))</div>
-<div class="line"><span class="lineno">  538</span>            {</div>
-<div class="line"><span class="lineno">  539</span>                helper-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#a1be09c524dfdd2c3538f2ae977c58399">RemoveAura</a>(<a class="code hl_enumvalue" href="../../db/d17/a01148.html#a0a6ae4eb8bbfccba730ab3001c4690d7a91a030bf0f2165e02ee413bd3e141cb8">SPELL_FLASH_FREEZE_TRAPPED_NPC</a>);</div>
-<div class="line"><span class="lineno">  540</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d5/d6c/a08471.html">Creature</a>* iceBlock = helper-&gt;<a class="code hl_function" href="../../d4/d08/a08883.html#aa7cc61d571dbc39ca8ac6ac10ffd18ab">FindNearestCreature</a>(<a class="code hl_enumvalue" href="../../db/d17/a01148.html#a30a5c3bf7d466a6e204548a6a169a8f3a294408782ddf31db30c230c20cc90307">NPC_FLASH_FREEZE_NPC</a>, 5.0f))</div>
-<div class="line"><span class="lineno">  541</span>                    iceBlock-&gt;DespawnOrUnsummon();</div>
-<div class="line"><span class="lineno">  542</span>            }</div>
-<div class="line"><span class="lineno">  543</span> </div>
-<div class="line"><span class="lineno">  544</span>            <span class="comment">// First cheer</span></div>
-<div class="line"><span class="lineno">  545</span>            helper-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#adeebdc78f840a40e89361e5c792b0e53">HandleEmoteCommand</a>(<a class="code hl_enumvalue" href="../../d4/d81/a00110.html#a0e527855c554e31654c9beb340145574a0973cc3d20ebc5db03fbe7d54600f57c">EMOTE_ONESHOT_CHEER_NO_SHEATHE</a>);</div>
-<div class="line"><span class="lineno">  546</span>        }</div>
-<div class="line"><span class="lineno">  547</span>    }</div>
+<div class="line"><span class="lineno">  526</span>            }</div>
+<div class="line"><span class="lineno">  527</span> </div>
+<div class="line"><span class="lineno">  528</span>            <span class="comment">// Stop combat behavior and start victory emote chain</span></div>
+<div class="line"><span class="lineno">  529</span>            helper-&gt;<a class="code hl_function" href="../../d5/d6c/a08471.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../de/dc7/a06607.html#a165d336cb3423f9665ed612d2dec76ed">DoAction</a>(<a class="code hl_enumvalue" href="../../db/d17/a01148.html#a60ddf4a10cef039765c94ccc1a5cee30aa99678f70aeb0390cb816f7119d043cd">ACTION_VICTORY_EMOTE</a>);</div>
+<div class="line"><span class="lineno">  530</span> </div>
+<div class="line"><span class="lineno">  531</span>            <span class="comment">// Thaw if still frozen</span></div>
+<div class="line"><span class="lineno">  532</span>            <span class="keywordflow">if</span> (helper-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#a69c5ac45b65cf0dede6e0ee837361f61">HasAura</a>(<a class="code hl_enumvalue" href="../../db/d17/a01148.html#a0a6ae4eb8bbfccba730ab3001c4690d7a91a030bf0f2165e02ee413bd3e141cb8">SPELL_FLASH_FREEZE_TRAPPED_NPC</a>))</div>
+<div class="line"><span class="lineno">  533</span>            {</div>
+<div class="line"><span class="lineno">  534</span>                helper-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#a1be09c524dfdd2c3538f2ae977c58399">RemoveAura</a>(<a class="code hl_enumvalue" href="../../db/d17/a01148.html#a0a6ae4eb8bbfccba730ab3001c4690d7a91a030bf0f2165e02ee413bd3e141cb8">SPELL_FLASH_FREEZE_TRAPPED_NPC</a>);</div>
+<div class="line"><span class="lineno">  535</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d5/d6c/a08471.html">Creature</a>* iceBlock = helper-&gt;<a class="code hl_function" href="../../d4/d08/a08883.html#aa7cc61d571dbc39ca8ac6ac10ffd18ab">FindNearestCreature</a>(<a class="code hl_enumvalue" href="../../db/d17/a01148.html#a30a5c3bf7d466a6e204548a6a169a8f3a294408782ddf31db30c230c20cc90307">NPC_FLASH_FREEZE_NPC</a>, 5.0f))</div>
+<div class="line"><span class="lineno">  536</span>                    iceBlock-&gt;DespawnOrUnsummon();</div>
+<div class="line"><span class="lineno">  537</span>            }</div>
+<div class="line"><span class="lineno">  538</span> </div>
+<div class="line"><span class="lineno">  539</span>            <span class="comment">// First cheer</span></div>
+<div class="line"><span class="lineno">  540</span>            helper-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#adeebdc78f840a40e89361e5c792b0e53">HandleEmoteCommand</a>(<a class="code hl_enumvalue" href="../../d4/d81/a00110.html#a0e527855c554e31654c9beb340145574a0973cc3d20ebc5db03fbe7d54600f57c">EMOTE_ONESHOT_CHEER_NO_SHEATHE</a>);</div>
+<div class="line"><span class="lineno">  541</span>        }</div>
+<div class="line"><span class="lineno">  542</span>    }</div>
 <div class="ttc" id="aa00110_html_a0e527855c554e31654c9beb340145574a0973cc3d20ebc5db03fbe7d54600f57c"><div class="ttname"><a href="../../d4/d81/a00110.html#a0e527855c554e31654c9beb340145574a0973cc3d20ebc5db03fbe7d54600f57c">EMOTE_ONESHOT_CHEER_NO_SHEATHE</a></div><div class="ttdeci">@ EMOTE_ONESHOT_CHEER_NO_SHEATHE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1950</div></div>
 <div class="ttc" id="aa01148_html_a30a5c3bf7d466a6e204548a6a169a8f3a294408782ddf31db30c230c20cc90307"><div class="ttname"><a href="../../db/d17/a01148.html#a30a5c3bf7d466a6e204548a6a169a8f3a294408782ddf31db30c230c20cc90307">NPC_FLASH_FREEZE_NPC</a></div><div class="ttdeci">@ NPC_FLASH_FREEZE_NPC</div><div class="ttdef"><b>Definition:</b> boss_hodir.cpp:113</div></div>
 <div class="ttc" id="aa01148_html_a60ddf4a10cef039765c94ccc1a5cee30aa99678f70aeb0390cb816f7119d043cd"><div class="ttname"><a href="../../db/d17/a01148.html#a60ddf4a10cef039765c94ccc1a5cee30aa99678f70aeb0390cb816f7119d043cd">ACTION_VICTORY_EMOTE</a></div><div class="ttdeci">@ ACTION_VICTORY_EMOTE</div><div class="ttdef"><b>Definition:</b> boss_hodir.cpp:174</div></div>
@@ -1054,9 +1054,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa09227_html_a1be09c524dfdd2c3538f2ae977c58399"><div class="ttname"><a href="../../d9/d33/a09227.html#a1be09c524dfdd2c3538f2ae977c58399">Unit::RemoveAura</a></div><div class="ttdeci">void RemoveAura(AuraApplicationMap::iterator &amp;i, AuraRemoveMode mode=AURA_REMOVE_BY_DEFAULT)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:4797</div></div>
 <div class="ttc" id="aa09227_html_a69c5ac45b65cf0dede6e0ee837361f61"><div class="ttname"><a href="../../d9/d33/a09227.html#a69c5ac45b65cf0dede6e0ee837361f61">Unit::HasAura</a></div><div class="ttdeci">bool HasAura(uint32 spellId, ObjectGuid casterGUID=ObjectGuid::Empty, ObjectGuid itemCasterGUID=ObjectGuid::Empty, uint8 reqEffMask=0) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:5764</div></div>
 <div class="ttc" id="aa09227_html_adeebdc78f840a40e89361e5c792b0e53"><div class="ttname"><a href="../../d9/d33/a09227.html#adeebdc78f840a40e89361e5c792b0e53">Unit::HandleEmoteCommand</a></div><div class="ttdeci">void HandleEmoteCommand(uint32 emoteId)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:2198</div></div>
-<div class="ttc" id="aa20551_html_a7cdb38932e616696f96008c321f9189c"><div class="ttname"><a href="../../dd/d80/a20551.html#a7cdb38932e616696f96008c321f9189c">boss_hodir::GetHelper</a></div><div class="ttdeci">Creature * GetHelper(uint8 index)</div><div class="ttdef"><b>Definition:</b> boss_hodir.cpp:471</div></div>
+<div class="ttc" id="aa20551_html_a7cdb38932e616696f96008c321f9189c"><div class="ttname"><a href="../../dd/d80/a20551.html#a7cdb38932e616696f96008c321f9189c">boss_hodir::GetHelper</a></div><div class="ttdeci">Creature * GetHelper(uint8 index)</div><div class="ttdef"><b>Definition:</b> boss_hodir.cpp:466</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00174">ACTION_VICTORY_EMOTE</a>, <a class="el" href="../../#l00144">Creature::AI()</a>, <a class="el" href="../../#l02221">Creature::DespawnOrUnsummon()</a>, <a class="el" href="../../#l00217">UnitAI::DoAction()</a>, <a class="el" href="../../#l01950">EMOTE_ONESHOT_CHEER_NO_SHEATHE</a>, <a class="el" href="../../#l02558">WorldObject::FindNearestCreature()</a>, <a class="el" href="../../#l00471">GetHelper()</a>, <a class="el" href="../../#l02198">Unit::HandleEmoteCommand()</a>, <a class="el" href="../../#l05764">Unit::HasAura()</a>, <a class="el" href="../../#l01798">Unit::IsAlive()</a>, <a class="el" href="../../#l00113">NPC_FLASH_FREEZE_NPC</a>, <a class="el" href="../../#l04797">Unit::RemoveAura()</a>, and <a class="el" href="../../#l00044">SPELL_FLASH_FREEZE_TRAPPED_NPC</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00174">ACTION_VICTORY_EMOTE</a>, <a class="el" href="../../#l00144">Creature::AI()</a>, <a class="el" href="../../#l02221">Creature::DespawnOrUnsummon()</a>, <a class="el" href="../../#l00217">UnitAI::DoAction()</a>, <a class="el" href="../../#l01950">EMOTE_ONESHOT_CHEER_NO_SHEATHE</a>, <a class="el" href="../../#l02558">WorldObject::FindNearestCreature()</a>, <a class="el" href="../../#l00466">GetHelper()</a>, <a class="el" href="../../#l02198">Unit::HandleEmoteCommand()</a>, <a class="el" href="../../#l05764">Unit::HasAura()</a>, <a class="el" href="../../#l01798">Unit::IsAlive()</a>, <a class="el" href="../../#l00113">NPC_FLASH_FREEZE_NPC</a>, <a class="el" href="../../#l04797">Unit::RemoveAura()</a>, and <a class="el" href="../../#l00044">SPELL_FLASH_FREEZE_TRAPPED_NPC</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00340">DamageTaken()</a>.</p>
 
@@ -1087,20 +1087,20 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../de/dc7/a06607.html#a6905aa5db0b3501623c040689946350e">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  583</span>    {</div>
-<div class="line"><span class="lineno">  584</span>        <span class="keywordflow">switch</span> (<span class="keywordtype">id</span>)</div>
-<div class="line"><span class="lineno">  585</span>        {</div>
-<div class="line"><span class="lineno">  586</span>            <span class="keywordflow">case</span> 1:</div>
-<div class="line"><span class="lineno">  587</span>                <span class="keywordflow">return</span> (<a class="code hl_variable" href="../../dd/d80/a20551.html#af1faea8be0fe1468f6f313ea143501cf">bAchievCheese</a> ? 1 : 0);</div>
-<div class="line"><span class="lineno">  588</span>            <span class="keywordflow">case</span> 2:</div>
-<div class="line"><span class="lineno">  589</span>                <span class="keywordflow">return</span> (<a class="code hl_variable" href="../../dd/d80/a20551.html#af9d9bedc4f11ce4fe264fe77afd7e717">bAchievGettingCold</a> ? 1 : 0);</div>
-<div class="line"><span class="lineno">  590</span>            <span class="keywordflow">case</span> 3:</div>
-<div class="line"><span class="lineno">  591</span>                <span class="keywordflow">return</span> (<a class="code hl_variable" href="../../dd/d80/a20551.html#a9e82c04f57105550e3c21c66d98829f5">bAchievCacheRare</a> ? 1 : 0);</div>
-<div class="line"><span class="lineno">  592</span>            <span class="keywordflow">case</span> 4:</div>
-<div class="line"><span class="lineno">  593</span>                <span class="keywordflow">return</span> (<a class="code hl_variable" href="../../dd/d80/a20551.html#a42f8a10a8b148d9f0bfd9eb943a15f03">bAchievCoolestFriends</a> ? 1 : 0);</div>
-<div class="line"><span class="lineno">  594</span>        }</div>
-<div class="line"><span class="lineno">  595</span>        <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno">  596</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  578</span>    {</div>
+<div class="line"><span class="lineno">  579</span>        <span class="keywordflow">switch</span> (<span class="keywordtype">id</span>)</div>
+<div class="line"><span class="lineno">  580</span>        {</div>
+<div class="line"><span class="lineno">  581</span>            <span class="keywordflow">case</span> 1:</div>
+<div class="line"><span class="lineno">  582</span>                <span class="keywordflow">return</span> (<a class="code hl_variable" href="../../dd/d80/a20551.html#af1faea8be0fe1468f6f313ea143501cf">bAchievCheese</a> ? 1 : 0);</div>
+<div class="line"><span class="lineno">  583</span>            <span class="keywordflow">case</span> 2:</div>
+<div class="line"><span class="lineno">  584</span>                <span class="keywordflow">return</span> (<a class="code hl_variable" href="../../dd/d80/a20551.html#af9d9bedc4f11ce4fe264fe77afd7e717">bAchievGettingCold</a> ? 1 : 0);</div>
+<div class="line"><span class="lineno">  585</span>            <span class="keywordflow">case</span> 3:</div>
+<div class="line"><span class="lineno">  586</span>                <span class="keywordflow">return</span> (<a class="code hl_variable" href="../../dd/d80/a20551.html#a9e82c04f57105550e3c21c66d98829f5">bAchievCacheRare</a> ? 1 : 0);</div>
+<div class="line"><span class="lineno">  587</span>            <span class="keywordflow">case</span> 4:</div>
+<div class="line"><span class="lineno">  588</span>                <span class="keywordflow">return</span> (<a class="code hl_variable" href="../../dd/d80/a20551.html#a42f8a10a8b148d9f0bfd9eb943a15f03">bAchievCoolestFriends</a> ? 1 : 0);</div>
+<div class="line"><span class="lineno">  589</span>        }</div>
+<div class="line"><span class="lineno">  590</span>        <span class="keywordflow">return</span> 0;</div>
+<div class="line"><span class="lineno">  591</span>    }</div>
 <div class="ttc" id="aa20551_html_a42f8a10a8b148d9f0bfd9eb943a15f03"><div class="ttname"><a href="../../dd/d80/a20551.html#a42f8a10a8b148d9f0bfd9eb943a15f03">boss_hodir::bAchievCoolestFriends</a></div><div class="ttdeci">bool bAchievCoolestFriends</div><div class="ttdef"><b>Definition:</b> boss_hodir.cpp:225</div></div>
 <div class="ttc" id="aa20551_html_af1faea8be0fe1468f6f313ea143501cf"><div class="ttname"><a href="../../dd/d80/a20551.html#af1faea8be0fe1468f6f313ea143501cf">boss_hodir::bAchievCheese</a></div><div class="ttdeci">bool bAchievCheese</div><div class="ttdef"><b>Definition:</b> boss_hodir.cpp:222</div></div>
 <div class="ttc" id="aa20551_html_af9d9bedc4f11ce4fe264fe77afd7e717"><div class="ttname"><a href="../../dd/d80/a20551.html#af9d9bedc4f11ce4fe264fe77afd7e717">boss_hodir::bAchievGettingCold</a></div><div class="ttdeci">bool bAchievGettingCold</div><div class="ttdef"><b>Definition:</b> boss_hodir.cpp:223</div></div>
@@ -1169,14 +1169,14 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  472</span>    {</div>
-<div class="line"><span class="lineno">  473</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dd/d80/a20551.html#aa0d0e0eb72500f5c99285fcf90a727c0">Helpers</a>[index] ? <a class="code hl_function" href="../../dc/d07/a05175.html#a8d1cda6b98832b29fcb437c654fd8ae9">ObjectAccessor::GetCreature</a>(*<a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_variable" href="../../dd/d80/a20551.html#aa0d0e0eb72500f5c99285fcf90a727c0">Helpers</a>[index]) : nullptr;</div>
-<div class="line"><span class="lineno">  474</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  467</span>    {</div>
+<div class="line"><span class="lineno">  468</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dd/d80/a20551.html#aa0d0e0eb72500f5c99285fcf90a727c0">Helpers</a>[index] ? <a class="code hl_function" href="../../dc/d07/a05175.html#a8d1cda6b98832b29fcb437c654fd8ae9">ObjectAccessor::GetCreature</a>(*<a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_variable" href="../../dd/d80/a20551.html#aa0d0e0eb72500f5c99285fcf90a727c0">Helpers</a>[index]) : nullptr;</div>
+<div class="line"><span class="lineno">  469</span>    }</div>
 <div class="ttc" id="aa05175_html_a8d1cda6b98832b29fcb437c654fd8ae9"><div class="ttname"><a href="../../dc/d07/a05175.html#a8d1cda6b98832b29fcb437c654fd8ae9">ObjectAccessor::GetCreature</a></div><div class="ttdeci">Creature * GetCreature(WorldObject const &amp;u, ObjectGuid const &amp;guid)</div><div class="ttdef"><b>Definition:</b> ObjectAccessor.cpp:234</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00234">ObjectAccessor::GetCreature()</a>, <a class="el" href="../../#l00220">Helpers</a>, and <a class="el" href="../../#l00281">ScriptedAI::me</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00519">DoHelperVictoryEmotes()</a>, and <a class="el" href="../../#l00266">JustEngagedWith()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00514">DoHelperVictoryEmotes()</a>, and <a class="el" href="../../#l00266">JustEngagedWith()</a>.</p>
 
 </div>
 </div>
@@ -1238,7 +1238,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa10159_html_a776dbfd3b5c48f29ea0ccf8f3cf659e2"><div class="ttname"><a href="../../da/d3a/a10159.html#a776dbfd3b5c48f29ea0ccf8f3cf659e2">InstanceScript::GetBossState</a></div><div class="ttdeci">EncounterState GetBossState(uint32 id) const</div><div class="ttdef"><b>Definition:</b> InstanceScript.h:252</div></div>
 <div class="ttc" id="aa20551_html_ac7f18efccc5bdf3802ca264b31ddc4f0"><div class="ttname"><a href="../../dd/d80/a20551.html#ac7f18efccc5bdf3802ca264b31ddc4f0">boss_hodir::SmallIcicles</a></div><div class="ttdeci">void SmallIcicles(bool enable)</div><div class="ttdef"><b>Definition:</b> boss_hodir.cpp:314</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00039">BOSS_HODIR</a>, <a class="el" href="../../#l01372">Unit::CastSpell()</a>, <a class="el" href="../../#l00061">DONE</a>, <a class="el" href="../../#l00125">EVENT_BERSERK</a>, <a class="el" href="../../#l00123">EVENT_FLASH_FREEZE</a>, <a class="el" href="../../#l00126">EVENT_FREEZE</a>, <a class="el" href="../../#l00252">InstanceScript::GetBossState()</a>, <a class="el" href="../../#l00471">GetHelper()</a>, <a class="el" href="../../#l00059">IN_PROGRESS</a>, <a class="el" href="../../#l00492">BossAI::instance</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l00406">InstanceScript::SetBossState()</a>, <a class="el" href="../../#l00314">SmallIcicles()</a>, <a class="el" href="../../#l00035">SPELL_BITING_COLD_BOSS_AURA</a>, <a class="el" href="../../#l00049">SPELL_SHATTER_CHEST_TIMER</a>, <a class="el" href="../../#l00150">TEXT_AGGRO</a>, and <a class="el" href="../../#l00266">UNIT_FLAG_IMMUNE_TO_NPC</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00039">BOSS_HODIR</a>, <a class="el" href="../../#l01372">Unit::CastSpell()</a>, <a class="el" href="../../#l00061">DONE</a>, <a class="el" href="../../#l00125">EVENT_BERSERK</a>, <a class="el" href="../../#l00123">EVENT_FLASH_FREEZE</a>, <a class="el" href="../../#l00126">EVENT_FREEZE</a>, <a class="el" href="../../#l00252">InstanceScript::GetBossState()</a>, <a class="el" href="../../#l00466">GetHelper()</a>, <a class="el" href="../../#l00059">IN_PROGRESS</a>, <a class="el" href="../../#l00492">BossAI::instance</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l00406">InstanceScript::SetBossState()</a>, <a class="el" href="../../#l00314">SmallIcicles()</a>, <a class="el" href="../../#l00035">SPELL_BITING_COLD_BOSS_AURA</a>, <a class="el" href="../../#l00049">SPELL_SHATTER_CHEST_TIMER</a>, <a class="el" href="../../#l00150">TEXT_AGGRO</a>, and <a class="el" href="../../#l00266">UNIT_FLAG_IMMUNE_TO_NPC</a>.</p>
 
 </div>
 </div>
@@ -1341,10 +1341,10 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d0/d95/a06663.html#a8d6c7fd71269453c229326c9785006e8">ScriptedAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  550</span>    {</div>
-<div class="line"><span class="lineno">  551</span>        <span class="keywordflow">if</span> (who-&gt;<a class="code hl_function" href="../../d9/d6f/a08847.html#a1b9ed00e8d7ac5fed698ef6431905296">IsPlayer</a>())</div>
-<div class="line"><span class="lineno">  552</span>            <a class="code hl_enumeration" href="../../da/d2d/a02018.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../db/d17/a01148.html#ae7521b78042d15a40eb39b60a718c957ad0a4888687ce45a19dfa63bf8910e007">TEXT_SLAY</a>);</div>
-<div class="line"><span class="lineno">  553</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  545</span>    {</div>
+<div class="line"><span class="lineno">  546</span>        <span class="keywordflow">if</span> (who-&gt;<a class="code hl_function" href="../../d9/d6f/a08847.html#a1b9ed00e8d7ac5fed698ef6431905296">IsPlayer</a>())</div>
+<div class="line"><span class="lineno">  547</span>            <a class="code hl_enumeration" href="../../da/d2d/a02018.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../db/d17/a01148.html#ae7521b78042d15a40eb39b60a718c957ad0a4888687ce45a19dfa63bf8910e007">TEXT_SLAY</a>);</div>
+<div class="line"><span class="lineno">  548</span>    }</div>
 <div class="ttc" id="aa01148_html_ae7521b78042d15a40eb39b60a718c957ad0a4888687ce45a19dfa63bf8910e007"><div class="ttname"><a href="../../db/d17/a01148.html#ae7521b78042d15a40eb39b60a718c957ad0a4888687ce45a19dfa63bf8910e007">TEXT_SLAY</a></div><div class="ttdeci">@ TEXT_SLAY</div><div class="ttdef"><b>Definition:</b> boss_hodir.cpp:151</div></div>
 <div class="ttc" id="aa08847_html_a1b9ed00e8d7ac5fed698ef6431905296"><div class="ttname"><a href="../../d9/d6f/a08847.html#a1b9ed00e8d7ac5fed698ef6431905296">Object::IsPlayer</a></div><div class="ttdeci">bool IsPlayer() const</div><div class="ttdef"><b>Definition:</b> Object.h:207</div></div>
 </div><!-- fragment -->
@@ -1377,7 +1377,7 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dc/d4f/a06619.html#a1280f8bcf72254ad31c453b810615f87">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  598</span>{}</div>
+<div class="fragment"><div class="line"><span class="lineno">  593</span>{}</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -1426,10 +1426,10 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa06651_html_a8e00739ad4d73482a9f3ba9b22d88c72"><div class="ttname"><a href="../../d1/d57/a06651.html#a8e00739ad4d73482a9f3ba9b22d88c72">SummonList::size</a></div><div class="ttdeci">size_type size() const</div><div class="ttdef"><b>Definition:</b> ScriptedCreature.h:78</div></div>
 <div class="ttc" id="aa06671_html_acdc89a1df0e62952becf83d9e1bd6299"><div class="ttname"><a href="../../d6/d3c/a06671.html#acdc89a1df0e62952becf83d9e1bd6299">BossAI::_Reset</a></div><div class="ttdeci">void _Reset()</div><div class="ttdef"><b>Definition:</b> ScriptedCreature.cpp:648</div></div>
 <div class="ttc" id="aa09227_html_a7ae13a942847716011855720fb4a1d3a"><div class="ttname"><a href="../../d9/d33/a09227.html#a7ae13a942847716011855720fb4a1d3a">Unit::SetSheath</a></div><div class="ttdeci">virtual void SetSheath(SheathState sheathed)</div><div class="ttdef"><b>Definition:</b> Unit.h:1782</div></div>
-<div class="ttc" id="aa20551_html_a33f6771817e47bda0fc2067a40258cc1"><div class="ttname"><a href="../../dd/d80/a20551.html#a33f6771817e47bda0fc2067a40258cc1">boss_hodir::SpawnHelpers</a></div><div class="ttdeci">void SpawnHelpers()</div><div class="ttdef"><b>Definition:</b> boss_hodir.cpp:476</div></div>
+<div class="ttc" id="aa20551_html_a33f6771817e47bda0fc2067a40258cc1"><div class="ttname"><a href="../../dd/d80/a20551.html#a33f6771817e47bda0fc2067a40258cc1">boss_hodir::SpawnHelpers</a></div><div class="ttdeci">void SpawnHelpers()</div><div class="ttdef"><b>Definition:</b> boss_hodir.cpp:471</div></div>
 <div class="ttc" id="aa20551_html_a918879c9b92e410ebe14b9be24a86a11"><div class="ttname"><a href="../../dd/d80/a20551.html#a918879c9b92e410ebe14b9be24a86a11">boss_hodir::berserk</a></div><div class="ttdeci">bool berserk</div><div class="ttdef"><b>Definition:</b> boss_hodir.cpp:221</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00648">BossAI::_Reset()</a>, <a class="el" href="../../#l00224">bAchievCacheRare</a>, <a class="el" href="../../#l00222">bAchievCheese</a>, <a class="el" href="../../#l00225">bAchievCoolestFriends</a>, <a class="el" href="../../#l00223">bAchievGettingCold</a>, <a class="el" href="../../#l00221">berserk</a>, <a class="el" href="../../#l00707">InstanceScript::DoRemoveAurasDueToSpellOnPlayers()</a>, <a class="el" href="../../#l00492">BossAI::instance</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l05359">Unit::RemoveAllAuras()</a>, <a class="el" href="../../#l01782">Unit::SetSheath()</a>, <a class="el" href="../../#l00130">SHEATH_STATE_MELEE</a>, <a class="el" href="../../#l00078">SummonList::size()</a>, <a class="el" href="../../#l00476">SpawnHelpers()</a>, <a class="el" href="../../#l00036">SPELL_BITING_COLD_PLAYER_AURA</a>, and <a class="el" href="../../#l00539">BossAI::summons</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00648">BossAI::_Reset()</a>, <a class="el" href="../../#l00224">bAchievCacheRare</a>, <a class="el" href="../../#l00222">bAchievCheese</a>, <a class="el" href="../../#l00225">bAchievCoolestFriends</a>, <a class="el" href="../../#l00223">bAchievGettingCold</a>, <a class="el" href="../../#l00221">berserk</a>, <a class="el" href="../../#l00707">InstanceScript::DoRemoveAurasDueToSpellOnPlayers()</a>, <a class="el" href="../../#l00492">BossAI::instance</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l05359">Unit::RemoveAllAuras()</a>, <a class="el" href="../../#l01782">Unit::SetSheath()</a>, <a class="el" href="../../#l00130">SHEATH_STATE_MELEE</a>, <a class="el" href="../../#l00078">SummonList::size()</a>, <a class="el" href="../../#l00471">SpawnHelpers()</a>, <a class="el" href="../../#l00036">SPELL_BITING_COLD_PLAYER_AURA</a>, and <a class="el" href="../../#l00539">BossAI::summons</a>.</p>
 
 </div>
 </div>
@@ -1468,21 +1468,21 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../de/dc7/a06607.html#a14c40dcfec28989cc630fa571c67ebb7">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  566</span>    {</div>
-<div class="line"><span class="lineno">  567</span>        <span class="keywordflow">if</span> (value)</div>
-<div class="line"><span class="lineno">  568</span>            <span class="keywordflow">switch</span> (<span class="keywordtype">id</span>)</div>
-<div class="line"><span class="lineno">  569</span>            {</div>
-<div class="line"><span class="lineno">  570</span>                <span class="keywordflow">case</span> 1:</div>
-<div class="line"><span class="lineno">  571</span>                    <a class="code hl_variable" href="../../dd/d80/a20551.html#af1faea8be0fe1468f6f313ea143501cf">bAchievCheese</a> = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  572</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  573</span>                <span class="keywordflow">case</span> 2:</div>
-<div class="line"><span class="lineno">  574</span>                    <a class="code hl_variable" href="../../dd/d80/a20551.html#af9d9bedc4f11ce4fe264fe77afd7e717">bAchievGettingCold</a> = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  575</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  576</span>                <span class="keywordflow">case</span> 4:</div>
-<div class="line"><span class="lineno">  577</span>                    <a class="code hl_variable" href="../../dd/d80/a20551.html#a42f8a10a8b148d9f0bfd9eb943a15f03">bAchievCoolestFriends</a> = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  578</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  579</span>            }</div>
-<div class="line"><span class="lineno">  580</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  561</span>    {</div>
+<div class="line"><span class="lineno">  562</span>        <span class="keywordflow">if</span> (value)</div>
+<div class="line"><span class="lineno">  563</span>            <span class="keywordflow">switch</span> (<span class="keywordtype">id</span>)</div>
+<div class="line"><span class="lineno">  564</span>            {</div>
+<div class="line"><span class="lineno">  565</span>                <span class="keywordflow">case</span> 1:</div>
+<div class="line"><span class="lineno">  566</span>                    <a class="code hl_variable" href="../../dd/d80/a20551.html#af1faea8be0fe1468f6f313ea143501cf">bAchievCheese</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  567</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  568</span>                <span class="keywordflow">case</span> 2:</div>
+<div class="line"><span class="lineno">  569</span>                    <a class="code hl_variable" href="../../dd/d80/a20551.html#af9d9bedc4f11ce4fe264fe77afd7e717">bAchievGettingCold</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  570</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  571</span>                <span class="keywordflow">case</span> 4:</div>
+<div class="line"><span class="lineno">  572</span>                    <a class="code hl_variable" href="../../dd/d80/a20551.html#a42f8a10a8b148d9f0bfd9eb943a15f03">bAchievCoolestFriends</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  573</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  574</span>            }</div>
+<div class="line"><span class="lineno">  575</span>    }</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00222">bAchievCheese</a>, <a class="el" href="../../#l00225">bAchievCoolestFriends</a>, and <a class="el" href="../../#l00223">bAchievGettingCold</a>.</p>
 
@@ -1547,47 +1547,47 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  477</span>    {</div>
-<div class="line"><span class="lineno">  478</span>        <span class="keywordtype">char</span> faction = <span class="charliteral">&#39;A&#39;</span>;</div>
-<div class="line"><span class="lineno">  479</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/d17/a01148.html#a922425776a4d505b2d33e64f20503052">hhd</a>[0][0].<span class="keywordtype">id</span>)</div>
-<div class="line"><span class="lineno">  480</span>        {</div>
-<div class="line"><span class="lineno">  481</span>            <a class="code hl_class" href="../../d8/de0/a10359.html">Map::PlayerList</a> <span class="keyword">const</span>&amp; cl = <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/d08/a08883.html#a1013c27be4347a1b1a4a986a07456deb">GetMap</a>()-&gt;<a class="code hl_function" href="../../da/db8/a10315.html#ae37764185b1adf2c6438025e4fa9091a">GetPlayers</a>();</div>
-<div class="line"><span class="lineno">  482</span>            <span class="keywordflow">for</span> (<a class="code hl_class" href="../../de/dba/a05619.html">Map::PlayerList::const_iterator</a> itr = cl.<a class="code hl_function" href="../../d8/de0/a10359.html#a6774b551f0d64628e33594c7b486a872">begin</a>(); itr != cl.<a class="code hl_function" href="../../d8/de0/a10359.html#af488c0096775085791b5fbc89e5851a0">end</a>(); ++itr)</div>
-<div class="line"><span class="lineno">  483</span>                <span class="keywordflow">if</span> (!itr-&gt;GetSource()-&gt;IsGameMaster())</div>
-<div class="line"><span class="lineno">  484</span>                {</div>
-<div class="line"><span class="lineno">  485</span>                    faction = (itr-&gt;GetSource()-&gt;GetTeamId() == <a class="code hl_enumvalue" href="../../d4/d81/a00110.html#abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e">TEAM_ALLIANCE</a> ? <span class="charliteral">&#39;A&#39;</span> : <span class="charliteral">&#39;H&#39;</span>);</div>
-<div class="line"><span class="lineno">  486</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  487</span>                }</div>
-<div class="line"><span class="lineno">  488</span>        }</div>
-<div class="line"><span class="lineno">  489</span> </div>
-<div class="line"><span class="lineno">  490</span>        <a class="code hl_typedef" href="../../d6/d12/a04691.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> cnt = 0;</div>
-<div class="line"><span class="lineno">  491</span>        <span class="keywordflow">if</span> (faction)</div>
-<div class="line"><span class="lineno">  492</span>            <span class="keywordflow">for</span>( <a class="code hl_typedef" href="../../d6/d12/a04691.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> k = 0; k &lt; 4; ++k )</div>
-<div class="line"><span class="lineno">  493</span>            {</div>
-<div class="line"><span class="lineno">  494</span>                <span class="keywordflow">if</span> ((faction == <span class="charliteral">&#39;A&#39;</span> &amp;&amp; ( k &gt; 1 || (k == 1 &amp;&amp; <a class="code hl_function" href="../../d0/d95/a06663.html#a78d71791b2fb5e1510753cd190f02c40">RAID_MODE</a>(1, 0)))) ||</div>
-<div class="line"><span class="lineno">  495</span>                        (faction == <span class="charliteral">&#39;H&#39;</span> &amp;&amp; ( k &lt; 2 || (k == 3 &amp;&amp; <a class="code hl_function" href="../../d0/d95/a06663.html#a78d71791b2fb5e1510753cd190f02c40">RAID_MODE</a>(1, 0)))))</div>
-<div class="line"><span class="lineno">  496</span>                    <span class="keywordflow">continue</span>;</div>
+<div class="fragment"><div class="line"><span class="lineno">  472</span>    {</div>
+<div class="line"><span class="lineno">  473</span>        <span class="keywordtype">char</span> faction = <span class="charliteral">&#39;A&#39;</span>;</div>
+<div class="line"><span class="lineno">  474</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/d17/a01148.html#a922425776a4d505b2d33e64f20503052">hhd</a>[0][0].<span class="keywordtype">id</span>)</div>
+<div class="line"><span class="lineno">  475</span>        {</div>
+<div class="line"><span class="lineno">  476</span>            <a class="code hl_class" href="../../d8/de0/a10359.html">Map::PlayerList</a> <span class="keyword">const</span>&amp; cl = <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/d08/a08883.html#a1013c27be4347a1b1a4a986a07456deb">GetMap</a>()-&gt;<a class="code hl_function" href="../../da/db8/a10315.html#ae37764185b1adf2c6438025e4fa9091a">GetPlayers</a>();</div>
+<div class="line"><span class="lineno">  477</span>            <span class="keywordflow">for</span> (<a class="code hl_class" href="../../de/dba/a05619.html">Map::PlayerList::const_iterator</a> itr = cl.<a class="code hl_function" href="../../d8/de0/a10359.html#a6774b551f0d64628e33594c7b486a872">begin</a>(); itr != cl.<a class="code hl_function" href="../../d8/de0/a10359.html#af488c0096775085791b5fbc89e5851a0">end</a>(); ++itr)</div>
+<div class="line"><span class="lineno">  478</span>                <span class="keywordflow">if</span> (!itr-&gt;GetSource()-&gt;IsGameMaster())</div>
+<div class="line"><span class="lineno">  479</span>                {</div>
+<div class="line"><span class="lineno">  480</span>                    faction = (itr-&gt;GetSource()-&gt;GetTeamId() == <a class="code hl_enumvalue" href="../../d4/d81/a00110.html#abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e">TEAM_ALLIANCE</a> ? <span class="charliteral">&#39;A&#39;</span> : <span class="charliteral">&#39;H&#39;</span>);</div>
+<div class="line"><span class="lineno">  481</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  482</span>                }</div>
+<div class="line"><span class="lineno">  483</span>        }</div>
+<div class="line"><span class="lineno">  484</span> </div>
+<div class="line"><span class="lineno">  485</span>        <a class="code hl_typedef" href="../../d6/d12/a04691.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> cnt = 0;</div>
+<div class="line"><span class="lineno">  486</span>        <span class="keywordflow">if</span> (faction)</div>
+<div class="line"><span class="lineno">  487</span>            <span class="keywordflow">for</span>( <a class="code hl_typedef" href="../../d6/d12/a04691.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> k = 0; k &lt; 4; ++k )</div>
+<div class="line"><span class="lineno">  488</span>            {</div>
+<div class="line"><span class="lineno">  489</span>                <span class="keywordflow">if</span> ((faction == <span class="charliteral">&#39;A&#39;</span> &amp;&amp; ( k &gt; 1 || (k == 1 &amp;&amp; <a class="code hl_function" href="../../d0/d95/a06663.html#a78d71791b2fb5e1510753cd190f02c40">RAID_MODE</a>(1, 0)))) ||</div>
+<div class="line"><span class="lineno">  490</span>                        (faction == <span class="charliteral">&#39;H&#39;</span> &amp;&amp; ( k &lt; 2 || (k == 3 &amp;&amp; <a class="code hl_function" href="../../d0/d95/a06663.html#a78d71791b2fb5e1510753cd190f02c40">RAID_MODE</a>(1, 0)))))</div>
+<div class="line"><span class="lineno">  491</span>                    <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  492</span> </div>
+<div class="line"><span class="lineno">  493</span>                <span class="keywordflow">for</span>( <a class="code hl_typedef" href="../../d6/d12/a04691.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; 4; ++i )</div>
+<div class="line"><span class="lineno">  494</span>                {</div>
+<div class="line"><span class="lineno">  495</span>                    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../db/d17/a01148.html#a922425776a4d505b2d33e64f20503052">hhd</a>[k][i].<span class="keywordtype">id</span>)</div>
+<div class="line"><span class="lineno">  496</span>                        <span class="keywordflow">continue</span>;</div>
 <div class="line"><span class="lineno">  497</span> </div>
-<div class="line"><span class="lineno">  498</span>                <span class="keywordflow">for</span>( <a class="code hl_typedef" href="../../d6/d12/a04691.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; 4; ++i )</div>
-<div class="line"><span class="lineno">  499</span>                {</div>
-<div class="line"><span class="lineno">  500</span>                    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../db/d17/a01148.html#a922425776a4d505b2d33e64f20503052">hhd</a>[k][i].<span class="keywordtype">id</span>)</div>
-<div class="line"><span class="lineno">  501</span>                        <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  502</span> </div>
-<div class="line"><span class="lineno">  503</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d5/d6c/a08471.html">Creature</a>* h_p = <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/d08/a08883.html#ac46286b3e63188d6a328d2fbf7703caf">SummonCreature</a>(<a class="code hl_variable" href="../../db/d17/a01148.html#a922425776a4d505b2d33e64f20503052">hhd</a>[k][i].<a class="code hl_variable" href="../../dd/d3e/a20547.html#accc6fc59e13a0897ae168fae33ee4c7d">id</a>, <a class="code hl_variable" href="../../db/d17/a01148.html#a922425776a4d505b2d33e64f20503052">hhd</a>[k][i].<a class="code hl_variable" href="../../dd/d3e/a20547.html#aeca90e17f8b6f5b40f0f703ef9fe2b73">pos</a>))</div>
-<div class="line"><span class="lineno">  504</span>                    {</div>
-<div class="line"><span class="lineno">  505</span>                        h_p-&gt;SetFaction(1665);</div>
-<div class="line"><span class="lineno">  506</span>                        <span class="keywordflow">if</span> (cnt &lt; 8)</div>
-<div class="line"><span class="lineno">  507</span>                            <a class="code hl_variable" href="../../dd/d80/a20551.html#aa0d0e0eb72500f5c99285fcf90a727c0">Helpers</a>[cnt++] = h_p-&gt;GetGUID();</div>
-<div class="line"><span class="lineno">  508</span> </div>
-<div class="line"><span class="lineno">  509</span>                        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d5/d6c/a08471.html">Creature</a>* c = h_p-&gt;<a class="code hl_function" href="../../d4/d08/a08883.html#ac46286b3e63188d6a328d2fbf7703caf">SummonCreature</a>(<a class="code hl_enumvalue" href="../../db/d17/a01148.html#a30a5c3bf7d466a6e204548a6a169a8f3a294408782ddf31db30c230c20cc90307">NPC_FLASH_FREEZE_NPC</a>, h_p-&gt;GetPositionX(), h_p-&gt;GetPositionY(), h_p-&gt;GetPositionZ(), 0.0f, <a class="code hl_enumvalue" href="../../da/dfb/a03188.html#a38c6d8d01cbe0c49b035f348f7724148ae10d0bfbb29fbbfe0e3c50203548d01a">TEMPSUMMON_CORPSE_TIMED_DESPAWN</a>, 2000))</div>
-<div class="line"><span class="lineno">  510</span>                        {</div>
-<div class="line"><span class="lineno">  511</span>                            c-&gt;CastSpell(h_p, <a class="code hl_enumvalue" href="../../db/d17/a01148.html#a0a6ae4eb8bbfccba730ab3001c4690d7a91a030bf0f2165e02ee413bd3e141cb8">SPELL_FLASH_FREEZE_TRAPPED_NPC</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  512</span>                            <a class="code hl_function" href="../../d6/d3c/a06671.html#a55938a5ee8ad433cca9fad829cc0d915">JustSummoned</a>(c);</div>
-<div class="line"><span class="lineno">  513</span>                        }</div>
-<div class="line"><span class="lineno">  514</span>                    }</div>
-<div class="line"><span class="lineno">  515</span>                }</div>
-<div class="line"><span class="lineno">  516</span>            }</div>
-<div class="line"><span class="lineno">  517</span>    }</div>
+<div class="line"><span class="lineno">  498</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d5/d6c/a08471.html">Creature</a>* h_p = <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/d08/a08883.html#ac46286b3e63188d6a328d2fbf7703caf">SummonCreature</a>(<a class="code hl_variable" href="../../db/d17/a01148.html#a922425776a4d505b2d33e64f20503052">hhd</a>[k][i].<a class="code hl_variable" href="../../dd/d3e/a20547.html#accc6fc59e13a0897ae168fae33ee4c7d">id</a>, <a class="code hl_variable" href="../../db/d17/a01148.html#a922425776a4d505b2d33e64f20503052">hhd</a>[k][i].<a class="code hl_variable" href="../../dd/d3e/a20547.html#aeca90e17f8b6f5b40f0f703ef9fe2b73">pos</a>))</div>
+<div class="line"><span class="lineno">  499</span>                    {</div>
+<div class="line"><span class="lineno">  500</span>                        h_p-&gt;SetFaction(1665);</div>
+<div class="line"><span class="lineno">  501</span>                        <span class="keywordflow">if</span> (cnt &lt; 8)</div>
+<div class="line"><span class="lineno">  502</span>                            <a class="code hl_variable" href="../../dd/d80/a20551.html#aa0d0e0eb72500f5c99285fcf90a727c0">Helpers</a>[cnt++] = h_p-&gt;GetGUID();</div>
+<div class="line"><span class="lineno">  503</span> </div>
+<div class="line"><span class="lineno">  504</span>                        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d5/d6c/a08471.html">Creature</a>* c = h_p-&gt;<a class="code hl_function" href="../../d4/d08/a08883.html#ac46286b3e63188d6a328d2fbf7703caf">SummonCreature</a>(<a class="code hl_enumvalue" href="../../db/d17/a01148.html#a30a5c3bf7d466a6e204548a6a169a8f3a294408782ddf31db30c230c20cc90307">NPC_FLASH_FREEZE_NPC</a>, h_p-&gt;GetPositionX(), h_p-&gt;GetPositionY(), h_p-&gt;GetPositionZ(), 0.0f, <a class="code hl_enumvalue" href="../../da/dfb/a03188.html#a38c6d8d01cbe0c49b035f348f7724148ae10d0bfbb29fbbfe0e3c50203548d01a">TEMPSUMMON_CORPSE_TIMED_DESPAWN</a>, 2000))</div>
+<div class="line"><span class="lineno">  505</span>                        {</div>
+<div class="line"><span class="lineno">  506</span>                            c-&gt;CastSpell(h_p, <a class="code hl_enumvalue" href="../../db/d17/a01148.html#a0a6ae4eb8bbfccba730ab3001c4690d7a91a030bf0f2165e02ee413bd3e141cb8">SPELL_FLASH_FREEZE_TRAPPED_NPC</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  507</span>                            <a class="code hl_function" href="../../d6/d3c/a06671.html#a55938a5ee8ad433cca9fad829cc0d915">JustSummoned</a>(c);</div>
+<div class="line"><span class="lineno">  508</span>                        }</div>
+<div class="line"><span class="lineno">  509</span>                    }</div>
+<div class="line"><span class="lineno">  510</span>                }</div>
+<div class="line"><span class="lineno">  511</span>            }</div>
+<div class="line"><span class="lineno">  512</span>    }</div>
 <div class="ttc" id="aa00110_html_abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e"><div class="ttname"><a href="../../d4/d81/a00110.html#abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e">TEAM_ALLIANCE</a></div><div class="ttdeci">@ TEAM_ALLIANCE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:748</div></div>
 <div class="ttc" id="aa01148_html_a922425776a4d505b2d33e64f20503052"><div class="ttname"><a href="../../db/d17/a01148.html#a922425776a4d505b2d33e64f20503052">hhd</a></div><div class="ttdeci">HodirHelperData hhd[4][4]</div><div class="ttdef"><b>Definition:</b> boss_hodir.cpp:182</div></div>
 <div class="ttc" id="aa03188_html_a38c6d8d01cbe0c49b035f348f7724148ae10d0bfbb29fbbfe0e3c50203548d01a"><div class="ttname"><a href="../../da/dfb/a03188.html#a38c6d8d01cbe0c49b035f348f7724148ae10d0bfbb29fbbfe0e3c50203548d01a">TEMPSUMMON_CORPSE_TIMED_DESPAWN</a></div><div class="ttdeci">@ TEMPSUMMON_CORPSE_TIMED_DESPAWN</div><div class="ttdef"><b>Definition:</b> Object.h:55</div></div>
@@ -1644,13 +1644,13 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d0/d95/a06663.html#a7c4ff5a7547e75576c127ba4a514e548">ScriptedAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  463</span>    {</div>
-<div class="line"><span class="lineno">  464</span>        <span class="keywordflow">if</span> (spellInfo-&gt;Id == <a class="code hl_enumvalue" href="../../d5/d12/a01799.html#a5bd342133be8c2137b831460acc9298ca625ad0393d1c2c5e2c1c0b14e70eaae7">SPELL_TELEPORT</a>)</div>
-<div class="line"><span class="lineno">  465</span>        {</div>
-<div class="line"><span class="lineno">  466</span>            <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d5/d6c/a08471.html#ab5bbc9b5cedb702466f5d0c1fcddb8f9">DespawnOrUnsummon</a>();</div>
-<div class="line"><span class="lineno">  467</span>            <a class="code hl_variable" href="../../d6/d3c/a06671.html#a05890dbd00c482b204af44f69d3efdc0">instance</a>-&gt;<a class="code hl_function" href="../../d7/d12/a10411.html#a949e67ea24c7e4b70a20806952735576">SetData</a>(<a class="code hl_enumvalue" href="../../d9/d5b/a01127.html#a1b744e1c432c2a71a2d189d99b377a78a09eab20d82c1a916d3803d0d9ba5ea1d">EVENT_KEEPER_TELEPORTED</a>, <a class="code hl_enumvalue" href="../../d3/d27/a02453.html#ab6cf09cd975286c705a19a75a947d438a9c954bcf443428c80b0f107b3bc48749">DONE</a>);</div>
-<div class="line"><span class="lineno">  468</span>        }</div>
-<div class="line"><span class="lineno">  469</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  458</span>    {</div>
+<div class="line"><span class="lineno">  459</span>        <span class="keywordflow">if</span> (spellInfo-&gt;Id == <a class="code hl_enumvalue" href="../../d5/d12/a01799.html#a5bd342133be8c2137b831460acc9298ca625ad0393d1c2c5e2c1c0b14e70eaae7">SPELL_TELEPORT</a>)</div>
+<div class="line"><span class="lineno">  460</span>        {</div>
+<div class="line"><span class="lineno">  461</span>            <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d5/d6c/a08471.html#ab5bbc9b5cedb702466f5d0c1fcddb8f9">DespawnOrUnsummon</a>();</div>
+<div class="line"><span class="lineno">  462</span>            <a class="code hl_variable" href="../../d6/d3c/a06671.html#a05890dbd00c482b204af44f69d3efdc0">instance</a>-&gt;<a class="code hl_function" href="../../d7/d12/a10411.html#a949e67ea24c7e4b70a20806952735576">SetData</a>(<a class="code hl_enumvalue" href="../../d9/d5b/a01127.html#a1b744e1c432c2a71a2d189d99b377a78a09eab20d82c1a916d3803d0d9ba5ea1d">EVENT_KEEPER_TELEPORTED</a>, <a class="code hl_enumvalue" href="../../d3/d27/a02453.html#ab6cf09cd975286c705a19a75a947d438a9c954bcf443428c80b0f107b3bc48749">DONE</a>);</div>
+<div class="line"><span class="lineno">  463</span>        }</div>
+<div class="line"><span class="lineno">  464</span>    }</div>
 <div class="ttc" id="aa01127_html_a1b744e1c432c2a71a2d189d99b377a78a09eab20d82c1a916d3803d0d9ba5ea1d"><div class="ttname"><a href="../../d9/d5b/a01127.html#a1b744e1c432c2a71a2d189d99b377a78a09eab20d82c1a916d3803d0d9ba5ea1d">EVENT_KEEPER_TELEPORTED</a></div><div class="ttdeci">@ EVENT_KEEPER_TELEPORTED</div><div class="ttdef"><b>Definition:</b> ulduar.h:429</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l02221">Creature::DespawnOrUnsummon()</a>, <a class="el" href="../../#l00061">DONE</a>, <a class="el" href="../../#l00429">EVENT_KEEPER_TELEPORTED</a>, <a class="el" href="../../#l00344">SpellInfo::Id</a>, <a class="el" href="../../#l00492">BossAI::instance</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l00052">ZoneScript::SetData()</a>, and <a class="el" href="../../#l00036">SPELL_TELEPORT</a>.</p>
@@ -1756,75 +1756,69 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  392</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../dc/d4f/a06619.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">UpdateVictim</a>())</div>
 <div class="line"><span class="lineno">  393</span>        {</div>
 <div class="line"><span class="lineno">  394</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#af5e75d013dfa8a8b888d7714992e3f2a">IsInCombat</a>())</div>
-<div class="line"><span class="lineno">  395</span>            {</div>
-<div class="line"><span class="lineno">  396</span>                <a class="code hl_class" href="../../d8/de0/a10359.html">Map::PlayerList</a> <span class="keyword">const</span>&amp; pl = <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/d08/a08883.html#a1013c27be4347a1b1a4a986a07456deb">GetMap</a>()-&gt;<a class="code hl_function" href="../../da/db8/a10315.html#ae37764185b1adf2c6438025e4fa9091a">GetPlayers</a>();</div>
-<div class="line"><span class="lineno">  397</span>                <span class="keywordflow">for</span> (<a class="code hl_class" href="../../de/dba/a05619.html">Map::PlayerList::const_iterator</a> itr = pl.<a class="code hl_function" href="../../d8/de0/a10359.html#a6774b551f0d64628e33594c7b486a872">begin</a>(); itr != pl.<a class="code hl_function" href="../../d8/de0/a10359.html#af488c0096775085791b5fbc89e5851a0">end</a>(); ++itr)</div>
-<div class="line"><span class="lineno">  398</span>                    itr-&gt;GetSource()-&gt;CastSpell(itr-&gt;GetSource(), <a class="code hl_enumvalue" href="../../db/d17/a01148.html#a0a6ae4eb8bbfccba730ab3001c4690d7a50da4deed380d8ef7306f19565d8b5bb">SPELL_FLASH_FREEZE_INSTAKILL</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  399</span>                <a class="code hl_function" href="../../d6/d3c/a06671.html#adf2e07878232fcb60ace6a79438c63f5">EnterEvadeMode</a>();</div>
-<div class="line"><span class="lineno">  400</span>            }</div>
-<div class="line"><span class="lineno">  401</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  402</span>        }</div>
+<div class="line"><span class="lineno">  395</span>                <a class="code hl_function" href="../../d6/d3c/a06671.html#adf2e07878232fcb60ace6a79438c63f5">EnterEvadeMode</a>();</div>
+<div class="line"><span class="lineno">  396</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  397</span>        }</div>
+<div class="line"><span class="lineno">  398</span> </div>
+<div class="line"><span class="lineno">  399</span>        <a class="code hl_enumeration" href="../../db/d26/a02129.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.Update(diff);</div>
+<div class="line"><span class="lineno">  400</span> </div>
+<div class="line"><span class="lineno">  401</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#ab78147cd520d2dac6be709b4c80a7de3">HasUnitState</a>(<a class="code hl_enumvalue" href="../../d9/d33/a03269.html#ae51d2ecb71f7a5cb3882982a622c9544addeb46481f5261653c159d6f0db9cd54">UNIT_STATE_CASTING</a>))</div>
+<div class="line"><span class="lineno">  402</span>            <span class="keywordflow">return</span>;</div>
 <div class="line"><span class="lineno">  403</span> </div>
-<div class="line"><span class="lineno">  404</span>        <a class="code hl_enumeration" href="../../db/d26/a02129.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.Update(diff);</div>
-<div class="line"><span class="lineno">  405</span> </div>
-<div class="line"><span class="lineno">  406</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#ab78147cd520d2dac6be709b4c80a7de3">HasUnitState</a>(<a class="code hl_enumvalue" href="../../d9/d33/a03269.html#ae51d2ecb71f7a5cb3882982a622c9544addeb46481f5261653c159d6f0db9cd54">UNIT_STATE_CASTING</a>))</div>
-<div class="line"><span class="lineno">  407</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  408</span> </div>
-<div class="line"><span class="lineno">  409</span>        <span class="keywordflow">switch</span> (<a class="code hl_enumeration" href="../../db/d26/a02129.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.ExecuteEvent())</div>
-<div class="line"><span class="lineno">  410</span>        {</div>
-<div class="line"><span class="lineno">  411</span>            <span class="keywordflow">case</span> 0:</div>
-<div class="line"><span class="lineno">  412</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  413</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d17/a01148.html#a3e2150385905a950658cd5d6b1385648a94f1144a24a622ff9e12ebe57137f266">EVENT_BERSERK</a>:</div>
-<div class="line"><span class="lineno">  414</span>                {</div>
-<div class="line"><span class="lineno">  415</span>                    <a class="code hl_variable" href="../../dd/d80/a20551.html#a918879c9b92e410ebe14b9be24a86a11">berserk</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  416</span>                    <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_enumvalue" href="../../db/d17/a01148.html#a0a6ae4eb8bbfccba730ab3001c4690d7ad7b3e50b45f9949cd0e4030ca19a6b4f">SPELL_BERSERK</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  417</span>                    <a class="code hl_enumeration" href="../../da/d2d/a02018.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../db/d17/a01148.html#ae7521b78042d15a40eb39b60a718c957a1b76ee7114f807aa35c3888381f392b9">TEXT_BERSERK</a>);</div>
-<div class="line"><span class="lineno">  418</span>                }</div>
-<div class="line"><span class="lineno">  419</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  420</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d17/a01148.html#a3e2150385905a950658cd5d6b1385648a5c9524198d5928ad66cc19200970ee1b">EVENT_FLASH_FREEZE</a>:</div>
-<div class="line"><span class="lineno">  421</span>                {</div>
-<div class="line"><span class="lineno">  422</span>                    <a class="code hl_function" href="../../de/dc7/a06607.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_function" href="../../d0/d95/a06663.html#a78d71791b2fb5e1510753cd190f02c40">RAID_MODE</a>(<a class="code hl_enumvalue" href="../../db/d17/a01148.html#a0a6ae4eb8bbfccba730ab3001c4690d7ae8c1fc641033e1e661d20f2ed9215e1f">SPELL_ICICLE_FORCE_CAST</a>, <a class="code hl_enumvalue" href="../../db/d17/a01148.html#a0a6ae4eb8bbfccba730ab3001c4690d7a32b35372016bfbba22d03879c11edc55">SPELL_ICICLE_FORCE_CAST_H</a>), <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  423</span>                    <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>((<a class="code hl_class" href="../../d9/d33/a09227.html">Unit</a>*)<span class="keyword">nullptr</span>, <a class="code hl_enumvalue" href="../../db/d17/a01148.html#a0a6ae4eb8bbfccba730ab3001c4690d7a4e4eec039933726dcb2a3318e667a6fe">SPELL_FLASH_FREEZE_CAST</a>, <span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">  424</span>                    <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/d08/a08883.html#a40f0974be3005abb7313b4688e4cdfe3">PlayDirectSound</a>(<a class="code hl_enumvalue" href="../../db/d17/a01148.html#aeca04ef70519cc7d7a4db8009a99a14ca0a103201dc19dd73a37423f71229a3c8">SOUND_HODIR_FLASH_FREEZE</a>, 0);</div>
-<div class="line"><span class="lineno">  425</span>                    <a class="code hl_enumeration" href="../../da/d2d/a02018.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../db/d17/a01148.html#ae7521b78042d15a40eb39b60a718c957a7d1abdab71e4a0f5b9c435786e375e98">TEXT_FLASH_FREEZE</a>);</div>
-<div class="line"><span class="lineno">  426</span>                    <a class="code hl_enumeration" href="../../da/d2d/a02018.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../db/d17/a01148.html#ae7521b78042d15a40eb39b60a718c957afbf4a5df09a2ab86965ec6f8276b94b3">TEXT_EMOTE_FREEZE</a>);</div>
-<div class="line"><span class="lineno">  427</span>                    <a class="code hl_function" href="../../dd/d80/a20551.html#ac7f18efccc5bdf3802ca264b31ddc4f0">SmallIcicles</a>(<span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">  428</span>                    <a class="code hl_enumeration" href="../../db/d26/a02129.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.ScheduleEvent(<a class="code hl_enumvalue" href="../../db/d17/a01148.html#a3e2150385905a950658cd5d6b1385648a5c9524198d5928ad66cc19200970ee1b">EVENT_FLASH_FREEZE</a>, 48s, 49s);</div>
-<div class="line"><span class="lineno">  429</span>                    <a class="code hl_enumeration" href="../../db/d26/a02129.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.ScheduleEvent(<a class="code hl_enumvalue" href="../../db/d17/a01148.html#a3e2150385905a950658cd5d6b1385648a4bfcbc01426a0b2a40ae645419727741">EVENT_SMALL_ICICLES_ENABLE</a>, <a class="code hl_function" href="../../d0/d95/a06663.html#adfa4a30a87f888edaf155e148f5264b3">Is25ManRaid</a>() ? 12s : 24s);</div>
-<div class="line"><span class="lineno">  430</span>                    <a class="code hl_enumeration" href="../../db/d26/a02129.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.ScheduleEvent(<a class="code hl_enumvalue" href="../../db/d17/a01148.html#a3e2150385905a950658cd5d6b1385648a858f03f1f0605366420829ff7ae9e092">EVENT_FROZEN_BLOWS</a>, 15s);</div>
-<div class="line"><span class="lineno">  431</span>                    <a class="code hl_enumeration" href="../../db/d26/a02129.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.RescheduleEvent(<a class="code hl_enumvalue" href="../../db/d17/a01148.html#a3e2150385905a950658cd5d6b1385648a9aa9c001a4541da0eaf140717036011d">EVENT_FREEZE</a>, 17s, 20s);</div>
+<div class="line"><span class="lineno">  404</span>        <span class="keywordflow">switch</span> (<a class="code hl_enumeration" href="../../db/d26/a02129.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.ExecuteEvent())</div>
+<div class="line"><span class="lineno">  405</span>        {</div>
+<div class="line"><span class="lineno">  406</span>            <span class="keywordflow">case</span> 0:</div>
+<div class="line"><span class="lineno">  407</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  408</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d17/a01148.html#a3e2150385905a950658cd5d6b1385648a94f1144a24a622ff9e12ebe57137f266">EVENT_BERSERK</a>:</div>
+<div class="line"><span class="lineno">  409</span>                {</div>
+<div class="line"><span class="lineno">  410</span>                    <a class="code hl_variable" href="../../dd/d80/a20551.html#a918879c9b92e410ebe14b9be24a86a11">berserk</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  411</span>                    <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_enumvalue" href="../../db/d17/a01148.html#a0a6ae4eb8bbfccba730ab3001c4690d7ad7b3e50b45f9949cd0e4030ca19a6b4f">SPELL_BERSERK</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  412</span>                    <a class="code hl_enumeration" href="../../da/d2d/a02018.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../db/d17/a01148.html#ae7521b78042d15a40eb39b60a718c957a1b76ee7114f807aa35c3888381f392b9">TEXT_BERSERK</a>);</div>
+<div class="line"><span class="lineno">  413</span>                }</div>
+<div class="line"><span class="lineno">  414</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  415</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d17/a01148.html#a3e2150385905a950658cd5d6b1385648a5c9524198d5928ad66cc19200970ee1b">EVENT_FLASH_FREEZE</a>:</div>
+<div class="line"><span class="lineno">  416</span>                {</div>
+<div class="line"><span class="lineno">  417</span>                    <a class="code hl_function" href="../../de/dc7/a06607.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_function" href="../../d0/d95/a06663.html#a78d71791b2fb5e1510753cd190f02c40">RAID_MODE</a>(<a class="code hl_enumvalue" href="../../db/d17/a01148.html#a0a6ae4eb8bbfccba730ab3001c4690d7ae8c1fc641033e1e661d20f2ed9215e1f">SPELL_ICICLE_FORCE_CAST</a>, <a class="code hl_enumvalue" href="../../db/d17/a01148.html#a0a6ae4eb8bbfccba730ab3001c4690d7a32b35372016bfbba22d03879c11edc55">SPELL_ICICLE_FORCE_CAST_H</a>), <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  418</span>                    <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>((<a class="code hl_class" href="../../d9/d33/a09227.html">Unit</a>*)<span class="keyword">nullptr</span>, <a class="code hl_enumvalue" href="../../db/d17/a01148.html#a0a6ae4eb8bbfccba730ab3001c4690d7a4e4eec039933726dcb2a3318e667a6fe">SPELL_FLASH_FREEZE_CAST</a>, <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  419</span>                    <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/d08/a08883.html#a40f0974be3005abb7313b4688e4cdfe3">PlayDirectSound</a>(<a class="code hl_enumvalue" href="../../db/d17/a01148.html#aeca04ef70519cc7d7a4db8009a99a14ca0a103201dc19dd73a37423f71229a3c8">SOUND_HODIR_FLASH_FREEZE</a>, 0);</div>
+<div class="line"><span class="lineno">  420</span>                    <a class="code hl_enumeration" href="../../da/d2d/a02018.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../db/d17/a01148.html#ae7521b78042d15a40eb39b60a718c957a7d1abdab71e4a0f5b9c435786e375e98">TEXT_FLASH_FREEZE</a>);</div>
+<div class="line"><span class="lineno">  421</span>                    <a class="code hl_enumeration" href="../../da/d2d/a02018.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../db/d17/a01148.html#ae7521b78042d15a40eb39b60a718c957afbf4a5df09a2ab86965ec6f8276b94b3">TEXT_EMOTE_FREEZE</a>);</div>
+<div class="line"><span class="lineno">  422</span>                    <a class="code hl_function" href="../../dd/d80/a20551.html#ac7f18efccc5bdf3802ca264b31ddc4f0">SmallIcicles</a>(<span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  423</span>                    <a class="code hl_enumeration" href="../../db/d26/a02129.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.ScheduleEvent(<a class="code hl_enumvalue" href="../../db/d17/a01148.html#a3e2150385905a950658cd5d6b1385648a5c9524198d5928ad66cc19200970ee1b">EVENT_FLASH_FREEZE</a>, 48s, 49s);</div>
+<div class="line"><span class="lineno">  424</span>                    <a class="code hl_enumeration" href="../../db/d26/a02129.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.ScheduleEvent(<a class="code hl_enumvalue" href="../../db/d17/a01148.html#a3e2150385905a950658cd5d6b1385648a4bfcbc01426a0b2a40ae645419727741">EVENT_SMALL_ICICLES_ENABLE</a>, <a class="code hl_function" href="../../d0/d95/a06663.html#adfa4a30a87f888edaf155e148f5264b3">Is25ManRaid</a>() ? 12s : 24s);</div>
+<div class="line"><span class="lineno">  425</span>                    <a class="code hl_enumeration" href="../../db/d26/a02129.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.ScheduleEvent(<a class="code hl_enumvalue" href="../../db/d17/a01148.html#a3e2150385905a950658cd5d6b1385648a858f03f1f0605366420829ff7ae9e092">EVENT_FROZEN_BLOWS</a>, 15s);</div>
+<div class="line"><span class="lineno">  426</span>                    <a class="code hl_enumeration" href="../../db/d26/a02129.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.RescheduleEvent(<a class="code hl_enumvalue" href="../../db/d17/a01148.html#a3e2150385905a950658cd5d6b1385648a9aa9c001a4541da0eaf140717036011d">EVENT_FREEZE</a>, 17s, 20s);</div>
+<div class="line"><span class="lineno">  427</span>                }</div>
+<div class="line"><span class="lineno">  428</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  429</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d17/a01148.html#a3e2150385905a950658cd5d6b1385648a4bfcbc01426a0b2a40ae645419727741">EVENT_SMALL_ICICLES_ENABLE</a>:</div>
+<div class="line"><span class="lineno">  430</span>                {</div>
+<div class="line"><span class="lineno">  431</span>                    <a class="code hl_function" href="../../dd/d80/a20551.html#ac7f18efccc5bdf3802ca264b31ddc4f0">SmallIcicles</a>(<span class="keyword">true</span>);</div>
 <div class="line"><span class="lineno">  432</span>                }</div>
 <div class="line"><span class="lineno">  433</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  434</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d17/a01148.html#a3e2150385905a950658cd5d6b1385648a4bfcbc01426a0b2a40ae645419727741">EVENT_SMALL_ICICLES_ENABLE</a>:</div>
+<div class="line"><span class="lineno">  434</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d17/a01148.html#a3e2150385905a950658cd5d6b1385648a858f03f1f0605366420829ff7ae9e092">EVENT_FROZEN_BLOWS</a>:</div>
 <div class="line"><span class="lineno">  435</span>                {</div>
-<div class="line"><span class="lineno">  436</span>                    <a class="code hl_function" href="../../dd/d80/a20551.html#ac7f18efccc5bdf3802ca264b31ddc4f0">SmallIcicles</a>(<span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  437</span>                }</div>
-<div class="line"><span class="lineno">  438</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  439</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d17/a01148.html#a3e2150385905a950658cd5d6b1385648a858f03f1f0605366420829ff7ae9e092">EVENT_FROZEN_BLOWS</a>:</div>
-<div class="line"><span class="lineno">  440</span>                {</div>
-<div class="line"><span class="lineno">  441</span>                    <a class="code hl_enumeration" href="../../da/d2d/a02018.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../db/d17/a01148.html#ae7521b78042d15a40eb39b60a718c957a2d6017b5d8ebef5948fde7134784bf39">TEXT_EMOTE_BLOW</a>);</div>
-<div class="line"><span class="lineno">  442</span>                    <a class="code hl_enumeration" href="../../da/d2d/a02018.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../db/d17/a01148.html#ae7521b78042d15a40eb39b60a718c957a948f053a5ea729abd94a8ba258101323">TEXT_STALACTITE</a>);</div>
-<div class="line"><span class="lineno">  443</span>                    <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_enumvalue" href="../../db/d17/a01148.html#a0a6ae4eb8bbfccba730ab3001c4690d7aa99065ab971fe2c56b7f7fae05115e5b">SPELL_FROZEN_BLOWS</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  444</span>                }</div>
-<div class="line"><span class="lineno">  445</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  446</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d17/a01148.html#a3e2150385905a950658cd5d6b1385648a9aa9c001a4541da0eaf140717036011d">EVENT_FREEZE</a>:</div>
-<div class="line"><span class="lineno">  447</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d4/df4/a09099.html">Player</a>* plr = <a class="code hl_function" href="../../d0/d95/a06663.html#afa14c52852b49c2179c7410dbd897ff4">SelectTargetFromPlayerList</a>(50.0f, <a class="code hl_enumvalue" href="../../db/d17/a01148.html#a0a6ae4eb8bbfccba730ab3001c4690d7a3c8db6a48af8468afe81db75583f4603">SPELL_FLASH_FREEZE_TRAPPED_PLAYER</a>))</div>
-<div class="line"><span class="lineno">  448</span>                {</div>
-<div class="line"><span class="lineno">  449</span>                    <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(plr, <a class="code hl_enumvalue" href="../../db/d17/a01148.html#a0a6ae4eb8bbfccba730ab3001c4690d7a511bf5a0d2736e59816a8fdc5975dd9a">SPELL_FREEZE</a>, <span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">  450</span>                }</div>
-<div class="line"><span class="lineno">  451</span>                <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d9/d33/a09227.html">Unit</a>* target = <a class="code hl_function" href="../../de/dc7/a06607.html#ac5b181f1036962caaf140369b22e807b">SelectTarget</a>(SelectTargetMethod::Random, 0, 50.0f, <span class="keyword">true</span>))</div>
-<div class="line"><span class="lineno">  452</span>                {</div>
-<div class="line"><span class="lineno">  453</span>                    <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(target, <a class="code hl_enumvalue" href="../../db/d17/a01148.html#a0a6ae4eb8bbfccba730ab3001c4690d7a511bf5a0d2736e59816a8fdc5975dd9a">SPELL_FREEZE</a>, <span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">  454</span>                }</div>
-<div class="line"><span class="lineno">  455</span>                <a class="code hl_enumeration" href="../../db/d26/a02129.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.RescheduleEvent(<a class="code hl_enumvalue" href="../../db/d17/a01148.html#a3e2150385905a950658cd5d6b1385648a9aa9c001a4541da0eaf140717036011d">EVENT_FREEZE</a>, 17s, 20s);</div>
-<div class="line"><span class="lineno">  456</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  457</span>        }</div>
-<div class="line"><span class="lineno">  458</span> </div>
-<div class="line"><span class="lineno">  459</span>        <a class="code hl_function" href="../../de/dc7/a06607.html#a348a472089a9be6210b58aace8fafa9f">DoMeleeAttackIfReady</a>();</div>
-<div class="line"><span class="lineno">  460</span>    }</div>
+<div class="line"><span class="lineno">  436</span>                    <a class="code hl_enumeration" href="../../da/d2d/a02018.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../db/d17/a01148.html#ae7521b78042d15a40eb39b60a718c957a2d6017b5d8ebef5948fde7134784bf39">TEXT_EMOTE_BLOW</a>);</div>
+<div class="line"><span class="lineno">  437</span>                    <a class="code hl_enumeration" href="../../da/d2d/a02018.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../db/d17/a01148.html#ae7521b78042d15a40eb39b60a718c957a948f053a5ea729abd94a8ba258101323">TEXT_STALACTITE</a>);</div>
+<div class="line"><span class="lineno">  438</span>                    <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_enumvalue" href="../../db/d17/a01148.html#a0a6ae4eb8bbfccba730ab3001c4690d7aa99065ab971fe2c56b7f7fae05115e5b">SPELL_FROZEN_BLOWS</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  439</span>                }</div>
+<div class="line"><span class="lineno">  440</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  441</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d17/a01148.html#a3e2150385905a950658cd5d6b1385648a9aa9c001a4541da0eaf140717036011d">EVENT_FREEZE</a>:</div>
+<div class="line"><span class="lineno">  442</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d4/df4/a09099.html">Player</a>* plr = <a class="code hl_function" href="../../d0/d95/a06663.html#afa14c52852b49c2179c7410dbd897ff4">SelectTargetFromPlayerList</a>(50.0f, <a class="code hl_enumvalue" href="../../db/d17/a01148.html#a0a6ae4eb8bbfccba730ab3001c4690d7a3c8db6a48af8468afe81db75583f4603">SPELL_FLASH_FREEZE_TRAPPED_PLAYER</a>))</div>
+<div class="line"><span class="lineno">  443</span>                {</div>
+<div class="line"><span class="lineno">  444</span>                    <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(plr, <a class="code hl_enumvalue" href="../../db/d17/a01148.html#a0a6ae4eb8bbfccba730ab3001c4690d7a511bf5a0d2736e59816a8fdc5975dd9a">SPELL_FREEZE</a>, <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  445</span>                }</div>
+<div class="line"><span class="lineno">  446</span>                <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d9/d33/a09227.html">Unit</a>* target = <a class="code hl_function" href="../../de/dc7/a06607.html#ac5b181f1036962caaf140369b22e807b">SelectTarget</a>(SelectTargetMethod::Random, 0, 50.0f, <span class="keyword">true</span>))</div>
+<div class="line"><span class="lineno">  447</span>                {</div>
+<div class="line"><span class="lineno">  448</span>                    <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(target, <a class="code hl_enumvalue" href="../../db/d17/a01148.html#a0a6ae4eb8bbfccba730ab3001c4690d7a511bf5a0d2736e59816a8fdc5975dd9a">SPELL_FREEZE</a>, <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  449</span>                }</div>
+<div class="line"><span class="lineno">  450</span>                <a class="code hl_enumeration" href="../../db/d26/a02129.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.RescheduleEvent(<a class="code hl_enumvalue" href="../../db/d17/a01148.html#a3e2150385905a950658cd5d6b1385648a9aa9c001a4541da0eaf140717036011d">EVENT_FREEZE</a>, 17s, 20s);</div>
+<div class="line"><span class="lineno">  451</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  452</span>        }</div>
+<div class="line"><span class="lineno">  453</span> </div>
+<div class="line"><span class="lineno">  454</span>        <a class="code hl_function" href="../../de/dc7/a06607.html#a348a472089a9be6210b58aace8fafa9f">DoMeleeAttackIfReady</a>();</div>
+<div class="line"><span class="lineno">  455</span>    }</div>
 <div class="ttc" id="aa01148_html_a0a6ae4eb8bbfccba730ab3001c4690d7a32b35372016bfbba22d03879c11edc55"><div class="ttname"><a href="../../db/d17/a01148.html#a0a6ae4eb8bbfccba730ab3001c4690d7a32b35372016bfbba22d03879c11edc55">SPELL_ICICLE_FORCE_CAST_H</a></div><div class="ttdeci">@ SPELL_ICICLE_FORCE_CAST_H</div><div class="ttdef"><b>Definition:</b> boss_hodir.cpp:57</div></div>
 <div class="ttc" id="aa01148_html_a0a6ae4eb8bbfccba730ab3001c4690d7a4e4eec039933726dcb2a3318e667a6fe"><div class="ttname"><a href="../../db/d17/a01148.html#a0a6ae4eb8bbfccba730ab3001c4690d7a4e4eec039933726dcb2a3318e667a6fe">SPELL_FLASH_FREEZE_CAST</a></div><div class="ttdeci">@ SPELL_FLASH_FREEZE_CAST</div><div class="ttdef"><b>Definition:</b> boss_hodir.cpp:41</div></div>
-<div class="ttc" id="aa01148_html_a0a6ae4eb8bbfccba730ab3001c4690d7a50da4deed380d8ef7306f19565d8b5bb"><div class="ttname"><a href="../../db/d17/a01148.html#a0a6ae4eb8bbfccba730ab3001c4690d7a50da4deed380d8ef7306f19565d8b5bb">SPELL_FLASH_FREEZE_INSTAKILL</a></div><div class="ttdeci">@ SPELL_FLASH_FREEZE_INSTAKILL</div><div class="ttdef"><b>Definition:</b> boss_hodir.cpp:42</div></div>
 <div class="ttc" id="aa01148_html_a0a6ae4eb8bbfccba730ab3001c4690d7a511bf5a0d2736e59816a8fdc5975dd9a"><div class="ttname"><a href="../../db/d17/a01148.html#a0a6ae4eb8bbfccba730ab3001c4690d7a511bf5a0d2736e59816a8fdc5975dd9a">SPELL_FREEZE</a></div><div class="ttdeci">@ SPELL_FREEZE</div><div class="ttdef"><b>Definition:</b> boss_hodir.cpp:39</div></div>
 <div class="ttc" id="aa01148_html_a0a6ae4eb8bbfccba730ab3001c4690d7aa99065ab971fe2c56b7f7fae05115e5b"><div class="ttname"><a href="../../db/d17/a01148.html#a0a6ae4eb8bbfccba730ab3001c4690d7aa99065ab971fe2c56b7f7fae05115e5b">SPELL_FROZEN_BLOWS</a></div><div class="ttdeci">@ SPELL_FROZEN_BLOWS</div><div class="ttdef"><b>Definition:</b> boss_hodir.cpp:65</div></div>
 <div class="ttc" id="aa01148_html_a0a6ae4eb8bbfccba730ab3001c4690d7ad7b3e50b45f9949cd0e4030ca19a6b4f"><div class="ttname"><a href="../../db/d17/a01148.html#a0a6ae4eb8bbfccba730ab3001c4690d7ad7b3e50b45f9949cd0e4030ca19a6b4f">SPELL_BERSERK</a></div><div class="ttdeci">@ SPELL_BERSERK</div><div class="ttdef"><b>Definition:</b> boss_hodir.cpp:33</div></div>
@@ -1854,7 +1848,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa20551_html_a915932a765429de58135aca9568de88a"><div class="ttname"><a href="../../dd/d80/a20551.html#a915932a765429de58135aca9568de88a">boss_hodir::EXIT_DOOR</a></div><div class="ttdeci">const Position EXIT_DOOR</div><div class="ttdef"><b>Definition:</b> boss_hodir.cpp:230</div></div>
 <div class="ttc" id="aa20551_html_aca3d3a6e9270504e480fea9e0b0e6eca"><div class="ttname"><a href="../../dd/d80/a20551.html#aca3d3a6e9270504e480fea9e0b0e6eca">boss_hodir::ENTRANCE_DOOR</a></div><div class="ttdeci">const Position ENTRANCE_DOOR</div><div class="ttdef"><b>Definition:</b> boss_hodir.cpp:229</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00036">MapRefMgr::begin()</a>, <a class="el" href="../../#l00221">berserk</a>, <a class="el" href="../../#l01372">Unit::CastSpell()</a>, <a class="el" href="../../#l00399">UnitAI::DoCastSelf()</a>, <a class="el" href="../../#l00041">UnitAI::DoMeleeAttackIfReady()</a>, <a class="el" href="../../#l00037">MapRefMgr::end()</a>, <a class="el" href="../../#l00235">CreatureAI::EnterEvadeMode()</a>, <a class="el" href="../../#l00526">BossAI::EnterEvadeMode()</a>, <a class="el" href="../../#l00229">ENTRANCE_DOOR</a>, <a class="el" href="../../#l00125">EVENT_BERSERK</a>, <a class="el" href="../../#l00123">EVENT_FLASH_FREEZE</a>, <a class="el" href="../../#l00126">EVENT_FREEZE</a>, <a class="el" href="../../#l00124">EVENT_FROZEN_BLOWS</a>, <a class="el" href="../../#l00127">EVENT_SMALL_ICICLES_ENABLE</a>, <a class="el" href="../../#l00230">EXIT_DOOR</a>, <a class="el" href="../../#l00637">WorldObject::GetMap()</a>, <a class="el" href="../../#l00335">Map::GetPlayers()</a>, <a class="el" href="../../#l00122">Position::GetPositionY()</a>, <a class="el" href="../../#l00739">Unit::HasUnitState()</a>, <a class="el" href="../../#l00389">ScriptedAI::Is25ManRaid()</a>, <a class="el" href="../../#l00943">Unit::IsInCombat()</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l03016">WorldObject::PlayDirectSound()</a>, <a class="el" href="../../#l00408">ScriptedAI::RAID_MODE()</a>, <a class="el" href="../../#l00074">CreatureAI::scheduler</a>, <a class="el" href="../../#l00112">UnitAI::SelectTarget()</a>, <a class="el" href="../../#l00591">ScriptedAI::SelectTargetFromPlayerList()</a>, <a class="el" href="../../#l00314">SmallIcicles()</a>, <a class="el" href="../../#l00166">SOUND_HODIR_FLASH_FREEZE</a>, <a class="el" href="../../#l00033">SPELL_BERSERK</a>, <a class="el" href="../../#l00041">SPELL_FLASH_FREEZE_CAST</a>, <a class="el" href="../../#l00042">SPELL_FLASH_FREEZE_INSTAKILL</a>, <a class="el" href="../../#l00043">SPELL_FLASH_FREEZE_TRAPPED_PLAYER</a>, <a class="el" href="../../#l00039">SPELL_FREEZE</a>, <a class="el" href="../../#l00065">SPELL_FROZEN_BLOWS</a>, <a class="el" href="../../#l00056">SPELL_ICICLE_FORCE_CAST</a>, <a class="el" href="../../#l00057">SPELL_ICICLE_FORCE_CAST_H</a>, <a class="el" href="../../#l00155">TEXT_BERSERK</a>, <a class="el" href="../../#l00158">TEXT_EMOTE_BLOW</a>, <a class="el" href="../../#l00157">TEXT_EMOTE_FREEZE</a>, <a class="el" href="../../#l00152">TEXT_FLASH_FREEZE</a>, <a class="el" href="../../#l00153">TEXT_STALACTITE</a>, <a class="el" href="../../#l00188">UNIT_STATE_CASTING</a>, <a class="el" href="../../#l00027">TaskScheduler::Update()</a>, and <a class="el" href="../../#l00350">CreatureAI::UpdateVictim()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00221">berserk</a>, <a class="el" href="../../#l01372">Unit::CastSpell()</a>, <a class="el" href="../../#l00399">UnitAI::DoCastSelf()</a>, <a class="el" href="../../#l00041">UnitAI::DoMeleeAttackIfReady()</a>, <a class="el" href="../../#l00235">CreatureAI::EnterEvadeMode()</a>, <a class="el" href="../../#l00526">BossAI::EnterEvadeMode()</a>, <a class="el" href="../../#l00229">ENTRANCE_DOOR</a>, <a class="el" href="../../#l00125">EVENT_BERSERK</a>, <a class="el" href="../../#l00123">EVENT_FLASH_FREEZE</a>, <a class="el" href="../../#l00126">EVENT_FREEZE</a>, <a class="el" href="../../#l00124">EVENT_FROZEN_BLOWS</a>, <a class="el" href="../../#l00127">EVENT_SMALL_ICICLES_ENABLE</a>, <a class="el" href="../../#l00230">EXIT_DOOR</a>, <a class="el" href="../../#l00122">Position::GetPositionY()</a>, <a class="el" href="../../#l00739">Unit::HasUnitState()</a>, <a class="el" href="../../#l00389">ScriptedAI::Is25ManRaid()</a>, <a class="el" href="../../#l00943">Unit::IsInCombat()</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l03016">WorldObject::PlayDirectSound()</a>, <a class="el" href="../../#l00408">ScriptedAI::RAID_MODE()</a>, <a class="el" href="../../#l00074">CreatureAI::scheduler</a>, <a class="el" href="../../#l00112">UnitAI::SelectTarget()</a>, <a class="el" href="../../#l00591">ScriptedAI::SelectTargetFromPlayerList()</a>, <a class="el" href="../../#l00314">SmallIcicles()</a>, <a class="el" href="../../#l00166">SOUND_HODIR_FLASH_FREEZE</a>, <a class="el" href="../../#l00033">SPELL_BERSERK</a>, <a class="el" href="../../#l00041">SPELL_FLASH_FREEZE_CAST</a>, <a class="el" href="../../#l00043">SPELL_FLASH_FREEZE_TRAPPED_PLAYER</a>, <a class="el" href="../../#l00039">SPELL_FREEZE</a>, <a class="el" href="../../#l00065">SPELL_FROZEN_BLOWS</a>, <a class="el" href="../../#l00056">SPELL_ICICLE_FORCE_CAST</a>, <a class="el" href="../../#l00057">SPELL_ICICLE_FORCE_CAST_H</a>, <a class="el" href="../../#l00155">TEXT_BERSERK</a>, <a class="el" href="../../#l00158">TEXT_EMOTE_BLOW</a>, <a class="el" href="../../#l00157">TEXT_EMOTE_FREEZE</a>, <a class="el" href="../../#l00152">TEXT_FLASH_FREEZE</a>, <a class="el" href="../../#l00153">TEXT_STALACTITE</a>, <a class="el" href="../../#l00188">UNIT_STATE_CASTING</a>, <a class="el" href="../../#l00027">TaskScheduler::Update()</a>, and <a class="el" href="../../#l00350">CreatureAI::UpdateVictim()</a>.</p>
 
 </div>
 </div>
@@ -1885,7 +1879,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00295">DoAction()</a>, <a class="el" href="../../#l00582">GetData()</a>, and <a class="el" href="../../#l00240">Reset()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00295">DoAction()</a>, <a class="el" href="../../#l00577">GetData()</a>, and <a class="el" href="../../#l00240">Reset()</a>.</p>
 
 </div>
 </div>
@@ -1901,7 +1895,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00582">GetData()</a>, <a class="el" href="../../#l00240">Reset()</a>, and <a class="el" href="../../#l00565">SetData()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00577">GetData()</a>, <a class="el" href="../../#l00240">Reset()</a>, and <a class="el" href="../../#l00560">SetData()</a>.</p>
 
 </div>
 </div>
@@ -1917,7 +1911,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00582">GetData()</a>, <a class="el" href="../../#l00240">Reset()</a>, and <a class="el" href="../../#l00565">SetData()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00577">GetData()</a>, <a class="el" href="../../#l00240">Reset()</a>, and <a class="el" href="../../#l00560">SetData()</a>.</p>
 
 </div>
 </div>
@@ -1933,7 +1927,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00582">GetData()</a>, <a class="el" href="../../#l00240">Reset()</a>, and <a class="el" href="../../#l00565">SetData()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00577">GetData()</a>, <a class="el" href="../../#l00240">Reset()</a>, and <a class="el" href="../../#l00560">SetData()</a>.</p>
 
 </div>
 </div>
@@ -1997,7 +1991,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00340">DamageTaken()</a>, <a class="el" href="../../#l00471">GetHelper()</a>, and <a class="el" href="../../#l00476">SpawnHelpers()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00340">DamageTaken()</a>, <a class="el" href="../../#l00466">GetHelper()</a>, and <a class="el" href="../../#l00471">SpawnHelpers()</a>.</p>
 
 </div>
 </div>
@@ -2007,7 +2001,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dd/d80/a20551.html">boss_hodir</a></li>
-    <li class="footer">Generated on Tue Sep 29 2026 01:12:58 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Tue Oct 6 2026 01:26:18 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

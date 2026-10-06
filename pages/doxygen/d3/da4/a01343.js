@@ -1,7 +1,7 @@
 var a01343 =
 [
-    [ "npc_announcer_toc5", "d5/daf/a16915.html", "d5/daf/a16915" ],
-    [ "npc_announcer_toc5::npc_announcer_toc5AI", "d9/ddd/a16919.html", "d9/ddd/a16919" ],
+    [ "npc_announcer_toc5", "d3/daa/a16911.html", "d3/daa/a16911" ],
+    [ "npc_announcer_toc5::npc_announcer_toc5AI", "d5/daf/a16915.html", "d5/daf/a16915" ],
     [ "Texts", "d3/da4/a01343.html#aa80bce1d0ea05213c0d6c327126caf31", [
       [ "SAY_AGGRO", "df/dee/a01646.html#aa80bce1d0ea05213c0d6c327126caf31a47c752fff069f3e55065795eef2a9bfe", null ],
       [ "SAY_DEATH", "df/dee/a01646.html#aa80bce1d0ea05213c0d6c327126caf31a04c962d9b6aaafde54ff92a54369135e", null ],

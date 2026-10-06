@@ -1,6 +1,6 @@
 var a29791 =
 [
-    [ "auraName", "d3/d6d/a29791.html#a953f930e046655ca0d8f373362d3f334", null ],
-    [ "isAlwaysTriggeredAura", "d3/d6d/a29791.html#a05786c8e0daef9a2da98f832c230d99c", null ],
-    [ "procFlags", "d3/d6d/a29791.html#aed48a1ad923118ac0a86d864e1e98519", null ]
+    [ "conditionsMet", "d3/d6d/a29791.html#ade58814e6b27763d1bb6c1f730ef53e0", null ],
+    [ "hasConditions", "d3/d6d/a29791.html#a160ac902a994fdaaa36b66dbaa4c8282", null ],
+    [ "sourceType", "d3/d6d/a29791.html#abbfa5f40abb5713e15311f8259d70dc6", null ]
 ];

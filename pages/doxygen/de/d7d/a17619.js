@@ -1,6 +1,6 @@
 var a17619 =
 [
-    [ "npc_pos_freed_slaveAI", "de/d7d/a17619.html#ad5728e427f9f4a65cea13ec2c5a01453", null ],
-    [ "CanAIAttack", "de/d7d/a17619.html#a76818ee5fcfcc5678fa9d0957a424d9b", null ],
-    [ "EnterEvadeMode", "de/d7d/a17619.html#a234135e6bea0d91611fbdbae4dec2ea1", null ]
+    [ "npc_pos_leader_secondAI", "dc/d1b/a17623.html", "dc/d1b/a17623" ],
+    [ "npc_pos_leader_second", "de/d7d/a17619.html#ac4758674cc97eae0937264fa028e6da5", null ],
+    [ "GetAI", "de/d7d/a17619.html#ac403cfc86247990d78c9cf4179df8b87", null ]
 ];

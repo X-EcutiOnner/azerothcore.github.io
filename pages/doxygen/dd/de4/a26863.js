@@ -1,6 +1,8 @@
 var a26863 =
 [
-    [ "FilterTargets", "dd/de4/a26863.html#a9ee58cd4e7a0fa59bfb6ef1270d51f21", null ],
-    [ "PrepareSpellScript", "dd/de4/a26863.html#a5992d94317d3da7400d5a9ab115e621e", null ],
-    [ "Register", "dd/de4/a26863.html#a125ce6c8dfdc6419b4409c72f74fcf85", null ]
+    [ "Load", "dd/de4/a26863.html#a7662d85a5469c20edf6d2eefca820db3", null ],
+    [ "PrepareAuraScript", "dd/de4/a26863.html#a252bd975a7639eab4e151249db974b7c", null ],
+    [ "Register", "dd/de4/a26863.html#a51723a22f1062f44e8eb6848e1398595", null ],
+    [ "Split", "dd/de4/a26863.html#a08e982eae6030fdc679663bfd38bca47", null ],
+    [ "remainingAmount", "dd/de4/a26863.html#afaab88988769ddc720deb44f06de3d7d", null ]
 ];

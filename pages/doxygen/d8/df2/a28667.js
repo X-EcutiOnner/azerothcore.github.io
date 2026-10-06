@@ -1,11 +1,8 @@
 var a28667 =
 [
-    [ "npc_air_force_botsAI", "d8/df2/a28667.html#a062eb272826d52ffd9b72054f970b761", null ],
-    [ "GetSummonedGuard", "d8/df2/a28667.html#ac4f39049ba15caf314939f12b82ccd05", null ],
-    [ "MoveInLineOfSight", "d8/df2/a28667.html#a474231c0ce93b4db0789bcc8f6767c19", null ],
-    [ "Reset", "d8/df2/a28667.html#a016911d354f3b00e2db3e4f3722cda7f", null ],
-    [ "SummonGuard", "d8/df2/a28667.html#a8da57471dfa875f55f52c3d2b068a0f3", null ],
-    [ "SpawnAssoc", "d8/df2/a28667.html#a6f2f7ffd24dd32780c441fd6ce29dfbf", null ],
-    [ "SpawnedFactionTemplate", "d8/df2/a28667.html#a1cf2c5c3c7f3f0669f14f4543dbfd5dc", null ],
-    [ "SpawnedGUID", "d8/df2/a28667.html#a3c8ae595a3b4a436c2f94aa84cb9ee56", null ]
+    [ "npc_chicken_cluckAI", "de/de8/a28671.html", "de/de8/a28671" ],
+    [ "npc_chicken_cluck", "d8/df2/a28667.html#a7bc08c81fca730886c47e0f3a3d8062c", null ],
+    [ "GetAI", "d8/df2/a28667.html#abf986f555672823477c3c17e0f59bdbe", null ],
+    [ "OnQuestAccept", "d8/df2/a28667.html#acca62c027b5b0cdff107e04cf2c276ea", null ],
+    [ "OnQuestComplete", "d8/df2/a28667.html#a8f22520166a557e066502eb16bdae774", null ]
 ];

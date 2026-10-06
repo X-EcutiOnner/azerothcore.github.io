@@ -1,26 +1,9 @@
 var a30427 =
 [
-    [ "TerrainBuilder", "dd/d47/a30427.html#ac851ab47fd43ed617fd3fdcb84287acd", null ],
-    [ "~TerrainBuilder", "dd/d47/a30427.html#a731cd606fd85b176b116512a2ccf86ee", null ],
-    [ "TerrainBuilder", "dd/d47/a30427.html#a08434e9974012ab90d0d6ff6a2bad36a", null ],
-    [ "cleanVertices", "dd/d47/a30427.html#a7a3f53367758b6effcc7899894c148de", null ],
-    [ "copyIndices", "dd/d47/a30427.html#a5f4139193ad3708e234414131aa3be55", null ],
-    [ "copyIndices", "dd/d47/a30427.html#a8d5bfc11e790aae74d7b81fb7db27061", null ],
-    [ "copyVertices", "dd/d47/a30427.html#a26207130b8e5807986b36ea148e84457", null ],
-    [ "getHeightCoord", "dd/d47/a30427.html#aecdd8a0ae2dab523925111197afe8835", null ],
-    [ "getHeightTriangle", "dd/d47/a30427.html#ab15913dd11a60078205a9fc76ce99203", null ],
-    [ "getLiquidCoord", "dd/d47/a30427.html#ae29c5c0538049382e6b75d0393a7714f", null ],
-    [ "getLiquidType", "dd/d47/a30427.html#a2d7e5ef7722ce2f78fda293af4e2d08d", null ],
-    [ "getLoopVars", "dd/d47/a30427.html#af47da985fc495b4a5fd8b32774e36b82", null ],
-    [ "isHole", "dd/d47/a30427.html#a219be095026945890d4f76163903ea2c", null ],
-    [ "loadHeightMap", "dd/d47/a30427.html#a5ddd947c48dae0acf29c952eca5ebe56", null ],
-    [ "loadMap", "dd/d47/a30427.html#ab6f3b100ee1a40173c2e77c6ee5a0da9", null ],
-    [ "loadMap", "dd/d47/a30427.html#a4071ed1464f7beb4d8567def275139e4", null ],
-    [ "loadOffMeshConnections", "dd/d47/a30427.html#ade055bfcdcedb36fca7fc35516c5586f", null ],
-    [ "loadVMap", "dd/d47/a30427.html#ae816d445265bde3c3866069bcd9e5184", null ],
-    [ "transform", "dd/d47/a30427.html#a6c25e949e12eba48d7e250ba99ce6e85", null ],
-    [ "usesLiquids", "dd/d47/a30427.html#ab869d655ea5cb7f9d32dff63ed4df779", null ],
-    [ "m_mapsPath", "dd/d47/a30427.html#a3870ff6d7c9614cadca3d9d89f3fd810", null ],
-    [ "m_skipLiquid", "dd/d47/a30427.html#aa4feec2075cdb31e940f2cf3dc0d136a", null ],
-    [ "m_vmapsPath", "dd/d47/a30427.html#ab4c289c4c91d84378e531ebbef85988f", null ]
+    [ "Flags", "dd/d47/a30427.html#a4471edebd870d3dfaaf34292341e5f60", null ],
+    [ "Id", "dd/d47/a30427.html#a6a25126338a8c3aa7d36c02c979639dd", null ],
+    [ "Position", "dd/d47/a30427.html#a8fa9a49b3195ffe74dcf1872d0fb05c1", null ],
+    [ "Rotation", "dd/d47/a30427.html#a986c3ea05d510db03ec969f0d116fb34", null ],
+    [ "Scale", "dd/d47/a30427.html#af8bcb02c541b9261dbf879353ba6893a", null ],
+    [ "UniqueId", "dd/d47/a30427.html#a374c9893af515badc54b22b2a4d5e024", null ]
 ];

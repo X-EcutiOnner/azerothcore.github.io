@@ -1,6 +1,27 @@
 var a29899 =
 [
-    [ "SetUp", "dd/d90/a29899.html#a30e0c9430db1751806a4af2042f6543c", null ],
-    [ "TearDown", "dd/d90/a29899.html#aeac080e02cbd13c708e22cf93bf2d1d9", null ],
-    [ "rbacData", "dd/d90/a29899.html#a64b87a54a5210ff2bb1c9a72c1be3736", null ]
+    [ "SetUp", "dd/d90/a29899.html#a0eefe9b7b4497a75efebd4ca91d4f6ed", null ],
+    [ "TearDown", "dd/d90/a29899.html#a237dbb583b1564484e9739ca59fece4b", null ],
+    [ "PERM_A", "dd/d90/a29899.html#a1fc9533576c68ee441de16fd7e038f59", null ],
+    [ "PERM_B", "dd/d90/a29899.html#a70e510c619690350744799d7f8e97cf7", null ],
+    [ "PERM_C", "dd/d90/a29899.html#a9abb4ece545ecb67249e317723702cb4", null ],
+    [ "PERM_D", "dd/d90/a29899.html#a7c2a7a5a9c9e2f3dbb3fa9494db077ee", null ],
+    [ "PERM_E", "dd/d90/a29899.html#a17cfdd0a89114a75411de4614bc9db98", null ],
+    [ "PERM_F", "dd/d90/a29899.html#a602f5f79207205eda248271837081bd4", null ],
+    [ "PERM_G", "dd/d90/a29899.html#a48a7d54c6e548dbeccede65b1ba2612e", null ],
+    [ "PERM_H", "dd/d90/a29899.html#a5edb227a8269aee83223475a55ac8cd8", null ],
+    [ "PERM_I", "dd/d90/a29899.html#a24da9a3e6f10a45b79cb209b493b6628", null ],
+    [ "PERM_J", "dd/d90/a29899.html#a9d1703fda8ddb98c33c46048ec4b8fdf", null ],
+    [ "PERM_K", "dd/d90/a29899.html#a495ee2480a4850cce08d494c24d7bb1c", null ],
+    [ "PERM_L", "dd/d90/a29899.html#ae469e8421e7d70a77bf651e8133dcdac", null ],
+    [ "PERM_SHARED", "dd/d90/a29899.html#a253a44cc831cf63ad57323548a898196", null ],
+    [ "PERM_X_ONLY", "dd/d90/a29899.html#a780d92eed0b3b6672cf395c190e951c0", null ],
+    [ "PERM_Y_ONLY", "dd/d90/a29899.html#a4c2f70a1774c7a5a23f9bc834c58a2a1", null ],
+    [ "rbacData", "dd/d90/a29899.html#a285dcbd1e3ac6b99fabb82eeb069c58d", null ],
+    [ "ROLE_ADMIN", "dd/d90/a29899.html#a53219b4436fac5bccc69cec6d3cc87e4", null ],
+    [ "ROLE_GM", "dd/d90/a29899.html#a206a3a695b956928aec6a99be602a052", null ],
+    [ "ROLE_MOD", "dd/d90/a29899.html#a07cbaddec2d3691c8096fa2d2726256c", null ],
+    [ "ROLE_WIDE", "dd/d90/a29899.html#ae0fe907ef77603231bdfd4d97e803db9", null ],
+    [ "ROLE_X", "dd/d90/a29899.html#a7e62357282332e1319976f28f244735f", null ],
+    [ "ROLE_Y", "dd/d90/a29899.html#adab2b79b452662af8804e70db8f61bbe", null ]
 ];

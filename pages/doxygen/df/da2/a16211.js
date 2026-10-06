@@ -1,13 +1,6 @@
 var a16211 =
 [
-    [ "npc_aquementasAI", "df/da2/a16211.html#aad63986cdb8a65c528af3ccd114d2041", null ],
-    [ "JustEngagedWith", "df/da2/a16211.html#a2c12ee9c0bb94a1fcfa23c4279aea72f", null ],
-    [ "Reset", "df/da2/a16211.html#af71a196ba667c2a8f05940ec7ec43b5e", null ],
-    [ "SendItem", "df/da2/a16211.html#a60bafbd70783411236dcf3d0bfe244de", null ],
-    [ "UpdateAI", "df/da2/a16211.html#adc5936d7648e05c98a2cdc9998aa4c6a", null ],
-    [ "AquaJetTimer", "df/da2/a16211.html#a8506acc69436af869d1404bd95109e68", null ],
-    [ "FrostShockTimer", "df/da2/a16211.html#ad52c62a0fd8de98b194596dbc998c03d", null ],
-    [ "isFriendly", "df/da2/a16211.html#a9ac02cfc998bda26a5c531a9f7dbf7c4", null ],
-    [ "SendItemTimer", "df/da2/a16211.html#a3a0883b43056b176ef2ae55673adacf3", null ],
-    [ "SwitchFactionTimer", "df/da2/a16211.html#a46f64b9883ae30c3f8d677a3b85a8c6f", null ]
+    [ "npc_custodian_of_timeAI", "dd/d5c/a16215.html", "dd/d5c/a16215" ],
+    [ "npc_custodian_of_time", "df/da2/a16211.html#a6018b30119ce819853a3c662b3d5347e", null ],
+    [ "GetAI", "df/da2/a16211.html#a57217b2dab1cab110f1c59526ca13c86", null ]
 ];

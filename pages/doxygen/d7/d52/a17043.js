@@ -1,8 +1,6 @@
 var a17043 =
 [
-    [ "npc_toc_hunterAI", "d7/d52/a17043.html#a80f80231bfe5b71bf415da3202c2e6fb", null ],
-    [ "JustSummoned", "d7/d52/a17043.html#aa270248ad9e0c319234ff0741270b465", null ],
-    [ "myCanCast", "d7/d52/a17043.html#a4e599ae2ee4e892795889bd57dd29e27", null ],
-    [ "UpdateAI", "d7/d52/a17043.html#a81f384607ab7e8c4ed7385bdcddfd7a5", null ],
-    [ "events", "d7/d52/a17043.html#a0cf5ecd9d7b3c92e2da836983323f378", null ]
+    [ "npc_toc_boomkinAI", "d7/db2/a17047.html", "d7/db2/a17047" ],
+    [ "npc_toc_boomkin", "d7/d52/a17043.html#a17274ff748cd364592a551ad2c547eac", null ],
+    [ "GetAI", "d7/d52/a17043.html#a626fe854faade9bd96cd60b9e6e970bd", null ]
 ];

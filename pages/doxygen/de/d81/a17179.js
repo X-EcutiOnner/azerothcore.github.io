@@ -1,4 +1,6 @@
 var a17179 =
 [
-    [ "boss_dreadscaleAI", "de/d81/a17179.html#ab0d0f8a7ec6567e8811d09721f6fa9ed", null ]
+    [ "HandleLeapBack", "de/d81/a17179.html#a1515071290963ea88b2f8f3efd944068", null ],
+    [ "PrepareSpellScript", "de/d81/a17179.html#a4e309e82e471d5f2a6e9be73e1e926aa", null ],
+    [ "Register", "de/d81/a17179.html#ae2185f1272746c4d3d8cdbcb8cca1eba", null ]
 ];

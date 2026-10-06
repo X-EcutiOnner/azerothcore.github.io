@@ -1,5 +1,5 @@
 var a28543 =
 [
-    [ "item_petrov_cluster_bombs", "d7/d2a/a28543.html#a1a76760f7c4617a40d96b9833e7466df", null ],
-    [ "OnUse", "d7/d2a/a28543.html#aeecb6a7756b4af06f46951dfb51c054f", null ]
+    [ "item_captured_frog", "d7/d2a/a28543.html#ad41b743c98c9534453eca8cf1f367366", null ],
+    [ "OnUse", "d7/d2a/a28543.html#a1156467ca046a077ea494f92c488bf54", null ]
 ];

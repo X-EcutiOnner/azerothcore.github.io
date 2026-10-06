@@ -106,12 +106,14 @@ $(document).ready(function(){initNavTree('d0/d54/a01691.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
+<a href="#enum-members">Enumerations</a> &#124;
 <a href="#func-members">Functions</a> &#124;
 <a href="#var-members">Variables</a>  </div>
   <div class="headertitle"><div class="title">instance_stratholme.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><code>#include &quot;<a class="el" href="../../">GameObjectScript.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GameTime.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">InstanceMapScript.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">InstanceScript.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
@@ -119,6 +121,7 @@ $(document).ready(function(){initNavTree('d0/d54/a01691.html','../../'); initRes
 <code>#include &quot;<a class="el" href="../../">stratholme.h</a>&quot;</code><br />
 <code>#include &lt;array&gt;</code><br />
 <code>#include &lt;list&gt;</code><br />
+<code>#include &lt;unordered_set&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
@@ -130,6 +133,31 @@ Classes</h2></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d59/a13731.html">go_enchanted_scarlet_thread</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
+Enumerations</h2></td></tr>
+<tr class="memitem:ab74452e13a914118aee0795762828b27"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d54/a01691.html#ab74452e13a914118aee0795762828b27">SlaughterPhases</a> { <br />
+&#160;&#160;<a class="el" href="../../d0/d54/a01691.html#ab74452e13a914118aee0795762828b27a0177abc1f7a27f2a63f64b9da96ea9b1">SLAUGHTER_ABOMINATIONS</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d0/d54/a01691.html#ab74452e13a914118aee0795762828b27a122175ef2b70c82254134dd16eb909fc">SLAUGHTER_RAMSTEIN</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d0/d54/a01691.html#ab74452e13a914118aee0795762828b27a5ac54f5e0104f0c8d3275c6b71d143c8">SLAUGHTER_MINDLESS_UNDEAD</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d0/d54/a01691.html#ab74452e13a914118aee0795762828b27ac961d397b2a43acbb08f5094bb5a6880">SLAUGHTER_BLACK_GUARD</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d0/d54/a01691.html#ab74452e13a914118aee0795762828b27a66ea693c409f7b7648b521e34d32d976">SLAUGHTER_COMPLETE</a>
+<br />
+ }</td></tr>
+<tr class="separator:ab74452e13a914118aee0795762828b27"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1e3e0f954f38fb8ebd1631cecce73103"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d54/a01691.html#a1e3e0f954f38fb8ebd1631cecce73103">GateTrapIndexes</a> { <br />
+&#160;&#160;<a class="el" href="../../d0/d54/a01691.html#a1e3e0f954f38fb8ebd1631cecce73103a74abfbe1ca83a5c82b940d51d80917a2">GATE_TRAP_SCARLET</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d0/d54/a01691.html#a1e3e0f954f38fb8ebd1631cecce73103a3c280740e9b426876dcb1d9cbadeddbf">GATE_TRAP_UNDEAD</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d0/d54/a01691.html#a1e3e0f954f38fb8ebd1631cecce73103a3e65c2448e5f5476658383fd1cb57b7d">MAX_GATE_TRAPS</a>
+<br />
+ }</td></tr>
+<tr class="separator:a1e3e0f954f38fb8ebd1631cecce73103"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
@@ -150,11 +178,76 @@ Variables</h2></td></tr>
 <tr class="separator:a3c5bc53064d7ed19146d61fbe2f25502"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aec64d79cbf450b10fd485f2e559e0472"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/dc3/a08931.html">Position</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d54/a01691.html#aec64d79cbf450b10fd485f2e559e0472">SlaughterPos</a> = { 4032.20f, -3378.06f, 119.75f, 4.67f }</td></tr>
 <tr class="separator:aec64d79cbf450b10fd485f2e559e0472"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5c405cce21d296f25e84d39b7d1d075f"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d6/d12/a04691.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d54/a01691.html#a5c405cce21d296f25e84d39b7d1d075f">MAX_GATE_TRAP_GATES</a> = 4</td></tr>
+<tr class="separator:a5c405cce21d296f25e84d39b7d1d075f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4f079c66cab2d51167491563e985a489"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d6/d12/a04691.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d54/a01691.html#a4f079c66cab2d51167491563e985a489">GATE_TRAP_COOLDOWN</a> = 30 * <a class="el" href="../../d3/d96/a05072.html#afacf27522adfacf698390ddafc53fa30">MINUTE</a></td></tr>
+<tr class="separator:a4f079c66cab2d51167491563e985a489"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab43e7dbe9fa919ee1b3442d6be2762f6"><td class="memItemLeft" align="right" valign="top">static constexpr <a class="el" href="../../d6/d12/a04691.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d54/a01691.html#ab43e7dbe9fa919ee1b3442d6be2762f6">ScarletThreadSpawnCount</a> = 4</td></tr>
 <tr class="separator:ab43e7dbe9fa919ee1b3442d6be2762f6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a055cb3e623dd7500b61e9e36afb72af7"><td class="memItemLeft" align="right" valign="top">static constexpr <a class="el" href="../../d6/d12/a04691.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d54/a01691.html#a055cb3e623dd7500b61e9e36afb72af7">AllScarletThreadLocations</a> = (1 &lt;&lt; <a class="el" href="../../d0/d54/a01691.html#ab43e7dbe9fa919ee1b3442d6be2762f6">ScarletThreadSpawnCount</a>) - 1</td></tr>
 <tr class="separator:a055cb3e623dd7500b61e9e36afb72af7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="a1e3e0f954f38fb8ebd1631cecce73103" name="a1e3e0f954f38fb8ebd1631cecce73103"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1e3e0f954f38fb8ebd1631cecce73103">&#9670;&#160;</a></span>GateTrapIndexes</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d0/d54/a01691.html#a1e3e0f954f38fb8ebd1631cecce73103">GateTrapIndexes</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a1e3e0f954f38fb8ebd1631cecce73103a74abfbe1ca83a5c82b940d51d80917a2" name="a1e3e0f954f38fb8ebd1631cecce73103a74abfbe1ca83a5c82b940d51d80917a2"></a>GATE_TRAP_SCARLET&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a1e3e0f954f38fb8ebd1631cecce73103a3c280740e9b426876dcb1d9cbadeddbf" name="a1e3e0f954f38fb8ebd1631cecce73103a3c280740e9b426876dcb1d9cbadeddbf"></a>GATE_TRAP_UNDEAD&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a1e3e0f954f38fb8ebd1631cecce73103a3e65c2448e5f5476658383fd1cb57b7d" name="a1e3e0f954f38fb8ebd1631cecce73103a3e65c2448e5f5476658383fd1cb57b7d"></a>MAX_GATE_TRAPS&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   72</span>{</div>
+<div class="line"><span class="lineno">   73</span>    <a class="code hl_enumvalue" href="../../d0/d54/a01691.html#a1e3e0f954f38fb8ebd1631cecce73103a74abfbe1ca83a5c82b940d51d80917a2">GATE_TRAP_SCARLET</a>,</div>
+<div class="line"><span class="lineno">   74</span>    <a class="code hl_enumvalue" href="../../d0/d54/a01691.html#a1e3e0f954f38fb8ebd1631cecce73103a3c280740e9b426876dcb1d9cbadeddbf">GATE_TRAP_UNDEAD</a>,</div>
+<div class="line"><span class="lineno">   75</span>    <a class="code hl_enumvalue" href="../../d0/d54/a01691.html#a1e3e0f954f38fb8ebd1631cecce73103a3e65c2448e5f5476658383fd1cb57b7d">MAX_GATE_TRAPS</a></div>
+<div class="line"><span class="lineno">   76</span>};</div>
+<div class="ttc" id="aa01691_html_a1e3e0f954f38fb8ebd1631cecce73103a3c280740e9b426876dcb1d9cbadeddbf"><div class="ttname"><a href="../../d0/d54/a01691.html#a1e3e0f954f38fb8ebd1631cecce73103a3c280740e9b426876dcb1d9cbadeddbf">GATE_TRAP_UNDEAD</a></div><div class="ttdeci">@ GATE_TRAP_UNDEAD</div><div class="ttdef"><b>Definition:</b> instance_stratholme.cpp:74</div></div>
+<div class="ttc" id="aa01691_html_a1e3e0f954f38fb8ebd1631cecce73103a3e65c2448e5f5476658383fd1cb57b7d"><div class="ttname"><a href="../../d0/d54/a01691.html#a1e3e0f954f38fb8ebd1631cecce73103a3e65c2448e5f5476658383fd1cb57b7d">MAX_GATE_TRAPS</a></div><div class="ttdeci">@ MAX_GATE_TRAPS</div><div class="ttdef"><b>Definition:</b> instance_stratholme.cpp:75</div></div>
+<div class="ttc" id="aa01691_html_a1e3e0f954f38fb8ebd1631cecce73103a74abfbe1ca83a5c82b940d51d80917a2"><div class="ttname"><a href="../../d0/d54/a01691.html#a1e3e0f954f38fb8ebd1631cecce73103a74abfbe1ca83a5c82b940d51d80917a2">GATE_TRAP_SCARLET</a></div><div class="ttdeci">@ GATE_TRAP_SCARLET</div><div class="ttdef"><b>Definition:</b> instance_stratholme.cpp:73</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="ab74452e13a914118aee0795762828b27" name="ab74452e13a914118aee0795762828b27"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab74452e13a914118aee0795762828b27">&#9670;&#160;</a></span>SlaughterPhases</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d0/d54/a01691.html#ab74452e13a914118aee0795762828b27">SlaughterPhases</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ab74452e13a914118aee0795762828b27a0177abc1f7a27f2a63f64b9da96ea9b1" name="ab74452e13a914118aee0795762828b27a0177abc1f7a27f2a63f64b9da96ea9b1"></a>SLAUGHTER_ABOMINATIONS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab74452e13a914118aee0795762828b27a122175ef2b70c82254134dd16eb909fc" name="ab74452e13a914118aee0795762828b27a122175ef2b70c82254134dd16eb909fc"></a>SLAUGHTER_RAMSTEIN&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab74452e13a914118aee0795762828b27a5ac54f5e0104f0c8d3275c6b71d143c8" name="ab74452e13a914118aee0795762828b27a5ac54f5e0104f0c8d3275c6b71d143c8"></a>SLAUGHTER_MINDLESS_UNDEAD&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab74452e13a914118aee0795762828b27ac961d397b2a43acbb08f5094bb5a6880" name="ab74452e13a914118aee0795762828b27ac961d397b2a43acbb08f5094bb5a6880"></a>SLAUGHTER_BLACK_GUARD&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab74452e13a914118aee0795762828b27a66ea693c409f7b7648b521e34d32d976" name="ab74452e13a914118aee0795762828b27a66ea693c409f7b7648b521e34d32d976"></a>SLAUGHTER_COMPLETE&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   63</span>{</div>
+<div class="line"><span class="lineno">   64</span>    <a class="code hl_enumvalue" href="../../d0/d54/a01691.html#ab74452e13a914118aee0795762828b27a0177abc1f7a27f2a63f64b9da96ea9b1">SLAUGHTER_ABOMINATIONS</a>,</div>
+<div class="line"><span class="lineno">   65</span>    <a class="code hl_enumvalue" href="../../d0/d54/a01691.html#ab74452e13a914118aee0795762828b27a122175ef2b70c82254134dd16eb909fc">SLAUGHTER_RAMSTEIN</a>,</div>
+<div class="line"><span class="lineno">   66</span>    <a class="code hl_enumvalue" href="../../d0/d54/a01691.html#ab74452e13a914118aee0795762828b27a5ac54f5e0104f0c8d3275c6b71d143c8">SLAUGHTER_MINDLESS_UNDEAD</a>,</div>
+<div class="line"><span class="lineno">   67</span>    <a class="code hl_enumvalue" href="../../d0/d54/a01691.html#ab74452e13a914118aee0795762828b27ac961d397b2a43acbb08f5094bb5a6880">SLAUGHTER_BLACK_GUARD</a>,</div>
+<div class="line"><span class="lineno">   68</span>    <a class="code hl_enumvalue" href="../../d0/d54/a01691.html#ab74452e13a914118aee0795762828b27a66ea693c409f7b7648b521e34d32d976">SLAUGHTER_COMPLETE</a></div>
+<div class="line"><span class="lineno">   69</span>};</div>
+<div class="ttc" id="aa01691_html_ab74452e13a914118aee0795762828b27a0177abc1f7a27f2a63f64b9da96ea9b1"><div class="ttname"><a href="../../d0/d54/a01691.html#ab74452e13a914118aee0795762828b27a0177abc1f7a27f2a63f64b9da96ea9b1">SLAUGHTER_ABOMINATIONS</a></div><div class="ttdeci">@ SLAUGHTER_ABOMINATIONS</div><div class="ttdef"><b>Definition:</b> instance_stratholme.cpp:64</div></div>
+<div class="ttc" id="aa01691_html_ab74452e13a914118aee0795762828b27a122175ef2b70c82254134dd16eb909fc"><div class="ttname"><a href="../../d0/d54/a01691.html#ab74452e13a914118aee0795762828b27a122175ef2b70c82254134dd16eb909fc">SLAUGHTER_RAMSTEIN</a></div><div class="ttdeci">@ SLAUGHTER_RAMSTEIN</div><div class="ttdef"><b>Definition:</b> instance_stratholme.cpp:65</div></div>
+<div class="ttc" id="aa01691_html_ab74452e13a914118aee0795762828b27a5ac54f5e0104f0c8d3275c6b71d143c8"><div class="ttname"><a href="../../d0/d54/a01691.html#ab74452e13a914118aee0795762828b27a5ac54f5e0104f0c8d3275c6b71d143c8">SLAUGHTER_MINDLESS_UNDEAD</a></div><div class="ttdeci">@ SLAUGHTER_MINDLESS_UNDEAD</div><div class="ttdef"><b>Definition:</b> instance_stratholme.cpp:66</div></div>
+<div class="ttc" id="aa01691_html_ab74452e13a914118aee0795762828b27a66ea693c409f7b7648b521e34d32d976"><div class="ttname"><a href="../../d0/d54/a01691.html#ab74452e13a914118aee0795762828b27a66ea693c409f7b7648b521e34d32d976">SLAUGHTER_COMPLETE</a></div><div class="ttdeci">@ SLAUGHTER_COMPLETE</div><div class="ttdef"><b>Definition:</b> instance_stratholme.cpp:68</div></div>
+<div class="ttc" id="aa01691_html_ab74452e13a914118aee0795762828b27ac961d397b2a43acbb08f5094bb5a6880"><div class="ttname"><a href="../../d0/d54/a01691.html#ab74452e13a914118aee0795762828b27ac961d397b2a43acbb08f5094bb5a6880">SLAUGHTER_BLACK_GUARD</a></div><div class="ttdeci">@ SLAUGHTER_BLACK_GUARD</div><div class="ttdef"><b>Definition:</b> instance_stratholme.cpp:67</div></div>
+</div><!-- fragment -->
+</div>
+</div>
 <h2 class="groupheader">Function Documentation</h2>
 <a id="add44fd9ad05267cc5db256b112db2585" name="add44fd9ad05267cc5db256b112db2585"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#add44fd9ad05267cc5db256b112db2585">&#9670;&#160;</a></span>AddSC_instance_stratholme()</h2>
@@ -170,12 +263,12 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  730</span>{</div>
-<div class="line"><span class="lineno">  731</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d9/dbe/a13723.html">instance_stratholme</a>();</div>
-<div class="line"><span class="lineno">  732</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d1/d59/a13731.html">go_enchanted_scarlet_thread</a>();</div>
-<div class="line"><span class="lineno">  733</span>}</div>
-<div class="ttc" id="aa13723_html"><div class="ttname"><a href="../../d9/dbe/a13723.html">instance_stratholme</a></div><div class="ttdef"><b>Definition:</b> instance_stratholme.cpp:66</div></div>
-<div class="ttc" id="aa13731_html"><div class="ttname"><a href="../../d1/d59/a13731.html">go_enchanted_scarlet_thread</a></div><div class="ttdef"><b>Definition:</b> instance_stratholme.cpp:705</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  855</span>{</div>
+<div class="line"><span class="lineno">  856</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d9/dbe/a13723.html">instance_stratholme</a>();</div>
+<div class="line"><span class="lineno">  857</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d1/d59/a13731.html">go_enchanted_scarlet_thread</a>();</div>
+<div class="line"><span class="lineno">  858</span>}</div>
+<div class="ttc" id="aa13723_html"><div class="ttname"><a href="../../d9/dbe/a13723.html">instance_stratholme</a></div><div class="ttdef"><b>Definition:</b> instance_stratholme.cpp:85</div></div>
+<div class="ttc" id="aa13731_html"><div class="ttname"><a href="../../d1/d59/a13731.html">go_enchanted_scarlet_thread</a></div><div class="ttdef"><b>Definition:</b> instance_stratholme.cpp:830</div></div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00165">AddEasternKingdomsScripts()</a>.</p>
 
@@ -207,7 +300,7 @@ Variables</h2></td></tr>
 <div class="line">    {3919.88f, -3547.34f, 134.269f, 2.94961f}   </div>
 <div class="line">}</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00451">instance_stratholme::instance_stratholme_InstanceMapScript::Update()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00506">instance_stratholme::instance_stratholme_InstanceMapScript::Update()</a>.</p>
 
 </div>
 </div>
@@ -231,7 +324,7 @@ Variables</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00394">instance_stratholme::instance_stratholme_InstanceMapScript::ReadSaveDataMore()</a>, and <a class="el" href="../../#l00649">instance_stratholme::instance_stratholme_InstanceMapScript::SpawnScarletThread()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00425">instance_stratholme::instance_stratholme_InstanceMapScript::ReadSaveDataMore()</a>, and <a class="el" href="../../#l00780">instance_stratholme::instance_stratholme_InstanceMapScript::SpawnScarletThread()</a>.</p>
 
 </div>
 </div>
@@ -262,7 +355,7 @@ Variables</h2></td></tr>
 <div class="ttc" id="aa01688_html_a92f6fd626e1834a4cc509efc1186963ea6aba007eca1310ae1197385ad1103ec8"><div class="ttname"><a href="../../d6/d53/a01688.html#a92f6fd626e1834a4cc509efc1186963ea6aba007eca1310ae1197385ad1103ec8">NPC_PLAGUED_MAGGOT</a></div><div class="ttdeci">@ NPC_PLAGUED_MAGGOT</div><div class="ttdef"><b>Definition:</b> stratholme.h:53</div></div>
 <div class="ttc" id="aa01688_html_a92f6fd626e1834a4cc509efc1186963eabaabda1e0f8f6848d5d542879f9cbddd"><div class="ttname"><a href="../../d6/d53/a01688.html#a92f6fd626e1834a4cc509efc1186963eabaabda1e0f8f6848d5d542879f9cbddd">NPC_PLAGUED_RAT</a></div><div class="ttdeci">@ NPC_PLAGUED_RAT</div><div class="ttdef"><b>Definition:</b> stratholme.h:51</div></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00285">instance_stratholme::instance_stratholme_InstanceMapScript::DoSpawnPlaguedCritters()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00316">instance_stratholme::instance_stratholme_InstanceMapScript::DoSpawnPlaguedCritters()</a>.</p>
 
 </div>
 </div>
@@ -278,7 +371,7 @@ Variables</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00301">instance_stratholme::instance_stratholme_InstanceMapScript::SetData()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00332">instance_stratholme::instance_stratholme_InstanceMapScript::SetData()</a>.</p>
 
 </div>
 </div>
@@ -308,7 +401,53 @@ Variables</h2></td></tr>
 <div class="line">    {4032.73f - 2.0f, -3407.38f - 2.0f, 115.56f, 0.0f}</div>
 <div class="line">}</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00451">instance_stratholme::instance_stratholme_InstanceMapScript::Update()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00506">instance_stratholme::instance_stratholme_InstanceMapScript::Update()</a>.</p>
+
+</div>
+</div>
+<a id="a4f079c66cab2d51167491563e985a489" name="a4f079c66cab2d51167491563e985a489"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4f079c66cab2d51167491563e985a489">&#9670;&#160;</a></span>GATE_TRAP_COOLDOWN</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">constexpr <a class="el" href="../../d6/d12/a04691.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> GATE_TRAP_COOLDOWN = 30 * <a class="el" href="../../d3/d96/a05072.html#afacf27522adfacf698390ddafc53fa30">MINUTE</a></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00751">instance_stratholme::instance_stratholme_InstanceMapScript::StartGateTrap()</a>.</p>
+
+</div>
+</div>
+<a id="a5c405cce21d296f25e84d39b7d1d075f" name="a5c405cce21d296f25e84d39b7d1d075f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5c405cce21d296f25e84d39b7d1d075f">&#9670;&#160;</a></span>MAX_GATE_TRAP_GATES</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">constexpr <a class="el" href="../../d6/d12/a04691.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> MAX_GATE_TRAP_GATES = 4</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
 
 </div>
 </div>
@@ -324,7 +463,7 @@ Variables</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00451">instance_stratholme::instance_stratholme_InstanceMapScript::Update()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00506">instance_stratholme::instance_stratholme_InstanceMapScript::Update()</a>.</p>
 
 </div>
 </div>
@@ -348,7 +487,7 @@ Variables</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00649">instance_stratholme::instance_stratholme_InstanceMapScript::SpawnScarletThread()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00780">instance_stratholme::instance_stratholme_InstanceMapScript::SpawnScarletThread()</a>.</p>
 
 </div>
 </div>
@@ -364,7 +503,7 @@ Variables</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00139">instance_stratholme::instance_stratholme_InstanceMapScript::ProcessSlaughterEvent()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00167">instance_stratholme::instance_stratholme_InstanceMapScript::ProcessSlaughterEvent()</a>.</p>
 
 </div>
 </div>
@@ -374,7 +513,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_ddeb450e5fe586f747c0635391d1d1d6.html">EasternKingdoms</a></li><li class="navelem"><a class="el" href="../../dir_2a809e8107a21363b40c79ab70d79b15.html">Stratholme</a></li><li class="navelem"><a class="el" href="../../d0/d54/a01691.html">instance_stratholme.cpp</a></li>
-    <li class="footer">Generated on Tue Sep 29 2026 01:12:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Tue Oct 6 2026 01:25:43 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

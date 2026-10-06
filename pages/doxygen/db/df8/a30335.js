@@ -1,20 +1,13 @@
 var a30335 =
 [
-    [ "FileLoader", "db/df8/a30335.html#a51313b536560d1d89d8350475d2bc749", null ],
-    [ "~FileLoader", "db/df8/a30335.html#a0954776182dd01364bdb216539ce398b", null ],
-    [ "FileLoader", "db/df8/a30335.html#a51313b536560d1d89d8350475d2bc749", null ],
-    [ "~FileLoader", "db/df8/a30335.html#a0954776182dd01364bdb216539ce398b", null ],
-    [ "free", "db/df8/a30335.html#a738aeb2ebe751c9fc75013dbce30dcc4", null ],
-    [ "free", "db/df8/a30335.html#aef98564821c8e63b6d484179cda0b380", null ],
-    [ "GetData", "db/df8/a30335.html#aed85cdbd6a4e52096292c6ed8578f7bd", null ],
-    [ "GetData", "db/df8/a30335.html#aed85cdbd6a4e52096292c6ed8578f7bd", null ],
-    [ "GetDataSize", "db/df8/a30335.html#a2a07adb0692a51af06ccd31d449ae444", null ],
-    [ "GetDataSize", "db/df8/a30335.html#a2a07adb0692a51af06ccd31d449ae444", null ],
-    [ "loadFile", "db/df8/a30335.html#a11908109042f93ddde393e7a874683c9", null ],
-    [ "loadFile", "db/df8/a30335.html#a11908109042f93ddde393e7a874683c9", null ],
-    [ "prepareLoadedData", "db/df8/a30335.html#ab66347098d7c9ac470339c232f9b7588", null ],
-    [ "prepareLoadedData", "db/df8/a30335.html#a498a33d80768843b4ab1ff2d5ffe68d9", null ],
-    [ "data", "db/df8/a30335.html#aff1880ac2038f17f4d1f63bc9f7d9afd", null ],
-    [ "data_size", "db/df8/a30335.html#a355891fc980538e74080b9b83a95dec8", null ],
-    [ "version", "db/df8/a30335.html#a41cedec185e5909d83c8a185d1476dee", null ]
+    [ "MPQArchive", "db/df8/a30335.html#a01c755d82896f5eff33101151ee78fda", null ],
+    [ "~MPQArchive", "db/df8/a30335.html#a5bce22525ca16381fbb4729540a165e2", null ],
+    [ "MPQArchive", "db/df8/a30335.html#a01c755d82896f5eff33101151ee78fda", null ],
+    [ "~MPQArchive", "db/df8/a30335.html#a5bce22525ca16381fbb4729540a165e2", null ],
+    [ "close", "db/df8/a30335.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
+    [ "close", "db/df8/a30335.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
+    [ "GetFileListTo", "db/df8/a30335.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
+    [ "GetFileListTo", "db/df8/a30335.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
+    [ "isOpened", "db/df8/a30335.html#a2026335b9ede29197acfaac8513456d5", null ],
+    [ "mpq_a", "db/df8/a30335.html#a72b9fb96b1e3db6c7be652e426978b4a", null ]
 ];

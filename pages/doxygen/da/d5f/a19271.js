@@ -1,7 +1,7 @@
 var a19271 =
 [
-    [ "HandleScript", "da/d5f/a19271.html#ace11e192a27b2da98ff62c4eee7980ba", null ],
-    [ "PrepareSpellScript", "da/d5f/a19271.html#a8a6351b7f87101ac8328b6e76784978c", null ],
-    [ "Register", "da/d5f/a19271.html#ad57068b21218492078e2d2bfe76cc3c9", null ],
-    [ "Validate", "da/d5f/a19271.html#af6f1dd22aef0595315460c149d920dff", null ]
+    [ "OnApply", "da/d5f/a19271.html#a5f62c11ef96edbf6f2906bd5f41109d5", null ],
+    [ "OnRemove", "da/d5f/a19271.html#a697a7c76f944b5df956a9de07746b7a9", null ],
+    [ "PrepareAuraScript", "da/d5f/a19271.html#a338d0fa22368d01fe7523b7cc1acea4b", null ],
+    [ "Register", "da/d5f/a19271.html#ab915b3ede10526b3e7ccbe33f2568fae", null ]
 ];

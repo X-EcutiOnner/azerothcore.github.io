@@ -1,12 +1,9 @@
 var a17963 =
 [
-    [ "npc_saurfang_eventAI", "d5/d10/a17963.html#a8436a87576c92ecc0b45106683d20e93", null ],
-    [ "DoAction", "d5/d10/a17963.html#a45201c4a5b94fad948efe1d08e63e262", null ],
-    [ "MovementInform", "d5/d10/a17963.html#a712de3075d5b37b19e80641023796733", null ],
-    [ "Reset", "d5/d10/a17963.html#a5e7f11d5c09a8f08a2869ab6481fad18", null ],
-    [ "SetData", "d5/d10/a17963.html#a7f012a54ebce5307940eb7957f028d52", null ],
-    [ "SpellHit", "d5/d10/a17963.html#a2ed920f949c4d8dbc6d6ff5b9149e749", null ],
-    [ "UpdateAI", "d5/d10/a17963.html#af35f211e302489b7ab82852b737a199c", null ],
-    [ "_events", "d5/d10/a17963.html#a70cfc908f5a4ff86571661bab9181cc9", null ],
-    [ "_index", "d5/d10/a17963.html#a793d72078bd68b34fcdb7cd6587295dd", null ]
+    [ "CheckProc", "d5/d10/a17963.html#a13426f7a45e9434f980b42f174b22da8", null ],
+    [ "HandlePeriodicTick", "d5/d10/a17963.html#a6380b4d03e4c48cd1a1f89227a1ebae8", null ],
+    [ "HandleProc", "d5/d10/a17963.html#abf744d64dae5835bff3877eeaa919af3", null ],
+    [ "PrepareAuraScript", "d5/d10/a17963.html#a5836fb240ae612d36a9e80c88bebdc48", null ],
+    [ "Register", "d5/d10/a17963.html#a1b72c10256365de71b8f9fadf5886338", null ],
+    [ "Validate", "d5/d10/a17963.html#acc3a0e0ae60291646514c1ae6f41f421", null ]
 ];

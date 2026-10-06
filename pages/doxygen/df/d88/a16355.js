@@ -1,6 +1,6 @@
 var a16355 =
 [
-    [ "HandleSummon", "df/d88/a16355.html#a730e0c865f8c0c12544be951a48fe9ff", null ],
-    [ "PrepareSpellScript", "df/d88/a16355.html#a31271cd4668d3cbc4f4bdbeb693fe141", null ],
-    [ "Register", "df/d88/a16355.html#ae388ee1b08891f021ab1308ec7ffebaa", null ]
+    [ "HandleOpenLock", "df/d88/a16355.html#a32bfb203e9ecfbcfa75f6c3e7a17fade", null ],
+    [ "PrepareSpellScript", "df/d88/a16355.html#a646a42455b6a46c9f7cbb4b0229122cd", null ],
+    [ "Register", "df/d88/a16355.html#a5dcac6f609ec93074ec3ce195101f592", null ]
 ];

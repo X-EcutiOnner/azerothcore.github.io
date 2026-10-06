@@ -1,6 +1,7 @@
 var a29775 =
 [
-    [ "lastExtraAttackSpell", "d6/d23/a29775.html#a0b7c47a0c1a328703648936a1da3245f", null ],
-    [ "triggeredSpellHasExtraAttacks", "d6/d23/a29775.html#ad58a8f2f91c6a32371feab14e51e8e29", null ],
-    [ "triggerSpellId", "d6/d23/a29775.html#a01a4d76e7e2bf15a3ae06926fa1189c9", null ]
+    [ "flatModifier", "d6/d23/a29775.html#a781485dfaede63716eddba66971600e3", null ],
+    [ "hasSpellModOwner", "d6/d23/a29775.html#aa80132f8b5cb980a4a703810fe3fa1a4", null ],
+    [ "hasSpellProto", "d6/d23/a29775.html#a96607da311b5774eeaa01674d32ab22e", null ],
+    [ "pctModifier", "d6/d23/a29775.html#aaf5a1e1118b0dcd155529978bdc172db", null ]
 ];

@@ -1,6 +1,6 @@
 var a16791 =
 [
-    [ "HandleScript", "d2/df1/a16791.html#a647f39eb125537cd7545ab4115be1091", null ],
-    [ "PrepareSpellScript", "d2/df1/a16791.html#a55dec84643f9bd536c7c73b5909ab303", null ],
-    [ "Register", "d2/df1/a16791.html#a0077abbe11092b9636c3bb7b5c367946", null ]
+    [ "instance_ruby_sanctum_InstanceMapScript", "dd/d69/a16795.html", "dd/d69/a16795" ],
+    [ "instance_ruby_sanctum", "d2/df1/a16791.html#a9fc9d56cfcd7d0163f25f49e1ed0baeb", null ],
+    [ "GetInstanceScript", "d2/df1/a16791.html#ad0329f328d4be2c475d8bcd5ccefd4e1", null ]
 ];

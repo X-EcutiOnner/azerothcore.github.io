@@ -1,7 +1,6 @@
 var a16591 =
 [
-    [ "HandleHit", "d6/da5/a16591.html#abd59d91ab50eb8945a4a00157d9d5564", null ],
-    [ "PrepareSpellScript", "d6/da5/a16591.html#a27549f3cacc1732bbc1e61209e0f4905", null ],
-    [ "Register", "d6/da5/a16591.html#af132eee38064c5123f4e01d52efb9314", null ],
-    [ "Validate", "d6/da5/a16591.html#accad8dfdf29a1475b6f272259f1ed9bf", null ]
+    [ "HandleLeapBack", "d6/da5/a16591.html#a71a9b9967528c1153ad1215635bc7d01", null ],
+    [ "PrepareSpellScript", "d6/da5/a16591.html#a25a2db5c19e721b112b7bc84b3ac0968", null ],
+    [ "Register", "d6/da5/a16591.html#a6ef11d0538616315fa7cf098748aa01f", null ]
 ];

@@ -1,6 +1,6 @@
 var a19675 =
 [
-    [ "WebTargetSelector", "dd/d10/a19675.html#a2f19cffab18fd6f2f5a1d296aa1db47d", null ],
-    [ "operator()", "dd/d10/a19675.html#a289821eaae114ba384a9ee9b8c19325f", null ],
-    [ "_maexxna", "dd/d10/a19675.html#ad21c9ac380f7b97aacc06f08f1c45974", null ]
+    [ "boss_maexxnaAI", "d2/d43/a19679.html", "d2/d43/a19679" ],
+    [ "boss_maexxna", "dd/d10/a19675.html#ae47a789ac8abe50932b9e000c83b02b2", null ],
+    [ "GetAI", "dd/d10/a19675.html#ab438df4cb61625da35552ca7c867dc64", null ]
 ];

@@ -1,6 +1,7 @@
 var a25919 =
 [
-    [ "HandleFinish", "db/d5c/a25919.html#a97cef2944f3fcc11aa6898bc8455ab21", null ],
-    [ "PrepareSpellScript", "db/d5c/a25919.html#a62920503172dc58ac864a23e90a98dd9", null ],
-    [ "Register", "db/d5c/a25919.html#ab40419508a1903869aa2b36a590301ba", null ]
+    [ "HandleProc", "db/d5c/a25919.html#a675a17a574539f2da85a5401afc18fec", null ],
+    [ "PrepareAuraScript", "db/d5c/a25919.html#a9e5ea1da302356a41b4eff338956ab93", null ],
+    [ "Register", "db/d5c/a25919.html#a2bade504b1ab2c2869ecaf8873864d19", null ],
+    [ "Validate", "db/d5c/a25919.html#aec327c219229ae9d59cb491eef2d95d3", null ]
 ];

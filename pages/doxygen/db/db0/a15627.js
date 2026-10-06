@@ -1,10 +1,7 @@
 var a15627 =
 [
-    [ "boss_moam", "db/db0/a15627.html#a9a7a9f410efc5a05e46fd05f331e96c9", null ],
-    [ "InitializeAI", "db/db0/a15627.html#a2c8bde24fb3811e29c91a57258a243e5", null ],
-    [ "JustDied", "db/db0/a15627.html#a06b843bddd8f2759fa733c5169e0a5e6", null ],
-    [ "JustEngagedWith", "db/db0/a15627.html#ad33ba2f2cf9c83f37856aa6f2212637b", null ],
-    [ "Reset", "db/db0/a15627.html#a4112940fbe1f8be8e7adee7dbc48a9ae", null ],
-    [ "SummonedCreatureDies", "db/db0/a15627.html#a8401c5e2bd216deee197617b78d85222", null ],
-    [ "UpdateAI", "db/db0/a15627.html#aadd8320c6194923b113967d3d6c49a5e", null ]
+    [ "FilterTargets", "db/db0/a15627.html#a59e477333a54ec828a429d15b35d4936", null ],
+    [ "HandleScript", "db/db0/a15627.html#a983fe53aa52e53a45685055fde04a3b7", null ],
+    [ "PrepareSpellScript", "db/db0/a15627.html#a873e7766aa1cb6ebabbc77c31db6701c", null ],
+    [ "Register", "db/db0/a15627.html#a45ac61990990f16c98eaa7136297afc5", null ]
 ];

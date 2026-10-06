@@ -1,8 +1,6 @@
 var a24527 =
 [
-    [ "npc_pet_dk_army_of_the_dead", "d2/dbd/a24527.html#a835f24d7b1b0b70d6345f66a8960e9cf", null ],
-    [ "CanAIAttack", "d2/dbd/a24527.html#a514fe49b143f57ef87359b3060911c02", null ],
-    [ "OwnerAttacked", "d2/dbd/a24527.html#ad5189df825dc917e59c9b19e4a84cded", null ],
-    [ "OwnerAttackedBy", "d2/dbd/a24527.html#a01f21e7c57f4bf7f9457c72fda4e9022", null ],
-    [ "UpdateAI", "d2/dbd/a24527.html#ac44836f84d172dfac90dfb3eaaeeac6a", null ]
+    [ "HandleDamageCalc", "d2/dbd/a24527.html#a9e0f6fe8bb10950c2130fb7d1f07017a", null ],
+    [ "PrepareSpellScript", "d2/dbd/a24527.html#a183477b6269dbc705a10e60ab36c13b1", null ],
+    [ "Register", "d2/dbd/a24527.html#ae93d958a3a439e3401685b0d2a570f0e", null ]
 ];

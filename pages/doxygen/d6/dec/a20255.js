@@ -1,12 +1,24 @@
 var a20255 =
 [
-    [ "npc_assembly_lightning", "d6/dec/a20255.html#a8fcec558ec18de7bd9545779ded9e909", null ],
-    [ "AttackStart", "d6/dec/a20255.html#a140d4166e99c223b674e55b67d709613", null ],
-    [ "EnterEvadeMode", "d6/dec/a20255.html#a287f1e4fad8c8a046acc15952e2cb0b9", null ],
-    [ "MoveInLineOfSight", "d6/dec/a20255.html#a3b3ec1402907a84c0ec17522568348c6", null ],
-    [ "MovementInform", "d6/dec/a20255.html#a3117383b1d3bce6a3bbc8445e5ea7a71", null ],
-    [ "OnCharmed", "d6/dec/a20255.html#a72e93f6e1ca82e82f8f3cc051f0f1345", null ],
-    [ "Reset", "d6/dec/a20255.html#aee99895b9c4d1b5f4d1a2ae7f4bd09a8", null ],
-    [ "UpdateAI", "d6/dec/a20255.html#a0ae73d6c38064d80a7297045f2b829dd", null ],
-    [ "_boomed", "d6/dec/a20255.html#a13074c840c7e4dc94a2b30741f62ec00", null ]
+    [ "boss_stormcaller_brundir", "d6/dec/a20255.html#a4f7ea635632887930bc856630ad7b122", null ],
+    [ "GetData", "d6/dec/a20255.html#a977a1c9fbfa0c36100330569f6c5dbff", null ],
+    [ "JustDied", "d6/dec/a20255.html#a7bbcb8f27eb6548549108f405f9be938", null ],
+    [ "JustEngagedWith", "d6/dec/a20255.html#aacf0780ae29ea543afd13727e06bdbf2", null ],
+    [ "JustReachedHome", "d6/dec/a20255.html#ac18c8fde64f2eb1ca6e53b0387056cdd", null ],
+    [ "KilledUnit", "d6/dec/a20255.html#ade6a772b83078dc826c1e4357ccdba3e", null ],
+    [ "MovementInform", "d6/dec/a20255.html#ad26e466b0aa3c04960245816df3e9041", null ],
+    [ "OnChannelFinished", "d6/dec/a20255.html#a6dbf87c92553af4c3a1362104d0b0f28", null ],
+    [ "OnSpellCast", "d6/dec/a20255.html#a642cbda0721e2bea3c3abcaae653073c", null ],
+    [ "OnSpellFailed", "d6/dec/a20255.html#a73a7d68337abd85629cf4abe478c1398", null ],
+    [ "Reset", "d6/dec/a20255.html#aac20b08efbbea66aa59a48ebfa5a447d", null ],
+    [ "SpellHit", "d6/dec/a20255.html#a3948aa8499f32cc0c49c495a1ff64b0e", null ],
+    [ "SpellHitTarget", "d6/dec/a20255.html#aa4c09c7e76ab84d15a953dfa87060bce", null ],
+    [ "UpdateAI", "d6/dec/a20255.html#aed4d71e804f389664199e1a9431d27dd", null ],
+    [ "UpdatePhase", "d6/dec/a20255.html#a8d0ae42a81038073b2438e0761142132", null ],
+    [ "_channelTimer", "d6/dec/a20255.html#a88bdcdd0b085c51ce18fb6a0e8990c5b", null ],
+    [ "_flyTargetGUID", "d6/dec/a20255.html#ab817c2f55bf4ed81199a27315877ab9b", null ],
+    [ "_phase", "d6/dec/a20255.html#afdbef71fd252ee8d38b9cf1d2a1a4c04", null ],
+    [ "_stunnedAchievement", "d6/dec/a20255.html#ae3ab50d835339a6260790901a935c914", null ],
+    [ "events", "d6/dec/a20255.html#a5ccf7577ce546363abb14ba351ff7b7c", null ],
+    [ "pInstance", "d6/dec/a20255.html#af9e151488987fb04ec887dde8a421f93", null ]
 ];

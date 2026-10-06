@@ -1,10 +1,7 @@
 var a16015 =
 [
-    [ "npc_rabid_thistle_bearAI", "dd/d58/a16015.html#a7fb4b6e26dd2fe66fb3e444c260999a6", null ],
-    [ "Initialize", "dd/d58/a16015.html#a466ec20c65535777c60b5c4aac4e45bd", null ],
-    [ "Reset", "dd/d58/a16015.html#aedc6834fef78ad7a0e5ab99bb844ace1", null ],
-    [ "SpellHit", "dd/d58/a16015.html#a62bde5a122748564cc806046bf9dcbaa", null ],
-    [ "UpdateAI", "dd/d58/a16015.html#a8f6c5b873756a58760b2861bc8b86804", null ],
-    [ "_events", "dd/d58/a16015.html#ad3852bf4588c453642e75fcdc544767b", null ],
-    [ "_playerGUID", "dd/d58/a16015.html#ac4df0c9b8be03ce4e45fbb4efcad6892", null ]
+    [ "npc_tharnarianAI", "dd/da3/a16019.html", "dd/da3/a16019" ],
+    [ "npc_tharnarian", "dd/d58/a16015.html#a39d9d9842a7a42c5381e38d10285aa15", null ],
+    [ "GetAI", "dd/d58/a16015.html#aaff8dad5d2bdb1571ed2e7a14c64899f", null ],
+    [ "OnQuestReward", "dd/d58/a16015.html#a88e82aa6c08fa85491c87d7a558efd9b", null ]
 ];

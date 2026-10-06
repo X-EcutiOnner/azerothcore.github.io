@@ -1,6 +1,15 @@
 var a17559 =
 [
-    [ "npc_pos_leaderAI", "d4/d44/a17563.html", "d4/d44/a17563" ],
-    [ "npc_pos_leader", "d7/d09/a17559.html#a690956ba5c822f4cbea9c27c95d5924c", null ],
-    [ "GetAI", "d7/d09/a17559.html#a0c0b85bef0b04989dc80d861fa70f463", null ]
+    [ "npc_pos_leaderAI", "d7/d09/a17559.html#a21973bccde394785f8619df7cae5270b", null ],
+    [ "AttackStart", "d7/d09/a17559.html#a6dc4161441752b8ea9baab642d6a0684", null ],
+    [ "JustSummoned", "d7/d09/a17559.html#a03bfcd0ea38073ff8481188d1b570553", null ],
+    [ "MoveInLineOfSight", "d7/d09/a17559.html#ad28f607b313f7729649261969912eba5", null ],
+    [ "Reset", "d7/d09/a17559.html#aee23a2835b84ac060a29b41c10116904", null ],
+    [ "SetData", "d7/d09/a17559.html#a2b49d5045e0d1e25e7a05b1e3ce65b4f", null ],
+    [ "SummonedCreatureDespawn", "d7/d09/a17559.html#a9a35459cf7b83c9f0afc557d1b0b40e7", null ],
+    [ "UpdateAI", "d7/d09/a17559.html#a1507ab4bdade501cf92f843cec20842d", null ],
+    [ "counter", "d7/d09/a17559.html#a7012a08c6409a40646dcd91a47eb6886", null ],
+    [ "events", "d7/d09/a17559.html#a7ea570e98c7a70ae604861c2166eb429", null ],
+    [ "pInstance", "d7/d09/a17559.html#a1ba3692738d6bd474d54fe8910a7f316", null ],
+    [ "summons", "d7/d09/a17559.html#a44b5ee694d96644da91167c7d793eeb3", null ]
 ];

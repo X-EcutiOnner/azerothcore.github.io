@@ -1,6 +1,6 @@
 var a24535 =
 [
-    [ "HandleDamageCalc", "d0/ddf/a24535.html#a9e0f6fe8bb10950c2130fb7d1f07017a", null ],
-    [ "PrepareSpellScript", "d0/ddf/a24535.html#a183477b6269dbc705a10e60ab36c13b1", null ],
-    [ "Register", "d0/ddf/a24535.html#ae93d958a3a439e3401685b0d2a570f0e", null ]
+    [ "achievement", "d0/ddf/a24535.html#abb6071e172abbcbc65020a0ad9554a03", null ],
+    [ "spell", "d0/ddf/a24535.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
+    [ "text", "d0/ddf/a24535.html#ab8c1bedac4bccf5c47eda591c9e5e9d1", null ]
 ];

@@ -1,5 +1,6 @@
 var a19415 =
 [
-    [ "npc_icc_buff_switcher", "dd/db9/a19415.html#aeabc3d97c88bf12177b824524af3ae1d", null ],
-    [ "OnGossipSelect", "dd/db9/a19415.html#abb3310d3eb5cf4f1c2a0a3ac46ddd7ba", null ]
+    [ "npc_icc_nerubar_broodkeeperAI", "d8/d51/a19419.html", "d8/d51/a19419" ],
+    [ "npc_icc_nerubar_broodkeeper", "dd/db9/a19415.html#adf9c3bfb444fed50420c2e780b373f34", null ],
+    [ "GetAI", "dd/db9/a19415.html#ad12186da36f7bbf99275a746bc874bfc", null ]
 ];

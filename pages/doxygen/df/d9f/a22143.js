@@ -1,6 +1,6 @@
 var a22143 =
 [
-    [ "HandleOnEffectRemove", "df/d9f/a22143.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51", null ],
-    [ "PrepareAuraScript", "df/d9f/a22143.html#af415e4d7ea0b4b881af94eb7ea0c3f4c", null ],
-    [ "Register", "df/d9f/a22143.html#a242faa8822f9cdb7762d8ec3b6245b30", null ]
+    [ "HandleScriptEffect", "df/d9f/a22143.html#a0d6a2eda99d95b1ee3403d8c63415800", null ],
+    [ "PrepareSpellScript", "df/d9f/a22143.html#a68920ab07d955763e8a627e6cb35638c", null ],
+    [ "Register", "df/d9f/a22143.html#a918cf6968f6eec5a4025324bd7f78747", null ]
 ];

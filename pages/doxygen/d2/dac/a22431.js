@@ -1,11 +1,10 @@
 var a22431 =
 [
-    [ "npc_iron_watcherAI", "d2/dac/a22431.html#a5f0c3d759dfba81cb2010d2a0b479909", null ],
-    [ "MovementInform", "d2/dac/a22431.html#aaf329f0160efa778abdebf86b1cf230b", null ],
-    [ "Reset", "d2/dac/a22431.html#a878f26cd41ccb9d777f9db00e2e30568", null ],
-    [ "SpellHit", "d2/dac/a22431.html#afce7cebdb4a49d9e5618ac211b235c6b", null ],
-    [ "UpdateAI", "d2/dac/a22431.html#a50391c9950fbbaf170600f13bab1e6bb", null ],
-    [ "charging", "d2/dac/a22431.html#af5be6fc6d7d234cfd2ac78f636b0ad7c", null ],
-    [ "hpTimer", "d2/dac/a22431.html#afcbb113387345361baf0351a19e6eb1d", null ],
-    [ "spellTimer", "d2/dac/a22431.html#a9bcd8d80b0a74c7abf0fc8b3bb32aa30", null ]
+    [ "npc_time_lost_proto_drakeAI", "d2/dac/a22431.html#ab98805519233eda932c6131aca059a8b", null ],
+    [ "ArmHiddenState", "d2/dac/a22431.html#ac397eb8580e523214dec0cf9b15b18f5", null ],
+    [ "DoAction", "d2/dac/a22431.html#a0357600a1ed7bc17cd5dfdf822c5296b", null ],
+    [ "JustEngagedWith", "d2/dac/a22431.html#ab95266d60769aa4099ca0f1bf678f237", null ],
+    [ "JustRespawned", "d2/dac/a22431.html#ac59dcf8cd9c19f2bf4a1bdba6f21b9d1", null ],
+    [ "Reset", "d2/dac/a22431.html#a418ea9621040e3c717c4e24f73539f44", null ],
+    [ "UpdateAI", "d2/dac/a22431.html#abb28428b77beada6a378541ba11d090b", null ]
 ];

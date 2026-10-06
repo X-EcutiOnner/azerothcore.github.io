@@ -1,8 +1,7 @@
 var a22559 =
 [
-    [ "npc_wg_queueAI", "d1/d91/a22563.html", "d1/d91/a22563" ],
-    [ "npc_wg_queue", "d7/d84/a22559.html#a2cc9825e08e982ef195f117a4512c4ae", null ],
-    [ "GetAI", "d7/d84/a22559.html#ad2d7746a32b520d37ea826b03627de4e", null ],
-    [ "OnGossipHello", "d7/d84/a22559.html#a20fc6ae4e4377f237a620b7f5b1de8ee", null ],
-    [ "OnGossipSelect", "d7/d84/a22559.html#afb707da5d85affc65f7ab5a0fc018c93", null ]
+    [ "npc_wg_quest_giver", "d7/d84/a22559.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
+    [ "GetDialogStatus", "d7/d84/a22559.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
+    [ "OnGossipHello", "d7/d84/a22559.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
+    [ "OnGossipSelect", "d7/d84/a22559.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
 ];

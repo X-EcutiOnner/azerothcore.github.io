@@ -1,7 +1,5 @@
 var a17719 =
 [
-    [ "HandleScriptEffect", "d0/df3/a17719.html#a6469efa0e1fabaf1cb366f119a1158c1", null ],
-    [ "PrepareSpellScript", "d0/df3/a17719.html#aac410690d906867216b40a49d8f15318", null ],
-    [ "Register", "d0/df3/a17719.html#ae8c7acabe93fc33d13f0b8848415eabf", null ],
-    [ "Validate", "d0/df3/a17719.html#a88c3961d5757dd0c75be4acc7de6e45b", null ]
+    [ "achievement_share_the_love", "d0/df3/a17719.html#a3eaa89eaa356b0e2f8b5c688439baf9c", null ],
+    [ "OnCheck", "d0/df3/a17719.html#a9d6b6d19611d1482111692de9f2b1cc8", null ]
 ];

@@ -1,8 +1,8 @@
 var a17475 =
 [
-    [ "npc_hor_raging_ghoul", "dc/d05/a17475.html#a733d4ad92566a13ace3427aae6696bac", null ],
-    [ "JustDied", "dc/d05/a17475.html#a14c0937fdd3c25df74f0a09efc1c5122", null ],
-    [ "Reset", "dc/d05/a17475.html#aad6424be7dd53b59016963cefffe40e5", null ],
-    [ "UpdateAI", "dc/d05/a17475.html#af4024393b318ca702c6652e042036b26", null ],
-    [ "leaped", "dc/d05/a17475.html#a69dea538a87ae47de221768b6de42315", null ]
+    [ "npc_hor_risen_witch_doctor", "dc/d05/a17475.html#a68e2913f88427b1d6cb35351d9b749a0", null ],
+    [ "JustDied", "dc/d05/a17475.html#ac742da67a5624aebdbbbdc51378cfc82", null ],
+    [ "JustEngagedWith", "dc/d05/a17475.html#ae612bec2e909abb2574298f4a34116f3", null ],
+    [ "Reset", "dc/d05/a17475.html#a63b9343146a8c950f5d31f21cd5f4838", null ],
+    [ "UpdateAI", "dc/d05/a17475.html#a87948e1bac92033fa700e1c0ce27cbf5", null ]
 ];

@@ -1,7 +1,7 @@
 var a04592 =
 [
-    [ "anonymous_namespace{OmenOfClarityGlyphLockTest.cpp}::TestOocPlayerScript", "da/d2b/a30035.html", "da/d2b/a30035" ],
-    [ "anonymous_namespace{OmenOfClarityGlyphLockTest.cpp}::OmenOfClarityGlyphLockTest", "d0/dc2/a30039.html", "d0/dc2/a30039" ],
+    [ "anonymous_namespace{OmenOfClarityGlyphLockTest.cpp}::TestOocPlayerScript", "d6/d2e/a30031.html", "d6/d2e/a30031" ],
+    [ "anonymous_namespace{OmenOfClarityGlyphLockTest.cpp}::OmenOfClarityGlyphLockTest", "da/d2b/a30035.html", "da/d2b/a30035" ],
     [ "TEST_F", "da/d34/a04592.html#a3c2cf023118b4939342706355b5e3e23", null ],
     [ "TEST_F", "da/d34/a04592.html#aad251365da79c581dfd771c07e08a849", null ],
     [ "TEST_F", "da/d34/a04592.html#a4722da81a67d7591147f462b57ebd1e5", null ],

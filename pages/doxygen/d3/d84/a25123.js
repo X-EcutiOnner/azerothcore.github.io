@@ -1,10 +1,10 @@
 var a25123 =
 [
-    [ "HandleTickUpdate", "d3/d84/a25123.html#aa9c1d6c644a3e42b21d1025fc3b06f69", null ],
-    [ "PrepareAuraScript", "d3/d84/a25123.html#aa930d63d22acf8e7aebbdd828cd09f36", null ],
-    [ "Register", "d3/d84/a25123.html#abf597eb55f63858528325eef387fc344", null ],
-    [ "SetTickHeal", "d3/d84/a25123.html#a2eabcc9aa3898c11062677eca73d1de1", null ],
-    [ "Validate", "d3/d84/a25123.html#ab59a1830ca97e1bda455da330a894d5c", null ],
-    [ "_baseReduction", "d3/d84/a25123.html#a8a3a8adce3dde9300e380500c6877d37", null ],
-    [ "_baseTick", "d3/d84/a25123.html#acd801570e2a1b274ed0d9e8bcc6b66f0", null ]
+    [ "CalcAmount", "d3/d84/a25123.html#a182d563b0527e35ea641116a6a808aa8", null ],
+    [ "CalcPeriodic", "d3/d84/a25123.html#a542da5e81c75d56ad33152d54b5cac3a", null ],
+    [ "Load", "d3/d84/a25123.html#a45b2d3dee0d5e514d2351c3f3679e3d3", null ],
+    [ "PrepareAuraScript", "d3/d84/a25123.html#ac320eec2b8a3a7cc3820a49007710520", null ],
+    [ "Register", "d3/d84/a25123.html#a37181afac00639716ae2ce10d82ecb23", null ],
+    [ "UpdatePeriodic", "d3/d84/a25123.html#af4f971e2d5c2d2f4b1ced0e64e8c1871", null ],
+    [ "Validate", "d3/d84/a25123.html#a3a6c68e8918612745cfb35df84bf7d14", null ]
 ];

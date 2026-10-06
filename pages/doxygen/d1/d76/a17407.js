@@ -1,13 +1,12 @@
 var a17407 =
 [
-    [ "boss_falric", "d1/d76/a17407.html#ad157b74477a84d13ab1a5bd5d9275d17", null ],
-    [ "DoAction", "d1/d76/a17407.html#a9acd7854d725b07df53ae60538df27b1", null ],
-    [ "EnterEvadeMode", "d1/d76/a17407.html#addda2f3fe13801f533069c8e5b83cdbd", null ],
-    [ "JustDied", "d1/d76/a17407.html#a4ade4a16095031988e2ae50602cd0da8", null ],
-    [ "JustEngagedWith", "d1/d76/a17407.html#a68c6b3012bbb1e7542c9b4db2f596463", null ],
-    [ "KilledUnit", "d1/d76/a17407.html#aa53d57dee3482ac2d186ecfdf4fa232d", null ],
-    [ "Reset", "d1/d76/a17407.html#aa8c392ab5c6463e4061e381d2a6586ab", null ],
-    [ "UpdateAI", "d1/d76/a17407.html#a03d91f53cb716d0ff1a6c8f7e9ecee7a", null ],
-    [ "_hopelessnessCount", "d1/d76/a17407.html#aaf36f9748993381c39b6b26bdfa33dca", null ],
-    [ "_startingFight", "d1/d76/a17407.html#a099280eb7f2b40df3fbecfa9fe35fac4", null ]
+    [ "boss_marwyn", "d1/d76/a17407.html#ad0d7ef02952d4f4a2c8ce1f5099e4bdd", null ],
+    [ "DoAction", "d1/d76/a17407.html#a7bd848b407d33942f05b48b6284506bb", null ],
+    [ "EnterEvadeMode", "d1/d76/a17407.html#a93849e995d62ba5a220e08157d8758fa", null ],
+    [ "JustDied", "d1/d76/a17407.html#a89fd620d0e74675d671cb69cc917d024", null ],
+    [ "JustEngagedWith", "d1/d76/a17407.html#a038ed3e1a8c9f3f3bc7f7eca584ad5cd", null ],
+    [ "KilledUnit", "d1/d76/a17407.html#aad4dd7a1fb79c704c7e59581f938d2e9", null ],
+    [ "Reset", "d1/d76/a17407.html#a0e25c5d894b7e20c6a1781410847c1fa", null ],
+    [ "UpdateAI", "d1/d76/a17407.html#ae8d1b8908983af8bff1f13641472817f", null ],
+    [ "_startingFight", "d1/d76/a17407.html#aee335b57c5249ecd4ce843e0f1694e80", null ]
 ];

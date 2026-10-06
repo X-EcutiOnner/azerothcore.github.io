@@ -1,7 +1,6 @@
 var a24099 =
 [
-    [ "HandleDamage", "dd/d7d/a24099.html#add7e78111217d00bfa3dfa5b3eb490f9", null ],
-    [ "HandleTargets", "dd/d7d/a24099.html#ac9e455d4ef5cc7b7ce424b70b4387c78", null ],
-    [ "PrepareSpellScript", "dd/d7d/a24099.html#a46b62a09ea23cb102b0e5cf075c727d4", null ],
-    [ "Register", "dd/d7d/a24099.html#a8873614ae22c908cb2cf49129fc53be2", null ]
+    [ "HandleDummy", "dd/d7d/a24099.html#a4c1177fc89310598b6ba7cddf7f47cd1", null ],
+    [ "PrepareSpellScript", "dd/d7d/a24099.html#af511bcad63ff423bf04a430f56959f40", null ],
+    [ "Register", "dd/d7d/a24099.html#adaa4fc5294e2b0cb5bcb42f1a93a6f29", null ]
 ];

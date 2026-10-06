@@ -1,6 +1,6 @@
 var a19739 =
 [
-    [ "FilterTargets", "d3/d67/a19739.html#a4d5340e7b2e3326ff36b4d61d1faeaa9", null ],
-    [ "PrepareSpellScript", "d3/d67/a19739.html#a452937a4e95b40366f915213ec475a84", null ],
-    [ "Register", "d3/d67/a19739.html#a883e383928a9b0ad0aeccf7afee4f15e", null ]
+    [ "boss_thaddiusAI", "dc/d1b/a19743.html", "dc/d1b/a19743" ],
+    [ "boss_thaddius", "d3/d67/a19739.html#aff97b030b861feb646e1b22f60ee3605", null ],
+    [ "GetAI", "d3/d67/a19739.html#acf841c6897396f517a74932fc3480e69", null ]
 ];

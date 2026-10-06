@@ -1,6 +1,5 @@
 var a22607 =
 [
-    [ "HandlePeriodicDummy", "d9/d35/a22607.html#a0096e0521c37a4f7f9ab1f2173a807d4", null ],
-    [ "PrepareAuraScript", "d9/d35/a22607.html#ad55ab81c39e8bf53d1e2066bbeefa712", null ],
-    [ "Register", "d9/d35/a22607.html#afeccfe29a0e0f192a4242217f9d4b7e5", null ]
+    [ "achievement_wg_didnt_stand_a_chance", "d9/d35/a22607.html#afb397c74f00d1f5c59a24ef74b0cd1cd", null ],
+    [ "OnCheck", "d9/d35/a22607.html#ae575bae454689e05c161e8480a13fa18", null ]
 ];

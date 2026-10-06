@@ -1,7 +1,7 @@
 var a26683 =
 [
-    [ "CalculateSpellAmount", "de/d62/a26683.html#ae99e08e78cf8192ea2d6210432d7a72d", null ],
-    [ "CheckCast", "de/d62/a26683.html#af043f7ee0f80baf667e64225effd57d1", null ],
-    [ "PrepareSpellScript", "de/d62/a26683.html#a233ac4020722078d865cf980d7fa76cf", null ],
-    [ "Register", "de/d62/a26683.html#a3648ecd94430e21dd014795156c1eb98", null ]
+    [ "AfterRemove", "de/d62/a26683.html#a9dc5ef5c5545fc382e221ca9473ac3bd", null ],
+    [ "PrepareAuraScript", "de/d62/a26683.html#a0fd3e297a66df888f6e30f93b9f60947", null ],
+    [ "Register", "de/d62/a26683.html#a2b1872fa0342e0f530b61fc7a5bf876b", null ],
+    [ "Validate", "de/d62/a26683.html#ae08f33e0271166afa87208faa30684c4", null ]
 ];

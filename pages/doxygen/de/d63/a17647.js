@@ -1,7 +1,6 @@
 var a17647 =
 [
-    [ "HandleEffectPeriodic", "de/d63/a17647.html#a4802c810efd7dd8a9954845366398e7f", null ],
-    [ "PrepareAuraScript", "de/d63/a17647.html#a008166d25e7a278507e953325f40ccd5", null ],
-    [ "Register", "de/d63/a17647.html#ac239d0f42eea59b63c3d31ed275846ea", null ],
-    [ "Validate", "de/d63/a17647.html#a3fc78060f881262c59151b6eb6a943f8", null ]
+    [ "HandleEffectPeriodic", "de/d63/a17647.html#a8a165d3931353fefc2e6a7c7f309150e", null ],
+    [ "PrepareAuraScript", "de/d63/a17647.html#a2de3b6d4e32832ec7ce4548df23d3d5c", null ],
+    [ "Register", "de/d63/a17647.html#a3593ab75583bb5b9b31b29ba2c3cdd76", null ]
 ];

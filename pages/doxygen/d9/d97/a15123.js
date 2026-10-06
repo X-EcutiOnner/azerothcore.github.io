@@ -1,6 +1,8 @@
 var a15123 =
 [
-    [ "HandleDummy", "d9/d97/a15123.html#a5e0797e5af760b618b1498f405766de8", null ],
-    [ "PrepareSpellScript", "d9/d97/a15123.html#a3be664b18a2474857e8a2b199ea93aaf", null ],
-    [ "Register", "d9/d97/a15123.html#a2254e486bda73e07f8327c3412c7852b", null ]
+    [ "CheckCast", "d9/d97/a15123.html#a1e63e7798ab5e55415eb0277f3160fa3", null ],
+    [ "HandleDummy", "d9/d97/a15123.html#ad39da0510c21855dd74abd93f33621c9", null ],
+    [ "PrepareSpellScript", "d9/d97/a15123.html#a727093fec8cc8422cbbaa79d821338c8", null ],
+    [ "Register", "d9/d97/a15123.html#a8cc68fadf4ae20a9de24c75d2f61301f", null ],
+    [ "Validate", "d9/d97/a15123.html#aacd60538c8410fc313a09b1044ad6c7a", null ]
 ];

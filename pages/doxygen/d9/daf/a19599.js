@@ -1,12 +1,7 @@
 var a19599 =
 [
-    [ "npc_gothik_triggerAI", "d9/daf/a19599.html#ae45c6de238755eb069e0c182943da58c", null ],
-    [ "DamageTaken", "d9/daf/a19599.html#ada8e501edfadbb55162532f081a4b48b", null ],
-    [ "EnterEvadeMode", "d9/daf/a19599.html#aae212c3aecdf82f509ed0bf841f16e59", null ],
-    [ "JustEngagedWith", "d9/daf/a19599.html#ab5403383f1fcd539cacf975dffbe2817", null ],
-    [ "JustSummoned", "d9/daf/a19599.html#a35be0135b77a3e62ac8d421910cf0674", null ],
-    [ "SelectRandomSkullPile", "d9/daf/a19599.html#aeafc63047c9059afdf668b8c22d2937f", null ],
-    [ "SpellHit", "d9/daf/a19599.html#a18a8135ab0395991afc4896950783ae5", null ],
-    [ "SummonedCreatureDespawn", "d9/daf/a19599.html#ad7ed092509dd41fddd44a4024c011364", null ],
-    [ "UpdateAI", "d9/daf/a19599.html#a388a20d6d720f5f44a67073fc40e98b6", null ]
+    [ "FilterTargets", "d9/daf/a19599.html#a56ff062a6014099623466145a66284cc", null ],
+    [ "PrepareSpellScript", "d9/daf/a19599.html#aa14623bb948ff457e52979facf74ffab", null ],
+    [ "Register", "d9/daf/a19599.html#a9494bea35088161c9a520395d714fde1", null ],
+    [ "Validate", "d9/daf/a19599.html#a6a02bc1a79a5f4fefe3b1e2900eaf0b4", null ]
 ];

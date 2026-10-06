@@ -1,6 +1,6 @@
 var a01229 =
 [
-    [ "spell_trigger_spell_from_caster", "dc/d39/a19455.html", "dc/d39/a19455" ],
+    [ "spell_trigger_spell_from_caster", "da/d57/a19451.html", "da/d57/a19451" ],
     [ "DataHeader", "db/d1c/a01229.html#a042491ef36459046f3866e90f15aae0d", null ],
     [ "ICCScriptName", "db/d1c/a01229.html#a8ad0adeac0057e9785ab4fce6f4d6697", null ],
     [ "RegisterIcecrownCitadelCreatureAI", "db/d1c/a01229.html#a371fa53b2363b7032c1326ca4717a14f", null ],
@@ -313,6 +313,7 @@ var a01229 =
       [ "DATA_TIME_RING_FAIL", "d2/d2f/a01586.html#afb6eb4f28419b652027fad41104a6d22a4abb3f6d8e6340e60ec7d3c735631bc3", null ],
       [ "DATA_ARENA_MOBS", "d2/d2f/a01586.html#afb6eb4f28419b652027fad41104a6d22ae405a4644ad229ef399425964bcbee9a", null ],
       [ "DATA_ARENA_BOSS", "d2/d2f/a01586.html#afb6eb4f28419b652027fad41104a6d22a6b452f1118390453a0a198a0e77b222b", null ],
+      [ "DATA_PHALANX_ACTIVATED", "d2/d2f/a01586.html#afb6eb4f28419b652027fad41104a6d22a9aed024b657527edf9f6006b8f06992f", null ],
       [ "DATA_HIGHLORD_OMOKK", "d0/da4/a01631.html#afb6eb4f28419b652027fad41104a6d22a29fa1d405bc9731e434075c768473977", null ],
       [ "DATA_SHADOW_HUNTER_VOSHGAJIN", "d0/da4/a01631.html#afb6eb4f28419b652027fad41104a6d22abd19159ba9f15227b78769ce3caa0155", null ],
       [ "DATA_WARMASTER_VOONE", "d0/da4/a01631.html#afb6eb4f28419b652027fad41104a6d22a472ea134fff9835642ba91ae5167b76c", null ],

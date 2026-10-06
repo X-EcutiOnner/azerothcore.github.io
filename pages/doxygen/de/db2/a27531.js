@@ -1,8 +1,6 @@
 var a27531 =
 [
-    [ "AfterApply", "de/db2/a27531.html#a3299de0703ca1e14760e9f33b124ac44", null ],
-    [ "PeriodicTick", "de/db2/a27531.html#a34f2fd8d142083705101f8265297c20e", null ],
-    [ "PrepareAuraScript", "de/db2/a27531.html#a79c80876d5788a20a9f686548b70fd64", null ],
-    [ "Register", "de/db2/a27531.html#a58fc81f4c270a1a8a2ec07a374ced4fd", null ],
-    [ "Validate", "de/db2/a27531.html#a9ec4d4488bce0acfc725d8c04c81ec41", null ]
+    [ "HandleProc", "de/db2/a27531.html#a88c2793fb6043d4d4e970a99df38681a", null ],
+    [ "PrepareAuraScript", "de/db2/a27531.html#aa2b2e8a0b209d96828ad8c5dd84726b6", null ],
+    [ "Register", "de/db2/a27531.html#a9e69ca6fa962ccf17c090243a91b4d51", null ]
 ];

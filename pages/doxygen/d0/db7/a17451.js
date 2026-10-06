@@ -1,10 +1,9 @@
 var a17451 =
 [
-    [ "boss_frostsworn_general", "d0/db7/a17451.html#adae1b1d60e78a33b875ac08312a454cf", null ],
-    [ "EnterEvadeMode", "d0/db7/a17451.html#a20949ffa7c4a308fbcafbdec6602e623", null ],
-    [ "JustDied", "d0/db7/a17451.html#a14741cafce857fa819418ec3208c62fc", null ],
-    [ "JustEngagedWith", "d0/db7/a17451.html#aaeb45f61ee90fc231e893bc83a01e2ff", null ],
-    [ "Reset", "d0/db7/a17451.html#a1576562e5fe2247235b152029aa8edce", null ],
-    [ "UpdateAI", "d0/db7/a17451.html#ab1378c39cdfeccda862a4ccc093ffd97", null ],
-    [ "instance", "d0/db7/a17451.html#ab04347cee4d7542171d622cfde936cb1", null ]
+    [ "npc_hor_spiritual_reflection", "d0/db7/a17451.html#ade6e6c1f32f4353c131fce054d6b94c4", null ],
+    [ "EnterEvadeMode", "d0/db7/a17451.html#a3973e83b013df723849939635071324f", null ],
+    [ "JustDied", "d0/db7/a17451.html#a913d17e1534a5940b7841e38eae246f7", null ],
+    [ "JustEngagedWith", "d0/db7/a17451.html#ad47d12654c88cc94b7c17906e4096115", null ],
+    [ "Reset", "d0/db7/a17451.html#aa7dad28bbe53286ec298ba5480717e69", null ],
+    [ "UpdateAI", "d0/db7/a17451.html#a5093b6502bca95c22b2b0f0117f86047", null ]
 ];

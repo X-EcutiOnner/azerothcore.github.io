@@ -1,8 +1,6 @@
 var a17347 =
 [
-    [ "npc_fos_corrupted_soul_fragment", "d7/d85/a17347.html#a1fef6c180e9fc6e8d8d316d45b5066f9", null ],
-    [ "Reset", "d7/d85/a17347.html#ad318f80454cf17b2b9d39a02a83e6e92", null ],
-    [ "UpdateAI", "d7/d85/a17347.html#a8dd94bd36392c75c4971aa50b83a5ada", null ],
-    [ "Instance", "d7/d85/a17347.html#a34d1912b83f9da8335ab3e7d527e5e01", null ],
-    [ "Timer", "d7/d85/a17347.html#a82a7ce4a8d07e7d4dab30d4f11aeb006", null ]
+    [ "PrepareSpellScript", "d7/d85/a17347.html#a5ed268ac2642b2df3c5eb1dc93a675fc", null ],
+    [ "RecalculateDamage", "d7/d85/a17347.html#a3fae6ceaa67716004c664dd40a4679ed", null ],
+    [ "Register", "d7/d85/a17347.html#a1a740e697fc84f5f035f2ec251872009", null ]
 ];

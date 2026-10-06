@@ -1,7 +1,6 @@
 var a18799 =
 [
-    [ "CheckTargetCount", "d1/d59/a18799.html#a637ba0717ae0f6f736f5532ed65ca301", null ],
-    [ "PrepareSpellScript", "d1/d59/a18799.html#af560e5c4e985e9b139999f5ef618fe3c", null ],
-    [ "Register", "d1/d59/a18799.html#a86e7512496fd38201d458c03a7a60296", null ],
-    [ "Validate", "d1/d59/a18799.html#a744c4aa76387be4aa76a69fbcaa7932e", null ]
+    [ "npc_icc_ice_sphereAI", "da/d1a/a18803.html", "da/d1a/a18803" ],
+    [ "npc_icc_ice_sphere", "d1/d59/a18799.html#a4ed169ba87e801bb83ca4f3c457534cf", null ],
+    [ "GetAI", "d1/d59/a18799.html#aabb9ef14ea217f282173edf1600d3ecd", null ]
 ];

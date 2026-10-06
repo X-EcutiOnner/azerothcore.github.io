@@ -1,4 +1,6 @@
 var a15539 =
 [
-    [ "instance_ragefire_chasm_InstanceMapScript", "dc/d06/a15539.html#a4b55a59943c798b203a0a3c811588e7d", null ]
+    [ "instance_razorfen_downs_InstanceMapScript", "d9/df2/a15543.html", "d9/df2/a15543" ],
+    [ "instance_razorfen_downs", "dc/d06/a15539.html#a317e5e4ce45fd88c657b8032b377ffb7", null ],
+    [ "GetInstanceScript", "dc/d06/a15539.html#a5010fc2704c3c699e39bf969f6f6ce2c", null ]
 ];

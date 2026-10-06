@@ -1,9 +1,6 @@
 var a22467 =
 [
-    [ "HandlePeriodic", "d9/d64/a22467.html#a3d9ef90ec1ddebe2b2f3dd3a8b9eb25a", null ],
-    [ "Load", "d9/d64/a22467.html#af5ed9dda3b2a2fd208fdc32de414c28a", null ],
-    [ "PrepareAuraScript", "d9/d64/a22467.html#a1057e5262d413149a023bc904a3c3751", null ],
-    [ "Register", "d9/d64/a22467.html#a47b9665b84742fd8cbb4e422d667b2ac", null ],
-    [ "Validate", "d9/d64/a22467.html#a85d7ac258d50f690574ad7656256cd05", null ],
-    [ "_counter", "d9/d64/a22467.html#a855bb93d5d9c5d8a9d06cfbb16d8d814", null ]
+    [ "npc_vehicle_d16_propelled_deliveryAI", "dc/d80/a22471.html", "dc/d80/a22471" ],
+    [ "npc_vehicle_d16_propelled_delivery", "d9/d64/a22467.html#a93bed362ae78231b21327994a3e4cafd", null ],
+    [ "GetAI", "d9/d64/a22467.html#abda3dbcb251d7f1e614d089f630d0d1c", null ]
 ];

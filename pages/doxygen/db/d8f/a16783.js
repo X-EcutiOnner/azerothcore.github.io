@@ -1,11 +1,7 @@
 var a16783 =
 [
-    [ "boss_saviana_ragefireAI", "db/d8f/a16783.html#ab4fa6a2cc57c9d110bfd3cf16a016942", null ],
-    [ "JustDied", "db/d8f/a16783.html#a30331f9cdb141cd2dbc043888b48a6eb", null ],
-    [ "JustEngagedWith", "db/d8f/a16783.html#a458eb370872c20441b5ec6ecd2c97500", null ],
-    [ "JustReachedHome", "db/d8f/a16783.html#a74abf893a37874eb98aa5ba9883e8d62", null ],
-    [ "KilledUnit", "db/d8f/a16783.html#ac07513681c72d6748246cc7c349d117c", null ],
-    [ "MovementInform", "db/d8f/a16783.html#aed4c70f571586c8cbcc044c01bdc472d", null ],
-    [ "Reset", "db/d8f/a16783.html#a4b7f103331c566cbf007a075161505af", null ],
-    [ "UpdateAI", "db/d8f/a16783.html#af36ca2a359f950a10214d07aad240324", null ]
+    [ "HandleDummy", "db/d8f/a16783.html#a687cff5dcfcd7d9253182eb604d7a780", null ],
+    [ "PrepareSpellScript", "db/d8f/a16783.html#ab8544e2c9e3bea229abd270c108bfa14", null ],
+    [ "Register", "db/d8f/a16783.html#a144224b42aabc0402b729dcc808d779d", null ],
+    [ "Validate", "db/d8f/a16783.html#a985e843e856a7322bccf8544c45df48c", null ]
 ];

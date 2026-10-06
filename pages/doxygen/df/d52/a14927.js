@@ -1,6 +1,5 @@
 var a14927 =
 [
-    [ "npc_grizzlemaw_cw_triggerAI", "d7/d0d/a14931.html", "d7/d0d/a14931" ],
-    [ "npc_grizzlemaw_cw_trigger", "df/d52/a14927.html#a4514796784d974ba6de09b5a5d4e5f3b", null ],
-    [ "GetAI", "df/d52/a14927.html#a1a834bda866033a3cca4fc4ece447313", null ]
+    [ "npc_grizzlemaw_cw_triggerAI", "df/d52/a14927.html#a40207493c75d8a63284e08f1f75d56c4", null ],
+    [ "MoveInLineOfSight", "df/d52/a14927.html#aef49ccdae1aff20fc469f0aa2663d8af", null ]
 ];

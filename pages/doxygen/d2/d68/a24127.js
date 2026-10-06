@@ -1,6 +1,6 @@
 var a24127 =
 [
-    [ "instance_mechanar_InstanceMapScript", "d0/de2/a24131.html", "d0/de2/a24131" ],
-    [ "instance_mechanar", "d2/d68/a24127.html#ab31a66a0eb8b9ac6f79af479528ff4fd", null ],
-    [ "GetInstanceScript", "d2/d68/a24127.html#ae8e9810a9bfd6b0ec256dd6a288392ed", null ]
+    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "d0/de2/a24131.html", "d0/de2/a24131" ],
+    [ "npc_deaths_door_fell_cannon_target_bunny", "d2/d68/a24127.html#a1385e50777282fae0c8f8ca2f9f8a3e6", null ],
+    [ "GetAI", "d2/d68/a24127.html#a250707096229da28024960beeb7725bf", null ]
 ];

@@ -1,5 +1,5 @@
 var a19311 =
 [
-    [ "at_icc_saurfang_portal", "d3/d37/a19311.html#a7f30058251c520634a0b7bad08380e5d", null ],
-    [ "OnTrigger", "d3/d37/a19311.html#a8980fe0e67aa33335f0fdb947a294213", null ]
+    [ "at_icc_shutdown_traps", "d3/d37/a19311.html#aa13f5d78d3032e8114e9978f42468f64", null ],
+    [ "OnTrigger", "d3/d37/a19311.html#abb31b3f6d0b159b625d731ac47127005", null ]
 ];

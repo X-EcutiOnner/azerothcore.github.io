@@ -1,8 +1,9 @@
 var a22459 =
 [
-    [ "npc_freed_protodrakeAI", "db/d6c/a22459.html#a9e80808035be749c87a1170f37ac3daf", null ],
-    [ "MovementInform", "db/d6c/a22459.html#af056f3c12a314acd8a7e8c6c381b9436", null ],
-    [ "Reset", "db/d6c/a22459.html#ab5781438300442bb7bcb4510aec9d233", null ],
-    [ "UpdateAI", "db/d6c/a22459.html#a9e83b133444e977c35e90b700149472c", null ],
-    [ "events", "db/d6c/a22459.html#ac2e34b9a53ff55d177327ec95dca5466", null ]
+    [ "HandlePeriodic", "db/d6c/a22459.html#a3d9ef90ec1ddebe2b2f3dd3a8b9eb25a", null ],
+    [ "Load", "db/d6c/a22459.html#af5ed9dda3b2a2fd208fdc32de414c28a", null ],
+    [ "PrepareAuraScript", "db/d6c/a22459.html#a1057e5262d413149a023bc904a3c3751", null ],
+    [ "Register", "db/d6c/a22459.html#a47b9665b84742fd8cbb4e422d667b2ac", null ],
+    [ "Validate", "db/d6c/a22459.html#a85d7ac258d50f690574ad7656256cd05", null ],
+    [ "_counter", "db/d6c/a22459.html#a855bb93d5d9c5d8a9d06cfbb16d8d814", null ]
 ];

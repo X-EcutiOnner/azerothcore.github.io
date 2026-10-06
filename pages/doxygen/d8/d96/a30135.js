@@ -1,9 +1,18 @@
 var a30135 =
 [
-    [ "defaultHitMask", "d8/d96/a30135.html#a1b72ebb54d9b7e2543dd41779978fa70", null ],
-    [ "defaultSpellPhaseMask", "d8/d96/a30135.html#af927bd441959e8e122648de610398c65", null ],
-    [ "defaultSpellTypeMask", "d8/d96/a30135.html#aa64e6ad192c41998b368b908c499574d", null ],
-    [ "name", "d8/d96/a30135.html#a3916a9a0f1cb0b599b35619c1a89f6eb", null ],
-    [ "procFlag", "d8/d96/a30135.html#ab9d59a0be623f0d7e732ed2974178d88", null ],
-    [ "requiresSpellPhase", "d8/d96/a30135.html#a37a3ef1c3b19cf7a7ff70a0ca09bfcd9", null ]
+    [ "CreateEventInfo", "d8/d96/a30135.html#a34bc192406fd9f489e57a7ad6e5aab6d", null ],
+    [ "FindMatchingScenario", "d8/d96/a30135.html#a9b31d6d9880ee54a17df6fb57f334396", null ],
+    [ "GetEffectiveHitMask", "d8/d96/a30135.html#a1a2a08ffb1b7750d8292d70baa22109d", null ],
+    [ "GetEffectiveSpellPhaseMask", "d8/d96/a30135.html#a84919c55f1ea5a3318982fe73e39c6f1", null ],
+    [ "GetEffectiveSpellTypeMask", "d8/d96/a30135.html#aada93a604c8e7f4b5a9d0c62fb134784", null ],
+    [ "IsSpellTypeProc", "d8/d96/a30135.html#afe8b7929c8489d9c19bbfef2daaa0e9a", null ],
+    [ "RequiresSpellFamilyMatch", "d8/d96/a30135.html#a483394c3827b435220ff73a22b202cbd", null ],
+    [ "SetUp", "d8/d96/a30135.html#a97a6a44cf781708f376088b8d755e51e", null ],
+    [ "TearDown", "d8/d96/a30135.html#aa7cf1e7c860169791235a8c83079b7c3", null ],
+    [ "_allEntries", "d8/d96/a30135.html#a863fca9ea018277f0f70f074cc5cbee0", null ],
+    [ "_damageInfo", "d8/d96/a30135.html#a79d9c97408a50b436bff5466b20de7fe", null ],
+    [ "_defaultSpellInfo", "d8/d96/a30135.html#affaa8e236d7ba203b1f2077ffbcad0c4", null ],
+    [ "_healInfo", "d8/d96/a30135.html#a3495fb2c09817a1605e46de9b5ab4a5a", null ],
+    [ "_originalWorld", "d8/d96/a30135.html#a1616643b4020ac84e039f96a535d3a7f", null ],
+    [ "_worldMock", "d8/d96/a30135.html#a5d64d7a5be1af3d13d67fd7ce82f7d58", null ]
 ];

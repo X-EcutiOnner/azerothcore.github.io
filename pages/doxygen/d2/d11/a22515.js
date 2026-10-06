@@ -1,7 +1,7 @@
 var a22515 =
 [
-    [ "OnApply", "d2/d11/a22515.html#ad026db5f19c376d9a87f7a1554502809", null ],
-    [ "OnRemove", "d2/d11/a22515.html#a0264c6f6f41da3644a803265399f1d82", null ],
-    [ "PrepareAuraScript", "d2/d11/a22515.html#ab5d21484b078aee6eeff3738ef7c5a10", null ],
-    [ "Register", "d2/d11/a22515.html#ae9822fa0f191ac4eeca1061c22abf319", null ]
+    [ "HandleDummy", "d2/d11/a22515.html#aac2e8e5e00bf25846f36f920acf98dca", null ],
+    [ "PrepareAuraScript", "d2/d11/a22515.html#aefda37f79ba45361ad91bd79f4e8a486", null ],
+    [ "Register", "d2/d11/a22515.html#a446c71ed3f5fa2ce653148f9567fd199", null ],
+    [ "Validate", "d2/d11/a22515.html#a1a2a6547d994cdd8b375a45226b7c36f", null ]
 ];

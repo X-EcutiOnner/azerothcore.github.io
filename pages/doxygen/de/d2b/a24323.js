@@ -1,7 +1,6 @@
 var a24323 =
 [
-    [ "HandleScriptEffect", "de/d2b/a24323.html#ad018d907a85ee31d3194823a4c02a1a5", null ],
-    [ "PrepareSpellScript", "de/d2b/a24323.html#a50b6bc43eaeee0ec760c02ac1685454e", null ],
-    [ "Register", "de/d2b/a24323.html#a2096673a3f57cc224aeb7d3ce84526cb", null ],
-    [ "Validate", "de/d2b/a24323.html#a5209de3456c374010502a94f67ff4544", null ]
+    [ "npc_invis_infernal_casterAI", "d0/dac/a24327.html", "d0/dac/a24327" ],
+    [ "npc_invis_infernal_caster", "de/d2b/a24323.html#a9aed081ef904075830428bbc76f53874", null ],
+    [ "GetAI", "de/d2b/a24323.html#aede0c5cc390ea423169b1cba66d929cd", null ]
 ];

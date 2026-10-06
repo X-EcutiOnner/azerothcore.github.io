@@ -1,6 +1,7 @@
 var a15659 =
 [
-    [ "FilterTargets", "d1/d30/a15659.html#ab0cd088c750e9538e2087f58fdaac20e", null ],
-    [ "PrepareSpellScript", "d1/d30/a15659.html#ae252cbce0ebc63eb4e54bedfc88640ad", null ],
-    [ "Register", "d1/d30/a15659.html#a3168a3f97ddb38b261a0730405ba27db", null ]
+    [ "boss_rajaxx", "d1/d30/a15659.html#afca05f7afabb4c0e181ce3757acb3bcb", null ],
+    [ "JustDied", "d1/d30/a15659.html#a9231a20150ed6eae0cbc79c8386f7371", null ],
+    [ "JustEngagedWith", "d1/d30/a15659.html#a8dad79921559359b6aa7149641925fe5", null ],
+    [ "UpdateAI", "d1/d30/a15659.html#a9b949bea61ceb45ec1b3e452f218c227", null ]
 ];

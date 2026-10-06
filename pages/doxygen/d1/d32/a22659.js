@@ -1,5 +1,6 @@
 var a22659 =
 [
-    [ "go_scourge_enclosure", "d1/d32/a22659.html#a3611232cb735f336087d4d3c90f66b8d", null ],
-    [ "OnGossipHello", "d1/d32/a22659.html#af505dd0a5d9224cd7586878d1fbd3351", null ]
+    [ "FilterTargets", "d1/d32/a22659.html#a4d81860c41daab44851da605d38b4753", null ],
+    [ "PrepareSpellScript", "d1/d32/a22659.html#a99a7b95b1cf5835aeebe85f398f6e9a4", null ],
+    [ "Register", "d1/d32/a22659.html#a80baaf9b470d7bd5e91dffb3f0442a57", null ]
 ];

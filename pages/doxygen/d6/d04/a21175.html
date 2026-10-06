@@ -318,19 +318,19 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2604</span>    {</div>
-<div class="line"><span class="lineno"> 2605</span>        <a class="code hl_class" href="../../d9/d33/a09227.html">Unit</a>* caster = <a class="code hl_function" href="../../d6/dfd/a12103.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>();</div>
-<div class="line"><span class="lineno"> 2606</span>        <span class="comment">// 64168 inherits SPELL_ATTR2_IGNORE_LINE_OF_SIGHT from the aura triggering it, so the illusion room walls have to be checked here</span></div>
-<div class="line"><span class="lineno"> 2607</span>        <span class="keywordtype">bool</span> ignoreLos = <a class="code hl_function" href="../../d6/dfd/a12103.html#a3fa31d3b29c52993d3561fad3cd12af3">GetSpellInfo</a>()-&gt;<a class="code hl_function" href="../../dc/da4/a12023.html#a975746d6b737abb063ea037327abfc5a">HasAttribute</a>(<a class="code hl_enumvalue" href="../../d4/d81/a00110.html#a583cc1b9a8909370e4d51a890d897668ae6f285b2042f990335ebcc501c5f2c82">SPELL_ATTR2_IGNORE_LINE_OF_SIGHT</a>);</div>
-<div class="line"><span class="lineno"> 2608</span> </div>
-<div class="line"><span class="lineno"> 2609</span>        targets.remove_if([caster, ignoreLos](<a class="code hl_class" href="../../d4/d08/a08883.html">WorldObject</a>* target)</div>
-<div class="line"><span class="lineno"> 2610</span>        {</div>
-<div class="line"><span class="lineno"> 2611</span>            <span class="keywordflow">if</span> (!target-&gt;<a class="code hl_function" href="../../d7/dc3/a08931.html#ac3e33df0464e0203a3b8f6b7d2ed9a62">HasInArc</a>(M_PI, caster))</div>
-<div class="line"><span class="lineno"> 2612</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno"> 2613</span> </div>
-<div class="line"><span class="lineno"> 2614</span>            <span class="keywordflow">return</span> !ignoreLos &amp;&amp; !caster-&gt;<a class="code hl_function" href="../../d4/d08/a08883.html#a64f76cf543cb4851cb271bb7d2facaf2">IsWithinLOSInMap</a>(target, <a class="code hl_enumvalue" href="../../d8/d2c/a05128.html#a6996c44f3ac72cd9dc04515186d2da28a9d8322530b67e2366e5b1ba67081ded9">VMAP::ModelIgnoreFlags::M2</a>);</div>
-<div class="line"><span class="lineno"> 2615</span>        });</div>
-<div class="line"><span class="lineno"> 2616</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2603</span>    {</div>
+<div class="line"><span class="lineno"> 2604</span>        <a class="code hl_class" href="../../d9/d33/a09227.html">Unit</a>* caster = <a class="code hl_function" href="../../d6/dfd/a12103.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>();</div>
+<div class="line"><span class="lineno"> 2605</span>        <span class="comment">// 64168 inherits SPELL_ATTR2_IGNORE_LINE_OF_SIGHT from the aura triggering it, so the illusion room walls have to be checked here</span></div>
+<div class="line"><span class="lineno"> 2606</span>        <span class="keywordtype">bool</span> ignoreLos = <a class="code hl_function" href="../../d6/dfd/a12103.html#a3fa31d3b29c52993d3561fad3cd12af3">GetSpellInfo</a>()-&gt;<a class="code hl_function" href="../../dc/da4/a12023.html#a975746d6b737abb063ea037327abfc5a">HasAttribute</a>(<a class="code hl_enumvalue" href="../../d4/d81/a00110.html#a583cc1b9a8909370e4d51a890d897668ae6f285b2042f990335ebcc501c5f2c82">SPELL_ATTR2_IGNORE_LINE_OF_SIGHT</a>);</div>
+<div class="line"><span class="lineno"> 2607</span> </div>
+<div class="line"><span class="lineno"> 2608</span>        targets.remove_if([caster, ignoreLos](<a class="code hl_class" href="../../d4/d08/a08883.html">WorldObject</a>* target)</div>
+<div class="line"><span class="lineno"> 2609</span>        {</div>
+<div class="line"><span class="lineno"> 2610</span>            <span class="keywordflow">if</span> (!target-&gt;<a class="code hl_function" href="../../d7/dc3/a08931.html#ac3e33df0464e0203a3b8f6b7d2ed9a62">HasInArc</a>(M_PI, caster))</div>
+<div class="line"><span class="lineno"> 2611</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 2612</span> </div>
+<div class="line"><span class="lineno"> 2613</span>            <span class="keywordflow">return</span> !ignoreLos &amp;&amp; !caster-&gt;<a class="code hl_function" href="../../d4/d08/a08883.html#a64f76cf543cb4851cb271bb7d2facaf2">IsWithinLOSInMap</a>(target, <a class="code hl_enumvalue" href="../../d8/d2c/a05128.html#a6996c44f3ac72cd9dc04515186d2da28a9d8322530b67e2366e5b1ba67081ded9">VMAP::ModelIgnoreFlags::M2</a>);</div>
+<div class="line"><span class="lineno"> 2614</span>        });</div>
+<div class="line"><span class="lineno"> 2615</span>    }</div>
 <div class="ttc" id="aa00110_html_a583cc1b9a8909370e4d51a890d897668ae6f285b2042f990335ebcc501c5f2c82"><div class="ttname"><a href="../../d4/d81/a00110.html#a583cc1b9a8909370e4d51a890d897668ae6f285b2042f990335ebcc501c5f2c82">SPELL_ATTR2_IGNORE_LINE_OF_SIGHT</a></div><div class="ttdeci">@ SPELL_ATTR2_IGNORE_LINE_OF_SIGHT</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:446</div></div>
 <div class="ttc" id="aa05128_html_a6996c44f3ac72cd9dc04515186d2da28a9d8322530b67e2366e5b1ba67081ded9"><div class="ttname"><a href="../../d8/d2c/a05128.html#a6996c44f3ac72cd9dc04515186d2da28a9d8322530b67e2366e5b1ba67081ded9">VMAP::ModelIgnoreFlags::M2</a></div><div class="ttdeci">@ M2</div></div>
 <div class="ttc" id="aa08883_html"><div class="ttname"><a href="../../d4/d08/a08883.html">WorldObject</a></div><div class="ttdef"><b>Definition:</b> Object.h:482</div></div>
@@ -343,7 +343,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l00416">SpellScript::GetSpellInfo()</a>, <a class="el" href="../../#l00441">SpellInfo::HasAttribute()</a>, <a class="el" href="../../#l00148">Position::HasInArc()</a>, <a class="el" href="../../#l01412">WorldObject::IsWithinLOSInMap()</a>, <a class="el" href="../../d8/d2c/a05128.html#a6996c44f3ac72cd9dc04515186d2da28a9d8322530b67e2366e5b1ba67081ded9">VMAP::M2</a>, and <a class="el" href="../../#l00446">SPELL_ATTR2_IGNORE_LINE_OF_SIGHT</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02618">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02617">Register()</a>.</p>
 
 </div>
 </div>
@@ -397,16 +397,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../df/d22/a12087.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2619</span>    {</div>
-<div class="line"><span class="lineno"> 2620</span>        <a class="code hl_variable" href="../../d6/dfd/a12103.html#af74f730c6dacd310a78036be6b7cc6b7">OnObjectAreaTargetSelect</a> += <a class="code hl_define" href="../../d8/da6/a02696.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a>(<a class="code hl_function" href="../../d6/d04/a21175.html#a7efa78a7991b7ca859c7d622f973265d">spell_yogg_saron_lunatic_gaze::FilterTargets</a>, <a class="code hl_define" href="../../d4/d81/a00110.html#ac97ba74f30438a8b51ce05c9de303cd7">EFFECT_ALL</a>, <a class="code hl_enumvalue" href="../../d4/d81/a00110.html#a418aed4e4066eb09ab979b5d78dc9152a7b8c7cf5819db17b9ed16dfbb93addb4">TARGET_UNIT_SRC_AREA_ENEMY</a>);</div>
-<div class="line"><span class="lineno"> 2621</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2618</span>    {</div>
+<div class="line"><span class="lineno"> 2619</span>        <a class="code hl_variable" href="../../d6/dfd/a12103.html#af74f730c6dacd310a78036be6b7cc6b7">OnObjectAreaTargetSelect</a> += <a class="code hl_define" href="../../d8/da6/a02696.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a>(<a class="code hl_function" href="../../d6/d04/a21175.html#a7efa78a7991b7ca859c7d622f973265d">spell_yogg_saron_lunatic_gaze::FilterTargets</a>, <a class="code hl_define" href="../../d4/d81/a00110.html#ac97ba74f30438a8b51ce05c9de303cd7">EFFECT_ALL</a>, <a class="code hl_enumvalue" href="../../d4/d81/a00110.html#a418aed4e4066eb09ab979b5d78dc9152a7b8c7cf5819db17b9ed16dfbb93addb4">TARGET_UNIT_SRC_AREA_ENEMY</a>);</div>
+<div class="line"><span class="lineno"> 2620</span>    }</div>
 <div class="ttc" id="aa00110_html_a418aed4e4066eb09ab979b5d78dc9152a7b8c7cf5819db17b9ed16dfbb93addb4"><div class="ttname"><a href="../../d4/d81/a00110.html#a418aed4e4066eb09ab979b5d78dc9152a7b8c7cf5819db17b9ed16dfbb93addb4">TARGET_UNIT_SRC_AREA_ENEMY</a></div><div class="ttdeci">@ TARGET_UNIT_SRC_AREA_ENEMY</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1424</div></div>
 <div class="ttc" id="aa00110_html_ac97ba74f30438a8b51ce05c9de303cd7"><div class="ttname"><a href="../../d4/d81/a00110.html#ac97ba74f30438a8b51ce05c9de303cd7">EFFECT_ALL</a></div><div class="ttdeci">#define EFFECT_ALL</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:38</div></div>
 <div class="ttc" id="aa02696_html_a623f49512c3d12eceb55ca05cd53c4f2"><div class="ttname"><a href="../../d8/da6/a02696.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a></div><div class="ttdeci">#define SpellObjectAreaTargetSelectFn(F, I, N)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:354</div></div>
 <div class="ttc" id="aa12103_html_af74f730c6dacd310a78036be6b7cc6b7"><div class="ttname"><a href="../../d6/dfd/a12103.html#af74f730c6dacd310a78036be6b7cc6b7">SpellScript::OnObjectAreaTargetSelect</a></div><div class="ttdeci">HookList&lt; ObjectAreaTargetSelectHandler &gt; OnObjectAreaTargetSelect</div><div class="ttdef"><b>Definition:</b> SpellScript.h:353</div></div>
-<div class="ttc" id="aa21175_html_a7efa78a7991b7ca859c7d622f973265d"><div class="ttname"><a href="../../d6/d04/a21175.html#a7efa78a7991b7ca859c7d622f973265d">spell_yogg_saron_lunatic_gaze::FilterTargets</a></div><div class="ttdeci">void FilterTargets(std::list&lt; WorldObject * &gt; &amp;targets)</div><div class="ttdef"><b>Definition:</b> boss_yoggsaron.cpp:2603</div></div>
+<div class="ttc" id="aa21175_html_a7efa78a7991b7ca859c7d622f973265d"><div class="ttname"><a href="../../d6/d04/a21175.html#a7efa78a7991b7ca859c7d622f973265d">spell_yogg_saron_lunatic_gaze::FilterTargets</a></div><div class="ttdeci">void FilterTargets(std::list&lt; WorldObject * &gt; &amp;targets)</div><div class="ttdef"><b>Definition:</b> boss_yoggsaron.cpp:2602</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00038">EFFECT_ALL</a>, <a class="el" href="../../#l02603">FilterTargets()</a>, <a class="el" href="../../#l00353">SpellScript::OnObjectAreaTargetSelect</a>, <a class="el" href="../../#l00354">SpellObjectAreaTargetSelectFn</a>, and <a class="el" href="../../#l01424">TARGET_UNIT_SRC_AREA_ENEMY</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00038">EFFECT_ALL</a>, <a class="el" href="../../#l02602">FilterTargets()</a>, <a class="el" href="../../#l00353">SpellScript::OnObjectAreaTargetSelect</a>, <a class="el" href="../../#l00354">SpellObjectAreaTargetSelectFn</a>, and <a class="el" href="../../#l01424">TARGET_UNIT_SRC_AREA_ENEMY</a>.</p>
 
 </div>
 </div>
@@ -416,7 +416,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d6/d04/a21175.html">spell_yogg_saron_lunatic_gaze</a></li>
-    <li class="footer">Generated on Tue Sep 29 2026 01:14:11 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Tue Oct 6 2026 01:27:15 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

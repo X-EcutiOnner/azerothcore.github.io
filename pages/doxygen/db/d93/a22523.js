@@ -1,7 +1,8 @@
 var a22523 =
 [
-    [ "HandleDummy", "db/d93/a22523.html#aac2e8e5e00bf25846f36f920acf98dca", null ],
-    [ "PrepareAuraScript", "db/d93/a22523.html#aefda37f79ba45361ad91bd79f4e8a486", null ],
-    [ "Register", "db/d93/a22523.html#a446c71ed3f5fa2ce653148f9567fd199", null ],
-    [ "Validate", "db/d93/a22523.html#a1a2a6547d994cdd8b375a45226b7c36f", null ]
+    [ "npc_oathbound_warder", "db/d93/a22523.html#af4e56bd77dc1c12e795736f117a9b7f1", null ],
+    [ "AttackStart", "db/d93/a22523.html#afa3e523d3c4b7659df3d06be11eea7e4", null ],
+    [ "InitializeAI", "db/d93/a22523.html#a62c4c568ad615013afa46c7da84d057a", null ],
+    [ "JustEngagedWith", "db/d93/a22523.html#af5c0cb0f8cd8bf5a77bf7460dc576a6f", null ],
+    [ "UpdateAI", "db/d93/a22523.html#a2e97b16356a6aec04c7c0b1a2d872070", null ]
 ];

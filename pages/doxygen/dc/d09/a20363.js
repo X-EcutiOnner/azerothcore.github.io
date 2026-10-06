@@ -1,7 +1,6 @@
 var a20363 =
 [
-    [ "boss_flame_leviathan_safety_container", "dc/d09/a20363.html#a4519a6bf9c96ff13df4ae019b02f3593", null ],
-    [ "MovementInform", "dc/d09/a20363.html#a42842de299fd9346cc0d61b649b652a4", null ],
-    [ "UpdateAI", "dc/d09/a20363.html#a55119d077f905a8207ad2afbe31f17a4", null ],
-    [ "_allowTimer", "dc/d09/a20363.html#a70134398c054c837407d6a22591a2d96", null ]
+    [ "npc_salvaged_chopper", "dc/d09/a20363.html#ad2d875ba3e7de8e44213cd8fdf383df0", null ],
+    [ "PassengerBoarded", "dc/d09/a20363.html#a12e63e4a2ce543293a398bfe3e9635ad", null ],
+    [ "SwapActionButton", "dc/d09/a20363.html#afe67864f4315ad1fa876572c840cc190", null ]
 ];

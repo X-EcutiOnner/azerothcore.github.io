@@ -1,8 +1,8 @@
 var a16283 =
 [
-    [ "npc_paoka_swiftmountainAI", "d7/ddf/a16283.html#a92a229f76de3bc46ae14910439db0004", null ],
-    [ "DoSpawnWyvern", "d7/ddf/a16283.html#a7997a3d398db82c205e3a8af77ac1684", null ],
-    [ "Reset", "d7/ddf/a16283.html#acae0427957aba04a54e6001823bc7eb4", null ],
-    [ "WaypointReached", "d7/ddf/a16283.html#a262781c90fe1b5a5af2c6f94e4cc52e2", null ],
-    [ "WaypointReached", "d7/ddf/a16283.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "npc_pluckyAI", "dd/ddd/a16287.html", "dd/ddd/a16287" ],
+    [ "npc_plucky", "d7/ddf/a16283.html#a86bb2992b8af5893987145117aaf3608", null ],
+    [ "GetAI", "d7/ddf/a16283.html#a51e73f4e1f618aee5a000e31328efefc", null ],
+    [ "OnGossipHello", "d7/ddf/a16283.html#a3443f3e8c2b3fcc96955ab2e55e7fd61", null ],
+    [ "OnGossipSelect", "d7/ddf/a16283.html#a88fa465246b4c657b921ebdc96f7a112", null ]
 ];

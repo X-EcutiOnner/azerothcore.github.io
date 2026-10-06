@@ -1,7 +1,7 @@
 var a02096 =
 [
-    [ "npcs_riverbreeze_and_silversky", "d0/dd6/a16087.html", "d0/dd6/a16087" ],
-    [ "at_ancient_leaf", "d5/da2/a16091.html", "d5/da2/a16091" ],
+    [ "npcs_riverbreeze_and_silversky", "d3/d35/a16083.html", "d3/d35/a16083" ],
+    [ "at_ancient_leaf", "d0/dd6/a16087.html", "d0/dd6/a16087" ],
     [ "AncientMisc", "dd/d77/a02096.html#adaffe09a7c2b9f9bfdc48d5068c18068", [
       [ "QUEST_ANCIENT_LEAF", "dd/d77/a02096.html#adaffe09a7c2b9f9bfdc48d5068c18068aa825be5f41ad67f6007d3509e9bb87e3", null ],
       [ "NPC_VARTRUS", "dd/d77/a02096.html#adaffe09a7c2b9f9bfdc48d5068c18068aa3648d60ebaeb2cef5c0578018150e99", null ],

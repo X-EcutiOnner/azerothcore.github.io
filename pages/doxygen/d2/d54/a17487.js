@@ -1,7 +1,5 @@
 var a17487 =
 [
-    [ "HandleEffectPeriodic", "d2/d54/a17487.html#aaefcf8ace7c109648c9220fb0ff9d4de", null ],
-    [ "PrepareAuraScript", "d2/d54/a17487.html#ae0ccb7d4566777e52b71e99a908d13fa", null ],
-    [ "Register", "d2/d54/a17487.html#a73e8ef9dbd3dd3dc332d4b3a2eb2c5ea", null ],
-    [ "Validate", "d2/d54/a17487.html#ab3fcbe5386e9529824228e8f3b6be797", null ]
+    [ "at_hor_battered_hilt_start", "d2/d54/a17487.html#a1b9e6d892525cf28d71757f7861e1d1a", null ],
+    [ "OnTrigger", "d2/d54/a17487.html#a5d2d0a05b17dafe7ebb5447cfd168f69", null ]
 ];

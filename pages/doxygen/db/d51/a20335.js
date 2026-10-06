@@ -1,11 +1,9 @@
 var a20335 =
 [
-    [ "npc_freya_ward", "db/d51/a20335.html#aeb5b3a3495622b05faf41d2ec0a82e3f", null ],
-    [ "DoAction", "db/d51/a20335.html#ac52ff5e24ff5361808fce4d8d1574ada", null ],
-    [ "JustSummoned", "db/d51/a20335.html#a71cd4c583a1f33168d12bbe473d0482e", null ],
-    [ "Reset", "db/d51/a20335.html#a134ff84f2cfa3a00cdd6158da6641369", null ],
-    [ "SummonedCreatureDespawn", "db/d51/a20335.html#a20fde559565c47f4451581e5d1a61e99", null ],
-    [ "UpdateAI", "db/d51/a20335.html#a62122abe02ae9351617eb3af9e36e88e", null ],
-    [ "_castTimer", "db/d51/a20335.html#afe313ebbc5c711183a9e623d8213ae64", null ],
-    [ "summons", "db/d51/a20335.html#abf3d2443c9badc35097b6e5c818f1c88", null ]
+    [ "npc_freya_ward_summon", "db/d51/a20335.html#ad88b954bbbb68988915ec165ccb0a3dd", null ],
+    [ "CanAIAttack", "db/d51/a20335.html#a6b91ab899f11e3d6f9907b73476fa61f", null ],
+    [ "IsSummonedBy", "db/d51/a20335.html#ab6c7cab698470dafd14a0ed2ddd94eca", null ],
+    [ "JustEngagedWith", "db/d51/a20335.html#a52ca4242be249900f94d918dbc4df6c3", null ],
+    [ "Reset", "db/d51/a20335.html#ae2e600ad8cae543bdb4b7f7b9c4c626a", null ],
+    [ "UpdateAI", "db/d51/a20335.html#a175d2ca7a28ab998860fdce324c48c7e", null ]
 ];

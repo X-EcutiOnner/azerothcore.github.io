@@ -1,13 +1,6 @@
 var a23319 =
 [
-    [ "boss_fathomguard_caribdis", "d0/db2/a23319.html#a9172b9717e5137ddde7df38bb237478c", null ],
-    [ "EnterEvadeMode", "d0/db2/a23319.html#aa666a491a776b12a042ee140aedc95eb", null ],
-    [ "JustDied", "d0/db2/a23319.html#ab821365b35a48f70a11c6033fe2ca714", null ],
-    [ "JustEngagedWith", "d0/db2/a23319.html#a5503519998f51f475420ada2210f32f0", null ],
-    [ "JustSummoned", "d0/db2/a23319.html#a39ca45ec0de50b7d7a5ec866c4017a8a", null ],
-    [ "Reset", "d0/db2/a23319.html#a0d2a3403d5934e86a897b3417ed2214a", null ],
-    [ "UpdateAI", "d0/db2/a23319.html#af4a544f37d178de21d84f2544f24431e", null ],
-    [ "_instance", "d0/db2/a23319.html#a73f567f2269aeca1435af82e1c6880e9", null ],
-    [ "_scheduler", "d0/db2/a23319.html#a08b01e9735e421d8d5bbc2b552217762", null ],
-    [ "_summons", "d0/db2/a23319.html#ac8b53cb81547a2423a13c997badb77e3", null ]
+    [ "OnPeriodic", "d0/db2/a23319.html#a4d3d6350a06b6c7382792670c04e38e1", null ],
+    [ "PrepareAuraScript", "d0/db2/a23319.html#ac9231c238adf7e733d55bc6098daddc0", null ],
+    [ "Register", "d0/db2/a23319.html#aa6aa32b3adc89ac405f071fa9b804778", null ]
 ];

@@ -1,11 +1,10 @@
 var a30007 =
 [
-    [ "SetUp", "d2/d6f/a30007.html#a236c5547ff9855b39315642ec2e79c4e", null ],
-    [ "SimulateGmVisibleOff", "d2/d6f/a30007.html#a9276b43219f395a537a0ee51ab00905c", null ],
-    [ "SimulateGmVisibleOn", "d2/d6f/a30007.html#afc09b0c8806fbf445e25f8f194a8228b", null ],
-    [ "TearDown", "d2/d6f/a30007.html#a8fe66b3b0b3ba0d6f3393eb9a4fef3f2", null ],
-    [ "originalWorld", "d2/d6f/a30007.html#a8f7396466d2b20742f66e14462de96a4", null ],
-    [ "player", "d2/d6f/a30007.html#a97049ae029c9354fdf3194be77f36dfa", null ],
-    [ "session", "d2/d6f/a30007.html#a2f87ec522777defa8b023274b1d78c35", null ],
-    [ "worldMock", "d2/d6f/a30007.html#ae4caf6ccdfce680cce07d4759b2a4b54", null ]
+    [ "FakeAura", "d2/d6f/a30007.html#a72674203b5aa768aaec46bc824c66ad8", null ],
+    [ "IsExpired", "d2/d6f/a30007.html#af55fe68d7548abe43fbbe391163dcbf4", null ],
+    [ "IsRemoved", "d2/d6f/a30007.html#ad4b4a547d5596ad39d46125ded1c0863", null ],
+    [ "expired", "d2/d6f/a30007.html#a9de4d15b90ea8e89a5a3dd95122f5ff9", null ],
+    [ "removed", "d2/d6f/a30007.html#a0ea41ca4e60c4c56228687ca6038695f", null ],
+    [ "spellId", "d2/d6f/a30007.html#ab08e902dae2b24d869c2befe1e9a74a2", null ],
+    [ "updated", "d2/d6f/a30007.html#aacbde7f93cb160ed272a4b3ddd18f1ee", null ]
 ];

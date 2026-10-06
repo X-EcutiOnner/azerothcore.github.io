@@ -1,8 +1,12 @@
 var a20291 =
 [
-    [ "CatsTargetSelector", "d8/da4/a20291.html#a48068e5fb4d835303d1d0fbbc4a7e66e", null ],
-    [ "operator()", "d8/da4/a20291.html#a86e65be219bb8f1fdbebba21ba16884a", null ],
-    [ "_maxDist", "d8/da4/a20291.html#a569a1fc697a16c55ef0d087993461a01", null ],
-    [ "_me", "d8/da4/a20291.html#a510937836db06bf70f2bd3737efa4369", null ],
-    [ "_minDist", "d8/da4/a20291.html#a28f5ca413d51073294888cfc97c21b04", null ]
+    [ "npc_auriaya_feral_defender", "d8/da4/a20291.html#a84425204b0ad06789edb331ed8495774", null ],
+    [ "DamageTaken", "d8/da4/a20291.html#aaebbf27345a546bf66e4ab7ed8eae556", null ],
+    [ "DoAction", "d8/da4/a20291.html#aea39a90b4e66796c37dde02687a9b2ad", null ],
+    [ "JustDied", "d8/da4/a20291.html#aa86cb08096ba0e43280f23d9acd0bfa1", null ],
+    [ "JustEngagedWith", "d8/da4/a20291.html#a3d91f99b57ba4d72b526a13f671961ce", null ],
+    [ "JustSummoned", "d8/da4/a20291.html#acea3175bcd4df4cf88dc9561c01bee64", null ],
+    [ "Reset", "d8/da4/a20291.html#a02b09b7dfdd4036827bb474a57296491", null ],
+    [ "UpdateAI", "d8/da4/a20291.html#a7b40afef6b58e7a41b2d00bccbdfe311", null ],
+    [ "_summons", "d8/da4/a20291.html#a0b7960f590ba76068c377cf08291ce35", null ]
 ];

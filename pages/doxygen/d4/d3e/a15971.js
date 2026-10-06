@@ -1,7 +1,7 @@
 var a15971 =
 [
-    [ "HandleEffectRemove", "d4/d3e/a15971.html#aa07e0bdaac9cad239bae1b24d16b433c", null ],
-    [ "PrepareAuraScript", "d4/d3e/a15971.html#a8ab8433afb22bbca79e028e8f082da2b", null ],
-    [ "Register", "d4/d3e/a15971.html#a2ee3afd6fdcb0991e419396ed65e6d4a", null ],
-    [ "AuraEffectHandleModes", "d4/d3e/a15971.html#af8a46c99290ce700e765c7ad5e8c866c", null ]
+    [ "npc_prophet_velen", "d4/d3e/a15971.html#a6f35fa9af478e1bb8fbbdda97845d067", null ],
+    [ "JustDied", "d4/d3e/a15971.html#a8f1e689b5597bc1c8c810bafe2ad0330", null ],
+    [ "Reset", "d4/d3e/a15971.html#a5beec39fd545129d0f124bb19524f95c", null ],
+    [ "UpdateAI", "d4/d3e/a15971.html#a2d016ecfedc5c7e886e7412081b54792", null ]
 ];

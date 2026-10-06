@@ -1,16 +1,8 @@
 var a17119 =
 [
-    [ "boss_jaraxxusAI", "d3/dd6/a17119.html#af05dd6ee301cfe4fdfbc511b07f21b48", null ],
-    [ "EnterEvadeMode", "d3/dd6/a17119.html#a45fc8cbc3b1e59be8f13f1ebae73bfa1", null ],
-    [ "JustDied", "d3/dd6/a17119.html#a5fce156ec839c4799e3585e9674636c1", null ],
-    [ "JustEngagedWith", "d3/dd6/a17119.html#a59f21f25fbe83c9710ac6377753ce8d3", null ],
-    [ "JustReachedHome", "d3/dd6/a17119.html#a5961b5563c1d140f31a348a1ea8dc4ba", null ],
-    [ "JustSummoned", "d3/dd6/a17119.html#a6efea02e03c4d7e97c357afbc320b5bf", null ],
-    [ "MoveInLineOfSight", "d3/dd6/a17119.html#aee8b894518e9091f4e52c4048562d08a", null ],
-    [ "Reset", "d3/dd6/a17119.html#ad4a2bce95988f030387d74b5cf90f223", null ],
-    [ "SpellHit", "d3/dd6/a17119.html#a5103f7808134a67f06af4be1d848aa91", null ],
-    [ "UpdateAI", "d3/dd6/a17119.html#a5e733b9e5b63801a1ca2778e58fedb61", null ],
-    [ "events", "d3/dd6/a17119.html#a6aff4c78989d99d49d697e9900375e28", null ],
-    [ "pInstance", "d3/dd6/a17119.html#aa9d9cb25b827c48e1fd5cd8e75ac92a0", null ],
-    [ "summons", "d3/dd6/a17119.html#abeddfd1bb9b5391da578f794d6c618b7", null ]
+    [ "npc_mistress_of_pain", "d3/dd6/a17119.html#a3311d05b0b692e4d70de95ded21df23a", null ],
+    [ "EnterEvadeMode", "d3/dd6/a17119.html#a7d2e4cb30dbcf4993dbffd9bdd7b2db3", null ],
+    [ "JustDied", "d3/dd6/a17119.html#aa34fc8f7625f31fc872edd15d3c48686", null ],
+    [ "Reset", "d3/dd6/a17119.html#a0205ff2af278a7d6e44f0bfc179b022e", null ],
+    [ "UpdateAI", "d3/dd6/a17119.html#a5a6edfb39ee3fb710cd42311dc10b034", null ]
 ];

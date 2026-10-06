@@ -1,6 +1,9 @@
 var a22887 =
 [
-    [ "PrepareSpellScript", "de/dea/a22887.html#abd6b61e7efbed1427b7603640ac7d474", null ],
-    [ "RecalculateDamage", "de/dea/a22887.html#a02b59e5ac84c8556c9a9441ff6414461", null ],
-    [ "Register", "de/dea/a22887.html#ab6183bf9e49d3c11c256e54053c13aa2", null ]
+    [ "instance_shadow_labyrinth_InstanceMapScript", "de/dea/a22887.html#ada5f19c96bfe623b110389ede032ef53", null ],
+    [ "GetData", "de/dea/a22887.html#ad876ebd581c470f5a3075129076bd1fb", null ],
+    [ "Initialize", "de/dea/a22887.html#a9dc908fdaef98aa6eb81fd1709eee9e4", null ],
+    [ "OnCreatureCreate", "de/dea/a22887.html#a118b4a7a7c872327ec2868c5b0417636", null ],
+    [ "OnUnitDeath", "de/dea/a22887.html#a4275afcc93c5281d9865601a2d9dabaa", null ],
+    [ "_ritualistsAliveCount", "de/dea/a22887.html#a7752d5bfe1d1c5eef2c450df7677a69e", null ]
 ];

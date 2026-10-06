@@ -340,15 +340,15 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1045</span>    {</div>
-<div class="line"><span class="lineno"> 1046</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d7/dce/a12143.html#a29e48f1dc7011926160e2ed80ebf2f8e">GetTargetApplication</a>()-&gt;GetRemoveMode() != <a class="code hl_enumvalue" href="../../da/d28/a02705.html#a56f7dd5627e22afd9eb73530b767115ea9ca05b22853d12d44ac7e80a9e864a10">AURA_REMOVE_BY_EXPIRE</a>)</div>
-<div class="line"><span class="lineno"> 1047</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno"> 1048</span> </div>
-<div class="line"><span class="lineno"> 1049</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d7/dce/a12143.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>()-&gt;IsCreature())</div>
-<div class="line"><span class="lineno"> 1050</span>            <a class="code hl_function" href="../../d7/dce/a12143.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>()-&gt;<a class="code hl_function" href="../../d9/d6f/a08847.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>()-&gt;<a class="code hl_function" href="../../d5/d6c/a08471.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../de/dc7/a06607.html#a165d336cb3423f9665ed612d2dec76ed">DoAction</a>(<a class="code hl_enumvalue" href="../../de/dfb/a01874.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad9b074709a30fe1d57f69ef5c6da3fea">ACTION_NO_KILL_TALK</a>);</div>
-<div class="line"><span class="lineno"> 1051</span> </div>
-<div class="line"><span class="lineno"> 1052</span>        <a class="code hl_function" href="../../d7/dce/a12143.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>()-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_function" href="../../d7/dce/a12143.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>(), <a class="code hl_enumvalue" href="../../de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca43a35b47cd45c737af3e984d806a669c">SPELL_DARKNESS_OF_A_THOUSAND_SOULS_DAMAGE</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno"> 1053</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1071</span>    {</div>
+<div class="line"><span class="lineno"> 1072</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d7/dce/a12143.html#a29e48f1dc7011926160e2ed80ebf2f8e">GetTargetApplication</a>()-&gt;GetRemoveMode() != <a class="code hl_enumvalue" href="../../da/d28/a02705.html#a56f7dd5627e22afd9eb73530b767115ea9ca05b22853d12d44ac7e80a9e864a10">AURA_REMOVE_BY_EXPIRE</a>)</div>
+<div class="line"><span class="lineno"> 1073</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno"> 1074</span> </div>
+<div class="line"><span class="lineno"> 1075</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d7/dce/a12143.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>()-&gt;IsCreature())</div>
+<div class="line"><span class="lineno"> 1076</span>            <a class="code hl_function" href="../../d7/dce/a12143.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>()-&gt;<a class="code hl_function" href="../../d9/d6f/a08847.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>()-&gt;<a class="code hl_function" href="../../d5/d6c/a08471.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../de/dc7/a06607.html#a165d336cb3423f9665ed612d2dec76ed">DoAction</a>(<a class="code hl_enumvalue" href="../../de/dfb/a01874.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad9b074709a30fe1d57f69ef5c6da3fea">ACTION_NO_KILL_TALK</a>);</div>
+<div class="line"><span class="lineno"> 1077</span> </div>
+<div class="line"><span class="lineno"> 1078</span>        <a class="code hl_function" href="../../d7/dce/a12143.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>()-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_function" href="../../d7/dce/a12143.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>(), <a class="code hl_enumvalue" href="../../de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca43a35b47cd45c737af3e984d806a669c">SPELL_DARKNESS_OF_A_THOUSAND_SOULS_DAMAGE</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno"> 1079</span>    }</div>
 <div class="ttc" id="aa01874_html_a3329d9d369a4ae5cfa5d8eac33a0c0c6ad9b074709a30fe1d57f69ef5c6da3fea"><div class="ttname"><a href="../../de/dfb/a01874.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad9b074709a30fe1d57f69ef5c6da3fea">ACTION_NO_KILL_TALK</a></div><div class="ttdeci">@ ACTION_NO_KILL_TALK</div><div class="ttdef"><b>Definition:</b> boss_kiljaeden.cpp:109</div></div>
 <div class="ttc" id="aa01874_html_a5bd342133be8c2137b831460acc9298ca43a35b47cd45c737af3e984d806a669c"><div class="ttname"><a href="../../de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca43a35b47cd45c737af3e984d806a669c">SPELL_DARKNESS_OF_A_THOUSAND_SOULS_DAMAGE</a></div><div class="ttdeci">@ SPELL_DARKNESS_OF_A_THOUSAND_SOULS_DAMAGE</div><div class="ttdef"><b>Definition:</b> boss_kiljaeden.cpp:71</div></div>
 <div class="ttc" id="aa02705_html_a56f7dd5627e22afd9eb73530b767115ea9ca05b22853d12d44ac7e80a9e864a10"><div class="ttname"><a href="../../da/d28/a02705.html#a56f7dd5627e22afd9eb73530b767115ea9ca05b22853d12d44ac7e80a9e864a10">AURA_REMOVE_BY_EXPIRE</a></div><div class="ttdeci">@ AURA_REMOVE_BY_EXPIRE</div><div class="ttdef"><b>Definition:</b> SpellAuraDefines.h:395</div></div>
@@ -361,7 +361,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00109">ACTION_NO_KILL_TALK</a>, <a class="el" href="../../#l00144">Creature::AI()</a>, <a class="el" href="../../#l00395">AURA_REMOVE_BY_EXPIRE</a>, <a class="el" href="../../#l01372">Unit::CastSpell()</a>, <a class="el" href="../../#l00217">UnitAI::DoAction()</a>, <a class="el" href="../../#l01215">AuraScript::GetTargetApplication()</a>, <a class="el" href="../../#l01050">AuraScript::GetUnitOwner()</a>, <a class="el" href="../../#l00071">SPELL_DARKNESS_OF_A_THOUSAND_SOULS_DAMAGE</a>, and <a class="el" href="../../#l00212">Object::ToCreature()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01055">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01081">Register()</a>.</p>
 
 </div>
 </div>
@@ -415,17 +415,17 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../df/d22/a12087.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1056</span>    {</div>
-<div class="line"><span class="lineno"> 1057</span>        <a class="code hl_variable" href="../../d7/dce/a12143.html#ab9127bc3610a6a30fa9bbf22f7339bcc">OnEffectRemove</a> += <a class="code hl_define" href="../../d8/da6/a02696.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a>(<a class="code hl_function" href="../../dc/d49/a13919.html#a4484cf33e423f23cad9559a6a16ed9b4">spell_kiljaeden_darkness_aura::HandleRemove</a>, <a class="code hl_enumvalue" href="../../d4/d81/a00110.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d28/a02705.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf">SPELL_AURA_DUMMY</a>, <a class="code hl_enumvalue" href="../../da/d28/a02705.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
-<div class="line"><span class="lineno"> 1058</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1082</span>    {</div>
+<div class="line"><span class="lineno"> 1083</span>        <a class="code hl_variable" href="../../d7/dce/a12143.html#ab9127bc3610a6a30fa9bbf22f7339bcc">OnEffectRemove</a> += <a class="code hl_define" href="../../d8/da6/a02696.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a>(<a class="code hl_function" href="../../dc/d49/a13919.html#a4484cf33e423f23cad9559a6a16ed9b4">spell_kiljaeden_darkness_aura::HandleRemove</a>, <a class="code hl_enumvalue" href="../../d4/d81/a00110.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d28/a02705.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf">SPELL_AURA_DUMMY</a>, <a class="code hl_enumvalue" href="../../da/d28/a02705.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
+<div class="line"><span class="lineno"> 1084</span>    }</div>
 <div class="ttc" id="aa00110_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../d4/d81/a00110.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aa02696_html_af8f20adad60abdb901d6e7310afea31b"><div class="ttname"><a href="../../d8/da6/a02696.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a></div><div class="ttdeci">#define AuraEffectRemoveFn(F, I, N, M)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:766</div></div>
 <div class="ttc" id="aa02705_html_a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf"><div class="ttname"><a href="../../da/d28/a02705.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf">SPELL_AURA_DUMMY</a></div><div class="ttdeci">@ SPELL_AURA_DUMMY</div><div class="ttdef"><b>Definition:</b> SpellAuraDefines.h:67</div></div>
 <div class="ttc" id="aa02705_html_a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b"><div class="ttname"><a href="../../da/d28/a02705.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a></div><div class="ttdeci">@ AURA_EFFECT_HANDLE_REAL</div><div class="ttdef"><b>Definition:</b> SpellAuraDefines.h:42</div></div>
 <div class="ttc" id="aa12143_html_ab9127bc3610a6a30fa9bbf22f7339bcc"><div class="ttname"><a href="../../d7/dce/a12143.html#ab9127bc3610a6a30fa9bbf22f7339bcc">AuraScript::OnEffectRemove</a></div><div class="ttdeci">HookList&lt; EffectApplyHandler &gt; OnEffectRemove</div><div class="ttdef"><b>Definition:</b> SpellScript.h:761</div></div>
-<div class="ttc" id="aa13919_html_a4484cf33e423f23cad9559a6a16ed9b4"><div class="ttname"><a href="../../dc/d49/a13919.html#a4484cf33e423f23cad9559a6a16ed9b4">spell_kiljaeden_darkness_aura::HandleRemove</a></div><div class="ttdeci">void HandleRemove(AuraEffect const *, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition:</b> boss_kiljaeden.cpp:1044</div></div>
+<div class="ttc" id="aa13919_html_a4484cf33e423f23cad9559a6a16ed9b4"><div class="ttname"><a href="../../dc/d49/a13919.html#a4484cf33e423f23cad9559a6a16ed9b4">spell_kiljaeden_darkness_aura::HandleRemove</a></div><div class="ttdeci">void HandleRemove(AuraEffect const *, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition:</b> boss_kiljaeden.cpp:1070</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00042">AURA_EFFECT_HANDLE_REAL</a>, <a class="el" href="../../#l00766">AuraEffectRemoveFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l01044">HandleRemove()</a>, <a class="el" href="../../#l00761">AuraScript::OnEffectRemove</a>, and <a class="el" href="../../#l00067">SPELL_AURA_DUMMY</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00042">AURA_EFFECT_HANDLE_REAL</a>, <a class="el" href="../../#l00766">AuraEffectRemoveFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l01070">HandleRemove()</a>, <a class="el" href="../../#l00761">AuraScript::OnEffectRemove</a>, and <a class="el" href="../../#l00067">SPELL_AURA_DUMMY</a>.</p>
 
 </div>
 </div>
@@ -454,9 +454,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../df/d22/a12087.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1040</span>    {</div>
-<div class="line"><span class="lineno"> 1041</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../df/d22/a12087.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca43a35b47cd45c737af3e984d806a669c">SPELL_DARKNESS_OF_A_THOUSAND_SOULS_DAMAGE</a> });</div>
-<div class="line"><span class="lineno"> 1042</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1066</span>    {</div>
+<div class="line"><span class="lineno"> 1067</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../df/d22/a12087.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca43a35b47cd45c737af3e984d806a669c">SPELL_DARKNESS_OF_A_THOUSAND_SOULS_DAMAGE</a> });</div>
+<div class="line"><span class="lineno"> 1068</span>    }</div>
 <div class="ttc" id="aa12087_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../df/d22/a12087.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00071">SPELL_DARKNESS_OF_A_THOUSAND_SOULS_DAMAGE</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
@@ -469,7 +469,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dc/d49/a13919.html">spell_kiljaeden_darkness_aura</a></li>
-    <li class="footer">Generated on Tue Sep 29 2026 01:14:00 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Tue Oct 6 2026 01:27:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

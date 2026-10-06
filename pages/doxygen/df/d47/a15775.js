@@ -1,6 +1,8 @@
 var a15775 =
 [
-    [ "FilterTargets", "df/d47/a15775.html#a15ebe9125f5f4a8f66241ee4da1ac83e", null ],
-    [ "PrepareSpellScript", "df/d47/a15775.html#a32b0be74a9127f920e22aa03c910a005", null ],
-    [ "Register", "df/d47/a15775.html#a80efa2858d4270c497e49a1fe6a7472e", null ]
+    [ "npc_ouro_spawner", "df/d47/a15775.html#acb18739e5a1734312ffdda35321e5f34", null ],
+    [ "JustSummoned", "df/d47/a15775.html#a722dada5bf97c730462a0de2b082d5ff", null ],
+    [ "MoveInLineOfSight", "df/d47/a15775.html#a83c0972db4435ccf1af069574e4056f4", null ],
+    [ "Reset", "df/d47/a15775.html#ac1591f1c172bfdda25b020e00cd0835e", null ],
+    [ "hasSummoned", "df/d47/a15775.html#a6ac376861c1206cc1551d9fa86c0fc97", null ]
 ];

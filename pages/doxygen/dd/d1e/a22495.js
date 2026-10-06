@@ -1,9 +1,8 @@
 var a22495 =
 [
-    [ "HandlePeriodic", "dd/d1e/a22495.html#a0943e7887ff935ccea21d913429e25a0", null ],
-    [ "OnRemove", "dd/d1e/a22495.html#a46ae9f9c7b31fa46e0968dc521a2511b", null ],
-    [ "PrepareAuraScript", "dd/d1e/a22495.html#a07ce1c801c8d770d639b8ffe05830c3b", null ],
-    [ "Register", "dd/d1e/a22495.html#afa2a6d4653311d2f76831ef14d34c0dd", null ],
-    [ "_tickNumber", "dd/d1e/a22495.html#a3f8943e288e96f639fb805869749879b", null ],
-    [ "_warning", "dd/d1e/a22495.html#a19ffd2ca76a020ca8ca4b2ff91538888", null ]
+    [ "spell_loosen_grip", "dd/d1e/a22495.html#ae35f230e0c66e88f59558748c80470dd", null ],
+    [ "HandleScript", "dd/d1e/a22495.html#af82f9b7afda00bae22fa53d8b63d2509", null ],
+    [ "PrepareSpellScript", "dd/d1e/a22495.html#a219dc7d735f82d8e3b85390f0a881743", null ],
+    [ "Register", "dd/d1e/a22495.html#a8b446d8b5ab00b984272c74b06663326", null ],
+    [ "_stacksToLose", "dd/d1e/a22495.html#ae47dac5e3b380aeb22877ba5e5b5829f", null ]
 ];

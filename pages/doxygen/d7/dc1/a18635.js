@@ -1,5 +1,6 @@
 var a18635 =
 [
-    [ "achievement_all_you_can_eat", "d7/dc1/a18635.html#a0995024862a445ea1f0ff5c82475fc64", null ],
-    [ "OnCheck", "d7/dc1/a18635.html#a0baa07a7cbd239e4a5fcfd3e687aedf6", null ]
+    [ "npc_spinestalkerAI", "de/d6e/a18639.html", "de/d6e/a18639" ],
+    [ "npc_spinestalker", "d7/dc1/a18635.html#a477f951c79045d553901b1e6b6ad2d4f", null ],
+    [ "GetAI", "d7/dc1/a18635.html#a725f1b1db90d700772bfb76e0f85f1f3", null ]
 ];

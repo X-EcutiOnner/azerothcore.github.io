@@ -1,6 +1,7 @@
 var a22891 =
 [
-    [ "instance_shadow_labyrinth_InstanceMapScript", "d6/dec/a22895.html", "d6/dec/a22895" ],
-    [ "instance_shadow_labyrinth", "d8/d51/a22891.html#a16a3acdfd9b1053374dfa5f27e5f3c19", null ],
-    [ "GetInstanceScript", "d8/d51/a22891.html#af9edf624413593a5cdf025dd9a1c3631", null ]
+    [ "HandleProc", "d8/d51/a22891.html#a4d12ab1b286105fdad5eb2dd20131408", null ],
+    [ "PrepareAuraScript", "d8/d51/a22891.html#a94b6499dc2e1fa95a50bd9c3c491e858", null ],
+    [ "Register", "d8/d51/a22891.html#a6b764182501a1d192f90dc20bbd6549e", null ],
+    [ "Validate", "d8/d51/a22891.html#ad89123425cca5bd02a18526a11595a1a", null ]
 ];

@@ -1,6 +1,9 @@
 var a19487 =
 [
-    [ "npc_isle_of_conquest_turretAI", "d0/d1f/a19491.html", "d0/d1f/a19491" ],
-    [ "npc_isle_of_conquest_turret", "da/d6c/a19487.html#ac080845203adef25e6841133b7e2f4dc", null ],
-    [ "GetAI", "da/d6c/a19487.html#a0f532e12439e900b3cb77619f1ecd17d", null ]
+    [ "npc_isle_of_conquest_turretAI", "da/d6c/a19487.html#a0a0f24af22e4c72e843970c0d5c1ff87", null ],
+    [ "JustDied", "da/d6c/a19487.html#a88390da94298bea9c445bb422a806d23", null ],
+    [ "SpellHit", "da/d6c/a19487.html#afc8b8a9be6b0908fcb83af57bef7a57a", null ],
+    [ "UpdateAI", "da/d6c/a19487.html#a81c039a2a230b261967842161757b6f8", null ],
+    [ "events", "da/d6c/a19487.html#aee0aa5a950b3743409fd3ae482bc94b8", null ],
+    [ "faction", "da/d6c/a19487.html#aca941c070a97278c8ec27d7e6b4edede", null ]
 ];

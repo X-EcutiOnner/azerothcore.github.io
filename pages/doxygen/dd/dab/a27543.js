@@ -1,8 +1,6 @@
 var a27543 =
 [
-    [ "CheckProc", "dd/dab/a27543.html#a019b47e139e155c0803c0ce9a3a42f82", null ],
-    [ "HandleProc", "dd/dab/a27543.html#a92fff2ae3b59c3dd62e92a11312f87ae", null ],
-    [ "PrepareAuraScript", "dd/dab/a27543.html#a91ef63b96918e797e677423d51f94112", null ],
-    [ "Register", "dd/dab/a27543.html#a5625b3a60a607bd07d4328aa1886cfc5", null ],
-    [ "Validate", "dd/dab/a27543.html#ab6178007664afc34556336ec9620cd4f", null ]
+    [ "CheckProc", "dd/dab/a27543.html#a5e48b25b15b60aa284ca61e900e0f87e", null ],
+    [ "PrepareAuraScript", "dd/dab/a27543.html#a13ccd1c89767d0dcf041217466390759", null ],
+    [ "Register", "dd/dab/a27543.html#a4f29ca53813534b1af20e09281288e95", null ]
 ];

@@ -1,8 +1,10 @@
 var a25667 =
 [
-    [ "OnApply", "da/db8/a25667.html#acf25199409ab6f991db15a784749aaf1", null ],
-    [ "OnRemove", "da/db8/a25667.html#a700513c27a2ae22581bbc61c8c4b523a", null ],
-    [ "PrepareAuraScript", "da/db8/a25667.html#ae6f93ab542d8f05a95745d7b10d1856a", null ],
-    [ "Register", "da/db8/a25667.html#a9332cb72f66e83f648b4ed02c8c074eb", null ],
-    [ "Validate", "da/db8/a25667.html#a09017d12ecf0ae0c3091cea17640782c", null ]
+    [ "CalcPeriodic", "da/db8/a25667.html#a4c5793639ad7715b0dc52a803546e7cf", null ],
+    [ "CalculateSpiritAmount", "da/db8/a25667.html#a5749d91e27de05f67110178f57c214e4", null ],
+    [ "HandleEffectApply", "da/db8/a25667.html#a0de0ba95c09c87054d63974943750805", null ],
+    [ "HandlePeriodic", "da/db8/a25667.html#a2ff4241cf4535a6cb8361b9f54d7a23c", null ],
+    [ "PrepareAuraScript", "da/db8/a25667.html#aaa2c2fea4310cdba1739f02afa48a318", null ],
+    [ "Register", "da/db8/a25667.html#ae9df15062a8bd776e9a5a4a5a53fac8f", null ],
+    [ "amount", "da/db8/a25667.html#af07c7c4a2f6a4d59bee8d44b46be5552", null ]
 ];

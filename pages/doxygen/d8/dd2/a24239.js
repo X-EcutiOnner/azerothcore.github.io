@@ -1,6 +1,7 @@
 var a24239 =
 [
-    [ "go_beaconAI", "d8/dd2/a24239.html#a95f0f62d4e34da650c22a7ce796fc85f", null ],
-    [ "OnStateChanged", "d8/dd2/a24239.html#a10bd78bf6c2451fe95163eb9083bdf44", null ],
-    [ "_whelpGUIDs", "d8/dd2/a24239.html#a083094ececd327c833649da6a755c635", null ]
+    [ "npc_maghar_captiveAI", "d7/d3b/a24243.html", "d7/d3b/a24243" ],
+    [ "npc_maghar_captive", "d8/dd2/a24239.html#a59e177f33306ed0bb3de9f640d3685e4", null ],
+    [ "GetAI", "d8/dd2/a24239.html#a7f1528549b55edfb5286db4afe6ce50e", null ],
+    [ "OnQuestAccept", "d8/dd2/a24239.html#a0cd3a423866b9b5449f8efc729b69c27", null ]
 ];

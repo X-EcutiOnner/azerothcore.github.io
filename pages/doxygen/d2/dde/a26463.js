@@ -1,7 +1,8 @@
 var a26463 =
 [
-    [ "HandleDummy", "d2/dde/a26463.html#a14bf65690e857c6a16dfcd8e036abbbb", null ],
-    [ "PrepareSpellScript", "d2/dde/a26463.html#a2ec497a2dfe2364ad9011aba8532e73c", null ],
-    [ "Register", "d2/dde/a26463.html#afca09c1e1c5389db67d081d6e033f025", null ],
-    [ "Validate", "d2/dde/a26463.html#af54f926b69002b2277dad34e1773e450", null ]
+    [ "AfterApply", "d2/dde/a26463.html#a972d3ec2a26bbf93e47f696f44ff22b0", null ],
+    [ "AfterRemove", "d2/dde/a26463.html#a29d4dbe7d36d256cf89fdde1bbabac85", null ],
+    [ "PrepareAuraScript", "d2/dde/a26463.html#a1e44672c1f47dbd8e57f7653d905e3e6", null ],
+    [ "Register", "d2/dde/a26463.html#a293ea418e290d96bbcaaed24cad663b0", null ],
+    [ "Validate", "d2/dde/a26463.html#aa67afc85c142006efad986859f14941c", null ]
 ];

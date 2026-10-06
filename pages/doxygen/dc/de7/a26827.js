@@ -1,7 +1,7 @@
 var a26827 =
 [
-    [ "PeriodicTick", "dc/de7/a26827.html#a4fcdb073b4140311f31c5965ea7d1316", null ],
-    [ "PrepareAuraScript", "dc/de7/a26827.html#ad332660b3b30ecb7b5c949c702574879", null ],
-    [ "Register", "dc/de7/a26827.html#ad752eaecf8b0b3efcc7f61d88fb447d9", null ],
-    [ "Validate", "dc/de7/a26827.html#a426b39c9733464c5d69d707d4e931f64", null ]
+    [ "HandleDummy", "dc/de7/a26827.html#a82ff05f6150750ecb6ef3b5f8c40f703", null ],
+    [ "PrepareSpellScript", "dc/de7/a26827.html#a6856f05f2cc25267f1d3023d3cb48dc2", null ],
+    [ "Register", "dc/de7/a26827.html#adadd0254d68281ac1063bcc57574ed77", null ],
+    [ "Validate", "dc/de7/a26827.html#a61923f636ad8b3d48eb2dbc6a1803527", null ]
 ];

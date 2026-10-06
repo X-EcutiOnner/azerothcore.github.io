@@ -1,6 +1,8 @@
 var a28631 =
 [
-    [ "npc_taxi", "d9/dfe/a28631.html#ac67282316d6ded2ff62b8a1800b8fae1", null ],
-    [ "OnGossipHello", "d9/dfe/a28631.html#a1bce89202ea3ed3fcbebd19a305c6a78", null ],
-    [ "OnGossipSelect", "d9/dfe/a28631.html#a5a7443abba8cf98a3073195177981edc", null ]
+    [ "npc_elder_clearwaterAI", "d8/d4a/a28635.html", "d8/d4a/a28635" ],
+    [ "npc_elder_clearwater", "d9/dfe/a28631.html#abeee1650938a71762bb0c148ea9834d1", null ],
+    [ "GetAI", "d9/dfe/a28631.html#a4ae2f507f61ee7cfc0c3b6d7dbfb7f04", null ],
+    [ "OnGossipHello", "d9/dfe/a28631.html#aae382c0a386b8bacd39c6e7a586519e4", null ],
+    [ "OnQuestReward", "d9/dfe/a28631.html#a2d316a2d2c892cecc134cea46b5bf2a8", null ]
 ];

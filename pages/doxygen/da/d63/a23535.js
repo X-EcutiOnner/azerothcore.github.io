@@ -1,5 +1,6 @@
 var a23535 =
 [
-    [ "boss_quagmirran", "da/d63/a23535.html#a7f6289b86216b052f434a1417023e22c", null ],
-    [ "JustEngagedWith", "da/d63/a23535.html#a28253b6653bd2e26e7f246c71a88b625", null ]
+    [ "instance_the_slave_pens_InstanceMapScript", "d5/de2/a23539.html", "d5/de2/a23539" ],
+    [ "instance_the_slave_pens", "da/d63/a23535.html#a765f7b66ad3bed1828524ecb143742f2", null ],
+    [ "GetInstanceScript", "da/d63/a23535.html#a0eedcecf1ddc27e139898cacf6f48965", null ]
 ];

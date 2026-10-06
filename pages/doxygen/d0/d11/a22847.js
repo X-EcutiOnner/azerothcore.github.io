@@ -1,8 +1,5 @@
 var a22847 =
 [
-    [ "FilterTargets", "d0/d11/a22847.html#a9e0a72530a8dc764269e8df6d9d1ed3d", null ],
-    [ "HandleDummyHitTarget", "d0/d11/a22847.html#ae892090a9bd48aa447224c9f96801d37", null ],
-    [ "PrepareSpellScript", "d0/d11/a22847.html#af08ab4fcc3705b07e89ed222794e70e9", null ],
-    [ "Register", "d0/d11/a22847.html#aeb1aad59b6b4767a63660c5fe0277392", null ],
-    [ "Validate", "d0/d11/a22847.html#a5a87a7c18a55caf5288b8ca8bbd2f361", null ]
+    [ "instance_sethekk_halls_InstanceMapScript", "d0/d11/a22847.html#a037ee225b626b64436570680ae4e9ea0", null ],
+    [ "ProcessEvent", "d0/d11/a22847.html#aba05b0edb57e6c42bd45593a51598365", null ]
 ];

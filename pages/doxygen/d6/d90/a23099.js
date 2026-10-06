@@ -1,6 +1,6 @@
 var a23099 =
 [
-    [ "boss_essence_of_desireAI", "d3/d29/a23103.html", "d3/d29/a23103" ],
-    [ "boss_essence_of_desire", "d6/d90/a23099.html#a5006ce57dd19c2a80e961dedca8c503d", null ],
-    [ "GetAI", "d6/d90/a23099.html#a14b66470c508fa24e214062aeec0aae6", null ]
+    [ "boss_essence_of_angerAI", "d3/d29/a23103.html", "d3/d29/a23103" ],
+    [ "boss_essence_of_anger", "d6/d90/a23099.html#adf8151d1fbb4a258f174c4bdb8410cd6", null ],
+    [ "GetAI", "d6/d90/a23099.html#a70a460f31b7f878e532b695ca822ab5d", null ]
 ];

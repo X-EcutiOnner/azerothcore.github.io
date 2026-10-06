@@ -1,6 +1,5 @@
 var a17651 =
 [
-    [ "HandleEffectPeriodic", "d4/d79/a17651.html#a8a165d3931353fefc2e6a7c7f309150e", null ],
-    [ "PrepareAuraScript", "d4/d79/a17651.html#a2de3b6d4e32832ec7ce4548df23d3d5c", null ],
-    [ "Register", "d4/d79/a17651.html#a3593ab75583bb5b9b31b29ba2c3cdd76", null ]
+    [ "at_tyrannus_event_starter", "d4/d79/a17651.html#a1aef2522c20dd242e749d93a6bee66d8", null ],
+    [ "OnTrigger", "d4/d79/a17651.html#adccf396220ef7de47e7afeca791de894", null ]
 ];

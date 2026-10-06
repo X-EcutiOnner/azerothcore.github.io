@@ -1,6 +1,7 @@
 var a24543 =
 [
-    [ "achievement", "de/d55/a24543.html#abb6071e172abbcbc65020a0ad9554a03", null ],
-    [ "spell", "de/d55/a24543.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
-    [ "text", "de/d55/a24543.html#ab8c1bedac4bccf5c47eda591c9e5e9d1", null ]
+    [ "npc_pet_gen_target_following_bomb", "de/d55/a24543.html#a447c2cd258d784ca1d79c79412a1a426", null ],
+    [ "UpdateAI", "de/d55/a24543.html#ac68f18d68a313623c04e885f9506f287", null ],
+    [ "bombSpellId", "de/d55/a24543.html#a3c72bd26c66d3e7a85f3152557e399c4", null ],
+    [ "checkTimer", "de/d55/a24543.html#a694ee5f884f1bd404f0ef3d3030a212f", null ]
 ];

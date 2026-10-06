@@ -1,10 +1,6 @@
 var a22843 =
 [
-    [ "boss_talon_king_ikiss", "da/d20/a22843.html#acf8cbda5f7a33c026bfc0d6e7b31f43c", null ],
-    [ "JustDied", "da/d20/a22843.html#ada1d993842d04453d6afad91e186a3fe", null ],
-    [ "JustEngagedWith", "da/d20/a22843.html#a325312ce6695435fcca701720434c64f", null ],
-    [ "KilledUnit", "da/d20/a22843.html#ae8d94f89a67f3a321c88327c076ddd77", null ],
-    [ "MoveInLineOfSight", "da/d20/a22843.html#ab13808b75b1ca79b856e5b2e64e67d89", null ],
-    [ "Reset", "da/d20/a22843.html#adcb1dca375ec548499da5a7690babc21", null ],
-    [ "_spoken", "da/d20/a22843.html#a3e9e3a8575dbf21262ba2b4226182373", null ]
+    [ "instance_sethekk_halls_InstanceMapScript", "d0/d11/a22847.html", "d0/d11/a22847" ],
+    [ "instance_sethekk_halls", "da/d20/a22843.html#ab50d296266cf377bfb34750ec36963ef", null ],
+    [ "GetInstanceScript", "da/d20/a22843.html#adc07afe1aa8132f70474f9a534ecb76c", null ]
 ];

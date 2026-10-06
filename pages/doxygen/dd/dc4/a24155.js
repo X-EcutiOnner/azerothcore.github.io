@@ -1,6 +1,6 @@
 var a24155 =
 [
-    [ "npc_nether_drakeAI", "d2/d6a/a24159.html", "d2/d6a/a24159" ],
-    [ "npc_nether_drake", "dd/dc4/a24155.html#a253ec3c91857b899ea9e2c824870b760", null ],
-    [ "GetAI", "dd/dc4/a24155.html#a58d269e2c73cae07bb507162b742fe8f", null ]
+    [ "npc_daranelleAI", "d2/d6a/a24159.html", "d2/d6a/a24159" ],
+    [ "npc_daranelle", "dd/dc4/a24155.html#a0a6e26b95d6d97821bc9e0c00b205704", null ],
+    [ "GetAI", "dd/dc4/a24155.html#ad2ba5e4dfded886acaf2f9821e15738d", null ]
 ];

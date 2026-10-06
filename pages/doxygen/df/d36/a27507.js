@@ -1,6 +1,6 @@
 var a27507 =
 [
-    [ "DoAfterHit", "df/d36/a27507.html#a38ede5147a11c41770c4483a70d81e5d", null ],
-    [ "PrepareSpellScript", "df/d36/a27507.html#abcc738fc154e6be5de168fb23be806f4", null ],
-    [ "Register", "df/d36/a27507.html#ac81d60d54a87a23bd9481934f5753de0", null ]
+    [ "HandleRemove", "df/d36/a27507.html#a92eb5e02c8b165caa877d368a456e5b2", null ],
+    [ "PrepareAuraScript", "df/d36/a27507.html#a132193c0c13a2f89b9b29391d524023a", null ],
+    [ "Register", "df/d36/a27507.html#a246294a7b9a128a9ec464562846332fc", null ]
 ];

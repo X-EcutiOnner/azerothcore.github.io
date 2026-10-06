@@ -1,11 +1,6 @@
 var a18491 =
 [
-    [ "npc_little_oozeAI", "de/d26/a18491.html#a6fb3ac6e3f2c39b96ee4fe265e4940dd", null ],
-    [ "EnterEvadeMode", "de/d26/a18491.html#a0bd4bfcc8c373a449f297011289e5530", null ],
-    [ "IsSummonedBy", "de/d26/a18491.html#afb9763ade36bd742398a8bca961c136b", null ],
-    [ "JustDied", "de/d26/a18491.html#a37e5898e3dc1704be9fba2178567fd2a", null ],
-    [ "UpdateAI", "de/d26/a18491.html#a6ee56789d528c2b6dcb04abaff6806cb", null ],
-    [ "events", "de/d26/a18491.html#aa0d2113458887b73fe2af36f9d3ab0f1", null ],
-    [ "firstUpdate", "de/d26/a18491.html#aa3aca24bc97bcd9a2030fccf6782cf9c", null ],
-    [ "instance", "de/d26/a18491.html#a8a4ec828f144f071c0c6f2bf48b69cc0", null ]
+    [ "npc_big_oozeAI", "d3/dd8/a18495.html", "d3/dd8/a18495" ],
+    [ "npc_big_ooze", "de/d26/a18491.html#a8ae667b2782c53cd808f2e02e29713ee", null ],
+    [ "GetAI", "de/d26/a18491.html#ad06308602d69b51ff3f269bda6c465b5", null ]
 ];

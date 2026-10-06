@@ -1,7 +1,6 @@
 var a22883 =
 [
-    [ "HandleOnHit", "d3/d89/a22883.html#a5eee46784bfbeaad3a9af069ca7f69a7", null ],
-    [ "PrepareSpellScript", "d3/d89/a22883.html#a734b735c7e87938bff185be91f9de6e8", null ],
-    [ "Register", "d3/d89/a22883.html#a1cc140d2b5487e9dbbf107025e09e51d", null ],
-    [ "Validate", "d3/d89/a22883.html#a162f60784fdec6b748151e5c2a7ed257", null ]
+    [ "instance_shadow_labyrinth_InstanceMapScript", "de/dea/a22887.html", "de/dea/a22887" ],
+    [ "instance_shadow_labyrinth", "d3/d89/a22883.html#a16a3acdfd9b1053374dfa5f27e5f3c19", null ],
+    [ "GetInstanceScript", "d3/d89/a22883.html#af9edf624413593a5cdf025dd9a1c3631", null ]
 ];

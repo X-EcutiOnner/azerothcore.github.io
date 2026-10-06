@@ -1,9 +1,6 @@
 var a19379 =
 [
-    [ "npc_icc_skybreaker_luminaryAI", "d9/d18/a19379.html#a91868021309239f5582bb7ee89baec13", null ],
-    [ "AttackStart", "d9/d18/a19379.html#acf8d1eaebdc68cb53866155d8aad6e48", null ],
-    [ "JustEngagedWith", "d9/d18/a19379.html#a12927240144022174e3d190be6b34976", null ],
-    [ "Reset", "d9/d18/a19379.html#ac925b84b81ec1d1e118f3e62edfbdd15", null ],
-    [ "UpdateAI", "d9/d18/a19379.html#a969a36e147006971a93711349f90c193", null ],
-    [ "events", "d9/d18/a19379.html#a8521aef674b9a295c27f7e5725af4ffe", null ]
+    [ "npc_icc_valkyr_heraldAI", "d9/d1d/a19383.html", "d9/d1d/a19383" ],
+    [ "npc_icc_valkyr_herald", "d9/d18/a19379.html#a9d06e0dec8cb960d34c2089c1c0d8ccb", null ],
+    [ "GetAI", "d9/d18/a19379.html#a7537269841d0380d2dc9e4641705acf9", null ]
 ];

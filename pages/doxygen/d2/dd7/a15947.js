@@ -1,5 +1,6 @@
 var a15947 =
 [
-    [ "go_ravager_cage", "d2/dd7/a15947.html#a632c767a4ab0075ee40d40e977fe7c18", null ],
-    [ "OnGossipHello", "d2/dd7/a15947.html#a83c9086cefea0d6d11a5de7a781d84db", null ]
+    [ "npc_death_ravagerAI", "dd/d8d/a15951.html", "dd/d8d/a15951" ],
+    [ "npc_death_ravager", "d2/dd7/a15947.html#a6aa04a28ce5aa0e467e638c8ffe11657", null ],
+    [ "GetAI", "d2/dd7/a15947.html#a284d0b8ccf902d3f03ddfc6750fe0f1c", null ]
 ];

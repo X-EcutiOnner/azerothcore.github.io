@@ -1,6 +1,20 @@
 var a16487 =
 [
-    [ "PrepareSpellScript", "dc/dfb/a16487.html#a2a3602af522bb8658c1bfdede1234efd", null ],
-    [ "Register", "dc/dfb/a16487.html#aba235111ea4e186064a85295466f2a3f", null ],
-    [ "SetDest", "dc/dfb/a16487.html#a89827e4db37bea4847c79265d95386c6", null ]
+    [ "boss_hadronox", "dc/dfb/a16487.html#a5f99247a1eb3ca11741c656db9f91864", null ],
+    [ "DamageTaken", "dc/dfb/a16487.html#a4c74557d814776061fe6df4c234885f1", null ],
+    [ "DoAction", "dc/dfb/a16487.html#a822059f4efa5e311bf3f79698ed3aa6e", null ],
+    [ "GetData", "dc/dfb/a16487.html#a9666b5af984f15afd52b9a81a12fd334", null ],
+    [ "IsInCombatWithPlayer", "dc/dfb/a16487.html#a00d15de04d2f63c71b762d8c05161295", null ],
+    [ "JustEngagedWith", "dc/dfb/a16487.html#a0ecc876405753200c1c2fe575635ffb0", null ],
+    [ "JustSummoned", "dc/dfb/a16487.html#a3a5680abcef0529dcfca6c27f42f8f61", null ],
+    [ "KilledUnit", "dc/dfb/a16487.html#a721fabc47cb7416879e73e143898ddef", null ],
+    [ "MoveDownRamp", "dc/dfb/a16487.html#aeef83df3c0736575a709d7588e726cf7", null ],
+    [ "MovementInform", "dc/dfb/a16487.html#a5e7c5226b0fb26a3c2d75726d5323af6", null ],
+    [ "Reset", "dc/dfb/a16487.html#a0d73acbe4061d48c2c5deb4203d0c9fb", null ],
+    [ "SummonCrusherPack", "dc/dfb/a16487.html#ab58a7949dd4797849cf98152e541b9a9", null ],
+    [ "SummonedCreatureEvade", "dc/dfb/a16487.html#a23fb17d6eb7a03e7efe0bffb28adee0c", null ],
+    [ "UpdateAI", "dc/dfb/a16487.html#aef361a41c7a3db94c00b594dd82ffabd", null ],
+    [ "_crushersLeft", "dc/dfb/a16487.html#a386cafa7de8fcaf6ac5d823af01fc443", null ],
+    [ "_doorsWebbed", "dc/dfb/a16487.html#a1515f5161e04e97734c538d7dede2902", null ],
+    [ "_lastPlayerCombatState", "dc/dfb/a16487.html#a0cd1b2eae097b327e845e5a3038c6342", null ]
 ];

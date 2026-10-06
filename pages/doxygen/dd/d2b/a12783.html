@@ -106,6 +106,7 @@ $(document).ready(function(){initNavTree('dd/d2b/a12783.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pri-methods">Private Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../d4/d14/a12780.html">List of all members</a>  </div>
   <div class="headertitle"><div class="title">npc_rocknot Struct Reference</div></div>
@@ -130,15 +131,18 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a890eaac55162130b05c7d2dba26cc872"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afaa1977f370fe699c75ebb83c0d291dd"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d2b/a12783.html#afaa1977f370fe699c75ebb83c0d291dd">Reset</a> () override</td></tr>
 <tr class="separator:afaa1977f370fe699c75ebb83c0d291dd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a633123eb64bd6d46ace12fd0e1853aef"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d2b/a12783.html#a633123eb64bd6d46ace12fd0e1853aef">sQuestReward</a> (<a class="el" href="../../d4/df4/a09099.html">Player</a> *, <a class="el" href="../../da/d86/a10715.html">Quest</a> const *quest, <a class="el" href="../../d6/d12/a04691.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>) override</td></tr>
-<tr class="separator:a633123eb64bd6d46ace12fd0e1853aef"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a242e871de8e19462fcab6fb9eae1039e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d2b/a12783.html#a242e871de8e19462fcab6fb9eae1039e">DoGo</a> (<a class="el" href="../../d6/d12/a04691.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> id, <a class="el" href="../../d6/d12/a04691.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> state)</td></tr>
-<tr class="separator:a242e871de8e19462fcab6fb9eae1039e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3711cae23b14dcce2ac1938aaeb9b961"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d2b/a12783.html#a3711cae23b14dcce2ac1938aaeb9b961">WaypointReached</a> (<a class="el" href="../../d6/d12/a04691.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> waypointId) override</td></tr>
-<tr class="separator:a3711cae23b14dcce2ac1938aaeb9b961"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a15755c98f937784f538d547b15c2d192"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d2b/a12783.html#a15755c98f937784f538d547b15c2d192">UpdateAI</a> (<a class="el" href="../../d6/d12/a04691.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> diff) override</td></tr>
-<tr class="memdesc:a15755c98f937784f538d547b15c2d192"><td class="mdescLeft">&#160;</td><td class="mdescRight">Use to start attacking a target. Called just before <a class="el" href="../../d0/d95/a06663.html#ac2ce21ab709e349abb8206ce2368cd37" title="Called for reaction when initially engaged - this happens after JustEnteredCombat.">JustEngagedWith()</a>  <a href="../../dd/d2b/a12783.html#a15755c98f937784f538d547b15c2d192">More...</a><br /></td></tr>
-<tr class="separator:a15755c98f937784f538d547b15c2d192"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae1ce3d6ee8f2cfe4703a21ba777f03d6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d2b/a12783.html#ae1ce3d6ee8f2cfe4703a21ba777f03d6">JustRespawned</a> () override</td></tr>
+<tr class="separator:ae1ce3d6ee8f2cfe4703a21ba777f03d6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a60f162031b22a4d723a7fc4087675aba"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d2b/a12783.html#a60f162031b22a4d723a7fc4087675aba">JustReachedHome</a> () override</td></tr>
+<tr class="separator:a60f162031b22a4d723a7fc4087675aba"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab8b6017d9b3c42ae8a93c42155da18da"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d2b/a12783.html#ab8b6017d9b3c42ae8a93c42155da18da">sQuestReward</a> (<a class="el" href="../../d4/df4/a09099.html">Player</a> *player, <a class="el" href="../../da/d86/a10715.html">Quest</a> const *quest, <a class="el" href="../../d6/d12/a04691.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>) override</td></tr>
+<tr class="separator:ab8b6017d9b3c42ae8a93c42155da18da"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0b2b2713776f9e18d3a772107e7c6974"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d2b/a12783.html#a0b2b2713776f9e18d3a772107e7c6974">WaypointStart</a> (<a class="el" href="../../d6/d12/a04691.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> pointId) override</td></tr>
+<tr class="separator:a0b2b2713776f9e18d3a772107e7c6974"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac7339cc0e765ea37976b52837814729b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d2b/a12783.html#ac7339cc0e765ea37976b52837814729b">WaypointReached</a> (<a class="el" href="../../d6/d12/a04691.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> pointId) override</td></tr>
+<tr class="separator:ac7339cc0e765ea37976b52837814729b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abfd4f9980a256d5c6275de7ad43cb532"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d2b/a12783.html#abfd4f9980a256d5c6275de7ad43cb532">UpdateEscortAI</a> (<a class="el" href="../../d6/d12/a04691.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> diff) override</td></tr>
+<tr class="separator:abfd4f9980a256d5c6275de7ad43cb532"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0d1122895c25211ca4c71cb651f13cef"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d2b/a12783.html#a0d1122895c25211ca4c71cb651f13cef">WaypointReached</a> (<a class="el" href="../../d6/d12/a04691.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d6/d12/a04691.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
 <tr class="separator:a0d1122895c25211ca4c71cb651f13cef"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_a06683"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a06683')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../dd/daa/a06683.html">npc_escortAI</a></td></tr>
@@ -613,14 +617,31 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:aa96fa3aa7728e3ae090105bb3d10de4a inherit pub_methods_a06607"><td class="memItemLeft" align="right" valign="top">virtual std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dc7/a06607.html#aa96fa3aa7728e3ae090105bb3d10de4a">GetDebugInfo</a> () const</td></tr>
 <tr class="separator:aa96fa3aa7728e3ae090105bb3d10de4a inherit pub_methods_a06607"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
+Private Member Functions</h2></td></tr>
+<tr class="memitem:a4fccfed7a0f7d1e0832ddeb86dab79b0"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d2b/a12783.html#a4fccfed7a0f7d1e0832ddeb86dab79b0">StartAleEvent</a> ()</td></tr>
+<tr class="separator:a4fccfed7a0f7d1e0832ddeb86dab79b0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acbb5451172867b047b50e0f2bd9aa08c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/d00/a08651.html">GameObject</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d2b/a12783.html#acbb5451172867b047b50e0f2bd9aa08c">GetBarObject</a> (<a class="el" href="../../d6/d12/a04691.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> data) const</td></tr>
+<tr class="separator:acbb5451172867b047b50e0f2bd9aa08c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:a71e6532128131a10aae575d1bac023d0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/d3a/a10159.html">InstanceScript</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d2b/a12783.html#a71e6532128131a10aae575d1bac023d0">instance</a></td></tr>
-<tr class="separator:a71e6532128131a10aae575d1bac023d0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad6e48e6f81521b89da9f528e079c1c90"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d12/a04691.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d2b/a12783.html#ad6e48e6f81521b89da9f528e079c1c90">_breakKegTimer</a></td></tr>
-<tr class="separator:ad6e48e6f81521b89da9f528e079c1c90"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a44955a4ef0e730f72848e582892380b5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d12/a04691.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d2b/a12783.html#a44955a4ef0e730f72848e582892380b5">_breakDoorTimer</a></td></tr>
-<tr class="separator:a44955a4ef0e730f72848e582892380b5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa5cf4c54ccef4e0800f537cdeac163a7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/d3a/a10159.html">InstanceScript</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d2b/a12783.html#aa5cf4c54ccef4e0800f537cdeac163a7">_instance</a></td></tr>
+<tr class="separator:aa5cf4c54ccef4e0800f537cdeac163a7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afffae96bb89286dd506db76d6e69b05b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/dfd/a05871.html">EventMap</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d2b/a12783.html#afffae96bb89286dd506db76d6e69b05b">_events</a></td></tr>
+<tr class="separator:afffae96bb89286dd506db76d6e69b05b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8d4b1ee7abd210f00db3e49154a6f729"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d2b/a12783.html#a8d4b1ee7abd210f00db3e49154a6f729">_aleComplete</a></td></tr>
+<tr class="separator:a8d4b1ee7abd210f00db3e49154a6f729"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af177898359d5c274350555a5ca63fc0b"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d2b/a12783.html#af177898359d5c274350555a5ca63fc0b">_aleEventActive</a> = false</td></tr>
+<tr class="separator:af177898359d5c274350555a5ca63fc0b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9435a45a4f4bf73355f339a737fb4540"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d2b/a12783.html#a9435a45a4f4bf73355f339a737fb4540">_recovering</a> = false</td></tr>
+<tr class="separator:a9435a45a4f4bf73355f339a737fb4540"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab13c0b098679c30da4b642bab7200d99"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/dc3/a08931.html">Position</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d2b/a12783.html#ab13c0b098679c30da4b642bab7200d99">_originalPosition</a></td></tr>
+<tr class="separator:ab13c0b098679c30da4b642bab7200d99"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5ba6b36a8757dcba9fba20f8debe54e7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d33/a03269.html#ab054baf099d873bce22a0e84ae1090e2">NPCFlags</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d2b/a12783.html#a5ba6b36a8757dcba9fba20f8debe54e7">_originalNpcFlags</a> = <a class="el" href="../../d9/d33/a03269.html#ab054baf099d873bce22a0e84ae1090e2a7d75bb1546efb3a78c8ca3798667e2ef">UNIT_NPC_FLAG_NONE</a></td></tr>
+<tr class="separator:a5ba6b36a8757dcba9fba20f8debe54e7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a46f52ea33be20bebcebcf892ef4e38a0"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d2b/a12783.html#a46f52ea33be20bebcebcf892ef4e38a0">_originalImmuneToNPC</a> = false</td></tr>
+<tr class="separator:a46f52ea33be20bebcebcf892ef4e38a0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="inherited" name="inherited"></a>
 Additional Inherited Members</h2></td></tr>
@@ -720,21 +741,35 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  476</span>                                    : <a class="code hl_struct" href="../../dd/daa/a06683.html">npc_escortAI</a>(creature)</div>
-<div class="line"><span class="lineno">  477</span>    {</div>
-<div class="line"><span class="lineno">  478</span>        <a class="code hl_variable" href="../../dd/d2b/a12783.html#a71e6532128131a10aae575d1bac023d0">instance</a> = creature-&gt;<a class="code hl_function" href="../../d4/d08/a08883.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>();</div>
-<div class="line"><span class="lineno">  479</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  642</span>                                    : <a class="code hl_struct" href="../../dd/daa/a06683.html">npc_escortAI</a>(creature),</div>
+<div class="line"><span class="lineno">  643</span>        <a class="code hl_variable" href="../../dd/d2b/a12783.html#aa5cf4c54ccef4e0800f537cdeac163a7">_instance</a>(creature-&gt;<a class="code hl_function" href="../../d4/d08/a08883.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>()), <a class="code hl_variable" href="../../dd/d2b/a12783.html#a8d4b1ee7abd210f00db3e49154a6f729">_aleComplete</a>(<span class="keyword">false</span>)</div>
+<div class="line"><span class="lineno">  644</span>    {</div>
+<div class="line"><span class="lineno">  645</span>        <span class="keywordflow">if</span> (<a class="code hl_struct" href="../../d5/dfe/a10635.html">WaypointPath</a> <span class="keyword">const</span>* path = <a class="code hl_define" href="../../d7/d4f/a03746.html#a8e3218ae672aeeb8c1d9dc23a3a1a627">sWaypointMgr</a>-&gt;GetPath(<a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#ab9b4334d6d2bc49431118d630e153e62aa03659e92604835f23877ada64b0536e">PATH_ROCKNOT_ALE</a>))</div>
+<div class="line"><span class="lineno">  646</span>            <span class="keywordflow">for</span> (<a class="code hl_struct" href="../../de/df9/a10631.html">WaypointNode</a> <span class="keyword">const</span>&amp; node : path-&gt;Nodes)</div>
+<div class="line"><span class="lineno">  647</span>                <a class="code hl_function" href="../../dd/daa/a06683.html#af6676a7693026ce6a35975d2358ff3e6">AddWaypoint</a>(node.<a class="code hl_variable" href="../../de/df9/a10631.html#aec030367189f87dec789df49303916ed">Id</a>, node.<a class="code hl_variable" href="../../de/df9/a10631.html#aa62bd26c57e5cfbe62de0eb2d63e4610">X</a>, node.<a class="code hl_variable" href="../../de/df9/a10631.html#aba6568aff3a204c9e4ad8bfaeeaabc56">Y</a>, node.<a class="code hl_variable" href="../../de/df9/a10631.html#aab4756345912b48fd2f352464e24bc1a">Z</a>, node.<a class="code hl_variable" href="../../de/df9/a10631.html#a03268e85010c56f29325b80a9624a73b">Delay</a>);</div>
+<div class="line"><span class="lineno">  648</span>    }</div>
+<div class="ttc" id="aa01595_html_ab9b4334d6d2bc49431118d630e153e62aa03659e92604835f23877ada64b0536e"><div class="ttname"><a href="../../dc/dbf/a01595.html#ab9b4334d6d2bc49431118d630e153e62aa03659e92604835f23877ada64b0536e">PATH_ROCKNOT_ALE</a></div><div class="ttdeci">@ PATH_ROCKNOT_ALE</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:628</div></div>
+<div class="ttc" id="aa03746_html_a8e3218ae672aeeb8c1d9dc23a3a1a627"><div class="ttname"><a href="../../d7/d4f/a03746.html#a8e3218ae672aeeb8c1d9dc23a3a1a627">sWaypointMgr</a></div><div class="ttdeci">#define sWaypointMgr</div><div class="ttdef"><b>Definition:</b> WaypointMgr.h:54</div></div>
 <div class="ttc" id="aa06683_html"><div class="ttname"><a href="../../dd/daa/a06683.html">npc_escortAI</a></div><div class="ttdef"><b>Definition:</b> ScriptedEscortAI.h:53</div></div>
+<div class="ttc" id="aa06683_html_af6676a7693026ce6a35975d2358ff3e6"><div class="ttname"><a href="../../dd/daa/a06683.html#af6676a7693026ce6a35975d2358ff3e6">npc_escortAI::AddWaypoint</a></div><div class="ttdeci">void AddWaypoint(uint32 id, float x, float y, float z, uint32 waitTime=0)</div><div class="ttdef"><b>Definition:</b> ScriptedEscortAI.cpp:395</div></div>
 <div class="ttc" id="aa08883_html_a29762f86d0726e4d229df51281b9d710"><div class="ttname"><a href="../../d4/d08/a08883.html#a29762f86d0726e4d229df51281b9d710">WorldObject::GetInstanceScript</a></div><div class="ttdeci">InstanceScript * GetInstanceScript() const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1247</div></div>
-<div class="ttc" id="aa12783_html_a71e6532128131a10aae575d1bac023d0"><div class="ttname"><a href="../../dd/d2b/a12783.html#a71e6532128131a10aae575d1bac023d0">npc_rocknot::instance</a></div><div class="ttdeci">InstanceScript * instance</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:583</div></div>
+<div class="ttc" id="aa10631_html"><div class="ttname"><a href="../../de/df9/a10631.html">WaypointNode</a></div><div class="ttdef"><b>Definition:</b> WaypointDefines.h:37</div></div>
+<div class="ttc" id="aa10631_html_a03268e85010c56f29325b80a9624a73b"><div class="ttname"><a href="../../de/df9/a10631.html#a03268e85010c56f29325b80a9624a73b">WaypointNode::Delay</a></div><div class="ttdeci">uint32 Delay</div><div class="ttdef"><b>Definition:</b> WaypointDefines.h:51</div></div>
+<div class="ttc" id="aa10631_html_aa62bd26c57e5cfbe62de0eb2d63e4610"><div class="ttname"><a href="../../de/df9/a10631.html#aa62bd26c57e5cfbe62de0eb2d63e4610">WaypointNode::X</a></div><div class="ttdeci">float X</div><div class="ttdef"><b>Definition:</b> WaypointDefines.h:48</div></div>
+<div class="ttc" id="aa10631_html_aab4756345912b48fd2f352464e24bc1a"><div class="ttname"><a href="../../de/df9/a10631.html#aab4756345912b48fd2f352464e24bc1a">WaypointNode::Z</a></div><div class="ttdeci">float Z</div><div class="ttdef"><b>Definition:</b> WaypointDefines.h:48</div></div>
+<div class="ttc" id="aa10631_html_aba6568aff3a204c9e4ad8bfaeeaabc56"><div class="ttname"><a href="../../de/df9/a10631.html#aba6568aff3a204c9e4ad8bfaeeaabc56">WaypointNode::Y</a></div><div class="ttdeci">float Y</div><div class="ttdef"><b>Definition:</b> WaypointDefines.h:48</div></div>
+<div class="ttc" id="aa10631_html_aec030367189f87dec789df49303916ed"><div class="ttname"><a href="../../de/df9/a10631.html#aec030367189f87dec789df49303916ed">WaypointNode::Id</a></div><div class="ttdeci">uint32 Id</div><div class="ttdef"><b>Definition:</b> WaypointDefines.h:47</div></div>
+<div class="ttc" id="aa10635_html"><div class="ttname"><a href="../../d5/dfe/a10635.html">WaypointPath</a></div><div class="ttdef"><b>Definition:</b> WaypointDefines.h:60</div></div>
+<div class="ttc" id="aa12783_html_a8d4b1ee7abd210f00db3e49154a6f729"><div class="ttname"><a href="../../dd/d2b/a12783.html#a8d4b1ee7abd210f00db3e49154a6f729">npc_rocknot::_aleComplete</a></div><div class="ttdeci">bool _aleComplete</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:848</div></div>
+<div class="ttc" id="aa12783_html_aa5cf4c54ccef4e0800f537cdeac163a7"><div class="ttname"><a href="../../dd/d2b/a12783.html#aa5cf4c54ccef4e0800f537cdeac163a7">npc_rocknot::_instance</a></div><div class="ttdeci">InstanceScript * _instance</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:846</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01247">WorldObject::GetInstanceScript()</a>, and <a class="el" href="../../#l00583">instance</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00395">npc_escortAI::AddWaypoint()</a>, <a class="el" href="../../#l00051">WaypointNode::Delay</a>, <a class="el" href="../../#l00047">WaypointNode::Id</a>, <a class="el" href="../../#l00628">PATH_ROCKNOT_ALE</a>, <a class="el" href="../../#l00054">sWaypointMgr</a>, <a class="el" href="../../#l00048">WaypointNode::X</a>, <a class="el" href="../../#l00048">WaypointNode::Y</a>, and <a class="el" href="../../#l00048">WaypointNode::Z</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a242e871de8e19462fcab6fb9eae1039e" name="a242e871de8e19462fcab6fb9eae1039e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a242e871de8e19462fcab6fb9eae1039e">&#9670;&#160;</a></span>DoGo()</h2>
+<a id="acbb5451172867b047b50e0f2bd9aa08c" name="acbb5451172867b047b50e0f2bd9aa08c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acbb5451172867b047b50e0f2bd9aa08c">&#9670;&#160;</a></span>GetBarObject()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -743,42 +778,135 @@ Additional Inherited Members</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void npc_rocknot::DoGo </td>
+          <td class="memname"><a class="el" href="../../d7/d00/a08651.html">GameObject</a> * npc_rocknot::GetBarObject </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="../../d6/d12/a04691.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>id</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d6/d12/a04691.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>state</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="paramname"><em>data</em></td><td>)</td>
+          <td> const</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">private</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  517</span>    {</div>
-<div class="line"><span class="lineno">  518</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d7/d00/a08651.html">GameObject</a>* go = <a class="code hl_variable" href="../../dd/d2b/a12783.html#a71e6532128131a10aae575d1bac023d0">instance</a>-&gt;<a class="code hl_variable" href="../../da/d3a/a10159.html#a4b84b9635742380ce5dc6e2f8d76e30b">instance</a>-&gt;<a class="code hl_function" href="../../da/db8/a10315.html#a8de10cbc5e54efeefdf7b0744ad286e2">GetGameObject</a>(<a class="code hl_variable" href="../../dd/d2b/a12783.html#a71e6532128131a10aae575d1bac023d0">instance</a>-&gt;<a class="code hl_function" href="../../da/d3a/a10159.html#a3be7f24ca31c9433aca546e1087109b4">GetGuidData</a>(<span class="keywordtype">id</span>)))</div>
-<div class="line"><span class="lineno">  519</span>            go-&gt;SetGoState((<a class="code hl_enumeration" href="../../d9/d5e/a03086.html#ac17cd142af80da019367bb796b15e5ab">GOState</a>)state);</div>
-<div class="line"><span class="lineno">  520</span>    }</div>
-<div class="ttc" id="aa03086_html_ac17cd142af80da019367bb796b15e5ab"><div class="ttname"><a href="../../d9/d5e/a03086.html#ac17cd142af80da019367bb796b15e5ab">GOState</a></div><div class="ttdeci">GOState</div><div class="ttdef"><b>Definition:</b> GameObjectData.h:707</div></div>
-<div class="ttc" id="aa08651_html"><div class="ttname"><a href="../../d7/d00/a08651.html">GameObject</a></div><div class="ttdef"><b>Definition:</b> GameObject.h:120</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  842</span>    {</div>
+<div class="line"><span class="lineno">  843</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dd/d2b/a12783.html#aa5cf4c54ccef4e0800f537cdeac163a7">_instance</a> ? <a class="code hl_variable" href="../../dd/d2b/a12783.html#aa5cf4c54ccef4e0800f537cdeac163a7">_instance</a>-&gt;<a class="code hl_variable" href="../../da/d3a/a10159.html#a4b84b9635742380ce5dc6e2f8d76e30b">instance</a>-&gt;<a class="code hl_function" href="../../da/db8/a10315.html#a8de10cbc5e54efeefdf7b0744ad286e2">GetGameObject</a>(<a class="code hl_variable" href="../../dd/d2b/a12783.html#aa5cf4c54ccef4e0800f537cdeac163a7">_instance</a>-&gt;<a class="code hl_function" href="../../da/d3a/a10159.html#a3be7f24ca31c9433aca546e1087109b4">GetGuidData</a>(data)) : <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  844</span>    }</div>
 <div class="ttc" id="aa10159_html_a3be7f24ca31c9433aca546e1087109b4"><div class="ttname"><a href="../../da/d3a/a10159.html#a3be7f24ca31c9433aca546e1087109b4">InstanceScript::GetGuidData</a></div><div class="ttdeci">ObjectGuid GetGuidData(uint32 type) const override</div><div class="ttdef"><b>Definition:</b> InstanceScript.cpp:121</div></div>
 <div class="ttc" id="aa10159_html_a4b84b9635742380ce5dc6e2f8d76e30b"><div class="ttname"><a href="../../da/d3a/a10159.html#a4b84b9635742380ce5dc6e2f8d76e30b">InstanceScript::instance</a></div><div class="ttdeci">Map * instance</div><div class="ttdef"><b>Definition:</b> InstanceScript.h:149</div></div>
 <div class="ttc" id="aa10315_html_a8de10cbc5e54efeefdf7b0744ad286e2"><div class="ttname"><a href="../../da/db8/a10315.html#a8de10cbc5e54efeefdf7b0744ad286e2">Map::GetGameObject</a></div><div class="ttdeci">GameObject * GetGameObject(ObjectGuid const &amp;guid)</div><div class="ttdef"><b>Definition:</b> Map.cpp:2447</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02447">Map::GetGameObject()</a>, <a class="el" href="../../#l00121">InstanceScript::GetGuidData()</a>, <a class="el" href="../../#l00149">InstanceScript::instance</a>, and <a class="el" href="../../#l00583">instance</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00846">_instance</a>, <a class="el" href="../../#l02447">Map::GetGameObject()</a>, <a class="el" href="../../#l00121">InstanceScript::GetGuidData()</a>, and <a class="el" href="../../#l00149">InstanceScript::instance</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00546">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00758">UpdateEscortAI()</a>.</p>
+
+</div>
+</div>
+<a id="a60f162031b22a4d723a7fc4087675aba" name="a60f162031b22a4d723a7fc4087675aba"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a60f162031b22a4d723a7fc4087675aba">&#9670;&#160;</a></span>JustReachedHome()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void npc_rocknot::JustReachedHome </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Reimplemented from <a class="el" href="../../dc/d4f/a06619.html#a85468652a394c5f2b3b14d822ac2d222">CreatureAI</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">  679</span>    {</div>
+<div class="line"><span class="lineno">  680</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../dd/d2b/a12783.html#a9435a45a4f4bf73355f339a737fb4540">_recovering</a> || <a class="code hl_variable" href="../../dd/d2b/a12783.html#afffae96bb89286dd506db76d6e69b05b">_events</a>.<a class="code hl_function" href="../../d5/dfd/a05871.html#a40b956090fb03afea7bda154e82904d3">HasTimeUntilEvent</a>(<a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54a5e157feac7a2e1dad12acd487e475966">EVENT_ROCKNOT_RECOVER</a>))</div>
+<div class="line"><span class="lineno">  681</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  682</span> </div>
+<div class="line"><span class="lineno">  683</span>        <a class="code hl_variable" href="../../dd/d2b/a12783.html#a9435a45a4f4bf73355f339a737fb4540">_recovering</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  684</span>        <a class="code hl_variable" href="../../dd/d2b/a12783.html#af177898359d5c274350555a5ca63fc0b">_aleEventActive</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  685</span>        <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#aac3ce6c38706671a574c29913ae6cb53">SetEmoteState</a>(<a class="code hl_enumvalue" href="../../d4/d81/a00110.html#a0e527855c554e31654c9beb340145574abf6bb7031ec3c29baf7830d91ea9af30">EMOTE_STATE_NONE</a>);</div>
+<div class="line"><span class="lineno">  686</span>        <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#a15935c3f574e8b3e72952561c75e6faf">SetFacingTo</a>(<a class="code hl_variable" href="../../dd/d2b/a12783.html#ab13c0b098679c30da4b642bab7200d99">_originalPosition</a>.<a class="code hl_function" href="../../d7/dc3/a08931.html#a74cabfb8f441acb38e1abd5bf6ecdc84">GetOrientation</a>());</div>
+<div class="line"><span class="lineno">  687</span>        <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#af9a5a43c2d7940c38f8b101409666a0d">RemoveUnitFlag</a>(<a class="code hl_enumvalue" href="../../d9/d33/a03269.html#affdd0d554c8bcaaa85a879f5a9d60934a8b7b8fe906282847f5f337728d4a534f">UNIT_FLAG_NOT_SELECTABLE</a>);</div>
+<div class="line"><span class="lineno">  688</span>        <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#a30916cea4482178e6ef32ed5c0087367">SetImmuneToNPC</a>(<a class="code hl_variable" href="../../dd/d2b/a12783.html#a46f52ea33be20bebcebcf892ef4e38a0">_originalImmuneToNPC</a>);</div>
+<div class="line"><span class="lineno">  689</span>        <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#aea06ec7c050df356832ced656e5c162c">ReplaceAllNpcFlags</a>(<a class="code hl_variable" href="../../dd/d2b/a12783.html#a5ba6b36a8757dcba9fba20f8debe54e7">_originalNpcFlags</a>);</div>
+<div class="line"><span class="lineno">  690</span>    }</div>
+<div class="ttc" id="aa00110_html_a0e527855c554e31654c9beb340145574abf6bb7031ec3c29baf7830d91ea9af30"><div class="ttname"><a href="../../d4/d81/a00110.html#a0e527855c554e31654c9beb340145574abf6bb7031ec3c29baf7830d91ea9af30">EMOTE_STATE_NONE</a></div><div class="ttdeci">@ EMOTE_STATE_NONE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1926</div></div>
+<div class="ttc" id="aa01595_html_a107098a8e50cf4edccc1a3a1131e8e54a5e157feac7a2e1dad12acd487e475966"><div class="ttname"><a href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54a5e157feac7a2e1dad12acd487e475966">EVENT_ROCKNOT_RECOVER</a></div><div class="ttdeci">@ EVENT_ROCKNOT_RECOVER</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:623</div></div>
+<div class="ttc" id="aa03269_html_affdd0d554c8bcaaa85a879f5a9d60934a8b7b8fe906282847f5f337728d4a534f"><div class="ttname"><a href="../../d9/d33/a03269.html#affdd0d554c8bcaaa85a879f5a9d60934a8b7b8fe906282847f5f337728d4a534f">UNIT_FLAG_NOT_SELECTABLE</a></div><div class="ttdeci">@ UNIT_FLAG_NOT_SELECTABLE</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:282</div></div>
+<div class="ttc" id="aa05871_html_a40b956090fb03afea7bda154e82904d3"><div class="ttname"><a href="../../d5/dfd/a05871.html#a40b956090fb03afea7bda154e82904d3">EventMap::HasTimeUntilEvent</a></div><div class="ttdeci">bool HasTimeUntilEvent(EventId eventId) const</div><div class="ttdef"><b>Definition:</b> EventMap.cpp:209</div></div>
+<div class="ttc" id="aa06663_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition:</b> ScriptedCreature.h:281</div></div>
+<div class="ttc" id="aa08931_html_a74cabfb8f441acb38e1abd5bf6ecdc84"><div class="ttname"><a href="../../d7/dc3/a08931.html#a74cabfb8f441acb38e1abd5bf6ecdc84">Position::GetOrientation</a></div><div class="ttdeci">float GetOrientation() const</div><div class="ttdef"><b>Definition:</b> Position.h:124</div></div>
+<div class="ttc" id="aa09227_html_a15935c3f574e8b3e72952561c75e6faf"><div class="ttname"><a href="../../d9/d33/a09227.html#a15935c3f574e8b3e72952561c75e6faf">Unit::SetFacingTo</a></div><div class="ttdeci">void SetFacingTo(float ori)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:16072</div></div>
+<div class="ttc" id="aa09227_html_a30916cea4482178e6ef32ed5c0087367"><div class="ttname"><a href="../../d9/d33/a09227.html#a30916cea4482178e6ef32ed5c0087367">Unit::SetImmuneToNPC</a></div><div class="ttdeci">void SetImmuneToNPC(bool apply, bool keepCombat=false)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:10404</div></div>
+<div class="ttc" id="aa09227_html_aac3ce6c38706671a574c29913ae6cb53"><div class="ttname"><a href="../../d9/d33/a09227.html#aac3ce6c38706671a574c29913ae6cb53">Unit::SetEmoteState</a></div><div class="ttdeci">void SetEmoteState(Emote emoteState)</div><div class="ttdef"><b>Definition:</b> Unit.h:761</div></div>
+<div class="ttc" id="aa09227_html_aea06ec7c050df356832ced656e5c162c"><div class="ttname"><a href="../../d9/d33/a09227.html#aea06ec7c050df356832ced656e5c162c">Unit::ReplaceAllNpcFlags</a></div><div class="ttdeci">void ReplaceAllNpcFlags(NPCFlags flags)</div><div class="ttdef"><b>Definition:</b> Unit.h:769</div></div>
+<div class="ttc" id="aa09227_html_af9a5a43c2d7940c38f8b101409666a0d"><div class="ttname"><a href="../../d9/d33/a09227.html#af9a5a43c2d7940c38f8b101409666a0d">Unit::RemoveUnitFlag</a></div><div class="ttdeci">void RemoveUnitFlag(UnitFlags flags)</div><div class="ttdoc">UnitFlags available in UnitDefines.h.</div><div class="ttdef"><b>Definition:</b> Unit.h:752</div></div>
+<div class="ttc" id="aa12783_html_a46f52ea33be20bebcebcf892ef4e38a0"><div class="ttname"><a href="../../dd/d2b/a12783.html#a46f52ea33be20bebcebcf892ef4e38a0">npc_rocknot::_originalImmuneToNPC</a></div><div class="ttdeci">bool _originalImmuneToNPC</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:853</div></div>
+<div class="ttc" id="aa12783_html_a5ba6b36a8757dcba9fba20f8debe54e7"><div class="ttname"><a href="../../dd/d2b/a12783.html#a5ba6b36a8757dcba9fba20f8debe54e7">npc_rocknot::_originalNpcFlags</a></div><div class="ttdeci">NPCFlags _originalNpcFlags</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:852</div></div>
+<div class="ttc" id="aa12783_html_a9435a45a4f4bf73355f339a737fb4540"><div class="ttname"><a href="../../dd/d2b/a12783.html#a9435a45a4f4bf73355f339a737fb4540">npc_rocknot::_recovering</a></div><div class="ttdeci">bool _recovering</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:850</div></div>
+<div class="ttc" id="aa12783_html_ab13c0b098679c30da4b642bab7200d99"><div class="ttname"><a href="../../dd/d2b/a12783.html#ab13c0b098679c30da4b642bab7200d99">npc_rocknot::_originalPosition</a></div><div class="ttdeci">Position _originalPosition</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:851</div></div>
+<div class="ttc" id="aa12783_html_af177898359d5c274350555a5ca63fc0b"><div class="ttname"><a href="../../dd/d2b/a12783.html#af177898359d5c274350555a5ca63fc0b">npc_rocknot::_aleEventActive</a></div><div class="ttdeci">bool _aleEventActive</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:849</div></div>
+<div class="ttc" id="aa12783_html_afffae96bb89286dd506db76d6e69b05b"><div class="ttname"><a href="../../dd/d2b/a12783.html#afffae96bb89286dd506db76d6e69b05b">npc_rocknot::_events</a></div><div class="ttdeci">EventMap _events</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:847</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00849">_aleEventActive</a>, <a class="el" href="../../#l00847">_events</a>, <a class="el" href="../../#l00853">_originalImmuneToNPC</a>, <a class="el" href="../../#l00852">_originalNpcFlags</a>, <a class="el" href="../../#l00851">_originalPosition</a>, <a class="el" href="../../#l00850">_recovering</a>, <a class="el" href="../../#l01926">EMOTE_STATE_NONE</a>, <a class="el" href="../../#l00623">EVENT_ROCKNOT_RECOVER</a>, <a class="el" href="../../#l00124">Position::GetOrientation()</a>, <a class="el" href="../../#l00209">EventMap::HasTimeUntilEvent()</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l00752">Unit::RemoveUnitFlag()</a>, <a class="el" href="../../#l00769">Unit::ReplaceAllNpcFlags()</a>, <a class="el" href="../../#l00761">Unit::SetEmoteState()</a>, <a class="el" href="../../#l16072">Unit::SetFacingTo()</a>, <a class="el" href="../../#l10404">Unit::SetImmuneToNPC()</a>, and <a class="el" href="../../#l00282">UNIT_FLAG_NOT_SELECTABLE</a>.</p>
+
+</div>
+</div>
+<a id="ae1ce3d6ee8f2cfe4703a21ba777f03d6" name="ae1ce3d6ee8f2cfe4703a21ba777f03d6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae1ce3d6ee8f2cfe4703a21ba777f03d6">&#9670;&#160;</a></span>JustRespawned()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void npc_rocknot::JustRespawned </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Reimplemented from <a class="el" href="../../dd/daa/a06683.html#ac0b0fe06c694cbc0490fa3965c7c38ee">npc_escortAI</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">  661</span>    {</div>
+<div class="line"><span class="lineno">  662</span>        <span class="keywordtype">bool</span> <span class="keyword">const</span> restartAleEvent = <a class="code hl_variable" href="../../dd/d2b/a12783.html#af177898359d5c274350555a5ca63fc0b">_aleEventActive</a> &amp;&amp; !<a class="code hl_variable" href="../../dd/d2b/a12783.html#a8d4b1ee7abd210f00db3e49154a6f729">_aleComplete</a>;</div>
+<div class="line"><span class="lineno">  663</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/d2b/a12783.html#af177898359d5c274350555a5ca63fc0b">_aleEventActive</a>)</div>
+<div class="line"><span class="lineno">  664</span>        {</div>
+<div class="line"><span class="lineno">  665</span>            <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d5/d6c/a08471.html#a0ab9e2649cc4b0103aea6a52e8f1a5ea">SetHomePosition</a>(<a class="code hl_variable" href="../../dd/d2b/a12783.html#ab13c0b098679c30da4b642bab7200d99">_originalPosition</a>);</div>
+<div class="line"><span class="lineno">  666</span>            <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#a30916cea4482178e6ef32ed5c0087367">SetImmuneToNPC</a>(<a class="code hl_variable" href="../../dd/d2b/a12783.html#a46f52ea33be20bebcebcf892ef4e38a0">_originalImmuneToNPC</a>);</div>
+<div class="line"><span class="lineno">  667</span>            <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#aea06ec7c050df356832ced656e5c162c">ReplaceAllNpcFlags</a>(<a class="code hl_variable" href="../../dd/d2b/a12783.html#a5ba6b36a8757dcba9fba20f8debe54e7">_originalNpcFlags</a>);</div>
+<div class="line"><span class="lineno">  668</span>        }</div>
+<div class="line"><span class="lineno">  669</span>        <a class="code hl_variable" href="../../dd/d2b/a12783.html#af177898359d5c274350555a5ca63fc0b">_aleEventActive</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  670</span>        <a class="code hl_variable" href="../../dd/d2b/a12783.html#a9435a45a4f4bf73355f339a737fb4540">_recovering</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  671</span>        <a class="code hl_function" href="../../dd/daa/a06683.html#ac0b0fe06c694cbc0490fa3965c7c38ee">npc_escortAI::JustRespawned</a>();</div>
+<div class="line"><span class="lineno">  672</span> </div>
+<div class="line"><span class="lineno">  673</span>        <span class="comment">// The three ales were already handed in; restart without charging for them again.</span></div>
+<div class="line"><span class="lineno">  674</span>        <span class="keywordflow">if</span> (restartAleEvent)</div>
+<div class="line"><span class="lineno">  675</span>            <a class="code hl_function" href="../../dd/d2b/a12783.html#a4fccfed7a0f7d1e0832ddeb86dab79b0">StartAleEvent</a>();</div>
+<div class="line"><span class="lineno">  676</span>    }</div>
+<div class="ttc" id="aa06683_html_ac0b0fe06c694cbc0490fa3965c7c38ee"><div class="ttname"><a href="../../dd/daa/a06683.html#ac0b0fe06c694cbc0490fa3965c7c38ee">npc_escortAI::JustRespawned</a></div><div class="ttdeci">void JustRespawned() override</div><div class="ttdef"><b>Definition:</b> ScriptedEscortAI.cpp:169</div></div>
+<div class="ttc" id="aa08471_html_a0ab9e2649cc4b0103aea6a52e8f1a5ea"><div class="ttname"><a href="../../d5/d6c/a08471.html#a0ab9e2649cc4b0103aea6a52e8f1a5ea">Creature::SetHomePosition</a></div><div class="ttdeci">void SetHomePosition(float x, float y, float z, float o)</div><div class="ttdef"><b>Definition:</b> Creature.h:347</div></div>
+<div class="ttc" id="aa12783_html_a4fccfed7a0f7d1e0832ddeb86dab79b0"><div class="ttname"><a href="../../dd/d2b/a12783.html#a4fccfed7a0f7d1e0832ddeb86dab79b0">npc_rocknot::StartAleEvent</a></div><div class="ttdeci">void StartAleEvent()</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:824</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00848">_aleComplete</a>, <a class="el" href="../../#l00849">_aleEventActive</a>, <a class="el" href="../../#l00853">_originalImmuneToNPC</a>, <a class="el" href="../../#l00852">_originalNpcFlags</a>, <a class="el" href="../../#l00851">_originalPosition</a>, <a class="el" href="../../#l00850">_recovering</a>, <a class="el" href="../../#l00169">npc_escortAI::JustRespawned()</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l00769">Unit::ReplaceAllNpcFlags()</a>, <a class="el" href="../../#l00347">Creature::SetHomePosition()</a>, <a class="el" href="../../#l10404">Unit::SetImmuneToNPC()</a>, and <a class="el" href="../../#l00824">StartAleEvent()</a>.</p>
 
 </div>
 </div>
@@ -806,24 +934,24 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d0/d95/a06663.html#a26600c116d20a33461fc884bdb82eda9">ScriptedAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  482</span>    {</div>
-<div class="line"><span class="lineno">  483</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../dd/daa/a06683.html#a19a101aa424360959c09220f8a67bbe5">HasEscortState</a>(<a class="code hl_enumvalue" href="../../d8/dbe/a03521.html#af40ca4990501264cb0359ab6d93fb08aa276eb485ebaeb34de738a76731763b92">STATE_ESCORT_ESCORTING</a>))</div>
-<div class="line"><span class="lineno">  484</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  485</span> </div>
-<div class="line"><span class="lineno">  486</span>        <a class="code hl_variable" href="../../dd/d2b/a12783.html#ad6e48e6f81521b89da9f528e079c1c90">_breakKegTimer</a> = 0;</div>
-<div class="line"><span class="lineno">  487</span>        <a class="code hl_variable" href="../../dd/d2b/a12783.html#a44955a4ef0e730f72848e582892380b5">_breakDoorTimer</a> = 0;</div>
-<div class="line"><span class="lineno">  488</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  651</span>    {</div>
+<div class="line"><span class="lineno">  652</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../dd/daa/a06683.html#a19a101aa424360959c09220f8a67bbe5">HasEscortState</a>(<a class="code hl_enumvalue" href="../../d8/dbe/a03521.html#af40ca4990501264cb0359ab6d93fb08aa276eb485ebaeb34de738a76731763b92">STATE_ESCORT_ESCORTING</a>) || <a class="code hl_variable" href="../../dd/d2b/a12783.html#af177898359d5c274350555a5ca63fc0b">_aleEventActive</a>)</div>
+<div class="line"><span class="lineno">  653</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  654</span> </div>
+<div class="line"><span class="lineno">  655</span>        <a class="code hl_variable" href="../../dd/d2b/a12783.html#afffae96bb89286dd506db76d6e69b05b">_events</a>.<a class="code hl_function" href="../../d5/dfd/a05871.html#afd6b5b23aa26797b6de1275c70268808">Reset</a>();</div>
+<div class="line"><span class="lineno">  656</span>        <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#af9a5a43c2d7940c38f8b101409666a0d">RemoveUnitFlag</a>(<a class="code hl_enumvalue" href="../../d9/d33/a03269.html#affdd0d554c8bcaaa85a879f5a9d60934a8b7b8fe906282847f5f337728d4a534f">UNIT_FLAG_NOT_SELECTABLE</a>);</div>
+<div class="line"><span class="lineno">  657</span>        <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#aac3ce6c38706671a574c29913ae6cb53">SetEmoteState</a>(<a class="code hl_enumvalue" href="../../d4/d81/a00110.html#a0e527855c554e31654c9beb340145574abf6bb7031ec3c29baf7830d91ea9af30">EMOTE_STATE_NONE</a>);</div>
+<div class="line"><span class="lineno">  658</span>    }</div>
 <div class="ttc" id="aa03521_html_af40ca4990501264cb0359ab6d93fb08aa276eb485ebaeb34de738a76731763b92"><div class="ttname"><a href="../../d8/dbe/a03521.html#af40ca4990501264cb0359ab6d93fb08aa276eb485ebaeb34de738a76731763b92">STATE_ESCORT_ESCORTING</a></div><div class="ttdeci">@ STATE_ESCORT_ESCORTING</div><div class="ttdef"><b>Definition:</b> ScriptedEscortAI.h:47</div></div>
+<div class="ttc" id="aa05871_html_afd6b5b23aa26797b6de1275c70268808"><div class="ttname"><a href="../../d5/dfd/a05871.html#afd6b5b23aa26797b6de1275c70268808">EventMap::Reset</a></div><div class="ttdeci">void Reset()</div><div class="ttdef"><b>Definition:</b> EventMap.cpp:21</div></div>
 <div class="ttc" id="aa06683_html_a19a101aa424360959c09220f8a67bbe5"><div class="ttname"><a href="../../dd/daa/a06683.html#a19a101aa424360959c09220f8a67bbe5">npc_escortAI::HasEscortState</a></div><div class="ttdeci">bool HasEscortState(uint32 escortState)</div><div class="ttdef"><b>Definition:</b> ScriptedEscortAI.h:102</div></div>
-<div class="ttc" id="aa12783_html_a44955a4ef0e730f72848e582892380b5"><div class="ttname"><a href="../../dd/d2b/a12783.html#a44955a4ef0e730f72848e582892380b5">npc_rocknot::_breakDoorTimer</a></div><div class="ttdeci">uint32 _breakDoorTimer</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:585</div></div>
-<div class="ttc" id="aa12783_html_ad6e48e6f81521b89da9f528e079c1c90"><div class="ttname"><a href="../../dd/d2b/a12783.html#ad6e48e6f81521b89da9f528e079c1c90">npc_rocknot::_breakKegTimer</a></div><div class="ttdeci">uint32 _breakKegTimer</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:584</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00585">_breakDoorTimer</a>, <a class="el" href="../../#l00584">_breakKegTimer</a>, <a class="el" href="../../#l00102">npc_escortAI::HasEscortState()</a>, and <a class="el" href="../../#l00047">STATE_ESCORT_ESCORTING</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00849">_aleEventActive</a>, <a class="el" href="../../#l00847">_events</a>, <a class="el" href="../../#l01926">EMOTE_STATE_NONE</a>, <a class="el" href="../../#l00102">npc_escortAI::HasEscortState()</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l00752">Unit::RemoveUnitFlag()</a>, <a class="el" href="../../#l00021">EventMap::Reset()</a>, <a class="el" href="../../#l00761">Unit::SetEmoteState()</a>, <a class="el" href="../../#l00047">STATE_ESCORT_ESCORTING</a>, and <a class="el" href="../../#l00282">UNIT_FLAG_NOT_SELECTABLE</a>.</p>
 
 </div>
 </div>
-<a id="a633123eb64bd6d46ace12fd0e1853aef" name="a633123eb64bd6d46ace12fd0e1853aef"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a633123eb64bd6d46ace12fd0e1853aef">&#9670;&#160;</a></span>sQuestReward()</h2>
+<a id="ab8b6017d9b3c42ae8a93c42155da18da" name="ab8b6017d9b3c42ae8a93c42155da18da"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab8b6017d9b3c42ae8a93c42155da18da">&#9670;&#160;</a></span>sQuestReward()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -835,7 +963,7 @@ Additional Inherited Members</h2></td></tr>
           <td class="memname">void npc_rocknot::sQuestReward </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="../../d4/df4/a09099.html">Player</a> *&#160;</td>
-          <td class="paramname">, </td>
+          <td class="paramname"><em>player</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
@@ -863,51 +991,50 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../de/dc7/a06607.html#a676d01e4a58ac141f992ef1bb838d6d9">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  491</span>    {</div>
-<div class="line"><span class="lineno">  492</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../dd/d2b/a12783.html#a71e6532128131a10aae575d1bac023d0">instance</a>)</div>
-<div class="line"><span class="lineno">  493</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  494</span> </div>
-<div class="line"><span class="lineno">  495</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/d2b/a12783.html#a71e6532128131a10aae575d1bac023d0">instance</a>-&gt;<a class="code hl_function" href="../../d7/d12/a10411.html#a8997612fdbdacbf5e28e4de60d03e805">GetData</a>(<a class="code hl_enumvalue" href="../../d2/d2f/a01586.html#afb6eb4f28419b652027fad41104a6d22a2d98c17196ec7b9c5895dd7835508fc2">TYPE_BAR</a>) == <a class="code hl_enumvalue" href="../../d3/d27/a02453.html#ab6cf09cd975286c705a19a75a947d438a9c954bcf443428c80b0f107b3bc48749">DONE</a> || <a class="code hl_variable" href="../../dd/d2b/a12783.html#a71e6532128131a10aae575d1bac023d0">instance</a>-&gt;<a class="code hl_function" href="../../d7/d12/a10411.html#a8997612fdbdacbf5e28e4de60d03e805">GetData</a>(<a class="code hl_enumvalue" href="../../d2/d2f/a01586.html#afb6eb4f28419b652027fad41104a6d22a2d98c17196ec7b9c5895dd7835508fc2">TYPE_BAR</a>) == <a class="code hl_enumvalue" href="../../d3/d27/a02453.html#ab6cf09cd975286c705a19a75a947d438aaa5259d84d06214a7b0503d636790465">SPECIAL</a>)</div>
-<div class="line"><span class="lineno">  496</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  497</span> </div>
-<div class="line"><span class="lineno">  498</span>        <span class="keywordflow">if</span> (quest-&gt;GetQuestId() == <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a6b0d084d8af18bd5f9b8b009e51137dba736905032af28505a38a22a718e1c17a">QUEST_ALE</a>)</div>
-<div class="line"><span class="lineno">  499</span>        {</div>
-<div class="line"><span class="lineno">  500</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/d2b/a12783.html#a71e6532128131a10aae575d1bac023d0">instance</a>-&gt;<a class="code hl_function" href="../../d7/d12/a10411.html#a8997612fdbdacbf5e28e4de60d03e805">GetData</a>(<a class="code hl_enumvalue" href="../../d2/d2f/a01586.html#afb6eb4f28419b652027fad41104a6d22a2d98c17196ec7b9c5895dd7835508fc2">TYPE_BAR</a>) != <a class="code hl_enumvalue" href="../../d3/d27/a02453.html#ab6cf09cd975286c705a19a75a947d438a643cea6438bbca00e218a0b1c05e1012">IN_PROGRESS</a>)</div>
-<div class="line"><span class="lineno">  501</span>                <a class="code hl_variable" href="../../dd/d2b/a12783.html#a71e6532128131a10aae575d1bac023d0">instance</a>-&gt;<a class="code hl_function" href="../../d7/d12/a10411.html#a949e67ea24c7e4b70a20806952735576">SetData</a>(<a class="code hl_enumvalue" href="../../d2/d2f/a01586.html#afb6eb4f28419b652027fad41104a6d22a2d98c17196ec7b9c5895dd7835508fc2">TYPE_BAR</a>, <a class="code hl_enumvalue" href="../../d3/d27/a02453.html#ab6cf09cd975286c705a19a75a947d438a643cea6438bbca00e218a0b1c05e1012">IN_PROGRESS</a>);</div>
-<div class="line"><span class="lineno">  502</span> </div>
-<div class="line"><span class="lineno">  503</span>            <a class="code hl_variable" href="../../dd/d2b/a12783.html#a71e6532128131a10aae575d1bac023d0">instance</a>-&gt;<a class="code hl_function" href="../../d7/d12/a10411.html#a949e67ea24c7e4b70a20806952735576">SetData</a>(<a class="code hl_enumvalue" href="../../d2/d2f/a01586.html#afb6eb4f28419b652027fad41104a6d22a2d98c17196ec7b9c5895dd7835508fc2">TYPE_BAR</a>, <a class="code hl_enumvalue" href="../../d3/d27/a02453.html#ab6cf09cd975286c705a19a75a947d438aaa5259d84d06214a7b0503d636790465">SPECIAL</a>);</div>
-<div class="line"><span class="lineno">  504</span> </div>
-<div class="line"><span class="lineno">  505</span>            <span class="comment">//keep track of amount in instance script, returns SPECIAL if amount ok and event in progress</span></div>
-<div class="line"><span class="lineno">  506</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/d2b/a12783.html#a71e6532128131a10aae575d1bac023d0">instance</a>-&gt;<a class="code hl_function" href="../../d7/d12/a10411.html#a8997612fdbdacbf5e28e4de60d03e805">GetData</a>(<a class="code hl_enumvalue" href="../../d2/d2f/a01586.html#afb6eb4f28419b652027fad41104a6d22a2d98c17196ec7b9c5895dd7835508fc2">TYPE_BAR</a>) == <a class="code hl_enumvalue" href="../../d3/d27/a02453.html#ab6cf09cd975286c705a19a75a947d438aaa5259d84d06214a7b0503d636790465">SPECIAL</a>)</div>
-<div class="line"><span class="lineno">  507</span>            {</div>
-<div class="line"><span class="lineno">  508</span>                <a class="code hl_enumeration" href="../../da/d2d/a02018.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a0fcf46ec361ec3eb9f40c6701294d8e0a907cae969cb1fc078f260cc54dc01e22">SAY_GOT_BEER</a>);</div>
-<div class="line"><span class="lineno">  509</span>                <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#aecb1fc71fc0abbbddedbf095e934edb4a4523bad97d4b588a1cf849bee5a67125">SPELL_DRUNKEN_RAGE</a>, <span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">  510</span>                <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d5/d6c/a08471.html#acb4a26180cdcb2266736f6aea4a695d8">SetWalk</a>(<span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  511</span>                <a class="code hl_function" href="../../dd/daa/a06683.html#a06346873da6190791587dc81929ab10b">Start</a>(<span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">  512</span>            }</div>
-<div class="line"><span class="lineno">  513</span>        }</div>
-<div class="line"><span class="lineno">  514</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  693</span>    {</div>
+<div class="line"><span class="lineno">  694</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../dd/d2b/a12783.html#aa5cf4c54ccef4e0800f537cdeac163a7">_instance</a> || quest-&gt;GetQuestId() != <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a6b0d084d8af18bd5f9b8b009e51137dba736905032af28505a38a22a718e1c17a">QUEST_ALE</a>)</div>
+<div class="line"><span class="lineno">  695</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  696</span> </div>
+<div class="line"><span class="lineno">  697</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../dd/daa/a06683.html#a19a101aa424360959c09220f8a67bbe5">HasEscortState</a>(<a class="code hl_enumvalue" href="../../d8/dbe/a03521.html#af40ca4990501264cb0359ab6d93fb08aa276eb485ebaeb34de738a76731763b92">STATE_ESCORT_ESCORTING</a>) || <a class="code hl_variable" href="../../dd/d2b/a12783.html#af177898359d5c274350555a5ca63fc0b">_aleEventActive</a>)</div>
+<div class="line"><span class="lineno">  698</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  699</span> </div>
+<div class="line"><span class="lineno">  700</span>        <span class="comment">// Both captured hand-ins have the drinking emote and acknowledgement.</span></div>
+<div class="line"><span class="lineno">  701</span>        <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#adeebdc78f840a40e89361e5c792b0e53">HandleEmoteCommand</a>(<a class="code hl_enumvalue" href="../../d4/d81/a00110.html#a0e527855c554e31654c9beb340145574ace9fed6063714cf6886144306eecf59f">EMOTE_ONESHOT_EAT_NO_SHEATHE</a>);</div>
+<div class="line"><span class="lineno">  702</span>        <a class="code hl_enumeration" href="../../da/d2d/a02018.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a0fcf46ec361ec3eb9f40c6701294d8e0a907cae969cb1fc078f260cc54dc01e22">SAY_GOT_BEER</a>);</div>
+<div class="line"><span class="lineno">  703</span>        <span class="comment">// Further quest rewards are allowed after recovery, but cannot restart the completed event.</span></div>
+<div class="line"><span class="lineno">  704</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/d2b/a12783.html#a8d4b1ee7abd210f00db3e49154a6f729">_aleComplete</a> || <a class="code hl_variable" href="../../dd/d2b/a12783.html#aa5cf4c54ccef4e0800f537cdeac163a7">_instance</a>-&gt;<a class="code hl_function" href="../../d7/d12/a10411.html#a8997612fdbdacbf5e28e4de60d03e805">GetData</a>(<a class="code hl_enumvalue" href="../../d2/d2f/a01586.html#afb6eb4f28419b652027fad41104a6d22a2d98c17196ec7b9c5895dd7835508fc2">TYPE_BAR</a>) == <a class="code hl_enumvalue" href="../../d3/d27/a02453.html#ab6cf09cd975286c705a19a75a947d438a9c954bcf443428c80b0f107b3bc48749">DONE</a> || <a class="code hl_variable" href="../../dd/d2b/a12783.html#aa5cf4c54ccef4e0800f537cdeac163a7">_instance</a>-&gt;<a class="code hl_function" href="../../d7/d12/a10411.html#a8997612fdbdacbf5e28e4de60d03e805">GetData</a>(<a class="code hl_enumvalue" href="../../d2/d2f/a01586.html#afb6eb4f28419b652027fad41104a6d22a2d98c17196ec7b9c5895dd7835508fc2">TYPE_BAR</a>) == <a class="code hl_enumvalue" href="../../d3/d27/a02453.html#ab6cf09cd975286c705a19a75a947d438aaa5259d84d06214a7b0503d636790465">SPECIAL</a>)</div>
+<div class="line"><span class="lineno">  705</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  706</span> </div>
+<div class="line"><span class="lineno">  707</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/d2b/a12783.html#aa5cf4c54ccef4e0800f537cdeac163a7">_instance</a>-&gt;<a class="code hl_function" href="../../d7/d12/a10411.html#a8997612fdbdacbf5e28e4de60d03e805">GetData</a>(<a class="code hl_enumvalue" href="../../d2/d2f/a01586.html#afb6eb4f28419b652027fad41104a6d22a2d98c17196ec7b9c5895dd7835508fc2">TYPE_BAR</a>) != <a class="code hl_enumvalue" href="../../d3/d27/a02453.html#ab6cf09cd975286c705a19a75a947d438a643cea6438bbca00e218a0b1c05e1012">IN_PROGRESS</a>)</div>
+<div class="line"><span class="lineno">  708</span>            <a class="code hl_variable" href="../../dd/d2b/a12783.html#aa5cf4c54ccef4e0800f537cdeac163a7">_instance</a>-&gt;<a class="code hl_function" href="../../d7/d12/a10411.html#a949e67ea24c7e4b70a20806952735576">SetData</a>(<a class="code hl_enumvalue" href="../../d2/d2f/a01586.html#afb6eb4f28419b652027fad41104a6d22a2d98c17196ec7b9c5895dd7835508fc2">TYPE_BAR</a>, <a class="code hl_enumvalue" href="../../d3/d27/a02453.html#ab6cf09cd975286c705a19a75a947d438a643cea6438bbca00e218a0b1c05e1012">IN_PROGRESS</a>);</div>
+<div class="line"><span class="lineno">  709</span> </div>
+<div class="line"><span class="lineno">  710</span>        <a class="code hl_variable" href="../../dd/d2b/a12783.html#aa5cf4c54ccef4e0800f537cdeac163a7">_instance</a>-&gt;<a class="code hl_function" href="../../d7/d12/a10411.html#a949e67ea24c7e4b70a20806952735576">SetData</a>(<a class="code hl_enumvalue" href="../../d2/d2f/a01586.html#afb6eb4f28419b652027fad41104a6d22a2d98c17196ec7b9c5895dd7835508fc2">TYPE_BAR</a>, <a class="code hl_enumvalue" href="../../d3/d27/a02453.html#ab6cf09cd975286c705a19a75a947d438aaa5259d84d06214a7b0503d636790465">SPECIAL</a>);</div>
+<div class="line"><span class="lineno">  711</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/d2b/a12783.html#aa5cf4c54ccef4e0800f537cdeac163a7">_instance</a>-&gt;<a class="code hl_function" href="../../d7/d12/a10411.html#a8997612fdbdacbf5e28e4de60d03e805">GetData</a>(<a class="code hl_enumvalue" href="../../d2/d2f/a01586.html#afb6eb4f28419b652027fad41104a6d22a2d98c17196ec7b9c5895dd7835508fc2">TYPE_BAR</a>) != <a class="code hl_enumvalue" href="../../d3/d27/a02453.html#ab6cf09cd975286c705a19a75a947d438aaa5259d84d06214a7b0503d636790465">SPECIAL</a>)</div>
+<div class="line"><span class="lineno">  712</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  713</span> </div>
+<div class="line"><span class="lineno">  714</span>        <a class="code hl_function" href="../../dd/d2b/a12783.html#a4fccfed7a0f7d1e0832ddeb86dab79b0">StartAleEvent</a>();</div>
+<div class="line"><span class="lineno">  715</span>        <span class="comment">// Keep the escort&#39;s NPC flags cleared so WotLK rejects further quest interactions.</span></div>
+<div class="line"><span class="lineno">  716</span>        <a class="code hl_function" href="../../d7/d65/a03518.html#af8f7e54dac5ecc86e92d780c3918cb09">CloseGossipMenuFor</a>(player);</div>
+<div class="line"><span class="lineno">  717</span>    }</div>
+<div class="ttc" id="aa00110_html_a0e527855c554e31654c9beb340145574ace9fed6063714cf6886144306eecf59f"><div class="ttname"><a href="../../d4/d81/a00110.html#a0e527855c554e31654c9beb340145574ace9fed6063714cf6886144306eecf59f">EMOTE_ONESHOT_EAT_NO_SHEATHE</a></div><div class="ttdeci">@ EMOTE_ONESHOT_EAT_NO_SHEATHE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1951</div></div>
 <div class="ttc" id="aa01586_html_afb6eb4f28419b652027fad41104a6d22a2d98c17196ec7b9c5895dd7835508fc2"><div class="ttname"><a href="../../d2/d2f/a01586.html#afb6eb4f28419b652027fad41104a6d22a2d98c17196ec7b9c5895dd7835508fc2">TYPE_BAR</a></div><div class="ttdeci">@ TYPE_BAR</div><div class="ttdef"><b>Definition:</b> blackrock_depths.h:42</div></div>
-<div class="ttc" id="aa01595_html_a0fcf46ec361ec3eb9f40c6701294d8e0a907cae969cb1fc078f260cc54dc01e22"><div class="ttname"><a href="../../dc/dbf/a01595.html#a0fcf46ec361ec3eb9f40c6701294d8e0a907cae969cb1fc078f260cc54dc01e22">SAY_GOT_BEER</a></div><div class="ttdeci">@ SAY_GOT_BEER</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:461</div></div>
-<div class="ttc" id="aa01595_html_a6b0d084d8af18bd5f9b8b009e51137dba736905032af28505a38a22a718e1c17a"><div class="ttname"><a href="../../dc/dbf/a01595.html#a6b0d084d8af18bd5f9b8b009e51137dba736905032af28505a38a22a718e1c17a">QUEST_ALE</a></div><div class="ttdeci">@ QUEST_ALE</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:471</div></div>
-<div class="ttc" id="aa01595_html_aecb1fc71fc0abbbddedbf095e934edb4a4523bad97d4b588a1cf849bee5a67125"><div class="ttname"><a href="../../dc/dbf/a01595.html#aecb1fc71fc0abbbddedbf095e934edb4a4523bad97d4b588a1cf849bee5a67125">SPELL_DRUNKEN_RAGE</a></div><div class="ttdeci">@ SPELL_DRUNKEN_RAGE</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:466</div></div>
+<div class="ttc" id="aa01595_html_a0fcf46ec361ec3eb9f40c6701294d8e0a907cae969cb1fc078f260cc54dc01e22"><div class="ttname"><a href="../../dc/dbf/a01595.html#a0fcf46ec361ec3eb9f40c6701294d8e0a907cae969cb1fc078f260cc54dc01e22">SAY_GOT_BEER</a></div><div class="ttdeci">@ SAY_GOT_BEER</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:602</div></div>
+<div class="ttc" id="aa01595_html_a6b0d084d8af18bd5f9b8b009e51137dba736905032af28505a38a22a718e1c17a"><div class="ttname"><a href="../../dc/dbf/a01595.html#a6b0d084d8af18bd5f9b8b009e51137dba736905032af28505a38a22a718e1c17a">QUEST_ALE</a></div><div class="ttdeci">@ QUEST_ALE</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:611</div></div>
 <div class="ttc" id="aa02018_html_a747a224b6b3195f9a33c56ddc6c7e268"><div class="ttname"><a href="../../da/d2d/a02018.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a></div><div class="ttdeci">Talk</div><div class="ttdef"><b>Definition:</b> hyjal.cpp:82</div></div>
 <div class="ttc" id="aa02453_html_ab6cf09cd975286c705a19a75a947d438a643cea6438bbca00e218a0b1c05e1012"><div class="ttname"><a href="../../d3/d27/a02453.html#ab6cf09cd975286c705a19a75a947d438a643cea6438bbca00e218a0b1c05e1012">IN_PROGRESS</a></div><div class="ttdeci">@ IN_PROGRESS</div><div class="ttdef"><b>Definition:</b> InstanceScript.h:59</div></div>
 <div class="ttc" id="aa02453_html_ab6cf09cd975286c705a19a75a947d438a9c954bcf443428c80b0f107b3bc48749"><div class="ttname"><a href="../../d3/d27/a02453.html#ab6cf09cd975286c705a19a75a947d438a9c954bcf443428c80b0f107b3bc48749">DONE</a></div><div class="ttdeci">@ DONE</div><div class="ttdef"><b>Definition:</b> InstanceScript.h:61</div></div>
 <div class="ttc" id="aa02453_html_ab6cf09cd975286c705a19a75a947d438aaa5259d84d06214a7b0503d636790465"><div class="ttname"><a href="../../d3/d27/a02453.html#ab6cf09cd975286c705a19a75a947d438aaa5259d84d06214a7b0503d636790465">SPECIAL</a></div><div class="ttdeci">@ SPECIAL</div><div class="ttdef"><b>Definition:</b> InstanceScript.h:62</div></div>
-<div class="ttc" id="aa06663_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition:</b> ScriptedCreature.h:281</div></div>
-<div class="ttc" id="aa06683_html_a06346873da6190791587dc81929ab10b"><div class="ttname"><a href="../../dd/daa/a06683.html#a06346873da6190791587dc81929ab10b">npc_escortAI::Start</a></div><div class="ttdeci">void Start(bool isActiveAttacker=true, ObjectGuid playerGUID=ObjectGuid::Empty, Quest const *quest=nullptr, bool instantRespawn=false, bool canLoopPath=false, bool resetWaypoints=true)</div><div class="ttdef"><b>Definition:</b> ScriptedEscortAI.cpp:428</div></div>
-<div class="ttc" id="aa08471_html_acb4a26180cdcb2266736f6aea4a695d8"><div class="ttname"><a href="../../d5/d6c/a08471.html#acb4a26180cdcb2266736f6aea4a695d8">Creature::SetWalk</a></div><div class="ttdeci">bool SetWalk(bool enable) override</div><div class="ttdoc">Enable or disable the creature's walk mode by removing: MOVEMENTFLAG_WALKING. Infom also the client.</div><div class="ttdef"><b>Definition:</b> Creature.cpp:3398</div></div>
-<div class="ttc" id="aa09227_html_aa3ca95f7a14041f562ed69c3994afdfc"><div class="ttname"><a href="../../d9/d33/a09227.html#aa3ca95f7a14041f562ed69c3994afdfc">Unit::CastSpell</a></div><div class="ttdeci">SpellCastResult CastSpell(SpellCastTargets const &amp;targets, SpellInfo const *spellInfo, CustomSpellValues const *value, TriggerCastFlags triggerFlags=TRIGGERED_NONE, Item *castItem=nullptr, AuraEffect const *triggeredByAura=nullptr, ObjectGuid originalCaster=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:1372</div></div>
+<div class="ttc" id="aa03518_html_af8f7e54dac5ecc86e92d780c3918cb09"><div class="ttname"><a href="../../d7/d65/a03518.html#af8f7e54dac5ecc86e92d780c3918cb09">CloseGossipMenuFor</a></div><div class="ttdeci">void CloseGossipMenuFor(Player *player)</div><div class="ttdef"><b>Definition:</b> ScriptedGossip.cpp:56</div></div>
+<div class="ttc" id="aa09227_html_adeebdc78f840a40e89361e5c792b0e53"><div class="ttname"><a href="../../d9/d33/a09227.html#adeebdc78f840a40e89361e5c792b0e53">Unit::HandleEmoteCommand</a></div><div class="ttdeci">void HandleEmoteCommand(uint32 emoteId)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:2198</div></div>
 <div class="ttc" id="aa10411_html_a8997612fdbdacbf5e28e4de60d03e805"><div class="ttname"><a href="../../d7/d12/a10411.html#a8997612fdbdacbf5e28e4de60d03e805">ZoneScript::GetData</a></div><div class="ttdeci">virtual uint32 GetData(uint32) const</div><div class="ttdef"><b>Definition:</b> ZoneScript.h:51</div></div>
 <div class="ttc" id="aa10411_html_a949e67ea24c7e4b70a20806952735576"><div class="ttname"><a href="../../d7/d12/a10411.html#a949e67ea24c7e4b70a20806952735576">ZoneScript::SetData</a></div><div class="ttdeci">virtual void SetData(uint32, uint32)</div><div class="ttdef"><b>Definition:</b> ZoneScript.h:52</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01372">Unit::CastSpell()</a>, <a class="el" href="../../#l00061">DONE</a>, <a class="el" href="../../#l00051">ZoneScript::GetData()</a>, <a class="el" href="../../#l00228">Quest::GetQuestId()</a>, <a class="el" href="../../#l00059">IN_PROGRESS</a>, <a class="el" href="../../#l00583">instance</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l00471">QUEST_ALE</a>, <a class="el" href="../../#l00461">SAY_GOT_BEER</a>, <a class="el" href="../../#l00052">ZoneScript::SetData()</a>, <a class="el" href="../../#l03398">Creature::SetWalk()</a>, <a class="el" href="../../#l00062">SPECIAL</a>, <a class="el" href="../../#l00466">SPELL_DRUNKEN_RAGE</a>, <a class="el" href="../../#l00428">npc_escortAI::Start()</a>, and <a class="el" href="../../#l00042">TYPE_BAR</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00848">_aleComplete</a>, <a class="el" href="../../#l00849">_aleEventActive</a>, <a class="el" href="../../#l00846">_instance</a>, <a class="el" href="../../#l00056">CloseGossipMenuFor()</a>, <a class="el" href="../../#l00061">DONE</a>, <a class="el" href="../../#l01951">EMOTE_ONESHOT_EAT_NO_SHEATHE</a>, <a class="el" href="../../#l00051">ZoneScript::GetData()</a>, <a class="el" href="../../#l00228">Quest::GetQuestId()</a>, <a class="el" href="../../#l02198">Unit::HandleEmoteCommand()</a>, <a class="el" href="../../#l00102">npc_escortAI::HasEscortState()</a>, <a class="el" href="../../#l00059">IN_PROGRESS</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l00611">QUEST_ALE</a>, <a class="el" href="../../#l00602">SAY_GOT_BEER</a>, <a class="el" href="../../#l00052">ZoneScript::SetData()</a>, <a class="el" href="../../#l00062">SPECIAL</a>, <a class="el" href="../../#l00824">StartAleEvent()</a>, <a class="el" href="../../#l00047">STATE_ESCORT_ESCORTING</a>, and <a class="el" href="../../#l00042">TYPE_BAR</a>.</p>
 
 </div>
 </div>
-<a id="a15755c98f937784f538d547b15c2d192" name="a15755c98f937784f538d547b15c2d192"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a15755c98f937784f538d547b15c2d192">&#9670;&#160;</a></span>UpdateAI()</h2>
+<a id="a4fccfed7a0f7d1e0832ddeb86dab79b0" name="a4fccfed7a0f7d1e0832ddeb86dab79b0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4fccfed7a0f7d1e0832ddeb86dab79b0">&#9670;&#160;</a></span>StartAleEvent()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -916,10 +1043,68 @@ Additional Inherited Members</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void npc_rocknot::UpdateAI </td>
+          <td class="memname">void npc_rocknot::StartAleEvent </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  825</span>    {</div>
+<div class="line"><span class="lineno">  826</span>        <a class="code hl_variable" href="../../dd/d2b/a12783.html#afffae96bb89286dd506db76d6e69b05b">_events</a>.<a class="code hl_function" href="../../d5/dfd/a05871.html#afd6b5b23aa26797b6de1275c70268808">Reset</a>();</div>
+<div class="line"><span class="lineno">  827</span>        <a class="code hl_variable" href="../../dd/d2b/a12783.html#af177898359d5c274350555a5ca63fc0b">_aleEventActive</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  828</span>        <a class="code hl_function" href="../../dd/daa/a06683.html#aa4c997f2f799be346c53299815720b36">SetDespawnAtEnd</a>(<span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  829</span>        <a class="code hl_function" href="../../dd/daa/a06683.html#a275f8451695529110d73b675d340f229">SetDespawnAtFar</a>(<span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  830</span>        <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d5/d6c/a08471.html#a17fde890b43973dab12d5b894fb333ee">GetRespawnPosition</a>(<a class="code hl_variable" href="../../dd/d2b/a12783.html#ab13c0b098679c30da4b642bab7200d99">_originalPosition</a>.<a class="code hl_variable" href="../../d7/dc3/a08931.html#a4d45ff71d05bb3ff3d570905460f61cd">m_positionX</a>, <a class="code hl_variable" href="../../dd/d2b/a12783.html#ab13c0b098679c30da4b642bab7200d99">_originalPosition</a>.<a class="code hl_variable" href="../../d7/dc3/a08931.html#a4f8bb54eef056fd5a230c314d24c2ca6">m_positionY</a>,</div>
+<div class="line"><span class="lineno">  831</span>            <a class="code hl_variable" href="../../dd/d2b/a12783.html#ab13c0b098679c30da4b642bab7200d99">_originalPosition</a>.<a class="code hl_variable" href="../../d7/dc3/a08931.html#a0d2305604dd27c15fd2d969f18c15b3e">m_positionZ</a>, &amp;<a class="code hl_variable" href="../../dd/d2b/a12783.html#ab13c0b098679c30da4b642bab7200d99">_originalPosition</a>.<a class="code hl_variable" href="../../d7/dc3/a08931.html#ad3d198b8a361d95dc13daae4d2a34638">m_orientation</a>);</div>
+<div class="line"><span class="lineno">  832</span>        <a class="code hl_variable" href="../../dd/d2b/a12783.html#a5ba6b36a8757dcba9fba20f8debe54e7">_originalNpcFlags</a> = <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#a3491487a93420dcedf852011bfbf22c2">GetNpcFlags</a>();</div>
+<div class="line"><span class="lineno">  833</span>        <a class="code hl_variable" href="../../dd/d2b/a12783.html#a46f52ea33be20bebcebcf892ef4e38a0">_originalImmuneToNPC</a> = <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#a78fa5ef65274d8db2ba98306e98e2209">IsImmuneToNPC</a>();</div>
+<div class="line"><span class="lineno">  834</span>        <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d5/d6c/a08471.html#acb4a26180cdcb2266736f6aea4a695d8">SetWalk</a>(<span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  835</span>        <a class="code hl_function" href="../../dd/daa/a06683.html#a06346873da6190791587dc81929ab10b">Start</a>(<span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  836</span>        <span class="comment">// Anniversary 69546 sends Uninteractible when the ale route begins.</span></div>
+<div class="line"><span class="lineno">  837</span>        <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#ad9f2d48b20f62e17abf5c1892cebe296">SetUnitFlag</a>(<a class="code hl_enumvalue" href="../../d9/d33/a03269.html#affdd0d554c8bcaaa85a879f5a9d60934a8b7b8fe906282847f5f337728d4a534f">UNIT_FLAG_NOT_SELECTABLE</a>);</div>
+<div class="line"><span class="lineno">  838</span>        <a class="code hl_variable" href="../../dd/d2b/a12783.html#afffae96bb89286dd506db76d6e69b05b">_events</a>.<a class="code hl_function" href="../../d5/dfd/a05871.html#aec6dde1456f6f7f802c3bda4cf4b713f">ScheduleEvent</a>(<a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54a0c9323c94b4bd9b90419ca2b2504708e">EVENT_ROCKNOT_MORE_ALE</a>, 1500ms);</div>
+<div class="line"><span class="lineno">  839</span>    }</div>
+<div class="ttc" id="aa01595_html_a107098a8e50cf4edccc1a3a1131e8e54a0c9323c94b4bd9b90419ca2b2504708e"><div class="ttname"><a href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54a0c9323c94b4bd9b90419ca2b2504708e">EVENT_ROCKNOT_MORE_ALE</a></div><div class="ttdeci">@ EVENT_ROCKNOT_MORE_ALE</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:616</div></div>
+<div class="ttc" id="aa05871_html_aec6dde1456f6f7f802c3bda4cf4b713f"><div class="ttname"><a href="../../d5/dfd/a05871.html#aec6dde1456f6f7f802c3bda4cf4b713f">EventMap::ScheduleEvent</a></div><div class="ttdeci">void ScheduleEvent(EventId eventId, Milliseconds time, GroupIndex group=0u, PhaseIndex phase=0u)</div><div class="ttdef"><b>Definition:</b> EventMap.cpp:48</div></div>
+<div class="ttc" id="aa06683_html_a06346873da6190791587dc81929ab10b"><div class="ttname"><a href="../../dd/daa/a06683.html#a06346873da6190791587dc81929ab10b">npc_escortAI::Start</a></div><div class="ttdeci">void Start(bool isActiveAttacker=true, ObjectGuid playerGUID=ObjectGuid::Empty, Quest const *quest=nullptr, bool instantRespawn=false, bool canLoopPath=false, bool resetWaypoints=true)</div><div class="ttdef"><b>Definition:</b> ScriptedEscortAI.cpp:428</div></div>
+<div class="ttc" id="aa06683_html_a275f8451695529110d73b675d340f229"><div class="ttname"><a href="../../dd/daa/a06683.html#a275f8451695529110d73b675d340f229">npc_escortAI::SetDespawnAtFar</a></div><div class="ttdeci">void SetDespawnAtFar(bool despawn)</div><div class="ttdef"><b>Definition:</b> ScriptedEscortAI.h:109</div></div>
+<div class="ttc" id="aa06683_html_aa4c997f2f799be346c53299815720b36"><div class="ttname"><a href="../../dd/daa/a06683.html#aa4c997f2f799be346c53299815720b36">npc_escortAI::SetDespawnAtEnd</a></div><div class="ttdeci">void SetDespawnAtEnd(bool despawn)</div><div class="ttdef"><b>Definition:</b> ScriptedEscortAI.h:108</div></div>
+<div class="ttc" id="aa08471_html_a17fde890b43973dab12d5b894fb333ee"><div class="ttname"><a href="../../d5/d6c/a08471.html#a17fde890b43973dab12d5b894fb333ee">Creature::GetRespawnPosition</a></div><div class="ttdeci">void GetRespawnPosition(float &amp;x, float &amp;y, float &amp;z, float *ori=nullptr, float *dist=nullptr) const</div><div class="ttdef"><b>Definition:</b> Creature.cpp:3113</div></div>
+<div class="ttc" id="aa08471_html_acb4a26180cdcb2266736f6aea4a695d8"><div class="ttname"><a href="../../d5/d6c/a08471.html#acb4a26180cdcb2266736f6aea4a695d8">Creature::SetWalk</a></div><div class="ttdeci">bool SetWalk(bool enable) override</div><div class="ttdoc">Enable or disable the creature's walk mode by removing: MOVEMENTFLAG_WALKING. Infom also the client.</div><div class="ttdef"><b>Definition:</b> Creature.cpp:3398</div></div>
+<div class="ttc" id="aa08931_html_a0d2305604dd27c15fd2d969f18c15b3e"><div class="ttname"><a href="../../d7/dc3/a08931.html#a0d2305604dd27c15fd2d969f18c15b3e">Position::m_positionZ</a></div><div class="ttdeci">float m_positionZ</div><div class="ttdef"><b>Definition:</b> Position.h:57</div></div>
+<div class="ttc" id="aa08931_html_a4d45ff71d05bb3ff3d570905460f61cd"><div class="ttname"><a href="../../d7/dc3/a08931.html#a4d45ff71d05bb3ff3d570905460f61cd">Position::m_positionX</a></div><div class="ttdeci">float m_positionX</div><div class="ttdef"><b>Definition:</b> Position.h:55</div></div>
+<div class="ttc" id="aa08931_html_a4f8bb54eef056fd5a230c314d24c2ca6"><div class="ttname"><a href="../../d7/dc3/a08931.html#a4f8bb54eef056fd5a230c314d24c2ca6">Position::m_positionY</a></div><div class="ttdeci">float m_positionY</div><div class="ttdef"><b>Definition:</b> Position.h:56</div></div>
+<div class="ttc" id="aa08931_html_ad3d198b8a361d95dc13daae4d2a34638"><div class="ttname"><a href="../../d7/dc3/a08931.html#ad3d198b8a361d95dc13daae4d2a34638">Position::m_orientation</a></div><div class="ttdeci">float m_orientation</div><div class="ttdef"><b>Definition:</b> Position.h:58</div></div>
+<div class="ttc" id="aa09227_html_a3491487a93420dcedf852011bfbf22c2"><div class="ttname"><a href="../../d9/d33/a09227.html#a3491487a93420dcedf852011bfbf22c2">Unit::GetNpcFlags</a></div><div class="ttdeci">NPCFlags GetNpcFlags() const</div><div class="ttdoc">Clears emote state (looping emote)</div><div class="ttdef"><b>Definition:</b> Unit.h:765</div></div>
+<div class="ttc" id="aa09227_html_a78fa5ef65274d8db2ba98306e98e2209"><div class="ttname"><a href="../../d9/d33/a09227.html#a78fa5ef65274d8db2ba98306e98e2209">Unit::IsImmuneToNPC</a></div><div class="ttdeci">bool IsImmuneToNPC() const</div><div class="ttdef"><b>Definition:</b> Unit.h:937</div></div>
+<div class="ttc" id="aa09227_html_ad9f2d48b20f62e17abf5c1892cebe296"><div class="ttname"><a href="../../d9/d33/a09227.html#ad9f2d48b20f62e17abf5c1892cebe296">Unit::SetUnitFlag</a></div><div class="ttdeci">void SetUnitFlag(UnitFlags flags)</div><div class="ttdoc">UnitFlags available in UnitDefines.h.</div><div class="ttdef"><b>Definition:</b> Unit.h:751</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00849">_aleEventActive</a>, <a class="el" href="../../#l00847">_events</a>, <a class="el" href="../../#l00853">_originalImmuneToNPC</a>, <a class="el" href="../../#l00852">_originalNpcFlags</a>, <a class="el" href="../../#l00851">_originalPosition</a>, <a class="el" href="../../#l00616">EVENT_ROCKNOT_MORE_ALE</a>, <a class="el" href="../../#l00765">Unit::GetNpcFlags()</a>, <a class="el" href="../../#l03113">Creature::GetRespawnPosition()</a>, <a class="el" href="../../#l00937">Unit::IsImmuneToNPC()</a>, <a class="el" href="../../#l00058">Position::m_orientation</a>, <a class="el" href="../../#l00055">Position::m_positionX</a>, <a class="el" href="../../#l00056">Position::m_positionY</a>, <a class="el" href="../../#l00057">Position::m_positionZ</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l00021">EventMap::Reset()</a>, <a class="el" href="../../#l00048">EventMap::ScheduleEvent()</a>, <a class="el" href="../../#l00108">npc_escortAI::SetDespawnAtEnd()</a>, <a class="el" href="../../#l00109">npc_escortAI::SetDespawnAtFar()</a>, <a class="el" href="../../#l00751">Unit::SetUnitFlag()</a>, <a class="el" href="../../#l03398">Creature::SetWalk()</a>, <a class="el" href="../../#l00428">npc_escortAI::Start()</a>, and <a class="el" href="../../#l00282">UNIT_FLAG_NOT_SELECTABLE</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00660">JustRespawned()</a>, and <a class="el" href="../../#l00692">sQuestReward()</a>.</p>
+
+</div>
+</div>
+<a id="abfd4f9980a256d5c6275de7ad43cb532" name="abfd4f9980a256d5c6275de7ad43cb532"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abfd4f9980a256d5c6275de7ad43cb532">&#9670;&#160;</a></span>UpdateEscortAI()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void npc_rocknot::UpdateEscortAI </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="../../d6/d12/a04691.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramname"><em>diff</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -930,59 +1115,108 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Use to start attacking a target. Called just before <a class="el" href="../../d0/d95/a06663.html#ac2ce21ab709e349abb8206ce2368cd37" title="Called for reaction when initially engaged - this happens after JustEnteredCombat.">JustEngagedWith()</a> </p>
-
-<p>Reimplemented from <a class="el" href="../../dd/daa/a06683.html#a5e9c333411c54ff4d644812e53ba1831">npc_escortAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  547</span>    {</div>
-<div class="line"><span class="lineno">  548</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/d2b/a12783.html#ad6e48e6f81521b89da9f528e079c1c90">_breakKegTimer</a>)</div>
-<div class="line"><span class="lineno">  549</span>        {</div>
-<div class="line"><span class="lineno">  550</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/d2b/a12783.html#ad6e48e6f81521b89da9f528e079c1c90">_breakKegTimer</a> &lt;= diff)</div>
-<div class="line"><span class="lineno">  551</span>            {</div>
-<div class="line"><span class="lineno">  552</span>                <a class="code hl_function" href="../../dd/d2b/a12783.html#a242e871de8e19462fcab6fb9eae1039e">DoGo</a>(<a class="code hl_enumvalue" href="../../d2/d2f/a01586.html#afb6eb4f28419b652027fad41104a6d22a90af78ef23785cabaecdb5eb97cec220">DATA_GO_BAR_KEG</a>, 0);</div>
-<div class="line"><span class="lineno">  553</span>                <a class="code hl_variable" href="../../dd/d2b/a12783.html#ad6e48e6f81521b89da9f528e079c1c90">_breakKegTimer</a> = 0;</div>
-<div class="line"><span class="lineno">  554</span>                <a class="code hl_variable" href="../../dd/d2b/a12783.html#a44955a4ef0e730f72848e582892380b5">_breakDoorTimer</a> = 1000;</div>
-<div class="line"><span class="lineno">  555</span>            }</div>
-<div class="line"><span class="lineno">  556</span>            <span class="keywordflow">else</span> <a class="code hl_variable" href="../../dd/d2b/a12783.html#ad6e48e6f81521b89da9f528e079c1c90">_breakKegTimer</a> -= diff;</div>
-<div class="line"><span class="lineno">  557</span>        }</div>
-<div class="line"><span class="lineno">  558</span> </div>
-<div class="line"><span class="lineno">  559</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/d2b/a12783.html#a44955a4ef0e730f72848e582892380b5">_breakDoorTimer</a>)</div>
-<div class="line"><span class="lineno">  560</span>        {</div>
-<div class="line"><span class="lineno">  561</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/d2b/a12783.html#a44955a4ef0e730f72848e582892380b5">_breakDoorTimer</a> &lt;= diff)</div>
-<div class="line"><span class="lineno">  562</span>            {</div>
-<div class="line"><span class="lineno">  563</span>                <a class="code hl_function" href="../../dd/d2b/a12783.html#a242e871de8e19462fcab6fb9eae1039e">DoGo</a>(<a class="code hl_enumvalue" href="../../d2/d2f/a01586.html#afb6eb4f28419b652027fad41104a6d22afbd01ac29718f113ae811e86d78ceb70">DATA_GO_BAR_DOOR</a>, 2);</div>
-<div class="line"><span class="lineno">  564</span>                <a class="code hl_function" href="../../dd/d2b/a12783.html#a242e871de8e19462fcab6fb9eae1039e">DoGo</a>(<a class="code hl_enumvalue" href="../../d2/d2f/a01586.html#afb6eb4f28419b652027fad41104a6d22ad8d51c3a06c2c1a588c392f6edf238ba">DATA_GO_BAR_KEG_TRAP</a>, 0);               <span class="comment">//doesn&#39;t work very well, leaving code here for future</span></div>
-<div class="line"><span class="lineno">  565</span>                <span class="comment">//spell by trap has effect61, this indicate the bar go hostile</span></div>
-<div class="line"><span class="lineno">  566</span> </div>
-<div class="line"><span class="lineno">  567</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d9/d33/a09227.html">Unit</a>* tmp = <a class="code hl_function" href="../../dc/d07/a05175.html#a1cb1e2f3906c3bd150a0d18377253d16">ObjectAccessor::GetUnit</a>(*<a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_variable" href="../../dd/d2b/a12783.html#a71e6532128131a10aae575d1bac023d0">instance</a>-&gt;<a class="code hl_function" href="../../da/d3a/a10159.html#a3be7f24ca31c9433aca546e1087109b4">GetGuidData</a>(<a class="code hl_enumvalue" href="../../d2/d2f/a01586.html#afb6eb4f28419b652027fad41104a6d22a0dc5ebdada9aea4b10a9898cc7b8dd1b">DATA_PHALANX</a>)))</div>
-<div class="line"><span class="lineno">  568</span>                    tmp-&gt;SetFaction(<a class="code hl_enumvalue" href="../../d4/d81/a00110.html#ac5c8e776fe109c83a63abe41eb5e80f2ad5df5c249f2a8680cdf3cdf81931f1a9">FACTION_MONSTER</a>);</div>
-<div class="line"><span class="lineno">  569</span> </div>
-<div class="line"><span class="lineno">  570</span>                <span class="comment">//for later, this event(s) has alot more to it.</span></div>
-<div class="line"><span class="lineno">  571</span>                <span class="comment">//optionally, DONE can trigger bar to go hostile.</span></div>
-<div class="line"><span class="lineno">  572</span>                <a class="code hl_variable" href="../../dd/d2b/a12783.html#a71e6532128131a10aae575d1bac023d0">instance</a>-&gt;<a class="code hl_function" href="../../d7/d12/a10411.html#a949e67ea24c7e4b70a20806952735576">SetData</a>(<a class="code hl_enumvalue" href="../../d2/d2f/a01586.html#afb6eb4f28419b652027fad41104a6d22a2d98c17196ec7b9c5895dd7835508fc2">TYPE_BAR</a>, <a class="code hl_enumvalue" href="../../d3/d27/a02453.html#ab6cf09cd975286c705a19a75a947d438a9c954bcf443428c80b0f107b3bc48749">DONE</a>);</div>
-<div class="line"><span class="lineno">  573</span> </div>
-<div class="line"><span class="lineno">  574</span>                <a class="code hl_variable" href="../../dd/d2b/a12783.html#a44955a4ef0e730f72848e582892380b5">_breakDoorTimer</a> = 0;</div>
-<div class="line"><span class="lineno">  575</span>            }</div>
-<div class="line"><span class="lineno">  576</span>            <span class="keywordflow">else</span> <a class="code hl_variable" href="../../dd/d2b/a12783.html#a44955a4ef0e730f72848e582892380b5">_breakDoorTimer</a> -= diff;</div>
-<div class="line"><span class="lineno">  577</span>        }</div>
-<div class="line"><span class="lineno">  578</span> </div>
-<div class="line"><span class="lineno">  579</span>        <a class="code hl_function" href="../../dd/daa/a06683.html#a5e9c333411c54ff4d644812e53ba1831">npc_escortAI::UpdateAI</a>(diff);</div>
-<div class="line"><span class="lineno">  580</span>    }</div>
-<div class="ttc" id="aa00110_html_ac5c8e776fe109c83a63abe41eb5e80f2ad5df5c249f2a8680cdf3cdf81931f1a9"><div class="ttname"><a href="../../d4/d81/a00110.html#ac5c8e776fe109c83a63abe41eb5e80f2ad5df5c249f2a8680cdf3cdf81931f1a9">FACTION_MONSTER</a></div><div class="ttdeci">@ FACTION_MONSTER</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:183</div></div>
+<p>Reimplemented from <a class="el" href="../../dd/daa/a06683.html#aed1525b79824e29e0f93419c0b6b26e2">npc_escortAI</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">  759</span>    {</div>
+<div class="line"><span class="lineno">  760</span>        <a class="code hl_variable" href="../../dd/d2b/a12783.html#afffae96bb89286dd506db76d6e69b05b">_events</a>.<a class="code hl_function" href="../../d5/dfd/a05871.html#a33ba1058edd639c98258ba3e123ac2f9">Update</a>(diff);</div>
+<div class="line"><span class="lineno">  761</span>        <span class="keywordflow">while</span> (<a class="code hl_typedef" href="../../d6/d12/a04691.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> eventId = <a class="code hl_variable" href="../../dd/d2b/a12783.html#afffae96bb89286dd506db76d6e69b05b">_events</a>.<a class="code hl_function" href="../../d5/dfd/a05871.html#a435dd6db2c6fbbaf80467b7a617c4237">ExecuteEvent</a>())</div>
+<div class="line"><span class="lineno">  762</span>        {</div>
+<div class="line"><span class="lineno">  763</span>            <span class="keywordflow">switch</span> (eventId)</div>
+<div class="line"><span class="lineno">  764</span>            {</div>
+<div class="line"><span class="lineno">  765</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54a0c9323c94b4bd9b90419ca2b2504708e">EVENT_ROCKNOT_MORE_ALE</a>:</div>
+<div class="line"><span class="lineno">  766</span>                    <a class="code hl_enumeration" href="../../da/d2d/a02018.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a0fcf46ec361ec3eb9f40c6701294d8e0ad5a29b9fd4cfc6f98e2bd65774d5409f">SAY_MORE_ALE</a>);</div>
+<div class="line"><span class="lineno">  767</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  768</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54a0e14503329a8f0c69e3ccd272baf3b3f">EVENT_ROCKNOT_PUNCH</a>:</div>
+<div class="line"><span class="lineno">  769</span>                    <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#adeebdc78f840a40e89361e5c792b0e53">HandleEmoteCommand</a>(<a class="code hl_enumvalue" href="../../d4/d81/a00110.html#a0e527855c554e31654c9beb340145574a9dc91916e1fdc0c660510f5165e42d78">EMOTE_ONESHOT_ATTACK_UNARMED</a>);</div>
+<div class="line"><span class="lineno">  770</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  771</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54a566f784990836203caca9e4ce325c18b">EVENT_ROCKNOT_SECOND_KEG</a>:</div>
+<div class="line"><span class="lineno">  772</span>                    <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#a15935c3f574e8b3e72952561c75e6faf">SetFacingTo</a>(2.0769417f);</div>
+<div class="line"><span class="lineno">  773</span>                    <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#adeebdc78f840a40e89361e5c792b0e53">HandleEmoteCommand</a>(<a class="code hl_enumvalue" href="../../d4/d81/a00110.html#a0e527855c554e31654c9beb340145574a9dc91916e1fdc0c660510f5165e42d78">EMOTE_ONESHOT_ATTACK_UNARMED</a>);</div>
+<div class="line"><span class="lineno">  774</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  775</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54a08c06ffb1b78d85bde7a8c01eab983c6">EVENT_ROCKNOT_FINAL_KEG</a>:</div>
+<div class="line"><span class="lineno">  776</span>                    <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#a15935c3f574e8b3e72952561c75e6faf">SetFacingTo</a>(2.443461f);</div>
+<div class="line"><span class="lineno">  777</span>                    <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#adeebdc78f840a40e89361e5c792b0e53">HandleEmoteCommand</a>(<a class="code hl_enumvalue" href="../../d4/d81/a00110.html#a0e527855c554e31654c9beb340145574a9dc91916e1fdc0c660510f5165e42d78">EMOTE_ONESHOT_ATTACK_UNARMED</a>);</div>
+<div class="line"><span class="lineno">  778</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  779</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54ad2c5488cd2569a1b012badf8b39bb96a">EVENT_ROCKNOT_ALE</a>:</div>
+<div class="line"><span class="lineno">  780</span>                    <a class="code hl_enumeration" href="../../da/d2d/a02018.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a0fcf46ec361ec3eb9f40c6701294d8e0ab2c8011f6b9b092816587071dc99a963">SAY_ALE</a>);</div>
+<div class="line"><span class="lineno">  781</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  782</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54a21249240998f8d2de3c601fd8e8434fc">EVENT_ROCKNOT_BREAK_KEG</a>:</div>
+<div class="line"><span class="lineno">  783</span>                    <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#adeebdc78f840a40e89361e5c792b0e53">HandleEmoteCommand</a>(<a class="code hl_enumvalue" href="../../d4/d81/a00110.html#a0e527855c554e31654c9beb340145574a9dc91916e1fdc0c660510f5165e42d78">EMOTE_ONESHOT_ATTACK_UNARMED</a>);</div>
+<div class="line"><span class="lineno">  784</span>                    <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#aac3ce6c38706671a574c29913ae6cb53">SetEmoteState</a>(<a class="code hl_enumvalue" href="../../d4/d81/a00110.html#a0e527855c554e31654c9beb340145574a0e57a6542accb9b03e3c06b241f90118">EMOTE_STATE_WORK_SHEATHED</a>);</div>
+<div class="line"><span class="lineno">  785</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d7/d00/a08651.html">GameObject</a>* keg = <a class="code hl_function" href="../../dd/d2b/a12783.html#acbb5451172867b047b50e0f2bd9aa08c">GetBarObject</a>(<a class="code hl_enumvalue" href="../../d2/d2f/a01586.html#afb6eb4f28419b652027fad41104a6d22a90af78ef23785cabaecdb5eb97cec220">DATA_GO_BAR_KEG</a>))</div>
+<div class="line"><span class="lineno">  786</span>                        keg-&gt;SetGoState(<a class="code hl_enumvalue" href="../../d9/d5e/a03086.html#ac17cd142af80da019367bb796b15e5abaf4f299c1cfc830c90418c4487c567c1e">GO_STATE_ACTIVE</a>);</div>
+<div class="line"><span class="lineno">  787</span> </div>
+<div class="line"><span class="lineno">  788</span>                    <span class="comment">// Start both animations together; the trap and Phalanx react after the cork hits.</span></div>
+<div class="line"><span class="lineno">  789</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d7/d00/a08651.html">GameObject</a>* door = <a class="code hl_function" href="../../dd/d2b/a12783.html#acbb5451172867b047b50e0f2bd9aa08c">GetBarObject</a>(<a class="code hl_enumvalue" href="../../d2/d2f/a01586.html#afb6eb4f28419b652027fad41104a6d22afbd01ac29718f113ae811e86d78ceb70">DATA_GO_BAR_DOOR</a>))</div>
+<div class="line"><span class="lineno">  790</span>                        door-&gt;SetGoState(<a class="code hl_enumvalue" href="../../d9/d5e/a03086.html#ac17cd142af80da019367bb796b15e5abaf8410e5f8e696adf15ecdd441dee7e0e">GO_STATE_ACTIVE_ALTERNATIVE</a>);</div>
+<div class="line"><span class="lineno">  791</span> </div>
+<div class="line"><span class="lineno">  792</span>                    <a class="code hl_variable" href="../../dd/d2b/a12783.html#afffae96bb89286dd506db76d6e69b05b">_events</a>.<a class="code hl_function" href="../../d5/dfd/a05871.html#aec6dde1456f6f7f802c3bda4cf4b713f">ScheduleEvent</a>(<a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54ae8371debc05d7f32a3149693d38e09fa">EVENT_ROCKNOT_BAR_REACTION</a>, 7s);</div>
+<div class="line"><span class="lineno">  793</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  794</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54ae8371debc05d7f32a3149693d38e09fa">EVENT_ROCKNOT_BAR_REACTION</a>:</div>
+<div class="line"><span class="lineno">  795</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d7/d00/a08651.html">GameObject</a>* trap = <a class="code hl_function" href="../../dd/d2b/a12783.html#acbb5451172867b047b50e0f2bd9aa08c">GetBarObject</a>(<a class="code hl_enumvalue" href="../../d2/d2f/a01586.html#afb6eb4f28419b652027fad41104a6d22ad8d51c3a06c2c1a588c392f6edf238ba">DATA_GO_BAR_KEG_TRAP</a>))</div>
+<div class="line"><span class="lineno">  796</span>                        trap-&gt;Use(<a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>);</div>
+<div class="line"><span class="lineno">  797</span> </div>
+<div class="line"><span class="lineno">  798</span>                    <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#aac3ce6c38706671a574c29913ae6cb53">SetEmoteState</a>(<a class="code hl_enumvalue" href="../../d4/d81/a00110.html#a0e527855c554e31654c9beb340145574aac8b077506be3c6ce2dda446450d13da">EMOTE_STATE_STUN</a>);</div>
+<div class="line"><span class="lineno">  799</span>                    <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d5/d6c/a08471.html#a0ab9e2649cc4b0103aea6a52e8f1a5ea">SetHomePosition</a>(<a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d7/dc3/a08931.html#ad8e55f9b39618093aa625abe3a06e1ed">GetPosition</a>());</div>
+<div class="line"><span class="lineno">  800</span>                    <a class="code hl_variable" href="../../dd/d2b/a12783.html#a8d4b1ee7abd210f00db3e49154a6f729">_aleComplete</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  801</span>                    <a class="code hl_variable" href="../../dd/d2b/a12783.html#a9435a45a4f4bf73355f339a737fb4540">_recovering</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  802</span>                    <span class="comment">// Requested recovery delay; not a timing established by the Anniversary sniff.</span></div>
+<div class="line"><span class="lineno">  803</span>                    <a class="code hl_variable" href="../../dd/d2b/a12783.html#afffae96bb89286dd506db76d6e69b05b">_events</a>.<a class="code hl_function" href="../../d5/dfd/a05871.html#aec6dde1456f6f7f802c3bda4cf4b713f">ScheduleEvent</a>(<a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54a5e157feac7a2e1dad12acd487e475966">EVENT_ROCKNOT_RECOVER</a>, 15s);</div>
+<div class="line"><span class="lineno">  804</span>                    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/d2b/a12783.html#aa5cf4c54ccef4e0800f537cdeac163a7">_instance</a>)</div>
+<div class="line"><span class="lineno">  805</span>                    {</div>
+<div class="line"><span class="lineno">  806</span>                        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d5/d6c/a08471.html">Creature</a>* phalanx = <a class="code hl_function" href="../../dc/d07/a05175.html#a8d1cda6b98832b29fcb437c654fd8ae9">ObjectAccessor::GetCreature</a>(*<a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_variable" href="../../dd/d2b/a12783.html#aa5cf4c54ccef4e0800f537cdeac163a7">_instance</a>-&gt;<a class="code hl_function" href="../../da/d3a/a10159.html#a3be7f24ca31c9433aca546e1087109b4">GetGuidData</a>(<a class="code hl_enumvalue" href="../../d2/d2f/a01586.html#afb6eb4f28419b652027fad41104a6d22a0dc5ebdada9aea4b10a9898cc7b8dd1b">DATA_PHALANX</a>)))</div>
+<div class="line"><span class="lineno">  807</span>                            phalanx-&gt;AI()-&gt;DoAction(<a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#ae140961cf8719b54c57af64480ef31eeadfbfd0c0e25fabeb11d16a998b59ebde">ACTION_PHALANX_START_ACTIVATION</a>);</div>
+<div class="line"><span class="lineno">  808</span> </div>
+<div class="line"><span class="lineno">  809</span>                        <a class="code hl_variable" href="../../dd/d2b/a12783.html#aa5cf4c54ccef4e0800f537cdeac163a7">_instance</a>-&gt;<a class="code hl_function" href="../../d7/d12/a10411.html#a949e67ea24c7e4b70a20806952735576">SetData</a>(<a class="code hl_enumvalue" href="../../d2/d2f/a01586.html#afb6eb4f28419b652027fad41104a6d22a2d98c17196ec7b9c5895dd7835508fc2">TYPE_BAR</a>, <a class="code hl_enumvalue" href="../../d3/d27/a02453.html#ab6cf09cd975286c705a19a75a947d438a9c954bcf443428c80b0f107b3bc48749">DONE</a>);</div>
+<div class="line"><span class="lineno">  810</span>                    }</div>
+<div class="line"><span class="lineno">  811</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  812</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54a5e157feac7a2e1dad12acd487e475966">EVENT_ROCKNOT_RECOVER</a>:</div>
+<div class="line"><span class="lineno">  813</span>                    <a class="code hl_function" href="../../dd/daa/a06683.html#a923f330b384cd7fa803a92ab29e6b709">RemoveEscortState</a>(<a class="code hl_enumvalue" href="../../d8/dbe/a03521.html#af40ca4990501264cb0359ab6d93fb08aa276eb485ebaeb34de738a76731763b92">STATE_ESCORT_ESCORTING</a> | <a class="code hl_enumvalue" href="../../d8/dbe/a03521.html#af40ca4990501264cb0359ab6d93fb08aaae71d59813ca4d9bb6e84769e1eeec48">STATE_ESCORT_RETURNING</a> | <a class="code hl_enumvalue" href="../../d8/dbe/a03521.html#af40ca4990501264cb0359ab6d93fb08aa243ae0744c8bd5cc0191aaae1e3cb9f6">STATE_ESCORT_PAUSED</a>);</div>
+<div class="line"><span class="lineno">  814</span>                    <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#aac3ce6c38706671a574c29913ae6cb53">SetEmoteState</a>(<a class="code hl_enumvalue" href="../../d4/d81/a00110.html#a0e527855c554e31654c9beb340145574abf6bb7031ec3c29baf7830d91ea9af30">EMOTE_STATE_NONE</a>);</div>
+<div class="line"><span class="lineno">  815</span>                    <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d5/d6c/a08471.html#a0ab9e2649cc4b0103aea6a52e8f1a5ea">SetHomePosition</a>(<a class="code hl_variable" href="../../dd/d2b/a12783.html#ab13c0b098679c30da4b642bab7200d99">_originalPosition</a>);</div>
+<div class="line"><span class="lineno">  816</span>                    <span class="comment">// Keep interactions disabled until the home movement restores his position and facing.</span></div>
+<div class="line"><span class="lineno">  817</span>                    <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../da/d0f/a10455.html#a18d407b55cfb990e2bb51f4efb63c6bd">MoveTargetedHome</a>(<span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  818</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  819</span>            }</div>
+<div class="line"><span class="lineno">  820</span>        }</div>
+<div class="line"><span class="lineno">  821</span>    }</div>
+<div class="ttc" id="aa00110_html_a0e527855c554e31654c9beb340145574a0e57a6542accb9b03e3c06b241f90118"><div class="ttname"><a href="../../d4/d81/a00110.html#a0e527855c554e31654c9beb340145574a0e57a6542accb9b03e3c06b241f90118">EMOTE_STATE_WORK_SHEATHED</a></div><div class="ttdeci">@ EMOTE_STATE_WORK_SHEATHED</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1924</div></div>
+<div class="ttc" id="aa00110_html_a0e527855c554e31654c9beb340145574a9dc91916e1fdc0c660510f5165e42d78"><div class="ttname"><a href="../../d4/d81/a00110.html#a0e527855c554e31654c9beb340145574a9dc91916e1fdc0c660510f5165e42d78">EMOTE_ONESHOT_ATTACK_UNARMED</a></div><div class="ttdeci">@ EMOTE_ONESHOT_ATTACK_UNARMED</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1929</div></div>
+<div class="ttc" id="aa00110_html_a0e527855c554e31654c9beb340145574aac8b077506be3c6ce2dda446450d13da"><div class="ttname"><a href="../../d4/d81/a00110.html#a0e527855c554e31654c9beb340145574aac8b077506be3c6ce2dda446450d13da">EMOTE_STATE_STUN</a></div><div class="ttdeci">@ EMOTE_STATE_STUN</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1944</div></div>
 <div class="ttc" id="aa01586_html_afb6eb4f28419b652027fad41104a6d22a0dc5ebdada9aea4b10a9898cc7b8dd1b"><div class="ttname"><a href="../../d2/d2f/a01586.html#afb6eb4f28419b652027fad41104a6d22a0dc5ebdada9aea4b10a9898cc7b8dd1b">DATA_PHALANX</a></div><div class="ttdeci">@ DATA_PHALANX</div><div class="ttdef"><b>Definition:</b> blackrock_depths.h:48</div></div>
 <div class="ttc" id="aa01586_html_afb6eb4f28419b652027fad41104a6d22a90af78ef23785cabaecdb5eb97cec220"><div class="ttname"><a href="../../d2/d2f/a01586.html#afb6eb4f28419b652027fad41104a6d22a90af78ef23785cabaecdb5eb97cec220">DATA_GO_BAR_KEG</a></div><div class="ttdeci">@ DATA_GO_BAR_KEG</div><div class="ttdef"><b>Definition:</b> blackrock_depths.h:55</div></div>
 <div class="ttc" id="aa01586_html_afb6eb4f28419b652027fad41104a6d22ad8d51c3a06c2c1a588c392f6edf238ba"><div class="ttname"><a href="../../d2/d2f/a01586.html#afb6eb4f28419b652027fad41104a6d22ad8d51c3a06c2c1a588c392f6edf238ba">DATA_GO_BAR_KEG_TRAP</a></div><div class="ttdeci">@ DATA_GO_BAR_KEG_TRAP</div><div class="ttdef"><b>Definition:</b> blackrock_depths.h:56</div></div>
 <div class="ttc" id="aa01586_html_afb6eb4f28419b652027fad41104a6d22afbd01ac29718f113ae811e86d78ceb70"><div class="ttname"><a href="../../d2/d2f/a01586.html#afb6eb4f28419b652027fad41104a6d22afbd01ac29718f113ae811e86d78ceb70">DATA_GO_BAR_DOOR</a></div><div class="ttdeci">@ DATA_GO_BAR_DOOR</div><div class="ttdef"><b>Definition:</b> blackrock_depths.h:57</div></div>
-<div class="ttc" id="aa05175_html_a1cb1e2f3906c3bd150a0d18377253d16"><div class="ttname"><a href="../../dc/d07/a05175.html#a1cb1e2f3906c3bd150a0d18377253d16">ObjectAccessor::GetUnit</a></div><div class="ttdeci">Unit * GetUnit(WorldObject const &amp;, ObjectGuid const &amp;guid)</div><div class="ttdef"><b>Definition:</b> ObjectAccessor.cpp:223</div></div>
-<div class="ttc" id="aa06683_html_a5e9c333411c54ff4d644812e53ba1831"><div class="ttname"><a href="../../dd/daa/a06683.html#a5e9c333411c54ff4d644812e53ba1831">npc_escortAI::UpdateAI</a></div><div class="ttdeci">void UpdateAI(uint32 diff) override</div><div class="ttdoc">Use to start attacking a target. Called just before JustEngagedWith()</div><div class="ttdef"><b>Definition:</b> ScriptedEscortAI.cpp:240</div></div>
-<div class="ttc" id="aa09227_html"><div class="ttname"><a href="../../d9/d33/a09227.html">Unit</a></div><div class="ttdef"><b>Definition:</b> Unit.h:667</div></div>
-<div class="ttc" id="aa12783_html_a242e871de8e19462fcab6fb9eae1039e"><div class="ttname"><a href="../../dd/d2b/a12783.html#a242e871de8e19462fcab6fb9eae1039e">npc_rocknot::DoGo</a></div><div class="ttdeci">void DoGo(uint32 id, uint32 state)</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:516</div></div>
+<div class="ttc" id="aa01595_html_a0fcf46ec361ec3eb9f40c6701294d8e0ab2c8011f6b9b092816587071dc99a963"><div class="ttname"><a href="../../dc/dbf/a01595.html#a0fcf46ec361ec3eb9f40c6701294d8e0ab2c8011f6b9b092816587071dc99a963">SAY_ALE</a></div><div class="ttdeci">@ SAY_ALE</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:606</div></div>
+<div class="ttc" id="aa01595_html_a0fcf46ec361ec3eb9f40c6701294d8e0ad5a29b9fd4cfc6f98e2bd65774d5409f"><div class="ttname"><a href="../../dc/dbf/a01595.html#a0fcf46ec361ec3eb9f40c6701294d8e0ad5a29b9fd4cfc6f98e2bd65774d5409f">SAY_MORE_ALE</a></div><div class="ttdeci">@ SAY_MORE_ALE</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:603</div></div>
+<div class="ttc" id="aa01595_html_a107098a8e50cf4edccc1a3a1131e8e54a08c06ffb1b78d85bde7a8c01eab983c6"><div class="ttname"><a href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54a08c06ffb1b78d85bde7a8c01eab983c6">EVENT_ROCKNOT_FINAL_KEG</a></div><div class="ttdeci">@ EVENT_ROCKNOT_FINAL_KEG</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:619</div></div>
+<div class="ttc" id="aa01595_html_a107098a8e50cf4edccc1a3a1131e8e54a0e14503329a8f0c69e3ccd272baf3b3f"><div class="ttname"><a href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54a0e14503329a8f0c69e3ccd272baf3b3f">EVENT_ROCKNOT_PUNCH</a></div><div class="ttdeci">@ EVENT_ROCKNOT_PUNCH</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:617</div></div>
+<div class="ttc" id="aa01595_html_a107098a8e50cf4edccc1a3a1131e8e54a21249240998f8d2de3c601fd8e8434fc"><div class="ttname"><a href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54a21249240998f8d2de3c601fd8e8434fc">EVENT_ROCKNOT_BREAK_KEG</a></div><div class="ttdeci">@ EVENT_ROCKNOT_BREAK_KEG</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:621</div></div>
+<div class="ttc" id="aa01595_html_a107098a8e50cf4edccc1a3a1131e8e54a566f784990836203caca9e4ce325c18b"><div class="ttname"><a href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54a566f784990836203caca9e4ce325c18b">EVENT_ROCKNOT_SECOND_KEG</a></div><div class="ttdeci">@ EVENT_ROCKNOT_SECOND_KEG</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:618</div></div>
+<div class="ttc" id="aa01595_html_a107098a8e50cf4edccc1a3a1131e8e54ad2c5488cd2569a1b012badf8b39bb96a"><div class="ttname"><a href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54ad2c5488cd2569a1b012badf8b39bb96a">EVENT_ROCKNOT_ALE</a></div><div class="ttdeci">@ EVENT_ROCKNOT_ALE</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:620</div></div>
+<div class="ttc" id="aa01595_html_a107098a8e50cf4edccc1a3a1131e8e54ae8371debc05d7f32a3149693d38e09fa"><div class="ttname"><a href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54ae8371debc05d7f32a3149693d38e09fa">EVENT_ROCKNOT_BAR_REACTION</a></div><div class="ttdeci">@ EVENT_ROCKNOT_BAR_REACTION</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:622</div></div>
+<div class="ttc" id="aa01595_html_ae140961cf8719b54c57af64480ef31eeadfbfd0c0e25fabeb11d16a998b59ebde"><div class="ttname"><a href="../../dc/dbf/a01595.html#ae140961cf8719b54c57af64480ef31eeadfbfd0c0e25fabeb11d16a998b59ebde">ACTION_PHALANX_START_ACTIVATION</a></div><div class="ttdeci">@ ACTION_PHALANX_START_ACTIVATION</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:420</div></div>
+<div class="ttc" id="aa03086_html_ac17cd142af80da019367bb796b15e5abaf4f299c1cfc830c90418c4487c567c1e"><div class="ttname"><a href="../../d9/d5e/a03086.html#ac17cd142af80da019367bb796b15e5abaf4f299c1cfc830c90418c4487c567c1e">GO_STATE_ACTIVE</a></div><div class="ttdeci">@ GO_STATE_ACTIVE</div><div class="ttdef"><b>Definition:</b> GameObjectData.h:708</div></div>
+<div class="ttc" id="aa03086_html_ac17cd142af80da019367bb796b15e5abaf8410e5f8e696adf15ecdd441dee7e0e"><div class="ttname"><a href="../../d9/d5e/a03086.html#ac17cd142af80da019367bb796b15e5abaf8410e5f8e696adf15ecdd441dee7e0e">GO_STATE_ACTIVE_ALTERNATIVE</a></div><div class="ttdeci">@ GO_STATE_ACTIVE_ALTERNATIVE</div><div class="ttdef"><b>Definition:</b> GameObjectData.h:710</div></div>
+<div class="ttc" id="aa03521_html_af40ca4990501264cb0359ab6d93fb08aa243ae0744c8bd5cc0191aaae1e3cb9f6"><div class="ttname"><a href="../../d8/dbe/a03521.html#af40ca4990501264cb0359ab6d93fb08aa243ae0744c8bd5cc0191aaae1e3cb9f6">STATE_ESCORT_PAUSED</a></div><div class="ttdeci">@ STATE_ESCORT_PAUSED</div><div class="ttdef"><b>Definition:</b> ScriptedEscortAI.h:49</div></div>
+<div class="ttc" id="aa03521_html_af40ca4990501264cb0359ab6d93fb08aaae71d59813ca4d9bb6e84769e1eeec48"><div class="ttname"><a href="../../d8/dbe/a03521.html#af40ca4990501264cb0359ab6d93fb08aaae71d59813ca4d9bb6e84769e1eeec48">STATE_ESCORT_RETURNING</a></div><div class="ttdeci">@ STATE_ESCORT_RETURNING</div><div class="ttdef"><b>Definition:</b> ScriptedEscortAI.h:48</div></div>
+<div class="ttc" id="aa04691_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d6/d12/a04691.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa05175_html_a8d1cda6b98832b29fcb437c654fd8ae9"><div class="ttname"><a href="../../dc/d07/a05175.html#a8d1cda6b98832b29fcb437c654fd8ae9">ObjectAccessor::GetCreature</a></div><div class="ttdeci">Creature * GetCreature(WorldObject const &amp;u, ObjectGuid const &amp;guid)</div><div class="ttdef"><b>Definition:</b> ObjectAccessor.cpp:234</div></div>
+<div class="ttc" id="aa05871_html_a33ba1058edd639c98258ba3e123ac2f9"><div class="ttname"><a href="../../d5/dfd/a05871.html#a33ba1058edd639c98258ba3e123ac2f9">EventMap::Update</a></div><div class="ttdeci">void Update(uint32 time)</div><div class="ttdef"><b>Definition:</b> EventMap.h:67</div></div>
+<div class="ttc" id="aa05871_html_a435dd6db2c6fbbaf80467b7a617c4237"><div class="ttname"><a href="../../d5/dfd/a05871.html#a435dd6db2c6fbbaf80467b7a617c4237">EventMap::ExecuteEvent</a></div><div class="ttdeci">EventId ExecuteEvent()</div><div class="ttdef"><b>Definition:</b> EventMap.cpp:86</div></div>
+<div class="ttc" id="aa06683_html_a923f330b384cd7fa803a92ab29e6b709"><div class="ttname"><a href="../../dd/daa/a06683.html#a923f330b384cd7fa803a92ab29e6b709">npc_escortAI::RemoveEscortState</a></div><div class="ttdeci">void RemoveEscortState(uint32 escortState)</div><div class="ttdef"><b>Definition:</b> ScriptedEscortAI.h:115</div></div>
+<div class="ttc" id="aa08471_html"><div class="ttname"><a href="../../d5/d6c/a08471.html">Creature</a></div><div class="ttdef"><b>Definition:</b> Creature.h:47</div></div>
+<div class="ttc" id="aa08651_html"><div class="ttname"><a href="../../d7/d00/a08651.html">GameObject</a></div><div class="ttdef"><b>Definition:</b> GameObject.h:120</div></div>
+<div class="ttc" id="aa08931_html_ad8e55f9b39618093aa625abe3a06e1ed"><div class="ttname"><a href="../../d7/dc3/a08931.html#ad8e55f9b39618093aa625abe3a06e1ed">Position::GetPosition</a></div><div class="ttdeci">void GetPosition(float &amp;x, float &amp;y) const</div><div class="ttdef"><b>Definition:</b> Position.h:126</div></div>
+<div class="ttc" id="aa09227_html_a4a04a3f22c3b0d6f4933993ac0cc7aa4"><div class="ttname"><a href="../../d9/d33/a09227.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">Unit::GetMotionMaster</a></div><div class="ttdeci">MotionMaster * GetMotionMaster()</div><div class="ttdef"><b>Definition:</b> Unit.h:1763</div></div>
+<div class="ttc" id="aa10455_html_a18d407b55cfb990e2bb51f4efb63c6bd"><div class="ttname"><a href="../../da/d0f/a10455.html#a18d407b55cfb990e2bb51f4efb63c6bd">MotionMaster::MoveTargetedHome</a></div><div class="ttdeci">void MoveTargetedHome(bool walk=false)</div><div class="ttdoc">The unit will return this initial position (owner for pets and summoned creatures)....</div><div class="ttdef"><b>Definition:</b> MotionMaster.cpp:262</div></div>
+<div class="ttc" id="aa12783_html_acbb5451172867b047b50e0f2bd9aa08c"><div class="ttname"><a href="../../dd/d2b/a12783.html#acbb5451172867b047b50e0f2bd9aa08c">npc_rocknot::GetBarObject</a></div><div class="ttdeci">GameObject * GetBarObject(uint32 data) const</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:841</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00585">_breakDoorTimer</a>, <a class="el" href="../../#l00584">_breakKegTimer</a>, <a class="el" href="../../#l00057">DATA_GO_BAR_DOOR</a>, <a class="el" href="../../#l00055">DATA_GO_BAR_KEG</a>, <a class="el" href="../../#l00056">DATA_GO_BAR_KEG_TRAP</a>, <a class="el" href="../../#l00048">DATA_PHALANX</a>, <a class="el" href="../../#l00516">DoGo()</a>, <a class="el" href="../../#l00061">DONE</a>, <a class="el" href="../../#l00183">FACTION_MONSTER</a>, <a class="el" href="../../#l00121">InstanceScript::GetGuidData()</a>, <a class="el" href="../../#l00223">ObjectAccessor::GetUnit()</a>, <a class="el" href="../../#l00583">instance</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l00052">ZoneScript::SetData()</a>, <a class="el" href="../../#l00042">TYPE_BAR</a>, and <a class="el" href="../../#l00240">npc_escortAI::UpdateAI()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00848">_aleComplete</a>, <a class="el" href="../../#l00847">_events</a>, <a class="el" href="../../#l00846">_instance</a>, <a class="el" href="../../#l00851">_originalPosition</a>, <a class="el" href="../../#l00850">_recovering</a>, <a class="el" href="../../#l00420">ACTION_PHALANX_START_ACTIVATION</a>, <a class="el" href="../../#l00057">DATA_GO_BAR_DOOR</a>, <a class="el" href="../../#l00055">DATA_GO_BAR_KEG</a>, <a class="el" href="../../#l00056">DATA_GO_BAR_KEG_TRAP</a>, <a class="el" href="../../#l00048">DATA_PHALANX</a>, <a class="el" href="../../#l00061">DONE</a>, <a class="el" href="../../#l01929">EMOTE_ONESHOT_ATTACK_UNARMED</a>, <a class="el" href="../../#l01926">EMOTE_STATE_NONE</a>, <a class="el" href="../../#l01944">EMOTE_STATE_STUN</a>, <a class="el" href="../../#l01924">EMOTE_STATE_WORK_SHEATHED</a>, <a class="el" href="../../#l00620">EVENT_ROCKNOT_ALE</a>, <a class="el" href="../../#l00622">EVENT_ROCKNOT_BAR_REACTION</a>, <a class="el" href="../../#l00621">EVENT_ROCKNOT_BREAK_KEG</a>, <a class="el" href="../../#l00619">EVENT_ROCKNOT_FINAL_KEG</a>, <a class="el" href="../../#l00616">EVENT_ROCKNOT_MORE_ALE</a>, <a class="el" href="../../#l00617">EVENT_ROCKNOT_PUNCH</a>, <a class="el" href="../../#l00623">EVENT_ROCKNOT_RECOVER</a>, <a class="el" href="../../#l00618">EVENT_ROCKNOT_SECOND_KEG</a>, <a class="el" href="../../#l00086">EventMap::ExecuteEvent()</a>, <a class="el" href="../../#l00841">GetBarObject()</a>, <a class="el" href="../../#l00234">ObjectAccessor::GetCreature()</a>, <a class="el" href="../../#l00121">InstanceScript::GetGuidData()</a>, <a class="el" href="../../#l01763">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l00126">Position::GetPosition()</a>, <a class="el" href="../../#l00708">GO_STATE_ACTIVE</a>, <a class="el" href="../../#l00710">GO_STATE_ACTIVE_ALTERNATIVE</a>, <a class="el" href="../../#l02198">Unit::HandleEmoteCommand()</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l00262">MotionMaster::MoveTargetedHome()</a>, <a class="el" href="../../#l00115">npc_escortAI::RemoveEscortState()</a>, <a class="el" href="../../#l00606">SAY_ALE</a>, <a class="el" href="../../#l00603">SAY_MORE_ALE</a>, <a class="el" href="../../#l00048">EventMap::ScheduleEvent()</a>, <a class="el" href="../../#l00052">ZoneScript::SetData()</a>, <a class="el" href="../../#l00761">Unit::SetEmoteState()</a>, <a class="el" href="../../#l16072">Unit::SetFacingTo()</a>, <a class="el" href="../../#l00347">Creature::SetHomePosition()</a>, <a class="el" href="../../#l00047">STATE_ESCORT_ESCORTING</a>, <a class="el" href="../../#l00049">STATE_ESCORT_PAUSED</a>, <a class="el" href="../../#l00048">STATE_ESCORT_RETURNING</a>, <a class="el" href="../../#l00042">TYPE_BAR</a>, and <a class="el" href="../../#l00067">EventMap::Update()</a>.</p>
 
 </div>
 </div>
-<a id="a3711cae23b14dcce2ac1938aaeb9b961" name="a3711cae23b14dcce2ac1938aaeb9b961"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3711cae23b14dcce2ac1938aaeb9b961">&#9670;&#160;</a></span>WaypointReached() <span class="overload">[1/2]</span></h2>
+<a id="ac7339cc0e765ea37976b52837814729b" name="ac7339cc0e765ea37976b52837814729b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac7339cc0e765ea37976b52837814729b">&#9670;&#160;</a></span>WaypointReached() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -994,7 +1228,7 @@ Additional Inherited Members</h2></td></tr>
           <td class="memname">void npc_rocknot::WaypointReached </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="../../d6/d12/a04691.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>waypointId</em></td><td>)</td>
+          <td class="paramname"><em>pointId</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -1006,32 +1240,34 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/daa/a06683.html#a59830f742b9967303df22f5bcf0d2b9d">npc_escortAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  524</span>    {</div>
-<div class="line"><span class="lineno">  525</span>        <span class="keywordflow">switch</span> (waypointId)</div>
-<div class="line"><span class="lineno">  526</span>        {</div>
-<div class="line"><span class="lineno">  527</span>            <span class="keywordflow">case</span> 1:</div>
-<div class="line"><span class="lineno">  528</span>                <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#adeebdc78f840a40e89361e5c792b0e53">HandleEmoteCommand</a>(<a class="code hl_enumvalue" href="../../d4/d81/a00110.html#a0e527855c554e31654c9beb340145574a2a297e38ab8503b56a49b51acc7b4d2d">EMOTE_ONESHOT_KICK</a>);</div>
-<div class="line"><span class="lineno">  529</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  530</span>            <span class="keywordflow">case</span> 2:</div>
-<div class="line"><span class="lineno">  531</span>                <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#adeebdc78f840a40e89361e5c792b0e53">HandleEmoteCommand</a>(<a class="code hl_enumvalue" href="../../d4/d81/a00110.html#a0e527855c554e31654c9beb340145574a9dc91916e1fdc0c660510f5165e42d78">EMOTE_ONESHOT_ATTACK_UNARMED</a>);</div>
-<div class="line"><span class="lineno">  532</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  533</span>            <span class="keywordflow">case</span> 3:</div>
-<div class="line"><span class="lineno">  534</span>                <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#adeebdc78f840a40e89361e5c792b0e53">HandleEmoteCommand</a>(<a class="code hl_enumvalue" href="../../d4/d81/a00110.html#a0e527855c554e31654c9beb340145574a9dc91916e1fdc0c660510f5165e42d78">EMOTE_ONESHOT_ATTACK_UNARMED</a>);</div>
-<div class="line"><span class="lineno">  535</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  536</span>            <span class="keywordflow">case</span> 4:</div>
-<div class="line"><span class="lineno">  537</span>                <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#adeebdc78f840a40e89361e5c792b0e53">HandleEmoteCommand</a>(<a class="code hl_enumvalue" href="../../d4/d81/a00110.html#a0e527855c554e31654c9beb340145574a2a297e38ab8503b56a49b51acc7b4d2d">EMOTE_ONESHOT_KICK</a>);</div>
-<div class="line"><span class="lineno">  538</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  539</span>            <span class="keywordflow">case</span> 5:</div>
-<div class="line"><span class="lineno">  540</span>                <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#adeebdc78f840a40e89361e5c792b0e53">HandleEmoteCommand</a>(<a class="code hl_enumvalue" href="../../d4/d81/a00110.html#a0e527855c554e31654c9beb340145574a2a297e38ab8503b56a49b51acc7b4d2d">EMOTE_ONESHOT_KICK</a>);</div>
-<div class="line"><span class="lineno">  541</span>                <a class="code hl_variable" href="../../dd/d2b/a12783.html#ad6e48e6f81521b89da9f528e079c1c90">_breakKegTimer</a> = 2000;</div>
-<div class="line"><span class="lineno">  542</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  543</span>        }</div>
-<div class="line"><span class="lineno">  544</span>    }</div>
-<div class="ttc" id="aa00110_html_a0e527855c554e31654c9beb340145574a2a297e38ab8503b56a49b51acc7b4d2d"><div class="ttname"><a href="../../d4/d81/a00110.html#a0e527855c554e31654c9beb340145574a2a297e38ab8503b56a49b51acc7b4d2d">EMOTE_ONESHOT_KICK</a></div><div class="ttdeci">@ EMOTE_ONESHOT_KICK</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1942</div></div>
-<div class="ttc" id="aa00110_html_a0e527855c554e31654c9beb340145574a9dc91916e1fdc0c660510f5165e42d78"><div class="ttname"><a href="../../d4/d81/a00110.html#a0e527855c554e31654c9beb340145574a9dc91916e1fdc0c660510f5165e42d78">EMOTE_ONESHOT_ATTACK_UNARMED</a></div><div class="ttdeci">@ EMOTE_ONESHOT_ATTACK_UNARMED</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1929</div></div>
-<div class="ttc" id="aa09227_html_adeebdc78f840a40e89361e5c792b0e53"><div class="ttname"><a href="../../d9/d33/a09227.html#adeebdc78f840a40e89361e5c792b0e53">Unit::HandleEmoteCommand</a></div><div class="ttdeci">void HandleEmoteCommand(uint32 emoteId)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:2198</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  735</span>    {</div>
+<div class="line"><span class="lineno">  736</span>        <span class="keywordflow">switch</span> (pointId)</div>
+<div class="line"><span class="lineno">  737</span>        {</div>
+<div class="line"><span class="lineno">  738</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a2b671238f8a9d6c755d81fe60b2b11afa8053ffeaad38499a5a6549cb1ee6fffc">POINT_ROCKNOT_FIRST_KEG</a>:</div>
+<div class="line"><span class="lineno">  739</span>                <a class="code hl_variable" href="../../dd/d2b/a12783.html#afffae96bb89286dd506db76d6e69b05b">_events</a>.<a class="code hl_function" href="../../d5/dfd/a05871.html#aec6dde1456f6f7f802c3bda4cf4b713f">ScheduleEvent</a>(<a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54a0e14503329a8f0c69e3ccd272baf3b3f">EVENT_ROCKNOT_PUNCH</a>, 1500ms);</div>
+<div class="line"><span class="lineno">  740</span>                <a class="code hl_variable" href="../../dd/d2b/a12783.html#afffae96bb89286dd506db76d6e69b05b">_events</a>.<a class="code hl_function" href="../../d5/dfd/a05871.html#aec6dde1456f6f7f802c3bda4cf4b713f">ScheduleEvent</a>(<a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54a0e14503329a8f0c69e3ccd272baf3b3f">EVENT_ROCKNOT_PUNCH</a>, 3100ms);</div>
+<div class="line"><span class="lineno">  741</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  742</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a2b671238f8a9d6c755d81fe60b2b11afab293bb2049c2b6e1004eaccc5fef59eb">POINT_ROCKNOT_SECOND_KEG</a>:</div>
+<div class="line"><span class="lineno">  743</span>                <a class="code hl_variable" href="../../dd/d2b/a12783.html#afffae96bb89286dd506db76d6e69b05b">_events</a>.<a class="code hl_function" href="../../d5/dfd/a05871.html#aec6dde1456f6f7f802c3bda4cf4b713f">ScheduleEvent</a>(<a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54a566f784990836203caca9e4ce325c18b">EVENT_ROCKNOT_SECOND_KEG</a>, 1500ms);</div>
+<div class="line"><span class="lineno">  744</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  745</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a2b671238f8a9d6c755d81fe60b2b11afaff649f954966a9020040cfe508de5ad8">POINT_ROCKNOT_FINAL_KEG</a>:</div>
+<div class="line"><span class="lineno">  746</span>                <span class="comment">// Evade must return to the keg while the final sequence is still running.</span></div>
+<div class="line"><span class="lineno">  747</span>                <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d5/d6c/a08471.html#a0ab9e2649cc4b0103aea6a52e8f1a5ea">SetHomePosition</a>(<a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d7/dc3/a08931.html#ad8e55f9b39618093aa625abe3a06e1ed">GetPosition</a>());</div>
+<div class="line"><span class="lineno">  748</span>                <a class="code hl_function" href="../../dd/daa/a06683.html#aab2ae80bf9d5b6382fc6f8390808bc74">SetEscortPaused</a>(<span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  749</span>                <a class="code hl_variable" href="../../dd/d2b/a12783.html#afffae96bb89286dd506db76d6e69b05b">_events</a>.<a class="code hl_function" href="../../d5/dfd/a05871.html#aec6dde1456f6f7f802c3bda4cf4b713f">ScheduleEvent</a>(<a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54a08c06ffb1b78d85bde7a8c01eab983c6">EVENT_ROCKNOT_FINAL_KEG</a>, 300ms);</div>
+<div class="line"><span class="lineno">  750</span>                <a class="code hl_variable" href="../../dd/d2b/a12783.html#afffae96bb89286dd506db76d6e69b05b">_events</a>.<a class="code hl_function" href="../../d5/dfd/a05871.html#aec6dde1456f6f7f802c3bda4cf4b713f">ScheduleEvent</a>(<a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54a0e14503329a8f0c69e3ccd272baf3b3f">EVENT_ROCKNOT_PUNCH</a>, 1900ms);</div>
+<div class="line"><span class="lineno">  751</span>                <a class="code hl_variable" href="../../dd/d2b/a12783.html#afffae96bb89286dd506db76d6e69b05b">_events</a>.<a class="code hl_function" href="../../d5/dfd/a05871.html#aec6dde1456f6f7f802c3bda4cf4b713f">ScheduleEvent</a>(<a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54a0e14503329a8f0c69e3ccd272baf3b3f">EVENT_ROCKNOT_PUNCH</a>, 3500ms);</div>
+<div class="line"><span class="lineno">  752</span>                <a class="code hl_variable" href="../../dd/d2b/a12783.html#afffae96bb89286dd506db76d6e69b05b">_events</a>.<a class="code hl_function" href="../../d5/dfd/a05871.html#aec6dde1456f6f7f802c3bda4cf4b713f">ScheduleEvent</a>(<a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54ad2c5488cd2569a1b012badf8b39bb96a">EVENT_ROCKNOT_ALE</a>, 3700ms);</div>
+<div class="line"><span class="lineno">  753</span>                <a class="code hl_variable" href="../../dd/d2b/a12783.html#afffae96bb89286dd506db76d6e69b05b">_events</a>.<a class="code hl_function" href="../../d5/dfd/a05871.html#aec6dde1456f6f7f802c3bda4cf4b713f">ScheduleEvent</a>(<a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54a21249240998f8d2de3c601fd8e8434fc">EVENT_ROCKNOT_BREAK_KEG</a>, 5100ms);</div>
+<div class="line"><span class="lineno">  754</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  755</span>        }</div>
+<div class="line"><span class="lineno">  756</span>    }</div>
+<div class="ttc" id="aa01595_html_a2b671238f8a9d6c755d81fe60b2b11afa8053ffeaad38499a5a6549cb1ee6fffc"><div class="ttname"><a href="../../dc/dbf/a01595.html#a2b671238f8a9d6c755d81fe60b2b11afa8053ffeaad38499a5a6549cb1ee6fffc">POINT_ROCKNOT_FIRST_KEG</a></div><div class="ttdeci">@ POINT_ROCKNOT_FIRST_KEG</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:633</div></div>
+<div class="ttc" id="aa01595_html_a2b671238f8a9d6c755d81fe60b2b11afab293bb2049c2b6e1004eaccc5fef59eb"><div class="ttname"><a href="../../dc/dbf/a01595.html#a2b671238f8a9d6c755d81fe60b2b11afab293bb2049c2b6e1004eaccc5fef59eb">POINT_ROCKNOT_SECOND_KEG</a></div><div class="ttdeci">@ POINT_ROCKNOT_SECOND_KEG</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:635</div></div>
+<div class="ttc" id="aa01595_html_a2b671238f8a9d6c755d81fe60b2b11afaff649f954966a9020040cfe508de5ad8"><div class="ttname"><a href="../../dc/dbf/a01595.html#a2b671238f8a9d6c755d81fe60b2b11afaff649f954966a9020040cfe508de5ad8">POINT_ROCKNOT_FINAL_KEG</a></div><div class="ttdeci">@ POINT_ROCKNOT_FINAL_KEG</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:637</div></div>
+<div class="ttc" id="aa06683_html_aab2ae80bf9d5b6382fc6f8390808bc74"><div class="ttname"><a href="../../dd/daa/a06683.html#aab2ae80bf9d5b6382fc6f8390808bc74">npc_escortAI::SetEscortPaused</a></div><div class="ttdeci">void SetEscortPaused(bool on)</div><div class="ttdef"><b>Definition:</b> ScriptedEscortAI.cpp:495</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00584">_breakKegTimer</a>, <a class="el" href="../../#l01929">EMOTE_ONESHOT_ATTACK_UNARMED</a>, <a class="el" href="../../#l01942">EMOTE_ONESHOT_KICK</a>, <a class="el" href="../../#l02198">Unit::HandleEmoteCommand()</a>, and <a class="el" href="../../#l00281">ScriptedAI::me</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00847">_events</a>, <a class="el" href="../../#l00620">EVENT_ROCKNOT_ALE</a>, <a class="el" href="../../#l00621">EVENT_ROCKNOT_BREAK_KEG</a>, <a class="el" href="../../#l00619">EVENT_ROCKNOT_FINAL_KEG</a>, <a class="el" href="../../#l00617">EVENT_ROCKNOT_PUNCH</a>, <a class="el" href="../../#l00618">EVENT_ROCKNOT_SECOND_KEG</a>, <a class="el" href="../../#l00126">Position::GetPosition()</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l00637">POINT_ROCKNOT_FINAL_KEG</a>, <a class="el" href="../../#l00633">POINT_ROCKNOT_FIRST_KEG</a>, <a class="el" href="../../#l00635">POINT_ROCKNOT_SECOND_KEG</a>, <a class="el" href="../../#l00048">EventMap::ScheduleEvent()</a>, <a class="el" href="../../#l00495">npc_escortAI::SetEscortPaused()</a>, and <a class="el" href="../../#l00347">Creature::SetHomePosition()</a>.</p>
 
 </div>
 </div>
@@ -1074,9 +1310,56 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 </div>
 </div>
+<a id="a0b2b2713776f9e18d3a772107e7c6974" name="a0b2b2713776f9e18d3a772107e7c6974"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0b2b2713776f9e18d3a772107e7c6974">&#9670;&#160;</a></span>WaypointStart()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void npc_rocknot::WaypointStart </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d6/d12/a04691.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>pointId</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Reimplemented from <a class="el" href="../../dd/daa/a06683.html#ae4df5980d742911c1599614780942c02">npc_escortAI</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">  720</span>    {</div>
+<div class="line"><span class="lineno">  721</span>        <span class="keywordflow">if</span> (pointId == <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a2b671238f8a9d6c755d81fe60b2b11afa1076c772446fc99a4141925c4681cf10">POINT_ROCKNOT_LEAVE_FIRST_KEG</a>)</div>
+<div class="line"><span class="lineno">  722</span>        {</div>
+<div class="line"><span class="lineno">  723</span>            <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#adeebdc78f840a40e89361e5c792b0e53">HandleEmoteCommand</a>(<a class="code hl_enumvalue" href="../../d4/d81/a00110.html#a0e527855c554e31654c9beb340145574a34f488a152a114730a9a2e5f60ddbb6f">EMOTE_ONESHOT_EXCLAMATION</a>);</div>
+<div class="line"><span class="lineno">  724</span>            <a class="code hl_enumeration" href="../../da/d2d/a02018.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a0fcf46ec361ec3eb9f40c6701294d8e0aed958fd831bb8b842be73f0b16544b06">SAY_FIRST_EMPTY</a>);</div>
+<div class="line"><span class="lineno">  725</span>        }</div>
+<div class="line"><span class="lineno">  726</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (pointId == <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a2b671238f8a9d6c755d81fe60b2b11afae6f75c5a860db2c1276777cb7ad9ec59">POINT_ROCKNOT_LEAVE_SECOND_KEG</a>)</div>
+<div class="line"><span class="lineno">  727</span>        {</div>
+<div class="line"><span class="lineno">  728</span>            <a class="code hl_variable" href="../../d0/d95/a06663.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#adeebdc78f840a40e89361e5c792b0e53">HandleEmoteCommand</a>(<a class="code hl_enumvalue" href="../../d4/d81/a00110.html#a0e527855c554e31654c9beb340145574a34f488a152a114730a9a2e5f60ddbb6f">EMOTE_ONESHOT_EXCLAMATION</a>);</div>
+<div class="line"><span class="lineno">  729</span>            <a class="code hl_enumeration" href="../../da/d2d/a02018.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a0fcf46ec361ec3eb9f40c6701294d8e0ae644afd40e185b9f8d53e621551a6a65">SAY_SECOND_EMPTY</a>);</div>
+<div class="line"><span class="lineno">  730</span>        }</div>
+<div class="line"><span class="lineno">  731</span>    }</div>
+<div class="ttc" id="aa00110_html_a0e527855c554e31654c9beb340145574a34f488a152a114730a9a2e5f60ddbb6f"><div class="ttname"><a href="../../d4/d81/a00110.html#a0e527855c554e31654c9beb340145574a34f488a152a114730a9a2e5f60ddbb6f">EMOTE_ONESHOT_EXCLAMATION</a></div><div class="ttdeci">@ EMOTE_ONESHOT_EXCLAMATION</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1903</div></div>
+<div class="ttc" id="aa01595_html_a0fcf46ec361ec3eb9f40c6701294d8e0ae644afd40e185b9f8d53e621551a6a65"><div class="ttname"><a href="../../dc/dbf/a01595.html#a0fcf46ec361ec3eb9f40c6701294d8e0ae644afd40e185b9f8d53e621551a6a65">SAY_SECOND_EMPTY</a></div><div class="ttdeci">@ SAY_SECOND_EMPTY</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:605</div></div>
+<div class="ttc" id="aa01595_html_a0fcf46ec361ec3eb9f40c6701294d8e0aed958fd831bb8b842be73f0b16544b06"><div class="ttname"><a href="../../dc/dbf/a01595.html#a0fcf46ec361ec3eb9f40c6701294d8e0aed958fd831bb8b842be73f0b16544b06">SAY_FIRST_EMPTY</a></div><div class="ttdeci">@ SAY_FIRST_EMPTY</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:604</div></div>
+<div class="ttc" id="aa01595_html_a2b671238f8a9d6c755d81fe60b2b11afa1076c772446fc99a4141925c4681cf10"><div class="ttname"><a href="../../dc/dbf/a01595.html#a2b671238f8a9d6c755d81fe60b2b11afa1076c772446fc99a4141925c4681cf10">POINT_ROCKNOT_LEAVE_FIRST_KEG</a></div><div class="ttdeci">@ POINT_ROCKNOT_LEAVE_FIRST_KEG</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:634</div></div>
+<div class="ttc" id="aa01595_html_a2b671238f8a9d6c755d81fe60b2b11afae6f75c5a860db2c1276777cb7ad9ec59"><div class="ttname"><a href="../../dc/dbf/a01595.html#a2b671238f8a9d6c755d81fe60b2b11afae6f75c5a860db2c1276777cb7ad9ec59">POINT_ROCKNOT_LEAVE_SECOND_KEG</a></div><div class="ttdeci">@ POINT_ROCKNOT_LEAVE_SECOND_KEG</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:636</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l01903">EMOTE_ONESHOT_EXCLAMATION</a>, <a class="el" href="../../#l02198">Unit::HandleEmoteCommand()</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l00634">POINT_ROCKNOT_LEAVE_FIRST_KEG</a>, <a class="el" href="../../#l00636">POINT_ROCKNOT_LEAVE_SECOND_KEG</a>, <a class="el" href="../../#l00604">SAY_FIRST_EMPTY</a>, and <a class="el" href="../../#l00605">SAY_SECOND_EMPTY</a>.</p>
+
+</div>
+</div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a44955a4ef0e730f72848e582892380b5" name="a44955a4ef0e730f72848e582892380b5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a44955a4ef0e730f72848e582892380b5">&#9670;&#160;</a></span>_breakDoorTimer</h2>
+<a id="a8d4b1ee7abd210f00db3e49154a6f729" name="a8d4b1ee7abd210f00db3e49154a6f729"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8d4b1ee7abd210f00db3e49154a6f729">&#9670;&#160;</a></span>_aleComplete</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1085,7 +1368,7 @@ Additional Inherited Members</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d6/d12/a04691.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> npc_rocknot::_breakDoorTimer</td>
+          <td class="memname">bool npc_rocknot::_aleComplete</td>
         </tr>
       </table>
   </td>
@@ -1095,12 +1378,12 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00481">Reset()</a>, and <a class="el" href="../../#l00546">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00660">JustRespawned()</a>, <a class="el" href="../../#l00692">sQuestReward()</a>, and <a class="el" href="../../#l00758">UpdateEscortAI()</a>.</p>
 
 </div>
 </div>
-<a id="ad6e48e6f81521b89da9f528e079c1c90" name="ad6e48e6f81521b89da9f528e079c1c90"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad6e48e6f81521b89da9f528e079c1c90">&#9670;&#160;</a></span>_breakKegTimer</h2>
+<a id="af177898359d5c274350555a5ca63fc0b" name="af177898359d5c274350555a5ca63fc0b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af177898359d5c274350555a5ca63fc0b">&#9670;&#160;</a></span>_aleEventActive</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1109,7 +1392,7 @@ Additional Inherited Members</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d6/d12/a04691.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> npc_rocknot::_breakKegTimer</td>
+          <td class="memname">bool npc_rocknot::_aleEventActive = false</td>
         </tr>
       </table>
   </td>
@@ -1119,12 +1402,12 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00481">Reset()</a>, <a class="el" href="../../#l00546">UpdateAI()</a>, and <a class="el" href="../../#l00523">WaypointReached()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00678">JustReachedHome()</a>, <a class="el" href="../../#l00660">JustRespawned()</a>, <a class="el" href="../../#l00650">Reset()</a>, <a class="el" href="../../#l00692">sQuestReward()</a>, and <a class="el" href="../../#l00824">StartAleEvent()</a>.</p>
 
 </div>
 </div>
-<a id="a71e6532128131a10aae575d1bac023d0" name="a71e6532128131a10aae575d1bac023d0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a71e6532128131a10aae575d1bac023d0">&#9670;&#160;</a></span>instance</h2>
+<a id="afffae96bb89286dd506db76d6e69b05b" name="afffae96bb89286dd506db76d6e69b05b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afffae96bb89286dd506db76d6e69b05b">&#9670;&#160;</a></span>_events</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1133,7 +1416,7 @@ Additional Inherited Members</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../da/d3a/a10159.html">InstanceScript</a>* npc_rocknot::instance</td>
+          <td class="memname"><a class="el" href="../../d5/dfd/a05871.html">EventMap</a> npc_rocknot::_events</td>
         </tr>
       </table>
   </td>
@@ -1143,7 +1426,127 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00516">DoGo()</a>, <a class="el" href="../../#l00476">npc_rocknot()</a>, <a class="el" href="../../#l00490">sQuestReward()</a>, and <a class="el" href="../../#l00546">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00678">JustReachedHome()</a>, <a class="el" href="../../#l00650">Reset()</a>, <a class="el" href="../../#l00824">StartAleEvent()</a>, <a class="el" href="../../#l00758">UpdateEscortAI()</a>, and <a class="el" href="../../#l00734">WaypointReached()</a>.</p>
+
+</div>
+</div>
+<a id="aa5cf4c54ccef4e0800f537cdeac163a7" name="aa5cf4c54ccef4e0800f537cdeac163a7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa5cf4c54ccef4e0800f537cdeac163a7">&#9670;&#160;</a></span>_instance</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../da/d3a/a10159.html">InstanceScript</a>* npc_rocknot::_instance</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00841">GetBarObject()</a>, <a class="el" href="../../#l00692">sQuestReward()</a>, and <a class="el" href="../../#l00758">UpdateEscortAI()</a>.</p>
+
+</div>
+</div>
+<a id="a46f52ea33be20bebcebcf892ef4e38a0" name="a46f52ea33be20bebcebcf892ef4e38a0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a46f52ea33be20bebcebcf892ef4e38a0">&#9670;&#160;</a></span>_originalImmuneToNPC</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool npc_rocknot::_originalImmuneToNPC = false</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00678">JustReachedHome()</a>, <a class="el" href="../../#l00660">JustRespawned()</a>, and <a class="el" href="../../#l00824">StartAleEvent()</a>.</p>
+
+</div>
+</div>
+<a id="a5ba6b36a8757dcba9fba20f8debe54e7" name="a5ba6b36a8757dcba9fba20f8debe54e7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5ba6b36a8757dcba9fba20f8debe54e7">&#9670;&#160;</a></span>_originalNpcFlags</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d33/a03269.html#ab054baf099d873bce22a0e84ae1090e2">NPCFlags</a> npc_rocknot::_originalNpcFlags = <a class="el" href="../../d9/d33/a03269.html#ab054baf099d873bce22a0e84ae1090e2a7d75bb1546efb3a78c8ca3798667e2ef">UNIT_NPC_FLAG_NONE</a></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00678">JustReachedHome()</a>, <a class="el" href="../../#l00660">JustRespawned()</a>, and <a class="el" href="../../#l00824">StartAleEvent()</a>.</p>
+
+</div>
+</div>
+<a id="ab13c0b098679c30da4b642bab7200d99" name="ab13c0b098679c30da4b642bab7200d99"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab13c0b098679c30da4b642bab7200d99">&#9670;&#160;</a></span>_originalPosition</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d7/dc3/a08931.html">Position</a> npc_rocknot::_originalPosition</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00678">JustReachedHome()</a>, <a class="el" href="../../#l00660">JustRespawned()</a>, <a class="el" href="../../#l00824">StartAleEvent()</a>, and <a class="el" href="../../#l00758">UpdateEscortAI()</a>.</p>
+
+</div>
+</div>
+<a id="a9435a45a4f4bf73355f339a737fb4540" name="a9435a45a4f4bf73355f339a737fb4540"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9435a45a4f4bf73355f339a737fb4540">&#9670;&#160;</a></span>_recovering</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool npc_rocknot::_recovering = false</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00678">JustReachedHome()</a>, <a class="el" href="../../#l00660">JustRespawned()</a>, and <a class="el" href="../../#l00758">UpdateEscortAI()</a>.</p>
 
 </div>
 </div>
@@ -1153,7 +1556,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dd/d2b/a12783.html">npc_rocknot</a></li>
-    <li class="footer">Generated on Tue Sep 29 2026 01:13:33 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Tue Oct 6 2026 01:26:44 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

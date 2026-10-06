@@ -44,10 +44,9 @@ var a00725 =
     [ "go_amberpine_outhouse", "dc/dc8/a28483.html", "dc/dc8/a28483" ],
     [ "go_hive_pod", "d0/db6/a28487.html", "d0/db6/a28487" ],
     [ "go_massive_seaforium_charge", "d4/d1a/a28491.html", "d4/d1a/a28491" ],
-    [ "go_veil_skith_cage", "de/d1a/a28495.html", "de/d1a/a28495" ],
-    [ "go_bells", "d4/dd9/a28499.html", "d4/dd9/a28499" ],
-    [ "go_bells::go_bellsAI", "de/ddd/a28503.html", "de/ddd/a28503" ],
-    [ "go_duskwither_spire_power_source", "de/ddf/a28507.html", "de/ddf/a28507" ],
+    [ "go_bells", "de/d1a/a28495.html", "de/d1a/a28495" ],
+    [ "go_bells::go_bellsAI", "d4/dd9/a28499.html", "d4/dd9/a28499" ],
+    [ "go_duskwither_spire_power_source", "de/ddd/a28503.html", "de/ddd/a28503" ],
     [ "GO_ANDERHOLS_SLIDER_CIDER_NOT_FOUND", "d8/db9/a00725.html#a15e95edb3a432c2276b12e06ee1d25f5", null ],
     [ "GO_TELE_TO_DALARAN_CRYSTAL_FAILED", "d8/db9/a00725.html#a251537f34eed1ef24db9d554dd02f6fc", null ],
     [ "GOSSIP_BASHIR_CRYSTALFORGE_ITEM_1", "d8/db9/a00725.html#ab3bd73bdd88e936930a8eb84b4b95a62", null ],
@@ -178,11 +177,6 @@ var a00725 =
     ] ],
     [ "MidsummerMusicEvents", "d8/db9/a00725.html#adc61da6c657a244735b14c8dea5f8b22", [
       [ "EVENT_MM_START_MUSIC", "d8/db9/a00725.html#adc61da6c657a244735b14c8dea5f8b22a48b8c7eb34fb1be4c3ce19bf76d46bcc", null ]
-    ] ],
-    [ "MissingFriends", "d8/db9/a00725.html#adfd97b04315971acc0c9d330812c4548", [
-      [ "QUEST_MISSING_FRIENDS", "d8/db9/a00725.html#adfd97b04315971acc0c9d330812c4548ac5848524316682d4842a48191971de33", null ],
-      [ "NPC_CAPTIVE_CHILD", "d8/db9/a00725.html#adfd97b04315971acc0c9d330812c4548a577a6598330417dc1d106fea0bbd214f", null ],
-      [ "SAY_FREE_0", "d8/db9/a00725.html#adfd97b04315971acc0c9d330812c4548a5a1dd659f4a6438f260cddfc7a9faaf4", null ]
     ] ],
     [ "PirateDayMusic", "d8/db9/a00725.html#a389c53b4909666608f9054330b601fd1", [
       [ "MUSIC_PIRATE_DAY_MUSIC", "d8/db9/a00725.html#a389c53b4909666608f9054330b601fd1a02835584af75215c801e4bf424b70557", null ]

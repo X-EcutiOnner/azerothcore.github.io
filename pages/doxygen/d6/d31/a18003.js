@@ -1,7 +1,6 @@
 var a18003 =
 [
-    [ "HandleProc", "d6/d31/a18003.html#a235f04bd360ba7219aa2e1bc1a249047", null ],
-    [ "PrepareAuraScript", "d6/d31/a18003.html#a7cfa73ed3280d518baee1b0fa6bb4e76", null ],
-    [ "Register", "d6/d31/a18003.html#acc0881cf7379525a0841426867d2d850", null ],
-    [ "Validate", "d6/d31/a18003.html#a9be1b3b57bd2ee5995ad101369dac17c", null ]
+    [ "boss_festergutAI", "dc/d9f/a18007.html", "dc/d9f/a18007" ],
+    [ "boss_festergut", "d6/d31/a18003.html#a07ac6be688118cc57e6fdc1d8e961953", null ],
+    [ "GetAI", "d6/d31/a18003.html#ab2624e1908bb376f1b195a88e4b9b146", null ]
 ];

@@ -1,6 +1,6 @@
 var a21991 =
 [
-    [ "GhoulTargetCheck", "d6/d6c/a21991.html#acd743b2b1407c5171fbf410a02ff07bf", null ],
-    [ "operator()", "d6/d6c/a21991.html#a6722cfe5a1ceecccf2c07924b2975f46", null ],
-    [ "_alive", "d6/d6c/a21991.html#ab44092ca1cd6d7c17d7c63e0a8333453", null ]
+    [ "npc_q24545_vegard_dummyAI", "d4/dc1/a21995.html", "d4/dc1/a21995" ],
+    [ "npc_q24545_vegard_dummy", "d6/d6c/a21991.html#a12363e26a720ae33b6cde0f44aec3adf", null ],
+    [ "GetAI", "d6/d6c/a21991.html#a201d1dec206887c26e33f795a0fd0887", null ]
 ];

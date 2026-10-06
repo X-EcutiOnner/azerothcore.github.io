@@ -1,5 +1,6 @@
 var a17327 =
 [
-    [ "achievement_consumption_junction", "dd/d95/a17327.html#aab08732c13f41e0e8d27e9f482bd7351", null ],
-    [ "OnCheck", "dd/d95/a17327.html#a14dae1bf9d4d7c79f11de40b372f353e", null ]
+    [ "instance_drak_tharon_keep", "dd/d95/a17327.html#ac3aca003330592eae06a1d843c0ae9ce", null ],
+    [ "OnGameObjectCreate", "dd/d95/a17327.html#acf6da22dd55ac945360a6c40d2b55ccf", null ],
+    [ "OnGameObjectRemove", "dd/d95/a17327.html#a0acbb86696d31eb2ef4bdd868ca03351", null ]
 ];

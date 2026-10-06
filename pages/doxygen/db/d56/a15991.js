@@ -1,10 +1,7 @@
 var a15991 =
 [
-    [ "npc_murkdeepAI", "db/d56/a15991.html#abe78235ecb94e4735a6f8eaad7fe6adc", null ],
-    [ "JustEngagedWith", "db/d56/a15991.html#ad33de7cb0caffcd255db38204ecfbb1c", null ],
-    [ "Reset", "db/d56/a15991.html#aa89316a0fe4f99630a4a129aed305e24", null ],
-    [ "UpdateAI", "db/d56/a15991.html#aeca85a1324791d18ac825401fb8a31e8", null ],
-    [ "events", "db/d56/a15991.html#ae3d344829aeba22ef0c5947863720390", null ],
-    [ "phase", "db/d56/a15991.html#a74a3a16cb3f2993aea9c5d6736a6914e", null ],
-    [ "spawnTimer", "db/d56/a15991.html#a6b139fb5cc0776103934f14be15c34d1", null ]
+    [ "npc_kerlonianAI", "df/d91/a15995.html", "df/d91/a15995" ],
+    [ "npc_kerlonian", "db/d56/a15991.html#a8a5ab1fde9f21ac256d5168ef3f17f87", null ],
+    [ "GetAI", "db/d56/a15991.html#a93d93ba13d8521fee39801473b7c4b6a", null ],
+    [ "OnQuestAccept", "db/d56/a15991.html#a353f482c843066031397b1bfaf193b5f", null ]
 ];

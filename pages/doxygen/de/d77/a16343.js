@@ -1,6 +1,6 @@
 var a16343 =
 [
-    [ "creatureID", "de/d77/a16343.html#a44a9f5e58bfa58e2e2325e116e988f07", null ],
-    [ "pos", "de/d77/a16343.html#a9705a858cc2c3867e104514d3a0a1866", null ],
-    [ "waveID", "de/d77/a16343.html#a09b48f7f6da7e203ed50a8abc7f24e56", null ]
+    [ "instance_zulfarrak_InstanceMapScript", "de/d2e/a16347.html", "de/d2e/a16347" ],
+    [ "instance_zulfarrak", "de/d77/a16343.html#a7c8594fe278dc9f6c3ab6f291cf9bad2", null ],
+    [ "GetInstanceScript", "de/d77/a16343.html#a5f092341e49848c9d321452be2193d56", null ]
 ];

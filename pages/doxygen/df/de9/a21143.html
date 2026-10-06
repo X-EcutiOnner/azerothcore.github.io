@@ -526,16 +526,16 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2300</span>                                             : <a class="code hl_class" href="../../d5/d4e/a06559.html">NullCreatureAI</a>(creature)</div>
-<div class="line"><span class="lineno"> 2301</span>    {</div>
-<div class="line"><span class="lineno"> 2302</span>        <a class="code hl_variable" href="../../df/de9/a21143.html#a52bf7b9b560f600b5b3647fefb3830bf">_targets</a>.clear();</div>
-<div class="line"><span class="lineno"> 2303</span>        <a class="code hl_variable" href="../../df/de9/a21143.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b">_current</a> = 0;</div>
-<div class="line"><span class="lineno"> 2304</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2299</span>                                             : <a class="code hl_class" href="../../d5/d4e/a06559.html">NullCreatureAI</a>(creature)</div>
+<div class="line"><span class="lineno"> 2300</span>    {</div>
+<div class="line"><span class="lineno"> 2301</span>        <a class="code hl_variable" href="../../df/de9/a21143.html#a52bf7b9b560f600b5b3647fefb3830bf">_targets</a>.clear();</div>
+<div class="line"><span class="lineno"> 2302</span>        <a class="code hl_variable" href="../../df/de9/a21143.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b">_current</a> = 0;</div>
+<div class="line"><span class="lineno"> 2303</span>    }</div>
 <div class="ttc" id="aa06559_html"><div class="ttname"><a href="../../d5/d4e/a06559.html">NullCreatureAI</a></div><div class="ttdef"><b>Definition:</b> PassiveAI.h:56</div></div>
-<div class="ttc" id="aa21143_html_a2c4eccdfa3eeb4ac7851e43bbd75b55b"><div class="ttname"><a href="../../df/de9/a21143.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b">boss_yoggsaron_voice::_current</a></div><div class="ttdeci">uint32 _current</div><div class="ttdef"><b>Definition:</b> boss_yoggsaron.cpp:2308</div></div>
-<div class="ttc" id="aa21143_html_a52bf7b9b560f600b5b3647fefb3830bf"><div class="ttname"><a href="../../df/de9/a21143.html#a52bf7b9b560f600b5b3647fefb3830bf">boss_yoggsaron_voice::_targets</a></div><div class="ttdeci">GuidVector _targets</div><div class="ttdef"><b>Definition:</b> boss_yoggsaron.cpp:2307</div></div>
+<div class="ttc" id="aa21143_html_a2c4eccdfa3eeb4ac7851e43bbd75b55b"><div class="ttname"><a href="../../df/de9/a21143.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b">boss_yoggsaron_voice::_current</a></div><div class="ttdeci">uint32 _current</div><div class="ttdef"><b>Definition:</b> boss_yoggsaron.cpp:2307</div></div>
+<div class="ttc" id="aa21143_html_a52bf7b9b560f600b5b3647fefb3830bf"><div class="ttname"><a href="../../df/de9/a21143.html#a52bf7b9b560f600b5b3647fefb3830bf">boss_yoggsaron_voice::_targets</a></div><div class="ttdeci">GuidVector _targets</div><div class="ttdef"><b>Definition:</b> boss_yoggsaron.cpp:2306</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02308">_current</a>, and <a class="el" href="../../#l02307">_targets</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02307">_current</a>, and <a class="el" href="../../#l02306">_targets</a>.</p>
 
 </div>
 </div>
@@ -565,23 +565,23 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../de/dc7/a06607.html#a165d336cb3423f9665ed612d2dec76ed">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2319</span>    {</div>
-<div class="line"><span class="lineno"> 2320</span>        <span class="keywordflow">if</span> (param == <a class="code hl_enumvalue" href="../../df/dd5/a01115.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a32190383982551555998c9c8fbeb0a75">ACTION_VOICE_START</a>)</div>
-<div class="line"><span class="lineno"> 2321</span>        {</div>
-<div class="line"><span class="lineno"> 2322</span>            <a class="code hl_function" href="../../de/dc7/a06607.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../df/dd5/a01115.html#a1b30ee7b66756f07902ec6940e772f08ac804f14f7f4b6ae732092ce11a1aef6a">SPELL_INSANE_PERIODIC</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno"> 2323</span>            <a class="code hl_function" href="../../de/dc7/a06607.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../df/dd5/a01115.html#a1b30ee7b66756f07902ec6940e772f08adc9cb2c8f2160717ec646336e9286b53">SPELL_SANITY_BASE</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno"> 2324</span>        }</div>
-<div class="line"><span class="lineno"> 2325</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (param == <a class="code hl_enumvalue" href="../../df/dd5/a01115.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6469a42b600da5917faadb514176fda7">ACTION_VOICE_STOP</a>)</div>
-<div class="line"><span class="lineno"> 2326</span>            <a class="code hl_function" href="../../df/de9/a21143.html#a05a59e5c1e05f40fed219a2927e8006d">Reset</a>();</div>
-<div class="line"><span class="lineno"> 2327</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2318</span>    {</div>
+<div class="line"><span class="lineno"> 2319</span>        <span class="keywordflow">if</span> (param == <a class="code hl_enumvalue" href="../../df/dd5/a01115.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a32190383982551555998c9c8fbeb0a75">ACTION_VOICE_START</a>)</div>
+<div class="line"><span class="lineno"> 2320</span>        {</div>
+<div class="line"><span class="lineno"> 2321</span>            <a class="code hl_function" href="../../de/dc7/a06607.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../df/dd5/a01115.html#a1b30ee7b66756f07902ec6940e772f08ac804f14f7f4b6ae732092ce11a1aef6a">SPELL_INSANE_PERIODIC</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno"> 2322</span>            <a class="code hl_function" href="../../de/dc7/a06607.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../df/dd5/a01115.html#a1b30ee7b66756f07902ec6940e772f08adc9cb2c8f2160717ec646336e9286b53">SPELL_SANITY_BASE</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno"> 2323</span>        }</div>
+<div class="line"><span class="lineno"> 2324</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (param == <a class="code hl_enumvalue" href="../../df/dd5/a01115.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6469a42b600da5917faadb514176fda7">ACTION_VOICE_STOP</a>)</div>
+<div class="line"><span class="lineno"> 2325</span>            <a class="code hl_function" href="../../df/de9/a21143.html#a05a59e5c1e05f40fed219a2927e8006d">Reset</a>();</div>
+<div class="line"><span class="lineno"> 2326</span>    }</div>
 <div class="ttc" id="aa01115_html_a1b30ee7b66756f07902ec6940e772f08ac804f14f7f4b6ae732092ce11a1aef6a"><div class="ttname"><a href="../../df/dd5/a01115.html#a1b30ee7b66756f07902ec6940e772f08ac804f14f7f4b6ae732092ce11a1aef6a">SPELL_INSANE_PERIODIC</a></div><div class="ttdeci">@ SPELL_INSANE_PERIODIC</div><div class="ttdef"><b>Definition:</b> boss_yoggsaron.cpp:62</div></div>
 <div class="ttc" id="aa01115_html_a1b30ee7b66756f07902ec6940e772f08adc9cb2c8f2160717ec646336e9286b53"><div class="ttname"><a href="../../df/dd5/a01115.html#a1b30ee7b66756f07902ec6940e772f08adc9cb2c8f2160717ec646336e9286b53">SPELL_SANITY_BASE</a></div><div class="ttdeci">@ SPELL_SANITY_BASE</div><div class="ttdef"><b>Definition:</b> boss_yoggsaron.cpp:55</div></div>
 <div class="ttc" id="aa01115_html_a3329d9d369a4ae5cfa5d8eac33a0c0c6a32190383982551555998c9c8fbeb0a75"><div class="ttname"><a href="../../df/dd5/a01115.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a32190383982551555998c9c8fbeb0a75">ACTION_VOICE_START</a></div><div class="ttdeci">@ ACTION_VOICE_START</div><div class="ttdef"><b>Definition:</b> boss_yoggsaron.cpp:254</div></div>
 <div class="ttc" id="aa01115_html_a3329d9d369a4ae5cfa5d8eac33a0c0c6a6469a42b600da5917faadb514176fda7"><div class="ttname"><a href="../../df/dd5/a01115.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6469a42b600da5917faadb514176fda7">ACTION_VOICE_STOP</a></div><div class="ttdeci">@ ACTION_VOICE_STOP</div><div class="ttdef"><b>Definition:</b> boss_yoggsaron.cpp:253</div></div>
 <div class="ttc" id="aa06607_html_a6ae5c7d15b747433f4d94f80bcebd215"><div class="ttname"><a href="../../de/dc7/a06607.html#a6ae5c7d15b747433f4d94f80bcebd215">UnitAI::DoCastSelf</a></div><div class="ttdeci">SpellCastResult DoCastSelf(uint32 spellId, bool triggered=false)</div><div class="ttdef"><b>Definition:</b> UnitAI.h:399</div></div>
-<div class="ttc" id="aa21143_html_a05a59e5c1e05f40fed219a2927e8006d"><div class="ttname"><a href="../../df/de9/a21143.html#a05a59e5c1e05f40fed219a2927e8006d">boss_yoggsaron_voice::Reset</a></div><div class="ttdeci">void Reset() override</div><div class="ttdef"><b>Definition:</b> boss_yoggsaron.cpp:2310</div></div>
+<div class="ttc" id="aa21143_html_a05a59e5c1e05f40fed219a2927e8006d"><div class="ttname"><a href="../../df/de9/a21143.html#a05a59e5c1e05f40fed219a2927e8006d">boss_yoggsaron_voice::Reset</a></div><div class="ttdeci">void Reset() override</div><div class="ttdef"><b>Definition:</b> boss_yoggsaron.cpp:2309</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00254">ACTION_VOICE_START</a>, <a class="el" href="../../#l00253">ACTION_VOICE_STOP</a>, <a class="el" href="../../#l00399">UnitAI::DoCastSelf()</a>, <a class="el" href="../../#l02310">Reset()</a>, <a class="el" href="../../#l00062">SPELL_INSANE_PERIODIC</a>, and <a class="el" href="../../#l00055">SPELL_SANITY_BASE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00254">ACTION_VOICE_START</a>, <a class="el" href="../../#l00253">ACTION_VOICE_STOP</a>, <a class="el" href="../../#l00399">UnitAI::DoCastSelf()</a>, <a class="el" href="../../#l02309">Reset()</a>, <a class="el" href="../../#l00062">SPELL_INSANE_PERIODIC</a>, and <a class="el" href="../../#l00055">SPELL_SANITY_BASE</a>.</p>
 
 </div>
 </div>
@@ -609,19 +609,19 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../de/dc7/a06607.html#a43eb9ef68b977d98f6618d69a0d62115">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2311</span>    {</div>
-<div class="line"><span class="lineno"> 2312</span>        <a class="code hl_enumeration" href="../../db/d26/a02129.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.Reset();</div>
-<div class="line"><span class="lineno"> 2313</span>        <a class="code hl_variable" href="../../df/de9/a21143.html#a52bf7b9b560f600b5b3647fefb3830bf">_targets</a>.clear();</div>
-<div class="line"><span class="lineno"> 2314</span>        <a class="code hl_variable" href="../../df/de9/a21143.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b">_current</a> = 0;</div>
-<div class="line"><span class="lineno"> 2315</span>        <a class="code hl_variable" href="../../dc/d4f/a06619.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#aca967faa985dbe4062dd23360cdb607c">RemoveAllAuras</a>();</div>
-<div class="line"><span class="lineno"> 2316</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2310</span>    {</div>
+<div class="line"><span class="lineno"> 2311</span>        <a class="code hl_enumeration" href="../../db/d26/a02129.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.Reset();</div>
+<div class="line"><span class="lineno"> 2312</span>        <a class="code hl_variable" href="../../df/de9/a21143.html#a52bf7b9b560f600b5b3647fefb3830bf">_targets</a>.clear();</div>
+<div class="line"><span class="lineno"> 2313</span>        <a class="code hl_variable" href="../../df/de9/a21143.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b">_current</a> = 0;</div>
+<div class="line"><span class="lineno"> 2314</span>        <a class="code hl_variable" href="../../dc/d4f/a06619.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#aca967faa985dbe4062dd23360cdb607c">RemoveAllAuras</a>();</div>
+<div class="line"><span class="lineno"> 2315</span>    }</div>
 <div class="ttc" id="aa02129_html_ad29858f6d8ab73f2970f41cb21a76b84"><div class="ttname"><a href="../../db/d26/a02129.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a></div><div class="ttdeci">events</div><div class="ttdef"><b>Definition:</b> boss_sartura.cpp:43</div></div>
 <div class="ttc" id="aa06619_html_aee5bf3d421199445de241a34798ae819"><div class="ttname"><a href="../../dc/d4f/a06619.html#aee5bf3d421199445de241a34798ae819">CreatureAI::me</a></div><div class="ttdeci">Creature *const me</div><div class="ttdef"><b>Definition:</b> CreatureAI.h:71</div></div>
 <div class="ttc" id="aa09227_html_aca967faa985dbe4062dd23360cdb607c"><div class="ttname"><a href="../../d9/d33/a09227.html#aca967faa985dbe4062dd23360cdb607c">Unit::RemoveAllAuras</a></div><div class="ttdeci">void RemoveAllAuras()</div><div class="ttdef"><b>Definition:</b> Unit.cpp:5359</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02308">_current</a>, <a class="el" href="../../#l02307">_targets</a>, <a class="el" href="../../#l00071">CreatureAI::me</a>, and <a class="el" href="../../#l05359">Unit::RemoveAllAuras()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02307">_current</a>, <a class="el" href="../../#l02306">_targets</a>, <a class="el" href="../../#l00071">CreatureAI::me</a>, and <a class="el" href="../../#l05359">Unit::RemoveAllAuras()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02318">DoAction()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02317">DoAction()</a>.</p>
 
 </div>
 </div>
@@ -660,18 +660,18 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dc/d4f/a06619.html#a1e545b8b2c9f8538d8663ef06c2c1030">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2330</span>    {</div>
-<div class="line"><span class="lineno"> 2331</span>        <span class="keywordflow">if</span> (spellInfo-&gt;Id == <a class="code hl_enumvalue" href="../../df/dd5/a01115.html#a1b30ee7b66756f07902ec6940e772f08a99dafe011587776469921116368d804e">SPELL_INSANE1</a>)</div>
-<div class="line"><span class="lineno"> 2332</span>        {</div>
-<div class="line"><span class="lineno"> 2333</span>            <span class="comment">// Drive Me Crazy achievement failed</span></div>
-<div class="line"><span class="lineno"> 2334</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dc/d4f/a06619.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d4/d08/a08883.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>())</div>
-<div class="line"><span class="lineno"> 2335</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d5/d6c/a08471.html">Creature</a>* yogg = <a class="code hl_variable" href="../../dc/d4f/a06619.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d4/d08/a08883.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>()-&gt;<a class="code hl_function" href="../../da/d3a/a10159.html#a1541c403bcc65b54c0a2c523c8eaf0b1">GetCreature</a>(<a class="code hl_enumvalue" href="../../d9/d5b/a01127.html#a578eceaac26622326c101b3ef711d392a4ca6733d8e65ec5a0a9e170c5924ebc9">BOSS_YOGGSARON</a>))</div>
-<div class="line"><span class="lineno"> 2336</span>                    yogg-&gt;AI()-&gt;DoAction(<a class="code hl_enumvalue" href="../../df/dd5/a01115.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae9f312480bca7d31c1fcf94fbbeb0973">ACTION_FAILED_DRIVE_ME_CRAZY</a>);</div>
-<div class="line"><span class="lineno"> 2337</span> </div>
-<div class="line"><span class="lineno"> 2338</span>            <a class="code hl_enumeration" href="../../db/d26/a02129.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.ScheduleEvent(40, 2s);</div>
-<div class="line"><span class="lineno"> 2339</span>            <a class="code hl_variable" href="../../df/de9/a21143.html#a52bf7b9b560f600b5b3647fefb3830bf">_targets</a>.push_back(target-&gt;<a class="code hl_function" href="../../d9/d6f/a08847.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
-<div class="line"><span class="lineno"> 2340</span>        }</div>
-<div class="line"><span class="lineno"> 2341</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2329</span>    {</div>
+<div class="line"><span class="lineno"> 2330</span>        <span class="keywordflow">if</span> (spellInfo-&gt;Id == <a class="code hl_enumvalue" href="../../df/dd5/a01115.html#a1b30ee7b66756f07902ec6940e772f08a99dafe011587776469921116368d804e">SPELL_INSANE1</a>)</div>
+<div class="line"><span class="lineno"> 2331</span>        {</div>
+<div class="line"><span class="lineno"> 2332</span>            <span class="comment">// Drive Me Crazy achievement failed</span></div>
+<div class="line"><span class="lineno"> 2333</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dc/d4f/a06619.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d4/d08/a08883.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>())</div>
+<div class="line"><span class="lineno"> 2334</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d5/d6c/a08471.html">Creature</a>* yogg = <a class="code hl_variable" href="../../dc/d4f/a06619.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d4/d08/a08883.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>()-&gt;<a class="code hl_function" href="../../da/d3a/a10159.html#a1541c403bcc65b54c0a2c523c8eaf0b1">GetCreature</a>(<a class="code hl_enumvalue" href="../../d9/d5b/a01127.html#a578eceaac26622326c101b3ef711d392a4ca6733d8e65ec5a0a9e170c5924ebc9">BOSS_YOGGSARON</a>))</div>
+<div class="line"><span class="lineno"> 2335</span>                    yogg-&gt;AI()-&gt;DoAction(<a class="code hl_enumvalue" href="../../df/dd5/a01115.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae9f312480bca7d31c1fcf94fbbeb0973">ACTION_FAILED_DRIVE_ME_CRAZY</a>);</div>
+<div class="line"><span class="lineno"> 2336</span> </div>
+<div class="line"><span class="lineno"> 2337</span>            <a class="code hl_enumeration" href="../../db/d26/a02129.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.ScheduleEvent(40, 2s);</div>
+<div class="line"><span class="lineno"> 2338</span>            <a class="code hl_variable" href="../../df/de9/a21143.html#a52bf7b9b560f600b5b3647fefb3830bf">_targets</a>.push_back(target-&gt;<a class="code hl_function" href="../../d9/d6f/a08847.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
+<div class="line"><span class="lineno"> 2339</span>        }</div>
+<div class="line"><span class="lineno"> 2340</span>    }</div>
 <div class="ttc" id="aa01115_html_a1b30ee7b66756f07902ec6940e772f08a99dafe011587776469921116368d804e"><div class="ttname"><a href="../../df/dd5/a01115.html#a1b30ee7b66756f07902ec6940e772f08a99dafe011587776469921116368d804e">SPELL_INSANE1</a></div><div class="ttdeci">@ SPELL_INSANE1</div><div class="ttdef"><b>Definition:</b> boss_yoggsaron.cpp:60</div></div>
 <div class="ttc" id="aa01115_html_a3329d9d369a4ae5cfa5d8eac33a0c0c6ae9f312480bca7d31c1fcf94fbbeb0973"><div class="ttname"><a href="../../df/dd5/a01115.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae9f312480bca7d31c1fcf94fbbeb0973">ACTION_FAILED_DRIVE_ME_CRAZY</a></div><div class="ttdeci">@ ACTION_FAILED_DRIVE_ME_CRAZY</div><div class="ttdef"><b>Definition:</b> boss_yoggsaron.cpp:269</div></div>
 <div class="ttc" id="aa01127_html_a578eceaac26622326c101b3ef711d392a4ca6733d8e65ec5a0a9e170c5924ebc9"><div class="ttname"><a href="../../d9/d5b/a01127.html#a578eceaac26622326c101b3ef711d392a4ca6733d8e65ec5a0a9e170c5924ebc9">BOSS_YOGGSARON</a></div><div class="ttdeci">@ BOSS_YOGGSARON</div><div class="ttdef"><b>Definition:</b> ulduar.h:43</div></div>
@@ -680,7 +680,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa08883_html_a29762f86d0726e4d229df51281b9d710"><div class="ttname"><a href="../../d4/d08/a08883.html#a29762f86d0726e4d229df51281b9d710">WorldObject::GetInstanceScript</a></div><div class="ttdeci">InstanceScript * GetInstanceScript() const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1247</div></div>
 <div class="ttc" id="aa10159_html_a1541c403bcc65b54c0a2c523c8eaf0b1"><div class="ttname"><a href="../../da/d3a/a10159.html#a1541c403bcc65b54c0a2c523c8eaf0b1">InstanceScript::GetCreature</a></div><div class="ttdeci">Creature * GetCreature(uint32 type)</div><div class="ttdef"><b>Definition:</b> InstanceScript.cpp:126</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02307">_targets</a>, <a class="el" href="../../#l00269">ACTION_FAILED_DRIVE_ME_CRAZY</a>, <a class="el" href="../../#l00043">BOSS_YOGGSARON</a>, <a class="el" href="../../#l00126">InstanceScript::GetCreature()</a>, <a class="el" href="../../#l00120">Object::GetGUID()</a>, <a class="el" href="../../#l01247">WorldObject::GetInstanceScript()</a>, <a class="el" href="../../#l00344">SpellInfo::Id</a>, <a class="el" href="../../#l00071">CreatureAI::me</a>, and <a class="el" href="../../#l00060">SPELL_INSANE1</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02306">_targets</a>, <a class="el" href="../../#l00269">ACTION_FAILED_DRIVE_ME_CRAZY</a>, <a class="el" href="../../#l00043">BOSS_YOGGSARON</a>, <a class="el" href="../../#l00126">InstanceScript::GetCreature()</a>, <a class="el" href="../../#l00120">Object::GetGUID()</a>, <a class="el" href="../../#l01247">WorldObject::GetInstanceScript()</a>, <a class="el" href="../../#l00344">SpellInfo::Id</a>, <a class="el" href="../../#l00071">CreatureAI::me</a>, and <a class="el" href="../../#l00060">SPELL_INSANE1</a>.</p>
 
 </div>
 </div>
@@ -711,30 +711,30 @@ Additional Inherited Members</h2></td></tr>
 <p>Use to start attacking a target. Called just before <a class="el" href="../../dc/d4f/a06619.html#a15f691c9137273cd5c3d5ba6f0762300" title="Called for reaction when initially engaged - this happens after JustEnteredCombat.">JustEngagedWith()</a> </p>
 
 <p>Reimplemented from <a class="el" href="../../d5/d4e/a06559.html#ab200fcf78dee74a2ec808c01f5855236">NullCreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2344</span>    {</div>
-<div class="line"><span class="lineno"> 2345</span>        <a class="code hl_enumeration" href="../../db/d26/a02129.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.Update(diff);</div>
-<div class="line"><span class="lineno"> 2346</span>        <span class="keywordflow">switch</span> (<a class="code hl_enumeration" href="../../db/d26/a02129.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.ExecuteEvent())</div>
-<div class="line"><span class="lineno"> 2347</span>        {</div>
-<div class="line"><span class="lineno"> 2348</span>            <span class="keywordflow">case</span> 40:</div>
-<div class="line"><span class="lineno"> 2349</span>                {</div>
-<div class="line"><span class="lineno"> 2350</span>                    <a class="code hl_class" href="../../de/d05/a08899.html">ObjectGuid</a> _guid = <a class="code hl_variable" href="../../df/de9/a21143.html#a52bf7b9b560f600b5b3647fefb3830bf">_targets</a>.at(<a class="code hl_variable" href="../../df/de9/a21143.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b">_current</a>);</div>
-<div class="line"><span class="lineno"> 2351</span>                    ++<a class="code hl_variable" href="../../df/de9/a21143.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b">_current</a>;</div>
-<div class="line"><span class="lineno"> 2352</span> </div>
-<div class="line"><span class="lineno"> 2353</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d4/df4/a09099.html">Player</a>* player = <a class="code hl_function" href="../../dc/d07/a05175.html#a86236181ddfead8560067378e385f244">ObjectAccessor::GetPlayer</a>(*<a class="code hl_variable" href="../../dc/d4f/a06619.html#aee5bf3d421199445de241a34798ae819">me</a>, _guid))</div>
-<div class="line"><span class="lineno"> 2354</span>                    {</div>
-<div class="line"><span class="lineno"> 2355</span>                        <a class="code hl_enumeration" href="../../da/d2d/a02018.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../df/dd5/a01115.html#aa80bce1d0ea05213c0d6c327126caf31a17a9a825ef3bd972a68be6c424510ce0">WHISPER_VOICE_INSANE</a>, player);</div>
-<div class="line"><span class="lineno"> 2356</span>                    }</div>
-<div class="line"><span class="lineno"> 2357</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 2358</span>                }</div>
-<div class="line"><span class="lineno"> 2359</span>        }</div>
-<div class="line"><span class="lineno"> 2360</span>    }</div>
-<div class="ttc" id="aa01115_html_aa80bce1d0ea05213c0d6c327126caf31a17a9a825ef3bd972a68be6c424510ce0"><div class="ttname"><a href="../../df/dd5/a01115.html#aa80bce1d0ea05213c0d6c327126caf31a17a9a825ef3bd972a68be6c424510ce0">WHISPER_VOICE_INSANE</a></div><div class="ttdeci">@ WHISPER_VOICE_INSANE</div><div class="ttdef"><b>Definition:</b> boss_yoggsaron.cpp:346</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 2343</span>    {</div>
+<div class="line"><span class="lineno"> 2344</span>        <a class="code hl_enumeration" href="../../db/d26/a02129.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.Update(diff);</div>
+<div class="line"><span class="lineno"> 2345</span>        <span class="keywordflow">switch</span> (<a class="code hl_enumeration" href="../../db/d26/a02129.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.ExecuteEvent())</div>
+<div class="line"><span class="lineno"> 2346</span>        {</div>
+<div class="line"><span class="lineno"> 2347</span>            <span class="keywordflow">case</span> 40:</div>
+<div class="line"><span class="lineno"> 2348</span>                {</div>
+<div class="line"><span class="lineno"> 2349</span>                    <a class="code hl_class" href="../../de/d05/a08899.html">ObjectGuid</a> _guid = <a class="code hl_variable" href="../../df/de9/a21143.html#a52bf7b9b560f600b5b3647fefb3830bf">_targets</a>.at(<a class="code hl_variable" href="../../df/de9/a21143.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b">_current</a>);</div>
+<div class="line"><span class="lineno"> 2350</span>                    ++<a class="code hl_variable" href="../../df/de9/a21143.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b">_current</a>;</div>
+<div class="line"><span class="lineno"> 2351</span> </div>
+<div class="line"><span class="lineno"> 2352</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d4/df4/a09099.html">Player</a>* player = <a class="code hl_function" href="../../dc/d07/a05175.html#a86236181ddfead8560067378e385f244">ObjectAccessor::GetPlayer</a>(*<a class="code hl_variable" href="../../dc/d4f/a06619.html#aee5bf3d421199445de241a34798ae819">me</a>, _guid))</div>
+<div class="line"><span class="lineno"> 2353</span>                    {</div>
+<div class="line"><span class="lineno"> 2354</span>                        <a class="code hl_enumeration" href="../../da/d2d/a02018.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../df/dd5/a01115.html#aa80bce1d0ea05213c0d6c327126caf31a17a9a825ef3bd972a68be6c424510ce0">WHISPER_VOICE_INSANE</a>, player);</div>
+<div class="line"><span class="lineno"> 2355</span>                    }</div>
+<div class="line"><span class="lineno"> 2356</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 2357</span>                }</div>
+<div class="line"><span class="lineno"> 2358</span>        }</div>
+<div class="line"><span class="lineno"> 2359</span>    }</div>
+<div class="ttc" id="aa01115_html_aa80bce1d0ea05213c0d6c327126caf31a17a9a825ef3bd972a68be6c424510ce0"><div class="ttname"><a href="../../df/dd5/a01115.html#aa80bce1d0ea05213c0d6c327126caf31a17a9a825ef3bd972a68be6c424510ce0">WHISPER_VOICE_INSANE</a></div><div class="ttdeci">@ WHISPER_VOICE_INSANE</div><div class="ttdef"><b>Definition:</b> boss_yoggsaron.cpp:348</div></div>
 <div class="ttc" id="aa02018_html_a747a224b6b3195f9a33c56ddc6c7e268"><div class="ttname"><a href="../../da/d2d/a02018.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a></div><div class="ttdeci">Talk</div><div class="ttdef"><b>Definition:</b> hyjal.cpp:82</div></div>
 <div class="ttc" id="aa05175_html_a86236181ddfead8560067378e385f244"><div class="ttname"><a href="../../dc/d07/a05175.html#a86236181ddfead8560067378e385f244">ObjectAccessor::GetPlayer</a></div><div class="ttdeci">Player * GetPlayer(Map const *, ObjectGuid const &amp;guid)</div><div class="ttdef"><b>Definition:</b> ObjectAccessor.cpp:244</div></div>
 <div class="ttc" id="aa08899_html"><div class="ttname"><a href="../../de/d05/a08899.html">ObjectGuid</a></div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:121</div></div>
 <div class="ttc" id="aa09099_html"><div class="ttname"><a href="../../d4/df4/a09099.html">Player</a></div><div class="ttdef"><b>Definition:</b> Player.h:1086</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02308">_current</a>, <a class="el" href="../../#l02307">_targets</a>, <a class="el" href="../../#l00244">ObjectAccessor::GetPlayer()</a>, <a class="el" href="../../#l00071">CreatureAI::me</a>, and <a class="el" href="../../#l00346">WHISPER_VOICE_INSANE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02307">_current</a>, <a class="el" href="../../#l02306">_targets</a>, <a class="el" href="../../#l00244">ObjectAccessor::GetPlayer()</a>, <a class="el" href="../../#l00071">CreatureAI::me</a>, and <a class="el" href="../../#l00348">WHISPER_VOICE_INSANE</a>.</p>
 
 </div>
 </div>
@@ -751,7 +751,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02300">boss_yoggsaron_voice()</a>, <a class="el" href="../../#l02310">Reset()</a>, and <a class="el" href="../../#l02343">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02299">boss_yoggsaron_voice()</a>, <a class="el" href="../../#l02309">Reset()</a>, and <a class="el" href="../../#l02342">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -767,7 +767,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02300">boss_yoggsaron_voice()</a>, <a class="el" href="../../#l02310">Reset()</a>, <a class="el" href="../../#l02329">SpellHitTarget()</a>, and <a class="el" href="../../#l02343">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02299">boss_yoggsaron_voice()</a>, <a class="el" href="../../#l02309">Reset()</a>, <a class="el" href="../../#l02328">SpellHitTarget()</a>, and <a class="el" href="../../#l02342">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -791,7 +791,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../df/de9/a21143.html">boss_yoggsaron_voice</a></li>
-    <li class="footer">Generated on Tue Sep 29 2026 01:13:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Tue Oct 6 2026 01:26:24 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

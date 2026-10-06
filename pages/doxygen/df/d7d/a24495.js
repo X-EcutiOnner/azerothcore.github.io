@@ -1,13 +1,11 @@
 var a24495 =
 [
-    [ "npc_unkor_the_ruthlessAI", "df/d7d/a24495.html#a965b0f182570a54ee4c0a6a54ba8fafb", null ],
-    [ "DamageTaken", "df/d7d/a24495.html#a88b5e4b43171be8cc62d2a10f188e363", null ],
-    [ "HasQuestActive", "df/d7d/a24495.html#ad97ea6721dcea4058167ea327dc0c515", null ],
-    [ "JustEngagedWith", "df/d7d/a24495.html#a537225016bfeba51b607d250c0a09be5", null ],
-    [ "Reset", "df/d7d/a24495.html#a14ca75417c623d6d6e5fce50521963da", null ],
-    [ "Submit", "df/d7d/a24495.html#a26872858bfb4aeda1b4af445033995db", null ],
-    [ "UpdateAI", "df/d7d/a24495.html#a744ea41d7f9450965419085a296c8df2", null ],
-    [ "PulverizeTimer", "df/d7d/a24495.html#a43324c095d4f98b97b39b5eb86c4c783", null ],
-    [ "Submitted", "df/d7d/a24495.html#a47777bb2dd47764c9cb01dc3f3e25f39", null ],
-    [ "UnfriendlyTimer", "df/d7d/a24495.html#a21559a315c812b50b74fc22dc32a2930", null ]
+    [ "npc_isla_starmaneAI", "df/d7d/a24495.html#a0cb655d324ddde173dcfdee069c0f694", null ],
+    [ "JustDied", "df/d7d/a24495.html#ac7132ac84a64bccbcf8895cbc4a86f9c", null ],
+    [ "JustEngagedWith", "df/d7d/a24495.html#ab40287c6bfc67b09bf7336ea53116cab", null ],
+    [ "JustRespawned", "df/d7d/a24495.html#a69b395a9b9504737109870c5e8db74c8", null ],
+    [ "UpdateEscortAI", "df/d7d/a24495.html#af4b8c80e7443bb671be253238b124910", null ],
+    [ "WaypointReached", "df/d7d/a24495.html#a5d00583afa4e811e4f3cb8400787a990", null ],
+    [ "WaypointReached", "df/d7d/a24495.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "events", "df/d7d/a24495.html#a53cfabbe7cf85ceb19286d67bb23f2ec", null ]
 ];

@@ -1,6 +1,13 @@
 var a19667 =
 [
-    [ "boss_loathebAI", "de/d3a/a19671.html", "de/d3a/a19671" ],
-    [ "boss_loatheb", "d9/d49/a19667.html#a93bf8055a9ed900c880ef8b81b87bafd", null ],
-    [ "GetAI", "d9/d49/a19667.html#aca9b3a2515777f81b354c01a9727276e", null ]
+    [ "boss_loathebAI", "d9/d49/a19667.html#a60256114947b0e9c01f5308108485935", null ],
+    [ "IsInRoom", "d9/d49/a19667.html#a617d45ab3bde4184aa31c1b2c70c1a6f", null ],
+    [ "JustDied", "d9/d49/a19667.html#acf24e563d4876fb9f899a4250b19b6f5", null ],
+    [ "JustEngagedWith", "d9/d49/a19667.html#a1abcf157e05eeb634f8e857a2de35538", null ],
+    [ "JustSummoned", "d9/d49/a19667.html#a8a28f9fe6c087c230103d1139ddb73dc", null ],
+    [ "KilledUnit", "d9/d49/a19667.html#a4dac78bba24069050dd9df729dd58b45", null ],
+    [ "Reset", "d9/d49/a19667.html#a709a4c2fe45fd757ecae6afa402e4728", null ],
+    [ "SummonedCreatureDies", "d9/d49/a19667.html#aeddc6bd981a13ec133e5481b36668b0e", null ],
+    [ "UpdateAI", "d9/d49/a19667.html#ab009008f892493b822e5ea5491c58525", null ],
+    [ "doomCounter", "d9/d49/a19667.html#aed5c631ede2eea27451a74ae21221325", null ]
 ];

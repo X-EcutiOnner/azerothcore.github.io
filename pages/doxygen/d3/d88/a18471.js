@@ -1,7 +1,5 @@
 var a18471 =
 [
-    [ "HandleProc", "d3/d88/a18471.html#a6d63b76821dbbd025bec1e8d48c8e9c9", null ],
-    [ "PrepareAuraScript", "d3/d88/a18471.html#a5eace3a973165eb82ae95b8052bb9476", null ],
-    [ "Register", "d3/d88/a18471.html#aa5b01193a7b6e58935c261c80e6a0d9a", null ],
-    [ "Validate", "d3/d88/a18471.html#ad2a7488006b16840e02b450cc9150289", null ]
+    [ "RotfaceHeightCheck", "d3/d88/a18471.html#aabdeaee465989c339fc7a3f186e20498", null ],
+    [ "operator()", "d3/d88/a18471.html#a585743e0e76c64a5caa37acab46d04d5", null ]
 ];

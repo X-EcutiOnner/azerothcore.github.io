@@ -1,6 +1,7 @@
 var a27079 =
 [
-    [ "HandleDamage", "d1/d11/a27079.html#ae34b85a4830066e21069e5ab8373e5c4", null ],
-    [ "PrepareSpellScript", "d1/d11/a27079.html#a86fd53d1f9a2ecf22c4969e2f8506acf", null ],
-    [ "Register", "d1/d11/a27079.html#a1a679fb0be26228f5fcdb45da2b994ff", null ]
+    [ "HandleApplyEffect", "d1/d11/a27079.html#af95120b26a165196e0310956c245f36f", null ],
+    [ "HandleRemoveEffect", "d1/d11/a27079.html#a59e7d23c969b03aa75ef1da3bf42f6e9", null ],
+    [ "PrepareAuraScript", "d1/d11/a27079.html#ae19e002407db1466f0655db3d14fe0d7", null ],
+    [ "Register", "d1/d11/a27079.html#ae776a5e913fcf1553b7e2a00374a1ee6", null ]
 ];

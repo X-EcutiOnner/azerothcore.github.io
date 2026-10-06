@@ -1,6 +1,7 @@
 var a21947 =
 [
-    [ "npc_heated_battleAI", "d3/da7/a21947.html#a2b73957d7890549f4b02488c5527fcef", null ],
-    [ "DamageTaken", "d3/da7/a21947.html#a8422c157214195d7166ede35c9c05d19", null ],
-    [ "Reset", "d3/da7/a21947.html#a11a4f3270ff260e30da89017dad38433", null ]
+    [ "HandleApplyEffect", "d3/da7/a21947.html#aab7bd30368c51a6a209f6cad5a93ba79", null ],
+    [ "HandleRemoveEffect", "d3/da7/a21947.html#a243933fec9ccd650303ea5badbea725b", null ],
+    [ "PrepareAuraScript", "d3/da7/a21947.html#ac0e1fc0694dd51e245340d3658592447", null ],
+    [ "Register", "d3/da7/a21947.html#a0f6e6c6892d56a6fceb927f68c734bde", null ]
 ];

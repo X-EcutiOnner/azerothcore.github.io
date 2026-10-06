@@ -1,7 +1,5 @@
 var a22547 =
 [
-    [ "npc_wg_demolisher_engineer", "df/d6c/a22547.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
-    [ "canBuild", "df/d6c/a22547.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
-    [ "OnGossipHello", "df/d6c/a22547.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
-    [ "OnGossipSelect", "df/d6c/a22547.html#a3ecf69f45918bef0cb51023327ac9693", null ]
+    [ "npc_wg_spirit_guideAI", "df/d6c/a22547.html#a576d15b6acedb07bfe1555bdd0ee8f12", null ],
+    [ "UpdateAI", "df/d6c/a22547.html#a32b28e8fe74db742d170bd754d11f4d7", null ]
 ];

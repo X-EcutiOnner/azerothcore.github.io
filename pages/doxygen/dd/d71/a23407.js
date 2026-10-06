@@ -1,5 +1,6 @@
 var a23407 =
 [
-    [ "go_strange_pool", "dd/d71/a23407.html#aa44feb353ad1cb440e5b6707112af680", null ],
-    [ "OnGossipHello", "dd/d71/a23407.html#a5a2ee56e277b062e6b4757cb8b8b09a0", null ]
+    [ "FilterTargets", "dd/d71/a23407.html#af545460920658bc8ee0444f7c0d51970", null ],
+    [ "PrepareSpellScript", "dd/d71/a23407.html#a0bf365a43b99905fb7ae8152fe5b2687", null ],
+    [ "Register", "dd/d71/a23407.html#ac12cde698f5b0bbcdf433821772c7519", null ]
 ];

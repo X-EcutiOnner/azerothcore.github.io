@@ -1,7 +1,6 @@
 var a17891 =
 [
-    [ "PeriodicTick", "dc/d5c/a17891.html#af2419a9f9c8706e6b9a090e88f1b6f78", null ],
-    [ "PrepareAuraScript", "dc/d5c/a17891.html#ac1abcbe62887678adad0194fdf27825a", null ],
-    [ "Register", "dc/d5c/a17891.html#a9c92c88bf261f1da2143e7dee41a77ec", null ],
-    [ "Validate", "dc/d5c/a17891.html#ae7526fcf963fe4ea3ab2f1ec7292e8d8", null ]
+    [ "FilterTargets", "dc/d5c/a17891.html#a7abb4397b5fcf956bf31fa4dc9960ece", null ],
+    [ "PrepareSpellScript", "dc/d5c/a17891.html#a8e9d81b34e05506569f4b910c1958de3", null ],
+    [ "Register", "dc/d5c/a17891.html#aa80980c3f68abcb0fac7a41172f70012", null ]
 ];

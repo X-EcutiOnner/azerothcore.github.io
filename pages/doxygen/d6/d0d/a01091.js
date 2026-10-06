@@ -1,10 +1,10 @@
 var a01091 =
 [
-    [ "npc_fos_leader", "d6/dad/a17375.html", "d6/dad/a17375" ],
-    [ "npc_fos_leader::npc_fos_leaderAI", "de/d1e/a17379.html", "de/d1e/a17379" ],
-    [ "npc_fos_leader_second", "da/da9/a17383.html", "da/da9/a17383" ],
-    [ "npc_fos_leader_second::npc_fos_leader_secondAI", "d8/d87/a17387.html", "d8/d87/a17387" ],
-    [ "spell_shield_of_bones_aura", "d9/d1c/a17391.html", "d9/d1c/a17391" ],
+    [ "npc_fos_leader", "d3/dc3/a17371.html", "d3/dc3/a17371" ],
+    [ "npc_fos_leader::npc_fos_leaderAI", "d6/dad/a17375.html", "d6/dad/a17375" ],
+    [ "npc_fos_leader_second", "de/d1e/a17379.html", "de/d1e/a17379" ],
+    [ "npc_fos_leader_second::npc_fos_leader_secondAI", "da/da9/a17383.html", "da/da9/a17383" ],
+    [ "spell_shield_of_bones_aura", "d8/d87/a17387.html", "d8/d87/a17387" ],
     [ "FOS_Gossip", "d6/d0d/a01091.html#a4d8c041ae0ebd2a8691daa3f109d7a46", [
       [ "GOSSIP_JAINA_INTRO", "d6/d0d/a01091.html#a4d8c041ae0ebd2a8691daa3f109d7a46aeabc9e58ce71bf1458070b38b1032092", null ],
       [ "GOSSIP_SYLVANAS_INTRO", "d6/d0d/a01091.html#a4d8c041ae0ebd2a8691daa3f109d7a46a250d759ceebbfd339d2c609768d342e7", null ]
@@ -184,8 +184,7 @@ var a01091 =
       [ "SAY_SEND_GROUP", "d8/d7a/a01292.html#a34a1b224b8db54cacd01d75b910f04e3ac4696d8fcb3bb196c5efdb756c5533a5", null ],
       [ "EMOTE_SNOBOLLED", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3a8d41398e97a91de8de78bf8ac9e0b09b", null ],
       [ "EMOTE_ENRAGE", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3a81024d2fa77c20eddf3d080ee9947126", null ],
-      [ "EMOTE_SUBMERGE", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3a2de75a94c63b35b7198bd89cf36a943e", null ],
-      [ "EMOTE_EMERGE", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3ab6eecfa42f3bdac4bf4c6e235545a252", null ],
+      [ "WHISPER_PARALYTIC_TOXIN", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3a9f30cd12b1e4592413f87b56c75bfbbb", null ],
       [ "EMOTE_TRAMPLE_STARE", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3a55eeb707d5a1d02aeaba2a8df6f388e6", null ],
       [ "EMOTE_TRAMPLE_CRASH", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3afa538decb9ebb5608387548209c84cf6", null ],
       [ "EMOTE_TRAMPLE_FAIL", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3aac5c85f7acc8f9da718c8818106bb9ff", null ],

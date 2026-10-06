@@ -1,7 +1,6 @@
 var a22283 =
 [
-    [ "HandleDummy", "d2/de2/a22283.html#a85874062bceced2694fff725649df892", null ],
-    [ "PrepareSpellScript", "d2/de2/a22283.html#a47bae4bdc488480f91517465d8e1b784", null ],
-    [ "Register", "d2/de2/a22283.html#a7131340678ca685db98e2087661321a9", null ],
-    [ "Validate", "d2/de2/a22283.html#af1b74ceee10fc48a0b85d4a284103950", null ]
+    [ "npc_infra_green_bomber_genericAI", "db/db5/a22287.html", "db/db5/a22287" ],
+    [ "npc_infra_green_bomber_generic", "d2/de2/a22283.html#a39134a09376c35f15e99377cd28ac6ff", null ],
+    [ "GetAI", "d2/de2/a22283.html#ad21ce86a9c88f2ee77acb1d130fd4696", null ]
 ];

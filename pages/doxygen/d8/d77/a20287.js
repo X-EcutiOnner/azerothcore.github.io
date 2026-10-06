@@ -1,8 +1,8 @@
 var a20287 =
 [
-    [ "npc_auriaya_sanctum_sentry", "d8/d77/a20287.html#ae5ed159c476c8b4569de7e2730edf447", null ],
-    [ "JustDied", "d8/d77/a20287.html#a553aa98a00fd8999578d71911f231bb2", null ],
-    [ "JustEngagedWith", "d8/d77/a20287.html#a5475b653a9c1fa78f2fcab8abed00863", null ],
-    [ "Reset", "d8/d77/a20287.html#a540cb8f5c53c3648d49ec88efed8a43d", null ],
-    [ "UpdateAI", "d8/d77/a20287.html#a93ed6a0205a042ef1fc065fc6cfd94ee", null ]
+    [ "CatsTargetSelector", "d8/d77/a20287.html#a48068e5fb4d835303d1d0fbbc4a7e66e", null ],
+    [ "operator()", "d8/d77/a20287.html#a86e65be219bb8f1fdbebba21ba16884a", null ],
+    [ "_maxDist", "d8/d77/a20287.html#a569a1fc697a16c55ef0d087993461a01", null ],
+    [ "_me", "d8/d77/a20287.html#a510937836db06bf70f2bd3737efa4369", null ],
+    [ "_minDist", "d8/d77/a20287.html#a28f5ca413d51073294888cfc97c21b04", null ]
 ];

@@ -1,7 +1,6 @@
 var a23203 =
 [
-    [ "HandleOnHit", "d5/db0/a23203.html#a9f368396cef39ba3bd70480f11c44700", null ],
-    [ "PrepareSpellScript", "d5/db0/a23203.html#a3240b42a9122e61b57ea91486cb3c97b", null ],
-    [ "Register", "d5/db0/a23203.html#a99f80adcebdd9726a8df51f99d415651", null ],
-    [ "Validate", "d5/db0/a23203.html#a25e3078f0b2d71ea0e6802aae0a6c7a4", null ]
+    [ "HandleDummy", "d5/db0/a23203.html#a85cbe85873c5f04c8fb94ad52e94afda", null ],
+    [ "PrepareSpellScript", "d5/db0/a23203.html#ae483ea2ecc541f52f37456f6e9d4b380", null ],
+    [ "Register", "d5/db0/a23203.html#a972574075c86c32593982add71dc893f", null ]
 ];

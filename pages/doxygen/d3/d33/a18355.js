@@ -1,6 +1,6 @@
 var a18355 =
 [
-    [ "MalleableGooSelector", "d3/d33/a18355.html#a5adb1e89ab7d5733514a8fefc5de6a35", null ],
-    [ "operator()", "d3/d33/a18355.html#adf73957539fdcc604f849944473e0015", null ],
-    [ "me", "d3/d33/a18355.html#a6cd991b360895b4b3405f0cd9e63879f", null ]
+    [ "boss_professor_putricideAI", "d7/df4/a18359.html", "d7/df4/a18359" ],
+    [ "boss_professor_putricide", "d3/d33/a18355.html#a80776dad5c0205aa6a98752f43e85e32", null ],
+    [ "GetAI", "d3/d33/a18355.html#a7c84089d24bb0c77a5203884254e0925", null ]
 ];

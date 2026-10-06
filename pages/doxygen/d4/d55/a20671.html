@@ -129,8 +129,6 @@ Private Member Functions</h2></td></tr>
 <tr class="separator:ae88b8bd3e648030df48f6b80cedc4034"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:adc6e83abb52a21528c07a1d989818dcf"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d55/a20671.html#adc6e83abb52a21528c07a1d989818dcf">HandleEffectPeriodic</a> (<a class="el" href="../../de/d67/a11895.html">AuraEffect</a> const *)</td></tr>
 <tr class="separator:adc6e83abb52a21528c07a1d989818dcf"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad52977d3bfeca6d2a7127d91eb3d30ab"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d55/a20671.html#ad52977d3bfeca6d2a7127d91eb3d30ab">OnApply</a> (<a class="el" href="../../de/d67/a11895.html">AuraEffect</a> const *, <a class="el" href="../../da/d28/a02705.html#a82ebee9e3cf7eaf2ab892a6eb7796288">AuraEffectHandleModes</a>)</td></tr>
-<tr class="separator:ad52977d3bfeca6d2a7127d91eb3d30ab"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a903e65cc8041f9bd289bb5c6f156fa22"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d55/a20671.html#a903e65cc8041f9bd289bb5c6f156fa22">OnRemove</a> (<a class="el" href="../../de/d67/a11895.html">AuraEffect</a> const *, <a class="el" href="../../da/d28/a02705.html#a82ebee9e3cf7eaf2ab892a6eb7796288">AuraEffectHandleModes</a>)</td></tr>
 <tr class="separator:a903e65cc8041f9bd289bb5c6f156fa22"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2b18c5db95842a6f8959bf9affd357b7"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d55/a20671.html#a2b18c5db95842a6f8959bf9affd357b7">Register</a> () override</td></tr>
@@ -334,11 +332,11 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  463</span>    {</div>
-<div class="line"><span class="lineno">  464</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d9/d33/a09227.html">Unit</a>* caster = <a class="code hl_function" href="../../d7/dce/a12143.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>())</div>
-<div class="line"><span class="lineno">  465</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d9/d33/a09227.html">Unit</a>* target = <a class="code hl_function" href="../../d7/dce/a12143.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>())</div>
-<div class="line"><span class="lineno">  466</span>                caster-&gt;CastSpell(target, <a class="code hl_enumvalue" href="../../db/d28/a01133.html#a943c5a3fae15cbe412506de21dfc60e5aef948b02f8d59207a7cf40543057092a">SPELL_SLAG_POT_DAMAGE</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  467</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  459</span>    {</div>
+<div class="line"><span class="lineno">  460</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d9/d33/a09227.html">Unit</a>* caster = <a class="code hl_function" href="../../d7/dce/a12143.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>())</div>
+<div class="line"><span class="lineno">  461</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d9/d33/a09227.html">Unit</a>* target = <a class="code hl_function" href="../../d7/dce/a12143.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>())</div>
+<div class="line"><span class="lineno">  462</span>                caster-&gt;CastSpell(target, <a class="code hl_enumvalue" href="../../db/d28/a01133.html#a943c5a3fae15cbe412506de21dfc60e5aef948b02f8d59207a7cf40543057092a">SPELL_SLAG_POT_DAMAGE</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  463</span>    }</div>
 <div class="ttc" id="aa01133_html_a943c5a3fae15cbe412506de21dfc60e5aef948b02f8d59207a7cf40543057092a"><div class="ttname"><a href="../../db/d28/a01133.html#a943c5a3fae15cbe412506de21dfc60e5aef948b02f8d59207a7cf40543057092a">SPELL_SLAG_POT_DAMAGE</a></div><div class="ttdeci">@ SPELL_SLAG_POT_DAMAGE</div><div class="ttdef"><b>Definition:</b> boss_ignis.cpp:441</div></div>
 <div class="ttc" id="aa09227_html"><div class="ttname"><a href="../../d9/d33/a09227.html">Unit</a></div><div class="ttdef"><b>Definition:</b> Unit.h:667</div></div>
 <div class="ttc" id="aa12143_html_a67261dcb8b5f6089bdc1a906c91d61df"><div class="ttname"><a href="../../d7/dce/a12143.html#a67261dcb8b5f6089bdc1a906c91d61df">AuraScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster() const</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:1040</div></div>
@@ -346,58 +344,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01040">AuraScript::GetCaster()</a>, <a class="el" href="../../#l01185">AuraScript::GetTarget()</a>, and <a class="el" href="../../#l00441">SPELL_SLAG_POT_DAMAGE</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00489">Register()</a>.</p>
-
-</div>
-</div>
-<a id="ad52977d3bfeca6d2a7127d91eb3d30ab" name="ad52977d3bfeca6d2a7127d91eb3d30ab"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad52977d3bfeca6d2a7127d91eb3d30ab">&#9670;&#160;</a></span>OnApply()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void spell_ignis_slag_pot_aura::OnApply </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../de/d67/a11895.html">AuraEffect</a> const *&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../da/d28/a02705.html#a82ebee9e3cf7eaf2ab892a6eb7796288">AuraEffectHandleModes</a>&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  470</span>    {</div>
-<div class="line"><span class="lineno">  471</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d9/d33/a09227.html">Unit</a>* target = <a class="code hl_function" href="../../d7/dce/a12143.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>())</div>
-<div class="line"><span class="lineno">  472</span>        {</div>
-<div class="line"><span class="lineno">  473</span>            target-&gt;ApplySpellImmune(<a class="code hl_function" href="../../d7/dce/a12143.html#afca894c30f544ccf512e0966eb7e10ce">GetId</a>(), <a class="code hl_enumvalue" href="../../d4/d81/a00110.html#a91d505a1e789c6ea6a338f3a3c85b6b9a981326220afec59126417e02e0b882de">IMMUNITY_ID</a>, <a class="code hl_enumvalue" href="../../db/d28/a01133.html#a943c5a3fae15cbe412506de21dfc60e5a3d915bb5007870bd98e778758ab59695">SPELL_SCORCH_DAMAGE_1</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  474</span>            target-&gt;ApplySpellImmune(<a class="code hl_function" href="../../d7/dce/a12143.html#afca894c30f544ccf512e0966eb7e10ce">GetId</a>(), <a class="code hl_enumvalue" href="../../d4/d81/a00110.html#a91d505a1e789c6ea6a338f3a3c85b6b9a981326220afec59126417e02e0b882de">IMMUNITY_ID</a>, <a class="code hl_enumvalue" href="../../db/d28/a01133.html#a943c5a3fae15cbe412506de21dfc60e5a021bf3c515f0bd7d83f12e5dccc9cb34">SPELL_SCORCH_DAMAGE_2</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  475</span>        }</div>
-<div class="line"><span class="lineno">  476</span>    }</div>
-<div class="ttc" id="aa00110_html_a91d505a1e789c6ea6a338f3a3c85b6b9a981326220afec59126417e02e0b882de"><div class="ttname"><a href="../../d4/d81/a00110.html#a91d505a1e789c6ea6a338f3a3c85b6b9a981326220afec59126417e02e0b882de">IMMUNITY_ID</a></div><div class="ttdeci">@ IMMUNITY_ID</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1404</div></div>
-<div class="ttc" id="aa01133_html_a943c5a3fae15cbe412506de21dfc60e5a021bf3c515f0bd7d83f12e5dccc9cb34"><div class="ttname"><a href="../../db/d28/a01133.html#a943c5a3fae15cbe412506de21dfc60e5a021bf3c515f0bd7d83f12e5dccc9cb34">SPELL_SCORCH_DAMAGE_2</a></div><div class="ttdeci">@ SPELL_SCORCH_DAMAGE_2</div><div class="ttdef"><b>Definition:</b> boss_ignis.cpp:443</div></div>
-<div class="ttc" id="aa01133_html_a943c5a3fae15cbe412506de21dfc60e5a3d915bb5007870bd98e778758ab59695"><div class="ttname"><a href="../../db/d28/a01133.html#a943c5a3fae15cbe412506de21dfc60e5a3d915bb5007870bd98e778758ab59695">SPELL_SCORCH_DAMAGE_1</a></div><div class="ttdeci">@ SPELL_SCORCH_DAMAGE_1</div><div class="ttdef"><b>Definition:</b> boss_ignis.cpp:442</div></div>
-<div class="ttc" id="aa12143_html_afca894c30f544ccf512e0966eb7e10ce"><div class="ttname"><a href="../../d7/dce/a12143.html#afca894c30f544ccf512e0966eb7e10ce">AuraScript::GetId</a></div><div class="ttdeci">uint32 GetId() const</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:1030</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01030">AuraScript::GetId()</a>, <a class="el" href="../../#l01185">AuraScript::GetTarget()</a>, <a class="el" href="../../#l01404">IMMUNITY_ID</a>, <a class="el" href="../../#l00442">SPELL_SCORCH_DAMAGE_1</a>, and <a class="el" href="../../#l00443">SPELL_SCORCH_DAMAGE_2</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00489">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00474">Register()</a>.</p>
 
 </div>
 </div>
@@ -434,20 +381,18 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  479</span>    {</div>
-<div class="line"><span class="lineno">  480</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d9/d33/a09227.html">Unit</a>* target = <a class="code hl_function" href="../../d7/dce/a12143.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>())</div>
-<div class="line"><span class="lineno">  481</span>        {</div>
-<div class="line"><span class="lineno">  482</span>            target-&gt;ApplySpellImmune(<a class="code hl_function" href="../../d7/dce/a12143.html#afca894c30f544ccf512e0966eb7e10ce">GetId</a>(), <a class="code hl_enumvalue" href="../../d4/d81/a00110.html#a91d505a1e789c6ea6a338f3a3c85b6b9a981326220afec59126417e02e0b882de">IMMUNITY_ID</a>, <a class="code hl_enumvalue" href="../../db/d28/a01133.html#a943c5a3fae15cbe412506de21dfc60e5a3d915bb5007870bd98e778758ab59695">SPELL_SCORCH_DAMAGE_1</a>, <span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">  483</span>            target-&gt;ApplySpellImmune(<a class="code hl_function" href="../../d7/dce/a12143.html#afca894c30f544ccf512e0966eb7e10ce">GetId</a>(), <a class="code hl_enumvalue" href="../../d4/d81/a00110.html#a91d505a1e789c6ea6a338f3a3c85b6b9a981326220afec59126417e02e0b882de">IMMUNITY_ID</a>, <a class="code hl_enumvalue" href="../../db/d28/a01133.html#a943c5a3fae15cbe412506de21dfc60e5a021bf3c515f0bd7d83f12e5dccc9cb34">SPELL_SCORCH_DAMAGE_2</a>, <span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">  484</span>            <span class="keywordflow">if</span> (target-&gt;IsAlive())</div>
-<div class="line"><span class="lineno">  485</span>                target-&gt;CastSpell(target, <a class="code hl_enumvalue" href="../../db/d28/a01133.html#a943c5a3fae15cbe412506de21dfc60e5a5df9edb7ebda9b0b6d5ea214294ee9ee">SPELL_SLAG_IMBUED</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  486</span>        }</div>
-<div class="line"><span class="lineno">  487</span>    }</div>
-<div class="ttc" id="aa01133_html_a943c5a3fae15cbe412506de21dfc60e5a5df9edb7ebda9b0b6d5ea214294ee9ee"><div class="ttname"><a href="../../db/d28/a01133.html#a943c5a3fae15cbe412506de21dfc60e5a5df9edb7ebda9b0b6d5ea214294ee9ee">SPELL_SLAG_IMBUED</a></div><div class="ttdeci">@ SPELL_SLAG_IMBUED</div><div class="ttdef"><b>Definition:</b> boss_ignis.cpp:444</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  466</span>    {</div>
+<div class="line"><span class="lineno">  467</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d9/d33/a09227.html">Unit</a>* target = <a class="code hl_function" href="../../d7/dce/a12143.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>())</div>
+<div class="line"><span class="lineno">  468</span>        {</div>
+<div class="line"><span class="lineno">  469</span>            <span class="keywordflow">if</span> (target-&gt;IsAlive())</div>
+<div class="line"><span class="lineno">  470</span>                target-&gt;CastSpell(target, <a class="code hl_enumvalue" href="../../db/d28/a01133.html#a943c5a3fae15cbe412506de21dfc60e5a5df9edb7ebda9b0b6d5ea214294ee9ee">SPELL_SLAG_IMBUED</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  471</span>        }</div>
+<div class="line"><span class="lineno">  472</span>    }</div>
+<div class="ttc" id="aa01133_html_a943c5a3fae15cbe412506de21dfc60e5a5df9edb7ebda9b0b6d5ea214294ee9ee"><div class="ttname"><a href="../../db/d28/a01133.html#a943c5a3fae15cbe412506de21dfc60e5a5df9edb7ebda9b0b6d5ea214294ee9ee">SPELL_SLAG_IMBUED</a></div><div class="ttdeci">@ SPELL_SLAG_IMBUED</div><div class="ttdef"><b>Definition:</b> boss_ignis.cpp:442</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01030">AuraScript::GetId()</a>, <a class="el" href="../../#l01185">AuraScript::GetTarget()</a>, <a class="el" href="../../#l01404">IMMUNITY_ID</a>, <a class="el" href="../../#l00442">SPELL_SCORCH_DAMAGE_1</a>, <a class="el" href="../../#l00443">SPELL_SCORCH_DAMAGE_2</a>, and <a class="el" href="../../#l00444">SPELL_SLAG_IMBUED</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01185">AuraScript::GetTarget()</a>, and <a class="el" href="../../#l00442">SPELL_SLAG_IMBUED</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00489">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00474">Register()</a>.</p>
 
 </div>
 </div>
@@ -501,25 +446,21 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../df/d22/a12087.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  490</span>    {</div>
-<div class="line"><span class="lineno">  491</span>        <a class="code hl_variable" href="../../d7/dce/a12143.html#a491e7fc0a1acd202b60fa1aed79a9377">OnEffectPeriodic</a> += <a class="code hl_define" href="../../d8/da6/a02696.html#a63dd33eaa91292bfb53b1d9f2b0eba29">AuraEffectPeriodicFn</a>(<a class="code hl_function" href="../../d4/d55/a20671.html#adc6e83abb52a21528c07a1d989818dcf">spell_ignis_slag_pot_aura::HandleEffectPeriodic</a>, <a class="code hl_enumvalue" href="../../d4/d81/a00110.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d28/a02705.html#a538cdc259460b365f406fe0b3a981799add498157825d0faca2c013bbcdfbae56">SPELL_AURA_PERIODIC_DUMMY</a>);</div>
-<div class="line"><span class="lineno">  492</span>        <a class="code hl_variable" href="../../d7/dce/a12143.html#af325738f50fb9df450999e5e04ea65ed">OnEffectApply</a> += <a class="code hl_define" href="../../d8/da6/a02696.html#ac47070c5a13a5436cc5d204a1445c993">AuraEffectApplyFn</a>(<a class="code hl_function" href="../../d4/d55/a20671.html#ad52977d3bfeca6d2a7127d91eb3d30ab">spell_ignis_slag_pot_aura::OnApply</a>, <a class="code hl_enumvalue" href="../../d4/d81/a00110.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d28/a02705.html#a538cdc259460b365f406fe0b3a981799add498157825d0faca2c013bbcdfbae56">SPELL_AURA_PERIODIC_DUMMY</a>, <a class="code hl_enumvalue" href="../../da/d28/a02705.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
-<div class="line"><span class="lineno">  493</span>        <a class="code hl_variable" href="../../d7/dce/a12143.html#a2bfb775dfbe8cfc3cff876469c78ddcf">AfterEffectRemove</a> += <a class="code hl_define" href="../../d8/da6/a02696.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a>(<a class="code hl_function" href="../../d4/d55/a20671.html#a903e65cc8041f9bd289bb5c6f156fa22">spell_ignis_slag_pot_aura::OnRemove</a>, <a class="code hl_enumvalue" href="../../d4/d81/a00110.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d28/a02705.html#a538cdc259460b365f406fe0b3a981799add498157825d0faca2c013bbcdfbae56">SPELL_AURA_PERIODIC_DUMMY</a>, <a class="code hl_enumvalue" href="../../da/d28/a02705.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
-<div class="line"><span class="lineno">  494</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  475</span>    {</div>
+<div class="line"><span class="lineno">  476</span>        <a class="code hl_variable" href="../../d7/dce/a12143.html#a491e7fc0a1acd202b60fa1aed79a9377">OnEffectPeriodic</a> += <a class="code hl_define" href="../../d8/da6/a02696.html#a63dd33eaa91292bfb53b1d9f2b0eba29">AuraEffectPeriodicFn</a>(<a class="code hl_function" href="../../d4/d55/a20671.html#adc6e83abb52a21528c07a1d989818dcf">spell_ignis_slag_pot_aura::HandleEffectPeriodic</a>, <a class="code hl_enumvalue" href="../../d4/d81/a00110.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d28/a02705.html#a538cdc259460b365f406fe0b3a981799add498157825d0faca2c013bbcdfbae56">SPELL_AURA_PERIODIC_DUMMY</a>);</div>
+<div class="line"><span class="lineno">  477</span>        <a class="code hl_variable" href="../../d7/dce/a12143.html#a2bfb775dfbe8cfc3cff876469c78ddcf">AfterEffectRemove</a> += <a class="code hl_define" href="../../d8/da6/a02696.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a>(<a class="code hl_function" href="../../d4/d55/a20671.html#a903e65cc8041f9bd289bb5c6f156fa22">spell_ignis_slag_pot_aura::OnRemove</a>, <a class="code hl_enumvalue" href="../../d4/d81/a00110.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d28/a02705.html#a538cdc259460b365f406fe0b3a981799add498157825d0faca2c013bbcdfbae56">SPELL_AURA_PERIODIC_DUMMY</a>, <a class="code hl_enumvalue" href="../../da/d28/a02705.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
+<div class="line"><span class="lineno">  478</span>    }</div>
 <div class="ttc" id="aa00110_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../d4/d81/a00110.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aa02696_html_a63dd33eaa91292bfb53b1d9f2b0eba29"><div class="ttname"><a href="../../d8/da6/a02696.html#a63dd33eaa91292bfb53b1d9f2b0eba29">AuraEffectPeriodicFn</a></div><div class="ttdeci">#define AuraEffectPeriodicFn(F, I, N)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:772</div></div>
-<div class="ttc" id="aa02696_html_ac47070c5a13a5436cc5d204a1445c993"><div class="ttname"><a href="../../d8/da6/a02696.html#ac47070c5a13a5436cc5d204a1445c993">AuraEffectApplyFn</a></div><div class="ttdeci">#define AuraEffectApplyFn(F, I, N, M)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:755</div></div>
 <div class="ttc" id="aa02696_html_af8f20adad60abdb901d6e7310afea31b"><div class="ttname"><a href="../../d8/da6/a02696.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a></div><div class="ttdeci">#define AuraEffectRemoveFn(F, I, N, M)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:766</div></div>
 <div class="ttc" id="aa02705_html_a538cdc259460b365f406fe0b3a981799add498157825d0faca2c013bbcdfbae56"><div class="ttname"><a href="../../da/d28/a02705.html#a538cdc259460b365f406fe0b3a981799add498157825d0faca2c013bbcdfbae56">SPELL_AURA_PERIODIC_DUMMY</a></div><div class="ttdeci">@ SPELL_AURA_PERIODIC_DUMMY</div><div class="ttdef"><b>Definition:</b> SpellAuraDefines.h:289</div></div>
 <div class="ttc" id="aa02705_html_a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b"><div class="ttname"><a href="../../da/d28/a02705.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a></div><div class="ttdeci">@ AURA_EFFECT_HANDLE_REAL</div><div class="ttdef"><b>Definition:</b> SpellAuraDefines.h:42</div></div>
 <div class="ttc" id="aa12143_html_a2bfb775dfbe8cfc3cff876469c78ddcf"><div class="ttname"><a href="../../d7/dce/a12143.html#a2bfb775dfbe8cfc3cff876469c78ddcf">AuraScript::AfterEffectRemove</a></div><div class="ttdeci">HookList&lt; EffectApplyHandler &gt; AfterEffectRemove</div><div class="ttdef"><b>Definition:</b> SpellScript.h:765</div></div>
 <div class="ttc" id="aa12143_html_a491e7fc0a1acd202b60fa1aed79a9377"><div class="ttname"><a href="../../d7/dce/a12143.html#a491e7fc0a1acd202b60fa1aed79a9377">AuraScript::OnEffectPeriodic</a></div><div class="ttdeci">HookList&lt; EffectPeriodicHandler &gt; OnEffectPeriodic</div><div class="ttdef"><b>Definition:</b> SpellScript.h:771</div></div>
-<div class="ttc" id="aa12143_html_af325738f50fb9df450999e5e04ea65ed"><div class="ttname"><a href="../../d7/dce/a12143.html#af325738f50fb9df450999e5e04ea65ed">AuraScript::OnEffectApply</a></div><div class="ttdeci">HookList&lt; EffectApplyHandler &gt; OnEffectApply</div><div class="ttdef"><b>Definition:</b> SpellScript.h:750</div></div>
-<div class="ttc" id="aa20671_html_a903e65cc8041f9bd289bb5c6f156fa22"><div class="ttname"><a href="../../d4/d55/a20671.html#a903e65cc8041f9bd289bb5c6f156fa22">spell_ignis_slag_pot_aura::OnRemove</a></div><div class="ttdeci">void OnRemove(AuraEffect const *, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition:</b> boss_ignis.cpp:478</div></div>
-<div class="ttc" id="aa20671_html_ad52977d3bfeca6d2a7127d91eb3d30ab"><div class="ttname"><a href="../../d4/d55/a20671.html#ad52977d3bfeca6d2a7127d91eb3d30ab">spell_ignis_slag_pot_aura::OnApply</a></div><div class="ttdeci">void OnApply(AuraEffect const *, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition:</b> boss_ignis.cpp:469</div></div>
-<div class="ttc" id="aa20671_html_adc6e83abb52a21528c07a1d989818dcf"><div class="ttname"><a href="../../d4/d55/a20671.html#adc6e83abb52a21528c07a1d989818dcf">spell_ignis_slag_pot_aura::HandleEffectPeriodic</a></div><div class="ttdeci">void HandleEffectPeriodic(AuraEffect const *)</div><div class="ttdef"><b>Definition:</b> boss_ignis.cpp:462</div></div>
+<div class="ttc" id="aa20671_html_a903e65cc8041f9bd289bb5c6f156fa22"><div class="ttname"><a href="../../d4/d55/a20671.html#a903e65cc8041f9bd289bb5c6f156fa22">spell_ignis_slag_pot_aura::OnRemove</a></div><div class="ttdeci">void OnRemove(AuraEffect const *, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition:</b> boss_ignis.cpp:465</div></div>
+<div class="ttc" id="aa20671_html_adc6e83abb52a21528c07a1d989818dcf"><div class="ttname"><a href="../../d4/d55/a20671.html#adc6e83abb52a21528c07a1d989818dcf">spell_ignis_slag_pot_aura::HandleEffectPeriodic</a></div><div class="ttdeci">void HandleEffectPeriodic(AuraEffect const *)</div><div class="ttdef"><b>Definition:</b> boss_ignis.cpp:458</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00765">AuraScript::AfterEffectRemove</a>, <a class="el" href="../../#l00042">AURA_EFFECT_HANDLE_REAL</a>, <a class="el" href="../../#l00755">AuraEffectApplyFn</a>, <a class="el" href="../../#l00772">AuraEffectPeriodicFn</a>, <a class="el" href="../../#l00766">AuraEffectRemoveFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00462">HandleEffectPeriodic()</a>, <a class="el" href="../../#l00469">OnApply()</a>, <a class="el" href="../../#l00750">AuraScript::OnEffectApply</a>, <a class="el" href="../../#l00771">AuraScript::OnEffectPeriodic</a>, <a class="el" href="../../#l00478">OnRemove()</a>, and <a class="el" href="../../#l00289">SPELL_AURA_PERIODIC_DUMMY</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00765">AuraScript::AfterEffectRemove</a>, <a class="el" href="../../#l00042">AURA_EFFECT_HANDLE_REAL</a>, <a class="el" href="../../#l00772">AuraEffectPeriodicFn</a>, <a class="el" href="../../#l00766">AuraEffectRemoveFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00458">HandleEffectPeriodic()</a>, <a class="el" href="../../#l00771">AuraScript::OnEffectPeriodic</a>, <a class="el" href="../../#l00465">OnRemove()</a>, and <a class="el" href="../../#l00289">SPELL_AURA_PERIODIC_DUMMY</a>.</p>
 
 </div>
 </div>
@@ -548,18 +489,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../df/d22/a12087.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  452</span>    {</div>
-<div class="line"><span class="lineno">  453</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../df/d22/a12087.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>(</div>
-<div class="line"><span class="lineno">  454</span>            {</div>
-<div class="line"><span class="lineno">  455</span>                <a class="code hl_enumvalue" href="../../db/d28/a01133.html#a943c5a3fae15cbe412506de21dfc60e5aef948b02f8d59207a7cf40543057092a">SPELL_SLAG_POT_DAMAGE</a>,</div>
-<div class="line"><span class="lineno">  456</span>                <a class="code hl_enumvalue" href="../../db/d28/a01133.html#a943c5a3fae15cbe412506de21dfc60e5a3d915bb5007870bd98e778758ab59695">SPELL_SCORCH_DAMAGE_1</a>,</div>
-<div class="line"><span class="lineno">  457</span>                <a class="code hl_enumvalue" href="../../db/d28/a01133.html#a943c5a3fae15cbe412506de21dfc60e5a021bf3c515f0bd7d83f12e5dccc9cb34">SPELL_SCORCH_DAMAGE_2</a>,</div>
-<div class="line"><span class="lineno">  458</span>                <a class="code hl_enumvalue" href="../../db/d28/a01133.html#a943c5a3fae15cbe412506de21dfc60e5a5df9edb7ebda9b0b6d5ea214294ee9ee">SPELL_SLAG_IMBUED</a></div>
-<div class="line"><span class="lineno">  459</span>            });</div>
-<div class="line"><span class="lineno">  460</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  450</span>    {</div>
+<div class="line"><span class="lineno">  451</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../df/d22/a12087.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>(</div>
+<div class="line"><span class="lineno">  452</span>            {</div>
+<div class="line"><span class="lineno">  453</span>                <a class="code hl_enumvalue" href="../../db/d28/a01133.html#a943c5a3fae15cbe412506de21dfc60e5aef948b02f8d59207a7cf40543057092a">SPELL_SLAG_POT_DAMAGE</a>,</div>
+<div class="line"><span class="lineno">  454</span>                <a class="code hl_enumvalue" href="../../db/d28/a01133.html#a943c5a3fae15cbe412506de21dfc60e5a5df9edb7ebda9b0b6d5ea214294ee9ee">SPELL_SLAG_IMBUED</a></div>
+<div class="line"><span class="lineno">  455</span>            });</div>
+<div class="line"><span class="lineno">  456</span>    }</div>
 <div class="ttc" id="aa12087_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../df/d22/a12087.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00442">SPELL_SCORCH_DAMAGE_1</a>, <a class="el" href="../../#l00443">SPELL_SCORCH_DAMAGE_2</a>, <a class="el" href="../../#l00444">SPELL_SLAG_IMBUED</a>, <a class="el" href="../../#l00441">SPELL_SLAG_POT_DAMAGE</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00442">SPELL_SLAG_IMBUED</a>, <a class="el" href="../../#l00441">SPELL_SLAG_POT_DAMAGE</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
 
 </div>
 </div>
@@ -569,7 +508,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d4/d55/a20671.html">spell_ignis_slag_pot_aura</a></li>
-    <li class="footer">Generated on Tue Sep 29 2026 01:13:57 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Tue Oct 6 2026 01:27:02 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

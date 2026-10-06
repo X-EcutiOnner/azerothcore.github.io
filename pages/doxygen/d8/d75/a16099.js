@@ -1,6 +1,6 @@
 var a16099 =
 [
-    [ "npc_bunthen_plainswind", "d8/d75/a16099.html#ad9b789ad3e958dee4733b142813b6302", null ],
-    [ "OnGossipHello", "d8/d75/a16099.html#ae2fe8bfb957dd8ea84d2585293c3b6eb", null ],
-    [ "OnGossipSelect", "d8/d75/a16099.html#a117f28d513ac645b9d3d908d052d2146", null ]
+    [ "npc_silva_filnaveth", "d8/d75/a16099.html#a5998381865214a7b3af7823bd2557cb0", null ],
+    [ "OnGossipHello", "d8/d75/a16099.html#a32019c17271a3f504d86cd694262fd53", null ],
+    [ "OnGossipSelect", "d8/d75/a16099.html#a10f81dce3dbc3ef0a84c8c33c2cb2e29", null ]
 ];

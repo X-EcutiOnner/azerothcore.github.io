@@ -1,8 +1,6 @@
 var a23075 =
 [
-    [ "FilterTargets", "d2/dd0/a23075.html#a0ee5b216f8e713a5c632d0f456fd2b72", null ],
-    [ "HandleDummy", "d2/dd0/a23075.html#ab89ab441f022ee017548ba49d128b92e", null ],
-    [ "PrepareSpellScript", "d2/dd0/a23075.html#aa8578390d7d9379328c02ceb209e94ed", null ],
-    [ "Register", "d2/dd0/a23075.html#a486387d707b7ad66ecb443ab2bb60778", null ],
-    [ "Validate", "d2/dd0/a23075.html#ad5d695978794d796eb7139fce1530d57", null ]
+    [ "boss_reliquary_of_soulsAI", "d1/d30/a23079.html", "d1/d30/a23079" ],
+    [ "boss_reliquary_of_souls", "d2/dd0/a23075.html#a0c73fc6221da0b19903e534932ca6406", null ],
+    [ "GetAI", "d2/dd0/a23075.html#a55b717fe2b1bfdda84fec6c63852ae7c", null ]
 ];

@@ -1,16 +1,22 @@
 var a01331 =
 [
-    [ "npc_snobold_vassal", "d1/df8/a17147.html", "d1/df8/a17147" ],
-    [ "npc_snobold_vassal::npc_snobold_vassalAI", "da/dd8/a17151.html", "da/dd8/a17151" ],
-    [ "boss_gormok", "d7/d11/a17155.html", "d7/d11/a17155" ],
-    [ "boss_gormok::boss_gormokAI", "d6/d6f/a17159.html", "d6/d6f/a17159" ],
-    [ "boss_jormungarAI", "d1/d4a/a17163.html", "d1/d4a/a17163" ],
-    [ "boss_acidmaw", "d4/de0/a17167.html", "d4/de0/a17167" ],
-    [ "boss_acidmaw::boss_acidmawAI", "d1/d14/a17171.html", "d1/d14/a17171" ],
-    [ "boss_dreadscale", "d1/dd8/a17175.html", "d1/dd8/a17175" ],
-    [ "boss_dreadscale::boss_dreadscaleAI", "de/d81/a17179.html", "de/d81/a17179" ],
-    [ "boss_icehowl", "da/d39/a17183.html", "da/d39/a17183" ],
-    [ "boss_icehowl::boss_icehowlAI", "d3/d41/a17187.html", "d3/d41/a17187" ],
+    [ "npc_snobold_vassal", "d3/ddb/a17131.html", "d3/ddb/a17131" ],
+    [ "npc_snobold_vassal::npc_snobold_vassalAI", "dd/df1/a17135.html", "dd/df1/a17135" ],
+    [ "boss_gormok", "de/d5c/a17139.html", "de/d5c/a17139" ],
+    [ "boss_gormok::boss_gormokAI", "dc/d42/a17143.html", "dc/d42/a17143" ],
+    [ "boss_jormungarAI", "d1/df8/a17147.html", "d1/df8/a17147" ],
+    [ "boss_acidmaw", "da/dd8/a17151.html", "da/dd8/a17151" ],
+    [ "boss_acidmaw::boss_acidmawAI", "d7/d11/a17155.html", "d7/d11/a17155" ],
+    [ "boss_dreadscale", "d6/d6f/a17159.html", "d6/d6f/a17159" ],
+    [ "boss_dreadscale::boss_dreadscaleAI", "d1/d4a/a17163.html", "d1/d4a/a17163" ],
+    [ "spell_jormungars_paralytic_toxin_aura", "d4/de0/a17167.html", "d4/de0/a17167" ],
+    [ "boss_icehowl", "d1/d14/a17171.html", "d1/d14/a17171" ],
+    [ "boss_icehowl::boss_icehowlAI", "d1/dd8/a17175.html", "d1/dd8/a17175" ],
+    [ "spell_icehowl_jump_back", "de/d81/a17179.html", "de/d81/a17179" ],
+    [ "spell_icehowl_massive_crash", "da/d39/a17183.html", "da/d39/a17183" ],
+    [ "GormokActions", "dc/d8e/a01331.html#a0def6d6c58a0d849af9617312f36c5d5", [
+      [ "ACTION_GORMOK_DIED", "dc/d8e/a01331.html#a0def6d6c58a0d849af9617312f36c5d5a83dd722143e45d4373592ae85902b41c", null ]
+    ] ],
     [ "GormokEvents", "dc/d8e/a01331.html#ac2ac05656603473719a8d058efa47bea", [
       [ "EVENT_SPELL_IMPALE", "dc/d8e/a01331.html#ac2ac05656603473719a8d058efa47beaa337b729354b4dfb11fcab3130731dbb5", null ],
       [ "EVENT_SPELL_STAGGERING_STOMP", "dc/d8e/a01331.html#ac2ac05656603473719a8d058efa47beaa9244f9c7b6a8e358b1b9490007b64128", null ],
@@ -19,7 +25,8 @@ var a01331 =
       [ "EVENT_SPELL_SNOBOLLED", "dc/d8e/a01331.html#ac2ac05656603473719a8d058efa47beaaf326f057c75880b8e6302a10be3e8aba", null ],
       [ "EVENT_SPELL_BATTER", "dc/d8e/a01331.html#ac2ac05656603473719a8d058efa47beaa59cf297ad07af42752d8790955a6fe9b", null ],
       [ "EVENT_SPELL_FIRE_BOMB", "dc/d8e/a01331.html#ac2ac05656603473719a8d058efa47beaa09d7b9f4af8871d8d82c9765f829a562", null ],
-      [ "EVENT_SPELL_HEAD_CRACK", "dc/d8e/a01331.html#ac2ac05656603473719a8d058efa47beaa47654495e3e87a9a33b1de31191f3976", null ]
+      [ "EVENT_SPELL_HEAD_CRACK", "dc/d8e/a01331.html#ac2ac05656603473719a8d058efa47beaa47654495e3e87a9a33b1de31191f3976", null ],
+      [ "EVENT_DISMOUNTED_ATTACK", "dc/d8e/a01331.html#ac2ac05656603473719a8d058efa47beaa1d7e9fedee1252a3569c213d9cacf61b", null ]
     ] ],
     [ "GormokNPCs", "dc/d8e/a01331.html#ace3e6fd9cd2bc524c90a6e7a95d28cfb", [
       [ "NPC_SNOBOLD_VASSAL", "dc/d8e/a01331.html#ace3e6fd9cd2bc524c90a6e7a95d28cfba27d3b8f133394b5e83ea2baf76f7281d", null ],
@@ -39,6 +46,7 @@ var a01331 =
     [ "IcehowlEvents", "dc/d8e/a01331.html#afcf45c0e220933d21eea67e54cda5d14", [
       [ "EVENT_JUMP_MIDDLE", "dc/d8e/a01331.html#afcf45c0e220933d21eea67e54cda5d14aaf60d7c6ee0f9c5183faf93fcf983fa2", null ],
       [ "EVENT_GAZE", "dc/d8e/a01331.html#afcf45c0e220933d21eea67e54cda5d14aefb0e239b0907e6702871b2b747af3fa", null ],
+      [ "EVENT_ROAR", "dc/d8e/a01331.html#afcf45c0e220933d21eea67e54cda5d14a9f20b3904a296fcaa4f64fe53f0c6911", null ],
       [ "EVENT_JUMP_BACK", "dc/d8e/a01331.html#afcf45c0e220933d21eea67e54cda5d14a6d3d66d4ef7b2ce4cf4178b95485231e", null ],
       [ "EVENT_TRAMPLE", "dc/d8e/a01331.html#afcf45c0e220933d21eea67e54cda5d14af9fd13d4944306f63ae57e56ddd0d85b", null ],
       [ "EVENT_CHECK_TRAMPLE_PLAYERS", "dc/d8e/a01331.html#afcf45c0e220933d21eea67e54cda5d14a6064461ecb55087e825ed8d49be42dc4", null ],
@@ -48,11 +56,18 @@ var a01331 =
       [ "EVENT_SPELL_WHIRL", "dc/d8e/a01331.html#afcf45c0e220933d21eea67e54cda5d14a1d75cdb8e025c0982dece2d6c07ac9a4", null ],
       [ "EVENT_SPELL_ARCTIC_BREATH", "dc/d8e/a01331.html#afcf45c0e220933d21eea67e54cda5d14a3656a0ed9a7f7ca518cc4588d49dd9e7", null ]
     ] ],
+    [ "IcehowlNPCs", "dc/d8e/a01331.html#a63b2b14f613e5d04aa6b2f74f6815799", [
+      [ "NPC_FURIOUS_CHARGE_STALKER", "dc/d8e/a01331.html#a63b2b14f613e5d04aa6b2f74f6815799ab1f340e75d67e99042d6bb2b3bbff4d3", null ]
+    ] ],
+    [ "IcehowlPoints", "dc/d8e/a01331.html#a099838a83153c17853d9da91563ae5a3", [
+      [ "POINT_ICEHOWL_MIDDLE", "dc/d8e/a01331.html#a099838a83153c17853d9da91563ae5a3ae1f6f706090a36423c1ae55338e57f8f", null ]
+    ] ],
     [ "IcehowlSpells", "dc/d8e/a01331.html#a1383eb6f6f4528abcd4a18007aef1bbb", [
       [ "SPELL_FEROCIOUS_BUTT", "dc/d8e/a01331.html#a1383eb6f6f4528abcd4a18007aef1bbba0168a549d54af429e0232b68f6cb9b69", null ],
       [ "SPELL_WHIRL", "dc/d8e/a01331.html#a1383eb6f6f4528abcd4a18007aef1bbbad6027cb8da3f2b0e5c8b5310c319712b", null ],
       [ "SPELL_ARCTIC_BREATH", "dc/d8e/a01331.html#a1383eb6f6f4528abcd4a18007aef1bbbac328bd5f517220391177df9f3a9706ef", null ],
       [ "SPELL_MASSIVE_CRASH", "dc/d8e/a01331.html#a1383eb6f6f4528abcd4a18007aef1bbba0113777efc6051f213a7271bdc2227e3", null ],
+      [ "SPELL_ROAR", "dc/d8e/a01331.html#a1383eb6f6f4528abcd4a18007aef1bbba2850de7b373712096ae835fe75a3632f", null ],
       [ "SPELL_JUMP_BACK", "dc/d8e/a01331.html#a1383eb6f6f4528abcd4a18007aef1bbbab8f2ce753aa6bfe428e971a6365b6475", null ],
       [ "SPELL_TRAMPLE", "dc/d8e/a01331.html#a1383eb6f6f4528abcd4a18007aef1bbba0652a18b78225e381788c96ee85b3a9b", null ],
       [ "SPELL_FROTHING_RAGE", "dc/d8e/a01331.html#a1383eb6f6f4528abcd4a18007aef1bbba8b8244208511a949519a2fcd454c77b1", null ],
@@ -269,8 +284,7 @@ var a01331 =
       [ "SAY_SEND_GROUP", "d8/d7a/a01292.html#a34a1b224b8db54cacd01d75b910f04e3ac4696d8fcb3bb196c5efdb756c5533a5", null ],
       [ "EMOTE_SNOBOLLED", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3a8d41398e97a91de8de78bf8ac9e0b09b", null ],
       [ "EMOTE_ENRAGE", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3a81024d2fa77c20eddf3d080ee9947126", null ],
-      [ "EMOTE_SUBMERGE", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3a2de75a94c63b35b7198bd89cf36a943e", null ],
-      [ "EMOTE_EMERGE", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3ab6eecfa42f3bdac4bf4c6e235545a252", null ],
+      [ "WHISPER_PARALYTIC_TOXIN", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3a9f30cd12b1e4592413f87b56c75bfbbb", null ],
       [ "EMOTE_TRAMPLE_STARE", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3a55eeb707d5a1d02aeaba2a8df6f388e6", null ],
       [ "EMOTE_TRAMPLE_CRASH", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3afa538decb9ebb5608387548209c84cf6", null ],
       [ "EMOTE_TRAMPLE_FAIL", "dc/d8e/a01331.html#a34a1b224b8db54cacd01d75b910f04e3aac5c85f7acc8f9da718c8818106bb9ff", null ],

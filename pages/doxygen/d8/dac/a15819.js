@@ -1,5 +1,7 @@
 var a15819 =
 [
-    [ "at_twin_emperors", "d8/dac/a15819.html#a343d482857fa0a45c42f593e591f7754", null ],
-    [ "_OnTrigger", "d8/dac/a15819.html#a466ba3bbf21b33f064a056eef63291ce", null ]
+    [ "FilterTargets", "d8/dac/a15819.html#a76e8285baf1d14d560ad764eeab86cd5", null ],
+    [ "HandleOnHit", "d8/dac/a15819.html#a587db6fa1dc5788e0cc9ec5e486e9393", null ],
+    [ "PrepareSpellScript", "d8/dac/a15819.html#ad7372e543391a23c003b4121e0dd8a09", null ],
+    [ "Register", "d8/dac/a15819.html#a9749c72e2c7964cd4a2b2f9a77da69ec", null ]
 ];

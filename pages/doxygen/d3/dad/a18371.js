@@ -1,6 +1,5 @@
 var a18371 =
 [
-    [ "npc_volatile_oozeAI", "db/d68/a18375.html", "db/d68/a18375" ],
-    [ "npc_volatile_ooze", "d3/dad/a18371.html#a22847e44812a0b13b92cfcca3a70204e", null ],
-    [ "GetAI", "d3/dad/a18371.html#a66b4918c14d90d5550ddc8dbe90c2e01", null ]
+    [ "npc_volatile_oozeAI", "d3/dad/a18371.html#af042d4c22482aabcdad6fa867dfe093f", null ],
+    [ "CastMainSpell", "d3/dad/a18371.html#a91890785174ecc60c9553a0aedf1961b", null ]
 ];

@@ -1,9 +1,7 @@
 var a23031 =
 [
-    [ "HandleAfterCast", "dd/d9a/a23031.html#ae83f0cd423597b1c1e2bc1619d24fb1e", null ],
-    [ "HandleDummy", "dd/d9a/a23031.html#ae94594e337c2e0e6864f3723df8349bf", null ],
-    [ "Load", "dd/d9a/a23031.html#a301008eff6b13a43070b3916925391ae", null ],
-    [ "PrepareSpellScript", "dd/d9a/a23031.html#a6068412ee3d78192cc0ff735fd4e93ed", null ],
-    [ "Register", "dd/d9a/a23031.html#a253f9b428351519cbd4ee5c2341ea0c4", null ],
-    [ "_targetCount", "dd/d9a/a23031.html#ac16cb2696c4e72195de7ebddd072b3c4", null ]
+    [ "PrepareAuraScript", "dd/d9a/a23031.html#ae6879f1d8c27f19cf3e3ada0b34d568f", null ],
+    [ "ReflectDamage", "dd/d9a/a23031.html#acde2cbf4d196cba1fa2c02393c08fe9f", null ],
+    [ "Register", "dd/d9a/a23031.html#aa1f27d25209f14dd8bf711bc15cb9165", null ],
+    [ "Validate", "dd/d9a/a23031.html#aa730b912aadcde53f6cd94c2a8c99493", null ]
 ];

@@ -1,7 +1,11 @@
 var a22063 =
 [
-    [ "HandlePeriodic", "df/d8a/a22063.html#a39e103c4bd60ce54eb7ecbdb37013e04", null ],
-    [ "PrepareAuraScript", "df/d8a/a22063.html#ac198489764c878822e38a1ea225ab287", null ],
-    [ "Register", "df/d8a/a22063.html#a66933e6f4b5689b0b05de63aa7402354", null ],
-    [ "Validate", "df/d8a/a22063.html#a0db3843573837c53aeeaca69a6019d06", null ]
+    [ "npc_emilyAI", "df/d8a/a22063.html#afd1e82e36c8850fbe118ab6abbdb73ce", null ],
+    [ "JustEngagedWith", "df/d8a/a22063.html#a498ddc6969d398fe7a44824f4f8c8893", null ],
+    [ "JustSummoned", "df/d8a/a22063.html#a4730c94b54d2ee5160011557704b35f2", null ],
+    [ "Reset", "df/d8a/a22063.html#a8f196a6e1b21bef162b7ba4d7aeae208", null ],
+    [ "WaypointReached", "df/d8a/a22063.html#a0a68676a6eac8fbe2b634098268eb516", null ],
+    [ "WaypointReached", "df/d8a/a22063.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_mrfloppyGUID", "df/d8a/a22063.html#a12a1fbe1ef4767698ab969e51e2f0e8e", null ],
+    [ "_RavenousworgGUID", "df/d8a/a22063.html#aa2a5e45366be9f89221453e00179e1a3", null ]
 ];

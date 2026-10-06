@@ -1,5 +1,7 @@
 var a30171 =
 [
-    [ "SetUp", "db/d3f/a30171.html#a00b4e88a208a6e930244a37d4257d971", null ],
-    [ "_scenario", "db/d3f/a30171.html#a39b6b0e42a22735909b0edf6de29d5f1", null ]
+    [ "SetUp", "db/d3f/a30171.html#ab58c026bc6bbcf94aaec896c654e949f", null ],
+    [ "DAGGER_SPEED", "db/d3f/a30171.html#a2e9b2005f350f0aec0a905eef5bc0bb6", null ],
+    [ "SWORD_SPEED", "db/d3f/a30171.html#ac960eb9c5e15274b63b684d8908ed68b", null ],
+    [ "TWO_HANDED_SPEED", "db/d3f/a30171.html#a7dbbfc5825a36bf3950a8dff54e0ca5a", null ]
 ];

@@ -1,8 +1,6 @@
 var a20191 =
 [
-    [ "npc_algalon_worm_hole", "dc/d25/a20191.html#a546bd0ede2586fcbe3812698b68528d4", null ],
-    [ "JustSummoned", "dc/d25/a20191.html#a077425b35d86c007daa93fc8b1fd9717", null ],
-    [ "Reset", "dc/d25/a20191.html#a363814abdee714faddfd966b11a4fddc", null ],
-    [ "UpdateAI", "dc/d25/a20191.html#a16f644be53169adc67fc971bdeaa7263", null ],
-    [ "_summonTimer", "dc/d25/a20191.html#a033382dbd57714e815eed8ef6e4adfaf", null ]
+    [ "go_celestial_planetarium_accessAI", "de/de0/a20195.html", "de/de0/a20195" ],
+    [ "go_celestial_planetarium_access", "dc/d25/a20191.html#a20b7c895dd0fc2cb37bf3c113bf91278", null ],
+    [ "GetAI", "dc/d25/a20191.html#a4fc9ac64f7dceefbdda02297f7dfc42b", null ]
 ];

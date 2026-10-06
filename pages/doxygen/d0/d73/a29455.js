@@ -1,4 +1,5 @@
 var a29455 =
 [
-    [ "Pattern", "d0/d73/a29455.html#abcd404cd99f0a41b266db09ddae4da68", null ]
+    [ "id", "d0/d73/a29455.html#a22e48015dd880199e131089e35b1ce05", null ],
+    [ "spellId", "d0/d73/a29455.html#a956d683b42f34eae3a1ea3f8882716fd", null ]
 ];
