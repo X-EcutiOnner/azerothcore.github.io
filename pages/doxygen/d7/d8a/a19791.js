@@ -1,7 +1,5 @@
 var a19791 =
 [
-    [ "npc_naxxramas_trigger", "d7/d8a/a19791.html#a62fd64468daf378fbe2e8f18b1f002f8", null ],
-    [ "Reset", "d7/d8a/a19791.html#a5bf85ab6027ca5101df32cda6df29b28", null ],
-    [ "UpdateAI", "d7/d8a/a19791.html#acd051dd7790aa37cd2375479433509cb", null ],
-    [ "_events", "d7/d8a/a19791.html#a1ab25fd0b40f373d30b0f60462dd276b", null ]
+    [ "npc_mr_bigglesworth", "d7/d8a/a19791.html#a51e81be4146e8e40a82ecf4018cb955d", null ],
+    [ "JustDied", "d7/d8a/a19791.html#a3d5957253ef3af4f48f5bfaf4d93ce0f", null ]
 ];

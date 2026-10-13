@@ -1,8 +1,8 @@
 var a01562 =
 [
-    [ "boss_razorgore", "db/d12/a13063.html", "db/d12/a13063" ],
-    [ "go_orb_of_domination", "d7/de0/a13067.html", "d7/de0/a13067" ],
-    [ "spell_egg_event", "d8/dbc/a13071.html", "d8/dbc/a13071" ],
+    [ "boss_razorgore", "d7/de0/a13067.html", "d7/de0/a13067" ],
+    [ "go_orb_of_domination", "d8/dbc/a13071.html", "d8/dbc/a13071" ],
+    [ "spell_egg_event", "d0/d88/a13075.html", "d0/d88/a13075" ],
     [ "EVENTS", "d2/dc1/a01562.html#a0383e5bf22653a832beeabda82c1eeb3", [
       [ "EVENT_CLEAVE", "d2/dc1/a01562.html#a0383e5bf22653a832beeabda82c1eeb3ad4266671217cc53e473a6844d92ef36a", null ],
       [ "EVENT_STOMP", "d2/dc1/a01562.html#a0383e5bf22653a832beeabda82c1eeb3aae6a7bd26e8ee17a505a5f6c6f720316", null ],
@@ -844,6 +844,8 @@ var a01562 =
       [ "SPELL_ARMAGEDDON_MISSILE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca8c377b8b69d0dbe801ea2d87064096b3", null ],
       [ "SPELL_CUSTOM_08_STATE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cae69e2264948bdd529250fbebad159275", null ],
       [ "SPELL_DESTROY_ALL_DRAKES", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca7485400f7f3c06376aba102ad64ffddf", null ],
+      [ "SPELL_KNOCKBACK", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca27fe30ac398369e590388303632044c8", null ],
+      [ "SPELL_SWAT", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cad0ed6ff1cfea07c54007f4d3a4fc1d78", null ],
       [ "SPELL_SINISTER_REFLECTION_SUMMON", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca71f16716214f1f22b82cc0a0e0ea4c82", null ],
       [ "SPELL_SINISTER_REFLECTION_CLASS", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca694ff4e39c65fe5ba7f0abd5e7da9091", null ],
       [ "SPELL_SINISTER_REFLECTION_CLONE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cab8620ab50f2f9bd8645774fcc6230a0b", null ],

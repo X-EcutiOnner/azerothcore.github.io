@@ -218,10 +218,10 @@ Additional Inherited Members</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 9539</span>        : <a class="code hl_function" href="../../d6/d44/a11971.html#a27df2d4c2d8c39b06a3e11681e16876e">WorldObjectSpellAreaTargetCheck</a>(range, position, caster, caster, spellInfo, selectionType, condList)</div>
-<div class="line"><span class="lineno"> 9540</span>    {</div>
-<div class="line"><span class="lineno"> 9541</span>    }</div>
-<div class="ttc" id="aa11971_html_a27df2d4c2d8c39b06a3e11681e16876e"><div class="ttname"><a href="../../d6/d44/a11971.html#a27df2d4c2d8c39b06a3e11681e16876e">Acore::WorldObjectSpellAreaTargetCheck::WorldObjectSpellAreaTargetCheck</a></div><div class="ttdeci">WorldObjectSpellAreaTargetCheck(float range, Position const *position, WorldObject *caster, WorldObject *referer, SpellInfo const *spellInfo, SpellTargetCheckTypes selectionType, ConditionList *condList, Acore::WorldObjectSpellAreaTargetSearchReason searchReason=Acore::WorldObjectSpellAreaTargetSearchReason::Area, SpellTargetReferenceTypes referenceType=TARGET_REFERENCE_TYPE_CASTER)</div><div class="ttdef"><b>Definition:</b> Spell.cpp:9441</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 9545</span>        : <a class="code hl_function" href="../../d6/d44/a11971.html#a27df2d4c2d8c39b06a3e11681e16876e">WorldObjectSpellAreaTargetCheck</a>(range, position, caster, caster, spellInfo, selectionType, condList)</div>
+<div class="line"><span class="lineno"> 9546</span>    {</div>
+<div class="line"><span class="lineno"> 9547</span>    }</div>
+<div class="ttc" id="aa11971_html_a27df2d4c2d8c39b06a3e11681e16876e"><div class="ttname"><a href="../../d6/d44/a11971.html#a27df2d4c2d8c39b06a3e11681e16876e">Acore::WorldObjectSpellAreaTargetCheck::WorldObjectSpellAreaTargetCheck</a></div><div class="ttdeci">WorldObjectSpellAreaTargetCheck(float range, Position const *position, WorldObject *caster, WorldObject *referer, SpellInfo const *spellInfo, SpellTargetCheckTypes selectionType, ConditionList *condList, Acore::WorldObjectSpellAreaTargetSearchReason searchReason=Acore::WorldObjectSpellAreaTargetSearchReason::Area, SpellTargetReferenceTypes referenceType=TARGET_REFERENCE_TYPE_CASTER)</div><div class="ttdef"><b>Definition:</b> Spell.cpp:9447</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -241,26 +241,26 @@ Additional Inherited Members</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 9544</span>    {</div>
-<div class="line"><span class="lineno"> 9545</span>        <span class="comment">// return all targets on missile trajectory (0 - size of a missile)</span></div>
-<div class="line"><span class="lineno"> 9546</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../dd/dfe/a11963.html#ad6f0ab91ac6063294dcd8c5e3dc14e23">_caster</a>-&gt;<a class="code hl_function" href="../../d7/dc3/a08931.html#a0c809407f6a671597467291f811e4a27">HasInLine</a>(target, target-&gt;<a class="code hl_function" href="../../d4/d08/a08883.html#ae93cbe6fc0feed133ffa419cf6771c19">GetCombatReach</a>(), <a class="code hl_define" href="../../d6/d95/a02726.html#aa07f41c20176d114eb5a020a709a04f5">TRAJECTORY_MISSILE_SIZE</a>))</div>
-<div class="line"><span class="lineno"> 9547</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 9548</span> </div>
-<div class="line"><span class="lineno"> 9549</span>        <span class="keywordflow">if</span> (target-&gt;<a class="code hl_function" href="../../d7/dc3/a08931.html#a2c4639bb74233e1c02c99c465e28895e">GetExactDist2d</a>(<a class="code hl_variable" href="../../d6/d44/a11971.html#a680c45dd148161657da011a1772375ca">_position</a>) &gt; <a class="code hl_variable" href="../../d6/d44/a11971.html#a4ee3762b4a7f35d252cbb5337d61d92c">_range</a>)</div>
-<div class="line"><span class="lineno"> 9550</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 9551</span> </div>
-<div class="line"><span class="lineno"> 9552</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/dfe/a11963.html#a2ae263977948d2195b22a737c36bad20">WorldObjectSpellTargetCheck::operator ()</a>(target);</div>
-<div class="line"><span class="lineno"> 9553</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 9550</span>    {</div>
+<div class="line"><span class="lineno"> 9551</span>        <span class="comment">// return all targets on missile trajectory (0 - size of a missile)</span></div>
+<div class="line"><span class="lineno"> 9552</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../dd/dfe/a11963.html#ad6f0ab91ac6063294dcd8c5e3dc14e23">_caster</a>-&gt;<a class="code hl_function" href="../../d7/dc3/a08931.html#a0c809407f6a671597467291f811e4a27">HasInLine</a>(target, target-&gt;<a class="code hl_function" href="../../d4/d08/a08883.html#ae93cbe6fc0feed133ffa419cf6771c19">GetCombatReach</a>(), <a class="code hl_define" href="../../d6/d95/a02726.html#aa07f41c20176d114eb5a020a709a04f5">TRAJECTORY_MISSILE_SIZE</a>))</div>
+<div class="line"><span class="lineno"> 9553</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 9554</span> </div>
+<div class="line"><span class="lineno"> 9555</span>        <span class="keywordflow">if</span> (target-&gt;<a class="code hl_function" href="../../d7/dc3/a08931.html#a2c4639bb74233e1c02c99c465e28895e">GetExactDist2d</a>(<a class="code hl_variable" href="../../d6/d44/a11971.html#a680c45dd148161657da011a1772375ca">_position</a>) &gt; <a class="code hl_variable" href="../../d6/d44/a11971.html#a4ee3762b4a7f35d252cbb5337d61d92c">_range</a>)</div>
+<div class="line"><span class="lineno"> 9556</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 9557</span> </div>
+<div class="line"><span class="lineno"> 9558</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/dfe/a11963.html#a2ae263977948d2195b22a737c36bad20">WorldObjectSpellTargetCheck::operator ()</a>(target);</div>
+<div class="line"><span class="lineno"> 9559</span>    }</div>
 <div class="ttc" id="aa02726_html_aa07f41c20176d114eb5a020a709a04f5"><div class="ttname"><a href="../../d6/d95/a02726.html#aa07f41c20176d114eb5a020a709a04f5">TRAJECTORY_MISSILE_SIZE</a></div><div class="ttdeci">#define TRAJECTORY_MISSILE_SIZE</div><div class="ttdef"><b>Definition:</b> Spell.h:51</div></div>
 <div class="ttc" id="aa08883_html_ae93cbe6fc0feed133ffa419cf6771c19"><div class="ttname"><a href="../../d4/d08/a08883.html#ae93cbe6fc0feed133ffa419cf6771c19">WorldObject::GetCombatReach</a></div><div class="ttdeci">virtual float GetCombatReach() const</div><div class="ttdef"><b>Definition:</b> Object.h:513</div></div>
 <div class="ttc" id="aa08931_html_a0c809407f6a671597467291f811e4a27"><div class="ttname"><a href="../../d7/dc3/a08931.html#a0c809407f6a671597467291f811e4a27">Position::HasInLine</a></div><div class="ttdeci">bool HasInLine(Position const *pos, float width) const</div><div class="ttdef"><b>Definition:</b> Position.cpp:43</div></div>
 <div class="ttc" id="aa08931_html_a2c4639bb74233e1c02c99c465e28895e"><div class="ttname"><a href="../../d7/dc3/a08931.html#a2c4639bb74233e1c02c99c465e28895e">Position::GetExactDist2d</a></div><div class="ttdeci">float GetExactDist2d(const float x, const float y) const</div><div class="ttdef"><b>Definition:</b> Position.h:170</div></div>
-<div class="ttc" id="aa11963_html_a2ae263977948d2195b22a737c36bad20"><div class="ttname"><a href="../../dd/dfe/a11963.html#a2ae263977948d2195b22a737c36bad20">Acore::WorldObjectSpellTargetCheck::operator()</a></div><div class="ttdeci">bool operator()(WorldObject *target)</div><div class="ttdef"><b>Definition:</b> Spell.cpp:9356</div></div>
+<div class="ttc" id="aa11963_html_a2ae263977948d2195b22a737c36bad20"><div class="ttname"><a href="../../dd/dfe/a11963.html#a2ae263977948d2195b22a737c36bad20">Acore::WorldObjectSpellTargetCheck::operator()</a></div><div class="ttdeci">bool operator()(WorldObject *target)</div><div class="ttdef"><b>Definition:</b> Spell.cpp:9357</div></div>
 <div class="ttc" id="aa11963_html_ad6f0ab91ac6063294dcd8c5e3dc14e23"><div class="ttname"><a href="../../dd/dfe/a11963.html#ad6f0ab91ac6063294dcd8c5e3dc14e23">Acore::WorldObjectSpellTargetCheck::_caster</a></div><div class="ttdeci">WorldObject * _caster</div><div class="ttdef"><b>Definition:</b> Spell.h:816</div></div>
 <div class="ttc" id="aa11971_html_a4ee3762b4a7f35d252cbb5337d61d92c"><div class="ttname"><a href="../../d6/d44/a11971.html#a4ee3762b4a7f35d252cbb5337d61d92c">Acore::WorldObjectSpellAreaTargetCheck::_range</a></div><div class="ttdeci">float _range</div><div class="ttdef"><b>Definition:</b> Spell.h:840</div></div>
 <div class="ttc" id="aa11971_html_a680c45dd148161657da011a1772375ca"><div class="ttname"><a href="../../d6/d44/a11971.html#a680c45dd148161657da011a1772375ca">Acore::WorldObjectSpellAreaTargetCheck::_position</a></div><div class="ttdeci">Position const  * _position</div><div class="ttdef"><b>Definition:</b> Spell.h:841</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00816">Acore::WorldObjectSpellTargetCheck::_caster</a>, <a class="el" href="../../#l00841">Acore::WorldObjectSpellAreaTargetCheck::_position</a>, <a class="el" href="../../#l00840">Acore::WorldObjectSpellAreaTargetCheck::_range</a>, <a class="el" href="../../#l00513">WorldObject::GetCombatReach()</a>, <a class="el" href="../../#l00170">Position::GetExactDist2d()</a>, <a class="el" href="../../#l00043">Position::HasInLine()</a>, <a class="el" href="../../#l09356">Acore::WorldObjectSpellTargetCheck::operator()()</a>, and <a class="el" href="../../#l00051">TRAJECTORY_MISSILE_SIZE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00816">Acore::WorldObjectSpellTargetCheck::_caster</a>, <a class="el" href="../../#l00841">Acore::WorldObjectSpellAreaTargetCheck::_position</a>, <a class="el" href="../../#l00840">Acore::WorldObjectSpellAreaTargetCheck::_range</a>, <a class="el" href="../../#l00513">WorldObject::GetCombatReach()</a>, <a class="el" href="../../#l00170">Position::GetExactDist2d()</a>, <a class="el" href="../../#l00043">Position::HasInLine()</a>, <a class="el" href="../../#l09357">Acore::WorldObjectSpellTargetCheck::operator()()</a>, and <a class="el" href="../../#l00051">TRAJECTORY_MISSILE_SIZE</a>.</p>
 
 </div>
 </div>
@@ -270,7 +270,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dd/db3/a05121.html">Acore</a></li><li class="navelem"><a class="el" href="../../d2/d61/a11979.html">WorldObjectSpellTrajTargetCheck</a></li>
-    <li class="footer">Generated on Tue Oct 6 2026 01:27:22 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Tue Oct 13 2026 02:16:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,12 +1,12 @@
 var a02294 =
 [
-    [ "npc_love_in_air_supply_sentry", "d5/d69/a15027.html", "d5/d69/a15027" ],
-    [ "npc_love_in_air_snivel", "dc/dc5/a15031.html", "dc/dc5/a15031" ],
-    [ "npc_love_in_air_snivel_real", "d3/de5/a15035.html", "d3/de5/a15035" ],
-    [ "spell_love_in_air_perfume_immune", "d7/d5e/a15039.html", "d7/d5e/a15039" ],
-    [ "spell_item_create_heart_candy", "d4/d4f/a15043.html", "d4/d4f/a15043" ],
-    [ "spell_love_is_in_the_air_romantic_picnic", "d9/da8/a15047.html", "d9/da8/a15047" ],
-    [ "spell_gen_aura_service_uniform", "de/d07/a15051.html", "de/d07/a15051" ],
+    [ "npc_love_in_air_supply_sentry", "dc/dc5/a15031.html", "dc/dc5/a15031" ],
+    [ "npc_love_in_air_snivel", "d3/de5/a15035.html", "d3/de5/a15035" ],
+    [ "npc_love_in_air_snivel_real", "d7/d5e/a15039.html", "d7/d5e/a15039" ],
+    [ "spell_love_in_air_perfume_immune", "d4/d4f/a15043.html", "d4/d4f/a15043" ],
+    [ "spell_item_create_heart_candy", "d9/da8/a15047.html", "d9/da8/a15047" ],
+    [ "spell_love_is_in_the_air_romantic_picnic", "de/d07/a15051.html", "de/d07/a15051" ],
+    [ "spell_gen_aura_service_uniform", "da/d0f/a15055.html", "da/d0f/a15055" ],
     [ "CreateHeartCandy", "dd/dae/a02294.html#a2b366c81ccbae806e6b8b58cd8ee079a", [
       [ "SPELL_CREATE_HEART_CANDY_1", "dd/dae/a02294.html#a2b366c81ccbae806e6b8b58cd8ee079aa31a214038bcf7d15ed56ca53ad12c8a4", null ],
       [ "SPELL_CREATE_HEART_CANDY_2", "dd/dae/a02294.html#a2b366c81ccbae806e6b8b58cd8ee079aacb451943546eb8cc10fe892cd4573edf", null ],
@@ -786,6 +786,8 @@ var a02294 =
       [ "SPELL_ARMAGEDDON_MISSILE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca8c377b8b69d0dbe801ea2d87064096b3", null ],
       [ "SPELL_CUSTOM_08_STATE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cae69e2264948bdd529250fbebad159275", null ],
       [ "SPELL_DESTROY_ALL_DRAKES", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca7485400f7f3c06376aba102ad64ffddf", null ],
+      [ "SPELL_KNOCKBACK", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca27fe30ac398369e590388303632044c8", null ],
+      [ "SPELL_SWAT", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cad0ed6ff1cfea07c54007f4d3a4fc1d78", null ],
       [ "SPELL_SINISTER_REFLECTION_SUMMON", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca71f16716214f1f22b82cc0a0e0ea4c82", null ],
       [ "SPELL_SINISTER_REFLECTION_CLASS", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca694ff4e39c65fe5ba7f0abd5e7da9091", null ],
       [ "SPELL_SINISTER_REFLECTION_CLONE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cab8620ab50f2f9bd8645774fcc6230a0b", null ],

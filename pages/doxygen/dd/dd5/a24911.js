@@ -1,7 +1,7 @@
 var a24911 =
 [
-    [ "OnRemove", "dd/dd5/a24911.html#aae9f02415a256ce01b81c3dd6fdafb33", null ],
-    [ "PrepareAuraScript", "dd/dd5/a24911.html#ad27880f797137cae09381e860727e2f7", null ],
-    [ "Register", "dd/dd5/a24911.html#a6c105609c1ee61a8f845018550b2e3ba", null ],
-    [ "Validate", "dd/dd5/a24911.html#ac1f03d22c5fdb1c07a0e0859e08bd561", null ]
+    [ "AfterApply", "dd/dd5/a24911.html#adae232af9445638b3d54e81d414483b7", null ],
+    [ "AfterRemove", "dd/dd5/a24911.html#abf458f1f1dd5abfbba88325cad044ab1", null ],
+    [ "PrepareAuraScript", "dd/dd5/a24911.html#a305c532aa0e8740e8c8a87a6ba0abcff", null ],
+    [ "Register", "dd/dd5/a24911.html#abff75ea597dcc017a359a5ef3ada4314", null ]
 ];

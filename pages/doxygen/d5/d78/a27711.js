@@ -1,7 +1,7 @@
 var a27711 =
 [
-    [ "HandleScriptEffect", "d5/d78/a27711.html#a5bbcb05b82e0953c82f2a0d96bd79eab", null ],
-    [ "PrepareSpellScript", "d5/d78/a27711.html#a7462fbeab2254046e12a262418ec0d2c", null ],
-    [ "Register", "d5/d78/a27711.html#ac14625182eb0289d8536ac322500ab45", null ],
-    [ "Validate", "d5/d78/a27711.html#a190b802f3b09655886e5bbb9980375af", null ]
+    [ "HandleDummy", "d5/d78/a27711.html#abd35c974f5ebec4c8845c05ab4f6d309", null ],
+    [ "PrepareSpellScript", "d5/d78/a27711.html#a99deca1c5c8631342be400cb863eefb2", null ],
+    [ "Register", "d5/d78/a27711.html#aa5ecc51b030fe7280e824ade641216d3", null ],
+    [ "Validate", "d5/d78/a27711.html#a731503d3769718695d109ad71160e67a", null ]
 ];

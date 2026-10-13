@@ -1,12 +1,12 @@
 var a01436 =
 [
-    [ "boss_kelthuzad", "d0/d26/a19635.html", "d0/d26/a19635" ],
-    [ "boss_kelthuzad::boss_kelthuzadAI", "dc/d04/a19639.html", "dc/d04/a19639" ],
-    [ "boss_kelthuzad_minion", "dc/d73/a19643.html", "dc/d73/a19643" ],
-    [ "boss_kelthuzad_minion::boss_kelthuzad_minionAI", "db/d6a/a19647.html", "db/d6a/a19647" ],
-    [ "spell_kelthuzad_frost_blast", "d4/d16/a19651.html", "d4/d16/a19651" ],
-    [ "spell_kelthuzad_detonate_mana_aura", "dc/d28/a19655.html", "dc/d28/a19655" ],
-    [ "spell_kelthuzad_void_blast", "d7/d31/a19659.html", "d7/d31/a19659" ],
+    [ "boss_kelthuzad", "dc/d73/a19643.html", "dc/d73/a19643" ],
+    [ "boss_kelthuzad::boss_kelthuzadAI", "db/d6a/a19647.html", "db/d6a/a19647" ],
+    [ "boss_kelthuzad_minion", "d4/d16/a19651.html", "d4/d16/a19651" ],
+    [ "boss_kelthuzad_minion::boss_kelthuzad_minionAI", "dc/d28/a19655.html", "dc/d28/a19655" ],
+    [ "spell_kelthuzad_frost_blast", "d7/d31/a19659.html", "d7/d31/a19659" ],
+    [ "spell_kelthuzad_detonate_mana_aura", "df/d95/a19663.html", "df/d95/a19663" ],
+    [ "spell_kelthuzad_void_blast", "d9/d49/a19667.html", "d9/d49/a19667" ],
     [ "Event", "dc/d85/a01436.html#a5667b805d857c6d28f83f6038a0272d3", [
       [ "EVENT_SUMMON_SOLDIER", "dc/d85/a01436.html#a5667b805d857c6d28f83f6038a0272d3a84eac75e4274b66a6397ab6c0d0f98f7", null ],
       [ "EVENT_SUMMON_UNSTOPPABLE_ABOMINATION", "dc/d85/a01436.html#a5667b805d857c6d28f83f6038a0272d3af49aa46c23f4eecfc8d7ec8de4ce7d8d", null ],
@@ -1426,6 +1426,8 @@ var a01436 =
       [ "SPELL_ARMAGEDDON_MISSILE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca8c377b8b69d0dbe801ea2d87064096b3", null ],
       [ "SPELL_CUSTOM_08_STATE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cae69e2264948bdd529250fbebad159275", null ],
       [ "SPELL_DESTROY_ALL_DRAKES", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca7485400f7f3c06376aba102ad64ffddf", null ],
+      [ "SPELL_KNOCKBACK", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca27fe30ac398369e590388303632044c8", null ],
+      [ "SPELL_SWAT", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cad0ed6ff1cfea07c54007f4d3a4fc1d78", null ],
       [ "SPELL_SINISTER_REFLECTION_SUMMON", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca71f16716214f1f22b82cc0a0e0ea4c82", null ],
       [ "SPELL_SINISTER_REFLECTION_CLASS", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca694ff4e39c65fe5ba7f0abd5e7da9091", null ],
       [ "SPELL_SINISTER_REFLECTION_CLONE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cab8620ab50f2f9bd8645774fcc6230a0b", null ],

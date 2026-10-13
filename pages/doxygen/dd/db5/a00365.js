@@ -1,9 +1,9 @@
 var a00365 =
 [
-    [ "boss_mechano_lord_capacitus", "d9/dc5/a24087.html", "d9/dc5/a24087" ],
-    [ "spell_capacitus_polarity_charge", "dd/d40/a24091.html", "dd/d40/a24091" ],
-    [ "spell_capacitus_polarity_charge_aura", "d9/de2/a24095.html", "d9/de2/a24095" ],
-    [ "spell_capacitus_polarity_shift", "dd/d7d/a24099.html", "dd/d7d/a24099" ],
+    [ "boss_mechano_lord_capacitus", "dd/d7d/a24099.html", "dd/d7d/a24099" ],
+    [ "spell_capacitus_polarity_charge", "d5/d35/a24103.html", "d5/d35/a24103" ],
+    [ "spell_capacitus_polarity_charge_aura", "d2/d5b/a24107.html", "d2/d5b/a24107" ],
+    [ "spell_capacitus_polarity_shift", "de/d9a/a24111.html", "de/d9a/a24111" ],
     [ "polarityShift", "dd/db5/a00365.html#adfcb85d87bd0304f358a9d2549e866aa", [
       [ "SPELL_POSITIVE_POLARITY", "dd/db5/a00365.html#adfcb85d87bd0304f358a9d2549e866aaa795738ba63917afbc0763ca952c1acf2", null ],
       [ "SPELL_POSITIVE_CHARGE_STACK", "dd/db5/a00365.html#adfcb85d87bd0304f358a9d2549e866aaa9a8ba6564944a1455aee4c76339e7ae5", null ],
@@ -730,6 +730,8 @@ var a00365 =
       [ "SPELL_ARMAGEDDON_MISSILE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca8c377b8b69d0dbe801ea2d87064096b3", null ],
       [ "SPELL_CUSTOM_08_STATE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cae69e2264948bdd529250fbebad159275", null ],
       [ "SPELL_DESTROY_ALL_DRAKES", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca7485400f7f3c06376aba102ad64ffddf", null ],
+      [ "SPELL_KNOCKBACK", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca27fe30ac398369e590388303632044c8", null ],
+      [ "SPELL_SWAT", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cad0ed6ff1cfea07c54007f4d3a4fc1d78", null ],
       [ "SPELL_SINISTER_REFLECTION_SUMMON", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca71f16716214f1f22b82cc0a0e0ea4c82", null ],
       [ "SPELL_SINISTER_REFLECTION_CLASS", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca694ff4e39c65fe5ba7f0abd5e7da9091", null ],
       [ "SPELL_SINISTER_REFLECTION_CLONE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cab8620ab50f2f9bd8645774fcc6230a0b", null ],

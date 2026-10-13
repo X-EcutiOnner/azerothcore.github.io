@@ -1,7 +1,7 @@
 var a25987 =
 [
-    [ "HandleJump", "da/d23/a25987.html#ac70f6d53e85af1ee2591e761e21872db", null ],
-    [ "HandleScriptEffect", "da/d23/a25987.html#abdaa3c5356f84429cf6d2e053a3238ff", null ],
-    [ "PrepareSpellScript", "da/d23/a25987.html#a7daa7cef660e9f08b8e60c7788783c99", null ],
-    [ "Register", "da/d23/a25987.html#a0cbd40958551e0f38850a9fdcd6f0048", null ]
+    [ "HandleScriptEffect", "da/d23/a25987.html#acbcc05fa433f5bf75998b15e4e25fdad", null ],
+    [ "PrepareSpellScript", "da/d23/a25987.html#adf5a3b94012ac871c70f5782d57ae1cd", null ],
+    [ "Register", "da/d23/a25987.html#a00596a3f8f0699c25e52a5778d59a2b2", null ],
+    [ "SelectTarget", "da/d23/a25987.html#a6a59b7ce696f959b2026cf8088079e89", null ]
 ];

@@ -1,10 +1,10 @@
 var a00941 =
 [
-    [ "boss_dred", "dc/d36/a17243.html", "dc/d36/a17243" ],
-    [ "boss_dred::boss_dredAI", "d4/de3/a17247.html", "d4/de3/a17247" ],
-    [ "spell_dred_grievious_bite_aura", "df/d98/a17251.html", "df/d98/a17251" ],
-    [ "spell_dred_raptor_call", "db/d99/a17255.html", "db/d99/a17255" ],
-    [ "achievement_better_off_dred", "d3/d26/a17259.html", "d3/d26/a17259" ],
+    [ "boss_dred", "df/d98/a17251.html", "df/d98/a17251" ],
+    [ "boss_dred::boss_dredAI", "db/d99/a17255.html", "db/d99/a17255" ],
+    [ "spell_dred_grievious_bite_aura", "d3/d26/a17259.html", "d3/d26/a17259" ],
+    [ "spell_dred_raptor_call", "dd/d4a/a17263.html", "dd/d4a/a17263" ],
+    [ "achievement_better_off_dred", "d1/d8d/a17267.html", "d1/d8d/a17267" ],
     [ "Misc", "d6/dad/a00941.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "NEFARIUS_PATH_2", "dd/d8d/a01667.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],
       [ "NEFARIUS_PATH_3", "dd/d8d/a01667.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6596b4c264ab163a34c17c6ea798adcb", null ],
@@ -1403,6 +1403,8 @@ var a00941 =
       [ "SPELL_ARMAGEDDON_MISSILE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca8c377b8b69d0dbe801ea2d87064096b3", null ],
       [ "SPELL_CUSTOM_08_STATE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cae69e2264948bdd529250fbebad159275", null ],
       [ "SPELL_DESTROY_ALL_DRAKES", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca7485400f7f3c06376aba102ad64ffddf", null ],
+      [ "SPELL_KNOCKBACK", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca27fe30ac398369e590388303632044c8", null ],
+      [ "SPELL_SWAT", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cad0ed6ff1cfea07c54007f4d3a4fc1d78", null ],
       [ "SPELL_SINISTER_REFLECTION_SUMMON", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca71f16716214f1f22b82cc0a0e0ea4c82", null ],
       [ "SPELL_SINISTER_REFLECTION_CLASS", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca694ff4e39c65fe5ba7f0abd5e7da9091", null ],
       [ "SPELL_SINISTER_REFLECTION_CLONE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cab8620ab50f2f9bd8645774fcc6230a0b", null ],

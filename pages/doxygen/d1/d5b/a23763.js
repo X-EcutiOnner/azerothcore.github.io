@@ -1,8 +1,12 @@
 var a23763 =
 [
-    [ "instance_hellfire_ramparts_InstanceMapScript", "d1/d5b/a23763.html#aebc047b45cb4560a38df89db75f8efab", null ],
-    [ "Initialize", "d1/d5b/a23763.html#a115a36ec26e15e23be4d78250d86d814", null ],
-    [ "OnGameObjectCreate", "d1/d5b/a23763.html#a0639fcd867616d1f04aacde44020bb30", null ],
-    [ "SetBossState", "d1/d5b/a23763.html#a7a38526ca7b9a7c7c04231f8f8efd2f7", null ],
-    [ "felIronChestGUID", "d1/d5b/a23763.html#a7cfcac5dbe4562268679ddceaf8ec8ea", null ]
+    [ "boss_watchkeeper_gargolmar", "d1/d5b/a23763.html#acb4212c6f852f50f3edfa3880806a9d2", null ],
+    [ "JustDied", "d1/d5b/a23763.html#a39be5796b39bea913105fc48dda0d186", null ],
+    [ "JustEngagedWith", "d1/d5b/a23763.html#a9e3194d02d0d3b66ef38118aa32ae684", null ],
+    [ "KilledUnit", "d1/d5b/a23763.html#a22736c2680f41cfd3443a76cd4de9352", null ],
+    [ "MoveInLineOfSight", "d1/d5b/a23763.html#adec9837fdb2595ce57acffb279a7d011", null ],
+    [ "Reset", "d1/d5b/a23763.html#a356b7fe9071b073b74b21913e35e7408", null ],
+    [ "UpdateAI", "d1/d5b/a23763.html#a1453d26ccbd3e78f46cb33f054d57759", null ],
+    [ "_hasSpoken", "d1/d5b/a23763.html#a3cd89b2567668b52d96b02af7eb85db8", null ],
+    [ "_taunted", "d1/d5b/a23763.html#ab5623501bf92e119806ba4e2ccd0cd7a", null ]
 ];

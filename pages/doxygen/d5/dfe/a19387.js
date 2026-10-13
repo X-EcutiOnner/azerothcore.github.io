@@ -1,8 +1,6 @@
 var a19387 =
 [
-    [ "Class", "d5/dfe/a19387.html#a095390e9023609f5836c4481ed79e1af", null ],
-    [ "cooldown_ms", "d5/dfe/a19387.html#acfcb10f019ebaf4d2130bcdbc059c7e7", null ],
-    [ "id", "d5/dfe/a19387.html#ae9fdf89271339b93f306c4aa0871f844", null ],
-    [ "range", "d5/dfe/a19387.html#aad126da206abceb6a66dcda1cbd3b28b", null ],
-    [ "targetType", "d5/dfe/a19387.html#ae5fc8cb423536f631591d3b72bfd06dd", null ]
+    [ "npc_icc_valkyr_heraldAI", "d2/d32/a19391.html", "d2/d32/a19391" ],
+    [ "npc_icc_valkyr_herald", "d5/dfe/a19387.html#a9d06e0dec8cb960d34c2089c1c0d8ccb", null ],
+    [ "GetAI", "d5/dfe/a19387.html#a7537269841d0380d2dc9e4641705acf9", null ]
 ];

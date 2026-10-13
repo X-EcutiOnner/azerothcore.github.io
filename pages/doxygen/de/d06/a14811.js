@@ -1,6 +1,6 @@
 var a14811 =
 [
-    [ "HandleAfterHit", "de/d06/a14811.html#a4a3122d1b69baeae76f1ae3b6818bfb5", null ],
-    [ "PrepareSpellScript", "de/d06/a14811.html#a284796ec70bdfaea9919f54da94f0021", null ],
-    [ "Register", "de/d06/a14811.html#a30dcb608c20df17de9597ece1930d59d", null ]
+    [ "HandleEffectApply", "de/d06/a14811.html#a06d50e8c0f7bfd1b055d8a3f5c14d357", null ],
+    [ "PrepareAuraScript", "de/d06/a14811.html#a5f8abd33848c554f9a530ad23c86a7a0", null ],
+    [ "Register", "de/d06/a14811.html#a2b39daf6fe325cfa909b964da62c2571", null ]
 ];

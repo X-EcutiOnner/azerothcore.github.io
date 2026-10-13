@@ -1,8 +1,7 @@
 var a19831 =
 [
-    [ "Load", "db/d5b/a19831.html#a7bb0a7c71fb3b9958226069ed6e3399b", null ],
-    [ "OnRemove", "db/d5b/a19831.html#a1d9a8a8b289f565712ab79e9857f6eb7", null ],
-    [ "PrepareAuraScript", "db/d5b/a19831.html#aae6c3a215b09fd2270976190600e2cc4", null ],
-    [ "Register", "db/d5b/a19831.html#aa2c970e4e5b84d79960023c79e95f9c3", null ],
-    [ "Validate", "db/d5b/a19831.html#ae4ac76269793280335d76a78e5dced91", null ]
+    [ "npc_eoe_wyrmrest_skytalon", "db/d5b/a19831.html#a8a2c264c200336b9f49f2a86f6953ff6", null ],
+    [ "IsSummonedBy", "db/d5b/a19831.html#a647ba18085c9522d8075c62ed9ce5b18", null ],
+    [ "JustDied", "db/d5b/a19831.html#a65df31829e801154ee20d55ad1c15721", null ],
+    [ "PassengerBoarded", "db/d5b/a19831.html#a350828bdc56029dcbfb863efef4d9d8e", null ]
 ];

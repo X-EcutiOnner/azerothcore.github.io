@@ -1,10 +1,6 @@
 var a26115 =
 [
-    [ "spell_item_defibrillate", "da/d4e/a26115.html#ab64fdd36fc646ca0bcb2010380199ede", null ],
-    [ "HandleScript", "da/d4e/a26115.html#a7abbc5b8e5c5231d5c6809c45b815b69", null ],
-    [ "PrepareSpellScript", "da/d4e/a26115.html#a6a7ad6c9bb9bee3b093bd06b1b259468", null ],
-    [ "Register", "da/d4e/a26115.html#ad2faa26a2874f68e8e419e59cafbf10b", null ],
-    [ "Validate", "da/d4e/a26115.html#ad871a6bef7ba074f32abe1bf062dffe1", null ],
-    [ "_chance", "da/d4e/a26115.html#a680092f30ebc6b322e5d01a1100b308c", null ],
-    [ "_failSpell", "da/d4e/a26115.html#a4cb3e7f0b0b85c57f27fe2f3ab70647b", null ]
+    [ "CheckProc", "da/d4e/a26115.html#acac962ba1cb72615772fe8bc81d24f9d", null ],
+    [ "PrepareAuraScript", "da/d4e/a26115.html#aebe1c8083ba09c21125c47843b2949da", null ],
+    [ "Register", "da/d4e/a26115.html#adde6dada6b3012c2650ba9173c6616a0", null ]
 ];

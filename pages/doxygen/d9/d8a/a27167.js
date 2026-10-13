@@ -1,7 +1,8 @@
 var a27167 =
 [
-    [ "if", "d9/d8a/a27167.html#a2b5a85e480bcd0ef5074d3bcf7eaf5cb", null ],
-    [ "PrepareAuraScript", "d9/d8a/a27167.html#aa31810077c241e77193e378cb297b7de", null ],
-    [ "Register", "d9/d8a/a27167.html#a7b8f537719a4155d1cd95a6f49cf6a3a", null ],
-    [ "AuraEffectHandleModes", "d9/d8a/a27167.html#a3113d8e7ec296fdf13c8f386ae74e0f3", null ]
+    [ "HandleEffectApply", "d9/d8a/a27167.html#aed959961fcd07649cd4914fcd38a3214", null ],
+    [ "if", "d9/d8a/a27167.html#a1518c08cb3b5cb716b8bd01692a5160d", null ],
+    [ "PrepareAuraScript", "d9/d8a/a27167.html#a42167bc6bf7992debea8582680251da4", null ],
+    [ "Register", "d9/d8a/a27167.html#aa2c23abd2b90a276bd7980cadc0397a4", null ],
+    [ "AuraEffectHandleModes", "d9/d8a/a27167.html#ac886dec8a2ce55af4ec58ab068c589fa", null ]
 ];

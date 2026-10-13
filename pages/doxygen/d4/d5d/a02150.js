@@ -1,8 +1,8 @@
 var a02150 =
 [
-    [ "npc_ouro_spawner", "df/d47/a15775.html", "df/d47/a15775" ],
-    [ "boss_ouro", "d3/da9/a15779.html", "d3/da9/a15779" ],
-    [ "npc_dirt_mound", "d9/d01/a15783.html", "d9/d01/a15783" ],
+    [ "npc_ouro_spawner", "d3/da9/a15779.html", "d3/da9/a15779" ],
+    [ "boss_ouro", "d9/d01/a15783.html", "d9/d01/a15783" ],
+    [ "npc_dirt_mound", "d0/d6c/a15787.html", "d0/d6c/a15787" ],
     [ "Misc", "d4/d5d/a02150.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "NEFARIUS_PATH_2", "dd/d8d/a01667.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],
       [ "NEFARIUS_PATH_3", "dd/d8d/a01667.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6596b4c264ab163a34c17c6ea798adcb", null ],
@@ -1401,6 +1401,8 @@ var a02150 =
       [ "SPELL_ARMAGEDDON_MISSILE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca8c377b8b69d0dbe801ea2d87064096b3", null ],
       [ "SPELL_CUSTOM_08_STATE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cae69e2264948bdd529250fbebad159275", null ],
       [ "SPELL_DESTROY_ALL_DRAKES", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca7485400f7f3c06376aba102ad64ffddf", null ],
+      [ "SPELL_KNOCKBACK", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca27fe30ac398369e590388303632044c8", null ],
+      [ "SPELL_SWAT", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cad0ed6ff1cfea07c54007f4d3a4fc1d78", null ],
       [ "SPELL_SINISTER_REFLECTION_SUMMON", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca71f16716214f1f22b82cc0a0e0ea4c82", null ],
       [ "SPELL_SINISTER_REFLECTION_CLASS", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca694ff4e39c65fe5ba7f0abd5e7da9091", null ],
       [ "SPELL_SINISTER_REFLECTION_CLONE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cab8620ab50f2f9bd8645774fcc6230a0b", null ],
@@ -3949,5 +3951,7 @@ var a02150 =
       [ "SPELL_SUMMON_NETHER_WRAITH_3", "db/ddc/a00353.html#a5bd342133be8c2137b831460acc9298ca504d01cfc63a8b604bcd1b8e4885a5df", null ],
       [ "SPELL_SUMMON_NETHER_WRAITH_4", "db/ddc/a00353.html#a5bd342133be8c2137b831460acc9298cab148123342fab6e991d3dcc39a339386", null ]
     ] ],
-    [ "AddSC_boss_ouro", "d4/d5d/a02150.html#a5c8fc310b576bfdc32178489752bcba9", null ]
+    [ "AddSC_boss_ouro", "d4/d5d/a02150.html#a5c8fc310b576bfdc32178489752bcba9", null ],
+    [ "HasTargetableThreat", "d4/d5d/a02150.html#a2e2b4b9ce0ec72e5c012a300da911dc4", null ],
+    [ "IsTargetableAtRange", "d4/d5d/a02150.html#aef4b54aefb4c706ad942f3824a00c158", null ]
 ];

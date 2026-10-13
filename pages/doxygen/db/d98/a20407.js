@@ -1,7 +1,7 @@
 var a20407 =
 [
-    [ "HandleScript", "db/d98/a20407.html#a9580f04e1543262026818f0944bb96c3", null ],
-    [ "PrepareSpellScript", "db/d98/a20407.html#a924ae640d448da777ce3ecb059c1c9b6", null ],
-    [ "Register", "db/d98/a20407.html#ac05e58e9b5618b1f079bd1c4924a0f9f", null ],
-    [ "Validate", "db/d98/a20407.html#a8fc8712a76939dea6831a9eb5b95f946", null ]
+    [ "OnPeriodic", "db/d98/a20407.html#a1dff4c7e181c86a9c6ac7df5304214c8", null ],
+    [ "PrepareAuraScript", "db/d98/a20407.html#a93b006b762bd757c606ed44da5178134", null ],
+    [ "Register", "db/d98/a20407.html#ac528c63dedbf16f1f88c3d6ffdb9ef69", null ],
+    [ "Validate", "db/d98/a20407.html#a2ee1dbb056430b9db5e9e3ead05014a5", null ]
 ];

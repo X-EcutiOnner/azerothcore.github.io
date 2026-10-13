@@ -1,7 +1,6 @@
 var a22515 =
 [
-    [ "HandleDummy", "d2/d11/a22515.html#aac2e8e5e00bf25846f36f920acf98dca", null ],
-    [ "PrepareAuraScript", "d2/d11/a22515.html#aefda37f79ba45361ad91bd79f4e8a486", null ],
-    [ "Register", "d2/d11/a22515.html#a446c71ed3f5fa2ce653148f9567fd199", null ],
-    [ "Validate", "d2/d11/a22515.html#a1a2a6547d994cdd8b375a45226b7c36f", null ]
+    [ "HandleDamage", "d2/d11/a22515.html#a7ca8b15a5dc204a11095fddb3c8d12c0", null ],
+    [ "PrepareSpellScript", "d2/d11/a22515.html#a23b6afe1e35edc4013767b119b8e0218", null ],
+    [ "Register", "d2/d11/a22515.html#a85a70f019dcd87f2ed578f041a0bc194", null ]
 ];

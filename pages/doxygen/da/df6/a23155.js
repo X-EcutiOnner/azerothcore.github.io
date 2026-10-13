@@ -1,6 +1,5 @@
 var a23155 =
 [
-    [ "PrepareSpellScript", "da/df6/a23155.html#ad786920d6180b8e2829f3a56ec50c488", null ],
-    [ "Register", "da/df6/a23155.html#a857be9f0017e0013f3e30e1d026eaf5a", null ],
-    [ "SetDest", "da/df6/a23155.html#a0ea9f9513ad607f639b28d5f8162e629", null ]
+    [ "npc_ashtongue_sorcerer", "da/df6/a23155.html#a0045af5cfbfcd2f26bcde2e2dffd04a6", null ],
+    [ "MovementInform", "da/df6/a23155.html#a56fa93f83e8a536b13667c8f780961b7", null ]
 ];

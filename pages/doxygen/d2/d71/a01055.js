@@ -1,8 +1,8 @@
 var a01055 =
 [
-    [ "ChampionPosition", "d8/d1f/a17655.html", "d8/d1f/a17655" ],
-    [ "FBSPosition", "d6/d83/a17659.html", "d6/d83/a17659" ],
-    [ "TSPosition", "d8/de9/a17663.html", "d8/de9/a17663" ],
+    [ "ChampionPosition", "d8/de9/a17663.html", "d8/de9/a17663" ],
+    [ "FBSPosition", "d9/d09/a17667.html", "d9/d09/a17667" ],
+    [ "TSPosition", "df/d5c/a17671.html", "df/d5c/a17671" ],
     [ "DataHeader", "d2/d71/a01055.html#a042491ef36459046f3866e90f15aae0d", null ],
     [ "PATH_BEGIN_VALUE", "d2/d71/a01055.html#a5e53249f20085a0a3fa19bdb577ee3c0", null ],
     [ "PitOfSaronScriptName", "d2/d71/a01055.html#ac8331e51ea541bfd050c3deb5dc0a07a", null ],
@@ -304,6 +304,7 @@ var a01055 =
       [ "DATA_ARENA_MOBS", "d2/d2f/a01586.html#afb6eb4f28419b652027fad41104a6d22ae405a4644ad229ef399425964bcbee9a", null ],
       [ "DATA_ARENA_BOSS", "d2/d2f/a01586.html#afb6eb4f28419b652027fad41104a6d22a6b452f1118390453a0a198a0e77b222b", null ],
       [ "DATA_PHALANX_ACTIVATED", "d2/d2f/a01586.html#afb6eb4f28419b652027fad41104a6d22a9aed024b657527edf9f6006b8f06992f", null ],
+      [ "DATA_LOVE_POTION_EVENT", "d2/d2f/a01586.html#afb6eb4f28419b652027fad41104a6d22ab2766ab3187804941cf5df770d8dfd90", null ],
       [ "DATA_HIGHLORD_OMOKK", "d0/da4/a01631.html#afb6eb4f28419b652027fad41104a6d22a29fa1d405bc9731e434075c768473977", null ],
       [ "DATA_SHADOW_HUNTER_VOSHGAJIN", "d0/da4/a01631.html#afb6eb4f28419b652027fad41104a6d22abd19159ba9f15227b78769ce3caa0155", null ],
       [ "DATA_WARMASTER_VOONE", "d0/da4/a01631.html#afb6eb4f28419b652027fad41104a6d22a472ea134fff9835642ba91ae5167b76c", null ],

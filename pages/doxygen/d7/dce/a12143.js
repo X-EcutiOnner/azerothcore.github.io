@@ -36,6 +36,7 @@ var a12143 =
     [ "GetDuration", "d7/dce/a12143.html#a2b5a29909fe800f007606045de187409", null ],
     [ "GetDynobjOwner", "d7/dce/a12143.html#af52d622ce5d3865fb02e0ecbb2a872ea", null ],
     [ "GetEffect", "d7/dce/a12143.html#a80b4589d9fb316ef3e53ffdc811738b4", null ],
+    [ "GetGObjCaster", "d7/dce/a12143.html#aa654480860028573ed5a36f48067d311", null ],
     [ "GetId", "d7/dce/a12143.html#afca894c30f544ccf512e0966eb7e10ce", null ],
     [ "GetMaxDuration", "d7/dce/a12143.html#a54240ef7a7f2394f3e64c84bdc7ed61b", null ],
     [ "GetOwner", "d7/dce/a12143.html#a4e53f9ab5182bab19267607e4d33c5d7", null ],

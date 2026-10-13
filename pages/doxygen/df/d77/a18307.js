@@ -1,6 +1,6 @@
 var a18307 =
 [
-    [ "npc_coldflameAI", "d9/d25/a18311.html", "d9/d25/a18311" ],
-    [ "npc_coldflame", "df/d77/a18307.html#a573b887358e2ba2281c4c119a267c33f", null ],
-    [ "GetAI", "df/d77/a18307.html#ac33d0528cdc3c3a0fb7acc4d46b1c2b1", null ]
+    [ "BoneStormMoveTargetSelector", "df/d77/a18307.html#acd13e67fbbc29137ca2b77aaf9dc0e77", null ],
+    [ "operator()", "df/d77/a18307.html#a5b53c140d38db0df8faef3dfaf5c458d", null ],
+    [ "_source", "df/d77/a18307.html#a03d8b1ec5f18398fe2963418bb319973", null ]
 ];

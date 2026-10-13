@@ -1,6 +1,6 @@
 var a17931 =
 [
-    [ "boss_deathbringer_saurfangAI", "d0/d9f/a17935.html", "d0/d9f/a17935" ],
-    [ "boss_deathbringer_saurfang", "dd/d18/a17931.html#ad19893be7dc3b4290d9b1ed3bb992e08", null ],
-    [ "GetAI", "dd/d18/a17931.html#a6bc1ef44b3ea9e860d62bf78cfa38c92", null ]
+    [ "HandleScript", "dd/d18/a17931.html#acd11d50f398857dc2a24bd2d63e52222", null ],
+    [ "PrepareSpellScript", "dd/d18/a17931.html#a3d218b009c195b6e0fab5152a95da8ad", null ],
+    [ "Register", "dd/d18/a17931.html#ad7f12515dc21ab6b19148370fd491629", null ]
 ];

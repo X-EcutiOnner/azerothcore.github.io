@@ -1,8 +1,8 @@
 var a24563 =
 [
-    [ "npc_pet_gen_wind_rider_cub", "d5/d75/a24563.html#a17e1f3155b9a9864459e48d1cd11c6a6", null ],
-    [ "UpdateAI", "d5/d75/a24563.html#a534d122522d553e106e6c7729d6c55db", null ],
-    [ "checkTimer", "d5/d75/a24563.html#a39fcfc5f5d9a630180713512db778b32", null ],
-    [ "checkTimer2", "d5/d75/a24563.html#aabeaf7a9b5b77df540e1111950860e98", null ],
-    [ "isFlying", "d5/d75/a24563.html#a57124f8172bd15a5e6c708edff41dc2f", null ]
+    [ "npc_pet_gen_valkyr_guardian", "d5/d75/a24563.html#a546f0b0b4273de8216e9f688c2d68209", null ],
+    [ "InitializeAI", "d5/d75/a24563.html#ac32c8bb1e1014015a0ab92417bbc78a9", null ],
+    [ "OwnerAttacked", "d5/d75/a24563.html#a7f0bcedd78d88cdc802ba66c0ff7d927", null ],
+    [ "UpdateAI", "d5/d75/a24563.html#a9a5a233763365c6cca5618459a23a816", null ],
+    [ "targetCheck", "d5/d75/a24563.html#aa530b6b6415c85cd76f44d625329c2fb", null ]
 ];

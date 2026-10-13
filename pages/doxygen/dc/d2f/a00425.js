@@ -1,12 +1,12 @@
 var a00425 =
 [
-    [ "boss_fathomlord_karathress", "d0/d56/a23295.html", "d0/d56/a23295" ],
-    [ "LeechingThrowSelector", "d5/d94/a23299.html", "d5/d94/a23299" ],
-    [ "boss_fathomguard_sharkkis", "d9/d8a/a23303.html", "d9/d8a/a23303" ],
-    [ "boss_fathomguard_tidalvess", "d6/d13/a23307.html", "d6/d13/a23307" ],
-    [ "boss_fathomguard_caribdis", "d1/d9f/a23311.html", "d1/d9f/a23311" ],
-    [ "spell_karathress_power_of_tidalvess", "d9/d01/a23315.html", "d9/d01/a23315" ],
-    [ "spell_karathress_power_of_caribdis", "d0/db2/a23319.html", "d0/db2/a23319" ],
+    [ "boss_fathomlord_karathress", "d6/d13/a23307.html", "d6/d13/a23307" ],
+    [ "LeechingThrowSelector", "d1/d9f/a23311.html", "d1/d9f/a23311" ],
+    [ "boss_fathomguard_sharkkis", "d9/d01/a23315.html", "d9/d01/a23315" ],
+    [ "boss_fathomguard_tidalvess", "d0/db2/a23319.html", "d0/db2/a23319" ],
+    [ "boss_fathomguard_caribdis", "da/d34/a23323.html", "da/d34/a23323" ],
+    [ "spell_karathress_power_of_tidalvess", "d3/d4a/a23327.html", "d3/d4a/a23327" ],
+    [ "spell_karathress_power_of_caribdis", "d4/d6a/a23331.html", "d4/d6a/a23331" ],
     [ "Misc", "dc/d2f/a00425.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "NEFARIUS_PATH_2", "dd/d8d/a01667.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],
       [ "NEFARIUS_PATH_3", "dd/d8d/a01667.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6596b4c264ab163a34c17c6ea798adcb", null ],
@@ -1410,6 +1410,8 @@ var a00425 =
       [ "SPELL_ARMAGEDDON_MISSILE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca8c377b8b69d0dbe801ea2d87064096b3", null ],
       [ "SPELL_CUSTOM_08_STATE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cae69e2264948bdd529250fbebad159275", null ],
       [ "SPELL_DESTROY_ALL_DRAKES", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca7485400f7f3c06376aba102ad64ffddf", null ],
+      [ "SPELL_KNOCKBACK", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca27fe30ac398369e590388303632044c8", null ],
+      [ "SPELL_SWAT", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cad0ed6ff1cfea07c54007f4d3a4fc1d78", null ],
       [ "SPELL_SINISTER_REFLECTION_SUMMON", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca71f16716214f1f22b82cc0a0e0ea4c82", null ],
       [ "SPELL_SINISTER_REFLECTION_CLASS", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca694ff4e39c65fe5ba7f0abd5e7da9091", null ],
       [ "SPELL_SINISTER_REFLECTION_CLONE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cab8620ab50f2f9bd8645774fcc6230a0b", null ],

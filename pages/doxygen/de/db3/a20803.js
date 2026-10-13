@@ -1,5 +1,5 @@
 var a20803 =
 [
-    [ "npc_ulduar_flames_spread", "de/db3/a20803.html#aea2856e8ea84dfb447017a4d8b2ab088", null ],
-    [ "SpellHit", "de/db3/a20803.html#af8cad4be1736f377721b7a0a63cfafe7", null ]
+    [ "go_ulduar_do_not_push_this_button", "de/db3/a20803.html#aa204af213a643c001161e0c2f173ee6b", null ],
+    [ "OnGossipHello", "de/db3/a20803.html#ae11efa54b496ab21600a9c62e50b5fbe", null ]
 ];

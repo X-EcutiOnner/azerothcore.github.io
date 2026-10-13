@@ -1,6 +1,11 @@
 var a21155 =
 [
-    [ "FilterTargets", "d9/d0e/a21155.html#adaeee235184ddc36e90e532091183056", null ],
-    [ "PrepareSpellScript", "d9/d0e/a21155.html#a599f604e872d3a5a4ed2b155caefdc9f", null ],
-    [ "Register", "d9/d0e/a21155.html#ab79041a2536878498744555475bce5c8", null ]
+    [ "boss_yoggsaron_voice", "d9/d0e/a21155.html#ae9baa030c275b7f80d084f4e5d44aed2", null ],
+    [ "DoAction", "d9/d0e/a21155.html#a094522e81d1d19de660b75fb06ea4224", null ],
+    [ "Reset", "d9/d0e/a21155.html#a05a59e5c1e05f40fed219a2927e8006d", null ],
+    [ "SpellHitTarget", "d9/d0e/a21155.html#aae3b82dbb871f0f297bdacf975958492", null ],
+    [ "UpdateAI", "d9/d0e/a21155.html#aa3570bf74b7caee5dcf844853a73d7e5", null ],
+    [ "_current", "d9/d0e/a21155.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b", null ],
+    [ "_targets", "d9/d0e/a21155.html#a52bf7b9b560f600b5b3647fefb3830bf", null ],
+    [ "events", "d9/d0e/a21155.html#abd4829f72aea74d3f9be6df3e40b08b5", null ]
 ];

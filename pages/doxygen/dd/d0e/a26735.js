@@ -1,8 +1,7 @@
 var a26735 =
 [
-    [ "HandleProc", "dd/d0e/a26735.html#ab98571b7f614d66c44c25d0d2c6aa738", null ],
-    [ "PrepareAuraScript", "dd/d0e/a26735.html#a194c83ebc29c4522b5fc313a3ab4d1dd", null ],
-    [ "Register", "dd/d0e/a26735.html#a6dfd4dc774e58a8881b20a31d4c1be56", null ],
-    [ "Validate", "dd/d0e/a26735.html#a886d2b1a2bf2f25bde5248edcef9733d", null ],
-    [ "_critStreak", "dd/d0e/a26735.html#a4a8e3c9d8754844d74e72cb328c44221", null ]
+    [ "HandleProc", "dd/d0e/a26735.html#a43ab86331d22e82a95371c86cb8c2dc9", null ],
+    [ "PrepareAuraScript", "dd/d0e/a26735.html#aac7469b398a46e038e7168f5ff94e8ff", null ],
+    [ "Register", "dd/d0e/a26735.html#a70bcd72b90cfd3230cd8c012fabb5512", null ],
+    [ "Validate", "dd/d0e/a26735.html#aff4a1b7a5b90a618cdd658dc17d49857", null ]
 ];

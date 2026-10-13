@@ -1,5 +1,5 @@
 var a20643 =
 [
-    [ "achievement_i_have_the_coolest_friends", "d0/d44/a20643.html#a87fd2d5702fe33ee8b09042c66897636", null ],
-    [ "OnCheck", "d0/d44/a20643.html#aa77aa6129967601ede2f3fc44b2ee1aa", null ]
+    [ "achievement_getting_cold_in_here", "d0/d44/a20643.html#a57fe7262a09036ffa88e985cb7e2f123", null ],
+    [ "OnCheck", "d0/d44/a20643.html#aeafd382d378381f754da6ee04d382276", null ]
 ];

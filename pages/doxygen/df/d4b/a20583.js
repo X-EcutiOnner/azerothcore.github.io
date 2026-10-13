@@ -1,7 +1,16 @@
 var a20583 =
 [
-    [ "HandleEffectPeriodic", "df/d4b/a20583.html#acddafc5100d667e8fcc034815204f8ce", null ],
-    [ "PrepareAuraScript", "df/d4b/a20583.html#aeee4eeb0d55d084630bf850c0af165a9", null ],
-    [ "Register", "df/d4b/a20583.html#acc96d2a38e4da19e6cd6c72037a24202", null ],
-    [ "Validate", "df/d4b/a20583.html#acacf8df2d00899bed640c1be0d4287f2", null ]
+    [ "npc_ulduar_hodir_shaman", "df/d4b/a20583.html#a3277cda17d5409be3426bdaa61e092cd", null ],
+    [ "AttackStart", "df/d4b/a20583.html#a933908d61afac33002411874060c0f74", null ],
+    [ "CanAIAttack", "df/d4b/a20583.html#a8907c7300cef735a70b088de3c16cfb9", null ],
+    [ "DoAction", "df/d4b/a20583.html#ae27325cc9b794a84d82faa0f410fa844", null ],
+    [ "EnterEvadeMode", "df/d4b/a20583.html#afa6124e630cd878659172a06df68d39f", null ],
+    [ "JustDied", "df/d4b/a20583.html#a08af85d3446c86443ff5a620b159d000", null ],
+    [ "MoveInLineOfSight", "df/d4b/a20583.html#a29de52dcae485f00403dae8e28ff1395", null ],
+    [ "ScheduleAbilities", "df/d4b/a20583.html#ab9aa67f07721c0bf60e9db75b5b3e888", null ],
+    [ "SpellHit", "df/d4b/a20583.html#a02476e4ddb2287c647a2a4bd7e342150", null ],
+    [ "SpellHitTarget", "df/d4b/a20583.html#a29dcb1ff2d532fa491fcdbdfcac4fbfa", null ],
+    [ "UpdateAI", "df/d4b/a20583.html#adf8d9895cdd35712fa44e4a19de1315a", null ],
+    [ "_instance", "df/d4b/a20583.html#aa09753bc9b54ea8dcc9b61a9ace77ae3", null ],
+    [ "events", "df/d4b/a20583.html#a7e147f6f230513cfb666473c61ab4be4", null ]
 ];

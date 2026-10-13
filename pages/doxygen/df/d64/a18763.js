@@ -1,6 +1,6 @@
 var a18763 =
 [
-    [ "npc_shambling_horror_iccAI", "d1/d90/a18767.html", "d1/d90/a18767" ],
-    [ "npc_shambling_horror_icc", "df/d64/a18763.html#a68219e0c6e79f5e7bed1f353d7bb5bcb", null ],
-    [ "GetAI", "df/d64/a18763.html#a96fd525fcb34e793b1fc3fc5179e92ec", null ]
+    [ "HandleScript", "df/d64/a18763.html#a6f9b2c00cdc050ff25ec37f5b7610c71", null ],
+    [ "PrepareSpellScript", "df/d64/a18763.html#a5405e4547ec6cbc05acceb72d1b16530", null ],
+    [ "Register", "df/d64/a18763.html#a172490b953b958df354394e947b7cfd0", null ]
 ];

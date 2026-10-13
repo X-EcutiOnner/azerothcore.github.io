@@ -1,7 +1,8 @@
 var a23059 =
 [
-    [ "CheckProc", "db/d47/a23059.html#a0968b7b32f2d2bef6035e030f544088a", null ],
-    [ "PrepareAuraScript", "db/d47/a23059.html#ac424e41948196a6e60b790ebcf40783f", null ],
-    [ "Register", "db/d47/a23059.html#a06bdac68e36b43ee534e937ffd974086", null ],
-    [ "Update", "db/d47/a23059.html#af6c228840f6af96e353ba964fdd01e54", null ]
+    [ "boss_mother_shahraz", "db/d47/a23059.html#adba94363f74975301472d79f24894df8", null ],
+    [ "JustDied", "db/d47/a23059.html#ab69d81acde4e6e2a3f6adb032090b958", null ],
+    [ "JustEngagedWith", "db/d47/a23059.html#a021c702e7eff266308fee8a4220a6ec7", null ],
+    [ "KilledUnit", "db/d47/a23059.html#a81ed314ae9737c0989b62c27c9ce4cc9", null ],
+    [ "Reset", "db/d47/a23059.html#ab9e4162ac92e786b84b6497c37251386", null ]
 ];

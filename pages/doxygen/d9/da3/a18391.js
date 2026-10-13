@@ -1,6 +1,6 @@
 var a18391 =
 [
-    [ "PrepareSpellScript", "d9/da3/a18391.html#a16eadb50b6038f16ea28464d00df3381", null ],
-    [ "Register", "d9/da3/a18391.html#ac6e304d391011863b8eff8105fab5191", null ],
-    [ "SelectDest", "d9/da3/a18391.html#a8ff5d684c0b91d0f068d03698c1ee92c", null ]
+    [ "npc_putricide_mutated_abomination", "d9/da3/a18391.html#ae8aa90f98296c10cbbb54570304892ca", null ],
+    [ "AttackStart", "d9/da3/a18391.html#a4ab01c14094f37de91591ff3a81e5c23", null ],
+    [ "UpdateAI", "d9/da3/a18391.html#a84e6eed6db698c6dfa0a2e73c30c1505", null ]
 ];

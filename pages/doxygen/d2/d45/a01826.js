@@ -1,10 +1,10 @@
 var a01826 =
 [
-    [ "instance_karazhan", "df/da6/a13451.html", "df/da6/a13451" ],
-    [ "instance_karazhan::instance_karazhan_InstanceMapScript", "d0/df8/a13455.html", "d0/df8/a13455" ],
-    [ "spell_karazhan_brittle_bones_aura", "db/d08/a13459.html", "db/d08/a13459" ],
-    [ "spell_karazhan_overload_aura", "dd/d11/a13463.html", "dd/d11/a13463" ],
-    [ "spell_karazhan_blink", "d2/d9f/a13467.html", "d2/d9f/a13467" ],
+    [ "instance_karazhan", "d0/df8/a13455.html", "d0/df8/a13455" ],
+    [ "instance_karazhan::instance_karazhan_InstanceMapScript", "db/d08/a13459.html", "db/d08/a13459" ],
+    [ "spell_karazhan_brittle_bones_aura", "dd/d11/a13463.html", "dd/d11/a13463" ],
+    [ "spell_karazhan_overload_aura", "d2/d9f/a13467.html", "d2/d9f/a13467" ],
+    [ "spell_karazhan_blink", "df/d54/a13471.html", "df/d54/a13471" ],
     [ "AddSC_instance_karazhan", "d2/d45/a01826.html#adc62e82adedf1c9e8d47332aaa7a4cf5", null ],
     [ "boundaries", "d2/d45/a01826.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
     [ "creatureData", "d2/d45/a01826.html#a412286b689bd324fedd65ddd8dde8afb", null ],

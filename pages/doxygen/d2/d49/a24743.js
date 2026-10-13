@@ -1,7 +1,7 @@
 var a24743 =
 [
-    [ "CheckClass", "d2/d49/a24743.html#a931d7a6aa2f1b574c225d3e803edbab4", null ],
-    [ "HandleScript", "d2/d49/a24743.html#a4f4f7004be5629efdc48b52b6667edba", null ],
-    [ "PrepareSpellScript", "d2/d49/a24743.html#a599ce758681c5196bd40e4c7b86635cc", null ],
-    [ "Register", "d2/d49/a24743.html#ab184b23aa446c826db39928eb3ff3ecc", null ]
+    [ "CorpseExplosionCheck", "d2/d49/a24743.html#aa8b7957705df1d878f5123ffa31a7fd7", null ],
+    [ "operator()", "d2/d49/a24743.html#aeab379880a8d912d6d0f7b41639edbd4", null ],
+    [ "_allowGhoul", "d2/d49/a24743.html#abd42a0731af969ceccdfceae722ba276", null ],
+    [ "_casterGUID", "d2/d49/a24743.html#a497df87745f452716c652e9b1be6d46f", null ]
 ];

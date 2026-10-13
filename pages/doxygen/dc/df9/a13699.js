@@ -1,8 +1,13 @@
 var a13699 =
 [
-    [ "CalcPeriodic", "dc/df9/a13699.html#a9aaca3bb1d762c9bddf3b91205f48d00", null ],
-    [ "HandleDummyTick", "dc/df9/a13699.html#acd3616df94f888ad5fb1c5b0607f6f25", null ],
-    [ "HandleUpdatePeriodic", "dc/df9/a13699.html#a70ef86fd58eec1422bac6b61a4123842", null ],
-    [ "PrepareAuraScript", "dc/df9/a13699.html#a9a97a6ab249728dbad4d3603640a7963", null ],
-    [ "Register", "dc/df9/a13699.html#ab6b223ed68a521ea9a3cbc2a6e21ac49", null ]
+    [ "instance_shadowfang_keep_InstanceMapScript", "dc/df9/a13699.html#aabb179f16f6a61d1cfc842482880ea0b", null ],
+    [ "Initialize", "dc/df9/a13699.html#a8381b4ead52e3515359cc2c10d52c29a", null ],
+    [ "OnCreatureCreate", "dc/df9/a13699.html#a3f9cca96886b97f7657edc04f4997d41", null ],
+    [ "OnGameObjectCreate", "dc/df9/a13699.html#ad420b6b549b8d76a80844d81548b1143", null ],
+    [ "ReadSaveDataMore", "dc/df9/a13699.html#a83a24703aafb973809618d3ac3ac0375", null ],
+    [ "SetData", "dc/df9/a13699.html#abdc105e9306d9abc776259be97e2488f", null ],
+    [ "WriteSaveDataMore", "dc/df9/a13699.html#a8be19e9a77d3796d3c09e75c5b31c19c", null ],
+    [ "_apothecaryHummel", "dc/df9/a13699.html#a3f77ecd2edf0989fcb957b56153807eb", null ],
+    [ "_crazedApothecaryGeneratorGUIDs", "dc/df9/a13699.html#a00880eedbbc2deb4dc36e4c851558861", null ],
+    [ "_encounters", "dc/df9/a13699.html#acfc196d008166d7b9da9b85c1ef4521e", null ]
 ];

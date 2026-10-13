@@ -1,5 +1,5 @@
 var a30179 =
 [
-    [ "CalculateSpellTypeMask", "da/da3/a30179.html#ad4f136e69c7553ac32b1de047bf73c59", null ],
-    [ "SetUp", "da/da3/a30179.html#a57be47f0c3962451b527ffe247dee814", null ]
+    [ "SetUp", "da/da3/a30179.html#a00b4e88a208a6e930244a37d4257d971", null ],
+    [ "_scenario", "da/da3/a30179.html#a39b6b0e42a22735909b0edf6de29d5f1", null ]
 ];

@@ -1,5 +1,12 @@
 var a23143 =
 [
-    [ "npc_ashtongue_sorcerer", "d9/d74/a23143.html#a0045af5cfbfcd2f26bcde2e2dffd04a6", null ],
-    [ "MovementInform", "d9/d74/a23143.html#a56fa93f83e8a536b13667c8f780961b7", null ]
+    [ "boss_shade_of_akama", "d9/d74/a23143.html#a385bf995d19652254d6ae8a447c23c37", null ],
+    [ "EnterEvadeMode", "d9/d74/a23143.html#a690f8058fb4358b98960177d76864275", null ],
+    [ "JustDied", "d9/d74/a23143.html#aa22052befeb48c0c7ec3a3cedd91daff", null ],
+    [ "MovementInform", "d9/d74/a23143.html#a345707efebd5027c01a25a563d1e6f43", null ],
+    [ "Reset", "d9/d74/a23143.html#a19a1aca1a599704612ac845001895b4f", null ],
+    [ "SpellHit", "d9/d74/a23143.html#a5a49f0dab7ce6ee81b9ed8deb5704720", null ],
+    [ "UpdateAI", "d9/d74/a23143.html#a25ffed5526b1f25eb1cf790745e2a7c7", null ],
+    [ "channelers", "d9/d74/a23143.html#a258bbeecb517a04ab8e3bac2a753a5bd", null ],
+    [ "generators", "d9/d74/a23143.html#a94a1010bce54768ee2dca72d4f6eec34", null ]
 ];

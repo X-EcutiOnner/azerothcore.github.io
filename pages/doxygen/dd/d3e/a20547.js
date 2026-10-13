@@ -1,5 +1,5 @@
 var a20547 =
 [
-    [ "id", "dd/d3e/a20547.html#accc6fc59e13a0897ae168fae33ee4c7d", null ],
-    [ "pos", "dd/d3e/a20547.html#aeca90e17f8b6f5b40f0f703ef9fe2b73", null ]
+    [ "achievement_smell_saronite", "dd/d3e/a20547.html#a42dce2aefa2561952dcf5289126035a8", null ],
+    [ "OnCheck", "dd/d3e/a20547.html#a5180e3e53fa0f4d32d2a305d315bc8b3", null ]
 ];

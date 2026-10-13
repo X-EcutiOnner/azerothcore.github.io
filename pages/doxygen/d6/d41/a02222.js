@@ -1,9 +1,9 @@
 var a02222 =
 [
-    [ "boss_azuregos", "db/dfa/a15199.html", "db/dfa/a15199" ],
-    [ "boss_azuregos::boss_azuregosAI", "d1/dcd/a15203.html", "d1/dcd/a15203" ],
-    [ "spell_arcane_vacuum", "dc/dfa/a15207.html", "dc/dfa/a15207" ],
-    [ "spell_mark_of_frost_freeze", "dd/de9/a15211.html", "dd/de9/a15211" ],
+    [ "boss_azuregos", "d1/dcd/a15203.html", "d1/dcd/a15203" ],
+    [ "boss_azuregos::boss_azuregosAI", "dc/dfa/a15207.html", "dc/dfa/a15207" ],
+    [ "spell_arcane_vacuum", "dd/de9/a15211.html", "dd/de9/a15211" ],
+    [ "spell_mark_of_frost_freeze", "d6/d70/a15215.html", "d6/d70/a15215" ],
     [ "Say", "d6/d41/a02222.html#aa58e311eb19c72984d1fb3bcf9ae2a68", [
       [ "SAY_AGGRO", "de/d1a/a01559.html#aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe", null ],
       [ "SAY_LEASH", "de/d1a/a01559.html#aa58e311eb19c72984d1fb3bcf9ae2a68a7d67e29b0f8ef4c0df41e318ab764d9a", null ],
@@ -781,6 +781,8 @@ var a02222 =
       [ "SPELL_ARMAGEDDON_MISSILE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca8c377b8b69d0dbe801ea2d87064096b3", null ],
       [ "SPELL_CUSTOM_08_STATE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cae69e2264948bdd529250fbebad159275", null ],
       [ "SPELL_DESTROY_ALL_DRAKES", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca7485400f7f3c06376aba102ad64ffddf", null ],
+      [ "SPELL_KNOCKBACK", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca27fe30ac398369e590388303632044c8", null ],
+      [ "SPELL_SWAT", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cad0ed6ff1cfea07c54007f4d3a4fc1d78", null ],
       [ "SPELL_SINISTER_REFLECTION_SUMMON", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca71f16716214f1f22b82cc0a0e0ea4c82", null ],
       [ "SPELL_SINISTER_REFLECTION_CLASS", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca694ff4e39c65fe5ba7f0abd5e7da9091", null ],
       [ "SPELL_SINISTER_REFLECTION_CLONE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cab8620ab50f2f9bd8645774fcc6230a0b", null ],

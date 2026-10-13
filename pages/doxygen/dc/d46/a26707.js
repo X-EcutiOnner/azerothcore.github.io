@@ -1,8 +1,8 @@
 var a26707 =
 [
-    [ "CheckProc", "dc/d46/a26707.html#a9895aa713e01c6322363c743049c1bc8", null ],
-    [ "HandleProc", "dc/d46/a26707.html#ab75f7630b98e266b08d0317bd852b1a9", null ],
-    [ "PrepareAuraScript", "dc/d46/a26707.html#a7a1066e9cde0a782db105ef32003274d", null ],
-    [ "Register", "dc/d46/a26707.html#aac269ad519a8c15334526629786b60b3", null ],
-    [ "Validate", "dc/d46/a26707.html#a42f67d758360e142c9434186a07c1a71", null ]
+    [ "HandleDummy", "dc/d46/a26707.html#a04ff6beb930b65395ebc3df99bc53dfa", null ],
+    [ "PrepareSpellScript", "dc/d46/a26707.html#a73eabf1e68c966f31fe8d83c2fd925c1", null ],
+    [ "Register", "dc/d46/a26707.html#a6b03fbcf18612d9bb7361c3e4f022dc0", null ],
+    [ "Validate", "dc/d46/a26707.html#a9df13e3e8895854bc086fbfaccfb1b2c", null ],
+    [ "PolymorhForms", "dc/d46/a26707.html#a1443d2532a060514e697a8d5e0c21b20", null ]
 ];

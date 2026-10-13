@@ -1,6 +1,7 @@
 var a24331 =
 [
-    [ "npc_infernal_attackerAI", "da/dea/a24335.html", "da/dea/a24335" ],
-    [ "npc_infernal_attacker", "d2/d62/a24331.html#ac6fbfcf8fc918b48d6b9416a71cfe3fa", null ],
-    [ "GetAI", "d2/d62/a24331.html#ad1d9186c186de36efbe102a07fe89de4", null ]
+    [ "HandleEffectApply", "d2/d62/a24331.html#a362b5b818ab0029956fd22bd10b4b9ac", null ],
+    [ "HandleEffectRemove", "d2/d62/a24331.html#a96769390468dc132df62b5a0ec3a2da4", null ],
+    [ "PrepareAuraScript", "d2/d62/a24331.html#a7bad0d577281829e60c0fb577d6a7d6e", null ],
+    [ "Register", "d2/d62/a24331.html#a95905ec163c42463314a5f5bb023b4d6", null ]
 ];

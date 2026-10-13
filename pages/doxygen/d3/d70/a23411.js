@@ -1,9 +1,5 @@
 var a23411 =
 [
-    [ "boss_morogrim_tidewalker", "d3/d70/a23411.html#a138a200da298f64697e2e47fb8004ccb", null ],
-    [ "JustDied", "d3/d70/a23411.html#a139d87e7cffe03183538eb493e063195", null ],
-    [ "JustEngagedWith", "d3/d70/a23411.html#a3244672aeb994673e1f46708699bcc2c", null ],
-    [ "JustSummoned", "d3/d70/a23411.html#a2b669007520094948138c95468b77f9f", null ],
-    [ "KilledUnit", "d3/d70/a23411.html#a2db94919e6d6f3d4eda4addc4248976e", null ],
-    [ "Reset", "d3/d70/a23411.html#a78ed1d1f8c55407497a4fb679587975d", null ]
+    [ "go_strange_pool", "d3/d70/a23411.html#aa44feb353ad1cb440e5b6707112af680", null ],
+    [ "OnGossipHello", "d3/d70/a23411.html#a5a2ee56e277b062e6b4757cb8b8b09a0", null ]
 ];

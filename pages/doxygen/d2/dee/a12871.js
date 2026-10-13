@@ -1,8 +1,8 @@
 var a12871 =
 [
-    [ "boss_halycon", "d2/dee/a12871.html#a8a88f0d26b4702fd1b4f015cc1366362", null ],
-    [ "JustDied", "d2/dee/a12871.html#a48bd1245ac5b76dac543a4389a8b37be", null ],
-    [ "JustEngagedWith", "d2/dee/a12871.html#a3f6ca689777e1aa43a214e8082897db1", null ],
-    [ "Reset", "d2/dee/a12871.html#a3b972bfcac3498c921978eab1d8fec4f", null ],
-    [ "UpdateAI", "d2/dee/a12871.html#acc375743131ce5643d04ae355b6d68b4", null ]
+    [ "CheckProc", "d2/dee/a12871.html#a08e84f2b2ff25ed7e260e61251f9cdb9", null ],
+    [ "HandleProc", "d2/dee/a12871.html#afd3d4786f739566056b69390553d9c71", null ],
+    [ "PrepareAuraScript", "d2/dee/a12871.html#a3ba84d4fd311a91efa685980ffec8d77", null ],
+    [ "Register", "d2/dee/a12871.html#aa36a2e10a6fd67fa74d08e20dc806744", null ],
+    [ "Validate", "d2/dee/a12871.html#aeff8b89300bb5d3589a46a4f66cfd77d", null ]
 ];

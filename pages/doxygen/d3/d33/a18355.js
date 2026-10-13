@@ -1,6 +1,6 @@
 var a18355 =
 [
-    [ "boss_professor_putricideAI", "d7/df4/a18359.html", "d7/df4/a18359" ],
-    [ "boss_professor_putricide", "d3/d33/a18355.html#a80776dad5c0205aa6a98752f43e85e32", null ],
-    [ "GetAI", "d3/d33/a18355.html#a7c84089d24bb0c77a5203884254e0925", null ]
+    [ "UnboundPlagueTargetSelector", "d3/d33/a18355.html#aedde7e013418bf6ff54cf3d3b8a70206", null ],
+    [ "operator()", "d3/d33/a18355.html#ae5fc2623d4eb0b0a82b3eaa464c92458", null ],
+    [ "_source", "d3/d33/a18355.html#a87eb77615e443ccec373d571708a156a", null ]
 ];

@@ -1,9 +1,6 @@
 var a22487 =
 [
-    [ "HandlePeriodic", "dd/d44/a22487.html#a0943e7887ff935ccea21d913429e25a0", null ],
-    [ "OnRemove", "dd/d44/a22487.html#a46ae9f9c7b31fa46e0968dc521a2511b", null ],
-    [ "PrepareAuraScript", "dd/d44/a22487.html#a07ce1c801c8d770d639b8ffe05830c3b", null ],
-    [ "Register", "dd/d44/a22487.html#afa2a6d4653311d2f76831ef14d34c0dd", null ],
-    [ "_tickNumber", "dd/d44/a22487.html#a3f8943e288e96f639fb805869749879b", null ],
-    [ "_warning", "dd/d44/a22487.html#a19ffd2ca76a020ca8ca4b2ff91538888", null ]
+    [ "CheckCast", "dd/d44/a22487.html#a9244f2b0a03d408006ef4de0c680baeb", null ],
+    [ "PrepareSpellScript", "dd/d44/a22487.html#ab4025d8a4acee4723dcca972bce01f45", null ],
+    [ "Register", "dd/d44/a22487.html#a816afa9351039bd3006ad8e6aa641c3c", null ]
 ];

@@ -1,8 +1,6 @@
 var a27963 =
 [
-    [ "CheckProc", "dd/db6/a27963.html#a88fc4939e903f4914a41cf18b34ad344", null ],
-    [ "HandleProc", "dd/db6/a27963.html#a607054f11843147a09b202ea65f68b65", null ],
-    [ "PrepareAuraScript", "dd/db6/a27963.html#affe76b0d20d431ba459ceb42934689fc", null ],
-    [ "Register", "dd/db6/a27963.html#a99345afecc0612c33db996cebab99e09", null ],
-    [ "Validate", "dd/db6/a27963.html#a9b0a80cc044d198178bd629eb8731260", null ]
+    [ "CheckProc", "dd/db6/a27963.html#ad99bf14a9b71a9ff7b2ccb73eaae41ce", null ],
+    [ "PrepareAuraScript", "dd/db6/a27963.html#a787d22fa4d989bf28aa69f64d55d9687", null ],
+    [ "Register", "dd/db6/a27963.html#a4ef23658a8f36556513fcd7b9673a14f", null ]
 ];

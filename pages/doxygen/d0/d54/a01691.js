@@ -1,8 +1,8 @@
 var a01691 =
 [
-    [ "instance_stratholme", "d9/dbe/a13723.html", "d9/dbe/a13723" ],
-    [ "instance_stratholme::instance_stratholme_InstanceMapScript", "d2/d7a/a13727.html", "d2/d7a/a13727" ],
-    [ "go_enchanted_scarlet_thread", "d1/d59/a13731.html", "d1/d59/a13731" ],
+    [ "instance_stratholme", "d2/d7a/a13727.html", "d2/d7a/a13727" ],
+    [ "instance_stratholme::instance_stratholme_InstanceMapScript", "d1/d59/a13731.html", "d1/d59/a13731" ],
+    [ "go_enchanted_scarlet_thread", "d4/d19/a13735.html", "d4/d19/a13735" ],
     [ "GateTrapIndexes", "d0/d54/a01691.html#a1e3e0f954f38fb8ebd1631cecce73103", [
       [ "GATE_TRAP_SCARLET", "d0/d54/a01691.html#a1e3e0f954f38fb8ebd1631cecce73103a74abfbe1ca83a5c82b940d51d80917a2", null ],
       [ "GATE_TRAP_UNDEAD", "d0/d54/a01691.html#a1e3e0f954f38fb8ebd1631cecce73103a3c280740e9b426876dcb1d9cbadeddbf", null ],

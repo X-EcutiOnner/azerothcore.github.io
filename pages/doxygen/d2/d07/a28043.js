@@ -1,8 +1,7 @@
 var a28043 =
 [
-    [ "HandleDamage", "d2/d07/a28043.html#a371d3112e619453b7c92933a145bf4d2", null ],
-    [ "HandleDummy", "d2/d07/a28043.html#a051f68946f3c246b410bbaa2ac14e4b1", null ],
-    [ "PrepareSpellScript", "d2/d07/a28043.html#a41d69ed3f8372c4e157aefbec6ad525c", null ],
-    [ "Register", "d2/d07/a28043.html#aaa1e53f38a2ba835c12fa726c030ab08", null ],
-    [ "Validate", "d2/d07/a28043.html#a180ab99bc257b841e0bbbfc0ddb83814", null ]
+    [ "OnProc", "d2/d07/a28043.html#a7ab183d734c543be2866c57f1e5cc508", null ],
+    [ "PrepareAuraScript", "d2/d07/a28043.html#a31118cda9f29318f4620caf38c09522a", null ],
+    [ "Register", "d2/d07/a28043.html#ac27f99aafa92ae85a247c6f25ece8c7b", null ],
+    [ "Validate", "d2/d07/a28043.html#aa193bddd2ba9efe70343c5501d737fa4", null ]
 ];

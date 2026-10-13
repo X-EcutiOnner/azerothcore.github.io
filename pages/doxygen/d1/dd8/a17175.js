@@ -1,18 +1,10 @@
 var a17175 =
 [
-    [ "boss_icehowlAI", "d1/dd8/a17175.html#a81fbfe9bb9d6186e36af2dd24c2dca5e", null ],
-    [ "AttackStart", "d1/dd8/a17175.html#ab40b1bb5338fab72aa23f650925d5ed0", null ],
-    [ "DoTrampleIfValid", "d1/dd8/a17175.html#ae3df64882f344dddc1480574d078e9a0", null ],
-    [ "EnterEvadeMode", "d1/dd8/a17175.html#afeebf7a1039b3eed4b351e88751818b5", null ],
-    [ "JustDied", "d1/dd8/a17175.html#ae29d8fc7d1ad3e57785c1c31ec73fa86", null ],
-    [ "JustEngagedWith", "d1/dd8/a17175.html#aac8165285ec44942217e93ad25a3668b", null ],
-    [ "JustReachedHome", "d1/dd8/a17175.html#a1034e0e9f5af03cd1d36aef4df724bc9", null ],
-    [ "MovementInform", "d1/dd8/a17175.html#a9e3a3733647d18fce22a9afeb60a711d", null ],
-    [ "UpdateAI", "d1/dd8/a17175.html#a0972a2b86426f6d0efbde3d8b802a8f3", null ],
-    [ "destX", "d1/dd8/a17175.html#ace7b1c523d1845eabe1806fbf75453aa", null ],
-    [ "destY", "d1/dd8/a17175.html#aebb7d901669fe987e805e0dfcfe9993a", null ],
-    [ "destZ", "d1/dd8/a17175.html#ab9f08e2f505368869063093f531f8794", null ],
-    [ "events", "d1/dd8/a17175.html#a302879641400e0f0b329fd960256c9fb", null ],
-    [ "pInstance", "d1/dd8/a17175.html#a4149dd25a04d661448255858e57387f4", null ],
-    [ "StalkerGUID", "d1/dd8/a17175.html#a03d67054baa87389d619f7a661c7d650", null ]
+    [ "CalculateAmount", "d1/dd8/a17175.html#a216034e5ef13850d946990daf7efc6f7", null ],
+    [ "HandlePeriodic", "d1/dd8/a17175.html#ad1661b8ac97f891a40694f39316fda9c", null ],
+    [ "OnApply", "d1/dd8/a17175.html#a9200f823af6faec5e465691924d299f8", null ],
+    [ "OnRemove", "d1/dd8/a17175.html#a22f800827cac4917c4a6ebb721c7fdfb", null ],
+    [ "PrepareAuraScript", "d1/dd8/a17175.html#a8f0561db040ef8fcc293d33e60df5b3b", null ],
+    [ "Register", "d1/dd8/a17175.html#ac64f95df2dea84d20e7f911ec6203794", null ],
+    [ "Validate", "d1/dd8/a17175.html#a95b48ae747cad66faa2d66360fcbf11f", null ]
 ];

@@ -1,5 +1,7 @@
 var a24263 =
 [
-    [ "go_warmaul_prison", "dc/dff/a24263.html#adffbb532d7ee3c5a67543fe15ce5b67b", null ],
-    [ "OnGossipHello", "dc/dff/a24263.html#ac9e66eeb30bf951d37f2d0917a295705", null ]
+    [ "npc_creditmarker_visit_with_ancestorsAI", "dc/dff/a24263.html#a483e8fb0d73561e34a1078fdde1a1b5b", null ],
+    [ "JustEngagedWith", "dc/dff/a24263.html#a4038d707731f64f588e307c22c859902", null ],
+    [ "MoveInLineOfSight", "dc/dff/a24263.html#a40d92122cd4f879f52ff78a4f172c3b8", null ],
+    [ "Reset", "dc/dff/a24263.html#a29132346f117ba785039057619edb9e7", null ]
 ];

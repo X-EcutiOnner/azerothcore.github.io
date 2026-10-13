@@ -1,7 +1,6 @@
 var a28731 =
 [
-    [ "npc_wormholeAI", "d7/d9a/a28731.html#a75c28ce9bcbb5ef6fb4213d000d5596a", null ],
-    [ "GetData", "d7/d9a/a28731.html#ad4c9f2265f126c7f2b5538bab6b75cb3", null ],
-    [ "InitializeAI", "d7/d9a/a28731.html#aa0a903014ec7243036604ffcc67e0a36", null ],
-    [ "_showUnderground", "d7/d9a/a28731.html#a6a2fbf623b8fc55cfd48a12e2c515134", null ]
+    [ "npc_steam_tonkAI", "d1/dc0/a28735.html", "d1/dc0/a28735" ],
+    [ "npc_steam_tonk", "d7/d9a/a28731.html#a19731e7f1bc6fe0220e8c28619ff7c50", null ],
+    [ "GetAI", "d7/d9a/a28731.html#a38e51485a3610a204a45677fce15c943", null ]
 ];

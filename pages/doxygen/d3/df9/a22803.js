@@ -1,8 +1,6 @@
 var a22803 =
 [
-    [ "npc_yor", "d3/df9/a22803.html#a43ed8720d06c035085d481dbe6539dca", null ],
-    [ "JustEngagedWith", "d3/df9/a22803.html#a74d5cd95b98a2057f78ee9e9b12aec42", null ],
-    [ "Reset", "d3/df9/a22803.html#aa698540b646fd870b33afbaf19ddbe07", null ],
-    [ "UpdateAI", "d3/df9/a22803.html#a46a2cf8ff94b830348641d94e3d9cd57", null ],
-    [ "_scheduler", "d3/df9/a22803.html#a4ce1e1558c9b8aa5d50b1df1a903d776", null ]
+    [ "instance_auchenai_crypts_InstanceMapScript", "d8/d37/a22807.html", "d8/d37/a22807" ],
+    [ "instance_auchenai_crypts", "d3/df9/a22803.html#a8b16924167c54a9d8120bac67bc10fed", null ],
+    [ "GetInstanceScript", "d3/df9/a22803.html#a99e47df95fde07d4a6e7687634805b93", null ]
 ];

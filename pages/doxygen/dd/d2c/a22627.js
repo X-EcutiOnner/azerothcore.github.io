@@ -1,5 +1,5 @@
 var a22627 =
 [
-    [ "go_finklestein_cauldron", "dd/d2c/a22627.html#a8aa352319c54526069588dacd75ab883", null ],
-    [ "OnGossipHello", "dd/d2c/a22627.html#aa04f55e8a6cc21cf4a1e4cdc35c6a1ae", null ]
+    [ "achievement_wg_within_our_grasp", "dd/d2c/a22627.html#a9edbd15bc6989c6948e21391a683d22d", null ],
+    [ "OnCheck", "dd/d2c/a22627.html#a10b659c4b52322536333e3d191796c27", null ]
 ];

@@ -1,7 +1,8 @@
 var a20523 =
 [
-    [ "HandleEffectPeriodic", "d6/deb/a20523.html#ae1c6062123fb62a48f542e43b34c7bcd", null ],
-    [ "PrepareAuraScript", "d6/deb/a20523.html#a1c54b6c86fc39d96d601b24c5b30fbdd", null ],
-    [ "Register", "d6/deb/a20523.html#af7a5a98b5cf784d2de8b57a183c19142", null ],
-    [ "Validate", "d6/deb/a20523.html#a16c536c913d003826ef4b86c7a497fec", null ]
+    [ "npc_ulduar_saronite_animus", "d6/deb/a20523.html#a991f2e68f4b0430c1ccdf470edb44082", null ],
+    [ "JustDied", "d6/deb/a20523.html#a25c8d5d48558d3ce80cdef4545852bc6", null ],
+    [ "UpdateAI", "d6/deb/a20523.html#afc7899752e25669b37ab04b50fb2d604", null ],
+    [ "_instance", "d6/deb/a20523.html#a6f2bf52c82185365efe88941b7922504", null ],
+    [ "timer", "d6/deb/a20523.html#acdc763ba9d1f35dafb87469e33a6b180", null ]
 ];

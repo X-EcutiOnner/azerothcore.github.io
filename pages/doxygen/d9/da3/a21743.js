@@ -1,8 +1,6 @@
 var a21743 =
 [
-    [ "npc_mootoo_the_youngerAI", "d9/da3/a21743.html#a70a5a502dab9a90a790a90eabc5c3acd", null ],
-    [ "JustDied", "d9/da3/a21743.html#a766612f646a6d22d3f0e6f93298e34bc", null ],
-    [ "Reset", "d9/da3/a21743.html#a04624b9b4d552d6b27308edc3ad44644", null ],
-    [ "WaypointReached", "d9/da3/a21743.html#ac758a992ed0d62a272930c84d617b348", null ],
-    [ "WaypointReached", "d9/da3/a21743.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "npc_imprisoned_beryl_sorcererAI", "d6/daa/a21747.html", "d6/daa/a21747" ],
+    [ "npc_imprisoned_beryl_sorcerer", "d9/da3/a21743.html#a6317eb89406cf6b99f63ecfa7f9999d1", null ],
+    [ "GetAI", "d9/da3/a21743.html#aedb301f6da8460f3ed1d81d4b5f2f63c", null ]
 ];

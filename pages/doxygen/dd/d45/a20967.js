@@ -1,6 +1,11 @@
 var a20967 =
 [
-    [ "OnPeriodic", "dd/d45/a20967.html#a418b37f00a8a48d0a4362fd5381797bf", null ],
-    [ "PrepareAuraScript", "dd/d45/a20967.html#a60c0d5d67de6e3224cba34599acc3e69", null ],
-    [ "Register", "dd/d45/a20967.html#a92fb0160f7a16e6cb6b9c928b744f5e0", null ]
+    [ "boss_thorim_arena_npcs", "dd/d45/a20967.html#a849567e412254aa8d0d7da33b6b1522f", null ],
+    [ "CanAIAttack", "dd/d45/a20967.html#aa4f90aadf8a9705fea03433195d41ad0", null ],
+    [ "JustEngagedWith", "dd/d45/a20967.html#a2f23cddcf5a0db42ba24730dfbe54976", null ],
+    [ "Reset", "dd/d45/a20967.html#a7b118ec6fa25c0f452419d1f5b4a698f", null ],
+    [ "SelectT", "dd/d45/a20967.html#a3fa38189c886a486aabb39a372834938", null ],
+    [ "UpdateAI", "dd/d45/a20967.html#a6a8489763ca223c749aa71c2da05b3cf", null ],
+    [ "_isCaster", "dd/d45/a20967.html#abfd184437df3983659a9ae21a13638fb", null ],
+    [ "events", "dd/d45/a20967.html#aad99dd6ca7d3595222ce42b5b859e462", null ]
 ];

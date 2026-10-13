@@ -1,6 +1,7 @@
 var a13007 =
 [
-    [ "boss_firemaw", "da/d88/a13007.html#a2d2be691020b8aa81f82ffab91a86e42", null ],
-    [ "JustEngagedWith", "da/d88/a13007.html#a63d0f449d04ad3d86f4ede9a0f9696a9", null ],
-    [ "UpdateAI", "da/d88/a13007.html#a13a672cc37175615068429f9a3282e07", null ]
+    [ "boss_ebonroc", "da/d88/a13007.html#a74725561727d5bf0dd266f50d377c9c8", null ],
+    [ "JustEngagedWith", "da/d88/a13007.html#a84250d1bc0986130404433c80162ecac", null ],
+    [ "MovementInform", "da/d88/a13007.html#afa0e5ad6e2eb3d8df539266623dbffb4", null ],
+    [ "UpdateAI", "da/d88/a13007.html#a8d7b9b681ae8c1e4102cb90456611732", null ]
 ];

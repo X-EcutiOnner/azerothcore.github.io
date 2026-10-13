@@ -1,6 +1,5 @@
 var a20971 =
 [
-    [ "PrepareSpellScript", "d7/d0a/a20971.html#a3c8337cc17ec735fc97f5195a1e820b6", null ],
-    [ "Register", "d7/d0a/a20971.html#ae0cc2794b1d2b8de442dbf30f7da8883", null ],
-    [ "SelectPillar", "d7/d0a/a20971.html#a2eaa34f9f3b3d255fc5091fb5b48f60a", null ]
+    [ "go_thorim_lever", "d7/d0a/a20971.html#a7641a89c3c369d26753a6e97dd435802", null ],
+    [ "OnGossipHello", "d7/d0a/a20971.html#aa48cd4d5728bd2d012a91f51299827a0", null ]
 ];

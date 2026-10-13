@@ -1,6 +1,6 @@
 var a22011 =
 [
-    [ "npc_spiritual_insightAI", "da/d32/a22011.html#ab173cd8b623fcf8c36406155c91bc4db", null ],
-    [ "GetSpeachId", "da/d32/a22011.html#ad2dd22651470f47e7a7ba6f687ba54e9", null ],
-    [ "IsSummonedBy", "da/d32/a22011.html#ab6b39190d1195915ea0b4b191d864da6", null ]
+    [ "npc_q24545_vegardAI", "d9/dc6/a22015.html", "d9/dc6/a22015" ],
+    [ "npc_q24545_vegard", "da/d32/a22011.html#ac12e2f143fab6b93950eaea06f5f7d85", null ],
+    [ "GetAI", "da/d32/a22011.html#a9a7accfb3eea9f08efbb82fbd4bd7e76", null ]
 ];

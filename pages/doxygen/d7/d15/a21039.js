@@ -1,7 +1,9 @@
 var a21039 =
 [
-    [ "FilterTargets", "d7/d15/a21039.html#a582691eca81b6db6d78ca925ad8fb084", null ],
-    [ "PrepareSpellScript", "d7/d15/a21039.html#a28ce9d2750c79b2b0061b00df5ae9e8b", null ],
-    [ "RecalculateDamage", "d7/d15/a21039.html#a02c1af0414de344056b2375488f23c01", null ],
-    [ "Register", "d7/d15/a21039.html#a1e030067944878000b731edf456d6bc8", null ]
+    [ "GetRandomToyPile", "d7/d15/a21039.html#a4e119696b212c6a57f11b284c2bb0c82", null ],
+    [ "HandleScript", "d7/d15/a21039.html#a62eb106c6a55406adc682b372a94aaef", null ],
+    [ "PrepareSpellScript", "d7/d15/a21039.html#acb19b4f65324ce419004e969274c4816", null ],
+    [ "Register", "d7/d15/a21039.html#aba572e339d50b51cb33d04270d29b733", null ],
+    [ "Validate", "d7/d15/a21039.html#a59acb2775caa76c05797d7c8dfd0f3fb", null ],
+    [ "ToyPileSearchDistance", "d7/d15/a21039.html#aa7c7f5e7298e89e431464105d5d8bbdf", null ]
 ];

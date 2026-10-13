@@ -1,11 +1,6 @@
 var a23983 =
 [
-    [ "boss_high_astromancer_solarian", "df/db2/a23983.html#a2db48cc179539f81b55188de08a7e180", null ],
-    [ "AttackStart", "df/db2/a23983.html#acaf94134aef553447e766a5e431c8b83", null ],
-    [ "JustDied", "df/db2/a23983.html#a510eb2e4f0770670d6767bc2545375b7", null ],
-    [ "JustEngagedWith", "df/db2/a23983.html#a86cd2162187f1a81932000ca1cfb7f85", null ],
-    [ "JustSummoned", "df/db2/a23983.html#ac5b209a45a5a3ea2a8421706d181a827", null ],
-    [ "KilledUnit", "df/db2/a23983.html#a561a78193615575b7e43e0f21387f1b8", null ],
-    [ "Reset", "df/db2/a23983.html#a58cbb2c8a6c30855a0f9f2275338c1b5", null ],
-    [ "UpdateAI", "df/db2/a23983.html#a07a76c34a978c31212390cf10ed3e382", null ]
+    [ "HandlePeriodic", "df/db2/a23983.html#ad47e8edce33f9b923aa7bbfe8d0c082a", null ],
+    [ "PrepareAuraScript", "df/db2/a23983.html#a2aa04c3c08ffc15b481b740d88a54918", null ],
+    [ "Register", "df/db2/a23983.html#acf77c76f02671da215c7103b60ed77ac", null ]
 ];

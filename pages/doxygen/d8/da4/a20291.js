@@ -1,12 +1,8 @@
 var a20291 =
 [
-    [ "npc_auriaya_feral_defender", "d8/da4/a20291.html#a84425204b0ad06789edb331ed8495774", null ],
-    [ "DamageTaken", "d8/da4/a20291.html#aaebbf27345a546bf66e4ab7ed8eae556", null ],
-    [ "DoAction", "d8/da4/a20291.html#aea39a90b4e66796c37dde02687a9b2ad", null ],
-    [ "JustDied", "d8/da4/a20291.html#aa86cb08096ba0e43280f23d9acd0bfa1", null ],
-    [ "JustEngagedWith", "d8/da4/a20291.html#a3d91f99b57ba4d72b526a13f671961ce", null ],
-    [ "JustSummoned", "d8/da4/a20291.html#acea3175bcd4df4cf88dc9561c01bee64", null ],
-    [ "Reset", "d8/da4/a20291.html#a02b09b7dfdd4036827bb474a57296491", null ],
-    [ "UpdateAI", "d8/da4/a20291.html#a7b40afef6b58e7a41b2d00bccbdfe311", null ],
-    [ "_summons", "d8/da4/a20291.html#a0b7960f590ba76068c377cf08291ce35", null ]
+    [ "npc_auriaya_sanctum_sentry", "d8/da4/a20291.html#ae5ed159c476c8b4569de7e2730edf447", null ],
+    [ "JustDied", "d8/da4/a20291.html#a553aa98a00fd8999578d71911f231bb2", null ],
+    [ "JustEngagedWith", "d8/da4/a20291.html#a5475b653a9c1fa78f2fcab8abed00863", null ],
+    [ "Reset", "d8/da4/a20291.html#a540cb8f5c53c3648d49ec88efed8a43d", null ],
+    [ "UpdateAI", "d8/da4/a20291.html#a93ed6a0205a042ef1fc065fc6cfd94ee", null ]
 ];

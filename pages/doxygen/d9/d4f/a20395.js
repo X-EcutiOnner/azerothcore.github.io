@@ -1,8 +1,7 @@
 var a20395 =
 [
-    [ "CheckCast", "d9/d4f/a20395.html#a71566abe41cec09cbb414d4e1be53c8f", null ],
-    [ "PrepareSpellScript", "d9/d4f/a20395.html#ab3c4e4c1ef59fda87cd2b1fb119882c8", null ],
-    [ "Register", "d9/d4f/a20395.html#a403728403abd55efdbfe1c835e9799bb", null ],
-    [ "SelectAvailableSeat", "d9/d4f/a20395.html#a71101aaf195d64a2fe6c821ad1d5379d", null ],
-    [ "SelectSeat", "d9/d4f/a20395.html#a466691f96780f607b52b853c83ddbae4", null ]
+    [ "FilterTargets", "d9/d4f/a20395.html#a3d864f0428b7e53774d06069037ca5b2", null ],
+    [ "HandleScript", "d9/d4f/a20395.html#aef8bfe18b42bcc9ad70378c0d78354e7", null ],
+    [ "PrepareSpellScript", "d9/d4f/a20395.html#aafbd4751a01b4ce62dc94eee2e47f64f", null ],
+    [ "Register", "d9/d4f/a20395.html#afabe09f8d9a9a10855d6469e8a3db30f", null ]
 ];

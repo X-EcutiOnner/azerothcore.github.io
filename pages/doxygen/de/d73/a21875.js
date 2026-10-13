@@ -1,6 +1,6 @@
 var a21875 =
 [
-    [ "npc_conversing_with_the_depths_triggerAI", "d6/d4a/a21879.html", "d6/d4a/a21879" ],
-    [ "npc_conversing_with_the_depths_trigger", "de/d73/a21875.html#a55ba213da86650d44ea1493b26fdb7f2", null ],
-    [ "GetAI", "de/d73/a21875.html#a61c337bfe1efb3589cf0df91d9082236", null ]
+    [ "npc_dalaran_warriorAI", "d6/d4a/a21879.html", "d6/d4a/a21879" ],
+    [ "npc_dalaran_warrior", "de/d73/a21875.html#a13d44b85173232ddedcc35184d50549c", null ],
+    [ "GetAI", "de/d73/a21875.html#a1e84676d2a76bac728a1f23f5f9fc25e", null ]
 ];

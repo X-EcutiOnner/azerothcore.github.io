@@ -1,7 +1,13 @@
 var a19011 =
 [
-    [ "npc_valithria_portalAI", "d7/df1/a19011.html#a18c1b9d2b149fbc34a17c9e87a8c70b6", null ],
-    [ "GetData", "d7/df1/a19011.html#a598ba7930900aa211bb7e7dc12f366c0", null ],
-    [ "OnSpellClick", "d7/df1/a19011.html#a457f2725e6580d7e6f3bb0445ba796a8", null ],
-    [ "_used", "d7/df1/a19011.html#a92cc0c2aaa6add0c6c641719d6846bb3", null ]
+    [ "npc_risen_archmageAI", "d7/df1/a19011.html#a4dd62e51fc75fc5e4a44859437549f29", null ],
+    [ "CanAIAttack", "d7/df1/a19011.html#a063a28cd36dbc709699e6d1d4e4ca9e3", null ],
+    [ "DoAction", "d7/df1/a19011.html#accc43068aa0a7f62d6fabfb85acb1498", null ],
+    [ "JustEnteredCombat", "d7/df1/a19011.html#a50bd33c1b28b3691f42a5f167f27e342", null ],
+    [ "JustSummoned", "d7/df1/a19011.html#aff6e86057086db1319bb680e52e41634", null ],
+    [ "Reset", "d7/df1/a19011.html#a522d30cb60cf6af2cd8cc943a7e2f5e3", null ],
+    [ "UpdateAI", "d7/df1/a19011.html#ae78dc64f858573b234210ca175e5bdd9", null ],
+    [ "_events", "d7/df1/a19011.html#a6dff9ff5332c0bc337840882689f47ed", null ],
+    [ "_instance", "d7/df1/a19011.html#a1b4e12b199bf3ada517c895c5f387c4a", null ],
+    [ "_isInitialArchmage", "d7/df1/a19011.html#ac871eeab6510fa9f5e8f38f35f299149", null ]
 ];

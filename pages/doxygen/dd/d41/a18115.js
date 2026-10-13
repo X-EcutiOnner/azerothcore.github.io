@@ -1,6 +1,6 @@
 var a18115 =
 [
-    [ "npc_gunship_boarding_add_realAI", "d8/d75/a18119.html", "d8/d75/a18119" ],
-    [ "npc_gunship_boarding_add", "dd/d41/a18115.html#aa80871f80bae7186d3665f73d757e108", null ],
-    [ "GetAI", "dd/d41/a18115.html#ad7e173bffccca6d852ba545427235447", null ]
+    [ "npc_gunship_boarding_leaderAI", "d8/d75/a18119.html", "d8/d75/a18119" ],
+    [ "npc_gunship_boarding_leader", "dd/d41/a18115.html#a8390eadab34a89643252f573588b140a", null ],
+    [ "GetAI", "dd/d41/a18115.html#ae422c8a1de8fb909a89d2ad2f516e3b4", null ]
 ];

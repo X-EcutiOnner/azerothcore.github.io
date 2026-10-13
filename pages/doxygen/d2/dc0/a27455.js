@@ -1,6 +1,6 @@
 var a27455 =
 [
-    [ "CheckProc", "d2/dc0/a27455.html#a4e40a3472a7dde5aaa1d6d4cda54482a", null ],
-    [ "PrepareAuraScript", "d2/dc0/a27455.html#af15109e926eb717c3f3cb2f7f617428c", null ],
-    [ "Register", "d2/dc0/a27455.html#aee35ceec1ffcdebf5bd712310bdf9f1c", null ]
+    [ "HandlePeriodic", "d2/dc0/a27455.html#a6fdf93580d860712943bbff07e273fef", null ],
+    [ "PrepareAuraScript", "d2/dc0/a27455.html#ac64daca8467814398251ec8e590f8281", null ],
+    [ "Register", "d2/dc0/a27455.html#ad0e68442f3d12cb58781e5e2d39b49ec", null ]
 ];

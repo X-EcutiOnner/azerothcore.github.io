@@ -1,7 +1,8 @@
 var a27907 =
 [
-    [ "HandleDispel", "d1/dd5/a27907.html#aaf6920cb0fec741f3cff1d3f6e6d2c0f", null ],
-    [ "PrepareAuraScript", "d1/dd5/a27907.html#ace0ce4b85311893e1e6df403a6387cd9", null ],
-    [ "Register", "d1/dd5/a27907.html#a2c67e4327fdd034978d4822311632980", null ],
-    [ "Validate", "d1/dd5/a27907.html#ad8b5c381904c359ed608c808d5bbd9bd", null ]
+    [ "CheckProc", "d1/dd5/a27907.html#a610313f5085c7c0109b5936e94de00fe", null ],
+    [ "OnProc", "d1/dd5/a27907.html#ad87c4cbd332dc19be3bc8ec9982a385b", null ],
+    [ "PrepareAuraScript", "d1/dd5/a27907.html#aae4d26e262f80681811c9b50c2a63642", null ],
+    [ "Register", "d1/dd5/a27907.html#a8fdcd2b4489011294d9f58d5ff0beb3f", null ],
+    [ "Validate", "d1/dd5/a27907.html#a00ef3cd4b2ee5739f5f7288ccbd6a1c6", null ]
 ];

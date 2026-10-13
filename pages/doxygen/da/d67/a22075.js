@@ -1,6 +1,11 @@
 var a22075 =
 [
-    [ "npc_ravenous_worgAI", "d7/dac/a22079.html", "d7/dac/a22079" ],
-    [ "npc_ravenous_worg", "da/d67/a22075.html#ad7f8da1c82072367fe4a537620df9ac0", null ],
-    [ "GetAI", "da/d67/a22075.html#ac966ae31d3a86c9435b14d9f50a5f4cb", null ]
+    [ "npc_emilyAI", "da/d67/a22075.html#afd1e82e36c8850fbe118ab6abbdb73ce", null ],
+    [ "JustEngagedWith", "da/d67/a22075.html#a498ddc6969d398fe7a44824f4f8c8893", null ],
+    [ "JustSummoned", "da/d67/a22075.html#a4730c94b54d2ee5160011557704b35f2", null ],
+    [ "Reset", "da/d67/a22075.html#a8f196a6e1b21bef162b7ba4d7aeae208", null ],
+    [ "WaypointReached", "da/d67/a22075.html#a0a68676a6eac8fbe2b634098268eb516", null ],
+    [ "WaypointReached", "da/d67/a22075.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_mrfloppyGUID", "da/d67/a22075.html#a12a1fbe1ef4767698ab969e51e2f0e8e", null ],
+    [ "_RavenousworgGUID", "da/d67/a22075.html#aa2a5e45366be9f89221453e00179e1a3", null ]
 ];

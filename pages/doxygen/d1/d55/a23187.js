@@ -1,6 +1,5 @@
 var a23187 =
 [
-    [ "HandleEffectRemove", "d1/d55/a23187.html#a99891cf49d35a857cd014fe83bc83e43", null ],
-    [ "PrepareAuraScript", "d1/d55/a23187.html#ab8fed8e7b561146cca35fe8534ea248c", null ],
-    [ "Register", "d1/d55/a23187.html#a5a65a3fca846dc40aeb31e4ff56958ca", null ]
+    [ "npc_vengeful_spirit", "d1/d55/a23187.html#a06bd2b08a7719ae35dd6ad844ce3b3bd", null ],
+    [ "OnCharmed", "d1/d55/a23187.html#a8aec87a3e6a7af96253035dbd9e813ad", null ]
 ];

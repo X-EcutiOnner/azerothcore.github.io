@@ -1,14 +1,14 @@
 var a01124 =
 [
-    [ "boss_auriaya", "d4/de1/a20279.html", "d4/de1/a20279" ],
-    [ "npc_auriaya_sanctum_sentry", "d6/d77/a20283.html", "d6/d77/a20283" ],
-    [ "CatsTargetSelector", "d8/d77/a20287.html", "d8/d77/a20287" ],
-    [ "npc_auriaya_feral_defender", "d8/da4/a20291.html", "d8/da4/a20291" ],
-    [ "spell_auriaya_sentinel_blast", "d8/de0/a20295.html", "d8/de0/a20295" ],
-    [ "spell_auriaya_feral_essence_removal", "d6/d89/a20299.html", "d6/d89/a20299" ],
-    [ "spell_auriaya_feral_rush", "d5/d2d/a20303.html", "d5/d2d/a20303" ],
-    [ "achievement_auriaya_crazy_cat_lady", "df/d06/a20307.html", "df/d06/a20307" ],
-    [ "achievement_auriaya_nine_lives", "dc/d39/a20311.html", "dc/d39/a20311" ],
+    [ "boss_auriaya", "d8/d77/a20287.html", "d8/d77/a20287" ],
+    [ "npc_auriaya_sanctum_sentry", "d8/da4/a20291.html", "d8/da4/a20291" ],
+    [ "CatsTargetSelector", "d8/de0/a20295.html", "d8/de0/a20295" ],
+    [ "npc_auriaya_feral_defender", "d6/d89/a20299.html", "d6/d89/a20299" ],
+    [ "spell_auriaya_sentinel_blast", "d5/d2d/a20303.html", "d5/d2d/a20303" ],
+    [ "spell_auriaya_feral_essence_removal", "df/d06/a20307.html", "df/d06/a20307" ],
+    [ "spell_auriaya_feral_rush", "dc/d39/a20311.html", "dc/d39/a20311" ],
+    [ "achievement_auriaya_crazy_cat_lady", "d7/de4/a20315.html", "d7/de4/a20315" ],
+    [ "achievement_auriaya_nine_lives", "da/df3/a20319.html", "da/df3/a20319" ],
     [ "AuriayaEvents", "d0/dc8/a01124.html#a7e23dcf30d7d2163bfeb660ab6e77eac", [
       [ "EVENT_SUMMON_FERAL_DEFENDER", "d0/dc8/a01124.html#a7e23dcf30d7d2163bfeb660ab6e77eacafe6d3d06c62342e7ad92842f6977317d", null ],
       [ "EVENT_TERRIFYING_SCREECH", "d0/dc8/a01124.html#a7e23dcf30d7d2163bfeb660ab6e77eacadae3b32642ab8b6c6e415f0570d70e94", null ],

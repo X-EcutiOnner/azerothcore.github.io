@@ -1,7 +1,12 @@
 var a21931 =
 [
-    [ "CheckRequirement", "de/d4f/a21931.html#a41beb2c890137328734d6adb14e08302", null ],
-    [ "PrepareSpellScript", "de/d4f/a21931.html#aa0b9873dbd8c75a14fa88094d91eeeaa", null ],
-    [ "Register", "de/d4f/a21931.html#aa0fad5e5a68131ebab5717ad0ce69669", null ],
-    [ "SetDest", "de/d4f/a21931.html#a431a556ab73f91ed63f5983e537834a5", null ]
+    [ "npc_wintergarde_gryphon", "de/d4f/a21931.html#ada46ecdbc8c3a33a7b3ce09296c0db72", null ],
+    [ "getVillager", "de/d4f/a21931.html#a7f20f5e124e013ad8f57ca31b9fb86d7", null ],
+    [ "IsSummonedBy", "de/d4f/a21931.html#acd7cea6226034d53b854c5ed659ff949", null ],
+    [ "JustDied", "de/d4f/a21931.html#a6c87d55ef29e14b4b8b87a0321179542", null ],
+    [ "MovementInform", "de/d4f/a21931.html#a8f2faf49533d27d971110681e050c060", null ],
+    [ "PassengerBoarded", "de/d4f/a21931.html#a16c01d26aef06358f979f59fe68c09ca", null ],
+    [ "SpellHit", "de/d4f/a21931.html#acf64143ea83321556156fde30e1a34d4", null ],
+    [ "UpdateAI", "de/d4f/a21931.html#aa161f280e7a7370696cecc27c51ee55c", null ],
+    [ "villagerGUID", "de/d4f/a21931.html#a56a7973a05061197192111ecf55ef14a", null ]
 ];

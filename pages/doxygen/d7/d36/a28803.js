@@ -1,4 +1,5 @@
 var a28803 =
 [
-    [ "go_necropolis", "d7/d36/a28803.html#aef477499aefa5340db97538a8f3a3cca", null ]
+    [ "npc_controller", "d7/d36/a28803.html#a3c75fb509d5cf4b4d417c97b409615b1", null ],
+    [ "OnCharmed", "d7/d36/a28803.html#a69628677de225d76a8c89b4626e0f32b", null ]
 ];

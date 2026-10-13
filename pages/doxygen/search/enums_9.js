@@ -8,9 +8,10 @@ var searchData=
   ['jenny_5',['Jenny',['../d2/d4c/a01307.html#a24840ea4f38b25e4319b540f94a753ea',1,'zone_borean_tundra.cpp']]],
   ['jormungarevents_6',['JormungarEvents',['../dc/d8e/a01331.html#a20526ec3ab955a91bc3f1e4bff419914',1,'boss_northrend_beasts.cpp']]],
   ['jormungarnpcs_7',['JormungarNPCs',['../dc/d8e/a01331.html#adf118786f59959ccfad83692c0dc7121',1,'boss_northrend_beasts.cpp']]],
-  ['jormungarspells_8',['JormungarSpells',['../dc/d8e/a01331.html#a620a8fb8fa311862ccfd957ff8fce045',1,'boss_northrend_beasts.cpp']]],
-  ['jotunheimcage_9',['JotunheimCage',['../d8/db9/a00725.html#a0ff7af590f3037be7611d256e9099e7b',1,'go_scripts.cpp']]],
-  ['jubling_10',['Jubling',['../d1/daa/a00638.html#a8d7c1dd4784fc46db8aaf9834abb8a78',1,'spell_generic.cpp']]],
-  ['julianneromulo_11',['JulianneRomulo',['../d2/d31/a01811.html#a47f6a3f6e2be02297f20c1a7f3875954',1,'bosses_opera.cpp']]],
-  ['junglepunch_12',['JunglePunch',['../d3/dbd/a01100.html#a53ad00f06e31972f3b2874e94efd3466',1,'zone_sholazar_basin.cpp']]]
+  ['jormungarpoints_8',['JormungarPoints',['../dc/d8e/a01331.html#aff63f81b9a0be5841dca7b09cd837c3c',1,'boss_northrend_beasts.cpp']]],
+  ['jormungarspells_9',['JormungarSpells',['../dc/d8e/a01331.html#a620a8fb8fa311862ccfd957ff8fce045',1,'boss_northrend_beasts.cpp']]],
+  ['jotunheimcage_10',['JotunheimCage',['../d8/db9/a00725.html#a0ff7af590f3037be7611d256e9099e7b',1,'go_scripts.cpp']]],
+  ['jubling_11',['Jubling',['../d1/daa/a00638.html#a8d7c1dd4784fc46db8aaf9834abb8a78',1,'spell_generic.cpp']]],
+  ['julianneromulo_12',['JulianneRomulo',['../d2/d31/a01811.html#a47f6a3f6e2be02297f20c1a7f3875954',1,'bosses_opera.cpp']]],
+  ['junglepunch_13',['JunglePunch',['../d3/dbd/a01100.html#a53ad00f06e31972f3b2874e94efd3466',1,'zone_sholazar_basin.cpp']]]
 ];

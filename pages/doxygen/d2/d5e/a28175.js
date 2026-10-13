@@ -1,5 +1,5 @@
 var a28175 =
 [
-    [ "achievement_sa_defense_of_the_ancients", "d2/d5e/a28175.html#a678cffdece32710a42a92db0c092f3a5", null ],
-    [ "OnCheck", "d2/d5e/a28175.html#af23e346f9b022f490b84c8081f847a2f", null ]
+    [ "achievement_sickly_gazelle", "d2/d5e/a28175.html#abb613cb222c727923c4c5ce843db3a5f", null ],
+    [ "OnCheck", "d2/d5e/a28175.html#a5a4fcd30c92c10a9c0fb8fc1372f3857", null ]
 ];

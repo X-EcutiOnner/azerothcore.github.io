@@ -1,12 +1,9 @@
 var a29983 =
 [
-    [ "MakeBracket", "df/d4c/a29983.html#a6acf8699a62a5e6d03f1e33124f1e875", null ],
-    [ "SetIntConfig", "df/d4c/a29983.html#ac428f3bcfc8af019a114ee3859d83e9c", null ],
-    [ "SetUp", "df/d4c/a29983.html#a50880de2c8b647aa1ef2db4fe9e4c619", null ],
-    [ "SetupRealBg", "df/d4c/a29983.html#ab288107a8233cb96d9a715c9f99cd360", null ],
-    [ "SetupTemplate", "df/d4c/a29983.html#a00c21e1785ec154a2c73b317d70b49ce", null ],
-    [ "TearDown", "df/d4c/a29983.html#af04e05f17e03681ed018fe7622e3bab9", null ],
-    [ "previousWorld_", "df/d4c/a29983.html#afc7f861d24ec9258ee51ef5f76119843", null ],
-    [ "TemplateMinPlayers", "df/d4c/a29983.html#af00c207fc8284729e409df1588e9b006", null ],
-    [ "worldMock_", "df/d4c/a29983.html#a87098b65420dc95aa878a9a4b15490b5", null ]
+    [ "SetUp", "df/d4c/a29983.html#a5ee46555116eca62d3e8320dd5a5fbbb", null ],
+    [ "TearDown", "df/d4c/a29983.html#a2a331c0ef77503c08c37e226a4e0a33b", null ],
+    [ "_distributor", "df/d4c/a29983.html#a6c043c7543dec59e640b379aec1ad0d0", null ],
+    [ "_mockRewarder", "df/d4c/a29983.html#ad466c2751d8e9739db56f9f82d15deff", null ],
+    [ "_previousWorld", "df/d4c/a29983.html#aef822a2309df5d13af31ea5a5da74df7", null ],
+    [ "_worldMock", "df/d4c/a29983.html#a00b242d182fd7eacc93efc9d4f3e914f", null ]
 ];

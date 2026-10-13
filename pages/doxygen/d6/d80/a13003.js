@@ -1,7 +1,7 @@
 var a13003 =
 [
-    [ "boss_ebonroc", "d6/d80/a13003.html#a74725561727d5bf0dd266f50d377c9c8", null ],
-    [ "JustEngagedWith", "d6/d80/a13003.html#a84250d1bc0986130404433c80162ecac", null ],
-    [ "MovementInform", "d6/d80/a13003.html#afa0e5ad6e2eb3d8df539266623dbffb4", null ],
-    [ "UpdateAI", "d6/d80/a13003.html#a8d7b9b681ae8c1e4102cb90456611732", null ]
+    [ "HandleScript", "d6/d80/a13003.html#ac6ef94a03f602b44a5c7c22b7e41d116", null ],
+    [ "PrepareSpellScript", "d6/d80/a13003.html#ad92a56c23b9f15e36766fe64d1d0dd17", null ],
+    [ "Register", "d6/d80/a13003.html#aa8ad85cbf0403d79e55bbe0ae184407b", null ],
+    [ "Validate", "d6/d80/a13003.html#a3ad038e7bf43dceedb0fceebd4070bfa", null ]
 ];

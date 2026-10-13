@@ -1,5 +1,6 @@
 var a22547 =
 [
-    [ "npc_wg_spirit_guideAI", "df/d6c/a22547.html#a576d15b6acedb07bfe1555bdd0ee8f12", null ],
-    [ "UpdateAI", "df/d6c/a22547.html#a32b28e8fe74db742d170bd754d11f4d7", null ]
+    [ "HandleScriptEffect", "df/d6c/a22547.html#a83626786081c8385ff23f6667c572b3c", null ],
+    [ "PrepareSpellScript", "df/d6c/a22547.html#a43d6820c1cd94e0caa8af3f78227aa8e", null ],
+    [ "Register", "df/d6c/a22547.html#a701eecbccff3503d9a8f2b242dba6d1b", null ]
 ];

@@ -1,5 +1,6 @@
 var a30087 =
 [
-    [ "aura", "df/d15/a30087.html#a6a57282648f4792e6dfaf4c892be90eb", null ],
-    [ "effect", "df/d15/a30087.html#a24ce38279cb514bab8ef9924d93b5dfc", null ]
+    [ "SetUp", "df/d15/a30087.html#a17bb069a079f64ba78b640f29fb23b44", null ],
+    [ "_durationEntry", "df/d15/a30087.html#ae835f19ae350e48fd88e4cc776d286e4", null ],
+    [ "_frostboltInfo", "df/d15/a30087.html#adeb95c76547a934f4801bb24932b34d1", null ]
 ];

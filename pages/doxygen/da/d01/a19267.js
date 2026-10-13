@@ -1,7 +1,6 @@
 var a19267 =
 [
-    [ "HandleScript", "da/d01/a19267.html#ace11e192a27b2da98ff62c4eee7980ba", null ],
-    [ "PrepareSpellScript", "da/d01/a19267.html#a8a6351b7f87101ac8328b6e76784978c", null ],
-    [ "Register", "da/d01/a19267.html#ad57068b21218492078e2d2bfe76cc3c9", null ],
-    [ "Validate", "da/d01/a19267.html#af6f1dd22aef0595315460c149d920dff", null ]
+    [ "OnRemove", "da/d01/a19267.html#a748868eb89f1fb3ccfec5ea9f8603168", null ],
+    [ "PrepareAuraScript", "da/d01/a19267.html#a9033a0ef5963800d13b898f7c02ff7b2", null ],
+    [ "Register", "da/d01/a19267.html#a7ac0cff5f8f918e7a61bbc600419d3c3", null ]
 ];

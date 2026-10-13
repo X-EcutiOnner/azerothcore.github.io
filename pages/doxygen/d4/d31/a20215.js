@@ -1,6 +1,4 @@
 var a20215 =
 [
-    [ "PrepareSpellScript", "d4/d31/a20215.html#af7426e99a49f8618fc38242ded7132f1", null ],
-    [ "RecalculateDamage", "d4/d31/a20215.html#a94e70b20f2139f668227dccb623c1af6", null ],
-    [ "Register", "d4/d31/a20215.html#acd911f78780e052d88f5f47574092d62", null ]
+    [ "operator()", "d4/d31/a20215.html#aae8aeaabdecc3d8ff68c8764b166741d", null ]
 ];

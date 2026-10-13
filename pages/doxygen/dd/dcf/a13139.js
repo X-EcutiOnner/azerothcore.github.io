@@ -1,6 +1,6 @@
 var a13139 =
 [
-    [ "boss_magmadar", "dd/dcf/a13139.html#a1d7fe10f244e2975a858ee884a02ce57", null ],
-    [ "ExecuteEvent", "dd/dcf/a13139.html#af846ccbb6fa4a63b7ea04474deeb7db5", null ],
-    [ "JustEngagedWith", "dd/dcf/a13139.html#a4a38f37d0cbe892b7336694ef6008f2d", null ]
+    [ "boss_lucifron", "dd/dcf/a13139.html#a632be7d3aaa9cc2360fce6871918a4b1", null ],
+    [ "ExecuteEvent", "dd/dcf/a13139.html#ae392b01817d9160ef0c80387406ad6fa", null ],
+    [ "JustEngagedWith", "dd/dcf/a13139.html#a9ebfc9877165aaadd2ea446995f4cf99", null ]
 ];

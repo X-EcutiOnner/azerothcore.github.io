@@ -1,7 +1,7 @@
 var a04430 =
 [
-    [ "DamageInfoStub", "d9/de1/a29743.html", "d9/de1/a29743" ],
-    [ "HealInfoStub", "d4/d95/a29747.html", "d4/d95/a29747" ],
-    [ "DamageInfoStubBuilder", "d9/d64/a29751.html", "d9/d64/a29751" ],
-    [ "HealInfoStubBuilder", "dc/df3/a29755.html", "dc/df3/a29755" ]
+    [ "DamageInfoStub", "dc/df3/a29755.html", "dc/df3/a29755" ],
+    [ "HealInfoStub", "d0/d3a/a29759.html", "d0/d3a/a29759" ],
+    [ "DamageInfoStubBuilder", "d8/d09/a29763.html", "d8/d09/a29763" ],
+    [ "HealInfoStubBuilder", "d5/d3a/a29767.html", "d5/d3a/a29767" ]
 ];

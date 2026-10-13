@@ -1,12 +1,10 @@
 var a29903 =
 [
-    [ "SetUp", "db/d28/a29903.html#a67c12a7a60e9c4a17ddddd7f2825b029", null ],
-    [ "TearDown", "db/d28/a29903.html#aaf740c51d0319f7116097a94fa55b8be", null ],
-    [ "PERM_BAN", "db/d28/a29903.html#a865f9650e6ce11f3feb66ee87969d402", null ],
-    [ "PERM_KICK", "db/d28/a29903.html#a5ac4c3503b0daa3280b097858380e8b5", null ],
-    [ "PERM_MUTE", "db/d28/a29903.html#a467f6ed1f2c9296bc6d630a13860c09b", null ],
-    [ "PERM_SHUTDOWN", "db/d28/a29903.html#a1b891d364bcc7786a9a3f3f8c2dbccf4", null ],
-    [ "rbacData", "db/d28/a29903.html#ace7a8836853498b4785b85eca7c71e96", null ],
-    [ "ROLE_ADMIN", "db/d28/a29903.html#a2f66e37c22a953a8f9c8cd831a7e6b93", null ],
-    [ "ROLE_MOD", "db/d28/a29903.html#ac9e1278f18b05d1ed0be1f277813c939", null ]
+    [ "SetUp", "db/d28/a29903.html#a781aff1ceb2f4e26bcf801e9ab81bf3e", null ],
+    [ "TearDown", "db/d28/a29903.html#a4554349a2712a018d16de6a8ae9f50ff", null ],
+    [ "PERM_A", "db/d28/a29903.html#a4cf88cb08e4248c973e96009b7c5e225", null ],
+    [ "PERM_B", "db/d28/a29903.html#a358884a8d08637d7358803127c87c808", null ],
+    [ "PERM_C", "db/d28/a29903.html#a34fc88e7d7566ed4d64005535d0a3122", null ],
+    [ "rbacData", "db/d28/a29903.html#af35ce1e4fa3d4123358a098cb5afb2af", null ],
+    [ "ROLE_R", "db/d28/a29903.html#abe95477afdf283e406df55eac7f146cf", null ]
 ];

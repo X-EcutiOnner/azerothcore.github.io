@@ -1,7 +1,7 @@
 var a25955 =
 [
-    [ "CalcPeriodic", "db/ded/a25955.html#a5847ba4daad49dca2527513055fa4429", null ],
-    [ "PrepareAuraScript", "db/ded/a25955.html#a8753419b2fa1b1bb96a08bf54995e82c", null ],
-    [ "Register", "db/ded/a25955.html#a08f851e5582831d5dd05878c4a55db67", null ],
-    [ "Update", "db/ded/a25955.html#a3ab2716cbccc1311992de44e6591d966", null ]
+    [ "OnDummyEffect", "db/ded/a25955.html#a333c11c7ee2821bcc4d74d316f55bf5a", null ],
+    [ "PrepareSpellScript", "db/ded/a25955.html#aa15334f23b837a005a34a12d238fc9d5", null ],
+    [ "Register", "db/ded/a25955.html#a1b83195bdc148434f10a6c1ba3c0af0d", null ],
+    [ "Validate", "db/ded/a25955.html#a359fba1475e52b24635cc8dda51cc922", null ]
 ];

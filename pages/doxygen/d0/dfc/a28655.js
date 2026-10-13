@@ -1,6 +1,7 @@
 var a28655 =
 [
-    [ "spawnedCreatureEntry", "d0/dfc/a28655.html#a32b390dfff99d5fd3c49359779718af4", null ],
-    [ "spawnType", "d0/dfc/a28655.html#a056dabf4092da4ef3155a661607ca772", null ],
-    [ "thisCreatureEntry", "d0/dfc/a28655.html#a97d3cd7c2751fe85d9724ff1f808ba98", null ]
+    [ "npc_riggle_bassbaitAI", "d0/dfc/a28655.html#ad7a1a7a6f4c4ebb7ab93878ebb3a9a5b", null ],
+    [ "CheckTournamentState", "d0/dfc/a28655.html#aa7b4393b93be92fbb595648cede832be", null ],
+    [ "UpdateAI", "d0/dfc/a28655.html#ad0fca96e2c770ef179d98dcdd9aaca6e", null ],
+    [ "m_uiTimer", "d0/dfc/a28655.html#aec45a971a5b7aa574e905e9a2338fe90", null ]
 ];

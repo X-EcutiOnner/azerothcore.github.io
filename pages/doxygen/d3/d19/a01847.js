@@ -1,8 +1,8 @@
 var a01847 =
 [
-    [ "LocationXYZ", "df/d36/a14115.html", "df/d36/a14115" ],
-    [ "npc_rinji", "d8/df4/a14119.html", "d8/df4/a14119" ],
-    [ "npc_rinji::npc_rinjiAI", "de/d9c/a14123.html", "de/d9c/a14123" ],
+    [ "LocationXYZ", "d8/df4/a14119.html", "d8/df4/a14119" ],
+    [ "npc_rinji", "de/d9c/a14123.html", "de/d9c/a14123" ],
+    [ "npc_rinji::npc_rinjiAI", "db/dd6/a14127.html", "db/dd6/a14127" ],
     [ "Rinji", "d3/d19/a01847.html#ab769c87cc823749a5fe9cc0ed4f59133", [
       [ "SAY_RIN_BY_OUTRUNNER", "d3/d19/a01847.html#ab769c87cc823749a5fe9cc0ed4f59133a3aaaf930cf9ab49ca1d76cc6ed5e766c", null ],
       [ "SAY_RIN_FREE", "d3/d19/a01847.html#ab769c87cc823749a5fe9cc0ed4f59133a18a3ea60620bdbd5ef82292e56df01d3", null ],

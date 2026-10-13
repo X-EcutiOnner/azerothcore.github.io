@@ -1,6 +1,6 @@
 var a24247 =
 [
-    [ "npc_creditmarker_visit_with_ancestorsAI", "de/d15/a24251.html", "de/d15/a24251" ],
-    [ "npc_creditmarker_visit_with_ancestors", "d0/dac/a24247.html#a60f7abac7198d8504d944828dceb1ffa", null ],
-    [ "GetAI", "d0/dac/a24247.html#a06eb335a757c9f48fbfa64bfc326bb8e", null ]
+    [ "go_magtheridons_head", "d0/dac/a24247.html#af5816b083f1856196bec7a75f0a995f3", null ],
+    [ "InitializeAI", "d0/dac/a24247.html#a84fd97c0dfc2826a0b7795a9fbd70cd5", null ],
+    [ "OnStateChanged", "d0/dac/a24247.html#a28682d161074b71e1f2d70236ff2b897", null ]
 ];

@@ -1,7 +1,10 @@
 var a21011 =
 [
-    [ "npc_xt_void_zone", "d8/d5b/a21011.html#ac392b70098ff8a486d1eb42c4dcd1551", null ],
-    [ "Reset", "d8/d5b/a21011.html#a72b02a51f71370f83b58d3fdb32dccd2", null ],
-    [ "UpdateAI", "d8/d5b/a21011.html#a7b49046e49cdf6b94ed6368197daeace", null ],
-    [ "_scheduler", "d8/d5b/a21011.html#acfd9e9a23c88e74ad96a14f8fb560612", null ]
+    [ "npc_boombot", "d8/d5b/a21011.html#a6747aef56fd6710020c8aa5b4d96e0a1", null ],
+    [ "DamageTaken", "d8/d5b/a21011.html#a9f657c3f979b1f35f1cd5129474b33f1", null ],
+    [ "Reset", "d8/d5b/a21011.html#af47d7810bfe4f4ad7185ec7167cd49bf", null ],
+    [ "UpdateAI", "d8/d5b/a21011.html#a11b997bea629230932a1e01e89a556f2", null ],
+    [ "_boomed", "d8/d5b/a21011.html#a3e08d47064301a42e71fa33f9d58a5a3", null ],
+    [ "_instance", "d8/d5b/a21011.html#aeacd93855b35591fbfc54a8c1f622621", null ],
+    [ "_scheduler", "d8/d5b/a21011.html#af45ea755ec5c6a16b2b1fde7ef0e93f8", null ]
 ];

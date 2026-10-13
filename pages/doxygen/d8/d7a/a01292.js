@@ -1,8 +1,8 @@
 var a01292 =
 [
-    [ "boss_krik_thir", "d6/d5d/a16527.html", "d6/d5d/a16527" ],
-    [ "boss_krik_thir::boss_krik_thirAI", "d2/d1f/a16531.html", "d2/d1f/a16531" ],
-    [ "achievement_watch_him_die", "da/dd3/a16535.html", "da/dd3/a16535" ],
+    [ "boss_krik_thir", "d2/d1f/a16531.html", "d2/d1f/a16531" ],
+    [ "boss_krik_thir::boss_krik_thirAI", "da/dd3/a16535.html", "da/dd3/a16535" ],
+    [ "achievement_watch_him_die", "d1/d5e/a16539.html", "d1/d5e/a16539" ],
     [ "MiscActions", "d8/d7a/a01292.html#aa7ec8fb438fd13c8679ba17beac7d9a5", [
       [ "ACTION_MINION_ENGAGED", "d8/d7a/a01292.html#aa7ec8fb438fd13c8679ba17beac7d9a5a9773723ff03bcd3ed3dc47316b389d41", null ],
       [ "GROUP_SWARM", "d8/d7a/a01292.html#aa7ec8fb438fd13c8679ba17beac7d9a5ad254017654a1155ba1741f803917e01c", null ],
@@ -726,6 +726,8 @@ var a01292 =
       [ "SPELL_ARMAGEDDON_MISSILE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca8c377b8b69d0dbe801ea2d87064096b3", null ],
       [ "SPELL_CUSTOM_08_STATE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cae69e2264948bdd529250fbebad159275", null ],
       [ "SPELL_DESTROY_ALL_DRAKES", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca7485400f7f3c06376aba102ad64ffddf", null ],
+      [ "SPELL_KNOCKBACK", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca27fe30ac398369e590388303632044c8", null ],
+      [ "SPELL_SWAT", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cad0ed6ff1cfea07c54007f4d3a4fc1d78", null ],
       [ "SPELL_SINISTER_REFLECTION_SUMMON", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca71f16716214f1f22b82cc0a0e0ea4c82", null ],
       [ "SPELL_SINISTER_REFLECTION_CLASS", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca694ff4e39c65fe5ba7f0abd5e7da9091", null ],
       [ "SPELL_SINISTER_REFLECTION_CLONE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cab8620ab50f2f9bd8645774fcc6230a0b", null ],

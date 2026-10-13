@@ -1,6 +1,6 @@
 var a23987 =
 [
-    [ "AfterRemove", "d9/d51/a23987.html#a1794dcf8ebca0bd0c4fce5acb8b45de0", null ],
-    [ "PrepareAuraScript", "d9/d51/a23987.html#ad5871ce865820456177362c6b790778f", null ],
-    [ "Register", "d9/d51/a23987.html#a41e19fb2509051bbd2d9e43c59f16486", null ]
+    [ "HandleCast", "d9/d51/a23987.html#a912dc3b17ab7d0818089c32610d82a16", null ],
+    [ "PrepareSpellScript", "d9/d51/a23987.html#a6590aab70049aa5e94ed48aeb99ab1d0", null ],
+    [ "Register", "d9/d51/a23987.html#a09d4af96e2d5a69b1b61a6055bcb04d4", null ]
 ];

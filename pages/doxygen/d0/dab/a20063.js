@@ -1,6 +1,7 @@
 var a20063 =
 [
-    [ "CalculateDamage", "d0/dab/a20063.html#ae38f8cfb44de2798d7a284c942617678", null ],
-    [ "PrepareSpellScript", "d0/dab/a20063.html#a043955d56e0ae4c54d70e8fe6e417dd1", null ],
-    [ "Register", "d0/dab/a20063.html#ab4b32d2db39c8d9079a83c89d63ccd93", null ]
+    [ "OnRemove", "d0/dab/a20063.html#adf6b3d56199ad5a4545ce3874d1223db", null ],
+    [ "PrepareAuraScript", "d0/dab/a20063.html#a2d278e60b34870110dab188896109e24", null ],
+    [ "Register", "d0/dab/a20063.html#ac15847527cc4d162b3b34b8ca8628864", null ],
+    [ "Validate", "d0/dab/a20063.html#ac573e5bd171c97af1905b4a57a45e1f4", null ]
 ];

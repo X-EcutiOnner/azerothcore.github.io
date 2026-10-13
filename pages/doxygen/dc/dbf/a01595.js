@@ -6,7 +6,12 @@ var a01595 =
     [ "at_ring_of_law", "dc/d20/a12771.html", "dc/d20/a12771" ],
     [ "npc_grimstone", "d6/d89/a12775.html", "d6/d89/a12775" ],
     [ "npc_phalanx", "d2/d33/a12779.html", "d2/d33/a12779" ],
-    [ "npc_rocknot", "dd/d2b/a12783.html", "dd/d2b/a12783" ],
+    [ "npc_mistress_nagmara", "dd/d2b/a12783.html", "dd/d2b/a12783" ],
+    [ "npc_rocknot", "d2/d6e/a12787.html", "d2/d6e/a12787" ],
+    [ "GrimGuzzlerNPCs", "dc/dbf/a01595.html#a77fc9cb2c6415fc9da6f085c0ba82b5d", [
+      [ "NPC_PRIVATE_ROCKNOT", "dc/dbf/a01595.html#a77fc9cb2c6415fc9da6f085c0ba82b5da863befa526f111283c2f5a00a1f1c4f6", null ],
+      [ "NPC_MISTRESS_NAGMARA", "dc/dbf/a01595.html#a77fc9cb2c6415fc9da6f085c0ba82b5daa54264550a93a8c75eb28557276a94aa", null ]
+    ] ],
     [ "GrimstoneTexts", "dc/dbf/a01595.html#a0c9ac53db659fd636b9dc88ea37a3954", [
       [ "SAY_TEXT1", "dc/dbf/a01595.html#a0c9ac53db659fd636b9dc88ea37a3954abe56e2dc1daa55ecb206c40203e2c43f", null ],
       [ "SAY_TEXT2", "dc/dbf/a01595.html#a0c9ac53db659fd636b9dc88ea37a3954ab6be9087c9f91d239f09f746f54c7134", null ],
@@ -18,6 +23,43 @@ var a01595 =
     [ "IronhandData", "dc/dbf/a01595.html#a2351df48f090013a8239bcb029c39779", [
       [ "IRONHAND_N_GROUPS", "dc/dbf/a01595.html#a2351df48f090013a8239bcb029c39779a066afe62759b3706fe8a3ad01ff12451", null ],
       [ "SPELL_GOUT_OF_FLAMES", "dc/dbf/a01595.html#a2351df48f090013a8239bcb029c39779a3b6e8dcf51592d02d02bda14669cb90a", null ]
+    ] ],
+    [ "NagmaraCreatures", "dc/dbf/a01595.html#aa2e052d8da616d0062d3bbd8fb7e1827", [
+      [ "NPC_GRIM_PATRON", "dc/dbf/a01595.html#aa2e052d8da616d0062d3bbd8fb7e1827a2970c9c616a2ae5e83b719614d898b05", null ],
+      [ "NPC_GUZZLING_PATRON", "dc/dbf/a01595.html#aa2e052d8da616d0062d3bbd8fb7e1827aee0404e3462d0a1aeb291d4e8ded3217", null ]
+    ] ],
+    [ "NagmaraData", "dc/dbf/a01595.html#a28ee3503a173aad11926aa2efcfd5509", [
+      [ "DATA_AMBIENT_ORDER", "dc/dbf/a01595.html#a28ee3503a173aad11926aa2efcfd5509afa16f15ee50d119564f3592f910cb7c3", null ]
+    ] ],
+    [ "NagmaraGossip", "dc/dbf/a01595.html#a475f710bbab4d7dd51d780bfcfa38cd6", [
+      [ "GOSSIP_MENU_NAGMARA", "dc/dbf/a01595.html#a475f710bbab4d7dd51d780bfcfa38cd6a7610712538455e1509d47f7a8799ae99", null ]
+    ] ],
+    [ "NagmaraPoints", "dc/dbf/a01595.html#ac00cc67fe0e532bdfa8d394554795119", [
+      [ "POINT_APPROACH", "dc/dbf/a01595.html#ac00cc67fe0e532bdfa8d394554795119a45dda9aa9856f46b6ceedc56b4e0de3c", null ],
+      [ "POINT_APPROACH_GREETING", "dc/dbf/a01595.html#ac00cc67fe0e532bdfa8d394554795119a632f4c76ffd604505efb731acbfb246c", null ],
+      [ "POINT_ROCKNOT_FINAL", "dc/dbf/a01595.html#ac00cc67fe0e532bdfa8d394554795119ab2a7e6619cabd04e389b035c3853490b", null ]
+    ] ],
+    [ "NagmaraQuests", "dc/dbf/a01595.html#a42d112f04eb6d2c8375cdd73c00b8300", [
+      [ "QUEST_POTION_LOVE", "dc/dbf/a01595.html#a42d112f04eb6d2c8375cdd73c00b8300a203395175d797a21b4a15af3df2a7335", null ]
+    ] ],
+    [ "NagmaraSpells", "dc/dbf/a01595.html#ac8d7ba67c412abeae1570b26868bc6c0", [
+      [ "SPELL_POTION_LOVE", "dc/dbf/a01595.html#ac8d7ba67c412abeae1570b26868bc6c0a26e4d96eb92af19110e5161981a2d89b", null ],
+      [ "SPELL_NAGMARA_ROCKNOT", "dc/dbf/a01595.html#ac8d7ba67c412abeae1570b26868bc6c0adacc3fefb0158891c5ff293dd9d46f83", null ]
+    ] ],
+    [ "NagmaraTaskGroups", "dc/dbf/a01595.html#a8036b3f5e864d74a1e72ec40dffb6760", [
+      [ "GROUP_NAGMARA_LOVE_SEQUENCE", "dc/dbf/a01595.html#a8036b3f5e864d74a1e72ec40dffb6760a6895c03be88d64053761ea7cb1041762", null ],
+      [ "GROUP_NAGMARA_MOVEMENT_TIMEOUT", "dc/dbf/a01595.html#a8036b3f5e864d74a1e72ec40dffb6760a60bbc17117f39acb9ea40c79e6195a68", null ],
+      [ "GROUP_NAGMARA_AMBIENT_REPLY", "dc/dbf/a01595.html#a8036b3f5e864d74a1e72ec40dffb6760a7cd54408a0a319066ae348245c6a92c5", null ],
+      [ "GROUP_NAGMARA_KISS", "dc/dbf/a01595.html#a8036b3f5e864d74a1e72ec40dffb6760a608896f7c09a6d70271c30fd15463950", null ]
+    ] ],
+    [ "NagmaraTexts", "dc/dbf/a01595.html#aa63c1639a528ee5ae169f1a630bac373", [
+      [ "SAY_NAGMARA_AMBIENT", "dc/dbf/a01595.html#aa63c1639a528ee5ae169f1a630bac373a12d399d6199598673134db27e00734c7", null ],
+      [ "SAY_NAGMARA_1", "dc/dbf/a01595.html#aa63c1639a528ee5ae169f1a630bac373a2a19fc4b457cfe745df19afabaf76db8", null ],
+      [ "EMOTE_NAGMARA", "dc/dbf/a01595.html#aa63c1639a528ee5ae169f1a630bac373aa9385a08d20a72f4bfef0488f75a1a6e", null ]
+    ] ],
+    [ "NagmaraWaypoints", "dc/dbf/a01595.html#ad2d26888a90b420f8dd6141b267aca09", [
+      [ "PATH_NAGMARA_LOVERS", "dc/dbf/a01595.html#ad2d26888a90b420f8dd6141b267aca09a5d4a897c034ba8123d547f3e8598035b", null ],
+      [ "POINT_NAGMARA_DOOR_WAIT", "dc/dbf/a01595.html#ad2d26888a90b420f8dd6141b267aca09ac7d1cb3c3dcc59c9e841b2dcea794d7b", null ]
     ] ],
     [ "PhalanxActions", "dc/dbf/a01595.html#ae140961cf8719b54c57af64480ef31ee", [
       [ "ACTION_PHALANX_START_ACTIVATION", "dc/dbf/a01595.html#ae140961cf8719b54c57af64480ef31eeadfbfd0c0e25fabeb11d16a998b59ebde", null ]
@@ -45,6 +87,20 @@ var a01595 =
     ] ],
     [ "PhalanxTexts", "dc/dbf/a01595.html#aeffee7ee18d38611c5faa46be97f3dc5", [
       [ "SAY_PHALANX_AGGRO", "dc/dbf/a01595.html#aeffee7ee18d38611c5faa46be97f3dc5a4214572c6b24f6ff742f502fca6e046b", null ]
+    ] ],
+    [ "RocknotActions", "dc/dbf/a01595.html#a6ccd5ead114dd914e3ffcfb50ba50148", [
+      [ "ACTION_START_LOVE_POTION", "dc/dbf/a01595.html#a6ccd5ead114dd914e3ffcfb50ba50148a73d8e41f981b02608462365286b3018f", null ],
+      [ "ACTION_CANCEL_LOVE_POTION", "dc/dbf/a01595.html#a6ccd5ead114dd914e3ffcfb50ba50148ae41e4a7666d470f5b130d5055335b970", null ],
+      [ "ACTION_BEGIN_LOVERS_FOLLOW", "dc/dbf/a01595.html#a6ccd5ead114dd914e3ffcfb50ba50148a75a8771e26539eaa5a324c31d159473f", null ],
+      [ "ACTION_MOVE_TO_LOVERS_STOP", "dc/dbf/a01595.html#a6ccd5ead114dd914e3ffcfb50ba50148a3a2fc1f923cfd18d20a4e7403b80c078", null ],
+      [ "ACTION_ROCKNOT_AT_LOVERS_STOP", "dc/dbf/a01595.html#a6ccd5ead114dd914e3ffcfb50ba50148a4a005655189744e88943f9501ee7e8e0", null ],
+      [ "ACTION_COMPLETE_LOVE_POTION", "dc/dbf/a01595.html#a6ccd5ead114dd914e3ffcfb50ba50148a15c3c08b92e5fd800158fcb7cd8a2eb3", null ],
+      [ "ACTION_PAUSE_AT_BAR_DOOR", "dc/dbf/a01595.html#a6ccd5ead114dd914e3ffcfb50ba50148a6f12ad568cdb38c2cfffbbc53d629937", null ],
+      [ "ACTION_RESUME_AFTER_BAR_DOOR", "dc/dbf/a01595.html#a6ccd5ead114dd914e3ffcfb50ba50148a27c99a4ee04d09d0161bb0ee885dac9c", null ]
+    ] ],
+    [ "RocknotData", "dc/dbf/a01595.html#ac1670d2b32d8e79b0358f7e061de6145", [
+      [ "DATA_CAN_START_LOVE_POTION", "dc/dbf/a01595.html#ac1670d2b32d8e79b0358f7e061de6145a9074ae5f78146c58c1bf87f43d89d447", null ],
+      [ "DATA_LOVE_POTION_ACTIVE", "dc/dbf/a01595.html#ac1670d2b32d8e79b0358f7e061de6145af322e0b87796678714297df224333bf7", null ]
     ] ],
     [ "RocknotEvents", "dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54", [
       [ "EVENT_ROCKNOT_MORE_ALE", "dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54a0c9323c94b4bd9b90419ca2b2504708e", null ],
@@ -74,11 +130,19 @@ var a01595 =
       [ "SAY_MORE_ALE", "dc/dbf/a01595.html#a0fcf46ec361ec3eb9f40c6701294d8e0ad5a29b9fd4cfc6f98e2bd65774d5409f", null ],
       [ "SAY_FIRST_EMPTY", "dc/dbf/a01595.html#a0fcf46ec361ec3eb9f40c6701294d8e0aed958fd831bb8b842be73f0b16544b06", null ],
       [ "SAY_SECOND_EMPTY", "dc/dbf/a01595.html#a0fcf46ec361ec3eb9f40c6701294d8e0ae644afd40e185b9f8d53e621551a6a65", null ],
-      [ "SAY_ALE", "dc/dbf/a01595.html#a0fcf46ec361ec3eb9f40c6701294d8e0ab2c8011f6b9b092816587071dc99a963", null ]
+      [ "SAY_ALE", "dc/dbf/a01595.html#a0fcf46ec361ec3eb9f40c6701294d8e0ab2c8011f6b9b092816587071dc99a963", null ],
+      [ "EMOTE_ROCKNOT", "dc/dbf/a01595.html#a0fcf46ec361ec3eb9f40c6701294d8e0adb25620ed18d2e8dc4c5a9e4683a1142", null ]
+    ] ],
+    [ "RocknotTaskGroups", "dc/dbf/a01595.html#a9be3a5935087bb5ed983121fff3d2396", [
+      [ "GROUP_ROCKNOT_KISS", "dc/dbf/a01595.html#a9be3a5935087bb5ed983121fff3d2396a03919bd7a0e976e9c06c40615e9363ff", null ]
     ] ],
     [ "AddSC_blackrock_depths", "dc/dbf/a01595.html#a2070b23fe45e3ac60f1b2db9b07efb22", null ],
     [ "IRONHAND_FLAMES_TIMER", "dc/dbf/a01595.html#aaeadf68886d098aa12fbc52043317c2c", null ],
     [ "IRONHAND_FLAMES_TIMER_RAND", "dc/dbf/a01595.html#a66b9acb193a7b1cc44113a9db0539905", null ],
+    [ "NagmaraApproachPosition", "dc/dbf/a01595.html#af200a6dcf2f5de233003bc331d085202", null ],
+    [ "NagmaraFinalPosition", "dc/dbf/a01595.html#a63deecc453aeb5a784bc21c5c174b0e5", null ],
+    [ "NagmaraGreetingPosition", "dc/dbf/a01595.html#a733d56b59dda0c4cfc28a18f7f54b152", null ],
     [ "RingBoss", "dc/dbf/a01595.html#af2fce71fa3dcd5348828dd274e1872ec", null ],
-    [ "RingMobs", "dc/dbf/a01595.html#a26123366b238dd51ab03de9e763db822", null ]
+    [ "RingMobs", "dc/dbf/a01595.html#a26123366b238dd51ab03de9e763db822", null ],
+    [ "RocknotFinalPosition", "dc/dbf/a01595.html#a0413104621cd00b43dd9069c867a7e27", null ]
 ];

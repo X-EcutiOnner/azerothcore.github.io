@@ -1,6 +1,11 @@
 var a18575 =
 [
-    [ "UnchainedMagicTargetSelector", "da/db3/a18575.html#ae412c72884e6cfb1ceef8ed9fb347fbf", null ],
-    [ "operator()", "da/db3/a18575.html#af28ce8f46154ae6152e9025775a7f84f", null ],
-    [ "_removeHealers", "da/db3/a18575.html#a35a7981ce5495cba8b3a5391e4031431", null ]
+    [ "npc_ice_tombAI", "da/db3/a18575.html#ab2cd26a6f50f42f2773f8a7b522289ec", null ],
+    [ "DamageTaken", "da/db3/a18575.html#aa1451254b5eaa1332b87f2d817e1f3a7", null ],
+    [ "JustDied", "da/db3/a18575.html#a237f27260aaa9176d81b67b11d063660", null ],
+    [ "SetGUID", "da/db3/a18575.html#ac406bece1d1f1517b5837e311feef9ae", null ],
+    [ "UpdateAI", "da/db3/a18575.html#a2f613f1f4fd51dac767b97fd9b96af44", null ],
+    [ "_asphyxiationTimer", "da/db3/a18575.html#a6790d9c852279624a549f60bf26e1eb2", null ],
+    [ "_existenceCheckTimer", "da/db3/a18575.html#ab3dbf40235549be89e42951d93593ea2", null ],
+    [ "_trappedPlayerGUID", "da/db3/a18575.html#a8a7666594e59bdac449f2284387b8e2c", null ]
 ];

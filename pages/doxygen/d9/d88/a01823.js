@@ -1,9 +1,9 @@
 var a01823 =
 [
-    [ "boss_malchezaar", "d1/d90/a13323.html", "d1/d90/a13323" ],
-    [ "npc_netherspite_infernal", "d1/d7c/a13327.html", "d1/d7c/a13327" ],
-    [ "npc_malchezaar_axe", "df/dba/a13331.html", "df/dba/a13331" ],
-    [ "spell_malchezaar_enfeeble", "d5/d9c/a13335.html", "d5/d9c/a13335" ],
+    [ "boss_malchezaar", "d1/d7c/a13327.html", "d1/d7c/a13327" ],
+    [ "npc_netherspite_infernal", "df/dba/a13331.html", "df/dba/a13331" ],
+    [ "npc_malchezaar_axe", "d5/d9c/a13335.html", "d5/d9c/a13335" ],
+    [ "spell_malchezaar_enfeeble", "d7/d2a/a13339.html", "d7/d2a/a13339" ],
     [ "creatures", "d9/d88/a01823.html#a6e089756759f99eebae6d3e5c1e939b0", [
       [ "NPC_NETHERSPITE_INFERNAL", "d9/d88/a01823.html#a6e089756759f99eebae6d3e5c1e939b0af33521ce9c53da3dbaafe94761ee78c9", null ],
       [ "NPC_MALCHEZAARS_AXE", "d9/d88/a01823.html#a6e089756759f99eebae6d3e5c1e939b0ab5a522f5291ed3fcd44c1f41c7a4c575", null ],
@@ -829,6 +829,8 @@ var a01823 =
       [ "SPELL_ARMAGEDDON_MISSILE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca8c377b8b69d0dbe801ea2d87064096b3", null ],
       [ "SPELL_CUSTOM_08_STATE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cae69e2264948bdd529250fbebad159275", null ],
       [ "SPELL_DESTROY_ALL_DRAKES", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca7485400f7f3c06376aba102ad64ffddf", null ],
+      [ "SPELL_KNOCKBACK", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca27fe30ac398369e590388303632044c8", null ],
+      [ "SPELL_SWAT", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cad0ed6ff1cfea07c54007f4d3a4fc1d78", null ],
       [ "SPELL_SINISTER_REFLECTION_SUMMON", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca71f16716214f1f22b82cc0a0e0ea4c82", null ],
       [ "SPELL_SINISTER_REFLECTION_CLASS", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca694ff4e39c65fe5ba7f0abd5e7da9091", null ],
       [ "SPELL_SINISTER_REFLECTION_CLONE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cab8620ab50f2f9bd8645774fcc6230a0b", null ],

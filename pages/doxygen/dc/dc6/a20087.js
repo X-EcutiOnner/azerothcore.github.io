@@ -1,6 +1,8 @@
 var a20087 =
 [
-    [ "boss_krystallusAI", "d4/d61/a20091.html", "d4/d61/a20091" ],
-    [ "boss_krystallus", "dc/dc6/a20087.html#a1d7453c9d67594bfdbd650fea897666a", null ],
-    [ "GetAI", "dc/dc6/a20087.html#aba14bcfa00a5d997959abd94af647bf4", null ]
+    [ "instance_halls_of_lightning_InstanceMapScript", "dc/dc6/a20087.html#a9c82cd25354abaf7707c1dabd62c9fe3", null ],
+    [ "CheckAchievementCriteriaMeet", "dc/dc6/a20087.html#ad6db51b0ae7de338264d07a61daf21cc", null ],
+    [ "SetData", "dc/dc6/a20087.html#a26bd9da74d0d29e50b61df62b205f5e6", null ],
+    [ "_bjarngrimAchievement", "dc/dc6/a20087.html#aba06463eb70c68716f571951395c6e2a", null ],
+    [ "_volkhanAchievement", "dc/dc6/a20087.html#a52db8081961566ef2002424f00b60189", null ]
 ];

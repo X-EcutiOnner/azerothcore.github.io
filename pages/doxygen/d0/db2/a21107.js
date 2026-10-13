@@ -1,7 +1,6 @@
 var a21107 =
 [
-    [ "boss_yoggsaron_corruptor_tentacle", "d0/db2/a21107.html#afc092be8079630b1214c98b8896a22c3", null ],
-    [ "DoAction", "d0/db2/a21107.html#adf9489b954cc83a26263ffffe4ef2dd5", null ],
-    [ "SelectCorruptionTarget", "d0/db2/a21107.html#a8b868941372af612e269e013594a5c14", null ],
-    [ "UpdateAI", "d0/db2/a21107.html#a2f8911a615d32689088a6c358ac80d3f", null ]
+    [ "boss_yoggsaron_death_orb", "d0/db2/a21107.html#a8e967885da35381db767d941a2174a82", null ],
+    [ "IsSummonedBy", "d0/db2/a21107.html#a86965a290bf5714fe5e81577ae80775a", null ],
+    [ "JustSummoned", "d0/db2/a21107.html#a916588e3cdd0520fe5c1947a797c0042", null ]
 ];

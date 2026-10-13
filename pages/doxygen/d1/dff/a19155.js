@@ -1,7 +1,17 @@
 var a19155 =
 [
-    [ "npc_captain_arnathAI", "d1/dff/a19155.html#a34e3d17b89010569bf7e9cb28361c2af", null ],
-    [ "FindFriendlyCreature", "d1/dff/a19155.html#ad6411d2a87d2552bea2051f80ca16e14", null ],
-    [ "Reset", "d1/dff/a19155.html#a016fbe51f31e1c5ec1636e8d20d8cb30", null ],
-    [ "UpdateAI", "d1/dff/a19155.html#a020efd7adc0d60152007906e3229988d", null ]
+    [ "npc_argent_captainAI", "d1/dff/a19155.html#a4e9d65fa7c870c98d79ff30ae262385d", null ],
+    [ "CanAIAttack", "d1/dff/a19155.html#a542075fcf2d487dedc6f11672e3507ba", null ],
+    [ "DoAction", "d1/dff/a19155.html#a77f0b2d41d631f3ff7a3ea8d13716de1", null ],
+    [ "EnterEvadeMode", "d1/dff/a19155.html#afaebff86ad9be5835c2e289625c07d16", null ],
+    [ "JustDied", "d1/dff/a19155.html#a7f132fa843ba292cc89a64c77ce48bc4", null ],
+    [ "JustEngagedWith", "d1/dff/a19155.html#a43818e75274cad597fd883f75119d63c", null ],
+    [ "KilledUnit", "d1/dff/a19155.html#abc2dbc233082f9d7626759fbcccb34a2", null ],
+    [ "Reset", "d1/dff/a19155.html#a0709350a6841b6008935c050a1db7784", null ],
+    [ "SpellHit", "d1/dff/a19155.html#a8aee635d2739564281b5af04955e4d4a", null ],
+    [ "Events", "d1/dff/a19155.html#a1cffce3d371bef959d76270608247def", null ],
+    [ "FollowAngle", "d1/dff/a19155.html#a059c34261439fc80b0bff9d62b537489", null ],
+    [ "FollowDist", "d1/dff/a19155.html#a4fde069032f7c6578f7f518b45f141d2", null ],
+    [ "instance", "d1/dff/a19155.html#a131f11a8a67e3eb60759c699fc2cec1b", null ],
+    [ "IsUndead", "d1/dff/a19155.html#a9eaf5d2c9e52650c28b8f7feef0e681c", null ]
 ];

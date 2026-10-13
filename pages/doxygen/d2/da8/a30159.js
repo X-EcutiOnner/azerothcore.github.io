@@ -1,5 +1,5 @@
 var a30159 =
 [
-    [ "SetUp", "d2/da8/a30159.html#a3619a9661686511df0868c65b9099c9f", null ],
-    [ "_allEntries", "d2/da8/a30159.html#a6f2997373f401c494a4a4fb1677b82af", null ]
+    [ "SetUp", "d2/da8/a30159.html#a43a467bfcff58079e28fece9bfe3464c", null ],
+    [ "ALL_EFFECTS_MASK", "d2/da8/a30159.html#ac82c59da0a73f393dcef17d666ef65bf", null ]
 ];

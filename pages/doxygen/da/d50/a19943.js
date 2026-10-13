@@ -1,6 +1,6 @@
 var a19943 =
 [
-    [ "boss_uromAI", "dd/d34/a19947.html", "dd/d34/a19947" ],
-    [ "boss_urom", "da/d50/a19943.html#ae85d0bb54d3bf6571bec9d35f31a3e25", null ],
-    [ "GetAI", "da/d50/a19943.html#ac381b851f3cc746fb323ff238892c537", null ]
+    [ "boss_eregosAI", "dd/d34/a19947.html", "dd/d34/a19947" ],
+    [ "boss_eregos", "da/d50/a19943.html#a105820f29aa1391d77a56e024c4b5637", null ],
+    [ "GetAI", "da/d50/a19943.html#aee43f0dfee70ab9618c560a27504cb02", null ]
 ];

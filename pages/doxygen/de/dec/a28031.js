@@ -1,7 +1,7 @@
 var a28031 =
 [
-    [ "OnProc", "de/dec/a28031.html#a7ab183d734c543be2866c57f1e5cc508", null ],
-    [ "PrepareAuraScript", "de/dec/a28031.html#a31118cda9f29318f4620caf38c09522a", null ],
-    [ "Register", "de/dec/a28031.html#ac27f99aafa92ae85a247c6f25ece8c7b", null ],
-    [ "Validate", "de/dec/a28031.html#aa193bddd2ba9efe70343c5501d737fa4", null ]
+    [ "HandleDummy", "de/dec/a28031.html#a436ed0843e0035308c69f0854decd7f2", null ],
+    [ "PrepareSpellScript", "de/dec/a28031.html#a42ff645d6c8e94353ae118327af5f4e6", null ],
+    [ "Register", "de/dec/a28031.html#a0b69f667ea83dee61206bbc723020cbc", null ],
+    [ "Validate", "de/dec/a28031.html#a93e68d77227297883aae472ef08fb67c", null ]
 ];

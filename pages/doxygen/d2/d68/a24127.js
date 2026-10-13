@@ -1,6 +1,11 @@
 var a24127 =
 [
-    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "d0/de2/a24131.html", "d0/de2/a24131" ],
-    [ "npc_deaths_door_fell_cannon_target_bunny", "d2/d68/a24127.html#a1385e50777282fae0c8f8ca2f9f8a3e6", null ],
-    [ "GetAI", "d2/d68/a24127.html#a250707096229da28024960beeb7725bf", null ]
+    [ "boss_pathaleon_the_calculator", "d2/d68/a24127.html#a679dc3ccc23c6def44e0f0669822e146", null ],
+    [ "CanAIAttack", "d2/d68/a24127.html#abcbb5f1236ebfbec680241ae8c5cbb00", null ],
+    [ "DoAction", "d2/d68/a24127.html#a814cb56cc18277cb4adbd7dc8a82b06d", null ],
+    [ "JustDied", "d2/d68/a24127.html#a0224d47bc85fe54c0cfded69b55e57b3", null ],
+    [ "JustEngagedWith", "d2/d68/a24127.html#a3ba024e86ceb83ebb26afcc11a75791d", null ],
+    [ "KilledUnit", "d2/d68/a24127.html#a899fd2e1e01ac1347e43bcb290babc5b", null ],
+    [ "Reset", "d2/d68/a24127.html#adc48067c3656bf768c3013ff266565c0", null ],
+    [ "_isEnraged", "d2/d68/a24127.html#ab875fb787d71eaf008b7267c81a2a4df", null ]
 ];

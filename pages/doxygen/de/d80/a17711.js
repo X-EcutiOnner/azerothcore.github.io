@@ -1,7 +1,8 @@
 var a17711 =
 [
-    [ "HandleApplyAura", "de/d80/a17711.html#ac71784d7d135df4828ddcf5c85c4301c", null ],
-    [ "PrepareSpellScript", "de/d80/a17711.html#a097bf3b27e4b2d9ceddea07b9c0b8ce9", null ],
-    [ "Register", "de/d80/a17711.html#a80638966202cb9e27d204ea621e379ef", null ],
-    [ "Validate", "de/d80/a17711.html#aaa3505a74905b91f52e37b0ded0ba7fd", null ]
+    [ "boss_eck", "de/d80/a17711.html#a665b54f72e674c8f65dd09daba5413db", null ],
+    [ "InitializeAI", "de/d80/a17711.html#a92e5117337d372e1700d074f02c06df6", null ],
+    [ "JustEngagedWith", "de/d80/a17711.html#ac719d6bbebe6c1c3e70d54f4bd48e116", null ],
+    [ "MovementInform", "de/d80/a17711.html#aeaa0388d9fee4c6a025f823cd9e7e650", null ],
+    [ "SpellHitTarget", "de/d80/a17711.html#a63125d970933d6fa1f196aa28c588f40", null ]
 ];

@@ -1,7 +1,8 @@
 var a26991 =
 [
-    [ "CheckAreaTarget", "dc/d10/a26991.html#a3c2dc43efc37be1b34cba266a478f46e", null ],
-    [ "PrepareAuraScript", "dc/d10/a26991.html#a88c7c19e87106e1bbf6cc5a24a3bc2e4", null ],
-    [ "Register", "dc/d10/a26991.html#a9cbc5794b1ed54fe9313cd161ec5b19f", null ],
-    [ "Validate", "dc/d10/a26991.html#ab18a951259cc74b0ba8319f757e38eca", null ]
+    [ "CheckCast", "dc/d10/a26991.html#a5fc226206c08aa65459c144cd5f34c6c", null ],
+    [ "PrepareSpellScript", "dc/d10/a26991.html#a1c0f324c7c2f2799990dcc116edd69cf", null ],
+    [ "Register", "dc/d10/a26991.html#a35239e58eb76c0ffe74e0feee2250fa1", null ],
+    [ "TriggerDebuffs", "dc/d10/a26991.html#a1579b28071e2194625f722a29ded39b8", null ],
+    [ "Validate", "dc/d10/a26991.html#a767853d4b05e055cb32991bfe8c6516a", null ]
 ];

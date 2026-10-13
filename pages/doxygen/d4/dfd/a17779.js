@@ -1,6 +1,6 @@
 var a17779 =
 [
-    [ "boss_prince_taldaramAI", "d2/d5d/a17783.html", "d2/d5d/a17783" ],
-    [ "boss_prince_taldaram_icc", "d4/dfd/a17779.html#abe14f754e1daf597aa2b7d401f337c8d", null ],
-    [ "GetAI", "d4/dfd/a17779.html#a2a8c89206ab72afc68260f41a246da3b", null ]
+    [ "boss_prince_kelesethAI", "d2/d5d/a17783.html", "d2/d5d/a17783" ],
+    [ "boss_prince_keleseth_icc", "d4/dfd/a17779.html#a0df14bbfc96b1d6eff19633716cea9f9", null ],
+    [ "GetAI", "d4/dfd/a17779.html#ae5a03bbe1d85b9bc865026f05a99545e", null ]
 ];

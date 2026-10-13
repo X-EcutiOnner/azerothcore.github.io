@@ -121,9 +121,9 @@ $(document).ready(function(){initNavTree('de/d96/a01685.html','../../'); initRes
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d58/a13715.html">boss_jarien</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d96/a13719.html">boss_jarien</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d96/a13719.html">boss_sothos</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dbe/a13723.html">boss_sothos</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
@@ -2919,6 +2919,10 @@ Enumerations</h2></td></tr>
 &#160;&#160;<a class="el" href="../../de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cae69e2264948bdd529250fbebad159275">SPELL_CUSTOM_08_STATE</a> = 45800
 , <br />
 &#160;&#160;<a class="el" href="../../de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca7485400f7f3c06376aba102ad64ffddf">SPELL_DESTROY_ALL_DRAKES</a> = 46707
+, <br />
+&#160;&#160;<a class="el" href="../../de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca27fe30ac398369e590388303632044c8">SPELL_KNOCKBACK</a> = 47113
+, <br />
+&#160;&#160;<a class="el" href="../../de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cad0ed6ff1cfea07c54007f4d3a4fc1d78">SPELL_SWAT</a> = 46548
 , <br />
 &#160;&#160;<a class="el" href="../../de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca71f16716214f1f22b82cc0a0e0ea4c82">SPELL_SINISTER_REFLECTION_SUMMON</a> = 45891
 , <br />
@@ -9338,6 +9342,8 @@ Variables</h2></td></tr>
 <tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298ca8c377b8b69d0dbe801ea2d87064096b3" name="a5bd342133be8c2137b831460acc9298ca8c377b8b69d0dbe801ea2d87064096b3"></a>SPELL_ARMAGEDDON_MISSILE&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298cae69e2264948bdd529250fbebad159275" name="a5bd342133be8c2137b831460acc9298cae69e2264948bdd529250fbebad159275"></a>SPELL_CUSTOM_08_STATE&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298ca7485400f7f3c06376aba102ad64ffddf" name="a5bd342133be8c2137b831460acc9298ca7485400f7f3c06376aba102ad64ffddf"></a>SPELL_DESTROY_ALL_DRAKES&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298ca27fe30ac398369e590388303632044c8" name="a5bd342133be8c2137b831460acc9298ca27fe30ac398369e590388303632044c8"></a>SPELL_KNOCKBACK&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298cad0ed6ff1cfea07c54007f4d3a4fc1d78" name="a5bd342133be8c2137b831460acc9298cad0ed6ff1cfea07c54007f4d3a4fc1d78"></a>SPELL_SWAT&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298ca71f16716214f1f22b82cc0a0e0ea4c82" name="a5bd342133be8c2137b831460acc9298ca71f16716214f1f22b82cc0a0e0ea4c82"></a>SPELL_SINISTER_REFLECTION_SUMMON&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298ca694ff4e39c65fe5ba7f0abd5e7da9091" name="a5bd342133be8c2137b831460acc9298ca694ff4e39c65fe5ba7f0abd5e7da9091"></a>SPELL_SINISTER_REFLECTION_CLASS&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298cab8620ab50f2f9bd8645774fcc6230a0b" name="a5bd342133be8c2137b831460acc9298cab8620ab50f2f9bd8645774fcc6230a0b"></a>SPELL_SINISTER_REFLECTION_CLONE&#160;</td><td class="fielddoc"></td></tr>
@@ -12648,12 +12654,12 @@ Variables</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  361</span>{</div>
-<div class="line"><span class="lineno">  362</span>    <a class="code hl_define" href="../../d6/d53/a01688.html#ac55266bf1190af819bbbcd148adae098">RegisterStratholmeCreatureAI</a>(<a class="code hl_struct" href="../../d6/d58/a13715.html">boss_jarien</a>);</div>
-<div class="line"><span class="lineno">  363</span>    <a class="code hl_define" href="../../d6/d53/a01688.html#ac55266bf1190af819bbbcd148adae098">RegisterStratholmeCreatureAI</a>(<a class="code hl_struct" href="../../d5/d96/a13719.html">boss_sothos</a>);</div>
+<div class="line"><span class="lineno">  362</span>    <a class="code hl_define" href="../../d6/d53/a01688.html#ac55266bf1190af819bbbcd148adae098">RegisterStratholmeCreatureAI</a>(<a class="code hl_struct" href="../../d5/d96/a13719.html">boss_jarien</a>);</div>
+<div class="line"><span class="lineno">  363</span>    <a class="code hl_define" href="../../d6/d53/a01688.html#ac55266bf1190af819bbbcd148adae098">RegisterStratholmeCreatureAI</a>(<a class="code hl_struct" href="../../d9/dbe/a13723.html">boss_sothos</a>);</div>
 <div class="line"><span class="lineno">  364</span>}</div>
 <div class="ttc" id="aa01688_html_ac55266bf1190af819bbbcd148adae098"><div class="ttname"><a href="../../d6/d53/a01688.html#ac55266bf1190af819bbbcd148adae098">RegisterStratholmeCreatureAI</a></div><div class="ttdeci">#define RegisterStratholmeCreatureAI(ai_name)</div><div class="ttdef"><b>Definition:</b> stratholme.h:117</div></div>
-<div class="ttc" id="aa13715_html"><div class="ttname"><a href="../../d6/d58/a13715.html">boss_jarien</a></div><div class="ttdef"><b>Definition:</b> boss_jarien_and_sothos.cpp:105</div></div>
-<div class="ttc" id="aa13719_html"><div class="ttname"><a href="../../d5/d96/a13719.html">boss_sothos</a></div><div class="ttdef"><b>Definition:</b> boss_jarien_and_sothos.cpp:230</div></div>
+<div class="ttc" id="aa13719_html"><div class="ttname"><a href="../../d5/d96/a13719.html">boss_jarien</a></div><div class="ttdef"><b>Definition:</b> boss_jarien_and_sothos.cpp:105</div></div>
+<div class="ttc" id="aa13723_html"><div class="ttname"><a href="../../d9/dbe/a13723.html">boss_sothos</a></div><div class="ttdef"><b>Definition:</b> boss_jarien_and_sothos.cpp:230</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00117">RegisterStratholmeCreatureAI</a>.</p>
 
@@ -12732,14 +12738,14 @@ Variables</h2></td></tr>
 <div class="ttc" id="aa03266_html_a5e9099d162ad74df5a3e3f5c0f056c37a8b5a7f923cba80ea3a429286eb38d0a0"><div class="ttname"><a href="../../d6/d8d/a03266.html#a5e9099d162ad74df5a3e3f5c0f056c37a8b5a7f923cba80ea3a429286eb38d0a0">REACT_PASSIVE</a></div><div class="ttdeci">@ REACT_PASSIVE</div><div class="ttdef"><b>Definition:</b> Unit.h:569</div></div>
 <div class="ttc" id="aa08471_html"><div class="ttname"><a href="../../d5/d6c/a08471.html">Creature</a></div><div class="ttdef"><b>Definition:</b> Creature.h:47</div></div>
 <div class="ttc" id="aa08651_html"><div class="ttname"><a href="../../d7/d00/a08651.html">GameObject</a></div><div class="ttdef"><b>Definition:</b> GameObject.h:120</div></div>
-<div class="ttc" id="aa08883_html_aa7cc61d571dbc39ca8ac6ac10ffd18ab"><div class="ttname"><a href="../../d4/d08/a08883.html#aa7cc61d571dbc39ca8ac6ac10ffd18ab">WorldObject::FindNearestCreature</a></div><div class="ttdeci">Creature * FindNearestCreature(uint32 entry, float range, bool alive=true) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:2558</div></div>
-<div class="ttc" id="aa08883_html_ae5570989260234d213323c44ab5fb44c"><div class="ttname"><a href="../../d4/d08/a08883.html#ae5570989260234d213323c44ab5fb44c">WorldObject::SummonGameObject</a></div><div class="ttdeci">GameObject * SummonGameObject(uint32 entry, float x, float y, float z, float ang, float rotation0, float rotation1, float rotation2, float rotation3, uint32 respawnTime, bool checkTransport=true, GOSummonType summonType=GO_SUMMON_TIMED_OR_CORPSE_DESPAWN)</div><div class="ttdef"><b>Definition:</b> Object.cpp:2467</div></div>
+<div class="ttc" id="aa08883_html_aa7cc61d571dbc39ca8ac6ac10ffd18ab"><div class="ttname"><a href="../../d4/d08/a08883.html#aa7cc61d571dbc39ca8ac6ac10ffd18ab">WorldObject::FindNearestCreature</a></div><div class="ttdeci">Creature * FindNearestCreature(uint32 entry, float range, bool alive=true) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:2559</div></div>
+<div class="ttc" id="aa08883_html_ae5570989260234d213323c44ab5fb44c"><div class="ttname"><a href="../../d4/d08/a08883.html#ae5570989260234d213323c44ab5fb44c">WorldObject::SummonGameObject</a></div><div class="ttdeci">GameObject * SummonGameObject(uint32 entry, float x, float y, float z, float ang, float rotation0, float rotation1, float rotation2, float rotation3, uint32 respawnTime, bool checkTransport=true, GOSummonType summonType=GO_SUMMON_TIMED_OR_CORPSE_DESPAWN)</div><div class="ttdef"><b>Definition:</b> Object.cpp:2468</div></div>
 <div class="ttc" id="aa08931_html_a4e813a59345a6275e8b87b96be03e60b"><div class="ttname"><a href="../../d7/dc3/a08931.html#a4e813a59345a6275e8b87b96be03e60b">Position::GetPositionZ</a></div><div class="ttdeci">float GetPositionZ() const</div><div class="ttdef"><b>Definition:</b> Position.h:123</div></div>
 <div class="ttc" id="aa08931_html_a74cabfb8f441acb38e1abd5bf6ecdc84"><div class="ttname"><a href="../../d7/dc3/a08931.html#a74cabfb8f441acb38e1abd5bf6ecdc84">Position::GetOrientation</a></div><div class="ttdeci">float GetOrientation() const</div><div class="ttdef"><b>Definition:</b> Position.h:124</div></div>
 <div class="ttc" id="aa08931_html_ad5577c934d9e845b44759b67c534c3e8"><div class="ttname"><a href="../../d7/dc3/a08931.html#ad5577c934d9e845b44759b67c534c3e8">Position::GetPositionX</a></div><div class="ttdeci">float GetPositionX() const</div><div class="ttdef"><b>Definition:</b> Position.h:121</div></div>
 <div class="ttc" id="aa08931_html_ae79fc664f6cd027f5d49f6c7df8e4c9e"><div class="ttname"><a href="../../d7/dc3/a08931.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">Position::GetPositionY</a></div><div class="ttdeci">float GetPositionY() const</div><div class="ttdef"><b>Definition:</b> Position.h:122</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02558">WorldObject::FindNearestCreature()</a>, <a class="el" href="../../#l00402">GAMEOBJECT_FACTION</a>, <a class="el" href="../../#l00124">Position::GetOrientation()</a>, <a class="el" href="../../#l00121">Position::GetPositionX()</a>, <a class="el" href="../../#l00122">Position::GetPositionY()</a>, <a class="el" href="../../#l00123">Position::GetPositionZ()</a>, <a class="el" href="../../#l00080">GO_JARIEN_AND_SOTHOS_HEIRLOOMS</a>, <a class="el" href="../../#l00111">GO_READY</a>, <a class="el" href="../../#l00709">GO_STATE_READY</a>, <a class="el" href="../../#l00070">heirloomsPosition</a>, <a class="el" href="../../#l00056">NPC_SPIRIT_OF_JARIEN</a>, <a class="el" href="../../#l00057">NPC_SPIRIT_OF_SOTHOS</a>, <a class="el" href="../../#l00569">REACT_PASSIVE</a>, <a class="el" href="../../#l00037">SAY_SPIRIT_BOTH_DEAD</a>, and <a class="el" href="../../#l02467">WorldObject::SummonGameObject()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02559">WorldObject::FindNearestCreature()</a>, <a class="el" href="../../#l00402">GAMEOBJECT_FACTION</a>, <a class="el" href="../../#l00124">Position::GetOrientation()</a>, <a class="el" href="../../#l00121">Position::GetPositionX()</a>, <a class="el" href="../../#l00122">Position::GetPositionY()</a>, <a class="el" href="../../#l00123">Position::GetPositionZ()</a>, <a class="el" href="../../#l00080">GO_JARIEN_AND_SOTHOS_HEIRLOOMS</a>, <a class="el" href="../../#l00111">GO_READY</a>, <a class="el" href="../../#l00709">GO_STATE_READY</a>, <a class="el" href="../../#l00070">heirloomsPosition</a>, <a class="el" href="../../#l00056">NPC_SPIRIT_OF_JARIEN</a>, <a class="el" href="../../#l00057">NPC_SPIRIT_OF_SOTHOS</a>, <a class="el" href="../../#l00569">REACT_PASSIVE</a>, <a class="el" href="../../#l00037">SAY_SPIRIT_BOTH_DEAD</a>, and <a class="el" href="../../#l02468">WorldObject::SummonGameObject()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00154">boss_jarien::JustDied()</a>, and <a class="el" href="../../#l00280">boss_sothos::JustDied()</a>.</p>
 
@@ -12768,7 +12774,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_ddeb450e5fe586f747c0635391d1d1d6.html">EasternKingdoms</a></li><li class="navelem"><a class="el" href="../../dir_2a809e8107a21363b40c79ab70d79b15.html">Stratholme</a></li><li class="navelem"><a class="el" href="../../de/d96/a01685.html">boss_jarien_and_sothos.cpp</a></li>
-    <li class="footer">Generated on Tue Oct 6 2026 01:25:43 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Tue Oct 13 2026 02:14:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,6 +1,6 @@
 var a21783 =
 [
-    [ "PrepareSpellScript", "d2/dcc/a21783.html#a072a5228690b929af3b65d771bf5f485", null ],
-    [ "Register", "d2/dcc/a21783.html#a87235eb9494edd94221f0380e815aa6b", null ],
-    [ "SetDest", "d2/dcc/a21783.html#abe2c48bf2d276871f3e4146d1358ea4c", null ]
+    [ "HandleEffect", "d2/dcc/a21783.html#a6732d51d5de34b3e737cc785fb2ab43e", null ],
+    [ "PrepareSpellScript", "d2/dcc/a21783.html#aec199e9f9651267fac88bd86be326bb4", null ],
+    [ "Register", "d2/dcc/a21783.html#a14bd854db86750704c8377d457dea360", null ]
 ];

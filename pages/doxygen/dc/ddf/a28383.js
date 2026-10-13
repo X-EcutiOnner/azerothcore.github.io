@@ -1,6 +1,7 @@
 var a28383 =
 [
-    [ "go_brewfest_musicAI", "db/d10/a28387.html", "db/d10/a28387" ],
-    [ "go_brewfest_music", "dc/ddf/a28383.html#a787963a5ee591933d62fdb52911f9a77", null ],
-    [ "GetAI", "dc/ddf/a28383.html#a50f36a6d0a72e7188dbe1bdaa09f1888", null ]
+    [ "go_bear_trapAI", "dc/ddf/a28383.html#ad97484d73bcea6a84909004c099eec34", null ],
+    [ "Initialize", "dc/ddf/a28383.html#a89c76f1563f541c572c48f8cf633aa6a", null ],
+    [ "UpdateAI", "dc/ddf/a28383.html#a8901922d736bb0391da5618593ced5c5", null ],
+    [ "_events", "dc/ddf/a28383.html#a59f37a130326818dd922763ae9058fe7", null ]
 ];

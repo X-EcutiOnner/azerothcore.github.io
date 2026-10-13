@@ -1,7 +1,7 @@
 var a25619 =
 [
-    [ "OnPeriodic", "d7/d82/a25619.html#a58f13f947b4daac98651f7fa46d7d674", null ],
-    [ "PrepareAuraScript", "d7/d82/a25619.html#a85c4d84408becf2fb4ac55d9da369b25", null ],
-    [ "Register", "d7/d82/a25619.html#ad0c688255e340c428624de7071b5df56", null ],
-    [ "Validate", "d7/d82/a25619.html#a5ecd0e840bd94d4414acfb0aef9abd28", null ]
+    [ "HandleDamage", "d7/d82/a25619.html#a9c9bbe49388cf5d04650572fdf789e5e", null ],
+    [ "PrepareSpellScript", "d7/d82/a25619.html#ac89a628f1aba54aa2ade876a4f7911b8", null ],
+    [ "Register", "d7/d82/a25619.html#a627bffccdd78c00f0f5a4241f36aeec8", null ],
+    [ "Validate", "d7/d82/a25619.html#aed63b40f8e2cc6fd32dd536a2d56c7c3", null ]
 ];

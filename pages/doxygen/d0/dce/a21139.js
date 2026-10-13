@@ -1,11 +1,16 @@
 var a21139 =
 [
-    [ "boss_yoggsaron_neltharion", "d0/dce/a21139.html#ac7ef088876e15e5edc94e4bd92b7f39d", null ],
-    [ "NextStep", "d0/dce/a21139.html#ac0824d322b7e5825686e8a5c2dd4ec94", null ],
-    [ "Reset", "d0/dce/a21139.html#ab26d57690c1d2477678dc9759aefeab2", null ],
-    [ "Say", "d0/dce/a21139.html#a79d315f37b0f0beceddcae85dcb8697f", null ],
-    [ "UpdateAI", "d0/dce/a21139.html#a3728f095ee83c3ea9063b1679f1b3dc9", null ],
-    [ "_checkTimer", "d0/dce/a21139.html#a2adcf3f46d4003ae2044eda474e51983", null ],
-    [ "_running", "d0/dce/a21139.html#acd807afae6aa88c2e385765231a56a86", null ],
-    [ "_step", "d0/dce/a21139.html#a4e4265f17cbc8cfc3dbe09dca7af7939", null ]
+    [ "boss_yoggsaron_immortal_guardian", "d0/dce/a21139.html#a14839f96771d185718e88a4e371b31f6", null ],
+    [ "DamageTaken", "d0/dce/a21139.html#a9bf936d6a501e53ce98786f043562a71", null ],
+    [ "EngageFromStasis", "d0/dce/a21139.html#af9717bb7058b8a51dd30dc9edacd66e7", null ],
+    [ "JustEngagedWith", "d0/dce/a21139.html#a7583d6058cf805fa1c36cd98b9e9e7d2", null ],
+    [ "MoveInLineOfSight", "d0/dce/a21139.html#acbf73ba53c74b1e663eccb6866828134", null ],
+    [ "Reset", "d0/dce/a21139.html#a1173d401233670a45b31040b8e5d98cb", null ],
+    [ "SpellHit", "d0/dce/a21139.html#ae9fedb55d903edf6384cb9d0285cc528", null ],
+    [ "UpdateAI", "d0/dce/a21139.html#adaae7e2cd52951095cb82819d9874426", null ],
+    [ "_spawnStasis", "d0/dce/a21139.html#a7de7c5e60cc888d5729273e63495e382", null ],
+    [ "DRAIN_LIFE_HEALTH_CHECK", "d0/dce/a21139.html#afc8d67d6a482a20638e17d30b58c5c8b", null ],
+    [ "DRAIN_LIFE_INTERVAL", "d0/dce/a21139.html#a1a4c5a3f9261b4da86f9bc0476216dee", null ],
+    [ "SPAWN_STASIS_TIME", "d0/dce/a21139.html#a5d8549b48c63168c205d5e126209ee66", null ],
+    [ "SPAWN_VISUAL_DELAY", "d0/dce/a21139.html#a0db02bb21ba048c236a432421c009250", null ]
 ];

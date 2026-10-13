@@ -1,12 +1,8 @@
 var a21615 =
 [
-    [ "boss_xevozz", "db/d90/a21615.html#aea402ffbe689ca65e29b30899862a8bc", null ],
-    [ "EnterEvadeMode", "db/d90/a21615.html#afe4aa509ca6d43bf3470d32efeeb17ba", null ],
-    [ "ExecuteEvent", "db/d90/a21615.html#af5b37fc643f2b22468a38655fce63d25", null ],
-    [ "JustDied", "db/d90/a21615.html#af36accd2adb29ebb72fe6a925c4e361e", null ],
-    [ "JustEngagedWith", "db/d90/a21615.html#ae5d74a07c5bf3e2c12e4ce8b34331f98", null ],
-    [ "JustSummoned", "db/d90/a21615.html#a17f1b1cacb7191b11053e75e0ff9b584", null ],
-    [ "KilledUnit", "db/d90/a21615.html#a9f50d1d57b0dc8f8844e90e8f2433726", null ],
-    [ "MoveInLineOfSight", "db/d90/a21615.html#a4afdf09e7b8ebf54bdd2546337960a1d", null ],
-    [ "SummonedCreatureDespawn", "db/d90/a21615.html#a1493a5acdfcca7d01446564db622239e", null ]
+    [ "boss_lavanthor", "db/d90/a21615.html#ad264818ef0f539c48160de9dbebeac7f", null ],
+    [ "EnterEvadeMode", "db/d90/a21615.html#aee499fcde639aaca7131dba9cca1d4d0", null ],
+    [ "ExecuteEvent", "db/d90/a21615.html#a16d7cd5596c20c3663d63549b33c8b4a", null ],
+    [ "JustEngagedWith", "db/d90/a21615.html#a4bc5fa66192daab98027539efda37bdc", null ],
+    [ "MoveInLineOfSight", "db/d90/a21615.html#a6f68cd280561b428400a08a155f83ccb", null ]
 ];

@@ -1,9 +1,9 @@
 var a01031 =
 [
-    [ "boss_slad_ran", "dd/d3f/a17739.html", "dd/d3f/a17739" ],
-    [ "boss_slad_ran::boss_slad_ranAI", "de/ded/a17743.html", "de/ded/a17743" ],
-    [ "spell_sladran_grip_of_sladran_aura", "d4/dd1/a17747.html", "d4/dd1/a17747" ],
-    [ "achievement_snakes_whyd_it_have_to_be_snakes", "d1/daa/a17751.html", "d1/daa/a17751" ],
+    [ "boss_slad_ran", "d4/dd1/a17747.html", "d4/dd1/a17747" ],
+    [ "boss_slad_ran::boss_slad_ranAI", "d1/daa/a17751.html", "d1/daa/a17751" ],
+    [ "spell_sladran_grip_of_sladran_aura", "dc/dbc/a17755.html", "dc/dbc/a17755" ],
+    [ "achievement_snakes_whyd_it_have_to_be_snakes", "d0/d8c/a17759.html", "d0/d8c/a17759" ],
     [ "Misc", "d6/dcf/a01031.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "NEFARIUS_PATH_2", "dd/d8d/a01667.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],
       [ "NEFARIUS_PATH_3", "dd/d8d/a01667.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6596b4c264ab163a34c17c6ea798adcb", null ],
@@ -1402,6 +1402,8 @@ var a01031 =
       [ "SPELL_ARMAGEDDON_MISSILE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca8c377b8b69d0dbe801ea2d87064096b3", null ],
       [ "SPELL_CUSTOM_08_STATE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cae69e2264948bdd529250fbebad159275", null ],
       [ "SPELL_DESTROY_ALL_DRAKES", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca7485400f7f3c06376aba102ad64ffddf", null ],
+      [ "SPELL_KNOCKBACK", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca27fe30ac398369e590388303632044c8", null ],
+      [ "SPELL_SWAT", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cad0ed6ff1cfea07c54007f4d3a4fc1d78", null ],
       [ "SPELL_SINISTER_REFLECTION_SUMMON", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca71f16716214f1f22b82cc0a0e0ea4c82", null ],
       [ "SPELL_SINISTER_REFLECTION_CLASS", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca694ff4e39c65fe5ba7f0abd5e7da9091", null ],
       [ "SPELL_SINISTER_REFLECTION_CLONE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cab8620ab50f2f9bd8645774fcc6230a0b", null ],

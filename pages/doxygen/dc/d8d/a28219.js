@@ -1,5 +1,7 @@
 var a28219 =
 [
-    [ "AreaTrigger_at_stormwright_shelf", "dc/d8d/a28219.html#a97cdf51a8992b3d9edc138351770fd75", null ],
-    [ "OnTrigger", "dc/d8d/a28219.html#ab635f9328b35f3570211cf6ffc60a4c6", null ]
+    [ "CharacterDeleteActionIpLogger", "dc/d8d/a28219.html#a37481de65409cf375dcff45615463949", null ],
+    [ "DeleteIPLogAction", "dc/d8d/a28219.html#a73a5ddacd8892d2300be313cfc12f534", null ],
+    [ "OnPlayerDelete", "dc/d8d/a28219.html#adb16e45e425fa816b2572692349d0005", null ],
+    [ "OnPlayerFailedDelete", "dc/d8d/a28219.html#a16bc6247d220c1b6c52808cb4a522c11", null ]
 ];

@@ -1,6 +1,6 @@
 var a19379 =
 [
-    [ "npc_icc_valkyr_heraldAI", "d9/d1d/a19383.html", "d9/d1d/a19383" ],
-    [ "npc_icc_valkyr_herald", "d9/d18/a19379.html#a9d06e0dec8cb960d34c2089c1c0d8ccb", null ],
-    [ "GetAI", "d9/d18/a19379.html#a7537269841d0380d2dc9e4641705acf9", null ]
+    [ "npc_icc_skybreaker_luminaryAI", "d9/d1d/a19383.html", "d9/d1d/a19383" ],
+    [ "npc_icc_skybreaker_luminary", "d9/d18/a19379.html#aff97d0425cf86a8b411ef3e2bd0cc054", null ],
+    [ "GetAI", "d9/d18/a19379.html#ad1378aaa7438758f8a796d8e74ae0ce8", null ]
 ];

@@ -1,8 +1,8 @@
 var a01016 =
 [
-    [ "ActiveBoatStruct", "d7/d0f/a21479.html", "d7/d0f/a21479" ],
-    [ "boss_ymiron", "d5/d36/a21483.html", "d5/d36/a21483" ],
-    [ "boss_ymiron::boss_ymironAI", "d2/dbe/a21487.html", "d2/dbe/a21487" ],
+    [ "ActiveBoatStruct", "d0/d11/a21491.html", "d0/d11/a21491" ],
+    [ "boss_ymiron", "dd/d4b/a21495.html", "dd/d4b/a21495" ],
+    [ "boss_ymiron::boss_ymironAI", "d5/d08/a21499.html", "d5/d08/a21499" ],
     [ "Events", "de/def/a01016.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "de/dca/a01907.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "de/dca/a01907.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],
@@ -544,7 +544,8 @@ var a01016 =
       [ "EVENT_GORMOK_ATTACK", "d4/d49/a01316.html#af60e00b78607064c5be6aa9397ea49c1a50039b777364c63e9ed7aa2d59bde5e0", null ],
       [ "EVENT_SCENE_005", "d4/d49/a01316.html#af60e00b78607064c5be6aa9397ea49c1a0e50bbe28bfbf438f305b68cb886f62a", null ],
       [ "EVENT_SCENE_005_2", "d4/d49/a01316.html#af60e00b78607064c5be6aa9397ea49c1a629c73887e129e9e4a810f38f55a3aad", null ],
-      [ "EVENT_SUMMON_ACIDMAW_AND_DREADSCALE", "d4/d49/a01316.html#af60e00b78607064c5be6aa9397ea49c1ac4877070c9bc97fa7fc5e258a9b1355b", null ],
+      [ "EVENT_SUMMON_DREADSCALE", "d4/d49/a01316.html#af60e00b78607064c5be6aa9397ea49c1ad5bdc623ddb7772abf14b57803dcc3ac", null ],
+      [ "EVENT_SUMMON_ACIDMAW", "d4/d49/a01316.html#af60e00b78607064c5be6aa9397ea49c1a0b082bf9f4ce48fb930050bd945802b4", null ],
       [ "EVENT_ACIDMAW_AND_DREADSCALE_ATTACK", "d4/d49/a01316.html#af60e00b78607064c5be6aa9397ea49c1a44abc30a51a8f26d46d9face60a54aa3", null ],
       [ "EVENT_SCENE_006", "d4/d49/a01316.html#af60e00b78607064c5be6aa9397ea49c1af86436f3038a685798a8367c52d042b0", null ],
       [ "EVENT_SUMMON_ICEHOWL", "d4/d49/a01316.html#af60e00b78607064c5be6aa9397ea49c1a599818bfec273aaee545ebbd22b72cf0", null ],
@@ -554,7 +555,8 @@ var a01016 =
       [ "EVENT_SCENE_101", "d4/d49/a01316.html#af60e00b78607064c5be6aa9397ea49c1a1607721d8cf36884161f10071c20477f", null ],
       [ "EVENT_SCENE_102", "d4/d49/a01316.html#af60e00b78607064c5be6aa9397ea49c1af3de9bfd0298e03bc48a07b7f15269a2", null ],
       [ "EVENT_SCENE_103", "d4/d49/a01316.html#af60e00b78607064c5be6aa9397ea49c1a7048f4df677604dd1470ac18f38a9129", null ],
-      [ "EVENT_SCENE_104", "d4/d49/a01316.html#af60e00b78607064c5be6aa9397ea49c1a13b163f4e78756812c04b536936f941f", null ],
+      [ "EVENT_WILFRED_TALK_EMOTE", "d4/d49/a01316.html#af60e00b78607064c5be6aa9397ea49c1a9793404cb82a1ce8e66eb6540b238768", null ],
+      [ "EVENT_WILFRED_STOP_TALK_EMOTE", "d4/d49/a01316.html#af60e00b78607064c5be6aa9397ea49c1ab9b7ab0b0f9213b3df184c48bd168f83", null ],
       [ "EVENT_SUMMON_JARAXXUS", "d4/d49/a01316.html#af60e00b78607064c5be6aa9397ea49c1ad73647acc212188f944b06f2b39f9337", null ],
       [ "EVENT_SCENE_105", "d4/d49/a01316.html#af60e00b78607064c5be6aa9397ea49c1ae57eb2da117d500fb40ecb9c200f938a", null ],
       [ "EVENT_SCENE_106", "d4/d49/a01316.html#af60e00b78607064c5be6aa9397ea49c1a7eeac286eec9c41a33ee6fea164edc8a", null ],

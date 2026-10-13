@@ -1,6 +1,7 @@
 var a21375 =
 [
-    [ "npc_massive_jormungarAI", "d5/d3e/a21379.html", "d5/d3e/a21379" ],
-    [ "npc_massive_jormungar", "dc/d39/a21375.html#ad17b632fcfe78019dcb9e6b58fa1ac01", null ],
-    [ "GetAI", "dc/d39/a21375.html#a68e3557e967ef633ba59fa81e661b80c", null ]
+    [ "HandleOnEffectRemove", "dc/d39/a21375.html#acccd790c53f567f93e64afa7b7d1fe6f", null ],
+    [ "PrepareAuraScript", "dc/d39/a21375.html#a72e6468602d40eb479a80c611d60eb2e", null ],
+    [ "Register", "dc/d39/a21375.html#a213b50ebb7ce248a36dd78167d1190bb", null ],
+    [ "Validate", "dc/d39/a21375.html#a8f3ec40c0c2e38dc32db30ce36129684", null ]
 ];

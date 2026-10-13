@@ -1,6 +1,6 @@
 var a28251 =
 [
-    [ "npc_dream_fogAI", "d8/d71/a28255.html", "d8/d71/a28255" ],
-    [ "npc_dream_fog", "d6/d83/a28251.html#ae50306be88f15c9dfc4d0f12c63c68e6", null ],
-    [ "GetAI", "d6/d83/a28251.html#a48c45fec086e3a50462deed44734ba38", null ]
+    [ "AreaTrigger_at_brewfest", "d6/d83/a28251.html#ad7e2916aefc6efbfb9f747a75a4a14a3", null ],
+    [ "OnTrigger", "d6/d83/a28251.html#a17e4a8d671136466c7673789e4f69a84", null ],
+    [ "_triggerTimes", "d6/d83/a28251.html#ab763765427796ad17338bcc8d63cf891", null ]
 ];

@@ -1,6 +1,7 @@
 var a20907 =
 [
-    [ "FilterTargets", "df/d1b/a20907.html#aa7fcef13b5a4ba40092f2f95842349ff", null ],
-    [ "PrepareSpellScript", "df/d1b/a20907.html#a5b94fde8602f7f00342bd81dc9c8cc11", null ],
-    [ "Register", "df/d1b/a20907.html#a6d990937a5fd06a877b775f719ba5a9f", null ]
+    [ "HandleScript", "df/d1b/a20907.html#ab2cfe77248b3e0e3d04c203635f2f4fa", null ],
+    [ "PrepareSpellScript", "df/d1b/a20907.html#a07041d1278d7c12ca40e341fdf0a0b4e", null ],
+    [ "Register", "df/d1b/a20907.html#af75bed8e253cb372f1bceb0ae1e54e1a", null ],
+    [ "Validate", "df/d1b/a20907.html#aa2d5bae5c41f6975aecc4d951a565e81", null ]
 ];

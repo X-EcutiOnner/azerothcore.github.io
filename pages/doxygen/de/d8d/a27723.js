@@ -1,8 +1,7 @@
 var a27723 =
 [
-    [ "CheckProc", "de/d8d/a27723.html#ae89ba0083a1dfe6887daef9af86107a3", null ],
-    [ "HandleProc", "de/d8d/a27723.html#a92b6def8938d4909d241e5dc45cda240", null ],
-    [ "PrepareAuraScript", "de/d8d/a27723.html#af1ac6b3e8f6a482d03029f5b38376180", null ],
-    [ "Register", "de/d8d/a27723.html#a739a759d67ab038b1d883ae716337473", null ],
-    [ "Validate", "de/d8d/a27723.html#a546aa2e3f3e76847de07e310f60be20b", null ]
+    [ "HandleScriptEffect", "de/d8d/a27723.html#a5bbcb05b82e0953c82f2a0d96bd79eab", null ],
+    [ "PrepareSpellScript", "de/d8d/a27723.html#a7462fbeab2254046e12a262418ec0d2c", null ],
+    [ "Register", "de/d8d/a27723.html#ac14625182eb0289d8536ac322500ab45", null ],
+    [ "Validate", "de/d8d/a27723.html#a190b802f3b09655886e5bbb9980375af", null ]
 ];

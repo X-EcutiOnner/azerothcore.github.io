@@ -1,6 +1,7 @@
 var a20779 =
 [
-    [ "ModDest", "de/db1/a20779.html#aae907d93c4c5d951b39c6c71aa647dee", null ],
-    [ "PrepareSpellScript", "de/db1/a20779.html#a028184d1e5a2898d7b6ba7a545683f48", null ],
-    [ "Register", "de/db1/a20779.html#ae9b8d62283a23d7cfcd2ec5d92df7bbe", null ]
+    [ "PrepareSpellScript", "de/db1/a20779.html#afae92a0d4e41fc2fd00b1fd0b6b11a22", null ],
+    [ "PreventSummon", "de/db1/a20779.html#a57fcc7a0e078c344e50863ba1951f244", null ],
+    [ "Register", "de/db1/a20779.html#a3813bf7e198f5f3c146b4639fa83a067", null ],
+    [ "SetDest", "de/db1/a20779.html#a4d49ebdf1dab3b4952e4f4c7c50ca16b", null ]
 ];

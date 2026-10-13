@@ -1,6 +1,7 @@
 var a21119 =
 [
-    [ "boss_yoggsaron_descend_portal", "de/d3c/a21119.html#aa64788351819e9c7f5505c929818770d", null ],
-    [ "OnSpellClick", "de/d3c/a21119.html#af72e8c3611b5e134e39ab9695405e08e", null ],
-    [ "_instance", "de/d3c/a21119.html#a6b430a5f4045cdf3c3524208f02d53d2", null ]
+    [ "boss_yoggsaron_corruptor_tentacle", "de/d3c/a21119.html#afc092be8079630b1214c98b8896a22c3", null ],
+    [ "DoAction", "de/d3c/a21119.html#adf9489b954cc83a26263ffffe4ef2dd5", null ],
+    [ "SelectCorruptionTarget", "de/d3c/a21119.html#a8b868941372af612e269e013594a5c14", null ],
+    [ "UpdateAI", "de/d3c/a21119.html#a2f8911a615d32689088a6c358ac80d3f", null ]
 ];

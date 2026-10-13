@@ -1,8 +1,12 @@
 var a29767 =
 [
-    [ "auraHasCanProcFromProcs", "d5/d3a/a29767.html#af3e394eb5563aa4a76bd51d6c52f6db2", null ],
-    [ "isTriggered", "d5/d3a/a29767.html#aae527e9b8a2969ef67e9c4fbaf43c381", null ],
-    [ "procAuraSpellId", "d5/d3a/a29767.html#ae198c80e6c72eeb72da0abcde8a0f13a", null ],
-    [ "spellHasNotAProc", "d5/d3a/a29767.html#ab2f859d45c5a9a02301ecc117bf3e25e", null ],
-    [ "triggeredByAuraSpellId", "d5/d3a/a29767.html#ad62562e342e1d090e3f26f7c40a35795", null ]
+    [ "HealInfoStubBuilder", "d5/d3a/a29767.html#a57945de96ad065451cadb47edba287c8", null ],
+    [ "Build", "d5/d3a/a29767.html#a291565d223df00ce9d09c0315e803448", null ],
+    [ "WithAbsorb", "d5/d3a/a29767.html#aa09160afe48114a7a3566be328f64658", null ],
+    [ "WithEffectiveHeal", "d5/d3a/a29767.html#a34a359322b018cffc5f54ca999c11b11", null ],
+    [ "WithHeal", "d5/d3a/a29767.html#a812e06b07eeb18c1d379409b77a80b89", null ],
+    [ "WithHitMask", "d5/d3a/a29767.html#ab788ddcc209140ed3c10b02785471dcb", null ],
+    [ "WithOverheal", "d5/d3a/a29767.html#a89c12c30725eb2bdc3889005a38d54eb", null ],
+    [ "WithSpellInfo", "d5/d3a/a29767.html#a4dc784241fbe998437cceb953fb83e1f", null ],
+    [ "_stub", "d5/d3a/a29767.html#ad0da544c651e387d8c6e9b272aa3db7b", null ]
 ];

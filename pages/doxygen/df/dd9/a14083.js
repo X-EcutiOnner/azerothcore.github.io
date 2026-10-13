@@ -1,11 +1,12 @@
 var a14083 =
 [
-    [ "npc_supervisor_raelen", "df/dd9/a14083.html#a2059d41f6df3a44406ab69a0dca501a4", null ],
-    [ "CallPeasent", "df/dd9/a14083.html#a0b8d661a86ec334adeb502d6936135ee", null ],
-    [ "Reset", "df/dd9/a14083.html#a656029c56da84d2d3cee7380d6032e3d", null ],
-    [ "SetData", "df/dd9/a14083.html#ab709a5a975c22556dfe71dce52a3ec2c", null ],
-    [ "UpdateAI", "df/dd9/a14083.html#a623a95d4f3ca483d1bf3dff5e06c1958", null ],
-    [ "_events", "df/dd9/a14083.html#a1ed36b07ff83a6a8a202f4a451d90190", null ],
-    [ "_PeasentId", "df/dd9/a14083.html#ae3e44b8f29f05c771137c5b9afd5da56", null ],
-    [ "peasentGUIDs", "df/dd9/a14083.html#a6e290a29c8205b22bd668f0516e8904a", null ]
+    [ "npc_cameron", "df/dd9/a14083.html#a45e47ec5c9dadc6f0899e83ac2e19cff", null ],
+    [ "MoveTheChildren", "df/dd9/a14083.html#a85ae436f19f69ffb853330f01ee152a0", null ],
+    [ "PathEndReached", "df/dd9/a14083.html#a0bf53f40eeb4fe3ed7d62988bee0a912", null ],
+    [ "sOnGameEvent", "df/dd9/a14083.html#ab22841871cfcdc926b28296a5b4e440c", null ],
+    [ "SoundPicker", "df/dd9/a14083.html#a2ad97aaac0bd759921e0b75cfc88d07d", null ],
+    [ "UpdateAI", "df/dd9/a14083.html#a32a2dd2be2c06700fb81f4072a364ce2", null ],
+    [ "_childrenGUIDs", "df/dd9/a14083.html#ad260466902e8fb1a2e02998cc4549695", null ],
+    [ "_events", "df/dd9/a14083.html#ad6c58f433520c4ed55f43ef3604dde28", null ],
+    [ "_started", "df/dd9/a14083.html#a985d0590eedde340a3923e299d4dffd8", null ]
 ];

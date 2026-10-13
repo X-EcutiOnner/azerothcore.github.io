@@ -1,10 +1,10 @@
 var a00284 =
 [
-    [ "boss_vazruden_the_herald", "d4/d92/a23731.html", "d4/d92/a23731" ],
-    [ "boss_nazan", "de/dca/a23735.html", "de/dca/a23735" ],
-    [ "boss_vazruden", "db/d32/a23739.html", "db/d32/a23739" ],
-    [ "spell_vazruden_fireball", "d1/db2/a23743.html", "d1/db2/a23743" ],
-    [ "spell_vazruden_call_nazan", "d5/d51/a23747.html", "d5/d51/a23747" ],
+    [ "boss_vazruden_the_herald", "d1/db2/a23743.html", "d1/db2/a23743" ],
+    [ "boss_nazan", "d5/d51/a23747.html", "d5/d51/a23747" ],
+    [ "boss_vazruden", "d5/db6/a23751.html", "d5/db6/a23751" ],
+    [ "spell_vazruden_fireball", "d9/d92/a23755.html", "d9/d92/a23755" ],
+    [ "spell_vazruden_call_nazan", "d8/d30/a23759.html", "d8/d30/a23759" ],
     [ "GroupPhase", "db/dc3/a00284.html#a49053b1bcf5e1608ac7b5ad702b2bf00", [
       [ "GROUP_PHASE_1", "db/dc3/a00284.html#a49053b1bcf5e1608ac7b5ad702b2bf00a32bcd3b7fab317a48674500272b5b5c9", null ],
       [ "GROUP_PHASE_2", "db/dc3/a00284.html#a49053b1bcf5e1608ac7b5ad702b2bf00a22321c7fe55bbbccabaf892d4d85e8b4", null ]
@@ -1053,8 +1053,8 @@ var a00284 =
       [ "EMOTE_TESLA_LINK_BREAKS", "d0/de2/a01442.html#a16774215bba3b38580ea51987d64cff1aa267a1374b0eaf1c2ab173916325077e", null ],
       [ "EMOTE_TESLA_OVERLOAD", "d0/de2/a01442.html#a16774215bba3b38580ea51987d64cff1aff29c894cf7f90b273496fbe66e0aab9", null ],
       [ "SAY_AGGRO", "d6/d2f/a01394.html#a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe", null ],
-      [ "SAY_DEATH", "d6/d2f/a01394.html#a16774215bba3b38580ea51987d64cff1a04c962d9b6aaafde54ff92a54369135e", null ],
       [ "SAY_KILL", "d6/d2f/a01394.html#a16774215bba3b38580ea51987d64cff1a7f4f26c3b97b953fd229ac5d308024d5", null ],
+      [ "SAY_DEATH", "d6/d2f/a01394.html#a16774215bba3b38580ea51987d64cff1a04c962d9b6aaafde54ff92a54369135e", null ],
       [ "SAY_SPAWN", "d2/d29/a01376.html#a16774215bba3b38580ea51987d64cff1ab543380783668ea87e4c4d93d0db622e", null ],
       [ "SAY_AGGRO", "d2/d29/a01376.html#a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe", null ],
       [ "SAY_ENRAGE", "d2/d29/a01376.html#a16774215bba3b38580ea51987d64cff1ac90d9311ef3cf3f33564ce22ff904f54", null ],
@@ -1945,6 +1945,8 @@ var a00284 =
       [ "SPELL_ARMAGEDDON_MISSILE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca8c377b8b69d0dbe801ea2d87064096b3", null ],
       [ "SPELL_CUSTOM_08_STATE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cae69e2264948bdd529250fbebad159275", null ],
       [ "SPELL_DESTROY_ALL_DRAKES", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca7485400f7f3c06376aba102ad64ffddf", null ],
+      [ "SPELL_KNOCKBACK", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca27fe30ac398369e590388303632044c8", null ],
+      [ "SPELL_SWAT", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cad0ed6ff1cfea07c54007f4d3a4fc1d78", null ],
       [ "SPELL_SINISTER_REFLECTION_SUMMON", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca71f16716214f1f22b82cc0a0e0ea4c82", null ],
       [ "SPELL_SINISTER_REFLECTION_CLASS", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca694ff4e39c65fe5ba7f0abd5e7da9091", null ],
       [ "SPELL_SINISTER_REFLECTION_CLONE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cab8620ab50f2f9bd8645774fcc6230a0b", null ],

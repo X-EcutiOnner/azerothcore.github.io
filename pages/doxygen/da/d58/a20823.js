@@ -1,5 +1,6 @@
 var a20823 =
 [
-    [ "achievement_mimiron_set_up_us_the_bomb_11", "da/d58/a20823.html#a5d8980111e029b4c9311737f3985ab61", null ],
-    [ "OnCheck", "da/d58/a20823.html#a7682a7f2f4417dcf75ec58e34e4fd6bc", null ]
+    [ "HandlePeriodic", "da/d58/a20823.html#ab3f6a58bcea3fc75ccbac99cd911e7f8", null ],
+    [ "PrepareAuraScript", "da/d58/a20823.html#a09d6fccb19df088780c5baa0ef656da7", null ],
+    [ "Register", "da/d58/a20823.html#abbf60dac3d36d0833e6509aac83f2b49", null ]
 ];

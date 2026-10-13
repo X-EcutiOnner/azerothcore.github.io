@@ -1,8 +1,11 @@
 var a19255 =
 [
-    [ "OnApply", "d0/d04/a19255.html#addeb4f3b2a06666b36f4dee1874b6e8d", null ],
-    [ "OnRemove", "d0/d04/a19255.html#ae4ecf698d999969aceca3c307b44d9bd", null ],
-    [ "PrepareAuraScript", "d0/d04/a19255.html#a74a552ea94c56fd22b8fea792617a537", null ],
-    [ "Register", "d0/d04/a19255.html#a90041bb6ad83973a894638630642dd62", null ],
-    [ "Validate", "d0/d04/a19255.html#a051c1544da173e50ae6642b1b14c923e", null ]
+    [ "go_empowering_blood_orb", "d0/d04/a19255.html#a4d6719a0ba25b25ca61baa7e1785636b", null ],
+    [ "GossipHello", "d0/d04/a19255.html#a2b176a2b97ebb96e60ed381533cc4ebb", null ],
+    [ "HandleObjectUse", "d0/d04/a19255.html#a4fffcbe7526951562cfc063fe7b39255", null ],
+    [ "Reset", "d0/d04/a19255.html#a284de01132efc6ed4d865e14ae100bd8", null ],
+    [ "SetGUID", "d0/d04/a19255.html#ab5eb2c24e81600a6f295e38a32324f2d", null ],
+    [ "UpdateAI", "d0/d04/a19255.html#a19b23d9b9ae467eb5be7fc30b1c2154f", null ],
+    [ "_scheduler", "d0/d04/a19255.html#a40cf117590ac657c216478cb43725bf5", null ],
+    [ "_triggerGuid", "d0/d04/a19255.html#a70721a6c8f1a27e6fa31ad52184883f3", null ]
 ];

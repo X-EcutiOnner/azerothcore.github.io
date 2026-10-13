@@ -1,7 +1,5 @@
 var a14763 =
 [
-    [ "FilterTargets", "d8/d3c/a14763.html#a00adeba9ac3e631109308b1e4bf8f529", null ],
-    [ "HandleEffect", "d8/d3c/a14763.html#ab6dd7934cc6f10d327e80cd0b6bdfac9", null ],
-    [ "PrepareSpellScript", "d8/d3c/a14763.html#a08127992c96fb02e87e9ade65a5375d5", null ],
-    [ "Register", "d8/d3c/a14763.html#aeaf1955aece958a8e7d7773a33177e5d", null ]
+    [ "go_brazier_of_madness", "d8/d3c/a14763.html#aeb900e575be02244e62c6e5e4153c855", null ],
+    [ "GossipHello", "d8/d3c/a14763.html#aba3af326b01cd045523434aec189fd47", null ]
 ];

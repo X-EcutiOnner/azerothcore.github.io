@@ -1,6 +1,6 @@
 var a00692 =
 [
-    [ "npc_taxi", "dd/d8c/a28627.html", "dd/d8c/a28627" ],
+    [ "npc_taxi", "d2/ddb/a28639.html", "d2/ddb/a28639" ],
     [ "Misc", "d0/db6/a00692.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "NEFARIUS_PATH_2", "dd/d8d/a01667.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],
       [ "NEFARIUS_PATH_3", "dd/d8d/a01667.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6596b4c264ab163a34c17c6ea798adcb", null ],

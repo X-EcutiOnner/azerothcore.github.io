@@ -1,6 +1,7 @@
 var a19659 =
 [
-    [ "HandleAfterHit", "d7/d31/a19659.html#a4f9ee2b8830fc812a78154f8b54a0a47", null ],
-    [ "PrepareSpellScript", "d7/d31/a19659.html#a75d2e4bc16170348893654d53c1bb6d7", null ],
-    [ "Register", "d7/d31/a19659.html#a5e33a371d519c2fdc8561f2ac8d9dd82", null ]
+    [ "FilterTargets", "d7/d31/a19659.html#af92aec0df6c962a10ccbebb366081cfd", null ],
+    [ "PrepareSpellScript", "d7/d31/a19659.html#ad7ccb2b2024887ec0a9802454a8bfaec", null ],
+    [ "Register", "d7/d31/a19659.html#af59416debfc7685bec92541a00e1dafe", null ],
+    [ "Validate", "d7/d31/a19659.html#abbe7ae557fb510457504f72adfa0aedc", null ]
 ];

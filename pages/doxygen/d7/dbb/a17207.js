@@ -1,5 +1,6 @@
 var a17207 =
 [
-    [ "npc_essence_of_twin", "d7/dbb/a17207.html#a019de64e5e01e611acfda5db4c279b19", null ],
-    [ "OnGossipHello", "d7/dbb/a17207.html#a6f37b7f1152098b41b07ddbae3613c63", null ]
+    [ "boss_fjolaAI", "da/db0/a17211.html", "da/db0/a17211" ],
+    [ "boss_fjola", "d7/dbb/a17207.html#a44baccf91ab8c8bc5d5a9d0aa8ef943f", null ],
+    [ "GetAI", "d7/dbb/a17207.html#a96d9ea0716199758b60ad933ade28de4", null ]
 ];

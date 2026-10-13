@@ -1,10 +1,10 @@
 var a00935 =
 [
-    [ "boss_tharon_ja", "d6/d00/a17283.html", "d6/d00/a17283" ],
-    [ "boss_tharon_ja::boss_tharon_jaAI", "dd/ddc/a17287.html", "dd/ddc/a17287" ],
-    [ "spell_tharon_ja_curse_of_life_aura", "da/d21/a17291.html", "da/d21/a17291" ],
-    [ "spell_tharon_ja_dummy_aura", "d5/d7b/a17295.html", "d5/d7b/a17295" ],
-    [ "spell_tharon_ja_clear_gift_of_tharon_ja", "d7/dd1/a17299.html", "d7/dd1/a17299" ],
+    [ "boss_tharon_ja", "da/d21/a17291.html", "da/d21/a17291" ],
+    [ "boss_tharon_ja::boss_tharon_jaAI", "d5/d7b/a17295.html", "d5/d7b/a17295" ],
+    [ "spell_tharon_ja_curse_of_life_aura", "d7/dd1/a17299.html", "d7/dd1/a17299" ],
+    [ "spell_tharon_ja_dummy_aura", "d5/d10/a17303.html", "d5/d10/a17303" ],
+    [ "spell_tharon_ja_clear_gift_of_tharon_ja", "d0/de2/a17307.html", "d0/de2/a17307" ],
     [ "Misc", "d8/d19/a00935.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "NEFARIUS_PATH_2", "dd/d8d/a01667.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],
       [ "NEFARIUS_PATH_3", "dd/d8d/a01667.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6596b4c264ab163a34c17c6ea798adcb", null ],
@@ -1403,6 +1403,8 @@ var a00935 =
       [ "SPELL_ARMAGEDDON_MISSILE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca8c377b8b69d0dbe801ea2d87064096b3", null ],
       [ "SPELL_CUSTOM_08_STATE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cae69e2264948bdd529250fbebad159275", null ],
       [ "SPELL_DESTROY_ALL_DRAKES", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca7485400f7f3c06376aba102ad64ffddf", null ],
+      [ "SPELL_KNOCKBACK", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca27fe30ac398369e590388303632044c8", null ],
+      [ "SPELL_SWAT", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cad0ed6ff1cfea07c54007f4d3a4fc1d78", null ],
       [ "SPELL_SINISTER_REFLECTION_SUMMON", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca71f16716214f1f22b82cc0a0e0ea4c82", null ],
       [ "SPELL_SINISTER_REFLECTION_CLASS", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca694ff4e39c65fe5ba7f0abd5e7da9091", null ],
       [ "SPELL_SINISTER_REFLECTION_CLONE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cab8620ab50f2f9bd8645774fcc6230a0b", null ],

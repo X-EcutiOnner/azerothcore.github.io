@@ -1,7 +1,8 @@
 var a27119 =
 [
-    [ "HandleProc", "d1/dab/a27119.html#af27f9408725ff9c7ec17e8ae352234a9", null ],
-    [ "PrepareAuraScript", "d1/dab/a27119.html#a11c2e125d7a583966be3f8a64064a5ad", null ],
-    [ "Register", "d1/dab/a27119.html#a283f05b3649e3c137679ab92386f7a84", null ],
-    [ "Validate", "d1/dab/a27119.html#a4805c758dc85e065cdb9550a5856fe31", null ]
+    [ "CheckProc", "d1/dab/a27119.html#a0c649a70d0413fd24f29d3f2a03d3b4b", null ],
+    [ "HandleProc", "d1/dab/a27119.html#ae9e9ef38c6cdf57eccbeafb9f8c5cac0", null ],
+    [ "PrepareAuraScript", "d1/dab/a27119.html#adc8f29fd41def510195365f40fd5340b", null ],
+    [ "Register", "d1/dab/a27119.html#add7ed115ee403870f46e25614fac3840", null ],
+    [ "Validate", "d1/dab/a27119.html#aa9e341cbf35a4a6c2f42f55a216241b8", null ]
 ];

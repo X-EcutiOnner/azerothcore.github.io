@@ -1,6 +1,9 @@
 var a20487 =
 [
-    [ "achievement_freya_knock_on_wood", "d0/d99/a20487.html#ae28517e151cc9ec2b25ff57513f32d29", null ],
-    [ "OnCheck", "d0/d99/a20487.html#a07e5edf9d53d200506ab1b0d0b2eaa9e", null ],
-    [ "_elderCount", "d0/d99/a20487.html#a5a3cc4dedbc2cc6be825579cbb0a09b5", null ]
+    [ "boss_freya_nature_bomb", "d0/d99/a20487.html#a050672942ab467557d21a930ab22827c", null ],
+    [ "Reset", "d0/d99/a20487.html#ad2a679ba554a44f28d1f09a10fc88ec9", null ],
+    [ "UpdateAI", "d0/d99/a20487.html#aae8b388dfa69896dd82557c1a4dcd135", null ],
+    [ "_explodeTimer", "d0/d99/a20487.html#a09292e899ad771d9b15d2bc21ccd5b8d", null ],
+    [ "_goGUID", "d0/d99/a20487.html#a18e66d31a4bd243ec3f7d438beacad77", null ],
+    [ "Timer", "d0/d99/a20487.html#affadb797817ddf512209d1d71097baf3", null ]
 ];

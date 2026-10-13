@@ -1,6 +1,9 @@
 var a19059 =
 [
-    [ "HandleScript", "dd/de6/a19059.html#a930b8a515b5d156c16925dc218cf8172", null ],
-    [ "PrepareSpellScript", "dd/de6/a19059.html#a892b0ba0f6541b3557a0200be5028479", null ],
-    [ "Register", "dd/de6/a19059.html#a1eb85bc675a89ef9679e673c1fea9a08", null ]
+    [ "npc_gluttonous_abominationAI", "dd/de6/a19059.html#a8b9b632e2e26ef8d0e8c122d28530e81", null ],
+    [ "JustDied", "dd/de6/a19059.html#abc0dd71bbaf85786f34367acc3a849e9", null ],
+    [ "JustSummoned", "dd/de6/a19059.html#a49ff3db7845167b9e98feab2a01b1ed1", null ],
+    [ "Reset", "dd/de6/a19059.html#a45588181429a74ac024e0390c76fa57a", null ],
+    [ "UpdateAI", "dd/de6/a19059.html#a33ef03a9f005ff187493275a9c2683a7", null ],
+    [ "_events", "dd/de6/a19059.html#a4a841c7d2565f4797bc893a9c1ee7acd", null ]
 ];

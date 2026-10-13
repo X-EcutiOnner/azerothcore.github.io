@@ -1,8 +1,6 @@
 var a20419 =
 [
-    [ "HandleOnEffectApply", "da/df6/a20419.html#a83ff54727e886161c5568a60833932d1", null ],
-    [ "HandleOnEffectRemove", "da/df6/a20419.html#a9e48d1c9dc26f882ee685a2cbf59667e", null ],
-    [ "PrepareAuraScript", "da/df6/a20419.html#a5ec8ffeceae335423dff10f54e096e8a", null ],
-    [ "Register", "da/df6/a20419.html#ae07af138c6f9c565799574b4f8343492", null ],
-    [ "Validate", "da/df6/a20419.html#a3a24a25c9b9b118d20ca2b14fbfc5869", null ]
+    [ "CheckAreaTarget", "da/df6/a20419.html#ad1930e308f450cb84dba4f4b28b19f58", null ],
+    [ "PrepareAuraScript", "da/df6/a20419.html#a921b2f67c417244310398bd93061d61c", null ],
+    [ "Register", "da/df6/a20419.html#ab21972706bae9fdc3fc6859da2f3f63e", null ]
 ];

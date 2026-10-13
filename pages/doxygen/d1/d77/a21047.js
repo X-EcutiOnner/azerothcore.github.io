@@ -1,9 +1,7 @@
 var a21047 =
 [
-    [ "OnProc", "d1/d77/a21047.html#a94de5901e43000e99b478e9194d59ecd", null ],
-    [ "PrepareAuraScript", "d1/d77/a21047.html#a1b4efd5e774d4bd561a30830c3be8045", null ],
-    [ "Register", "d1/d77/a21047.html#acc8a07807e5c306af285cb5889ef2c41", null ],
-    [ "Validate", "d1/d77/a21047.html#ad17cfc0369da547475e43bd2970cf3f2", null ],
-    [ "_lastOrbTime", "d1/d77/a21047.html#a4522510d836abf625b019674c1c5281f", null ],
-    [ "OrbCooldown", "d1/d77/a21047.html#a4a0204623a0db8d1474d0e72e71226eb", null ]
+    [ "PrepareSpellScript", "d1/d77/a21047.html#a31b503f12783ff984fcb02c7f22eb2d6", null ],
+    [ "Register", "d1/d77/a21047.html#a0d49145c159be313844cc603189a86cd", null ],
+    [ "SetDest", "d1/d77/a21047.html#a0a01b2368c64e74b8aa0aa0a4288e164", null ],
+    [ "SearchAboveHeaps", "d1/d77/a21047.html#a2303bd2cd592b747effa6b1d54c1090a", null ]
 ];

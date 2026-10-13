@@ -505,6 +505,7 @@ var a09227 =
     [ "IsAlive", "d9/d33/a09227.html#a5ea3f54af571493f7889220724667189", null ],
     [ "IsAlwaysDetectableFor", "d9/d33/a09227.html#ae43c776e7729bf61a4377d9c60c9c9c0", null ],
     [ "IsAlwaysVisibleFor", "d9/d33/a09227.html#ad0738116354d0033ff7b4a67f60dafca", null ],
+    [ "IsAreaEffectPvPBlocked", "d9/d33/a09227.html#aaefb395bfa95d7e8e7de296e46139c76", null ],
     [ "IsArmorer", "d9/d33/a09227.html#a45cdc97ac3ce28793311031c82b26530", null ],
     [ "isAttackingPlayer", "d9/d33/a09227.html#a5234471e606aea97e768c2003d604d0f", null ],
     [ "isAttackReady", "d9/d33/a09227.html#add8556301b71a52c7ea01a173c8568e3", null ],

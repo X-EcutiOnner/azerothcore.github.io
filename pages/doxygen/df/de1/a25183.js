@@ -1,6 +1,5 @@
 var a25183 =
 [
-    [ "CheckProc", "df/de1/a25183.html#afa477049b9a4fa18594b203a6066d205", null ],
-    [ "PrepareAuraScript", "df/de1/a25183.html#a9fff895957dfedb5d975e4a8e9588aa9", null ],
-    [ "Register", "df/de1/a25183.html#ab0746e7fa614f09708f89ed3ef93fca9", null ]
+    [ "PrepareSpellScript", "df/de1/a25183.html#a41169895bb29fe136e3fb0c2dd50d9fb", null ],
+    [ "Register", "df/de1/a25183.html#ab6a32b26cc0277f71a71b9fd1d567bf1", null ]
 ];

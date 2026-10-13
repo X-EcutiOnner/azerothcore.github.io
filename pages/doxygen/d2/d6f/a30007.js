@@ -1,10 +1,10 @@
 var a30007 =
 [
-    [ "FakeAura", "d2/d6f/a30007.html#a72674203b5aa768aaec46bc824c66ad8", null ],
-    [ "IsExpired", "d2/d6f/a30007.html#af55fe68d7548abe43fbbe391163dcbf4", null ],
-    [ "IsRemoved", "d2/d6f/a30007.html#ad4b4a547d5596ad39d46125ded1c0863", null ],
-    [ "expired", "d2/d6f/a30007.html#a9de4d15b90ea8e89a5a3dd95122f5ff9", null ],
-    [ "removed", "d2/d6f/a30007.html#a0ea41ca4e60c4c56228687ca6038695f", null ],
-    [ "spellId", "d2/d6f/a30007.html#ab08e902dae2b24d869c2befe1e9a74a2", null ],
-    [ "updated", "d2/d6f/a30007.html#aacbde7f93cb160ed272a4b3ddd18f1ee", null ]
+    [ "SetUp", "d2/d6f/a30007.html#a59657ac0b1eef5636d297ef3fd72f81e", null ],
+    [ "TearDown", "d2/d6f/a30007.html#a3e60f8d66a4d2ade8a844cd273079799", null ],
+    [ "_creatureA", "d2/d6f/a30007.html#a9b8fd602bcafd1e7da74d84ff650bb8d", null ],
+    [ "_creatureB", "d2/d6f/a30007.html#a013f2803435327693032f6bf23728219", null ],
+    [ "_map", "d2/d6f/a30007.html#aff1204f57b91638d6f2513bfec515b88", null ],
+    [ "_previousWorld", "d2/d6f/a30007.html#a4f5f721748aaae7fc00172049fe75639", null ],
+    [ "_worldMock", "d2/d6f/a30007.html#a3f59d709f3f43cb7b7a86b4370350982", null ]
 ];

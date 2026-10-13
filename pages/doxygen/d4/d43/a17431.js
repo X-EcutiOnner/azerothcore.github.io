@@ -1,8 +1,11 @@
 var a17431 =
 [
-    [ "npc_phantom_hallucination", "d4/d43/a17431.html#a55dc1bf20a0714bbe3bd2bf98978c127", null ],
-    [ "EnterEvadeMode", "d4/d43/a17431.html#a0e45cbe40a3118d17f403c48c91f630e", null ],
-    [ "JustDied", "d4/d43/a17431.html#a14c91f9f3a1f654fed3fc11685d41da7", null ],
-    [ "UpdateAI", "d4/d43/a17431.html#af03cb9c2f062e14e6333c8c889d3c8df", null ],
-    [ "numOfUpd", "d4/d43/a17431.html#a2cc47caafdc22de25f820a78f632ee4b", null ]
+    [ "npc_ghostly_priest", "d4/d43/a17431.html#a154f4a7f9cd3c4088eada04c44f66f2b", null ],
+    [ "AttackStart", "d4/d43/a17431.html#acbc2eb708773500136deebb8542d36aa", null ],
+    [ "DoAction", "d4/d43/a17431.html#a0687e1c766c89b8b90cb620a4a2bef6d", null ],
+    [ "EnterEvadeMode", "d4/d43/a17431.html#ac944330e3834bd4c65e30c595752746c", null ],
+    [ "JustDied", "d4/d43/a17431.html#ae7ef06904aa2039d3552a2a62b846042", null ],
+    [ "JustEngagedWith", "d4/d43/a17431.html#ada930b20b8f3b07f2da7bfa44025ed32", null ],
+    [ "Reset", "d4/d43/a17431.html#a3bb7596f2a15c76eeb8f2b79fab8ddf1", null ],
+    [ "UpdateAI", "d4/d43/a17431.html#a3722469ea1445f7dbaf834853a9ed654", null ]
 ];

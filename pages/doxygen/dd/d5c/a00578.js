@@ -1,7 +1,7 @@
 var a00578 =
 [
-    [ "OPvPCapturePointHP", "d8/d34/a22703.html", "d8/d34/a22703" ],
-    [ "OutdoorPvPHP", "d2/db6/a22707.html", "d2/db6/a22707" ],
+    [ "OPvPCapturePointHP", "d5/d0b/a22715.html", "d5/d0b/a22715" ],
+    [ "OutdoorPvPHP", "d6/df1/a22719.html", "d6/df1/a22719" ],
     [ "OutdoorPvPHPBuffZonesNum", "dd/d5c/a00578.html#a01aada98c8079ea71a361cba06e10640", null ],
     [ "OutdoorPvPHPSpells", "dd/d5c/a00578.html#a09664100577cc20866b21589f3c1eb4a", [
       [ "AlliancePlayerKillReward", "dd/d5c/a00578.html#a09664100577cc20866b21589f3c1eb4aad472ab0479934282573d2a2b142ecddc", null ],

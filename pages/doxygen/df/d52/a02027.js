@@ -1,8 +1,8 @@
 var a02027 =
 [
-    [ "boss_kazrogal", "d6/dc4/a15259.html", "d6/dc4/a15259" ],
-    [ "spell_mark_of_kazrogal", "d6/d02/a15263.html", "d6/d02/a15263" ],
-    [ "spell_mark_of_kazrogal_aura", "d4/d25/a15267.html", "d4/d25/a15267" ],
+    [ "boss_kazrogal", "d6/d02/a15263.html", "d6/d02/a15263" ],
+    [ "spell_mark_of_kazrogal", "d4/d25/a15267.html", "d4/d25/a15267" ],
+    [ "spell_mark_of_kazrogal_aura", "db/d5e/a15271.html", "db/d5e/a15271" ],
     [ "Sounds", "df/d52/a02027.html#a378d5c1c6cef9f24f253a041e207663c", [
       [ "SOUND_ONDEATH", "df/d52/a02027.html#a378d5c1c6cef9f24f253a041e207663ca58cd7625c6ee6018ac12a602b0cdbc9c", null ],
       [ "SOUND_VK_AGGRO", "d3/d28/a02147.html#a378d5c1c6cef9f24f253a041e207663ca0edcc266fe5c93b2c8928b48e4e6743e", null ],
@@ -726,6 +726,8 @@ var a02027 =
       [ "SPELL_ARMAGEDDON_MISSILE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca8c377b8b69d0dbe801ea2d87064096b3", null ],
       [ "SPELL_CUSTOM_08_STATE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cae69e2264948bdd529250fbebad159275", null ],
       [ "SPELL_DESTROY_ALL_DRAKES", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca7485400f7f3c06376aba102ad64ffddf", null ],
+      [ "SPELL_KNOCKBACK", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca27fe30ac398369e590388303632044c8", null ],
+      [ "SPELL_SWAT", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cad0ed6ff1cfea07c54007f4d3a4fc1d78", null ],
       [ "SPELL_SINISTER_REFLECTION_SUMMON", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca71f16716214f1f22b82cc0a0e0ea4c82", null ],
       [ "SPELL_SINISTER_REFLECTION_CLASS", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca694ff4e39c65fe5ba7f0abd5e7da9091", null ],
       [ "SPELL_SINISTER_REFLECTION_CLONE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cab8620ab50f2f9bd8645774fcc6230a0b", null ],

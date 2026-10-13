@@ -1,7 +1,27 @@
 var a14291 =
 [
-    [ "OnApply", "db/dc8/a14291.html#a21450cd59487a927bbc0a5a5e1ffa72b", null ],
-    [ "OnRemove", "db/dc8/a14291.html#a810203874163cf04798c3edbe69b747e", null ],
-    [ "PrepareAuraScript", "db/dc8/a14291.html#a3c17a7366acd9bd1863bae0f9218930a", null ],
-    [ "Register", "db/dc8/a14291.html#af2ad52165de188897fdeb8d62646b7cc", null ]
+    [ "npc_highlord_darion_mograine", "db/dc8/a14291.html#a4cb9fe5dfd71a43ef26e507d89447eff", null ],
+    [ "DoAction", "db/dc8/a14291.html#a03dba6d9ce356bb83b3cc4b7b301c040", null ],
+    [ "FinishFight", "db/dc8/a14291.html#a252c88447aea37a91556507c3decd99d", null ],
+    [ "GetData", "db/dc8/a14291.html#ad82b05e51766c3a4c31c72c9f60596a1", null ],
+    [ "GetEntryFromSummons", "db/dc8/a14291.html#a0eb1adec635b224a8e4f041606d46856", null ],
+    [ "JustDied", "db/dc8/a14291.html#a707c15d931651ea85437c259a1a84971", null ],
+    [ "JustEngagedWith", "db/dc8/a14291.html#aa07c3ee6c928cb383ce4904f81215e52", null ],
+    [ "JustRespawned", "db/dc8/a14291.html#a918e690e583f56b614c40962e6f03584", null ],
+    [ "JustSummoned", "db/dc8/a14291.html#ad1412213e4b7798b8d57e494d2804d6f", null ],
+    [ "MovementInform", "db/dc8/a14291.html#a1b9fd81e5da9464338f31f5f8c90cdfa", null ],
+    [ "Reset", "db/dc8/a14291.html#aaff5b7f078177efc4e4bf1f7201fd7a8", null ],
+    [ "SendInitialWorldStates", "db/dc8/a14291.html#a646eff2f368a7dbd621f6a630b303436", null ],
+    [ "SendUpdateWorldState", "db/dc8/a14291.html#a3be4356e7114fdcaf343d64ff101dbcf", null ],
+    [ "sGossipHello", "db/dc8/a14291.html#aadce21a79e49b42c8bf950408f7055c7", null ],
+    [ "sGossipSelect", "db/dc8/a14291.html#a9acef8952a1963862117f2f2442d5bc4", null ],
+    [ "SummonedCreatureDies", "db/dc8/a14291.html#a97316e53810639305928a489e940a924", null ],
+    [ "UpdateAI", "db/dc8/a14291.html#a7a19ac34b9968eeb5de9881ae8754d9b", null ],
+    [ "battleStarted", "db/dc8/a14291.html#affef58a695b73f2e17b48da915125425", null ],
+    [ "defendersRemaining", "db/dc8/a14291.html#ae0cbe16959c269a86a28aeda681048e9", null ],
+    [ "events", "db/dc8/a14291.html#ac73f0fa5d4f25080e81f04832fff149e", null ],
+    [ "resetExecuted", "db/dc8/a14291.html#abce72b1d643e2468f980e554eb5bbc78", null ],
+    [ "scourgeRemaining", "db/dc8/a14291.html#a03ffe1ba56d04252ba86fb92c2a17cc3", null ],
+    [ "startTimeRemaining", "db/dc8/a14291.html#aeb08e9ca11dd9aeedbc7079182c5a534", null ],
+    [ "summons", "db/dc8/a14291.html#a7eb1df2352397d310c103021fb9cf6aa", null ]
 ];

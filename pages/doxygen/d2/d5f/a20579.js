@@ -1,15 +1,15 @@
 var a20579 =
 [
-    [ "npc_ulduar_hodir_mage", "d2/d5f/a20579.html#a1f16ae119ae7819348b3013bac867b68", null ],
-    [ "AttackStart", "d2/d5f/a20579.html#aa486b501aefeb70beb325feece5ec34c", null ],
-    [ "CanAIAttack", "d2/d5f/a20579.html#afe11d15da8769f50db470460cf759c2d", null ],
-    [ "DoAction", "d2/d5f/a20579.html#abe5801b4b042dbc363dacbb3290b43e1", null ],
-    [ "EnterEvadeMode", "d2/d5f/a20579.html#a7c942a1ad420731a6e57ede7720d164b", null ],
-    [ "JustDied", "d2/d5f/a20579.html#a411b6a3b456fb216f96a9426a13e3369", null ],
-    [ "MoveInLineOfSight", "d2/d5f/a20579.html#aab476b5a585b30d429bdcae64a18424c", null ],
-    [ "ScheduleAbilities", "d2/d5f/a20579.html#add40de5492e4ec9bd19260669b4bbb22", null ],
-    [ "SpellHit", "d2/d5f/a20579.html#af35bcc1ee03dd8128ff0fe7329eb980d", null ],
-    [ "UpdateAI", "d2/d5f/a20579.html#ae9aa4904f3deaa6cae56853f8541eb40", null ],
-    [ "_instance", "d2/d5f/a20579.html#a75528e6ce772183e63a9a415932b05cf", null ],
-    [ "events", "d2/d5f/a20579.html#a8c89348ce80bc9e4ac72dec41855db8a", null ]
+    [ "npc_ulduar_hodir_druid", "d2/d5f/a20579.html#aac822cf4203af0e0173004ccc33abc21", null ],
+    [ "AttackStart", "d2/d5f/a20579.html#a67884f16c32f849bc68d68256c19d21a", null ],
+    [ "CanAIAttack", "d2/d5f/a20579.html#a81b0f60596e63ec618a9a9e1d8bc6c9d", null ],
+    [ "DoAction", "d2/d5f/a20579.html#a54f6d2cccc7668f337c0617459db5522", null ],
+    [ "EnterEvadeMode", "d2/d5f/a20579.html#a22a10571e9cfe69200fd4a8fd383e500", null ],
+    [ "JustDied", "d2/d5f/a20579.html#a6cfefe7ccb156a658e8e2dad603b3fce", null ],
+    [ "MoveInLineOfSight", "d2/d5f/a20579.html#aa2e3e904c5f7fee4236a9395b95ef3e9", null ],
+    [ "ScheduleAbilities", "d2/d5f/a20579.html#ac8bee382634e20a49178be8b224eca2d", null ],
+    [ "SpellHit", "d2/d5f/a20579.html#a1053d484f30df43fba465981cd3cfa38", null ],
+    [ "UpdateAI", "d2/d5f/a20579.html#abcd580306a3abb5663bbac33f68115eb", null ],
+    [ "_instance", "d2/d5f/a20579.html#add7048881ec8b0dd2c09e34813c7c353", null ],
+    [ "events", "d2/d5f/a20579.html#a323184c52fcbc3e18eb74c96db716327", null ]
 ];

@@ -1,7 +1,6 @@
 var a21227 =
 [
-    [ "OnApply", "d0/ded/a21227.html#a458871e0d2c1969a91ce9474b3ad87d0", null ],
-    [ "PrepareAuraScript", "d0/ded/a21227.html#a3a6b71d35bfcf681c98bb3bb4331e91c", null ],
-    [ "Register", "d0/ded/a21227.html#a4d6bb68d17bbc1b10d828b1d70155f65", null ],
-    [ "Validate", "d0/ded/a21227.html#a1ffe527d33de10a7dc8431311f4d738e", null ]
+    [ "CheckCast", "d0/ded/a21227.html#a715a58956db4253c8adfed039833debd", null ],
+    [ "PrepareSpellScript", "d0/ded/a21227.html#a3b03178d8ab54db36a19ba5a27444917", null ],
+    [ "Register", "d0/ded/a21227.html#a6309c53b9e3828e76d34a77a8fe35df1", null ]
 ];

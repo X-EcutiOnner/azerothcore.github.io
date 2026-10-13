@@ -1,13 +1,6 @@
 var a23839 =
 [
-    [ "boss_warbringer_omrogg", "dd/dbb/a23839.html#a20f790595640cd41d636ad43c8837cda", null ],
-    [ "HandleHeadTalk", "dd/dbb/a23839.html#aaa324c065f6c2bbf75688f5910be09d1", null ],
-    [ "JustDied", "dd/dbb/a23839.html#a8a2abaceda580ac2ed4f1c736281828f", null ],
-    [ "JustEngagedWith", "dd/dbb/a23839.html#ae1710f22f8a72f661498c4fbc6d108a5", null ],
-    [ "KilledUnit", "dd/dbb/a23839.html#add6b54c4744be120b6b5fd53912ce1fd", null ],
-    [ "ScheduleBurningPhase", "dd/dbb/a23839.html#afd20a8bd1f6f083e0725d962ec747e26", null ],
-    [ "ScheduleNonBurningPhase", "dd/dbb/a23839.html#a176217a0767e8153d07996461ac68f60", null ],
-    [ "SetData", "dd/dbb/a23839.html#a4d1154d64c999316f9ae02ab76cbc870", null ],
-    [ "UpdateAI", "dd/dbb/a23839.html#a90369760ed0e52f1ffc6d3e7c4e39ec2", null ],
-    [ "_headTalk", "dd/dbb/a23839.html#ae657addceb26f4d02d734fa0790a1ae2", null ]
+    [ "boss_porung", "dd/dbb/a23839.html#acef31010461bbf716ac9b13d950807ee", null ],
+    [ "JustDied", "dd/dbb/a23839.html#ac5c36f875692f49d1d0195694d85e5c1", null ],
+    [ "JustEngagedWith", "dd/dbb/a23839.html#a9d44f51e4710e01bdc7d345ff3bba9dc", null ]
 ];

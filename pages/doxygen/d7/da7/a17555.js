@@ -1,6 +1,6 @@
 var a17555 =
 [
-    [ "npc_pos_leaderAI", "d7/d09/a17559.html", "d7/d09/a17559" ],
-    [ "npc_pos_leader", "d7/da7/a17555.html#a690956ba5c822f4cbea9c27c95d5924c", null ],
-    [ "GetAI", "d7/da7/a17555.html#a0c0b85bef0b04989dc80d861fa70f463", null ]
+    [ "instance_pit_of_saron_InstanceScript", "d7/d09/a17559.html", "d7/d09/a17559" ],
+    [ "instance_pit_of_saron", "d7/da7/a17555.html#a84526dbb5ac7eb6ff5ebe24ed339826b", null ],
+    [ "GetInstanceScript", "d7/da7/a17555.html#a2a1bc125bfe653a1da8b8c36b86aae67", null ]
 ];

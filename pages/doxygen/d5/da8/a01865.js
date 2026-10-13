@@ -1,8 +1,8 @@
 var a01865 =
 [
-    [ "npc_partygoer_pather", "da/d08/a14091.html", "da/d08/a14091" ],
-    [ "npc_partygoer", "dd/db2/a14095.html", "dd/db2/a14095" ],
-    [ "npc_lor_themar_theron", "d9/d72/a14099.html", "d9/d72/a14099" ],
+    [ "npc_partygoer_pather", "dd/db2/a14095.html", "dd/db2/a14095" ],
+    [ "npc_partygoer", "d9/d72/a14099.html", "d9/d72/a14099" ],
+    [ "npc_lor_themar_theron", "d0/d42/a14103.html", "d0/d42/a14103" ],
     [ "Partygoer", "d5/da8/a01865.html#a2426dcce5ddc33ba72e2c0ebe9c88e1e", [
       [ "EVENT_RANDOM_ACTION", "d5/da8/a01865.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eacb43fc5be7eecf527a639a9122091f96", null ],
       [ "EVENT_REMOVE_EQUIPMENT", "d5/da8/a01865.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea37faceace884bd7a013b0d5dd0fac886", null ],

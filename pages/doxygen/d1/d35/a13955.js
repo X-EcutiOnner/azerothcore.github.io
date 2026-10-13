@@ -1,9 +1,9 @@
 var a13955 =
 [
-    [ "npc_dark_fiend", "d1/d35/a13955.html#a8c4ebf7ba2f991df7053d40108330609", null ],
-    [ "DamageTaken", "d1/d35/a13955.html#a39daa01688ec4ddadf9f1d185faa3f48", null ],
-    [ "Reset", "d1/d35/a13955.html#a5622d14f84ad8e47da773852f1778d56", null ],
-    [ "UpdateAI", "d1/d35/a13955.html#ab4a7cbc09f4b830039cf4c6f59b2b30e", null ],
-    [ "_lastVictimGUID", "d1/d35/a13955.html#abcccb35701f21d417e3c13709cc24281", null ],
-    [ "_spellCast", "d1/d35/a13955.html#a4cde5fbbeedfc7ed2907a2b797f6aafa", null ]
+    [ "boss_entropius", "d1/d35/a13955.html#a458deaa80c9694cd2608150bc5519c76", null ],
+    [ "EnterEvadeMode", "d1/d35/a13955.html#a01889b192525af082471d092bff28c88", null ],
+    [ "JustDied", "d1/d35/a13955.html#aed1313073a44bc15f87432a85e6c2d8e", null ],
+    [ "JustEngagedWith", "d1/d35/a13955.html#afb07fc44fd14b9f78fbc97b2670b8b5e", null ],
+    [ "Reset", "d1/d35/a13955.html#ad9da990a540703d38cb45dd2da72c179", null ],
+    [ "UpdateAI", "d1/d35/a13955.html#ab7fbeb67059c48b5f1aff071990ece5e", null ]
 ];

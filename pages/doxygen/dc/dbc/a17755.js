@@ -1,6 +1,7 @@
 var a17755 =
 [
-    [ "instance_gundrak_InstanceMapScript", "d0/d8c/a17759.html", "d0/d8c/a17759" ],
-    [ "instance_gundrak", "dc/dbc/a17755.html#ad6acbbcd96740a011f2a72a63fb211c3", null ],
-    [ "GetInstanceScript", "dc/dbc/a17755.html#a738b4ea54d1e0d7b1db90b9cc3a9c83c", null ]
+    [ "HandlePeriodic", "dc/dbc/a17755.html#a2087e4de62f7aabb72315e92c28c7bd6", null ],
+    [ "PrepareAuraScript", "dc/dbc/a17755.html#ab71db011b1cc1f3a2e85cd6b6f115242", null ],
+    [ "Register", "dc/dbc/a17755.html#ad8a16d599a11fa4409d132f66e37e04e", null ],
+    [ "Validate", "dc/dbc/a17755.html#afe821a7eb4eaf959d803c7c846f3bdf0", null ]
 ];

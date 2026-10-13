@@ -1,6 +1,9 @@
 var a14099 =
 [
-    [ "npc_lor_themar_theron", "d9/d72/a14099.html#acf8b65675cc46949440a829fc1adf5fc", null ],
-    [ "JustDied", "d9/d72/a14099.html#ad2615cc062c8c1f4b01fc9e253fe34d4", null ],
-    [ "UpdateAI", "d9/d72/a14099.html#aa9eafbacdb75bfbf772c901ce96119c6", null ]
+    [ "npc_partygoer", "d9/d72/a14099.html#af053caedfd1fa8173b875f521d279418", null ],
+    [ "Initialize", "d9/d72/a14099.html#a9012ff95e5cead3c02f9eeb30f29a9f6", null ],
+    [ "Reset", "d9/d72/a14099.html#ad1936099ec5696a2a593e5041b0360c6", null ],
+    [ "UpdateAI", "d9/d72/a14099.html#a423df8a3de7d23221ea4d62a0c65fefc", null ],
+    [ "_events", "d9/d72/a14099.html#ad5095ee005ecb89ca54b0663d41e20ac", null ],
+    [ "_facing", "d9/d72/a14099.html#a9e934091894987ec091b03090bf733e5", null ]
 ];

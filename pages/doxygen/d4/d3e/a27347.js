@@ -1,6 +1,6 @@
 var a27347 =
 [
-    [ "HandleScript", "d4/d3e/a27347.html#a8866d650b96c4cae3201a2829cbeff3d", null ],
-    [ "PrepareSpellScript", "d4/d3e/a27347.html#aa16f51aa8a4fea2a84cadbb01d18b635", null ],
-    [ "Register", "d4/d3e/a27347.html#aeaa094c8d1f3407bf56d58d88c2238a1", null ]
+    [ "OnApply", "d4/d3e/a27347.html#a50ced6d5a475ccad9429dfbb05130394", null ],
+    [ "PrepareAuraScript", "d4/d3e/a27347.html#abd02e129b1201449d473a66aea77d569", null ],
+    [ "Register", "d4/d3e/a27347.html#a8c09775f642335252c6e548900dc9d3a", null ]
 ];

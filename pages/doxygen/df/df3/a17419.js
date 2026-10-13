@@ -1,10 +1,7 @@
 var a17419 =
 [
-    [ "npc_hor_leaderAI", "df/df3/a17419.html#a2072f9facbc476bb97f1a3ca9c24fcb7", null ],
-    [ "DoAction", "df/df3/a17419.html#a610700732a6cc197a40106adef654a62", null ],
-    [ "Reset", "df/df3/a17419.html#a40749d0294400e15bc28f6e728c6cb3c", null ],
-    [ "UpdateAI", "df/df3/a17419.html#acb29a6ddb6d06616e79f7431b66f167a", null ],
-    [ "events", "df/df3/a17419.html#a94128223bddd84b8a678e49f3189cb75", null ],
-    [ "instance", "df/df3/a17419.html#aaf5ee73e8d3a52c51cbc64853843ed4e", null ],
-    [ "shortver", "df/df3/a17419.html#a6e7b5d6f1b73bacb54d9aa1eb21fe6ee", null ]
+    [ "OnRemove", "df/df3/a17419.html#a4b95717cb19116b81f3eec798089abad", null ],
+    [ "PrepareAuraScript", "df/df3/a17419.html#a581645fa151531aaf7b562a8739d5616", null ],
+    [ "Register", "df/df3/a17419.html#a01304c556d79001e290707551bee7622", null ],
+    [ "Validate", "df/df3/a17419.html#a96e4b9cae1f016bf87c9a09ceb6da561", null ]
 ];

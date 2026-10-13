@@ -1,8 +1,7 @@
 var a26967 =
 [
-    [ "HandleProc", "d9/d6e/a26967.html#a95553bc0c973be3a2e3911602e4067c8", null ],
-    [ "PrepareAuraScript", "d9/d6e/a26967.html#a99ea6943a3e8d4105b4187d8ea1a298d", null ],
-    [ "Register", "d9/d6e/a26967.html#aad50f19b0c854b7f9c5d81cd2e86bdfa", null ],
-    [ "Validate", "d9/d6e/a26967.html#aad1324e94920136258c419094cfca4c3", null ],
-    [ "_cooldownEnd", "d9/d6e/a26967.html#a4f19a965ed8ddab712633abdb761d210", null ]
+    [ "HandleProc", "d9/d6e/a26967.html#ac85ee0780894f16c8760ede0fa555bd8", null ],
+    [ "PrepareAuraScript", "d9/d6e/a26967.html#a6583928e441d418130df561962518deb", null ],
+    [ "Register", "d9/d6e/a26967.html#a9548fa0c523182c58e0dcc76b2db7f69", null ],
+    [ "Validate", "d9/d6e/a26967.html#a652e134d79d4e4a229b723c8d388cf5d", null ]
 ];

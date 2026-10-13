@@ -1,7 +1,7 @@
 var a27707 =
 [
-    [ "AfterRemove", "d4/de1/a27707.html#ad0bad4a07d5a65a7834e7ab46e082b20", null ],
-    [ "PrepareAuraScript", "d4/de1/a27707.html#af338af238305f1872275e1e5e9fdee16", null ],
-    [ "Register", "d4/de1/a27707.html#aa266e794be35b51a399b13ee2d06199d", null ],
-    [ "Validate", "d4/de1/a27707.html#af58098eb7a904e20846cf728f5adc18b", null ]
+    [ "PeriodicTick", "d4/de1/a27707.html#a0093da1cb71f87bb7302bf6ccc9a255c", null ],
+    [ "PrepareAuraScript", "d4/de1/a27707.html#afd362a7dd0373e9480445a99023a5c8c", null ],
+    [ "Register", "d4/de1/a27707.html#a0332788648661d5c2665c5d1431e4ca7", null ],
+    [ "Validate", "d4/de1/a27707.html#aecb5c0c9f5258a3ce7ff18cf08f89845", null ]
 ];

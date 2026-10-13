@@ -1,7 +1,11 @@
 var a30015 =
 [
-    [ "ExpectDate", "d4/d32/a30015.html#a4d45a7190580f2191020d031ad0aab10", null ],
-    [ "IsLeapYear", "d4/d32/a30015.html#af80c133dce034eed150593681fba594d", null ],
-    [ "IsValidDate", "d4/d32/a30015.html#af1ee91196bfb749605bf98f4441a03a4", null ],
-    [ "NormalizeTm", "d4/d32/a30015.html#af4587d4154c059f5e472f00f141a771a", null ]
+    [ "SetUp", "d4/d32/a30015.html#a236c5547ff9855b39315642ec2e79c4e", null ],
+    [ "SimulateGmVisibleOff", "d4/d32/a30015.html#a9276b43219f395a537a0ee51ab00905c", null ],
+    [ "SimulateGmVisibleOn", "d4/d32/a30015.html#afc09b0c8806fbf445e25f8f194a8228b", null ],
+    [ "TearDown", "d4/d32/a30015.html#a8fe66b3b0b3ba0d6f3393eb9a4fef3f2", null ],
+    [ "originalWorld", "d4/d32/a30015.html#a8f7396466d2b20742f66e14462de96a4", null ],
+    [ "player", "d4/d32/a30015.html#a97049ae029c9354fdf3194be77f36dfa", null ],
+    [ "session", "d4/d32/a30015.html#a2f87ec522777defa8b023274b1d78c35", null ],
+    [ "worldMock", "d4/d32/a30015.html#ae4caf6ccdfce680cce07d4759b2a4b54", null ]
 ];

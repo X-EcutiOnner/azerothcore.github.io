@@ -1,6 +1,7 @@
 var a16095 =
 [
-    [ "npc_bunthen_plainswind", "df/d8d/a16095.html#ad9b789ad3e958dee4733b142813b6302", null ],
-    [ "OnGossipHello", "df/d8d/a16095.html#ae2fe8bfb957dd8ea84d2585293c3b6eb", null ],
-    [ "OnGossipSelect", "df/d8d/a16095.html#a117f28d513ac645b9d3d908d052d2146", null ]
+    [ "HandleDummy", "df/d8d/a16095.html#a478665938b298fa87bde5bd764bcde18", null ],
+    [ "PrepareSpellScript", "df/d8d/a16095.html#adc581ed46587afcc8be3800ae79105f6", null ],
+    [ "Register", "df/d8d/a16095.html#a7d09808ea2fdec450fcd129e996bd245", null ],
+    [ "Validate", "df/d8d/a16095.html#a28c0efdb7274372a43e286a923e08f56", null ]
 ];

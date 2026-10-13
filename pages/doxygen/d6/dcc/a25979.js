@@ -1,7 +1,6 @@
 var a25979 =
 [
-    [ "CheckProc", "d6/dcc/a25979.html#a41c451e31b84a72af3a17bfa29ca02fe", null ],
-    [ "HandleProc", "d6/dcc/a25979.html#a5cf9cea911ead2f261522e55e94c745a", null ],
-    [ "PrepareAuraScript", "d6/dcc/a25979.html#a3f2b20607f90ad641769eb284ddfab85", null ],
-    [ "Register", "d6/dcc/a25979.html#a55557026689613e91aeabce1af442237", null ]
+    [ "HandleScriptEffect", "d6/dcc/a25979.html#a61ce8d26205af3a35a69646fa0b5454b", null ],
+    [ "PrepareSpellScript", "d6/dcc/a25979.html#ab9ff7007cdaad8d6432ef0cae134f653", null ],
+    [ "Register", "d6/dcc/a25979.html#a80fe694c669aa86494bd73bfa7b8ffc8", null ]
 ];

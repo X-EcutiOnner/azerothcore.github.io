@@ -1,6 +1,6 @@
 var a23215 =
 [
-    [ "instance_black_temple_InstanceMapScript", "d0/da4/a23219.html", "d0/da4/a23219" ],
-    [ "instance_black_temple", "d9/d05/a23215.html#a2efd6c7fff15c8fd03652ef9a65088eb", null ],
-    [ "GetInstanceScript", "d9/d05/a23215.html#a947a1279eabde75d9884b1ef84b295a3", null ]
+    [ "HandleDummy", "d9/d05/a23215.html#a85cbe85873c5f04c8fb94ad52e94afda", null ],
+    [ "PrepareSpellScript", "d9/d05/a23215.html#ae483ea2ecc541f52f37456f6e9d4b380", null ],
+    [ "Register", "d9/d05/a23215.html#a972574075c86c32593982add71dc893f", null ]
 ];

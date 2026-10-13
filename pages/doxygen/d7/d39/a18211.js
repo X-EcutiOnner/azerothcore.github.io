@@ -1,7 +1,6 @@
 var a18211 =
 [
-    [ "HandleDummy", "d7/d39/a18211.html#a6e5d70c35420384305d7faf991072b38", null ],
-    [ "PrepareSpellScript", "d7/d39/a18211.html#a64f912555853aab5693692b22eba52c4", null ],
-    [ "Register", "d7/d39/a18211.html#a797ec701f2e3f2949680eb935a9c5c3f", null ],
-    [ "Validate", "d7/d39/a18211.html#afda7fd86e2fc2c40870904065ffcfe50", null ]
+    [ "BurningPitchFilterCheck", "d7/d39/a18211.html#a11a4816f3d29cb1a6c4845cdaaeaa3cf", null ],
+    [ "operator()", "d7/d39/a18211.html#a24be987c8471d8a7096025debf6e60b1", null ],
+    [ "_entry", "d7/d39/a18211.html#a7bd20aed2db0e24ad34cbcc94d9a89d6", null ]
 ];

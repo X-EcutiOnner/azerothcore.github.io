@@ -1,7 +1,15 @@
 var a19871 =
 [
-    [ "boss_commander_stoutbeard", "d4/de8/a19871.html#a9489874e93ea9f425ff4e3748ba10ded", null ],
-    [ "JustDied", "d4/de8/a19871.html#a2fd835408045715058ba476aa56cb4f7", null ],
-    [ "JustEngagedWith", "d4/de8/a19871.html#af960c10b2b98d43b4b1311a0a7616aa8", null ],
-    [ "KilledUnit", "d4/de8/a19871.html#acf7016c65f020dca9228bd2d2fd89299", null ]
+    [ "boss_anomalus", "d4/de8/a19871.html#aa4dd8fac7c360beb834382f624ed2246", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d4/de8/a19871.html#ada0735330bff29a8c04706c980e6bbfc", null ],
+    [ "GetData", "d4/de8/a19871.html#ad48aebb50cda7ee621f71803669f04c2", null ],
+    [ "JustDied", "d4/de8/a19871.html#a41e257481921a122dba30348559e05fb", null ],
+    [ "JustEngagedWith", "d4/de8/a19871.html#a7224e8cf6e849d7115f88c7198fdb023", null ],
+    [ "JustSummoned", "d4/de8/a19871.html#a3c0413f30d96268cab724856334e61ee", null ],
+    [ "Reset", "d4/de8/a19871.html#a80bec5060c1b6747f2b418b90bcc18eb", null ],
+    [ "SetData", "d4/de8/a19871.html#aa79ec9829862b573cd0f38f965d737e8", null ],
+    [ "UpdateAI", "d4/de8/a19871.html#a5d3d77b49e256e09bbb613e810dfc60b", null ],
+    [ "_empowered", "d4/de8/a19871.html#a067c4b5dfb5e68a3d91f043d34ea0929", null ],
+    [ "achievement", "d4/de8/a19871.html#a2db4d6d2d6a19642607560e93ae8bd77", null ],
+    [ "activeRifts", "d4/de8/a19871.html#ac7632bd47c4d64ac032fd066138f22cf", null ]
 ];

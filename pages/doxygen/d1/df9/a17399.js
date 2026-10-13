@@ -1,13 +1,6 @@
 var a17399 =
 [
-    [ "instance_forge_of_souls_InstanceScript", "d1/df9/a17399.html#ae39e116a01c17592037e12185a03201a", null ],
-    [ "CheckAchievementCriteriaMeet", "d1/df9/a17399.html#a534c7f97e7425160f9a2b1e555d0aa29", null ],
-    [ "HandleOutro", "d1/df9/a17399.html#aadf4a99e89f354901ff63c600725b07f", null ],
-    [ "OnCreatureCreate", "d1/df9/a17399.html#a7570ef3ca74178fec80c5018cbecf42a", null ],
-    [ "OnPlayerEnter", "d1/df9/a17399.html#aac223f0ae25071d3323052c52c887636", null ],
-    [ "SetBossState", "d1/df9/a17399.html#a76241f1358b8e6c7660f76c98e1556e7", null ],
-    [ "GuardFirstGUID", "d1/df9/a17399.html#ae2e33eee94f285b9d4c2c747dec52714", null ],
-    [ "GuardSecondGUID", "d1/df9/a17399.html#a68c2495f80ac2b53c8f46c857472709c", null ],
-    [ "LeaderFirstGUID", "d1/df9/a17399.html#acaa05485af70315b1d091e5c9bbb7217", null ],
-    [ "LeaderSecondGUID", "d1/df9/a17399.html#a165f784f54e178b51ac899aff6f12747", null ]
+    [ "entry", "d1/df9/a17399.html#a80e1510436336f4ed17748a06b27178d", null ],
+    [ "pathId", "d1/df9/a17399.html#a0b7e499d633e11b314852fb1154ea8e6", null ],
+    [ "startPosition", "d1/df9/a17399.html#ac8c0dd74d76778aa2f5948b5c8c5ada4", null ]
 ];

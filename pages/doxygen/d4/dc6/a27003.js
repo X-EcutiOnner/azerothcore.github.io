@@ -1,7 +1,7 @@
 var a27003 =
 [
-    [ "FilterTargets", "d4/dc6/a27003.html#ad679149423fda97ad5744318520022b1", null ],
-    [ "PrepareSpellScript", "d4/dc6/a27003.html#ac57c48690c5ad1b907f56287aee949a4", null ],
-    [ "Register", "d4/dc6/a27003.html#aea9b3a6cc4abae242bde76634bcbacd3", null ],
-    [ "Validate", "d4/dc6/a27003.html#a2c755f4ce5c3736dd0b0dd79341a4570", null ]
+    [ "CheckAreaTarget", "d4/dc6/a27003.html#a3c2dc43efc37be1b34cba266a478f46e", null ],
+    [ "PrepareAuraScript", "d4/dc6/a27003.html#a88c7c19e87106e1bbf6cc5a24a3bc2e4", null ],
+    [ "Register", "d4/dc6/a27003.html#a9cbc5794b1ed54fe9313cd161ec5b19f", null ],
+    [ "Validate", "d4/dc6/a27003.html#ab18a951259cc74b0ba8319f757e38eca", null ]
 ];

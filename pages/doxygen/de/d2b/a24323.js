@@ -1,6 +1,7 @@
 var a24323 =
 [
-    [ "npc_invis_infernal_casterAI", "d0/dac/a24327.html", "d0/dac/a24327" ],
-    [ "npc_invis_infernal_caster", "de/d2b/a24323.html#a9aed081ef904075830428bbc76f53874", null ],
-    [ "GetAI", "de/d2b/a24323.html#aede0c5cc390ea423169b1cba66d929cd", null ]
+    [ "CheckRequirement", "de/d2b/a24323.html#a4ad521364c6156c0ecef818a23ce7aff", null ],
+    [ "PrepareSpellScript", "de/d2b/a24323.html#a0d995c6ae6d1da0014c053a62b37a7b7", null ],
+    [ "Register", "de/d2b/a24323.html#a25f275e84570f674071bfae03aeb0ddc", null ],
+    [ "Validate", "de/d2b/a24323.html#adc648151e2c61a61a0dc5883d9fa4ae0", null ]
 ];

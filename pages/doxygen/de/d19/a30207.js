@@ -1,6 +1,5 @@
 var a30207 =
 [
-    [ "RunStatisticalTest", "de/d19/a30207.html#a5dadc645a4cae9bf9e9ed990616118be", null ],
-    [ "SetUp", "de/d19/a30207.html#afa15552d260ab744d178e1c1b7ed23bb", null ],
-    [ "TearDown", "de/d19/a30207.html#a894d832a3ee006179de45e944d25a732", null ]
+    [ "CreateBasicProcEntry", "de/d19/a30207.html#a047473844c17b28cab20159721fc9ee8", null ],
+    [ "SetUp", "de/d19/a30207.html#ad9848a18a0b1fa950cabcfa1584e0103", null ]
 ];

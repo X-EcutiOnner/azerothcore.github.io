@@ -1,7 +1,6 @@
 var a17335 =
 [
-    [ "HandleScriptEffect", "d6/d9d/a17335.html#a667e50b01f431dba025f692484f6e7ba", null ],
-    [ "PrepareSpellScript", "d6/d9d/a17335.html#a9a5ffd28102a519c06f3715d7f2b1039", null ],
-    [ "Register", "d6/d9d/a17335.html#a7ffa6eb498e9ec06d5cb4f81cff44389", null ],
-    [ "Validate", "d6/d9d/a17335.html#a0ab270193a95f9043afd40c9ffd2a46b", null ]
+    [ "instance_drak_tharon_keep", "d6/d9d/a17335.html#ac3aca003330592eae06a1d843c0ae9ce", null ],
+    [ "OnGameObjectCreate", "d6/d9d/a17335.html#acf6da22dd55ac945360a6c40d2b55ccf", null ],
+    [ "OnGameObjectRemove", "d6/d9d/a17335.html#a0acbb86696d31eb2ef4bdd868ca03351", null ]
 ];

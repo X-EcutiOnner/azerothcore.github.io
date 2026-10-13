@@ -1,8 +1,8 @@
 var a01862 =
 [
-    [ "npc_ranger_lilatha", "d0/d42/a14103.html", "d0/d42/a14103" ],
-    [ "npc_sentinel_leader", "d0/d52/a14107.html", "d0/d52/a14107" ],
-    [ "npc_sentinel_infiltrator", "d7/de6/a14111.html", "d7/de6/a14111" ],
+    [ "npc_ranger_lilatha", "d0/d52/a14107.html", "d0/d52/a14107" ],
+    [ "npc_sentinel_leader", "d7/de6/a14111.html", "d7/de6/a14111" ],
+    [ "npc_sentinel_infiltrator", "df/d36/a14115.html", "df/d36/a14115" ],
     [ "RangerLilatha", "d0/d4a/a01862.html#a74dc890829d87be230ff5350c12e090a", [
       [ "SAY_START", "d0/d4a/a01862.html#a74dc890829d87be230ff5350c12e090aa2eae21cbf7d110ee89a9798ef6f00239", null ],
       [ "SAY_PROGRESS1", "d0/d4a/a01862.html#a74dc890829d87be230ff5350c12e090aa1a7ff39fa30eb8719e4a1d4d8eea41bd", null ],

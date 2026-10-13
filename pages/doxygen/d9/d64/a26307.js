@@ -1,6 +1,7 @@
 var a26307 =
 [
-    [ "HandleDummy", "d9/d64/a26307.html#a9530db7f75987879285d224fb8381c2b", null ],
-    [ "PrepareSpellScript", "d9/d64/a26307.html#ad1c1bdb577739f769802127960aaf9e5", null ],
-    [ "Register", "d9/d64/a26307.html#ae3a340132caf3f8839631c92015d47a0", null ]
+    [ "HandleHeal", "d9/d64/a26307.html#ae24fd6305b5d17c2fbb6f03238b385c6", null ],
+    [ "Load", "d9/d64/a26307.html#a4dd5016439e8798083fe3d4fa5458731", null ],
+    [ "PrepareSpellScript", "d9/d64/a26307.html#a248ae6d2c8f8d6c014a0164105773836", null ],
+    [ "Register", "d9/d64/a26307.html#af2e80d64787ad31e33d0d3c239f62c81", null ]
 ];

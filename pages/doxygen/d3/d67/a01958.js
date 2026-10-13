@@ -1,9 +1,9 @@
 var a01958 =
 [
-    [ "boss_darkmaster_gandling", "df/db1/a13587.html", "df/db1/a13587" ],
-    [ "boss_darkmaster_gandling::boss_darkmaster_gandlingAI", "de/d7a/a13591.html", "de/d7a/a13591" ],
-    [ "npc_risen_guardian", "dd/d92/a13595.html", "dd/d92/a13595" ],
-    [ "npc_risen_guardian::npc_risen_guardianAI", "d3/d7d/a13599.html", "d3/d7d/a13599" ],
+    [ "boss_darkmaster_gandling", "de/d7a/a13591.html", "de/d7a/a13591" ],
+    [ "boss_darkmaster_gandling::boss_darkmaster_gandlingAI", "dd/d92/a13595.html", "dd/d92/a13595" ],
+    [ "npc_risen_guardian", "d3/d7d/a13599.html", "d3/d7d/a13599" ],
+    [ "npc_risen_guardian::npc_risen_guardianAI", "dd/d2b/a13603.html", "dd/d2b/a13603" ],
     [ "BossData", "d3/d67/a01958.html#aef437a440c77ebda3ee1ebf1099e168d", [
       [ "DATA_PLAYER_KILLED", "d3/d67/a01958.html#aef437a440c77ebda3ee1ebf1099e168da16e75107231054f283248f12ae3887c0", null ],
       [ "GANDLING_ROOM_TO_USE", "d3/d67/a01958.html#aef437a440c77ebda3ee1ebf1099e168da58b81c15b7763fb90a6a786fc0cb73d8", null ]
@@ -738,6 +738,8 @@ var a01958 =
       [ "SPELL_ARMAGEDDON_MISSILE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca8c377b8b69d0dbe801ea2d87064096b3", null ],
       [ "SPELL_CUSTOM_08_STATE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cae69e2264948bdd529250fbebad159275", null ],
       [ "SPELL_DESTROY_ALL_DRAKES", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca7485400f7f3c06376aba102ad64ffddf", null ],
+      [ "SPELL_KNOCKBACK", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca27fe30ac398369e590388303632044c8", null ],
+      [ "SPELL_SWAT", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cad0ed6ff1cfea07c54007f4d3a4fc1d78", null ],
       [ "SPELL_SINISTER_REFLECTION_SUMMON", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca71f16716214f1f22b82cc0a0e0ea4c82", null ],
       [ "SPELL_SINISTER_REFLECTION_CLASS", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca694ff4e39c65fe5ba7f0abd5e7da9091", null ],
       [ "SPELL_SINISTER_REFLECTION_CLONE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cab8620ab50f2f9bd8645774fcc6230a0b", null ],

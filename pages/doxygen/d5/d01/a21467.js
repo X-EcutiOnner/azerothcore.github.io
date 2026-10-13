@@ -1,5 +1,6 @@
 var a21467 =
 [
-    [ "npc_ritual_channelerAI", "d5/d01/a21467.html#aa770f8f2b9dd5fca86f9e63de7b4000f", null ],
-    [ "AttackStart", "d5/d01/a21467.html#aff09fbdc1e701853c9953882ca73ce2a", null ]
+    [ "boss_svalaAI", "d3/d8f/a21471.html", "d3/d8f/a21471" ],
+    [ "boss_svala", "d5/d01/a21467.html#a7ac5866eb6a013cb03f3d459b13b4a62", null ],
+    [ "GetAI", "d5/d01/a21467.html#a0c3b94635eca667a28496cf799efad25", null ]
 ];

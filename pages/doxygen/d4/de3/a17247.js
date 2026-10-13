@@ -1,10 +1,6 @@
 var a17247 =
 [
-    [ "boss_dredAI", "d4/de3/a17247.html#a4ad04fe31990a37fd6d3a23329350248", null ],
-    [ "GetData", "d4/de3/a17247.html#a7a93506d77eaf40c6f7be9e433f211e1", null ],
-    [ "JustEngagedWith", "d4/de3/a17247.html#ae6e1181dcdea763460ca72148abfcb3f", null ],
-    [ "Reset", "d4/de3/a17247.html#a5fe153ab58b1feedce5afa6b10a0d3de", null ],
-    [ "ScheduleTasks", "d4/de3/a17247.html#aaea229cebd3d82b01c4577e58a06de2d", null ],
-    [ "SetData", "d4/de3/a17247.html#a884f48aabc26b054dcd303a91cb88301", null ],
-    [ "_raptorCount", "d4/de3/a17247.html#a95aa63c18d7e1f2dec2491ac4649a378", null ]
+    [ "npc_announcer_toc10", "d4/de3/a17247.html#ae495b19328c6a743dfd8f1cbf37a0bd6", null ],
+    [ "OnGossipHello", "d4/de3/a17247.html#afcc5262e7c49b7456af146de14805a06", null ],
+    [ "OnGossipSelect", "d4/de3/a17247.html#a9a2bf1d3a215332744ca473041cc0520", null ]
 ];

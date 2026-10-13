@@ -1,7 +1,6 @@
 var a18895 =
 [
-    [ "CalculateBonus", "da/dec/a18895.html#ae149a739150cb7eb9fb67f19130c0510", null ],
-    [ "OnPeriodic", "da/dec/a18895.html#a19697bd65a325870becc1c30d7deff36", null ],
-    [ "PrepareAuraScript", "da/dec/a18895.html#a77c272d4a26323c421e4b264f79d5b66", null ],
-    [ "Register", "da/dec/a18895.html#aecd8670e3a079c8460cddd5ce0b4f79b", null ]
+    [ "npc_terenas_menethilAI", "df/d3c/a18899.html", "df/d3c/a18899" ],
+    [ "npc_terenas_menethil", "da/dec/a18895.html#a6b6850598c582e3d44c13275302fd32d", null ],
+    [ "GetAI", "da/dec/a18895.html#ad5f29af90c3f40ce0dad019b5ec05cf2", null ]
 ];

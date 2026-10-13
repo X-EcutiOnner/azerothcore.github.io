@@ -1,6 +1,6 @@
 var a21231 =
 [
-    [ "OnRemove", "d2/dc9/a21231.html#a3cac25c6136b5dce491b24b7fb0ed33a", null ],
-    [ "PrepareAuraScript", "d2/dc9/a21231.html#a2afc759693aa4dfbd0ac33b1b770e995", null ],
-    [ "Register", "d2/dc9/a21231.html#a8fbcf904caf526f37d4a7984791d9fd0", null ]
+    [ "HandleScript", "d2/dc9/a21231.html#ac7fc87a7585c866aa3fa1001c803bb00", null ],
+    [ "PrepareSpellScript", "d2/dc9/a21231.html#ab2a4155f6029850c61e84d7c180addae", null ],
+    [ "Register", "d2/dc9/a21231.html#a7e03062d9e28ed1917b7aa63d65f22ba", null ]
 ];

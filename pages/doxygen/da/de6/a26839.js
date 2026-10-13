@@ -1,9 +1,7 @@
 var a26839 =
 [
-    [ "Load", "da/de6/a26839.html#ae8329a18e94b3830e19bcbcbdf055dd2", null ],
-    [ "PrepareSpellScript", "da/de6/a26839.html#a7a082f577937bf9f794bfb21bbc416f1", null ],
-    [ "Register", "da/de6/a26839.html#a7b8f209bff9c2f1dff96f3d90c66cad4", null ],
-    [ "TriggerHeal", "da/de6/a26839.html#acad9295c5c6b46bd969a4fb528a8ec25", null ],
-    [ "Validate", "da/de6/a26839.html#a5f53a97e97f7959c51e1b5947f7c4418", null ],
-    [ "healPct", "da/de6/a26839.html#a33b4d26c34903e45b7274e369f096ce1", null ]
+    [ "HandleDummy", "da/de6/a26839.html#a82ff05f6150750ecb6ef3b5f8c40f703", null ],
+    [ "PrepareSpellScript", "da/de6/a26839.html#a6856f05f2cc25267f1d3023d3cb48dc2", null ],
+    [ "Register", "da/de6/a26839.html#adadd0254d68281ac1063bcc57574ed77", null ],
+    [ "Validate", "da/de6/a26839.html#a61923f636ad8b3d48eb2dbc6a1803527", null ]
 ];

@@ -1,9 +1,9 @@
 var a00527 =
 [
-    [ "boss_murmur", "df/da6/a22867.html", "df/da6/a22867" ],
-    [ "spell_murmur_thundering_storm", "df/d6d/a22871.html", "df/d6d/a22871" ],
-    [ "spell_shockwave_knockback", "d7/d95/a22875.html", "d7/d95/a22875" ],
-    [ "spell_murmur_sonic_boom_effect", "d0/d96/a22879.html", "d0/d96/a22879" ],
+    [ "boss_murmur", "d0/d96/a22879.html", "d0/d96/a22879" ],
+    [ "spell_murmur_thundering_storm", "d3/d89/a22883.html", "d3/d89/a22883" ],
+    [ "spell_shockwave_knockback", "de/dea/a22887.html", "de/dea/a22887" ],
+    [ "spell_murmur_sonic_boom_effect", "d8/d51/a22891.html", "d8/d51/a22891" ],
     [ "Misc", "d9/d44/a00527.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "NEFARIUS_PATH_2", "dd/d8d/a01667.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],
       [ "NEFARIUS_PATH_3", "dd/d8d/a01667.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6596b4c264ab163a34c17c6ea798adcb", null ],
@@ -1418,6 +1418,8 @@ var a00527 =
       [ "SPELL_ARMAGEDDON_MISSILE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca8c377b8b69d0dbe801ea2d87064096b3", null ],
       [ "SPELL_CUSTOM_08_STATE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cae69e2264948bdd529250fbebad159275", null ],
       [ "SPELL_DESTROY_ALL_DRAKES", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca7485400f7f3c06376aba102ad64ffddf", null ],
+      [ "SPELL_KNOCKBACK", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca27fe30ac398369e590388303632044c8", null ],
+      [ "SPELL_SWAT", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cad0ed6ff1cfea07c54007f4d3a4fc1d78", null ],
       [ "SPELL_SINISTER_REFLECTION_SUMMON", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca71f16716214f1f22b82cc0a0e0ea4c82", null ],
       [ "SPELL_SINISTER_REFLECTION_CLASS", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca694ff4e39c65fe5ba7f0abd5e7da9091", null ],
       [ "SPELL_SINISTER_REFLECTION_CLONE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cab8620ab50f2f9bd8645774fcc6230a0b", null ],

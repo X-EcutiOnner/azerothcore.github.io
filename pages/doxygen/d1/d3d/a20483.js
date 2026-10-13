@@ -1,5 +1,14 @@
 var a20483 =
 [
-    [ "achievement_freya_getting_back_to_nature", "d1/d3d/a20483.html#aa4078b573a9335fc52c9b9609590b12f", null ],
-    [ "OnCheck", "d1/d3d/a20483.html#a850a32450379284784f019a5eb5ff0ff", null ]
+    [ "boss_freya_summons", "d1/d3d/a20483.html#a1d53e3d32307347532f96ca2b27734cb", null ],
+    [ "IsSummonedBy", "d1/d3d/a20483.html#a631605e67e488590d8d96d4807d13cd2", null ],
+    [ "JustDied", "d1/d3d/a20483.html#a15d9b71a31a840917b449c0094049e00", null ],
+    [ "JustEngagedWith", "d1/d3d/a20483.html#a0bf2a4bc2e6f62cdec5c15d04fff2f11", null ],
+    [ "Reset", "d1/d3d/a20483.html#af7e842a7bc2be806816a942026670d71", null ],
+    [ "ReviveWithAllies", "d1/d3d/a20483.html#acec319d89a49da510093411f681fb950", null ],
+    [ "UpdateAI", "d1/d3d/a20483.html#abc3634dce208478e82d3c9bb19d222df", null ],
+    [ "_hasDied", "d1/d3d/a20483.html#a145f46cfda95e50fa30c98581a30de9e", null ],
+    [ "_isTrio", "d1/d3d/a20483.html#a642a937b7d4082b5f9f0fbe4df352aba", null ],
+    [ "_setId", "d1/d3d/a20483.html#a3898bc77baa92fd0031aea5bbef5eb80", null ],
+    [ "events", "d1/d3d/a20483.html#a3fc5f9be80cc03bed2a83cdacfc5d7ec", null ]
 ];

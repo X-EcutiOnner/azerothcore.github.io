@@ -1,10 +1,10 @@
 var a01253 =
 [
-    [ "WeeklyQuest", "d6/d18/a19463.html", "d6/d18/a19463" ],
-    [ "RespawnEvent", "df/de7/a19467.html", "df/de7/a19467" ],
-    [ "DelayedCastMincharEvent", "db/de5/a19471.html", "db/de5/a19471" ],
-    [ "instance_icecrown_citadel", "d7/db7/a19475.html", "d7/db7/a19475" ],
-    [ "instance_icecrown_citadel::instance_icecrown_citadel_InstanceMapScript", "d5/de4/a19479.html", "d5/de4/a19479" ],
+    [ "WeeklyQuest", "db/de5/a19471.html", "db/de5/a19471" ],
+    [ "RespawnEvent", "d7/db7/a19475.html", "d7/db7/a19475" ],
+    [ "DelayedCastMincharEvent", "d5/de4/a19479.html", "d5/de4/a19479" ],
+    [ "instance_icecrown_citadel", "da/ddf/a19483.html", "da/ddf/a19483" ],
+    [ "instance_icecrown_citadel::instance_icecrown_citadel_InstanceMapScript", "da/d6c/a19487.html", "da/d6c/a19487" ],
     [ "EventIds", "d3/d0b/a01253.html#acb64662cd19d8282959c12081cb2b4b4", [
       [ "EVENT_DRAGONSPIRE_ROOM_STORE", "de/d14/a01640.html#acb64662cd19d8282959c12081cb2b4b4ab5e1f4a5290781237c4337916b99a96a", null ],
       [ "EVENT_DRAGONSPIRE_ROOM_CHECK", "de/d14/a01640.html#acb64662cd19d8282959c12081cb2b4b4adeb0aa4435158cf9a960477680a6cb50", null ],
@@ -807,6 +807,8 @@ var a01253 =
       [ "SPELL_ARMAGEDDON_MISSILE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca8c377b8b69d0dbe801ea2d87064096b3", null ],
       [ "SPELL_CUSTOM_08_STATE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cae69e2264948bdd529250fbebad159275", null ],
       [ "SPELL_DESTROY_ALL_DRAKES", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca7485400f7f3c06376aba102ad64ffddf", null ],
+      [ "SPELL_KNOCKBACK", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca27fe30ac398369e590388303632044c8", null ],
+      [ "SPELL_SWAT", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cad0ed6ff1cfea07c54007f4d3a4fc1d78", null ],
       [ "SPELL_SINISTER_REFLECTION_SUMMON", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca71f16716214f1f22b82cc0a0e0ea4c82", null ],
       [ "SPELL_SINISTER_REFLECTION_CLASS", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca694ff4e39c65fe5ba7f0abd5e7da9091", null ],
       [ "SPELL_SINISTER_REFLECTION_CLONE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cab8620ab50f2f9bd8645774fcc6230a0b", null ],

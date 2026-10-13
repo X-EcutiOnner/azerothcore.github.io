@@ -1,9 +1,9 @@
 var a01169 =
 [
-    [ "brann_bronzebeard", "d7/dd2/a20143.html", "d7/dd2/a20143" ],
-    [ "spell_taunt_brann", "d1/df2/a20147.html", "d1/df2/a20147" ],
-    [ "spell_hos_dark_matter", "d1/de1/a20151.html", "d1/de1/a20151" ],
-    [ "spell_hos_dark_matter_size", "d6/d6e/a20155.html", "d6/d6e/a20155" ],
+    [ "brann_bronzebeard", "d1/de1/a20151.html", "d1/de1/a20151" ],
+    [ "spell_taunt_brann", "d6/d6e/a20155.html", "d6/d6e/a20155" ],
+    [ "spell_hos_dark_matter", "da/d10/a20159.html", "da/d10/a20159" ],
+    [ "spell_hos_dark_matter_size", "d9/dc7/a20163.html", "d9/dc7/a20163" ],
     [ "AbedneumTexts", "d7/daf/a01169.html#a9ef4533570e18e9822999d106551f6e9", [
       [ "SAY_ABEDNEUM_WARNING", "d7/daf/a01169.html#a9ef4533570e18e9822999d106551f6e9a64b9823adad714333f63ec91f4078306", null ],
       [ "SAY_ABEDNEUM_CRITICAL", "d7/daf/a01169.html#a9ef4533570e18e9822999d106551f6e9a55df08b2dc5eaec74ef9e3b2ab59d787", null ],
@@ -785,6 +785,7 @@ var a01169 =
       [ "NPC_JARAXXUS", "d4/d49/a01316.html#a6986ec7b2d3274669934af9795f26d5caac25095e3ea26543a51245351b82d3d7", null ],
       [ "NPC_MISTRESS_OF_PAIN", "d4/d49/a01316.html#a6986ec7b2d3274669934af9795f26d5ca1d4846e8c3400fd4728fb92351b215cc", null ],
       [ "NPC_PURPLE_GROUND", "d4/d49/a01316.html#a6986ec7b2d3274669934af9795f26d5ca2b97ccf88d83f82ac619a6d4e2077d81", null ],
+      [ "NPC_OPEN_PORTAL_TARGET", "d4/d49/a01316.html#a6986ec7b2d3274669934af9795f26d5ca635705b91a221603d376c9ebd6eeae9b", null ],
       [ "NPC_WORLD_TRIGGER", "d4/d49/a01316.html#a6986ec7b2d3274669934af9795f26d5ca2de54d34271fcadd2d72ee13d7e0ce48", null ],
       [ "NPC_ALLIANCE_DEATH_KNIGHT", "d4/d49/a01316.html#a6986ec7b2d3274669934af9795f26d5cac814570020251c58c21064800d5b1531", null ],
       [ "NPC_ALLIANCE_DRUID_BALANCE", "d4/d49/a01316.html#a6986ec7b2d3274669934af9795f26d5ca1efd8ce013cc476a436c3893435a0c05", null ],

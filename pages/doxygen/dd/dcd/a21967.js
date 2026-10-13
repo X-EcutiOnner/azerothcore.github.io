@@ -1,6 +1,6 @@
 var a21967 =
 [
-    [ "SACActivateEvent", "dd/dcd/a21967.html#a7e5ba22c5500337f14ae067e2b404c5a", null ],
-    [ "Execute", "dd/dcd/a21967.html#ad3e4092941e8cd8953fdc251e97c458a", null ],
-    [ "_owner", "dd/dcd/a21967.html#ae930bd1f603ea296c5ccabd6fbd299f8", null ]
+    [ "npc_q24545_lich_kingAI", "d7/d84/a21971.html", "d7/d84/a21971" ],
+    [ "npc_q24545_lich_king", "dd/dcd/a21967.html#a1864564dee4f66f1b29850b8b0f6fa29", null ],
+    [ "GetAI", "dd/dcd/a21967.html#aade5ad8ba215d0571185596aa40cf9b2", null ]
 ];

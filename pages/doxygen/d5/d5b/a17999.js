@@ -1,7 +1,6 @@
 var a17999 =
 [
-    [ "HandleProc", "d5/d5b/a17999.html#a235f04bd360ba7219aa2e1bc1a249047", null ],
-    [ "PrepareAuraScript", "d5/d5b/a17999.html#a7cfa73ed3280d518baee1b0fa6bb4e76", null ],
-    [ "Register", "d5/d5b/a17999.html#acc0881cf7379525a0841426867d2d850", null ],
-    [ "Validate", "d5/d5b/a17999.html#a9be1b3b57bd2ee5995ad101369dac17c", null ]
+    [ "npc_icc_blood_beastAI", "d6/d31/a18003.html", "d6/d31/a18003" ],
+    [ "npc_icc_blood_beast", "d5/d5b/a17999.html#ac6de0dfe16f39d192f1e49d3ab444d5a", null ],
+    [ "GetAI", "d5/d5b/a17999.html#adf18d561b5d1c4c89e7f2ccb10f99492", null ]
 ];

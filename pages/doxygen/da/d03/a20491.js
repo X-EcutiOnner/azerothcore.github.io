@@ -1,6 +1,5 @@
 var a20491 =
 [
-    [ "HandleScript", "da/d03/a20491.html#a269167ff78ae3110193f7cfe4b4c0ef4", null ],
-    [ "PrepareSpellScript", "da/d03/a20491.html#a79975a7f3e523c0feb87d3e084f98808", null ],
-    [ "Register", "da/d03/a20491.html#aec017333dfc19701472dad3987538e69", null ]
+    [ "achievement_freya_getting_back_to_nature", "da/d03/a20491.html#aa4078b573a9335fc52c9b9609590b12f", null ],
+    [ "OnCheck", "da/d03/a20491.html#a850a32450379284784f019a5eb5ff0ff", null ]
 ];

@@ -1,6 +1,5 @@
 var a13735 =
 [
-    [ "instance_sunken_temple_InstanceMapScript", "d6/d7b/a13739.html", "d6/d7b/a13739" ],
-    [ "instance_sunken_temple", "d4/d19/a13735.html#a123b052c1cd1487588c88bf2611bc53b", null ],
-    [ "GetInstanceScript", "d4/d19/a13735.html#a1a783056b681f1f3b90e2e33e6a4a86d", null ]
+    [ "go_enchanted_scarlet_thread", "d4/d19/a13735.html#a2bc933979fdbdd2dc740b93f50f0524b", null ],
+    [ "OnLootStateChanged", "d4/d19/a13735.html#ae8de64f6568f91adf42e562233f69790", null ]
 ];

@@ -1,8 +1,7 @@
 var a21439 =
 [
-    [ "FilterTargets", "db/d85/a21439.html#a028ef84c884536a28650ace1e56f8061", null ],
-    [ "HandleScript", "db/d85/a21439.html#a16466b4c07c06c57493082b0e84b3c66", null ],
-    [ "PrepareSpellScript", "db/d85/a21439.html#ad43892487ca38342a61522548b34cd2c", null ],
-    [ "Register", "db/d85/a21439.html#a90470761baccdcf8c5430006004abf29", null ],
-    [ "Validate", "db/d85/a21439.html#a1664dcb92887f6974e1750472c02d168", null ]
+    [ "FilterTargets", "db/d85/a21439.html#aacfc70299b20cfef5b2feac954779f1c", null ],
+    [ "HandleDamageCalc", "db/d85/a21439.html#ad95c61a3977d7fa1c47902fb0a0d3843", null ],
+    [ "PrepareSpellScript", "db/d85/a21439.html#a008a69c532a7bdaec9fd30c88bb7af90", null ],
+    [ "Register", "db/d85/a21439.html#aa1da58fb771b35b76dcf367b9caf66d2", null ]
 ];

@@ -1,7 +1,6 @@
 var a20359 =
 [
-    [ "boss_flame_leviathan_safety_container", "d3/dbe/a20359.html#a4519a6bf9c96ff13df4ae019b02f3593", null ],
-    [ "MovementInform", "d3/dbe/a20359.html#a42842de299fd9346cc0d61b649b652a4", null ],
-    [ "UpdateAI", "d3/dbe/a20359.html#a55119d077f905a8207ad2afbe31f17a4", null ],
-    [ "_allowTimer", "d3/dbe/a20359.html#a70134398c054c837407d6a22591a2d96", null ]
+    [ "npc_pool_of_tar", "d3/dbe/a20359.html#a03de46dfa133992d094ab607a49b7236", null ],
+    [ "DamageTaken", "d3/dbe/a20359.html#ac72ad742cb16e27abf25fe0e88408315", null ],
+    [ "SpellHit", "d3/dbe/a20359.html#a61886862df88b41bf0c6959c9a564cea", null ]
 ];

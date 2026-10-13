@@ -1,5 +1,7 @@
 var a18027 =
 [
-    [ "achievement_flu_shot_shortage", "dc/d8c/a18027.html#af448c773bcdf31cec7ae9d7c85e9e595", null ],
-    [ "OnCheck", "dc/d8c/a18027.html#a3195af1d4504ffc200c99bef84eaaa5a", null ]
+    [ "HandleScript", "dc/d8c/a18027.html#a101e5e995dd27dcc6b6a4b475eed0989", null ],
+    [ "PrepareSpellScript", "dc/d8c/a18027.html#a8f668b88a41585cabeace574b30b4f85", null ],
+    [ "Register", "dc/d8c/a18027.html#a8fae161a91fae297b99079bde218ced8", null ],
+    [ "Validate", "dc/d8c/a18027.html#a4d1a8c28eefff22afdbf15ab57a6a7fd", null ]
 ];

@@ -1,7 +1,7 @@
 var a23195 =
 [
-    [ "HandleOnHit", "d8/d4c/a23195.html#a9f368396cef39ba3bd70480f11c44700", null ],
-    [ "PrepareSpellScript", "d8/d4c/a23195.html#a3240b42a9122e61b57ea91486cb3c97b", null ],
-    [ "Register", "d8/d4c/a23195.html#a99f80adcebdd9726a8df51f99d415651", null ],
-    [ "Validate", "d8/d4c/a23195.html#a25e3078f0b2d71ea0e6802aae0a6c7a4", null ]
+    [ "CalculateAmount", "d8/d4c/a23195.html#af0db71393c0b4a7bd5f4e11bd0212d06", null ],
+    [ "PrepareAuraScript", "d8/d4c/a23195.html#a5af876b76d9239808ac72c5b6177cdcb", null ],
+    [ "Register", "d8/d4c/a23195.html#a6d0d47536e6ef74a88c97019843d478c", null ],
+    [ "Update", "d8/d4c/a23195.html#afd2ed6f36d1596a2de753f04c5563c5f", null ]
 ];

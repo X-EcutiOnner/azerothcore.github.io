@@ -1,6 +1,6 @@
 var a19711 =
 [
-    [ "boss_razuviousAI", "d6/d39/a19715.html", "d6/d39/a19715" ],
-    [ "boss_razuvious", "d6/d85/a19711.html#ac1a2942f4a7957c671b075df7bf20215", null ],
-    [ "GetAI", "d6/d85/a19711.html#a350a7cf0c3e21e29c3c28155d63dcb87", null ]
+    [ "boss_patchwerkAI", "d6/d39/a19715.html", "d6/d39/a19715" ],
+    [ "boss_patchwerk", "d6/d85/a19711.html#a526983c4f5191a839ba4a017ac2d14e4", null ],
+    [ "GetAI", "d6/d85/a19711.html#a03f2dec61192405760958e26d998d67e", null ]
 ];

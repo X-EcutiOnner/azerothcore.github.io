@@ -1,7 +1,8 @@
 var a22507 =
 [
-    [ "OnApply", "d3/d3f/a22507.html#ad026db5f19c376d9a87f7a1554502809", null ],
-    [ "OnRemove", "d3/d3f/a22507.html#a0264c6f6f41da3644a803265399f1d82", null ],
-    [ "PrepareAuraScript", "d3/d3f/a22507.html#ab5d21484b078aee6eeff3738ef7c5a10", null ],
-    [ "Register", "d3/d3f/a22507.html#ae9822fa0f191ac4eeca1061c22abf319", null ]
+    [ "spell_loosen_grip", "d3/d3f/a22507.html#ae35f230e0c66e88f59558748c80470dd", null ],
+    [ "HandleScript", "d3/d3f/a22507.html#af82f9b7afda00bae22fa53d8b63d2509", null ],
+    [ "PrepareSpellScript", "d3/d3f/a22507.html#a219dc7d735f82d8e3b85390f0a881743", null ],
+    [ "Register", "d3/d3f/a22507.html#a8b446d8b5ab00b984272c74b06663326", null ],
+    [ "_stacksToLose", "d3/d3f/a22507.html#ae47dac5e3b380aeb22877ba5e5b5829f", null ]
 ];

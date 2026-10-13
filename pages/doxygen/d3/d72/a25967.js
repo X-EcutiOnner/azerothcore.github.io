@@ -1,6 +1,7 @@
 var a25967 =
 [
-    [ "HandleScriptEffect", "d3/d72/a25967.html#a61ce8d26205af3a35a69646fa0b5454b", null ],
-    [ "PrepareSpellScript", "d3/d72/a25967.html#ab9ff7007cdaad8d6432ef0cae134f653", null ],
-    [ "Register", "d3/d72/a25967.html#a80fe694c669aa86494bd73bfa7b8ffc8", null ]
+    [ "CalcPeriodic", "d3/d72/a25967.html#a5847ba4daad49dca2527513055fa4429", null ],
+    [ "PrepareAuraScript", "d3/d72/a25967.html#a8753419b2fa1b1bb96a08bf54995e82c", null ],
+    [ "Register", "d3/d72/a25967.html#a08f851e5582831d5dd05878c4a55db67", null ],
+    [ "Update", "d3/d72/a25967.html#a3ab2716cbccc1311992de44e6591d966", null ]
 ];

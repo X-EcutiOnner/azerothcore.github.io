@@ -1,9 +1,6 @@
 var a20423 =
 [
-    [ "Absorb", "dc/dd8/a20423.html#a16c2e931950102fc0ae5c88ef14587c1", null ],
-    [ "CalculateAmount", "dc/dd8/a20423.html#a9166627cbaa536405975444c4ef601de", null ],
-    [ "Load", "dc/dd8/a20423.html#abe7c08d2f26cef3603cf1b1f243f9e38", null ],
-    [ "PrepareAuraScript", "dc/dd8/a20423.html#aa5793741c2f8179db68a9fb1222a9085", null ],
-    [ "Register", "dc/dd8/a20423.html#a17fed57aed8953c7a7e401d1ac925e67", null ],
-    [ "_absorbPct", "dc/dd8/a20423.html#ad9e1dcfd8ce7038173ac5b71d448d80a", null ]
+    [ "PrepareSpellScript", "dc/dd8/a20423.html#a7eeb4e2b9c3bb6e7d02d6a5acf8e1d52", null ],
+    [ "RecalculateDamage", "dc/dd8/a20423.html#a094a21cf3cf109e704d3e334ad7dbad1", null ],
+    [ "Register", "dc/dd8/a20423.html#af2b5382122be41a6b1ee4ab721b417da", null ]
 ];

@@ -1,6 +1,6 @@
 var a27359 =
 [
-    [ "HandleEffectPeriodic", "dc/ded/a27359.html#ab283b40ceb6dcd0a835550531321ce92", null ],
-    [ "PrepareAuraScript", "dc/ded/a27359.html#a6d6efe0be7cefeb20c386c83dee561d4", null ],
-    [ "Register", "dc/ded/a27359.html#a4c69f350a68c1f4dd429ab52a791f3cd", null ]
+    [ "HandleScript", "dc/ded/a27359.html#a8866d650b96c4cae3201a2829cbeff3d", null ],
+    [ "PrepareSpellScript", "dc/ded/a27359.html#aa16f51aa8a4fea2a84cadbb01d18b635", null ],
+    [ "Register", "dc/ded/a27359.html#aeaa094c8d1f3407bf56d58d88c2238a1", null ]
 ];

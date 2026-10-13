@@ -122,7 +122,7 @@ Inheritance diagram for TurretAI:</div>
   <map id="TurretAI_map" name="TurretAI_map">
 <area href="../../dc/d4f/a06619.html" alt="CreatureAI" shape="rect" coords="0,56,222,80"/>
 <area href="../../de/dc7/a06607.html" alt="UnitAI" shape="rect" coords="0,0,222,24"/>
-<area href="../../de/dba/a20323.html" alt="boss_flame_leviathan_defense_turret" shape="rect" coords="0,168,222,192"/>
+<area href="../../db/d79/a20331.html" alt="boss_flame_leviathan_defense_turret" shape="rect" coords="0,168,222,192"/>
   </map>
 </div></div>
 <table class="memberdecls">
@@ -562,9 +562,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  250</span>    <span class="keywordflow">if</span> (who)</div>
 <div class="line"><span class="lineno">  251</span>        <a class="code hl_variable" href="../../dc/d4f/a06619.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#a8d910c36ac5d61171ee5ddaeb696292c">Attack</a>(who, <span class="keyword">false</span>);</div>
 <div class="line"><span class="lineno">  252</span>}</div>
-<div class="ttc" id="aa09227_html_a8d910c36ac5d61171ee5ddaeb696292c"><div class="ttname"><a href="../../d9/d33/a09227.html#a8d910c36ac5d61171ee5ddaeb696292c">Unit::Attack</a></div><div class="ttdeci">bool Attack(Unit *victim, bool meleeAttack)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:7074</div></div>
+<div class="ttc" id="aa09227_html_a8d910c36ac5d61171ee5ddaeb696292c"><div class="ttname"><a href="../../d9/d33/a09227.html#a8d910c36ac5d61171ee5ddaeb696292c">Unit::Attack</a></div><div class="ttdeci">bool Attack(Unit *victim, bool meleeAttack)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:7084</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l07074">Unit::Attack()</a>, and <a class="el" href="../../#l00071">CreatureAI::me</a>.</p>
+<p class="reference">References <a class="el" href="../../#l07084">Unit::Attack()</a>, and <a class="el" href="../../#l00071">CreatureAI::me</a>.</p>
 
 </div>
 </div>
@@ -595,7 +595,7 @@ Additional Inherited Members</h2></td></tr>
 
 <p>Reimplemented from <a class="el" href="../../de/dc7/a06607.html#a5a2ee2c8c34726e0dd7d2e7a25047690">UnitAI</a>.</p>
 
-<p>Reimplemented in <a class="el" href="../../de/dba/a20323.html#a17020dc7facabb0cacac3209277a73f7">boss_flame_leviathan_defense_turret</a>.</p>
+<p>Reimplemented in <a class="el" href="../../db/d79/a20331.html#a17020dc7facabb0cacac3209277a73f7">boss_flame_leviathan_defense_turret</a>.</p>
 <div class="fragment"><div class="line"><span class="lineno">  240</span>{</div>
 <div class="line"><span class="lineno">  242</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../dc/d4f/a06619.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#a2b32551adec993309c35e8e88e35b4be">IsWithinCombatRange</a>(<a class="code hl_variable" href="../../dc/d4f/a06619.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>(), <a class="code hl_variable" href="../../dc/d4f/a06619.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_variable" href="../../d5/d6c/a08471.html#a868b09fcb142556e68af4a335930dadc">m_CombatDistance</a>)</div>
 <div class="line"><span class="lineno">  243</span>            || (<a class="code hl_variable" href="../../d5/d96/a06531.html#a4cffbf9bcb29468dad6a6583c905b99a">m_minRange</a> &amp;&amp; <a class="code hl_variable" href="../../dc/d4f/a06619.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#a2b32551adec993309c35e8e88e35b4be">IsWithinCombatRange</a>(<a class="code hl_variable" href="../../dc/d4f/a06619.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>(), <a class="code hl_variable" href="../../d5/d96/a06531.html#a4cffbf9bcb29468dad6a6583c905b99a">m_minRange</a>)))</div>
@@ -603,9 +603,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  245</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">  246</span>}</div>
 <div class="ttc" id="aa09227_html_a2b32551adec993309c35e8e88e35b4be"><div class="ttname"><a href="../../d9/d33/a09227.html#a2b32551adec993309c35e8e88e35b4be">Unit::IsWithinCombatRange</a></div><div class="ttdeci">bool IsWithinCombatRange(Unit const *obj, float dist2compare) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:774</div></div>
-<div class="ttc" id="aa09227_html_aae09d03a474ea5517d671e64dc393739"><div class="ttname"><a href="../../d9/d33/a09227.html#aae09d03a474ea5517d671e64dc393739">Unit::GetVictim</a></div><div class="ttdeci">Unit * GetVictim() const</div><div class="ttdef"><b>Definition:</b> Unit.h:906</div></div>
+<div class="ttc" id="aa09227_html_aae09d03a474ea5517d671e64dc393739"><div class="ttname"><a href="../../d9/d33/a09227.html#aae09d03a474ea5517d671e64dc393739">Unit::GetVictim</a></div><div class="ttdeci">Unit * GetVictim() const</div><div class="ttdef"><b>Definition:</b> Unit.h:907</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00906">Unit::GetVictim()</a>, <a class="el" href="../../#l00774">Unit::IsWithinCombatRange()</a>, <a class="el" href="../../#l00393">Creature::m_CombatDistance</a>, <a class="el" href="../../#l00093">m_minRange</a>, and <a class="el" href="../../#l00071">CreatureAI::me</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00907">Unit::GetVictim()</a>, <a class="el" href="../../#l00774">Unit::IsWithinCombatRange()</a>, <a class="el" href="../../#l00393">Creature::m_CombatDistance</a>, <a class="el" href="../../#l00093">m_minRange</a>, and <a class="el" href="../../#l00071">CreatureAI::me</a>.</p>
 
 </div>
 </div>
@@ -667,7 +667,7 @@ Additional Inherited Members</h2></td></tr>
 
 <p>Implements <a class="el" href="../../de/dc7/a06607.html#a7288294b38c6161ab1218d75fe622fc0">UnitAI</a>.</p>
 
-<p>Reimplemented in <a class="el" href="../../de/dba/a20323.html#a9d6e48e613a65f7a3bec76ce6ea73574">boss_flame_leviathan_defense_turret</a>.</p>
+<p>Reimplemented in <a class="el" href="../../db/d79/a20331.html#a9d6e48e613a65f7a3bec76ce6ea73574">boss_flame_leviathan_defense_turret</a>.</p>
 <div class="fragment"><div class="line"><span class="lineno">  255</span>{</div>
 <div class="line"><span class="lineno">  256</span>    <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../dc/d4f/a06619.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">UpdateVictim</a>())</div>
 <div class="line"><span class="lineno">  257</span>        <span class="keywordflow">return</span>;</div>
@@ -715,7 +715,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/d96/a06531.html">TurretAI</a></li>
-    <li class="footer">Generated on Tue Oct 6 2026 01:27:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Tue Oct 13 2026 02:16:34 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

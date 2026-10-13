@@ -1,6 +1,11 @@
 var a23115 =
 [
-    [ "HandleEffectRemove", "d3/d96/a23115.html#ae9baf688d8ac42c4ccbbf13f3b79e831", null ],
-    [ "PrepareAuraScript", "d3/d96/a23115.html#a2e2668f0b5bf369ec859627e0bd8d980", null ],
-    [ "Register", "d3/d96/a23115.html#acd7e22159d262a9888c744eecb978c09", null ]
+    [ "boss_essence_of_angerAI", "d3/d96/a23115.html#a25eed717395b4e1ca5504d2d473e2500", null ],
+    [ "DoAction", "d3/d96/a23115.html#a81576aaf465dfc99d199aaf6a182df52", null ],
+    [ "JustDied", "d3/d96/a23115.html#a997d75ad388e790f9863e1b15fa1c899", null ],
+    [ "JustEngagedWith", "d3/d96/a23115.html#a16d2b13fcf3dfa513813669b44712c4c", null ],
+    [ "KilledUnit", "d3/d96/a23115.html#a6a900f9a9dc5509c36e5bdaaaacc197d", null ],
+    [ "Reset", "d3/d96/a23115.html#ade57a575bd84e8e095b1ab5a5c81d3f6", null ],
+    [ "UpdateAI", "d3/d96/a23115.html#a67e9f5a361894aa227f2a74f9222740d", null ],
+    [ "targetGUID", "d3/d96/a23115.html#adc3867a4446375f1217809299f3dd9bb", null ]
 ];

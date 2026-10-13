@@ -1,8 +1,10 @@
 var a19811 =
 [
-    [ "npc_scion_of_eternity", "d6/dbb/a19811.html#ac1a9111bc835a3d2cffc43b840985763", null ],
-    [ "AttackStart", "d6/dbb/a19811.html#a86b5e235096ad107217f36150c618d73", null ],
-    [ "JustDied", "d6/dbb/a19811.html#aff0f8d0d57afb6ef3df7b259ec5860fa", null ],
-    [ "MoveInLineOfSight", "d6/dbb/a19811.html#a25424c349fc39f7b42d36ac055f91ad9", null ],
-    [ "UpdateAI", "d6/dbb/a19811.html#a49be60ccd03d75cf56931b870ddf086c", null ]
+    [ "npc_power_spark", "d6/dbb/a19811.html#a97ec0ed1157578fb7e1d8c4e146b2a4f", null ],
+    [ "DamageTaken", "d6/dbb/a19811.html#afe33d511823666929232bfd0179ee72a", null ],
+    [ "DoAction", "d6/dbb/a19811.html#ab99a859ee718d49ce59171e7e7159abc", null ],
+    [ "UpdateAI", "d6/dbb/a19811.html#ab36e75c87aa262a57be1594289284730", null ],
+    [ "_checkTimer", "d6/dbb/a19811.html#ae63f0f359037363b840fe51a797969b5", null ],
+    [ "_instance", "d6/dbb/a19811.html#a776b7fef26fd67961b0fdf0596d7beb2", null ],
+    [ "_moveTimer", "d6/dbb/a19811.html#a52c953a524bb7f26c6713ac5d83eb068", null ]
 ];

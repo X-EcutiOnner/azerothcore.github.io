@@ -1,10 +1,8 @@
 var a27927 =
 [
-    [ "CheckProc", "db/de6/a27927.html#a257202ac9b80a67ce58d9e3491164d22", null ],
-    [ "HandleProc", "db/de6/a27927.html#aa3c74b25fbe63ac77e10260159adb8ca", null ],
-    [ "HandleTick", "db/de6/a27927.html#a5e436c530e5ef70bc4de4305676ed196", null ],
-    [ "PrepareAuraScript", "db/de6/a27927.html#aef7d1a2bbd59af36cc130f07e1204081", null ],
-    [ "Register", "db/de6/a27927.html#a11b0120ea8c8ccf1c96e5d1053d64895", null ],
-    [ "RemoveEffect", "db/de6/a27927.html#a333ad80d8478f59713ee049f935d7885", null ],
-    [ "Validate", "db/de6/a27927.html#aed3cb37f0230463978b210add84bd31d", null ]
+    [ "ApplyEffect", "db/de6/a27927.html#a0c303c58064236969e17d1f2df3e0556", null ],
+    [ "PrepareAuraScript", "db/de6/a27927.html#a716a483282946f840ac15d73c6e21a94", null ],
+    [ "Register", "db/de6/a27927.html#ad72816bc73bdb1cf578f3c4599ec1682", null ],
+    [ "RemoveEffect", "db/de6/a27927.html#a571b1b19f4d5b13e54288aa89ab1e9b6", null ],
+    [ "Validate", "db/de6/a27927.html#a99eb27ead6f5c8c8f569626600f2daf9", null ]
 ];

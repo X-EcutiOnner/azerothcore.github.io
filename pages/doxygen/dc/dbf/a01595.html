@@ -123,6 +123,8 @@ $(document).ready(function(){initNavTree('dc/dbf/a01595.html','../../'); initRes
 <code>#include &quot;<a class="el" href="../../">ScriptedEscortAI.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">ScriptedGossip.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">WaypointMgr.h</a>&quot;</code><br />
+<code>#include &lt;iterator&gt;</code><br />
+<code>#include &lt;limits&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
@@ -140,7 +142,9 @@ Classes</h2></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d33/a12779.html">npc_phalanx</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d2b/a12783.html">npc_rocknot</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d2b/a12783.html">npc_mistress_nagmara</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d6e/a12787.html">npc_rocknot</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
@@ -211,6 +215,29 @@ Enumerations</h2></td></tr>
 <br />
  }</td></tr>
 <tr class="separator:a2dfe0b3ef8a6a2dd0a5135c85ea27ba6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a77fc9cb2c6415fc9da6f085c0ba82b5d"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dbf/a01595.html#a77fc9cb2c6415fc9da6f085c0ba82b5d">GrimGuzzlerNPCs</a> { <br />
+&#160;&#160;<a class="el" href="../../dc/dbf/a01595.html#a77fc9cb2c6415fc9da6f085c0ba82b5da863befa526f111283c2f5a00a1f1c4f6">NPC_PRIVATE_ROCKNOT</a> = 9503
+, <br />
+&#160;&#160;<a class="el" href="../../dc/dbf/a01595.html#a77fc9cb2c6415fc9da6f085c0ba82b5daa54264550a93a8c75eb28557276a94aa">NPC_MISTRESS_NAGMARA</a> = 9500
+<br />
+ }</td></tr>
+<tr class="separator:a77fc9cb2c6415fc9da6f085c0ba82b5d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac8d7ba67c412abeae1570b26868bc6c0"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dbf/a01595.html#ac8d7ba67c412abeae1570b26868bc6c0">NagmaraSpells</a> { <br />
+&#160;&#160;<a class="el" href="../../dc/dbf/a01595.html#ac8d7ba67c412abeae1570b26868bc6c0a26e4d96eb92af19110e5161981a2d89b">SPELL_POTION_LOVE</a> = 14928
+, <br />
+&#160;&#160;<a class="el" href="../../dc/dbf/a01595.html#ac8d7ba67c412abeae1570b26868bc6c0adacc3fefb0158891c5ff293dd9d46f83">SPELL_NAGMARA_ROCKNOT</a> = 15064
+<br />
+ }</td></tr>
+<tr class="separator:ac8d7ba67c412abeae1570b26868bc6c0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa63c1639a528ee5ae169f1a630bac373"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dbf/a01595.html#aa63c1639a528ee5ae169f1a630bac373">NagmaraTexts</a> { <br />
+&#160;&#160;<a class="el" href="../../dc/dbf/a01595.html#aa63c1639a528ee5ae169f1a630bac373a12d399d6199598673134db27e00734c7">SAY_NAGMARA_AMBIENT</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../dc/dbf/a01595.html#aa63c1639a528ee5ae169f1a630bac373a2a19fc4b457cfe745df19afabaf76db8">SAY_NAGMARA_1</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../dc/dbf/a01595.html#aa63c1639a528ee5ae169f1a630bac373aa9385a08d20a72f4bfef0488f75a1a6e">EMOTE_NAGMARA</a> = 3
+<br />
+ }</td></tr>
+<tr class="separator:aa63c1639a528ee5ae169f1a630bac373"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0fcf46ec361ec3eb9f40c6701294d8e0"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dbf/a01595.html#a0fcf46ec361ec3eb9f40c6701294d8e0">RocknotSays</a> { <br />
 &#160;&#160;<a class="el" href="../../dc/dbf/a01595.html#a0fcf46ec361ec3eb9f40c6701294d8e0a907cae969cb1fc078f260cc54dc01e22">SAY_GOT_BEER</a> = 0
 , <br />
@@ -221,9 +248,80 @@ Enumerations</h2></td></tr>
 &#160;&#160;<a class="el" href="../../dc/dbf/a01595.html#a0fcf46ec361ec3eb9f40c6701294d8e0ae644afd40e185b9f8d53e621551a6a65">SAY_SECOND_EMPTY</a> = 3
 , <br />
 &#160;&#160;<a class="el" href="../../dc/dbf/a01595.html#a0fcf46ec361ec3eb9f40c6701294d8e0ab2c8011f6b9b092816587071dc99a963">SAY_ALE</a> = 4
+, <br />
+&#160;&#160;<a class="el" href="../../dc/dbf/a01595.html#a0fcf46ec361ec3eb9f40c6701294d8e0adb25620ed18d2e8dc4c5a9e4683a1142">EMOTE_ROCKNOT</a> = 5
 <br />
  }</td></tr>
 <tr class="separator:a0fcf46ec361ec3eb9f40c6701294d8e0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a42d112f04eb6d2c8375cdd73c00b8300"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dbf/a01595.html#a42d112f04eb6d2c8375cdd73c00b8300">NagmaraQuests</a> { <a class="el" href="../../dc/dbf/a01595.html#a42d112f04eb6d2c8375cdd73c00b8300a203395175d797a21b4a15af3df2a7335">QUEST_POTION_LOVE</a> = 4201
+ }</td></tr>
+<tr class="separator:a42d112f04eb6d2c8375cdd73c00b8300"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a28ee3503a173aad11926aa2efcfd5509"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dbf/a01595.html#a28ee3503a173aad11926aa2efcfd5509">NagmaraData</a> { <a class="el" href="../../dc/dbf/a01595.html#a28ee3503a173aad11926aa2efcfd5509afa16f15ee50d119564f3592f910cb7c3">DATA_AMBIENT_ORDER</a> = 1
+ }</td></tr>
+<tr class="separator:a28ee3503a173aad11926aa2efcfd5509"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa2e052d8da616d0062d3bbd8fb7e1827"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dbf/a01595.html#aa2e052d8da616d0062d3bbd8fb7e1827">NagmaraCreatures</a> { <br />
+&#160;&#160;<a class="el" href="../../dc/dbf/a01595.html#aa2e052d8da616d0062d3bbd8fb7e1827a2970c9c616a2ae5e83b719614d898b05">NPC_GRIM_PATRON</a> = 9545
+, <br />
+&#160;&#160;<a class="el" href="../../dc/dbf/a01595.html#aa2e052d8da616d0062d3bbd8fb7e1827aee0404e3462d0a1aeb291d4e8ded3217">NPC_GUZZLING_PATRON</a> = 9547
+<br />
+ }</td></tr>
+<tr class="separator:aa2e052d8da616d0062d3bbd8fb7e1827"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6ccd5ead114dd914e3ffcfb50ba50148"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dbf/a01595.html#a6ccd5ead114dd914e3ffcfb50ba50148">RocknotActions</a> { <br />
+&#160;&#160;<a class="el" href="../../dc/dbf/a01595.html#a6ccd5ead114dd914e3ffcfb50ba50148a73d8e41f981b02608462365286b3018f">ACTION_START_LOVE_POTION</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../dc/dbf/a01595.html#a6ccd5ead114dd914e3ffcfb50ba50148ae41e4a7666d470f5b130d5055335b970">ACTION_CANCEL_LOVE_POTION</a> = 2
+, <br />
+&#160;&#160;<a class="el" href="../../dc/dbf/a01595.html#a6ccd5ead114dd914e3ffcfb50ba50148a75a8771e26539eaa5a324c31d159473f">ACTION_BEGIN_LOVERS_FOLLOW</a> = 3
+, <br />
+&#160;&#160;<a class="el" href="../../dc/dbf/a01595.html#a6ccd5ead114dd914e3ffcfb50ba50148a3a2fc1f923cfd18d20a4e7403b80c078">ACTION_MOVE_TO_LOVERS_STOP</a> = 4
+, <br />
+&#160;&#160;<a class="el" href="../../dc/dbf/a01595.html#a6ccd5ead114dd914e3ffcfb50ba50148a4a005655189744e88943f9501ee7e8e0">ACTION_ROCKNOT_AT_LOVERS_STOP</a> = 5
+, <br />
+&#160;&#160;<a class="el" href="../../dc/dbf/a01595.html#a6ccd5ead114dd914e3ffcfb50ba50148a15c3c08b92e5fd800158fcb7cd8a2eb3">ACTION_COMPLETE_LOVE_POTION</a> = 6
+, <br />
+&#160;&#160;<a class="el" href="../../dc/dbf/a01595.html#a6ccd5ead114dd914e3ffcfb50ba50148a6f12ad568cdb38c2cfffbbc53d629937">ACTION_PAUSE_AT_BAR_DOOR</a> = 7
+, <br />
+&#160;&#160;<a class="el" href="../../dc/dbf/a01595.html#a6ccd5ead114dd914e3ffcfb50ba50148a27c99a4ee04d09d0161bb0ee885dac9c">ACTION_RESUME_AFTER_BAR_DOOR</a> = 8
+<br />
+ }</td></tr>
+<tr class="separator:a6ccd5ead114dd914e3ffcfb50ba50148"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac1670d2b32d8e79b0358f7e061de6145"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dbf/a01595.html#ac1670d2b32d8e79b0358f7e061de6145">RocknotData</a> { <br />
+&#160;&#160;<a class="el" href="../../dc/dbf/a01595.html#ac1670d2b32d8e79b0358f7e061de6145a9074ae5f78146c58c1bf87f43d89d447">DATA_CAN_START_LOVE_POTION</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../dc/dbf/a01595.html#ac1670d2b32d8e79b0358f7e061de6145af322e0b87796678714297df224333bf7">DATA_LOVE_POTION_ACTIVE</a> = 2
+<br />
+ }</td></tr>
+<tr class="separator:ac1670d2b32d8e79b0358f7e061de6145"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8036b3f5e864d74a1e72ec40dffb6760"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dbf/a01595.html#a8036b3f5e864d74a1e72ec40dffb6760">NagmaraTaskGroups</a> { <br />
+&#160;&#160;<a class="el" href="../../dc/dbf/a01595.html#a8036b3f5e864d74a1e72ec40dffb6760a6895c03be88d64053761ea7cb1041762">GROUP_NAGMARA_LOVE_SEQUENCE</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../dc/dbf/a01595.html#a8036b3f5e864d74a1e72ec40dffb6760a60bbc17117f39acb9ea40c79e6195a68">GROUP_NAGMARA_MOVEMENT_TIMEOUT</a>
+, <br />
+&#160;&#160;<a class="el" href="../../dc/dbf/a01595.html#a8036b3f5e864d74a1e72ec40dffb6760a7cd54408a0a319066ae348245c6a92c5">GROUP_NAGMARA_AMBIENT_REPLY</a>
+, <br />
+&#160;&#160;<a class="el" href="../../dc/dbf/a01595.html#a8036b3f5e864d74a1e72ec40dffb6760a608896f7c09a6d70271c30fd15463950">GROUP_NAGMARA_KISS</a>
+<br />
+ }</td></tr>
+<tr class="separator:a8036b3f5e864d74a1e72ec40dffb6760"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a475f710bbab4d7dd51d780bfcfa38cd6"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dbf/a01595.html#a475f710bbab4d7dd51d780bfcfa38cd6">NagmaraGossip</a> { <a class="el" href="../../dc/dbf/a01595.html#a475f710bbab4d7dd51d780bfcfa38cd6a7610712538455e1509d47f7a8799ae99">GOSSIP_MENU_NAGMARA</a> = 2076
+ }</td></tr>
+<tr class="separator:a475f710bbab4d7dd51d780bfcfa38cd6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac00cc67fe0e532bdfa8d394554795119"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dbf/a01595.html#ac00cc67fe0e532bdfa8d394554795119">NagmaraPoints</a> { <br />
+&#160;&#160;<a class="el" href="../../dc/dbf/a01595.html#ac00cc67fe0e532bdfa8d394554795119a45dda9aa9856f46b6ceedc56b4e0de3c">POINT_APPROACH</a> = 100
+, <br />
+&#160;&#160;<a class="el" href="../../dc/dbf/a01595.html#ac00cc67fe0e532bdfa8d394554795119a632f4c76ffd604505efb731acbfb246c">POINT_APPROACH_GREETING</a> = 108
+, <br />
+&#160;&#160;<a class="el" href="../../dc/dbf/a01595.html#ac00cc67fe0e532bdfa8d394554795119ab2a7e6619cabd04e389b035c3853490b">POINT_ROCKNOT_FINAL</a> = 300
+<br />
+ }</td></tr>
+<tr class="separator:ac00cc67fe0e532bdfa8d394554795119"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad2d26888a90b420f8dd6141b267aca09"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dbf/a01595.html#ad2d26888a90b420f8dd6141b267aca09">NagmaraWaypoints</a> { <br />
+&#160;&#160;<a class="el" href="../../dc/dbf/a01595.html#ad2d26888a90b420f8dd6141b267aca09a5d4a897c034ba8123d547f3e8598035b">PATH_NAGMARA_LOVERS</a> = 95001
+, <br />
+&#160;&#160;<a class="el" href="../../dc/dbf/a01595.html#ad2d26888a90b420f8dd6141b267aca09ac7d1cb3c3dcc59c9e841b2dcea794d7b">POINT_NAGMARA_DOOR_WAIT</a> = 4
+<br />
+ }</td></tr>
+<tr class="separator:ad2d26888a90b420f8dd6141b267aca09"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6b0d084d8af18bd5f9b8b009e51137db"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dbf/a01595.html#a6b0d084d8af18bd5f9b8b009e51137db">RocknotQuests</a> { <a class="el" href="../../dc/dbf/a01595.html#a6b0d084d8af18bd5f9b8b009e51137dba736905032af28505a38a22a718e1c17a">QUEST_ALE</a> = 4295
  }</td></tr>
 <tr class="separator:a6b0d084d8af18bd5f9b8b009e51137db"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -262,6 +360,9 @@ Enumerations</h2></td></tr>
 <br />
  }</td></tr>
 <tr class="separator:a2b671238f8a9d6c755d81fe60b2b11af"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9be3a5935087bb5ed983121fff3d2396"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dbf/a01595.html#a9be3a5935087bb5ed983121fff3d2396">RocknotTaskGroups</a> { <a class="el" href="../../dc/dbf/a01595.html#a9be3a5935087bb5ed983121fff3d2396a03919bd7a0e976e9c06c40615e9363ff">GROUP_ROCKNOT_KISS</a> = 1
+ }</td></tr>
+<tr class="separator:a9be3a5935087bb5ed983121fff3d2396"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
@@ -278,8 +379,40 @@ Variables</h2></td></tr>
 <tr class="separator:a26123366b238dd51ab03de9e763db822"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af2fce71fa3dcd5348828dd274e1872ec"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d12/a04691.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dbf/a01595.html#af2fce71fa3dcd5348828dd274e1872ec">RingBoss</a> []</td></tr>
 <tr class="separator:af2fce71fa3dcd5348828dd274e1872ec"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af200a6dcf2f5de233003bc331d085202"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/dc3/a08931.html">Position</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dbf/a01595.html#af200a6dcf2f5de233003bc331d085202">NagmaraApproachPosition</a> = { 874.3762f, -187.63274f, -43.70371f }</td></tr>
+<tr class="separator:af200a6dcf2f5de233003bc331d085202"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a733d56b59dda0c4cfc28a18f7f54b152"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/dc3/a08931.html">Position</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dbf/a01595.html#a733d56b59dda0c4cfc28a18f7f54b152">NagmaraGreetingPosition</a> = { 889.49426f, -196.88141f, -43.713f }</td></tr>
+<tr class="separator:a733d56b59dda0c4cfc28a18f7f54b152"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a63deecc453aeb5a784bc21c5c174b0e5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/dc3/a08931.html">Position</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dbf/a01595.html#a63deecc453aeb5a784bc21c5c174b0e5">NagmaraFinalPosition</a> = { 878.1779f, -222.06618f, -49.967144f, 0.25003412f }</td></tr>
+<tr class="separator:a63deecc453aeb5a784bc21c5c174b0e5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0413104621cd00b43dd9069c867a7e27"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/dc3/a08931.html">Position</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dbf/a01595.html#a0413104621cd00b43dd9069c867a7e27">RocknotFinalPosition</a> = { 880.1218f, -221.5959f, -49.95902f, 3.3916268f }</td></tr>
+<tr class="separator:a0413104621cd00b43dd9069c867a7e27"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="a77fc9cb2c6415fc9da6f085c0ba82b5d" name="a77fc9cb2c6415fc9da6f085c0ba82b5d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a77fc9cb2c6415fc9da6f085c0ba82b5d">&#9670;&#160;</a></span>GrimGuzzlerNPCs</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../dc/dbf/a01595.html#a77fc9cb2c6415fc9da6f085c0ba82b5d">GrimGuzzlerNPCs</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a77fc9cb2c6415fc9da6f085c0ba82b5da863befa526f111283c2f5a00a1f1c4f6" name="a77fc9cb2c6415fc9da6f085c0ba82b5da863befa526f111283c2f5a00a1f1c4f6"></a>NPC_PRIVATE_ROCKNOT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a77fc9cb2c6415fc9da6f085c0ba82b5daa54264550a93a8c75eb28557276a94aa" name="a77fc9cb2c6415fc9da6f085c0ba82b5daa54264550a93a8c75eb28557276a94aa"></a>NPC_MISTRESS_NAGMARA&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">  604</span>{</div>
+<div class="line"><span class="lineno">  605</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a77fc9cb2c6415fc9da6f085c0ba82b5da863befa526f111283c2f5a00a1f1c4f6">NPC_PRIVATE_ROCKNOT</a>  = 9503,</div>
+<div class="line"><span class="lineno">  606</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a77fc9cb2c6415fc9da6f085c0ba82b5daa54264550a93a8c75eb28557276a94aa">NPC_MISTRESS_NAGMARA</a> = 9500</div>
+<div class="line"><span class="lineno">  607</span>};</div>
+<div class="ttc" id="aa01595_html_a77fc9cb2c6415fc9da6f085c0ba82b5da863befa526f111283c2f5a00a1f1c4f6"><div class="ttname"><a href="../../dc/dbf/a01595.html#a77fc9cb2c6415fc9da6f085c0ba82b5da863befa526f111283c2f5a00a1f1c4f6">NPC_PRIVATE_ROCKNOT</a></div><div class="ttdeci">@ NPC_PRIVATE_ROCKNOT</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:605</div></div>
+<div class="ttc" id="aa01595_html_a77fc9cb2c6415fc9da6f085c0ba82b5daa54264550a93a8c75eb28557276a94aa"><div class="ttname"><a href="../../dc/dbf/a01595.html#a77fc9cb2c6415fc9da6f085c0ba82b5daa54264550a93a8c75eb28557276a94aa">NPC_MISTRESS_NAGMARA</a></div><div class="ttdeci">@ NPC_MISTRESS_NAGMARA</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:606</div></div>
+</div><!-- fragment -->
+</div>
+</div>
 <a id="a0c9ac53db659fd636b9dc88ea37a3954" name="a0c9ac53db659fd636b9dc88ea37a3954"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a0c9ac53db659fd636b9dc88ea37a3954">&#9670;&#160;</a></span>GrimstoneTexts</h2>
 
@@ -299,20 +432,20 @@ Variables</h2></td></tr>
 <tr><td class="fieldname"><a id="a0c9ac53db659fd636b9dc88ea37a3954abb8aafd7f2dbaa933f3d2c0f858cc16d" name="a0c9ac53db659fd636b9dc88ea37a3954abb8aafd7f2dbaa933f3d2c0f858cc16d"></a>SAY_TEXT5&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a0c9ac53db659fd636b9dc88ea37a3954a5b808298bfd32a4b30c81da55f921803" name="a0c9ac53db659fd636b9dc88ea37a3954a5b808298bfd32a4b30c81da55f921803"></a>SAY_TEXT6&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">  164</span>{</div>
-<div class="line"><span class="lineno">  165</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a0c9ac53db659fd636b9dc88ea37a3954abe56e2dc1daa55ecb206c40203e2c43f">SAY_TEXT1</a>          = 0,</div>
-<div class="line"><span class="lineno">  166</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a0c9ac53db659fd636b9dc88ea37a3954ab6be9087c9f91d239f09f746f54c7134">SAY_TEXT2</a>          = 1,</div>
-<div class="line"><span class="lineno">  167</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a0c9ac53db659fd636b9dc88ea37a3954a2ba8965d5901749a12d1480d8ac009b9">SAY_TEXT3</a>          = 2,</div>
-<div class="line"><span class="lineno">  168</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a0c9ac53db659fd636b9dc88ea37a3954a07d6839dbfc7d4b3580bfa4dbafd9e5c">SAY_TEXT4</a>          = 3,</div>
-<div class="line"><span class="lineno">  169</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a0c9ac53db659fd636b9dc88ea37a3954abb8aafd7f2dbaa933f3d2c0f858cc16d">SAY_TEXT5</a>          = 4,</div>
-<div class="line"><span class="lineno">  170</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a0c9ac53db659fd636b9dc88ea37a3954a5b808298bfd32a4b30c81da55f921803">SAY_TEXT6</a>          = 5</div>
-<div class="line"><span class="lineno">  171</span>};</div>
-<div class="ttc" id="aa01595_html_a0c9ac53db659fd636b9dc88ea37a3954a07d6839dbfc7d4b3580bfa4dbafd9e5c"><div class="ttname"><a href="../../dc/dbf/a01595.html#a0c9ac53db659fd636b9dc88ea37a3954a07d6839dbfc7d4b3580bfa4dbafd9e5c">SAY_TEXT4</a></div><div class="ttdeci">@ SAY_TEXT4</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:168</div></div>
-<div class="ttc" id="aa01595_html_a0c9ac53db659fd636b9dc88ea37a3954a2ba8965d5901749a12d1480d8ac009b9"><div class="ttname"><a href="../../dc/dbf/a01595.html#a0c9ac53db659fd636b9dc88ea37a3954a2ba8965d5901749a12d1480d8ac009b9">SAY_TEXT3</a></div><div class="ttdeci">@ SAY_TEXT3</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:167</div></div>
-<div class="ttc" id="aa01595_html_a0c9ac53db659fd636b9dc88ea37a3954a5b808298bfd32a4b30c81da55f921803"><div class="ttname"><a href="../../dc/dbf/a01595.html#a0c9ac53db659fd636b9dc88ea37a3954a5b808298bfd32a4b30c81da55f921803">SAY_TEXT6</a></div><div class="ttdeci">@ SAY_TEXT6</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:170</div></div>
-<div class="ttc" id="aa01595_html_a0c9ac53db659fd636b9dc88ea37a3954ab6be9087c9f91d239f09f746f54c7134"><div class="ttname"><a href="../../dc/dbf/a01595.html#a0c9ac53db659fd636b9dc88ea37a3954ab6be9087c9f91d239f09f746f54c7134">SAY_TEXT2</a></div><div class="ttdeci">@ SAY_TEXT2</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:166</div></div>
-<div class="ttc" id="aa01595_html_a0c9ac53db659fd636b9dc88ea37a3954abb8aafd7f2dbaa933f3d2c0f858cc16d"><div class="ttname"><a href="../../dc/dbf/a01595.html#a0c9ac53db659fd636b9dc88ea37a3954abb8aafd7f2dbaa933f3d2c0f858cc16d">SAY_TEXT5</a></div><div class="ttdeci">@ SAY_TEXT5</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:169</div></div>
-<div class="ttc" id="aa01595_html_a0c9ac53db659fd636b9dc88ea37a3954abe56e2dc1daa55ecb206c40203e2c43f"><div class="ttname"><a href="../../dc/dbf/a01595.html#a0c9ac53db659fd636b9dc88ea37a3954abe56e2dc1daa55ecb206c40203e2c43f">SAY_TEXT1</a></div><div class="ttdeci">@ SAY_TEXT1</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:165</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  167</span>{</div>
+<div class="line"><span class="lineno">  168</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a0c9ac53db659fd636b9dc88ea37a3954abe56e2dc1daa55ecb206c40203e2c43f">SAY_TEXT1</a>          = 0,</div>
+<div class="line"><span class="lineno">  169</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a0c9ac53db659fd636b9dc88ea37a3954ab6be9087c9f91d239f09f746f54c7134">SAY_TEXT2</a>          = 1,</div>
+<div class="line"><span class="lineno">  170</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a0c9ac53db659fd636b9dc88ea37a3954a2ba8965d5901749a12d1480d8ac009b9">SAY_TEXT3</a>          = 2,</div>
+<div class="line"><span class="lineno">  171</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a0c9ac53db659fd636b9dc88ea37a3954a07d6839dbfc7d4b3580bfa4dbafd9e5c">SAY_TEXT4</a>          = 3,</div>
+<div class="line"><span class="lineno">  172</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a0c9ac53db659fd636b9dc88ea37a3954abb8aafd7f2dbaa933f3d2c0f858cc16d">SAY_TEXT5</a>          = 4,</div>
+<div class="line"><span class="lineno">  173</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a0c9ac53db659fd636b9dc88ea37a3954a5b808298bfd32a4b30c81da55f921803">SAY_TEXT6</a>          = 5</div>
+<div class="line"><span class="lineno">  174</span>};</div>
+<div class="ttc" id="aa01595_html_a0c9ac53db659fd636b9dc88ea37a3954a07d6839dbfc7d4b3580bfa4dbafd9e5c"><div class="ttname"><a href="../../dc/dbf/a01595.html#a0c9ac53db659fd636b9dc88ea37a3954a07d6839dbfc7d4b3580bfa4dbafd9e5c">SAY_TEXT4</a></div><div class="ttdeci">@ SAY_TEXT4</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:171</div></div>
+<div class="ttc" id="aa01595_html_a0c9ac53db659fd636b9dc88ea37a3954a2ba8965d5901749a12d1480d8ac009b9"><div class="ttname"><a href="../../dc/dbf/a01595.html#a0c9ac53db659fd636b9dc88ea37a3954a2ba8965d5901749a12d1480d8ac009b9">SAY_TEXT3</a></div><div class="ttdeci">@ SAY_TEXT3</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:170</div></div>
+<div class="ttc" id="aa01595_html_a0c9ac53db659fd636b9dc88ea37a3954a5b808298bfd32a4b30c81da55f921803"><div class="ttname"><a href="../../dc/dbf/a01595.html#a0c9ac53db659fd636b9dc88ea37a3954a5b808298bfd32a4b30c81da55f921803">SAY_TEXT6</a></div><div class="ttdeci">@ SAY_TEXT6</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:173</div></div>
+<div class="ttc" id="aa01595_html_a0c9ac53db659fd636b9dc88ea37a3954ab6be9087c9f91d239f09f746f54c7134"><div class="ttname"><a href="../../dc/dbf/a01595.html#a0c9ac53db659fd636b9dc88ea37a3954ab6be9087c9f91d239f09f746f54c7134">SAY_TEXT2</a></div><div class="ttdeci">@ SAY_TEXT2</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:169</div></div>
+<div class="ttc" id="aa01595_html_a0c9ac53db659fd636b9dc88ea37a3954abb8aafd7f2dbaa933f3d2c0f858cc16d"><div class="ttname"><a href="../../dc/dbf/a01595.html#a0c9ac53db659fd636b9dc88ea37a3954abb8aafd7f2dbaa933f3d2c0f858cc16d">SAY_TEXT5</a></div><div class="ttdeci">@ SAY_TEXT5</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:172</div></div>
+<div class="ttc" id="aa01595_html_a0c9ac53db659fd636b9dc88ea37a3954abe56e2dc1daa55ecb206c40203e2c43f"><div class="ttname"><a href="../../dc/dbf/a01595.html#a0c9ac53db659fd636b9dc88ea37a3954abe56e2dc1daa55ecb206c40203e2c43f">SAY_TEXT1</a></div><div class="ttdeci">@ SAY_TEXT1</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:168</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -331,12 +464,231 @@ Variables</h2></td></tr>
 <tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a2351df48f090013a8239bcb029c39779a066afe62759b3706fe8a3ad01ff12451" name="a2351df48f090013a8239bcb029c39779a066afe62759b3706fe8a3ad01ff12451"></a>IRONHAND_N_GROUPS&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a2351df48f090013a8239bcb029c39779a3b6e8dcf51592d02d02bda14669cb90a" name="a2351df48f090013a8239bcb029c39779a3b6e8dcf51592d02d02bda14669cb90a"></a>SPELL_GOUT_OF_FLAMES&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   31</span>{</div>
-<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a2351df48f090013a8239bcb029c39779a066afe62759b3706fe8a3ad01ff12451">IRONHAND_N_GROUPS</a>          = 3,</div>
-<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a2351df48f090013a8239bcb029c39779a3b6e8dcf51592d02d02bda14669cb90a">SPELL_GOUT_OF_FLAMES</a>       = 15529</div>
-<div class="line"><span class="lineno">   34</span>};</div>
-<div class="ttc" id="aa01595_html_a2351df48f090013a8239bcb029c39779a066afe62759b3706fe8a3ad01ff12451"><div class="ttname"><a href="../../dc/dbf/a01595.html#a2351df48f090013a8239bcb029c39779a066afe62759b3706fe8a3ad01ff12451">IRONHAND_N_GROUPS</a></div><div class="ttdeci">@ IRONHAND_N_GROUPS</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:32</div></div>
-<div class="ttc" id="aa01595_html_a2351df48f090013a8239bcb029c39779a3b6e8dcf51592d02d02bda14669cb90a"><div class="ttname"><a href="../../dc/dbf/a01595.html#a2351df48f090013a8239bcb029c39779a3b6e8dcf51592d02d02bda14669cb90a">SPELL_GOUT_OF_FLAMES</a></div><div class="ttdeci">@ SPELL_GOUT_OF_FLAMES</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:33</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   34</span>{</div>
+<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a2351df48f090013a8239bcb029c39779a066afe62759b3706fe8a3ad01ff12451">IRONHAND_N_GROUPS</a>          = 3,</div>
+<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a2351df48f090013a8239bcb029c39779a3b6e8dcf51592d02d02bda14669cb90a">SPELL_GOUT_OF_FLAMES</a>       = 15529</div>
+<div class="line"><span class="lineno">   37</span>};</div>
+<div class="ttc" id="aa01595_html_a2351df48f090013a8239bcb029c39779a066afe62759b3706fe8a3ad01ff12451"><div class="ttname"><a href="../../dc/dbf/a01595.html#a2351df48f090013a8239bcb029c39779a066afe62759b3706fe8a3ad01ff12451">IRONHAND_N_GROUPS</a></div><div class="ttdeci">@ IRONHAND_N_GROUPS</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:35</div></div>
+<div class="ttc" id="aa01595_html_a2351df48f090013a8239bcb029c39779a3b6e8dcf51592d02d02bda14669cb90a"><div class="ttname"><a href="../../dc/dbf/a01595.html#a2351df48f090013a8239bcb029c39779a3b6e8dcf51592d02d02bda14669cb90a">SPELL_GOUT_OF_FLAMES</a></div><div class="ttdeci">@ SPELL_GOUT_OF_FLAMES</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:36</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="aa2e052d8da616d0062d3bbd8fb7e1827" name="aa2e052d8da616d0062d3bbd8fb7e1827"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa2e052d8da616d0062d3bbd8fb7e1827">&#9670;&#160;</a></span>NagmaraCreatures</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../dc/dbf/a01595.html#aa2e052d8da616d0062d3bbd8fb7e1827">NagmaraCreatures</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="aa2e052d8da616d0062d3bbd8fb7e1827a2970c9c616a2ae5e83b719614d898b05" name="aa2e052d8da616d0062d3bbd8fb7e1827a2970c9c616a2ae5e83b719614d898b05"></a>NPC_GRIM_PATRON&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa2e052d8da616d0062d3bbd8fb7e1827aee0404e3462d0a1aeb291d4e8ded3217" name="aa2e052d8da616d0062d3bbd8fb7e1827aee0404e3462d0a1aeb291d4e8ded3217"></a>NPC_GUZZLING_PATRON&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">  643</span>{</div>
+<div class="line"><span class="lineno">  644</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#aa2e052d8da616d0062d3bbd8fb7e1827a2970c9c616a2ae5e83b719614d898b05">NPC_GRIM_PATRON</a>     = 9545,</div>
+<div class="line"><span class="lineno">  645</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#aa2e052d8da616d0062d3bbd8fb7e1827aee0404e3462d0a1aeb291d4e8ded3217">NPC_GUZZLING_PATRON</a> = 9547</div>
+<div class="line"><span class="lineno">  646</span>};</div>
+<div class="ttc" id="aa01595_html_aa2e052d8da616d0062d3bbd8fb7e1827a2970c9c616a2ae5e83b719614d898b05"><div class="ttname"><a href="../../dc/dbf/a01595.html#aa2e052d8da616d0062d3bbd8fb7e1827a2970c9c616a2ae5e83b719614d898b05">NPC_GRIM_PATRON</a></div><div class="ttdeci">@ NPC_GRIM_PATRON</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:644</div></div>
+<div class="ttc" id="aa01595_html_aa2e052d8da616d0062d3bbd8fb7e1827aee0404e3462d0a1aeb291d4e8ded3217"><div class="ttname"><a href="../../dc/dbf/a01595.html#aa2e052d8da616d0062d3bbd8fb7e1827aee0404e3462d0a1aeb291d4e8ded3217">NPC_GUZZLING_PATRON</a></div><div class="ttdeci">@ NPC_GUZZLING_PATRON</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:645</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a28ee3503a173aad11926aa2efcfd5509" name="a28ee3503a173aad11926aa2efcfd5509"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a28ee3503a173aad11926aa2efcfd5509">&#9670;&#160;</a></span>NagmaraData</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../dc/dbf/a01595.html#a28ee3503a173aad11926aa2efcfd5509">NagmaraData</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a28ee3503a173aad11926aa2efcfd5509afa16f15ee50d119564f3592f910cb7c3" name="a28ee3503a173aad11926aa2efcfd5509afa16f15ee50d119564f3592f910cb7c3"></a>DATA_AMBIENT_ORDER&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">  638</span>{</div>
+<div class="line"><span class="lineno">  639</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a28ee3503a173aad11926aa2efcfd5509afa16f15ee50d119564f3592f910cb7c3">DATA_AMBIENT_ORDER</a> = 1</div>
+<div class="line"><span class="lineno">  640</span>};</div>
+<div class="ttc" id="aa01595_html_a28ee3503a173aad11926aa2efcfd5509afa16f15ee50d119564f3592f910cb7c3"><div class="ttname"><a href="../../dc/dbf/a01595.html#a28ee3503a173aad11926aa2efcfd5509afa16f15ee50d119564f3592f910cb7c3">DATA_AMBIENT_ORDER</a></div><div class="ttdeci">@ DATA_AMBIENT_ORDER</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:639</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a475f710bbab4d7dd51d780bfcfa38cd6" name="a475f710bbab4d7dd51d780bfcfa38cd6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a475f710bbab4d7dd51d780bfcfa38cd6">&#9670;&#160;</a></span>NagmaraGossip</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../dc/dbf/a01595.html#a475f710bbab4d7dd51d780bfcfa38cd6">NagmaraGossip</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a475f710bbab4d7dd51d780bfcfa38cd6a7610712538455e1509d47f7a8799ae99" name="a475f710bbab4d7dd51d780bfcfa38cd6a7610712538455e1509d47f7a8799ae99"></a>GOSSIP_MENU_NAGMARA&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">  675</span>{</div>
+<div class="line"><span class="lineno">  676</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a475f710bbab4d7dd51d780bfcfa38cd6a7610712538455e1509d47f7a8799ae99">GOSSIP_MENU_NAGMARA</a> = 2076</div>
+<div class="line"><span class="lineno">  677</span>};</div>
+<div class="ttc" id="aa01595_html_a475f710bbab4d7dd51d780bfcfa38cd6a7610712538455e1509d47f7a8799ae99"><div class="ttname"><a href="../../dc/dbf/a01595.html#a475f710bbab4d7dd51d780bfcfa38cd6a7610712538455e1509d47f7a8799ae99">GOSSIP_MENU_NAGMARA</a></div><div class="ttdeci">@ GOSSIP_MENU_NAGMARA</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:676</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="ac00cc67fe0e532bdfa8d394554795119" name="ac00cc67fe0e532bdfa8d394554795119"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac00cc67fe0e532bdfa8d394554795119">&#9670;&#160;</a></span>NagmaraPoints</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../dc/dbf/a01595.html#ac00cc67fe0e532bdfa8d394554795119">NagmaraPoints</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ac00cc67fe0e532bdfa8d394554795119a45dda9aa9856f46b6ceedc56b4e0de3c" name="ac00cc67fe0e532bdfa8d394554795119a45dda9aa9856f46b6ceedc56b4e0de3c"></a>POINT_APPROACH&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ac00cc67fe0e532bdfa8d394554795119a632f4c76ffd604505efb731acbfb246c" name="ac00cc67fe0e532bdfa8d394554795119a632f4c76ffd604505efb731acbfb246c"></a>POINT_APPROACH_GREETING&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ac00cc67fe0e532bdfa8d394554795119ab2a7e6619cabd04e389b035c3853490b" name="ac00cc67fe0e532bdfa8d394554795119ab2a7e6619cabd04e389b035c3853490b"></a>POINT_ROCKNOT_FINAL&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">  680</span>{</div>
+<div class="line"><span class="lineno">  681</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#ac00cc67fe0e532bdfa8d394554795119a45dda9aa9856f46b6ceedc56b4e0de3c">POINT_APPROACH</a>   = 100,</div>
+<div class="line"><span class="lineno">  682</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#ac00cc67fe0e532bdfa8d394554795119a632f4c76ffd604505efb731acbfb246c">POINT_APPROACH_GREETING</a> = 108,</div>
+<div class="line"><span class="lineno">  683</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#ac00cc67fe0e532bdfa8d394554795119ab2a7e6619cabd04e389b035c3853490b">POINT_ROCKNOT_FINAL</a>     = 300</div>
+<div class="line"><span class="lineno">  684</span>};</div>
+<div class="ttc" id="aa01595_html_ac00cc67fe0e532bdfa8d394554795119a45dda9aa9856f46b6ceedc56b4e0de3c"><div class="ttname"><a href="../../dc/dbf/a01595.html#ac00cc67fe0e532bdfa8d394554795119a45dda9aa9856f46b6ceedc56b4e0de3c">POINT_APPROACH</a></div><div class="ttdeci">@ POINT_APPROACH</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:681</div></div>
+<div class="ttc" id="aa01595_html_ac00cc67fe0e532bdfa8d394554795119a632f4c76ffd604505efb731acbfb246c"><div class="ttname"><a href="../../dc/dbf/a01595.html#ac00cc67fe0e532bdfa8d394554795119a632f4c76ffd604505efb731acbfb246c">POINT_APPROACH_GREETING</a></div><div class="ttdeci">@ POINT_APPROACH_GREETING</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:682</div></div>
+<div class="ttc" id="aa01595_html_ac00cc67fe0e532bdfa8d394554795119ab2a7e6619cabd04e389b035c3853490b"><div class="ttname"><a href="../../dc/dbf/a01595.html#ac00cc67fe0e532bdfa8d394554795119ab2a7e6619cabd04e389b035c3853490b">POINT_ROCKNOT_FINAL</a></div><div class="ttdeci">@ POINT_ROCKNOT_FINAL</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:683</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a42d112f04eb6d2c8375cdd73c00b8300" name="a42d112f04eb6d2c8375cdd73c00b8300"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a42d112f04eb6d2c8375cdd73c00b8300">&#9670;&#160;</a></span>NagmaraQuests</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../dc/dbf/a01595.html#a42d112f04eb6d2c8375cdd73c00b8300">NagmaraQuests</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a42d112f04eb6d2c8375cdd73c00b8300a203395175d797a21b4a15af3df2a7335" name="a42d112f04eb6d2c8375cdd73c00b8300a203395175d797a21b4a15af3df2a7335"></a>QUEST_POTION_LOVE&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">  633</span>{</div>
+<div class="line"><span class="lineno">  634</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a42d112f04eb6d2c8375cdd73c00b8300a203395175d797a21b4a15af3df2a7335">QUEST_POTION_LOVE</a> = 4201</div>
+<div class="line"><span class="lineno">  635</span>};</div>
+<div class="ttc" id="aa01595_html_a42d112f04eb6d2c8375cdd73c00b8300a203395175d797a21b4a15af3df2a7335"><div class="ttname"><a href="../../dc/dbf/a01595.html#a42d112f04eb6d2c8375cdd73c00b8300a203395175d797a21b4a15af3df2a7335">QUEST_POTION_LOVE</a></div><div class="ttdeci">@ QUEST_POTION_LOVE</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:634</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="ac8d7ba67c412abeae1570b26868bc6c0" name="ac8d7ba67c412abeae1570b26868bc6c0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac8d7ba67c412abeae1570b26868bc6c0">&#9670;&#160;</a></span>NagmaraSpells</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../dc/dbf/a01595.html#ac8d7ba67c412abeae1570b26868bc6c0">NagmaraSpells</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ac8d7ba67c412abeae1570b26868bc6c0a26e4d96eb92af19110e5161981a2d89b" name="ac8d7ba67c412abeae1570b26868bc6c0a26e4d96eb92af19110e5161981a2d89b"></a>SPELL_POTION_LOVE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ac8d7ba67c412abeae1570b26868bc6c0adacc3fefb0158891c5ff293dd9d46f83" name="ac8d7ba67c412abeae1570b26868bc6c0adacc3fefb0158891c5ff293dd9d46f83"></a>SPELL_NAGMARA_ROCKNOT&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">  610</span>{</div>
+<div class="line"><span class="lineno">  611</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#ac8d7ba67c412abeae1570b26868bc6c0a26e4d96eb92af19110e5161981a2d89b">SPELL_POTION_LOVE</a>     = 14928,</div>
+<div class="line"><span class="lineno">  612</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#ac8d7ba67c412abeae1570b26868bc6c0adacc3fefb0158891c5ff293dd9d46f83">SPELL_NAGMARA_ROCKNOT</a> = 15064</div>
+<div class="line"><span class="lineno">  613</span>};</div>
+<div class="ttc" id="aa01595_html_ac8d7ba67c412abeae1570b26868bc6c0a26e4d96eb92af19110e5161981a2d89b"><div class="ttname"><a href="../../dc/dbf/a01595.html#ac8d7ba67c412abeae1570b26868bc6c0a26e4d96eb92af19110e5161981a2d89b">SPELL_POTION_LOVE</a></div><div class="ttdeci">@ SPELL_POTION_LOVE</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:611</div></div>
+<div class="ttc" id="aa01595_html_ac8d7ba67c412abeae1570b26868bc6c0adacc3fefb0158891c5ff293dd9d46f83"><div class="ttname"><a href="../../dc/dbf/a01595.html#ac8d7ba67c412abeae1570b26868bc6c0adacc3fefb0158891c5ff293dd9d46f83">SPELL_NAGMARA_ROCKNOT</a></div><div class="ttdeci">@ SPELL_NAGMARA_ROCKNOT</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:612</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a8036b3f5e864d74a1e72ec40dffb6760" name="a8036b3f5e864d74a1e72ec40dffb6760"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8036b3f5e864d74a1e72ec40dffb6760">&#9670;&#160;</a></span>NagmaraTaskGroups</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../dc/dbf/a01595.html#a8036b3f5e864d74a1e72ec40dffb6760">NagmaraTaskGroups</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a8036b3f5e864d74a1e72ec40dffb6760a6895c03be88d64053761ea7cb1041762" name="a8036b3f5e864d74a1e72ec40dffb6760a6895c03be88d64053761ea7cb1041762"></a>GROUP_NAGMARA_LOVE_SEQUENCE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a8036b3f5e864d74a1e72ec40dffb6760a60bbc17117f39acb9ea40c79e6195a68" name="a8036b3f5e864d74a1e72ec40dffb6760a60bbc17117f39acb9ea40c79e6195a68"></a>GROUP_NAGMARA_MOVEMENT_TIMEOUT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a8036b3f5e864d74a1e72ec40dffb6760a7cd54408a0a319066ae348245c6a92c5" name="a8036b3f5e864d74a1e72ec40dffb6760a7cd54408a0a319066ae348245c6a92c5"></a>GROUP_NAGMARA_AMBIENT_REPLY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a8036b3f5e864d74a1e72ec40dffb6760a608896f7c09a6d70271c30fd15463950" name="a8036b3f5e864d74a1e72ec40dffb6760a608896f7c09a6d70271c30fd15463950"></a>GROUP_NAGMARA_KISS&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">  667</span>{</div>
+<div class="line"><span class="lineno">  668</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a8036b3f5e864d74a1e72ec40dffb6760a6895c03be88d64053761ea7cb1041762">GROUP_NAGMARA_LOVE_SEQUENCE</a> = 1,</div>
+<div class="line"><span class="lineno">  669</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a8036b3f5e864d74a1e72ec40dffb6760a60bbc17117f39acb9ea40c79e6195a68">GROUP_NAGMARA_MOVEMENT_TIMEOUT</a>,</div>
+<div class="line"><span class="lineno">  670</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a8036b3f5e864d74a1e72ec40dffb6760a7cd54408a0a319066ae348245c6a92c5">GROUP_NAGMARA_AMBIENT_REPLY</a>,</div>
+<div class="line"><span class="lineno">  671</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a8036b3f5e864d74a1e72ec40dffb6760a608896f7c09a6d70271c30fd15463950">GROUP_NAGMARA_KISS</a></div>
+<div class="line"><span class="lineno">  672</span>};</div>
+<div class="ttc" id="aa01595_html_a8036b3f5e864d74a1e72ec40dffb6760a608896f7c09a6d70271c30fd15463950"><div class="ttname"><a href="../../dc/dbf/a01595.html#a8036b3f5e864d74a1e72ec40dffb6760a608896f7c09a6d70271c30fd15463950">GROUP_NAGMARA_KISS</a></div><div class="ttdeci">@ GROUP_NAGMARA_KISS</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:671</div></div>
+<div class="ttc" id="aa01595_html_a8036b3f5e864d74a1e72ec40dffb6760a60bbc17117f39acb9ea40c79e6195a68"><div class="ttname"><a href="../../dc/dbf/a01595.html#a8036b3f5e864d74a1e72ec40dffb6760a60bbc17117f39acb9ea40c79e6195a68">GROUP_NAGMARA_MOVEMENT_TIMEOUT</a></div><div class="ttdeci">@ GROUP_NAGMARA_MOVEMENT_TIMEOUT</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:669</div></div>
+<div class="ttc" id="aa01595_html_a8036b3f5e864d74a1e72ec40dffb6760a6895c03be88d64053761ea7cb1041762"><div class="ttname"><a href="../../dc/dbf/a01595.html#a8036b3f5e864d74a1e72ec40dffb6760a6895c03be88d64053761ea7cb1041762">GROUP_NAGMARA_LOVE_SEQUENCE</a></div><div class="ttdeci">@ GROUP_NAGMARA_LOVE_SEQUENCE</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:668</div></div>
+<div class="ttc" id="aa01595_html_a8036b3f5e864d74a1e72ec40dffb6760a7cd54408a0a319066ae348245c6a92c5"><div class="ttname"><a href="../../dc/dbf/a01595.html#a8036b3f5e864d74a1e72ec40dffb6760a7cd54408a0a319066ae348245c6a92c5">GROUP_NAGMARA_AMBIENT_REPLY</a></div><div class="ttdeci">@ GROUP_NAGMARA_AMBIENT_REPLY</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:670</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="aa63c1639a528ee5ae169f1a630bac373" name="aa63c1639a528ee5ae169f1a630bac373"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa63c1639a528ee5ae169f1a630bac373">&#9670;&#160;</a></span>NagmaraTexts</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../dc/dbf/a01595.html#aa63c1639a528ee5ae169f1a630bac373">NagmaraTexts</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="aa63c1639a528ee5ae169f1a630bac373a12d399d6199598673134db27e00734c7" name="aa63c1639a528ee5ae169f1a630bac373a12d399d6199598673134db27e00734c7"></a>SAY_NAGMARA_AMBIENT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa63c1639a528ee5ae169f1a630bac373a2a19fc4b457cfe745df19afabaf76db8" name="aa63c1639a528ee5ae169f1a630bac373a2a19fc4b457cfe745df19afabaf76db8"></a>SAY_NAGMARA_1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa63c1639a528ee5ae169f1a630bac373aa9385a08d20a72f4bfef0488f75a1a6e" name="aa63c1639a528ee5ae169f1a630bac373aa9385a08d20a72f4bfef0488f75a1a6e"></a>EMOTE_NAGMARA&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">  616</span>{</div>
+<div class="line"><span class="lineno">  617</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#aa63c1639a528ee5ae169f1a630bac373a12d399d6199598673134db27e00734c7">SAY_NAGMARA_AMBIENT</a> = 0,</div>
+<div class="line"><span class="lineno">  618</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#aa63c1639a528ee5ae169f1a630bac373a2a19fc4b457cfe745df19afabaf76db8">SAY_NAGMARA_1</a> = 1,</div>
+<div class="line"><span class="lineno">  619</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#aa63c1639a528ee5ae169f1a630bac373aa9385a08d20a72f4bfef0488f75a1a6e">EMOTE_NAGMARA</a> = 3</div>
+<div class="line"><span class="lineno">  620</span>};</div>
+<div class="ttc" id="aa01595_html_aa63c1639a528ee5ae169f1a630bac373a12d399d6199598673134db27e00734c7"><div class="ttname"><a href="../../dc/dbf/a01595.html#aa63c1639a528ee5ae169f1a630bac373a12d399d6199598673134db27e00734c7">SAY_NAGMARA_AMBIENT</a></div><div class="ttdeci">@ SAY_NAGMARA_AMBIENT</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:617</div></div>
+<div class="ttc" id="aa01595_html_aa63c1639a528ee5ae169f1a630bac373a2a19fc4b457cfe745df19afabaf76db8"><div class="ttname"><a href="../../dc/dbf/a01595.html#aa63c1639a528ee5ae169f1a630bac373a2a19fc4b457cfe745df19afabaf76db8">SAY_NAGMARA_1</a></div><div class="ttdeci">@ SAY_NAGMARA_1</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:618</div></div>
+<div class="ttc" id="aa01595_html_aa63c1639a528ee5ae169f1a630bac373aa9385a08d20a72f4bfef0488f75a1a6e"><div class="ttname"><a href="../../dc/dbf/a01595.html#aa63c1639a528ee5ae169f1a630bac373aa9385a08d20a72f4bfef0488f75a1a6e">EMOTE_NAGMARA</a></div><div class="ttdeci">@ EMOTE_NAGMARA</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:619</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="ad2d26888a90b420f8dd6141b267aca09" name="ad2d26888a90b420f8dd6141b267aca09"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad2d26888a90b420f8dd6141b267aca09">&#9670;&#160;</a></span>NagmaraWaypoints</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../dc/dbf/a01595.html#ad2d26888a90b420f8dd6141b267aca09">NagmaraWaypoints</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ad2d26888a90b420f8dd6141b267aca09a5d4a897c034ba8123d547f3e8598035b" name="ad2d26888a90b420f8dd6141b267aca09a5d4a897c034ba8123d547f3e8598035b"></a>PATH_NAGMARA_LOVERS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ad2d26888a90b420f8dd6141b267aca09ac7d1cb3c3dcc59c9e841b2dcea794d7b" name="ad2d26888a90b420f8dd6141b267aca09ac7d1cb3c3dcc59c9e841b2dcea794d7b"></a>POINT_NAGMARA_DOOR_WAIT&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">  687</span>{</div>
+<div class="line"><span class="lineno">  688</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#ad2d26888a90b420f8dd6141b267aca09a5d4a897c034ba8123d547f3e8598035b">PATH_NAGMARA_LOVERS</a> = 95001,</div>
+<div class="line"><span class="lineno">  689</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#ad2d26888a90b420f8dd6141b267aca09ac7d1cb3c3dcc59c9e841b2dcea794d7b">POINT_NAGMARA_DOOR_WAIT</a> = 4</div>
+<div class="line"><span class="lineno">  690</span>};</div>
+<div class="ttc" id="aa01595_html_ad2d26888a90b420f8dd6141b267aca09a5d4a897c034ba8123d547f3e8598035b"><div class="ttname"><a href="../../dc/dbf/a01595.html#ad2d26888a90b420f8dd6141b267aca09a5d4a897c034ba8123d547f3e8598035b">PATH_NAGMARA_LOVERS</a></div><div class="ttdeci">@ PATH_NAGMARA_LOVERS</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:688</div></div>
+<div class="ttc" id="aa01595_html_ad2d26888a90b420f8dd6141b267aca09ac7d1cb3c3dcc59c9e841b2dcea794d7b"><div class="ttname"><a href="../../dc/dbf/a01595.html#ad2d26888a90b420f8dd6141b267aca09ac7d1cb3c3dcc59c9e841b2dcea794d7b">POINT_NAGMARA_DOOR_WAIT</a></div><div class="ttdeci">@ POINT_NAGMARA_DOOR_WAIT</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:689</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -354,10 +706,10 @@ Variables</h2></td></tr>
 <table class="fieldtable">
 <tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ae140961cf8719b54c57af64480ef31eeadfbfd0c0e25fabeb11d16a998b59ebde" name="ae140961cf8719b54c57af64480ef31eeadfbfd0c0e25fabeb11d16a998b59ebde"></a>ACTION_PHALANX_START_ACTIVATION&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">  419</span>{</div>
-<div class="line"><span class="lineno">  420</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#ae140961cf8719b54c57af64480ef31eeadfbfd0c0e25fabeb11d16a998b59ebde">ACTION_PHALANX_START_ACTIVATION</a> = 1</div>
-<div class="line"><span class="lineno">  421</span>};</div>
-<div class="ttc" id="aa01595_html_ae140961cf8719b54c57af64480ef31eeadfbfd0c0e25fabeb11d16a998b59ebde"><div class="ttname"><a href="../../dc/dbf/a01595.html#ae140961cf8719b54c57af64480ef31eeadfbfd0c0e25fabeb11d16a998b59ebde">ACTION_PHALANX_START_ACTIVATION</a></div><div class="ttdeci">@ ACTION_PHALANX_START_ACTIVATION</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:420</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  422</span>{</div>
+<div class="line"><span class="lineno">  423</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#ae140961cf8719b54c57af64480ef31eeadfbfd0c0e25fabeb11d16a998b59ebde">ACTION_PHALANX_START_ACTIVATION</a> = 1</div>
+<div class="line"><span class="lineno">  424</span>};</div>
+<div class="ttc" id="aa01595_html_ae140961cf8719b54c57af64480ef31eeadfbfd0c0e25fabeb11d16a998b59ebde"><div class="ttname"><a href="../../dc/dbf/a01595.html#ae140961cf8719b54c57af64480ef31eeadfbfd0c0e25fabeb11d16a998b59ebde">ACTION_PHALANX_START_ACTIVATION</a></div><div class="ttdeci">@ ACTION_PHALANX_START_ACTIVATION</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:423</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -376,12 +728,12 @@ Variables</h2></td></tr>
 <tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a2dfe0b3ef8a6a2dd0a5135c85ea27ba6aad7fb21f18f114288ac49484e861c356" name="a2dfe0b3ef8a6a2dd0a5135c85ea27ba6aad7fb21f18f114288ac49484e861c356"></a>PATH_PHALANX_DOOR&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a2dfe0b3ef8a6a2dd0a5135c85ea27ba6a2a986d33143dcbac779768af1925408d" name="a2dfe0b3ef8a6a2dd0a5135c85ea27ba6a2a986d33143dcbac779768af1925408d"></a>FACTION_PHALANX_HOSTILE&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">  440</span>{</div>
-<div class="line"><span class="lineno">  441</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a2dfe0b3ef8a6a2dd0a5135c85ea27ba6aad7fb21f18f114288ac49484e861c356">PATH_PHALANX_DOOR</a> = 95020,</div>
-<div class="line"><span class="lineno">  442</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a2dfe0b3ef8a6a2dd0a5135c85ea27ba6a2a986d33143dcbac779768af1925408d">FACTION_PHALANX_HOSTILE</a> = 54</div>
-<div class="line"><span class="lineno">  443</span>};</div>
-<div class="ttc" id="aa01595_html_a2dfe0b3ef8a6a2dd0a5135c85ea27ba6a2a986d33143dcbac779768af1925408d"><div class="ttname"><a href="../../dc/dbf/a01595.html#a2dfe0b3ef8a6a2dd0a5135c85ea27ba6a2a986d33143dcbac779768af1925408d">FACTION_PHALANX_HOSTILE</a></div><div class="ttdeci">@ FACTION_PHALANX_HOSTILE</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:442</div></div>
-<div class="ttc" id="aa01595_html_a2dfe0b3ef8a6a2dd0a5135c85ea27ba6aad7fb21f18f114288ac49484e861c356"><div class="ttname"><a href="../../dc/dbf/a01595.html#a2dfe0b3ef8a6a2dd0a5135c85ea27ba6aad7fb21f18f114288ac49484e861c356">PATH_PHALANX_DOOR</a></div><div class="ttdeci">@ PATH_PHALANX_DOOR</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:441</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  443</span>{</div>
+<div class="line"><span class="lineno">  444</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a2dfe0b3ef8a6a2dd0a5135c85ea27ba6aad7fb21f18f114288ac49484e861c356">PATH_PHALANX_DOOR</a> = 95020,</div>
+<div class="line"><span class="lineno">  445</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a2dfe0b3ef8a6a2dd0a5135c85ea27ba6a2a986d33143dcbac779768af1925408d">FACTION_PHALANX_HOSTILE</a> = 54</div>
+<div class="line"><span class="lineno">  446</span>};</div>
+<div class="ttc" id="aa01595_html_a2dfe0b3ef8a6a2dd0a5135c85ea27ba6a2a986d33143dcbac779768af1925408d"><div class="ttname"><a href="../../dc/dbf/a01595.html#a2dfe0b3ef8a6a2dd0a5135c85ea27ba6a2a986d33143dcbac779768af1925408d">FACTION_PHALANX_HOSTILE</a></div><div class="ttdeci">@ FACTION_PHALANX_HOSTILE</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:445</div></div>
+<div class="ttc" id="aa01595_html_a2dfe0b3ef8a6a2dd0a5135c85ea27ba6aad7fb21f18f114288ac49484e861c356"><div class="ttname"><a href="../../dc/dbf/a01595.html#a2dfe0b3ef8a6a2dd0a5135c85ea27ba6aad7fb21f18f114288ac49484e861c356">PATH_PHALANX_DOOR</a></div><div class="ttdeci">@ PATH_PHALANX_DOOR</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:444</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -403,18 +755,18 @@ Variables</h2></td></tr>
 <tr><td class="fieldname"><a id="a0a862414f7270c75a7401ee8b48701e6ad0d9a836319a78206e506e84ee1215b5" name="a0a862414f7270c75a7401ee8b48701e6ad0d9a836319a78206e506e84ee1215b5"></a>EVENT_PHALANX_MIGHTY_BLOW&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a0a862414f7270c75a7401ee8b48701e6ab08e10f199f94c45d42ffe8dc6454a94" name="a0a862414f7270c75a7401ee8b48701e6ab08e10f199f94c45d42ffe8dc6454a94"></a>EVENT_PHALANX_FIREBALL_VOLLEY&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">  424</span>{</div>
-<div class="line"><span class="lineno">  425</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a0a862414f7270c75a7401ee8b48701e6a0c90aafe9dbdb386a9eba2f569e9b5c1">EVENT_PHALANX_YELL</a> = 1,</div>
-<div class="line"><span class="lineno">  426</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a0a862414f7270c75a7401ee8b48701e6add33c214588783604ca14ec47d4b9c7f">EVENT_PHALANX_FINISH_MOVEMENT</a>,</div>
-<div class="line"><span class="lineno">  427</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a0a862414f7270c75a7401ee8b48701e6ac3d44e5037b9095377a992bf8c3eabbb">EVENT_PHALANX_THUNDERCLAP</a>,</div>
-<div class="line"><span class="lineno">  428</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a0a862414f7270c75a7401ee8b48701e6ad0d9a836319a78206e506e84ee1215b5">EVENT_PHALANX_MIGHTY_BLOW</a>,</div>
-<div class="line"><span class="lineno">  429</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a0a862414f7270c75a7401ee8b48701e6ab08e10f199f94c45d42ffe8dc6454a94">EVENT_PHALANX_FIREBALL_VOLLEY</a></div>
-<div class="line"><span class="lineno">  430</span>};</div>
-<div class="ttc" id="aa01595_html_a0a862414f7270c75a7401ee8b48701e6a0c90aafe9dbdb386a9eba2f569e9b5c1"><div class="ttname"><a href="../../dc/dbf/a01595.html#a0a862414f7270c75a7401ee8b48701e6a0c90aafe9dbdb386a9eba2f569e9b5c1">EVENT_PHALANX_YELL</a></div><div class="ttdeci">@ EVENT_PHALANX_YELL</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:425</div></div>
-<div class="ttc" id="aa01595_html_a0a862414f7270c75a7401ee8b48701e6ab08e10f199f94c45d42ffe8dc6454a94"><div class="ttname"><a href="../../dc/dbf/a01595.html#a0a862414f7270c75a7401ee8b48701e6ab08e10f199f94c45d42ffe8dc6454a94">EVENT_PHALANX_FIREBALL_VOLLEY</a></div><div class="ttdeci">@ EVENT_PHALANX_FIREBALL_VOLLEY</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:429</div></div>
-<div class="ttc" id="aa01595_html_a0a862414f7270c75a7401ee8b48701e6ac3d44e5037b9095377a992bf8c3eabbb"><div class="ttname"><a href="../../dc/dbf/a01595.html#a0a862414f7270c75a7401ee8b48701e6ac3d44e5037b9095377a992bf8c3eabbb">EVENT_PHALANX_THUNDERCLAP</a></div><div class="ttdeci">@ EVENT_PHALANX_THUNDERCLAP</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:427</div></div>
-<div class="ttc" id="aa01595_html_a0a862414f7270c75a7401ee8b48701e6ad0d9a836319a78206e506e84ee1215b5"><div class="ttname"><a href="../../dc/dbf/a01595.html#a0a862414f7270c75a7401ee8b48701e6ad0d9a836319a78206e506e84ee1215b5">EVENT_PHALANX_MIGHTY_BLOW</a></div><div class="ttdeci">@ EVENT_PHALANX_MIGHTY_BLOW</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:428</div></div>
-<div class="ttc" id="aa01595_html_a0a862414f7270c75a7401ee8b48701e6add33c214588783604ca14ec47d4b9c7f"><div class="ttname"><a href="../../dc/dbf/a01595.html#a0a862414f7270c75a7401ee8b48701e6add33c214588783604ca14ec47d4b9c7f">EVENT_PHALANX_FINISH_MOVEMENT</a></div><div class="ttdeci">@ EVENT_PHALANX_FINISH_MOVEMENT</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:426</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  427</span>{</div>
+<div class="line"><span class="lineno">  428</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a0a862414f7270c75a7401ee8b48701e6a0c90aafe9dbdb386a9eba2f569e9b5c1">EVENT_PHALANX_YELL</a> = 1,</div>
+<div class="line"><span class="lineno">  429</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a0a862414f7270c75a7401ee8b48701e6add33c214588783604ca14ec47d4b9c7f">EVENT_PHALANX_FINISH_MOVEMENT</a>,</div>
+<div class="line"><span class="lineno">  430</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a0a862414f7270c75a7401ee8b48701e6ac3d44e5037b9095377a992bf8c3eabbb">EVENT_PHALANX_THUNDERCLAP</a>,</div>
+<div class="line"><span class="lineno">  431</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a0a862414f7270c75a7401ee8b48701e6ad0d9a836319a78206e506e84ee1215b5">EVENT_PHALANX_MIGHTY_BLOW</a>,</div>
+<div class="line"><span class="lineno">  432</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a0a862414f7270c75a7401ee8b48701e6ab08e10f199f94c45d42ffe8dc6454a94">EVENT_PHALANX_FIREBALL_VOLLEY</a></div>
+<div class="line"><span class="lineno">  433</span>};</div>
+<div class="ttc" id="aa01595_html_a0a862414f7270c75a7401ee8b48701e6a0c90aafe9dbdb386a9eba2f569e9b5c1"><div class="ttname"><a href="../../dc/dbf/a01595.html#a0a862414f7270c75a7401ee8b48701e6a0c90aafe9dbdb386a9eba2f569e9b5c1">EVENT_PHALANX_YELL</a></div><div class="ttdeci">@ EVENT_PHALANX_YELL</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:428</div></div>
+<div class="ttc" id="aa01595_html_a0a862414f7270c75a7401ee8b48701e6ab08e10f199f94c45d42ffe8dc6454a94"><div class="ttname"><a href="../../dc/dbf/a01595.html#a0a862414f7270c75a7401ee8b48701e6ab08e10f199f94c45d42ffe8dc6454a94">EVENT_PHALANX_FIREBALL_VOLLEY</a></div><div class="ttdeci">@ EVENT_PHALANX_FIREBALL_VOLLEY</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:432</div></div>
+<div class="ttc" id="aa01595_html_a0a862414f7270c75a7401ee8b48701e6ac3d44e5037b9095377a992bf8c3eabbb"><div class="ttname"><a href="../../dc/dbf/a01595.html#a0a862414f7270c75a7401ee8b48701e6ac3d44e5037b9095377a992bf8c3eabbb">EVENT_PHALANX_THUNDERCLAP</a></div><div class="ttdeci">@ EVENT_PHALANX_THUNDERCLAP</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:430</div></div>
+<div class="ttc" id="aa01595_html_a0a862414f7270c75a7401ee8b48701e6ad0d9a836319a78206e506e84ee1215b5"><div class="ttname"><a href="../../dc/dbf/a01595.html#a0a862414f7270c75a7401ee8b48701e6ad0d9a836319a78206e506e84ee1215b5">EVENT_PHALANX_MIGHTY_BLOW</a></div><div class="ttdeci">@ EVENT_PHALANX_MIGHTY_BLOW</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:431</div></div>
+<div class="ttc" id="aa01595_html_a0a862414f7270c75a7401ee8b48701e6add33c214588783604ca14ec47d4b9c7f"><div class="ttname"><a href="../../dc/dbf/a01595.html#a0a862414f7270c75a7401ee8b48701e6add33c214588783604ca14ec47d4b9c7f">EVENT_PHALANX_FINISH_MOVEMENT</a></div><div class="ttdeci">@ EVENT_PHALANX_FINISH_MOVEMENT</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:429</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -434,14 +786,14 @@ Variables</h2></td></tr>
 <tr><td class="fieldname"><a id="a4e5bf673237e04bd7162baff3a0cec21a725c2e5b9167c2cb646bf3e8c31492df" name="a4e5bf673237e04bd7162baff3a0cec21a725c2e5b9167c2cb646bf3e8c31492df"></a>SPELL_FIREBALLVOLLEY&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a4e5bf673237e04bd7162baff3a0cec21a16caf5a86b691c031c87f3f5ea65a251" name="a4e5bf673237e04bd7162baff3a0cec21a16caf5a86b691c031c87f3f5ea65a251"></a>SPELL_MIGHTYBLOW&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">  407</span>{</div>
-<div class="line"><span class="lineno">  408</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a4e5bf673237e04bd7162baff3a0cec21a7f4e66bb0a1b5b2705975420f645b16e">SPELL_THUNDERCLAP</a> = 15588,</div>
-<div class="line"><span class="lineno">  409</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a4e5bf673237e04bd7162baff3a0cec21a725c2e5b9167c2cb646bf3e8c31492df">SPELL_FIREBALLVOLLEY</a> = 15285,</div>
-<div class="line"><span class="lineno">  410</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a4e5bf673237e04bd7162baff3a0cec21a16caf5a86b691c031c87f3f5ea65a251">SPELL_MIGHTYBLOW</a> = 14099</div>
-<div class="line"><span class="lineno">  411</span>};</div>
-<div class="ttc" id="aa01595_html_a4e5bf673237e04bd7162baff3a0cec21a16caf5a86b691c031c87f3f5ea65a251"><div class="ttname"><a href="../../dc/dbf/a01595.html#a4e5bf673237e04bd7162baff3a0cec21a16caf5a86b691c031c87f3f5ea65a251">SPELL_MIGHTYBLOW</a></div><div class="ttdeci">@ SPELL_MIGHTYBLOW</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:410</div></div>
-<div class="ttc" id="aa01595_html_a4e5bf673237e04bd7162baff3a0cec21a725c2e5b9167c2cb646bf3e8c31492df"><div class="ttname"><a href="../../dc/dbf/a01595.html#a4e5bf673237e04bd7162baff3a0cec21a725c2e5b9167c2cb646bf3e8c31492df">SPELL_FIREBALLVOLLEY</a></div><div class="ttdeci">@ SPELL_FIREBALLVOLLEY</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:409</div></div>
-<div class="ttc" id="aa01595_html_a4e5bf673237e04bd7162baff3a0cec21a7f4e66bb0a1b5b2705975420f645b16e"><div class="ttname"><a href="../../dc/dbf/a01595.html#a4e5bf673237e04bd7162baff3a0cec21a7f4e66bb0a1b5b2705975420f645b16e">SPELL_THUNDERCLAP</a></div><div class="ttdeci">@ SPELL_THUNDERCLAP</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:408</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  410</span>{</div>
+<div class="line"><span class="lineno">  411</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a4e5bf673237e04bd7162baff3a0cec21a7f4e66bb0a1b5b2705975420f645b16e">SPELL_THUNDERCLAP</a> = 15588,</div>
+<div class="line"><span class="lineno">  412</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a4e5bf673237e04bd7162baff3a0cec21a725c2e5b9167c2cb646bf3e8c31492df">SPELL_FIREBALLVOLLEY</a> = 15285,</div>
+<div class="line"><span class="lineno">  413</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a4e5bf673237e04bd7162baff3a0cec21a16caf5a86b691c031c87f3f5ea65a251">SPELL_MIGHTYBLOW</a> = 14099</div>
+<div class="line"><span class="lineno">  414</span>};</div>
+<div class="ttc" id="aa01595_html_a4e5bf673237e04bd7162baff3a0cec21a16caf5a86b691c031c87f3f5ea65a251"><div class="ttname"><a href="../../dc/dbf/a01595.html#a4e5bf673237e04bd7162baff3a0cec21a16caf5a86b691c031c87f3f5ea65a251">SPELL_MIGHTYBLOW</a></div><div class="ttdeci">@ SPELL_MIGHTYBLOW</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:413</div></div>
+<div class="ttc" id="aa01595_html_a4e5bf673237e04bd7162baff3a0cec21a725c2e5b9167c2cb646bf3e8c31492df"><div class="ttname"><a href="../../dc/dbf/a01595.html#a4e5bf673237e04bd7162baff3a0cec21a725c2e5b9167c2cb646bf3e8c31492df">SPELL_FIREBALLVOLLEY</a></div><div class="ttdeci">@ SPELL_FIREBALLVOLLEY</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:412</div></div>
+<div class="ttc" id="aa01595_html_a4e5bf673237e04bd7162baff3a0cec21a7f4e66bb0a1b5b2705975420f645b16e"><div class="ttname"><a href="../../dc/dbf/a01595.html#a4e5bf673237e04bd7162baff3a0cec21a7f4e66bb0a1b5b2705975420f645b16e">SPELL_THUNDERCLAP</a></div><div class="ttdeci">@ SPELL_THUNDERCLAP</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:411</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -461,14 +813,14 @@ Variables</h2></td></tr>
 <tr><td class="fieldname"><a id="a68805cd14caf5ce4b0d9f4a7bc0f12bfadb12c25e763df1d035fe183f230cd7e6" name="a68805cd14caf5ce4b0d9f4a7bc0f12bfadb12c25e763df1d035fe183f230cd7e6"></a>PHALANX_STATE_MOVING_TO_DOOR&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a68805cd14caf5ce4b0d9f4a7bc0f12bfa80bc46c5d05bd291be3b393710520b49" name="a68805cd14caf5ce4b0d9f4a7bc0f12bfa80bc46c5d05bd291be3b393710520b49"></a>PHALANX_STATE_ACTIVE&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">  433</span>{</div>
-<div class="line"><span class="lineno">  434</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a68805cd14caf5ce4b0d9f4a7bc0f12bfa202a0d34b9d99772853c725dc7bb38c3">PHALANX_STATE_DORMANT</a>,</div>
-<div class="line"><span class="lineno">  435</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a68805cd14caf5ce4b0d9f4a7bc0f12bfadb12c25e763df1d035fe183f230cd7e6">PHALANX_STATE_MOVING_TO_DOOR</a>,</div>
-<div class="line"><span class="lineno">  436</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a68805cd14caf5ce4b0d9f4a7bc0f12bfa80bc46c5d05bd291be3b393710520b49">PHALANX_STATE_ACTIVE</a></div>
-<div class="line"><span class="lineno">  437</span>};</div>
-<div class="ttc" id="aa01595_html_a68805cd14caf5ce4b0d9f4a7bc0f12bfa202a0d34b9d99772853c725dc7bb38c3"><div class="ttname"><a href="../../dc/dbf/a01595.html#a68805cd14caf5ce4b0d9f4a7bc0f12bfa202a0d34b9d99772853c725dc7bb38c3">PHALANX_STATE_DORMANT</a></div><div class="ttdeci">@ PHALANX_STATE_DORMANT</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:434</div></div>
-<div class="ttc" id="aa01595_html_a68805cd14caf5ce4b0d9f4a7bc0f12bfa80bc46c5d05bd291be3b393710520b49"><div class="ttname"><a href="../../dc/dbf/a01595.html#a68805cd14caf5ce4b0d9f4a7bc0f12bfa80bc46c5d05bd291be3b393710520b49">PHALANX_STATE_ACTIVE</a></div><div class="ttdeci">@ PHALANX_STATE_ACTIVE</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:436</div></div>
-<div class="ttc" id="aa01595_html_a68805cd14caf5ce4b0d9f4a7bc0f12bfadb12c25e763df1d035fe183f230cd7e6"><div class="ttname"><a href="../../dc/dbf/a01595.html#a68805cd14caf5ce4b0d9f4a7bc0f12bfadb12c25e763df1d035fe183f230cd7e6">PHALANX_STATE_MOVING_TO_DOOR</a></div><div class="ttdeci">@ PHALANX_STATE_MOVING_TO_DOOR</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:435</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  436</span>{</div>
+<div class="line"><span class="lineno">  437</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a68805cd14caf5ce4b0d9f4a7bc0f12bfa202a0d34b9d99772853c725dc7bb38c3">PHALANX_STATE_DORMANT</a>,</div>
+<div class="line"><span class="lineno">  438</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a68805cd14caf5ce4b0d9f4a7bc0f12bfadb12c25e763df1d035fe183f230cd7e6">PHALANX_STATE_MOVING_TO_DOOR</a>,</div>
+<div class="line"><span class="lineno">  439</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a68805cd14caf5ce4b0d9f4a7bc0f12bfa80bc46c5d05bd291be3b393710520b49">PHALANX_STATE_ACTIVE</a></div>
+<div class="line"><span class="lineno">  440</span>};</div>
+<div class="ttc" id="aa01595_html_a68805cd14caf5ce4b0d9f4a7bc0f12bfa202a0d34b9d99772853c725dc7bb38c3"><div class="ttname"><a href="../../dc/dbf/a01595.html#a68805cd14caf5ce4b0d9f4a7bc0f12bfa202a0d34b9d99772853c725dc7bb38c3">PHALANX_STATE_DORMANT</a></div><div class="ttdeci">@ PHALANX_STATE_DORMANT</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:437</div></div>
+<div class="ttc" id="aa01595_html_a68805cd14caf5ce4b0d9f4a7bc0f12bfa80bc46c5d05bd291be3b393710520b49"><div class="ttname"><a href="../../dc/dbf/a01595.html#a68805cd14caf5ce4b0d9f4a7bc0f12bfa80bc46c5d05bd291be3b393710520b49">PHALANX_STATE_ACTIVE</a></div><div class="ttdeci">@ PHALANX_STATE_ACTIVE</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:439</div></div>
+<div class="ttc" id="aa01595_html_a68805cd14caf5ce4b0d9f4a7bc0f12bfadb12c25e763df1d035fe183f230cd7e6"><div class="ttname"><a href="../../dc/dbf/a01595.html#a68805cd14caf5ce4b0d9f4a7bc0f12bfadb12c25e763df1d035fe183f230cd7e6">PHALANX_STATE_MOVING_TO_DOOR</a></div><div class="ttdeci">@ PHALANX_STATE_MOVING_TO_DOOR</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:438</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -486,10 +838,76 @@ Variables</h2></td></tr>
 <table class="fieldtable">
 <tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="aeffee7ee18d38611c5faa46be97f3dc5a4214572c6b24f6ff742f502fca6e046b" name="aeffee7ee18d38611c5faa46be97f3dc5a4214572c6b24f6ff742f502fca6e046b"></a>SAY_PHALANX_AGGRO&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">  414</span>{</div>
-<div class="line"><span class="lineno">  415</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#aeffee7ee18d38611c5faa46be97f3dc5a4214572c6b24f6ff742f502fca6e046b">SAY_PHALANX_AGGRO</a> = 0</div>
-<div class="line"><span class="lineno">  416</span>};</div>
-<div class="ttc" id="aa01595_html_aeffee7ee18d38611c5faa46be97f3dc5a4214572c6b24f6ff742f502fca6e046b"><div class="ttname"><a href="../../dc/dbf/a01595.html#aeffee7ee18d38611c5faa46be97f3dc5a4214572c6b24f6ff742f502fca6e046b">SAY_PHALANX_AGGRO</a></div><div class="ttdeci">@ SAY_PHALANX_AGGRO</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:415</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  417</span>{</div>
+<div class="line"><span class="lineno">  418</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#aeffee7ee18d38611c5faa46be97f3dc5a4214572c6b24f6ff742f502fca6e046b">SAY_PHALANX_AGGRO</a> = 0</div>
+<div class="line"><span class="lineno">  419</span>};</div>
+<div class="ttc" id="aa01595_html_aeffee7ee18d38611c5faa46be97f3dc5a4214572c6b24f6ff742f502fca6e046b"><div class="ttname"><a href="../../dc/dbf/a01595.html#aeffee7ee18d38611c5faa46be97f3dc5a4214572c6b24f6ff742f502fca6e046b">SAY_PHALANX_AGGRO</a></div><div class="ttdeci">@ SAY_PHALANX_AGGRO</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:418</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a6ccd5ead114dd914e3ffcfb50ba50148" name="a6ccd5ead114dd914e3ffcfb50ba50148"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6ccd5ead114dd914e3ffcfb50ba50148">&#9670;&#160;</a></span>RocknotActions</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../dc/dbf/a01595.html#a6ccd5ead114dd914e3ffcfb50ba50148">RocknotActions</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a6ccd5ead114dd914e3ffcfb50ba50148a73d8e41f981b02608462365286b3018f" name="a6ccd5ead114dd914e3ffcfb50ba50148a73d8e41f981b02608462365286b3018f"></a>ACTION_START_LOVE_POTION&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a6ccd5ead114dd914e3ffcfb50ba50148ae41e4a7666d470f5b130d5055335b970" name="a6ccd5ead114dd914e3ffcfb50ba50148ae41e4a7666d470f5b130d5055335b970"></a>ACTION_CANCEL_LOVE_POTION&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a6ccd5ead114dd914e3ffcfb50ba50148a75a8771e26539eaa5a324c31d159473f" name="a6ccd5ead114dd914e3ffcfb50ba50148a75a8771e26539eaa5a324c31d159473f"></a>ACTION_BEGIN_LOVERS_FOLLOW&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a6ccd5ead114dd914e3ffcfb50ba50148a3a2fc1f923cfd18d20a4e7403b80c078" name="a6ccd5ead114dd914e3ffcfb50ba50148a3a2fc1f923cfd18d20a4e7403b80c078"></a>ACTION_MOVE_TO_LOVERS_STOP&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a6ccd5ead114dd914e3ffcfb50ba50148a4a005655189744e88943f9501ee7e8e0" name="a6ccd5ead114dd914e3ffcfb50ba50148a4a005655189744e88943f9501ee7e8e0"></a>ACTION_ROCKNOT_AT_LOVERS_STOP&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a6ccd5ead114dd914e3ffcfb50ba50148a15c3c08b92e5fd800158fcb7cd8a2eb3" name="a6ccd5ead114dd914e3ffcfb50ba50148a15c3c08b92e5fd800158fcb7cd8a2eb3"></a>ACTION_COMPLETE_LOVE_POTION&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a6ccd5ead114dd914e3ffcfb50ba50148a6f12ad568cdb38c2cfffbbc53d629937" name="a6ccd5ead114dd914e3ffcfb50ba50148a6f12ad568cdb38c2cfffbbc53d629937"></a>ACTION_PAUSE_AT_BAR_DOOR&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a6ccd5ead114dd914e3ffcfb50ba50148a27c99a4ee04d09d0161bb0ee885dac9c" name="a6ccd5ead114dd914e3ffcfb50ba50148a27c99a4ee04d09d0161bb0ee885dac9c"></a>ACTION_RESUME_AFTER_BAR_DOOR&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">  649</span>{</div>
+<div class="line"><span class="lineno">  650</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a6ccd5ead114dd914e3ffcfb50ba50148a73d8e41f981b02608462365286b3018f">ACTION_START_LOVE_POTION</a>          = 1,</div>
+<div class="line"><span class="lineno">  651</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a6ccd5ead114dd914e3ffcfb50ba50148ae41e4a7666d470f5b130d5055335b970">ACTION_CANCEL_LOVE_POTION</a>         = 2,</div>
+<div class="line"><span class="lineno">  652</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a6ccd5ead114dd914e3ffcfb50ba50148a75a8771e26539eaa5a324c31d159473f">ACTION_BEGIN_LOVERS_FOLLOW</a>        = 3,</div>
+<div class="line"><span class="lineno">  653</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a6ccd5ead114dd914e3ffcfb50ba50148a3a2fc1f923cfd18d20a4e7403b80c078">ACTION_MOVE_TO_LOVERS_STOP</a>        = 4,</div>
+<div class="line"><span class="lineno">  654</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a6ccd5ead114dd914e3ffcfb50ba50148a4a005655189744e88943f9501ee7e8e0">ACTION_ROCKNOT_AT_LOVERS_STOP</a>     = 5,</div>
+<div class="line"><span class="lineno">  655</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a6ccd5ead114dd914e3ffcfb50ba50148a15c3c08b92e5fd800158fcb7cd8a2eb3">ACTION_COMPLETE_LOVE_POTION</a>       = 6,</div>
+<div class="line"><span class="lineno">  656</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a6ccd5ead114dd914e3ffcfb50ba50148a6f12ad568cdb38c2cfffbbc53d629937">ACTION_PAUSE_AT_BAR_DOOR</a>          = 7,</div>
+<div class="line"><span class="lineno">  657</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a6ccd5ead114dd914e3ffcfb50ba50148a27c99a4ee04d09d0161bb0ee885dac9c">ACTION_RESUME_AFTER_BAR_DOOR</a>      = 8</div>
+<div class="line"><span class="lineno">  658</span>};</div>
+<div class="ttc" id="aa01595_html_a6ccd5ead114dd914e3ffcfb50ba50148a15c3c08b92e5fd800158fcb7cd8a2eb3"><div class="ttname"><a href="../../dc/dbf/a01595.html#a6ccd5ead114dd914e3ffcfb50ba50148a15c3c08b92e5fd800158fcb7cd8a2eb3">ACTION_COMPLETE_LOVE_POTION</a></div><div class="ttdeci">@ ACTION_COMPLETE_LOVE_POTION</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:655</div></div>
+<div class="ttc" id="aa01595_html_a6ccd5ead114dd914e3ffcfb50ba50148a27c99a4ee04d09d0161bb0ee885dac9c"><div class="ttname"><a href="../../dc/dbf/a01595.html#a6ccd5ead114dd914e3ffcfb50ba50148a27c99a4ee04d09d0161bb0ee885dac9c">ACTION_RESUME_AFTER_BAR_DOOR</a></div><div class="ttdeci">@ ACTION_RESUME_AFTER_BAR_DOOR</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:657</div></div>
+<div class="ttc" id="aa01595_html_a6ccd5ead114dd914e3ffcfb50ba50148a3a2fc1f923cfd18d20a4e7403b80c078"><div class="ttname"><a href="../../dc/dbf/a01595.html#a6ccd5ead114dd914e3ffcfb50ba50148a3a2fc1f923cfd18d20a4e7403b80c078">ACTION_MOVE_TO_LOVERS_STOP</a></div><div class="ttdeci">@ ACTION_MOVE_TO_LOVERS_STOP</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:653</div></div>
+<div class="ttc" id="aa01595_html_a6ccd5ead114dd914e3ffcfb50ba50148a4a005655189744e88943f9501ee7e8e0"><div class="ttname"><a href="../../dc/dbf/a01595.html#a6ccd5ead114dd914e3ffcfb50ba50148a4a005655189744e88943f9501ee7e8e0">ACTION_ROCKNOT_AT_LOVERS_STOP</a></div><div class="ttdeci">@ ACTION_ROCKNOT_AT_LOVERS_STOP</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:654</div></div>
+<div class="ttc" id="aa01595_html_a6ccd5ead114dd914e3ffcfb50ba50148a6f12ad568cdb38c2cfffbbc53d629937"><div class="ttname"><a href="../../dc/dbf/a01595.html#a6ccd5ead114dd914e3ffcfb50ba50148a6f12ad568cdb38c2cfffbbc53d629937">ACTION_PAUSE_AT_BAR_DOOR</a></div><div class="ttdeci">@ ACTION_PAUSE_AT_BAR_DOOR</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:656</div></div>
+<div class="ttc" id="aa01595_html_a6ccd5ead114dd914e3ffcfb50ba50148a73d8e41f981b02608462365286b3018f"><div class="ttname"><a href="../../dc/dbf/a01595.html#a6ccd5ead114dd914e3ffcfb50ba50148a73d8e41f981b02608462365286b3018f">ACTION_START_LOVE_POTION</a></div><div class="ttdeci">@ ACTION_START_LOVE_POTION</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:650</div></div>
+<div class="ttc" id="aa01595_html_a6ccd5ead114dd914e3ffcfb50ba50148a75a8771e26539eaa5a324c31d159473f"><div class="ttname"><a href="../../dc/dbf/a01595.html#a6ccd5ead114dd914e3ffcfb50ba50148a75a8771e26539eaa5a324c31d159473f">ACTION_BEGIN_LOVERS_FOLLOW</a></div><div class="ttdeci">@ ACTION_BEGIN_LOVERS_FOLLOW</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:652</div></div>
+<div class="ttc" id="aa01595_html_a6ccd5ead114dd914e3ffcfb50ba50148ae41e4a7666d470f5b130d5055335b970"><div class="ttname"><a href="../../dc/dbf/a01595.html#a6ccd5ead114dd914e3ffcfb50ba50148ae41e4a7666d470f5b130d5055335b970">ACTION_CANCEL_LOVE_POTION</a></div><div class="ttdeci">@ ACTION_CANCEL_LOVE_POTION</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:651</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="ac1670d2b32d8e79b0358f7e061de6145" name="ac1670d2b32d8e79b0358f7e061de6145"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac1670d2b32d8e79b0358f7e061de6145">&#9670;&#160;</a></span>RocknotData</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../dc/dbf/a01595.html#ac1670d2b32d8e79b0358f7e061de6145">RocknotData</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ac1670d2b32d8e79b0358f7e061de6145a9074ae5f78146c58c1bf87f43d89d447" name="ac1670d2b32d8e79b0358f7e061de6145a9074ae5f78146c58c1bf87f43d89d447"></a>DATA_CAN_START_LOVE_POTION&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ac1670d2b32d8e79b0358f7e061de6145af322e0b87796678714297df224333bf7" name="ac1670d2b32d8e79b0358f7e061de6145af322e0b87796678714297df224333bf7"></a>DATA_LOVE_POTION_ACTIVE&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">  661</span>{</div>
+<div class="line"><span class="lineno">  662</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#ac1670d2b32d8e79b0358f7e061de6145a9074ae5f78146c58c1bf87f43d89d447">DATA_CAN_START_LOVE_POTION</a> = 1,</div>
+<div class="line"><span class="lineno">  663</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#ac1670d2b32d8e79b0358f7e061de6145af322e0b87796678714297df224333bf7">DATA_LOVE_POTION_ACTIVE</a>    = 2</div>
+<div class="line"><span class="lineno">  664</span>};</div>
+<div class="ttc" id="aa01595_html_ac1670d2b32d8e79b0358f7e061de6145a9074ae5f78146c58c1bf87f43d89d447"><div class="ttname"><a href="../../dc/dbf/a01595.html#ac1670d2b32d8e79b0358f7e061de6145a9074ae5f78146c58c1bf87f43d89d447">DATA_CAN_START_LOVE_POTION</a></div><div class="ttdeci">@ DATA_CAN_START_LOVE_POTION</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:662</div></div>
+<div class="ttc" id="aa01595_html_ac1670d2b32d8e79b0358f7e061de6145af322e0b87796678714297df224333bf7"><div class="ttname"><a href="../../dc/dbf/a01595.html#ac1670d2b32d8e79b0358f7e061de6145af322e0b87796678714297df224333bf7">DATA_LOVE_POTION_ACTIVE</a></div><div class="ttdeci">@ DATA_LOVE_POTION_ACTIVE</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:663</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -514,24 +932,24 @@ Variables</h2></td></tr>
 <tr><td class="fieldname"><a id="a107098a8e50cf4edccc1a3a1131e8e54ae8371debc05d7f32a3149693d38e09fa" name="a107098a8e50cf4edccc1a3a1131e8e54ae8371debc05d7f32a3149693d38e09fa"></a>EVENT_ROCKNOT_BAR_REACTION&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a107098a8e50cf4edccc1a3a1131e8e54a5e157feac7a2e1dad12acd487e475966" name="a107098a8e50cf4edccc1a3a1131e8e54a5e157feac7a2e1dad12acd487e475966"></a>EVENT_ROCKNOT_RECOVER&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">  615</span>{</div>
-<div class="line"><span class="lineno">  616</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54a0c9323c94b4bd9b90419ca2b2504708e">EVENT_ROCKNOT_MORE_ALE</a> = 1,</div>
-<div class="line"><span class="lineno">  617</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54a0e14503329a8f0c69e3ccd272baf3b3f">EVENT_ROCKNOT_PUNCH</a>,</div>
-<div class="line"><span class="lineno">  618</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54a566f784990836203caca9e4ce325c18b">EVENT_ROCKNOT_SECOND_KEG</a>,</div>
-<div class="line"><span class="lineno">  619</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54a08c06ffb1b78d85bde7a8c01eab983c6">EVENT_ROCKNOT_FINAL_KEG</a>,</div>
-<div class="line"><span class="lineno">  620</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54ad2c5488cd2569a1b012badf8b39bb96a">EVENT_ROCKNOT_ALE</a>,</div>
-<div class="line"><span class="lineno">  621</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54a21249240998f8d2de3c601fd8e8434fc">EVENT_ROCKNOT_BREAK_KEG</a>,</div>
-<div class="line"><span class="lineno">  622</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54ae8371debc05d7f32a3149693d38e09fa">EVENT_ROCKNOT_BAR_REACTION</a>,</div>
-<div class="line"><span class="lineno">  623</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54a5e157feac7a2e1dad12acd487e475966">EVENT_ROCKNOT_RECOVER</a></div>
-<div class="line"><span class="lineno">  624</span>};</div>
-<div class="ttc" id="aa01595_html_a107098a8e50cf4edccc1a3a1131e8e54a08c06ffb1b78d85bde7a8c01eab983c6"><div class="ttname"><a href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54a08c06ffb1b78d85bde7a8c01eab983c6">EVENT_ROCKNOT_FINAL_KEG</a></div><div class="ttdeci">@ EVENT_ROCKNOT_FINAL_KEG</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:619</div></div>
-<div class="ttc" id="aa01595_html_a107098a8e50cf4edccc1a3a1131e8e54a0c9323c94b4bd9b90419ca2b2504708e"><div class="ttname"><a href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54a0c9323c94b4bd9b90419ca2b2504708e">EVENT_ROCKNOT_MORE_ALE</a></div><div class="ttdeci">@ EVENT_ROCKNOT_MORE_ALE</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:616</div></div>
-<div class="ttc" id="aa01595_html_a107098a8e50cf4edccc1a3a1131e8e54a0e14503329a8f0c69e3ccd272baf3b3f"><div class="ttname"><a href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54a0e14503329a8f0c69e3ccd272baf3b3f">EVENT_ROCKNOT_PUNCH</a></div><div class="ttdeci">@ EVENT_ROCKNOT_PUNCH</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:617</div></div>
-<div class="ttc" id="aa01595_html_a107098a8e50cf4edccc1a3a1131e8e54a21249240998f8d2de3c601fd8e8434fc"><div class="ttname"><a href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54a21249240998f8d2de3c601fd8e8434fc">EVENT_ROCKNOT_BREAK_KEG</a></div><div class="ttdeci">@ EVENT_ROCKNOT_BREAK_KEG</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:621</div></div>
-<div class="ttc" id="aa01595_html_a107098a8e50cf4edccc1a3a1131e8e54a566f784990836203caca9e4ce325c18b"><div class="ttname"><a href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54a566f784990836203caca9e4ce325c18b">EVENT_ROCKNOT_SECOND_KEG</a></div><div class="ttdeci">@ EVENT_ROCKNOT_SECOND_KEG</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:618</div></div>
-<div class="ttc" id="aa01595_html_a107098a8e50cf4edccc1a3a1131e8e54a5e157feac7a2e1dad12acd487e475966"><div class="ttname"><a href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54a5e157feac7a2e1dad12acd487e475966">EVENT_ROCKNOT_RECOVER</a></div><div class="ttdeci">@ EVENT_ROCKNOT_RECOVER</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:623</div></div>
-<div class="ttc" id="aa01595_html_a107098a8e50cf4edccc1a3a1131e8e54ad2c5488cd2569a1b012badf8b39bb96a"><div class="ttname"><a href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54ad2c5488cd2569a1b012badf8b39bb96a">EVENT_ROCKNOT_ALE</a></div><div class="ttdeci">@ EVENT_ROCKNOT_ALE</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:620</div></div>
-<div class="ttc" id="aa01595_html_a107098a8e50cf4edccc1a3a1131e8e54ae8371debc05d7f32a3149693d38e09fa"><div class="ttname"><a href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54ae8371debc05d7f32a3149693d38e09fa">EVENT_ROCKNOT_BAR_REACTION</a></div><div class="ttdeci">@ EVENT_ROCKNOT_BAR_REACTION</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:622</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 1102</span>{</div>
+<div class="line"><span class="lineno"> 1103</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54a0c9323c94b4bd9b90419ca2b2504708e">EVENT_ROCKNOT_MORE_ALE</a> = 1,</div>
+<div class="line"><span class="lineno"> 1104</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54a0e14503329a8f0c69e3ccd272baf3b3f">EVENT_ROCKNOT_PUNCH</a>,</div>
+<div class="line"><span class="lineno"> 1105</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54a566f784990836203caca9e4ce325c18b">EVENT_ROCKNOT_SECOND_KEG</a>,</div>
+<div class="line"><span class="lineno"> 1106</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54a08c06ffb1b78d85bde7a8c01eab983c6">EVENT_ROCKNOT_FINAL_KEG</a>,</div>
+<div class="line"><span class="lineno"> 1107</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54ad2c5488cd2569a1b012badf8b39bb96a">EVENT_ROCKNOT_ALE</a>,</div>
+<div class="line"><span class="lineno"> 1108</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54a21249240998f8d2de3c601fd8e8434fc">EVENT_ROCKNOT_BREAK_KEG</a>,</div>
+<div class="line"><span class="lineno"> 1109</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54ae8371debc05d7f32a3149693d38e09fa">EVENT_ROCKNOT_BAR_REACTION</a>,</div>
+<div class="line"><span class="lineno"> 1110</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54a5e157feac7a2e1dad12acd487e475966">EVENT_ROCKNOT_RECOVER</a></div>
+<div class="line"><span class="lineno"> 1111</span>};</div>
+<div class="ttc" id="aa01595_html_a107098a8e50cf4edccc1a3a1131e8e54a08c06ffb1b78d85bde7a8c01eab983c6"><div class="ttname"><a href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54a08c06ffb1b78d85bde7a8c01eab983c6">EVENT_ROCKNOT_FINAL_KEG</a></div><div class="ttdeci">@ EVENT_ROCKNOT_FINAL_KEG</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:1106</div></div>
+<div class="ttc" id="aa01595_html_a107098a8e50cf4edccc1a3a1131e8e54a0c9323c94b4bd9b90419ca2b2504708e"><div class="ttname"><a href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54a0c9323c94b4bd9b90419ca2b2504708e">EVENT_ROCKNOT_MORE_ALE</a></div><div class="ttdeci">@ EVENT_ROCKNOT_MORE_ALE</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:1103</div></div>
+<div class="ttc" id="aa01595_html_a107098a8e50cf4edccc1a3a1131e8e54a0e14503329a8f0c69e3ccd272baf3b3f"><div class="ttname"><a href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54a0e14503329a8f0c69e3ccd272baf3b3f">EVENT_ROCKNOT_PUNCH</a></div><div class="ttdeci">@ EVENT_ROCKNOT_PUNCH</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:1104</div></div>
+<div class="ttc" id="aa01595_html_a107098a8e50cf4edccc1a3a1131e8e54a21249240998f8d2de3c601fd8e8434fc"><div class="ttname"><a href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54a21249240998f8d2de3c601fd8e8434fc">EVENT_ROCKNOT_BREAK_KEG</a></div><div class="ttdeci">@ EVENT_ROCKNOT_BREAK_KEG</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:1108</div></div>
+<div class="ttc" id="aa01595_html_a107098a8e50cf4edccc1a3a1131e8e54a566f784990836203caca9e4ce325c18b"><div class="ttname"><a href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54a566f784990836203caca9e4ce325c18b">EVENT_ROCKNOT_SECOND_KEG</a></div><div class="ttdeci">@ EVENT_ROCKNOT_SECOND_KEG</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:1105</div></div>
+<div class="ttc" id="aa01595_html_a107098a8e50cf4edccc1a3a1131e8e54a5e157feac7a2e1dad12acd487e475966"><div class="ttname"><a href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54a5e157feac7a2e1dad12acd487e475966">EVENT_ROCKNOT_RECOVER</a></div><div class="ttdeci">@ EVENT_ROCKNOT_RECOVER</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:1110</div></div>
+<div class="ttc" id="aa01595_html_a107098a8e50cf4edccc1a3a1131e8e54ad2c5488cd2569a1b012badf8b39bb96a"><div class="ttname"><a href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54ad2c5488cd2569a1b012badf8b39bb96a">EVENT_ROCKNOT_ALE</a></div><div class="ttdeci">@ EVENT_ROCKNOT_ALE</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:1107</div></div>
+<div class="ttc" id="aa01595_html_a107098a8e50cf4edccc1a3a1131e8e54ae8371debc05d7f32a3149693d38e09fa"><div class="ttname"><a href="../../dc/dbf/a01595.html#a107098a8e50cf4edccc1a3a1131e8e54ae8371debc05d7f32a3149693d38e09fa">EVENT_ROCKNOT_BAR_REACTION</a></div><div class="ttdeci">@ EVENT_ROCKNOT_BAR_REACTION</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:1109</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -549,10 +967,10 @@ Variables</h2></td></tr>
 <table class="fieldtable">
 <tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ab9b4334d6d2bc49431118d630e153e62aa03659e92604835f23877ada64b0536e" name="ab9b4334d6d2bc49431118d630e153e62aa03659e92604835f23877ada64b0536e"></a>PATH_ROCKNOT_ALE&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">  627</span>{</div>
-<div class="line"><span class="lineno">  628</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#ab9b4334d6d2bc49431118d630e153e62aa03659e92604835f23877ada64b0536e">PATH_ROCKNOT_ALE</a> = 95030</div>
-<div class="line"><span class="lineno">  629</span>};</div>
-<div class="ttc" id="aa01595_html_ab9b4334d6d2bc49431118d630e153e62aa03659e92604835f23877ada64b0536e"><div class="ttname"><a href="../../dc/dbf/a01595.html#ab9b4334d6d2bc49431118d630e153e62aa03659e92604835f23877ada64b0536e">PATH_ROCKNOT_ALE</a></div><div class="ttdeci">@ PATH_ROCKNOT_ALE</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:628</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 1114</span>{</div>
+<div class="line"><span class="lineno"> 1115</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#ab9b4334d6d2bc49431118d630e153e62aa03659e92604835f23877ada64b0536e">PATH_ROCKNOT_ALE</a> = 95030</div>
+<div class="line"><span class="lineno"> 1116</span>};</div>
+<div class="ttc" id="aa01595_html_ab9b4334d6d2bc49431118d630e153e62aa03659e92604835f23877ada64b0536e"><div class="ttname"><a href="../../dc/dbf/a01595.html#ab9b4334d6d2bc49431118d630e153e62aa03659e92604835f23877ada64b0536e">PATH_ROCKNOT_ALE</a></div><div class="ttdeci">@ PATH_ROCKNOT_ALE</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:1115</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -574,18 +992,18 @@ Variables</h2></td></tr>
 <tr><td class="fieldname"><a id="a2b671238f8a9d6c755d81fe60b2b11afae6f75c5a860db2c1276777cb7ad9ec59" name="a2b671238f8a9d6c755d81fe60b2b11afae6f75c5a860db2c1276777cb7ad9ec59"></a>POINT_ROCKNOT_LEAVE_SECOND_KEG&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a2b671238f8a9d6c755d81fe60b2b11afaff649f954966a9020040cfe508de5ad8" name="a2b671238f8a9d6c755d81fe60b2b11afaff649f954966a9020040cfe508de5ad8"></a>POINT_ROCKNOT_FINAL_KEG&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">  632</span>{</div>
-<div class="line"><span class="lineno">  633</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a2b671238f8a9d6c755d81fe60b2b11afa8053ffeaad38499a5a6549cb1ee6fffc">POINT_ROCKNOT_FIRST_KEG</a> = 3,</div>
-<div class="line"><span class="lineno">  634</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a2b671238f8a9d6c755d81fe60b2b11afa1076c772446fc99a4141925c4681cf10">POINT_ROCKNOT_LEAVE_FIRST_KEG</a> = 4,</div>
-<div class="line"><span class="lineno">  635</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a2b671238f8a9d6c755d81fe60b2b11afab293bb2049c2b6e1004eaccc5fef59eb">POINT_ROCKNOT_SECOND_KEG</a> = 5,</div>
-<div class="line"><span class="lineno">  636</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a2b671238f8a9d6c755d81fe60b2b11afae6f75c5a860db2c1276777cb7ad9ec59">POINT_ROCKNOT_LEAVE_SECOND_KEG</a> = 6,</div>
-<div class="line"><span class="lineno">  637</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a2b671238f8a9d6c755d81fe60b2b11afaff649f954966a9020040cfe508de5ad8">POINT_ROCKNOT_FINAL_KEG</a> = 8</div>
-<div class="line"><span class="lineno">  638</span>};</div>
-<div class="ttc" id="aa01595_html_a2b671238f8a9d6c755d81fe60b2b11afa1076c772446fc99a4141925c4681cf10"><div class="ttname"><a href="../../dc/dbf/a01595.html#a2b671238f8a9d6c755d81fe60b2b11afa1076c772446fc99a4141925c4681cf10">POINT_ROCKNOT_LEAVE_FIRST_KEG</a></div><div class="ttdeci">@ POINT_ROCKNOT_LEAVE_FIRST_KEG</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:634</div></div>
-<div class="ttc" id="aa01595_html_a2b671238f8a9d6c755d81fe60b2b11afa8053ffeaad38499a5a6549cb1ee6fffc"><div class="ttname"><a href="../../dc/dbf/a01595.html#a2b671238f8a9d6c755d81fe60b2b11afa8053ffeaad38499a5a6549cb1ee6fffc">POINT_ROCKNOT_FIRST_KEG</a></div><div class="ttdeci">@ POINT_ROCKNOT_FIRST_KEG</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:633</div></div>
-<div class="ttc" id="aa01595_html_a2b671238f8a9d6c755d81fe60b2b11afab293bb2049c2b6e1004eaccc5fef59eb"><div class="ttname"><a href="../../dc/dbf/a01595.html#a2b671238f8a9d6c755d81fe60b2b11afab293bb2049c2b6e1004eaccc5fef59eb">POINT_ROCKNOT_SECOND_KEG</a></div><div class="ttdeci">@ POINT_ROCKNOT_SECOND_KEG</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:635</div></div>
-<div class="ttc" id="aa01595_html_a2b671238f8a9d6c755d81fe60b2b11afae6f75c5a860db2c1276777cb7ad9ec59"><div class="ttname"><a href="../../dc/dbf/a01595.html#a2b671238f8a9d6c755d81fe60b2b11afae6f75c5a860db2c1276777cb7ad9ec59">POINT_ROCKNOT_LEAVE_SECOND_KEG</a></div><div class="ttdeci">@ POINT_ROCKNOT_LEAVE_SECOND_KEG</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:636</div></div>
-<div class="ttc" id="aa01595_html_a2b671238f8a9d6c755d81fe60b2b11afaff649f954966a9020040cfe508de5ad8"><div class="ttname"><a href="../../dc/dbf/a01595.html#a2b671238f8a9d6c755d81fe60b2b11afaff649f954966a9020040cfe508de5ad8">POINT_ROCKNOT_FINAL_KEG</a></div><div class="ttdeci">@ POINT_ROCKNOT_FINAL_KEG</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:637</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 1119</span>{</div>
+<div class="line"><span class="lineno"> 1120</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a2b671238f8a9d6c755d81fe60b2b11afa8053ffeaad38499a5a6549cb1ee6fffc">POINT_ROCKNOT_FIRST_KEG</a> = 3,</div>
+<div class="line"><span class="lineno"> 1121</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a2b671238f8a9d6c755d81fe60b2b11afa1076c772446fc99a4141925c4681cf10">POINT_ROCKNOT_LEAVE_FIRST_KEG</a> = 4,</div>
+<div class="line"><span class="lineno"> 1122</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a2b671238f8a9d6c755d81fe60b2b11afab293bb2049c2b6e1004eaccc5fef59eb">POINT_ROCKNOT_SECOND_KEG</a> = 5,</div>
+<div class="line"><span class="lineno"> 1123</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a2b671238f8a9d6c755d81fe60b2b11afae6f75c5a860db2c1276777cb7ad9ec59">POINT_ROCKNOT_LEAVE_SECOND_KEG</a> = 6,</div>
+<div class="line"><span class="lineno"> 1124</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a2b671238f8a9d6c755d81fe60b2b11afaff649f954966a9020040cfe508de5ad8">POINT_ROCKNOT_FINAL_KEG</a> = 8</div>
+<div class="line"><span class="lineno"> 1125</span>};</div>
+<div class="ttc" id="aa01595_html_a2b671238f8a9d6c755d81fe60b2b11afa1076c772446fc99a4141925c4681cf10"><div class="ttname"><a href="../../dc/dbf/a01595.html#a2b671238f8a9d6c755d81fe60b2b11afa1076c772446fc99a4141925c4681cf10">POINT_ROCKNOT_LEAVE_FIRST_KEG</a></div><div class="ttdeci">@ POINT_ROCKNOT_LEAVE_FIRST_KEG</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:1121</div></div>
+<div class="ttc" id="aa01595_html_a2b671238f8a9d6c755d81fe60b2b11afa8053ffeaad38499a5a6549cb1ee6fffc"><div class="ttname"><a href="../../dc/dbf/a01595.html#a2b671238f8a9d6c755d81fe60b2b11afa8053ffeaad38499a5a6549cb1ee6fffc">POINT_ROCKNOT_FIRST_KEG</a></div><div class="ttdeci">@ POINT_ROCKNOT_FIRST_KEG</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:1120</div></div>
+<div class="ttc" id="aa01595_html_a2b671238f8a9d6c755d81fe60b2b11afab293bb2049c2b6e1004eaccc5fef59eb"><div class="ttname"><a href="../../dc/dbf/a01595.html#a2b671238f8a9d6c755d81fe60b2b11afab293bb2049c2b6e1004eaccc5fef59eb">POINT_ROCKNOT_SECOND_KEG</a></div><div class="ttdeci">@ POINT_ROCKNOT_SECOND_KEG</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:1122</div></div>
+<div class="ttc" id="aa01595_html_a2b671238f8a9d6c755d81fe60b2b11afae6f75c5a860db2c1276777cb7ad9ec59"><div class="ttname"><a href="../../dc/dbf/a01595.html#a2b671238f8a9d6c755d81fe60b2b11afae6f75c5a860db2c1276777cb7ad9ec59">POINT_ROCKNOT_LEAVE_SECOND_KEG</a></div><div class="ttdeci">@ POINT_ROCKNOT_LEAVE_SECOND_KEG</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:1123</div></div>
+<div class="ttc" id="aa01595_html_a2b671238f8a9d6c755d81fe60b2b11afaff649f954966a9020040cfe508de5ad8"><div class="ttname"><a href="../../dc/dbf/a01595.html#a2b671238f8a9d6c755d81fe60b2b11afaff649f954966a9020040cfe508de5ad8">POINT_ROCKNOT_FINAL_KEG</a></div><div class="ttdeci">@ POINT_ROCKNOT_FINAL_KEG</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:1124</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -603,10 +1021,10 @@ Variables</h2></td></tr>
 <table class="fieldtable">
 <tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a6b0d084d8af18bd5f9b8b009e51137dba736905032af28505a38a22a718e1c17a" name="a6b0d084d8af18bd5f9b8b009e51137dba736905032af28505a38a22a718e1c17a"></a>QUEST_ALE&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">  610</span>{</div>
-<div class="line"><span class="lineno">  611</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a6b0d084d8af18bd5f9b8b009e51137dba736905032af28505a38a22a718e1c17a">QUEST_ALE</a> = 4295</div>
-<div class="line"><span class="lineno">  612</span>};</div>
-<div class="ttc" id="aa01595_html_a6b0d084d8af18bd5f9b8b009e51137dba736905032af28505a38a22a718e1c17a"><div class="ttname"><a href="../../dc/dbf/a01595.html#a6b0d084d8af18bd5f9b8b009e51137dba736905032af28505a38a22a718e1c17a">QUEST_ALE</a></div><div class="ttdeci">@ QUEST_ALE</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:611</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 1097</span>{</div>
+<div class="line"><span class="lineno"> 1098</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a6b0d084d8af18bd5f9b8b009e51137dba736905032af28505a38a22a718e1c17a">QUEST_ALE</a> = 4295</div>
+<div class="line"><span class="lineno"> 1099</span>};</div>
+<div class="ttc" id="aa01595_html_a6b0d084d8af18bd5f9b8b009e51137dba736905032af28505a38a22a718e1c17a"><div class="ttname"><a href="../../dc/dbf/a01595.html#a6b0d084d8af18bd5f9b8b009e51137dba736905032af28505a38a22a718e1c17a">QUEST_ALE</a></div><div class="ttdeci">@ QUEST_ALE</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:1098</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -627,19 +1045,43 @@ Variables</h2></td></tr>
 <tr><td class="fieldname"><a id="a0fcf46ec361ec3eb9f40c6701294d8e0aed958fd831bb8b842be73f0b16544b06" name="a0fcf46ec361ec3eb9f40c6701294d8e0aed958fd831bb8b842be73f0b16544b06"></a>SAY_FIRST_EMPTY&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a0fcf46ec361ec3eb9f40c6701294d8e0ae644afd40e185b9f8d53e621551a6a65" name="a0fcf46ec361ec3eb9f40c6701294d8e0ae644afd40e185b9f8d53e621551a6a65"></a>SAY_SECOND_EMPTY&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a0fcf46ec361ec3eb9f40c6701294d8e0ab2c8011f6b9b092816587071dc99a963" name="a0fcf46ec361ec3eb9f40c6701294d8e0ab2c8011f6b9b092816587071dc99a963"></a>SAY_ALE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0fcf46ec361ec3eb9f40c6701294d8e0adb25620ed18d2e8dc4c5a9e4683a1142" name="a0fcf46ec361ec3eb9f40c6701294d8e0adb25620ed18d2e8dc4c5a9e4683a1142"></a>EMOTE_ROCKNOT&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">  601</span>{</div>
-<div class="line"><span class="lineno">  602</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a0fcf46ec361ec3eb9f40c6701294d8e0a907cae969cb1fc078f260cc54dc01e22">SAY_GOT_BEER</a> = 0,</div>
-<div class="line"><span class="lineno">  603</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a0fcf46ec361ec3eb9f40c6701294d8e0ad5a29b9fd4cfc6f98e2bd65774d5409f">SAY_MORE_ALE</a> = 1,</div>
-<div class="line"><span class="lineno">  604</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a0fcf46ec361ec3eb9f40c6701294d8e0aed958fd831bb8b842be73f0b16544b06">SAY_FIRST_EMPTY</a> = 2,</div>
-<div class="line"><span class="lineno">  605</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a0fcf46ec361ec3eb9f40c6701294d8e0ae644afd40e185b9f8d53e621551a6a65">SAY_SECOND_EMPTY</a> = 3,</div>
-<div class="line"><span class="lineno">  606</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a0fcf46ec361ec3eb9f40c6701294d8e0ab2c8011f6b9b092816587071dc99a963">SAY_ALE</a> = 4</div>
-<div class="line"><span class="lineno">  607</span>};</div>
-<div class="ttc" id="aa01595_html_a0fcf46ec361ec3eb9f40c6701294d8e0a907cae969cb1fc078f260cc54dc01e22"><div class="ttname"><a href="../../dc/dbf/a01595.html#a0fcf46ec361ec3eb9f40c6701294d8e0a907cae969cb1fc078f260cc54dc01e22">SAY_GOT_BEER</a></div><div class="ttdeci">@ SAY_GOT_BEER</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:602</div></div>
-<div class="ttc" id="aa01595_html_a0fcf46ec361ec3eb9f40c6701294d8e0ab2c8011f6b9b092816587071dc99a963"><div class="ttname"><a href="../../dc/dbf/a01595.html#a0fcf46ec361ec3eb9f40c6701294d8e0ab2c8011f6b9b092816587071dc99a963">SAY_ALE</a></div><div class="ttdeci">@ SAY_ALE</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:606</div></div>
-<div class="ttc" id="aa01595_html_a0fcf46ec361ec3eb9f40c6701294d8e0ad5a29b9fd4cfc6f98e2bd65774d5409f"><div class="ttname"><a href="../../dc/dbf/a01595.html#a0fcf46ec361ec3eb9f40c6701294d8e0ad5a29b9fd4cfc6f98e2bd65774d5409f">SAY_MORE_ALE</a></div><div class="ttdeci">@ SAY_MORE_ALE</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:603</div></div>
-<div class="ttc" id="aa01595_html_a0fcf46ec361ec3eb9f40c6701294d8e0ae644afd40e185b9f8d53e621551a6a65"><div class="ttname"><a href="../../dc/dbf/a01595.html#a0fcf46ec361ec3eb9f40c6701294d8e0ae644afd40e185b9f8d53e621551a6a65">SAY_SECOND_EMPTY</a></div><div class="ttdeci">@ SAY_SECOND_EMPTY</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:605</div></div>
-<div class="ttc" id="aa01595_html_a0fcf46ec361ec3eb9f40c6701294d8e0aed958fd831bb8b842be73f0b16544b06"><div class="ttname"><a href="../../dc/dbf/a01595.html#a0fcf46ec361ec3eb9f40c6701294d8e0aed958fd831bb8b842be73f0b16544b06">SAY_FIRST_EMPTY</a></div><div class="ttdeci">@ SAY_FIRST_EMPTY</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:604</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  623</span>{</div>
+<div class="line"><span class="lineno">  624</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a0fcf46ec361ec3eb9f40c6701294d8e0a907cae969cb1fc078f260cc54dc01e22">SAY_GOT_BEER</a> = 0,</div>
+<div class="line"><span class="lineno">  625</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a0fcf46ec361ec3eb9f40c6701294d8e0ad5a29b9fd4cfc6f98e2bd65774d5409f">SAY_MORE_ALE</a> = 1,</div>
+<div class="line"><span class="lineno">  626</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a0fcf46ec361ec3eb9f40c6701294d8e0aed958fd831bb8b842be73f0b16544b06">SAY_FIRST_EMPTY</a> = 2,</div>
+<div class="line"><span class="lineno">  627</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a0fcf46ec361ec3eb9f40c6701294d8e0ae644afd40e185b9f8d53e621551a6a65">SAY_SECOND_EMPTY</a> = 3,</div>
+<div class="line"><span class="lineno">  628</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a0fcf46ec361ec3eb9f40c6701294d8e0ab2c8011f6b9b092816587071dc99a963">SAY_ALE</a> = 4,</div>
+<div class="line"><span class="lineno">  629</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a0fcf46ec361ec3eb9f40c6701294d8e0adb25620ed18d2e8dc4c5a9e4683a1142">EMOTE_ROCKNOT</a> = 5</div>
+<div class="line"><span class="lineno">  630</span>};</div>
+<div class="ttc" id="aa01595_html_a0fcf46ec361ec3eb9f40c6701294d8e0a907cae969cb1fc078f260cc54dc01e22"><div class="ttname"><a href="../../dc/dbf/a01595.html#a0fcf46ec361ec3eb9f40c6701294d8e0a907cae969cb1fc078f260cc54dc01e22">SAY_GOT_BEER</a></div><div class="ttdeci">@ SAY_GOT_BEER</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:624</div></div>
+<div class="ttc" id="aa01595_html_a0fcf46ec361ec3eb9f40c6701294d8e0ab2c8011f6b9b092816587071dc99a963"><div class="ttname"><a href="../../dc/dbf/a01595.html#a0fcf46ec361ec3eb9f40c6701294d8e0ab2c8011f6b9b092816587071dc99a963">SAY_ALE</a></div><div class="ttdeci">@ SAY_ALE</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:628</div></div>
+<div class="ttc" id="aa01595_html_a0fcf46ec361ec3eb9f40c6701294d8e0ad5a29b9fd4cfc6f98e2bd65774d5409f"><div class="ttname"><a href="../../dc/dbf/a01595.html#a0fcf46ec361ec3eb9f40c6701294d8e0ad5a29b9fd4cfc6f98e2bd65774d5409f">SAY_MORE_ALE</a></div><div class="ttdeci">@ SAY_MORE_ALE</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:625</div></div>
+<div class="ttc" id="aa01595_html_a0fcf46ec361ec3eb9f40c6701294d8e0adb25620ed18d2e8dc4c5a9e4683a1142"><div class="ttname"><a href="../../dc/dbf/a01595.html#a0fcf46ec361ec3eb9f40c6701294d8e0adb25620ed18d2e8dc4c5a9e4683a1142">EMOTE_ROCKNOT</a></div><div class="ttdeci">@ EMOTE_ROCKNOT</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:629</div></div>
+<div class="ttc" id="aa01595_html_a0fcf46ec361ec3eb9f40c6701294d8e0ae644afd40e185b9f8d53e621551a6a65"><div class="ttname"><a href="../../dc/dbf/a01595.html#a0fcf46ec361ec3eb9f40c6701294d8e0ae644afd40e185b9f8d53e621551a6a65">SAY_SECOND_EMPTY</a></div><div class="ttdeci">@ SAY_SECOND_EMPTY</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:627</div></div>
+<div class="ttc" id="aa01595_html_a0fcf46ec361ec3eb9f40c6701294d8e0aed958fd831bb8b842be73f0b16544b06"><div class="ttname"><a href="../../dc/dbf/a01595.html#a0fcf46ec361ec3eb9f40c6701294d8e0aed958fd831bb8b842be73f0b16544b06">SAY_FIRST_EMPTY</a></div><div class="ttdeci">@ SAY_FIRST_EMPTY</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:626</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a9be3a5935087bb5ed983121fff3d2396" name="a9be3a5935087bb5ed983121fff3d2396"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9be3a5935087bb5ed983121fff3d2396">&#9670;&#160;</a></span>RocknotTaskGroups</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../dc/dbf/a01595.html#a9be3a5935087bb5ed983121fff3d2396">RocknotTaskGroups</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a9be3a5935087bb5ed983121fff3d2396a03919bd7a0e976e9c06c40615e9363ff" name="a9be3a5935087bb5ed983121fff3d2396a03919bd7a0e976e9c06c40615e9363ff"></a>GROUP_ROCKNOT_KISS&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno"> 1128</span>{</div>
+<div class="line"><span class="lineno"> 1129</span>    <a class="code hl_enumvalue" href="../../dc/dbf/a01595.html#a9be3a5935087bb5ed983121fff3d2396a03919bd7a0e976e9c06c40615e9363ff">GROUP_ROCKNOT_KISS</a> = 1</div>
+<div class="line"><span class="lineno"> 1130</span>};</div>
+<div class="ttc" id="aa01595_html_a9be3a5935087bb5ed983121fff3d2396a03919bd7a0e976e9c06c40615e9363ff"><div class="ttname"><a href="../../dc/dbf/a01595.html#a9be3a5935087bb5ed983121fff3d2396a03919bd7a0e976e9c06c40615e9363ff">GROUP_ROCKNOT_KISS</a></div><div class="ttdeci">@ GROUP_ROCKNOT_KISS</div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:1129</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -658,24 +1100,26 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  857</span>{</div>
-<div class="line"><span class="lineno">  858</span>    <a class="code hl_define" href="../../d2/d2f/a01586.html#a648e7de381945a58e4b153457cbfd37f">RegisterBlackrockDepthsGameObjectAI</a>(<a class="code hl_struct" href="../../d3/dea/a12759.html">go_shadowforge_brazier</a>);</div>
-<div class="line"><span class="lineno">  859</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../dc/d20/a12771.html">at_ring_of_law</a>();</div>
-<div class="line"><span class="lineno">  860</span>    <a class="code hl_define" href="../../d2/d2f/a01586.html#ad8a3ba7dab406252a979d5af66be980a">RegisterBlackrockDepthsCreatureAI</a>(<a class="code hl_struct" href="../../d6/d89/a12775.html">npc_grimstone</a>);</div>
-<div class="line"><span class="lineno">  861</span>    <a class="code hl_define" href="../../d2/d2f/a01586.html#ad8a3ba7dab406252a979d5af66be980a">RegisterBlackrockDepthsCreatureAI</a>(<a class="code hl_struct" href="../../d2/d33/a12779.html">npc_phalanx</a>);</div>
-<div class="line"><span class="lineno">  862</span>    <a class="code hl_define" href="../../d2/d2f/a01586.html#ad8a3ba7dab406252a979d5af66be980a">RegisterBlackrockDepthsCreatureAI</a>(<a class="code hl_struct" href="../../dd/d2b/a12783.html">npc_rocknot</a>);</div>
-<div class="line"><span class="lineno">  863</span>    <a class="code hl_define" href="../../d2/d2f/a01586.html#ad8a3ba7dab406252a979d5af66be980a">RegisterBlackrockDepthsCreatureAI</a>(<a class="code hl_struct" href="../../db/de8/a12763.html">brd_ironhand_guardian</a>);</div>
-<div class="line"><span class="lineno">  864</span>}</div>
-<div class="ttc" id="aa01586_html_a648e7de381945a58e4b153457cbfd37f"><div class="ttname"><a href="../../d2/d2f/a01586.html#a648e7de381945a58e4b153457cbfd37f">RegisterBlackrockDepthsGameObjectAI</a></div><div class="ttdeci">#define RegisterBlackrockDepthsGameObjectAI(ai_name)</div><div class="ttdef"><b>Definition:</b> blackrock_depths.h:157</div></div>
-<div class="ttc" id="aa01586_html_ad8a3ba7dab406252a979d5af66be980a"><div class="ttname"><a href="../../d2/d2f/a01586.html#ad8a3ba7dab406252a979d5af66be980a">RegisterBlackrockDepthsCreatureAI</a></div><div class="ttdeci">#define RegisterBlackrockDepthsCreatureAI(ai_name)</div><div class="ttdef"><b>Definition:</b> blackrock_depths.h:156</div></div>
-<div class="ttc" id="aa12759_html"><div class="ttname"><a href="../../d3/dea/a12759.html">go_shadowforge_brazier</a></div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:40</div></div>
-<div class="ttc" id="aa12763_html"><div class="ttname"><a href="../../db/de8/a12763.html">brd_ironhand_guardian</a></div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:72</div></div>
-<div class="ttc" id="aa12771_html"><div class="ttname"><a href="../../dc/d20/a12771.html">at_ring_of_law</a></div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:140</div></div>
-<div class="ttc" id="aa12775_html"><div class="ttname"><a href="../../d6/d89/a12775.html">npc_grimstone</a></div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:174</div></div>
-<div class="ttc" id="aa12779_html"><div class="ttname"><a href="../../d2/d33/a12779.html">npc_phalanx</a></div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:446</div></div>
-<div class="ttc" id="aa12783_html"><div class="ttname"><a href="../../dd/d2b/a12783.html">npc_rocknot</a></div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:641</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 1517</span>{</div>
+<div class="line"><span class="lineno"> 1518</span>    <a class="code hl_define" href="../../d2/d2f/a01586.html#a648e7de381945a58e4b153457cbfd37f">RegisterBlackrockDepthsGameObjectAI</a>(<a class="code hl_struct" href="../../d3/dea/a12759.html">go_shadowforge_brazier</a>);</div>
+<div class="line"><span class="lineno"> 1519</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../dc/d20/a12771.html">at_ring_of_law</a>();</div>
+<div class="line"><span class="lineno"> 1520</span>    <a class="code hl_define" href="../../d2/d2f/a01586.html#ad8a3ba7dab406252a979d5af66be980a">RegisterBlackrockDepthsCreatureAI</a>(<a class="code hl_struct" href="../../d6/d89/a12775.html">npc_grimstone</a>);</div>
+<div class="line"><span class="lineno"> 1521</span>    <a class="code hl_define" href="../../d2/d2f/a01586.html#ad8a3ba7dab406252a979d5af66be980a">RegisterBlackrockDepthsCreatureAI</a>(<a class="code hl_struct" href="../../d2/d33/a12779.html">npc_phalanx</a>);</div>
+<div class="line"><span class="lineno"> 1522</span>    <a class="code hl_define" href="../../d2/d2f/a01586.html#ad8a3ba7dab406252a979d5af66be980a">RegisterBlackrockDepthsCreatureAI</a>(<a class="code hl_struct" href="../../dd/d2b/a12783.html">npc_mistress_nagmara</a>);</div>
+<div class="line"><span class="lineno"> 1523</span>    <a class="code hl_define" href="../../d2/d2f/a01586.html#ad8a3ba7dab406252a979d5af66be980a">RegisterBlackrockDepthsCreatureAI</a>(<a class="code hl_struct" href="../../d2/d6e/a12787.html">npc_rocknot</a>);</div>
+<div class="line"><span class="lineno"> 1524</span>    <a class="code hl_define" href="../../d2/d2f/a01586.html#ad8a3ba7dab406252a979d5af66be980a">RegisterBlackrockDepthsCreatureAI</a>(<a class="code hl_struct" href="../../db/de8/a12763.html">brd_ironhand_guardian</a>);</div>
+<div class="line"><span class="lineno"> 1525</span>}</div>
+<div class="ttc" id="aa01586_html_a648e7de381945a58e4b153457cbfd37f"><div class="ttname"><a href="../../d2/d2f/a01586.html#a648e7de381945a58e4b153457cbfd37f">RegisterBlackrockDepthsGameObjectAI</a></div><div class="ttdeci">#define RegisterBlackrockDepthsGameObjectAI(ai_name)</div><div class="ttdef"><b>Definition:</b> blackrock_depths.h:158</div></div>
+<div class="ttc" id="aa01586_html_ad8a3ba7dab406252a979d5af66be980a"><div class="ttname"><a href="../../d2/d2f/a01586.html#ad8a3ba7dab406252a979d5af66be980a">RegisterBlackrockDepthsCreatureAI</a></div><div class="ttdeci">#define RegisterBlackrockDepthsCreatureAI(ai_name)</div><div class="ttdef"><b>Definition:</b> blackrock_depths.h:157</div></div>
+<div class="ttc" id="aa12759_html"><div class="ttname"><a href="../../d3/dea/a12759.html">go_shadowforge_brazier</a></div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:43</div></div>
+<div class="ttc" id="aa12763_html"><div class="ttname"><a href="../../db/de8/a12763.html">brd_ironhand_guardian</a></div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:75</div></div>
+<div class="ttc" id="aa12771_html"><div class="ttname"><a href="../../dc/d20/a12771.html">at_ring_of_law</a></div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:143</div></div>
+<div class="ttc" id="aa12775_html"><div class="ttname"><a href="../../d6/d89/a12775.html">npc_grimstone</a></div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:177</div></div>
+<div class="ttc" id="aa12779_html"><div class="ttname"><a href="../../d2/d33/a12779.html">npc_phalanx</a></div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:449</div></div>
+<div class="ttc" id="aa12783_html"><div class="ttname"><a href="../../dd/d2b/a12783.html">npc_mistress_nagmara</a></div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:701</div></div>
+<div class="ttc" id="aa12787_html"><div class="ttname"><a href="../../d2/d6e/a12787.html">npc_rocknot</a></div><div class="ttdef"><b>Definition:</b> blackrock_depths.cpp:1133</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00156">RegisterBlackrockDepthsCreatureAI</a>, and <a class="el" href="../../#l00157">RegisterBlackrockDepthsGameObjectAI</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00157">RegisterBlackrockDepthsCreatureAI</a>, and <a class="el" href="../../#l00158">RegisterBlackrockDepthsGameObjectAI</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00165">AddEasternKingdomsScripts()</a>.</p>
 
@@ -702,7 +1146,7 @@ Variables</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00075">brd_ironhand_guardian::SetData()</a>, and <a class="el" href="../../#l00085">brd_ironhand_guardian::UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00078">brd_ironhand_guardian::SetData()</a>, and <a class="el" href="../../#l00088">brd_ironhand_guardian::UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -726,7 +1170,55 @@ Variables</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00085">brd_ironhand_guardian::UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00088">brd_ironhand_guardian::UpdateAI()</a>.</p>
+
+</div>
+</div>
+<a id="af200a6dcf2f5de233003bc331d085202" name="af200a6dcf2f5de233003bc331d085202"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af200a6dcf2f5de233003bc331d085202">&#9670;&#160;</a></span>NagmaraApproachPosition</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d7/dc3/a08931.html">Position</a> const NagmaraApproachPosition = { 874.3762f, -187.63274f, -43.70371f }</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00902">npc_mistress_nagmara::MoveToApproachPoint()</a>.</p>
+
+</div>
+</div>
+<a id="a63deecc453aeb5a784bc21c5c174b0e5" name="a63deecc453aeb5a784bc21c5c174b0e5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a63deecc453aeb5a784bc21c5c174b0e5">&#9670;&#160;</a></span>NagmaraFinalPosition</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d7/dc3/a08931.html">Position</a> const NagmaraFinalPosition = { 878.1779f, -222.06618f, -49.967144f, 0.25003412f }</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00706">npc_mistress_nagmara::Reset()</a>.</p>
+
+</div>
+</div>
+<a id="a733d56b59dda0c4cfc28a18f7f54b152" name="a733d56b59dda0c4cfc28a18f7f54b152"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a733d56b59dda0c4cfc28a18f7f54b152">&#9670;&#160;</a></span>NagmaraGreetingPosition</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d7/dc3/a08931.html">Position</a> const NagmaraGreetingPosition = { 889.49426f, -196.88141f, -43.713f }</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00908">npc_mistress_nagmara::MoveToGreetingPosition()</a>.</p>
 
 </div>
 </div>
@@ -750,14 +1242,14 @@ Variables</h2></td></tr>
 <div class="line">    <a class="code hl_enumvalue" href="../../d2/d2f/a01586.html#a25a619e6b66096a4f05d048e4a96df08a413e0b5ac112b7ac13778d9e1ad98add">NPC_ANUBSHIAH</a>,</div>
 <div class="line">    <a class="code hl_enumvalue" href="../../d2/d2f/a01586.html#a25a619e6b66096a4f05d048e4a96df08ab372a0c3b27834bf5d3896e51f8af366">NPC_HEDRUM</a></div>
 <div class="line">}</div>
-<div class="ttc" id="aa01586_html_a25a619e6b66096a4f05d048e4a96df08a18c29370e470901201e4fa71e800c935"><div class="ttname"><a href="../../d2/d2f/a01586.html#a25a619e6b66096a4f05d048e4a96df08a18c29370e470901201e4fa71e800c935">NPC_GRIZZLE</a></div><div class="ttdeci">@ NPC_GRIZZLE</div><div class="ttdef"><b>Definition:</b> blackrock_depths.h:131</div></div>
-<div class="ttc" id="aa01586_html_a25a619e6b66096a4f05d048e4a96df08a413e0b5ac112b7ac13778d9e1ad98add"><div class="ttname"><a href="../../d2/d2f/a01586.html#a25a619e6b66096a4f05d048e4a96df08a413e0b5ac112b7ac13778d9e1ad98add">NPC_ANUBSHIAH</a></div><div class="ttdeci">@ NPC_ANUBSHIAH</div><div class="ttdef"><b>Definition:</b> blackrock_depths.h:134</div></div>
-<div class="ttc" id="aa01586_html_a25a619e6b66096a4f05d048e4a96df08a9997e0e7d4cb2c036e9b32d064e69b3e"><div class="ttname"><a href="../../d2/d2f/a01586.html#a25a619e6b66096a4f05d048e4a96df08a9997e0e7d4cb2c036e9b32d064e69b3e">NPC_OKTHOR</a></div><div class="ttdeci">@ NPC_OKTHOR</div><div class="ttdef"><b>Definition:</b> blackrock_depths.h:133</div></div>
-<div class="ttc" id="aa01586_html_a25a619e6b66096a4f05d048e4a96df08a9be9647ffc16ae8dbcb7d5eb9b53947c"><div class="ttname"><a href="../../d2/d2f/a01586.html#a25a619e6b66096a4f05d048e4a96df08a9be9647ffc16ae8dbcb7d5eb9b53947c">NPC_EVISCERATOR</a></div><div class="ttdeci">@ NPC_EVISCERATOR</div><div class="ttdef"><b>Definition:</b> blackrock_depths.h:132</div></div>
-<div class="ttc" id="aa01586_html_a25a619e6b66096a4f05d048e4a96df08a9ef7bc633b4bdbcfd3fb9da261e528c5"><div class="ttname"><a href="../../d2/d2f/a01586.html#a25a619e6b66096a4f05d048e4a96df08a9ef7bc633b4bdbcfd3fb9da261e528c5">NPC_GOROSH</a></div><div class="ttdeci">@ NPC_GOROSH</div><div class="ttdef"><b>Definition:</b> blackrock_depths.h:130</div></div>
-<div class="ttc" id="aa01586_html_a25a619e6b66096a4f05d048e4a96df08ab372a0c3b27834bf5d3896e51f8af366"><div class="ttname"><a href="../../d2/d2f/a01586.html#a25a619e6b66096a4f05d048e4a96df08ab372a0c3b27834bf5d3896e51f8af366">NPC_HEDRUM</a></div><div class="ttdeci">@ NPC_HEDRUM</div><div class="ttdef"><b>Definition:</b> blackrock_depths.h:135</div></div>
+<div class="ttc" id="aa01586_html_a25a619e6b66096a4f05d048e4a96df08a18c29370e470901201e4fa71e800c935"><div class="ttname"><a href="../../d2/d2f/a01586.html#a25a619e6b66096a4f05d048e4a96df08a18c29370e470901201e4fa71e800c935">NPC_GRIZZLE</a></div><div class="ttdeci">@ NPC_GRIZZLE</div><div class="ttdef"><b>Definition:</b> blackrock_depths.h:132</div></div>
+<div class="ttc" id="aa01586_html_a25a619e6b66096a4f05d048e4a96df08a413e0b5ac112b7ac13778d9e1ad98add"><div class="ttname"><a href="../../d2/d2f/a01586.html#a25a619e6b66096a4f05d048e4a96df08a413e0b5ac112b7ac13778d9e1ad98add">NPC_ANUBSHIAH</a></div><div class="ttdeci">@ NPC_ANUBSHIAH</div><div class="ttdef"><b>Definition:</b> blackrock_depths.h:135</div></div>
+<div class="ttc" id="aa01586_html_a25a619e6b66096a4f05d048e4a96df08a9997e0e7d4cb2c036e9b32d064e69b3e"><div class="ttname"><a href="../../d2/d2f/a01586.html#a25a619e6b66096a4f05d048e4a96df08a9997e0e7d4cb2c036e9b32d064e69b3e">NPC_OKTHOR</a></div><div class="ttdeci">@ NPC_OKTHOR</div><div class="ttdef"><b>Definition:</b> blackrock_depths.h:134</div></div>
+<div class="ttc" id="aa01586_html_a25a619e6b66096a4f05d048e4a96df08a9be9647ffc16ae8dbcb7d5eb9b53947c"><div class="ttname"><a href="../../d2/d2f/a01586.html#a25a619e6b66096a4f05d048e4a96df08a9be9647ffc16ae8dbcb7d5eb9b53947c">NPC_EVISCERATOR</a></div><div class="ttdeci">@ NPC_EVISCERATOR</div><div class="ttdef"><b>Definition:</b> blackrock_depths.h:133</div></div>
+<div class="ttc" id="aa01586_html_a25a619e6b66096a4f05d048e4a96df08a9ef7bc633b4bdbcfd3fb9da261e528c5"><div class="ttname"><a href="../../d2/d2f/a01586.html#a25a619e6b66096a4f05d048e4a96df08a9ef7bc633b4bdbcfd3fb9da261e528c5">NPC_GOROSH</a></div><div class="ttdeci">@ NPC_GOROSH</div><div class="ttdef"><b>Definition:</b> blackrock_depths.h:131</div></div>
+<div class="ttc" id="aa01586_html_a25a619e6b66096a4f05d048e4a96df08ab372a0c3b27834bf5d3896e51f8af366"><div class="ttname"><a href="../../d2/d2f/a01586.html#a25a619e6b66096a4f05d048e4a96df08ab372a0c3b27834bf5d3896e51f8af366">NPC_HEDRUM</a></div><div class="ttdeci">@ NPC_HEDRUM</div><div class="ttdef"><b>Definition:</b> blackrock_depths.h:136</div></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00261">npc_grimstone::SummonBoss()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00264">npc_grimstone::SummonBoss()</a>.</p>
 
 </div>
 </div>
@@ -788,14 +1280,30 @@ Variables</h2></td></tr>
 <div class="line">    {<a class="code hl_enumvalue" href="../../d2/d2f/a01586.html#a25a619e6b66096a4f05d048e4a96df08ada865b0d9efbba68e24f886dac67b558">NPC_THUNDERSNOUT</a>, 2},</div>
 <div class="line">    {<a class="code hl_enumvalue" href="../../d2/d2f/a01586.html#a25a619e6b66096a4f05d048e4a96df08a6c3ac6f8e1daafc8147a2aa3c2cbb602">NPC_CAVE_CREEPER</a>, 3},</div>
 <div class="line">    {<a class="code hl_enumvalue" href="../../d2/d2f/a01586.html#a25a619e6b66096a4f05d048e4a96df08ad7f954fc5baacdecae409b5aa8035453">NPC_BORER_BEETLE</a>, 6}}</div>
-<div class="ttc" id="aa01586_html_a25a619e6b66096a4f05d048e4a96df08a0ebaae5543e8d47ce74463ea0491dd14"><div class="ttname"><a href="../../d2/d2f/a01586.html#a25a619e6b66096a4f05d048e4a96df08a0ebaae5543e8d47ce74463ea0491dd14">NPC_DREDGE_WORM</a></div><div class="ttdeci">@ NPC_DREDGE_WORM</div><div class="ttdef"><b>Definition:</b> blackrock_depths.h:124</div></div>
-<div class="ttc" id="aa01586_html_a25a619e6b66096a4f05d048e4a96df08a6c3ac6f8e1daafc8147a2aa3c2cbb602"><div class="ttname"><a href="../../d2/d2f/a01586.html#a25a619e6b66096a4f05d048e4a96df08a6c3ac6f8e1daafc8147a2aa3c2cbb602">NPC_CAVE_CREEPER</a></div><div class="ttdeci">@ NPC_CAVE_CREEPER</div><div class="ttdef"><b>Definition:</b> blackrock_depths.h:129</div></div>
-<div class="ttc" id="aa01586_html_a25a619e6b66096a4f05d048e4a96df08ac8b9b94735dc0130d205bd14974e380a"><div class="ttname"><a href="../../d2/d2f/a01586.html#a25a619e6b66096a4f05d048e4a96df08ac8b9b94735dc0130d205bd14974e380a">NPC_DEEP_STINGER</a></div><div class="ttdeci">@ NPC_DEEP_STINGER</div><div class="ttdef"><b>Definition:</b> blackrock_depths.h:125</div></div>
-<div class="ttc" id="aa01586_html_a25a619e6b66096a4f05d048e4a96df08ad7f954fc5baacdecae409b5aa8035453"><div class="ttname"><a href="../../d2/d2f/a01586.html#a25a619e6b66096a4f05d048e4a96df08ad7f954fc5baacdecae409b5aa8035453">NPC_BORER_BEETLE</a></div><div class="ttdeci">@ NPC_BORER_BEETLE</div><div class="ttdef"><b>Definition:</b> blackrock_depths.h:128</div></div>
-<div class="ttc" id="aa01586_html_a25a619e6b66096a4f05d048e4a96df08ada865b0d9efbba68e24f886dac67b558"><div class="ttname"><a href="../../d2/d2f/a01586.html#a25a619e6b66096a4f05d048e4a96df08ada865b0d9efbba68e24f886dac67b558">NPC_THUNDERSNOUT</a></div><div class="ttdeci">@ NPC_THUNDERSNOUT</div><div class="ttdef"><b>Definition:</b> blackrock_depths.h:127</div></div>
-<div class="ttc" id="aa01586_html_a25a619e6b66096a4f05d048e4a96df08ae2f9846d50f6614697b9eb7d37b2b99b"><div class="ttname"><a href="../../d2/d2f/a01586.html#a25a619e6b66096a4f05d048e4a96df08ae2f9846d50f6614697b9eb7d37b2b99b">NPC_DARK_SCREECHER</a></div><div class="ttdeci">@ NPC_DARK_SCREECHER</div><div class="ttdef"><b>Definition:</b> blackrock_depths.h:126</div></div>
+<div class="ttc" id="aa01586_html_a25a619e6b66096a4f05d048e4a96df08a0ebaae5543e8d47ce74463ea0491dd14"><div class="ttname"><a href="../../d2/d2f/a01586.html#a25a619e6b66096a4f05d048e4a96df08a0ebaae5543e8d47ce74463ea0491dd14">NPC_DREDGE_WORM</a></div><div class="ttdeci">@ NPC_DREDGE_WORM</div><div class="ttdef"><b>Definition:</b> blackrock_depths.h:125</div></div>
+<div class="ttc" id="aa01586_html_a25a619e6b66096a4f05d048e4a96df08a6c3ac6f8e1daafc8147a2aa3c2cbb602"><div class="ttname"><a href="../../d2/d2f/a01586.html#a25a619e6b66096a4f05d048e4a96df08a6c3ac6f8e1daafc8147a2aa3c2cbb602">NPC_CAVE_CREEPER</a></div><div class="ttdeci">@ NPC_CAVE_CREEPER</div><div class="ttdef"><b>Definition:</b> blackrock_depths.h:130</div></div>
+<div class="ttc" id="aa01586_html_a25a619e6b66096a4f05d048e4a96df08ac8b9b94735dc0130d205bd14974e380a"><div class="ttname"><a href="../../d2/d2f/a01586.html#a25a619e6b66096a4f05d048e4a96df08ac8b9b94735dc0130d205bd14974e380a">NPC_DEEP_STINGER</a></div><div class="ttdeci">@ NPC_DEEP_STINGER</div><div class="ttdef"><b>Definition:</b> blackrock_depths.h:126</div></div>
+<div class="ttc" id="aa01586_html_a25a619e6b66096a4f05d048e4a96df08ad7f954fc5baacdecae409b5aa8035453"><div class="ttname"><a href="../../d2/d2f/a01586.html#a25a619e6b66096a4f05d048e4a96df08ad7f954fc5baacdecae409b5aa8035453">NPC_BORER_BEETLE</a></div><div class="ttdeci">@ NPC_BORER_BEETLE</div><div class="ttdef"><b>Definition:</b> blackrock_depths.h:129</div></div>
+<div class="ttc" id="aa01586_html_a25a619e6b66096a4f05d048e4a96df08ada865b0d9efbba68e24f886dac67b558"><div class="ttname"><a href="../../d2/d2f/a01586.html#a25a619e6b66096a4f05d048e4a96df08ada865b0d9efbba68e24f886dac67b558">NPC_THUNDERSNOUT</a></div><div class="ttdeci">@ NPC_THUNDERSNOUT</div><div class="ttdef"><b>Definition:</b> blackrock_depths.h:128</div></div>
+<div class="ttc" id="aa01586_html_a25a619e6b66096a4f05d048e4a96df08ae2f9846d50f6614697b9eb7d37b2b99b"><div class="ttname"><a href="../../d2/d2f/a01586.html#a25a619e6b66096a4f05d048e4a96df08ae2f9846d50f6614697b9eb7d37b2b99b">NPC_DARK_SCREECHER</a></div><div class="ttdeci">@ NPC_DARK_SCREECHER</div><div class="ttdef"><b>Definition:</b> blackrock_depths.h:127</div></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00302">npc_grimstone::SpawnWave()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00305">npc_grimstone::SpawnWave()</a>.</p>
+
+</div>
+</div>
+<a id="a0413104621cd00b43dd9069c867a7e27" name="a0413104621cd00b43dd9069c867a7e27"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0413104621cd00b43dd9069c867a7e27">&#9670;&#160;</a></span>RocknotFinalPosition</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d7/dc3/a08931.html">Position</a> const RocknotFinalPosition = { 880.1218f, -221.5959f, -49.95902f, 3.3916268f }</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01176">npc_rocknot::DoAction()</a>, <a class="el" href="../../#l01005">npc_mistress_nagmara::ReachLoversStop()</a>, and <a class="el" href="../../#l01142">npc_rocknot::Reset()</a>.</p>
 
 </div>
 </div>
@@ -805,7 +1313,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_ddeb450e5fe586f747c0635391d1d1d6.html">EasternKingdoms</a></li><li class="navelem"><a class="el" href="../../dir_ee257430e29f6025af1a91f2d4e4e3f4.html">BlackrockMountain</a></li><li class="navelem"><a class="el" href="../../dir_27480f4b138219461115b0c89185026b.html">BlackrockDepths</a></li><li class="navelem"><a class="el" href="../../dc/dbf/a01595.html">blackrock_depths.cpp</a></li>
-    <li class="footer">Generated on Tue Oct 6 2026 01:25:35 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Tue Oct 13 2026 02:14:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

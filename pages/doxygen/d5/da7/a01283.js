@@ -1,9 +1,9 @@
 var a01283 =
 [
-    [ "npc_taldaram_flamesphere", "d0/ded/a16443.html", "d0/ded/a16443" ],
-    [ "boss_taldaram", "d2/dae/a16447.html", "d2/dae/a16447" ],
-    [ "spell_prince_taldaram_conjure_flame_sphere", "d4/d40/a16451.html", "d4/d40/a16451" ],
-    [ "spell_prince_taldaram_flame_sphere_summon", "db/d01/a16455.html", "db/d01/a16455" ],
+    [ "npc_taldaram_flamesphere", "d2/dae/a16447.html", "d2/dae/a16447" ],
+    [ "boss_taldaram", "d4/d40/a16451.html", "d4/d40/a16451" ],
+    [ "spell_prince_taldaram_conjure_flame_sphere", "db/d01/a16455.html", "db/d01/a16455" ],
+    [ "spell_prince_taldaram_flame_sphere_summon", "d9/d8c/a16459.html", "d9/d8c/a16459" ],
     [ "DATA_SPHERE_ANGLE_OFFSET", "d5/da7/a01283.html#abba5e7f7dee2d39e8b41c5ac0f4b1746", null ],
     [ "Actions", "d5/da7/a01283.html#a250372292659bed7ae290d8621f88ccf", [
       [ "ACTION_GUNSHIP_READY", "d7/da8/a02522.html#a250372292659bed7ae290d8621f88ccfaae8bb35d65ee37e4d232e2a67aeca581", null ],
@@ -1547,6 +1547,8 @@ var a01283 =
       [ "SPELL_ARMAGEDDON_MISSILE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca8c377b8b69d0dbe801ea2d87064096b3", null ],
       [ "SPELL_CUSTOM_08_STATE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cae69e2264948bdd529250fbebad159275", null ],
       [ "SPELL_DESTROY_ALL_DRAKES", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca7485400f7f3c06376aba102ad64ffddf", null ],
+      [ "SPELL_KNOCKBACK", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca27fe30ac398369e590388303632044c8", null ],
+      [ "SPELL_SWAT", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cad0ed6ff1cfea07c54007f4d3a4fc1d78", null ],
       [ "SPELL_SINISTER_REFLECTION_SUMMON", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca71f16716214f1f22b82cc0a0e0ea4c82", null ],
       [ "SPELL_SINISTER_REFLECTION_CLASS", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca694ff4e39c65fe5ba7f0abd5e7da9091", null ],
       [ "SPELL_SINISTER_REFLECTION_CLONE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cab8620ab50f2f9bd8645774fcc6230a0b", null ],

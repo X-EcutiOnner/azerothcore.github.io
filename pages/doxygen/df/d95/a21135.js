@@ -1,11 +1,6 @@
 var a21135 =
 [
-    [ "boss_yoggsaron_llane", "df/d95/a21135.html#a42e3d189cff0da5995401e4bc8dfffdd", null ],
-    [ "NextStep", "df/d95/a21135.html#ab8b6446fe7d424ad7d943af915cc4b8a", null ],
-    [ "Reset", "df/d95/a21135.html#a0df3a85717ab26ad1ac889d6fe4d8007", null ],
-    [ "Say", "df/d95/a21135.html#a0ae3106eac830ed9f14f17e5fa1d45ec", null ],
-    [ "UpdateAI", "df/d95/a21135.html#a58ec957cd59b944439fe514e728e2902", null ],
-    [ "_checkTimer", "df/d95/a21135.html#a3043382e2727bc78a74acaec28697045", null ],
-    [ "_running", "df/d95/a21135.html#ab7e1b1ed82f311b12f28f1622e6ad378", null ],
-    [ "_step", "df/d95/a21135.html#a91a71f85bab9e4d1234964ef534e51c2", null ]
+    [ "boss_yoggsaron_influence_tentacle", "df/d95/a21135.html#ac5908d64a4749303a08d352d470995dd", null ],
+    [ "DamageTaken", "df/d95/a21135.html#a0e76ab78b378ba4262dfb603e7634dfb", null ],
+    [ "JustDied", "df/d95/a21135.html#a9fac83d89c8c5810b2b5a25d0228c741", null ]
 ];

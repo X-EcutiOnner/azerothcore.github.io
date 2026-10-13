@@ -1,10 +1,10 @@
 var a15503 =
 [
-    [ "CurrId", "d7/d81/a15503.html#a13ab14a7f8ef49fcbfa72b3c383c902a", null ],
-    [ "DestId", "d7/d81/a15503.html#ab29acec583ffa5055ff17c7216cab1b7", null ],
-    [ "O", "d7/d81/a15503.html#a291850314eca39626b811cdf82eadaca", null ],
-    [ "SpellId", "d7/d81/a15503.html#a98b5a11c4f105696d444222113de4607", null ],
-    [ "X", "d7/d81/a15503.html#a90b233e77c593720f434d78cae72458e", null ],
-    [ "Y", "d7/d81/a15503.html#a03176c6113b5fb3c873dc57e06c27d79", null ],
-    [ "Z", "d7/d81/a15503.html#a921c5e8c4b44edb9466cb59e94ac5441", null ]
+    [ "instance_maraudon_InstanceMapScript", "d7/d81/a15503.html#a9c46508320d3973006561444feae0586", null ],
+    [ "Initialize", "d7/d81/a15503.html#a61cb2b2bf09bb997457bc01a41e092e9", null ],
+    [ "OnGameObjectCreate", "d7/d81/a15503.html#a3a287b97db58c3489815f20ee0d37977", null ],
+    [ "ReadSaveDataMore", "d7/d81/a15503.html#ac2cd336874b25ad20dac104037de1df5", null ],
+    [ "SetData", "d7/d81/a15503.html#a6e90bf60a076c164e432128f7ec62fba", null ],
+    [ "WriteSaveDataMore", "d7/d81/a15503.html#a6e4072342e66689d343912de85e66b34", null ],
+    [ "_encounters", "d7/d81/a15503.html#af2e752a791d75e50001060c4a9f18173", null ]
 ];

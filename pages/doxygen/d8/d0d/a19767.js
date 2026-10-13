@@ -1,8 +1,8 @@
 var a19767 =
 [
-    [ "npc_teslaAI", "d8/d0d/a19767.html#a7281220648af1357b1377d6f7874d663", null ],
-    [ "DamageTaken", "d8/d0d/a19767.html#aa3ab570e86261bc3178e17109d76af12", null ],
-    [ "EnterEvadeMode", "d8/d0d/a19767.html#acc8115216989b34593a9435eeb051eda", null ],
-    [ "JustEngagedWith", "d8/d0d/a19767.html#add93f68bc96b3c93dc0a3271543711e6", null ],
-    [ "UpdateAI", "d8/d0d/a19767.html#a962745569b07e368067ee483d2379840", null ]
+    [ "HandleAfterCast", "d8/d0d/a19767.html#ac816f81a668ac3018be8f5dc4698039b", null ],
+    [ "HandleDummy", "d8/d0d/a19767.html#a3009faa525c22779a0b2534b96821cfd", null ],
+    [ "PrepareSpellScript", "d8/d0d/a19767.html#aca38f23f080314ab73ec2494bf877716", null ],
+    [ "Register", "d8/d0d/a19767.html#aa87e57dabec6e83029f4dd84913f22ca", null ],
+    [ "Validate", "d8/d0d/a19767.html#af945e399992deb3aef5c81ad393ee50f", null ]
 ];

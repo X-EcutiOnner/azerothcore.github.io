@@ -1,6 +1,7 @@
 var a27151 =
 [
-    [ "CheckCast", "d3/dca/a27151.html#ada9b1c9e159956cb2a79610dbdb3eaf9", null ],
-    [ "PrepareSpellScript", "d3/dca/a27151.html#aa9cc041f2e0dae1eb322713d4f140ce8", null ],
-    [ "Register", "d3/dca/a27151.html#a5f0b69ffebb256d5ee2c0f9d4615c4e6", null ]
+    [ "HandleProc", "d3/dca/a27151.html#ac65d59f4632194120b58b34561f2c812", null ],
+    [ "PrepareAuraScript", "d3/dca/a27151.html#ac9ab849c618fb1172dbde50876a4f5f3", null ],
+    [ "Register", "d3/dca/a27151.html#aea263594afe1d0e2fe3fac906dfb7e4e", null ],
+    [ "Validate", "d3/dca/a27151.html#afe98e7e6dfbe3bcdaaa353e608dc69d6", null ]
 ];

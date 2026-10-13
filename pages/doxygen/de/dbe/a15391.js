@@ -1,6 +1,7 @@
 var a15391 =
 [
-    [ "npc_cos_stratholme_citizienAI", "db/d0d/a15395.html", "db/d0d/a15395" ],
-    [ "npc_cos_stratholme_citizien", "de/dbe/a15391.html#a92f8d88ecfa9cc47d6799107e5de0107", null ],
-    [ "GetAI", "de/dbe/a15391.html#a4f5f132b903241021a4e53dd60c0f43b", null ]
+    [ "npc_cos_chromie_middle", "de/dbe/a15391.html#a1bb7229781c122d362e781d2737d0fd3", null ],
+    [ "OnGossipHello", "de/dbe/a15391.html#a105b62bd24fe3912c0f66c234a6dc670", null ],
+    [ "OnGossipSelect", "de/dbe/a15391.html#a37ebdd257ef22554c81cf3c062856141", null ],
+    [ "OnQuestAccept", "de/dbe/a15391.html#ad9e733b4dd69f58d880aebcfe06cbf96", null ]
 ];

@@ -1,6 +1,6 @@
 var a17603 =
 [
-    [ "npc_pos_martin_or_gorkun_secondAI", "d1/df8/a17607.html", "d1/df8/a17607" ],
-    [ "npc_pos_martin_or_gorkun_second", "d2/d00/a17603.html#a3027c88a65aa523cc99f2fa79e1e376c", null ],
-    [ "GetAI", "d2/d00/a17603.html#a180936e3bb98eb55d29ebd51350906c0", null ]
+    [ "npc_pos_collapsing_icicleAI", "d1/df8/a17607.html", "d1/df8/a17607" ],
+    [ "npc_pos_collapsing_icicle", "d2/d00/a17603.html#a42b29fe5d4e106c1e5e5b866a0074664", null ],
+    [ "GetAI", "d2/d00/a17603.html#a96969ebe749b49ceb38920c63ec6fce3", null ]
 ];

@@ -1,6 +1,7 @@
 var a24203 =
 [
-    [ "npc_ancestral_wolfAI", "d4/dd1/a24207.html", "d4/dd1/a24207" ],
-    [ "npc_ancestral_wolf", "da/db2/a24203.html#a7cadf2848a086db63792f8068ee9463d", null ],
-    [ "GetAI", "da/db2/a24203.html#a201255a64d4e742ba8b118b4f2ec5cd5", null ]
+    [ "HandleDummy", "da/db2/a24203.html#a08f2f0aef00ce075572ff84643905a0a", null ],
+    [ "PrepareSpellScript", "da/db2/a24203.html#ac1aacfbd71224d80eaed0b9a76ff673f", null ],
+    [ "Register", "da/db2/a24203.html#a2046ac7f24989ff0bf50a3ee66dda104", null ],
+    [ "Validate", "da/db2/a24203.html#aded9f2e46cc3bf46f5699ce6fdf154ba", null ]
 ];

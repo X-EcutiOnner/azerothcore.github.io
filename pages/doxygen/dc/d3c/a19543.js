@@ -1,12 +1,13 @@
 var a19543 =
 [
-    [ "boss_faerlinaAI", "dc/d3c/a19543.html#a3a97178599b9053c23a079ed1a2ed163", null ],
-    [ "JustDied", "dc/d3c/a19543.html#a7ac2e510568a9dad710beaad42db0544", null ],
-    [ "JustEngagedWith", "dc/d3c/a19543.html#a830dfa4fed62b4588ea8866174d3653a", null ],
-    [ "KilledUnit", "dc/d3c/a19543.html#a6f7a6e66abcf4f4dd685bbb805920900", null ],
-    [ "MoveInLineOfSight", "dc/d3c/a19543.html#aa5cd735c22d46e1b756f87f3952033a1", null ],
-    [ "Reset", "dc/d3c/a19543.html#acee81492b9b751df587a3a2cdd691ab3", null ],
-    [ "SpellHit", "dc/d3c/a19543.html#aa4fac163e31dcd9353238f993259d5ec", null ],
-    [ "SummonHelpers", "dc/d3c/a19543.html#af2fbf866f87d568ee6028f0931d3b74e", null ],
-    [ "_introDone", "dc/d3c/a19543.html#a9febd1d69c27140ddd2ac018181c67ec", null ]
+    [ "boss_anubrekhan", "dc/d3c/a19543.html#ad748de528ca78739236b9586ddaa19bd", null ],
+    [ "JustDied", "dc/d3c/a19543.html#a9dfb1b89c4f47235e463d90f17522113", null ],
+    [ "JustEngagedWith", "dc/d3c/a19543.html#a97d56653381e7a7f8c724263148cd61e", null ],
+    [ "JustSummoned", "dc/d3c/a19543.html#af1a01ff6c9790e1660619767c16cfd94", null ],
+    [ "KilledUnit", "dc/d3c/a19543.html#a73906e3681c767e5818d380e77525ba2", null ],
+    [ "MoveInLineOfSight", "dc/d3c/a19543.html#a9fcbc921973e0bd02867217d15efcc64", null ],
+    [ "Reset", "dc/d3c/a19543.html#a1a495fddf89c4c92136d1fd61fba6594", null ],
+    [ "SummonCryptGuards", "dc/d3c/a19543.html#a30d2e7464cffc6894882897ed0d66c6a", null ],
+    [ "SummonedCreatureDies", "dc/d3c/a19543.html#a12b4f2878b54f5bd34c470d2c7b40098", null ],
+    [ "_sayGreet", "dc/d3c/a19543.html#a7f61eb4aab4d0bf81480dea011b11f95", null ]
 ];

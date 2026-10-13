@@ -1,7 +1,8 @@
 var a17123 =
 [
-    [ "HandleEffectPeriodic", "dd/d93/a17123.html#af35c55035257f69c9cd562dc74b7d4cd", null ],
-    [ "PrepareAuraScript", "dd/d93/a17123.html#a79f9b0144483c0e52954cd5aea325695", null ],
-    [ "Register", "dd/d93/a17123.html#ab37e9b452b4675826aaab7908770ebf8", null ],
-    [ "Validate", "dd/d93/a17123.html#aea8004330ceef416b3e138528fdb1853", null ]
+    [ "npc_mistress_of_pain", "dd/d93/a17123.html#a3311d05b0b692e4d70de95ded21df23a", null ],
+    [ "EnterEvadeMode", "dd/d93/a17123.html#a7d2e4cb30dbcf4993dbffd9bdd7b2db3", null ],
+    [ "JustDied", "dd/d93/a17123.html#aa34fc8f7625f31fc872edd15d3c48686", null ],
+    [ "Reset", "dd/d93/a17123.html#a0205ff2af278a7d6e44f0bfc179b022e", null ],
+    [ "UpdateAI", "dd/d93/a17123.html#a5a6edfb39ee3fb710cd42311dc10b034", null ]
 ];

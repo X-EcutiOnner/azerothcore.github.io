@@ -1,7 +1,7 @@
 var a01304 =
 [
-    [ "npc_preparations_for_war_vehicle", "db/dd4/a21811.html", "db/dd4/a21811" ],
-    [ "npc_warmage_violetstand", "d3/d9d/a21815.html", "d3/d9d/a21815" ],
+    [ "npc_preparations_for_war_vehicle", "d8/d27/a21823.html", "d8/d27/a21823" ],
+    [ "npc_warmage_violetstand", "d9/dbe/a21827.html", "d9/dbe/a21827" ],
     [ "ePreparationsForWar", "d6/dae/a01304.html#aa1f5da50609df8a5db6588a5aef4dfa1", [
       [ "NPC_CLOUDBUSTER", "d6/dae/a01304.html#aa1f5da50609df8a5db6588a5aef4dfa1afa07f0b51a484de98e7c55105c1235fa", null ],
       [ "NPC_HAMMERHEAD", "d6/dae/a01304.html#aa1f5da50609df8a5db6588a5aef4dfa1ad1b13588c08e2e01417692b4885a4872", null ],
@@ -80,6 +80,7 @@ var a01304 =
       [ "NPC_JARAXXUS", "d4/d49/a01316.html#a6986ec7b2d3274669934af9795f26d5caac25095e3ea26543a51245351b82d3d7", null ],
       [ "NPC_MISTRESS_OF_PAIN", "d4/d49/a01316.html#a6986ec7b2d3274669934af9795f26d5ca1d4846e8c3400fd4728fb92351b215cc", null ],
       [ "NPC_PURPLE_GROUND", "d4/d49/a01316.html#a6986ec7b2d3274669934af9795f26d5ca2b97ccf88d83f82ac619a6d4e2077d81", null ],
+      [ "NPC_OPEN_PORTAL_TARGET", "d4/d49/a01316.html#a6986ec7b2d3274669934af9795f26d5ca635705b91a221603d376c9ebd6eeae9b", null ],
       [ "NPC_WORLD_TRIGGER", "d4/d49/a01316.html#a6986ec7b2d3274669934af9795f26d5ca2de54d34271fcadd2d72ee13d7e0ce48", null ],
       [ "NPC_ALLIANCE_DEATH_KNIGHT", "d4/d49/a01316.html#a6986ec7b2d3274669934af9795f26d5cac814570020251c58c21064800d5b1531", null ],
       [ "NPC_ALLIANCE_DRUID_BALANCE", "d4/d49/a01316.html#a6986ec7b2d3274669934af9795f26d5ca1efd8ce013cc476a436c3893435a0c05", null ],
@@ -888,6 +889,8 @@ var a01304 =
       [ "SPELL_ARMAGEDDON_MISSILE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca8c377b8b69d0dbe801ea2d87064096b3", null ],
       [ "SPELL_CUSTOM_08_STATE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cae69e2264948bdd529250fbebad159275", null ],
       [ "SPELL_DESTROY_ALL_DRAKES", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca7485400f7f3c06376aba102ad64ffddf", null ],
+      [ "SPELL_KNOCKBACK", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca27fe30ac398369e590388303632044c8", null ],
+      [ "SPELL_SWAT", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cad0ed6ff1cfea07c54007f4d3a4fc1d78", null ],
       [ "SPELL_SINISTER_REFLECTION_SUMMON", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca71f16716214f1f22b82cc0a0e0ea4c82", null ],
       [ "SPELL_SINISTER_REFLECTION_CLASS", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca694ff4e39c65fe5ba7f0abd5e7da9091", null ],
       [ "SPELL_SINISTER_REFLECTION_CLONE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cab8620ab50f2f9bd8645774fcc6230a0b", null ],

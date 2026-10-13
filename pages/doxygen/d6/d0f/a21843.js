@@ -1,6 +1,5 @@
 var a21843 =
 [
-    [ "npc_mageguard_dalaranAI", "d0/de6/a21847.html", "d0/de6/a21847" ],
-    [ "npc_mageguard_dalaran", "d6/d0f/a21843.html#a0cec4f232b665325c421cecb5839885f", null ],
-    [ "GetAI", "d6/d0f/a21843.html#a10cbddceb53a2d432da2224128c59b28", null ]
+    [ "npc_mei_francis_mountAI", "d6/d0f/a21843.html#aa9886ead02754faebff8b21eeb85dee6", null ],
+    [ "CanBeSeen", "d6/d0f/a21843.html#ad5e33495339a0315bc7b01351810157e", null ]
 ];

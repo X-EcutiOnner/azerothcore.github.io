@@ -1,9 +1,13 @@
 var a20775 =
 [
-    [ "npc_ulduar_bot_summon_trigger", "d8/da0/a20775.html#a16d36c154b6851c0081cc05f838b0fed", null ],
-    [ "DoAction", "d8/da0/a20775.html#a776782a85892d2d674773573be25bfa0", null ],
-    [ "Reset", "d8/da0/a20775.html#a4ec8487028b188347cf0c9a080076fe6", null ],
-    [ "UpdateAI", "d8/da0/a20775.html#a788d3eaba382e3af897678f6709a0242", null ],
-    [ "_option", "d8/da0/a20775.html#a39c909b67fcdc81542470b6e96256fd5", null ],
-    [ "_timer", "d8/da0/a20775.html#a2530742a19275efe92eeded4dce67567", null ]
+    [ "npc_ulduar_mimiron_rocket", "d8/da0/a20775.html#abd32fde821053b6c8aa3dd83e25b6ad6", null ],
+    [ "GetGUID", "d8/da0/a20775.html#ad8415989fc73f29462ee1787508ec033", null ],
+    [ "InitializeAI", "d8/da0/a20775.html#ac7fd972d6b973240256ee8b0af57ffad", null ],
+    [ "Reset", "d8/da0/a20775.html#a982da2f2392882a86e72de4c4769fa41", null ],
+    [ "SetGUID", "d8/da0/a20775.html#aa9945bc616b99d242a4f8ec1320f8612", null ],
+    [ "UpdateAI", "d8/da0/a20775.html#a20a914900db345aa00a9e640bc5b1baf", null ],
+    [ "_events", "d8/da0/a20775.html#a823d53f96e82b0a89a62c57d84eaad29", null ],
+    [ "_strikeTrigger", "d8/da0/a20775.html#a9da436d0769e8ae067a523bc2e4551cc", null ],
+    [ "_strikeVictim", "d8/da0/a20775.html#a550ce28cd2fe93e262633c9c686c8b7f", null ],
+    [ "_travelMs", "d8/da0/a20775.html#a2740bdfe8f7f6909e9fcdf1e800d4eb3", null ]
 ];

@@ -1,12 +1,5 @@
 var a20451 =
 [
-    [ "boss_freya_elder_stonebark", "d4/d64/a20451.html#ad379afe772ff29d689bc763786d28793", null ],
-    [ "DamageTaken", "d4/d64/a20451.html#a1a6b9897ffff95b29de351d02411f216", null ],
-    [ "JustDied", "d4/d64/a20451.html#a32df2ec9d4e24c6a8f7fddefc4b5e61f", null ],
-    [ "JustEngagedWith", "d4/d64/a20451.html#a363a639d65fb746cca3410427f8a1e10", null ],
-    [ "KilledUnit", "d4/d64/a20451.html#ae10b5a8a477107432cbcc93c4da9c3ec", null ],
-    [ "Reset", "d4/d64/a20451.html#ac1edb11c975123a59bc4099acdefcd0f", null ],
-    [ "UpdateAI", "d4/d64/a20451.html#a913cd147d5a88189e183d817357946e3", null ],
-    [ "_chargesCount", "d4/d64/a20451.html#adc75d1735bc32fad8cad2abf4d8712fa", null ],
-    [ "events", "d4/d64/a20451.html#a5d88a59b9c98981c3f7f049701fc76e3", null ]
+    [ "achievement_flame_leviathan_unbroken", "d4/d64/a20451.html#a30a94a92aacc558d6833994c11f3ee8a", null ],
+    [ "OnCheck", "d4/d64/a20451.html#a78c69e3217b6598ab238a4f51ba598eb", null ]
 ];

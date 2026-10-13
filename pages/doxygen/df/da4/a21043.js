@@ -1,8 +1,8 @@
 var a21043 =
 [
-    [ "CheckProc", "df/da4/a21043.html#a2bbcd3aca15eb271759c2a64276bb9d3", null ],
-    [ "HandleProc", "df/da4/a21043.html#a6761dd910808090d78c9b9ad88ba7bda", null ],
-    [ "PrepareAuraScript", "df/da4/a21043.html#ab9f98c6a93f31b2c76ca75c8fe7c2c60", null ],
-    [ "Register", "df/da4/a21043.html#a430a5c4d0e3f77d4d966a4bf8f629e1e", null ],
-    [ "Validate", "df/da4/a21043.html#a683a37c787ae5797d8c68aca1af0742a", null ]
+    [ "npc_xt_toy_pile", "df/da4/a21043.html#a843e7d05cf62baa5c006077f8dad107d", null ],
+    [ "SpellHit", "df/da4/a21043.html#a82af3830eaf524c587334e8eb193925f", null ],
+    [ "_lastSummonTime", "df/da4/a21043.html#aaa8e3581f39206c30f1b7de9a81f1387", null ],
+    [ "SummonCooldown", "df/da4/a21043.html#ab0924af7ecfd54f1744b11af76ca2834", null ],
+    [ "SummonDistance", "df/da4/a21043.html#a3adcb7a8f6ad7b515719794e0ddca964", null ]
 ];

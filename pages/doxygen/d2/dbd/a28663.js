@@ -1,11 +1,6 @@
 var a28663 =
 [
-    [ "npc_air_force_botsAI", "d2/dbd/a28663.html#a062eb272826d52ffd9b72054f970b761", null ],
-    [ "GetSummonedGuard", "d2/dbd/a28663.html#ac4f39049ba15caf314939f12b82ccd05", null ],
-    [ "MoveInLineOfSight", "d2/dbd/a28663.html#a474231c0ce93b4db0789bcc8f6767c19", null ],
-    [ "Reset", "d2/dbd/a28663.html#a016911d354f3b00e2db3e4f3722cda7f", null ],
-    [ "SummonGuard", "d2/dbd/a28663.html#a8da57471dfa875f55f52c3d2b068a0f3", null ],
-    [ "SpawnAssoc", "d2/dbd/a28663.html#a6f2f7ffd24dd32780c441fd6ce29dfbf", null ],
-    [ "SpawnedFactionTemplate", "d2/dbd/a28663.html#a1cf2c5c3c7f3f0669f14f4543dbfd5dc", null ],
-    [ "SpawnedGUID", "d2/dbd/a28663.html#a3c8ae595a3b4a436c2f94aa84cb9ee56", null ]
+    [ "npc_target_dummy", "d2/dbd/a28663.html#a097033431f3bfa2e5e05ab1c76b0a4fa", null ],
+    [ "Reset", "d2/dbd/a28663.html#a3fcccbe2c48bf5e076e8b016195e1469", null ],
+    [ "UpdateAI", "d2/dbd/a28663.html#a32e9e139a54375b336c112deee3687cd", null ]
 ];

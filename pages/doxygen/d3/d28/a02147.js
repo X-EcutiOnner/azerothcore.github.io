@@ -1,10 +1,10 @@
 var a02147 =
 [
-    [ "boss_twinemperorsAI", "df/de5/a15803.html", "df/de5/a15803" ],
-    [ "boss_veknilash", "db/d52/a15807.html", "db/d52/a15807" ],
-    [ "boss_veklor", "d4/d64/a15811.html", "d4/d64/a15811" ],
-    [ "at_twin_emperors", "d8/d1f/a15815.html", "d8/d1f/a15815" ],
-    [ "spell_mutate_explode_bug", "d8/dac/a15819.html", "d8/dac/a15819" ],
+    [ "boss_twinemperorsAI", "db/d52/a15807.html", "db/d52/a15807" ],
+    [ "boss_veknilash", "d4/d64/a15811.html", "d4/d64/a15811" ],
+    [ "boss_veklor", "d8/d1f/a15815.html", "d8/d1f/a15815" ],
+    [ "at_twin_emperors", "d8/dac/a15819.html", "d8/dac/a15819" ],
+    [ "spell_mutate_explode_bug", "d9/d28/a15823.html", "d9/d28/a15823" ],
     [ "Actions", "d3/d28/a02147.html#a250372292659bed7ae290d8621f88ccf", [
       [ "ACTION_GUNSHIP_READY", "d7/da8/a02522.html#a250372292659bed7ae290d8621f88ccfaae8bb35d65ee37e4d232e2a67aeca581", null ],
       [ "ACTION_TELEPORT_PLAYER_TO_TRANSPORT", "d7/da8/a02522.html#a250372292659bed7ae290d8621f88ccfa6b86b0986a459bb245b3a3cd8b75040c", null ],
@@ -1571,6 +1571,8 @@ var a02147 =
       [ "SPELL_ARMAGEDDON_MISSILE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca8c377b8b69d0dbe801ea2d87064096b3", null ],
       [ "SPELL_CUSTOM_08_STATE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cae69e2264948bdd529250fbebad159275", null ],
       [ "SPELL_DESTROY_ALL_DRAKES", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca7485400f7f3c06376aba102ad64ffddf", null ],
+      [ "SPELL_KNOCKBACK", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca27fe30ac398369e590388303632044c8", null ],
+      [ "SPELL_SWAT", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cad0ed6ff1cfea07c54007f4d3a4fc1d78", null ],
       [ "SPELL_SINISTER_REFLECTION_SUMMON", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca71f16716214f1f22b82cc0a0e0ea4c82", null ],
       [ "SPELL_SINISTER_REFLECTION_CLASS", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca694ff4e39c65fe5ba7f0abd5e7da9091", null ],
       [ "SPELL_SINISTER_REFLECTION_CLONE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cab8620ab50f2f9bd8645774fcc6230a0b", null ],

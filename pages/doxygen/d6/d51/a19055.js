@@ -1,6 +1,6 @@
 var a19055 =
 [
-    [ "HandleScript", "d6/d51/a19055.html#a567509ccadbc74b3ba9e420f08a0c2b4", null ],
-    [ "PrepareSpellScript", "d6/d51/a19055.html#aac5f2cb3e5f498ae46598e95eece825d", null ],
-    [ "Register", "d6/d51/a19055.html#a11c40abf4db37e1498b1a7ee5089f083", null ]
+    [ "npc_gluttonous_abominationAI", "dd/de6/a19059.html", "dd/de6/a19059" ],
+    [ "npc_gluttonous_abomination", "d6/d51/a19055.html#a895d1afcfc62bcaac6cc0d20465f1e7a", null ],
+    [ "GetAI", "d6/d51/a19055.html#aedbd808da5e8ea0e2111e78be9d846ce", null ]
 ];

@@ -1,12 +1,12 @@
 var a20059 =
 [
-    [ "boss_loken", "d4/dcf/a20059.html#a50ba322cf0adb3030444bf8fde4dba0c", null ],
-    [ "JustDied", "d4/dcf/a20059.html#a6bf8e999ebb5581dd1bd03ed6b96a1dc", null ],
-    [ "JustEngagedWith", "d4/dcf/a20059.html#aca09a816f57dea1c7c132258a6d0e5ba", null ],
-    [ "KilledUnit", "d4/dcf/a20059.html#a85ae3094927f7484216b44582f9a2bf6", null ],
-    [ "MoveInLineOfSight", "d4/dcf/a20059.html#ac9f3115629e5595d06c213d3e04afa68", null ],
-    [ "OnAuraRemove", "d4/dcf/a20059.html#adc35dee5a25820bd080b4d610d6cfc37", null ],
-    [ "Reset", "d4/dcf/a20059.html#abe6a1192eb9e4d5afa65dcc01b4472ec", null ],
-    [ "ScheduleTasks", "d4/dcf/a20059.html#a600e211be40226679212a7078b26f3ed", null ],
-    [ "_introDone", "d4/dcf/a20059.html#a348b7ef60fb815fb160e7f348b8f7af4", null ]
+    [ "npc_spark_of_ionar", "d4/dcf/a20059.html#a93df0828e409a44008257294855f8d7a", null ],
+    [ "AttackStart", "d4/dcf/a20059.html#a36181ef97213713c104edf4b085bc46e", null ],
+    [ "DamageTaken", "d4/dcf/a20059.html#a8588089b67b8b53a9e3dead149aaa5f7", null ],
+    [ "DoAction", "d4/dcf/a20059.html#ac9f1cb076f8d9072c88343f2deb7c0a0", null ],
+    [ "MoveInLineOfSight", "d4/dcf/a20059.html#a1316e69a928d28c805a94bb2bb6f557a", null ],
+    [ "Reset", "d4/dcf/a20059.html#a1a7c2e034333efdc80117b03f2e6740e", null ],
+    [ "UpdateAI", "d4/dcf/a20059.html#ae251d676f0505db2383e61ef007932a0", null ],
+    [ "_events", "d4/dcf/a20059.html#a73265e8783c32a09c9d4ee13f1ecba58", null ],
+    [ "returning", "d4/dcf/a20059.html#acd1c868f422a7758ce19f6ef7f5bda17", null ]
 ];

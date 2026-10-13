@@ -1,6 +1,6 @@
 var a19859 =
 [
-    [ "ChargeRifts", "dc/d31/a19859.html#aec98a12dec1f2ad98e00d399b0e2a1d5", null ],
-    [ "Execute", "dc/d31/a19859.html#a8d01bf861d37c25413dc14eee16a2939", null ],
-    [ "_caster", "dc/d31/a19859.html#a3cbf5f7e26de337dadd9d96a43d728b0", null ]
+    [ "HandleScript", "dc/d31/a19859.html#aaa7bd24d0b1245e0c2b04c21fa4ef85c", null ],
+    [ "PrepareSpellScript", "dc/d31/a19859.html#ad1eae4d206e9e9e48230f60a2961fddb", null ],
+    [ "Register", "dc/d31/a19859.html#ae6685e7fd80373f2fc9a37cd4065f8b6", null ]
 ];

@@ -1,6 +1,8 @@
 var a13215 =
 [
-    [ "boss_mr_smiteAI", "df/d91/a13219.html", "df/d91/a13219" ],
-    [ "boss_mr_smite", "da/dad/a13215.html#a011d41112ef7376b71d2959f806be262", null ],
-    [ "GetAI", "da/dad/a13215.html#a619ca0aede1eb33f992328048319c4f0", null ]
+    [ "npc_lava_spawn", "da/dad/a13215.html#aff97441b2cfbcd68e0788be022ee6236", null ],
+    [ "JustEngagedWith", "da/dad/a13215.html#a3b93df8de3c0f8a50768b860cfa11b72", null ],
+    [ "Reset", "da/dad/a13215.html#ab774d354991c90b1421e6783c0513e59", null ],
+    [ "UpdateAI", "da/dad/a13215.html#a6a17c8c40b0110b688ff5faef5585185", null ],
+    [ "_scheduler", "da/dad/a13215.html#ab7a6b2beec095f3f903ad4443813cfce", null ]
 ];

@@ -1,6 +1,6 @@
 var a26803 =
 [
-    [ "CalculateAmount", "de/d24/a26803.html#acc2c4cea16dfa30c49387ac166cef560", null ],
-    [ "PrepareAuraScript", "de/d24/a26803.html#a8d7e840994ba5034a249171dbfc016a6", null ],
-    [ "Register", "de/d24/a26803.html#a018d2a8a106a621730fcaa1d500df7b1", null ]
+    [ "FilterTargets", "de/d24/a26803.html#aad5d183d0d7ea229cbfc11f751536624", null ],
+    [ "PrepareSpellScript", "de/d24/a26803.html#a68ba19142ae6eb04a2547495233700df", null ],
+    [ "Register", "de/d24/a26803.html#a22c313409438f94d29ab3e236a56c115", null ]
 ];

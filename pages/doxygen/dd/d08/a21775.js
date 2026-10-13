@@ -1,6 +1,6 @@
 var a21775 =
 [
-    [ "npc_bloodmage_laurithAI", "d2/d91/a21779.html", "d2/d91/a21779" ],
-    [ "npc_bloodmage_laurith", "dd/d08/a21775.html#a40ab80342ddc86afca3b1bd37b1ca6b5", null ],
-    [ "GetAI", "dd/d08/a21775.html#a5a5151a56de3ad1012d9a795dbfb5bd5", null ]
+    [ "npc_hidden_cultistAI", "d2/d91/a21779.html", "d2/d91/a21779" ],
+    [ "npc_hidden_cultist", "dd/d08/a21775.html#ab455b35fea966360e01fb8975adad989", null ],
+    [ "GetAI", "dd/d08/a21775.html#a4897006d9416f1177b0bc0e41df60293", null ]
 ];

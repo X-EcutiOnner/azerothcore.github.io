@@ -1,5 +1,9 @@
 var a17987 =
 [
-    [ "achievement_ive_gone_and_made_a_mess", "dd/d18/a17987.html#a0e71ea3afae02176f81231e51155c038", null ],
-    [ "OnCheck", "dd/d18/a17987.html#a638cead986783523c7c35ecb9d885b11", null ]
+    [ "FilterTargetsInitial", "dd/d18/a17987.html#acebf4a9f8c4cdd6111ae816d7c24b00f", null ],
+    [ "FilterTargetsSubsequent", "dd/d18/a17987.html#a11732039155235c287757980129d5a8e", null ],
+    [ "Load", "dd/d18/a17987.html#a467272ccd10ec0aff7ad00a567c0049c", null ],
+    [ "PrepareSpellScript", "dd/d18/a17987.html#a6f97c9c1dc71a87d2a82de646809f063", null ],
+    [ "Register", "dd/d18/a17987.html#a56a4e65df08a95fddde75162358155c2", null ],
+    [ "_target", "dd/d18/a17987.html#abdd93e8e80826c71ead1d9e44aaf865a", null ]
 ];

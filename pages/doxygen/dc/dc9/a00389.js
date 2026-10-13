@@ -1,8 +1,8 @@
 var a00389 =
 [
-    [ "boss_high_astromancer_solarian", "df/db2/a23983.html", "df/db2/a23983" ],
-    [ "spell_astromancer_wrath_of_the_astromancer", "d9/d51/a23987.html", "d9/d51/a23987" ],
-    [ "spell_astromancer_solarian_transform", "de/d95/a23991.html", "de/d95/a23991" ],
+    [ "boss_high_astromancer_solarian", "db/db0/a23995.html", "db/db0/a23995" ],
+    [ "spell_astromancer_wrath_of_the_astromancer", "d1/d16/a23999.html", "d1/d16/a23999" ],
+    [ "spell_astromancer_solarian_transform", "d9/d19/a24003.html", "d9/d19/a24003" ],
     [ "CENTER_O", "dc/dc9/a00389.html#a1b683ec7a35f03622bada41f50aac881", null ],
     [ "CENTER_X", "dc/dc9/a00389.html#affb36ca3a6519ca609cfa9a0d70a682a", null ],
     [ "CENTER_Y", "dc/dc9/a00389.html#a65dba9379097de8ea0bb4afd9d504b2b", null ],
@@ -1411,6 +1411,8 @@ var a00389 =
       [ "SPELL_ARMAGEDDON_MISSILE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca8c377b8b69d0dbe801ea2d87064096b3", null ],
       [ "SPELL_CUSTOM_08_STATE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cae69e2264948bdd529250fbebad159275", null ],
       [ "SPELL_DESTROY_ALL_DRAKES", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca7485400f7f3c06376aba102ad64ffddf", null ],
+      [ "SPELL_KNOCKBACK", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca27fe30ac398369e590388303632044c8", null ],
+      [ "SPELL_SWAT", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cad0ed6ff1cfea07c54007f4d3a4fc1d78", null ],
       [ "SPELL_SINISTER_REFLECTION_SUMMON", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca71f16716214f1f22b82cc0a0e0ea4c82", null ],
       [ "SPELL_SINISTER_REFLECTION_CLASS", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca694ff4e39c65fe5ba7f0abd5e7da9091", null ],
       [ "SPELL_SINISTER_REFLECTION_CLONE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cab8620ab50f2f9bd8645774fcc6230a0b", null ],

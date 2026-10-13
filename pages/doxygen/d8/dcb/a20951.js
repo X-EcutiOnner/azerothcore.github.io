@@ -1,11 +1,14 @@
 var a20951 =
 [
-    [ "boss_thorim_runic_colossus", "d8/dcb/a20951.html#a3beda3351911803a0c0ea719256c4514", null ],
-    [ "JustDied", "d8/dcb/a20951.html#a9682ccf2c6109888385fd621ecac16a4", null ],
-    [ "JustEngagedWith", "d8/dcb/a20951.html#ad18388379fc026c1bf707eee8fae9826", null ],
-    [ "Reset", "d8/dcb/a20951.html#a5a6d3e8c1e756fe9a982c6be215a0577", null ],
-    [ "SpellHit", "d8/dcb/a20951.html#a9787e064886ddee55bc2434c6d4f1927", null ],
-    [ "UpdateAI", "d8/dcb/a20951.html#a470b0571db91075603504d91fb13721c", null ],
-    [ "_checkTarget", "d8/dcb/a20951.html#a16c4b7194f1db8710732b35189823efe", null ],
-    [ "events", "d8/dcb/a20951.html#a859e1d83f4002c8017d5d8f8fdf34a1e", null ]
+    [ "boss_thorim_start_npcs", "d8/dcb/a20951.html#a3ed7da48fc86ea00124181bb943a778d", null ],
+    [ "DamageTaken", "d8/dcb/a20951.html#a4821ee0619dac4cdcd9434f57d83f0c9", null ],
+    [ "JustEngagedWith", "d8/dcb/a20951.html#a636dd7264dd01aa5fc3c69af17425103", null ],
+    [ "JustReachedHome", "d8/dcb/a20951.html#a1a297f2937ab9ca9a13de939ba6f6522", null ],
+    [ "Reset", "d8/dcb/a20951.html#a37092466e579fe54a1dffe2ae0a2f689", null ],
+    [ "SetGUID", "d8/dcb/a20951.html#aed0b8ed5c502b47e7274af920b9e927b", null ],
+    [ "StartMockBattle", "d8/dcb/a20951.html#aa5566eb0feda227eb150ffe61fc3c67d", null ],
+    [ "UpdateAI", "d8/dcb/a20951.html#a7cca60ceab19727e68fcd4a3629978c4", null ],
+    [ "_isCaster", "d8/dcb/a20951.html#aa3c48c6d8d548cb39a6c7eea8f807dde", null ],
+    [ "_playerAttack", "d8/dcb/a20951.html#ab1bf0c011692377fc591610c5131d5e2", null ],
+    [ "events", "d8/dcb/a20951.html#affdeecbfa6bb62659c4a2f5ef1d1fafa", null ]
 ];

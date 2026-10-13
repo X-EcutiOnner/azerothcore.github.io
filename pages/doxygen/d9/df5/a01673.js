@@ -1,9 +1,9 @@
 var a01673 =
 [
-    [ "instance_shadowfang_keep", "dc/d44/a13691.html", "dc/d44/a13691" ],
-    [ "instance_shadowfang_keep::instance_shadowfang_keep_InstanceMapScript", "d9/d98/a13695.html", "d9/d98/a13695" ],
-    [ "spell_shadowfang_keep_haunting_spirits_aura", "dc/df9/a13699.html", "dc/df9/a13699" ],
-    [ "spell_shadowfang_keep_forsaken_skills_aura", "d1/da4/a13703.html", "d1/da4/a13703" ],
+    [ "instance_shadowfang_keep", "d9/d98/a13695.html", "d9/d98/a13695" ],
+    [ "instance_shadowfang_keep::instance_shadowfang_keep_InstanceMapScript", "dc/df9/a13699.html", "dc/df9/a13699" ],
+    [ "spell_shadowfang_keep_haunting_spirits_aura", "d1/da4/a13703.html", "d1/da4/a13703" ],
+    [ "spell_shadowfang_keep_forsaken_skills_aura", "db/d8e/a13707.html", "db/d8e/a13707" ],
     [ "ForsakenSpells", "d9/df5/a01673.html#a389d5779db9178608ade2fdc2e7a2d66", [
       [ "SPELL_FORSAKEN_SKILL_SWORD", "d9/df5/a01673.html#a389d5779db9178608ade2fdc2e7a2d66a66434c0d78770abb5cb5e3a50074f5cb", null ],
       [ "SPELL_FORSAKEN_SKILL_SHADOW", "d9/df5/a01673.html#a389d5779db9178608ade2fdc2e7a2d66ab350c0bad170d89027779476282a594c", null ]
@@ -726,6 +726,8 @@ var a01673 =
       [ "SPELL_ARMAGEDDON_MISSILE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca8c377b8b69d0dbe801ea2d87064096b3", null ],
       [ "SPELL_CUSTOM_08_STATE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cae69e2264948bdd529250fbebad159275", null ],
       [ "SPELL_DESTROY_ALL_DRAKES", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca7485400f7f3c06376aba102ad64ffddf", null ],
+      [ "SPELL_KNOCKBACK", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca27fe30ac398369e590388303632044c8", null ],
+      [ "SPELL_SWAT", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cad0ed6ff1cfea07c54007f4d3a4fc1d78", null ],
       [ "SPELL_SINISTER_REFLECTION_SUMMON", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca71f16716214f1f22b82cc0a0e0ea4c82", null ],
       [ "SPELL_SINISTER_REFLECTION_CLASS", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca694ff4e39c65fe5ba7f0abd5e7da9091", null ],
       [ "SPELL_SINISTER_REFLECTION_CLONE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cab8620ab50f2f9bd8645774fcc6230a0b", null ],

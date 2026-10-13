@@ -1,9 +1,8 @@
 var a30043 =
 [
-    [ "SetUp", "de/dd2/a30043.html#a20b3a8161766a47ae37349f02cbe5b90", null ],
-    [ "TearDown", "de/dd2/a30043.html#a9b41e4a95a6ca160c70272dfb90b5f8a", null ],
-    [ "creatureQuestMap", "de/dd2/a30043.html#ae8b815994792f237cf6e1803b9eaa7f7", null ],
-    [ "TEST_CREATURE_ID", "de/dd2/a30043.html#a80a79959d4b5520f7acf671677a671e9", null ],
-    [ "TEST_POOL_ID", "de/dd2/a30043.html#aa81759d0539b72ad3cdda7d2231f8e63", null ],
-    [ "TEST_QUEST_ID", "de/dd2/a30043.html#a26e68107bb625d0c5b6281c7df9199be", null ]
+    [ "TestOocPlayerScript", "de/dd2/a30043.html#ad8a63387a46b252a555b5d48b0f73d55", null ],
+    [ "EnsureRegistered", "de/dd2/a30043.html#a485c732b5cc87e418e1e8b0fdb80e5b7", null ],
+    [ "OnPlayerCompleteQuest", "de/dd2/a30043.html#a7288e4227b28edebe4723c14ef56bce1", null ],
+    [ "OnPlayerLevelChanged", "de/dd2/a30043.html#a0d2fa7743649d3443f49654d55ca1558", null ],
+    [ "Instance", "de/dd2/a30043.html#a58269b1a038bfbdc8c9dafd058d16b5e", null ]
 ];

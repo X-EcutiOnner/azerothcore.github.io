@@ -1,6 +1,8 @@
 var a17303 =
 [
-    [ "boss_trollgoreAI", "d0/de2/a17307.html", "d0/de2/a17307" ],
-    [ "boss_trollgore", "d5/d10/a17303.html#a95102f1fae6c667e0780b8b388fc156b", null ],
-    [ "GetAI", "d5/d10/a17303.html#a6da1349da296a3dc3d29527a8e3c2b7d", null ]
+    [ "HandleEffectApply", "d5/d10/a17303.html#a92b98d9b9be98c330b6efbe34dae235b", null ],
+    [ "HandleEffectRemove", "d5/d10/a17303.html#a04504220319ec562b1b6691f471c1b8d", null ],
+    [ "PrepareAuraScript", "d5/d10/a17303.html#a10fd29809373bcfaf38fd587fcdd1dee", null ],
+    [ "Register", "d5/d10/a17303.html#a9160c940913e4829bd0a6fe269c3b5d3", null ],
+    [ "Validate", "d5/d10/a17303.html#a7f7750933e122e8c672b6b93f4801cd7", null ]
 ];

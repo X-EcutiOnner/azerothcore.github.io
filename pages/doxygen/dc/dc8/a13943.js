@@ -1,6 +1,7 @@
 var a13943 =
 [
-    [ "HandleEffectApply", "dc/dc8/a13943.html#a8157e8d305bc9d7da23815ae7e684a05", null ],
-    [ "PrepareAuraScript", "dc/dc8/a13943.html#ae06b9dc2d00998ce288f015bfc04b323", null ],
-    [ "Register", "dc/dc8/a13943.html#ac8e6be8aa2e8314fe2f1e22efd8e8b4a", null ]
+    [ "FilterTargets", "dc/dc8/a13943.html#ae945b657d0fbee4d5ee5d6e7d15ef39b", null ],
+    [ "HandleHit", "dc/dc8/a13943.html#a7e28d5d89f1e622f308e1a1bf7d5dae9", null ],
+    [ "PrepareSpellScript", "dc/dc8/a13943.html#a905e1f979284a368463ad4829891b6ee", null ],
+    [ "Register", "dc/dc8/a13943.html#a6b0d2fc316bef6af20199b15795b00b4", null ]
 ];

@@ -1,6 +1,7 @@
 var a26099 =
 [
-    [ "CalculateAmount", "d0/dc7/a26099.html#ad80edf403addb2d907d0d3d778b6745f", null ],
-    [ "PrepareAuraScript", "d0/dc7/a26099.html#a96c2e2cdd259d96bb7aa12eb42856cf4", null ],
-    [ "Register", "d0/dc7/a26099.html#a538ab0fdebbafa3c96183f639fe8968b", null ]
+    [ "OnRemove", "d0/dc7/a26099.html#a1f4f852ef6d5b2313df20af540eee7da", null ],
+    [ "PrepareAuraScript", "d0/dc7/a26099.html#a8abf8084dd8bb1ac74b3884380cda809", null ],
+    [ "Register", "d0/dc7/a26099.html#a35a8adc4944fc2333488e72498f6d252", null ],
+    [ "Validate", "d0/dc7/a26099.html#aa312f28f03cc0929eb9ea8ba526ebb54", null ]
 ];

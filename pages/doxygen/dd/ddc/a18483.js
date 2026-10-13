@@ -1,6 +1,6 @@
 var a18483 =
 [
-    [ "npc_little_oozeAI", "d8/dc6/a18487.html", "d8/dc6/a18487" ],
-    [ "npc_little_ooze", "dd/ddc/a18483.html#a9b0849057c1d3dd9f6507b9c80e67a66", null ],
-    [ "GetAI", "dd/ddc/a18483.html#a3e56c6dbad6239485897655a4bfbbe07", null ]
+    [ "boss_rotfaceAI", "d8/dc6/a18487.html", "d8/dc6/a18487" ],
+    [ "boss_rotface", "dd/ddc/a18483.html#a8896f5ed16c728d72a123b2e92a174fb", null ],
+    [ "GetAI", "dd/ddc/a18483.html#a8a3ff9ef99da7d72ce2f7827bfc2564b", null ]
 ];

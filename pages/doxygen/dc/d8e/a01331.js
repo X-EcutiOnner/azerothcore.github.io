@@ -1,27 +1,32 @@
 var a01331 =
 [
-    [ "npc_snobold_vassal", "d3/ddb/a17131.html", "d3/ddb/a17131" ],
-    [ "npc_snobold_vassal::npc_snobold_vassalAI", "dd/df1/a17135.html", "dd/df1/a17135" ],
-    [ "boss_gormok", "de/d5c/a17139.html", "de/d5c/a17139" ],
-    [ "boss_gormok::boss_gormokAI", "dc/d42/a17143.html", "dc/d42/a17143" ],
-    [ "boss_jormungarAI", "d1/df8/a17147.html", "d1/df8/a17147" ],
-    [ "boss_acidmaw", "da/dd8/a17151.html", "da/dd8/a17151" ],
-    [ "boss_acidmaw::boss_acidmawAI", "d7/d11/a17155.html", "d7/d11/a17155" ],
-    [ "boss_dreadscale", "d6/d6f/a17159.html", "d6/d6f/a17159" ],
-    [ "boss_dreadscale::boss_dreadscaleAI", "d1/d4a/a17163.html", "d1/d4a/a17163" ],
-    [ "spell_jormungars_paralytic_toxin_aura", "d4/de0/a17167.html", "d4/de0/a17167" ],
-    [ "boss_icehowl", "d1/d14/a17171.html", "d1/d14/a17171" ],
-    [ "boss_icehowl::boss_icehowlAI", "d1/dd8/a17175.html", "d1/dd8/a17175" ],
-    [ "spell_icehowl_jump_back", "de/d81/a17179.html", "de/d81/a17179" ],
-    [ "spell_icehowl_massive_crash", "da/d39/a17183.html", "da/d39/a17183" ],
+    [ "npc_snobold_vassal", "dd/df1/a17135.html", "dd/df1/a17135" ],
+    [ "npc_snobold_vassal::npc_snobold_vassalAI", "de/d5c/a17139.html", "de/d5c/a17139" ],
+    [ "boss_gormok", "dc/d42/a17143.html", "dc/d42/a17143" ],
+    [ "boss_gormok::boss_gormokAI", "d1/df8/a17147.html", "d1/df8/a17147" ],
+    [ "spell_gormok_jump_to_hand", "da/dd8/a17151.html", "da/dd8/a17151" ],
+    [ "boss_jormungarAI", "d7/d11/a17155.html", "d7/d11/a17155" ],
+    [ "boss_acidmaw", "d6/d6f/a17159.html", "d6/d6f/a17159" ],
+    [ "boss_acidmaw::boss_acidmawAI", "d1/d4a/a17163.html", "d1/d4a/a17163" ],
+    [ "boss_dreadscale", "d4/de0/a17167.html", "d4/de0/a17167" ],
+    [ "boss_dreadscale::boss_dreadscaleAI", "d1/d14/a17171.html", "d1/d14/a17171" ],
+    [ "spell_jormungars_paralytic_toxin_aura", "d1/dd8/a17175.html", "d1/dd8/a17175" ],
+    [ "boss_icehowl", "de/d81/a17179.html", "de/d81/a17179" ],
+    [ "boss_icehowl::boss_icehowlAI", "da/d39/a17183.html", "da/d39/a17183" ],
+    [ "spell_icehowl_jump_back", "d3/d41/a17187.html", "d3/d41/a17187" ],
+    [ "spell_icehowl_massive_crash", "d6/d46/a17191.html", "d6/d46/a17191" ],
     [ "GormokActions", "dc/d8e/a01331.html#a0def6d6c58a0d849af9617312f36c5d5", [
-      [ "ACTION_GORMOK_DIED", "dc/d8e/a01331.html#a0def6d6c58a0d849af9617312f36c5d5a83dd722143e45d4373592ae85902b41c", null ]
+      [ "ACTION_GORMOK_DIED", "dc/d8e/a01331.html#a0def6d6c58a0d849af9617312f36c5d5a83dd722143e45d4373592ae85902b41c", null ],
+      [ "ACTION_SNOBOLD_MISSED", "dc/d8e/a01331.html#a0def6d6c58a0d849af9617312f36c5d5aea583c8a6090ef0cfc639278a4c74f2b", null ]
+    ] ],
+    [ "GormokData", "dc/d8e/a01331.html#a343399fbbbf162d2c47e5abdeb066ec3", [
+      [ "DATA_RELEASED_SNOBOLD", "dc/d8e/a01331.html#a343399fbbbf162d2c47e5abdeb066ec3a531e64336b887f2ff753b4d23794c7a0", null ],
+      [ "DATA_SNOBOLD_CARRIER", "dc/d8e/a01331.html#a343399fbbbf162d2c47e5abdeb066ec3abc5e44551815131efccb88a11f575c60", null ]
     ] ],
     [ "GormokEvents", "dc/d8e/a01331.html#ac2ac05656603473719a8d058efa47bea", [
       [ "EVENT_SPELL_IMPALE", "dc/d8e/a01331.html#ac2ac05656603473719a8d058efa47beaa337b729354b4dfb11fcab3130731dbb5", null ],
       [ "EVENT_SPELL_STAGGERING_STOMP", "dc/d8e/a01331.html#ac2ac05656603473719a8d058efa47beaa9244f9c7b6a8e358b1b9490007b64128", null ],
       [ "EVENT_PICK_SNOBOLD_TARGET", "dc/d8e/a01331.html#ac2ac05656603473719a8d058efa47beaac58cec7fd10a18da326d2bbf4ab52a78", null ],
-      [ "EVENT_RELEASE_SNOBOLD", "dc/d8e/a01331.html#ac2ac05656603473719a8d058efa47beaaafb54172fc961ceac87493df0c74d87d", null ],
       [ "EVENT_SPELL_SNOBOLLED", "dc/d8e/a01331.html#ac2ac05656603473719a8d058efa47beaaf326f057c75880b8e6302a10be3e8aba", null ],
       [ "EVENT_SPELL_BATTER", "dc/d8e/a01331.html#ac2ac05656603473719a8d058efa47beaa59cf297ad07af42752d8790955a6fe9b", null ],
       [ "EVENT_SPELL_FIRE_BOMB", "dc/d8e/a01331.html#ac2ac05656603473719a8d058efa47beaa09d7b9f4af8871d8d82c9765f829a562", null ],
@@ -29,19 +34,18 @@ var a01331 =
       [ "EVENT_DISMOUNTED_ATTACK", "dc/d8e/a01331.html#ac2ac05656603473719a8d058efa47beaa1d7e9fedee1252a3569c213d9cacf61b", null ]
     ] ],
     [ "GormokNPCs", "dc/d8e/a01331.html#ace3e6fd9cd2bc524c90a6e7a95d28cfb", [
-      [ "NPC_SNOBOLD_VASSAL", "dc/d8e/a01331.html#ace3e6fd9cd2bc524c90a6e7a95d28cfba27d3b8f133394b5e83ea2baf76f7281d", null ],
-      [ "NPC_FIRE_BOMB", "dc/d8e/a01331.html#ace3e6fd9cd2bc524c90a6e7a95d28cfbac8c746f010ffb9dba052834764b5ec74", null ]
+      [ "NPC_SNOBOLD_VASSAL", "dc/d8e/a01331.html#ace3e6fd9cd2bc524c90a6e7a95d28cfba27d3b8f133394b5e83ea2baf76f7281d", null ]
     ] ],
     [ "GormokSpells", "dc/d8e/a01331.html#a9134540f938b78214a9fba529973a769", [
       [ "SPELL_IMPALE", "dc/d8e/a01331.html#a9134540f938b78214a9fba529973a769aed97c932510c91b6057175b2df166f63", null ],
       [ "SPELL_STAGGERING_STOMP", "dc/d8e/a01331.html#a9134540f938b78214a9fba529973a769abc140d9f29940e54fb6a6b98a72979a7", null ],
       [ "SPELL_RISING_ANGER", "dc/d8e/a01331.html#a9134540f938b78214a9fba529973a769a907eda8d0c124f843484a3768c09353a", null ],
-      [ "SPELL_CHANGE_VEHICLE", "dc/d8e/a01331.html#a9134540f938b78214a9fba529973a769a3d856bd5617569f31a5ba1155f5262da", null ],
+      [ "SPELL_JUMP_TO_HAND", "dc/d8e/a01331.html#a9134540f938b78214a9fba529973a769a04d7e10a04e7d32b48c85c36718859ad", null ],
       [ "SPELL_SNOBOLLED", "dc/d8e/a01331.html#a9134540f938b78214a9fba529973a769a71d875578da0ac5e5ef35114fa0fe497", null ],
       [ "SPELL_BATTER", "dc/d8e/a01331.html#a9134540f938b78214a9fba529973a769a68040025176606dd28ce098bde0c1676", null ],
       [ "SPELL_FIRE_BOMB", "dc/d8e/a01331.html#a9134540f938b78214a9fba529973a769a2a02baa6f6b0fc05418cc7cec5b10907", null ],
-      [ "SPELL_FIRE_BOMB_AURA", "dc/d8e/a01331.html#a9134540f938b78214a9fba529973a769aac17b82b05bda4ebb03cc50649402ac0", null ],
-      [ "SPELL_HEAD_CRACK", "dc/d8e/a01331.html#a9134540f938b78214a9fba529973a769adc7fa41bca93f3d02c9d7feb0ca828fc", null ]
+      [ "SPELL_HEAD_CRACK", "dc/d8e/a01331.html#a9134540f938b78214a9fba529973a769adc7fa41bca93f3d02c9d7feb0ca828fc", null ],
+      [ "SPELL_FULL_HEAL", "dc/d8e/a01331.html#a9134540f938b78214a9fba529973a769ac5cb10c3d24688bd7cbd6fb2ba4c9ad5", null ]
     ] ],
     [ "IcehowlEvents", "dc/d8e/a01331.html#afcf45c0e220933d21eea67e54cda5d14", [
       [ "EVENT_JUMP_MIDDLE", "dc/d8e/a01331.html#afcf45c0e220933d21eea67e54cda5d14aaf60d7c6ee0f9c5183faf93fcf983fa2", null ],
@@ -77,8 +81,11 @@ var a01331 =
     ] ],
     [ "JormungarEvents", "dc/d8e/a01331.html#a20526ec3ab955a91bc3f1e4bff419914", [
       [ "EVENT_SUBMERGE", "dc/d8e/a01331.html#a20526ec3ab955a91bc3f1e4bff419914ac03b7f1947bf9753f19061f508b61a73", null ],
-      [ "EVENT_EMERGE", "dc/d8e/a01331.html#a20526ec3ab955a91bc3f1e4bff419914a195f6417cd6d29f73dab0b90876d138d", null ],
+      [ "EVENT_SUBMERGED", "dc/d8e/a01331.html#a20526ec3ab955a91bc3f1e4bff419914a39af3b2c24857befba42372254668a74", null ],
+      [ "EVENT_CHURN_GROUND", "dc/d8e/a01331.html#a20526ec3ab955a91bc3f1e4bff419914a324afd594ee73f822714611f335c07a8", null ],
       [ "EVENT_MOVE_UNDERGROUND", "dc/d8e/a01331.html#a20526ec3ab955a91bc3f1e4bff419914a5b0cf17f03b3aed245d2e23679c85ab0", null ],
+      [ "EVENT_EMERGE", "dc/d8e/a01331.html#a20526ec3ab955a91bc3f1e4bff419914a195f6417cd6d29f73dab0b90876d138d", null ],
+      [ "EVENT_EMERGED", "dc/d8e/a01331.html#a20526ec3ab955a91bc3f1e4bff419914afcd562c1957d304c547f93c210a47334", null ],
       [ "EVENT_SPELL_SPRAY", "dc/d8e/a01331.html#a20526ec3ab955a91bc3f1e4bff419914ab9b1b49cb6313c292514b9e79226f272", null ],
       [ "EVENT_SPELL_SWEEP", "dc/d8e/a01331.html#a20526ec3ab955a91bc3f1e4bff419914a1fc95354bbd7f2de1b5a50caba4c97d9", null ],
       [ "EVENT_SPELL_BITE", "dc/d8e/a01331.html#a20526ec3ab955a91bc3f1e4bff419914a14fe8fc691729d27eabc2e3ec9cd23d5", null ],
@@ -86,13 +93,18 @@ var a01331 =
       [ "EVENT_SPELL_SLIME_POOL", "dc/d8e/a01331.html#a20526ec3ab955a91bc3f1e4bff419914aa6db3d3fbc718736676e7e49c46a8d6e", null ]
     ] ],
     [ "JormungarNPCs", "dc/d8e/a01331.html#adf118786f59959ccfad83692c0dc7121", [
-      [ "NPC_SLIME_POOL", "dc/d8e/a01331.html#adf118786f59959ccfad83692c0dc7121a7302c74dd3e687f8d254be99e3b33b07", null ]
+      [ "NPC_SLIME_POOL", "dc/d8e/a01331.html#adf118786f59959ccfad83692c0dc7121a7302c74dd3e687f8d254be99e3b33b07", null ],
+      [ "NPC_MOBILE_BURROW_TARGET", "dc/d8e/a01331.html#adf118786f59959ccfad83692c0dc7121aa516ec6e350b6bfa1f7488cb3a382f35", null ]
+    ] ],
+    [ "JormungarPoints", "dc/d8e/a01331.html#aff63f81b9a0be5841dca7b09cd837c3c", [
+      [ "POINT_BURROW", "dc/d8e/a01331.html#aff63f81b9a0be5841dca7b09cd837c3ca3c9fc3204450728176b6f60f6a64d7ac", null ]
     ] ],
     [ "JormungarSpells", "dc/d8e/a01331.html#a620a8fb8fa311862ccfd957ff8fce045", [
       [ "SPELL_ACID_SPIT", "dc/d8e/a01331.html#a620a8fb8fa311862ccfd957ff8fce045af69c625b663facf12cc5d8a20a280806", null ],
       [ "SPELL_ACID_SPEW", "dc/d8e/a01331.html#a620a8fb8fa311862ccfd957ff8fce045acf0f83f29d1788e903682e4aa5606697", null ],
       [ "SPELL_PARALYTIC_SPRAY", "dc/d8e/a01331.html#a620a8fb8fa311862ccfd957ff8fce045aa17807bf3ba127a8dc5368b2ac973acf", null ],
       [ "SPELL_PARALYTIC_BITE", "dc/d8e/a01331.html#a620a8fb8fa311862ccfd957ff8fce045a4f44e0832aad0a99401ba488cc2b9f06", null ],
+      [ "SPELL_PARALYSIS", "dc/d8e/a01331.html#a620a8fb8fa311862ccfd957ff8fce045a62b62ee700c42cd4b681146f102a4592", null ],
       [ "SPELL_FIRE_SPIT", "dc/d8e/a01331.html#a620a8fb8fa311862ccfd957ff8fce045a09ffd595d81d3f718944f892db4ead8a", null ],
       [ "SPELL_MOLTEN_SPEW", "dc/d8e/a01331.html#a620a8fb8fa311862ccfd957ff8fce045ac88dea777da96569095f8cd8dccf4987", null ],
       [ "SPELL_BURNING_SPRAY", "dc/d8e/a01331.html#a620a8fb8fa311862ccfd957ff8fce045a2f44d2764aa3ce270006ff6753cd132f", null ],
@@ -101,10 +113,14 @@ var a01331 =
       [ "SPELL_SLIME_POOL_EFFECT", "dc/d8e/a01331.html#a620a8fb8fa311862ccfd957ff8fce045a1892cccbc37f6959a0f3dfe0696c34c1", null ],
       [ "SPELL_SWEEP_0", "dc/d8e/a01331.html#a620a8fb8fa311862ccfd957ff8fce045a40e103790e4260c97571977e7eb7a4b0", null ],
       [ "SPELL_SWEEP_1", "dc/d8e/a01331.html#a620a8fb8fa311862ccfd957ff8fce045ac4f7f61532f669fa453543505a5e554d", null ],
-      [ "SPELL_EMERGE_0", "dc/d8e/a01331.html#a620a8fb8fa311862ccfd957ff8fce045a1985bc31980d3f290ed628117734c6bb", null ],
-      [ "SPELL_SUBMERGE_0", "dc/d8e/a01331.html#a620a8fb8fa311862ccfd957ff8fce045a68612ce86cd5272ba10822eb308b5c2a", null ],
+      [ "SPELL_SUBMERGE_STATIONARY", "dc/d8e/a01331.html#a620a8fb8fa311862ccfd957ff8fce045a2e2234e1076e873d8c4639d65ea04513", null ],
+      [ "SPELL_SUBMERGE_MOBILE", "dc/d8e/a01331.html#a620a8fb8fa311862ccfd957ff8fce045a49a5e8e6623c26d13a149a8c557298db", null ],
+      [ "SPELL_EMERGE_STATIONARY", "dc/d8e/a01331.html#a620a8fb8fa311862ccfd957ff8fce045a7f5ef1d85ef802342ea962ceddb65566", null ],
+      [ "SPELL_EMERGE_MOBILE", "dc/d8e/a01331.html#a620a8fb8fa311862ccfd957ff8fce045a9dfd2284152b91330f0fdb81683b7030", null ],
       [ "SPELL_ENRAGE", "dc/d8e/a01331.html#a620a8fb8fa311862ccfd957ff8fce045a2a20f56307679be4d4f01a0d3d93cc7e", null ],
-      [ "SPELL_CHURNING_GROUND", "dc/d8e/a01331.html#a620a8fb8fa311862ccfd957ff8fce045a42625835db53ddb481cd4b1aab6aedfe", null ]
+      [ "SPELL_CHURNING_GROUND", "dc/d8e/a01331.html#a620a8fb8fa311862ccfd957ff8fce045a42625835db53ddb481cd4b1aab6aedfe", null ],
+      [ "SPELL_CHURNING_GROUND_STATIONARY", "dc/d8e/a01331.html#a620a8fb8fa311862ccfd957ff8fce045a16234714ad540c67298f2587ef0d1742", null ],
+      [ "SPELL_HATE_TO_ZERO", "dc/d8e/a01331.html#a620a8fb8fa311862ccfd957ff8fce045a90939d295f477caf29f005dca12317e3", null ]
     ] ],
     [ "Model", "dc/d8e/a01331.html#a051e4d035e053a4636efc58c1bde9b3e", [
       [ "MODEL_ACIDMAW_STATIONARY", "dc/d8e/a01331.html#a051e4d035e053a4636efc58c1bde9b3ea6c8f0a4e9f01afe7b43428d6559851de", null ],

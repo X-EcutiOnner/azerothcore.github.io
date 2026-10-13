@@ -1,9 +1,9 @@
 var a01856 =
 [
-    [ "instance_scarlet_monastery", "d5/d5b/a13571.html", "d5/d5b/a13571" ],
-    [ "instance_scarlet_monastery::instance_scarlet_monastery_InstanceMapScript", "d7/d1f/a13575.html", "d7/d1f/a13575" ],
-    [ "spell_forgiveness_dummy_visual", "da/d8e/a13579.html", "da/d8e/a13579" ],
-    [ "spell_transform_ghost_visual", "db/dc9/a13583.html", "db/dc9/a13583" ],
+    [ "instance_scarlet_monastery", "d7/d1f/a13575.html", "d7/d1f/a13575" ],
+    [ "instance_scarlet_monastery::instance_scarlet_monastery_InstanceMapScript", "da/d8e/a13579.html", "da/d8e/a13579" ],
+    [ "spell_forgiveness_dummy_visual", "db/dc9/a13583.html", "db/dc9/a13583" ],
+    [ "spell_transform_ghost_visual", "df/db1/a13587.html", "df/db1/a13587" ],
     [ "AshbringerEventMisc", "da/d66/a01856.html#a19acf5cf631b82922ff0a2ca3149ee9d", [
       [ "NPC_COMMANDER_MOGRAINE", "da/d66/a01856.html#a19acf5cf631b82922ff0a2ca3149ee9da99fb6334a74eb255ea0b762a807f9587", null ],
       [ "NPC_INQUISITOR_WHITEMANE", "da/d66/a01856.html#a19acf5cf631b82922ff0a2ca3149ee9da097781861b71fede32d782fa6683de61", null ],
@@ -80,6 +80,7 @@ var a01856 =
       [ "DATA_ARENA_MOBS", "d2/d2f/a01586.html#afb6eb4f28419b652027fad41104a6d22ae405a4644ad229ef399425964bcbee9a", null ],
       [ "DATA_ARENA_BOSS", "d2/d2f/a01586.html#afb6eb4f28419b652027fad41104a6d22a6b452f1118390453a0a198a0e77b222b", null ],
       [ "DATA_PHALANX_ACTIVATED", "d2/d2f/a01586.html#afb6eb4f28419b652027fad41104a6d22a9aed024b657527edf9f6006b8f06992f", null ],
+      [ "DATA_LOVE_POTION_EVENT", "d2/d2f/a01586.html#afb6eb4f28419b652027fad41104a6d22ab2766ab3187804941cf5df770d8dfd90", null ],
       [ "DATA_HIGHLORD_OMOKK", "d0/da4/a01631.html#afb6eb4f28419b652027fad41104a6d22a29fa1d405bc9731e434075c768473977", null ],
       [ "DATA_SHADOW_HUNTER_VOSHGAJIN", "d0/da4/a01631.html#afb6eb4f28419b652027fad41104a6d22abd19159ba9f15227b78769ce3caa0155", null ],
       [ "DATA_WARMASTER_VOONE", "d0/da4/a01631.html#afb6eb4f28419b652027fad41104a6d22a472ea134fff9835642ba91ae5167b76c", null ],

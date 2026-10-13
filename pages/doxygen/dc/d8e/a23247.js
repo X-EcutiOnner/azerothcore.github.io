@@ -1,7 +1,6 @@
 var a23247 =
 [
-    [ "PrepareAuraScript", "dc/d8e/a23247.html#a30ec063aa1ddbc3a32066e1f868bf742", null ],
-    [ "Register", "dc/d8e/a23247.html#a1e62c60bfc2b72811950b627ce1202c3", null ],
-    [ "Update", "dc/d8e/a23247.html#a3f98767367564734c9877d1870aac31b", null ],
-    [ "Validate", "dc/d8e/a23247.html#a450460769e0e54e06f1b64b3c63ba0de", null ]
+    [ "HandleEffectRemove", "dc/d8e/a23247.html#a99f96034b5976615c38e13e5e55c61b6", null ],
+    [ "PrepareAuraScript", "dc/d8e/a23247.html#a0515a72abd37df13606876021659b995", null ],
+    [ "Register", "dc/d8e/a23247.html#ad7c8338ae3f3e6680405652c3e5f7f06", null ]
 ];

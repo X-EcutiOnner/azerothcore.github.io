@@ -1,9 +1,9 @@
 var a01832 =
 [
-    [ "boss_nightbane", "db/d8f/a13307.html", "db/d8f/a13307" ],
-    [ "go_blackened_urn", "d7/d88/a13311.html", "d7/d88/a13311" ],
-    [ "npc_nightbane_helper_target", "d3/d7c/a13315.html", "d3/d7c/a13315" ],
-    [ "spell_nightbane_fireball_barrage", "d4/dd6/a13319.html", "d4/dd6/a13319" ],
+    [ "boss_nightbane", "d7/d88/a13311.html", "d7/d88/a13311" ],
+    [ "go_blackened_urn", "d3/d7c/a13315.html", "d3/d7c/a13315" ],
+    [ "npc_nightbane_helper_target", "d4/dd6/a13319.html", "d4/dd6/a13319" ],
+    [ "spell_nightbane_fireball_barrage", "d1/d90/a13323.html", "d1/d90/a13323" ],
     [ "Actions", "dc/d06/a01832.html#a250372292659bed7ae290d8621f88ccf", [
       [ "ACTION_GUNSHIP_READY", "d7/da8/a02522.html#a250372292659bed7ae290d8621f88ccfaae8bb35d65ee37e4d232e2a67aeca581", null ],
       [ "ACTION_TELEPORT_PLAYER_TO_TRANSPORT", "d7/da8/a02522.html#a250372292659bed7ae290d8621f88ccfa6b86b0986a459bb245b3a3cd8b75040c", null ],
@@ -613,8 +613,8 @@ var a01832 =
       [ "EMOTE_TESLA_LINK_BREAKS", "d0/de2/a01442.html#a16774215bba3b38580ea51987d64cff1aa267a1374b0eaf1c2ab173916325077e", null ],
       [ "EMOTE_TESLA_OVERLOAD", "d0/de2/a01442.html#a16774215bba3b38580ea51987d64cff1aff29c894cf7f90b273496fbe66e0aab9", null ],
       [ "SAY_AGGRO", "d6/d2f/a01394.html#a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe", null ],
-      [ "SAY_DEATH", "d6/d2f/a01394.html#a16774215bba3b38580ea51987d64cff1a04c962d9b6aaafde54ff92a54369135e", null ],
       [ "SAY_KILL", "d6/d2f/a01394.html#a16774215bba3b38580ea51987d64cff1a7f4f26c3b97b953fd229ac5d308024d5", null ],
+      [ "SAY_DEATH", "d6/d2f/a01394.html#a16774215bba3b38580ea51987d64cff1a04c962d9b6aaafde54ff92a54369135e", null ],
       [ "SAY_SPAWN", "d2/d29/a01376.html#a16774215bba3b38580ea51987d64cff1ab543380783668ea87e4c4d93d0db622e", null ],
       [ "SAY_AGGRO", "d2/d29/a01376.html#a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe", null ],
       [ "SAY_ENRAGE", "d2/d29/a01376.html#a16774215bba3b38580ea51987d64cff1ac90d9311ef3cf3f33564ce22ff904f54", null ],
@@ -1505,6 +1505,8 @@ var a01832 =
       [ "SPELL_ARMAGEDDON_MISSILE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca8c377b8b69d0dbe801ea2d87064096b3", null ],
       [ "SPELL_CUSTOM_08_STATE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cae69e2264948bdd529250fbebad159275", null ],
       [ "SPELL_DESTROY_ALL_DRAKES", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca7485400f7f3c06376aba102ad64ffddf", null ],
+      [ "SPELL_KNOCKBACK", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca27fe30ac398369e590388303632044c8", null ],
+      [ "SPELL_SWAT", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cad0ed6ff1cfea07c54007f4d3a4fc1d78", null ],
       [ "SPELL_SINISTER_REFLECTION_SUMMON", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca71f16716214f1f22b82cc0a0e0ea4c82", null ],
       [ "SPELL_SINISTER_REFLECTION_CLASS", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298ca694ff4e39c65fe5ba7f0abd5e7da9091", null ],
       [ "SPELL_SINISTER_REFLECTION_CLONE", "de/dfb/a01874.html#a5bd342133be8c2137b831460acc9298cab8620ab50f2f9bd8645774fcc6230a0b", null ],

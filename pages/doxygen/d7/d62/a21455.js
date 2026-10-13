@@ -1,6 +1,6 @@
 var a21455 =
 [
-    [ "boss_svalaAI", "d9/df8/a21459.html", "d9/df8/a21459" ],
-    [ "boss_svala", "d7/d62/a21455.html#a7ac5866eb6a013cb03f3d459b13b4a62", null ],
-    [ "GetAI", "d7/d62/a21455.html#a0c3b94635eca667a28496cf799efad25", null ]
+    [ "CanBeAppliedOn", "d7/d62/a21455.html#ad92126f58e8ac8c83449725bc29fda8b", null ],
+    [ "PrepareAuraScript", "d7/d62/a21455.html#aaa7631a3d8a5476da6e051de90f34ee4", null ],
+    [ "Register", "d7/d62/a21455.html#a9a3e0c1a86cfc1b9747810cfca76f784", null ]
 ];

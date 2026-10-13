@@ -1,5 +1,6 @@
 var a28527 =
 [
-    [ "item_incendiary_explosives", "d4/d1e/a28527.html#a3a10f4e40374cae75a5ed320385a67f9", null ],
-    [ "OnUse", "d4/d1e/a28527.html#a1e566a6a5b6cfb8b7e331a6ea94f77b4", null ]
+    [ "guard_shattrath_aldorAI", "d6/d42/a28531.html", "d6/d42/a28531" ],
+    [ "guard_shattrath_aldor", "d4/d1e/a28527.html#ab965295d9c3828ad814f658670b5f185", null ],
+    [ "GetAI", "d4/d1e/a28527.html#a3459a6a85c7e7286e3cbdd7f56fee704", null ]
 ];

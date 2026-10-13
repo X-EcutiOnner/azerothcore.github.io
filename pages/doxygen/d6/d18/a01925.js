@@ -1,7 +1,7 @@
 var a01925 =
 [
-    [ "instance_magisters_terrace", "d6/def/a13563.html", "d6/def/a13563" ],
-    [ "instance_magisters_terrace::instance_magisters_terrace_InstanceMapScript", "d1/d31/a13567.html", "d1/d31/a13567" ],
+    [ "instance_magisters_terrace", "d1/d31/a13567.html", "d1/d31/a13567" ],
+    [ "instance_magisters_terrace::instance_magisters_terrace_InstanceMapScript", "d5/d5b/a13571.html", "d5/d5b/a13571" ],
     [ "AddSC_instance_magisters_terrace", "d6/d18/a01925.html#a39e3bff767d59081afebb72eeb3a1646", null ],
     [ "boundaries", "d6/d18/a01925.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
     [ "creatureData", "d6/d18/a01925.html#a412286b689bd324fedd65ddd8dde8afb", null ],

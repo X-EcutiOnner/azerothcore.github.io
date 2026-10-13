@@ -1,7 +1,7 @@
 var a26671 =
 [
-    [ "CalculateAmount", "da/d74/a26671.html#a0934aa8eaf442314aa6050d85304c15b", null ],
-    [ "CalculateSpellAmount", "da/d74/a26671.html#a4ec8eb1000a32fe3909e0ce32f5a83cd", null ],
-    [ "PrepareAuraScript", "da/d74/a26671.html#a627c6a88ed6ce051b0d6a06d94288498", null ],
-    [ "Register", "da/d74/a26671.html#ae1b5265f817f1f4ec011d4e2607686eb", null ]
+    [ "HandleDummy", "da/d74/a26671.html#a870b9834d0860a2d017b74fbf33ae668", null ],
+    [ "Load", "da/d74/a26671.html#ae971bd1dccc9280620b6ea44dd552bd4", null ],
+    [ "PrepareSpellScript", "da/d74/a26671.html#aac68e0f75f39ab25cf490dc381414b96", null ],
+    [ "Register", "da/d74/a26671.html#ad2840c719abd010c629747da138e9e32", null ]
 ];

@@ -1,6 +1,6 @@
 var a18887 =
 [
-    [ "npc_terenas_menethilAI", "d5/d27/a18891.html", "d5/d27/a18891" ],
-    [ "npc_terenas_menethil", "d3/d8b/a18887.html#a6b6850598c582e3d44c13275302fd32d", null ],
-    [ "GetAI", "d3/d8b/a18887.html#ad5f29af90c3f40ce0dad019b5ec05cf2", null ]
+    [ "npc_strangulate_vehicleAI", "d5/d27/a18891.html", "d5/d27/a18891" ],
+    [ "npc_strangulate_vehicle", "d3/d8b/a18887.html#a04532bc5902af45b1e9c76cf1cec9add", null ],
+    [ "GetAI", "d3/d8b/a18887.html#aa5813442234d7b18fc4e7ed44a0b30bc", null ]
 ];

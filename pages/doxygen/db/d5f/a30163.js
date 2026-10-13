@@ -1,4 +1,6 @@
 var a30163 =
 [
-    [ "SetUp", "db/d5f/a30163.html#a5d3dc5ba1a52545537d327fec12ea1cb", null ]
+    [ "CreateArmorProcConfig", "db/d5f/a30163.html#aae16272567352cb8730edcba3908a08f", null ],
+    [ "CreateWeaponProcConfig", "db/d5f/a30163.html#adf86db9c66739b705bde4daf1fd0efd1", null ],
+    [ "SetUp", "db/d5f/a30163.html#aaf1d0e6aed255fca2ec0b37e75e9b231", null ]
 ];

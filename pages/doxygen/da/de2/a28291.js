@@ -1,6 +1,7 @@
 var a28291 =
 [
-    [ "boss_taerarAI", "d9/db5/a28295.html", "d9/db5/a28295" ],
-    [ "boss_taerar", "da/de2/a28291.html#a100c1b80a50faf93088db870faa21b58", null ],
-    [ "GetAI", "da/de2/a28291.html#ae6615da6ee14c4f7cb3087b4ee5d6246", null ]
+    [ "npc_spirit_shadeAI", "da/de2/a28291.html#a8b7bf7c7cc541a47be79aad76a9bbcbc", null ],
+    [ "IsSummonedBy", "da/de2/a28291.html#a3a7fcb4af8e3b27e06b4665e8a864b38", null ],
+    [ "MovementInform", "da/de2/a28291.html#ab001fdc09efe9f8c03ad1b7610124e6d", null ],
+    [ "_summonerGuid", "da/de2/a28291.html#aa7c6abb848ab37f407a3553d04d0ad81", null ]
 ];

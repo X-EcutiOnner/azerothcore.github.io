@@ -1,8 +1,7 @@
 var a22523 =
 [
-    [ "npc_oathbound_warder", "db/d93/a22523.html#af4e56bd77dc1c12e795736f117a9b7f1", null ],
-    [ "AttackStart", "db/d93/a22523.html#afa3e523d3c4b7659df3d06be11eea7e4", null ],
-    [ "InitializeAI", "db/d93/a22523.html#a62c4c568ad615013afa46c7da84d057a", null ],
-    [ "JustEngagedWith", "db/d93/a22523.html#af5c0cb0f8cd8bf5a77bf7460dc576a6f", null ],
-    [ "UpdateAI", "db/d93/a22523.html#a2e97b16356a6aec04c7c0b1a2d872070", null ]
+    [ "HandleDummy", "db/d93/a22523.html#acdf98990ad575fec751a541cac3bcffa", null ],
+    [ "PrepareSpellScript", "db/d93/a22523.html#a2b9c56df8d6b2d5dcf0ebf952f7a16fd", null ],
+    [ "Register", "db/d93/a22523.html#ac628b5ddf18bae3b18b2512f1a92149f", null ],
+    [ "Validate", "db/d93/a22523.html#a3f7a01fcf8ef7cb151e29406b2b682a9", null ]
 ];

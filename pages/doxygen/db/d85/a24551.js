@@ -1,8 +1,16 @@
 var a24551 =
 [
-    [ "npc_pet_gen_valkyr_guardian", "db/d85/a24551.html#a546f0b0b4273de8216e9f688c2d68209", null ],
-    [ "InitializeAI", "db/d85/a24551.html#ac32c8bb1e1014015a0ab92417bbc78a9", null ],
-    [ "OwnerAttacked", "db/d85/a24551.html#a7f0bcedd78d88cdc802ba66c0ff7d927", null ],
-    [ "UpdateAI", "db/d85/a24551.html#a9a5a233763365c6cca5618459a23a816", null ],
-    [ "targetCheck", "db/d85/a24551.html#aa530b6b6415c85cd76f44d625329c2fb", null ]
+    [ "npc_pet_gen_argent_pony_bridle", "db/d85/a24551.html#a9df25627a92b8914ab8009be099f15d4", null ],
+    [ "DoAction", "db/d85/a24551.html#a4c08ed385886a118c165925602b1dff7", null ],
+    [ "EnterEvadeMode", "db/d85/a24551.html#a897e72a4bf279607903bce58a5a45c6f", null ],
+    [ "GetData", "db/d85/a24551.html#a862546ec66d8282c87169305711e4ec7", null ],
+    [ "OnGossipHello", "db/d85/a24551.html#a35cfcfd3418295bcb1140d1b8b8266ab", null ],
+    [ "OnGossipSelect", "db/d85/a24551.html#a36f15c2c0ec3466b492148303e828403", null ],
+    [ "Reset", "db/d85/a24551.html#a4d885f00ea1b6b97270d41f2583bd0dc", null ],
+    [ "UpdateAI", "db/d85/a24551.html#a1172dbd471ee8f05f25ff77dc222a61d", null ],
+    [ "_banners", "db/d85/a24551.html#a9c89972cde36f3d2b5686485f0e2905f", null ],
+    [ "_init", "db/d85/a24551.html#a8a7dd73d9d3af5ca00998735e45ee7e8", null ],
+    [ "_lastAura", "db/d85/a24551.html#a4abeb86eb0179a77d47d737d67495411", null ],
+    [ "_mountTimer", "db/d85/a24551.html#a38253b6d1e1f7fb8fc3fdccb2522a090", null ],
+    [ "_state", "db/d85/a24551.html#ae57f97ca9a08353e8ec8ebfadbd51541", null ]
 ];

@@ -1,7 +1,6 @@
 var a25219 =
 [
-    [ "HandleApply", "d3/d5d/a25219.html#a75f7fc139cf72aeaa2cc09ba30a8f119", null ],
-    [ "HandlePeriodicTimer", "d3/d5d/a25219.html#ae9f438dd0833b2ad214acef0e558a8be", null ],
-    [ "PrepareAuraScript", "d3/d5d/a25219.html#ac2040d944e47a4f1cc7721ead44aca77", null ],
-    [ "Register", "d3/d5d/a25219.html#abc9eb056267c7effcc7f68a3ad7891da", null ]
+    [ "CheckProc", "d3/d5d/a25219.html#a3c4f64fc51367ebb549282b068458f4c", null ],
+    [ "PrepareAuraScript", "d3/d5d/a25219.html#a72dc7c7b8bc842a7feb6857cbec34d25", null ],
+    [ "Register", "d3/d5d/a25219.html#ac84b357828094a42aab1c8bfee83d298", null ]
 ];

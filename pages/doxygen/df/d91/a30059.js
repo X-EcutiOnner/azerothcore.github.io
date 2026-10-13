@@ -1,4 +1,5 @@
 var a30059 =
 [
-    [ "MakeConfig", "df/d91/a30059.html#a4497365ace6ba22681024b5d3cb745c8", null ]
+    [ "SetUp", "df/d91/a30059.html#ad1d8aa4b381ae8f570e70741628c7e10", null ],
+    [ "_spellInfo", "df/d91/a30059.html#a377087158568c35ed7896f7fa31a7437", null ]
 ];

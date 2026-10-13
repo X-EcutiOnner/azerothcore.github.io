@@ -1,6 +1,5 @@
 var a24023 =
 [
-    [ "HandleScriptEffect", "d5/d1b/a24023.html#acfe80e22e6c78dba50155f7f20c0678b", null ],
-    [ "PrepareSpellScript", "d5/d1b/a24023.html#a17cb5f874343bd40c6aafaf9d627b047", null ],
-    [ "Register", "d5/d1b/a24023.html#a4bb5cfd2cc8503b3a840fc68624a33c1", null ]
+    [ "npc_telonicus", "d5/d1b/a24023.html#af8ba6be2d39463725bbbaf7770319a93", null ],
+    [ "ScheduleEvents", "d5/d1b/a24023.html#a49501a607aeb901aa99e94d9dd0e161b", null ]
 ];

@@ -1,28 +1,7 @@
 var a20447 =
 [
-    [ "boss_freya", "d0/d1b/a20447.html#a5379adaaa876662bcc6ffcd38cfc59bb", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "d0/d1b/a20447.html#a195b0021b1ac0274884fb2106ee8d85d", null ],
-    [ "DamageTaken", "d0/d1b/a20447.html#a8ba5d1999e8f4ae7fb240436771d6c39", null ],
-    [ "DoAction", "d0/d1b/a20447.html#a099f983a17e002990aaecbb0995bb3b0", null ],
-    [ "GetData", "d0/d1b/a20447.html#aa648b02fb1531fd434fce9ccf62332c0", null ],
-    [ "JustEngagedWith", "d0/d1b/a20447.html#a85a00b03079df9ce9b8fa035820c959b", null ],
-    [ "JustReachedHome", "d0/d1b/a20447.html#a577c8714fef829a57533c1cfbd400dc0", null ],
-    [ "KilledUnit", "d0/d1b/a20447.html#a378a92e671be526e4f30feeb3ecf25e7", null ],
-    [ "MovementInform", "d0/d1b/a20447.html#a80b5910abe85c2f1350c5f91aabd3fa4", null ],
-    [ "Reset", "d0/d1b/a20447.html#abadf6447f33116039e82065ce44f4322", null ],
-    [ "SpawnWave", "d0/d1b/a20447.html#af1f486e8725a2710b237fe233f7fe181", null ],
-    [ "SpellHit", "d0/d1b/a20447.html#a3d449abdf7cc8241bedbcfe8f9d37175", null ],
-    [ "SpellHitTarget", "d0/d1b/a20447.html#a22c4097731727de032fd6db3c9cef7cf", null ],
-    [ "UpdateAI", "d0/d1b/a20447.html#a1ea7d6b65ceaa7d1c485685df40682f9", null ],
-    [ "_aliveAddsCount", "d0/d1b/a20447.html#a2994fd85d4fc14c93b5dd3b6113fe80b", null ],
-    [ "_backToNature", "d0/d1b/a20447.html#ab29a12f6a5ff5fd6ce579ebfceb6323c", null ],
-    [ "_currentSetId", "d0/d1b/a20447.html#aca780e90cf50f2c08ca2faef14bbbe86", null ],
-    [ "_currentTrioDown", "d0/d1b/a20447.html#aaae6a69564a7de262bcb8b8c55fd1c7b", null ],
-    [ "_deforestation", "d0/d1b/a20447.html#a6c3e874ea83c564c93b6c7599e1174bd", null ],
-    [ "_elderGUID", "d0/d1b/a20447.html#aeb55232c11172bfddd1d65d6b45f9d64", null ],
-    [ "_lumberjacked", "d0/d1b/a20447.html#aa35101951b2d47848b69170ab36ae414", null ],
-    [ "_setPermutation", "d0/d1b/a20447.html#a987265a1775e47ac50e873c38cc1a753", null ],
-    [ "_spawnedAmount", "d0/d1b/a20447.html#aafbd2fcaccdc5890f513054d6840ed55", null ],
-    [ "_trioDown", "d0/d1b/a20447.html#afbf5fcebd50f968b1171c443818a3949", null ],
-    [ "_trioWaveEndSetId", "d0/d1b/a20447.html#ae7842858d4ae9a9d4eee44c9cd86a23e", null ]
+    [ "achievement_flame_leviathan_garage", "d0/d1b/a20447.html#a1893b4059d7212d023c45bb828bb1905", null ],
+    [ "OnCheck", "d0/d1b/a20447.html#aa5897eb1fadeda4dda9f2390053d89b6", null ],
+    [ "_entry1", "d0/d1b/a20447.html#af482d6c1b2681b9fec572281620a86b7", null ],
+    [ "_entry2", "d0/d1b/a20447.html#a41e83b47c411dc6a6aff310ae7059f4e", null ]
 ];

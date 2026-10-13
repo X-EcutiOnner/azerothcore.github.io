@@ -1,5 +1,6 @@
 var a24515 =
 [
-    [ "npc_pet_dk_risen_ally", "d9/d5c/a24515.html#ae7ea70827f339d3968ef08dc242b1f03", null ],
-    [ "OnCharmed", "d9/d5c/a24515.html#ac3927becc1ed929c384b3413bfee9330", null ]
+    [ "go_ancient_skull_pile", "d9/d5c/a24515.html#a53793cf5f47e812751c2e5ebfe4d1603", null ],
+    [ "OnGossipHello", "d9/d5c/a24515.html#afc258eaeb7586f0f539223c21f82ea63", null ],
+    [ "OnGossipSelect", "d9/d5c/a24515.html#a6d6fd73be859dc00f214796ec2f9bed2", null ]
 ];

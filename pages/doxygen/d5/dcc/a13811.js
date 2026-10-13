@@ -1,5 +1,5 @@
 var a13811 =
 [
-    [ "go_eredar_twins_blaze", "d5/dcc/a13811.html#a19d28875d3506d337e0ecbd93169f140", null ],
-    [ "InitializeAI", "d5/dcc/a13811.html#a8769ad96e4c4a2396cf4c294d8d982eb", null ]
+    [ "at_sunwell_eredar_twins", "d5/dcc/a13811.html#afc183c384bc87321186b20e0ac168c1f", null ],
+    [ "_OnTrigger", "d5/dcc/a13811.html#aa862756c9905e2cb10d60c70b47919aa", null ]
 ];

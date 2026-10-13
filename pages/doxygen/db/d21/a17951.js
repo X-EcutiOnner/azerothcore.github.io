@@ -1,16 +1,12 @@
 var a17951 =
 [
-    [ "npc_muradin_bronzebeard_iccAI", "db/d21/a17951.html#a4313164857ebd174fe33a9a16340b332", null ],
-    [ "DoAction", "db/d21/a17951.html#a16eeb7d0ed6c943c088285462131cd51", null ],
-    [ "MovementInform", "db/d21/a17951.html#a9a2e367f30ee16ca55e634de8e22551e", null ],
-    [ "Reset", "db/d21/a17951.html#ad5d5a9de05e472d24fe399b4de79a3d0", null ],
-    [ "SpellHit", "db/d21/a17951.html#a19b42ca678e7bf93c86891b4ea0a2dce", null ],
-    [ "UpdateAI", "db/d21/a17951.html#a1ae2393871e0f4ebeb86521f06959a7a", null ],
-    [ "_events", "db/d21/a17951.html#ae7079b335373cc06a040756328e7f714", null ],
-    [ "_guardList", "db/d21/a17951.html#a394b54fde0f1336fdf161482ea4d1115", null ],
-    [ "_instance", "db/d21/a17951.html#af1d8694678b10e5393c658ba0b20f47a", null ],
-    [ "_outroJainaGUID", "db/d21/a17951.html#a21a44922a06bd3105a0aeb12ffda0d4a", null ],
-    [ "_outroSaurfangGUID", "db/d21/a17951.html#abbff68eecae6764afcb3ec1178c1777c", null ],
-    [ "_outroVarianGUID", "db/d21/a17951.html#a78cf107f8fc698ac30167d1bdbc8c617", null ],
-    [ "_outroZeppelinWait", "db/d21/a17951.html#ab7e0deb9d6c786c224fac2e274f516c8", null ]
+    [ "npc_high_overlord_saurfangAI", "db/d21/a17951.html#a5c31259d9eb26e09d2b645d826e75328", null ],
+    [ "DoAction", "db/d21/a17951.html#a4a372a14c960c48c51a1c8e34ebffc53", null ],
+    [ "MovementInform", "db/d21/a17951.html#a6a46f99ffb67a699ef9adb2a1afcbe13", null ],
+    [ "Reset", "db/d21/a17951.html#a28899c61f9b4d3612535d1a01dc05f4a", null ],
+    [ "SpellHit", "db/d21/a17951.html#a6399e9c9ecdb8c01fbd2bcd1b081811f", null ],
+    [ "UpdateAI", "db/d21/a17951.html#a92124e7490a066bf63836397a3bdc71b", null ],
+    [ "_events", "db/d21/a17951.html#a12bbe13cf8fd1eda0cb8aa75ecafddc4", null ],
+    [ "_guardList", "db/d21/a17951.html#ac1496627bdf326163256045bd068bc4f", null ],
+    [ "_instance", "db/d21/a17951.html#a4181022e52fc10e2d5d98dcffe9ced62", null ]
 ];

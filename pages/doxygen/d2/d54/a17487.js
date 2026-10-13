@@ -1,5 +1,8 @@
 var a17487 =
 [
-    [ "at_hor_battered_hilt_start", "d2/d54/a17487.html#a1b9e6d892525cf28d71757f7861e1d1a", null ],
-    [ "OnTrigger", "d2/d54/a17487.html#a5d2d0a05b17dafe7ebb5447cfd168f69", null ]
+    [ "npc_hor_lumbering_abomination", "d2/d54/a17487.html#a08ae4bc9025a4bfbe91d39d256e34060", null ],
+    [ "JustDied", "d2/d54/a17487.html#ae8fca8b5f86fe5cba1b4de2aaac6cf61", null ],
+    [ "JustEngagedWith", "d2/d54/a17487.html#a5380771abba095749e1e0b30fe070a73", null ],
+    [ "Reset", "d2/d54/a17487.html#afd56b698fac5f7f13e718d645608213f", null ],
+    [ "UpdateAI", "d2/d54/a17487.html#a79e99c86f54a4fc7cbcf98e2a08e62ed", null ]
 ];

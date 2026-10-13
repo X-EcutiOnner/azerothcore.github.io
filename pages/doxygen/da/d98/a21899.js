@@ -1,8 +1,6 @@
 var a21899 =
 [
-    [ "npc_future_youAI", "da/d98/a21899.html#a7608c050dd198e3133050e222b42f62b", null ],
-    [ "EnterEvadeMode", "da/d98/a21899.html#a0b15c8af6075e323e56b2170ce4eefc0", null ],
-    [ "MoveInLineOfSight", "da/d98/a21899.html#a35b67f9e948f5ffbde8a423190ece603", null ],
-    [ "Reset", "da/d98/a21899.html#a01a8cd8f94dd614de2ffefdb19cd9f29", null ],
-    [ "UpdateAI", "da/d98/a21899.html#ac110daa6b4cf6bf26d9e9f9829577fa6", null ]
+    [ "npc_hourglass_of_eternityAI", "d1/d0a/a21903.html", "d1/d0a/a21903" ],
+    [ "npc_hourglass_of_eternity", "da/d98/a21899.html#a40500ff582ead06bd646be86baad7d35", null ],
+    [ "GetAI", "da/d98/a21899.html#a6cdec424e78e5c9decac73d091eec0ed", null ]
 ];

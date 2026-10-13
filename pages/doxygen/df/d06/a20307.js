@@ -1,5 +1,7 @@
 var a20307 =
 [
-    [ "achievement_auriaya_crazy_cat_lady", "df/d06/a20307.html#a1eb5d931c7c520b7cd6f516bfcb819e4", null ],
-    [ "OnCheck", "df/d06/a20307.html#a905b9a4389521fde6d26d3c19a0fe21c", null ]
+    [ "HandleScriptEffect", "df/d06/a20307.html#a96033c335117fa39e96a2dd70c44616a", null ],
+    [ "PrepareSpellScript", "df/d06/a20307.html#abf5f28d0fdb86a55b5b6f545a1fec633", null ],
+    [ "Register", "df/d06/a20307.html#a0acb0e31242fda06456081ef2937157e", null ],
+    [ "Validate", "df/d06/a20307.html#a648ce84276009cdee91c921b99193aea", null ]
 ];

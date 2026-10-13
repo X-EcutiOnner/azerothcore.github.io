@@ -1,7 +1,6 @@
 var a20303 =
 [
-    [ "HandleOnHit", "d5/d2d/a20303.html#a3a0f411a652a5753a543f57433212425", null ],
-    [ "PrepareSpellScript", "d5/d2d/a20303.html#a93008907295d79e9c98747bc416b6b5a", null ],
-    [ "Register", "d5/d2d/a20303.html#a858cc1c717a7cadc9eac41b89738d7e1", null ],
-    [ "Validate", "d5/d2d/a20303.html#a56f021a02c261dfb694e57af35c0ca14", null ]
+    [ "FilterTargets", "d5/d2d/a20303.html#a38c693dd3d8fb7e04fc1e26359f12399", null ],
+    [ "PrepareSpellScript", "d5/d2d/a20303.html#a86c4bb91547d8ea7eebb8e4d7bfd592e", null ],
+    [ "Register", "d5/d2d/a20303.html#a4e803984a3eded2736825f631786c204", null ]
 ];

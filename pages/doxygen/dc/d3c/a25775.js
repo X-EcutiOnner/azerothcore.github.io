@@ -1,6 +1,6 @@
 var a25775 =
 [
-    [ "CalculateAmount", "dc/d3c/a25775.html#a83bf0327aade6f6a33293a442ad10911", null ],
-    [ "PrepareAuraScript", "dc/d3c/a25775.html#aa964f4eb7391dab54ff744fc94306de1", null ],
-    [ "Register", "dc/d3c/a25775.html#a37d29d87bec2fe2908b7d3e47f5e1caa", null ]
+    [ "FilterTargets", "dc/d3c/a25775.html#a80d2ffcd64161e53fd795bd40d2b38e0", null ],
+    [ "PrepareSpellScript", "dc/d3c/a25775.html#a9fb910382c89750e38cb36bed48a1597", null ],
+    [ "Register", "dc/d3c/a25775.html#a667b10129d2d23f72712be523dc93180", null ]
 ];

@@ -1,8 +1,6 @@
 var a22543 =
 [
-    [ "npc_wg_spirit_guideAI", "df/d6c/a22547.html", "df/d6c/a22547" ],
-    [ "npc_wg_spirit_guide", "d6/d58/a22543.html#ad6ca047a51547203ee2c5f69efb6f2d3", null ],
-    [ "GetAI", "d6/d58/a22543.html#a769cdf4ac330b5dec71437d325aaf46a", null ],
-    [ "OnGossipHello", "d6/d58/a22543.html#a2d46078cb47f817239685d168f7f2e35", null ],
-    [ "OnGossipSelect", "d6/d58/a22543.html#aae050d38b9fa9c16d398d2733b1e5faf", null ]
+    [ "HandleEffectRemove", "d6/d58/a22543.html#a08c55501b95d4c92971fd5c95aaef1a7", null ],
+    [ "PrepareAuraScript", "d6/d58/a22543.html#aa0df1c7c112cf44fbe5a89894a1292b3", null ],
+    [ "Register", "d6/d58/a22543.html#a6f6ae6c012090337eb3f9ca4fd39749d", null ]
 ];

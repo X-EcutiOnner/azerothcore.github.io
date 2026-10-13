@@ -1,6 +1,6 @@
 var a19959 =
 [
-    [ "instance_oculus_InstanceMapScript", "d4/dcb/a19963.html", "d4/dcb/a19963" ],
-    [ "instance_oculus", "d1/d61/a19959.html#a404205ea7106531ea57307c40b9589bb", null ],
-    [ "GetInstanceScript", "d1/d61/a19959.html#ae6d28dfd615e79d4308e4384b7c8857f", null ]
+    [ "boss_varosAI", "d4/dcb/a19963.html", "d4/dcb/a19963" ],
+    [ "boss_varos", "d1/d61/a19959.html#a4fdb9de9ee7a3a50ac0972fd6eb8d39c", null ],
+    [ "GetAI", "d1/d61/a19959.html#a36733c4eb6179e43d61a1c37480666ea", null ]
 ];

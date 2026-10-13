@@ -1,9 +1,12 @@
 var a24959 =
 [
-    [ "Absorb", "d2/dc0/a24959.html#a5d4b54569b16175ae84d3c94a1a6fcff", null ],
-    [ "CalculateAmount", "d2/dc0/a24959.html#a3800ed0d14eacf39a3930c1b5e139f85", null ],
-    [ "Load", "d2/dc0/a24959.html#a79e3012cb5c78851809d9f4c4d6c4487", null ],
-    [ "PrepareAuraScript", "d2/dc0/a24959.html#a1bdab939c229c466ce6b71a7e00dedf9", null ],
-    [ "Register", "d2/dc0/a24959.html#a47bd5ef93255a2d926874d6d70861374", null ],
-    [ "absorbPct", "d2/dc0/a24959.html#a0c067ba7bbfd5cde53f1323b5c2f47cb", null ]
+    [ "Spells", "d2/dc0/a24959.html#a4dfabb0b1d7d3b7325577e0aa6d1b93d", [
+      [ "SPELL_DRUID_AURA_OF_DESPAIR_1", "d2/dc0/a24959.html#a4dfabb0b1d7d3b7325577e0aa6d1b93dabf914d1cbef9eb4a422e06804c12d220", null ],
+      [ "SPELL_DRUID_AURA_OF_DESPAIR_2", "d2/dc0/a24959.html#a4dfabb0b1d7d3b7325577e0aa6d1b93da0506acea11f9eb6b7f3f8e99b434daef", null ]
+    ] ],
+    [ "AfterRemove", "d2/dc0/a24959.html#afdd1575bce3b34da6e3a101eaa695c41", null ],
+    [ "HandleDispel", "d2/dc0/a24959.html#a3c2ffe31074115f6cab5f4b18b05dbc3", null ],
+    [ "PrepareAuraScript", "d2/dc0/a24959.html#a44e66753516d693c31dba27c9d1ad250", null ],
+    [ "Register", "d2/dc0/a24959.html#aa21ecabbf52b457e163f17b3012b0f84", null ],
+    [ "Validate", "d2/dc0/a24959.html#a6af7e5aa16b3c84ed1388e2f62424701", null ]
 ];

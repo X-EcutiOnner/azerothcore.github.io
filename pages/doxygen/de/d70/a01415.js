@@ -1,8 +1,8 @@
 var a01415 =
 [
-    [ "boss_archavon", "da/d84/a21503.html", "da/d84/a21503" ],
-    [ "boss_archavon::boss_archavonAI", "d4/d14/a21507.html", "d4/d14/a21507" ],
-    [ "spell_archavon_rock_shards", "df/d08/a21511.html", "df/d08/a21511" ],
+    [ "boss_archavon", "dd/d2e/a21515.html", "dd/d2e/a21515" ],
+    [ "boss_archavon::boss_archavonAI", "d2/dc8/a21519.html", "d2/dc8/a21519" ],
+    [ "spell_archavon_rock_shards", "df/d99/a21523.html", "df/d99/a21523" ],
     [ "Archavon", "de/d70/a01415.html#a73a22ae082f1ae211db2530bf259e3c9", [
       [ "SPELL_ROCK_SHARDS", "de/d70/a01415.html#a73a22ae082f1ae211db2530bf259e3c9a089c4dd82ee20529deb635e435060907", null ],
       [ "SPELL_ROCK_SHARDS_LEFT_HAND_VISUAL", "de/d70/a01415.html#a73a22ae082f1ae211db2530bf259e3c9ac5948e58c536267987e0a82dcfba1ea7", null ],
@@ -554,7 +554,8 @@ var a01415 =
       [ "EVENT_GORMOK_ATTACK", "d4/d49/a01316.html#af60e00b78607064c5be6aa9397ea49c1a50039b777364c63e9ed7aa2d59bde5e0", null ],
       [ "EVENT_SCENE_005", "d4/d49/a01316.html#af60e00b78607064c5be6aa9397ea49c1a0e50bbe28bfbf438f305b68cb886f62a", null ],
       [ "EVENT_SCENE_005_2", "d4/d49/a01316.html#af60e00b78607064c5be6aa9397ea49c1a629c73887e129e9e4a810f38f55a3aad", null ],
-      [ "EVENT_SUMMON_ACIDMAW_AND_DREADSCALE", "d4/d49/a01316.html#af60e00b78607064c5be6aa9397ea49c1ac4877070c9bc97fa7fc5e258a9b1355b", null ],
+      [ "EVENT_SUMMON_DREADSCALE", "d4/d49/a01316.html#af60e00b78607064c5be6aa9397ea49c1ad5bdc623ddb7772abf14b57803dcc3ac", null ],
+      [ "EVENT_SUMMON_ACIDMAW", "d4/d49/a01316.html#af60e00b78607064c5be6aa9397ea49c1a0b082bf9f4ce48fb930050bd945802b4", null ],
       [ "EVENT_ACIDMAW_AND_DREADSCALE_ATTACK", "d4/d49/a01316.html#af60e00b78607064c5be6aa9397ea49c1a44abc30a51a8f26d46d9face60a54aa3", null ],
       [ "EVENT_SCENE_006", "d4/d49/a01316.html#af60e00b78607064c5be6aa9397ea49c1af86436f3038a685798a8367c52d042b0", null ],
       [ "EVENT_SUMMON_ICEHOWL", "d4/d49/a01316.html#af60e00b78607064c5be6aa9397ea49c1a599818bfec273aaee545ebbd22b72cf0", null ],
@@ -564,7 +565,8 @@ var a01415 =
       [ "EVENT_SCENE_101", "d4/d49/a01316.html#af60e00b78607064c5be6aa9397ea49c1a1607721d8cf36884161f10071c20477f", null ],
       [ "EVENT_SCENE_102", "d4/d49/a01316.html#af60e00b78607064c5be6aa9397ea49c1af3de9bfd0298e03bc48a07b7f15269a2", null ],
       [ "EVENT_SCENE_103", "d4/d49/a01316.html#af60e00b78607064c5be6aa9397ea49c1a7048f4df677604dd1470ac18f38a9129", null ],
-      [ "EVENT_SCENE_104", "d4/d49/a01316.html#af60e00b78607064c5be6aa9397ea49c1a13b163f4e78756812c04b536936f941f", null ],
+      [ "EVENT_WILFRED_TALK_EMOTE", "d4/d49/a01316.html#af60e00b78607064c5be6aa9397ea49c1a9793404cb82a1ce8e66eb6540b238768", null ],
+      [ "EVENT_WILFRED_STOP_TALK_EMOTE", "d4/d49/a01316.html#af60e00b78607064c5be6aa9397ea49c1ab9b7ab0b0f9213b3df184c48bd168f83", null ],
       [ "EVENT_SUMMON_JARAXXUS", "d4/d49/a01316.html#af60e00b78607064c5be6aa9397ea49c1ad73647acc212188f944b06f2b39f9337", null ],
       [ "EVENT_SCENE_105", "d4/d49/a01316.html#af60e00b78607064c5be6aa9397ea49c1ae57eb2da117d500fb40ecb9c200f938a", null ],
       [ "EVENT_SCENE_106", "d4/d49/a01316.html#af60e00b78607064c5be6aa9397ea49c1a7eeac286eec9c41a33ee6fea164edc8a", null ],

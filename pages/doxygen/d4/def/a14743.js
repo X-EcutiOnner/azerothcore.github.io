@@ -1,6 +1,8 @@
 var a14743 =
 [
-    [ "boss_wushoolayAI", "d1/d1e/a14747.html", "d1/d1e/a14747" ],
-    [ "boss_wushoolay", "d4/def/a14743.html#a68359ee086bb4e86c3c16c4a03e54893", null ],
-    [ "GetAI", "d4/def/a14743.html#a70b476358956fd05d6effb75517e2b3d", null ]
+    [ "boss_venoxis", "d4/def/a14743.html#a3e91a9022163a726cbc077d38459a5f5", null ],
+    [ "InitializeAI", "d4/def/a14743.html#a1373b5fc673fce6aea1de40d970ac00d", null ],
+    [ "JustDied", "d4/def/a14743.html#a63ccc5a9520ee30b0ebaf8c4d31e59b8", null ],
+    [ "JustEngagedWith", "d4/def/a14743.html#afaa68ffbd5fecae48a044009326bcaed", null ],
+    [ "Reset", "d4/def/a14743.html#a40cbcd4d41ff85ff71d5d913d8e62368", null ]
 ];

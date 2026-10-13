@@ -1,10 +1,10 @@
 var a00665 =
 [
-    [ "npc_prof_alchemy", "d0/dff/a28563.html", "d0/dff/a28563" ],
-    [ "npc_prof_blacksmith", "da/d4d/a28567.html", "da/d4d/a28567" ],
-    [ "npc_prof_leather", "db/dcb/a28571.html", "db/dcb/a28571" ],
-    [ "npc_prof_tailor", "d4/d8a/a28575.html", "d4/d8a/a28575" ],
-    [ "go_evil_book_for_dummies", "dd/dd3/a28579.html", "dd/dd3/a28579" ],
+    [ "npc_prof_alchemy", "d4/d8a/a28575.html", "d4/d8a/a28575" ],
+    [ "npc_prof_blacksmith", "dd/dd3/a28579.html", "dd/dd3/a28579" ],
+    [ "npc_prof_leather", "d6/d18/a28583.html", "d6/d18/a28583" ],
+    [ "npc_prof_tailor", "dc/d40/a28587.html", "dc/d40/a28587" ],
+    [ "go_evil_book_for_dummies", "db/d35/a28591.html", "db/d35/a28591" ],
     [ "BOX_LEARN_ENGIN_SPEC", "da/d46/a00665.html#acfda6f8765d038ad07388078d3242c47", null ],
     [ "BOX_UNLEARN_ALCHEMY_SPEC", "da/d46/a00665.html#a3c6725cfafc91c379f0cb5c4e524a1bd", null ],
     [ "BOX_UNLEARN_ARMORORWEAPON", "da/d46/a00665.html#a3c0bbd141b0ae46377b5d769349c3ceb", null ],
@@ -134,7 +134,11 @@ var a00665 =
     [ "SpecializationQuests", "da/d46/a00665.html#aa71b3c85d99219502766814af4dde295", [
       [ "Q_MASTER_TRANSMUTE", "da/d46/a00665.html#aa71b3c85d99219502766814af4dde295a60846e77e1f55645dca03959663acb66", null ],
       [ "Q_MASTER_ELIXIR", "da/d46/a00665.html#aa71b3c85d99219502766814af4dde295afcace9679cc3114b1fe6a1214539b839", null ],
-      [ "Q_MASTER_POTION", "da/d46/a00665.html#aa71b3c85d99219502766814af4dde295a123c2ab95961d06031e62c6c43a68858", null ]
+      [ "Q_MASTER_POTION", "da/d46/a00665.html#aa71b3c85d99219502766814af4dde295a123c2ab95961d06031e62c6c43a68858", null ],
+      [ "Q_ARMORSMITH_ALLIANCE", "da/d46/a00665.html#aa71b3c85d99219502766814af4dde295a0da2b3228a7f1c1713ced0920e25dd48", null ],
+      [ "Q_WEAPONSMITH_ALLIANCE", "da/d46/a00665.html#aa71b3c85d99219502766814af4dde295a90e8b311007dbae43a15803f225a4f71", null ],
+      [ "Q_ARMORSMITH_HORDE", "da/d46/a00665.html#aa71b3c85d99219502766814af4dde295a0eb63455291588802b121b70e77c8085", null ],
+      [ "Q_WEAPONSMITH_HORDE", "da/d46/a00665.html#aa71b3c85d99219502766814af4dde295ac8b002f05ed3ab2b547a8504185c3b66", null ]
     ] ],
     [ "SpecializationTrainers", "da/d46/a00665.html#add238e28e6667de0723d18cfd9447a86", [
       [ "N_TRAINER_TRANSMUTE", "da/d46/a00665.html#add238e28e6667de0723d18cfd9447a86a091cab1cb088f6041805f32f87aeec18", null ],

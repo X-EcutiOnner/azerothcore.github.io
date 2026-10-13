@@ -1,6 +1,8 @@
 var a12795 =
 [
-    [ "boss_anubshiah", "dc/df9/a12795.html#aa8e436501ebf08465a9742dedb5901fc", null ],
-    [ "JustEngagedWith", "dc/df9/a12795.html#aedd04c5765ca4360d8290fac7e7b9c55", null ],
-    [ "UpdateAI", "dc/df9/a12795.html#a0a3cbdd6be45415723cbadb40478831a", null ]
+    [ "npc_burning_spirit", "dc/df9/a12795.html#acb0a685ea9aaddd23580ebeb4a0f1e45", null ],
+    [ "EnterEvadeMode", "dc/df9/a12795.html#a162d280d1fc53de0655c99efce81c539", null ],
+    [ "IsSummonedBy", "dc/df9/a12795.html#a3ef47ad5f1697f3a890469412e43c452", null ],
+    [ "MovementInform", "dc/df9/a12795.html#a4c001de653aa8b096552247f5cbf1573", null ],
+    [ "_flamelasherGUID", "dc/df9/a12795.html#aea694b777b8437b5909bd668279837b1", null ]
 ];

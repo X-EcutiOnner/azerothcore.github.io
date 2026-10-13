@@ -1,7 +1,6 @@
 var a21711 =
 [
-    [ "HandleScriptEffect", "d8/d04/a21711.html#a0c6b2f8713f59b3048224f0cb7786913", null ],
-    [ "PrepareSpellScript", "d8/d04/a21711.html#adf4c5fb99c1ea11c984bffd9b54ee7ce", null ],
-    [ "Register", "d8/d04/a21711.html#acef977e377c9d6e638056223256da4ef", null ],
-    [ "Validate", "d8/d04/a21711.html#aaecfe98d6c72c2675bf83d586588dbc0", null ]
+    [ "npc_khunok_the_behemothAI", "d3/dac/a21715.html", "d3/dac/a21715" ],
+    [ "npc_khunok_the_behemoth", "d8/d04/a21711.html#a0370959631c00581495dbd7c37263236", null ],
+    [ "GetAI", "d8/d04/a21711.html#a201aa35dd119d23126b192a1e3786c09", null ]
 ];

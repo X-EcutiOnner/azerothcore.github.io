@@ -1,6 +1,6 @@
 var a19483 =
 [
-    [ "npc_isle_of_conquest_turretAI", "da/d6c/a19487.html", "da/d6c/a19487" ],
-    [ "npc_isle_of_conquest_turret", "da/ddf/a19483.html#ac080845203adef25e6841133b7e2f4dc", null ],
-    [ "GetAI", "da/ddf/a19483.html#a0f532e12439e900b3cb77619f1ecd17d", null ]
+    [ "instance_icecrown_citadel_InstanceMapScript", "da/d6c/a19487.html", "da/d6c/a19487" ],
+    [ "instance_icecrown_citadel", "da/ddf/a19483.html#a0901e23025cff08d1a7516bbef099ffa", null ],
+    [ "GetInstanceScript", "da/ddf/a19483.html#a787c32626681f15f5515385a9ba6b848", null ]
 ];

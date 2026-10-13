@@ -1,6 +1,6 @@
 var a18399 =
 [
-    [ "HandleScript", "db/d32/a18399.html#aefdd306b81b44a0a5564eab5a0491e09", null ],
-    [ "PrepareSpellScript", "db/d32/a18399.html#a68c0462bd108b04621f8288328f78b18", null ],
-    [ "Register", "db/d32/a18399.html#aedaec0afc414800bc481a434592ffb5d", null ]
+    [ "PrepareSpellScript", "db/d32/a18399.html#a16eadb50b6038f16ea28464d00df3381", null ],
+    [ "Register", "db/d32/a18399.html#ac6e304d391011863b8eff8105fab5191", null ],
+    [ "SelectDest", "db/d32/a18399.html#a8ff5d684c0b91d0f068d03698c1ee92c", null ]
 ];

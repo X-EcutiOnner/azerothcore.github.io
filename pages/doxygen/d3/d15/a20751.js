@@ -1,11 +1,22 @@
 var a20751 =
 [
-    [ "npc_ulduar_proximity_mine", "d3/d15/a20751.html#a4d8a6ab45b259e42d33d5114d1f7e947", null ],
-    [ "AttackStart", "d3/d15/a20751.html#ae88f3a9cb40aebb469849799e7b7c7c0", null ],
-    [ "CanAIAttack", "d3/d15/a20751.html#a18311072271a18b279c5bf21f7da2482", null ],
-    [ "MoveInLineOfSight", "d3/d15/a20751.html#a6a406f8098dac7038173f51e9f85a79b", null ],
-    [ "UpdateAI", "d3/d15/a20751.html#ad014e0aa8125ef13cfea039acfe0c76f", null ],
-    [ "_exploded", "d3/d15/a20751.html#ad1cd15a93a35f4034c0d690e8d1713ea", null ],
-    [ "_timer", "d3/d15/a20751.html#afe009de55826305826105bd29458d0eb", null ],
-    [ "_timer2", "d3/d15/a20751.html#a08afb215eeaa5e0ec4d9543bc474d392", null ]
+    [ "npc_ulduar_vx001", "d3/d15/a20751.html#a1fbaef8e14a2fa2e7a946bcce751c3a9", null ],
+    [ "AttackStart", "d3/d15/a20751.html#a47d955c4db0c8ceb30ae770a82aaf424", null ],
+    [ "DamageTaken", "d3/d15/a20751.html#ad1d0ec1e6a3905f3ede091383ce02116", null ],
+    [ "DoAction", "d3/d15/a20751.html#ae988d7c48b11e72b5d8e02966fd432ed", null ],
+    [ "EnterEvadeMode", "d3/d15/a20751.html#a4f019ff2bb5897c0c088f417f8ba4d45", null ],
+    [ "JustSummoned", "d3/d15/a20751.html#a0f2e9e76f3ec457350a54925558fcd0b", null ],
+    [ "KilledUnit", "d3/d15/a20751.html#ab25d0f2a79708c86d798f83e68100d03", null ],
+    [ "MoveInLineOfSight", "d3/d15/a20751.html#a0f02c02bcc93afe1059152e72f981ffd", null ],
+    [ "PassengerBoarded", "d3/d15/a20751.html#a34837d8ab0335605d7bf61eae5c29c2a", null ],
+    [ "Reset", "d3/d15/a20751.html#a27f5a5fe661fd896a89e534b109fc329", null ],
+    [ "SetData", "d3/d15/a20751.html#a8ae4ce7110f8ad7f7b800924220133b0", null ],
+    [ "SpellHit", "d3/d15/a20751.html#a0e42a18462a1f33e679462c26efa20b7", null ],
+    [ "UpdateAI", "d3/d15/a20751.html#ab8f9d5f73674dd351731210f5e053fd9", null ],
+    [ "_events", "d3/d15/a20751.html#adc9d977da6b2d24230fdc242461217da", null ],
+    [ "_fighting", "d3/d15/a20751.html#a07d5508590e09dcd6ceab37dfd380d2a", null ],
+    [ "_isEvading", "d3/d15/a20751.html#acdb4d264fea9a15c62b32173d0b674a3", null ],
+    [ "_leftArm", "d3/d15/a20751.html#a5c15b3c1aad51569cc8b6fe3a371f0bb", null ],
+    [ "_phase", "d3/d15/a20751.html#a09d6c576c0edf23d46e53c3909a82b00", null ],
+    [ "instance", "d3/d15/a20751.html#a720b4fdc32d067cdb91589bdc1724299", null ]
 ];

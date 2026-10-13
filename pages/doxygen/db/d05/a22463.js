@@ -1,6 +1,8 @@
 var a22463 =
 [
-    [ "HandleScriptEffect", "db/d05/a22463.html#a66849cb61f056e861d8887dc98f6ccbf", null ],
-    [ "PrepareSpellScript", "db/d05/a22463.html#afa4ad1b205bf963b4230881738baf938", null ],
-    [ "Register", "db/d05/a22463.html#a0d8925effced854471e2fbec9c631b91", null ]
+    [ "npc_freed_protodrakeAI", "db/d05/a22463.html#a9e80808035be749c87a1170f37ac3daf", null ],
+    [ "MovementInform", "db/d05/a22463.html#af056f3c12a314acd8a7e8c6c381b9436", null ],
+    [ "Reset", "db/d05/a22463.html#ab5781438300442bb7bcb4510aec9d233", null ],
+    [ "UpdateAI", "db/d05/a22463.html#a9e83b133444e977c35e90b700149472c", null ],
+    [ "events", "db/d05/a22463.html#ac2e34b9a53ff55d177327ec95dca5466", null ]
 ];

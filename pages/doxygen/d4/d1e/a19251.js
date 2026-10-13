@@ -1,8 +1,5 @@
 var a19251 =
 [
-    [ "OnApply", "d4/d1e/a19251.html#ab36c99093a1659e65cd7e41524fdeeff", null ],
-    [ "OnRemove", "d4/d1e/a19251.html#a433df999703d10b8d5001af75e8b2c97", null ],
-    [ "PrepareAuraScript", "d4/d1e/a19251.html#af6c809fb292cafd052b22b345df23b7f", null ],
-    [ "Register", "d4/d1e/a19251.html#ad116dbd8b69a1f7e8951a170b1872d97", null ],
-    [ "Validate", "d4/d1e/a19251.html#a9d122f2335fdab34791e2eedff022aef", null ]
+    [ "npc_darkfallen_tactician", "d4/d1e/a19251.html#a946ccdf41d93a3477204e303c3404c5c", null ],
+    [ "ScheduleSpells", "d4/d1e/a19251.html#a26dcb830533771faf8ebc90995ea010b", null ]
 ];

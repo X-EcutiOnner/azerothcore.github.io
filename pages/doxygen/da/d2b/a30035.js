@@ -1,10 +1,6 @@
 var a30035 =
 [
-    [ "SetUp", "da/d2b/a30035.html#a3fdec2bf96f4e567b3ed2a8103d175ec", null ],
-    [ "SimulateGlyphsForLevel", "da/d2b/a30035.html#ac0b04d88968102ac5cf34be21a44eed9", null ],
-    [ "TearDown", "da/d2b/a30035.html#aa381706733e71ee3d426c4e0d0c4b4e9", null ],
-    [ "originalWorld", "da/d2b/a30035.html#a5e142dc81a057b4ecc3084177942b91d", null ],
-    [ "player", "da/d2b/a30035.html#ac57623d8e963cdb8de2258f36c1281bd", null ],
-    [ "session", "da/d2b/a30035.html#ac92bad60994d699564da54739ac0b4f0", null ],
-    [ "worldMock", "da/d2b/a30035.html#af4605e78650f67c3a3af4d91e1e485c5", null ]
+    [ "MakeTime", "da/d2b/a30035.html#aafef969ff6e16b69727166c02e2d3d70", null ],
+    [ "PackAnchor", "da/d2b/a30035.html#a3650ca0f9c8030fe4bd9ca770506e105", null ],
+    [ "OCCURENCE_MIN", "da/d2b/a30035.html#afcc01c96e3ec426969c1f90f7b87fe5a", null ]
 ];

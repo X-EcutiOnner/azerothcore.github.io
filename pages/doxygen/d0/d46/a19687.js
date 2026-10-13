@@ -1,8 +1,11 @@
 var a19687 =
 [
-    [ "boss_maexxna_webwrapAI", "d0/d46/a19687.html#a1423b619676f650f71c8e7215aa2a2b7", null ],
-    [ "IsSummonedBy", "d0/d46/a19687.html#a1d434373ccc7dd54c5de7bc99487170a", null ],
-    [ "JustDied", "d0/d46/a19687.html#a1ed18e791d2a5ae26cd1c2f3cdf37d82", null ],
-    [ "UpdateAI", "d0/d46/a19687.html#a05220fcded67e15bbd94d13d0b9581a2", null ],
-    [ "victimGUID", "d0/d46/a19687.html#a54081ebfc0df639b7e18b5f079802c92", null ]
+    [ "boss_maexxnaAI", "d0/d46/a19687.html#a3bf898911798eaa891ef7638a3a2cc20", null ],
+    [ "DoCastWebWrap", "d0/d46/a19687.html#a5d78455f5ba6e30df6644897b4e6ad7e", null ],
+    [ "IsInRoom", "d0/d46/a19687.html#a957bd38232c020611fc24dd8a6e55640", null ],
+    [ "JustEngagedWith", "d0/d46/a19687.html#a9974fc771b3663878964aeb20914fe43", null ],
+    [ "JustSummoned", "d0/d46/a19687.html#ab45b74b3067b42089fee804844ea41dd", null ],
+    [ "KilledUnit", "d0/d46/a19687.html#a11cda2b905ef2381c317a01e4163be00", null ],
+    [ "UpdateAI", "d0/d46/a19687.html#a6f0453babfa84764467970369894eb97", null ],
+    [ "wraps", "d0/d46/a19687.html#a3bfe3ab90ff6f401c3f7b8655e3abc05", null ]
 ];

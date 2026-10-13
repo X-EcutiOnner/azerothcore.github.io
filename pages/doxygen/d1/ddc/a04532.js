@@ -1,6 +1,6 @@
 var a04532 =
 [
-    [ "SpellProcSpellTypeMaskTest", "da/da3/a30179.html", "da/da3/a30179" ],
+    [ "SpellProcSpellTypeMaskTest", "d1/d52/a30191.html", "d1/d52/a30191" ],
     [ "TEST_F", "d1/ddc/a04532.html#a0e299f1164a6c1e0f315da2c5551e58a", null ],
     [ "TEST_F", "d1/ddc/a04532.html#ae1ae997d3f0f1ba7825ae4b2e5436d44", null ],
     [ "TEST_F", "d1/ddc/a04532.html#a7a5da3689f4cd8516f8998a3eb8516f1", null ],

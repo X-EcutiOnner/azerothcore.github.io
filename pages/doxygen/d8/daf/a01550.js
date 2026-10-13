@@ -1,8 +1,8 @@
 var a01550 =
 [
-    [ "instance_blackwing_lair", "d6/dd0/a13083.html", "d6/dd0/a13083" ],
-    [ "spell_bwl_shadowflame", "d4/d12/a13087.html", "d4/d12/a13087" ],
-    [ "at_orb_of_command", "dd/d05/a13091.html", "dd/d05/a13091" ],
+    [ "instance_blackwing_lair", "d4/d12/a13087.html", "d4/d12/a13087" ],
+    [ "spell_bwl_shadowflame", "dd/d05/a13091.html", "dd/d05/a13091" ],
+    [ "at_orb_of_command", "df/d06/a13095.html", "df/d06/a13095" ],
     [ "orb_of_command_misc", "d8/daf/a01550.html#a5ddae3d5f11ae5a5d826e7e18d4cded5", [
       [ "QUEST_BLACKHANDS_COMMAND", "d8/daf/a01550.html#a5ddae3d5f11ae5a5d826e7e18d4cded5ae1d5923d960c45957f7789ee3d943db5", null ]
     ] ],

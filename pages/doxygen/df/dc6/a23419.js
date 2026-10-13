@@ -1,7 +1,6 @@
 var a23419 =
 [
-    [ "FilterTargets", "df/dc6/a23419.html#adb8581b4b92aa49eda8f531e6d6de1ea", null ],
-    [ "HandleDummy", "df/dc6/a23419.html#a2fe7441bd9753cb912d11f8d36632f44", null ],
-    [ "PrepareSpellScript", "df/dc6/a23419.html#ae7714acbe0a08781e3bc297847c47870", null ],
-    [ "Register", "df/dc6/a23419.html#ade51d4cb00b63c46582c7a5e6e031e9d", null ]
+    [ "FilterTargets", "df/dc6/a23419.html#af545460920658bc8ee0444f7c0d51970", null ],
+    [ "PrepareSpellScript", "df/dc6/a23419.html#a0bf365a43b99905fb7ae8152fe5b2687", null ],
+    [ "Register", "df/dc6/a23419.html#ac12cde698f5b0bbcdf433821772c7519", null ]
 ];

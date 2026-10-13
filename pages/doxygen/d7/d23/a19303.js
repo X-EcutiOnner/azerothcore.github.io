@@ -1,6 +1,7 @@
 var a19303 =
 [
-    [ "PrepareSpellScript", "d7/d23/a19303.html#aac12da39c503615036120e3e0cd55622", null ],
-    [ "Register", "d7/d23/a19303.html#a808d2283be9714c14f22a2df0a52dd61", null ],
-    [ "RelocateDest", "d7/d23/a19303.html#a843c9dc403404ddd2de667e57e01f00c", null ]
+    [ "Land", "d7/d23/a19303.html#ad2fd3d7c81e3ef22cb3767914f649fd0", null ],
+    [ "PrepareSpellScript", "d7/d23/a19303.html#a31e45adb87719c311fb5b94b2b744487", null ],
+    [ "Register", "d7/d23/a19303.html#a652eca6ec8079b2835d911807857c8a8", null ],
+    [ "RemoveAliveTarget", "d7/d23/a19303.html#abdb5f624b30a046eed9ca6ad7c347010", null ]
 ];

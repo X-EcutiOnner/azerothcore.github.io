@@ -1,6 +1,8 @@
 var a22015 =
 [
-    [ "npc_commander_eligor_dawnbringerAI", "d5/db5/a22019.html", "d5/db5/a22019" ],
-    [ "npc_commander_eligor_dawnbringer", "d9/dc6/a22015.html#a71d919af98464d6d63f948507f3ff08c", null ],
-    [ "GetAI", "d9/dc6/a22015.html#a759b9b1aeb8cce983fe8b6d2f3d9c33d", null ]
+    [ "npc_q24545_vegardAI", "d9/dc6/a22015.html#a6a86b56508a86bf32ab5fb2bd46248c9", null ],
+    [ "JustDied", "d9/dc6/a22015.html#a1f7784242bbaf39d0fb105d2930da37c", null ],
+    [ "KilledUnit", "d9/dc6/a22015.html#a2d78117a6c2a29f52f1905595425964a", null ],
+    [ "UpdateAI", "d9/dc6/a22015.html#a79cc34760b58ad4b29c6a0a496971f0a", null ],
+    [ "events", "d9/dc6/a22015.html#a68f48d92cc5559025e635d599c2882e3", null ]
 ];

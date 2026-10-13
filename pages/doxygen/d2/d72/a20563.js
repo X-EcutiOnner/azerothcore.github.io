@@ -1,5 +1,7 @@
 var a20563 =
 [
-    [ "npc_ulduar_toasty_fire", "d2/d72/a20563.html#ad63c424b2ee9ff8013bc776acb7dbba7", null ],
-    [ "DoAction", "d2/d72/a20563.html#a514ed4231da0ad9e7d1ee2ea03106cb5", null ]
+    [ "npc_ulduar_icicle", "d2/d72/a20563.html#ac5f024031a70b4ca04ecc0a96fcbdcae", null ],
+    [ "UpdateAI", "d2/d72/a20563.html#a0a46c8ee0c4bb8932406fe8170a54310", null ],
+    [ "timer1", "d2/d72/a20563.html#ae277d302131abd17cef018872b12da06", null ],
+    [ "timer2", "d2/d72/a20563.html#a9a098b0a31fcbc029fc7ae6823ea99a4", null ]
 ];

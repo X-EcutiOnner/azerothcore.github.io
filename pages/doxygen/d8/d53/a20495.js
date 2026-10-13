@@ -1,6 +1,6 @@
 var a20495 =
 [
-    [ "HandleSurge", "d8/d53/a20495.html#a669a46f3583518664462b4ee915be2da", null ],
-    [ "PrepareSpellScript", "d8/d53/a20495.html#adead1c7e506e9dc8d6b9cc04f2331a58", null ],
-    [ "Register", "d8/d53/a20495.html#a7f29f72897e2e175044a49b05d2994d7", null ]
+    [ "achievement_freya_knock_on_wood", "d8/d53/a20495.html#ae28517e151cc9ec2b25ff57513f32d29", null ],
+    [ "OnCheck", "d8/d53/a20495.html#a07e5edf9d53d200506ab1b0d0b2eaa9e", null ],
+    [ "_elderCount", "d8/d53/a20495.html#a5a3cc4dedbc2cc6be825579cbb0a09b5", null ]
 ];

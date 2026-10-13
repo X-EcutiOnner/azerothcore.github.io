@@ -1,8 +1,8 @@
 var a26979 =
 [
-    [ "CheckCast", "dd/d89/a26979.html#a5fc226206c08aa65459c144cd5f34c6c", null ],
-    [ "PrepareSpellScript", "dd/d89/a26979.html#a1c0f324c7c2f2799990dcc116edd69cf", null ],
-    [ "Register", "dd/d89/a26979.html#a35239e58eb76c0ffe74e0feee2250fa1", null ],
-    [ "TriggerDebuffs", "dd/d89/a26979.html#a1579b28071e2194625f722a29ded39b8", null ],
-    [ "Validate", "dd/d89/a26979.html#a767853d4b05e055cb32991bfe8c6516a", null ]
+    [ "HandleProc", "dd/d89/a26979.html#a95553bc0c973be3a2e3911602e4067c8", null ],
+    [ "PrepareAuraScript", "dd/d89/a26979.html#a99ea6943a3e8d4105b4187d8ea1a298d", null ],
+    [ "Register", "dd/d89/a26979.html#aad50f19b0c854b7f9c5d81cd2e86bdfa", null ],
+    [ "Validate", "dd/d89/a26979.html#aad1324e94920136258c419094cfca4c3", null ],
+    [ "_cooldownEnd", "dd/d89/a26979.html#a4f19a965ed8ddab712633abdb761d210", null ]
 ];

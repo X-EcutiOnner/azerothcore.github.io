@@ -1,5 +1,7 @@
 var a28131 =
 [
-    [ "achievement_resilient_victory", "dc/de4/a28131.html#a6224c8a4b1b1ee7c1ab09d8873e86aa8", null ],
-    [ "OnCheck", "dc/de4/a28131.html#a21445d406f67771a20608260b3f9b033", null ]
+    [ "HandleProc", "dc/de4/a28131.html#ae41ac4278c643bcd14ff4ab0ecc6dc46", null ],
+    [ "PrepareAuraScript", "dc/de4/a28131.html#abdb4073728e7e637a8538a238eda2f6d", null ],
+    [ "Register", "dc/de4/a28131.html#a052f2a48c2b30b5e83c95eb4aada0899", null ],
+    [ "Validate", "dc/de4/a28131.html#a04085f70b61ea7ff2073a1cd777eca1b", null ]
 ];

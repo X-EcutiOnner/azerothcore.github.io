@@ -1,12 +1,8 @@
 var a21619 =
 [
-    [ "boss_zuramat", "dd/db5/a21619.html#af033b96498fb71059701caad1fed8f8a", null ],
-    [ "EnterEvadeMode", "dd/db5/a21619.html#a0d7ca9fe585e0dc87118c61ddc0dac84", null ],
-    [ "ExecuteEvent", "dd/db5/a21619.html#a350f06b88af5444a0d4086434ddbe6f4", null ],
-    [ "JustDied", "dd/db5/a21619.html#a1917921efc7a44c3cc3a799187c1718a", null ],
-    [ "JustEngagedWith", "dd/db5/a21619.html#a4c448c8b51795943a6e746479f3ad121", null ],
-    [ "JustSummoned", "dd/db5/a21619.html#a76c2de51333f57db6612effb92d07bd1", null ],
-    [ "KilledUnit", "dd/db5/a21619.html#ae3f00d76928cbd6adf7882f4cccc0518", null ],
-    [ "MoveInLineOfSight", "dd/db5/a21619.html#a6d46d73baf2c0b3c1706d9163564797f", null ],
-    [ "SummonedCreatureDespawn", "dd/db5/a21619.html#afc8869687e9a6050cfee2c674ef7e7f1", null ]
+    [ "boss_moragg", "dd/db5/a21619.html#a42d2508369286e5e635d47cce0b939f4", null ],
+    [ "EnterEvadeMode", "dd/db5/a21619.html#a0ac597810a43e30c2cffcc4c878a9998", null ],
+    [ "ExecuteEvent", "dd/db5/a21619.html#a945fbf776bb47484d7a4434ee3a630ed", null ],
+    [ "JustEngagedWith", "dd/db5/a21619.html#a29da7214373c1919b65f3512655c8bc3", null ],
+    [ "MoveInLineOfSight", "dd/db5/a21619.html#ab70b1a6d9c05e191880f0532b775c6f2", null ]
 ];

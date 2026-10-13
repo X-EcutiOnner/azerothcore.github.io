@@ -1,6 +1,7 @@
 var a26923 =
 [
-    [ "CheckCast", "d7/d8c/a26923.html#a5f4979e1d164bee9e5a411e7d023810b", null ],
-    [ "PrepareSpellScript", "d7/d8c/a26923.html#a33e86d770e926247c58c00143b55c418", null ],
-    [ "Register", "d7/d8c/a26923.html#a453c7fa25baf458c9a319053ca726621", null ]
+    [ "HandleProc", "d7/d8c/a26923.html#a1964ad50011e459ca449d6ff9baec189", null ],
+    [ "PrepareAuraScript", "d7/d8c/a26923.html#a1362df471c29d59087b6dba6007ef7a1", null ],
+    [ "Register", "d7/d8c/a26923.html#a15d6a692e8e856c2108bdf810a8f6f50", null ],
+    [ "Validate", "d7/d8c/a26923.html#af3bce711681865628f2ee69f5e7d48a7", null ]
 ];
