@@ -1,9 +1,7 @@
 var a21817 =
 [
-    [ "npc_archmage_landalockAI", "d3/d01/a21817.html#a8e2b48a9cf243b0d6f11286cf1e301c8", null ],
-    [ "GetImageEntry", "d3/d01/a21817.html#ae09841969253c0baf72cc235b6fa058e", null ],
-    [ "JustSummoned", "d3/d01/a21817.html#af9016bfeca3db7611fdafe4337e5f64a", null ],
-    [ "UpdateAI", "d3/d01/a21817.html#abad2f45c0a5c43cc7aa7867a0291133d", null ],
-    [ "_summonGUID", "d3/d01/a21817.html#a8b59c414dfd46209dcc3d00531e2b98b", null ],
-    [ "_switchImageTimer", "d3/d01/a21817.html#a5e2fb6556bbb5cf22b77a72e9ccbc548", null ]
+    [ "HandleScriptEffect", "d3/d01/a21817.html#adc89459d7b6c073b8a60e08a9e3281cf", null ],
+    [ "PrepareSpellScript", "d3/d01/a21817.html#a8f15bf27d9e54c1ee6c84f99f1f83d48", null ],
+    [ "Register", "d3/d01/a21817.html#a86ef787e1db46e578a10ca25ac84ba87", null ],
+    [ "Validate", "d3/d01/a21817.html#abeb8baf7dabf2d3acea4df79535770d2", null ]
 ];

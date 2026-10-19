@@ -1,7 +1,6 @@
 var a27745 =
 [
-    [ "HandleBonus", "d3/dd1/a27745.html#a2bf167d8561f2ef36e44fa9754f0d9a3", null ],
-    [ "PrepareAuraScript", "d3/dd1/a27745.html#aebf4afa25b50be9b99900ef830f26f04", null ],
-    [ "Register", "d3/dd1/a27745.html#ad69315b8eca4173a1e0db21cd98e9c3c", null ],
-    [ "Validate", "d3/dd1/a27745.html#aef0e4a0474718f61f89ff4c825923fc1", null ]
+    [ "CheckProc", "d3/dd1/a27745.html#a945c4617cba249ee76045ce032f12c3c", null ],
+    [ "PrepareAuraScript", "d3/dd1/a27745.html#abdcb401acb80eb732dbf56bbbcf79801", null ],
+    [ "Register", "d3/dd1/a27745.html#a912dd7ea10038103bb6d242bb7723830", null ]
 ];

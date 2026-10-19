@@ -1,6 +1,7 @@
 var a13997 =
 [
-    [ "instance_the_stockade_InstanceMapScript", "d7/d5e/a14001.html", "d7/d5e/a14001" ],
-    [ "instance_the_stockade", "d4/d33/a13997.html#a533049c10a72da4b94f9807017f28c0d", null ],
-    [ "GetInstanceScript", "d4/d33/a13997.html#a7a5a4adcd71ae5d22e6729a2d11d68d3", null ]
+    [ "PeriodicTick", "d4/d33/a13997.html#acca46d585d06d461f735cddb6075b3b1", null ],
+    [ "PrepareAuraScript", "d4/d33/a13997.html#abd7382ab22efd3d82c4f00745255d024", null ],
+    [ "Register", "d4/d33/a13997.html#a7020dbe7c61f877d0ecd0d7542f6f270", null ],
+    [ "Validate", "d4/d33/a13997.html#acb31ba162452a30ff0c208829560f9fd", null ]
 ];

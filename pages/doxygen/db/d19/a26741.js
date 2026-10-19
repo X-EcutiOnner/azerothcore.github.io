@@ -1,9 +1,8 @@
 var a26741 =
 [
-    [ "AllowT10Proc", "db/d19/a26741.html#a0d058542d9175f0ad2a3110f05e4f7c4", null ],
-    [ "OnRemove", "db/d19/a26741.html#a52807f94eba44a9b574577a0b27acb22", null ],
-    [ "PrepareAuraScript", "db/d19/a26741.html#a430303b7df445d38da9316324359c2d6", null ],
-    [ "Register", "db/d19/a26741.html#aa2f2d9175c4429f5743ad6cc54b1634a", null ],
-    [ "Validate", "db/d19/a26741.html#aabfc9dd5bd171c0b4d2166c8d671e6cf", null ],
-    [ "_canProcT10", "db/d19/a26741.html#a26d723ef58e5df2852ce0ef20e1c1bdf", null ]
+    [ "CheckProc", "db/d19/a26741.html#ac3f606ee9c54ab23bdd1277594112ed1", null ],
+    [ "HandleProc", "db/d19/a26741.html#a9d6d6d752da222fd0edbb045840893fd", null ],
+    [ "PrepareAuraScript", "db/d19/a26741.html#a62a1ae18832157f00ee2eea31ff13d01", null ],
+    [ "Register", "db/d19/a26741.html#a5c417d0c4e46ebd2356f2d78ba5eee14", null ],
+    [ "Validate", "db/d19/a26741.html#a9e8a8a231ee04be353be7f0bf320776b", null ]
 ];

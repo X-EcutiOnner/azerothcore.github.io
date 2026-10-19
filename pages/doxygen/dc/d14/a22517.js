@@ -1,7 +1,8 @@
 var a22517 =
 [
-    [ "npc_wg_demolisher_engineer", "dc/d14/a22517.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
-    [ "canBuild", "dc/d14/a22517.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
-    [ "OnGossipHello", "dc/d14/a22517.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
-    [ "OnGossipSelect", "dc/d14/a22517.html#a3ecf69f45918bef0cb51023327ac9693", null ]
+    [ "spell_loosen_grip", "dc/d14/a22517.html#ae35f230e0c66e88f59558748c80470dd", null ],
+    [ "HandleScript", "dc/d14/a22517.html#af82f9b7afda00bae22fa53d8b63d2509", null ],
+    [ "PrepareSpellScript", "dc/d14/a22517.html#a219dc7d735f82d8e3b85390f0a881743", null ],
+    [ "Register", "dc/d14/a22517.html#a8b446d8b5ab00b984272c74b06663326", null ],
+    [ "_stacksToLose", "dc/d14/a22517.html#ae47dac5e3b380aeb22877ba5e5b5829f", null ]
 ];

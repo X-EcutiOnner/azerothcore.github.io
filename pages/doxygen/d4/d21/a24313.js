@@ -1,10 +1,7 @@
 var a24313 =
 [
-    [ "npc_infernal_attackerAI", "d4/d21/a24313.html#ae04c4e026f22bd650bb33940b923df9a", null ],
-    [ "IsSummonedBy", "d4/d21/a24313.html#a926e6cd6772784872a905de7245007ac", null ],
-    [ "JustDied", "d4/d21/a24313.html#a1822131520f98dd5f1dd637282f20ae3", null ],
-    [ "Reset", "d4/d21/a24313.html#a6c871d05d4fd0a6f72f409285f012f9c", null ],
-    [ "SpellHit", "d4/d21/a24313.html#a956f3fb1e341519817599df08afc2589", null ],
-    [ "UpdateAI", "d4/d21/a24313.html#a458ba4c884a95080e1088a07a04a9cb9", null ],
-    [ "casterGUID", "d4/d21/a24313.html#ab2e791cc0a67012bc56c3b07e3f327e9", null ]
+    [ "npc_bessyAI", "d8/db4/a24317.html", "d8/db4/a24317" ],
+    [ "npc_bessy", "d4/d21/a24313.html#a08278c1524445054ca158433044a0824", null ],
+    [ "GetAI", "d4/d21/a24313.html#af805bc5ee3de2fd6773158e51bf09d4a", null ],
+    [ "OnQuestAccept", "d4/d21/a24313.html#a98b8e816195b81bab12cc9906df79807", null ]
 ];

@@ -1,17 +1,14 @@
 var a18081 =
 [
-    [ "npc_gunship_boarding_addAI", "de/d84/a18081.html#accf0e65592983cc0199cb445aea55f99", null ],
-    [ "CanAIAttack", "de/d84/a18081.html#a7d30e525342d1cb13103a4d7ebe1bb39", null ],
-    [ "DamageTaken", "de/d84/a18081.html#a3b4eac0143e3c9eb2730c9bcf54f90b0", null ],
-    [ "EnterEvadeMode", "de/d84/a18081.html#a5350433e352e0302d03c750a143880cf", null ],
-    [ "MovementInform", "de/d84/a18081.html#aa2bd88e4539ddc99f888d41fcb78c383", null ],
-    [ "SetData", "de/d84/a18081.html#a4fd0655356a2f9b5820e0f42f267715e", null ],
-    [ "SetSlotInfo", "de/d84/a18081.html#adb50c92c76763733dbec025769d62a40", null ],
-    [ "UpdateAI", "de/d84/a18081.html#af25bee85b38d70d1b792d7c1752e45f5", null ],
-    [ "_usedDesperateResolve", "de/d84/a18081.html#aaf154d9774154e868d563b3c47916746", null ],
-    [ "anyValid", "de/d84/a18081.html#a7fafebb9c6076dbe7fc621788910f63b", null ],
-    [ "checkTimer", "de/d84/a18081.html#a9a6b6d68743b1e1e993fa32435ba6722", null ],
-    [ "Index", "de/d84/a18081.html#a18b570e7bae0e2c4d0dcfc788d9deec3", null ],
-    [ "Instance", "de/d84/a18081.html#a07eeeedf7c1315a41c073cfc83361c9f", null ],
-    [ "Slot", "de/d84/a18081.html#a1aef6abcddaca26da2d09d3d2e6e1152", null ]
+    [ "npc_gunshipAI", "de/d84/a18081.html#a75444497ffd6b7365827eea57fd946f9", null ],
+    [ "DamageTaken", "de/d84/a18081.html#a9c1825ec51aaecedd1035ae9a1ded6a0", null ],
+    [ "GetData", "de/d84/a18081.html#a0142bec2427c1256431e55d3f74b8948", null ],
+    [ "JustDied", "de/d84/a18081.html#aa19c815ad64f81fb5240c5e0667bccc9", null ],
+    [ "SetGUID", "de/d84/a18081.html#a7f336843c54de072cf58bc87ff08b068", null ],
+    [ "UpdateAI", "de/d84/a18081.html#a8bab1a755c2262e9f36f295781d30909", null ],
+    [ "_died", "de/d84/a18081.html#af4480427460748bccae214737469ddb7", null ],
+    [ "_instance", "de/d84/a18081.html#a21f9c24e80145db0c6847c81261d0e8d", null ],
+    [ "_shipVisits", "de/d84/a18081.html#a6f9730b746e195a99dc11357fd0387ba", null ],
+    [ "_summonedFirstMage", "de/d84/a18081.html#a721cc96cc76a27574a1a4eb1996b100e", null ],
+    [ "_teamIdInInstance", "de/d84/a18081.html#a195ff7ab2c2e96ab0bcd0a96c1e21512", null ]
 ];

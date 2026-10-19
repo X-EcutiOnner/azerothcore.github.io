@@ -1,10 +1,8 @@
 var a12889 =
 [
-    [ "npc_rookery_hatcher", "db/d6c/a12889.html#ab4740540a6fc2661c3c99bd2569a0bfa", null ],
-    [ "InitializeAI", "db/d6c/a12889.html#a58d6bb3ba8d39c0e92d30f4c124e3734", null ],
-    [ "JustEngagedWith", "db/d6c/a12889.html#a9d2e256f8df44254cc0301fe2b1fa628", null ],
-    [ "UpdateAI", "db/d6c/a12889.html#a011cf0384a7bf6dd502a767d6667140a", null ],
-    [ "events", "db/d6c/a12889.html#ab49d35c9d22408b01e27c8c7933433e0", null ],
-    [ "targetEgg", "db/d6c/a12889.html#a4fd5ed979e2c3d600e89e4592b7da98c", null ],
-    [ "targetPosition", "db/d6c/a12889.html#ac49345c80e58f7c0094fe1b62ac4bf84", null ]
+    [ "boss_halycon", "db/d6c/a12889.html#a8a88f0d26b4702fd1b4f015cc1366362", null ],
+    [ "JustDied", "db/d6c/a12889.html#a48bd1245ac5b76dac543a4389a8b37be", null ],
+    [ "JustEngagedWith", "db/d6c/a12889.html#a3f6ca689777e1aa43a214e8082897db1", null ],
+    [ "Reset", "db/d6c/a12889.html#a3b972bfcac3498c921978eab1d8fec4f", null ],
+    [ "UpdateAI", "db/d6c/a12889.html#acc375743131ce5643d04ae355b6d68b4", null ]
 ];

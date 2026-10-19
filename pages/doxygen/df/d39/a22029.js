@@ -1,7 +1,6 @@
 var a22029 =
 [
-    [ "OnRemove", "df/d39/a22029.html#a335bc64860227122e0536f61144e2003", null ],
-    [ "PrepareAuraScript", "df/d39/a22029.html#ae38bdeb74493f73bed1246c011bb2076", null ],
-    [ "Register", "df/d39/a22029.html#ae0c02eb80cebce089d18f8465b2f8a39", null ],
-    [ "Validate", "df/d39/a22029.html#af29efe88b5f56c5d49f2e48c3be1d8e6", null ]
+    [ "npc_spiritual_insightAI", "d4/df8/a22033.html", "d4/df8/a22033" ],
+    [ "npc_spiritual_insight", "df/d39/a22029.html#afe7b9d5953462719407f03b33b8de564", null ],
+    [ "GetAI", "df/d39/a22029.html#ab2884e1160ccad9adb8e3ae69db55bc4", null ]
 ];

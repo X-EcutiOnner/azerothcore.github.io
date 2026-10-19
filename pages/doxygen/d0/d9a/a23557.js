@@ -1,5 +1,6 @@
 var a23557 =
 [
-    [ "at_underbog_ghazan", "d0/d9a/a23557.html#aa6c74496bb30bf04e66ac3cd06110811", null ],
-    [ "_OnTrigger", "d0/d9a/a23557.html#a82d82a14a3d5c5125c331df126b9006a", null ]
+    [ "boss_rokmar_the_crackler", "d0/d9a/a23557.html#a0aca6a30d045bbea6f434979f4f1d2e9", null ],
+    [ "JustEngagedWith", "d0/d9a/a23557.html#ae376e6a96fa07136790f3ed04ee1023b", null ],
+    [ "Reset", "d0/d9a/a23557.html#aed9cf4a866d5e70647125a08885fb809", null ]
 ];

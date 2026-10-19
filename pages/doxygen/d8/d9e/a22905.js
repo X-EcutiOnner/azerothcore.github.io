@@ -1,7 +1,6 @@
 var a22905 =
 [
-    [ "npc_blade_of_azzinoth", "d8/d9e/a22905.html#a55afe56313c237afe8080662b2ed2dba", null ],
-    [ "DoAction", "d8/d9e/a22905.html#a8e746da7672c0177c4b6c91b1e9d2eb5", null ],
-    [ "IsSummonedBy", "d8/d9e/a22905.html#af2925da1235b809ee81469fe32ab0f92", null ],
-    [ "JustSummoned", "d8/d9e/a22905.html#a501e2d1ae9af813fd9c30395e7774983", null ]
+    [ "instance_shadow_labyrinth_InstanceMapScript", "d1/d39/a22909.html", "d1/d39/a22909" ],
+    [ "instance_shadow_labyrinth", "d8/d9e/a22905.html#a16a3acdfd9b1053374dfa5f27e5f3c19", null ],
+    [ "GetInstanceScript", "d8/d9e/a22905.html#af9edf624413593a5cdf025dd9a1c3631", null ]
 ];

@@ -1,5 +1,7 @@
 var a18933 =
 [
-    [ "achievement_neck_deep_in_vile", "de/d85/a18933.html#af0e54c236e7637d8c1a8cf7dbed5a195", null ],
-    [ "OnCheck", "de/d85/a18933.html#a9861c008f302279a4ac5f4ddc14ca2d0", null ]
+    [ "OnPeriodic", "de/d85/a18933.html#adfbfcf4ad8671ca4eaa439705f7b6c2a", null ],
+    [ "PrepareAuraScript", "de/d85/a18933.html#a5bb82c03f7c34e6febd3fe8aa57d4723", null ],
+    [ "Register", "de/d85/a18933.html#a0fc7ca43a0d82058fc04277742231388", null ],
+    [ "Validate", "de/d85/a18933.html#ae52c7c189a45a0bb5f3a627f502e3730", null ]
 ];

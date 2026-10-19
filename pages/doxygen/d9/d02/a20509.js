@@ -1,5 +1,6 @@
 var a20509 =
 [
-    [ "achievement_smell_saronite", "d9/d02/a20509.html#a42dce2aefa2561952dcf5289126035a8", null ],
-    [ "OnCheck", "d9/d02/a20509.html#a5180e3e53fa0f4d32d2a305d315bc8b3", null ]
+    [ "HandleScript", "d9/d02/a20509.html#a269167ff78ae3110193f7cfe4b4c0ef4", null ],
+    [ "PrepareSpellScript", "d9/d02/a20509.html#a79975a7f3e523c0feb87d3e084f98808", null ],
+    [ "Register", "d9/d02/a20509.html#aec017333dfc19701472dad3987538e69", null ]
 ];

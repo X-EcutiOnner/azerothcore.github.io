@@ -1,6 +1,6 @@
 var a00887 =
 [
-    [ "misc_commandscript", "d4/d16/a12603.html", "d4/d16/a12603" ],
+    [ "misc_commandscript", "df/da0/a12617.html", "df/da0/a12617" ],
     [ "AddSC_misc_commandscript", "d7/d92/a00887.html#ac722d20c86b9502b7c4c8ae711cc3917", null ],
     [ "GetLocalizeCreatureName", "d7/d92/a00887.html#aaedbdfd3cae227b11684151f41e3b977", null ],
     [ "SPELL_FREEZE", "d7/d92/a00887.html#a181bdc61e4eb1d21db975ca0227cb086", null ],

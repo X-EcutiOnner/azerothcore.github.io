@@ -1,10 +1,6 @@
 var a25037 =
 [
-    [ "CheckProc", "d1/da9/a25037.html#a1afbc5f8e86e0382be43c947e88306b3", null ],
-    [ "HandleProc", "d1/da9/a25037.html#a9fbfe3fba6283362bab181fcd15611b3", null ],
-    [ "PrepareAuraScript", "d1/da9/a25037.html#aa060ed89bc5e3c80d6402c8e79baa597", null ],
-    [ "Register", "d1/da9/a25037.html#a43cc9387ce5b1665147dcfecb1476c22", null ],
-    [ "Validate", "d1/da9/a25037.html#ad167a260f9a3d1f71a5a11b0bab6161c", null ],
-    [ "_lunarProcCooldownEnd", "d1/da9/a25037.html#a9fd6d9c34dba5cb302010df4d5c560c2", null ],
-    [ "_solarProcCooldownEnd", "d1/da9/a25037.html#a6f50d14abee53eb06f50edbcc78628c4", null ]
+    [ "OnHit", "d1/da9/a25037.html#a56ecd2ea05f48b874b2890d7f15cc362", null ],
+    [ "PrepareSpellScript", "d1/da9/a25037.html#a0d74ce7c43f0cb7329ca990f1b0eecdf", null ],
+    [ "Register", "d1/da9/a25037.html#a7cd2cc858eeb7805a3efb72b081c284e", null ]
 ];

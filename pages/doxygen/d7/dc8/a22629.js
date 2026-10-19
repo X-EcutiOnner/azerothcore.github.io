@@ -1,5 +1,5 @@
 var a22629 =
 [
-    [ "go_scourge_enclosure", "d7/dc8/a22629.html#a3611232cb735f336087d4d3c90f66b8d", null ],
-    [ "OnGossipHello", "d7/dc8/a22629.html#af505dd0a5d9224cd7586878d1fbd3351", null ]
+    [ "achievement_wg_didnt_stand_a_chance", "d7/dc8/a22629.html#afb397c74f00d1f5c59a24ef74b0cd1cd", null ],
+    [ "OnCheck", "d7/dc8/a22629.html#ae575bae454689e05c161e8480a13fa18", null ]
 ];

@@ -1,6 +1,9 @@
 var a22509 =
 [
-    [ "HandleEffectRemove", "d1/d41/a22509.html#a08c55501b95d4c92971fd5c95aaef1a7", null ],
-    [ "PrepareAuraScript", "d1/d41/a22509.html#aa0df1c7c112cf44fbe5a89894a1292b3", null ],
-    [ "Register", "d1/d41/a22509.html#a6f6ae6c012090337eb3f9ca4fd39749d", null ]
+    [ "HandlePeriodic", "d1/d41/a22509.html#a0943e7887ff935ccea21d913429e25a0", null ],
+    [ "OnRemove", "d1/d41/a22509.html#a46ae9f9c7b31fa46e0968dc521a2511b", null ],
+    [ "PrepareAuraScript", "d1/d41/a22509.html#a07ce1c801c8d770d639b8ffe05830c3b", null ],
+    [ "Register", "d1/d41/a22509.html#afa2a6d4653311d2f76831ef14d34c0dd", null ],
+    [ "_tickNumber", "d1/d41/a22509.html#a3f8943e288e96f639fb805869749879b", null ],
+    [ "_warning", "d1/d41/a22509.html#a19ffd2ca76a020ca8ca4b2ff91538888", null ]
 ];

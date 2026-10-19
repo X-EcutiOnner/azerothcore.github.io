@@ -1,9 +1,20 @@
 var a16577 =
 [
-    [ "instance_obsidian_sanctum_InstanceMapScript", "dc/dd9/a16577.html#a17e64475b7433b3dc0d87028c11c9c7f", null ],
-    [ "CheckAchievementCriteriaMeet", "dc/dd9/a16577.html#a62a5603b9063b4cbb773eb177aa2d0bc", null ],
-    [ "DoAction", "dc/dd9/a16577.html#abc08b37f23721ff2ce7a6662605a66ab", null ],
-    [ "GetGuidData", "dc/dd9/a16577.html#a01da8216f57e19b5bf8697700089118c", null ],
-    [ "m_uiPortalGUID", "dc/dd9/a16577.html#a166db22fd409d0387085053852e5ad30", null ],
-    [ "portalCount", "dc/dd9/a16577.html#ab7cec8a8a80713e436e4e4e80c5c1383", null ]
+    [ "boss_sartharion_dragonAI", "dc/dd9/a16577.html#ac77eaacb9a5360802e862c95e54ec8ef", null ],
+    [ "ClearInstance", "dc/dd9/a16577.html#a9e1fb29994441dd2d41aeb2c04205d7b", null ],
+    [ "DoAction", "dc/dd9/a16577.html#aeb49e63300a317f0e969159266fd8ea1", null ],
+    [ "HandleExtraEvent", "dc/dd9/a16577.html#a152126a6deb6b79943f667e1dccfe7e5", null ],
+    [ "JustDied", "dc/dd9/a16577.html#a9c664ff661a3e83b98e1a28c81d662b0", null ],
+    [ "JustEngagedWith", "dc/dd9/a16577.html#a2988e9a5a8edd9aa807d8b13867fe6d7", null ],
+    [ "JustSummoned", "dc/dd9/a16577.html#a16582179f25ddc130f97bb70fe80316f", null ],
+    [ "KilledUnit", "dc/dd9/a16577.html#a09428ec63c8589a527accf8b024f6666", null ],
+    [ "MoveInLineOfSight", "dc/dd9/a16577.html#a75cd7f27019e4013adde104e7663e5bc", null ],
+    [ "MovementInform", "dc/dd9/a16577.html#a6870b91b1d36c79add8bd86a8e1fac4d", null ],
+    [ "RemoveTwilightPortal", "dc/dd9/a16577.html#a26aff742f99b04bfaf56fa46158ce306", null ],
+    [ "Reset", "dc/dd9/a16577.html#a86acfe30f898bd6b709c4743ae808867", null ],
+    [ "UpdateAI", "dc/dd9/a16577.html#a0e9382d8dce8251336d81539b7d82e15", null ],
+    [ "currentPatrolPoint", "dc/dd9/a16577.html#a308e282df080758c41c70f49f8977098", null ],
+    [ "extraEvents", "dc/dd9/a16577.html#a0018fdf6e4567a74e5b16e4e09a00836", null ],
+    [ "isCalledBySartharion", "dc/dd9/a16577.html#a45a92a0754572b8d619fddbd1bdb234f", null ],
+    [ "portalGUID", "dc/dd9/a16577.html#a852ab0dabe5b6d8e6b0a53e6425ff085", null ]
 ];

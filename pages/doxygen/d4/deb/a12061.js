@@ -1,7 +1,8 @@
 var a12061 =
 [
-    [ "maxvalue", "d4/deb/a12061.html#a1dd2289b0d3505cb50e8613595ad8c8e", null ],
-    [ "skill", "d4/deb/a12061.html#a8bcbe05ff6a3220f9f05f52b16925f5d", null ],
-    [ "step", "d4/deb/a12061.html#a1c882f7d43c65954cb99566225660312", null ],
-    [ "value", "d4/deb/a12061.html#a064fece53cdaf07b072510b14200a968", null ]
+    [ "target_mapId", "d4/deb/a12061.html#a6dbbb558810388e0d051d84a0279a444", null ],
+    [ "target_Orientation", "d4/deb/a12061.html#a7e30264eff9ece771dfaa421ef987b2a", null ],
+    [ "target_X", "d4/deb/a12061.html#aa78b3d4cfb4277bcb1bf6a31ffc87546", null ],
+    [ "target_Y", "d4/deb/a12061.html#a6f432d8770adebf513346713b7890b5c", null ],
+    [ "target_Z", "d4/deb/a12061.html#a3af706b81f8fbef12277c518964f717a", null ]
 ];

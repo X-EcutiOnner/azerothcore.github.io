@@ -1,5 +1,7 @@
 var a19213 =
 [
-    [ "npc_darkfallen_archmage", "d6/d84/a19213.html#a8d21215aba6a282cf6d6450551876813", null ],
-    [ "ScheduleSpells", "d6/d84/a19213.html#a9a0e12d3d69a7c409d5c32ec68c51f60", null ]
+    [ "npc_impaling_spearAI", "d6/d84/a19213.html#ae8fbc36a15324b210a24a0e98357adc3", null ],
+    [ "Reset", "d6/d84/a19213.html#a43fa8bf8f22f0635261decd8b15ed6f5", null ],
+    [ "UpdateAI", "d6/d84/a19213.html#acb187a58b0ba256b4e003655ac36db34", null ],
+    [ "_vehicleCheckTimer", "d6/d84/a19213.html#a264874b9f6f0609792d4b3a325e54f59", null ]
 ];

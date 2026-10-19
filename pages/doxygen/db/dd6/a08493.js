@@ -1,5 +1,8 @@
 var a08493 =
 [
-    [ "Name", "db/dd6/a08493.html#aa971d38e5169f2b7b610cf6cf0aec928", null ],
-    [ "Title", "db/dd6/a08493.html#a344cbaef4846d4c9c76e1d783dd2b4fc", null ]
+    [ "TemporaryThreatModifierEvent", "db/dd6/a08493.html#afd58a1128ac6629d7541ba1bfd4ef886", null ],
+    [ "Execute", "db/dd6/a08493.html#a2bbd75ad5e293e78e4bffe880f371d1e", null ],
+    [ "m_owner", "db/dd6/a08493.html#ab786c99d73f0048a993ce7cee8c3b875", null ],
+    [ "m_threatValue", "db/dd6/a08493.html#aacb0f6e66d22a93ff074b4cbcf12b788", null ],
+    [ "m_threatVictimGUID", "db/dd6/a08493.html#aeae82bd80c9b8b08573c6e3baf359f55", null ]
 ];

@@ -1,7 +1,7 @@
 var a26457 =
 [
-    [ "AfterRemove", "df/d16/a26457.html#a554e2ab9dfd9d157eee13b7a5c33cf2e", null ],
-    [ "PrepareAuraScript", "df/d16/a26457.html#a13f11ec412f18d805282b3810aff5e90", null ],
-    [ "Register", "df/d16/a26457.html#ac9a6a96da8387d3c51fece7f0a968779", null ],
-    [ "Validate", "df/d16/a26457.html#a2863c81b02f0b08430d9e713e7b644f7", null ]
+    [ "HandleProc", "df/d16/a26457.html#a0a0dad1c639499963a61d18fe78af1c1", null ],
+    [ "PrepareAuraScript", "df/d16/a26457.html#aa5e12d556fef142f96c8f03dda4a4c80", null ],
+    [ "Register", "df/d16/a26457.html#ac8790ac907c6aa798575e2460c272f17", null ],
+    [ "Validate", "df/d16/a26457.html#a4020daf9d601eb53fe84f9cdbcf96626", null ]
 ];

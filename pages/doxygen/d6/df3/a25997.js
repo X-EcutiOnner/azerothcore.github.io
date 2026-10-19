@@ -1,6 +1,6 @@
 var a25997 =
 [
-    [ "HandleDummy", "d6/df3/a25997.html#ad086618ff3caadcf5126e12a1359503f", null ],
-    [ "PrepareSpellScript", "d6/df3/a25997.html#a4b3a79a9ba01226038a1da886f6a2f7c", null ],
-    [ "Register", "d6/df3/a25997.html#a214526ddc986ee829daf9090678e3a7b", null ]
+    [ "HandleDummyTick", "d6/df3/a25997.html#a000f8fd84e7292ac759b64a8a25d3ca2", null ],
+    [ "PrepareAuraScript", "d6/df3/a25997.html#a2848e44f1520cc32af916a8e6578c3ea", null ],
+    [ "Register", "d6/df3/a25997.html#a4a13827baeb7ed4f2681ab114d44eb37", null ]
 ];

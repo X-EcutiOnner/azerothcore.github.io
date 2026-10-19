@@ -1,6 +1,5 @@
 var a05191 =
 [
-    [ "ChatServerMessage", "de/d87/a11087.html", "de/d87/a11087" ],
-    [ "Emote", "df/d0e/a11079.html", "df/d0e/a11079" ],
-    [ "EmoteClient", "d5/d89/a11083.html", "d5/d89/a11083" ]
+    [ "ScriptTypeInfo", "dc/d18/a10973.html", "dc/d18/a10973" ],
+    [ "ScriptRegistryTypes", "de/d61/a05191.html#a0e91545a04304e85e47b9e1697318ecb", null ]
 ];

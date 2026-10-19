@@ -1,8 +1,6 @@
 var a21713 =
 [
-    [ "npc_mootoo_the_youngerAI", "d7/d92/a21713.html#a70a5a502dab9a90a790a90eabc5c3acd", null ],
-    [ "JustDied", "d7/d92/a21713.html#a766612f646a6d22d3f0e6f93298e34bc", null ],
-    [ "Reset", "d7/d92/a21713.html#a04624b9b4d552d6b27308edc3ad44644", null ],
-    [ "WaypointReached", "d7/d92/a21713.html#ac758a992ed0d62a272930c84d617b348", null ],
-    [ "WaypointReached", "d7/d92/a21713.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "npc_sinkhole_kill_creditAI", "d5/df5/a21717.html", "d5/df5/a21717" ],
+    [ "npc_sinkhole_kill_credit", "d7/d92/a21713.html#a627d01aaaa3408986f2b4d171624e680", null ],
+    [ "GetAI", "d7/d92/a21713.html#a4d734432f132bea2c4525d049fbcfa67", null ]
 ];

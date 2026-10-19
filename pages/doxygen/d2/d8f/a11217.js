@@ -1,6 +1,5 @@
 var a11217 =
 [
-    [ "GuildOfficerRemoveMember", "d2/d8f/a11217.html#acd0f767ff61006c7b3c78f3dbb6da558", null ],
-    [ "Read", "d2/d8f/a11217.html#aa0c3cd629b73cb079cc3cf90bf6f8067", null ],
-    [ "Removee", "d2/d8f/a11217.html#a18ece7d865fa1b5da005c7c03397b4e2", null ]
+    [ "GuildDeleteRank", "d2/d8f/a11217.html#ae21057ea5cc30ed07deaa736149617b3", null ],
+    [ "Read", "d2/d8f/a11217.html#a91a7883299fe09e08c247c96987a8333", null ]
 ];

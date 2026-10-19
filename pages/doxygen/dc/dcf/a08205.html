@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: LinkValidator&lt; LinkTags::found &gt; Struct Reference</title>
+<title>AzerothCore: LinkValidator&lt; LinkTags::spell &gt; Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -107,21 +107,21 @@ $(document).ready(function(){initNavTree('dc/dcf/a08205.html','../../'); initRes
   <div class="summary">
 <a href="#pub-static-methods">Static Public Member Functions</a> &#124;
 <a href="../../d6/d03/a08202.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">LinkValidator&lt; LinkTags::found &gt; Struct Reference</div></div>
+  <div class="headertitle"><div class="title">LinkValidator&lt; LinkTags::spell &gt; Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
 Static Public Member Functions</h2></td></tr>
-<tr class="memitem:ad4418635d2b1f37ab52846ee0315a671"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcf/a08205.html#ad4418635d2b1f37ab52846ee0315a671">IsTextValid</a> (<a class="el" href="../../dd/d71/a08233.html">FoundLinkData</a> const &amp;, std::string_view text)</td></tr>
-<tr class="separator:ad4418635d2b1f37ab52846ee0315a671"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae588303fb9610e1f891c1b0ce266e677"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcf/a08205.html#ae588303fb9610e1f891c1b0ce266e677">IsColorValid</a> (<a class="el" href="../../dd/d71/a08233.html">FoundLinkData</a> const &amp;, <a class="el" href="../../d2/d2d/a08277.html">HyperlinkColor</a> c)</td></tr>
-<tr class="separator:ae588303fb9610e1f891c1b0ce266e677"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a54af0b68fa7891adbc3001c74e251ea1"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcf/a08205.html#a54af0b68fa7891adbc3001c74e251ea1">IsTextValid</a> (<a class="el" href="../../df/d0b/a12037.html">SpellInfo</a> const *info, std::string_view text)</td></tr>
+<tr class="separator:a54af0b68fa7891adbc3001c74e251ea1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a816b3afba97af88a04cd5a724e9b663c"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcf/a08205.html#a816b3afba97af88a04cd5a724e9b663c">IsColorValid</a> (<a class="el" href="../../df/d0b/a12037.html">SpellInfo</a> const *, <a class="el" href="../../d3/da9/a08297.html">HyperlinkColor</a> c)</td></tr>
+<tr class="separator:a816b3afba97af88a04cd5a724e9b663c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="ae588303fb9610e1f891c1b0ce266e677" name="ae588303fb9610e1f891c1b0ce266e677"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae588303fb9610e1f891c1b0ce266e677">&#9670;&#160;</a></span>IsColorValid()</h2>
+<a id="a816b3afba97af88a04cd5a724e9b663c" name="a816b3afba97af88a04cd5a724e9b663c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a816b3afba97af88a04cd5a724e9b663c">&#9670;&#160;</a></span>IsColorValid()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -130,15 +130,15 @@ Static Public Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static bool <a class="el" href="../../de/da7/a08169.html">LinkValidator</a>&lt; <a class="el" href="../../de/d72/a08249.html">LinkTags::found</a> &gt;::IsColorValid </td>
+          <td class="memname">static bool <a class="el" href="../../df/d37/a08189.html">LinkValidator</a>&lt; <a class="el" href="../../de/db5/a08285.html">LinkTags::spell</a> &gt;::IsColorValid </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dd/d71/a08233.html">FoundLinkData</a> const &amp;&#160;</td>
+          <td class="paramtype"><a class="el" href="../../df/d0b/a12037.html">SpellInfo</a> const *&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d2/d2d/a08277.html">HyperlinkColor</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d3/da9/a08297.html">HyperlinkColor</a>&#160;</td>
           <td class="paramname"><em>c</em>&#160;</td>
         </tr>
         <tr>
@@ -153,17 +153,17 @@ Static Public Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  347</span>    {</div>
-<div class="line"><span class="lineno">  348</span>        <span class="keywordflow">return</span> c == <a class="code hl_enumvalue" href="../../d7/d3f/a00173.html#aff4462a11392766622feb9f20463ffb6a5c47688297f4ea30606c8f24b1580ee5">CHAT_LINK_COLOR_ACHIEVEMENT</a>; <span class="comment">// 0xffffff00 - yellow</span></div>
-<div class="line"><span class="lineno">  349</span>    }</div>
-<div class="ttc" id="aa00173_html_aff4462a11392766622feb9f20463ffb6a5c47688297f4ea30606c8f24b1580ee5"><div class="ttname"><a href="../../d7/d3f/a00173.html#aff4462a11392766622feb9f20463ffb6a5c47688297f4ea30606c8f24b1580ee5">CHAT_LINK_COLOR_ACHIEVEMENT</a></div><div class="ttdeci">@ CHAT_LINK_COLOR_ACHIEVEMENT</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3447</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  242</span>    {</div>
+<div class="line"><span class="lineno">  243</span>        <span class="keywordflow">return</span> c == <a class="code hl_enumvalue" href="../../d4/d81/a00110.html#aff4462a11392766622feb9f20463ffb6a56dac043536cc715837469acf48edda1">CHAT_LINK_COLOR_SPELL</a>;</div>
+<div class="line"><span class="lineno">  244</span>    }</div>
+<div class="ttc" id="aa00110_html_aff4462a11392766622feb9f20463ffb6a56dac043536cc715837469acf48edda1"><div class="ttname"><a href="../../d4/d81/a00110.html#aff4462a11392766622feb9f20463ffb6a56dac043536cc715837469acf48edda1">CHAT_LINK_COLOR_SPELL</a></div><div class="ttdeci">@ CHAT_LINK_COLOR_SPELL</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3445</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l03447">CHAT_LINK_COLOR_ACHIEVEMENT</a>.</p>
+<p class="reference">References <a class="el" href="../../#l03445">CHAT_LINK_COLOR_SPELL</a>.</p>
 
 </div>
 </div>
-<a id="ad4418635d2b1f37ab52846ee0315a671" name="ad4418635d2b1f37ab52846ee0315a671"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad4418635d2b1f37ab52846ee0315a671">&#9670;&#160;</a></span>IsTextValid()</h2>
+<a id="a54af0b68fa7891adbc3001c74e251ea1" name="a54af0b68fa7891adbc3001c74e251ea1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a54af0b68fa7891adbc3001c74e251ea1">&#9670;&#160;</a></span>IsTextValid()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -172,10 +172,10 @@ Static Public Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static bool <a class="el" href="../../de/da7/a08169.html">LinkValidator</a>&lt; <a class="el" href="../../de/d72/a08249.html">LinkTags::found</a> &gt;::IsTextValid </td>
+          <td class="memname">static bool <a class="el" href="../../df/d37/a08189.html">LinkValidator</a>&lt; <a class="el" href="../../de/db5/a08285.html">LinkTags::spell</a> &gt;::IsTextValid </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dd/d71/a08233.html">FoundLinkData</a> const &amp;&#160;</td>
-          <td class="paramname">, </td>
+          <td class="paramtype"><a class="el" href="../../df/d0b/a12037.html">SpellInfo</a> const *&#160;</td>
+          <td class="paramname"><em>info</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
@@ -195,10 +195,17 @@ Static Public Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  342</span>    {</div>
-<div class="line"><span class="lineno">  343</span>        <span class="keywordflow">return</span> !text.empty();</div>
-<div class="line"><span class="lineno">  344</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  234</span>    {</div>
+<div class="line"><span class="lineno">  235</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d8/d12/a04694.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; <a class="code hl_enumvalue" href="../../d6/d32/a05075.html#a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8">TOTAL_LOCALES</a>; ++i)</div>
+<div class="line"><span class="lineno">  236</span>            <span class="keywordflow">if</span> (text == info-&gt;SpellName[i])</div>
+<div class="line"><span class="lineno">  237</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  238</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  239</span>    }</div>
+<div class="ttc" id="aa04694_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d8/d12/a04694.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
+<div class="ttc" id="aa05075_html_a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8"><div class="ttname"><a href="../../d6/d32/a05075.html#a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8">TOTAL_LOCALES</a></div><div class="ttdeci">@ TOTAL_LOCALES</div><div class="ttdef"><b>Definition:</b> Common.h:137</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00407">SpellInfo::SpellName</a>, and <a class="el" href="../../#l00137">TOTAL_LOCALES</a>.</p>
+
 </div>
 </div>
 </div><!-- contents -->
@@ -206,8 +213,8 @@ Static Public Member Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dc/dcf/a08205.html">LinkValidator&lt; LinkTags::found &gt;</a></li>
-    <li class="footer">Generated on Mon Sep 14 2026 23:33:54 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dc/dcf/a08205.html">LinkValidator&lt; LinkTags::spell &gt;</a></li>
+    <li class="footer">Generated on Mon Oct 19 2026 23:57:13 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

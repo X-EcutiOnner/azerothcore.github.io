@@ -1,5 +1,5 @@
 var a28449 =
 [
-    [ "go_soulwellAI", "d9/dee/a28449.html#af8c28f9d3ddf5fa3591433268d14fc98", null ],
-    [ "GossipHello", "d9/dee/a28449.html#a3df147478af8930d9b6108a183e9478f", null ]
+    [ "go_tablet_of_the_seven", "d9/dee/a28449.html#aa5bcd36c6d0250571f6721f71864ab59", null ],
+    [ "OnGossipHello", "d9/dee/a28449.html#a54d27dc2a52d69d8fd9605c358a855fc", null ]
 ];

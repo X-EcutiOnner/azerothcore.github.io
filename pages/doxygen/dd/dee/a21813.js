@@ -1,6 +1,7 @@
 var a21813 =
 [
-    [ "npc_archmage_landalockAI", "d3/d01/a21817.html", "d3/d01/a21817" ],
-    [ "npc_archmage_landalock", "dd/dee/a21813.html#ac7379ff07740123312af66ead64df4c6", null ],
-    [ "GetAI", "dd/dee/a21813.html#a92cfa8c2660413681297bfe12815c938", null ]
+    [ "HandleEffectHit", "dd/dee/a21813.html#a8d7dd2411c3b786e682260eb30862602", null ],
+    [ "PrepareSpellScript", "dd/dee/a21813.html#a49b6d005013e480f8161779119bc9b2d", null ],
+    [ "Register", "dd/dee/a21813.html#a017ae25fead98a5c18cdb83128085ddd", null ],
+    [ "Validate", "dd/dee/a21813.html#a9e1dbc7714a35bcc7ec26286419517c2", null ]
 ];

@@ -1,7 +1,7 @@
 var a26477 =
 [
-    [ "HandlePeriodicDummy", "d8/df6/a26477.html#ac8ca6a69b47cb2316b93e1953e233f8f", null ],
-    [ "PrepareAuraScript", "d8/df6/a26477.html#a1c85329bcafd6c327d1862feabc1eed0", null ],
-    [ "Register", "d8/df6/a26477.html#a0c43d96bf2e59fd67790f327cf14d71e", null ],
-    [ "Validate", "d8/df6/a26477.html#a7c3f4223a709e3cbb7d4a5b4b6a9e1c5", null ]
+    [ "HandleDummy", "d8/df6/a26477.html#a334563491c3cbb9daa9d97dad738e9e5", null ],
+    [ "PrepareSpellScript", "d8/df6/a26477.html#a69fe453f3c6764c3977c539d5fc71049", null ],
+    [ "Register", "d8/df6/a26477.html#af81469f371224a3180d73b3cf8cf001a", null ],
+    [ "Validate", "d8/df6/a26477.html#af0ab473a4ec7f1eebb70d0f2344de8ca", null ]
 ];

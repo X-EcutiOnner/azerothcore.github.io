@@ -1,6 +1,5 @@
 var a22225 =
 [
-    [ "npc_boneguard_footmanAI", "d9/d82/a22229.html", "d9/d82/a22229" ],
-    [ "npc_boneguard_footman", "d6/d8a/a22225.html#aba17f89b9546deff5401ad33224b2b3e", null ],
-    [ "GetAI", "d6/d8a/a22225.html#ab0b28f61e26f701db17a0d19bbde4492", null ]
+    [ "go_sister_mercy", "d6/d8a/a22225.html#a3c29ef699afe163b9a505f472709a795", null ],
+    [ "EventInform", "d6/d8a/a22225.html#a5ad9020e2717ef93d97a742ec16b14e6", null ]
 ];

@@ -1,6 +1,5 @@
 var a18045 =
 [
-    [ "npc_high_overlord_saurfang_igbAI", "d9/d1f/a18049.html", "d9/d1f/a18049" ],
-    [ "npc_high_overlord_saurfang_igb", "db/d77/a18045.html#ae68d42f65851a753874705511bb83330", null ],
-    [ "GetAI", "db/d77/a18045.html#a54b6da97a40665232d28a20bac9b7ef3", null ]
+    [ "achievement_flu_shot_shortage", "db/d77/a18045.html#af448c773bcdf31cec7ae9d7c85e9e595", null ],
+    [ "OnCheck", "db/d77/a18045.html#a3195af1d4504ffc200c99bef84eaaa5a", null ]
 ];

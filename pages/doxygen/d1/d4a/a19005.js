@@ -1,7 +1,9 @@
 var a19005 =
 [
-    [ "npc_blazing_skeletonAI", "d1/d4a/a19005.html#ad4f997a7a4cc0fa96594da35434fd921", null ],
-    [ "Reset", "d1/d4a/a19005.html#a3bbc4cf7b6dbe11d6768a0fb0626e84a", null ],
-    [ "UpdateAI", "d1/d4a/a19005.html#a0010c4befd13ec6beada0de1607f3f7a", null ],
-    [ "_events", "d1/d4a/a19005.html#aab1b04989d5e3fc289f00bc121df193d", null ]
+    [ "npc_green_dragon_combat_triggerAI", "d1/d4a/a19005.html#a4d4bd899a40ff44f8ee517b2a0328538", null ],
+    [ "DoAction", "d1/d4a/a19005.html#abbd08537ed245084ca7d4cf852a749a2", null ],
+    [ "JustEnteredCombat", "d1/d4a/a19005.html#ae25ca99139f8bb0082b97599cb924bd9", null ],
+    [ "JustExitedCombat", "d1/d4a/a19005.html#add8ce38b4a75947dc0170c7aba9c5589", null ],
+    [ "MoveInLineOfSight", "d1/d4a/a19005.html#ab2465cf3e5950d827eb0a30e9fc2ea47", null ],
+    [ "Reset", "d1/d4a/a19005.html#a3dfe1f28c9301c30186beb27ab76f9a9", null ]
 ];

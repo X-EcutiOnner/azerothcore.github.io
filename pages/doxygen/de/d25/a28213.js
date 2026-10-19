@@ -1,6 +1,5 @@
 var a28213 =
 [
-    [ "AreaTrigger_at_brewfest", "de/d25/a28213.html#ad7e2916aefc6efbfb9f747a75a4a14a3", null ],
-    [ "OnTrigger", "de/d25/a28213.html#a17e4a8d671136466c7673789e4f69a84", null ],
-    [ "_triggerTimes", "de/d25/a28213.html#ab763765427796ad17338bcc8d63cf891", null ]
+    [ "achievement_killed_exp_or_honor_target", "de/d25/a28213.html#aad432878c97af698dd1cc4019d716281", null ],
+    [ "OnCheck", "de/d25/a28213.html#ace8fc68ebb73e39626797be4caa45a3c", null ]
 ];

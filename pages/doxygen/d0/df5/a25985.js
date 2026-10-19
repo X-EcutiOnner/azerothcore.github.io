@@ -1,7 +1,9 @@
 var a25985 =
 [
-    [ "HandleScriptEffect", "d0/df5/a25985.html#a3ad488a1b6115bb1ec8cfe6717d3b4cf", null ],
-    [ "Load", "d0/df5/a25985.html#af89783564da25769be15e22291717f6a", null ],
-    [ "PrepareSpellScript", "d0/df5/a25985.html#a1e7e4137712fcaa378d1ac7ff1b0a6c7", null ],
-    [ "Register", "d0/df5/a25985.html#addbe722d9f3727578f817789e3010bab", null ]
+    [ "getMountSpellId", "d0/df5/a25985.html#afe306ed6057050baf342ee717723764d", null ],
+    [ "OnApply", "d0/df5/a25985.html#aa8bee986d413be60d00ac1d2111ef719", null ],
+    [ "OnRemove", "d0/df5/a25985.html#a162d466a1dcd2cb710abf12c06f7c2de", null ],
+    [ "PrepareAuraScript", "d0/df5/a25985.html#a7070cc7aeec4a88fbde960cebf1aef56", null ],
+    [ "Register", "d0/df5/a25985.html#a481e5295da3d789d9b3c1ed30fdaf0bd", null ],
+    [ "Validate", "d0/df5/a25985.html#a6868f6e88c9179efd921b266c83f6daf", null ]
 ];

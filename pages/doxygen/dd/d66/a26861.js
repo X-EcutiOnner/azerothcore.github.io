@@ -1,9 +1,10 @@
 var a26861 =
 [
-    [ "spell_pal_judgement", "dd/d66/a26861.html#a497aed8c1d8c6a2af22e9e8daae96e14", null ],
-    [ "HandleScriptEffect", "dd/d66/a26861.html#add419a824dbebdc168d2b6dc49d07913", null ],
-    [ "PrepareSpellScript", "dd/d66/a26861.html#a2cffed69c16a1a6189048ed52af35152", null ],
-    [ "Register", "dd/d66/a26861.html#ad8e65beb41a1bb41a2dd307f3b1da839", null ],
-    [ "Validate", "dd/d66/a26861.html#a3971c195a279338253771675131b4802", null ],
-    [ "_spellId", "dd/d66/a26861.html#ad49ea02800078c672747f4fdbbab1d20", null ]
+    [ "Load", "dd/d66/a26861.html#a4330a13b4144aa0a2e299c5cb00b1aea", null ],
+    [ "PrepareAuraScript", "dd/d66/a26861.html#ae04fa1b54e4b0219d1dcdf998e708c29", null ],
+    [ "Register", "dd/d66/a26861.html#a3031d32b7366f7f707cbb69e3cb96fc8", null ],
+    [ "Split", "dd/d66/a26861.html#aa28fe4ba6a8a501318b6d1d49a2fa9b9", null ],
+    [ "groupSize", "dd/d66/a26861.html#aa1e61b128f63c802dc623be551657df1", null ],
+    [ "minHpPct", "dd/d66/a26861.html#a279f1a2b232a7be981e4315c9e8595e4", null ],
+    [ "remainingAmount", "dd/d66/a26861.html#ad00a550f82d6b3ae77c3112c753de60b", null ]
 ];

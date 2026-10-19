@@ -1,13 +1,13 @@
 var a16277 =
 [
-    [ "npc_cairne_bloodhoofAI", "d1/df0/a16277.html#ac87f0d10b1886ffa24ae201fdb614441", null ],
-    [ "JustDied", "d1/df0/a16277.html#a88bab853ee3f7445c1d5f0d4d1f3485b", null ],
-    [ "Reset", "d1/df0/a16277.html#ab58f32a6bd1659b1a54fb056526c121a", null ],
-    [ "sGossipSelect", "d1/df0/a16277.html#aa95b820eb4d3c6c5f1898a67c319b1a6", null ],
-    [ "UpdateAI", "d1/df0/a16277.html#aefcbb7b2da6d1039055c27feeb1f5f9e", null ],
-    [ "_berserkerChargeTimer", "d1/df0/a16277.html#a2efb1949abe83dadf62b5c868ae57fe2", null ],
-    [ "_cleaveTimer", "d1/df0/a16277.html#ab1ed741e998cd7ed088cab3af378b3ca", null ],
-    [ "_mortalStrikeTimer", "d1/df0/a16277.html#a9f33790662ce229669e5d1d6f2aac8b0", null ],
-    [ "_thunderclapTimer", "d1/df0/a16277.html#a6bdca667875353db2badc40fd95a1ce4", null ],
-    [ "_uppercutTimer", "d1/df0/a16277.html#a9f13acd7df900d9bdac64898b183c67d", null ]
+    [ "npc_wizzlecrank_shredderAI", "d1/df0/a16277.html#a055c4b426219aa3372a83d2e2021d916", null ],
+    [ "JustSummoned", "d1/df0/a16277.html#a7cad21f0b3286ed75256a49c315069ce", null ],
+    [ "Reset", "d1/df0/a16277.html#a86929e8a2f3433f37e4dda03e3011193", null ],
+    [ "UpdateEscortAI", "d1/df0/a16277.html#acb95eeebd0317f1d95bc48d6b9e7e962", null ],
+    [ "WaypointReached", "d1/df0/a16277.html#a369ae3d62d1289a1c840bdc3184b463d", null ],
+    [ "WaypointReached", "d1/df0/a16277.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "WaypointStart", "d1/df0/a16277.html#a00857e372e53950338ed71d672edb780", null ],
+    [ "IsPostEvent", "d1/df0/a16277.html#a9207ffdb39627b1262ec209fe41d6d0a", null ],
+    [ "PostEventCount", "d1/df0/a16277.html#aa5284a284c074f32cee85d29aea00f2f", null ],
+    [ "PostEventTimer", "d1/df0/a16277.html#a3c43ede2df7b1ea61b0f1625e2e1461c", null ]
 ];

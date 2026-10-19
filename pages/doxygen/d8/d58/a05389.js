@@ -1,11 +1,8 @@
 var a05389 =
 [
-    [ "ModelPosition", "d8/d58/a05389.html#ac611d964ae36e4ccd5a3bf385457a0ac", null ],
-    [ "init", "d8/d58/a05389.html#a5b7df306c28a7985fd3ab17d48350a27", null ],
-    [ "moveToBasePos", "d8/d58/a05389.html#adb4da027178ca086fe72b4ccf4ea327a", null ],
-    [ "transform", "d8/d58/a05389.html#a7e72fc425ad6aae4844090760c1938df", null ],
-    [ "iDir", "d8/d58/a05389.html#a24ba62281166e60036ac8a57b26c6abd", null ],
-    [ "iPos", "d8/d58/a05389.html#a36a3bd930273e0313e3b09c1289e9317", null ],
-    [ "iRotation", "d8/d58/a05389.html#ae53c5b044021f5ef04ecb5d8898fd8b3", null ],
-    [ "iScale", "d8/d58/a05389.html#a81bb029dce2aadec2f147a1329ee285e", null ]
+    [ "LocationInfo", "d8/d58/a05389.html#ae2e70dc65cd3b0379600a67dce7de6ba", null ],
+    [ "ground_Z", "d8/d58/a05389.html#a0ffbfcfc677809dda6250855d9594ca5", null ],
+    [ "hitInstance", "d8/d58/a05389.html#ab59b10bde437cca895b69c2035174b6d", null ],
+    [ "hitModel", "d8/d58/a05389.html#a17eef5c7a0ebf9b9963740a10fca459f", null ],
+    [ "rootId", "d8/d58/a05389.html#aae82d7d8518db5e131d6a327927c75a2", null ]
 ];

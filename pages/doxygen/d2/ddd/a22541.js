@@ -1,6 +1,7 @@
 var a22541 =
 [
-    [ "npc_wg_siege_machineAI", "db/ded/a22545.html", "db/ded/a22545" ],
-    [ "npc_wg_siege_machine", "d2/ddd/a22541.html#a23dc1bbeaa396cad781ec177881e7d2a", null ],
-    [ "GetAI", "d2/ddd/a22541.html#ae8b2a71378565ad5428f1ae582cacca1", null ]
+    [ "HandleScript", "d2/ddd/a22541.html#abd4542dc4fd3e21a25c5c3fe5cc6e534", null ],
+    [ "PrepareSpellScript", "d2/ddd/a22541.html#a8400fb2e0955444aee21b994d78b78c3", null ],
+    [ "Register", "d2/ddd/a22541.html#ae3b2b7d9745ed8b83268a8f57e66eb31", null ],
+    [ "Validate", "d2/ddd/a22541.html#aa9c2280cbb38db2620db9869e4959153", null ]
 ];

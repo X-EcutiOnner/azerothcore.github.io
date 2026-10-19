@@ -1,8 +1,9 @@
 var a29737 =
 [
-    [ "auraHasCanProcFromProcs", "d1/d7b/a29737.html#af3e394eb5563aa4a76bd51d6c52f6db2", null ],
-    [ "isTriggered", "d1/d7b/a29737.html#aae527e9b8a2969ef67e9c4fbaf43c381", null ],
-    [ "procAuraSpellId", "d1/d7b/a29737.html#ae198c80e6c72eeb72da0abcde8a0f13a", null ],
-    [ "spellHasNotAProc", "d1/d7b/a29737.html#ab2f859d45c5a9a02301ecc117bf3e25e", null ],
-    [ "triggeredByAuraSpellId", "d1/d7b/a29737.html#ad62562e342e1d090e3f26f7c40a35795", null ]
+    [ "chargeConsumed", "d1/d7b/a29737.html#a49f170e5f66cecdf6d719d1f6ac97254", null ],
+    [ "cooldownSet", "d1/d7b/a29737.html#a60219087858953e3ea124b1b784516b2", null ],
+    [ "effectMask", "d1/d7b/a29737.html#ae0feb161d225551bba25d466541cde84", null ],
+    [ "procChance", "d1/d7b/a29737.html#a0299896836a739f2601a5ee1078f53bb", null ],
+    [ "shouldProc", "d1/d7b/a29737.html#a497babcaf1a36b0abd10b4e360c231f2", null ],
+    [ "spellsCast", "d1/d7b/a29737.html#a12d58d19ba4df25b8bd9dc6e1d089408", null ]
 ];

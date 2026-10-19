@@ -1,11 +1,7 @@
 var a22009 =
 [
-    [ "npc_torturer_lecraftAI", "da/da7/a22009.html#a0886d83c8ab8b7db728928ecf922031b", null ],
-    [ "JustEngagedWith", "da/da7/a22009.html#ac6fa83aa5673bd6c90e128f06e56049e", null ],
-    [ "Reset", "da/da7/a22009.html#a13177e318e7777ecb13ba71c4f10f425", null ],
-    [ "SpellHit", "da/da7/a22009.html#a837805efcb6c99de55646a232f151ae8", null ],
-    [ "UpdateAI", "da/da7/a22009.html#a45919da006b0e767ec38810a6fcbac5d", null ],
-    [ "_events", "da/da7/a22009.html#a7879e11a94c32266ed11dc352ae7e802", null ],
-    [ "_playerGUID", "da/da7/a22009.html#ab792ceb52fe5c04851f69b9c2922822d", null ],
-    [ "_textCounter", "da/da7/a22009.html#aa7560f419ca1486efb9d6c3bda3cedf1", null ]
+    [ "FilterTargets", "da/da7/a22009.html#af62588a225f0b701a0f9321677ae22b8", null ],
+    [ "HandleScript", "da/da7/a22009.html#ad68fad08b2613de096e504bb7dea61cd", null ],
+    [ "PrepareSpellScript", "da/da7/a22009.html#a76ac3fe280585a4e2b2d599b4bcc7846", null ],
+    [ "Register", "da/da7/a22009.html#a8fdbf1c7ab67c0ef094d738ec9a169d8", null ]
 ];

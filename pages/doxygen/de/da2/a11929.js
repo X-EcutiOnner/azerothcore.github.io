@@ -1,10 +1,7 @@
 var a11929 =
 [
-    [ "TriggeredByAuraSpellData", "de/da2/a11929.html#a3f4704eed73af1e37a3d09434cfcddae", null ],
-    [ "Init", "de/da2/a11929.html#a782e0056967e006748318af3112c0e43", null ],
-    [ "operator bool", "de/da2/a11929.html#a85d4782b76b060c172aaa6f914d400da", null ],
-    [ "operator!", "de/da2/a11929.html#af7290a4c37b1829a98e436486fa8b6cd", null ],
-    [ "effectIndex", "de/da2/a11929.html#a9bbee8d48d4beb8a21721a10e0380c41", null ],
-    [ "spellInfo", "de/da2/a11929.html#af58f62fb168e9da7011f7b570f08e977", null ],
-    [ "tickNumber", "de/da2/a11929.html#afbb1ffd006dc6eb00ccd65add87b1b22", null ]
+    [ "DynObjAura", "de/da2/a11929.html#aef75bb5d60c10ac63821b0e9baf6eb7a", null ],
+    [ "FillTargetMap", "de/da2/a11929.html#af8e36643ed675ff5652e4665bee9b0c3", null ],
+    [ "Remove", "de/da2/a11929.html#ada3f65b4a817e2337da43da437b93a3b", null ],
+    [ "Aura::Create", "de/da2/a11929.html#ae2c0fdfb409846fec5e861de60797112", null ]
 ];

@@ -1,12 +1,11 @@
 var a04541 =
 [
-    [ "BinarySpellDetectionTest", "df/d1e/a30063.html", "df/d1e/a30063" ],
-    [ "ShouldMarkBinary", "d9/d36/a04541.html#ab2154405a408271aa60863454b0303fe", null ],
-    [ "TEST_F", "d9/d36/a04541.html#ae8ecca79d16f8a89b183cf4611dad5d0", null ],
-    [ "TEST_F", "d9/d36/a04541.html#afb1918ddefeb036bd6be1fbde953b78b", null ],
-    [ "TEST_F", "d9/d36/a04541.html#a1dc398eff0ed30b3e1997c3b27980bed", null ],
-    [ "TEST_F", "d9/d36/a04541.html#ad56defbc63a988ba5126194ff9cea5ec", null ],
-    [ "TEST_F", "d9/d36/a04541.html#a54fa8a3ce4060060ece3f2a2d9e852e7", null ],
-    [ "TEST_F", "d9/d36/a04541.html#aa1b8d26dc43fa9eaf1d827a0c4308dd1", null ],
-    [ "TEST_F", "d9/d36/a04541.html#a4e6cbd19c7f85354ce9a5f5a9a1bafe6", null ]
+    [ "SpellCritDamageBonusOrderTest", "d9/d57/a30117.html", null ],
+    [ "CorrectCritOrder", "d9/d36/a04541.html#ab55aeffce172b7e667fdcb86ba06d954", null ],
+    [ "OldWrongCritOrder", "d9/d36/a04541.html#ae0ad4b3cd3c2381976fd6106fc4f8088", null ],
+    [ "TEST_F", "d9/d36/a04541.html#aa932f572f1a8831ecf4bc5475b7598fb", null ],
+    [ "TEST_F", "d9/d36/a04541.html#a2f98b8f734392902e0cd2dc96a8ef637", null ],
+    [ "TEST_F", "d9/d36/a04541.html#ae30b40dccd8a24d78d006e8e9ac63f19", null ],
+    [ "TEST_F", "d9/d36/a04541.html#a4172aa23985d10af03e6a92c7fa9dd2e", null ],
+    [ "TEST_F", "d9/d36/a04541.html#ad8c6026ca0167ae177e227997c8e2388", null ]
 ];

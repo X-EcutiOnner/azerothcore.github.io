@@ -1,7 +1,14 @@
 var a11953 =
 [
-    [ "WorldObjectSpellNearbyTargetCheck", "d4/dcc/a11953.html#a221449b52f64ad03527f69a95f5b8b0f", null ],
-    [ "operator()", "d4/dcc/a11953.html#a731ee07d028a5ee63ecd14321c83664d", null ],
-    [ "_position", "d4/dcc/a11953.html#a7b19899dd015a73bd1ae4c71fa9ae79d", null ],
-    [ "_range", "d4/dcc/a11953.html#abfec0df490876b2b83dcdee4da75a77f", null ]
+    [ "alive", "d4/dcc/a11953.html#aebeb2f67bf8646770570e5564fb01d4d", null ],
+    [ "crit", "d4/dcc/a11953.html#a908278bd46f9be3e1191f4883f9eb32f", null ],
+    [ "damage", "d4/dcc/a11953.html#a5bdf23f41a4a748f96dd9fffa8e8a838", null ],
+    [ "damageBeforeTakenMods", "d4/dcc/a11953.html#a85196e5b5865856962898c18001880c7", null ],
+    [ "effectMask", "d4/dcc/a11953.html#afb839b2b409a61e4d63de03dbce2abcb", null ],
+    [ "missCondition", "d4/dcc/a11953.html#a6c17740427f4f90c7c2e4fb4854ab4b3", null ],
+    [ "processed", "d4/dcc/a11953.html#a2de96d62297ff614fc3702bec035ce5b", null ],
+    [ "reflectResult", "d4/dcc/a11953.html#add2beb55eb3313e474d947fd3eb1fc65", null ],
+    [ "scaleAura", "d4/dcc/a11953.html#a89bba366b26686d41288e9b2e725eb75", null ],
+    [ "targetGUID", "d4/dcc/a11953.html#acf55c1dd6f00c94296c592d988f959cf", null ],
+    [ "timeDelay", "d4/dcc/a11953.html#abcf1acd0c3d50c2264253dc9c052795a", null ]
 ];

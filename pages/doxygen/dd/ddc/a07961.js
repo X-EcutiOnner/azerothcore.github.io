@@ -1,4 +1,10 @@
 var a07961 =
 [
-    [ "HordeChannelMgr", "dd/ddc/a07961.html#a9354a4b4122500bba602254d0c9f3b98", null ]
+    [ "ChannelRights", "dd/ddc/a07961.html#a7fbfd84470bf1b4bf564eec0315f6c8d", null ],
+    [ "ChannelRights", "dd/ddc/a07961.html#a7beaed8c82905e7c019c799153e862c4", null ],
+    [ "flags", "dd/ddc/a07961.html#ad7fdc943a5a97c3c812108243192f6ae", null ],
+    [ "joinMessage", "dd/ddc/a07961.html#af8797ef8c642f3a954b1581fb54ed545", null ],
+    [ "moderators", "dd/ddc/a07961.html#ac80f92b9e633bf309970179b32e29cee", null ],
+    [ "speakDelay", "dd/ddc/a07961.html#a9883582d36b8cc67ab5d649670441000", null ],
+    [ "speakMessage", "dd/ddc/a07961.html#a4b7dc06e8839da5a6d50b5d4dae76c1b", null ]
 ];

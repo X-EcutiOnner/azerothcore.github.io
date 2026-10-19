@@ -1,6 +1,5 @@
 var a28569 =
 [
-    [ "npc_preciousAI", "d4/d75/a28573.html", "d4/d75/a28573" ],
-    [ "npc_precious", "d5/d5a/a28569.html#a3c3ad9da13de64498cabc8e252e99ab2", null ],
-    [ "GetAI", "d5/d5a/a28569.html#a754ad85c8b1942b400a47c28297bad62", null ]
+    [ "item_captured_frog", "d5/d5a/a28569.html#ad41b743c98c9534453eca8cf1f367366", null ],
+    [ "OnUse", "d5/d5a/a28569.html#a1156467ca046a077ea494f92c488bf54", null ]
 ];

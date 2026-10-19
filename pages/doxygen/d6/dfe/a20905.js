@@ -1,11 +1,6 @@
 var a20905 =
 [
-    [ "boss_thorim_sif_blizzard", "d6/dfe/a20905.html#a7d4054eb43079fe13e5a7a6c85b461ec", null ],
-    [ "AttackStart", "d6/dfe/a20905.html#ab41c744d8573b1f8ce5e82e798c9bd4f", null ],
-    [ "InitWaypoint", "d6/dfe/a20905.html#a55424c77633aaa62e12581a818736441", null ],
-    [ "JustEngagedWith", "d6/dfe/a20905.html#a019b50cc265dff0e92417482b85ccf64", null ],
-    [ "MoveInLineOfSight", "d6/dfe/a20905.html#a6e5333d6a87956d2052c2212a3dcb0fa", null ],
-    [ "Reset", "d6/dfe/a20905.html#a347fcc28a0bc660b9fa93fe7fc54eea0", null ],
-    [ "WaypointReached", "d6/dfe/a20905.html#af69dfd0ec232c7e45d13b117988ba924", null ],
-    [ "WaypointReached", "d6/dfe/a20905.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "go_razorscale_mole_machineAI", "d6/dd0/a20909.html", "d6/dd0/a20909" ],
+    [ "go_razorscale_mole_machine", "d6/dfe/a20905.html#a94d4c7900c139202cd0e57489ecb5a02", null ],
+    [ "GetAI", "d6/dfe/a20905.html#a56de10f80d50b667bfae81994a618304", null ]
 ];

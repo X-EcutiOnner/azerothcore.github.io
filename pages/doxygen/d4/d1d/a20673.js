@@ -1,7 +1,11 @@
 var a20673 =
 [
-    [ "FilterTargetsInitial", "d4/d1d/a20673.html#a2477349cffb8da02936545ba0bd03d0f", null ],
-    [ "Load", "d4/d1d/a20673.html#a4606d10a2699e3fb5290cefdc0876505", null ],
-    [ "PrepareSpellScript", "d4/d1d/a20673.html#aa28f3565bddf70b98c945be7a7a37bad", null ],
-    [ "Register", "d4/d1d/a20673.html#ae9bbe2d4ce5413f040b8b5f73f985822", null ]
+    [ "npc_ulduar_iron_construct", "d4/d1d/a20673.html#ab44bf86ea4a50f365e37ba888d0b2f6d", null ],
+    [ "JustDied", "d4/d1d/a20673.html#ae102f4c7b9bc4246e0720287739e419a", null ],
+    [ "JustReachedHome", "d4/d1d/a20673.html#a77609f7939725001d7a31c4d92f00358", null ],
+    [ "MoveInLineOfSight", "d4/d1d/a20673.html#a6f8bfc52f6f8b6fbd4b8fb01bc827b8a", null ],
+    [ "Reset", "d4/d1d/a20673.html#a2fcec0917d5266b286cbb0995ef6ee34", null ],
+    [ "SpellHit", "d4/d1d/a20673.html#a0c786f44d9f255464fadb1c53b6fc004", null ],
+    [ "UpdateAI", "d4/d1d/a20673.html#afc56384db98a225a223c9214414508ea", null ],
+    [ "timer", "d4/d1d/a20673.html#a397277972454f710d7236ba36a67c977", null ]
 ];

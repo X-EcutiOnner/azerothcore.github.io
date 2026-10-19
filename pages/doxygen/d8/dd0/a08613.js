@@ -1,13 +1,10 @@
 var a08613 =
 [
-    [ "GameObjectModelOwnerImpl", "d8/dd0/a08613.html#adb8b3b555ad6cd75c1ee7a1f71a08af7", null ],
-    [ "DebugVisualizeCorner", "d8/dd0/a08613.html#af8553967b9788d69da9fcb8cdb647f9c", null ],
-    [ "GetDisplayId", "d8/dd0/a08613.html#a4a694456955c19e76d8c84befc02c920", null ],
-    [ "GetOrientation", "d8/dd0/a08613.html#acb968e3bd921aac111a2e06f2604b040", null ],
-    [ "GetPhaseMask", "d8/dd0/a08613.html#ad0b9a01502c49f16a47e35694d3e6c10", null ],
-    [ "GetPosition", "d8/dd0/a08613.html#a9ba2b29d30b38895effe97637e050988", null ],
-    [ "GetScale", "d8/dd0/a08613.html#a3d72c1810a41e2baa7e87ab26f4674f9", null ],
-    [ "IsSpawned", "d8/dd0/a08613.html#ae47eb25d16de37122042402443db6f3d", null ],
-    [ "IsTransport", "d8/dd0/a08613.html#a1ca672aa490bd608de30bda7501fc03e", null ],
-    [ "_owner", "d8/dd0/a08613.html#a7909f7095341dde39bf47fc12a0c15b0", null ]
+    [ "Puppet", "d8/dd0/a08613.html#ab0082936291e6b7f5370656c7c9ed948", null ],
+    [ "GetOwner", "d8/dd0/a08613.html#a38760bce8e8ebf28ae0143ad2931afd5", null ],
+    [ "InitStats", "d8/dd0/a08613.html#ac5dd23d7cf6d4b4a2ba073ae1128181b", null ],
+    [ "InitSummon", "d8/dd0/a08613.html#abfc97f1d25cb1ac27b1bed6f61867fa3", null ],
+    [ "RemoveFromWorld", "d8/dd0/a08613.html#a61dcfc821c2221d1747fcb2180e03bfd", null ],
+    [ "Update", "d8/dd0/a08613.html#a5281497d7689e1dd10f89b5a9f83006f", null ],
+    [ "m_owner", "d8/dd0/a08613.html#adae18eabdba52ef8a9f7c5c8768e060c", null ]
 ];

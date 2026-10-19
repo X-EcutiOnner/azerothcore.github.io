@@ -1,9 +1,7 @@
 var a23501 =
 [
-    [ "boss_mennu_the_betrayer", "d8/df8/a23501.html#a3f881a89d1da70d066ce9a3fe0b29a3e", null ],
-    [ "JustDied", "d8/df8/a23501.html#acf87c54cc2a3ee5c8378ef40553ab51c", null ],
-    [ "JustEngagedWith", "d8/df8/a23501.html#a535b9af1677b8af50515818a18e88d27", null ],
-    [ "JustSummoned", "d8/df8/a23501.html#a59949872270890ef794a77029074210b", null ],
-    [ "KilledUnit", "d8/df8/a23501.html#a1a55fb7f1dacc5e514e71901d66bd35e", null ],
-    [ "Reset", "d8/df8/a23501.html#a6f0043e73a55cd1cccae22a806d702ea", null ]
+    [ "npc_ahune_ice_spear_bunny", "d8/df8/a23501.html#aecc30efddcf4ae9bd93504e1d727ee87", null ],
+    [ "InitializeAI", "d8/df8/a23501.html#a5e7eb38f6bf4a947bd1e09ee198eb45d", null ],
+    [ "UpdateAI", "d8/df8/a23501.html#ac7fd9b174f2ee1b1adf9d20d59c67bc2", null ],
+    [ "_scheduler", "d8/df8/a23501.html#a1a1a8b066a3cab9e15710fa97a8c83e6", null ]
 ];

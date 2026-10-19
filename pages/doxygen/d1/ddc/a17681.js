@@ -1,8 +1,6 @@
 var a17681 =
 [
-    [ "boss_eck", "d1/ddc/a17681.html#a665b54f72e674c8f65dd09daba5413db", null ],
-    [ "InitializeAI", "d1/ddc/a17681.html#a92e5117337d372e1700d074f02c06df6", null ],
-    [ "JustEngagedWith", "d1/ddc/a17681.html#ac719d6bbebe6c1c3e70d54f4bd48e116", null ],
-    [ "MovementInform", "d1/ddc/a17681.html#aeaa0388d9fee4c6a025f823cd9e7e650", null ],
-    [ "SpellHitTarget", "d1/ddc/a17681.html#a63125d970933d6fa1f196aa28c588f40", null ]
+    [ "entry", "d1/ddc/a17681.html#af2cf5df64adf9ac1575a8217b103e738", null ],
+    [ "x", "d1/ddc/a17681.html#aad21475d521921ea30cc0ae5d260ce69", null ],
+    [ "y", "d1/ddc/a17681.html#abd69e1c28ad36466c82807ea0ffb0fb7", null ]
 ];

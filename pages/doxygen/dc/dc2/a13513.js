@@ -1,5 +1,6 @@
 var a13513 =
 [
-    [ "boss_eramas_brightblaze", "dc/dc2/a13513.html#a14d1528750036f27948f5de8a2b44bd3", null ],
-    [ "JustEngagedWith", "dc/dc2/a13513.html#ad34613d2795f7371a43891488044392a", null ]
+    [ "HandleProc", "dc/dc2/a13513.html#a945dad46d3c11ee4720c939390a9dc1b", null ],
+    [ "PrepareAuraScript", "dc/dc2/a13513.html#a43953f2950d9a92db66a2c65a045ff6e", null ],
+    [ "Register", "dc/dc2/a13513.html#a24df76ff0933685bade58deff98856d2", null ]
 ];

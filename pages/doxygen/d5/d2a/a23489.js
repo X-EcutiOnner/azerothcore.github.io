@@ -1,7 +1,10 @@
 var a23489 =
 [
-    [ "HandleProc", "d5/d2a/a23489.html#a03b2be5894d489a6021aff2744aee0e0", null ],
-    [ "PrepareAuraScript", "d5/d2a/a23489.html#a0ff401cd6d8e32ff458b7383b76a92a1", null ],
-    [ "Register", "d5/d2a/a23489.html#a804e1bc3d570d28cb2e06155054f3169", null ],
-    [ "Validate", "d5/d2a/a23489.html#a8d18e9ed9fa851f1c4d36c1f0bed8fcb", null ]
+    [ "npc_frozen_core", "d5/d2a/a23489.html#af00f67392d96aa1ab8ccdab5b168fc04", null ],
+    [ "DoAction", "d5/d2a/a23489.html#a7b2c684f0c4e88720fb0d921815026ab", null ],
+    [ "Initialize", "d5/d2a/a23489.html#a7e5824e31f600d10c3177e00ae443c7f", null ],
+    [ "JustDied", "d5/d2a/a23489.html#a476e086b0379e0cef3a44d250b020d6a", null ],
+    [ "UpdateAI", "d5/d2a/a23489.html#af09168b57b79d14d9a7ef6861e85cc1a", null ],
+    [ "_events", "d5/d2a/a23489.html#a3a5efec3279644ef713722e1556a3c84", null ],
+    [ "_instance", "d5/d2a/a23489.html#a80fa517cc7dffd4bf15f3393d1f4af14", null ]
 ];

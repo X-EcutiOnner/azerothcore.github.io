@@ -1,13 +1,12 @@
 var a04175 =
 [
-    [ "PetScript", "d3/d77/a10903.html", "d3/d77/a10903" ],
-    [ "PetHook", "d9/d88/a04175.html#a2e6398af59b176e045eece50b1a5d404", [
-      [ "PETHOOK_ON_INIT_STATS_FOR_LEVEL", "d9/d88/a04175.html#a2e6398af59b176e045eece50b1a5d404a1aa219c404710f806516a47fb4a2c421", null ],
-      [ "PETHOOK_ON_CALCULATE_MAX_TALENT_POINTS_FOR_LEVEL", "d9/d88/a04175.html#a2e6398af59b176e045eece50b1a5d404af4173fac4396520c8d5f664cb15cd09a", null ],
-      [ "PETHOOK_CAN_UNLEARN_SPELL_SET", "d9/d88/a04175.html#a2e6398af59b176e045eece50b1a5d404a73a664bf8c79a8347a66639e7f4585ed", null ],
-      [ "PETHOOK_CAN_UNLEARN_SPELL_DEFAULT", "d9/d88/a04175.html#a2e6398af59b176e045eece50b1a5d404afd7165a69bf431cabc9b485460fde1ce", null ],
-      [ "PETHOOK_CAN_RESET_TALENTS", "d9/d88/a04175.html#a2e6398af59b176e045eece50b1a5d404a7c81bb255968b85119ef74e3124abe11", null ],
-      [ "PETHOOK_ON_PET_ADD_TO_WORLD", "d9/d88/a04175.html#a2e6398af59b176e045eece50b1a5d404a34b989d3a1e33e5ab31d98bf4a36ee56", null ],
-      [ "PETHOOK_END", "d9/d88/a04175.html#a2e6398af59b176e045eece50b1a5d404aa71e862274b6066ffe8af41bccdac911", null ]
+    [ "TicketScript", "d1/df8/a10941.html", "d1/df8/a10941" ],
+    [ "TicketHook", "d9/d88/a04175.html#af2de2d4afd6c8a1968e6e4b055620b72", [
+      [ "TICKETHOOK_ON_TICKET_CREATE", "d9/d88/a04175.html#af2de2d4afd6c8a1968e6e4b055620b72a048895a23d18ef1c7901256655315a61", null ],
+      [ "TICKETHOOK_ON_TICKET_UPDATE_LAST_CHANGE", "d9/d88/a04175.html#af2de2d4afd6c8a1968e6e4b055620b72a1777cc276841ae965f3636dc48161374", null ],
+      [ "TICKETHOOK_ON_TICKET_CLOSE", "d9/d88/a04175.html#af2de2d4afd6c8a1968e6e4b055620b72ac65b75869b3e3fb1dec5db5eb5701f38", null ],
+      [ "TICKETHOOK_ON_TICKET_STATUS_UPDATE", "d9/d88/a04175.html#af2de2d4afd6c8a1968e6e4b055620b72ad50ae60643438ce57485d63d8492a825", null ],
+      [ "TICKETHOOK_ON_TICKET_RESOLVE", "d9/d88/a04175.html#af2de2d4afd6c8a1968e6e4b055620b72a77a1b9c3448bbffacadaaa5c542086df", null ],
+      [ "TICKETHOOK_END", "d9/d88/a04175.html#af2de2d4afd6c8a1968e6e4b055620b72a12665f6e053ad59e5e6cb0ca56d92222", null ]
     ] ]
 ];

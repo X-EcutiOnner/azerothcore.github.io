@@ -1,6 +1,6 @@
 var a24481 =
 [
-    [ "go_ancient_skull_pile", "d1/dc6/a24481.html#a53793cf5f47e812751c2e5ebfe4d1603", null ],
-    [ "OnGossipHello", "d1/dc6/a24481.html#afc258eaeb7586f0f539223c21f82ea63", null ],
-    [ "OnGossipSelect", "d1/dc6/a24481.html#a6d6fd73be859dc00f214796ec2f9bed2", null ]
+    [ "PrepareSpellScript", "d1/dc6/a24481.html#aba1979c98f7d0e162cb7aee36c57f568", null ],
+    [ "Register", "d1/dc6/a24481.html#a07f75e1ad374118ab0195dd1a17376ed", null ],
+    [ "SetDest", "d1/dc6/a24481.html#a23afed27143ca0b8e4cdc477d47ab6e0", null ]
 ];

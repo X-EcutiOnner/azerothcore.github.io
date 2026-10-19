@@ -1,6 +1,6 @@
 var a24073 =
 [
-    [ "HandleAfterRemove", "d9/dff/a24073.html#ac9756a8f206c114ff6443331ca266184", null ],
-    [ "PrepareAuraScript", "d9/dff/a24073.html#a2f67291e6e4291c9d01cdbcbe04a7db7", null ],
-    [ "Register", "d9/dff/a24073.html#ac36d76ad8a5ecb2e437dcb8f1248386d", null ]
+    [ "HandleScriptEffect", "d9/dff/a24073.html#a32c5e4743adeb3085a6eac062b8f6226", null ],
+    [ "PrepareSpellScript", "d9/dff/a24073.html#a0c51d5a108d8225387ce8a149a0a0c86", null ],
+    [ "Register", "d9/dff/a24073.html#a4b940caf98f1164be5e2f4e748811fc6", null ]
 ];

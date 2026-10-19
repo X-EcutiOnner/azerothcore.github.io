@@ -1,6 +1,6 @@
 var a28073 =
 [
-    [ "AfterCheckProc", "db/df8/a28073.html#a947c7b94512fbfdd8b51cfa8044d2e6c", null ],
-    [ "PrepareAuraScript", "db/df8/a28073.html#aa184faf59edbad97ec361e66169137b9", null ],
-    [ "Register", "db/df8/a28073.html#a3df5a215670c7a1e07bc901e442bb11c", null ]
+    [ "HandleHeal", "db/df8/a28073.html#a03afbdbdc8555fc2d558a5e48f7340a0", null ],
+    [ "PrepareSpellScript", "db/df8/a28073.html#a61a601108cd59e5d87634c02b002e20d", null ],
+    [ "Register", "db/df8/a28073.html#ae46c965fc77aa61aaa3c426c8ecc585c", null ]
 ];

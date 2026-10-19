@@ -1,17 +1,8 @@
 var a17133 =
 [
-    [ "boss_gormokAI", "d5/db5/a17133.html#aff3dab2b81e39198ca84330e6094aa8e", null ],
-    [ "DoAction", "d5/db5/a17133.html#ac335bc89ad58f80a2e8db2dd8a31e2c9", null ],
-    [ "EnterEvadeMode", "d5/db5/a17133.html#a244f37a3c6a1037100de20a074c74a63", null ],
-    [ "JustDied", "d5/db5/a17133.html#a3fa8eb85ce94273b30f1f3d2de3527bd", null ],
-    [ "JustEngagedWith", "d5/db5/a17133.html#a7310e20839a7a57f65d97c5d0b8fa796", null ],
-    [ "JustReachedHome", "d5/db5/a17133.html#a3cec01072fe761e4b5141255eed08d9e", null ],
-    [ "JustSummoned", "d5/db5/a17133.html#a5e2efeace2d5f6b58f023b4ff23d93cf", null ],
-    [ "MoveInLineOfSight", "d5/db5/a17133.html#a278b8ce2e656a2e6e7882de87ec2ff9c", null ],
-    [ "Reset", "d5/db5/a17133.html#a277293d51fbaa54f9deea49af7602ae2", null ],
-    [ "UpdateAI", "d5/db5/a17133.html#adf5d8f5a9e275f12da122701f0606083", null ],
-    [ "events", "d5/db5/a17133.html#ad74b771ba3f84e7dc5b038559c4e7bbb", null ],
-    [ "pInstance", "d5/db5/a17133.html#a0421082f444bc4234012362b92cac132", null ],
-    [ "PlayerGUID", "d5/db5/a17133.html#ac3cddf6197c638289f6841740b78bd88", null ],
-    [ "summons", "d5/db5/a17133.html#a84c1fa0cc33bee6747fa9b4f0517cdc8", null ]
+    [ "npc_mistress_of_pain", "d5/db5/a17133.html#a3311d05b0b692e4d70de95ded21df23a", null ],
+    [ "EnterEvadeMode", "d5/db5/a17133.html#a7d2e4cb30dbcf4993dbffd9bdd7b2db3", null ],
+    [ "JustDied", "d5/db5/a17133.html#aa34fc8f7625f31fc872edd15d3c48686", null ],
+    [ "Reset", "d5/db5/a17133.html#a0205ff2af278a7d6e44f0bfc179b022e", null ],
+    [ "UpdateAI", "d5/db5/a17133.html#a5a6edfb39ee3fb710cd42311dc10b034", null ]
 ];

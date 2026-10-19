@@ -1,5 +1,7 @@
 var a05337 =
 [
-    [ "clear", "d4/db2/a05337.html#a69bc508845bc35319a6d8c51e562a5f9", null ],
-    [ "createOrGetVMapMgr", "d4/db2/a05337.html#a80f01f24b27dd7a5a795c193d0816624", null ]
+    [ "LiquidInfo", "d4/db2/a05337.html#a0caefac43d2f5c59446e2a9f7e565c11", null ],
+    [ "LiquidInfo", "d4/db2/a05337.html#abfae4e75223a93b5b71840f60710afb9", null ],
+    [ "level", "d4/db2/a05337.html#ade8f31cc9adc77ff82724134b5ebba24", null ],
+    [ "type", "d4/db2/a05337.html#a46eda7aed64f2a5b0bd5ce1f88942c20", null ]
 ];

@@ -1,7 +1,8 @@
 var a12025 =
 [
-    [ "ap_bonus", "d5/d48/a12025.html#a98410b8bb89434cd7e1747462f8039dc", null ],
-    [ "ap_dot_bonus", "d5/d48/a12025.html#a09caeec47b138d9eff3539795416a09a", null ],
-    [ "direct_damage", "d5/d48/a12025.html#abab1af227a6c8e592b8a9bd15589535d", null ],
-    [ "dot_damage", "d5/d48/a12025.html#a92491d8d1e61612d88c7c830d7912be5", null ]
+    [ "DirectionType", "d5/d48/a12025.html#a8491033c0286895c2d4d3280cfd529f0", null ],
+    [ "ObjectType", "d5/d48/a12025.html#a20c29be1005aa52993d4ec0a13c36f4d", null ],
+    [ "ReferenceType", "d5/d48/a12025.html#a44e310a789c4c5a288f07c9254ad389a", null ],
+    [ "SelectionCategory", "d5/d48/a12025.html#a4a42ef329b6cfcfcd7fd4ce59e8f597c", null ],
+    [ "SelectionCheckType", "d5/d48/a12025.html#a35c8d221b47de13408a0256598fa9d63", null ]
 ];

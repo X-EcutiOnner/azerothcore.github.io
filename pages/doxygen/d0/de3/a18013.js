@@ -1,9 +1,7 @@
 var a18013 =
 [
-    [ "npc_stinky_iccAI", "d0/de3/a18013.html#a545356eb2b77cfae7af3d470e95ea2d6", null ],
-    [ "JustDied", "d0/de3/a18013.html#a7fa392980e2d30c935b79377df8dc694", null ],
-    [ "JustEngagedWith", "d0/de3/a18013.html#afd1cd4fc387ff7cdad58c9db60841c7a", null ],
-    [ "Reset", "d0/de3/a18013.html#ac66e3398598576fdc889a7b56646eecf", null ],
-    [ "UpdateAI", "d0/de3/a18013.html#af6e04824ea1682c529e8579a306d34ca", null ],
-    [ "events", "d0/de3/a18013.html#a3ab7ae11b7f5ef5877febbd384014ce2", null ]
+    [ "npc_icc_blood_beastAI", "d0/de3/a18013.html#af52eff9f66451444c5acba6930c1bff6", null ],
+    [ "DoAction", "d0/de3/a18013.html#a5de6e46fd21fd073fde2f0aaa5dc947a", null ],
+    [ "UpdateAI", "d0/de3/a18013.html#ac9da073c33dd33097f03ca35d36ea15e", null ],
+    [ "timer1", "d0/de3/a18013.html#a1074059162f818088808795119f081be", null ]
 ];

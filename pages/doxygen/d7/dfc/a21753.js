@@ -1,6 +1,6 @@
 var a21753 =
 [
-    [ "PrepareSpellScript", "d7/dfc/a21753.html#a072a5228690b929af3b65d771bf5f485", null ],
-    [ "Register", "d7/dfc/a21753.html#a87235eb9494edd94221f0380e815aa6b", null ],
-    [ "SetDest", "d7/dfc/a21753.html#abe2c48bf2d276871f3e4146d1358ea4c", null ]
+    [ "npc_imprisoned_beryl_sorcererAI", "d1/d76/a21757.html", "d1/d76/a21757" ],
+    [ "npc_imprisoned_beryl_sorcerer", "d7/dfc/a21753.html#a6317eb89406cf6b99f63ecfa7f9999d1", null ],
+    [ "GetAI", "d7/dfc/a21753.html#aedb301f6da8460f3ed1d81d4b5f2f63c", null ]
 ];

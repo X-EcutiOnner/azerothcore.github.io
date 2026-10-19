@@ -1,7 +1,6 @@
 var a21141 =
 [
-    [ "FilterTargets", "da/d22/a21141.html#a4e27a01b87e6f003ed52da45a4bda403", null ],
-    [ "HandleDummyEffect", "da/d22/a21141.html#abfe7ff12346d54fe3a0c1450897e58ee", null ],
-    [ "PrepareSpellScript", "da/d22/a21141.html#a0c31912e28eaa5922edb1ca4c7689883", null ],
-    [ "Register", "da/d22/a21141.html#a337cdb940a2001ac370768b02126d3c0", null ]
+    [ "boss_yoggsaron_descend_portal", "da/d22/a21141.html#aa64788351819e9c7f5505c929818770d", null ],
+    [ "OnSpellClick", "da/d22/a21141.html#af72e8c3611b5e134e39ab9695405e08e", null ],
+    [ "_instance", "da/d22/a21141.html#a6b430a5f4045cdf3c3524208f02d53d2", null ]
 ];

@@ -1,11 +1,12 @@
 var a30485 =
 [
-    [ "material", "de/ddb/a30485.html#a7079e8817a9684602084eb224f2540fc", null ],
-    [ "pos_x", "de/ddb/a30485.html#ac4d971cc46506be14716124afbb5ad9c", null ],
-    [ "pos_y", "de/ddb/a30485.html#a6cd85f2a674d732e88371ffce5e46077", null ],
-    [ "pos_z", "de/ddb/a30485.html#a183ec8ec2d8d30726494c6b3d3b8606a", null ],
-    [ "xtiles", "de/ddb/a30485.html#aca34dfa64624cfe04c314c13bbed0062", null ],
-    [ "xverts", "de/ddb/a30485.html#aa5ad7ff660f7f0b5ddfd2d186496d928", null ],
-    [ "ytiles", "de/ddb/a30485.html#a9901a7e9828ac840bc290b0768831d66", null ],
-    [ "yverts", "de/ddb/a30485.html#abf24042b85692cd0df05d65d734dd99e", null ]
+    [ "Model", "de/ddb/a30485.html#ae102b5fc584185113e89fb7b39a72bd1", null ],
+    [ "~Model", "de/ddb/a30485.html#ad6ebd2062a0b823db841a0b88baac4c0", null ],
+    [ "_unload", "de/ddb/a30485.html#a9b02ed73fa006bc057157b636029ab6f", null ],
+    [ "ConvertToVMAPModel", "de/ddb/a30485.html#ae6fd5d754d9a880359b8afaf50c5753e", null ],
+    [ "open", "de/ddb/a30485.html#a6ed3a71ff468f5acaccc61f5c2c87a0e", null ],
+    [ "filename", "de/ddb/a30485.html#a4c43746e9c460e29cabd1ba2db6ba222", null ],
+    [ "header", "de/ddb/a30485.html#a2f6e66bbf4acc662d73e8fe8e5a0e085", null ],
+    [ "indices", "de/ddb/a30485.html#a3b61d3316481e7b9c38bf50806ebded6", null ],
+    [ "vertices", "de/ddb/a30485.html#a1af9857df4d0e16ab9940846300fa8fe", null ]
 ];

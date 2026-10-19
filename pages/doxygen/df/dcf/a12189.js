@@ -1,6 +1,6 @@
 var a12189 =
 [
-    [ "CheckEffectProcHandler", "df/dcf/a12189.html#ac91e234c2ec9d458a70f501e9b672af0", null ],
-    [ "Call", "df/dcf/a12189.html#aca4c845623e63c38310986b86e312247", null ],
-    [ "_HandlerScript", "df/dcf/a12189.html#a0bb540e91e691b31191983614fa737dc", null ]
+    [ "EffectCalcSpellModHandler", "df/dcf/a12189.html#abe81396a3f1c1b3b07c10cf0e191546c", null ],
+    [ "Call", "df/dcf/a12189.html#a5ca2a9c329a7dbbb7e835849ca4479aa", null ],
+    [ "pEffectHandlerScript", "df/dcf/a12189.html#a15c0b24641cb04f31bb3d651dae59448", null ]
 ];

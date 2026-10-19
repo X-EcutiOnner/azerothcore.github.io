@@ -1,10 +1,9 @@
 var a08465 =
 [
-    [ "AssistDelayEvent", "d1/db8/a08465.html#a022b9cf38b8e059df2dceca38e366b7d", null ],
-    [ "AssistDelayEvent", "d1/db8/a08465.html#a5371fc2a2f9334b821058b96d0c6bc13", null ],
-    [ "AddAssistant", "d1/db8/a08465.html#a987303ec41927528e9a5abfd9ab75512", null ],
-    [ "Execute", "d1/db8/a08465.html#a5afd295abeb1295e43f48b8951b24c35", null ],
-    [ "m_assistants", "d1/db8/a08465.html#ac6de6befda582bd38f92afda01204e94", null ],
-    [ "m_owner", "d1/db8/a08465.html#aabcce364c8009e8172b9d090059ce48c", null ],
-    [ "m_victim", "d1/db8/a08465.html#a47aff9ce39f5fec3718d6564e53b799e", null ]
+    [ "LFGPlayerScript", "d1/db8/a08465.html#ad27ca48d9e573ad0ba155a3f7eb1ae88", null ],
+    [ "OnPlayerBindToInstance", "d1/db8/a08465.html#aeb3fd4e39ed8ba345cf3c76a232f241d", null ],
+    [ "OnPlayerLevelChanged", "d1/db8/a08465.html#afd530a2823a7187b49645c9d0625c8ba", null ],
+    [ "OnPlayerLogin", "d1/db8/a08465.html#a3b4e8775787feb8266edc52fddc7ab3a", null ],
+    [ "OnPlayerLogout", "d1/db8/a08465.html#a13c365770c90d1a44f72ab4cb8c7f903", null ],
+    [ "OnPlayerMapChanged", "d1/db8/a08465.html#ab3022d19b8d32bf0f269b2e991150a1c", null ]
 ];

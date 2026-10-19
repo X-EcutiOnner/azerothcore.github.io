@@ -1,7 +1,5 @@
 var a14617 =
 [
-    [ "HandleScriptEffect", "d7/d65/a14617.html#ace68732d578fbaeb2b209bfded88853a", null ],
-    [ "PrepareSpellScript", "d7/d65/a14617.html#a42a69995e8f527a383e96e2ead832f72", null ],
-    [ "Register", "d7/d65/a14617.html#abb26c89a617bc27f8c2a1cfbb0935234", null ],
-    [ "Validate", "d7/d65/a14617.html#a7697caf8e5390d290b353fb6a291aa10", null ]
+    [ "at_zulgurub_edge_of_madness_speech", "d7/d65/a14617.html#a7d4007716e3ed634ac7e3d3dba26e6f7", null ],
+    [ "_OnTrigger", "d7/d65/a14617.html#ab04b77d7521296cd271f763274d09841", null ]
 ];

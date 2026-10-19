@@ -1,9 +1,7 @@
 var a11405 =
 [
-    [ "ItemEnchantTimeUpdate", "d6/d5e/a11405.html#ade76f6fcc5a2f4032ba1f6a10022de53", null ],
-    [ "Write", "d6/d5e/a11405.html#ade148bd152f0708ed90d549d8f9feb0a", null ],
-    [ "Duration", "d6/d5e/a11405.html#ad576ce6011716519a70c6e00e0753a49", null ],
-    [ "ItemGuid", "d6/d5e/a11405.html#aeff05f6bb1235655b81d21a2f7aecdc8", null ],
-    [ "PlayerGuid", "d6/d5e/a11405.html#a4623875e38909d8b7300e7d9c703b216", null ],
-    [ "Slot", "d6/d5e/a11405.html#ad8ddb0dfbe2c07385cc2c95a456086b5", null ]
+    [ "BuybackItem", "d6/d5e/a11405.html#a05dec559746537669fcf32f52a171b44", null ],
+    [ "Read", "d6/d5e/a11405.html#aefe27701674c75f8937f72ee418a6692", null ],
+    [ "Slot", "d6/d5e/a11405.html#ac4faf4646da9a9fe7c1567527ca28a27", null ],
+    [ "VendorGuid", "d6/d5e/a11405.html#a6be9d8d3f564621780e458c4a785b709", null ]
 ];

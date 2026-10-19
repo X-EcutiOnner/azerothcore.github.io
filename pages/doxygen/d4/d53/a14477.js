@@ -1,8 +1,16 @@
 var a14477 =
 [
-    [ "npc_zulaman_hostageAI", "db/d94/a14481.html", "db/d94/a14481" ],
-    [ "npc_zulaman_hostage", "d4/d53/a14477.html#a12f9ad1889cacb60103c1e921c2fa0e9", null ],
-    [ "GetAI", "d4/d53/a14477.html#a0ae144dc154dd028b409c9d2393f890c", null ],
-    [ "OnGossipHello", "d4/d53/a14477.html#a89d68a976f916a4de2196b57ec0026b0", null ],
-    [ "OnGossipSelect", "d4/d53/a14477.html#a114f6fbfab90944fd49babcba4b48a11", null ]
+    [ "boss_zuljin", "d4/d53/a14477.html#a8acdf347d7f982c07614c89a101daae0", null ],
+    [ "EnterEvadeMode", "d4/d53/a14477.html#a1b3da85aa5f4abac16256aa691d035a3", null ],
+    [ "EnterPhase", "d4/d53/a14477.html#ae9970dba905b947a22c4ddf36bdcb656", null ],
+    [ "GetGUID", "d4/d53/a14477.html#a29548891ef8efaa5d6baa384e7b9000a", null ],
+    [ "JustDied", "d4/d53/a14477.html#a2e00e8311c0463a37de87668882ffeec", null ],
+    [ "JustEngagedWith", "d4/d53/a14477.html#ab6854461a5116e94c9f0ca971a3f89ef", null ],
+    [ "KilledUnit", "d4/d53/a14477.html#adf220cb760b77cfd09ed746705529064", null ],
+    [ "MovementInform", "d4/d53/a14477.html#a61501941861f8838392fc8cdbe59feff", null ],
+    [ "Reset", "d4/d53/a14477.html#a2fe7c0338eb4698cc0aae252f4b14f02", null ],
+    [ "SpawnAdds", "d4/d53/a14477.html#a83eb0799a25f19eedddd96e609134778", null ],
+    [ "SpellHitTarget", "d4/d53/a14477.html#aab3558edc5b90be23040077d88e21725", null ],
+    [ "_chargeTargetGUID", "d4/d53/a14477.html#a3b26fe2e82019ea5ce110d2d0a78f47e", null ],
+    [ "_nextPhase", "d4/d53/a14477.html#a4fc9983cb34313affa56c243a4164a4a", null ]
 ];

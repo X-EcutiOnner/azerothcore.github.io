@@ -1,8 +1,6 @@
 var a19745 =
 [
-    [ "npc_teslaAI", "d4/d0a/a19745.html#a7281220648af1357b1377d6f7874d663", null ],
-    [ "DamageTaken", "d4/d0a/a19745.html#aa3ab570e86261bc3178e17109d76af12", null ],
-    [ "EnterEvadeMode", "d4/d0a/a19745.html#acc8115216989b34593a9435eeb051eda", null ],
-    [ "JustEngagedWith", "d4/d0a/a19745.html#add93f68bc96b3c93dc0a3271543711e6", null ],
-    [ "UpdateAI", "d4/d0a/a19745.html#a962745569b07e368067ee483d2379840", null ]
+    [ "boss_sapphironAI", "d8/d2a/a19749.html", "d8/d2a/a19749" ],
+    [ "boss_sapphiron", "d4/d0a/a19745.html#a87a70204dd727f92d035ad98e2ab9010", null ],
+    [ "GetAI", "d4/d0a/a19745.html#a31209287faa721bef341388ae4383b6c", null ]
 ];

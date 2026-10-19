@@ -1,11 +1,6 @@
 var a21593 =
 [
-    [ "npc_vh_void_sentry", "da/d8f/a21593.html#adeb66953fb7540aab5190b825ff98ec8", null ],
-    [ "DoAction", "da/d8f/a21593.html#a37ed72c221f23cd653694c10d536eec4", null ],
-    [ "JustDied", "da/d8f/a21593.html#aabf96934586d38d6f958c1571c0b3b56", null ],
-    [ "SummonedCreatureDespawn", "da/d8f/a21593.html#aa0ac1eb51911672653ec6fd48d2ef316", null ],
-    [ "UpdateAI", "da/d8f/a21593.html#a417af2ca21310ca105d7561e3ab21272", null ],
-    [ "_events", "da/d8f/a21593.html#a30899a2d4d8a82b26251911dc3b48008", null ],
-    [ "_instance", "da/d8f/a21593.html#a80dc77a2deaf0f922f3f096f40b253e1", null ],
-    [ "_summonedGuid", "da/d8f/a21593.html#a223e85ca87d89c51d0bc02e00d591aec", null ]
+    [ "npc_frozen_orb_stalkerAI", "da/d8f/a21593.html#afd8d187ecbf508d02824d1ff8f3cb5cf", null ],
+    [ "JustSummoned", "da/d8f/a21593.html#a73d7d5e55d2a00c9aee6f595e2678b17", null ],
+    [ "Reset", "da/d8f/a21593.html#a064ccb90afeb9b36d501850482c60bc4", null ]
 ];

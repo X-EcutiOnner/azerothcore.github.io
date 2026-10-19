@@ -1,5 +1,9 @@
 var a29249 =
 [
-    [ "BitIndex", "d4/d97/a29249.html#a55fdf966aec0ca687cd6074683af6e7f", null ],
-    [ "ItemId", "d4/d97/a29249.html#a998c1f6dadb823fbba56bb2154396635", null ]
+    [ "BaseSection", "d4/d97/a29249.html#a218d178327a97a16f0a38fe8f5e887df", null ],
+    [ "ColorIndex", "d4/d97/a29249.html#a55c0d2ffba5bb3462796e863da19568b", null ],
+    [ "Flags", "d4/d97/a29249.html#a666d68526db28defdfb5bf63248ec360", null ],
+    [ "RaceID", "d4/d97/a29249.html#a23b6456d6bf9ce651dc52e953aa775ca", null ],
+    [ "SexID", "d4/d97/a29249.html#a9d4674f6177acc4d1dbda3b574f14c10", null ],
+    [ "VariationIndex", "d4/d97/a29249.html#aa817db158cc623bb33152d2a79b4bef2", null ]
 ];

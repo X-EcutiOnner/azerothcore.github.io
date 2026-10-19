@@ -1,5 +1,6 @@
 var a28521 =
 [
-    [ "item_captured_frog", "db/d06/a28521.html#ad41b743c98c9534453eca8cf1f367366", null ],
-    [ "OnUse", "db/d06/a28521.html#a1156467ca046a077ea494f92c488bf54", null ]
+    [ "go_bellsAI", "db/d4a/a28525.html", "db/d4a/a28525" ],
+    [ "go_bells", "db/d06/a28521.html#a9f40a13aa1aaee28ebd1254d428c0519", null ],
+    [ "GetAI", "db/d06/a28521.html#a4f1272fb8856310d7924f8e7be1e39f8", null ]
 ];

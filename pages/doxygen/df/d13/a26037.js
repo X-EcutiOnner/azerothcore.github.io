@@ -1,6 +1,6 @@
 var a26037 =
 [
-    [ "PrepareSpellScript", "df/d13/a26037.html#a3a77016a3a8314969ce41cc6483761ec", null ],
-    [ "Register", "df/d13/a26037.html#ae1fa8b9e4a11c884d10b1f4cc0afd09e", null ],
-    [ "SetDest", "df/d13/a26037.html#a724217c09faa57ec2e6dad034e8709ed", null ]
+    [ "HandleDummy", "df/d13/a26037.html#aafc9efb0f8070566579724853a88ab03", null ],
+    [ "PrepareSpellScript", "df/d13/a26037.html#a248c1203a4f15b2cd60afed9fa33cb59", null ],
+    [ "Register", "df/d13/a26037.html#a362e2ab6921aaa0c10b70795a5eda0de", null ]
 ];

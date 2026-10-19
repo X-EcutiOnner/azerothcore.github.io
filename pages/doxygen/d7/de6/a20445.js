@@ -1,7 +1,6 @@
 var a20445 =
 [
-    [ "boss_freya_healthy_spore", "d7/de6/a20445.html#abc2492b9cf96cb00940b18fac549fb00", null ],
-    [ "Reset", "d7/de6/a20445.html#abe3f794707aa722e73b1728700876083", null ],
-    [ "UpdateAI", "d7/de6/a20445.html#ac8c952848687cd883aaefe466b799e3b", null ],
-    [ "_despawnTimer", "d7/de6/a20445.html#a8d8b6fe5895efb48750a65c2dfe8a1df", null ]
+    [ "CheckCast", "d7/de6/a20445.html#a866fd47d51b5fc4c07c3733739d07c02", null ],
+    [ "PrepareSpellScript", "d7/de6/a20445.html#a09cbe962ae1f18811db8c1d32b856c0d", null ],
+    [ "Register", "d7/de6/a20445.html#a240989af43e5ad6eb81d600a2f1d4769", null ]
 ];

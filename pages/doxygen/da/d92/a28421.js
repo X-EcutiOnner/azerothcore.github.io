@@ -1,6 +1,7 @@
 var a28421 =
 [
-    [ "go_fel_crystalforge", "da/d92/a28421.html#aa44708a617edd51651da49918ab776e5", null ],
-    [ "OnGossipHello", "da/d92/a28421.html#aae9f4beff251efb7b29e1988ddd51eaf", null ],
-    [ "OnGossipSelect", "da/d92/a28421.html#a97450cce5f547e28ea84fa6a6f8ab79e", null ]
+    [ "go_pirate_day_musicAI", "da/d92/a28421.html#a1abe263949b7a07e5143779efcddc7eb", null ],
+    [ "UpdateAI", "da/d92/a28421.html#a5373bb46c866df31a3827ceb8ee4ef9b", null ],
+    [ "_events", "da/d92/a28421.html#a233ae55a05876c665455b106ef50d57e", null ],
+    [ "rnd", "da/d92/a28421.html#ad0ced4b4f569b91b5dde4ad93a298568", null ]
 ];

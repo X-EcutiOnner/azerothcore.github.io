@@ -1,9 +1,8 @@
 var a11113 =
 [
-    [ "GuildInfoResponse", "dd/de3/a11113.html#a256cb81ad2e08050be99c9e1061c2009", null ],
-    [ "Write", "dd/de3/a11113.html#a3222d0018c9593400d3d01258b82371e", null ],
-    [ "CreateDate", "dd/de3/a11113.html#a1a0acf334d88751e94257ff76c9e3fd8", null ],
-    [ "GuildName", "dd/de3/a11113.html#ad8efc926197e955ed0cf8df6a74b41e8", null ],
-    [ "NumAccounts", "dd/de3/a11113.html#a21b42f1654aa10f7872d87635fea66ac", null ],
-    [ "NumMembers", "dd/de3/a11113.html#a7e748a70029e867ba8c90eaba85bf8c9", null ]
+    [ "SAttackStop", "dd/de3/a11113.html#ad3ca327e00c9df8d947cdda3eb2f5eb3", null ],
+    [ "Write", "dd/de3/a11113.html#ae2143b20488064400c306004ee678a89", null ],
+    [ "Attacker", "dd/de3/a11113.html#a18e66148dc50a7ea7f98a57a122285ee", null ],
+    [ "NowDead", "dd/de3/a11113.html#a25cd247bb50f752c3230ad4b5f777b2d", null ],
+    [ "Victim", "dd/de3/a11113.html#a9ca02aaaab5d223a64f8ba0cec320e8e", null ]
 ];

@@ -1,4 +1,4 @@
 var a04709 =
 [
-    [ "Reference< TO, FROM >", "d3/d4e/a05623.html", "d3/d4e/a05623" ]
+    [ "ObjectRegistry< T, Key >", "d8/d0c/a05637.html", "d8/d0c/a05637" ]
 ];

@@ -1,7 +1,6 @@
 var a11749 =
 [
-    [ "OpcodeHandler", "d8/d5e/a05103.html#gad7dc8101b537abe699b18ae8de444a81", null ],
-    [ "~OpcodeHandler", "d8/d5e/a05103.html#ga5400057a3d849035aedda259828a5af5", null ],
-    [ "Name", "d8/d5e/a05103.html#ga0f1d1acde7c65e2b5c29357b232a7061", null ],
-    [ "Status", "d8/d5e/a05103.html#gace7959058ad5b5e617c7b043f5c63b7c", null ]
+    [ "WorldStateInfo", "de/dd4/a11749.html#a64fd2e4da7035ea6c01b8ab0819d2f86", null ],
+    [ "Value", "de/dd4/a11749.html#afe5a0e98713c986a17f431795c488c6c", null ],
+    [ "VariableID", "de/dd4/a11749.html#a627bba237bce23aff74fd2bf7a274657", null ]
 ];

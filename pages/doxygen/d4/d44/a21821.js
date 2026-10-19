@@ -1,6 +1,7 @@
 var a21821 =
 [
-    [ "npc_mageguard_dalaranAI", "dc/db8/a21825.html", "dc/db8/a21825" ],
-    [ "npc_mageguard_dalaran", "d4/d44/a21821.html#a0cec4f232b665325c421cecb5839885f", null ],
-    [ "GetAI", "d4/d44/a21821.html#a10cbddceb53a2d432da2224128c59b28", null ]
+    [ "HandleDummy", "d4/d44/a21821.html#a476c55695b54e6f6756d9f795dbeeb07", null ],
+    [ "PrepareSpellScript", "d4/d44/a21821.html#ae3af1398dec6d6f5faac8e026a6966df", null ],
+    [ "Register", "d4/d44/a21821.html#a693522c8a05e2d86837bf16ef2a777b4", null ],
+    [ "Validate", "d4/d44/a21821.html#ae1a2cdf4819859e11d6a70104c6d431a", null ]
 ];

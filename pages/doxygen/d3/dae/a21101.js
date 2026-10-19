@@ -1,11 +1,12 @@
 var a21101 =
 [
-    [ "boss_yoggsaron_lich_king", "d3/dae/a21101.html#a3c20d6227f0f13d46b9841369d55a43e", null ],
-    [ "NextStep", "d3/dae/a21101.html#aec4b71c80d6793443145ebe3d1094d1b", null ],
-    [ "Reset", "d3/dae/a21101.html#a4210fa70a3c22efa213cb6e6b6cd7d24", null ],
-    [ "Say", "d3/dae/a21101.html#ac7687fe1253701c702cf2c17986727ec", null ],
-    [ "UpdateAI", "d3/dae/a21101.html#a79a25a561dc2b19cdf18aa105a50ecd9", null ],
-    [ "_checkTimer", "d3/dae/a21101.html#a196ffc443569494bed79f623dd9cdca3", null ],
-    [ "_running", "d3/dae/a21101.html#aae9e4b456b2bca4a9b43b98419ec60e0", null ],
-    [ "_step", "d3/dae/a21101.html#a97244534b8c6a69807388b620df2263f", null ]
+    [ "boss_yoggsaron_cloud", "d3/dae/a21101.html#a4efbeab85d5770784f1474176a23fd74", null ],
+    [ "DoAction", "d3/dae/a21101.html#ad7452d20420fc1fc30088e455a9cdfc3", null ],
+    [ "JustSummoned", "d3/dae/a21101.html#a2c321419548e8ce151d639c3fbd7b1b4", null ],
+    [ "MoveCircle", "d3/dae/a21101.html#ae5b286e1fd294f8f8fafdf4589226bf6", null ],
+    [ "Reset", "d3/dae/a21101.html#ad548ae65a05f600487a57899760ebab0", null ],
+    [ "UpdateAI", "d3/dae/a21101.html#aa4b62a29fe7d62a2124d8cfaf9c612ec", null ],
+    [ "_checkTimer", "d3/dae/a21101.html#aa6fda2f2b1d3405bd1aca66e37abbcd8", null ],
+    [ "_isSummoning", "d3/dae/a21101.html#a339bf4c5ef6449d42aa3c36759a99aa4", null ],
+    [ "clockwise", "d3/dae/a21101.html#ad57ebcd626b3333a5785caeb1dd43fd5", null ]
 ];

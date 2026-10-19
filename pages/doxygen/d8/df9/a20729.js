@@ -1,7 +1,6 @@
 var a20729 =
 [
-    [ "FilterTargets", "d8/df9/a20729.html#a16f739f70b052f71293846903aab8fdd", null ],
-    [ "HandleDummy", "d8/df9/a20729.html#a4290c0e73254fead6e0f1e4abf7d39f4", null ],
-    [ "PrepareSpellScript", "d8/df9/a20729.html#a430d44a79daa53fd492a0f9506bbbcc7", null ],
-    [ "Register", "d8/df9/a20729.html#af3a1324237de67b4fa507e626def7743", null ]
+    [ "HandleInstaKill", "d8/df9/a20729.html#a593786eb89bf77e05dad4b502ffc1925", null ],
+    [ "PrepareSpellScript", "d8/df9/a20729.html#aa89401a4c6b1c85e4242bda45933b0ad", null ],
+    [ "Register", "d8/df9/a20729.html#a46f2c2658e6b55f091bf8894f06a787c", null ]
 ];

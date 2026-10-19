@@ -1,15 +1,11 @@
 var a21645 =
 [
-    [ "npc_azure_saboteur", "d8/d35/a21645.html#a051e99f11de367f810d9404a723173fd", null ],
-    [ "FinishPointReached", "d8/d35/a21645.html#a451777273b76e4651b1f4309e8477c9f", null ],
-    [ "InitializeAI", "d8/d35/a21645.html#acf28368986b940b571f493bd663e8e09", null ],
-    [ "MoveInLineOfSight", "d8/d35/a21645.html#a1a65d5100befd33a104a13eef0800ae7", null ],
-    [ "UpdateAI", "d8/d35/a21645.html#af5cf21e08a62b09793e99a92df1ef1b7", null ],
-    [ "WaypointReached", "d8/d35/a21645.html#a7c6f44f0dcdb0d5abc18e304383d3b96", null ],
-    [ "WaypointReached", "d8/d35/a21645.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "_boss", "d8/d35/a21645.html#ab23d685ca979bba79a3d9a14117350f8", null ],
-    [ "_count", "d8/d35/a21645.html#aa431780ab6b90976494058a602377825", null ],
-    [ "_events", "d8/d35/a21645.html#a7ee513b49f09971f5fea099e8c9b7bc7", null ],
-    [ "_instance", "d8/d35/a21645.html#ab220c76d2fd72df36b5b92ee897d9d14", null ],
-    [ "_isOpening", "d8/d35/a21645.html#a59ecc6687f1d5d948c6988d14f577ffd", null ]
+    [ "npc_vh_void_sentry", "d8/d35/a21645.html#adeb66953fb7540aab5190b825ff98ec8", null ],
+    [ "DoAction", "d8/d35/a21645.html#a37ed72c221f23cd653694c10d536eec4", null ],
+    [ "JustDied", "d8/d35/a21645.html#aabf96934586d38d6f958c1571c0b3b56", null ],
+    [ "SummonedCreatureDespawn", "d8/d35/a21645.html#aa0ac1eb51911672653ec6fd48d2ef316", null ],
+    [ "UpdateAI", "d8/d35/a21645.html#a417af2ca21310ca105d7561e3ab21272", null ],
+    [ "_events", "d8/d35/a21645.html#a30899a2d4d8a82b26251911dc3b48008", null ],
+    [ "_instance", "d8/d35/a21645.html#a80dc77a2deaf0f922f3f096f40b253e1", null ],
+    [ "_summonedGuid", "d8/d35/a21645.html#a223e85ca87d89c51d0bc02e00d591aec", null ]
 ];

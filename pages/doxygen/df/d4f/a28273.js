@@ -1,7 +1,9 @@
 var a28273 =
 [
-    [ "FilterTargets", "df/d4f/a28273.html#a5ee420ce696d23d836ff6e9e1def6405", null ],
-    [ "HandleEffect", "df/d4f/a28273.html#a064fdac9158e35f290b51ecf9bf537b1", null ],
-    [ "PrepareSpellScript", "df/d4f/a28273.html#a53b5772c87574beb5b295c26fe983b76", null ],
-    [ "Register", "df/d4f/a28273.html#a5e93d0d708d2304d9166c47ad285ada5", null ]
+    [ "emerald_dragonAI", "df/d4f/a28273.html#ae80aa90ad978b8e3254a3c116bf05959", null ],
+    [ "ExecuteEvent", "df/d4f/a28273.html#a6e60f146c7b86a119f269bf755831ac6", null ],
+    [ "JustSummoned", "df/d4f/a28273.html#a4ec04284cdebfc5b594e083aa850f7cb", null ],
+    [ "KilledUnit", "df/d4f/a28273.html#a69b24bf865ecd38822d5602314cddf11", null ],
+    [ "Reset", "df/d4f/a28273.html#aff24939b53a7d74b41ac9170a8a71e9c", null ],
+    [ "UpdateAI", "df/d4f/a28273.html#a221768f9ad3c79bbcdefd3092228e3b0", null ]
 ];

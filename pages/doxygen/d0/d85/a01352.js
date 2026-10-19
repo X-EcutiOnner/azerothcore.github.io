@@ -1,80 +1,61 @@
 var a01352 =
 [
-    [ "boss_eadric", "d6/dc5/a16807.html", "d6/dc5/a16807" ],
-    [ "boss_eadric::boss_eadricAI", "d1/d7d/a16811.html", "d1/d7d/a16811" ],
-    [ "boss_paletress", "da/dd3/a16815.html", "da/dd3/a16815" ],
-    [ "boss_paletress::boss_paletressAI", "d3/d64/a16819.html", "d3/d64/a16819" ],
-    [ "npc_memory", "d9/d94/a16823.html", "d9/d94/a16823" ],
-    [ "npc_memory::npc_memoryAI", "d5/d11/a16827.html", "d5/d11/a16827" ],
-    [ "npc_argent_soldier", "df/d49/a16831.html", "df/d49/a16831" ],
-    [ "npc_argent_soldier::npc_argent_soldierAI", "d8/d13/a16835.html", "d8/d13/a16835" ],
-    [ "spell_eadric_radiance", "d8/d6f/a16839.html", "d8/d6f/a16839" ],
-    [ "spell_toc5_light_rain", "d5/d1f/a16843.html", "d5/d1f/a16843" ],
-    [ "spell_reflective_shield_aura", "d1/da3/a16847.html", "d1/da3/a16847" ],
-    [ "ArgentSoldierEvents", "d0/d85/a01352.html#a4cb3329c1e0874ec8b64f8b25da2b0d8", [
-      [ "EVENT_MONK_SPELL_FLURRY_OF_BLOWS", "d0/d85/a01352.html#a4cb3329c1e0874ec8b64f8b25da2b0d8a95f65e897bf3033957c92991c57edaf0", null ],
-      [ "EVENT_MONK_SPELL_PUMMEL", "d0/d85/a01352.html#a4cb3329c1e0874ec8b64f8b25da2b0d8a9e6ced592ea753b1748f3d2e699d31ca", null ],
-      [ "EVENT_PRIESTESS_SPELL_HOLY_SMITE", "d0/d85/a01352.html#a4cb3329c1e0874ec8b64f8b25da2b0d8aefad3ae6cb0527da0e05ef07a3650256", null ],
-      [ "EVENT_PRIESTESS_SPELL_SHADOW_WORD_PAIN", "d0/d85/a01352.html#a4cb3329c1e0874ec8b64f8b25da2b0d8a9ea437042a10c82e88506979c3c73b3a", null ],
-      [ "EVENT_PRIESTESS_SPELL_FOUNTAIN_OF_LIGHT", "d0/d85/a01352.html#a4cb3329c1e0874ec8b64f8b25da2b0d8a692f5a65959d73e4e70a6be60c044783", null ],
-      [ "EVENT_PRIESTESS_SPELL_MIND_CONTROL", "d0/d85/a01352.html#a4cb3329c1e0874ec8b64f8b25da2b0d8aa633ec1ad8bab84d82d87792ee8e9f47", null ],
-      [ "EVENT_LIGHTWIELDER_SPELL_BLAZING_LIGHT", "d0/d85/a01352.html#a4cb3329c1e0874ec8b64f8b25da2b0d8a6e884319a5fb4505ce978e9a48d2a495", null ],
-      [ "EVENT_LIGHTWIELDER_SPELL_CLEAVE", "d0/d85/a01352.html#a4cb3329c1e0874ec8b64f8b25da2b0d8ae575d7dd271f3cae73cb886d72e1eb3b", null ],
-      [ "EVENT_LIGHTWIELDER_SPELL_UNBALANCING_STRIKE", "d0/d85/a01352.html#a4cb3329c1e0874ec8b64f8b25da2b0d8a73ec4ff3bff0fb021586914fb70fd5d8", null ]
+    [ "npc_attracted_reef_bull", "de/d3b/a22169.html", "de/d3b/a22169" ],
+    [ "npc_attracted_reef_bull::npc_attracted_reef_bullAI", "d6/d66/a22173.html", "d6/d66/a22173" ],
+    [ "npc_plaguehound_tracker", "d2/d33/a22177.html", "d2/d33/a22177" ],
+    [ "npc_plaguehound_tracker::npc_plaguehound_trackerAI", "dd/d33/a22181.html", "dd/d33/a22181" ],
+    [ "npc_rodin_lightning_enabler", "d2/d4b/a22185.html", "d2/d4b/a22185" ],
+    [ "spell_hawk_hunting", "df/da3/a22189.html", "df/da3/a22189" ],
+    [ "spell_the_cleansing_shrine_cast", "de/da2/a22193.html", "de/da2/a22193" ],
+    [ "spell_the_cleansing_cleansing_soul", "dc/dac/a22197.html", "dc/dac/a22197" ],
+    [ "spell_the_cleansing_mirror_image_script_effect", "db/d85/a22201.html", "db/d85/a22201" ],
+    [ "spell_the_cleansing_on_death_cast_on_master", "de/ddf/a22205.html", "de/ddf/a22205" ],
+    [ "spell_q11296_rivenwood_captives", "d0/d00/a22209.html", "d0/d00/a22209" ],
+    [ "spell_sorlofs_booty_boulder_assault", "d3/d14/a22213.html", "d3/d14/a22213" ],
+    [ "spell_sorlofs_booty_boulder_assault_hit", "d8/dd5/a22217.html", "d8/dd5/a22217" ],
+    [ "npc_sorlof", "db/d6e/a22221.html", "db/d6e/a22221" ],
+    [ "go_sister_mercy", "d6/d8a/a22225.html", "d6/d8a/a22225" ],
+    [ "spell_sorlofs_booty_cannon_primer", "d9/d82/a22229.html", "d9/d82/a22229" ],
+    [ "spell_sorlofs_booty_big_gun_assault", "d9/d7b/a22233.html", "d9/d7b/a22233" ],
+    [ "HawkHunting", "d0/d85/a01352.html#a096cc98a9aabe12e9a0d16fa3f6c7467", [
+      [ "SPELL_HAWK_HUNTING_ITEM", "d0/d85/a01352.html#a096cc98a9aabe12e9a0d16fa3f6c7467a6ec995a1ccedcab945036b6b96fbfa2e", null ]
     ] ],
-    [ "ArgentSoldierSpells", "d0/d85/a01352.html#a30afc46abd693810c0d4bdbc752bdbe2", [
-      [ "SPELL_FLURRY_OF_BLOWS", "d0/d85/a01352.html#a30afc46abd693810c0d4bdbc752bdbe2ae89cf1226fe676ebfd7a92a765832a4b", null ],
-      [ "SPELL_PUMMEL", "d0/d85/a01352.html#a30afc46abd693810c0d4bdbc752bdbe2a519a01b082bf9c3f4ed0feed5286cab2", null ],
-      [ "SPELL_DIVINE_SHIELD", "d0/d85/a01352.html#a30afc46abd693810c0d4bdbc752bdbe2a901e60dd92a92f9b0f3e1d709857498f", null ],
-      [ "SPELL_FINAL_MEDITATION", "d0/d85/a01352.html#a30afc46abd693810c0d4bdbc752bdbe2a558caf2627177de7e1160b2ca24d503f", null ],
-      [ "SPELL_HOLY_SMITE", "d0/d85/a01352.html#a30afc46abd693810c0d4bdbc752bdbe2a74efbfbc358f01ad96a6e402941ee122", null ],
-      [ "SPELL_FOUNTAIN_OF_LIGHT", "d0/d85/a01352.html#a30afc46abd693810c0d4bdbc752bdbe2a5a77fcbded560651d13c7b9d6468e0d9", null ],
-      [ "NPC_FOUNTAIN_OF_LIGHT", "d0/d85/a01352.html#a30afc46abd693810c0d4bdbc752bdbe2a97bf22e0006532fff420e4f0c7d16810", null ],
-      [ "SPELL_SHADOW_WORD_PAIN", "d0/d85/a01352.html#a30afc46abd693810c0d4bdbc752bdbe2a6d3fa2c8553893a548ccb9dada8f5192", null ],
-      [ "SPELL_MIND_CONTROL", "d0/d85/a01352.html#a30afc46abd693810c0d4bdbc752bdbe2a2ad33f23a80e3a868a9a876debc9c01e", null ],
-      [ "SPELL_BLAZING_LIGHT", "d0/d85/a01352.html#a30afc46abd693810c0d4bdbc752bdbe2ac7597b8d89777fc8c1dc3c5e3c8a7a9e", null ],
-      [ "SPELL_CLEAVE", "d0/d85/a01352.html#a30afc46abd693810c0d4bdbc752bdbe2a0de0a536dbf18ec5c2e76cfee1d751eb", null ],
-      [ "SPELL_UNBALANCING_STRIKE", "d0/d85/a01352.html#a30afc46abd693810c0d4bdbc752bdbe2a3b09d39dcbcaf3ef92fb024de1440f2a", null ]
+    [ "RivenwoodCaptives", "d0/d85/a01352.html#a0406b0504bb5489bd1e1ab3bed6f8277", [
+      [ "SPELL_CAPTIVES_ON_QUEST", "d0/d85/a01352.html#a0406b0504bb5489bd1e1ab3bed6f8277a7bfc24991745469431169752d0058a63", null ],
+      [ "SPELL_CAPTIVES_NOT_ON_QUEST", "d0/d85/a01352.html#a0406b0504bb5489bd1e1ab3bed6f8277a37010e6e918f8e727f5afc293cf8e30a", null ],
+      [ "SPELL_SUMMON_FREED_SCOUT", "d0/d85/a01352.html#a0406b0504bb5489bd1e1ab3bed6f8277a1ccdfe1bb552098d0947fa44fa4f968b", null ],
+      [ "SPELL_SUMMON_HOSTILE_START", "d0/d85/a01352.html#a0406b0504bb5489bd1e1ab3bed6f8277a1885e281fc6c851167b2d24e2d127dea", null ],
+      [ "SPELL_SUMMON_HOSTILE_END", "d0/d85/a01352.html#a0406b0504bb5489bd1e1ab3bed6f8277ad96433fe5596e69387c53a4432c0c27c", null ],
+      [ "NPC_FREED_SCOUT", "d0/d85/a01352.html#a0406b0504bb5489bd1e1ab3bed6f8277a35332072efc4bb98475ab7ee56aa91e2", null ]
     ] ],
-    [ "EadricEvents", "d0/d85/a01352.html#a656edbcbfd88e5e4a0a6ba5092ad70b9", [
-      [ "EVENT_SPELL_RADIANCE", "d0/d85/a01352.html#a656edbcbfd88e5e4a0a6ba5092ad70b9ac5ddd2324a772f07e13eca496ce61bb9", null ],
-      [ "EVENT_SPELL_HAMMER_RIGHTEOUS", "d0/d85/a01352.html#a656edbcbfd88e5e4a0a6ba5092ad70b9adc1359744e750219b5a7ea7949992b05", null ]
+    [ "RodinLightningSpells", "d0/d85/a01352.html#a80e7ba946308fea1c6de5c21365652f3", [
+      [ "SPELL_RODIN_LIGHTNING_START", "d0/d85/a01352.html#a80e7ba946308fea1c6de5c21365652f3a7fbdcf0c94df64ba932ea4666d375a4c", null ],
+      [ "SPELL_RODIN_LIGHTNING_END", "d0/d85/a01352.html#a80e7ba946308fea1c6de5c21365652f3ab99cec97c6cf09d8ae5863d97e4c1632", null ],
+      [ "NPC_RODIN", "d0/d85/a01352.html#a80e7ba946308fea1c6de5c21365652f3adc9bd59249c9654d416ff92475586895", null ]
     ] ],
-    [ "EadricSpells", "d0/d85/a01352.html#aae539510c9ab41c816e16f37b7f03549", [
-      [ "SPELL_EADRIC_ACHIEVEMENT", "d0/d85/a01352.html#aae539510c9ab41c816e16f37b7f03549a2bd9c63b3d9da4e9d98cb0a1fbd31289", null ],
-      [ "ACHIEV_FACEROLLER", "d0/d85/a01352.html#aae539510c9ab41c816e16f37b7f03549ae27d7059bb3ccf06f7eb19f057ee5455", null ],
-      [ "SPELL_RADIANCE", "d0/d85/a01352.html#aae539510c9ab41c816e16f37b7f03549aa4da783d348a29c5cae3870ba3a4f3e9", null ],
-      [ "SPELL_VENGEANCE", "d0/d85/a01352.html#aae539510c9ab41c816e16f37b7f03549a1a7799016b55afde2db1b879d1a71ad9", null ],
-      [ "SPELL_HAMMER_JUSTICE", "d0/d85/a01352.html#aae539510c9ab41c816e16f37b7f03549a54d6ad45fc88ef7fe90852d1c959fd46", null ],
-      [ "SPELL_HAMMER_RIGHTEOUS", "d0/d85/a01352.html#aae539510c9ab41c816e16f37b7f03549a955b852c978fdc7dd46216f40b996e64", null ],
-      [ "SPELL_HAMMER_RIGHTEOUS_DAMAGE", "d0/d85/a01352.html#aae539510c9ab41c816e16f37b7f03549a903a84a3f199d8e24ff3136d3fbb6200", null ],
-      [ "SPELL_HAMMER_RIGHTEOUS_ACTION_BAR", "d0/d85/a01352.html#aae539510c9ab41c816e16f37b7f03549ad4bff79e4cc6c5a8c471cf3b09973ba7", null ],
-      [ "SPELL_HAMMER_RIGHTEOUS_THROW_BACK", "d0/d85/a01352.html#aae539510c9ab41c816e16f37b7f03549a596b74a4a7c1a7965c628a9403719ea0", null ]
+    [ "SorlofsBooty", "d0/d85/a01352.html#a9b0df0995abb2c580c7117164c0fe412", [
+      [ "NPC_SORLOF", "d0/d85/a01352.html#a9b0df0995abb2c580c7117164c0fe412a6b91d4916a28ca9e8f5f0a7e58ac782c", null ],
+      [ "NPC_THE_BIG_GUN", "d0/d85/a01352.html#a9b0df0995abb2c580c7117164c0fe412a16440cc96fba85c5655f1feb857617eb", null ],
+      [ "SPELL_CANNON_ASSAULT", "d0/d85/a01352.html#a9b0df0995abb2c580c7117164c0fe412a1ac403210372edba1912237a4bffab1b", null ],
+      [ "SPELL_SORLOFS_BOOTY", "d0/d85/a01352.html#a9b0df0995abb2c580c7117164c0fe412a4a18ec19a078c73f999849b24da29998", null ],
+      [ "SPELL_BOULDER_ASSAULT_HIT", "d0/d85/a01352.html#a9b0df0995abb2c580c7117164c0fe412a0d6d9e0cef3cc72d569e3bc33cc1643c", null ],
+      [ "SPELL_BOULDER_ASSAULT_FIRE", "d0/d85/a01352.html#a9b0df0995abb2c580c7117164c0fe412aeb0f61cfe86d8389293c12afc462b20b", null ],
+      [ "CANNON_RANGE", "d0/d85/a01352.html#a9b0df0995abb2c580c7117164c0fe412a2e03b8b9b60dbac5373ac9198194a032", null ],
+      [ "SORLOF_SEARCH_RANGE", "d0/d85/a01352.html#a9b0df0995abb2c580c7117164c0fe412ae3736f36f4a37f82e18c990768aafcb7", null ],
+      [ "SORLOF_WANDER_DISTANCE", "d0/d85/a01352.html#a9b0df0995abb2c580c7117164c0fe412a67cbee815f4640095477c5d20479eb18", null ],
+      [ "DATA_SORLOF_TAKE_PATH", "d0/d85/a01352.html#a9b0df0995abb2c580c7117164c0fe412ae162148a53be28931e224def26605a53", null ],
+      [ "POINT_SORLOF_PATH", "d0/d85/a01352.html#a9b0df0995abb2c580c7117164c0fe412ac678a1b17523f5492751a293a75345d7", null ],
+      [ "PATH_SORLOF_RETURN", "d0/d85/a01352.html#a9b0df0995abb2c580c7117164c0fe412a6cac2f4cbb29c446a7057b5ac20583da", null ],
+      [ "DATA_SORLOF_SLAIN", "d0/d85/a01352.html#a9b0df0995abb2c580c7117164c0fe412ac52adc3e8dade13f25f82240a231b639", null ]
     ] ],
-    [ "PaletressEvents", "d0/d85/a01352.html#a4e7bd5ed5a5b6fb61eebaf59b5bd8d83", [
-      [ "EVENT_SPELL_SMITE", "d0/d85/a01352.html#a4e7bd5ed5a5b6fb61eebaf59b5bd8d83a7aed2ea3a5bc3e928fb749b00d1166b2", null ],
-      [ "EVENT_SPELL_HOLY_FIRE", "d0/d85/a01352.html#a4e7bd5ed5a5b6fb61eebaf59b5bd8d83a5fbe6a0ce0fcfd5c199339d14efff82a", null ],
-      [ "EVENT_SPELL_RENEW", "d0/d85/a01352.html#a4e7bd5ed5a5b6fb61eebaf59b5bd8d83acec0c01eb230f3b0d4f37b4586b2340e", null ],
-      [ "EVENT_MEMORY_SCALE", "d0/d85/a01352.html#a4e7bd5ed5a5b6fb61eebaf59b5bd8d83a1faaa9d0a4504d078dcd882781f46f51", null ],
-      [ "EVENT_MEMORY_START_ATTACK", "d0/d85/a01352.html#a4e7bd5ed5a5b6fb61eebaf59b5bd8d83abf206623be238032a87d20d1974e91e2", null ],
-      [ "EVENT_SPELL_OLD_WOUNDS", "d0/d85/a01352.html#a4e7bd5ed5a5b6fb61eebaf59b5bd8d83abc43794a74613c12bfbcabe82f6ff310", null ],
-      [ "EVENT_SPELL_SHADOWS_PAST", "d0/d85/a01352.html#a4e7bd5ed5a5b6fb61eebaf59b5bd8d83ad5d5147284d1b64818da9ddedeebd622", null ],
-      [ "EVENT_SPELL_WAKING_NIGHTMARE", "d0/d85/a01352.html#a4e7bd5ed5a5b6fb61eebaf59b5bd8d83a51388187d9d7b59809e1084910605533", null ]
+    [ "TheCleansing", "d0/d85/a01352.html#a72e1fc2fb7f2d445c9e22195c32dfe0c", [
+      [ "SPELL_CLEANSING_SOUL", "d0/d85/a01352.html#a72e1fc2fb7f2d445c9e22195c32dfe0ca85c707f1dd04c7a7bcbd939bf09f2bf1", null ],
+      [ "SPELL_SUMMON_INNER_TURMOIL", "d0/d85/a01352.html#a72e1fc2fb7f2d445c9e22195c32dfe0cafcb3e66b7b65655d2b2ee1e97b205073", null ],
+      [ "SPELL_RECENT_MEDITATION", "d0/d85/a01352.html#a72e1fc2fb7f2d445c9e22195c32dfe0cafd95316ce2b15dfc3e7150a2cb09a7c1", null ],
+      [ "SPELL_MIRROR_IMAGE_AURA", "d0/d85/a01352.html#a72e1fc2fb7f2d445c9e22195c32dfe0ca97f96c604fb7a22850a56756fe3b176a", null ],
+      [ "QUEST_THE_CLEANSING_H", "d0/d85/a01352.html#a72e1fc2fb7f2d445c9e22195c32dfe0ca8986a58dfd3cb3e376200de1039e6529", null ],
+      [ "QUEST_THE_CLEANSING_A", "d0/d85/a01352.html#a72e1fc2fb7f2d445c9e22195c32dfe0ca7b3fd5b03fd32aeda7f996691764daa7", null ]
     ] ],
-    [ "PaletressSpells", "d0/d85/a01352.html#ae9595f620d9888aeae1c43934e479065", [
-      [ "SPELL_SMITE", "d0/d85/a01352.html#ae9595f620d9888aeae1c43934e479065a96277e99fce632dafa4fd4dc36108e60", null ],
-      [ "SPELL_HOLY_FIRE", "d0/d85/a01352.html#ae9595f620d9888aeae1c43934e479065ac3a4396238fbb11f537aa061424abe2b", null ],
-      [ "SPELL_RENEW", "d0/d85/a01352.html#ae9595f620d9888aeae1c43934e479065aaf085a0eea027f75c291005b97cb46bd", null ],
-      [ "SPELL_HOLY_NOVA", "d0/d85/a01352.html#ae9595f620d9888aeae1c43934e479065a678bab3de60ed4108ef58f54329f520d", null ],
-      [ "SPELL_SHIELD", "d0/d85/a01352.html#ae9595f620d9888aeae1c43934e479065af4b3b7a5e8b4481dcb60a25093408bb2", null ],
-      [ "SPELL_CONFESS", "d0/d85/a01352.html#ae9595f620d9888aeae1c43934e479065a4f8639f64cb2688991b2b1bc1973b056", null ],
-      [ "SPELL_SUMMON_MEMORY", "d0/d85/a01352.html#ae9595f620d9888aeae1c43934e479065acbff865e8b9b8593c0115a78538d222c", null ],
-      [ "SPELL_OLD_WOUNDS", "d0/d85/a01352.html#ae9595f620d9888aeae1c43934e479065a9625d7dbb27fdc285420ec419684fc53", null ],
-      [ "SPELL_SHADOWS_PAST", "d0/d85/a01352.html#ae9595f620d9888aeae1c43934e479065af19d664ef227eb9bfc2779735274b4b4", null ],
-      [ "SPELL_WAKING_NIGHTMARE", "d0/d85/a01352.html#ae9595f620d9888aeae1c43934e479065ae91867f1a05437c18a1d58ad219cf00f", null ]
-    ] ],
-    [ "ReflectiveShield", "d0/d85/a01352.html#aba7bd18e8dcf0b6414c84d2a7d58c55b", [
-      [ "SPELL_REFLECTIVE_SHIELD_DAMAGE", "d0/d85/a01352.html#aba7bd18e8dcf0b6414c84d2a7d58c55ba5bbb3f6a28fc8268989468698ae05d71", null ]
-    ] ],
-    [ "AddSC_boss_argent_challenge", "d0/d85/a01352.html#ab05f15214d7caad3ff926cff5369cdcb", null ]
+    [ "AddSC_howling_fjord", "d0/d85/a01352.html#a1f2f485d0649e510913e07a28b6082a5", null ],
+    [ "GetSorlofPathForShipEvent", "d0/d85/a01352.html#a0727220183f34049d44da4f1ca096541", null ]
 ];

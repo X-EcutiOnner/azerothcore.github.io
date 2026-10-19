@@ -1,5 +1,6 @@
 var a30109 =
 [
-    [ "SetUp", "d7/dc6/a30109.html#a43a467bfcff58079e28fece9bfe3464c", null ],
-    [ "ALL_EFFECTS_MASK", "d7/dc6/a30109.html#ac82c59da0a73f393dcef17d666ef65bf", null ]
+    [ "SetUp", "d7/dc6/a30109.html#a17bb069a079f64ba78b640f29fb23b44", null ],
+    [ "_durationEntry", "d7/dc6/a30109.html#ae835f19ae350e48fd88e4cc776d286e4", null ],
+    [ "_frostboltInfo", "d7/dc6/a30109.html#adeb95c76547a934f4801bb24932b34d1", null ]
 ];

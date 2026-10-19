@@ -1,8 +1,8 @@
 var a23609 =
 [
-    [ "npc_underbat", "d2/da2/a23609.html#a710a010d3425b7171ee45d8465fd6b2b", null ],
-    [ "JustEngagedWith", "d2/da2/a23609.html#ae137b6b763b3df6096c3bfd4dd7ee676", null ],
-    [ "Reset", "d2/da2/a23609.html#aae771ad526e8f72a90fe70ebbd91b472", null ],
-    [ "UpdateAI", "d2/da2/a23609.html#ab3a9b97543aee3fdf22c17e94f768c0e", null ],
-    [ "_scheduler", "d2/da2/a23609.html#a7644a73c2a5bcbbe0a3db5c782169752", null ]
+    [ "boss_hungarfen", "d2/da2/a23609.html#a009b8d34731d2310a53195024b434935", null ],
+    [ "JustEngagedWith", "d2/da2/a23609.html#a3612bb373ecdba4245587fd94257ba62", null ],
+    [ "Reset", "d2/da2/a23609.html#a4b310eff8af9a33c50ae8f2035ba76ad", null ],
+    [ "UpdateAI", "d2/da2/a23609.html#a1765bd54c04a3479e837b3d0e241300e", null ],
+    [ "_scheduler", "d2/da2/a23609.html#a702185681abb6cfc4add7078ff5bbb52", null ]
 ];

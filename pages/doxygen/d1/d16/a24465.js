@@ -1,13 +1,9 @@
 var a24465 =
 [
-    [ "npc_unkor_the_ruthlessAI", "d1/d16/a24465.html#a965b0f182570a54ee4c0a6a54ba8fafb", null ],
-    [ "DamageTaken", "d1/d16/a24465.html#a88b5e4b43171be8cc62d2a10f188e363", null ],
-    [ "HasQuestActive", "d1/d16/a24465.html#ad97ea6721dcea4058167ea327dc0c515", null ],
-    [ "JustEngagedWith", "d1/d16/a24465.html#a537225016bfeba51b607d250c0a09be5", null ],
-    [ "Reset", "d1/d16/a24465.html#a14ca75417c623d6d6e5fce50521963da", null ],
-    [ "Submit", "d1/d16/a24465.html#a26872858bfb4aeda1b4af445033995db", null ],
-    [ "UpdateAI", "d1/d16/a24465.html#a744ea41d7f9450965419085a296c8df2", null ],
-    [ "PulverizeTimer", "d1/d16/a24465.html#a43324c095d4f98b97b39b5eb86c4c783", null ],
-    [ "Submitted", "d1/d16/a24465.html#a47777bb2dd47764c9cb01dc3f3e25f39", null ],
-    [ "UnfriendlyTimer", "d1/d16/a24465.html#a21559a315c812b50b74fc22dc32a2930", null ]
+    [ "npc_kservantAI", "d1/d16/a24465.html#a0687712690f2bacd24da1c94d222e761", null ],
+    [ "IsSummonedBy", "d1/d16/a24465.html#a6aa9c1544fffdd9916eda7a0941dc828", null ],
+    [ "Reset", "d1/d16/a24465.html#a0756ffacb97c83a3028afc620b32f349", null ],
+    [ "UpdateAI", "d1/d16/a24465.html#a0f2b37f4575f32d9ce0a441157a80a8b", null ],
+    [ "WaypointReached", "d1/d16/a24465.html#a577a2ebb91c08bfe2e09bc67eeebb4ef", null ],
+    [ "WaypointReached", "d1/d16/a24465.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

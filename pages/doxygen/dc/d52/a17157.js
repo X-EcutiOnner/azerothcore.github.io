@@ -1,6 +1,18 @@
 var a17157 =
 [
-    [ "boss_icehowlAI", "dc/d57/a17161.html", "dc/d57/a17161" ],
-    [ "boss_icehowl", "dc/d52/a17157.html#ab3c9711fa6af17be9dc7331b42c408be", null ],
-    [ "GetAI", "dc/d52/a17157.html#ac77bf3b9d954b8c6be01d0209a80cc6a", null ]
+    [ "boss_gormokAI", "dc/d52/a17157.html#aff3dab2b81e39198ca84330e6094aa8e", null ],
+    [ "DoAction", "dc/d52/a17157.html#ac335bc89ad58f80a2e8db2dd8a31e2c9", null ],
+    [ "EnterEvadeMode", "dc/d52/a17157.html#a244f37a3c6a1037100de20a074c74a63", null ],
+    [ "JustDied", "dc/d52/a17157.html#a3fa8eb85ce94273b30f1f3d2de3527bd", null ],
+    [ "JustEngagedWith", "dc/d52/a17157.html#a7310e20839a7a57f65d97c5d0b8fa796", null ],
+    [ "JustReachedHome", "dc/d52/a17157.html#a3cec01072fe761e4b5141255eed08d9e", null ],
+    [ "JustSummoned", "dc/d52/a17157.html#a5e2efeace2d5f6b58f023b4ff23d93cf", null ],
+    [ "MoveInLineOfSight", "dc/d52/a17157.html#a278b8ce2e656a2e6e7882de87ec2ff9c", null ],
+    [ "Reset", "dc/d52/a17157.html#a277293d51fbaa54f9deea49af7602ae2", null ],
+    [ "SetGUID", "dc/d52/a17157.html#a238183b373adf9cd58611133d9be4c12", null ],
+    [ "UpdateAI", "dc/d52/a17157.html#adf5d8f5a9e275f12da122701f0606083", null ],
+    [ "events", "dc/d52/a17157.html#ad74b771ba3f84e7dc5b038559c4e7bbb", null ],
+    [ "pInstance", "dc/d52/a17157.html#a0421082f444bc4234012362b92cac132", null ],
+    [ "PlayerGUID", "dc/d52/a17157.html#ac3cddf6197c638289f6841740b78bd88", null ],
+    [ "summons", "dc/d52/a17157.html#a84c1fa0cc33bee6747fa9b4f0517cdc8", null ]
 ];

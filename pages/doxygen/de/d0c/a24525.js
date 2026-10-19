@@ -1,8 +1,8 @@
 var a24525 =
 [
-    [ "npc_pet_gen_gnomish_flame_turret", "de/d0c/a24525.html#a6e79c0ad6219d0beb23cfb086e6d3eaf", null ],
-    [ "AttackStart", "de/d0c/a24525.html#a2aab464c099e8e5e760a9ae4f28ac33f", null ],
-    [ "Reset", "de/d0c/a24525.html#a46fe5703a5859d5583e7df3a57b3910a", null ],
-    [ "UpdateAI", "de/d0c/a24525.html#ae3db08323af4b82009ffd660b3e78474", null ],
-    [ "checkTimer", "de/d0c/a24525.html#ac6705f4980ca561a5fd33c2917488439", null ]
+    [ "go_skull_pile", "de/d0c/a24525.html#a9cf8dfef432c4967c60f66e645585770", null ],
+    [ "OnGossipHello", "de/d0c/a24525.html#ac95d39ea03e78fee2a10603d8c7f8840", null ],
+    [ "OnGossipSelect", "de/d0c/a24525.html#afb8e8db2705355e975fa48c98e09f20b", null ],
+    [ "SendActionMenu", "de/d0c/a24525.html#a048dd224b46ead864958ad524d76167f", null ],
+    [ "_result", "de/d0c/a24525.html#af74fcd75404c0886128401d661067394", null ]
 ];

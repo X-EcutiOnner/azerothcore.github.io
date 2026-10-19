@@ -1,7 +1,7 @@
 var a30425 =
 [
-    [ "W", "da/dc7/a30425.html#adc2e55b935dcc2daefd60739bdb31cec", null ],
-    [ "X", "da/dc7/a30425.html#a2676f1a5ec3a2f69ebb953e4b5741c4b", null ],
-    [ "Y", "da/dc7/a30425.html#aa3353a9f5afdf3614e37f9681441ae05", null ],
-    [ "Z", "da/dc7/a30425.html#a533b5e90b6333d89190828f28721e61d", null ]
+    [ "walkableClimb", "da/dc7/a30425.html#af8d2e9bccb8f6bbb36065e686ea39626", null ],
+    [ "walkableHeight", "da/dc7/a30425.html#a32f39a07562c47be0a311d7959678044", null ],
+    [ "walkableRadius", "da/dc7/a30425.html#a6e708a591e7b5597e129a653e1379a1e", null ],
+    [ "walkableSlopeAngle", "da/dc7/a30425.html#a9b880e84fa1d07e414e9a9a62a20969c", null ]
 ];

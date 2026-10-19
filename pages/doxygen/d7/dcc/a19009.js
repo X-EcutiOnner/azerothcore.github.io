@@ -1,6 +1,6 @@
 var a19009 =
 [
-    [ "npc_suppresserAI", "dc/d42/a19013.html", "dc/d42/a19013" ],
-    [ "npc_suppresser", "d7/dcc/a19009.html#a5db40aecba3c45281fe963c6b2bd8d1e", null ],
-    [ "GetAI", "d7/dcc/a19009.html#a48869515abbac1491337a93b987231da", null ]
+    [ "npc_the_lich_king_controllerAI", "dc/d42/a19013.html", "dc/d42/a19013" ],
+    [ "npc_the_lich_king_controller", "d7/dcc/a19009.html#a32b14d699737497ba7c90d8ef17557d7", null ],
+    [ "GetAI", "d7/dcc/a19009.html#ae9b6dacb0f4e8e6f12f187ab0dfd2165", null ]
 ];

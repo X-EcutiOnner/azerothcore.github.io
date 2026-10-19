@@ -1,6 +1,6 @@
 var a11325 =
 [
-    [ "SetDungeonDifficultyClient", "d9/d58/a11325.html#ae3bb2ac16b8712a3eb731913af26961c", null ],
-    [ "Read", "d9/d58/a11325.html#a6f92ee86dc73b1a51a9c4683997e6c4f", null ],
-    [ "Mode", "d9/d58/a11325.html#a3cb1f62fba1849dfb59c9b8f46fe4c27", null ]
+    [ "GuildSetGuildMaster", "d9/d58/a11325.html#ae6ca07252de719cc506042c8d3e8285e", null ],
+    [ "Read", "d9/d58/a11325.html#a94f16e55a840c7cba991a119af5d8263", null ],
+    [ "NewMasterName", "d9/d58/a11325.html#a02f37610492c75373266bb93000adcbf", null ]
 ];

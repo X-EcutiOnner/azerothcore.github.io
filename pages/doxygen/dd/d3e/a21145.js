@@ -1,6 +1,6 @@
 var a21145 =
 [
-    [ "FilterTargets", "dd/d3e/a21145.html#a7efa78a7991b7ca859c7d622f973265d", null ],
-    [ "PrepareSpellScript", "dd/d3e/a21145.html#a67da98b94fe491afa06b7a0cfa92982a", null ],
-    [ "Register", "dd/d3e/a21145.html#a4d2c901a32f526673e968aa5b7ca9117", null ]
+    [ "boss_yoggsaron_influence_tentacle", "dd/d3e/a21145.html#ac5908d64a4749303a08d352d470995dd", null ],
+    [ "DamageTaken", "dd/d3e/a21145.html#a0e76ab78b378ba4262dfb603e7634dfb", null ],
+    [ "JustDied", "dd/d3e/a21145.html#a9fac83d89c8c5810b2b5a25d0228c741", null ]
 ];

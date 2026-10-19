@@ -1,12 +1,7 @@
 var a20425 =
 [
-    [ "boss_freya_elder_stonebark", "d4/d47/a20425.html#ad379afe772ff29d689bc763786d28793", null ],
-    [ "DamageTaken", "d4/d47/a20425.html#a1a6b9897ffff95b29de351d02411f216", null ],
-    [ "JustDied", "d4/d47/a20425.html#a32df2ec9d4e24c6a8f7fddefc4b5e61f", null ],
-    [ "JustEngagedWith", "d4/d47/a20425.html#a363a639d65fb746cca3410427f8a1e10", null ],
-    [ "KilledUnit", "d4/d47/a20425.html#ae10b5a8a477107432cbcc93c4da9c3ec", null ],
-    [ "Reset", "d4/d47/a20425.html#ac1edb11c975123a59bc4099acdefcd0f", null ],
-    [ "UpdateAI", "d4/d47/a20425.html#a913cd147d5a88189e183d817357946e3", null ],
-    [ "_chargesCount", "d4/d47/a20425.html#adc75d1735bc32fad8cad2abf4d8712fa", null ],
-    [ "events", "d4/d47/a20425.html#a5d88a59b9c98981c3f7f049701fc76e3", null ]
+    [ "HandleScript", "d4/d47/a20425.html#a9580f04e1543262026818f0944bb96c3", null ],
+    [ "PrepareSpellScript", "d4/d47/a20425.html#a924ae640d448da777ce3ecb059c1c9b6", null ],
+    [ "Register", "d4/d47/a20425.html#ac05e58e9b5618b1f079bd1c4924a0f9f", null ],
+    [ "Validate", "d4/d47/a20425.html#a8fc8712a76939dea6831a9eb5b95f946", null ]
 ];

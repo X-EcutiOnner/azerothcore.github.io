@@ -1,14 +1,6 @@
 var a23717 =
 [
-    [ "boss_vazruden", "dd/d47/a23717.html#a9908d6082a09d55dd0d8bb801784a151", null ],
-    [ "DamageTaken", "dd/d47/a23717.html#a44b1e4d43bbf0d7faec7f4ee277db811", null ],
-    [ "EnterEvadeMode", "dd/d47/a23717.html#aba006e8e9aefe522ea5c36c638bb5c3b", null ],
-    [ "JustDied", "dd/d47/a23717.html#a525025b41b53a577bdff1eb818191ed7", null ],
-    [ "JustEngagedWith", "dd/d47/a23717.html#a5dbbe80fcfe191ac5ae03f943496ad02", null ],
-    [ "KilledUnit", "dd/d47/a23717.html#a8f430a0d7edb0285156c6bf68ba0aa07", null ],
-    [ "Reset", "dd/d47/a23717.html#a11b5091dafe2f0de9afd81de7b6fde90", null ],
-    [ "UpdateAI", "dd/d47/a23717.html#aebaf147a1a2e723cb0cb8e46f3d01e68", null ],
-    [ "_hasSpoken", "dd/d47/a23717.html#af5b9aa9c7a343486b4dc05819e8d3ccf", null ],
-    [ "_nazanCalled", "dd/d47/a23717.html#a44d53934c743e9beb539681719997852", null ],
-    [ "_scheduler", "dd/d47/a23717.html#a60382206e378c2f2c493d1ee25c4ff8c", null ]
+    [ "instance_gruuls_lair_InstanceMapScript", "d1/d01/a23721.html", "d1/d01/a23721" ],
+    [ "instance_gruuls_lair", "dd/d47/a23717.html#ae091404d09e614fe893c20e8ed90d2c4", null ],
+    [ "GetInstanceScript", "dd/d47/a23717.html#ab8b5b000f6099111244b4ea48f0ab029", null ]
 ];

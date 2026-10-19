@@ -1,10 +1,12 @@
 var a03518 =
 [
-    [ "AddGossipItemFor", "d7/d65/a03518.html#a21e32e886a589c9093660b3c4c58f72c", null ],
-    [ "AddGossipItemFor", "d7/d65/a03518.html#a1d54254ae4ddb1bb0e9e2c74dffe5bf5", null ],
-    [ "AddGossipItemFor", "d7/d65/a03518.html#acd7e8e52a911742a99728cf9408e23b8", null ],
-    [ "ClearGossipMenuFor", "d7/d65/a03518.html#af077a82741577a63a075c7d40b3b3dc5", null ],
-    [ "CloseGossipMenuFor", "d7/d65/a03518.html#af8f7e54dac5ecc86e92d780c3918cb09", null ],
-    [ "SendGossipMenuFor", "d7/d65/a03518.html#ad893abf2b09592b57715ef4a3222a2b3", null ],
-    [ "SendGossipMenuFor", "d7/d65/a03518.html#ab43ecd551b53630add88fbf882236f78", null ]
+    [ "Escort_Waypoint", "d8/dbc/a06685.html", "d8/dbc/a06685" ],
+    [ "npc_escortAI", "d7/da9/a06689.html", "d7/da9/a06689" ],
+    [ "DEFAULT_MAX_PLAYER_DISTANCE", "d7/d65/a03518.html#ad23dc39ce2da634e67360fab90e3b9e2", null ],
+    [ "eEscortState", "d7/d65/a03518.html#af40ca4990501264cb0359ab6d93fb08a", [
+      [ "STATE_ESCORT_NONE", "d7/d65/a03518.html#af40ca4990501264cb0359ab6d93fb08aa7cc35d82589d473e8265c67eccc9ecd5", null ],
+      [ "STATE_ESCORT_ESCORTING", "d7/d65/a03518.html#af40ca4990501264cb0359ab6d93fb08aa276eb485ebaeb34de738a76731763b92", null ],
+      [ "STATE_ESCORT_RETURNING", "d7/d65/a03518.html#af40ca4990501264cb0359ab6d93fb08aaae71d59813ca4d9bb6e84769e1eeec48", null ],
+      [ "STATE_ESCORT_PAUSED", "d7/d65/a03518.html#af40ca4990501264cb0359ab6d93fb08aa243ae0744c8bd5cc0191aaae1e3cb9f6", null ]
+    ] ]
 ];

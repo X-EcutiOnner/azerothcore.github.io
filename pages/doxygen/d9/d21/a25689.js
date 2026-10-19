@@ -1,5 +1,6 @@
 var a25689 =
 [
-    [ "PrepareSpellScript", "d9/d21/a25689.html#a939db3d626f3451edd605ced6d9b2ebe", null ],
-    [ "Register", "d9/d21/a25689.html#a5b356ca08e33c8eb127bec763f105792", null ]
+    [ "HandleScript", "d9/d21/a25689.html#a3f63c080d2a74def0920cceaea18e1e2", null ],
+    [ "PrepareSpellScript", "d9/d21/a25689.html#a438c4c1763688210384b24305aeebe52", null ],
+    [ "Register", "d9/d21/a25689.html#a27b25fbbdd912505738728414b79380c", null ]
 ];

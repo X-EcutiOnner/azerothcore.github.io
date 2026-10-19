@@ -1,12 +1,6 @@
 var a21505 =
 [
-    [ "boss_koralonAI", "d5/d71/a21505.html#a3f5bc42a141011e543d1215eac09dc74", null ],
-    [ "AttackStart", "d5/d71/a21505.html#aa84e6e9a302172e134163cd07ca57864", null ],
-    [ "JustDied", "d5/d71/a21505.html#a102c10792d9e7df61d920b5a43f58e51", null ],
-    [ "JustEngagedWith", "d5/d71/a21505.html#aa7503618dd09e0aebac44394595f4715", null ],
-    [ "Reset", "d5/d71/a21505.html#a0e57ee42e45e55b1a69ac7cb0f1d2666", null ],
-    [ "UpdateAI", "d5/d71/a21505.html#aa944aad2eb68adc917cba743d1e530c7", null ],
-    [ "events", "d5/d71/a21505.html#abc8b9a8759b0e3e95d66c16615f621f5", null ],
-    [ "pInstance", "d5/d71/a21505.html#a4bdea1a9d7e46d4ef71cd43ce969e59c", null ],
-    [ "rotateTimer", "d5/d71/a21505.html#ad4b766094f28e940b0b7971d6dadc277", null ]
+    [ "boss_ymironAI", "d2/d05/a21509.html", "d2/d05/a21509" ],
+    [ "boss_ymiron", "d5/d71/a21505.html#a708ffc55e0a190a8ed6adb0bca6ced7c", null ],
+    [ "GetAI", "d5/d71/a21505.html#a0a8caed3c8021ddf861cc71b57297c41", null ]
 ];

@@ -1,9 +1,7 @@
 var a20777 =
 [
-    [ "npc_ulduar_emergency_fire_bot", "d6/d34/a20777.html#ae6e7e18bae098db633de891ab52ca0d3", null ],
-    [ "AttackStart", "d6/d34/a20777.html#ab319353cab89d6f1bcb9be7f8e273600", null ],
-    [ "MoveInLineOfSight", "d6/d34/a20777.html#a1d217847b4aa4d199bc7060820b2d0fb", null ],
-    [ "MovementInform", "d6/d34/a20777.html#a6f7306e3da54511ddbef772044f76950", null ],
-    [ "UpdateAI", "d6/d34/a20777.html#a653df31873aca5acb86020cc1e14f4a0", null ],
-    [ "_events", "d6/d34/a20777.html#a99f051bd7a1136375103005f0615c4f2", null ]
+    [ "FilterTargets", "d6/d34/a20777.html#a16f739f70b052f71293846903aab8fdd", null ],
+    [ "HandleDummy", "d6/d34/a20777.html#a4290c0e73254fead6e0f1e4abf7d39f4", null ],
+    [ "PrepareSpellScript", "d6/d34/a20777.html#a430d44a79daa53fd492a0f9506bbbcc7", null ],
+    [ "Register", "d6/d34/a20777.html#af3a1324237de67b4fa507e626def7743", null ]
 ];

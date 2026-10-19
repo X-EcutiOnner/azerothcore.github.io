@@ -1,6 +1,5 @@
 var a06493 =
 [
-    [ "SavedAddon", "d9/df7/a06493.html#a6252c2ac491d0ebd9e84556f26cfa8cd", null ],
-    [ "CRC", "d9/df7/a06493.html#a7d04d21a29aa589429aab0d95172ca95", null ],
-    [ "Name", "d9/df7/a06493.html#a075de88ce6e643cffb7c5bb55f7b1095", null ]
+    [ "Subject", "d9/df7/a06493.html#ad9bd686973c6e59518889bd5d9b6a11f", null ],
+    [ "Text", "d9/df7/a06493.html#a95f203f9e53a61988a4d2af6ac6820a2", null ]
 ];

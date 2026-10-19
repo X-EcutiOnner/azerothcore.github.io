@@ -1,5 +1,6 @@
 var a28121 =
 [
-    [ "achievement_bg_ic_glaive_grave", "da/dd1/a28121.html#a97e1cead0102a120b3bd14592ea26034", null ],
-    [ "OnCheck", "da/dd1/a28121.html#a0eacab5595969cfe5e3d083c984dfd77", null ]
+    [ "HandleOnHit", "da/dd1/a28121.html#a32a6f464057fbfb3bbffe0e10d1d4141", null ],
+    [ "PrepareSpellScript", "da/dd1/a28121.html#adfa4da76e8c2486fbcc2b3bea0f50005", null ],
+    [ "Register", "da/dd1/a28121.html#a1742dc0c039f7f981cae8114ff9ae59a", null ]
 ];

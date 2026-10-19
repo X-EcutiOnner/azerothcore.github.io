@@ -1,6 +1,8 @@
 var a21025 =
 [
-    [ "HandleScript", "d2/db7/a21025.html#a679cf770e38e1fda66f8a64fff53f968", null ],
-    [ "PrepareSpellScript", "d2/db7/a21025.html#a89fe5ca5efcc45278bdd9017cfeaaf3f", null ],
-    [ "Register", "d2/db7/a21025.html#adc76a70e73cba42c0f9935b3b43d17cd", null ]
+    [ "npc_life_spark", "d2/db7/a21025.html#a76bbbdc610dbc433007930c7a45d03be", null ],
+    [ "JustEngagedWith", "d2/db7/a21025.html#af4111bf747f0d5c510f72f32d42f90e3", null ],
+    [ "Reset", "d2/db7/a21025.html#a3c5b0ee2fac3bc444cc3c58e70284b72", null ],
+    [ "UpdateAI", "d2/db7/a21025.html#a3dffda7a220e41302b928f55995d4dce", null ],
+    [ "_scheduler", "d2/db7/a21025.html#a7e77d71508031a75655db8aaa34d0f9d", null ]
 ];

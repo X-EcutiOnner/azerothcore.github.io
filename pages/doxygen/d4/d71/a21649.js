@@ -1,6 +1,6 @@
 var a21649 =
 [
-    [ "HandleEffectPeriodic", "d4/d71/a21649.html#affa7fb949d4b1a05813df0da17fef3bb", null ],
-    [ "PrepareAuraScript", "d4/d71/a21649.html#a79dbb866c06cd1c031cae2f1370146d5", null ],
-    [ "Register", "d4/d71/a21649.html#a1fb46036f0860440f3a9201e0d86cdc4", null ]
+    [ "instance_violet_hold_InstanceMapScript", "dc/df9/a21653.html", "dc/df9/a21653" ],
+    [ "instance_violet_hold", "d4/d71/a21649.html#ae66f018196cd90683506c3cc3d8c5d7a", null ],
+    [ "GetInstanceScript", "d4/d71/a21649.html#ab459840bcb0c8bcc58d20e658be0f63a", null ]
 ];

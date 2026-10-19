@@ -1,6 +1,6 @@
 var a22017 =
 [
-    [ "HandleScriptEffect", "d8/d85/a22017.html#aab68c7fac277f4da5a6cf8bf8e6256ea", null ],
-    [ "PrepareSpellScript", "d8/d85/a22017.html#a6b7f628a138ac395a8cc122902ec38b4", null ],
-    [ "Register", "d8/d85/a22017.html#aacf2bbf7b8396fd7cfbfaf34a66f9b61", null ]
+    [ "npc_q24545_vegard_dummyAI", "d8/d85/a22017.html#ad354ccbe97b12f8df1186de4bf52bfcc", null ],
+    [ "UpdateAI", "d8/d85/a22017.html#aa31baac9ce3c4c951f93917b88390797", null ],
+    [ "done", "d8/d85/a22017.html#a0208fbae8e6c46d0671107530279c50c", null ]
 ];

@@ -1,5 +1,8 @@
 var a29517 =
 [
-    [ "Duration", "de/d64/a29517.html#a20417b0f394c08c779fd3851c2cde87d", null ],
-    [ "ID", "de/d64/a29517.html#a04f9304093a15b4b7f6596993f2e86d9", null ]
+    [ "ClassMask", "de/d64/a29517.html#a563ba1618ffefa5470696e37f65c70d4", null ],
+    [ "Flags", "de/d64/a29517.html#af89c32a22f018557fe016e0784a82384", null ],
+    [ "RaceMask", "de/d64/a29517.html#acff47bf5c075d669f95b0d229674f9bc", null ],
+    [ "SkillID", "de/d64/a29517.html#ab9237a8776aa854e0f81cf228a247ef0", null ],
+    [ "SkillTierID", "de/d64/a29517.html#ab6153043461b71336e12b00957499075", null ]
 ];

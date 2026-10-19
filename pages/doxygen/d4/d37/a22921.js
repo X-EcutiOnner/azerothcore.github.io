@@ -1,6 +1,6 @@
 var a22921 =
 [
-    [ "HandleScriptEffect", "d4/d37/a22921.html#aa60961c2609184e739dea3be8ba992d5", null ],
-    [ "PrepareSpellScript", "d4/d37/a22921.html#aacde592314399112786b024153389024", null ],
-    [ "Register", "d4/d37/a22921.html#a3a2299da6fd73d14c7771e7a2c8a4ebd", null ]
+    [ "FilterTargets", "d4/d37/a22921.html#abd3fafc2120b7069790dd9822cd62adc", null ],
+    [ "PrepareSpellScript", "d4/d37/a22921.html#aebc0441481a2c458fc904175df931a9e", null ],
+    [ "Register", "d4/d37/a22921.html#af1173988538ad44c27ea2ed9d49fe06d", null ]
 ];

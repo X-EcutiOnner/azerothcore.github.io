@@ -1,5 +1,6 @@
 var a28405 =
 [
-    [ "go_sacred_fire_of_life", "d5/df5/a28405.html#a7f14c8397803f8b21e492ec52c6d81e8", null ],
-    [ "OnGossipHello", "d5/df5/a28405.html#aaa078fffe5570fa532d27d1c4ea831a7", null ]
+    [ "go_l70_etc_musicAI", "d5/df5/a28405.html#a1709414fc40d48ac7c13eb8251dfbb26", null ],
+    [ "UpdateAI", "d5/df5/a28405.html#a182a5a9bbe53ced25740de9a4a368469", null ],
+    [ "_events", "d5/df5/a28405.html#aa0cda672b4491b3cfc75214038aa2132", null ]
 ];

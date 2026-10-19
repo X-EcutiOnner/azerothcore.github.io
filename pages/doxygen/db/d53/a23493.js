@@ -1,6 +1,13 @@
 var a23493 =
 [
-    [ "HandleScript", "db/d53/a23493.html#a9451ed26358c77ab4d35781fd8fb4b55", null ],
-    [ "PrepareSpellScript", "db/d53/a23493.html#ad24e7fa45f35f2cd6071328c60cb2732", null ],
-    [ "Register", "db/d53/a23493.html#a1bd01e1103d4959a5b3116e178a16a8f", null ]
+    [ "npc_ahune_bunny", "db/d53/a23493.html#ae28e0d2dbaab082488d5582b75cd8482", null ],
+    [ "DoAction", "db/d53/a23493.html#ad071787c47254f603ba7692889733202", null ],
+    [ "JustDied", "db/d53/a23493.html#a8733a3e495ebf69df4f9d1213df50170", null ],
+    [ "JustSummoned", "db/d53/a23493.html#a2c5c97b497cd15a1453bbd21d279a29b", null ],
+    [ "ResetFlameCallers", "db/d53/a23493.html#a60a74aabbf42116079081134a332a100", null ],
+    [ "UpdateAI", "db/d53/a23493.html#aa8dff40dde7820b1ce4e06c8d27e4ecb", null ],
+    [ "_events", "db/d53/a23493.html#af84154fff16cbdb15586b3b07223e010", null ],
+    [ "_instance", "db/d53/a23493.html#a9be0d062379e5a3dfa19af1eb1a4243e", null ],
+    [ "_submerged", "db/d53/a23493.html#a15fdcc2fda18e118f398ccc055f52942", null ],
+    [ "_summons", "db/d53/a23493.html#a8f9e25f0d8a66b18e887b061592c6950", null ]
 ];

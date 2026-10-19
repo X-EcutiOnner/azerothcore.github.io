@@ -1,5 +1,6 @@
 var a02108 =
 [
-    [ "npc_tyrande_whisperwind", "db/d09/a16235.html", "db/d09/a16235" ],
-    [ "AddSC_teldrassil", "d8/dd8/a02108.html#a3c3f043ac68f32b085d7fa2d72c7da94", null ]
+    [ "instance_maraudon", "d6/dc3/a15509.html", "d6/dc3/a15509" ],
+    [ "instance_maraudon::instance_maraudon_InstanceMapScript", "d5/df0/a15513.html", "d5/df0/a15513" ],
+    [ "AddSC_instance_maraudon", "d8/dd8/a02108.html#a6ab7baf162a5cf99b16fb0a26d7973cb", null ]
 ];

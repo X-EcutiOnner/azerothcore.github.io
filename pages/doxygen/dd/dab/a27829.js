@@ -1,7 +1,7 @@
 var a27829 =
 [
-    [ "HandleScriptEffect", "dd/dab/a27829.html#a328c1ba6ccd98e25e477a3f784cb47ff", null ],
-    [ "PrepareSpellScript", "dd/dab/a27829.html#aa211032991d8fd11d574cb364533a515", null ],
-    [ "Register", "dd/dab/a27829.html#a13315f197f2e6975dca00b53cbc599d2", null ],
-    [ "Validate", "dd/dab/a27829.html#a3b752f07631223199ed7ac404ed1afed", null ]
+    [ "HandleProc", "dd/dab/a27829.html#a929cf5d75df313a5e119eeb03735640c", null ],
+    [ "PrepareAuraScript", "dd/dab/a27829.html#aaeacbee6f798f25e467381aa56228355", null ],
+    [ "Register", "dd/dab/a27829.html#a111fa9ebfc9d9e8f0907635a4ce73bbb", null ],
+    [ "Validate", "dd/dab/a27829.html#a428e6d1f5e172390986ae8fd85570e21", null ]
 ];

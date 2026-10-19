@@ -1,8 +1,6 @@
 var a15109 =
 [
-    [ "CheckCast", "d1/db5/a15109.html#a1e63e7798ab5e55415eb0277f3160fa3", null ],
-    [ "HandleDummy", "d1/db5/a15109.html#ad39da0510c21855dd74abd93f33621c9", null ],
-    [ "PrepareSpellScript", "d1/db5/a15109.html#a727093fec8cc8422cbbaa79d821338c8", null ],
-    [ "Register", "d1/db5/a15109.html#a8cc68fadf4ae20a9de24c75d2f61301f", null ],
-    [ "Validate", "d1/db5/a15109.html#aacd60538c8410fc313a09b1044ad6c7a", null ]
+    [ "HandleAfterEffectApply", "d1/db5/a15109.html#a54b406a450bb2b56cd32ee152ea1414e", null ],
+    [ "PrepareAuraScript", "d1/db5/a15109.html#a917379c33352721b5b76c1d9dac0c025", null ],
+    [ "Register", "d1/db5/a15109.html#a846d79564d76d6000c2276045775d7da", null ]
 ];

@@ -1,6 +1,7 @@
 var a17373 =
 [
-    [ "instance_forge_of_souls_InstanceScript", "d9/d78/a17377.html", "d9/d78/a17377" ],
-    [ "instance_forge_of_souls", "dd/dc9/a17373.html#a504896f6e191c87ce77231c4ef267b27", null ],
-    [ "GetInstanceScript", "dd/dc9/a17373.html#a64982b527cfa6057315b8e628549480b", null ]
+    [ "HandlePeriodicTick", "dd/dc9/a17373.html#abe9cc0a87d84504ee029cc565dd97ef5", null ],
+    [ "PrepareAuraScript", "dd/dc9/a17373.html#a93e894c642101160dd51f30952c82d24", null ],
+    [ "Register", "dd/dc9/a17373.html#a49172ede0f888e391b9b4a835475220a", null ],
+    [ "Validate", "dd/dc9/a17373.html#a3b9998ef5ee0931afbe5b04430da10a0", null ]
 ];

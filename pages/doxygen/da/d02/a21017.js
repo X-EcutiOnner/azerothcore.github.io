@@ -1,9 +1,8 @@
 var a21017 =
 [
-    [ "OnProc", "da/d02/a21017.html#a94de5901e43000e99b478e9194d59ecd", null ],
-    [ "PrepareAuraScript", "da/d02/a21017.html#a1b4efd5e774d4bd561a30830c3be8045", null ],
-    [ "Register", "da/d02/a21017.html#acc8a07807e5c306af285cb5889ef2c41", null ],
-    [ "Validate", "da/d02/a21017.html#ad17cfc0369da547475e43bd2970cf3f2", null ],
-    [ "_lastOrbTime", "da/d02/a21017.html#a4522510d836abf625b019674c1c5281f", null ],
-    [ "OrbCooldown", "da/d02/a21017.html#a4a0204623a0db8d1474d0e72e71226eb", null ]
+    [ "npc_pummeller", "da/d02/a21017.html#a0c67bf3781fde8d4580aad093bf87291", null ],
+    [ "Reset", "da/d02/a21017.html#abdb3f0984c03780aee9dd55496fc7835", null ],
+    [ "UpdateAI", "da/d02/a21017.html#a9d61c35dc7f86314c6beb581539fd55d", null ],
+    [ "_instance", "da/d02/a21017.html#a12df7fb27b7bd54d0bf60c3e5faee037", null ],
+    [ "_scheduler", "da/d02/a21017.html#abc1ba4d0e95d33fe42af1014c2e8448f", null ]
 ];

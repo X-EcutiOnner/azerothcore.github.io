@@ -1,7 +1,6 @@
 var a03905 =
 [
-    [ "ScriptObject", "df/d91/a10971.html", "df/d91/a10971" ],
-    [ "UpdatableScript< TObject >", "d5/df0/a10975.html", "d5/df0/a10975" ],
-    [ "MapScript< TMap >", "db/dbc/a10979.html", "db/dbc/a10979" ],
-    [ "VISIBLE_RANGE", "d6/de4/a03905.html#ac7e3013df774904b0d331e5b0c6e93ad", null ]
+    [ "MapScript< BattlegroundMap >", "d6/de4/a03905.html#a37068ff91511f7df359c3cf9be0e8d72", null ],
+    [ "MapScript< InstanceMap >", "d6/de4/a03905.html#aad36f2a434a53db1767a65fa0a1dffdc", null ],
+    [ "MapScript< Map >", "d6/de4/a03905.html#aacb4fdedfc86aea6c855e3be41e0c6e1", null ]
 ];

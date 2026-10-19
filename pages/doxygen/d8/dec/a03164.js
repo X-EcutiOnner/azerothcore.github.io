@@ -1,15 +1,6 @@
 var a03164 =
 [
-    [ "Position", "d7/dc3/a08931.html", "d7/dc3/a08931" ],
-    [ "Position::PositionXYStreamer", "de/d4d/a08935.html", "de/d4d/a08935" ],
-    [ "Position::PositionXYZStreamer", "d6/d3e/a08939.html", "d6/d3e/a08939" ],
-    [ "Position::PositionXYZOStreamer", "dd/da4/a08943.html", "dd/da4/a08943" ],
-    [ "WorldLocation", "d6/d29/a08947.html", "d6/d29/a08947" ],
-    [ "MAPID_INVALID", "d8/dec/a03164.html#af69a1d112a89b89894dafd5da53e7490", null ],
-    [ "operator<<", "d8/dec/a03164.html#a09519787a0405fc17b028180b2da4cdd", null ],
-    [ "operator<<", "d8/dec/a03164.html#a71323635f122d24189054da615cb39e1", null ],
-    [ "operator<<", "d8/dec/a03164.html#ab63323f8a9ade40ddd90338538b5c9b5", null ],
-    [ "operator>>", "d8/dec/a03164.html#a188cc2956d39298323a99c4aa5ceede6", null ],
-    [ "operator>>", "d8/dec/a03164.html#a72e22c3226b5f361848aef2c75a6d3fb", null ],
-    [ "operator>>", "d8/dec/a03164.html#af223d782e9dcf0f80ed4009360aa0d80", null ]
+    [ "ObjectVisibilityContainer", "d0/d45/a08941.html", "d0/d45/a08941" ],
+    [ "VisiblePlayersMap", "d8/dec/a03164.html#a52b38df575afa7eef8fb58759ee03bd8", null ],
+    [ "VisibleWorldObjectsMap", "d8/dec/a03164.html#a6fe979433a4dd2c9023626ecc74bf6a5", null ]
 ];

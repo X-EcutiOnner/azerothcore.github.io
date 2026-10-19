@@ -1,11 +1,10 @@
 var a29289 =
 [
-    [ "Displayid", "dd/dfd/a29289.html#a4aa3c391401f39d6f4a595f4dff0668b", null ],
-    [ "filename", "dd/dfd/a29289.html#a0cee5b90a15b39e1ff49231e332cc320", null ],
-    [ "maxX", "dd/dfd/a29289.html#a10563ae885d34e516825a18db95b40e7", null ],
-    [ "maxY", "dd/dfd/a29289.html#a711286df6d2bd74246dee2170052c17a", null ],
-    [ "maxZ", "dd/dfd/a29289.html#acb74e32790b2c60cca5faef1caa225e4", null ],
-    [ "minX", "dd/dfd/a29289.html#a77466c3aabd4e7b6b7aa8b5f9f2a82da", null ],
-    [ "minY", "dd/dfd/a29289.html#a7168f5b3229bd27edde78e88bf7dc20a", null ],
-    [ "minZ", "dd/dfd/a29289.html#ac88aefc2530212b9dff10e018c4e9305", null ]
+    [ "HasFlag", "dd/dfd/a29289.html#abe23ca5437589a38ea57bc93a6197911", null ],
+    [ "CollisionHeight", "dd/dfd/a29289.html#afd7385ab3dd949ebe230e0a01cec7158", null ],
+    [ "CollisionWidth", "dd/dfd/a29289.html#ab79497759cf169348b8922301fc43b2f", null ],
+    [ "Flags", "dd/dfd/a29289.html#a3bb96e232124771e78f8b5db53405106", null ],
+    [ "Id", "dd/dfd/a29289.html#aa19fec147703c7542be260c8ec5a0446", null ],
+    [ "MountHeight", "dd/dfd/a29289.html#a5300334ce02dd5a3b9ea6796eddb7ced", null ],
+    [ "Scale", "dd/dfd/a29289.html#a08d8be1d2dbc9eb67e1f631650ea74da", null ]
 ];

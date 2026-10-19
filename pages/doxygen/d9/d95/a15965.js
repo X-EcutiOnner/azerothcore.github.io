@@ -1,10 +1,8 @@
 var a15965 =
 [
-    [ "npc_murkdeepAI", "d9/d95/a15965.html#abe78235ecb94e4735a6f8eaad7fe6adc", null ],
-    [ "JustEngagedWith", "d9/d95/a15965.html#ad33de7cb0caffcd255db38204ecfbb1c", null ],
-    [ "Reset", "d9/d95/a15965.html#aa89316a0fe4f99630a4a129aed305e24", null ],
-    [ "UpdateAI", "d9/d95/a15965.html#aeca85a1324791d18ac825401fb8a31e8", null ],
-    [ "events", "d9/d95/a15965.html#ae3d344829aeba22ef0c5947863720390", null ],
-    [ "phase", "d9/d95/a15965.html#a74a3a16cb3f2993aea9c5d6736a6914e", null ],
-    [ "spawnTimer", "d9/d95/a15965.html#a6b139fb5cc0776103934f14be15c34d1", null ]
+    [ "npc_death_ravagerAI", "d9/d95/a15965.html#ad18242b078db0883029537562a41cc20", null ],
+    [ "Reset", "d9/d95/a15965.html#ac0fdbfe2f324785569fa742e0b244b83", null ],
+    [ "UpdateAI", "d9/d95/a15965.html#ac3dce7d79e67f20d7a8fe161da9d5279", null ],
+    [ "EnragingBiteTimer", "d9/d95/a15965.html#af33898ebd9bea6b1a58b673373de3c64", null ],
+    [ "RendTimer", "d9/d95/a15965.html#ad7ff02fe6e11a0fb0d8a3ae869ed5f6d", null ]
 ];

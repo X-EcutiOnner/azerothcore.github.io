@@ -1,6 +1,6 @@
 var a02315 =
 [
-    [ "event_commandscript", "df/dbe/a12531.html", "df/dbe/a12531" ],
-    [ "EventEntry", "d7/d0c/a02315.html#accd9dac141ffd4618bb7d3f69e8eb716", null ],
-    [ "AddSC_event_commandscript", "d7/d0c/a02315.html#a4f3834f706dcb17ca67ce6513f6aecad", null ]
+    [ "CharacterDatabase", "d7/d0c/a02315.html#af8239cd04c4137e1e621226a6d919ed4", null ],
+    [ "LoginDatabase", "d7/d0c/a02315.html#ae753c5c60b556b0cb7998e7424be5cbf", null ],
+    [ "WorldDatabase", "d7/d0c/a02315.html#af42e9d262f732792d1e81568ae38ea2e", null ]
 ];

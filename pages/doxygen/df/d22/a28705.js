@@ -1,8 +1,10 @@
 var a28705 =
 [
-    [ "npc_wormholeAI", "de/da1/a28709.html", "de/da1/a28709" ],
-    [ "npc_wormhole", "df/d22/a28705.html#aeace4cbf665409786b86140709191cb0", null ],
-    [ "GetAI", "df/d22/a28705.html#af43ec809ce2efe2cd7127029f3c3ec45", null ],
-    [ "OnGossipHello", "df/d22/a28705.html#a6ae1a84557f8dc0f0631b9cc7e88d78e", null ],
-    [ "OnGossipSelect", "df/d22/a28705.html#a73e441bf05f8a4ea7f57d767945e2d5d", null ]
+    [ "npc_dancing_flamesAI", "df/d22/a28705.html#a3d597b2ee826c86b5a8feb3aa144a459", null ],
+    [ "JustEngagedWith", "df/d22/a28705.html#ae0d71d4f9074c05ea76951ede6c7702a", null ],
+    [ "ReceiveEmote", "df/d22/a28705.html#a13aae489e8b03121c8fbae12e83bdfaa", null ],
+    [ "Reset", "df/d22/a28705.html#a53b49dadc70e3e134ca49cd239b569d6", null ],
+    [ "UpdateAI", "df/d22/a28705.html#a555f2ed0d762c5c183ec87580bae46b1", null ],
+    [ "Active", "df/d22/a28705.html#aa79036bed206327847bf5ad2e768e8f6", null ],
+    [ "CanIteract", "df/d22/a28705.html#a866bfc106fc33433b4eb13fabd9c39c6", null ]
 ];

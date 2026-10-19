@@ -1,6 +1,6 @@
 var a11725 =
 [
-    [ "WorldStateInfo", "d9/dad/a11725.html#a64fd2e4da7035ea6c01b8ab0819d2f86", null ],
-    [ "Value", "d9/dad/a11725.html#afe5a0e98713c986a17f431795c488c6c", null ],
-    [ "VariableID", "d9/dad/a11725.html#a627bba237bce23aff74fd2bf7a274657", null ]
+    [ "QuestLogRemoveQuest", "d9/dad/a11725.html#afeb3eec9774e69822f3b5f9bf7b5f905", null ],
+    [ "Read", "d9/dad/a11725.html#a22e2ff4a700f9db48518cf5a9aec18f6", null ],
+    [ "Slot", "d9/dad/a11725.html#ae1d6a81d589533b15c0358b4896afd91", null ]
 ];

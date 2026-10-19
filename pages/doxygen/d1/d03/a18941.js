@@ -1,9 +1,5 @@
 var a18941 =
 [
-    [ "DelayedCastEvent", "d1/d03/a18941.html#a96b86f3f1ee23d6f25ec3c13f9a03235", null ],
-    [ "Execute", "d1/d03/a18941.html#ae2925429b3049e44d2afd2e8b990af71", null ],
-    [ "_despawnTime", "d1/d03/a18941.html#afcaeafb72df77c36b5496588c219fac4", null ],
-    [ "_originalCaster", "d1/d03/a18941.html#adb07c24a947d59d2ef1f61b8ab18d328", null ],
-    [ "_spellId", "d1/d03/a18941.html#abe28a6749101233302634ed226a289e8", null ],
-    [ "_trigger", "d1/d03/a18941.html#a85471a151a3165cc906f3a41103c3f5d", null ]
+    [ "npc_icc_lk_checktargetAI", "d1/d03/a18941.html#a9a5953a9353be61a3fa96eaf7df7c489", null ],
+    [ "CanAIAttack", "d1/d03/a18941.html#a4dfce75e23f1093c3de0ce75b049a20a", null ]
 ];

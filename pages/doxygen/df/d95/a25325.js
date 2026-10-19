@@ -1,6 +1,6 @@
 var a25325 =
 [
-    [ "HandleScript", "df/d95/a25325.html#a913c8c461f291ccaad2f48614c0146c6", null ],
-    [ "PrepareSpellScript", "df/d95/a25325.html#a18913a7455cf3f158136f2d3bb415779", null ],
-    [ "Register", "df/d95/a25325.html#ac24208b646e95d87fbb340d7779cb7c5", null ]
+    [ "HandleEffectPeriodicUpdate", "df/d95/a25325.html#a554353fede78b89bf488230254d7892b", null ],
+    [ "PrepareAuraScript", "df/d95/a25325.html#adf20aaafff83bae614ff3c614a08a54b", null ],
+    [ "Register", "df/d95/a25325.html#a6ee55cc41f7b69fc12bb3dc6c7fcbaf5", null ]
 ];

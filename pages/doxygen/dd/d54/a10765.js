@@ -1,20 +1,8 @@
 var a10765 =
 [
-    [ "AllSpellScript", "dd/d54/a10765.html#a8c4266bf7a21c199eac02b5422c358e8", null ],
-    [ "CanPrepare", "dd/d54/a10765.html#aeb2d438fdd7ca823ce670a94941bafff", null ],
-    [ "CanScalingEverything", "dd/d54/a10765.html#a026842dcd2d8c0e0c3f99718b04e86b0", null ],
-    [ "CanSelectSpecTalent", "dd/d54/a10765.html#a3cf7b45d8e9f5b23e2753d1624c4af78", null ],
-    [ "IsDatabaseBound", "dd/d54/a10765.html#a0854a57b62e310575a3e5cd8d35e8532", null ],
-    [ "OnBeforeAuraRankForLevel", "dd/d54/a10765.html#ae5a4590e4fb49d4cfe73c5ce307773ca", null ],
-    [ "OnCalcMaxDuration", "dd/d54/a10765.html#a5d02de785a4e1cf5103110828fac5e75", null ],
-    [ "OnDummyEffect", "dd/d54/a10765.html#a54e0b823c538c41507c541db025d5295", null ],
-    [ "OnDummyEffect", "dd/d54/a10765.html#a36061e5bcec2ef4dea35d1b5c9e703b4", null ],
-    [ "OnDummyEffect", "dd/d54/a10765.html#afe06aa2578b89fbc5ed5784aed38912a", null ],
-    [ "OnIsAuraExclusiveBySpecificWith", "dd/d54/a10765.html#a861468896a9a29ababed2077be1c9242", null ],
-    [ "OnRemoveAuraScaleTargets", "dd/d54/a10765.html#aa055f00fe76ba2768f97e23ecf379a18", null ],
-    [ "OnScaleAuraUnitAdd", "dd/d54/a10765.html#abf3758ff33e5be1492ed4e45979a7a8d", null ],
-    [ "OnSpellCast", "dd/d54/a10765.html#aac6481ca905c3f44f85c55aaf694afca", null ],
-    [ "OnSpellCastCancel", "dd/d54/a10765.html#ad5dd3e0f697edb93df6ee764fe2a1d99", null ],
-    [ "OnSpellCheckCast", "dd/d54/a10765.html#aae718678bb7d9a7ed1e0cbbc59db3049", null ],
-    [ "OnSpellPrepare", "dd/d54/a10765.html#addb78dc29f771ec376922a4a2bff558b", null ]
+    [ "AllCommandScript", "dd/d54/a10765.html#ac301ea1e97fe959f23dbc72582746a24", null ],
+    [ "IsDatabaseBound", "dd/d54/a10765.html#a89430678d5c88c562f1b0ac2b294fea4", null ],
+    [ "OnBeforeIsInvokerVisible", "dd/d54/a10765.html#a6f85dc271c1b61244978aa4474e708b0", null ],
+    [ "OnHandleDevCommand", "dd/d54/a10765.html#aba983f0e052ece230617573f04a35c92", null ],
+    [ "OnTryExecuteCommand", "dd/d54/a10765.html#a3a116836453073e77bbd8ab974f36f47", null ]
 ];

@@ -1,10 +1,5 @@
 var a20837 =
 [
-    [ "npc_razorscale_dark_rune_watcher", "de/ddc/a20837.html#aff56f4cadfeb72f6a96f8ac86b27a6a1", null ],
-    [ "CanAIAttack", "de/ddc/a20837.html#a68ef8f2c7014850c5107cc22deff8658", null ],
-    [ "JustEngagedWith", "de/ddc/a20837.html#a303994b6f5e2ae6e4d6f0e44d9eb60a9", null ],
-    [ "Reset", "de/ddc/a20837.html#aaab4be32140991366f1a004622bf3b31", null ],
-    [ "UpdateAI", "de/ddc/a20837.html#a8d1518f80cc6427d0334770a5aaf130a", null ],
-    [ "_events", "de/ddc/a20837.html#a15fa73dea3b9b86a6d1b42f9d1296d6e", null ],
-    [ "_instance", "de/ddc/a20837.html#ac08ba6b60827408aeb1b63a48a57fa9e", null ]
+    [ "achievement_mimiron_firefighter", "de/ddc/a20837.html#ae26c3b2572bc9e3e75fb25537fe46a6c", null ],
+    [ "OnCheck", "de/ddc/a20837.html#a1ebd287ef20c6d367f30b1c30ba68728", null ]
 ];

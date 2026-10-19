@@ -1,6 +1,7 @@
 var a14349 =
 [
-    [ "npc_the_scourge_cauldronAI", "d8/db0/a14353.html", "d8/db0/a14353" ],
-    [ "npc_the_scourge_cauldron", "dc/dcb/a14349.html#a7ff5315293c4917dec3b0fe0aade2016", null ],
-    [ "GetAI", "dc/dcb/a14349.html#ae4e35f1cac0c0f35333ba6113d3c1ad0", null ]
+    [ "npc_jaina_proudmoore_bfuAI", "dc/dcb/a14349.html#ad5ad1d05ef8210409c700e47b5442e24", null ],
+    [ "Reset", "dc/dcb/a14349.html#a18de805428ce0954a5fbfffbf5975342", null ],
+    [ "UpdateAI", "dc/dcb/a14349.html#a48b191d0812bfe3212511a52ef0df817", null ],
+    [ "_events", "dc/dcb/a14349.html#a87e99e0b5fd0a3823b009025019b1fa4", null ]
 ];

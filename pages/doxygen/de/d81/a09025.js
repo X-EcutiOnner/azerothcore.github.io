@@ -1,10 +1,6 @@
 var a09025 =
 [
-    [ "DuelInfo", "de/d81/a09025.html#a183f336e52fe7cdaa34dbb43991d0c39", null ],
-    [ "Initiator", "de/d81/a09025.html#ae1a6667f934c88ad8f0b160e6a8b1190", null ],
-    [ "IsMounted", "de/d81/a09025.html#ad80e3507a7bdfc8f7dbebd07697c464f", null ],
-    [ "Opponent", "de/d81/a09025.html#a2765770367c839ad28f804e2df3205cb", null ],
-    [ "OutOfBoundsTime", "de/d81/a09025.html#a8ff9ae1c990674b6ac0cd929f5114f23", null ],
-    [ "StartTime", "de/d81/a09025.html#a1b8b4c373b2e4243f8e33a391821528f", null ],
-    [ "State", "de/d81/a09025.html#ae8492a9857d819fcec56a10cfd5051e2", null ]
+    [ "PlayerClassLevelInfo", "de/d81/a09025.html#a60153094e3179bfc6c028d2b76775805", null ],
+    [ "basehealth", "de/d81/a09025.html#a034ae3d2b5b14ce454710ca8f92ffee0", null ],
+    [ "basemana", "de/d81/a09025.html#a939a8d8739a553c919d84e399ce17d22", null ]
 ];

@@ -1,6 +1,5 @@
 var a14605 =
 [
-    [ "FilterTargets", "d3/d5a/a14605.html#ac29f6792f36f1b5ef4a463754c725a2e", null ],
-    [ "PrepareSpellScript", "d3/d5a/a14605.html#a0a1cbde8aff10303d91a791276a865f4", null ],
-    [ "Register", "d3/d5a/a14605.html#a9f7d21ab52f581ad154a242ce84d8a5d", null ]
+    [ "at_zulgurub_bridge_speech", "d3/d5a/a14605.html#a0ef9d44dc98ddee8fe5133862339808d", null ],
+    [ "_OnTrigger", "d3/d5a/a14605.html#a1a3dbb3cbfbeb50c653134b8bae773f0", null ]
 ];

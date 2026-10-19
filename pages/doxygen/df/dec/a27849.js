@@ -1,7 +1,6 @@
 var a27849 =
 [
-    [ "HandleDummy", "df/dec/a27849.html#ab8916b5c232d7b55f4a6bb3e9f9ab122", null ],
-    [ "PrepareSpellScript", "df/dec/a27849.html#ac8cfa0b54c585f12682602a678d7bf2d", null ],
-    [ "Register", "df/dec/a27849.html#aee02661fa8845afd666ca27163b4a761", null ],
-    [ "Validate", "df/dec/a27849.html#aba9079e2418281315029c839b22df1c5", null ]
+    [ "HandleAuraApply", "df/dec/a27849.html#a19d8103126a6446fb5ade53d2b5d0ddb", null ],
+    [ "PrepareAuraScript", "df/dec/a27849.html#a7596065e5ffcacf099a5984f5d940c11", null ],
+    [ "Register", "df/dec/a27849.html#a8efa76b28dddad68fee132f37791f231", null ]
 ];

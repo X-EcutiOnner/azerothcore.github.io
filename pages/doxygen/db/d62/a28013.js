@@ -1,6 +1,8 @@
 var a28013 =
 [
-    [ "HandleDummy", "db/d62/a28013.html#a68a86f7f86324336dc837622e01fa6af", null ],
-    [ "PrepareSpellScript", "db/d62/a28013.html#a8c0a4b3b96a93b6977c2d3077fdfff1d", null ],
-    [ "Register", "db/d62/a28013.html#ad168c9164d1edd23abfbf05141b96de4", null ]
+    [ "CheckProc", "db/d62/a28013.html#ae202a117ff86eee618dfdf4600746de5", null ],
+    [ "HandleProc", "db/d62/a28013.html#a28c409af8e7a8115ce86f2a51fff1afd", null ],
+    [ "PrepareAuraScript", "db/d62/a28013.html#a334db12ee8ed29b34269a0ca3172d7b4", null ],
+    [ "Register", "db/d62/a28013.html#a392724c604ce325415aaa3410e18a60c", null ],
+    [ "Validate", "db/d62/a28013.html#af0b153ca9e28a3cdc06a30ff30b46f39", null ]
 ];

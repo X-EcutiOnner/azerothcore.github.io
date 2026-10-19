@@ -1,6 +1,14 @@
 var a17357 =
 [
-    [ "npc_fos_leader_secondAI", "d6/da0/a17361.html", "d6/da0/a17361" ],
-    [ "npc_fos_leader_second", "d9/df6/a17357.html#a0e24659ef6e834da5a3adc8d79f0db4e", null ],
-    [ "GetAI", "d9/df6/a17357.html#a96082888ccbb1c81be8327e5e0d84e03", null ]
+    [ "boss_bronjahm", "d9/df6/a17357.html#a44666a47b298efe48c4e86b8677d9845", null ],
+    [ "DamageTaken", "d9/df6/a17357.html#ab89333e2ee43ad384bdc71ac6f83c92e", null ],
+    [ "EnterEvadeMode", "d9/df6/a17357.html#a5d515921e780974e2a70937ada8b232d", null ],
+    [ "JustDied", "d9/df6/a17357.html#ad50a7aee4ebf9d0d5d9141b96e154996", null ],
+    [ "JustEngagedWith", "d9/df6/a17357.html#a767d4a601d7f912cd71823a51b31af1f", null ],
+    [ "JustReachedHome", "d9/df6/a17357.html#af2146b1ddb8cdc3e27d1cf573fe65df0", null ],
+    [ "JustSummoned", "d9/df6/a17357.html#a47c7a8a8413b139cf2d217d33f39aa3d", null ],
+    [ "KilledUnit", "d9/df6/a17357.html#aaaf64571ce6a542be93c6efe105278e8", null ],
+    [ "Reset", "d9/df6/a17357.html#a313bd4510e18ecb529b6358d28a3dc3f", null ],
+    [ "SpellHitTarget", "d9/df6/a17357.html#a3be47710012bd75a71574f7a4c69f678", null ],
+    [ "UpdateAI", "d9/df6/a17357.html#a6d60b720210a9f196b1c006b557e7d25", null ]
 ];

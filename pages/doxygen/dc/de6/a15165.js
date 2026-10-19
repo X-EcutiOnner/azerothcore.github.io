@@ -1,6 +1,6 @@
 var a15165 =
 [
-    [ "HandleTriggerSpell", "dc/de6/a15165.html#a7e5a03d304f0f6fe8d06ed5df12259dd", null ],
-    [ "PrepareSpellScript", "dc/de6/a15165.html#a76a070da8e719198463010499f595599", null ],
-    [ "Register", "dc/de6/a15165.html#ae237c4972167a5a17b59800983496a9d", null ]
+    [ "OnAuraRemove", "dc/de6/a15165.html#ad16e8b64999771154360afad71454c07", null ],
+    [ "PrepareAuraScript", "dc/de6/a15165.html#a70963be80861e10ecd093e40b77e7078", null ],
+    [ "Register", "dc/de6/a15165.html#a7381cbea873fb57485e4539aa478d236", null ]
 ];

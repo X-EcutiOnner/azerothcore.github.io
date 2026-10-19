@@ -1,6 +1,5 @@
 var a29293 =
 [
-    [ "color", "d5/d79/a29293.html#a2e4ee1d687af07445684907d1bcec4f4", null ],
-    [ "ID", "d5/d79/a29293.html#ac125147c2dc5546a0116f48e08f36e59", null ],
-    [ "spellitemenchantement", "d5/d79/a29293.html#a3a6329c8f5caa3cd6e61138339f37f4d", null ]
+    [ "ID", "d5/d79/a29293.html#a01bcdc3543d3ff250354acf5e0724c14", null ],
+    [ "spellId", "d5/d79/a29293.html#aabbb95c091e0b0946bcb05746b1c23f3", null ]
 ];

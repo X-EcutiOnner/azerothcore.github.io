@@ -1,5 +1,5 @@
 var a08925 =
 [
-    [ "PositionXYZStreamer", "df/d62/a08925.html#a8da1be6111bd97ef68d62d0d9d630c56", null ],
-    [ "m_pos", "df/d62/a08925.html#ae5db7cb3adba811c0b9483645a7f1770", null ]
+    [ "ObjectGuidGenerator", "df/d62/a08925.html#a1d917989d9bf681546d0e3e9b20593e0", null ],
+    [ "Generate", "df/d62/a08925.html#ae863a6f3ad3b71ab0ca19c60e4f7d862", null ]
 ];

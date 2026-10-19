@@ -1,11 +1,5 @@
 var a09553 =
 [
-    [ "~GridCell", "df/d7a/a09553.html#a042be8f85e83068d4bb39a0de0618146", null ],
-    [ "AddFarVisibleObject", "df/d7a/a09553.html#a9a81bdbf151463b4687227df0fa39ece", null ],
-    [ "AddGridObject", "df/d7a/a09553.html#ab64f99dd9997ff6df1f1db25a8d95d19", null ],
-    [ "RemoveFarVisibleObject", "df/d7a/a09553.html#a8f76d2ad6abd96506d084a7e47bb8f6b", null ],
-    [ "Visit", "df/d7a/a09553.html#aa0c4e5dac57c41d8fce303fb943585a0", null ],
-    [ "Visit", "df/d7a/a09553.html#a8bc3a1bda26adb9a2e752afc0a7d56bd", null ],
-    [ "_farVisibleObjects", "df/d7a/a09553.html#a2a331c36ea678eb0c9ca6d20b820428f", null ],
-    [ "_gridObjects", "df/d7a/a09553.html#ac5a741aebc11124aa228e5107e664335", null ]
+    [ "MaxAllowedCount", "df/d7a/a09553.html#afb0dcc50d8e9aa85fe2904050d646042", null ],
+    [ "Policy", "df/d7a/a09553.html#a8b2bbd3d9f52166c1235b0d306042609", null ]
 ];

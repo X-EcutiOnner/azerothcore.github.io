@@ -1,7 +1,10 @@
 var a15229 =
 [
-    [ "PeriodicTick", "d0/dc5/a15229.html#aa94e4d6a31a08959a5287b863737c2e2", null ],
-    [ "PrepareAuraScript", "d0/dc5/a15229.html#a59a9c4dfe06859daac5bb69fa5d20e95", null ],
-    [ "Register", "d0/dc5/a15229.html#a24058b120f4fa06b89f6d582c53a365a", null ],
-    [ "Validate", "d0/dc5/a15229.html#a093b09be5abde91a1487d67a7a554d30", null ]
+    [ "boss_anetheron", "d0/dc5/a15229.html#a6c103caa3f137756599a75bff03a6648", null ],
+    [ "DoAction", "d0/dc5/a15229.html#a2fd485de26c820fec5240f9141a09964", null ],
+    [ "JustDied", "d0/dc5/a15229.html#a7c8b2039ee7e379bed8387b7236b7ee5", null ],
+    [ "JustEngagedWith", "d0/dc5/a15229.html#aa34ac87ad4014fbecb481be7896c577c", null ],
+    [ "JustSummoned", "d0/dc5/a15229.html#af9c156e28c7eca710d8367bd2a99387d", null ],
+    [ "KilledUnit", "d0/dc5/a15229.html#a4471af823278a3664574729bf5c749be", null ],
+    [ "PathEndReached", "d0/dc5/a15229.html#a75ed708e2769a77defa5c9a0b22dcae9", null ]
 ];

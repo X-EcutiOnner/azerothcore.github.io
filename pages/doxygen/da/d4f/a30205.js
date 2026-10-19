@@ -1,10 +1,7 @@
 var a30205 =
 [
-    [ "adt_CELLS", "dd/df6/a30213.html", "dd/df6/a30213" ],
-    [ "getMCNK", "da/d4f/a30205.html#a8330b7cb405146399d3d20e6952a8b40", null ],
-    [ "prepareLoadedData", "da/d4f/a30205.html#adc7346499aa51f4422c810b7e757f835", null ],
-    [ "cells", "da/d4f/a30205.html#a434ed0ca354ec27d5334cc63e5650038", null ],
-    [ "fcc", "da/d4f/a30205.html#ae7d4acf20e102b6b8f19ded3fe219a7d", null ],
-    [ "fcc_txt", "da/d4f/a30205.html#a514bae36851623daf76b26a9d63f1ae0", null ],
-    [ "size", "da/d4f/a30205.html#a1a40f52ea9eef3add8207da89cb71210", null ]
+    [ "SetUp", "da/d4f/a30205.html#ab58c026bc6bbcf94aaec896c654e949f", null ],
+    [ "DAGGER_SPEED", "da/d4f/a30205.html#a2e9b2005f350f0aec0a905eef5bc0bb6", null ],
+    [ "SWORD_SPEED", "da/d4f/a30205.html#ac960eb9c5e15274b63b684d8908ed68b", null ],
+    [ "TWO_HANDED_SPEED", "da/d4f/a30205.html#a7dbbfc5825a36bf3950a8dff54e0ca5a", null ]
 ];

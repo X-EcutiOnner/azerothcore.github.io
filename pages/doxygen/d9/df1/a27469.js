@@ -1,7 +1,6 @@
 var a27469 =
 [
-    [ "CalculateAmount", "d9/df1/a27469.html#aefeab4e58c1b5c1be87f583256d366f5", null ],
-    [ "Load", "d9/df1/a27469.html#ae2ef0eae77137c120ec61af8698677db", null ],
-    [ "PrepareAuraScript", "d9/df1/a27469.html#acaecc78c031aa436f432fd7145478de4", null ],
-    [ "Register", "d9/df1/a27469.html#afd27c8bc5fd1628b7e32bf464bfe3d48", null ]
+    [ "HandlePeriodic", "d9/df1/a27469.html#a6fdf93580d860712943bbff07e273fef", null ],
+    [ "PrepareAuraScript", "d9/df1/a27469.html#ac64daca8467814398251ec8e590f8281", null ],
+    [ "Register", "d9/df1/a27469.html#ad0e68442f3d12cb58781e5e2d39b49ec", null ]
 ];

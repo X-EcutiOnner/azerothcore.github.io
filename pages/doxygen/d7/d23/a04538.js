@@ -1,15 +1,12 @@
 var a04538 =
 [
-    [ "SpellProcCooldownTest", "d5/dba/a30139.html", "d5/dba/a30139" ],
-    [ "TEST_F", "d7/d23/a04538.html#ac30c03da32748e0bf7f658b9eff19f67", null ],
-    [ "TEST_F", "d7/d23/a04538.html#a877730b0890fd65b53503d867be13db2", null ],
-    [ "TEST_F", "d7/d23/a04538.html#a46fee264bedefac5bf751dc80e5175ca", null ],
-    [ "TEST_F", "d7/d23/a04538.html#a370529a902674d7c3d85a958b68f014a", null ],
-    [ "TEST_F", "d7/d23/a04538.html#a63a215a846e19ee49b60cd43e3a95dbb", null ],
-    [ "TEST_F", "d7/d23/a04538.html#af3b499c25e76cc981b8b7c898e661285", null ],
-    [ "TEST_F", "d7/d23/a04538.html#aa2595c13ca0ad6ce6afda0196d0c86ae", null ],
-    [ "TEST_F", "d7/d23/a04538.html#afba7de9d87f646093469d0f6820b2217", null ],
-    [ "TEST_F", "d7/d23/a04538.html#a64a32de59b301ddb3b2a8827bacd43cf", null ],
-    [ "TEST_F", "d7/d23/a04538.html#a4828c96b86819a1f862c5c123463c3f6", null ],
-    [ "TEST_F", "d7/d23/a04538.html#a980784573aa4ae1d2fda4349c9290425", null ]
+    [ "BinarySpellDetectionTest", "de/d1c/a30085.html", "de/d1c/a30085" ],
+    [ "ShouldMarkBinary", "d7/d23/a04538.html#ab2154405a408271aa60863454b0303fe", null ],
+    [ "TEST_F", "d7/d23/a04538.html#ae8ecca79d16f8a89b183cf4611dad5d0", null ],
+    [ "TEST_F", "d7/d23/a04538.html#afb1918ddefeb036bd6be1fbde953b78b", null ],
+    [ "TEST_F", "d7/d23/a04538.html#a1dc398eff0ed30b3e1997c3b27980bed", null ],
+    [ "TEST_F", "d7/d23/a04538.html#ad56defbc63a988ba5126194ff9cea5ec", null ],
+    [ "TEST_F", "d7/d23/a04538.html#a54fa8a3ce4060060ece3f2a2d9e852e7", null ],
+    [ "TEST_F", "d7/d23/a04538.html#aa1b8d26dc43fa9eaf1d827a0c4308dd1", null ],
+    [ "TEST_F", "d7/d23/a04538.html#a4e6cbd19c7f85354ce9a5f5a9a1bafe6", null ]
 ];

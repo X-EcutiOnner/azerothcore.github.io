@@ -1,12 +1,9 @@
 var a12697 =
 [
-    [ "wp_commandscript", "d8/d33/a12697.html#a152610b5faf3ee05bb830bbf820b7162", null ],
-    [ "GetCommands", "d8/d33/a12697.html#a55ecc8d67d7c240df1b177f755fc5850", null ],
-    [ "HandleWpAddCommand", "d8/d33/a12697.html#a345a8c5a2b449dc228433b2922caab0e", null ],
-    [ "HandleWpEventCommand", "d8/d33/a12697.html#a7b9355e52cb6870e7cdec7206f800832", null ],
-    [ "HandleWpLoadCommand", "d8/d33/a12697.html#a5849689f5cd186e8fc1f91ebd5f5a21a", null ],
-    [ "HandleWpModifyCommand", "d8/d33/a12697.html#a9a3e68e19f2324783bbe9ed9fe1c3ac6", null ],
-    [ "HandleWpReloadCommand", "d8/d33/a12697.html#ae7015c0f94ca5688210d890b636a586d", null ],
-    [ "HandleWpShowCommand", "d8/d33/a12697.html#a265f60ddec02a2f24b011ccdebefa89e", null ],
-    [ "HandleWpUnLoadCommand", "d8/d33/a12697.html#a4f0a252f625e49593ad6a03086a8c7ad", null ]
+    [ "send_commandscript", "d8/d33/a12697.html#a3aa5d7cc0b5dcd4875e99dfd6f3dbdde", null ],
+    [ "GetCommands", "d8/d33/a12697.html#a2dc60c8c414c9131b4cda1ff82f7beed", null ],
+    [ "HandleSendItemsCommand", "d8/d33/a12697.html#a7ffcd07e0ad08be2eb8a1ebac0fec717", null ],
+    [ "HandleSendMailCommand", "d8/d33/a12697.html#a5ad6f9387c6fb00bf536629c760ba374", null ],
+    [ "HandleSendMessageCommand", "d8/d33/a12697.html#a91017e6171ac9e4dfff6c2036228de47", null ],
+    [ "HandleSendMoneyCommand", "d8/d33/a12697.html#a1b1e995a2854e338866527ee9634d544", null ]
 ];

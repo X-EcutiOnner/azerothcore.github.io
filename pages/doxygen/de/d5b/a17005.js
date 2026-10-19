@@ -1,6 +1,7 @@
 var a17005 =
 [
-    [ "npc_toc_mageAI", "df/d33/a17009.html", "df/d33/a17009" ],
-    [ "npc_toc_mage", "de/d5b/a17005.html#a8270875c1da3e2e96f767362ef90cdc6", null ],
-    [ "GetAI", "de/d5b/a17005.html#a64b5b8b3a5933a0264537f2187e81e15", null ]
+    [ "npc_toc_shamanAI", "de/d5b/a17005.html#abd0b0e503c1bbc48aebb5923ec3f4291", null ],
+    [ "myCanCast", "de/d5b/a17005.html#a993739662d2687c27219853669b8a485", null ],
+    [ "UpdateAI", "de/d5b/a17005.html#a2ad17245685feb3f085ef9a669459c61", null ],
+    [ "events", "de/d5b/a17005.html#ab573ab0ee616348ccdb28b71255ac35d", null ]
 ];

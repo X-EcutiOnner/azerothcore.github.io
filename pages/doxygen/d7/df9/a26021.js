@@ -1,6 +1,6 @@
 var a26021 =
 [
-    [ "PrepareSpellScript", "d7/df9/a26021.html#a72e57e8a4bdb9a4fcd73e3519b6025ea", null ],
-    [ "Register", "d7/df9/a26021.html#aac4d3c8ecde3652c65c05abad5c8eaeb", null ],
-    [ "SelectTarget", "d7/df9/a26021.html#a3153b6c6814922cd7220e19b06f2a602", null ]
+    [ "CheckProc", "d7/df9/a26021.html#a8158e7338b29b072f0c851771d0e8eee", null ],
+    [ "PrepareAuraScript", "d7/df9/a26021.html#a44a18144e276e7bdc80c5a19f1d442e2", null ],
+    [ "Register", "d7/df9/a26021.html#ae24336f87db322e546bd858bc50f2351", null ]
 ];

@@ -1,8 +1,9 @@
 var a04991 =
 [
-    [ "BasicEvent", "de/d76/a05879.html", "de/d76/a05879" ],
-    [ "LambdaBasicEvent< T >", "df/df8/a05883.html", "df/df8/a05883" ],
-    [ "EventProcessor", "d9/d99/a05887.html", "d9/d99/a05887" ],
-    [ "EventList", "d1/da2/a04991.html#a393840b719db78b29da806c1237fceb0", null ],
-    [ "is_lambda_event", "d1/da2/a04991.html#a62fdca14f042b8645ab0d19029b80d9b", null ]
+    [ "getAngle", "d1/da2/a04991.html#a5ce837ff4fb41332a25e6b0dc0f5b848", null ],
+    [ "getCircleAreaByRadius", "d1/da2/a04991.html#a18ed540c327b1fd656065d8cbfc4844f", null ],
+    [ "getCirclePerimeterByRadius", "d1/da2/a04991.html#a62641094ea3c1b9506faefa7a35ba456", null ],
+    [ "getCylinderVolume", "d1/da2/a04991.html#a95ce6760beb476a4c24ff46d3069103f", null ],
+    [ "getSlopeAngle", "d1/da2/a04991.html#a61d2d33d44f335480a833a04436620ba", null ],
+    [ "getSlopeAngleAbs", "d1/da2/a04991.html#a0b02845f56a27df498d0598d259ca5e1", null ]
 ];

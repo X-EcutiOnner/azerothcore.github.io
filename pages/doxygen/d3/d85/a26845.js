@@ -1,8 +1,7 @@
 var a26845 =
 [
-    [ "Load", "d3/d85/a26845.html#a7662d85a5469c20edf6d2eefca820db3", null ],
-    [ "PrepareAuraScript", "d3/d85/a26845.html#a252bd975a7639eab4e151249db974b7c", null ],
-    [ "Register", "d3/d85/a26845.html#a51723a22f1062f44e8eb6848e1398595", null ],
-    [ "Split", "d3/d85/a26845.html#a08e982eae6030fdc679663bfd38bca47", null ],
-    [ "remainingAmount", "d3/d85/a26845.html#afaab88988769ddc720deb44f06de3d7d", null ]
+    [ "PeriodicTick", "d3/d85/a26845.html#a4fcdb073b4140311f31c5965ea7d1316", null ],
+    [ "PrepareAuraScript", "d3/d85/a26845.html#ad332660b3b30ecb7b5c949c702574879", null ],
+    [ "Register", "d3/d85/a26845.html#ad752eaecf8b0b3efcc7f61d88fb447d9", null ],
+    [ "Validate", "d3/d85/a26845.html#a426b39c9733464c5d69d707d4e931f64", null ]
 ];

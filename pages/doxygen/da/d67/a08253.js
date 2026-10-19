@@ -1,6 +1,5 @@
 var a08253 =
 [
-    [ "value_type", "da/d67/a08253.html#a9297944511f34279a6439ade9d83b0c6", null ],
-    [ "StoreTo", "da/d67/a08253.html#a1f5494d3c3472abbf8783026015b5f70", null ],
-    [ "tag", "da/d67/a08253.html#a08484916162055a368e768b9f5300047", null ]
+    [ "Entry", "da/d67/a08253.html#a057a5b8b65db8b8084b79a217a95308d", null ],
+    [ "RawGuid", "da/d67/a08253.html#a0167a663fcde7c1de2b15e3622f90c7c", null ]
 ];

@@ -1,8 +1,7 @@
 var a14233 =
 [
-    [ "HandleDummy", "d1/db6/a14233.html#a3533f1e0daea7bf0e0e2a5830380159a", null ],
-    [ "HandleScript", "d1/db6/a14233.html#a528ce741ebde0fb6b796431da800e439", null ],
-    [ "PrepareSpellScript", "d1/db6/a14233.html#aa64f2238cdf8bf733c7e99db5d076c81", null ],
-    [ "Register", "d1/db6/a14233.html#a8dea4b47777324b88c7e022f11741b25", null ],
-    [ "Validate", "d1/db6/a14233.html#a6f49345b2beea56b4eaad390a6062118", null ]
+    [ "HandleScriptEffect", "d1/db6/a14233.html#a1b196f3817c16fac48392981b58c1a05", null ],
+    [ "PrepareSpellScript", "d1/db6/a14233.html#ad44566ff9a44057679e7ce8e1959776d", null ],
+    [ "Register", "d1/db6/a14233.html#aef3bfdaff9f0b5080d83805a1a962a79", null ],
+    [ "Validate", "d1/db6/a14233.html#a70a1f0d2666921ccbad62c1fd06fe4b6", null ]
 ];

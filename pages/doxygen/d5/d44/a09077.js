@@ -1,10 +1,10 @@
 var a09077 =
 [
-    [ "TradeStatusInfo", "d5/d44/a09077.html#ae0dff14036e00d3c62c181fcc306faf2", null ],
-    [ "IsTargetResult", "d5/d44/a09077.html#a10427d72e5bafd643648638a1fe7e854", null ],
-    [ "ItemLimitedByLimitCategory", "d5/d44/a09077.html#ad6b7e2f6d974b06388d1f30f82d207e8", null ],
-    [ "Result", "d5/d44/a09077.html#ac90552353a0fb8ff175fec99bf573981", null ],
-    [ "Slot", "d5/d44/a09077.html#a3fcb84e08ecdfccaef6bc396c8c4eb2a", null ],
-    [ "Status", "d5/d44/a09077.html#a265172d89cdc4c6fc4df20ad5df45c64", null ],
-    [ "TraderGuid", "d5/d44/a09077.html#afc3926b9ff7dda3eb3505b225b74409d", null ]
+    [ "EquipmentSet", "d5/d44/a09077.html#acd3085c12c795daceae86e94448109e2", null ],
+    [ "Guid", "d5/d44/a09077.html#aae529ea61a2ad4f114b6a108564f5474", null ],
+    [ "IconName", "d5/d44/a09077.html#a40233dfcc23f125ff88693d6c7d7fab5", null ],
+    [ "IgnoreMask", "d5/d44/a09077.html#af116e824d23f000f424f3b261618e827", null ],
+    [ "Items", "d5/d44/a09077.html#a113e6e5883afe38d446a6d435cd34a01", null ],
+    [ "Name", "d5/d44/a09077.html#a2b4691a1b44ae47e7d3c2e63f88d78ba", null ],
+    [ "state", "d5/d44/a09077.html#a7e2270a6041dda26f8bc7f8c82597e7f", null ]
 ];

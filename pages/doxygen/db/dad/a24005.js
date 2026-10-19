@@ -1,7 +1,6 @@
 var a24005 =
 [
-    [ "HandleEffect", "db/dad/a24005.html#ac0fb38f62cc9a41eb70b2ca951f9d1dc", null ],
-    [ "PrepareSpellScript", "db/dad/a24005.html#abbbffa0a53dc2a55df5e7b17a7f4d38f", null ],
-    [ "Register", "db/dad/a24005.html#ac406946bb793125d49006e3a877c9638", null ],
-    [ "SelectTarget", "db/dad/a24005.html#ac36f3d88a0ef8ccaee5bac17bffcaf49", null ]
+    [ "OnApply", "db/dad/a24005.html#a472220f22165c6d21eab5f4b5f75921e", null ],
+    [ "PrepareAuraScript", "db/dad/a24005.html#a12dba24d5aa3d41671980d8dd509d6f2", null ],
+    [ "Register", "db/dad/a24005.html#aa8530071a4053e6c6f8b194a9cc723e2", null ]
 ];

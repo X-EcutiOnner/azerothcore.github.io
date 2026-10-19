@@ -1,6 +1,7 @@
 var a15629 =
 [
-    [ "FilterTargets", "d7/d2a/a15629.html#ac4f353ac54e7a461d5411fd8eae33cc1", null ],
-    [ "PrepareSpellScript", "d7/d2a/a15629.html#a8cb8041b71dd3175b627fe7ec5b2c2f3", null ],
-    [ "Register", "d7/d2a/a15629.html#a07d56d19b95c8d24f6908815e4ceb13f", null ]
+    [ "boss_kurinnaxx", "d7/d2a/a15629.html#aa8b471e6239080b2a5f70e50e07a9621", null ],
+    [ "InitializeAI", "d7/d2a/a15629.html#a0e249007d5bf29eb0cff307045ef9eb3", null ],
+    [ "JustDied", "d7/d2a/a15629.html#adb749c8737888a099ad7a3d58292a612", null ],
+    [ "JustEngagedWith", "d7/d2a/a15629.html#a451cd7ee80b0428a199c33012562bdb3", null ]
 ];

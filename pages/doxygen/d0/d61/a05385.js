@@ -1,11 +1,5 @@
 var a05385 =
 [
-    [ "material", "d0/d61/a05385.html#a29addcb613bc63a100633e612d1dc2d2", null ],
-    [ "pos_x", "d0/d61/a05385.html#a02e9d8789336d77e34bffa19adbab394", null ],
-    [ "pos_y", "d0/d61/a05385.html#ac3162ce321a1f21e4e6fe35041e49a6a", null ],
-    [ "pos_z", "d0/d61/a05385.html#a6e2a2d5d9151d5c6d70fd0d47e6c18e3", null ],
-    [ "xtiles", "d0/d61/a05385.html#a94789843c68d705184e6332ac46bd69d", null ],
-    [ "xverts", "d0/d61/a05385.html#a0548c3fdb216c115a7d3843e4fbc6de3", null ],
-    [ "ytiles", "d0/d61/a05385.html#ac50224cdce231460c78c3e0f077b555d", null ],
-    [ "yverts", "d0/d61/a05385.html#aa9ecb62b53af527b3bd855b8e93ba604", null ]
+    [ "hitModel", "d0/d61/a05385.html#a4d0c56a02fb5f454753a3dba17e9d67b", null ],
+    [ "rootId", "d0/d61/a05385.html#aa855bd49800e7a3b6713d72f0cf629d5", null ]
 ];

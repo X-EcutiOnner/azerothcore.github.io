@@ -1,7 +1,5 @@
 var a20741 =
 [
-    [ "PrepareSpellScript", "d7/d2e/a20741.html#afae92a0d4e41fc2fd00b1fd0b6b11a22", null ],
-    [ "PreventSummon", "d7/d2e/a20741.html#a57fcc7a0e078c344e50863ba1951f244", null ],
-    [ "Register", "d7/d2e/a20741.html#a3813bf7e198f5f3c146b4639fa83a067", null ],
-    [ "SetDest", "d7/d2e/a20741.html#a4d49ebdf1dab3b4952e4f4c7c50ca16b", null ]
+    [ "achievement_kologarn_looks_could_kill", "d7/d2e/a20741.html#a3fcf36dabe41ff35ace233854bd0fb44", null ],
+    [ "OnCheck", "d7/d2e/a20741.html#a0e7be4fb00808fab9a231530822fc93d", null ]
 ];

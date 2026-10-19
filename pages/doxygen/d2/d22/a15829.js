@@ -1,6 +1,5 @@
 var a15829 =
 [
-    [ "aqsentinelAI", "d3/d42/a15833.html", "d3/d42/a15833" ],
-    [ "npc_anubisath_sentinel", "d2/d22/a15829.html#ada1ab0d1857fe52020e798d9710a66cb", null ],
-    [ "GetAI", "d2/d22/a15829.html#ae19b8ba3766ede8f715dad5ff8d4b2d2", null ]
+    [ "at_twin_emperors", "d2/d22/a15829.html#a343d482857fa0a45c42f593e591f7754", null ],
+    [ "_OnTrigger", "d2/d22/a15829.html#a466ba3bbf21b33f064a056eef63291ce", null ]
 ];

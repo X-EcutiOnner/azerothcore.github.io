@@ -1,9 +1,7 @@
 var a15981 =
 [
-    [ "npc_prospector_remtravelAI", "d1/dd9/a15981.html#a61f26115382f16f3d65c3d4e1c720f02", null ],
-    [ "JustEngagedWith", "d1/dd9/a15981.html#adf388d36c17b69f881e3cb92d9b78b9b", null ],
-    [ "JustSummoned", "d1/dd9/a15981.html#a6b3dd1552b5313dd04d07dc80eef06fe", null ],
-    [ "Reset", "d1/dd9/a15981.html#ac145a4a4a24be227c31fcc5aefd922eb", null ],
-    [ "WaypointReached", "d1/dd9/a15981.html#a7b02b22e9dc63e1fad6b15a44b2ff9b6", null ],
-    [ "WaypointReached", "d1/dd9/a15981.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "HandleEffectRemove", "d1/dd9/a15981.html#aa07e0bdaac9cad239bae1b24d16b433c", null ],
+    [ "PrepareAuraScript", "d1/dd9/a15981.html#a8ab8433afb22bbca79e028e8f082da2b", null ],
+    [ "Register", "d1/dd9/a15981.html#a2ee3afd6fdcb0991e419396ed65e6d4a", null ],
+    [ "AuraEffectHandleModes", "d1/dd9/a15981.html#af8a46c99290ce700e765c7ad5e8c866c", null ]
 ];

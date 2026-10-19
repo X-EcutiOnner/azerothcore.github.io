@@ -1,10 +1,6 @@
 var a16693 =
 [
-    [ "spell_halion_marks_aura", "de/d47/a16693.html#a3351eb9a4b497e1d92bd0021c0fa01f8", null ],
-    [ "BeforeDispel", "de/d47/a16693.html#a48fb48567091c8fd9d365ea3ff8730cc", null ],
-    [ "OnRemove", "de/d47/a16693.html#a1c9fefecd33db13e06f267c41e6b0375", null ],
-    [ "PrepareAuraScript", "de/d47/a16693.html#acd5285ea5c378b31526440d263c54770", null ],
-    [ "Register", "de/d47/a16693.html#ac84d4ab83e56314ff15ee363cafd2feb", null ],
-    [ "_removeSpellId", "de/d47/a16693.html#aeef9d928c6a8739337251e144558b169", null ],
-    [ "_summonSpellId", "de/d47/a16693.html#a01e8677e4f55dbb55cca1bf16dec48b2", null ]
+    [ "npc_halion_controllerAI", "d8/d72/a16697.html", "d8/d72/a16697" ],
+    [ "npc_halion_controller", "de/d47/a16693.html#ac88ff15ce4d89d737eb6dd6b649e1218", null ],
+    [ "GetAI", "de/d47/a16693.html#a3c5ea3f0597c070005744ea788a05383", null ]
 ];

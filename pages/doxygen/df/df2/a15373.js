@@ -1,7 +1,9 @@
 var a15373 =
 [
-    [ "npc_cos_chromie_middle", "df/df2/a15373.html#a1bb7229781c122d362e781d2737d0fd3", null ],
-    [ "OnGossipHello", "df/df2/a15373.html#a105b62bd24fe3912c0f66c234a6dc670", null ],
-    [ "OnGossipSelect", "df/df2/a15373.html#a37ebdd257ef22554c81cf3c062856141", null ],
-    [ "OnQuestAccept", "df/df2/a15373.html#ad9e733b4dd69f58d880aebcfe06cbf96", null ]
+    [ "boss_salrammAI", "df/df2/a15373.html#a9ea49d06266cf317d78bc2c1302e9c37", null ],
+    [ "ExplodeGhoul", "df/df2/a15373.html#adc64d8b10b28b98254c528732fff0516", null ],
+    [ "JustDied", "df/df2/a15373.html#a59bc42afcbb0ed2c2629bd0280836194", null ],
+    [ "JustEngagedWith", "df/df2/a15373.html#a8d3287cc74cc9d756a879c4ac796f860", null ],
+    [ "KilledUnit", "df/df2/a15373.html#ad3f4161c0e18c911a931d65e25693cdd", null ],
+    [ "UpdateAI", "df/df2/a15373.html#aa2350dc05884593b1361f9f09b8d9392", null ]
 ];

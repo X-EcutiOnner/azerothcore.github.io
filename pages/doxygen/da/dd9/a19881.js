@@ -1,8 +1,15 @@
 var a19881 =
 [
-    [ "npc_crystal_spike", "da/dd9/a19881.html#aa6a6e12aba63c589e71b5ca28b924fd4", null ],
-    [ "Reset", "da/dd9/a19881.html#a8cdca606ce482147d87ad5248665099e", null ],
-    [ "UpdateAI", "da/dd9/a19881.html#abc04c8fba427c12630b4faf1d39bdb32", null ],
-    [ "_damageTimer", "da/dd9/a19881.html#a36c70729a0c0281d467f870bfcde80ae", null ],
-    [ "_gameObjectGUID", "da/dd9/a19881.html#a0c0e9a1883cee51201b039947b5bacf3", null ]
+    [ "boss_anomalus", "da/dd9/a19881.html#aa4dd8fac7c360beb834382f624ed2246", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "da/dd9/a19881.html#ada0735330bff29a8c04706c980e6bbfc", null ],
+    [ "GetData", "da/dd9/a19881.html#ad48aebb50cda7ee621f71803669f04c2", null ],
+    [ "JustDied", "da/dd9/a19881.html#a41e257481921a122dba30348559e05fb", null ],
+    [ "JustEngagedWith", "da/dd9/a19881.html#a7224e8cf6e849d7115f88c7198fdb023", null ],
+    [ "JustSummoned", "da/dd9/a19881.html#a3c0413f30d96268cab724856334e61ee", null ],
+    [ "Reset", "da/dd9/a19881.html#a80bec5060c1b6747f2b418b90bcc18eb", null ],
+    [ "SetData", "da/dd9/a19881.html#aa79ec9829862b573cd0f38f965d737e8", null ],
+    [ "UpdateAI", "da/dd9/a19881.html#a5d3d77b49e256e09bbb613e810dfc60b", null ],
+    [ "_empowered", "da/dd9/a19881.html#a067c4b5dfb5e68a3d91f043d34ea0929", null ],
+    [ "achievement", "da/dd9/a19881.html#a2db4d6d2d6a19642607560e93ae8bd77", null ],
+    [ "activeRifts", "da/dd9/a19881.html#ac7632bd47c4d64ac032fd066138f22cf", null ]
 ];

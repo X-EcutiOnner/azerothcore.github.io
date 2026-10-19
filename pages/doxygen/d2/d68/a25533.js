@@ -1,5 +1,7 @@
 var a25533 =
 [
-    [ "PrepareSpellScript", "d2/d68/a25533.html#a096abf53c6e622875c463060e986b5ef", null ],
-    [ "Register", "d2/d68/a25533.html#a68905cc33f09dbb42db67139193530cb", null ]
+    [ "HandleEffectApply", "d2/d68/a25533.html#abf780eeca61aef7e44617aa0ed2ff8b8", null ],
+    [ "OnRemove", "d2/d68/a25533.html#af2cfa66cd7dbc7c671efa06c497cc03e", null ],
+    [ "PrepareAuraScript", "d2/d68/a25533.html#ab6c5d1fd94c763126ef77f9efd4a7116", null ],
+    [ "Register", "d2/d68/a25533.html#a473189971d0a03e7305b7b9e41dc5207", null ]
 ];

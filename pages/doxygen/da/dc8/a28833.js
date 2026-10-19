@@ -1,7 +1,9 @@
 var a28833 =
 [
-    [ "HandleDummy", "da/dc8/a28833.html#ade9ff4db63fecf726776f6e4b36bb437", null ],
-    [ "PrepareSpellScript", "da/dc8/a28833.html#a0375b541f2a90e337fee61ced6d8f3ec", null ],
-    [ "Register", "da/dc8/a28833.html#a66c530b497e4952b457bbfa50a036c07", null ],
-    [ "Validate", "da/dc8/a28833.html#a968333dcfe0553ad73879f3042db5511", null ]
+    [ "npc_herald_of_the_lich_king", "da/dc8/a28833.html#a62e373796ce4e6509692e6837cdb561f", null ],
+    [ "ChangeZoneEventStatus", "da/dc8/a28833.html#a30c44f2f62badd27b105a55527d40670", null ],
+    [ "DoAction", "da/dc8/a28833.html#a0ae389e7c2b5d380cb58df1cb9453f94", null ],
+    [ "InitializeAI", "da/dc8/a28833.html#a17e1ad9a9107a71697cd9816e5694e40", null ],
+    [ "UpdateAI", "da/dc8/a28833.html#a21a5093a46959f4b69777b63de12c557", null ],
+    [ "UpdateWeather", "da/dc8/a28833.html#a3c6d076171596c9ce472cddda18a42be", null ]
 ];

@@ -1,7 +1,6 @@
 var a16945 =
 [
-    [ "HandleEffectPeriodic", "d7/d0c/a16945.html#a58336f6a693d91b4fcb151b7eb5c1201", null ],
-    [ "PrepareAuraScript", "d7/d0c/a16945.html#a6dffb84e2c65f030e24a86e23f42c7e3", null ],
-    [ "Register", "d7/d0c/a16945.html#ad3485b1ab83d4a49713dfd3335b672fd", null ],
-    [ "Validate", "d7/d0c/a16945.html#a5f3c8e5ddcdcefc4e335e604416890d5", null ]
+    [ "npc_swarm_scarabAI", "da/d1a/a16949.html", "da/d1a/a16949" ],
+    [ "npc_swarm_scarab", "d7/d0c/a16945.html#a1d0969526e57ca50c9a499c83f978fd2", null ],
+    [ "GetAI", "d7/d0c/a16945.html#ae12fe8a7c6ee09fc16bd152f59c2d936", null ]
 ];

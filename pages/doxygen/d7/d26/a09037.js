@@ -1,7 +1,8 @@
 var a09037 =
 [
-    [ "SetRuneState", "d7/d26/a09037.html#a920d32d04ec7e872680a89b0c0a9b0ef", null ],
-    [ "lastUsedRune", "d7/d26/a09037.html#a88c702716eb3032c20ae5ed74922d923", null ],
-    [ "runes", "d7/d26/a09037.html#aac485530bfa81d54d9da3213fe917c29", null ],
-    [ "runeState", "d7/d26/a09037.html#ae58297e0766578b234604a97641501a1", null ]
+    [ "PlayerCreateInfoAction", "d7/d26/a09037.html#a50d56595c71374e132dfe9f988144e75", null ],
+    [ "PlayerCreateInfoAction", "d7/d26/a09037.html#a1e1d33b18074031e408da10f44a9a9c4", null ],
+    [ "action", "d7/d26/a09037.html#a957d05ae25fd1ca801e097f03f9cc43e", null ],
+    [ "button", "d7/d26/a09037.html#ac0c4658cfb1fc01cbb55116dd6dbe899", null ],
+    [ "type", "d7/d26/a09037.html#a41e4a38f2c12f9e68b835fe17e56bc7e", null ]
 ];

@@ -1,6 +1,14 @@
 var a15617 =
 [
-    [ "go_ossirian_crystalAI", "d9/dd4/a15621.html", "d9/dd4/a15621" ],
-    [ "go_ossirian_crystal", "dc/d5a/a15617.html#a783f0f0570ee0f667920e29613b565b2", null ],
-    [ "GetAI", "dc/d5a/a15617.html#a2f7b12eddc6504917614913e347ec0a0", null ]
+    [ "boss_buru", "dc/d5a/a15617.html#a586dfec9d3b0cb9497e616afb1c0b86d", null ],
+    [ "ChaseNewVictim", "dc/d5a/a15617.html#a177ec0ac9dcfbd9de51088bf50c5785c", null ],
+    [ "DamageTaken", "dc/d5a/a15617.html#a5ec0141994aac2b8e1fdce12b30c13b0", null ],
+    [ "EnterEvadeMode", "dc/d5a/a15617.html#aa534cca1e46299e8db917cc8aa5d5b51", null ],
+    [ "JustDied", "dc/d5a/a15617.html#a6d8f3265dca889bc49e747471da8597f", null ],
+    [ "JustEngagedWith", "dc/d5a/a15617.html#a61eeeb3eb1684943e94367a9318b3035", null ],
+    [ "KilledUnit", "dc/d5a/a15617.html#a7c780a29ea9f7b3d2f72eaa11bf7e19c", null ],
+    [ "ManipulateEggs", "dc/d5a/a15617.html#a4f8a92eab729c975443579560edb03a3", null ],
+    [ "SpellHit", "dc/d5a/a15617.html#ac3bc641c6bb67e585541c4e5d93dd7fa", null ],
+    [ "UpdateAI", "dc/d5a/a15617.html#af65d0026b2ea78edb6d48e3c48b6b37b", null ],
+    [ "_phase", "dc/d5a/a15617.html#aa395967af50f2a422bf1e81a087efc43", null ]
 ];

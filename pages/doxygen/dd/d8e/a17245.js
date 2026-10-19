@@ -1,7 +1,6 @@
 var a17245 =
 [
-    [ "HandleScriptEffect", "dd/d8e/a17245.html#a51064b3a11f453724ae0879c80eaf8df", null ],
-    [ "PrepareSpellScript", "dd/d8e/a17245.html#aac26002ff107e609fb7258306b430f1b", null ],
-    [ "Register", "dd/d8e/a17245.html#a0efef7644706940e3929ce99cd162c91", null ],
-    [ "Validate", "dd/d8e/a17245.html#a7110d4136337d44aa0300ec82e5a6511", null ]
+    [ "HandleEffectPeriodic", "dd/d8e/a17245.html#a8775f4e2cb6be96f57596413d560206c", null ],
+    [ "PrepareAuraScript", "dd/d8e/a17245.html#a45118f9887d248a5eb840b945dee5b79", null ],
+    [ "Register", "dd/d8e/a17245.html#ad1b2b8e1dca62c31ec2b071ae4ca2f35", null ]
 ];

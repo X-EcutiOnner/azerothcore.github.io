@@ -1,24 +1,6 @@
 var a04385 =
 [
-    [ "HolidayRule", "da/d9f/a09319.html", "da/d9f/a09319" ],
-    [ "HolidayDateCalculator", "d6/d31/a09323.html", "d6/d31/a09323" ],
-    [ "HolidayCalculationType", "de/d09/a04385.html#a5ecfaf291957bc268c8975a08797a5cb", [
-      [ "FIXED_DATE", "de/d09/a04385.html#a5ecfaf291957bc268c8975a08797a5cbac2f1d03fc1ea7f97ce600804f08e4387", null ],
-      [ "NTH_WEEKDAY", "de/d09/a04385.html#a5ecfaf291957bc268c8975a08797a5cba64e96cdced43819307b413690eea15f1", null ],
-      [ "EASTER_OFFSET", "de/d09/a04385.html#a5ecfaf291957bc268c8975a08797a5cbacd2633cacbd26593f1bee00669e7d19e", null ],
-      [ "LUNAR_NEW_YEAR", "de/d09/a04385.html#a5ecfaf291957bc268c8975a08797a5cbafd92595c4d49b81e4639056460d15ba5", null ],
-      [ "WEEKDAY_ON_OR_AFTER", "de/d09/a04385.html#a5ecfaf291957bc268c8975a08797a5cba94830ad690c0fa44fa8625efd71c66e4", null ],
-      [ "AUTUMN_EQUINOX", "de/d09/a04385.html#a5ecfaf291957bc268c8975a08797a5cba518200d671a574bbbc71b408d64f95ca", null ],
-      [ "WINTER_SOLSTICE", "de/d09/a04385.html#a5ecfaf291957bc268c8975a08797a5cbaf69c202170bfdb27a6beefa060b8bb06", null ],
-      [ "DARKMOON_FAIRE", "de/d09/a04385.html#a5ecfaf291957bc268c8975a08797a5cba947b7c3be0b3967f88c881172df9c6c6", null ]
-    ] ],
-    [ "Weekday", "de/d09/a04385.html#aec3d5ec6653b2c392d449500b8f5cb3a", [
-      [ "SUNDAY", "de/d09/a04385.html#aec3d5ec6653b2c392d449500b8f5cb3aa95fa12cb2100ce7081b71f7c44bc12a5", null ],
-      [ "MONDAY", "de/d09/a04385.html#aec3d5ec6653b2c392d449500b8f5cb3aa98617021b249af0ace0f84ee92ccc7cd", null ],
-      [ "TUESDAY", "de/d09/a04385.html#aec3d5ec6653b2c392d449500b8f5cb3aa5f5140afce13197a89e848004f292f14", null ],
-      [ "WEDNESDAY", "de/d09/a04385.html#aec3d5ec6653b2c392d449500b8f5cb3aaaaebdc947e9f7d4ea362e5dc4fe7f825", null ],
-      [ "THURSDAY", "de/d09/a04385.html#aec3d5ec6653b2c392d449500b8f5cb3aa7a61b324afb4dd8b2fb4a38afc34f755", null ],
-      [ "FRIDAY", "de/d09/a04385.html#aec3d5ec6653b2c392d449500b8f5cb3aa86fb6d343289267f3e9edb9b7403d936", null ],
-      [ "SATURDAY", "de/d09/a04385.html#aec3d5ec6653b2c392d449500b8f5cb3aafd5ae113ac00b67f69541bc8c7f21ef7", null ]
-    ] ]
+    [ "GameEventAIHookWorker", "db/d78/a09305.html", "db/d78/a09305" ],
+    [ "IsEventActive", "de/d09/a04385.html#ad54f33b2e05154d9c2a384ff579b9208", null ],
+    [ "IsHolidayActive", "de/d09/a04385.html#a429db26781d2673aa2f031fc1327ffaf", null ]
 ];

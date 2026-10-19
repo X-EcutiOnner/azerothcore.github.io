@@ -1,10 +1,6 @@
 var a06085 =
 [
-    [ "BasicStatementTask", "de/d5c/a06085.html#a11c6f1259d1d6d9c50211784636e45c4", null ],
-    [ "~BasicStatementTask", "de/d5c/a06085.html#a0db608b5bae77e5f83b0e1bf5850719f", null ],
-    [ "Execute", "de/d5c/a06085.html#a7f500736cc0ec4cddf94510927989d4d", null ],
-    [ "GetFuture", "de/d5c/a06085.html#aa574f8cc00ac956d23f93c7e96864fc9", null ],
-    [ "m_has_result", "de/d5c/a06085.html#a8bfae5e5695a6bf6bf796d95efa21e7e", null ],
-    [ "m_result", "de/d5c/a06085.html#af70bc95cbf0df481dacf034ff78d2eb8", null ],
-    [ "m_sql", "de/d5c/a06085.html#a9320235413d1c4736301070e1faeb161", null ]
+    [ "handler", "de/d5c/a06085.html#a8074991652af9e5c8752dd4ff5e6e6cc", null ],
+    [ "packetSize", "de/d5c/a06085.html#a952f7f7ff3017efa4c3d127baa848785", null ],
+    [ "status", "de/d5c/a06085.html#aaf1066ba6414c519c889e3e8e52d38f2", null ]
 ];

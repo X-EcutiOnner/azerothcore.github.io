@@ -1,7 +1,6 @@
 var a13597 =
 [
-    [ "HandleScript", "d6/deb/a13597.html#a6ce169d6c1b106195f787b52ea433311", null ],
-    [ "PrepareSpellScript", "d6/deb/a13597.html#a4f71583df2193274365944e6d228247c", null ],
-    [ "Register", "d6/deb/a13597.html#aad8978dc0505d1fb80e2416f5525cbc7", null ],
-    [ "Validate", "d6/deb/a13597.html#a51025308f88001f1f66d7f68f174f325", null ]
+    [ "HandleDummy", "d6/deb/a13597.html#a30b184682d9d7e5cd992b033bf089589", null ],
+    [ "PrepareSpellScript", "d6/deb/a13597.html#a4499d38e1bb64a76ada4d47ae5aa72a9", null ],
+    [ "Register", "d6/deb/a13597.html#a8c30b2d7ad63280b3d0721c5ded43609", null ]
 ];

@@ -1,13 +1,8 @@
 var a09245 =
 [
-    [ "BuildValuesCachePosPointers", "d7/df6/a09245.html#ae84124e042e8ba50d755ccef3c02fdd8", null ],
-    [ "ApplyOffset", "d7/df6/a09245.html#a31a13ea07b3eb9e3d045996e8a6074b2", null ],
-    [ "other", "d7/df6/a09245.html#ad56ddc5f2d7ea4937b49a61d80b8b138", null ],
-    [ "UnitDynamicFlagsPos", "d7/df6/a09245.html#a230385a8646ebce01faaadce648b1a61", null ],
-    [ "UnitFieldAuraStatePos", "d7/df6/a09245.html#a69592cf42c5f6663c8ada3468fcbe658", null ],
-    [ "UnitFieldBytes2Pos", "d7/df6/a09245.html#aa1df8492f0a3c576b067469ee3552796", null ],
-    [ "UnitFieldDisplayPos", "d7/df6/a09245.html#a1058d1650d656498f7dcd5139363a315", null ],
-    [ "UnitFieldFactionTemplatePos", "d7/df6/a09245.html#a9b8eae9da685231956dca3e92b845cbb", null ],
-    [ "UnitFieldFlagsPos", "d7/df6/a09245.html#a04e607123d1d1dde24611b573d25fedb", null ],
-    [ "UnitNPCFlagsPos", "d7/df6/a09245.html#aa9412413e1a867d1f3857d18f4d52906", null ]
+    [ "PowerPctOrderPred", "d7/df6/a09245.html#a4e765952cfbc1c83413a8f1c148b1fe4", null ],
+    [ "operator()", "d7/df6/a09245.html#a215b641a9364c7fcb82778c98f214271", null ],
+    [ "operator()", "d7/df6/a09245.html#a42cec64c5eaf01f8b6b7e334f57b1d4a", null ],
+    [ "_ascending", "d7/df6/a09245.html#aed7be288f876fdd35c1cdba53626b03c", null ],
+    [ "_power", "d7/df6/a09245.html#ad3d61a7c5c84d91bc26c99e778105b7c", null ]
 ];

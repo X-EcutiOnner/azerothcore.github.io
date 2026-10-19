@@ -1,10 +1,8 @@
 var a21693 =
 [
-    [ "npc_jenny", "da/df7/a21693.html#ab845ba4551900a03c5a995d348a1be55", null ],
-    [ "DamageTaken", "da/df7/a21693.html#a8700091c82bfff473f3d5563deb69e0b", null ],
-    [ "Initialize", "da/df7/a21693.html#aab8c540ebb90ebbaef961b1feb3013a3", null ],
-    [ "MoveInLineOfSight", "da/df7/a21693.html#acd0939cee3ecb9d961d09815d9c50f71", null ],
-    [ "UpdateFollowerAI", "da/df7/a21693.html#afbd142855602bcf7a8cd8e4cc4760cf0", null ],
-    [ "_events", "da/df7/a21693.html#aa98caf8b706551470c943b4b722a85ae", null ],
-    [ "_fezzix", "da/df7/a21693.html#ac2115c122c2eac2d5a36d1795d1e6bf0", null ]
+    [ "npc_azure_sorceror", "da/df7/a21693.html#afd53ae322f8387b5e5fe55e28612ce2f", null ],
+    [ "Reset", "da/df7/a21693.html#af4bc0ff9b938302c399bff528dd06769", null ],
+    [ "UpdateAI", "da/df7/a21693.html#a36675e89aab24a92589a33f88fbec2bd", null ],
+    [ "_arcaneStreamOnCooldown", "da/df7/a21693.html#a462d57b8e8cd01a9ec1bd59a453f6ab5", null ],
+    [ "_events", "da/df7/a21693.html#a3bd018057b31c90afd19ac6943d44591", null ]
 ];

@@ -1,8 +1,6 @@
 var a28285 =
 [
-    [ "FilterTargets", "d5/d8e/a28285.html#a53c6d73f3588e50c2be7ce68595a704c", null ],
-    [ "HandleEffect", "d5/d8e/a28285.html#a2edac19abf8aa765ada369e00cd7ea69", null ],
-    [ "PrepareSpellScript", "d5/d8e/a28285.html#ae1e1ff5456cb7c558ff4fe415de6a691", null ],
-    [ "Register", "d5/d8e/a28285.html#acb4d6abeb0e293728ae3dd0d248e0844", null ],
-    [ "Validate", "d5/d8e/a28285.html#aabc063155fad404ffd044c9f79b88051", null ]
+    [ "boss_ysondreAI", "da/d7c/a28289.html", "da/d7c/a28289" ],
+    [ "boss_ysondre", "d5/d8e/a28285.html#ad12dbb728f4f0cdf2f4c0ba9cd2a167d", null ],
+    [ "GetAI", "d5/d8e/a28285.html#a0da215d7bc8ee86216887e682b9335c3", null ]
 ];

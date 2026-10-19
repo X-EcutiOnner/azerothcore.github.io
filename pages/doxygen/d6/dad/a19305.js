@@ -1,6 +1,7 @@
 var a19305 =
 [
-    [ "HandleScript", "d6/dad/a19305.html#a33f15ecf0c0ff013d03742cb2130f372", null ],
-    [ "PrepareSpellScript", "d6/dad/a19305.html#ab3a832cf53f4438db0d9e58b89c0ef7f", null ],
-    [ "Register", "d6/dad/a19305.html#ad0c6d34103244cded41481c745dafe58", null ]
+    [ "HandleQuestComplete", "d6/dad/a19305.html#a5f1e6c4358df4e0910b2227f90b39d24", null ],
+    [ "HandleScript", "d6/dad/a19305.html#a309052e9b7c3d3747d15ab5e9c0d25fd", null ],
+    [ "PrepareSpellScript", "d6/dad/a19305.html#ac9b2786ba2dbb8d1c74af05153bb0a6f", null ],
+    [ "Register", "d6/dad/a19305.html#a3258d4517cfc758080691bab429624d7", null ]
 ];

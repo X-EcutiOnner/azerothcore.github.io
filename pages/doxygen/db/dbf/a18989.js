@@ -1,7 +1,7 @@
 var a18989 =
 [
-    [ "npc_valithria_portalAI", "db/dbf/a18989.html#a18c1b9d2b149fbc34a17c9e87a8c70b6", null ],
-    [ "GetData", "db/dbf/a18989.html#a598ba7930900aa211bb7e7dc12f366c0", null ],
-    [ "OnSpellClick", "db/dbf/a18989.html#a457f2725e6580d7e6f3bb0445ba796a8", null ],
-    [ "_used", "db/dbf/a18989.html#a92cc0c2aaa6add0c6c641719d6846bb3", null ]
+    [ "ValithriaDespawner", "db/dbf/a18989.html#adf6f71ad9b97489f1e35781e491b28d8", null ],
+    [ "Execute", "db/dbf/a18989.html#a4f8c63f52996da14078a7196cae3a00d", null ],
+    [ "operator()", "db/dbf/a18989.html#a05bae39d642f294f2ef98151d66ba382", null ],
+    [ "_creature", "db/dbf/a18989.html#a64bf6181ad867efd987edec141ca3bf0", null ]
 ];

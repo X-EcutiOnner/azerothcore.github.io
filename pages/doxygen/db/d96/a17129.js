@@ -1,6 +1,8 @@
 var a17129 =
 [
-    [ "boss_gormokAI", "d5/db5/a17133.html", "d5/db5/a17133" ],
-    [ "boss_gormok", "db/d96/a17129.html#a86ce0681be4370198c44dde5aa98a593", null ],
-    [ "GetAI", "db/d96/a17129.html#a45cff2e7ee0525de37382cf09b116a32", null ]
+    [ "npc_fel_infernal", "db/d96/a17129.html#a4d8f956193efd148948b48892fb47240", null ],
+    [ "EnterEvadeMode", "db/d96/a17129.html#a3a8ed8a9636f1002de3ef896575e033d", null ],
+    [ "JustDied", "db/d96/a17129.html#ac4dbf210111940e8e88b4112252d1a61", null ],
+    [ "Reset", "db/d96/a17129.html#a5618a5a696352d802bc1ec200768bd4f", null ],
+    [ "UpdateAI", "db/d96/a17129.html#a06f75ff314cd55b307f5c00a6254b409", null ]
 ];

@@ -1,6 +1,5 @@
 var a29885 =
 [
-    [ "SetUp", "db/d8f/a29885.html#ac4e6ae8a500400a1e133c1630f064e3b", null ],
-    [ "TearDown", "db/d8f/a29885.html#aa3c2026d7506be72d67c6d583751c550", null ],
-    [ "rbacData", "db/d8f/a29885.html#a4318e5c5d8137feb011a25c2d4a3c28a", null ]
+    [ "SetUp", "db/d8f/a29885.html#a93dbc1c1155d8e324f9020a62fffdee0", null ],
+    [ "permission", "db/d8f/a29885.html#ab69437451437743e0e5078ea2123846b", null ]
 ];

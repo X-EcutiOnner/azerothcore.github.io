@@ -1,20 +1,12 @@
 var a23701 =
 [
-    [ "instance_blood_furnace_InstanceMapScript", "da/df7/a23701.html#adb0173cb42642836f7734d8b0fb3e98f", null ],
-    [ "ActivateCell", "da/df7/a23701.html#abd718216778850455c758d79a5866958", null ],
-    [ "ActivatePrisoners", "da/df7/a23701.html#a18488afb78747a35ce7e3b4b9a2468b5", null ],
-    [ "GetGuidData", "da/df7/a23701.html#af7f6acc97bf16f4d31236dcbb2d94007", null ],
-    [ "Initialize", "da/df7/a23701.html#a3441a24486ec686d42b7320e6f105139", null ],
-    [ "OnCreatureCreate", "da/df7/a23701.html#ac58da5acec155e596791464c48f29773", null ],
-    [ "OnGameObjectCreate", "da/df7/a23701.html#a3894ce1d0dff79cee2ff0df51d19e1ea", null ],
-    [ "OnUnitDeath", "da/df7/a23701.html#a78b07bfe30c7f329046ff572f783c4b9", null ],
-    [ "PrisonerDied", "da/df7/a23701.html#a16315f7921b1960c7720f855cdddee96", null ],
-    [ "ResetPrisoner", "da/df7/a23701.html#a57f58c502b5fb2064307adb8c4976979", null ],
-    [ "ResetPrisoners", "da/df7/a23701.html#ac46b0ed98e69ac0d5b8582bb21a81dc8", null ],
-    [ "ResetPrisons", "da/df7/a23701.html#a728bbc185bb91cf024f8ff3bd878a10e", null ],
-    [ "SetBossState", "da/df7/a23701.html#aad428e00762795d8f817d6cfa25505fe", null ],
-    [ "StorePrisoner", "da/df7/a23701.html#ade72b3e7a2129b8a4f722990aef5ac5f", null ],
-    [ "_prisonerCounter", "da/df7/a23701.html#a50c371edc425191f610a0e8a6b44d2ab", null ],
-    [ "_prisonersCell", "da/df7/a23701.html#a3492a327f4c0d637fd5701f3997c1887", null ],
-    [ "_prisonGUIDs", "da/df7/a23701.html#a9a737e495b638ec65fbd306c6aa0267c", null ]
+    [ "boss_olm_the_summoner", "da/df7/a23701.html#aa8fe3804d4e2a1a1150975f5e9832ce6", null ],
+    [ "JustDied", "da/df7/a23701.html#a07cde4fc7bc882db40b51426dc40ab93", null ],
+    [ "JustEngagedWith", "da/df7/a23701.html#a68db779bb7ffffa7621caedd7f52d93f", null ],
+    [ "JustSummoned", "da/df7/a23701.html#a546bede780b7d67b98ec251ae2e1b812", null ],
+    [ "Reset", "da/df7/a23701.html#a8dcdc816276a1932612d554cff703a45", null ],
+    [ "UpdateAI", "da/df7/a23701.html#a967f330966fdb29f26ab24e8f40d2152", null ],
+    [ "_scheduler", "da/df7/a23701.html#a448ba3a88156e80eebad44585791ab21", null ],
+    [ "instance", "da/df7/a23701.html#a8caabc31bb7a8548eb936c34c655df68", null ],
+    [ "summons", "da/df7/a23701.html#ae9187928c74fa1cfafaea4df25a55e41", null ]
 ];

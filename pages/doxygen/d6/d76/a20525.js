@@ -1,7 +1,18 @@
 var a20525 =
 [
-    [ "npc_ulduar_icicle", "d6/d76/a20525.html#ac5f024031a70b4ca04ecc0a96fcbdcae", null ],
-    [ "UpdateAI", "d6/d76/a20525.html#a0a46c8ee0c4bb8932406fe8170a54310", null ],
-    [ "timer1", "d6/d76/a20525.html#ae277d302131abd17cef018872b12da06", null ],
-    [ "timer2", "d6/d76/a20525.html#a9a098b0a31fcbc029fc7ae6823ea99a4", null ]
+    [ "boss_vezax", "d6/d76/a20525.html#a8e9210793b5b00d81bf5f1a3eb214f29", null ],
+    [ "DoAction", "d6/d76/a20525.html#ac7c14cfbae5d031615e7f62ded2045c1", null ],
+    [ "GetData", "d6/d76/a20525.html#addfa8398f2a1c21b7ed44547fa6e2899", null ],
+    [ "JustDied", "d6/d76/a20525.html#a1ce855485a7edaace620956cb620ed39", null ],
+    [ "JustEngagedWith", "d6/d76/a20525.html#ac22557ea0f60a04d51f016cc09d99417", null ],
+    [ "JustReachedHome", "d6/d76/a20525.html#ad57dabcfafbd2a10b1dbb39751600bb9", null ],
+    [ "KilledUnit", "d6/d76/a20525.html#ab339f12be1e9da262f6243cfe22908c2", null ],
+    [ "MoveInLineOfSight", "d6/d76/a20525.html#a79c3312d27ef44cf3aa2fb4b94e0ee0a", null ],
+    [ "Reset", "d6/d76/a20525.html#a44ceea000e547d0e56994e9075a09a52", null ],
+    [ "SpellHitTarget", "d6/d76/a20525.html#ab9288041d27b2cf2bf352085ba13ace1", null ],
+    [ "UpdateAI", "d6/d76/a20525.html#a88331ae2f7cc9625aaf36836abf244f0", null ],
+    [ "bAchievShadowdodger", "d6/d76/a20525.html#a7462985f6bd9daeec15d639fc076bbf9", null ],
+    [ "berserk", "d6/d76/a20525.html#adc5e49598b2a9c463a91da0d50dbe3dc", null ],
+    [ "hardmodeAvailable", "d6/d76/a20525.html#ae43a0164f3ac1876b6e6cd5f6f241ffb", null ],
+    [ "vaporsCount", "d6/d76/a20525.html#a6f7205d1c455cc3344025e28d4eb8ed6", null ]
 ];

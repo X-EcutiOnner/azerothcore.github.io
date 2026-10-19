@@ -1,10 +1,8 @@
 var a14185 =
 [
-    [ "npc_tyrion_spybotAI", "de/d40/a14185.html#aedad685279012266637d29069ead9063", null ],
-    [ "Reset", "de/d40/a14185.html#a16f8f9fd368832aac7906c3fd8cb9698", null ],
-    [ "UpdateAI", "de/d40/a14185.html#ad8fc713bb9673e74bfd11bc653c71587", null ],
-    [ "WaypointReached", "de/d40/a14185.html#a819e987eeb8eb8d580a5ad22001a641d", null ],
-    [ "WaypointReached", "de/d40/a14185.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "uiPhase", "de/d40/a14185.html#af5dbb99fe18d96665efd04bd53294636", null ],
-    [ "uiTimer", "de/d40/a14185.html#ab41fdff3612b29e7d0d94fb6aaa8c085", null ]
+    [ "npc_deathstalker_erlandAI", "de/d40/a14185.html#aa3c6822db09bc40dc87d556f6b3cc880", null ],
+    [ "JustEngagedWith", "de/d40/a14185.html#ae4789c26cbb00b4ac04d646617a48a40", null ],
+    [ "Reset", "de/d40/a14185.html#a3def0a0dd57ed732242a09d6390ab1f0", null ],
+    [ "WaypointReached", "de/d40/a14185.html#af200e269d3f4b51bb5cfd08e9bf7ecc5", null ],
+    [ "WaypointReached", "de/d40/a14185.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

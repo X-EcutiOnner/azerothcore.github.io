@@ -1,7 +1,7 @@
 var a18729 =
 [
-    [ "HandleScript", "d5/dea/a18729.html#aef02c7f9ee2a5dda9f6b18d8aa386759", null ],
-    [ "PrepareSpellScript", "d5/dea/a18729.html#acbfd8657da20f2e91a9ef43cab7c4113", null ],
-    [ "Register", "d5/dea/a18729.html#ad83d563da98ad189f2198a061b1cd50f", null ],
-    [ "Validate", "d5/dea/a18729.html#a8f371bdbc57624c295efb14e2ca067c5", null ]
+    [ "TriggerWickedSpirit", "d5/dea/a18729.html#ace62bc037a2bd8ca9c9c56202eb811e7", null ],
+    [ "Execute", "d5/dea/a18729.html#a7c8f1b5c33fac4d6a7cd89e3e71aa36d", null ],
+    [ "_counter", "d5/dea/a18729.html#a24b85a62208f881418f97b0a8cb10f27", null ],
+    [ "_owner", "d5/dea/a18729.html#ab460675158bfedd7f17a4b8e1cc06b3c", null ]
 ];

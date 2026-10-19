@@ -1,5 +1,6 @@
 var a20881 =
 [
-    [ "achievement_quick_shave", "d8/d77/a20881.html#a6c2f1e60d2311922abbaf7e22e1e9e4b", null ],
-    [ "OnCheck", "d8/d77/a20881.html#a151c479da3d4cec05999ad8a249b100c", null ]
+    [ "npc_razorscale_devouring_flame", "d8/d77/a20881.html#a86c3d4cdf0d9757612264f62fd9e283e", null ],
+    [ "EnterEvadeMode", "d8/d77/a20881.html#a7d32fe90b53b3d681627d84bf3825bc2", null ],
+    [ "Reset", "d8/d77/a20881.html#adb6acc83d528f71a69e854e46b2405c3", null ]
 ];

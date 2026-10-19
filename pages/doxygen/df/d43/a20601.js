@@ -1,5 +1,7 @@
 var a20601 =
 [
-    [ "achievement_cheese_the_freeze", "df/d43/a20601.html#a5ec4c344a0ed203086be2661e4e24f0e", null ],
-    [ "OnCheck", "df/d43/a20601.html#aaf3342fb3153a4d9223d880c0f2a277a", null ]
+    [ "HandleEffectPeriodic", "df/d43/a20601.html#acddafc5100d667e8fcc034815204f8ce", null ],
+    [ "PrepareAuraScript", "df/d43/a20601.html#aeee4eeb0d55d084630bf850c0af165a9", null ],
+    [ "Register", "df/d43/a20601.html#acc96d2a38e4da19e6cd6c72037a24202", null ],
+    [ "Validate", "df/d43/a20601.html#acacf8df2d00899bed640c1be0d4287f2", null ]
 ];

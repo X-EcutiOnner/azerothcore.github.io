@@ -1,6 +1,9 @@
 var a24317 =
 [
-    [ "npc_mature_netherwing_drakeAI", "d0/d3e/a24321.html", "d0/d3e/a24321" ],
-    [ "npc_mature_netherwing_drake", "d8/db4/a24317.html#a3369bd143ff9e46a4ad4c44b6d8c0ec5", null ],
-    [ "GetAI", "d8/db4/a24317.html#ac5a1dad24920396156f22ab02bfab84b", null ]
+    [ "npc_bessyAI", "d8/db4/a24317.html#ad1300a563888b34689bedf97c387707c", null ],
+    [ "JustDied", "d8/db4/a24317.html#af98e9235b2432b619e4cc01c0c1111ef", null ],
+    [ "JustSummoned", "d8/db4/a24317.html#a4197fb122299fd152e5da335bb832ae5", null ],
+    [ "Reset", "d8/db4/a24317.html#aed64386629e52c3b65abadde54a63cc4", null ],
+    [ "WaypointReached", "d8/db4/a24317.html#a4611a8f41f66a1a846fb42ba1d4062c8", null ],
+    [ "WaypointReached", "d8/db4/a24317.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

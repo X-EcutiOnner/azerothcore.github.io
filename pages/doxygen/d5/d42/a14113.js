@@ -1,6 +1,9 @@
 var a14113 =
 [
-    [ "npc_bh_thalorien_dawnseekerAI", "d2/d6c/a14117.html", "d2/d6c/a14117" ],
-    [ "npc_bh_thalorien_dawnseeker", "d5/d42/a14113.html#a1fbee838cbbf1ada476f3dd7a82fc6e6", null ],
-    [ "GetAI", "d5/d42/a14113.html#ac5d551d5d4d05ee1006d074908599a3a", null ]
+    [ "npc_partygoer", "d5/d42/a14113.html#af053caedfd1fa8173b875f521d279418", null ],
+    [ "Initialize", "d5/d42/a14113.html#a9012ff95e5cead3c02f9eeb30f29a9f6", null ],
+    [ "Reset", "d5/d42/a14113.html#ad1936099ec5696a2a593e5041b0360c6", null ],
+    [ "UpdateAI", "d5/d42/a14113.html#a423df8a3de7d23221ea4d62a0c65fefc", null ],
+    [ "_events", "d5/d42/a14113.html#ad5095ee005ecb89ca54b0663d41e20ac", null ],
+    [ "_facing", "d5/d42/a14113.html#a9e934091894987ec091b03090bf733e5", null ]
 ];

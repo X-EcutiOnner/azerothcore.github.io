@@ -1,6 +1,5 @@
 var a03770 =
 [
-    [ "MAX_QUIET_DISTANCE", "d2/d33/a03770.html#a9738c927d0a0b9da431824ab69a5988a", null ],
-    [ "MIN_PATH_LENGTH", "d2/d33/a03770.html#aa1f2b73706ddb69d07dbdc87257f010f", null ],
-    [ "MIN_QUIET_DISTANCE", "d2/d33/a03770.html#ad1ba65a06a9ac4ab2293efde8be35403", null ]
+    [ "ConfusedMovementGenerator< T >", "db/d56/a10489.html", "db/d56/a10489" ],
+    [ "MAX_CONF_WAYPOINTS", "d2/d33/a03770.html#ad4f7a217e114623ec80b1743f39ed3ea", null ]
 ];

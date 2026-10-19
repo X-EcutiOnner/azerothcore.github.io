@@ -1,18 +1,7 @@
 var a23313 =
 [
-    [ "boss_lady_vashj", "da/dbf/a23313.html#a3934fc6c6363f7c2ee235a58a262135f", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "da/dbf/a23313.html#ad424f1c23cc893e7e48c3e854bf20936", null ],
-    [ "JustDied", "da/dbf/a23313.html#a8f0074b650b6e0a245726ebdeb8651b6", null ],
-    [ "JustEngagedWith", "da/dbf/a23313.html#a2b3b3a3bacd8042eb64a49cc9ca8847f", null ],
-    [ "JustSummoned", "da/dbf/a23313.html#ac577c4f0d0c3e9d1635a1ca9a0954095", null ],
-    [ "KilledUnit", "da/dbf/a23313.html#a0418ead0213eeea16a531baca96db704", null ],
-    [ "MoveInLineOfSight", "da/dbf/a23313.html#a4780e7cbcb7984c5742a5c072acfe252", null ],
-    [ "MovementInform", "da/dbf/a23313.html#ad2d58872d657b3a81c6be0e69d8bff1f", null ],
-    [ "Reset", "da/dbf/a23313.html#a114729e5a3caa70c89d8c8b53eba5af3", null ],
-    [ "ScheduleSpells", "da/dbf/a23313.html#ac4821984e5b5310877204fdb93810029", null ],
-    [ "UpdateAI", "da/dbf/a23313.html#a6ec56730a2735b1d9d35c63242c310b2", null ],
-    [ "_batTimer", "da/dbf/a23313.html#a0ccfbf23e8f47b77496d35cdeae5e3ac", null ],
-    [ "_count", "da/dbf/a23313.html#a2c4c2ecaa4b3ad859f46e36be34b1076", null ],
-    [ "_intro", "da/dbf/a23313.html#a2aafb94d956182723ccc9374854c7fb0", null ],
-    [ "_playerAngle", "da/dbf/a23313.html#a005515a4f2ad0661d5faff9107ea068b", null ]
+    [ "HandleProc", "da/dbf/a23313.html#a43892c85339867a65e992b7f17fdc61c", null ],
+    [ "PrepareAuraScript", "da/dbf/a23313.html#ab5728e2c3df5b887c26f2485575087ff", null ],
+    [ "Register", "da/dbf/a23313.html#aae9f80730de402ebbda918e0116e59a0", null ],
+    [ "Validate", "da/dbf/a23313.html#a8ef20577e375a5c7d3a66824f27bf937", null ]
 ];

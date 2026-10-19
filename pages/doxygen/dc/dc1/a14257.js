@@ -1,7 +1,8 @@
 var a14257 =
 [
-    [ "CheckCast", "dc/dc1/a14257.html#a3fe12c32e49232c2ea80095e62b4f981", null ],
-    [ "HandleScriptEffect", "dc/dc1/a14257.html#af265f0bba7028f45763a7f9afea2d051", null ],
-    [ "PrepareSpellScript", "dc/dc1/a14257.html#a27518fd5482e65e0324100057e747d68", null ],
-    [ "Register", "dc/dc1/a14257.html#a07789d7d092eb1b6633200442466c52b", null ]
+    [ "npc_dkc1_gothik", "dc/dc1/a14257.html#ac55410228faf60379873234d7322c488", null ],
+    [ "DoAction", "dc/dc1/a14257.html#aba7e9c3326400012162402d3ead2837f", null ],
+    [ "MoveInLineOfSight", "dc/dc1/a14257.html#aa409a5ecaa71388131a2be4c62d2cf85", null ],
+    [ "UpdateAI", "dc/dc1/a14257.html#a7fbe2d52d179bcc8113407054befae00", null ],
+    [ "spoken", "dc/dc1/a14257.html#a4ed4b960104211c61067b1e66752eb74", null ]
 ];

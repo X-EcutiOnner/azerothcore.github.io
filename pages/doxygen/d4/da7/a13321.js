@@ -1,10 +1,6 @@
 var a13321 =
 [
-    [ "boss_servant_quarters", "d4/da7/a13321.html#aedf2869e3fbc1ebd13caedffa60bbf5f", null ],
-    [ "JustDied", "d4/da7/a13321.html#a3b9df7ab573f22a9e15761cb662db404", null ],
-    [ "JustEngagedWith", "d4/da7/a13321.html#afe4a4a78824851f63ce560a60d55cee3", null ],
-    [ "MovementInform", "d4/da7/a13321.html#a00d31d9421903b6a92c03a3bd0382328", null ],
-    [ "Reset", "d4/da7/a13321.html#a273a09b1242968a5dd45ab9866fbe481", null ],
-    [ "UpdateAI", "d4/da7/a13321.html#a6a41cfd67310077803733190645050e4", null ],
-    [ "_scheduler", "d4/da7/a13321.html#a520142de5e8d2911684b18c85a3f37e2", null ]
+    [ "HandleApply", "d4/da7/a13321.html#ac9f6f1927c9f66682892c32d4a431cc4", null ],
+    [ "PrepareAuraScript", "d4/da7/a13321.html#ae908ad87781553cc3bed05ea510a4447", null ],
+    [ "Register", "d4/da7/a13321.html#a391dff720ed9d2d48aa69e48e69ba8df", null ]
 ];

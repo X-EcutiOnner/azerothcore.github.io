@@ -1,6 +1,5 @@
 var a11073 =
 [
-    [ "EmoteClient", "d2/d1e/a11073.html#af98c098cb1019057d8027f39c168e1a9", null ],
-    [ "Read", "d2/d1e/a11073.html#abad5fca865b7b99e595ce95137e8105c", null ],
-    [ "EmoteID", "d2/d1e/a11073.html#a24503de36535106220984ffbf6ba0338", null ]
+    [ "LogoutCancel", "d2/d1e/a11073.html#a179fccf74fa969e6a32492f35d6f28c8", null ],
+    [ "Read", "d2/d1e/a11073.html#a9ed27bc4472b7e4e225793b4f2e5a34d", null ]
 ];

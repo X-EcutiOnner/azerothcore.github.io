@@ -1,6 +1,6 @@
 var a17597 =
 [
-    [ "npc_pos_leader_secondAI", "d5/d08/a17601.html", "d5/d08/a17601" ],
-    [ "npc_pos_leader_second", "dc/d74/a17597.html#ac4758674cc97eae0937264fa028e6da5", null ],
-    [ "GetAI", "dc/d74/a17597.html#ac403cfc86247990d78c9cf4179df8b87", null ]
+    [ "npc_pos_tyrannus_eventsAI", "d5/d08/a17601.html", "d5/d08/a17601" ],
+    [ "npc_pos_tyrannus_events", "dc/d74/a17597.html#a9e61db8b2b30e86fc5e554b3f4d51b7c", null ],
+    [ "GetAI", "dc/d74/a17597.html#ae5863e99d77815de71c1774e908b3f65", null ]
 ];

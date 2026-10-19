@@ -1,6 +1,6 @@
 var a17837 =
 [
-    [ "OnAbsorb", "d4/df0/a17837.html#aa6582457cd0502ca263433d04b40b64f", null ],
-    [ "PrepareAuraScript", "d4/df0/a17837.html#a0b6916dd3f6172e59edf477f203c85b1", null ],
-    [ "Register", "d4/df0/a17837.html#a945ec4037120992e8a2986e7fd2e2c96", null ]
+    [ "npc_kinetic_bombAI", "d6/de2/a17841.html", "d6/de2/a17841" ],
+    [ "npc_kinetic_bomb", "d4/df0/a17837.html#abca5a72d3ac0d50a27e604e8e1491957", null ],
+    [ "GetAI", "d4/df0/a17837.html#ae00630d96dc7a93ea13841c1f9e9be3b", null ]
 ];

@@ -1,8 +1,6 @@
 var a24529 =
 [
-    [ "npc_pet_gen_valkyr_guardian", "dc/d41/a24529.html#a546f0b0b4273de8216e9f688c2d68209", null ],
-    [ "InitializeAI", "dc/d41/a24529.html#ac32c8bb1e1014015a0ab92417bbc78a9", null ],
-    [ "OwnerAttacked", "dc/d41/a24529.html#a7f0bcedd78d88cdc802ba66c0ff7d927", null ],
-    [ "UpdateAI", "dc/d41/a24529.html#a9a5a233763365c6cca5618459a23a816", null ],
-    [ "targetCheck", "dc/d41/a24529.html#aa530b6b6415c85cd76f44d625329c2fb", null ]
+    [ "go_ancient_skull_pile", "dc/d41/a24529.html#a53793cf5f47e812751c2e5ebfe4d1603", null ],
+    [ "OnGossipHello", "dc/d41/a24529.html#afc258eaeb7586f0f539223c21f82ea63", null ],
+    [ "OnGossipSelect", "dc/d41/a24529.html#a6d6fd73be859dc00f214796ec2f9bed2", null ]
 ];

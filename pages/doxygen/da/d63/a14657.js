@@ -1,13 +1,9 @@
 var a14657 =
 [
-    [ "npc_ohganAI", "da/d63/a14657.html#a43f7fa66ff39bca177d30fc1d0d78080", null ],
-    [ "JustDied", "da/d63/a14657.html#a89e506868e3191362545e34d21528b8f", null ],
-    [ "JustEngagedWith", "da/d63/a14657.html#a5b6171794c5b49e8ee439de7bdc51ba5", null ],
-    [ "KilledUnit", "da/d63/a14657.html#a4e202eef928e54bd52160705bba5cc35", null ],
-    [ "Reset", "da/d63/a14657.html#ac3e1bc9dc819138741eb3b4448051547", null ],
-    [ "SetGUID", "da/d63/a14657.html#a575531a144c46ae3084e56e452125f16", null ],
-    [ "UpdateAI", "da/d63/a14657.html#aea7c169bc2b7c52ff7d4d9a5dd7a6f0a", null ],
-    [ "_scheduler", "da/d63/a14657.html#a838f1354e24c47e1c52e4b50e2b93c85", null ],
-    [ "instance", "da/d63/a14657.html#aeb6f6bddf881edf818fdc31fc639d5d5", null ],
-    [ "reviveGUID", "da/d63/a14657.html#afc066ae0c6d370f6632408b08de3c3bb", null ]
+    [ "npc_healing_ward", "da/d63/a14657.html#a3d3c35f61502d3a83cb2581119e08903", null ],
+    [ "JustEngagedWith", "da/d63/a14657.html#a5faf7c5633c44ec1fa70b60b2071b97b", null ],
+    [ "Reset", "da/d63/a14657.html#a756d27a43d86c7ecde859df255c6bd62", null ],
+    [ "UpdateAI", "da/d63/a14657.html#a8b8635af33ce814602206064e0815520", null ],
+    [ "_instance", "da/d63/a14657.html#a65f227041ad4bdc7240637dd6cb680ec", null ],
+    [ "_scheduler", "da/d63/a14657.html#a0c62fe945b491cab76175217a7d10c06", null ]
 ];

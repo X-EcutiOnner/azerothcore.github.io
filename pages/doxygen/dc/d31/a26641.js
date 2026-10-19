@@ -1,7 +1,7 @@
 var a26641 =
 [
-    [ "HandleDummy", "dc/d31/a26641.html#a870b9834d0860a2d017b74fbf33ae668", null ],
-    [ "Load", "dc/d31/a26641.html#ae971bd1dccc9280620b6ea44dd552bd4", null ],
-    [ "PrepareSpellScript", "dc/d31/a26641.html#aac68e0f75f39ab25cf490dc381414b96", null ],
-    [ "Register", "dc/d31/a26641.html#ad2840c719abd010c629747da138e9e32", null ]
+    [ "CheckProc", "dc/d31/a26641.html#a325336c96dad74ec221c07817222fee1", null ],
+    [ "HandleProc", "dc/d31/a26641.html#a75c8e4664e75afd2129b6e5f047d74e3", null ],
+    [ "PrepareAuraScript", "dc/d31/a26641.html#a30f6dd531d4316b4bbb3297af2c17e2e", null ],
+    [ "Register", "dc/d31/a26641.html#a6c86a4cf273d90086c4ebdbcaa6b6632", null ]
 ];

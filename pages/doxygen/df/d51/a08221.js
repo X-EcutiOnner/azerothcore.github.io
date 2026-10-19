@@ -1,5 +1,5 @@
 var a08221 =
 [
-    [ "Quest", "df/d51/a08221.html#aca1cbcd3319031b549c0ec6441b2c821", null ],
-    [ "QuestLevel", "df/d51/a08221.html#ad162701af62caac909ef9f57f68bf848", null ]
+    [ "IsColorValid", "df/d51/a08221.html#a075621e69c80c128ec44cfb4f3ba0cf6", null ],
+    [ "IsTextValid", "df/d51/a08221.html#a33f6c3e46c24571a8eec083087618fed", null ]
 ];

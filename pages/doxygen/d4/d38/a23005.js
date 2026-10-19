@@ -1,9 +1,8 @@
 var a23005 =
 [
-    [ "HandleAfterCast", "d4/d38/a23005.html#a32928b579ef42f377e911ef27197ed61", null ],
-    [ "HandleDummy", "d4/d38/a23005.html#a2adec08f0cc42cb21e97007b5f1214bc", null ],
-    [ "Load", "d4/d38/a23005.html#ac870bd626367bdc704e63d2f3b061b1f", null ],
-    [ "PrepareSpellScript", "d4/d38/a23005.html#a1f51d5562d5caac8d7d0f71de0051989", null ],
-    [ "Register", "d4/d38/a23005.html#adf8c87e9f6a3fb36bf26ed1c8dbb722f", null ],
-    [ "_targetCount", "d4/d38/a23005.html#a84d46608f7141d68b1a67fffc3493cbb", null ]
+    [ "FilterTargets", "d4/d38/a23005.html#a4d4ebe332e9b9f9592e34327b6b62385", null ],
+    [ "HandleDummy", "d4/d38/a23005.html#af349d524bb8e66455b842c7557750ba8", null ],
+    [ "PrepareSpellScript", "d4/d38/a23005.html#ac9da1a6dc020533a867a03f99dc0bb4c", null ],
+    [ "Register", "d4/d38/a23005.html#afd0c00470206a86ee42f85c8fa2ecf7b", null ],
+    [ "Validate", "d4/d38/a23005.html#a67b02473ac0c7c014fc489b531eb3e1c", null ]
 ];

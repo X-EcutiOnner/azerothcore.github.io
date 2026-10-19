@@ -1,6 +1,6 @@
 var a20985 =
 [
-    [ "FilterTargets", "df/d35/a20985.html#a766440359968faf85f60f987b5da8c70", null ],
-    [ "PrepareSpellScript", "df/d35/a20985.html#a3f53d4e7fa30e53a1e05803a60c8b09b", null ],
-    [ "Register", "df/d35/a20985.html#adbcc19da817ecdfad19543b70afd9e56", null ]
+    [ "OnPeriodic", "df/d35/a20985.html#a418b37f00a8a48d0a4362fd5381797bf", null ],
+    [ "PrepareAuraScript", "df/d35/a20985.html#a60c0d5d67de6e3224cba34599acc3e69", null ],
+    [ "Register", "df/d35/a20985.html#a92fb0160f7a16e6cb6b9c928b744f5e0", null ]
 ];

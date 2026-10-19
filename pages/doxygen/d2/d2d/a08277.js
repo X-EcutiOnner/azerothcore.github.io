@@ -1,9 +1,6 @@
 var a08277 =
 [
-    [ "HyperlinkColor", "d2/d2d/a08277.html#a4b246814aa2e2ac930e1e9e4e79345f0", null ],
-    [ "operator==", "d2/d2d/a08277.html#aad186f06a8d61834ec94d29d305fa0f2", null ],
-    [ "a", "d2/d2d/a08277.html#a57d68da0bcaec609d89efb18185b7f03", null ],
-    [ "b", "d2/d2d/a08277.html#a5ef7a2aab07e2e9a5097a27a466adeca", null ],
-    [ "g", "d2/d2d/a08277.html#a4570365880f14c7f7c5e7d96332ae150", null ],
-    [ "r", "d2/d2d/a08277.html#a1b4e0f604b95a773d28b93601af8ffe0", null ]
+    [ "value_type", "d2/d2d/a08277.html#a8ce1d08e5d320ef2c6301475fba4a7c2", null ],
+    [ "StoreTo", "d2/d2d/a08277.html#ac01b3840e65515853e26c16dd3caaf58", null ],
+    [ "tag", "d2/d2d/a08277.html#abd9c16378ed02e10a25cd45111e6fc69", null ]
 ];

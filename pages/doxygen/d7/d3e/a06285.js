@@ -1,11 +1,11 @@
 var a06285 =
 [
-    [ "SQLOperation", "d7/d3e/a06285.html#a0f69657715b7d24458227b22a3b40b1a", null ],
-    [ "~SQLOperation", "d7/d3e/a06285.html#afa21cafba57dd35ed2b132ef3d18c71b", null ],
-    [ "SQLOperation", "d7/d3e/a06285.html#a91b34b81ed99ca0da54d825fec98ab6e", null ],
-    [ "call", "d7/d3e/a06285.html#ae56c06a313c4be5d0e45f5481996f1d1", null ],
-    [ "Execute", "d7/d3e/a06285.html#aff1090554bc4a6fe7a33270e63416e19", null ],
-    [ "operator=", "d7/d3e/a06285.html#ac31349ed45ea051540ac345bd4b814d5", null ],
-    [ "SetConnection", "d7/d3e/a06285.html#a52cbd1d9b8a298ab3eade0010b5e3166", null ],
-    [ "m_conn", "d7/d3e/a06285.html#adf322db48064fcf4528f713f857f1b40", null ]
+    [ "SQLQueryHolderCallback", "d7/d3e/a06285.html#afc2cb6a483d17ae115e947bc88fe592b", null ],
+    [ "SQLQueryHolderCallback", "d7/d3e/a06285.html#a7fddb08e9e10cdb8a437de3ee53494db", null ],
+    [ "AfterComplete", "d7/d3e/a06285.html#a40f0a73f4b92bc0f7ad8659f748c7c17", null ],
+    [ "InvokeIfReady", "d7/d3e/a06285.html#a7e540699d496834c0a36782fb7da03f1", null ],
+    [ "operator=", "d7/d3e/a06285.html#a031861856be6b3e5f18718f3c6129f9c", null ],
+    [ "m_callback", "d7/d3e/a06285.html#aa055fe02b0158a9098e6eccdc32e9ff4", null ],
+    [ "m_future", "d7/d3e/a06285.html#a7dc3e5e72d47135660a29a0418e17c44", null ],
+    [ "m_holder", "d7/d3e/a06285.html#a09b018fb4d8e0e67249b1117c657ecc2", null ]
 ];

@@ -1,6 +1,9 @@
 var a02003 =
 [
-    [ "instance_dire_maul", "d1/dc2/a15491.html", "d1/dc2/a15491" ],
-    [ "instance_dire_maul::instance_dire_maul_InstanceMapScript", "d1/d9b/a15495.html", "d1/d9b/a15495" ],
-    [ "AddSC_instance_dire_maul", "d7/d98/a02003.html#a4f4fdf8ebf7b15878ba29a663b037908", null ]
+    [ "spell_gordunni_trap", "d6/d21/a16105.html", "d6/d21/a16105" ],
+    [ "GordunniTrapSpells", "d7/d98/a02003.html#a9070084706f8f406bab249f3de3ab1e5", [
+      [ "SPELL_GORDUNNI_DIRT_MOUND_CHEST", "d7/d98/a02003.html#a9070084706f8f406bab249f3de3ab1e5a64eb574b6b4376c663ae3a98d44cf3a6", null ],
+      [ "SPELL_GORDUNNI_DIRT_MOUND_JUNK", "d7/d98/a02003.html#a9070084706f8f406bab249f3de3ab1e5a9ea4bcd1bfa060af96a1f901c1ddfd57", null ]
+    ] ],
+    [ "AddSC_feralas", "d7/d98/a02003.html#a06e54e3edc2df068be660ac788b402e3", null ]
 ];

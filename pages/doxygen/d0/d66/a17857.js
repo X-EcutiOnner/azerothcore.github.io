@@ -1,6 +1,7 @@
 var a17857 =
 [
-    [ "boss_blood_queen_lana_thelAI", "d7/d37/a17861.html", "d7/d37/a17861" ],
-    [ "boss_blood_queen_lana_thel", "d0/d66/a17857.html#a9f8fa906f01082caacd106abc2707b07", null ],
-    [ "GetAI", "d0/d66/a17857.html#a7873efd945bdb24228866f639e32879b", null ]
+    [ "HandleScript", "d0/d66/a17857.html#a4b1e392acea30a9259e65a75667704c5", null ],
+    [ "Load", "d0/d66/a17857.html#a9af7bb4defb7c590aaff1a709dad4573", null ],
+    [ "PrepareSpellScript", "d0/d66/a17857.html#a17301c4ef9623ec04ec3c15dfd4e316f", null ],
+    [ "Register", "d0/d66/a17857.html#a77632d11a172e5552c0c49de830a1639", null ]
 ];

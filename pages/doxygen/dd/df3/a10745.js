@@ -1,8 +1,13 @@
 var a10745 =
 [
-    [ "AllCommandScript", "dd/df3/a10745.html#ac301ea1e97fe959f23dbc72582746a24", null ],
-    [ "IsDatabaseBound", "dd/df3/a10745.html#a89430678d5c88c562f1b0ac2b294fea4", null ],
-    [ "OnBeforeIsInvokerVisible", "dd/df3/a10745.html#a6f85dc271c1b61244978aa4474e708b0", null ],
-    [ "OnHandleDevCommand", "dd/df3/a10745.html#aba983f0e052ece230617573f04a35c92", null ],
-    [ "OnTryExecuteCommand", "dd/df3/a10745.html#a3a116836453073e77bbd8ab974f36f47", null ]
+    [ "AccountScript", "dd/df3/a10745.html#a2554f46fcf6ff81b353513916771b8d1", null ],
+    [ "CanAccountCreateCharacter", "dd/df3/a10745.html#a6b5b94c1ac64bf8d926928d8401cd533", null ],
+    [ "OnAccountLogin", "dd/df3/a10745.html#afbebc7186ba77b0fefe0a6d32a774601", null ],
+    [ "OnBeforeAccountDelete", "dd/df3/a10745.html#a631f7deca08644da2613142c667618a8", null ],
+    [ "OnEmailChange", "dd/df3/a10745.html#adf20bd20cdc97b91db664dca95f82670", null ],
+    [ "OnFailedAccountLogin", "dd/df3/a10745.html#aae3401d74bdc9e8328a5f084462ae740", null ],
+    [ "OnFailedEmailChange", "dd/df3/a10745.html#a23261a238db9ddd618ebb6a45aaabcbf", null ],
+    [ "OnFailedPasswordChange", "dd/df3/a10745.html#a45d58c0f669f37b24e3dabf0ac4b2423", null ],
+    [ "OnLastIpUpdate", "dd/df3/a10745.html#a3de6453c132bb3d76b6888b87f988d2d", null ],
+    [ "OnPasswordChange", "dd/df3/a10745.html#aefa30b298f52d7c1a44e7648d088c3f0", null ]
 ];

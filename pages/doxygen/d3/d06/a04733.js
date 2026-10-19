@@ -1,12 +1,11 @@
 var a04733 =
 [
-    [ "VMAP::VMapMgr2", "dd/dc9/a05355.html", "dd/dc9/a05355" ],
-    [ "FILENAMEBUFFER_SIZE", "d3/d06/a04733.html#aebe91d3f560a4221b135ef03b21a485f", null ],
-    [ "MAP_FILENAME_EXTENSION2", "d3/d06/a04733.html#aad39c14e5fae9fd5141df154332ae6fd", null ],
-    [ "DisableTypes", "d3/d06/a04733.html#ae6fa86a61cff3bac928739b18ffb8c1b", [
-      [ "VMAP_DISABLE_AREAFLAG", "d3/d06/a04733.html#ae6fa86a61cff3bac928739b18ffb8c1ba4fc4dc95e6df57c161e146d8da4b4a19", null ],
-      [ "VMAP_DISABLE_HEIGHT", "d3/d06/a04733.html#ae6fa86a61cff3bac928739b18ffb8c1ba2f9e18e9b167ecc25202f607e29af926", null ],
-      [ "VMAP_DISABLE_LOS", "d3/d06/a04733.html#ae6fa86a61cff3bac928739b18ffb8c1ba26f8933b26a6ce62d8bddafde8ebb108", null ],
-      [ "VMAP_DISABLE_LIQUIDSTATUS", "d3/d06/a04733.html#ae6fa86a61cff3bac928739b18ffb8c1ba191004652b9fbcccb26c14ce81a94cec", null ]
-    ] ]
+    [ "HashTrait< GameObjectModel >", "d9/d5f/a05301.html", "d9/d5f/a05301" ],
+    [ "PositionTrait< GameObjectModel >", "d5/d70/a05305.html", "d5/d70/a05305" ],
+    [ "BoundsTrait< GameObjectModel >", "da/d15/a05309.html", "da/d15/a05309" ],
+    [ "DynTreeImpl", "d3/dd2/a05313.html", "d3/dd2/a05313" ],
+    [ "DynamicTreeIntersectionCallback", "d9/d96/a05317.html", "d9/d96/a05317" ],
+    [ "DynamicTreeLocationInfoCallback", "d8/d16/a05321.html", "d8/d16/a05321" ],
+    [ "ParentTree", "d3/d06/a04733.html#a8e6e06962c0e04aa7bb4ea9a8e6f54a9", null ],
+    [ "CHECK_TREE_PERIOD", "d3/d06/a04733.html#a6c8b5b425bcbc0776a4dfa5dae72bf74", null ]
 ];

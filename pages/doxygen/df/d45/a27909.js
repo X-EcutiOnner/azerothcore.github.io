@@ -1,7 +1,9 @@
 var a27909 =
 [
-    [ "CalculateAmount", "df/d45/a27909.html#a893842dfe5e1d6f7977e2fc97471b265", null ],
-    [ "PrepareAuraScript", "df/d45/a27909.html#a20dad49a99420556f393a16525eb14b4", null ],
-    [ "Register", "df/d45/a27909.html#ad7d339ab137ebd640981f7789e1757f0", null ],
-    [ "Validate", "df/d45/a27909.html#a341acb2dd25c1db94777f7036f3338ac", null ]
+    [ "CheckCast", "df/d45/a27909.html#a846862b62f5750801cd804133f290d5d", null ],
+    [ "HandleDummy", "df/d45/a27909.html#aa56609d3c75a69fb62e302622fd11c3c", null ],
+    [ "Load", "df/d45/a27909.html#acec7437ba80e4ae491020448a36e4559", null ],
+    [ "PrepareSpellScript", "df/d45/a27909.html#ab5e281028c009a4b317111de9a0a17e3", null ],
+    [ "Register", "df/d45/a27909.html#a865fa526f2131703a668e113ba0d7849", null ],
+    [ "Validate", "df/d45/a27909.html#a6c6dee3de2c54536765cfdd97f4fd0c0", null ]
 ];

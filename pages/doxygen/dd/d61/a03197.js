@@ -1,8 +1,8 @@
 var a03197 =
 [
-    [ "instance_drak_tharon_keep", "d4/ddf/a17319.html", "d4/ddf/a17319" ],
-    [ "spell_dtk_raise_dead_aura", "d6/d03/a17323.html", "d6/d03/a17323" ],
-    [ "spell_dtk_summon_random_drakkari", "dd/d95/a17327.html", "dd/d95/a17327" ],
-    [ "AddSC_instance_drak_tharon_keep", "dd/d61/a03197.html#a5644ddec1299c3c3988ffb003d0c3367", null ],
-    [ "doorData", "dd/d61/a03197.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
+    [ "CorpseUpdateFieldFlags", "dd/d61/a03197.html#a4ba9132e74378f888b4724dbbaf147f3", null ],
+    [ "DynamicObjectUpdateFieldFlags", "dd/d61/a03197.html#aefe3be44e608ab4935e11ea44f8e0ce6", null ],
+    [ "GameObjectUpdateFieldFlags", "dd/d61/a03197.html#aee13b862f51557c371d3d93341128895", null ],
+    [ "ItemUpdateFieldFlags", "dd/d61/a03197.html#ac1cca7ecf1650663132e3e220d771adf", null ],
+    [ "UnitUpdateFieldFlags", "dd/d61/a03197.html#a310c5b2e3065e40ce04fe5ccd84fb51b", null ]
 ];

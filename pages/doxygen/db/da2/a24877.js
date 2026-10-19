@@ -1,7 +1,9 @@
 var a24877 =
 [
-    [ "AfterApply", "db/da2/a24877.html#aee69eceead7e31cce2638ff252f6653d", null ],
-    [ "AfterRemove", "db/da2/a24877.html#ad53d25cc04f1b6cc1f3d0a8d9fc69a89", null ],
-    [ "PrepareAuraScript", "db/da2/a24877.html#a0ccde960cb328cd1c72b2504376e92b4", null ],
-    [ "Register", "db/da2/a24877.html#ab5f8afbfa688ebd548a5508543498b55", null ]
+    [ "CheckProc", "db/da2/a24877.html#a13245a545210eed1ddfd7c49c4a43f6b", null ],
+    [ "HandleProc", "db/da2/a24877.html#aeec6c9e949d1edc09259a55583b3bae2", null ],
+    [ "Load", "db/da2/a24877.html#ae3ffe29eef4f803f08ab728d959f1932", null ],
+    [ "PeriodicTick", "db/da2/a24877.html#a1621c06bce0a28a2416385563b989cbf", null ],
+    [ "PrepareAuraScript", "db/da2/a24877.html#a79a8c2a9ef00a9c1a2bba481e9cc522f", null ],
+    [ "Register", "db/da2/a24877.html#ad47775cc21d4d5e0c28b68c68d595a39", null ]
 ];

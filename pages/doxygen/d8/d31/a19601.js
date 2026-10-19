@@ -1,7 +1,6 @@
 var a19601 =
 [
-    [ "HandleRemove", "d8/d31/a19601.html#a7c81c567ae10bf4fd4d3c1eb480b5761", null ],
-    [ "PrepareAuraScript", "d8/d31/a19601.html#aaefd5b15f7a3725b2663c0717fe22c92", null ],
-    [ "Register", "d8/d31/a19601.html#ad7ba015a7878adad0820cf378d2632ca", null ],
-    [ "Validate", "d8/d31/a19601.html#a570bb63c6ed7af58b0b886e8a954dea9", null ]
+    [ "npc_boss_gothik_minionAI", "d3/ddd/a19605.html", "d3/ddd/a19605" ],
+    [ "npc_boss_gothik_minion", "d8/d31/a19601.html#a6cabeae812639ac179133245d85a0e15", null ],
+    [ "GetAI", "d8/d31/a19601.html#a8abb1ec265f9eeb646a858bee06cfb92", null ]
 ];

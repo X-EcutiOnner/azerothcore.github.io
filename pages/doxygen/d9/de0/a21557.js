@@ -1,11 +1,12 @@
 var a21557 =
 [
-    [ "boss_erekem", "d9/de0/a21557.html#a32a7d3b83f201bd77423da1a98e742ae", null ],
-    [ "EnterEvadeMode", "d9/de0/a21557.html#a3d946004c120c6daec6565e7ba815fa1", null ],
-    [ "ExecuteEvent", "d9/de0/a21557.html#a24100918d900f974144f94f399e429b3", null ],
-    [ "GetChainHealTargetGuid", "d9/de0/a21557.html#a809a25ac441f1ef1c60273ac1094a3b2", null ],
-    [ "JustDied", "d9/de0/a21557.html#a23ce09bbe023ebab5dbe1bf26cd84c7a", null ],
-    [ "JustEngagedWith", "d9/de0/a21557.html#a82faaeb00a41745d331f97037e5b4800", null ],
-    [ "KilledUnit", "d9/de0/a21557.html#acaa92e69b5d4ff536d8a0a3e965a93d5", null ],
-    [ "MoveInLineOfSight", "d9/de0/a21557.html#ad89c95919671fd1ae2656ed468ee022a", null ]
+    [ "boss_koralonAI", "d9/de0/a21557.html#a3f5bc42a141011e543d1215eac09dc74", null ],
+    [ "AttackStart", "d9/de0/a21557.html#aa84e6e9a302172e134163cd07ca57864", null ],
+    [ "JustDied", "d9/de0/a21557.html#a102c10792d9e7df61d920b5a43f58e51", null ],
+    [ "JustEngagedWith", "d9/de0/a21557.html#aa7503618dd09e0aebac44394595f4715", null ],
+    [ "Reset", "d9/de0/a21557.html#a0e57ee42e45e55b1a69ac7cb0f1d2666", null ],
+    [ "UpdateAI", "d9/de0/a21557.html#aa944aad2eb68adc917cba743d1e530c7", null ],
+    [ "events", "d9/de0/a21557.html#abc8b9a8759b0e3e95d66c16615f621f5", null ],
+    [ "pInstance", "d9/de0/a21557.html#a4bdea1a9d7e46d4ef71cd43ce969e59c", null ],
+    [ "rotateTimer", "d9/de0/a21557.html#ad4b766094f28e940b0b7971d6dadc277", null ]
 ];

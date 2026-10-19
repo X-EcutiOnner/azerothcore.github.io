@@ -1,6 +1,14 @@
 var a12901 =
 [
-    [ "OrcDeathEvent", "d6/d0e/a12901.html#ae4088ee95c3c0de9ae524a82803b0ea2", null ],
-    [ "Execute", "d6/d0e/a12901.html#a293ec6667da669a27fe75965f919cd68", null ],
-    [ "_me", "d6/d0e/a12901.html#a56cdf23ed08cbb800ba6fe7fb5e284b7", null ]
+    [ "boss_mor_grayhoof", "d6/d0e/a12901.html#aef1001233a51ad3bb9963c540d39d79b", null ],
+    [ "CastRandomSpell", "d6/d0e/a12901.html#a00756d64d24088ebf408153fcb59ff13", null ],
+    [ "DamageTaken", "d6/d0e/a12901.html#a164a911eb9a86964a61866c05d44512f", null ],
+    [ "JustDied", "d6/d0e/a12901.html#aa98fbfc5cc4ee94e0323d8586dae1e1c", null ],
+    [ "JustEngagedWith", "d6/d0e/a12901.html#a043f6ee099efd0d49982b2966604e65a", null ],
+    [ "Reset", "d6/d0e/a12901.html#af313bd8509a76cd6b6fbc197f15afbff", null ],
+    [ "UpdateAI", "d6/d0e/a12901.html#aaa6a1a9b6e4259aea46d2f25bca3b809", null ],
+    [ "_phase", "d6/d0e/a12901.html#a40bf6a66aefe7a605d94526b5a586ba6", null ],
+    [ "_scheduler", "d6/d0e/a12901.html#ad2a897281d308475957e2636c6536fdd", null ],
+    [ "_sleepTargetGUID", "d6/d0e/a12901.html#a8baa606696dc8acf532e8badfc6c624b", null ],
+    [ "_sleepTargetThreat", "d6/d0e/a12901.html#ac62d7d30b12d0c2da9553b9689091e0e", null ]
 ];

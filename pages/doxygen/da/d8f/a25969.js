@@ -1,7 +1,7 @@
 var a25969 =
 [
-    [ "HandleJump", "da/d8f/a25969.html#ac70f6d53e85af1ee2591e761e21872db", null ],
-    [ "HandleScriptEffect", "da/d8f/a25969.html#abdaa3c5356f84429cf6d2e053a3238ff", null ],
-    [ "PrepareSpellScript", "da/d8f/a25969.html#a7daa7cef660e9f08b8e60c7788783c99", null ],
-    [ "Register", "da/d8f/a25969.html#a0cbd40958551e0f38850a9fdcd6f0048", null ]
+    [ "OnDummyEffect", "da/d8f/a25969.html#a333c11c7ee2821bcc4d74d316f55bf5a", null ],
+    [ "PrepareSpellScript", "da/d8f/a25969.html#aa15334f23b837a005a34a12d238fc9d5", null ],
+    [ "Register", "da/d8f/a25969.html#a1b83195bdc148434f10a6c1ba3c0af0d", null ],
+    [ "Validate", "da/d8f/a25969.html#a359fba1475e52b24635cc8dda51cc922", null ]
 ];

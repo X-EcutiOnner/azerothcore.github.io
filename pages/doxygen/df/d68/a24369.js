@@ -1,6 +1,14 @@
 var a24369 =
 [
-    [ "npc_illidari_spawnAI", "db/d5a/a24373.html", "db/d5a/a24373" ],
-    [ "npc_illidari_spawn", "df/d68/a24369.html#ac8dbb30fe7f40d29a3434c8a888ace60", null ],
-    [ "GetAI", "df/d68/a24369.html#a7198f506b0d4fd55d22fc72a90f42a09", null ]
+    [ "npc_mature_netherwing_drakeAI", "df/d68/a24369.html#a32281f8dfa1c8af8fe6bcac2a8be4220", null ],
+    [ "JustReachedHome", "df/d68/a24369.html#a0de69b5fda6342217697ad264d64d4e6", null ],
+    [ "MovementInform", "df/d68/a24369.html#a456b5de60672120f82506d177faf6b47", null ],
+    [ "Reset", "df/d68/a24369.html#a72eb39e259aed0ab230d4d43722cba13", null ],
+    [ "SpellHit", "df/d68/a24369.html#a749690b386c0c726d11b77bc705b9b01", null ],
+    [ "UpdateAI", "df/d68/a24369.html#a624c256f29d3cefed0bb909da3841853", null ],
+    [ "bCanEat", "df/d68/a24369.html#ad4c671be4f16f23ddf2f2f84b0bd4c94", null ],
+    [ "bIsEating", "df/d68/a24369.html#a0519438fda724a06a0c6f8ed2d7d533d", null ],
+    [ "CastTimer", "df/d68/a24369.html#a630312f70a2f22683311a66e5a4f9ec6", null ],
+    [ "EatTimer", "df/d68/a24369.html#aa50d3a21103dc769d162b1c917100630", null ],
+    [ "uiPlayerGUID", "df/d68/a24369.html#a6b9a435245ddce156d0657aa9e35175b", null ]
 ];

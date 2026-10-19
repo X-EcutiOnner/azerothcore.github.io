@@ -1,11 +1,7 @@
 var a14877 =
 [
-    [ "npc_the_biggest_tree", "d8/de2/a14877.html#a7366f46c4864fa0f1372c920b94c6e97", null ],
-    [ "MoveInLineOfSight", "d8/de2/a14877.html#a572c0b146d461b6a8504163452570954", null ],
-    [ "Reset", "d8/de2/a14877.html#a3fd4c5e522e8945925124426a8ff870b", null ],
-    [ "UpdateAI", "d8/de2/a14877.html#a3d1b33ab7cd28de5438f53a00657170a", null ],
-    [ "orphanGUID", "d8/de2/a14877.html#a36c170fb178a19256fd41fb2cbbb7830", null ],
-    [ "phase", "d8/de2/a14877.html#a7101fe10b15ce1779d3d131e597ef636", null ],
-    [ "playerGUID", "d8/de2/a14877.html#ab39af61d9ab7d9f7210f96b65971654d", null ],
-    [ "timer", "d8/de2/a14877.html#a7525783692c3bc9642f534296b71a5f5", null ]
+    [ "FilterTargets", "d8/de2/a14877.html#af3954bbcbce6de5d4ddadd2af0ecac91", null ],
+    [ "HandleDummy", "d8/de2/a14877.html#ad3688071ca786bbb4c27d5632d1a1e56", null ],
+    [ "PrepareSpellScript", "d8/de2/a14877.html#a6ac4db072beae6ae7a700774667da613", null ],
+    [ "Register", "d8/de2/a14877.html#ae981ec2b7e097ad0fe924df7738da5b7", null ]
 ];

@@ -1,6 +1,5 @@
 var a25965 =
 [
-    [ "OnBaseRemove", "d0/d01/a25965.html#aa6d10399bba721ff7a3651508fcdf449", null ],
-    [ "PrepareAuraScript", "d0/d01/a25965.html#a34ad4890c7ce30427537e36980057e57", null ],
-    [ "Register", "d0/d01/a25965.html#a713e694cad6f1cf533d45f5d633da36e", null ]
+    [ "PrepareSpellScript", "d0/d01/a25965.html#a9137654c01f41c735f477b85e4ec6d73", null ],
+    [ "Register", "d0/d01/a25965.html#af1002e90bc0801c0759393d2d4af8778", null ]
 ];

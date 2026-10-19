@@ -1,4 +1,4 @@
 var a04130 =
 [
-    [ "ScriptRegistry< BattlegroundMapScript >", "d7/ded/a04130.html#a79e6d39d74f9bbf97afe75113cd4db80", null ]
+    [ "ScriptRegistry< AccountScript >", "d7/ded/a04130.html#a737db11e5096ba1c596f469d64c2cc97", null ]
 ];

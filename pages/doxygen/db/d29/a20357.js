@@ -1,8 +1,9 @@
 var a20357 =
 [
-    [ "OnApply", "db/d29/a20357.html#a5aec8606684637bbdb1e819254f5d483", null ],
-    [ "OnRemove", "db/d29/a20357.html#add485a2fd5fdd068d7258d3c9c0d9c2b", null ],
-    [ "PrepareAuraScript", "db/d29/a20357.html#adcc21606209dc2f32c1173c7ab4c5579", null ],
-    [ "Register", "db/d29/a20357.html#af1db6ca387cf0733ba4b9c324172d692", null ],
-    [ "Validate", "db/d29/a20357.html#a332d01b39295ea9a11773be9aa9c3fb3", null ]
+    [ "npc_hodirs_fury", "db/d29/a20357.html#abda902842d76a0a5a17196a11654f5ab", null ],
+    [ "MovementInform", "db/d29/a20357.html#a4d82007c5b70edad74b461948629b9fb", null ],
+    [ "Reset", "db/d29/a20357.html#a8f50cc6b79ba7feab8ac2f83f82a598f", null ],
+    [ "UpdateAI", "db/d29/a20357.html#a58a8b1664bb00b930cce86e856facb8b", null ],
+    [ "_switchTargetTimer", "db/d29/a20357.html#a9736332e6f3d163f04aa12cbd6829670", null ],
+    [ "_timeToHit", "db/d29/a20357.html#a611d171dc27bd78d298040eabfc00e5f", null ]
 ];

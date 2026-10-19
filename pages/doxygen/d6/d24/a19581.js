@@ -1,6 +1,12 @@
 var a19581 =
 [
-    [ "boss_grobbulusAI", "d4/def/a19585.html", "d4/def/a19585" ],
-    [ "boss_grobbulus", "d6/d24/a19581.html#acf1b781e86e33a363b68354d34d3c015", null ],
-    [ "GetAI", "d6/d24/a19581.html#ae918614566a0b9979aef4e1aeaac394c", null ]
+    [ "boss_gluthAI", "d6/d24/a19581.html#a3ae0608d19cbc7ce5a561e0ae3e66d0d", null ],
+    [ "JustEngagedWith", "d6/d24/a19581.html#a25cf670d7254cc8331752987a854c63b", null ],
+    [ "JustSummoned", "d6/d24/a19581.html#acc09328210fbf1a6e81999d548676ae4", null ],
+    [ "KilledUnit", "d6/d24/a19581.html#a691d46055b922efc9d1ec93a8b0fb842", null ],
+    [ "MoveInLineOfSight", "d6/d24/a19581.html#a2aaf43f7d1555a005ef263ceaad8304c", null ],
+    [ "Reset", "d6/d24/a19581.html#acb9f68205a2a210737d43893a414ca52", null ],
+    [ "SelectPlayerInRoom", "d6/d24/a19581.html#aa8782d6d198ee8fa2a48ef2cde2c25c9", null ],
+    [ "SummonedCreatureDies", "d6/d24/a19581.html#a115a1f1327a931067223734dbf414675", null ],
+    [ "UpdateAI", "d6/d24/a19581.html#a2505f7ebda7b623edfedf96979a4a920", null ]
 ];

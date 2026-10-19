@@ -1,7 +1,12 @@
 var a23157 =
 [
-    [ "Absorb", "d7/df2/a23157.html#a227cf7329d7dee564c3f8f9f67378ffe", null ],
-    [ "HandleEffectRemove", "d7/df2/a23157.html#a3d4026e5208acb948c089a4bedba0de8", null ],
-    [ "PrepareAuraScript", "d7/df2/a23157.html#af66dc1cba6aa7511c11a071ea9a381bb", null ],
-    [ "Register", "d7/df2/a23157.html#a983cf678001efcbccc4b34a9ad919881", null ]
+    [ "boss_shade_of_akama", "d7/df2/a23157.html#a385bf995d19652254d6ae8a447c23c37", null ],
+    [ "EnterEvadeMode", "d7/df2/a23157.html#a690f8058fb4358b98960177d76864275", null ],
+    [ "JustDied", "d7/df2/a23157.html#aa22052befeb48c0c7ec3a3cedd91daff", null ],
+    [ "MovementInform", "d7/df2/a23157.html#a345707efebd5027c01a25a563d1e6f43", null ],
+    [ "Reset", "d7/df2/a23157.html#a19a1aca1a599704612ac845001895b4f", null ],
+    [ "SpellHit", "d7/df2/a23157.html#a5a49f0dab7ce6ee81b9ed8deb5704720", null ],
+    [ "UpdateAI", "d7/df2/a23157.html#a25ffed5526b1f25eb1cf790745e2a7c7", null ],
+    [ "channelers", "d7/df2/a23157.html#a258bbeecb517a04ab8e3bac2a753a5bd", null ],
+    [ "generators", "d7/df2/a23157.html#a94a1010bce54768ee2dca72d4f6eec34", null ]
 ];

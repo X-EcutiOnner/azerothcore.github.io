@@ -1,8 +1,6 @@
 var a29257 =
 [
-    [ "difficulty", "d2/dff/a29257.html#a2a04df701c13dc49053b09a9587a72a8", null ],
-    [ "encounterIndex", "d2/dff/a29257.html#a3d35560824a3aaeecb8db4bf8628ebfd", null ],
-    [ "encounterName", "d2/dff/a29257.html#af4f26f56526b945e392ddaf6b2d43fa1", null ],
-    [ "id", "d2/dff/a29257.html#aa9828ccc644a11f9cb35fbcc7d31a827", null ],
-    [ "mapId", "d2/dff/a29257.html#a61c1ac724c8eb96907d2ea9402a8f9ce", null ]
+    [ "ChannelID", "d2/dff/a29257.html#a51753c36711e100fd8dca1cd5b1e7e94", null ],
+    [ "flags", "d2/dff/a29257.html#aa77db644555e336ccbb8dd138c192425", null ],
+    [ "pattern", "d2/dff/a29257.html#ad8b550cf444d66eede00abcf2cefec22", null ]
 ];

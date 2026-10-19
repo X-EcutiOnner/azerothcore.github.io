@@ -1,10 +1,9 @@
 var a30001 =
 [
-    [ "SetUp", "d6/da4/a30001.html#a3fdec2bf96f4e567b3ed2a8103d175ec", null ],
-    [ "SimulateGlyphsForLevel", "d6/da4/a30001.html#ac0b04d88968102ac5cf34be21a44eed9", null ],
-    [ "TearDown", "d6/da4/a30001.html#aa381706733e71ee3d426c4e0d0c4b4e9", null ],
-    [ "originalWorld", "d6/da4/a30001.html#a5e142dc81a057b4ecc3084177942b91d", null ],
-    [ "player", "d6/da4/a30001.html#ac57623d8e963cdb8de2258f36c1281bd", null ],
-    [ "session", "d6/da4/a30001.html#ac92bad60994d699564da54739ac0b4f0", null ],
-    [ "worldMock", "d6/da4/a30001.html#af4605e78650f67c3a3af4d91e1e485c5", null ]
+    [ "SetUp", "d6/da4/a30001.html#a5ee46555116eca62d3e8320dd5a5fbbb", null ],
+    [ "TearDown", "d6/da4/a30001.html#a2a331c0ef77503c08c37e226a4e0a33b", null ],
+    [ "_distributor", "d6/da4/a30001.html#a6c043c7543dec59e640b379aec1ad0d0", null ],
+    [ "_mockRewarder", "d6/da4/a30001.html#ad466c2751d8e9739db56f9f82d15deff", null ],
+    [ "_previousWorld", "d6/da4/a30001.html#aef822a2309df5d13af31ea5a5da74df7", null ],
+    [ "_worldMock", "d6/da4/a30001.html#a00b242d182fd7eacc93efc9d4f3e914f", null ]
 ];

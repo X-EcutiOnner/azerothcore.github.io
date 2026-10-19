@@ -1,8 +1,5 @@
 var a28897 =
 [
-    [ "DamagedDisplayId", "dc/d62/a28897.html#a84d606d69c51f5e1fdecf9bc0f5705be", null ],
-    [ "DestroyedDisplayId", "dc/d62/a28897.html#afc891df0c9491a34f784e8f141434be5", null ],
-    [ "Id", "dc/d62/a28897.html#a65d7e0933cb53864413781cdeb56b6c2", null ],
-    [ "RebuildingDisplayId", "dc/d62/a28897.html#aa4e1e6be7b5b1d15872fb310c1c299af", null ],
-    [ "SmokeDisplayId", "dc/d62/a28897.html#a1a06c3e04bc2bb7d5bc29592d40b9239", null ]
+    [ "npc_sunwell_gate", "dc/d62/a28897.html#a70643c475fe4aa6f47e0a47222b1faad", null ],
+    [ "OnQuestReward", "dc/d62/a28897.html#a760f5bef0c1f45f21698b0dcdf2d2236", null ]
 ];

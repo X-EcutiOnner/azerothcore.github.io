@@ -1,7 +1,6 @@
 var a21785 =
 [
-    [ "npc_warmage_violetstand", "da/dd2/a21785.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
-    [ "Reset", "da/dd2/a21785.html#a99015610597f43f184cc686c9fab2fa9", null ],
-    [ "UpdateAI", "da/dd2/a21785.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
-    [ "targetGUID", "da/dd2/a21785.html#a46560aa7aa90778967a79c931a81721b", null ]
+    [ "npc_hidden_cultistAI", "da/dc5/a21789.html", "da/dc5/a21789" ],
+    [ "npc_hidden_cultist", "da/dd2/a21785.html#ab455b35fea966360e01fb8975adad989", null ],
+    [ "GetAI", "da/dd2/a21785.html#a4897006d9416f1177b0bc0e41df60293", null ]
 ];

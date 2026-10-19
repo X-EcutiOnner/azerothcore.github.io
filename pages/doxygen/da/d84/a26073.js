@@ -1,9 +1,7 @@
 var a26073 =
 [
-    [ "spell_item_trigger_spell", "da/d84/a26073.html#a619e9a5233e36157cbdaba70a3ba80da", null ],
-    [ "HandleDummy", "da/d84/a26073.html#a49613255eea28e34cf5ff8a06798f89a", null ],
-    [ "PrepareSpellScript", "da/d84/a26073.html#a78903f92c30fb23ff7297f7fa16c4861", null ],
-    [ "Register", "da/d84/a26073.html#ab9abd9f01ce37c23d6502e6d86e3f998", null ],
-    [ "Validate", "da/d84/a26073.html#a2f2df93e8f9d0e51273560665ea5c245", null ],
-    [ "_triggeredSpellId", "da/d84/a26073.html#a610c5ac434fe788120ed101f7bf58f63", null ]
+    [ "CheckProc", "da/d84/a26073.html#afbd6d4a64b7da0d0dc15c62eb81746c9", null ],
+    [ "HandleProc", "da/d84/a26073.html#a27569fe686e50246768fca4a7625fe0d", null ],
+    [ "PrepareAuraScript", "da/d84/a26073.html#a4f4eaa4aeeac9257804957671c16233f", null ],
+    [ "Register", "da/d84/a26073.html#ab9a662bebdb5e03c5c10a807b892a9bf", null ]
 ];

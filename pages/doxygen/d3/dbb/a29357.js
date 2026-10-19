@@ -1,4 +1,6 @@
 var a29357 =
 [
-    [ "ID", "d3/dbb/a29357.html#a11f792510d9749f99371234b15a45beb", null ]
+    [ "Id", "d3/dbb/a29357.html#a5d7f2d5a2890593554ea841deb38abb2", null ],
+    [ "Order", "d3/dbb/a29357.html#a16fca42d9a0a98e034a93984c4362b53", null ],
+    [ "TypeFlags", "d3/dbb/a29357.html#ac7246adc7c6c3217de8ac093983b7553", null ]
 ];

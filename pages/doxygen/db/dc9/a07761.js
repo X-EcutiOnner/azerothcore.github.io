@@ -1,14 +1,10 @@
 var a07761 =
 [
-    [ "IsArena", "db/dc9/a07761.html#a8a99bf73debf5835e58537bee33fe2ad", null ],
-    [ "BattlemasterEntry", "db/dc9/a07761.html#a51ce3b9fdb2f51f439fee7c8b48e3918", null ],
-    [ "Id", "db/dc9/a07761.html#a0fca37318585903f68695452a95011a9", null ],
-    [ "MaxLevel", "db/dc9/a07761.html#a790f55d480d1454a5f6e5713c04314b7", null ],
-    [ "MaxPlayersPerTeam", "db/dc9/a07761.html#a324a4e557ce66089ec1111a9dae6e1de", null ],
-    [ "MaxStartDistSq", "db/dc9/a07761.html#a5fbb1a76221e9d15bd7cca13581f7b14", null ],
-    [ "MinLevel", "db/dc9/a07761.html#a49fdf96a08376830a06956fd501cfa78", null ],
-    [ "MinPlayersPerTeam", "db/dc9/a07761.html#ac1bea263b53de8573cdb8eb890175495", null ],
-    [ "ScriptId", "db/dc9/a07761.html#a968dd626dba22925be3d8f1a3bdc51aa", null ],
-    [ "StartLocation", "db/dc9/a07761.html#a8477d2156c8aa5bb89da038d1a779698", null ],
-    [ "Weight", "db/dc9/a07761.html#aa7a051e8453599a7e82da763a6f91da2", null ]
+    [ "Battleground2ChatBuilder", "db/dc9/a07761.html#a3e1f73fd8ca5eaa6d1154e206d7d0cb1", null ],
+    [ "operator()", "db/dc9/a07761.html#a7c0ee21531ba43d9d2ab427d95da2ec5", null ],
+    [ "_arg1", "db/dc9/a07761.html#aa6959944406804f01baa18cd898bfc41", null ],
+    [ "_arg2", "db/dc9/a07761.html#aebfaeac77c40d4c7938cbdd488defc51", null ],
+    [ "_msgtype", "db/dc9/a07761.html#a770d30e207e41a8f985776787d53f2cf", null ],
+    [ "_source", "db/dc9/a07761.html#a8867dd698d0457688202e1a9378255d2", null ],
+    [ "_textId", "db/dc9/a07761.html#a632cab30adc21c22f1a8890b1627262a", null ]
 ];

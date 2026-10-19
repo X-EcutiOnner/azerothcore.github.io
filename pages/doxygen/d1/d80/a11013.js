@@ -1,6 +1,7 @@
 var a11013 =
 [
-    [ "GetEvent", "d1/d80/a11013.html#aabf338a9824038abbd0934a3bef0a269", null ],
-    [ "Read", "d1/d80/a11013.html#a344db9b28e7247dc0285a3468a789721", null ],
-    [ "EventId", "d1/d80/a11013.html#a31de21c2af87d174d139eef870cbb5fd", null ]
+    [ "ClientPacket", "d1/d80/a11013.html#aa1d1946c07e248bae5927e83fdad9500", null ],
+    [ "ClientPacket", "d1/d80/a11013.html#a1cdaaacca2695c4366647c7611073ff0", null ],
+    [ "GetOpcode", "d1/d80/a11013.html#aa51558bb8faa96a665fe40b1bddf9d14", null ],
+    [ "Write", "d1/d80/a11013.html#a16e5b9fa05e35fa1e32e33bef2688487", null ]
 ];

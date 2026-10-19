@@ -1,7 +1,8 @@
 var a21629 =
 [
-    [ "npc_azure_stalker", "dc/def/a21629.html#a12d5ae337c0c494f751ebe14b365c0f9", null ],
-    [ "Reset", "dc/def/a21629.html#a0e6e6b30e79f5e68ed9800f405f38d84", null ],
-    [ "UpdateAI", "dc/def/a21629.html#a22352aad7c55a4d454b9732469395139", null ],
-    [ "_events", "dc/def/a21629.html#ad83249d787d2f763ac2d01723ff305ef", null ]
+    [ "boss_moragg", "dc/def/a21629.html#a42d2508369286e5e635d47cce0b939f4", null ],
+    [ "EnterEvadeMode", "dc/def/a21629.html#a0ac597810a43e30c2cffcc4c878a9998", null ],
+    [ "ExecuteEvent", "dc/def/a21629.html#a945fbf776bb47484d7a4434ee3a630ed", null ],
+    [ "JustEngagedWith", "dc/def/a21629.html#a29da7214373c1919b65f3512655c8bc3", null ],
+    [ "MoveInLineOfSight", "dc/def/a21629.html#ab70b1a6d9c05e191880f0532b775c6f2", null ]
 ];

@@ -1,16 +1,16 @@
 var a04904 =
 [
-    [ "Log", "d1/dc7/a05733.html", "d1/dc7/a05733" ],
-    [ "LOG_DEBUG", "df/d8c/a04904.html#a47ac782b14a7531c6232777165a1a161", null ],
-    [ "LOG_ERROR", "df/d8c/a04904.html#a43832e3fa8508deb4ce43e520005fcd9", null ],
-    [ "LOG_FATAL", "df/d8c/a04904.html#a0e09b50c268dc6897a1c70aa46de936e", null ],
-    [ "LOG_GM", "df/d8c/a04904.html#aeeb132f13796dfa459eb05386acff8fe", null ],
-    [ "LOG_INFO", "df/d8c/a04904.html#a271e427d8e8481efd5cd5f537ec9e419", null ],
-    [ "LOG_MESSAGE_BODY", "df/d8c/a04904.html#a1ce833e7403b29687774e0539da6f4b9", null ],
-    [ "LOG_TRACE", "df/d8c/a04904.html#ac0b4843dd5a1f2e3b7aaa7dbc9dc8ba5", null ],
-    [ "LOG_WARN", "df/d8c/a04904.html#adf09840a666e1d86bcd3439105db6edc", null ],
-    [ "LOGGER_ROOT", "df/d8c/a04904.html#a6f9b401329ff7cf191e6b1801caeb441", null ],
-    [ "sLog", "df/d8c/a04904.html#ab5487500f5b4b12072043104b916d582", null ],
-    [ "AppenderCreatorFn", "df/d8c/a04904.html#a1db7ef47a6d7bf4560a30c8b7e9f6a37", null ],
-    [ "CreateAppender", "df/d8c/a04904.html#ae5d709e10423806fa5331696a9bbd657", null ]
+    [ "DBCFileLoader", "d3/d99/a05585.html", "d3/d99/a05585" ],
+    [ "DBCFileLoader::Record", "d0/de1/a05589.html", "d0/de1/a05589" ],
+    [ "DbcFieldFormat", "df/d8c/a04904.html#a969264ba91452f632e809db524c68960", [
+      [ "FT_NA", "df/d8c/a04904.html#a969264ba91452f632e809db524c68960a0f8a37a34dd644e8432e79266f8e2f8c", null ],
+      [ "FT_NA_BYTE", "df/d8c/a04904.html#a969264ba91452f632e809db524c68960a974d335432036bc88ad76f044e8fca0c", null ],
+      [ "FT_STRING", "df/d8c/a04904.html#a969264ba91452f632e809db524c68960a424189c585691c2ce732ea69a88f4f29", null ],
+      [ "FT_FLOAT", "df/d8c/a04904.html#a969264ba91452f632e809db524c68960a1091cfb22d5ff81a81948a92b96f8e9a", null ],
+      [ "FT_INT", "df/d8c/a04904.html#a969264ba91452f632e809db524c68960a9d5724546fec2b9d79741da7d3a8030a", null ],
+      [ "FT_BYTE", "df/d8c/a04904.html#a969264ba91452f632e809db524c68960ae268574ec5607a27ec940656742b2095", null ],
+      [ "FT_SORT", "df/d8c/a04904.html#a969264ba91452f632e809db524c68960a496dcb8cfc6d702d15b9a603b242a642", null ],
+      [ "FT_IND", "df/d8c/a04904.html#a969264ba91452f632e809db524c68960a0e7ef1f172d0c33a975fbda2be046036", null ],
+      [ "FT_LOGIC", "df/d8c/a04904.html#a969264ba91452f632e809db524c68960aad79cbf0ed6b926353344f5abde2e4cc", null ]
+    ] ]
 ];

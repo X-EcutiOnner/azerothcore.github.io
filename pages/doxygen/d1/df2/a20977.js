@@ -1,8 +1,11 @@
 var a20977 =
 [
-    [ "npc_life_spark", "d1/df2/a20977.html#a76bbbdc610dbc433007930c7a45d03be", null ],
-    [ "JustEngagedWith", "d1/df2/a20977.html#af4111bf747f0d5c510f72f32d42f90e3", null ],
-    [ "Reset", "d1/df2/a20977.html#a3c5b0ee2fac3bc444cc3c58e70284b72", null ],
-    [ "UpdateAI", "d1/df2/a20977.html#a3dffda7a220e41302b928f55995d4dce", null ],
-    [ "_scheduler", "d1/df2/a20977.html#a7e77d71508031a75655db8aaa34d0f9d", null ]
+    [ "boss_thorim_arena_npcs", "d1/df2/a20977.html#a849567e412254aa8d0d7da33b6b1522f", null ],
+    [ "CanAIAttack", "d1/df2/a20977.html#aa4f90aadf8a9705fea03433195d41ad0", null ],
+    [ "JustEngagedWith", "d1/df2/a20977.html#a2f23cddcf5a0db42ba24730dfbe54976", null ],
+    [ "Reset", "d1/df2/a20977.html#a7b118ec6fa25c0f452419d1f5b4a698f", null ],
+    [ "SelectT", "d1/df2/a20977.html#a3fa38189c886a486aabb39a372834938", null ],
+    [ "UpdateAI", "d1/df2/a20977.html#a6a8489763ca223c749aa71c2da05b3cf", null ],
+    [ "_isCaster", "d1/df2/a20977.html#abfd184437df3983659a9ae21a13638fb", null ],
+    [ "events", "d1/df2/a20977.html#aad99dd6ca7d3595222ce42b5b859e462", null ]
 ];

@@ -1,6 +1,7 @@
 var a20169 =
 [
-    [ "go_celestial_planetarium_accessAI", "da/d12/a20173.html", "da/d12/a20173" ],
-    [ "go_celestial_planetarium_access", "d5/d7c/a20169.html#a20b7c895dd0fc2cb37bf3c113bf91278", null ],
-    [ "GetAI", "d5/d7c/a20169.html#a4fc9ac64f7dceefbdda02297f7dfc42b", null ]
+    [ "HandleEffectRemove", "d5/d7c/a20169.html#af61220cb739baef9b33aecddb1cfe5ea", null ],
+    [ "PrepareAuraScript", "d5/d7c/a20169.html#ad8035b1b676751fcc299e4ad8df62ed8", null ],
+    [ "Register", "d5/d7c/a20169.html#abe52dbfdbd42c860e0a79873dd19e22d", null ],
+    [ "Validate", "d5/d7c/a20169.html#a7c4f9df92b501720e30372fa9e9dbad7", null ]
 ];

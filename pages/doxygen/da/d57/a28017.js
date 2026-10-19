@@ -1,8 +1,6 @@
 var a28017 =
 [
-    [ "HandleDamage", "da/d57/a28017.html#a371d3112e619453b7c92933a145bf4d2", null ],
-    [ "HandleDummy", "da/d57/a28017.html#a051f68946f3c246b410bbaa2ac14e4b1", null ],
-    [ "PrepareSpellScript", "da/d57/a28017.html#a41d69ed3f8372c4e157aefbec6ad525c", null ],
-    [ "Register", "da/d57/a28017.html#aaa1e53f38a2ba835c12fa726c030ab08", null ],
-    [ "Validate", "da/d57/a28017.html#a180ab99bc257b841e0bbbfc0ddb83814", null ]
+    [ "HandleOnHit", "da/d57/a28017.html#a94893e6dd048f0028540e5ce15ed7b1d", null ],
+    [ "PrepareSpellScript", "da/d57/a28017.html#a999b019665dec9b0690a1019be428072", null ],
+    [ "Register", "da/d57/a28017.html#ab21c47d1918a9e29ebe7b041421deaf7", null ]
 ];

@@ -1,5 +1,5 @@
 var a28205 =
 [
-    [ "AreaTrigger_at_nats_landing", "da/d41/a28205.html#ac366e5b1db489b4f8bb8a1d07caa83c2", null ],
-    [ "OnTrigger", "da/d41/a28205.html#a67434f74300fa3463e679afb7d344467", null ]
+    [ "achievement_tilted", "da/d41/a28205.html#a868d7b8a437434d6dc34b5000c429e66", null ],
+    [ "OnCheck", "da/d41/a28205.html#a61d3eb78450383485699532d96f79d93", null ]
 ];

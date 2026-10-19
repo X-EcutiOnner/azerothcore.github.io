@@ -1,6 +1,5 @@
 var a13545 =
 [
-    [ "instance_magisters_terrace_InstanceMapScript", "d5/dd1/a13549.html", "d5/dd1/a13549" ],
-    [ "instance_magisters_terrace", "d8/d26/a13545.html#a81e23ce04c4d765193d2d2763ef78987", null ],
-    [ "GetInstanceScript", "d8/d26/a13545.html#a465cbaebb13535cdb7f6a2108e026fc5", null ]
+    [ "boss_ellris_duskhallow", "d8/d26/a13545.html#a85dc1f923c8211180cc5b250fb509ba7", null ],
+    [ "JustEngagedWith", "d8/d26/a13545.html#a5bb5bc51b62ad371bf086c6ced2eee89", null ]
 ];

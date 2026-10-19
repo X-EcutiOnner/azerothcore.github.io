@@ -1,7 +1,6 @@
 var a16701 =
 [
-    [ "HandleScriptEffect", "d2/dd7/a16701.html#a9582a8faa1b8ba973a76d651a7479348", null ],
-    [ "PrepareSpellScript", "d2/dd7/a16701.html#a681102507df3aa365ee2e2f064be5e54", null ],
-    [ "Register", "d2/dd7/a16701.html#aebfea5eb3339ede812b43a08a8cb82b9", null ],
-    [ "Validate", "d2/dd7/a16701.html#ae4a5c7952856caf2a2d3919b24b61949", null ]
+    [ "npc_orb_carrierAI", "dd/d9a/a16705.html", "dd/d9a/a16705" ],
+    [ "npc_orb_carrier", "d2/dd7/a16701.html#a69fdd8cb2f0cdf7cf6cf0bdabbc0cd03", null ],
+    [ "GetAI", "d2/dd7/a16701.html#ab5b7bbffc43b840c686dc889805ea401", null ]
 ];

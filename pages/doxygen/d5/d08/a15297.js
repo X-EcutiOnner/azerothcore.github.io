@@ -1,10 +1,7 @@
 var a15297 =
 [
-    [ "npc_hyjal_frost_wyrm", "d5/d08/a15297.html#a7cdc8ef87d5ccb88777fa823e199b9ce", null ],
-    [ "AttackStart", "d5/d08/a15297.html#abaaea3bcbb8806ed9d807742273eb06d", null ],
-    [ "DoAction", "d5/d08/a15297.html#adab2b42c582cee234aea37d187b66138", null ],
-    [ "JustEngagedWith", "d5/d08/a15297.html#a23dace13bb2811dea43b63f0b970a2ce", null ],
-    [ "PathEndReached", "d5/d08/a15297.html#a2ec3137dad743e4766ca402282d913c7", null ],
-    [ "Reset", "d5/d08/a15297.html#a550c20113f4ebe4015f9a8088888f99b", null ],
-    [ "UpdateAI", "d5/d08/a15297.html#a182c3b440f74a4ebe6dee64651bf701f", null ]
+    [ "hyjalThrallAI", "da/dd4/a15301.html", "da/dd4/a15301" ],
+    [ "npc_hyjal_thrall", "d5/d08/a15297.html#a232f085f208a47f7fae08128de1d06b8", null ],
+    [ "GetAI", "d5/d08/a15297.html#a699b5df19e4e84166348ecfba2dd0172", null ],
+    [ "OnGossipSelect", "d5/d08/a15297.html#af833f26d79d34655c010aa04f984a94a", null ]
 ];

@@ -1,4 +1,4 @@
 var a03932 =
 [
-    [ "ScriptRegistry< UnitScript >", "de/dce/a03932.html#aced42ee6099fa72848b9b4aef527ebc3", null ]
+    [ "ScriptRegistry< GlobalScript >", "de/dce/a03932.html#aab5e9d371cdc72eb5a60f210f00cdc34", null ]
 ];

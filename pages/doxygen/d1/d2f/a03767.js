@@ -1,9 +1,6 @@
 var a03767 =
 [
-    [ "RandomMovementGenerator< T >", "da/d0d/a10539.html", "da/d0d/a10539" ],
-    [ "MAX_PATH_LENGHT_FACTOR", "d1/d2f/a03767.html#a6e563601030e3152f7023ecd4fa3f3c7", null ],
-    [ "MIN_WANDER_DISTANCE_AIR", "d1/d2f/a03767.html#a81b46c6e5a328cf46ead22b160a8a576", null ],
-    [ "MIN_WANDER_DISTANCE_GROUND", "d1/d2f/a03767.html#a85e56933db548199999e1edb8e96836d", null ],
-    [ "RANDOM_LINKS_COUNT", "d1/d2f/a03767.html#af447061c654f18b25537973f2739dad3", null ],
-    [ "RANDOM_POINTS_NUMBER", "d1/d2f/a03767.html#ac0f6eaac315a81192c2307dcbac20f70", null ]
+    [ "MAX_QUIET_DISTANCE", "d1/d2f/a03767.html#a9738c927d0a0b9da431824ab69a5988a", null ],
+    [ "MIN_PATH_LENGTH", "d1/d2f/a03767.html#aa1f2b73706ddb69d07dbdc87257f010f", null ],
+    [ "MIN_QUIET_DISTANCE", "d1/d2f/a03767.html#ad1ba65a06a9ac4ab2293efde8be35403", null ]
 ];

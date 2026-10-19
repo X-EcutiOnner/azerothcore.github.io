@@ -1,6 +1,8 @@
 var a18953 =
 [
-    [ "boss_valithria_dreamwalkerAI", "d4/d36/a18957.html", "d4/d36/a18957" ],
-    [ "boss_valithria_dreamwalker", "da/d33/a18953.html#afcc6dc92d94330d3aed67f71452f9cd2", null ],
-    [ "GetAI", "da/d33/a18953.html#a0f0bacefa7e3d682a5db81a14f2ff947", null ]
+    [ "npc_lk_spirit_bombAI", "da/d33/a18953.html#a366fb54e68c0e603000183cd68daf6b7", null ],
+    [ "IsSummonedBy", "da/d33/a18953.html#a9b3de8c6e2006a19ee1289455163f52c", null ],
+    [ "MovementInform", "da/d33/a18953.html#a0e4aa94a199439962095c1d2026b2a5f", null ],
+    [ "UpdateAI", "da/d33/a18953.html#a61b4f7c3a1dd9b9b2850b05f2117e55a", null ],
+    [ "timer", "da/d33/a18953.html#aa0d370113b753127d4f0fd7bd3a3ba11", null ]
 ];

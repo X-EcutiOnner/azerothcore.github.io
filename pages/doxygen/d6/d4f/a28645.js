@@ -1,8 +1,11 @@
 var a28645 =
 [
-    [ "npc_chicken_cluckAI", "df/dc6/a28649.html", "df/dc6/a28649" ],
-    [ "npc_chicken_cluck", "d6/d4f/a28645.html#a7bc08c81fca730886c47e0f3a3d8062c", null ],
-    [ "GetAI", "d6/d4f/a28645.html#abf986f555672823477c3c17e0f59bdbe", null ],
-    [ "OnQuestAccept", "d6/d4f/a28645.html#acca62c027b5b0cdff107e04cf2c276ea", null ],
-    [ "OnQuestComplete", "d6/d4f/a28645.html#a8f22520166a557e066502eb16bdae774", null ]
+    [ "npc_franklinAI", "d6/d4f/a28645.html#a8385d2e39f2d051553cf84a54f3bc5ad", null ],
+    [ "DamageTaken", "d6/d4f/a28645.html#afa494098126ce3291e234cfc2b36336f", null ],
+    [ "JustEngagedWith", "d6/d4f/a28645.html#ab15fc7bcd912a6c583d4c219ba37c756", null ],
+    [ "Reset", "d6/d4f/a28645.html#a51a260460facf06ec6bb1486f434d885", null ],
+    [ "ScheduleEncounterStart", "d6/d4f/a28645.html#a2dcd6d0467eada6bd0d244e275c07d22", null ],
+    [ "SpellHit", "d6/d4f/a28645.html#aed6b5cfccbbe258f501b2da5c9dadb40", null ],
+    [ "UpdateAI", "d6/d4f/a28645.html#a8c3158b1e6c482dd82a6326954b8bbc5", null ],
+    [ "events", "d6/d4f/a28645.html#a2f72f9659aa62f80c5d8159df0d14e9f", null ]
 ];

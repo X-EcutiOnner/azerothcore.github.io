@@ -1,8 +1,20 @@
 var a23829 =
 [
-    [ "npc_warchief_portal", "dd/d6c/a23829.html#a1a52395a5ae66f5cc5f92c6d4ce81893", null ],
-    [ "JustSummoned", "dd/d6c/a23829.html#ad90c834dc059040f3922f58dc3bcf4a2", null ],
-    [ "SetData", "dd/d6c/a23829.html#a538ab8c6e7683aa02e8c75f9dd900be8", null ],
-    [ "UpdateAI", "dd/d6c/a23829.html#a8c400cf1b9f41696807e11f1f135c0ad", null ],
-    [ "_scheduler", "dd/d6c/a23829.html#a76bb6a89f0922ed0bc0289ee4e0f20d4", null ]
+    [ "instance_magtheridons_lair_InstanceMapScript", "dd/d6c/a23829.html#a06f7e0f178d45a92f16dc06b68645fba", null ],
+    [ "Initialize", "dd/d6c/a23829.html#afa054fb11fe777019baa70f46bfd8212", null ],
+    [ "IsAnyChannelerAlive", "dd/d6c/a23829.html#a6cfc7ec365ab5c5d8ec9d257bca59a48", null ],
+    [ "OnCreatureCreate", "dd/d6c/a23829.html#aa05f08785d9d62db41e8d29ef55db0d8", null ],
+    [ "OnCreatureEvade", "dd/d6c/a23829.html#a3a757de295ca8b11d3bdf5452a859489", null ],
+    [ "OnCreatureRemove", "dd/d6c/a23829.html#a727d4d3bfc52391a088e86fef013617c", null ],
+    [ "OnGameObjectCreate", "dd/d6c/a23829.html#a020584d79926d170c02655c5e2841127", null ],
+    [ "OnGameObjectRemove", "dd/d6c/a23829.html#a9a6ac60b68e2a515e771696c5c88b93d", null ],
+    [ "OnUnitDeath", "dd/d6c/a23829.html#a9c5e797960f924ddb60d0730ebd2463c", null ],
+    [ "SetBossState", "dd/d6c/a23829.html#a160269f8d4cde5297d5f70a5f8eec2b2", null ],
+    [ "SetData", "dd/d6c/a23829.html#a847abafb7b00e9b2cab73a90a16b959e", null ],
+    [ "_burningAbyssalsSet", "dd/d6c/a23829.html#a9b616072e8775a10db1c10d0438eb19a", null ],
+    [ "_channelersSet", "dd/d6c/a23829.html#a7921231ff7314d1370dffc63e1815e16", null ],
+    [ "_columnSet", "dd/d6c/a23829.html#a2593bf88b0aba019a831b3ca6a8e15b9", null ],
+    [ "_cubesSet", "dd/d6c/a23829.html#ad59566c515cbea3274d17e483f3b4ef1", null ],
+    [ "_magtheridonGUID", "dd/d6c/a23829.html#a03e70ccaf8c23d2c775051320c6c4636", null ],
+    [ "_wardersSet", "dd/d6c/a23829.html#a37b2621d50e8a8f0bee3f089dbce88f9", null ]
 ];

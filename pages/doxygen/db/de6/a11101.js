@@ -1,7 +1,7 @@
 var a11101 =
 [
-    [ "QueryGuildInfoResponse", "db/de6/a11101.html#ae1f7b9f33e36821477a19439a3d4065d", null ],
-    [ "Write", "db/de6/a11101.html#abda9452eba38e76c460f910eb3aad5fa", null ],
-    [ "GuildId", "db/de6/a11101.html#a04eec0531238fa55a91afa11c394fbce", null ],
-    [ "Info", "db/de6/a11101.html#a749e992a19264b259f62d403b4925abe", null ]
+    [ "ChatServerMessage", "db/de6/a11101.html#aa649857ceeba6b2f9e060f7d502cdb7a", null ],
+    [ "Write", "db/de6/a11101.html#af8bad4d39693290674bda2e2ad8685bf", null ],
+    [ "MessageID", "db/de6/a11101.html#afde854fc17313d214fa0f0cdc48ca9a9", null ],
+    [ "StringParam", "db/de6/a11101.html#ac39a08d84c8f5934d0fe26e91809e60a", null ]
 ];

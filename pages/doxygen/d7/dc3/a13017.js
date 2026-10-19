@@ -1,9 +1,7 @@
 var a13017 =
 [
-    [ "FilterTargets", "d7/dc3/a13017.html#ae1029dd58a48c099e8bbd071898f1b12", null ],
-    [ "HandleOnHitRogue", "d7/dc3/a13017.html#a57cd6d2c45a9a73bb284272db21d1fce", null ],
-    [ "HandleOnHitWarlock", "d7/dc3/a13017.html#a76f9e5e11a6f2e25868dba567d798002", null ],
-    [ "PrepareSpellScript", "d7/dc3/a13017.html#a4792a25aa6fe6126a94900784798dbee", null ],
-    [ "Register", "d7/dc3/a13017.html#a0f6146c64a86e953c042f8404bbfe683", null ],
-    [ "Validate", "d7/dc3/a13017.html#af65d372cdbb365eff73edb8cf18734c8", null ]
+    [ "HandleScript", "d7/dc3/a13017.html#ac6ef94a03f602b44a5c7c22b7e41d116", null ],
+    [ "PrepareSpellScript", "d7/dc3/a13017.html#ad92a56c23b9f15e36766fe64d1d0dd17", null ],
+    [ "Register", "d7/dc3/a13017.html#aa8ad85cbf0403d79e55bbe0ae184407b", null ],
+    [ "Validate", "d7/dc3/a13017.html#a3ad038e7bf43dceedb0fceebd4070bfa", null ]
 ];

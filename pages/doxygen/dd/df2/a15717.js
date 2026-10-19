@@ -1,9 +1,5 @@
 var a15717 =
 [
-    [ "npc_giant_eye_tentacle", "dd/df2/a15717.html#a1adebf586a8a4413bb048936b90ddd3c", null ],
-    [ "JustDied", "dd/df2/a15717.html#a72cac50a711868256a41c543d0cef3da", null ],
-    [ "JustEngagedWith", "dd/df2/a15717.html#ac26b16e709e62c429b7ca88815bbc4cd", null ],
-    [ "Reset", "dd/df2/a15717.html#a4e605a585099d136d8f6bd42b6450f1d", null ],
-    [ "UpdateAI", "dd/df2/a15717.html#aacae6ea2616af2ad9515167fc1bab61d", null ],
-    [ "_portalGUID", "dd/df2/a15717.html#af9784b6d00e50ec28ed27361aaf3442f", null ]
+    [ "boss_yauj", "dd/df2/a15717.html#a15ab7b6b35d29fb1552b11586163320e", null ],
+    [ "JustEngagedWith", "dd/df2/a15717.html#a94a2fa960e6924bde9ba6934a56ed684", null ]
 ];

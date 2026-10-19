@@ -1,7 +1,6 @@
 var a27773 =
 [
-    [ "HandleProc", "d9/d10/a27773.html#aa28268bdb7e3063cff0880baefe02824", null ],
-    [ "PrepareAuraScript", "d9/d10/a27773.html#a8b19c9d128d568be695f985e5ed28b2d", null ],
-    [ "Register", "d9/d10/a27773.html#a5a0f0e1558c1d4c687b94fe8874512ef", null ],
-    [ "Validate", "d9/d10/a27773.html#a8461f9dc90d1df9a91350d3e277fffeb", null ]
+    [ "PeriodicTick", "d9/d10/a27773.html#a8765e8f662c4279669c955108ff356e3", null ],
+    [ "PrepareAuraScript", "d9/d10/a27773.html#a15f077618950e4526ffcee9ee172d89f", null ],
+    [ "Register", "d9/d10/a27773.html#aeeca3a2be368025147702c4aa8c518ce", null ]
 ];

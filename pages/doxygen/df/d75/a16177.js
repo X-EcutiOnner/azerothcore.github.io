@@ -1,8 +1,6 @@
 var a16177 =
 [
-    [ "npc_kaya_flathoofAI", "df/d75/a16177.html#a3b43992dfeeb7b3b19e777b9629c55ce", null ],
-    [ "JustSummoned", "df/d75/a16177.html#ac365753a428009f4fc4d01ead8fe46fd", null ],
-    [ "Reset", "df/d75/a16177.html#af9be00be9867622a16103bd21311327f", null ],
-    [ "WaypointReached", "df/d75/a16177.html#a8fcbb19279b925138ba96d2a450fc404", null ],
-    [ "WaypointReached", "df/d75/a16177.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "npc_qiraj_war_spawnAI", "d5/d74/a16181.html", "d5/d74/a16181" ],
+    [ "npc_qiraj_war_spawn", "df/d75/a16177.html#a2afba33e9fd879ac3fea206768b14334", null ],
+    [ "GetAI", "df/d75/a16177.html#a32339f20251c188b895c02b6cc9217e9", null ]
 ];

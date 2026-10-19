@@ -1,8 +1,11 @@
 var a17457 =
 [
-    [ "npc_hor_lumbering_abomination", "d8/d30/a17457.html#a08ae4bc9025a4bfbe91d39d256e34060", null ],
-    [ "JustDied", "d8/d30/a17457.html#ae8fca8b5f86fe5cba1b4de2aaac6cf61", null ],
-    [ "JustEngagedWith", "d8/d30/a17457.html#a5380771abba095749e1e0b30fe070a73", null ],
-    [ "Reset", "d8/d30/a17457.html#afd56b698fac5f7f13e718d645608213f", null ],
-    [ "UpdateAI", "d8/d30/a17457.html#a79e99c86f54a4fc7cbcf98e2a08e62ed", null ]
+    [ "npc_spectral_footman", "d8/d30/a17457.html#ab12174cbf246178b52c074024453015e", null ],
+    [ "AttackStart", "d8/d30/a17457.html#a0fe7529c47d56f67b15023bc432f0498", null ],
+    [ "DoAction", "d8/d30/a17457.html#a9a81be4f5c159e64ba0f8926ea095f81", null ],
+    [ "EnterEvadeMode", "d8/d30/a17457.html#afc51e0562045028af7161ea66e7be9f0", null ],
+    [ "JustDied", "d8/d30/a17457.html#ae4292ffa4b9e142b41e58d31338b97b5", null ],
+    [ "JustEngagedWith", "d8/d30/a17457.html#a9d8d723b403035660b78c332d5813d3f", null ],
+    [ "Reset", "d8/d30/a17457.html#a1c3612a7d9ac3076392c5c22e4e0a73e", null ],
+    [ "UpdateAI", "d8/d30/a17457.html#af76de9237937199dfa715a445b0060c3", null ]
 ];

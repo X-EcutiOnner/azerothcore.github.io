@@ -1,6 +1,6 @@
 var a28081 =
 [
-    [ "HandleProc", "de/d10/a28081.html#a6b321d6ee3002f32b546aeaed0925183", null ],
-    [ "PrepareAuraScript", "de/d10/a28081.html#a4186315ab8fa250fd108c2de1c650f9e", null ],
-    [ "Register", "de/d10/a28081.html#a3817a49fbcac2d70ded5a39b3cce8ea7", null ]
+    [ "FilterTargets", "de/d10/a28081.html#a6224b3193474f569d09edaf29b40c2fb", null ],
+    [ "PrepareSpellScript", "de/d10/a28081.html#ad7478a1a70ebc52eda1c57dd4f143b67", null ],
+    [ "Register", "de/d10/a28081.html#a2fab1592d19331239b1ef63045389886", null ]
 ];

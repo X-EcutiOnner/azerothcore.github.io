@@ -1,5 +1,6 @@
 var a12749 =
 [
-    [ "amount", "d0/d98/a12749.html#a35b1ecbfecae77f1cb7a0a52eafc5f7b", null ],
-    [ "entry", "d0/d98/a12749.html#ac3d4d211ebb927b1b9a376ee956e1b26", null ]
+    [ "boss_drektharAI", "da/d97/a12753.html", "da/d97/a12753" ],
+    [ "boss_drekthar", "d0/d98/a12749.html#ac9296654b10191ac9d58219ba36f57b3", null ],
+    [ "GetAI", "d0/d98/a12749.html#adeacbbc81ab675260c2cac1a6c76d3fe", null ]
 ];

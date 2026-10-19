@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: SpellDiminishInfo Struct Reference</title>
+<title>AzerothCore: Acore::WorldObjectSpellConeTargetCheck Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,80 +105,197 @@ $(document).ready(function(){initNavTree('d5/d0b/a11989.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
+<a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d9/d02/a11986.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">SpellDiminishInfo Struct Reference</div></div>
+  <div class="headertitle"><div class="title">Acore::WorldObjectSpellConeTargetCheck Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">SpellInfo.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">Spell.h</a>&quot;</code></p>
+<div class="dynheader">
+Inheritance diagram for Acore::WorldObjectSpellConeTargetCheck:</div>
+<div class="dyncontent">
+ <div class="center">
+  <img src="../../d5/d0b/a11989.png" usemap="#Acore::WorldObjectSpellConeTargetCheck_map" alt=""/>
+  <map id="Acore::WorldObjectSpellConeTargetCheck_map" name="Acore::WorldObjectSpellConeTargetCheck_map">
+<area href="../../de/ddf/a11985.html" alt="Acore::WorldObjectSpellAreaTargetCheck" shape="rect" coords="0,56,253,80"/>
+<area href="../../d6/d82/a11977.html" alt="Acore::WorldObjectSpellTargetCheck" shape="rect" coords="0,0,253,24"/>
+  </map>
+</div></div>
 <table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:a2fc41ec89b1887f33b0e3932807e7159"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d0b/a11989.html#a2fc41ec89b1887f33b0e3932807e7159">WorldObjectSpellConeTargetCheck</a> (float coneAngle, float range, <a class="el" href="../../d6/d13/a08897.html">WorldObject</a> *caster, <a class="el" href="../../df/d0b/a12037.html">SpellInfo</a> const *spellInfo, <a class="el" href="../../d6/d95/a02726.html#a392c69714f880d43f8afb5510ba1fff7">SpellTargetCheckTypes</a> selectionType, <a class="el" href="../../db/db0/a03722.html#ae942a8e25dc24ce42e62625bb583c0dd">ConditionList</a> *condList)</td></tr>
+<tr class="separator:a2fc41ec89b1887f33b0e3932807e7159"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac66207a4d1dbc9f59269127ee91f0657"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d0b/a11989.html#ac66207a4d1dbc9f59269127ee91f0657">operator()</a> (<a class="el" href="../../d6/d13/a08897.html">WorldObject</a> *target)</td></tr>
+<tr class="separator:ac66207a4d1dbc9f59269127ee91f0657"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_methods_a11985"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a11985')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../de/ddf/a11985.html">Acore::WorldObjectSpellAreaTargetCheck</a></td></tr>
+<tr class="memitem:a27df2d4c2d8c39b06a3e11681e16876e inherit pub_methods_a11985"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/ddf/a11985.html#a27df2d4c2d8c39b06a3e11681e16876e">WorldObjectSpellAreaTargetCheck</a> (float range, <a class="el" href="../../d2/dc7/a08945.html">Position</a> const *position, <a class="el" href="../../d6/d13/a08897.html">WorldObject</a> *caster, <a class="el" href="../../d6/d13/a08897.html">WorldObject</a> *referer, <a class="el" href="../../df/d0b/a12037.html">SpellInfo</a> const *spellInfo, <a class="el" href="../../d6/d95/a02726.html#a392c69714f880d43f8afb5510ba1fff7">SpellTargetCheckTypes</a> selectionType, <a class="el" href="../../db/db0/a03722.html#ae942a8e25dc24ce42e62625bb583c0dd">ConditionList</a> *condList, <a class="el" href="../../d0/dbf/a05124.html#a5f5f9b21657494ac28217867f6f20a9d">Acore::WorldObjectSpellAreaTargetSearchReason</a> searchReason=<a class="el" href="../../d0/dbf/a05124.html#a5f5f9b21657494ac28217867f6f20a9dadeec4ff19974f12ed781cb9a59064214">Acore::WorldObjectSpellAreaTargetSearchReason::Area</a>, <a class="el" href="../../d6/d95/a02726.html#ae160272dac6c37cf297c68db99d9c987">SpellTargetReferenceTypes</a> referenceType=<a class="el" href="../../d6/d95/a02726.html#ae160272dac6c37cf297c68db99d9c987aba1fa2b8ede36a4ce60ee903eb8eeda5">TARGET_REFERENCE_TYPE_CASTER</a>)</td></tr>
+<tr class="separator:a27df2d4c2d8c39b06a3e11681e16876e inherit pub_methods_a11985"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a36a7194e3ffbdc2ea1c4bd5ed5997da4 inherit pub_methods_a11985"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/ddf/a11985.html#a36a7194e3ffbdc2ea1c4bd5ed5997da4">operator()</a> (<a class="el" href="../../d6/d13/a08897.html">WorldObject</a> *target)</td></tr>
+<tr class="separator:a36a7194e3ffbdc2ea1c4bd5ed5997da4 inherit pub_methods_a11985"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_methods_a11977"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a11977')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d6/d82/a11977.html">Acore::WorldObjectSpellTargetCheck</a></td></tr>
+<tr class="memitem:ac3ba0666906f8ff4993dd3551cc73ce2 inherit pub_methods_a11977"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d82/a11977.html#ac3ba0666906f8ff4993dd3551cc73ce2">WorldObjectSpellTargetCheck</a> (<a class="el" href="../../d6/d13/a08897.html">WorldObject</a> *caster, <a class="el" href="../../d6/d13/a08897.html">WorldObject</a> *referer, <a class="el" href="../../df/d0b/a12037.html">SpellInfo</a> const *spellInfo, <a class="el" href="../../d6/d95/a02726.html#a392c69714f880d43f8afb5510ba1fff7">SpellTargetCheckTypes</a> selectionType, <a class="el" href="../../db/db0/a03722.html#ae942a8e25dc24ce42e62625bb583c0dd">ConditionList</a> *condList)</td></tr>
+<tr class="separator:ac3ba0666906f8ff4993dd3551cc73ce2 inherit pub_methods_a11977"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1d519b04f171d230b21da3cc637497cf inherit pub_methods_a11977"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d82/a11977.html#a1d519b04f171d230b21da3cc637497cf">~WorldObjectSpellTargetCheck</a> ()</td></tr>
+<tr class="separator:a1d519b04f171d230b21da3cc637497cf inherit pub_methods_a11977"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2ae263977948d2195b22a737c36bad20 inherit pub_methods_a11977"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d82/a11977.html#a2ae263977948d2195b22a737c36bad20">operator()</a> (<a class="el" href="../../d6/d13/a08897.html">WorldObject</a> *target)</td></tr>
+<tr class="separator:a2ae263977948d2195b22a737c36bad20 inherit pub_methods_a11977"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:ad48e4fbc6984602d0196accea51867de"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/d3f/a00173.html#a1d74b2169d9a060490d81975a3064f50">DiminishingGroup</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d0b/a11989.html#ad48e4fbc6984602d0196accea51867de">DiminishGroup</a> = <a class="el" href="../../d7/d3f/a00173.html#a1d74b2169d9a060490d81975a3064f50a463a6938a384ecb8e81ea00f8a66a85c">DIMINISHING_NONE</a></td></tr>
-<tr class="separator:ad48e4fbc6984602d0196accea51867de"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a64a6fc19521245f1145ab6c769175803"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/d3f/a00173.html#acc1ff89f53e83d6c8146a6989a5cba5b">DiminishingReturnsType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d0b/a11989.html#a64a6fc19521245f1145ab6c769175803">DiminishReturnType</a> = <a class="el" href="../../d7/d3f/a00173.html#acc1ff89f53e83d6c8146a6989a5cba5ba1f86ae6ed27da5cb0cf59b6510abb5ea">DRTYPE_NONE</a></td></tr>
-<tr class="separator:a64a6fc19521245f1145ab6c769175803"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4b04f3f569b5b73d2f8a9eda429c3f5d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/dca/a04670.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d0b/a11989.html#a4b04f3f569b5b73d2f8a9eda429c3f5d">DiminishMaxLevel</a> = 3</td></tr>
-<tr class="separator:a4b04f3f569b5b73d2f8a9eda429c3f5d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a18e94b40a8746c854b2fcca37ceb14f6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/dca/a04670.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d0b/a11989.html#a18e94b40a8746c854b2fcca37ceb14f6">DiminishDurationLimit</a> = 0</td></tr>
-<tr class="separator:a18e94b40a8746c854b2fcca37ceb14f6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8f946789292320ea8b205dec5d1e1975"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d0b/a11989.html#a8f946789292320ea8b205dec5d1e1975">_coneAngle</a></td></tr>
+<tr class="separator:a8f946789292320ea8b205dec5d1e1975"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_attribs_a11985"><td colspan="2" onclick="javascript:toggleInherit('pub_attribs_a11985')"><img src="../../closed.png" alt="-"/>&#160;Public Attributes inherited from <a class="el" href="../../de/ddf/a11985.html">Acore::WorldObjectSpellAreaTargetCheck</a></td></tr>
+<tr class="memitem:a4ee3762b4a7f35d252cbb5337d61d92c inherit pub_attribs_a11985"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/ddf/a11985.html#a4ee3762b4a7f35d252cbb5337d61d92c">_range</a></td></tr>
+<tr class="separator:a4ee3762b4a7f35d252cbb5337d61d92c inherit pub_attribs_a11985"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a680c45dd148161657da011a1772375ca inherit pub_attribs_a11985"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dc7/a08945.html">Position</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/ddf/a11985.html#a680c45dd148161657da011a1772375ca">_position</a></td></tr>
+<tr class="separator:a680c45dd148161657da011a1772375ca inherit pub_attribs_a11985"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aad544cdfe9423a7967dfed64aeaed995 inherit pub_attribs_a11985"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/dbf/a05124.html#a5f5f9b21657494ac28217867f6f20a9d">Acore::WorldObjectSpellAreaTargetSearchReason</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/ddf/a11985.html#aad544cdfe9423a7967dfed64aeaed995">_searchReason</a></td></tr>
+<tr class="separator:aad544cdfe9423a7967dfed64aeaed995 inherit pub_attribs_a11985"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a87252b8b2dd0d38417c236718aadaa98 inherit pub_attribs_a11985"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d95/a02726.html#ae160272dac6c37cf297c68db99d9c987">SpellTargetReferenceTypes</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/ddf/a11985.html#a87252b8b2dd0d38417c236718aadaa98">_referenceType</a></td></tr>
+<tr class="separator:a87252b8b2dd0d38417c236718aadaa98 inherit pub_attribs_a11985"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_attribs_a11977"><td colspan="2" onclick="javascript:toggleInherit('pub_attribs_a11977')"><img src="../../closed.png" alt="-"/>&#160;Public Attributes inherited from <a class="el" href="../../d6/d82/a11977.html">Acore::WorldObjectSpellTargetCheck</a></td></tr>
+<tr class="memitem:ad6f0ab91ac6063294dcd8c5e3dc14e23 inherit pub_attribs_a11977"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d13/a08897.html">WorldObject</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d82/a11977.html#ad6f0ab91ac6063294dcd8c5e3dc14e23">_caster</a></td></tr>
+<tr class="separator:ad6f0ab91ac6063294dcd8c5e3dc14e23 inherit pub_attribs_a11977"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a789ebdb20d1c8aee99e8e759cdc1ada6 inherit pub_attribs_a11977"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d13/a08897.html">WorldObject</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d82/a11977.html#a789ebdb20d1c8aee99e8e759cdc1ada6">_referer</a></td></tr>
+<tr class="separator:a789ebdb20d1c8aee99e8e759cdc1ada6 inherit pub_attribs_a11977"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a66bd07338943ee307be19f22326b29b7 inherit pub_attribs_a11977"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/d0b/a12037.html">SpellInfo</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d82/a11977.html#a66bd07338943ee307be19f22326b29b7">_spellInfo</a></td></tr>
+<tr class="separator:a66bd07338943ee307be19f22326b29b7 inherit pub_attribs_a11977"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0e629a6fd0da179ea0c98c93d2337603 inherit pub_attribs_a11977"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d95/a02726.html#a392c69714f880d43f8afb5510ba1fff7">SpellTargetCheckTypes</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d82/a11977.html#a0e629a6fd0da179ea0c98c93d2337603">_targetSelectionType</a></td></tr>
+<tr class="separator:a0e629a6fd0da179ea0c98c93d2337603 inherit pub_attribs_a11977"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a288c53998aa7b744f6e3eaeba68fe6d8 inherit pub_attribs_a11977"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d91/a08345.html">ConditionSourceInfo</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d82/a11977.html#a288c53998aa7b744f6e3eaeba68fe6d8">_condSrcInfo</a></td></tr>
+<tr class="separator:a288c53998aa7b744f6e3eaeba68fe6d8 inherit pub_attribs_a11977"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a70b9331b5871e2e4d92d642715c8192a inherit pub_attribs_a11977"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/db0/a03722.html#ae942a8e25dc24ce42e62625bb583c0dd">ConditionList</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d82/a11977.html#a70b9331b5871e2e4d92d642715c8192a">_condList</a></td></tr>
+<tr class="separator:a70b9331b5871e2e4d92d642715c8192a inherit pub_attribs_a11977"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Data Documentation</h2>
-<a id="a18e94b40a8746c854b2fcca37ceb14f6" name="a18e94b40a8746c854b2fcca37ceb14f6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a18e94b40a8746c854b2fcca37ceb14f6">&#9670;&#160;</a></span>DiminishDurationLimit</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a2fc41ec89b1887f33b0e3932807e7159" name="a2fc41ec89b1887f33b0e3932807e7159"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2fc41ec89b1887f33b0e3932807e7159">&#9670;&#160;</a></span>WorldObjectSpellConeTargetCheck()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d8/dca/a04670.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> SpellDiminishInfo::DiminishDurationLimit = 0</td>
+          <td class="memname">Acore::WorldObjectSpellConeTargetCheck::WorldObjectSpellConeTargetCheck </td>
+          <td>(</td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>coneAngle</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>range</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d6/d13/a08897.html">WorldObject</a> *&#160;</td>
+          <td class="paramname"><em>caster</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../df/d0b/a12037.html">SpellInfo</a> const *&#160;</td>
+          <td class="paramname"><em>spellInfo</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d6/d95/a02726.html#a392c69714f880d43f8afb5510ba1fff7">SpellTargetCheckTypes</a>&#160;</td>
+          <td class="paramname"><em>selectionType</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../db/db0/a03722.html#ae942a8e25dc24ce42e62625bb583c0dd">ConditionList</a> *&#160;</td>
+          <td class="paramname"><em>condList</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-
+<div class="fragment"><div class="line"><span class="lineno"> 9526</span>        : <a class="code hl_function" href="../../de/ddf/a11985.html#a27df2d4c2d8c39b06a3e11681e16876e">WorldObjectSpellAreaTargetCheck</a>(range, caster, caster, caster, spellInfo, selectionType, condList), <a class="code hl_variable" href="../../d5/d0b/a11989.html#a8f946789292320ea8b205dec5d1e1975">_coneAngle</a>(coneAngle)</div>
+<div class="line"><span class="lineno"> 9527</span>    {</div>
+<div class="line"><span class="lineno"> 9528</span>    }</div>
+<div class="ttc" id="aa11985_html_a27df2d4c2d8c39b06a3e11681e16876e"><div class="ttname"><a href="../../de/ddf/a11985.html#a27df2d4c2d8c39b06a3e11681e16876e">Acore::WorldObjectSpellAreaTargetCheck::WorldObjectSpellAreaTargetCheck</a></div><div class="ttdeci">WorldObjectSpellAreaTargetCheck(float range, Position const *position, WorldObject *caster, WorldObject *referer, SpellInfo const *spellInfo, SpellTargetCheckTypes selectionType, ConditionList *condList, Acore::WorldObjectSpellAreaTargetSearchReason searchReason=Acore::WorldObjectSpellAreaTargetSearchReason::Area, SpellTargetReferenceTypes referenceType=TARGET_REFERENCE_TYPE_CASTER)</div><div class="ttdef"><b>Definition:</b> Spell.cpp:9455</div></div>
+<div class="ttc" id="aa11989_html_a8f946789292320ea8b205dec5d1e1975"><div class="ttname"><a href="../../d5/d0b/a11989.html#a8f946789292320ea8b205dec5d1e1975">Acore::WorldObjectSpellConeTargetCheck::_coneAngle</a></div><div class="ttdeci">float _coneAngle</div><div class="ttdef"><b>Definition:</b> Spell.h:855</div></div>
+</div><!-- fragment -->
 </div>
 </div>
-<a id="ad48e4fbc6984602d0196accea51867de" name="ad48e4fbc6984602d0196accea51867de"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad48e4fbc6984602d0196accea51867de">&#9670;&#160;</a></span>DiminishGroup</h2>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="ac66207a4d1dbc9f59269127ee91f0657" name="ac66207a4d1dbc9f59269127ee91f0657"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac66207a4d1dbc9f59269127ee91f0657">&#9670;&#160;</a></span>operator()()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d7/d3f/a00173.html#a1d74b2169d9a060490d81975a3064f50">DiminishingGroup</a> SpellDiminishInfo::DiminishGroup = <a class="el" href="../../d7/d3f/a00173.html#a1d74b2169d9a060490d81975a3064f50a463a6938a384ecb8e81ea00f8a66a85c">DIMINISHING_NONE</a></td>
+          <td class="memname">bool Acore::WorldObjectSpellConeTargetCheck::operator() </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d6/d13/a08897.html">WorldObject</a> *&#160;</td>
+          <td class="paramname"><em>target</em></td><td>)</td>
+          <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 9531</span>    {</div>
+<div class="line"><span class="lineno"> 9532</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d6/d82/a11977.html#a66bd07338943ee307be19f22326b29b7">_spellInfo</a>-&gt;<a class="code hl_function" href="../../df/d0b/a12037.html#a975746d6b737abb063ea037327abfc5a">HasAttribute</a>(<a class="code hl_enumvalue" href="../../d6/d95/a02726.html#a93795b2131c8cbe38a7b23768a5a146da6f734acb36c68fcc4881a4d4e844ee11">SPELL_ATTR0_CU_CONE_BACK</a>))</div>
+<div class="line"><span class="lineno"> 9533</span>        {</div>
+<div class="line"><span class="lineno"> 9534</span>            <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d6/d82/a11977.html#ad6f0ab91ac6063294dcd8c5e3dc14e23">_caster</a>-&gt;<a class="code hl_function" href="../../d6/d13/a08897.html#ab1245a01671d8012b9aee4c915028900">isInBack</a>(target, <a class="code hl_variable" href="../../d5/d0b/a11989.html#a8f946789292320ea8b205dec5d1e1975">_coneAngle</a>))</div>
+<div class="line"><span class="lineno"> 9535</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 9536</span>        }</div>
+<div class="line"><span class="lineno"> 9537</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d6/d82/a11977.html#a66bd07338943ee307be19f22326b29b7">_spellInfo</a>-&gt;<a class="code hl_function" href="../../df/d0b/a12037.html#a975746d6b737abb063ea037327abfc5a">HasAttribute</a>(<a class="code hl_enumvalue" href="../../d6/d95/a02726.html#a93795b2131c8cbe38a7b23768a5a146daf56afff0380689f8a82952e2db4a584c">SPELL_ATTR0_CU_CONE_LINE</a>))</div>
+<div class="line"><span class="lineno"> 9538</span>        {</div>
+<div class="line"><span class="lineno"> 9539</span>            <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d6/d82/a11977.html#ad6f0ab91ac6063294dcd8c5e3dc14e23">_caster</a>-&gt;<a class="code hl_function" href="../../d2/dc7/a08945.html#a0c809407f6a671597467291f811e4a27">HasInLine</a>(target, target-&gt;<a class="code hl_function" href="../../d6/d13/a08897.html#ae3ccd7ee8fcb156805c61b83e5c016ae">GetObjectSize</a>(), <a class="code hl_variable" href="../../d6/d82/a11977.html#ad6f0ab91ac6063294dcd8c5e3dc14e23">_caster</a>-&gt;<a class="code hl_function" href="../../d6/d13/a08897.html#ae3ccd7ee8fcb156805c61b83e5c016ae">GetObjectSize</a>()))</div>
+<div class="line"><span class="lineno"> 9540</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 9541</span>        }</div>
+<div class="line"><span class="lineno"> 9542</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno"> 9543</span>        {</div>
+<div class="line"><span class="lineno"> 9544</span>            <a class="code hl_class" href="../../d7/d7a/a09241.html">Unit</a>* unitCaster = <a class="code hl_variable" href="../../d6/d82/a11977.html#ad6f0ab91ac6063294dcd8c5e3dc14e23">_caster</a>-&gt;<a class="code hl_function" href="../../d2/d86/a08861.html#afd88f95deffad982ca0b5ef16b6244e8">ToUnit</a>();</div>
+<div class="line"><span class="lineno"> 9545</span>            <span class="keywordflow">if</span> ((!unitCaster || !unitCaster-&gt;<a class="code hl_function" href="../../d7/d7a/a09241.html#a058c680a210cfa568f03a78d827ce734">IsWithinBoundaryRadius</a>(target-&gt;<a class="code hl_function" href="../../d2/d86/a08861.html#afd88f95deffad982ca0b5ef16b6244e8">ToUnit</a>())) &amp;&amp; !<a class="code hl_variable" href="../../d6/d82/a11977.html#ad6f0ab91ac6063294dcd8c5e3dc14e23">_caster</a>-&gt;<a class="code hl_function" href="../../d6/d13/a08897.html#a00db62e79f895c1fe3893c95ee30b6fe">isInFront</a>(target, <a class="code hl_variable" href="../../d5/d0b/a11989.html#a8f946789292320ea8b205dec5d1e1975">_coneAngle</a>))</div>
+<div class="line"><span class="lineno"> 9546</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 9547</span>        }</div>
+<div class="line"><span class="lineno"> 9548</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../de/ddf/a11985.html#a36a7194e3ffbdc2ea1c4bd5ed5997da4">WorldObjectSpellAreaTargetCheck::operator ()</a>(target);</div>
+<div class="line"><span class="lineno"> 9549</span>    }</div>
+<div class="ttc" id="aa02726_html_a93795b2131c8cbe38a7b23768a5a146da6f734acb36c68fcc4881a4d4e844ee11"><div class="ttname"><a href="../../d6/d95/a02726.html#a93795b2131c8cbe38a7b23768a5a146da6f734acb36c68fcc4881a4d4e844ee11">SPELL_ATTR0_CU_CONE_BACK</a></div><div class="ttdeci">@ SPELL_ATTR0_CU_CONE_BACK</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:178</div></div>
+<div class="ttc" id="aa02726_html_a93795b2131c8cbe38a7b23768a5a146daf56afff0380689f8a82952e2db4a584c"><div class="ttname"><a href="../../d6/d95/a02726.html#a93795b2131c8cbe38a7b23768a5a146daf56afff0380689f8a82952e2db4a584c">SPELL_ATTR0_CU_CONE_LINE</a></div><div class="ttdeci">@ SPELL_ATTR0_CU_CONE_LINE</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:179</div></div>
+<div class="ttc" id="aa08861_html_afd88f95deffad982ca0b5ef16b6244e8"><div class="ttname"><a href="../../d2/d86/a08861.html#afd88f95deffad982ca0b5ef16b6244e8">Object::ToUnit</a></div><div class="ttdeci">Unit * ToUnit()</div><div class="ttdef"><b>Definition:</b> Object.h:216</div></div>
+<div class="ttc" id="aa08897_html_a00db62e79f895c1fe3893c95ee30b6fe"><div class="ttname"><a href="../../d6/d13/a08897.html#a00db62e79f895c1fe3893c95ee30b6fe">WorldObject::isInFront</a></div><div class="ttdeci">bool isInFront(WorldObject const *target, float arc=M_PI) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1557</div></div>
+<div class="ttc" id="aa08897_html_ab1245a01671d8012b9aee4c915028900"><div class="ttname"><a href="../../d6/d13/a08897.html#ab1245a01671d8012b9aee4c915028900">WorldObject::isInBack</a></div><div class="ttdeci">bool isInBack(WorldObject const *target, float arc=M_PI) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1562</div></div>
+<div class="ttc" id="aa08897_html_ae3ccd7ee8fcb156805c61b83e5c016ae"><div class="ttname"><a href="../../d6/d13/a08897.html#ae3ccd7ee8fcb156805c61b83e5c016ae">WorldObject::GetObjectSize</a></div><div class="ttdeci">float GetObjectSize() const</div><div class="ttdef"><b>Definition:</b> Object.cpp:2898</div></div>
+<div class="ttc" id="aa08945_html_a0c809407f6a671597467291f811e4a27"><div class="ttname"><a href="../../d2/dc7/a08945.html#a0c809407f6a671597467291f811e4a27">Position::HasInLine</a></div><div class="ttdeci">bool HasInLine(Position const *pos, float width) const</div><div class="ttdef"><b>Definition:</b> Position.cpp:43</div></div>
+<div class="ttc" id="aa09241_html"><div class="ttname"><a href="../../d7/d7a/a09241.html">Unit</a></div><div class="ttdef"><b>Definition:</b> Unit.h:667</div></div>
+<div class="ttc" id="aa09241_html_a058c680a210cfa568f03a78d827ce734"><div class="ttname"><a href="../../d7/d7a/a09241.html#a058c680a210cfa568f03a78d827ce734">Unit::IsWithinBoundaryRadius</a></div><div class="ttdeci">bool IsWithinBoundaryRadius(Unit const *obj) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:828</div></div>
+<div class="ttc" id="aa11977_html_a66bd07338943ee307be19f22326b29b7"><div class="ttname"><a href="../../d6/d82/a11977.html#a66bd07338943ee307be19f22326b29b7">Acore::WorldObjectSpellTargetCheck::_spellInfo</a></div><div class="ttdeci">SpellInfo const  * _spellInfo</div><div class="ttdef"><b>Definition:</b> Spell.h:822</div></div>
+<div class="ttc" id="aa11977_html_ad6f0ab91ac6063294dcd8c5e3dc14e23"><div class="ttname"><a href="../../d6/d82/a11977.html#ad6f0ab91ac6063294dcd8c5e3dc14e23">Acore::WorldObjectSpellTargetCheck::_caster</a></div><div class="ttdeci">WorldObject * _caster</div><div class="ttdef"><b>Definition:</b> Spell.h:820</div></div>
+<div class="ttc" id="aa11985_html_a36a7194e3ffbdc2ea1c4bd5ed5997da4"><div class="ttname"><a href="../../de/ddf/a11985.html#a36a7194e3ffbdc2ea1c4bd5ed5997da4">Acore::WorldObjectSpellAreaTargetCheck::operator()</a></div><div class="ttdeci">bool operator()(WorldObject *target)</div><div class="ttdef"><b>Definition:</b> Spell.cpp:9461</div></div>
+<div class="ttc" id="aa12037_html_a975746d6b737abb063ea037327abfc5a"><div class="ttname"><a href="../../df/d0b/a12037.html#a975746d6b737abb063ea037327abfc5a">SpellInfo::HasAttribute</a></div><div class="ttdeci">bool HasAttribute(SpellAttr0 attribute) const</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:441</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00820">Acore::WorldObjectSpellTargetCheck::_caster</a>, <a class="el" href="../../#l00855">_coneAngle</a>, <a class="el" href="../../#l00822">Acore::WorldObjectSpellTargetCheck::_spellInfo</a>, <a class="el" href="../../#l02898">WorldObject::GetObjectSize()</a>, <a class="el" href="../../#l00441">SpellInfo::HasAttribute()</a>, <a class="el" href="../../#l00043">Position::HasInLine()</a>, <a class="el" href="../../#l01562">WorldObject::isInBack()</a>, <a class="el" href="../../#l01557">WorldObject::isInFront()</a>, <a class="el" href="../../#l00828">Unit::IsWithinBoundaryRadius()</a>, <a class="el" href="../../#l09461">Acore::WorldObjectSpellAreaTargetCheck::operator()()</a>, <a class="el" href="../../#l00178">SPELL_ATTR0_CU_CONE_BACK</a>, <a class="el" href="../../#l00179">SPELL_ATTR0_CU_CONE_LINE</a>, and <a class="el" href="../../#l00216">Object::ToUnit()</a>.</p>
 
 </div>
 </div>
-<a id="a4b04f3f569b5b73d2f8a9eda429c3f5d" name="a4b04f3f569b5b73d2f8a9eda429c3f5d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4b04f3f569b5b73d2f8a9eda429c3f5d">&#9670;&#160;</a></span>DiminishMaxLevel</h2>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="a8f946789292320ea8b205dec5d1e1975" name="a8f946789292320ea8b205dec5d1e1975"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8f946789292320ea8b205dec5d1e1975">&#9670;&#160;</a></span>_coneAngle</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d8/dca/a04670.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> SpellDiminishInfo::DiminishMaxLevel = 3</td>
+          <td class="memname">float Acore::WorldObjectSpellConeTargetCheck::_coneAngle</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-</div>
-</div>
-<a id="a64a6fc19521245f1145ab6c769175803" name="a64a6fc19521245f1145ab6c769175803"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a64a6fc19521245f1145ab6c769175803">&#9670;&#160;</a></span>DiminishReturnType</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d7/d3f/a00173.html#acc1ff89f53e83d6c8146a6989a5cba5b">DiminishingReturnsType</a> SpellDiminishInfo::DiminishReturnType = <a class="el" href="../../d7/d3f/a00173.html#acc1ff89f53e83d6c8146a6989a5cba5ba1f86ae6ed27da5cb0cf59b6510abb5ea">DRTYPE_NONE</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
+<p class="reference">Referenced by <a class="el" href="../../#l09530">operator()()</a>.</p>
 
 </div>
 </div>
@@ -187,8 +304,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d5/d0b/a11989.html">SpellDiminishInfo</a></li>
-    <li class="footer">Generated on Mon Sep 14 2026 23:34:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d0/dbf/a05124.html">Acore</a></li><li class="navelem"><a class="el" href="../../d5/d0b/a11989.html">WorldObjectSpellConeTargetCheck</a></li>
+    <li class="footer">Generated on Mon Oct 19 2026 23:58:16 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

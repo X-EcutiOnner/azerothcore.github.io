@@ -1,7 +1,8 @@
 var a19273 =
 [
-    [ "Land", "d5/d63/a19273.html#ad2fd3d7c81e3ef22cb3767914f649fd0", null ],
-    [ "PrepareSpellScript", "d5/d63/a19273.html#a31e45adb87719c311fb5b94b2b744487", null ],
-    [ "Register", "d5/d63/a19273.html#a652eca6ec8079b2835d911807857c8a8", null ],
-    [ "RemoveAliveTarget", "d5/d63/a19273.html#abdb5f624b30a046eed9ca6ad7c347010", null ]
+    [ "OnApply", "d5/d63/a19273.html#addeb4f3b2a06666b36f4dee1874b6e8d", null ],
+    [ "OnRemove", "d5/d63/a19273.html#ae4ecf698d999969aceca3c307b44d9bd", null ],
+    [ "PrepareAuraScript", "d5/d63/a19273.html#a74a552ea94c56fd22b8fea792617a537", null ],
+    [ "Register", "d5/d63/a19273.html#a90041bb6ad83973a894638630642dd62", null ],
+    [ "Validate", "d5/d63/a19273.html#a051c1544da173e50ae6642b1b14c923e", null ]
 ];

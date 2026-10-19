@@ -1,8 +1,10 @@
 var a14221 =
 [
-    [ "npc_dkc1_gothik", "d5/de1/a14221.html#ac55410228faf60379873234d7322c488", null ],
-    [ "DoAction", "d5/de1/a14221.html#aba7e9c3326400012162402d3ead2837f", null ],
-    [ "MoveInLineOfSight", "d5/de1/a14221.html#aa409a5ecaa71388131a2be4c62d2cf85", null ],
-    [ "UpdateAI", "d5/de1/a14221.html#a7fbe2d52d179bcc8113407054befae00", null ],
-    [ "spoken", "d5/de1/a14221.html#a4ed4b960104211c61067b1e66752eb74", null ]
+    [ "npc_tyrion_spybotAI", "d5/de1/a14221.html#aedad685279012266637d29069ead9063", null ],
+    [ "Reset", "d5/de1/a14221.html#a16f8f9fd368832aac7906c3fd8cb9698", null ],
+    [ "UpdateAI", "d5/de1/a14221.html#ad8fc713bb9673e74bfd11bc653c71587", null ],
+    [ "WaypointReached", "d5/de1/a14221.html#a819e987eeb8eb8d580a5ad22001a641d", null ],
+    [ "WaypointReached", "d5/de1/a14221.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "uiPhase", "d5/de1/a14221.html#af5dbb99fe18d96665efd04bd53294636", null ],
+    [ "uiTimer", "d5/de1/a14221.html#ab41fdff3612b29e7d0d94fb6aaa8c085", null ]
 ];

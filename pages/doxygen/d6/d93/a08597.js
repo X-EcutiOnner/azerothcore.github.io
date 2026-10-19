@@ -1,6 +1,7 @@
 var a08597 =
 [
-    [ "ForcedUnsummonDelayEvent", "d6/d93/a08597.html#aadabfc349c81e02743add4307977c2fd", null ],
-    [ "Execute", "d6/d93/a08597.html#a86d7bd6f9f47ef37382b725f0d64877b", null ],
-    [ "m_owner", "d6/d93/a08597.html#a3954577354fb882ec1def262502ed2e6", null ]
+    [ "entry", "d6/d93/a08597.html#ad0d74d6216c9b6cb6fbeda55fb002072", null ],
+    [ "pos", "d6/d93/a08597.html#af264c1262d9fcd204a2a536847a613b1", null ],
+    [ "respawnTime", "d6/d93/a08597.html#abeadd86c92a8c301626dde6943da1b9b", null ],
+    [ "rot", "d6/d93/a08597.html#a776668c1b71e0cf9f3e0f0619498ae72", null ]
 ];

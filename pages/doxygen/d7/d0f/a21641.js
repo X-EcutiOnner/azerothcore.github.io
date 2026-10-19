@@ -1,8 +1,12 @@
 var a21641 =
 [
-    [ "npc_azure_sorceror", "d7/d0f/a21641.html#afd53ae322f8387b5e5fe55e28612ce2f", null ],
-    [ "Reset", "d7/d0f/a21641.html#af4bc0ff9b938302c399bff528dd06769", null ],
-    [ "UpdateAI", "d7/d0f/a21641.html#a36675e89aab24a92589a33f88fbec2bd", null ],
-    [ "_arcaneStreamOnCooldown", "d7/d0f/a21641.html#a462d57b8e8cd01a9ec1bd59a453f6ab5", null ],
-    [ "_events", "d7/d0f/a21641.html#a3bd018057b31c90afd19ac6943d44591", null ]
+    [ "boss_zuramat", "d7/d0f/a21641.html#af033b96498fb71059701caad1fed8f8a", null ],
+    [ "EnterEvadeMode", "d7/d0f/a21641.html#a0d7ca9fe585e0dc87118c61ddc0dac84", null ],
+    [ "ExecuteEvent", "d7/d0f/a21641.html#a350f06b88af5444a0d4086434ddbe6f4", null ],
+    [ "JustDied", "d7/d0f/a21641.html#a1917921efc7a44c3cc3a799187c1718a", null ],
+    [ "JustEngagedWith", "d7/d0f/a21641.html#a4c448c8b51795943a6e746479f3ad121", null ],
+    [ "JustSummoned", "d7/d0f/a21641.html#a76c2de51333f57db6612effb92d07bd1", null ],
+    [ "KilledUnit", "d7/d0f/a21641.html#ae3f00d76928cbd6adf7882f4cccc0518", null ],
+    [ "MoveInLineOfSight", "d7/d0f/a21641.html#a6d46d73baf2c0b3c1706d9163564797f", null ],
+    [ "SummonedCreatureDespawn", "d7/d0f/a21641.html#afc8869687e9a6050cfee2c674ef7e7f1", null ]
 ];

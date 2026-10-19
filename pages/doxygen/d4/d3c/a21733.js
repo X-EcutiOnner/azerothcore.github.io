@@ -1,6 +1,7 @@
 var a21733 =
 [
-    [ "npc_hidden_cultistAI", "d7/d75/a21737.html", "d7/d75/a21737" ],
-    [ "npc_hidden_cultist", "d4/d3c/a21733.html#ab455b35fea966360e01fb8975adad989", null ],
-    [ "GetAI", "d4/d3c/a21733.html#a4897006d9416f1177b0bc0e41df60293", null ]
+    [ "HandleScriptEffect", "d4/d3c/a21733.html#a0c6b2f8713f59b3048224f0cb7786913", null ],
+    [ "PrepareSpellScript", "d4/d3c/a21733.html#adf4c5fb99c1ea11c984bffd9b54ee7ce", null ],
+    [ "Register", "d4/d3c/a21733.html#acef977e377c9d6e638056223256da4ef", null ],
+    [ "Validate", "d4/d3c/a21733.html#aaecfe98d6c72c2675bf83d586588dbc0", null ]
 ];

@@ -1,43 +1,21 @@
 var a01862 =
 [
-    [ "npc_ranger_lilatha", "d0/d52/a14107.html", "d0/d52/a14107" ],
-    [ "npc_sentinel_leader", "d7/de6/a14111.html", "d7/de6/a14111" ],
-    [ "npc_sentinel_infiltrator", "df/d36/a14115.html", "df/d36/a14115" ],
-    [ "RangerLilatha", "d0/d4a/a01862.html#a74dc890829d87be230ff5350c12e090a", [
-      [ "SAY_START", "d0/d4a/a01862.html#a74dc890829d87be230ff5350c12e090aa2eae21cbf7d110ee89a9798ef6f00239", null ],
-      [ "SAY_PROGRESS1", "d0/d4a/a01862.html#a74dc890829d87be230ff5350c12e090aa1a7ff39fa30eb8719e4a1d4d8eea41bd", null ],
-      [ "SAY_PROGRESS2", "d0/d4a/a01862.html#a74dc890829d87be230ff5350c12e090aa6b66c233baa6dd334abb1b7798066894", null ],
-      [ "SAY_PROGRESS3", "d0/d4a/a01862.html#a74dc890829d87be230ff5350c12e090aa541cce8e829316638c92542a766209b6", null ],
-      [ "SAY_END1", "d0/d4a/a01862.html#a74dc890829d87be230ff5350c12e090aa944891a3d2f715c9e1c8f47d65f16eca", null ],
-      [ "SAY_END2", "d0/d4a/a01862.html#a74dc890829d87be230ff5350c12e090aaa0efc3eab3d2447cc17568f7ceed8cba", null ],
-      [ "SAY_CAPTAIN_ANSWER", "d0/d4a/a01862.html#a74dc890829d87be230ff5350c12e090aaf92ec5f68682db4db5c776edd0e207c0", null ],
-      [ "QUEST_ESCAPE_FROM_THE_CATACOMBS", "d0/d4a/a01862.html#a74dc890829d87be230ff5350c12e090aaf838b4afb069e6a501691db32ccd1e16", null ],
-      [ "GO_CAGE", "d0/d4a/a01862.html#a74dc890829d87be230ff5350c12e090aab8d35951eed2c9e47bed2aa4da3fab8b", null ],
-      [ "NPC_CAPTAIN_HELIOS", "d0/d4a/a01862.html#a74dc890829d87be230ff5350c12e090aaf9140f9834cba6679a2dd4d3dccc02a8", null ],
-      [ "NPC_MUMMIFIED_HEADHUNTER", "d0/d4a/a01862.html#a74dc890829d87be230ff5350c12e090aa981d62936965028299a53927f91db057", null ],
-      [ "NPC_SHADOWPINE_ORACLE", "d0/d4a/a01862.html#a74dc890829d87be230ff5350c12e090aa84adb37d4c2fc9348d6fc31abfd0306a", null ]
+    [ "npc_partygoer_pather", "d7/d8e/a14109.html", "d7/d8e/a14109" ],
+    [ "npc_partygoer", "d5/d42/a14113.html", "d5/d42/a14113" ],
+    [ "npc_lor_themar_theron", "d2/d6c/a14117.html", "d2/d6c/a14117" ],
+    [ "Partygoer", "d0/d4a/a01862.html#a2426dcce5ddc33ba72e2c0ebe9c88e1e", [
+      [ "EVENT_RANDOM_ACTION", "d0/d4a/a01862.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eacb43fc5be7eecf527a639a9122091f96", null ],
+      [ "EVENT_REMOVE_EQUIPMENT", "d0/d4a/a01862.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea37faceace884bd7a013b0d5dd0fac886", null ],
+      [ "EVENT_STOP_DANCING", "d0/d4a/a01862.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eacaad2f31616c81d6fa79aaad83b2fba4", null ],
+      [ "EVENT_THROW_FIREWORKS", "d0/d4a/a01862.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eaa67af798691d1e37088900cb7c2ebf51", null ],
+      [ "EVENT_RESET_FACING", "d0/d4a/a01862.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea1d5b4f747a997b97e8ac881aa879bbb9", null ],
+      [ "GO_FIREWORKS_LAUNCHER", "d0/d4a/a01862.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea4fd8fdeafd948ad27d906801728d7081", null ]
     ] ],
-    [ "SentinelInfiltrator", "d0/d4a/a01862.html#a0b373714eadff6852c9ed5560abd70e5", [
-      [ "EMOTE_FLEE", "d0/d4a/a01862.html#a0b373714eadff6852c9ed5560abd70e5a9d88a2f0a0929d045f07a5386f6a4431", null ],
-      [ "EVENT_TALK2", "d0/d4a/a01862.html#a0b373714eadff6852c9ed5560abd70e5a5fbd3336be08db01eeeefc355f4fa541", null ],
-      [ "EVENT_QUESTION2", "d0/d4a/a01862.html#a0b373714eadff6852c9ed5560abd70e5a16f3686cedbbcd372b458f36b8fef69d", null ],
-      [ "EVENT_EXCLAMATION", "d0/d4a/a01862.html#a0b373714eadff6852c9ed5560abd70e5a235ba44e8ac06bf6c5da1072784d2736", null ],
-      [ "EVENT_SALUTE", "d0/d4a/a01862.html#a0b373714eadff6852c9ed5560abd70e5a20c28745aea8562e2f30166e0ceec0ea", null ],
-      [ "EVENT_GOUGE2", "d0/d4a/a01862.html#a0b373714eadff6852c9ed5560abd70e5a9c0323353380c86a1dd4583ba40430da", null ],
-      [ "EVENT_BACKSTAB2", "d0/d4a/a01862.html#a0b373714eadff6852c9ed5560abd70e5aaf1d9b7bb592c2a5e42e3e0f3e2671cc", null ],
-      [ "NPC_SENTINEL_INFILTRATOR", "d0/d4a/a01862.html#a0b373714eadff6852c9ed5560abd70e5a7cb437b950b46596afc196f0864a74fe", null ],
-      [ "PATH_ONE", "d0/d4a/a01862.html#a0b373714eadff6852c9ed5560abd70e5a9dabcd3a092570c71edfb732f847d854", null ],
-      [ "PATH_TWO", "d0/d4a/a01862.html#a0b373714eadff6852c9ed5560abd70e5a5c1049e5a354a320e8c4ead179675760", null ],
-      [ "SPELL_GOUGE", "d0/d4a/a01862.html#a0b373714eadff6852c9ed5560abd70e5ad29cb58b32c3fccaec3fde84e2355de6", null ]
+    [ "Partygoer_Pather", "d0/d4a/a01862.html#a3222d14ce03d75912e65560ebf2a961b", [
+      [ "EVENT_PATH", "d0/d4a/a01862.html#a3222d14ce03d75912e65560ebf2a961bab210624be9af9dc44683266b3b3efcea", null ],
+      [ "EVENT_RANDOM_ACTION_PATHER", "d0/d4a/a01862.html#a3222d14ce03d75912e65560ebf2a961ba93c437ac824047af79e5296f2f70938b", null ],
+      [ "EVENT_REMOVE_EQUIPMENT_PATHER", "d0/d4a/a01862.html#a3222d14ce03d75912e65560ebf2a961baae55cce9b375894e1a9adbbd8c42610f", null ],
+      [ "EVENT_STOP_DANCING_PATHER", "d0/d4a/a01862.html#a3222d14ce03d75912e65560ebf2a961ba038dd2b09deef9325222dec4d8a99292", null ]
     ] ],
-    [ "SentinelLeader", "d0/d4a/a01862.html#acb58e7629bec88c770da1efed549d96c", [
-      [ "EVENT_QUESTION", "d0/d4a/a01862.html#acb58e7629bec88c770da1efed549d96cae7206febd87cb3058c3f99ed717131a7", null ],
-      [ "EVENT_TALK", "d0/d4a/a01862.html#acb58e7629bec88c770da1efed549d96cad8d5fcaf7b3bfdd91e6337d222c1620f", null ],
-      [ "EVENT_SINISTER_STRIKE", "d0/d4a/a01862.html#acb58e7629bec88c770da1efed549d96ca23b5677e1eb390f2bbe16d2b30a05498", null ],
-      [ "EVENT_BACKSTAB", "d0/d4a/a01862.html#acb58e7629bec88c770da1efed549d96ca1c1d8055d31bb2fb8238437b243852ca", null ],
-      [ "NPC_SENTINEL_SPY", "d0/d4a/a01862.html#acb58e7629bec88c770da1efed549d96cae75b24a241dff855e6dc0e3d51e0c9e9", null ],
-      [ "SPELL_SINISTER_STRIKE", "d0/d4a/a01862.html#acb58e7629bec88c770da1efed549d96ca3217132d497cc70e674432067fd431a7", null ],
-      [ "SPELL_BACKSTAB", "d0/d4a/a01862.html#acb58e7629bec88c770da1efed549d96ca4ff7524487add866a452db82c2791b68", null ]
-    ] ],
-    [ "AddSC_ghostlands", "d0/d4a/a01862.html#a1093517f6bb08d3a1c9e52cf36b6a054", null ]
+    [ "AddSC_eversong_woods", "d0/d4a/a01862.html#a78299b9cdd3e783b3f231a9dda40a7b4", null ]
 ];

@@ -1,12 +1,6 @@
 var a14389 =
 [
-    [ "npc_akilzon_eagle", "df/dcd/a14389.html#ad70a735ce3a06f9c92ddb8ef7e5fd595", null ],
-    [ "JustEngagedWith", "df/dcd/a14389.html#aa5c3d77a1086ad90397d47f081b25476", null ],
-    [ "MoveInLineOfSight", "df/dcd/a14389.html#adefd384b8a273ca52343d836a399f3cb", null ],
-    [ "MovementInform", "df/dcd/a14389.html#abf69be0c32356e65e6d451c33fb389f0", null ],
-    [ "Reset", "df/dcd/a14389.html#a8ae0b8115d402671f94aaf27ff83eade", null ],
-    [ "UpdateAI", "df/dcd/a14389.html#a59ef60c0d16eda1b4d78ef964b42211a", null ],
-    [ "arrived", "df/dcd/a14389.html#a918dae0b34b43e10f066d32d5ebe6fcf", null ],
-    [ "EagleSwoop_Timer", "df/dcd/a14389.html#a37a5861ef690729e2a8bfafddce168be", null ],
-    [ "TargetGUID", "df/dcd/a14389.html#a14d4f82f932569d24f6014ad39640619", null ]
+    [ "npc_andorhal_towerAI", "db/de2/a14393.html", "db/de2/a14393" ],
+    [ "npc_andorhal_tower", "df/dcd/a14389.html#abf63419b6c10af47f5e5df1a4e7320e7", null ],
+    [ "GetAI", "df/dcd/a14389.html#a51139c28da736d26bf27a061862d24ee", null ]
 ];

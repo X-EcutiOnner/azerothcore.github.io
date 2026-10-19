@@ -1,12 +1,11 @@
 var a20769 =
 [
-    [ "npc_ulduar_flames_initial", "de/dbe/a20769.html#ac0ba4a5631f580b23be30f6d19545a1f", null ],
-    [ "DoAction", "de/dbe/a20769.html#ae0b262371dfc00ca168afc9e4d28b133", null ],
-    [ "RemoveAll", "de/dbe/a20769.html#a604fee1e371ffd6efe8f80c6db61318f", null ],
-    [ "RemoveFlame", "de/dbe/a20769.html#ad676a542b40b554027fc2ab491fa083d", null ],
-    [ "SpreadFlame", "de/dbe/a20769.html#af50c950610f5277a755d1786b596b9d7", null ],
-    [ "UpdateAI", "de/dbe/a20769.html#a34c1ffd2bc07c2a736a7d6dc103a8afe", null ],
-    [ "_createTime", "de/dbe/a20769.html#aa73a9fa2110bd5abdff9b509e13ce333", null ],
-    [ "_events", "de/dbe/a20769.html#a0f99d43d373b61e9c665bd6c0d389afb", null ],
-    [ "_flameList", "de/dbe/a20769.html#a50a26001f8bfe87a3a4f1feb544cf521", null ]
+    [ "npc_ulduar_proximity_mine", "de/dbe/a20769.html#a4d8a6ab45b259e42d33d5114d1f7e947", null ],
+    [ "AttackStart", "de/dbe/a20769.html#ae88f3a9cb40aebb469849799e7b7c7c0", null ],
+    [ "CanAIAttack", "de/dbe/a20769.html#a18311072271a18b279c5bf21f7da2482", null ],
+    [ "MoveInLineOfSight", "de/dbe/a20769.html#a6a406f8098dac7038173f51e9f85a79b", null ],
+    [ "UpdateAI", "de/dbe/a20769.html#ad014e0aa8125ef13cfea039acfe0c76f", null ],
+    [ "_exploded", "de/dbe/a20769.html#ad1cd15a93a35f4034c0d690e8d1713ea", null ],
+    [ "_timer", "de/dbe/a20769.html#afe009de55826305826105bd29458d0eb", null ],
+    [ "_timer2", "de/dbe/a20769.html#a08afb215eeaa5e0ec4d9543bc474d392", null ]
 ];

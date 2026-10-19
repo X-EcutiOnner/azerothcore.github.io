@@ -1,6 +1,8 @@
 var a20205 =
 [
-    [ "PrepareSpellScript", "d5/d35/a20205.html#af280f3880e2e567188ba8ca3e45c00c0", null ],
-    [ "RecalculateDamage", "d5/d35/a20205.html#a54c26d24f62c36108f9fceb7a0c53e37", null ],
-    [ "Register", "d5/d35/a20205.html#aac131aa2d2e5342cf0303b918a077b45", null ]
+    [ "npc_algalon_worm_hole", "d5/d35/a20205.html#a546bd0ede2586fcbe3812698b68528d4", null ],
+    [ "JustSummoned", "d5/d35/a20205.html#a077425b35d86c007daa93fc8b1fd9717", null ],
+    [ "Reset", "d5/d35/a20205.html#a363814abdee714faddfd966b11a4fddc", null ],
+    [ "UpdateAI", "d5/d35/a20205.html#a16f644be53169adc67fc971bdeaa7263", null ],
+    [ "_summonTimer", "d5/d35/a20205.html#a033382dbd57714e815eed8ef6e4adfaf", null ]
 ];

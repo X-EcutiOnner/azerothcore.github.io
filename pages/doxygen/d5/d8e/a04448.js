@@ -1,12 +1,14 @@
 var a04448 =
 [
-    [ "anonymous_namespace{PoolQuestReloadTest.cpp}::PoolQuestReloadTest", "df/d43/a30051.html", "df/d43/a30051" ],
-    [ "PoolQuestReloadFixTest", "d5/de0/a30055.html", "d5/de0/a30055" ],
-    [ "TEST_F", "d5/d8e/a04448.html#a3536d0c27abb116492165d7ab3dcaaaf", null ],
-    [ "TEST_F", "d5/d8e/a04448.html#ae965ec2c5a54532198d25c78231d7888", null ],
-    [ "TEST_F", "d5/d8e/a04448.html#ae1ebd88d38dd3fe29dacfb916249f401", null ],
-    [ "TEST_F", "d5/d8e/a04448.html#a88949b970cd89daff9f2c804fbbd30f8", null ],
-    [ "TEST_F", "d5/d8e/a04448.html#a51f076a8299a77b2bed17414ee1ab77d", null ],
-    [ "TEST_CREATURE_ID", "d5/d8e/a04448.html#a9d99cbff2ccde67787a3c4448497f949", null ],
-    [ "TEST_QUEST_ID", "d5/d8e/a04448.html#acd85c89c48bf6aa262bd81ed03493826", null ]
+    [ "SpellProcTargetResolutionTest", "d3/dbd/a30217.html", null ],
+    [ "ResolveProcTriggerTarget", "d5/d8e/a04448.html#ae0ceced3da7b46834d403b94be7bd498", null ],
+    [ "TEST_F", "d5/d8e/a04448.html#a94bb580a1521b12b0dc26d91b4d9e3ca", null ],
+    [ "TEST_F", "d5/d8e/a04448.html#adc4f7536f5fbc531ee25c5e2e8aa823c", null ],
+    [ "TEST_F", "d5/d8e/a04448.html#a6349a6956dcb722f54714e939b3ccb12", null ],
+    [ "TEST_F", "d5/d8e/a04448.html#a8d1c35ebc225b6f64d08e5748e6adbfe", null ],
+    [ "TEST_F", "d5/d8e/a04448.html#ac01a72b5a8b9e24ce8306b05cca87dbb", null ],
+    [ "TEST_F", "d5/d8e/a04448.html#adc3e9713f51dc9d0659472c769da1073", null ],
+    [ "TEST_F", "d5/d8e/a04448.html#a65154972e92d7ebcbd52504ba1d20322", null ],
+    [ "FAKE_ENEMY", "d5/d8e/a04448.html#a44641e393e88c869080a70e5d49c017c", null ],
+    [ "FAKE_ROGUE", "d5/d8e/a04448.html#aa56828182e47a5c051cfcc0318167b79", null ]
 ];

@@ -1,7 +1,6 @@
 var a19629 =
 [
-    [ "FilterTargets", "df/d67/a19629.html#af92aec0df6c962a10ccbebb366081cfd", null ],
-    [ "PrepareSpellScript", "df/d67/a19629.html#ad7ccb2b2024887ec0a9802454a8bfaec", null ],
-    [ "Register", "df/d67/a19629.html#af59416debfc7685bec92541a00e1dafe", null ],
-    [ "Validate", "df/d67/a19629.html#abbe7ae557fb510457504f72adfa0aedc", null ]
+    [ "boss_grobbulus_poison_cloudAI", "d9/da8/a19633.html", "d9/da8/a19633" ],
+    [ "boss_grobbulus_poison_cloud", "df/d67/a19629.html#a2bb8ebec0ae79f20602e551f654e0761", null ],
+    [ "GetAI", "df/d67/a19629.html#a34c68dd3e58b83c52f270eb1b194f2ed", null ]
 ];

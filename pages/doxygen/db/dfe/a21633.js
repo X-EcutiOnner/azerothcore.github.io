@@ -1,7 +1,6 @@
 var a21633 =
 [
-    [ "npc_azure_spellbreaker", "db/dfe/a21633.html#ae884adc9619d3458d81a2029bd490893", null ],
-    [ "Reset", "db/dfe/a21633.html#a32e4674bac67f1a259c68c32ef0d1358", null ],
-    [ "UpdateAI", "db/dfe/a21633.html#a938a93a71490bb42158e2215d125509f", null ],
-    [ "_events", "db/dfe/a21633.html#a9f526cff54cb949cc68046e7816c3c89", null ]
+    [ "HandleEffectPeriodic", "db/dfe/a21633.html#a508ff9e362d586497839aa29ceae1227", null ],
+    [ "PrepareAuraScript", "db/dfe/a21633.html#a4e7d5317d28207136b1fd3477a51ae06", null ],
+    [ "Register", "db/dfe/a21633.html#a4b08cefe7d334635b70d389cc9df4901", null ]
 ];

@@ -1,10 +1,12 @@
 var a14129 =
 [
-    [ "npc_grand_magister_rommathAI", "d5/df6/a14129.html#a5e9404dd8bf4b513e05daac53c076314", null ],
-    [ "DoAction", "d5/df6/a14129.html#a138bc8cd6f1312d83fefdf5499a479b7", null ],
-    [ "MoveInLineOfSight", "d5/df6/a14129.html#ad35b64b37915484b133bcd185a832011", null ],
-    [ "UpdateAI", "d5/df6/a14129.html#ac687bd20f0ae66b21ce52c21561af417", null ],
-    [ "announced", "d5/df6/a14129.html#a4c9107ef5d4a85d7487ff4cf7bf6464a", null ],
-    [ "events", "d5/df6/a14129.html#a4c1b6616bc88a9ad5074670843315bc6", null ],
-    [ "playerGUID", "d5/df6/a14129.html#ad0ac0647feb998e837a44b0a688694e9", null ]
+    [ "npc_sentinel_infiltrator", "d5/df6/a14129.html#a40ce6808a4d0622eb88a669485335020", null ],
+    [ "Initialize", "d5/df6/a14129.html#acc94269a3ede4c897f457a270e9a9c12", null ],
+    [ "JustEngagedWith", "d5/df6/a14129.html#a2c9927468b92d00b60efac851eacfef1", null ],
+    [ "MovementInform", "d5/df6/a14129.html#a57aef1c4ce7a491408c2c6b19d4d4cf2", null ],
+    [ "Reset", "d5/df6/a14129.html#a0f26dbe23efdf572f81723dff1d3eeaf", null ],
+    [ "UpdateAI", "d5/df6/a14129.html#ac676246948689c891c0f9cca7f8bc8b6", null ],
+    [ "_events", "d5/df6/a14129.html#a296d6c70b6c439319cc69a9d39005e62", null ],
+    [ "_fleedForAssistance", "d5/df6/a14129.html#a948c9d2081b33e18aa927fb18598c8ad", null ],
+    [ "_path", "d5/df6/a14129.html#a32d531478df327ccb0bb85e262420813", null ]
 ];

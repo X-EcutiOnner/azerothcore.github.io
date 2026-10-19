@@ -1,6 +1,7 @@
 var a13121 =
 [
-    [ "boss_magmadar", "d2/d86/a13121.html#a1d7fe10f244e2975a858ee884a02ce57", null ],
-    [ "ExecuteEvent", "d2/d86/a13121.html#af846ccbb6fa4a63b7ea04474deeb7db5", null ],
-    [ "JustEngagedWith", "d2/d86/a13121.html#a4a38f37d0cbe892b7336694ef6008f2d", null ]
+    [ "HandleAfterApply", "d2/d86/a13121.html#a8f55616f861cccf7126f7e1a7c88f3c1", null ],
+    [ "HandleAfterRemove", "d2/d86/a13121.html#a7970613f1668294f29f61c1f10a9ba37", null ],
+    [ "PrepareAuraScript", "d2/d86/a13121.html#aea2f52682e723f8dacfffa20cd0f41a5", null ],
+    [ "Register", "d2/d86/a13121.html#ae38b71adaff3b36f5d7b3007e84e620f", null ]
 ];

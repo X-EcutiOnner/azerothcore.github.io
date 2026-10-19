@@ -1,7 +1,5 @@
 var a19813 =
 [
-    [ "FilterTargets", "d4/d06/a19813.html#af6700817fd92dbe495e20d5c43b5d6b5", null ],
-    [ "Load", "d4/d06/a19813.html#a639105c26214d9887b84a482ca93eb26", null ],
-    [ "PrepareSpellScript", "d4/d06/a19813.html#a354ae20be436528b16095d4cd8d37859", null ],
-    [ "Register", "d4/d06/a19813.html#a5fcc9cc654d6495f535600a6eef4c968", null ]
+    [ "at_naxxramas_hub_portal", "d4/d06/a19813.html#a946086e8a4651240b84526a1b2d54065", null ],
+    [ "OnTrigger", "d4/d06/a19813.html#af967b0f61b3257c8b8d802d4ed3af1da", null ]
 ];

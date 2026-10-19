@@ -1,6 +1,5 @@
 var a20749 =
 [
-    [ "ModDest", "d9/d25/a20749.html#aae907d93c4c5d951b39c6c71aa647dee", null ],
-    [ "PrepareSpellScript", "d9/d25/a20749.html#a028184d1e5a2898d7b6ba7a545683f48", null ],
-    [ "Register", "d9/d25/a20749.html#ae9b8d62283a23d7cfcd2ec5d92df7bbe", null ]
+    [ "achievement_kologarn_with_open_arms", "d9/d25/a20749.html#a94af961be5bbdf7783925148731ce7e4", null ],
+    [ "OnCheck", "d9/d25/a20749.html#a03c1fb5f141a15f8f63e28700b98f9b5", null ]
 ];

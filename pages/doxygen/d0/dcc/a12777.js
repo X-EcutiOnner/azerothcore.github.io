@@ -1,6 +1,8 @@
 var a12777 =
 [
-    [ "boss_anubshiah", "d0/dcc/a12777.html#aa8e436501ebf08465a9742dedb5901fc", null ],
-    [ "JustEngagedWith", "d0/dcc/a12777.html#aedd04c5765ca4360d8290fac7e7b9c55", null ],
-    [ "UpdateAI", "d0/dcc/a12777.html#a0a3cbdd6be45415723cbadb40478831a", null ]
+    [ "brd_ironhand_guardian", "d0/dcc/a12777.html#a635a59a53948b6e252a15384d784a969", null ],
+    [ "SetData", "d0/dcc/a12777.html#a7677681c4d39ed73f4143caa66a1a5de", null ],
+    [ "UpdateAI", "d0/dcc/a12777.html#a8840ead9b577888ec2ac15d68ddffe71", null ],
+    [ "_flamesEnabled", "d0/dcc/a12777.html#a1b162039fc21a7eddddd22ed9c97e9cb", null ],
+    [ "events", "d0/dcc/a12777.html#a01047164b0728cb6d08a7f41cf092a58", null ]
 ];

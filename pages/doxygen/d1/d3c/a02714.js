@@ -1,4 +1,4 @@
 var a02714 =
 [
-    [ "ApplySpellFix", "d1/d3c/a02714.html#ab2692a866ddb9539875213c10f37b84e", null ]
+    [ "GetTargetFlagMask", "d1/d3c/a02714.html#adc898dfddc20010c41bb771b6d6f274e", null ]
 ];

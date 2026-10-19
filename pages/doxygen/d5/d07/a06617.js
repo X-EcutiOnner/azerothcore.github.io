@@ -1,9 +1,6 @@
 var a06617 =
 [
-    [ "AISpellInfoType", "d5/d07/a06617.html#a3b6d2057522e7b79c87a16d4b9cced98", null ],
-    [ "condition", "d5/d07/a06617.html#af357bcc7eaeaf88a107a6309c468d53d", null ],
-    [ "cooldown", "d5/d07/a06617.html#a6ea49fdc98ece29ceee63352424e9366", null ],
-    [ "maxRange", "d5/d07/a06617.html#ab421f918f3cb479d2d0390cd98cdeae3", null ],
-    [ "realCooldown", "d5/d07/a06617.html#a3ee8081ca5749ef9b5991a5505104ee9", null ],
-    [ "target", "d5/d07/a06617.html#a8f9c1d3fbbabc73f4b47ffe21e7a06c4", null ]
+    [ "PlayerAI", "d5/d07/a06617.html#a880c670caddc1f24e42f229457039c67", null ],
+    [ "OnCharmed", "d5/d07/a06617.html#adf7ab64ed2a81c932730e39d885e4c67", null ],
+    [ "me", "d5/d07/a06617.html#a70a995521c55fb3d73d14e6be883eccc", null ]
 ];

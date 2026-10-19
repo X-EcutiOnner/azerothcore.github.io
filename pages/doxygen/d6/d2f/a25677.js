@@ -1,5 +1,6 @@
 var a25677 =
 [
-    [ "PrepareSpellScript", "d6/d2f/a25677.html#a2c88a98e1f76f62f745dbd83fa939506", null ],
-    [ "Register", "d6/d2f/a25677.html#a93dcf131a040c95ef1b8cc5ec1d3bc37", null ]
+    [ "HandleDamageCalc", "d6/d2f/a25677.html#a1d0c86e476e4ef75f4e8f2ff27fdd395", null ],
+    [ "PrepareSpellScript", "d6/d2f/a25677.html#a4271f026fd9cddeb109761e9b864c381", null ],
+    [ "Register", "d6/d2f/a25677.html#a03bb4cf19328efa783600273663b609a", null ]
 ];

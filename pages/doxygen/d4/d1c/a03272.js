@@ -1,7 +1,9 @@
 var a03272 =
 [
-    [ "MMapTargetData", "d0/df9/a09247.html", "d0/df9/a09247" ],
-    [ "SafeUnitPointer", "d4/df3/a09251.html", "d4/df3/a09251" ],
-    [ "BuildValuesCachePosPointers", "d2/d40/a09255.html", "d2/d40/a09255" ],
-    [ "BuildValuesCachedBuffer", "d2/d61/a09259.html", "d2/d61/a09259" ]
+    [ "PetSpell", "dc/d4d/a08977.html", "dc/d4d/a08977" ],
+    [ "Pet", "dc/dcd/a08981.html", "dc/dcd/a08981" ],
+    [ "AutoSpellList", "d4/d1c/a03272.html#a85baf40bd776b1c20b66ba7ad78e0356", null ],
+    [ "PetSpellMap", "d4/d1c/a03272.html#a5b33058abef8c309621a9029df331c0e", null ],
+    [ "HAPPINESS_LEVEL_SIZE", "d4/d1c/a03272.html#a892e58d225a828ccac38c7d241365e30", null ],
+    [ "PET_LOSE_HAPPINES_INTERVAL", "d4/d1c/a03272.html#aa23de8f28ae915637ac3f4f6429b59fb", null ]
 ];

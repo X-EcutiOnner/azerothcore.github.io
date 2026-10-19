@@ -1,13 +1,14 @@
 var a10273 =
 [
-    [ "ParallelogramBoundary", "dd/d4f/a10273.html#ace1e1ffbcb84343ca2641541fe000691", null ],
-    [ "IsWithinBoundaryArea", "dd/d4f/a10273.html#af29e70a9febaa9d80d0ce7223e2c6fc3", null ],
-    [ "_a", "dd/d4f/a10273.html#ad81a1a1f4e82de0e7a31bf13a87bac2b", null ],
-    [ "_abx", "dd/d4f/a10273.html#a855c7ea39698f7dac80d72ea6962e9c7", null ],
-    [ "_aby", "dd/d4f/a10273.html#ad81b9baeb70d5856ea8cdd3f787abf29", null ],
-    [ "_b", "dd/d4f/a10273.html#a9d5d06cc3673f89644e45e62f96510db", null ],
-    [ "_c", "dd/d4f/a10273.html#a6c19d4ed0a1c1b6ff042c4bbd64f0a8a", null ],
-    [ "_d", "dd/d4f/a10273.html#a5214ac0f79f1d90492a77fbd251d1361", null ],
-    [ "_dax", "dd/d4f/a10273.html#aab72030dfa3dd4e4bef03180bd0a306c", null ],
-    [ "_day", "dd/d4f/a10273.html#a3b3e3993d09af62bae7fbfe65f6d641a", null ]
+    [ "DoublePosition", "dd/d4f/a10273.html#a59190a2456f052c6ffa6e181ced94a4f", null ],
+    [ "DoublePosition", "dd/d4f/a10273.html#a9900e06c36c6ebc4edd0ba45264990b8", null ],
+    [ "DoublePosition", "dd/d4f/a10273.html#a543ff52f7b278f68cc36ee880932e744", null ],
+    [ "GetDoubleExactDist2dSq", "dd/d4f/a10273.html#ae17b4e695ff23a8ec323405801f2013a", null ],
+    [ "GetDoublePositionX", "dd/d4f/a10273.html#a7c769d1762f99150a46ceaa2b2bfa8e8", null ],
+    [ "GetDoublePositionY", "dd/d4f/a10273.html#a201096c85022d54b1d9dbe9264df901f", null ],
+    [ "GetDoublePositionZ", "dd/d4f/a10273.html#a01fc3985229b6bd03e6d1da95f871c17", null ],
+    [ "sync", "dd/d4f/a10273.html#a75e75187d6663591a39c87bc1086aebd", null ],
+    [ "DoublePosX", "dd/d4f/a10273.html#a4f9ffbbe4396f3ec26a81139f5868e2e", null ],
+    [ "DoublePosY", "dd/d4f/a10273.html#a90839893f3a58a72a07177d3eee1d691", null ],
+    [ "DoublePosZ", "dd/d4f/a10273.html#a19af503e9623ccaeb032bfe9f0a0ed63", null ]
 ];

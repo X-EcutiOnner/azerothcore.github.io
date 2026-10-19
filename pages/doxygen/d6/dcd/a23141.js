@@ -1,6 +1,6 @@
 var a23141 =
 [
-    [ "npc_supremus_punch_invisible_stalker", "d6/dcd/a23141.html#add7d0e711ef02a16ef58d90cfc8ee733", null ],
-    [ "IsSummonedBy", "d6/dcd/a23141.html#a2220bc31f2ef91a154a9a4eae38aa14b", null ],
-    [ "UpdateAI", "d6/dcd/a23141.html#a90ecfe4257ef77a6d6a200a2f017c51a", null ]
+    [ "HandleEffectRemove", "d6/dcd/a23141.html#ae9baf688d8ac42c4ccbbf13f3b79e831", null ],
+    [ "PrepareAuraScript", "d6/dcd/a23141.html#a2e2668f0b5bf369ec859627e0bd8d980", null ],
+    [ "Register", "d6/dcd/a23141.html#acd7e22159d262a9888c744eecb978c09", null ]
 ];

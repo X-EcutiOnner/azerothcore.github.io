@@ -1,6 +1,6 @@
 var a26065 =
 [
-    [ "HandleOnEffectHit", "de/d1b/a26065.html#a07157e7255d52acf6eb5d5e5c17e2190", null ],
-    [ "PrepareSpellScript", "de/d1b/a26065.html#a0b2fd34dda3b23b574f6a5a0c4435006", null ],
-    [ "Register", "de/d1b/a26065.html#a59c6a1618faa5a44e1c37337b39a3cba", null ]
+    [ "PrepareSpellScript", "de/d1b/a26065.html#a72e57e8a4bdb9a4fcd73e3519b6025ea", null ],
+    [ "Register", "de/d1b/a26065.html#aac4d3c8ecde3652c65c05abad5c8eaeb", null ],
+    [ "SelectTarget", "de/d1b/a26065.html#a3153b6c6814922cd7220e19b06f2a602", null ]
 ];

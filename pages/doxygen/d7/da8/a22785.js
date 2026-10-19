@@ -1,8 +1,12 @@
 var a22785 =
 [
-    [ "boss_pandemonius", "d7/da8/a22785.html#a650746de74bb8a91e0c9c59d8a6a09ea", null ],
-    [ "JustDied", "d7/da8/a22785.html#a64a493c0dd4bcf5917e00c3e2713f4ce", null ],
-    [ "JustEngagedWith", "d7/da8/a22785.html#a3dbedc67006db89b95443f783cd8dbd9", null ],
-    [ "KilledUnit", "d7/da8/a22785.html#a26a012afe8c418c8da283c7b9f983e89", null ],
-    [ "PullRoom", "d7/da8/a22785.html#a05011127290350f11cc1a333b23dbb04", null ]
+    [ "OPvPCapturePointZM_Beacon", "d7/da8/a22785.html#a9efdfd232e9aa6dd390800bbf0373442", null ],
+    [ "ChangeState", "d7/da8/a22785.html#a5bbe87c18c814358596a9648fd92b129", null ],
+    [ "FillInitialWorldStates", "d7/da8/a22785.html#a94511cd0d2d1dccaa1ed8276b273a2fb", null ],
+    [ "HandlePlayerEnter", "d7/da8/a22785.html#a7042cd6b4c3d57de89e3ae9e0b2cee2a", null ],
+    [ "HandlePlayerLeave", "d7/da8/a22785.html#a6e5bfb2751f157fc4ebc8338b7cce802", null ],
+    [ "SendChangePhase", "d7/da8/a22785.html#a0b5ad48fa0d6ddd6c768fb7454b5fb55", null ],
+    [ "UpdateTowerState", "d7/da8/a22785.html#a9622620e5b969e19ea049ebd3cc4a3dc", null ],
+    [ "m_TowerState", "d7/da8/a22785.html#a3a41cc34e7a8bd9f0d9d6f86f42a3312", null ],
+    [ "m_TowerType", "d7/da8/a22785.html#a481e79d61fcdd011632f8f0d37f940bc", null ]
 ];

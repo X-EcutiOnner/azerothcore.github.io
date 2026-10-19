@@ -1,8 +1,6 @@
 var a19365 =
 [
-    [ "Class", "dd/dd2/a19365.html#a095390e9023609f5836c4481ed79e1af", null ],
-    [ "cooldown_ms", "dd/dd2/a19365.html#acfcb10f019ebaf4d2130bcdbc059c7e7", null ],
-    [ "id", "dd/dd2/a19365.html#ae9fdf89271339b93f306c4aa0871f844", null ],
-    [ "range", "dd/dd2/a19365.html#aad126da206abceb6a66dcda1cbd3b28b", null ],
-    [ "targetType", "dd/dd2/a19365.html#ae5fc8cb423536f631591d3b72bfd06dd", null ]
+    [ "npc_icc_skybreaker_hierophantAI", "da/da4/a19369.html", "da/da4/a19369" ],
+    [ "npc_icc_skybreaker_hierophant", "dd/dd2/a19365.html#a4cd3b2aa3d71c30853c687da8b8ca959", null ],
+    [ "GetAI", "dd/dd2/a19365.html#a2b0627bf059dfbce556bfa3ed4e97552", null ]
 ];

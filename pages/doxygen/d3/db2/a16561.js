@@ -1,12 +1,6 @@
 var a16561 =
 [
-    [ "HandleDummy", "d3/db2/a16561.html#aebbcaa1df9a6379998bb2069089f45bd", null ],
-    [ "HandleSchoolDamage", "d3/db2/a16561.html#a8372b7d176c94689b1b7fe99add7812e", null ],
-    [ "HandleSummon", "d3/db2/a16561.html#a64ffa7d9c5cdd7fab345b2f0f8acc0f1", null ],
-    [ "Load", "d3/db2/a16561.html#ae47e8a9c4223fd65b81c842687e19f44", null ],
-    [ "PrepareSpellScript", "d3/db2/a16561.html#a3fd71e2a93f99f19443640a2147b1663", null ],
-    [ "Register", "d3/db2/a16561.html#a8278d362a4354ccf81665ce0067c9a06", null ],
-    [ "Validate", "d3/db2/a16561.html#a414b1e1396910b87a671305ce9dcab09", null ],
-    [ "_dummyFired", "d3/db2/a16561.html#a9642ac8cfab23040b699606874ad08ca", null ],
-    [ "_spawned", "d3/db2/a16561.html#aa657a9869f04a1d1d2ce71f6d8464b17", null ]
+    [ "HandleScriptEffect", "d3/db2/a16561.html#aaa650972803d14e4d74be977430b04f6", null ],
+    [ "PrepareSpellScript", "d3/db2/a16561.html#a1e166c53e2051f3fae1b085a76a08c3f", null ],
+    [ "Register", "d3/db2/a16561.html#a3405c1b04f2e623662c7acaa6810278c", null ]
 ];

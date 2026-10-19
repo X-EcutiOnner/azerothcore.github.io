@@ -1,6 +1,8 @@
 var a22257 =
 [
-    [ "HandleDummy", "d9/d60/a22257.html#a05a38c1b8e3b674f3c6e79c59c7caddd", null ],
-    [ "PrepareSpellScript", "d9/d60/a22257.html#a0bfebaf099ef573b51bec0a511ceeb39", null ],
-    [ "Register", "d9/d60/a22257.html#a9c71b084ce6b86ccaeb9a94d1f8de2b1", null ]
+    [ "npc_llod_genericAI", "d9/d60/a22257.html#ac75d85ae4b59416952788102cd1db132", null ],
+    [ "Reset", "d9/d60/a22257.html#a15bd7442fef36a551cc8797f7919f57c", null ],
+    [ "UpdateAI", "d9/d60/a22257.html#aa7dce553fb699127f63281b2c47a2f02", null ],
+    [ "attackTimer", "d9/d60/a22257.html#a28a6e700d24995e477e7e7c4cc8b5d68", null ],
+    [ "summonTimer", "d9/d60/a22257.html#aeeeef545aee565c14d86d8587923c677", null ]
 ];

@@ -1,5 +1,6 @@
 var a20773 =
 [
-    [ "npc_ulduar_flames_spread", "d8/dbb/a20773.html#aea2856e8ea84dfb447017a4d8b2ab088", null ],
-    [ "SpellHit", "d8/dbb/a20773.html#af8cad4be1736f377721b7a0a63cfafe7", null ]
+    [ "HandleDamage", "d8/dbb/a20773.html#af2578478e83eb2f6c2de32a692e9be91", null ],
+    [ "PrepareSpellScript", "d8/dbb/a20773.html#a4ff1ab3534ea70b07b3a570afcb046fd", null ],
+    [ "Register", "d8/dbb/a20773.html#a3ad00520c380e36dbb3531df0b5cc864", null ]
 ];

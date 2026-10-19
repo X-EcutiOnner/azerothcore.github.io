@@ -1,6 +1,11 @@
 var a15341 =
 [
-    [ "boss_salrammAI", "d5/d30/a15345.html", "d5/d30/a15345" ],
-    [ "boss_salramm", "d9/dc1/a15341.html#a62c629a03f0c7ca7f3bf14b5209342d1", null ],
-    [ "GetAI", "d9/dc1/a15341.html#ab6b400f0d329d4def074d012de47f53d", null ]
+    [ "boss_epochAI", "d9/dc1/a15341.html#a35d80bf8032fba5908132ad29f372293", null ],
+    [ "JustDied", "d9/dc1/a15341.html#a780aa5bc86c80aaeeffad441b2873121", null ],
+    [ "JustEngagedWith", "d9/dc1/a15341.html#ae742dceac5979faebb58a133e9bd91f0", null ],
+    [ "KilledUnit", "d9/dc1/a15341.html#af41946feab7b86d812f706bd7abbf1bd", null ],
+    [ "Reset", "d9/dc1/a15341.html#a98cf5d8aded78694117af64ccdb6cd83", null ],
+    [ "SpellHitTarget", "d9/dc1/a15341.html#ab87dfcf635a65b02be29186d2990fef3", null ],
+    [ "UpdateAI", "d9/dc1/a15341.html#a651b11c4cc5f92881b4dd5b7f22c9d85", null ],
+    [ "warps", "d9/dc1/a15341.html#a478113af1ce565c729604c6039f55551", null ]
 ];

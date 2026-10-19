@@ -1,6 +1,6 @@
 var a17781 =
 [
-    [ "npc_dark_nucleusAI", "d9/d94/a17785.html", "d9/d94/a17785" ],
-    [ "npc_dark_nucleus", "dd/d3d/a17781.html#a14459f4f41ef568decbc952fdcd4ffd5", null ],
-    [ "GetAI", "dd/d3d/a17781.html#a1f59ae45c1a84a6faca5a8bb62fc16fc", null ]
+    [ "StandUpEvent", "dd/d3d/a17781.html#a2f68b19898c65b9229159d9133b3d7cf", null ],
+    [ "Execute", "dd/d3d/a17781.html#a56bc1071300ff8f81e62839685e8f53a", null ],
+    [ "_owner", "dd/d3d/a17781.html#a456a494140657d81b203834f7b88d5d1", null ]
 ];

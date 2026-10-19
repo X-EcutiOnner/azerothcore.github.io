@@ -1,6 +1,5 @@
 var a19589 =
 [
-    [ "boss_grobbulus_poison_cloudAI", "d8/dc1/a19593.html", "d8/dc1/a19593" ],
-    [ "boss_grobbulus_poison_cloud", "d0/d2a/a19589.html#a2bb8ebec0ae79f20602e551f654e0761", null ],
-    [ "GetAI", "d0/d2a/a19589.html#a34c68dd3e58b83c52f270eb1b194f2ed", null ]
+    [ "PrepareSpellScript", "d0/d2a/a19589.html#a09b852666752f6adde3f9e5bb1f107bc", null ],
+    [ "Register", "d0/d2a/a19589.html#a80c3077f8f689367276e1054a6236681", null ]
 ];

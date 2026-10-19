@@ -1,7 +1,7 @@
 var a29453 =
 [
-    [ "Id", "d3/da3/a29453.html#a5e2447dd0f6b60e322105d8fcafd0010", null ],
-    [ "MaxLevel", "d3/da3/a29453.html#a0392e52a26bb4e1d1927fa7f76c674b8", null ],
-    [ "Modifier", "d3/da3/a29453.html#a5ce5b18749d3c75878b310bdc8427b1f", null ],
-    [ "StatMod", "d3/da3/a29453.html#ab639dd94c53707ca160e13f71342730d", null ]
+    [ "ID", "d3/da3/a29453.html#a3af48dd3f6b92ad7f5950d99ca6dd379", null ],
+    [ "Index", "d3/da3/a29453.html#aa58e046529aae0d1d6201c08ec8107e2", null ],
+    [ "Skill", "d3/da3/a29453.html#aed5e58cf605d3c28cd0d26015722be03", null ],
+    [ "Type", "d3/da3/a29453.html#a39b0b548efd795c162926bddcdd301b5", null ]
 ];

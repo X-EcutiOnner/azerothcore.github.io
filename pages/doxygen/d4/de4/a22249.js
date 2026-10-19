@@ -1,7 +1,16 @@
 var a22249 =
 [
-    [ "Absorb", "d4/de4/a22249.html#a784b48553696734abac77545df2fc045", null ],
-    [ "CalculateAmount", "d4/de4/a22249.html#a456ee99a71062f6217bda7561e4e7766", null ],
-    [ "PrepareAuraScript", "d4/de4/a22249.html#a456b1b70fd6d9b6642ec959677fe08ff", null ],
-    [ "Register", "d4/de4/a22249.html#aa3260fa9a1a918e13ccfc9cd57f59d19", null ]
+    [ "npc_battle_at_valhalasAI", "d4/de4/a22249.html#a2118bb3a502d2082297631e3dab298da", null ],
+    [ "EndBattle", "d4/de4/a22249.html#afe408345e99bfc27e3abf3335c72de5d", null ],
+    [ "JustReachedHome", "d4/de4/a22249.html#ac8f8ed2571587e8af65f92d0271d786c", null ],
+    [ "JustSummoned", "d4/de4/a22249.html#ac2c766dd298bf074f20968006a361036", null ],
+    [ "PrepareSummons", "d4/de4/a22249.html#a80e97ceef22290d241fa3f5894331c08", null ],
+    [ "Reset", "d4/de4/a22249.html#a303f268cbcc0e2c731c505c721c55da6", null ],
+    [ "ResetData", "d4/de4/a22249.html#a3bc670704f0e235ae4022ba796a333b9", null ],
+    [ "StartBattle", "d4/de4/a22249.html#a01dff1aba876527951d3c83ae8b240ff", null ],
+    [ "UpdateAI", "d4/de4/a22249.html#a3294ef4eb601df5156db0ba416d3aabe", null ],
+    [ "currentQuest", "d4/de4/a22249.html#a7c8a2c0710f68d617bd7edd71632c744", null ],
+    [ "events", "d4/de4/a22249.html#a74ac913100bb6ecd904f0b2f0e590271", null ],
+    [ "playerGUID", "d4/de4/a22249.html#aac5d72cbc9f07d43dc6d9b722d0626b8", null ],
+    [ "summons", "d4/de4/a22249.html#a3e894857fd5e3f4ccc5fc40c47a8cabe", null ]
 ];

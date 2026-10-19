@@ -1,12 +1,11 @@
 var a24325 =
 [
-    [ "npc_enslaved_netherwing_drake", "db/d98/a24325.html#a9f848fa3c68b8a269f0b6016058ec364", null ],
-    [ "_GetPlayer", "db/d98/a24325.html#af02a965e98f35134a3c40ed9cdfb723e", null ],
-    [ "JustDied", "db/d98/a24325.html#acde70c9d8c675a9a9dd14695dc752184", null ],
-    [ "MovementInform", "db/d98/a24325.html#afa030a380365daa33c156a0d6be6a6d9", null ],
-    [ "Reset", "db/d98/a24325.html#aec02b19d27a09f16ef06adb694c2e65e", null ],
-    [ "SpellHit", "db/d98/a24325.html#a195794e88870a0b1ca35473f5f0378a7", null ],
-    [ "UpdateAI", "db/d98/a24325.html#aa7ac2dd17bdf4939d74fe5af85c649b9", null ],
-    [ "_playerGUID", "db/d98/a24325.html#a2f9a6a6cbaa9cab0e6014f6fd1c54346", null ],
-    [ "_tapped", "db/d98/a24325.html#a9cbafd9536ff7eca33b0b44295aaec92", null ]
+    [ "npc_maxx_a_million_escortAI", "db/d98/a24325.html#ab827933527ed7b4a04b162034876ced8", null ],
+    [ "JustDied", "db/d98/a24325.html#a2106ab4d32d0f221f62eeffd93f71380", null ],
+    [ "Reset", "db/d98/a24325.html#a6b9b2ed76e26f908ff2272ad8744a59e", null ],
+    [ "UpdateAI", "db/d98/a24325.html#a3b022feb2303875d32ad981e84f66854", null ],
+    [ "WaypointReached", "db/d98/a24325.html#acd6f45abb93f3f043cd85647405a50f6", null ],
+    [ "WaypointReached", "db/d98/a24325.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "bTake", "db/d98/a24325.html#ac697fc6cbc20c7f316845ed26436049b", null ],
+    [ "uiTakeTimer", "db/d98/a24325.html#a5d4826dcf893f444a42dedba57460110", null ]
 ];

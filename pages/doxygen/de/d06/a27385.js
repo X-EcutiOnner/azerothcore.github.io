@@ -1,7 +1,6 @@
 var a27385 =
 [
-    [ "HandleDummy", "de/d06/a27385.html#ab046ef0adc63c32a153ba4ea866f8dcd", null ],
-    [ "PrepareSpellScript", "de/d06/a27385.html#ac293d1c1aac41808f81cad2974424c2e", null ],
-    [ "Register", "de/d06/a27385.html#ab145e1826eb63d0b6b1ea39a6c3c4d36", null ],
-    [ "Validate", "de/d06/a27385.html#aa725a6ee483dfac46724d291de4ee54b", null ]
+    [ "HandleEffectPeriodic", "de/d06/a27385.html#ab283b40ceb6dcd0a835550531321ce92", null ],
+    [ "PrepareAuraScript", "de/d06/a27385.html#a6d6efe0be7cefeb20c386c83dee561d4", null ],
+    [ "Register", "de/d06/a27385.html#a4c69f350a68c1f4dd429ab52a791f3cd", null ]
 ];

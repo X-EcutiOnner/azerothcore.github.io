@@ -1,7 +1,10 @@
 var a18517 =
 [
-    [ "FrostwyrmLandEvent", "de/ddc/a18517.html#a6b6a467c474a5b03be40e4d9a86eddc8", null ],
-    [ "Execute", "de/ddc/a18517.html#a4da77796a223e6233ac6d908f7700623", null ],
-    [ "_dest", "de/ddc/a18517.html#a7f5b4c41c459b65e30dea66f7459a7e9", null ],
-    [ "_owner", "de/ddc/a18517.html#a6336050092606ebb27a180abff55dfa2", null ]
+    [ "FilterTargets", "de/ddc/a18517.html#aefba5226671b6217549bd34059519179", null ],
+    [ "Load", "de/ddc/a18517.html#af8a2b651782783dc29ac7266ed02c028", null ],
+    [ "NotifyTargets", "de/ddc/a18517.html#a618e98fbd5c6ae21047cc4f911099730", null ],
+    [ "PrepareSpellScript", "de/ddc/a18517.html#a0cd63fa27a1ee853c5d73c766d1c4de6", null ],
+    [ "Register", "de/ddc/a18517.html#ae72a470c87f7d90e4bd635e239d09f9b", null ],
+    [ "ReplaceTargets", "de/ddc/a18517.html#a5d3df9715d04ea4b663b061c7c02ae03", null ],
+    [ "_target", "de/ddc/a18517.html#a10c85fd3909e56f457d73add8021c0b7", null ]
 ];

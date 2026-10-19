@@ -1,6 +1,8 @@
 var a26849 =
 [
-    [ "CheckTarget", "db/d32/a26849.html#af1dae4f351ccaa7bc9b2ea315f0752c5", null ],
-    [ "PrepareSpellScript", "db/d32/a26849.html#a8f4075c80c7dcaa16f71bc1b396d005f", null ],
-    [ "Register", "db/d32/a26849.html#af4a27df3090a45ebd5db29c58e9ea47f", null ]
+    [ "HandleApply", "db/d32/a26849.html#aafdf3712f163919f010d11d0becb398f", null ],
+    [ "HandleRemove", "db/d32/a26849.html#ac3e33cb37d13b633f3938a48917a4975", null ],
+    [ "PrepareAuraScript", "db/d32/a26849.html#a42590a0ef43a48c5309f995f9bec5c9b", null ],
+    [ "Register", "db/d32/a26849.html#a84e7337494dc2e1772ca10dea26c675f", null ],
+    [ "Validate", "db/d32/a26849.html#ac2558aafb3ce66ca7bbfd718eb8c6338", null ]
 ];

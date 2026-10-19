@@ -1,6 +1,6 @@
 var a17869 =
 [
-    [ "FilterTargets", "da/d71/a17869.html#a7abb4397b5fcf956bf31fa4dc9960ece", null ],
-    [ "PrepareSpellScript", "da/d71/a17869.html#a8e9d81b34e05506569f4b910c1958de3", null ],
-    [ "Register", "da/d71/a17869.html#aa80980c3f68abcb0fac7a41172f70012", null ]
+    [ "ChangeSummonPos", "da/d71/a17869.html#a2c3d69419762c7f78688a22017a8c535", null ],
+    [ "PrepareSpellScript", "da/d71/a17869.html#a97c48254a0d7a0bd4bcf40f614bc5373", null ],
+    [ "Register", "da/d71/a17869.html#a9c1aad0131ebe9635c9fdbb3d71c9cdd", null ]
 ];

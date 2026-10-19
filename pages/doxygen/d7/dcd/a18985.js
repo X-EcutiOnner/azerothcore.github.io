@@ -1,6 +1,7 @@
 var a18985 =
 [
-    [ "npc_valithria_portalAI", "db/dbf/a18989.html", "db/dbf/a18989" ],
-    [ "npc_valithria_portal", "d7/dcd/a18985.html#a6014d7a57dfe5d21f63c03b3efcbdfc8", null ],
-    [ "GetAI", "d7/dcd/a18985.html#a9770ad0bc3732f2271876bbc84885dc0", null ]
+    [ "AuraRemoveEvent", "d7/dcd/a18985.html#a094b9437c7cadb465738daf5684c9725", null ],
+    [ "Execute", "d7/dcd/a18985.html#a14ac906a0fcff86f61983c570b0bd6ad", null ],
+    [ "_spellId", "d7/dcd/a18985.html#a6fad41839e07e9545859be7c3afcfc36", null ],
+    [ "_trigger", "d7/dcd/a18985.html#aad8c27befc102dae6823d5d74fed50b4", null ]
 ];

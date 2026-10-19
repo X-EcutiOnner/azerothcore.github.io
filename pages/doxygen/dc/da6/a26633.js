@@ -1,5 +1,8 @@
 var a26633 =
 [
-    [ "Trigger", "dc/da6/a26633.html#aa16aba75a066e83cb56660a0e29e7453", null ],
-    [ "Validate", "dc/da6/a26633.html#a6c38df91dbe0cf277d1d50a40edd4589", null ]
+    [ "CheckProc", "dc/da6/a26633.html#ae0e2b86fc99705d7a80c2122643db33f", null ],
+    [ "HandleProc", "dc/da6/a26633.html#ae1027c9041171c9ed613acfd68be5ba3", null ],
+    [ "PrepareAuraScript", "dc/da6/a26633.html#a69d4c898f52ce6334f0bf9963e8c5085", null ],
+    [ "Register", "dc/da6/a26633.html#acfea07ba1efeba58bcfc465122a3f66d", null ],
+    [ "Validate", "dc/da6/a26633.html#a69daf001676f73289682ff63897e81cb", null ]
 ];

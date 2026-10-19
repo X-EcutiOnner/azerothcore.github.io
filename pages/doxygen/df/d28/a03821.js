@@ -1,7 +1,15 @@
 var a03821 =
 [
-    [ "IdleMovementGenerator", "d2/d23/a10503.html", "d2/d23/a10503" ],
-    [ "RotateMovementGenerator", "d3/d87/a10507.html", "d3/d87/a10507" ],
-    [ "DistractMovementGenerator", "d5/db0/a10511.html", "d5/db0/a10511" ],
-    [ "AssistanceDistractMovementGenerator", "d7/d2d/a10515.html", "d7/d2d/a10515" ]
+    [ "STR", "df/d28/a03821.html#a18d295a837ac71add5578860b55e5502", null ],
+    [ "computeFallElevation", "df/d28/a03821.html#a87260372150c8322b45e75bfaa445f14", null ],
+    [ "computeFallTime", "df/d28/a03821.html#a40f989c23fe19e12628da3cd9e64edf4", null ],
+    [ "print_flags", "df/d28/a03821.html#a189485de5eba32c5b18dbb5c579b60d9", null ],
+    [ "g_MovementFlag_names", "df/d28/a03821.html#a2982e1b6388bf8b29797b16969b64173", null ],
+    [ "g_SplineFlag_names", "df/d28/a03821.html#aa6a1b38cb6e1507d88f0f45a4820990b", null ],
+    [ "terminal_fallTime", "df/d28/a03821.html#aa927e4ada20ca56ce951239357407270", null ],
+    [ "terminal_length", "df/d28/a03821.html#a7d1eb637bb6ae4a1859504fb84872808", null ],
+    [ "terminal_safeFall_fallTime", "df/d28/a03821.html#a2fc34c9abcc5822e12037c23c2ecbfe0", null ],
+    [ "terminal_safeFall_length", "df/d28/a03821.html#a4e816239736800d4508c1fc14e624ddc", null ],
+    [ "terminalSafefallVelocity", "df/d28/a03821.html#a654673c77f53f27a80309b050d44d38d", null ],
+    [ "terminalVelocity", "df/d28/a03821.html#a98cc74e5667e1057f334f02a28abcb01", null ]
 ];

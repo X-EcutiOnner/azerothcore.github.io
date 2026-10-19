@@ -1,8 +1,6 @@
 var a13029 =
 [
-    [ "FilterTargets", "d6/d16/a13029.html#a03acb7fb2734d9c8e8e623600bc16859", null ],
-    [ "FilterTargetsEff", "d6/d16/a13029.html#a8aeffd2a01c805246c33d22a59274c6f", null ],
-    [ "PrepareSpellScript", "d6/d16/a13029.html#ae00bc9956c9971d62d9185c72d3bd8b5", null ],
-    [ "Register", "d6/d16/a13029.html#aba646a238c3b4b7343f3eec8c6445eb5", null ],
-    [ "targetList", "d6/d16/a13029.html#a874dc7877ecfae332c9f826f01afce0f", null ]
+    [ "boss_flamegor", "d6/d16/a13029.html#a721c23d631d305c102117566f609f10a", null ],
+    [ "JustEngagedWith", "d6/d16/a13029.html#aebbcd35868c64d2a0b1f660720f84575", null ],
+    [ "UpdateAI", "d6/d16/a13029.html#a086f8bd08ba22fff7e399bf9588cbffd", null ]
 ];

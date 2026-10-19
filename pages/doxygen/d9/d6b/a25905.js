@@ -1,8 +1,10 @@
 var a25905 =
 [
-    [ "HandleRapidFireProc", "d9/d6b/a25905.html#a174eb1d766c0ae7f59fabdefe565e1de", null ],
-    [ "HandleRapidKillingProc", "d9/d6b/a25905.html#a12f24814d41837c8ddb8a42c8e932077", null ],
-    [ "PrepareAuraScript", "d9/d6b/a25905.html#aa75ea03f718a90a49d81ff49d765c74d", null ],
-    [ "Register", "d9/d6b/a25905.html#af1d93d8ea32a74f7bb6c115f21c5c6c3", null ],
-    [ "Validate", "d9/d6b/a25905.html#a01598fbd355dfdd4517d4221ad5ae323", null ]
+    [ "CheckPeriodicProc", "d9/d6b/a25905.html#abd7673f268b80681b27a862bd8013de3", null ],
+    [ "CheckProc", "d9/d6b/a25905.html#a439aa5395d222291fbd5943f853d8961", null ],
+    [ "CheckTrapProc", "d9/d6b/a25905.html#a0cbe419bde5ebc30dc599bbdd99d04eb", null ],
+    [ "HandleProc", "d9/d6b/a25905.html#a70fbabc5f07bfff080fe9af6f12d440e", null ],
+    [ "PrepareAuraScript", "d9/d6b/a25905.html#a475320d20875b2d710ed3734b78f4645", null ],
+    [ "Register", "d9/d6b/a25905.html#aca7649a87ace4e22793ca33705b1500c", null ],
+    [ "Validate", "d9/d6b/a25905.html#a45630b6dc703996321286ff16a17e3e3", null ]
 ];

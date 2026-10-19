@@ -1,5 +1,4 @@
 var a30141 =
 [
-    [ "CalculateSpellTypeMask", "d6/d75/a30141.html#ad4f136e69c7553ac32b1de047bf73c59", null ],
-    [ "SetUp", "d6/d75/a30141.html#a57be47f0c3962451b527ffe247dee814", null ]
+    [ "SetUp", "d6/d75/a30141.html#ac3f2160779c59e93dd155c766563bc98", null ]
 ];

@@ -1,7 +1,8 @@
 var a25329 =
 [
-    [ "HandleScript", "d4/dfc/a25329.html#a9fb69011ce5245925eb6a4fd011d18b2", null ],
-    [ "PrepareSpellScript", "d4/dfc/a25329.html#ab9300ff0efc4a36d652a1b56c031dc2f", null ],
-    [ "Register", "d4/dfc/a25329.html#aa0828fa1a3cf75e8222607a4f2fff950", null ],
-    [ "Validate", "d4/dfc/a25329.html#a9469ebca2d40dd2944f2fb7286fc64ff", null ]
+    [ "CheckIfCorpseNear", "d4/dfc/a25329.html#afdf1bca2e23057d99962fb1000e9245e", null ],
+    [ "HandleDummy", "d4/dfc/a25329.html#a9e1bf4884a32e515d8e6b3edf7f5d462", null ],
+    [ "PrepareSpellScript", "d4/dfc/a25329.html#af4a1aa22ed9ccf4df29d05d3f7fb0214", null ],
+    [ "Register", "d4/dfc/a25329.html#a22f4c5321769384b2b708f19edea1a66", null ],
+    [ "Validate", "d4/dfc/a25329.html#a855fdba79c4fa087253505ed419b9966", null ]
 ];

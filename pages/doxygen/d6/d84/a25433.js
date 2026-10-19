@@ -1,7 +1,6 @@
 var a25433 =
 [
-    [ "HandleScript", "d6/d84/a25433.html#a8b20e2ffed94ec9438dc9b756ba76693", null ],
-    [ "PrepareSpellScript", "d6/d84/a25433.html#a9e29ea947d5415471d991a4e1cd699ac", null ],
-    [ "Register", "d6/d84/a25433.html#aa4bc27415893009581b317637599a85a", null ],
-    [ "Validate", "d6/d84/a25433.html#a77ed10819633ae2bc381023da0feb31b", null ]
+    [ "CalculateAmount", "d6/d84/a25433.html#a66b009487462241e573ea23f081a140a", null ],
+    [ "PrepareAuraScript", "d6/d84/a25433.html#a0eee16c77a3c3cea882b67c78826a140", null ],
+    [ "Register", "d6/d84/a25433.html#afeafc6922b0a0389fec969e3c7191dda", null ]
 ];

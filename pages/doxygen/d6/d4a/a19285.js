@@ -1,5 +1,7 @@
 var a19285 =
 [
-    [ "at_icc_saurfang_portal", "d6/d4a/a19285.html#a7f30058251c520634a0b7bad08380e5d", null ],
-    [ "OnTrigger", "d6/d4a/a19285.html#a8980fe0e67aa33335f0fdb947a294213", null ]
+    [ "HandleScript", "d6/d4a/a19285.html#ace11e192a27b2da98ff62c4eee7980ba", null ],
+    [ "PrepareSpellScript", "d6/d4a/a19285.html#a8a6351b7f87101ac8328b6e76784978c", null ],
+    [ "Register", "d6/d4a/a19285.html#ad57068b21218492078e2d2bfe76cc3c9", null ],
+    [ "Validate", "d6/d4a/a19285.html#af6f1dd22aef0595315460c149d920dff", null ]
 ];

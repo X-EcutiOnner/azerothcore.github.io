@@ -1,7 +1,7 @@
 var a15057 =
 [
-    [ "CheckProc", "d7/d55/a15057.html#a4be98e79967d43908c0f642caab59348", null ],
-    [ "OnApply", "d7/d55/a15057.html#a30d33268b58507c228a4628031bffca0", null ],
-    [ "PrepareAuraScript", "d7/d55/a15057.html#a16dc3f52152d63b5512690c761f9915a", null ],
-    [ "Register", "d7/d55/a15057.html#a6494e4d7277e910ffa3b30c333117f00", null ]
+    [ "HandleScript", "d7/d55/a15057.html#a78899a874a645d531dd4d89f2bd5478a", null ],
+    [ "PrepareSpellScript", "d7/d55/a15057.html#adc96c1dbf0b561a72d26dca57d5bfcec", null ],
+    [ "Register", "d7/d55/a15057.html#a76942c06492a48ce16bb85cf55d1e58d", null ],
+    [ "Validate", "d7/d55/a15057.html#a727f7c6ab1a2b5635e0b8fbd071d863d", null ]
 ];

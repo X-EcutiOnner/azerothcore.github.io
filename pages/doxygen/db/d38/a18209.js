@@ -1,9 +1,9 @@
 var a18209 =
 [
-    [ "CheckAreaTarget", "db/d38/a18209.html#a770ca8aa441a7c5ddc3e26968d7861a4", null ],
-    [ "HandleApply", "db/d38/a18209.html#a2aaf88ee6fee8aff23f8ee99b30e369f", null ],
-    [ "Load", "db/d38/a18209.html#aac27c3377b48bc8c602fa7f12dec491a", null ],
-    [ "PrepareAuraScript", "db/d38/a18209.html#a105c93dea246a84b73e13bdf3d04f8f4", null ],
-    [ "Register", "db/d38/a18209.html#a8f476129e0678149463c4b16232f6cb6", null ],
-    [ "_teamIdInInstance", "db/d38/a18209.html#a78b8e04586e328f89a44f41eb8c478c9", null ]
+    [ "HandleApply", "db/d38/a18209.html#a5f23d41765ec949486094a0da45be7e8", null ],
+    [ "HandleRemove", "db/d38/a18209.html#a8737bad17bf7aa3e52cb2e0b7fbc9178", null ],
+    [ "Load", "db/d38/a18209.html#a7c2644d06592b0d929a0b59cf8fa0f1b", null ],
+    [ "PrepareAuraScript", "db/d38/a18209.html#aabf5fdf4578935db11e041e638fba187", null ],
+    [ "Register", "db/d38/a18209.html#a6bdc66b6028002b5fc873803a434b6b1", null ],
+    [ "SendClientControl", "db/d38/a18209.html#a24f79a4c59d4bf615a6de745ffa11d81", null ]
 ];

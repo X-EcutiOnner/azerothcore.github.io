@@ -1,7 +1,67 @@
 var a05131 =
 [
-    [ "For", "d6/d55/a05925.html", null ],
-    [ "For< bool, void >", "da/dca/a05933.html", "da/dca/a05933" ],
-    [ "For< T, std::enable_if_t< std::is_floating_point_v< T > > >", "d9/d67/a05937.html", "d9/d67/a05937" ],
-    [ "For< T, std::enable_if_t< std::is_integral_v< T > &&!std::is_same_v< T, bool > > >", "dd/da9/a05929.html", "dd/da9/a05929" ]
+    [ "AreaAndLiquidData", "dc/db1/a05329.html", "dc/db1/a05329" ],
+    [ "AreaInfo", "d8/d87/a05397.html", "d8/d87/a05397" ],
+    [ "GModelRayCallback", "d6/d0f/a05457.html", "d6/d0f/a05457" ],
+    [ "GroupLocationInfo", "d0/d61/a05385.html", "d0/d61/a05385" ],
+    [ "GroupModel", "d4/d8b/a05477.html", "d4/d8b/a05477" ],
+    [ "GroupModel_Raw", "d6/dd2/a05417.html", "d6/dd2/a05417" ],
+    [ "IntersectionCallBack", "d2/d18/a05501.html", "d2/d18/a05501" ],
+    [ "IVMapMgr", "d4/d27/a05341.html", "d4/d27/a05341" ],
+    [ "LocationInfo", "d8/d58/a05389.html", "d8/d58/a05389" ],
+    [ "LocationInfoCallback", "da/d0c/a05381.html", "da/d0c/a05381" ],
+    [ "MapRayCallback", "de/d16/a05377.html", "de/d16/a05377" ],
+    [ "MapSpawns", "dc/d67/a05413.html", "dc/d67/a05413" ],
+    [ "MeshTriangle", "df/d17/a05469.html", "df/d17/a05469" ],
+    [ "ModelInstance", "d5/d95/a05445.html", "d5/d95/a05445" ],
+    [ "ModelPosition", "dc/d61/a05409.html", "dc/d61/a05409" ],
+    [ "ModelSpawn", "d2/dce/a05441.html", "d2/dce/a05441" ],
+    [ "MyCollisionDetection", "d1/d13/a05505.html", "d1/d13/a05505" ],
+    [ "StaticMapTree", "d0/dc6/a05393.html", "d0/dc6/a05393" ],
+    [ "TileAssembler", "d7/dde/a05425.html", "d7/dde/a05425" ],
+    [ "TriBoundFunc", "d4/d04/a05453.html", "d4/d04/a05453" ],
+    [ "VMapFactory", "df/d8b/a05357.html", "df/d8b/a05357" ],
+    [ "VMapMgr2", "d9/d1e/a05361.html", "d9/d1e/a05361" ],
+    [ "WModelAreaCallback", "d8/d42/a05465.html", "d8/d42/a05465" ],
+    [ "WModelRayCallBack", "df/d7d/a05461.html", "df/d7d/a05461" ],
+    [ "WmoLiquid", "dd/da9/a05473.html", "dd/da9/a05473" ],
+    [ "WMOLiquidHeader", "d2/dbc/a05405.html", "d2/dbc/a05405" ],
+    [ "WorldModel", "de/d74/a05481.html", "de/d74/a05481" ],
+    [ "WorldModel_Raw", "d2/d1d/a05421.html", "d2/d1d/a05421" ],
+    [ "MapData", "d0/dcf/a05131.html#a28dc2e567f8620fed1128b6c4cf5b749", null ],
+    [ "TileMap", "d0/dcf/a05131.html#abfe766a1b58bbf69ce3b17ff14d1c101", null ],
+    [ "UniqueEntryMap", "d0/dcf/a05131.html#a3424b44a092b5f3d8074649ae11ee481", null ],
+    [ "DisableTypes", "d0/dcf/a05131.html#ae6fa86a61cff3bac928739b18ffb8c1b", [
+      [ "VMAP_DISABLE_AREAFLAG", "d0/dcf/a05131.html#ae6fa86a61cff3bac928739b18ffb8c1ba4fc4dc95e6df57c161e146d8da4b4a19", null ],
+      [ "VMAP_DISABLE_HEIGHT", "d0/dcf/a05131.html#ae6fa86a61cff3bac928739b18ffb8c1ba2f9e18e9b167ecc25202f607e29af926", null ],
+      [ "VMAP_DISABLE_LOS", "d0/dcf/a05131.html#ae6fa86a61cff3bac928739b18ffb8c1ba26f8933b26a6ce62d8bddafde8ebb108", null ],
+      [ "VMAP_DISABLE_LIQUIDSTATUS", "d0/dcf/a05131.html#ae6fa86a61cff3bac928739b18ffb8c1ba191004652b9fbcccb26c14ce81a94cec", null ]
+    ] ],
+    [ "LoadResult", "d0/dcf/a05131.html#a3ca4e45c9be5012fb1af06ea12b759c2", [
+      [ "Success", "d0/dcf/a05131.html#a3ca4e45c9be5012fb1af06ea12b759c2a505a83f220c02df2f85c3810cd9ceb38", null ],
+      [ "FileNotFound", "d0/dcf/a05131.html#a3ca4e45c9be5012fb1af06ea12b759c2a2767828026039e8ba7b38973cbb701f2", null ],
+      [ "VersionMismatch", "d0/dcf/a05131.html#a3ca4e45c9be5012fb1af06ea12b759c2a2d50084f04994afa70d78b604a22dd31", null ]
+    ] ],
+    [ "ModelFlags", "d0/dcf/a05131.html#ac540ff16efadcc07eeb9d8511b94ccce", [
+      [ "MOD_M2", "d0/dcf/a05131.html#ac540ff16efadcc07eeb9d8511b94ccceadfad2b6f6278e720b00314cd5117b673", null ],
+      [ "MOD_WORLDSPAWN", "d0/dcf/a05131.html#ac540ff16efadcc07eeb9d8511b94cccea3a6165ebc7b838e28ef59670dc84dc46", null ],
+      [ "MOD_HAS_BOUND", "d0/dcf/a05131.html#ac540ff16efadcc07eeb9d8511b94ccceaa47940cd802c5225d2babb37d24c7f09", null ]
+    ] ],
+    [ "ModelIgnoreFlags", "d0/dcf/a05131.html#a6996c44f3ac72cd9dc04515186d2da28", [
+      [ "Nothing", "d0/dcf/a05131.html#a6996c44f3ac72cd9dc04515186d2da28af80a4ad87fee7c9fdc19b7769495fdb5", null ],
+      [ "M2", "d0/dcf/a05131.html#a6996c44f3ac72cd9dc04515186d2da28a9d8322530b67e2366e5b1ba67081ded9", null ]
+    ] ],
+    [ "VMAP_LOAD_RESULT", "d0/dcf/a05131.html#a70f18a0d29fcdc21e145ab8306987b18", [
+      [ "VMAP_LOAD_RESULT_ERROR", "d0/dcf/a05131.html#a70f18a0d29fcdc21e145ab8306987b18a514fc6255627123117d881d4968bf663", null ],
+      [ "VMAP_LOAD_RESULT_OK", "d0/dcf/a05131.html#a70f18a0d29fcdc21e145ab8306987b18a942b44b8a6db80f6d4ab19ebad17192b", null ],
+      [ "VMAP_LOAD_RESULT_IGNORED", "d0/dcf/a05131.html#a70f18a0d29fcdc21e145ab8306987b18addac30ca7168c74f716b6923498e0165", null ]
+    ] ],
+    [ "IntersectTriangle", "d0/dcf/a05131.html#a1dfba6966e499a368a393b5b52e5c6f8", null ],
+    [ "IsInsideOrAboveBound", "d0/dcf/a05131.html#af71b89398ed4323940f67baaf58f2cd7", null ],
+    [ "operator&", "d0/dcf/a05131.html#a3c25bdb4d30c345cd6760935e2c456f4", null ],
+    [ "readChunk", "d0/dcf/a05131.html#aa923966c6cf6ce644b8335506d5f1fce", null ],
+    [ "GAMEOBJECT_MODELS", "d0/dcf/a05131.html#ada4191301386f881525b3f0b0760cb60", null ],
+    [ "gVMapMgr", "d0/dcf/a05131.html#a3fb33e0008bbbabc087f99a45e512784", null ],
+    [ "RAW_VMAP_MAGIC", "d0/dcf/a05131.html#ab44884fb6c05cb4ae128d5882a2c4b7c", null ],
+    [ "VMAP_MAGIC", "d0/dcf/a05131.html#aa7e5a571fdcb9d62ceefdcf5744746cb", null ]
 ];

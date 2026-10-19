@@ -1,6 +1,6 @@
 var a21217 =
 [
-    [ "achievement_yogg_saron_he_waits_dreaming", "d7/d75/a21217.html#a25f4950d1ccffe77aa9cf5de7a14ea37", null ],
-    [ "OnCheck", "d7/d75/a21217.html#a7ef7dfb0235fb2db5932e7415e3e6f61", null ],
-    [ "_requiredIllusion", "d7/d75/a21217.html#aa3e107cb3be6fa02687709e07466a094", null ]
+    [ "ModSanityStacks", "d7/d75/a21217.html#a38b8425689f91b91e23096d658b462cf", null ],
+    [ "PrepareSpellScript", "d7/d75/a21217.html#a43362033f7422a0b9918ddd3b7e480cc", null ],
+    [ "Register", "d7/d75/a21217.html#a6d5e27f728ee3980d33d417fb437c9c6", null ]
 ];

@@ -1,8 +1,7 @@
 var a28813 =
 [
-    [ "npc_cultist_engineer", "d4/da8/a28813.html#a02675a96d20902d147b0370fa1715d81", null ],
-    [ "JustDied", "d4/da8/a28813.html#a4b4d561f827553998caa204e0e1b9e54", null ],
-    [ "Reset", "d4/da8/a28813.html#a6f84d224a959c06fbb7a48197dd4cbdd", null ],
-    [ "sGossipSelect", "d4/da8/a28813.html#ab26d124cbfdc4d649fef6058e9637845", null ],
-    [ "UpdateAI", "d4/da8/a28813.html#a47b1b08959b8cd02ba92fcf3a55e32d2", null ]
+    [ "npc_crashin_thrashin_robot", "d4/da8/a28813.html#ad21336d212498b1c9ef5d46979d147ab", null ],
+    [ "IsSummonedBy", "d4/da8/a28813.html#a0652cd455791461f613ab4ebf77d2c3c", null ],
+    [ "UpdateAI", "d4/da8/a28813.html#a1d21cd2075f3aeba2c7f1e735a33dfec", null ],
+    [ "_scheduler", "d4/da8/a28813.html#a55778501d154d0a9e77f76054e926f85", null ]
 ];

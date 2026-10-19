@@ -1,6 +1,7 @@
 var a23733 =
 [
-    [ "CheckProc", "df/d61/a23733.html#add583b34b9052fbb37c43c558f0f8b96", null ],
-    [ "PrepareAuraScript", "df/d61/a23733.html#a3d7ed0fa175daffcf11fc3ee04b189bf", null ],
-    [ "Register", "df/d61/a23733.html#ab91f611f59e83d4f1b7c71b1595db667", null ]
+    [ "PeriodicTick", "df/d61/a23733.html#a53541105e40202e4a73ecc38d84e9eca", null ],
+    [ "PrepareAuraScript", "df/d61/a23733.html#a79c8829a86db535e254db009d5286430", null ],
+    [ "Register", "df/d61/a23733.html#a58cd762eb10d224bb188aaf167c816b9", null ],
+    [ "Validate", "df/d61/a23733.html#a0a4a1c0b460f7a0ade6ddbbedc893c6f", null ]
 ];

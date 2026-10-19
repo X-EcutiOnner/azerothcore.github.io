@@ -1,7 +1,6 @@
 var a13025 =
 [
-    [ "HandlePeriodic", "da/d34/a13025.html#ac2196cc9de34e286581d44d147fe9d04", null ],
-    [ "PrepareAuraScript", "da/d34/a13025.html#a149c974371f23268d2d929b483637b14", null ],
-    [ "Register", "da/d34/a13025.html#a6a2f42867a7082d2b8406c651d5dc484", null ],
-    [ "Validate", "da/d34/a13025.html#ab77b8a7dca3dc9bbd20cdb498d1d317e", null ]
+    [ "boss_firemaw", "da/d34/a13025.html#a2d2be691020b8aa81f82ffab91a86e42", null ],
+    [ "JustEngagedWith", "da/d34/a13025.html#a63d0f449d04ad3d86f4ede9a0f9696a9", null ],
+    [ "UpdateAI", "da/d34/a13025.html#a13a672cc37175615068429f9a3282e07", null ]
 ];

@@ -1,7 +1,6 @@
 var a27957 =
 [
-    [ "HandleProc", "d2/d96/a27957.html#a5046d3b14fcf4260da937032c043fe42", null ],
-    [ "PrepareAuraScript", "d2/d96/a27957.html#abcc31343fd53057e8116b47dd56033c1", null ],
-    [ "Register", "d2/d96/a27957.html#a9a04291ffb75010ccaa46801d06e2080", null ],
-    [ "Validate", "d2/d96/a27957.html#a13ecea64673f78b4b384a411a7aa8ca7", null ]
+    [ "PrepareAuraScript", "d2/d96/a27957.html#a65fa925d99065d028e328a92f2a13805", null ],
+    [ "Register", "d2/d96/a27957.html#a95dc732286adf4327f68e23015d58c21", null ],
+    [ "RemoveEffect", "d2/d96/a27957.html#a3f474c143f64739187b6049cac5e4b38", null ]
 ];

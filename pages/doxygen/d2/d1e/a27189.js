@@ -1,7 +1,6 @@
 var a27189 =
 [
-    [ "CheckTarget", "d2/d1e/a27189.html#abaef73201d2e0bd1d6789309442019e0", null ],
-    [ "HandleScriptEffect", "d2/d1e/a27189.html#a545196cd976bfabbd85ba48942012e1e", null ],
-    [ "PrepareSpellScript", "d2/d1e/a27189.html#add5c1ecaa5a75af6e91a0df5d63bbc42", null ],
-    [ "Register", "d2/d1e/a27189.html#a36563a197b7377660b7c3f9e85d478bd", null ]
+    [ "HandleFinish", "d2/d1e/a27189.html#a53263ce51581f36c2df80b49c93fa9d3", null ],
+    [ "PrepareSpellScript", "d2/d1e/a27189.html#a8113f61816473399f0ceab18b104d058", null ],
+    [ "Register", "d2/d1e/a27189.html#a36bf50cdb7be7ba03eafd4848c6ceced", null ]
 ];

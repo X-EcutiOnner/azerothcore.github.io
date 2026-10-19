@@ -1,9 +1,8 @@
 var a06517 =
 [
-    [ "TurretAI", "de/dda/a06517.html#a0aaa1ee5eb1b2e83657ef24479d9a91e", null ],
-    [ "AttackStart", "de/dda/a06517.html#ab6eb7cf777595a4b196373123da19bea", null ],
-    [ "CanAIAttack", "de/dda/a06517.html#a47c1c38ddcc1f473104fb698fe338684", null ],
-    [ "Permissible", "de/dda/a06517.html#aac81fb574d70369fb006fb7ba22a0784", null ],
-    [ "UpdateAI", "de/dda/a06517.html#aa2d308443a31d8a06bbc63517695dfef", null ],
-    [ "m_minRange", "de/dda/a06517.html#a4cffbf9bcb29468dad6a6583c905b99a", null ]
+    [ "BannedAddon", "de/dda/a06517.html#aadd8cb8602ec03455a91b4f49767fdc8", null ],
+    [ "Id", "de/dda/a06517.html#aa7d9dbd83fd1ef10fb125c798e293606", null ],
+    [ "NameMD5", "de/dda/a06517.html#a67c4437044d747ff9867a71967697767", null ],
+    [ "Timestamp", "de/dda/a06517.html#af62257c39a4ae1eba959086e981b0d19", null ],
+    [ "VersionMD5", "de/dda/a06517.html#acb8dbe824f71363eb81504f43a126d96", null ]
 ];

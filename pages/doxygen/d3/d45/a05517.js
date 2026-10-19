@@ -1,11 +1,9 @@
 var a05517 =
 [
-    [ "ARC4", "d3/d45/a05517.html#ac05d4f85233abfc5cbcb87cd2a87bc5a", null ],
-    [ "~ARC4", "d3/d45/a05517.html#af3a8b63c2073120026c262a685eef8f2", null ],
-    [ "Init", "d3/d45/a05517.html#a68993c30cafb864abd5ae0c49ee8296e", null ],
-    [ "Init", "d3/d45/a05517.html#aaa9c89da159b57a897898bc31e10ecd4", null ],
-    [ "UpdateData", "d3/d45/a05517.html#ae350945f2713305e977e4a3e4fc3d5b5", null ],
-    [ "UpdateData", "d3/d45/a05517.html#a4023480221891e0d1ccd7a92aabd173c", null ],
-    [ "_cipher", "d3/d45/a05517.html#ab017c87cd73a9b5fade745799724c333", null ],
-    [ "_ctx", "d3/d45/a05517.html#a8539413b1e0344abe9545f742cc8e6df", null ]
+    [ "criticalOptionSeverity", "d3/d45/a05517.html#adfaae562c345965b96fa5f7c92da161e", null ],
+    [ "defaultSeverity", "d3/d45/a05517.html#a4d490930b6bbaa9c50570ff9808b1af9", null ],
+    [ "missingFileSeverity", "d3/d45/a05517.html#a8cd5da53d2cd0b5d0533741a2dcf651c", null ],
+    [ "missingOptionSeverity", "d3/d45/a05517.html#a3c64d5a1ac04533f27af53de8d688ec5", null ],
+    [ "unknownOptionSeverity", "d3/d45/a05517.html#ad41070de3cb2c7fa2916654b9e2a693e", null ],
+    [ "valueErrorSeverity", "d3/d45/a05517.html#a2c1a05a826289e1cc3f01a988718dda2", null ]
 ];

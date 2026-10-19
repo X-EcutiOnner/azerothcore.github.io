@@ -1,7 +1,5 @@
 var a10909 =
 [
-    [ "SpellScriptLoader", "d9/da7/a10909.html#a3b6fe2ba310f95c438b7cf941865fe46", null ],
-    [ "GetAuraScript", "d9/da7/a10909.html#a9c60850e39ffe3d151a128b12777859d", null ],
-    [ "GetSpellScript", "d9/da7/a10909.html#a6f3a101a0517ba1440399809cf7f5b5b", null ],
-    [ "IsDatabaseBound", "d9/da7/a10909.html#ae60bf9957b950c7f5c9927f71510dc06", null ]
+    [ "MovementHandlerScript", "d9/da7/a10909.html#aec794d21148c9ed382d80b6c30a676cd", null ],
+    [ "OnPlayerMove", "d9/da7/a10909.html#ac1604e58c8ecab26ce4159fb43a86a68", null ]
 ];

@@ -1,5 +1,9 @@
 var a22717 =
 [
-    [ "OutdoorPvP_terokkar_forest", "de/d87/a22717.html#ac98a2b4c1dae9a8b75249eedeb7d8cb8", null ],
-    [ "GetOutdoorPvP", "de/d87/a22717.html#acf268293812d7a1a233e7f1fcba1e733", null ]
+    [ "OPvPCapturePointGH", "de/d87/a22717.html#a6e46100e50212310af4301c492d5773e", null ],
+    [ "ChangeState", "de/d87/a22717.html#afe53e37a3a1dc4a7068c03302f26b981", null ],
+    [ "FillInitialWorldStates", "de/d87/a22717.html#a11d305d6f50ce2535bd5d7b2e7a3389f", null ],
+    [ "HandlePlayerEnter", "de/d87/a22717.html#afea733c44d129d9a5af78a8337d9e04a", null ],
+    [ "HandlePlayerLeave", "de/d87/a22717.html#a1e5d9c6f02eb02dfed654078c910635b", null ],
+    [ "SendChangePhase", "de/d87/a22717.html#aec741b9102829bf77850dc06a49bb8da", null ]
 ];

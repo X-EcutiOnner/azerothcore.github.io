@@ -1,9 +1,11 @@
 var a18177 =
 [
-    [ "CalculateDamage", "dd/d80/a18177.html#a6a9e90d9463825b38b69afc234b35b39", null ],
-    [ "PrepareSpellScript", "dd/d80/a18177.html#ae7a8d0cc36708b11f8eefebd5df0a980", null ],
-    [ "Register", "dd/d80/a18177.html#a2722814a55469e5bae572766ed36309b", null ],
-    [ "RemoveEnergy", "dd/d80/a18177.html#a0f16b4b35985d658dc185aa88ab099ed", null ],
-    [ "StoreEnergy", "dd/d80/a18177.html#aca3ecc5a6219cb3813f17be404142c6d", null ],
-    [ "_energyLeft", "dd/d80/a18177.html#af082a763f6524aeb5ae2eb3c82fd12e5", null ]
+    [ "CountTargets", "dd/d80/a18177.html#a54f6526359fba124a988ba35c2876fd1", null ],
+    [ "Load", "dd/d80/a18177.html#a32a76ca53528bbfabfcefd2dc6aef4cc", null ],
+    [ "PrepareSpellScript", "dd/d80/a18177.html#a4991d88429ea951c55ef08a90f364d31", null ],
+    [ "Register", "dd/d80/a18177.html#a8bac27d885c8ea0c659c22599c4e97b4", null ],
+    [ "TeleportPlayer", "dd/d80/a18177.html#ac886eae598b55ed4aa9ddbf9ce3a01bd", null ],
+    [ "TriggerWipe", "dd/d80/a18177.html#a0f79722e00e6255d1ed1bf5846d5c839", null ],
+    [ "Validate", "dd/d80/a18177.html#ad2e586d688b413f9ef9a5688d203106a", null ],
+    [ "_playerCount", "dd/d80/a18177.html#a7c116e74c485ca44e5e6e710cfeb5bba", null ]
 ];

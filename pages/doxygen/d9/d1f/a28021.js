@@ -1,6 +1,6 @@
 var a28021 =
 [
-    [ "HandleHeal", "d9/d1f/a28021.html#a03afbdbdc8555fc2d558a5e48f7340a0", null ],
-    [ "PrepareSpellScript", "d9/d1f/a28021.html#a61a601108cd59e5d87634c02b002e20d", null ],
-    [ "Register", "d9/d1f/a28021.html#ae46c965fc77aa61aaa3c426c8ecc585c", null ]
+    [ "HandleCast", "d9/d1f/a28021.html#ac6afa94be0da1f99b12afebe935bcb5d", null ],
+    [ "PrepareSpellScript", "d9/d1f/a28021.html#aa784c7af6fe38069fca4dcff9a09a22b", null ],
+    [ "Register", "d9/d1f/a28021.html#a81bc86c83ffc70602410912870e61700", null ]
 ];

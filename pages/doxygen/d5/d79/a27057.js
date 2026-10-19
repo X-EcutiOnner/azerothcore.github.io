@@ -1,9 +1,10 @@
 var a27057 =
 [
-    [ "CheckProc", "d5/d79/a27057.html#ac0e2bf5c1a96ce0502561bb6bcb6ad97", null ],
-    [ "HandleDispel", "d5/d79/a27057.html#a64235032423050de10581165c57f8b0a", null ],
-    [ "HandleProc", "d5/d79/a27057.html#ab1c1196f003f7ff0bf6f6eae5bd6de9a", null ],
-    [ "PrepareAuraScript", "d5/d79/a27057.html#af7ba0eb96dca76a288dd034665822069", null ],
-    [ "Register", "d5/d79/a27057.html#ababc8b42c64740655864d2834a639384", null ],
-    [ "Validate", "d5/d79/a27057.html#a03ecf2489369cbb7a6dff555db153a96", null ]
+    [ "CalculateAmount", "d5/d79/a27057.html#a5d4549ac73b46382c1beddbb65257ad0", null ],
+    [ "CheckDropCharge", "d5/d79/a27057.html#a69bcdbce43cee47873a2ba54ff03d928", null ],
+    [ "HandleUpdateSpellclick", "d5/d79/a27057.html#a89956d7f3a6404d5b60e46034867c82c", null ],
+    [ "InitializeAmount", "d5/d79/a27057.html#a4b0656e78d748d974d6d77a43cfa7910", null ],
+    [ "PrepareAuraScript", "d5/d79/a27057.html#a7cbdc79c63306a8fcfcc06180998a290", null ],
+    [ "Register", "d5/d79/a27057.html#a2252719e6ea995b85b7b0c5ecb6a26d3", null ],
+    [ "_remainingAmount", "d5/d79/a27057.html#aa9a60ff01b89cb7c800d068e92c00ce3", null ]
 ];

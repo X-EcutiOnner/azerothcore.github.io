@@ -1,5 +1,5 @@
 var a12629 =
 [
-    [ "Chance", "d9/dd0/a12629.html#a20ae19fc80deceb81adccb91b341fb82", null ],
-    [ "Entry", "d9/dd0/a12629.html#ae8b951678ec65907370ffe700cd668c8", null ]
+    [ "flag", "d9/dd0/a12629.html#ae1419ecdb46b888ad0250ff77ccb9b6e", null ],
+    [ "text", "d9/dd0/a12629.html#a87700bc5f863f448b346c2aec2152ba4", null ]
 ];

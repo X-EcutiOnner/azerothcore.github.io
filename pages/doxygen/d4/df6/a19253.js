@@ -1,7 +1,5 @@
 var a19253 =
 [
-    [ "HandleEvent", "d4/df6/a19253.html#a7aea0f5c4cd3765a8266e5478322910b", null ],
-    [ "PrepareSpellScript", "d4/df6/a19253.html#a2e59f7f9eb67790c59c2e94cf877b4f3", null ],
-    [ "Register", "d4/df6/a19253.html#a96c6a479141f765b9c0f96b5f148a428", null ],
-    [ "Validate", "d4/df6/a19253.html#aa86d2cea5cb41b1e0a86248d95b5bfdb", null ]
+    [ "npc_darkfallen_archmage", "d4/df6/a19253.html#a8d21215aba6a282cf6d6450551876813", null ],
+    [ "ScheduleSpells", "d4/df6/a19253.html#a9a0e12d3d69a7c409d5c32ec68c51f60", null ]
 ];

@@ -1,7 +1,6 @@
 var a24229 =
 [
-    [ "npc_creditmarker_visit_with_ancestorsAI", "d3/db5/a24229.html#a483e8fb0d73561e34a1078fdde1a1b5b", null ],
-    [ "JustEngagedWith", "d3/db5/a24229.html#a4038d707731f64f588e307c22c859902", null ],
-    [ "MoveInLineOfSight", "d3/db5/a24229.html#a40d92122cd4f879f52ff78a4f172c3b8", null ],
-    [ "Reset", "d3/db5/a24229.html#a29132346f117ba785039057619edb9e7", null ]
+    [ "npc_ancestral_wolfAI", "d4/d86/a24233.html", "d4/d86/a24233" ],
+    [ "npc_ancestral_wolf", "d3/db5/a24229.html#a7cadf2848a086db63792f8068ee9463d", null ],
+    [ "GetAI", "d3/db5/a24229.html#a201255a64d4e742ba8b118b4f2ec5cd5", null ]
 ];

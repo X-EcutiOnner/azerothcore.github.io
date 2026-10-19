@@ -1,6 +1,7 @@
 var a26013 =
 [
-    [ "OnRemove", "d6/dd7/a26013.html#adcdc87bcfb9aee5eaa227ba66ad5f010", null ],
-    [ "PrepareAuraScript", "d6/dd7/a26013.html#a9b3985c6f2b1b88ab86ec38c8508fc16", null ],
-    [ "Register", "d6/dd7/a26013.html#a0bc1dae33d0a780623f4551b1dfb1fbf", null ]
+    [ "HandleJump", "d6/dd7/a26013.html#ac70f6d53e85af1ee2591e761e21872db", null ],
+    [ "HandleScriptEffect", "d6/dd7/a26013.html#abdaa3c5356f84429cf6d2e053a3238ff", null ],
+    [ "PrepareSpellScript", "d6/dd7/a26013.html#a7daa7cef660e9f08b8e60c7788783c99", null ],
+    [ "Register", "d6/dd7/a26013.html#a0cbd40958551e0f38850a9fdcd6f0048", null ]
 ];

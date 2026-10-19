@@ -1,41 +1,26 @@
 var a04370 =
 [
-    [ "FileCloser", "d8/d4c/a12299.html", "d8/d4c/a12299" ],
-    [ "BaseTable", "d8/d73/a12303.html", "d8/d73/a12303" ],
-    [ "DumpTable", "d0/d0c/a12307.html", "d0/d0c/a12307" ],
-    [ "StringTransaction", "d3/d34/a12311.html", "d3/d34/a12311" ],
-    [ "TableField", "d5/db7/a12315.html", "d5/db7/a12315" ],
-    [ "TableStruct", "dc/dd4/a12319.html", "dc/dd4/a12319" ],
-    [ "FileHandle", "d7/dc9/a04370.html#ad7de4fbad2e55215496223bdf2a32cd9", null ],
-    [ "GuidType", "d7/dc9/a04370.html#a786729c2a29db8efe3400a170aeb9073", [
-      [ "GUID_TYPE_ACCOUNT", "d7/dc9/a04370.html#a786729c2a29db8efe3400a170aeb9073add99b8eef962c1e9a87a68646b4bf876", null ],
-      [ "GUID_TYPE_CHAR", "d7/dc9/a04370.html#a786729c2a29db8efe3400a170aeb9073ac93e6c4d1a9efe0499f1c7a7b826821e", null ],
-      [ "GUID_TYPE_PET", "d7/dc9/a04370.html#a786729c2a29db8efe3400a170aeb9073a69c016bd84f08697ac13b16609866466", null ],
-      [ "GUID_TYPE_MAIL", "d7/dc9/a04370.html#a786729c2a29db8efe3400a170aeb9073a53f4408b25dfeb8012a6ff280c5abf34", null ],
-      [ "GUID_TYPE_ITEM", "d7/dc9/a04370.html#a786729c2a29db8efe3400a170aeb9073ad1a7c19c45454ebb3d4fbaa8e7c23e02", null ],
-      [ "GUID_TYPE_EQUIPMENT_SET", "d7/dc9/a04370.html#a786729c2a29db8efe3400a170aeb9073a7e486a867408d382ecfe7bfe1a79a157", null ],
-      [ "GUID_TYPE_NULL", "d7/dc9/a04370.html#a786729c2a29db8efe3400a170aeb9073a4215597c66d8cb0ea684255c5b7a2874", null ]
+    [ "PlayerDump", "de/dd5/a12337.html", "de/dd5/a12337" ],
+    [ "PlayerDumpWriter", "d7/deb/a12341.html", "d7/deb/a12341" ],
+    [ "PlayerDumpReader", "d2/dee/a12345.html", "d2/dee/a12345" ],
+    [ "DumpReturn", "d7/dc9/a04370.html#a4471667403db9bc7532f371d28743866", [
+      [ "DUMP_SUCCESS", "d7/dc9/a04370.html#a4471667403db9bc7532f371d28743866a6516d3543697022dbf635913b248e48e", null ],
+      [ "DUMP_FILE_OPEN_ERROR", "d7/dc9/a04370.html#a4471667403db9bc7532f371d28743866a01a5aec7fbe2bac9208d139b46a23656", null ],
+      [ "DUMP_TOO_MANY_CHARS", "d7/dc9/a04370.html#a4471667403db9bc7532f371d28743866a73b27eff0adff2ab7bfd73e34aeb307d", null ],
+      [ "DUMP_FILE_BROKEN", "d7/dc9/a04370.html#a4471667403db9bc7532f371d28743866a86acf22616e301a2ffef9ba80e227ed6", null ],
+      [ "DUMP_CHARACTER_DELETED", "d7/dc9/a04370.html#a4471667403db9bc7532f371d28743866a08aa6d880c4d2da0ad4c8c1b27a5cc47", null ],
+      [ "DUMP_GUID_OVERFLOW", "d7/dc9/a04370.html#a4471667403db9bc7532f371d28743866ad611e98ad0ae594831f17cbab86dcb6a", null ]
     ] ],
-    [ "AppendTableDump", "d7/dc9/a04370.html#a372c4190050b1bd62a350242bd1ebeca", null ],
-    [ "AssertBaseTable", "d7/dc9/a04370.html#a3e4f9eec1091165debd31a11766ccf29", null ],
-    [ "ChangeColumn", "d7/dc9/a04370.html#a472b6d51c18d3fc72f924f199508ea12", null ],
-    [ "ChangeGuid", "d7/dc9/a04370.html#a43971347cb9fd242d082d962c1b8184e", null ],
-    [ "FindColumn", "d7/dc9/a04370.html#aefd4f8ad39e21517e1160f4209e9492f", null ],
-    [ "FindColumnByName", "d7/dc9/a04370.html#aef6e6393d5903e926f3f8ed0d65501b3", null ],
-    [ "FixNULLfields", "d7/dc9/a04370.html#ad06caa0201c6ed5de4537e124ac90086", null ],
-    [ "GenerateWhereStr", "d7/dc9/a04370.html#af5ecd510e3a4c642ed2250c17649f925", null ],
-    [ "GenerateWhereStr", "d7/dc9/a04370.html#a78a33c3255668abb77c4710ed82ab71d", null ],
-    [ "GetColumn", "d7/dc9/a04370.html#a21507cf8ad94e164df4f1bfe273d32da", null ],
-    [ "GetColumnIndexByName", "d7/dc9/a04370.html#a995022112291c980706933e2de6accf5", null ],
-    [ "GetFileHandle", "d7/dc9/a04370.html#a4b7f4eca1fd3d5d501b08819b8949edb", null ],
-    [ "GetTableName", "d7/dc9/a04370.html#af32b9d84c5a117bcf96df822301d8350", null ],
-    [ "MarkDependentColumn", "d7/dc9/a04370.html#a17802f71d1e9f88bd6ded0e79a8b4405", null ],
-    [ "MarkWhereField", "d7/dc9/a04370.html#ac8eb839b544e24a47a01c195daec540a", null ],
-    [ "RegisterNewGuid", "d7/dc9/a04370.html#a99e441709c35a6ba0ffeda0e25143cf9", null ],
-    [ "StringsEqualCaseInsensitive", "d7/dc9/a04370.html#a83fd95e505d5de193245e4de46589892", null ],
-    [ "ValidateFields", "d7/dc9/a04370.html#ac091f551576a1206061821e3d95b9bc6", null ],
-    [ "BaseTables", "d7/dc9/a04370.html#a9a85cce136a6d1ebc3195903ee719aec", null ],
-    [ "CharacterTables", "d7/dc9/a04370.html#ae8849d3a4dc3838acedf5f6f84242c08", null ],
-    [ "DUMP_TABLE_COUNT", "d7/dc9/a04370.html#a4d61020c5d40e9d3093656551dcc00f0", null ],
-    [ "DumpTables", "d7/dc9/a04370.html#a846234dc3d2969c8ef6f67687a3a4049", null ]
+    [ "DumpTableType", "d7/dc9/a04370.html#ad4739d865080bb5590831b606365e7ef", [
+      [ "DTT_CHARACTER", "d7/dc9/a04370.html#ad4739d865080bb5590831b606365e7efaea3cb16043024e5fdfc4f3301d2df323", null ],
+      [ "DTT_CHAR_TABLE", "d7/dc9/a04370.html#ad4739d865080bb5590831b606365e7efa3c784c38ccd07be78692e3e03bb53d94", null ],
+      [ "DTT_EQSET_TABLE", "d7/dc9/a04370.html#ad4739d865080bb5590831b606365e7efa0588b27b8e9c5cd1cd20d4324cad45de", null ],
+      [ "DTT_INVENTORY", "d7/dc9/a04370.html#ad4739d865080bb5590831b606365e7efa137a1112df8b9582403fec12c50fea7f", null ],
+      [ "DTT_MAIL", "d7/dc9/a04370.html#ad4739d865080bb5590831b606365e7efa581ecbcaf9623d952b28fd4e964ae67d", null ],
+      [ "DTT_MAIL_ITEM", "d7/dc9/a04370.html#ad4739d865080bb5590831b606365e7efa917099d0dd625e7aa46b6358fb4c036b", null ],
+      [ "DTT_ITEM", "d7/dc9/a04370.html#ad4739d865080bb5590831b606365e7efad5be0dba7076e09532f3eb8760b8501d", null ],
+      [ "DTT_ITEM_GIFT", "d7/dc9/a04370.html#ad4739d865080bb5590831b606365e7efadead833bce15df38e80b9eee85b1d847", null ],
+      [ "DTT_PET", "d7/dc9/a04370.html#ad4739d865080bb5590831b606365e7efacb52988d860dbf41c2e2a5e2650d95c8", null ],
+      [ "DTT_PET_TABLE", "d7/dc9/a04370.html#ad4739d865080bb5590831b606365e7efa4b50591bf81a27c7f6300f7733b14ac4", null ]
+    ] ]
 ];

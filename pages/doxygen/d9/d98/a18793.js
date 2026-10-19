@@ -1,12 +1,7 @@
 var a18793 =
 [
-    [ "npc_raging_spiritAI", "d9/d98/a18793.html#a1c85351ae62d5f45381214373e64aec4", null ],
-    [ "AttackStart", "d9/d98/a18793.html#a16ab37be9e31dcfc159b5c78b196b847", null ],
-    [ "CanAIAttack", "d9/d98/a18793.html#a64fa46f05861d8736d881aa3687f4320", null ],
-    [ "IsSummonedBy", "d9/d98/a18793.html#a836d605f4320ba9fd49cb60d6a1e032d", null ],
-    [ "JustDied", "d9/d98/a18793.html#a821377a2c29b4180db00f2c4f4268fe7", null ],
-    [ "Reset", "d9/d98/a18793.html#a9dae9cb2c6f18d89d06cfa72b98d36f2", null ],
-    [ "UpdateAI", "d9/d98/a18793.html#a64beac4aafa9e9bb2089a7c1e35fe8a5", null ],
-    [ "_events", "d9/d98/a18793.html#af5783316983b622f20d8c677f2858111", null ],
-    [ "_instance", "d9/d98/a18793.html#aaa9b5728fcdb379849434385b3501251", null ]
+    [ "OnRemove", "d9/d98/a18793.html#ac1a58d605156c03d05eb99605287e762", null ],
+    [ "PrepareAuraScript", "d9/d98/a18793.html#a2db820022631647e942b5ec84e63717e", null ],
+    [ "Register", "d9/d98/a18793.html#adfd213ccf8c5596fcd6dc69e53740376", null ],
+    [ "Validate", "d9/d98/a18793.html#aa498d4669f67eba4b904b203daeb5a7d", null ]
 ];

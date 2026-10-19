@@ -1,6 +1,6 @@
 var a22005 =
 [
-    [ "npc_torturer_lecraftAI", "da/da7/a22009.html", "da/da7/a22009" ],
-    [ "npc_torturer_lecraft", "d6/d05/a22005.html#a789f8bdafe96d5cb01225b940a80c651", null ],
-    [ "GetAI", "d6/d05/a22005.html#abdc8b33cd820c5cd14c999e7407897fe", null ]
+    [ "GhoulTargetCheck", "d6/d05/a22005.html#acd743b2b1407c5171fbf410a02ff07bf", null ],
+    [ "operator()", "d6/d05/a22005.html#a6722cfe5a1ceecccf2c07924b2975f46", null ],
+    [ "_alive", "d6/d05/a22005.html#ab44092ca1cd6d7c17d7c63e0a8333453", null ]
 ];

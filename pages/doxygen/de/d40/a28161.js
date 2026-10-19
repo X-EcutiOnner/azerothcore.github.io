@@ -1,5 +1,5 @@
 var a28161 =
 [
-    [ "achievement_killed_exp_or_honor_target", "de/d40/a28161.html#aad432878c97af698dd1cc4019d716281", null ],
-    [ "OnCheck", "de/d40/a28161.html#ace8fc68ebb73e39626797be4caa45a3c", null ]
+    [ "achievement_bg_control_all_nodes", "de/d40/a28161.html#afa3c06227adff7a03998ac7c5f8147cf", null ],
+    [ "OnCheck", "de/d40/a28161.html#a69609eb5488519fa5a1f43b13a80e280", null ]
 ];

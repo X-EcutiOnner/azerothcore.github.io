@@ -1,13 +1,8 @@
 var a14289 =
 [
-    [ "npc_lady_sylvanas_windrunnerAI", "d2/d6e/a14289.html#ad6eefe9a14ce64b12b65a22c3ebb4db0", null ],
-    [ "JustDied", "d2/d6e/a14289.html#a410c84a1fcf50b50e6ebc340c1b58939", null ],
-    [ "JustEngagedWith", "d2/d6e/a14289.html#a36324482fb264cc3cacf11c3ed542eee", null ],
-    [ "JustSummoned", "d2/d6e/a14289.html#a456ee6f4b5b8cdd79647a42185265be8", null ],
-    [ "Reset", "d2/d6e/a14289.html#ad4c6cb31a8d3dc280e689d5d29e27479", null ],
-    [ "SetGUID", "d2/d6e/a14289.html#a10ecf7bf7551be186e1c00390eaad203", null ],
-    [ "UpdateAI", "d2/d6e/a14289.html#ab704e4f3af8aa734910efd259db31407", null ],
-    [ "_events", "d2/d6e/a14289.html#a621d4db4fac3a7c3d08defa2a8ed06d0", null ],
-    [ "LamentEvent", "d2/d6e/a14289.html#ace9e901a965665e0f97cb9646af308aa", null ],
-    [ "playerGUID", "d2/d6e/a14289.html#aa125ab2a33dbf9f1d40f238e7d45000d", null ]
+    [ "CheckCast", "d2/d6e/a14289.html#add6229e3f0241ccedf446a5a37cf72ce", null ],
+    [ "HandleScriptEffect", "d2/d6e/a14289.html#a36bb2b95651889eaa0321a7a327e173f", null ],
+    [ "PrepareSpellScript", "d2/d6e/a14289.html#a053451bd9ae6f7d639d0a977be843bc0", null ],
+    [ "Register", "d2/d6e/a14289.html#a6d16f25c93eef3c17ae6b4a43d884279", null ],
+    [ "Validate", "d2/d6e/a14289.html#ab0ed12fadaea4c96c7f6e43b7b385653", null ]
 ];

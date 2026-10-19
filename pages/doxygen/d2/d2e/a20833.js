@@ -1,6 +1,6 @@
 var a20833 =
 [
-    [ "npc_razorscale_devouring_flame", "d2/d2e/a20833.html#a86c3d4cdf0d9757612264f62fd9e283e", null ],
-    [ "EnterEvadeMode", "d2/d2e/a20833.html#a7d32fe90b53b3d681627d84bf3825bc2", null ],
-    [ "Reset", "d2/d2e/a20833.html#adb6acc83d528f71a69e854e46b2405c3", null ]
+    [ "HandlePeriodic", "d2/d2e/a20833.html#ab3f6a58bcea3fc75ccbac99cd911e7f8", null ],
+    [ "PrepareAuraScript", "d2/d2e/a20833.html#a09d6fccb19df088780c5baa0ef656da7", null ],
+    [ "Register", "d2/d2e/a20833.html#abbf60dac3d36d0833e6509aac83f2b49", null ]
 ];

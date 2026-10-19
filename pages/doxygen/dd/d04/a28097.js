@@ -1,7 +1,12 @@
 var a28097 =
 [
-    [ "HandleProc", "dd/d04/a28097.html#a39a69b837c5844d345f5a311f5760bf6", null ],
-    [ "PrepareAuraScript", "dd/d04/a28097.html#a673557238631dbca8954f516718f0eb2", null ],
-    [ "Register", "dd/d04/a28097.html#aa9f71fd65dd63f66a7ff3c7757174e67", null ],
-    [ "Validate", "dd/d04/a28097.html#aedf17c34772c0e2030388fc9b17aec38", null ]
+    [ "CheckProc", "dd/d04/a28097.html#abb43619da8154c1c9ebc9d164a2f6dc6", null ],
+    [ "HandleApply", "dd/d04/a28097.html#aaa07858f0604965fad5c1189125a822b", null ],
+    [ "HandleProc", "dd/d04/a28097.html#a9fd416a5f8f8a405f40c41b9ef8b734e", null ],
+    [ "HandleRemove", "dd/d04/a28097.html#a3da984d172878110b77549b51409d7e0", null ],
+    [ "Load", "dd/d04/a28097.html#a644aaf343b41f049f34ff7387c613bf1", null ],
+    [ "PrepareAuraScript", "dd/d04/a28097.html#aea23ff608c74017d98edcc146d3ba35a", null ],
+    [ "Register", "dd/d04/a28097.html#a624d09c6f1a177912a1c7cab30d89c7b", null ],
+    [ "Validate", "dd/d04/a28097.html#a34f1b7782dbf2dcc18eb803497104a13", null ],
+    [ "_procTargetGUID", "dd/d04/a28097.html#a88833abe90e8753336b7dc178b98f703", null ]
 ];

@@ -1,10 +1,6 @@
 var a18113 =
 [
-    [ "npc_gunship_gunnerAI", "d9/db5/a18113.html#a3001e77b4a20feb0eee5a9605f13ba81", null ],
-    [ "AttackStart", "d9/db5/a18113.html#ac21b90c1892c15882794384517ef9fd2", null ],
-    [ "CanAIAttack", "d9/db5/a18113.html#aef351305ef34fa316809697125a3bc9a", null ],
-    [ "MovementInform", "d9/db5/a18113.html#a94d81b882dd59dd00b0952b45d61a7cb", null ],
-    [ "UpdateAI", "d9/db5/a18113.html#a8fbb601c3accdf3b0494d317bc0d5733", null ],
-    [ "anyValid", "d9/db5/a18113.html#a00c7dc23618c60826241133a0067c1c4", null ],
-    [ "checkTimer", "d9/db5/a18113.html#af80cee9c2c86fa8b4c643d262042ba3c", null ]
+    [ "npc_igb_ship_crewAI", "d9/db5/a18113.html#a3ca741b305e3235b0521f094d7abe732", null ],
+    [ "CanAIAttack", "d9/db5/a18113.html#a2c834dc151493957fc116865699ae7f5", null ],
+    [ "_instance", "d9/db5/a18113.html#a288bd5f8b4eaed7b1a960ed738330ae4", null ]
 ];

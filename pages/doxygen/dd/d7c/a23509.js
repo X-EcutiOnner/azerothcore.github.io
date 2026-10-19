@@ -1,6 +1,6 @@
 var a23509 =
 [
-    [ "boss_rokmar_the_crackler", "dd/d7c/a23509.html#a0aca6a30d045bbea6f434979f4f1d2e9", null ],
-    [ "JustEngagedWith", "dd/d7c/a23509.html#ae376e6a96fa07136790f3ed04ee1023b", null ],
-    [ "Reset", "dd/d7c/a23509.html#aed9cf4a866d5e70647125a08885fb809", null ]
+    [ "go_ahune_ice_stone", "dd/d7c/a23509.html#ab7b665f01da80751ea97705c5113bde7", null ],
+    [ "GossipSelect", "dd/d7c/a23509.html#aadb4db41ed84922c0a2d0463b8616876", null ],
+    [ "_instance", "dd/d7c/a23509.html#a43651f471ac777b59fb8ba67b830cd35", null ]
 ];

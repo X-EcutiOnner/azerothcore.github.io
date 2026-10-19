@@ -1,6 +1,7 @@
 var a14081 =
 [
-    [ "npc_lor_themar_theron", "d4/dcb/a14081.html#acf8b65675cc46949440a829fc1adf5fc", null ],
-    [ "JustDied", "d4/dcb/a14081.html#ad2615cc062c8c1f4b01fc9e253fe34d4", null ],
-    [ "UpdateAI", "d4/dcb/a14081.html#aa9eafbacdb75bfbf772c901ce96119c6", null ]
+    [ "npc_eris_hevenfireAI", "d1/d66/a14085.html", "d1/d66/a14085" ],
+    [ "npc_eris_hevenfire", "d4/dcb/a14081.html#a77f0836dc0b19114316b8b67839d8033", null ],
+    [ "GetAI", "d4/dcb/a14081.html#ad67a81ad20fac785c199c16fea8fe6f8", null ],
+    [ "OnQuestAccept", "d4/dcb/a14081.html#a1e0baec5706cfddd678b58eb9359997e", null ]
 ];

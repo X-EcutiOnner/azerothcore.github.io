@@ -1,8 +1,12 @@
 var a23197 =
 [
-    [ "instance_black_temple_InstanceMapScript", "d1/d70/a23197.html#aa59f4d11ca1418bb3df3a7d5b11795b9", null ],
-    [ "OnCreatureCreate", "d1/d70/a23197.html#a814ac33238558b4e2a2ff57e6039d4fc", null ],
-    [ "OnGameObjectCreate", "d1/d70/a23197.html#a564a49814ceb3b3161a6476335ab653a", null ],
-    [ "SetBossState", "d1/d70/a23197.html#aadcbe48888eba0d0ed50eb9811ce40b0", null ],
-    [ "ashtongueGUIDs", "d1/d70/a23197.html#a85fa9c5231f13529a0741b0f92266c90", null ]
+    [ "boss_teron_gorefiend", "d1/d70/a23197.html#a81845f22aa383cdc57912ee9655b7bf9", null ],
+    [ "JustDied", "d1/d70/a23197.html#aa080c8d17bc51142c1cecadf7a0376a2", null ],
+    [ "JustEngagedWith", "d1/d70/a23197.html#a9f658d42cf27a54c62a71e28b5dfadee", null ],
+    [ "JustSummoned", "d1/d70/a23197.html#a71db567c5be7396add349e2f1b455a50", null ],
+    [ "KilledUnit", "d1/d70/a23197.html#a70dbf2b2a08cf915866afd51f8a74018", null ],
+    [ "Reset", "d1/d70/a23197.html#af32df2d958c618dc08d3da40b92bf3aa", null ],
+    [ "SetData", "d1/d70/a23197.html#a139c351471a3f19c7e59cf8e40913820", null ],
+    [ "UpdateAI", "d1/d70/a23197.html#a0bdd92c94adf066fdbf8ba9bcb1a1ba1", null ],
+    [ "_intro", "d1/d70/a23197.html#a99c62157084373e8eddd4497360cc047", null ]
 ];

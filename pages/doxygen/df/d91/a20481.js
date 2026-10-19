@@ -1,6 +1,7 @@
 var a20481 =
 [
-    [ "npc_ulduar_saronite_vapors", "df/d91/a20481.html#af8d7e273a01b54bd5b96f186501f38c5", null ],
-    [ "JustDied", "df/d91/a20481.html#a64254becffe74a7d06c09a3b0e2b4428", null ],
-    [ "_instance", "df/d91/a20481.html#ad304110ff1bfc33066cd17f04cf40181", null ]
+    [ "boss_freya_iron_root", "df/d91/a20481.html#af35a268c89c025d95c13ea8c87d6516e", null ],
+    [ "JustDied", "df/d91/a20481.html#a3f3e00bb3ff7e23e912e0ae7bb98e67f", null ],
+    [ "OnDespawn", "df/d91/a20481.html#abd0258796a696e6665ecd51b27cc0b1e", null ],
+    [ "ReleaseRootedPlayer", "df/d91/a20481.html#a87fe9f9e32bcc44e8692fd317ab864db", null ]
 ];

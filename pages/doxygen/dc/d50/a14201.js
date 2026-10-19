@@ -1,7 +1,6 @@
 var a14201 =
 [
-    [ "HandleScriptEffect", "dc/d50/a14201.html#a1cdba27f7311021407307bcd35235fed", null ],
-    [ "PrepareSpellScript", "dc/d50/a14201.html#a9c97b6702a02fe78e1f6e76d8a00c598", null ],
-    [ "Register", "dc/d50/a14201.html#a9794991aa1710ce37112888eeb572796", null ],
-    [ "Validate", "dc/d50/a14201.html#a1e7c77b45c1abf4aee5491f02d75b6d1", null ]
+    [ "npc_lord_gregor_lescovarAI", "d2/df0/a14205.html", "d2/df0/a14205" ],
+    [ "npc_lord_gregor_lescovar", "dc/d50/a14201.html#a6164425b7bb6bc8aa95a6665b7d1c55c", null ],
+    [ "GetAI", "dc/d50/a14201.html#a4cf39729bb687c7db3538575a799283e", null ]
 ];

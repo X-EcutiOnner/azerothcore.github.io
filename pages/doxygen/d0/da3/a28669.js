@@ -1,6 +1,7 @@
 var a28669 =
 [
-    [ "npc_injured_patientAI", "d6/d31/a28673.html", "d6/d31/a28673" ],
-    [ "npc_injured_patient", "d0/da3/a28669.html#a0b7ef214aa1b20df088dee0976c73783", null ],
-    [ "GetAI", "d0/da3/a28669.html#a0c042bb81e684f903d28d7879af99d4a", null ]
+    [ "npc_riggle_bassbaitAI", "d0/da3/a28669.html#ad7a1a7a6f4c4ebb7ab93878ebb3a9a5b", null ],
+    [ "CheckTournamentState", "d0/da3/a28669.html#aa7b4393b93be92fbb595648cede832be", null ],
+    [ "UpdateAI", "d0/da3/a28669.html#ad0fca96e2c770ef179d98dcdd9aaca6e", null ],
+    [ "m_uiTimer", "d0/da3/a28669.html#aec45a971a5b7aa574e905e9a2338fe90", null ]
 ];

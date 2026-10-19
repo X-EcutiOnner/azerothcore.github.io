@@ -1,6 +1,7 @@
 var a18225 =
 [
-    [ "boss_lady_deathwhisperAI", "d0/deb/a18229.html", "d0/deb/a18229" ],
-    [ "boss_lady_deathwhisper", "d6/dca/a18225.html#a979411cb834611b1239f3bf9058d316d", null ],
-    [ "GetAI", "d6/dca/a18225.html#ac0b86fee1e2e9dbf794ed1b53aab11d2", null ]
+    [ "FilterTargets", "d6/dca/a18225.html#a77afd0b56c9bddd74999d5df30457b7f", null ],
+    [ "HandleDummy", "d6/dca/a18225.html#a04166e4e5a4ba082755433555855cb30", null ],
+    [ "PrepareSpellScript", "d6/dca/a18225.html#aaefa58014db12fb76e3416ae807c69e8", null ],
+    [ "Register", "d6/dca/a18225.html#a497ee30669d45341023abe549c91ddaf", null ]
 ];

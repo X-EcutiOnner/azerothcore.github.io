@@ -1,6 +1,4 @@
 var a04103 =
 [
-    [ "InstanceMapScript", "d3/d64/a10867.html", "d3/d64/a10867" ],
-    [ "GenericInstanceMapScript< IS >", "d8/d9a/a10871.html", "d8/d9a/a10871" ],
-    [ "RegisterInstanceScript", "de/d1c/a04103.html#a78044a95772db069981b463451a60613", null ]
+    [ "ScriptRegistry< CommandScript >", "de/d1c/a04103.html#a2d714ec85ac23255244ecf61e4f48244", null ]
 ];

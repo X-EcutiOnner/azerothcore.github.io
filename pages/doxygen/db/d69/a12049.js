@@ -1,14 +1,7 @@
 var a12049 =
 [
-    [ "IsFitToRequirements", "db/d69/a12049.html#af1585273701356a591bf9d9483e996a3", null ],
-    [ "areaId", "db/d69/a12049.html#af7e6f7b027388447a1f99e759975ca09", null ],
-    [ "auraSpell", "db/d69/a12049.html#adaf2f6f7c56701fe42a2674aca74fba0", null ],
-    [ "autocast", "db/d69/a12049.html#a38b42b82e4a588e102eb393cc907cd27", null ],
-    [ "gender", "db/d69/a12049.html#af4314cba9c91fd1e2c09905c17c67d22", null ],
-    [ "questEnd", "db/d69/a12049.html#a075cc2bc4d8c9663b2bdb2cf8ba77f5f", null ],
-    [ "questEndStatus", "db/d69/a12049.html#ac6c7ed326628642da138bb3835db9a1d", null ],
-    [ "questStart", "db/d69/a12049.html#afc99b14a3724fef7c5dd70e976a479a8", null ],
-    [ "questStartStatus", "db/d69/a12049.html#a7f4466dfd9ab56850a36d0d09ff84798", null ],
-    [ "raceMask", "db/d69/a12049.html#a402373ff841bd2aa47b4b36a581624cc", null ],
-    [ "spellId", "db/d69/a12049.html#a8a299d901e2c13cdc3c00d6cf0a856d3", null ]
+    [ "ap_bonus", "db/d69/a12049.html#a98410b8bb89434cd7e1747462f8039dc", null ],
+    [ "ap_dot_bonus", "db/d69/a12049.html#a09caeec47b138d9eff3539795416a09a", null ],
+    [ "direct_damage", "db/d69/a12049.html#abab1af227a6c8e592b8a9bd15589535d", null ],
+    [ "dot_damage", "db/d69/a12049.html#a92491d8d1e61612d88c7c830d7912be5", null ]
 ];

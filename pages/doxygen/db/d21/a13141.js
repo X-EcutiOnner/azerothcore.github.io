@@ -1,7 +1,6 @@
 var a13141 =
 [
-    [ "HandlePeriodic", "db/d21/a13141.html#a5651e7ecab22d2286f85e56b8eccc003", null ],
-    [ "PrepareAuraScript", "db/d21/a13141.html#a5dca8e116c05d11961cbd7995314441e", null ],
-    [ "Register", "db/d21/a13141.html#a5972e66a8c05c5ae64e6666d0f35cb6e", null ],
-    [ "Validate", "db/d21/a13141.html#a689b93dcf39828f507ef2b7f72d1ca01", null ]
+    [ "boss_gehennas", "db/d21/a13141.html#ab533dfd33dfcc42b1c282340e77ed979", null ],
+    [ "ExecuteEvent", "db/d21/a13141.html#aa11c5e8facc17b03220595a61045036f", null ],
+    [ "JustEngagedWith", "db/d21/a13141.html#af4f3b198a1a606efe829376b4515c7bc", null ]
 ];

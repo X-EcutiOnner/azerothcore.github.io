@@ -1,11 +1,5 @@
 var a29961 =
 [
-    [ "SetUp", "d9/df6/a29961.html#a6905326495d9902c04075e1278ceee09", null ],
-    [ "TearDown", "d9/df6/a29961.html#a93922bbc8b0748ea2744da16bb9be908", null ],
-    [ "_map", "d9/df6/a29961.html#a7488073f59af18ddff83352153bce0f9", null ],
-    [ "_previousWorld", "d9/df6/a29961.html#a5098326e6ea76115910d5d87e9146106", null ],
-    [ "_snake", "d9/df6/a29961.html#a8fa5bbd89471aa9b332b27d2183b823d", null ],
-    [ "_targetA", "d9/df6/a29961.html#a57f036093e543f841c808380d3bb6708", null ],
-    [ "_targetB", "d9/df6/a29961.html#ae722aaab98cdbd47252f6b95df507679", null ],
-    [ "_worldMock", "d9/df6/a29961.html#ac4ea643a5b5a1e40790a254b2809c11b", null ]
+    [ "SetUp", "d9/df6/a29961.html#ab7ca64790f3bf45fee5bfa47cc123f9e", null ],
+    [ "TearDown", "d9/df6/a29961.html#ab25eaec6e37e6e315df357f8a1e51924", null ]
 ];

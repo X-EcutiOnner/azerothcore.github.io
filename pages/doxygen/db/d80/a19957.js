@@ -1,12 +1,15 @@
 var a19957 =
 [
-    [ "npc_oculus_drakeAI", "db/d80/a19957.html#a214d9b77a5653f1a5f60106081eaf683", null ],
-    [ "IsSummonedBy", "db/d80/a19957.html#a151e59f7b6032d5ed62f9f0ed2923f40", null ],
-    [ "MovementInform", "db/d80/a19957.html#a5f6de11b9cd3c0d6593d7d249cb59555", null ],
-    [ "PassengerBoarded", "db/d80/a19957.html#a5efc6f166b5fd77fa329b17e1e143379", null ],
-    [ "SpellHitTarget", "db/d80/a19957.html#aebb8fb75777d7fc3ddc69dc558b08f7e", null ],
-    [ "UpdateAI", "db/d80/a19957.html#a8ecaebfcf1c1fbe8ed263be6148ccef6", null ],
-    [ "despawnTimer", "db/d80/a19957.html#a560dc0936a78267a4036b209c6718732", null ],
-    [ "JustSummoned", "db/d80/a19957.html#a8b656a464525e881944e72e9486b0eb9", null ],
-    [ "m_pInstance", "db/d80/a19957.html#a4df6c06ec857086f7a2747cab2c4703c", null ]
+    [ "boss_eregosAI", "db/d80/a19957.html#a5b09dacbddd6075c2ebf4d62a387a8b6", null ],
+    [ "DamageTaken", "db/d80/a19957.html#a7a4b4443aed576f080a56a27e15edfd4", null ],
+    [ "JustDied", "db/d80/a19957.html#ade16be2804b857fc8e93a62d4be42380", null ],
+    [ "JustEngagedWith", "db/d80/a19957.html#a1544782732beba5d7114c3bb70419ae1", null ],
+    [ "JustSummoned", "db/d80/a19957.html#a33ef5a080e457f4e08e7997b467b0974", null ],
+    [ "KilledUnit", "db/d80/a19957.html#a30ad32a4a63ae17eef4fc703a6749d38", null ],
+    [ "MoveInLineOfSight", "db/d80/a19957.html#ac622481abb0190bdc7654b383766a9ed", null ],
+    [ "Reset", "db/d80/a19957.html#aeec469c2c9d0ad27461478ee57c30c56", null ],
+    [ "UpdateAI", "db/d80/a19957.html#a2a190fdb6b1c9ed4eba2b9e536c5cf36", null ],
+    [ "events", "db/d80/a19957.html#ae6f1f2e3146525596c3dbb646283b744", null ],
+    [ "pInstance", "db/d80/a19957.html#abf0b366d7b0931ccc30711a33736dda8", null ],
+    [ "shiftNumber", "db/d80/a19957.html#a16c90dba1f0a7f4cc2025e294dbac455", null ]
 ];

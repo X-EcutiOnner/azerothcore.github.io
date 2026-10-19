@@ -1,7 +1,13 @@
 var a23497 =
 [
-    [ "HandleScriptEffect", "d8/d2c/a23497.html#ace1bb0dd5a76aa75038060af16b2e09f", null ],
-    [ "PrepareSpellScript", "d8/d2c/a23497.html#ab3f6d24643b75482d5f96779a5bdda11", null ],
-    [ "Register", "d8/d2c/a23497.html#a14772c25b70078c0034b8de17de5b77a", null ],
-    [ "Validate", "d8/d2c/a23497.html#a8318385367bf6c6b09e0978c461f5d59", null ]
+    [ "npc_earthen_ring_flamecaller", "d8/d2c/a23497.html#ab402dd321fa0df641b674324386d7591", null ],
+    [ "DoAction", "d8/d2c/a23497.html#af745c83529a34a89c430d6113703fff5", null ],
+    [ "LookOpening", "d8/d2c/a23497.html#adfc752e7700a816b66b639007a1a90fa", null ],
+    [ "MovementInform", "d8/d2c/a23497.html#a2e6337402c07413ed9aa39c2de58e0d9", null ],
+    [ "Reset", "d8/d2c/a23497.html#ac7be4763e09cb9ce1a4a0774f4c02237", null ],
+    [ "SpellHit", "d8/d2c/a23497.html#ab9c5ad7e56033997042031566748ee2b", null ],
+    [ "UpdateAI", "d8/d2c/a23497.html#aa9aaf58b67108a934a756afdfc2bc734", null ],
+    [ "_events", "d8/d2c/a23497.html#a79829a993048f8678b5f7c1dfe55eafb", null ],
+    [ "_instance", "d8/d2c/a23497.html#a79aa6e628a50ed485cc55513c28362dc", null ],
+    [ "_mySpot", "d8/d2c/a23497.html#a18b476dfdf65ca7e84856b31027b11f1", null ]
 ];

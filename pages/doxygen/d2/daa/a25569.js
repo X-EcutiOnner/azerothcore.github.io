@@ -1,6 +1,7 @@
 var a25569 =
 [
-    [ "CheckRequirement", "d2/daa/a25569.html#adb3212ff52b5ad9ae2ce824dd1cf018a", null ],
-    [ "PrepareSpellScript", "d2/daa/a25569.html#aebb88f5ea803a590a099e4e6427d8276", null ],
-    [ "Register", "d2/daa/a25569.html#a18406f867561f9baf5a4cee8ce8ea59a", null ]
+    [ "CalculateAmount", "d2/daa/a25569.html#a074a7de6cd4d930c1f23f6398c738bad", null ],
+    [ "Load", "d2/daa/a25569.html#a777803a61286e0eba31246d4771630df", null ],
+    [ "PrepareAuraScript", "d2/daa/a25569.html#ab76bc3927d3ce31ae061fe8577ca25f0", null ],
+    [ "Register", "d2/daa/a25569.html#a335e1629b98bfacf6e4e565b94d4991e", null ]
 ];

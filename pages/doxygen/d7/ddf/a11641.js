@@ -1,6 +1,7 @@
 var a11641 =
 [
-    [ "CorpseMapPositionQuery", "d7/ddf/a11641.html#a14bfe5f386800785ae3f4f39aea9ea83", null ],
-    [ "Read", "d7/ddf/a11641.html#a0adb3889b6bc53646cb54163f7b04a6b", null ],
-    [ "unk", "d7/ddf/a11641.html#ab7edc2e1ef196f05aef9ea1c8427f877", null ]
+    [ "PetActionSound", "d7/ddf/a11641.html#ae20a837d2b3f647d2a1d7c5e398b7b56", null ],
+    [ "Write", "d7/ddf/a11641.html#a8627631f2eb7d93cda52ce09a749fb0c", null ],
+    [ "Action", "d7/ddf/a11641.html#a25b3a4b44bcda9bec898aca1a88b90ed", null ],
+    [ "UnitGUID", "d7/ddf/a11641.html#a32b15c490da02bc5020653a9e9bfbd68", null ]
 ];

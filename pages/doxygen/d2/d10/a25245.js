@@ -1,6 +1,7 @@
 var a25245 =
 [
-    [ "HandleDummy", "d2/d10/a25245.html#a9f9c27bdfed0a457f7e851c8598f3625", null ],
-    [ "PrepareSpellScript", "d2/d10/a25245.html#ab666b72cd7cb0ef92ba6c417be5ac7cc", null ],
-    [ "Register", "d2/d10/a25245.html#a7b78161fda34b3dc3c844c392ce7e30e", null ]
+    [ "HandleApply", "d2/d10/a25245.html#a75f7fc139cf72aeaa2cc09ba30a8f119", null ],
+    [ "HandlePeriodicTimer", "d2/d10/a25245.html#ae9f438dd0833b2ad214acef0e558a8be", null ],
+    [ "PrepareAuraScript", "d2/d10/a25245.html#ac2040d944e47a4f1cc7721ead44aca77", null ],
+    [ "Register", "d2/d10/a25245.html#abc9eb056267c7effcc7f68a3ad7891da", null ]
 ];

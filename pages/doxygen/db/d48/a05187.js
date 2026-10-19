@@ -1,5 +1,10 @@
 var a05187 =
 [
-    [ "ScriptTypeInfo", "d6/d4c/a10959.html", "d6/d4c/a10959" ],
-    [ "ScriptRegistryTypes", "db/d48/a05187.html#a0e91545a04304e85e47b9e1697318ecb", null ]
+    [ "BladeEdgeArenaRope", "d0/d23/a10533.html", "d0/d23/a10533" ],
+    [ "GetClosestPointOnBladeEdgeArenaRope", "db/d48/a05187.html#ad6fb8ac315aae658ae30abe0ed4b0536", null ],
+    [ "IsOutsideExpandedXYBounds", "db/d48/a05187.html#a71f129f45def5530dd577d961f33ff75", null ],
+    [ "TrySnapToBladeEdgeArenaRope", "db/d48/a05187.html#a7545d55edb64810e769569909d3f22cc", null ],
+    [ "BLADE_EDGE_ROPE_SNAP_DIST", "db/d48/a05187.html#a4bd7d9d834123be5931eda51fb882654", null ],
+    [ "BLADE_EDGE_ROPE_SNAP_DIST2", "db/d48/a05187.html#aab9750e7a18e090ee53c16bb42eb1873", null ],
+    [ "BladeEdgeArenaRopes", "db/d48/a05187.html#a5bd7b066b349914a5d42899d3c1f7ce8", null ]
 ];

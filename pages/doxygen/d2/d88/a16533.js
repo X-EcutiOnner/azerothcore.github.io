@@ -1,7 +1,6 @@
 var a16533 =
 [
-    [ "HandleScriptEffect", "d2/d88/a16533.html#a6f21f546303327f2d32f1dbc03dc21d9", null ],
-    [ "PrepareSpellScript", "d2/d88/a16533.html#a392c40d469c3c1e816d5dc364fde824c", null ],
-    [ "Register", "d2/d88/a16533.html#aa59c26b25ca0f440de36e450adf050a5", null ],
-    [ "Validate", "d2/d88/a16533.html#a370f83112d901f9565734b11d12858f4", null ]
+    [ "FilterTargets", "d2/d88/a16533.html#aff3223d9b3df91f9261aa2f45373f846", null ],
+    [ "PrepareSpellScript", "d2/d88/a16533.html#a3ca9ba182a313fb741b15df63408a90e", null ],
+    [ "Register", "d2/d88/a16533.html#af333c3c72251a2d1c0ee4effdbc0b155", null ]
 ];

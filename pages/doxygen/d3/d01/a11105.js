@@ -1,6 +1,10 @@
 var a11105 =
 [
-    [ "GuildCreate", "d3/d01/a11105.html#a4dd11d2c4d009b1e495f792f4842d598", null ],
-    [ "Read", "d3/d01/a11105.html#a7d4573196f53d1f068c43b4e7e466fce", null ],
-    [ "GuildName", "d3/d01/a11105.html#a95a0859dd32b6eaf31ea53311ffaa293", null ]
+    [ "EnvironmentalDamageLog", "d3/d01/a11105.html#ab4311f6516d9b7491abf5cb2ba9a0ee0", null ],
+    [ "Write", "d3/d01/a11105.html#af7d49b8d57100cf2c3048d5415a4edc7", null ],
+    [ "Absorbed", "d3/d01/a11105.html#a443df04be3afe2021532716140ffb099", null ],
+    [ "Amount", "d3/d01/a11105.html#a073e22176d44f5806313c2a4bd3e263a", null ],
+    [ "Resisted", "d3/d01/a11105.html#ad20a9730af3088d93ac56d89b6f66b12", null ],
+    [ "Type", "d3/d01/a11105.html#a51df177d9ce6a8459bc8fa41f80cdb7a", null ],
+    [ "Victim", "d3/d01/a11105.html#a020fffe9517d30e965a4d6f6602dd05f", null ]
 ];

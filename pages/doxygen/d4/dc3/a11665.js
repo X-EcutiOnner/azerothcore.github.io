@@ -1,6 +1,6 @@
 var a11665 =
 [
-    [ "QuestGiverQuestInvalid", "d4/dc3/a11665.html#a7220ac375523d524f905042722522bfb", null ],
-    [ "Write", "d4/dc3/a11665.html#aed56e88c0fc568d524913c0863a45622", null ],
-    [ "FailureReason", "d4/dc3/a11665.html#a7c2cc4153399abfbaa4b2b2811d2fde2", null ]
+    [ "CorpseMapPositionQuery", "d4/dc3/a11665.html#a14bfe5f386800785ae3f4f39aea9ea83", null ],
+    [ "Read", "d4/dc3/a11665.html#a0adb3889b6bc53646cb54163f7b04a6b", null ],
+    [ "unk", "d4/dc3/a11665.html#ab7edc2e1ef196f05aef9ea1c8427f877", null ]
 ];

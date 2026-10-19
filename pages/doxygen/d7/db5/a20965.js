@@ -1,8 +1,9 @@
 var a20965 =
 [
-    [ "npc_scrapbot", "d7/db5/a20965.html#a088bac1bf5cb91be8f18368c08c5414a", null ],
-    [ "Reset", "d7/db5/a20965.html#a2dca509a6e2b46674165e5559717f69c", null ],
-    [ "UpdateAI", "d7/db5/a20965.html#ade90c75baf598900adaa300cef28cb6a", null ],
-    [ "_instance", "d7/db5/a20965.html#afb8296b4d9105ee99abc534656289ae2", null ],
-    [ "_scheduler", "d7/db5/a20965.html#a4deb841588ea244e4290bb8ffb69b483", null ]
+    [ "boss_thorim_gauntlet_npcs", "d7/db5/a20965.html#a72ed22f7536d488f886fb42ab3fc84bb", null ],
+    [ "JustEngagedWith", "d7/db5/a20965.html#af10a444bada5743c837a9979726c79c9", null ],
+    [ "Reset", "d7/db5/a20965.html#a22fcffcc05f155524cadade389ec3607", null ],
+    [ "UpdateAI", "d7/db5/a20965.html#a86cec45bbbb8e904200ee0bcc6e44822", null ],
+    [ "_isCaster", "d7/db5/a20965.html#a1562e3ba5a7559f6eba9c3a0240a1e20", null ],
+    [ "events", "d7/db5/a20965.html#aec35e2b91841c386f083681673e15598", null ]
 ];

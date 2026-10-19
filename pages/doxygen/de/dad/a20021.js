@@ -1,9 +1,7 @@
 var a20021 =
 [
-    [ "npc_stormforged_lieutenant", "de/dad/a20021.html#aef5101b1f28ccec1fc60ccb2981623b9", null ],
-    [ "JustEngagedWith", "de/dad/a20021.html#a262ac995279b1a936534c858e21122a9", null ],
-    [ "Reset", "de/dad/a20021.html#abc359564370152b28a002a801ba1ab3d", null ],
-    [ "UpdateAI", "de/dad/a20021.html#a4c207f0ef172585b97695b63e119d1bc", null ],
-    [ "BjarngrimGUID", "de/dad/a20021.html#ad56f4d2a06f3a3e5fc4d813b9036e0aa", null ],
-    [ "events", "de/dad/a20021.html#ae721c276ba7413974d25449ef2c5f1a9", null ]
+    [ "HandleProc", "de/dad/a20021.html#a84255cd31ebaa7c70de93d569258c709", null ],
+    [ "PrepareAuraScript", "de/dad/a20021.html#a8d9c8122b105b28b88c4297d3a9acf7f", null ],
+    [ "Register", "de/dad/a20021.html#a6bc166d2e1455537fa78c4223da17746", null ],
+    [ "Validate", "de/dad/a20021.html#ab38bde2ed642dcf4fda1893a131aa6fe", null ]
 ];

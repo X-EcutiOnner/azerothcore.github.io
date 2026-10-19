@@ -1,7 +1,6 @@
 var a22173 =
 [
-    [ "HandleScript", "d6/d66/a22173.html#a5e6265ae9928e204d429c3c1750f472d", null ],
-    [ "PrepareSpellScript", "d6/d66/a22173.html#a554846f934c3e14a404fec3ba534eb63", null ],
-    [ "Register", "d6/d66/a22173.html#aafd581ede5184abfe9033d7ad75c7780", null ],
-    [ "Validate", "d6/d66/a22173.html#a03ee24e2d9c784ca83515412246e836f", null ]
+    [ "npc_attracted_reef_bullAI", "d6/d66/a22173.html#aa8917a912fb31a5987332e53e8d268e7", null ],
+    [ "MovementInform", "d6/d66/a22173.html#a79d9539243f178a2989f017c5f9ebc8c", null ],
+    [ "SpellHit", "d6/d66/a22173.html#ab06ee7ef84d881262ae682b69fae3135", null ]
 ];

@@ -1,5 +1,6 @@
 var a21033 =
 [
-    [ "achievement_heartbreaker", "d8/df6/a21033.html#ad81925fc32d7cf914b7be44aabe49b39", null ],
-    [ "OnCheck", "d8/df6/a21033.html#ab3a2539ae5dc74743beb0dc0ea0147af", null ]
+    [ "FilterTargets", "d8/df6/a21033.html#a766440359968faf85f60f987b5da8c70", null ],
+    [ "PrepareSpellScript", "d8/df6/a21033.html#a3f53d4e7fa30e53a1e05803a60c8b09b", null ],
+    [ "Register", "d8/df6/a21033.html#adbcc19da817ecdfad19543b70afd9e56", null ]
 ];

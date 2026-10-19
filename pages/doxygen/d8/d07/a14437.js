@@ -1,5 +1,6 @@
 var a14437 =
 [
-    [ "entry", "d8/d07/a14437.html#ad7431eb64907aed0a03205a37c65a735", null ],
-    [ "pos", "d8/d07/a14437.html#ab60283e91e81c141f3b31218aa4442a3", null ]
+    [ "cooldown", "d8/d07/a14437.html#aaf4772a0ac55280355e61d8c50198b3f", null ],
+    [ "spell", "d8/d07/a14437.html#a00ee3238030686e1cc66562f7cefb27a", null ],
+    [ "target", "d8/d07/a14437.html#a16e54dbd059baac1b6e7229621339d83", null ]
 ];

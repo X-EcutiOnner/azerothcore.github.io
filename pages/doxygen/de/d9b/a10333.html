@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: MMapData Class Reference</title>
+<title>AzerothCore: Map::RespawnEntry Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,38 +106,30 @@ $(document).ready(function(){initNavTree('de/d9b/a10333.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pro-attribs">Protected Attributes</a> &#124;
-<a href="#friends">Friends</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d3/da9/a10330.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">MMapData Class Reference</div></div>
+  <div class="headertitle"><div class="title">Map::RespawnEntry Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
-
-<p><code>#include &quot;<a class="el" href="../../">MapCollisionData.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a81e3e8249f22accbd06f9e80aa3fccf9"><td class="memItemLeft" align="right" valign="top">dtNavMesh const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d9b/a10333.html#a81e3e8249f22accbd06f9e80aa3fccf9">GetNavMesh</a> () const</td></tr>
-<tr class="separator:a81e3e8249f22accbd06f9e80aa3fccf9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af524ac62385fdd4d4c6a4f01afafbb49"><td class="memItemLeft" align="right" valign="top">dtNavMeshQuery const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d9b/a10333.html#af524ac62385fdd4d4c6a4f01afafbb49">GetNavMeshQuery</a> ()</td></tr>
-<tr class="separator:af524ac62385fdd4d4c6a4f01afafbb49"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adb62060523d8d5b11f16f3202a157f26"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d9b/a10333.html#adb62060523d8d5b11f16f3202a157f26">operator&lt;</a> (<a class="el" href="../../de/d9b/a10333.html">RespawnEntry</a> const &amp;other) const</td></tr>
+<tr class="separator:adb62060523d8d5b11f16f3202a157f26"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-attribs" name="pro-attribs"></a>
-Protected Attributes</h2></td></tr>
-<tr class="memitem:ae41a024489dbe5d11ba6dceed6b7442f"><td class="memItemLeft" align="right" valign="top">std::shared_ptr&lt; dtNavMesh &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d9b/a10333.html#ae41a024489dbe5d11ba6dceed6b7442f">_navMesh</a></td></tr>
-<tr class="separator:ae41a024489dbe5d11ba6dceed6b7442f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a237375e56702f7e83c9e13e1f959cfdb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d15/a05117.html#aa9864ce68a669d59d8baee4cb742900b">MMAP::ManagedNavMeshQuery</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d9b/a10333.html#a237375e56702f7e83c9e13e1f959cfdb">_navMeshQuery</a></td></tr>
-<tr class="separator:a237375e56702f7e83c9e13e1f959cfdb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="friends" name="friends"></a>
-Friends</h2></td></tr>
-<tr class="memitem:a472038a89678719bf8868ab0c75e394f"><td class="memItemLeft" align="right" valign="top">class&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d9b/a10333.html#a472038a89678719bf8868ab0c75e394f">MapCollisionData</a></td></tr>
-<tr class="separator:a472038a89678719bf8868ab0c75e394f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:aaed69c7c6f9f78ecb365e233f1ff6dab"><td class="memItemLeft" align="right" valign="top">time_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d9b/a10333.html#aaed69c7c6f9f78ecb365e233f1ff6dab">respawnTime</a></td></tr>
+<tr class="separator:aaed69c7c6f9f78ecb365e233f1ff6dab"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1400b212e0889c54047225ba57e95c94"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/df0/a02618.html#aca6d138cc8cbaa4fbb8366f26ecc6178">SpawnObjectType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d9b/a10333.html#a1400b212e0889c54047225ba57e95c94">type</a></td></tr>
+<tr class="separator:a1400b212e0889c54047225ba57e95c94"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6faeab5132f3e539848ebe29cee5a5a4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/dc9/a08913.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d9b/a10333.html#a6faeab5132f3e539848ebe29cee5a5a4">spawnId</a></td></tr>
+<tr class="separator:a6faeab5132f3e539848ebe29cee5a5a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="a81e3e8249f22accbd06f9e80aa3fccf9" name="a81e3e8249f22accbd06f9e80aa3fccf9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a81e3e8249f22accbd06f9e80aa3fccf9">&#9670;&#160;</a></span>GetNavMesh()</h2>
+<a id="adb62060523d8d5b11f16f3202a157f26" name="adb62060523d8d5b11f16f3202a157f26"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adb62060523d8d5b11f16f3202a157f26">&#9670;&#160;</a></span>operator&lt;()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -146,9 +138,10 @@ Friends</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">dtNavMesh const  * MMapData::GetNavMesh </td>
+          <td class="memname">bool Map::RespawnEntry::operator&lt; </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../de/d9b/a10333.html">RespawnEntry</a> const &amp;&#160;</td>
+          <td class="paramname"><em>other</em></td><td>)</td>
           <td> const</td>
         </tr>
       </table>
@@ -158,113 +151,67 @@ Friends</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   62</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../de/d9b/a10333.html#ae41a024489dbe5d11ba6dceed6b7442f">_navMesh</a>.get(); }</div>
-<div class="ttc" id="aa10333_html_ae41a024489dbe5d11ba6dceed6b7442f"><div class="ttname"><a href="../../de/d9b/a10333.html#ae41a024489dbe5d11ba6dceed6b7442f">MMapData::_navMesh</a></div><div class="ttdeci">std::shared_ptr&lt; dtNavMesh &gt; _navMesh</div><div class="ttdef"><b>Definition:</b> MapCollisionData.h:67</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  665</span>        {</div>
+<div class="line"><span class="lineno">  666</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../de/d9b/a10333.html#aaed69c7c6f9f78ecb365e233f1ff6dab">respawnTime</a> != other.respawnTime)</div>
+<div class="line"><span class="lineno">  667</span>                <span class="keywordflow">return</span> <a class="code hl_variable" href="../../de/d9b/a10333.html#aaed69c7c6f9f78ecb365e233f1ff6dab">respawnTime</a> &lt; other.respawnTime;</div>
+<div class="line"><span class="lineno">  668</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../de/d9b/a10333.html#a1400b212e0889c54047225ba57e95c94">type</a> != other.type)</div>
+<div class="line"><span class="lineno">  669</span>                <span class="keywordflow">return</span> <a class="code hl_variable" href="../../de/d9b/a10333.html#a1400b212e0889c54047225ba57e95c94">type</a> &lt; other.type;</div>
+<div class="line"><span class="lineno">  670</span>            <span class="keywordflow">return</span> <a class="code hl_variable" href="../../de/d9b/a10333.html#a6faeab5132f3e539848ebe29cee5a5a4">spawnId</a> &lt; other.spawnId;</div>
+<div class="line"><span class="lineno">  671</span>        }</div>
+<div class="ttc" id="aa10333_html_a1400b212e0889c54047225ba57e95c94"><div class="ttname"><a href="../../de/d9b/a10333.html#a1400b212e0889c54047225ba57e95c94">Map::RespawnEntry::type</a></div><div class="ttdeci">SpawnObjectType type</div><div class="ttdef"><b>Definition:</b> Map.h:662</div></div>
+<div class="ttc" id="aa10333_html_a6faeab5132f3e539848ebe29cee5a5a4"><div class="ttname"><a href="../../de/d9b/a10333.html#a6faeab5132f3e539848ebe29cee5a5a4">Map::RespawnEntry::spawnId</a></div><div class="ttdeci">ObjectGuid::LowType spawnId</div><div class="ttdef"><b>Definition:</b> Map.h:663</div></div>
+<div class="ttc" id="aa10333_html_aaed69c7c6f9f78ecb365e233f1ff6dab"><div class="ttname"><a href="../../de/d9b/a10333.html#aaed69c7c6f9f78ecb365e233f1ff6dab">Map::RespawnEntry::respawnTime</a></div><div class="ttdeci">time_t respawnTime</div><div class="ttdef"><b>Definition:</b> Map.h:661</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00067">_navMesh</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00565">misc_commandscript::HandleGPSCommand()</a>, <a class="el" href="../../#l00229">mmaps_commandscript::HandleMmapLoadedTilesCommand()</a>, <a class="el" href="../../#l00131">mmaps_commandscript::HandleMmapLocCommand()</a>, <a class="el" href="../../#l00063">mmaps_commandscript::HandleMmapPathCommand()</a>, <a class="el" href="../../#l00254">mmaps_commandscript::HandleMmapStatsCommand()</a>, and <a class="el" href="../../#l00126">PathGenerator::PathGenerator()</a>.</p>
-
-</div>
-</div>
-<a id="af524ac62385fdd4d4c6a4f01afafbb49" name="af524ac62385fdd4d4c6a4f01afafbb49"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af524ac62385fdd4d4c6a4f01afafbb49">&#9670;&#160;</a></span>GetNavMeshQuery()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">dtNavMeshQuery const  * MMapData::GetNavMeshQuery </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  178</span>{</div>
-<div class="line"><span class="lineno">  179</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../de/d9b/a10333.html#ae41a024489dbe5d11ba6dceed6b7442f">_navMesh</a> &amp;&amp; !<a class="code hl_variable" href="../../de/d9b/a10333.html#a237375e56702f7e83c9e13e1f959cfdb">_navMeshQuery</a>)</div>
-<div class="line"><span class="lineno">  180</span>        <a class="code hl_variable" href="../../de/d9b/a10333.html#a237375e56702f7e83c9e13e1f959cfdb">_navMeshQuery</a> = <a class="code hl_function" href="../../dc/dd3/a05333.html#affca526b45b63f9c827a52baa212f02c">MMAP::MMapMgr::CreateNavMeshQuery</a>(<a class="code hl_variable" href="../../de/d9b/a10333.html#ae41a024489dbe5d11ba6dceed6b7442f">_navMesh</a>.get());</div>
-<div class="line"><span class="lineno">  181</span> </div>
-<div class="line"><span class="lineno">  182</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../de/d9b/a10333.html#a237375e56702f7e83c9e13e1f959cfdb">_navMeshQuery</a>.get();</div>
-<div class="line"><span class="lineno">  183</span>}</div>
-<div class="ttc" id="aa05333_html_affca526b45b63f9c827a52baa212f02c"><div class="ttname"><a href="../../dc/dd3/a05333.html#affca526b45b63f9c827a52baa212f02c">MMAP::MMapMgr::CreateNavMeshQuery</a></div><div class="ttdeci">static ManagedNavMeshQuery CreateNavMeshQuery(dtNavMesh *navMesh)</div><div class="ttdef"><b>Definition:</b> MMapMgr.cpp:124</div></div>
-<div class="ttc" id="aa10333_html_a237375e56702f7e83c9e13e1f959cfdb"><div class="ttname"><a href="../../de/d9b/a10333.html#a237375e56702f7e83c9e13e1f959cfdb">MMapData::_navMeshQuery</a></div><div class="ttdeci">MMAP::ManagedNavMeshQuery _navMeshQuery</div><div class="ttdef"><b>Definition:</b> MapCollisionData.h:69</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00067">_navMesh</a>, <a class="el" href="../../#l00069">_navMeshQuery</a>, and <a class="el" href="../../#l00124">MMAP::MMapMgr::CreateNavMeshQuery()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00229">mmaps_commandscript::HandleMmapLoadedTilesCommand()</a>, <a class="el" href="../../#l00131">mmaps_commandscript::HandleMmapLocCommand()</a>, and <a class="el" href="../../#l00126">PathGenerator::PathGenerator()</a>.</p>
-
-</div>
-</div>
-<h2 class="groupheader">Friends And Related Function Documentation</h2>
-<a id="a472038a89678719bf8868ab0c75e394f" name="a472038a89678719bf8868ab0c75e394f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a472038a89678719bf8868ab0c75e394f">&#9670;&#160;</a></span>MapCollisionData</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">friend class <a class="el" href="../../de/d33/a10337.html">MapCollisionData</a></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
+<p class="reference">References <a class="el" href="../../#l00661">respawnTime</a>, <a class="el" href="../../#l00663">spawnId</a>, and <a class="el" href="../../#l00662">type</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="ae41a024489dbe5d11ba6dceed6b7442f" name="ae41a024489dbe5d11ba6dceed6b7442f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae41a024489dbe5d11ba6dceed6b7442f">&#9670;&#160;</a></span>_navMesh</h2>
+<a id="aaed69c7c6f9f78ecb365e233f1ff6dab" name="aaed69c7c6f9f78ecb365e233f1ff6dab"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aaed69c7c6f9f78ecb365e233f1ff6dab">&#9670;&#160;</a></span>respawnTime</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::shared_ptr&lt;dtNavMesh&gt; MMapData::_navMesh</td>
+          <td class="memname">time_t Map::RespawnEntry::respawnTime</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00090">MapCollisionData::GetMMapNavMeshSharedPtr()</a>, <a class="el" href="../../#l00062">GetNavMesh()</a>, <a class="el" href="../../#l00177">GetNavMeshQuery()</a>, <a class="el" href="../../#l00063">MapCollisionData::LoadMMapTile()</a>, and <a class="el" href="../../#l00031">MapCollisionData::MapCollisionData()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00664">operator&lt;()</a>.</p>
 
 </div>
 </div>
-<a id="a237375e56702f7e83c9e13e1f959cfdb" name="a237375e56702f7e83c9e13e1f959cfdb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a237375e56702f7e83c9e13e1f959cfdb">&#9670;&#160;</a></span>_navMeshQuery</h2>
+<a id="a6faeab5132f3e539848ebe29cee5a5a4" name="a6faeab5132f3e539848ebe29cee5a5a4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6faeab5132f3e539848ebe29cee5a5a4">&#9670;&#160;</a></span>spawnId</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../dd/d15/a05117.html#aa9864ce68a669d59d8baee4cb742900b">MMAP::ManagedNavMeshQuery</a> MMapData::_navMeshQuery</td>
+          <td class="memname"><a class="el" href="../../dc/dc9/a08913.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a> Map::RespawnEntry::spawnId</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00177">GetNavMeshQuery()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00664">operator&lt;()</a>.</p>
+
+</div>
+</div>
+<a id="a1400b212e0889c54047225ba57e95c94" name="a1400b212e0889c54047225ba57e95c94"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1400b212e0889c54047225ba57e95c94">&#9670;&#160;</a></span>type</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d7/df0/a02618.html#aca6d138cc8cbaa4fbb8366f26ecc6178">SpawnObjectType</a> Map::RespawnEntry::type</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00664">operator&lt;()</a>.</p>
 
 </div>
 </div>
@@ -273,8 +220,8 @@ Friends</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../de/d9b/a10333.html">MMapData</a></li>
-    <li class="footer">Generated on Mon Sep 14 2026 23:33:55 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../de/d6a/a10329.html">Map</a></li><li class="navelem"><a class="el" href="../../de/d9b/a10333.html">RespawnEntry</a></li>
+    <li class="footer">Generated on Mon Oct 19 2026 23:57:14 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

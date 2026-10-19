@@ -1,6 +1,7 @@
 var a18017 =
 [
-    [ "Cooldown", "d1/df2/a18017.html#ac2f21814be8269023a2069f3eb03dfe2", null ],
-    [ "Entry", "d1/df2/a18017.html#a28ff8bdab669f7b4aec95857cc460a2f", null ],
-    [ "TargetPosition", "d1/df2/a18017.html#ac47af49622012b4ad40357cadc5214b3", null ]
+    [ "HandleProc", "d1/df2/a18017.html#a235f04bd360ba7219aa2e1bc1a249047", null ],
+    [ "PrepareAuraScript", "d1/df2/a18017.html#a7cfa73ed3280d518baee1b0fa6bb4e76", null ],
+    [ "Register", "d1/df2/a18017.html#acc0881cf7379525a0841426867d2d850", null ],
+    [ "Validate", "d1/df2/a18017.html#a9be1b3b57bd2ee5995ad101369dac17c", null ]
 ];

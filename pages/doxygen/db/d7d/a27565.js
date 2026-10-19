@@ -1,7 +1,8 @@
 var a27565 =
 [
-    [ "CheckProc", "db/d7d/a27565.html#aa03bd8b92debda29f0b236fdbef73f16", null ],
-    [ "HandleProc", "db/d7d/a27565.html#a91ee1b654a3a26e027407635a45b80b3", null ],
-    [ "PrepareAuraScript", "db/d7d/a27565.html#ad2796a924fbe36dc9cd1c9de60eb9b16", null ],
-    [ "Register", "db/d7d/a27565.html#ab06a732203303d5533bdc4b217640d2d", null ]
+    [ "CheckProc", "db/d7d/a27565.html#a019b47e139e155c0803c0ce9a3a42f82", null ],
+    [ "HandleProc", "db/d7d/a27565.html#a92fff2ae3b59c3dd62e92a11312f87ae", null ],
+    [ "PrepareAuraScript", "db/d7d/a27565.html#a91ef63b96918e797e677423d51f94112", null ],
+    [ "Register", "db/d7d/a27565.html#a5625b3a60a607bd07d4328aa1886cfc5", null ],
+    [ "Validate", "db/d7d/a27565.html#ab6178007664afc34556336ec9620cd4f", null ]
 ];

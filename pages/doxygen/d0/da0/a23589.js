@@ -1,7 +1,5 @@
 var a23589 =
 [
-    [ "HandleScript", "d0/da0/a23589.html#a8933535f9507b90b54032c17985cc3c6", null ],
-    [ "PrepareSpellScript", "d0/da0/a23589.html#acadb563eaeffac47b3f883f9d8c37994", null ],
-    [ "Register", "d0/da0/a23589.html#a797ae84dcb0fc13b0799934bde71809c", null ],
-    [ "Validate", "d0/da0/a23589.html#afba2983f5be230dd3b77b3b49fee8a38", null ]
+    [ "go_main_chambers_access_panel", "d0/da0/a23589.html#a30c3c20be1892b5107ef53683d593b75", null ],
+    [ "OnGossipHello", "d0/da0/a23589.html#af4b3a4a0260de68dcfac7202e0a728ee", null ]
 ];

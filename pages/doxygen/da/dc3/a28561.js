@@ -1,8 +1,5 @@
 var a28561 =
 [
-    [ "npc_artoriusAI", "d9/d01/a28565.html", "d9/d01/a28565" ],
-    [ "npc_artorius", "da/dc3/a28561.html#a832831aa19ef3694eee5bbae4d1d39e1", null ],
-    [ "GetAI", "da/dc3/a28561.html#a2563f90fe1fd35c6bcf3f2296652981d", null ],
-    [ "OnGossipHello", "da/dc3/a28561.html#a2c91fcd777d0e0e7ab4927290ca04359", null ],
-    [ "OnGossipSelect", "da/dc3/a28561.html#ae0d8b09e4f7ad830cac9d82ef2d2fe57", null ]
+    [ "item_disgusting_jar", "da/dc3/a28561.html#add658cf7d026ac12d3eacc0c1dc8d7fb", null ],
+    [ "OnExpire", "da/dc3/a28561.html#a4f6967035a4d247914a6034fcebac5c5", null ]
 ];

@@ -1,7 +1,6 @@
 var a20281 =
 [
-    [ "HandleOnHit", "df/d7a/a20281.html#a3a0f411a652a5753a543f57433212425", null ],
-    [ "PrepareSpellScript", "df/d7a/a20281.html#a93008907295d79e9c98747bc416b6b5a", null ],
-    [ "Register", "df/d7a/a20281.html#a858cc1c717a7cadc9eac41b89738d7e1", null ],
-    [ "Validate", "df/d7a/a20281.html#a56f021a02c261dfb694e57af35c0ca14", null ]
+    [ "HandleInstaKill", "df/d7a/a20281.html#a9371a2cc86616fd04e47939d45f01cae", null ],
+    [ "PrepareSpellScript", "df/d7a/a20281.html#a38eed301f1db3ea7ac15b626e5927500", null ],
+    [ "Register", "df/d7a/a20281.html#a9aaf3e86a2c14ee79cc013b3978621ee", null ]
 ];

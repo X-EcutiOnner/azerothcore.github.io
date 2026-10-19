@@ -1,11 +1,12 @@
 var a20309 =
 [
-    [ "npc_freya_ward", "de/dfd/a20309.html#aeb5b3a3495622b05faf41d2ec0a82e3f", null ],
-    [ "DoAction", "de/dfd/a20309.html#ac52ff5e24ff5361808fce4d8d1574ada", null ],
-    [ "JustSummoned", "de/dfd/a20309.html#a71cd4c583a1f33168d12bbe473d0482e", null ],
-    [ "Reset", "de/dfd/a20309.html#a134ff84f2cfa3a00cdd6158da6641369", null ],
-    [ "SummonedCreatureDespawn", "de/dfd/a20309.html#a20fde559565c47f4451581e5d1a61e99", null ],
-    [ "UpdateAI", "de/dfd/a20309.html#a62122abe02ae9351617eb3af9e36e88e", null ],
-    [ "_castTimer", "de/dfd/a20309.html#afe313ebbc5c711183a9e623d8213ae64", null ],
-    [ "summons", "de/dfd/a20309.html#abf3d2443c9badc35097b6e5c818f1c88", null ]
+    [ "npc_auriaya_feral_defender", "de/dfd/a20309.html#a84425204b0ad06789edb331ed8495774", null ],
+    [ "DamageTaken", "de/dfd/a20309.html#aaebbf27345a546bf66e4ab7ed8eae556", null ],
+    [ "DoAction", "de/dfd/a20309.html#aea39a90b4e66796c37dde02687a9b2ad", null ],
+    [ "JustDied", "de/dfd/a20309.html#aa86cb08096ba0e43280f23d9acd0bfa1", null ],
+    [ "JustEngagedWith", "de/dfd/a20309.html#a3d91f99b57ba4d72b526a13f671961ce", null ],
+    [ "JustSummoned", "de/dfd/a20309.html#acea3175bcd4df4cf88dc9561c01bee64", null ],
+    [ "Reset", "de/dfd/a20309.html#a02b09b7dfdd4036827bb474a57296491", null ],
+    [ "UpdateAI", "de/dfd/a20309.html#a7b40afef6b58e7a41b2d00bccbdfe311", null ],
+    [ "_summons", "de/dfd/a20309.html#a0b7960f590ba76068c377cf08291ce35", null ]
 ];

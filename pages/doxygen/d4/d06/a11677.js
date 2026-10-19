@@ -1,5 +1,11 @@
 var a11677 =
 [
-    [ "QuestUpdateAddItem", "d4/d06/a11677.html#a9b4b63df9e35135e17df5d87fb7e24df", null ],
-    [ "Write", "d4/d06/a11677.html#af60dccc05c2033f9cf855977d7f827e0", null ]
+    [ "QuestGiverQuestComplete", "d4/d06/a11677.html#ad7cf8778e608128fad236f9eb7448c66", null ],
+    [ "Write", "d4/d06/a11677.html#ad9a328ee5bc7890bbd904a4d7e60f0ef", null ],
+    [ "Experience", "d4/d06/a11677.html#a2c9b1c07b5a52a5526643a6894290e0c", null ],
+    [ "QuestId", "d4/d06/a11677.html#adc349dfbefc0b5a4c13af4b7746dbfe4", null ],
+    [ "RewardArena", "d4/d06/a11677.html#a035223abc4d17df598dfcbc05f7f0770", null ],
+    [ "RewardHonor", "d4/d06/a11677.html#ab7f2f90b0132e3945f84bf36ba926417", null ],
+    [ "RewardMoney", "d4/d06/a11677.html#ab488d663cb52d92dc0d6c39f1d2e7388", null ],
+    [ "RewardTalents", "d4/d06/a11677.html#a43ee482017cfde3cf8f9f36f2dadf3f0", null ]
 ];

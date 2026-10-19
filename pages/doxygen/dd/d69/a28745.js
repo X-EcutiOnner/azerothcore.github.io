@@ -1,6 +1,6 @@
 var a28745 =
 [
-    [ "npc_stable_masterAI", "d3/d0b/a28749.html", "d3/d0b/a28749" ],
-    [ "npc_stable_master", "dd/d69/a28745.html#ad327340f47e10bec7f077192227b0899", null ],
-    [ "GetAI", "dd/d69/a28745.html#a7e34e18d2dad465eb88b0388fa830490", null ]
+    [ "npc_steam_tonkAI", "d3/d0b/a28749.html", "d3/d0b/a28749" ],
+    [ "npc_steam_tonk", "dd/d69/a28745.html#a19731e7f1bc6fe0220e8c28619ff7c50", null ],
+    [ "GetAI", "dd/d69/a28745.html#a38e51485a3610a204a45677fce15c943", null ]
 ];

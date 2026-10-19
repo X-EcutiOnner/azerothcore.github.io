@@ -1,6 +1,5 @@
 var a28249 =
 [
-    [ "npc_spirit_shadeAI", "d7/d9d/a28253.html", "d7/d9d/a28253" ],
-    [ "npc_spirit_shade", "d7/d74/a28249.html#a891ede5651789274496d6426daf9937d", null ],
-    [ "GetAI", "d7/d74/a28249.html#a166f6a9abf7c0e33374c2f998c0524c3", null ]
+    [ "AreaTrigger_at_scent_larkorwi", "d7/d74/a28249.html#a967a43eae4cc986754eed9ee8291c17e", null ],
+    [ "OnTrigger", "d7/d74/a28249.html#aeeb339afa5a7dd4b028aea800026998e", null ]
 ];

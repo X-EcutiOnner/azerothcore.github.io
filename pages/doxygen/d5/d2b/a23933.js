@@ -1,9 +1,6 @@
 var a23933 =
 [
-    [ "HandleEffectApply", "d5/d2b/a23933.html#ac9e030810cc1ffb3927943353bcbb764", null ],
-    [ "HandleEffectRemove", "d5/d2b/a23933.html#a2524bb4614fa62fb703a3d3cf0c25da0", null ],
-    [ "Load", "d5/d2b/a23933.html#a60f41c19f5104eef82048fd1e3416abd", null ],
-    [ "PrepareAuraScript", "d5/d2b/a23933.html#a277d9865108acafac4b1a42bc5b5714b", null ],
-    [ "Register", "d5/d2b/a23933.html#a5ffe5a8b3422382482f713ff6d8514b2", null ],
-    [ "_falconSet", "d5/d2b/a23933.html#a1a20f75d251936bff7a0777831d79140", null ]
+    [ "instance_arcatraz_InstanceMapScript", "d0/d43/a23937.html", "d0/d43/a23937" ],
+    [ "instance_arcatraz", "d5/d2b/a23933.html#a6fc8860651573353b54fd26bddea32aa", null ],
+    [ "GetInstanceScript", "d5/d2b/a23933.html#ad3f78e41ef2c96443ed3bd1ba4ab55bb", null ]
 ];

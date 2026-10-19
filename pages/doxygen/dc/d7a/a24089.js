@@ -1,6 +1,6 @@
 var a24089 =
 [
-    [ "HandlePeriodic", "dc/d7a/a24089.html#a0838d4449351f46a1f9f485abaf35c2b", null ],
-    [ "PrepareAuraScript", "dc/d7a/a24089.html#a438425f3002028a0978e0dbab580ca03", null ],
-    [ "Register", "dc/d7a/a24089.html#af4b26607e8838b7bbbe8777f57601341", null ]
+    [ "HandleScriptEffect", "dc/d7a/a24089.html#a9a7f29cde26344fb9af222a69ddbd4fa", null ],
+    [ "PrepareSpellScript", "dc/d7a/a24089.html#af475c0968aabaf56e8ca38950ad651f0", null ],
+    [ "Register", "dc/d7a/a24089.html#a86cd62582cc8b7c7fa10e0cd2da63822", null ]
 ];

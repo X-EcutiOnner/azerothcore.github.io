@@ -1,8 +1,6 @@
 var a14149 =
 [
-    [ "npc_deathstalker_erlandAI", "da/dd9/a14149.html#aa3c6822db09bc40dc87d556f6b3cc880", null ],
-    [ "JustEngagedWith", "da/dd9/a14149.html#ae4789c26cbb00b4ac04d646617a48a40", null ],
-    [ "Reset", "da/dd9/a14149.html#a3def0a0dd57ed732242a09d6390ab1f0", null ],
-    [ "WaypointReached", "da/dd9/a14149.html#af200e269d3f4b51bb5cfd08e9bf7ecc5", null ],
-    [ "WaypointReached", "da/dd9/a14149.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "npc_bh_thalorien_dawnseekerAI", "d8/d2d/a14153.html", "d8/d2d/a14153" ],
+    [ "npc_bh_thalorien_dawnseeker", "da/dd9/a14149.html#a1fbee838cbbf1ada476f3dd7a82fc6e6", null ],
+    [ "GetAI", "da/dd9/a14149.html#ac5d551d5d4d05ee1006d074908599a3a", null ]
 ];

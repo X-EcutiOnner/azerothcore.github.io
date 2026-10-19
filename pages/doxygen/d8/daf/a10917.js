@@ -1,10 +1,11 @@
 var a10917 =
 [
-    [ "TicketScript", "d8/daf/a10917.html#aec2b310ba0b26aa84a245207256edb0e", null ],
-    [ "IsDatabaseBound", "d8/daf/a10917.html#afa21fa5aaf58c4ff964bcb3f81afbb32", null ],
-    [ "OnTicketClose", "d8/daf/a10917.html#add082bd9a2d3a068bbb8f3a97d130887", null ],
-    [ "OnTicketCreate", "d8/daf/a10917.html#a3436bbc78425bf5144c81f6309060b33", null ],
-    [ "OnTicketResolve", "d8/daf/a10917.html#abd4d9cdf0fd99c10d6d86c395adecb9a", null ],
-    [ "OnTicketStatusUpdate", "d8/daf/a10917.html#ae30b28cef4497cbed153c3e98e26d00d", null ],
-    [ "OnTicketUpdateLastChange", "d8/daf/a10917.html#a3535e5592bc5f9ceb6b642b80a4f46b7", null ]
+    [ "PetScript", "d8/daf/a10917.html#a8acfb58efba8975dbfdfd36e34dd667e", null ],
+    [ "CanResetTalents", "d8/daf/a10917.html#ab4e5e0b19285573753ef6e9b7e8fd535", null ],
+    [ "CanUnlearnSpellDefault", "d8/daf/a10917.html#af150efd719bbb619df792ebc6705bb0a", null ],
+    [ "CanUnlearnSpellSet", "d8/daf/a10917.html#a84cba94813ffa26e1a245b814feb0349", null ],
+    [ "IsDatabaseBound", "d8/daf/a10917.html#a16fae7cdf068c6e3d9e46882548d4c20", null ],
+    [ "OnCalculateMaxTalentPointsForLevel", "d8/daf/a10917.html#a1263b06233902fbede9fc5df80cc8ad4", null ],
+    [ "OnInitStatsForLevel", "d8/daf/a10917.html#a65a33c4f374f2e9739680ad172118c26", null ],
+    [ "OnPetAddToWorld", "d8/daf/a10917.html#a3012323c5c1424512b611b6956a32554", null ]
 ];

@@ -1,7 +1,6 @@
 var a22489 =
 [
-    [ "HandleDummy", "d9/ddf/a22489.html#acdf98990ad575fec751a541cac3bcffa", null ],
-    [ "PrepareSpellScript", "d9/ddf/a22489.html#a2b9c56df8d6b2d5dcf0ebf952f7a16fd", null ],
-    [ "Register", "d9/ddf/a22489.html#ac628b5ddf18bae3b18b2512f1a92149f", null ],
-    [ "Validate", "d9/ddf/a22489.html#a3f7a01fcf8ef7cb151e29406b2b682a9", null ]
+    [ "npc_vehicle_d16_propelled_deliveryAI", "d5/d7b/a22493.html", "d5/d7b/a22493" ],
+    [ "npc_vehicle_d16_propelled_delivery", "d9/ddf/a22489.html#a93bed362ae78231b21327994a3e4cafd", null ],
+    [ "GetAI", "d9/ddf/a22489.html#abda3dbcb251d7f1e614d089f630d0d1c", null ]
 ];

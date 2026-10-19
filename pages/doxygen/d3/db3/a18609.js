@@ -1,5 +1,7 @@
 var a18609 =
 [
-    [ "achievement_all_you_can_eat", "d3/db3/a18609.html#a0995024862a445ea1f0ff5c82475fc64", null ],
-    [ "OnCheck", "d3/db3/a18609.html#a0baa07a7cbd239e4a5fcfd3e687aedf6", null ]
+    [ "HandleScript", "d3/db3/a18609.html#a5fbb1d26c4e7d5d21745004e477b3c1e", null ],
+    [ "PrepareSpellScript", "d3/db3/a18609.html#a7e6b56f426be7925255da3ebc239f909", null ],
+    [ "Register", "d3/db3/a18609.html#a0eb2d734ac99d3a036b95b6daa39b9f5", null ],
+    [ "Validate", "d3/db3/a18609.html#a86b4296eab73fc63b38558871f16a889", null ]
 ];

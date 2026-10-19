@@ -1,7 +1,10 @@
 var a30477 =
 [
-    [ "Paths", "d7/d3b/a30477.html#aff167c694a55441bcf5504f5d1933f41", null ],
-    [ "References", "d7/d3b/a30477.html#a07f0d7daa9cd934768b8a603dc52bea3", null ],
-    [ "Sets", "d7/d3b/a30477.html#a43774f8dd70e85e16aa8d49b5c6a25b6", null ],
-    [ "Spawns", "d7/d3b/a30477.html#a51f24c059516683f0744b81819186c0e", null ]
+    [ "ADTFile", "d7/d3b/a30477.html#a763f0f9c1106700987797864b2fdb006", null ],
+    [ "~ADTFile", "d7/d3b/a30477.html#ad1533f5b630a70b6ff95861e64960de0", null ],
+    [ "init", "d7/d3b/a30477.html#ab9ba3b1a2aac611bec5bfe4a454e4042", null ],
+    [ "_file", "d7/d3b/a30477.html#a7f3071e63be08fe3288d5ab03b5b8acf", null ],
+    [ "Adtfilename", "d7/d3b/a30477.html#a07c82112e26b96a87e22f1c7bec9c72e", null ],
+    [ "ModelInstanceNames", "d7/d3b/a30477.html#a6601e20fed78c54bb281ad3bd0ce7800", null ],
+    [ "WmoInstanceNames", "d7/d3b/a30477.html#acd96c287a01828bf3e49fb599a3b5d81", null ]
 ];

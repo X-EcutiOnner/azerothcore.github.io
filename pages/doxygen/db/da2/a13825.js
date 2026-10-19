@@ -1,8 +1,5 @@
 var a13825 =
 [
-    [ "FilterTargets", "db/da2/a13825.html#ac7f7287b88cde82fbf8a625f002c86fa", null ],
-    [ "HandleAfterCast", "db/da2/a13825.html#aa28714ce9ac251fe7c3bdec17b47deb3", null ],
-    [ "Load", "db/da2/a13825.html#aecfa38940ea3dd287179bdef3d290487", null ],
-    [ "PrepareSpellScript", "db/da2/a13825.html#a222e2c8e5401c132e89b29bbd22d46a6", null ],
-    [ "Register", "db/da2/a13825.html#a1a3607dd7e3d56bde3b92cbf4bcd0e78", null ]
+    [ "at_sunwell_eredar_twins", "db/da2/a13825.html#afc183c384bc87321186b20e0ac168c1f", null ],
+    [ "_OnTrigger", "db/da2/a13825.html#aa862756c9905e2cb10d60c70b47919aa", null ]
 ];

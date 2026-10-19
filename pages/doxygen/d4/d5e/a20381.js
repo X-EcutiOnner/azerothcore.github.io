@@ -1,7 +1,6 @@
 var a20381 =
 [
-    [ "HandleScript", "d4/d5e/a20381.html#a9580f04e1543262026818f0944bb96c3", null ],
-    [ "PrepareSpellScript", "d4/d5e/a20381.html#a924ae640d448da777ce3ecb059c1c9b6", null ],
-    [ "Register", "d4/d5e/a20381.html#ac05e58e9b5618b1f079bd1c4924a0f9f", null ],
-    [ "Validate", "d4/d5e/a20381.html#a8fc8712a76939dea6831a9eb5b95f946", null ]
+    [ "npc_salvaged_chopper", "d4/d5e/a20381.html#ad2d875ba3e7de8e44213cd8fdf383df0", null ],
+    [ "PassengerBoarded", "d4/d5e/a20381.html#a12e63e4a2ce543293a398bfe3e9635ad", null ],
+    [ "SwapActionButton", "d4/d5e/a20381.html#afe67864f4315ad1fa876572c840cc190", null ]
 ];

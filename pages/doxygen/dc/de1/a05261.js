@@ -1,7 +1,11 @@
 var a05261 =
 [
-    [ "indices", "dc/de1/a05261.html#a23cadbd54502fb4edc68e052e5774664", null ],
-    [ "maxPrims", "dc/de1/a05261.html#a0c46f35977fe683a19e7cb1e580a814b", null ],
-    [ "numPrims", "dc/de1/a05261.html#a623b9ee05707ecdbaa816c797e358e86", null ],
-    [ "primBound", "dc/de1/a05261.html#a3304ad5d821f178941fd44da897213de", null ]
+    [ "IoContext", "dc/de1/a05261.html#a6ba4b629a3704fcb5d110a71f09900be", null ],
+    [ "IoContext", "dc/de1/a05261.html#a8dc945d02df9d28f3dda6c17f1c91502", null ],
+    [ "get_executor", "dc/de1/a05261.html#aa642c9d6e49d2396c267c6fc404b2a6b", null ],
+    [ "operator IoContextBaseNamespace::IoContextBase &", "dc/de1/a05261.html#a51e3067d9ba9b0b4a557a7e586b1ef91", null ],
+    [ "operator IoContextBaseNamespace::IoContextBase const &", "dc/de1/a05261.html#af4aa281948ab71b76bc8f66b735425b3", null ],
+    [ "run", "dc/de1/a05261.html#a086cd2ed56d61cf1ec0dbfdec16c50fe", null ],
+    [ "stop", "dc/de1/a05261.html#a1165b11f60d138d56eba43657fc299cd", null ],
+    [ "_impl", "dc/de1/a05261.html#a22cdb3c45a6dbacb13f90f654bc0c65d", null ]
 ];

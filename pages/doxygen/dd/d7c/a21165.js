@@ -1,6 +1,11 @@
 var a21165 =
 [
-    [ "ModSanityStacks", "dd/d7c/a21165.html#a38b8425689f91b91e23096d658b462cf", null ],
-    [ "PrepareSpellScript", "dd/d7c/a21165.html#a43362033f7422a0b9918ddd3b7e480cc", null ],
-    [ "Register", "dd/d7c/a21165.html#a6d5e27f728ee3980d33d417fb437c9c6", null ]
+    [ "boss_yoggsaron_voice", "dd/d7c/a21165.html#ae9baa030c275b7f80d084f4e5d44aed2", null ],
+    [ "DoAction", "dd/d7c/a21165.html#a094522e81d1d19de660b75fb06ea4224", null ],
+    [ "Reset", "dd/d7c/a21165.html#a05a59e5c1e05f40fed219a2927e8006d", null ],
+    [ "SpellHitTarget", "dd/d7c/a21165.html#aae3b82dbb871f0f297bdacf975958492", null ],
+    [ "UpdateAI", "dd/d7c/a21165.html#aa3570bf74b7caee5dcf844853a73d7e5", null ],
+    [ "_current", "dd/d7c/a21165.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b", null ],
+    [ "_targets", "dd/d7c/a21165.html#a52bf7b9b560f600b5b3647fefb3830bf", null ],
+    [ "events", "dd/d7c/a21165.html#abd4829f72aea74d3f9be6df3e40b08b5", null ]
 ];

@@ -1,8 +1,11 @@
 var a15273 =
 [
-    [ "hyjalThrallAI", "dd/d99/a15273.html#a5bc01b52edeaac62e3a9c3e48f90feb2", null ],
-    [ "JustDied", "dd/d99/a15273.html#aa13cb18c91802ad402e5fd97ec78572a", null ],
-    [ "JustEngagedWith", "dd/d99/a15273.html#a96706138634275ae7639c14f53cdd842", null ],
-    [ "Reset", "dd/d99/a15273.html#a6a341bfcc9d697dde64584a5a0231d73", null ],
-    [ "UpdateAI", "dd/d99/a15273.html#a57046716d7c45a5fa4e203d73c4a7b87", null ]
+    [ "boss_kazrogal", "dd/d99/a15273.html#a2b3cc0e99c478c55f907898fbec2b8b2", null ],
+    [ "DoAction", "dd/d99/a15273.html#a7721debceeefaeb69e71855b8e8742f8", null ],
+    [ "GetMarkRepeatTimer", "dd/d99/a15273.html#a0b54f8c935d09367d7e6b7dbf6c4ce61", null ],
+    [ "JustDied", "dd/d99/a15273.html#abc839abddfbb5fb1e1dd3a67e0b661cb", null ],
+    [ "JustEngagedWith", "dd/d99/a15273.html#a2c0aafd271b2500d32f5add7e75cd990", null ],
+    [ "KilledUnit", "dd/d99/a15273.html#ab1439114a84d85947106d979f38d12fa", null ],
+    [ "Reset", "dd/d99/a15273.html#acb9f4ee5d97b43082bf6fc0c424685ab", null ],
+    [ "_markCounter", "dd/d99/a15273.html#a54ef8b88bf62e260e19a964d1926ef4a", null ]
 ];

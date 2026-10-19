@@ -1,7 +1,6 @@
 var a25321 =
 [
-    [ "HandleScript", "dd/d23/a25321.html#ad1ca4c264e1f89adf479254e6436dd55", null ],
-    [ "Load", "dd/d23/a25321.html#a66db2b82a0f014e49bbfeeaade4d1731", null ],
-    [ "PrepareSpellScript", "dd/d23/a25321.html#a7616d761e7a7a708c88918302b488bb9", null ],
-    [ "Register", "dd/d23/a25321.html#a8ca351c9e0e254369328865eefa3ff91", null ]
+    [ "CheckAreaTarget", "dd/d23/a25321.html#a90761b0145ea9d4178e77eb5e15a8ba6", null ],
+    [ "PrepareAuraScript", "dd/d23/a25321.html#afbc45652033397067a439b45afd2e90e", null ],
+    [ "Register", "dd/d23/a25321.html#aa24679e1243470056f74249e1b26767d", null ]
 ];

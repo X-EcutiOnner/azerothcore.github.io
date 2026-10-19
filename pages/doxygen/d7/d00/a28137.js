@@ -1,5 +1,7 @@
 var a28137 =
 [
-    [ "achievement_sickly_gazelle", "d7/d00/a28137.html#abb613cb222c727923c4c5ce843db3a5f", null ],
-    [ "OnCheck", "d7/d00/a28137.html#a5a4fcd30c92c10a9c0fb8fc1372f3857", null ]
+    [ "HandleProc", "d7/d00/a28137.html#a41b42a2d219904cdaf2a714d97e500f7", null ],
+    [ "PrepareAuraScript", "d7/d00/a28137.html#a95c26300614ecdab588ddcc256fc1fd6", null ],
+    [ "Register", "d7/d00/a28137.html#afb32150ac10ad392b63f40db05433835", null ],
+    [ "Validate", "d7/d00/a28137.html#ab012775206fb6011eff8fbed293319c8", null ]
 ];

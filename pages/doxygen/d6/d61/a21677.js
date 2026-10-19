@@ -1,5 +1,7 @@
 var a21677 =
 [
-    [ "npc_nerubar_victim", "d6/d61/a21677.html#a218a0091d3dd5c237f49f7b2797c54d7", null ],
-    [ "JustDied", "d6/d61/a21677.html#a969b3f15d0017978e77d34131815c7e4", null ]
+    [ "npc_azure_raider", "d6/d61/a21677.html#a841b0fb8a0ca5ca82f3183835281d0e7", null ],
+    [ "Reset", "d6/d61/a21677.html#a3579986a1769467cb17d3b15242e0551", null ],
+    [ "UpdateAI", "d6/d61/a21677.html#a7aa0c785e976167ef384d7c4dac3294f", null ],
+    [ "_events", "d6/d61/a21677.html#a8d25c785974cb8c50b55b547b982b06f", null ]
 ];

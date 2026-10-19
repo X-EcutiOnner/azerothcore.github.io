@@ -1,7 +1,5 @@
 var a22569 =
 [
-    [ "HandleScript", "d8/d3e/a22569.html#a1811115f1732912bdfaeeb8272db2304", null ],
-    [ "PrepareSpellScript", "d8/d3e/a22569.html#a50c24464dd88717bf78971d679715d7b", null ],
-    [ "Register", "d8/d3e/a22569.html#ab48b37db40865d60d7cda3260ec15ba8", null ],
-    [ "Validate", "d8/d3e/a22569.html#a0f0e4621965ea7ed7a108bca6d232ad0", null ]
+    [ "npc_wg_spirit_guideAI", "d8/d3e/a22569.html#a576d15b6acedb07bfe1555bdd0ee8f12", null ],
+    [ "UpdateAI", "d8/d3e/a22569.html#a32b28e8fe74db742d170bd754d11f4d7", null ]
 ];

@@ -1,7 +1,5 @@
 var a08377 =
 [
-    [ "RBEntryInfo", "d7/dc3/a08377.html#aa720dd6cae9ee7163bb9b84918249644", null ],
-    [ "RBEntryInfo", "d7/dc3/a08377.html#a3df17ed1c70ed9b755843308d5ff6336", null ],
-    [ "comment", "d7/dc3/a08377.html#a7284eac7208dba21a52b79257aad7dbc", null ],
-    [ "roles", "d7/dc3/a08377.html#ab891dec65b0070ede1233080eadd0190", null ]
+    [ "number", "d7/dc3/a08377.html#af111e542d7a276e27d2b14757293bc42", null ],
+    [ "offset_elements", "d7/dc3/a08377.html#ad633b2e9afc82762c6b43675844f8fea", null ]
 ];

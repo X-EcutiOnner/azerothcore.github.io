@@ -1,5 +1,6 @@
 var a25229 =
 [
-    [ "PrepareSpellScript", "db/d5c/a25229.html#a054677572d74a740f1c14715608f7b1b", null ],
-    [ "Register", "db/d5c/a25229.html#ae6556b58f0a4e6d3762bc3dc4c1643b3", null ]
+    [ "CheckProc", "db/d5c/a25229.html#af742bdfd97c9202d50ed7aa1cf8e7d49", null ],
+    [ "PrepareAuraScript", "db/d5c/a25229.html#a255a58ad99059ba28ab09a94e7cc683a", null ],
+    [ "Register", "db/d5c/a25229.html#a4ec4dd2342a5b75c975dc6ffe0b02b79", null ]
 ];

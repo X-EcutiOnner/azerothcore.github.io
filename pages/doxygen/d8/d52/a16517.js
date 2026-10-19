@@ -1,6 +1,6 @@
 var a16517 =
 [
-    [ "instance_azjol_nerub_InstanceScript", "d6/df3/a16521.html", "d6/df3/a16521" ],
-    [ "instance_azjol_nerub", "d8/d52/a16517.html#a61476a0d15136d2bdb3a65eca72963da", null ],
-    [ "GetInstanceScript", "d8/d52/a16517.html#a8bb8477669c6369afe508a400bd4d489", null ]
+    [ "npc_anub_ar_crusher_crypt_fiend", "d8/d52/a16517.html#a89abbce738f115c26dae9dacb065cc3d", null ],
+    [ "DoEngagedWith", "d8/d52/a16517.html#a20cdbe7eb580cd9f9763019d8927182f", null ],
+    [ "DoEvent", "d8/d52/a16517.html#a276eca6e65b32905f6919d49530ccc2f", null ]
 ];

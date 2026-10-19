@@ -1,6 +1,7 @@
 var a27145 =
 [
-    [ "HandleFinish", "db/d1e/a27145.html#a53263ce51581f36c2df80b49c93fa9d3", null ],
-    [ "PrepareSpellScript", "db/d1e/a27145.html#a8113f61816473399f0ceab18b104d058", null ],
-    [ "Register", "db/d1e/a27145.html#a36bf50cdb7be7ba03eafd4848c6ceced", null ]
+    [ "HandleProc", "db/d1e/a27145.html#af27f9408725ff9c7ec17e8ae352234a9", null ],
+    [ "PrepareAuraScript", "db/d1e/a27145.html#a11c2e125d7a583966be3f8a64064a5ad", null ],
+    [ "Register", "db/d1e/a27145.html#a283f05b3649e3c137679ab92386f7a84", null ],
+    [ "Validate", "db/d1e/a27145.html#a4805c758dc85e065cdb9550a5856fe31", null ]
 ];

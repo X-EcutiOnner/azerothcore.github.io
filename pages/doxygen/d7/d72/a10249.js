@@ -1,10 +1,11 @@
 var a10249 =
 [
-    [ "DoublePosition", "df/d3f/a10253.html", "df/d3f/a10253" ],
-    [ "~AreaBoundary", "d7/d72/a10249.html#a6050e91b3d485e75186a2df9a56e8d38", null ],
-    [ "AreaBoundary", "d7/d72/a10249.html#adf670910c492c08d3384c2dd1824e7ce", null ],
-    [ "IsWithinBoundary", "d7/d72/a10249.html#aac0ce1e801f3de8f3bb83b98ecd6e5c1", null ],
-    [ "IsWithinBoundary", "d7/d72/a10249.html#a1d407f77ce0388263fc0ee6224734213", null ],
-    [ "IsWithinBoundaryArea", "d7/d72/a10249.html#ae5580b0044dba24d100831fe51ee1abc", null ],
-    [ "_isInvertedBoundary", "d7/d72/a10249.html#ad416f29594688ce670549d6fdcce4314", null ]
+    [ "DeleteEmptyExpiredMail", "d7/d72/a10249.html#a3cd0e2570c8c684d09931331dfb5837f", null ],
+    [ "instance", "d7/d72/a10249.html#abe24c4d840d5f2b05958a44cd63b8b35", null ],
+    [ "LoadMailCounts", "d7/d72/a10249.html#a6786cc5036259c23256b669da1146012", null ],
+    [ "OnMailDeleted", "d7/d72/a10249.html#a699bf593d7f00470878504141e7fe3df", null ],
+    [ "OnMailReturned", "d7/d72/a10249.html#ac355df32c38e8619cf18cee283894c64", null ],
+    [ "OnMailSent", "d7/d72/a10249.html#ad22a9a0cf09a5dc7acaf14dfdd0bcdbf", null ],
+    [ "RecountMailCount", "d7/d72/a10249.html#a595b8b31c9695c8bbec64e2f982853d0", null ],
+    [ "ReturnOrDeleteOldMails", "d7/d72/a10249.html#ab4ef5f6ca91286c732b257f267b06f14", null ]
 ];

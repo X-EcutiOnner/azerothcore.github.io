@@ -1,10 +1,7 @@
 var a24569 =
 [
-    [ "npc_pet_hunter_snake_trap", "db/db5/a24569.html#aaf5df574c4ac53661c0bb1968f84c6ea", null ],
-    [ "InitializeAI", "db/db5/a24569.html#a91931c2ac0fd4981f9bf8a2f8f7db672", null ],
-    [ "JustEngagedWith", "db/db5/a24569.html#a695af9c49daa05c787dac03c4af91645", null ],
-    [ "MoveInLineOfSight", "db/db5/a24569.html#a099a34f12399fe24349644da3dafe7a4", null ],
-    [ "UpdateAI", "db/db5/a24569.html#a41a37efe6d39c6d97b3dcc5fabbcc812", null ],
-    [ "_isViper", "db/db5/a24569.html#ab49c69ca25014ef63e775b236255e4c1", null ],
-    [ "_spellTimer", "db/db5/a24569.html#ab9397451e2e8320ca77560a19baeee3f", null ]
+    [ "npc_pet_gen_target_following_bomb", "db/db5/a24569.html#a447c2cd258d784ca1d79c79412a1a426", null ],
+    [ "UpdateAI", "db/db5/a24569.html#ac68f18d68a313623c04e885f9506f287", null ],
+    [ "bombSpellId", "db/db5/a24569.html#a3c72bd26c66d3e7a85f3152557e399c4", null ],
+    [ "checkTimer", "db/db5/a24569.html#a694ee5f884f1bd404f0ef3d3030a212f", null ]
 ];

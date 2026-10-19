@@ -1,10 +1,9 @@
 var a23441 =
 [
-    [ "npc_frozen_core", "dd/d01/a23441.html#af00f67392d96aa1ab8ccdab5b168fc04", null ],
-    [ "DoAction", "dd/d01/a23441.html#a7b2c684f0c4e88720fb0d921815026ab", null ],
-    [ "Initialize", "dd/d01/a23441.html#a7e5824e31f600d10c3177e00ae443c7f", null ],
-    [ "JustDied", "dd/d01/a23441.html#a476e086b0379e0cef3a44d250b020d6a", null ],
-    [ "UpdateAI", "dd/d01/a23441.html#af09168b57b79d14d9a7ef6861e85cc1a", null ],
-    [ "_events", "dd/d01/a23441.html#a3a5efec3279644ef713722e1556a3c84", null ],
-    [ "_instance", "dd/d01/a23441.html#a80fa517cc7dffd4bf15f3393d1f4af14", null ]
+    [ "FilterTargets", "dd/d01/a23441.html#a9049c113d65b15a9a8e1143980a84b23", null ],
+    [ "HandleDummy", "dd/d01/a23441.html#a21fd59ba177fd7b04eb1fcafe869f33a", null ],
+    [ "Load", "dd/d01/a23441.html#a8cad82701e0147e14f826243175e1c32", null ],
+    [ "PrepareSpellScript", "dd/d01/a23441.html#aa05839a8dd785a2472e8e5f3a9fc58b0", null ],
+    [ "Register", "dd/d01/a23441.html#a0e7e246c322b89c3b6ee08797984f7e6", null ],
+    [ "_targetNumber", "dd/d01/a23441.html#a34f80edf782ade371e7a6fc908b47b4f", null ]
 ];

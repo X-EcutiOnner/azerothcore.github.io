@@ -1,6 +1,8 @@
 var a26837 =
 [
-    [ "FilterTargets", "db/d9c/a26837.html#a9ee58cd4e7a0fa59bfb6ef1270d51f21", null ],
-    [ "PrepareSpellScript", "db/d9c/a26837.html#a5992d94317d3da7400d5a9ab115e621e", null ],
-    [ "Register", "db/d9c/a26837.html#a125ce6c8dfdc6419b4409c72f74fcf85", null ]
+    [ "HandleEffectApply", "db/d9c/a26837.html#a1182bd57a03ad093b53e3864bdff127c", null ],
+    [ "HandleEffectRemove", "db/d9c/a26837.html#a6374ece2a04c3d5bc81bb31cc5bc78e1", null ],
+    [ "PrepareAuraScript", "db/d9c/a26837.html#acbe4a19f4f2502fc1ae4e13a2c8906ab", null ],
+    [ "Register", "db/d9c/a26837.html#ac3a9249da3071736026d66a9551ca16d", null ],
+    [ "Validate", "db/d9c/a26837.html#a0ebac0cb6933ac4c562c3c91e06614dd", null ]
 ];

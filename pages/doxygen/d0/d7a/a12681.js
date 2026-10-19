@@ -1,14 +1,8 @@
 var a12681 =
 [
-    [ "tele_commandscript", "d0/d7a/a12681.html#a13d522c3480c5b82071d5f77bd41f942", null ],
-    [ "DoNameTeleport", "d0/d7a/a12681.html#aeab9bf62f33fd1d55055ba2ae7925f82", null ],
-    [ "GetCommands", "d0/d7a/a12681.html#a296b26e39d5d575ebe68728ff1b49f68", null ],
-    [ "HandleTeleAddCommand", "d0/d7a/a12681.html#a8d429a38c01a19f8c89c87937ef24248", null ],
-    [ "HandleTeleCommand", "d0/d7a/a12681.html#ac7d7dbb28f3a908fa5116ffb9ca6f7fa", null ],
-    [ "HandleTeleDelCommand", "d0/d7a/a12681.html#ad3d85b0057797de2aceeb620cf62efc0", null ],
-    [ "HandleTeleGroupCommand", "d0/d7a/a12681.html#af83e529b482654851a7a1ee77beb107e", null ],
-    [ "HandleTeleNameCommand", "d0/d7a/a12681.html#a70fcde1c7c5a9e5297035862adca55c4", null ],
-    [ "HandleTeleNameNpcIdCommand", "d0/d7a/a12681.html#a52852b7f3d7a6bbf68164e6918b9a141", null ],
-    [ "HandleTeleNameNpcNameCommand", "d0/d7a/a12681.html#a2f68bad0f1af5d40fcefb8c394472b65", null ],
-    [ "HandleTeleNameNpcSpawnIdCommand", "d0/d7a/a12681.html#a7a45fa39afa6bae2359a68b11a504bc5", null ]
+    [ "RBACCommandData", "d0/d7a/a12681.html#a05b9fb0ce4d459f4f4bf6fab258b0737", null ],
+    [ "RBACCommandData", "d0/d7a/a12681.html#ae871dc19c052c205378810f91534caf6", null ],
+    [ "~RBACCommandData", "d0/d7a/a12681.html#adf59e804b6cc4779da75f07f8e904f43", null ],
+    [ "needDelete", "d0/d7a/a12681.html#a97e567ffef62804e327d909ad4c2a385", null ],
+    [ "rbac", "d0/d7a/a12681.html#ac681f852bea86d3bd1e290c93cf5e285", null ]
 ];

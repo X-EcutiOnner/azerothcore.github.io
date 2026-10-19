@@ -1,5 +1,7 @@
 var a23521 =
 [
-    [ "at_quagmirran_lair", "d3/db9/a23521.html#a1f8cb1f59e7a179d9e4a987f716ab26f", null ],
-    [ "OnTrigger", "d3/db9/a23521.html#aa0aab42516efaf842923b8a820942ac4", null ]
+    [ "PeriodicTick", "d3/db9/a23521.html#afb5cc6129423cb4f7c3da50977da01f2", null ],
+    [ "PrepareAuraScript", "d3/db9/a23521.html#aea6ca9c5d490f62ae737bfc07751da42", null ],
+    [ "Register", "d3/db9/a23521.html#ad0eb66e0bab8441e1bb3db42967df7ff", null ],
+    [ "Validate", "d3/db9/a23521.html#ae07f6e7de08ada74b4cb9ac890c70c35", null ]
 ];

@@ -1,7 +1,7 @@
 var a23945 =
 [
-    [ "CastQuill", "d7/d58/a23945.html#a923234809186bcbdf02457f4be095519", null ],
-    [ "Execute", "d7/d58/a23945.html#a26a971a575e4b9503cd1da73d43ebd1e", null ],
-    [ "_caster", "d7/d58/a23945.html#af809b9279aff141ce4007c8d1fbcc331", null ],
-    [ "_spellId", "d7/d58/a23945.html#ad6f7d8eaf69873b0ba57be4189c145cf", null ]
+    [ "AfterApply", "d7/d58/a23945.html#a0ba88b8ed8cfd0afa1de500a7a8d74b5", null ],
+    [ "PrepareAuraScript", "d7/d58/a23945.html#aa98346e5f5b23fe016148426a19a719f", null ],
+    [ "Register", "d7/d58/a23945.html#ac0edcddf6c38b933c868dbe0535f143a", null ],
+    [ "Validate", "d7/d58/a23945.html#a616d1758aa257140f4941fe12ef21e87", null ]
 ];

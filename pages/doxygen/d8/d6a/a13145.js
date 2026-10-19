@@ -1,6 +1,10 @@
 var a13145 =
 [
-    [ "HandleHit", "d8/d6a/a13145.html#a5245f935c0cafd14e492214a51d85ad3", null ],
-    [ "PrepareSpellScript", "d8/d6a/a13145.html#a074b9e23de0a9b24776c7e361791c6ff", null ],
-    [ "Register", "d8/d6a/a13145.html#a12f7db2345ce0d19a18791a2e63e7450", null ]
+    [ "boss_golemagg", "d8/d6a/a13145.html#ac7a23be0a51bd73b5c5b8215ba31412e", null ],
+    [ "DamageTaken", "d8/d6a/a13145.html#acf0917a65764074ebb11d51cb537c2f5", null ],
+    [ "Reset", "d8/d6a/a13145.html#ac663539bac3bcd858dfbfba6095172dd", null ],
+    [ "UpdateAI", "d8/d6a/a13145.html#aa68a9ff1858591b65ad650c18954bdea", null ],
+    [ "earthquakeTimer", "d8/d6a/a13145.html#ad581b8e54e08342041886b180c139db0", null ],
+    [ "enraged", "d8/d6a/a13145.html#a27a5041fcf93a3da6fe2130af24de386", null ],
+    [ "pyroblastTimer", "d8/d6a/a13145.html#aae54e1e74dd44329af4f66bf26b2e277", null ]
 ];

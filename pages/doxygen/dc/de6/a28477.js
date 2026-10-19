@@ -1,8 +1,6 @@
 var a28477 =
 [
-    [ "go_bellsAI", "dc/de6/a28477.html#a6f22847c66a3b5faded35da799359846", null ],
-    [ "UpdateAI", "dc/de6/a28477.html#ab466f67665577f22bfe6cdb94d0a008b", null ],
-    [ "_events", "dc/de6/a28477.html#a46c66442078cee28a76fc412746ca026", null ],
-    [ "_soundId", "dc/de6/a28477.html#ab2491e9d27266ea69a5a9163e8c1b35b", null ],
-    [ "once", "dc/de6/a28477.html#abf6ca2fc64f5764936a6d0179d40c2fa", null ]
+    [ "go_bashir_crystalforge", "dc/de6/a28477.html#a8b68a63933e14d82198580912fddc280", null ],
+    [ "OnGossipHello", "dc/de6/a28477.html#a4aa941ae78a17eecc5593d6ccd17ff63", null ],
+    [ "OnGossipSelect", "dc/de6/a28477.html#ac7e1b6db4ae2bee766b95049a8b0c320", null ]
 ];

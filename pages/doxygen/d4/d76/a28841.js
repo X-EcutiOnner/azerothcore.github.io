@@ -1,5 +1,9 @@
 var a28841 =
 [
-    [ "ServerMailReward", "d4/d76/a28841.html#aba48b4c171e8e8a40fca2d3bed6b7f63", null ],
-    [ "OnPlayerLogin", "d4/d76/a28841.html#ada945e805278d54746b6fabaf48b4546", null ]
+    [ "npc_necropolis_health", "d4/d76/a28841.html#a9dc3e7734c22adea687a69662a3c7afa", null ],
+    [ "DespawnNecropolis", "d4/d76/a28841.html#af80e2b106b04e02d4c23a5fe4c45a7a2", null ],
+    [ "JustDied", "d4/d76/a28841.html#a972687770c7afb0adfaac56f0cb73d5f", null ],
+    [ "SpellHit", "d4/d76/a28841.html#ad4a9f9b166ab8107a16da918082c6625", null ],
+    [ "SpellHitTarget", "d4/d76/a28841.html#ad357b3497d36d6471460c09d3f01ab3e", null ],
+    [ "_zapCount", "d4/d76/a28841.html#aa9f17362d0e4dbcf275a5148a4c2392b", null ]
 ];

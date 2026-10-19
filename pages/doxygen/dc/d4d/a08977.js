@@ -1,8 +1,6 @@
 var a08977 =
 [
-    [ "IsInSpec", "dc/d4d/a08977.html#a77968b5562467f85bda04b6f2f41ca29", null ],
-    [ "inSpellBook", "dc/d4d/a08977.html#a650926fa9d1bbab336ee7ed3dd0b0b7d", null ],
-    [ "specMask", "dc/d4d/a08977.html#acc1913a90ca2bd23298d3590843cfbd5", null ],
-    [ "State", "dc/d4d/a08977.html#a062758af7e92f7e2263ca0a0fd329151", null ],
-    [ "talentID", "dc/d4d/a08977.html#aca9b191361652002f5178179a939e41b", null ]
+    [ "active", "dc/d4d/a08977.html#a9460571d6fc219ab8c475aab34fc9494", null ],
+    [ "state", "dc/d4d/a08977.html#a0600418cb460fdaf8093bfa609e796c8", null ],
+    [ "type", "dc/d4d/a08977.html#a4c4a7d0f299ae4e2ceb146a741057032", null ]
 ];

@@ -1,11 +1,10 @@
 var a02603 =
 [
-    [ "BanMgr", "d6/db0/a10415.html", "d6/db0/a10415" ],
-    [ "sBan", "d1/d23/a02603.html#a7d5e9b6aab3c8157bcf25fa0f070bb17", null ],
-    [ "BanReturn", "d1/d23/a02603.html#a4dd4670ead55e2780d09a66ab39943a7", [
-      [ "BAN_SUCCESS", "d1/d23/a02603.html#a4dd4670ead55e2780d09a66ab39943a7ab48bdf9afe21b115b7550bf103d1dc28", null ],
-      [ "BAN_SYNTAX_ERROR", "d1/d23/a02603.html#a4dd4670ead55e2780d09a66ab39943a7a7ec21f8f8ea6d0904423dded4b8f0dc8", null ],
-      [ "BAN_NOTFOUND", "d1/d23/a02603.html#a4dd4670ead55e2780d09a66ab39943a7aaefc3ea320005c27d70704fb92aed7ad", null ],
-      [ "BAN_LONGER_EXISTS", "d1/d23/a02603.html#a4dd4670ead55e2780d09a66ab39943a7ac441589615fb2fe9c7decb985f6f0d3c", null ]
-    ] ]
+    [ "GraveyardStruct", "d2/d38/a10441.html", "d2/d38/a10441" ],
+    [ "GraveyardData", "df/dd0/a10445.html", "df/dd0/a10445" ],
+    [ "Graveyard", "df/d8c/a10449.html", "df/d8c/a10449" ],
+    [ "sGraveyard", "d1/d23/a02603.html#ac68c2a63982a6142e1931450d7b6115c", null ],
+    [ "GraveyardMapBounds", "d1/d23/a02603.html#aa5ea0c376a2e44483f8c5cb084b3b186", null ],
+    [ "GraveyardMapBoundsNonConst", "d1/d23/a02603.html#a6a551a1219fa9a26b5ed21656c2f9dd1", null ],
+    [ "WGGraveyardContainer", "d1/d23/a02603.html#a484cb47c00fe9b952853e3b04212437c", null ]
 ];

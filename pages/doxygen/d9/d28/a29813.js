@@ -1,8 +1,5 @@
 var a29813 =
 [
-    [ "bp0", "d9/d28/a29813.html#ada8e047c960181610ff1942cbdfa2e27", null ],
-    [ "bp1", "d9/d28/a29813.html#aaf81afde542db481bde1e26fcc21b945", null ],
-    [ "bp2", "d9/d28/a29813.html#a36b28d1bc821bfd3970b6af0f38a9f10", null ],
-    [ "spellId", "d9/d28/a29813.html#a3f8e88d4761c5247c2cb9bff94d548aa", null ],
-    [ "triggered", "d9/d28/a29813.html#a0ee8feba0856c5497612e15128ba8273", null ]
+    [ "auraHasDisableProcAttr", "d9/d28/a29813.html#aec81d4f80c7cb7749f860601c9e5aac8", null ],
+    [ "triggeringSpellIsProcDisabled", "d9/d28/a29813.html#a38c3523c80d30ed10b8c3b5e19c083f6", null ]
 ];

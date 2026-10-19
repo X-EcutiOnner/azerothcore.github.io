@@ -1,6 +1,9 @@
 var a12989 =
 [
-    [ "boss_firemaw", "d8/d78/a12989.html#a2d2be691020b8aa81f82ffab91a86e42", null ],
-    [ "JustEngagedWith", "d8/d78/a12989.html#a63d0f449d04ad3d86f4ede9a0f9696a9", null ],
-    [ "UpdateAI", "d8/d78/a12989.html#a13a672cc37175615068429f9a3282e07", null ]
+    [ "npc_vaelastrasz_the_red", "d8/d78/a12989.html#a28ba5ca91e61707360c8a1f9a8550567", null ],
+    [ "IsSummonedBy", "d8/d78/a12989.html#ad5f2aeaee704c436e60bc5c5400c0f75", null ],
+    [ "UpdateAI", "d8/d78/a12989.html#a95b48026759f9e5e5f0c452a8019ef03", null ],
+    [ "_combatEnabled", "d8/d78/a12989.html#a373fe15d1e754f11db59186517783a40", null ],
+    [ "_events2", "d8/d78/a12989.html#acecc982854e9d587112e9117e7d7a3fa", null ],
+    [ "_victorGUID", "d8/d78/a12989.html#a0e5d6bd095c980a45dcfe68faf2c7b3f", null ]
 ];

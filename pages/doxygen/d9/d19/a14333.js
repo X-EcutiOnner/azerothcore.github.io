@@ -1,9 +1,7 @@
 var a14333 =
 [
-    [ "npc_thrall_bfuAI", "dd/d14/a14337.html", "dd/d14/a14337" ],
-    [ "npc_thrall_bfu", "d9/d19/a14333.html#a43eb37b9a0cf06be0e2cb6180730b09f", null ],
-    [ "GetAI", "d9/d19/a14333.html#a28b4030d189e4d967a1b16f3464c14ba", null ],
-    [ "OnGossipHello", "d9/d19/a14333.html#a71a7108464de9245879c8a1c08932e2a", null ],
-    [ "OnGossipSelect", "d9/d19/a14333.html#aea62ed8489bea23772a52ddefbf9c60e", null ],
-    [ "OnQuestReward", "d9/d19/a14333.html#aee56e54615e2696dcd0e7299e4f416b5", null ]
+    [ "o", "d9/d19/a14333.html#a455ab33d372dd2aeac9d591f3cce1013", null ],
+    [ "x", "d9/d19/a14333.html#a49ad07d6ecb902ae4818923a6414f3c1", null ],
+    [ "y", "d9/d19/a14333.html#a45ec9c234e9d909eb8fcc0db6e0d641e", null ],
+    [ "z", "d9/d19/a14333.html#abf42d988d416ebe409100c4b860d26db", null ]
 ];

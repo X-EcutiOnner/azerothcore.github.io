@@ -20,8 +20,8 @@ var searchData=
   ['zm_5ftowerstate_5fa_17',['ZM_TOWERSTATE_A',['../de/dde/a00587.html#a5d44e96b24b1f1215d1b3788b212f11cab51c5d640c62f5336ec7c5a1028f73d0',1,'OutdoorPvPZM.h']]],
   ['zm_5ftowerstate_5fh_18',['ZM_TOWERSTATE_H',['../de/dde/a00587.html#a5d44e96b24b1f1215d1b3788b212f11ca206f55050d03bbc30f690c7e669e1831',1,'OutdoorPvPZM.h']]],
   ['zm_5ftowerstate_5fn_19',['ZM_TOWERSTATE_N',['../de/dde/a00587.html#a5d44e96b24b1f1215d1b3788b212f11ca03d2918a6a9915b33da0f120feb7d5da',1,'OutdoorPvPZM.h']]],
-  ['zone_5fattack_5ftimer_5fmax_20',['ZONE_ATTACK_TIMER_MAX',['../d0/d08/a02936.html#af7ef7f40d622ea6710b785d8b251ff2aa82607be8e58d081e58041f01b0f47018',1,'WorldState.h']]],
-  ['zone_5fattack_5ftimer_5fmin_21',['ZONE_ATTACK_TIMER_MIN',['../d0/d08/a02936.html#af7ef7f40d622ea6710b785d8b251ff2aa55c39bb2d19b6331e7e6bd0d68185646',1,'WorldState.h']]],
-  ['zone_5ftirisfal_22',['ZONE_TIRISFAL',['../dc/d47/a01487.html#a62ce5749782debfb4b44ccd4f5b69fceafe7084dc4921a3937813908d6a58c1be',1,'zone_undercity.cpp']]],
-  ['zone_5fundercity_23',['ZONE_UNDERCITY',['../dc/d47/a01487.html#a62ce5749782debfb4b44ccd4f5b69fcea90e508e16f395e9b2281be97a6a3529f',1,'zone_undercity.cpp']]]
+  ['zone_5fattack_5ftimer_5fmax_20',['ZONE_ATTACK_TIMER_MAX',['../df/d5c/a02933.html#af7ef7f40d622ea6710b785d8b251ff2aa82607be8e58d081e58041f01b0f47018',1,'WorldState.h']]],
+  ['zone_5fattack_5ftimer_5fmin_21',['ZONE_ATTACK_TIMER_MIN',['../df/d5c/a02933.html#af7ef7f40d622ea6710b785d8b251ff2aa55c39bb2d19b6331e7e6bd0d68185646',1,'WorldState.h']]],
+  ['zone_5ftirisfal_22',['ZONE_TIRISFAL',['../d2/d21/a01484.html#a62ce5749782debfb4b44ccd4f5b69fceafe7084dc4921a3937813908d6a58c1be',1,'zone_undercity.cpp']]],
+  ['zone_5fundercity_23',['ZONE_UNDERCITY',['../d2/d21/a01484.html#a62ce5749782debfb4b44ccd4f5b69fcea90e508e16f395e9b2281be97a6a3529f',1,'zone_undercity.cpp']]]
 ];

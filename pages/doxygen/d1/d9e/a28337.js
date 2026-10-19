@@ -1,6 +1,8 @@
 var a28337 =
 [
-    [ "go_heatAI", "d1/d9e/a28337.html#a40e4ec3294126aaf3fc6875aa8b39f0a", null ],
-    [ "UpdateAI", "d1/d9e/a28337.html#a2332206ee47b2cea9e4707d16ea79325", null ],
-    [ "timer", "d1/d9e/a28337.html#a4f01692c9f39e2a40d2d5f9c22e0ac43", null ]
+    [ "FilterTargets", "d1/d9e/a28337.html#a53c6d73f3588e50c2be7ce68595a704c", null ],
+    [ "HandleEffect", "d1/d9e/a28337.html#a2edac19abf8aa765ada369e00cd7ea69", null ],
+    [ "PrepareSpellScript", "d1/d9e/a28337.html#ae1e1ff5456cb7c558ff4fe415de6a691", null ],
+    [ "Register", "d1/d9e/a28337.html#acb4d6abeb0e293728ae3dd0d248e0844", null ],
+    [ "Validate", "d1/d9e/a28337.html#aabc063155fad404ffd044c9f79b88051", null ]
 ];

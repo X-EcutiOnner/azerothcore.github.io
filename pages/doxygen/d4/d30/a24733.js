@@ -1,7 +1,7 @@
 var a24733 =
 [
-    [ "CheckCast", "d4/d30/a24733.html#ab215bbeea333d250ecbff0482f4f0966", null ],
-    [ "FilterTargets", "d4/d30/a24733.html#a6ee8387c7fed3fd3042852a2f542c5bd", null ],
-    [ "PrepareSpellScript", "d4/d30/a24733.html#a83447d184bb2299987d0c54d5af4c910", null ],
-    [ "Register", "d4/d30/a24733.html#a6107ba00471dd346c363db80fe81b698", null ]
+    [ "CheckProc", "d4/d30/a24733.html#a7d829589ea098e002206b72f789c95df", null ],
+    [ "PrepareAuraScript", "d4/d30/a24733.html#a04258b702d79372c0e9c2e1845a6563e", null ],
+    [ "Register", "d4/d30/a24733.html#af62e0a7a43a6762e8e067931e7ec09af", null ],
+    [ "Validate", "d4/d30/a24733.html#a56eaad6f2b1d14cea5fe3f7f27cdb877", null ]
 ];

@@ -1,6 +1,12 @@
 var a12941 =
 [
-    [ "near_scarshield_infiltrator", "d0/d33/a12941.html#a38d2e75946c429b4d80b007f190406bc", null ],
-    [ "OnTrigger", "d0/d33/a12941.html#a59c0e7bcddabbbbecb32f38434899144", null ],
-    [ "whisperedTargets", "d0/d33/a12941.html#a5655e241d2551798a960cb6375c7df23", null ]
+    [ "boss_the_beast", "d0/d33/a12941.html#ab98bce804078b4184b1bf6e844db9c67", null ],
+    [ "FindNearbyOrcs", "d0/d33/a12941.html#a46da3f960ea3c38791c23a3e282db9c7", null ],
+    [ "JustEngagedWith", "d0/d33/a12941.html#a9740b134ce1b21c42c9082d9fdc97264", null ],
+    [ "Reset", "d0/d33/a12941.html#a7a72f5aeb54fe6de6c71dfac2c906881", null ],
+    [ "SetData", "d0/d33/a12941.html#a8ceb3a1c53c2c5385d4a779b2ac283da", null ],
+    [ "UpdateAI", "d0/d33/a12941.html#ad7db422aefc711b437176b729c6ac151", null ],
+    [ "_beastReached", "d0/d33/a12941.html#a7345b0091bcfd894ce8fdff9431254f6", null ],
+    [ "_nearbyOrcsGUIDs", "d0/d33/a12941.html#a20b867be394f3c5d9bbf851ba724ca3a", null ],
+    [ "_orcYelled", "d0/d33/a12941.html#a7079c59c50343f460e2aac2bcf19709c", null ]
 ];

@@ -1,6 +1,9 @@
 var a21125 =
 [
-    [ "FilterTargets", "d6/d27/a21125.html#adaeee235184ddc36e90e532091183056", null ],
-    [ "PrepareSpellScript", "d6/d27/a21125.html#a599f604e872d3a5a4ed2b155caefdc9f", null ],
-    [ "Register", "d6/d27/a21125.html#ab79041a2536878498744555475bce5c8", null ]
+    [ "boss_yoggsaron_crusher_tentacle", "d6/d27/a21125.html#a1649412beffbc87ce046a591775b02b2", null ],
+    [ "DamageTaken", "d6/d27/a21125.html#aa38dbd7050000d3aab774a7b719912f4", null ],
+    [ "DoAction", "d6/d27/a21125.html#a92eae6475d5db1cb59e161c8e65b565f", null ],
+    [ "Reset", "d6/d27/a21125.html#aba082f8d2fa200eca9c52336df544221", null ],
+    [ "UpdateAI", "d6/d27/a21125.html#ae22a12401dc98534da1cb771468a58ce", null ],
+    [ "_diminishReady", "d6/d27/a21125.html#af8d417c56918cf59dfe3d8429c4cf239", null ]
 ];

@@ -1,6 +1,7 @@
 var a17029 =
 [
-    [ "npc_toc_warriorAI", "d8/ded/a17033.html", "d8/ded/a17033" ],
-    [ "npc_toc_warrior", "d2/d7b/a17029.html#a3e969be07603ef59389106769010660c", null ],
-    [ "GetAI", "d2/d7b/a17029.html#a557d9aa512c485e37b4a05b57ab3d1a4", null ]
+    [ "npc_toc_shadow_priestAI", "d2/d7b/a17029.html#af13a18be542fb314c19af52f89d216b8", null ],
+    [ "myCanCast", "d2/d7b/a17029.html#a83422ff3e140b57a484d98876a9a8070", null ],
+    [ "UpdateAI", "d2/d7b/a17029.html#afc23ba15d3ee925212e77b5211504c2b", null ],
+    [ "events", "d2/d7b/a17029.html#a31665a22920b416d7423958a3e2928ec", null ]
 ];

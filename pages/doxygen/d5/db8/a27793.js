@@ -1,6 +1,7 @@
 var a27793 =
 [
-    [ "HandleSchoolDMG", "d5/db8/a27793.html#a8f3ff0a48d5de4dcd33831400de0ba28", null ],
-    [ "PrepareSpellScript", "d5/db8/a27793.html#a42bb397aa53fb43ba1b1799a7f162d9b", null ],
-    [ "Register", "d5/db8/a27793.html#ac1271959fe8de3c11403b1e76acdbf15", null ]
+    [ "HandleProc", "d5/db8/a27793.html#a8f2bbc26b297039a02a7f1a8ce7d79e3", null ],
+    [ "PrepareAuraScript", "d5/db8/a27793.html#aa55d2774f59d8e8435facba876521236", null ],
+    [ "Register", "d5/db8/a27793.html#a3fb6281aa70ce55d4b020e24c747a7f3", null ],
+    [ "Validate", "d5/db8/a27793.html#a09492d02ca945634ca8c4620debbefa8", null ]
 ];

@@ -1,6 +1,6 @@
 var a28389 =
 [
-    [ "go_gilded_brazierAI", "dd/db0/a28393.html", "dd/db0/a28393" ],
-    [ "go_gilded_brazier", "dd/d77/a28389.html#a778c753a8432131601371da8849ef004", null ],
-    [ "GetAI", "dd/d77/a28389.html#a2c8ced3e29c05c9d55745c4f10c9202d", null ]
+    [ "go_heatAI", "dd/d77/a28389.html#a40e4ec3294126aaf3fc6875aa8b39f0a", null ],
+    [ "UpdateAI", "dd/d77/a28389.html#a2332206ee47b2cea9e4707d16ea79325", null ],
+    [ "timer", "dd/d77/a28389.html#a4f01692c9f39e2a40d2d5f9c22e0ac43", null ]
 ];

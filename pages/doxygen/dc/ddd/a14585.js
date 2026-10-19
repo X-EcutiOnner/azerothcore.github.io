@@ -1,5 +1,6 @@
 var a14585 =
 [
-    [ "at_zulgurub_edge_of_madness_speech", "dc/ddd/a14585.html#a7d4007716e3ed634ac7e3d3dba26e6f7", null ],
-    [ "_OnTrigger", "dc/ddd/a14585.html#ab04b77d7521296cd271f763274d09841", null ]
+    [ "boss_grilekAI", "df/d82/a14589.html", "df/d82/a14589" ],
+    [ "boss_grilek", "dc/ddd/a14585.html#acffe0061db18c5725c8c290822c5fed7", null ],
+    [ "GetAI", "dc/ddd/a14585.html#aa346fa8807069d8fc94bd4d81a014c76", null ]
 ];

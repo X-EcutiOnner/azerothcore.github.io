@@ -1,5 +1,30 @@
 var a05393 =
 [
-    [ "TileEntries", "d0/dc6/a05393.html#ac982af8210389fe769d161a12d4cdb5f", null ],
-    [ "UniqueEntries", "d0/dc6/a05393.html#a5ba6c948eedc6c070a7eb6aa3816d85c", null ]
+    [ "loadedSpawnMap", "d0/dc6/a05393.html#a32e00b67b2eb9af3748b6ac2ff79dc38", null ],
+    [ "loadedTileMap", "d0/dc6/a05393.html#a7ddb3247db09697e7c1b299a3220e9f4", null ],
+    [ "StaticMapTree", "d0/dc6/a05393.html#a95673d8290781cb651c291ef316bbe0d", null ],
+    [ "~StaticMapTree", "d0/dc6/a05393.html#a2ad3c38214b678574af00e92f81a49ed", null ],
+    [ "CanLoadMap", "d0/dc6/a05393.html#a3cb92935986c8a46c099afb163bc338d", null ],
+    [ "getHeight", "d0/dc6/a05393.html#ade2cd7c34319787f5ca4d254097bded7", null ],
+    [ "GetIntersectionTime", "d0/dc6/a05393.html#a7bfc945bfd6259b645a202f642cbdd48", null ],
+    [ "GetLocationInfo", "d0/dc6/a05393.html#a7104657dc6e8321cde4159aed1110192", null ],
+    [ "GetModelInstances", "d0/dc6/a05393.html#ade056dd6e7e5da6e642a0b8e86df87a9", null ],
+    [ "GetObjectHitPos", "d0/dc6/a05393.html#ae67b3d7730908aace40329532d35845d", null ],
+    [ "getTileFileName", "d0/dc6/a05393.html#a4dea40a355b2232f31eb8822fddb7fb1", null ],
+    [ "InitMap", "d0/dc6/a05393.html#aabbd2f058a43c708d9302aab0c74af60", null ],
+    [ "isInLineOfSight", "d0/dc6/a05393.html#af4230989be9048b417b33f9bf15f935c", null ],
+    [ "isTiled", "d0/dc6/a05393.html#ad41ec5a8be2716f4cf97424fade16abb", null ],
+    [ "LoadMapTile", "d0/dc6/a05393.html#a88edf6fd20f3618746367b85be638c55", null ],
+    [ "numLoadedTiles", "d0/dc6/a05393.html#aeb152a7967dcc4b350a8c1ecb3e74a18", null ],
+    [ "packTileID", "d0/dc6/a05393.html#a6ebfb44b85eae52a0c346c8c33c52d4f", null ],
+    [ "UnloadMap", "d0/dc6/a05393.html#a5b8861059ed9f86dc57aa6efd3b2300e", null ],
+    [ "UnloadMapTile", "d0/dc6/a05393.html#a054c023e998be7fc4ebc9164fd655335", null ],
+    [ "unpackTileID", "d0/dc6/a05393.html#ac35d2a2b9ff9940717dc19558ce0a890", null ],
+    [ "iBasePath", "d0/dc6/a05393.html#a8f85b6625e1bc9a9b145f5a9255a5702", null ],
+    [ "iIsTiled", "d0/dc6/a05393.html#a4eb6ec2ecf1977bc4fd63bbb5835f975", null ],
+    [ "iLoadedTiles", "d0/dc6/a05393.html#aab24833a33be21e212103a25b65a2f71", null ],
+    [ "iMapID", "d0/dc6/a05393.html#a3f687b2c51b06f62f256cd897899c4ed", null ],
+    [ "iNTreeValues", "d0/dc6/a05393.html#a253f73ac82a7dd102385deaed890f456", null ],
+    [ "iTree", "d0/dc6/a05393.html#a2a6d8374af191f9484fe0e73c2e4e6b6", null ],
+    [ "iTreeValues", "d0/dc6/a05393.html#a9d23cba57dd975b664c2cf1e75575a92", null ]
 ];

@@ -1,6 +1,27 @@
 var a29741 =
 [
-    [ "lastExtraAttackSpell", "d5/dd6/a29741.html#a0b7c47a0c1a328703648936a1da3245f", null ],
-    [ "triggeredSpellHasExtraAttacks", "d5/dd6/a29741.html#ad58a8f2f91c6a32371feab14e51e8e29", null ],
-    [ "triggerSpellId", "d5/dd6/a29741.html#a01a4d76e7e2bf15a3ae06926fa1189c9", null ]
+    [ "ProcTestContext", "d5/dd6/a29741.html#a3be4a95c438667ccdd0cbed0d606a46b", null ],
+    [ "GetActor", "d5/dd6/a29741.html#aa253eaa33458abfa16562c288a23b34f", null ],
+    [ "GetActor", "d5/dd6/a29741.html#ae25b85f794cc9174bc67a0a2d28fab8c", null ],
+    [ "GetAura", "d5/dd6/a29741.html#a2892ee3c159c616c6b1cd9bb7d4edc21", null ],
+    [ "GetAura", "d5/dd6/a29741.html#ae05f6f826284e174d8bcba0902758bd0", null ],
+    [ "GetDamageInfo", "d5/dd6/a29741.html#a0ffdd8fa38d8d98fa7beee6d08a44bdb", null ],
+    [ "GetDamageInfo", "d5/dd6/a29741.html#ab9821a9a36ab9c54c44726b00bde5c1c", null ],
+    [ "GetHealInfo", "d5/dd6/a29741.html#acf3d0ab18a726decfb635fd0aa83d5db", null ],
+    [ "GetHealInfo", "d5/dd6/a29741.html#a538e45b713a53a45d453e0ea79993e8b", null ],
+    [ "GetTarget", "d5/dd6/a29741.html#a0abd60970b6588ffdc80fa4030554979", null ],
+    [ "GetTarget", "d5/dd6/a29741.html#ae1ee18f20e12406a8979a611285ab7ef", null ],
+    [ "WithActorAsPlayer", "d5/dd6/a29741.html#ae2a9f04d30cbb14fc1d528a58521a602", null ],
+    [ "WithAuraCharges", "d5/dd6/a29741.html#a544da38ede50c01868a3e918efcad8a1", null ],
+    [ "WithAuraId", "d5/dd6/a29741.html#a538af7b841e7e64d16e53e57e303b3e0", null ],
+    [ "WithAuraSpellFamily", "d5/dd6/a29741.html#a43c994ff3ac8fc4d1b535beffea985bc", null ],
+    [ "WithCriticalHit", "d5/dd6/a29741.html#aaf70bafc7d7fa0fc030ac2a3988c2bfe", null ],
+    [ "WithDamage", "d5/dd6/a29741.html#a46b0dc60ef6bc0d433a4089c4e755d8e", null ],
+    [ "WithHeal", "d5/dd6/a29741.html#a4f396c33b767cce2c538c94578dcdcbd", null ],
+    [ "WithNormalHit", "d5/dd6/a29741.html#af0cf99f26f6f220bb2da889bcd139a5e", null ],
+    [ "_actor", "d5/dd6/a29741.html#ac62553cbe1667cbfd695ca3bd9834184", null ],
+    [ "_aura", "d5/dd6/a29741.html#aaaa64249b6f8bd281834e2b7c309ed38", null ],
+    [ "_damageInfo", "d5/dd6/a29741.html#aa76666ba435170552f3b9a355bf2d0b8", null ],
+    [ "_healInfo", "d5/dd6/a29741.html#aab8d47fcad592c5269991e85b3ad2cf0", null ],
+    [ "_target", "d5/dd6/a29741.html#a7dcbdab19d62f509912d7067075bd82d", null ]
 ];

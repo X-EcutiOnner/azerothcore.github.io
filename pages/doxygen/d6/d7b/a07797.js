@@ -1,12 +1,10 @@
 var a07797 =
 [
-    [ "NodeId", "d6/d7b/a07797.html#a039c468fa0b6110809f0617496c0146c", null ],
-    [ "TextAllianceAssaulted", "d6/d7b/a07797.html#a345b2ce7c48e9d10d03ff484a0108389", null ],
-    [ "TextAllianceClaims", "d6/d7b/a07797.html#a0671602a29f33e353a8a339540beae18", null ],
-    [ "TextAllianceDefended", "d6/d7b/a07797.html#ac87cbc9c4ec307bd2f3b09f6cdcd0250", null ],
-    [ "TextAllianceTaken", "d6/d7b/a07797.html#a281a0378999ed5966f5d28cc4310fbcd", null ],
-    [ "TextHordeAssaulted", "d6/d7b/a07797.html#a7fb668b0b9563bb0779bf4a5daefded8", null ],
-    [ "TextHordeClaims", "d6/d7b/a07797.html#acddac09017717cf5b2893ab83e1d10c8", null ],
-    [ "TextHordeDefended", "d6/d7b/a07797.html#a00cea010cfe6fb9702e5cb00003e5bef", null ],
-    [ "TextHordeTaken", "d6/d7b/a07797.html#a2bbd1b49b9b72784d07be9db2a27fe77", null ]
+    [ "SelectionPool", "d6/d7b/a07797.html#a9ddcca26fb3f4c635d7bcbb045542885", null ],
+    [ "AddGroup", "d6/d7b/a07797.html#a87fe4747536355ad7affda76640a082e", null ],
+    [ "GetPlayerCount", "d6/d7b/a07797.html#af344a6e6bb42609887ee8a3022e9d8e5", null ],
+    [ "Init", "d6/d7b/a07797.html#a84c3fe684033e8744ce6d6bc50526ee7", null ],
+    [ "KickGroup", "d6/d7b/a07797.html#a74fb708546a8612ca52b24b8472b71ef", null ],
+    [ "PlayerCount", "d6/d7b/a07797.html#a0c08c47f68dbb45175efc524f4553e16", null ],
+    [ "SelectedGroups", "d6/d7b/a07797.html#a4387ef77c341f90758d6c64c4ef2c475", null ]
 ];

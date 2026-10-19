@@ -1,23 +1,5 @@
 var a16537 =
 [
-    [ "boss_sartharion", "d4/d46/a16537.html#a9442f10d85f4e618f29db32d6d41cace", null ],
-    [ "DamageTaken", "d4/d46/a16537.html#aea02fe5145c8ca179a350668cb962403", null ],
-    [ "DoAction", "d4/d46/a16537.html#aa4b3b33c0294105a240b8f19c00b67ba", null ],
-    [ "EnterEvadeMode", "d4/d46/a16537.html#a329135f26387b0292934111922bc33d1", null ],
-    [ "GetData", "d4/d46/a16537.html#a0e38be21344f596147f20a8ed46673ec", null ],
-    [ "JustDied", "d4/d46/a16537.html#a38742a243890907b2cb6e39c0624abd0", null ],
-    [ "JustEngagedWith", "d4/d46/a16537.html#a5e942b6892cdec46c7113d1b75f6d0ae", null ],
-    [ "JustSummoned", "d4/d46/a16537.html#aedd7e43d6d0a0a51f19cb57d8d47a3c5", null ],
-    [ "KilledUnit", "d4/d46/a16537.html#a68b87b8d9147307231e16d0634d3f8c6", null ],
-    [ "Reset", "d4/d46/a16537.html#ae6f2feeb68baaf265882bc46c9d388f2", null ],
-    [ "SendLavaWaves", "d4/d46/a16537.html#a61a25f3f8f1b0f92d8762b25a940ea77", null ],
-    [ "SetData", "d4/d46/a16537.html#a1e1a54ad847a81ce29554081583483e2", null ],
-    [ "SummonLavaWaves", "d4/d46/a16537.html#a8f1a9bb569613ef3df2c28490328e91d", null ],
-    [ "SummonStartingTriggers", "d4/d46/a16537.html#aef30845772ce56ad04091eda58b143ec", null ],
-    [ "UpdateAI", "d4/d46/a16537.html#a37f17241f7773e63ba86f071d655da4d", null ],
-    [ "below11PctReached", "d4/d46/a16537.html#a5c6190735f90121bdcd0572d7a38bae2", null ],
-    [ "dragonsCount", "d4/d46/a16537.html#a7fd5e7cf7579df3f918f94b4f89456fe", null ],
-    [ "extraEvents", "d4/d46/a16537.html#a734bc263b462552a633416489aead62c", null ],
-    [ "usedBerserk", "d4/d46/a16537.html#a8821dec08484bc1794cb3ab5ea961abc", null ],
-    [ "volcanoBlows", "d4/d46/a16537.html#a4afb5ee2520c9a0648b978b5659d6c3a", null ]
+    [ "achievement_hadronox_denied", "d4/d46/a16537.html#aeb1dcb0cee9cfe1bd149aa070a9ab7a0", null ],
+    [ "OnCheck", "d4/d46/a16537.html#a0ee9c8fb90a43bc011c75026d6bcc2e5", null ]
 ];

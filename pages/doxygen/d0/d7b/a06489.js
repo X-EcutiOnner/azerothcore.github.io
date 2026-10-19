@@ -1,9 +1,9 @@
 var a06489 =
 [
-    [ "AddonInfo", "d0/d7b/a06489.html#a60ea66ed93b64c9e182226954a514f53", null ],
-    [ "CRC", "d0/d7b/a06489.html#a7f0f2d817a2189b3acee5999f154ba60", null ],
-    [ "Enabled", "d0/d7b/a06489.html#ace9f109c395ed84cc01ca4381222c25b", null ],
-    [ "Name", "d0/d7b/a06489.html#a45692257c72286e670ab8c9c50014335", null ],
-    [ "State", "d0/d7b/a06489.html#a5301b19e44d68540434574f023e62f46", null ],
-    [ "UsePublicKeyOrCRC", "d0/d7b/a06489.html#a75e016fa7abee24757c89b97330a6192", null ]
+    [ "itemId", "d0/d7b/a06489.html#adc6041f4426ca3d377644b18a0ba22f9", null ],
+    [ "mailTemplate", "d0/d7b/a06489.html#adc59ba563519ed9e673b734c4e40e7b8", null ],
+    [ "sender", "d0/d7b/a06489.html#a9a4e0b2063f2c03f8783681cca41b5d7", null ],
+    [ "subject", "d0/d7b/a06489.html#a45644f308278529f822080f8274180d8", null ],
+    [ "text", "d0/d7b/a06489.html#a4d57dcb4d130552f5bf756308d79307c", null ],
+    [ "titleId", "d0/d7b/a06489.html#a94440f7e5c023d929e0e7f7d821bb309", null ]
 ];

@@ -1,8 +1,11 @@
 var a20969 =
 [
-    [ "npc_pummeller", "d6/dbe/a20969.html#a0c67bf3781fde8d4580aad093bf87291", null ],
-    [ "Reset", "d6/dbe/a20969.html#abdb3f0984c03780aee9dd55496fc7835", null ],
-    [ "UpdateAI", "d6/dbe/a20969.html#a9d61c35dc7f86314c6beb581539fd55d", null ],
-    [ "_instance", "d6/dbe/a20969.html#a12df7fb27b7bd54d0bf60c3e5faee037", null ],
-    [ "_scheduler", "d6/dbe/a20969.html#abc1ba4d0e95d33fe42af1014c2e8448f", null ]
+    [ "boss_thorim_runic_colossus", "d6/dbe/a20969.html#a3beda3351911803a0c0ea719256c4514", null ],
+    [ "JustDied", "d6/dbe/a20969.html#a9682ccf2c6109888385fd621ecac16a4", null ],
+    [ "JustEngagedWith", "d6/dbe/a20969.html#ad18388379fc026c1bf707eee8fae9826", null ],
+    [ "Reset", "d6/dbe/a20969.html#a5a6d3e8c1e756fe9a982c6be215a0577", null ],
+    [ "SpellHit", "d6/dbe/a20969.html#a9787e064886ddee55bc2434c6d4f1927", null ],
+    [ "UpdateAI", "d6/dbe/a20969.html#a470b0571db91075603504d91fb13721c", null ],
+    [ "_checkTarget", "d6/dbe/a20969.html#a16c4b7194f1db8710732b35189823efe", null ],
+    [ "events", "d6/dbe/a20969.html#a859e1d83f4002c8017d5d8f8fdf34a1e", null ]
 ];

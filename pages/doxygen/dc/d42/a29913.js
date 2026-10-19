@@ -1,9 +1,9 @@
 var a29913 =
 [
-    [ "SetUp", "dc/d42/a29913.html#aa0206c25468d92372594de8df9b9ac91", null ],
-    [ "TearDown", "dc/d42/a29913.html#ab004a4631e402c804c5cc030d3504bcf", null ],
-    [ "PERM_A", "dc/d42/a29913.html#a76b8ba9e8f97715e19f33400d5317470", null ],
-    [ "PERM_B", "dc/d42/a29913.html#aa7e5d5ee7cd27e5133328c20a8cbcab0", null ],
-    [ "ROLE_PLAYER", "dc/d42/a29913.html#a7a9fae5b7137ad90aed5b7f56b3328bf", null ],
-    [ "SEC_PLAYER", "dc/d42/a29913.html#a83a095f226d90a9990e90c0234dbb885", null ]
+    [ "SetUp", "dc/d42/a29913.html#a664590f345cd02660adef326355c7ca2", null ],
+    [ "TearDown", "dc/d42/a29913.html#a366e1170be6f12739b2688c71763c8f0", null ],
+    [ "PERM_BAN", "dc/d42/a29913.html#a393626fe7635a8452e69207085037782", null ],
+    [ "PERM_KICK", "dc/d42/a29913.html#aa9b8c1e73b4828100386186637e30e90", null ],
+    [ "rbacData", "dc/d42/a29913.html#a6e7cb23ddb2dc22611255dff42c85e89", null ],
+    [ "ROLE_GM", "dc/d42/a29913.html#ac5d61d965657eccc145d01670a6f27bc", null ]
 ];

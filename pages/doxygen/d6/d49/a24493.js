@@ -1,5 +1,7 @@
 var a24493 =
 [
-    [ "npc_pet_dk_risen_ally", "d6/d49/a24493.html#ae7ea70827f339d3968ef08dc242b1f03", null ],
-    [ "OnCharmed", "d6/d49/a24493.html#ac3927becc1ed929c384b3413bfee9330", null ]
+    [ "HandleSendEvent", "d6/d49/a24493.html#a8b32db78a3b4d5a01be230968fda3a8d", null ],
+    [ "PrepareSpellScript", "d6/d49/a24493.html#a0adf10b63735dbdf1cb3d49c73f7da1d", null ],
+    [ "Register", "d6/d49/a24493.html#ad6aedfed88d4a921122fdc7a8b501f0e", null ],
+    [ "Validate", "d6/d49/a24493.html#a9b72b16ac81c53aaa7936640e5149e6c", null ]
 ];

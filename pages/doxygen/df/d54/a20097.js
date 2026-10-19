@@ -1,6 +1,8 @@
 var a20097 =
 [
-    [ "boss_sjonnir_dwarfAI", "df/d89/a20101.html", "df/d89/a20101" ],
-    [ "boss_sjonnir_dwarf", "df/d54/a20097.html#a3589ae3bef1bbfe0fc5381e341c0995b", null ],
-    [ "GetAI", "df/d54/a20097.html#a945d8e753e1a54dc348848b9c2dd6cce", null ]
+    [ "instance_halls_of_lightning_InstanceMapScript", "df/d54/a20097.html#a9c82cd25354abaf7707c1dabd62c9fe3", null ],
+    [ "CheckAchievementCriteriaMeet", "df/d54/a20097.html#ad6db51b0ae7de338264d07a61daf21cc", null ],
+    [ "SetData", "df/d54/a20097.html#a26bd9da74d0d29e50b61df62b205f5e6", null ],
+    [ "_bjarngrimAchievement", "df/d54/a20097.html#aba06463eb70c68716f571951395c6e2a", null ],
+    [ "_volkhanAchievement", "df/d54/a20097.html#a52db8081961566ef2002424f00b60189", null ]
 ];

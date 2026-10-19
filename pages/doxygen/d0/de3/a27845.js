@@ -1,6 +1,6 @@
 var a27845 =
 [
-    [ "FilterTargets", "d0/de3/a27845.html#a2bcc808d5869442e4c2e78be2d2a16af", null ],
-    [ "PrepareSpellScript", "d0/de3/a27845.html#a51d7035477ba4e3994ef3161edc4cc69", null ],
-    [ "Register", "d0/de3/a27845.html#adcc2ed25659208d0eeaec6d9673df3c6", null ]
+    [ "HandleSchoolDMG", "d0/de3/a27845.html#a8f3ff0a48d5de4dcd33831400de0ba28", null ],
+    [ "PrepareSpellScript", "d0/de3/a27845.html#a42bb397aa53fb43ba1b1799a7f162d9b", null ],
+    [ "Register", "d0/de3/a27845.html#ac1271959fe8de3c11403b1e76acdbf15", null ]
 ];

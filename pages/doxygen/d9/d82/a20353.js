@@ -1,8 +1,9 @@
 var a20353 =
 [
-    [ "FilterTargets", "d9/d82/a20353.html#a93b41db0e89710c6e0e3c764d51d37ad", null ],
-    [ "HandleScript", "d9/d82/a20353.html#a0c7d9007a9401b96a3c1f8614dc1a2db", null ],
-    [ "PrepareSpellScript", "d9/d82/a20353.html#aea46762f43b31923617f740e0545fe98", null ],
-    [ "Register", "d9/d82/a20353.html#a6ccde780ea9fba273b96d6fd9558a2d1", null ],
-    [ "Validate", "d9/d82/a20353.html#af526a7a7a82ec7621f8842e884d7b14f", null ]
+    [ "npc_freya_ward_summon", "d9/d82/a20353.html#ad88b954bbbb68988915ec165ccb0a3dd", null ],
+    [ "CanAIAttack", "d9/d82/a20353.html#a6b91ab899f11e3d6f9907b73476fa61f", null ],
+    [ "IsSummonedBy", "d9/d82/a20353.html#ab6c7cab698470dafd14a0ed2ddd94eca", null ],
+    [ "JustEngagedWith", "d9/d82/a20353.html#a52ca4242be249900f94d918dbc4df6c3", null ],
+    [ "Reset", "d9/d82/a20353.html#ae2e600ad8cae543bdb4b7f7b9c4c626a", null ],
+    [ "UpdateAI", "d9/d82/a20353.html#a175d2ca7a28ab998860fdce324c48c7e", null ]
 ];

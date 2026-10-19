@@ -1,9 +1,13 @@
 var a22221 =
 [
-    [ "npc_lord_areteAI", "db/d6e/a22221.html#aebdbf8f4c2fe6948c78315e6b404119b", null ],
-    [ "InitializeAI", "db/d6e/a22221.html#a22d0c3e2445bff2d742b28bd99f37394", null ],
-    [ "UpdateAI", "db/d6e/a22221.html#a5cba8d4429ae191dd5b90ca5a4fe2866", null ],
-    [ "_landgrenGUID", "db/d6e/a22221.html#ac0e3753096dfe779024acc8400791171", null ],
-    [ "_landgrenSoulGUID", "db/d6e/a22221.html#aaa28c67691610136f0b418b30892f3cd", null ],
-    [ "events", "db/d6e/a22221.html#ae4ec90b30320cf0aeaec4415c4125605", null ]
+    [ "npc_sorlof", "db/d6e/a22221.html#afdac1cfc891e8cfda3506022e5f79204", null ],
+    [ "JustDied", "db/d6e/a22221.html#a53440692c7e64f03e601dc9ab65bc3cb", null ],
+    [ "MovementInform", "db/d6e/a22221.html#a0128234c450bcef8e3c9ebc6fee0c578", null ],
+    [ "MoveToNextNode", "db/d6e/a22221.html#a6a80487d0c5e55d9216efb63dbdd598e", null ],
+    [ "Reset", "db/d6e/a22221.html#a6b34547c0ae6b588a788e57353b933c8", null ],
+    [ "SetData", "db/d6e/a22221.html#a388be22752dc524735459e62a97fe510", null ],
+    [ "UpdateAI", "db/d6e/a22221.html#a1165631ba6c172930691766cfb73eda8", null ],
+    [ "_advancePath", "db/d6e/a22221.html#aa731d85060b9280ef172a2e15614aaf9", null ],
+    [ "_pathId", "db/d6e/a22221.html#ab3d9b633e7304d65fda49890b5c9672e", null ],
+    [ "_pathNode", "db/d6e/a22221.html#a33fa8fa6c768335887daaab226b8cff2", null ]
 ];

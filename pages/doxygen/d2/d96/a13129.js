@@ -1,8 +1,5 @@
 var a13129 =
 [
-    [ "MajordomoAddData", "d2/d96/a13129.html#aa068ada34e1275cbf97b21f74dfd2881", null ],
-    [ "MajordomoAddData", "d2/d96/a13129.html#a9b8cc2b43ffbf268e470169e00e66671", null ],
-    [ "creatureEntry", "d2/d96/a13129.html#ae3a0444e88158123f4d6359328e89a1d", null ],
-    [ "guid", "d2/d96/a13129.html#a2f2b0aaace557361a21d1072f36933dc", null ],
-    [ "spawnPos", "d2/d96/a13129.html#a31f8d24efb19c2d0e697f35b911e3237", null ]
+    [ "npc_garr_firesworn", "d2/d96/a13129.html#a5efff706f522accd5f8be0d29080dea4", null ],
+    [ "DamageTaken", "d2/d96/a13129.html#a172435821316d28c5b0043015c68595e", null ]
 ];

@@ -1,5 +1,10 @@
 var a28313 =
 [
-    [ "go_resonite_cask", "dc/dfd/a28313.html#a5a89aa97a4cd31d7ae183649ee750b74", null ],
-    [ "OnGossipHello", "dc/dfd/a28313.html#aae8591d53a6983886b52d404acdba293", null ]
+    [ "boss_emerissAI", "dc/dfd/a28313.html#ad94b3b097d9987e365f91b7e57d0f208", null ],
+    [ "DamageTaken", "dc/dfd/a28313.html#abb80c49c166f31cd7e2d24392fbf60e1", null ],
+    [ "ExecuteEvent", "dc/dfd/a28313.html#ad3839ad4b0a930bc96154b5b0aab17fe", null ],
+    [ "JustEngagedWith", "dc/dfd/a28313.html#a5a51b97216a27637f6bd3020ba05e0f7", null ],
+    [ "KilledUnit", "dc/dfd/a28313.html#ad851169bc09a362137e211dd10d30a1b", null ],
+    [ "Reset", "dc/dfd/a28313.html#a44dfb325c4e8413662052137edc710ef", null ],
+    [ "_stage", "dc/dfd/a28313.html#ae2c8c5c2d2054af41c5dbe938b3eb79a", null ]
 ];

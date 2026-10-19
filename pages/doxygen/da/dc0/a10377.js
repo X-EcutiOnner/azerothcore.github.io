@@ -1,7 +1,6 @@
 var a10377 =
 [
-    [ "flags", "da/dc0/a10377.html#a7db863994aa6692d1e2359d2c6814cd2", null ],
-    [ "groupId", "da/dc0/a10377.html#ac7efc48c61e715027a8d651fda543ada", null ],
-    [ "mapId", "da/dc0/a10377.html#ad53e068ead632ca66fbebe81e783fc52", null ],
-    [ "name", "da/dc0/a10377.html#a55368217a847f946def13b2123b22ed3", null ]
+    [ "UpdateRequest", "da/dc0/a10377.html#a23b3dbcff54691b2710109a822a486a0", null ],
+    [ "~UpdateRequest", "da/dc0/a10377.html#a240bdc56685c270c597588231c3bf8f8", null ],
+    [ "call", "da/dc0/a10377.html#a8221fa415f828a4866f85f3983f7dab9", null ]
 ];

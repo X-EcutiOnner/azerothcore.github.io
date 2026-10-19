@@ -1,9 +1,6 @@
 var a20197 =
 [
-    [ "CheckTargets", "d2/dfd/a20197.html#a9340c167ef70508635092e273c23dcde", null ],
-    [ "CountTargets", "d2/dfd/a20197.html#a996db37b678143fbc0a392032d29fff5", null ],
-    [ "Load", "d2/dfd/a20197.html#a716bcf5bb0a24f9a57534c9dafb1a56f", null ],
-    [ "PrepareSpellScript", "d2/dfd/a20197.html#a0b68ca6bdfe0f7c84236e5fe509d8fd9", null ],
-    [ "Register", "d2/dfd/a20197.html#aed312a4408134589fd02bbcb844fd1b7", null ],
-    [ "_targetCount", "d2/dfd/a20197.html#ac780614674e748274081f9f99a5165fe", null ]
+    [ "npc_collapsing_star", "d2/dfd/a20197.html#a6660bd7f397d7a3cd7ee5d3580b6bb78", null ],
+    [ "DamageTaken", "d2/dfd/a20197.html#ad19c1a3c033b0d97fe42c492634f9cd4", null ],
+    [ "JustSummoned", "d2/dfd/a20197.html#a56e0bb55d903b6e7e5c493292512bebe", null ]
 ];

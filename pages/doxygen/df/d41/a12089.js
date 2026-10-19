@@ -1,7 +1,4 @@
 var a12089 =
 [
-    [ "EffectAuraNameCheck", "df/d41/a12089.html#a4b10ec0fcb3ffd841cf790574875017d", null ],
-    [ "Check", "df/d41/a12089.html#a7fff405a99c65d3e846463ca29a8ddfd", null ],
-    [ "ToString", "df/d41/a12089.html#a602fc1ddafe663e2e5ddceaeaec8b118", null ],
-    [ "effAurName", "df/d41/a12089.html#abcf90ed5a832b5fe5ce3913a812da05d", null ]
+    [ "spellid", "df/d41/a12089.html#a14f5dd3b53f06437074965e9b7753e89", null ]
 ];

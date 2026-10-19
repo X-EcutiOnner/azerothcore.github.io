@@ -1,10 +1,7 @@
 var a10129 =
 [
-    [ "const_iterator", "d9/daa/a10129.html#ac52d3ebfa7eaeb9d6fd08f0089b13918", null ],
-    [ "StorageType", "d9/daa/a10129.html#a6825a379d1af4254b920c14ab0068e7b", null ],
-    [ "BossBoundaryData", "d9/daa/a10129.html#a3f80cd89e43eae1a74e2b0a6a674d0cb", null ],
-    [ "~BossBoundaryData", "d9/daa/a10129.html#a446a3ec16cdce76058761fce972f1e57", null ],
-    [ "begin", "d9/daa/a10129.html#a326930360d22d5fdf9a895991f2c4e49", null ],
-    [ "end", "d9/daa/a10129.html#ab3dc9905d861b62c4551f45ee8b08ba5", null ],
-    [ "_data", "d9/daa/a10129.html#af60e90664c434a8d36115ca5dec889b5", null ]
+    [ "extended", "d9/daa/a10129.html#a6cd2390616ebbc07b0fa55886d1e545d", null ],
+    [ "guidLow", "d9/daa/a10129.html#a6d6358cd25aaf909fb02e01b994a6a92", null ],
+    [ "instanceId", "d9/daa/a10129.html#a3f4f3f829d354ccc92491445d1efd1b2", null ],
+    [ "perm", "d9/daa/a10129.html#a73b641d14a2d5d9781f706ccc2865415", null ]
 ];

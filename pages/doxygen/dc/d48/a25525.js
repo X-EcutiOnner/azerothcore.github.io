@@ -1,7 +1,8 @@
 var a25525 =
 [
-    [ "CalculateAmount", "dc/d48/a25525.html#a074a7de6cd4d930c1f23f6398c738bad", null ],
-    [ "Load", "dc/d48/a25525.html#a777803a61286e0eba31246d4771630df", null ],
-    [ "PrepareAuraScript", "dc/d48/a25525.html#ab76bc3927d3ce31ae061fe8577ca25f0", null ],
-    [ "Register", "dc/d48/a25525.html#a335e1629b98bfacf6e4e565b94d4991e", null ]
+    [ "CheckCast", "dc/d48/a25525.html#a459b6aa2fd05ffc5cb97815a53e2797c", null ],
+    [ "HandleScript", "dc/d48/a25525.html#a2c1702398e4cbdcc106679d534a27743", null ],
+    [ "PrepareSpellScript", "dc/d48/a25525.html#a613bdf7841744632c1e6de147e0352b9", null ],
+    [ "Register", "dc/d48/a25525.html#ada961aaa5679aa00cc650d6e97487ca4", null ],
+    [ "Validate", "dc/d48/a25525.html#a0a9de0825edf5c82b91dbe7326a65de9", null ]
 ];

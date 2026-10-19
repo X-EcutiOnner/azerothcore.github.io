@@ -1,8 +1,7 @@
 var a16585 =
 [
-    [ "RestoreFight", "d1/dcb/a16585.html#a0149cccce8c3120b1e988e9a7c96f75c", null ],
-    [ "RestoreFight", "d1/dcb/a16585.html#a0149cccce8c3120b1e988e9a7c96f75c", null ],
-    [ "Execute", "d1/dcb/a16585.html#a019eb3c08dc8c3b97fc27b989ec8ab77", null ],
-    [ "Execute", "d1/dcb/a16585.html#a019eb3c08dc8c3b97fc27b989ec8ab77", null ],
-    [ "_owner", "d1/dcb/a16585.html#ae35c9b4547fcd7e8ea0f4b6ee4c637a0", null ]
+    [ "boss_sartharion_shadron", "d1/dcb/a16585.html#ab4a7991c276a12af0b54936c271bfd0b", null ],
+    [ "ExecuteEvent", "d1/dcb/a16585.html#a1f1a235d4d5654e273ef821ebf962491", null ],
+    [ "Reset", "d1/dcb/a16585.html#a8511eb55a486665a248d555337c25002", null ],
+    [ "SummonedCreatureDies", "d1/dcb/a16585.html#a3967c70698675d2c925a1a0366bf1d00", null ]
 ];

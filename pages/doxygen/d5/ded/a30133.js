@@ -1,7 +1,4 @@
 var a30133 =
 [
-    [ "SetUp", "d5/ded/a30133.html#ab58c026bc6bbcf94aaec896c654e949f", null ],
-    [ "DAGGER_SPEED", "d5/ded/a30133.html#a2e9b2005f350f0aec0a905eef5bc0bb6", null ],
-    [ "SWORD_SPEED", "d5/ded/a30133.html#ac960eb9c5e15274b63b684d8908ed68b", null ],
-    [ "TWO_HANDED_SPEED", "d5/ded/a30133.html#a7dbbfc5825a36bf3950a8dff54e0ca5a", null ]
+    [ "SetUp", "d5/ded/a30133.html#a96fccb98dca2301ae69e26dc97645dd1", null ]
 ];

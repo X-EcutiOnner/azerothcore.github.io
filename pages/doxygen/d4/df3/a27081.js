@@ -1,9 +1,8 @@
 var a27081 =
 [
-    [ "CheckProcDummy", "d4/df3/a27081.html#ae4e6d0683039ca5e8ff1877248048b3b", null ],
-    [ "CheckProcTriggerSpell", "d4/df3/a27081.html#affbff48ab9421bda51b3a5781188546d", null ],
-    [ "HandleProcDummy", "d4/df3/a27081.html#a0113a45bd4c28d1769df7b675de697ed", null ],
-    [ "PrepareAuraScript", "d4/df3/a27081.html#af7d9ac7e014bbda32275bb584f5e2660", null ],
-    [ "Register", "d4/df3/a27081.html#aa575597dab0670e768e20a3a06c6dc0a", null ],
-    [ "Validate", "d4/df3/a27081.html#a63844728796945e892985720296d0c07", null ]
+    [ "CalculateAmount", "d4/df3/a27081.html#aa1810db9a7b8fbc3572621ff35e0eeb1", null ],
+    [ "PrepareAuraScript", "d4/df3/a27081.html#ad40d44271840b8e2bd1dc22b6a04290e", null ],
+    [ "ReflectDamage", "d4/df3/a27081.html#ad8b5f9a7952fc33d7e1fee28e4872212", null ],
+    [ "Register", "d4/df3/a27081.html#a18b19ee8823e2d1747caeefaf457ad8d", null ],
+    [ "Validate", "d4/df3/a27081.html#af2936ba4a29fc8735a3cabe805c77355", null ]
 ];

@@ -1,7 +1,5 @@
 var a08577 =
 [
-    [ "entry", "d7/d3b/a08577.html#ad0d74d6216c9b6cb6fbeda55fb002072", null ],
-    [ "pos", "d7/d3b/a08577.html#af264c1262d9fcd204a2a536847a613b1", null ],
-    [ "respawnTime", "d7/d3b/a08577.html#abeadd86c92a8c301626dde6943da1b9b", null ],
-    [ "rot", "d7/d3b/a08577.html#a776668c1b71e0cf9f3e0f0619498ae72", null ]
+    [ "QuestIcon", "d7/d3b/a08577.html#ad8bbfe08780eaa68a8205e2634d211b8", null ],
+    [ "QuestId", "d7/d3b/a08577.html#a522a4fcb28daec3e1a620b6f02c3d8fe", null ]
 ];

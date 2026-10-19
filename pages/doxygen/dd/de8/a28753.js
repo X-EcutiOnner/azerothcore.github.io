@@ -1,7 +1,8 @@
 var a28753 =
 [
-    [ "npc_venomhide_hatchlingAI", "d8/d6d/a28757.html", "d8/d6d/a28757" ],
-    [ "npc_venomhide_hatchling", "dd/de8/a28753.html#a4dc217dd5950db7b270b7cce3e594e4d", null ],
-    [ "GetAI", "dd/de8/a28753.html#a96110b752965d751ab7b466c4f67e333", null ],
-    [ "OnGossipHello", "dd/de8/a28753.html#a404d875592b847ddb9f3250c9d954bfc", null ]
+    [ "npc_wormholeAI", "d8/d6d/a28757.html", "d8/d6d/a28757" ],
+    [ "npc_wormhole", "dd/de8/a28753.html#aeace4cbf665409786b86140709191cb0", null ],
+    [ "GetAI", "dd/de8/a28753.html#af43ec809ce2efe2cd7127029f3c3ec45", null ],
+    [ "OnGossipHello", "dd/de8/a28753.html#a6ae1a84557f8dc0f0631b9cc7e88d78e", null ],
+    [ "OnGossipSelect", "dd/de8/a28753.html#a73e441bf05f8a4ea7f57d767945e2d5d", null ]
 ];

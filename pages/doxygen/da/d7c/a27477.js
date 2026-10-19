@@ -1,10 +1,7 @@
 var a27477 =
 [
-    [ "HandleProc", "da/d7c/a27477.html#af7ed59bccd5a9db04e37753e813377b6", null ],
-    [ "OnRemove", "da/d7c/a27477.html#a7dbe609ad8ced19cfa2b5625ed2a3923", null ],
-    [ "PrepareAuraScript", "da/d7c/a27477.html#a2280ebe1a928d0962c7f67e22405db18", null ],
-    [ "Register", "da/d7c/a27477.html#a1e53dfab9d98846d404ea7f57555c941", null ],
-    [ "SetRedirectTarget", "da/d7c/a27477.html#a6ed3efbadf6936d9c2f81ab1b97595ab", null ],
-    [ "Validate", "da/d7c/a27477.html#ad371bd41e4653c0a8b729321dbc830a1", null ],
-    [ "_redirectTarget", "da/d7c/a27477.html#a9baf177530d3096f06e8f37220cfb0fa", null ]
+    [ "CalcPeriodic", "da/d7c/a27477.html#af787d0c8738284e757f808e7d138bdc6", null ],
+    [ "PrepareAuraScript", "da/d7c/a27477.html#a383db196133bbecee06fe443fdb1bc24", null ],
+    [ "Register", "da/d7c/a27477.html#a1c617b5b26805b0feb468c55337f9d4c", null ],
+    [ "Update", "da/d7c/a27477.html#af3f4a7b82e099313d609df7f85f02d00", null ]
 ];

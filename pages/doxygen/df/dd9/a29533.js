@@ -1,5 +1,4 @@
 var a29533 =
 [
-    [ "Price", "df/dd9/a29533.html#a9cf01cf0d41d49613b4ceaf1eeb1716b", null ],
-    [ "Slot", "df/dd9/a29533.html#aa53247914bda0ceca015b8b9ca117379", null ]
+    [ "Id", "df/dd9/a29533.html#aebb809589854147a8a521263968ed6d9", null ]
 ];

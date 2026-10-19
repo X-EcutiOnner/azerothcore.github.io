@@ -1,7 +1,6 @@
 var a23125 =
 [
-    [ "npc_ashtongue_channeler", "d1/dc4/a23125.html#af7217d00f87e56e5cdb411fcad161b51", null ],
-    [ "Reset", "d1/dc4/a23125.html#ab935559c19b18f9c94dd36c85be5b3b2", null ],
-    [ "UpdateAI", "d1/dc4/a23125.html#af855dfa521404c4e6127a9bf12a75604", null ],
-    [ "scheduler", "d1/dc4/a23125.html#a4f58bbd2c44f7a3f9835fd55408ffaf4", null ]
+    [ "boss_essence_of_angerAI", "d5/d9f/a23129.html", "d5/d9f/a23129" ],
+    [ "boss_essence_of_anger", "d1/dc4/a23125.html#adf8151d1fbb4a258f174c4bdb8410cd6", null ],
+    [ "GetAI", "d1/dc4/a23125.html#a70a460f31b7f878e532b695ca822ab5d", null ]
 ];

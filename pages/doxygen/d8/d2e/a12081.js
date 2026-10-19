@@ -1,10 +1,10 @@
 var a12081 =
 [
-    [ "EffectHook", "d8/d2e/a12081.html#a4a197e061d918dfba2bc486f3393b00d", null ],
-    [ "~EffectHook", "d8/d2e/a12081.html#aa234f63b530764d12064acbe3f5c9299", null ],
-    [ "CheckEffect", "d8/d2e/a12081.html#ae8823c5d649d182f572818bf3db72902", null ],
-    [ "EffIndexToString", "d8/d2e/a12081.html#ab818ed274cfd66ecc565b8535b751517", null ],
-    [ "GetAffectedEffectsMask", "d8/d2e/a12081.html#a31faa86590e22f5ab3ca518f4df02840", null ],
-    [ "IsEffectAffected", "d8/d2e/a12081.html#a697041ffa562bb6fff792beb159c7af2", null ],
-    [ "effIndex", "d8/d2e/a12081.html#ab5eb48ef7ac903938f92db0e856e0295", null ]
+    [ "Aura", "d8/d2e/a12081.html#ab87ff32c7b9d25f238245df1b646c49a", null ],
+    [ "DispelType", "d8/d2e/a12081.html#a964f9e427d50b8630ef1221914adad89", null ],
+    [ "Effect", "d8/d2e/a12081.html#a61a5bcfce9d99c09aa58fd99afb97e5c", null ],
+    [ "ImmuneAoE", "d8/d2e/a12081.html#a2b195291886ba333efd63d0edded1bb4", null ],
+    [ "ImmuneChain", "d8/d2e/a12081.html#a81a36e982f45209bfd6d1b0bad843cc1", null ],
+    [ "Mechanic", "d8/d2e/a12081.html#a01290d95abdbcf391557c7d72be05ebe", null ],
+    [ "School", "d8/d2e/a12081.html#a587a27eae3c94be00522b6b84521ed3c", null ]
 ];

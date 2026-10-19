@@ -1,10 +1,13 @@
 var a12233 =
 [
-    [ "CustomChatTextBuilder", "d6/dc7/a12233.html#a47b3e24f7100d13180ad1946647999ae", null ],
-    [ "operator()", "d6/dc7/a12233.html#ad80555f063e7de15df3c434bc90d2ca9", null ],
-    [ "_language", "d6/dc7/a12233.html#a92d1c58d76d5d450892338d0e1856dc0", null ],
-    [ "_msgType", "d6/dc7/a12233.html#a0db1501da33fde77ab3c50943666b1fd", null ],
-    [ "_source", "d6/dc7/a12233.html#ad75f22d7eb6a62d59730918f4336768c", null ],
-    [ "_target", "d6/dc7/a12233.html#aa45be322836be588d8df2b253a22ee5c", null ],
-    [ "_text", "d6/dc7/a12233.html#ab59c9b938b564329483e38466169a92c", null ]
+    [ "AsyncFunction", "d6/dc7/a12233.html#a2addfa1b63edc880ca54fc46e0a6d94b", null ],
+    [ "CallbackFunction", "d6/dc7/a12233.html#ab2d6148aad6c533ac787ebef69250357", null ],
+    [ "AsyncTask", "d6/dc7/a12233.html#ad6f8ee54d3e1b0736e34362cd30f1365", null ],
+    [ "~AsyncTask", "d6/dc7/a12233.html#a553b3c1b778f9dadea8b764f210b8d8c", null ],
+    [ "ExecuteAsync", "d6/dc7/a12233.html#a1cdc60ddffaa431d19c992c0e389b85d", null ],
+    [ "InvokeIfReady", "d6/dc7/a12233.html#aecfe1b8d9ab2be59f564939dde44cfb9", null ],
+    [ "asyncFunc", "d6/dc7/a12233.html#a835a7b06185916adfb632d27ef73c9ce", null ],
+    [ "asyncTask", "d6/dc7/a12233.html#a81e22f584cc7d48594751038ac113ab2", null ],
+    [ "callbackFunc", "d6/dc7/a12233.html#a9eb4e4b1eddea03bc0197758d34f9325", null ],
+    [ "isReady", "d6/dc7/a12233.html#af4b96cd278382c34dbaaa3782df8371b", null ]
 ];

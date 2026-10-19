@@ -1,6 +1,10 @@
 var a21717 =
 [
-    [ "npc_valiance_keep_cannoneerAI", "dd/d70/a21721.html", "dd/d70/a21721" ],
-    [ "npc_valiance_keep_cannoneer", "d5/df5/a21717.html#a11f6060a7c6cd7be60001f5c259c94d3", null ],
-    [ "GetAI", "d5/df5/a21717.html#a8bfc1505dedee28d1517ba6a7738ffd5", null ]
+    [ "npc_sinkhole_kill_creditAI", "d5/df5/a21717.html#af2050289be6bc1c47d1ad40fc4bfa313", null ],
+    [ "Reset", "d5/df5/a21717.html#a677990d64d2963ff995d9d8522c5aa81", null ],
+    [ "SpellHit", "d5/df5/a21717.html#a95eaf518fb18b67820d6195cd525b017", null ],
+    [ "UpdateAI", "d5/df5/a21717.html#a75611004a543bece9d3f51914547f2fe", null ],
+    [ "casterGuid", "d5/df5/a21717.html#a147921788b07f5e776e03aaf15049cf0", null ],
+    [ "phase", "d5/df5/a21717.html#aa45455a8d540d6f942c948cf56d11f05", null ],
+    [ "phaseTimer", "d5/df5/a21717.html#aa268004c1eedf086ae8345e0ba10e2ca", null ]
 ];

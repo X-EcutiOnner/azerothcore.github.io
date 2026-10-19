@@ -1,6 +1,8 @@
 var a17061 =
 [
-    [ "npc_toc_retro_paladinAI", "d6/d6b/a17065.html", "d6/d6b/a17065" ],
-    [ "npc_toc_retro_paladin", "df/dc3/a17061.html#abfb15148aefe186447cfdb3a2c8749c4", null ],
-    [ "GetAI", "df/dc3/a17061.html#a1213c99792aa4362275bc827aa2f037e", null ]
+    [ "npc_toc_boomkinAI", "df/dc3/a17061.html#a12c586d57aa6dd3893889f103dbfee20", null ],
+    [ "JustSummoned", "df/dc3/a17061.html#a0d049885773b7f1abd7e03f9200852f4", null ],
+    [ "myCanCast", "df/dc3/a17061.html#a691a0250db77cc4def2bf67b25a1298c", null ],
+    [ "UpdateAI", "df/dc3/a17061.html#a64b0451537c0d27bc01d1c1ec3b5b88d", null ],
+    [ "events", "df/dc3/a17061.html#a0b367855092884b2ce30834e89fced87", null ]
 ];

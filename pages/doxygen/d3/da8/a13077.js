@@ -1,9 +1,7 @@
 var a13077 =
 [
-    [ "boss_baron_geddon", "d3/da8/a13077.html#a1e7cf41aff13c376dafa35a992c378d8", null ],
-    [ "DamageTaken", "d3/da8/a13077.html#a2a5a0ca6e40ac736171a8b80b0e66dad", null ],
-    [ "ExecuteEvent", "d3/da8/a13077.html#af81a1ef4345e55f3d537baeb0e9528f4", null ],
-    [ "JustEngagedWith", "d3/da8/a13077.html#ad0e720b1ea3e92fabeea8b78a6416f3f", null ],
-    [ "Reset", "d3/da8/a13077.html#aee0a2c6587a7f743491f3a3e31ed6527", null ],
-    [ "armageddonCasted", "d3/da8/a13077.html#a4ea01568770a91e6734d45e3730c62cc", null ]
+    [ "HandleDummy", "d3/da8/a13077.html#a21c5eb1511cb4035f795ff1d22797e34", null ],
+    [ "PrepareSpellScript", "d3/da8/a13077.html#a5308de47023b89e4ff8680158a502ac0", null ],
+    [ "Register", "d3/da8/a13077.html#a5f148d259b1102b1046e6a3ac096fea8", null ],
+    [ "Validate", "d3/da8/a13077.html#a75f89d90b9e68288e54e1e0bd3b2ce98", null ]
 ];

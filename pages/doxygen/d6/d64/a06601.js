@@ -1,5 +1,7 @@
 var a06601 =
 [
-    [ "SimpleCharmedAI", "d6/d64/a06601.html#ada8d12d7df75dca5c87c633348d1b27b", null ],
-    [ "UpdateAI", "d6/d64/a06601.html#a5e2c8ae6b601b7fcc36f8c2c49bcd9a6", null ]
+    [ "NonTankTargetSelector", "d6/d64/a06601.html#ac8d9ecc1fa9a29dc54e33eae9c1fb8ce", null ],
+    [ "operator()", "d6/d64/a06601.html#a3a4cf85033650b1d31e9f93ec8e74b22", null ],
+    [ "_playerOnly", "d6/d64/a06601.html#a59a14629522e0a3850991b1852d368ee", null ],
+    [ "_source", "d6/d64/a06601.html#a54f9bf9a14d2b39f5ef038675cfcc30f", null ]
 ];

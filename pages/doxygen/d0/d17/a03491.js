@@ -1,7 +1,9 @@
 var a03491 =
 [
-    [ "instance_trial_of_the_champion", "d8/d21/a16895.html", "d8/d21/a16895" ],
-    [ "instance_trial_of_the_champion::instance_trial_of_the_champion_InstanceMapScript", "d8/d06/a16899.html", "d8/d06/a16899" ],
-    [ "AddSC_instance_trial_of_the_champion", "d0/d17/a03491.html#a15e8163b6e8598d38b9f8c3b0ab9d5bd", null ],
-    [ "SpawnPosition", "d0/d17/a03491.html#a70438d12d4153aa7d510c89551abf7c9", null ]
+    [ "FactorySelector::PermissibleOrderPred< T >", "df/d2f/a06641.html", "df/d2f/a06641" ],
+    [ "GetPermitFor", "d0/d17/a03491.html#aaf9c138ae6c123d03859db553a39892d", null ],
+    [ "SelectAI", "d0/d17/a03491.html#a10fef1ff3335f4642179ee423b1ff0d6", null ],
+    [ "SelectFactory", "d0/d17/a03491.html#ad553c2186f078e696768d40d217738f8", null ],
+    [ "SelectGameObjectAI", "d0/d17/a03491.html#a2ce404e9b85f551638d8783c01a19860", null ],
+    [ "SelectMovementGenerator", "d0/d17/a03491.html#a203d17bf72c42c0d3fdb77626b01b679", null ]
 ];

@@ -1,5 +1,7 @@
 var a05120 =
 [
-    [ "basic_endpoint", "d4/d19/a05251.html", null ],
-    [ "tcp_endpoint", "d0/d7d/a05120.html#a27a44b709519f6caccf33bc420c4698b", null ]
+    [ "asio", "dc/d0c/a05122.html", "dc/d0c/a05122" ],
+    [ "filesystem", "d1/df0/a05157.html", null ],
+    [ "posix_time", "dd/db3/a05121.html", null ],
+    [ "system", "d3/dd2/a05215.html", null ]
 ];

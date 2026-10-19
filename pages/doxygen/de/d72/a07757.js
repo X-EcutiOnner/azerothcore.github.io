@@ -1,6 +1,10 @@
 var a07757 =
 [
-    [ "_Battlegrounds", "de/d72/a07757.html#aa48f3a9d4a51e357055a0bc60ca41d7c", null ],
-    [ "_ClientBattlegroundIds", "de/d72/a07757.html#a0526fab23b40ac1b33ce18243ad41132", null ],
-    [ "BGFreeSlotQueue", "de/d72/a07757.html#a49fd7eb3a472894f233d309d35d509be", null ]
+    [ "BattlegroundChatBuilder", "de/d72/a07757.html#ad5ae3b91e81f816ca49f9358222c8b06", null ],
+    [ "do_helper", "de/d72/a07757.html#aaeb91b7fa2efe1dd36802851e204c9c8", null ],
+    [ "operator()", "de/d72/a07757.html#ab84296c320b09a387de6e6e6a2326b83", null ],
+    [ "_args", "de/d72/a07757.html#a32a72bf1110179cc58dcf2df914c7389", null ],
+    [ "_msgtype", "de/d72/a07757.html#ae73b69d72ddee4e05bb8b634a91e13b7", null ],
+    [ "_source", "de/d72/a07757.html#aaed8a84ac72a01824d7d7fc2ea17c9af", null ],
+    [ "_textId", "de/d72/a07757.html#a218d6cc2e99a6170b1a548fc1531e2e7", null ]
 ];

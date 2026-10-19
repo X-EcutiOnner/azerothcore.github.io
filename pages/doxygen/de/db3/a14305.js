@@ -1,8 +1,7 @@
 var a14305 =
 [
-    [ "npc_varian_wrynnAI", "d8/dc6/a14309.html", "d8/dc6/a14309" ],
-    [ "npc_varian_wrynn", "de/db3/a14305.html#a1dd8e4664da693f3e4ecdd4581b96c87", null ],
-    [ "GetAI", "de/db3/a14305.html#aa5aa46f24a128e84ac2a837c012b2e02", null ],
-    [ "OnGossipHello", "de/db3/a14305.html#a95f6ff3f2a7db807b278d019e187ddec", null ],
-    [ "OnGossipSelect", "de/db3/a14305.html#a65d02bafebe9c5a45d707f8990d680a3", null ]
+    [ "OnApply", "de/db3/a14305.html#a21450cd59487a927bbc0a5a5e1ffa72b", null ],
+    [ "OnRemove", "de/db3/a14305.html#a810203874163cf04798c3edbe69b747e", null ],
+    [ "PrepareAuraScript", "de/db3/a14305.html#a3c17a7366acd9bd1863bae0f9218930a", null ],
+    [ "Register", "de/db3/a14305.html#af2ad52165de188897fdeb8d62646b7cc", null ]
 ];

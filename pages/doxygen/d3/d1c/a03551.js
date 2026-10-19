@@ -1,4 +1,5 @@
 var a03551 =
 [
-    [ "GetSummonerOrOwnerGUID", "d3/d1c/a03551.html#ade20791b8d3ae460c15299f2e976071d", null ]
+    [ "GetAISpellInfo", "d3/d1c/a03551.html#a1ed41ad074263f6c0c63f38b7f51414b", null ],
+    [ "IsValidCombatTarget", "d3/d1c/a03551.html#a981f03ba3b8c59eb1fa9d22df158ba19", null ]
 ];

@@ -1,8 +1,7 @@
 var a26685 =
 [
-    [ "OnRemove", "d2/db1/a26685.html#a992c78ac4ce2a94c4f38c7a81f2a9c45", null ],
-    [ "PrepareAuraScript", "d2/db1/a26685.html#ad06dbe9207315484cbb886fcc75bb958", null ],
-    [ "PrepareProc", "d2/db1/a26685.html#a2f4b562be28420d25d09b81ad72af17f", null ],
-    [ "Register", "d2/db1/a26685.html#a04d9c48f8842392a4d318677537ac248", null ],
-    [ "Validate", "d2/db1/a26685.html#ab15a75ec708d8c683166bd73fab29701", null ]
+    [ "HandleDummy", "d2/db1/a26685.html#a870b9834d0860a2d017b74fbf33ae668", null ],
+    [ "Load", "d2/db1/a26685.html#ae971bd1dccc9280620b6ea44dd552bd4", null ],
+    [ "PrepareSpellScript", "d2/db1/a26685.html#aac68e0f75f39ab25cf490dc381414b96", null ],
+    [ "Register", "d2/db1/a26685.html#ad2840c719abd010c629747da138e9e32", null ]
 ];

@@ -1,10 +1,5 @@
 var a06301 =
 [
-    [ "TransactionCallback", "da/dea/a06301.html#a89e9ebf06ffbad9dcf77a78f9f989450", null ],
-    [ "TransactionCallback", "da/dea/a06301.html#adeff62976c11d9d90169e4650640118b", null ],
-    [ "AfterComplete", "da/dea/a06301.html#af2ec892bbca8d2cc694b36fb931fc1e8", null ],
-    [ "InvokeIfReady", "da/dea/a06301.html#a7937d93dbd22617a2fd3893a6fe8c23c", null ],
-    [ "operator=", "da/dea/a06301.html#ab73d1741c21ea9fd86f65a647768e972", null ],
-    [ "m_callback", "da/dea/a06301.html#abb0dbcebb22ea716025ed6aca99f6afb", null ],
-    [ "m_future", "da/dea/a06301.html#a381e889074bc5ca48574d37fe6eea00f", null ]
+    [ "element", "da/dea/a06301.html#ae5400b2932fe1a8c514c38fb6bab392f", null ],
+    [ "type", "da/dea/a06301.html#afb3f8dc82da740b1aaae165cb6a5b218", null ]
 ];

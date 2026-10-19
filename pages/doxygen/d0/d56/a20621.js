@@ -1,5 +1,5 @@
 var a20621 =
 [
-    [ "achievement_staying_buffed_all_winter_25", "d0/d56/a20621.html#a91f0ab3bada837cff6414350b98a27a3", null ],
-    [ "OnCheck", "d0/d56/a20621.html#a36591082184bc8466e124bad9a910545", null ]
+    [ "FlashFreezeCheck", "d0/d56/a20621.html#a47d07a686a7c74dc8914a98762b16fe3", null ],
+    [ "operator()", "d0/d56/a20621.html#a87475dc9e2f1b0eb508e9f56aa5c1e2f", null ]
 ];

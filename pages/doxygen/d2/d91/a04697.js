@@ -1,5 +1,6 @@
 var a04697 =
 [
-    [ "FactoryHolder< T, O, Key >", "db/dd0/a05603.html", "db/dd0/a05603" ],
-    [ "Permissible< T >", "db/de6/a05607.html", "db/de6/a05607" ]
+    [ "LinkedListElement", "d1/df2/a05617.html", "d1/df2/a05617" ],
+    [ "LinkedListHead", "db/d36/a05621.html", "db/d36/a05621" ],
+    [ "LinkedListHead::Iterator< _Ty >", "db/d7d/a05625.html", "db/d7d/a05625" ]
 ];

@@ -1,7 +1,6 @@
 var a21925 =
 [
-    [ "HandleApplyEffect", "dc/d8f/a21925.html#aab7bd30368c51a6a209f6cad5a93ba79", null ],
-    [ "HandleRemoveEffect", "dc/d8f/a21925.html#a243933fec9ccd650303ea5badbea725b", null ],
-    [ "PrepareAuraScript", "dc/d8f/a21925.html#ac0e1fc0694dd51e245340d3658592447", null ],
-    [ "Register", "dc/d8f/a21925.html#a0f6e6c6892d56a6fceb927f68c734bde", null ]
+    [ "npc_mindless_ghoulAI", "d0/d29/a21929.html", "d0/d29/a21929" ],
+    [ "npc_mindless_ghoul", "dc/d8f/a21925.html#ac5bf71e719c0df04687f426a022fd65e", null ],
+    [ "GetAI", "dc/d8f/a21925.html#ac5a087aa742827dc8eb0f3dc195920ec", null ]
 ];

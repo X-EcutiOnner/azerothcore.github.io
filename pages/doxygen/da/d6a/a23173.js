@@ -1,7 +1,7 @@
 var a23173 =
 [
-    [ "HandleOnHit", "da/d6a/a23173.html#a9f368396cef39ba3bd70480f11c44700", null ],
-    [ "PrepareSpellScript", "da/d6a/a23173.html#a3240b42a9122e61b57ea91486cb3c97b", null ],
-    [ "Register", "da/d6a/a23173.html#a99f80adcebdd9726a8df51f99d415651", null ],
-    [ "Validate", "da/d6a/a23173.html#a25e3078f0b2d71ea0e6802aae0a6c7a4", null ]
+    [ "npc_ashtongue_channeler", "da/d6a/a23173.html#af7217d00f87e56e5cdb411fcad161b51", null ],
+    [ "Reset", "da/d6a/a23173.html#ab935559c19b18f9c94dd36c85be5b3b2", null ],
+    [ "UpdateAI", "da/d6a/a23173.html#af855dfa521404c4e6127a9bf12a75604", null ],
+    [ "scheduler", "da/d6a/a23173.html#a4f58bbd2c44f7a3f9835fd55408ffaf4", null ]
 ];

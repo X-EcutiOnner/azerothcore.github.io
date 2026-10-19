@@ -1,7 +1,28 @@
 var a13101 =
 [
-    [ "HandleHit", "dd/d53/a13101.html#a18f86449945ade16140ee934a7d8703e", null ],
-    [ "PrepareSpellScript", "dd/d53/a13101.html#abaf09043858db27b05fbe544d7a15a8f", null ],
-    [ "Register", "dd/d53/a13101.html#abe0733be2e32ff616c48acaeeb1d39e9", null ],
-    [ "Validate", "dd/d53/a13101.html#abc970a8b4a8f27f81f392cebf81dc574", null ]
+    [ "instance_blackwing_lair", "dd/d53/a13101.html#acc616ac1ebc0a30b223b56db6d1d194d", null ],
+    [ "CheckRequiredBosses", "dd/d53/a13101.html#a5fe103f254c8eff91732c8241e564e6b", null ],
+    [ "GetData", "dd/d53/a13101.html#a8aa2cb3ec0fb6ac894fe2386bb587cd6", null ],
+    [ "GetGuidData", "dd/d53/a13101.html#a83845db9412c9db9020fe5cb916f15ed", null ],
+    [ "Initialize", "dd/d53/a13101.html#a897fb61d904ece635288d79823847f19", null ],
+    [ "OnCreatureCreate", "dd/d53/a13101.html#ab9d92beeef2b4cff728b3b07628be143", null ],
+    [ "OnGameObjectCreate", "dd/d53/a13101.html#afadc17e8273352507021fe801540cfea", null ],
+    [ "OnGameObjectRemove", "dd/d53/a13101.html#ad17a7e6c445a33ccf504e3346f4337d5", null ],
+    [ "OnUnitDeath", "dd/d53/a13101.html#aa7d4423a1d3de7d1f28e03e1242ab29f", null ],
+    [ "ReadSaveDataMore", "dd/d53/a13101.html#a44fc3e4344c72fa859f87ebec10f391a", null ],
+    [ "SetBossState", "dd/d53/a13101.html#a71e2889ad19c4d445b1a9e3e852f5408", null ],
+    [ "SetData", "dd/d53/a13101.html#a1a51777e7bdffcd5633d435c65aec5ad", null ],
+    [ "Update", "dd/d53/a13101.html#abd4fe01494c20a4b413392011ee8b901", null ],
+    [ "WriteSaveDataMore", "dd/d53/a13101.html#a9b5f810bdaacd35144a3a054f706fca2", null ],
+    [ "_events", "dd/d53/a13101.html#a069b3a56def2564f026a3404bf0fd1c6", null ],
+    [ "addsCount", "dd/d53/a13101.html#adb5f0436eca9ff1ae539590416a93994", null ],
+    [ "EggCount", "dd/d53/a13101.html#a1ac13e5d1453f4ea0d01ccef32cdde04", null ],
+    [ "EggEvent", "dd/d53/a13101.html#a7477504fa86afb6380234cf659c5f7d2", null ],
+    [ "EggList", "dd/d53/a13101.html#a2e78bb7c91616d00af59b29af160d311", null ],
+    [ "guardList", "dd/d53/a13101.html#ac396d405834c12dee713f9367a4d12db", null ],
+    [ "nefarianDoorGUID", "dd/d53/a13101.html#a286d20f905bab05fae40019d2193169c", null ],
+    [ "nefarianGUID", "dd/d53/a13101.html#af5e25c709a68da078cbaca38e4f692d8", null ],
+    [ "NefarianLeftTunnel", "dd/d53/a13101.html#ae9dfe41953a427db9c3d87825dc4123b", null ],
+    [ "NefarianRightTunnel", "dd/d53/a13101.html#aeb857871a07bea6822da067041c0a126", null ],
+    [ "razorgoreGUID", "dd/d53/a13101.html#a96ca7c618cdf5d604e4b5700bffefadb", null ]
 ];

@@ -1,6 +1,6 @@
 var a27533 =
 [
-    [ "HandleEffectApply", "d0/ddf/a27533.html#ab77ea5638ea12f2e305487b1080d0b0b", null ],
-    [ "PrepareAuraScript", "d0/ddf/a27533.html#aed642c73ab31fb63aa497ada45863ae6", null ],
-    [ "Register", "d0/ddf/a27533.html#ab9c68d7368ed71d2c5585df31b09cdd7", null ]
+    [ "HandleRemove", "d0/ddf/a27533.html#a92eb5e02c8b165caa877d368a456e5b2", null ],
+    [ "PrepareAuraScript", "d0/ddf/a27533.html#a132193c0c13a2f89b9b29391d524023a", null ],
+    [ "Register", "d0/ddf/a27533.html#a246294a7b9a128a9ec464562846332fc", null ]
 ];

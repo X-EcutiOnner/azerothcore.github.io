@@ -1,12 +1,12 @@
 var a06565 =
 [
-    [ "TotemAI", "dc/dd3/a06565.html#ad57f973e52d22f45b5171faeb28f2e91", null ],
-    [ "AttackStart", "dc/dd3/a06565.html#aa5bb81b51ec79a4328016cca34363880", null ],
-    [ "DoAction", "dc/dd3/a06565.html#a9457dae982b3c1d411aa42ff2f30feac", null ],
-    [ "EnterEvadeMode", "dc/dd3/a06565.html#acd8ed4528ac7c16182a0470e49b422f6", null ],
-    [ "MoveInLineOfSight", "dc/dd3/a06565.html#a796d05b45b4ba4dc23f04897fc2ce253", null ],
-    [ "Permissible", "dc/dd3/a06565.html#a75a0cdb27da98b47cf3ccbd2e594cd18", null ],
-    [ "SpellHit", "dc/dd3/a06565.html#a7a5fc1dc37708fab628bc78bb28575be", null ],
-    [ "UpdateAI", "dc/dd3/a06565.html#a2b5b3c8bb51d83bfa8f3474a868fcb19", null ],
-    [ "i_victimGuid", "dc/dd3/a06565.html#ae651f8f7a02261c1a0e37a6c7ddde4be", null ]
+    [ "NullCreatureAI", "dc/dd3/a06565.html#aa9969eeb9a79559c9f2d3bd907b3fd85", null ],
+    [ "AttackStart", "dc/dd3/a06565.html#a94d4594e1f39143ea41ce00aeecec4b4", null ],
+    [ "EnterEvadeMode", "dc/dd3/a06565.html#a726edd296c16ed2414fcc1827f88238f", null ],
+    [ "JustEnteredCombat", "dc/dd3/a06565.html#ac9ccd2d260170b218acf1997a0bded97", null ],
+    [ "JustStartedThreateningMe", "dc/dd3/a06565.html#a191e098763d9b73db74f843aa77115e6", null ],
+    [ "MoveInLineOfSight", "dc/dd3/a06565.html#a12c54c92a08e81751563ec9522236b28", null ],
+    [ "OnCharmed", "dc/dd3/a06565.html#a77b274955dcfdf2d10bbc43b64330f8d", null ],
+    [ "Permissible", "dc/dd3/a06565.html#a77595426da50819a0ff0744930d19b23", null ],
+    [ "UpdateAI", "dc/dd3/a06565.html#ab200fcf78dee74a2ec808c01f5855236", null ]
 ];

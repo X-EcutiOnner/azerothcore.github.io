@@ -1,9 +1,15 @@
 var a02363 =
 [
-    [ "MySQLHandle", "d0/dca/a06175.html", null ],
-    [ "MySQLResult", "dd/d16/a06179.html", null ],
-    [ "MySQLField", "df/d46/a06183.html", null ],
-    [ "MySQLBind", "d0/d79/a06187.html", null ],
-    [ "MySQLStmt", "d8/d67/a06191.html", null ],
-    [ "MySQLBool", "d9/d27/a02363.html#a9962b927652e90357369e67230dbc127", null ]
+    [ "MySQLType< T >", "dd/dae/a06201.html", null ],
+    [ "MySQLType< uint8 >", "dc/de3/a06205.html", null ],
+    [ "MySQLType< uint16 >", "d4/ddc/a06209.html", null ],
+    [ "MySQLType< uint32 >", "d0/d8d/a06213.html", null ],
+    [ "MySQLType< uint64 >", "d8/d44/a06217.html", null ],
+    [ "MySQLType< int8 >", "db/d98/a06221.html", null ],
+    [ "MySQLType< int16 >", "d6/d5f/a06225.html", null ],
+    [ "MySQLType< int32 >", "dc/df0/a06229.html", null ],
+    [ "MySQLType< int64 >", "d5/d14/a06233.html", null ],
+    [ "MySQLType< float >", "d0/d93/a06237.html", null ],
+    [ "MySQLType< double >", "d5/d41/a06241.html", null ],
+    [ "ParamenterIndexAssertFail", "d9/d27/a02363.html#a4c2b053ff0b94326f3c01cc7c6e61e8a", null ]
 ];

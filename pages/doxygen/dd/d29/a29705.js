@@ -1,7 +1,10 @@
 var a29705 =
 [
-    [ "MockAuraStub", "dd/d29/a29705.html#a9f0561eabca5230f8fe27384e0deb6b8", null ],
-    [ "MOCK_METHOD", "dd/d29/a29705.html#a727233484b563f548c9f0e2d8a78b9a6", null ],
-    [ "MOCK_METHOD", "dd/d29/a29705.html#a9581f1887abbe708bc4e2da24e1996b5", null ],
-    [ "MOCK_METHOD", "dd/d29/a29705.html#abe2d675e124d5cb9115e8f726b1c7d8b", null ]
+    [ "BugfixVersion", "dd/d29/a29705.html#a461f8c749a874405584dc1fd3fe1d805", null ],
+    [ "Build", "dd/d29/a29705.html#a6cc7aff1b397df7333b9bb0003282abd", null ],
+    [ "HotfixVersion", "dd/d29/a29705.html#a0df61c036a57b8a3efde5d180dc38131", null ],
+    [ "MacHash", "dd/d29/a29705.html#ad59772e86371318fe975760e303fa7d9", null ],
+    [ "MajorVersion", "dd/d29/a29705.html#a0eb78564680f771e325536a0ab77382a", null ],
+    [ "MinorVersion", "dd/d29/a29705.html#a7140f7ef9540eff08fabf74ded68b9cc", null ],
+    [ "WindowsHash", "dd/d29/a29705.html#a96abd69a458dfc4363c4e545fc7fabab", null ]
 ];

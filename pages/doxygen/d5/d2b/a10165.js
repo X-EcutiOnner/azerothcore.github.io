@@ -1,7 +1,6 @@
 var a10165 =
 [
-    [ "LootGroupInvalidSelector", "d5/d2b/a10165.html#abea815e8ee0d31cc64b3fd7f46033cca", null ],
-    [ "operator()", "d5/d2b/a10165.html#a2ea426fdeced03324c4a63184c2c1fc4", null ],
-    [ "_loot", "d5/d2b/a10165.html#a67b9d223426512af79bbf5b035c18a6d", null ],
-    [ "_lootMode", "d5/d2b/a10165.html#a10e307846a0731aa812388c29c0d4bc8", null ]
+    [ "DoorInfo", "d5/d2b/a10165.html#a26f4849a1d68df466e6db0ccbb8d001b", null ],
+    [ "bossInfo", "d5/d2b/a10165.html#a14f7742a1b272d0cd76dda6ce28cde26", null ],
+    [ "type", "d5/d2b/a10165.html#ad77a91752ea10a11c8e73655e63dd5c1", null ]
 ];

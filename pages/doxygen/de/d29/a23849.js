@@ -1,6 +1,5 @@
 var a23849 =
 [
-    [ "npc_millhouse_manastormAI", "d7/d19/a23853.html", "d7/d19/a23853" ],
-    [ "npc_millhouse_manastorm", "de/d29/a23849.html#aebc8efc48d207ad7f1105fa636b9c104", null ],
-    [ "GetAI", "de/d29/a23849.html#ac4516785f7daf544718fc201197ba977", null ]
+    [ "at_rp_nethekurse", "de/d29/a23849.html#ac0a1891f90b674ad0ccbeb27f170e643", null ],
+    [ "_OnTrigger", "de/d29/a23849.html#a93001d6dda7b2711f1efe100ffab5879", null ]
 ];

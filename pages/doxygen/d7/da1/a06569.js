@@ -1,6 +1,9 @@
 var a06569 =
 [
-    [ "KillMagnetEvent", "d7/da1/a06569.html#a1f044cb51674faebe45c0e2119601b59", null ],
-    [ "Execute", "d7/da1/a06569.html#a2905731d24060dfa7c2069b05adfa2b2", null ],
-    [ "_self", "d7/da1/a06569.html#a0fe06efbc00b38f98f2e077d7dfb1941", null ]
+    [ "CritterAI", "d7/da1/a06569.html#aa211359ea8b80ac0ed27e9b337e333f1", null ],
+    [ "EnterEvadeMode", "d7/da1/a06569.html#a989d1fc00af900320dcf27cce7f247dc", null ],
+    [ "JustEngagedWith", "d7/da1/a06569.html#a2f52eb5c527895168f18ed5ddcc560a9", null ],
+    [ "MovementInform", "d7/da1/a06569.html#a54c44d28e4b2b3231afeb8de343dee43", null ],
+    [ "Permissible", "d7/da1/a06569.html#ae43183a24398fe3af1cb8275b9b4c6c6", null ],
+    [ "UpdateAI", "d7/da1/a06569.html#af860be127a671f5448cb731aa2f701b0", null ]
 ];

@@ -1,11 +1,8 @@
 var a19225 =
 [
-    [ "go_empowering_blood_orb", "d1/dd1/a19225.html#a4d6719a0ba25b25ca61baa7e1785636b", null ],
-    [ "GossipHello", "d1/dd1/a19225.html#a2b176a2b97ebb96e60ed381533cc4ebb", null ],
-    [ "HandleObjectUse", "d1/dd1/a19225.html#a4fffcbe7526951562cfc063fe7b39255", null ],
-    [ "Reset", "d1/dd1/a19225.html#a284de01132efc6ed4d865e14ae100bd8", null ],
-    [ "SetGUID", "d1/dd1/a19225.html#ab5eb2c24e81600a6f295e38a32324f2d", null ],
-    [ "UpdateAI", "d1/dd1/a19225.html#a19b23d9b9ae467eb5be7fc30b1c2154f", null ],
-    [ "_scheduler", "d1/dd1/a19225.html#a40cf117590ac657c216478cb43725bf5", null ],
-    [ "_triggerGuid", "d1/dd1/a19225.html#a70721a6c8f1a27e6fa31ad52184883f3", null ]
+    [ "npc_arthas_teleport_visualAI", "d1/dd1/a19225.html#a9b9b2ba725cde9aec898244a9e50c394", null ],
+    [ "Reset", "d1/dd1/a19225.html#a27155b8880a2a86b733bcd074e977b59", null ],
+    [ "UpdateAI", "d1/dd1/a19225.html#a23c200f2c7b9f5d02bed7af37bc69c33", null ],
+    [ "_events", "d1/dd1/a19225.html#a986f19145e46f5975f22a84a3e1b10ee", null ],
+    [ "_instance", "d1/dd1/a19225.html#a25bc023e061a0845421a652b571a6e1e", null ]
 ];

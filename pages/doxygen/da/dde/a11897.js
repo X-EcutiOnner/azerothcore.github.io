@@ -1,12 +1,8 @@
 var a11897 =
 [
-    [ "UnitAura", "da/dde/a11897.html#ada4033955271dfb21d16a95b316087f5", null ],
-    [ "_ApplyForTarget", "da/dde/a11897.html#a920549cf55c8def37149b00ae971127d", null ],
-    [ "_UnapplyForTarget", "da/dde/a11897.html#af4d453cee6758e633bdcae0049581898", null ],
-    [ "FillTargetMap", "da/dde/a11897.html#add5ce04446338e078c5986420abfd16e", null ],
-    [ "GetDiminishGroup", "da/dde/a11897.html#a8ebf7b01e7f324938f68ad4ce74d56b5", null ],
-    [ "Remove", "da/dde/a11897.html#a28f714404942bb5c614ac844cf937546", null ],
-    [ "SetDiminishGroup", "da/dde/a11897.html#a6d858a153c5d3046574f3387ab852050", null ],
-    [ "Aura::Create", "da/dde/a11897.html#ae2c0fdfb409846fec5e861de60797112", null ],
-    [ "m_AuraDRGroup", "da/dde/a11897.html#a4b413c5e62eee76875a22345059e6124", null ]
+    [ "SkillDiscoveryEntry", "da/dde/a11897.html#a54c0f12153c6e63a37e5da44d233b271", null ],
+    [ "SkillDiscoveryEntry", "da/dde/a11897.html#a301cae078fe1943cae045e94dc3d38ad", null ],
+    [ "chance", "da/dde/a11897.html#a71cf2c48937e5a2a3c6dd8c499a860a7", null ],
+    [ "reqSkillValue", "da/dde/a11897.html#a61e0edc8fee1fa4045d846668d08449c", null ],
+    [ "spellId", "da/dde/a11897.html#a75ca40729917317173b2953c8f47f833", null ]
 ];

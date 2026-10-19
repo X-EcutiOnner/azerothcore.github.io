@@ -1,11 +1,11 @@
 var a12881 =
 [
-    [ "boss_quartermaster_zigris", "dc/d49/a12881.html#a1d2f68327cc9b88fdd82d44ac8446d57", null ],
-    [ "DamageTaken", "dc/d49/a12881.html#a61d7f1c4e5a2901812f1175ccce69ab2", null ],
-    [ "JustDied", "dc/d49/a12881.html#a9295bbcffd7968051a789e8dfb634e23", null ],
-    [ "JustEngagedWith", "dc/d49/a12881.html#af482c06e00e7f6c15b290115998a27a9", null ],
-    [ "Reset", "dc/d49/a12881.html#a71e911bb91b7447e8aed28cdccfda8db", null ],
-    [ "SpellHitTarget", "dc/d49/a12881.html#a38197746cc73ada1378e6e1a5555ef79", null ],
-    [ "UpdateAI", "dc/d49/a12881.html#a400f7ace05cd5c4d127aecf5d771c616", null ],
-    [ "_hasDrunkPotion", "dc/d49/a12881.html#a25335533bc43171687e03f1ed22d4fb3", null ]
+    [ "boss_gyth", "dc/d49/a12881.html#a18fea0e0fb6c734b818bb8989b1e66c9", null ],
+    [ "EnterEvadeMode", "dc/d49/a12881.html#a172ea902e3bd162bf8fe8b23e7b9dcfa", null ],
+    [ "IsSummonedBy", "dc/d49/a12881.html#ad7c64e772a8959ad0e58fc13512e0088", null ],
+    [ "JustDied", "dc/d49/a12881.html#a305bf5c4913f429b44592e4a7e99b8ae", null ],
+    [ "JustEngagedWith", "dc/d49/a12881.html#a16de6cf7e2925fd49df6a412c6df9533", null ],
+    [ "JustSummoned", "dc/d49/a12881.html#aab0152a90a341839279cb6d0e7e19eb6", null ],
+    [ "Reset", "dc/d49/a12881.html#aef0345d29833b13045b374a219335018", null ],
+    [ "UpdateAI", "dc/d49/a12881.html#a8829ad229ee09aea55f9603058d095e8", null ]
 ];

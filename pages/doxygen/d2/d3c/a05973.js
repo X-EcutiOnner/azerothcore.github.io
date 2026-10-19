@@ -1,11 +1,13 @@
 var a05973 =
 [
-    [ "PeriodicTimer", "d2/d3c/a05973.html#a82820c45f47f423315fe761f9c45c3b5", null ],
-    [ "SetPeriodic", "d2/d3c/a05973.html#abea9c11f88ef0ef48c16a24584774b5b", null ],
-    [ "TPassed", "d2/d3c/a05973.html#a3fdac0a26ee6f5db8d536ae44907930d", null ],
-    [ "TReset", "d2/d3c/a05973.html#af4e78fc1284797b50c2951c10f92b641", null ],
-    [ "TUpdate", "d2/d3c/a05973.html#a1b013fe47a2dfb131110d3a29ccf9868", null ],
-    [ "Update", "d2/d3c/a05973.html#a535bd070d606ba5a8621469a7ddd3449", null ],
-    [ "i_expireTime", "d2/d3c/a05973.html#a7b889a1fbbf905c952834fb8d745f4a6", null ],
-    [ "i_period", "d2/d3c/a05973.html#a5b45d28e36d665190323f34776b87796", null ]
+    [ "Clear", "d2/d3c/a05973.html#adc64d35670bf0d41519cb9998d3db17e", null ],
+    [ "First", "d2/d3c/a05973.html#a8bbd41b304f7e69df565af75f4846bda", null ],
+    [ "GetNextGroupOccurrence", "d2/d3c/a05973.html#af2cb38062e4d62558d520be75b01bedb", null ],
+    [ "IsEmpty", "d2/d3c/a05973.html#a151898f14e9a1628ddb52b6840fcc4fc", null ],
+    [ "IsGroupQueued", "d2/d3c/a05973.html#ada8edd51338da19db3f282ccc6229516", null ],
+    [ "ModifyIf", "d2/d3c/a05973.html#a0ad5b4de404b1f8312341a28a1a58b5b", null ],
+    [ "Pop", "d2/d3c/a05973.html#a5f5d6b5a4a5e4ec93ff94619485736cb", null ],
+    [ "Push", "d2/d3c/a05973.html#aff6bc8c7fae6640b555ddb027cf0f6ab", null ],
+    [ "RemoveIf", "d2/d3c/a05973.html#a6efe3145679913fde4d4cc1f8cc819e6", null ],
+    [ "container", "d2/d3c/a05973.html#acc56bddf7e586a3a950f608efb730498", null ]
 ];

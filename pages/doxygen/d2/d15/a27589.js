@@ -1,8 +1,6 @@
 var a27589 =
 [
-    [ "ApplyDebuff", "d2/d15/a27589.html#ac22ae27019de6bd951bb00262c6df9a3", null ],
-    [ "PrepareSpellScript", "d2/d15/a27589.html#aa37525d089348f58e3d871830caa3417", null ],
-    [ "Register", "d2/d15/a27589.html#ac37a48d9742ab6b07c5e6a8dd7f23bd9", null ],
-    [ "RemoveInvalidTargets", "d2/d15/a27589.html#a0451b75aa962065a01a5806992e01b16", null ],
-    [ "Validate", "d2/d15/a27589.html#ac69d777fdf7a2d3c527621dee256690c", null ]
+    [ "FilterTargets", "d2/d15/a27589.html#a34ca370993295225a779ee6537295112", null ],
+    [ "PrepareSpellScript", "d2/d15/a27589.html#a523cf0c9aa9b3cf81c0cadd39252dd0f", null ],
+    [ "Register", "d2/d15/a27589.html#a0c23c8b0fe938fd7556663880f40b9ef", null ]
 ];

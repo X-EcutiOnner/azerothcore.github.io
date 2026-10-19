@@ -1,9 +1,6 @@
 var a19373 =
 [
-    [ "npc_icc_severed_essenceAI", "dd/d77/a19373.html#a76366c33ab9ec7aa291c0df657fbef68", null ],
-    [ "CanAIAttack", "dd/d77/a19373.html#a2cc2cfc967f9ad966d76571eb0eb630f", null ],
-    [ "DoAction", "dd/d77/a19373.html#a938af3a7de5b26432e1ad515a326a032", null ],
-    [ "UpdateAI", "dd/d77/a19373.html#a66e3324baa87ba109dd968a517ee82a5", null ],
-    [ "Class", "dd/d77/a19373.html#aa627713be3a2ac01336d158d96aaccc7", null ],
-    [ "events", "dd/d77/a19373.html#a1bab216925c4123d633d9613bb80365c", null ]
+    [ "npc_icc_skybreaker_marksmanAI", "d7/db3/a19377.html", "d7/db3/a19377" ],
+    [ "npc_icc_skybreaker_marksman", "dd/d77/a19373.html#a1d870b78e1acf2d17782265e28698d1c", null ],
+    [ "GetAI", "dd/d77/a19373.html#a374017d37da15705d51ab8edc75683ff", null ]
 ];

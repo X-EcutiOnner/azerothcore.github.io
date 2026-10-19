@@ -1,7 +1,7 @@
 var a21761 =
 [
-    [ "HandleEffectHit", "de/d8a/a21761.html#a8d7dd2411c3b786e682260eb30862602", null ],
-    [ "PrepareSpellScript", "de/d8a/a21761.html#a49b6d005013e480f8161779119bc9b2d", null ],
-    [ "Register", "de/d8a/a21761.html#a017ae25fead98a5c18cdb83128085ddd", null ],
-    [ "Validate", "de/d8a/a21761.html#a9e1dbc7714a35bcc7ec26286419517c2", null ]
+    [ "npc_mootoo_the_youngerAI", "df/d73/a21765.html", "df/d73/a21765" ],
+    [ "npc_mootoo_the_younger", "de/d8a/a21761.html#a91e10489ed6a98cfa764fd4de8448317", null ],
+    [ "GetAI", "de/d8a/a21761.html#ac49b3454afa4a3fbedd0887e3ff831b3", null ],
+    [ "OnQuestAccept", "de/d8a/a21761.html#a5fce360ef989f5b2fe42cd04361e33bc", null ]
 ];

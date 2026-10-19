@@ -1,5 +1,5 @@
 var a28165 =
 [
-    [ "achievement_flirt_with_disaster_perf_check", "d7/df0/a28165.html#a8cb843ed26248ceff594ef552b0ae9ae", null ],
-    [ "OnCheck", "d7/df0/a28165.html#a15e620be2f37f930477ba94293dbaf63", null ]
+    [ "achievement_save_the_day", "d7/df0/a28165.html#a193e4060b6634a87b499b7c8a5e287a1", null ],
+    [ "OnCheck", "d7/df0/a28165.html#a95cfea6cd9ff955ba6800ebdf3a30eb7", null ]
 ];

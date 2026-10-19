@@ -1,16 +1,15 @@
 var a05341 =
 [
-    [ "GetLiquidFlagsFn", "d4/d27/a05341.html#a172996acb562d916b51132e7e0072140", null ],
-    [ "IsVMAPDisabledForFn", "d4/d27/a05341.html#a178edb6185bbdefbc08f2cf78205c1c6", null ],
-    [ "VMapMgr2", "d4/d27/a05341.html#ac16d324a4ab5f27b18fe5f992f5288cd", null ],
-    [ "~VMapMgr2", "d4/d27/a05341.html#afbbc51ff81e1aa107352354eb712b556", null ],
-    [ "convertPositionToInternalRep", "d4/d27/a05341.html#ade8ab3f66eb603aae40a80fab7c52e67", null ],
-    [ "existsMap", "d4/d27/a05341.html#af18b011f8c9939da7813fafbc3bfe014", null ],
-    [ "getDirFileName", "d4/d27/a05341.html#ad2ad6e5bd41a585cf94c2e7d56358178", null ],
-    [ "GetLiquidFlagsDummy", "d4/d27/a05341.html#a11761ce698c3e240366b03dd57142b25", null ],
-    [ "getMapFileName", "d4/d27/a05341.html#aecec356ccb3fd3ddb52c7d889bd2c80d", null ],
-    [ "IsVMAPDisabledForDummy", "d4/d27/a05341.html#a87d4d0a1553502c8c15fb12077ec34d2", null ],
-    [ "processCommand", "d4/d27/a05341.html#a8ed4fc4a7b268adbef8cb7846be4aa88", null ],
-    [ "GetLiquidFlagsPtr", "d4/d27/a05341.html#ae6be88472cb03382ebd998178371cb60", null ],
-    [ "IsVMAPDisabledForPtr", "d4/d27/a05341.html#a38ceb27a94583eafa30dddd92239d6ca", null ]
+    [ "IVMapMgr", "d4/d27/a05341.html#a8fcc2ababfadc1bf662c56645c04841e", null ],
+    [ "~IVMapMgr", "d4/d27/a05341.html#adbc38672af6f30bc4887d2737e6097e5", null ],
+    [ "existsMap", "d4/d27/a05341.html#ab63074f237876ebc9b93242f44c95b40", null ],
+    [ "getDirFileName", "d4/d27/a05341.html#a6fb9bd31760b72279499e5e884d12a04", null ],
+    [ "isHeightCalcEnabled", "d4/d27/a05341.html#a0a3b250f0674709fac851c6e63bedd51", null ],
+    [ "isLineOfSightCalcEnabled", "d4/d27/a05341.html#a9b88973ec447dee3a990e11f1fa74873", null ],
+    [ "isMapLoadingEnabled", "d4/d27/a05341.html#ae327405db5140e3a27fe767be8ca8a66", null ],
+    [ "processCommand", "d4/d27/a05341.html#a8697455fead0cfed30ba955c9abf934f", null ],
+    [ "setEnableHeightCalc", "d4/d27/a05341.html#a5642a08f1cbd688985314fb821525c95", null ],
+    [ "setEnableLineOfSightCalc", "d4/d27/a05341.html#a7984e19b44c6f8ce16ecea8e823a4b14", null ],
+    [ "iEnableHeightCalc", "d4/d27/a05341.html#a3ce407c232386fbe00958660457474e4", null ],
+    [ "iEnableLineOfSightCalc", "d4/d27/a05341.html#a83c2317151591bf2c72d33e19007125a", null ]
 ];

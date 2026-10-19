@@ -1,4 +1,7 @@
 var a11545 =
 [
-    [ "IllegalHyperlinkException", "dd/d2f/a11545.html#a4bcd96d907fb882d147b0e29495f5c1d", null ]
+    [ "TrainerBuySpell", "dd/d2f/a11545.html#a8afb92fb908d5efd54bcb78269069d39", null ],
+    [ "Read", "dd/d2f/a11545.html#aa916b9d01157f5f8e98efbcacb3bb5a2", null ],
+    [ "SpellID", "dd/d2f/a11545.html#ae342c806c8faabae54260a26659d49ea", null ],
+    [ "TrainerGUID", "dd/d2f/a11545.html#aca1d9dc89b96415a5065a67f7083423c", null ]
 ];

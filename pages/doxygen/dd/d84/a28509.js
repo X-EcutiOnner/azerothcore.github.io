@@ -1,5 +1,6 @@
 var a28509 =
 [
-    [ "item_mysterious_egg", "dd/d84/a28509.html#ac32e296dcb700f32f6d0296f2921e6c7", null ],
-    [ "OnExpire", "dd/d84/a28509.html#a5ea72284626826b75819f89b3b91c540", null ]
+    [ "go_amberpine_outhouse", "dd/d84/a28509.html#a953ea72b3954c89b6c391de5aca3b6ce", null ],
+    [ "OnGossipHello", "dd/d84/a28509.html#a7cbfc3a091ad2332fd46140a24ac4e37", null ],
+    [ "OnGossipSelect", "dd/d84/a28509.html#aa55fe049ba43dbd548ba55d982d89d51", null ]
 ];

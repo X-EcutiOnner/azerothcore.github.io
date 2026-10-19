@@ -1,10 +1,7 @@
 var a25097 =
 [
-    [ "HandleTickUpdate", "d9/d37/a25097.html#aa9c1d6c644a3e42b21d1025fc3b06f69", null ],
-    [ "PrepareAuraScript", "d9/d37/a25097.html#aa930d63d22acf8e7aebbdd828cd09f36", null ],
-    [ "Register", "d9/d37/a25097.html#abf597eb55f63858528325eef387fc344", null ],
-    [ "SetTickHeal", "d9/d37/a25097.html#a2eabcc9aa3898c11062677eca73d1de1", null ],
-    [ "Validate", "d9/d37/a25097.html#ab59a1830ca97e1bda455da330a894d5c", null ],
-    [ "_baseReduction", "d9/d37/a25097.html#a8a3a8adce3dde9300e380500c6877d37", null ],
-    [ "_baseTick", "d9/d37/a25097.html#acd801570e2a1b274ed0d9e8bcc6b66f0", null ]
+    [ "HandleProc", "d9/d37/a25097.html#affff04bf12559312333c70672dc8407f", null ],
+    [ "PrepareAuraScript", "d9/d37/a25097.html#aa604bb8cc1fd9d94ee494c7bc96c5a5b", null ],
+    [ "Register", "d9/d37/a25097.html#ae2ee810101bd32c061c3e06dea99d7cb", null ],
+    [ "Validate", "d9/d37/a25097.html#afc60c67af40f55b7a0017e5143bb52f7", null ]
 ];

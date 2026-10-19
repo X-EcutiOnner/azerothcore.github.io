@@ -1,6 +1,6 @@
 var a20725 =
 [
-    [ "HandleDamage", "d0/d32/a20725.html#af2578478e83eb2f6c2de32a692e9be91", null ],
-    [ "PrepareSpellScript", "d0/d32/a20725.html#a4ff1ab3534ea70b07b3a570afcb046fd", null ],
-    [ "Register", "d0/d32/a20725.html#a3ad00520c380e36dbb3531df0b5cc864", null ]
+    [ "OnRemoveStun", "d0/d32/a20725.html#a67aeca34d32c43ff647dc2dbe83cbb7f", null ],
+    [ "PrepareAuraScript", "d0/d32/a20725.html#a0be1d9a7dcba0bff75d59aed926efe55", null ],
+    [ "Register", "d0/d32/a20725.html#a3166cfcd2acdcd4460217503d4008367", null ]
 ];

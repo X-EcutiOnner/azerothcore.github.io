@@ -1,9 +1,7 @@
 var a25445 =
 [
-    [ "PrepareAuraScript", "de/ddf/a25445.html#aebfc1dfb1ff025b0ef4a8c0062a000f1", null ],
-    [ "RefreshVisualShields", "de/ddf/a25445.html#aeefbbdd391c347b350ec7738b9825f8c", null ],
-    [ "Register", "de/ddf/a25445.html#aacd9f12cddd0c698816916d9cdf5f0ea", null ],
-    [ "RemoveDummyFromDriver", "de/ddf/a25445.html#a399641ce72b74038a4517868267bd86a", null ],
-    [ "RemoveVisualShields", "de/ddf/a25445.html#aed4bb9ec815ac4e22b952a64c8bd3b51", null ],
-    [ "Validate", "de/ddf/a25445.html#ae5799f72b7fbce82799fd730f1525948", null ]
+    [ "CalculateAmount", "de/ddf/a25445.html#a40ba021accd581745f07f2586545853c", null ],
+    [ "Load", "de/ddf/a25445.html#aa963b658637360305bb5f3d59eb9d061", null ],
+    [ "PrepareAuraScript", "de/ddf/a25445.html#a8fedbff305709145a7c004787ee50402", null ],
+    [ "Register", "de/ddf/a25445.html#ade9b6a408a1d5a83bdadd5bd2b0fbb2a", null ]
 ];

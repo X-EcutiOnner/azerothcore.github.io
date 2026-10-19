@@ -1,7 +1,6 @@
 var a13921 =
 [
-    [ "FilterTargets", "d3/d55/a13921.html#ae945b657d0fbee4d5ee5d6e7d15ef39b", null ],
-    [ "HandleHit", "d3/d55/a13921.html#a7e28d5d89f1e622f308e1a1bf7d5dae9", null ],
-    [ "PrepareSpellScript", "d3/d55/a13921.html#a905e1f979284a368463ad4829891b6ee", null ],
-    [ "Register", "d3/d55/a13921.html#a6b0d2fc316bef6af20199b15795b00b4", null ]
+    [ "HandlePeriodic", "d3/d55/a13921.html#aec1ff41f0051a6c6dfbd11ea7741b1af", null ],
+    [ "PrepareAuraScript", "d3/d55/a13921.html#a7ac99d626990f068a00f403847bfa6bc", null ],
+    [ "Register", "d3/d55/a13921.html#ad3c0a2c270d1b8c31761674f89500b8a", null ]
 ];

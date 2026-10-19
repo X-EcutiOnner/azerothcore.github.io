@@ -1,8 +1,6 @@
 var a20993 =
 [
-    [ "OnPeriodic", "d9/db8/a20993.html#aa49d1186ca6f5cdd628728a8a30c06a0", null ],
-    [ "OnRemove", "d9/db8/a20993.html#ad3a81506d71ed3d6ddffce7d8f902eb4", null ],
-    [ "PrepareAuraScript", "d9/db8/a20993.html#a63b654cf540e331e4d2b4f4ece5c1fcc", null ],
-    [ "Register", "d9/db8/a20993.html#a004ba2e0e83a14bef3cae208a45f222b", null ],
-    [ "Validate", "d9/db8/a20993.html#aa56622a1e57c157260940023a6c70a35", null ]
+    [ "OnPeriodic", "d9/db8/a20993.html#a5247db3b621d1d499b9e22e16c7a951a", null ],
+    [ "PrepareAuraScript", "d9/db8/a20993.html#a6aa46e818199da206e6543005a7fe87f", null ],
+    [ "Register", "d9/db8/a20993.html#ab64dfdda3c09e65cfaeb90d20a5212ed", null ]
 ];

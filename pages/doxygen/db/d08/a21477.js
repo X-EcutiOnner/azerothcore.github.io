@@ -1,11 +1,6 @@
 var a21477 =
 [
-    [ "boss_archavonAI", "db/d08/a21477.html#a101518193c0fb6bbd6892362a6f09b9c", null ],
-    [ "AttackStart", "db/d08/a21477.html#ac9f82f61ee7fe945cb3fba23a69e704c", null ],
-    [ "JustDied", "db/d08/a21477.html#a3974065a80dedf3e673452e7f6f8e449", null ],
-    [ "JustEngagedWith", "db/d08/a21477.html#ace4a10f62eaa21ecd997ad1dbe15f3c8", null ],
-    [ "Reset", "db/d08/a21477.html#a7d101626f39947dd54b574491a5e6d72", null ],
-    [ "UpdateAI", "db/d08/a21477.html#a5abb4c2b4149172d2e7bf0d539237323", null ],
-    [ "events", "db/d08/a21477.html#a8d7fef6dfcdc5be20f0531c34b09fc13", null ],
-    [ "pInstance", "db/d08/a21477.html#ab51f09b76054d8bdb13f3c27396db87e", null ]
+    [ "boss_svalaAI", "da/dbb/a21481.html", "da/dbb/a21481" ],
+    [ "boss_svala", "db/d08/a21477.html#a7ac5866eb6a013cb03f3d459b13b4a62", null ],
+    [ "GetAI", "db/d08/a21477.html#a0c3b94635eca667a28496cf799efad25", null ]
 ];

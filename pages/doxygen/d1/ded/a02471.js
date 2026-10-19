@@ -1,5 +1,18 @@
 var a02471 =
 [
-    [ "Acore::BattlegroundChatBuilder", "dc/d54/a07751.html", "dc/d54/a07751" ],
-    [ "Acore::Battleground2ChatBuilder", "d2/d28/a07755.html", "d2/d28/a07755" ]
+    [ "GroupQueueInfo", "d6/df3/a07789.html", "d6/df3/a07789" ],
+    [ "BattlegroundQueue", "d8/d60/a07793.html", "d8/d60/a07793" ],
+    [ "BattlegroundQueue::SelectionPool", "d6/d7b/a07797.html", "d6/d7b/a07797" ],
+    [ "BGQueueInviteEvent", "d8/dea/a07801.html", "d8/dea/a07801" ],
+    [ "BGQueueRemoveEvent", "df/d6f/a07805.html", "df/d6f/a07805" ],
+    [ "BattlegroundQueueGroupTypes", "d1/ded/a02471.html#a589e9d4a3badd48f91fddc2afa661b17", [
+      [ "BG_QUEUE_PREMADE_ALLIANCE", "d1/ded/a02471.html#a589e9d4a3badd48f91fddc2afa661b17a8f1f06d0124e05efcb390e0e9a29ddf4", null ],
+      [ "BG_QUEUE_PREMADE_HORDE", "d1/ded/a02471.html#a589e9d4a3badd48f91fddc2afa661b17a39d0b398e1bcd59620eb0f8701139d1c", null ],
+      [ "BG_QUEUE_NORMAL_ALLIANCE", "d1/ded/a02471.html#a589e9d4a3badd48f91fddc2afa661b17a4b31b889f93f89bfaacde424717c2697", null ],
+      [ "BG_QUEUE_NORMAL_HORDE", "d1/ded/a02471.html#a589e9d4a3badd48f91fddc2afa661b17aea585c62a155542b2d643e25d554f15d", null ],
+      [ "BG_QUEUE_CFBG", "d1/ded/a02471.html#a589e9d4a3badd48f91fddc2afa661b17ab87d2294b56bc938b1c7bc14c5040239", null ],
+      [ "BG_QUEUE_MAX", "d1/ded/a02471.html#a589e9d4a3badd48f91fddc2afa661b17adc82de1f737fd5356f21d83ade1ff992", null ]
+    ] ],
+    [ "BG_QUEUE_ANNOUNCER_IMMEDIATE_DEBOUNCE", "d1/ded/a02471.html#a532cb5269831c504ba78101c6f3d61c9", null ],
+    [ "COUNT_OF_PLAYERS_TO_AVERAGE_WAIT_TIME", "d1/ded/a02471.html#aebc536d6c303d31049ad05f333c275ba", null ]
 ];

@@ -1,7 +1,6 @@
 var a18445 =
 [
-    [ "HandleProc", "d9/d2c/a18445.html#a6d63b76821dbbd025bec1e8d48c8e9c9", null ],
-    [ "PrepareAuraScript", "d9/d2c/a18445.html#a5eace3a973165eb82ae95b8052bb9476", null ],
-    [ "Register", "d9/d2c/a18445.html#aa5b01193a7b6e58935c261c80e6a0d9a", null ],
-    [ "Validate", "d9/d2c/a18445.html#ad2a7488006b16840e02b450cc9150289", null ]
+    [ "HandlePeriodic", "d9/d2c/a18445.html#a9583ccd7b642694a06bde4b88826ec7b", null ],
+    [ "PrepareAuraScript", "d9/d2c/a18445.html#a5d855d79247dff6f949a5e099abb9352", null ],
+    [ "Register", "d9/d2c/a18445.html#ae797de0ed29b3ca179c07d759b469228", null ]
 ];

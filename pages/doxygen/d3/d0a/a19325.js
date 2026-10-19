@@ -1,6 +1,5 @@
 var a19325 =
 [
-    [ "npc_icc_skybreaker_hierophantAI", "d6/df7/a19329.html", "d6/df7/a19329" ],
-    [ "npc_icc_skybreaker_hierophant", "d3/d0a/a19325.html#a4cd3b2aa3d71c30853c687da8b8ca959", null ],
-    [ "GetAI", "d3/d0a/a19325.html#a2b0627bf059dfbce556bfa3ed4e97552", null ]
+    [ "at_icc_saurfang_portal", "d3/d0a/a19325.html#a7f30058251c520634a0b7bad08380e5d", null ],
+    [ "OnTrigger", "d3/d0a/a19325.html#a8980fe0e67aa33335f0fdb947a294213", null ]
 ];

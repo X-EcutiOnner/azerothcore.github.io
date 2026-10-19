@@ -1,6 +1,16 @@
 var a19717 =
 [
-    [ "boss_thaddiusAI", "d1/d03/a19721.html", "d1/d03/a19721" ],
-    [ "boss_thaddius", "de/d23/a19717.html#aff97b030b861feb646e1b22f60ee3605", null ],
-    [ "GetAI", "de/d23/a19717.html#acf841c6897396f517a74932fc3480e69", null ]
+    [ "boss_nothAI", "de/d23/a19717.html#a0a1f8e88396b04d070c4034b2419f0bb", null ],
+    [ "EnterEvadeMode", "de/d23/a19717.html#af0c4cfb04564b23840ee88dfa1badf55", null ],
+    [ "IsInRoom", "de/d23/a19717.html#a8e9c27804ae01e46285a3bed42091754", null ],
+    [ "JustDied", "de/d23/a19717.html#a18dd73c178eff3170d371c4bd4062b76", null ],
+    [ "JustEngagedWith", "de/d23/a19717.html#aed044bf36d56b2241e591eb45999900b", null ],
+    [ "JustSummoned", "de/d23/a19717.html#a61e814ce0a861ba98ccc21d8d6df128a", null ],
+    [ "KilledUnit", "de/d23/a19717.html#a1d5b013cdbaab702a85fc1d344ad6f6a", null ],
+    [ "Reset", "de/d23/a19717.html#a311754fa1fa1b112272395179e3b1bff", null ],
+    [ "StartBalconyPhase", "de/d23/a19717.html#ac890e5f4e6e9e40d78e75d2c86bd6740", null ],
+    [ "StartGroundPhase", "de/d23/a19717.html#a3ae5f948e2faf051b1cb88cd638c612e", null ],
+    [ "SummonHelper", "de/d23/a19717.html#abfe6252bec42fdc3d7738aef3dd2ec74", null ],
+    [ "UpdateAI", "de/d23/a19717.html#a87f4e825fb8f9f48991d5dcf94af78e3", null ],
+    [ "timesInBalcony", "de/d23/a19717.html#a249c96d4230bd2b43c4be733317c4bc4", null ]
 ];

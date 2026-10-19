@@ -1,6 +1,8 @@
 var a14461 =
 [
-    [ "go", "d0/db4/a14461.html#ac14168f8c25efe7fa22ec802259b3a11", null ],
-    [ "npc", "d0/db4/a14461.html#a04d6e67fa2fb208ca747798ccc53083d", null ],
-    [ "pos", "d0/db4/a14461.html#a51175880a326101b29879d7a6a62c48d", null ]
+    [ "FilterTargets", "d0/db4/a14461.html#a43e45471ad3b8a0583aeb413d48a0f01", null ],
+    [ "OnHit", "d0/db4/a14461.html#ac25886536c353f09838188362fb8ae84", null ],
+    [ "PrepareSpellScript", "d0/db4/a14461.html#aab0e63163b8d84f20bbe0bcdc60c9a85", null ],
+    [ "Register", "d0/db4/a14461.html#afa419365236c09914f758846978e2cbb", null ],
+    [ "Validate", "d0/db4/a14461.html#ae62334ed5f46641def4a38ee178cd9d0", null ]
 ];

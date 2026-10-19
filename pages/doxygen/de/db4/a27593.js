@@ -1,9 +1,6 @@
 var a27593 =
 [
-    [ "HandleHeal", "de/db4/a27593.html#ad2d854d275dc6f8b67b866d864b6febe", null ],
-    [ "Load", "de/db4/a27593.html#a507a7a4ff11f8bf1157e034d086cd9ad", null ],
-    [ "PrepareSpellScript", "de/db4/a27593.html#a91eb46af707897f228e5d1bbd199a833", null ],
-    [ "Register", "de/db4/a27593.html#ae28f1b0c23511153eafc037cae067bc0", null ],
-    [ "firstHeal", "de/db4/a27593.html#a405326e6e1cd82816aef1712fdf335a0", null ],
-    [ "riptide", "de/db4/a27593.html#acaec32f6730bc2e04e613aa982d285bf", null ]
+    [ "CheckProc", "de/db4/a27593.html#ae8f06d0b6738c92a2e4a45fe0ca81cb9", null ],
+    [ "PrepareAuraScript", "de/db4/a27593.html#aafd3eba8af1edb89ded08b056f9b497c", null ],
+    [ "Register", "de/db4/a27593.html#aeb1d84b45afc05b8b9ca5cea2a50f5a4", null ]
 ];

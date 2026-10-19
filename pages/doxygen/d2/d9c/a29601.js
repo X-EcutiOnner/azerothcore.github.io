@@ -1,7 +1,7 @@
 var a29601 =
 [
-    [ "TalentSpellPos", "d2/d9c/a29601.html#a1f28fdb07c5f3bc3a417a2d50d57481c", null ],
-    [ "TalentSpellPos", "d2/d9c/a29601.html#afcdb60f43c619209f8c7d9d8d118a89d", null ],
-    [ "rank", "d2/d9c/a29601.html#a46a495cd1d17302d074037ad5ea9c89e", null ],
-    [ "talent_id", "d2/d9c/a29601.html#a06421cba633b9ea52cb4b95d4ce4527d", null ]
+    [ "ClassMask", "d2/d9c/a29601.html#acae4582c147b5fd95780ae7b55d36fdc", null ],
+    [ "petTalentMask", "d2/d9c/a29601.html#a22ab1cf8ad05e57d91a63e3876ae2b77", null ],
+    [ "tabpage", "d2/d9c/a29601.html#aa6389276582adeb4cae76c257734795c", null ],
+    [ "TalentTabID", "d2/d9c/a29601.html#ae3a71c61223b59185365819164715dc2", null ]
 ];

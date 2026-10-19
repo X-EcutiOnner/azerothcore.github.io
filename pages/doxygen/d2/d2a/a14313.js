@@ -1,6 +1,11 @@
 var a14313 =
 [
-    [ "npc_jaina_proudmoore_bfuAI", "d6/dcf/a14317.html", "d6/dcf/a14317" ],
-    [ "npc_jaina_proudmoore_bfu", "d2/d2a/a14313.html#af96c4fac318f44cf6e70817b6960999f", null ],
-    [ "GetAI", "d2/d2a/a14313.html#a4ed6349a5ebdd90053f9d67d24ab6991", null ]
+    [ "npc_valkyr_battle_maiden", "d2/d2a/a14313.html#a718f5058fd6d6f1d27b88991b91ef42e", null ],
+    [ "Reset", "d2/d2a/a14313.html#a98bdd53f82cb30908485de8834106ef8", null ],
+    [ "UpdateAI", "d2/d2a/a14313.html#a981237a3192d65117864daed0ac83197", null ],
+    [ "FlyBackTimer", "d2/d2a/a14313.html#ab6843fb900cebc4659a98837a6d678a7", null ],
+    [ "phase", "d2/d2a/a14313.html#a83cf215a2f4c8fea4c87c4dc43398298", null ],
+    [ "x", "d2/d2a/a14313.html#a26087a56f66a399c4b444a7e226d82f3", null ],
+    [ "y", "d2/d2a/a14313.html#a55eb219c646ecd63b99745792c1c8a03", null ],
+    [ "z", "d2/d2a/a14313.html#af9781f785ebde34cab533cff9cf2b8db", null ]
 ];

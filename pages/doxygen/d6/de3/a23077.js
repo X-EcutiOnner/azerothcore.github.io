@@ -1,6 +1,7 @@
 var a23077 =
 [
-    [ "boss_essence_of_angerAI", "d9/deb/a23081.html", "d9/deb/a23081" ],
-    [ "boss_essence_of_anger", "d6/de3/a23077.html#adf8151d1fbb4a258f174c4bdb8410cd6", null ],
-    [ "GetAI", "d6/de3/a23077.html#a70a460f31b7f878e532b695ca822ab5d", null ]
+    [ "PrepareAuraScript", "d6/de3/a23077.html#afb2e94c1e67b12b7350d83241b3f2864", null ],
+    [ "Register", "d6/de3/a23077.html#a0a5ac432eca09206ac032317e8aa8cfc", null ],
+    [ "Update", "d6/de3/a23077.html#aa0da369c2047df144c4a9af37a2ea13c", null ],
+    [ "Validate", "d6/de3/a23077.html#a70248cfa468dfb3a97ea7f8b6848bc5f", null ]
 ];

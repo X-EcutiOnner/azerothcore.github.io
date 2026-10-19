@@ -1,11 +1,14 @@
 var a09265 =
 [
-    [ "VehicleSeatAddon", "d5/dbc/a09265.html#a307b278917998116156e41f9189a582c", null ],
-    [ "VehicleSeatAddon", "d5/dbc/a09265.html#adaec12df869a9ffc81174f5ef1f65606", null ],
-    [ "ExitParameter", "d5/dbc/a09265.html#afbb8de193522f1182efff50064e5f83d", null ],
-    [ "ExitParameterO", "d5/dbc/a09265.html#a06e385ea5cf0441721432925251a5a63", null ],
-    [ "ExitParameterX", "d5/dbc/a09265.html#a521d7a5eda620d0ced0b1309f3c96e17", null ],
-    [ "ExitParameterY", "d5/dbc/a09265.html#ad343c7149b12cffe3a3de48ad73685a2", null ],
-    [ "ExitParameterZ", "d5/dbc/a09265.html#add1ea5a9e605a49d0ddbcea0f804bd3b", null ],
-    [ "SeatOrientationOffset", "d5/dbc/a09265.html#a374c73b40f6e6dad103b172d1829a31d", null ]
+    [ "SafeUnitPointer", "d5/dbc/a09265.html#a05ee5199683b1e68189a7d122bf3f5f4", null ],
+    [ "SafeUnitPointer", "d5/dbc/a09265.html#a2ced82b4a80e1e2d91bbb1d63d5ca796", null ],
+    [ "~SafeUnitPointer", "d5/dbc/a09265.html#ad9c2be82f67eb4e825a9ffd07307983a", null ],
+    [ "Initialize", "d5/dbc/a09265.html#a40f6e04585ca487c457d17ce10cc7b8c", null ],
+    [ "operator Unit *", "d5/dbc/a09265.html#afee1d290f436472dd719ff83f41721f5", null ],
+    [ "operator->", "d5/dbc/a09265.html#af63a04a7c6e6cb3002f5a99f90f70328", null ],
+    [ "operator=", "d5/dbc/a09265.html#a44f522d9c22861f853df0286a3764d3e", null ],
+    [ "SetPointedTo", "d5/dbc/a09265.html#a6603c67b736224a8e6559340afa8b275", null ],
+    [ "UnitDeleted", "d5/dbc/a09265.html#a872b0a86328fb03e5feccdf364ea5cce", null ],
+    [ "defaultValue", "d5/dbc/a09265.html#a38dce117cb135c9b84918a9bbc884f28", null ],
+    [ "ptr", "d5/dbc/a09265.html#aa8bf5e4728aeb1ca7a8de1a727a84884", null ]
 ];

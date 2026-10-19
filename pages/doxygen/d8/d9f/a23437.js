@@ -1,11 +1,9 @@
 var a23437 =
 [
-    [ "boss_ahune", "d8/d9f/a23437.html#aa3d15e1ab37843761d9f7c56d2e5a319", null ],
-    [ "DoAction", "d8/d9f/a23437.html#a9e197e8a5ecbad8487c7bad7647e6d2c", null ],
-    [ "Emerge", "d8/d9f/a23437.html#a6404a8255566f2eaa061a89025e2bdcd", null ],
-    [ "EnterEvadeMode", "d8/d9f/a23437.html#a2b906881621e59143a916c588beb70e7", null ],
-    [ "ExecuteEvent", "d8/d9f/a23437.html#a46b477aef635de1d3ec88baa2465089f", null ],
-    [ "JustDied", "d8/d9f/a23437.html#af2fc7c071321653a644ee569ead67d63", null ],
-    [ "JustEngagedWith", "d8/d9f/a23437.html#aaffc4f54544c8aa4529b249560ddeeec", null ],
-    [ "Submerge", "d8/d9f/a23437.html#aad68758720cc1cb703f8f2dc72c09af2", null ]
+    [ "boss_morogrim_tidewalker", "d8/d9f/a23437.html#a138a200da298f64697e2e47fb8004ccb", null ],
+    [ "JustDied", "d8/d9f/a23437.html#a139d87e7cffe03183538eb493e063195", null ],
+    [ "JustEngagedWith", "d8/d9f/a23437.html#a3244672aeb994673e1f46708699bcc2c", null ],
+    [ "JustSummoned", "d8/d9f/a23437.html#a2b669007520094948138c95468b77f9f", null ],
+    [ "KilledUnit", "d8/d9f/a23437.html#a2db94919e6d6f3d4eda4addc4248976e", null ],
+    [ "Reset", "d8/d9f/a23437.html#a78ed1d1f8c55407497a4fb679587975d", null ]
 ];

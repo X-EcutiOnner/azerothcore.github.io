@@ -1,6 +1,5 @@
 var a28365 =
 [
-    [ "go_pirate_day_musicAI", "d3/d56/a28369.html", "d3/d56/a28369" ],
-    [ "go_pirate_day_music", "d2/da0/a28365.html#aa8d19102357639bd160eae9e90a87505", null ],
-    [ "GetAI", "d2/da0/a28365.html#a3bce105696415c9a31c5cbeb9607fa95", null ]
+    [ "go_resonite_cask", "d2/da0/a28365.html#a5a89aa97a4cd31d7ae183649ee750b74", null ],
+    [ "OnGossipHello", "d2/da0/a28365.html#aae8591d53a6983886b52d404acdba293", null ]
 ];

@@ -1,5 +1,6 @@
 var a05060 =
 [
-    [ "ACORE_LINKAGE_TYPE_STR", "dc/d96/a05060.html#a498cc8d79612cf645e7afc2ceb4174f3", null ],
-    [ "AZEROTH_PLATFORM_STR", "dc/d96/a05060.html#af7cd76a18bc19a0ec34ac7693e406971", null ]
+    [ "IpLocationRecord", "df/ddb/a05729.html", "df/ddb/a05729" ],
+    [ "IpLocationStore", "d1/dc7/a05733.html", "d1/dc7/a05733" ],
+    [ "sIPLocation", "dc/d96/a05060.html#a85e62bd98f395189fea9c9514d44fc31", null ]
 ];

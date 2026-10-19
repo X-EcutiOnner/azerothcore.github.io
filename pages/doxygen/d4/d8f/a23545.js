@@ -1,6 +1,7 @@
 var a23545 =
 [
-    [ "instance_steam_vault_InstanceMapScript", "d3/dbe/a23549.html", "d3/dbe/a23549" ],
-    [ "instance_steam_vault", "d4/d8f/a23545.html#aa3417083841ccb50c8a2f29ba343e115", null ],
-    [ "GetInstanceScript", "d4/d8f/a23545.html#a3a2edb84cc7067d3c8fa2151b4763c5a", null ]
+    [ "HandleScriptEffect", "d4/d8f/a23545.html#ace1bb0dd5a76aa75038060af16b2e09f", null ],
+    [ "PrepareSpellScript", "d4/d8f/a23545.html#ab3f6d24643b75482d5f96779a5bdda11", null ],
+    [ "Register", "d4/d8f/a23545.html#a14772c25b70078c0034b8de17de5b77a", null ],
+    [ "Validate", "d4/d8f/a23545.html#a8318385367bf6c6b09e0978c461f5d59", null ]
 ];

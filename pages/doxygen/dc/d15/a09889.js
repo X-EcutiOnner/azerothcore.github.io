@@ -1,10 +1,9 @@
 var a09889 =
 [
-    [ "AnyPlayerInObjectRangeCheck", "dc/d15/a09889.html#ae636bd72045687920ec1d460508bc74b", null ],
-    [ "operator()", "dc/d15/a09889.html#ac1eda8f85259230fb382a3b6e58b6798", null ],
-    [ "operator()", "dc/d15/a09889.html#a70c477213c8b271d3402857edd87ef8b", null ],
-    [ "_disallowGM", "dc/d15/a09889.html#a9c43efd575de2edfdaa0b84def91c727", null ],
-    [ "_obj", "dc/d15/a09889.html#a07a346225f675433792d2298673acd1f", null ],
-    [ "_range", "dc/d15/a09889.html#ae372500b3a21cb65a11045dcc6f094a8", null ],
-    [ "_reqAlive", "dc/d15/a09889.html#af1e397c5033711e65d9ac5b35311e893", null ]
+    [ "NearestHostileUnitCheck", "dc/d15/a09889.html#aa1d706a1eb1de6168b568e70008e2d3b", null ],
+    [ "NearestHostileUnitCheck", "dc/d15/a09889.html#a2fe620370289850eb0362823de2072d1", null ],
+    [ "operator()", "dc/d15/a09889.html#a04c85a77d660bbc74279d1062dabc375", null ],
+    [ "i_playerOnly", "dc/d15/a09889.html#a64c5fce466521a6d6d78eeda0708d65e", null ],
+    [ "m_range", "dc/d15/a09889.html#a801d56a180e196943cfc2cefb6c5dda5", null ],
+    [ "me", "dc/d15/a09889.html#a67cef25e6f725ea42f0377df34d48495", null ]
 ];

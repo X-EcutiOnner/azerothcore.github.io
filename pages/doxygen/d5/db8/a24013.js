@@ -1,7 +1,6 @@
 var a24013 =
 [
-    [ "Load", "d5/db8/a24013.html#aba7e1a0b87607386649bb842b5058c3e", null ],
-    [ "OnRemove", "d5/db8/a24013.html#ac2f7a4532f62fb49f54c60b79aceb2e8", null ],
-    [ "PrepareAuraScript", "d5/db8/a24013.html#ac62b18eedbadb0b3581d772909175e96", null ],
-    [ "Register", "d5/db8/a24013.html#a17e8be131f01b2434b18740b20a08d6e", null ]
+    [ "AfterRemove", "d5/db8/a24013.html#a1794dcf8ebca0bd0c4fce5acb8b45de0", null ],
+    [ "PrepareAuraScript", "d5/db8/a24013.html#ad5871ce865820456177362c6b790778f", null ],
+    [ "Register", "d5/db8/a24013.html#a41e19fb2509051bbd2d9e43c59f16486", null ]
 ];

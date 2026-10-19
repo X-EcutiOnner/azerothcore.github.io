@@ -1,9 +1,6 @@
 var a14493 =
 [
-    [ "npc_amanishi_lookout", "d1/dd7/a14493.html#adf34c160c531164a459092f45588a7be", null ],
-    [ "DoAction", "d1/dd7/a14493.html#ab43e3372000af268c81e2701070e1b03", null ],
-    [ "MoveInLineOfSight", "d1/dd7/a14493.html#ab94c8563d7c79279ed4922f1d0411ec9", null ],
-    [ "MovementInform", "d1/dd7/a14493.html#ae9e6d22a781392107a7e50e5815c116c", null ],
-    [ "Reset", "d1/dd7/a14493.html#a42f8e96876f07e37fc4533b7eb732db3", null ],
-    [ "_instance", "d1/dd7/a14493.html#ab1557ad1a2cc6574c200ef691596b0c6", null ]
+    [ "go", "d1/dd7/a14493.html#ac14168f8c25efe7fa22ec802259b3a11", null ],
+    [ "npc", "d1/dd7/a14493.html#a04d6e67fa2fb208ca747798ccc53083d", null ],
+    [ "pos", "d1/dd7/a14493.html#a51175880a326101b29879d7a6a62c48d", null ]
 ];

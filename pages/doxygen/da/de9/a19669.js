@@ -1,7 +1,7 @@
 var a19669 =
 [
-    [ "OnPeriodic", "da/de9/a19669.html#ae685e9d36b85af8a7e33cefbd439a2f4", null ],
-    [ "PrepareAuraScript", "da/de9/a19669.html#a1362103840db4b3c40ef7d6b0aa5226c", null ],
-    [ "Register", "da/de9/a19669.html#a39b03ebd7f6233f373f52e34f18dad10", null ],
-    [ "Validate", "da/de9/a19669.html#a54cfed486827216817adb740efa6646e", null ]
+    [ "FilterTargets", "da/de9/a19669.html#af92aec0df6c962a10ccbebb366081cfd", null ],
+    [ "PrepareSpellScript", "da/de9/a19669.html#ad7ccb2b2024887ec0a9802454a8bfaec", null ],
+    [ "Register", "da/de9/a19669.html#af59416debfc7685bec92541a00e1dafe", null ],
+    [ "Validate", "da/de9/a19669.html#abbe7ae557fb510457504f72adfa0aedc", null ]
 ];

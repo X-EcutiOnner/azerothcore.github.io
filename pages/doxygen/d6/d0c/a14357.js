@@ -1,6 +1,7 @@
 var a14357 =
 [
-    [ "npc_andorhal_towerAI", "d9/d5e/a14361.html", "d9/d5e/a14361" ],
-    [ "npc_andorhal_tower", "d6/d0c/a14357.html#abf63419b6c10af47f5e5df1a4e7320e7", null ],
-    [ "GetAI", "d6/d0c/a14357.html#a51139c28da736d26bf27a061862d24ee", null ]
+    [ "boss_blight_wormAI", "d6/d0c/a14357.html#af267e395fbd539f871e498dc6745c610", null ],
+    [ "Reset", "d6/d0c/a14357.html#a96e27eaba5c9e422981d78123ed9c83d", null ],
+    [ "UpdateAI", "d6/d0c/a14357.html#ac8e4c5a7a251173a2afb369498c88a1d", null ],
+    [ "_events", "d6/d0c/a14357.html#a65f7fd4f73c727eeb5988d7ec77b94ce", null ]
 ];

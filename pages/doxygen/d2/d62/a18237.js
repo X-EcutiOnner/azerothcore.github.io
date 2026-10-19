@@ -1,10 +1,7 @@
 var a18237 =
 [
-    [ "npc_cult_fanaticAI", "d2/d62/a18237.html#a766e536288b84110f88a8bd282e97932", null ],
-    [ "JustEngagedWith", "d2/d62/a18237.html#a709b75f4b1519bc7c6988985a22d076f", null ],
-    [ "Reset", "d2/d62/a18237.html#a772830df1d16d0463c8c00f14c337db0", null ],
-    [ "SpellHit", "d2/d62/a18237.html#a17c02a83b522c9717de3d89517104e42", null ],
-    [ "UpdateAI", "d2/d62/a18237.html#ac79afdab3721d78d2b7e5da360083cea", null ],
-    [ "_instance", "d2/d62/a18237.html#a7448fdf85cccfcb12509b0274205bff4", null ],
-    [ "events", "d2/d62/a18237.html#a9576978141062fa1babbbc5ed42483c4", null ]
+    [ "HandleScript", "d2/d62/a18237.html#ae3e8d811d3ad6561768dfff3a16ec9bd", null ],
+    [ "PrepareSpellScript", "d2/d62/a18237.html#ab69926839f72ee76eba2b225aba9690c", null ],
+    [ "Register", "d2/d62/a18237.html#aad8925e891d7537993f02f3bc2552fea", null ],
+    [ "SelectRandomTarget", "d2/d62/a18237.html#aae77f6693a3e5d01e3d05cb990fd1fe5", null ]
 ];

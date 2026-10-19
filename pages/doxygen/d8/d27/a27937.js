@@ -1,8 +1,8 @@
 var a27937 =
 [
-    [ "CheckProc", "d8/d27/a27937.html#a88fc4939e903f4914a41cf18b34ad344", null ],
-    [ "HandleProc", "d8/d27/a27937.html#a607054f11843147a09b202ea65f68b65", null ],
-    [ "PrepareAuraScript", "d8/d27/a27937.html#affe76b0d20d431ba459ceb42934689fc", null ],
-    [ "Register", "d8/d27/a27937.html#a99345afecc0612c33db996cebab99e09", null ],
-    [ "Validate", "d8/d27/a27937.html#a9b0a80cc044d198178bd629eb8731260", null ]
+    [ "Load", "d8/d27/a27937.html#af6c19828b80a6cc06e4c9c207e7c52b8", null ],
+    [ "OnRemove", "d8/d27/a27937.html#a097cf2a2abecda1e89f85bc4bd4ec029", null ],
+    [ "PrepareAuraScript", "d8/d27/a27937.html#a2161d27a90b3f87fd07f75723b6d9e13", null ],
+    [ "Register", "d8/d27/a27937.html#a932760326c822f1b47df1afdec6bb9cb", null ],
+    [ "Validate", "d8/d27/a27937.html#a69bcfedb7f566c572201aadc9e75df08", null ]
 ];

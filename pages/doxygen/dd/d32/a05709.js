@@ -1,9 +1,8 @@
 var a05709 =
 [
-    [ "IpLocationRecord", "dd/d32/a05709.html#a1dba2f8a7697c7e6fd427089d556c19a", null ],
-    [ "IpLocationRecord", "dd/d32/a05709.html#a10ffefef6ba7d81a23d5d29bc2ee599d", null ],
-    [ "CountryCode", "dd/d32/a05709.html#a9b54a497801e9da396955893473eb7da", null ],
-    [ "CountryName", "dd/d32/a05709.html#acbc8ea139970e7acbad06302d5666eb9", null ],
-    [ "IpFrom", "dd/d32/a05709.html#a97d36332086a339e07b73955f23acd57", null ],
-    [ "IpTo", "dd/d32/a05709.html#a844dfff114f6ce64b79c459527965bfb", null ]
+    [ "Decode", "dd/d32/a05709.html#aacf2a55e180aa5ee475ac76c6af4d47a", null ],
+    [ "Encode", "dd/d32/a05709.html#a51c8847dc9b75161f4d2d366324dc50f", null ],
+    [ "BITS_PER_CHAR", "dd/d32/a05709.html#a10f3736ee2ed8e79e1236798e2b1d2be", null ],
+    [ "DECODE_ERROR", "dd/d32/a05709.html#ace6b211be8a36043942f0a1aaee063b1", null ],
+    [ "PADDING", "dd/d32/a05709.html#af099d69cc636a7ad298ec9e38b2f20d2", null ]
 ];

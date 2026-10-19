@@ -1,6 +1,5 @@
 var a23297 =
 [
-    [ "OnPeriodic", "d5/d60/a23297.html#a4d3d6350a06b6c7382792670c04e38e1", null ],
-    [ "PrepareAuraScript", "d5/d60/a23297.html#ac9231c238adf7e733d55bc6098daddc0", null ],
-    [ "Register", "d5/d60/a23297.html#aa6aa32b3adc89ac405f071fa9b804778", null ]
+    [ "PrepareSpellScript", "d5/d60/a23297.html#a0482d714ce0b4cfd81b2fc7fa8c87f0d", null ],
+    [ "Register", "d5/d60/a23297.html#a7aa83bfd512ee0ff839f61bafe6dd27b", null ]
 ];

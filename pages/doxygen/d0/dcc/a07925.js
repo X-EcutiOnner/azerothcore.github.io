@@ -1,13 +1,13 @@
 var a07925 =
 [
-    [ "WhoListCacheMgr", "d0/dcc/a07925.html#a2190c113c3d38bd316b17a4400c113e6", null ],
-    [ "~WhoListCacheMgr", "d0/dcc/a07925.html#ae32706d7786014e142dc1cb9ccd29d70", null ],
-    [ "WhoListCacheMgr", "d0/dcc/a07925.html#a366e452317179d647042c24c56faafa1", null ],
-    [ "WhoListCacheMgr", "d0/dcc/a07925.html#ae0358ae9260f929410f6518f89135161", null ],
-    [ "GetWhoList", "d0/dcc/a07925.html#a4dec6544342fdc5052b69dcc61148453", null ],
-    [ "instance", "d0/dcc/a07925.html#a1e8ce970e3213cd0361af303df98b387", null ],
-    [ "operator=", "d0/dcc/a07925.html#a80615aa0a66ac29765f27598e605c712", null ],
-    [ "operator=", "d0/dcc/a07925.html#ab8aff37f9e66aef40ccb794928bc001c", null ],
-    [ "Update", "d0/dcc/a07925.html#a3db2ef832cf1413fb2e565ca0d922a80", null ],
-    [ "_whoListStorage", "d0/dcc/a07925.html#a75495cb910c6de65d60a5080248e1e25", null ]
+    [ "BattlegroundWGScore", "d0/dcc/a07925.html#a43b7933c5e217376e5bb10e9b5bb208b", null ],
+    [ "BuildObjectivesBlock", "d0/dcc/a07925.html#a804e56dbd666336d961cce2b0e4d6452", null ],
+    [ "GetAttr1", "d0/dcc/a07925.html#aab49f39d88989b153f1eb979fbbfaeb3", null ],
+    [ "GetAttr2", "d0/dcc/a07925.html#a191e205e08ef15cc36dabedc32614fd2", null ],
+    [ "GetFlagCaptures", "d0/dcc/a07925.html#a458db7f27a7e4a002e11a9561327ea1c", null ],
+    [ "GetFlagReturns", "d0/dcc/a07925.html#a7c602ee26cbca70d8496b68f331c3513", null ],
+    [ "UpdateScore", "d0/dcc/a07925.html#aa560d7f5f13dd235d43a9e3571090055", null ],
+    [ "BattlegroundWS", "d0/dcc/a07925.html#a4285b67c5d8593dce759422a4eb78c77", null ],
+    [ "FlagCaptures", "d0/dcc/a07925.html#a23ff00f10d07c1a601e9e1d0eb05b1da", null ],
+    [ "FlagReturns", "d0/dcc/a07925.html#ab400c9fb692ff157eb4809f0536c05f7", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: AchievementScript Class Reference</title>
+<title>AzerothCore: QuestStatusData Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,63 +106,38 @@ $(document).ready(function(){initNavTree('de/d4d/a10733.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pro-methods">Protected Member Functions</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../db/d77/a10730.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">AchievementScript Class Reference</div></div>
+  <div class="headertitle"><div class="title">QuestStatusData Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">AchievementScript.h</a>&quot;</code></p>
-<div class="dynheader">
-Inheritance diagram for AchievementScript:</div>
-<div class="dyncontent">
- <div class="center">
-  <img src="../../de/d4d/a10733.png" usemap="#AchievementScript_map" alt=""/>
-  <map id="AchievementScript_map" name="AchievementScript_map">
-<area href="../../d0/d4f/a10961.html" alt="ScriptObject" shape="rect" coords="0,0,118,24"/>
-  </map>
-</div></div>
+<p><code>#include &quot;<a class="el" href="../../">QuestDef.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a9ea2ed91c281e881404c31a948de0fc9"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4d/a10733.html#a9ea2ed91c281e881404c31a948de0fc9">IsDatabaseBound</a> () const override</td></tr>
-<tr class="separator:a9ea2ed91c281e881404c31a948de0fc9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acf6a63ba96da7b33a92d48a95a549d4e"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4d/a10733.html#acf6a63ba96da7b33a92d48a95a549d4e">SetRealmCompleted</a> (<a class="el" href="../../d2/dd9/a28901.html">AchievementEntry</a> const *)</td></tr>
-<tr class="separator:acf6a63ba96da7b33a92d48a95a549d4e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a33d7ba1a6bf82da8e2de367553c0fb52"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4d/a10733.html#a33d7ba1a6bf82da8e2de367553c0fb52">IsCompletedCriteria</a> (<a class="el" href="../../dc/ddb/a06481.html">AchievementMgr</a> *, <a class="el" href="../../d6/d8c/a28909.html">AchievementCriteriaEntry</a> const *, <a class="el" href="../../d2/dd9/a28901.html">AchievementEntry</a> const *, <a class="el" href="../../dc/d1b/a06365.html">CriteriaProgress</a> const *)</td></tr>
-<tr class="separator:a33d7ba1a6bf82da8e2de367553c0fb52"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abc54c295c1bcad45e21aed99e43a3713"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4d/a10733.html#abc54c295c1bcad45e21aed99e43a3713">IsRealmCompleted</a> (<a class="el" href="../../df/d98/a06485.html">AchievementGlobalMgr</a> const *, <a class="el" href="../../d2/dd9/a28901.html">AchievementEntry</a> const *, <a class="el" href="../../da/d70/a04967.html#ada798961abc5a533d616ff780f567bb6">SystemTimePoint</a>)</td></tr>
-<tr class="separator:abc54c295c1bcad45e21aed99e43a3713"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afac6fc03c2ba91165fbdf2ccc5422063"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4d/a10733.html#afac6fc03c2ba91165fbdf2ccc5422063">OnBeforeCheckCriteria</a> (<a class="el" href="../../dc/ddb/a06481.html">AchievementMgr</a> *, std::list&lt; <a class="el" href="../../d6/d8c/a28909.html">AchievementCriteriaEntry</a> const * &gt; const *)</td></tr>
-<tr class="separator:afac6fc03c2ba91165fbdf2ccc5422063"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aca4cb16b55f7990c676267b8f10b4e57"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4d/a10733.html#aca4cb16b55f7990c676267b8f10b4e57">CanCheckCriteria</a> (<a class="el" href="../../dc/ddb/a06481.html">AchievementMgr</a> *, <a class="el" href="../../d6/d8c/a28909.html">AchievementCriteriaEntry</a> const *)</td></tr>
-<tr class="separator:aca4cb16b55f7990c676267b8f10b4e57"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_methods_a10961"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a10961')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d0/d4f/a10961.html">ScriptObject</a></td></tr>
-<tr class="memitem:a37da453729d5c8fbe2d06f905563f47c inherit pub_methods_a10961"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d4f/a10961.html#a37da453729d5c8fbe2d06f905563f47c">IsDatabaseBound</a> () const</td></tr>
-<tr class="separator:a37da453729d5c8fbe2d06f905563f47c inherit pub_methods_a10961"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2f66339b1cdf1fde795c61cd24c8b0a2 inherit pub_methods_a10961"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d4f/a10961.html#a2f66339b1cdf1fde795c61cd24c8b0a2">isAfterLoadScript</a> () const</td></tr>
-<tr class="separator:a2f66339b1cdf1fde795c61cd24c8b0a2 inherit pub_methods_a10961"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a585e75e34aed7aa32205daad85f8fe08 inherit pub_methods_a10961"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d4f/a10961.html#a585e75e34aed7aa32205daad85f8fe08">checkValidity</a> ()</td></tr>
-<tr class="separator:a585e75e34aed7aa32205daad85f8fe08 inherit pub_methods_a10961"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3f66eb7597f020167b7d75202d28b83a inherit pub_methods_a10961"><td class="memItemLeft" align="right" valign="top">std::string const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d4f/a10961.html#a3f66eb7597f020167b7d75202d28b83a">GetName</a> () const</td></tr>
-<tr class="separator:a3f66eb7597f020167b7d75202d28b83a inherit pub_methods_a10961"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a69ee35ec7d54226264efef558022c1c0 inherit pub_methods_a10961"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/dca/a04670.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d4f/a10961.html#a69ee35ec7d54226264efef558022c1c0">GetTotalAvailableHooks</a> ()</td></tr>
-<tr class="separator:a69ee35ec7d54226264efef558022c1c0 inherit pub_methods_a10961"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae71725a7f75e10aacb6f4a9ca4b72f27"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4d/a10733.html#ae71725a7f75e10aacb6f4a9ca4b72f27">QuestStatusData</a> ()</td></tr>
+<tr class="separator:ae71725a7f75e10aacb6f4a9ca4b72f27"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-methods" name="pro-methods"></a>
-Protected Member Functions</h2></td></tr>
-<tr class="memitem:ab09a80bc238814358e1397da529e9584"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4d/a10733.html#ab09a80bc238814358e1397da529e9584">AchievementScript</a> (char const *name, std::vector&lt; <a class="el" href="../../d8/dca/a04670.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> &gt; enabledHooks=std::vector&lt; <a class="el" href="../../d8/dca/a04670.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> &gt;())</td></tr>
-<tr class="separator:ab09a80bc238814358e1397da529e9584"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pro_methods_a10961"><td colspan="2" onclick="javascript:toggleInherit('pro_methods_a10961')"><img src="../../closed.png" alt="-"/>&#160;Protected Member Functions inherited from <a class="el" href="../../d0/d4f/a10961.html">ScriptObject</a></td></tr>
-<tr class="memitem:a494e983ccabd1d2311fe3afe0c2afbe5 inherit pro_methods_a10961"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d4f/a10961.html#a494e983ccabd1d2311fe3afe0c2afbe5">ScriptObject</a> (char const *name, <a class="el" href="../../d8/dca/a04670.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> totalAvailableHooks=0)</td></tr>
-<tr class="separator:a494e983ccabd1d2311fe3afe0c2afbe5 inherit pro_methods_a10961"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a80c704c939f54eee6655d68509598c42 inherit pro_methods_a10961"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d4f/a10961.html#a80c704c939f54eee6655d68509598c42">~ScriptObject</a> ()=default</td></tr>
-<tr class="separator:a80c704c939f54eee6655d68509598c42 inherit pro_methods_a10961"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:a4ce7af3a64737d7961b6dfa19189c932"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/da9/a03869.html#abfc87d39d69176ad25e800fb4aa6f0d8">QuestStatus</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4d/a10733.html#a4ce7af3a64737d7961b6dfa19189c932">Status</a> {<a class="el" href="../../d6/da9/a03869.html#abfc87d39d69176ad25e800fb4aa6f0d8abefdf5f7417012e5d2adedf1dc155f28">QUEST_STATUS_NONE</a>}</td></tr>
+<tr class="separator:a4ce7af3a64737d7961b6dfa19189c932"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a16343f7a162e5b7b6a1a18345420c77a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d12/a04694.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4d/a10733.html#a16343f7a162e5b7b6a1a18345420c77a">Timer</a> {0}</td></tr>
+<tr class="separator:a16343f7a162e5b7b6a1a18345420c77a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a466999cea52f65bf58916bc34750bf95"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d12/a04694.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4d/a10733.html#a466999cea52f65bf58916bc34750bf95">ItemCount</a> [<a class="el" href="../../d6/da9/a03869.html#a5b538720bd7de8c4468dc6d21b412f10">QUEST_ITEM_OBJECTIVES_COUNT</a>]</td></tr>
+<tr class="separator:a466999cea52f65bf58916bc34750bf95"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa5892dc0744a41ac565568307f12ad35"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d12/a04694.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4d/a10733.html#aa5892dc0744a41ac565568307f12ad35">CreatureOrGOCount</a> [<a class="el" href="../../d6/da9/a03869.html#a7dab6182ee1bbabf205ed30f9c2d6c8b">QUEST_OBJECTIVES_COUNT</a>]</td></tr>
+<tr class="separator:aa5892dc0744a41ac565568307f12ad35"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a170a1e54fe45b7fd0c7934f1309f7969"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d12/a04694.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4d/a10733.html#a170a1e54fe45b7fd0c7934f1309f7969">PlayerCount</a> {0}</td></tr>
+<tr class="separator:a170a1e54fe45b7fd0c7934f1309f7969"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a734f6a61aa35c77689d33031e88f0c0b"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4d/a10733.html#a734f6a61aa35c77689d33031e88f0c0b">Explored</a> {false}</td></tr>
+<tr class="separator:a734f6a61aa35c77689d33031e88f0c0b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="ab09a80bc238814358e1397da529e9584" name="ab09a80bc238814358e1397da529e9584"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab09a80bc238814358e1397da529e9584">&#9670;&#160;</a></span>AchievementScript()</h2>
+<a id="ae71725a7f75e10aacb6f4a9ca4b72f27" name="ae71725a7f75e10aacb6f4a9ca4b72f27"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae71725a7f75e10aacb6f4a9ca4b72f27">&#9670;&#160;</a></span>QuestStatusData()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -171,267 +146,127 @@ Protected Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">AchievementScript::AchievementScript </td>
-          <td>(</td>
-          <td class="paramtype">char const *&#160;</td>
-          <td class="paramname"><em>name</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">std::vector&lt; <a class="el" href="../../d8/dca/a04670.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> &gt;&#160;</td>
-          <td class="paramname"><em>enabledHooks</em> = <code>std::vector&lt;<a class="el" href="../../d8/dca/a04670.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&gt;()</code>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   48</span>    : <a class="code hl_class" href="../../d0/d4f/a10961.html">ScriptObject</a>(name, <a class="code hl_enumvalue" href="../../d3/db2/a00869.html#a62b7eadebfd59858b2e2f1a8713a3ae1a2df8c3284122e09fda0d8f4b7789732c">ACHIEVEMENTHOOK_END</a>)</div>
-<div class="line"><span class="lineno">   49</span>{</div>
-<div class="line"><span class="lineno">   50</span>    <span class="comment">// If empty - enable all available hooks.</span></div>
-<div class="line"><span class="lineno">   51</span>    <span class="keywordflow">if</span> (enabledHooks.empty())</div>
-<div class="line"><span class="lineno">   52</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d8/dca/a04670.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> i = 0; i &lt; <a class="code hl_enumvalue" href="../../d3/db2/a00869.html#a62b7eadebfd59858b2e2f1a8713a3ae1a2df8c3284122e09fda0d8f4b7789732c">ACHIEVEMENTHOOK_END</a>; ++i)</div>
-<div class="line"><span class="lineno">   53</span>            enabledHooks.emplace_back(i);</div>
-<div class="line"><span class="lineno">   54</span> </div>
-<div class="line"><span class="lineno">   55</span>    <a class="code hl_function" href="../../dc/d55/a10957.html#a4a25c0e3b90f6af4563baf0e7a1c0622">ScriptRegistry&lt;AchievementScript&gt;::AddScript</a>(<span class="keyword">this</span>, std::move(enabledHooks));</div>
-<div class="line"><span class="lineno">   56</span>}</div>
-<div class="ttc" id="aa00869_html_a62b7eadebfd59858b2e2f1a8713a3ae1a2df8c3284122e09fda0d8f4b7789732c"><div class="ttname"><a href="../../d3/db2/a00869.html#a62b7eadebfd59858b2e2f1a8713a3ae1a2df8c3284122e09fda0d8f4b7789732c">ACHIEVEMENTHOOK_END</a></div><div class="ttdeci">@ ACHIEVEMENTHOOK_END</div><div class="ttdef"><b>Definition:</b> AchievementScript.h:33</div></div>
-<div class="ttc" id="aa04670_html_ad9c79638db63f1dfe2b085743b5cbf7b"><div class="ttname"><a href="../../d8/dca/a04670.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a></div><div class="ttdeci">std::uint16_t uint16</div><div class="ttdef"><b>Definition:</b> Define.h:108</div></div>
-<div class="ttc" id="aa10957_html_a4a25c0e3b90f6af4563baf0e7a1c0622"><div class="ttname"><a href="../../dc/d55/a10957.html#a4a25c0e3b90f6af4563baf0e7a1c0622">ScriptRegistry::AddScript</a></div><div class="ttdeci">static void AddScript(TScript *const script, std::vector&lt; uint16 &gt; enabledHooks={})</div><div class="ttdef"><b>Definition:</b> ScriptMgr.h:786</div></div>
-<div class="ttc" id="aa10961_html"><div class="ttname"><a href="../../d0/d4f/a10961.html">ScriptObject</a></div><div class="ttdef"><b>Definition:</b> ScriptObject.h:43</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00033">ACHIEVEMENTHOOK_END</a>, and <a class="el" href="../../#l00786">ScriptRegistry&lt; TScript &gt;::AddScript()</a>.</p>
-
-</div>
-</div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="aca4cb16b55f7990c676267b8f10b4e57" name="aca4cb16b55f7990c676267b8f10b4e57"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aca4cb16b55f7990c676267b8f10b4e57">&#9670;&#160;</a></span>CanCheckCriteria()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">virtual bool AchievementScript::CanCheckCriteria </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dc/ddb/a06481.html">AchievementMgr</a> *&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d6/d8c/a28909.html">AchievementCriteriaEntry</a> const *&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   53</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a33d7ba1a6bf82da8e2de367553c0fb52" name="a33d7ba1a6bf82da8e2de367553c0fb52"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a33d7ba1a6bf82da8e2de367553c0fb52">&#9670;&#160;</a></span>IsCompletedCriteria()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">virtual bool AchievementScript::IsCompletedCriteria </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dc/ddb/a06481.html">AchievementMgr</a> *&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d6/d8c/a28909.html">AchievementCriteriaEntry</a> const *&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d2/dd9/a28901.html">AchievementEntry</a> const *&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../dc/d1b/a06365.html">CriteriaProgress</a> const *&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   47</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a9ea2ed91c281e881404c31a948de0fc9" name="a9ea2ed91c281e881404c31a948de0fc9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9ea2ed91c281e881404c31a948de0fc9">&#9670;&#160;</a></span>IsDatabaseBound()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool AchievementScript::IsDatabaseBound </td>
+          <td class="memname">QuestStatusData::QuestStatusData </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
-          <td> const</td>
+          <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-
-<p>Reimplemented from <a class="el" href="../../d0/d4f/a10961.html#a37da453729d5c8fbe2d06f905563f47c">ScriptObject</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   42</span>{ <span class="keywordflow">return</span> <span class="keyword">false</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  411</span>    {</div>
+<div class="line"><span class="lineno">  412</span>        memset(<a class="code hl_variable" href="../../de/d4d/a10733.html#a466999cea52f65bf58916bc34750bf95">ItemCount</a>, 0, <a class="code hl_define" href="../../d6/da9/a03869.html#a5b538720bd7de8c4468dc6d21b412f10">QUEST_ITEM_OBJECTIVES_COUNT</a> * <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../d8/d12/a04694.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>));</div>
+<div class="line"><span class="lineno">  413</span>        memset(<a class="code hl_variable" href="../../de/d4d/a10733.html#aa5892dc0744a41ac565568307f12ad35">CreatureOrGOCount</a>, 0, <a class="code hl_define" href="../../d6/da9/a03869.html#a7dab6182ee1bbabf205ed30f9c2d6c8b">QUEST_OBJECTIVES_COUNT</a> * <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../d8/d12/a04694.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>));</div>
+<div class="line"><span class="lineno">  414</span>    }</div>
+<div class="ttc" id="aa03869_html_a5b538720bd7de8c4468dc6d21b412f10"><div class="ttname"><a href="../../d6/da9/a03869.html#a5b538720bd7de8c4468dc6d21b412f10">QUEST_ITEM_OBJECTIVES_COUNT</a></div><div class="ttdeci">#define QUEST_ITEM_OBJECTIVES_COUNT</div><div class="ttdef"><b>Definition:</b> QuestDef.h:36</div></div>
+<div class="ttc" id="aa03869_html_a7dab6182ee1bbabf205ed30f9c2d6c8b"><div class="ttname"><a href="../../d6/da9/a03869.html#a7dab6182ee1bbabf205ed30f9c2d6c8b">QUEST_OBJECTIVES_COUNT</a></div><div class="ttdeci">#define QUEST_OBJECTIVES_COUNT</div><div class="ttdef"><b>Definition:</b> QuestDef.h:35</div></div>
+<div class="ttc" id="aa04694_html_ad9c79638db63f1dfe2b085743b5cbf7b"><div class="ttname"><a href="../../d8/d12/a04694.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a></div><div class="ttdeci">std::uint16_t uint16</div><div class="ttdef"><b>Definition:</b> Define.h:108</div></div>
+<div class="ttc" id="aa10733_html_a466999cea52f65bf58916bc34750bf95"><div class="ttname"><a href="../../de/d4d/a10733.html#a466999cea52f65bf58916bc34750bf95">QuestStatusData::ItemCount</a></div><div class="ttdeci">uint16 ItemCount[QUEST_ITEM_OBJECTIVES_COUNT]</div><div class="ttdef"><b>Definition:</b> QuestDef.h:418</div></div>
+<div class="ttc" id="aa10733_html_aa5892dc0744a41ac565568307f12ad35"><div class="ttname"><a href="../../de/d4d/a10733.html#aa5892dc0744a41ac565568307f12ad35">QuestStatusData::CreatureOrGOCount</a></div><div class="ttdeci">uint16 CreatureOrGOCount[QUEST_OBJECTIVES_COUNT]</div><div class="ttdef"><b>Definition:</b> QuestDef.h:419</div></div>
 </div><!-- fragment -->
-</div>
-</div>
-<a id="abc54c295c1bcad45e21aed99e43a3713" name="abc54c295c1bcad45e21aed99e43a3713"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abc54c295c1bcad45e21aed99e43a3713">&#9670;&#160;</a></span>IsRealmCompleted()</h2>
+<p class="reference">References <a class="el" href="../../#l00419">CreatureOrGOCount</a>, <a class="el" href="../../#l00418">ItemCount</a>, <a class="el" href="../../#l00036">QUEST_ITEM_OBJECTIVES_COUNT</a>, and <a class="el" href="../../#l00035">QUEST_OBJECTIVES_COUNT</a>.</p>
 
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">virtual bool AchievementScript::IsRealmCompleted </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../df/d98/a06485.html">AchievementGlobalMgr</a> const *&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d2/dd9/a28901.html">AchievementEntry</a> const *&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../da/d70/a04967.html#ada798961abc5a533d616ff780f567bb6">SystemTimePoint</a>&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   49</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
-</div><!-- fragment -->
 </div>
 </div>
-<a id="afac6fc03c2ba91165fbdf2ccc5422063" name="afac6fc03c2ba91165fbdf2ccc5422063"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afac6fc03c2ba91165fbdf2ccc5422063">&#9670;&#160;</a></span>OnBeforeCheckCriteria()</h2>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="aa5892dc0744a41ac565568307f12ad35" name="aa5892dc0744a41ac565568307f12ad35"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa5892dc0744a41ac565568307f12ad35">&#9670;&#160;</a></span>CreatureOrGOCount</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">virtual void AchievementScript::OnBeforeCheckCriteria </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dc/ddb/a06481.html">AchievementMgr</a> *&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">std::list&lt; <a class="el" href="../../d6/d8c/a28909.html">AchievementCriteriaEntry</a> const * &gt; const *&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="memname"><a class="el" href="../../d8/d12/a04694.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> QuestStatusData::CreatureOrGOCount[<a class="el" href="../../d6/da9/a03869.html#a7dab6182ee1bbabf205ed30f9c2d6c8b">QUEST_OBJECTIVES_COUNT</a>]</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   51</span>{ }</div>
-</div><!-- fragment -->
+
+<p class="reference">Referenced by <a class="el" href="../../#l06400">Player::_LoadQuestStatus()</a>, <a class="el" href="../../#l00520">Player::AddQuest()</a>, <a class="el" href="../../#l00123">npc_love_in_air_snivel::AllowAction()</a>, <a class="el" href="../../#l00291">Player::CanCompleteQuest()</a>, <a class="el" href="../../#l12676">Player::HasQuestForGO()</a>, <a class="el" href="../../#l02130">Player::KillCreditGO()</a>, <a class="el" href="../../#l02001">Player::KilledMonsterCredit()</a>, <a class="el" href="../../#l00176">npc_brewfest_bark_trigger::MoveInLineOfSight()</a>, <a class="el" href="../../#l00410">QuestStatusData()</a>, and <a class="el" href="../../#l02186">Player::TalkedToCreature()</a>.</p>
+
 </div>
 </div>
-<a id="acf6a63ba96da7b33a92d48a95a549d4e" name="acf6a63ba96da7b33a92d48a95a549d4e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acf6a63ba96da7b33a92d48a95a549d4e">&#9670;&#160;</a></span>SetRealmCompleted()</h2>
+<a id="a734f6a61aa35c77689d33031e88f0c0b" name="a734f6a61aa35c77689d33031e88f0c0b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a734f6a61aa35c77689d33031e88f0c0b">&#9670;&#160;</a></span>Explored</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">virtual void AchievementScript::SetRealmCompleted </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/dd9/a28901.html">AchievementEntry</a> const *&#160;</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td class="memname">bool QuestStatusData::Explored {false}</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   45</span>{ }</div>
-</div><!-- fragment -->
+
+<p class="reference">Referenced by <a class="el" href="../../#l06400">Player::_LoadQuestStatus()</a>, <a class="el" href="../../#l00520">Player::AddQuest()</a>, <a class="el" href="../../#l01865">Player::AreaExploredOrEventHappens()</a>, and <a class="el" href="../../#l00291">Player::CanCompleteQuest()</a>.</p>
+
+</div>
+</div>
+<a id="a466999cea52f65bf58916bc34750bf95" name="a466999cea52f65bf58916bc34750bf95"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a466999cea52f65bf58916bc34750bf95">&#9670;&#160;</a></span>ItemCount</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/d12/a04694.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> QuestStatusData::ItemCount[<a class="el" href="../../d6/da9/a03869.html#a5b538720bd7de8c4468dc6d21b412f10">QUEST_ITEM_OBJECTIVES_COUNT</a>]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l06400">Player::_LoadQuestStatus()</a>, <a class="el" href="../../#l00520">Player::AddQuest()</a>, <a class="el" href="../../#l01838">Player::AdjustQuestReqItemCount()</a>, <a class="el" href="../../#l00291">Player::CanCompleteQuest()</a>, <a class="el" href="../../#l02338">Player::HasQuestForItem()</a>, <a class="el" href="../../#l01909">Player::ItemAddedQuestCheck()</a>, <a class="el" href="../../#l01948">Player::ItemRemovedQuestCheck()</a>, and <a class="el" href="../../#l00410">QuestStatusData()</a>.</p>
+
+</div>
+</div>
+<a id="a170a1e54fe45b7fd0c7934f1309f7969" name="a170a1e54fe45b7fd0c7934f1309f7969"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a170a1e54fe45b7fd0c7934f1309f7969">&#9670;&#160;</a></span>PlayerCount</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/d12/a04694.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> QuestStatusData::PlayerCount {0}</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l06400">Player::_LoadQuestStatus()</a>, <a class="el" href="../../#l00520">Player::AddQuest()</a>, <a class="el" href="../../#l00291">Player::CanCompleteQuest()</a>, and <a class="el" href="../../#l02099">Player::KilledPlayerCreditForQuest()</a>.</p>
+
+</div>
+</div>
+<a id="a4ce7af3a64737d7961b6dfa19189c932" name="a4ce7af3a64737d7961b6dfa19189c932"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4ce7af3a64737d7961b6dfa19189c932">&#9670;&#160;</a></span>Status</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d6/da9/a03869.html#abfc87d39d69176ad25e800fb4aa6f0d8">QuestStatus</a> QuestStatusData::Status {<a class="el" href="../../d6/da9/a03869.html#abfc87d39d69176ad25e800fb4aa6f0d8abefdf5f7417012e5d2adedf1dc155f28">QUEST_STATUS_NONE</a>}</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l06400">Player::_LoadQuestStatus()</a>, <a class="el" href="../../#l00520">Player::AddQuest()</a>, <a class="el" href="../../#l01865">Player::AreaExploredOrEventHappens()</a>, <a class="el" href="../../#l00291">Player::CanCompleteQuest()</a>, <a class="el" href="../../#l12676">Player::HasQuestForGO()</a>, <a class="el" href="../../#l02338">Player::HasQuestForItem()</a>, <a class="el" href="../../#l01909">Player::ItemAddedQuestCheck()</a>, <a class="el" href="../../#l02130">Player::KillCreditGO()</a>, <a class="el" href="../../#l02001">Player::KilledMonsterCredit()</a>, <a class="el" href="../../#l02069">Player::KilledPlayerCredit()</a>, <a class="el" href="../../#l02245">Player::MoneyChanged()</a>, <a class="el" href="../../#l02282">Player::ReputationChanged()</a>, <a class="el" href="../../#l02310">Player::ReputationChanged2()</a>, and <a class="el" href="../../#l02186">Player::TalkedToCreature()</a>.</p>
+
+</div>
+</div>
+<a id="a16343f7a162e5b7b6a1a18345420c77a" name="a16343f7a162e5b7b6a1a18345420c77a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a16343f7a162e5b7b6a1a18345420c77a">&#9670;&#160;</a></span>Timer</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/d12/a04694.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> QuestStatusData::Timer {0}</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l06400">Player::_LoadQuestStatus()</a>, <a class="el" href="../../#l00520">Player::AddQuest()</a>, <a class="el" href="../../#l00291">Player::CanCompleteQuest()</a>, <a class="el" href="../../#l00912">Player::FailQuest()</a>, and <a class="el" href="../../#l00053">Player::Update()</a>.</p>
+
 </div>
 </div>
 </div><!-- contents -->
@@ -439,8 +274,8 @@ Protected Member Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../de/d4d/a10733.html">AchievementScript</a></li>
-    <li class="footer">Generated on Mon Sep 14 2026 23:33:27 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../de/d4d/a10733.html">QuestStatusData</a></li>
+    <li class="footer">Generated on Mon Oct 19 2026 23:57:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

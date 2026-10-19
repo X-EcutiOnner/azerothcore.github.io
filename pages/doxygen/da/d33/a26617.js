@@ -1,12 +1,8 @@
 var a26617 =
 [
-    [ "CalcPeriodic", "da/d33/a26617.html#a5b57273e0d9fc39a000c7bf4e232acb4", null ],
-    [ "CalculateAPAmount", "da/d33/a26617.html#a65b6f1a2b322c928fd9a5992380d2e95", null ],
-    [ "CalculateResistanceAmount", "da/d33/a26617.html#a3860e12ea334cb61a437941b6f9b81e0", null ],
-    [ "CalculateSPAmount", "da/d33/a26617.html#abf0d76c220911d88990f3071f14a9d5a", null ],
-    [ "CalculateStatAmount", "da/d33/a26617.html#a56489b52592e63dd00640de388926512", null ],
-    [ "HandleEffectApply", "da/d33/a26617.html#a5180cc8beb5244bd0b957dfc89dc9cf4", null ],
-    [ "HandlePeriodic", "da/d33/a26617.html#a67cb7b817f29dd41aa7d0dc8c87dc820", null ],
-    [ "PrepareAuraScript", "da/d33/a26617.html#a5b65221c67283a29cbeb63cafe64457a", null ],
-    [ "Register", "da/d33/a26617.html#acc22795ea812f31b0b9e21e6494c2d19", null ]
+    [ "HandleProc", "da/d33/a26617.html#a89982759474f6f2d8f64ae406f722816", null ],
+    [ "OnRemove", "da/d33/a26617.html#a29dfea997f49052f683cabdf01295126", null ],
+    [ "PrepareAuraScript", "da/d33/a26617.html#a19094a96e052ec5b1b82aa9a124b30cc", null ],
+    [ "Register", "da/d33/a26617.html#a696b244e898a7aca0ead5ae5596eb192", null ],
+    [ "Validate", "da/d33/a26617.html#a5a9e58d16a055b3991e5f8b8ac5f1cad", null ]
 ];

@@ -1,15 +1,49 @@
 var a02450 =
 [
-    [ "InstancePlayerBind", "d1/dc6/a10095.html", "d1/dc6/a10095" ],
-    [ "BoundInstancesMapWrapper", "dd/d50/a10099.html", "dd/d50/a10099" ],
-    [ "InstanceSave", "d1/dd1/a10103.html", "d1/dd1/a10103" ],
-    [ "InstanceMapLoadRows", "d0/d6b/a10107.html", "d0/d6b/a10107" ],
-    [ "InstanceMapLoadRows::InstanceRow", "da/de4/a10111.html", "da/de4/a10111" ],
-    [ "InstanceMapLoadRows::BindRow", "d8/dc8/a10115.html", "d8/dc8/a10115" ],
-    [ "InstanceSaveMgr", "d0/dc2/a10119.html", "d0/dc2/a10119" ],
-    [ "InstanceSaveMgr::InstResetEvent", "de/d7f/a10123.html", "de/d7f/a10123" ],
-    [ "sInstanceSaveMgr", "d8/db7/a02450.html#ae1d3c96dbd749e40f06799fa52eeb9a2", null ],
-    [ "BoundInstancesMap", "d8/db7/a02450.html#aaa779bf09b703eb355cb51ac3481a19e", null ],
-    [ "PlayerBindStorage", "d8/db7/a02450.html#a2e2e3e31db4cc3be56b24e732c84106b", null ],
-    [ "ResetTimeByMapDifficultyMap", "d8/db7/a02450.html#aecf15b673beb714ef0acaa3bac23696a", null ]
+    [ "DoorData", "d5/d93/a10141.html", "d5/d93/a10141" ],
+    [ "BossBoundaryEntry", "da/d2d/a10145.html", "da/d2d/a10145" ],
+    [ "BossBoundaryData", "d9/db6/a10149.html", "d9/db6/a10149" ],
+    [ "MinionData", "de/dd8/a10153.html", "de/dd8/a10153" ],
+    [ "ObjectData", "de/d6a/a10157.html", "de/d6a/a10157" ],
+    [ "BossInfo", "dc/d86/a10161.html", "dc/d86/a10161" ],
+    [ "DoorInfo", "d5/d2b/a10165.html", "d5/d2b/a10165" ],
+    [ "MinionInfo", "d7/d9a/a10169.html", "d7/d9a/a10169" ],
+    [ "InstanceScript", "d8/d41/a10173.html", "d8/d41/a10173" ],
+    [ "OUT_LOAD_INST_DATA", "d8/db7/a02450.html#aafbf0073420e9a897ec0f243f4793a0f", null ],
+    [ "OUT_LOAD_INST_DATA_COMPLETE", "d8/db7/a02450.html#a490e19560f068912b0e3dbd61c689b44", null ],
+    [ "OUT_LOAD_INST_DATA_FAIL", "d8/db7/a02450.html#a141fd6fe34ebbd5c3ad507db42f41b4a", null ],
+    [ "OUT_SAVE_INST_DATA", "d8/db7/a02450.html#a65ed3183971093dcebed99d1ec6d6d63", null ],
+    [ "OUT_SAVE_INST_DATA_COMPLETE", "d8/db7/a02450.html#a3a93295e3500f757163145c03e90db3d", null ],
+    [ "DoorInfoMap", "d8/db7/a02450.html#ab665e2d424a75aeb6703ccd08050676c", null ],
+    [ "DoorInfoMapBounds", "d8/db7/a02450.html#ac55e7bd9aa319ccb4e7a22a3e35c3326", null ],
+    [ "DoorSet", "d8/db7/a02450.html#a17be047bdb4b0361cdee9637ff279e9f", null ],
+    [ "MinionInfoMap", "d8/db7/a02450.html#a3b05920ad054e3f59bf988485603d2de", null ],
+    [ "MinionSet", "d8/db7/a02450.html#add004a84abc4c98dae65145dce2d17bb", null ],
+    [ "ObjectGuidMap", "d8/db7/a02450.html#a3c451c29106077a2c6f8f88facbb2c69", null ],
+    [ "ObjectInfoMap", "d8/db7/a02450.html#ac2936b863aac3fd2483eae5e234ac053", null ],
+    [ "ObjectStateMap", "d8/db7/a02450.html#a4edbb4a71661ac569a73338c83672f9d", null ],
+    [ "DoorType", "d8/db7/a02450.html#ac3549b9e861c142e11e5ad86b8b6947e", [
+      [ "DOOR_TYPE_ROOM", "d8/db7/a02450.html#ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70", null ],
+      [ "DOOR_TYPE_PASSAGE", "d8/db7/a02450.html#ac3549b9e861c142e11e5ad86b8b6947eabf8a73ae3dd3b7fd667a2c7f58414905", null ],
+      [ "DOOR_TYPE_SPAWN_HOLE", "d8/db7/a02450.html#ac3549b9e861c142e11e5ad86b8b6947ea05ae5ae0867f3b0c721a17ac307ff7bb", null ],
+      [ "MAX_DOOR_TYPES", "d8/db7/a02450.html#ac3549b9e861c142e11e5ad86b8b6947eac54cf58ec577ca37abba35d02ff97571", null ]
+    ] ],
+    [ "EncounterFrameType", "d8/db7/a02450.html#a2b83b4959bad3f736ee0463c50b9477d", [
+      [ "ENCOUNTER_FRAME_ENGAGE", "d8/db7/a02450.html#a2b83b4959bad3f736ee0463c50b9477daf39a3442170d2b9d97b31f1aa952053a", null ],
+      [ "ENCOUNTER_FRAME_DISENGAGE", "d8/db7/a02450.html#a2b83b4959bad3f736ee0463c50b9477daade40d90f5283e0cf9f587ddbe1bcc22", null ],
+      [ "ENCOUNTER_FRAME_UPDATE_PRIORITY", "d8/db7/a02450.html#a2b83b4959bad3f736ee0463c50b9477dab466d621ed48059fed64ca588282a9bc", null ],
+      [ "ENCOUNTER_FRAME_ADD_TIMER", "d8/db7/a02450.html#a2b83b4959bad3f736ee0463c50b9477dac4db9282020e33d1fff31aeeeac8d689", null ],
+      [ "ENCOUNTER_FRAME_ENABLE_OBJECTIVE", "d8/db7/a02450.html#a2b83b4959bad3f736ee0463c50b9477da0f44e24d1a7751fed4d394719579336c", null ],
+      [ "ENCOUNTER_FRAME_UPDATE_OBJECTIVE", "d8/db7/a02450.html#a2b83b4959bad3f736ee0463c50b9477dac2613e711f746c05f27d7aa0eae3d51b", null ],
+      [ "ENCOUNTER_FRAME_DISABLE_OBJECTIVE", "d8/db7/a02450.html#a2b83b4959bad3f736ee0463c50b9477dac1903193f76dfb04f3009b98b4ddce1c", null ],
+      [ "ENCOUNTER_FRAME_REFRESH_FRAMES", "d8/db7/a02450.html#a2b83b4959bad3f736ee0463c50b9477dac4ca16adedcc16b4cac2ad580ed3e8ec", null ]
+    ] ],
+    [ "EncounterState", "d8/db7/a02450.html#ab6cf09cd975286c705a19a75a947d438", [
+      [ "NOT_STARTED", "d8/db7/a02450.html#ab6cf09cd975286c705a19a75a947d438ae7d82dfe80ea0bd4feea8ee49ea2eab5", null ],
+      [ "IN_PROGRESS", "d8/db7/a02450.html#ab6cf09cd975286c705a19a75a947d438a643cea6438bbca00e218a0b1c05e1012", null ],
+      [ "FAIL", "d8/db7/a02450.html#ab6cf09cd975286c705a19a75a947d438a936c4a5547a9360243178f726f6b2715", null ],
+      [ "DONE", "d8/db7/a02450.html#ab6cf09cd975286c705a19a75a947d438a9c954bcf443428c80b0f107b3bc48749", null ],
+      [ "SPECIAL", "d8/db7/a02450.html#ab6cf09cd975286c705a19a75a947d438aaa5259d84d06214a7b0503d636790465", null ],
+      [ "TO_BE_DECIDED", "d8/db7/a02450.html#ab6cf09cd975286c705a19a75a947d438af259c60d63b511a33d9f0d1094c45958", null ]
+    ] ]
 ];

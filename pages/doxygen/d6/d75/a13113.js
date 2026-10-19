@@ -1,10 +1,9 @@
 var a13113 =
 [
-    [ "npc_core_rager", "d6/d75/a13113.html#a91aec4d96359a88ee8ac70b58353d488", null ],
-    [ "DamageTaken", "d6/d75/a13113.html#a7ad38b40dc33a8c875f11c4143bf9786", null ],
-    [ "Reset", "d6/d75/a13113.html#a5a565f93e2b60ee0883d740cf751c143", null ],
-    [ "UpdateAI", "d6/d75/a13113.html#a17466612b59d94d7f2e157d2b716cfe9", null ],
-    [ "instance", "d6/d75/a13113.html#adb63c559f01ac8da42213bb8ddaf9ce0", null ],
-    [ "mangleTimer", "d6/d75/a13113.html#a21bb04f15b5ffbfa4ea954922cb917ab", null ],
-    [ "rangeCheckTimer", "d6/d75/a13113.html#abac888dc4c885921540ba7107d0bd732", null ]
+    [ "boss_baron_geddon", "d6/d75/a13113.html#a1e7cf41aff13c376dafa35a992c378d8", null ],
+    [ "DamageTaken", "d6/d75/a13113.html#a2a5a0ca6e40ac736171a8b80b0e66dad", null ],
+    [ "ExecuteEvent", "d6/d75/a13113.html#af81a1ef4345e55f3d537baeb0e9528f4", null ],
+    [ "JustEngagedWith", "d6/d75/a13113.html#ad0e720b1ea3e92fabeea8b78a6416f3f", null ],
+    [ "Reset", "d6/d75/a13113.html#aee0a2c6587a7f743491f3a3e31ed6527", null ],
+    [ "armageddonCasted", "d6/d75/a13113.html#a4ea01568770a91e6734d45e3730c62cc", null ]
 ];

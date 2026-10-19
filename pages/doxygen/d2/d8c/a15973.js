@@ -1,11 +1,11 @@
 var a15973 =
 [
-    [ "npc_kerlonianAI", "d2/d8c/a15973.html#a0f7a4566ca93a174c92fe10e904af480", null ],
-    [ "ClearSleeping", "d2/d8c/a15973.html#aea2815d79da4fa006ea150f052255b9d", null ],
-    [ "MoveInLineOfSight", "d2/d8c/a15973.html#a8b0a606510d278f26099a125d583377a", null ],
-    [ "Reset", "d2/d8c/a15973.html#a20fac33bf3322ad0caf72ea883680b8d", null ],
-    [ "SetSleeping", "d2/d8c/a15973.html#a0e1e6beaa98090d8bf8a17d28a9ee733", null ],
-    [ "SpellHit", "d2/d8c/a15973.html#a1df028085cf1cb9e8152cdb70a3d28b1", null ],
-    [ "UpdateFollowerAI", "d2/d8c/a15973.html#aa86dc8b3e934ff3297f7316de5420fe6", null ],
-    [ "FallAsleepTimer", "d2/d8c/a15973.html#a8cfd8d869f8a313d041d89f8d0daa1bb", null ]
+    [ "npc_stillpine_capitiveAI", "d2/d8c/a15973.html#a98560e7fc360dbfa3166805d9ab3feb4", null ],
+    [ "MovementInform", "d2/d8c/a15973.html#a1e930b49da85a64aa87ba79b5fe72391", null ],
+    [ "Reset", "d2/d8c/a15973.html#a9c884f892e64044057d477bdc0f89eed", null ],
+    [ "StartMoving", "d2/d8c/a15973.html#a2552a79cf384cca1203afa7f241c1cb9", null ],
+    [ "UpdateAI", "d2/d8c/a15973.html#a25dc06767382b5fee2a7098b58726fb2", null ],
+    [ "_events", "d2/d8c/a15973.html#a93dd55d392836d8d085e34293344b700", null ],
+    [ "_movementComplete", "d2/d8c/a15973.html#ae8e39ca782aee412e39d65a33d14014e", null ],
+    [ "_playerGUID", "d2/d8c/a15973.html#a3fe9a4f01aebb602095d60eb606ce763", null ]
 ];

@@ -1,6 +1,6 @@
 var a11649 =
 [
-    [ "QuestUpdateComplete", "d7/da4/a11649.html#a1e6d102e4063facad1230b55d4048702", null ],
-    [ "Write", "d7/da4/a11649.html#a2ec714ac25e784446e8a614587bd79b3", null ],
-    [ "QuestId", "d7/da4/a11649.html#ac44a95d88d2970ee3e8bf0a8c57d578d", null ]
+    [ "NameQuery", "d7/da4/a11649.html#a7dc5a2dceb475303db4b4ab0c0a6d23c", null ],
+    [ "Read", "d7/da4/a11649.html#ae4a16ebe5372214d3aec65b056a9426e", null ],
+    [ "Guid", "d7/da4/a11649.html#a52528a68f1c86196e7428f196f93d12b", null ]
 ];

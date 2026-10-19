@@ -1,15 +1,11 @@
 var a29721 =
 [
-    [ "DamageInfoStubBuilder", "d7/dff/a29721.html#a282b4f92722f9cf12358a9f603df6902", null ],
-    [ "Build", "d7/dff/a29721.html#ad50ac35ca7a10f0eb20383fbde4a54dc", null ],
-    [ "WithAbsorb", "d7/dff/a29721.html#a3533bbda604c4ed6ac467f28ecb60fbe", null ],
-    [ "WithAttackType", "d7/dff/a29721.html#a4fd9332aa42002056d3f9191cd4435d7", null ],
-    [ "WithBlock", "d7/dff/a29721.html#a81381d471627ddd6e86678551ca4ab5b", null ],
-    [ "WithDamage", "d7/dff/a29721.html#abf9d30cde831f2094a181a312bcfe9df", null ],
-    [ "WithHitMask", "d7/dff/a29721.html#a161f5ea9ae33541dfcfd600fc5546b20", null ],
-    [ "WithOriginalDamage", "d7/dff/a29721.html#a3265aa4aa273cc9ededb6c9673f6c9e3", null ],
-    [ "WithResist", "d7/dff/a29721.html#a76827724d8b8d780dc5d136ca01e51e6", null ],
-    [ "WithSchoolMask", "d7/dff/a29721.html#ab540fcb56c4034daea104a1b844bdb3a", null ],
-    [ "WithSpellInfo", "d7/dff/a29721.html#a681fe7d0c7f3b4136ad4ba2a662e6393", null ],
-    [ "_stub", "d7/dff/a29721.html#abf06c6b638dcd9489fa0e3d755433514", null ]
+    [ "IsAvailable", "d7/dff/a29721.html#adfebd7a162ebae8396669de031c768a6", null ],
+    [ "operator bool", "d7/dff/a29721.html#ac25d4bb270c805b8ea2a6e0b4b6b2e74", null ],
+    [ "operator*", "d7/dff/a29721.html#a24733bf06b4a91abcf4945aa5303a275", null ],
+    [ "operator->", "d7/dff/a29721.html#ad0ddd6fe7451f2b968db3a7d7a93b342", null ],
+    [ "SecretMgr", "d7/dff/a29721.html#af098c138ad828545a3dfb1870ad4c2fb", null ],
+    [ "lock", "d7/dff/a29721.html#aff5ea87e5a7dbfdf5bd38400997f2c40", null ],
+    [ "state", "d7/dff/a29721.html#a55226a2f8ec51e8470db5a3f98588ea0", null ],
+    [ "value", "d7/dff/a29721.html#a16b48eb9b384f6ab8c6996b38f559825", null ]
 ];

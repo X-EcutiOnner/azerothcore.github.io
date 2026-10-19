@@ -1,7 +1,5 @@
 var a25973 =
 [
-    [ "HandleDummy", "d1/d2e/a25973.html#a5a82cbe58f57c94441cfda618e0eecca", null ],
-    [ "HandleScriptEffect", "d1/d2e/a25973.html#a30d760a8708b49a185eb000249a9a5eb", null ],
-    [ "PrepareSpellScript", "d1/d2e/a25973.html#a102d8493d285757c789cbba4a1bdc688", null ],
-    [ "Register", "d1/d2e/a25973.html#ab4031ddb745995128854c149f7706045", null ]
+    [ "PrepareSpellScript", "d1/d2e/a25973.html#a999d5173e12b643e0bdcefcd099f65d1", null ],
+    [ "Register", "d1/d2e/a25973.html#afd92511fb578c1df33248dba5055315e", null ]
 ];

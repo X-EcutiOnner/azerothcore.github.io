@@ -1,21 +1,15 @@
 var a05169 =
 [
-    [ "Spell", "db/dd6/a08615.html", "db/dd6/a08615" ],
-    [ "Trainer", "d7/d39/a08619.html", "d7/d39/a08619" ],
-    [ "FailReason", "d1/da1/a05169.html#ae4935022d4e3c686a8b51cd68a4f2b66", [
-      [ "Unavailable", "d1/da1/a05169.html#ae4935022d4e3c686a8b51cd68a4f2b66a453e6aa38d87b28ccae545967c53004f", null ],
-      [ "NotEnoughMoney", "d1/da1/a05169.html#ae4935022d4e3c686a8b51cd68a4f2b66a261cca2ac483068d987c38cfa8fd6094", null ],
-      [ "NotEnoughSkill", "d1/da1/a05169.html#ae4935022d4e3c686a8b51cd68a4f2b66a5ba2f62395296316a2a2222477988264", null ]
-    ] ],
-    [ "SpellState", "d1/da1/a05169.html#a34dc7b354e539f94e4c8a4cbd0711758", [
-      [ "Available", "d1/da1/a05169.html#a34dc7b354e539f94e4c8a4cbd0711758a78945de8de090e90045d299651a68a9b", null ],
-      [ "Unavailable", "d1/da1/a05169.html#a34dc7b354e539f94e4c8a4cbd0711758a453e6aa38d87b28ccae545967c53004f", null ],
-      [ "Known", "d1/da1/a05169.html#a34dc7b354e539f94e4c8a4cbd0711758a2f5650e484fa195949ac6c8d11dca4fd", null ]
-    ] ],
-    [ "Type", "d1/da1/a05169.html#a636cc62a0635fc1566fb574ebe9941a9", [
-      [ "Class", "d1/da1/a05169.html#a636cc62a0635fc1566fb574ebe9941a9a9bd81329febf6efe22788e03ddeaf0af", null ],
-      [ "Mount", "d1/da1/a05169.html#a636cc62a0635fc1566fb574ebe9941a9aeace16d66cdd93ad876c620db7456077", null ],
-      [ "Tradeskill", "d1/da1/a05169.html#a636cc62a0635fc1566fb574ebe9941a9a7f36331b1b83871b2bd2773a286f54cd", null ],
-      [ "Pet", "d1/da1/a05169.html#a636cc62a0635fc1566fb574ebe9941a9a7c986af4cf8f6e55a1f846dc498ce91d", null ]
-    ] ]
+    [ "LinkTags", "dc/ddd/a05170.html", "dc/ddd/a05170" ],
+    [ "AchievementLinkData", "df/def/a08229.html", "df/def/a08229" ],
+    [ "FoundLinkData", "da/d67/a08253.html", "da/d67/a08253" ],
+    [ "GlyphLinkData", "dd/d71/a08233.html", "dd/d71/a08233" ],
+    [ "HyperlinkColor", "d3/da9/a08297.html", "d3/da9/a08297" ],
+    [ "HyperlinkInfo", "d9/d45/a08301.html", "d9/d45/a08301" ],
+    [ "ItemLinkData", "db/d1b/a08237.html", "db/d1b/a08237" ],
+    [ "QuestLinkData", "d3/d63/a08241.html", "d3/d63/a08241" ],
+    [ "TalentLinkData", "da/da5/a08245.html", "da/da5/a08245" ],
+    [ "TradeskillLinkData", "de/d72/a08249.html", "de/d72/a08249" ],
+    [ "CheckAllLinks", "d1/da1/a05169.html#a02761d9aa335689ff1b8dc1155b2a3c6", null ],
+    [ "ParseSingleHyperlink", "d1/da1/a05169.html#a2c5596879f4531eeedbe15d1e4987918", null ]
 ];

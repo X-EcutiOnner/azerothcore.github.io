@@ -1,6 +1,7 @@
 var a14817 =
 [
-    [ "CheckItem", "df/d0b/a14817.html#a71f8c9bad4a102914a1047ef61d20f92", null ],
-    [ "PrepareSpellScript", "df/d0b/a14817.html#a0fa160f1218cf838444f894716cb8aed", null ],
-    [ "Register", "df/d0b/a14817.html#a2a6816d9ab97abddfa20cd6413a94178", null ]
+    [ "FilterTargets", "df/d0b/a14817.html#a3498c9eb96bf1a6a85ded114e995850c", null ],
+    [ "HandleDummyEffect", "df/d0b/a14817.html#a3985ca8b79a234e44d9f46ffe6d5b232", null ],
+    [ "PrepareSpellScript", "df/d0b/a14817.html#a03f752d4d4762698e5777a4ae0e395cf", null ],
+    [ "Register", "df/d0b/a14817.html#a9af46e5f2fdb4719d65bb96f2b68a7f8", null ]
 ];

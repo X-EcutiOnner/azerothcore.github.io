@@ -1,6 +1,6 @@
 var a15369 =
 [
-    [ "npc_cos_chromie_start", "da/dbd/a15369.html#ae8f810af1e593ad16958049f6ad19616", null ],
-    [ "OnGossipSelect", "da/dbd/a15369.html#a80db05062f24dd2d5bc0bb6996cf8a30", null ],
-    [ "OnQuestAccept", "da/dbd/a15369.html#a81ff4586ca64f198748aa84e1ffd9018", null ]
+    [ "boss_salrammAI", "df/df2/a15373.html", "df/df2/a15373" ],
+    [ "boss_salramm", "da/dbd/a15369.html#a62c629a03f0c7ca7f3bf14b5209342d1", null ],
+    [ "GetAI", "da/dbd/a15369.html#ab6b400f0d329d4def074d012de47f53d", null ]
 ];

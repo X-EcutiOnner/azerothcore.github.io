@@ -1,25 +1,6 @@
 var a05565 =
 [
-    [ "Record", "d3/d72/a05569.html", "d3/d72/a05569" ],
-    [ "DBCFileLoader", "d2/d4a/a05565.html#a99ba418c63c49cf9a028626b8e282a01", null ],
-    [ "~DBCFileLoader", "d2/d4a/a05565.html#a2e8dd3e5d88b870ea01e0c8dbfa55acd", null ],
-    [ "DBCFileLoader", "d2/d4a/a05565.html#a2e75536e8df1449449b4b6fe5585074d", null ],
-    [ "AutoProduceData", "d2/d4a/a05565.html#af8810dd9cef9ed82036bbebb4c938521", null ],
-    [ "AutoProduceStrings", "d2/d4a/a05565.html#a12054e13d90636076ce04587aacf8ff6", null ],
-    [ "GetCols", "d2/d4a/a05565.html#a3c536a9333a06213a37c95087eaaf8e3", null ],
-    [ "GetFormatRecordSize", "d2/d4a/a05565.html#acbca26ec315c5f6ea59c9f1cbd70c376", null ],
-    [ "GetNumRows", "d2/d4a/a05565.html#aeedb51dd9b316063a58a989b175d0bc5", null ],
-    [ "GetOffset", "d2/d4a/a05565.html#ae624604ad0cdae8d3eb7212630a33613", null ],
-    [ "getRecord", "d2/d4a/a05565.html#ac4b1c79585f63f53f6d48db235732e20", null ],
-    [ "GetRowSize", "d2/d4a/a05565.html#af322bc9e92472463998ca8082c5da3d6", null ],
-    [ "IsLoaded", "d2/d4a/a05565.html#a28bf265dafc284e9edb55fc1ed261694", null ],
-    [ "Load", "d2/d4a/a05565.html#a0fb54606f89f93db180c507082d64bd3", null ],
-    [ "operator=", "d2/d4a/a05565.html#ac2b0f30fb125b8dae385ca8330d02e8b", null ],
-    [ "data", "d2/d4a/a05565.html#a137152d873bfa3cb2d3860fe6001f404", null ],
-    [ "fieldCount", "d2/d4a/a05565.html#a920472d71232fa759bce768fdca9a1c4", null ],
-    [ "fieldsOffset", "d2/d4a/a05565.html#a7aa68d259f6295df3029456bde143862", null ],
-    [ "recordCount", "d2/d4a/a05565.html#a1a17426b679598ee27363e897b40f2bf", null ],
-    [ "recordSize", "d2/d4a/a05565.html#ab4f28de7c57a6e25c715bb009ed5f701", null ],
-    [ "stringSize", "d2/d4a/a05565.html#a0761727ba38d899f337c733873742d69", null ],
-    [ "stringTable", "d2/d4a/a05565.html#a5961bf01316cc14a075c1b874000e8a2", null ]
+    [ "HashCreator", "d2/d4a/a05565.html#a03a4f6e31f0cb838b857997a0272f90b", null ],
+    [ "DestroyCTX", "d2/d4a/a05565.html#a7e607b03e0758d10156e201e8d601db4", null ],
+    [ "MakeCTX", "d2/d4a/a05565.html#a59487cdc54d416f8b2a88eb54ae21c8d", null ]
 ];

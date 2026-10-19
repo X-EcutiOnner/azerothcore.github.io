@@ -1,7 +1,8 @@
 var a17117 =
 [
-    [ "FilterTargets", "d7/d28/a17117.html#a304da18e36ff67c34b80ab39583f8c96", null ],
-    [ "HandleScript", "d7/d28/a17117.html#adf99670bcf862288f513d2a26cbc256a", null ],
-    [ "PrepareSpellScript", "d7/d28/a17117.html#a976cb3c956d37fc9870494b0a6b8d9ee", null ],
-    [ "Register", "d7/d28/a17117.html#a4513de251b2f3d52fe44b7f7e715007c", null ]
+    [ "npc_toc_pet_hunterAI", "d7/d28/a17117.html#a751e37388df10abf4bf9df5d3f373fa3", null ],
+    [ "EnterEvadeMode", "d7/d28/a17117.html#a7f60ea2596fa4af2209333696dbe00e0", null ],
+    [ "myCanCast", "d7/d28/a17117.html#aefaa41a92000d8915853988ce3fd5bc4", null ],
+    [ "UpdateAI", "d7/d28/a17117.html#aec1d16cdcb7d86d7de4de10ca34f491d", null ],
+    [ "events", "d7/d28/a17117.html#ade038312363f976b34868ed2cbebb58d", null ]
 ];

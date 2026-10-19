@@ -1,5 +1,11 @@
 var a23121 =
 [
-    [ "npc_ashtongue_sorcerer", "d2/dd9/a23121.html#a0045af5cfbfcd2f26bcde2e2dffd04a6", null ],
-    [ "MovementInform", "d2/dd9/a23121.html#a56fa93f83e8a536b13667c8f780961b7", null ]
+    [ "boss_essence_of_desireAI", "d2/dd9/a23121.html#a02f6dec07038297c15c264fb501b01ab", null ],
+    [ "DamageTaken", "d2/dd9/a23121.html#abc2d334c185f519230e5ee4d1fc8ff39", null ],
+    [ "DoAction", "d2/dd9/a23121.html#ad55459d8e75f34783c1516be05cbb97f", null ],
+    [ "JustEngagedWith", "d2/dd9/a23121.html#a0976078399b2190cca25aa2ae5c3c201", null ],
+    [ "KilledUnit", "d2/dd9/a23121.html#a07509843bd658e3fc0b02cb817da37e9", null ],
+    [ "MovementInform", "d2/dd9/a23121.html#ad65068c5f56db269b4dc711745f96cfb", null ],
+    [ "Reset", "d2/dd9/a23121.html#a5c785c728d201a1a4f8f1e01d7000166", null ],
+    [ "UpdateAI", "d2/dd9/a23121.html#af348a1b996a8e7704ba55185ef79fe7d", null ]
 ];

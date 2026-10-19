@@ -1,7 +1,6 @@
 var a23585 =
 [
-    [ "HandleScript", "d0/d13/a23585.html#a7c1b4d0c8d2ad153cef62ce05fef814c", null ],
-    [ "PrepareSpellScript", "d0/d13/a23585.html#ab826f4f249679ffe87f9e6ccf6b9ecf0", null ],
-    [ "Register", "d0/d13/a23585.html#a82da72fd4eed6773c1f3a4288caa8963", null ],
-    [ "Validate", "d0/d13/a23585.html#a46aca18049e02d50f57579b3fdc705bd", null ]
+    [ "HandleAfterRemove", "d0/d13/a23585.html#a74610b06095572aa2c898cd84e0fb229", null ],
+    [ "PrepareAuraScript", "d0/d13/a23585.html#ac0d686490ff37810e0116dea4d0b6077", null ],
+    [ "Register", "d0/d13/a23585.html#aad72f4aaa19f92f7a71241311f5d0582", null ]
 ];

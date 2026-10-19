@@ -1,8 +1,6 @@
 var a12221 =
 [
-    [ "ToCloud9GuildHooks", "d1/d20/a12221.html#af92ed08219fca9b8967779a936332bee", null ],
-    [ "~ToCloud9GuildHooks", "d1/d20/a12221.html#a6352d89ded523200d4a60b91ff5c7fa4", null ],
-    [ "OnGuildMemberAdded", "d1/d20/a12221.html#aea11728fdf49e5a6677051ab61d87180", null ],
-    [ "OnGuildMemberLeft", "d1/d20/a12221.html#adada89524f817edcc5d2cfafb93ee6a1", null ],
-    [ "OnGuildMemberRemoved", "d1/d20/a12221.html#a98d80a4bec269157bebfabbddfd60054", null ]
+    [ "AuraProcHandler", "d1/d20/a12221.html#a1c0ad4a28c98d89a0afc2f8eeda9a421", null ],
+    [ "Call", "d1/d20/a12221.html#abc0c3be9dee08e995c282f20900f3c46", null ],
+    [ "_HandlerScript", "d1/d20/a12221.html#ada8d7a5659598b0092739a91ba2653bd", null ]
 ];

@@ -1,8 +1,16 @@
 var a05361 =
 [
-    [ "LocationInfoCallback", "d9/d1e/a05361.html#a81b8c00fcc0a1780445ffbdf85decfdf", null ],
-    [ "operator()", "d9/d1e/a05361.html#abd524e5a87daa798258d7851c526cd88", null ],
-    [ "locInfo", "d9/d1e/a05361.html#a9a8b8529a571b3652cd898b2888d8027", null ],
-    [ "prims", "d9/d1e/a05361.html#a19c87ad1c9665c3ddfbfa89ccdee5c10", null ],
-    [ "result", "d9/d1e/a05361.html#a1ada8b8a1742f02b2d1f28ee82903246", null ]
+    [ "GetLiquidFlagsFn", "d9/d1e/a05361.html#a172996acb562d916b51132e7e0072140", null ],
+    [ "IsVMAPDisabledForFn", "d9/d1e/a05361.html#a178edb6185bbdefbc08f2cf78205c1c6", null ],
+    [ "VMapMgr2", "d9/d1e/a05361.html#ac16d324a4ab5f27b18fe5f992f5288cd", null ],
+    [ "~VMapMgr2", "d9/d1e/a05361.html#afbbc51ff81e1aa107352354eb712b556", null ],
+    [ "convertPositionToInternalRep", "d9/d1e/a05361.html#ade8ab3f66eb603aae40a80fab7c52e67", null ],
+    [ "existsMap", "d9/d1e/a05361.html#af18b011f8c9939da7813fafbc3bfe014", null ],
+    [ "getDirFileName", "d9/d1e/a05361.html#ad2ad6e5bd41a585cf94c2e7d56358178", null ],
+    [ "GetLiquidFlagsDummy", "d9/d1e/a05361.html#a11761ce698c3e240366b03dd57142b25", null ],
+    [ "getMapFileName", "d9/d1e/a05361.html#aecec356ccb3fd3ddb52c7d889bd2c80d", null ],
+    [ "IsVMAPDisabledForDummy", "d9/d1e/a05361.html#a87d4d0a1553502c8c15fb12077ec34d2", null ],
+    [ "processCommand", "d9/d1e/a05361.html#a8ed4fc4a7b268adbef8cb7846be4aa88", null ],
+    [ "GetLiquidFlagsPtr", "d9/d1e/a05361.html#ae6be88472cb03382ebd998178371cb60", null ],
+    [ "IsVMAPDisabledForPtr", "d9/d1e/a05361.html#a38ceb27a94583eafa30dddd92239d6ca", null ]
 ];

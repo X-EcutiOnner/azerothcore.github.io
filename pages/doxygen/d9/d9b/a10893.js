@@ -1,6 +1,6 @@
 var a10893 =
 [
-    [ "OutdoorPvPScript", "d9/d9b/a10893.html#a1dfe19b5cc4e1eb2ad02ad8773aff290", null ],
-    [ "GetOutdoorPvP", "d9/d9b/a10893.html#aa213974f384c88ab65f7b7308dadb026", null ],
-    [ "IsDatabaseBound", "d9/d9b/a10893.html#ac22c6a9945738270452848f997d2818f", null ]
+    [ "LootScript", "d9/d9b/a10893.html#acb6898fdb67e5bdcf0de945da5ec667d", null ],
+    [ "IsDatabaseBound", "d9/d9b/a10893.html#ad60b605eac89be48efd339127e9cb9cd", null ],
+    [ "OnLootMoney", "d9/d9b/a10893.html#a56a57baead49f6815a9979b181a55375", null ]
 ];

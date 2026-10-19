@@ -1,14 +1,22 @@
 var a12789 =
 [
-    [ "boss_general_angerforge", "d0/da8/a12789.html#a0f65a3a8acdca0361f468538b4c8bb5e", null ],
-    [ "JustEngagedWith", "d0/da8/a12789.html#a5b2e7aead30ad3c07786c616c0b2f44e", null ],
-    [ "Reset", "d0/da8/a12789.html#a8f05f134eb43a6812bc2d41734d2429e", null ],
-    [ "SummonAdds", "d0/da8/a12789.html#a723891cc60b4d84b29d395e4ddffff57", null ],
-    [ "SummonMedics", "d0/da8/a12789.html#ac21b4424cdf3e5e336970e1f8d5aea98", null ],
-    [ "UpdateAI", "d0/da8/a12789.html#ae37de4567bf4a03779a87e9d650ac1ea", null ],
-    [ "_addsTimer", "d0/da8/a12789.html#a1ddffcd960d1c06ade7b6de70faeb46d", null ],
-    [ "_cleaveTimer", "d0/da8/a12789.html#a47958223deb7aa97aaf331bdffd9dd2d", null ],
-    [ "_hamStringTimer", "d0/da8/a12789.html#adaa360262079ea390077cea70e401da5", null ],
-    [ "_medics", "d0/da8/a12789.html#ac1039c144c16e70818a199d91cace370", null ],
-    [ "_mightyBlowTimer", "d0/da8/a12789.html#a7bd4ccf9648804c972dec5d7a35eaaa4", null ]
+    [ "npc_grimstone", "d0/da8/a12789.html#a03d41532eb767f0e09982ede11f0fb80", null ],
+    [ "HandleGameObject", "d0/da8/a12789.html#a66240c764417e9d5750e3dcce8167384", null ],
+    [ "JustSummoned", "d0/da8/a12789.html#aea0c13489f4f17008b44d054b9a1cf3a", null ],
+    [ "Reset", "d0/da8/a12789.html#a4d1bc515c8302157e61f8fd4ad17b701", null ],
+    [ "SpawnWave", "d0/da8/a12789.html#a85b795cfd49343d300cdd1b1f028e141", null ],
+    [ "SummonBoss", "d0/da8/a12789.html#a5129e8d6f753fa0dc2f387bce2a76c24", null ],
+    [ "SummonedCreatureDies", "d0/da8/a12789.html#a0a55b772ca85554507ed36ba620c14c4", null ],
+    [ "UpdateEscortAI", "d0/da8/a12789.html#a848b405425ef4bb3dc20a4ec4ea081af", null ],
+    [ "updateReset", "d0/da8/a12789.html#afe73a3b9a9e7c9e24ea5ba09c23c05fa", null ],
+    [ "WaypointReached", "d0/da8/a12789.html#a4d381cecdada9577012e2c7914b7c5f9", null ],
+    [ "WaypointReached", "d0/da8/a12789.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "BossSpawnId", "d0/da8/a12789.html#a145a7bbecf4e061f44355948367f33bc", null ],
+    [ "eventPhase", "d0/da8/a12789.html#a0cb794b7343a42cc55c1be563acd4e52", null ],
+    [ "eventTimer", "d0/da8/a12789.html#aa246b08433ad44365e2bfe47a9025001", null ],
+    [ "instance", "d0/da8/a12789.html#a119ff38285b880d33266a7340ff1fe53", null ],
+    [ "MobSpawnId", "d0/da8/a12789.html#a5a54226cc0ada2095dccf93b7a18bae3", null ],
+    [ "resetTimer", "d0/da8/a12789.html#a1995b112b7e0735d0ab2d367150f05d3", null ],
+    [ "summons", "d0/da8/a12789.html#a7ed3101f9d8e81d819a7d73581952508", null ],
+    [ "theldrenEvent", "d0/da8/a12789.html#a720b408aa7e1a033c7ff28e65a505eea", null ]
 ];

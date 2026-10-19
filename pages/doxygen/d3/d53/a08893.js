@@ -1,11 +1,16 @@
 var a08893 =
 [
-    [ "ObjectGuidGeneratorBase", "d3/d53/a08893.html#a8af6741cc884915ee86b489fc970fed1", null ],
-    [ "~ObjectGuidGeneratorBase", "d3/d53/a08893.html#aaa4430614e899fb1186f52875cf8d2ea", null ],
-    [ "Generate", "d3/d53/a08893.html#ac655829fc5af48625c04bab57597fe66", null ],
-    [ "GetClusterGuid", "d3/d53/a08893.html#a7617177be7e333129fe0b6ed94019f6e", null ],
-    [ "GetNextAfterMaxUsed", "d3/d53/a08893.html#abf1f20b97af8071459bd850e7106a442", null ],
-    [ "HandleCounterOverflow", "d3/d53/a08893.html#ada7a44ac47b112491c575c38465740fc", null ],
-    [ "Set", "d3/d53/a08893.html#a18b016edddec211c9cc4b0ff8682cb30", null ],
-    [ "_nextGuid", "d3/d53/a08893.html#a4a14102e019aa10f41b050054cacca22", null ]
+    [ "UpdateState", "d3/d53/a08893.html#aa4f58928ebfbd115280b12866d9b7d23", [
+      [ "NotUpdating", "d3/d53/a08893.html#aa4f58928ebfbd115280b12866d9b7d23a29cf8e7615ba78787e84d5298e9835ba", null ],
+      [ "PendingAdd", "d3/d53/a08893.html#aa4f58928ebfbd115280b12866d9b7d23acc2e650db938ff5bf5525de448cd8ddf", null ],
+      [ "Updating", "d3/d53/a08893.html#aa4f58928ebfbd115280b12866d9b7d23ad1caed37f15232d71507dbf81af2a919", null ]
+    ] ],
+    [ "UpdatableMapObject", "d3/d53/a08893.html#a5602f3b21fe1299e300e71d645f3eaee", null ],
+    [ "GetMapUpdateListOffset", "d3/d53/a08893.html#a52bf945e86eba8c73701a3e378503eeb", null ],
+    [ "GetUpdateState", "d3/d53/a08893.html#a90b2d1a9f5b356f013ac4a357020de66", null ],
+    [ "SetMapUpdateListOffset", "d3/d53/a08893.html#aef864d62d4cbefb63647fe691d69dfd4", null ],
+    [ "SetUpdateState", "d3/d53/a08893.html#a7c95f861c7e13c17e2ebf8088882a709", null ],
+    [ "Map", "d3/d53/a08893.html#ad2f32e921244459f7cc6d50355429cc6", null ],
+    [ "_mapUpdateListOffset", "d3/d53/a08893.html#af4aaf71a3308e72af67f20bf0e7ced57", null ],
+    [ "_mapUpdateState", "d3/d53/a08893.html#a46f9010396bb1bd84fb654bbe2795f8e", null ]
 ];

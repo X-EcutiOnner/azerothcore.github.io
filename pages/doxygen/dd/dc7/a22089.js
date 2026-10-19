@@ -1,11 +1,6 @@
 var a22089 =
 [
-    [ "npc_lake_frogAI", "dd/dc7/a22089.html#ac08eeed39d046ce35d7d6aa65d53cab5", null ],
-    [ "ReceiveEmote", "dd/dc7/a22089.html#abd58e65b6829c70818c578ed615a980b", null ],
-    [ "Reset", "dd/dc7/a22089.html#a3773b3a21ea25db316481f1da5e6dd3c", null ],
-    [ "sGossipSelect", "dd/dc7/a22089.html#a95906677ff65e004408ae65df3f49b5c", null ],
-    [ "UpdateAI", "dd/dc7/a22089.html#aed8368ec27fed5cd14e4a54091aa9584", null ],
-    [ "_events", "dd/dc7/a22089.html#a314d7d7891c05bda288ea0d590f0cfa4", null ],
-    [ "_following", "dd/dc7/a22089.html#a0078f9134a61f0ec2465ce103523e341", null ],
-    [ "_runningScript", "dd/dc7/a22089.html#af76102ba6c9ffd80baa95623b7312980", null ]
+    [ "npc_mrfloppyAI", "d6/d01/a22093.html", "d6/d01/a22093" ],
+    [ "npc_mrfloppy", "dd/dc7/a22089.html#a0515ca75aba9b7f6f5577b53e7520f6e", null ],
+    [ "GetAI", "dd/dc7/a22089.html#a88590566309f3fc155eb6dc26055a161", null ]
 ];

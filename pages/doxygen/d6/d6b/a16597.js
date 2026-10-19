@@ -1,6 +1,12 @@
 var a16597 =
 [
-    [ "npc_baltharus_the_warborn_cloneAI", "d9/d1e/a16601.html", "d9/d1e/a16601" ],
-    [ "npc_baltharus_the_warborn_clone", "d6/d6b/a16597.html#a7ed0731a015709ecd3c0c26fafb795ff", null ],
-    [ "GetAI", "d6/d6b/a16597.html#a87b50fbc3a67345f375b41c3cb2ba754", null ]
+    [ "HandleDummy", "d6/d6b/a16597.html#aebbcaa1df9a6379998bb2069089f45bd", null ],
+    [ "HandleSchoolDamage", "d6/d6b/a16597.html#a8372b7d176c94689b1b7fe99add7812e", null ],
+    [ "HandleSummon", "d6/d6b/a16597.html#a64ffa7d9c5cdd7fab345b2f0f8acc0f1", null ],
+    [ "Load", "d6/d6b/a16597.html#ae47e8a9c4223fd65b81c842687e19f44", null ],
+    [ "PrepareSpellScript", "d6/d6b/a16597.html#a3fd71e2a93f99f19443640a2147b1663", null ],
+    [ "Register", "d6/d6b/a16597.html#a8278d362a4354ccf81665ce0067c9a06", null ],
+    [ "Validate", "d6/d6b/a16597.html#a414b1e1396910b87a671305ce9dcab09", null ],
+    [ "_dummyFired", "d6/d6b/a16597.html#a9642ac8cfab23040b699606874ad08ca", null ],
+    [ "_spawned", "d6/d6b/a16597.html#aa657a9869f04a1d1d2ce71f6d8464b17", null ]
 ];

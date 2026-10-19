@@ -1,9 +1,5 @@
 var a20453 =
 [
-    [ "boss_freya_nature_bomb", "da/db3/a20453.html#a050672942ab467557d21a930ab22827c", null ],
-    [ "Reset", "da/db3/a20453.html#ad2a679ba554a44f28d1f09a10fc88ec9", null ],
-    [ "UpdateAI", "da/db3/a20453.html#aae8b388dfa69896dd82557c1a4dcd135", null ],
-    [ "_explodeTimer", "da/db3/a20453.html#a09292e899ad771d9b15d2bc21ccd5b8d", null ],
-    [ "_goGUID", "da/db3/a20453.html#a18e66d31a4bd243ec3f7d438beacad77", null ],
-    [ "Timer", "da/db3/a20453.html#affadb797817ddf512209d1d71097baf3", null ]
+    [ "achievement_flame_leviathan_shutout", "da/db3/a20453.html#a555e0d206b7f730665d301c7e03b23e6", null ],
+    [ "OnCheck", "da/db3/a20453.html#af548232f563fd387bc8ee25b696a2f99", null ]
 ];

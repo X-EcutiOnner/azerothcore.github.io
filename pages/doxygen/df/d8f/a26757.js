@@ -1,6 +1,6 @@
 var a26757 =
 [
-    [ "CheckProc", "df/d8f/a26757.html#a6d19e939f4145f4226f88777e37c7514", null ],
-    [ "PrepareAuraScript", "df/d8f/a26757.html#a821456f72ba2f38ecc31040560ea155f", null ],
-    [ "Register", "df/d8f/a26757.html#a63a0773da832d8490d952de35fe5a29d", null ]
+    [ "HandleProc", "df/d8f/a26757.html#a81736c5dd5fd02181673a9f12d4d9ab2", null ],
+    [ "PrepareAuraScript", "df/d8f/a26757.html#a1710a08cfe8b6f9b3890840bac97c711", null ],
+    [ "Register", "df/d8f/a26757.html#a2e65cb7fa379f1330610aaa56e002ba3", null ]
 ];

@@ -1,6 +1,7 @@
 var a25837 =
 [
-    [ "HandleStackDrop", "df/d3f/a25837.html#a9a1409c505aff1fd1021aea683c1aa8e", null ],
-    [ "PrepareAuraScript", "df/d3f/a25837.html#afdb5f1df2e88976bb62efd0f8859e3da", null ],
-    [ "Register", "df/d3f/a25837.html#ae67ab53e9c82a054e21a1242b5f50b4b", null ]
+    [ "HandleScriptEffect", "df/d3f/a25837.html#ae3c2900d98c2fd51ff0888ea5d1072c4", null ],
+    [ "PrepareSpellScript", "df/d3f/a25837.html#a29ac1789b8023ef3339a7b40ee9c31ab", null ],
+    [ "Register", "df/d3f/a25837.html#a321098d2325bfb9cea674d1137348350", null ],
+    [ "Validate", "df/d3f/a25837.html#aa16a67bf42f51b838d22dcbe4b5b6f7b", null ]
 ];

@@ -1,9 +1,7 @@
 var a20317 =
 [
-    [ "npc_hodirs_fury", "d0/d83/a20317.html#abda902842d76a0a5a17196a11654f5ab", null ],
-    [ "MovementInform", "d0/d83/a20317.html#a4d82007c5b70edad74b461948629b9fb", null ],
-    [ "Reset", "d0/d83/a20317.html#a8f50cc6b79ba7feab8ac2f83f82a598f", null ],
-    [ "UpdateAI", "d0/d83/a20317.html#a58a8b1664bb00b930cce86e856facb8b", null ],
-    [ "_switchTargetTimer", "d0/d83/a20317.html#a9736332e6f3d163f04aa12cbd6829670", null ],
-    [ "_timeToHit", "d0/d83/a20317.html#a611d171dc27bd78d298040eabfc00e5f", null ]
+    [ "HandleScriptEffect", "d0/d83/a20317.html#a96033c335117fa39e96a2dd70c44616a", null ],
+    [ "PrepareSpellScript", "d0/d83/a20317.html#abf5f28d0fdb86a55b5b6f545a1fec633", null ],
+    [ "Register", "d0/d83/a20317.html#a0acb0e31242fda06456081ef2937157e", null ],
+    [ "Validate", "d0/d83/a20317.html#a648ce84276009cdee91c921b99193aea", null ]
 ];

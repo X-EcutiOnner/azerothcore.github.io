@@ -1,16 +1,8 @@
 var a29521 =
 [
-    [ "amount", "dd/d6d/a29521.html#a3086819447f7ae23bf5697a45cbc6f93", null ],
-    [ "aura_id", "dd/d6d/a29521.html#a5866d4e8ce373b6eb9af1d27e2db2c1b", null ],
-    [ "charges", "dd/d6d/a29521.html#ade74be0906ef080347ac81ed48379cd1", null ],
-    [ "description", "dd/d6d/a29521.html#a7dc66c82551a59750d6294f3503a3dbc", null ],
-    [ "EnchantmentCondition", "dd/d6d/a29521.html#a2416afe9ae8371b9d284dd3c176c98d1", null ],
-    [ "GemID", "dd/d6d/a29521.html#a324fd42b7184f5c626c33323a4d72b07", null ],
-    [ "ID", "dd/d6d/a29521.html#af46fa8808024e75705b812b695bd1590", null ],
-    [ "requiredLevel", "dd/d6d/a29521.html#a53bf562ea4dfccb14bfb627c831b477e", null ],
-    [ "requiredSkill", "dd/d6d/a29521.html#a6ca7dac0e1f497b3c96887a6c09097bc", null ],
-    [ "requiredSkillValue", "dd/d6d/a29521.html#a7a57764dad60c9369826638c1355127e", null ],
-    [ "slot", "dd/d6d/a29521.html#af64b13ce2e81d5be7e73763cd5c5e4b8", null ],
-    [ "spellid", "dd/d6d/a29521.html#a694edc79cf8ba571338bff2a3aad512d", null ],
-    [ "type", "dd/d6d/a29521.html#adb693b7ada8d1a65c1d8091d1055c7bf", null ]
+    [ "canLink", "dd/d6d/a29521.html#aff87dafee61faf5afdf6248f6f3c9a35", null ],
+    [ "categoryId", "dd/d6d/a29521.html#abf285e69e8e2a90626a157cb0c50d158", null ],
+    [ "id", "dd/d6d/a29521.html#a7740b26f1bde19a05b002c00eded25e3", null ],
+    [ "name", "dd/d6d/a29521.html#afb5e77ab4f6faa132ca62f7664dce116", null ],
+    [ "spellIcon", "dd/d6d/a29521.html#a3a20ea7c73a6739e89bd570d6f4d4b03", null ]
 ];

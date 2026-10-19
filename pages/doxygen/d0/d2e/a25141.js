@@ -1,9 +1,10 @@
 var a25141 =
 [
-    [ "PrepareAuraScript", "d0/d2e/a25141.html#accf6cc89fed8dbf7c3cee201f1e9e806", null ],
-    [ "Register", "d0/d2e/a25141.html#a04efbc64bfa0312bc1f372e403803c32", null ],
-    [ "Update", "d0/d2e/a25141.html#aa463442b994b6275b2e12fe06ae7805c", null ],
-    [ "amplitude", "d0/d2e/a25141.html#aff726eef4dbd10dd71f1614ab6755ea1", null ],
-    [ "amplitude", "d0/d2e/a25141.html#ad96a6059cb2f4bdf8e2b341d0a6e294f", null ],
-    [ "isPeriodic", "d0/d2e/a25141.html#a0732bf60822bbb547be014566d0e092c", null ]
+    [ "HandleTickUpdate", "d0/d2e/a25141.html#aa9c1d6c644a3e42b21d1025fc3b06f69", null ],
+    [ "PrepareAuraScript", "d0/d2e/a25141.html#aa930d63d22acf8e7aebbdd828cd09f36", null ],
+    [ "Register", "d0/d2e/a25141.html#abf597eb55f63858528325eef387fc344", null ],
+    [ "SetTickHeal", "d0/d2e/a25141.html#a2eabcc9aa3898c11062677eca73d1de1", null ],
+    [ "Validate", "d0/d2e/a25141.html#ab59a1830ca97e1bda455da330a894d5c", null ],
+    [ "_baseReduction", "d0/d2e/a25141.html#a8a3a8adce3dde9300e380500c6877d37", null ],
+    [ "_baseTick", "d0/d2e/a25141.html#acd801570e2a1b274ed0d9e8bcc6b66f0", null ]
 ];

@@ -1,5 +1,9 @@
 var a20801 =
 [
-    [ "achievement_mimiron_set_up_us_the_bomb_13", "de/d6a/a20801.html#a74b0cafbc4be4261c8f8f2af3671cbd9", null ],
-    [ "OnCheck", "de/d6a/a20801.html#ac91196d094f159932ad871ffa9c0f405", null ]
+    [ "OnApply", "de/d6a/a20801.html#aaf6e89fc5d101b1622666a6fe15f20e7", null ],
+    [ "OnRemove", "de/d6a/a20801.html#a9bfdefb3e212cca086dec752687e2b93", null ],
+    [ "OnRemoveSelf", "de/d6a/a20801.html#a3076446d6761263fdb7f973f01be3cf2", null ],
+    [ "PrepareAuraScript", "de/d6a/a20801.html#a685d6c0ffcc258f9d6857242cb28f6a8", null ],
+    [ "Register", "de/d6a/a20801.html#a1369972dfbf969cb39efa88075fc13df", null ],
+    [ "Validate", "de/d6a/a20801.html#ada8c858f70beb71765fd0f796209677b", null ]
 ];

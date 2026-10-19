@@ -1,6 +1,7 @@
 var a24017 =
 [
-    [ "lapseTeleport", "d1/dd9/a24017.html#a55c4330397214bf3a43628b3067d4634", null ],
-    [ "Execute", "d1/dd9/a24017.html#a122023ed13fce2f5bb3721e459964443", null ],
-    [ "_owner", "d1/dd9/a24017.html#a0e678c5cdb862390ea50c8d6057b7093", null ]
+    [ "OnApply", "d1/dd9/a24017.html#abab02b8307b762d070ba12358f59916d", null ],
+    [ "OnRemove", "d1/dd9/a24017.html#a5ac45a5cfa17689d241c44241216ff38", null ],
+    [ "PrepareAuraScript", "d1/dd9/a24017.html#a54f128745c3c35d7e52e9de7bb69a39a", null ],
+    [ "Register", "d1/dd9/a24017.html#ae130b3cddbe0d9ce21d888e21472d64b", null ]
 ];

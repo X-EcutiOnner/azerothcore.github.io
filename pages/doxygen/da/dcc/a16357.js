@@ -1,19 +1,6 @@
 var a16357 =
 [
-    [ "npc_weegli_blastfuseAI", "da/dcc/a16357.html#acde6b3e037d3c297e5d1beccdbe3d03a", null ],
-    [ "AttackStart", "da/dcc/a16357.html#a5e9140b38021ed6a2808e026fd77f8f1", null ],
-    [ "DestroyDoor", "da/dcc/a16357.html#a0cf76693b1af179c9857abdccc6931ee", null ],
-    [ "InitializeAI", "da/dcc/a16357.html#a61490f8c63f8056ac9f145ed8dd789c7", null ],
-    [ "JustReachedHome", "da/dcc/a16357.html#a4a88bc4bff8b5b2f75e3dd0c25927815", null ],
-    [ "MovementInform", "da/dcc/a16357.html#a33470a45eba0cbb62b041010f6aed302", null ],
-    [ "Reset", "da/dcc/a16357.html#abec9f353a1430afae12c21273bf32197", null ],
-    [ "sGossipHello", "da/dcc/a16357.html#a3a8381fa5e5d4daf19f312166247bea5", null ],
-    [ "sGossipSelect", "da/dcc/a16357.html#a0927116dcc55a1107dce7c65d1295e2a", null ],
-    [ "UpdateAI", "da/dcc/a16357.html#a73e482ebbb1566738e6775a574500dc8", null ],
-    [ "Bomb_Timer", "da/dcc/a16357.html#af6f68e291ce7d8cf25105ac64d7eebff", null ],
-    [ "destroyingDoor", "da/dcc/a16357.html#a0c7f207666da8ad74ff9dc64b582a042", null ],
-    [ "instance", "da/dcc/a16357.html#a609616e5136cf11bc16f9bb30ba92879", null ],
-    [ "LandMine_Timer", "da/dcc/a16357.html#ad9bab1d2c7a2baf35f6f7fb2cb4a27c7", null ],
-    [ "outroStage", "da/dcc/a16357.html#a30cdbce7bddb4d1d221925de86329a41", null ],
-    [ "outroTimer", "da/dcc/a16357.html#a08ef419fbef2ec38b7bcd408f135cd29", null ]
+    [ "instance_zulfarrak_InstanceMapScript", "d4/d04/a16361.html", "d4/d04/a16361" ],
+    [ "instance_zulfarrak", "da/dcc/a16357.html#a7c8594fe278dc9f6c3ab6f291cf9bad2", null ],
+    [ "GetInstanceScript", "da/dcc/a16357.html#a5f092341e49848c9d321452be2193d56", null ]
 ];

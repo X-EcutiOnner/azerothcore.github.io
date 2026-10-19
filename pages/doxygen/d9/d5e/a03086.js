@@ -1,16 +1,21 @@
 var a03086 =
 [
-    [ "GameObjectTemplate", "d6/d1f/a08655.html", "d6/d1f/a08655" ],
-    [ "GameObjectTemplateAddon", "d6/dbd/a08779.html", "d6/dbd/a08779" ],
-    [ "GameObjectLocale", "d0/db3/a08783.html", "d0/db3/a08783" ],
-    [ "QuaternionData", "dc/d09/a08787.html", "dc/d09/a08787" ],
-    [ "GameObjectAddon", "de/d8e/a08791.html", "de/d8e/a08791" ],
-    [ "GameObjectData", "d6/d72/a08795.html", "d6/d72/a08795" ],
-    [ "MAX_GAMEOBJECT_QUEST_ITEMS", "d9/d5e/a03086.html#a7698721f2eb4f87abac1a64a64ecf676", null ],
-    [ "MAX_GO_STATE", "d9/d5e/a03086.html#ac148792c2982ecdddc593bf3871aa520", null ],
-    [ "GOState", "d9/d5e/a03086.html#ac17cd142af80da019367bb796b15e5ab", [
-      [ "GO_STATE_ACTIVE", "d9/d5e/a03086.html#ac17cd142af80da019367bb796b15e5abaf4f299c1cfc830c90418c4487c567c1e", null ],
-      [ "GO_STATE_READY", "d9/d5e/a03086.html#ac17cd142af80da019367bb796b15e5aba8dd2dd7e5c1dda64ff6d0d06d623b650", null ],
-      [ "GO_STATE_ACTIVE_ALTERNATIVE", "d9/d5e/a03086.html#ac17cd142af80da019367bb796b15e5abaf8410e5f8e696adf15ecdd441dee7e0e", null ]
+    [ "Totem", "d7/d87/a09153.html", "d7/d87/a09153" ],
+    [ "EARTHBIND_TOTEM_ENTRY", "d9/d5e/a03086.html#a6cae59b1369b7371cefb92be8fc73fa5", null ],
+    [ "SENTRY_TOTEM_ENTRY", "d9/d5e/a03086.html#a2bd46e1df17fdee45cd35896306092fb", null ],
+    [ "TotemImmunitySpells", "d9/d5e/a03086.html#a526213bf692d4f8d189a61617f4a59c9", [
+      [ "SPELL_CYCLONE", "d9/d5e/a03086.html#a526213bf692d4f8d189a61617f4a59c9ab0dea4de61535b7690ae66cfa6440f58", null ],
+      [ "SPELL_STONECLAW", "d9/d5e/a03086.html#a526213bf692d4f8d189a61617f4a59c9ad0896fc7fa22551f57cc65fd56ee8649", null ],
+      [ "SPELL_BIND_SIGHT", "d9/d5e/a03086.html#a526213bf692d4f8d189a61617f4a59c9a1f48e779f72284c7b1140c6be1a5a81a", null ],
+      [ "SPELL_INTERVENE", "d9/d5e/a03086.html#a526213bf692d4f8d189a61617f4a59c9ac663f276cbe6aa86a2ae46813fc14b8c", null ]
+    ] ],
+    [ "TotemSpellIds", "d9/d5e/a03086.html#a7092ec93c941969cd2cdd2291c6de0be", [
+      [ "SentryTotemSpell", "d9/d5e/a03086.html#a7092ec93c941969cd2cdd2291c6de0bea2ff316c1216f8b3e5f60a3700214c8c3", null ],
+      [ "FireTotemSpell", "d9/d5e/a03086.html#a7092ec93c941969cd2cdd2291c6de0bea52ad0e17d0d0699c294f9434023aeea7", null ]
+    ] ],
+    [ "TotemType", "d9/d5e/a03086.html#a65151889ab4b03cf02268cc7a7ff0ba3", [
+      [ "TOTEM_PASSIVE", "d9/d5e/a03086.html#a65151889ab4b03cf02268cc7a7ff0ba3a63f155f3367aa262aae567b57c623069", null ],
+      [ "TOTEM_ACTIVE", "d9/d5e/a03086.html#a65151889ab4b03cf02268cc7a7ff0ba3a3c3ecb49d653993abf86f289019e27b0", null ],
+      [ "TOTEM_STATUE", "d9/d5e/a03086.html#a65151889ab4b03cf02268cc7a7ff0ba3ab0fbf32f7d371a34f276dfdf6552e300", null ]
     ] ]
 ];

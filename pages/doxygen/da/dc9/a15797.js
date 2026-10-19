@@ -1,7 +1,13 @@
 var a15797 =
 [
-    [ "FilterTargets", "da/dc9/a15797.html#a76e8285baf1d14d560ad764eeab86cd5", null ],
-    [ "HandleOnHit", "da/dc9/a15797.html#a587db6fa1dc5788e0cc9ec5e486e9393", null ],
-    [ "PrepareSpellScript", "da/dc9/a15797.html#ad7372e543391a23c003b4121e0dd8a09", null ],
-    [ "Register", "da/dc9/a15797.html#a9749c72e2c7964cd4a2b2f9a77da69ec", null ]
+    [ "npc_dirt_mound", "da/dc9/a15797.html#add7daefa1c96fb9d843248f8ca4796f6", null ],
+    [ "ChaseNewTarget", "da/dc9/a15797.html#a16656fb7ad8cda5916e8da0002cf0292", null ],
+    [ "EnterEvadeMode", "da/dc9/a15797.html#ac5fdeea9dc5553b689d3a8a9b0b73d34", null ],
+    [ "JustEngagedWith", "da/dc9/a15797.html#abf39fb8d63325eea7928b88b2b486ad2", null ],
+    [ "JustSummoned", "da/dc9/a15797.html#a5da17256d0cd4f6cb0e1256afe4b6539", null ],
+    [ "Reset", "da/dc9/a15797.html#ae1662eb73f21351e07d00a717421de68", null ],
+    [ "SetData", "da/dc9/a15797.html#a4faa65dd3260104202e4bdd34bc0b67d", null ],
+    [ "UpdateAI", "da/dc9/a15797.html#a88447191070cf8b84df96db565eef48d", null ],
+    [ "_instance", "da/dc9/a15797.html#ac9f138567a4367aeb5d7b1f6caea90c6", null ],
+    [ "_ouroHealth", "da/dc9/a15797.html#ac83391fa5069ae4574748f82d15e833d", null ]
 ];

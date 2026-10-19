@@ -1,4 +1,5 @@
 var a04940 =
 [
-    [ "get_listen_fd", "da/d94/a04940.html#a0564629d7b84ad2abab3b0a3a78f888e", null ]
+    [ "Acore::AhoCorasick< CharT >", "d7/d3b/a05841.html", "d7/d3b/a05841" ],
+    [ "Acore::AhoCorasick< CharT >::Node", "dd/d98/a05845.html", "dd/d98/a05845" ]
 ];

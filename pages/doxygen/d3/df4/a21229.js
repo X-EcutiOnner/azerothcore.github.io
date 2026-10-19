@@ -1,6 +1,8 @@
 var a21229 =
 [
-    [ "entry", "d3/df4/a21229.html#aa9907022aea07d150223562376672353", null ],
-    [ "guid", "d3/df4/a21229.html#af6bd3717f5e809607edd72ed4c9200ef", null ],
-    [ "index", "d3/df4/a21229.html#a004f733fe69f93716e2280977be5dfb8", null ]
+    [ "FilterTargets", "d3/df4/a21229.html#a9079f7163e23814eccfadd393f857c22", null ],
+    [ "HandleScriptEffect", "d3/df4/a21229.html#aae469190c1edc1fe45914bad1dac4e93", null ],
+    [ "PrepareSpellScript", "d3/df4/a21229.html#a1bced7e9364a1abb7b718b6786eada9f", null ],
+    [ "Register", "d3/df4/a21229.html#a97265071f226fbd17c37d432cf9e2350", null ],
+    [ "Validate", "d3/df4/a21229.html#aeec0bdd2e39db2da657247376ddcd195", null ]
 ];

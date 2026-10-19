@@ -1,4 +1,6 @@
 var a08829 =
 [
-    [ "Name", "d0/d6b/a08829.html#aab0b8fc04dcd6a8c551f5dfc4846b290", null ]
+    [ "DamageMax", "d0/d6b/a08829.html#afc0bd7960848f6434c182a3fadc1e256", null ],
+    [ "DamageMin", "d0/d6b/a08829.html#acbab962cbc25ad032c97216feac281bb", null ],
+    [ "DamageType", "d0/d6b/a08829.html#aecdcc73f2cb30ef5cc149607e01bbe34", null ]
 ];

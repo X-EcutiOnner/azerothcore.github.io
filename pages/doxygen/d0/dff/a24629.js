@@ -1,7 +1,6 @@
 var a24629 =
 [
-    [ "HandleEffectApply", "d0/dff/a24629.html#a9923e38a2b5999d932d85be17a50ac83", null ],
-    [ "HandleEffectRemove", "d0/dff/a24629.html#a4c1f611b4fd0cf33f654d59e783db32a", null ],
-    [ "PrepareAuraScript", "d0/dff/a24629.html#a105df22901477c34757e62a0305006d4", null ],
-    [ "Register", "d0/dff/a24629.html#a16f2daff28dc07f2cac8d53f4813909f", null ]
+    [ "DeathEvent", "d0/dff/a24629.html#a2fb9a98c077d715c4648aede6597276e", null ],
+    [ "Execute", "d0/dff/a24629.html#a497ac46ab1acf95816020fc6be8ce03a", null ],
+    [ "_owner", "d0/dff/a24629.html#a099d0d5ae50126f00220b3ed90907617", null ]
 ];

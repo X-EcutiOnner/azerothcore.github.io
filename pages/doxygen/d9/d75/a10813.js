@@ -1,5 +1,6 @@
 var a10813 =
 [
-    [ "GenericCreatureScript", "d9/d75/a10813.html#a52157430320e253a5897612623eb796c", null ],
-    [ "GetAI", "d9/d75/a10813.html#a9e8eb28ece41af0c4159710c6eb51395", null ]
+    [ "BattlegroundMapScript", "d9/d75/a10813.html#aa976810defac9b6838553f8d28ea9366", null ],
+    [ "checkValidity", "d9/d75/a10813.html#a90584770132eb71cffc6e25a674750ad", null ],
+    [ "isAfterLoadScript", "d9/d75/a10813.html#a0148a79556f82c990fe0fc494d03c7ab", null ]
 ];

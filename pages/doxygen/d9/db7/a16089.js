@@ -1,6 +1,7 @@
 var a16089 =
 [
-    [ "npc_omenAI", "d8/d32/a16093.html", "d8/d32/a16093" ],
-    [ "npc_omen", "d9/db7/a16089.html#aff955303a8b9741838779a59dd496f62", null ],
-    [ "GetAI", "d9/db7/a16089.html#a8023ad3298000d9819c46f46a93166d4", null ]
+    [ "HandleDummy", "d9/db7/a16089.html#a30a87266b89021caf7d05c45397f70d1", null ],
+    [ "PrepareSpellScript", "d9/db7/a16089.html#a43a92b346088d710719722e8feed9634", null ],
+    [ "Register", "d9/db7/a16089.html#ad7a53cc6a24197c050ed8577f6c6cc12", null ],
+    [ "Validate", "d9/db7/a16089.html#a8b5097b623adbc1d8a10d7b1c4c248ab", null ]
 ];

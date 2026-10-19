@@ -1,7 +1,7 @@
 var a15029 =
 [
-    [ "HandleScript", "d1/d55/a15029.html#a78899a874a645d531dd4d89f2bd5478a", null ],
-    [ "PrepareSpellScript", "d1/d55/a15029.html#adc96c1dbf0b561a72d26dca57d5bfcec", null ],
-    [ "Register", "d1/d55/a15029.html#a76942c06492a48ce16bb85cf55d1e58d", null ],
-    [ "Validate", "d1/d55/a15029.html#a727f7c6ab1a2b5635e0b8fbd071d863d", null ]
+    [ "go_loosely_turned_soilAI", "d8/dd2/a15033.html", "d8/dd2/a15033" ],
+    [ "go_loosely_turned_soil", "d1/d55/a15029.html#a3b4d51e2b3a604e030962127269236f1", null ],
+    [ "GetAI", "d1/d55/a15029.html#acead5810a848f8837fa65af1f2ac00bd", null ],
+    [ "OnQuestReward", "d1/d55/a15029.html#a1ac57b34c5b3e21c033330eaeefaa6a8", null ]
 ];

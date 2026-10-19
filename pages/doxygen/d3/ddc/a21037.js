@@ -1,5 +1,7 @@
 var a21037 =
 [
-    [ "achievement_nerf_gravity_bombs", "d3/ddc/a21037.html#a8aefe3a8836e38c9133e7baf724dc469", null ],
-    [ "OnCheck", "d3/ddc/a21037.html#a3a1f9dc7218dfd8345412b338e447b72", null ]
+    [ "OnRemove", "d3/ddc/a21037.html#ae99b372d0894e0c7aafc44f2a3cfac4f", null ],
+    [ "PrepareAuraScript", "d3/ddc/a21037.html#ae99f88a63656d0b48ca4b85548cc736b", null ],
+    [ "Register", "d3/ddc/a21037.html#a27c5665b64c50df5d9c67d5136ab7567", null ],
+    [ "Validate", "d3/ddc/a21037.html#a3d351d7e9ac022ea1bd912843fe66891", null ]
 ];

@@ -1,5 +1,12 @@
 var a12909 =
 [
-    [ "at_trigger_the_beast_movement", "d1/dec/a12909.html#a9534f4b71deab4a2a9a94a36e2946fc7", null ],
-    [ "OnTrigger", "d1/dec/a12909.html#a333d685d765497a950fde35067d876a1", null ]
+    [ "boss_pyroguard_emberseer", "d1/dec/a12909.html#a4c1bd9e71776fa088a84009565dc527d", null ],
+    [ "JustDied", "d1/dec/a12909.html#a6f0e58c7107563f40e864eede5a907d5", null ],
+    [ "JustEngagedWith", "d1/dec/a12909.html#a1c9662393ea5862ee26f5242e184fd74", null ],
+    [ "OpenDoors", "d1/dec/a12909.html#a80761b3fad5864ce80dae81d31df748c", null ],
+    [ "Reset", "d1/dec/a12909.html#a7eda06b39dc920040e205595a0f8efa2", null ],
+    [ "SetData", "d1/dec/a12909.html#a533c643c9b65813f48fd92ee73670fae", null ],
+    [ "SpellHit", "d1/dec/a12909.html#aa9842818e2ab218ac175cebfc82f6adf", null ],
+    [ "UpdateAI", "d1/dec/a12909.html#a7e12a0ef98e8c751a33e4492ae368074", null ],
+    [ "UpdateRunes", "d1/dec/a12909.html#af80bdd2eb6200d3abbcb08b57798f1e5", null ]
 ];

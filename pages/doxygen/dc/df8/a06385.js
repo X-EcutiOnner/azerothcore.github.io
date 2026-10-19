@@ -1,12 +1,6 @@
 var a06385 =
 [
-    [ "NullCreatureAI", "dc/df8/a06385.html#aa9969eeb9a79559c9f2d3bd907b3fd85", null ],
-    [ "AttackStart", "dc/df8/a06385.html#a94d4594e1f39143ea41ce00aeecec4b4", null ],
-    [ "EnterEvadeMode", "dc/df8/a06385.html#a726edd296c16ed2414fcc1827f88238f", null ],
-    [ "JustEnteredCombat", "dc/df8/a06385.html#ac9ccd2d260170b218acf1997a0bded97", null ],
-    [ "JustStartedThreateningMe", "dc/df8/a06385.html#a191e098763d9b73db74f843aa77115e6", null ],
-    [ "MoveInLineOfSight", "dc/df8/a06385.html#a12c54c92a08e81751563ec9522236b28", null ],
-    [ "OnCharmed", "dc/df8/a06385.html#a77b274955dcfdf2d10bbc43b64330f8d", null ],
-    [ "Permissible", "dc/df8/a06385.html#a77595426da50819a0ff0744930d19b23", null ],
-    [ "UpdateAI", "dc/df8/a06385.html#ab200fcf78dee74a2ec808c01f5855236", null ]
+    [ "changed", "dc/df8/a06385.html#af0cf916cd514f64f53f98c108ff63591", null ],
+    [ "counter", "dc/df8/a06385.html#a5ba0b1002e0bfd61ad17b2130a207cb1", null ],
+    [ "date", "dc/df8/a06385.html#a9a6769cf4ca7ba55752adc8cdeba71f5", null ]
 ];

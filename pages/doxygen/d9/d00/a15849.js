@@ -1,7 +1,6 @@
 var a15849 =
 [
-    [ "npc_vekniss_stinger", "d9/d00/a15849.html#ad48098961715a924270cb8bbbe77e4b0", null ],
-    [ "JustEngagedWith", "d9/d00/a15849.html#ae7c758687c81cfb223066f0a9348eab8", null ],
-    [ "Reset", "d9/d00/a15849.html#a2a79f3775aad83410ff2670aa438e811", null ],
-    [ "UpdateAI", "d9/d00/a15849.html#a1ff479e8f45710f6aa36473933bb87e0", null ]
+    [ "HandleOnHit", "d9/d00/a15849.html#abf5a21f1c88241024e6d3b3c5bffe449", null ],
+    [ "PrepareSpellScript", "d9/d00/a15849.html#aa78fc03dacb373c5108e6a5d92e035c6", null ],
+    [ "Register", "d9/d00/a15849.html#a1e608d67914c0071a913d96d70c625d6", null ]
 ];

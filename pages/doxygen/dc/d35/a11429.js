@@ -1,11 +1,9 @@
 var a11429 =
 [
-    [ "LFGJoin", "dc/d35/a11429.html#a50c79bdef7393907673a328bc36ff8ae", null ],
-    [ "Read", "dc/d35/a11429.html#a5eca5c5a528cf00f1e6aad99ce5386ed", null ],
-    [ "Achievements", "dc/d35/a11429.html#a587e98d4a1c8ff0cacd459298a4193c8", null ],
-    [ "Comment", "dc/d35/a11429.html#a3e12e650a1fa573aafd7c03abd970aff", null ],
-    [ "Needs", "dc/d35/a11429.html#a313c16e84e2cd0b55551d16273e95917", null ],
-    [ "NoPartialClear", "dc/d35/a11429.html#aad54be871d0978034fb69a464fd5b9df", null ],
-    [ "Roles", "dc/d35/a11429.html#a5eaccbeb4fc8b21f5398e216589cb99b", null ],
-    [ "Slots", "dc/d35/a11429.html#aa14a07716504723283ad80c6357cf53f", null ]
+    [ "ItemEnchantTimeUpdate", "dc/d35/a11429.html#ade76f6fcc5a2f4032ba1f6a10022de53", null ],
+    [ "Write", "dc/d35/a11429.html#ade148bd152f0708ed90d549d8f9feb0a", null ],
+    [ "Duration", "dc/d35/a11429.html#ad576ce6011716519a70c6e00e0753a49", null ],
+    [ "ItemGuid", "dc/d35/a11429.html#aeff05f6bb1235655b81d21a2f7aecdc8", null ],
+    [ "PlayerGuid", "dc/d35/a11429.html#a4623875e38909d8b7300e7d9c703b216", null ],
+    [ "Slot", "dc/d35/a11429.html#ad8ddb0dfbe2c07385cc2c95a456086b5", null ]
 ];

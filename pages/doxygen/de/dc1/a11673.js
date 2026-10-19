@@ -1,7 +1,6 @@
 var a11673 =
 [
-    [ "QuestPushResult", "de/dc1/a11673.html#a71a5435a0d9dbc648a83ec90ec99215f", null ],
-    [ "Write", "de/dc1/a11673.html#a90c79fdc1bf593e4d51f3d7a6e423eac", null ],
-    [ "PlayerGuid", "de/dc1/a11673.html#a449c6537a692edae94f173236d0d449e", null ],
-    [ "QuestShareMessage", "de/dc1/a11673.html#af80f4138f3689721f44059a9250246f0", null ]
+    [ "QuestUpdateComplete", "de/dc1/a11673.html#a1e6d102e4063facad1230b55d4048702", null ],
+    [ "Write", "de/dc1/a11673.html#a2ec714ac25e784446e8a614587bd79b3", null ],
+    [ "QuestId", "de/dc1/a11673.html#ac44a95d88d2970ee3e8bf0a8c57d578d", null ]
 ];

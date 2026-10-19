@@ -1,12 +1,7 @@
 var a28045 =
 [
-    [ "CheckProc", "d7/d35/a28045.html#abb43619da8154c1c9ebc9d164a2f6dc6", null ],
-    [ "HandleApply", "d7/d35/a28045.html#aaa07858f0604965fad5c1189125a822b", null ],
-    [ "HandleProc", "d7/d35/a28045.html#a9fd416a5f8f8a405f40c41b9ef8b734e", null ],
-    [ "HandleRemove", "d7/d35/a28045.html#a3da984d172878110b77549b51409d7e0", null ],
-    [ "Load", "d7/d35/a28045.html#a644aaf343b41f049f34ff7387c613bf1", null ],
-    [ "PrepareAuraScript", "d7/d35/a28045.html#aea23ff608c74017d98edcc146d3ba35a", null ],
-    [ "Register", "d7/d35/a28045.html#a624d09c6f1a177912a1c7cab30d89c7b", null ],
-    [ "Validate", "d7/d35/a28045.html#a34f1b7782dbf2dcc18eb803497104a13", null ],
-    [ "_procTargetGUID", "d7/d35/a28045.html#a88833abe90e8753336b7dc178b98f703", null ]
+    [ "HandleDummy", "d7/d35/a28045.html#a436ed0843e0035308c69f0854decd7f2", null ],
+    [ "PrepareSpellScript", "d7/d35/a28045.html#a42ff645d6c8e94353ae118327af5f4e6", null ],
+    [ "Register", "d7/d35/a28045.html#a0b69f667ea83dee61206bbc723020cbc", null ],
+    [ "Validate", "d7/d35/a28045.html#a93e68d77227297883aae472ef08fb67c", null ]
 ];

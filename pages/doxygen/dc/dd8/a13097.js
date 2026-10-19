@@ -1,7 +1,7 @@
 var a13097 =
 [
-    [ "HandlePeriodic", "dc/dd8/a13097.html#a758b588fb02e9cdf2544dd52ceee1055", null ],
-    [ "PrepareAuraScript", "dc/dd8/a13097.html#aae9d31049889eea5c5f09dd5437de950", null ],
-    [ "Register", "dc/dd8/a13097.html#a5de6428e3359c4498f5630f85ae3fcc8", null ],
-    [ "Validate", "dc/dd8/a13097.html#a462b882e41932f99e3501f32368cf4de", null ]
+    [ "HandleRemove", "dc/dd8/a13097.html#a754b44b62c131e20e1be94b3407e2006", null ],
+    [ "PrepareAuraScript", "dc/dd8/a13097.html#a92a58e6bcde5f80c6962ce1da47aca2d", null ],
+    [ "Register", "dc/dd8/a13097.html#a02cd375ec140f7614104b7e56df13430", null ],
+    [ "Validate", "dc/dd8/a13097.html#a4dd592093c1b00388a54fd8aa1b86904", null ]
 ];

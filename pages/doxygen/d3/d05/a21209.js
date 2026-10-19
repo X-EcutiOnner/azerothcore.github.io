@@ -1,5 +1,8 @@
 var a21209 =
 [
-    [ "achievement_yogg_saron_drive_me_crazy", "d3/d05/a21209.html#a381d8fd2e7b4806181959a1b915f3a8c", null ],
-    [ "OnCheck", "d3/d05/a21209.html#a029fdd68e0643b53971efbb1056f19d8", null ]
+    [ "FilterTargets", "d3/d05/a21209.html#a45d300e8cb6fbc499345b3bb2fb0d34f", null ],
+    [ "HandleDummyEffect", "d3/d05/a21209.html#ab1f662fa107d176386067ffc6467d90f", null ],
+    [ "PrepareSpellScript", "d3/d05/a21209.html#a069cc54bf009830ad781c790b4fcedad", null ],
+    [ "Register", "d3/d05/a21209.html#ac91532151b689bde35d7120b1e9aec5b", null ],
+    [ "Validate", "d3/d05/a21209.html#ad225dcdb1325a855f1909a8c66ca577b", null ]
 ];

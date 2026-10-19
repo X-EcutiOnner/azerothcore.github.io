@@ -1,7 +1,9 @@
 var a30469 =
 [
-    [ "_pad", "d2/d07/a30469.html#ad6e8aff776dfb6fa95c30d0318b3af25", null ],
-    [ "Count", "d2/d07/a30469.html#ac90dd584efc679554d4cee31c988c7c8", null ],
-    [ "Name", "d2/d07/a30469.html#ae93b772cbbe91b9ed55c78e22317c8dd", null ],
-    [ "StartIndex", "d2/d07/a30469.html#a2ab3e4bac4c3b7e6b4ed7a72042d05fa", null ]
+    [ "Flags", "d2/d07/a30469.html#a4471edebd870d3dfaaf34292341e5f60", null ],
+    [ "Id", "d2/d07/a30469.html#a6a25126338a8c3aa7d36c02c979639dd", null ],
+    [ "Position", "d2/d07/a30469.html#a8fa9a49b3195ffe74dcf1872d0fb05c1", null ],
+    [ "Rotation", "d2/d07/a30469.html#a986c3ea05d510db03ec969f0d116fb34", null ],
+    [ "Scale", "d2/d07/a30469.html#af8bcb02c541b9261dbf879353ba6893a", null ],
+    [ "UniqueId", "d2/d07/a30469.html#a374c9893af515badc54b22b2a4d5e024", null ]
 ];

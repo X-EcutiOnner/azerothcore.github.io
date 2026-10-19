@@ -1,13 +1,8 @@
 var a14893 =
 [
-    [ "npc_alexstraza_the_lifebinder", "de/de0/a14893.html#a7c30258540803bde75843cb070b6a288", null ],
-    [ "MoveInLineOfSight", "de/de0/a14893.html#af5960eb1cf63fb0b5b8dc2bfd86b8e47", null ],
-    [ "Reset", "de/de0/a14893.html#a8144ed8ada8cd4fb11d74393ed0c525a", null ],
-    [ "SetData", "de/de0/a14893.html#aead5ae4ffda9732829e39b8c485a3c3e", null ],
-    [ "sGossipSelect", "de/de0/a14893.html#a642390a59ff46236dc3b429f371ea8cd", null ],
-    [ "UpdateAI", "de/de0/a14893.html#ad13b21d571833210b1c069b7ea8bea05", null ],
-    [ "orphanGUID", "de/de0/a14893.html#a7c2901f01e4fcafaea9c00ff58dbeaf3", null ],
-    [ "phase", "de/de0/a14893.html#a98216e43888854ac93f22169a0e253e5", null ],
-    [ "playerGUID", "de/de0/a14893.html#a063fc935bc8f46f5487e9c338e497ec4", null ],
-    [ "timer", "de/de0/a14893.html#a41791aaa24102383fe4d3f43c714c3bb", null ]
+    [ "OnApply", "de/de0/a14893.html#a6f3f05316f025ef638672a82cc855136", null ],
+    [ "PeriodicTick", "de/de0/a14893.html#a051d292f9483e6b82d773fba3ab52460", null ],
+    [ "PrepareAuraScript", "de/de0/a14893.html#ab8face95be60d7c5ba3fe15f0d05de25", null ],
+    [ "Register", "de/de0/a14893.html#a0004de73250b8523db2b9ab714c8a246", null ],
+    [ "Validate", "de/de0/a14893.html#aae1809dd5bc8baa06ee079a6d2a8b940", null ]
 ];

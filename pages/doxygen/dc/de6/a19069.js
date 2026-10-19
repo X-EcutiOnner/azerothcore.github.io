@@ -1,5 +1,9 @@
 var a19069 =
 [
-    [ "achievement_portal_jockey", "dc/de6/a19069.html#a6c6c4779072386ab7b64bad92762e2ac", null ],
-    [ "OnCheck", "dc/de6/a19069.html#a2695b1fee353be7340f319c632a43efc", null ]
+    [ "npc_gluttonous_abominationAI", "dc/de6/a19069.html#a8b9b632e2e26ef8d0e8c122d28530e81", null ],
+    [ "JustDied", "dc/de6/a19069.html#abc0dd71bbaf85786f34367acc3a849e9", null ],
+    [ "JustSummoned", "dc/de6/a19069.html#a49ff3db7845167b9e98feab2a01b1ed1", null ],
+    [ "Reset", "dc/de6/a19069.html#a45588181429a74ac024e0390c76fa57a", null ],
+    [ "UpdateAI", "dc/de6/a19069.html#a33ef03a9f005ff187493275a9c2683a7", null ],
+    [ "_events", "dc/de6/a19069.html#a4a841c7d2565f4797bc893a9c1ee7acd", null ]
 ];

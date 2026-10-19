@@ -1,6 +1,6 @@
 var a18157 =
 [
-    [ "IgbTeleportOnVictoryCheck", "de/d87/a18157.html#a29ee8cac93b9920e598da9205406e608", null ],
-    [ "operator()", "de/d87/a18157.html#acf85943e238179e911434358f1593be2", null ],
-    [ "_inst", "de/d87/a18157.html#a015353ecb66da16c697152b7ad3c527e", null ]
+    [ "npc_gunship_rocketeerAI", "d7/d3a/a18161.html", "d7/d3a/a18161" ],
+    [ "npc_gunship_rocketeer", "de/d87/a18157.html#a7ed2cf258269f239bb73f2f06411db07", null ],
+    [ "GetAI", "de/d87/a18157.html#a4f9c1b09e9e5b9dd337fe9210ab7038c", null ]
 ];

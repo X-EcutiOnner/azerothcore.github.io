@@ -1,6 +1,8 @@
 var a27325 =
 [
-    [ "HandleDummy", "da/d09/a27325.html#a904038167c9ba270cb54cd6adbe22563", null ],
-    [ "PrepareSpellScript", "da/d09/a27325.html#a326656405c3400225a4ce10567c1c482", null ],
-    [ "Register", "da/d09/a27325.html#a2d83815d44543686525238723a3ab39a", null ]
+    [ "Load", "da/d09/a27325.html#a510f81e77597ef55a87b4f77fa324b2b", null ],
+    [ "OnRemove", "da/d09/a27325.html#a8b3a3678d1864e630173ab8eb4d504da", null ],
+    [ "PrepareAuraScript", "da/d09/a27325.html#a1a98b0d8059d5ae47688c2c9bd0486bd", null ],
+    [ "Register", "da/d09/a27325.html#ae7ed739883e30015e99b6ab5d6cb3f39", null ],
+    [ "Validate", "da/d09/a27325.html#a3820e716d20809896c84c1ca781af4d1", null ]
 ];

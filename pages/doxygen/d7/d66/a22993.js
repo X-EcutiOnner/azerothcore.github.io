@@ -1,7 +1,8 @@
 var a22993 =
 [
-    [ "boss_veras_darkshadow", "d7/d66/a22993.html#a7b33a5c8257954951ed19a2f8ce17b95", null ],
-    [ "JustEngagedWith", "d7/d66/a22993.html#a5eec3e70a7950073eced60d680ff6298", null ],
-    [ "JustSummoned", "d7/d66/a22993.html#afd6cb716cfdebccde99d71e1eb797d33", null ],
-    [ "UpdateAI", "d7/d66/a22993.html#a21f23998e3c3ecb79cbfa3c0d778f2d5", null ]
+    [ "Load", "d7/d66/a22993.html#a038301fbb547469574efff88455be663", null ],
+    [ "OnPeriodic", "d7/d66/a22993.html#a8df384cc329cf20ddc5ac0d7bed0345f", null ],
+    [ "PrepareAuraScript", "d7/d66/a22993.html#a386df1300e6a99b02efd13ef4968e99a", null ],
+    [ "Register", "d7/d66/a22993.html#a1b7b9bff5b3d906fa491846a4d5c6743", null ],
+    [ "Validate", "d7/d66/a22993.html#ad64a3fc1a66b9e8914099e501992f2aa", null ]
 ];

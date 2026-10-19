@@ -1,6 +1,6 @@
 var a18009 =
 [
-    [ "npc_stinky_iccAI", "d0/de3/a18013.html", "d0/de3/a18013" ],
-    [ "npc_stinky_icc", "d8/d10/a18009.html#a8f6a3687d4b330f532a0d892dbf429a0", null ],
-    [ "GetAI", "d8/d10/a18009.html#aaf6b7b1a7469d1e353617f63f11f7781", null ]
+    [ "npc_icc_blood_beastAI", "d0/de3/a18013.html", "d0/de3/a18013" ],
+    [ "npc_icc_blood_beast", "d8/d10/a18009.html#ac6de0dfe16f39d192f1e49d3ab444d5a", null ],
+    [ "GetAI", "d8/d10/a18009.html#adf18d561b5d1c4c89e7f2ccb10f99492", null ]
 ];

@@ -1,8 +1,9 @@
 var a09905 =
 [
-    [ "AllGameObjectsWithEntryInRange", "df/daa/a09905.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56", null ],
-    [ "operator()", "df/daa/a09905.html#a342aa18d98413620fce4c676fcf75305", null ],
-    [ "m_fRange", "df/daa/a09905.html#a7cce16670c95c19f3eb68e5914160513", null ],
-    [ "m_pObject", "df/daa/a09905.html#a5c898c20992999f11204aab6479d71f6", null ],
-    [ "m_uiEntry", "df/daa/a09905.html#a64ff0c14c71e218b8f9a8888b1017fec", null ]
+    [ "NearestAssistCreatureInCreatureRangeCheck", "df/daa/a09905.html#ac9e380add6c9df4afc707007528c7434", null ],
+    [ "NearestAssistCreatureInCreatureRangeCheck", "df/daa/a09905.html#aa26e19df606a366147e1db4fd1aa6eac", null ],
+    [ "operator()", "df/daa/a09905.html#a9a085d16b30849537441f809052ac196", null ],
+    [ "i_enemy", "df/daa/a09905.html#a0ba09da942c48e523c278cff0e0a4139", null ],
+    [ "i_obj", "df/daa/a09905.html#a905ea6b07b97ed23de4f4cf9946642af", null ],
+    [ "i_range", "df/daa/a09905.html#ab82a4b97ebb2bef047ae85404b0e3da0", null ]
 ];

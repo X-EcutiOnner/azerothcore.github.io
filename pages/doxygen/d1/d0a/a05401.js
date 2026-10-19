@@ -1,6 +1,4 @@
 var a05401 =
 [
-    [ "Read", "d1/d0a/a05401.html#a07ea1ce999e5cea578af77cb47280748", null ],
-    [ "groupsArray", "d1/d0a/a05401.html#a79b2d93c2929aaddac1004aed4ecdd85", null ],
-    [ "RootWMOID", "d1/d0a/a05401.html#a6b9058e7062c970438c79f08103c3c61", null ]
+    [ "GetBounds", "d1/d0a/a05401.html#a04d9251d9a67affeece303853c2c8a84", null ]
 ];

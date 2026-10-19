@@ -1,8 +1,8 @@
 var a09809 =
 [
-    [ "FriendlyMissingBuffInRange", "db/d2c/a09809.html#a628fe94ce054a868977ef2a981bc5d6c", null ],
-    [ "operator()", "db/d2c/a09809.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9", null ],
-    [ "i_obj", "db/d2c/a09809.html#aba43edf48b2b0184b52143707c3531f4", null ],
-    [ "i_range", "db/d2c/a09809.html#a54ba98f393a8bdf710f6bd65abee526c", null ],
-    [ "i_spell", "db/d2c/a09809.html#a7f34521e8789a1e1dabb867ed82ff438", null ]
+    [ "NearestGameObjectCheck", "db/d2c/a09809.html#aa8ede7ca83cc53cc5b4a8a057f6e8477", null ],
+    [ "NearestGameObjectCheck", "db/d2c/a09809.html#a366ef1710823d1e52eb2df650e60562f", null ],
+    [ "operator()", "db/d2c/a09809.html#a00df56adb5c6459c59b5ae4e0b85f0d3", null ],
+    [ "i_obj", "db/d2c/a09809.html#aeaec0e0f53cb870e1f0a93f8b05b74bc", null ],
+    [ "i_range", "db/d2c/a09809.html#a92fc9a7ac2995ad962173ae3a794e825", null ]
 ];

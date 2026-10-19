@@ -1,6 +1,8 @@
 var a11709 =
 [
-    [ "PushQuestToParty", "d1/dec/a11709.html#a3c49c83653ef26f2dcaf5c73c29066e0", null ],
-    [ "Read", "d1/dec/a11709.html#aacb4c91a7fa1cd2c7db6dd9b7825e70c", null ],
-    [ "QuestId", "d1/dec/a11709.html#a0d30347159622093b52d0936d93a63bf", null ]
+    [ "QuestUpdateAddPvPKill", "d1/dec/a11709.html#a22b1143d1ee7c28f0ae63c0d215e64ce", null ],
+    [ "Write", "d1/dec/a11709.html#ab58c8dc6918834caa654e05992abde6a", null ],
+    [ "CurrentCount", "d1/dec/a11709.html#a4c6df4b5647d8b71084c4495548cdd58", null ],
+    [ "QuestId", "d1/dec/a11709.html#ae80d16619ecac6b381b89483ce96b810", null ],
+    [ "RequiredCount", "d1/dec/a11709.html#a95d2c68a8383bcac985a891de7771274", null ]
 ];

@@ -1,6 +1,16 @@
 var a24381 =
 [
-    [ "npc_enraged_spiritAI", "d2/d15/a24385.html", "d2/d15/a24385" ],
-    [ "npc_enraged_spirit", "d8/db3/a24381.html#a17d9e2e5fb8f2795fdeff26567bbf85f", null ],
-    [ "GetAI", "d8/db3/a24381.html#aa10d5f0147cf4064a49df735ac95575e", null ]
+    [ "npc_dragonmaw_peonAI", "d8/db3/a24381.html#a6f1255fead5357001ec85fdaa6980249", null ],
+    [ "CreditPlayer", "d8/db3/a24381.html#a5cf28e156cab2e2066bb94bc99233a2b", null ],
+    [ "JustEngagedWith", "d8/db3/a24381.html#abd5b37793aa2fb150c808b7dc7270763", null ],
+    [ "MovementInform", "d8/db3/a24381.html#a0ee4038f90d54c75c48b2448dacb5724", null ],
+    [ "Reset", "d8/db3/a24381.html#a9d876ec76b51f743c71e67749c21d939", null ],
+    [ "SpellHit", "d8/db3/a24381.html#abe5162608ba0acd7360a630562ff5935", null ],
+    [ "UpdateAI", "d8/db3/a24381.html#a98a045606d9e689ef25a5068b81b1ebf", null ],
+    [ "events", "d8/db3/a24381.html#a7d6fb37d1953630aa79f8665eca0db61", null ],
+    [ "PlayerGUID", "d8/db3/a24381.html#ad6838d98e34a32cbed42c77cdf096070", null ],
+    [ "Tapped", "d8/db3/a24381.html#ae393f8d3cb47f38a4c4314a262826d03", null ],
+    [ "x", "d8/db3/a24381.html#acebbfa8da88d8d683ba5ea6463f6b5f7", null ],
+    [ "y", "d8/db3/a24381.html#ae5a1d416c712803ec0b80ae7ccf29e2d", null ],
+    [ "z", "d8/db3/a24381.html#a7722420716c030b5abe7b760199df14d", null ]
 ];

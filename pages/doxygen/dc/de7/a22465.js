@@ -1,9 +1,9 @@
 var a22465 =
 [
-    [ "HandlePeriodic", "dc/de7/a22465.html#a0943e7887ff935ccea21d913429e25a0", null ],
-    [ "OnRemove", "dc/de7/a22465.html#a46ae9f9c7b31fa46e0968dc521a2511b", null ],
-    [ "PrepareAuraScript", "dc/de7/a22465.html#a07ce1c801c8d770d639b8ffe05830c3b", null ],
-    [ "Register", "dc/de7/a22465.html#afa2a6d4653311d2f76831ef14d34c0dd", null ],
-    [ "_tickNumber", "dc/de7/a22465.html#a3f8943e288e96f639fb805869749879b", null ],
-    [ "_warning", "dc/de7/a22465.html#a19ffd2ca76a020ca8ca4b2ff91538888", null ]
+    [ "npc_brunnhildar_prisonerAI", "dc/de7/a22465.html#ad650885c7f615f8b27ba20203c9fbb6f", null ],
+    [ "JustRespawned", "dc/de7/a22465.html#a15843fcdc5d9eb34df7869b56a0b16ac", null ],
+    [ "Reset", "dc/de7/a22465.html#ac9ba0806b9702cebe9171d9ba8962b0f", null ],
+    [ "SpellHit", "dc/de7/a22465.html#af2835ec5b951e2f4bb176ebe6bb958fd", null ],
+    [ "UpdateAI", "dc/de7/a22465.html#a0702d4cf577ac00688a7b93bfe656952", null ],
+    [ "freed", "dc/de7/a22465.html#a46e03a19bac91a800154e3c873235800", null ]
 ];

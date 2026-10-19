@@ -1,8 +1,8 @@
 var a28625 =
 [
-    [ "npc_training_dummy", "da/d71/a28625.html#a7cf3b633e444d67dfaea6308e3ed2dc1", null ],
-    [ "DamageTaken", "da/d71/a28625.html#accd7c39cd7b22b30e654288b034f1319", null ],
-    [ "JustEnteredCombat", "da/d71/a28625.html#a2dad51de23663e7b0bf6bcd2ce86a290", null ],
-    [ "UpdateAI", "da/d71/a28625.html#abd6941fcfd3bdff557b38017bc74e83c", null ],
-    [ "_combatTimer", "da/d71/a28625.html#a6e2ed26a35fecc3fe6e1957c3ed47124", null ]
+    [ "npc_simoneAI", "d7/d93/a28629.html", "d7/d93/a28629" ],
+    [ "npc_simone", "da/d71/a28625.html#acf3e759dea12cc5fbe1376213bd3585c", null ],
+    [ "GetAI", "da/d71/a28625.html#a36d94c5ab6c910cd3853e579d6a5ab5a", null ],
+    [ "OnGossipHello", "da/d71/a28625.html#ae1a0cd1fbee6bee0a54a1a666c8367dd", null ],
+    [ "OnGossipSelect", "da/d71/a28625.html#ae2b1a653be3767881769b54607219757", null ]
 ];

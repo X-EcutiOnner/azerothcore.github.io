@@ -1,6 +1,12 @@
 var a20945 =
 [
-    [ "OnPeriodic", "d8/d80/a20945.html#a5247db3b621d1d499b9e22e16c7a951a", null ],
-    [ "PrepareAuraScript", "d8/d80/a20945.html#a6aa46e818199da206e6543005a7fe87f", null ],
-    [ "Register", "d8/d80/a20945.html#ab64dfdda3c09e65cfaeb90d20a5212ed", null ]
+    [ "boss_thorim_lightning_orb", "d8/d80/a20945.html#a04d4de44a41e62d6c1c4c68d3064a861", null ],
+    [ "AttackStart", "d8/d80/a20945.html#a8e512ec039d93b1ceb7a2b8ee556fa56", null ],
+    [ "EnterEvadeMode", "d8/d80/a20945.html#a855df9994de0901e56ac6f84d71ab7e4", null ],
+    [ "InitWaypoint", "d8/d80/a20945.html#a46a7a73cb200d7bbaa7f38871c765254", null ],
+    [ "MoveInLineOfSight", "d8/d80/a20945.html#a3577618ff9d5bdea191d840b6c968fad", null ],
+    [ "Reset", "d8/d80/a20945.html#adeefc7cd014021305b77cc9c52102ce6", null ],
+    [ "WaypointReached", "d8/d80/a20945.html#a3948ca0a57befa16e15e0d6ab97a0cbe", null ],
+    [ "WaypointReached", "d8/d80/a20945.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "Timer", "d8/d80/a20945.html#a79c24c42364c9932199ece2775f7a7f2", null ]
 ];

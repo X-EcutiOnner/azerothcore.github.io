@@ -1,8 +1,7 @@
 var a27517 =
 [
-    [ "CheckProc", "df/d24/a27517.html#a019b47e139e155c0803c0ce9a3a42f82", null ],
-    [ "HandleProc", "df/d24/a27517.html#a92fff2ae3b59c3dd62e92a11312f87ae", null ],
-    [ "PrepareAuraScript", "df/d24/a27517.html#a91ef63b96918e797e677423d51f94112", null ],
-    [ "Register", "df/d24/a27517.html#a5625b3a60a607bd07d4328aa1886cfc5", null ],
-    [ "Validate", "df/d24/a27517.html#ab6178007664afc34556336ec9620cd4f", null ]
+    [ "CalculateAmount", "df/d24/a27517.html#aefeab4e58c1b5c1be87f583256d366f5", null ],
+    [ "Load", "df/d24/a27517.html#ae2ef0eae77137c120ec61af8698677db", null ],
+    [ "PrepareAuraScript", "df/d24/a27517.html#acaecc78c031aa436f432fd7145478de4", null ],
+    [ "Register", "df/d24/a27517.html#afd27c8bc5fd1628b7e32bf464bfe3d48", null ]
 ];

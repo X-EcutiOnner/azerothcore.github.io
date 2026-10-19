@@ -1,6 +1,8 @@
 var a27133 =
 [
-    [ "CheckCast", "db/ddf/a27133.html#ada9b1c9e159956cb2a79610dbdb3eaf9", null ],
-    [ "PrepareSpellScript", "db/ddf/a27133.html#aa9cc041f2e0dae1eb322713d4f140ce8", null ],
-    [ "Register", "db/ddf/a27133.html#a5f0b69ffebb256d5ee2c0f9d4615c4e6", null ]
+    [ "CheckProc", "db/ddf/a27133.html#a0c649a70d0413fd24f29d3f2a03d3b4b", null ],
+    [ "HandleProc", "db/ddf/a27133.html#ae9e9ef38c6cdf57eccbeafb9f8c5cac0", null ],
+    [ "PrepareAuraScript", "db/ddf/a27133.html#adc8f29fd41def510195365f40fd5340b", null ],
+    [ "Register", "db/ddf/a27133.html#add7ed115ee403870f46e25614fac3840", null ],
+    [ "Validate", "db/ddf/a27133.html#aa9e341cbf35a4a6c2f42f55a216241b8", null ]
 ];

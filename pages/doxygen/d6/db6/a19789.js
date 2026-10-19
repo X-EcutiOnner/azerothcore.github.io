@@ -1,8 +1,5 @@
 var a19789 =
 [
-    [ "npc_scion_of_eternity", "d6/db6/a19789.html#ac1a9111bc835a3d2cffc43b840985763", null ],
-    [ "AttackStart", "d6/db6/a19789.html#a86b5e235096ad107217f36150c618d73", null ],
-    [ "JustDied", "d6/db6/a19789.html#aff0f8d0d57afb6ef3df7b259ec5860fa", null ],
-    [ "MoveInLineOfSight", "d6/db6/a19789.html#a25424c349fc39f7b42d36ac055f91ad9", null ],
-    [ "UpdateAI", "d6/db6/a19789.html#a49be60ccd03d75cf56931b870ddf086c", null ]
+    [ "at_thaddius_entrance", "d6/db6/a19789.html#ad81a60cac337baad82ea526de1d151d1", null ],
+    [ "_OnTrigger", "d6/db6/a19789.html#a5e8954c265ead9ab5347b8921e5bd1bb", null ]
 ];

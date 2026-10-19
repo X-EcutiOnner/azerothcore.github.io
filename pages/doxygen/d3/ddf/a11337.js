@@ -1,6 +1,6 @@
 var a11337 =
 [
-    [ "SetRaidDifficultyClient", "d3/ddf/a11337.html#afba49b9e3994eb461ac1b827d0c0fac7", null ],
-    [ "Read", "d3/ddf/a11337.html#a347a86f33f0c31a1c3279028d7dfc46c", null ],
-    [ "Mode", "d3/ddf/a11337.html#a445a55f5069f60a184b119c57cfedf9a", null ]
+    [ "InstanceReset", "d3/ddf/a11337.html#ab1ff5009dc40f18c30941e327e5c3863", null ],
+    [ "Write", "d3/ddf/a11337.html#a0809c4de226d3aaab9817c393cef6055", null ],
+    [ "MapId", "d3/ddf/a11337.html#a7b80bb32e524fe1d0ddadf955f1ec4a2", null ]
 ];

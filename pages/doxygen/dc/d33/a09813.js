@@ -1,8 +1,10 @@
 var a09813 =
 [
-    [ "AnyUnfriendlyUnitInObjectRangeCheck", "dc/d33/a09813.html#a2d83b68a7991d3b3dc2355ecde1efa5d", null ],
-    [ "operator()", "dc/d33/a09813.html#a5b02b45b937d6b2b0b141967c70f93d9", null ],
-    [ "i_funit", "dc/d33/a09813.html#a55222acf6dbb538a213eb604f67f40ce", null ],
-    [ "i_obj", "dc/d33/a09813.html#a5d7e5e8898bd092c1055739fae82f693", null ],
-    [ "i_range", "dc/d33/a09813.html#aa1c728ceea2ddc2e88ea07132a3fe250", null ]
+    [ "NearestGameObjectEntryInObjectRangeCheck", "dc/d33/a09813.html#a7d57ae865868d4848caf088c4520b2a7", null ],
+    [ "NearestGameObjectEntryInObjectRangeCheck", "dc/d33/a09813.html#a28d97af524c2bab39e1bd2e5508e434b", null ],
+    [ "operator()", "dc/d33/a09813.html#ad0c6798e28784ed547102414f4c6a31f", null ],
+    [ "i_entry", "dc/d33/a09813.html#a5d19a23e7da2e5e5ed417d0a9623ffbb", null ],
+    [ "i_obj", "dc/d33/a09813.html#a104b8bece6ea78ba049dc592e54311be", null ],
+    [ "i_onlySpawned", "dc/d33/a09813.html#a2a58a6bcff73142e21c082bf2c11eff2", null ],
+    [ "i_range", "dc/d33/a09813.html#a94fc995a14f84060f3bfe5827f17b95e", null ]
 ];

@@ -1,9 +1,9 @@
 var a20829 =
 [
-    [ "npc_razorscale_harpoon_fire_state", "d6/d52/a20829.html#a5bcb95382dc80bae1f4f05c306fb52bf", null ],
-    [ "DoAction", "d6/d52/a20829.html#aa7a12bae703c1a7d215dc0181f9ad532", null ],
-    [ "GetData", "d6/d52/a20829.html#ae552669fbd1a66a457cc30a2ed13c8fd", null ],
-    [ "Reset", "d6/d52/a20829.html#aad5f2d32fffaacec3485b0743f4267aa", null ],
-    [ "SpellHit", "d6/d52/a20829.html#a660573750d12c82394a9f911a3973e02", null ],
-    [ "_repairProgress", "d6/d52/a20829.html#af1c14d6762f9fc9f3a78f040a544bde4", null ]
+    [ "npc_ulduar_rocket_strike_trigger", "d6/d52/a20829.html#a14fc5830fe192856bd7c99f78de91070", null ],
+    [ "InitializeAI", "d6/d52/a20829.html#a50b4312f060d62e1c4e3ff144add48d8", null ],
+    [ "SetData", "d6/d52/a20829.html#a9d896f09483369fcca2a45223514f855", null ],
+    [ "SpellHitTarget", "d6/d52/a20829.html#ad4a438c5143a6de2b469baa28f0893c5", null ],
+    [ "UpdateAI", "d6/d52/a20829.html#af5e5dec908f6e0f79a7f4a508d4c4403", null ],
+    [ "_events", "d6/d52/a20829.html#acdd7bdda1ecc5d6e5c18f1306153200a", null ]
 ];

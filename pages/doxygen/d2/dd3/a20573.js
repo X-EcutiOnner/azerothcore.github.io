@@ -1,5 +1,7 @@
 var a20573 =
 [
-    [ "FlashFreezeCheck", "d2/dd3/a20573.html#a47d07a686a7c74dc8914a98762b16fe3", null ],
-    [ "operator()", "d2/dd3/a20573.html#a87475dc9e2f1b0eb508e9f56aa5c1e2f", null ]
+    [ "npc_ulduar_icicle", "d2/dd3/a20573.html#ac5f024031a70b4ca04ecc0a96fcbdcae", null ],
+    [ "UpdateAI", "d2/dd3/a20573.html#a0a46c8ee0c4bb8932406fe8170a54310", null ],
+    [ "timer1", "d2/dd3/a20573.html#ae277d302131abd17cef018872b12da06", null ],
+    [ "timer2", "d2/dd3/a20573.html#a9a098b0a31fcbc029fc7ae6823ea99a4", null ]
 ];

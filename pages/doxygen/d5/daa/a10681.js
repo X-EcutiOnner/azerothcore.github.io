@@ -1,6 +1,8 @@
 var a10681 =
 [
-    [ "AchievementCriteriaScript", "d5/daa/a10681.html#a09da24737dee882300a5e268688b94e6", null ],
-    [ "IsDatabaseBound", "d5/daa/a10681.html#a2fe9a4224304d62c5c4920dbf09aab52", null ],
-    [ "OnCheck", "d5/daa/a10681.html#a9fab6f158219db6d5a65b0b302cf285e", null ]
+    [ "ownerGuid", "d5/daa/a10681.html#a7c66ffa9f54768a0e81f61e5bcdde014", null ],
+    [ "petitionGuid", "d5/daa/a10681.html#a1bbf412a221b76c4a20765d9a6612182", null ],
+    [ "petitionId", "d5/daa/a10681.html#afa16859ac671ff0410204ea30ebcf429", null ],
+    [ "petitionName", "d5/daa/a10681.html#a91c81356e9aa77641eaa881cd04af5af", null ],
+    [ "petitionType", "d5/daa/a10681.html#aeaf6c421d7545cf98d88b4e552dcff23", null ]
 ];

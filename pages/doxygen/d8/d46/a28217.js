@@ -1,6 +1,5 @@
 var a28217 =
 [
-    [ "AreaTrigger_at_area_52_entrance", "d8/d46/a28217.html#a5b7e21903bca1c04bad1394c6965d032", null ],
-    [ "OnTrigger", "d8/d46/a28217.html#a1e537d133ee5e6ad1dbb0c732e23a128", null ],
-    [ "_triggerTimes", "d8/d46/a28217.html#a6c3225f46ea71d06b81b25d5fb6e8f25", null ]
+    [ "achievement_flirt_with_disaster_perf_check", "d8/d46/a28217.html#a8cb843ed26248ceff594ef552b0ae9ae", null ],
+    [ "OnCheck", "d8/d46/a28217.html#a15e620be2f37f930477ba94293dbaf63", null ]
 ];

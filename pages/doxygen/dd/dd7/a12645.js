@@ -1,11 +1,11 @@
 var a12645 =
 [
-    [ "quest_commandscript", "dd/dd7/a12645.html#a98804583ded14bc50d252475289dda4f", null ],
-    [ "GetCommands", "dd/dd7/a12645.html#afaf8c4b169a2bc7457b8ab97d13a367c", null ],
-    [ "HandleQuestAdd", "dd/dd7/a12645.html#acd1410f224a1d69bba1321999ebf25bc", null ],
-    [ "HandleQuestComplete", "dd/dd7/a12645.html#a044c30fdaedd07060284bd37fd2e226c", null ],
-    [ "HandleQuestRemove", "dd/dd7/a12645.html#ac0a87854f99c510c8309e9e337d1e71f", null ],
-    [ "HandleQuestReward", "dd/dd7/a12645.html#ab8d38057b3630b75cf21c8e88c1ebaf0", null ],
-    [ "HandleQuestStatus", "dd/dd7/a12645.html#adbba92d0cf47879e94710c971fd994ff", null ],
-    [ "QuestStatusToString", "dd/dd7/a12645.html#a179c2aec0a6bf010a83841ef089134ad", null ]
+    [ "pet_commandscript", "dd/dd7/a12645.html#a84595dcb908398e80deee0b0aa47e335", null ],
+    [ "GetCommands", "dd/dd7/a12645.html#a01026a4936774d2225d10e0f6e27b08c", null ],
+    [ "HandlePetCreateCommand", "dd/dd7/a12645.html#a993d06169aa0b0c4bbda38e124b6eea9", null ],
+    [ "HandlePetDeleteCommand", "dd/dd7/a12645.html#a728201526e905b025aba5e6b030c288b", null ],
+    [ "HandlePetLearnCommand", "dd/dd7/a12645.html#a59a2a6bd9af23fe3a775319216337bda", null ],
+    [ "HandlePetListCommand", "dd/dd7/a12645.html#aeaa05b073553c0c0758ea99d982ce1cc", null ],
+    [ "HandlePetRenameCommand", "dd/dd7/a12645.html#a556529bfe267eb618410b63065b7096c", null ],
+    [ "HandlePetUnlearnCommand", "dd/dd7/a12645.html#ae6d785cdde773b107ba5e619b039f7b8", null ]
 ];

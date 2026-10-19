@@ -1,7 +1,9 @@
 var a22349 =
 [
-    [ "npc_engineer_heliceAI", "da/dcf/a22353.html", "da/dcf/a22353" ],
-    [ "npc_engineer_helice", "d3/dce/a22349.html#a445ed6b85e95db817c8117d5473a3c9d", null ],
-    [ "GetAI", "d3/dce/a22349.html#ad48e3c1ed22a71e8a45273e1338dd0f8", null ],
-    [ "OnQuestAccept", "d3/dce/a22349.html#abd345111463ce2ac635ad7fc6f891fb7", null ]
+    [ "npc_frostbrood_skytalonAI", "d3/dce/a22349.html#afc14c60466f9f0f1b20062758f18c00d", null ],
+    [ "IsSummonedBy", "d3/dce/a22349.html#a2c5729ee3371e562869878ff3a7b84bd", null ],
+    [ "MovementInform", "d3/dce/a22349.html#ae763333503176eb7e8ce407868243958", null ],
+    [ "SpellHit", "d3/dce/a22349.html#a24bb49f47dcf85c95039d0495a89e126", null ],
+    [ "UpdateAI", "d3/dce/a22349.html#a0ffc4cd2e9b61ad17c516f062d161feb", null ],
+    [ "events", "d3/dce/a22349.html#a8575d258d63e28626cffd7fc2160bee6", null ]
 ];

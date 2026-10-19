@@ -1,8 +1,11 @@
 var a04799 =
 [
-    [ "LIQUID_TILE_SIZE", "d5/d6b/a04799.html#a1596e8a465c0638086c77467a2dde3a6", null ],
-    [ "readChunk", "d5/d6b/a04799.html#aa923966c6cf6ce644b8335506d5f1fce", null ],
-    [ "GAMEOBJECT_MODELS", "d5/d6b/a04799.html#ada4191301386f881525b3f0b0760cb60", null ],
-    [ "RAW_VMAP_MAGIC", "d5/d6b/a04799.html#ab44884fb6c05cb4ae128d5882a2c4b7c", null ],
-    [ "VMAP_MAGIC", "d5/d6b/a04799.html#aa7e5a571fdcb9d62ceefdcf5744746cb", null ]
+    [ "AABound", "de/d7d/a05273.html", "de/d7d/a05273" ],
+    [ "BIH", "db/d63/a05277.html", "db/d63/a05277" ],
+    [ "BIH::buildData", "d0/d83/a05281.html", "d0/d83/a05281" ],
+    [ "BIH::StackNode", "da/dd7/a05285.html", "da/dd7/a05285" ],
+    [ "BIH::BuildStats", "da/d4c/a05289.html", "da/d4c/a05289" ],
+    [ "MAX_STACK_SIZE", "d5/d6b/a04799.html#accbb358028675c83675d8b34c386268d", null ],
+    [ "floatToRawIntBits", "d5/d6b/a04799.html#ad04403146f53e198de60b6c4bec4246e", null ],
+    [ "intBitsToFloat", "d5/d6b/a04799.html#a3b415e235398aa84c4f976084f8e130c", null ]
 ];

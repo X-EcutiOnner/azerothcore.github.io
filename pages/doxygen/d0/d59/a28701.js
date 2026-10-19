@@ -1,7 +1,6 @@
 var a28701 =
 [
-    [ "npc_steam_tonkAI", "d0/d59/a28701.html#a64bc74af412304d50526e5c93e01a333", null ],
-    [ "JustEngagedWith", "d0/d59/a28701.html#a95b023adf0a2e62788e0d5646b17b319", null ],
-    [ "OnPossess", "d0/d59/a28701.html#a954208c1a9826ae84a7402f59e1d7055", null ],
-    [ "Reset", "d0/d59/a28701.html#a5c76625843b30302b2af0a4ae8b85bd2", null ]
+    [ "npc_dancing_flamesAI", "df/d22/a28705.html", "df/d22/a28705" ],
+    [ "npc_dancing_flames", "d0/d59/a28701.html#adec0401f876ddf159f28fdda8bc4d563", null ],
+    [ "GetAI", "d0/d59/a28701.html#a1000d0b95dab3a6e73efa0ca088ce4e6", null ]
 ];

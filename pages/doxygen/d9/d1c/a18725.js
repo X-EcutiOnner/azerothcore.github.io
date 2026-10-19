@@ -1,8 +1,6 @@
 var a18725 =
 [
-    [ "FilterTargets", "d9/d1c/a18725.html#a242fa53c2da9ac557623281bccf2af92", null ],
-    [ "HandleSendEvent", "d9/d1c/a18725.html#a6120e057e2ee39d34eaeab79782add8d", null ],
-    [ "Load", "d9/d1c/a18725.html#af48cdbf87d61cf6d8392f65ae4c9b18a", null ],
-    [ "PrepareSpellScript", "d9/d1c/a18725.html#a0846e73f467d9c3a63b5e9a5d795aa37", null ],
-    [ "Register", "d9/d1c/a18725.html#ae83950dfc35f7c1e64806d6ec273083c", null ]
+    [ "VileSpiritActivateEvent", "d9/d1c/a18725.html#ac7d37d3b7b3173015a2af9ce93b8f2f9", null ],
+    [ "Execute", "d9/d1c/a18725.html#a858892424e1f22fda9a7c519b6a7e0b6", null ],
+    [ "_owner", "d9/d1c/a18725.html#a385fc75b5d77d8776d5a8e948fa69724", null ]
 ];

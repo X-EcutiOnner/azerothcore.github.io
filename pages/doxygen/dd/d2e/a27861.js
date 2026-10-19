@@ -1,8 +1,6 @@
 var a27861 =
 [
-    [ "HandleDummyTick", "dd/d2e/a27861.html#ad35d90e5cdd68f4c1d3172a0860274bd", null ],
-    [ "HandleRemove", "dd/d2e/a27861.html#a92f2bb73ec58832eaada3c7140f7868d", null ],
-    [ "PrepareAuraScript", "dd/d2e/a27861.html#a06e45d5f63ef1395b5949482e8393098", null ],
-    [ "Register", "dd/d2e/a27861.html#abf1d49720ae43d4ed2fb1c2920387ace", null ],
-    [ "Validate", "dd/d2e/a27861.html#a9a2da4d163a96526e14f5de76798a784", null ]
+    [ "HandleAuraApply", "dd/d2e/a27861.html#a0c17d42095cac3d4cf304df1fc83acbf", null ],
+    [ "PrepareAuraScript", "dd/d2e/a27861.html#a6eedadacba366104fdca2791862be216", null ],
+    [ "Register", "dd/d2e/a27861.html#a5869dc6372d479d85da1118d0c9ec8e6", null ]
 ];

@@ -1,8 +1,6 @@
 var a19501 =
 [
-    [ "HandleScript", "df/d24/a19501.html#ae0d16607f9eb3ff233513233bfb573ea", null ],
-    [ "HandleScript2", "df/d24/a19501.html#a3ff7d46323da70df6ad11ddfcaf6cfbb", null ],
-    [ "Load", "df/d24/a19501.html#ad41decc0a264104ca2232aef4e71cdaf", null ],
-    [ "PrepareSpellScript", "df/d24/a19501.html#a2d1dbae570206b358878020879708000", null ],
-    [ "Register", "df/d24/a19501.html#a7cf32445caa09f2a2b3c52f68f315ba5", null ]
+    [ "npc_isle_of_conquest_turretAI", "d7/d24/a19505.html", "d7/d24/a19505" ],
+    [ "npc_isle_of_conquest_turret", "df/d24/a19501.html#ac080845203adef25e6841133b7e2f4dc", null ],
+    [ "GetAI", "df/d24/a19501.html#a0f532e12439e900b3cb77619f1ecd17d", null ]
 ];

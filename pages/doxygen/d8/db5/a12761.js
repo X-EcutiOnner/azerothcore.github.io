@@ -1,9 +1,14 @@
 var a12761 =
 [
-    [ "npc_phalanx", "d8/db5/a12761.html#a03c79151dcdc13fef4ce83957addd44a", null ],
-    [ "Reset", "d8/db5/a12761.html#a9297d5fb869eb9a65ef9143a56347a53", null ],
-    [ "UpdateAI", "d8/db5/a12761.html#aad01cc9d5ac167c21547e8b0b2bda4a7", null ],
-    [ "_fireballVolleyTimer", "d8/db5/a12761.html#a54ad76cd7e8d3be058ad3d5153e5b144", null ],
-    [ "_mightyBlowTimer", "d8/db5/a12761.html#ad59e6e32b53dbf797bc62e116ae2a12d", null ],
-    [ "_thunderClapTimer", "d8/db5/a12761.html#a3b0c33207bf5090abeb9860585c222b4", null ]
+    [ "boss_galvangarAI", "d8/db5/a12761.html#a34a0cacc52749bd1146fcb779d006b3b", null ],
+    [ "JustEngagedWith", "d8/db5/a12761.html#ac1898cea6887fcfa182aa8a7a535c462", null ],
+    [ "JustRespawned", "d8/db5/a12761.html#a92139ad3720ba662f87c0b55ac77dbeb", null ],
+    [ "Reset", "d8/db5/a12761.html#a96e1a262f368ab0f6885e955133b7ae8", null ],
+    [ "UpdateAI", "d8/db5/a12761.html#a2e5c7511cce7dd0ff27e13cda9807928", null ],
+    [ "CleaveTimer", "d8/db5/a12761.html#ae2f943d7e08b5ca508518cd19c675be9", null ],
+    [ "FrighteningShoutTimer", "d8/db5/a12761.html#a6f62f62ffa1c06baa2649901f02d13dc", null ],
+    [ "MortalStrikeTimer", "d8/db5/a12761.html#acbfa384508002ba9505d280c448f1f0e", null ],
+    [ "ResetTimer", "d8/db5/a12761.html#aaeff7d8bffb2ddcef5591c2c9be22ae2", null ],
+    [ "Whirlwind1Timer", "d8/db5/a12761.html#a1e1b3d242ad06e6b8b2e48fbc135b3c5", null ],
+    [ "Whirlwind2Timer", "d8/db5/a12761.html#adb5a2609f1f065fe7a737b8da2d4aef4", null ]
 ];

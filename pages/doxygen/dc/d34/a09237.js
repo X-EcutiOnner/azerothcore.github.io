@@ -1,13 +1,8 @@
 var a09237 =
 [
-    [ "MMapTargetData", "dc/d34/a09237.html#a33cc430ea3c4b5dd4012a16914dc8aeb", null ],
-    [ "MMapTargetData", "dc/d34/a09237.html#a2b5741029d07e216c6632e250e934e0a", null ],
-    [ "MMapTargetData", "dc/d34/a09237.html#a5edafa643af641922f35fe25b30540c9", null ],
-    [ "MMapTargetData", "dc/d34/a09237.html#a3547f93af46826a051f1164ac1fc9ccc", null ],
-    [ "operator=", "dc/d34/a09237.html#a130fe2b359f583acab99c51eb9d0b1ad", null ],
-    [ "operator=", "dc/d34/a09237.html#a8f3a424dd9fabdfff4522487334e931e", null ],
-    [ "PosChanged", "dc/d34/a09237.html#a23c52d1c7b528867bfe1a43e042eea3c", null ],
-    [ "_endTime", "dc/d34/a09237.html#a5506c303d668bbead180fe2a8c2ed48e", null ],
-    [ "_posOwner", "dc/d34/a09237.html#aeaf1e739388ab834e8c845fa366bbfd3", null ],
-    [ "_posTarget", "dc/d34/a09237.html#a7f089d873690e8ea549f6345b6598fc4", null ]
+    [ "AttackPosition", "dc/d34/a09237.html#a6681bcab6c497d2c7fc6e5585f422744", null ],
+    [ "operator=", "dc/d34/a09237.html#a019fe5d4c053c1d6980789b7f97f6e54", null ],
+    [ "operator==", "dc/d34/a09237.html#a320adced006c0f70456492c9e9dc99c2", null ],
+    [ "_pos", "dc/d34/a09237.html#a77783e0e6e83836ad6e5903535ad9370", null ],
+    [ "_taken", "dc/d34/a09237.html#a113512b8ab66c879fd85c43263c3b7f1", null ]
 ];

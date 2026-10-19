@@ -1,6 +1,10 @@
 var a21021 =
 [
-    [ "HandleScript", "dc/dd6/a21021.html#aade3cab1f80d1762bfad48407f4b91cc", null ],
-    [ "PrepareSpellScript", "dc/dd6/a21021.html#ab20e548d7c0a837ee4cb7198c09e53ee", null ],
-    [ "Register", "dc/dd6/a21021.html#a48a0a37b8e6f799ee9035bb766fd6db2", null ]
+    [ "npc_boombot", "dc/dd6/a21021.html#a6747aef56fd6710020c8aa5b4d96e0a1", null ],
+    [ "DamageTaken", "dc/dd6/a21021.html#a9f657c3f979b1f35f1cd5129474b33f1", null ],
+    [ "Reset", "dc/dd6/a21021.html#af47d7810bfe4f4ad7185ec7167cd49bf", null ],
+    [ "UpdateAI", "dc/dd6/a21021.html#a11b997bea629230932a1e01e89a556f2", null ],
+    [ "_boomed", "dc/dd6/a21021.html#a3e08d47064301a42e71fa33f9d58a5a3", null ],
+    [ "_instance", "dc/dd6/a21021.html#aeacd93855b35591fbfc54a8c1f622621", null ],
+    [ "_scheduler", "dc/dd6/a21021.html#af45ea755ec5c6a16b2b1fde7ef0e93f8", null ]
 ];

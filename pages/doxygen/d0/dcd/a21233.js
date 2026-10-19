@@ -1,6 +1,7 @@
 var a21233 =
 [
-    [ "instance_ulduar_InstanceMapScript", "d6/d58/a21237.html", "d6/d58/a21237" ],
-    [ "instance_ulduar", "d0/dcd/a21233.html#a32c2a76d1cd20f2ad1ab441eafe1b682", null ],
-    [ "GetInstanceScript", "d0/dcd/a21233.html#ae263428f4229c75b22f990dabe6b3c06", null ]
+    [ "HandleScriptEffect", "d0/dcd/a21233.html#a173ee086127655cdfcca507fd5b15b2e", null ],
+    [ "PrepareSpellScript", "d0/dcd/a21233.html#a005d47b18a820c35ec596b5539db94eb", null ],
+    [ "Register", "d0/dcd/a21233.html#a20a0d554e80707c1517422cb747f38e8", null ],
+    [ "Validate", "d0/dcd/a21233.html#a5ca44686e26def56adc2b98d88145235", null ]
 ];

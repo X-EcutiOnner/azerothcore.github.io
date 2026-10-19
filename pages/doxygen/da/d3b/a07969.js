@@ -1,16 +1,17 @@
 var a07969 =
 [
-    [ "Print", "da/d3b/a07969.html#a7a3f746595d9ca126747f5e0ba52c71b", null ],
-    [ "CliHandler", "da/d3b/a07969.html#a6a7ba928db9d41743d7cebd1ad98b084", null ],
-    [ "GetAcoreString", "da/d3b/a07969.html#ab12ec41c55bc5f92461abff538a76b66", null ],
-    [ "GetModuleString", "da/d3b/a07969.html#aefd8e9833bbe24c6414dc6259d078df6", null ],
-    [ "GetNameLink", "da/d3b/a07969.html#ae879bbfa69992caa7a0b1b2b3c7d939c", null ],
-    [ "GetSessionDbcLocale", "da/d3b/a07969.html#a610f7431dc7b064c964e0d446160d19f", null ],
-    [ "GetSessionDbLocaleIndex", "da/d3b/a07969.html#a5a2118d9227aa53818d736e387d77dea", null ],
-    [ "HasSession", "da/d3b/a07969.html#a1cd4aabe4c61e3899a1e6d6785742abe", null ],
-    [ "needReportToTarget", "da/d3b/a07969.html#ad8c4ee6e45afff55d94dea9704bd2097", null ],
-    [ "ParseCommands", "da/d3b/a07969.html#abbd02247d6094bf39b2791ba45e9942e", null ],
-    [ "SendSysMessage", "da/d3b/a07969.html#a636be10a282a8d100b807dac119b3ff6", null ],
-    [ "m_callbackArg", "da/d3b/a07969.html#aa1fafd68fca180506cc15680b695db9e", null ],
-    [ "m_print", "da/d3b/a07969.html#aadeaa84ce5d26951f506a2656c1d64d2", null ]
+    [ "HasFlag", "da/d3b/a07969.html#a23315bfbd0748f82c948051697079c24", null ],
+    [ "IsModerator", "da/d3b/a07969.html#af664dc84e5a60301c4fce6fda8971062", null ],
+    [ "IsMuted", "da/d3b/a07969.html#a5d1e0f8e424033e34338940677ca054c", null ],
+    [ "IsOwner", "da/d3b/a07969.html#a4687757cb7df9778f0f5eb67714c917c", null ],
+    [ "IsOwnerGM", "da/d3b/a07969.html#ad4e1573168c91372dc4af2847d4ad454", null ],
+    [ "SetFlag", "da/d3b/a07969.html#a9cb5a3ce70a2afcc553992f4a65b80e1", null ],
+    [ "SetModerator", "da/d3b/a07969.html#a0a0cbaa77040171b7b50f89914946a8a", null ],
+    [ "SetMuted", "da/d3b/a07969.html#adf989acef0b1e53a9dc2d3210db646b7", null ],
+    [ "SetOwner", "da/d3b/a07969.html#aac6a9ea0bf478901e62c729ac6a3e9cd", null ],
+    [ "SetOwnerGM", "da/d3b/a07969.html#a2e4be6dfb921ad07ebd0de3abb81f5e4", null ],
+    [ "_gmStatus", "da/d3b/a07969.html#a15686cee4d1d0d8f39c13341bc9df624", null ],
+    [ "flags", "da/d3b/a07969.html#ae9ed61476c5f13dddf4aa5e98fe8c5c4", null ],
+    [ "player", "da/d3b/a07969.html#afba1915e2dd4109928180e33884b8412", null ],
+    [ "plrPtr", "da/d3b/a07969.html#a5c986d75e173cc42160143ae7621ab6b", null ]
 ];

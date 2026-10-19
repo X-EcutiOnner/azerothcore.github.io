@@ -1,6 +1,6 @@
 var a16789 =
 [
-    [ "boss_paletressAI", "d8/de2/a16793.html", "d8/de2/a16793" ],
-    [ "boss_paletress", "da/dc9/a16789.html#a04cbd31e71cc349b8c1058780ee6f673", null ],
-    [ "GetAI", "da/dc9/a16789.html#a2c20ff397d115cf0e8a1801184e5a3f9", null ]
+    [ "boss_saviana_ragefireAI", "d8/de2/a16793.html", "d8/de2/a16793" ],
+    [ "boss_saviana_ragefire", "da/dc9/a16789.html#a5964bbc510355a8b1fd08bd5f9f5f8c0", null ],
+    [ "GetAI", "da/dc9/a16789.html#a0a0073d8710af066d9711636f4d5b01e", null ]
 ];

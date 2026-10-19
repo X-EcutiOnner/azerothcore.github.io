@@ -1,14 +1,12 @@
 var a12865 =
 [
-    [ "boss_mor_grayhoof", "d8/db5/a12865.html#aef1001233a51ad3bb9963c540d39d79b", null ],
-    [ "CastRandomSpell", "d8/db5/a12865.html#a00756d64d24088ebf408153fcb59ff13", null ],
-    [ "DamageTaken", "d8/db5/a12865.html#a164a911eb9a86964a61866c05d44512f", null ],
-    [ "JustDied", "d8/db5/a12865.html#aa98fbfc5cc4ee94e0323d8586dae1e1c", null ],
-    [ "JustEngagedWith", "d8/db5/a12865.html#a043f6ee099efd0d49982b2966604e65a", null ],
-    [ "Reset", "d8/db5/a12865.html#af313bd8509a76cd6b6fbc197f15afbff", null ],
-    [ "UpdateAI", "d8/db5/a12865.html#aaa6a1a9b6e4259aea46d2f25bca3b809", null ],
-    [ "_phase", "d8/db5/a12865.html#a40bf6a66aefe7a605d94526b5a586ba6", null ],
-    [ "_scheduler", "d8/db5/a12865.html#ad2a897281d308475957e2636c6536fdd", null ],
-    [ "_sleepTargetGUID", "d8/db5/a12865.html#a8baa606696dc8acf532e8badfc6c624b", null ],
-    [ "_sleepTargetThreat", "d8/db5/a12865.html#ac62d7d30b12d0c2da9553b9689091e0e", null ]
+    [ "boss_doomrel", "d8/db5/a12865.html#adc8f26522b88ada86c2ee937daa8fbd1", null ],
+    [ "EnterEvadeMode", "d8/db5/a12865.html#a5f6c139a7be348abeda3b883c2b3f5be", null ],
+    [ "JustEngagedWith", "d8/db5/a12865.html#a559c1619a97e50b03db6c8abc7190f91", null ],
+    [ "Reset", "d8/db5/a12865.html#af30f3385bb1ca366f335ca3e19849704", null ],
+    [ "sGossipSelect", "d8/db5/a12865.html#ad80c97c7d8d8cd4db466d65ecda8dd4f", null ],
+    [ "UpdateAI", "d8/db5/a12865.html#a92cdad912f54235ab9c4cd788f17e293", null ],
+    [ "_events", "d8/db5/a12865.html#a1687755cadc484d431497a320e9509f3", null ],
+    [ "instance", "d8/db5/a12865.html#aa0d131530564cc40af48bc31f9f67a7d", null ],
+    [ "Voidwalkers", "d8/db5/a12865.html#afb365d8b32d2610b3d398b6f3a1f1bc6", null ]
 ];

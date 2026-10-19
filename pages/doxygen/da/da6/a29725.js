@@ -1,12 +1,5 @@
 var a29725 =
 [
-    [ "HealInfoStubBuilder", "da/da6/a29725.html#a57945de96ad065451cadb47edba287c8", null ],
-    [ "Build", "da/da6/a29725.html#a291565d223df00ce9d09c0315e803448", null ],
-    [ "WithAbsorb", "da/da6/a29725.html#aa09160afe48114a7a3566be328f64658", null ],
-    [ "WithEffectiveHeal", "da/da6/a29725.html#a34a359322b018cffc5f54ca999c11b11", null ],
-    [ "WithHeal", "da/da6/a29725.html#a812e06b07eeb18c1d379409b77a80b89", null ],
-    [ "WithHitMask", "da/da6/a29725.html#ab788ddcc209140ed3c10b02785471dcb", null ],
-    [ "WithOverheal", "da/da6/a29725.html#a89c12c30725eb2bdc3889005a38d54eb", null ],
-    [ "WithSpellInfo", "da/da6/a29725.html#a4dc784241fbe998437cceb953fb83e1f", null ],
-    [ "_stub", "da/da6/a29725.html#ad0da544c651e387d8c6e9b272aa3db7b", null ]
+    [ "type", "da/da6/a29725.html#af749459df7757d1bab17a54be813f6b6", null ],
+    [ "_type", "da/da6/a29725.html#ab0344571616786baef4511c647a3abea", null ]
 ];

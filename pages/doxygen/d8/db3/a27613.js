@@ -1,5 +1,6 @@
 var a27613 =
 [
-    [ "EarthenPowerTargetSelector", "d8/db3/a27613.html#a61290afcc621c73682160a4e6a6e0f5d", null ],
-    [ "operator()", "d8/db3/a27613.html#a9f3d7e7bdb3a3affa72da57903f28940", null ]
+    [ "CheckCast", "d8/db3/a27613.html#aecbecbd753b8ed32d51971a090063ef4", null ],
+    [ "PrepareSpellScript", "d8/db3/a27613.html#a0efb319154edb2c798460de72d6a56ed", null ],
+    [ "Register", "d8/db3/a27613.html#acd6ecb0204dd369c410e465551328f56", null ]
 ];

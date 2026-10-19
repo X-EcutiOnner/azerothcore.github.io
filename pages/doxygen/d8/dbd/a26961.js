@@ -1,8 +1,9 @@
 var a26961 =
 [
-    [ "CheckCast", "d8/dbd/a26961.html#a5fc226206c08aa65459c144cd5f34c6c", null ],
-    [ "PrepareSpellScript", "d8/dbd/a26961.html#a1c0f324c7c2f2799990dcc116edd69cf", null ],
-    [ "Register", "d8/dbd/a26961.html#a35239e58eb76c0ffe74e0feee2250fa1", null ],
-    [ "TriggerDebuffs", "d8/dbd/a26961.html#a1579b28071e2194625f722a29ded39b8", null ],
-    [ "Validate", "d8/dbd/a26961.html#a767853d4b05e055cb32991bfe8c6516a", null ]
+    [ "CheckProc", "d8/dbd/a26961.html#a1ea48d77c2bb5b26c12384e4e11411ff", null ],
+    [ "HandleProc", "d8/dbd/a26961.html#afe1282b6df7593066469f3ddf7ff8a33", null ],
+    [ "PrepareAuraScript", "d8/dbd/a26961.html#a9585ecde57ccfa26f59174732e3132fc", null ],
+    [ "Register", "d8/dbd/a26961.html#aff856108cd0b92c3a4eaeb4c354ee56f", null ],
+    [ "Validate", "d8/dbd/a26961.html#a65e88419d625dc6e8033b573ce7f18ee", null ],
+    [ "_triggeredSpellId", "d8/dbd/a26961.html#a560ade778e046213f60f48364ea3800c", null ]
 ];

@@ -1,8 +1,9 @@
 var a11877 =
 [
-    [ "SkillExtraItemEntry", "dc/d24/a11877.html#a3f7a8bc0b81407e7d5567c7da3e65ec5", null ],
-    [ "SkillExtraItemEntry", "dc/d24/a11877.html#a39a44cb09912cb0a15a5dd3b18787d16", null ],
-    [ "additionalCreateChance", "dc/d24/a11877.html#a299d886468e9caf22f9d6ce80a64c247", null ],
-    [ "newMaxOrEntry", "dc/d24/a11877.html#adfda967d36154b039495f0b289a5c9d1", null ],
-    [ "requiredSpecialization", "dc/d24/a11877.html#a0ba0ba6f012a10b717ca4e6c2f46cf26", null ]
+    [ "EncryptableAndCompressiblePacket", "dc/d24/a11877.html#a64eb3fa6b02a6aff486aa2d9a4d09fc6", null ],
+    [ "CompressIfNeeded", "dc/d24/a11877.html#a113d89a8f2832c5db01611ff71d2bc73", null ],
+    [ "NeedsCompression", "dc/d24/a11877.html#ad376b973f02c1b0cd2afbb43cc081917", null ],
+    [ "NeedsEncryption", "dc/d24/a11877.html#a114e5d6da2e81a26e478f7aea287d08a", null ],
+    [ "_encrypt", "dc/d24/a11877.html#a37a68eddad23001a85a4a2f77e237810", null ],
+    [ "SocketQueueLink", "dc/d24/a11877.html#a88f11ce75f439fd290bdc09156d559c2", null ]
 ];

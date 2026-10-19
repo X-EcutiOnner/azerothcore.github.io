@@ -1,6 +1,7 @@
 var a24781 =
 [
-    [ "CheckTargets", "df/dc3/a24781.html#abb6ffb41731b05b868f82498b373d8b9", null ],
-    [ "PrepareSpellScript", "df/dc3/a24781.html#a4ce2790448bd39c19daf8caae7ef5a9d", null ],
-    [ "Register", "df/dc3/a24781.html#aeefc7910c2960dbf3a49da6ed3c15523", null ]
+    [ "HandleDummy", "df/dc3/a24781.html#a54f7f56a9122b623855eb9d11e34dfca", null ],
+    [ "PrepareSpellScript", "df/dc3/a24781.html#a2fe4b009fa3741c180e18730af5853e3", null ],
+    [ "Register", "df/dc3/a24781.html#a762c2320ab8d48e1284d81962a4b078f", null ],
+    [ "Validate", "df/dc3/a24781.html#a42fbc381d7ae89f1ac265fb15ebd864f", null ]
 ];

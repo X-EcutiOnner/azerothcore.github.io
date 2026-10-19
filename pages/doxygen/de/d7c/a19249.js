@@ -1,7 +1,8 @@
 var a19249 =
 [
-    [ "OnApply", "de/d7c/a19249.html#a5f62c11ef96edbf6f2906bd5f41109d5", null ],
-    [ "OnRemove", "de/d7c/a19249.html#a697a7c76f944b5df956a9de07746b7a9", null ],
-    [ "PrepareAuraScript", "de/d7c/a19249.html#a338d0fa22368d01fe7523b7cc1acea4b", null ],
-    [ "Register", "de/d7c/a19249.html#ab915b3ede10526b3e7ccbe33f2568fae", null ]
+    [ "npc_vampiric_fiend", "de/d7c/a19249.html#a4ddef98ac3b9d166980243b0dbe821f7", null ],
+    [ "EnterEvadeMode", "de/d7c/a19249.html#ac9f90234d1f100c671f70b249a339314", null ],
+    [ "JustEngagedWith", "de/d7c/a19249.html#a6167d1529b88c3b85cf21547b89bbc98", null ],
+    [ "UpdateAI", "de/d7c/a19249.html#aba3a8c1bfaa1f841f820e9540bc2267a", null ],
+    [ "_scheduler", "de/d7c/a19249.html#a8978bf1ffc6009b29c738ebe3232887f", null ]
 ];

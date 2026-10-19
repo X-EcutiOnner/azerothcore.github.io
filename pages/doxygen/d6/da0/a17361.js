@@ -1,5 +1,8 @@
 var a17361 =
 [
-    [ "npc_fos_leader_secondAI", "d6/da0/a17361.html#a25df0b8760e9eb7d330779e10e3ac548", null ],
-    [ "MovementInform", "d6/da0/a17361.html#a9cc0b500f1289dc8b764b3755468e639", null ]
+    [ "npc_fos_corrupted_soul_fragment", "d6/da0/a17361.html#a1fef6c180e9fc6e8d8d316d45b5066f9", null ],
+    [ "Reset", "d6/da0/a17361.html#ad318f80454cf17b2b9d39a02a83e6e92", null ],
+    [ "UpdateAI", "d6/da0/a17361.html#a8dd94bd36392c75c4971aa50b83a5ada", null ],
+    [ "Instance", "d6/da0/a17361.html#a34d1912b83f9da8335ab3e7d527e5e01", null ],
+    [ "Timer", "d6/da0/a17361.html#a82a7ce4a8d07e7d4dab30d4f11aeb006", null ]
 ];

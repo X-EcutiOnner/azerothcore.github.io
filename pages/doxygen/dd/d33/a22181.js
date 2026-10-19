@@ -1,5 +1,7 @@
 var a22181 =
 [
-    [ "go_sister_mercy", "dd/d33/a22181.html#a3c29ef699afe163b9a505f472709a795", null ],
-    [ "EventInform", "dd/d33/a22181.html#a5ad9020e2717ef93d97a742ec16b14e6", null ]
+    [ "npc_plaguehound_trackerAI", "dd/d33/a22181.html#a7530f500b42ad9bb38593193d3113da8", null ],
+    [ "Reset", "dd/d33/a22181.html#a05c351ab3aca0cd18209405075bb0f47", null ],
+    [ "WaypointReached", "dd/d33/a22181.html#a67c345f49572cde76d9109a1baff6788", null ],
+    [ "WaypointReached", "dd/d33/a22181.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

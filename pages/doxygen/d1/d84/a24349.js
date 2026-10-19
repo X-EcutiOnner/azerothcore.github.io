@@ -1,8 +1,6 @@
 var a24349 =
 [
-    [ "CreatureId", "d1/d84/a24349.html#a127341c70f8785ceb556b1c11b23f477", null ],
-    [ "SpawnCount", "d1/d84/a24349.html#ad51fb68e41e04490f658a4c4f62612bd", null ],
-    [ "SpawnTimer", "d1/d84/a24349.html#aa57ff686c5fde12269e231333d8a8bef", null ],
-    [ "UsedSpawnPoint", "d1/d84/a24349.html#a2d5f42a6b1a309c8db74febcedf457eb", null ],
-    [ "YellTimer", "d1/d84/a24349.html#a6346259269af7f2936f959f87288dd69", null ]
+    [ "npc_invis_infernal_casterAI", "d6/d38/a24353.html", "d6/d38/a24353" ],
+    [ "npc_invis_infernal_caster", "d1/d84/a24349.html#a9aed081ef904075830428bbc76f53874", null ],
+    [ "GetAI", "d1/d84/a24349.html#aede0c5cc390ea423169b1cba66d929cd", null ]
 ];

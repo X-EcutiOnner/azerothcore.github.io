@@ -1,15 +1,6 @@
 var a19193 =
 [
-    [ "npc_icc_orb_controller", "d1/d8f/a19193.html#af78f3356f39b112ce37a17c735d5c625", null ],
-    [ "DoAction", "d1/d8f/a19193.html#a2c8a835fd79c247852fb49f0e9aa6649", null ],
-    [ "Reset", "d1/d8f/a19193.html#a2018189abc547c96b5e6cfad32b0394d", null ],
-    [ "ScheduleVisualChannel", "d1/d8f/a19193.html#ae387fdfb241e9954b80f8a960184fd52", null ],
-    [ "SetGUID", "d1/d8f/a19193.html#a03291421296f26d1074dc8624e47ee5c", null ],
-    [ "SpellHit", "d1/d8f/a19193.html#a1b939a16c94e04f0c0d211c7525067bf", null ],
-    [ "UpdateAI", "d1/d8f/a19193.html#ace711f4d706596bbc6e7e5e2a71fe7b5", null ],
-    [ "UpdateValidGuids", "d1/d8f/a19193.html#a4e9c20a096c6c0b6eab6499360afa580", null ],
-    [ "_isInCombat", "d1/d8f/a19193.html#ad01a3b4fa5235ffe760da4bad32597b0", null ],
-    [ "_isLongRepeat", "d1/d8f/a19193.html#a991b496578a1a527bc5852dea3d0b8b0", null ],
-    [ "_minionGuids", "d1/d8f/a19193.html#a75c655bb0bb9af2cded799caa5d437fa", null ],
-    [ "_scheduler", "d1/d8f/a19193.html#aca716eb91bed808919ac5bd415b36397", null ]
+    [ "npc_captain_rupertAI", "d8/da8/a19197.html", "d8/da8/a19197" ],
+    [ "npc_captain_rupert", "d1/d8f/a19193.html#a7a4535a6b784b460c79722e9a50c3ff6", null ],
+    [ "GetAI", "d1/d8f/a19193.html#a20afc31fc1a8bb09692ab0cc47af3c1b", null ]
 ];

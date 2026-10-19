@@ -1,8 +1,12 @@
 var a05198 =
 [
-    [ "ByteSize", "d8/dc7/a11563.html", "d8/dc7/a11563" ],
-    [ "Hyperlinks", "d4/d48/a11571.html", "d4/d48/a11571" ],
-    [ "NoHyperlinks", "d6/dda/a11575.html", "d6/dda/a11575" ],
-    [ "RawBytes", "d7/d9d/a11559.html", "d7/d9d/a11559" ],
-    [ "Utf8", "dd/d35/a11567.html", "dd/d35/a11567" ]
+    [ "InstanceLockResponse", "df/d07/a11369.html", "df/d07/a11369" ],
+    [ "InstanceReset", "d3/ddf/a11337.html", "d3/ddf/a11337" ],
+    [ "InstanceResetFailed", "d4/db8/a11341.html", "d4/db8/a11341" ],
+    [ "ResetFailedNotify", "de/d77/a11353.html", "de/d77/a11353" ],
+    [ "ResetInstances", "db/dbd/a11365.html", "db/dbd/a11365" ],
+    [ "SetDungeonDifficulty", "df/d75/a11345.html", "df/d75/a11345" ],
+    [ "SetDungeonDifficultyClient", "de/d3e/a11349.html", "de/d3e/a11349" ],
+    [ "SetRaidDifficulty", "da/d90/a11357.html", "da/d90/a11357" ],
+    [ "SetRaidDifficultyClient", "d3/d97/a11361.html", "d3/d97/a11361" ]
 ];

@@ -1,5 +1,6 @@
 var a24261 =
 [
-    [ "at_commander_dawnforge", "da/dad/a24261.html#a1dfd7eb69ae515a59887c313001e4a4e", null ],
-    [ "OnTrigger", "da/dad/a24261.html#a240a2a8a3de913c840c0a14fa4427e7e", null ]
+    [ "go_magtheridons_head", "da/dad/a24261.html#af5816b083f1856196bec7a75f0a995f3", null ],
+    [ "InitializeAI", "da/dad/a24261.html#a84fd97c0dfc2826a0b7795a9fbd70cd5", null ],
+    [ "OnStateChanged", "da/dad/a24261.html#a28682d161074b71e1f2d70236ff2b897", null ]
 ];

@@ -1,11 +1,12 @@
 var a22845 =
 [
-    [ "boss_murmur", "dd/d89/a22845.html#ad89ea433764c3017a3d33b37eb9e5602", null ],
-    [ "CastSuppressionOOC", "dd/d89/a22845.html#aab66339a7436c3c483297b25f6859558", null ],
-    [ "DamageTaken", "dd/d89/a22845.html#a6446fe6c0ae5ece0cd70c8d9dbccb0f5", null ],
-    [ "EnterEvadeMode", "dd/d89/a22845.html#aa0f549c83a92302ece2323c75dd29acc", null ],
-    [ "JustEngagedWith", "dd/d89/a22845.html#a3d872beeee7bf6ecd0c4aeaa3f8c603d", null ],
-    [ "Reset", "dd/d89/a22845.html#a1f40ead1b2269b97c69bd4db808d6bae", null ],
-    [ "SetGUID", "dd/d89/a22845.html#a33ef5951ded28d26fbad832ec8c222e3", null ],
-    [ "ShouldCastResonance", "dd/d89/a22845.html#ade07217a85655a513d7a472d24589691", null ]
+    [ "boss_anzu", "dd/d89/a22845.html#aef8c5c57afa95936d8c2809fa1257799", null ],
+    [ "JustEngagedWith", "dd/d89/a22845.html#a2384a1ea128ad5a43d3b8fb36fe39aba", null ],
+    [ "Reset", "dd/d89/a22845.html#a61c75d6d96aa5cfb41e87faa74ec2fa5", null ],
+    [ "SummonBroods", "dd/d89/a22845.html#a7f3f8868a5648bdeccd03d08203e4cf1", null ],
+    [ "SummonedCreatureDies", "dd/d89/a22845.html#a2e35df609db069c8d31afffabcfead34", null ],
+    [ "SummonSpirits", "dd/d89/a22845.html#a23e03d1718fba49a3bd57609abb77c6a", null ],
+    [ "UpdateAI", "dd/d89/a22845.html#a06373460d454bfaf8db793e591cc0abd", null ],
+    [ "AnzuSpiritPos", "dd/d89/a22845.html#a64e42ce8856b9d10c7f24fefc0c1e0b2", null ],
+    [ "talkTimer", "dd/d89/a22845.html#a2afae53534d9e777c90d09456f834b5d", null ]
 ];

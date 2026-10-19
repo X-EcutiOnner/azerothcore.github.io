@@ -1,12 +1,12 @@
 var a07573 =
 [
-    [ "Type", "df/d40/a07573.html#a758c9729d907d872a5e5365539486408", [
-      [ "ADD", "df/d40/a07573.html#a758c9729d907d872a5e5365539486408a9eeb52badb613229884838847294b90d", null ],
-      [ "REMOVE", "df/d40/a07573.html#a758c9729d907d872a5e5365539486408a78baf367c4626442174307cdf41c6538", null ],
-      [ "UPDATE_BID", "df/d40/a07573.html#a758c9729d907d872a5e5365539486408af737406648230093b15420038f06e0a5", null ]
+    [ "Type", "df/d40/a07573.html#abfb75b18c4a43f1818cd78212c668109", [
+      [ "LIST", "df/d40/a07573.html#abfb75b18c4a43f1818cd78212c668109a298cb25408234de02baf2085803a464a", null ],
+      [ "OWNER_LIST", "df/d40/a07573.html#abfb75b18c4a43f1818cd78212c668109a425771069bf1ccc5efbffddcdd382f5e", null ],
+      [ "BIDDER_LIST", "df/d40/a07573.html#abfb75b18c4a43f1818cd78212c668109a3db79062131239cf3a1812bf18377fab", null ]
     ] ],
-    [ "AuctionSearcherUpdate", "df/d40/a07573.html#acfc9c3749967b90c2b8633c40f1aa2bd", null ],
-    [ "~AuctionSearcherUpdate", "df/d40/a07573.html#a34cb7ede5d2108065a51a80396d6fc55", null ],
-    [ "listFaction", "df/d40/a07573.html#a3f61acebd3d594e3a23d682d2d5292bc", null ],
-    [ "updateType", "df/d40/a07573.html#af6ee8672029884bdbec327242ce5d5d2", null ]
+    [ "AuctionSearcherRequest", "df/d40/a07573.html#afadcce053f82ae124263a501671f35e3", null ],
+    [ "~AuctionSearcherRequest", "df/d40/a07573.html#a8122177f0ca9b5c2393e87998a15e950", null ],
+    [ "listFaction", "df/d40/a07573.html#a1847f75715da2de1098d0f767163f62d", null ],
+    [ "requestType", "df/d40/a07573.html#ad7006f42aafadfa07024e1d2a278be3d", null ]
 ];

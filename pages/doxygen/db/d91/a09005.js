@@ -1,5 +1,8 @@
 var a09005 =
 [
-    [ "PlayerLevelInfo", "db/d91/a09005.html#af0d716577a3645fe1cef95968382ec80", null ],
-    [ "stats", "db/d91/a09005.html#a796af7d07604474adebf5a6f3518ca30", null ]
+    [ "IsInSpec", "db/d91/a09005.html#a77968b5562467f85bda04b6f2f41ca29", null ],
+    [ "inSpellBook", "db/d91/a09005.html#a650926fa9d1bbab336ee7ed3dd0b0b7d", null ],
+    [ "specMask", "db/d91/a09005.html#acc1913a90ca2bd23298d3590843cfbd5", null ],
+    [ "State", "db/d91/a09005.html#a062758af7e92f7e2263ca0a0fd329151", null ],
+    [ "talentID", "db/d91/a09005.html#aca9b191361652002f5178179a939e41b", null ]
 ];

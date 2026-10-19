@@ -1,6 +1,7 @@
 var a21669 =
 [
-    [ "npc_khunok_the_behemothAI", "de/d2d/a21673.html", "de/d2d/a21673" ],
-    [ "npc_khunok_the_behemoth", "d5/df7/a21669.html#a0370959631c00581495dbd7c37263236", null ],
-    [ "GetAI", "d5/df7/a21669.html#a201aa35dd119d23126b192a1e3786c09", null ]
+    [ "npc_azure_binder", "d5/df7/a21669.html#ae273e78765faeb3e9604b7ce89ef6e6c", null ],
+    [ "Reset", "d5/df7/a21669.html#a0a11617ac11bf6aacacc3b36ce90fdca", null ],
+    [ "UpdateAI", "d5/df7/a21669.html#add9f304212a1a10267e564cd939f3751", null ],
+    [ "_events", "d5/df7/a21669.html#a0026fdd57e09f02b46010d696bb0a5da", null ]
 ];

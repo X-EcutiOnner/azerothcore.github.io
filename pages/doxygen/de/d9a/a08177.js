@@ -1,5 +1,10 @@
 var a08177 =
 [
-    [ "IsColorValid", "de/d9a/a08177.html#a537a2beaa8321095d2d67b8fb655acea", null ],
-    [ "IsTextValid", "de/d9a/a08177.html#aeaa47302a91b5882afae3950ffc460cc", null ]
+    [ "storage_type", "de/d9a/a08177.html#a054c554d9d812e571455bce39655a9ac", null ],
+    [ "value_type", "de/d9a/a08177.html#a5c55c97d4dd08c5e71563596e0c59111", null ],
+    [ "operator value_type", "de/d9a/a08177.html#a2d439c3664d398cebfc503b2769bfa9c", null ],
+    [ "operator*", "de/d9a/a08177.html#a9d4cf547beb996e5945acb84f5305200", null ],
+    [ "operator->", "de/d9a/a08177.html#afb5bb4e6e4a32db89e3b8a68e9c0d901", null ],
+    [ "TryConsume", "de/d9a/a08177.html#a57892ca7457ca93bdcdbbb8309311c8f", null ],
+    [ "val", "de/d9a/a08177.html#aef50fdfc79df3ca784eb90a69bd43076", null ]
 ];

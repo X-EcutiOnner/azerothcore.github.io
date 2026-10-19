@@ -1,8 +1,6 @@
 var a24489 =
 [
-    [ "npc_pet_dk_ghoul", "d3/d29/a24489.html#aff3b8dc660a7e263c6e30960819b4ffa", null ],
-    [ "IsSummonedBy", "d3/d29/a24489.html#ae6ea5ad522229289a16d5be1e52181f6", null ],
-    [ "JustDied", "d3/d29/a24489.html#a6095e3619b470283b9875b90e2805b54", null ],
-    [ "UpdateAI", "d3/d29/a24489.html#a55ed58a264bd30cc4f891dc1e6d2fe03", null ],
-    [ "_summonTargetGUID", "d3/d29/a24489.html#aaca50b80273c75a48ee366fc07a3a3d0", null ]
+    [ "HandleSendEvent", "d3/d29/a24489.html#a698e367b59ce770a9b4d9fe6890edf46", null ],
+    [ "PrepareSpellScript", "d3/d29/a24489.html#aed8815b1d068ba04f12c7714a64af769", null ],
+    [ "Register", "d3/d29/a24489.html#aa55fa06e76b1f34e319e16984405ed20", null ]
 ];

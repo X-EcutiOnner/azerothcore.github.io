@@ -1,6 +1,6 @@
 var a18257 =
 [
-    [ "npc_darnavanAI", "d2/d4d/a18261.html", "d2/d4d/a18261" ],
-    [ "npc_darnavan", "d0/d8e/a18257.html#ac358ca123155165395fa5f7ec02c9dab", null ],
-    [ "GetAI", "d0/d8e/a18257.html#a9eeb6e5fba1e6d671af1f23f443c509a", null ]
+    [ "CheckProc", "d0/d8e/a18257.html#a86e62fa26606a77284c80583e7b35d27", null ],
+    [ "PrepareAuraScript", "d0/d8e/a18257.html#a2c10a09e9e5015eb4f3c66d5086dbe1a", null ],
+    [ "Register", "d0/d8e/a18257.html#a6214f78c5c7eb3f60371fa12530d5991", null ]
 ];

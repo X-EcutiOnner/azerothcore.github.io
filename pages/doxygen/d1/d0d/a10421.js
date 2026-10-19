@@ -1,10 +1,23 @@
 var a10421 =
 [
-    [ "ID", "d1/d0d/a10421.html#a3bd2bf63526b6ee4a15cf7a2244ff06b", null ],
-    [ "Map", "d1/d0d/a10421.html#af4e60380e8434e5b8f573d2172ddf656", null ],
-    [ "name", "d1/d0d/a10421.html#ae1dd7ba1294653756ea4af9d9b66fa2c", null ],
-    [ "wnameLow", "d1/d0d/a10421.html#a148ead3270ad02213204792d6063cead", null ],
-    [ "x", "d1/d0d/a10421.html#ae8f23fc9e53f6357d56b3a25ed514330", null ],
-    [ "y", "d1/d0d/a10421.html#af2e239c4c76dff49090f8f1d8eb4d455", null ],
-    [ "z", "d1/d0d/a10421.html#adf56d09898752230a4fa1629849ac945", null ]
+    [ "TransportMgr", "d1/d0d/a10421.html#a864650522d61689f4915228165849d38", null ],
+    [ "~TransportMgr", "d1/d0d/a10421.html#a3804895a34944bf7971b27f6069e4e33", null ],
+    [ "TransportMgr", "d1/d0d/a10421.html#a6aff0c119db7cd54732955f684acfab4", null ],
+    [ "AddPathNodeToTransport", "d1/d0d/a10421.html#aac45c48421abd6a85bddf4b2570807dc", null ],
+    [ "AddPathRotationToTransport", "d1/d0d/a10421.html#ab2fc9ffddd2c6acb4f6b8db4629a11d8", null ],
+    [ "CreateInstanceTransports", "d1/d0d/a10421.html#a818028f54e44fd23ca0afecccf44ccba", null ],
+    [ "CreateTransport", "d1/d0d/a10421.html#a7e0ba6cf10e10a6aeca1f683bbf7e755", null ],
+    [ "GeneratePath", "d1/d0d/a10421.html#afd703e2da6667f5499e75eb6c85c4fec", null ],
+    [ "GetTransportAnimInfo", "d1/d0d/a10421.html#a205be05963bc790f64ed5bfac58a87e2", null ],
+    [ "GetTransportTemplate", "d1/d0d/a10421.html#a93ea26ec255ff5be114b3c0779ae894f", null ],
+    [ "instance", "d1/d0d/a10421.html#a843726202931931587280fefd703cff8", null ],
+    [ "LoadTransportTemplates", "d1/d0d/a10421.html#a0b3e4e63bc4194c40f5dba6ced1ed205", null ],
+    [ "operator=", "d1/d0d/a10421.html#accb329967e8129ddcf857ecb6269c4d5", null ],
+    [ "PreloadGridsFromQuery", "d1/d0d/a10421.html#abbb04cc2b20a061c8044735cd1db7446", null ],
+    [ "SpawnContinentTransports", "d1/d0d/a10421.html#afff76c3893f5a76d83d48f0074e77349", null ],
+    [ "Unload", "d1/d0d/a10421.html#a99b8ff087e7d32428b8463f3ff229dee", null ],
+    [ "LoadDBCStores", "d1/d0d/a10421.html#a0bbf145faec5eed353431235243dbcbf", null ],
+    [ "_instanceTransports", "d1/d0d/a10421.html#a97799b68a08a24beb14abd4fae1468d1", null ],
+    [ "_transportAnimations", "d1/d0d/a10421.html#a4dc2def28c51bfa78fdf01aaa25e40ae", null ],
+    [ "_transportTemplates", "d1/d0d/a10421.html#a0b89cc26375f14eb4bb5f8b0d1722f8f", null ]
 ];

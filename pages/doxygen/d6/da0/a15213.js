@@ -1,9 +1,7 @@
 var a15213 =
 [
-    [ "npc_ancient_wisp", "d6/da0/a15213.html#a70e45e500b3490a034b058ca2ec16d39", null ],
-    [ "DamageTaken", "d6/da0/a15213.html#ad7d96e6b54cdc23a5101338474125e71", null ],
-    [ "JustEngagedWith", "d6/da0/a15213.html#a755ed852b3149ada65c5750410776fc8", null ],
-    [ "Reset", "d6/da0/a15213.html#a1c33cc47d7f60b2b3eb60852f1c36820", null ],
-    [ "UpdateAI", "d6/da0/a15213.html#a51ca214de826d7126f32e49f6852bca3", null ],
-    [ "_instance", "d6/da0/a15213.html#a5e5e51944d49cc52bed4ff4953513f1f", null ]
+    [ "boss_azuregosAI", "d5/d1e/a15217.html", "d5/d1e/a15217" ],
+    [ "boss_azuregos", "d6/da0/a15213.html#a48590db0037870ca5c9425a468e5ea3a", null ],
+    [ "GetAI", "d6/da0/a15213.html#a3ea1fd967b8ab158a9b2bb5cdd7dcf83", null ],
+    [ "OnGossipSelect", "d6/da0/a15213.html#a73220e54a3a53931e740f3c53c3bf20c", null ]
 ];

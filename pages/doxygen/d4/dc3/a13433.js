@@ -1,6 +1,13 @@
 var a13433 =
 [
-    [ "instance_karazhan_InstanceMapScript", "da/d5d/a13437.html", "da/d5d/a13437" ],
-    [ "instance_karazhan", "d4/dc3/a13433.html#a219fa0f5d691c2ae06a45d167c89d419", null ],
-    [ "GetInstanceScript", "d4/dc3/a13433.html#a4ce148ba13d0541ad2aaecdd1ed2f3a5", null ]
+    [ "boss_roar", "d4/dc3/a13433.html#a93e1d81bcff8b31841ae65628759ee7e", null ],
+    [ "DoAction", "d4/dc3/a13433.html#a9a2778a803d6d41b256759b29452cc51", null ],
+    [ "EnterEvadeMode", "d4/dc3/a13433.html#a198044653632b93838c0f79c06cb7640", null ],
+    [ "JustDied", "d4/dc3/a13433.html#a3c79bea69740601ad89f0765f3af99f2", null ],
+    [ "JustEngagedWith", "d4/dc3/a13433.html#a1db42b2b1a19ac4a959a51ce17c8ae32", null ],
+    [ "JustReachedHome", "d4/dc3/a13433.html#a632929b026815a524bd79748e768e3fc", null ],
+    [ "KilledUnit", "d4/dc3/a13433.html#aaaa0d33697fe1abc0df5bf9ecb249ffc", null ],
+    [ "UpdateAI", "d4/dc3/a13433.html#a255d406f8bab62593a3eeda0e4e3d646", null ],
+    [ "_scheduler", "d4/dc3/a13433.html#a54b45b1fdacc2b3982e21580b9b4d26a", null ],
+    [ "instance", "d4/dc3/a13433.html#a67df04e89c877d565753ac077aa923c7", null ]
 ];

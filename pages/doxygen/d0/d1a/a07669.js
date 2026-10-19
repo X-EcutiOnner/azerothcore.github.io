@@ -1,12 +1,10 @@
 var a07669 =
 [
-    [ "Arena", "d0/d1a/a07669.html#a74f105bc709d4728fb07f1984abfd345", null ],
-    [ "AddPlayer", "d0/d1a/a07669.html#ae24fe304d35c0c09379203135e936450", null ],
-    [ "CheckWinConditions", "d0/d1a/a07669.html#a886b586f7ab6fc89d76e86cb811989b8", null ],
-    [ "EndBattleground", "d0/d1a/a07669.html#a2be61602189b530a16a9ca954d180914", null ],
-    [ "FillInitialWorldStates", "d0/d1a/a07669.html#a592100d0f0ed492a5cdf941e57db787f", null ],
-    [ "HandleKillPlayer", "d0/d1a/a07669.html#ae0a56f524bfc9eec6753874ce35d0466", null ],
-    [ "RemovePlayer", "d0/d1a/a07669.html#ab5348b8bd4bfd58c01cdf61f16f72db1", null ],
-    [ "RemovePlayerAtLeave", "d0/d1a/a07669.html#acae21233e11b21b612e5c051bfa7720e", null ],
-    [ "UpdateArenaWorldState", "d0/d1a/a07669.html#a422925ee29e9a5f64aeb4264169ff2d6", null ]
+    [ "CreatureBottom", "d0/d1a/a07669.html#aaa8fe59aa58bf02934bf87f636582637", null ],
+    [ "CreatureTop", "d0/d1a/a07669.html#a98a71fcf0d3a1f98ba4dab56d1a3c64b", null ],
+    [ "GameObject", "d0/d1a/a07669.html#abc26a328692fc048d9040c44f360f4c4", null ],
+    [ "nbCreatureBottom", "d0/d1a/a07669.html#ade8af6bff39a72f7052b7b0db14b207d", null ],
+    [ "nbCreatureTop", "d0/d1a/a07669.html#a38ab7536e0682efd7080b823569d504b", null ],
+    [ "nbObject", "d0/d1a/a07669.html#ad1e431e7205aee7fa7f8f0dd9a155c97", null ],
+    [ "towerEntry", "d0/d1a/a07669.html#a1c0edf97a599773b688954f2e966e794", null ]
 ];

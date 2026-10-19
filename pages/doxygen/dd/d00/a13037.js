@@ -1,7 +1,18 @@
 var a13037 =
 [
-    [ "HandleDummy", "dd/d00/a13037.html#a2299a8b99013fb9f9c2b8e81cfc541cc", null ],
-    [ "PrepareSpellScript", "dd/d00/a13037.html#ad07165f81a7f407c716f90691ecb9817", null ],
-    [ "Register", "dd/d00/a13037.html#a28fb28ca049b87dd76fddc3af222fd9c", null ],
-    [ "Validate", "dd/d00/a13037.html#a8ce6773c7d0fd501fa7b26f04fd22796", null ]
+    [ "boss_victor_nefarius", "dd/d00/a13037.html#a9d4a7d8fd46382e6f0f538dd426f760d", null ],
+    [ "BeginEvent", "dd/d00/a13037.html#afdd6dfe4ad32135f8aeaa2e9963ccaf4", null ],
+    [ "DoAction", "dd/d00/a13037.html#ad6d5d43db3e2abbc1ca9cf796e94f6fe", null ],
+    [ "Initialize", "dd/d00/a13037.html#a9af31a337899d1fc089db542c9980512", null ],
+    [ "JustDied", "dd/d00/a13037.html#a2ff548e6fd5df2877772e425d9354415", null ],
+    [ "JustReachedHome", "dd/d00/a13037.html#a49eecb765afd0ad88bbe93ca664d67cc", null ],
+    [ "JustSummoned", "dd/d00/a13037.html#aac1786270619ae0a40d5bc20e036b34e", null ],
+    [ "Reset", "dd/d00/a13037.html#aac8e08f7c731890edfdf9664873ec83c", null ],
+    [ "SetData", "dd/d00/a13037.html#adfdcaeb8047b728eeee28b32136d02ab", null ],
+    [ "sGossipSelect", "dd/d00/a13037.html#a238965424e584e1ed97e831ab125bc23", null ],
+    [ "SummonedCreatureDies", "dd/d00/a13037.html#a97f23bbb8ee7fa322bde2c3c36ef2083", null ],
+    [ "UpdateAI", "dd/d00/a13037.html#a782353216a18dda7c0afb6c1d2fa9e6a", null ],
+    [ "_killedAdds", "dd/d00/a13037.html#a17528d290fc57596969d4ac8020d0520", null ],
+    [ "_nefarianLeftTunnel", "dd/d00/a13037.html#a7b6018c7b8b7d8080ffb90f99c732090", null ],
+    [ "_nefarianRightTunnel", "dd/d00/a13037.html#a22a9f85d12a129db428ef63fd4f4c6db", null ]
 ];

@@ -1,8 +1,7 @@
 var a20485 =
 [
-    [ "npc_ulduar_saronite_animus", "df/de4/a20485.html#a991f2e68f4b0430c1ccdf470edb44082", null ],
-    [ "JustDied", "df/de4/a20485.html#a25c8d5d48558d3ce80cdef4545852bc6", null ],
-    [ "UpdateAI", "df/de4/a20485.html#afc7899752e25669b37ab04b50fb2d604", null ],
-    [ "_instance", "df/de4/a20485.html#a6f2bf52c82185365efe88941b7922504", null ],
-    [ "timer", "df/de4/a20485.html#acdc763ba9d1f35dafb87469e33a6b180", null ]
+    [ "boss_freya_lifebinder", "df/de4/a20485.html#a1784d6e975192a7442cabb14f688737d", null ],
+    [ "Reset", "df/de4/a20485.html#a48a829c75000d93cfb3c6a02aa0af495", null ],
+    [ "UpdateAI", "df/de4/a20485.html#ae43e7663ee263e223ff286ac1fedeef8", null ],
+    [ "_scheduler", "df/de4/a20485.html#a5c19f04cec9cd899feee7ce2878563cf", null ]
 ];

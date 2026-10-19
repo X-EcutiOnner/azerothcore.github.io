@@ -1,24 +1,19 @@
 var a02402 =
 [
-    [ "CharacterDatabasePreparedStatement", "df/d79/a02402.html#adabd50def0511ee540f8e1296c8cf782", null ],
-    [ "CharacterDatabaseQueryHolder", "df/d79/a02402.html#a350c68a4024b7fe5ae02a70f35c149d8", null ],
-    [ "CharacterDatabaseTransaction", "df/d79/a02402.html#a96bac9a371212c6bab7a9448214666c0", null ],
-    [ "LoginDatabasePreparedStatement", "df/d79/a02402.html#acd39cc80301f953b6d9adfee2f9585c8", null ],
-    [ "LoginDatabaseQueryHolder", "df/d79/a02402.html#a3e04fac4bd7cb26970c374dd1787cbbb", null ],
-    [ "LoginDatabaseTransaction", "df/d79/a02402.html#aa0ef7192ac59bc820849e5e21e3e08b7", null ],
-    [ "PreparedQueryResult", "df/d79/a02402.html#ac6110b8d867b5f84f677555d07037acb", null ],
-    [ "PreparedQueryResultFuture", "df/d79/a02402.html#a2011f9efd3a5d95695395eba86e79fab", null ],
-    [ "PreparedQueryResultPromise", "df/d79/a02402.html#a1b3aab1f5d953820d83af94034da3da2", null ],
-    [ "QueryCallbackProcessor", "df/d79/a02402.html#ab28e91495454917e2f4623ba259c3b2a", null ],
-    [ "QueryResult", "df/d79/a02402.html#ab0c9feeec448a181290fcb39565b8253", null ],
-    [ "QueryResultFuture", "df/d79/a02402.html#aaafe95f05c6db404e8bb61be587c7ca1", null ],
-    [ "QueryResultHolderFuture", "df/d79/a02402.html#afa682c0dbd4467d34bc28101c82c8959", null ],
-    [ "QueryResultHolderPromise", "df/d79/a02402.html#ad57a63776c96b99707576dd6f1ff7c29", null ],
-    [ "QueryResultPromise", "df/d79/a02402.html#a57de3b80b12c90e51398bf934fdc828b", null ],
-    [ "SQLTransaction", "df/d79/a02402.html#ab2badaea4b4827995daef3e2dec0f9cd", null ],
-    [ "TransactionFuture", "df/d79/a02402.html#ad8826e834522c9cacfd021d4529b4f87", null ],
-    [ "TransactionPromise", "df/d79/a02402.html#a363198b2c33dce9fd461ffd94bf063ac", null ],
-    [ "WorldDatabasePreparedStatement", "df/d79/a02402.html#a9a67db2ce35b3ac1d187318422f3ee95", null ],
-    [ "WorldDatabaseQueryHolder", "df/d79/a02402.html#a671c534314a7e095bb2bf72e2cc0fcbb", null ],
-    [ "WorldDatabaseTransaction", "df/d79/a02402.html#a858dac975c33053feb33400380cec907", null ]
+    [ "QueryResultFieldMetadata", "d5/d6e/a06145.html", "d5/d6e/a06145" ],
+    [ "Field", "d9/d6f/a06149.html", "d9/d6f/a06149" ],
+    [ "Binary", "df/d79/a02402.html#a45c2b15f675e85c1f4462be09f27c59e", null ],
+    [ "is_chrono_v", "df/d79/a02402.html#aa6a7b1e80be2ae7ec2efb76185ee7b44", null ],
+    [ "DatabaseFieldTypes", "df/d79/a02402.html#a52858f4c2cc23ac9372ab466fb82c091", [
+      [ "Null", "df/d79/a02402.html#a52858f4c2cc23ac9372ab466fb82c091abbb93ef26e3c101ff11cdd21cab08a94", null ],
+      [ "Int8", "df/d79/a02402.html#a52858f4c2cc23ac9372ab466fb82c091a7d839b2c12bfd40ac121b4cc9e81c539", null ],
+      [ "Int16", "df/d79/a02402.html#a52858f4c2cc23ac9372ab466fb82c091a39bc2ae44b184207f560ff8619823208", null ],
+      [ "Int32", "df/d79/a02402.html#a52858f4c2cc23ac9372ab466fb82c091ac06129f6e6e15c09328365e553f1dc31", null ],
+      [ "Int64", "df/d79/a02402.html#a52858f4c2cc23ac9372ab466fb82c091afbde23b11d7e59af7828e81144c8b487", null ],
+      [ "Float", "df/d79/a02402.html#a52858f4c2cc23ac9372ab466fb82c091a22ae0e2b89e5e3d477f988cc36d3272b", null ],
+      [ "Double", "df/d79/a02402.html#a52858f4c2cc23ac9372ab466fb82c091ad909d38d705ce75386dd86e611a82f5b", null ],
+      [ "Decimal", "df/d79/a02402.html#a52858f4c2cc23ac9372ab466fb82c091a937504f318f04eaf0f1d701df4c4d7f3", null ],
+      [ "Date", "df/d79/a02402.html#a52858f4c2cc23ac9372ab466fb82c091a44749712dbec183e983dcd78a7736c41", null ],
+      [ "Binary", "df/d79/a02402.html#a52858f4c2cc23ac9372ab466fb82c091a6ce976e8f061b2b5cfe4d0c50c3405dd", null ]
+    ] ]
 ];

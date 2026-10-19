@@ -1,4 +1,6 @@
 var a04211 =
 [
-    [ "ScriptRegistry< MovementHandlerScript >", "dc/d2d/a04211.html#adecbf467a875ee8886c336d96a2f97dc", null ]
+    [ "ScriptMgr", "dc/d8f/a10977.html", "dc/d8f/a10977" ],
+    [ "ScriptRegistry< TScript >", "dd/d60/a10981.html", "dd/d60/a10981" ],
+    [ "sScriptMgr", "dc/d2d/a04211.html#ae8161e629869974bc49b1cbfc73c1087", null ]
 ];

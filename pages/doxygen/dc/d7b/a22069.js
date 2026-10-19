@@ -1,9 +1,7 @@
 var a22069 =
 [
-    [ "npc_wounded_skirmisher", "dc/d7b/a22069.html#a30fe2d901df0cfd9b66f3dbd6a1e6aea", null ],
-    [ "Initialize", "dc/d7b/a22069.html#ae5fab920fcb16b57e0ed53a1177d319b", null ],
-    [ "JustEngagedWith", "dc/d7b/a22069.html#a80357b71a1eccdcdce8c8bea87de1b66", null ],
-    [ "Reset", "dc/d7b/a22069.html#acca266640c099718d2a0fd4f6a3c47ab", null ],
-    [ "SpellHit", "dc/d7b/a22069.html#a891e879af5da1f181c94e528c59a81f1", null ],
-    [ "UpdateAI", "dc/d7b/a22069.html#a52f8e7f8df05504cad4b4438c50814a4", null ]
+    [ "HandleScriptEffect", "dc/d7b/a22069.html#a8df8d5addea956e80ad0a30ff8f73050", null ],
+    [ "PrepareSpellScript", "dc/d7b/a22069.html#adf6593e47a5766c40e7e3859fce00f81", null ],
+    [ "Register", "dc/d7b/a22069.html#a6e3bbfb11816f72ae85efb4defb23ad7", null ],
+    [ "Validate", "dc/d7b/a22069.html#afdabca016ed5eae85a0bdb3fd9d695ec", null ]
 ];

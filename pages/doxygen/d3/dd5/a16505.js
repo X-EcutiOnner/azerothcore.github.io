@@ -1,6 +1,17 @@
 var a16505 =
 [
-    [ "boss_krik_thirAI", "d3/d78/a16509.html", "d3/d78/a16509" ],
-    [ "boss_krik_thir", "d3/dd5/a16505.html#ab7001cd05e8e5e371cbd6ee2b25f3522", null ],
-    [ "GetAI", "d3/dd5/a16505.html#a10e582440092d5c6558c2a11d60907aa", null ]
+    [ "npc_hadronox_crusherPackAI", "d3/dd5/a16505.html#a87d2baf69aecf42ad9b40ff993462e2c", null ],
+    [ "DoAction", "d3/dd5/a16505.html#a37b0af619fe374f809c0a41d340e5772", null ],
+    [ "DoEngagedWith", "d3/dd5/a16505.html#a4a6a7b835357fa63d3fc95b3676a5451", null ],
+    [ "DoEvent", "d3/dd5/a16505.html#a7ed620b7288a89f83150f49f0883f38b", null ],
+    [ "GetData", "d3/dd5/a16505.html#ae6a622e916a8e957eb3a4bf1b6563736", null ],
+    [ "JustEngagedWith", "d3/dd5/a16505.html#abc2842315c49bad32ea04b0d67e7d903", null ],
+    [ "MoveInLineOfSight", "d3/dd5/a16505.html#a1801b218fe0ad79b8e8710f2ffd177ad", null ],
+    [ "MovementInform", "d3/dd5/a16505.html#a810f890a7c57811e683f063f4c9fdcf4", null ],
+    [ "SetData", "d3/dd5/a16505.html#a99c1bcd23e068cba7e663fba2953b059", null ],
+    [ "UpdateAI", "d3/dd5/a16505.html#a0c84d3d559791416cdbc316cc3e8edfc", null ],
+    [ "_doFacing", "d3/dd5/a16505.html#a522540365169c2e73aa69914c350cbd0", null ],
+    [ "_instance", "d3/dd5/a16505.html#a050359a9f4a7556c6793337d7f654543", null ],
+    [ "_myPack", "d3/dd5/a16505.html#a4c297d590ec5e7e1efb079a61d34d437", null ],
+    [ "_positions", "d3/dd5/a16505.html#a811105fc340ac25bdc61ede98387e430", null ]
 ];

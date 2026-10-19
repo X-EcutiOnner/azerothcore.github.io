@@ -1,6 +1,7 @@
 var a05921 =
 [
-    [ "~AsyncProcessResult", "d8/d07/a05921.html#a16f0ce13c7401ce07e91b349c91365e0", null ],
-    [ "GetFutureResult", "d8/d07/a05921.html#ae0bd36d094d1fc5e325a7b7af1dd0ee8", null ],
-    [ "Terminate", "d8/d07/a05921.html#af3951c38d2b368c15c0ac7d415b96ebd", null ]
+    [ "Count", "d8/d07/a05921.html#aeeb13e953eff5fde8c9edff41ee17806", null ],
+    [ "FromIndex", "d8/d07/a05921.html#a8c6cb9f0a8d3488956904e2141405cf7", null ],
+    [ "ToIndex", "d8/d07/a05921.html#a25cc4ea08020adcf6deac42e2912b1f9", null ],
+    [ "ToString", "d8/d07/a05921.html#a8d3379c79f103655dd49d993402b741d", null ]
 ];

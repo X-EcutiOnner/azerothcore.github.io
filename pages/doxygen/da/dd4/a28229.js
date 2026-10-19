@@ -1,11 +1,8 @@
 var a28229 =
 [
-    [ "npc_dream_fogAI", "da/dd4/a28229.html#ac0606677b434b15dcbf17c9c4b2467a4", null ],
-    [ "GetRandomUnitFromDragonThreatList", "da/dd4/a28229.html#aa9ea076cdef0b1a0b21b18e42bf777c3", null ],
-    [ "Reset", "da/dd4/a28229.html#a595eeeae54d4bf323287fc408f706ac6", null ],
-    [ "ScheduleEvents", "da/dd4/a28229.html#a6025e98731e8eb3e4450eb6ea7747d5f", null ],
-    [ "SetGUID", "da/dd4/a28229.html#a3666423921a5405ea220ba098f3f91fe", null ],
-    [ "UpdateAI", "da/dd4/a28229.html#a881cbed8f1709071036b9f83cdbe1cad", null ],
-    [ "_dragonGUID", "da/dd4/a28229.html#a90deaf0fab9f0ed64c806c22c200ba08", null ],
-    [ "_targetGUID", "da/dd4/a28229.html#a44138ecd6ae6f07a624e26d82b0aa286", null ]
+    [ "CharacterActionIpLogger", "da/dd4/a28229.html#a39861f7348a79031a8215b435ba81059", null ],
+    [ "CharacterIPLogAction", "da/dd4/a28229.html#abf461fe7e7d89057aeb122abbd27e30e", null ],
+    [ "OnPlayerCreate", "da/dd4/a28229.html#a48844efac9d9af9c6415ad49d2473688", null ],
+    [ "OnPlayerLogin", "da/dd4/a28229.html#a753ed387ea50eaf4c56846eab33cdfc0", null ],
+    [ "OnPlayerLogout", "da/dd4/a28229.html#a3a4bcaf033e71e2dbeddc2ee6528494e", null ]
 ];

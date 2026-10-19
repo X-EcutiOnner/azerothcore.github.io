@@ -1,4 +1,5 @@
 var a28953 =
 [
-    [ "ratio", "dc/d5b/a28953.html#abd6f48f1ad2826ae1c3c782337bac618", null ]
+    [ "ID", "dc/d5b/a28953.html#a4a79da5825cf01d38d6ab9d98e033964", null ],
+    [ "parentCategory", "dc/d5b/a28953.html#a705e301dff461a8d7aefdc6fb29d39cc", null ]
 ];

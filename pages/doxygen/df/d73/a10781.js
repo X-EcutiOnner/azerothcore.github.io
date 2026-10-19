@@ -1,10 +1,12 @@
 var a10781 =
 [
-    [ "ArenaTeamScript", "df/d73/a10781.html#adc9b99bd34d10fc966b0d5ce3af54469", null ],
-    [ "IsDatabaseBound", "df/d73/a10781.html#a4d30f94084ae63eadd952c05b13f3ff4", null ],
-    [ "OnGetArenaPoints", "df/d73/a10781.html#aa4b2d40921443cefee2775da6ca31b3e", null ],
-    [ "OnGetSlotByType", "df/d73/a10781.html#a1ff67b327073bb8ebf10e7fddce92835", null ],
-    [ "OnQueueIdToArenaType", "df/d73/a10781.html#a2a26e8c87c5fa7e85eb2f0517ced29e8", null ],
-    [ "OnSetArenaMaxPlayersPerTeam", "df/d73/a10781.html#a776548946a09dcb3e76bd97f3c425e7f", null ],
-    [ "OnTypeIDToQueueID", "df/d73/a10781.html#abcdd905b695f926e503db610d80ada3c", null ]
+    [ "AllMapScript", "df/d73/a10781.html#a84f63a79158f667f291070d0cbb553ea", null ],
+    [ "CanSendObjectUpdatesToPlayer", "df/d73/a10781.html#a9748ad2d03db713c1f5d856ebf1329ad", null ],
+    [ "OnBeforeCreateInstanceScript", "df/d73/a10781.html#a1a4b75a1845923bcf68481ecc0d6b77c", null ],
+    [ "OnCreateMap", "df/d73/a10781.html#a56aa53bfb0a1cb7ad7cb677771739b46", null ],
+    [ "OnDestroyInstance", "df/d73/a10781.html#a990130b4cd594c1cd04368aea300a49e", null ],
+    [ "OnDestroyMap", "df/d73/a10781.html#a6bebd1e6e36b5714598439a6c6dfaad6", null ],
+    [ "OnMapUpdate", "df/d73/a10781.html#a6edbb719d998c57caba09eef7ad559e0", null ],
+    [ "OnPlayerEnterAll", "df/d73/a10781.html#a42e4af596effb07a00b353164f32cec9", null ],
+    [ "OnPlayerLeaveAll", "df/d73/a10781.html#adcfd501bee055317bff2a63ef28c3eab", null ]
 ];

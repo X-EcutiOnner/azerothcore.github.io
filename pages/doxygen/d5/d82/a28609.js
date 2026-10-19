@@ -1,8 +1,8 @@
 var a28609 =
 [
-    [ "npc_elder_clearwaterAI", "da/d92/a28613.html", "da/d92/a28613" ],
-    [ "npc_elder_clearwater", "d5/d82/a28609.html#abeee1650938a71762bb0c148ea9834d1", null ],
-    [ "GetAI", "d5/d82/a28609.html#a4ae2f507f61ee7cfc0c3b6d7dbfb7f04", null ],
-    [ "OnGossipHello", "d5/d82/a28609.html#aae382c0a386b8bacd39c6e7a586519e4", null ],
-    [ "OnQuestReward", "d5/d82/a28609.html#a2d316a2d2c892cecc134cea46b5bf2a8", null ]
+    [ "npc_artoriusAI", "da/d92/a28613.html", "da/d92/a28613" ],
+    [ "npc_artorius", "d5/d82/a28609.html#a832831aa19ef3694eee5bbae4d1d39e1", null ],
+    [ "GetAI", "d5/d82/a28609.html#a2563f90fe1fd35c6bcf3f2296652981d", null ],
+    [ "OnGossipHello", "d5/d82/a28609.html#a2c91fcd777d0e0e7ab4927290ca04359", null ],
+    [ "OnGossipSelect", "d5/d82/a28609.html#ae0d8b09e4f7ad830cac9d82ef2d2fe57", null ]
 ];

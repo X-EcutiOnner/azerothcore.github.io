@@ -1,13 +1,11 @@
 var a14917 =
 [
-    [ "go_firework_show", "d6/dc5/a14917.html#a42123490a9752f2187023f3f3ae56333", null ],
-    [ "InitShow", "d6/dc5/a14917.html#a27dc501894beaeb88b2ff0d940c7d129", null ],
-    [ "SpawnNextFirework", "d6/dc5/a14917.html#a6e9ce552bf040f2acce49c2e3eb70bab", null ],
-    [ "StartShow", "d6/dc5/a14917.html#af637d1436655e44738b55040196533d3", null ],
-    [ "StopShow", "d6/dc5/a14917.html#ad84f3dbb4692d03933d972ec7be6287d", null ],
-    [ "UpdateAI", "d6/dc5/a14917.html#ad1bcb7a47652d62ed8633abdafc56881", null ],
-    [ "_curIdx", "d6/dc5/a14917.html#a92613337cf2473e585b98b92bdcbce92", null ],
-    [ "_scheduler", "d6/dc5/a14917.html#a6248d36087d8fae9cfa47f473613f886", null ],
-    [ "_show", "d6/dc5/a14917.html#a4392d7e2cffa2342b53092cbd9ccea3f", null ],
-    [ "_showRunning", "d6/dc5/a14917.html#ae7e870de692c61630d0fd2f44d487aa4", null ]
+    [ "npc_the_etymidian", "d6/dc5/a14917.html#af491016ac89b67947650a5ca9c379875", null ],
+    [ "MoveInLineOfSight", "d6/dc5/a14917.html#adde2d86e30442eb1b47219e934e24407", null ],
+    [ "Reset", "d6/dc5/a14917.html#a714edf3ba5f7a6d59242c991764effc5", null ],
+    [ "UpdateAI", "d6/dc5/a14917.html#a1f3cfddae43e443c5cd4a8a0f9f87a89", null ],
+    [ "orphanGUID", "d6/dc5/a14917.html#a9ba2c34b08d0fe61e18037b02f352d08", null ],
+    [ "phase", "d6/dc5/a14917.html#a7086e9a8a8a7287cf90688270e9933a7", null ],
+    [ "playerGUID", "d6/dc5/a14917.html#a7371e361c018360315e20086b0b99079", null ],
+    [ "timer", "d6/dc5/a14917.html#a8508a2c89eeeee2d235e1178ca77e895", null ]
 ];

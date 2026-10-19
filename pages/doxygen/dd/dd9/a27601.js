@@ -1,7 +1,8 @@
 var a27601 =
 [
-    [ "CalculateAmount", "dd/dd9/a27601.html#adc34e5742173d039f6050d5ccc0a2cae", null ],
-    [ "PrepareAuraScript", "dd/dd9/a27601.html#aa966d001c3687403dfa2b13e998ca241", null ],
-    [ "Register", "dd/dd9/a27601.html#aeecb9756d4304ed2316b6d2a8f0d6ac4", null ],
-    [ "Validate", "dd/dd9/a27601.html#af1eee4d8e966d66fea04173e7481b5ce", null ]
+    [ "CheckProc", "dd/dd9/a27601.html#a1ab8a38c4d78bd53a4dc3c1452c309a2", null ],
+    [ "PrepareAuraScript", "dd/dd9/a27601.html#a14e5c6cd509f8c9f93e185c8ca9d6001", null ],
+    [ "Register", "dd/dd9/a27601.html#a79a79a3d7d45eb6bf0a284aadb4cb0d0", null ],
+    [ "WasUsedByMutilate", "dd/dd9/a27601.html#a58924c10a44b57f1b64d4b06955749b0", null ],
+    [ "_usedByMutilate", "dd/dd9/a27601.html#a9ad38f8799f3e8ae82421e51e97bfbb6", null ]
 ];

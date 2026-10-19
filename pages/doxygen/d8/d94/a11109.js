@@ -1,5 +1,6 @@
 var a11109 =
 [
-    [ "GuildGetInfo", "d8/d94/a11109.html#a585a6a49fe9747d5044ac185f1236cf5", null ],
-    [ "Read", "d8/d94/a11109.html#aa2b107f35fcf348fb7f84c2971c5fa00", null ]
+    [ "SetSheathed", "d8/d94/a11109.html#a0c6ff5057d2ee0c424c8539c0bf99857", null ],
+    [ "Read", "d8/d94/a11109.html#ae2158689450e3a9207b6992ea5223106", null ],
+    [ "CurrentSheathState", "d8/d94/a11109.html#a8363787ac7959f19234def2707ef0b32", null ]
 ];

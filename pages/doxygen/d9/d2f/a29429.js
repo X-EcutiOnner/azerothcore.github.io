@@ -1,5 +1,6 @@
 var a29429 =
 [
-    [ "Id", "d9/d2f/a29429.html#a44532f8af054ae5224f5e816c3c9a8a7", null ],
-    [ "PowerType", "d9/d2f/a29429.html#ab6c17a5a3ba9f2f3a8fac125104703c4", null ]
+    [ "Enchantment", "d9/d2f/a29429.html#a480ab806214bb138d56dfd5e9e43936f", null ],
+    [ "ID", "d9/d2f/a29429.html#acb673be771124b84dd3fdd5deb300de7", null ],
+    [ "Name", "d9/d2f/a29429.html#a3ad3a1b693922ff8264d90232abb3e35", null ]
 ];

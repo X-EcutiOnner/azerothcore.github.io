@@ -1,11 +1,9 @@
 var a12549 =
 [
-    [ "instance_commandscript", "dc/d1d/a12549.html#a4d0b308b35a1aa21c66c8bd406ffa82f", null ],
-    [ "GetCommands", "dc/d1d/a12549.html#a092d62969c835f6bf2a08ca3e05f04d5", null ],
-    [ "HandleInstanceGetBossStateCommand", "dc/d1d/a12549.html#a0530ca6481073d6bafd11596546140b0", null ],
-    [ "HandleInstanceListBindsCommand", "dc/d1d/a12549.html#abf42411f9c78ce59b21b34691e3d4233", null ],
-    [ "HandleInstanceSaveDataCommand", "dc/d1d/a12549.html#a4b494a8b1de470612436fbb9fa433416", null ],
-    [ "HandleInstanceSetBossStateCommand", "dc/d1d/a12549.html#aec65b5af811eae2cbcf17571e9d1473b", null ],
-    [ "HandleInstanceStatsCommand", "dc/d1d/a12549.html#a9547a0a88a3bcd7407c449f3f2f25f44", null ],
-    [ "HandleInstanceUnbindCommand", "dc/d1d/a12549.html#a7abbe257b10632f2acbdd838e1f073a9", null ]
+    [ "event_commandscript", "dc/d1d/a12549.html#a160db0ad8874b0834ef863043b1796ae", null ],
+    [ "GetCommands", "dc/d1d/a12549.html#aac32a7f3d2d11dc73dfa3e9f8224560e", null ],
+    [ "HandleEventActiveListCommand", "dc/d1d/a12549.html#a6752be35103bb585984083a449c85714", null ],
+    [ "HandleEventInfoCommand", "dc/d1d/a12549.html#a1f0815bccd6cef61826ada4e349708d9", null ],
+    [ "HandleEventStartCommand", "dc/d1d/a12549.html#ad46dbd8892db3548d889d4127461c8e3", null ],
+    [ "HandleEventStopCommand", "dc/d1d/a12549.html#a1322b3206a1846dc0404a3fb5c74e025", null ]
 ];

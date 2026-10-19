@@ -1,5 +1,6 @@
 var a17629 =
 [
-    [ "at_tyrannus_event_starter", "d6/dcb/a17629.html#a1aef2522c20dd242e749d93a6bee66d8", null ],
-    [ "OnTrigger", "d6/dcb/a17629.html#adccf396220ef7de47e7afeca791de894", null ]
+    [ "npc_pos_freed_slaveAI", "d7/d3f/a17633.html", "d7/d3f/a17633" ],
+    [ "npc_pos_freed_slave", "d6/dcb/a17629.html#a19fd79279646cb1c49c04056636615fc", null ],
+    [ "GetAI", "d6/dcb/a17629.html#ac798c2584d48892162cc2bc779701e16", null ]
 ];

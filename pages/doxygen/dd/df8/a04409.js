@@ -1,6 +1,6 @@
 var a04409 =
 [
-    [ "IntegrationTestFixture", "d8/d4b/a29771.html", "d8/d4b/a29771" ],
-    [ "TEST_FACTION_HOSTILE_TO_ALL", "dd/df8/a04409.html#a2ba0fc21bd7fc2eb0be55b83f098c883", null ],
-    [ "TEST_FACTION_HOSTILE_TO_MONSTERS", "dd/df8/a04409.html#af72a10157e381ef81a175a8ac4844d73", null ]
+    [ "UnitStub", "dc/dc0/a29869.html", "dc/dc0/a29869" ],
+    [ "UnitStub::CastRecord", "d9/d55/a29873.html", "d9/d55/a29873" ],
+    [ "MockUnitStub", "db/d86/a29877.html", "db/d86/a29877" ]
 ];

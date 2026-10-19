@@ -1,10 +1,7 @@
 var a27193 =
 [
-    [ "GetTarget", "d3/d0c/a27193.html#a1bfcb90731a93e4897c9d4fbf46d2a01", null ],
-    [ "HandleEffectPeriodicPlatform", "d3/d0c/a27193.html#ac499c8adcd74206ad60a7fc24d32cc3c", null ],
-    [ "HandleEffectPeriodicSelf", "d3/d0c/a27193.html#a2272a970ca5edca6f7353beb2279c29c", null ],
-    [ "PerformKick", "d3/d0c/a27193.html#aa192aa92cc5c55f8bf2306c4463a3efc", null ],
-    [ "PrepareAuraScript", "d3/d0c/a27193.html#a489f1da8f8008db8f096470f28455ef9", null ],
-    [ "Register", "d3/d0c/a27193.html#a164c94c63cf03b98ee085b18a0a8af9a", null ],
-    [ "AuraEffectHandleModes", "d3/d0c/a27193.html#a91d53900d8c6d0dd2a7519a4836aa05b", null ]
+    [ "if", "d3/d0c/a27193.html#ab8b37bc08a05d5369ce6ecdfd835404c", null ],
+    [ "PrepareAuraScript", "d3/d0c/a27193.html#aa31810077c241e77193e378cb297b7de", null ],
+    [ "Register", "d3/d0c/a27193.html#a7b8f537719a4155d1cd95a6f49cf6a3a", null ],
+    [ "AuraEffectHandleModes", "d3/d0c/a27193.html#a3113d8e7ec296fdf13c8f386ae74e0f3", null ]
 ];

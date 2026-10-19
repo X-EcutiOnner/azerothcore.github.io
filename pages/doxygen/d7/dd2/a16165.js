@@ -1,6 +1,6 @@
 var a16165 =
 [
-    [ "go_wind_stoneAI", "db/d30/a16169.html", "db/d30/a16169" ],
-    [ "go_wind_stone", "d7/dd2/a16165.html#a70c4bcb743b0d587caad4b574c589e3e", null ],
-    [ "GetAI", "d7/dd2/a16165.html#ab7add0fe4e58eec422e37ae04b9338df", null ]
+    [ "SpellId", "d7/dd2/a16165.html#a2c430be201c1fd866ee96224f1803a20", null ],
+    [ "Timer1", "d7/dd2/a16165.html#a9a35c148286e88f48b174be8b74fc5d0", null ],
+    [ "Timer2", "d7/dd2/a16165.html#a108dee679b1f5d9fb8351f7b4b4f3a56", null ]
 ];

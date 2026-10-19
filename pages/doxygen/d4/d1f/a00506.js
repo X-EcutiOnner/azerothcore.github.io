@@ -1,7 +1,7 @@
 var a00506 =
 [
-    [ "instance_gruuls_lair", "d4/dd5/a23703.html", "d4/dd5/a23703" ],
-    [ "instance_gruuls_lair::instance_gruuls_lair_InstanceMapScript", "de/d26/a23707.html", "de/d26/a23707" ],
+    [ "instance_gruuls_lair", "dd/d47/a23717.html", "dd/d47/a23717" ],
+    [ "instance_gruuls_lair::instance_gruuls_lair_InstanceMapScript", "d1/d01/a23721.html", "d1/d01/a23721" ],
     [ "AddSC_instance_gruuls_lair", "d4/d1f/a00506.html#a6c9bd5a761d9018e8be9e0c11b8db2c5", null ],
     [ "creatureData", "d4/d1f/a00506.html#a412286b689bd324fedd65ddd8dde8afb", null ],
     [ "doorData", "d4/d1f/a00506.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],

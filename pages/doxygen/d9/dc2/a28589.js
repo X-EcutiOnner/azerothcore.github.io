@@ -1,13 +1,10 @@
 var a28589 =
 [
-    [ "npc_nelsonAI", "d9/dc2/a28589.html#af6aada5c34048ce6bda6d5c1541e0bf3", null ],
-    [ "DoAction", "d9/dc2/a28589.html#a13ec2adee9d671f949139dbf94c75cc3", null ],
-    [ "JustEngagedWith", "d9/dc2/a28589.html#accb9aeb3b3f3fc2233598b7fef40c3ec", null ],
-    [ "JustSummoned", "d9/dc2/a28589.html#a31d622d73a2540e159720d4c8ddc7d00", null ],
-    [ "Reset", "d9/dc2/a28589.html#a05fcb98153f0a24f50004f465d8f3c72", null ],
-    [ "SpellHit", "d9/dc2/a28589.html#afab81d8a6077c755c186bb619944d78d", null ],
-    [ "SummonedCreatureDies", "d9/dc2/a28589.html#ab3753c9b6848c1567ac596a5f6b498a1", null ],
-    [ "UpdateAI", "d9/dc2/a28589.html#ac68749942f37de5f9105556fe7b904b7", null ],
-    [ "events", "d9/dc2/a28589.html#a25eb289b79de306bbdc0dd099b23a2a0", null ],
-    [ "shouldDespawn", "d9/dc2/a28589.html#a09a68f903854fcedd8a4b2ee4c2597e2", null ]
+    [ "npc_prof_alchemy", "d9/dc2/a28589.html#a43ea842214fc507c34586d12df8f7fea", null ],
+    [ "HasAlchemySpell", "d9/dc2/a28589.html#ac9df824e0923ca86189a53ae391b43c0", null ],
+    [ "OnGossipHello", "d9/dc2/a28589.html#add760c538c7882e1ad8331b8ded74f5c", null ],
+    [ "OnGossipSelect", "d9/dc2/a28589.html#a2377df97a293fb3fcbe7f70d4d815b75", null ],
+    [ "SendActionMenu", "d9/dc2/a28589.html#a2d4c7337b40be323a384a9e755fc3145", null ],
+    [ "SendConfirmLearn", "d9/dc2/a28589.html#a548224b30494636b9ee292a533fc7b39", null ],
+    [ "SendConfirmUnlearn", "d9/dc2/a28589.html#ae4c861cf383f39d2e5ceebc9be4b568c", null ]
 ];

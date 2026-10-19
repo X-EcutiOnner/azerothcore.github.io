@@ -1,6 +1,6 @@
 var a27569 =
 [
-    [ "HandlePeriodic", "d4/d1d/a27569.html#af875d62dd47650c9f2e9c3a4508ed05b", null ],
-    [ "PrepareAuraScript", "d4/d1d/a27569.html#a2efdcd0902e9cb5c47e285492dd93789", null ],
-    [ "Register", "d4/d1d/a27569.html#ac90afe9f5d9d55faba2282a875469311", null ]
+    [ "CheckProc", "d4/d1d/a27569.html#a5e48b25b15b60aa284ca61e900e0f87e", null ],
+    [ "PrepareAuraScript", "d4/d1d/a27569.html#a13ccd1c89767d0dcf041217466390759", null ],
+    [ "Register", "d4/d1d/a27569.html#a4f29ca53813534b1af20e09281288e95", null ]
 ];

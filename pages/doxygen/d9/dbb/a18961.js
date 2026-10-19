@@ -1,6 +1,6 @@
 var a18961 =
 [
-    [ "npc_green_dragon_combat_triggerAI", "dd/d91/a18965.html", "dd/d91/a18965" ],
-    [ "npc_green_dragon_combat_trigger", "d9/dbb/a18961.html#acec675494f5e5e9609bf34b7f25cb569", null ],
-    [ "GetAI", "d9/dbb/a18961.html#a945b7cd0084873c17d52b3c2cc3ede22", null ]
+    [ "npc_lk_wicked_spiritAI", "dd/d91/a18965.html", "dd/d91/a18965" ],
+    [ "npc_lk_wicked_spirit", "d9/dbb/a18961.html#adb5f0d5db260b3e5b4df3725c0b62827", null ],
+    [ "GetAI", "d9/dbb/a18961.html#ad75b36f2f7242dea685cd67dc72d0d30", null ]
 ];

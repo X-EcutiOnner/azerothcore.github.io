@@ -1,12 +1,12 @@
 var a20269 =
 [
-    [ "npc_auriaya_feral_defender", "da/df3/a20269.html#a84425204b0ad06789edb331ed8495774", null ],
-    [ "DamageTaken", "da/df3/a20269.html#aaebbf27345a546bf66e4ab7ed8eae556", null ],
-    [ "DoAction", "da/df3/a20269.html#aea39a90b4e66796c37dde02687a9b2ad", null ],
-    [ "JustDied", "da/df3/a20269.html#aa86cb08096ba0e43280f23d9acd0bfa1", null ],
-    [ "JustEngagedWith", "da/df3/a20269.html#a3d91f99b57ba4d72b526a13f671961ce", null ],
-    [ "JustSummoned", "da/df3/a20269.html#acea3175bcd4df4cf88dc9561c01bee64", null ],
-    [ "Reset", "da/df3/a20269.html#a02b09b7dfdd4036827bb474a57296491", null ],
-    [ "UpdateAI", "da/df3/a20269.html#a7b40afef6b58e7a41b2d00bccbdfe311", null ],
-    [ "_summons", "da/df3/a20269.html#a0b7960f590ba76068c377cf08291ce35", null ]
+    [ "npc_assembly_lightning", "da/df3/a20269.html#a8fcec558ec18de7bd9545779ded9e909", null ],
+    [ "AttackStart", "da/df3/a20269.html#a140d4166e99c223b674e55b67d709613", null ],
+    [ "EnterEvadeMode", "da/df3/a20269.html#a287f1e4fad8c8a046acc15952e2cb0b9", null ],
+    [ "MoveInLineOfSight", "da/df3/a20269.html#a3b3ec1402907a84c0ec17522568348c6", null ],
+    [ "MovementInform", "da/df3/a20269.html#a3117383b1d3bce6a3bbc8445e5ea7a71", null ],
+    [ "OnCharmed", "da/df3/a20269.html#a72e93f6e1ca82e82f8f3cc051f0f1345", null ],
+    [ "Reset", "da/df3/a20269.html#aee99895b9c4d1b5f4d1a2ae7f4bd09a8", null ],
+    [ "UpdateAI", "da/df3/a20269.html#a0ae73d6c38064d80a7297045f2b829dd", null ],
+    [ "_boomed", "da/df3/a20269.html#a13074c840c7e4dc94a2b30741f62ec00", null ]
 ];

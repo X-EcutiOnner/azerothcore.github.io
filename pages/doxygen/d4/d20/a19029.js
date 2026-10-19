@@ -1,9 +1,7 @@
 var a19029 =
 [
-    [ "npc_gluttonous_abominationAI", "d4/d20/a19029.html#a8b9b632e2e26ef8d0e8c122d28530e81", null ],
-    [ "JustDied", "d4/d20/a19029.html#abc0dd71bbaf85786f34367acc3a849e9", null ],
-    [ "JustSummoned", "d4/d20/a19029.html#a49ff3db7845167b9e98feab2a01b1ed1", null ],
-    [ "Reset", "d4/d20/a19029.html#a45588181429a74ac024e0390c76fa57a", null ],
-    [ "UpdateAI", "d4/d20/a19029.html#a33ef03a9f005ff187493275a9c2683a7", null ],
-    [ "_events", "d4/d20/a19029.html#a4a841c7d2565f4797bc893a9c1ee7acd", null ]
+    [ "npc_valithria_portalAI", "d4/d20/a19029.html#a18c1b9d2b149fbc34a17c9e87a8c70b6", null ],
+    [ "GetData", "d4/d20/a19029.html#a598ba7930900aa211bb7e7dc12f366c0", null ],
+    [ "OnSpellClick", "d4/d20/a19029.html#a457f2725e6580d7e6f3bb0445ba796a8", null ],
+    [ "_used", "d4/d20/a19029.html#a92cc0c2aaa6add0c6c641719d6846bb3", null ]
 ];

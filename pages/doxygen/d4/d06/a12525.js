@@ -1,13 +1,8 @@
 var a12525 =
 [
-    [ "gm_commandscript", "d4/d06/a12525.html#a1b24112b70818778755ef9b5b062b2e8", null ],
-    [ "GetCommands", "d4/d06/a12525.html#a17c725e18324de7aadff260c77d75c45", null ],
-    [ "HandleGMChatCommand", "d4/d06/a12525.html#a15a18b1179a602da3eeba7e8247fbbac", null ],
-    [ "HandleGMFlyCommand", "d4/d06/a12525.html#a29829660f39c9bfa4190bbb118f482ba", null ],
-    [ "HandleGMListFullCommand", "d4/d06/a12525.html#add9bd1e64f98964e68cd1be3df6295e7", null ],
-    [ "HandleGMListIngameCommand", "d4/d06/a12525.html#ab6d59a1c29bd66b699ae597351b969d9", null ],
-    [ "HandleGMOffCommand", "d4/d06/a12525.html#a66de9b1d6abaad56419a43d65861b5b3", null ],
-    [ "HandleGMOnCommand", "d4/d06/a12525.html#afb0f18226aac1f581d09f3b7fe9d0ce7", null ],
-    [ "HandleGMSpectatorCommand", "d4/d06/a12525.html#ab05933bfefd1f5727bef430eeac2cee9", null ],
-    [ "HandleGMVisibleCommand", "d4/d06/a12525.html#a7af08caf6d3fba1b6ee29ea90b20fef8", null ]
+    [ "chatfilter_commandscript", "d4/d06/a12525.html#a7b8b95f9b418496d0f9aa39af55410a3", null ],
+    [ "GetCommands", "d4/d06/a12525.html#aa7553c0fc74103773edeaac9195e4414", null ],
+    [ "HandleChatFilterAddCommand", "d4/d06/a12525.html#a8cbe0819f09b43a32e594a67010d63ee", null ],
+    [ "HandleChatFilterListCommand", "d4/d06/a12525.html#ab59bd95ca2b9319fb175c0592074f9ff", null ],
+    [ "HandleChatFilterRemoveCommand", "d4/d06/a12525.html#ad628fb21fc3bb06c6108c6c731793ad6", null ]
 ];

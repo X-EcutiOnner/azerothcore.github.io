@@ -1,6 +1,7 @@
 var a19837 =
 [
-    [ "ChargeRifts", "d4/d45/a19837.html#aec98a12dec1f2ad98e00d399b0e2a1d5", null ],
-    [ "Execute", "d4/d45/a19837.html#a8d01bf861d37c25413dc14eee16a2939", null ],
-    [ "_caster", "d4/d45/a19837.html#a3cbf5f7e26de337dadd9d96a43d728b0", null ]
+    [ "npc_alexstrasza", "d4/d45/a19837.html#a38c68ff4e0ba73218ff18c8bf95c8d4c", null ],
+    [ "AttackStart", "d4/d45/a19837.html#ab47f439968b7e9358158eae3e31f4e29", null ],
+    [ "MoveInLineOfSight", "d4/d45/a19837.html#acadf7b1ff63e266fd1f6eeaf533f9514", null ],
+    [ "UpdateAI", "d4/d45/a19837.html#aec1c93eee408ecefbceec22be4b90dba", null ]
 ];

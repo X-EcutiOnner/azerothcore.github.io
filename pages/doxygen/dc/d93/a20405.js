@@ -1,6 +1,7 @@
 var a20405 =
 [
-    [ "achievement_flame_leviathan_towers", "dc/d93/a20405.html#a491d66bdd373b6044e406126719ef910", null ],
-    [ "OnCheck", "dc/d93/a20405.html#ad6e9dee3f05afaca0a355b714bf75ea6", null ],
-    [ "_towerCount", "dc/d93/a20405.html#a1099385340b30a1a75655e2e7d2ba3cc", null ]
+    [ "FilterTargets", "dc/d93/a20405.html#a3d864f0428b7e53774d06069037ca5b2", null ],
+    [ "HandleScript", "dc/d93/a20405.html#aef8bfe18b42bcc9ad70378c0d78354e7", null ],
+    [ "PrepareSpellScript", "dc/d93/a20405.html#aafbd4751a01b4ce62dc94eee2e47f64f", null ],
+    [ "Register", "dc/d93/a20405.html#afabe09f8d9a9a10855d6469e8a3db30f", null ]
 ];

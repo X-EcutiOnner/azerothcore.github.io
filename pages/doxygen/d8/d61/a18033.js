@@ -1,8 +1,7 @@
 var a18033 =
 [
-    [ "ResetEncounterEvent", "d8/d61/a18033.html#aaa1bc6d3d529524df6b0ed6be6e0966f", null ],
-    [ "Execute", "d8/d61/a18033.html#ae8d52fc7c0689620bcef8c04643191f5", null ],
-    [ "_caster", "d8/d61/a18033.html#abb37778222749b27791baa329e268c32", null ],
-    [ "_otherTransport", "d8/d61/a18033.html#a7f2d0aaade5833381e3e7624745fc504", null ],
-    [ "_spellId", "d8/d61/a18033.html#ad4c57e519201e15e23e0f56f4fbe70cb", null ]
+    [ "ExtraEffect", "d8/d61/a18033.html#a65b5bc8d053a69325f42a7f23ae4dbdc", null ],
+    [ "PrepareAuraScript", "d8/d61/a18033.html#a53d6013e5ec473854e1537969cb31988", null ],
+    [ "Register", "d8/d61/a18033.html#a85be360bb15482ff34b7f1d04d949b1d", null ],
+    [ "Validate", "d8/d61/a18033.html#ab14e7410cf542d9f4043800a3b86c664", null ]
 ];

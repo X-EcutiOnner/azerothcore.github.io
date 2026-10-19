@@ -1,7 +1,11 @@
 var a28281 =
 [
-    [ "HandlePeriodic", "d6/dad/a28281.html#a3da4cc5322f2e34244729fe3b3876482", null ],
-    [ "PrepareAuraScript", "d6/dad/a28281.html#aab7f5c5bdfdd2b440f59f16ab321765a", null ],
-    [ "Register", "d6/dad/a28281.html#a53b6067f46912648413fc6d6f107b0d8", null ],
-    [ "Validate", "d6/dad/a28281.html#aa03222717b3c06316b232a6ac0270ec0", null ]
+    [ "npc_dream_fogAI", "d6/dad/a28281.html#ac0606677b434b15dcbf17c9c4b2467a4", null ],
+    [ "GetRandomUnitFromDragonThreatList", "d6/dad/a28281.html#aa9ea076cdef0b1a0b21b18e42bf777c3", null ],
+    [ "Reset", "d6/dad/a28281.html#a595eeeae54d4bf323287fc408f706ac6", null ],
+    [ "ScheduleEvents", "d6/dad/a28281.html#a6025e98731e8eb3e4450eb6ea7747d5f", null ],
+    [ "SetGUID", "d6/dad/a28281.html#a3666423921a5405ea220ba098f3f91fe", null ],
+    [ "UpdateAI", "d6/dad/a28281.html#a881cbed8f1709071036b9f83cdbe1cad", null ],
+    [ "_dragonGUID", "d6/dad/a28281.html#a90deaf0fab9f0ed64c806c22c200ba08", null ],
+    [ "_targetGUID", "d6/dad/a28281.html#a44138ecd6ae6f07a624e26d82b0aa286", null ]
 ];

@@ -1,7 +1,6 @@
 var a25053 =
 [
-    [ "HandleProc", "dd/d3e/a25053.html#affff04bf12559312333c70672dc8407f", null ],
-    [ "PrepareAuraScript", "dd/d3e/a25053.html#aa604bb8cc1fd9d94ee494c7bc96c5a5b", null ],
-    [ "Register", "dd/d3e/a25053.html#ae2ee810101bd32c061c3e06dea99d7cb", null ],
-    [ "Validate", "dd/d3e/a25053.html#afc60c67af40f55b7a0017e5143bb52f7", null ]
+    [ "HandleAfterCast", "dd/d3e/a25053.html#a39572ebbeee6fe39bc4454088c622bcd", null ],
+    [ "PrepareSpellScript", "dd/d3e/a25053.html#a602d7c920aa73a9c3c69222854093036", null ],
+    [ "Register", "dd/d3e/a25053.html#addbbf508a0e1074c23ebd325dd62bbe9", null ]
 ];

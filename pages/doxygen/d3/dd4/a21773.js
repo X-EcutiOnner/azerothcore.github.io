@@ -1,8 +1,7 @@
 var a21773 =
 [
-    [ "npc_dusk", "d3/dd4/a21773.html#ab142eb266e64af625a8a38d3234ded72", null ],
-    [ "MovementInform", "d3/dd4/a21773.html#a49cade56e631668c946edb6753172c87", null ],
-    [ "PassengerBoarded", "d3/dd4/a21773.html#aaff19f52995db17f4dab953e2e928c68", null ],
-    [ "WaypointReached", "d3/dd4/a21773.html#ac8f70426313aa6834285905e94f1d0d9", null ],
-    [ "_ejected", "d3/dd4/a21773.html#a4f749f98c178a32b211bbd38b9447607", null ]
+    [ "npc_valiance_keep_cannoneerAI", "d3/dd4/a21773.html#a0769e975c5c7ff1cfbfa6089e3e55e3f", null ],
+    [ "Reset", "d3/dd4/a21773.html#a65718076e65b68cae0a54ff4112fdb4b", null ],
+    [ "UpdateAI", "d3/dd4/a21773.html#a75f16f2b028ca341db6e08536be06bfa", null ],
+    [ "uiTimer", "d3/dd4/a21773.html#a0cf5f0413b1cded835252a38e272f835", null ]
 ];

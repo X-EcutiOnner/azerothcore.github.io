@@ -1,6 +1,9 @@
 var a19905 =
 [
-    [ "npc_oculus_unstable_sphereAI", "d9/d30/a19909.html", "d9/d30/a19909" ],
-    [ "npc_oculus_unstable_sphere", "d3/d8b/a19905.html#a5167370a6d3fd32a5673bbeb95ed3f3c", null ],
-    [ "GetAI", "d3/d8b/a19905.html#adda2a9e7eab03444742e85729673ab2f", null ]
+    [ "HandleApply", "d3/d8b/a19905.html#a29679ed64fc288dc0e85beed2971d4be", null ],
+    [ "HandleRemove", "d3/d8b/a19905.html#a1f1c3e0ea24174605a7be8fa02e30518", null ],
+    [ "Load", "d3/d8b/a19905.html#a0b5d70a7a9bf27696295ccbbffd2a8b9", null ],
+    [ "PrepareAuraScript", "d3/d8b/a19905.html#a2804f25643e59f3922291abcb055b641", null ],
+    [ "Register", "d3/d8b/a19905.html#a711b5744770d0c9fb5aacb550f2384fa", null ],
+    [ "Validate", "d3/d8b/a19905.html#aa239a693db5fa38ac260a37b25e0e6d9", null ]
 ];

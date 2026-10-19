@@ -1,9 +1,6 @@
 var a21829 =
 [
-    [ "npc_minigob_manabonk", "de/d33/a21829.html#aade5e005b68b25ede4e653629390ceb9", null ],
-    [ "Reset", "de/d33/a21829.html#a18b3fcf1e2ada8f0178a0efd2e206a8e", null ],
-    [ "SelectTargetInDalaran", "de/d33/a21829.html#a74a14a6e1839d7b8cc81712d57666ec5", null ],
-    [ "SendMailToPlayer", "de/d33/a21829.html#a1973b7885c9fce15aab9843722bf112e", null ],
-    [ "UpdateAI", "de/d33/a21829.html#abca8214a8c13d9d9c5c03f659fef53a9", null ],
-    [ "playerGUID", "de/d33/a21829.html#ac8dccd333691f717fdbffe22126330d5", null ]
+    [ "HandleScriptEffect", "de/d33/a21829.html#a6ba170146e6b66e00b98bb63baf3d710", null ],
+    [ "PrepareSpellScript", "de/d33/a21829.html#a29f6a1a5057f1e071db855292500b99c", null ],
+    [ "Register", "de/d33/a21829.html#a88b70634327bf5c66555149822a2e504", null ]
 ];

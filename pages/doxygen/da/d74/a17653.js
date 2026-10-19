@@ -1,6 +1,6 @@
 var a17653 =
 [
-    [ "boss_drakkari_elementalAI", "da/d38/a17657.html", "da/d38/a17657" ],
-    [ "boss_drakkari_elemental", "da/d74/a17653.html#a143dd5d52ea7bb3c3c1d96da45af81ee", null ],
-    [ "GetAI", "da/d74/a17653.html#aab2f9c71ddb77164bd644d18b9e88313", null ]
+    [ "HandleDummy", "da/d74/a17653.html#aef592aafe931351186edf98f7aba7e22", null ],
+    [ "PrepareSpellScript", "da/d74/a17653.html#ab79a160e0d5b0c6e0ecfa842a4da2819", null ],
+    [ "Register", "da/d74/a17653.html#a7594952f23cba22b886c2c3b10f363d4", null ]
 ];

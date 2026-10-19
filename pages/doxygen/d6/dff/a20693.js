@@ -1,5 +1,8 @@
 var a20693 =
 [
-    [ "achievement_kologarn_looks_could_kill", "d6/dff/a20693.html#a3fcf36dabe41ff35ace233854bd0fb44", null ],
-    [ "OnCheck", "d6/dff/a20693.html#a0e7be4fb00808fab9a231530822fc93d", null ]
+    [ "CheckProc", "d6/dff/a20693.html#ad609f81da8229b5f8c219b3dce4e7602", null ],
+    [ "HandleProc", "d6/dff/a20693.html#aa3fae300f8738edeb5d68de2608462ab", null ],
+    [ "PrepareAuraScript", "d6/dff/a20693.html#a21c070876fa64fa8d65db71c90c73747", null ],
+    [ "Register", "d6/dff/a20693.html#a3aa412142b1809933cc9c2616f9b4ce5", null ],
+    [ "Validate", "d6/dff/a20693.html#a930130b75796d42866e0459832e7841b", null ]
 ];

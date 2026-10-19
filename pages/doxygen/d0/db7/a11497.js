@@ -1,12 +1,12 @@
 var a11497 =
 [
-    [ "Complain", "d0/db7/a11497.html#aa1cf8c3159d1334186b28c0abf0b5bec", null ],
-    [ "Read", "d0/db7/a11497.html#a5a5cc78c807ce5d1e455bedd283c0f4d", null ],
-    [ "ChannelId", "d0/db7/a11497.html#a134b3bc2c782494fff06b5d83a2b9f98", null ],
-    [ "Description", "d0/db7/a11497.html#a557676064707e2597a10e9b2efc9d09a", null ],
-    [ "MailIdOrMessageType", "d0/db7/a11497.html#a1dc57952838e5eccaefe64f381584f4f", null ],
-    [ "SecondsSinceMessage", "d0/db7/a11497.html#ac436590edc1d7de977edb9472100d9a2", null ],
-    [ "SpammerGuid", "d0/db7/a11497.html#a4a8b664b598624046b26953051a28718", null ],
-    [ "SpamType", "d0/db7/a11497.html#aece15ac467b310fc170844119978aa2a", null ],
-    [ "Unk1", "d0/db7/a11497.html#a7cc02360329a0b67c67fb5798d1e658d", null ]
+    [ "StartMirrorTimer", "d0/db7/a11497.html#a86039d4a721636477f266712682883f0", null ],
+    [ "StartMirrorTimer", "d0/db7/a11497.html#a5202945882fb3cb5dd8574b6e6f8d5b0", null ],
+    [ "Write", "d0/db7/a11497.html#afa6cc6032804e3d8f3f7797b2231847f", null ],
+    [ "MaxValue", "d0/db7/a11497.html#a3f26c682d547be40d2800eff2189348d", null ],
+    [ "Paused", "d0/db7/a11497.html#af3994b2c6a57e734f9d1ebeedcab7759", null ],
+    [ "Scale", "d0/db7/a11497.html#a5879b6c796d7d7c2fd59001d2813a6b3", null ],
+    [ "SpellID", "d0/db7/a11497.html#a3d90aa3046eb6272249f8fe171d7cd2f", null ],
+    [ "Timer", "d0/db7/a11497.html#abb9dbec2c5df4b2dfbc96314a0465011", null ],
+    [ "Value", "d0/db7/a11497.html#ad0f2f8f95fdea9a7555e3056bb49cc53", null ]
 ];

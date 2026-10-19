@@ -1,8 +1,7 @@
 var a27961 =
 [
-    [ "CheckProc", "d5/d3b/a27961.html#ae202a117ff86eee618dfdf4600746de5", null ],
-    [ "HandleProc", "d5/d3b/a27961.html#a28c409af8e7a8115ce86f2a51fff1afd", null ],
-    [ "PrepareAuraScript", "d5/d3b/a27961.html#a334db12ee8ed29b34269a0ca3172d7b4", null ],
-    [ "Register", "d5/d3b/a27961.html#a392724c604ce325415aaa3410e18a60c", null ],
-    [ "Validate", "d5/d3b/a27961.html#af0b153ca9e28a3cdc06a30ff30b46f39", null ]
+    [ "CalculateAmount", "d5/d3b/a27961.html#a893842dfe5e1d6f7977e2fc97471b265", null ],
+    [ "PrepareAuraScript", "d5/d3b/a27961.html#a20dad49a99420556f393a16525eb14b4", null ],
+    [ "Register", "d5/d3b/a27961.html#ad7d339ab137ebd640981f7789e1757f0", null ],
+    [ "Validate", "d5/d3b/a27961.html#a341acb2dd25c1db94777f7036f3338ac", null ]
 ];

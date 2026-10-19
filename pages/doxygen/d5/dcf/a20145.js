@@ -1,6 +1,6 @@
 var a20145 =
 [
-    [ "CosmicSmashDamageEvent", "d5/dcf/a20145.html#a5c9606791b560d8be1825a9c73f2393e", null ],
-    [ "Execute", "d5/dcf/a20145.html#a2d4b301e1b7e0852ec47280ad97871f2", null ],
-    [ "_caster", "d5/dcf/a20145.html#ab7af2459d3962831812ee2362ee9de2b", null ]
+    [ "boss_sjonnir_iron_sludgeAI", "dc/de7/a20149.html", "dc/de7/a20149" ],
+    [ "boss_sjonnir_iron_sludge", "d5/dcf/a20145.html#ae1c523266aab3e8e2c337dede7390c7b", null ],
+    [ "GetAI", "d5/dcf/a20145.html#a2d077bfeac6479d83240ee00ca5aa0e0", null ]
 ];

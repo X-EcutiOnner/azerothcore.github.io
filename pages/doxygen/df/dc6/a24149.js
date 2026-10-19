@@ -1,5 +1,8 @@
 var a24149 =
 [
-    [ "go_simon_cluster", "df/dc6/a24149.html#adac53a8451abd6ace227a66afc7e61e8", null ],
-    [ "OnGossipHello", "df/dc6/a24149.html#a9fd9799604de44c91803511c45b67786", null ]
+    [ "instance_mechanar_InstanceMapScript", "df/dc6/a24149.html#a728d427162c0f56e7d229c55ff88bfbd", null ],
+    [ "OnCreatureCreate", "df/dc6/a24149.html#aa0c6a84a6ace9299b18f0cc54263b398", null ],
+    [ "OnGameObjectCreate", "df/dc6/a24149.html#a236a8c67ca57ffc7d2161c00e8acbd64", null ],
+    [ "OnGameObjectRemove", "df/dc6/a24149.html#ac79c4f1dad7f2caf1278e242ec8fadc9", null ],
+    [ "_pathaleonGUID", "df/dc6/a24149.html#aaf5c80af5ba2ba46b3c53ccffaaa1d3b", null ]
 ];

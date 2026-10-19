@@ -1,6 +1,7 @@
 var a28033 =
 [
-    [ "CalculateAmount", "d3/d41/a28033.html#a94b6fab25e8cb298650f2a1e2d0b4347", null ],
-    [ "PrepareAuraScript", "d3/d41/a28033.html#a845476e27b3751fd5aab505d41d8696d", null ],
-    [ "Register", "d3/d41/a28033.html#aa5141f11bcd97cc501297a5309df1079", null ]
+    [ "FilterTargets", "d3/d41/a28033.html#aeebe9395cefab1b87196a7ef466aa2c8", null ],
+    [ "PrepareSpellScript", "d3/d41/a28033.html#a954f00317eab544dd57e657368aab7fb", null ],
+    [ "Register", "d3/d41/a28033.html#a1804684c8685372faf2e88e56b48f5be", null ],
+    [ "Validate", "d3/d41/a28033.html#ab08386023ed3b3c8e51178da8973ef1a", null ]
 ];

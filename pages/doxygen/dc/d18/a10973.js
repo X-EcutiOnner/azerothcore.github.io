@@ -1,9 +1,8 @@
 var a10973 =
 [
-    [ "fX", "dc/d18/a10973.html#a53aeb6e82eea1dc4a4e5d8e99dfd3fc5", null ],
-    [ "fY", "dc/d18/a10973.html#a9b158e247014eec0d35e465ab9469ac7", null ],
-    [ "fZ", "dc/d18/a10973.html#a2e02f9738393aeb8cd62ac26dda8fc10", null ],
-    [ "uiCreatureEntry", "dc/d18/a10973.html#ac31436c40bd0bf375635e2ea604fbf61", null ],
-    [ "uiPointId", "dc/d18/a10973.html#acb4d9697a24d5c29deacdefe8eb0e267", null ],
-    [ "uiWaitTime", "dc/d18/a10973.html#a305620aad71152c1139a88dea05a1887", null ]
+    [ "type", "dc/d18/a10973.html#a93b2e49d8b93d48c1fcf9ce460f965d6", null ],
+    [ "EnabledHooks", "dc/d18/a10973.html#ac0ca0ab60e350e783c1297a657e32cdc", null ],
+    [ "HasEnabledHooks", "dc/d18/a10973.html#a8cad14090933423a3bd83b87af723810", null ],
+    [ "LegacyDbValidationCandidate", "dc/d18/a10973.html#a1c71456b199770112365ee54f0bd28ad", null ],
+    [ "PromotedAfterDbLoad", "dc/d18/a10973.html#a1800cba1759f5cdee36e47e3aa4ab2e8", null ]
 ];

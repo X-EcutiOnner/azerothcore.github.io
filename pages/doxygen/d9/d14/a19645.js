@@ -1,13 +1,6 @@
 var a19645 =
 [
-    [ "boss_loathebAI", "d9/d14/a19645.html#a60256114947b0e9c01f5308108485935", null ],
-    [ "IsInRoom", "d9/d14/a19645.html#a617d45ab3bde4184aa31c1b2c70c1a6f", null ],
-    [ "JustDied", "d9/d14/a19645.html#acf24e563d4876fb9f899a4250b19b6f5", null ],
-    [ "JustEngagedWith", "d9/d14/a19645.html#a1abcf157e05eeb634f8e857a2de35538", null ],
-    [ "JustSummoned", "d9/d14/a19645.html#a8a28f9fe6c087c230103d1139ddb73dc", null ],
-    [ "KilledUnit", "d9/d14/a19645.html#a4dac78bba24069050dd9df729dd58b45", null ],
-    [ "Reset", "d9/d14/a19645.html#a709a4c2fe45fd757ecae6afa402e4728", null ],
-    [ "SummonedCreatureDies", "d9/d14/a19645.html#aeddc6bd981a13ec133e5481b36668b0e", null ],
-    [ "UpdateAI", "d9/d14/a19645.html#ab009008f892493b822e5ea5491c58525", null ],
-    [ "doomCounter", "d9/d14/a19645.html#aed5c631ede2eea27451a74ae21221325", null ]
+    [ "HandleHit", "d9/d14/a19645.html#aa6302d9372bf6ea514d49d8c8e280781", null ],
+    [ "PrepareSpellScript", "d9/d14/a19645.html#a87b57541a36d711ecbca6f485915c9ab", null ],
+    [ "Register", "d9/d14/a19645.html#ad7290a8d786f64fdf7b5b04a7770ff6d", null ]
 ];

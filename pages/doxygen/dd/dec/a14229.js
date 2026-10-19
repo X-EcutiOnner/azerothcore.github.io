@@ -1,7 +1,7 @@
 var a14229 =
 [
-    [ "HandleEffectApply", "dd/dec/a14229.html#a8d52c4ea09e1d58d2dc44ff73d71faf5", null ],
-    [ "PrepareAuraScript", "dd/dec/a14229.html#a9829789fe5544429454e29d228ce0daf", null ],
-    [ "Register", "dd/dec/a14229.html#a7f5a26d10f48d863477ec902e6f5ff1e", null ],
-    [ "Validate", "dd/dec/a14229.html#ae81a441757ab9f10c29a7b313b99cf5f", null ]
+    [ "npc_king_varian_wrynn", "dd/dec/a14229.html#ab62609f2e468d1d173d9c9ea4c05d164", null ],
+    [ "JustDied", "dd/dec/a14229.html#ae1b1aca3df1398a4f86f7b1deba5fd14", null ],
+    [ "OnQuestReward", "dd/dec/a14229.html#a3f461d73130945e2287c5ea46b8bdce9", null ],
+    [ "UpdateAI", "dd/dec/a14229.html#a37bdb5c5c286b2c34e55ef9e8e1aff77", null ]
 ];

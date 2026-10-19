@@ -1,6 +1,6 @@
 var a28265 =
 [
-    [ "boss_taerarAI", "d4/d0a/a28269.html", "d4/d0a/a28269" ],
-    [ "boss_taerar", "d1/d85/a28265.html#a100c1b80a50faf93088db870faa21b58", null ],
-    [ "GetAI", "d1/d85/a28265.html#ae6615da6ee14c4f7cb3087b4ee5d6246", null ]
+    [ "AreaTrigger_at_brewfest", "d1/d85/a28265.html#ad7e2916aefc6efbfb9f747a75a4a14a3", null ],
+    [ "OnTrigger", "d1/d85/a28265.html#a17e4a8d671136466c7673789e4f69a84", null ],
+    [ "_triggerTimes", "d1/d85/a28265.html#ab763765427796ad17338bcc8d63cf891", null ]
 ];

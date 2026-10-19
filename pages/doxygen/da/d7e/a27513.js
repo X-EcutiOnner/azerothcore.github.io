@@ -1,7 +1,7 @@
 var a27513 =
 [
-    [ "HandleProc", "da/d7e/a27513.html#a297383c7eae5cc846be4a0f9e28c7e52", null ],
-    [ "PrepareAuraScript", "da/d7e/a27513.html#a00a68329e8ab03cb5e38b1ad85932a57", null ],
-    [ "Register", "da/d7e/a27513.html#a813cb759ccbe0464334890008d5e5a7a", null ],
-    [ "Validate", "da/d7e/a27513.html#a41590ae5cb30b97cdf1db02266dd2c7c", null ]
+    [ "HandleEffectPeriodic", "da/d7e/a27513.html#abb9ec1dd08954e80cf6dbcacbe44e2ba", null ],
+    [ "PrepareAuraScript", "da/d7e/a27513.html#ae151331af09510cc91b63b65a30bdcbf", null ],
+    [ "Register", "da/d7e/a27513.html#ac2e23fa8c9cfec9b9689512f3363a56e", null ],
+    [ "Validate", "da/d7e/a27513.html#ad5cc7a5aa1164092f267071c82752bb5", null ]
 ];

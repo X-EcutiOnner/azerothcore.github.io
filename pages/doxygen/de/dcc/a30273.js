@@ -1,20 +1,5 @@
 var a30273 =
 [
-    [ "Record", "de/dcc/a30273.html#a51a9cc006bb8530fe76452c1bbe7985c", null ],
-    [ "Record", "de/dcc/a30273.html#a51a9cc006bb8530fe76452c1bbe7985c", null ],
-    [ "getByte", "de/dcc/a30273.html#ab1897952fa01e930caffa262519645c5", null ],
-    [ "getFloat", "de/dcc/a30273.html#a3e6402dcebb5adc1becccdc2bbf39758", null ],
-    [ "getFloat", "de/dcc/a30273.html#a3e6402dcebb5adc1becccdc2bbf39758", null ],
-    [ "getInt", "de/dcc/a30273.html#a80c4d8d3ae4a5a42ed1dc9a9edcd6747", null ],
-    [ "getInt", "de/dcc/a30273.html#a80c4d8d3ae4a5a42ed1dc9a9edcd6747", null ],
-    [ "getString", "de/dcc/a30273.html#a268ecb804f3a4c852a898a928a846f0a", null ],
-    [ "getString", "de/dcc/a30273.html#a268ecb804f3a4c852a898a928a846f0a", null ],
-    [ "getUInt", "de/dcc/a30273.html#ace0215b88ffbaf83c69a82cde51cd45f", null ],
-    [ "getUInt", "de/dcc/a30273.html#ace0215b88ffbaf83c69a82cde51cd45f", null ],
-    [ "operator=", "de/dcc/a30273.html#a1f7968eeee027251427a7f41dc7f948e", null ],
-    [ "DBCFile", "de/dcc/a30273.html#a6c4f02b14caa99337bbe77b30e5615ab", null ],
-    [ "DBCFile::Iterator", "de/dcc/a30273.html#a56d48f82a62e25038bf9cf339e608083", null ],
-    [ "Iterator", "de/dcc/a30273.html#a9830fc407400559db7e7783cc10a9394", null ],
-    [ "file", "de/dcc/a30273.html#adffc3b9545883356dd9bed0a0613a1fe", null ],
-    [ "offset", "de/dcc/a30273.html#ae76eb8b329fb6d580aa42484de46c95e", null ]
+    [ "height", "de/dcc/a30273.html#a9ee8f132a89d37d9b202c7f49d2c3a49", null ],
+    [ "light", "de/dcc/a30273.html#a53c2edf09fb56334d1c3621d3630de5d", null ]
 ];

@@ -1,5 +1,5 @@
 var a20933 =
 [
-    [ "go_thorim_lever", "d9/df5/a20933.html#a7641a89c3c369d26753a6e97dd435802", null ],
-    [ "OnGossipHello", "d9/df5/a20933.html#aa48cd4d5728bd2d012a91f51299827a0", null ]
+    [ "achievement_iron_dwarf_medium_rare", "d9/df5/a20933.html#afb3716aab7693ba0493db24999e4b1ee", null ],
+    [ "OnCheck", "d9/df5/a20933.html#aabef3a345057265ac70c6cc0c98d552d", null ]
 ];

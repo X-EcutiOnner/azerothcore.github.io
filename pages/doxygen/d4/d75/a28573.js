@@ -1,14 +1,5 @@
 var a28573 =
 [
-    [ "npc_preciousAI", "d4/d75/a28573.html#ade66f3aa2ff9ac85c99a9d31591fcabf", null ],
-    [ "FlagForDespawn", "d4/d75/a28573.html#a934a5147c1cc9937189011fb061657da", null ],
-    [ "GetData", "d4/d75/a28573.html#a91c93f8d58501b705809653639ec05d1", null ],
-    [ "InitializeAI", "d4/d75/a28573.html#aa15843c4029f2df2ee04d21b5157602a", null ],
-    [ "JustEngagedWith", "d4/d75/a28573.html#a58bc4149111605850f070a77ee776313", null ],
-    [ "JustReachedHome", "d4/d75/a28573.html#a31893e9441b24398554370a58ef8bd78", null ],
-    [ "Reset", "d4/d75/a28573.html#aa1c39ce0110827d35ae2d5ea794e1744", null ],
-    [ "SetData", "d4/d75/a28573.html#a2246203bca5b716852abd631320b790c", null ],
-    [ "UpdateAI", "d4/d75/a28573.html#a2f3428807957bd60fdbe6f694bb6d3ef", null ],
-    [ "events", "d4/d75/a28573.html#a69a20e759b1bcb631cef0bf1e4dd8a1b", null ],
-    [ "flaggedForDespawn", "d4/d75/a28573.html#a48e891f8afce9408ed38c51a0e2d4005", null ]
+    [ "item_generic_limit_chance_above_60", "d4/d75/a28573.html#abc18809810f0a7668020d01c482be84b", null ],
+    [ "OnCastItemCombatSpell", "d4/d75/a28573.html#aa34809cfd53edb6a77d3fa415a079d72", null ]
 ];

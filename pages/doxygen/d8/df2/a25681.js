@@ -1,5 +1,7 @@
 var a25681 =
 [
-    [ "PrepareSpellScript", "d8/df2/a25681.html#af2a8cfb5f732691622b4c633f4dde253", null ],
-    [ "Register", "d8/df2/a25681.html#ae171d4b40e72498a5dbb4ac65ee1619d", null ]
+    [ "OnRemove", "d8/df2/a25681.html#ab6371347f0dc4ffc8bab6c75ca1cdf59", null ],
+    [ "PrepareAuraScript", "d8/df2/a25681.html#ac2b1a2311f97ab427439b45fb0770063", null ],
+    [ "Register", "d8/df2/a25681.html#a39e4914aa01769e14f61e2369ad8eda5", null ],
+    [ "Validate", "d8/df2/a25681.html#a71e47e70fd18affe1bd563f68fcb2efe", null ]
 ];

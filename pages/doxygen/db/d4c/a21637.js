@@ -1,7 +1,12 @@
 var a21637 =
 [
-    [ "npc_azure_captain", "db/d4c/a21637.html#abbdba89267506b8dd1e93ea0e059979c", null ],
-    [ "Reset", "db/d4c/a21637.html#ae9b8cc434f2b5690f3abc55d557cbd54", null ],
-    [ "UpdateAI", "db/d4c/a21637.html#a9aacf1533414ade27973ddcc46434978", null ],
-    [ "_events", "db/d4c/a21637.html#a6a69ea3d3eb75601f723a10eab68c260", null ]
+    [ "boss_xevozz", "db/d4c/a21637.html#aea402ffbe689ca65e29b30899862a8bc", null ],
+    [ "EnterEvadeMode", "db/d4c/a21637.html#afe4aa509ca6d43bf3470d32efeeb17ba", null ],
+    [ "ExecuteEvent", "db/d4c/a21637.html#af5b37fc643f2b22468a38655fce63d25", null ],
+    [ "JustDied", "db/d4c/a21637.html#af36accd2adb29ebb72fe6a925c4e361e", null ],
+    [ "JustEngagedWith", "db/d4c/a21637.html#ae5d74a07c5bf3e2c12e4ce8b34331f98", null ],
+    [ "JustSummoned", "db/d4c/a21637.html#a17f1b1cacb7191b11053e75e0ff9b584", null ],
+    [ "KilledUnit", "db/d4c/a21637.html#a9f50d1d57b0dc8f8844e90e8f2433726", null ],
+    [ "MoveInLineOfSight", "db/d4c/a21637.html#a4afdf09e7b8ebf54bdd2546337960a1d", null ],
+    [ "SummonedCreatureDespawn", "db/d4c/a21637.html#a1493a5acdfcca7d01446564db622239e", null ]
 ];

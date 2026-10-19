@@ -1,5 +1,10 @@
 var a10149 =
 [
-    [ "MinionInfo", "d9/db6/a10149.html#a537dd49ffb504aeab8b2b1734d5f44d7", null ],
-    [ "bossInfo", "d9/db6/a10149.html#a04750e14ecb53ce6e3fac35844a713cd", null ]
+    [ "const_iterator", "d9/db6/a10149.html#ac52d3ebfa7eaeb9d6fd08f0089b13918", null ],
+    [ "StorageType", "d9/db6/a10149.html#a6825a379d1af4254b920c14ab0068e7b", null ],
+    [ "BossBoundaryData", "d9/db6/a10149.html#a3f80cd89e43eae1a74e2b0a6a674d0cb", null ],
+    [ "~BossBoundaryData", "d9/db6/a10149.html#a446a3ec16cdce76058761fce972f1e57", null ],
+    [ "begin", "d9/db6/a10149.html#a326930360d22d5fdf9a895991f2c4e49", null ],
+    [ "end", "d9/db6/a10149.html#ab3dc9905d861b62c4551f45ee8b08ba5", null ],
+    [ "_data", "d9/db6/a10149.html#af60e90664c434a8d36115ca5dec889b5", null ]
 ];

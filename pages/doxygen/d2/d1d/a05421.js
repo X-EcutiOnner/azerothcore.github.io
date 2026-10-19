@@ -1,15 +1,6 @@
 var a05421 =
 [
-    [ "GetBounds", "d2/d1d/a05421.html#a74182e3f2b6cd6eb1ec9a09a76749537", null ],
-    [ "operator==", "d2/d1d/a05421.html#aa32a53f51fd441bb19c4e3f6a269f33e", null ],
-    [ "readFromFile", "d2/d1d/a05421.html#a35d7880eb3e295ed3148ca05a2f4520e", null ],
-    [ "writeToFile", "d2/d1d/a05421.html#af7ab85f7ab03ed4c9eadde9bba1a1857", null ],
-    [ "adtId", "d2/d1d/a05421.html#a4ebcfe8326eff028e722c9972a16200b", null ],
-    [ "flags", "d2/d1d/a05421.html#acfc7a76db09013abfad8e42aaae59f52", null ],
-    [ "iBound", "d2/d1d/a05421.html#ae1dac1aa360c4d49b61a0cd8af92399c", null ],
-    [ "ID", "d2/d1d/a05421.html#ab2fdb441870d6ac7ddc05640ec1d0598", null ],
-    [ "iPos", "d2/d1d/a05421.html#abb5966f87710bc6a1f5da766c99b3e12", null ],
-    [ "iRot", "d2/d1d/a05421.html#a6d0b4f6bde1a20b246e4b22cc43e25af", null ],
-    [ "iScale", "d2/d1d/a05421.html#aad355d0fb09ff0360ed19610bef92d8e", null ],
-    [ "name", "d2/d1d/a05421.html#a66e19a4a28f8fc0c537f1315d9bddcfb", null ]
+    [ "Read", "d2/d1d/a05421.html#a07ea1ce999e5cea578af77cb47280748", null ],
+    [ "groupsArray", "d2/d1d/a05421.html#a79b2d93c2929aaddac1004aed4ecdd85", null ],
+    [ "RootWMOID", "d2/d1d/a05421.html#a6b9058e7062c970438c79f08103c3c61", null ]
 ];

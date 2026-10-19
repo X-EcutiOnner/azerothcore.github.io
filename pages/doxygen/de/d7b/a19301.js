@@ -1,7 +1,8 @@
 var a19301 =
 [
-    [ "OnRemove", "de/d7b/a19301.html#ac71e6f5a9e3a7c96b4e4bd1a296d0d8d", null ],
-    [ "PrepareAuraScript", "de/d7b/a19301.html#acf654e563f47df9ad033d7080f47662b", null ],
-    [ "Register", "de/d7b/a19301.html#aad4497ba7cad48b9547e8696714d8c23", null ],
-    [ "Validate", "de/d7b/a19301.html#ae5e187cb481849343e777b0bf0ffdf24", null ]
+    [ "CountTargets", "de/d7b/a19301.html#a3000d234134bb3d4b2e17fd1eff8f4f0", null ],
+    [ "HandleScript", "de/d7b/a19301.html#af058a0c458463bdba4a4eb73aa91c113", null ],
+    [ "PrepareSpellScript", "de/d7b/a19301.html#a83b2fad7cdc189a17129e25a015952ff", null ],
+    [ "Register", "de/d7b/a19301.html#af5e214ab418ca05ddd637c83d7a7e71a", null ],
+    [ "Validate", "de/d7b/a19301.html#a63e8e899cb1469dca26cd5fa34b85408", null ]
 ];

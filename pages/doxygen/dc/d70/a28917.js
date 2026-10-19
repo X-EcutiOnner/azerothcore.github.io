@@ -1,5 +1,5 @@
 var a28917 =
 [
-    [ "Id", "dc/d70/a28917.html#a2c41c957524b31ad9f7fa361ec0e9d01", null ],
-    [ "textid", "dc/d70/a28917.html#a7e50690fa335b759dba5ac265c9a0dd0", null ]
+    [ "npc_harrowmeiser", "dc/d70/a28917.html#a30a44ae739447e14ded0c0af6c73e76e", null ],
+    [ "OnGossipHello", "dc/d70/a28917.html#a3d4b6bc9a85315b0f31347068b3c5317", null ]
 ];

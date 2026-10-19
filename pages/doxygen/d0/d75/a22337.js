@@ -1,6 +1,6 @@
 var a22337 =
 [
-    [ "npc_vekjik", "d0/d75/a22337.html#a7439c6038237b77ba8623ae92d6cf708", null ],
-    [ "OnGossipHello", "d0/d75/a22337.html#acdbba5b4970049e72477eccf6672b0e8", null ],
-    [ "OnGossipSelect", "d0/d75/a22337.html#a0bcdcb6cd57264e664c449e261d3580b", null ]
+    [ "npc_blessed_bannerAI", "d5/d01/a22341.html", "d5/d01/a22341" ],
+    [ "npc_blessed_banner", "d0/d75/a22337.html#a779a0c653088b2d206226e146a19101f", null ],
+    [ "GetAI", "d0/d75/a22337.html#a43dabbf2f2d54ae201cde37df792a41d", null ]
 ];

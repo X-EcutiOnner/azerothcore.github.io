@@ -1,7 +1,11 @@
 var a09229 =
 [
-    [ "HealthOrderPred", "da/d3c/a09229.html#ac5d0408da69ecd6415c6f4eae61d11d8", null ],
-    [ "operator()", "da/d3c/a09229.html#acb5867bddd0e5107139d52ff99817f5c", null ],
-    [ "operator()", "da/d3c/a09229.html#ad9cae47d98b31687958cfca56b29c213", null ],
-    [ "_ascending", "da/d3c/a09229.html#a93e2e41a9849d6c2ecfffcaffa74acee", null ]
+    [ "SpellPeriodicAuraLogInfo", "da/d3c/a09229.html#a3c3c5908556cf765c5cbba3ca7034ae9", null ],
+    [ "absorb", "da/d3c/a09229.html#af69ed83578024b979dc9d65ff5ddc83b", null ],
+    [ "auraEff", "da/d3c/a09229.html#ae69913fad91a8e5b140c206d2c5733e0", null ],
+    [ "critical", "da/d3c/a09229.html#a51041b901727b4f595d2a886520626ff", null ],
+    [ "damage", "da/d3c/a09229.html#aa3839fed2e3de0f7a01ad209eec2bdcd", null ],
+    [ "multiplier", "da/d3c/a09229.html#a26b18592b0aebbdc6a00e8f91fd2a75a", null ],
+    [ "overDamage", "da/d3c/a09229.html#a51904be3790c99bded697b2cf7c8db23", null ],
+    [ "resist", "da/d3c/a09229.html#a5cb7dbeeb9d28037771a2f235a95e0fe", null ]
 ];

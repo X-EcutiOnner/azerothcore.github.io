@@ -1,6 +1,7 @@
 var a16077 =
 [
-    [ "npc_silva_filnaveth", "d6/dbc/a16077.html#a5998381865214a7b3af7823bd2557cb0", null ],
-    [ "OnGossipHello", "d6/dbc/a16077.html#a32019c17271a3f504d86cd694262fd53", null ],
-    [ "OnGossipSelect", "d6/dbc/a16077.html#a10f81dce3dbc3ef0a84c8c33c2cb2e29", null ]
+    [ "HandleDummy", "d6/dbc/a16077.html#a7657ffcc0b055b838408de4dd5f778f3", null ],
+    [ "PrepareSpellScript", "d6/dbc/a16077.html#ace2c23ec11d09cfb6f101a2dbd8b9d89", null ],
+    [ "Register", "d6/dbc/a16077.html#ae9be2e8124edf50b98824c584aaa32cf", null ],
+    [ "Validate", "d6/dbc/a16077.html#a041c84fd605abd36b8f774903a5200dc", null ]
 ];

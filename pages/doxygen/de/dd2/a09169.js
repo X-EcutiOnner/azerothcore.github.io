@@ -1,8 +1,6 @@
 var a09169 =
 [
-    [ "DiminishingReturn", "de/dd2/a09169.html#acd4828637710636d0164fced285c854d", null ],
-    [ "DRGroup", "de/dd2/a09169.html#add3ab95d65e283a326e1922129941ae4", null ],
-    [ "hitCount", "de/dd2/a09169.html#a94b1fdc8e8d51b1c6f5e723e697ed323", null ],
-    [ "hitTime", "de/dd2/a09169.html#ae3f5eecc2bc88fe236fe4c7c297b68c5", null ],
-    [ "stack", "de/dd2/a09169.html#aeb40601df7e6507c7fd83e3152541ba5", null ]
+    [ "GlobalCooldown", "de/dd2/a09169.html#a5859ccec9d1fdf0a8f11f5ab77c135a9", null ],
+    [ "cast_time", "de/dd2/a09169.html#a7e2fe46367bad59669b0f2fd33736b30", null ],
+    [ "duration", "de/dd2/a09169.html#a7fbf3127e4a2cc93171934148275ae1d", null ]
 ];

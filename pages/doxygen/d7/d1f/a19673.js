@@ -1,6 +1,7 @@
 var a19673 =
 [
-    [ "boss_nothAI", "de/dc4/a19677.html", "de/dc4/a19677" ],
-    [ "boss_noth", "d7/d1f/a19673.html#a2760f1ec46a21f22de0e57527cbe9768", null ],
-    [ "GetAI", "d7/d1f/a19673.html#a534f30792c051ab44c6c07c9347893e5", null ]
+    [ "HandleScript", "d7/d1f/a19673.html#a66db3976fe6ec7ee8712c5788ce5f3ec", null ],
+    [ "PrepareAuraScript", "d7/d1f/a19673.html#aa3053519be0101f55450d76b1291f0f7", null ],
+    [ "Register", "d7/d1f/a19673.html#ada596a7f19115c7178fd07fb9e956f58", null ],
+    [ "Validate", "d7/d1f/a19673.html#a768dec18bc0e879c457a64135ec27ad9", null ]
 ];

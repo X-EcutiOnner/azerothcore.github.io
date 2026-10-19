@@ -1,8 +1,7 @@
 var a12857 =
 [
-    [ "boss_highlord_omokk", "dc/dd8/a12857.html#a31dd2c47b3ed33fa65d3b6a7a5cb384c", null ],
-    [ "JustDied", "dc/dd8/a12857.html#a2a8931227eb65759ceebd27919976cb5", null ],
-    [ "JustEngagedWith", "dc/dd8/a12857.html#a0bd4e1e0f72a0b6a8792d508c401caf8", null ],
-    [ "Reset", "dc/dd8/a12857.html#ada6bf702dc1827e60b558b4fb752b789", null ],
-    [ "UpdateAI", "dc/dd8/a12857.html#a131ebd1dd8d95c7d910af1b21442c861", null ]
+    [ "boss_okthor", "dc/dd8/a12857.html#a10c5868b555e6f7edc11de179eccb151", null ],
+    [ "JustEngagedWith", "dc/dd8/a12857.html#a40909de030f186531a8cfe1993b6aa40", null ],
+    [ "UpdateAI", "dc/dd8/a12857.html#ab63a797da2b3f93da32b078b9731b1de", null ],
+    [ "_nextArcaneExplosionTime", "dc/dd8/a12857.html#aa7c9edda4aee7ed257b3cb1334c4e899", null ]
 ];

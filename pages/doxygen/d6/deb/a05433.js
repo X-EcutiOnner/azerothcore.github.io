@@ -1,6 +1,12 @@
 var a05433 =
 [
-    [ "TriBoundFunc", "d6/deb/a05433.html#a42711c10595c048420a09e35e3345229", null ],
-    [ "operator()", "d6/deb/a05433.html#a29cfc8652bb5dbba5260e4faea0af2d7", null ],
-    [ "vertices", "d6/deb/a05433.html#a3c5d3e61f9a963eacf4aff4e90d8e1bb", null ]
+    [ "~GameObjectModelOwnerBase", "d6/deb/a05433.html#a307c744710782fcb0d5c287b23c74d69", null ],
+    [ "DebugVisualizeCorner", "d6/deb/a05433.html#acf130fbdfb086a9c6d35d145116357c8", null ],
+    [ "GetDisplayId", "d6/deb/a05433.html#ae3eddc6c841c3644f50cb3300f80cee2", null ],
+    [ "GetOrientation", "d6/deb/a05433.html#a35c11d2346c5156b95558729d84b3fe8", null ],
+    [ "GetPhaseMask", "d6/deb/a05433.html#a6b55de1c8de5a50245d7e5a833766d0f", null ],
+    [ "GetPosition", "d6/deb/a05433.html#a82e89b7fac5f46a25519674930294ed8", null ],
+    [ "GetScale", "d6/deb/a05433.html#abf8e9a74f58ec34bc6f1f8d853100f69", null ],
+    [ "IsSpawned", "d6/deb/a05433.html#ad824da6970d512c344160714cd7ec434", null ],
+    [ "IsTransport", "d6/deb/a05433.html#a20a14793cdbb1ed63219cd6211feadc3", null ]
 ];

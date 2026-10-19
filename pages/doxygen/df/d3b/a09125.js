@@ -1,24 +1,10 @@
 var a09125 =
 [
-    [ "Totem", "df/d3b/a09125.html#a556c9121978cad2d780ef0c1ba63c28a", null ],
-    [ "~Totem", "df/d3b/a09125.html#a7c7376e438a14b5561049f82650c62c5", null ],
-    [ "GetSpell", "df/d3b/a09125.html#a1454ef318166d69bee1eddcaec73604a", null ],
-    [ "GetTotemDuration", "df/d3b/a09125.html#a588f187bbf8aa0e16b45974610ec593b", null ],
-    [ "GetTotemType", "df/d3b/a09125.html#aa1c94dfcaee2deaef2786e2f4f63b837", null ],
-    [ "InitStats", "df/d3b/a09125.html#a4661c91b5123862fc44e7a290cf70d1f", null ],
-    [ "InitSummon", "df/d3b/a09125.html#aaf87ce98ed8bfc42072228c9e39bfdf6", null ],
-    [ "IsImmunedToSpellEffect", "df/d3b/a09125.html#aaf9666b4de85af2665058bea8a56cca3", null ],
-    [ "SetTotemDuration", "df/d3b/a09125.html#aced4f5c6ff70852083c23fb32cd50a7f", null ],
-    [ "UnSummon", "df/d3b/a09125.html#ab127e1cc25ef8878b9a44cb0eb080523", null ],
-    [ "Update", "df/d3b/a09125.html#aa44d1386a44ade821cc6dfe5caee9b90", null ],
-    [ "UpdateAllStats", "df/d3b/a09125.html#a515d54b852bbedf597f9f69cb7c0982b", null ],
-    [ "UpdateArmor", "df/d3b/a09125.html#a0b587243be09d58f5693570933680bff", null ],
-    [ "UpdateAttackPowerAndDamage", "df/d3b/a09125.html#a8a18cacf85203a6918dcdbe19fcde850", null ],
-    [ "UpdateDamagePhysical", "df/d3b/a09125.html#afbef34893575beb29356634a140bce62", null ],
-    [ "UpdateMaxHealth", "df/d3b/a09125.html#a01f507b7699f92e90b5601280408ba76", null ],
-    [ "UpdateMaxPower", "df/d3b/a09125.html#af0a51bf3565114ba84fd8fcad93170ad", null ],
-    [ "UpdateResistances", "df/d3b/a09125.html#aa65b8427a4cd938312ac4d9d4ab54f69", null ],
-    [ "UpdateStats", "df/d3b/a09125.html#a9c417b6be9a58cda23250067f6cadbcc", null ],
-    [ "m_duration", "df/d3b/a09125.html#a0bff976b49617405869ac7f2416e0ca1", null ],
-    [ "m_type", "df/d3b/a09125.html#a7e31af10f1ff0e854941e3a44254d139", null ]
+    [ "PlayerSetting", "df/d3b/a09125.html#a77d1fb11aa0039bbdae3ccc523f391ea", null ],
+    [ "PlayerSetting", "df/d3b/a09125.html#a93a30a0d6104bdda8fd9b5778179a353", null ],
+    [ "AddFlag", "df/d3b/a09125.html#a1e81343732cd86cdf9974a1d96b73ba7", null ],
+    [ "HasFlag", "df/d3b/a09125.html#af6e3149ff40b6b4ea2310b5c3254fce0", null ],
+    [ "IsEnabled", "df/d3b/a09125.html#a3621021d9c0c41c08b6300cd5dfcaf71", null ],
+    [ "RemoveFlag", "df/d3b/a09125.html#a4ca3645233a466345d6be217d7a0df2b", null ],
+    [ "value", "df/d3b/a09125.html#a74592e45f8ae4c5f411a982227f809f3", null ]
 ];

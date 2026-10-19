@@ -1,7 +1,8 @@
 var a29269 =
 [
-    [ "EmoteType", "d3/d68/a29269.html#a2d319652021081fdb02472c32a28e318", null ],
-    [ "Flags", "d3/d68/a29269.html#aa1794d3ffd7f7da82f5754e1be580fe9", null ],
-    [ "Id", "d3/d68/a29269.html#a3b3b641fbdb8dc88afc2421e358a75a1", null ],
-    [ "UnitStandState", "d3/d68/a29269.html#ada83e548faa01917a5db19eaa15dbbec", null ]
+    [ "ID", "d3/d68/a29269.html#a36958c346c8554d9ab1cfb73ac583818", null ],
+    [ "Model", "d3/d68/a29269.html#a8877a066a16c8c246a2d5a24a3661e56", null ],
+    [ "Origin", "d3/d68/a29269.html#a684c69add50ee545ee606ae456a93336", null ],
+    [ "OriginFacing", "d3/d68/a29269.html#a460723250353c7720cd87677991283cf", null ],
+    [ "SoundID", "d3/d68/a29269.html#aa56be05c7ab4015738e049d75ff365c6", null ]
 ];

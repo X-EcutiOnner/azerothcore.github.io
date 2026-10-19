@@ -1,5 +1,5 @@
 var a03884 =
 [
-    [ "MotdMap", "d6/db7/a03884.html#a5c662919d486ab6fdecf6195e172bc0d", null ],
-    [ "MotdPackets", "d6/db7/a03884.html#a58c795807a8c0ddf95b6dde3d1760c0a", null ]
+    [ "MotdMgr", "d6/df0/a10453.html", "d6/df0/a10453" ],
+    [ "sMotdMgr", "d6/db7/a03884.html#a0ad6ba4db6e433e72e172e659af2cada", null ]
 ];

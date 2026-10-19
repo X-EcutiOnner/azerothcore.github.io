@@ -1,7 +1,6 @@
 var a25145 =
 [
-    [ "CheckRequirement", "dd/d57/a25145.html#a6be5f335a15226db87a04548490f488d", null ],
-    [ "PrepareSpellScript", "dd/d57/a25145.html#a25463eda0ce51a124e8715baf305c8f6", null ],
-    [ "Register", "dd/d57/a25145.html#a8db5a5597d8f6fe4064799766fb61502", null ],
-    [ "_level", "dd/d57/a25145.html#a3d6867e8eae9afde2b03acc2e6ebe961", null ]
+    [ "HandleScript", "dd/d57/a25145.html#a7bf5f9d28a916704bd1ece8acc64fe59", null ],
+    [ "PrepareSpellScript", "dd/d57/a25145.html#ab9193654a0534dc82c4c93a3158f3f7a", null ],
+    [ "Register", "dd/d57/a25145.html#a0f0360e8b2db795046c3b76e6db0a97e", null ]
 ];

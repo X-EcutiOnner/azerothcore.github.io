@@ -1,7 +1,6 @@
 var a27361 =
 [
-    [ "HandleDummy", "d2/dca/a27361.html#a2ea424e6c740305340001b1c09bfec91", null ],
-    [ "PrepareSpellScript", "d2/dca/a27361.html#afe722c970155b47eac94bb9861a4eb46", null ],
-    [ "Register", "d2/dca/a27361.html#a2c2b96f1c00da9884ec9d01fe897c8c1", null ],
-    [ "Validate", "d2/dca/a27361.html#ac5f782da8b5e387c31e048759baf3e16", null ]
+    [ "OnApply", "d2/dca/a27361.html#a50ced6d5a475ccad9429dfbb05130394", null ],
+    [ "PrepareAuraScript", "d2/dca/a27361.html#abd02e129b1201449d473a66aea77d569", null ],
+    [ "Register", "d2/dca/a27361.html#a8c09775f642335252c6e548900dc9d3a", null ]
 ];

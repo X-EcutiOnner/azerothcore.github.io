@@ -1,6 +1,12 @@
 var a20133 =
 [
-    [ "HandleApplyTouch", "dd/dda/a20133.html#a0c46c506f78f46f17c0de6caae774316", null ],
-    [ "PrepareSpellScript", "dd/dda/a20133.html#a2f32b735a8a72a6ef52744d3ce8ada8b", null ],
-    [ "Register", "dd/dda/a20133.html#a70382055564e4ead8b5da0d6bd20c67f", null ]
+    [ "boss_sjonnirAI", "dd/dda/a20133.html#a53127766553d1bee4d7331e6f4fcda05", null ],
+    [ "ActivatePipe", "dd/dda/a20133.html#aa3a3e765284cd29cef1d54a9390c3986", null ],
+    [ "DoAction", "dd/dda/a20133.html#afb2f73908bc17c763a8028af4b499481", null ],
+    [ "JustDied", "dd/dda/a20133.html#aac572b45c50d0e9c0e7fb3a036053859", null ],
+    [ "JustEngagedWith", "dd/dda/a20133.html#aade776baf55155bb3814129ddc2f9632", null ],
+    [ "KilledUnit", "dd/dda/a20133.html#ac79740a8c5e4263f2917647c74e995aa", null ],
+    [ "Reset", "dd/dda/a20133.html#a8a5f0c22eb6c1d3501c2abdabfc5a77c", null ],
+    [ "ScheduleTasks", "dd/dda/a20133.html#a5c3c31c5be424795e4e96291c910c73c", null ],
+    [ "SlugeCount", "dd/dda/a20133.html#ad1e05c8b4dbba7a73a368dc07ad94aaf", null ]
 ];

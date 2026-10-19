@@ -1,9 +1,10 @@
 var a05333 =
 [
-    [ "MMapMgr", "dc/dd3/a05333.html#abd4bd2ef84d57be5000ab37ed36ded8c", null ],
-    [ "~MMapMgr", "dc/dd3/a05333.html#a0891f2313f7c78182334b43e304bafd0", null ],
-    [ "CreateNavMeshQuery", "dc/dd3/a05333.html#affca526b45b63f9c827a52baa212f02c", null ],
-    [ "LoadNavMesh", "dc/dd3/a05333.html#aead5607e8f61161464c388c889ca9938", null ],
-    [ "LoadTile", "dc/dd3/a05333.html#a2b1efdb836189224a7ac1247b6c397e5", null ],
-    [ "packTileID", "dc/dd3/a05333.html#ace3265c248ccf2a34ca4b7c43f294e43", null ]
+    [ "AreaInfo", "dc/dd3/a05333.html#a7cd6d0845a1fea33d4f51deb5890f9f1", null ],
+    [ "AreaInfo", "dc/dd3/a05333.html#acdd6c482f37134fdc962a55771003b5c", null ],
+    [ "adtId", "dc/dd3/a05333.html#aee38e987da24645d36792a1024235035", null ],
+    [ "groupId", "dc/dd3/a05333.html#a6472ad95a025769da84943fc490860e1", null ],
+    [ "mogpFlags", "dc/dd3/a05333.html#ae97f4c32ecee4844f2cb0fec92cb21ec", null ],
+    [ "rootId", "dc/dd3/a05333.html#a5af47da55bdcb6a92356a33112a41da5", null ],
+    [ "uniqueId", "dc/dd3/a05333.html#a4496a2c21c4bca0e8acbd563de282338", null ]
 ];

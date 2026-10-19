@@ -1,6 +1,6 @@
 var a23189 =
 [
-    [ "PrepareSpellScript", "da/d6c/a23189.html#a7e03b63174511ed4c3e78c99b781f8f2", null ],
-    [ "Register", "da/d6c/a23189.html#aaed4b5d67dbd06cb0a1adc91aa873247", null ],
-    [ "RemoveSpines", "da/d6c/a23189.html#a076b056328ba6181a6ec907f21258f9d", null ]
+    [ "npc_supremus_punch_invisible_stalker", "da/d6c/a23189.html#add7d0e711ef02a16ef58d90cfc8ee733", null ],
+    [ "IsSummonedBy", "da/d6c/a23189.html#a2220bc31f2ef91a154a9a4eae38aa14b", null ],
+    [ "UpdateAI", "da/d6c/a23189.html#a90ecfe4257ef77a6d6a200a2f017c51a", null ]
 ];

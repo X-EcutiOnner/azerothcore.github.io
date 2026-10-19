@@ -1,4 +1,4 @@
 var a04064 =
 [
-    [ "ScriptRegistry< WeatherScript >", "dc/ddd/a04064.html#aa691cee39a36861af34c3315e7aa582b", null ]
+    [ "ScriptRegistry< GameObjectScript >", "dc/ddd/a04064.html#ae9014c60529a1387cccce404773fd736", null ]
 ];

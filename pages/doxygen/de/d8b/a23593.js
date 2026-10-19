@@ -1,7 +1,6 @@
 var a23593 =
 [
-    [ "HandleScript", "de/d8b/a23593.html#a359ccbdf47c9b6a1df23e6f775d5ffa8", null ],
-    [ "PrepareSpellScript", "de/d8b/a23593.html#ac1193881ad39e7ea7cb1f8f1b6627c60", null ],
-    [ "Register", "de/d8b/a23593.html#afb83fdd384a430e572a7959f81cdf2cb", null ],
-    [ "Validate", "de/d8b/a23593.html#af8587f9dff4b71b7cce8ec6d70f94927", null ]
+    [ "instance_steam_vault_InstanceMapScript", "d3/d8b/a23597.html", "d3/d8b/a23597" ],
+    [ "instance_steam_vault", "de/d8b/a23593.html#aa3417083841ccb50c8a2f29ba343e115", null ],
+    [ "GetInstanceScript", "de/d8b/a23593.html#a3a2edb84cc7067d3c8fa2151b4763c5a", null ]
 ];

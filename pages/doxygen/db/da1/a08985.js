@@ -1,9 +1,9 @@
 var a08985 =
 [
-    [ "category", "db/da1/a08985.html#af3cd722cf59d844dcaba2d20f20d2933", null ],
-    [ "end", "db/da1/a08985.html#a8cc857ef51745900398765164a450a50", null ],
-    [ "itemid", "db/da1/a08985.html#a42ef844fdd55e8bf67eb5cd90c627817", null ],
-    [ "maxduration", "db/da1/a08985.html#a94b98afb7651e2c6b99ee79f85702259", null ],
-    [ "needSendToClient", "db/da1/a08985.html#a678f56b6723567f984a0188b85a6f9df", null ],
-    [ "sendToSpectator", "db/da1/a08985.html#a4b5bc2c63587dd8ce5d4971ad51895cd", null ]
+    [ "PetInfo", "d2/d67/a08989.html", "d2/d67/a08989" ],
+    [ "GetUnslottedHunterPet", "db/da1/a08985.html#a4e0e22a135703c989976694a32912cbd", null ],
+    [ "CurrentPet", "db/da1/a08985.html#a7a9f76452985abc65560773ac413208f", null ],
+    [ "MaxStabledPets", "db/da1/a08985.html#a2a30270bbd396b7fa4e035429ff8d04e", null ],
+    [ "StabledPets", "db/da1/a08985.html#a6bd064e692fff316581d08680b163026", null ],
+    [ "UnslottedPets", "db/da1/a08985.html#a8e6f6e36722dd883e6df962a1e950346", null ]
 ];

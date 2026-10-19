@@ -1,6 +1,7 @@
 var a13105 =
 [
-    [ "boss_gehennas", "d2/d28/a13105.html#ab533dfd33dfcc42b1c282340e77ed979", null ],
-    [ "ExecuteEvent", "d2/d28/a13105.html#aa11c5e8facc17b03220595a61045036f", null ],
-    [ "JustEngagedWith", "d2/d28/a13105.html#af4f3b198a1a606efe829376b4515c7bc", null ]
+    [ "HandleEffectScriptEffect", "d2/d28/a13105.html#a8157c4b213b3b4e260222976e283e2ae", null ],
+    [ "PrepareSpellScript", "d2/d28/a13105.html#aa8a4fdd0dc5c06a836ac05cec0dccd75", null ],
+    [ "Register", "d2/d28/a13105.html#aeda056b568b4956ba35b32a3f20c053e", null ],
+    [ "Validate", "d2/d28/a13105.html#a29a7f51f01e1ccf71dcc53ad68f032ae", null ]
 ];

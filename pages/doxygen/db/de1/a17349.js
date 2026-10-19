@@ -1,8 +1,7 @@
 var a17349 =
 [
-    [ "npc_fos_leaderAI", "d6/d69/a17353.html", "d6/d69/a17353" ],
-    [ "npc_fos_leader", "db/de1/a17349.html#a4223072bc180e990ff9e01bf772def5b", null ],
-    [ "GetAI", "db/de1/a17349.html#a6eca5c95aa3a8498790d8bf52f0741f8", null ],
-    [ "OnGossipHello", "db/de1/a17349.html#a3858054505d439902624378b9355f40d", null ],
-    [ "OnGossipSelect", "db/de1/a17349.html#a1b743c6f270a2bdbd09940a414a1b437", null ]
+    [ "HandleEffectRemove", "db/de1/a17349.html#aa6a118f956cbdc5ad1ce0109c3a0e8e3", null ],
+    [ "Load", "db/de1/a17349.html#a71a31b421f192662c14bd6bf3d5eed9f", null ],
+    [ "PrepareAuraScript", "db/de1/a17349.html#a97411ddf89a10a962ba74d294eb653e7", null ],
+    [ "Register", "db/de1/a17349.html#a1207c9b2ba2e110c3f6c1309f5329d2a", null ]
 ];

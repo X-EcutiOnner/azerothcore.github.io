@@ -1,9 +1,5 @@
 var a13329 =
 [
-    [ "FilterTargets", "dd/d7c/a13329.html#a88b91e40b330d39bd04a7873128fb858", null ],
-    [ "HandleFinish", "dd/d7c/a13329.html#a762ea4cc1cd0a50a65daf22cbbf4ce9c", null ],
-    [ "PrepareSpellScript", "dd/d7c/a13329.html#ab4ef82283e4d651d2e5304e49970efa8", null ],
-    [ "Register", "dd/d7c/a13329.html#ab2008e585589cbf313170064d37c4aa9", null ],
-    [ "Validate", "dd/d7c/a13329.html#af4963be6c544a1706a6dc30dcbf18309", null ],
-    [ "_targets", "dd/d7c/a13329.html#a2f75199a90e52cff770f46bce76d5149", null ]
+    [ "go_blackened_urn", "dd/d7c/a13329.html#aaa311353e693a0dd7fd9a6f8e617e0ab", null ],
+    [ "OnGossipHello", "dd/d7c/a13329.html#ab091bd54734acc65532303a391441ee2", null ]
 ];

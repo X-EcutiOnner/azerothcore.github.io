@@ -1,8 +1,6 @@
 var a17937 =
 [
-    [ "npc_saurfang_eventAI", "df/da7/a17937.html#a8436a87576c92ecc0b45106683d20e93", null ],
-    [ "DoAction", "df/da7/a17937.html#a45201c4a5b94fad948efe1d08e63e262", null ],
-    [ "SetData", "df/da7/a17937.html#a7f012a54ebce5307940eb7957f028d52", null ],
-    [ "SpellHit", "df/da7/a17937.html#a2ed920f949c4d8dbc6d6ff5b9149e749", null ],
-    [ "_index", "df/da7/a17937.html#a793d72078bd68b34fcdb7cd6587295dd", null ]
+    [ "FilterTargets", "df/da7/a17937.html#a59255a2cee0f9d8a75ca183647851779", null ],
+    [ "PrepareSpellScript", "df/da7/a17937.html#af8d1cc9c709aeb3a68d1f452bb605c71", null ],
+    [ "Register", "df/da7/a17937.html#a6b6dbeaa8feb8eac4441a87cdf371a36", null ]
 ];

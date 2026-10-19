@@ -1,9 +1,8 @@
 var a21825 =
 [
-    [ "npc_mageguard_dalaranAI", "dc/db8/a21825.html#adb9c8b0003c070114b63f3b8e538bceb", null ],
-    [ "AttackStart", "dc/db8/a21825.html#ac1e73ad92bd5db0d3b9fe23b36cd8dd7", null ],
-    [ "JustEngagedWith", "dc/db8/a21825.html#aac463689ae5a488ec2acb8a0310689d8", null ],
-    [ "MoveInLineOfSight", "dc/db8/a21825.html#aafb32462693e0efd9c80cf335f489754", null ],
-    [ "Reset", "dc/db8/a21825.html#aa6dde0732bac407a62403bb8f0f24c26", null ],
-    [ "UpdateAI", "dc/db8/a21825.html#a4d6ce701a4cc463a7e9c295c664d4440", null ]
+    [ "npc_dusk", "dc/db8/a21825.html#ab142eb266e64af625a8a38d3234ded72", null ],
+    [ "MovementInform", "dc/db8/a21825.html#a49cade56e631668c946edb6753172c87", null ],
+    [ "PassengerBoarded", "dc/db8/a21825.html#aaff19f52995db17f4dab953e2e928c68", null ],
+    [ "WaypointReached", "dc/db8/a21825.html#ac8f70426313aa6834285905e94f1d0d9", null ],
+    [ "_ejected", "dc/db8/a21825.html#a4f749f98c178a32b211bbd38b9447607", null ]
 ];

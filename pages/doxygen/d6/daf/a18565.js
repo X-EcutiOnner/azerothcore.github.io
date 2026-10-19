@@ -1,7 +1,7 @@
 var a18565 =
 [
-    [ "OnRemove", "d6/daf/a18565.html#aa096174465120bde1994c85f72682be1", null ],
-    [ "PrepareAuraScript", "d6/daf/a18565.html#a49ba4ed8ac0ee006c74a71e6779c1a3b", null ],
-    [ "Register", "d6/daf/a18565.html#a6e9c95b06f3ec9dc0739beaabc016d5f", null ],
-    [ "Validate", "d6/daf/a18565.html#a1b7ef2c14db8543a9128aa335548fa00", null ]
+    [ "IceTombSummonEvent", "d6/daf/a18565.html#a2ead0e5f6eb0c32f5c11f38e667b65d3", null ],
+    [ "Execute", "d6/daf/a18565.html#aa708b67e60ba0b4fe2334c43aaaca5c7", null ],
+    [ "_owner", "d6/daf/a18565.html#a1b95617b511dfa7868c59dbdf7e6c4c7", null ],
+    [ "_sindragosaGUID", "d6/daf/a18565.html#abe61867b29cd4fe3d02268f18b3618ee", null ]
 ];

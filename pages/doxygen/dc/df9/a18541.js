@@ -1,6 +1,6 @@
 var a18541 =
 [
-    [ "npc_ice_tombAI", "d9/d48/a18545.html", "d9/d48/a18545" ],
-    [ "npc_ice_tomb", "dc/df9/a18541.html#a939c6083a77a6f4cb2a940ec9c1df55e", null ],
-    [ "GetAI", "dc/df9/a18541.html#ac99b7c9887e54a1764310bd3e079811a", null ]
+    [ "CheckTarget", "dc/df9/a18541.html#afce64ba75f8370cab6b8f1e561b10587", null ],
+    [ "PrepareSpellScript", "dc/df9/a18541.html#a6b6eaf3e761f2c173c2e72f46b25595a", null ],
+    [ "Register", "dc/df9/a18541.html#a6964ca668f02a8b5b1c3015503a41eef", null ]
 ];

@@ -1,5 +1,6 @@
 var a23541 =
 [
-    [ "go_main_chambers_access_panel", "d2/df3/a23541.html#a30c3c20be1892b5107ef53683d593b75", null ],
-    [ "OnGossipHello", "d2/df3/a23541.html#af4b3a4a0260de68dcfac7202e0a728ee", null ]
+    [ "HandleScript", "d2/df3/a23541.html#a9451ed26358c77ab4d35781fd8fb4b55", null ],
+    [ "PrepareSpellScript", "d2/df3/a23541.html#ad24e7fa45f35f2cd6071328c60cb2732", null ],
+    [ "Register", "d2/df3/a23541.html#a1bd01e1103d4959a5b3116e178a16a8f", null ]
 ];

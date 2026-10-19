@@ -1,6 +1,6 @@
 var a24329 =
 [
-    [ "npc_dragonmaw_peonAI", "dc/dc7/a24333.html", "dc/dc7/a24333" ],
-    [ "npc_dragonmaw_peon", "dc/dc0/a24329.html#a356f8f1181d62dd5a4bc41c98ab21720", null ],
-    [ "GetAI", "dc/dc0/a24329.html#aab1e4aee65a5465bc545a9c067200d2a", null ]
+    [ "CheckCast", "dc/dc0/a24329.html#ae13cc2d3da1c9911c88402d05679d447", null ],
+    [ "PrepareSpellScript", "dc/dc0/a24329.html#afbed81273aa23d355c64579c71e9761d", null ],
+    [ "Register", "dc/dc0/a24329.html#a7157d04dfc534aa3cb88e8dff169c676", null ]
 ];

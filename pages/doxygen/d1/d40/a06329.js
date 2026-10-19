@@ -1,6 +1,7 @@
 var a06329 =
 [
-    [ "DirectoryEntry", "d1/d40/a06329.html#a02538aefc1b014b60957d4c67793000f", null ],
-    [ "path", "d1/d40/a06329.html#aca34dff6659f2da63f31e12bb41cf3d0", null ],
-    [ "state", "d1/d40/a06329.html#aeddd31e8fbb23e54549e985f09c4ea96", null ]
+    [ "UpdateException", "d1/d40/a06329.html#ace39ae1801ac7dcd055bcdce2411866e", null ],
+    [ "~UpdateException", "d1/d40/a06329.html#a38e016e210bf287d2adc21811497c95c", null ],
+    [ "what", "d1/d40/a06329.html#ab7bc552819bf9620dd670fb5a627b2dd", null ],
+    [ "_msg", "d1/d40/a06329.html#a7b4ba1e0d2829249afb2922f385016b3", null ]
 ];

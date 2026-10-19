@@ -1,6 +1,6 @@
 var a09525 =
 [
-    [ "m_guid", "d7/dfc/a09525.html#afa8383c81a2d75f9ead2e8f3daa29086", null ],
-    [ "m_instance", "d7/dfc/a09525.html#a8bc0c5e1cf45073f054c5154c21b3d72", null ],
-    [ "m_state", "d7/dfc/a09525.html#a3ac18fb8f5d386e3245a2435e31e45e1", null ]
+    [ "Conditions", "d7/dfc/a09525.html#a93edc2f0d71164b683c844b713befa85", null ],
+    [ "MenuID", "d7/dfc/a09525.html#a732aa82f621c312745ddbd6fe2e3e906", null ],
+    [ "TextID", "d7/dfc/a09525.html#a6ec8df5fcc5126bdee656ca08c0a5edc", null ]
 ];

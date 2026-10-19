@@ -1,7 +1,6 @@
 var a25413 =
 [
-    [ "HandleDummy", "df/d4a/a25413.html#a582208e608c9fdca7464b817c76c13b3", null ],
-    [ "PrepareSpellScript", "df/d4a/a25413.html#ac7abb7e01362a3333c0d73cd19dcee30", null ],
-    [ "Register", "df/d4a/a25413.html#a3882606b9e9201163cf76cb20b8e6364", null ],
-    [ "Validate", "df/d4a/a25413.html#a12a1cb4b6131d5959f6f541da5e8fc00", null ]
+    [ "HandleScriptEffect", "df/d4a/a25413.html#a514697f3fdcbf9274453d6d71c0c4816", null ],
+    [ "PrepareSpellScript", "df/d4a/a25413.html#a5bcff624e9a396a2f90115dc99d93ae9", null ],
+    [ "Register", "df/d4a/a25413.html#aebcc23e4f4a1c5ab90fb06a47755ec2b", null ]
 ];

@@ -1,8 +1,8 @@
 var a21013 =
 [
-    [ "CheckProc", "d3/d3d/a21013.html#a2bbcd3aca15eb271759c2a64276bb9d3", null ],
-    [ "HandleProc", "d3/d3d/a21013.html#a6761dd910808090d78c9b9ad88ba7bda", null ],
-    [ "PrepareAuraScript", "d3/d3d/a21013.html#ab9f98c6a93f31b2c76ca75c8fe7c2c60", null ],
-    [ "Register", "d3/d3d/a21013.html#a430a5c4d0e3f77d4d966a4bf8f629e1e", null ],
-    [ "Validate", "d3/d3d/a21013.html#a683a37c787ae5797d8c68aca1af0742a", null ]
+    [ "npc_scrapbot", "d3/d3d/a21013.html#a088bac1bf5cb91be8f18368c08c5414a", null ],
+    [ "Reset", "d3/d3d/a21013.html#a2dca509a6e2b46674165e5559717f69c", null ],
+    [ "UpdateAI", "d3/d3d/a21013.html#ade90c75baf598900adaa300cef28cb6a", null ],
+    [ "_instance", "d3/d3d/a21013.html#afb8296b4d9105ee99abc534656289ae2", null ],
+    [ "_scheduler", "d3/d3d/a21013.html#a4deb841588ea244e4290bb8ffb69b483", null ]
 ];

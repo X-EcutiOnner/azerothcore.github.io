@@ -1,7 +1,7 @@
 var a27997 =
 [
-    [ "HandleDummy", "dd/d3d/a27997.html#a3af91500357eb127f813334bdf538dbd", null ],
-    [ "PrepareSpellScript", "dd/d3d/a27997.html#ae34ff5e6027efecc34fa770690df5887", null ],
-    [ "Register", "dd/d3d/a27997.html#add4e4d484008d1e1cf63e36c6b6e9757", null ],
-    [ "Validate", "dd/d3d/a27997.html#a0b107442c0b76a018cc019f776c0b785", null ]
+    [ "HandleProc", "dd/d3d/a27997.html#a4294ab4682ea26f78eb4c90c59e86953", null ],
+    [ "PrepareAuraScript", "dd/d3d/a27997.html#ac5d22623791d195aa767d5a28e9639b7", null ],
+    [ "Register", "dd/d3d/a27997.html#a135abc0548ba189fcf6bd662d7ae8940", null ],
+    [ "Validate", "dd/d3d/a27997.html#ac10227e6423f61b0fd67803f01fd4a0e", null ]
 ];

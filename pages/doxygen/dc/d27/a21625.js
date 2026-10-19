@@ -1,7 +1,8 @@
 var a21625 =
 [
-    [ "npc_azure_raider", "dc/d27/a21625.html#a841b0fb8a0ca5ca82f3183835281d0e7", null ],
-    [ "Reset", "dc/d27/a21625.html#a3579986a1769467cb17d3b15242e0551", null ],
-    [ "UpdateAI", "dc/d27/a21625.html#a7aa0c785e976167ef384d7c4dac3294f", null ],
-    [ "_events", "dc/d27/a21625.html#a8d25c785974cb8c50b55b547b982b06f", null ]
+    [ "boss_lavanthor", "dc/d27/a21625.html#ad264818ef0f539c48160de9dbebeac7f", null ],
+    [ "EnterEvadeMode", "dc/d27/a21625.html#aee499fcde639aaca7131dba9cca1d4d0", null ],
+    [ "ExecuteEvent", "dc/d27/a21625.html#a16d7cd5596c20c3663d63549b33c8b4a", null ],
+    [ "JustEngagedWith", "dc/d27/a21625.html#a4bc5fa66192daab98027539efda37bdc", null ],
+    [ "MoveInLineOfSight", "dc/d27/a21625.html#a6f68cd280561b428400a08a155f83ccb", null ]
 ];

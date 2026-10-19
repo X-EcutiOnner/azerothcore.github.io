@@ -1,15 +1,6 @@
 var a22361 =
 [
-    [ "npc_jungle_punch_targetAI", "da/df6/a22361.html#a04f09361f6bc4bc752ca773878187f79", null ],
-    [ "MoveInLineOfSight", "da/df6/a22361.html#adc08551a256220bab144ef26d89c4263", null ],
-    [ "proceedCwEvent", "da/df6/a22361.html#a54f8a5c7414f4a9fd019e02fede1970d", null ],
-    [ "Reset", "da/df6/a22361.html#a56faff3edbe0d13969e8d20e6c3e03a2", null ],
-    [ "SpellHit", "da/df6/a22361.html#a3515e873adf5a097f66764887e3cc5a3", null ],
-    [ "UpdateAI", "da/df6/a22361.html#afa2a1bcdeef51e9f984307f576a1ff6e", null ],
-    [ "orphanGUID", "da/df6/a22361.html#a5947a4415b63f8bbda4d53c44ccebf74", null ],
-    [ "phase", "da/df6/a22361.html#a737a9016c93d621bf8cfa29d6b66b345", null ],
-    [ "playerGUID", "da/df6/a22361.html#afbb4e4c74c2634a442171f06bb2eff08", null ],
-    [ "sayStep", "da/df6/a22361.html#a1b1757dd6e0775f1f4791b4feafd86fb", null ],
-    [ "sayTimer", "da/df6/a22361.html#a4edf558dbc54ff1acab15d6daf0a5613", null ],
-    [ "timer", "da/df6/a22361.html#a0fa884bf3003267501f048d3f1287d42", null ]
+    [ "npc_still_at_it_triggerAI", "dd/dda/a22365.html", "dd/dda/a22365" ],
+    [ "npc_still_at_it_trigger", "da/df6/a22361.html#a23366d00bd3b8217bdca7f0fca05d9bd", null ],
+    [ "GetAI", "da/df6/a22361.html#ae273ea6295f50248d303983d4b4137df", null ]
 ];

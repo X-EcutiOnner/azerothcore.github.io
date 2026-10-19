@@ -1,7 +1,9 @@
 var a12293 =
 [
-    [ "PlayerGuid", "d4/da9/a12293.html#a629a600c48376d04293c225390f747ff", null ],
-    [ "PrimaryKey", "d4/da9/a12293.html#a7c1ef4d19fb49e5813868ff2ccfe12fc", null ],
-    [ "StoredType", "d4/da9/a12293.html#a9bea7cf549813010b55c23417d65edc6", null ],
-    [ "TableName", "d4/da9/a12293.html#a0f308af88812c110c490c94368bda482", null ]
+    [ "CreatureTextLocalizer", "d4/da9/a12293.html#a799f1007b9977224d71da1451c3454e1", null ],
+    [ "~CreatureTextLocalizer", "d4/da9/a12293.html#a1a03d45dfd3c6c5f6f4995d5efe238a5", null ],
+    [ "operator()", "d4/da9/a12293.html#ab2c364aa9d45ca2267db2641b26821f7", null ],
+    [ "_builder", "d4/da9/a12293.html#a1d8d97d3e423810d044a8155b182899d", null ],
+    [ "_msgType", "d4/da9/a12293.html#adf9260955b0141e85ff47c66350244e2", null ],
+    [ "_packetCache", "d4/da9/a12293.html#a660b352a1c1855f4b10a8aebef88133f", null ]
 ];

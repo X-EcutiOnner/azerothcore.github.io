@@ -1,17 +1,7 @@
 var a17985 =
 [
-    [ "boss_festergutAI", "d7/dc5/a17985.html#a7649f45cfc8bf05bf46b4e50319b4fb3", null ],
-    [ "EnterEvadeMode", "d7/dc5/a17985.html#a001e00435bb01b464573dbff8338c64a", null ],
-    [ "GetData", "d7/dc5/a17985.html#aea4509b130c9b5a8a5dd054ac8783312", null ],
-    [ "JustDied", "d7/dc5/a17985.html#abd0f4f55cfb026d0e25ff7a825d390d1", null ],
-    [ "JustEngagedWith", "d7/dc5/a17985.html#ad5538ae8933a4fd492ab45560dea785e", null ],
-    [ "JustReachedHome", "d7/dc5/a17985.html#a7e371063b84df1f8fe1df1a5bff38ca9", null ],
-    [ "KilledUnit", "d7/dc5/a17985.html#a3af6cacb219928c3c89f7ce3d980ae88", null ],
-    [ "RemoveBlight", "d7/dc5/a17985.html#a5807cd013ebe935f69bc1824386afd72", null ],
-    [ "Reset", "d7/dc5/a17985.html#aeb046d9ef4aa9b7b94aa1ee1727ab1be", null ],
-    [ "SetData", "d7/dc5/a17985.html#af8678cd7e9ddd7ef8095217e4820e7af", null ],
-    [ "UpdateAI", "d7/dc5/a17985.html#ac2b9e850d425336f2bdc6a1d9a707fa0", null ],
-    [ "_gasDummyGUID", "d7/dc5/a17985.html#a742b6ab0990d54e011ac36fde2c2cca2", null ],
-    [ "_inhaleCounter", "d7/dc5/a17985.html#aed5b7fce1ebf9f76fffa2ba682c54b4e", null ],
-    [ "_maxInoculatedStack", "d7/dc5/a17985.html#aeda8f6f959f7b7bd311aabde940a05ca", null ]
+    [ "HandleDummy", "d7/dc5/a17985.html#a89c0706f21fe92fd443c3638181044ec", null ],
+    [ "PrepareSpellScript", "d7/dc5/a17985.html#a957e29d2458fd90228ef9c53e997c642", null ],
+    [ "Register", "d7/dc5/a17985.html#a250c95310503cd59d73e45a9b9372268", null ],
+    [ "Validate", "d7/dc5/a17985.html#a1c67a262eb95def51661919a3bad3437", null ]
 ];

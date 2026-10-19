@@ -1,4 +1,4 @@
 var a03989 =
 [
-    [ "BattlegroundMapScript", "d3/dee/a10799.html", "d3/dee/a10799" ]
+    [ "ScriptRegistry< SessionScript >", "dd/d27/a03989.html#aaf2af9728307baa86fcfc43866215dad", null ]
 ];

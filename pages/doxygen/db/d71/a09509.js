@@ -1,13 +1,6 @@
 var a09509 =
 [
-    [ "QuestPOI", "db/d71/a09509.html#af4ce75549d1fff2042e98683119214a6", null ],
-    [ "QuestPOI", "db/d71/a09509.html#a4cf252fabc68cf11df5d44f192955a0b", null ],
-    [ "AreaId", "db/d71/a09509.html#ad81f08fa2bc5fd0ccd81d0efc42ce804", null ],
-    [ "FloorId", "db/d71/a09509.html#a1af6ed9fdb9ff429e18fb5d98a42ce45", null ],
-    [ "Id", "db/d71/a09509.html#aace0de15249c756ba3cbd5763cbb3f98", null ],
-    [ "MapId", "db/d71/a09509.html#a851f8e6e62373d2592173534754d757b", null ],
-    [ "ObjectiveIndex", "db/d71/a09509.html#ad80f65110beacd44e667008387e6bb70", null ],
-    [ "points", "db/d71/a09509.html#aeb505cb061a00ecaa2acc749e391f207", null ],
-    [ "Unk3", "db/d71/a09509.html#a1f1d8fa843c856b54ec1ca85b08d78e1", null ],
-    [ "Unk4", "db/d71/a09509.html#aa8089160bb8e93ea79df96b956050b70", null ]
+    [ "faction", "db/d71/a09509.html#aaad6e04ef66264f040ddd91ae7f4e04b", null ],
+    [ "faction_rank", "db/d71/a09509.html#a1ffb9cddf950edfb17e9779691b09f07", null ],
+    [ "faction_rate", "db/d71/a09509.html#ab86cdfcd03a47f0c48e0661c5e9c8fd4", null ]
 ];

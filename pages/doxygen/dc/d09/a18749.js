@@ -1,7 +1,6 @@
 var a18749 =
 [
-    [ "OnPeriodic", "dc/d09/a18749.html#accd12b06341f3168c74cb18926614f7f", null ],
-    [ "OnUpdate", "dc/d09/a18749.html#abd725d08f2ef14cd375b6b94e9c1dcf0", null ],
-    [ "PrepareAuraScript", "dc/d09/a18749.html#aa7dea3d079ae88aafd145ce949a6eb02", null ],
-    [ "Register", "dc/d09/a18749.html#aa4a548a222dd79554e3e4e8f837c1d49", null ]
+    [ "boss_the_lich_kingAI", "da/d71/a18753.html", "da/d71/a18753" ],
+    [ "boss_the_lich_king", "dc/d09/a18749.html#a10e2789a98a85907d24eabae6d7655f4", null ],
+    [ "GetAI", "dc/d09/a18749.html#ab12d8cdfdb1c5428423f6db9dda6c97e", null ]
 ];

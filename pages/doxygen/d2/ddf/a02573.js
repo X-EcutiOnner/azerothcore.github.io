@@ -1,5 +1,5 @@
 var a02573 =
 [
-    [ "ArenaScore", "de/d11/a07687.html", "de/d11/a07687" ],
-    [ "ArenaTeamScore", "d3/d07/a07691.html", "d3/d07/a07691" ]
+    [ "GetLowLevelsMinPlayersOverride", "d2/ddf/a02573.html#a37cb97319fde2ce5eaaef583591063a9", null ],
+    [ "GetMinPlayersPerTeam", "d2/ddf/a02573.html#ab22bdb52b0357434faced9df19db9d81", null ]
 ];

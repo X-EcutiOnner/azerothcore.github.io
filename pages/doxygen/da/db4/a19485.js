@@ -1,6 +1,6 @@
 var a19485 =
 [
-    [ "boss_isle_of_conquestAI", "df/d5f/a19489.html", "df/d5f/a19489" ],
-    [ "boss_isle_of_conquest", "da/db4/a19485.html#ad4052d1b6865585d32016e1240449659", null ],
-    [ "GetAI", "da/db4/a19485.html#ae14201c4f8654bf2c0cd9ac8a82f3800", null ]
+    [ "RespawnEvent", "da/db4/a19485.html#accc0d5638ff7a493fa116ac2e8f2e58b", null ],
+    [ "Execute", "da/db4/a19485.html#a2e58f4e472fb72cf5401f11be6e5e136", null ],
+    [ "_owner", "da/db4/a19485.html#adb0835b4a2e7a2795bb81f0a1e3c911a", null ]
 ];

@@ -1,6 +1,6 @@
 var a18905 =
 [
-    [ "HandleScript", "db/dfb/a18905.html#a910663e3fb2534c0e3aefcfd0adfe2fb", null ],
-    [ "PrepareSpellScript", "db/dfb/a18905.html#a2c6acef52962f606130d643cbd93104b", null ],
-    [ "Register", "db/dfb/a18905.html#a03ed4f257c313ba33361c16f313fdfcc", null ]
+    [ "npc_terenas_menethilAI", "d0/d13/a18909.html", "d0/d13/a18909" ],
+    [ "npc_terenas_menethil", "db/dfb/a18905.html#a6b6850598c582e3d44c13275302fd32d", null ],
+    [ "GetAI", "db/dfb/a18905.html#ad5f29af90c3f40ce0dad019b5ec05cf2", null ]
 ];

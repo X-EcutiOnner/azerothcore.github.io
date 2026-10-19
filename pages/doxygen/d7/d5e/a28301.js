@@ -1,6 +1,6 @@
 var a28301 =
 [
-    [ "go_witherbark_totem_bundleAI", "d7/d5e/a28301.html#a955625e2315008a2e36936d44f825060", null ],
-    [ "UpdateAI", "d7/d5e/a28301.html#af688bab2dc3d938951adb303e8b8d88b", null ],
-    [ "_timer", "d7/d5e/a28301.html#a509e6d8401380c326a0f565a6b903d7a", null ]
+    [ "npc_spirit_shadeAI", "d5/dc4/a28305.html", "d5/dc4/a28305" ],
+    [ "npc_spirit_shade", "d7/d5e/a28301.html#a891ede5651789274496d6426daf9937d", null ],
+    [ "GetAI", "d7/d5e/a28301.html#a166f6a9abf7c0e33374c2f998c0524c3", null ]
 ];

@@ -1,8 +1,7 @@
 var a20909 =
 [
-    [ "boss_thorim_pillar", "d6/dd0/a20909.html#aec2fc6e420499c9ce991753b912bef1e", null ],
-    [ "Reset", "d6/dd0/a20909.html#aea862be4cb7e7456d7ddfbe4fef81181", null ],
-    [ "SpellHit", "d6/dd0/a20909.html#ae8b1877ac425c340410c7ca6a05d2d8a", null ],
-    [ "UpdateAI", "d6/dd0/a20909.html#a3d4b4c2ae9ab4d541510e2026d1500c0", null ],
-    [ "_resetTimer", "d6/dd0/a20909.html#ac9c8ef8622496593b5f91611d22120b3", null ]
+    [ "go_razorscale_mole_machineAI", "d6/dd0/a20909.html#af648942b5794adf77d51d581aa6edeee", null ],
+    [ "Reset", "d6/dd0/a20909.html#ac2b96d741950c7ee1bde296a78bd5c01", null ],
+    [ "UpdateAI", "d6/dd0/a20909.html#acff2bc016f10597b37e868a99da03f0d", null ],
+    [ "_scheduler", "d6/dd0/a20909.html#aa29309e3d94e1f19cfc1557e75bb70de", null ]
 ];

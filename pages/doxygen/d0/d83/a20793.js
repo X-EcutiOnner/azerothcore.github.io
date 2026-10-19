@@ -1,5 +1,9 @@
 var a20793 =
 [
-    [ "achievement_mimiron_set_up_us_the_bomb_11", "d0/d83/a20793.html#a5d8980111e029b4c9311737f3985ab61", null ],
-    [ "OnCheck", "d0/d83/a20793.html#a7682a7f2f4417dcf75ec58e34e4fd6bc", null ]
+    [ "npc_ulduar_bot_summon_trigger", "d0/d83/a20793.html#a16d36c154b6851c0081cc05f838b0fed", null ],
+    [ "DoAction", "d0/d83/a20793.html#a776782a85892d2d674773573be25bfa0", null ],
+    [ "Reset", "d0/d83/a20793.html#a4ec8487028b188347cf0c9a080076fe6", null ],
+    [ "UpdateAI", "d0/d83/a20793.html#a788d3eaba382e3af897678f6709a0242", null ],
+    [ "_option", "d0/d83/a20793.html#a39c909b67fcdc81542470b6e96256fd5", null ],
+    [ "_timer", "d0/d83/a20793.html#a2530742a19275efe92eeded4dce67567", null ]
 ];

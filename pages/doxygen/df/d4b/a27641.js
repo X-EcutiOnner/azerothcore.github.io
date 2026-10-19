@@ -1,7 +1,8 @@
 var a27641 =
 [
-    [ "HandleProc", "df/d4b/a27641.html#a3878044c77e9560bcc7d531d5c119e0f", null ],
-    [ "PrepareAuraScript", "df/d4b/a27641.html#a3a496539a6adddca91724d9cc77f81c3", null ],
-    [ "Register", "df/d4b/a27641.html#a096f4ecd857cc642ff1d1e5119933921", null ],
-    [ "Validate", "df/d4b/a27641.html#a1592084736ebe5b10a343aee4dba8050", null ]
+    [ "ApplyDebuff", "df/d4b/a27641.html#ac22ae27019de6bd951bb00262c6df9a3", null ],
+    [ "PrepareSpellScript", "df/d4b/a27641.html#aa37525d089348f58e3d871830caa3417", null ],
+    [ "Register", "df/d4b/a27641.html#ac37a48d9742ab6b07c5e6a8dd7f23bd9", null ],
+    [ "RemoveInvalidTargets", "df/d4b/a27641.html#a0451b75aa962065a01a5806992e01b16", null ],
+    [ "Validate", "df/d4b/a27641.html#ac69d777fdf7a2d3c527621dee256690c", null ]
 ];

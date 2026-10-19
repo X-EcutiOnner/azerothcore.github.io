@@ -1,6 +1,9 @@
 var a18053 =
 [
-    [ "npc_muradin_bronzebeard_igbAI", "db/df1/a18057.html", "db/df1/a18057" ],
-    [ "npc_muradin_bronzebeard_igb", "d0/dac/a18053.html#a1e6abc18a192b3acfa29bf03dd4eeed9", null ],
-    [ "GetAI", "d0/dac/a18053.html#af9b149e0780308f26d5adb1e6607a3ce", null ]
+    [ "npc_stinky_iccAI", "d0/dac/a18053.html#a545356eb2b77cfae7af3d470e95ea2d6", null ],
+    [ "JustDied", "d0/dac/a18053.html#a7fa392980e2d30c935b79377df8dc694", null ],
+    [ "JustEngagedWith", "d0/dac/a18053.html#afd1cd4fc387ff7cdad58c9db60841c7a", null ],
+    [ "Reset", "d0/dac/a18053.html#ac66e3398598576fdc889a7b56646eecf", null ],
+    [ "UpdateAI", "d0/dac/a18053.html#af6e04824ea1682c529e8579a306d34ca", null ],
+    [ "events", "d0/dac/a18053.html#a3ab7ae11b7f5ef5877febbd384014ce2", null ]
 ];

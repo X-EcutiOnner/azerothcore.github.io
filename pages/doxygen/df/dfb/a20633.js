@@ -1,7 +1,7 @@
 var a20633 =
 [
-    [ "HandleEffectPeriodic", "df/dfb/a20633.html#a8d2e75ee2869dc135fe83c782ec6e223", null ],
-    [ "PrepareAuraScript", "df/dfb/a20633.html#a0996c661dbc4e9a4bd35c1368247c7eb", null ],
-    [ "Register", "df/dfb/a20633.html#aed86a298340cc05fbe2a8a68396423bb", null ],
-    [ "Validate", "df/dfb/a20633.html#a1c3ecaebf11d1040fde4ce5cb80f315c", null ]
+    [ "HandleAfterEffectApply", "df/dfb/a20633.html#adab765d78094eec673abce5140145267", null ],
+    [ "OnApply", "df/dfb/a20633.html#aab4331a7a55dc6f713db02726ec22e3a", null ],
+    [ "PrepareAuraScript", "df/dfb/a20633.html#acb827ae4299ae482d9b7f3fb09bbcc52", null ],
+    [ "Register", "df/dfb/a20633.html#ac1007ce2ee5e046639829558855f0188", null ]
 ];

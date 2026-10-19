@@ -1,8 +1,11 @@
 var a14253 =
 [
-    [ "CheckCast", "d6/daa/a14253.html#add6229e3f0241ccedf446a5a37cf72ce", null ],
-    [ "HandleScriptEffect", "d6/daa/a14253.html#a36bb2b95651889eaa0321a7a327e173f", null ],
-    [ "PrepareSpellScript", "d6/daa/a14253.html#a053451bd9ae6f7d639d0a977be843bc0", null ],
-    [ "Register", "d6/daa/a14253.html#a6d16f25c93eef3c17ae6b4a43d884279", null ],
-    [ "Validate", "d6/daa/a14253.html#ab0ed12fadaea4c96c7f6e43b7b385653", null ]
+    [ "npc_scarlet_ghoul", "d6/daa/a14253.html#aa256e50446b0511a0412442245be2e82", null ],
+    [ "InitializeAI", "d6/daa/a14253.html#a5e98c4a1e9a31124dc6ca67c612db1c9", null ],
+    [ "MovementInform", "d6/daa/a14253.html#a06f14ccde727b7c875f3be8243dec2a8", null ],
+    [ "OwnerAttackedBy", "d6/daa/a14253.html#aacf81b86947124cea21fc6d2e906487f", null ],
+    [ "SetGUID", "d6/daa/a14253.html#ab3840f1d6b1e63b4707d5139b63281cc", null ],
+    [ "UpdateAI", "d6/daa/a14253.html#af8637b2a7644b917aa6ef10b31a1d1e0", null ],
+    [ "events", "d6/daa/a14253.html#ad2b3d650e151a13159e119cb3fda88a4", null ],
+    [ "gothikGUID", "d6/daa/a14253.html#a9275cf7efde4c77ce114448777f25f1e", null ]
 ];

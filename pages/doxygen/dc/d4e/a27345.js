@@ -1,6 +1,7 @@
 var a27345 =
 [
-    [ "HandleDummy", "dc/d4e/a27345.html#a86ec9b4606ae92b070edd4ca863fe93e", null ],
-    [ "PrepareSpellScript", "dc/d4e/a27345.html#a4411e4317053450a0ac5217d546952b2", null ],
-    [ "Register", "dc/d4e/a27345.html#a9eea8631e0723555a9c328bdfc1e30b7", null ]
+    [ "HandleScript", "dc/d4e/a27345.html#aa00117e677af1e236962c59b688d8a98", null ],
+    [ "Load", "dc/d4e/a27345.html#ad05b65848e35d87fb9ef1ae413de6256", null ],
+    [ "PrepareSpellScript", "dc/d4e/a27345.html#afbffeadede1cc7f08a0a52f4a7bee680", null ],
+    [ "Register", "dc/d4e/a27345.html#a52d4828ccd5430a622a32b1279943f9b", null ]
 ];

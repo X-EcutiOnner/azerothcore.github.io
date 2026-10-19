@@ -1,6 +1,6 @@
 var a14977 =
 [
-    [ "npc_soh_fire_trigger", "d3/dd7/a14977.html#a8bddde264f4848c9a8ed83dcad190223", null ],
-    [ "Reset", "d3/dd7/a14977.html#acbec442907a8b40ae04496c53f210aa2", null ],
-    [ "SpellHit", "d3/dd7/a14977.html#a6b96cc998d38c9fbf0ce93e0529c0f4c", null ]
+    [ "HandleScript", "d3/dd7/a14977.html#a465272dc4e693ab5ce5abd5a3905283b", null ],
+    [ "PrepareSpellScript", "d3/dd7/a14977.html#a26b296c1c4d9f5193dc3773509267284", null ],
+    [ "Register", "d3/dd7/a14977.html#aad66e4079ea9404b9057546d8959a395", null ]
 ];

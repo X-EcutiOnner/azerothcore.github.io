@@ -1,8 +1,6 @@
 var a23561 =
 [
-    [ "boss_hungarfen", "dd/d88/a23561.html#a009b8d34731d2310a53195024b434935", null ],
-    [ "JustEngagedWith", "dd/d88/a23561.html#a3612bb373ecdba4245587fd94257ba62", null ],
-    [ "Reset", "dd/d88/a23561.html#a4b310eff8af9a33c50ae8f2035ba76ad", null ],
-    [ "UpdateAI", "dd/d88/a23561.html#a1765bd54c04a3479e837b3d0e241300e", null ],
-    [ "_scheduler", "dd/d88/a23561.html#a702185681abb6cfc4add7078ff5bbb52", null ]
+    [ "instance_the_slave_pens_InstanceMapScript", "d5/d63/a23565.html", "d5/d63/a23565" ],
+    [ "instance_the_slave_pens", "dd/d88/a23561.html#a765f7b66ad3bed1828524ecb143742f2", null ],
+    [ "GetInstanceScript", "dd/d88/a23561.html#a0eedcecf1ddc27e139898cacf6f48965", null ]
 ];

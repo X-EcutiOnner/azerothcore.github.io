@@ -1,6 +1,7 @@
 var a18069 =
 [
-    [ "npc_igb_ship_crewAI", "d6/dbc/a18073.html", "d6/dbc/a18073" ],
-    [ "npc_igb_ship_crew", "d6/d97/a18069.html#a5f4380aba94766a6a75b97026998b881", null ],
-    [ "GetAI", "d6/d97/a18069.html#a48955817e21a01a726b50685b467c229", null ]
+    [ "DelayedMovementEvent", "d6/d97/a18069.html#a21241cde30f66ae42edb311542f7405c", null ],
+    [ "Execute", "d6/d97/a18069.html#a8287761226ee671905151891779b6efb", null ],
+    [ "_dest", "d6/d97/a18069.html#a9a0cd9830509ffdecd98ac8231350d58", null ],
+    [ "_owner", "d6/d97/a18069.html#a046942728282a997068de447271f3cbe", null ]
 ];

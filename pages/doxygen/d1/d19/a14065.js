@@ -1,11 +1,10 @@
 var a14065 =
 [
-    [ "npc_supervisor_raelen", "d1/d19/a14065.html#a2059d41f6df3a44406ab69a0dca501a4", null ],
-    [ "CallPeasent", "d1/d19/a14065.html#a0b8d661a86ec334adeb502d6936135ee", null ],
-    [ "Reset", "d1/d19/a14065.html#a656029c56da84d2d3cee7380d6032e3d", null ],
-    [ "SetData", "d1/d19/a14065.html#ab709a5a975c22556dfe71dce52a3ec2c", null ],
-    [ "UpdateAI", "d1/d19/a14065.html#a623a95d4f3ca483d1bf3dff5e06c1958", null ],
-    [ "_events", "d1/d19/a14065.html#a1ed36b07ff83a6a8a202f4a451d90190", null ],
-    [ "_PeasentId", "d1/d19/a14065.html#ae3e44b8f29f05c771137c5b9afd5da56", null ],
-    [ "peasentGUIDs", "d1/d19/a14065.html#a6e290a29c8205b22bd668f0516e8904a", null ]
+    [ "npc_professor_phizzlethorpeAI", "d1/d19/a14065.html#a92af4732575008c1a4f061cef0f23902", null ],
+    [ "JustEngagedWith", "d1/d19/a14065.html#a8864031e3c7a32cde57ca6efbf785d53", null ],
+    [ "JustSummoned", "d1/d19/a14065.html#af8e4e706925d8837cacdc0b5a6d1f10d", null ],
+    [ "sQuestAccept", "d1/d19/a14065.html#ad4a4bd9af581abe832933da69b18d76f", null ],
+    [ "UpdateAI", "d1/d19/a14065.html#a1c62cd07da5f0da91ef572bb00619d26", null ],
+    [ "WaypointReached", "d1/d19/a14065.html#a7be58c6ecc4e5ba23ec35cc1864f19e6", null ],
+    [ "WaypointReached", "d1/d19/a14065.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

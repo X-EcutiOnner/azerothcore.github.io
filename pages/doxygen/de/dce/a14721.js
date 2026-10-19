@@ -1,8 +1,6 @@
 var a14721 =
 [
-    [ "boss_venoxis", "de/dce/a14721.html#a3e91a9022163a726cbc077d38459a5f5", null ],
-    [ "InitializeAI", "de/dce/a14721.html#a1373b5fc673fce6aea1de40d970ac00d", null ],
-    [ "JustDied", "de/dce/a14721.html#a63ccc5a9520ee30b0ebaf8c4d31e59b8", null ],
-    [ "JustEngagedWith", "de/dce/a14721.html#afaa68ffbd5fecae48a044009326bcaed", null ],
-    [ "Reset", "de/dce/a14721.html#a40cbcd4d41ff85ff71d5d913d8e62368", null ]
+    [ "HandleObjectAreaTargetSelect", "de/dce/a14721.html#aa7695bddd766d5adefb04710d41894f6", null ],
+    [ "PrepareSpellScript", "de/dce/a14721.html#a77ba184428cfbb8ec3cc4670f78741e0", null ],
+    [ "Register", "de/dce/a14721.html#adbc2f1c4ec64b95ec72c82f36f12d928", null ]
 ];

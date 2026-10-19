@@ -1,6 +1,7 @@
 var a27797 =
 [
-    [ "HandleAuraApply", "de/db3/a27797.html#a19d8103126a6446fb5ade53d2b5d0ddb", null ],
-    [ "PrepareAuraScript", "de/db3/a27797.html#a7596065e5ffcacf099a5984f5d940c11", null ],
-    [ "Register", "de/db3/a27797.html#a8efa76b28dddad68fee132f37791f231", null ]
+    [ "HandleBonus", "de/db3/a27797.html#a2bf167d8561f2ef36e44fa9754f0d9a3", null ],
+    [ "PrepareAuraScript", "de/db3/a27797.html#aebf4afa25b50be9b99900ef830f26f04", null ],
+    [ "Register", "de/db3/a27797.html#ad69315b8eca4173a1e0db21cd98e9c3c", null ],
+    [ "Validate", "de/db3/a27797.html#aef0e4a0474718f61f89ff4c825923fc1", null ]
 ];

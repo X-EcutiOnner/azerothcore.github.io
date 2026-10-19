@@ -1,6 +1,7 @@
 var a10121 =
 [
-    [ "bossId", "dc/d6b/a10121.html#ac7ce1fcc568ad1fe6bc8a20957357ed8", null ],
-    [ "entry", "dc/d6b/a10121.html#a1a199d022692efe54e29a7cb90e73dee", null ],
-    [ "type", "dc/d6b/a10121.html#ab5654860b5c27654fa0346e9e92a71fc", null ]
+    [ "BindRow", "d9/daa/a10129.html", "d9/daa/a10129" ],
+    [ "InstanceRow", "d8/da9/a10125.html", "d8/da9/a10125" ],
+    [ "binds", "dc/d6b/a10121.html#a919bd3014a6ed66fe249a1726abdd625", null ],
+    [ "instances", "dc/d6b/a10121.html#a61ada11aeaf8d4c9f6b7355674d2a9ef", null ]
 ];

@@ -1,8 +1,6 @@
 var a20001 =
 [
-    [ "HandleOnEffectApply", "d1/de4/a20001.html#ac852d761940494f78b50ba3b060057a2", null ],
-    [ "HandleOnEffectRemove", "d1/de4/a20001.html#a6764750586be8b57d52a2dba87d89e76", null ],
-    [ "PrepareAuraScript", "d1/de4/a20001.html#acc93a6d463501a23b73bd1ac1f99854e", null ],
-    [ "Register", "d1/de4/a20001.html#a2cb77175d7341752bdd8733cfcfe8ed3", null ],
-    [ "Validate", "d1/de4/a20001.html#a4de69fb4aa8e1506581ed01c42dc8f76", null ]
+    [ "npc_centrifuge_constructAI", "da/d78/a20005.html", "da/d78/a20005" ],
+    [ "npc_centrifuge_construct", "d1/de4/a20001.html#a3822eca10ab4a96126e0b4685751f4d3", null ],
+    [ "GetAI", "d1/de4/a20001.html#a7356047de8a6d7bc6e903e982db2bc00", null ]
 ];

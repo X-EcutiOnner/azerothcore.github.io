@@ -1,9 +1,14 @@
 var a15585 =
 [
-    [ "npc_buru_egg", "da/d98/a15585.html#a6aa2896342b802caecde1c1dffcf4907", null ],
-    [ "JustDied", "da/d98/a15585.html#a3de169b252374f0b2daed3ecb5a11502", null ],
-    [ "JustEngagedWith", "da/d98/a15585.html#a8cde6848569671876a17b00d75228ebe", null ],
-    [ "JustSummoned", "da/d98/a15585.html#abebb96dcb3d653bddd4210da6567fb87", null ],
-    [ "UpdateAI", "da/d98/a15585.html#a4d77f8b40ea8e936c9388aeff4927420", null ],
-    [ "_instance", "da/d98/a15585.html#a5b168226755a57368f17827e3457a0ca", null ]
+    [ "boss_ayamiss", "da/d98/a15585.html#a0e923d4fa8bd6623ec58d7f64b5ea261", null ],
+    [ "DoAction", "da/d98/a15585.html#a0114a79274c34fe3dfbc8a34f39920bc", null ],
+    [ "EnterEvadeMode", "da/d98/a15585.html#a52f584da6d3d1b87fe91528dc25b8c5e", null ],
+    [ "JustDied", "da/d98/a15585.html#acddcbb06b7d5980e199ef11103fabf7c", null ],
+    [ "JustEngagedWith", "da/d98/a15585.html#aaaf1b765256f4a6342d16bd7767f92cf", null ],
+    [ "JustSummoned", "da/d98/a15585.html#a4281f761256cd93c19aea0a76239512d", null ],
+    [ "MovementInform", "da/d98/a15585.html#a6bc1f0767785efb5a5fb005b49338032", null ],
+    [ "Reset", "da/d98/a15585.html#a10111f97236c2846181aa20f7d9b64fd", null ],
+    [ "ScheduleTasks", "da/d98/a15585.html#a166238b9395a426a7333cf71a38c6c5c", null ],
+    [ "_swarmers", "da/d98/a15585.html#aa6dd99f8085d1424acf07cc124ac210c", null ],
+    [ "homePos", "da/d98/a15585.html#ab098ee0f8872d1cf9d34993c01971921", null ]
 ];

@@ -1,6 +1,6 @@
 var a17613 =
 [
-    [ "HandleDummy", "da/d7f/a17613.html#aef592aafe931351186edf98f7aba7e22", null ],
-    [ "PrepareSpellScript", "da/d7f/a17613.html#ab79a160e0d5b0c6e0ecfa842a4da2819", null ],
-    [ "Register", "da/d7f/a17613.html#a7594952f23cba22b886c2c3b10f363d4", null ]
+    [ "npc_pos_collapsing_icicleAI", "d6/df0/a17617.html", "d6/df0/a17617" ],
+    [ "npc_pos_collapsing_icicle", "da/d7f/a17613.html#a42b29fe5d4e106c1e5e5b866a0074664", null ],
+    [ "GetAI", "da/d7f/a17613.html#a96969ebe749b49ceb38920c63ec6fce3", null ]
 ];

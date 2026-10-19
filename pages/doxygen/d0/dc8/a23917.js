@@ -1,10 +1,9 @@
 var a23917 =
 [
-    [ "boss_thorngrin_the_tender", "d0/dc8/a23917.html#ad960b1084fc08d2870975c7c6c44ab2b", null ],
-    [ "JustDied", "d0/dc8/a23917.html#a4bc13108f7cb240fedb44ccae2b54047", null ],
-    [ "JustEngagedWith", "d0/dc8/a23917.html#a647ed5b29861b719d3c4a11fd110c512", null ],
-    [ "KilledUnit", "d0/dc8/a23917.html#ab3731c5b56e1c01aa5d78d84a5e60234", null ],
-    [ "MoveInLineOfSight", "d0/dc8/a23917.html#a9467e59287b3e917907de82507d1a16d", null ],
-    [ "Reset", "d0/dc8/a23917.html#af3f1471cbcdadfe3a86421d7232fb4b9", null ],
-    [ "_intro", "d0/dc8/a23917.html#a48fc89c7e9814d90a8724ca38c5e2fe8", null ]
+    [ "boss_dalliah_the_doomsayer", "d0/dc8/a23917.html#ad6edf9623942297b28bc7420ec0cc733", null ],
+    [ "InitializeAI", "d0/dc8/a23917.html#a85342ef80a64ce05f87cf7d90a8bfe79", null ],
+    [ "JustDied", "d0/dc8/a23917.html#a431edc9c25fb125d7d267073eb1c1423", null ],
+    [ "JustEngagedWith", "d0/dc8/a23917.html#a6d3d8d027ddb08417dd11f1606a1418f", null ],
+    [ "KilledUnit", "d0/dc8/a23917.html#af28bfc1166ad45bf7bc046f5906a8b11", null ],
+    [ "Reset", "d0/dc8/a23917.html#a5b4f186225a55afdf1de80b7126d10eb", null ]
 ];

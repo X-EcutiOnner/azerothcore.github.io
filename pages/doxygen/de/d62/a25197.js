@@ -1,7 +1,5 @@
 var a25197 =
 [
-    [ "CheckProc", "de/d62/a25197.html#ab376febda606dba5e9f7f5639f867859", null ],
-    [ "HandleProc", "de/d62/a25197.html#aa8dac7f0a238f6f131553cbc7a142594", null ],
-    [ "PrepareAuraScript", "de/d62/a25197.html#a7693a86824050ff5615996d0d03d0292", null ],
-    [ "Register", "de/d62/a25197.html#a458745913288889f687bb19a147cb0fb", null ]
+    [ "PrepareSpellScript", "de/d62/a25197.html#a41169895bb29fe136e3fb0c2dd50d9fb", null ],
+    [ "Register", "de/d62/a25197.html#ab6a32b26cc0277f71a71b9fd1d567bf1", null ]
 ];

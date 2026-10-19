@@ -1,7 +1,6 @@
 var a21513 =
 [
-    [ "PrepareAuraScript", "db/ddd/a21513.html#a2b5894cd889205f19ac2c6ea5a535a82", null ],
-    [ "Register", "db/ddd/a21513.html#a95b0bcb7f3027cb63711c74befbd74ea", null ],
-    [ "TriggerFists", "db/ddd/a21513.html#a2df5a013ba1b3c5b57d628fd59a9073a", null ],
-    [ "Validate", "db/ddd/a21513.html#a2b7c45343d17839d85bf64ed36afd45c", null ]
+    [ "instance_utgarde_pinnacle_InstanceMapScript", "d2/de9/a21517.html", "d2/de9/a21517" ],
+    [ "instance_utgarde_pinnacle", "db/ddd/a21513.html#a70c1528c9c1b0d830cc7af7debd5721b", null ],
+    [ "GetInstanceScript", "db/ddd/a21513.html#a41bd06d5f42b09193c5f1b2bbb2323ac", null ]
 ];

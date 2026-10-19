@@ -1,12 +1,7 @@
 var a02306 =
 [
-    [ "UpdateException", "dd/d54/a06323.html", "dd/d54/a06323" ],
-    [ "DBUpdaterUtil", "d4/d7c/a06327.html", "d4/d7c/a06327" ],
-    [ "DBUpdaterInfo", "dc/d3f/a06331.html", "dc/d3f/a06331" ],
-    [ "DBUpdater< T >", "d3/db3/a06335.html", "d3/db3/a06335" ],
-    [ "ModuleDBUpdater", "d4/d67/a06339.html", "d4/d67/a06339" ],
-    [ "BaseLocation", "d3/dc5/a02306.html#a0c382fe144b0dc101a8b2b9d4ef51010", [
-      [ "LOCATION_REPOSITORY", "d3/dc5/a02306.html#a0c382fe144b0dc101a8b2b9d4ef51010a7c7f50c7daf1a5f1773676cc90cc9550", null ],
-      [ "LOCATION_DOWNLOAD", "d3/dc5/a02306.html#a0c382fe144b0dc101a8b2b9d4ef51010a02f1af050478ebf9488ea00a47c7e11c", null ]
-    ] ]
+    [ "UpdateResult", "db/de4/a06353.html", "db/de4/a06353" ],
+    [ "UpdateFetcher", "dc/d97/a06357.html", "dc/d97/a06357" ],
+    [ "UpdateFetcher::AppliedFileEntry", "d0/d3e/a06361.html", "d0/d3e/a06361" ],
+    [ "UpdateFetcher::PathCompare", "dc/d1b/a06365.html", "dc/d1b/a06365" ]
 ];

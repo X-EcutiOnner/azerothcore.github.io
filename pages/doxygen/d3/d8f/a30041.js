@@ -1,7 +1,10 @@
 var a30041 =
 [
-    [ "SetUp", "d3/d8f/a30041.html#a63d060f7643fc3d35eb4f0fd082f1af4", null ],
-    [ "TearDown", "d3/d8f/a30041.html#a685e2dbb620ab792ed3e952cf2b5dab8", null ],
-    [ "_originalWorld", "d3/d8f/a30041.html#aec7f3f7af8f936fb2419cee4be837eb7", null ],
-    [ "_worldMock", "d3/d8f/a30041.html#a2d10e74ba4f778b395a48eb68a586711", null ]
+    [ "FakeAura", "d3/d8f/a30041.html#a72674203b5aa768aaec46bc824c66ad8", null ],
+    [ "IsExpired", "d3/d8f/a30041.html#af55fe68d7548abe43fbbe391163dcbf4", null ],
+    [ "IsRemoved", "d3/d8f/a30041.html#ad4b4a547d5596ad39d46125ded1c0863", null ],
+    [ "expired", "d3/d8f/a30041.html#a9de4d15b90ea8e89a5a3dd95122f5ff9", null ],
+    [ "removed", "d3/d8f/a30041.html#a0ea41ca4e60c4c56228687ca6038695f", null ],
+    [ "spellId", "d3/d8f/a30041.html#ab08e902dae2b24d869c2befe1e9a74a2", null ],
+    [ "updated", "d3/d8f/a30041.html#aacbde7f93cb160ed272a4b3ddd18f1ee", null ]
 ];

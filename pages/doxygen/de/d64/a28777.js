@@ -1,5 +1,6 @@
 var a28777 =
 [
-    [ "QuestApprenticeAnglerPlayerScript", "de/d64/a28777.html#afaa929276f8b131005c9b94daa9a09f9", null ],
-    [ "OnPlayerCompleteQuest", "de/d64/a28777.html#a029ef1ccdd42af2ff9223ab699c3942f", null ]
+    [ "npc_fireworkAI", "d0/dcf/a28781.html", "d0/dcf/a28781" ],
+    [ "npc_firework", "de/d64/a28777.html#a9efb6ed098e4eb3e24c30393cb5cb45d", null ],
+    [ "GetAI", "de/d64/a28777.html#a9732f7b6eb8b3638bb6280ff7a71bcf7", null ]
 ];

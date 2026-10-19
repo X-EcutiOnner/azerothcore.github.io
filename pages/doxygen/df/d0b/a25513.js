@@ -1,7 +1,6 @@
 var a25513 =
 [
-    [ "HandleScript", "df/d0b/a25513.html#a466db5b8dc15a196d67dfcbef3d810e1", null ],
-    [ "PrepareSpellScript", "df/d0b/a25513.html#a7909f23da8385abdabb62e5196d88d38", null ],
-    [ "Register", "df/d0b/a25513.html#aa45c1c80f137dd90b5f0e06e19f09da6", null ],
-    [ "Validate", "df/d0b/a25513.html#a04e81472bfefb794024e9c4cc0e4d70b", null ]
+    [ "HandleScript", "df/d0b/a25513.html#af6d3dd97d3254dbfcd6b611b26e0e61d", null ],
+    [ "PrepareSpellScript", "df/d0b/a25513.html#a59b5637aa8a29611463fbaabc6db2bb8", null ],
+    [ "Register", "df/d0b/a25513.html#a54bb0fe145f99ea484724052c8bb1227", null ]
 ];

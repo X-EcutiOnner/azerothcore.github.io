@@ -1,8 +1,8 @@
 var a21053 =
 [
-    [ "boss_yoggsaron_guardian_of_ys", "de/d51/a21053.html#ad66fab16b309b62895578d46e8a2e730", null ],
-    [ "JustDied", "de/d51/a21053.html#a12ce3fef2fba8d92945249cf8920a0b4", null ],
-    [ "Reset", "de/d51/a21053.html#ac803a9da5223db459b9ec48435e59c30", null ],
-    [ "UpdateAI", "de/d51/a21053.html#a573576eaff2cbd4f779675e19ad53dea", null ],
-    [ "_spellTimer", "de/d51/a21053.html#a5922d21c4606ab9a41e20948dc926cea", null ]
+    [ "npc_xt_toy_pile", "de/d51/a21053.html#a843e7d05cf62baa5c006077f8dad107d", null ],
+    [ "SpellHit", "de/d51/a21053.html#a82af3830eaf524c587334e8eb193925f", null ],
+    [ "_lastSummonTime", "de/d51/a21053.html#aaa8e3581f39206c30f1b7de9a81f1387", null ],
+    [ "SummonCooldown", "de/d51/a21053.html#ab0924af7ecfd54f1744b11af76ca2834", null ],
+    [ "SummonDistance", "de/d51/a21053.html#a3adcb7a8f6ad7b515719794e0ddca964", null ]
 ];

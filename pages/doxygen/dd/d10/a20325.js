@@ -1,9 +1,5 @@
 var a20325 =
 [
-    [ "npc_thorims_hammer", "dd/d10/a20325.html#ae22f7278bd68011dc8f593ac4ccfc5ff", null ],
-    [ "Reset", "dd/d10/a20325.html#a6b7a294849ffd4a75e7f9e0ce3c7314b", null ],
-    [ "UpdateAI", "dd/d10/a20325.html#a006414298b31eb0cfb964916298d66ce", null ],
-    [ "_beamTimer", "dd/d10/a20325.html#adcd5af2b86d1d8f119514f799c42444b", null ],
-    [ "_finishTime", "dd/d10/a20325.html#aa6366b2ba9158a8560ed7289b51e96fc", null ],
-    [ "_removeTimer", "dd/d10/a20325.html#a7b9a2435b0953c12e693c562193d45e0", null ]
+    [ "achievement_auriaya_crazy_cat_lady", "dd/d10/a20325.html#a1eb5d931c7c520b7cd6f516bfcb819e4", null ],
+    [ "OnCheck", "dd/d10/a20325.html#a905b9a4389521fde6d26d3c19a0fe21c", null ]
 ];

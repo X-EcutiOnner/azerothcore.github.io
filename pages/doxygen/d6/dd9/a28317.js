@@ -1,6 +1,6 @@
 var a28317 =
 [
-    [ "go_tadpole_cageAI", "d3/dda/a28321.html", "d3/dda/a28321" ],
-    [ "go_tadpole_cage", "d6/dd9/a28317.html#a1a9acacd0ebff33d402018d4205e415b", null ],
-    [ "GetAI", "d6/dd9/a28317.html#a38990dc5edd725623b6c35dba7802612", null ]
+    [ "boss_taerarAI", "d3/dda/a28321.html", "d3/dda/a28321" ],
+    [ "boss_taerar", "d6/dd9/a28317.html#a100c1b80a50faf93088db870faa21b58", null ],
+    [ "GetAI", "d6/dd9/a28317.html#ae6615da6ee14c4f7cb3087b4ee5d6246", null ]
 ];

@@ -1,6 +1,6 @@
 var a25553 =
 [
-    [ "HandleCast", "de/dbc/a25553.html#ac6f7b9650d0a55834dafb09555692243", null ],
-    [ "PrepareSpellScript", "de/dbc/a25553.html#ab3dc21aa63f0fb9202233603106eef87", null ],
-    [ "Register", "de/dbc/a25553.html#ad6c2dc91d0973c0b8d57151dff3d9499", null ]
+    [ "HandleScript", "de/dbc/a25553.html#a1055ce8e5cbcc9d475bd9dab1f99cf92", null ],
+    [ "PrepareSpellScript", "de/dbc/a25553.html#a460823e5ad006c08d5b6378b7df279f0", null ],
+    [ "Register", "de/dbc/a25553.html#a7099938c5f14238b5afdadb6d040f931", null ]
 ];

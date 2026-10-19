@@ -1,8 +1,8 @@
 var a27913 =
 [
-    [ "ApplyEffect", "dc/dce/a27913.html#ad29ed182a00516e736bb8d1381f4ac84", null ],
-    [ "HandleEffectPeriodicUpdate", "dc/dce/a27913.html#ad5319328c018dbb3ddbd58bfc08589c4", null ],
-    [ "PrepareAuraScript", "dc/dce/a27913.html#a7673ff384e88fa76efa52ecb60b97d9b", null ],
-    [ "Register", "dc/dce/a27913.html#ade5af0ec82bc43d89919ceaaa31bce20", null ],
-    [ "_tick_amount", "dc/dce/a27913.html#a33d9f114efa50a2fdfe7a17852a474f7", null ]
+    [ "HandleDummyTick", "dc/dce/a27913.html#ad35d90e5cdd68f4c1d3172a0860274bd", null ],
+    [ "HandleRemove", "dc/dce/a27913.html#a92f2bb73ec58832eaada3c7140f7868d", null ],
+    [ "PrepareAuraScript", "dc/dce/a27913.html#a06e45d5f63ef1395b5949482e8393098", null ],
+    [ "Register", "dc/dce/a27913.html#abf1d49720ae43d4ed2fb1c2920387ace", null ],
+    [ "Validate", "dc/dce/a27913.html#a9a2da4d163a96526e14f5de76798a784", null ]
 ];

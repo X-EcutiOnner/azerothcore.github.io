@@ -1,13 +1,10 @@
 var a09689 =
 [
-    [ "WorldObjectListSearcher", "d9/dce/a09689.html#aad6ee62da3f21c7838767dd3af871ad7", null ],
-    [ "Visit", "d9/dce/a09689.html#a154998e616ba17d66cf4899debc92ca1", null ],
-    [ "Visit", "d9/dce/a09689.html#a64e8d7854baa93e4390703fe986f6777", null ],
-    [ "Visit", "d9/dce/a09689.html#a28ded6ec2d69f1a1bd298a9aa11206e1", null ],
-    [ "Visit", "d9/dce/a09689.html#a18572bc1f4cfde19476ac9df393296b2", null ],
-    [ "Visit", "d9/dce/a09689.html#a2a8a0d1f3fd10e5254a47ed99e7e9ce7", null ],
-    [ "Visit", "d9/dce/a09689.html#a8cebd0149bfccc4fdeb30dda9505f0c0", null ],
-    [ "i_check", "d9/dce/a09689.html#a6ae05d2ed15201356600cda7d0d5a6c3", null ],
-    [ "i_mapTypeMask", "d9/dce/a09689.html#a1d6dc64937ae790d7414456e4644c13b", null ],
-    [ "i_phaseMask", "d9/dce/a09689.html#a6b29bb94ed2ec6f508b25d45c11f72fd", null ]
+    [ "AIRelocationNotifier", "d9/dce/a09689.html#a05c1f74272dff612eeda6c50d1c6fb43", null ],
+    [ "Visit", "d9/dce/a09689.html#a06dd774a24d4a1da36a2a862c0ad97df", null ],
+    [ "Visit", "d9/dce/a09689.html#a0ec9a2499d73516dd2d4a0319990924a", null ],
+    [ "Visit", "d9/dce/a09689.html#a3cbdb164a6239614ef6ade13ddb5d33c", null ],
+    [ "i_unit", "d9/dce/a09689.html#ab1dd814e4d94ed2989bb07012a24d40e", null ],
+    [ "includePlayers", "d9/dce/a09689.html#ac7985b8f0282180a063ccfba7583917e", null ],
+    [ "isCreature", "d9/dce/a09689.html#a199f4b91d00dd4db90855e5521d87a95", null ]
 ];

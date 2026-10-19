@@ -1,5 +1,5 @@
 var a28505 =
 [
-    [ "item_incendiary_explosives", "dd/d25/a28505.html#a3a10f4e40374cae75a5ed320385a67f9", null ],
-    [ "OnUse", "dd/d25/a28505.html#a1e566a6a5b6cfb8b7e331a6ea94f77b4", null ]
+    [ "go_dragonflayer_cage", "dd/d25/a28505.html#a9f36ba678a1e3954f21b96b227fb999e", null ],
+    [ "OnGossipHello", "dd/d25/a28505.html#a542530a0b84879b21a4b9982cf4300d0", null ]
 ];

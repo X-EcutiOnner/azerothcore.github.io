@@ -1,7 +1,8 @@
 var a25029 =
 [
-    [ "HandleProc", "de/dcd/a25029.html#a75ddeb7696c7c2fdb8a6e9a96e2a9c48", null ],
-    [ "PrepareAuraScript", "de/dcd/a25029.html#a3e05e2ac9230a7db5bd6af31e5db88db", null ],
-    [ "Register", "de/dcd/a25029.html#a7b066f171e0f1b1642bded97c55e73f2", null ],
-    [ "Validate", "de/dcd/a25029.html#a37a1e84853948e87347b497f3d9aa675", null ]
+    [ "AfterApply", "de/dcd/a25029.html#a9c2591beacd941893338109719c03e3f", null ],
+    [ "AfterRemove", "de/dcd/a25029.html#a0be2a66b615dd926de7073392a8e5062", null ],
+    [ "PrepareAuraScript", "de/dcd/a25029.html#a4763d0c69c12611244f68ba5a5b1ccce", null ],
+    [ "Register", "de/dcd/a25029.html#a36fb81d0bf4cf92773db60a70de52dda", null ],
+    [ "Validate", "de/dcd/a25029.html#a86b51ec85105b0396972f0c3d7b770c1", null ]
 ];

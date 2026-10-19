@@ -1,8 +1,10 @@
 var a27525 =
 [
-    [ "CheckProc", "d3/d31/a27525.html#a6abcfe33cfddde117eb9d19bdf834c3f", null ],
-    [ "HandleProc", "d3/d31/a27525.html#a4ee92efd0a312f7b5b4e0e19184cd085", null ],
-    [ "PrepareAuraScript", "d3/d31/a27525.html#ac45288980b444c92daecc1392a2cd38c", null ],
-    [ "Register", "d3/d31/a27525.html#ac93280657ee8d64aced09b95dac270d4", null ],
-    [ "Validate", "d3/d31/a27525.html#ad7b22c7da5d72a392d342624c46b456b", null ]
+    [ "HandleProc", "d3/d31/a27525.html#af7ed59bccd5a9db04e37753e813377b6", null ],
+    [ "OnRemove", "d3/d31/a27525.html#a7dbe609ad8ced19cfa2b5625ed2a3923", null ],
+    [ "PrepareAuraScript", "d3/d31/a27525.html#a2280ebe1a928d0962c7f67e22405db18", null ],
+    [ "Register", "d3/d31/a27525.html#a1e53dfab9d98846d404ea7f57555c941", null ],
+    [ "SetRedirectTarget", "d3/d31/a27525.html#a6ed3efbadf6936d9c2f81ab1b97595ab", null ],
+    [ "Validate", "d3/d31/a27525.html#ad371bd41e4653c0a8b729321dbc830a1", null ],
+    [ "_redirectTarget", "d3/d31/a27525.html#a9baf177530d3096f06e8f37220cfb0fa", null ]
 ];

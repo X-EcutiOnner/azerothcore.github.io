@@ -1,7 +1,8 @@
 var a20413 =
 [
-    [ "achievement_flame_leviathan_garage", "de/d84/a20413.html#a1893b4059d7212d023c45bb828bb1905", null ],
-    [ "OnCheck", "de/d84/a20413.html#aa5897eb1fadeda4dda9f2390053d89b6", null ],
-    [ "_entry1", "de/d84/a20413.html#af482d6c1b2681b9fec572281620a86b7", null ],
-    [ "_entry2", "de/d84/a20413.html#a41e83b47c411dc6a6aff310ae7059f4e", null ]
+    [ "CheckCast", "de/d84/a20413.html#a71566abe41cec09cbb414d4e1be53c8f", null ],
+    [ "PrepareSpellScript", "de/d84/a20413.html#ab3c4e4c1ef59fda87cd2b1fb119882c8", null ],
+    [ "Register", "de/d84/a20413.html#a403728403abd55efdbfe1c835e9799bb", null ],
+    [ "SelectAvailableSeat", "de/d84/a20413.html#a71101aaf195d64a2fe6c821ad1d5379d", null ],
+    [ "SelectSeat", "de/d84/a20413.html#a466691f96780f607b52b853c83ddbae4", null ]
 ];

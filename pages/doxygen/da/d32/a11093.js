@@ -1,6 +1,7 @@
 var a11093 =
 [
-    [ "QueryGuildInfo", "da/d32/a11093.html#a34b129b3c9fef61aa4211a9bc2783aef", null ],
-    [ "Read", "da/d32/a11093.html#a0396a58ca114706f7de91f51c5ab949d", null ],
-    [ "GuildId", "da/d32/a11093.html#ad221eecdb16233251306fff3d9801f38", null ]
+    [ "Emote", "da/d32/a11093.html#acb1620d125ffb11fe43caf4ebf27d1be", null ],
+    [ "Write", "da/d32/a11093.html#a3f5532f40b59f47423d2b4e3749da88e", null ],
+    [ "EmoteID", "da/d32/a11093.html#a7f4d3ee4353b408f8c795e6fdc552e76", null ],
+    [ "Guid", "da/d32/a11093.html#ab96a1c0933e90872f54eb0995098274a", null ]
 ];

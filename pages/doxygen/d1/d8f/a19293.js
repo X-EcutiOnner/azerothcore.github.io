@@ -1,5 +1,7 @@
 var a19293 =
 [
-    [ "at_icc_start_blood_quickening", "d1/d8f/a19293.html#a544b0591b19a62e5c8a6efcfffd98326", null ],
-    [ "OnTrigger", "d1/d8f/a19293.html#a814670e127b1eace6068a553b23d00f7", null ]
+    [ "HandleEvent", "d1/d8f/a19293.html#a7aea0f5c4cd3765a8266e5478322910b", null ],
+    [ "PrepareSpellScript", "d1/d8f/a19293.html#a2e59f7f9eb67790c59c2e94cf877b4f3", null ],
+    [ "Register", "d1/d8f/a19293.html#a96c6a479141f765b9c0f96b5f148a428", null ],
+    [ "Validate", "d1/d8f/a19293.html#aa86d2cea5cb41b1e0a86248d95b5bfdb", null ]
 ];

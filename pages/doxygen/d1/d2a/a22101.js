@@ -1,7 +1,8 @@
 var a22101 =
 [
-    [ "HandleDummy", "d1/d2a/a22101.html#abb5726c8afa66a946eefc8767094ea9b", null ],
-    [ "PrepareSpellScript", "d1/d2a/a22101.html#ab5d9f8125c75bbd8fbb2717516d3eddd", null ],
-    [ "Register", "d1/d2a/a22101.html#a38efc59fcbb40469521419723a1dceb3", null ],
-    [ "Validate", "d1/d2a/a22101.html#a93cf1b5dbc23bb25c4fe8aa24da0fd2e", null ]
+    [ "npc_ravenous_worgAI", "d1/d2a/a22101.html#a5404516869e171c84b774f2a7b8be15d", null ],
+    [ "AttackStart", "d1/d2a/a22101.html#a593d218d8cb083a7e37f81d3952c6d4c", null ],
+    [ "UpdateAI", "d1/d2a/a22101.html#aeb64d5bde5ef9d8c2a62662bb72d3049", null ],
+    [ "_attack", "d1/d2a/a22101.html#a3df5c98821ba33a40e25e7b050858b96", null ],
+    [ "_pacified", "d1/d2a/a22101.html#a0da1f59a6fc9cdf39c9cced1eb52acba", null ]
 ];

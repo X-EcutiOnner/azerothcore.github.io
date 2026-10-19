@@ -1,6 +1,7 @@
 var a03908 =
 [
-    [ "MapScript< BattlegroundMap >", "dc/dce/a03908.html#a37068ff91511f7df359c3cf9be0e8d72", null ],
-    [ "MapScript< InstanceMap >", "dc/dce/a03908.html#aad36f2a434a53db1767a65fa0a1dffdc", null ],
-    [ "MapScript< Map >", "dc/dce/a03908.html#aacb4fdedfc86aea6c855e3be41e0c6e1", null ]
+    [ "anonymous_namespace{ScriptMgr.cpp}::ScriptTypeInfo< Script, EnabledHookCountValue, PromotedAfterDbLoadValue, LegacyDbValidationValue >", "dc/d18/a10973.html", "dc/d18/a10973" ],
+    [ "TSpellSummary", "d4/d5f/a06653.html", "d4/d5f/a06653" ],
+    [ "ScriptRegistryTypes", "dc/dce/a03908.html#a0e91545a04304e85e47b9e1697318ecb", null ],
+    [ "SpellSummary", "dc/dce/a03908.html#ae56af266ccaa1794f1f014938b07e9cc", null ]
 ];

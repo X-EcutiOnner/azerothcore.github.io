@@ -1,6 +1,5 @@
 var a24309 =
 [
-    [ "npc_infernal_attackerAI", "d4/d21/a24313.html", "d4/d21/a24313" ],
-    [ "npc_infernal_attacker", "d5/d3b/a24309.html#ac6fbfcf8fc918b48d6b9416a71cfe3fa", null ],
-    [ "GetAI", "d5/d3b/a24309.html#ad1d9186c186de36efbe102a07fe89de4", null ]
+    [ "at_commander_dawnforge", "d5/d3b/a24309.html#a1dfd7eb69ae515a59887c313001e4a4e", null ],
+    [ "OnTrigger", "d5/d3b/a24309.html#a240a2a8a3de913c840c0a14fa4427e7e", null ]
 ];

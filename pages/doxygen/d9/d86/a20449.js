@@ -1,14 +1,6 @@
 var a20449 =
 [
-    [ "boss_freya_summons", "d9/d86/a20449.html#a1d53e3d32307347532f96ca2b27734cb", null ],
-    [ "IsSummonedBy", "d9/d86/a20449.html#a631605e67e488590d8d96d4807d13cd2", null ],
-    [ "JustDied", "d9/d86/a20449.html#a15d9b71a31a840917b449c0094049e00", null ],
-    [ "JustEngagedWith", "d9/d86/a20449.html#a0bf2a4bc2e6f62cdec5c15d04fff2f11", null ],
-    [ "Reset", "d9/d86/a20449.html#af7e842a7bc2be806816a942026670d71", null ],
-    [ "ReviveWithAllies", "d9/d86/a20449.html#acec319d89a49da510093411f681fb950", null ],
-    [ "UpdateAI", "d9/d86/a20449.html#abc3634dce208478e82d3c9bb19d222df", null ],
-    [ "_hasDied", "d9/d86/a20449.html#a145f46cfda95e50fa30c98581a30de9e", null ],
-    [ "_isTrio", "d9/d86/a20449.html#a642a937b7d4082b5f9f0fbe4df352aba", null ],
-    [ "_setId", "d9/d86/a20449.html#a3898bc77baa92fd0031aea5bbef5eb80", null ],
-    [ "events", "d9/d86/a20449.html#a3fc5f9be80cc03bed2a83cdacfc5d7ec", null ]
+    [ "achievement_flame_leviathan_towers", "d9/d86/a20449.html#a491d66bdd373b6044e406126719ef910", null ],
+    [ "OnCheck", "d9/d86/a20449.html#ad6e9dee3f05afaca0a355b714bf75ea6", null ],
+    [ "_towerCount", "d9/d86/a20449.html#a1099385340b30a1a75655e2e7d2ba3cc", null ]
 ];

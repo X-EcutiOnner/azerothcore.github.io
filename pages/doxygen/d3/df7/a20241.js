@@ -1,6 +1,7 @@
 var a20241 =
 [
-    [ "HandleInstaKill", "d3/df7/a20241.html#a9371a2cc86616fd04e47939d45f01cae", null ],
-    [ "PrepareSpellScript", "d3/df7/a20241.html#a38eed301f1db3ea7ac15b626e5927500", null ],
-    [ "Register", "d3/df7/a20241.html#a9aaf3e86a2c14ee79cc013b3978621ee", null ]
+    [ "HandlePeriodic", "d3/df7/a20241.html#a14fd25f78c9e2bfbdaeb07f3233628b6", null ],
+    [ "PrepareAuraScript", "d3/df7/a20241.html#ad78b06733a8609dd39e885db2f23edba", null ],
+    [ "Register", "d3/df7/a20241.html#ac9ae9be546964752869163896c4045dd", null ],
+    [ "Validate", "d3/df7/a20241.html#afcca84d03b29ef7569c03f973a6c191b", null ]
 ];

@@ -1,7 +1,5 @@
 var a17473 =
 [
-    [ "UtherBatteredHiltEvent", "d8/d10/a17473.html#a7bb34b75a3e371260a231aea72f75b40", null ],
-    [ "Execute", "d8/d10/a17473.html#ad2eb37877155b6dbc9916338e30d0306", null ],
-    [ "_eventId", "d8/d10/a17473.html#a5045e057b2c5d468aa579751d2c799b8", null ],
-    [ "_owner", "d8/d10/a17473.html#a588974708f4a48f5a7b097a63a0c0899", null ]
+    [ "at_hor_shadow_throne", "d8/d10/a17473.html#a342808808be75079acf6a2f930afe930", null ],
+    [ "OnTrigger", "d8/d10/a17473.html#a47deb4d6506e859d90fcf16d72e43d9c", null ]
 ];

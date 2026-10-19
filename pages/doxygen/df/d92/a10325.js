@@ -1,11 +1,10 @@
 var a10325 =
 [
-    [ "StaticVMapCollisionData", "df/d92/a10325.html#a5955532316bc6409c104197b086d3e3b", null ],
-    [ "GetAreaAndLiquidData", "df/d92/a10325.html#afcbfd82bc43ad5dbce5edc35608a0d38", null ],
-    [ "getHeight", "df/d92/a10325.html#ad5b245ec62bf370a479c8fdb0eec1f40", null ],
-    [ "GetObjectHitPos", "df/d92/a10325.html#aacf3e526a4e52c8515b3a8004e6b0a1a", null ],
-    [ "isInLineOfSight", "df/d92/a10325.html#a79f47e4eafe0db4e449ec202ad3ef580", null ],
-    [ "MapCollisionData", "df/d92/a10325.html#a472038a89678719bf8868ab0c75e394f", null ],
-    [ "_mapId", "df/d92/a10325.html#a9ea6ece2bfd70cb74cbd4f6a9060e5eb", null ],
-    [ "_staticTree", "df/d92/a10325.html#a4d73d970aa85dbbd9c70633addcdaf13", null ]
+    [ "ZoneDynamicInfo", "df/d92/a10325.html#a0542940fdcc273a4ff8a8e8bb6a40b1f", null ],
+    [ "DefaultWeather", "df/d92/a10325.html#a8c2c7772596ec58413bee2077e46790f", null ],
+    [ "LightFadeInTime", "df/d92/a10325.html#a0be8cff9a7e74add7bba8af3be993e48", null ],
+    [ "MusicId", "df/d92/a10325.html#a3ab0244b34c30cc7d929b418da31d7d3", null ],
+    [ "OverrideLightId", "df/d92/a10325.html#a0d43acd5539d3449b7c36ee88518346e", null ],
+    [ "WeatherGrade", "df/d92/a10325.html#a923c3231c49554addd1522f0ccc50e2d", null ],
+    [ "WeatherId", "df/d92/a10325.html#a4df1e694992a3c2638460601e4c4d7c9", null ]
 ];

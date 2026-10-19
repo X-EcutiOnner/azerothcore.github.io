@@ -1,5 +1,7 @@
 var a08553 =
 [
-    [ "GossipActionMenuId", "d2/dad/a08553.html#a377beba97be2b81a0c2bbeb933f1927b", null ],
-    [ "GossipActionPoi", "d2/dad/a08553.html#afdaf27e370e3c84659fdc3784cafad29", null ]
+    [ "CreatureSpellCooldown", "d2/dad/a08553.html#a6d234a93951992640df5720a2885be3e", null ],
+    [ "CreatureSpellCooldown", "d2/dad/a08553.html#a53364a501b0ce66e05ec0e6638f6cb6e", null ],
+    [ "category", "d2/dad/a08553.html#a27330a80d711087f1894b2ce816c33b8", null ],
+    [ "end", "d2/dad/a08553.html#a9c1c5f2b6e9a6cd015085e79b043e483", null ]
 ];

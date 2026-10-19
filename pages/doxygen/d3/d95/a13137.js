@@ -1,7 +1,7 @@
 var a13137 =
 [
-    [ "HandleHit", "d3/d95/a13137.html#a87777dce0e2bf1deba600b3ae7ce6b9c", null ],
-    [ "Load", "d3/d95/a13137.html#ab61b4076aab18c0a6593c234209a2c1d", null ],
-    [ "PrepareSpellScript", "d3/d95/a13137.html#a9fb8d980381264a2ef645f2e620abd21", null ],
-    [ "Register", "d3/d95/a13137.html#a4998015873f0e0ca768c20b0f95fda90", null ]
+    [ "HandleHit", "d3/d95/a13137.html#a18f86449945ade16140ee934a7d8703e", null ],
+    [ "PrepareSpellScript", "d3/d95/a13137.html#abaf09043858db27b05fbe544d7a15a8f", null ],
+    [ "Register", "d3/d95/a13137.html#abe0733be2e32ff616c48acaeeb1d39e9", null ],
+    [ "Validate", "d3/d95/a13137.html#abc970a8b4a8f27f81f392cebf81dc574", null ]
 ];

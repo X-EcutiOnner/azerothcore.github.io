@@ -1,6 +1,6 @@
 var a26009 =
 [
-    [ "HandleScriptEffect", "d9/db0/a26009.html#a94bbfc928beab8c8f27d84d1c9ab1558", null ],
-    [ "PrepareSpellScript", "d9/db0/a26009.html#a479832175a4c77ce0c0a2f3d3f98f08c", null ],
-    [ "Register", "d9/db0/a26009.html#aff9efad03d94958c29c84ea3c0d19fdb", null ]
+    [ "OnBaseRemove", "d9/db0/a26009.html#aa6d10399bba721ff7a3651508fcdf449", null ],
+    [ "PrepareAuraScript", "d9/db0/a26009.html#a34ad4890c7ce30427537e36980057e57", null ],
+    [ "Register", "d9/db0/a26009.html#a713e694cad6f1cf533d45f5d633da36e", null ]
 ];

@@ -1,7 +1,6 @@
 var a16993 =
 [
-    [ "npc_toc_shadow_priestAI", "dd/dd6/a16993.html#af13a18be542fb314c19af52f89d216b8", null ],
-    [ "myCanCast", "dd/dd6/a16993.html#a83422ff3e140b57a484d98876a9a8070", null ],
-    [ "UpdateAI", "dd/dd6/a16993.html#afc23ba15d3ee925212e77b5211504c2b", null ],
-    [ "events", "dd/dd6/a16993.html#a31665a22920b416d7423958a3e2928ec", null ]
+    [ "npc_toc_druidAI", "d2/d61/a16997.html", "d2/d61/a16997" ],
+    [ "npc_toc_druid", "dd/dd6/a16993.html#a07321d5ee164b8e47f652f9bad65216b", null ],
+    [ "GetAI", "dd/dd6/a16993.html#a4f33e8f3649c0b398448cd01666cf92b", null ]
 ];

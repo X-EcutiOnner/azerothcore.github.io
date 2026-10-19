@@ -1,10 +1,12 @@
 var a17425 =
 [
-    [ "boss_frostsworn_general", "d0/d44/a17425.html#adae1b1d60e78a33b875ac08312a454cf", null ],
-    [ "EnterEvadeMode", "d0/d44/a17425.html#a20949ffa7c4a308fbcafbdec6602e623", null ],
-    [ "JustDied", "d0/d44/a17425.html#a14741cafce857fa819418ec3208c62fc", null ],
-    [ "JustEngagedWith", "d0/d44/a17425.html#aaeb45f61ee90fc231e893bc83a01e2ff", null ],
-    [ "Reset", "d0/d44/a17425.html#a1576562e5fe2247235b152029aa8edce", null ],
-    [ "UpdateAI", "d0/d44/a17425.html#ab1378c39cdfeccda862a4ccc093ffd97", null ],
-    [ "instance", "d0/d44/a17425.html#ab04347cee4d7542171d622cfde936cb1", null ]
+    [ "boss_marwyn", "d0/d44/a17425.html#ad0d7ef02952d4f4a2c8ce1f5099e4bdd", null ],
+    [ "DoAction", "d0/d44/a17425.html#a7bd848b407d33942f05b48b6284506bb", null ],
+    [ "EnterEvadeMode", "d0/d44/a17425.html#a93849e995d62ba5a220e08157d8758fa", null ],
+    [ "JustDied", "d0/d44/a17425.html#a89fd620d0e74675d671cb69cc917d024", null ],
+    [ "JustEngagedWith", "d0/d44/a17425.html#a038ed3e1a8c9f3f3bc7f7eca584ad5cd", null ],
+    [ "KilledUnit", "d0/d44/a17425.html#aad4dd7a1fb79c704c7e59581f938d2e9", null ],
+    [ "Reset", "d0/d44/a17425.html#a0e25c5d894b7e20c6a1781410847c1fa", null ],
+    [ "UpdateAI", "d0/d44/a17425.html#ae8d1b8908983af8bff1f13641472817f", null ],
+    [ "_startingFight", "d0/d44/a17425.html#aee335b57c5249ecd4ce843e0f1694e80", null ]
 ];

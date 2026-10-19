@@ -1,16 +1,23 @@
 var a03437 =
 [
-    [ "instance_azjol_nerub", "d2/d1f/a16531.html", "d2/d1f/a16531" ],
-    [ "instance_azjol_nerub::instance_azjol_nerub_InstanceScript", "da/dd3/a16535.html", "da/dd3/a16535" ],
-    [ "spell_azjol_nerub_fixate", "d1/d5e/a16539.html", "d1/d5e/a16539" ],
-    [ "spell_azjol_nerub_web_wrap_aura", "d3/d1c/a16543.html", "d3/d1c/a16543" ],
-    [ "spell_azjol_drain_power", "d7/d8e/a16547.html", "d7/d8e/a16547" ],
-    [ "DrainPowerSpells", "d5/d56/a03437.html#aedcc9d94ea725aa97c3761980e653527", [
-      [ "SPELL_DRAIN_POWER_AURA", "d5/d56/a03437.html#aedcc9d94ea725aa97c3761980e653527ae0ad6955af5cca2c49a4502fa6b7dea9", null ]
-    ] ],
-    [ "AddSC_instance_azjol_nerub", "d5/d56/a03437.html#a58deb67f6fb8962cfe1dfd044fdaabdb", null ],
-    [ "boundaries", "d5/d56/a03437.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
-    [ "creatureData", "d5/d56/a03437.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "d5/d56/a03437.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "summonData", "d5/d56/a03437.html#af7ba92b4a76e9cb7835c84a49f9c2052", null ]
+    [ "WorldPackets::Item::SplitItem", "d0/d5e/a11373.html", "d0/d5e/a11373" ],
+    [ "WorldPackets::Item::SwapInventoryItem", "da/da4/a11377.html", "da/da4/a11377" ],
+    [ "WorldPackets::Item::AutoEquipItemSlot", "d2/d50/a11381.html", "d2/d50/a11381" ],
+    [ "WorldPackets::Item::SwapItem", "d9/dab/a11385.html", "d9/dab/a11385" ],
+    [ "WorldPackets::Item::AutoEquipItem", "d2/dbf/a11389.html", "d2/dbf/a11389" ],
+    [ "WorldPackets::Item::DestroyItem", "d7/d3b/a11393.html", "d7/d3b/a11393" ],
+    [ "WorldPackets::Item::ReadItem", "d6/d22/a11397.html", "d6/d22/a11397" ],
+    [ "WorldPackets::Item::SellItem", "d5/dc9/a11401.html", "d5/dc9/a11401" ],
+    [ "WorldPackets::Item::BuybackItem", "d6/d5e/a11405.html", "d6/d5e/a11405" ],
+    [ "WorldPackets::Item::BuyItemInSlot", "d0/da2/a11409.html", "d0/da2/a11409" ],
+    [ "WorldPackets::Item::BuyItem", "d2/d2d/a11413.html", "d2/d2d/a11413" ],
+    [ "WorldPackets::Item::ListInventory", "d6/d2e/a11417.html", "d6/d2e/a11417" ],
+    [ "WorldPackets::Item::AutoStoreBagItem", "d7/d62/a11421.html", "d7/d62/a11421" ],
+    [ "WorldPackets::Item::EnchantmentLog", "dd/d54/a11425.html", "dd/d54/a11425" ],
+    [ "WorldPackets::Item::ItemEnchantTimeUpdate", "dc/d35/a11429.html", "dc/d35/a11429" ],
+    [ "WorldPackets::Item::WrapItem", "d5/d8a/a11433.html", "d5/d8a/a11433" ],
+    [ "WorldPackets::Item::SocketGems", "d8/dad/a11437.html", "d8/dad/a11437" ],
+    [ "WorldPackets::Item::CancelTempEnchantment", "dd/d72/a11441.html", "dd/d72/a11441" ],
+    [ "WorldPackets::Item::ItemRefundInfo", "d0/d81/a11445.html", "d0/d81/a11445" ],
+    [ "WorldPackets::Item::ItemRefund", "d5/d33/a11449.html", "d5/d33/a11449" ]
 ];

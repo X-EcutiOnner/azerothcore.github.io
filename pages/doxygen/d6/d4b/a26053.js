@@ -1,5 +1,6 @@
 var a26053 =
 [
-    [ "PrepareSpellScript", "d6/d4b/a26053.html#a065d81d698c978bcdd234712807e9098", null ],
-    [ "Register", "d6/d4b/a26053.html#a3efcd145189b27272495110c799cf14f", null ]
+    [ "HandleScriptEffect", "d6/d4b/a26053.html#a94bbfc928beab8c8f27d84d1c9ab1558", null ],
+    [ "PrepareSpellScript", "d6/d4b/a26053.html#a479832175a4c77ce0c0a2f3d3f98f08c", null ],
+    [ "Register", "d6/d4b/a26053.html#aff9efad03d94958c29c84ea3c0d19fdb", null ]
 ];

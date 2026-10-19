@@ -1,6 +1,6 @@
 var a23401 =
 [
-    [ "instance_serpentshrine_cavern_InstanceMapScript", "dc/d19/a23405.html", "dc/d19/a23405" ],
-    [ "instance_serpent_shrine", "d0/da2/a23401.html#aac4fc7113307805138ba4ce4a9adff09", null ],
-    [ "GetInstanceScript", "d0/da2/a23401.html#aa81add2f4aeb8b2084bcc81c05b606c7", null ]
+    [ "HandleDummy", "d0/da2/a23401.html#a3347413822ce083085bcf1418fbdbae2", null ],
+    [ "PrepareSpellScript", "d0/da2/a23401.html#ad7b15a8c5cf3e2d38a1ce54afb24b3e5", null ],
+    [ "Register", "d0/da2/a23401.html#af0c8bf6a5076a4171a9d70f6872a21d5", null ]
 ];

@@ -1,6 +1,10 @@
 var a23985 =
 [
-    [ "npc_capernian", "d5/d74/a23985.html#a0acb568664c777797eeb7104f454699d", null ],
-    [ "AttackStart", "d5/d74/a23985.html#a81e89eacbae30a1229fda5e9fe924e2b", null ],
-    [ "ScheduleEvents", "d5/d74/a23985.html#a6bd26f5584a1c960b84b574abd723ad1", null ]
+    [ "CheckProc", "d5/d74/a23985.html#ac176c59497cc2196c19dc8a1b9f8056d", null ],
+    [ "Load", "d5/d74/a23985.html#aad39e53d6b3fc673c115f79ca0bc9b68", null ],
+    [ "PrepareAuraScript", "d5/d74/a23985.html#a990cab2c1d9fb544bf11c9fd4e5495ac", null ],
+    [ "Register", "d5/d74/a23985.html#ae2cf612df18cf249bc4a90ce9332fc9b", null ],
+    [ "_lastForm", "d5/d74/a23985.html#ad392a897546cb64e550dd8b0709ba0ab", null ],
+    [ "_lastSchool", "d5/d74/a23985.html#afc2e3e388615ed5cf0f4dd672f26de85", null ],
+    [ "_swapTime", "d5/d74/a23985.html#af832dc200e928df3849ab7d7f93cb412", null ]
 ];

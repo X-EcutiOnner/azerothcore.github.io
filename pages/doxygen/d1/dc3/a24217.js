@@ -1,7 +1,7 @@
 var a24217 =
 [
-    [ "npc_maghar_captiveAI", "de/d91/a24221.html", "de/d91/a24221" ],
-    [ "npc_maghar_captive", "d1/dc3/a24217.html#a59e177f33306ed0bb3de9f640d3685e4", null ],
-    [ "GetAI", "d1/dc3/a24217.html#a7f1528549b55edfb5286db4afe6ce50e", null ],
-    [ "OnQuestAccept", "d1/dc3/a24217.html#a0cd3a423866b9b5449f8efc729b69c27", null ]
+    [ "HandleDummy", "d1/dc3/a24217.html#a08f2f0aef00ce075572ff84643905a0a", null ],
+    [ "PrepareSpellScript", "d1/dc3/a24217.html#ac1aacfbd71224d80eaed0b9a76ff673f", null ],
+    [ "Register", "d1/dc3/a24217.html#a2046ac7f24989ff0bf50a3ee66dda104", null ],
+    [ "Validate", "d1/dc3/a24217.html#aded9f2e46cc3bf46f5699ce6fdf154ba", null ]
 ];

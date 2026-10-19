@@ -1,7 +1,7 @@
 var a16037 =
 [
-    [ "HandleEffectPeriodic", "d2/d64/a16037.html#ac47c157dbd193bc131d281666ae2097f", null ],
-    [ "PrepareAuraScript", "d2/d64/a16037.html#ac650ece6e2d9e9e7ff9b863d77f84975", null ],
-    [ "Register", "d2/d64/a16037.html#ac3c158fdddd007d1d7986470032bfc25", null ],
-    [ "Validate", "d2/d64/a16037.html#a26b117dc8a3b104dec9de27597fbe55d", null ]
+    [ "npc_cork_gizeltonAI", "d6/dc3/a16041.html", "d6/dc3/a16041" ],
+    [ "npc_cork_gizelton", "d2/d64/a16037.html#a915aa2abc18109e7d0197863f59536f2", null ],
+    [ "GetAI", "d2/d64/a16037.html#a8a5fe5c46767aa37fd6e5b10e1bfc372", null ],
+    [ "OnQuestAccept", "d2/d64/a16037.html#a11dc1fea0a24add451272b537298fc13", null ]
 ];

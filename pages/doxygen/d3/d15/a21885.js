@@ -1,6 +1,6 @@
 var a21885 =
 [
-    [ "npc_mindless_ghoulAI", "d3/d15/a21885.html#a4cc0dbd4aa2366115348bc1db273a5e2", null ],
-    [ "CanAIAttack", "d3/d15/a21885.html#a18fbc44ad760a69d952d003622ec75b2", null ],
-    [ "JustDied", "d3/d15/a21885.html#a272067bef6dbab24024f7de990c10b64", null ]
+    [ "npc_dalaran_warriorAI", "d2/ddd/a21889.html", "d2/ddd/a21889" ],
+    [ "npc_dalaran_warrior", "d3/d15/a21885.html#a13d44b85173232ddedcc35184d50549c", null ],
+    [ "GetAI", "d3/d15/a21885.html#a1e84676d2a76bac728a1f23f5f9fc25e", null ]
 ];

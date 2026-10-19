@@ -1,6 +1,8 @@
 var a21345 =
 [
-    [ "npc_massive_jormungarAI", "d0/dfd/a21349.html", "d0/dfd/a21349" ],
-    [ "npc_massive_jormungar", "d6/d28/a21345.html#ad17b632fcfe78019dcb9e6b58fa1ac01", null ],
-    [ "GetAI", "d6/d28/a21345.html#a68e3557e967ef633ba59fa81e661b80c", null ]
+    [ "boss_keleseth", "d6/d28/a21345.html#ad2f0f020b0c92852dedadea5730e4e80", null ],
+    [ "AttackStart", "d6/d28/a21345.html#a731ebf8e9ff4f64582a8f9373ce08a39", null ],
+    [ "JustDied", "d6/d28/a21345.html#ad23ede5c869ab12dc1c2f6a783e9b539", null ],
+    [ "JustEngagedWith", "d6/d28/a21345.html#a8d5cba1dd481bdfaf93f6e2427880b2e", null ],
+    [ "KilledUnit", "d6/d28/a21345.html#a64d14f1b8f169128bbbc507730f4f1eb", null ]
 ];

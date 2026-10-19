@@ -1,4 +1,5 @@
 var a29325 =
 [
-    [ "ratio", "dd/de9/a29325.html#a4d2880eb4c15dca8148ee5aa21920e6d", null ]
+    [ "Id", "dd/de9/a29325.html#a2c41c957524b31ad9f7fa361ec0e9d01", null ],
+    [ "textid", "dd/de9/a29325.html#a7e50690fa335b759dba5ac265c9a0dd0", null ]
 ];

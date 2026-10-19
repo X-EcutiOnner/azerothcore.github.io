@@ -1,7 +1,5 @@
 var a15977 =
 [
-    [ "npc_prospector_remtravelAI", "d1/dd9/a15981.html", "d1/dd9/a15981" ],
-    [ "npc_prospector_remtravel", "dd/d53/a15977.html#aa213161fc60e615682252125f6c58f7f", null ],
-    [ "GetAI", "dd/d53/a15977.html#aa8e1bb551036684b05c1b3bea4c66b1d", null ],
-    [ "OnQuestAccept", "dd/d53/a15977.html#a4bc2e5264a7a2184bf8d90b7d4045cc8", null ]
+    [ "go_bristlelimb_cage", "dd/d53/a15977.html#ab965b9c529577a5e58639285fa35d3d7", null ],
+    [ "OnGossipHello", "dd/d53/a15977.html#a6f29e07550767c1c0610f46e4921503f", null ]
 ];

@@ -1,7 +1,11 @@
 var a26913 =
 [
-    [ "HandleProc", "db/ddd/a26913.html#ab743366a1ee3e2a77ecafde5a06439d0", null ],
-    [ "PrepareAuraScript", "db/ddd/a26913.html#afcf7c0209a22464b7cf72f2b4fa74eaf", null ],
-    [ "Register", "db/ddd/a26913.html#a1898ee4e5e69f7b00b242340e53c131f", null ],
-    [ "Validate", "db/ddd/a26913.html#a84495f575255d3359490021254edb31b", null ]
+    [ "CheckCast", "db/ddd/a26913.html#a49676a65c99a9a2d99ad78fee54d2302", null ],
+    [ "HandleMaxHealthHeal", "db/ddd/a26913.html#a019833641487ac07cb2c8740d5686a41", null ],
+    [ "HandleScript", "db/ddd/a26913.html#a35b9d69b8147ef06527b8533ef376e72", null ],
+    [ "Load", "db/ddd/a26913.html#a25c373762375f207e6c3ba0a18d4a6e7", null ],
+    [ "PrepareSpellScript", "db/ddd/a26913.html#a31d3339531f75dfa0ca3a339d34d3012", null ],
+    [ "Register", "db/ddd/a26913.html#afd716f555ac73287bd268c6124b15b1c", null ],
+    [ "Validate", "db/ddd/a26913.html#a0938262e1f45821b9fbef42f5c96cc56", null ],
+    [ "_manaAmount", "db/ddd/a26913.html#add7d1cdf3abca0ada57cd719ad22602a", null ]
 ];

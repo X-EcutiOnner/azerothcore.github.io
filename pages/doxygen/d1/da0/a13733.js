@@ -1,6 +1,14 @@
 var a13733 =
 [
-    [ "HandleSendEvent", "d1/da0/a13733.html#ad245a7dcf129774b8ef3e3653b3e3026", null ],
-    [ "PrepareSpellScript", "d1/da0/a13733.html#ad9dfe5b2702540eb119ec86cfbd0ff30", null ],
-    [ "Register", "d1/da0/a13733.html#a0b5ac8cfc4eb4adadb653a81a59a8287", null ]
+    [ "boss_jarien", "d1/da0/a13733.html#a19e07a3da93e487b5984a8de0c7f26c9", null ],
+    [ "DoAction", "d1/da0/a13733.html#a8b9f1f2e7e45adf8df436b5c71555272", null ],
+    [ "IsSummonedBy", "d1/da0/a13733.html#a2e54c5ae404be944eeff3a57c96aa8ca", null ],
+    [ "JustDied", "d1/da0/a13733.html#a418380b56f3432b5aec84737012f4693", null ],
+    [ "JustEngagedWith", "d1/da0/a13733.html#ab6590cf6626a12e804520b2cde84a93e", null ],
+    [ "Reset", "d1/da0/a13733.html#ac85ca96b42aa5115500bd24454f84209", null ],
+    [ "UpdateAI", "d1/da0/a13733.html#acf7157ec7af7356beddc8a2429177b95", null ],
+    [ "_phase", "d1/da0/a13733.html#aa88435f313dc2b7880bca8f4cdb7a537", null ],
+    [ "_scheduler", "d1/da0/a13733.html#abce9540798dbae1026d1c74bfeb111a6", null ],
+    [ "_sothosDied", "d1/da0/a13733.html#a06b02c7f7dff885a86609e0116f2fd96", null ],
+    [ "_talked", "d1/da0/a13733.html#ae0c943c970990b055ebc8c31d81a7198", null ]
 ];

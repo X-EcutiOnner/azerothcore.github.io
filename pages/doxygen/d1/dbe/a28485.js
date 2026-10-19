@@ -1,6 +1,5 @@
 var a28485 =
 [
-    [ "guard_shattrath_scryerAI", "dd/dff/a28489.html", "dd/dff/a28489" ],
-    [ "guard_shattrath_scryer", "d1/dbe/a28485.html#a2ee4d6881d7c24cd848c590b84207663", null ],
-    [ "GetAI", "d1/dbe/a28485.html#ab1d937102f63c63de4c92e45eff2c21c", null ]
+    [ "go_arcane_prison", "d1/dbe/a28485.html#ad73ac33d843027de0e516de8f90c45a0", null ],
+    [ "OnGossipHello", "d1/dbe/a28485.html#a0f9d414ce1f3f3e734cb79a554f7523e", null ]
 ];

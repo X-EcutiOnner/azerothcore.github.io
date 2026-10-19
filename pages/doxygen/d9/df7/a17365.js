@@ -1,10 +1,6 @@
 var a17365 =
 [
-    [ "HandleAfterEffectAbsorb", "d9/df7/a17365.html#a4af67c41afd7843a5cfe2b2e2e9e8055", null ],
-    [ "Load", "d9/df7/a17365.html#abab656d4ba7e14bf1ffdb1d40c395b5d", null ],
-    [ "PrepareAuraScript", "d9/df7/a17365.html#a0856d66c801715f16cd251ddf9b25a59", null ],
-    [ "Register", "d9/df7/a17365.html#a69d8dfebb981b51592770b7b5807bc80", null ],
-    [ "Validate", "d9/df7/a17365.html#a55ec42ce316978220103a3a39f3939a3", null ],
-    [ "amount", "d9/df7/a17365.html#aaf34ee04ae619a3ac108a8fd1c9dac99", null ],
-    [ "fired", "d9/df7/a17365.html#a6a7afa99044644608b16e83328bfd5fa", null ]
+    [ "PrepareSpellScript", "d9/df7/a17365.html#a5ed268ac2642b2df3c5eb1dc93a675fc", null ],
+    [ "RecalculateDamage", "d9/df7/a17365.html#a3fae6ceaa67716004c664dd40a4679ed", null ],
+    [ "Register", "d9/df7/a17365.html#a1a740e697fc84f5f035f2ec251872009", null ]
 ];

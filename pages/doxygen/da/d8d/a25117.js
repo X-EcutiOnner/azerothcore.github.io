@@ -1,7 +1,8 @@
 var a25117 =
 [
-    [ "if", "da/d8d/a25117.html#a6b9c0d513b24e9a5c0eef8307b2eb3a8", null ],
-    [ "PrepareAuraScript", "da/d8d/a25117.html#a01d974333043452a37ec3124d23b49f2", null ],
-    [ "Register", "da/d8d/a25117.html#aeb6c695819e894aad8b210a237e6d315", null ],
-    [ "AuraEffectHandleModes", "da/d8d/a25117.html#a9b235517305f9b2fcf2d31eb3a4edbd2", null ]
+    [ "CheckProc", "da/d8d/a25117.html#afb2da9368612d8baa7dddcd8232b61c3", null ],
+    [ "HandleProc", "da/d8d/a25117.html#a43272dc56e174c36c258086685f41fbc", null ],
+    [ "PrepareAuraScript", "da/d8d/a25117.html#a3bd510824be1f2ab6864036224dceed9", null ],
+    [ "Register", "da/d8d/a25117.html#a1dbe1956639a63950d9788d55e69fc2d", null ],
+    [ "Validate", "da/d8d/a25117.html#a5f35a7963129eb22708c9e102550de82", null ]
 ];

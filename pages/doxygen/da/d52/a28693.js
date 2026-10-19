@@ -1,7 +1,8 @@
 var a28693 =
 [
-    [ "npc_sayge", "da/d52/a28693.html#a5b75c459665ece26cee5dbffcc0fc8ff", null ],
-    [ "OnGossipHello", "da/d52/a28693.html#ad069e6cc7fe5271c3474c8bcf537cf4c", null ],
-    [ "OnGossipSelect", "da/d52/a28693.html#aa049b4514fc2d18508d8d4f9b6616c99", null ],
-    [ "SendAction", "da/d52/a28693.html#aed1988335672423d024546654aa95298", null ]
+    [ "npc_chicken_cluckAI", "df/dca/a28697.html", "df/dca/a28697" ],
+    [ "npc_chicken_cluck", "da/d52/a28693.html#a7bc08c81fca730886c47e0f3a3d8062c", null ],
+    [ "GetAI", "da/d52/a28693.html#abf986f555672823477c3c17e0f59bdbe", null ],
+    [ "OnQuestAccept", "da/d52/a28693.html#acca62c027b5b0cdff107e04cf2c276ea", null ],
+    [ "OnQuestComplete", "da/d52/a28693.html#a8f22520166a557e066502eb16bdae774", null ]
 ];

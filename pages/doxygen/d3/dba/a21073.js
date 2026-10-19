@@ -1,9 +1,6 @@
 var a21073 =
 [
-    [ "boss_yoggsaron_crusher_tentacle", "d3/dba/a21073.html#a1649412beffbc87ce046a591775b02b2", null ],
-    [ "DamageTaken", "d3/dba/a21073.html#aa38dbd7050000d3aab774a7b719912f4", null ],
-    [ "DoAction", "d3/dba/a21073.html#a92eae6475d5db1cb59e161c8e65b565f", null ],
-    [ "Reset", "d3/dba/a21073.html#aba082f8d2fa200eca9c52336df544221", null ],
-    [ "UpdateAI", "d3/dba/a21073.html#ae22a12401dc98534da1cb771468a58ce", null ],
-    [ "_diminishReady", "d3/dba/a21073.html#af8d417c56918cf59dfe3d8429c4cf239", null ]
+    [ "HandleScript", "d3/dba/a21073.html#aade3cab1f80d1762bfad48407f4b91cc", null ],
+    [ "PrepareSpellScript", "d3/dba/a21073.html#ab20e548d7c0a837ee4cb7198c09e53ee", null ],
+    [ "Register", "d3/dba/a21073.html#a48a0a37b8e6f799ee9035bb766fd6db2", null ]
 ];

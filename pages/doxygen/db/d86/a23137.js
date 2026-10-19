@@ -1,11 +1,6 @@
 var a23137 =
 [
-    [ "boss_supremus", "db/d86/a23137.html#af1f094534b0e2dec70422839a02327cd", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "db/d86/a23137.html#a2654bf5b1d5b6da723d4968219e069a9", null ],
-    [ "FindHatefulStrikeTarget", "db/d86/a23137.html#af560466902d0d372662020e1a67b627c", null ],
-    [ "JustEngagedWith", "db/d86/a23137.html#a7d3a5e2c183db7639a7c25f309359ed1", null ],
-    [ "JustSummoned", "db/d86/a23137.html#a7265a01fa79213ab6d8b82a4c92b7661", null ],
-    [ "Reset", "db/d86/a23137.html#a0eaa29849a2571417d4826d238d72e25", null ],
-    [ "SchedulePhase", "db/d86/a23137.html#a87e3943d6c645138853aa97644f9df0e", null ],
-    [ "SummonedCreatureDespawn", "db/d86/a23137.html#a2ae72bfef577654e676a64eb2e4efa7a", null ]
+    [ "FilterTargets", "db/d86/a23137.html#a04973145ed594b88afe2acc0cacb10c6", null ],
+    [ "PrepareSpellScript", "db/d86/a23137.html#a90c0513a6dba2f2e6619dd8c77544991", null ],
+    [ "Register", "db/d86/a23137.html#a7c8ca525cd6822d21551331ce37ce5dd", null ]
 ];

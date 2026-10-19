@@ -1,7 +1,5 @@
 var a12981 =
 [
-    [ "HandleScript", "d9/d73/a12981.html#ac6ef94a03f602b44a5c7c22b7e41d116", null ],
-    [ "PrepareSpellScript", "d9/d73/a12981.html#ad92a56c23b9f15e36766fe64d1d0dd17", null ],
-    [ "Register", "d9/d73/a12981.html#aa8ad85cbf0403d79e55bbe0ae184407b", null ],
-    [ "Validate", "d9/d73/a12981.html#a3ad038e7bf43dceedb0fceebd4070bfa", null ]
+    [ "at_scarshield_infiltrator", "d9/d73/a12981.html#a2d1df47353c9a7e0d506b7c54e7be58e", null ],
+    [ "OnTrigger", "d9/d73/a12981.html#aa3af260809534e3184459dfb6f8f7cf0", null ]
 ];

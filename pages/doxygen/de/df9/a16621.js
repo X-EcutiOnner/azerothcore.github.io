@@ -1,6 +1,8 @@
 var a16621 =
 [
-    [ "boss_general_zarithrianAI", "d8/dfe/a16625.html", "d8/dfe/a16625" ],
-    [ "boss_general_zarithrian", "de/df9/a16621.html#a030c53b6ef1d75027ddfd298d49ab330", null ],
-    [ "GetAI", "de/df9/a16621.html#a22ba4e0769dd9404ae043fb9c16233ff", null ]
+    [ "RestoreFight", "de/df9/a16621.html#a0149cccce8c3120b1e988e9a7c96f75c", null ],
+    [ "RestoreFight", "de/df9/a16621.html#a0149cccce8c3120b1e988e9a7c96f75c", null ],
+    [ "Execute", "de/df9/a16621.html#a019eb3c08dc8c3b97fc27b989ec8ab77", null ],
+    [ "Execute", "de/df9/a16621.html#a019eb3c08dc8c3b97fc27b989ec8ab77", null ],
+    [ "_owner", "de/df9/a16621.html#ae35c9b4547fcd7e8ea0f4b6ee4c637a0", null ]
 ];

@@ -1,10 +1,20 @@
 var a16545 =
 [
-    [ "boss_sartharion_tenebron", "d3/d1e/a16545.html#aed0f47aa2ed463ae0d2219e54e7b91bc", null ],
-    [ "ClearInstance", "d3/d1e/a16545.html#ac21b27a510d6c087d19bebe2b2a5426b", null ],
-    [ "ExecuteEvent", "d3/d1e/a16545.html#ad61c290ccbd36d9b1bb24d6c44f390c3", null ],
-    [ "JustDied", "d3/d1e/a16545.html#aa57a9180c2fbc2441622a6b3b4fd1fb1", null ],
-    [ "JustSummoned", "d3/d1e/a16545.html#ae4e49d7bee95c929ece64beeca940a0a", null ],
-    [ "Reset", "d3/d1e/a16545.html#a5bd12ada3fc396478ebbe39329aaf74b", null ],
-    [ "summons2", "d3/d1e/a16545.html#a59b131fcd2298640390fcd0f662f132d", null ]
+    [ "boss_krik_thirAI", "d3/d1e/a16545.html#a92a2b2089c890901cd438c8d8ea432c7", null ],
+    [ "CallWatcher", "d3/d1e/a16545.html#aad620a3c305abaf29ed23259d5a06401", null ],
+    [ "DoAction", "d3/d1e/a16545.html#af62b22ef531ee79805e80f2ee54af473", null ],
+    [ "GetData", "d3/d1e/a16545.html#adcca5f21a596ffae3c50f102c4698c4e", null ],
+    [ "IsInFrenzy", "d3/d1e/a16545.html#a9b8453fcfe57b9a87749529002d3879a", null ],
+    [ "JustDied", "d3/d1e/a16545.html#ab4a576f9746f7ade8f6b8f8c08795433", null ],
+    [ "JustEngagedWith", "d3/d1e/a16545.html#aa99c241641fc7e94412d08bebed07475", null ],
+    [ "KilledUnit", "d3/d1e/a16545.html#aad554ec61a0c6ad9cedf6d7d1b33ed1d", null ],
+    [ "MoveInLineOfSight", "d3/d1e/a16545.html#a6c72cebac0e09f66bf0a60cdc328aa4d", null ],
+    [ "Reset", "d3/d1e/a16545.html#a613441fcb7bd851a03729be84d27650c", null ],
+    [ "SpellHitTarget", "d3/d1e/a16545.html#ac638264dbb81c0ba004246c0801c4b85", null ],
+    [ "SummonedCreatureDies", "d3/d1e/a16545.html#acb7b45fbe3a736ad65b0a2556ead40ae", null ],
+    [ "SummonWatcher", "d3/d1e/a16545.html#a9c0e1d97ef039a5b607a54a856f4f51c", null ],
+    [ "_firstCall", "d3/d1e/a16545.html#a069ed0a0de9d467bb0a9aa0839d510f4", null ],
+    [ "_initTalk", "d3/d1e/a16545.html#a68a4994c750979b91e46160b0cba77b4", null ],
+    [ "_minionInCombat", "d3/d1e/a16545.html#ac07e8e45693b3239bc061e5500880833", null ],
+    [ "_minionsEngaged", "d3/d1e/a16545.html#acf2408ba05ee1546f2d1853096c9e2fc", null ]
 ];

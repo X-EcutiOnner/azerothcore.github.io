@@ -1,12 +1,13 @@
 var a05194 =
 [
-    [ "InstanceLockResponse", "d6/d95/a11355.html", "d6/d95/a11355" ],
-    [ "InstanceReset", "d4/db3/a11323.html", "d4/db3/a11323" ],
-    [ "InstanceResetFailed", "d3/d22/a11327.html", "d3/d22/a11327" ],
-    [ "ResetFailedNotify", "de/d33/a11339.html", "de/d33/a11339" ],
-    [ "ResetInstances", "db/d78/a11351.html", "db/d78/a11351" ],
-    [ "SetDungeonDifficulty", "da/d3a/a11331.html", "da/d3a/a11331" ],
-    [ "SetDungeonDifficultyClient", "de/de5/a11335.html", "de/de5/a11335" ],
-    [ "SetRaidDifficulty", "d4/d61/a11343.html", "d4/d61/a11343" ],
-    [ "SetRaidDifficultyClient", "d0/d73/a11347.html", "d0/d73/a11347" ]
+    [ "LogoutCancel", "d2/d1e/a11073.html", "d2/d1e/a11073" ],
+    [ "LogoutCancelAck", "d1/d3d/a11077.html", "d1/d3d/a11077" ],
+    [ "LogoutComplete", "d0/d19/a11069.html", "d0/d19/a11069" ],
+    [ "LogoutRequest", "db/d13/a11061.html", "db/d13/a11061" ],
+    [ "LogoutResponse", "db/d7f/a11065.html", "db/d7f/a11065" ],
+    [ "PlayedTime", "d8/d58/a11089.html", "d8/d58/a11089" ],
+    [ "PlayedTimeClient", "d3/d0d/a11085.html", "d3/d0d/a11085" ],
+    [ "PlayerLogout", "dd/dcd/a11081.html", "dd/dcd/a11081" ],
+    [ "ShowingCloak", "da/dc2/a11053.html", "da/dc2/a11053" ],
+    [ "ShowingHelm", "de/d34/a11057.html", "de/d34/a11057" ]
 ];

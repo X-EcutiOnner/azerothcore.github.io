@@ -1,6 +1,5 @@
 var a10673 =
 [
-    [ "Description", "d0/dfd/a10673.html#a1d49e1ff4533507cb64dfc8fc6790c37", null ],
-    [ "MapId", "d0/dfd/a10673.html#a252400abf9080866cdf2eebba16df4dc", null ],
-    [ "MaxLimit", "d0/dfd/a10673.html#a38ba12a67e99cabba2388a63f12a2b53", null ]
+    [ "ScriptId", "d0/dfd/a10673.html#a6b17e959f80e7b3f2f3352a345eebcf9", null ],
+    [ "TypeId", "d0/dfd/a10673.html#aaddf1f172211966f5d727e6238889223", null ]
 ];

@@ -1,6 +1,6 @@
 var a14521 =
 [
-    [ "boss_arlokkAI", "d7/d0c/a14525.html", "d7/d0c/a14525" ],
-    [ "boss_arlokk", "df/d94/a14521.html#a55bb21239e05acff18d2fb147449800e", null ],
-    [ "GetAI", "df/d94/a14521.html#a58b8cc7a198784b48faaab1b069d397c", null ]
+    [ "OnEffect", "df/d94/a14521.html#ab87d53faac04ced3c11088e260782068", null ],
+    [ "PrepareSpellScript", "df/d94/a14521.html#af618e8d84029dda5e48b699cbcf671be", null ],
+    [ "Register", "df/d94/a14521.html#abcfe54b8901ec3c5e070b3c528ade26e", null ]
 ];

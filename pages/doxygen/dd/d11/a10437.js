@@ -1,8 +1,8 @@
 var a10437 =
 [
-    [ "AbstractFollower", "dd/d11/a10437.html#a08d292896f2419dd73ae68c8e1238d4b", null ],
-    [ "~AbstractFollower", "dd/d11/a10437.html#acb394f5326ab5ea5146c79788a085647", null ],
-    [ "GetTarget", "dd/d11/a10437.html#a43f037557454528a956c379d9efb42ac", null ],
-    [ "SetTarget", "dd/d11/a10437.html#ad49748abec4bb2fe06cc8ba2699bdbd0", null ],
-    [ "_target", "dd/d11/a10437.html#aa4e43d8e60442eee41398648fd7fd45d", null ]
+    [ "GetAINotifyDelay", "dd/d11/a10437.html#a9efd4acfe2ff5e4dfe0cc9e8fe802cc6", null ],
+    [ "GetReqMoveDistSq", "dd/d11/a10437.html#a58687646bbf83723e8ad2925ee50452c", null ],
+    [ "GetVisibilityNotifyDelay", "dd/d11/a10437.html#ac402ec0cb86192ce264d7909e09da5ac", null ],
+    [ "Update", "dd/d11/a10437.html#aa95443d7050249a44cad2f16fa0026e5", null ],
+    [ "visibilitySettingsIndex", "dd/d11/a10437.html#a35ebd0fcbdec8a3287f714cbe9becbcc", null ]
 ];

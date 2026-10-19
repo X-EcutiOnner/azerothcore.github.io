@@ -1,25 +1,8 @@
 var a19777 =
 [
-    [ "boss_malygos", "df/d8c/a19777.html#acd26b3f587a379b568c496ea1ec3194f", null ],
-    [ "AttackStart", "df/d8c/a19777.html#affc05cb6c51b8116257a4b1aef46ff00", null ],
-    [ "DamageTaken", "df/d8c/a19777.html#a28a85c719c91835b5f6f52d267990c0c", null ],
-    [ "EnterEvadeMode", "df/d8c/a19777.html#a53c5686a8cf473d8ed1569890bdf70a5", null ],
-    [ "GetGUID", "df/d8c/a19777.html#afb552c6ee40f0415c5d8b96d140c55e6", null ],
-    [ "HandleIntroSpeech", "df/d8c/a19777.html#a648e2f73ffead8912659bc342ec70774", null ],
-    [ "JustDied", "df/d8c/a19777.html#a597f5291a656746becdb058c538cff89", null ],
-    [ "JustEngagedWith", "df/d8c/a19777.html#a110748ba104014f161c8bb51bb6ba566", null ],
-    [ "JustSummoned", "df/d8c/a19777.html#a743aba102bcad0f032113a32c34a131e", null ],
-    [ "KilledUnit", "df/d8c/a19777.html#ad471155b4ff59d163218653cc3dfc104", null ],
-    [ "MoveInLineOfSight", "df/d8c/a19777.html#a92ba2c3af50769e45327f4081b753d1d", null ],
-    [ "MovementInform", "df/d8c/a19777.html#ab1a3fa752819f459e6eb50748f8f65b0", null ],
-    [ "Reset", "df/d8c/a19777.html#a0b2603b3691b4961977acbc593202306", null ],
-    [ "SetGUID", "df/d8c/a19777.html#ae8d1e363bc9db57af46afa838c72cfd1", null ],
-    [ "SpellHit", "df/d8c/a19777.html#ab520ae358e31225469e96d8628c6314c", null ],
-    [ "UpdateAI", "df/d8c/a19777.html#aabdec2e6a2e955cc682b122430cbdcce", null ],
-    [ "_executingVortex", "df/d8c/a19777.html#a1a838052f9465530a586132a24c7ec5b", null ],
-    [ "_surgeTargetGUID", "df/d8c/a19777.html#a832a8890c9b8cefb7c1043de745c1e25", null ],
-    [ "bLockHealthCheck", "df/d8c/a19777.html#a8809894ee687da3133030b4d4f080b35", null ],
-    [ "IntroCounter", "df/d8c/a19777.html#a88f42418d5a96d3b2630ee2975d420b1", null ],
-    [ "timer1", "df/d8c/a19777.html#ad779ad4e63ce426421fab327fc9bf9ed", null ],
-    [ "timer2", "df/d8c/a19777.html#a5cccd64acbf07ab2cbd5650feb2bb115", null ]
+    [ "HandleAfterCast", "df/d8c/a19777.html#ac816f81a668ac3018be8f5dc4698039b", null ],
+    [ "HandleDummy", "df/d8c/a19777.html#a3009faa525c22779a0b2534b96821cfd", null ],
+    [ "PrepareSpellScript", "df/d8c/a19777.html#aca38f23f080314ab73ec2494bf877716", null ],
+    [ "Register", "df/d8c/a19777.html#aa87e57dabec6e83029f4dd84913f22ca", null ],
+    [ "Validate", "df/d8c/a19777.html#af945e399992deb3aef5c81ad393ee50f", null ]
 ];

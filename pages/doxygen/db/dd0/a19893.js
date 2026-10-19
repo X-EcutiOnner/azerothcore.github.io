@@ -1,14 +1,14 @@
 var a19893 =
 [
-    [ "npc_crystalline_frayer", "db/dd0/a19893.html#ade88d8f4d4fd32155b87dfba75084f4c", null ],
-    [ "DamageTaken", "db/dd0/a19893.html#a2580575a58353e8cb94561bafd74f502", null ],
-    [ "EnterEvadeMode", "db/dd0/a19893.html#a9240adcfe966f11c925db82add432aa5", null ],
-    [ "EnterSeedPod", "db/dd0/a19893.html#a070554a809ba40726d005fdba19a16b0", null ],
-    [ "JustEngagedWith", "db/dd0/a19893.html#a91e8c4015b9b238fd2144999bcef9362", null ],
-    [ "LeaveSeedPod", "db/dd0/a19893.html#afe6ba31b18fa65aaa15daad3101149c2", null ],
-    [ "Reset", "db/dd0/a19893.html#a5baa6491ee0205b2b2e7bc8e6cd9a163", null ],
-    [ "UpdateAI", "db/dd0/a19893.html#ab494a601b9a5dc3d4c3c303bc4de3a94", null ],
-    [ "_allowDeath", "db/dd0/a19893.html#adc85054030146067d2cff47db2886a07", null ],
-    [ "_inSeedPod", "db/dd0/a19893.html#a26e0c5f780bc661796f922c52000c30a", null ],
-    [ "_scheduler", "db/dd0/a19893.html#a1faafa1c39716f7679ca0b2b2f10a641", null ]
+    [ "boss_keristrasza", "db/dd0/a19893.html#a5f83fee9a5616751601f0c1155afab36", null ],
+    [ "CanRemovePrison", "db/dd0/a19893.html#a900a4a8428a04b880462b20196e94858", null ],
+    [ "GetData", "db/dd0/a19893.html#aa1e7f5b0c0fe89d0e67ccfd198d235ba", null ],
+    [ "JustDied", "db/dd0/a19893.html#a3f962a6c7a65d458f1b05a15e6f53951", null ],
+    [ "JustEngagedWith", "db/dd0/a19893.html#a26d6559cc92841f8f76544cdbbf2cbaf", null ],
+    [ "KilledUnit", "db/dd0/a19893.html#a67b50805b9e01cd1d0fb7966b3288b9f", null ],
+    [ "RemovePrison", "db/dd0/a19893.html#a97b6fe26a5bbc4a7c528939e82cd0ca5", null ],
+    [ "Reset", "db/dd0/a19893.html#a13dce974fa83577397a80ff52de5d835", null ],
+    [ "SetData", "db/dd0/a19893.html#ac32f3e8f568535d4d197d383f9e51c5f", null ],
+    [ "UpdateAI", "db/dd0/a19893.html#a46a2e61e27cc72710c7aa14212673eae", null ],
+    [ "aGuids", "db/dd0/a19893.html#aa4c06ad8d599192c2f4ecb52f92e3a31", null ]
 ];

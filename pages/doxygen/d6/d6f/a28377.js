@@ -1,7 +1,6 @@
 var a28377 =
 [
-    [ "go_darkmoon_faire_musicAI", "d6/d6f/a28377.html#a2ee13dd1260c1ad5b810c25665c9ec87", null ],
-    [ "UpdateAI", "d6/d6f/a28377.html#af3d802bd852fc0483f72781edb13b5d5", null ],
-    [ "_events", "d6/d6f/a28377.html#acc7e15d2b286b7df262623acf7ea7f03", null ],
-    [ "rnd", "d6/d6f/a28377.html#a9a4c983f11c4d912f31eaaf351afc016", null ]
+    [ "go_flamesAI", "d8/df6/a28381.html", "d8/df6/a28381" ],
+    [ "go_flames", "d6/d6f/a28377.html#a75d49202eaf2078b8276e59944d1ec89", null ],
+    [ "GetAI", "d6/d6f/a28377.html#aea11412e7d17b744b4e70ec754a1e6cc", null ]
 ];

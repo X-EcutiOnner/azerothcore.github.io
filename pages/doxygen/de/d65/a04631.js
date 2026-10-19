@@ -1,4 +1,4 @@
 var a04631 =
 [
-    [ "Acore::Crypto::ARC4", "d1/d01/a05531.html", "d1/d01/a05531" ]
+    [ "Acore::Crypto::Argon2", "d5/de0/a05541.html", "d5/de0/a05541" ]
 ];

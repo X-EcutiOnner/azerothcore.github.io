@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Spells/Auras/SpellAuras.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Spells/Auras/SpellAuras.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,222 +105,33 @@ $(document).ready(function(){initNavTree('d7/d73/a02708.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#func-members">Functions</a> &#124;
-<a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">SpellAuras.cpp File Reference</div></div>
+<a href="#nested-classes">Classes</a>  </div>
+  <div class="headertitle"><div class="title">SpellAuras.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">ArenaSpectator.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">CellImpl.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Common.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GameTime.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GridNotifiers.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Log.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ObjectAccessor.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ObjectMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Opcodes.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Spell.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellAuraEffects.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellScript.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">SpellAuraDefines.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">Unit.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Util.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Vehicle.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldPacket.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GridNotifiersImpl.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
-Functions</h2></td></tr>
-<tr class="memitem:a2c54ebda028a15512cff94e01f9f92d8"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d73/a02708.html#a2c54ebda028a15512cff94e01f9f92d8">IsPaladinAuraDominant</a> (<a class="el" href="../../d7/dff/a11907.html">Aura</a> const *aura, <a class="el" href="../../d7/dff/a11907.html">Aura</a> const *other, <a class="el" href="../../d9/d33/a09227.html">Unit</a> const *target)</td></tr>
-<tr class="separator:a2c54ebda028a15512cff94e01f9f92d8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a35cf5d451332db8c1e4a11f23b11d0ec"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d2/d5a/a11903.html">AuraApplication</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d73/a02708.html#a35cf5d451332db8c1e4a11f23b11d0ec">GetDominantOtherSameSpellApp</a> (<a class="el" href="../../d9/d33/a09227.html">Unit</a> *target, <a class="el" href="../../d6/d12/a04691.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> spellId, <a class="el" href="../../de/d05/a08899.html">ObjectGuid</a> casterGUID)</td></tr>
-<tr class="separator:a35cf5d451332db8c1e4a11f23b11d0ec"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
-Variables</h2></td></tr>
-<tr class="memitem:a49c1eff45f8eb67e523f8593923a5df0"><td class="memItemLeft" align="right" valign="top">static constexpr <a class="el" href="../../d6/d12/a04691.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d73/a02708.html#a49c1eff45f8eb67e523f8593923a5df0">UPDATE_TARGET_MAP_INTERVAL</a> = 500</td></tr>
-<tr class="separator:a49c1eff45f8eb67e523f8593923a5df0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d23/a11917.html">AuraApplication</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d53/a11921.html">Aura</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d55/a11925.html">UnitAura</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/da2/a11929.html">DynObjAura</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="a35cf5d451332db8c1e4a11f23b11d0ec" name="a35cf5d451332db8c1e4a11f23b11d0ec"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a35cf5d451332db8c1e4a11f23b11d0ec">&#9670;&#160;</a></span>GetDominantOtherSameSpellApp()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">static <a class="el" href="../../d2/d5a/a11903.html">AuraApplication</a> * GetDominantOtherSameSpellApp </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/d33/a09227.html">Unit</a> *&#160;</td>
-          <td class="paramname"><em>target</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d6/d12/a04691.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>spellId</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../de/d05/a08899.html">ObjectGuid</a>&#160;</td>
-          <td class="paramname"><em>casterGUID</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  568</span>{</div>
-<div class="line"><span class="lineno">  569</span>    <a class="code hl_class" href="../../d2/d5a/a11903.html">AuraApplication</a>* best = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  570</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d6/d12/a04691.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> rankSpell = <a class="code hl_define" href="../../d6/d0b/a02741.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a>-&gt;GetFirstSpellInChain(spellId); rankSpell; rankSpell = <a class="code hl_define" href="../../d6/d0b/a02741.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a>-&gt;GetNextSpellInChain(rankSpell))</div>
-<div class="line"><span class="lineno">  571</span>    {</div>
-<div class="line"><span class="lineno">  572</span>        <a class="code hl_typedef" href="../../d9/d33/a09227.html#a04a66c0ec19dafbd2c85574bc2e75100">Unit::AuraApplicationMapBoundsNonConst</a> bounds = target-&gt;<a class="code hl_function" href="../../d9/d33/a09227.html#adc7150ef9ed6fc45dc84ac504fd75141">GetAppliedAuras</a>().equal_range(rankSpell);</div>
-<div class="line"><span class="lineno">  573</span>        <span class="keywordflow">for</span> (Unit::AuraApplicationMap::iterator it = bounds.first; it != bounds.second; ++it)</div>
-<div class="line"><span class="lineno">  574</span>        {</div>
-<div class="line"><span class="lineno">  575</span>            <a class="code hl_class" href="../../d2/d5a/a11903.html">AuraApplication</a>* app = it-&gt;second;</div>
-<div class="line"><span class="lineno">  576</span>            <span class="keywordflow">if</span> (app-&gt;<a class="code hl_function" href="../../d2/d5a/a11903.html#a9b6b06314c8c0314cfb8e19ec4e27bfd">GetBase</a>()-&gt;<a class="code hl_function" href="../../d7/dff/a11907.html#a3c4dfe75dad16fbf2afaf23ce77e4262">GetCasterGUID</a>() == casterGUID)</div>
-<div class="line"><span class="lineno">  577</span>                <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  578</span>            <span class="keywordflow">if</span> (!best || <a class="code hl_function" href="../../d7/d73/a02708.html#a2c54ebda028a15512cff94e01f9f92d8">IsPaladinAuraDominant</a>(app-&gt;<a class="code hl_function" href="../../d2/d5a/a11903.html#a9b6b06314c8c0314cfb8e19ec4e27bfd">GetBase</a>(), best-&gt;<a class="code hl_function" href="../../d2/d5a/a11903.html#a9b6b06314c8c0314cfb8e19ec4e27bfd">GetBase</a>(), target))</div>
-<div class="line"><span class="lineno">  579</span>                best = app;</div>
-<div class="line"><span class="lineno">  580</span>        }</div>
-<div class="line"><span class="lineno">  581</span>    }</div>
-<div class="line"><span class="lineno">  582</span>    <span class="keywordflow">return</span> best;</div>
-<div class="line"><span class="lineno">  583</span>}</div>
-<div class="ttc" id="aa02708_html_a2c54ebda028a15512cff94e01f9f92d8"><div class="ttname"><a href="../../d7/d73/a02708.html#a2c54ebda028a15512cff94e01f9f92d8">IsPaladinAuraDominant</a></div><div class="ttdeci">static bool IsPaladinAuraDominant(Aura const *aura, Aura const *other, Unit const *target)</div><div class="ttdef"><b>Definition:</b> SpellAuras.cpp:542</div></div>
-<div class="ttc" id="aa02741_html_aa21e14d8e1145507b746a69b5487109d"><div class="ttname"><a href="../../d6/d0b/a02741.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a></div><div class="ttdeci">#define sSpellMgr</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:847</div></div>
-<div class="ttc" id="aa04691_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d6/d12/a04691.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
-<div class="ttc" id="aa09227_html_a04a66c0ec19dafbd2c85574bc2e75100"><div class="ttname"><a href="../../d9/d33/a09227.html#a04a66c0ec19dafbd2c85574bc2e75100">Unit::AuraApplicationMapBoundsNonConst</a></div><div class="ttdeci">std::pair&lt; AuraApplicationMap::iterator, AuraApplicationMap::iterator &gt; AuraApplicationMapBoundsNonConst</div><div class="ttdef"><b>Definition:</b> Unit.h:678</div></div>
-<div class="ttc" id="aa09227_html_adc7150ef9ed6fc45dc84ac504fd75141"><div class="ttname"><a href="../../d9/d33/a09227.html#adc7150ef9ed6fc45dc84ac504fd75141">Unit::GetAppliedAuras</a></div><div class="ttdeci">AuraApplicationMap &amp; GetAppliedAuras()</div><div class="ttdef"><b>Definition:</b> Unit.h:1391</div></div>
-<div class="ttc" id="aa11903_html"><div class="ttname"><a href="../../d2/d5a/a11903.html">AuraApplication</a></div><div class="ttdef"><b>Definition:</b> SpellAuras.h:37</div></div>
-<div class="ttc" id="aa11903_html_a9b6b06314c8c0314cfb8e19ec4e27bfd"><div class="ttname"><a href="../../d2/d5a/a11903.html#a9b6b06314c8c0314cfb8e19ec4e27bfd">AuraApplication::GetBase</a></div><div class="ttdeci">Aura * GetBase() const</div><div class="ttdef"><b>Definition:</b> SpellAuras.h:63</div></div>
-<div class="ttc" id="aa11907_html_a3c4dfe75dad16fbf2afaf23ce77e4262"><div class="ttname"><a href="../../d7/dff/a11907.html#a3c4dfe75dad16fbf2afaf23ce77e4262">Aura::GetCasterGUID</a></div><div class="ttdeci">ObjectGuid GetCasterGUID() const</div><div class="ttdef"><b>Definition:</b> SpellAuras.h:106</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01391">Unit::GetAppliedAuras()</a>, <a class="el" href="../../#l00063">AuraApplication::GetBase()</a>, <a class="el" href="../../#l00106">Aura::GetCasterGUID()</a>, <a class="el" href="../../#l00542">IsPaladinAuraDominant()</a>, and <a class="el" href="../../#l00847">sSpellMgr</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00585">Aura::UpdateTargetMap()</a>.</p>
-
-</div>
-</div>
-<a id="a2c54ebda028a15512cff94e01f9f92d8" name="a2c54ebda028a15512cff94e01f9f92d8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2c54ebda028a15512cff94e01f9f92d8">&#9670;&#160;</a></span>IsPaladinAuraDominant()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">static bool IsPaladinAuraDominant </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d7/dff/a11907.html">Aura</a> const *&#160;</td>
-          <td class="paramname"><em>aura</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d7/dff/a11907.html">Aura</a> const *&#160;</td>
-          <td class="paramname"><em>other</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d9/d33/a09227.html">Unit</a> const *&#160;</td>
-          <td class="paramname"><em>target</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  543</span>{</div>
-<div class="line"><span class="lineno">  544</span>    <span class="keyword">auto</span> primaryAmount = [](<a class="code hl_class" href="../../d7/dff/a11907.html">Aura</a> <span class="keyword">const</span>* a) -&gt; <a class="code hl_typedef" href="../../d6/d12/a04691.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div>
-<div class="line"><span class="lineno">  545</span>    {</div>
-<div class="line"><span class="lineno">  546</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d6/d12/a04691.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; <a class="code hl_define" href="../../d2/df5/a00137.html#ac5733f5b58bf8a23a1919a005b5ec895">MAX_SPELL_EFFECTS</a>; ++i)</div>
-<div class="line"><span class="lineno">  547</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../de/d67/a11895.html">AuraEffect</a>* eff = a-&gt;GetEffect(i))</div>
-<div class="line"><span class="lineno">  548</span>                <span class="keywordflow">return</span> eff-&gt;GetAmount();</div>
-<div class="line"><span class="lineno">  549</span>        <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno">  550</span>    };</div>
-<div class="line"><span class="lineno">  551</span> </div>
-<div class="line"><span class="lineno">  552</span>    <a class="code hl_typedef" href="../../d6/d12/a04691.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> auraAmount = std::abs(primaryAmount(aura));</div>
-<div class="line"><span class="lineno">  553</span>    <a class="code hl_typedef" href="../../d6/d12/a04691.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> otherAmount = std::abs(primaryAmount(other));</div>
-<div class="line"><span class="lineno">  554</span>    <span class="keywordflow">if</span> (auraAmount != otherAmount)</div>
-<div class="line"><span class="lineno">  555</span>        <span class="keywordflow">return</span> auraAmount &gt; otherAmount;</div>
-<div class="line"><span class="lineno">  556</span> </div>
-<div class="line"><span class="lineno">  557</span>    <span class="keywordtype">bool</span> auraSelf = aura-&gt;GetCasterGUID() == target-&gt;GetGUID();</div>
-<div class="line"><span class="lineno">  558</span>    <span class="keywordtype">bool</span> otherSelf = other-&gt;GetCasterGUID() == target-&gt;GetGUID();</div>
-<div class="line"><span class="lineno">  559</span>    <span class="keywordflow">if</span> (auraSelf != otherSelf)</div>
-<div class="line"><span class="lineno">  560</span>        <span class="keywordflow">return</span> auraSelf;</div>
-<div class="line"><span class="lineno">  561</span> </div>
-<div class="line"><span class="lineno">  562</span>    <span class="keywordflow">return</span> aura-&gt;GetCasterGUID() &lt; other-&gt;GetCasterGUID();</div>
-<div class="line"><span class="lineno">  563</span>}</div>
-<div class="ttc" id="aa00137_html_ac5733f5b58bf8a23a1919a005b5ec895"><div class="ttname"><a href="../../d2/df5/a00137.html#ac5733f5b58bf8a23a1919a005b5ec895">MAX_SPELL_EFFECTS</a></div><div class="ttdeci">#define MAX_SPELL_EFFECTS</div><div class="ttdef"><b>Definition:</b> DBCStructure.h:1673</div></div>
-<div class="ttc" id="aa04691_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../d6/d12/a04691.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition:</b> Define.h:103</div></div>
-<div class="ttc" id="aa04691_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d6/d12/a04691.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
-<div class="ttc" id="aa11895_html"><div class="ttname"><a href="../../de/d67/a11895.html">AuraEffect</a></div><div class="ttdef"><b>Definition:</b> SpellAuraEffects.h:39</div></div>
-<div class="ttc" id="aa11907_html"><div class="ttname"><a href="../../d7/dff/a11907.html">Aura</a></div><div class="ttdef"><b>Definition:</b> SpellAuras.h:88</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00106">Aura::GetCasterGUID()</a>, <a class="el" href="../../#l00120">Object::GetGUID()</a>, and <a class="el" href="../../#l01673">MAX_SPELL_EFFECTS</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00567">GetDominantOtherSameSpellApp()</a>, and <a class="el" href="../../#l00585">Aura::UpdateTargetMap()</a>.</p>
-
-</div>
-</div>
-<h2 class="groupheader">Variable Documentation</h2>
-<a id="a49c1eff45f8eb67e523f8593923a5df0" name="a49c1eff45f8eb67e523f8593923a5df0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a49c1eff45f8eb67e523f8593923a5df0">&#9670;&#160;</a></span>UPDATE_TARGET_MAP_INTERVAL</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">constexpr <a class="el" href="../../d6/d12/a04691.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> UPDATE_TARGET_MAP_INTERVAL = 500</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">constexpr</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<dl class="todo"><dt><b><a class="el" href="../../dd/df7/a05111.html#_todo000109">Todo:</a></b></dt><dd>: this import is not necessary for compilation and marked as unused by the IDE </dd></dl>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00585">Aura::UpdateTargetMap()</a>.</p>
-
-</div>
-</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_ef7aca743453a8310aabb86ba904b3f6.html">Spells</a></li><li class="navelem"><a class="el" href="../../dir_8af33554ddafa3432455437cc558c9c8.html">Auras</a></li><li class="navelem"><a class="el" href="../../d7/d73/a02708.html">SpellAuras.cpp</a></li>
-    <li class="footer">Generated on Tue Oct 13 2026 02:14:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_ef7aca743453a8310aabb86ba904b3f6.html">Spells</a></li><li class="navelem"><a class="el" href="../../dir_8af33554ddafa3432455437cc558c9c8.html">Auras</a></li><li class="navelem"><a class="el" href="../../d7/d73/a02708.html">SpellAuras.h</a></li>
+    <li class="footer">Generated on Mon Oct 19 2026 23:55:51 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

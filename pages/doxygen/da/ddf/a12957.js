@@ -1,7 +1,7 @@
 var a12957 =
 [
-    [ "boss_broodlord", "da/ddf/a12957.html#a3194ef765e313daaa4a0e476ec3edafa", null ],
-    [ "JustDied", "da/ddf/a12957.html#ac3f6f747fbe61e70562f14b9aa304765", null ],
-    [ "JustEngagedWith", "da/ddf/a12957.html#acb7214857320945a646574b0130a9585", null ],
-    [ "UpdateAI", "da/ddf/a12957.html#a5cdb166366938797de9d691096f0f155", null ]
+    [ "boss_warmaster_voone", "da/ddf/a12957.html#a5dd3b0140dda8ef141c9598a427f6633", null ],
+    [ "DamageTaken", "da/ddf/a12957.html#a48e135857ef9e7e524e07ed979f137e6", null ],
+    [ "ExecuteEvent", "da/ddf/a12957.html#a2ff38398f38e61f91bd1aa7222867fd3", null ],
+    [ "JustEngagedWith", "da/ddf/a12957.html#a961113ecf4c46f52001d153a60ea238a", null ]
 ];

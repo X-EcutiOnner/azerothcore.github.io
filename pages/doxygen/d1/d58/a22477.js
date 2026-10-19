@@ -1,7 +1,8 @@
 var a22477 =
 [
-    [ "HandleScript", "d1/d58/a22477.html#ad38771460ddf0f95783718775690d1f0", null ],
-    [ "PrepareSpellScript", "d1/d58/a22477.html#a9d3b65b251cc9680352bbf056bb74f05", null ],
-    [ "Register", "d1/d58/a22477.html#a3ba23fd54c35c2d2866db647811c948d", null ],
-    [ "Validate", "d1/d58/a22477.html#a6a58808356785c25032c2befd429ff2b", null ]
+    [ "npc_hyldsmeet_protodrake", "d1/d58/a22477.html#a409a5f5eace583ef874421819c975ed8", null ],
+    [ "PassengerBoarded", "d1/d58/a22477.html#a0067d3b394c967946e329ea25c2dc315", null ],
+    [ "UpdateAI", "d1/d58/a22477.html#a49ce0b6b324b968b1b2902c1db037a53", null ],
+    [ "_accessoryInstalled", "d1/d58/a22477.html#af9a5984f66eb3a1a26e8c1640bcf7597", null ],
+    [ "_accessoryRespawnTimer", "d1/d58/a22477.html#a724645a3d05ba26d99a8bc1668d1dc3a", null ]
 ];

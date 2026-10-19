@@ -1,7 +1,8 @@
 var a25957 =
 [
-    [ "HandleScriptEffect", "d8/dfd/a25957.html#acbcc05fa433f5bf75998b15e4e25fdad", null ],
-    [ "PrepareSpellScript", "d8/dfd/a25957.html#adf5a3b94012ac871c70f5782d57ae1cd", null ],
-    [ "Register", "d8/dfd/a25957.html#a00596a3f8f0699c25e52a5778d59a2b2", null ],
-    [ "SelectTarget", "d8/dfd/a25957.html#a6a59b7ce696f959b2026cf8088079e89", null ]
+    [ "CheckProc", "d8/dfd/a25957.html#adbd524ef767a8b5cde13a5358969e344", null ],
+    [ "HandleProc", "d8/dfd/a25957.html#ab208e39ea63158688a6a028696b9adc5", null ],
+    [ "PrepareAuraScript", "d8/dfd/a25957.html#ad078ad76f0d0f88b9d52c88127d1aae7", null ],
+    [ "Register", "d8/dfd/a25957.html#a834868e504beece0ce5e1e1745f96f63", null ],
+    [ "Validate", "d8/dfd/a25957.html#a779b560a877ac0e731fe50c25af3d4d9", null ]
 ];

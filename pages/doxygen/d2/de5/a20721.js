@@ -1,11 +1,7 @@
 var a20721 =
 [
-    [ "npc_ulduar_proximity_mine", "d2/de5/a20721.html#a4d8a6ab45b259e42d33d5114d1f7e947", null ],
-    [ "AttackStart", "d2/de5/a20721.html#ae88f3a9cb40aebb469849799e7b7c7c0", null ],
-    [ "CanAIAttack", "d2/de5/a20721.html#a18311072271a18b279c5bf21f7da2482", null ],
-    [ "MoveInLineOfSight", "d2/de5/a20721.html#a6a406f8098dac7038173f51e9f85a79b", null ],
-    [ "UpdateAI", "d2/de5/a20721.html#ad014e0aa8125ef13cfea039acfe0c76f", null ],
-    [ "_exploded", "d2/de5/a20721.html#ad1cd15a93a35f4034c0d690e8d1713ea", null ],
-    [ "_timer", "d2/de5/a20721.html#afe009de55826305826105bd29458d0eb", null ],
-    [ "_timer2", "d2/de5/a20721.html#a08afb215eeaa5e0ec4d9543bc474d392", null ]
+    [ "FilterTargetsInitial", "d2/de5/a20721.html#a2477349cffb8da02936545ba0bd03d0f", null ],
+    [ "Load", "d2/de5/a20721.html#a4606d10a2699e3fb5290cefdc0876505", null ],
+    [ "PrepareSpellScript", "d2/de5/a20721.html#aa28f3565bddf70b98c945be7a7a37bad", null ],
+    [ "Register", "d2/de5/a20721.html#ae9bbe2d4ce5413f040b8b5f73f985822", null ]
 ];

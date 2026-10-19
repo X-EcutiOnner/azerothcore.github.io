@@ -1,6 +1,8 @@
 var a03392 =
 [
-    [ "WorldPackets::WorldState::InitWorldStates", "d9/d53/a11731.html", "d9/d53/a11731" ],
-    [ "WorldPackets::WorldState::InitWorldStates::WorldStateInfo", "d2/df9/a11735.html", "d2/df9/a11735" ],
-    [ "WorldPackets::WorldState::UpdateWorldState", "d1/d7f/a11739.html", "d1/d7f/a11739" ]
+    [ "WorldPackets::Bank::AutoBankItem", "da/d84/a11017.html", "da/d84/a11017" ],
+    [ "WorldPackets::Bank::AutoStoreBankItem", "df/d3b/a11021.html", "df/d3b/a11021" ],
+    [ "WorldPackets::Bank::BuyBankSlot", "d0/d60/a11025.html", "d0/d60/a11025" ],
+    [ "WorldPackets::Bank::BuyBankSlotResult", "d3/d39/a11029.html", "d3/d39/a11029" ],
+    [ "WorldPackets::Bank::ShowBank", "dc/dd8/a11033.html", "dc/dd8/a11033" ]
 ];

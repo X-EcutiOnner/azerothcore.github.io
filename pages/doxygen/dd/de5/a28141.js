@@ -1,5 +1,6 @@
 var a28141 =
 [
-    [ "achievement_everything_counts", "dd/de5/a28141.html#af18e6b3128a9d722c98f33f7ec6430b3", null ],
-    [ "OnCheck", "dd/de5/a28141.html#a81741a8df4d10b37314ec8ef09eb888b", null ]
+    [ "HandleProc", "dd/de5/a28141.html#a72d56ccc2c6f0337fa68c2759d90c5d6", null ],
+    [ "PrepareAuraScript", "dd/de5/a28141.html#a49a96d3aa0220b4ec77fb1a384826614", null ],
+    [ "Register", "dd/de5/a28141.html#adf0852d1aad8097143df205a66a49f2f", null ]
 ];

@@ -1,6 +1,12 @@
 var a20941 =
 [
-    [ "PrepareSpellScript", "d9/dd5/a20941.html#a3c8337cc17ec735fc97f5195a1e820b6", null ],
-    [ "Register", "d9/dd5/a20941.html#ae0cc2794b1d2b8de442dbf30f7da8883", null ],
-    [ "SelectPillar", "d9/dd5/a20941.html#a2eaa34f9f3b3d255fc5091fb5b48f60a", null ]
+    [ "boss_thorim_sif", "d9/dd5/a20941.html#a9762a5d386897bcd6d42b3c36d9fc18f", null ],
+    [ "AttackStart", "d9/dd5/a20941.html#a3da2809c4e7aa0c051647be354ade759", null ],
+    [ "DoAction", "d9/dd5/a20941.html#a61fec6c7b91d5f34339ebabd18b94e5d", null ],
+    [ "IsSummonedBy", "d9/dd5/a20941.html#a126b546655d4438bf25d0870f5c550b8", null ],
+    [ "MoveInLineOfSight", "d9/dd5/a20941.html#a5c1dfc697a84d4eb3ea6074514034343", null ],
+    [ "Reset", "d9/dd5/a20941.html#a3f747b6da8db72fd61c50a24096834c2", null ],
+    [ "UpdateAI", "d9/dd5/a20941.html#adbe7effa0bab5046f26f8d7df0f82a04", null ],
+    [ "_allowCast", "d9/dd5/a20941.html#a6081345415b9ae3892d4f150a195908c", null ],
+    [ "events", "d9/dd5/a20941.html#a5d64d273a6aefdd9359b71963271b4ee", null ]
 ];

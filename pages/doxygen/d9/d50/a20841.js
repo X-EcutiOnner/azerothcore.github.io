@@ -1,13 +1,5 @@
 var a20841 =
 [
-    [ "npc_razorscale_dark_rune_guardian", "d9/d50/a20841.html#a539b905da508869adcc7bad601490c9f", null ],
-    [ "CanAIAttack", "d9/d50/a20841.html#a096058710ee0d02583c4402081da9f18", null ],
-    [ "GetData", "d9/d50/a20841.html#ac1bb7e2ac921fa542ec414a204117f98", null ],
-    [ "JustEngagedWith", "d9/d50/a20841.html#ac7fb0480f94e0e8ca0061947ec7fdebb", null ],
-    [ "Reset", "d9/d50/a20841.html#afd7fcb578ea65c7a060215257bcc5589", null ],
-    [ "SetData", "d9/d50/a20841.html#a7adbb5b9fa95e7ab73ac5acf81ffefdc", null ],
-    [ "UpdateAI", "d9/d50/a20841.html#ab4ab3b501994c55ce6c2a7b01b8ca70b", null ],
-    [ "_events", "d9/d50/a20841.html#a6faba05e56bdbd4453ee44f9de7dca2d", null ],
-    [ "_instance", "d9/d50/a20841.html#aa392619b8e14ec4092e78cfdfe367858", null ],
-    [ "_killed", "d9/d50/a20841.html#af9dafde2780d5be7a6e22025299dc013", null ]
+    [ "achievement_mimiron_set_up_us_the_bomb_11", "d9/d50/a20841.html#a5d8980111e029b4c9311737f3985ab61", null ],
+    [ "OnCheck", "d9/d50/a20841.html#a7682a7f2f4417dcf75ec58e34e4fd6bc", null ]
 ];

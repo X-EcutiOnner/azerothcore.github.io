@@ -1,7 +1,7 @@
 var a27917 =
 [
-    [ "HandleProc", "d1/dc0/a27917.html#a864e976a61091512a7eab904e5390234", null ],
-    [ "PrepareAuraScript", "d1/dc0/a27917.html#a8cd8814aa7c53aa28399b4ff51f0fa41", null ],
-    [ "Register", "d1/dc0/a27917.html#a8509759360e3443ceca9a9fcbd729996", null ],
-    [ "Validate", "d1/dc0/a27917.html#a7687471989fc9595e36201dba74b8689", null ]
+    [ "HandleTeleport", "d1/dc0/a27917.html#a7ba7b82988dab5fd8e691b5b87c3d959", null ],
+    [ "PrepareAuraScript", "d1/dc0/a27917.html#a2307b7eccd4dd08d7e97ece704ddc4fb", null ],
+    [ "Register", "d1/dc0/a27917.html#a82432a4448d8c23ea2a39b4b26eb1b58", null ],
+    [ "Validate", "d1/dc0/a27917.html#adabf22bd591a10662ffbf0354a18a936", null ]
 ];

@@ -1,6 +1,7 @@
 var a04583 =
 [
-    [ "anonymous_namespace{CombatManagerTest.cpp}::CombatManagerIntegrationTest", "db/dbe/a29999.html", "db/dbe/a29999" ],
+    [ "anonymous_namespace{CombatManagerTest.cpp}::CombatManagerIntegrationTest", "d7/d38/a30017.html", "d7/d38/a30017" ],
+    [ "anonymous_namespace{CombatManagerTest.cpp}::CombatManagerPvPDeathTest", "d0/daf/a30021.html", "d0/daf/a30021" ],
     [ "TEST_F", "d0/d9d/a04583.html#a4e884ffb1e5260843671aa55d5c74077", null ],
     [ "TEST_F", "d0/d9d/a04583.html#a57bd84ef74a905a79bd6fc66669e95f3", null ],
     [ "TEST_F", "d0/d9d/a04583.html#a734ff1f0a5561e9df1eb4ee2ca5a9e06", null ],
@@ -75,5 +76,14 @@ var a04583 =
     [ "TEST_F", "d0/d9d/a04583.html#aaf05c794bea64153973b45676f5d9db9", null ],
     [ "TEST_F", "d0/d9d/a04583.html#a7e52ce8231be48471b0806adf2d0dd6f", null ],
     [ "TEST_F", "d0/d9d/a04583.html#a339462888c2f46a63c5ffb6798744896", null ],
-    [ "TEST_F", "d0/d9d/a04583.html#aa661ce49c1ee773b1b610749e2bcbdd4", null ]
+    [ "TEST_F", "d0/d9d/a04583.html#aa661ce49c1ee773b1b610749e2bcbdd4", null ],
+    [ "TEST_F", "d0/d9d/a04583.html#a5d8e1401eb24741e8daa0c06035dc344", null ],
+    [ "TEST_F", "d0/d9d/a04583.html#a41bd9da66c2fbcf51ac059a4390ac643", null ],
+    [ "TEST_F", "d0/d9d/a04583.html#adddfc23677639773d613e6776c6b32e9", null ],
+    [ "TEST_F", "d0/d9d/a04583.html#a9a56a1ba7452b2fed716ee6fb2150f6f", null ],
+    [ "TEST_F", "d0/d9d/a04583.html#ada3fcf9e5e2f83a3f7346734fe12198b", null ],
+    [ "TEST_F", "d0/d9d/a04583.html#a632d4267dd0b46cc4c3f046c2e45c265", null ],
+    [ "TEST_F", "d0/d9d/a04583.html#a198de6feef3a5ccf0985ad1eab2bf218", null ],
+    [ "TEST_F", "d0/d9d/a04583.html#a3096fe9c36e34c59deed17d793da1abc", null ],
+    [ "TEST_F", "d0/d9d/a04583.html#a6546d446aa11ecc917f215ee70cf85f9", null ]
 ];

@@ -1,15 +1,17 @@
 var a10969 =
 [
-    [ "MapScript", "d4/dd9/a10969.html#a1932ac48acf7c937c060ee35804e79da", null ],
-    [ "checkMap", "d4/dd9/a10969.html#abf3fbb90119e1ac5d13455217ac95a2f", null ],
-    [ "GetEntry", "d4/dd9/a10969.html#aa2da3eeec627cb67719d774d35f03488", null ],
-    [ "OnCreate", "d4/dd9/a10969.html#a8132edffb918e8b3b1131ae29a8d9e9b", null ],
-    [ "OnDestroy", "d4/dd9/a10969.html#a4631768d457c2804f057c565d6e8fb7a", null ],
-    [ "OnLoadGridMap", "d4/dd9/a10969.html#a77381401d4638c6149f21836f1ca6676", null ],
-    [ "OnPlayerEnter", "d4/dd9/a10969.html#a9cef8253d591e729b4119312ec0b670a", null ],
-    [ "OnPlayerLeave", "d4/dd9/a10969.html#a3d74ae0f2535cda31cf2d4125600f3e2", null ],
-    [ "OnUnloadGridMap", "d4/dd9/a10969.html#a657bcd69e932d358e2c66daa6f571cfe", null ],
-    [ "OnUpdate", "d4/dd9/a10969.html#a4e447511780a0c561e16b9e118361f63", null ],
-    [ "_mapEntry", "d4/dd9/a10969.html#a280ca8d9bfa672c10d34a99db53d2959", null ],
-    [ "_mapId", "d4/dd9/a10969.html#a1cbe9ae08f6e1c129df8d2277366eb1a", null ]
+    [ "WorldScript", "d4/dd9/a10969.html#a729919f2184c74cab388b5e5e509bc37", null ],
+    [ "OnAfterConfigLoad", "d4/dd9/a10969.html#affadabcae325631b2683ef458c6d13ee", null ],
+    [ "OnAfterUnloadAllMaps", "d4/dd9/a10969.html#a15bc203d07dd2fef96c2a6d13d3ddd44", null ],
+    [ "OnBeforeConfigLoad", "d4/dd9/a10969.html#a78baa1285b6495d7beace131dfba8400", null ],
+    [ "OnBeforeFinalizePlayerWorldSession", "d4/dd9/a10969.html#a480e411f6178e5128bc5e760d9f36d99", null ],
+    [ "OnBeforeWorldInitialized", "d4/dd9/a10969.html#a8ec0a2cc97986db07698392e5c503571", null ],
+    [ "OnLoadCustomDatabaseTable", "d4/dd9/a10969.html#af9c5296102d7ef0f716796788650ec4d", null ],
+    [ "OnMotdChange", "d4/dd9/a10969.html#a3a72e488dd36a672d7aaa0b59fffe154", null ],
+    [ "OnOpenStateChange", "d4/dd9/a10969.html#a7eab4282e8be8ef2a643478f9fe6e0e2", null ],
+    [ "OnShutdown", "d4/dd9/a10969.html#a3578707d9be5da90530633a93b4b2bf8", null ],
+    [ "OnShutdownCancel", "d4/dd9/a10969.html#a322bd84359ac77369d9aa84bc8bf9649", null ],
+    [ "OnShutdownInitiate", "d4/dd9/a10969.html#a83c76efd3de10b0a35c4a311c44d13c1", null ],
+    [ "OnStartup", "d4/dd9/a10969.html#a117234aac087ec653c83cfe01a6dce7a", null ],
+    [ "OnUpdate", "d4/dd9/a10969.html#ad28857965a9f6f993a47c95af6d9c5ad", null ]
 ];

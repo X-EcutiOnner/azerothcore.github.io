@@ -1,7 +1,6 @@
 var a11729 =
 [
-    [ "UpdateWorldState", "d5/df9/a11729.html#a1ccdf24be9a20c824b479af014f4fcb0", null ],
-    [ "Write", "d5/df9/a11729.html#a76a4c5d6a06ce8d86a2d3f04f68e838d", null ],
-    [ "Value", "d5/df9/a11729.html#a51fa2401d8af4c1c7848b423cb6f056f", null ],
-    [ "VariableID", "d5/df9/a11729.html#aa73278b324822f509f48e6edcdaed457", null ]
+    [ "QuestConfirmAcceptClient", "d5/df9/a11729.html#ac45767c9cf0e197e185a8936598fc9ea", null ],
+    [ "Read", "d5/df9/a11729.html#a483980152418879fd1a55db2fa4bf68a", null ],
+    [ "QuestId", "d5/df9/a11729.html#a25b4b779fdf9e642b2fe13faf03d50b1", null ]
 ];

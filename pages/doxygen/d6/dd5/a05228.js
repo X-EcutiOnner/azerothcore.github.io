@@ -1,16 +1,12 @@
 var a05228 =
 [
-    [ "MDLCallback", "d5/d8b/a05232.html", "d5/d8b/a05232" ],
-    [ "ObjArray", "d6/dd5/a05228.html#a19e64f06ddaf36271df3c1192908042b", null ],
-    [ "BIHWrap", "d6/dd5/a05228.html#a8572b541e513074132ba0834e081ec05", null ],
-    [ "balance", "d6/dd5/a05228.html#a7a191f8c9d3b20807ef1db9be654ccd1", null ],
-    [ "insert", "d6/dd5/a05228.html#ab859ad633f695002cf37776c0e124bbf", null ],
-    [ "intersectPoint", "d6/dd5/a05228.html#affbe1a82d945190374753ab6af811ca4", null ],
-    [ "intersectRay", "d6/dd5/a05228.html#a6dcddc2503a0acabc0f29ddb5eace803", null ],
-    [ "remove", "d6/dd5/a05228.html#aeff1ff9ee3d3965dc4169ea6f0fc9839", null ],
-    [ "m_obj2Idx", "d6/dd5/a05228.html#a04248b957bc22dbae570a3d96a03adcd", null ],
-    [ "m_objects", "d6/dd5/a05228.html#a1e3b7eb01db291f5dd7febe7c7198ea3", null ],
-    [ "m_objects_to_push", "d6/dd5/a05228.html#abd68da8091bf1694013d1231936a8a2c", null ],
-    [ "m_tree", "d6/dd5/a05228.html#a13a40cee1097ab0435eb2d50518a41bf", null ],
-    [ "unbalanced_times", "d6/dd5/a05228.html#abc44d55ac155023c2661d2687c068a4b", null ]
+    [ "FrostboltPvPTest", "d7/dc6/a30109.html", "d7/dc6/a30109" ],
+    [ "TEST_F", "d6/dd5/a05228.html#a505e9af595a807914a390aa3fe2b5a3f", null ],
+    [ "TEST_F", "d6/dd5/a05228.html#a3a2bcf2a861c5ae0aa63621f4768abd6", null ],
+    [ "TEST_F", "d6/dd5/a05228.html#ac1d8ca954bc5412a7a494f77aae4ed64", null ],
+    [ "TEST_F", "d6/dd5/a05228.html#a1baefe138ddf5a4c83ade03ad1e71835", null ],
+    [ "FROSTBOLT_BASE_DAMAGE", "d6/dd5/a05228.html#a620444164ecdf992df4d10b61454d3cf", null ],
+    [ "FROSTBOLT_DURATION_MS", "d6/dd5/a05228.html#a6d55f8f70ec9e5652a08520d2533600f", null ],
+    [ "FROSTBOLT_SLOW_PCT", "d6/dd5/a05228.html#a21ce900035aa8f72aef05d123f52ee4a", null ],
+    [ "FROSTBOLT_SPELL_ID", "d6/dd5/a05228.html#a896c09069ad88a91db2f3b2182109078", null ]
 ];

@@ -1,9 +1,7 @@
 var a09309 =
 [
-    [ "day", "d0/db1/a09309.html#a50a70dfa2fdb407101edf051eeacbad6", null ],
-    [ "holidayId", "d0/db1/a09309.html#a2105d2c9d4b2867650f0a3b67b035416", null ],
-    [ "month", "d0/db1/a09309.html#a55e1cf64111db7eeeec72c594b76c56d", null ],
-    [ "offset", "d0/db1/a09309.html#aaa9bf14668239ea561aecc33104e245a", null ],
-    [ "type", "d0/db1/a09309.html#a25f2529332f23c93b37e5c918032eb3d", null ],
-    [ "weekday", "d0/db1/a09309.html#ac431dcdf2d64ae5e31d72971d208ef5b", null ]
+    [ "Done", "d0/db1/a09309.html#abc88850d392fb4b62e778d09445de0be", null ],
+    [ "DoneWorldState", "d0/db1/a09309.html#a380755d90c958b6532bae7f8a4d70b44", null ],
+    [ "MaxWorldState", "d0/db1/a09309.html#a8c144531f876b6def613c0011e0efe47", null ],
+    [ "ReqNum", "d0/db1/a09309.html#ae1d182aef449388993e4965de447d971", null ]
 ];

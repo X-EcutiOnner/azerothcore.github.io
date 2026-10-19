@@ -1,6 +1,6 @@
 var a19149 =
 [
-    [ "npc_captain_grondelAI", "d5/de0/a19149.html#afbc971fc03584b87229318309d51a2f5", null ],
-    [ "Reset", "d5/de0/a19149.html#a7d3878822e77fba66891e87e23bd3740", null ],
-    [ "UpdateAI", "d5/de0/a19149.html#a4af8548092b49653805224bd4c0ac0a2", null ]
+    [ "npc_crok_scourgebaneAI", "d4/df7/a19153.html", "d4/df7/a19153" ],
+    [ "npc_crok_scourgebane", "d5/de0/a19149.html#a5f560e2c62aa618eadb5a11e2c9b90a3", null ],
+    [ "GetAI", "d5/de0/a19149.html#afa4fcbb9d7281fbee3f8bc0f318d2e6b", null ]
 ];

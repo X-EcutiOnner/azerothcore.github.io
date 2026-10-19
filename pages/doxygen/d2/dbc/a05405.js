@@ -1,15 +1,11 @@
 var a05405 =
 [
-    [ "TileAssembler", "d2/dbc/a05405.html#a3adc1db46b998c140bb4ad0573153974", null ],
-    [ "~TileAssembler", "d2/dbc/a05405.html#a4e020e9814223203177a822a052ddfe4", null ],
-    [ "calculateTransformedBound", "d2/dbc/a05405.html#ab3ed8e882c59d777d8c5312449b86753", null ],
-    [ "convertRawFile", "d2/dbc/a05405.html#a41d989f750b6885e6f5308b71fb7ad51", null ],
-    [ "convertWorld2", "d2/dbc/a05405.html#adabcb9cefdd3fcab94c5471948dbe0b0", null ],
-    [ "exportGameobjectModels", "d2/dbc/a05405.html#a3ed04f54c64010a0ad702b2da4161e3b", null ],
-    [ "readMapSpawns", "d2/dbc/a05405.html#a55392fc72758db7b4ea5fea85d7934ee", null ],
-    [ "iDestDir", "d2/dbc/a05405.html#ad444a6005a59975ed0ca78f180dcba7d", null ],
-    [ "iSrcDir", "d2/dbc/a05405.html#a8a2bf7e978b49407f3b4b2086c7497c4", null ],
-    [ "iUniqueNameIds", "d2/dbc/a05405.html#a15bb91fa77c238c1204f8f3f56e676a7", null ],
-    [ "mapData", "d2/dbc/a05405.html#a7190f8b7bf8b00367a113679a94fc5e7", null ],
-    [ "spawnedModelFiles", "d2/dbc/a05405.html#ab339dfc2062edfb47e77b042e5cf058f", null ]
+    [ "material", "d2/dbc/a05405.html#a29addcb613bc63a100633e612d1dc2d2", null ],
+    [ "pos_x", "d2/dbc/a05405.html#a02e9d8789336d77e34bffa19adbab394", null ],
+    [ "pos_y", "d2/dbc/a05405.html#ac3162ce321a1f21e4e6fe35041e49a6a", null ],
+    [ "pos_z", "d2/dbc/a05405.html#a6e2a2d5d9151d5c6d70fd0d47e6c18e3", null ],
+    [ "xtiles", "d2/dbc/a05405.html#a94789843c68d705184e6332ac46bd69d", null ],
+    [ "xverts", "d2/dbc/a05405.html#a0548c3fdb216c115a7d3843e4fbc6de3", null ],
+    [ "ytiles", "d2/dbc/a05405.html#ac50224cdce231460c78c3e0f077b555d", null ],
+    [ "yverts", "d2/dbc/a05405.html#aa9ecb62b53af527b3bd855b8e93ba604", null ]
 ];

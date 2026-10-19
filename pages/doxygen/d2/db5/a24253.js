@@ -1,6 +1,6 @@
 var a24253 =
 [
-    [ "npc_commander_dawnforgeAI", "d0/d74/a24257.html", "d0/d74/a24257" ],
-    [ "npc_commander_dawnforge", "d2/db5/a24253.html#ab4d430725f68f906e9c8def66b1d6646", null ],
-    [ "GetAI", "d2/db5/a24253.html#a6089b087b7c3b18659e23c677814318b", null ]
+    [ "go_beaconAI", "d0/d74/a24257.html", "d0/d74/a24257" ],
+    [ "go_beacon", "d2/db5/a24253.html#ad4224cabdc7210d9a0a46fb1eed1a23b", null ],
+    [ "GetAI", "d2/db5/a24253.html#abd168f0c1ac9a64cece280758f3120d4", null ]
 ];

@@ -1,7 +1,9 @@
 var a11821 =
 [
-    [ "Player", "da/d36/a11821.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
-    [ "WorldSession", "da/d36/a11821.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
-    [ "FactionChange", "da/d36/a11821.html#adff657ead29df26ead5e20a8ecf44e87", null ],
-    [ "Race", "da/d36/a11821.html#a98d5fd43205a0c9e2d3be75d384ce00c", null ]
+    [ "LoginQueryHolder", "da/d36/a11821.html#a0e1a9e1b505ba40d08daee432eaa40c1", null ],
+    [ "GetAccountId", "da/d36/a11821.html#ac44ea5d53fa90dae955bfaa3f472ecea", null ],
+    [ "GetGuid", "da/d36/a11821.html#a8cdce5befc3b7f8727eef78ab1f768a2", null ],
+    [ "Initialize", "da/d36/a11821.html#ae21aca0c9ccc627e084b4a535b3f5774", null ],
+    [ "_accountId", "da/d36/a11821.html#a58897938e2c878d8665739ae38d5d116", null ],
+    [ "_guid", "da/d36/a11821.html#aaa4b96d92d6fc702daf07b801b9bdb08", null ]
 ];

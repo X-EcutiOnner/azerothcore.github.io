@@ -1,16 +1,16 @@
 var a07537 =
 [
-    [ "BuildAuctionInfo", "d2/d96/a07537.html#ae220020b8cbb4e751bfa5798ea95d594", null ],
-    [ "CompareAuctionEntry", "d2/d96/a07537.html#a7daa9aa634bf2b589ef1906dfc0704d0", null ],
-    [ "SetItemNames", "d2/d96/a07537.html#a7d56d87bcd100bcb470bc7710c59bf9e", null ],
-    [ "bid", "d2/d96/a07537.html#a0b2c836d635d9a170b2d70b763c4907b", null ],
-    [ "bidderGuid", "d2/d96/a07537.html#ada14d168bde5da2b39c93a240941a80a", null ],
-    [ "buyout", "d2/d96/a07537.html#a978fea69d5c823f71e681903a432ec51", null ],
-    [ "expire_time", "d2/d96/a07537.html#aa3556fd353c58fda259c7dec52bb3b90", null ],
-    [ "Id", "d2/d96/a07537.html#aa52368fdef3baed1aed4af459f764b8b", null ],
-    [ "item", "d2/d96/a07537.html#a05df9a39681c0014a1c398b9bca1cbfe", null ],
-    [ "listFaction", "d2/d96/a07537.html#a988bdc1b8ae87c3797b24534e853213f", null ],
-    [ "ownerGuid", "d2/d96/a07537.html#a75e8c535be797d015ed970d896a56c29", null ],
-    [ "ownerName", "d2/d96/a07537.html#aaca6e4de9cfbc62eb1815c2cf79be123", null ],
-    [ "startbid", "d2/d96/a07537.html#ae3459d9794539591ae3727bdd6de3e2b", null ]
+    [ "AuctionEntryMap", "d2/d96/a07537.html#ab05cddc8805f4f6745a620aaf78490e6", null ],
+    [ "AuctionHouseObject", "d2/d96/a07537.html#ae980b3dc0cb776fa77810d488c0144aa", null ],
+    [ "~AuctionHouseObject", "d2/d96/a07537.html#abc1f401b8f18c6d5003fa337ed1e76bc", null ],
+    [ "AddAuction", "d2/d96/a07537.html#a9c61fcf5d92ad6cea5af36b1bd5cff5b", null ],
+    [ "GetAuction", "d2/d96/a07537.html#a8f549a3623e3f1c3b0b3a21dfdc24d85", null ],
+    [ "GetAuctions", "d2/d96/a07537.html#ac22a84a7e3f2c6baf5e40a1a43bbf098", null ],
+    [ "GetAuctionsBegin", "d2/d96/a07537.html#ae769fbe419c78c580fc0c6d6b91a6e28", null ],
+    [ "GetAuctionsEnd", "d2/d96/a07537.html#a9526b361608b03716918540116bc6d4d", null ],
+    [ "Getcount", "d2/d96/a07537.html#a49aa833a0d8fd698f116ebdf2544040f", null ],
+    [ "RemoveAuction", "d2/d96/a07537.html#af760e3c74242ab2bbc0cfb03a9224aff", null ],
+    [ "Update", "d2/d96/a07537.html#ae9a2bed6b57af310230134cdf2cfd46a", null ],
+    [ "_auctionsMap", "d2/d96/a07537.html#a92e8694ba6d22e26bedb19b2d0619a9f", null ],
+    [ "_next", "d2/d96/a07537.html#aa8780a803119c4350d367f39daff32a1", null ]
 ];

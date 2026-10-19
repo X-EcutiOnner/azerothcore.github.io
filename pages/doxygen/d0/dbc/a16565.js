@@ -1,7 +1,7 @@
 var a16565 =
 [
-    [ "HandleHit", "d0/dbc/a16565.html#abd59d91ab50eb8945a4a00157d9d5564", null ],
-    [ "PrepareSpellScript", "d0/dbc/a16565.html#a27549f3cacc1732bbc1e61209e0f4905", null ],
-    [ "Register", "d0/dbc/a16565.html#af132eee38064c5123f4e01d52efb9314", null ],
-    [ "Validate", "d0/dbc/a16565.html#accad8dfdf29a1475b6f272259f1ed9bf", null ]
+    [ "OnRemove", "d0/dbc/a16565.html#afb0821bc8774e634eefdd87efe6af945", null ],
+    [ "PrepareAuraScript", "d0/dbc/a16565.html#a54b1de501bdf3193cdb89125bc1ceb0e", null ],
+    [ "Register", "d0/dbc/a16565.html#a985ad6d7eca06fbaf869e591136f46a3", null ],
+    [ "Validate", "d0/dbc/a16565.html#aa794b76c4d9590b867dda57f02724d95", null ]
 ];

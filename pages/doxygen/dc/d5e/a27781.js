@@ -1,7 +1,6 @@
 var a27781 =
 [
-    [ "HandleProc", "dc/d5e/a27781.html#a5e428ae0d1d6b54494a62ca0a77820c9", null ],
-    [ "PrepareAuraScript", "dc/d5e/a27781.html#a953eee0cd2f18703ce04b1579d698365", null ],
-    [ "Register", "dc/d5e/a27781.html#a8552c78a1d78fae17650a24c25b87ad3", null ],
-    [ "Validate", "dc/d5e/a27781.html#aadd49f63e9203d3314c5597ef72f6658", null ]
+    [ "HandleProc", "dc/d5e/a27781.html#a933975b17f340d9f458dc95b77aa43ac", null ],
+    [ "PrepareAuraScript", "dc/d5e/a27781.html#ad9df49f481d936068ebee0d2f6179e9f", null ],
+    [ "Register", "dc/d5e/a27781.html#a54dd9a2a6646282897cabec00f092525", null ]
 ];

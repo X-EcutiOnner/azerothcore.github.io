@@ -1,4 +1,31 @@
 var a10705 =
 [
-    [ "RewardText", "d3/d4e/a10705.html#afa9f5200ef634323d719794e1d1aa4d2", null ]
+    [ "SpawnedPoolData", "d3/d4e/a10705.html#a3acf82d50d29f8a6709f3945852814b3", null ],
+    [ "SpawnedPoolData", "d3/d4e/a10705.html#a25dc9578a54fd03f8dc52cd540be0fc3", null ],
+    [ "SpawnedPoolData", "d3/d4e/a10705.html#ad5d5817bef9c042b31c27481945a1341", null ],
+    [ "AddSpawn", "d3/d4e/a10705.html#adcbf6eb50f94cdf3b6589f361aba5528", null ],
+    [ "AddSpawn", "d3/d4e/a10705.html#adcbf6eb50f94cdf3b6589f361aba5528", null ],
+    [ "AddSpawn", "d3/d4e/a10705.html#a165a58aeee8e57f3a1f325aad6194fca", null ],
+    [ "AddSpawn", "d3/d4e/a10705.html#a7c45dd2c6997ec782311de2045ed3240", null ],
+    [ "AddSpawn", "d3/d4e/a10705.html#a94d148833c7df1f2eacc779d1606884d", null ],
+    [ "GetMap", "d3/d4e/a10705.html#a359ce23f8902a5d167c371fa08b77622", null ],
+    [ "GetSpawnedObjects", "d3/d4e/a10705.html#ab9e8b69c2eba9aa762ced961937932e6", null ],
+    [ "GetSpawnedQuests", "d3/d4e/a10705.html#a0aceabaeaa1cdea07ce9e279a7c1e9fa", null ],
+    [ "IsSpawnedObject", "d3/d4e/a10705.html#aacc2dc95c6d0ebb71e350b90fe425fae", null ],
+    [ "IsSpawnedObject", "d3/d4e/a10705.html#aacc2dc95c6d0ebb71e350b90fe425fae", null ],
+    [ "IsSpawnedObject", "d3/d4e/a10705.html#a12d99faba9817b421ed017809f5b5522", null ],
+    [ "IsSpawnedObject", "d3/d4e/a10705.html#aa5a3584718d0fb70094628a924d4a62b", null ],
+    [ "IsSpawnedObject", "d3/d4e/a10705.html#af2ce600ebcdde78fc9a92c81f8757004", null ],
+    [ "operator=", "d3/d4e/a10705.html#afa9c18d4e018a27ef2b33f4efbd81f8b", null ],
+    [ "operator=", "d3/d4e/a10705.html#ae5f43c9ac2b0e896d2866a06a2e11188", null ],
+    [ "RemoveSpawn", "d3/d4e/a10705.html#a3332ac01f79565a51a42ced1ccda75ce", null ],
+    [ "RemoveSpawn", "d3/d4e/a10705.html#a3332ac01f79565a51a42ced1ccda75ce", null ],
+    [ "RemoveSpawn", "d3/d4e/a10705.html#a91fc6637b2f7e0b2a2a0d0affd55f928", null ],
+    [ "RemoveSpawn", "d3/d4e/a10705.html#a482389c673a3dad0a989584daeff718e", null ],
+    [ "RemoveSpawn", "d3/d4e/a10705.html#a65c0992944ce39744ae424335c1ac8db", null ],
+    [ "mOwner", "d3/d4e/a10705.html#a5f817e3b7c3d5b828862c74a221d4a84", null ],
+    [ "mSpawnedCreatures", "d3/d4e/a10705.html#a0822c3d4fa817f8cdf65591e7a63f912", null ],
+    [ "mSpawnedGameobjects", "d3/d4e/a10705.html#a125b8be6c77e460160b7c838e44d2cf5", null ],
+    [ "mSpawnedPools", "d3/d4e/a10705.html#abe8f0066dfccdc2f28abda68a83bd0a3", null ],
+    [ "mSpawnedQuests", "d3/d4e/a10705.html#aaea1258432d3c4061c08430f076cf20e", null ]
 ];

@@ -1,6 +1,13 @@
 var a24513 =
 [
-    [ "achievement", "d5/d43/a24513.html#abb6071e172abbcbc65020a0ad9554a03", null ],
-    [ "spell", "d5/d43/a24513.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
-    [ "text", "d5/d43/a24513.html#ab8c1bedac4bccf5c47eda591c9e5e9d1", null ]
+    [ "npc_unkor_the_ruthlessAI", "d5/d43/a24513.html#a965b0f182570a54ee4c0a6a54ba8fafb", null ],
+    [ "DamageTaken", "d5/d43/a24513.html#a88b5e4b43171be8cc62d2a10f188e363", null ],
+    [ "HasQuestActive", "d5/d43/a24513.html#ad97ea6721dcea4058167ea327dc0c515", null ],
+    [ "JustEngagedWith", "d5/d43/a24513.html#a537225016bfeba51b607d250c0a09be5", null ],
+    [ "Reset", "d5/d43/a24513.html#a14ca75417c623d6d6e5fce50521963da", null ],
+    [ "Submit", "d5/d43/a24513.html#a26872858bfb4aeda1b4af445033995db", null ],
+    [ "UpdateAI", "d5/d43/a24513.html#a744ea41d7f9450965419085a296c8df2", null ],
+    [ "PulverizeTimer", "d5/d43/a24513.html#a43324c095d4f98b97b39b5eb86c4c783", null ],
+    [ "Submitted", "d5/d43/a24513.html#a47777bb2dd47764c9cb01dc3f3e25f39", null ],
+    [ "UnfriendlyTimer", "d5/d43/a24513.html#a21559a315c812b50b74fc22dc32a2930", null ]
 ];

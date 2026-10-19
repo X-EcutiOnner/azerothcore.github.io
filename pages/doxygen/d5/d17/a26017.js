@@ -1,6 +1,7 @@
 var a26017 =
 [
-    [ "HandleActivateObject", "d5/d17/a26017.html#a0d14ca0b21716855a04a0a9267f3e019", null ],
-    [ "PrepareSpellScript", "d5/d17/a26017.html#a684079434128bacd3d8b8b71c14dc56a", null ],
-    [ "Register", "d5/d17/a26017.html#a266301f59c809c03d0ccfc48a2ace302", null ]
+    [ "HandleDummy", "d5/d17/a26017.html#a5a82cbe58f57c94441cfda618e0eecca", null ],
+    [ "HandleScriptEffect", "d5/d17/a26017.html#a30d760a8708b49a185eb000249a9a5eb", null ],
+    [ "PrepareSpellScript", "d5/d17/a26017.html#a102d8493d285757c789cbba4a1bdc688", null ],
+    [ "Register", "d5/d17/a26017.html#ab4031ddb745995128854c149f7706045", null ]
 ];

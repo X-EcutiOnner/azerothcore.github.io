@@ -1,7 +1,7 @@
 var a16105 =
 [
-    [ "npc_shenthulAI", "df/d33/a16109.html", "df/d33/a16109" ],
-    [ "npc_shenthul", "d6/d21/a16105.html#a77815503c7d9c811fe3821232e308714", null ],
-    [ "GetAI", "d6/d21/a16105.html#a1683f8c89add6270277c59951c74027e", null ],
-    [ "OnQuestAccept", "d6/d21/a16105.html#a3a63fec338dca74eb7d071dfcc9c95b5", null ]
+    [ "HandleDummy", "d6/d21/a16105.html#a478665938b298fa87bde5bd764bcde18", null ],
+    [ "PrepareSpellScript", "d6/d21/a16105.html#adc581ed46587afcc8be3800ae79105f6", null ],
+    [ "Register", "d6/d21/a16105.html#a7d09808ea2fdec450fcd129e996bd245", null ],
+    [ "Validate", "d6/d21/a16105.html#a28c0efdb7274372a43e286a923e08f56", null ]
 ];

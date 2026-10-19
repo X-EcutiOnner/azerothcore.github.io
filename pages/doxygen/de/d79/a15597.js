@@ -1,7 +1,5 @@
 var a15597 =
 [
-    [ "go_sand_trap", "de/d79/a15597.html#a58d45acac672cb05988ddca78185b469", null ],
-    [ "Reset", "de/d79/a15597.html#a7071a3e420e9137ca133b471bc217bf3", null ],
-    [ "UpdateAI", "de/d79/a15597.html#a2e4a5fec4d4c790233ca97e6a7732ac4", null ],
-    [ "_scheduler", "de/d79/a15597.html#af845c0efb3d8ebe53d3620970a84f1e4", null ]
+    [ "pathId", "de/d79/a15597.html#aefd9fa5c6e7f45047994c7cc47e5967c", null ],
+    [ "spellId", "de/d79/a15597.html#af495f984d5b81baeaa61ddca127a9508", null ]
 ];

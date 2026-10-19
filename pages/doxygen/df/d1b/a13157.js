@@ -1,7 +1,6 @@
 var a13157 =
 [
-    [ "HandleScript", "df/d1b/a13157.html#aa6a02fd6ac2fe27588cb17377e63125f", null ],
-    [ "PrepareSpellScript", "df/d1b/a13157.html#a8d200122bafb943ccb6aa1bd86a1d227", null ],
-    [ "Register", "df/d1b/a13157.html#ab1ee3baa1bd7341660bcc7a10978aff3", null ],
-    [ "Validate", "df/d1b/a13157.html#a931be0e5aa4b54e646a3ed3ade135423", null ]
+    [ "boss_magmadar", "df/d1b/a13157.html#a1d7fe10f244e2975a858ee884a02ce57", null ],
+    [ "ExecuteEvent", "df/d1b/a13157.html#af846ccbb6fa4a63b7ea04474deeb7db5", null ],
+    [ "JustEngagedWith", "df/d1b/a13157.html#a4a38f37d0cbe892b7336694ef6008f2d", null ]
 ];

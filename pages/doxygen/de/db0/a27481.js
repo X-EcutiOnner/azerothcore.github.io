@@ -1,6 +1,6 @@
 var a27481 =
 [
-    [ "DoAfterHit", "de/db0/a27481.html#a38ede5147a11c41770c4483a70d81e5d", null ],
-    [ "PrepareSpellScript", "de/db0/a27481.html#abcc738fc154e6be5de168fb23be806f4", null ],
-    [ "Register", "de/db0/a27481.html#ac81d60d54a87a23bd9481934f5753de0", null ]
+    [ "CheckProc", "de/db0/a27481.html#a4e40a3472a7dde5aaa1d6d4cda54482a", null ],
+    [ "PrepareAuraScript", "de/db0/a27481.html#af15109e926eb717c3f3cb2f7f617428c", null ],
+    [ "Register", "de/db0/a27481.html#aee35ceec1ffcdebf5bd712310bdf9f1c", null ]
 ];

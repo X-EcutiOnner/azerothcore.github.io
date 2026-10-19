@@ -1,6 +1,7 @@
 var a22217 =
 [
-    [ "npc_lord_areteAI", "db/d6e/a22221.html", "db/d6e/a22221" ],
-    [ "npc_lord_arete", "d8/dd5/a22217.html#a929e3f3346bf4dbaee127463eaf4ffcc", null ],
-    [ "GetAI", "d8/dd5/a22217.html#a212d003e9acb5f141197b5c4d10163a4", null ]
+    [ "HandleScript", "d8/dd5/a22217.html#a5e6265ae9928e204d429c3c1750f472d", null ],
+    [ "PrepareSpellScript", "d8/dd5/a22217.html#a554846f934c3e14a404fec3ba534eb63", null ],
+    [ "Register", "d8/dd5/a22217.html#aafd581ede5184abfe9033d7ad75c7780", null ],
+    [ "Validate", "d8/dd5/a22217.html#a03ee24e2d9c784ca83515412246e836f", null ]
 ];

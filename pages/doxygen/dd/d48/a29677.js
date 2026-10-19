@@ -1,9 +1,7 @@
 var a29677 =
 [
-    [ "chargeConsumed", "dd/d48/a29677.html#a49f170e5f66cecdf6d719d1f6ac97254", null ],
-    [ "cooldownSet", "dd/d48/a29677.html#a60219087858953e3ea124b1b784516b2", null ],
-    [ "effectMask", "dd/d48/a29677.html#ae0feb161d225551bba25d466541cde84", null ],
-    [ "procChance", "dd/d48/a29677.html#a0299896836a739f2601a5ee1078f53bb", null ],
-    [ "shouldProc", "dd/d48/a29677.html#a497babcaf1a36b0abd10b4e360c231f2", null ],
-    [ "spellsCast", "dd/d48/a29677.html#a12d58d19ba4df25b8bd9dc6e1d089408", null ]
+    [ "~ByteBufferException", "dd/d48/a29677.html#a0ab73f9061c040127f70dbfc9a176509", null ],
+    [ "message", "dd/d48/a29677.html#ab1a64d8fc18565a04c347de29184f68c", null ],
+    [ "what", "dd/d48/a29677.html#a87896f7ab19f3032937f5f84e8cf440a", null ],
+    [ "msg_", "dd/d48/a29677.html#a314bdbb7063219f8256df894602e6b02", null ]
 ];

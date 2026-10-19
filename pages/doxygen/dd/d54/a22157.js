@@ -1,7 +1,6 @@
 var a22157 =
 [
-    [ "HandleScript", "dd/d54/a22157.html#ac55fd613d1ea17ae89361fbf8759fec3", null ],
-    [ "PrepareSpellScript", "dd/d54/a22157.html#a26e704fd016cdf9b1d47fb9edcff7a72", null ],
-    [ "Register", "dd/d54/a22157.html#a9b8efef83b515f2250bda500ff741aa3", null ],
-    [ "Validate", "dd/d54/a22157.html#ad5e9b0ae8a8103b7d901dd333e62fc35", null ]
+    [ "HandleOnEffectRemove", "dd/d54/a22157.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51", null ],
+    [ "PrepareAuraScript", "dd/d54/a22157.html#af415e4d7ea0b4b881af94eb7ea0c3f4c", null ],
+    [ "Register", "dd/d54/a22157.html#a242faa8822f9cdb7762d8ec3b6245b30", null ]
 ];

@@ -1,9 +1,6 @@
 var a21245 =
 [
-    [ "npc_ulduar_keeperAI", "dc/dd5/a21245.html#ac69d21f3820f2c01a80ff664c317d111", null ],
-    [ "DoAction", "dc/dd5/a21245.html#a03011d04761926d67e43c0bea5a0901f", null ],
-    [ "Reset", "dc/dd5/a21245.html#a86971339e6fcbffb3c019e4dc29972b3", null ],
-    [ "SpellHit", "dc/dd5/a21245.html#a18f22ca155646a6f40e0627f9d6dc337", null ],
-    [ "UpdateAI", "dc/dd5/a21245.html#a9af455266dd2a843ac1a2c4e56d50e78", null ],
-    [ "_keeper", "dc/dd5/a21245.html#ad8cd47f6c75042d589fc6fae4603c9f2", null ]
+    [ "FilterTargets", "dc/dd5/a21245.html#a8303045991c638e87c72940174f69a7f", null ],
+    [ "PrepareSpellScript", "dc/dd5/a21245.html#a18fdfdfa7f90a903086902d249678565", null ],
+    [ "Register", "dc/dd5/a21245.html#af8d3f834e06a543a96065102fa78bc5c", null ]
 ];

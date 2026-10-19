@@ -1,9 +1,11 @@
 var a24833 =
 [
-    [ "CheckProc", "dd/d74/a24833.html#a13245a545210eed1ddfd7c49c4a43f6b", null ],
-    [ "HandleProc", "dd/d74/a24833.html#aeec6c9e949d1edc09259a55583b3bae2", null ],
-    [ "Load", "dd/d74/a24833.html#ae3ffe29eef4f803f08ab728d959f1932", null ],
-    [ "PeriodicTick", "dd/d74/a24833.html#a1621c06bce0a28a2416385563b989cbf", null ],
-    [ "PrepareAuraScript", "dd/d74/a24833.html#a79a8c2a9ef00a9c1a2bba481e9cc522f", null ],
-    [ "Register", "dd/d74/a24833.html#ad47775cc21d4d5e0c28b68c68d595a39", null ]
+    [ "HandleAfterHit", "dd/d74/a24833.html#a3cfb75da66372934ba5aaa1c9ad6c6f3", null ],
+    [ "HandleDummy", "dd/d74/a24833.html#abb3f92850fa6fff94c682b990c361fe6", null ],
+    [ "Load", "dd/d74/a24833.html#ae5900d64c9b9b2de48c494458d4bed8b", null ],
+    [ "PrepareSpellScript", "dd/d74/a24833.html#adea0e24654cd87b3aee07ce2183b9517", null ],
+    [ "Register", "dd/d74/a24833.html#a3e155e336d6a5a6a4d44eae422ef7939", null ],
+    [ "Validate", "dd/d74/a24833.html#a28bb9111c8e5116a82d4e54b7eacb92b", null ],
+    [ "guid", "dd/d74/a24833.html#a6e177d68e1d39dcb27e6643d267328a5", null ],
+    [ "multiplier", "dd/d74/a24833.html#a04ed6aae0ea28a4f1b7c1ed5f4f73a0b", null ]
 ];

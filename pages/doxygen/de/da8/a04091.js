@@ -1,4 +1,4 @@
 var a04091 =
 [
-    [ "WeatherScript", "df/dd8/a10943.html", "df/dd8/a10943" ]
+    [ "ScriptRegistry< AllBattlegroundScript >", "de/da8/a04091.html#a4a1c5c34c42d3aaca9edc12feb3f7575", null ]
 ];

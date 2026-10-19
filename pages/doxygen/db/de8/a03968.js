@@ -1,4 +1,4 @@
 var a03968 =
 [
-    [ "ConditionScript", "d7/d50/a10811.html", "d7/d50/a10811" ]
+    [ "ScriptRegistry< ArenaTeamScript >", "db/de8/a03968.html#a5d2a56a9849b1ba119fd3224685406fe", null ]
 ];

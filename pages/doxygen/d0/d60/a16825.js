@@ -1,6 +1,6 @@
 var a16825 =
 [
-    [ "boss_black_knightAI", "d3/de4/a16829.html", "d3/de4/a16829" ],
-    [ "boss_black_knight", "d0/d60/a16825.html#af55a307f282a68bc83e45c6de647ebf4", null ],
-    [ "GetAI", "d0/d60/a16825.html#a3f7ac72f69cebdab0a13c61c0b9b2ed2", null ]
+    [ "boss_paletressAI", "d3/de4/a16829.html", "d3/de4/a16829" ],
+    [ "boss_paletress", "d0/d60/a16825.html#a04cbd31e71cc349b8c1058780ee6f673", null ],
+    [ "GetAI", "d0/d60/a16825.html#a2c20ff397d115cf0e8a1801184e5a3f9", null ]
 ];

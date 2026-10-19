@@ -1,8 +1,9 @@
 var a28809 =
 [
-    [ "npc_minion_spawner", "de/de3/a28809.html#ab49641074ae46f21a3fdc1c2f71396ba", null ],
-    [ "CanSpawnRareMinion", "de/de3/a28809.html#a007376c8f66a3963651f81ddd14cbbfc", null ],
-    [ "JustSummoned", "de/de3/a28809.html#a1742c98edca62e3d80a32f33d6ed2f97", null ],
-    [ "Reset", "de/de3/a28809.html#a0b55c1648c37399ad99d340bdf20cb49", null ],
-    [ "UpdateAI", "de/de3/a28809.html#a24f93f1314bb73edb369e188eda83104", null ]
+    [ "npc_arcanite_dragonling", "de/de3/a28809.html#a9b7e4cefa312a16c90018d655ad94758", null ],
+    [ "CanAIAttack", "de/de3/a28809.html#a374e127ef749dc72ec70137bcd13a0b9", null ],
+    [ "IsSummonedBy", "de/de3/a28809.html#a921b35a91c4f21258efdb41fd87413db", null ],
+    [ "JustEngagedWith", "de/de3/a28809.html#a65f6d779681861117f750b70154b3e0d", null ],
+    [ "Reset", "de/de3/a28809.html#a4468d91430add821bf7a7ab11d8063da", null ],
+    [ "UpdateAI", "de/de3/a28809.html#aebe430b9a3079a5ccbfd979a74e532f3", null ]
 ];

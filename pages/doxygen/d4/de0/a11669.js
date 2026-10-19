@@ -1,8 +1,5 @@
 var a11669 =
 [
-    [ "QuestConfirmAccept", "d4/de0/a11669.html#a96504f0bcddeb3f339552d95052595c9", null ],
-    [ "Write", "d4/de0/a11669.html#add2f826fb7a8c9eed85e46a217dff0fc", null ],
-    [ "PlayerGuid", "d4/de0/a11669.html#a591f77f3c6de30ac07e62a5bedded7d5", null ],
-    [ "QuestId", "d4/de0/a11669.html#a4c857c0b173f5fd19f2a83123e8e0d44", null ],
-    [ "QuestTitle", "d4/de0/a11669.html#abf35fe4b947f0b645010009388d80bcd", null ]
+    [ "QuestLogFull", "d4/de0/a11669.html#ac268090c33720d1975c3538acfe0ce7f", null ],
+    [ "Write", "d4/de0/a11669.html#aab5d1b5ceb0e9fffd588d95d92640897", null ]
 ];

@@ -1,9 +1,6 @@
 var a24953 =
 [
-    [ "Absorb", "de/d3b/a24953.html#af7df70d0bd68d12032b5b57faa789a87", null ],
-    [ "CalculateAmount", "de/d3b/a24953.html#a40f7cfe30b7bf2237d61665b167476fb", null ],
-    [ "Load", "de/d3b/a24953.html#a1b3e5da38a6aba7cc163bf34848ed950", null ],
-    [ "PrepareAuraScript", "de/d3b/a24953.html#ae63ad15db90ebe73d73e77e232f4d695", null ],
-    [ "Register", "de/d3b/a24953.html#ac7316995b7682a6fafe47ff2547956b0", null ],
-    [ "absorbPct", "de/d3b/a24953.html#ab5b59d975e71e0e12bf41e8d173b9491", null ]
+    [ "CalculateAmount", "de/d3b/a24953.html#a8deb31d3b6244f4d8de6050c99b3192e", null ],
+    [ "PrepareAuraScript", "de/d3b/a24953.html#a4090baaee0e4330d3776b5774c5c923a", null ],
+    [ "Register", "de/d3b/a24953.html#a4db48f3a549a04caf746a9459b1c5640", null ]
 ];

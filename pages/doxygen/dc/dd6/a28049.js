@@ -1,7 +1,7 @@
 var a28049 =
 [
-    [ "HandleGlyph", "dc/dd6/a28049.html#a9ec1133587bb6f0d7faa1beafc8415d9", null ],
-    [ "PrepareSpellScript", "dc/dd6/a28049.html#adffd8b39adef397a886a66465e09f68b", null ],
-    [ "Register", "dc/dd6/a28049.html#a77ff80bffd5c3f75dd60f2d901dfd84e", null ],
-    [ "Validate", "dc/dd6/a28049.html#aa8bf4fc8457d122e46d12bc6b1cc7586", null ]
+    [ "HandleDummy", "dc/dd6/a28049.html#a3af91500357eb127f813334bdf538dbd", null ],
+    [ "PrepareSpellScript", "dc/dd6/a28049.html#ae34ff5e6027efecc34fa770690df5887", null ],
+    [ "Register", "dc/dd6/a28049.html#add4e4d484008d1e1cf63e36c6b6e9757", null ],
+    [ "Validate", "dc/dd6/a28049.html#a0b107442c0b76a018cc019f776c0b785", null ]
 ];

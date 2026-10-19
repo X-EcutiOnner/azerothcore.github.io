@@ -1,6 +1,6 @@
 var a28653 =
 [
-    [ "npc_dancing_flamesAI", "d9/de5/a28657.html", "d9/de5/a28657" ],
-    [ "npc_dancing_flames", "df/dad/a28653.html#adec0401f876ddf159f28fdda8bc4d563", null ],
-    [ "GetAI", "df/dad/a28653.html#a1000d0b95dab3a6e73efa0ca088ce4e6", null ]
+    [ "npc_taxi", "df/dad/a28653.html#ac67282316d6ded2ff62b8a1800b8fae1", null ],
+    [ "OnGossipHello", "df/dad/a28653.html#a1bce89202ea3ed3fcbebd19a305c6a78", null ],
+    [ "OnGossipSelect", "df/dad/a28653.html#a5a7443abba8cf98a3073195177981edc", null ]
 ];

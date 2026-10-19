@@ -1,4 +1,5 @@
 var a04145 =
 [
-    [ "ScriptRegistry< AllGameObjectScript >", "d8/dca/a04145.html#a60896f2f8318a9eeba3e23357a17292f", null ]
+    [ "ForeachMaps", "d8/dca/a04145.html#a899f6a046cdda33d737030dd4923ca7d", null ],
+    [ "ScriptRegistry< AllMapScript >", "d8/dca/a04145.html#ada370fef23e6d206da686c8bb6149104", null ]
 ];

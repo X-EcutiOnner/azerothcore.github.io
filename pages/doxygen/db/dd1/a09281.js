@@ -1,9 +1,7 @@
 var a09281 =
 [
-    [ "GameEventAIHookWorker", "db/dd1/a09281.html#ad72640a18d2d32a9201c965089ee49cf", null ],
-    [ "Visit", "db/dd1/a09281.html#a23d979ee43838e7d58e9123e36474a5a", null ],
-    [ "Visit", "db/dd1/a09281.html#a79106ec550d072d690bbf3496d76cb0a", null ],
-    [ "Visit", "db/dd1/a09281.html#a165476edd8b252bbb90b8b78fae963a6", null ],
-    [ "_activate", "db/dd1/a09281.html#a756665eafa08f3c8c51ccef69bdd619f", null ],
-    [ "_eventId", "db/dd1/a09281.html#ab1ee68bb7134e84780772eba2cfac766", null ]
+    [ "VehicleDespawnEvent", "db/dd1/a09281.html#a53c96e023186cfb36084814b69e62d15", null ],
+    [ "Execute", "db/dd1/a09281.html#a39284ca2343e54cec915ac3ecf51f4a8", null ],
+    [ "_duration", "db/dd1/a09281.html#a9ac4ab83b785691285fb20364925b7ca", null ],
+    [ "_self", "db/dd1/a09281.html#a0d472ea9a1a7b615f01c73d20cfc6573", null ]
 ];

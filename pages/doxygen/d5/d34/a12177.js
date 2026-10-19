@@ -1,6 +1,6 @@
 var a12177 =
 [
-    [ "EffectManaShieldHandler", "d5/d34/a12177.html#a234fb0f6749072f9cc6310f80b3b9583", null ],
-    [ "Call", "d5/d34/a12177.html#a30ac72ee0a22ac3e71bcb2eeda903dbc", null ],
-    [ "pEffectHandlerScript", "d5/d34/a12177.html#a1aec2af2a69a90b8038d612d9ebddc2b", null ]
+    [ "EffectUpdatePeriodicHandler", "d5/d34/a12177.html#a6b18a259aa84c847bcc064c5243eb590", null ],
+    [ "Call", "d5/d34/a12177.html#a38802863e7859453cbbe58ad91018c67", null ],
+    [ "pEffectHandlerScript", "d5/d34/a12177.html#a0e51245e089fcd9532d5789056ab944c", null ]
 ];

@@ -1,8 +1,5 @@
 var a09041 =
 [
-    [ "EnchantDuration", "da/d68/a09041.html#a1ce5f81deaa60494c247673c113632d8", null ],
-    [ "EnchantDuration", "da/d68/a09041.html#a52448f2bb8b788193a69fe9a2d8729f3", null ],
-    [ "item", "da/d68/a09041.html#ae803f6a9ce9cdb0dbb133bc85b6613ab", null ],
-    [ "leftduration", "da/d68/a09041.html#a3f4edafbc9b09cb5ab660bc68af435f3", null ],
-    [ "slot", "da/d68/a09041.html#a3de1a8d64aea4c5c1f984a74c6bb017d", null ]
+    [ "Rank", "da/d68/a09041.html#a61797c7cb799308a7c20a954d287be17", null ],
+    [ "SkillId", "da/d68/a09041.html#a3f28221b1c8e91bf9f2fa6337e81c952", null ]
 ];

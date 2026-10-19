@@ -1,5 +1,5 @@
 var a28157 =
 [
-    [ "achievement_not_even_a_scratch", "d6/da0/a28157.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
-    [ "OnCheck", "d6/da0/a28157.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
+    [ "achievement_resilient_victory", "d6/da0/a28157.html#a6224c8a4b1b1ee7c1ab09d8873e86aa8", null ],
+    [ "OnCheck", "d6/da0/a28157.html#a21445d406f67771a20608260b3f9b033", null ]
 ];

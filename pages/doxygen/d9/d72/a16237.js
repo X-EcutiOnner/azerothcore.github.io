@@ -1,7 +1,7 @@
 var a16237 =
 [
-    [ "npc_wizzlecrank_shredderAI", "d7/dbd/a16241.html", "d7/dbd/a16241" ],
-    [ "npc_wizzlecrank_shredder", "d9/d72/a16237.html#a56a29a61d6f1a5981019f6c059b4da64", null ],
-    [ "GetAI", "d9/d72/a16237.html#a5c42cc6d8cf2642333731138077af66e", null ],
-    [ "OnQuestAccept", "d9/d72/a16237.html#afcd5aaea5234b6510825d9ce5e809aa6", null ]
+    [ "npc_toogaAI", "d7/dbd/a16241.html", "d7/dbd/a16241" ],
+    [ "npc_tooga", "d9/d72/a16237.html#a6ea6a9e4dea1ab98475dae13680ceeaf", null ],
+    [ "GetAI", "d9/d72/a16237.html#a7847577589f3bdc1c3ea5ee0f1f9232f", null ],
+    [ "OnQuestAccept", "d9/d72/a16237.html#a45ae4f9be8d69553d557b33df9fbde3b", null ]
 ];

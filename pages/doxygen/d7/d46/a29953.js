@@ -1,12 +1,17 @@
 var a29953 =
 [
-    [ "MakeBracket", "d7/d46/a29953.html#a6acf8699a62a5e6d03f1e33124f1e875", null ],
-    [ "SetIntConfig", "d7/d46/a29953.html#ac428f3bcfc8af019a114ee3859d83e9c", null ],
-    [ "SetUp", "d7/d46/a29953.html#a50880de2c8b647aa1ef2db4fe9e4c619", null ],
-    [ "SetupRealBg", "d7/d46/a29953.html#ab288107a8233cb96d9a715c9f99cd360", null ],
-    [ "SetupTemplate", "d7/d46/a29953.html#a00c21e1785ec154a2c73b317d70b49ce", null ],
-    [ "TearDown", "d7/d46/a29953.html#af04e05f17e03681ed018fe7622e3bab9", null ],
-    [ "previousWorld_", "d7/d46/a29953.html#afc7f861d24ec9258ee51ef5f76119843", null ],
-    [ "TemplateMinPlayers", "d7/d46/a29953.html#af00c207fc8284729e409df1588e9b006", null ],
-    [ "worldMock_", "d7/d46/a29953.html#a87098b65420dc95aa878a9a4b15490b5", null ]
+    [ "SetUp", "d7/d46/a29953.html#a33892cef920194ce17a4214cbcb5e121", null ],
+    [ "TearDown", "d7/d46/a29953.html#a24f14af6367811ce0d723cbec878b171", null ],
+    [ "PERM_ADMIN_1", "d7/d46/a29953.html#a672ecd08a005d73126fe8670785a42d3", null ],
+    [ "PERM_ADMIN_2", "d7/d46/a29953.html#a6b5c599d3b6586dccf829953df596197", null ],
+    [ "PERM_GM_1", "d7/d46/a29953.html#a0e05f907e00713517154426b99250684", null ],
+    [ "PERM_GM_2", "d7/d46/a29953.html#ae70a8f0c6dcd4a80e09c1a8d3af717e4", null ],
+    [ "PERM_MOD_1", "d7/d46/a29953.html#a1ca61ce12e74ab1274396570a66b20e8", null ],
+    [ "PERM_MOD_2", "d7/d46/a29953.html#a16d04ded09be3ef901ce71166a5f47e5", null ],
+    [ "PERM_PLAYER_1", "d7/d46/a29953.html#a947d93a663cf65d175795597fd471b05", null ],
+    [ "PERM_PLAYER_2", "d7/d46/a29953.html#af8ca567b623c9148b810486c7a23736a", null ],
+    [ "ROLE_ADMIN", "d7/d46/a29953.html#aefc211c8148b3a009dcf1f2b6364d379", null ],
+    [ "ROLE_GM", "d7/d46/a29953.html#a16113a522ad1e512c7f81ea293ffaa5c", null ],
+    [ "ROLE_MOD", "d7/d46/a29953.html#a7311596e545687f3398f3203e9e7d6d8", null ],
+    [ "ROLE_PLAYER", "d7/d46/a29953.html#a9e3cd3dc656e8911ac328abcfd85162a", null ]
 ];

@@ -1,8 +1,7 @@
 var a24497 =
 [
-    [ "npc_pet_dk_army_of_the_dead", "dc/d55/a24497.html#a835f24d7b1b0b70d6345f66a8960e9cf", null ],
-    [ "CanAIAttack", "dc/d55/a24497.html#a514fe49b143f57ef87359b3060911c02", null ],
-    [ "OwnerAttacked", "dc/d55/a24497.html#ad5189df825dc917e59c9b19e4a84cded", null ],
-    [ "OwnerAttackedBy", "dc/d55/a24497.html#a01f21e7c57f4bf7f9457c72fda4e9022", null ],
-    [ "UpdateAI", "dc/d55/a24497.html#ac44836f84d172dfac90dfb3eaaeeac6a", null ]
+    [ "HandlePeriodic", "dc/d55/a24497.html#a56dd6ce5acad6c8a10eabfc3f35879fe", null ],
+    [ "PrepareAuraScript", "dc/d55/a24497.html#a58dc6668172d046cef3046649928c124", null ],
+    [ "Register", "dc/d55/a24497.html#a5700d7cc8b52ec0351e3d7bf851274b7", null ],
+    [ "Validate", "dc/d55/a24497.html#afa6d5fe15882f33ae1a1d137db9caf8c", null ]
 ];

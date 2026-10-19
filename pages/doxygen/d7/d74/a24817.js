@@ -1,8 +1,6 @@
 var a24817 =
 [
-    [ "CheckProc", "d7/d74/a24817.html#af8ecd189601dbbc34a1d633e1de3eed8", null ],
-    [ "HandleProc", "d7/d74/a24817.html#a03f5428462b132c438b40575182e5081", null ],
-    [ "PrepareAuraScript", "d7/d74/a24817.html#a301947c8053d4a4ee4de2a05f58b7505", null ],
-    [ "Register", "d7/d74/a24817.html#a9b3793739de21b5117e4a66e2951f939", null ],
-    [ "Validate", "d7/d74/a24817.html#acc50882146bad569108852b207d519fd", null ]
+    [ "RaiseDeadCheck", "d7/d74/a24817.html#abc6439e5b457f2f6e832f504167a392d", null ],
+    [ "operator()", "d7/d74/a24817.html#a9647e6afd21e7397f05349e66bea4326", null ],
+    [ "_caster", "d7/d74/a24817.html#a7b1647934c5e64de65d38b9fba2d343a", null ]
 ];

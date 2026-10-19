@@ -1,7 +1,6 @@
 var a12977 =
 [
-    [ "HandleScript", "d9/d19/a12977.html#a0d244cc1785b136bae0960d697dc761d", null ],
-    [ "PrepareSpellScript", "d9/d19/a12977.html#a13f3ebef30c315c02090ee3a19a156e4", null ],
-    [ "Register", "d9/d19/a12977.html#a3871fb036ec6e0ea006f869c21e88c8f", null ],
-    [ "Validate", "d9/d19/a12977.html#a1413754f3a79caf8ec57d394c68f3499", null ]
+    [ "near_scarshield_infiltrator", "d9/d19/a12977.html#a38d2e75946c429b4d80b007f190406bc", null ],
+    [ "OnTrigger", "d9/d19/a12977.html#a59c0e7bcddabbbbecb32f38434899144", null ],
+    [ "whisperedTargets", "d9/d19/a12977.html#a5655e241d2551798a960cb6375c7df23", null ]
 ];

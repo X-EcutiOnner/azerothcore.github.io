@@ -1,9 +1,7 @@
 var a10397 =
 [
-    [ "TransportAnimation", "d7/daf/a10397.html#a775b84b54deefd38af40222afd82d572", null ],
-    [ "GetAnimNode", "d7/daf/a10397.html#a73b56750c90afce38dbf57793bae16f3", null ],
-    [ "GetAnimRotation", "d7/daf/a10397.html#aa2c892f14712828acaa85fa6e6d919bb", null ],
-    [ "Path", "d7/daf/a10397.html#a7c45df781dda8058d281a2cf7e5fe5fb", null ],
-    [ "Rotations", "d7/daf/a10397.html#a5fa771fb487c437d7d6229eadf7d90c3", null ],
-    [ "TotalTime", "d7/daf/a10397.html#a59a31ffc2e642a3950b0509130a76ad4", null ]
+    [ "flags", "d7/daf/a10397.html#a7db863994aa6692d1e2359d2c6814cd2", null ],
+    [ "groupId", "d7/daf/a10397.html#ac7efc48c61e715027a8d651fda543ada", null ],
+    [ "mapId", "d7/daf/a10397.html#ad53e068ead632ca66fbebe81e783fc52", null ],
+    [ "name", "d7/daf/a10397.html#a55368217a847f946def13b2123b22ed3", null ]
 ];

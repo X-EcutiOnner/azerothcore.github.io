@@ -1,10 +1,5 @@
 var a17225 =
 [
-    [ "boss_dredAI", "df/dd6/a17225.html#a4ad04fe31990a37fd6d3a23329350248", null ],
-    [ "GetData", "df/dd6/a17225.html#a7a93506d77eaf40c6f7be9e433f211e1", null ],
-    [ "JustEngagedWith", "df/dd6/a17225.html#ae6e1181dcdea763460ca72148abfcb3f", null ],
-    [ "Reset", "df/dd6/a17225.html#a5fe153ab58b1feedce5afa6b10a0d3de", null ],
-    [ "ScheduleTasks", "df/dd6/a17225.html#aaea229cebd3d82b01c4577e58a06de2d", null ],
-    [ "SetData", "df/dd6/a17225.html#a884f48aabc26b054dcd303a91cb88301", null ],
-    [ "_raptorCount", "df/dd6/a17225.html#a95aa63c18d7e1f2dec2491ac4649a378", null ]
+    [ "boss_fjolaAI", "df/dd6/a17225.html#aa46fdff841d01f28ef50aa5363082f71", null ],
+    [ "JustSummoned", "df/dd6/a17225.html#a59a3f2453f923d4f19c63e88402d1a76", null ]
 ];

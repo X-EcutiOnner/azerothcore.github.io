@@ -1,7 +1,6 @@
 var a23897 =
 [
-    [ "AfterApply", "de/d0f/a23897.html#a0ba88b8ed8cfd0afa1de500a7a8d74b5", null ],
-    [ "PrepareAuraScript", "de/d0f/a23897.html#aa98346e5f5b23fe016148426a19a719f", null ],
-    [ "Register", "de/d0f/a23897.html#ac0edcddf6c38b933c868dbe0535f143a", null ],
-    [ "Validate", "de/d0f/a23897.html#a616d1758aa257140f4941fe12ef21e87", null ]
+    [ "npc_millhouse_manastormAI", "db/d62/a23901.html", "db/d62/a23901" ],
+    [ "npc_millhouse_manastorm", "de/d0f/a23897.html#aebc8efc48d207ad7f1105fa636b9c104", null ],
+    [ "GetAI", "de/d0f/a23897.html#ac4516785f7daf544718fc201197ba977", null ]
 ];

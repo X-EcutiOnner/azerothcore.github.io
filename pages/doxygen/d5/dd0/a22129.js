@@ -1,6 +1,6 @@
 var a22129 =
 [
-    [ "npc_attracted_reef_bullAI", "d5/dd0/a22129.html#aa8917a912fb31a5987332e53e8d268e7", null ],
-    [ "MovementInform", "d5/dd0/a22129.html#a79d9539243f178a2989f017c5f9ebc8c", null ],
-    [ "SpellHit", "d5/dd0/a22129.html#ab06ee7ef84d881262ae682b69fae3135", null ]
+    [ "npc_lake_frogAI", "d1/dbd/a22133.html", "d1/dbd/a22133" ],
+    [ "npc_lake_frog", "d5/dd0/a22129.html#ac7c56b2a6443356523b468c05c36bc6c", null ],
+    [ "GetAI", "d5/dd0/a22129.html#a9730da684a81fced304f10b2806c10e5", null ]
 ];

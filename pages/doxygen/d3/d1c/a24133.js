@@ -1,6 +1,10 @@
 var a24133 =
 [
-    [ "npc_daranelleAI", "de/d44/a24137.html", "de/d44/a24137" ],
-    [ "npc_daranelle", "d3/d1c/a24133.html#a0a6e26b95d6d97821bc9e0c00b205704", null ],
-    [ "GetAI", "d3/d1c/a24133.html#ad2ba5e4dfded886acaf2f9821e15738d", null ]
+    [ "npc_raging_flames", "d3/d1c/a24133.html#aa2cc5c8af07c202a7f0fab1af259a0db", null ],
+    [ "EnterEvadeMode", "d3/d1c/a24133.html#a24a878560153dcf9cf5282c6d0a8f7f0", null ],
+    [ "FixateRandomTarget", "d3/d1c/a24133.html#a0e015aa73efdafb1bb9683b2f3c1ba34", null ],
+    [ "InitializeAI", "d3/d1c/a24133.html#a96d3a8ef364dc6bc3f15ffc82b14c4c0", null ],
+    [ "IsSummonedBy", "d3/d1c/a24133.html#ae42c4329be355807af92c1c803e61500", null ],
+    [ "Reset", "d3/d1c/a24133.html#a34ac2249e507784d81c4040e87a646e0", null ],
+    [ "UpdateAI", "d3/d1c/a24133.html#a3e4feafe10e59ad9cb1d2275dc7954b0", null ]
 ];

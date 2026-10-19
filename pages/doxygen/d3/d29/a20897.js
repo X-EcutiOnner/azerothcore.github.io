@@ -1,12 +1,7 @@
 var a20897 =
 [
-    [ "boss_thorim_lightning_orb", "d3/d29/a20897.html#a04d4de44a41e62d6c1c4c68d3064a861", null ],
-    [ "AttackStart", "d3/d29/a20897.html#a8e512ec039d93b1ceb7a2b8ee556fa56", null ],
-    [ "EnterEvadeMode", "d3/d29/a20897.html#a855df9994de0901e56ac6f84d71ab7e4", null ],
-    [ "InitWaypoint", "d3/d29/a20897.html#a46a7a73cb200d7bbaa7f38871c765254", null ],
-    [ "MoveInLineOfSight", "d3/d29/a20897.html#a3577618ff9d5bdea191d840b6c968fad", null ],
-    [ "Reset", "d3/d29/a20897.html#adeefc7cd014021305b77cc9c52102ce6", null ],
-    [ "WaypointReached", "d3/d29/a20897.html#a3948ca0a57befa16e15e0d6ab97a0cbe", null ],
-    [ "WaypointReached", "d3/d29/a20897.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "Timer", "d3/d29/a20897.html#a79c24c42364c9932199ece2775f7a7f2", null ]
+    [ "go_razorscale_harpoonAI", "d4/d56/a20901.html", "d4/d56/a20901" ],
+    [ "go_razorscale_harpoon", "d3/d29/a20897.html#a68e5414333ca5ed4ec2de2da5f1756d4", null ],
+    [ "GetAI", "d3/d29/a20897.html#a89a25716733ed0f589ce50eab8466453", null ],
+    [ "OnGossipHello", "d3/d29/a20897.html#ac6ea67384010725c56daab8c4f58c7ff", null ]
 ];

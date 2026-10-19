@@ -1,6 +1,7 @@
 var a23573 =
 [
-    [ "HandleScript", "d9/d69/a23573.html#ae45f8a366c1594d3723b83ee6e006957", null ],
-    [ "PrepareSpellScript", "d9/d69/a23573.html#a217953fda43e2c3abdd0d24ddbabc75d", null ],
-    [ "Register", "d9/d69/a23573.html#a6b9e449a64747f0a5715424295b1c30f", null ]
+    [ "boss_hydromancer_thespia", "d9/d69/a23573.html#a5747c2da9914dcf4118ee0fb37a3a3fd", null ],
+    [ "JustDied", "d9/d69/a23573.html#ad0662daabd636bbf544a6791187d71fa", null ],
+    [ "JustEngagedWith", "d9/d69/a23573.html#af230e57ec259e5c92c4034a674d1b6a5", null ],
+    [ "KilledUnit", "d9/d69/a23573.html#ae1bb4819867ef5718cb5d9130d62fa20", null ]
 ];

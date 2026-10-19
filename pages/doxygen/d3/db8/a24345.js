@@ -1,7 +1,7 @@
 var a24345 =
 [
-    [ "o", "d3/db8/a24345.html#a3785e9b55ea3a7140086ce1f86232109", null ],
-    [ "x", "d3/db8/a24345.html#ac81cc1119b7ac8ac70ee635f2e3d4bb7", null ],
-    [ "y", "d3/db8/a24345.html#a10fbad67977d8dd3911eb629c1797684", null ],
-    [ "z", "d3/db8/a24345.html#a69fc2438e52f6c0de3af13900ff38166", null ]
+    [ "HandleEffectApply", "d3/db8/a24345.html#a362b5b818ab0029956fd22bd10b4b9ac", null ],
+    [ "HandleEffectRemove", "d3/db8/a24345.html#a96769390468dc132df62b5a0ec3a2da4", null ],
+    [ "PrepareAuraScript", "d3/db8/a24345.html#a7bad0d577281829e60c0fb577d6a7d6e", null ],
+    [ "Register", "d3/db8/a24345.html#a95905ec163c42463314a5f5bb023b4d6", null ]
 ];

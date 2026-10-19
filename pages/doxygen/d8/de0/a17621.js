@@ -1,7 +1,6 @@
 var a17621 =
 [
-    [ "HandleEffectPeriodic", "d8/de0/a17621.html#a4802c810efd7dd8a9954845366398e7f", null ],
-    [ "PrepareAuraScript", "d8/de0/a17621.html#a008166d25e7a278507e953325f40ccd5", null ],
-    [ "Register", "d8/de0/a17621.html#ac239d0f42eea59b63c3d31ed275846ea", null ],
-    [ "Validate", "d8/de0/a17621.html#a3fc78060f881262c59151b6eb6a943f8", null ]
+    [ "npc_pos_martin_or_gorkun_secondAI", "d0/ded/a17625.html", "d0/ded/a17625" ],
+    [ "npc_pos_martin_or_gorkun_second", "d8/de0/a17621.html#a3027c88a65aa523cc99f2fa79e1e376c", null ],
+    [ "GetAI", "d8/de0/a17621.html#a180936e3bb98eb55d29ebd51350906c0", null ]
 ];

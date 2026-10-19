@@ -1,7 +1,6 @@
 var a13961 =
 [
-    [ "PeriodicTick", "da/d9d/a13961.html#acca46d585d06d461f735cddb6075b3b1", null ],
-    [ "PrepareAuraScript", "da/d9d/a13961.html#abd7382ab22efd3d82c4f00745255d024", null ],
-    [ "Register", "da/d9d/a13961.html#a7020dbe7c61f877d0ecd0d7542f6f270", null ],
-    [ "Validate", "da/d9d/a13961.html#acb31ba162452a30ff0c208829560f9fd", null ]
+    [ "HandleEffectApply", "da/d9d/a13961.html#a8157e8d305bc9d7da23815ae7e684a05", null ],
+    [ "PrepareAuraScript", "da/d9d/a13961.html#ae06b9dc2d00998ce288f015bfc04b323", null ],
+    [ "Register", "da/d9d/a13961.html#ac8e6be8aa2e8314fe2f1e22efd8e8b4a", null ]
 ];

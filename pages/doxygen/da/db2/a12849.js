@@ -1,8 +1,7 @@
 var a12849 =
 [
-    [ "CheckProc", "da/db2/a12849.html#a08e84f2b2ff25ed7e260e61251f9cdb9", null ],
-    [ "HandleProc", "da/db2/a12849.html#afd3d4786f739566056b69390553d9c71", null ],
-    [ "PrepareAuraScript", "da/db2/a12849.html#a3ba84d4fd311a91efa685980ffec8d77", null ],
-    [ "Register", "da/db2/a12849.html#aa36a2e10a6fd67fa74d08e20dc806744", null ],
-    [ "Validate", "da/db2/a12849.html#aeff8b89300bb5d3589a46a4f66cfd77d", null ]
+    [ "boss_moira_bronzebeard", "da/db2/a12849.html#aaab4b597fd97619c2a41e2a6425810de", null ],
+    [ "CastOnEmperorIfPossible", "da/db2/a12849.html#a413aab0c096319ea17d6c6a078b056ea", null ],
+    [ "JustEngagedWith", "da/db2/a12849.html#a6bf08072a59fe72ce4a3e27a9e289d3c", null ],
+    [ "UpdateAI", "da/db2/a12849.html#a8319c70b3391721164ac1a01d8f6be9c", null ]
 ];

@@ -1,8 +1,8 @@
 var a20005 =
 [
-    [ "HandleEffectPeriodic", "da/d78/a20005.html#abb453e3d38677be7082f2cd4e43134cc", null ],
-    [ "HandleOnEffectApply", "da/d78/a20005.html#a3ec47d5d9fdbdcfe671e02c3b0f55980", null ],
-    [ "PrepareAuraScript", "da/d78/a20005.html#ac00c6d9b1cccb38b5d87b3139295614c", null ],
-    [ "Register", "da/d78/a20005.html#ae4de4f0f2f4dc4ac98706ddd898df7c5", null ],
-    [ "Validate", "da/d78/a20005.html#a09481646f8ec90b0135d93d83cc18929", null ]
+    [ "npc_centrifuge_constructAI", "da/d78/a20005.html#a9219f4955ae82ca7f401ea1c63f66b09", null ],
+    [ "DamageTaken", "da/d78/a20005.html#aa568418de267a99108698e79baa1b3f4", null ],
+    [ "JustEngagedWith", "da/d78/a20005.html#ac6ecbb17624c2747253c68a50b93c40f", null ],
+    [ "Reset", "da/d78/a20005.html#a2f7750cea2f59d794c85e20b703370af", null ],
+    [ "UpdateAI", "da/d78/a20005.html#a28316416ad6c56d83c9e878511256445", null ]
 ];

@@ -1,8 +1,7 @@
 var a11017 =
 [
-    [ "GuildFilter", "da/d84/a11017.html#a20ffe6a8d19489014484722b1481cb65", null ],
-    [ "Read", "da/d84/a11017.html#a708e8cd6a8a7d4c1bfa3fd86575b9a63", null ],
-    [ "MaximumLevel", "da/d84/a11017.html#a3e23b4e2e5bda01b55ad26ea66222f78", null ],
-    [ "MinimumLevel", "da/d84/a11017.html#a0c6523d46a325841cc5511a2a0f3e5c2", null ],
-    [ "MinimumRank", "da/d84/a11017.html#a363df89cbe7b5aba7c7df69b65468c49", null ]
+    [ "AutoBankItem", "da/d84/a11017.html#a02d39ddc9eda90be709b2fa9c1f6023d", null ],
+    [ "Read", "da/d84/a11017.html#a8651192c6040cdf5d257c134dde1208c", null ],
+    [ "Bag", "da/d84/a11017.html#a69f9b65ecb778c94c6e9278e5f98d31b", null ],
+    [ "Slot", "da/d84/a11017.html#a970f2ca85a76de1a25ad40a9ebf0029f", null ]
 ];

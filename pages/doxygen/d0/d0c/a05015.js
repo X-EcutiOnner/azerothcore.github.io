@@ -1,10 +1,17 @@
 var a05015 =
 [
-    [ "Acore::ACLogSink< T >", "d2/dde/a05923.html", "d2/dde/a05923" ],
-    [ "Acore::AsyncProcessResultImplementation", "d3/d20/a05927.html", "d3/d20/a05927" ],
-    [ "CreateChildProcess", "d0/d0c/a05015.html#a18bbd8a6717e647e963654123259a033", null ],
-    [ "MakeACLogSink", "d0/d0c/a05015.html#adcee37690522709ab4bd0b6f6e757dc5", null ],
-    [ "SearchExecutableInPath", "d0/d0c/a05015.html#a9de098dac5e38f8c2cdbeb1d4d706881", null ],
-    [ "StartAsyncProcess", "d0/d0c/a05015.html#a021f51138f5726e712f00bdddf9be729", null ],
-    [ "StartProcess", "d0/d0c/a05015.html#acfaf2f89a55d299aa04c494719dfedc8", null ]
+    [ "FormatArgs", "d0/d0c/a05015.html#a300bea6aa9ed219f5f3636b900db3ac9", null ],
+    [ "FormatString", "d0/d0c/a05015.html#a32c972cafca136b88de5b298d6cba338", null ],
+    [ "FormatStringView", "d0/d0c/a05015.html#a9a310e3057a14b5ee0f7520e08cb0410", null ],
+    [ "AddSuffixIfNotExists", "d0/d0c/a05015.html#a712bea71ec99d750664fd46c690a1ad9", null ],
+    [ "format_as", "d0/d0c/a05015.html#aaa7f21af5991452196a22cd79e127825", null ],
+    [ "IsFormatEmptyOrNull", "d0/d0c/a05015.html#a6f5584cc7346fd1972b3e8a74036467f", null ],
+    [ "IsFormatEmptyOrNull", "d0/d0c/a05015.html#a84459e91f517fc4f79414cc23370b9f1", null ],
+    [ "MakeFormatArgs", "d0/d0c/a05015.html#abd5773b7124dcbc8deb88f522cdcc86f", null ],
+    [ "StringFormat", "d0/d0c/a05015.html#a1b97349dfcb88c6974882d7e34c55895", null ],
+    [ "StringFormatTo", "d0/d0c/a05015.html#a7c53f407c3169d5a97d012ca3470880d", null ],
+    [ "StringVFormat", "d0/d0c/a05015.html#acc68f8d815604ae13c370c09fbb60efd", null ],
+    [ "StringVFormatTo", "d0/d0c/a05015.html#a17112c1b25595793b63f24de06f90081", null ],
+    [ "Trim", "d0/d0c/a05015.html#ad9cd9e0eab5d7794778d1270b2720337", null ],
+    [ "TrimRightInPlace", "d0/d0c/a05015.html#ac78200daa5bc5f1d4c50a1df47a7a4db", null ]
 ];

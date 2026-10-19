@@ -1,6 +1,6 @@
 var a28353 =
 [
-    [ "go_l70_etc_musicAI", "dc/d61/a28353.html#a1709414fc40d48ac7c13eb8251dfbb26", null ],
-    [ "UpdateAI", "dc/d61/a28353.html#a182a5a9bbe53ced25740de9a4a368469", null ],
-    [ "_events", "dc/d61/a28353.html#aa0cda672b4491b3cfc75214038aa2132", null ]
+    [ "go_witherbark_totem_bundleAI", "dc/d61/a28353.html#a955625e2315008a2e36936d44f825060", null ],
+    [ "UpdateAI", "dc/d61/a28353.html#af688bab2dc3d938951adb303e8b8d88b", null ],
+    [ "_timer", "dc/d61/a28353.html#a509e6d8401380c326a0f565a6b903d7a", null ]
 ];

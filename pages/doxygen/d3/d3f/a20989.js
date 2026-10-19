@@ -1,7 +1,6 @@
 var a20989 =
 [
-    [ "OnRemove", "d3/d3f/a20989.html#ae99b372d0894e0c7aafc44f2a3cfac4f", null ],
-    [ "PrepareAuraScript", "d3/d3f/a20989.html#ae99f88a63656d0b48ca4b85548cc736b", null ],
-    [ "Register", "d3/d3f/a20989.html#a27c5665b64c50df5d9c67d5136ab7567", null ],
-    [ "Validate", "d3/d3f/a20989.html#a3d351d7e9ac022ea1bd912843fe66891", null ]
+    [ "PrepareSpellScript", "d3/d3f/a20989.html#a3c8337cc17ec735fc97f5195a1e820b6", null ],
+    [ "Register", "d3/d3f/a20989.html#ae0cc2794b1d2b8de442dbf30f7da8883", null ],
+    [ "SelectPillar", "d3/d3f/a20989.html#a2eaa34f9f3b3d255fc5091fb5b48f60a", null ]
 ];

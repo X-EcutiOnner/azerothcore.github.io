@@ -1,11 +1,8 @@
 var a02030 =
 [
-    [ "instance_hyjal", "d7/d6c/a15319.html", "d7/d6c/a15319" ],
-    [ "instance_hyjal::instance_mount_hyjal_InstanceMapScript", "d7/d5a/a15323.html", "d7/d5a/a15323" ],
-    [ "AddSC_instance_mount_hyjal", "d8/de7/a02030.html#a5c7a0ad3a2ae9f82eb9c45fbf90d5b41", null ],
-    [ "creatureData", "d8/de7/a02030.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "d8/de7/a02030.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "hyjalNightElfWaveTimers", "d8/de7/a02030.html#ade7b4d2fdf8cd15fa4985554885eb881", null ],
-    [ "hyjalRetreatTimers", "d8/de7/a02030.html#a254787ab3a62d90e906ded9ef63aa229", null ],
-    [ "hyjalWaveTimers", "d8/de7/a02030.html#aaad50890c4534c5b5c848a9b85f3d8fe", null ]
+    [ "instance_old_hillsbrad", "da/d46/a15433.html", "da/d46/a15433" ],
+    [ "instance_old_hillsbrad::instance_old_hillsbrad_InstanceMapScript", "d6/d51/a15437.html", "d6/d51/a15437" ],
+    [ "AddSC_instance_old_hillsbrad", "d8/de7/a02030.html#a2b3faa69a9526f156ca7bae70c720075", null ],
+    [ "instancePositions", "d8/de7/a02030.html#a79b42da504a3cfde2581f63a639c7936", null ],
+    [ "thrallPositions", "d8/de7/a02030.html#a04c9058e75a93a56057912eb1c896bd0", null ]
 ];

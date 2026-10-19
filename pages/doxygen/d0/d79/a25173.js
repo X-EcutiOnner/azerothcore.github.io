@@ -1,6 +1,6 @@
 var a25173 =
 [
-    [ "CheckAreaTarget", "d0/d79/a25173.html#aab7e3693e5744cf444e643f7cdfdf738", null ],
-    [ "PrepareAuraScript", "d0/d79/a25173.html#a551d8d6dd43c83d9a693c5971fa5c224", null ],
-    [ "Register", "d0/d79/a25173.html#a6647a8e35009cf8559e4957a666f037a", null ]
+    [ "CalculateAmount", "d0/d79/a25173.html#af913c896771e238ef62898f67af61cc4", null ],
+    [ "PrepareAuraScript", "d0/d79/a25173.html#a4be139ae22c20468be1930195097d98a", null ],
+    [ "Register", "d0/d79/a25173.html#a90d6446ed05f9dfedb43d689e8de0614", null ]
 ];

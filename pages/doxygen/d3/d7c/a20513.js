@@ -1,5 +1,6 @@
 var a20513 =
 [
-    [ "achievement_shadowdodger", "d3/d7c/a20513.html#a8389a4972968fcc6cd7807e96ee5e527", null ],
-    [ "OnCheck", "d3/d7c/a20513.html#a3ee0baca0c9163a601cd4bcfa9ebeb04", null ]
+    [ "HandleSurge", "d3/d7c/a20513.html#a669a46f3583518664462b4ee915be2da", null ],
+    [ "PrepareSpellScript", "d3/d7c/a20513.html#adead1c7e506e9dc8d6b9cc04f2331a58", null ],
+    [ "Register", "d3/d7c/a20513.html#a7f29f72897e2e175044a49b05d2994d7", null ]
 ];

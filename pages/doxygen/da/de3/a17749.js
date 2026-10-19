@@ -1,6 +1,6 @@
 var a17749 =
 [
-    [ "boss_prince_kelesethAI", "db/d25/a17753.html", "db/d25/a17753" ],
-    [ "boss_prince_keleseth_icc", "da/de3/a17749.html#a0df14bbfc96b1d6eff19633716cea9f9", null ],
-    [ "GetAI", "da/de3/a17749.html#ae5a03bbe1d85b9bc865026f05a99545e", null ]
+    [ "HandlePeriodic", "da/de3/a17749.html#a27ad5fef0695f006c2f8795ac0fbce53", null ],
+    [ "PrepareAuraScript", "da/de3/a17749.html#a29b00511d9a215fd0e00702e7a2dca0c", null ],
+    [ "Register", "da/de3/a17749.html#a9753daf5cdc812e9027c1153b450686d", null ]
 ];

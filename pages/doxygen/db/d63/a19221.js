@@ -1,5 +1,6 @@
 var a19221 =
 [
-    [ "npc_darkfallen_tactician", "db/d63/a19221.html#a946ccdf41d93a3477204e303c3404c5c", null ],
-    [ "ScheduleSpells", "db/d63/a19221.html#a26dcb830533771faf8ebc90995ea010b", null ]
+    [ "npc_arthas_teleport_visualAI", "d1/dd1/a19225.html", "d1/dd1/a19225" ],
+    [ "npc_arthas_teleport_visual", "db/d63/a19221.html#a62d2caed6b12355f6d7aeceabba2ddaf", null ],
+    [ "GetAI", "db/d63/a19221.html#a393d5ef960b9ee0cf8feeeeb5d81045d", null ]
 ];

@@ -1,7 +1,7 @@
 var a15101 =
 [
-    [ "HandleDummy", "d8/dc7/a15101.html#a05c3589ee04eed87449f652db065f0e9", null ],
-    [ "PrepareSpellScript", "d8/dc7/a15101.html#afb79a2cf5359e7ec69746cd89d8cd727", null ],
-    [ "Register", "d8/dc7/a15101.html#a51207fcd4f272e120fe1af2ac78c1f80", null ],
-    [ "Validate", "d8/dc7/a15101.html#a5fc6dae87ffb634cc0de389196751b22", null ]
+    [ "HandleEffectApply", "d8/dc7/a15101.html#a404f2134734e1d21201033b3f26e611e", null ],
+    [ "HandleEffectPeriodic", "d8/dc7/a15101.html#a8ce6799e01cf8b7849386fbdd2edddb8", null ],
+    [ "PrepareAuraScript", "d8/dc7/a15101.html#a1707f92d77a3ed7beefd499adc7f4a95", null ],
+    [ "Register", "d8/dc7/a15101.html#ad239472c15ca0c73b053d112f538ecff", null ]
 ];

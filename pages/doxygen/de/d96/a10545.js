@@ -1,9 +1,6 @@
 var a10545 =
 [
-    [ "PathMovementBase", "de/d96/a10545.html#a6b76e1527ed69ff631d7a72c309f264a", null ],
-    [ "PathMovementBase", "de/d96/a10545.html#a953fcda0cf7764f659fc5a4a19408550", null ],
-    [ "~PathMovementBase", "de/d96/a10545.html#a33b2b53993fe897712a196bc4ad86bd1", null ],
-    [ "GetCurrentNode", "de/d96/a10545.html#a7ceb52928f2198392980c3926516fd82", null ],
-    [ "i_currentNode", "de/d96/a10545.html#a5420aef90d3529881ef41362ebb29934", null ],
-    [ "i_path", "de/d96/a10545.html#a3dbc5e41e0c6245f369afc7a24081c83", null ]
+    [ "AssistanceMovementGenerator", "de/d96/a10545.html#a649b7d2833aaf895a5f6f290131c88f5", null ],
+    [ "Finalize", "de/d96/a10545.html#af92bc6f83b1f4b1262736bf582b13ac3", null ],
+    [ "GetMovementGeneratorType", "de/d96/a10545.html#a0791e081895efd553ba2048fc5b851ea", null ]
 ];

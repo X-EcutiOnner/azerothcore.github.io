@@ -1,5 +1,8 @@
 var a28117 =
 [
-    [ "achievement_bg_ic_resource_glut", "db/dae/a28117.html#ace247962dccee2601ceade593b0874d4", null ],
-    [ "OnCheck", "db/dae/a28117.html#a9910cf8b16b8c956df382161cc5f2c84", null ]
+    [ "CheckProc", "db/dae/a28117.html#ab9b2a87dc91e2c6031a02043e6ce4f50", null ],
+    [ "HandleEffectProc", "db/dae/a28117.html#af01d160cb2a55124361a2dd113acd0a7", null ],
+    [ "PrepareAuraScript", "db/dae/a28117.html#aeffb8490a7208ae6e32a505283afbc03", null ],
+    [ "Register", "db/dae/a28117.html#a5436413d098dde4b0fa1ed2259a47779", null ],
+    [ "Validate", "db/dae/a28117.html#ae786a8c97e9f66152b8d0b55624a4eac", null ]
 ];

@@ -1,5 +1,5 @@
 var a11205 =
 [
-    [ "GuildDelete", "d5/da4/a11205.html#a86733335c7b60d5b9eb8616692da3a7f", null ],
-    [ "Read", "d5/da4/a11205.html#ae5ca379b187902323638f4c10be0a4d0", null ]
+    [ "Flags", "d5/da4/a11205.html#af1d25fa760cdbfa907a1b6e0002f0e70", null ],
+    [ "WithdrawItemLimit", "d5/da4/a11205.html#aa7bb5355ee174f3b9dd32c659e0f7806", null ]
 ];

@@ -1,6 +1,7 @@
 var a06597 =
 [
-    [ "PlayerAI", "d3/d86/a06597.html#a880c670caddc1f24e42f229457039c67", null ],
-    [ "OnCharmed", "d3/d86/a06597.html#adf7ab64ed2a81c932730e39d885e4c67", null ],
-    [ "me", "d3/d86/a06597.html#a70a995521c55fb3d73d14e6be883eccc", null ]
+    [ "SpellTargetSelector", "d3/d86/a06597.html#a9f1f441e542500dc43c58b97729f7f51", null ],
+    [ "operator()", "d3/d86/a06597.html#a53c27c23f2d9846903e1ff9b479a36b1", null ],
+    [ "_caster", "d3/d86/a06597.html#ac5b0844c975a6b3ff3c14a843fd28fba", null ],
+    [ "_spellInfo", "d3/d86/a06597.html#a309ed04630cfb92810b7f51376b3917c", null ]
 ];

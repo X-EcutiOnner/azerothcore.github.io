@@ -1,6 +1,9 @@
 var a02360 =
 [
-    [ "DatabaseWorkerPool< T >", "db/d41/a06115.html", "db/d41/a06115" ],
-    [ "MIN_MYSQL_CLIENT_VERSION", "d3/d35/a02360.html#abfde8cf59610848eff4ea61d09bb8ca7", null ],
-    [ "MIN_MYSQL_SERVER_VERSION", "d3/d35/a02360.html#acd4a83e86313ca0bb35cb66497bc79b2", null ]
+    [ "MySQLHandle", "db/d15/a06181.html", null ],
+    [ "MySQLResult", "de/d5f/a06185.html", null ],
+    [ "MySQLField", "dd/da3/a06189.html", null ],
+    [ "MySQLBind", "df/d83/a06193.html", null ],
+    [ "MySQLStmt", "d2/d3c/a06197.html", null ],
+    [ "MySQLBool", "d3/d35/a02360.html#a9962b927652e90357369e67230dbc127", null ]
 ];

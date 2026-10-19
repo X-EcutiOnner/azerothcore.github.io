@@ -1,6 +1,6 @@
 var a25437 =
 [
-    [ "HandleScriptEffect", "df/d53/a25437.html#a884d0f5f8bf0f3515b4fedd54dd20ebf", null ],
-    [ "PrepareSpellScript", "df/d53/a25437.html#a45151bb2eacdd642e8f11564d4ef0d65", null ],
-    [ "Register", "df/d53/a25437.html#ae01695fd336fca36a7d2569ca741fba5", null ]
+    [ "CheckRequirement", "df/d53/a25437.html#a8a1367ad6c51a74e7cefbc2440eab697", null ],
+    [ "PrepareSpellScript", "df/d53/a25437.html#a859ac50e6774471c232113e5c007f602", null ],
+    [ "Register", "df/d53/a25437.html#aceafb7d6cfa300011935026f4d7ac491", null ]
 ];

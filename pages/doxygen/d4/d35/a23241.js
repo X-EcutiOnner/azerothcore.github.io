@@ -1,6 +1,6 @@
 var a23241 =
 [
-    [ "OnPeriodic", "d4/d35/a23241.html#aef6afe014ce90711cd7628563aada2a4", null ],
-    [ "PrepareAuraScript", "d4/d35/a23241.html#a40a98b79b445d3cebe3f195cb9c03a80", null ],
-    [ "Register", "d4/d35/a23241.html#a44c261ff549ddf0b1dad5ae6d0ff2432", null ]
+    [ "instance_black_temple_InstanceMapScript", "d3/d39/a23245.html", "d3/d39/a23245" ],
+    [ "instance_black_temple", "d4/d35/a23241.html#a2efd6c7fff15c8fd03652ef9a65088eb", null ],
+    [ "GetInstanceScript", "d4/d35/a23241.html#a947a1279eabde75d9884b1ef84b295a3", null ]
 ];

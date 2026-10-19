@@ -1,15 +1,20 @@
 var a16393 =
 [
-    [ "boss_volazj", "d4/d9e/a16393.html#ac1f0bc7b55a554d29e55a376680bf747", null ],
-    [ "CheckPhaseMinions", "d4/d9e/a16393.html#aa79bf97b6772956795bd2f16b85e061f", null ],
-    [ "GetPlrInsanityAuraId", "d4/d9e/a16393.html#a5b6936cedb3fc411ae58f3dc3f6b689a", null ],
-    [ "JustDied", "d4/d9e/a16393.html#a6c85c56c2483c3e8b4de67b94a45e0a6", null ],
-    [ "JustEngagedWith", "d4/d9e/a16393.html#a135c5606742474e77ffd0ee0a3c3ee69", null ],
-    [ "KilledUnit", "d4/d9e/a16393.html#abdf2cb95f0d3d7756584c338f2e2db25", null ],
-    [ "Reset", "d4/d9e/a16393.html#a0377375b89b02db3cae01390fdd13ee2", null ],
-    [ "ResetPlayersPhaseMask", "d4/d9e/a16393.html#afbfa62f2b72a95434348f74fdda46da6", null ],
-    [ "ScheduleTasks", "d4/d9e/a16393.html#a44a8aa836a45e5a9827814bb731d2882", null ],
-    [ "SetData", "d4/d9e/a16393.html#aa8b5ae6214f0c764f15b096876d614d7", null ],
-    [ "UpdateAI", "d4/d9e/a16393.html#aceac85fb06c81ccd171b024ad0d57ffe", null ],
-    [ "insanityPhase", "d4/d9e/a16393.html#ae90de1e956eb3653c8c2f0c04d89585b", null ]
+    [ "npc_weegli_blastfuseAI", "d4/d9e/a16393.html#acde6b3e037d3c297e5d1beccdbe3d03a", null ],
+    [ "AttackStart", "d4/d9e/a16393.html#a5e9140b38021ed6a2808e026fd77f8f1", null ],
+    [ "DoAction", "d4/d9e/a16393.html#a62499326ee1814f96be82cd97314ac6c", null ],
+    [ "InitializeAI", "d4/d9e/a16393.html#a61490f8c63f8056ac9f145ed8dd789c7", null ],
+    [ "JustDied", "d4/d9e/a16393.html#accd4ef411a90512e2973916705b7cb9f", null ],
+    [ "JustReachedHome", "d4/d9e/a16393.html#a4a88bc4bff8b5b2f75e3dd0c25927815", null ],
+    [ "JustRespawned", "d4/d9e/a16393.html#abd2bcd37ea38f68e97d322ad870de40e", null ],
+    [ "MovementInform", "d4/d9e/a16393.html#a13b02aece1cdb803764fc1c07c8f0bbd", null ],
+    [ "PathEndReached", "d4/d9e/a16393.html#a55e6fe4bae3bfb61ca350af7b87f7394", null ],
+    [ "Reset", "d4/d9e/a16393.html#abec9f353a1430afae12c21273bf32197", null ],
+    [ "sGossipHello", "d4/d9e/a16393.html#a3a8381fa5e5d4daf19f312166247bea5", null ],
+    [ "sGossipSelect", "d4/d9e/a16393.html#a0927116dcc55a1107dce7c65d1295e2a", null ],
+    [ "UpdateAI", "d4/d9e/a16393.html#a73e482ebbb1566738e6775a574500dc8", null ],
+    [ "Bomb_Timer", "d4/d9e/a16393.html#af6f68e291ce7d8cf25105ac64d7eebff", null ],
+    [ "doorStage", "d4/d9e/a16393.html#a24e1943d4e7853f7c286e2cf9643e20a", null ],
+    [ "instance", "d4/d9e/a16393.html#a609616e5136cf11bc16f9bb30ba92879", null ],
+    [ "LandMine_Timer", "d4/d9e/a16393.html#ad9bab1d2c7a2baf35f6f7fb2cb4a27c7", null ]
 ];

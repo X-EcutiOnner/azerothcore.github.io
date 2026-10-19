@@ -1,6 +1,6 @@
 var a19181 =
 [
-    [ "npc_arthas_teleport_visualAI", "da/dcf/a19185.html", "da/dcf/a19185" ],
-    [ "npc_arthas_teleport_visual", "d8/d3f/a19181.html#a62d2caed6b12355f6d7aeceabba2ddaf", null ],
-    [ "GetAI", "d8/d3f/a19181.html#a393d5ef960b9ee0cf8feeeeb5d81045d", null ]
+    [ "npc_captain_brandonAI", "d8/d3f/a19181.html#a1fe09b93be658660ba3c127c142e2ee6", null ],
+    [ "Reset", "d8/d3f/a19181.html#a13226b321707eee9faf5f073c81403e4", null ],
+    [ "UpdateAI", "d8/d3f/a19181.html#a721f8f7395cd57d4dba74f66ae40169f", null ]
 ];

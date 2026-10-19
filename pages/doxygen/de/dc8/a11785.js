@@ -1,17 +1,12 @@
 var a11785 =
 [
-    [ "WorldPacket", "de/dc8/a11785.html#a6329945c46586b75f41f4f3b0410a046", null ],
-    [ "WorldPacket", "de/dc8/a11785.html#a121222c627cfce905891be1611705a1a", null ],
-    [ "WorldPacket", "de/dc8/a11785.html#af406fe2f357035990fd5eccf37f3fb93", null ],
-    [ "WorldPacket", "de/dc8/a11785.html#a2880e36e172096407778fcbbdfe917bc", null ],
-    [ "WorldPacket", "de/dc8/a11785.html#a251580581b403cc113aa743c0196ceea", null ],
-    [ "WorldPacket", "de/dc8/a11785.html#a224a2ad18da5d8dd7a7bcbb887870243", null ],
-    [ "GetOpcode", "de/dc8/a11785.html#a666547feae3b83bfbba424a541287239", null ],
-    [ "GetReceivedTime", "de/dc8/a11785.html#a467aa36509adcb07f51bc8af24137c3e", null ],
-    [ "Initialize", "de/dc8/a11785.html#a6b7d58fb0230383629fa888d3aa9dbd8", null ],
-    [ "operator=", "de/dc8/a11785.html#ad44064a3c2c73f6289a9db539b408f50", null ],
-    [ "operator=", "de/dc8/a11785.html#aa1196a05e7b338543b3b94188e59721f", null ],
-    [ "SetOpcode", "de/dc8/a11785.html#acb55a3f9540c39bf88300473c29605ed", null ],
-    [ "m_opcode", "de/dc8/a11785.html#a4ff77d8a27744f07bbab70cdc4a3ef91", null ],
-    [ "m_receivedTime", "de/dc8/a11785.html#abb78776ad3a0f19e5e3d226666612b49", null ]
+    [ "OpcodeTable", "d5/d87/a05118.html#gacb286fdd22f1781abfb0d820b1f345aa", null ],
+    [ "OpcodeTable", "d5/d87/a05118.html#ga0d719536cf746ad04a8ecc4fcca4a869", null ],
+    [ "~OpcodeTable", "d5/d87/a05118.html#gac4e0724e0795156122c4fd8f07ade628", null ],
+    [ "Initialize", "d5/d87/a05118.html#gac64814869d378e5bb7fa18144693fac1", null ],
+    [ "operator=", "d5/d87/a05118.html#ga2153d4fe6b752cc2269cbfec7e8c3c84", null ],
+    [ "operator[]", "d5/d87/a05118.html#gaa2cde2ecf8628ce12487ec9ce8fa37d1", null ],
+    [ "ValidateAndSetClientOpcode", "d5/d87/a05118.html#ga95313e8e04ed3ab47f7104db9cf1db09", null ],
+    [ "ValidateAndSetServerOpcode", "d5/d87/a05118.html#ga42b9c6fd72c2f463ab5cb3fb562151b6", null ],
+    [ "_internalTableClient", "d5/d87/a05118.html#ga8c0d7f9f6248f9652fd8b8021b9a7677", null ]
 ];

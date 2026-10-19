@@ -1,11 +1,12 @@
 var a07801 =
 [
-    [ "BattlegroundABScore", "d8/dea/a07801.html#ae219ecb551c89ad5a5cb22f1996a598b", null ],
-    [ "BuildObjectivesBlock", "d8/dea/a07801.html#a86ac6e9b19eaa7ed257f25f9f73c22cf", null ],
-    [ "GetAttr1", "d8/dea/a07801.html#af0f066f76f4d84e844946862ae819b4f", null ],
-    [ "GetAttr2", "d8/dea/a07801.html#a8ac00679dd8dfeef81f159b7a2b22027", null ],
-    [ "UpdateScore", "d8/dea/a07801.html#a43aaefd97c8880cbf70381282d81f7cf", null ],
-    [ "BattlegroundAB", "d8/dea/a07801.html#ad5365fcb2edd84180065badd1572ba8e", null ],
-    [ "BasesAssaulted", "d8/dea/a07801.html#a25643abf67d1ae2f8498951c11833994", null ],
-    [ "BasesDefended", "d8/dea/a07801.html#a450504481d335230b3e035d4337694be", null ]
+    [ "BGQueueInviteEvent", "d8/dea/a07801.html#acee27900339fdcebbfd21bb0e602654d", null ],
+    [ "~BGQueueInviteEvent", "d8/dea/a07801.html#a09f9f27ecbc273b25e5941966a4fa925", null ],
+    [ "Abort", "d8/dea/a07801.html#a07f5520ab61cdfd4eadc5d0815067135", null ],
+    [ "Execute", "d8/dea/a07801.html#a444aceb1c29c951271bab5186a7f3064", null ],
+    [ "m_ArenaType", "d8/dea/a07801.html#a1b7d1161d46578606396efd515ab1739", null ],
+    [ "m_BgInstanceGUID", "d8/dea/a07801.html#ad9adc44cc1cde3b0b820740852bdb3ce", null ],
+    [ "m_BgTypeId", "d8/dea/a07801.html#a608c24288f24bc4da77124257320c741", null ],
+    [ "m_PlayerGuid", "d8/dea/a07801.html#a200b4bcd336846df60ec11de8d829d7d", null ],
+    [ "m_RemoveTime", "d8/dea/a07801.html#a4c78e5a74eaf859db40772008557201f", null ]
 ];

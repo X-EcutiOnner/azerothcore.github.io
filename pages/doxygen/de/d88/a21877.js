@@ -1,8 +1,6 @@
 var a21877 =
 [
-    [ "npc_future_youAI", "de/d88/a21877.html#a7608c050dd198e3133050e222b42f62b", null ],
-    [ "EnterEvadeMode", "de/d88/a21877.html#a0b15c8af6075e323e56b2170ce4eefc0", null ],
-    [ "MoveInLineOfSight", "de/d88/a21877.html#a35b67f9e948f5ffbde8a423190ece603", null ],
-    [ "Reset", "de/d88/a21877.html#a01a8cd8f94dd614de2ffefdb19cd9f29", null ],
-    [ "UpdateAI", "de/d88/a21877.html#ac110daa6b4cf6bf26d9e9f9829577fa6", null ]
+    [ "npc_dalaran_mageAI", "dd/dba/a21881.html", "dd/dba/a21881" ],
+    [ "npc_dalaran_mage", "de/d88/a21877.html#a764d637ab0c64e2a0cc0459269974d6d", null ],
+    [ "GetAI", "de/d88/a21877.html#ae2deef0546e2bf0df562e0a67b8b0b93", null ]
 ];

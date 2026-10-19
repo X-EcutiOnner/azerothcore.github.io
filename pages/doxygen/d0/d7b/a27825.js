@@ -1,6 +1,7 @@
 var a27825 =
 [
-    [ "HandleBanish", "d0/d7b/a27825.html#ab8dd3ab2fd7b9aff3556e6284c515474", null ],
-    [ "PrepareSpellScript", "d0/d7b/a27825.html#a56118e3ed7525cdf575531a4c2f2d93f", null ],
-    [ "Register", "d0/d7b/a27825.html#ad6c066c9d6a64a5d89d3c347600559a9", null ]
+    [ "HandleProc", "d0/d7b/a27825.html#aa28268bdb7e3063cff0880baefe02824", null ],
+    [ "PrepareAuraScript", "d0/d7b/a27825.html#a8b19c9d128d568be695f985e5ed28b2d", null ],
+    [ "Register", "d0/d7b/a27825.html#a5a0f0e1558c1d4c687b94fe8874512ef", null ],
+    [ "Validate", "d0/d7b/a27825.html#a8461f9dc90d1df9a91350d3e277fffeb", null ]
 ];

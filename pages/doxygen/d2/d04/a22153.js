@@ -1,8 +1,8 @@
 var a22153 =
 [
-    [ "AfterApply", "d2/d04/a22153.html#af78d13a65fe21879fdb9147cdb0f2352", null ],
-    [ "AfterRemove", "d2/d04/a22153.html#a74f5bdcd48a1cbe7b111a0a8294d7f19", null ],
-    [ "PrepareAuraScript", "d2/d04/a22153.html#ac5b2bc61e52a895d35e3a4e8232f1659", null ],
-    [ "Register", "d2/d04/a22153.html#a9b770bea32f0c3af7f5eb71eeea286fb", null ],
-    [ "Validate", "d2/d04/a22153.html#a02fd5ec715170198bfb3b4f6be0485b7", null ]
+    [ "HandleEffectApply", "d2/d04/a22153.html#a8ebf9488a7eed99c3651424754cc95c5", null ],
+    [ "HandleEffectPeriodic", "d2/d04/a22153.html#a183976530ebf604656db12e41449427e", null ],
+    [ "PrepareAuraScript", "d2/d04/a22153.html#a03faa2eda84ac74dcff9a7a6a4e57440", null ],
+    [ "Register", "d2/d04/a22153.html#a76be53d506933d4b3c758578b7c33d5f", null ],
+    [ "_posZ", "d2/d04/a22153.html#a488ded8ff40240fe8fbef1567eb091b9", null ]
 ];

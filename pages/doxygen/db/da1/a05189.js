@@ -1,7 +1,9 @@
 var a05189 =
 [
-    [ "ArenaTeam", "da/de2/a11031.html", "da/de2/a11031" ],
-    [ "CalendarComplain", "d7/d9b/a11035.html", "d7/d9b/a11035" ],
-    [ "GetEvent", "df/d2c/a11023.html", "df/d2c/a11023" ],
-    [ "GuildFilter", "d1/da1/a11027.html", "d1/da1/a11027" ]
+    [ "Hello", "dd/de2/a11533.html", "dd/de2/a11533" ],
+    [ "TrainerBuyFailed", "d5/d74/a11549.html", "d5/d74/a11549" ],
+    [ "TrainerBuySpell", "dd/d2f/a11545.html", "dd/d2f/a11545" ],
+    [ "TrainerBuySucceeded", "db/d60/a11553.html", "db/d60/a11553" ],
+    [ "TrainerList", "db/db1/a11541.html", "db/db1/a11541" ],
+    [ "TrainerListSpell", "d1/d6a/a11537.html", "d1/d6a/a11537" ]
 ];

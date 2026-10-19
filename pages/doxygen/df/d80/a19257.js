@@ -1,6 +1,5 @@
 var a19257 =
 [
-    [ "HandleEvent", "df/d80/a19257.html#a7936a64a1142a47b2addfd746dccfcef", null ],
-    [ "PrepareSpellScript", "df/d80/a19257.html#a00e2be07131c674558d0364df98849ab", null ],
-    [ "Register", "df/d80/a19257.html#a89364583504d2eaa75473586850bc3d5", null ]
+    [ "npc_darkfallen_advisor", "df/d80/a19257.html#a99b3fd829e0a9e62a78f5e750d1a5369", null ],
+    [ "ScheduleSpells", "df/d80/a19257.html#aab9175d674273b19071e595354bb195c", null ]
 ];

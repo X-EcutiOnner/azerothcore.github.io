@@ -1,7 +1,8 @@
 var a21009 =
 [
-    [ "FilterTargets", "df/d91/a21009.html#a582691eca81b6db6d78ca925ad8fb084", null ],
-    [ "PrepareSpellScript", "df/d91/a21009.html#a28ce9d2750c79b2b0061b00df5ae9e8b", null ],
-    [ "RecalculateDamage", "df/d91/a21009.html#a02c1af0414de344056b2375488f23c01", null ],
-    [ "Register", "df/d91/a21009.html#a1e030067944878000b731edf456d6bc8", null ]
+    [ "npc_xt002_heart", "df/d91/a21009.html#aa4a3c9e4a66f1d6adab07282961685e9", null ],
+    [ "DoAction", "df/d91/a21009.html#a3150ab74ea50c9de6d937b3271e782de", null ],
+    [ "JustDied", "df/d91/a21009.html#a4f62cabc74ad43cf53f2257902982dff", null ],
+    [ "Reset", "df/d91/a21009.html#a0b60b84d9fc0abcb44d3f432420a7865", null ],
+    [ "_instance", "df/d91/a21009.html#a90edf95809c2d8a25b3f75526d2d3db7", null ]
 ];

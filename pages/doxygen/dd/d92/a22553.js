@@ -1,8 +1,6 @@
 var a22553 =
 [
-    [ "go_wg_vehicle_teleporterAI", "dd/d92/a22553.html#af84e73765b1a4d810b41613824999186", null ],
-    [ "IsFriendly", "dd/d92/a22553.html#adca817c8919958db888d5e9c759ad545", null ],
-    [ "IsValidVehicle", "dd/d92/a22553.html#a3f790a651d5f0c67c5d528828a6bb398", null ],
-    [ "UpdateAI", "dd/d92/a22553.html#a8d8197cbfa6ab36d269f18020acbc565", null ],
-    [ "_checkTimer", "dd/d92/a22553.html#a9cbb42b4f29f94e41e80caccd87d95f4", null ]
+    [ "HandleEffectRemove", "dd/d92/a22553.html#a08c55501b95d4c92971fd5c95aaef1a7", null ],
+    [ "PrepareAuraScript", "dd/d92/a22553.html#aa0df1c7c112cf44fbe5a89894a1292b3", null ],
+    [ "Register", "dd/d92/a22553.html#a6f6ae6c012090337eb3f9ca4fd39749d", null ]
 ];

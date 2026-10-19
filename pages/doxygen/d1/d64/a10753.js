@@ -1,19 +1,10 @@
 var a10753 =
 [
-    [ "AllGameObjectScript", "d1/d64/a10753.html#ab973d5cd7d6941988585b531a9bb812c", null ],
-    [ "CanGameObjectGossipHello", "d1/d64/a10753.html#a33efc883fe64cdc52aa9b03f9377da97", null ],
-    [ "CanGameObjectGossipSelect", "d1/d64/a10753.html#a317305c7dc81fede50d73f65fbc2bb42", null ],
-    [ "CanGameObjectGossipSelectCode", "d1/d64/a10753.html#a52cacc900fffa3d1ee1d058052c9cfb4", null ],
-    [ "CanGameObjectQuestAccept", "d1/d64/a10753.html#a0c99183b04355ecfb3460bc371b58805", null ],
-    [ "CanGameObjectQuestReward", "d1/d64/a10753.html#a55eb61a5e4386908db998ceff1dff359", null ],
-    [ "GetGameObjectAI", "d1/d64/a10753.html#afe0c610693bc883415952ba350596788", null ],
-    [ "OnGameObjectAddWorld", "d1/d64/a10753.html#ae07275a83e4e1ae65371739bdc342d7f", null ],
-    [ "OnGameObjectDamaged", "d1/d64/a10753.html#ab551bd870ab2e6513d95fcfb3e62d8c5", null ],
-    [ "OnGameObjectDestroyed", "d1/d64/a10753.html#a3861b881456c1af3e9231d90519367d6", null ],
-    [ "OnGameObjectLootStateChanged", "d1/d64/a10753.html#a599b35bb426d3c91c5457c838bfe910d", null ],
-    [ "OnGameObjectModifyHealth", "d1/d64/a10753.html#a4d5607d755f044fed3a23c122bceddff", null ],
-    [ "OnGameObjectRemoveWorld", "d1/d64/a10753.html#aca2171a8521195f06ea00c21f219d8f5", null ],
-    [ "OnGameObjectSaveToDB", "d1/d64/a10753.html#ae4bb28ae318f13a72109a3874f2ca12d", null ],
-    [ "OnGameObjectStateChanged", "d1/d64/a10753.html#ab0ab47240bdb815d404f8bd41fb3bdaa", null ],
-    [ "OnGameObjectUpdate", "d1/d64/a10753.html#ada8cc5373b75025199ca62856242d0ab", null ]
+    [ "AchievementScript", "d1/d64/a10753.html#ab09a80bc238814358e1397da529e9584", null ],
+    [ "CanCheckCriteria", "d1/d64/a10753.html#aca4cb16b55f7990c676267b8f10b4e57", null ],
+    [ "IsCompletedCriteria", "d1/d64/a10753.html#a33d7ba1a6bf82da8e2de367553c0fb52", null ],
+    [ "IsDatabaseBound", "d1/d64/a10753.html#a9ea2ed91c281e881404c31a948de0fc9", null ],
+    [ "IsRealmCompleted", "d1/d64/a10753.html#abc54c295c1bcad45e21aed99e43a3713", null ],
+    [ "OnBeforeCheckCriteria", "d1/d64/a10753.html#afac6fc03c2ba91165fbdf2ccc5422063", null ],
+    [ "SetRealmCompleted", "d1/d64/a10753.html#acf6a63ba96da7b33a92d48a95a549d4e", null ]
 ];

@@ -1,5 +1,6 @@
 var a20617 =
 [
-    [ "achievement_staying_buffed_all_winter_10", "de/d25/a20617.html#a40afd6db0bf6cff2b9b6163b7d4c31da", null ],
-    [ "OnCheck", "de/d25/a20617.html#a67587b1659a8d026e73b42311148541a", null ]
+    [ "FilterTargets", "de/d25/a20617.html#a16c036791c9dc94490d0504d6e530bad", null ],
+    [ "PrepareSpellScript", "de/d25/a20617.html#a0c1a162a3dfb2b508f9efaebe478ca74", null ],
+    [ "Register", "de/d25/a20617.html#a061c3091e981f09d20016c4f523f3c17", null ]
 ];

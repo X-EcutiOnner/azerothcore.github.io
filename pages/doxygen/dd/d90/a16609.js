@@ -1,6 +1,6 @@
 var a16609 =
 [
-    [ "npc_xerestraszaAI", "d4/dfd/a16613.html", "d4/dfd/a16613" ],
-    [ "npc_xerestrasza", "dd/d90/a16609.html#a49023756b5dab130e4ffd7e62fa80ce4", null ],
-    [ "GetAI", "dd/d90/a16609.html#a5e0ede0054969d4787db56781dc55846", null ]
+    [ "instance_obsidian_sanctum_InstanceMapScript", "d4/dfd/a16613.html", "d4/dfd/a16613" ],
+    [ "instance_obsidian_sanctum", "dd/d90/a16609.html#a6cf2121c4167156f5748c144372b3c0b", null ],
+    [ "GetInstanceScript", "dd/d90/a16609.html#a67acb36f65c1bc3d6eca59bf71a5c220", null ]
 ];

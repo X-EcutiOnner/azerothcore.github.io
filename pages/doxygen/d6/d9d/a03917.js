@@ -1,4 +1,4 @@
 var a03917 =
 [
-    [ "ScriptRegistry< BattlegroundScript >", "d6/d9d/a03917.html#a954046a61096ecb9db321b0a35da5f77", null ]
+    [ "ScriptRegistry< SpellScriptLoader >", "d6/d9d/a03917.html#aae80ff7a03e35c91f47550f388c3f3bb", null ]
 ];

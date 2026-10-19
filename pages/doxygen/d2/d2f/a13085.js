@@ -1,7 +1,5 @@
 var a13085 =
 [
-    [ "HandleAfterApply", "d2/d2f/a13085.html#a8f55616f861cccf7126f7e1a7c88f3c1", null ],
-    [ "HandleAfterRemove", "d2/d2f/a13085.html#a7970613f1668294f29f61c1f10a9ba37", null ],
-    [ "PrepareAuraScript", "d2/d2f/a13085.html#aea2f52682e723f8dacfffa20cd0f41a5", null ],
-    [ "Register", "d2/d2f/a13085.html#ae38b71adaff3b36f5d7b3007e84e620f", null ]
+    [ "go_orb_of_domination", "d2/d2f/a13085.html#ad1378efcf7a54adac256a44bbdfe4357", null ],
+    [ "GossipHello", "d2/d2f/a13085.html#a95628cbeeb6b2af6a79546ff3661815e", null ]
 ];

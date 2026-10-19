@@ -1,6 +1,6 @@
 var a00686 =
 [
-    [ "NPCStaveQuestAI", "d8/d4a/a28635.html", "d8/d4a/a28635" ],
+    [ "NPCStaveQuestAI", "df/dc6/a28649.html", "df/dc6/a28649" ],
     [ "Common", "df/d9e/a00686.html#a2898ea5b5bdc6f6ebd68c36327a6cecd", [
       [ "GOSSIP_EVENT_START_OPTION_ID", "df/d9e/a00686.html#a2898ea5b5bdc6f6ebd68c36327a6cecdaf2a660132a0a17288b1831007b938936", null ],
       [ "EVENT_ENCOUNTER_START", "df/d9e/a00686.html#a2898ea5b5bdc6f6ebd68c36327a6cecda0f5bec07177a7a6bdbdf76abcbadf05a", null ],

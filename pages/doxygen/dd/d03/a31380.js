@@ -1,13 +1,8 @@
 var a31380 =
 [
-    [ "ConfigPolicy", "d4/da8/a05511.html", "d4/da8/a05511" ],
-    [ "ConfigMgr", "d1/dab/a05515.html", "d1/dab/a05515" ],
-    [ "ConfigException", "de/d01/a05519.html", "de/d01/a05519" ],
-    [ "sConfigMgr", "dd/d03/a31380.html#a7236988e98bdd405bf435a029b70a26f", null ],
-    [ "ConfigSeverity", "dd/d03/a31380.html#a05eaca858744a1f9f0e309e7867383e3", [
-      [ "Skip", "dd/d03/a31380.html#a05eaca858744a1f9f0e309e7867383e3a72ef2b9b6965d078e3c7f95487a82d1c", null ],
-      [ "Warn", "dd/d03/a31380.html#a05eaca858744a1f9f0e309e7867383e3a56525ae64d370c0b448ac0d60710ef17", null ],
-      [ "Error", "dd/d03/a31380.html#a05eaca858744a1f9f0e309e7867383e3a902b0d55fddef6f8d651fe1035b7d4bd", null ],
-      [ "Fatal", "dd/d03/a31380.html#a05eaca858744a1f9f0e309e7867383e3a882384ec38ce8d9582b57e70861730e4", null ]
-    ] ]
+    [ "DBCFile", "dd/dc5/a30341.html", "dd/dc5/a30341" ],
+    [ "DBCFile::Exception", "d1/d02/a30345.html", "d1/d02/a30345" ],
+    [ "DBCFile::NotFound", "da/dee/a30349.html", "da/dee/a30349" ],
+    [ "DBCFile::Record", "d2/d18/a30353.html", "d2/d18/a30353" ],
+    [ "DBCFile::Iterator", "d4/d7c/a30357.html", "d4/d7c/a30357" ]
 ];

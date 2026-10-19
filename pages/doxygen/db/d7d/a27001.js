@@ -1,10 +1,7 @@
 var a27001 =
 [
-    [ "Absorb", "db/d7d/a27001.html#ab4006b00d415a94e6a49856cee7e272b", null ],
-    [ "CalculateAmount", "db/d7d/a27001.html#a57bfd4e7178e9e7c3df12c025d0c7d9e", null ],
-    [ "Load", "db/d7d/a27001.html#a88aa9623f587bb7b5e91da83c76f562a", null ],
-    [ "PrepareAuraScript", "db/d7d/a27001.html#a456c1bd5b284f642d1e040de52eee24b", null ],
-    [ "Register", "db/d7d/a27001.html#a905994099dcc4ac9512d5f27b78a778c", null ],
-    [ "Validate", "db/d7d/a27001.html#ad99966111a1919c610a942a8eb133ea1", null ],
-    [ "healPct", "db/d7d/a27001.html#a3b0527ce7f1fd6afaa57f942275ec81b", null ]
+    [ "HandleProc", "db/d7d/a27001.html#af48dfc934a6be37e95c469d07691e91f", null ],
+    [ "PrepareAuraScript", "db/d7d/a27001.html#a93147abc7cda5307a06be3d876b82eea", null ],
+    [ "Register", "db/d7d/a27001.html#a9f4ea3a1d84491a235f55c54ad2af2d6", null ],
+    [ "Validate", "db/d7d/a27001.html#a5c19c37e6d0271d0d38fffa945f6c707", null ]
 ];

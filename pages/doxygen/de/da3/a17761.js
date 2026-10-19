@@ -1,25 +1,11 @@
 var a17761 =
 [
-    [ "boss_prince_taldaramAI", "de/da3/a17761.html#a8887ecc2d5eae177dbc7adbd087b9c7e", null ],
-    [ "DamageDealt", "de/da3/a17761.html#a7fdce83dce5c425aa6ba266860808f8a", null ],
-    [ "DamageTaken", "de/da3/a17761.html#aeb85f808b766fb8e7a27c778c25b79f0", null ],
-    [ "DoAction", "de/da3/a17761.html#ace782c6784cccf5dee01aa4de57ca0fb", null ],
-    [ "EnterEvadeMode", "de/da3/a17761.html#a145d62ce132c3cdaeb7918790122967b", null ],
-    [ "InitializeAI", "de/da3/a17761.html#a86ffd0e0da7bff506bad5508c32de505", null ],
-    [ "JustDied", "de/da3/a17761.html#a5433de81912a208ea79533e0650d8687", null ],
-    [ "JustEngagedWith", "de/da3/a17761.html#ae9b82e54daa62b196c6064143253b0d7", null ],
-    [ "JustReachedHome", "de/da3/a17761.html#a448dcc055b5a4f57b6ad1ed09a4e19de", null ],
-    [ "JustRespawned", "de/da3/a17761.html#a692da5cd278c64a6e14c9a997e02a433", null ],
-    [ "JustSummoned", "de/da3/a17761.html#af62d0d20e8f7f312c1cd57ba3816bf70", null ],
-    [ "KilledUnit", "de/da3/a17761.html#a1b3b2ce6d33becceb9a0426932b351be", null ],
-    [ "Reset", "de/da3/a17761.html#acb777001e906749c81328df787732938", null ],
-    [ "SpellHit", "de/da3/a17761.html#ae6258962c56bb67fdc09abe695a48fd7", null ],
-    [ "SummonedCreatureDespawn", "de/da3/a17761.html#af512a9920b3e21641776197a570d87fa", null ],
-    [ "UpdateAI", "de/da3/a17761.html#a1c15de4b477bbab2bb7d73df9f524d77", null ],
-    [ "_canDie", "de/da3/a17761.html#aabe7cd8c61d97e1b3ea5a5736245aba0", null ],
-    [ "_evading", "de/da3/a17761.html#a9dd90a58ca89477b9d18e3931edfec45", null ],
-    [ "_isEmpowered", "de/da3/a17761.html#af5299914d228a49622524c13a63bb5cb", null ],
-    [ "events", "de/da3/a17761.html#ae6e957dbd34e2c10d26875647faabe6b", null ],
-    [ "instance", "de/da3/a17761.html#a45e9131b837b3967cc5b8d08ce7946cd", null ],
-    [ "summons", "de/da3/a17761.html#aa198916309f31e243afc879c289269f8", null ]
+    [ "boss_slad_ranAI", "de/da3/a17761.html#ad85e2fd51d67739026a96bc757bc7801", null ],
+    [ "GetData", "de/da3/a17761.html#a58e1188a418acdc1f327e7df90c5c122", null ],
+    [ "JustDied", "de/da3/a17761.html#a636ca76497c33a5175986e80bbcda44a", null ],
+    [ "JustEngagedWith", "de/da3/a17761.html#ac30b38805d0421b1be509c7d5609c648", null ],
+    [ "KilledUnit", "de/da3/a17761.html#a4700f8c06e5fa43fc1719c19cfe79b24", null ],
+    [ "Reset", "de/da3/a17761.html#a8759163de40d04d53c5e5ed8d8192aa7", null ],
+    [ "SetData", "de/da3/a17761.html#a3b91eb7c2aa2aeb356c51e81f449b0a5", null ],
+    [ "_achievement", "de/da3/a17761.html#a3ab4f94e13d414fd6c9eb0ba63941ca9", null ]
 ];

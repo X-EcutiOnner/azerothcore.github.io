@@ -1,6 +1,8 @@
 var a21461 =
 [
-    [ "instance_utgarde_pinnacle_InstanceMapScript", "dc/d38/a21465.html", "dc/d38/a21465" ],
-    [ "instance_utgarde_pinnacle", "d3/dc6/a21461.html#a70c1528c9c1b0d830cc7af7debd5721b", null ],
-    [ "GetInstanceScript", "d3/dc6/a21461.html#a41bd06d5f42b09193c5f1b2bbb2323ac", null ]
+    [ "FilterTargets", "d3/dc6/a21461.html#a028ef84c884536a28650ace1e56f8061", null ],
+    [ "HandleScript", "d3/dc6/a21461.html#a16466b4c07c06c57493082b0e84b3c66", null ],
+    [ "PrepareSpellScript", "d3/dc6/a21461.html#ad43892487ca38342a61522548b34cd2c", null ],
+    [ "Register", "d3/dc6/a21461.html#a90470761baccdcf8c5430006004abf29", null ],
+    [ "Validate", "d3/dc6/a21461.html#a1664dcb92887f6974e1750472c02d168", null ]
 ];

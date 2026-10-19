@@ -1,7 +1,8 @@
 var a23225 =
 [
-    [ "PrepareAuraScript", "dd/d10/a23225.html#a30ec063aa1ddbc3a32066e1f868bf742", null ],
-    [ "Register", "dd/d10/a23225.html#a1e62c60bfc2b72811950b627ce1202c3", null ],
-    [ "Update", "dd/d10/a23225.html#a3f98767367564734c9877d1870aac31b", null ],
-    [ "Validate", "dd/d10/a23225.html#a450460769e0e54e06f1b64b3c63ba0de", null ]
+    [ "boss_najentus", "dd/d10/a23225.html#ac5d3d54a49524892fe844925d483c244", null ],
+    [ "JustDied", "dd/d10/a23225.html#afee32dd32033c7a45068ce12e961797c", null ],
+    [ "JustEngagedWith", "dd/d10/a23225.html#a46e3aab64c21b24ac6457acd598679ec", null ],
+    [ "KilledUnit", "dd/d10/a23225.html#ad55e1de3aa7a636b3d30b0d61a17dab9", null ],
+    [ "Reset", "dd/d10/a23225.html#ab7e0bdb8954722c9080146a88a3c5aa2", null ]
 ];

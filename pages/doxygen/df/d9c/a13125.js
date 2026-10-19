@@ -1,7 +1,8 @@
 var a13125 =
 [
-    [ "HandleDummy", "df/d9c/a13125.html#acbf0fa3d73de0cec47928fc0dda0c724", null ],
-    [ "PrepareSpellScript", "df/d9c/a13125.html#a76d395449ed9fb26914aa9ff0488f1be", null ],
-    [ "Register", "df/d9c/a13125.html#a7d094ce258e3dc28cc30d5fb644d5a1e", null ],
-    [ "Validate", "df/d9c/a13125.html#a24447c4367d8e8713ba7d05ea53681ee", null ]
+    [ "boss_garr", "df/d9c/a13125.html#a12ac023b48fc20055cec9e7e8dbfa8a7", null ],
+    [ "JustEngagedWith", "df/d9c/a13125.html#abab82d2e00b373ea1f0e444de23f4987", null ],
+    [ "Reset", "df/d9c/a13125.html#a64bcae059cfa97def7e52a42d404a016", null ],
+    [ "UpdateAI", "df/d9c/a13125.html#a2a412224072b47de6780ea7b8d543743", null ],
+    [ "massEruptionTimer", "df/d9c/a13125.html#a6c428a4c92e4dcbe2fc2b97b5f377560", null ]
 ];

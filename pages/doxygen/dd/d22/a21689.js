@@ -1,10 +1,7 @@
 var a21689 =
 [
-    [ "npc_lurgglbrAI", "dd/d22/a21689.html#a9239b85c65f9b405335d432f355637d5", null ],
-    [ "Reset", "dd/d22/a21689.html#a13b8bd8e7d85c93b0ee88c6e9f6d09ca", null ],
-    [ "UpdateAI", "dd/d22/a21689.html#aee019df9abe7ca3bf36a6de2321bedec", null ],
-    [ "WaypointReached", "dd/d22/a21689.html#a09ac2f2f21eefedd0052f727546bafb5", null ],
-    [ "WaypointReached", "dd/d22/a21689.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "IntroPhase", "dd/d22/a21689.html#a57e2c42cccf91765365e0b046446637a", null ],
-    [ "IntroTimer", "dd/d22/a21689.html#ada9762806ae0132e37197e6fb1279866", null ]
+    [ "npc_azure_captain", "dd/d22/a21689.html#abbdba89267506b8dd1e93ea0e059979c", null ],
+    [ "Reset", "dd/d22/a21689.html#ae9b8cc434f2b5690f3abc55d557cbd54", null ],
+    [ "UpdateAI", "dd/d22/a21689.html#a9aacf1533414ade27973ddcc46434978", null ],
+    [ "_events", "dd/d22/a21689.html#a6a69ea3d3eb75601f723a10eab68c260", null ]
 ];

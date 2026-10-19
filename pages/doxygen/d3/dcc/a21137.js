@@ -1,8 +1,9 @@
 var a21137 =
 [
-    [ "FilterTargets", "d3/dcc/a21137.html#a3d92ca79a15efaff3c4dd28f0c7ede2c", null ],
-    [ "HandleDummyEffect", "d3/dcc/a21137.html#afbf3aab6724d12426ab0197fb9459562", null ],
-    [ "PrepareSpellScript", "d3/dcc/a21137.html#a7ec441904bc100c6b15ee219617489ff", null ],
-    [ "Register", "d3/dcc/a21137.html#a2796cc02d7c029f3f99264162a19e1d2", null ],
-    [ "Validate", "d3/dcc/a21137.html#a85388adbc15d449e687f9f463cce3833", null ]
+    [ "boss_yoggsaron_keeper", "d3/dcc/a21137.html#ad2098933656371b1bf80ec3ea859c418", null ],
+    [ "Activate", "d3/dcc/a21137.html#a54edd78e856dbf519a0e2d76ae781ab8", null ],
+    [ "DoAction", "d3/dcc/a21137.html#a9e3d251810b55072458003356213ae15", null ],
+    [ "JustSummoned", "d3/dcc/a21137.html#a272a77cb6f147f38825cd68d54f56a9a", null ],
+    [ "UpdateAI", "d3/dcc/a21137.html#afe9c18d91443f2ba3b2fd2a2fdd7dca5", null ],
+    [ "_summons", "d3/dcc/a21137.html#aa840eff5f3d8b24225046113737936b4", null ]
 ];

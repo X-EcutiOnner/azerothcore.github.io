@@ -1,12 +1,10 @@
 var a20893 =
 [
-    [ "boss_thorim_sif", "d2/d5a/a20893.html#a9762a5d386897bcd6d42b3c36d9fc18f", null ],
-    [ "AttackStart", "d2/d5a/a20893.html#a3da2809c4e7aa0c051647be354ade759", null ],
-    [ "DoAction", "d2/d5a/a20893.html#a61fec6c7b91d5f34339ebabd18b94e5d", null ],
-    [ "IsSummonedBy", "d2/d5a/a20893.html#a126b546655d4438bf25d0870f5c550b8", null ],
-    [ "MoveInLineOfSight", "d2/d5a/a20893.html#a5c1dfc697a84d4eb3ea6074514034343", null ],
-    [ "Reset", "d2/d5a/a20893.html#a3f747b6da8db72fd61c50a24096834c2", null ],
-    [ "UpdateAI", "d2/d5a/a20893.html#adbe7effa0bab5046f26f8d7df0f82a04", null ],
-    [ "_allowCast", "d2/d5a/a20893.html#a6081345415b9ae3892d4f150a195908c", null ],
-    [ "events", "d2/d5a/a20893.html#a5d64d273a6aefdd9359b71963271b4ee", null ]
+    [ "npc_razorscale_dark_rune_sentinel", "d2/d5a/a20893.html#ab05b135a3c4cc45c132b3bb38127494c", null ],
+    [ "CanAIAttack", "d2/d5a/a20893.html#a99f74f401c846f56f6adf70a755e5a84", null ],
+    [ "JustEngagedWith", "d2/d5a/a20893.html#afdba7ecd994d92484a75444387bffaee", null ],
+    [ "Reset", "d2/d5a/a20893.html#ad83e4b28dc7562a627f9d1330c3bb2fc", null ],
+    [ "UpdateAI", "d2/d5a/a20893.html#a621e7a4804a74ce74717a9b0212ab8a3", null ],
+    [ "_events", "d2/d5a/a20893.html#a5dc9139c7d2897b6f1a9e9d86a5f663a", null ],
+    [ "_instance", "d2/d5a/a20893.html#a83f67be54dde276f3ed5efd867450756", null ]
 ];

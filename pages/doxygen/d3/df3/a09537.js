@@ -1,9 +1,6 @@
 var a09537 =
 [
-    [ "CellArea", "d3/df3/a09537.html#ace8ca84753b4ec8681415386fb135053", null ],
-    [ "CellArea", "d3/df3/a09537.html#a547aa2c544abb8de2c6defdd6ec77fa3", null ],
-    [ "operator!", "d3/df3/a09537.html#a386d4a562c27155012daedc361541e3b", null ],
-    [ "ResizeBorders", "d3/df3/a09537.html#aebb8a0eb3210fa09d647d89ce8a0c7b8", null ],
-    [ "high_bound", "d3/df3/a09537.html#a0c90f0474902deaafc4a64faaf6e8071", null ],
-    [ "low_bound", "d3/df3/a09537.html#a374fe9802c798e6ece359a8025b6e1df", null ]
+    [ "lang_id", "d3/df3/a09537.html#a1fa900a467834103ac595a8a96dd28c0", null ],
+    [ "skill_id", "d3/df3/a09537.html#a37ffc91876a998fe354ca1b7dffc512a", null ],
+    [ "spell_id", "d3/df3/a09537.html#ac0acb5dfb8af32b382b3b51db4daa0f0", null ]
 ];

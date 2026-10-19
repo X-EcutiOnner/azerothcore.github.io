@@ -1,6 +1,9 @@
 var a20825 =
 [
-    [ "npc_razorscale_spawner", "d9/d36/a20825.html#afbc71f46d2ac919dae274c7581357d34", null ],
-    [ "Reset", "d9/d36/a20825.html#afdfee27c6933d00f3e8d8fb1d8381e19", null ],
-    [ "UpdateAI", "d9/d36/a20825.html#a0de302ea1ace44cc2f065cae130166cb", null ]
+    [ "npc_ulduar_emergency_fire_bot", "d9/d36/a20825.html#ae6e7e18bae098db633de891ab52ca0d3", null ],
+    [ "AttackStart", "d9/d36/a20825.html#ab319353cab89d6f1bcb9be7f8e273600", null ],
+    [ "MoveInLineOfSight", "d9/d36/a20825.html#a1d217847b4aa4d199bc7060820b2d0fb", null ],
+    [ "MovementInform", "d9/d36/a20825.html#a6f7306e3da54511ddbef772044f76950", null ],
+    [ "UpdateAI", "d9/d36/a20825.html#a653df31873aca5acb86020cc1e14f4a0", null ],
+    [ "_events", "d9/d36/a20825.html#a99f051bd7a1136375103005f0615c4f2", null ]
 ];

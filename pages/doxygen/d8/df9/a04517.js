@@ -1,15 +1,9 @@
 var a04517 =
 [
-    [ "SpellProcDBCValidationTest", "d2/dc4/a30151.html", "d2/dc4/a30151" ],
-    [ "SpellProcDBCValidationParamTest", "d2/dae/a30155.html", null ],
-    [ "INSTANTIATE_TEST_SUITE_P", "d8/df9/a04517.html#ac236754bdabd912728a4ccf0d50768c1", null ],
-    [ "TEST_F", "d8/df9/a04517.html#a5d68edc629baf508a75ad0306d5a9123", null ],
-    [ "TEST_F", "d8/df9/a04517.html#aae6111f031cb367b403d6c1fae593245", null ],
-    [ "TEST_F", "d8/df9/a04517.html#a4dd4a9f2ad7b9f9c90f178e412d6853a", null ],
-    [ "TEST_F", "d8/df9/a04517.html#a3140cdc3c6be8230853a19725adce0df", null ],
-    [ "TEST_F", "d8/df9/a04517.html#a16d0dc4448f95f4d571e474baa22b657", null ],
-    [ "TEST_F", "d8/df9/a04517.html#a14eea23ad6fde730eac3ff84fdffc8ad", null ],
-    [ "TEST_F", "d8/df9/a04517.html#a67fce2ede01fc117b24ed6c0015ee5d5", null ],
-    [ "TEST_F", "d8/df9/a04517.html#a918f689a14967e97deeb88c36f959a81", null ],
-    [ "TEST_P", "d8/df9/a04517.html#a9c2b63e811e5bae6092ac12f33e514b8", null ]
+    [ "PeriodicAbsorbStealthProcTest", "d9/d42/a30113.html", "d9/d42/a30113" ],
+    [ "TEST_F", "d8/df9/a04517.html#a7b28cb80729f223f6772fd88f7441c0b", null ],
+    [ "TEST_F", "d8/df9/a04517.html#af38e03c4149e38394abfe3d5406f75f1", null ],
+    [ "TEST_F", "d8/df9/a04517.html#afd68d87fc4d1d7cc374fc6b9ff683a15", null ],
+    [ "TEST_F", "d8/df9/a04517.html#a92938638e5fd7cecefeef4d8793fc666", null ],
+    [ "TEST_F", "d8/df9/a04517.html#a21b7dc27da143cb66ebe44eb44b932cc", null ]
 ];

@@ -1,7 +1,7 @@
 var a19317 =
 [
-    [ "HandleDummyLaunch", "dc/dea/a19317.html#a4991dab04ed9cb8cfd846588a8ef01bf", null ],
-    [ "PrepareSpellScript", "dc/dea/a19317.html#a8926bc8e228eaaa4a7d554643b50e48d", null ],
-    [ "Register", "dc/dea/a19317.html#add5dc6c0a3b618fba3d3a73b6c76235b", null ],
-    [ "Validate", "dc/dea/a19317.html#a577166695c1479e3730a70637bc18cf1", null ]
+    [ "HandleScript", "dc/dea/a19317.html#a87a2b32a9a20f032157df5ddb2cd9979", null ],
+    [ "PrepareSpellScript", "dc/dea/a19317.html#a9aca3a2a981a0cb61569200d77ca527a", null ],
+    [ "Register", "dc/dea/a19317.html#afb0289c9906d0383a22dfd0e848573f8", null ],
+    [ "Validate", "dc/dea/a19317.html#a69344370af56f033e1c1ba16f4dee174", null ]
 ];

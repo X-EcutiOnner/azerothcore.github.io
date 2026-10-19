@@ -1,7 +1,8 @@
 var a16713 =
 [
-    [ "OnApply", "d2/dca/a16713.html#ad072d243dd148e1b34aea29a2e5d175e", null ],
-    [ "PrepareAuraScript", "d2/dca/a16713.html#ae657ceca517aa3f725ba72c18ddbaf1c", null ],
-    [ "Register", "d2/dca/a16713.html#a4eab0bd70eb884f7736e90f9001d3cc7", null ],
-    [ "Validate", "d2/dca/a16713.html#a2c9e4d82bd25f439e01a05700563b122", null ]
+    [ "OnApply", "d2/dca/a16713.html#a96321003a002be0e4838901f03f8a5d8", null ],
+    [ "OnRemove", "d2/dca/a16713.html#af616afe7bf87eb7fdb44bf15e9ad85d4", null ],
+    [ "PrepareAuraScript", "d2/dca/a16713.html#ae5c880210cb50cf5320ee3595791eaa8", null ],
+    [ "Register", "d2/dca/a16713.html#aaa2a16cff2e9aae77cdc1bb75c38f26a", null ],
+    [ "Validate", "d2/dca/a16713.html#ad09a31813a7a03f8abf6dc9c151bb002", null ]
 ];

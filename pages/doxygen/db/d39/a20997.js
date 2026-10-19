@@ -1,6 +1,5 @@
 var a20997 =
 [
-    [ "HandleScript", "db/d39/a20997.html#a8ebd18095bd826d4bf843961e4e8dc81", null ],
-    [ "PrepareSpellScript", "db/d39/a20997.html#a4fd05478a145157dbd8377532033ab95", null ],
-    [ "Register", "db/d39/a20997.html#a9b30f89493d5b8c8d1097dde5d017a93", null ]
+    [ "achievement_thorim_stand_in_the_lightning", "db/d39/a20997.html#a9339e89e4eb76151fdeacb6bcd53d7bc", null ],
+    [ "OnCheck", "db/d39/a20997.html#ade1aec4de4c503be5a62da3e6c35e90f", null ]
 ];

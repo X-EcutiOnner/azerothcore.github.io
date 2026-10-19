@@ -1,9 +1,5 @@
 var a14601 =
 [
-    [ "boss_hazzarah", "da/df6/a14601.html#a73ba49b91addc9c03e1692587fe66a52", null ],
-    [ "CanAIAttack", "da/df6/a14601.html#a9038a5b4276fda8a6865217a7c494eec", null ],
-    [ "JustEngagedWith", "da/df6/a14601.html#a18e382c03ff923bb851a9cd8e2541788", null ],
-    [ "JustSummoned", "da/df6/a14601.html#a1c3969fbc027f054598ec4123abd6fa4", null ],
-    [ "SummonedCreatureDies", "da/df6/a14601.html#aac0c990013edf1968d33aeb59d4f05b0", null ],
-    [ "UpdateAI", "da/df6/a14601.html#a61d92f1650a84ed9684d33879e54bd09", null ]
+    [ "at_zulgurub_entrance_speech", "da/df6/a14601.html#afef11c6a7e97befd07072826fa13be55", null ],
+    [ "_OnTrigger", "da/df6/a14601.html#a7f719eab3ca9fa7d5e7a26f721dc9f50", null ]
 ];

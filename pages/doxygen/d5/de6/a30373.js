@@ -1,16 +1,20 @@
 var a30373 =
 [
-    [ "TileBuilder", "d5/de6/a30373.html#a11941bfac809a75cc1b523fe0ce25c55", null ],
-    [ "TileBuilder", "d5/de6/a30373.html#ac7ed1b1c9fdff7fc933fa6029fa9ff9d", null ],
-    [ "~TileBuilder", "d5/de6/a30373.html#a7fabcd86a5679f19ad69e9c69f1d5885", null ],
-    [ "buildMoveMapTile", "d5/de6/a30373.html#add45abc9c1f79f95dae9d7616b100dc0", null ],
-    [ "buildTile", "d5/de6/a30373.html#ab7eca8778fd61ecbfe5f07bba0b38857", null ],
-    [ "shouldSkipTile", "d5/de6/a30373.html#a77ecbab0c34dfe69c414304768b20ea3", null ],
-    [ "WaitCompletion", "d5/de6/a30373.html#ae386f742fed7d2b66bcf3750abf91daf", null ],
-    [ "WorkerThread", "d5/de6/a30373.html#a4c0497cde74883557ec841233376f95c", null ],
-    [ "m_debugOutput", "d5/de6/a30373.html#a4c881a6e6ec66b315f72f84da5c534c2", null ],
-    [ "m_mapBuilder", "d5/de6/a30373.html#aa83fbc484835a6d1a4c7bf6201b46639", null ],
-    [ "m_rcContext", "d5/de6/a30373.html#a160c3ad76146488175c6ae228ad4ef83", null ],
-    [ "m_terrainBuilder", "d5/de6/a30373.html#ade1605fb1b68693516c9fb27f94b278d", null ],
-    [ "m_workerThread", "d5/de6/a30373.html#a4e03cb818b108400737e3a54df24945d", null ]
+    [ "FileLoader", "d5/de6/a30373.html#a51313b536560d1d89d8350475d2bc749", null ],
+    [ "~FileLoader", "d5/de6/a30373.html#a0954776182dd01364bdb216539ce398b", null ],
+    [ "FileLoader", "d5/de6/a30373.html#a51313b536560d1d89d8350475d2bc749", null ],
+    [ "~FileLoader", "d5/de6/a30373.html#a0954776182dd01364bdb216539ce398b", null ],
+    [ "free", "d5/de6/a30373.html#a738aeb2ebe751c9fc75013dbce30dcc4", null ],
+    [ "free", "d5/de6/a30373.html#aef98564821c8e63b6d484179cda0b380", null ],
+    [ "GetData", "d5/de6/a30373.html#aed85cdbd6a4e52096292c6ed8578f7bd", null ],
+    [ "GetData", "d5/de6/a30373.html#aed85cdbd6a4e52096292c6ed8578f7bd", null ],
+    [ "GetDataSize", "d5/de6/a30373.html#a2a07adb0692a51af06ccd31d449ae444", null ],
+    [ "GetDataSize", "d5/de6/a30373.html#a2a07adb0692a51af06ccd31d449ae444", null ],
+    [ "loadFile", "d5/de6/a30373.html#a11908109042f93ddde393e7a874683c9", null ],
+    [ "loadFile", "d5/de6/a30373.html#a11908109042f93ddde393e7a874683c9", null ],
+    [ "prepareLoadedData", "d5/de6/a30373.html#ab66347098d7c9ac470339c232f9b7588", null ],
+    [ "prepareLoadedData", "d5/de6/a30373.html#a498a33d80768843b4ab1ff2d5ffe68d9", null ],
+    [ "data", "d5/de6/a30373.html#aff1880ac2038f17f4d1f63bc9f7d9afd", null ],
+    [ "data_size", "d5/de6/a30373.html#a355891fc980538e74080b9b83a95dec8", null ],
+    [ "version", "d5/de6/a30373.html#a41cedec185e5909d83c8a185d1476dee", null ]
 ];

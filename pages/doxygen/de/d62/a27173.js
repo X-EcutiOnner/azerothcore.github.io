@@ -1,6 +1,6 @@
 var a27173 =
 [
-    [ "HandleScriptEffect", "de/d62/a27173.html#acef8bf4c93226e1b4c95f8b8cdd80f40", null ],
-    [ "PrepareSpellScript", "de/d62/a27173.html#a0223c05b5832c64b248e82eba770f7fa", null ],
-    [ "Register", "de/d62/a27173.html#aef93e3c5a60633f69871bbd49d40caf5", null ]
+    [ "HandleDummyEffect", "de/d62/a27173.html#a6340c91d8419755386cb3e138cb3c171", null ],
+    [ "PrepareSpellScript", "de/d62/a27173.html#a67d08252c8b8deee312f17affb557df8", null ],
+    [ "Register", "de/d62/a27173.html#a262bb06ac1d6a55e886d1226ad7bb583", null ]
 ];

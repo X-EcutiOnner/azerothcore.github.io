@@ -1,6 +1,7 @@
 var a28737 =
 [
-    [ "npc_spring_rabbitAI", "d2/d70/a28741.html", "d2/d70/a28741" ],
-    [ "npc_spring_rabbit", "d5/d50/a28737.html#a4e2ed1f556edd535a8d262d7e0bdfa1a", null ],
-    [ "GetAI", "d5/d50/a28737.html#a968933658fbcc7f7cbdfca90fd9a68dc", null ]
+    [ "npc_guardianAI", "d5/d50/a28737.html#acc5d29a79e57fc023369c0dcd4b0d2a3", null ],
+    [ "JustEngagedWith", "d5/d50/a28737.html#a50257f80245bc59437e53083badcb056", null ],
+    [ "Reset", "d5/d50/a28737.html#a217df9bae079f56ffd70d27958fb2756", null ],
+    [ "UpdateAI", "d5/d50/a28737.html#ab42c39f088ef819a5ffb5f9f4ba2c3a3", null ]
 ];

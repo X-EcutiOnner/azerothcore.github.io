@@ -1,6 +1,5 @@
 var a14925 =
 [
-    [ "gameobjectId", "d3/db0/a14925.html#a5cebf652fccc66cb5f98968036405d14", null ],
-    [ "spawnIndex", "d3/db0/a14925.html#a5e8b95d6ecf69db8736941b67e2478d8", null ],
-    [ "timestamp", "d3/db0/a14925.html#a0c49f62b35e906637890fee896c74951", null ]
+    [ "at_bring_your_orphan_to", "d3/db0/a14925.html#a160aae23dd3423dbc1afc8e3f8dbec7c", null ],
+    [ "OnTrigger", "d3/db0/a14925.html#af5cb73f6ba0657eff8809711a5dba84c", null ]
 ];

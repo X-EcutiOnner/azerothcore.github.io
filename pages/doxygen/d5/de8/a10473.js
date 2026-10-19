@@ -1,15 +1,14 @@
 var a10473 =
 [
-    [ "EscortMovementGenerator", "d5/de8/a10473.html#a91a6caae81e7715fdcf4c7134f88bc0b", null ],
-    [ "DoFinalize", "d5/de8/a10473.html#a4c191a86f5ecc30ae5b34d7578d58d3e", null ],
-    [ "DoInitialize", "d5/de8/a10473.html#ad068798c6e186c1eb1a79f3872955e97", null ],
-    [ "DoReset", "d5/de8/a10473.html#ac4934d70ab62e08488cfc29c13355a7f", null ],
-    [ "DoUpdate", "d5/de8/a10473.html#a524bb8f72836dc5d1b63e429436b3a77", null ],
-    [ "GetMovementGeneratorType", "d5/de8/a10473.html#a0733162a5a0cab2593150f288edeb27b", null ],
-    [ "GetSplineId", "d5/de8/a10473.html#a61d74b098d1ae692ce305fa493aaa6d2", null ],
-    [ "unitSpeedChanged", "d5/de8/a10473.html#a235e330c4c3368af00d37028915684ff", null ],
-    [ "_forcedMovement", "d5/de8/a10473.html#a44019e4185abeb123a163a20c8f47d18", null ],
-    [ "_splineId", "d5/de8/a10473.html#af6286fa4ed6afcc8a6c5f03575c774e6", null ],
-    [ "i_recalculateSpeed", "d5/de8/a10473.html#a9f7048c5e49cc09f809496312a0c6550", null ],
-    [ "m_precomputedPath", "d5/de8/a10473.html#a46eb2812a1b2a56e584b925cae2169eb", null ]
+    [ "~MovementGenerator", "d5/de8/a10473.html#a13c3c432ac2a91dd4d07b090ec06b903", null ],
+    [ "Finalize", "d5/de8/a10473.html#aef4cf800aa06dddac4efd36e3c058d2b", null ],
+    [ "GetMovementGeneratorType", "d5/de8/a10473.html#a60bac341b438ea7258986f234a952324", null ],
+    [ "GetResetPosition", "d5/de8/a10473.html#a60ac9e99f41d1f5c320441cf78b4b46a", null ],
+    [ "GetSplineId", "d5/de8/a10473.html#a99865a1b7cf84b02784bfa8df958585f", null ],
+    [ "Initialize", "d5/de8/a10473.html#a0040e427ac4a09273641a96a13fd4c1f", null ],
+    [ "Pause", "d5/de8/a10473.html#a37530e5cd743faecabd21eba08dce939", null ],
+    [ "Reset", "d5/de8/a10473.html#aa6641fa1182551421fc8572afad8e083", null ],
+    [ "Resume", "d5/de8/a10473.html#a51988a8b0a45459242467e38ca46303c", null ],
+    [ "unitSpeedChanged", "d5/de8/a10473.html#a0f9c4fd52947688dcda1161924e829bb", null ],
+    [ "Update", "d5/de8/a10473.html#ae3014d8c6e728799c86134ef64737ed5", null ]
 ];

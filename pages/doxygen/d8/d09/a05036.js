@@ -1,5 +1,8 @@
 var a05036 =
 [
-    [ "DataMap", "d4/d27/a05855.html", "d4/d27/a05855" ],
-    [ "DataMap::Base", "d7/d4b/a05859.html", "d7/d4b/a05859" ]
+    [ "TaskScheduler", "d2/d52/a05961.html", "d2/d52/a05961" ],
+    [ "TaskScheduler::Task", "d3/daf/a05965.html", "d3/daf/a05965" ],
+    [ "TaskScheduler::Compare", "d5/d57/a05969.html", "d5/d57/a05969" ],
+    [ "TaskScheduler::TaskQueue", "d2/d3c/a05973.html", "d2/d3c/a05973" ],
+    [ "TaskContext", "d9/d20/a05977.html", "d9/d20/a05977" ]
 ];

@@ -1,7 +1,7 @@
 var a28709 =
 [
-    [ "npc_wormholeAI", "de/da1/a28709.html#a75c28ce9bcbb5ef6fb4213d000d5596a", null ],
-    [ "GetData", "de/da1/a28709.html#ad4c9f2265f126c7f2b5538bab6b75cb3", null ],
-    [ "InitializeAI", "de/da1/a28709.html#aa0a903014ec7243036604ffcc67e0a36", null ],
-    [ "_showUnderground", "de/da1/a28709.html#a6a2fbf623b8fc55cfd48a12e2c515134", null ]
+    [ "npc_doctorAI", "da/db0/a28713.html", "da/db0/a28713" ],
+    [ "npc_doctor", "de/da1/a28709.html#a8471bcd3e83b1a7a69de7bde00846698", null ],
+    [ "GetAI", "de/da1/a28709.html#a3da4d53b2402ad7338eeb6ea463a62f6", null ],
+    [ "OnQuestAccept", "de/da1/a28709.html#a990668aee39a9fa6ec90d0f6095ce48a", null ]
 ];

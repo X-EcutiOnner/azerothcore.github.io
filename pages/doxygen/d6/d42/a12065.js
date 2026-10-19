@@ -1,4 +1,4 @@
 var a12065 =
 [
-    [ "spellid", "d6/d42/a12065.html#a14f5dd3b53f06437074965e9b7753e89", null ]
+    [ "cone_degrees", "d6/d42/a12065.html#a7de6ce8a79e37a3097d6eaa5e1bf2210", null ]
 ];

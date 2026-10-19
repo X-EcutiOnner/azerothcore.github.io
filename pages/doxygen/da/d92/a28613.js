@@ -1,12 +1,11 @@
 var a28613 =
 [
-    [ "npc_elder_clearwaterAI", "da/d92/a28613.html#a4de89cf4a18918d577be4ac5cc55ba5a", null ],
-    [ "DoAction", "da/d92/a28613.html#ac46b0f66be3074f73f5a69cffee6d354", null ],
-    [ "GetData", "da/d92/a28613.html#a077c02bf06b16439225a5cf8d83babf2", null ],
-    [ "UpdateAI", "da/d92/a28613.html#afbec3c78d34ce4d11a11b56064f343f3", null ],
-    [ "events", "da/d92/a28613.html#a267fec22dc3d7272cae74267d0567618", null ],
-    [ "finished", "da/d92/a28613.html#af51d6abb8fc8b59d068156a4859a377e", null ],
-    [ "finishWarning", "da/d92/a28613.html#a83a2b8e6ceed45d4e6b834e13a4a4cdc", null ],
-    [ "preWarning", "da/d92/a28613.html#a64abe15565c7e97a3a0ef195d436fedc", null ],
-    [ "startWarning", "da/d92/a28613.html#a01545211dec4338ac44304ebc7f18a97", null ]
+    [ "npc_artoriusAI", "da/d92/a28613.html#a71056d1f537671a9f790ebbc1c2baf9c", null ],
+    [ "DamageTaken", "da/d92/a28613.html#acaa6f32e1cfba98ec4dd06245a41d321", null ],
+    [ "DoAction", "da/d92/a28613.html#abbfc9ee752d97f1694dbd739719843c2", null ],
+    [ "JustEngagedWith", "da/d92/a28613.html#ab5760ad8dc87f7ccbea615ff2eb809c8", null ],
+    [ "Reset", "da/d92/a28613.html#a862cc52a9251e2dfe486f1152dae9500", null ],
+    [ "SpellHit", "da/d92/a28613.html#ac6ce7235c4399a5a8f2e771f5cd652ba", null ],
+    [ "UpdateAI", "da/d92/a28613.html#afdd2821ce916b65ed33fe7ab75ef56a5", null ],
+    [ "events", "da/d92/a28613.html#a6c8adf35504caf0cfea9a353833d4c4e", null ]
 ];

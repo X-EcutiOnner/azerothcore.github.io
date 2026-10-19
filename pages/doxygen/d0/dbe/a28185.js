@@ -1,5 +1,6 @@
 var a28185 =
 [
-    [ "AreaTrigger_at_coilfang_waterfall", "d0/dbe/a28185.html#aa2e9a01adad7e195860bbc6c55131024", null ],
-    [ "OnTrigger", "d0/dbe/a28185.html#aea1c4b45ae855d0cda81dbad102b8104", null ]
+    [ "achievement_arena_by_type", "d0/dbe/a28185.html#a2042c808304e8ddf1849820491b9f1a3", null ],
+    [ "OnCheck", "d0/dbe/a28185.html#abebdbf19fbf1b79c30114a9cf4ff98a4", null ],
+    [ "_arenaType", "d0/dbe/a28185.html#a5c38e5fef5eaf3d037864ba2aa80584a", null ]
 ];

@@ -1,5 +1,5 @@
 var a28197 =
 [
-    [ "AreaTrigger_at_scent_larkorwi", "d1/d19/a28197.html#a967a43eae4cc986754eed9ee8291c17e", null ],
-    [ "OnTrigger", "d1/d19/a28197.html#aeeb339afa5a7dd4b028aea800026998e", null ]
+    [ "achievement_bg_av_perfection", "d1/d19/a28197.html#a8a0ef996bdb1244026268922b301184c", null ],
+    [ "OnCheck", "d1/d19/a28197.html#a17e700c17b5144b571f2aeed92a77749", null ]
 ];

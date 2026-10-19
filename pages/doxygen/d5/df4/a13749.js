@@ -1,6 +1,5 @@
 var a13749 =
 [
-    [ "HandleActivateObject", "d5/df4/a13749.html#aedcb4513b7c53b9a9e972b9051da0e0f", null ],
-    [ "PrepareSpellScript", "d5/df4/a13749.html#afc844250ea7ba48330edfda305fa856c", null ],
-    [ "Register", "d5/df4/a13749.html#a6d77f6848397724e61c1db7a80de7139", null ]
+    [ "go_enchanted_scarlet_thread", "d5/df4/a13749.html#a2bc933979fdbdd2dc740b93f50f0524b", null ],
+    [ "OnLootStateChanged", "d5/df4/a13749.html#ae8de64f6568f91adf42e562233f69790", null ]
 ];

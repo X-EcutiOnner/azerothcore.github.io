@@ -1,6 +1,13 @@
 var a20341 =
 [
-    [ "npc_salvaged_chopper", "de/d98/a20341.html#ad2d875ba3e7de8e44213cd8fdf383df0", null ],
-    [ "PassengerBoarded", "de/d98/a20341.html#a12e63e4a2ce543293a398bfe3e9635ad", null ],
-    [ "SwapActionButton", "de/d98/a20341.html#afe67864f4315ad1fa876572c840cc190", null ]
+    [ "boss_flame_leviathan_defense_turret", "de/d98/a20341.html#a47ccbb6d0b4429763606b5a1e5719e79", null ],
+    [ "CanAIAttack", "de/d98/a20341.html#a17020dc7facabb0cacac3209277a73f7", null ],
+    [ "DamageTaken", "de/d98/a20341.html#ac15aadce1954d827b7e833ed761faf10", null ],
+    [ "EnterEvadeMode", "de/d98/a20341.html#aeb9fe92f81b3734512106aa73c983a35", null ],
+    [ "JustDied", "de/d98/a20341.html#a6865c79397cb1c6efcba9952c9a9b61f", null ],
+    [ "JustEnteredCombat", "de/d98/a20341.html#a3e31c489f5bb4928cb9a3bc996940cd1", null ],
+    [ "KilledUnit", "de/d98/a20341.html#ae5e411c86e88c4da2a74c7281a7c7e6b", null ],
+    [ "UpdateAI", "de/d98/a20341.html#a9d6e48e613a65f7a3bec76ce6ea73574", null ],
+    [ "_instance", "de/d98/a20341.html#a5f4fe282b2a9e1ba1f8dacd38572c94f", null ],
+    [ "_setHealth", "de/d98/a20341.html#a413187aa01c119d088846a216f093baa", null ]
 ];

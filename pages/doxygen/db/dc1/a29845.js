@@ -1,12 +1,19 @@
 var a29845 =
 [
-    [ "SetUp", "db/dc1/a29845.html#a15e54f4d79771affa21c8728d4a70a35", null ],
-    [ "TearDown", "db/dc1/a29845.html#a86941b0a70e73299beb5d68fd9d8d68b", null ],
-    [ "PERM_BAN", "db/dc1/a29845.html#a309db6b83865b1f8afc92983ed4991fc", null ],
-    [ "PERM_KICK", "db/dc1/a29845.html#ab224c843e5dac2fe11f8165ed37c325a", null ],
-    [ "PERM_SHUTDOWN", "db/dc1/a29845.html#a385552a15b063d426557e5f87f6ba6b6", null ],
-    [ "PERM_TELEPORT", "db/dc1/a29845.html#a61c556021598bc970927b3abe49cd68d", null ],
-    [ "rbacData", "db/dc1/a29845.html#aa0772fd125f832a546a4a39305ec77c4", null ],
-    [ "ROLE_ADMIN", "db/dc1/a29845.html#abfcb781ea0fdaf44b5e9d688c3b52abc", null ],
-    [ "ROLE_GM", "db/dc1/a29845.html#a158724ae6a0c8c2f262f8de6b0e9b4dc", null ]
+    [ "SpellProcEntryBuilder", "db/dc1/a29845.html#ad5df1abe27dde6d70c030bd19ed5c928", null ],
+    [ "Build", "db/dc1/a29845.html#a2a69603215e9fa526304f420bd5a490c", null ],
+    [ "WithAttributesMask", "db/dc1/a29845.html#ab9585e517adc231979ca5b817a2f2142", null ],
+    [ "WithChance", "db/dc1/a29845.html#a3c99a07866eb497717932af6b7f3a485", null ],
+    [ "WithCharges", "db/dc1/a29845.html#a6b8ecf0c38751be02b7003a7547d550f", null ],
+    [ "WithCooldown", "db/dc1/a29845.html#acd3a4b7ab057b5f36dd407acc11a4da4", null ],
+    [ "WithDisableEffectsMask", "db/dc1/a29845.html#ad414f75756b0fd284c636568dd74e57c", null ],
+    [ "WithHitMask", "db/dc1/a29845.html#a1cdd7bec2aa80d5036d614ad0296a695", null ],
+    [ "WithProcFlags", "db/dc1/a29845.html#acebcb2a676a7e8e6821854137e056fff", null ],
+    [ "WithProcsPerMinute", "db/dc1/a29845.html#aa373ae9df6697d722e7f6084a70c8b7a", null ],
+    [ "WithSchoolMask", "db/dc1/a29845.html#a713d576e3a6daf3c6f96b662b5789f14", null ],
+    [ "WithSpellFamilyMask", "db/dc1/a29845.html#a57a1699a8238dd535a44908734e3c7fd", null ],
+    [ "WithSpellFamilyName", "db/dc1/a29845.html#abf221ae8a8ef5e995bbe9b3f01f004c1", null ],
+    [ "WithSpellPhaseMask", "db/dc1/a29845.html#ae7ddfcb398c2f5e52834bd74d25754dc", null ],
+    [ "WithSpellTypeMask", "db/dc1/a29845.html#aa0691e03294c5317fdd173d4dd70edc1", null ],
+    [ "_entry", "db/dc1/a29845.html#a42632c6cb19221bbca3441f46e1f1b3c", null ]
 ];

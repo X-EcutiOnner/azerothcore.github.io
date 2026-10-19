@@ -1,14 +1,6 @@
 var a13265 =
 [
-    [ "boss_midnight", "db/d62/a13265.html#aacf45b21a30d671d5e9720a30336f72c", null ],
-    [ "CanMeleeHit", "db/d62/a13265.html#ad46a3726f398e5db56612d78d33fb13f", null ],
-    [ "DamageTaken", "db/d62/a13265.html#a47be6bc98217cf32a54dc522b7983bdb", null ],
-    [ "DoAction", "db/d62/a13265.html#a6831149d56f432aa3116d4172ef95a18", null ],
-    [ "EnterEvadeMode", "db/d62/a13265.html#a7ef9e935ac932f5a9e4fd435b8180783", null ],
-    [ "JustEngagedWith", "db/d62/a13265.html#afbb95384e6c747e73c87c5a5eb40843e", null ],
-    [ "JustSummoned", "db/d62/a13265.html#a2644deaf0a2970835b0cd508565e7279", null ],
-    [ "KilledUnit", "db/d62/a13265.html#a14dcbec9dc43cc12a124b6f140e0e8e6", null ],
-    [ "Reset", "db/d62/a13265.html#a4f9cb414779705c179bc5447975b35e9", null ],
-    [ "UpdateAI", "db/d62/a13265.html#a17c86571df6263fe1cc3657ca596e3ae", null ],
-    [ "_phase", "db/d62/a13265.html#ae5f3f452f5141cecab1b99616eb2bf74", null ]
+    [ "HandleTriggerSpell", "db/d62/a13265.html#a5f30f2af73eae022b9596939b2f88c0b", null ],
+    [ "PrepareSpellScript", "db/d62/a13265.html#a4fa2709a456e9e75f5c11b7f2e04912b", null ],
+    [ "Register", "db/d62/a13265.html#a7e9c140aecea892ee6971bc97d385640", null ]
 ];

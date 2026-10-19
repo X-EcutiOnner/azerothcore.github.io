@@ -1,8 +1,6 @@
 var a11333 =
 [
-    [ "SetRaidDifficulty", "d8/dd1/a11333.html#af8d6189ed0209b4f70e32f92c00e13fb", null ],
-    [ "Write", "d8/dd1/a11333.html#a3da812593b22ef506a9d61e16b5485d1", null ],
-    [ "Difficulty", "d8/dd1/a11333.html#a1952e2d54b77437731b693f4eace83ac", null ],
-    [ "IsInGroup", "d8/dd1/a11333.html#a8833543c4f179be97476a26152ec049b", null ],
-    [ "Unk", "d8/dd1/a11333.html#a61a4f0fb74db04cdc11c0729bc104f7a", null ]
+    [ "PlayerSaveGuildEmblem", "d8/dd1/a11333.html#ae1269fb7583f0ce1703cd89d592b1485", null ],
+    [ "Write", "d8/dd1/a11333.html#a0427be2f46cba4ff6b2ca072924bca7b", null ],
+    [ "Error", "d8/dd1/a11333.html#a76930d3b74bf7b84a311b24b53d03b21", null ]
 ];

@@ -1,6 +1,7 @@
 var a16981 =
 [
-    [ "npc_toc_priestAI", "d4/dc9/a16985.html", "d4/dc9/a16985" ],
-    [ "npc_toc_priest", "d6/dea/a16981.html#a0e360a2cc053434d2f76826683da8eee", null ],
-    [ "GetAI", "d6/dea/a16981.html#a6056a81bef962a02537d525f07d1c302", null ]
+    [ "HandleEffectPeriodic", "d6/dea/a16981.html#a58336f6a693d91b4fcb151b7eb5c1201", null ],
+    [ "PrepareAuraScript", "d6/dea/a16981.html#a6dffb84e2c65f030e24a86e23f42c7e3", null ],
+    [ "Register", "d6/dea/a16981.html#ad3485b1ab83d4a49713dfd3335b672fd", null ],
+    [ "Validate", "d6/dea/a16981.html#a5f3c8e5ddcdcefc4e335e604416890d5", null ]
 ];

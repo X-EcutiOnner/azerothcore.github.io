@@ -1,6 +1,6 @@
 var a19637 =
 [
-    [ "HandleAfterHit", "d9/de3/a19637.html#a4f9ee2b8830fc812a78154f8b54a0a47", null ],
-    [ "PrepareSpellScript", "d9/de3/a19637.html#a75d2e4bc16170348893654d53c1bb6d7", null ],
-    [ "Register", "d9/de3/a19637.html#a5e33a371d519c2fdc8561f2ac8d9dd82", null ]
+    [ "FilterTargets", "d9/de3/a19637.html#a2df81e30554809a0d5b45d2f471bb71f", null ],
+    [ "PrepareSpellScript", "d9/de3/a19637.html#aa51d9c578b782fbe0e7e3cf13789b702", null ],
+    [ "Register", "d9/de3/a19637.html#a4c1eab348e54011f1a2f827fc251ca13", null ]
 ];

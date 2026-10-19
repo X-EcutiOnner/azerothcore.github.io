@@ -1,6 +1,6 @@
 var a21841 =
 [
-    [ "npc_dalaran_warriorAI", "d7/d16/a21845.html", "d7/d16/a21845" ],
-    [ "npc_dalaran_warrior", "d4/df2/a21841.html#a13d44b85173232ddedcc35184d50549c", null ],
-    [ "GetAI", "d4/df2/a21841.html#a1e84676d2a76bac728a1f23f5f9fc25e", null ]
+    [ "npc_steam_powered_auctioneerAI", "d7/d16/a21845.html", "d7/d16/a21845" ],
+    [ "npc_steam_powered_auctioneer", "d4/df2/a21841.html#ae8c918c639ce0c3ddc14b8cf7f0ef855", null ],
+    [ "GetAI", "d4/df2/a21841.html#a39a2f0c187078c759bc4a391e0a81068", null ]
 ];

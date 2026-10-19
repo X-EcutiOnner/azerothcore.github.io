@@ -1,5 +1,7 @@
 var a24341 =
 [
-    [ "creature", "db/db3/a24341.html#ab4b8f837dbfb42bcbb161f81f846aad9", null ],
-    [ "Timer", "db/db3/a24341.html#a2be497dc190c1f01f939e12083739882", null ]
+    [ "HandleScriptEffect", "db/db3/a24341.html#ad018d907a85ee31d3194823a4c02a1a5", null ],
+    [ "PrepareSpellScript", "db/db3/a24341.html#a50b6bc43eaeee0ec760c02ac1685454e", null ],
+    [ "Register", "db/db3/a24341.html#a2096673a3f57cc224aeb7d3ce84526cb", null ],
+    [ "Validate", "db/db3/a24341.html#a5209de3456c374010502a94f67ff4544", null ]
 ];

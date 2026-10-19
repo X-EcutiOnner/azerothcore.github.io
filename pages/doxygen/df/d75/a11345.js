@@ -1,6 +1,8 @@
 var a11345 =
 [
-    [ "InstanceLockResponse", "df/d75/a11345.html#a375d48ef2bc703f0223db82738016c6e", null ],
-    [ "Read", "df/d75/a11345.html#a954b3d4521bc48ba5ee9807cc935e484", null ],
-    [ "Accept", "df/d75/a11345.html#a23cd7f483abfaede6df7a51b083a4477", null ]
+    [ "SetDungeonDifficulty", "df/d75/a11345.html#a3adea4e58ba48bc438e11056cb49e5ab", null ],
+    [ "Write", "df/d75/a11345.html#a9e3eaebd002b3ed9599c9c2671f9b78e", null ],
+    [ "Difficulty", "df/d75/a11345.html#a5e216ba7ada0d073b5aebaaa3f221752", null ],
+    [ "IsInGroup", "df/d75/a11345.html#aff9bae997a9ff6dc64b7b60f736527d7", null ],
+    [ "Unk", "df/d75/a11345.html#aea436cf338c4bd6b0d2dbc11edda9e3e", null ]
 ];

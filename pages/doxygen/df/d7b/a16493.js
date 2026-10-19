@@ -1,7 +1,6 @@
 var a16493 =
 [
-    [ "HandleEffectRemove", "df/d7b/a16493.html#a45ed6d3f1c80dcef3ee6c59e744f13c6", null ],
-    [ "PrepareAuraScript", "df/d7b/a16493.html#a34b88963dd81e6a8855daaedb9c238d4", null ],
-    [ "Register", "df/d7b/a16493.html#a7c0533650e772713233ea45b0264cbff", null ],
-    [ "Validate", "df/d7b/a16493.html#a7690603bd7b01ca6da2a73ac8ed36114", null ]
+    [ "HandleApplyAura", "df/d7b/a16493.html#aeddfd61eab5aa077ca07a924ec491285", null ],
+    [ "PrepareSpellScript", "df/d7b/a16493.html#ad53341842455d98722c03318dd80fb94", null ],
+    [ "Register", "df/d7b/a16493.html#a10cb03ba6175f48b0ccaf69ec90e8f50", null ]
 ];

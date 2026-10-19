@@ -1,11 +1,5 @@
 var a17401 =
 [
-    [ "npc_ghostly_priest", "df/dde/a17401.html#a154f4a7f9cd3c4088eada04c44f66f2b", null ],
-    [ "AttackStart", "df/dde/a17401.html#acbc2eb708773500136deebb8542d36aa", null ],
-    [ "DoAction", "df/dde/a17401.html#a0687e1c766c89b8b90cb620a4a2bef6d", null ],
-    [ "EnterEvadeMode", "df/dde/a17401.html#ac944330e3834bd4c65e30c595752746c", null ],
-    [ "JustDied", "df/dde/a17401.html#ae7ef06904aa2039d3552a2a62b846042", null ],
-    [ "JustEngagedWith", "df/dde/a17401.html#ada930b20b8f3b07f2da7bfa44025ed32", null ],
-    [ "Reset", "df/dde/a17401.html#a3bb7596f2a15c76eeb8f2b79fab8ddf1", null ],
-    [ "UpdateAI", "df/dde/a17401.html#a3722469ea1445f7dbaf834853a9ed654", null ]
+    [ "npc_fos_leader_secondAI", "df/dde/a17401.html#a25df0b8760e9eb7d330779e10e3ac548", null ],
+    [ "MovementInform", "df/dde/a17401.html#a9cc0b500f1289dc8b764b3755468e639", null ]
 ];

@@ -1,9 +1,13 @@
 var a20817 =
 [
-    [ "npc_expedition_trapper", "de/d06/a20817.html#ac924a9b9e23624de1460b0cdfe8c8a1b", null ],
-    [ "DoAction", "de/d06/a20817.html#a094ecbf1a719223d50c7d070989aa782", null ],
-    [ "MovementInform", "de/d06/a20817.html#ae2a0c15b4a7d59f4222e818d0fcf303b", null ],
-    [ "SetData", "de/d06/a20817.html#a11241b1513209a9964569ab29eb5dc64", null ],
-    [ "UpdateAI", "de/d06/a20817.html#a16a39f855263ebde21ddb03d4fe60460", null ],
-    [ "_idx", "de/d06/a20817.html#ae24ec016a0f29f7bcb41935e1991f9fa", null ]
+    [ "npc_ulduar_flames_initial", "de/d06/a20817.html#ac0ba4a5631f580b23be30f6d19545a1f", null ],
+    [ "DoAction", "de/d06/a20817.html#ae0b262371dfc00ca168afc9e4d28b133", null ],
+    [ "GetMimironAI", "de/d06/a20817.html#a173f3b895907e518625b62c08831c1ef", null ],
+    [ "RemoveAll", "de/d06/a20817.html#a604fee1e371ffd6efe8f80c6db61318f", null ],
+    [ "RemoveFlame", "de/d06/a20817.html#ad676a542b40b554027fc2ab491fa083d", null ],
+    [ "SpreadFlame", "de/d06/a20817.html#af50c950610f5277a755d1786b596b9d7", null ],
+    [ "UpdateAI", "de/d06/a20817.html#a34c1ffd2bc07c2a736a7d6dc103a8afe", null ],
+    [ "_createTime", "de/d06/a20817.html#aa73a9fa2110bd5abdff9b509e13ce333", null ],
+    [ "_events", "de/d06/a20817.html#a0f99d43d373b61e9c665bd6c0d389afb", null ],
+    [ "_flameList", "de/d06/a20817.html#a50a26001f8bfe87a3a4f1feb544cf521", null ]
 ];

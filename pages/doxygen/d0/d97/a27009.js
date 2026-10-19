@@ -1,7 +1,10 @@
 var a27009 =
 [
-    [ "HandleScriptEffect", "d0/d97/a27009.html#ad3497a9c986f65978d4b2553b0c9958f", null ],
-    [ "Load", "d0/d97/a27009.html#a33d46e5ebd418ea0242d958345cb44d2", null ],
-    [ "PrepareSpellScript", "d0/d97/a27009.html#ade09cd376d00df8b5e709026e353f409", null ],
-    [ "Register", "d0/d97/a27009.html#ad04bf0d88a3e1fde3c11b91d5ef1c7ae", null ]
+    [ "spell_pal_improved_aura", "d0/d97/a27009.html#a4bc4b78ce3aab5ba4b5e6a009910cf7c", null ],
+    [ "HandleEffectApply", "d0/d97/a27009.html#a441952100c103ccdf84c58827669faac", null ],
+    [ "HandleEffectRemove", "d0/d97/a27009.html#aad7c1d2b5722523e119ff7dbe27ceb30", null ],
+    [ "PrepareAuraScript", "d0/d97/a27009.html#a4b35f298000b2a6cc530644018d4d7e4", null ],
+    [ "Register", "d0/d97/a27009.html#a148b20ba206ba69d2dcd84abbf7d17af", null ],
+    [ "Validate", "d0/d97/a27009.html#aa5450660ba559f31a815f4f2a4452fbc", null ],
+    [ "_spellId", "d0/d97/a27009.html#a9b7b9b73a0e6cacc917aedebdf789901", null ]
 ];

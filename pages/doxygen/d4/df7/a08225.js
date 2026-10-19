@@ -1,6 +1,5 @@
 var a08225 =
 [
-    [ "Rank", "d4/df7/a08225.html#abd26e25c76d5344dfdd94547b2f310d4", null ],
-    [ "Spell", "d4/df7/a08225.html#a0cb15c7c1e640b5a6acc8f8d94e6c719", null ],
-    [ "Talent", "d4/df7/a08225.html#ae39546dc8db233709131b388a3868c1a", null ]
+    [ "IsColorValid", "d4/df7/a08225.html#ae588303fb9610e1f891c1b0ce266e677", null ],
+    [ "IsTextValid", "d4/df7/a08225.html#ad4418635d2b1f37ab52846ee0315a671", null ]
 ];

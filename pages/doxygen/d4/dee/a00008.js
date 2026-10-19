@@ -1,11 +1,11 @@
 var a00008 =
 [
-    [ "map_id", "d5/d1d/a30355.html", "d5/d1d/a30355" ],
-    [ "LiquidTypeEntry", "d8/d7e/a29435.html", "d8/d7e/a29435" ],
-    [ "map_fileheader", "d1/ddd/a09595.html", "d1/ddd/a09595" ],
-    [ "map_areaHeader", "d4/d5d/a09599.html", "d4/d5d/a09599" ],
-    [ "map_heightHeader", "df/da2/a09603.html", "df/da2/a09603" ],
-    [ "map_liquidHeader", "d5/d9e/a09607.html", "d5/d9e/a09607" ],
+    [ "map_id", "d3/d2a/a30385.html", "d3/d2a/a30385" ],
+    [ "LiquidTypeEntry", "d0/d51/a29449.html", "d0/d51/a29449" ],
+    [ "map_fileheader", "d7/d50/a09609.html", "d7/d50/a09609" ],
+    [ "map_areaHeader", "d8/d14/a09613.html", "d8/d14/a09613" ],
+    [ "map_heightHeader", "d2/d90/a09617.html", "d2/d90/a09617" ],
+    [ "map_liquidHeader", "d9/d84/a09621.html", "d9/d84/a09621" ],
     [ "_CRT_SECURE_NO_DEPRECATE", "d4/dee/a00008.html#a411c46599e926f8cdf49c63957255359", null ],
     [ "LANG_COUNT", "d4/dee/a00008.html#a103d56ca489b218396e6bc64659ae225", null ],
     [ "MAP_AREA_NO_AREA", "d4/dee/a00008.html#a29bbacae053e66ee8b7fa97db3cbd127", null ],

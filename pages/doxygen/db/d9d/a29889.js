@@ -1,8 +1,6 @@
 var a29889 =
 [
-    [ "SetUp", "db/d9d/a29889.html#a72263bcd7a57c9dde376a55d491c16be", null ],
-    [ "TearDown", "db/d9d/a29889.html#a0212d5e3ace33a35adce8dfc782babf9", null ],
-    [ "PERM_A", "db/d9d/a29889.html#af731a3059dc701385facc03041a6c9b5", null ],
-    [ "PERM_B", "db/d9d/a29889.html#aaa3046adc81ef5afaf83d914638a46d4", null ],
-    [ "PERM_C", "db/d9d/a29889.html#a9a9e678ca868669ec99f8e2fc0348372", null ]
+    [ "SetUp", "db/d9d/a29889.html#abb19e39864b83953d4521914a78ed608", null ],
+    [ "TearDown", "db/d9d/a29889.html#a72dfb16bc49f5ebc3cfc34e7058e4ac9", null ],
+    [ "rbacData", "db/d9d/a29889.html#a96c1c7558b15f241f429f479ae36f497", null ]
 ];

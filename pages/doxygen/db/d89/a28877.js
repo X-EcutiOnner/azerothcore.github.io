@@ -1,13 +1,7 @@
 var a28877 =
 [
-    [ "DBCDatabaseLoader", "db/d89/a28877.html#a2efbbd3799e5f72fecaeaf9365579482", null ],
-    [ "DBCDatabaseLoader", "db/d89/a28877.html#a7d93e6d37796f341edcf25062743c5b5", null ],
-    [ "CloneStringToPool", "db/d89/a28877.html#a68e5ae50c980aa81b051d0622575bb2d", null ],
-    [ "Load", "db/d89/a28877.html#a1b116dca8b01e0462a2e6c08245a49a3", null ],
-    [ "operator=", "db/d89/a28877.html#a46f7d5670840892f7a8714ce0b6cde13", null ],
-    [ "_dbcFormat", "db/d89/a28877.html#aa749118514d0b784ac6df295bd820d8e", null ],
-    [ "_recordSize", "db/d89/a28877.html#a6721538ebbcfe020fb195d44b3bdbd11", null ],
-    [ "_sqlIndexPos", "db/d89/a28877.html#ac1b5b191615d3e3121ea70965b0d495a", null ],
-    [ "_sqlTableName", "db/d89/a28877.html#ab6590071edf5311ccf484d48e4fd125e", null ],
-    [ "_stringPool", "db/d89/a28877.html#a52b5b86f0efb8ad0716bc0171a3aa740", null ]
+    [ "HandleDummy", "db/d89/a28877.html#ad57b334c7d985a3bda1cb19b81a77ee1", null ],
+    [ "PrepareSpellScript", "db/d89/a28877.html#a550d6e90705745bdb5c4ee02ed1fce4b", null ],
+    [ "Register", "db/d89/a28877.html#a3fda4d652c1264b3cfababdd98297c61", null ],
+    [ "Validate", "db/d89/a28877.html#a2f12e71b9793be8e81011b0cd7583a39", null ]
 ];

@@ -1,10 +1,18 @@
 var a29513 =
 [
-    [ "attackSpeed", "d0/d13/a29513.html#ab5242f7367e8799a556176178c72fc88", null ],
-    [ "creatureType", "d0/d13/a29513.html#a3dff9074b85261932ed8a8a550c5395b", null ],
-    [ "flags1", "d0/d13/a29513.html#a026745f2ce754d754858d69ee219b518", null ],
-    [ "ID", "d0/d13/a29513.html#a72853ed36016e05e4cd14a9d89e9d6a8", null ],
-    [ "modelID_A", "d0/d13/a29513.html#a86dfa61342583d920b7d8496bce4b49d", null ],
-    [ "modelID_H", "d0/d13/a29513.html#a1ee597d6fd02507b682874929645e01d", null ],
-    [ "stanceSpell", "d0/d13/a29513.html#a08f54b905e905fb5a59e449f8c613c08", null ]
+    [ "getArmorMod", "d0/d13/a29513.html#a0e56e757faf660cabe0ba4316ee17f12", null ],
+    [ "getDPSMod", "d0/d13/a29513.html#aa0718862ebfeea92ad299e04c9c622c8", null ],
+    [ "getFeralBonus", "d0/d13/a29513.html#aa54c3d1add4a1b982c05138f876fd138", null ],
+    [ "getSpellBonus", "d0/d13/a29513.html#aba240e0c9f81ca7d5f17d3631410a7b3", null ],
+    [ "getssdMultiplier", "d0/d13/a29513.html#ab0fbc14e59c3a387b21d3f4a825d3b36", null ],
+    [ "IsTwoHand", "d0/d13/a29513.html#ac83356dba956bfb0aa0a0fb0d976b60e", null ],
+    [ "armorMod", "d0/d13/a29513.html#a742f8447dca5961fb39e50de8233fa86", null ],
+    [ "armorMod2", "d0/d13/a29513.html#a36dba32ea7febb8dab627fa992de878b", null ],
+    [ "dpsMod", "d0/d13/a29513.html#ace956cab0056bcf0e116ac0884ad3575", null ],
+    [ "Id", "d0/d13/a29513.html#aebc75b8f80cb210b6af081077bd88e85", null ],
+    [ "Level", "d0/d13/a29513.html#a5758f5152401efde26edf3110c0d11e2", null ],
+    [ "spellPower", "d0/d13/a29513.html#a03804cca02fd1146dffb762bcd1274f8", null ],
+    [ "ssdMultiplier", "d0/d13/a29513.html#a7559b9045268d8050372153c8c976946", null ],
+    [ "ssdMultiplier2", "d0/d13/a29513.html#a57cdfb5465ced673edeb8c35bd7a3535", null ],
+    [ "ssdMultiplier3", "d0/d13/a29513.html#ae78f00d5ed42704a4093b5df939498d7", null ]
 ];

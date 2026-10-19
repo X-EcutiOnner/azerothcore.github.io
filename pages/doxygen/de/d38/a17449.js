@@ -1,8 +1,8 @@
 var a17449 =
 [
-    [ "npc_hor_raging_ghoul", "de/d38/a17449.html#a733d4ad92566a13ace3427aae6696bac", null ],
-    [ "JustDied", "de/d38/a17449.html#a14c0937fdd3c25df74f0a09efc1c5122", null ],
-    [ "Reset", "de/d38/a17449.html#aad6424be7dd53b59016963cefffe40e5", null ],
-    [ "UpdateAI", "de/d38/a17449.html#af4024393b318ca702c6652e042036b26", null ],
-    [ "leaped", "de/d38/a17449.html#a69dea538a87ae47de221768b6de42315", null ]
+    [ "npc_phantom_hallucination", "de/d38/a17449.html#a55dc1bf20a0714bbe3bd2bf98978c127", null ],
+    [ "EnterEvadeMode", "de/d38/a17449.html#a0e45cbe40a3118d17f403c48c91f630e", null ],
+    [ "JustDied", "de/d38/a17449.html#a14c91f9f3a1f654fed3fc11685d41da7", null ],
+    [ "UpdateAI", "de/d38/a17449.html#af03cb9c2f062e14e6333c8c889d3c8df", null ],
+    [ "numOfUpd", "de/d38/a17449.html#a2cc47caafdc22de25f820a78f632ee4b", null ]
 ];

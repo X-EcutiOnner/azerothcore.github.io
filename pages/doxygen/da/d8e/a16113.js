@@ -1,7 +1,6 @@
 var a16113 =
 [
-    [ "npc_thrall_warchiefAI", "d2/ddb/a16117.html", "d2/ddb/a16117" ],
-    [ "npc_thrall_warchief", "da/d8e/a16113.html#a3958f0b444537ac8a5ebf55de44e3590", null ],
-    [ "GetAI", "da/d8e/a16113.html#a4fc3d5410b959b4289f1ced17d412c03", null ],
-    [ "OnQuestReward", "da/d8e/a16113.html#a6576664c201d62cab1fa2f073cddee6e", null ]
+    [ "npc_silva_filnaveth", "da/d8e/a16113.html#a5998381865214a7b3af7823bd2557cb0", null ],
+    [ "OnGossipHello", "da/d8e/a16113.html#a32019c17271a3f504d86cd694262fd53", null ],
+    [ "OnGossipSelect", "da/d8e/a16113.html#a10f81dce3dbc3ef0a84c8c33c2cb2e29", null ]
 ];

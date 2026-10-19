@@ -1,11 +1,8 @@
 var a12877 =
 [
-    [ "npc_blackhand_incarcerator", "da/d15/a12877.html#af44831badd703bf8c5275c749fd61d2a", null ],
-    [ "DamageTaken", "da/d15/a12877.html#af28b787db83769685d90cf7950d8f825", null ],
-    [ "JustEngagedWith", "da/d15/a12877.html#a9f4ab7c404a71da418c81b37dd14a7da", null ],
-    [ "Reset", "da/d15/a12877.html#a89befac34c050f9229961782156c7adf", null ],
-    [ "SetData", "da/d15/a12877.html#a9716a5bcc7101e9a39280ab7afd26540", null ],
-    [ "UpdateAI", "da/d15/a12877.html#a83bad94665e11bcb55498bad5fb055a9", null ],
-    [ "_events", "da/d15/a12877.html#a2c980622c898df77f3ed46cae1224c2f", null ],
-    [ "_fleedForAssistance", "da/d15/a12877.html#abb52cd563252e5d00e256faf6e3cd3d3", null ]
+    [ "boss_drakkisath", "da/d15/a12877.html#a77fdb667d0dc262dcacc5e988cf5fc8e", null ],
+    [ "JustEngagedWith", "da/d15/a12877.html#a502ca053bb96215c8386ee694a963cfa", null ],
+    [ "UpdateAI", "da/d15/a12877.html#a90bf913d6d94e5fc6d982049dd96e3b1", null ],
+    [ "_conflagrateTarget", "da/d15/a12877.html#aec0bd29626d8b59e33bfba370788ac40", null ],
+    [ "_conflagrateThreat", "da/d15/a12877.html#ac1cb21a95bbfcfbffc5a3046b233c183", null ]
 ];

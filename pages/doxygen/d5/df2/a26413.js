@@ -1,7 +1,6 @@
 var a26413 =
 [
-    [ "HandleProc", "d5/df2/a26413.html#a0a0dad1c639499963a61d18fe78af1c1", null ],
-    [ "PrepareAuraScript", "d5/df2/a26413.html#aa5e12d556fef142f96c8f03dda4a4c80", null ],
-    [ "Register", "d5/df2/a26413.html#ac8790ac907c6aa798575e2460c272f17", null ],
-    [ "Validate", "d5/df2/a26413.html#a4020daf9d601eb53fe84f9cdbcf96626", null ]
+    [ "OnPeriodic", "d5/df2/a26413.html#a3368e8fad4a5ecd242056da38ad8f23a", null ],
+    [ "PrepareAuraScript", "d5/df2/a26413.html#ad3d091510685ebc2d87aadb658cacf58", null ],
+    [ "Register", "d5/df2/a26413.html#a9552ba0f4c18623b6b00ababa034942c", null ]
 ];

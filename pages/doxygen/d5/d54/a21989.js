@@ -1,6 +1,6 @@
 var a21989 =
 [
-    [ "npc_spiritual_insightAI", "d5/d54/a21989.html#ab173cd8b623fcf8c36406155c91bc4db", null ],
-    [ "GetSpeachId", "d5/d54/a21989.html#ad2dd22651470f47e7a7ba6f687ba54e9", null ],
-    [ "IsSummonedBy", "d5/d54/a21989.html#ab6b39190d1195915ea0b4b191d864da6", null ]
+    [ "SACActivateEvent", "d5/d54/a21989.html#a7e5ba22c5500337f14ae067e2b404c5a", null ],
+    [ "Execute", "d5/d54/a21989.html#ad3e4092941e8cd8953fdc251e97c458a", null ],
+    [ "_owner", "d5/d54/a21989.html#ae930bd1f603ea296c5ccabd6fbd299f8", null ]
 ];

@@ -1,6 +1,21 @@
 var a17209 =
 [
-    [ "instance_trial_of_the_crusader_InstanceMapScript", "d1/dd7/a17213.html", "d1/dd7/a17213" ],
-    [ "instance_trial_of_the_crusader", "d0/da9/a17209.html#a764d871d02e4ff53b7cc3a8637dcddf9", null ],
-    [ "GetInstanceScript", "d0/da9/a17209.html#a792034e9e5687bf5fa543175692bed66", null ]
+    [ "boss_twin_valkyrAI", "d0/da9/a17209.html#a3a10c07715e5ef03c28f132df18e80bd", null ],
+    [ "DoAction", "d0/da9/a17209.html#a1a9c9f90108d203c2aca8c401763936f", null ],
+    [ "EnterEvadeMode", "d0/da9/a17209.html#a624969393687e10c2f8fca72d9394265", null ],
+    [ "GetSister", "d0/da9/a17209.html#a0c0998e2d4981dd3a1e2580497c1f3ef", null ],
+    [ "JustDied", "d0/da9/a17209.html#ad3ac59a0c0477a0819fd799b3bc305f6", null ],
+    [ "JustEngagedWith", "d0/da9/a17209.html#a2c0015cadfcc90e1c730d8f9c02151e8", null ],
+    [ "JustReachedHome", "d0/da9/a17209.html#af6127deaa5ff11a4ae2983e34d538bef", null ],
+    [ "JustSummoned", "d0/da9/a17209.html#a6b08f13c0213acf91b72b6341896406e", null ],
+    [ "KilledUnit", "d0/da9/a17209.html#a6b6706c12a0abbc36a022eb3af1925ec", null ],
+    [ "myDoMeleeAttackIfReady", "d0/da9/a17209.html#a8a488e8d0acab2737c0503ce89fd3d2a", null ],
+    [ "SummonedCreatureDespawn", "d0/da9/a17209.html#ae49793079dbec2dbe5e807f998705b20", null ],
+    [ "UpdateAI", "d0/da9/a17209.html#aea878cd12d640ce4e3d87deb85c20b9f", null ],
+    [ "UpdateSharedHealth", "d0/da9/a17209.html#a4101d2174de103be7154875beaafa65d", null ],
+    [ "events", "d0/da9/a17209.html#a08867e9274660a8913034bf3d80e559f", null ],
+    [ "LastSynchroHP", "d0/da9/a17209.html#aa66ac25aa73c505df972cf95dca85a71", null ],
+    [ "pInstance", "d0/da9/a17209.html#a653a89ac515061fca04240fa71a6630a", null ],
+    [ "SpecialMask", "d0/da9/a17209.html#a8ca507c7a288a5cb9a8160129820e4e0", null ],
+    [ "summons", "d0/da9/a17209.html#adeb3d3d3eb868ed1a9c211450404b659", null ]
 ];

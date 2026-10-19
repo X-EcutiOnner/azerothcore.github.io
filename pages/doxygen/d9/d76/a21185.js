@@ -1,6 +1,7 @@
 var a21185 =
 [
-    [ "CheckCast", "d9/d76/a21185.html#a715a58956db4253c8adfed039833debd", null ],
-    [ "PrepareSpellScript", "d9/d76/a21185.html#a3b03178d8ab54db36a19ba5a27444917", null ],
-    [ "Register", "d9/d76/a21185.html#a6309c53b9e3828e76d34a77a8fe35df1", null ]
+    [ "OnApply", "d9/d76/a21185.html#a7dd5b6217db77373dfba5958a2376ff1", null ],
+    [ "OnRemove", "d9/d76/a21185.html#a39510971a0e1dbd800efc37c2e09c74f", null ],
+    [ "PrepareAuraScript", "d9/d76/a21185.html#a35c1e8f81229565e5d333ec42aa2e92c", null ],
+    [ "Register", "d9/d76/a21185.html#a27fdfe00e5201b6472a282f4589a66cc", null ]
 ];

@@ -1,9 +1,5 @@
 var a11717 =
 [
-    [ "TotemCreated", "d7/d93/a11717.html#a24c9e483d1edb526330311c719d750df", null ],
-    [ "Write", "d7/d93/a11717.html#a554900ae7442f00a63c983ea7ea74510", null ],
-    [ "Duration", "d7/d93/a11717.html#aff6335b86ac051bccb623124905c7180", null ],
-    [ "Slot", "d7/d93/a11717.html#a0889c816fbef728f1a0a6c530c801eac", null ],
-    [ "SpellID", "d7/d93/a11717.html#a2fe9f98b653d7c2afcf3166e86f3756e", null ],
-    [ "Totem", "d7/d93/a11717.html#a684d15c5368e8065c78e9320eebb676b", null ]
+    [ "QuestGiverQuestAutoLaunch", "d7/d93/a11717.html#a802f7bba88a650bc577cfc1fa29cb016", null ],
+    [ "Read", "d7/d93/a11717.html#a8e5d0c7821d7055fd7ad9f3f83589f57", null ]
 ];

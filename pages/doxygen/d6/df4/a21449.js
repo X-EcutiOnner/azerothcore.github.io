@@ -1,13 +1,7 @@
 var a21449 =
 [
-    [ "MoveX", "d6/df4/a21449.html#aaae6e8ea168850a934b887ec006d7d8b", null ],
-    [ "MoveY", "d6/df4/a21449.html#a62cd7f778cea049a1a6a4c34d21545a7", null ],
-    [ "MoveZ", "d6/df4/a21449.html#a80b842f55108fec58fe04cf02e8e0b35", null ],
-    [ "npc", "d6/df4/a21449.html#a4bdccc14156f7e5822c9a8eefc29adaa", null ],
-    [ "say", "d6/df4/a21449.html#adcd8647fc0ee9799e24173780209f2d9", null ],
-    [ "SpawnO", "d6/df4/a21449.html#a3b6b89143c8a875cda01b000cea6a7c7", null ],
-    [ "SpawnX", "d6/df4/a21449.html#af3ae27adaecafe9a09802bc202973d68", null ],
-    [ "SpawnY", "d6/df4/a21449.html#a749e9c6edcc87f258f250344d652145c", null ],
-    [ "SpawnZ", "d6/df4/a21449.html#a06a0f8e5a7d63204d57992dc9623f83b", null ],
-    [ "trigger", "d6/df4/a21449.html#ad2291d89a874c79859b3140754594ed7", null ]
+    [ "FilterTargets", "d6/df4/a21449.html#aacfc70299b20cfef5b2feac954779f1c", null ],
+    [ "HandleDamageCalc", "d6/df4/a21449.html#ad95c61a3977d7fa1c47902fb0a0d3843", null ],
+    [ "PrepareSpellScript", "d6/df4/a21449.html#a008a69c532a7bdaec9fd30c88bb7af90", null ],
+    [ "Register", "d6/df4/a21449.html#aa1da58fb771b35b76dcf367b9caf66d2", null ]
 ];

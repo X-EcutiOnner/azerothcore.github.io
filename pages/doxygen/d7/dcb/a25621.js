@@ -1,7 +1,11 @@
 var a25621 =
 [
-    [ "HandleScript", "d7/dcb/a25621.html#a27e2575e538732ac76add53f2f8f6832", null ],
-    [ "PrepareSpellScript", "d7/dcb/a25621.html#ad7c98be6cca23fb1484a6b77bcc7bc9d", null ],
-    [ "Register", "d7/dcb/a25621.html#a4ee74f6d8a61a8ba38ece33176c18f84", null ],
-    [ "Validate", "d7/dcb/a25621.html#aef9eef1819652e0fce1cd4b3ba9c387c", null ]
+    [ "spell_gen_consume", "d7/dcb/a25621.html#a839f5e891cfbd0f83937f06c7fd049d4", null ],
+    [ "AfterRemove", "d7/dcb/a25621.html#ac521cc1524ddb9dd298145f23cc8fcd1", null ],
+    [ "HandleProc", "d7/dcb/a25621.html#af69251aa0415a2148162f32dd9113917", null ],
+    [ "PrepareAuraScript", "d7/dcb/a25621.html#a43860e5dcb2d2cb49e52c280d4f3c7e9", null ],
+    [ "Register", "d7/dcb/a25621.html#a043362a08bcf9cfe253dd23c722a60bc", null ],
+    [ "Validate", "d7/dcb/a25621.html#ae9b7c2f4a1b8f26a20b5ca6d90d3c5e9", null ],
+    [ "_spellId1", "d7/dcb/a25621.html#a9763527e0a95c52888847b84d8f1dd8d", null ],
+    [ "_spellId2", "d7/dcb/a25621.html#aa9b47c361eaad7dac4725e0be1bfe254", null ]
 ];

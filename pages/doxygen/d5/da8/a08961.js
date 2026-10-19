@@ -1,19 +1,16 @@
 var a08961 =
 [
-    [ "PetInfo", "d5/da8/a08961.html#a1bee56222719503aef508dd3f2ddd2f1", null ],
-    [ "ActionBar", "d5/da8/a08961.html#affe10e9845d23f597df23ed271d91039", null ],
-    [ "CreatedBySpellId", "d5/da8/a08961.html#a40d2f28579271de9b1533b5d412fecbb", null ],
-    [ "CreatureId", "d5/da8/a08961.html#a879009caeaa61fdef801db178599197e", null ],
-    [ "DisplayId", "d5/da8/a08961.html#ab7128ea7655961abfb3f8f074006bc7c", null ],
-    [ "Experience", "d5/da8/a08961.html#aee5536e251e20d8f4ee293f7f5eab2d3", null ],
-    [ "Happiness", "d5/da8/a08961.html#a39ee3606989e65fc284a6701482c2aa9", null ],
-    [ "Health", "d5/da8/a08961.html#a5e0835afbf2f396e8030236484984628", null ],
-    [ "LastSaveTime", "d5/da8/a08961.html#afafdbe4176d1bf26ab5022ab2d219ed6", null ],
-    [ "Level", "d5/da8/a08961.html#aabcf03700a0207df9086a6f7a354a7b9", null ],
-    [ "Mana", "d5/da8/a08961.html#a25a72a18fd6e38dea4db6ff8d3942423", null ],
-    [ "Name", "d5/da8/a08961.html#adb037d9f6d2606baa469c5c63385476a", null ],
-    [ "PetNumber", "d5/da8/a08961.html#af57645f36ae45c0045abe991419b797d", null ],
-    [ "ReactState", "d5/da8/a08961.html#ad7cd098ff265de389412626fad6d6d6f", null ],
-    [ "Type", "d5/da8/a08961.html#ae8fa5344688bb4bf34b806f9b67ef32c", null ],
-    [ "WasRenamed", "d5/da8/a08961.html#a98827cf01b6f610692fe4295582ead34", null ]
+    [ "WorldLocation", "d5/da8/a08961.html#a424e67f5a820f3396ed6a02c3daa05fb", null ],
+    [ "WorldLocation", "d5/da8/a08961.html#a04d7814f5d846259c5af562ce856f468", null ],
+    [ "GetDebugInfo", "d5/da8/a08961.html#a0b3f13522d288dde484c70cbf8ef5fc5", null ],
+    [ "GetMapId", "d5/da8/a08961.html#a2682e56ae4f0ce4b517a8ba3cd2798b1", null ],
+    [ "GetWorldLocation", "d5/da8/a08961.html#a48cad9058b04a5108c4b99c7fd4d0bfe", null ],
+    [ "GetWorldLocation", "d5/da8/a08961.html#aa2623109f914fd8592f865545696d27b", null ],
+    [ "GetWorldLocation", "d5/da8/a08961.html#a75c59d33f5aac8da8eb9b8c5e2711acf", null ],
+    [ "GetWorldLocation", "d5/da8/a08961.html#aed21eb7d191b1e34ebd1456b427fbb2c", null ],
+    [ "GetWorldLocation", "d5/da8/a08961.html#abb5d3b7c89fa4a39d2486f2f943159e4", null ],
+    [ "SetMapId", "d5/da8/a08961.html#ac425c27c61ecc169fe3df61991011988", null ],
+    [ "WorldRelocate", "d5/da8/a08961.html#adc762865d564319245ffc3363c080365", null ],
+    [ "WorldRelocate", "d5/da8/a08961.html#a019c9b00af8ee60c911430d1ce758662", null ],
+    [ "m_mapId", "d5/da8/a08961.html#a88161a79f13aa3ab267096cfa8e5d0ed", null ]
 ];

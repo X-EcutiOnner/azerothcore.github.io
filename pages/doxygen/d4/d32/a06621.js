@@ -1,6 +1,5 @@
 var a06621 =
 [
-    [ "PermissibleOrderPred", "d4/d32/a06621.html#a0f99979c533fb388a2086f419c110f2b", null ],
-    [ "operator()", "d4/d32/a06621.html#a42027be1e7cb7a3589caeafea25d2f75", null ],
-    [ "_obj", "d4/d32/a06621.html#a5872cf90e79107749c4900cb471b2f16", null ]
+    [ "SimpleCharmedAI", "d4/d32/a06621.html#ada8d12d7df75dca5c87c633348d1b27b", null ],
+    [ "UpdateAI", "d4/d32/a06621.html#a5e2c8ae6b601b7fcc36f8c2c49bcd9a6", null ]
 ];

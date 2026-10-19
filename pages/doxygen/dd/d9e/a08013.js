@@ -1,10 +1,4 @@
 var a08013 =
 [
-    [ "InvokerEntry", "dd/d9e/a08013.html#aa195cc806a02e56a8125bfc039b83c37", null ],
-    [ "InvokerEntry", "dd/d9e/a08013.html#ab0ae915bcd0b6cb738f66398ba06bd63", null ],
-    [ "InvokerEntry", "dd/d9e/a08013.html#ae0b19dcb745635a783d52bae6f237b47", null ],
-    [ "operator*", "dd/d9e/a08013.html#ae42d24aad13fe622f6d5ec35d72c1c96", null ],
-    [ "_help", "dd/d9e/a08013.html#a107ccda1e3b21600fd133a243a8d2c9c", null ],
-    [ "_invoker", "dd/d9e/a08013.html#a1f9da7b4e2a968b1cf51b227c79f0d1d", null ],
-    [ "_permissions", "dd/d9e/a08013.html#a9567278ccb4896bcb2e8293df0ab909f", null ]
+    [ "type", "dd/d9e/a08013.html#a9ca8227197c98defada545334546f092", null ]
 ];

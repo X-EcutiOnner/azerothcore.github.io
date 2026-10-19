@@ -1,6 +1,6 @@
 var a16765 =
 [
-    [ "HandleScript", "d9/da8/a16765.html#a647f39eb125537cd7545ab4115be1091", null ],
-    [ "PrepareSpellScript", "d9/da8/a16765.html#a55dec84643f9bd536c7c73b5909ab303", null ],
-    [ "Register", "d9/da8/a16765.html#a0077abbe11092b9636c3bb7b5c367946", null ]
+    [ "PrepareSpellScript", "d9/da8/a16765.html#a743f910c3854e2c4e726e97c55fa7038", null ],
+    [ "Register", "d9/da8/a16765.html#a3b9b2ffa90f58a5da93fd369e11c6216", null ],
+    [ "RemoveNotBetween", "d9/da8/a16765.html#aba462e5b8e9336a508d19606f98750b5", null ]
 ];

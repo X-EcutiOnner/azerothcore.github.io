@@ -1,6 +1,7 @@
 var a25645 =
 [
-    [ "HandleScript", "d9/ddf/a25645.html#a3f63c080d2a74def0920cceaea18e1e2", null ],
-    [ "PrepareSpellScript", "d9/ddf/a25645.html#a438c4c1763688210384b24305aeebe52", null ],
-    [ "Register", "d9/ddf/a25645.html#a27b25fbbdd912505738728414b79380c", null ]
+    [ "OnPeriodic", "d9/ddf/a25645.html#a58f13f947b4daac98651f7fa46d7d674", null ],
+    [ "PrepareAuraScript", "d9/ddf/a25645.html#a85c4d84408becf2fb4ac55d9da369b25", null ],
+    [ "Register", "d9/ddf/a25645.html#ad0c688255e340c428624de7071b5df56", null ],
+    [ "Validate", "d9/ddf/a25645.html#a5ecd0e840bd94d4414acfb0aef9abd28", null ]
 ];

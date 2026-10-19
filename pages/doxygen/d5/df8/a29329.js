@@ -1,4 +1,8 @@
 var a29329 =
 [
-    [ "ratio", "d5/df8/a29329.html#ad5d1466406daa3696314ef2f6f18cd15", null ]
+    [ "EmotesTextId", "d5/df8/a29329.html#a8a45e92993f75f5d3b8e8fb045a294da", null ],
+    [ "Id", "d5/df8/a29329.html#a60760a3e9768f1b189a4373ffe0b9bca", null ],
+    [ "RaceId", "d5/df8/a29329.html#a8427fb95e778194124143d276b527213", null ],
+    [ "SexId", "d5/df8/a29329.html#a818eae8ffc756fc359a822de63d21976", null ],
+    [ "SoundId", "d5/df8/a29329.html#a17a267412c8a1527370b1e67ea5b6211", null ]
 ];

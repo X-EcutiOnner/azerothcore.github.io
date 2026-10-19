@@ -1,11 +1,11 @@
 var a06305 =
 [
-    [ "AppenderDB", "d6/dfb/a06305.html#af8e48076d47a06c73f6b8ae054955a83", null ],
-    [ "~AppenderDB", "d6/dfb/a06305.html#a7da848083d02833acc632051a2d938bf", null ],
-    [ "_write", "d6/dfb/a06305.html#af38ab76e4d3ea9ebe864582c0030c49a", null ],
-    [ "getType", "d6/dfb/a06305.html#a96221ceed23435556df03c5f7ffab61e", null ],
-    [ "setRealmId", "d6/dfb/a06305.html#a769ff59f4dbbff1b77398dd20c016ace", null ],
-    [ "enabled", "d6/dfb/a06305.html#a55e70394d0a7f321e0cf75a9b822b482", null ],
-    [ "realmId", "d6/dfb/a06305.html#a5c9bf2ae429c0903cffe9a01c03b6028", null ],
-    [ "type", "d6/dfb/a06305.html#a8d9968c073ee16a8fe082254ec232ebb", null ]
+    [ "SQLOperation", "d6/dfb/a06305.html#a0f69657715b7d24458227b22a3b40b1a", null ],
+    [ "~SQLOperation", "d6/dfb/a06305.html#afa21cafba57dd35ed2b132ef3d18c71b", null ],
+    [ "SQLOperation", "d6/dfb/a06305.html#a91b34b81ed99ca0da54d825fec98ab6e", null ],
+    [ "call", "d6/dfb/a06305.html#ae56c06a313c4be5d0e45f5481996f1d1", null ],
+    [ "Execute", "d6/dfb/a06305.html#aff1090554bc4a6fe7a33270e63416e19", null ],
+    [ "operator=", "d6/dfb/a06305.html#ac31349ed45ea051540ac345bd4b814d5", null ],
+    [ "SetConnection", "d6/dfb/a06305.html#a52cbd1d9b8a298ab3eade0010b5e3166", null ],
+    [ "m_conn", "d6/dfb/a06305.html#adf322db48064fcf4528f713f857f1b40", null ]
 ];

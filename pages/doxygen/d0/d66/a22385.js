@@ -1,6 +1,6 @@
 var a22385 =
 [
-    [ "PrepareSpellScript", "d0/d66/a22385.html#a87014fc73af805b7ad052d1f4f45d7cd", null ],
-    [ "Register", "d0/d66/a22385.html#a306252bb3bc9af689400981b198f66e8", null ],
-    [ "SetDest", "d0/d66/a22385.html#a0bffbc57932a2efe33a9912d608eb79d", null ]
+    [ "npc_bushwhackerAI", "dc/d1b/a22389.html", "dc/d1b/a22389" ],
+    [ "npc_bushwhacker", "d0/d66/a22385.html#ad87a9fdec3d5dbaef429c88905a5f6e8", null ],
+    [ "GetAI", "d0/d66/a22385.html#ab3190b66069e820abf3637bb877066a0", null ]
 ];

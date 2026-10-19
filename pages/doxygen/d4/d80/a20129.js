@@ -1,7 +1,6 @@
 var a20129 =
 [
-    [ "HandleEffectRemove", "d4/d80/a20129.html#af61220cb739baef9b33aecddb1cfe5ea", null ],
-    [ "PrepareAuraScript", "d4/d80/a20129.html#ad8035b1b676751fcc299e4ad8df62ed8", null ],
-    [ "Register", "d4/d80/a20129.html#abe52dbfdbd42c860e0a79873dd19e22d", null ],
-    [ "Validate", "d4/d80/a20129.html#a7c4f9df92b501720e30372fa9e9dbad7", null ]
+    [ "boss_sjonnirAI", "dd/dda/a20133.html", "dd/dda/a20133" ],
+    [ "boss_sjonnir", "d4/d80/a20129.html#a8bb9b10778a2dedcde3d4ced44bc13f1", null ],
+    [ "GetAI", "d4/d80/a20129.html#a0bb79667d9d80f0c49e30fa0547c6062", null ]
 ];

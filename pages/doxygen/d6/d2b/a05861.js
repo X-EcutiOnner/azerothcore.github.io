@@ -1,8 +1,9 @@
 var a05861 =
 [
-    [ "Event", "d6/d2b/a05861.html#acd0d1988a60808384e2cc0dba8735cd3", null ],
-    [ "Event", "d6/d2b/a05861.html#a0c6f6d46b2210c42e41fbeb1241c9e7d", null ],
-    [ "_groupMask", "d6/d2b/a05861.html#a7f752259eafab986537db2d70c56d211", null ],
-    [ "_id", "d6/d2b/a05861.html#a7b60d3d526fd45833d87165d8356f896", null ],
-    [ "_phaseMask", "d6/d2b/a05861.html#afce8fa5e187a1c2110a06c70707db247", null ]
+    [ "Base", "de/d8f/a05865.html", "de/d8f/a05865" ],
+    [ "Erase", "d6/d2b/a05861.html#a2c7b450c8781824135765e5d82b0272e", null ],
+    [ "Get", "d6/d2b/a05861.html#aa8f56bb08a6245792a75305ba2fcce82", null ],
+    [ "GetDefault", "d6/d2b/a05861.html#ad53ddbe486c994277adbb96e1c644112", null ],
+    [ "Set", "d6/d2b/a05861.html#a93bf2535b14236df9703e485ef816b36", null ],
+    [ "Container", "d6/d2b/a05861.html#a3a559027ba0a64e4af2f02218ce1c910", null ]
 ];

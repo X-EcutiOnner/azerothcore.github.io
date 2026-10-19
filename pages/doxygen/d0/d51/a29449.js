@@ -1,7 +1,7 @@
 var a29449 =
 [
-    [ "EpicPropertiesPoints", "d0/d51/a29449.html#a35dc60a15091357e03032226621340f7", null ],
-    [ "itemLevel", "d0/d51/a29449.html#a35506e3235c2c24230058dc2fb9abc4f", null ],
-    [ "RarePropertiesPoints", "d0/d51/a29449.html#a9359171635ef3e9a0029820fad286368", null ],
-    [ "UncommonPropertiesPoints", "d0/d51/a29449.html#a74acb6861a84d5d193038eaa5ac9b12f", null ]
+    [ "Id", "d0/d51/a29449.html#a94843a6f0cb39332f39a9630945f1fc8", null ],
+    [ "SoundBank", "d0/d51/a29449.html#a1dd2e40caf515186c831dc8cc82c095b", null ],
+    [ "SpellId", "d0/d51/a29449.html#aa010947f5fbec6867b005b25728e720b", null ],
+    [ "Type", "d0/d51/a29449.html#a7f610dd6a9944b4634bb981c0cb8e230", null ]
 ];

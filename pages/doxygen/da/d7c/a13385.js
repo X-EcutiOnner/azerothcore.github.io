@@ -1,11 +1,6 @@
 var a13385 =
 [
-    [ "boss_terestian_illhoof", "da/d7c/a13385.html#a5750bf4f12ac01216335a926f885e136", null ],
-    [ "JustDied", "da/d7c/a13385.html#a9039c0fb905e72e659ce62f9d36593ce", null ],
-    [ "JustEngagedWith", "da/d7c/a13385.html#adc1f9195954eda7ec406ac9a084b7508", null ],
-    [ "JustSummoned", "da/d7c/a13385.html#a8b156654dbd75a4a7626edf30a8aae78", null ],
-    [ "KilledUnit", "da/d7c/a13385.html#ab7de8b406de200eec981fab79a56dcd7", null ],
-    [ "Reset", "da/d7c/a13385.html#a685b00f0e3317740412adfc48df1c3fb", null ],
-    [ "SpellHit", "da/d7c/a13385.html#a2f25021cfbc9e466d73c13de8116d8f1", null ],
-    [ "SummonKilrek", "da/d7c/a13385.html#a0007e35a38efce5edada2f47a9bb89c6", null ]
+    [ "HandleHit", "da/d7c/a13385.html#ae6dbaebdc4b0248215416e8d4550d2cb", null ],
+    [ "PrepareSpellScript", "da/d7c/a13385.html#ae08237f9eb95cc8a4b53a7de50af7b91", null ],
+    [ "Register", "da/d7c/a13385.html#a84853f416eb8250dc3d863dbe22a157f", null ]
 ];

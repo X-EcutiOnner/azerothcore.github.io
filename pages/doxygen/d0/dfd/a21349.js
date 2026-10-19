@@ -1,14 +1,9 @@
 var a21349 =
 [
-    [ "npc_massive_jormungarAI", "d0/dfd/a21349.html#aa0b9acaec1aab155f7e4442d12d40c3e", null ],
-    [ "DoAction", "d0/dfd/a21349.html#a8084994ba056c907b2e487568fa7502a", null ],
-    [ "JustDied", "d0/dfd/a21349.html#a02b4e75227811250e2210f754e6e04f2", null ],
-    [ "JustEngagedWith", "d0/dfd/a21349.html#a93769dbb2f7d2136e5ab2603927a5f12", null ],
-    [ "JustReachedHome", "d0/dfd/a21349.html#a8ea0fe40cb4b113abadc091ab8085636", null ],
-    [ "MoveInLineOfSight", "d0/dfd/a21349.html#a55c817111fab479c3abcfca8942f16e8", null ],
-    [ "Reset", "d0/dfd/a21349.html#aca0d8ebe3b47a075a8b87666c0207620", null ],
-    [ "UpdateAI", "d0/dfd/a21349.html#a9201c4cdf74d55bb3cde52eb265aa3d9", null ],
-    [ "events", "d0/dfd/a21349.html#a92334b8178317a91a7d4336096d75f33", null ],
-    [ "m_pInstance", "d0/dfd/a21349.html#ad50a9852370798817fda318f71f27653", null ],
-    [ "summons", "d0/dfd/a21349.html#acfa84efc38b994706015e6d82fe1f653", null ]
+    [ "npc_vrykul_skeleton", "d0/dfd/a21349.html#afda2014efb0ce63ee41c46cf2ad6c130", null ],
+    [ "DamageTaken", "d0/dfd/a21349.html#a840244c4183987e4fda533edb2ddeff2", null ],
+    [ "Reset", "d0/dfd/a21349.html#af950342b2177c84c101485736855b998", null ],
+    [ "UpdateAI", "d0/dfd/a21349.html#a80cd072eef6b0bf03a9a6a2fe22e252a", null ],
+    [ "events", "d0/dfd/a21349.html#a897bb5b5519f6f507bca49c5c5de17f6", null ],
+    [ "pInstance", "d0/dfd/a21349.html#a834f0162540683c20f9fa0f9e32eee33", null ]
 ];

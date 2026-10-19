@@ -1,6 +1,8 @@
 var a13493 =
 [
-    [ "HandleAfterCast", "d6/d4e/a13493.html#a5ca38a2828359e4f373323d1d6cc91cf", null ],
-    [ "PrepareSpellScript", "d6/d4e/a13493.html#aa0956db2d03405a54893bc30516f5839", null ],
-    [ "Register", "d6/d4e/a13493.html#a45726adacf1d30b5488df54f57447c0c", null ]
+    [ "npc_barnesAI", "d5/d8c/a13497.html", "d5/d8c/a13497" ],
+    [ "npc_barnes", "d6/d4e/a13493.html#aacdc737a94397a90b48b635293fe9c80", null ],
+    [ "GetAI", "d6/d4e/a13493.html#a4e349ede566d9be90b82e7ebd9d71de3", null ],
+    [ "OnGossipHello", "d6/d4e/a13493.html#a47cafa3628d2ca99582140f2a72ff8db", null ],
+    [ "OnGossipSelect", "d6/d4e/a13493.html#aa04d577e318f16f581f82761b6014eb5", null ]
 ];

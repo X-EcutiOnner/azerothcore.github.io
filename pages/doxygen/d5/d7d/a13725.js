@@ -1,5 +1,6 @@
 var a13725 =
 [
-    [ "at_malfurion_stormrage", "d5/d7d/a13725.html#ac5da3d1a7c2ccaffee68cfaee04fb63c", null ],
-    [ "OnTrigger", "d5/d7d/a13725.html#aaeae64b901ee7b0752425e35af9f4af6", null ]
+    [ "boss_baroness_anastariAI", "dd/dd6/a13729.html", "dd/dd6/a13729" ],
+    [ "boss_baroness_anastari", "d5/d7d/a13725.html#a60f04c10d9b942cacf74a1dc8364dbbe", null ],
+    [ "GetAI", "d5/d7d/a13725.html#a38073f80afbceb5535cc18ab524378a6", null ]
 ];

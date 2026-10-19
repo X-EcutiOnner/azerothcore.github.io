@@ -1,6 +1,5 @@
 var a12965 =
 [
-    [ "FilterTargets", "da/de3/a12965.html#ac630fb5f068e4d26adb078b118994c45", null ],
-    [ "PrepareSpellScript", "da/de3/a12965.html#a5f4986bfad79573e65d56ff276c49914", null ],
-    [ "Register", "da/de3/a12965.html#aa1f5838d43871fd7908ea3b914666000", null ]
+    [ "at_dragonspire_hall", "da/de3/a12965.html#a6adb22f328a7324b2ecf70204ab26a6d", null ],
+    [ "OnTrigger", "da/de3/a12965.html#a1a7bd95653e84b7fd436d71c162c087e", null ]
 ];

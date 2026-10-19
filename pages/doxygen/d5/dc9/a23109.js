@@ -1,12 +1,6 @@
 var a23109 =
 [
-    [ "boss_shade_of_akama", "d5/dc9/a23109.html#a385bf995d19652254d6ae8a447c23c37", null ],
-    [ "EnterEvadeMode", "d5/dc9/a23109.html#a690f8058fb4358b98960177d76864275", null ],
-    [ "JustDied", "d5/dc9/a23109.html#aa22052befeb48c0c7ec3a3cedd91daff", null ],
-    [ "MovementInform", "d5/dc9/a23109.html#a345707efebd5027c01a25a563d1e6f43", null ],
-    [ "Reset", "d5/dc9/a23109.html#a19a1aca1a599704612ac845001895b4f", null ],
-    [ "SpellHit", "d5/dc9/a23109.html#a5a49f0dab7ce6ee81b9ed8deb5704720", null ],
-    [ "UpdateAI", "d5/dc9/a23109.html#a25ffed5526b1f25eb1cf790745e2a7c7", null ],
-    [ "channelers", "d5/dc9/a23109.html#a258bbeecb517a04ab8e3bac2a753a5bd", null ],
-    [ "generators", "d5/dc9/a23109.html#a94a1010bce54768ee2dca72d4f6eec34", null ]
+    [ "boss_essence_of_sufferingAI", "dd/d03/a23113.html", "dd/d03/a23113" ],
+    [ "boss_essence_of_suffering", "d5/dc9/a23109.html#a1237f428657f0e9a0218695264358384", null ],
+    [ "GetAI", "d5/dc9/a23109.html#adb54519bdf220cb3e30c81627c1ba11a", null ]
 ];

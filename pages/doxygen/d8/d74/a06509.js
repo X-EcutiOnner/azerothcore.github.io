@@ -1,9 +1,9 @@
 var a06509 =
 [
-    [ "CasterAI", "d8/d74/a06509.html#ad91d5c64cbc4d56d9a84aaeb2f64b35e", null ],
-    [ "AttackStart", "d8/d74/a06509.html#a28386fd1a275c002445e5eaf90314a3d", null ],
-    [ "InitializeAI", "d8/d74/a06509.html#a2a24cdc24b665c52363dae587572fc4d", null ],
-    [ "JustEngagedWith", "d8/d74/a06509.html#ad436decd8b3da4323cf3fdb4a9e5a849", null ],
-    [ "UpdateAI", "d8/d74/a06509.html#a0fa50ac9bd99ff0c2c7e78f03a737090", null ],
-    [ "m_attackDist", "d8/d74/a06509.html#a561dbc6713a8ec58ef6b23ae4d04d81b", null ]
+    [ "AddonInfo", "d8/d74/a06509.html#a60ea66ed93b64c9e182226954a514f53", null ],
+    [ "CRC", "d8/d74/a06509.html#a7f0f2d817a2189b3acee5999f154ba60", null ],
+    [ "Enabled", "d8/d74/a06509.html#ace9f109c395ed84cc01ca4381222c25b", null ],
+    [ "Name", "d8/d74/a06509.html#a45692257c72286e670ab8c9c50014335", null ],
+    [ "State", "d8/d74/a06509.html#a5301b19e44d68540434574f023e62f46", null ],
+    [ "UsePublicKeyOrCRC", "d8/d74/a06509.html#a75e016fa7abee24757c89b97330a6192", null ]
 ];

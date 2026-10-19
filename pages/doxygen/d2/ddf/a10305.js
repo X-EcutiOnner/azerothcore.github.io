@@ -1,10 +1,8 @@
 var a10305 =
 [
-    [ "ZoneDynamicInfo", "d2/ddf/a10305.html#a0542940fdcc273a4ff8a8e8bb6a40b1f", null ],
-    [ "DefaultWeather", "d2/ddf/a10305.html#a8c2c7772596ec58413bee2077e46790f", null ],
-    [ "LightFadeInTime", "d2/ddf/a10305.html#a0be8cff9a7e74add7bba8af3be993e48", null ],
-    [ "MusicId", "d2/ddf/a10305.html#a3ab0244b34c30cc7d929b418da31d7d3", null ],
-    [ "OverrideLightId", "d2/ddf/a10305.html#a0d43acd5539d3449b7c36ee88518346e", null ],
-    [ "WeatherGrade", "d2/ddf/a10305.html#a923c3231c49554addd1522f0ccc50e2d", null ],
-    [ "WeatherId", "d2/ddf/a10305.html#a4df1e694992a3c2638460601e4c4d7c9", null ]
+    [ "BoundaryIntersectBoundary", "d2/ddf/a10305.html#ad92d938418434a1cb6a0eb68c88d281c", null ],
+    [ "~BoundaryIntersectBoundary", "d2/ddf/a10305.html#ad8bbf96e48d18ef87ac31dea8bcb023b", null ],
+    [ "IsWithinBoundaryArea", "d2/ddf/a10305.html#a09c8440d1ddb8264bff4065910b7e0a5", null ],
+    [ "_b1", "d2/ddf/a10305.html#ab0239437fa92e39d144bf3856eb347c7", null ],
+    [ "_b2", "d2/ddf/a10305.html#a41e100c17db99990981293399660824c", null ]
 ];

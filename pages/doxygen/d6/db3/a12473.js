@@ -1,11 +1,15 @@
 var a12473 =
 [
-    [ "bf_commandscript", "d6/db3/a12473.html#a806ca440ae1b51fffefee9d298dab3df", null ],
-    [ "GetCommands", "d6/db3/a12473.html#a97f0192d7ccd3532cfceaebff9f242be", null ],
-    [ "HandleBattlefieldEnable", "d6/db3/a12473.html#a5d6fdbbdd77fc16aaac170d5af0ff924", null ],
-    [ "HandleBattlefieldEnd", "d6/db3/a12473.html#abe18a8f6f91de5a1984f09c711136919", null ],
-    [ "HandleBattlefieldQueue", "d6/db3/a12473.html#ab2e116060bb747e9ae9237c49b8cc2c9", null ],
-    [ "HandleBattlefieldStart", "d6/db3/a12473.html#a1cfd74a803277063fa5e03162956f341", null ],
-    [ "HandleBattlefieldSwitch", "d6/db3/a12473.html#ae942a3c7f13cc77b3cf36078d798e0fe", null ],
-    [ "HandleBattlefieldTimer", "d6/db3/a12473.html#a6c0d2587984f276bbc40af72017dc00a", null ]
+    [ "SunsReachReclamationData", "d6/db3/a12473.html#a840eb2024ae39f2f60f819e884db80b3", null ],
+    [ "GetData", "d6/db3/a12473.html#ae7ef124f28f2bc8230b4234652734994", null ],
+    [ "GetPhasePercentage", "d6/db3/a12473.html#a215cec505dd74695704ae7961161e195", null ],
+    [ "GetSubPhasePercentage", "d6/db3/a12473.html#aaee292336c57d967842d63f55e69bf0f", null ],
+    [ "GetSunwellGatePercentage", "d6/db3/a12473.html#a9b5de26596e174f9a94e019fcb998f9e", null ],
+    [ "m_gate", "d6/db3/a12473.html#a35755bcf3f67cfb2ebc77dcb36fa4dfb", null ],
+    [ "m_gateCounters", "d6/db3/a12473.html#a76b38d6f571386c1d818752e12a66f66", null ],
+    [ "m_phase", "d6/db3/a12473.html#a67711cd7d43f481161b8f98690d67fe3", null ],
+    [ "m_subphaseMask", "d6/db3/a12473.html#a0a94a3b69ac5ccfcfae35af007ed375c", null ],
+    [ "m_sunsReachReclamationCounters", "d6/db3/a12473.html#a14253084085c114aa2cfeefdebb0257d", null ],
+    [ "m_sunsReachReclamationMutex", "d6/db3/a12473.html#a0ef2835b702469482926ec4942d0f786", null ],
+    [ "m_sunsReachReclamationPlayers", "d6/db3/a12473.html#a72780ba8e17ccf5513d104eb228b3411", null ]
 ];

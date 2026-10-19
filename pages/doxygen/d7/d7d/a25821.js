@@ -1,9 +1,10 @@
 var a25821 =
 [
-    [ "CheckIfCorpseNear", "d7/d7d/a25821.html#a9b512f84f1d728e24845b6aaa28bdd6b", null ],
-    [ "HandleDummy", "d7/d7d/a25821.html#a913c0137d2a13c810bbae869cc6cf734", null ],
-    [ "Load", "d7/d7d/a25821.html#a3f36968d10bde12c7e2eda8db4145252", null ],
-    [ "PrepareSpellScript", "d7/d7d/a25821.html#acc7d6f489c34c3cc26f37bc94f8727e8", null ],
-    [ "Register", "d7/d7d/a25821.html#a736c4fe39e947ad98df19b3b001bdc29", null ],
-    [ "Validate", "d7/d7d/a25821.html#a51b075f95211025b2a7719a3ee70a6be", null ]
+    [ "Load", "d7/d7d/a25821.html#a04526f30ad35af3f629cdd0c8312e33c", null ],
+    [ "OnApply", "d7/d7d/a25821.html#a83d922c434442e22482410d61aa0198f", null ],
+    [ "OnPetApply", "d7/d7d/a25821.html#a6df5e59e29cb89310a1c78bf93029545", null ],
+    [ "OnRemove", "d7/d7d/a25821.html#aa4efa4ed7d98c63989353c398bb2b128", null ],
+    [ "PrepareAuraScript", "d7/d7d/a25821.html#a1b4d8f636c01f01bc9380c290de91a0e", null ],
+    [ "Register", "d7/d7d/a25821.html#a265726c9bfa180c3b8f470eb1eee837b", null ],
+    [ "Validate", "d7/d7d/a25821.html#ab318472ea9f4aaa79e45f18783586eed", null ]
 ];

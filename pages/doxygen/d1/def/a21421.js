@@ -1,8 +1,6 @@
 var a21421 =
 [
-    [ "CountTargets", "d1/def/a21421.html#aaf8528038c6b3172d4810ed773f71644", null ],
-    [ "HandleDummy", "d1/def/a21421.html#ac5fa1dd078656f7ae182ec18eddacfe3", null ],
-    [ "PrepareSpellScript", "d1/def/a21421.html#a1f31273cb1826cd07196eacfbdc46673", null ],
-    [ "Register", "d1/def/a21421.html#adce6a5d920ac616dc0579fcd96c49288", null ],
-    [ "_targetCount", "d1/def/a21421.html#acfd8832cb9a197dddb034a003b318911", null ]
+    [ "npc_frenzied_worgenAI", "de/d78/a21425.html", "de/d78/a21425" ],
+    [ "npc_frenzied_worgen", "d1/def/a21421.html#ad46eb89ab86876950652f6dd6b7dc91a", null ],
+    [ "GetAI", "d1/def/a21421.html#a1ed46e8e6bd001f8f35492f340ab1d56", null ]
 ];

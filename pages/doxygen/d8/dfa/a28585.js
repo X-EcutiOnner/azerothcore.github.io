@@ -1,8 +1,6 @@
 var a28585 =
 [
-    [ "npc_nelsonAI", "d9/dc2/a28589.html", "d9/dc2/a28589" ],
-    [ "npc_nelson", "d8/dfa/a28585.html#ada597926a6db1aa7823ddabc19945b11", null ],
-    [ "GetAI", "d8/dfa/a28585.html#a75fea281fb49249345c48236bf44b1c8", null ],
-    [ "OnGossipHello", "d8/dfa/a28585.html#aa693b365a15d4617f214f9c3c229bf89", null ],
-    [ "OnGossipSelect", "d8/dfa/a28585.html#aff8e412cfcabd7b653cd30d29878be6a", null ]
+    [ "npc_innkeeper", "d8/dfa/a28585.html#a006f27d898ead8827d8b98d8b93d430d", null ],
+    [ "OnGossipHello", "d8/dfa/a28585.html#ae65c5cd7d3e270b2e50f80c0e12a72ff", null ],
+    [ "OnGossipSelect", "d8/dfa/a28585.html#ab6cf511f5b032050336a77d1e4598dda", null ]
 ];

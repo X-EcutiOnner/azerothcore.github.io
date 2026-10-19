@@ -1,6 +1,8 @@
 var a15441 =
 [
-    [ "instance_the_black_morass_InstanceMapScript", "d1/d77/a15445.html", "d1/d77/a15445" ],
-    [ "instance_the_black_morass", "d4/d0f/a15441.html#aa59c960a89dbd66a4c0ad2105792efb4", null ],
-    [ "GetInstanceScript", "d4/d0f/a15441.html#a44b01fc7ab23c8f4ecfa1e375a237463", null ]
+    [ "npc_thrall_old_hillsbradAI", "d1/d77/a15445.html", "d1/d77/a15445" ],
+    [ "npc_thrall_old_hillsbrad", "d4/d0f/a15441.html#a3e6fa750b095af3beac806a619e18328", null ],
+    [ "GetAI", "d4/d0f/a15441.html#a7b7baeb3e2e33dcb4ffb0af5d1f5930c", null ],
+    [ "OnGossipHello", "d4/d0f/a15441.html#a9b3f622ab9c0dc06011cb36cd084f2e7", null ],
+    [ "OnGossipSelect", "d4/d0f/a15441.html#a17fcb00850503903f430506654e035c0", null ]
 ];

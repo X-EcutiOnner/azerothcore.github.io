@@ -1,6 +1,6 @@
 var a24401 =
 [
-    [ "PrepareSpellScript", "de/d36/a24401.html#aa858fff409e5c75d865c91cb5fbef679", null ],
-    [ "Register", "de/d36/a24401.html#a0deddf7497d3bdb82901d612dce28dc9", null ],
-    [ "SetDest", "de/d36/a24401.html#a7b9a31e79d13af130566cda1fcb5dac1", null ]
+    [ "npc_torloth_the_magnificentAI", "db/da5/a24405.html", "db/da5/a24405" ],
+    [ "npc_torloth_the_magnificent", "de/d36/a24401.html#a252796a19dcebe210eecb4d9ae150e5d", null ],
+    [ "GetAI", "de/d36/a24401.html#a94c206fb75cc6f50c6127908b5b5205f", null ]
 ];

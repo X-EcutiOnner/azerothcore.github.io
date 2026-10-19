@@ -1,8 +1,13 @@
 var a21577 =
 [
-    [ "boss_moragg", "d6/de8/a21577.html#a42d2508369286e5e635d47cce0b939f4", null ],
-    [ "EnterEvadeMode", "d6/de8/a21577.html#a0ac597810a43e30c2cffcc4c878a9998", null ],
-    [ "ExecuteEvent", "d6/de8/a21577.html#a945fbf776bb47484d7a4434ee3a630ed", null ],
-    [ "JustEngagedWith", "d6/de8/a21577.html#a29da7214373c1919b65f3512655c8bc3", null ],
-    [ "MoveInLineOfSight", "d6/de8/a21577.html#ab70b1a6d9c05e191880f0532b775c6f2", null ]
+    [ "boss_toravonAI", "d6/de8/a21577.html#a98474fcfbc56c7850ae054b7489eaa4f", null ],
+    [ "AttackStart", "d6/de8/a21577.html#ac4e2ed28ba7863630cd54c8f6c11455f", null ],
+    [ "JustDied", "d6/de8/a21577.html#ad501bb34a0014be0abc965aae5383e21", null ],
+    [ "JustEngagedWith", "d6/de8/a21577.html#af6a6cfd1ec54546c2e70ea60f871b564", null ],
+    [ "JustSummoned", "d6/de8/a21577.html#a431dafbcc3a6581d771e810a85a92a0b", null ],
+    [ "Reset", "d6/de8/a21577.html#a4af8eb8863e7ee1559bc156b7f28e8d8", null ],
+    [ "UpdateAI", "d6/de8/a21577.html#a97c16b1689cfdb7fa680381964cb272a", null ],
+    [ "events", "d6/de8/a21577.html#ae2a3b691f1580275228204ea8ccaf846", null ],
+    [ "pInstance", "d6/de8/a21577.html#a912bcccd309ccd1f043c5aae633e78fe", null ],
+    [ "summons", "d6/de8/a21577.html#a56ca98fa12190d6d9d459bc5e569ae04", null ]
 ];

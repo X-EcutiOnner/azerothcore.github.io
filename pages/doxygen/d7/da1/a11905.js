@@ -1,9 +1,8 @@
 var a11905 =
 [
-    [ "SpellEvent", "d7/da1/a11905.html#abca64eb7d39df9788cef9df7e8634368", null ],
-    [ "~SpellEvent", "d7/da1/a11905.html#a01f8ea354ef70d0a2ee7b88b8dd9f68e", null ],
-    [ "Abort", "d7/da1/a11905.html#ac21656467ae71def45fd78b9d1fa1c30", null ],
-    [ "Execute", "d7/da1/a11905.html#ac8158bfbe916ff6207b2f6608308ae24", null ],
-    [ "IsDeletable", "d7/da1/a11905.html#a2ecd9b31bacc717cc509eb9bb69c3cb3", null ],
-    [ "m_Spell", "d7/da1/a11905.html#a22cce1d722f5086932ae3e97c58d2921", null ]
+    [ "SkillExtraItemEntry", "d7/da1/a11905.html#a3f7a8bc0b81407e7d5567c7da3e65ec5", null ],
+    [ "SkillExtraItemEntry", "d7/da1/a11905.html#a39a44cb09912cb0a15a5dd3b18787d16", null ],
+    [ "additionalCreateChance", "d7/da1/a11905.html#a299d886468e9caf22f9d6ce80a64c247", null ],
+    [ "newMaxOrEntry", "d7/da1/a11905.html#adfda967d36154b039495f0b289a5c9d1", null ],
+    [ "requiredSpecialization", "d7/da1/a11905.html#a0ba0ba6f012a10b717ca4e6c2f46cf26", null ]
 ];

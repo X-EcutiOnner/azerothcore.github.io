@@ -1,7 +1,7 @@
 var a10109 =
 [
-    [ "extended", "d4/d2e/a10109.html#a6cd2390616ebbc07b0fa55886d1e545d", null ],
-    [ "guidLow", "d4/d2e/a10109.html#a6d6358cd25aaf909fb02e01b994a6a92", null ],
-    [ "instanceId", "d4/d2e/a10109.html#a3f4f3f829d354ccc92491445d1efd1b2", null ],
-    [ "perm", "d4/d2e/a10109.html#a73b641d14a2d5d9781f706ccc2865415", null ]
+    [ "InstancePlayerBind", "d4/d2e/a10109.html#abc20bba094d04eb724d03b8290102981", null ],
+    [ "extended", "d4/d2e/a10109.html#a9327f62b74eea3a1a525b2fec6d90b69", null ],
+    [ "perm", "d4/d2e/a10109.html#ab35249eb791941b484ecc321b1102b24", null ],
+    [ "save", "d4/d2e/a10109.html#a24ef1e0e0a38033a16b697c32e3d8234", null ]
 ];

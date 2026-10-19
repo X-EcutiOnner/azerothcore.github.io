@@ -1,8 +1,8 @@
 var a06533 =
 [
-    [ "GuardAI", "d4/dd4/a06533.html#ac1f0ba47d8e32c65845808170330b7af", null ],
-    [ "EnterEvadeMode", "d4/dd4/a06533.html#af021cc31298d4a0f38a7d82ac8e02e30", null ],
-    [ "JustDied", "d4/dd4/a06533.html#a96820cdcb632d3a71f9deacf4998a774", null ],
-    [ "Permissible", "d4/dd4/a06533.html#a238f38bd3fc7cfa8ace3549f4a6199fb", null ],
-    [ "Reset", "d4/dd4/a06533.html#a91b12b6a50641d17a79550b9ffb5284a", null ]
+    [ "ArcherAI", "d4/dd4/a06533.html#a113c138958054716182c15ee9f2b47da", null ],
+    [ "AttackStart", "d4/dd4/a06533.html#adc79f7ead63ecaf8fed9ea4f81d27f76", null ],
+    [ "Permissible", "d4/dd4/a06533.html#ac5b3d144b0d71a5e527d53f33c3d31cc", null ],
+    [ "UpdateAI", "d4/dd4/a06533.html#aa6e072e239549d337de61670a05eb6f8", null ],
+    [ "m_minRange", "d4/dd4/a06533.html#ab449efcd81769888ff8d8bc5f348cbe7", null ]
 ];

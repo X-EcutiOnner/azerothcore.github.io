@@ -1,5 +1,5 @@
 var a29485 =
 [
-    [ "CastTime", "d9/d86/a29485.html#af0bf895b1a5d61974cb63230b786c55e", null ],
-    [ "ID", "d9/d86/a29485.html#a41b1059fc4059bd198925861a9414497", null ]
+    [ "Id", "d9/d86/a29485.html#a44532f8af054ae5224f5e816c3c9a8a7", null ],
+    [ "PowerType", "d9/d86/a29485.html#ab6c17a5a3ba9f2f3a8fac125104703c4", null ]
 ];

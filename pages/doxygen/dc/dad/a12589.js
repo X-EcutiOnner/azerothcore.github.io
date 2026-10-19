@@ -1,10 +1,10 @@
 var a12589 =
 [
-    [ "mmaps_commandscript", "dc/dad/a12589.html#a1dbdfd26bdb685315a3012453080a56f", null ],
-    [ "GetCommands", "dc/dad/a12589.html#aec91072f9e651c9136bf1a405a9bb95a", null ],
-    [ "HandleMmapLoadedTilesCommand", "dc/dad/a12589.html#a40d5b7e733298210c686fe89490b6f61", null ],
-    [ "HandleMmapLocCommand", "dc/dad/a12589.html#aa3dc699456256d8b2ab9fdd97891bd96", null ],
-    [ "HandleMmapPathCommand", "dc/dad/a12589.html#a2c876439ad6d9ff7523f140d97743dea", null ],
-    [ "HandleMmapStatsCommand", "dc/dad/a12589.html#a823b56cdbb0c97176990bb01af9af9fc", null ],
-    [ "HandleMmapTestArea", "dc/dad/a12589.html#aaae2e5548a6bd9c670db0721ea7508bd", null ]
+    [ "item_commandscript", "dc/dad/a12589.html#a22f9cb46f2c3701fc5c9136c87c09435", null ],
+    [ "GetCommands", "dc/dad/a12589.html#aab60aa980ef0f86938cfcb51e7ee20a8", null ],
+    [ "HandleItemMoveCommand", "dc/dad/a12589.html#a6adae7cb08c0e69ac0a20c107f818a57", null ],
+    [ "HandleItemRefundCommand", "dc/dad/a12589.html#af914e33be05148062abd89c754d939c9", null ],
+    [ "HandleItemRestoreCommand", "dc/dad/a12589.html#a84c67a46c513c1aac2b9d2563d693929", null ],
+    [ "HandleItemRestoreListCommand", "dc/dad/a12589.html#a40181310f4187a71a6f5f5f600a8f468", null ],
+    [ "HasItemDeletionConfig", "dc/dad/a12589.html#a28d0b4083bf3352f80b6210f9ac00692", null ]
 ];

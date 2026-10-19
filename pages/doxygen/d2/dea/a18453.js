@@ -1,6 +1,6 @@
 var a18453 =
 [
-    [ "boss_rotfaceAI", "d8/def/a18457.html", "d8/def/a18457" ],
-    [ "boss_rotface", "d2/dea/a18453.html#a8896f5ed16c728d72a123b2e92a174fb", null ],
-    [ "GetAI", "d2/dea/a18453.html#a8a3ff9ef99da7d72ce2f7827bfc2564b", null ]
+    [ "HandleScript", "d2/dea/a18453.html#abd766c298f8aa363d28198b6a5d7e374", null ],
+    [ "PrepareSpellScript", "d2/dea/a18453.html#a5a4e7d674c09ebbbc9d918cf877418a3", null ],
+    [ "Register", "d2/dea/a18453.html#ae9bd26c97b3dc9c1af96304e3c67d532", null ]
 ];

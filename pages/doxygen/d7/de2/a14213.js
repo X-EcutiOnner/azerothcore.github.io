@@ -1,7 +1,9 @@
 var a14213 =
 [
-    [ "HandleScriptEffect", "d7/de2/a14213.html#a2ac898d186e755fbf3b3ae8812e8e579", null ],
-    [ "PrepareSpellScript", "d7/de2/a14213.html#ac3ee8d5d585eea8cbcd5e61c34c71fa5", null ],
-    [ "Register", "d7/de2/a14213.html#a99b753e49d18109e8c9c3ac7e616ce2c", null ],
-    [ "Validate", "d7/de2/a14213.html#a20f7416465ba1cc04426f24037e8074e", null ]
+    [ "npc_marzon_silent_bladeAI", "d7/de2/a14213.html#a9f29c3b56e26421dabc2c95b8cd0407e", null ],
+    [ "EnterEvadeMode", "d7/de2/a14213.html#a0b42596550d045f5ca0096ceee80c0ac", null ],
+    [ "JustEngagedWith", "d7/de2/a14213.html#a116b3458f342811e378713e6a67f76a6", null ],
+    [ "MovementInform", "d7/de2/a14213.html#a32201d45f0c19212becb6319a48366f8", null ],
+    [ "Reset", "d7/de2/a14213.html#a51c2b16c767ce2922564dc9e4048e089", null ],
+    [ "UpdateAI", "d7/de2/a14213.html#aa6686399b41d32429d530dcc2ec41185", null ]
 ];

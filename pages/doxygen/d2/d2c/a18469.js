@@ -1,6 +1,6 @@
 var a18469 =
 [
-    [ "npc_big_oozeAI", "d9/d48/a18473.html", "d9/d48/a18473" ],
-    [ "npc_big_ooze", "d2/d2c/a18469.html#a8ae667b2782c53cd808f2e02e29713ee", null ],
-    [ "GetAI", "d2/d2c/a18469.html#ad06308602d69b51ff3f269bda6c465b5", null ]
+    [ "OnRemove", "d2/d2c/a18469.html#a5b9f23b815b1c85ecf2e56c626ce5077", null ],
+    [ "PrepareAuraScript", "d2/d2c/a18469.html#a9207d9f59026e1beb7c266ee3a1ef884", null ],
+    [ "Register", "d2/d2c/a18469.html#ad9eb03a09fc13f6b2b30e9f6cc1990bc", null ]
 ];

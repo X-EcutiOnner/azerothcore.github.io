@@ -1,4 +1,7 @@
 var a29321 =
 [
-    [ "base", "da/d35/a29321.html#ad5e8b55760b9007284e8acf719d7647c", null ]
+    [ "EmoteType", "da/d35/a29321.html#a2d319652021081fdb02472c32a28e318", null ],
+    [ "Flags", "da/d35/a29321.html#aa1794d3ffd7f7da82f5754e1be580fe9", null ],
+    [ "Id", "da/d35/a29321.html#a3b3b641fbdb8dc88afc2421e358a75a1", null ],
+    [ "UnitStandState", "da/d35/a29321.html#ada83e548faa01917a5db19eaa15dbbec", null ]
 ];

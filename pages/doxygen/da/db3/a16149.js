@@ -1,6 +1,7 @@
 var a16149 =
 [
-    [ "npc_anachronos_quest_triggerAI", "d6/d1b/a16153.html", "d6/d1b/a16153" ],
-    [ "npc_anachronos_quest_trigger", "da/db3/a16149.html#ad39871952acd3152b51820fe360f4ebd", null ],
-    [ "GetAI", "da/db3/a16149.html#a2e0e6a69ed1cbed76db9c4bd64d51330", null ]
+    [ "npc_thrall_warchiefAI", "d6/d1b/a16153.html", "d6/d1b/a16153" ],
+    [ "npc_thrall_warchief", "da/db3/a16149.html#a3958f0b444537ac8a5ebf55de44e3590", null ],
+    [ "GetAI", "da/db3/a16149.html#a4fc3d5410b959b4289f1ced17d412c03", null ],
+    [ "OnQuestReward", "da/db3/a16149.html#a6576664c201d62cab1fa2f073cddee6e", null ]
 ];

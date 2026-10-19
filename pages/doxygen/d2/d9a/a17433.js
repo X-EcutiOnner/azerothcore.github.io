@@ -1,5 +1,8 @@
 var a17433 =
 [
-    [ "at_hor_shadow_throne", "d2/d9a/a17433.html#a342808808be75079acf6a2f930afe930", null ],
-    [ "OnTrigger", "d2/d9a/a17433.html#a47deb4d6506e859d90fcf16d72e43d9c", null ]
+    [ "npc_hor_leaderAI", "da/d04/a17437.html", "da/d04/a17437" ],
+    [ "npc_hor_leader", "d2/d9a/a17433.html#a5c8d6cce242d144755fb14879f7f17d3", null ],
+    [ "GetAI", "d2/d9a/a17433.html#a55e7357aa6dff1efdff08541e88413e9", null ],
+    [ "OnGossipHello", "d2/d9a/a17433.html#afb46ea0b6926ad5d9b87b1d6a5e04591", null ],
+    [ "OnGossipSelect", "d2/d9a/a17433.html#ab5d01ae2803bab43b2c701d0cb1d4280", null ]
 ];

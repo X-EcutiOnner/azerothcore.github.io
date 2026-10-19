@@ -1,15 +1,12 @@
 var a02303 =
 [
-    [ "Path", "dc/da4/a02303.html#a46d4fe7df18a42b31a3e2c1d50288507", null ],
-    [ "Apply", "dc/da4/a02303.html#a60aa8fdb745a17f1b3c03e87caf89cd5", null ],
-    [ "ApplyFile", "dc/da4/a02303.html#a38e70e24d58d7876f42d954d769852b2", null ],
-    [ "ApplyFile", "dc/da4/a02303.html#a1335aaca4f7fbac6a07960fa8d9c8e62", null ],
-    [ "CreateDatabase", "dc/da4/a02303.html#a23cdd10a64e2e376416e93949b5644ea", null ],
-    [ "PopulateDatabase", "dc/da4/a02303.html#a656a0a6d93f58d7d4cc2b1f99edb0c44", null ],
-    [ "Retrieve", "dc/da4/a02303.html#a3d6c6331ddb1b77d420f04cdb0d47c17", null ],
-    [ "UpdateDatabase", "dc/da4/a02303.html#abb1541bb142924d077074a145a6dc9d1", null ],
-    [ "UpdateDatabase", "dc/da4/a02303.html#ad9151ad93918459d42b5b2e92f5240c4", null ],
-    [ "DBUpdater< CharacterDatabaseConnection >", "dc/da4/a02303.html#a753e207671f7af3815a056247f2de3ce", null ],
-    [ "DBUpdater< LoginDatabaseConnection >", "dc/da4/a02303.html#a16a33693c8570aff221401b100547fb7", null ],
-    [ "DBUpdater< WorldDatabaseConnection >", "dc/da4/a02303.html#ace05c45d1df6cb7f16487ef1aa8bc9f7", null ]
+    [ "UpdateException", "d1/d40/a06329.html", "d1/d40/a06329" ],
+    [ "DBUpdaterUtil", "d8/d3c/a06333.html", "d8/d3c/a06333" ],
+    [ "DBUpdaterInfo", "dc/d17/a06337.html", "dc/d17/a06337" ],
+    [ "DBUpdater< T >", "de/d0d/a06341.html", "de/d0d/a06341" ],
+    [ "ModuleDBUpdater", "d5/d7b/a06345.html", "d5/d7b/a06345" ],
+    [ "BaseLocation", "dc/da4/a02303.html#a0c382fe144b0dc101a8b2b9d4ef51010", [
+      [ "LOCATION_REPOSITORY", "dc/da4/a02303.html#a0c382fe144b0dc101a8b2b9d4ef51010a7c7f50c7daf1a5f1773676cc90cc9550", null ],
+      [ "LOCATION_DOWNLOAD", "dc/da4/a02303.html#a0c382fe144b0dc101a8b2b9d4ef51010a02f1af050478ebf9488ea00a47c7e11c", null ]
+    ] ]
 ];

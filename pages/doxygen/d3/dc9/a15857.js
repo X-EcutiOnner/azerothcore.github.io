@@ -1,7 +1,6 @@
 var a15857 =
 [
-    [ "npc_anubisath_warder", "d3/dc9/a15857.html#aebe14673e5c31000a9626e39d87c6775", null ],
-    [ "JustEngagedWith", "d3/dc9/a15857.html#a579318fa519eb669573b2cea78c2fee3", null ],
-    [ "Reset", "d3/dc9/a15857.html#aea0fac8f1eb28591b141ace55c49beeb", null ],
-    [ "UpdateAI", "d3/dc9/a15857.html#aba428f1f1a016191aa4f168c616c3a29", null ]
+    [ "instance_temple_of_ahnqiraj_InstanceMapScript", "d6/d7d/a15861.html", "d6/d7d/a15861" ],
+    [ "instance_temple_of_ahnqiraj", "d3/dc9/a15857.html#a316c5e2cac59f2ee2520fba1b97407e3", null ],
+    [ "GetInstanceScript", "d3/dc9/a15857.html#a9e3060d9f2188f410da8aa3e9526e79d", null ]
 ];

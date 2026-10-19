@@ -1,7 +1,9 @@
 var a19633 =
 [
-    [ "HandleScript", "d9/da8/a19633.html#a66db3976fe6ec7ee8712c5788ce5f3ec", null ],
-    [ "PrepareAuraScript", "d9/da8/a19633.html#aa3053519be0101f55450d76b1291f0f7", null ],
-    [ "Register", "d9/da8/a19633.html#ada596a7f19115c7178fd07fb9e956f58", null ],
-    [ "Validate", "d9/da8/a19633.html#a768dec18bc0e879c457a64135ec27ad9", null ]
+    [ "boss_grobbulus_poison_cloudAI", "d9/da8/a19633.html#ac26671336eec2d84b56a3552d50f8e0a", null ],
+    [ "KilledUnit", "d9/da8/a19633.html#a9c6ce4ace426f2e7aba5a7bf9430bbe3", null ],
+    [ "Reset", "d9/da8/a19633.html#a1715ab3f3f25b56517f6ded84acdbd9f", null ],
+    [ "UpdateAI", "d9/da8/a19633.html#af1b8dafb0aa47ba22b3601d8bf639c22", null ],
+    [ "auraVisualTimer", "d9/da8/a19633.html#a74aea4294c26414d3b60983d14d36e31", null ],
+    [ "sizeTimer", "d9/da8/a19633.html#a73f775b30ad36a595e0d8532067ba042", null ]
 ];

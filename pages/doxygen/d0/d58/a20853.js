@@ -1,7 +1,27 @@
 var a20853 =
 [
-    [ "go_razorscale_harpoonAI", "d0/d58/a20853.html#afff12f330538843c477f75500f731ea3", null ],
-    [ "Reset", "d0/d58/a20853.html#aae5f0f7ff2b206872c02bd7da90afdc0", null ],
-    [ "UpdateAI", "d0/d58/a20853.html#a906b14e1bc6b71f95aa2fcde83846f0a", null ],
-    [ "_scheduler", "d0/d58/a20853.html#a6f6e325b1b1599f90173e8c8a68c7956", null ]
+    [ "boss_razorscale", "d0/d58/a20853.html#aa60eb42c00c6d801a7b716cea40412d2", null ],
+    [ "DamageTaken", "d0/d58/a20853.html#a7dc864d3e60c786cc8153121b39938c5", null ],
+    [ "DoAction", "d0/d58/a20853.html#a63e951ce71137869004732cfbecc6db3", null ],
+    [ "EnterEvadeMode", "d0/d58/a20853.html#acc55c1b00fbf1cdea8761eabe29a55d2", null ],
+    [ "GetData", "d0/d58/a20853.html#ae32fe4aba366d47133974787a250e9ac", null ],
+    [ "HandleMusic", "d0/d58/a20853.html#a997bbed5df4521b21b2749e47a2b8413", null ],
+    [ "Initialize", "d0/d58/a20853.html#abe14fe0e1c1afbfb9baa6c16b54a6191", null ],
+    [ "JustDied", "d0/d58/a20853.html#adad076aca788a317eb8085b22ae4d9ed", null ],
+    [ "JustEngagedWith", "d0/d58/a20853.html#ae30c01218215370bab7c5a139847c9dd", null ],
+    [ "JustSummoned", "d0/d58/a20853.html#a16cab59be86221b991f382529884b17e", null ],
+    [ "MovementInform", "d0/d58/a20853.html#a722509fba200d997e50dc586184019ec", null ],
+    [ "Reset", "d0/d58/a20853.html#a4fc8f1ff4490d419fd6fec0e4ed15a8b", null ],
+    [ "ScheduleAirEvents", "d0/d58/a20853.html#a809b1ee8e83d6de04f99b723b329c434", null ],
+    [ "ScheduleGroundEvents", "d0/d58/a20853.html#ac09d5428613218a18519c63e714c80ae", null ],
+    [ "SpellHit", "d0/d58/a20853.html#ad92c40cfcc483717bb8ca08214c22add", null ],
+    [ "SummonedCreatureDies", "d0/d58/a20853.html#a678ba10c9ab7af662c0a8e2dd9de6904", null ],
+    [ "SummonMinions", "d0/d58/a20853.html#a5d059d9571a04896c27fde1b6c5db4ce", null ],
+    [ "UpdateAI", "d0/d58/a20853.html#ab86a057182e956b50dd6a3016f6e2ffe", null ],
+    [ "_defenderCnt", "d0/d58/a20853.html#aa8e48aff86695d3469c7600ee1899f03", null ],
+    [ "_engineersAlive", "d0/d58/a20853.html#aaa9392649e8116370aace87b5927adb7", null ],
+    [ "_flyCount", "d0/d58/a20853.html#a2c65bb16401d956cbdf56923ad345015", null ],
+    [ "_harpoonHits", "d0/d58/a20853.html#a11481dd5ffe2abc73d40b0aa291c6475", null ],
+    [ "_permaGround", "d0/d58/a20853.html#a410854c247c7b28d3a933ef496988cb8", null ],
+    [ "_trapperCnt", "d0/d58/a20853.html#adde8b13457bb6376ec48492e689026f3", null ]
 ];

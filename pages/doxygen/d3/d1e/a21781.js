@@ -1,13 +1,9 @@
 var a21781 =
 [
-    [ "npc_preparations_for_war_vehicle", "d3/d1e/a21781.html#a56b37aa1c2b50cac4dfb6b907ffb6d48", null ],
-    [ "MovementInform", "d3/d1e/a21781.html#a5380670d521c7805a045aeac26c7c686", null ],
-    [ "PassengerBoarded", "d3/d1e/a21781.html#a84b4af01c9854cbae3fca5a59aa83763", null ],
-    [ "SpellHit", "d3/d1e/a21781.html#acf861b4dae849862241f6a6a8abdcdd8", null ],
-    [ "UpdateAI", "d3/d1e/a21781.html#ae40a23070d96ecf122e9de5571a845ef", null ],
-    [ "passenger_x", "d3/d1e/a21781.html#ac2eb8ea5fa8f5c5206ae799e4b74b213", null ],
-    [ "passenger_y", "d3/d1e/a21781.html#afd99c49b3c3b996c92def21229f1ec87", null ],
-    [ "passenger_z", "d3/d1e/a21781.html#a18d051868134d8c62f64923905bf19db", null ],
-    [ "searchForShipTimer", "d3/d1e/a21781.html#a49f8a43891d61460b1d6cdde610a2e88", null ],
-    [ "transportEntry", "d3/d1e/a21781.html#aa0083566387cd42750aaa56b1fa23fed", null ]
+    [ "npc_warmage_coldarraAI", "d3/d1e/a21781.html#a9a8c2afff61ad8457aab8a9c23a4b755", null ],
+    [ "AttackStart", "d3/d1e/a21781.html#a41277824ae3f6bd9a099894b6dfc7537", null ],
+    [ "JustEngagedWith", "d3/d1e/a21781.html#a23a8999e34142201c6ceadc64a3df6c2", null ],
+    [ "Reset", "d3/d1e/a21781.html#adf5094ba2bee34ec793124e798d5af8f", null ],
+    [ "UpdateAI", "d3/d1e/a21781.html#a14b221265cc38b4061c52b687274a398", null ],
+    [ "m_uiTimer", "d3/d1e/a21781.html#a338ad26d40d395dfc6ed7e8fedcc6d60", null ]
 ];

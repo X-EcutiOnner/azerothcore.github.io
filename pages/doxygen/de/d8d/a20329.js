@@ -1,6 +1,5 @@
 var a20329 =
 [
-    [ "npc_pool_of_tar", "de/d8d/a20329.html#a03de46dfa133992d094ab607a49b7236", null ],
-    [ "DamageTaken", "de/d8d/a20329.html#ac72ad742cb16e27abf25fe0e88408315", null ],
-    [ "SpellHit", "de/d8d/a20329.html#a61886862df88b41bf0c6959c9a564cea", null ]
+    [ "achievement_auriaya_nine_lives", "de/d8d/a20329.html#a750304bc946a7ecefec29dc18c429d3b", null ],
+    [ "OnCheck", "de/d8d/a20329.html#ae1b7ee75a3e7343c3f5f8043b4e39362", null ]
 ];

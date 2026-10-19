@@ -1,7 +1,6 @@
 var a15253 =
 [
-    [ "OnPeriodic", "db/d9d/a15253.html#a4ed63f32afe3831d7fb08333ff1d379f", null ],
-    [ "PrepareAuraScript", "db/d9d/a15253.html#a74be4e2b0f9c6254a87a7cfb8159fc9b", null ],
-    [ "Register", "db/d9d/a15253.html#aeb388d608830aeb3b30f707304403b41", null ],
-    [ "Validate", "db/d9d/a15253.html#af27768000c5c3232a1264f4f1f2bd7b3", null ]
+    [ "HandleHit", "db/d9d/a15253.html#aec32d6b45bdcfe3a6a32c2fb7558edd1", null ],
+    [ "PrepareSpellScript", "db/d9d/a15253.html#a31fdc4d630a4a6647d2a9b1100aecdad", null ],
+    [ "Register", "db/d9d/a15253.html#a64a861b5c25df5780390aa55899393d7", null ]
 ];

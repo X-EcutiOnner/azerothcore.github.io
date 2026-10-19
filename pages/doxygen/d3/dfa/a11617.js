@@ -1,7 +1,6 @@
 var a11617 =
 [
-    [ "PetActionSound", "d3/dfa/a11617.html#ae20a837d2b3f647d2a1d7c5e398b7b56", null ],
-    [ "Write", "d3/dfa/a11617.html#a8627631f2eb7d93cda52ce09a749fb0c", null ],
-    [ "Action", "d3/dfa/a11617.html#a25b3a4b44bcda9bec898aca1a88b90ed", null ],
-    [ "UnitGUID", "d3/dfa/a11617.html#a32b15c490da02bc5020653a9e9bfbd68", null ]
+    [ "PetAbandon", "d3/dfa/a11617.html#aeac05969ce6bdb41a02f7ffe56126dfd", null ],
+    [ "Read", "d3/dfa/a11617.html#a58ebb244de4bd65a85f75dcc24250883", null ],
+    [ "PetGUID", "d3/dfa/a11617.html#a7175c081b7cb691ceb4729c1abc5028e", null ]
 ];

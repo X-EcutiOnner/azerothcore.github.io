@@ -1,5 +1,7 @@
 var a28749 =
 [
-    [ "npc_stable_masterAI", "d3/d0b/a28749.html#a5c6f9bca1004af163ddb074b606330be", null ],
-    [ "sGossipSelect", "d3/d0b/a28749.html#a09205661674dd011ffe425deaadde053", null ]
+    [ "npc_steam_tonkAI", "d3/d0b/a28749.html#a64bc74af412304d50526e5c93e01a333", null ],
+    [ "JustEngagedWith", "d3/d0b/a28749.html#a95b023adf0a2e62788e0d5646b17b319", null ],
+    [ "OnPossess", "d3/d0b/a28749.html#a954208c1a9826ae84a7402f59e1d7055", null ],
+    [ "Reset", "d3/d0b/a28749.html#a5c76625843b30302b2af0a4ae8b85bd2", null ]
 ];

@@ -1,6 +1,8 @@
 var a27005 =
 [
-    [ "FilterTargets", "d2/def/a27005.html#a17626abdbc4066956b76945b11b3f0c6", null ],
-    [ "PrepareSpellScript", "d2/def/a27005.html#abfeb75060c1f930b33003dd1e458f882", null ],
-    [ "Register", "d2/def/a27005.html#a8e5146a57f181b17280d198bcd2e216d", null ]
+    [ "CheckCast", "d2/def/a27005.html#a5fc226206c08aa65459c144cd5f34c6c", null ],
+    [ "PrepareSpellScript", "d2/def/a27005.html#a1c0f324c7c2f2799990dcc116edd69cf", null ],
+    [ "Register", "d2/def/a27005.html#a35239e58eb76c0ffe74e0feee2250fa1", null ],
+    [ "TriggerDebuffs", "d2/def/a27005.html#a1579b28071e2194625f722a29ded39b8", null ],
+    [ "Validate", "d2/def/a27005.html#a767853d4b05e055cb32991bfe8c6516a", null ]
 ];

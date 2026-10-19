@@ -1,6 +1,11 @@
 var a24009 =
 [
-    [ "HandlePeriodic", "d4/db8/a24009.html#a0a6da7aad8b7fcc92092f7a3c5bc0768", null ],
-    [ "PrepareAuraScript", "d4/db8/a24009.html#a75d72d196ded2ee109d0231d4342890a", null ],
-    [ "Register", "d4/db8/a24009.html#a148013ea68bbc573bddc1c3639dba019", null ]
+    [ "boss_high_astromancer_solarian", "d4/db8/a24009.html#a2db48cc179539f81b55188de08a7e180", null ],
+    [ "AttackStart", "d4/db8/a24009.html#acaf94134aef553447e766a5e431c8b83", null ],
+    [ "JustDied", "d4/db8/a24009.html#a510eb2e4f0770670d6767bc2545375b7", null ],
+    [ "JustEngagedWith", "d4/db8/a24009.html#a86cd2162187f1a81932000ca1cfb7f85", null ],
+    [ "JustSummoned", "d4/db8/a24009.html#ac5b209a45a5a3ea2a8421706d181a827", null ],
+    [ "KilledUnit", "d4/db8/a24009.html#a561a78193615575b7e43e0f21387f1b8", null ],
+    [ "Reset", "d4/db8/a24009.html#a58cbb2c8a6c30855a0f9f2275338c1b5", null ],
+    [ "UpdateAI", "d4/db8/a24009.html#a07a76c34a978c31212390cf10ed3e382", null ]
 ];

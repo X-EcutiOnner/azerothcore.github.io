@@ -1,5 +1,5 @@
 var a28201 =
 [
-    [ "AreaTrigger_at_last_rites", "d5/d67/a28201.html#a30d1930c76920ab12cf4f9b04fd5f0e4", null ],
-    [ "OnTrigger", "d5/d67/a28201.html#a48f6e2041cda24812a165fa0fb62f1b6", null ]
+    [ "achievement_sa_defense_of_the_ancients", "d5/d67/a28201.html#a678cffdece32710a42a92db0c092f3a5", null ],
+    [ "OnCheck", "d5/d67/a28201.html#af23e346f9b022f490b84c8081f847a2f", null ]
 ];

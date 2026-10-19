@@ -1,6 +1,6 @@
 var a13561 =
 [
-    [ "HandleDummy", "d6/df5/a13561.html#a30b184682d9d7e5cd992b033bf089589", null ],
-    [ "PrepareSpellScript", "d6/df5/a13561.html#a4499d38e1bb64a76ada4d47ae5aa72a9", null ],
-    [ "Register", "d6/df5/a13561.html#a8c30b2d7ad63280b3d0721c5ded43609", null ]
+    [ "boss_garaxxas", "d6/df5/a13561.html#af34e3ef5dac400fb7c217f46345ee9bb", null ],
+    [ "JustEngagedWith", "d6/df5/a13561.html#aebfd7b63d714468ed69e920fb89c345d", null ],
+    [ "Reset", "d6/df5/a13561.html#a56e6489ce49971cb066444888355626e", null ]
 ];

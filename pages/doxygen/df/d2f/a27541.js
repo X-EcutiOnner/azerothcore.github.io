@@ -1,6 +1,8 @@
 var a27541 =
 [
-    [ "FilterTargets", "df/d2f/a27541.html#a34ca370993295225a779ee6537295112", null ],
-    [ "PrepareSpellScript", "df/d2f/a27541.html#a523cf0c9aa9b3cf81c0cadd39252dd0f", null ],
-    [ "Register", "df/d2f/a27541.html#a0c23c8b0fe938fd7556663880f40b9ef", null ]
+    [ "HandleRootRemove", "df/d2f/a27541.html#a9678ce2254825b67eb7a16312e960ba9", null ],
+    [ "HandleSnareRemove", "df/d2f/a27541.html#a6a0716f500b3926e66c62a038a1e03d3", null ],
+    [ "PrepareSpellScript", "df/d2f/a27541.html#ab9dc5e2516e269b968cb995040bc00a0", null ],
+    [ "Register", "df/d2f/a27541.html#a119675dccea898932ca090577022b6ba", null ],
+    [ "Validate", "df/d2f/a27541.html#a1a90cf531ba1131952161ff9d10b2cb7", null ]
 ];

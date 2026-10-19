@@ -1,7 +1,8 @@
 var a12809 =
 [
-    [ "boss_magmus", "dc/d36/a12809.html#aacd115473f44148837153a3a5842748c", null ],
-    [ "JustEngagedWith", "dc/d36/a12809.html#a810cd11145957fe02f2099e9db7e59c8", null ],
-    [ "Reset", "dc/d36/a12809.html#af12976d66c690add0d08968799946174", null ],
-    [ "UpdateAI", "dc/d36/a12809.html#ab3e7dc0c1917a67ee9fe532239125b00", null ]
+    [ "npc_burning_spirit", "dc/d36/a12809.html#acb0a685ea9aaddd23580ebeb4a0f1e45", null ],
+    [ "EnterEvadeMode", "dc/d36/a12809.html#a162d280d1fc53de0655c99efce81c539", null ],
+    [ "IsSummonedBy", "dc/d36/a12809.html#a3ef47ad5f1697f3a890469412e43c452", null ],
+    [ "MovementInform", "dc/d36/a12809.html#a4c001de653aa8b096552247f5cbf1573", null ],
+    [ "_flamelasherGUID", "dc/d36/a12809.html#aea694b777b8437b5909bd668279837b1", null ]
 ];

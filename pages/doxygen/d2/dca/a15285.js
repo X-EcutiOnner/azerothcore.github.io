@@ -1,6 +1,9 @@
 var a15285 =
 [
-    [ "HandleHeal", "d2/dca/a15285.html#a953536a9a393af9472bdd89018449df0", null ],
-    [ "PrepareSpellScript", "d2/dca/a15285.html#a70503fc6042001a860d361f2597b7153", null ],
-    [ "Register", "d2/dca/a15285.html#a383479896e6deb96e50b827370ccfd4d", null ]
+    [ "boss_rage_winterchill", "d2/dca/a15285.html#a66fed2a7cc6135d41a2c40bdf4ffe02e", null ],
+    [ "DoAction", "d2/dca/a15285.html#a45333aea6d6a180473ca4823ea83920a", null ],
+    [ "JustDied", "d2/dca/a15285.html#ab10c7df81a9e71b2c114465c30e40a9b", null ],
+    [ "JustEngagedWith", "d2/dca/a15285.html#ad36a840c65949c54d5ee3ae8cb6f1f7b", null ],
+    [ "KilledUnit", "d2/dca/a15285.html#a69d69530a080379add7be73c552f4937", null ],
+    [ "PathEndReached", "d2/dca/a15285.html#aec47befdf3246710a5158780fa797fa7", null ]
 ];

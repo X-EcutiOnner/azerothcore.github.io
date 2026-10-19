@@ -1,5 +1,4 @@
 var a03668 =
 [
-    [ "CellArea", "d0/d6f/a09547.html", "d0/d6f/a09547" ],
-    [ "Cell", "d0/ddd/a09551.html", "d0/ddd/a09551" ]
+    [ "MapGrid< GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES >", "d6/d09/a09665.html", "d6/d09/a09665" ]
 ];

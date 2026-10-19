@@ -1,8 +1,6 @@
 var a20529 =
 [
-    [ "npc_ulduar_flash_freeze", "d7/de1/a20529.html#a3ee1762e2e3a8a180cb38fad26b70002", null ],
-    [ "DamageTaken", "d7/de1/a20529.html#af381d671e1b64c6135ed6c76b1eef213", null ],
-    [ "UpdateAI", "d7/de1/a20529.html#a2e3d6fdf6366b71b6696e567da912c1d", null ],
-    [ "_instance", "d7/de1/a20529.html#ab02f8319a4f2aa0b6c9e5a0134de73fc", null ],
-    [ "timer", "d7/de1/a20529.html#a016272492e1843b09c7c8b40537a463a", null ]
+    [ "npc_ulduar_saronite_vapors", "d7/de1/a20529.html#af8d7e273a01b54bd5b96f186501f38c5", null ],
+    [ "JustDied", "d7/de1/a20529.html#a64254becffe74a7d06c09a3b0e2b4428", null ],
+    [ "_instance", "d7/de1/a20529.html#ad304110ff1bfc33066cd17f04cf40181", null ]
 ];

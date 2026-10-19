@@ -1,11 +1,7 @@
 var a18669 =
 [
-    [ "NonTankLKTargetSelector", "d2/d28/a18669.html#a41c5372505c0c74e93f2c583a0259777", null ],
-    [ "operator()", "d2/d28/a18669.html#a2e496088092b9885f8e2391c2df91993", null ],
-    [ "_exclude1", "d2/d28/a18669.html#abe4e56597fa2918b15a003413887ac71", null ],
-    [ "_exclude2", "d2/d28/a18669.html#a6aa63c93c4e68998f621349760d9ab43", null ],
-    [ "_maxDist", "d2/d28/a18669.html#ac7e28c908079fbd2e1ca5374731d521e", null ],
-    [ "_playerOnly", "d2/d28/a18669.html#a5ab89af79aa4840c9a024996a848540c", null ],
-    [ "_reqLOS", "d2/d28/a18669.html#a61966d6b825f25b6bbf589676cef19f9", null ],
-    [ "_source", "d2/d28/a18669.html#a86e3ebd2425b76103df7413b5ed4af70", null ]
+    [ "HandleTriggerMissile", "d2/d28/a18669.html#af6370594be48d35a12009fa10a38d91d", null ],
+    [ "PrepareSpellScript", "d2/d28/a18669.html#aeeca4381273f382c3abb68f34d229213", null ],
+    [ "Register", "d2/d28/a18669.html#a0b79f5ee23e53c18277712f1b26e13f3", null ],
+    [ "Validate", "d2/d28/a18669.html#abe0b9290ddf9beaa60a583840d90d914", null ]
 ];

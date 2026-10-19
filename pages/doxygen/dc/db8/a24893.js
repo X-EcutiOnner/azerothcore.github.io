@@ -1,7 +1,7 @@
 var a24893 =
 [
-    [ "OnRemove", "dc/db8/a24893.html#aae9f02415a256ce01b81c3dd6fdafb33", null ],
-    [ "PrepareAuraScript", "dc/db8/a24893.html#ad27880f797137cae09381e860727e2f7", null ],
-    [ "Register", "dc/db8/a24893.html#a6c105609c1ee61a8f845018550b2e3ba", null ],
-    [ "Validate", "dc/db8/a24893.html#ac1f03d22c5fdb1c07a0e0859e08bd561", null ]
+    [ "HandleProc", "dc/db8/a24893.html#a393909e3765443aa4930d8036c36b132", null ],
+    [ "PrepareAuraScript", "dc/db8/a24893.html#aeaacd337fd8a02e7c19ead8912fc68d9", null ],
+    [ "Register", "dc/db8/a24893.html#af37fd1db3dc6cbbe985734853ea59109", null ],
+    [ "Validate", "dc/db8/a24893.html#a0966b67c38486fb32c3e442f388320b1", null ]
 ];

@@ -1,9 +1,7 @@
 var a23041 =
 [
-    [ "FilterTargets", "d5/d83/a23041.html#aa8f0401dd004e816b8071381289116fa", null ],
-    [ "HandleTeleportUnits", "d5/d83/a23041.html#a4333f10a29ef3e5643f637899a0ab5c5", null ],
-    [ "PrepareSpellScript", "d5/d83/a23041.html#a47898c213cdd125714c80d327bf42d8c", null ],
-    [ "Register", "d5/d83/a23041.html#a6036577cd7b4fbbc55e90e9ab067f13a", null ],
-    [ "SetDest", "d5/d83/a23041.html#a4cf75d96a0d1de62bc989826204b04c9", null ],
-    [ "Validate", "d5/d83/a23041.html#a814083360970284a325621f45e109b5b", null ]
+    [ "boss_veras_darkshadow", "d5/d83/a23041.html#a7b33a5c8257954951ed19a2f8ce17b95", null ],
+    [ "JustEngagedWith", "d5/d83/a23041.html#a5eec3e70a7950073eced60d680ff6298", null ],
+    [ "JustSummoned", "d5/d83/a23041.html#afd6cb716cfdebccde99d71e1eb797d33", null ],
+    [ "UpdateAI", "d5/d83/a23041.html#a21f23998e3c3ecb79cbfa3c0d778f2d5", null ]
 ];

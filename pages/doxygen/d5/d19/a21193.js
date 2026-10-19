@@ -1,6 +1,7 @@
 var a21193 =
 [
-    [ "FilterTargets", "d5/d19/a21193.html#a8303045991c638e87c72940174f69a7f", null ],
-    [ "PrepareSpellScript", "d5/d19/a21193.html#a18fdfdfa7f90a903086902d249678565", null ],
-    [ "Register", "d5/d19/a21193.html#af8d3f834e06a543a96065102fa78bc5c", null ]
+    [ "FilterTargets", "d5/d19/a21193.html#a4e27a01b87e6f003ed52da45a4bda403", null ],
+    [ "HandleDummyEffect", "d5/d19/a21193.html#abfe7ff12346d54fe3a0c1450897e58ee", null ],
+    [ "PrepareSpellScript", "d5/d19/a21193.html#a0c31912e28eaa5922edb1ca4c7689883", null ],
+    [ "Register", "d5/d19/a21193.html#a337cdb940a2001ac370768b02126d3c0", null ]
 ];

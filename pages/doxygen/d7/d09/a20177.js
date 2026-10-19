@@ -1,8 +1,6 @@
 var a20177 =
 [
-    [ "HandlePeriodic", "d7/d09/a20177.html#a2724a85983561a14db8b06ae492ead55", null ],
-    [ "OnRemove", "d7/d09/a20177.html#a6d0f941f30d8c850e48396fffd13768d", null ],
-    [ "PrepareAuraScript", "d7/d09/a20177.html#aea9d38dc7fdff6d38d252bb5ded57d78", null ],
-    [ "Register", "d7/d09/a20177.html#a85270947972be9c299a642b31969ef68", null ],
-    [ "Validate", "d7/d09/a20177.html#a91ebb4e69d02deb5129965f543c474d1", null ]
+    [ "instance_halls_of_stone_InstanceMapScript", "d4/d90/a20181.html", "d4/d90/a20181" ],
+    [ "instance_halls_of_stone", "d7/d09/a20177.html#ad0237cfaf2e48036f45181fd7746df2b", null ],
+    [ "GetInstanceScript", "d7/d09/a20177.html#a784906c7710a216016101cf7a6a915f3", null ]
 ];

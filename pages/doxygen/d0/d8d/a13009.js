@@ -1,10 +1,6 @@
 var a13009 =
 [
-    [ "npc_corrupted_totem", "d0/d8d/a13009.html#a5e0c58b341fe25a5d682b68e9eee207f", null ],
-    [ "IsSummonedBy", "d0/d8d/a13009.html#ae8314903c9006b7bca94a47115a0d05b", null ],
-    [ "JustDied", "d0/d8d/a13009.html#aa3c6b1a3df61c9e98c62efadff637578", null ],
-    [ "Reset", "d0/d8d/a13009.html#a0bc8df2b8266b7b3a5f40f1ede0e10b4", null ],
-    [ "SetAura", "d0/d8d/a13009.html#a509688befda49f789f77ee0e4170a74e", null ],
-    [ "UpdateAI", "d0/d8d/a13009.html#ac128625268820d2e9b1f0ef5ead975e9", null ],
-    [ "_auraAdded", "d0/d8d/a13009.html#a953cf5af625b9b5a4ab6704d5b1b664c", null ]
+    [ "go_chromaggus_lever", "d0/d8d/a13009.html#aa592f93028e323ed10102121d2d6b20e", null ],
+    [ "GossipHello", "d0/d8d/a13009.html#abfb91ccfeb90152dc252f0110fb51715", null ],
+    [ "_instance", "d0/d8d/a13009.html#a481373f4c49d76d3d0a41efcf2821f8f", null ]
 ];

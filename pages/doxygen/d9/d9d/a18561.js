@@ -1,6 +1,7 @@
 var a18561 =
 [
-    [ "CheckProc", "d9/d9d/a18561.html#ad701d353f03eb5a1ccca28a6530555db", null ],
-    [ "PrepareAuraScript", "d9/d9d/a18561.html#a51794aa0a42180d9a0f4e9f6d5febca4", null ],
-    [ "Register", "d9/d9d/a18561.html#a4f787e29064c15f4dad9047ff618982a", null ]
+    [ "FrostBombExplosion", "d9/d9d/a18561.html#ac7d318e241e6442e8aa084b27ea50236", null ],
+    [ "Execute", "d9/d9d/a18561.html#a0b6521266f18b621260286c530ff3f36", null ],
+    [ "_owner", "d9/d9d/a18561.html#aa9ff39ce43c351e8815f895896fa759b", null ],
+    [ "_sindragosaGUID", "d9/d9d/a18561.html#a5afc3d543c8fa457c90735f841aa161c", null ]
 ];

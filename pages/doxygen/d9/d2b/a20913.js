@@ -1,14 +1,6 @@
 var a20913 =
 [
-    [ "boss_thorim_start_npcs", "d9/d2b/a20913.html#a3ed7da48fc86ea00124181bb943a778d", null ],
-    [ "DamageTaken", "d9/d2b/a20913.html#a4821ee0619dac4cdcd9434f57d83f0c9", null ],
-    [ "JustEngagedWith", "d9/d2b/a20913.html#a636dd7264dd01aa5fc3c69af17425103", null ],
-    [ "JustReachedHome", "d9/d2b/a20913.html#a1a297f2937ab9ca9a13de939ba6f6522", null ],
-    [ "Reset", "d9/d2b/a20913.html#a37092466e579fe54a1dffe2ae0a2f689", null ],
-    [ "SetGUID", "d9/d2b/a20913.html#aed0b8ed5c502b47e7274af920b9e927b", null ],
-    [ "StartMockBattle", "d9/d2b/a20913.html#aa5566eb0feda227eb150ffe61fc3c67d", null ],
-    [ "UpdateAI", "d9/d2b/a20913.html#a7cca60ceab19727e68fcd4a3629978c4", null ],
-    [ "_isCaster", "d9/d2b/a20913.html#aa3c48c6d8d548cb39a6c7eea8f807dde", null ],
-    [ "_playerAttack", "d9/d2b/a20913.html#ab1bf0c011692377fc591610c5131d5e2", null ],
-    [ "events", "d9/d2b/a20913.html#affdeecbfa6bb62659c4a2f5ef1d1fafa", null ]
+    [ "HandleHit", "d9/d2b/a20913.html#adbb57403c65e84ab217788ee3a9261b7", null ],
+    [ "PrepareSpellScript", "d9/d2b/a20913.html#a324717ff0843627151dd23fe565a80ab", null ],
+    [ "Register", "d9/d2b/a20913.html#a30c67c5c533add48412d6a9e1f6fc6b0", null ]
 ];

@@ -1,5 +1,6 @@
 var a29833 =
 [
-    [ "SetUp", "d8/dd2/a29833.html#ab7ca64790f3bf45fee5bfa47cc123f9e", null ],
-    [ "TearDown", "d8/dd2/a29833.html#ab25eaec6e37e6e315df357f8a1e51924", null ]
+    [ "hasInstantTargetProcs", "d8/dd2/a29833.html#a043a2884a456208d85bc3bf8d4733682", null ],
+    [ "isRemoved", "d8/dd2/a29833.html#a3f593c8bba6edde580f84fcc5ce9215b", null ],
+    [ "spellId", "d8/dd2/a29833.html#aee26a119051d638047018aeb93d593f6", null ]
 ];

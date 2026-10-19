@@ -1,10 +1,8 @@
 var a24537 =
 [
-    [ "npc_pet_gen_imp_in_a_bottle", "dd/d30/a24537.html#aa32b7770c2719d77d46fcf6d22989284", null ],
-    [ "InitializeAI", "dd/d30/a24537.html#a9fde3fd30d48068a3ad1a19f65c61bf2", null ],
-    [ "UpdateAI", "dd/d30/a24537.html#a453ec855bb21a30cb72b540ff8f77035", null ],
-    [ "_data", "dd/d30/a24537.html#a982ec923536c2c33353a3673aa425b6a", null ],
-    [ "_hasParty", "dd/d30/a24537.html#a192d9e2ba340040cb6ba5c0f324ffb2d", null ],
-    [ "_ownerGUID", "dd/d30/a24537.html#a5452226bbe4f65a9bd7ce103a7648a2f", null ],
-    [ "_talkTimer", "dd/d30/a24537.html#a07eba859ad2d5db4f6d91734c04020cf", null ]
+    [ "npc_pet_dk_ghoul", "dd/d30/a24537.html#aff3b8dc660a7e263c6e30960819b4ffa", null ],
+    [ "IsSummonedBy", "dd/d30/a24537.html#ae6ea5ad522229289a16d5be1e52181f6", null ],
+    [ "JustDied", "dd/d30/a24537.html#a6095e3619b470283b9875b90e2805b54", null ],
+    [ "UpdateAI", "dd/d30/a24537.html#a55ed58a264bd30cc4f891dc1e6d2fe03", null ],
+    [ "_summonTargetGUID", "dd/d30/a24537.html#aaca50b80273c75a48ee366fc07a3a3d0", null ]
 ];

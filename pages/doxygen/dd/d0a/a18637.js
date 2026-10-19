@@ -1,6 +1,6 @@
 var a18637 =
 [
-    [ "npc_sindragosa_trashAI", "d8/d95/a18641.html", "d8/d95/a18641" ],
-    [ "npc_sindragosa_trash", "dd/d0a/a18637.html#a9634ea10e767b4d6e293fc3fdd491702", null ],
-    [ "GetAI", "dd/d0a/a18637.html#ab1de715d98236a853a793d830bc601d7", null ]
+    [ "MysticBuffetTargetFilter", "dd/d0a/a18637.html#a5cc25dc0c6de036ec8fa3e7f10ffb2ea", null ],
+    [ "operator()", "dd/d0a/a18637.html#a76536b8960aa5e64fa8f7a02939d4295", null ],
+    [ "_caster", "dd/d0a/a18637.html#a60ef55fa8d6f511bba566ac3c8f8328a", null ]
 ];

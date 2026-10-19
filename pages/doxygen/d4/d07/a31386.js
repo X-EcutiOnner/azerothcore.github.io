@@ -1,10 +1,14 @@
 var a31386 =
 [
-    [ "anonymous_namespace{PathGenerator.cpp}::BladeEdgeArenaRope", "d1/ddd/a10519.html", "d1/ddd/a10519" ],
-    [ "GetClosestPointOnBladeEdgeArenaRope", "d4/d07/a31386.html#ad6fb8ac315aae658ae30abe0ed4b0536", null ],
-    [ "IsOutsideExpandedXYBounds", "d4/d07/a31386.html#a71f129f45def5530dd577d961f33ff75", null ],
-    [ "TrySnapToBladeEdgeArenaRope", "d4/d07/a31386.html#a7545d55edb64810e769569909d3f22cc", null ],
-    [ "BLADE_EDGE_ROPE_SNAP_DIST", "d4/d07/a31386.html#a4bd7d9d834123be5931eda51fb882654", null ],
-    [ "BLADE_EDGE_ROPE_SNAP_DIST2", "d4/d07/a31386.html#aab9750e7a18e090ee53c16bb42eb1873", null ],
-    [ "BladeEdgeArenaRopes", "d4/d07/a31386.html#a5bd7b066b349914a5d42899d3c1f7ce8", null ]
+    [ "file_MVER", "d1/df6/a30365.html", "d1/df6/a30365" ],
+    [ "FileLoader", "d5/de6/a30373.html", "d5/de6/a30373" ],
+    [ "FILE_FORMAT_VERSION", "d4/d07/a31386.html#a82680783457cdcbe83db9eefe68f8a9b", null ],
+    [ "int16", "d4/d07/a31386.html#aa0d0fdc87fd135ef2bedb030901cdb9c", null ],
+    [ "int32", "d4/d07/a31386.html#ab7903878916593daecbeb95b98115ab0", null ],
+    [ "int64", "d4/d07/a31386.html#a7cde0074dfd288f2d70c0e035dacb28a", null ],
+    [ "int8", "d4/d07/a31386.html#aa79c2d3de4fcd200458c406f40b2ae64", null ],
+    [ "uint16", "d4/d07/a31386.html#ac2a9e79eb120216f855626495b7bd18a", null ],
+    [ "uint32", "d4/d07/a31386.html#acbd4acd0d29e2d6c43104827f77d9cd2", null ],
+    [ "uint64", "d4/d07/a31386.html#abc0f5bc07737e498f287334775dff2b6", null ],
+    [ "uint8", "d4/d07/a31386.html#a33a5e996e7a90acefb8b1c0bea47e365", null ]
 ];

@@ -1,8 +1,6 @@
 var a26153 =
 [
-    [ "HandleDummy", "de/d5b/a26153.html#ac6db67f521a8fd1e8de4cd22220b45fe", null ],
-    [ "Load", "de/d5b/a26153.html#af767de9953372e5e56509a0be9e90958", null ],
-    [ "PrepareSpellScript", "de/d5b/a26153.html#a0385a22f908ac62ab987fe9f84cad330", null ],
-    [ "Register", "de/d5b/a26153.html#a1212726a4fcbac06b527648dff58c546", null ],
-    [ "Validate", "de/d5b/a26153.html#ab014db76cf4656e10665f12fb18c5997", null ]
+    [ "PartyTimeEmoteEvent", "de/d5b/a26153.html#a525efd58fc8465658208058e6dc5d31c", null ],
+    [ "Execute", "de/d5b/a26153.html#a65a796ff4efece46c519f7bdf1524bb8", null ],
+    [ "_player", "de/d5b/a26153.html#a61ecb44828c6e4c868def8899791feb3", null ]
 ];

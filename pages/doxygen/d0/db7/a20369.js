@@ -1,7 +1,6 @@
 var a20369 =
 [
-    [ "HandleScript", "d0/db7/a20369.html#a84a4d92a5dff57f612d3e45db41010d3", null ],
-    [ "PrepareSpellScript", "d0/db7/a20369.html#adc3bb6bd763905857d84ccaf456b3a2f", null ],
-    [ "Register", "d0/db7/a20369.html#a04a5b3a4f768200d74f4641508633d35", null ],
-    [ "Validate", "d0/db7/a20369.html#a78074b5b64b1ee5dfaab812f6c72bb9b", null ]
+    [ "npc_pool_of_tar", "d0/db7/a20369.html#a03de46dfa133992d094ab607a49b7236", null ],
+    [ "DamageTaken", "d0/db7/a20369.html#ac72ad742cb16e27abf25fe0e88408315", null ],
+    [ "SpellHit", "d0/db7/a20369.html#a61886862df88b41bf0c6959c9a564cea", null ]
 ];

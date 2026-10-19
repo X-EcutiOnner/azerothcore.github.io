@@ -1,6 +1,8 @@
 var a27965 =
 [
-    [ "HandleOnHit", "df/de1/a27965.html#a94893e6dd048f0028540e5ce15ed7b1d", null ],
-    [ "PrepareSpellScript", "df/de1/a27965.html#a999b019665dec9b0690a1019be428072", null ],
-    [ "Register", "df/de1/a27965.html#ab21c47d1918a9e29ebe7b041421deaf7", null ]
+    [ "ApplyEffect", "df/de1/a27965.html#ad29ed182a00516e736bb8d1381f4ac84", null ],
+    [ "HandleEffectPeriodicUpdate", "df/de1/a27965.html#ad5319328c018dbb3ddbd58bfc08589c4", null ],
+    [ "PrepareAuraScript", "df/de1/a27965.html#a7673ff384e88fa76efa52ecb60b97d9b", null ],
+    [ "Register", "df/de1/a27965.html#ade5af0ec82bc43d89919ceaaa31bce20", null ],
+    [ "_tick_amount", "df/de1/a27965.html#a33d9f114efa50a2fdfe7a17852a474f7", null ]
 ];

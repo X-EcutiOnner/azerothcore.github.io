@@ -1,27 +1,6 @@
 var a09185 =
 [
-    [ "HealInfo", "d5/d25/a09185.html#a25fe1984f6c3ef5eeb90049ef4749437", null ],
-    [ "AbsorbHeal", "d5/d25/a09185.html#ae656cf383df85bb88c6486e5aac1df5b", null ],
-    [ "AddHitMask", "d5/d25/a09185.html#ab976973e3c88f0206971d5d143e41f74", null ],
-    [ "GetAbsorb", "d5/d25/a09185.html#a3a29dc8e520997a58c7da005945d96e2", null ],
-    [ "GetEffectiveHeal", "d5/d25/a09185.html#a3d5391116c63cc0a3cacb2cab1512a01", null ],
-    [ "GetHeal", "d5/d25/a09185.html#af95a6d6c94a72874c150a3deabce20ee", null ],
-    [ "GetHealBeforeTakenMods", "d5/d25/a09185.html#a711c008630d8d5077bf1050c12953513", null ],
-    [ "GetHealer", "d5/d25/a09185.html#a2139bd1efadb23063a67d3fef35b424d", null ],
-    [ "GetHitMask", "d5/d25/a09185.html#aae94110ec9d6f88cf0f504a8b6bc356e", null ],
-    [ "GetSchoolMask", "d5/d25/a09185.html#aca2b1e31608a7c186a06e9bbe8977a9d", null ],
-    [ "GetSpellInfo", "d5/d25/a09185.html#a53b73d5b297e341be237723269c7644d", null ],
-    [ "GetTarget", "d5/d25/a09185.html#ae7a08b2e27a5ac316ed2d3bca7d2395d", null ],
-    [ "SetEffectiveHeal", "d5/d25/a09185.html#ac3564eb034d66a0d0199e5412db82ba8", null ],
-    [ "SetHeal", "d5/d25/a09185.html#a622e0993c76b43f30d9cc774c70a92b0", null ],
-    [ "SetHealBeforeTakenMods", "d5/d25/a09185.html#adee6d7f3f911c6d3c46a17481dc3dec3", null ],
-    [ "m_absorb", "d5/d25/a09185.html#a383cc7bb4d30dd72cbfeaedd9b5d5042", null ],
-    [ "m_effectiveHeal", "d5/d25/a09185.html#a0a00b20efbeb2e5bf515dc98e96aa12d", null ],
-    [ "m_heal", "d5/d25/a09185.html#af0a2d7c40710cabbb88122de2650c705", null ],
-    [ "m_healBeforeTakenMods", "d5/d25/a09185.html#a6c5ae323b9e5c946ca6887bee0a63283", null ],
-    [ "m_healer", "d5/d25/a09185.html#ad291e8e65eb0a9a9054ac1827cf0d315", null ],
-    [ "m_hitMask", "d5/d25/a09185.html#a9a76facea1d79fb8f30ab8d58cba7f2f", null ],
-    [ "m_schoolMask", "d5/d25/a09185.html#af2fd7934b1b1cd08dd4dcfeadc9c02df", null ],
-    [ "m_spellInfo", "d5/d25/a09185.html#a68d6d63fdd1efb458615e24f65e643be", null ],
-    [ "m_target", "d5/d25/a09185.html#a3a13a815e870e6745888ed082e8498e8", null ]
+    [ "SplineHandler", "d5/d25/a09185.html#a7c5aac2d12e13bad1c38c4e8860ed27f", null ],
+    [ "operator()", "d5/d25/a09185.html#aa5d1bddc2435eee76f493229740ecf9e", null ],
+    [ "_unit", "d5/d25/a09185.html#aaafb07271736d8bc89d07aafbbae7f25", null ]
 ];

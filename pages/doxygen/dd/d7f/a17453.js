@@ -1,8 +1,11 @@
 var a17453 =
 [
-    [ "npc_hor_risen_witch_doctor", "dd/d7f/a17453.html#a68e2913f88427b1d6cb35351d9b749a0", null ],
-    [ "JustDied", "dd/d7f/a17453.html#ac742da67a5624aebdbbbdc51378cfc82", null ],
-    [ "JustEngagedWith", "dd/d7f/a17453.html#ae612bec2e909abb2574298f4a34116f3", null ],
-    [ "Reset", "dd/d7f/a17453.html#a63b9343146a8c950f5d31f21cd5f4838", null ],
-    [ "UpdateAI", "dd/d7f/a17453.html#a87948e1bac92033fa700e1c0ce27cbf5", null ]
+    [ "npc_shadowy_mercenary", "dd/d7f/a17453.html#ae4e26a15f7ee0ba768a5ad6c18c8bc40", null ],
+    [ "AttackStart", "dd/d7f/a17453.html#a2851972b1fa6e3de4f79433e1308dd11", null ],
+    [ "DoAction", "dd/d7f/a17453.html#afba6e6565c04fe0b325a1ecf9d65ae80", null ],
+    [ "EnterEvadeMode", "dd/d7f/a17453.html#a71290c72bff2a91d7c5cc8d661f28bf9", null ],
+    [ "JustDied", "dd/d7f/a17453.html#a88cde525eb5d8db9fb2ffc30f18ddf61", null ],
+    [ "JustEngagedWith", "dd/d7f/a17453.html#aab9ac47fa72e7a7a6941aad190a18ebb", null ],
+    [ "Reset", "dd/d7f/a17453.html#aeedf803d4d6747ef505c11bb035c2c05", null ],
+    [ "UpdateAI", "dd/d7f/a17453.html#af36c113ac34b5e2db382c6d5f9d546e4", null ]
 ];

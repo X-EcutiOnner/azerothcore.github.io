@@ -1,6 +1,5 @@
 var a21985 =
 [
-    [ "npc_spiritual_insightAI", "d5/d54/a21989.html", "d5/d54/a21989" ],
-    [ "npc_spiritual_insight", "dd/d80/a21985.html#afe7b9d5953462719407f03b33b8de564", null ],
-    [ "GetAI", "dd/d80/a21985.html#ab2884e1160ccad9adb8e3ae69db55bc4", null ]
+    [ "at_q24545_frostmourne_cavern", "dd/d80/a21985.html#a76e2d8424b5fcd037fabfa9b878d21e1", null ],
+    [ "OnTrigger", "dd/d80/a21985.html#a9016ef31fde1bbcaf57a17e64ea8d503", null ]
 ];

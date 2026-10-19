@@ -1,11 +1,10 @@
 var a17405 =
 [
-    [ "npc_phantom_mage", "d1/d51/a17405.html#a96702110e1bd587aaa88a076773cac72", null ],
-    [ "AttackStart", "d1/d51/a17405.html#a79170c6d6aa434d291e50cd2153ee25a", null ],
-    [ "DoAction", "d1/d51/a17405.html#a8adf87e600eeab3678f369ab48b73927", null ],
-    [ "EnterEvadeMode", "d1/d51/a17405.html#a270f664ad9545f672405d051d1a8932a", null ],
-    [ "JustDied", "d1/d51/a17405.html#a9728d3deb8c8ef6ab82b76f79de20732", null ],
-    [ "JustEngagedWith", "d1/d51/a17405.html#a4cd8e7ba55317eb6ed2e0a7fbbebc80a", null ],
-    [ "Reset", "d1/d51/a17405.html#a3900181fe1328a3450e2e71bf30abbd7", null ],
-    [ "UpdateAI", "d1/d51/a17405.html#a919416fd6b52060e271e79afaaf14085", null ]
+    [ "HandleAfterEffectAbsorb", "d1/d51/a17405.html#a4af67c41afd7843a5cfe2b2e2e9e8055", null ],
+    [ "Load", "d1/d51/a17405.html#abab656d4ba7e14bf1ffdb1d40c395b5d", null ],
+    [ "PrepareAuraScript", "d1/d51/a17405.html#a0856d66c801715f16cd251ddf9b25a59", null ],
+    [ "Register", "d1/d51/a17405.html#a69d8dfebb981b51592770b7b5807bc80", null ],
+    [ "Validate", "d1/d51/a17405.html#a55ec42ce316978220103a3a39f3939a3", null ],
+    [ "amount", "d1/d51/a17405.html#aaf34ee04ae619a3ac108a8fd1c9dac99", null ],
+    [ "fired", "d1/d51/a17405.html#a6a7afa99044644608b16e83328bfd5fa", null ]
 ];

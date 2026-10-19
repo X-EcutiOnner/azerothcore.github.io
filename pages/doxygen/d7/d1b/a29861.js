@@ -1,10 +1,10 @@
 var a29861 =
 [
-    [ "SetUp", "d7/d1b/a29861.html#a781aff1ceb2f4e26bcf801e9ab81bf3e", null ],
-    [ "TearDown", "d7/d1b/a29861.html#a4554349a2712a018d16de6a8ae9f50ff", null ],
-    [ "PERM_A", "d7/d1b/a29861.html#a4cf88cb08e4248c973e96009b7c5e225", null ],
-    [ "PERM_B", "d7/d1b/a29861.html#a358884a8d08637d7358803127c87c808", null ],
-    [ "PERM_C", "d7/d1b/a29861.html#a34fc88e7d7566ed4d64005535d0a3122", null ],
-    [ "rbacData", "d7/d1b/a29861.html#af35ce1e4fa3d4123358a098cb5afb2af", null ],
-    [ "ROLE_R", "d7/d1b/a29861.html#abe95477afdf283e406df55eac7f146cf", null ]
+    [ "TestMap", "d7/d1b/a29861.html#aca5be96dac80e8b0cd031a689f6cad66", null ],
+    [ "~TestMap", "d7/d1b/a29861.html#a7175511302d9c67cce7b870ec70551de", null ],
+    [ "EnsureDBC", "d7/d1b/a29861.html#a2a117f615eafa6336e09defee91574b5", null ],
+    [ "SetIsDungeon", "d7/d1b/a29861.html#afa3e639a3a6b54c4efa917008400c37b", null ],
+    [ "SetIsRaid", "d7/d1b/a29861.html#ae577d4dc38ec92f11fab263d28455213", null ],
+    [ "SetMapType", "d7/d1b/a29861.html#a19013737f70a4d2362f88651b4e1a4b4", null ],
+    [ "_fakeMapEntry", "d7/d1b/a29861.html#afc183278ef7cd421df30ad878321f122", null ]
 ];

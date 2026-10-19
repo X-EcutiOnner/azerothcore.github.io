@@ -1,4 +1,4 @@
 var a02624 =
 [
-    [ "MapReference", "df/db8/a10355.html", "df/db8/a10355" ]
+    [ "MapInstanced", "dc/db6/a10361.html", "dc/db6/a10361" ]
 ];

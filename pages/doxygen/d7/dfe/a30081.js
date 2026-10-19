@@ -1,4 +1,5 @@
 var a30081 =
 [
-    [ "SetUp", "d7/dfe/a30081.html#a30b192775d6ae0c9c73b30f9d5c1cfb2", null ]
+    [ "SetUp", "d7/dfe/a30081.html#ad1d8aa4b381ae8f570e70741628c7e10", null ],
+    [ "_spellInfo", "d7/dfe/a30081.html#a377087158568c35ed7896f7fa31a7437", null ]
 ];

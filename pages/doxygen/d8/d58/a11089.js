@@ -1,8 +1,8 @@
 var a11089 =
 [
-    [ "SAttackStop", "d8/d58/a11089.html#ad3ca327e00c9df8d947cdda3eb2f5eb3", null ],
-    [ "Write", "d8/d58/a11089.html#ae2143b20488064400c306004ee678a89", null ],
-    [ "Attacker", "d8/d58/a11089.html#a18e66148dc50a7ea7f98a57a122285ee", null ],
-    [ "NowDead", "d8/d58/a11089.html#a25cd247bb50f752c3230ad4b5f777b2d", null ],
-    [ "Victim", "d8/d58/a11089.html#a9ca02aaaab5d223a64f8ba0cec320e8e", null ]
+    [ "PlayedTime", "d8/d58/a11089.html#abc477d90a27dc41a7c643448302464cf", null ],
+    [ "Write", "d8/d58/a11089.html#a147071f2545cd91213d6c92dab7438c7", null ],
+    [ "LevelTime", "d8/d58/a11089.html#a2bf832827f9497a59bbfac714799b4b5", null ],
+    [ "TotalTime", "d8/d58/a11089.html#ae762fe00339a8f4ca6f9e14bb8515251", null ],
+    [ "TriggerScriptEvent", "d8/d58/a11089.html#a434b33c61ba5e2d91f084cbfe425c964", null ]
 ];

@@ -1,5 +1,7 @@
 var a15085 =
 [
-    [ "PrepareSpellScript", "da/dd3/a15085.html#a3e1c670bbc7efb86b95a34ee3c8ba059", null ],
-    [ "Register", "da/dd3/a15085.html#a06111bf70ee53fee6e90284f8d92642e", null ]
+    [ "CheckProc", "da/dd3/a15085.html#a4be98e79967d43908c0f642caab59348", null ],
+    [ "OnApply", "da/dd3/a15085.html#a30d33268b58507c228a4628031bffca0", null ],
+    [ "PrepareAuraScript", "da/dd3/a15085.html#a16dc3f52152d63b5512690c761f9915a", null ],
+    [ "Register", "da/dd3/a15085.html#a6494e4d7277e910ffa3b30c333117f00", null ]
 ];

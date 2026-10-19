@@ -1,16 +1,10 @@
 var a09105 =
 [
-    [ "RaceMgr", "da/ded/a09105.html#a78e384652a5e52776f13085d14e6037a", null ],
-    [ "~RaceMgr", "da/ded/a09105.html#a3abfe795c417bf794f3b38a23deac7a3", null ],
-    [ "GetAllianceRaceMask", "da/ded/a09105.html#a6e8a0ba72a13d62321246cb4c11a6f4d", null ],
-    [ "GetHordeRaceMask", "da/ded/a09105.html#ab783bff98d389f35ef89f45327cec299", null ],
-    [ "GetMaxRaces", "da/ded/a09105.html#a5cf45d0a57727daee3432fca51479c32", null ],
-    [ "GetPlayableRaceMask", "da/ded/a09105.html#a0ba5fec061f9bbd2ccbfcad2ea29cd8a", null ],
-    [ "instance", "da/ded/a09105.html#ac54cc09b38129b4d7cfc02767c8ba41e", null ],
-    [ "LoadRaces", "da/ded/a09105.html#a93d2f89ab56fa6d4c20547b411b0a812", null ],
-    [ "SetMaxRaces", "da/ded/a09105.html#a3789528cb72e6f837633b8f3692ea36b", null ],
-    [ "_allianceRaceMask", "da/ded/a09105.html#a694fca25b429d99dad214ea277ade0c7", null ],
-    [ "_hordeRaceMask", "da/ded/a09105.html#a3f27d5d4ae27c1ebe2462f35dbace85e", null ],
-    [ "_maxRaces", "da/ded/a09105.html#af5b87bbc81180f92f18424dfb0181569", null ],
-    [ "_playableRaceMask", "da/ded/a09105.html#a0ddd9c8393001fc41b14dd95eece8400", null ]
+    [ "TradeStatusInfo", "da/ded/a09105.html#ae0dff14036e00d3c62c181fcc306faf2", null ],
+    [ "IsTargetResult", "da/ded/a09105.html#a10427d72e5bafd643648638a1fe7e854", null ],
+    [ "ItemLimitedByLimitCategory", "da/ded/a09105.html#ad6b7e2f6d974b06388d1f30f82d207e8", null ],
+    [ "Result", "da/ded/a09105.html#ac90552353a0fb8ff175fec99bf573981", null ],
+    [ "Slot", "da/ded/a09105.html#a3fcb84e08ecdfccaef6bc396c8c4eb2a", null ],
+    [ "Status", "da/ded/a09105.html#a265172d89cdc4c6fc4df20ad5df45c64", null ],
+    [ "TraderGuid", "da/ded/a09105.html#afc3926b9ff7dda3eb3505b225b74409d", null ]
 ];

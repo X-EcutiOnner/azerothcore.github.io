@@ -1,6 +1,5 @@
 var a28837 =
 [
-    [ "CheckCast", "d8/ded/a28837.html#a477dc7a1b91ec0d9c45f249b7b3971ab", null ],
-    [ "PrepareSpellScript", "d8/ded/a28837.html#aa3c18907c79309a8924a98bce41e27f1", null ],
-    [ "Register", "d8/ded/a28837.html#a6eac0b63b0b566b5cba5def85748ace3", null ]
+    [ "npc_necropolis", "d8/ded/a28837.html#a6535d6dbdc5a6b3c715ca9ec470fb258", null ],
+    [ "SpellHit", "d8/ded/a28837.html#ae068da7f6b1de5d06568b672d9f46f18", null ]
 ];

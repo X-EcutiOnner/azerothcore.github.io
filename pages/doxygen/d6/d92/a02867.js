@@ -1,20 +1,13 @@
 var a02867 =
 [
-    [ "WEATHER_SEASONS", "db/dbc/a05116.html#ga5ee30d2da0d958800dd3ad582c49d487", null ],
-    [ "WeatherState", "db/dbc/a05116.html#ga32b7b9e733438755c99c2abd6cb8c94d", [
-      [ "WEATHER_STATE_FINE", "db/dbc/a05116.html#gga32b7b9e733438755c99c2abd6cb8c94da5d4c47a117d36afee4195bd260951366", null ],
-      [ "WEATHER_STATE_FOG", "db/dbc/a05116.html#gga32b7b9e733438755c99c2abd6cb8c94daf088b1890d40b05c4022d90d931e8717", null ],
-      [ "WEATHER_STATE_LIGHT_RAIN", "db/dbc/a05116.html#gga32b7b9e733438755c99c2abd6cb8c94dafe59189ae98629ed11fbd343da10e97d", null ],
-      [ "WEATHER_STATE_MEDIUM_RAIN", "db/dbc/a05116.html#gga32b7b9e733438755c99c2abd6cb8c94da33ce6050f5c9a8dbbfc2556756f960c3", null ],
-      [ "WEATHER_STATE_HEAVY_RAIN", "db/dbc/a05116.html#gga32b7b9e733438755c99c2abd6cb8c94da13bf6f46f69defe7fbea2c659e6d3873", null ],
-      [ "WEATHER_STATE_LIGHT_SNOW", "db/dbc/a05116.html#gga32b7b9e733438755c99c2abd6cb8c94da8a760bcf8d764d8749a800905111ab05", null ],
-      [ "WEATHER_STATE_MEDIUM_SNOW", "db/dbc/a05116.html#gga32b7b9e733438755c99c2abd6cb8c94da2a382668c4c73bc864079b0cf1602da6", null ],
-      [ "WEATHER_STATE_HEAVY_SNOW", "db/dbc/a05116.html#gga32b7b9e733438755c99c2abd6cb8c94daaad9131eee7d0dce651a4142705871a3", null ],
-      [ "WEATHER_STATE_LIGHT_SANDSTORM", "db/dbc/a05116.html#gga32b7b9e733438755c99c2abd6cb8c94dabe53f9722c1f5ee37a0ce46a356402eb", null ],
-      [ "WEATHER_STATE_MEDIUM_SANDSTORM", "db/dbc/a05116.html#gga32b7b9e733438755c99c2abd6cb8c94da35248c6d29502ee854f2a9c92a1c9204", null ],
-      [ "WEATHER_STATE_HEAVY_SANDSTORM", "db/dbc/a05116.html#gga32b7b9e733438755c99c2abd6cb8c94da185c2513fb0f271a64db1feb5691def0", null ],
-      [ "WEATHER_STATE_THUNDERS", "db/dbc/a05116.html#gga32b7b9e733438755c99c2abd6cb8c94da0a333865e8ae65ce8f5bb03f905dee29", null ],
-      [ "WEATHER_STATE_BLACKRAIN", "db/dbc/a05116.html#gga32b7b9e733438755c99c2abd6cb8c94daa69a93da31c84906e5b64469cda9f27f", null ],
-      [ "WEATHER_STATE_BLACKSNOW", "db/dbc/a05116.html#gga32b7b9e733438755c99c2abd6cb8c94da3aea8b6958d36e83f025fc7a489d1357", null ]
-    ] ]
+    [ "SkillPerfectItemEntry", "df/dcc/a11901.html", "df/dcc/a11901" ],
+    [ "SkillExtraItemEntry", "d7/da1/a11905.html", "d7/da1/a11905" ],
+    [ "SkillExtraItemMap", "d6/d92/a02867.html#a9ba2d7d2e815aee57a701990b858db7b", null ],
+    [ "SkillPerfectItemMap", "d6/d92/a02867.html#ad732be66d93ed6e8f498077f27e2766b", null ],
+    [ "canCreateExtraItems", "d6/d92/a02867.html#a49687e255d65fa15dac5e6a428c5739d", null ],
+    [ "CanCreatePerfectItem", "d6/d92/a02867.html#a818c557864790091814604b6d2175e52", null ],
+    [ "LoadSkillExtraItemTable", "d6/d92/a02867.html#a3244d04018405bafe21acc8bc96cc743", null ],
+    [ "LoadSkillPerfectItemTable", "d6/d92/a02867.html#a121df170a82be5ab5b05999a6be27b69", null ],
+    [ "SkillExtraItemStore", "d6/d92/a02867.html#acc52416c05fbae29bcbfa9f0683485cd", null ],
+    [ "SkillPerfectItemStore", "d6/d92/a02867.html#ac676f0acbf782fa2d31bd66b8eaa8260", null ]
 ];

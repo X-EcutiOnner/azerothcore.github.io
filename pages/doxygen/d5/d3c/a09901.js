@@ -1,6 +1,8 @@
 var a09901 =
 [
-    [ "AllFriendlyCreaturesInGrid", "d5/d3c/a09901.html#a6ad66997d093ffa52e2d80337dcb5460", null ],
-    [ "operator()", "d5/d3c/a09901.html#aca2b8ed7de69c57bb270e0c663781f97", null ],
-    [ "unit", "d5/d3c/a09901.html#a3842fa1eceabaa2d40b2bab4393cb431", null ]
+    [ "AnyAssistCreatureInRangeCheck", "d5/d3c/a09901.html#a2e9cbff4e627fe8ccf67997123afe0a6", null ],
+    [ "operator()", "d5/d3c/a09901.html#a314a4800047f7e661cd011010b3f148e", null ],
+    [ "i_enemy", "d5/d3c/a09901.html#a37318ae783e6cf4a658063aab149e8a3", null ],
+    [ "i_funit", "d5/d3c/a09901.html#add1071091d1696c3f537483810dcb6f1", null ],
+    [ "i_range", "d5/d3c/a09901.html#a4bcf67be5bae4649d82586349d30be04", null ]
 ];

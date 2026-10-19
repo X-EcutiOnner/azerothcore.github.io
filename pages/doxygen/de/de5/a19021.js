@@ -1,8 +1,13 @@
 var a19021 =
 [
-    [ "npc_blistering_zombieAI", "de/de5/a19021.html#acf278cd2249ac45a4b043427ba36b3ce", null ],
-    [ "DamageTaken", "de/de5/a19021.html#adf031992078214f90d859df2b54aac91", null ],
-    [ "UpdateAI", "de/de5/a19021.html#ae081898b8dcaf45cd3069e79021de452", null ],
-    [ "casted", "de/de5/a19021.html#a0f70f5d58ef0bb20f64b0aec4df04905", null ],
-    [ "timer", "de/de5/a19021.html#a8b865c2a87b1fc020d8250767febab0a", null ]
+    [ "npc_risen_archmageAI", "de/de5/a19021.html#a4dd62e51fc75fc5e4a44859437549f29", null ],
+    [ "CanAIAttack", "de/de5/a19021.html#a063a28cd36dbc709699e6d1d4e4ca9e3", null ],
+    [ "DoAction", "de/de5/a19021.html#accc43068aa0a7f62d6fabfb85acb1498", null ],
+    [ "JustEnteredCombat", "de/de5/a19021.html#a50bd33c1b28b3691f42a5f167f27e342", null ],
+    [ "JustSummoned", "de/de5/a19021.html#aff6e86057086db1319bb680e52e41634", null ],
+    [ "Reset", "de/de5/a19021.html#a522d30cb60cf6af2cd8cc943a7e2f5e3", null ],
+    [ "UpdateAI", "de/de5/a19021.html#ae78dc64f858573b234210ca175e5bdd9", null ],
+    [ "_events", "de/de5/a19021.html#a6dff9ff5332c0bc337840882689f47ed", null ],
+    [ "_instance", "de/de5/a19021.html#a1b4e12b199bf3ada517c895c5f387c4a", null ],
+    [ "_isInitialArchmage", "de/de5/a19021.html#ac871eeab6510fa9f5e8f38f35f299149", null ]
 ];

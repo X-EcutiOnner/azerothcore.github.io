@@ -1,15 +1,18 @@
 var a21393 =
 [
-    [ "boss_skadi_graufAI", "d0/d46/a21393.html#a852687a2fa6ed97aefa230db8ff73b72", null ],
-    [ "DoAction", "d0/d46/a21393.html#a51a189e6f1f6c9c6948194d3181a7426", null ],
-    [ "JustDied", "d0/d46/a21393.html#a64a4e6cd927f89c11ec55806e403588f", null ],
-    [ "MovementInform", "d0/d46/a21393.html#a081fed07ce51e3bfd7a4ce051a4d79ee", null ],
-    [ "Reset", "d0/d46/a21393.html#ab04a1a98da7d318ee54c4af9aaabcfae", null ],
-    [ "UpdateAI", "d0/d46/a21393.html#add5671b1f9e20590e1121f8c18d064cc", null ],
-    [ "_events", "d0/d46/a21393.html#a446de23b703512497888b42ff781da39", null ],
-    [ "_flyingToSide", "d0/d46/a21393.html#a92b1963484d7d88f6b4904039db10c9e", null ],
-    [ "_instance", "d0/d46/a21393.html#adfcccde7d61c9fa8e850e3d4678d1ad0", null ],
-    [ "_lastSide", "d0/d46/a21393.html#a6b4ef194bf96b7fc8dae2b22536e31b1", null ],
-    [ "_passFreshStart", "d0/d46/a21393.html#a5c49a178b6729cd555c38e106deeb0a5", null ],
-    [ "_summons", "d0/d46/a21393.html#abacd3a15554571bce8f70a519ce1bb0b", null ]
+    [ "boss_palehoofAI", "d0/d46/a21393.html#aa49a4e6e2f942ab0efeb83d0fe672f9f", null ],
+    [ "DoAction", "d0/d46/a21393.html#ae94606f2b382e07cd3f4b9be48b1ca2d", null ],
+    [ "JustDied", "d0/d46/a21393.html#a1484b82afc3072d1b1fc5e2c9b0204b0", null ],
+    [ "JustEngagedWith", "d0/d46/a21393.html#abd00a0b514c11d8fa3786e1e61333138", null ],
+    [ "JustReachedHome", "d0/d46/a21393.html#aae6517c4816eb9bbc5dfe245d69edd87", null ],
+    [ "KilledUnit", "d0/d46/a21393.html#abf68aba465731a0ea7de305861ad4875", null ],
+    [ "MoveInLineOfSight", "d0/d46/a21393.html#ae969093bfb3466e332c1de7e65ceeb5d", null ],
+    [ "Reset", "d0/d46/a21393.html#a61d1cedcc30fbccbebbdc768d6a18900", null ],
+    [ "UpdateAI", "d0/d46/a21393.html#ac7da92990a0d48e418115943ba7bdd51", null ],
+    [ "Counter", "d0/d46/a21393.html#a5b8c197cd3c482d5a4d5a14f9c5019e7", null ],
+    [ "events", "d0/d46/a21393.html#a18325a2a5cca9910bf7e35a21c16400b", null ],
+    [ "m_pInstance", "d0/d46/a21393.html#abffb9efc207c98a30e1bfcf7b87fdb6d", null ],
+    [ "OrbGUID", "d0/d46/a21393.html#ab75e8eea72bde1bd15fe40e347373ab4", null ],
+    [ "RandomUnfreeze", "d0/d46/a21393.html#a02d34d4cd26706e1108c99cc0b4afbba", null ],
+    [ "summons", "d0/d46/a21393.html#a098d738ccbc2764867643bf4336c04da", null ]
 ];

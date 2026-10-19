@@ -1,5 +1,9 @@
 var a09013 =
 [
-    [ "Rank", "de/d68/a09013.html#a61797c7cb799308a7c20a954d287be17", null ],
-    [ "SkillId", "de/d68/a09013.html#a3f28221b1c8e91bf9f2fa6337e81c952", null ]
+    [ "category", "de/d68/a09013.html#af3cd722cf59d844dcaba2d20f20d2933", null ],
+    [ "end", "de/d68/a09013.html#a8cc857ef51745900398765164a450a50", null ],
+    [ "itemid", "de/d68/a09013.html#a42ef844fdd55e8bf67eb5cd90c627817", null ],
+    [ "maxduration", "de/d68/a09013.html#a94b98afb7651e2c6b99ee79f85702259", null ],
+    [ "needSendToClient", "de/d68/a09013.html#a678f56b6723567f984a0188b85a6f9df", null ],
+    [ "sendToSpectator", "de/d68/a09013.html#a4b5bc2c63587dd8ce5d4971ad51895cd", null ]
 ];

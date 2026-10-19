@@ -1,7 +1,5 @@
 var a11637 =
 [
-    [ "TimeQueryResponse", "db/d17/a11637.html#abefcc15670a85ae023d24bfa5dc26a11", null ],
-    [ "Write", "db/d17/a11637.html#a5fbfca11889684a0ab6b437eb30527cc", null ],
-    [ "ServerTime", "db/d17/a11637.html#a9dfc03a60bb8a1f20eb850e3f8a00b88", null ],
-    [ "TimeResponse", "db/d17/a11637.html#a4f528e5c08dc67a2c6f7826b21a771ed", null ]
+    [ "RequestPetInfo", "db/d17/a11637.html#ae0861d1fb77fe39bb48c26505e36ed2b", null ],
+    [ "Read", "db/d17/a11637.html#a5cc9bb57bce7dc7f24243fdc63e17870", null ]
 ];

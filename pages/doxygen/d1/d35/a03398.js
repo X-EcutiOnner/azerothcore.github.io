@@ -1,6 +1,9 @@
 var a03398 =
 [
-    [ "instance_pit_of_saron", "d5/d08/a17539.html", "d5/d08/a17539" ],
-    [ "instance_pit_of_saron::instance_pit_of_saron_InstanceScript", "d0/d25/a17543.html", "d0/d25/a17543" ],
-    [ "AddSC_instance_pit_of_saron", "d1/d35/a03398.html#a0793b7a11993f477eea1066a2da4bbb2", null ]
+    [ "WorldPackets::NPC::Hello", "dd/de2/a11533.html", "dd/de2/a11533" ],
+    [ "WorldPackets::NPC::TrainerListSpell", "d1/d6a/a11537.html", "d1/d6a/a11537" ],
+    [ "WorldPackets::NPC::TrainerList", "db/db1/a11541.html", "db/db1/a11541" ],
+    [ "WorldPackets::NPC::TrainerBuySpell", "dd/d2f/a11545.html", "dd/d2f/a11545" ],
+    [ "WorldPackets::NPC::TrainerBuyFailed", "d5/d74/a11549.html", "d5/d74/a11549" ],
+    [ "WorldPackets::NPC::TrainerBuySucceeded", "db/d60/a11553.html", "db/d60/a11553" ]
 ];

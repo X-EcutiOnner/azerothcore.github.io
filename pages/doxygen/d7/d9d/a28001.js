@@ -1,8 +1,7 @@
 var a28001 =
 [
-    [ "HandleDummy", "d7/d9d/a28001.html#ad2eec86cff225cc0bd806e31596fb127", null ],
-    [ "PrepareSpellScript", "d7/d9d/a28001.html#a59a04dcfee911c70e13ea8d27b4a49c4", null ],
-    [ "Register", "d7/d9d/a28001.html#a6c72b4c813368774283ae94036a43ee2", null ],
-    [ "SendMiss", "d7/d9d/a28001.html#a7c6d300e60ed492c82d5c017d3e73ed1", null ],
-    [ "Validate", "d7/d9d/a28001.html#a9a5014de08f73ad5dad29354812030ac", null ]
+    [ "HandleProc", "d7/d9d/a28001.html#a1ebfd477399cbac2cba33cfd90db72e6", null ],
+    [ "PrepareAuraScript", "d7/d9d/a28001.html#aadbaea984fedb04e77b92174efd5e83d", null ],
+    [ "Register", "d7/d9d/a28001.html#aedd1652a571275a305db70fbbe6f725c", null ],
+    [ "Validate", "d7/d9d/a28001.html#a28c281aeef80409b419753f71da80f92", null ]
 ];

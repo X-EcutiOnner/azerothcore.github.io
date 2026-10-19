@@ -1,10 +1,10 @@
 var a17265 =
 [
-    [ "boss_tharon_jaAI", "da/d42/a17265.html#a03025fa529e932f23479ff19b0cd8238", null ],
-    [ "DoAction", "da/d42/a17265.html#a655fd83c2d671847fea9ae393c132fb9", null ],
-    [ "JustDied", "da/d42/a17265.html#a7928b5db061f1073e1decc2d40601195", null ],
-    [ "JustEngagedWith", "da/d42/a17265.html#aab194a8f802eeb625d1a74960acbe154", null ],
-    [ "KilledUnit", "da/d42/a17265.html#a41e929a3768768eb06bafdee3269fd24", null ],
-    [ "Reset", "da/d42/a17265.html#a272e8565a9b00a27505b301d52814eee", null ],
-    [ "UpdateAI", "da/d42/a17265.html#a6f482cabcb0bd56711878a5ea297b950", null ]
+    [ "boss_dredAI", "da/d42/a17265.html#a4ad04fe31990a37fd6d3a23329350248", null ],
+    [ "GetData", "da/d42/a17265.html#a7a93506d77eaf40c6f7be9e433f211e1", null ],
+    [ "JustEngagedWith", "da/d42/a17265.html#ae6e1181dcdea763460ca72148abfcb3f", null ],
+    [ "Reset", "da/d42/a17265.html#a5fe153ab58b1feedce5afa6b10a0d3de", null ],
+    [ "ScheduleTasks", "da/d42/a17265.html#aaea229cebd3d82b01c4577e58a06de2d", null ],
+    [ "SetData", "da/d42/a17265.html#a884f48aabc26b054dcd303a91cb88301", null ],
+    [ "_raptorCount", "da/d42/a17265.html#a95aa63c18d7e1f2dec2491ac4649a378", null ]
 ];

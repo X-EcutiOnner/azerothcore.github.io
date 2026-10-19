@@ -1,6 +1,6 @@
 var a18101 =
 [
-    [ "npc_gunship_mageAI", "df/df2/a18105.html", "df/df2/a18105" ],
-    [ "npc_gunship_mage", "d7/dba/a18101.html#a52c7a072bd1426a1c22da84aa0640bca", null ],
-    [ "GetAI", "d7/dba/a18101.html#a9a0bc091a6cf8bbc7d17cf3d3172e6ff", null ]
+    [ "npc_zafod_boomboxAI", "df/df2/a18105.html", "df/df2/a18105" ],
+    [ "npc_zafod_boombox", "d7/dba/a18101.html#a7124746ed3f25ae6d96a2fa1910d98d0", null ],
+    [ "GetAI", "d7/dba/a18101.html#af80f6913cef53d39cafdcd47b2cd07f0", null ]
 ];

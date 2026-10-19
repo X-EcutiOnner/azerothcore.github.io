@@ -1,6 +1,8 @@
 var a13841 =
 [
-    [ "SpectralBlastCheck", "d7/d07/a13841.html#ada2eda8781891a4049ee30c5ecb81c3c", null ],
-    [ "operator()", "d7/d07/a13841.html#afbe13a5f90a5b95832e14fe9d7affc9f", null ],
-    [ "_victim", "d7/d07/a13841.html#ab96456159d61e781aa8d691dd0b1fec1", null ]
+    [ "npc_demonic_vapor", "d7/d07/a13841.html#aee2e1b7372b8125b49e8466a2406ff00", null ],
+    [ "IsSummonedBy", "d7/d07/a13841.html#ace56fe54dc6d3f597df0d1e28924082f", null ],
+    [ "Reset", "d7/d07/a13841.html#a7d2b88ab26904cedaac34f03567806bc", null ],
+    [ "UpdateAI", "d7/d07/a13841.html#a6637d2d5fc6615c2d76aa0d04c36a047", null ],
+    [ "_timer", "d7/d07/a13841.html#ab067f5b9b9f37db4db9ab6e5295e5d52", null ]
 ];

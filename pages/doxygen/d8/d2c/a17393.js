@@ -1,8 +1,8 @@
 var a17393 =
 [
-    [ "npc_hor_leaderAI", "d5/d7d/a17397.html", "d5/d7d/a17397" ],
-    [ "npc_hor_leader", "d8/d2c/a17393.html#a5c8d6cce242d144755fb14879f7f17d3", null ],
-    [ "GetAI", "d8/d2c/a17393.html#a55e7357aa6dff1efdff08541e88413e9", null ],
-    [ "OnGossipHello", "d8/d2c/a17393.html#afb46ea0b6926ad5d9b87b1d6a5e04591", null ],
-    [ "OnGossipSelect", "d8/d2c/a17393.html#ab5d01ae2803bab43b2c701d0cb1d4280", null ]
+    [ "npc_fos_leaderAI", "d8/d2c/a17393.html#ae6a80f77558e0f5a62efc3b5ef1f61d6", null ],
+    [ "DoAction", "d8/d2c/a17393.html#a1fd8cea6f8a6d8f76ba3c484b15c4054", null ],
+    [ "Reset", "d8/d2c/a17393.html#a33364da3af4681de9f9e21b9dcf7f16c", null ],
+    [ "UpdateAI", "d8/d2c/a17393.html#ac6f2aedc40e415ac0f7e8c212d4deae5", null ],
+    [ "events", "d8/d2c/a17393.html#ac02a0c34096086e7baf1dc004811f4c1", null ]
 ];

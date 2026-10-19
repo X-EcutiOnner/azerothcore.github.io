@@ -1,11 +1,10 @@
 var a08537 =
 [
-    [ "FormationInfo", "d8/d6d/a08537.html#ad00d7dd0ac811a3805a8ba2c9c1e73df", null ],
-    [ "HasGroupFlag", "d8/d6d/a08537.html#afc612acf30e8d0a047aac5b0fc2dc07b", null ],
-    [ "follow_angle", "d8/d6d/a08537.html#a928ce7047d511c316a5367faf7f96673", null ],
-    [ "follow_dist", "d8/d6d/a08537.html#a3b59ee5129e208cc3df407a921362393", null ],
-    [ "groupAI", "d8/d6d/a08537.html#af9f6dc52999efef6f0819bb8d1670fec", null ],
-    [ "leaderGUID", "d8/d6d/a08537.html#ad5af23397ae1ae835a72ce125d102ef0", null ],
-    [ "point_1", "d8/d6d/a08537.html#a84298ff533bebc633689742c7f9299ae", null ],
-    [ "point_2", "d8/d6d/a08537.html#acc308b497de18211b99eec4311b256a4", null ]
+    [ "auras", "d8/d6d/a08537.html#a20695ff7997e1ebd6fe898a8b41aeddb", null ],
+    [ "bytes1", "d8/d6d/a08537.html#ae337bd59e1e1eb7f4c9cdee4e8c6a7b9", null ],
+    [ "bytes2", "d8/d6d/a08537.html#aedf06568867bbb5db5ca8017727dab9d", null ],
+    [ "emote", "d8/d6d/a08537.html#a82f7be10807af7b25dd41c643be066fc", null ],
+    [ "mount", "d8/d6d/a08537.html#a4d84276a45de1b62e507ac5c763dce3a", null ],
+    [ "path_id", "d8/d6d/a08537.html#aa86bac734e0e652b6bb4ea273cf62571", null ],
+    [ "visibilityDistanceType", "d8/d6d/a08537.html#ad3ae39b8c5be151e15ab6f1494943bc3", null ]
 ];

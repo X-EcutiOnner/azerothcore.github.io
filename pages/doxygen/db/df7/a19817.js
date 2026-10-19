@@ -1,8 +1,25 @@
 var a19817 =
 [
-    [ "Load", "db/df7/a19817.html#af8ef90a44a5405e58dbb3003642c078b", null ],
-    [ "PrepareSpellScript", "db/df7/a19817.html#a40649371440d62e4ba8af1b077880d0b", null ],
-    [ "Register", "db/df7/a19817.html#ae2e6dbec0ace878477b6024e45d8dac0", null ],
-    [ "SendThreeTargets", "db/df7/a19817.html#ab16b83839ce9136da84691640020f846", null ],
-    [ "Validate", "db/df7/a19817.html#a27686bfd0d6029cc4667738b0af4bec4", null ]
+    [ "boss_malygos", "db/df7/a19817.html#acd26b3f587a379b568c496ea1ec3194f", null ],
+    [ "AttackStart", "db/df7/a19817.html#affc05cb6c51b8116257a4b1aef46ff00", null ],
+    [ "DamageTaken", "db/df7/a19817.html#a28a85c719c91835b5f6f52d267990c0c", null ],
+    [ "EnterEvadeMode", "db/df7/a19817.html#a53c5686a8cf473d8ed1569890bdf70a5", null ],
+    [ "GetGUID", "db/df7/a19817.html#afb552c6ee40f0415c5d8b96d140c55e6", null ],
+    [ "HandleIntroSpeech", "db/df7/a19817.html#a648e2f73ffead8912659bc342ec70774", null ],
+    [ "JustDied", "db/df7/a19817.html#a597f5291a656746becdb058c538cff89", null ],
+    [ "JustEngagedWith", "db/df7/a19817.html#a110748ba104014f161c8bb51bb6ba566", null ],
+    [ "JustSummoned", "db/df7/a19817.html#a743aba102bcad0f032113a32c34a131e", null ],
+    [ "KilledUnit", "db/df7/a19817.html#ad471155b4ff59d163218653cc3dfc104", null ],
+    [ "MoveInLineOfSight", "db/df7/a19817.html#a92ba2c3af50769e45327f4081b753d1d", null ],
+    [ "MovementInform", "db/df7/a19817.html#ab1a3fa752819f459e6eb50748f8f65b0", null ],
+    [ "Reset", "db/df7/a19817.html#a0b2603b3691b4961977acbc593202306", null ],
+    [ "SetGUID", "db/df7/a19817.html#ae8d1e363bc9db57af46afa838c72cfd1", null ],
+    [ "SpellHit", "db/df7/a19817.html#ab520ae358e31225469e96d8628c6314c", null ],
+    [ "UpdateAI", "db/df7/a19817.html#aabdec2e6a2e955cc682b122430cbdcce", null ],
+    [ "_executingVortex", "db/df7/a19817.html#a1a838052f9465530a586132a24c7ec5b", null ],
+    [ "_surgeTargetGUID", "db/df7/a19817.html#a832a8890c9b8cefb7c1043de745c1e25", null ],
+    [ "bLockHealthCheck", "db/df7/a19817.html#a8809894ee687da3133030b4d4f080b35", null ],
+    [ "IntroCounter", "db/df7/a19817.html#a88f42418d5a96d3b2630ee2975d420b1", null ],
+    [ "timer1", "db/df7/a19817.html#ad779ad4e63ce426421fab327fc9bf9ed", null ],
+    [ "timer2", "db/df7/a19817.html#a5cccd64acbf07ab2cbd5650feb2bb115", null ]
 ];

@@ -1,6 +1,6 @@
 var a12185 =
 [
-    [ "CheckProcHandler", "de/d4d/a12185.html#a1b5bfc85cb9a81a64ebd4b769e3d3651", null ],
-    [ "Call", "de/d4d/a12185.html#a977558dc8838a05259effc268235696a", null ],
-    [ "_HandlerScript", "de/d4d/a12185.html#abcb28d1a2f32402511c1e659b2f3b443", null ]
+    [ "EffectCalcPeriodicHandler", "de/d4d/a12185.html#a17288ee3b2951f1f2a8dc36a598b9a27", null ],
+    [ "Call", "de/d4d/a12185.html#a6a7eeb9599a10aa4ab918a2c2456a186", null ],
+    [ "pEffectHandlerScript", "de/d4d/a12185.html#a57673f457c08edfbf7fc1877aa071721", null ]
 ];

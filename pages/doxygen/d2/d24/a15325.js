@@ -1,6 +1,10 @@
 var a15325 =
 [
-    [ "boss_mal_ganisAI", "d8/d27/a15329.html", "d8/d27/a15329" ],
-    [ "boss_mal_ganis", "d2/d24/a15325.html#a604becb65e766f4fb71d2ae168d1be4e", null ],
-    [ "GetAI", "d2/d24/a15325.html#aa747abd11310c3535ea2ea37e4aac28b", null ]
+    [ "npc_hyjal_frost_wyrm", "d2/d24/a15325.html#a7cdc8ef87d5ccb88777fa823e199b9ce", null ],
+    [ "AttackStart", "d2/d24/a15325.html#abaaea3bcbb8806ed9d807742273eb06d", null ],
+    [ "DoAction", "d2/d24/a15325.html#adab2b42c582cee234aea37d187b66138", null ],
+    [ "JustEngagedWith", "d2/d24/a15325.html#a23dace13bb2811dea43b63f0b970a2ce", null ],
+    [ "PathEndReached", "d2/d24/a15325.html#a2ec3137dad743e4766ca402282d913c7", null ],
+    [ "Reset", "d2/d24/a15325.html#a550c20113f4ebe4015f9a8088888f99b", null ],
+    [ "UpdateAI", "d2/d24/a15325.html#a182c3b440f74a4ebe6dee64651bf701f", null ]
 ];

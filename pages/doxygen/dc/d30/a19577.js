@@ -1,7 +1,6 @@
 var a19577 =
 [
-    [ "FilterTargets", "dc/d30/a19577.html#a56ff062a6014099623466145a66284cc", null ],
-    [ "PrepareSpellScript", "dc/d30/a19577.html#aa14623bb948ff457e52979facf74ffab", null ],
-    [ "Register", "dc/d30/a19577.html#a9494bea35088161c9a520395d714fde1", null ],
-    [ "Validate", "dc/d30/a19577.html#a6a02bc1a79a5f4fefe3b1e2900eaf0b4", null ]
+    [ "boss_gluthAI", "d6/d24/a19581.html", "d6/d24/a19581" ],
+    [ "boss_gluth", "dc/d30/a19577.html#a3ff6e361cd6799f41d00fa75784c4f76", null ],
+    [ "GetAI", "dc/d30/a19577.html#a3b19c938aaecc897d6552715064be7f8", null ]
 ];

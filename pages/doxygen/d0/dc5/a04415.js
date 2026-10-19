@@ -1,5 +1,5 @@
 var a04415 =
 [
-    [ "WorldMock", "d6/d18/a29863.html", "d6/d18/a29863" ],
-    [ "AddScripts", "d0/dc5/a04415.html#abb65cb085124c346fd32ac4b92f0baa9", null ]
+    [ "ProcEventInfoBuilder", "dc/d69/a29841.html", "dc/d69/a29841" ],
+    [ "SpellProcEntryBuilder", "db/dc1/a29845.html", "db/dc1/a29845" ]
 ];

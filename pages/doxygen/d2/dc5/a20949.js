@@ -1,5 +1,7 @@
 var a20949 =
 [
-    [ "achievement_thorim_stand_in_the_lightning", "d2/dc5/a20949.html#a9339e89e4eb76151fdeacb6bcd53d7bc", null ],
-    [ "OnCheck", "d2/dc5/a20949.html#ade1aec4de4c503be5a62da3e6c35e90f", null ]
+    [ "boss_thorim_trap", "d2/dc5/a20949.html#a793ce64835292b63f81cbb7140b3c6f9", null ],
+    [ "Reset", "d2/dc5/a20949.html#a841cd9769b0875d01c2e65dddce0d1ef", null ],
+    [ "UpdateAI", "d2/dc5/a20949.html#abd5ae669c1b1ecaaa567eedb7feaad16", null ],
+    [ "_checkTimer", "d2/dc5/a20949.html#acb5ba7af429c9c0bdb8bed7cd411c655", null ]
 ];

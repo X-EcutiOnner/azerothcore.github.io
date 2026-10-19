@@ -1,6 +1,6 @@
 var a16917 =
 [
-    [ "npc_frost_sphereAI", "dc/df6/a16921.html", "dc/df6/a16921" ],
-    [ "npc_frost_sphere", "d3/dd8/a16917.html#a0256ba1c53853307f8b66e22b10bef24", null ],
-    [ "GetAI", "d3/dd8/a16917.html#a3e6de3551306fb4c35aabbd4fc656ee6", null ]
+    [ "instance_trial_of_the_champion_InstanceMapScript", "dc/df6/a16921.html", "dc/df6/a16921" ],
+    [ "instance_trial_of_the_champion", "d3/dd8/a16917.html#a7b97e3da119a7ad33a87c74647407bd8", null ],
+    [ "GetInstanceScript", "d3/dd8/a16917.html#a9227119fc47f38cd82a1fc07c04b0c86", null ]
 ];

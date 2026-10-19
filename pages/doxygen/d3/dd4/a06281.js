@@ -1,5 +1,9 @@
 var a06281 =
 [
-    [ "element", "d3/dd4/a06281.html#ae5400b2932fe1a8c514c38fb6bab392f", null ],
-    [ "type", "d3/dd4/a06281.html#afb3f8dc82da740b1aaae165cb6a5b218", null ]
+    [ "SQLQueryHolderTask", "d3/dd4/a06281.html#a017ab0275ea42132bb1e4ece7111572e", null ],
+    [ "~SQLQueryHolderTask", "d3/dd4/a06281.html#a0d1122160565c8f20f9a48390352c770", null ],
+    [ "Execute", "d3/dd4/a06281.html#a1dc2cdfee574ecbb8fd7bc595ca2f170", null ],
+    [ "GetFuture", "d3/dd4/a06281.html#a73199c4e5805933c9f79091797dedc5d", null ],
+    [ "m_holder", "d3/dd4/a06281.html#a64b624b8e77c819f5b47d592edc0979d", null ],
+    [ "m_result", "d3/dd4/a06281.html#ab27ce22bdb505509662d862e92fe7e77", null ]
 ];

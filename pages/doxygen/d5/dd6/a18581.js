@@ -1,5 +1,6 @@
 var a18581 =
 [
-    [ "operator()", "d5/dd6/a18581.html#a6a8c02f9b797ed7df8960e5ddc44f93f", null ],
-    [ "operator()", "d5/dd6/a18581.html#a3847988d35a9cb0c5aab4ad73ff1a427", null ]
+    [ "npc_ice_tombAI", "df/d77/a18585.html", "df/d77/a18585" ],
+    [ "npc_ice_tomb", "d5/dd6/a18581.html#a939c6083a77a6f4cb2a940ec9c1df55e", null ],
+    [ "GetAI", "d5/dd6/a18581.html#ac99b7c9887e54a1764310bd3e079811a", null ]
 ];

@@ -1,6 +1,6 @@
 var a27925 =
 [
-    [ "CheckProc", "d2/de7/a27925.html#ad99bf14a9b71a9ff7b2ccb73eaae41ce", null ],
-    [ "PrepareAuraScript", "d2/de7/a27925.html#a787d22fa4d989bf28aa69f64d55d9687", null ],
-    [ "Register", "d2/de7/a27925.html#a4ef23658a8f36556513fcd7b9673a14f", null ]
+    [ "HandleAfterHit", "d2/de7/a27925.html#a177bcf10d6b8fa586ff0cac3834367f9", null ],
+    [ "PrepareSpellScript", "d2/de7/a27925.html#ac16ef2ff92440deab6c69f4824bdd619", null ],
+    [ "Register", "d2/de7/a27925.html#a46fe3d7ebd663d1cb27aa473a56e81eb", null ]
 ];

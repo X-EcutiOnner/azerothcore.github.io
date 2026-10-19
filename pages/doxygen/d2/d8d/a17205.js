@@ -1,7 +1,7 @@
 var a17205 =
 [
-    [ "HandleEffectPeriodic", "d2/d8d/a17205.html#ae8121dcb796f3ee496c24bbd46651f81", null ],
-    [ "PrepareAuraScript", "d2/d8d/a17205.html#af84222492b3209c97695895c4c991f4a", null ],
-    [ "Register", "d2/d8d/a17205.html#a4d1741913631bb649508ef238e25a6c8", null ],
-    [ "Validate", "d2/d8d/a17205.html#ac9b7fd3876620988cc74aa0a5202e599", null ]
+    [ "HandleRemove", "d2/d8d/a17205.html#abaaf6d96458eb98f69552c2694c20698", null ],
+    [ "PrepareAuraScript", "d2/d8d/a17205.html#a9d219779962cb05103c90eb66a0eac60", null ],
+    [ "Register", "d2/d8d/a17205.html#abbfc73e3f4a822c47242000bf093a46f", null ],
+    [ "Validate", "d2/d8d/a17205.html#a5c4566711923c08a879a1be3f2b2f1ee", null ]
 ];

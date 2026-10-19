@@ -1,11 +1,6 @@
 var a16369 =
 [
-    [ "boss_amanitar", "df/dcc/a16369.html#a660bdf8dd64bbffda4ee1ec603c41402", null ],
-    [ "EnterEvadeMode", "df/dcc/a16369.html#a6b3cf0ea01ce34b4281116ca8387732d", null ],
-    [ "JustDied", "df/dcc/a16369.html#a138049712649ff414950d9d0ca05d712", null ],
-    [ "JustEngagedWith", "df/dcc/a16369.html#ae2bace7f649626c68560d4a6d5aa4ea3", null ],
-    [ "Reset", "df/dcc/a16369.html#aab3faca4526947a72d8ca049a605f5be", null ],
-    [ "SummonedCreatureDespawn", "df/dcc/a16369.html#a4b9dccf5b2fe46ac9f6d5eab54ba5d43", null ],
-    [ "SummonMushroom", "df/dcc/a16369.html#afc5b4942931f6020b2894b901650fc35", null ],
-    [ "_mushroomsDeque", "df/dcc/a16369.html#a4ba2415d6134cdc435114cd3af235b6d", null ]
+    [ "HandleOpenLock", "df/dcc/a16369.html#a32bfb203e9ecfbcfa75f6c3e7a17fade", null ],
+    [ "PrepareSpellScript", "df/dcc/a16369.html#a646a42455b6a46c9f7cbb4b0229122cd", null ],
+    [ "Register", "df/dcc/a16369.html#a5dcac6f609ec93074ec3ce195101f592", null ]
 ];

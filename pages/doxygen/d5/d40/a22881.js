@@ -1,6 +1,15 @@
 var a22881 =
 [
-    [ "HandleScriptEffect", "d5/d40/a22881.html#a21740b341acce23e284a3d4ceea9b6e0", null ],
-    [ "PrepareSpellScript", "d5/d40/a22881.html#addcd30a673390ca8b76eab5ccb5f4245", null ],
-    [ "Register", "d5/d40/a22881.html#aad6959f74932db219e991efd3b3af44a", null ]
+    [ "boss_grandmaster_vorpil", "d5/d40/a22881.html#a0196ae46acba9c640b6fdfe30ac63f31", null ],
+    [ "counterVoidSpawns", "d5/d40/a22881.html#a7a7c5679fe784025423119dd31d0e6ef", null ],
+    [ "JustDied", "d5/d40/a22881.html#ab492fff8a9a275c662b44eeff3300b90", null ],
+    [ "JustEngagedWith", "d5/d40/a22881.html#af1e6da02cd33742efad568424cf32c4f", null ],
+    [ "JustSummoned", "d5/d40/a22881.html#a8a661b495d7fca340f3bd291d34ab3fc", null ],
+    [ "KilledUnit", "d5/d40/a22881.html#af7779029f926e6d1c805b2f6c78cfd06", null ],
+    [ "MoveInLineOfSight", "d5/d40/a22881.html#adb24a3d337b64f37759a3a39802d7e27", null ],
+    [ "Reset", "d5/d40/a22881.html#a6471121ee02a834591b36d03fae28672", null ],
+    [ "spawnVoidTraveler", "d5/d40/a22881.html#aa842bc3d88d0a3a411dcba3711809956", null ],
+    [ "summonPortals", "d5/d40/a22881.html#a7cbdb7e7652dcac799b6f59424c8e9fd", null ],
+    [ "sayHelp", "d5/d40/a22881.html#a3c83e1f9305fc17aebb4ec5f16225e17", null ],
+    [ "sayIntro", "d5/d40/a22881.html#a5dd0edce19b33a1dd87d5b6e4458949f", null ]
 ];

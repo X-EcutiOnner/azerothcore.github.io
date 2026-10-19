@@ -1,6 +1,6 @@
 var a24905 =
 [
-    [ "CheckCast", "d2/d64/a24905.html#a583e19667a83ada4cd793fbf391f9e93", null ],
-    [ "PrepareSpellScript", "d2/d64/a24905.html#ac6adda0dbe544cf2457060647c01de0f", null ],
-    [ "Register", "d2/d64/a24905.html#a50d1284f1113bfdd0b39690efabe6b9b", null ]
+    [ "HandleScriptEffect", "d2/d64/a24905.html#ad9863535a38094779e765fe65450ce55", null ],
+    [ "PrepareSpellScript", "d2/d64/a24905.html#a653061d36c204fbd0d2dc1f983864bf1", null ],
+    [ "Register", "d2/d64/a24905.html#a5019887a078af86682eea3974bacf6dc", null ]
 ];

@@ -1,6 +1,8 @@
 var a27805 =
 [
-    [ "CheckCast", "dd/d02/a27805.html#acdb69e605c4e3b5eb3e48f400957db28", null ],
-    [ "PrepareSpellScript", "dd/d02/a27805.html#a1fb9a924ddba358d6d67943c5b2ffa24", null ],
-    [ "Register", "dd/d02/a27805.html#a703b21a93ba41211ac6e6ee182eecb8b", null ]
+    [ "CheckProc", "dd/d02/a27805.html#a11d7fe14f7b3cca93578926f157ef0d5", null ],
+    [ "HandleProc", "dd/d02/a27805.html#ac18d7286dd26ebbb868e01d17a412124", null ],
+    [ "PrepareAuraScript", "dd/d02/a27805.html#a8af3179c6688cfe0940bcd932f6766fa", null ],
+    [ "Register", "dd/d02/a27805.html#a239b3daf5f03f5e5930c7b6712a63d8a", null ],
+    [ "Validate", "dd/d02/a27805.html#a9919c0a8d284a36b3162ed435d2f7711", null ]
 ];

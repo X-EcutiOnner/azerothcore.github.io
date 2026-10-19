@@ -1,11 +1,8 @@
 var a11513 =
 [
-    [ "MoneyCost", "d1/ddf/a11513.html#a8f88c27f149bf304f46b00dec2aa4a30", null ],
-    [ "PointCost", "d1/ddf/a11513.html#aebcad3f23dbca753ad970081af0a78c9", null ],
-    [ "ReqAbility", "d1/ddf/a11513.html#acc13f04eb19a4555ae1a54594f1d858b", null ],
-    [ "ReqLevel", "d1/ddf/a11513.html#a9478dc1065bc10ebc591ff8022e43993", null ],
-    [ "ReqSkillLine", "d1/ddf/a11513.html#a5267f4615e01571a4a16d17d6914981b", null ],
-    [ "ReqSkillRank", "d1/ddf/a11513.html#ae6f9640e257d83d633c48168edc658b6", null ],
-    [ "SpellID", "d1/ddf/a11513.html#accf0f9aa4c8f2130f6926235dca69476", null ],
-    [ "Usable", "d1/ddf/a11513.html#a35d7186073a231f0dd1fe5920eec175b", null ]
+    [ "CrossedInebriationThreshold", "d1/ddf/a11513.html#a8983b7b88a76955d9a0e2241ffb1e472", null ],
+    [ "Write", "d1/ddf/a11513.html#a127dcfcc7e960d24e56d1b17bf9be992", null ],
+    [ "Guid", "d1/ddf/a11513.html#a422afb45b6c5e9c4fef58fb1801bd0ad", null ],
+    [ "ItemID", "d1/ddf/a11513.html#a9e48a650bf21872099cdb0626e875fd7", null ],
+    [ "Threshold", "d1/ddf/a11513.html#a87b756b64cbfb8f292f46cce38308095", null ]
 ];

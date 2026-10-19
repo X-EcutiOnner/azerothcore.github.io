@@ -1,8 +1,8 @@
 var a10281 =
 [
-    [ "BoundaryUnionBoundary", "da/dcb/a10281.html#a074536112fffc805dec44bd9cd602642", null ],
-    [ "~BoundaryUnionBoundary", "da/dcb/a10281.html#a96450fc020bfad7b9f1f7be64490ad46", null ],
-    [ "IsWithinBoundaryArea", "da/dcb/a10281.html#a8dc91861fa6641008236e5a83030e0d1", null ],
-    [ "_b1", "da/dcb/a10281.html#a40fcd847f38703dfe5174267fbfd81ee", null ],
-    [ "_b2", "da/dcb/a10281.html#ae70530673803bd2ee85bf722fe42718b", null ]
+    [ "CircleBoundary", "da/dcb/a10281.html#a1f58f718ac4e4f6de029a0d46954012e", null ],
+    [ "CircleBoundary", "da/dcb/a10281.html#a10387b9a70013ecc15ae4f31dd1f21f3", null ],
+    [ "IsWithinBoundaryArea", "da/dcb/a10281.html#ad8eef3c2c98ee71a7d28d1e5d93ee508", null ],
+    [ "_center", "da/dcb/a10281.html#a65edd0aef7b73b176e5e311bb0d63738", null ],
+    [ "_radiusSq", "da/dcb/a10281.html#acbb3cc0c546f0e557a48a45425355950", null ]
 ];

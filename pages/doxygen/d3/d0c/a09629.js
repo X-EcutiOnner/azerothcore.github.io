@@ -1,9 +1,12 @@
 var a09629 =
 [
-    [ "LiquidData", "d3/d0c/a09629.html#ac2435178323f480d2dae449b49b39146", null ],
-    [ "DepthLevel", "d3/d0c/a09629.html#ad84c7763a6253db7ae6117ecc7144f1d", null ],
-    [ "Entry", "d3/d0c/a09629.html#abfed22cb0e920067c0f86a0083ef4ab6", null ],
-    [ "Flags", "d3/d0c/a09629.html#aa0903ec4233bcfa34494cea5068cd19c", null ],
-    [ "Level", "d3/d0c/a09629.html#a7c596e921e383bbdbdacbcd4307fe380", null ],
-    [ "Status", "d3/d0c/a09629.html#acb79cdfb4221f158ce9b29127591a8a9", null ]
+    [ "FloatHeightData", "d9/d50/a09641.html", "d9/d50/a09641" ],
+    [ "Uint16HeightData", "d1/d24/a09633.html", "d1/d24/a09633" ],
+    [ "Uint8HeightData", "d2/d38/a09637.html", "d2/d38/a09637" ],
+    [ "HeightPlanesType", "d3/d0c/a09629.html#ab64c3cfcd01805f43ec4ef41fb3bc48d", null ],
+    [ "floatHeightData", "d3/d0c/a09629.html#abd47b99dfa1f23b0741b66cfd4837eaa", null ],
+    [ "gridHeight", "d3/d0c/a09629.html#a1f989ab0921de350dc2410129028201f", null ],
+    [ "minHeightPlanes", "d3/d0c/a09629.html#aa04f68f079e1f488cf69acd24dcd7899", null ],
+    [ "uint16HeightData", "d3/d0c/a09629.html#aec022a29ba14a18fdd33e8f65e1cd977", null ],
+    [ "uint8HeightData", "d3/d0c/a09629.html#a60a4a267b4164347e9f3ead6b5abfe14", null ]
 ];

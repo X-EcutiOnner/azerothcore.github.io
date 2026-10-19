@@ -1,7 +1,5 @@
 var a22241 =
 [
-    [ "GetSeatNumber", "d3/d9f/a22241.html#a8e18a10196667fd3dfba58d16fa281b9", null ],
-    [ "HandleDummy", "d3/d9f/a22241.html#ac5945381452559e1d5655f5345bdeff3", null ],
-    [ "PrepareSpellScript", "d3/d9f/a22241.html#aad375c0d3d1f0352cbda6a23cfb61272", null ],
-    [ "Register", "d3/d9f/a22241.html#aad1cb82fdcd170f5a43f5007ebaadf2e", null ]
+    [ "npc_black_knight_graveyardAI", "d3/d9f/a22241.html#a908ccf6763240ba0c0ebdf2dec6e1b36", null ],
+    [ "MoveInLineOfSight", "d3/d9f/a22241.html#aa5c80b5759656e3865d6721161f9f005", null ]
 ];

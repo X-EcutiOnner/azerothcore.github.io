@@ -1,6 +1,6 @@
 var a16097 =
 [
-    [ "npc_giant_spotlightAI", "da/de7/a16101.html", "da/de7/a16101" ],
-    [ "npc_giant_spotlight", "d8/dcb/a16097.html#a9d1c47de758c74a89c751b675d5cc4c0", null ],
-    [ "GetAI", "d8/dcb/a16097.html#af002a3d0194c991c1f78c720de63cfea", null ]
+    [ "npcs_riverbreeze_and_silversky", "d8/dcb/a16097.html#a9f012d5bbaa8b9f9822ddfbd86e7c4b2", null ],
+    [ "OnGossipHello", "d8/dcb/a16097.html#a7de032322a37f929c316aadfdadda768", null ],
+    [ "OnGossipSelect", "d8/dcb/a16097.html#a93c7b159dda733da5030de747bad30b5", null ]
 ];

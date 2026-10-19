@@ -1,11 +1,9 @@
 var a05353 =
 [
-    [ "MmapTileHeader", "d9/d74/a05353.html#a0165f9a4caee4e4759ea261dfbac08a7", null ],
-    [ "dtVersion", "d9/d74/a05353.html#a34d3ed8c617139653176454d7fa7934e", null ],
-    [ "mmapMagic", "d9/d74/a05353.html#ace0ec88460c97f1438de2d0e6a9d7774", null ],
-    [ "mmapVersion", "d9/d74/a05353.html#a5cc3cd873419fe8aeb479d3187584410", null ],
-    [ "padding", "d9/d74/a05353.html#a6ca977b85a993eb6721e3bfe9fd3abfd", null ],
-    [ "recastConfig", "d9/d74/a05353.html#a6552d0370a83567a4d01b4c20adff8cc", null ],
-    [ "size", "d9/d74/a05353.html#a69f3284a4a56b1108792ba56c250bf97", null ],
-    [ "usesLiquids", "d9/d74/a05353.html#aeb4e622161a4bb42cff42d37542f0254", null ]
+    [ "MMapMgr", "d9/d74/a05353.html#abd4bd2ef84d57be5000ab37ed36ded8c", null ],
+    [ "~MMapMgr", "d9/d74/a05353.html#a0891f2313f7c78182334b43e304bafd0", null ],
+    [ "CreateNavMeshQuery", "d9/d74/a05353.html#affca526b45b63f9c827a52baa212f02c", null ],
+    [ "LoadNavMesh", "d9/d74/a05353.html#aead5607e8f61161464c388c889ca9938", null ],
+    [ "LoadTile", "d9/d74/a05353.html#a2b1efdb836189224a7ac1247b6c397e5", null ],
+    [ "packTileID", "d9/d74/a05353.html#ace3265c248ccf2a34ca4b7c43f294e43", null ]
 ];

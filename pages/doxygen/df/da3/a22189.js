@@ -1,7 +1,7 @@
 var a22189 =
 [
-    [ "HandleDummy", "df/da3/a22189.html#a3a0f6a1c3bad060c209e869c7c4dcd15", null ],
-    [ "PrepareSpellScript", "df/da3/a22189.html#a4649e83f5a8449d6b17dbb5b5c56cd00", null ],
-    [ "Register", "df/da3/a22189.html#a9e272ccbcda76df669b2c15e6d2de061", null ],
-    [ "Validate", "df/da3/a22189.html#aec08efe15452819d923c40030e464392", null ]
+    [ "HandleScriptEffect", "df/da3/a22189.html#a7b0fca053f225beda41942d8fee86383", null ],
+    [ "PrepareSpellScript", "df/da3/a22189.html#a1312914fef2c12d8c88f7fe3d3bc0dd4", null ],
+    [ "Register", "df/da3/a22189.html#a43ca6b9d0d23d0bce2c1bb2fc6e7b76c", null ],
+    [ "Validate", "df/da3/a22189.html#a5ca06a91aa921b4cc90a960fcb4cdb67", null ]
 ];

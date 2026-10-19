@@ -1,9 +1,6 @@
 var a24553 =
 [
-    [ "npc_pet_gen_fetch_ball", "da/d46/a24553.html#a4cd4dabd5df72ad1e64bdc8d6efb2f1b", null ],
-    [ "IsSummonedBy", "da/d46/a24553.html#abaf6308f7c47fd05acb86055bec0aea8", null ],
-    [ "SpellHitTarget", "da/d46/a24553.html#a87bdded236f6584d9b71507a1253f7d0", null ],
-    [ "UpdateAI", "da/d46/a24553.html#a1e0f75d5cd438d500ad94c5024bf83ae", null ],
-    [ "checkTimer", "da/d46/a24553.html#ab8d0a3a9ba2a8e0d6f58b3867f20974e", null ],
-    [ "targetGUID", "da/d46/a24553.html#ae474374af7c2270e218ed236d90c789c", null ]
+    [ "HandleDamageCalc", "da/d46/a24553.html#a9e0f6fe8bb10950c2130fb7d1f07017a", null ],
+    [ "PrepareSpellScript", "da/d46/a24553.html#a183477b6269dbc705a10e60ab36c13b1", null ],
+    [ "Register", "da/d46/a24553.html#ae93d958a3a439e3401685b0d2a570f0e", null ]
 ];

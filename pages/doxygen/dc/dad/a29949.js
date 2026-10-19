@@ -1,11 +1,8 @@
 var a29949 =
 [
-    [ "SetUp", "dc/dad/a29949.html#abb28ef64461635a540dad471b7b12ebc", null ],
-    [ "TearDown", "dc/dad/a29949.html#ace0b9a0c578a6b8ec1d33ad584aaf911", null ],
-    [ "_previousWorld", "dc/dad/a29949.html#a2633d21816e5aa3e4a649292f07a3369", null ],
-    [ "_worldMock", "dc/dad/a29949.html#ae1629c69438e29ea7be460120132b68b", null ],
-    [ "arenaTeams", "dc/dad/a29949.html#ab40dacafdb3c5de73cf66426d014a4fe", null ],
-    [ "team1", "dc/dad/a29949.html#a325d8058950e53d17e16fd90cd105776", null ],
-    [ "team2", "dc/dad/a29949.html#ac6336ffa31e59a5d3acc227c674e9ea8", null ],
-    [ "team3", "dc/dad/a29949.html#af3c2e86874e53ae812debbe1abfbcf05", null ]
+    [ "SetUp", "dc/dad/a29949.html#a72263bcd7a57c9dde376a55d491c16be", null ],
+    [ "TearDown", "dc/dad/a29949.html#a0212d5e3ace33a35adce8dfc782babf9", null ],
+    [ "PERM_A", "dc/dad/a29949.html#af731a3059dc701385facc03041a6c9b5", null ],
+    [ "PERM_B", "dc/dad/a29949.html#aaa3046adc81ef5afaf83d914638a46d4", null ],
+    [ "PERM_C", "dc/dad/a29949.html#a9a9e678ca868669ec99f8e2fc0348372", null ]
 ];

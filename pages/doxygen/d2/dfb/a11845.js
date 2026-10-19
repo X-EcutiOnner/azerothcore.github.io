@@ -1,14 +1,11 @@
 var a11845 =
 [
-    [ "Account", "d2/dfb/a11845.html#acb9382abe66dd43176fb7af1f3020388", null ],
-    [ "AddonInfo", "d2/dfb/a11845.html#ad39c1b9e73d5bbbe45114e3358126d73", null ],
-    [ "BattlegroupID", "d2/dfb/a11845.html#aa09cd28d82e9d96d96a1ccefc4a313ca", null ],
-    [ "Build", "d2/dfb/a11845.html#ae4a83f8e8c81c1d797512245392fd582", null ],
-    [ "Digest", "d2/dfb/a11845.html#a6b795f38fb996534f502e1fa5de9e48e", null ],
-    [ "DosResponse", "d2/dfb/a11845.html#afe2b4146ef592a7067ddaeac449b0644", null ],
-    [ "LocalChallenge", "d2/dfb/a11845.html#a5c8c57127a0b1cd3cfa63503018c8ae3", null ],
-    [ "LoginServerID", "d2/dfb/a11845.html#a155f8107ac5a637501a169cfaf43c4b9", null ],
-    [ "LoginServerType", "d2/dfb/a11845.html#aea79adfcdb6acd5b6bf34fc9175cca3c", null ],
-    [ "RealmID", "d2/dfb/a11845.html#a944915bd95665075fdf4b6fa01de9a9f", null ],
-    [ "RegionID", "d2/dfb/a11845.html#a4052be051b41e931747b1956dc145d64", null ]
+    [ "Player", "d2/dfb/a11845.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
+    [ "WorldSession", "d2/dfb/a11845.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
+    [ "Face", "d2/dfb/a11845.html#a6334464eea38be514f3faa7538b39a5a", null ],
+    [ "FacialHair", "d2/dfb/a11845.html#a44643270b211d275eb94283842791407", null ],
+    [ "Gender", "d2/dfb/a11845.html#a14321ea3595debe2836eceab8a82f944", null ],
+    [ "HairColor", "d2/dfb/a11845.html#aeaa7ce4ecea7f42def63049424a2dd6b", null ],
+    [ "HairStyle", "d2/dfb/a11845.html#ade5b2dff213547ab4d707070f8979085", null ],
+    [ "Skin", "d2/dfb/a11845.html#a2876110e687e7248e8c64fcb3a3a80db", null ]
 ];

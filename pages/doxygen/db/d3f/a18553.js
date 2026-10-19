@@ -1,6 +1,12 @@
 var a18553 =
 [
-    [ "UnchainedMagicTargetSelector", "db/d3f/a18553.html#ae412c72884e6cfb1ceef8ed9fb347fbf", null ],
-    [ "operator()", "db/d3f/a18553.html#af28ce8f46154ae6152e9025775a7f84f", null ],
-    [ "_removeHealers", "db/d3f/a18553.html#a35a7981ce5495cba8b3a5391e4031431", null ]
+    [ "npc_precious_iccAI", "db/d3f/a18553.html#a90dff89c652339ecf7479d2c9233962a", null ],
+    [ "JustDied", "db/d3f/a18553.html#a06671144929a3783f17397b818016032", null ],
+    [ "JustEngagedWith", "db/d3f/a18553.html#a05cd30f0bf149d16c75ad3f717cb9dcc", null ],
+    [ "JustSummoned", "db/d3f/a18553.html#adafed6974cbd70ccfc0f9ee83732d162", null ],
+    [ "Reset", "db/d3f/a18553.html#a9ecb9771140d1248c08c56886c8d4ca9", null ],
+    [ "SummonedCreatureDespawn", "db/d3f/a18553.html#af59e24c588861fe7d1bcd456780f571a", null ],
+    [ "UpdateAI", "db/d3f/a18553.html#a1fd3a4d7d16bb93be68d8b135546ab1e", null ],
+    [ "events", "db/d3f/a18553.html#a4ac57f4ffe0886f463378b42525e2e4d", null ],
+    [ "summons", "db/d3f/a18553.html#ab752e504c7cf463a4447a07fbb67211c", null ]
 ];

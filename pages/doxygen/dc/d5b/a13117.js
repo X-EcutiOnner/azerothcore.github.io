@@ -1,6 +1,9 @@
 var a13117 =
 [
-    [ "boss_lucifron", "dc/d5b/a13117.html#a632be7d3aaa9cc2360fce6871918a4b1", null ],
-    [ "ExecuteEvent", "dc/d5b/a13117.html#ae392b01817d9160ef0c80387406ad6fa", null ],
-    [ "JustEngagedWith", "dc/d5b/a13117.html#a9ebfc9877165aaadd2ea446995f4cf99", null ]
+    [ "HandleAfterApply", "dc/d5b/a13117.html#ab5dea2b9154ea73e9f159f6899f71d1d", null ],
+    [ "HandleAfterRemove", "dc/d5b/a13117.html#a07bfb9395c738a197bafbaa0a43b9d48", null ],
+    [ "PeriodicTick", "dc/d5b/a13117.html#a1ea9275cf310f95e9f8351892dce0a21", null ],
+    [ "PrepareAuraScript", "dc/d5b/a13117.html#a8f13734ec4eb2dfda64be4ed3410e9a7", null ],
+    [ "Register", "dc/d5b/a13117.html#a778da1e0ae7d5cab576b55bff93c923f", null ],
+    [ "Validate", "dc/d5b/a13117.html#a205b4cc0f5c513680573b41a786a0b5e", null ]
 ];

@@ -11,5 +11,6 @@ var dir_432bda28dad7986d3a1dc3010dcbb57c =
     [ "Modules", "dir_ea4c1b50a572fe0f418ec2f6e29d2b3b.html", "dir_ea4c1b50a572fe0f418ec2f6e29d2b3b" ],
     [ "Pools", "dir_6c056af80b919649fcf50736e999ee3c.html", "dir_6c056af80b919649fcf50736e999ee3c" ],
     [ "Spells", "dir_7ee4929d46277e5eb29eea0f8a31fa60.html", "dir_7ee4929d46277e5eb29eea0f8a31fa60" ],
-    [ "Time", "dir_f5e4129fec19524b88796969e1224b90.html", "dir_f5e4129fec19524b88796969e1224b90" ]
+    [ "Time", "dir_f5e4129fec19524b88796969e1224b90.html", "dir_f5e4129fec19524b88796969e1224b90" ],
+    [ "Warden", "dir_55f702fb3cd7d7f2fac0dbd4c0275863.html", "dir_55f702fb3cd7d7f2fac0dbd4c0275863" ]
 ];

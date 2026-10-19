@@ -1,4 +1,5 @@
 var a03836 =
 [
-    [ "Movement::MoveSplineFlag", "d8/d3a/a10595.html", "d8/d3a/a10595" ]
+    [ "Movement::SplineBase", "d6/d99/a10637.html", "d6/d99/a10637" ],
+    [ "Movement::Spline< length_type >", "dd/d76/a10641.html", "dd/d76/a10641" ]
 ];

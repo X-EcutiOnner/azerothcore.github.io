@@ -1,9 +1,5 @@
 var a28221 =
 [
-    [ "emerald_dragonAI", "de/d0f/a28221.html#ae80aa90ad978b8e3254a3c116bf05959", null ],
-    [ "ExecuteEvent", "de/d0f/a28221.html#a6e60f146c7b86a119f269bf755831ac6", null ],
-    [ "JustSummoned", "de/d0f/a28221.html#a4ec04284cdebfc5b594e083aa850f7cb", null ],
-    [ "KilledUnit", "de/d0f/a28221.html#a69b24bf865ecd38822d5602314cddf11", null ],
-    [ "Reset", "de/d0f/a28221.html#aff24939b53a7d74b41ac9170a8a71e9c", null ],
-    [ "UpdateAI", "de/d0f/a28221.html#a221768f9ad3c79bbcdefd3092228e3b0", null ]
+    [ "achievement_fa_la_la_la_ogrila", "de/d0f/a28221.html#ab98a8ab33fec62936bf3c235659c1445", null ],
+    [ "OnCheck", "de/d0f/a28221.html#ad9f33606fcacfd698ed3a9fa22545022", null ]
 ];

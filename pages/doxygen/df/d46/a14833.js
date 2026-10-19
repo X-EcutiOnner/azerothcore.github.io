@@ -1,6 +1,9 @@
 var a14833 =
 [
-    [ "npc_direbrew_antagonist", "df/d46/a14833.html#a30fed4e6888d98af576dea8e13c510d3", null ],
-    [ "DoAction", "df/d46/a14833.html#a924891e5d4e3f30d78186bedf76cf7d1", null ],
-    [ "JustEngagedWith", "df/d46/a14833.html#aaf54b03d66d726901c289ff28d362787", null ]
+    [ "CheckCast", "df/d46/a14833.html#a02965b55e8efadbd21e5afdd824f1dec", null ],
+    [ "FilterTargets", "df/d46/a14833.html#a9638048b4107db116474abf8e18d7760", null ],
+    [ "HandleBeforeHit", "df/d46/a14833.html#a3567c72e999ad6ca9db15b4d6ddadafb", null ],
+    [ "HandleScriptEffect", "df/d46/a14833.html#a47d6a6c1fcb2b04782e54d3797c1f42c", null ],
+    [ "PrepareSpellScript", "df/d46/a14833.html#aab9211291bd9dab8255d94e4eb07bf8e", null ],
+    [ "Register", "df/d46/a14833.html#a73e6c9c91dccb309207fa3aeb6bd9d6f", null ]
 ];

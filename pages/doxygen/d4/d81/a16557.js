@@ -1,8 +1,6 @@
 var a16557 =
 [
-    [ "npc_twilight_summon", "d4/d81/a16557.html#a34697edd1af94814862a50a038625f93", null ],
-    [ "DoAction", "d4/d81/a16557.html#a78ef5af35959e8bedbf7a23569a2f8bd", null ],
-    [ "Reset", "d4/d81/a16557.html#aa909fac05e93a78d3f70222fb82a6841", null ],
-    [ "UpdateAI", "d4/d81/a16557.html#afe47f7af23aa7ef5b59473579c649859", null ],
-    [ "fadeArmorTimer", "d4/d81/a16557.html#a998e2efd9e25915d32b953d684352511", null ]
+    [ "instance_azjol_nerub_InstanceScript", "d4/d81/a16557.html#a886ed4c1485fdedcc176341210eee31a", null ],
+    [ "OnCreatureEvade", "d4/d81/a16557.html#af163238686bf22f11908f64ffb5cacca", null ],
+    [ "OnUnitDeath", "d4/d81/a16557.html#a45792f7c2d1a042d68907a0f475634d1", null ]
 ];

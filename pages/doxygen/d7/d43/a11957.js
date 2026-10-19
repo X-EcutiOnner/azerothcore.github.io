@@ -1,9 +1,10 @@
 var a11957 =
 [
-    [ "WorldObjectSpellAreaTargetCheck", "d7/d43/a11957.html#a27df2d4c2d8c39b06a3e11681e16876e", null ],
-    [ "operator()", "d7/d43/a11957.html#a36a7194e3ffbdc2ea1c4bd5ed5997da4", null ],
-    [ "_position", "d7/d43/a11957.html#a680c45dd148161657da011a1772375ca", null ],
-    [ "_range", "d7/d43/a11957.html#a4ee3762b4a7f35d252cbb5337d61d92c", null ],
-    [ "_referenceType", "d7/d43/a11957.html#a87252b8b2dd0d38417c236718aadaa98", null ],
-    [ "_searchReason", "d7/d43/a11957.html#aad544cdfe9423a7967dfed64aeaed995", null ]
+    [ "TriggeredByAuraSpellData", "d7/d43/a11957.html#a3f4704eed73af1e37a3d09434cfcddae", null ],
+    [ "Init", "d7/d43/a11957.html#a782e0056967e006748318af3112c0e43", null ],
+    [ "operator bool", "d7/d43/a11957.html#a85d4782b76b060c172aaa6f914d400da", null ],
+    [ "operator!", "d7/d43/a11957.html#af7290a4c37b1829a98e436486fa8b6cd", null ],
+    [ "effectIndex", "d7/d43/a11957.html#a9bbee8d48d4beb8a21721a10e0380c41", null ],
+    [ "spellInfo", "d7/d43/a11957.html#af58f62fb168e9da7011f7b570f08e977", null ],
+    [ "tickNumber", "d7/d43/a11957.html#afbb1ffd006dc6eb00ccd65add87b1b22", null ]
 ];

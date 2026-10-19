@@ -1,7 +1,8 @@
 var a08533 =
 [
-    [ "CreatureSpellCooldown", "d8/dae/a08533.html#a6d234a93951992640df5720a2885be3e", null ],
-    [ "CreatureSpellCooldown", "d8/dae/a08533.html#a53364a501b0ce66e05ec0e6638f6cb6e", null ],
-    [ "category", "d8/dae/a08533.html#a27330a80d711087f1894b2ce816c33b8", null ],
-    [ "end", "d8/dae/a08533.html#a9c1c5f2b6e9a6cd015085e79b043e483", null ]
+    [ "bounding_radius", "d8/dae/a08533.html#a9f4a794b06bcbe31fc0a104cc97b91a4", null ],
+    [ "combat_reach", "d8/dae/a08533.html#ac271edb10093db19e4df1396053f820d", null ],
+    [ "gender", "d8/dae/a08533.html#aa5c8134851ff4f7ab6ad2af3b6e1dc1e", null ],
+    [ "is_trigger", "d8/dae/a08533.html#a52dbfa82e1525df681b87ab07ba8ead0", null ],
+    [ "modelid_other_gender", "d8/dae/a08533.html#a222b3c513a64b385954ea549e67f4255", null ]
 ];

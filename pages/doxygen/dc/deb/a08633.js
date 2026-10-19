@@ -1,10 +1,9 @@
 var a08633 =
 [
-    [ "SpellCategory", "dc/deb/a08633.html#ad170ffceb499879a4b0d638e9c922703", null ],
-    [ "SpellCategoryCooldown", "dc/deb/a08633.html#a8a33274d71b410f24f110e9a5921ff18", null ],
-    [ "SpellCharges", "dc/deb/a08633.html#a16909465a3a20dbab6e3ca2e3c807f17", null ],
-    [ "SpellCooldown", "dc/deb/a08633.html#a8ef7106595ed25ce23ca2163258d769a", null ],
-    [ "SpellId", "dc/deb/a08633.html#af6973a8a9a258a87a916bcd431c33d8d", null ],
-    [ "SpellPPMRate", "dc/deb/a08633.html#a5b208a667802e4c3766619c96d267287", null ],
-    [ "SpellTrigger", "dc/deb/a08633.html#a39657ff9e561a3c86a671f7b3c78ef98", null ]
+    [ "TrapTargetCheck", "dc/deb/a08633.html#a50295fd91605319ce5f9193313740778", null ],
+    [ "operator()", "dc/deb/a08633.html#a888669fe315e3b43540ca6c5b746c8b0", null ],
+    [ "_owner", "dc/deb/a08633.html#a48293a36445602f3544dba2f8900e571", null ],
+    [ "_range", "dc/deb/a08633.html#a99c524f6018c62aeab771c6db24e467d", null ],
+    [ "_spellCheck", "dc/deb/a08633.html#a312d3677d5184f63d007fd32db51fa19", null ],
+    [ "_trap", "dc/deb/a08633.html#a58664aa8717a38186de05d3dec174a21", null ]
 ];

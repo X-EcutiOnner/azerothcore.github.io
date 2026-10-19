@@ -1,6 +1,6 @@
 var a21961 =
 [
-    [ "GhoulTargetCheck", "de/d1f/a21961.html#acd743b2b1407c5171fbf410a02ff07bf", null ],
-    [ "operator()", "de/d1f/a21961.html#a6722cfe5a1ceecccf2c07924b2975f46", null ],
-    [ "_alive", "de/d1f/a21961.html#ab44092ca1cd6d7c17d7c63e0a8333453", null ]
+    [ "npc_heated_battleAI", "de/d1f/a21961.html#a2b73957d7890549f4b02488c5527fcef", null ],
+    [ "DamageTaken", "de/d1f/a21961.html#a8422c157214195d7166ede35c9c05d19", null ],
+    [ "Reset", "de/d1f/a21961.html#a11a4f3270ff260e30da89017dad38433", null ]
 ];

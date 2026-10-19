@@ -1,7 +1,5 @@
 var a20981 =
 [
-    [ "npc_xt_void_zone", "dd/d0b/a20981.html#ac392b70098ff8a486d1eb42c4dcd1551", null ],
-    [ "Reset", "dd/d0b/a20981.html#a72b02a51f71370f83b58d3fdb32dccd2", null ],
-    [ "UpdateAI", "dd/d0b/a20981.html#a7b49046e49cdf6b94ed6368197daeace", null ],
-    [ "_scheduler", "dd/d0b/a20981.html#acfd9e9a23c88e74ad96a14f8fb560612", null ]
+    [ "go_thorim_lever", "dd/d0b/a20981.html#a7641a89c3c369d26753a6e97dd435802", null ],
+    [ "OnGossipHello", "dd/d0b/a20981.html#aa48cd4d5728bd2d012a91f51299827a0", null ]
 ];

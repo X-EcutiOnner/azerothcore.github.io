@@ -1,7 +1,6 @@
 var a21225 =
 [
-    [ "npc_frost_tomb", "de/dce/a21225.html#a9c7abe1dc25b807d34f1ed818ab639ef", null ],
-    [ "JustDied", "de/dce/a21225.html#a40a14647eaf9f2c5bd11c094f0aadb79", null ],
-    [ "UpdateAI", "de/dce/a21225.html#af2122e9c8cb206151f631659c7d167da", null ],
-    [ "PrisonerGUID", "de/dce/a21225.html#a456fcd5dd3f504954a74fc068f253dc2", null ]
+    [ "OnEffect", "de/dce/a21225.html#aa24cfd6feec65f466e74c68484815c1e", null ],
+    [ "PrepareSpellScript", "de/dce/a21225.html#a648fb610fb1914efac7f2cb6e1bb4290", null ],
+    [ "Register", "de/dce/a21225.html#ac1c0076665edc6a2b3a0228340020a1e", null ]
 ];

@@ -1,6 +1,7 @@
 var a25161 =
 [
-    [ "CalculateAmount", "d7/ddd/a25161.html#a9e54ae3e90ee8bf0fab966a497f761b3", null ],
-    [ "PrepareAuraScript", "d7/ddd/a25161.html#a51f9c0f92100c02e1fe7d127fecd902f", null ],
-    [ "Register", "d7/ddd/a25161.html#a5c89e7e53a7f41665ff25d57df8f7afb", null ]
+    [ "if", "d7/ddd/a25161.html#a6b9c0d513b24e9a5c0eef8307b2eb3a8", null ],
+    [ "PrepareAuraScript", "d7/ddd/a25161.html#a01d974333043452a37ec3124d23b49f2", null ],
+    [ "Register", "d7/ddd/a25161.html#aeb6c695819e894aad8b210a237e6d315", null ],
+    [ "AuraEffectHandleModes", "d7/ddd/a25161.html#a9b235517305f9b2fcf2d31eb3a4edbd2", null ]
 ];

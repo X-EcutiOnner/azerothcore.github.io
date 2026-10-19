@@ -1,6 +1,6 @@
 var a28133 =
 [
-    [ "achievement_arena_by_type", "d4/d91/a28133.html#a2042c808304e8ddf1849820491b9f1a3", null ],
-    [ "OnCheck", "d4/d91/a28133.html#abebdbf19fbf1b79c30114a9cf4ff98a4", null ],
-    [ "_arenaType", "d4/d91/a28133.html#a5c38e5fef5eaf3d037864ba2aa80584a", null ]
+    [ "HandleProc", "d4/d91/a28133.html#a6b321d6ee3002f32b546aeaed0925183", null ],
+    [ "PrepareAuraScript", "d4/d91/a28133.html#a4186315ab8fa250fd108c2de1c650f9e", null ],
+    [ "Register", "d4/d91/a28133.html#a3817a49fbcac2d70ded5a39b3cce8ea7", null ]
 ];

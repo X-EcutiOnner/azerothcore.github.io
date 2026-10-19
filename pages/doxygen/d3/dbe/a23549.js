@@ -1,6 +1,9 @@
 var a23549 =
 [
-    [ "instance_steam_vault_InstanceMapScript", "d3/dbe/a23549.html#a1ca8d6b10fabe1a8b829dbf62b77ed51", null ],
-    [ "OnGameObjectCreate", "d3/dbe/a23549.html#ace71fc6f1d7bc4b49bc2a2507f481fc2", null ],
-    [ "SetBossState", "d3/dbe/a23549.html#ab1e344fbf169ee40f28741217f3dca14", null ]
+    [ "boss_mennu_the_betrayer", "d3/dbe/a23549.html#a3f881a89d1da70d066ce9a3fe0b29a3e", null ],
+    [ "JustDied", "d3/dbe/a23549.html#acf87c54cc2a3ee5c8378ef40553ab51c", null ],
+    [ "JustEngagedWith", "d3/dbe/a23549.html#a535b9af1677b8af50515818a18e88d27", null ],
+    [ "JustSummoned", "d3/dbe/a23549.html#a59949872270890ef794a77029074210b", null ],
+    [ "KilledUnit", "d3/dbe/a23549.html#a1a55fb7f1dacc5e514e71901d66bd35e", null ],
+    [ "Reset", "d3/dbe/a23549.html#a6f0043e73a55cd1cccae22a806d702ea", null ]
 ];

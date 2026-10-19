@@ -1,10 +1,7 @@
 var a21705 =
 [
-    [ "npc_imprisoned_beryl_sorcererAI", "db/d06/a21705.html#a0a8159a84689dbfd8c69ed523ce03817", null ],
-    [ "GotStinged", "db/d06/a21705.html#a0729c584c3b65e5f25f4445de378f0ea", null ],
-    [ "JustEngagedWith", "db/d06/a21705.html#a2f3e45b3f762ede62aa94a6ae3f2909f", null ],
-    [ "Reset", "db/d06/a21705.html#aedc82ee3bfa193a838d5af62533e19b4", null ],
-    [ "SpellHit", "db/d06/a21705.html#a2010b53b3a8ad1e0aa6ecb5a26c8b6c9", null ],
-    [ "UpdateAI", "db/d06/a21705.html#a21def23073eeec051c1c97a813e0ea84", null ],
-    [ "rebuff", "db/d06/a21705.html#ac83c25091fdd3c7876a88927b758261f", null ]
+    [ "npc_violet_hold_defense_system", "db/d06/a21705.html#abb5eb275e803201aad3010ad77aa4b41", null ],
+    [ "Reset", "db/d06/a21705.html#a77925ae6097f7a52d446ee20bbb3de62", null ],
+    [ "UpdateAI", "db/d06/a21705.html#ab39bc3da2d7ce33be1e27cd48fc16e89", null ],
+    [ "_tickCount", "db/d06/a21705.html#a4a7504069b05480428278fd09d5e59ba", null ]
 ];

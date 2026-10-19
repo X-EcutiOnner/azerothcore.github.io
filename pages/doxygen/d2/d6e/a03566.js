@@ -1,5 +1,4 @@
 var a03566 =
 [
-    [ "TotemAI", "de/d5f/a06579.html", "de/d5f/a06579" ],
-    [ "KillMagnetEvent", "da/d07/a06583.html", "da/d07/a06583" ]
+    [ "UPDATE_TARGET", "d2/d6e/a03566.html#a7147e15125e75e9e1624cd480f4afb5f", null ]
 ];

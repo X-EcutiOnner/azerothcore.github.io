@@ -1,6 +1,5 @@
 var a20565 =
 [
-    [ "FilterTargets", "d3/d39/a20565.html#a4f77f654ef8bb589fbb81e8cb1ec6ce6", null ],
-    [ "PrepareSpellScript", "d3/d39/a20565.html#a52c6b32ab01a68b258d4fe89730ec32b", null ],
-    [ "Register", "d3/d39/a20565.html#a2e9ee7705a950d6a500ac472ff783b3a", null ]
+    [ "id", "d3/d39/a20565.html#accc6fc59e13a0897ae168fae33ee4c7d", null ],
+    [ "pos", "d3/d39/a20565.html#aeca90e17f8b6f5b40f0f703ef9fe2b73", null ]
 ];

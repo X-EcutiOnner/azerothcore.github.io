@@ -1,6 +1,7 @@
 var a15985 =
 [
-    [ "npc_rabid_thistle_bearAI", "d6/dfb/a15989.html", "d6/dfb/a15989" ],
-    [ "npc_rabid_thistle_bear", "dc/def/a15985.html#a34b20a4ea22d74352712dee105247d56", null ],
-    [ "GetAI", "dc/def/a15985.html#ab5c21cd3afa0bd13c937e6acf1912af4", null ]
+    [ "npc_prophet_velen", "dc/def/a15985.html#a6f35fa9af478e1bb8fbbdda97845d067", null ],
+    [ "JustDied", "dc/def/a15985.html#a8f1e689b5597bc1c8c810bafe2ad0330", null ],
+    [ "Reset", "dc/def/a15985.html#a5beec39fd545129d0f124bb19524f95c", null ],
+    [ "UpdateAI", "dc/def/a15985.html#a2d016ecfedc5c7e886e7412081b54792", null ]
 ];

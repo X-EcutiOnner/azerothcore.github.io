@@ -1,6 +1,6 @@
 var a22577 =
 [
-    [ "HandlePeriodicDummy", "de/db7/a22577.html#a0096e0521c37a4f7f9ab1f2173a807d4", null ],
-    [ "PrepareAuraScript", "de/db7/a22577.html#ad55ab81c39e8bf53d1e2066bbeefa712", null ],
-    [ "Register", "de/db7/a22577.html#afeccfe29a0e0f192a4242217f9d4b7e5", null ]
+    [ "npc_wg_queueAI", "de/db7/a22577.html#a3760738d61b6148042fc30bd96b88fdc", null ],
+    [ "UpdateAI", "de/db7/a22577.html#a2e5f19a0f01eeb3d1585c7b02f2073b2", null ],
+    [ "events", "de/db7/a22577.html#ab0eb949272e48120cff1c3df27ad8e92", null ]
 ];

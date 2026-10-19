@@ -1,5 +1,7 @@
 var a09001 =
 [
-    [ "PlayerClassInfo", "d4/d1e/a09001.html#a6a0a6db24e144593356e0505946e8f06", null ],
-    [ "levelInfo", "d4/d1e/a09001.html#aa234b353361ef0017ec974ca4c8e86f1", null ]
+    [ "IsInSpec", "d4/d1e/a09001.html#a17668f5b6ea479c9e6c0fd2593853a1d", null ],
+    [ "Active", "d4/d1e/a09001.html#a7ddfb4a1cbd77fe84e49b42b9a28bb90", null ],
+    [ "specMask", "d4/d1e/a09001.html#af178fb95c99f0c961bf12435fc7a3fd5", null ],
+    [ "State", "d4/d1e/a09001.html#a54331e3ecac0d39a4fc7a6b8c2c9f532", null ]
 ];

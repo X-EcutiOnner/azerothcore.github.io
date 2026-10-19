@@ -1,6 +1,9 @@
 var a25865 =
 [
-    [ "CheckProc", "db/d29/a25865.html#a393946dd3404c4b03a9a8ced7913ccaa", null ],
-    [ "PrepareAuraScript", "db/d29/a25865.html#ae28075d0d66c99fb77a2c7fef678f4e2", null ],
-    [ "Register", "db/d29/a25865.html#a3e0279f7dc724b4d49bfda4f0e417353", null ]
+    [ "CheckIfCorpseNear", "db/d29/a25865.html#a9b512f84f1d728e24845b6aaa28bdd6b", null ],
+    [ "HandleDummy", "db/d29/a25865.html#a913c0137d2a13c810bbae869cc6cf734", null ],
+    [ "Load", "db/d29/a25865.html#a3f36968d10bde12c7e2eda8db4145252", null ],
+    [ "PrepareSpellScript", "db/d29/a25865.html#acc7d6f489c34c3cc26f37bc94f8727e8", null ],
+    [ "Register", "db/d29/a25865.html#a736c4fe39e947ad98df19b3b001bdc29", null ],
+    [ "Validate", "db/d29/a25865.html#a51b075f95211025b2a7719a3ee70a6be", null ]
 ];

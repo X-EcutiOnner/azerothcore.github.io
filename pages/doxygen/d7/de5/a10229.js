@@ -1,11 +1,15 @@
 var a10229 =
 [
-    [ "DeleteEmptyExpiredMail", "d7/de5/a10229.html#a3cd0e2570c8c684d09931331dfb5837f", null ],
-    [ "instance", "d7/de5/a10229.html#abe24c4d840d5f2b05958a44cd63b8b35", null ],
-    [ "LoadMailCounts", "d7/de5/a10229.html#a6786cc5036259c23256b669da1146012", null ],
-    [ "OnMailDeleted", "d7/de5/a10229.html#a699bf593d7f00470878504141e7fe3df", null ],
-    [ "OnMailReturned", "d7/de5/a10229.html#ac355df32c38e8619cf18cee283894c64", null ],
-    [ "OnMailSent", "d7/de5/a10229.html#ad22a9a0cf09a5dc7acaf14dfdd0bcdbf", null ],
-    [ "RecountMailCount", "d7/de5/a10229.html#a595b8b31c9695c8bbec64e2f982853d0", null ],
-    [ "ReturnOrDeleteOldMails", "d7/de5/a10229.html#ab4ef5f6ca91286c732b257f267b06f14", null ]
+    [ "MailSender", "d7/de5/a10229.html#a16466924bf75ea8203ba27c0f3e6188b", null ],
+    [ "MailSender", "d7/de5/a10229.html#a735cfef6950357644d6965978dde0309", null ],
+    [ "MailSender", "d7/de5/a10229.html#a145000f5ef63627ee26a5699846e06cf", null ],
+    [ "MailSender", "d7/de5/a10229.html#a9ddda06cf5ecc55efdc4525353471c5b", null ],
+    [ "MailSender", "d7/de5/a10229.html#a7d5a5e40aa20de720f310b739f159225", null ],
+    [ "MailSender", "d7/de5/a10229.html#a12c87bb414a3e8889c95091f3b51716b", null ],
+    [ "GetMailMessageType", "d7/de5/a10229.html#a64c99a49ec01d2226b6bf740edb380fb", null ],
+    [ "GetSenderId", "d7/de5/a10229.html#a03145c3fdc5bbabc64019e63e121132b", null ],
+    [ "GetStationery", "d7/de5/a10229.html#a6a4446e52e20ad7ab4817bf024b38631", null ],
+    [ "m_messageType", "d7/de5/a10229.html#a45a312eda342d2197f15d73b47d7787b", null ],
+    [ "m_senderId", "d7/de5/a10229.html#a0954b3514cfcba4258b1b266dfd71ddb", null ],
+    [ "m_stationery", "d7/de5/a10229.html#a1bbced35b4600f9a45a421d28a33393b", null ]
 ];

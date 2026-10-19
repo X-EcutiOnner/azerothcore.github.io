@@ -1,7 +1,8 @@
 var a12821 =
 [
-    [ "boss_okthor", "d0/df8/a12821.html#a10c5868b555e6f7edc11de179eccb151", null ],
-    [ "JustEngagedWith", "d0/df8/a12821.html#a40909de030f186531a8cfe1993b6aa40", null ],
-    [ "UpdateAI", "d0/df8/a12821.html#ab63a797da2b3f93da32b078b9731b1de", null ],
-    [ "_nextArcaneExplosionTime", "d0/df8/a12821.html#aa7c9edda4aee7ed257b3cb1334c4e899", null ]
+    [ "boss_eviscerator", "d0/df8/a12821.html#a2228d79b63df840eb4cb28117f24dcf9", null ],
+    [ "DamageTaken", "d0/df8/a12821.html#af31de4643026e44c80252e156a39bc69", null ],
+    [ "JustEngagedWith", "d0/df8/a12821.html#a14ec212beaa553f8f68e7718e29dcbd9", null ],
+    [ "UpdateAI", "d0/df8/a12821.html#af974908902d30b8144d1b734e795d6ea", null ],
+    [ "SpellShieldReady", "d0/df8/a12821.html#abeac01454b05ca88a89093b0f74c4a1f", null ]
 ];

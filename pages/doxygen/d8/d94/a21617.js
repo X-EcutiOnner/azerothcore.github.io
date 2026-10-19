@@ -1,7 +1,18 @@
 var a21617 =
 [
-    [ "npc_azure_binder", "d8/d94/a21617.html#ae273e78765faeb3e9604b7ce89ef6e6c", null ],
-    [ "Reset", "d8/d94/a21617.html#a0a11617ac11bf6aacacc3b36ce90fdca", null ],
-    [ "UpdateAI", "d8/d94/a21617.html#add9f304212a1a10267e564cd939f3751", null ],
-    [ "_events", "d8/d94/a21617.html#a0026fdd57e09f02b46010d696bb0a5da", null ]
+    [ "boss_ichoron", "d8/d94/a21617.html#abdcfe5b89cb1e2413de309a316e472f8", null ],
+    [ "DoAction", "d8/d94/a21617.html#abe3d4e3f3c435f7cbe5b5b00c5dbb190", null ],
+    [ "DoExplodeCompleted", "d8/d94/a21617.html#ae56fae748297a02404b984277a1dd25f", null ],
+    [ "EnterEvadeMode", "d8/d94/a21617.html#a635d040533afa80e293ba9dbc141152a", null ],
+    [ "IchoronDoCastToAllHostilePlayers", "d8/d94/a21617.html#aadcf249665816ada6c2efa7f30f743f0", null ],
+    [ "JustDied", "d8/d94/a21617.html#ac85c574360da81216074b32dc9d40f74", null ],
+    [ "JustEngagedWith", "d8/d94/a21617.html#ae5353b8cf2d14b169c6d65064d81d0e4", null ],
+    [ "JustSummoned", "d8/d94/a21617.html#a45f9889887270ea51af6dcb1379408a9", null ],
+    [ "KilledUnit", "d8/d94/a21617.html#a2bf779fb863f09654d51fdb37af6ed47", null ],
+    [ "MoveInLineOfSight", "d8/d94/a21617.html#a4e323050c78bd1b95f691d0edc4fea3f", null ],
+    [ "Reset", "d8/d94/a21617.html#aa3ea79b6cb639d659868e9ddd0e97df1", null ],
+    [ "SummonedCreatureDespawn", "d8/d94/a21617.html#aaabedddd146e71e51db11772c635f8a2", null ],
+    [ "UpdateAI", "d8/d94/a21617.html#a7f1902ff2071f4f1a6232d6970a0b6b0", null ],
+    [ "_isExploded", "d8/d94/a21617.html#a23180ff62429fd94a08627f40ce5cbde", null ],
+    [ "_isFrenzy", "d8/d94/a21617.html#a02f51f706c2183708ae29a990379e25a", null ]
 ];

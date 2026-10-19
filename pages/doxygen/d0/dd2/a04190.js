@@ -1,8 +1,14 @@
 var a04190 =
 [
-    [ "MovementHandlerScript", "d3/d6e/a10895.html", "d3/d6e/a10895" ],
-    [ "MovementHook", "d0/dd2/a04190.html#a5763e953c65ba38409a14469a1fe2842", [
-      [ "MOVEMENTHOOK_ON_PLAYER_MOVE", "d0/dd2/a04190.html#a5763e953c65ba38409a14469a1fe2842a9fb1a9d074f81a435e688f4cd7d12326", null ],
-      [ "MOVEMENTHOOK_END", "d0/dd2/a04190.html#a5763e953c65ba38409a14469a1fe2842ae0cf6cfe134c99cc596bac2607905b9c", null ]
+    [ "GroupScript", "d9/d31/a10873.html", "d9/d31/a10873" ],
+    [ "GroupHook", "d0/dd2/a04190.html#a373b3fe6b402e8321892b8c1be74ab5d", [
+      [ "GROUPHOOK_ON_ADD_MEMBER", "d0/dd2/a04190.html#a373b3fe6b402e8321892b8c1be74ab5da3800aeea2a91eebb3ccdd533a8dfc681", null ],
+      [ "GROUPHOOK_ON_INVITE_MEMBER", "d0/dd2/a04190.html#a373b3fe6b402e8321892b8c1be74ab5da4f30d67b987f0ade961e34bce95e85fe", null ],
+      [ "GROUPHOOK_ON_REMOVE_MEMBER", "d0/dd2/a04190.html#a373b3fe6b402e8321892b8c1be74ab5daee0f42175b42d95f45380c1b70c786c3", null ],
+      [ "GROUPHOOK_ON_CHANGE_LEADER", "d0/dd2/a04190.html#a373b3fe6b402e8321892b8c1be74ab5da32d5ef38f2a877e2d36cdf20e9bb6d23", null ],
+      [ "GROUPHOOK_ON_DISBAND", "d0/dd2/a04190.html#a373b3fe6b402e8321892b8c1be74ab5dafe9e82d7bdea3097607de1e375b0e353", null ],
+      [ "GROUPHOOK_CAN_GROUP_JOIN_BATTLEGROUND_QUEUE", "d0/dd2/a04190.html#a373b3fe6b402e8321892b8c1be74ab5da9b4d04fe85f908719f1412cb9b88e61c", null ],
+      [ "GROUPHOOK_ON_CREATE", "d0/dd2/a04190.html#a373b3fe6b402e8321892b8c1be74ab5da0cc7b93ed018172ab0c6f191681e5f6c", null ],
+      [ "GROUPHOOK_END", "d0/dd2/a04190.html#a373b3fe6b402e8321892b8c1be74ab5da71a6d6ef47c3bda7d088f579b6f3a5f2", null ]
     ] ]
 ];

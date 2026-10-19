@@ -1,8 +1,14 @@
 var a04469 =
 [
-    [ "SpellProcTestEntry", "d7/ddd/a30203.html", "d7/ddd/a30203" ],
-    [ "GetAllSpellProcTestEntries", "d5/d55/a04469.html#a39025d5b336e745566f739e9d1f68e78", null ],
-    [ "GroupByHitMask", "d5/d55/a04469.html#a9c10a33f80d5dad16ac98bf115774ded", null ],
-    [ "GroupByProcFlags", "d5/d55/a04469.html#a8a30ea152f1ec07a3e93549376c04b74", null ],
-    [ "GroupBySpellFamily", "d5/d55/a04469.html#ac781b3845801dede698012d7118061a4", null ]
+    [ "ExtraAttackChainProcTest", "d6/d1a/a30105.html", "d6/d1a/a30105" ],
+    [ "TEST_F", "d5/d55/a04469.html#abc49b8d509a71311b8f4ab364e4da973", null ],
+    [ "TEST_F", "d5/d55/a04469.html#a42dbae4a1b1bebe552097cb6d7192996", null ],
+    [ "TEST_F", "d5/d55/a04469.html#a496682ab03245df2e7c1e539fe7a1b3c", null ],
+    [ "TEST_F", "d5/d55/a04469.html#ae45135f1555115aa04a957f7786ef8eb", null ],
+    [ "TEST_F", "d5/d55/a04469.html#a510139ca0dbe6b263f79cdf71e8f3104", null ],
+    [ "TEST_F", "d5/d55/a04469.html#aca644b360370337d76d0d1f955f4bf91", null ],
+    [ "TEST_F", "d5/d55/a04469.html#a9dbad8c1ef4a5f8cd46f58762938ef28", null ],
+    [ "TEST_F", "d5/d55/a04469.html#ae32b028257e04cd926bd3c20a6a63a02", null ],
+    [ "SPELL_HAND_OF_JUSTICE", "d5/d55/a04469.html#a82bc87ae06a613c804e98c7f1584cebd", null ],
+    [ "SPELL_RECKONING", "d5/d55/a04469.html#a3d5a3ceb207bb46f5ccfce1e6c3e3a48", null ]
 ];

@@ -1,6 +1,10 @@
 var a23965 =
 [
-    [ "AfterRemove", "d6/d44/a23965.html#a1794dcf8ebca0bd0c4fce5acb8b45de0", null ],
-    [ "PrepareAuraScript", "d6/d44/a23965.html#ad5871ce865820456177362c6b790778f", null ],
-    [ "Register", "d6/d44/a23965.html#a41e19fb2509051bbd2d9e43c59f16486", null ]
+    [ "boss_thorngrin_the_tender", "d6/d44/a23965.html#ad960b1084fc08d2870975c7c6c44ab2b", null ],
+    [ "JustDied", "d6/d44/a23965.html#a4bc13108f7cb240fedb44ccae2b54047", null ],
+    [ "JustEngagedWith", "d6/d44/a23965.html#a647ed5b29861b719d3c4a11fd110c512", null ],
+    [ "KilledUnit", "d6/d44/a23965.html#ab3731c5b56e1c01aa5d78d84a5e60234", null ],
+    [ "MoveInLineOfSight", "d6/d44/a23965.html#a9467e59287b3e917907de82507d1a16d", null ],
+    [ "Reset", "d6/d44/a23965.html#af3f1471cbcdadfe3a86421d7232fb4b9", null ],
+    [ "_intro", "d6/d44/a23965.html#a48fc89c7e9814d90a8724ca38c5e2fe8", null ]
 ];

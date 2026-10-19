@@ -1,6 +1,6 @@
 var a21093 =
 [
-    [ "boss_yoggsaron_influence_tentacle", "d4/d2c/a21093.html#ac5908d64a4749303a08d352d470995dd", null ],
-    [ "DamageTaken", "d4/d2c/a21093.html#a0e76ab78b378ba4262dfb603e7634dfb", null ],
-    [ "JustDied", "d4/d2c/a21093.html#a9fac83d89c8c5810b2b5a25d0228c741", null ]
+    [ "x", "d4/d2c/a21093.html#ae4223168378b602a0a96dbb424a22be4", null ],
+    [ "y", "d4/d2c/a21093.html#a30f361d8104e4de44541d75945105963", null ],
+    [ "z", "d4/d2c/a21093.html#ae68a79519c35302b89976ac29bb77e26", null ]
 ];

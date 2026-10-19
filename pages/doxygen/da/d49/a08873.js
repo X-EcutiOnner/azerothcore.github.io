@@ -1,7 +1,9 @@
 var a08873 =
 [
-    [ "ObjectDistanceOrderPred", "da/d49/a08873.html#adced3fdc6d99b7506361eb7700fa4cec", null ],
-    [ "operator()", "da/d49/a08873.html#aaa5023735568f6df28a177fbd9ed866e", null ],
-    [ "m_ascending", "da/d49/a08873.html#a313cd0450096e49716bfb52f8f238bfc", null ],
-    [ "m_refObj", "da/d49/a08873.html#aec421fd45a60545bf92b7236e0d0b360", null ]
+    [ "Reset", "da/d49/a08873.html#a9c210ff536b49481f71bc6c3f60ee864", null ],
+    [ "guid", "da/d49/a08873.html#ac115013e34f67bc1444fef4fc96c843e", null ],
+    [ "pos", "da/d49/a08873.html#adff317cbf0c2d159d8ffddf52b4751b3", null ],
+    [ "seat", "da/d49/a08873.html#ad57bea2ae3beb6a086a116989b0d528f", null ],
+    [ "time", "da/d49/a08873.html#acec3991f0d19fd9f72e9837eef516057", null ],
+    [ "time2", "da/d49/a08873.html#a426c651d2f359847b033a4d7f278a191", null ]
 ];

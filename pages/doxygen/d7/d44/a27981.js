@@ -1,7 +1,8 @@
 var a27981 =
 [
-    [ "FilterTargets", "d7/d44/a27981.html#aeebe9395cefab1b87196a7ef466aa2c8", null ],
-    [ "PrepareSpellScript", "d7/d44/a27981.html#a954f00317eab544dd57e657368aab7fb", null ],
-    [ "Register", "d7/d44/a27981.html#a1804684c8685372faf2e88e56b48f5be", null ],
-    [ "Validate", "d7/d44/a27981.html#ab08386023ed3b3c8e51178da8973ef1a", null ]
+    [ "CheckProc", "d7/d44/a27981.html#a4713f3cdce1ee793a8f2232202314ff7", null ],
+    [ "HandleProc", "d7/d44/a27981.html#ab892bc268feccba594a5b4b0be3e86f7", null ],
+    [ "PrepareAuraScript", "d7/d44/a27981.html#a92a141fcf24f63bc41f6f828f72bf277", null ],
+    [ "Register", "d7/d44/a27981.html#a93806efcc1e5976cca2eab57c9e55a7e", null ],
+    [ "Validate", "d7/d44/a27981.html#a28801b99335380a7e366e766b6aaea2c", null ]
 ];

@@ -1,6 +1,7 @@
 var a26481 =
 [
-    [ "HandleStackDrop", "da/d3d/a26481.html#a8e452c968558f3bd273b18a8055745d2", null ],
-    [ "PrepareAuraScript", "da/d3d/a26481.html#aa18e4975db4e2831c61f38d990886676", null ],
-    [ "Register", "da/d3d/a26481.html#a04ebc4be3fea42ca2352fd441841f76e", null ]
+    [ "HandleDummy", "da/d3d/a26481.html#a14bf65690e857c6a16dfcd8e036abbbb", null ],
+    [ "PrepareSpellScript", "da/d3d/a26481.html#a2ec497a2dfe2364ad9011aba8532e73c", null ],
+    [ "Register", "da/d3d/a26481.html#afca09c1e1c5389db67d081d6e033f025", null ],
+    [ "Validate", "da/d3d/a26481.html#af54f926b69002b2277dad34e1773e450", null ]
 ];

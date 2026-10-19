@@ -1,10 +1,15 @@
 var a13309 =
 [
-    [ "npc_netherspite_infernal", "d7/df6/a13309.html#af9837d7a671533523ce323c083c4e847", null ],
-    [ "DamageTaken", "d7/df6/a13309.html#aee9b38f3590e08b16de1789576986a09", null ],
-    [ "JustEngagedWith", "d7/df6/a13309.html#a76d8944ca2d9b2f1aa5b635ce94bacfb", null ],
-    [ "KilledUnit", "d7/df6/a13309.html#a49c37fbebed2951c493962c1a3bd0339", null ],
-    [ "MoveInLineOfSight", "d7/df6/a13309.html#a7ecce97cef0adda03910e87d9fd82f71", null ],
-    [ "SpellHit", "d7/df6/a13309.html#abb6c7d0b5e231e460b069198b16106b7", null ],
-    [ "UpdateAI", "d7/df6/a13309.html#a575040456c0eb4d343e7c0c5f75159b4", null ]
+    [ "boss_moroes", "d7/df6/a13309.html#ae477dcfd679dd7943ddd133bb0dd89df", null ],
+    [ "CheckGuestsInRoom", "d7/df6/a13309.html#ad34daa424532003e8da616aed3df6c82", null ],
+    [ "GetRandomGuest", "d7/df6/a13309.html#a73f4b3c1a3a46261cf62143f8359b55e", null ],
+    [ "InitializeGuests", "d7/df6/a13309.html#a815ca169e0787c92c09a5803007355aa", null ],
+    [ "JustDied", "d7/df6/a13309.html#a7d425d58b1e64ef174ff92e1263de544", null ],
+    [ "JustEngagedWith", "d7/df6/a13309.html#aa0bf31d8298b4ec6ce205cefd0766194", null ],
+    [ "KilledUnit", "d7/df6/a13309.html#a3d28056a0d26d426d84363fb0c4f7e4d", null ],
+    [ "Reset", "d7/df6/a13309.html#a677f2b8375981d904183dd804f4b32b8", null ],
+    [ "UpdateAI", "d7/df6/a13309.html#aa639032a49b3e9bd4209d17e0863db32", null ],
+    [ "_activeGuests", "d7/df6/a13309.html#a651f53f476f205785d596ed9d52fdb89", null ],
+    [ "_events2", "d7/df6/a13309.html#ae1c0474e0a940a803d82d3fe6d3ff37f", null ],
+    [ "_vanished", "d7/df6/a13309.html#a60d99b80815a2b2626638d6410ce64a2", null ]
 ];

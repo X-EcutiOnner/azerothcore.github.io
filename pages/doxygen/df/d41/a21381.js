@@ -1,6 +1,8 @@
 var a21381 =
 [
-    [ "boss_skadiAI", "df/da5/a21385.html", "df/da5/a21385" ],
-    [ "boss_skadi", "df/d41/a21381.html#a124c1c1de7ba232b3256a65547370464", null ],
-    [ "GetAI", "df/d41/a21381.html#ac2986670096fdd69a2e584bb9fcc1bbb", null ]
+    [ "CheckProc", "df/d41/a21381.html#a93a45a442c2527468a5bfd4136bb53a0", null ],
+    [ "HandleProc", "df/d41/a21381.html#a8641ddd1b6722a30b167d170adb47fd8", null ],
+    [ "PrepareAuraScript", "df/d41/a21381.html#a55ce8f27fa326da9b68db7f4cd4bc334", null ],
+    [ "Register", "df/d41/a21381.html#a04df3b39b6a80592b6b2afe76e85a1e0", null ],
+    [ "Validate", "df/d41/a21381.html#ad4176f188412053b9205820fb6183d38", null ]
 ];

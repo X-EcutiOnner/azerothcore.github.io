@@ -1,7 +1,10 @@
 var a11373 =
 [
-    [ "ReadItem", "d0/d5e/a11373.html#a099da7490ccf30ee0bde5f85e6197a76", null ],
-    [ "Read", "d0/d5e/a11373.html#a61ae8ba19d04f3001614f8dd2ad408ed", null ],
-    [ "Bag", "d0/d5e/a11373.html#a16c02f27e986ac3d093668092d67a3c9", null ],
-    [ "Slot", "d0/d5e/a11373.html#a1d181a1cec1021cf68a5d9b80d2753c3", null ]
+    [ "SplitItem", "d0/d5e/a11373.html#a805c2c75e93d7ef839b3758ffd59f6c6", null ],
+    [ "Read", "d0/d5e/a11373.html#a59edb1d3445897bfaff1e97d703b42bb", null ],
+    [ "Count", "d0/d5e/a11373.html#a097ed361c33f7415ed4d7efe6ab985e8", null ],
+    [ "DestinationBag", "d0/d5e/a11373.html#ac60d1b0b51ef1b91fd51d900bb825153", null ],
+    [ "DestinationSlot", "d0/d5e/a11373.html#aaf03b2ba6c3519008515c75f6f09aa60", null ],
+    [ "SourceBag", "d0/d5e/a11373.html#aa87bc282a672ae8f9a747ad65400ef03", null ],
+    [ "SourceSlot", "d0/d5e/a11373.html#a82dbf4e94d9bb1a352bf03d76a14950b", null ]
 ];

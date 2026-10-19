@@ -1,7 +1,6 @@
 var a11353 =
 [
-    [ "SwapInventoryItem", "de/d77/a11353.html#a26e2887fe352de8a8c5d9d65ba598460", null ],
-    [ "Read", "de/d77/a11353.html#ae81c9c5566e1f7e1c8d6915f9620d5b4", null ],
-    [ "DestinationSlot", "de/d77/a11353.html#aaaca9b79b11d152cf1c4b273e8f47679", null ],
-    [ "SourceSlot", "de/d77/a11353.html#a59117b7ce21919acc55b3da079050dc3", null ]
+    [ "ResetFailedNotify", "de/d77/a11353.html#a82e12a0f207590b6176253cf36a22d2f", null ],
+    [ "Write", "de/d77/a11353.html#af03055514ef0e1e97f24c66d2cd94185", null ],
+    [ "MapId", "de/d77/a11353.html#a17f065fc6d5438d74f38bde67a841be7", null ]
 ];

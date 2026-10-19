@@ -1,9 +1,7 @@
 var a13933 =
 [
-    [ "boss_entropius", "df/dc1/a13933.html#a458deaa80c9694cd2608150bc5519c76", null ],
-    [ "EnterEvadeMode", "df/dc1/a13933.html#a01889b192525af082471d092bff28c88", null ],
-    [ "JustDied", "df/dc1/a13933.html#aed1313073a44bc15f87432a85e6c2d8e", null ],
-    [ "JustEngagedWith", "df/dc1/a13933.html#afb07fc44fd14b9f78fbc97b2670b8b5e", null ],
-    [ "Reset", "df/dc1/a13933.html#ad9da990a540703d38cb45dd2da72c179", null ],
-    [ "UpdateAI", "df/dc1/a13933.html#ab7fbeb67059c48b5f1aff071990ece5e", null ]
+    [ "HandleSchoolDamage", "df/dc1/a13933.html#a4fee3e37f347d1dcfa84c1dc0454c9fa", null ],
+    [ "PrepareSpellScript", "df/dc1/a13933.html#a8063f3d669e07dc0768607feb9a2f763", null ],
+    [ "Register", "df/dc1/a13933.html#a83aad24c7111d1f68196fcb9765dcd97", null ],
+    [ "Validate", "df/dc1/a13933.html#af90ae09274b0082bd8bd674ca43596f6", null ]
 ];

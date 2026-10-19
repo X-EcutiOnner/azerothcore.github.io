@@ -1,7 +1,8 @@
 var a11901 =
 [
-    [ "DynObjAura", "df/dcc/a11901.html#aef75bb5d60c10ac63821b0e9baf6eb7a", null ],
-    [ "FillTargetMap", "df/dcc/a11901.html#af8e36643ed675ff5652e4665bee9b0c3", null ],
-    [ "Remove", "df/dcc/a11901.html#ada3f65b4a817e2337da43da437b93a3b", null ],
-    [ "Aura::Create", "df/dcc/a11901.html#ae2c0fdfb409846fec5e861de60797112", null ]
+    [ "SkillPerfectItemEntry", "df/dcc/a11901.html#a683f3c6f5e9c5ef2a0f0fa09d546d2a3", null ],
+    [ "SkillPerfectItemEntry", "df/dcc/a11901.html#a678f9908440187faad38c0e1ffaf82de", null ],
+    [ "perfectCreateChance", "df/dcc/a11901.html#a750d5ab6bc3df0026e640f1c84de8547", null ],
+    [ "perfectItemType", "df/dcc/a11901.html#a057605f8867d4df5cb290318598a2908", null ],
+    [ "requiredSpecialization", "df/dcc/a11901.html#aa7ad968ab1b8804ee8f0f8f40bc6f762", null ]
 ];

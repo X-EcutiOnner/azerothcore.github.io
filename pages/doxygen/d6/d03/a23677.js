@@ -1,8 +1,8 @@
 var a23677 =
 [
-    [ "boss_broggok", "d6/d03/a23677.html#ae20c04793116d3e8eab62d2ee27010df", null ],
-    [ "DoAction", "d6/d03/a23677.html#af5de5a1747c502f72af015c09d050354", null ],
-    [ "JustEngagedWith", "d6/d03/a23677.html#a084e3c37a0218d47c8e39b196fc6746a", null ],
-    [ "JustSummoned", "d6/d03/a23677.html#a0bf2d75f7889542a9e48689b8d080a1e", null ],
-    [ "Reset", "d6/d03/a23677.html#af11b4dc2aee8064a1eaad334d93e6de0", null ]
+    [ "ApplyStun", "d6/d03/a23677.html#a5a5b921dc45418485919e599e80f8ca8", null ],
+    [ "HandleScriptEffect", "d6/d03/a23677.html#a32619710179250a6a0b408856a888153", null ],
+    [ "PrepareSpellScript", "d6/d03/a23677.html#afb61d7dcc8ad52da4dcad3d7593f08ad", null ],
+    [ "Register", "d6/d03/a23677.html#aa753fd45caa1b515911d8fdf6fa78754", null ],
+    [ "Validate", "d6/d03/a23677.html#a66d91a87078c663903cd836344eec867", null ]
 ];

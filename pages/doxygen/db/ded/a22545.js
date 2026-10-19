@@ -1,7 +1,8 @@
 var a22545 =
 [
-    [ "npc_wg_siege_machineAI", "db/ded/a22545.html#aaeca9e73520701ce28f2cc9d1483cc6b", null ],
-    [ "CanControlVehicle", "db/ded/a22545.html#a7ce79406da48e245a0baa2fdd23622b9", null ],
-    [ "UpdateAI", "db/ded/a22545.html#a8ddd21047a857facc767a9edc0ec5408", null ],
-    [ "checkTimer", "db/ded/a22545.html#abf4b06eae50adeefedba02e2186ea48a", null ]
+    [ "npc_oathbound_warder", "db/ded/a22545.html#af4e56bd77dc1c12e795736f117a9b7f1", null ],
+    [ "AttackStart", "db/ded/a22545.html#afa3e523d3c4b7659df3d06be11eea7e4", null ],
+    [ "InitializeAI", "db/ded/a22545.html#a62c4c568ad615013afa46c7da84d057a", null ],
+    [ "JustEngagedWith", "db/ded/a22545.html#af5c0cb0f8cd8bf5a77bf7460dc576a6f", null ],
+    [ "UpdateAI", "db/ded/a22545.html#a2e97b16356a6aec04c7c0b1a2d872070", null ]
 ];

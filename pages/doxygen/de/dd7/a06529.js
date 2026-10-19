@@ -1,6 +1,9 @@
 var a06529 =
 [
-    [ "NullGameObjectAI", "de/dd7/a06529.html#a54f6ae6e03fbe423d895ec306fe091db", null ],
-    [ "Permissible", "de/dd7/a06529.html#a850b58bfcc5e613f31fc95e556ed7f91", null ],
-    [ "UpdateAI", "de/dd7/a06529.html#a01b2b14306c75fafe58295a30e5d01e0", null ]
+    [ "CasterAI", "de/dd7/a06529.html#ad91d5c64cbc4d56d9a84aaeb2f64b35e", null ],
+    [ "AttackStart", "de/dd7/a06529.html#a28386fd1a275c002445e5eaf90314a3d", null ],
+    [ "InitializeAI", "de/dd7/a06529.html#a2a24cdc24b665c52363dae587572fc4d", null ],
+    [ "JustEngagedWith", "de/dd7/a06529.html#ad436decd8b3da4323cf3fdb4a9e5a849", null ],
+    [ "UpdateAI", "de/dd7/a06529.html#a0fa50ac9bd99ff0c2c7e78f03a737090", null ],
+    [ "m_attackDist", "de/dd7/a06529.html#a561dbc6713a8ec58ef6b23ae4d04d81b", null ]
 ];

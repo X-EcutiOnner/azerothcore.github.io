@@ -1,8 +1,16 @@
 var a05369 =
 [
-    [ "LocationInfo", "d0/deb/a05369.html#ae2e70dc65cd3b0379600a67dce7de6ba", null ],
-    [ "ground_Z", "d0/deb/a05369.html#a0ffbfcfc677809dda6250855d9594ca5", null ],
-    [ "hitInstance", "d0/deb/a05369.html#ab59b10bde437cca895b69c2035174b6d", null ],
-    [ "hitModel", "d0/deb/a05369.html#a17eef5c7a0ebf9b9963740a10fca459f", null ],
-    [ "rootId", "d0/deb/a05369.html#aae82d7d8518db5e131d6a327927c75a2", null ]
+    [ "operator==", "d0/deb/a05369.html#a74f960a358074ddb87d4e1de48e11e53", null ],
+    [ "baseUnitDim", "d0/deb/a05369.html#a49b023bc34148196590dfd5c42fe49f6", null ],
+    [ "cellSizeHorizontal", "d0/deb/a05369.html#a37b48fdf0ff629ff18e262cf1b74604a", null ],
+    [ "cellSizeVertical", "d0/deb/a05369.html#aa3fa9b9705e7a0b4e514f9a900ed4dcd", null ],
+    [ "maxSimplificationError", "d0/deb/a05369.html#afbd14408be8abc7887e79b766d3fe7a5", null ],
+    [ "padding0", "d0/deb/a05369.html#a756affcba9ba67923634b050be35e2b7", null ],
+    [ "tilesPerMapEdge", "d0/deb/a05369.html#a620f2c8f7dae449054a0c9f7fdbb7bdd", null ],
+    [ "vertexPerMapEdge", "d0/deb/a05369.html#a6a95c1c214c3102d2618eaf3df850232", null ],
+    [ "vertexPerTileEdge", "d0/deb/a05369.html#a88fd7166e3555df1307ad0e1a7dfc8f6", null ],
+    [ "walkableClimb", "d0/deb/a05369.html#a6d1d6f164c716e71d0dff034c9e8042a", null ],
+    [ "walkableHeight", "d0/deb/a05369.html#aaaf165b5e3b8361d37837e6b93609557", null ],
+    [ "walkableRadius", "d0/deb/a05369.html#a16440d4ea4533b065cfa8aac216c275a", null ],
+    [ "walkableSlopeAngle", "d0/deb/a05369.html#af825b2f1f457e551a58f343864e3c100", null ]
 ];

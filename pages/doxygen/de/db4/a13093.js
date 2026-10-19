@@ -1,5 +1,18 @@
 var a13093 =
 [
-    [ "npc_garr_firesworn", "de/db4/a13093.html#a5efff706f522accd5f8be0d29080dea4", null ],
-    [ "DamageTaken", "de/db4/a13093.html#a172435821316d28c5b0043015c68595e", null ]
+    [ "boss_vaelastrasz", "de/db4/a13093.html#a34f13f4de3f268c8fe034e8577186966", null ],
+    [ "BeginSpeech", "de/db4/a13093.html#aa6bbbbe76f890112fc1d2e4cd4159346", null ],
+    [ "Initialize", "de/db4/a13093.html#a8b3356d4fcc6c17c097890bbd98947d5", null ],
+    [ "JustEngagedWith", "de/db4/a13093.html#ac742f8acce5060e5496f43900b1e3cc0", null ],
+    [ "JustSummoned", "de/db4/a13093.html#a73f72d397a277301d1b5e2020f0f6146", null ],
+    [ "KilledUnit", "de/db4/a13093.html#abff4fd6f7f15771b8fccabf4f633c067", null ],
+    [ "Reset", "de/db4/a13093.html#ac496730fdeb5e55c125a1880626c76e4", null ],
+    [ "sGossipSelect", "de/db4/a13093.html#ae25b1d667393f9af0f3424137d78a9d0", null ],
+    [ "UpdateAI", "de/db4/a13093.html#a7a78dd37d5055212cc6d23dc3d831d6d", null ],
+    [ "_burningAdrenalineCast", "de/db4/a13093.html#acb5c8baf13a39d560447f3e16f07966c", null ],
+    [ "_eventsIntro", "de/db4/a13093.html#a7e3fb2f93d36789d1e123a73c619de23", null ],
+    [ "_introDone", "de/db4/a13093.html#a3d0d4ee1c9a47715e22f3567783dd11e", null ],
+    [ "HasYelled", "de/db4/a13093.html#aa73cdc2f26c0710d5d917c4f787a1793", null ],
+    [ "m_nefariusGuid", "de/db4/a13093.html#ae1a22491288380cb50264a51e0b624f6", null ],
+    [ "PlayerGUID", "de/db4/a13093.html#a8ba86f17a35448edd8d98f49c7d16fa6", null ]
 ];

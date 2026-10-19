@@ -1,4 +1,8 @@
 var a04187 =
 [
-    [ "ScriptRegistry< DynamicObjectScript >", "d1/dde/a04187.html#a81c3616d496bf8bc2392d79508d2e446", null ]
+    [ "MovementHandlerScript", "d9/da7/a10909.html", "d9/da7/a10909" ],
+    [ "MovementHook", "d1/dde/a04187.html#a5763e953c65ba38409a14469a1fe2842", [
+      [ "MOVEMENTHOOK_ON_PLAYER_MOVE", "d1/dde/a04187.html#a5763e953c65ba38409a14469a1fe2842a9fb1a9d074f81a435e688f4cd7d12326", null ],
+      [ "MOVEMENTHOOK_END", "d1/dde/a04187.html#a5763e953c65ba38409a14469a1fe2842ae0cf6cfe134c99cc596bac2607905b9c", null ]
+    ] ]
 ];

@@ -1,5 +1,5 @@
 var a28209 =
 [
-    [ "AreaTrigger_at_sentry_point", "d1/ddf/a28209.html#a9c27f669aba3be1a83fdd1c99a8af4cf", null ],
-    [ "OnTrigger", "d1/ddf/a28209.html#ab59fb74f4f988c208359855d2e4d9918", null ]
+    [ "achievement_not_even_a_scratch", "d1/ddf/a28209.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
+    [ "OnCheck", "d1/ddf/a28209.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
 ];

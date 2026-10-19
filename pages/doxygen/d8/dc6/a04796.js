@@ -1,11 +1,10 @@
 var a04796 =
 [
-    [ "AABound", "d1/dad/a05267.html", "d1/dad/a05267" ],
-    [ "BIH", "de/d07/a05271.html", "de/d07/a05271" ],
-    [ "BIH::buildData", "d1/dd1/a05275.html", "d1/dd1/a05275" ],
-    [ "BIH::StackNode", "d5/d60/a05279.html", "d5/d60/a05279" ],
-    [ "BIH::BuildStats", "da/d2b/a05283.html", "da/d2b/a05283" ],
-    [ "MAX_STACK_SIZE", "d8/dc6/a04796.html#accbb358028675c83675d8b34c386268d", null ],
-    [ "floatToRawIntBits", "d8/dc6/a04796.html#ad04403146f53e198de60b6c4bec4246e", null ],
-    [ "intBitsToFloat", "d8/dc6/a04796.html#a3b415e235398aa84c4f976084f8e130c", null ]
+    [ "VMAP::ModelSpawn", "d2/dce/a05441.html", "d2/dce/a05441" ],
+    [ "VMAP::ModelInstance", "d5/d95/a05445.html", "d5/d95/a05445" ],
+    [ "ModelFlags", "d8/dc6/a04796.html#ac540ff16efadcc07eeb9d8511b94ccce", [
+      [ "MOD_M2", "d8/dc6/a04796.html#ac540ff16efadcc07eeb9d8511b94ccceadfad2b6f6278e720b00314cd5117b673", null ],
+      [ "MOD_WORLDSPAWN", "d8/dc6/a04796.html#ac540ff16efadcc07eeb9d8511b94cccea3a6165ebc7b838e28ef59670dc84dc46", null ],
+      [ "MOD_HAS_BOUND", "d8/dc6/a04796.html#ac540ff16efadcc07eeb9d8511b94ccceaa47940cd802c5225d2babb37d24c7f09", null ]
+    ] ]
 ];

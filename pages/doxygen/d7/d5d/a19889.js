@@ -1,12 +1,7 @@
 var a19889 =
 [
-    [ "instance_nexus_InstanceMapScript", "d7/d5d/a19889.html#a6803f233d730f33e5af7dc9d8ecd9775", null ],
-    [ "Initialize", "d7/d5d/a19889.html#a2c6c42e73de2a155c04f80e37aa5d442", null ],
-    [ "KillAllFrayers", "d7/d5d/a19889.html#a7c696467deba7a2f15d5175e3427bd20", null ],
-    [ "OnCreatureCreate", "d7/d5d/a19889.html#a04806dc42aa0b171fa99eb1d8492ff61", null ],
-    [ "OnGameObjectCreate", "d7/d5d/a19889.html#a85c3ac915970d68a192414ca4ff8ad1f", null ],
-    [ "OnGameObjectRemove", "d7/d5d/a19889.html#ac148c67823484eee38ab6646dfb68530", null ],
-    [ "SetBossState", "d7/d5d/a19889.html#a11ac1fbc7c699084e7da5e4bf0595651", null ],
-    [ "SetData", "d7/d5d/a19889.html#a351052b1d3ea4ddb5d36ce69818c7e67", null ],
-    [ "_frayerGUIDs", "d7/d5d/a19889.html#ab85b5379b6c177dc1d61ccd14106a325", null ]
+    [ "boss_commander_stoutbeard", "d7/d5d/a19889.html#a9489874e93ea9f425ff4e3748ba10ded", null ],
+    [ "JustDied", "d7/d5d/a19889.html#a2fd835408045715058ba476aa56cb4f7", null ],
+    [ "JustEngagedWith", "d7/d5d/a19889.html#af960c10b2b98d43b4b1311a0a7616aa8", null ],
+    [ "KilledUnit", "d7/d5d/a19889.html#acf7016c65f020dca9228bd2d2fd89299", null ]
 ];

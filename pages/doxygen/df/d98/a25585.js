@@ -1,7 +1,6 @@
 var a25585 =
 [
-    [ "ModDest", "df/d98/a25585.html#afe0fb68de61a657ce6900e71973e4d77", null ],
-    [ "ModifyCookingSkill", "df/d98/a25585.html#a42dea7b58aed704a6aacd5d0aa0028d4", null ],
-    [ "PrepareSpellScript", "df/d98/a25585.html#a7b0446133750fce7eda19dbde5abb3b1", null ],
-    [ "Register", "df/d98/a25585.html#a6919079b43a816eb601a68c51ad39794", null ]
+    [ "PrepareSpellScript", "df/d98/a25585.html#abb178100d4e5fa4032118f86aa34127d", null ],
+    [ "Register", "df/d98/a25585.html#a50e902cc281b909259097a8bed5651f2", null ],
+    [ "RemoveVehicleAuras", "df/d98/a25585.html#a4ec803f3164d6e38ddf10f4a0ca392e0", null ]
 ];

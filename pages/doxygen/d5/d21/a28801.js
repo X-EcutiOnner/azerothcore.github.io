@@ -1,6 +1,7 @@
 var a28801 =
 [
-    [ "npc_necropolis_relay", "d5/d21/a28801.html#a044958acd1449d664532aeea7d0cb2fd", null ],
-    [ "SpellHit", "d5/d21/a28801.html#a45fdef0f86f18b87b90d2b4f9c0df9cb", null ],
-    [ "SpellHitTarget", "d5/d21/a28801.html#a1968d3537de2bdb9d4786cc96d2c346c", null ]
+    [ "npc_venomhide_hatchlingAI", "d1/d8a/a28805.html", "d1/d8a/a28805" ],
+    [ "npc_venomhide_hatchling", "d5/d21/a28801.html#a4dc217dd5950db7b270b7cce3e594e4d", null ],
+    [ "GetAI", "d5/d21/a28801.html#a96110b752965d751ab7b466c4f67e333", null ],
+    [ "OnGossipHello", "d5/d21/a28801.html#a404d875592b847ddb9f3250c9d954bfc", null ]
 ];

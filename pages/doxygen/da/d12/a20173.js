@@ -1,8 +1,6 @@
 var a20173 =
 [
-    [ "go_celestial_planetarium_accessAI", "da/d12/a20173.html#aca4d0e9babd6eefe84edc281f8a44cf2", null ],
-    [ "GossipHello", "da/d12/a20173.html#af159df46fecf2cd74ac4ec9fa006dc03", null ],
-    [ "UpdateAI", "da/d12/a20173.html#a9b2bfb74a12e3258476387fc78cde574", null ],
-    [ "_locked", "da/d12/a20173.html#a37f83dbbb05e461d613a4c38001f785c", null ],
-    [ "events", "da/d12/a20173.html#aa03b8d270054f2b71c1d625abe322fb8", null ]
+    [ "HandleApplyTouch", "da/d12/a20173.html#a0c46c506f78f46f17c0de6caae774316", null ],
+    [ "PrepareSpellScript", "da/d12/a20173.html#a2f32b735a8a72a6ef52744d3ce8ada8b", null ],
+    [ "Register", "da/d12/a20173.html#a70382055564e4ead8b5da0d6bd20c67f", null ]
 ];

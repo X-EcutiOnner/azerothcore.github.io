@@ -1,16 +1,6 @@
 var a12217 =
 [
-    [ "ToCloud9GrpcHandler", "d4/d6e/a12217.html#af858b78bb20162f5e18a5bffa6969e48", null ],
-    [ "~ToCloud9GrpcHandler", "d4/d6e/a12217.html#a3f80ef49eed92d916188368b3a9f4a7d", null ],
-    [ "AddExistingItemToPlayer", "d4/d6e/a12217.html#a4d97be6aec34406de54b66a7a56d3c6f", null ],
-    [ "AddPlayersToBattleground", "d4/d6e/a12217.html#a8e044973ee2e3b33b2e9264f4c670ff5", null ],
-    [ "CanPlayerInteractWithGOAndType", "d4/d6e/a12217.html#a3aca8d91b2bc8e6e2863f98b14cded96", null ],
-    [ "CanPlayerInteractWithNPCAndFlags", "d4/d6e/a12217.html#a060a3e9719b0a01ac77550918920f5ed", null ],
-    [ "CanPlayerJoinBattlegroundQueue", "d4/d6e/a12217.html#a4d9788b0d33040f0489634388c8d6100", null ],
-    [ "CanPlayerTeleportToBattleground", "d4/d6e/a12217.html#ab5081c4ac20efbe5e6a93529ccd4cbc6", null ],
-    [ "GetMoneyForPlayer", "d4/d6e/a12217.html#a7f0acf0cd4ec8b1e90c00e93426306cb", null ],
-    [ "GetPlayerItemsByGuids", "d4/d6e/a12217.html#abc1e855186271452a1a1397d7f4ddd5b", null ],
-    [ "ModifyMoneyForPlayer", "d4/d6e/a12217.html#a0e12218affdae47b44b998995a8ef806", null ],
-    [ "RemoveItemsWithGuidsFromPlayer", "d4/d6e/a12217.html#ab6775d1820c7725d616c8298ccb96ced", null ],
-    [ "StartBattleground", "d4/d6e/a12217.html#ade8f8c5088f62566ed6f77129719a06e", null ]
+    [ "AfterCheckProcHandler", "d4/d6e/a12217.html#ac0a14950e90d064ffd7adc224b25f9d8", null ],
+    [ "Call", "d4/d6e/a12217.html#ab2da0d87413dd7317eeaf73df17f1aaf", null ],
+    [ "_HandlerScript", "d4/d6e/a12217.html#af5a393efc729e8588c0fc425fdfead99", null ]
 ];

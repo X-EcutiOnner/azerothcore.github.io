@@ -1,8 +1,6 @@
 var a26101 =
 [
-    [ "HandleProc", "db/df9/a26101.html#ad92c7804b26bd29d135e55c8adad9093", null ],
-    [ "OnRemove", "db/df9/a26101.html#afa8e065ed835243f3ebb95c10792adf8", null ],
-    [ "PrepareAuraScript", "db/df9/a26101.html#a5e986f77b23fd0402089ea36f0360c79", null ],
-    [ "Register", "db/df9/a26101.html#a29d66b9790e3f7dfffb5dc398f26f9fb", null ],
-    [ "Validate", "db/df9/a26101.html#a51f81afec6ff0918530208d9de9dae24", null ]
+    [ "HandlePeriodicTick", "db/df9/a26101.html#a058eeb1e0489340763a58d92d4bed832", null ],
+    [ "PrepareAuraScript", "db/df9/a26101.html#a3d71859b7e7f914a395f131dd4a6b4ab", null ],
+    [ "Register", "db/df9/a26101.html#ae5a8adc3fe7cc5c5d7dd715449d3442f", null ]
 ];

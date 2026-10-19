@@ -1,7 +1,7 @@
 var a26797 =
 [
-    [ "CheckAreaTarget", "df/dfe/a26797.html#a2d240518259d2452d263fc436de5056e", null ],
-    [ "PrepareAuraScript", "df/dfe/a26797.html#a0b97b273f13805f027e5f5113d4a8e40", null ],
-    [ "Register", "df/dfe/a26797.html#a50406feea1b2cf34ad101a3b1fd25d7c", null ],
-    [ "Validate", "df/dfe/a26797.html#adfd1ccae4029680415409df737aa2533", null ]
+    [ "PrepareSpellScript", "df/dfe/a26797.html#ade3a3f956ae8be922bd1d2204919d360", null ],
+    [ "Register", "df/dfe/a26797.html#a71d397da4a4804cf6023806c15e8bedf", null ],
+    [ "TriggerHypothermia", "df/dfe/a26797.html#af40f92afae93778e477c50ddf18c8adc", null ],
+    [ "Validate", "df/dfe/a26797.html#a1f0cef532c2bd13d94e647722f85457a", null ]
 ];

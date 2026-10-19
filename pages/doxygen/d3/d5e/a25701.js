@@ -1,5 +1,6 @@
 var a25701 =
 [
-    [ "PrepareSpellScript", "d3/d5e/a25701.html#a800936a311c05236dbd0c9c2f0edd5d9", null ],
-    [ "Register", "d3/d5e/a25701.html#ae176a1f643797b5367a593bbb2acc506", null ]
+    [ "OnProc", "d3/d5e/a25701.html#ac7f0a86f2d0c5dcb945eb7ccb9cd5c88", null ],
+    [ "PrepareAuraScript", "d3/d5e/a25701.html#a6a7b011f151ff81672221b84eb4456b8", null ],
+    [ "Register", "d3/d5e/a25701.html#a15b05d352f94d2aabeb75a6bfd996fc6", null ]
 ];

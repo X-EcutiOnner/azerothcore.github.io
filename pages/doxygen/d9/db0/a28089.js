@@ -1,6 +1,6 @@
 var a28089 =
 [
-    [ "HandleProc", "d9/db0/a28089.html#a72d56ccc2c6f0337fa68c2759d90c5d6", null ],
-    [ "PrepareAuraScript", "d9/db0/a28089.html#a49a96d3aa0220b4ec77fb1a384826614", null ],
-    [ "Register", "d9/db0/a28089.html#adf0852d1aad8097143df205a66a49f2f", null ]
+    [ "HandleScript", "d9/db0/a28089.html#ab2bad52272a5cd7167a7601fdfa02b1d", null ],
+    [ "PrepareSpellScript", "d9/db0/a28089.html#a60454f2c1ba8d1ea160350b5e02bf56d", null ],
+    [ "Register", "d9/db0/a28089.html#a22b9877e2cd27c925ae7b351d3d6f41b", null ]
 ];

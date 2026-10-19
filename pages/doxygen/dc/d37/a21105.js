@@ -1,11 +1,8 @@
 var a21105 =
 [
-    [ "boss_yoggsaron_llane", "dc/d37/a21105.html#a42e3d189cff0da5995401e4bc8dfffdd", null ],
-    [ "NextStep", "dc/d37/a21105.html#ab8b6446fe7d424ad7d943af915cc4b8a", null ],
-    [ "Reset", "dc/d37/a21105.html#a0df3a85717ab26ad1ac889d6fe4d8007", null ],
-    [ "Say", "dc/d37/a21105.html#a0ae3106eac830ed9f14f17e5fa1d45ec", null ],
-    [ "UpdateAI", "dc/d37/a21105.html#a58ec957cd59b944439fe514e728e2902", null ],
-    [ "_checkTimer", "dc/d37/a21105.html#a3043382e2727bc78a74acaec28697045", null ],
-    [ "_running", "dc/d37/a21105.html#ab7e1b1ed82f311b12f28f1622e6ad378", null ],
-    [ "_step", "dc/d37/a21105.html#a91a71f85bab9e4d1234964ef534e51c2", null ]
+    [ "boss_yoggsaron_guardian_of_ys", "dc/d37/a21105.html#ad66fab16b309b62895578d46e8a2e730", null ],
+    [ "JustDied", "dc/d37/a21105.html#a12ce3fef2fba8d92945249cf8920a0b4", null ],
+    [ "Reset", "dc/d37/a21105.html#ac803a9da5223db459b9ec48435e59c30", null ],
+    [ "UpdateAI", "dc/d37/a21105.html#a573576eaff2cbd4f779675e19ad53dea", null ],
+    [ "_spellTimer", "dc/d37/a21105.html#a5922d21c4606ab9a41e20948dc926cea", null ]
 ];

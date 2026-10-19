@@ -1,5 +1,5 @@
 var a08357 =
 [
-    [ "number", "df/d98/a08357.html#af111e542d7a276e27d2b14757293bc42", null ],
-    [ "offset_elements", "df/d98/a08357.html#ad633b2e9afc82762c6b43675844f8fea", null ]
+    [ "flags", "df/d98/a08357.html#ac55cea8114883b0000fb9fd195910f65", null ],
+    [ "params", "df/d98/a08357.html#a5426d7accbe5734016fed99e632ea313", null ]
 ];

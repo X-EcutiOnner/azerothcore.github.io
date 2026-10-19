@@ -1,11 +1,6 @@
 var a17413 =
 [
-    [ "npc_shadowy_mercenary", "dc/d10/a17413.html#ae4e26a15f7ee0ba768a5ad6c18c8bc40", null ],
-    [ "AttackStart", "dc/d10/a17413.html#a2851972b1fa6e3de4f79433e1308dd11", null ],
-    [ "DoAction", "dc/d10/a17413.html#afba6e6565c04fe0b325a1ecf9d65ae80", null ],
-    [ "EnterEvadeMode", "dc/d10/a17413.html#a71290c72bff2a91d7c5cc8d661f28bf9", null ],
-    [ "JustDied", "dc/d10/a17413.html#a88cde525eb5d8db9fb2ffc30f18ddf61", null ],
-    [ "JustEngagedWith", "dc/d10/a17413.html#aab9ac47fa72e7a7a6941aad190a18ebb", null ],
-    [ "Reset", "dc/d10/a17413.html#aeedf803d4d6747ef505c11bb035c2c05", null ],
-    [ "UpdateAI", "dc/d10/a17413.html#af36c113ac34b5e2db382c6d5f9d546e4", null ]
+    [ "instance_forge_of_souls_InstanceScript", "da/dc5/a17417.html", "da/dc5/a17417" ],
+    [ "instance_forge_of_souls", "dc/d10/a17413.html#a504896f6e191c87ce77231c4ef267b27", null ],
+    [ "GetInstanceScript", "dc/d10/a17413.html#a64982b527cfa6057315b8e628549480b", null ]
 ];

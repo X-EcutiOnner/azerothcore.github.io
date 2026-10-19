@@ -1,8 +1,6 @@
 var a24417 =
 [
-    [ "npc_kservantAI", "d5/d38/a24417.html#a0687712690f2bacd24da1c94d222e761", null ],
-    [ "IsSummonedBy", "d5/d38/a24417.html#a6aa9c1544fffdd9916eda7a0941dc828", null ],
-    [ "Reset", "d5/d38/a24417.html#a0756ffacb97c83a3028afc620b32f349", null ],
-    [ "WaypointReached", "d5/d38/a24417.html#a577a2ebb91c08bfe2e09bc67eeebb4ef", null ],
-    [ "WaypointReached", "d5/d38/a24417.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "npc_illidari_spawnAI", "d6/d71/a24421.html", "d6/d71/a24421" ],
+    [ "npc_illidari_spawn", "d5/d38/a24417.html#ac8dbb30fe7f40d29a3434c8a888ace60", null ],
+    [ "GetAI", "d5/d38/a24417.html#a7198f506b0d4fd55d22fc72a90f42a09", null ]
 ];

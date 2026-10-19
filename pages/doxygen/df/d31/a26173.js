@@ -1,8 +1,7 @@
 var a26173 =
 [
-    [ "CheckProc", "df/d31/a26173.html#a8b3f8cf17dda2322d0e9f8f4211cbd20", null ],
-    [ "HandleProc", "df/d31/a26173.html#ae034bd626880858c9701ed963de993c9", null ],
-    [ "isException", "df/d31/a26173.html#aa5f4fcd1b9b710e2931460207cfc6dea", null ],
-    [ "PrepareAuraScript", "df/d31/a26173.html#a50348fd27947f67df03bf4ddbec89cca", null ],
-    [ "Register", "df/d31/a26173.html#aaa14b34ac54b4caee76ff72d07dd5c2d", null ]
+    [ "HandleDummy", "df/d31/a26173.html#a7a8016e1403caa0432242c5c3240f107", null ],
+    [ "PrepareSpellScript", "df/d31/a26173.html#ae2d2de36cceb037006eb4126f8e1778c", null ],
+    [ "Register", "df/d31/a26173.html#abd09f5df3f31af619f24214f90791a53", null ],
+    [ "Validate", "df/d31/a26173.html#ab14aedfdb61d54334f60e57968fcf081", null ]
 ];

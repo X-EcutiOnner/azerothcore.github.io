@@ -1,8 +1,7 @@
 var a10333 =
 [
-    [ "GetNavMesh", "de/d9b/a10333.html#a81e3e8249f22accbd06f9e80aa3fccf9", null ],
-    [ "GetNavMeshQuery", "de/d9b/a10333.html#af524ac62385fdd4d4c6a4f01afafbb49", null ],
-    [ "MapCollisionData", "de/d9b/a10333.html#a472038a89678719bf8868ab0c75e394f", null ],
-    [ "_navMesh", "de/d9b/a10333.html#ae41a024489dbe5d11ba6dceed6b7442f", null ],
-    [ "_navMeshQuery", "de/d9b/a10333.html#a237375e56702f7e83c9e13e1f959cfdb", null ]
+    [ "operator<", "de/d9b/a10333.html#adb62060523d8d5b11f16f3202a157f26", null ],
+    [ "respawnTime", "de/d9b/a10333.html#aaed69c7c6f9f78ecb365e233f1ff6dab", null ],
+    [ "spawnId", "de/d9b/a10333.html#a6faeab5132f3e539848ebe29cee5a5a4", null ],
+    [ "type", "de/d9b/a10333.html#a1400b212e0889c54047225ba57e95c94", null ]
 ];

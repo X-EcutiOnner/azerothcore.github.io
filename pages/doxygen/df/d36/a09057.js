@@ -1,6 +1,9 @@
 var a09057 =
 [
-    [ "SavedItem", "df/d36/a09057.html#a7261d44eefdbd56df651a57a71f5af6e", null ],
-    [ "dstpos", "df/d36/a09057.html#af844c8b955858b1ead94798c6326fa03", null ],
-    [ "item", "df/d36/a09057.html#afaa651441e306c13acc3cd1aa3084170", null ]
+    [ "areaFlag", "df/d36/a09057.html#ac6244004ed093c1a3d83749cbc20bfe9", null ],
+    [ "areaID", "df/d36/a09057.html#a455a890a1d82d31873873ac497cb83b7", null ],
+    [ "x1", "df/d36/a09057.html#a7624a89c7eac16955dbebb47f0c721d6", null ],
+    [ "x2", "df/d36/a09057.html#aebdb021c0b9c40d624d5115b24616a12", null ],
+    [ "y1", "df/d36/a09057.html#a04a84fe41ba2bc9996eb0bd70248222a", null ],
+    [ "y2", "df/d36/a09057.html#a84f612cf6d1905e948c7c9a6cb870e31", null ]
 ];

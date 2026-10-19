@@ -1,6 +1,10 @@
 var a15517 =
 [
-    [ "instance_razorfen_downs_InstanceMapScript", "d8/d42/a15521.html", "d8/d42/a15521" ],
-    [ "instance_razorfen_downs", "d9/d76/a15517.html#a317e5e4ce45fd88c657b8032b377ffb7", null ],
-    [ "GetInstanceScript", "d9/d76/a15517.html#a5010fc2704c3c699e39bf969f6f6ce2c", null ]
+    [ "CurrId", "d9/d76/a15517.html#a13ab14a7f8ef49fcbfa72b3c383c902a", null ],
+    [ "DestId", "d9/d76/a15517.html#ab29acec583ffa5055ff17c7216cab1b7", null ],
+    [ "O", "d9/d76/a15517.html#a291850314eca39626b811cdf82eadaca", null ],
+    [ "SpellId", "d9/d76/a15517.html#a98b5a11c4f105696d444222113de4607", null ],
+    [ "X", "d9/d76/a15517.html#a90b233e77c593720f434d78cae72458e", null ],
+    [ "Y", "d9/d76/a15517.html#a03176c6113b5fb3c873dc57e06c27d79", null ],
+    [ "Z", "d9/d76/a15517.html#a921c5e8c4b44edb9466cb59e94ac5441", null ]
 ];

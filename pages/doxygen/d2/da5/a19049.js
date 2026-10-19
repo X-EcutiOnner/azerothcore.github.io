@@ -1,8 +1,6 @@
 var a19049 =
 [
-    [ "DecayPeriodicTimer", "d2/da5/a19049.html#a314ac33692cc352c490ec3d87177d67a", null ],
-    [ "Load", "d2/da5/a19049.html#af5a498253c4c382df3b2462a30448a64", null ],
-    [ "PrepareAuraScript", "d2/da5/a19049.html#ac5d4ee199b49e04499997355ac054554", null ],
-    [ "Register", "d2/da5/a19049.html#a1b59480ce384f09cecd47872b39cf3c5", null ],
-    [ "_decayRate", "d2/da5/a19049.html#a20c696ff06f9b48451d9eac43ccf5416", null ]
+    [ "npc_suppresserAI", "db/dfa/a19053.html", "db/dfa/a19053" ],
+    [ "npc_suppresser", "d2/da5/a19049.html#a5db40aecba3c45281fe963c6b2bd8d1e", null ],
+    [ "GetAI", "d2/da5/a19049.html#a48869515abbac1491337a93b987231da", null ]
 ];

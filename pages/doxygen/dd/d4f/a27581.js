@@ -1,8 +1,6 @@
 var a27581 =
 [
-    [ "FilterTargets", "dd/d4f/a27581.html#a3766e5ed1f75c242f45b24c90eef7e11", null ],
-    [ "HandleDummy", "dd/d4f/a27581.html#a2214b10da042a3af2fd3311872cc5286", null ],
-    [ "PrepareSpellScript", "dd/d4f/a27581.html#a9959966856601f79a83931a7a7ecff91", null ],
-    [ "Register", "dd/d4f/a27581.html#a6ac1d4f1d82aabb39526aca92636a41f", null ],
-    [ "Validate", "dd/d4f/a27581.html#a67d4b92cc494b6081247a90e8d4c9628", null ]
+    [ "HandleEffectApply", "dd/d4f/a27581.html#ab77ea5638ea12f2e305487b1080d0b0b", null ],
+    [ "PrepareAuraScript", "dd/d4f/a27581.html#aed642c73ab31fb63aa497ada45863ae6", null ],
+    [ "Register", "dd/d4f/a27581.html#ab9c68d7368ed71d2c5585df31b09cdd7", null ]
 ];

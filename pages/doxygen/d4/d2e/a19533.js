@@ -1,7 +1,7 @@
 var a19533 =
 [
-    [ "OnApply", "d4/d2e/a19533.html#a72a01dea703436b2a220a9976da60fa6", null ],
-    [ "PrepareAuraScript", "d4/d2e/a19533.html#adb17425258d4fb2c0c464236e15f32d7", null ],
-    [ "Register", "d4/d2e/a19533.html#af026c126029c68ed8b7c6c1886720e4c", null ],
-    [ "Validate", "d4/d2e/a19533.html#a5674396828adf4e80102ed2277f1e08a", null ]
+    [ "OnRemove", "d4/d2e/a19533.html#a4e6a66934a01d01c50208459f6771353", null ],
+    [ "PrepareAuraScript", "d4/d2e/a19533.html#a2320044c6c81a89af0fefd4f90c05bd5", null ],
+    [ "Register", "d4/d2e/a19533.html#a4890d35f2b0889156a437c95e49f528c", null ],
+    [ "Validate", "d4/d2e/a19533.html#a1b90f1288b3b45267edd4da2b3418b21", null ]
 ];

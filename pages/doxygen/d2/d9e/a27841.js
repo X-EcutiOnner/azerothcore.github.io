@@ -1,6 +1,7 @@
 var a27841 =
 [
-    [ "HandleDummy", "d2/d9e/a27841.html#a2560417162a1c17cb067cdfeb2fc909d", null ],
-    [ "PrepareSpellScript", "d2/d9e/a27841.html#a1f9aa7ffef96365ad7c0c4ccd4a2814c", null ],
-    [ "Register", "d2/d9e/a27841.html#a27aece218c848064ae387491f9176099", null ]
+    [ "HandleAuraApply", "d2/d9e/a27841.html#afb8eb7fcc0797c3e19a9bfc5eebb5fb2", null ],
+    [ "HandleAuraRemove", "d2/d9e/a27841.html#a9029865b5e06c4a9aa7f155f371c9125", null ],
+    [ "PrepareAuraScript", "d2/d9e/a27841.html#a5c7d7c0b8880128121d66d39094f1965", null ],
+    [ "Register", "d2/d9e/a27841.html#ae15d5175671c60a55e4a77848bc9fe1b", null ]
 ];

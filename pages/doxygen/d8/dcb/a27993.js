@@ -1,7 +1,10 @@
 var a27993 =
 [
-    [ "HandleDummy", "d8/dcb/a27993.html#a436ed0843e0035308c69f0854decd7f2", null ],
-    [ "PrepareSpellScript", "d8/dcb/a27993.html#a42ff645d6c8e94353ae118327af5f4e6", null ],
-    [ "Register", "d8/dcb/a27993.html#a0b69f667ea83dee61206bbc723020cbc", null ],
-    [ "Validate", "d8/dcb/a27993.html#a93e68d77227297883aae472ef08fb67c", null ]
+    [ "CalculateBuffer", "d8/dcb/a27993.html#a3fa1917fc77575531e485cd0228bcc00", null ],
+    [ "Detonate", "d8/dcb/a27993.html#aa005ef9fba06c26dec9998153119c90f", null ],
+    [ "HandleProc", "d8/dcb/a27993.html#a35edcf5f57dee1bbb63321cd67b200db", null ],
+    [ "OnRemove", "d8/dcb/a27993.html#ae5ea7f0286f7e4c45611874b5ef79750", null ],
+    [ "PrepareAuraScript", "d8/dcb/a27993.html#a325ad66cd69a15260e274562250c8e32", null ],
+    [ "Register", "d8/dcb/a27993.html#a2d107c9db0b3b1859cb284b741a77ef8", null ],
+    [ "Validate", "d8/dcb/a27993.html#ae7de3e43a47e6b35d0dead23ac51325e", null ]
 ];

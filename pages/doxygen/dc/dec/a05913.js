@@ -1,8 +1,7 @@
 var a05913 =
 [
-    [ "category", "dc/dec/a05913.html#a6a53b4b68647fdde65e3c2363127fc4f", null ],
-    [ "char_type", "dc/dec/a05913.html#aaecf7407fc4cff91008168377114d7cd", null ],
-    [ "ACLogSink", "dc/dec/a05913.html#a070880d742fd84b44c4614a76952e589", null ],
-    [ "write", "dc/dec/a05913.html#adad5e421ed10b296eae8b9c52f5e76f5", null ],
-    [ "callback_", "dc/dec/a05913.html#a360b91b740efaa05309725f6678eb22a", null ]
+    [ "~SignalHandler", "dc/dec/a05913.html#a9c515cb60b156629c43d1a6fce81d58e", null ],
+    [ "handle_signal", "dc/dec/a05913.html#a56782d1718cb243bb5b0c6dc2d100042", null ],
+    [ "_handled", "dc/dec/a05913.html#a21b208a696ed4a320a7cf312006a787f", null ],
+    [ "_mutex", "dc/dec/a05913.html#a0c4d6ba642dd3877c3333b067db22db6", null ]
 ];

@@ -1,11 +1,6 @@
 var a17665 =
 [
-    [ "npc_living_mojoAI", "d5/d3c/a17665.html#ab0e6dd5db0c358ff4fefc4797a622b8c", null ],
-    [ "AttackStart", "d5/d3c/a17665.html#ad3f73a040176cd804f9715141063d176", null ],
-    [ "DoAction", "d5/d3c/a17665.html#a9d942e99f358a7488d473969ab461d6f", null ],
-    [ "JustEngagedWith", "d5/d3c/a17665.html#adbc665cfba933007e3f630676ab75656", null ],
-    [ "MoveInLineOfSight", "d5/d3c/a17665.html#a7981568666269e25580ae839f1f97f09", null ],
-    [ "Reset", "d5/d3c/a17665.html#a139df1207438dbd3793a2fbc58c2396c", null ],
-    [ "UpdateAI", "d5/d3c/a17665.html#a418d7eee72f0a8506357eee3f1fbaf6c", null ],
-    [ "events", "d5/d3c/a17665.html#acc7fd42cf4ea4b0203ad7ba4f775e3f2", null ]
+    [ "HandleEffectPeriodic", "d5/d3c/a17665.html#a8a165d3931353fefc2e6a7c7f309150e", null ],
+    [ "PrepareAuraScript", "d5/d3c/a17665.html#a2de3b6d4e32832ec7ce4548df23d3d5c", null ],
+    [ "Register", "d5/d3c/a17665.html#a3593ab75583bb5b9b31b29ba2c3cdd76", null ]
 ];

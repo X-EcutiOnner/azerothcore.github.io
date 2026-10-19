@@ -1,6 +1,6 @@
 var a21173 =
 [
-    [ "OnEffect", "d5/df6/a21173.html#aa24cfd6feec65f466e74c68484815c1e", null ],
-    [ "PrepareSpellScript", "d5/df6/a21173.html#a648fb610fb1914efac7f2cb6e1bb4290", null ],
-    [ "Register", "d5/df6/a21173.html#ac1c0076665edc6a2b3a0228340020a1e", null ]
+    [ "HandleProc", "d5/df6/a21173.html#a207dcb7134a23ca5a6e86acbdc283a27", null ],
+    [ "PrepareAuraScript", "d5/df6/a21173.html#a110cd9e8c18665e1e7b1ec4bc690ce75", null ],
+    [ "Register", "d5/df6/a21173.html#a867fa7224ccd0fe3b449d36b4607ba1e", null ]
 ];

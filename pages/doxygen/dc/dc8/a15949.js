@@ -1,7 +1,6 @@
 var a15949 =
 [
-    [ "npc_prophet_velen", "dc/dc8/a15949.html#a6f35fa9af478e1bb8fbbdda97845d067", null ],
-    [ "JustDied", "dc/dc8/a15949.html#a8f1e689b5597bc1c8c810bafe2ad0330", null ],
-    [ "Reset", "dc/dc8/a15949.html#a5beec39fd545129d0f124bb19524f95c", null ],
-    [ "UpdateAI", "dc/dc8/a15949.html#a2d016ecfedc5c7e886e7412081b54792", null ]
+    [ "npc_magwinAI", "db/d6e/a15953.html", "db/d6e/a15953" ],
+    [ "npc_magwin", "dc/dc8/a15949.html#a1a45602fd312a4c436b09fb7b90ac1d4", null ],
+    [ "GetAI", "dc/dc8/a15949.html#a83bee0fd5c1494f2bb732fe9e0ed1594", null ]
 ];

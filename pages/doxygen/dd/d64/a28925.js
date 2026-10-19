@@ -1,19 +1,13 @@
 var a28925 =
 [
-    [ "FactionRespondsToCallForHelp", "dd/d64/a28925.html#af0d102e7e7ae480b2c61cf121bcd012a", null ],
-    [ "IsContestedGuardFaction", "dd/d64/a28925.html#a52d5e1e5b01946a3d6d66158910e9f6d", null ],
-    [ "IsFriendlyTo", "dd/d64/a28925.html#ac70cef62b2ec646d593d8742a3c02f08", null ],
-    [ "IsHostileTo", "dd/d64/a28925.html#a1aadbf23c1c81a958665d96e5bf76093", null ],
-    [ "IsHostileToAlliancePlayers", "dd/d64/a28925.html#a4d3bfc9845c9d20f2e9e42f3247e1977", null ],
-    [ "IsHostileToHordePlayers", "dd/d64/a28925.html#a1734226996b76623df70f6fd0fe8a1c0", null ],
-    [ "IsHostileToPlayers", "dd/d64/a28925.html#a349650c7af717e3c67392a0b9d1970e1", null ],
-    [ "IsNeutralToAll", "dd/d64/a28925.html#a99cb471bcc9071a3c152266caa4579ae", null ],
-    [ "enemyFaction", "dd/d64/a28925.html#ae53f6799be5ae4bf7ab047fd97a4a969", null ],
-    [ "faction", "dd/d64/a28925.html#a2cb03ed38c15f6e6db7b556200282541", null ],
-    [ "factionFlags", "dd/d64/a28925.html#af20e4983d34c419b4a14c60d8049d9f4", null ],
-    [ "friendFaction", "dd/d64/a28925.html#a9c89b58067e28de89cedf2572b5e0e31", null ],
-    [ "friendlyMask", "dd/d64/a28925.html#a6842badfb5e7e0ad3a26d250426c64b6", null ],
-    [ "hostileMask", "dd/d64/a28925.html#ab395ab86c3e553ea4a9b1ae901c6e7cb", null ],
-    [ "ID", "dd/d64/a28925.html#a22657898486c71df39da27b968e405d5", null ],
-    [ "ourMask", "dd/d64/a28925.html#a822685376430441eeb85c24fd26473b0", null ]
+    [ "DBCDatabaseLoader", "dd/d64/a28925.html#a2efbbd3799e5f72fecaeaf9365579482", null ],
+    [ "DBCDatabaseLoader", "dd/d64/a28925.html#a7d93e6d37796f341edcf25062743c5b5", null ],
+    [ "CloneStringToPool", "dd/d64/a28925.html#a68e5ae50c980aa81b051d0622575bb2d", null ],
+    [ "Load", "dd/d64/a28925.html#a1b116dca8b01e0462a2e6c08245a49a3", null ],
+    [ "operator=", "dd/d64/a28925.html#a46f7d5670840892f7a8714ce0b6cde13", null ],
+    [ "_dbcFormat", "dd/d64/a28925.html#aa749118514d0b784ac6df295bd820d8e", null ],
+    [ "_recordSize", "dd/d64/a28925.html#a6721538ebbcfe020fb195d44b3bdbd11", null ],
+    [ "_sqlIndexPos", "dd/d64/a28925.html#ac1b5b191615d3e3121ea70965b0d495a", null ],
+    [ "_sqlTableName", "dd/d64/a28925.html#ab6590071edf5311ccf484d48e4fd125e", null ],
+    [ "_stringPool", "dd/d64/a28925.html#a52b5b86f0efb8ad0716bc0171a3aa740", null ]
 ];

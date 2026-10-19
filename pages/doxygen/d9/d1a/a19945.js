@@ -1,10 +1,6 @@
 var a19945 =
 [
-    [ "npc_oculus_drakegiverAI", "d9/df2/a19949.html", "d9/df2/a19949" ],
-    [ "npc_oculus_drakegiver", "d9/d1a/a19945.html#add34aba22fb2ca16f6f055dd77a2994b", null ],
-    [ "GetAI", "d9/d1a/a19945.html#aa26a2b82c5e4076ce704d5884895d903", null ],
-    [ "OnGossipHello", "d9/d1a/a19945.html#ac00d09d2d81121d562e3303704229c18", null ],
-    [ "OnGossipSelect", "d9/d1a/a19945.html#ad0fc46e306080ccfe9988d416ef71e77", null ],
-    [ "RemoveEssence", "d9/d1a/a19945.html#a70513d873111c590ca4e33cb446a4438", null ],
-    [ "StoreEssence", "d9/d1a/a19945.html#ac8bbe890722aa924a7f0dee161d342c4", null ]
+    [ "npc_oculus_unstable_sphereAI", "d9/df2/a19949.html", "d9/df2/a19949" ],
+    [ "npc_oculus_unstable_sphere", "d9/d1a/a19945.html#a5167370a6d3fd32a5673bbeb95ed3f3c", null ],
+    [ "GetAI", "d9/d1a/a19945.html#adda2a9e7eab03444742e85729673ab2f", null ]
 ];

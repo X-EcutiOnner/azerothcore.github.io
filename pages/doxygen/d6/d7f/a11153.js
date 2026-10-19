@@ -1,7 +1,9 @@
 var a11153 =
 [
-    [ "GuildInvite", "d6/d7f/a11153.html#a7b5ef96e9a9d4c6665b280bb844b6d54", null ],
-    [ "Write", "d6/d7f/a11153.html#a4ed1c240a53fa6268eb07b3c77d68757", null ],
-    [ "GuildName", "d6/d7f/a11153.html#ac3ae572bb65d5ea156151e5fc7abf5b8", null ],
-    [ "InviterName", "d6/d7f/a11153.html#a8a91b3f9a94776da4b23c38220c6fc3d", null ]
+    [ "GuildRoster", "d6/d7f/a11153.html#a2161128d6fb6fa53a5129a95ded2b5fc", null ],
+    [ "Write", "d6/d7f/a11153.html#a544a539999827d4eb8923cbbcdf42bac", null ],
+    [ "InfoText", "d6/d7f/a11153.html#a9d457ee8feb6c173d960b360aca90fc6", null ],
+    [ "MemberData", "d6/d7f/a11153.html#a964fc72bf3ada77c171fd1f691449241", null ],
+    [ "RankData", "d6/d7f/a11153.html#a67b0a12fae93c5807030c1062f328abb", null ],
+    [ "WelcomeText", "d6/d7f/a11153.html#a5ec2c209558d2c34feee4bfd8cda201c", null ]
 ];

@@ -1,6 +1,6 @@
 var a24661 =
 [
-    [ "CheckProc", "d0/d47/a24661.html#afec3e119cb5ef12632b603225ccb5b8d", null ],
-    [ "PrepareAuraScript", "d0/d47/a24661.html#a2f42e70482f71a4c275f70897b90ed72", null ],
-    [ "Register", "d0/d47/a24661.html#a048f59b6b0d52232e3a953f173324fc2", null ]
+    [ "FilterTargets", "d0/d47/a24661.html#a991a944f31680e4d53cc2a46d8c8b8bf", null ],
+    [ "PrepareSpellScript", "d0/d47/a24661.html#aea49df3f6b93223ed72c3a9875232b74", null ],
+    [ "Register", "d0/d47/a24661.html#a8f0e0b6363303def780d35415c88b4d6", null ]
 ];

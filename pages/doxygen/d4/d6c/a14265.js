@@ -1,8 +1,7 @@
 var a14265 =
 [
-    [ "DelayedSummonEvent", "d4/d6c/a14265.html#a5cfa870b670fff17d2241ecb85b2ba6c", null ],
-    [ "Execute", "d4/d6c/a14265.html#a65ba0f1a1dc14e07b7b93a71c92ace6b", null ],
-    [ "_entry", "d4/d6c/a14265.html#a24d72110a070eb0bd03af081ef616de4", null ],
-    [ "_owner", "d4/d6c/a14265.html#a2a21cc6387b3605ed4f09cad80a6168a", null ],
-    [ "_pos", "d4/d6c/a14265.html#aef19987803a1cce47cbd8d9005a288ac", null ]
+    [ "HandleEffectApply", "d4/d6c/a14265.html#a8d52c4ea09e1d58d2dc44ff73d71faf5", null ],
+    [ "PrepareAuraScript", "d4/d6c/a14265.html#a9829789fe5544429454e29d228ce0daf", null ],
+    [ "Register", "d4/d6c/a14265.html#a7f5a26d10f48d863477ec902e6f5ff1e", null ],
+    [ "Validate", "d4/d6c/a14265.html#ae81a441757ab9f10c29a7b313b99cf5f", null ]
 ];

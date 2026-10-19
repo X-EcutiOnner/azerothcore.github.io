@@ -1,11 +1,11 @@
 var a13377 =
 [
-    [ "npc_kilrek", "d3/d57/a13377.html#a853aa53d3e03aebe07c939eaf1b1c9c2", null ],
-    [ "JustDied", "d3/d57/a13377.html#a314ed9f73c6a9c991c7eb2690e0f7c1c", null ],
-    [ "JustEngagedWith", "d3/d57/a13377.html#a3a60a3bdb5a2876e325a26964bab21ac", null ],
-    [ "Reset", "d3/d57/a13377.html#ae0b375abe5ec909cfaff96c257da0325", null ],
-    [ "UpdateAI", "d3/d57/a13377.html#acf402b43e91b1f488ef8b9e3ed5092c4", null ],
-    [ "_scheduler", "d3/d57/a13377.html#a93663ee806385f617e81a03062dd94d6", null ],
-    [ "instance", "d3/d57/a13377.html#a13b969fa86ef57f9508117a73252a36b", null ],
-    [ "TerestianGUID", "d3/d57/a13377.html#a411476da379bf687cd007e25ba11280e", null ]
+    [ "boss_tenris_mirkblood", "d3/d57/a13377.html#ae626332a437983bbb0219bbe2d4b75dc", null ],
+    [ "DamageTaken", "d3/d57/a13377.html#a0316d2d936f10928fe01d1d5a532e9e0", null ],
+    [ "EnterEvadeMode", "d3/d57/a13377.html#a5da11ca73a280c08d1ab0ab4df66d836", null ],
+    [ "JustEngagedWith", "d3/d57/a13377.html#ad95106bbe08589a5ca1d0f2f30aab0ec", null ],
+    [ "KilledUnit", "d3/d57/a13377.html#ab0a5fedbd8714326a948163d7bcc0838", null ],
+    [ "Reset", "d3/d57/a13377.html#a88d46f6e972525979687b315db90dc30", null ],
+    [ "SpellHit", "d3/d57/a13377.html#a5d69e0cf2a394ac9eed94bb82ab35949", null ],
+    [ "_mirrorTarget", "d3/d57/a13377.html#a1e9a1c361046b12fe0569fbdef4a7033", null ]
 ];

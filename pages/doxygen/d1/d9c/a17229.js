@@ -1,6 +1,5 @@
 var a17229 =
 [
-    [ "OnPeriodic", "d1/d9c/a17229.html#a6f2e191d76f894517aed395866b7e508", null ],
-    [ "PrepareAuraScript", "d1/d9c/a17229.html#a571ee1c735b6095408973bfe5f91bcf7", null ],
-    [ "Register", "d1/d9c/a17229.html#a6094dc303c034e49fb4e543874db080b", null ]
+    [ "npc_essence_of_twin", "d1/d9c/a17229.html#a019de64e5e01e611acfda5db4c279b19", null ],
+    [ "OnGossipHello", "d1/d9c/a17229.html#a6f37b7f1152098b41b07ddbae3613c63", null ]
 ];

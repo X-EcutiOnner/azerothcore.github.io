@@ -1,6 +1,6 @@
 var a14261 =
 [
-    [ "OnRemove", "dd/d64/a14261.html#aedad236b202300eee0925e3600b87bfa", null ],
-    [ "PrepareAuraScript", "dd/d64/a14261.html#acfdeb98e274989e378d4d4c800306a24", null ],
-    [ "Register", "dd/d64/a14261.html#a0d820ca108e3aabe87ab5867d997264c", null ]
+    [ "HandleScriptEffect", "dd/d64/a14261.html#a430d6f41e8533cbade64ea46aaa9ec2e", null ],
+    [ "PrepareSpellScript", "dd/d64/a14261.html#ad110e0dba330acde845c47501256cf5d", null ],
+    [ "Register", "dd/d64/a14261.html#ab6971aa466055a1280cd258e26645157", null ]
 ];

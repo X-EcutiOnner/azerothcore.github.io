@@ -1,11 +1,7 @@
 var a03614 =
 [
-    [ "CombatReference", "dc/deb/a08303.html", "dc/deb/a08303" ],
-    [ "PvPCombatReference", "d2/dbd/a08307.html", "d2/dbd/a08307" ],
-    [ "CombatManager", "db/d42/a08311.html", "db/d42/a08311" ],
-    [ "EvadeState", "d3/df2/a03614.html#a330a2d238c7c7b5390c40e53436d0d74", [
-      [ "EVADE_STATE_NONE", "d3/df2/a03614.html#a330a2d238c7c7b5390c40e53436d0d74a742a27c0e47bf6cbe51ea3d3485e1ee6", null ],
-      [ "EVADE_STATE_COMBAT", "d3/df2/a03614.html#a330a2d238c7c7b5390c40e53436d0d74ac6bc3b656f0875f408ad159de8e47dab", null ],
-      [ "EVADE_STATE_HOME", "d3/df2/a03614.html#a330a2d238c7c7b5390c40e53436d0d74a7179da8d8fc2a4fb8897c5febb10b6d8", null ]
-    ] ]
+    [ "CompareThreatLessThan", "d3/dd0/a08329.html", "d3/dd0/a08329" ],
+    [ "ThreatManager", "d3/d65/a08333.html", "d3/d65/a08333" ],
+    [ "ThreatManager::ThreatListIterator", "da/d32/a08337.html", "da/d32/a08337" ],
+    [ "ThreatReference", "d9/de9/a08341.html", "d9/de9/a08341" ]
 ];

@@ -1,6 +1,6 @@
 var a24505 =
 [
-    [ "HandleDamageCalc", "dd/dae/a24505.html#a9e0f6fe8bb10950c2130fb7d1f07017a", null ],
-    [ "PrepareSpellScript", "dd/dae/a24505.html#a183477b6269dbc705a10e60ab36c13b1", null ],
-    [ "Register", "dd/dae/a24505.html#ae93d958a3a439e3401685b0d2a570f0e", null ]
+    [ "PrepareSpellScript", "dd/dae/a24505.html#ac781a5ff389268d1f18867ff5585ca71", null ],
+    [ "Register", "dd/dae/a24505.html#a5cb9e02774ea6c307e76183253ffb472", null ],
+    [ "SetDest", "dd/dae/a24505.html#a5fec9885b1dd6cf80fb47af321fad98e", null ]
 ];

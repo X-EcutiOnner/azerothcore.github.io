@@ -1,10 +1,6 @@
 var a11349 =
 [
-    [ "SplitItem", "de/d3e/a11349.html#a805c2c75e93d7ef839b3758ffd59f6c6", null ],
-    [ "Read", "de/d3e/a11349.html#a59edb1d3445897bfaff1e97d703b42bb", null ],
-    [ "Count", "de/d3e/a11349.html#a097ed361c33f7415ed4d7efe6ab985e8", null ],
-    [ "DestinationBag", "de/d3e/a11349.html#ac60d1b0b51ef1b91fd51d900bb825153", null ],
-    [ "DestinationSlot", "de/d3e/a11349.html#aaf03b2ba6c3519008515c75f6f09aa60", null ],
-    [ "SourceBag", "de/d3e/a11349.html#aa87bc282a672ae8f9a747ad65400ef03", null ],
-    [ "SourceSlot", "de/d3e/a11349.html#a82dbf4e94d9bb1a352bf03d76a14950b", null ]
+    [ "SetDungeonDifficultyClient", "de/d3e/a11349.html#ae3bb2ac16b8712a3eb731913af26961c", null ],
+    [ "Read", "de/d3e/a11349.html#a6f92ee86dc73b1a51a9c4683997e6c4f", null ],
+    [ "Mode", "de/d3e/a11349.html#a3cb1f62fba1849dfb59c9b8f46fe4c27", null ]
 ];

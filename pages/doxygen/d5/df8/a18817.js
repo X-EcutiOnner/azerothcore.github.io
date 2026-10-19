@@ -1,6 +1,6 @@
 var a18817 =
 [
-    [ "ModDestHeight", "d5/df8/a18817.html#acd31e130e72cd93bee3544ecd2dc38ad", null ],
-    [ "PrepareSpellScript", "d5/df8/a18817.html#a288f8917d73be30234e465778b1f6544", null ],
-    [ "Register", "d5/df8/a18817.html#a69f9cdbfc33ec39f629f08f20484b29e", null ]
+    [ "npc_icc_ice_sphereAI", "d5/d70/a18821.html", "d5/d70/a18821" ],
+    [ "npc_icc_ice_sphere", "d5/df8/a18817.html#a4ed169ba87e801bb83ca4f3c457534cf", null ],
+    [ "GetAI", "d5/df8/a18817.html#aabb9ef14ea217f282173edf1600d3ecd", null ]
 ];

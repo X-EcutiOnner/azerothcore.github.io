@@ -1,12 +1,10 @@
 var a05769 =
 [
-    [ "Node", "da/d6e/a05773.html", "da/d6e/a05773" ],
-    [ "MPSCQueueNonIntrusive", "dc/dd8/a05769.html#a962c10fff5c86b00cc2e847ae758b9ce", null ],
-    [ "~MPSCQueueNonIntrusive", "dc/dd8/a05769.html#a599e2093215f70dc4f2f7db08965d816", null ],
-    [ "MPSCQueueNonIntrusive", "dc/dd8/a05769.html#a2d543ed2b5d1ab7f23ad82ee156e42ea", null ],
-    [ "Dequeue", "dc/dd8/a05769.html#abadcc4a4ff97f4fa132978fbd0f37e1d", null ],
-    [ "Enqueue", "dc/dd8/a05769.html#a63d8a4e4c085467d33d56fd3adf0f751", null ],
-    [ "operator=", "dc/dd8/a05769.html#a75063e89049903fb5305d67ea1a02034", null ],
-    [ "_head", "dc/dd8/a05769.html#a2fb1ef015f7b9a790ba1af73dc80ba35", null ],
-    [ "_tail", "dc/dd8/a05769.html#a8a568d842fc8da8e39b325b459cdb44d", null ]
+    [ "Category", "dc/dd8/a05769.html#a6a7956fedac99271428968ba339f464f", null ],
+    [ "Tags", "dc/dd8/a05769.html#ac22787b2dadd4d3991f72f6ccab5c225", null ],
+    [ "Text", "dc/dd8/a05769.html#ab63598f64896186fde81048550767b28", null ],
+    [ "Timestamp", "dc/dd8/a05769.html#a8248a27d920ca431493750e3f2dec48b", null ],
+    [ "Title", "dc/dd8/a05769.html#a857d2d4843480b9967334f079351292a", null ],
+    [ "Type", "dc/dd8/a05769.html#af9962592650ba24fd9b3c0ee9ce06f7f", null ],
+    [ "Value", "dc/dd8/a05769.html#a09832a09e989c3851e72f4ec198f0e20", null ]
 ];

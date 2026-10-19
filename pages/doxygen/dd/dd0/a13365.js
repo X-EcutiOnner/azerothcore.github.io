@@ -1,5 +1,9 @@
 var a13365 =
 [
-    [ "at_karazhan_mirkblood_entrance", "dd/dd0/a13365.html#aa5537dc8616c1f748b6be4b1e2870ca7", null ],
-    [ "OnTrigger", "dd/dd0/a13365.html#ad99c85de36a369752fa61bab761a402e", null ]
+    [ "FilterTargets", "dd/dd0/a13365.html#a88b91e40b330d39bd04a7873128fb858", null ],
+    [ "HandleFinish", "dd/dd0/a13365.html#a762ea4cc1cd0a50a65daf22cbbf4ce9c", null ],
+    [ "PrepareSpellScript", "dd/dd0/a13365.html#ab4ef82283e4d651d2e5304e49970efa8", null ],
+    [ "Register", "dd/dd0/a13365.html#ab2008e585589cbf313170064d37c4aa9", null ],
+    [ "Validate", "dd/dd0/a13365.html#af4963be6c544a1706a6dc30dcbf18309", null ],
+    [ "_targets", "dd/dd0/a13365.html#a2f75199a90e52cff770f46bce76d5149", null ]
 ];

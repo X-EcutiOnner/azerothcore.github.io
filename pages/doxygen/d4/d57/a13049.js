@@ -1,5 +1,9 @@
 var a13049 =
 [
-    [ "go_orb_of_domination", "d4/d57/a13049.html#ad1378efcf7a54adac256a44bbdfe4357", null ],
-    [ "GossipHello", "d4/d57/a13049.html#a95628cbeeb6b2af6a79546ff3661815e", null ]
+    [ "npc_drakonid_spawner", "d4/d57/a13049.html#a2b657e800dc5cc30c618391413ded116", null ],
+    [ "DoAction", "d4/d57/a13049.html#ab013cff0430c09fe1045fdc735e45182", null ],
+    [ "IsSummonedBy", "d4/d57/a13049.html#a6a2170e0f20736d69006ce6d6c769476", null ],
+    [ "SummonedCreatureDies", "d4/d57/a13049.html#a57dd1fc80cfa43f6afae58e797b4091f", null ],
+    [ "UpdateAI", "d4/d57/a13049.html#a60e79dd8f56e87a2de4a203a63c6f9e3", null ],
+    [ "_owner", "d4/d57/a13049.html#a6e0f0d2f6c265f9e5206f441dead8b2f", null ]
 ];

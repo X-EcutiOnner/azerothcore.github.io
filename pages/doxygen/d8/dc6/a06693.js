@@ -1,10 +1,25 @@
 var a06693 =
 [
-    [ "bvar", "d8/dc6/a06693.html#aa6e8fda81f0f4b6d8f6e984616b5952d", null ],
-    [ "gob", "d8/dc6/a06693.html#ad654cef8dd1ab99af027ff31c160a36d", null ],
-    [ "holder", "d8/dc6/a06693.html#a46e408867f98388ecf66692438d48000", null ],
-    [ "spell", "d8/dc6/a06693.html#a6678b172ab306d90b04341dcb17a132e", null ],
-    [ "unit", "d8/dc6/a06693.html#a210df2cde720f8eb4c956444fb536150", null ],
-    [ "var0", "d8/dc6/a06693.html#a4d90bbe920dca0d5a5be8e2a93a0af99", null ],
-    [ "var1", "d8/dc6/a06693.html#a6aafd8266267ea053a538a813acccb78", null ]
+    [ "FollowerAI", "d8/dc6/a06693.html#ab4e7a4d16884d5e484e18541569fd72e", null ],
+    [ "~FollowerAI", "d8/dc6/a06693.html#a5e2b9ddccc77bfe5cb8b16323d711c1e", null ],
+    [ "AddFollowState", "d8/dc6/a06693.html#ae3c6e6ae70da77c9a9adcdf09fbd28fa", null ],
+    [ "AssistPlayerInCombatAgainst", "d8/dc6/a06693.html#a8424220526302983b8770fb5b8883785", null ],
+    [ "AttackStart", "d8/dc6/a06693.html#a5a78e0409af05f030d1b3b429926773e", null ],
+    [ "EnterEvadeMode", "d8/dc6/a06693.html#aa3f9ea2a3a454aa63c0417b6c105c3a6", null ],
+    [ "GetLeaderForFollower", "d8/dc6/a06693.html#a9d6c390022beeac0777e73062ad73b73", null ],
+    [ "HasFollowState", "d8/dc6/a06693.html#a68a341874cb3cdb095e9221261c51ce2", null ],
+    [ "JustDied", "d8/dc6/a06693.html#a83977da1bbd73813e2efa1b594512ece", null ],
+    [ "JustRespawned", "d8/dc6/a06693.html#a34d732db8b189e0243854ad3b87cb70f", null ],
+    [ "MoveInLineOfSight", "d8/dc6/a06693.html#a83dec5983277d0b59980b44593332b8f", null ],
+    [ "MovementInform", "d8/dc6/a06693.html#a8594920db87044310ab710e0296be488", null ],
+    [ "RemoveFollowState", "d8/dc6/a06693.html#a792d64dca1699f77f9e1f5ad81db7aab", null ],
+    [ "SetFollowComplete", "d8/dc6/a06693.html#aa23547887bf44a222987bcde93fc8b32", null ],
+    [ "SetFollowPaused", "d8/dc6/a06693.html#a1571d129b6bf4eb6eb7a1cd4fdbb4f00", null ],
+    [ "StartFollow", "d8/dc6/a06693.html#a5cf91c5844364823169124aeea9dd94d", null ],
+    [ "UpdateAI", "d8/dc6/a06693.html#ac46e0e5b06f2c02d8f3119e60b20d106", null ],
+    [ "UpdateFollowerAI", "d8/dc6/a06693.html#a6381f756645b8c4a9dc4c30b8c431694", null ],
+    [ "m_pQuestForFollow", "d8/dc6/a06693.html#a4111b102cd96f99de90f8c752b156325", null ],
+    [ "m_uiFollowState", "d8/dc6/a06693.html#a75788e0086b4ae455b73e7d3ebd6b5f4", null ],
+    [ "m_uiLeaderGUID", "d8/dc6/a06693.html#a0c833da3d0096607828aeeefef2f313b", null ],
+    [ "m_uiUpdateFollowTimer", "d8/dc6/a06693.html#a21a4c066ea3d6983c1b6e1f02d24cbae", null ]
 ];

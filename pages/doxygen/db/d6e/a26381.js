@@ -1,7 +1,6 @@
 var a26381 =
 [
-    [ "CheckCast", "db/d6e/a26381.html#a02134ecbc1b1e0c8b6047ec13ef7e701", null ],
-    [ "HandleEffect", "db/d6e/a26381.html#a9f1be51fb58cde38cd643c6d1a5a6c15", null ],
-    [ "PrepareSpellScript", "db/d6e/a26381.html#aa63cb903e7c6037a6c08381334ccc126", null ],
-    [ "Register", "db/d6e/a26381.html#a670a8dbdadd988fe3220cc01b71114aa", null ]
+    [ "HandleOpenObject", "db/d6e/a26381.html#ab658c13615fac1861470bb4b853e76a4", null ],
+    [ "PrepareSpellScript", "db/d6e/a26381.html#a0fd0a3dc06fc2140add9e3d86e544bef", null ],
+    [ "Register", "db/d6e/a26381.html#a40ff1e10d366ca7183e4e8d027c92d1b", null ]
 ];

@@ -1,4 +1,7 @@
 var a09465 =
 [
-    [ "Content", "de/df5/a09465.html#a1987f2c29c82d8a140bfa8cadcae53d7", null ]
+    [ "IsFitToRequirements", "de/df5/a09465.html#ac175634ed2eab2911c3749fa208a073a", null ],
+    [ "castFlags", "de/df5/a09465.html#a03cd65a460ea252818de9230cb656c1c", null ],
+    [ "spellId", "de/df5/a09465.html#a34641755a5267b7a907d320cc5b4ddb4", null ],
+    [ "userType", "de/df5/a09465.html#adcf285572403481cb418bddebc5f4bfa", null ]
 ];

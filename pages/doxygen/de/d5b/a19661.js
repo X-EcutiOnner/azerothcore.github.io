@@ -1,6 +1,6 @@
 var a19661 =
 [
-    [ "boss_maexxna_webwrapAI", "d2/d14/a19665.html", "d2/d14/a19665" ],
-    [ "boss_maexxna_webwrap", "de/d5b/a19661.html#afebd8c00234fe6cdd93af8ae443bb637", null ],
-    [ "GetAI", "de/d5b/a19661.html#a6d86d58a86b831a219ecc598044be4f3", null ]
+    [ "boss_kelthuzad_minionAI", "d2/d14/a19665.html", "d2/d14/a19665" ],
+    [ "boss_kelthuzad_minion", "de/d5b/a19661.html#a4c6d430035c964b4063139c0cda6bfff", null ],
+    [ "GetAI", "de/d5b/a19661.html#ab951068fedced148653ebf9124ba5e3d", null ]
 ];

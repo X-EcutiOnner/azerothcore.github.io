@@ -1,6 +1,8 @@
 var a21473 =
 [
-    [ "boss_archavonAI", "db/d08/a21477.html", "db/d08/a21477" ],
-    [ "boss_archavon", "d6/dd0/a21473.html#a44e20480f8d86cf763afe67de49c6c33", null ],
-    [ "GetAI", "d6/dd0/a21473.html#a5eb62d54fe1559ef9df51c2bd01f7de4", null ]
+    [ "CountTargets", "d6/dd0/a21473.html#aaf8528038c6b3172d4810ed773f71644", null ],
+    [ "HandleDummy", "d6/dd0/a21473.html#ac5fa1dd078656f7ae182ec18eddacfe3", null ],
+    [ "PrepareSpellScript", "d6/dd0/a21473.html#a1f31273cb1826cd07196eacfbdc46673", null ],
+    [ "Register", "d6/dd0/a21473.html#adce6a5d920ac616dc0579fcd96c49288", null ],
+    [ "_targetCount", "d6/dd0/a21473.html#acfd8832cb9a197dddb034a003b318911", null ]
 ];

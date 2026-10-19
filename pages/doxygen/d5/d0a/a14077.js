@@ -1,9 +1,5 @@
 var a14077 =
 [
-    [ "npc_partygoer", "d5/d0a/a14077.html#af053caedfd1fa8173b875f521d279418", null ],
-    [ "Initialize", "d5/d0a/a14077.html#a9012ff95e5cead3c02f9eeb30f29a9f6", null ],
-    [ "Reset", "d5/d0a/a14077.html#ad1936099ec5696a2a593e5041b0360c6", null ],
-    [ "UpdateAI", "d5/d0a/a14077.html#a423df8a3de7d23221ea4d62a0c65fefc", null ],
-    [ "_events", "d5/d0a/a14077.html#ad5095ee005ecb89ca54b0663d41e20ac", null ],
-    [ "_facing", "d5/d0a/a14077.html#a9e934091894987ec091b03090bf733e5", null ]
+    [ "at_twilight_grove", "d5/d0a/a14077.html#a2ef32dbac0a35aa7dc6ebbafe926125f", null ],
+    [ "OnTrigger", "d5/d0a/a14077.html#a3fd9a73bf917b34932438b06fe572623", null ]
 ];

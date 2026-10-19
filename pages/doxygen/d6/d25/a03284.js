@@ -1,6 +1,6 @@
 var a03284 =
 [
-    [ "calculateNextDepartureTime", "d6/d25/a03284.html#a385e4650cdda06aa445485dc66ce13b0", null ],
-    [ "startTimestamp", "d6/d25/a03284.html#afe6429daa475f408bae10dd6f2525b01", null ],
-    [ "transportStartDate", "d6/d25/a03284.html#aaffdf4c6f140e5c339726ba9e134e6f9", null ]
+    [ "Transport", "de/daf/a09157.html", "de/daf/a09157" ],
+    [ "MotionTransport", "dd/d3c/a09161.html", "dd/d3c/a09161" ],
+    [ "StaticTransport", "d2/db8/a09165.html", "d2/db8/a09165" ]
 ];

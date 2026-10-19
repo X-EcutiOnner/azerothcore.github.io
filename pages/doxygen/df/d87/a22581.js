@@ -1,6 +1,7 @@
 var a22581 =
 [
-    [ "PrepareSpellScript", "df/d87/a22581.html#ae9a4734c9b12473f86c91a49860d56dd", null ],
-    [ "RecalculateDamage", "df/d87/a22581.html#ad47d51e68c6ffe60f15beceaffc60b19", null ],
-    [ "Register", "df/d87/a22581.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39", null ]
+    [ "npc_wg_quest_giver", "df/d87/a22581.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
+    [ "GetDialogStatus", "df/d87/a22581.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
+    [ "OnGossipHello", "df/d87/a22581.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
+    [ "OnGossipSelect", "df/d87/a22581.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
 ];

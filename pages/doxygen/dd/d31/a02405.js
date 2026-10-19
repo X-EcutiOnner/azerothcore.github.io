@@ -1,19 +1,8 @@
 var a02405 =
 [
-    [ "QueryResultFieldMetadata", "d3/d0b/a06139.html", "d3/d0b/a06139" ],
-    [ "Field", "d7/dc5/a06143.html", "d7/dc5/a06143" ],
-    [ "Binary", "dd/d31/a02405.html#a45c2b15f675e85c1f4462be09f27c59e", null ],
-    [ "is_chrono_v", "dd/d31/a02405.html#aa6a7b1e80be2ae7ec2efb76185ee7b44", null ],
-    [ "DatabaseFieldTypes", "dd/d31/a02405.html#a52858f4c2cc23ac9372ab466fb82c091", [
-      [ "Null", "dd/d31/a02405.html#a52858f4c2cc23ac9372ab466fb82c091abbb93ef26e3c101ff11cdd21cab08a94", null ],
-      [ "Int8", "dd/d31/a02405.html#a52858f4c2cc23ac9372ab466fb82c091a7d839b2c12bfd40ac121b4cc9e81c539", null ],
-      [ "Int16", "dd/d31/a02405.html#a52858f4c2cc23ac9372ab466fb82c091a39bc2ae44b184207f560ff8619823208", null ],
-      [ "Int32", "dd/d31/a02405.html#a52858f4c2cc23ac9372ab466fb82c091ac06129f6e6e15c09328365e553f1dc31", null ],
-      [ "Int64", "dd/d31/a02405.html#a52858f4c2cc23ac9372ab466fb82c091afbde23b11d7e59af7828e81144c8b487", null ],
-      [ "Float", "dd/d31/a02405.html#a52858f4c2cc23ac9372ab466fb82c091a22ae0e2b89e5e3d477f988cc36d3272b", null ],
-      [ "Double", "dd/d31/a02405.html#a52858f4c2cc23ac9372ab466fb82c091ad909d38d705ce75386dd86e611a82f5b", null ],
-      [ "Decimal", "dd/d31/a02405.html#a52858f4c2cc23ac9372ab466fb82c091a937504f318f04eaf0f1d701df4c4d7f3", null ],
-      [ "Date", "dd/d31/a02405.html#a52858f4c2cc23ac9372ab466fb82c091a44749712dbec183e983dcd78a7736c41", null ],
-      [ "Binary", "dd/d31/a02405.html#a52858f4c2cc23ac9372ab466fb82c091a6ce976e8f061b2b5cfe4d0c50c3405dd", null ]
-    ] ]
+    [ "GetDefaultDatabaseInfo", "dd/d31/a02405.html#a5560c170776773a1a20d93060003e89d", null ],
+    [ "CHARACTER_DATABASE_INFO_DEFAULT", "dd/d31/a02405.html#a6854faf653c8b94d9e1b611db3269d1a", null ],
+    [ "EMPTY_DATABASE_INFO", "dd/d31/a02405.html#aa2920a017ca93e102f17b0ca20885c5b", null ],
+    [ "LOGIN_DATABASE_INFO_DEFAULT", "dd/d31/a02405.html#aa5457f479ebc812232cc3f0d67fabde1", null ],
+    [ "WORLD_DATABASE_INFO_DEFAULT", "dd/d31/a02405.html#ad2151db3d84513bc271cf642ad76bb80", null ]
 ];

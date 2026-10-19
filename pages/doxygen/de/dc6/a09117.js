@@ -1,14 +1,10 @@
 var a09117 =
 [
-    [ "SocialMap", "de/dc6/a09117.html#a2b80fa18a6f1ed54fda7719867f45ebd", null ],
-    [ "SocialMgr", "de/dc6/a09117.html#a3cff8262ce10d2e8c8c38dc834230545", null ],
-    [ "~SocialMgr", "de/dc6/a09117.html#aef859e6c923a6ba4bb7ac0049f17463d", null ],
-    [ "BroadcastToFriendListers", "de/dc6/a09117.html#a55b35ea17ebfea4ff31710186b87865f", null ],
-    [ "GetFriendInfo", "de/dc6/a09117.html#a7d0c4638b6fde1bf614d90492160ee55", null ],
-    [ "instance", "de/dc6/a09117.html#a223f3d7811d8c360da7f467b70af808f", null ],
-    [ "LoadFromDB", "de/dc6/a09117.html#aab17f5c27494cfdf2b1c5d5038f446a0", null ],
-    [ "MakeFriendStatusPacket", "de/dc6/a09117.html#af30fe2f3223dc7ad9094e44393420d3a", null ],
-    [ "RemovePlayerSocial", "de/dc6/a09117.html#af537c83cc3d481dde68d0a60aa122289", null ],
-    [ "SendFriendStatus", "de/dc6/a09117.html#acf245ca689bd5c0efe4a791b9e0e3c5f", null ],
-    [ "m_socialMap", "de/dc6/a09117.html#a2f8a276598ad01d350aa245fcef82a7a", null ]
+    [ "Index", "de/dc6/a09117.html#a28b25d822326a1b7d5ec7f95ce084bac", [
+      [ "REGULAR", "de/dc6/a09117.html#a28b25d822326a1b7d5ec7f95ce084bacaff2524a88b92db0ec25cc1f17b28cf68", null ],
+      [ "ADDON", "de/dc6/a09117.html#a28b25d822326a1b7d5ec7f95ce084baca0d74e752005cb5fe12644048433ea5cb", null ],
+      [ "MAX", "de/dc6/a09117.html#a28b25d822326a1b7d5ec7f95ce084baca6ca77c7f76d3ccd18db1d4c0f4e070a5", null ]
+    ] ],
+    [ "Count", "de/dc6/a09117.html#a0dc1d4dc63d5289fde92bbb2c28a7e2e", null ],
+    [ "Time", "de/dc6/a09117.html#a20b83dcc96256f2ab16326b2b8ec925e", null ]
 ];

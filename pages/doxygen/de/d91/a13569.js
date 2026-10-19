@@ -1,6 +1,5 @@
 var a13569 =
 [
-    [ "boss_darkmaster_gandlingAI", "df/d7d/a13573.html", "df/d7d/a13573" ],
-    [ "boss_darkmaster_gandling", "de/d91/a13569.html#a6db73fa3c8324f6bfdcb1ae6a72ee39b", null ],
-    [ "GetAI", "de/d91/a13569.html#a21ea53862614303af31a517a53d1fbf6", null ]
+    [ "boss_zelfan", "de/d91/a13569.html#a169e72dfe50c5199bf0053828888095b", null ],
+    [ "JustEngagedWith", "de/d91/a13569.html#a4e83c11ad95ea4dbea893a08671f17af", null ]
 ];

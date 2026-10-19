@@ -1,14 +1,12 @@
 var a17125 =
 [
-    [ "npc_snobold_vassalAI", "dc/d41/a17125.html#a2ecc5e8289252b2936f36de9921294e0", null ],
-    [ "AttackStart", "dc/d41/a17125.html#a50afc82c80cede8dcf3240a116463411", null ],
-    [ "DoAction", "dc/d41/a17125.html#a8beac97ea5f7c797d2ae52e2f3c3be50", null ],
-    [ "JustDied", "dc/d41/a17125.html#aef408460584a17f15a84e8a6435c6348", null ],
-    [ "JustEngagedWith", "dc/d41/a17125.html#a60c1704617e99239d60d24d6b7513c1a", null ],
-    [ "MoveInLineOfSight", "dc/d41/a17125.html#aae75a4e69e27c1e4778a7f76caff04ba", null ],
-    [ "Reset", "dc/d41/a17125.html#af794f46b1a7af97b52683954b556c27d", null ],
-    [ "UpdateAI", "dc/d41/a17125.html#ac1d282da6f2d9133619a212a349c777f", null ],
-    [ "events", "dc/d41/a17125.html#adfb6df0ee8ab19b58de24da8d4e6d9df", null ],
-    [ "pInstance", "dc/d41/a17125.html#afc140e6f9fc1ec78914aecc5150345b0", null ],
-    [ "TargetGUID", "dc/d41/a17125.html#a0d36e4903448c5a03115df0dff3480c8", null ]
+    [ "boss_jaraxxus", "dc/d41/a17125.html#a86082ca12767e4d04bd24c0b3bec3176", null ],
+    [ "EnterEvadeMode", "dc/d41/a17125.html#a5e11dff4d8fc0820f60044ddcfdc6ab5", null ],
+    [ "JustDied", "dc/d41/a17125.html#a87fcb2c9ca26b498a17138459ea45e7a", null ],
+    [ "JustEngagedWith", "dc/d41/a17125.html#adc9cd34f103c026a9d91f5b7b076ac02", null ],
+    [ "JustSummoned", "dc/d41/a17125.html#ab5b9ac68b23be5833e3e061f2623ee37", null ],
+    [ "MoveInLineOfSight", "dc/d41/a17125.html#a86a9d40e9fabd693dd936758ccdb8a9a", null ],
+    [ "Reset", "dc/d41/a17125.html#ab41962c64bd1a4b0e93bc83ae5f62889", null ],
+    [ "SpellHit", "dc/d41/a17125.html#ad024c86f49c0ff49bc8ccde187d59088", null ],
+    [ "UpdateAI", "dc/d41/a17125.html#a0d598a20f10a0f3187ad9dfe6405cf13", null ]
 ];

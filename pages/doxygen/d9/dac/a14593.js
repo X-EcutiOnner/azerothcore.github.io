@@ -1,7 +1,6 @@
 var a14593 =
 [
-    [ "OnRemove", "d9/dac/a14593.html#ab909660f32a77e86fde5da35e2f69302", null ],
-    [ "PrepareAuraScript", "d9/dac/a14593.html#ac95ee854f1f8921bd49fbd59c959d0da", null ],
-    [ "Register", "d9/dac/a14593.html#a42c116ecb7d938bc4b9047ab40ff60ea", null ],
-    [ "Validate", "d9/dac/a14593.html#abd1254c53c04f72f848d8641affc729d", null ]
+    [ "boss_hakkarAI", "d4/dde/a14597.html", "d4/dde/a14597" ],
+    [ "boss_hakkar", "d9/dac/a14593.html#a834bd1f223154fbf1be94bf43136da28", null ],
+    [ "GetAI", "d9/dac/a14593.html#aff3a089e30dcddfde4db372104153723", null ]
 ];

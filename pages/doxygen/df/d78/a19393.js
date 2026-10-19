@@ -1,6 +1,9 @@
 var a19393 =
 [
-    [ "npc_icc_nerubar_broodkeeperAI", "d1/d3c/a19397.html", "d1/d3c/a19397" ],
-    [ "npc_icc_nerubar_broodkeeper", "df/d78/a19393.html#adf9c3bfb444fed50420c2e780b373f34", null ],
-    [ "GetAI", "df/d78/a19393.html#ad12186da36f7bbf99275a746bc874bfc", null ]
+    [ "npc_icc_skybreaker_luminaryAI", "df/d78/a19393.html#a91868021309239f5582bb7ee89baec13", null ],
+    [ "AttackStart", "df/d78/a19393.html#acf8d1eaebdc68cb53866155d8aad6e48", null ],
+    [ "JustEngagedWith", "df/d78/a19393.html#a12927240144022174e3d190be6b34976", null ],
+    [ "Reset", "df/d78/a19393.html#ac925b84b81ec1d1e118f3e62edfbdd15", null ],
+    [ "UpdateAI", "df/d78/a19393.html#a969a36e147006971a93711349f90c193", null ],
+    [ "events", "df/d78/a19393.html#a8521aef674b9a295c27f7e5725af4ffe", null ]
 ];

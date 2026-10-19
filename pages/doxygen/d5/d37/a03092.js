@@ -1,9 +1,9 @@
 var a03092 =
 [
-    [ "instance_ruby_sanctum", "db/d8f/a16783.html", "db/d8f/a16783" ],
-    [ "instance_ruby_sanctum::instance_ruby_sanctum_InstanceMapScript", "df/df3/a16787.html", "df/df3/a16787" ],
-    [ "spell_ruby_sanctum_rallying_shout", "d2/df1/a16791.html", "d2/df1/a16791" ],
-    [ "AddSC_instance_ruby_sanctum", "d5/d37/a03092.html#a93f8126d2e36ad7caab980f1c3f83a14", null ],
-    [ "boundaries", "d5/d37/a03092.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
-    [ "doorData", "d5/d37/a03092.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
+    [ "DynamicObject", "df/df7/a08629.html", "df/df7/a08629" ],
+    [ "DynamicObjectType", "d5/d37/a03092.html#aee85c2f840289bcf773609333ee91131", [
+      [ "DYNAMIC_OBJECT_PORTAL", "d5/d37/a03092.html#aee85c2f840289bcf773609333ee91131a241a99bd67606cb106b003bab51e3a5b", null ],
+      [ "DYNAMIC_OBJECT_AREA_SPELL", "d5/d37/a03092.html#aee85c2f840289bcf773609333ee91131a7fb219efa9ce6ad8dc94e20c1feff546", null ],
+      [ "DYNAMIC_OBJECT_FARSIGHT_FOCUS", "d5/d37/a03092.html#aee85c2f840289bcf773609333ee91131a59fbc7f63f5d2715fbc29110f393168d", null ]
+    ] ]
 ];

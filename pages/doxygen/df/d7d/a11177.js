@@ -1,11 +1,7 @@
 var a11177 =
 [
-    [ "GuildRankTabPermissions", "d7/d8d/a11181.html", "d7/d8d/a11181" ],
-    [ "GuildPermissionsQueryResults", "df/d7d/a11177.html#aa643af51780fc550f3947936266d54f5", null ],
-    [ "Write", "df/d7d/a11177.html#a4a5937a8daab44b5000a5308ed0be06a", null ],
-    [ "Flags", "df/d7d/a11177.html#a368162426ab526adafc7ecb223fdf865", null ],
-    [ "NumTabs", "df/d7d/a11177.html#ab797ef0f0081c4520a6333afbe6cd5b4", null ],
-    [ "RankID", "df/d7d/a11177.html#a795ba45650991bd5c1aa03c17886d86b", null ],
-    [ "Tab", "df/d7d/a11177.html#ae54eeb1a76f5eeaf4a63bcb58bab3460", null ],
-    [ "WithdrawGoldLimit", "df/d7d/a11177.html#a9d175a8de69f15c3f8eadf237f68e84a", null ]
+    [ "GuildInvite", "df/d7d/a11177.html#a7b5ef96e9a9d4c6665b280bb844b6d54", null ],
+    [ "Write", "df/d7d/a11177.html#a4ed1c240a53fa6268eb07b3c77d68757", null ],
+    [ "GuildName", "df/d7d/a11177.html#ac3ae572bb65d5ea156151e5fc7abf5b8", null ],
+    [ "InviterName", "df/d7d/a11177.html#a8a91b3f9a94776da4b23c38220c6fc3d", null ]
 ];

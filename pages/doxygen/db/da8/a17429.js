@@ -1,9 +1,7 @@
 var a17429 =
 [
-    [ "npc_hor_spiritual_reflection", "db/da8/a17429.html#ade6e6c1f32f4353c131fce054d6b94c4", null ],
-    [ "EnterEvadeMode", "db/da8/a17429.html#a3973e83b013df723849939635071324f", null ],
-    [ "JustDied", "db/da8/a17429.html#a913d17e1534a5940b7841e38eae246f7", null ],
-    [ "JustEngagedWith", "db/da8/a17429.html#ad47d12654c88cc94b7c17906e4096115", null ],
-    [ "Reset", "db/da8/a17429.html#aa7dad28bbe53286ec298ba5480717e69", null ],
-    [ "UpdateAI", "db/da8/a17429.html#a5093b6502bca95c22b2b0f0117f86047", null ]
+    [ "OnRemove", "db/da8/a17429.html#a4b95717cb19116b81f3eec798089abad", null ],
+    [ "PrepareAuraScript", "db/da8/a17429.html#a581645fa151531aaf7b562a8739d5616", null ],
+    [ "Register", "db/da8/a17429.html#a01304c556d79001e290707551bee7622", null ],
+    [ "Validate", "db/da8/a17429.html#a96e4b9cae1f016bf87c9a09ceb6da561", null ]
 ];

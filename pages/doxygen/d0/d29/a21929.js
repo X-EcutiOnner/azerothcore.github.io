@@ -1,4 +1,6 @@
 var a21929 =
 [
-    [ "operator()", "d0/d29/a21929.html#a8176fb574f0eac852ed3528dcadac288", null ]
+    [ "npc_mindless_ghoulAI", "d0/d29/a21929.html#a4cc0dbd4aa2366115348bc1db273a5e2", null ],
+    [ "CanAIAttack", "d0/d29/a21929.html#a18fbc44ad760a69d952d003622ec75b2", null ],
+    [ "JustDied", "d0/d29/a21929.html#a272067bef6dbab24024f7de990c10b64", null ]
 ];

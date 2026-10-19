@@ -1,7 +1,7 @@
 var a21205 =
 [
-    [ "HandleProc", "de/dc3/a21205.html#a1b8782a4f22522cfe224073515abdf45", null ],
-    [ "PrepareAuraScript", "de/dc3/a21205.html#ab4a8a98564d561082243c0f7a2dda1bf", null ],
-    [ "Register", "de/dc3/a21205.html#a8e9b7613131ef7ea05b853df337faa4e", null ],
-    [ "Validate", "de/dc3/a21205.html#ab3a99392d06ba0bea8e3f4b345acb23d", null ]
+    [ "OnPeriodic", "de/dc3/a21205.html#a529e89c1ae0074370da174defc086719", null ],
+    [ "PrepareAuraScript", "de/dc3/a21205.html#a587652095a5dfae229787a0c0ceacfbe", null ],
+    [ "Register", "de/dc3/a21205.html#acd5551b09882d720608bdec6036dee9a", null ],
+    [ "Validate", "de/dc3/a21205.html#aaed6604e39dd977f4e7c671052d718e8", null ]
 ];

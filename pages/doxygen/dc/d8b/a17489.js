@@ -1,9 +1,8 @@
 var a17489 =
 [
-    [ "FilterTargets", "dc/d8b/a17489.html#aefebf504286394cf3caffa566543e4a4", null ],
-    [ "FilterTargetsNext", "dc/d8b/a17489.html#a356b6ace97d07df22a232d2287072b5e", null ],
-    [ "PrepareSpellScript", "dc/d8b/a17489.html#a893e0eb620e19909b2f2a715ea946f6b", null ],
-    [ "Register", "dc/d8b/a17489.html#a962651920a94190f4864a3b1c7fcd1d3", null ],
-    [ "Unload", "dc/d8b/a17489.html#a6adc9b6ca86da6cd9465fa0da150dcca", null ],
-    [ "targetList", "dc/d8b/a17489.html#a3c839185938e0b67b97f652d1d15e213", null ]
+    [ "npc_hor_raging_ghoul", "dc/d8b/a17489.html#a733d4ad92566a13ace3427aae6696bac", null ],
+    [ "JustDied", "dc/d8b/a17489.html#a14c0937fdd3c25df74f0a09efc1c5122", null ],
+    [ "Reset", "dc/d8b/a17489.html#aad6424be7dd53b59016963cefffe40e5", null ],
+    [ "UpdateAI", "dc/d8b/a17489.html#af4024393b318ca702c6652e042036b26", null ],
+    [ "leaped", "dc/d8b/a17489.html#a69dea538a87ae47de221768b6de42315", null ]
 ];

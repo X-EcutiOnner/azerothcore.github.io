@@ -1,6 +1,5 @@
 var a11813 =
 [
-    [ "WorldSession", "d8/dfd/a11813.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
-    [ "Guid", "d8/dfd/a11813.html#a46a89b6904e59f39f4e1460a9bb45765", null ],
-    [ "Name", "d8/dfd/a11813.html#a4e747a555bde74f97a5fc78287e5e29d", null ]
+    [ "AccountInfoQueryHolderPerRealm", "d8/dfd/a11813.html#a9d821669804cd04cf121e141d94ead36", null ],
+    [ "Initialize", "d8/dfd/a11813.html#a9d4e4de9a038697f61e6350f5f59713b", null ]
 ];

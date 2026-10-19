@@ -1,6 +1,6 @@
 var a24677 =
 [
-    [ "CheckProc", "df/dd6/a24677.html#ace3662e092d02de975929741c470230d", null ],
-    [ "PrepareAuraScript", "df/dd6/a24677.html#aed547ead2b8822f08eb1530f4b29e2f8", null ],
-    [ "Register", "df/dd6/a24677.html#ae6432106538261827c3eac3dde1450f2", null ]
+    [ "HandleAfterCast", "df/dd6/a24677.html#aaa65e67362ded5318e89272acf073bf3", null ],
+    [ "PrepareSpellScript", "df/dd6/a24677.html#a7d0dd936965845c14e7b54846facdb89", null ],
+    [ "Register", "df/dd6/a24677.html#ab7b767743d62d9763bea710b7552a8cf", null ]
 ];

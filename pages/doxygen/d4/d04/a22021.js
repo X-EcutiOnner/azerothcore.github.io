@@ -1,8 +1,6 @@
 var a22021 =
 [
-    [ "OnRemove", "d4/d04/a22021.html#a9c6c35aa7a245857b0c8685a8e100836", null ],
-    [ "PrepareAuraScript", "d4/d04/a22021.html#a183b5a3b1332695e3c047bb63435389a", null ],
-    [ "Register", "d4/d04/a22021.html#aad41ab76cc0a882f272e8f79867a7015", null ],
-    [ "Validate", "d4/d04/a22021.html#a8ba007e6b4e9e32743a6fae8db08c666", null ],
-    [ "spellIds", "d4/d04/a22021.html#aca236f4ebe60767f2a4a83cdcc6e31bb", null ]
+    [ "npc_q24545_vegardAI", "d5/d80/a22025.html", "d5/d80/a22025" ],
+    [ "npc_q24545_vegard", "d4/d04/a22021.html#ac12e2f143fab6b93950eaea06f5f7d85", null ],
+    [ "GetAI", "d4/d04/a22021.html#a9a7accfb3eea9f08efbb82fbd4bd7e76", null ]
 ];

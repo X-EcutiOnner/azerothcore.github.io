@@ -1,7 +1,7 @@
 var a11381 =
 [
-    [ "BuybackItem", "d2/d50/a11381.html#a05dec559746537669fcf32f52a171b44", null ],
-    [ "Read", "d2/d50/a11381.html#aefe27701674c75f8937f72ee418a6692", null ],
-    [ "Slot", "d2/d50/a11381.html#ac4faf4646da9a9fe7c1567527ca28a27", null ],
-    [ "VendorGuid", "d2/d50/a11381.html#a6be9d8d3f564621780e458c4a785b709", null ]
+    [ "AutoEquipItemSlot", "d2/d50/a11381.html#aa51f40a4172ac41548ec6199bc84375d", null ],
+    [ "Read", "d2/d50/a11381.html#ade6a15026e9c461b38301edf79f367be", null ],
+    [ "DestinationSlot", "d2/d50/a11381.html#a683a9bd141b2f99db431de2ae7d213e3", null ],
+    [ "ItemGuid", "d2/d50/a11381.html#a9d4da587061833262acff66674d3ac41", null ]
 ];

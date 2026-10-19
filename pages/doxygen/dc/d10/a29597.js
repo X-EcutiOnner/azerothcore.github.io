@@ -1,8 +1,11 @@
 var a29597 =
 [
-    [ "MapDifficulty", "dc/d10/a29597.html#abf514d1105541d5c5aaf52a91330a1e2", null ],
-    [ "MapDifficulty", "dc/d10/a29597.html#a227aec55b5b774076882ea34f70d5d88", null ],
-    [ "hasErrorMessage", "dc/d10/a29597.html#a8dd5436eaec4d0e67f8b41c8dd071148", null ],
-    [ "maxPlayers", "dc/d10/a29597.html#af82ad844bc4ac9585cb9df1963697e1b", null ],
-    [ "resetTime", "dc/d10/a29597.html#a7190131620b9eee0897ac7b4dd62949e", null ]
+    [ "addToSpellBook", "dc/d10/a29597.html#ad312934d24abcc78c02d50cc5cb5403f", null ],
+    [ "Col", "dc/d10/a29597.html#a0bc589c5b1425d5e889cd290b805169e", null ],
+    [ "DependsOn", "dc/d10/a29597.html#a7b1aa1384777b8d94dceed3c387bb628", null ],
+    [ "DependsOnRank", "dc/d10/a29597.html#a608f232669981da3423b959479ca8683", null ],
+    [ "RankID", "dc/d10/a29597.html#a96d0fd120ed3aa7fbd287d104fd87c26", null ],
+    [ "Row", "dc/d10/a29597.html#a136b889d2e8875b01fc7aa2be06847ac", null ],
+    [ "TalentID", "dc/d10/a29597.html#aa769574106b0e5afdbc7c71c51c3b9a2", null ],
+    [ "TalentTab", "dc/d10/a29597.html#acefe6f8c0a5b3893e2a9f828d500df68", null ]
 ];

@@ -1,6 +1,6 @@
 var a28425 =
 [
-    [ "go_bashir_crystalforge", "df/d9c/a28425.html#a8b68a63933e14d82198580912fddc280", null ],
-    [ "OnGossipHello", "df/d9c/a28425.html#a4aa941ae78a17eecc5593d6ccd17ff63", null ],
-    [ "OnGossipSelect", "df/d9c/a28425.html#ac7e1b6db4ae2bee766b95049a8b0c320", null ]
+    [ "go_darkmoon_faire_musicAI", "dc/de5/a28429.html", "dc/de5/a28429" ],
+    [ "go_darkmoon_faire_music", "df/d9c/a28425.html#ab8dd92213e1c2815ff9498267b09b5f2", null ],
+    [ "GetAI", "df/d9c/a28425.html#a03be3eddefe4eeba8a0af8ee02bf2839", null ]
 ];

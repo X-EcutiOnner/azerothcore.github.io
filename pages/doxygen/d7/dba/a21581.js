@@ -1,6 +1,6 @@
 var a21581 =
 [
-    [ "HandleEffectPeriodic", "d7/dba/a21581.html#a508ff9e362d586497839aa29ceae1227", null ],
-    [ "PrepareAuraScript", "d7/dba/a21581.html#a4e7d5317d28207136b1fd3477a51ae06", null ],
-    [ "Register", "d7/dba/a21581.html#a4b08cefe7d334635b70d389cc9df4901", null ]
+    [ "npc_frozen_orbAI", "d0/d71/a21585.html", "d0/d71/a21585" ],
+    [ "npc_frozen_orb", "d7/dba/a21581.html#ac14966722e39b2b6b3a907756701ed98", null ],
+    [ "GetAI", "d7/dba/a21581.html#a2f9e1a2cb14ee9e5f24e02aa97697116", null ]
 ];

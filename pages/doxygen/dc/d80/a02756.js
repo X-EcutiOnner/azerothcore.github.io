@@ -1,11 +1,10 @@
 var a02756 =
 [
-    [ "StableResultCode", "dc/d80/a02756.html#abee8740a43e35bc796d1287225999514", [
-      [ "STABLE_ERR_MONEY", "dc/d80/a02756.html#abee8740a43e35bc796d1287225999514a2e1a0a641b8771fd5ac124129e76b8c2", null ],
-      [ "STABLE_ERR_STABLE", "dc/d80/a02756.html#abee8740a43e35bc796d1287225999514af3160ddc997ae8fc32c4420aa8169898", null ],
-      [ "STABLE_SUCCESS_STABLE", "dc/d80/a02756.html#abee8740a43e35bc796d1287225999514a87d687b90cdb7cc884567156b95da61e", null ],
-      [ "STABLE_SUCCESS_UNSTABLE", "dc/d80/a02756.html#abee8740a43e35bc796d1287225999514afb9c62c9485c5e5f50c502a61a8f0ab1", null ],
-      [ "STABLE_SUCCESS_BUY_SLOT", "dc/d80/a02756.html#abee8740a43e35bc796d1287225999514aaa2a19926ebaa7372be4a798c5513317", null ],
-      [ "STABLE_ERR_EXOTIC", "dc/d80/a02756.html#abee8740a43e35bc796d1287225999514ac96f0f7b1cccb7a29b30b8152c780f47", null ]
-    ] ]
+    [ "QEmote", "d2/d8f/a10089.html", "d2/d8f/a10089" ],
+    [ "GossipTextOption", "d1/d98/a10093.html", "d1/d98/a10093" ],
+    [ "GossipText", "d1/df9/a10097.html", "d1/df9/a10097" ],
+    [ "PageTextLocale", "d1/d8d/a10101.html", "d1/d8d/a10101" ],
+    [ "NpcTextLocale", "d1/dd8/a10105.html", "d1/dd8/a10105" ],
+    [ "MAX_GOSSIP_TEXT_EMOTES", "dc/d80/a02756.html#a705783094711e028814c1c59a16c2c4f", null ],
+    [ "MAX_GOSSIP_TEXT_OPTIONS", "dc/d80/a02756.html#a114c9636000e930cd1dc1ef7e444814f", null ]
 ];

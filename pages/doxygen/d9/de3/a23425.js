@@ -1,7 +1,5 @@
 var a23425 =
 [
-    [ "HandleEffectRemove", "d9/de3/a23425.html#abfd43cd8e9df873e6c0867779bad13c1", null ],
-    [ "HandlePeriodic", "d9/de3/a23425.html#a5137e24394fa14129c44d92c79eef117", null ],
-    [ "PrepareAuraScript", "d9/de3/a23425.html#ac1f10b9e9d9883c25e28ae313242d41e", null ],
-    [ "Register", "d9/de3/a23425.html#a69108d90f7c3fa95adfc29c14bd8c9fe", null ]
+    [ "go_strange_pool", "d9/de3/a23425.html#aa44feb353ad1cb440e5b6707112af680", null ],
+    [ "OnGossipHello", "d9/de3/a23425.html#a5a2ee56e277b062e6b4757cb8b8b09a0", null ]
 ];

@@ -1,7 +1,6 @@
 var a11621 =
 [
-    [ "PetDismissSound", "d5/d5d/a11621.html#a035aeb40e5de8b5d3d5d9703ad0f19c9", null ],
-    [ "Write", "d5/d5d/a11621.html#a06f3c97d815a3e8de55bcd2b3eecdb64", null ],
-    [ "ModelId", "d5/d5d/a11621.html#aba65e6547adde55978ce7b2abb779d51", null ],
-    [ "ModelPosition", "d5/d5d/a11621.html#a06e6bff9d70996ba890c31ea74363dad", null ]
+    [ "PetStopAttack", "d5/d5d/a11621.html#a4a68127f3290d4f2e288600757dd3282", null ],
+    [ "Read", "d5/d5d/a11621.html#a22dd8d9fcbadbec5ba046812f5cdac51", null ],
+    [ "PetGUID", "d5/d5d/a11621.html#af7b95e5b976af2fa7bb4c61319f7eb97", null ]
 ];

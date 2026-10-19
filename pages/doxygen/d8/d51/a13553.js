@@ -1,6 +1,5 @@
 var a13553 =
 [
-    [ "instance_scarlet_monastery_InstanceMapScript", "dd/d41/a13557.html", "dd/d41/a13557" ],
-    [ "instance_scarlet_monastery", "d8/d51/a13553.html#a8f068ebd98bd81dbb60dbccd795f1f3f", null ],
-    [ "GetInstanceScript", "d8/d51/a13553.html#a1c66031217457809fbe56303085715a0", null ]
+    [ "boss_yazzai", "d8/d51/a13553.html#a6c92ffeff3e56f98cb1bd08f1835fe10", null ],
+    [ "JustEngagedWith", "d8/d51/a13553.html#ab504de0e51a3715485eb65e006352a6f", null ]
 ];

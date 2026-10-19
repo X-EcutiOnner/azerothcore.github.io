@@ -1,6 +1,6 @@
 var a25993 =
 [
-    [ "HandleDummy", "db/d20/a25993.html#aafc9efb0f8070566579724853a88ab03", null ],
-    [ "PrepareSpellScript", "db/d20/a25993.html#a248c1203a4f15b2cd60afed9fa33cb59", null ],
-    [ "Register", "db/d20/a25993.html#a362e2ab6921aaa0c10b70795a5eda0de", null ]
+    [ "HandleScriptEffect", "db/d20/a25993.html#a61ce8d26205af3a35a69646fa0b5454b", null ],
+    [ "PrepareSpellScript", "db/d20/a25993.html#ab9ff7007cdaad8d6432ef0cae134f653", null ],
+    [ "Register", "db/d20/a25993.html#a80fe694c669aa86494bd73bfa7b8ffc8", null ]
 ];

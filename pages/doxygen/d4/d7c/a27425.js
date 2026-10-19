@@ -1,6 +1,6 @@
 var a27425 =
 [
-    [ "HandlePeriodic", "d4/d7c/a27425.html#a6fdf93580d860712943bbff07e273fef", null ],
-    [ "PrepareAuraScript", "d4/d7c/a27425.html#ac64daca8467814398251ec8e590f8281", null ],
-    [ "Register", "d4/d7c/a27425.html#ad0e68442f3d12cb58781e5e2d39b49ec", null ]
+    [ "ModDest", "d4/d7c/a27425.html#ab03387aec0a02a6b3bac1014443554b6", null ],
+    [ "PrepareSpellScript", "d4/d7c/a27425.html#a53f7da301759fb18686bc73281c4a321", null ],
+    [ "Register", "d4/d7c/a27425.html#a266198fbc6203517f9845ef6212ddf13", null ]
 ];

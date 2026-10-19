@@ -1,6 +1,6 @@
 var a20081 =
 [
-    [ "boss_maiden_of_griefAI", "d6/dca/a20085.html", "d6/dca/a20085" ],
-    [ "boss_maiden_of_grief", "db/d02/a20081.html#a8361e4961ac1da09b803ca9e7fc67f95", null ],
-    [ "GetAI", "db/d02/a20081.html#af8d2e6392a0c73add801910945b2558e", null ]
+    [ "CalculateDamage", "db/d02/a20081.html#ae38f8cfb44de2798d7a284c942617678", null ],
+    [ "PrepareSpellScript", "db/d02/a20081.html#a043955d56e0ae4c54d70e8fe6e417dd1", null ],
+    [ "Register", "db/d02/a20081.html#ab4b32d2db39c8d9079a83c89d63ccd93", null ]
 ];

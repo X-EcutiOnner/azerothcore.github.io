@@ -1,8 +1,8 @@
 var a06141 =
 [
-    [ "Statements", "dd/d73/a06141.html#a6dc31cb64a22e90cc5275bf6fcaaf000", null ],
-    [ "LoginDatabaseConnection", "dd/d73/a06141.html#aed22866380f9331ff73d4437a779206c", null ],
-    [ "LoginDatabaseConnection", "dd/d73/a06141.html#a27fa1397706cf8b986fe0a05a82a910b", null ],
-    [ "~LoginDatabaseConnection", "dd/d73/a06141.html#a7514a6e42889d5d75dcce2e804fff7b8", null ],
-    [ "DoPrepareStatements", "dd/d73/a06141.html#a3f826d59e4efa55d7825f90f434ae889", null ]
+    [ "DatabaseWorkerPoolAdapter", "dd/d73/a06141.html#afaf15e7b5a8305b7766452f68b0e5763", null ],
+    [ "DirectExecute", "dd/d73/a06141.html#a001df1f9dead46304cad902e1e7689d1", null ],
+    [ "GetConnectionInfo", "dd/d73/a06141.html#ab823ad038f84c114cb85764320a3f546", null ],
+    [ "Query", "dd/d73/a06141.html#abe05d7ef60e96d2a054c430af6913c3f", null ],
+    [ "_pool", "dd/d73/a06141.html#acffa90573e6f9d4889d62f4c9d57b28b", null ]
 ];

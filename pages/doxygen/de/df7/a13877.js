@@ -1,6 +1,6 @@
 var a13877 =
 [
-    [ "FixOrientation", "de/df7/a13877.html#ac4a9654d37a73f9d5ddc73ff90ce145b", null ],
-    [ "Execute", "de/df7/a13877.html#a7af72679731c9b86b9ae36d19d1621e5", null ],
-    [ "_owner", "de/df7/a13877.html#a5f12db3774bdeef25a300780c00db1fb", null ]
+    [ "SpectralBlastCheck", "de/df7/a13877.html#ada2eda8781891a4049ee30c5ecb81c3c", null ],
+    [ "operator()", "de/df7/a13877.html#afbe13a5f90a5b95832e14fe9d7affc9f", null ],
+    [ "_victim", "de/df7/a13877.html#ab96456159d61e781aa8d691dd0b1fec1", null ]
 ];

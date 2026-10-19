@@ -1,7 +1,15 @@
 var a21697 =
 [
-    [ "HandleScriptEffect", "d2/d2b/a21697.html#a23d220613a4133e01fb3d7cbacb3aa1c", null ],
-    [ "PrepareSpellScript", "d2/d2b/a21697.html#a73b5af95ee4f593337c3803574d190db", null ],
-    [ "Register", "d2/d2b/a21697.html#a930de2343532feb50b86304f32269e4c", null ],
-    [ "Validate", "d2/d2b/a21697.html#ae9bfedf7e89487217ad927459e259c04", null ]
+    [ "npc_azure_saboteur", "d2/d2b/a21697.html#a051e99f11de367f810d9404a723173fd", null ],
+    [ "FinishPointReached", "d2/d2b/a21697.html#a451777273b76e4651b1f4309e8477c9f", null ],
+    [ "InitializeAI", "d2/d2b/a21697.html#acf28368986b940b571f493bd663e8e09", null ],
+    [ "MoveInLineOfSight", "d2/d2b/a21697.html#a1a65d5100befd33a104a13eef0800ae7", null ],
+    [ "UpdateAI", "d2/d2b/a21697.html#af5cf21e08a62b09793e99a92df1ef1b7", null ],
+    [ "WaypointReached", "d2/d2b/a21697.html#a7c6f44f0dcdb0d5abc18e304383d3b96", null ],
+    [ "WaypointReached", "d2/d2b/a21697.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_boss", "d2/d2b/a21697.html#ab23d685ca979bba79a3d9a14117350f8", null ],
+    [ "_count", "d2/d2b/a21697.html#aa431780ab6b90976494058a602377825", null ],
+    [ "_events", "d2/d2b/a21697.html#a7ee513b49f09971f5fea099e8c9b7bc7", null ],
+    [ "_instance", "d2/d2b/a21697.html#ab220c76d2fd72df36b5b92ee897d9d14", null ],
+    [ "_isOpening", "d2/d2b/a21697.html#a59ecc6687f1d5d948c6988d14f577ffd", null ]
 ];

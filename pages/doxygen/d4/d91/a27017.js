@@ -1,6 +1,7 @@
 var a27017 =
 [
-    [ "HandleAfterHit", "d4/d91/a27017.html#a6f0ec02c8b1429a6be76465dd9badd1c", null ],
-    [ "PrepareSpellScript", "d4/d91/a27017.html#af2e6c3bfc233ee86fa2c9186cdd6b5a4", null ],
-    [ "Register", "d4/d91/a27017.html#a2a780069022e62b14992a7b69626ac3d", null ]
+    [ "CheckAreaTarget", "d4/d91/a27017.html#a3c2dc43efc37be1b34cba266a478f46e", null ],
+    [ "PrepareAuraScript", "d4/d91/a27017.html#a88c7c19e87106e1bbf6cc5a24a3bc2e4", null ],
+    [ "Register", "d4/d91/a27017.html#a9cbc5794b1ed54fe9313cd161ec5b19f", null ],
+    [ "Validate", "d4/d91/a27017.html#ab18a951259cc74b0ba8319f757e38eca", null ]
 ];

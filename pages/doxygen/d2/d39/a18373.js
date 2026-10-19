@@ -1,7 +1,6 @@
 var a18373 =
 [
-    [ "HandleTriggerSpell", "d2/d39/a18373.html#a7d7f1731c453e5d0b70e6093aeedea87", null ],
-    [ "PrepareAuraScript", "d2/d39/a18373.html#afff0c81696ddcb427ce105d510ef93b1", null ],
-    [ "Register", "d2/d39/a18373.html#aa50c6066115d7b60704eff48e77d10bd", null ],
-    [ "Validate", "d2/d39/a18373.html#a6ef56d3d18bab2f81c810160ecf3ae96", null ]
+    [ "boss_professor_putricideAI", "da/d4e/a18377.html", "da/d4e/a18377" ],
+    [ "boss_professor_putricide", "d2/d39/a18373.html#a80776dad5c0205aa6a98752f43e85e32", null ],
+    [ "GetAI", "d2/d39/a18373.html#a7c84089d24bb0c77a5203884254e0925", null ]
 ];

@@ -1,6 +1,6 @@
 var a21413 =
 [
-    [ "CanBeAppliedOn", "d0/d77/a21413.html#ad92126f58e8ac8c83449725bc29fda8b", null ],
-    [ "PrepareAuraScript", "d0/d77/a21413.html#aaa7631a3d8a5476da6e051de90f34ee4", null ],
-    [ "Register", "d0/d77/a21413.html#a9a3e0c1a86cfc1b9747810cfca76f784", null ]
+    [ "npc_ravenous_furbolgAI", "df/dad/a21417.html", "df/dad/a21417" ],
+    [ "npc_ravenous_furbolg", "d0/d77/a21413.html#a1d7adf8eb055cb6ba82db2f173256fe9", null ],
+    [ "GetAI", "d0/d77/a21413.html#a284c366e6f5bd024d9627a83dd966669", null ]
 ];

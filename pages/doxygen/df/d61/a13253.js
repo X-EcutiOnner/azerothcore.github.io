@@ -1,9 +1,10 @@
 var a13253 =
 [
-    [ "boss_curator", "df/d61/a13253.html#a41b65078d0822ba87f3e40fc7bb10a40", null ],
-    [ "JustDied", "df/d61/a13253.html#a5617f51f51304682d48af11fdb0c6b8b", null ],
-    [ "JustEngagedWith", "df/d61/a13253.html#a848f477a101956662389cab5ffcc0727", null ],
-    [ "JustSummoned", "df/d61/a13253.html#ac779d275e03e6ba190617d215b217ce5", null ],
-    [ "KilledUnit", "df/d61/a13253.html#a9bfb89a8747251e4a84eb2f94a547f0d", null ],
-    [ "Reset", "df/d61/a13253.html#af6fbf3c3d77f9f052f11974f7b54feab", null ]
+    [ "instance_gnomeregan_InstanceMapScript", "df/d61/a13253.html#a0080fdf557ad8159a8934dce5b39a535", null ],
+    [ "OnCreatureCreate", "df/d61/a13253.html#ac607601becc7fbf4ea9c64d87c93287c", null ],
+    [ "OnGameObjectCreate", "df/d61/a13253.html#a0c2f4d615394ef1d6e1b930ed6aff82f", null ],
+    [ "ReadSaveDataMore", "df/d61/a13253.html#a85d3db22430a4bac7e01dcfa1a1efb5b", null ],
+    [ "SetData", "df/d61/a13253.html#af800a1906c532f61f0299f8aa9359a66", null ],
+    [ "WriteSaveDataMore", "df/d61/a13253.html#a1b30829b3c782bb2c52e5da4fa388d5c", null ],
+    [ "_encounters", "df/d61/a13253.html#ae19a56e7fdcb2d0204d444cba11b7441", null ]
 ];

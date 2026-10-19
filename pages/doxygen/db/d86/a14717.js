@@ -1,10 +1,8 @@
 var a14717 =
 [
-    [ "npc_zealot_zath", "db/d86/a14717.html#a845840d0a45dd6c4b6368ee4ecf6917b", null ],
-    [ "JustDied", "db/d86/a14717.html#ae56e2e89a6ba623200e9ee36977cee13", null ],
-    [ "JustEngagedWith", "db/d86/a14717.html#a25e059f40de51d880f4ec209ff4dd924", null ],
-    [ "Reset", "db/d86/a14717.html#abc4e40afd644f2c89444f3fe475817c0", null ],
-    [ "UpdateAI", "db/d86/a14717.html#a467ce2437ec112b42f864ef412c0c976", null ],
-    [ "_scheduler", "db/d86/a14717.html#a146679c4eb3eec444ff1dcd9a780110a", null ],
-    [ "instance", "db/d86/a14717.html#a66dfe3182b45e984b4d81d40051e5ecc", null ]
+    [ "npc_spawn_of_marli", "db/d86/a14717.html#a1dcd5066de108203903f5767c4b375ea", null ],
+    [ "JustEngagedWith", "db/d86/a14717.html#a1b8afff5d90df02d16b81785026b2ff0", null ],
+    [ "Reset", "db/d86/a14717.html#a79ef192d41af75e0dad0494776c75189", null ],
+    [ "UpdateAI", "db/d86/a14717.html#a1c456e7deb43d2e4dd1abc6f702c3f75", null ],
+    [ "_scheduler", "db/d86/a14717.html#ae9d30ec62ff25a454824ff4334ad2d99", null ]
 ];

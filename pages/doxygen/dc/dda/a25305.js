@@ -1,7 +1,6 @@
 var a25305 =
 [
-    [ "HandleScript", "dc/dda/a25305.html#a2e323378559d8f11cbdbcb76e86a25ca", null ],
-    [ "PrepareSpellScript", "dc/dda/a25305.html#ad511986b26dccd1be8206f01458c2b40", null ],
-    [ "Register", "dc/dda/a25305.html#aa8ea297d751913def150dc1e29d37664", null ],
-    [ "Validate", "dc/dda/a25305.html#a81222d8ac4f55175d1dc4d7c359cc331", null ]
+    [ "HandleOnEffectHit", "dc/dda/a25305.html#a07b15e180ee79149cad15b32b3c94359", null ],
+    [ "PrepareSpellScript", "dc/dda/a25305.html#afbea54d2dad7a969d7e7558d43ecbc95", null ],
+    [ "Register", "dc/dda/a25305.html#ad2426cf9076d3fe4f33984ab28df11f6", null ]
 ];

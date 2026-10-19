@@ -1,4 +1,4 @@
 var a04169 =
 [
-    [ "ScriptRegistry< DatabaseScript >", "df/d4b/a04169.html#aea9c85b8c04ac043bf7c7cb880a57d95", null ]
+    [ "CommandScript", "da/db9/a10821.html", "da/db9/a10821" ]
 ];

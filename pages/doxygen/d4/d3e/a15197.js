@@ -1,7 +1,6 @@
 var a15197 =
 [
-    [ "HandleOnHit", "d4/d3e/a15197.html#a9f1d78b4a98bc76877903b79923c1634", null ],
-    [ "PrepareSpellScript", "d4/d3e/a15197.html#afb0a8a16850da30b0fbdb3d10a935f21", null ],
-    [ "Register", "d4/d3e/a15197.html#ab923488eb891e1f9b1f5cb8ed61f3865", null ],
-    [ "Validate", "d4/d3e/a15197.html#a57d85b1702e5c89d72972505121180ed", null ]
+    [ "HandleScriptEffect", "d4/d3e/a15197.html#a3d22cc828a2aa59d45e5d648161926fd", null ],
+    [ "PrepareSpellScript", "d4/d3e/a15197.html#a0ecf5662d9cc1296ebdac82233f1fe7c", null ],
+    [ "Register", "d4/d3e/a15197.html#aee5d9189b6df318b57e919511a185a99", null ]
 ];

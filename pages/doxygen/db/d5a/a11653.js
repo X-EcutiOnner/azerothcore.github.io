@@ -1,11 +1,14 @@
 var a11653 =
 [
-    [ "QuestGiverQuestComplete", "db/d5a/a11653.html#ad7cf8778e608128fad236f9eb7448c66", null ],
-    [ "Write", "db/d5a/a11653.html#ad9a328ee5bc7890bbd904a4d7e60f0ef", null ],
-    [ "Experience", "db/d5a/a11653.html#a2c9b1c07b5a52a5526643a6894290e0c", null ],
-    [ "QuestId", "db/d5a/a11653.html#adc349dfbefc0b5a4c13af4b7746dbfe4", null ],
-    [ "RewardArena", "db/d5a/a11653.html#a035223abc4d17df598dfcbc05f7f0770", null ],
-    [ "RewardHonor", "db/d5a/a11653.html#ab7f2f90b0132e3945f84bf36ba926417", null ],
-    [ "RewardMoney", "db/d5a/a11653.html#ab488d663cb52d92dc0d6c39f1d2e7388", null ],
-    [ "RewardTalents", "db/d5a/a11653.html#a43ee482017cfde3cf8f9f36f2dadf3f0", null ]
+    [ "NameQueryResponse", "db/d5a/a11653.html#a04a03faa1ab655eb87d755b603f7b427", null ],
+    [ "Write", "db/d5a/a11653.html#a8bbf006e3b84b9b47df8f1497a6c4eb8", null ],
+    [ "Class", "db/d5a/a11653.html#acd3c6d5f56924fe32bb8a0bddddce13a", null ],
+    [ "Declined", "db/d5a/a11653.html#abe147a5c99db99148cc3b76136eccb2b", null ],
+    [ "DeclinedNames", "db/d5a/a11653.html#a4d3a2f218c8e1763889cc45adc514f0b", null ],
+    [ "Guid", "db/d5a/a11653.html#ae45b2723b1b5a3313566df2d353114f9", null ],
+    [ "Name", "db/d5a/a11653.html#ad2d16050d9229912105c8f2136538d91", null ],
+    [ "NameUnknown", "db/d5a/a11653.html#ab15e54b3abb638a8782ce4eefa77d489", null ],
+    [ "Race", "db/d5a/a11653.html#a74463c6218d56c913df7f24b7491003f", null ],
+    [ "RealmName", "db/d5a/a11653.html#ab52bc81a49ff62ea23f1dd05e4826f6c", null ],
+    [ "Sex", "db/d5a/a11653.html#ae3f54cab19cf94fef55ef1dcac1f1ad8", null ]
 ];

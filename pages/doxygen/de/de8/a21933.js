@@ -1,6 +1,6 @@
 var a21933 =
 [
-    [ "npc_q24545_lich_kingAI", "dc/de9/a21937.html", "dc/de9/a21937" ],
-    [ "npc_q24545_lich_king", "de/de8/a21933.html#a1864564dee4f66f1b29850b8b0f6fa29", null ],
-    [ "GetAI", "de/de8/a21933.html#aade5ad8ba215d0571185596aa40cf9b2", null ]
+    [ "npc_injured_7th_legion_soldierAI", "dc/de9/a21937.html", "dc/de9/a21937" ],
+    [ "npc_injured_7th_legion_soldier", "de/de8/a21933.html#a9d3c647f485dbca5efeec8f784efba1b", null ],
+    [ "GetAI", "de/de8/a21933.html#a0feca7aedcf3c07253d4d402266189cc", null ]
 ];

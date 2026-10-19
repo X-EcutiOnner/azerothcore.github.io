@@ -1,8 +1,6 @@
 var a17321 =
 [
-    [ "npc_fos_corrupted_soul_fragment", "de/d8c/a17321.html#a1fef6c180e9fc6e8d8d316d45b5066f9", null ],
-    [ "Reset", "de/d8c/a17321.html#ad318f80454cf17b2b9d39a02a83e6e92", null ],
-    [ "UpdateAI", "de/d8c/a17321.html#a8dd94bd36392c75c4971aa50b83a5ada", null ],
-    [ "Instance", "de/d8c/a17321.html#a34d1912b83f9da8335ab3e7d527e5e01", null ],
-    [ "Timer", "de/d8c/a17321.html#a82a7ce4a8d07e7d4dab30d4f11aeb006", null ]
+    [ "boss_trollgoreAI", "d7/dfe/a17325.html", "d7/dfe/a17325" ],
+    [ "boss_trollgore", "de/d8c/a17321.html#a95102f1fae6c667e0780b8b388fc156b", null ],
+    [ "GetAI", "de/d8c/a17321.html#a6da1349da296a3dc3d29527a8e3c2b7d", null ]
 ];

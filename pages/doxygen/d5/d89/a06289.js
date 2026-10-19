@@ -1,16 +1,14 @@
 var a06289 =
 [
-    [ "TransactionBase", "d5/d89/a06289.html#a663d13ba0b22e0711d135073ff80ee47", null ],
-    [ "~TransactionBase", "d5/d89/a06289.html#a6ce7e6ef81bb466463bace35cdd49476", null ],
-    [ "Append", "d5/d89/a06289.html#a867b7a92080104278aef5fb4975a4a52", null ],
-    [ "Append", "d5/d89/a06289.html#aa0a81814abe26d456018c3bc9153cd4d", null ],
-    [ "AppendPreparedStatement", "d5/d89/a06289.html#a8e099a4f8775b5e5e3b95ad0273a716f", null ],
-    [ "Cleanup", "d5/d89/a06289.html#a35e0ce11de325a1b286d90a2936d4aa3", null ],
-    [ "GetSize", "d5/d89/a06289.html#a261ad9d7423562ccbe2cac6d75c203bd", null ],
-    [ "DatabaseWorkerPool", "d5/d89/a06289.html#a5d89109a06fa4fca3057b99bbfa84e58", null ],
-    [ "ModuleDatabasePool", "d5/d89/a06289.html#aaeb95f0085e90a3270c273b1873a587d", null ],
-    [ "MySQLConnection", "d5/d89/a06289.html#a06fa417f69e0a67da8f249333b1d189d", null ],
-    [ "TransactionTask", "d5/d89/a06289.html#a377add6d6b5e34e774d2497d58f4a180", null ],
-    [ "_cleanedUp", "d5/d89/a06289.html#aa82af96128bfcee997423a54396d40d4", null ],
-    [ "m_queries", "d5/d89/a06289.html#a156f1a8316358c05285778e5734eade1", null ]
+    [ "difference_type", "d5/d89/a06289.html#aa5abd2b7fa1dc64ac1eb085521b27d6f", null ],
+    [ "iterator_category", "d5/d89/a06289.html#acaafbe30e2be9953852968b633d8237f", null ],
+    [ "pointer", "d5/d89/a06289.html#a33215a042f7b7ddb243e8434a4c26346", null ],
+    [ "reference", "d5/d89/a06289.html#a5618bd9b42f553be7feaf26fac8fe3ba", null ],
+    [ "value_type", "d5/d89/a06289.html#aa4866b181d8cd3264394657a2dac99a8", null ],
+    [ "ResultIterator", "d5/d89/a06289.html#a0a7d6ac1eee62492330353b15edb4fd0", null ],
+    [ "operator!=", "d5/d89/a06289.html#ad836e2cc7742bdb3b77dc8f6c19c4ad9", null ],
+    [ "operator*", "d5/d89/a06289.html#a4c7ba1d0e7251aeab6b255bf1c78defd", null ],
+    [ "operator++", "d5/d89/a06289.html#ae66f3f0e1fd5af21ff0854826fb37075", null ],
+    [ "operator->", "d5/d89/a06289.html#a0b6cee284fea4a4023cc688614432b69", null ],
+    [ "_ptr", "d5/d89/a06289.html#a0be3611fcc2a6eb680a6f4aaba57068e", null ]
 ];

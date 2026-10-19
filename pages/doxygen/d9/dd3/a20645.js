@@ -1,8 +1,6 @@
 var a20645 =
 [
-    [ "CheckProc", "d9/dd3/a20645.html#ad609f81da8229b5f8c219b3dce4e7602", null ],
-    [ "HandleProc", "d9/dd3/a20645.html#aa3fae300f8738edeb5d68de2608462ab", null ],
-    [ "PrepareAuraScript", "d9/dd3/a20645.html#a21c070876fa64fa8d65db71c90c73747", null ],
-    [ "Register", "d9/dd3/a20645.html#a3aa412142b1809933cc9c2616f9b4ce5", null ],
-    [ "Validate", "d9/dd3/a20645.html#a930130b75796d42866e0459832e7841b", null ]
+    [ "HandleAfterEffectApply", "d9/dd3/a20645.html#af655bb31dc24a3cede08ca371f784913", null ],
+    [ "PrepareAuraScript", "d9/dd3/a20645.html#a1824853d0b369deac0745fabe2df657c", null ],
+    [ "Register", "d9/dd3/a20645.html#a33e7c6cab2c99789661e6bb2d6b9a593", null ]
 ];

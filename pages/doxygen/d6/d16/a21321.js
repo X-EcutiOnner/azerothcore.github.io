@@ -1,10 +1,6 @@
 var a21321 =
 [
-    [ "npc_dragonflayer_forge_master", "d6/d16/a21321.html#a642c0fb5a5010c48403b8c3dc8bc14eb", null ],
-    [ "JustDied", "d6/d16/a21321.html#aa107e88bbc5b55a6ece5124c4081706e", null ],
-    [ "JustEngagedWith", "d6/d16/a21321.html#a3dfb76bb5cb13624e0709f1b25414360", null ],
-    [ "Reset", "d6/d16/a21321.html#af2c844c926b94456df796b4252e899c2", null ],
-    [ "dataId", "d6/d16/a21321.html#a35962dcbbef32dbc7f63dfa33cffd4b4", null ],
-    [ "pInstance", "d6/d16/a21321.html#a27b5988d777347832795581b0186c09f", null ],
-    [ "prevDataId", "d6/d16/a21321.html#aa057cb5ae681b4b802031151ea1a3529", null ]
+    [ "HandleEffectPeriodic", "d6/d16/a21321.html#a3dd6eaa3e5800b92e19c12e47b0ad132", null ],
+    [ "PrepareAuraScript", "d6/d16/a21321.html#a0b24e94cfce6b57d2dc8b36c3fe1c39f", null ],
+    [ "Register", "d6/d16/a21321.html#a4dd779cac93c2f847495dadc67c0beb2", null ]
 ];

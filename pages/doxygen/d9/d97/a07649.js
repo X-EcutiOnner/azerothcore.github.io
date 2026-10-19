@@ -1,10 +1,8 @@
 var a07649 =
 [
-    [ "CreatureBottom", "d9/d97/a07649.html#aaa8fe59aa58bf02934bf87f636582637", null ],
-    [ "CreatureTop", "d9/d97/a07649.html#a98a71fcf0d3a1f98ba4dab56d1a3c64b", null ],
-    [ "GameObject", "d9/d97/a07649.html#abc26a328692fc048d9040c44f360f4c4", null ],
-    [ "nbCreatureBottom", "d9/d97/a07649.html#ade8af6bff39a72f7052b7b0db14b207d", null ],
-    [ "nbCreatureTop", "d9/d97/a07649.html#a38ab7536e0682efd7080b823569d504b", null ],
-    [ "nbObject", "d9/d97/a07649.html#ad1e431e7205aee7fa7f8f0dd9a155c97", null ],
-    [ "towerEntry", "d9/d97/a07649.html#a1c0edf97a599773b688954f2e966e794", null ]
+    [ "WintergraspCapturePoint", "d9/d97/a07649.html#a36090feb3626e204e0029ea45f1d8136", null ],
+    [ "ChangeTeam", "d9/d97/a07649.html#a66564dd3237538b256ebeb76d236001f", null ],
+    [ "GetTeam", "d9/d97/a07649.html#a7ff4106591a5aac1ea8820016b8164bb", null ],
+    [ "LinkToWorkshop", "d9/d97/a07649.html#a32d378eba7f0eea0f011b8ea8c7e6eee", null ],
+    [ "LinkedWorkshop", "d9/d97/a07649.html#a06d98983a020f1f571812cf7ff0f907a", null ]
 ];
